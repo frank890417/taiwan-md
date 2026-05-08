@@ -1,7 +1,157 @@
 {
-  "generatedAt": "2026-05-07T06:38:24.625Z",
+  "generatedAt": "2026-05-08T08:44:02.401Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "0b160dbdc9124f842faacb7ced9611c7561834f7",
+      "date": "2026-05-08T16:31:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: elegant-ptolemy session — 6 PR 一輪 ship (Zaious batch-200 P0 44 篇 + idlccp1984 2 NEW)"
+    },
+    {
+      "hash": "9b94676e619b4bbb41b64b91908be2f0455fc437",
+      "date": "2026-05-08T16:24:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: #885 鶯歌博物館 + #886 合唱團 frontmatter/footnote/§11 polish"
+    },
+    {
+      "hash": "539f2374df221321bfac4ba1edc994bc97a89e43",
+      "date": "2026-05-08T16:18:49+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [contrib] feat: 鶯歌陶瓷博物館 NEW Art (#885)"
+    },
+    {
+      "hash": "92f7d509863b22bbdfbffcdfeb011d6975bbc36a",
+      "date": "2026-05-08T16:18:41+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [contrib] feat: 台灣合唱團 NEW Music — 從榮星到亞洲五強 (#886)"
+    },
+    {
+      "hash": "fe72b479d89adefd344f12c6669bf165d616f196",
+      "date": "2026-05-08T16:16:10+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #892 from frank890417/claude/elegant-ptolemy-f2cf4f"
+    },
+    {
+      "hash": "eecc94331c09549146cbdcfdf924c81b96e6f9d3",
+      "date": "2026-05-08T16:12:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #891: Tier C 9 篇輕度補引用 + frontmatter 升級"
+    },
+    {
+      "hash": "2568cc5f7c6308f138a416904b8d44be1b6a1cd9",
+      "date": "2026-05-08T16:12:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #890: Tier B 24 篇中度幻覺修補 + 引用補強"
+    },
+    {
+      "hash": "04d3370d02db9186c0be7be1041473c9a179a526",
+      "date": "2026-05-08T16:12:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #889: Tier A 10 篇嚴重幻覺修補 + v5.6 結構紀律"
+    },
+    {
+      "hash": "5c11472277bc09d80e9f0d2127919723d52fcca0",
+      "date": "2026-05-08T16:12:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #888: 王建民 — 修 2 幻覺 + 補 8 引用 + B 升 A 級"
+    },
+    {
+      "hash": "8ca78f244b68bd7564c90f84516eb2506d23d4e9",
+      "date": "2026-05-08T09:33:04+08:00",
+      "author": "Zaious",
+      "message": "fix(batch-200/P0/tier-C): 9 篇輕度補引用 + 近況更新 + frontmatter 升級"
+    },
+    {
+      "hash": "fd8b79baa8227a9b872d45b0f2fe831e6f0274af",
+      "date": "2026-05-08T09:32:33+08:00",
+      "author": "Zaious",
+      "message": "fix(batch-200/P0/tier-B): 24 篇中度幻覺修補 + v5.6 結構紀律分層"
+    },
+    {
+      "hash": "bb98c49dc2751050f44899878aacf5b01ce5775a",
+      "date": "2026-05-08T09:31:44+08:00",
+      "author": "Zaious",
+      "message": "fix(people/P0/tier-A): 10 篇嚴重幻覺修補 + v5.6 結構紀律全做"
+    },
+    {
+      "hash": "a73489f3371d0e663c82d913ff2e9ab3cfecdf02",
+      "date": "2026-05-08T09:30:42+08:00",
+      "author": "Zaious",
+      "message": "fix(people/P0/B5): 王建民 — 修 2 幻覺 + 補 8 引用 + B 升 A 級全面改寫"
+    },
+    {
+      "hash": "6f3aff5ed8b379befbf67db0fca5fcd7197cc7b4",
+      "date": "2026-05-07T23:01:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] feat: add Paraguay and Taiwan article"
+    },
+    {
+      "hash": "2285fe63f6d014b2eb876e84386d7f21f33b9ecd",
+      "date": "2026-05-07T20:54:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: δ session + LGBTQ+ EVOLVE Stage 1 research (2026-05-07)"
+    },
+    {
+      "hash": "5083ec5ca6dd4e73c30c54266ccad9848e10a965",
+      "date": "2026-05-07T20:42:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] data: refresh dashboard + sync src/content (2026-05-07 δ heartbeat)"
+    },
+    {
+      "hash": "49074291978722aae91b65ee2341c98cfdfa50e4",
+      "date": "2026-05-07T15:32:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [twmd-rewrite] merge 阿志頭 into 台灣髮型介紹 + 404 redirects"
+    },
+    {
+      "hash": "45342580b7bad857fae010f3176e2902ca3dc297",
+      "date": "2026-05-07T14:51:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: γ session + CONSCIOUSNESS immune score algorithm context"
+    },
+    {
+      "hash": "1daef259d9911d71698e5f3fe0b9ae44fdffefd2",
+      "date": "2026-05-07T14:46:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-05-07-104657-β — cron heartbeat (PR #882 + 5-lang babel batch)"
+    },
+    {
+      "hash": "a734813b87e26733d069a0a08e5586abb864f611",
+      "date": "2026-05-07T14:46:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: changelog + map-markers + about.ts stats update"
+    },
+    {
+      "hash": "f78d71e0ae491e6d94b10f1ec0a75049e2e5ddfd",
+      "date": "2026-05-07T14:46:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: BECOME §10 high-stake操作強制BECOME規則 (2026-05-07 β session)"
+    },
+    {
+      "hash": "2dc3d093899a20d84ee256160c316c1a37c9f210",
+      "date": "2026-05-07T14:46:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] data: refresh dashboard snapshots (2026-05-07 γ heartbeat)"
+    },
+    {
+      "hash": "3706a5390f0b518b04a8c1007987b6a8bf9743f1",
+      "date": "2026-05-07T14:46:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: sync src/content from knowledge/ (frontmatter formatter + babel batch)"
+    },
+    {
+      "hash": "130e77f156054e877e4d2d4b01cd662da1fb96fe",
+      "date": "2026-05-07T14:45:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: β session 7 knowledge translations (EN/ES/FR/JA/KO)"
+    },
+    {
+      "hash": "f99a9959cd1ea0b473dfa96d10d253b9ab98f709",
+      "date": "2026-05-07T12:53:11+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [heal] frontmatter-format auto-fix + bulk repair 377 articles (#884)"
+    },
     {
       "hash": "36445b79de4a7d0acce4600956ae86d967171384",
       "date": "2026-05-07T12:02:53+08:00",

@@ -1,8 +1,8 @@
 {
-  "totalArticles": 4126,
+  "totalArticles": 4128,
   "totalCategories": 20,
-  "estimatedContributors": 57,
-  "totalTags": 5535,
+  "estimatedContributors": 276,
+  "totalTags": 5668,
   "categories": [
     {
       "name": "es",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Music",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Food",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Art",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Nature",
@@ -88,7 +88,7 @@
   "topTags": [
     {
       "name": "人物",
-      "count": 90
+      "count": 81
     },
     {
       "name": "Economy",
@@ -112,7 +112,7 @@
     },
     {
       "name": "半導體",
-      "count": 25
+      "count": 26
     },
     {
       "name": "인물",
@@ -123,20 +123,20 @@
       "count": 24
     },
     {
+      "name": "ODM",
+      "count": 24
+    },
+    {
       "name": "AI",
       "count": 24
     },
     {
-      "name": "ODM",
+      "name": "金曲獎",
       "count": 23
     },
     {
       "name": "政治人物",
       "count": 23
-    },
-    {
-      "name": "金曲獎",
-      "count": 22
     },
     {
       "name": "文化",
@@ -145,6 +145,10 @@
     {
       "name": "台灣",
       "count": 22
+    },
+    {
+      "name": "教育",
+      "count": 21
     },
     {
       "name": "歷史",
@@ -159,22 +163,13 @@
       "count": 20
     },
     {
-      "name": "Économie",
+      "name": "原住民族",
       "count": 20
-    },
-    {
-      "name": "原住民",
-      "count": 19
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4126,
+    "zh-TW": 4128,
     "en": 0
   },
-  "lastUpdated": "2026-05-07T12:38:10.265Z",
-  "stars": 973,
-  "forks": 144,
-  "zhPages": 3428,
-  "enPages": 698,
-  "totalPages": 4126
+  "lastUpdated": "2026-05-08T08:44:03.201Z"
 }

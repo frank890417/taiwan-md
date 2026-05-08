@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-07T12:38:08.234Z",
-  "languages": ["en", "ja", "ko", "es", "fr"],
+  "generated_at": "2026-05-08T08:44:02.370Z",
+  "languages": [
+    "en",
+    "ja",
+    "ko",
+    "es",
+    "fr"
+  ],
   "total_entries": 10117,
   "registry": {
     "en": {

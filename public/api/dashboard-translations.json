@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T14:43:21.698Z",
+  "lastUpdated": "2026-05-08T08:44:03.444Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,9 +10,9 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 681,
+      "total": 683,
       "percentage": 100,
-      "fresh": 681,
+      "fresh": 683,
       "stale": 0,
       "missing": 0,
       "deficit": 0
@@ -118,41 +118,41 @@
       }
     },
     "art": {
-      "zh-TW": 30,
+      "zh-TW": 31,
       "en": {
         "count": 29,
         "fresh": 25,
         "stale": 4,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       },
       "ja": {
         "count": 29,
         "fresh": 25,
         "stale": 4,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       },
       "ko": {
         "count": 29,
         "fresh": 25,
         "stale": 4,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       },
       "es": {
         "count": 29,
         "fresh": 25,
         "stale": 4,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       },
       "fr": {
         "count": 29,
         "fresh": 25,
         "stale": 4,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       }
     },
     "culture": {
@@ -384,41 +384,41 @@
       }
     },
     "music": {
-      "zh-TW": 29,
+      "zh-TW": 30,
       "en": {
         "count": 24,
         "fresh": 15,
         "stale": 9,
         "missing": 0,
-        "deficit": 5
+        "deficit": 6
       },
       "ja": {
         "count": 24,
         "fresh": 15,
         "stale": 9,
         "missing": 0,
-        "deficit": 5
+        "deficit": 6
       },
       "ko": {
         "count": 24,
         "fresh": 15,
         "stale": 9,
         "missing": 0,
-        "deficit": 5
+        "deficit": 6
       },
       "es": {
         "count": 24,
         "fresh": 15,
         "stale": 9,
         "missing": 0,
-        "deficit": 5
+        "deficit": 6
       },
       "fr": {
         "count": 24,
         "fresh": 15,
         "stale": 9,
         "missing": 0,
-        "deficit": 5
+        "deficit": 6
       }
     },
     "nature": {
@@ -576,42 +576,50 @@
   },
   "missing": {
     "en": [
+      "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
+      "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "People/尊：從「黃毛豬」到台灣最年輕百萬 YouTuber，在清流標籤下的孤獨實驗.md",
       "People/陳致中：從第一家庭光環到「排黑條款」下的政治浮沉.md",
       "Society/台北鼠患：從 1896 年總督府的鼠疫令，到 2026 年大安區的漢他病毒.md",
       "Society/台灣與立陶宛：在民主價值與地緣政治現實間協商的夥伴關係.md",
+      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md",
       "Society/想想論壇：14 年從敗選總統的試金石到跨黨派民主對話的容器.md",
       "Society/泛科學：從科學新聞黑洞到演算法裡的知識工業.md",
-      "Technology/半導體產業.md",
-      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md"
+      "Technology/半導體產業.md"
     ],
     "ja": [
+      "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
+      "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
       "Culture/斗笠：龍肚國中旁那對夫妻，把六十年的桂竹編進一頂帽子裡.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "People/尊：從「黃毛豬」到台灣最年輕百萬 YouTuber，在清流標籤下的孤獨實驗.md",
       "People/陳致中：從第一家庭光環到「排黑條款」下的政治浮沉.md",
       "Society/台北鼠患：從 1896 年總督府的鼠疫令，到 2026 年大安區的漢他病毒.md",
       "Society/台灣與立陶宛：在民主價值與地緣政治現實間協商的夥伴關係.md",
+      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md",
       "Society/想想論壇：14 年從敗選總統的試金石到跨黨派民主對話的容器.md",
       "Society/泛科學：從科學新聞黑洞到演算法裡的知識工業.md",
       "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md",
-      "People/鄭麗文.md",
-      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md"
+      "People/鄭麗文.md"
     ],
     "ko": [
+      "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
+      "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
       "Culture/斗笠：龍肚國中旁那對夫妻，把六十年的桂竹編進一頂帽子裡.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "People/尊：從「黃毛豬」到台灣最年輕百萬 YouTuber，在清流標籤下的孤獨實驗.md",
       "People/陳致中：從第一家庭光環到「排黑條款」下的政治浮沉.md",
       "Society/台北鼠患：從 1896 年總督府的鼠疫令，到 2026 年大安區的漢他病毒.md",
       "Society/台灣與立陶宛：在民主價值與地緣政治現實間協商的夥伴關係.md",
+      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md",
       "Society/想想論壇：14 年從敗選總統的試金石到跨黨派民主對話的容器.md",
       "Society/泛科學：從科學新聞黑洞到演算法裡的知識工業.md",
-      "People/鄭麗文.md",
-      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md"
+      "People/鄭麗文.md"
     ],
     "es": [
+      "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
+      "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
       "Culture/斗笠：龍肚國中旁那對夫妻，把六十年的桂竹編進一頂帽子裡.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "Lifestyle/台灣髮型介紹：從髮禁到迷因的社會刻度.md",
@@ -619,21 +627,23 @@
       "People/陳致中：從第一家庭光環到「排黑條款」下的政治浮沉.md",
       "Society/台北鼠患：從 1896 年總督府的鼠疫令，到 2026 年大安區的漢他病毒.md",
       "Society/台灣與立陶宛：在民主價值與地緣政治現實間協商的夥伴關係.md",
+      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md",
       "Society/想想論壇：14 年從敗選總統的試金石到跨黨派民主對話的容器.md",
       "Society/泛科學：從科學新聞黑洞到演算法裡的知識工業.md",
-      "People/鄭麗文.md",
-      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md"
+      "People/鄭麗文.md"
     ],
     "fr": [
+      "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
+      "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "Lifestyle/台灣髮型介紹：從髮禁到迷因的社會刻度.md",
       "People/尊：從「黃毛豬」到台灣最年輕百萬 YouTuber，在清流標籤下的孤獨實驗.md",
       "People/陳致中：從第一家庭光環到「排黑條款」下的政治浮沉.md",
       "Society/台北鼠患：從 1896 年總督府的鼠疫令，到 2026 年大安區的漢他病毒.md",
       "Society/台灣與立陶宛：在民主價值與地緣政治現實間協商的夥伴關係.md",
+      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md",
       "Society/想想論壇：14 年從敗選總統的試金石到跨黨派民主對話的容器.md",
-      "Society/泛科學：從科學新聞黑洞到演算法裡的知識工業.md",
-      "Society/巴拉圭與台灣：南美洲唯一邦交，六十九年的現實夥伴.md"
+      "Society/泛科學：從科學新聞黑洞到演算法裡的知識工業.md"
     ]
   },
   "statusSource": "translation-status.json",
