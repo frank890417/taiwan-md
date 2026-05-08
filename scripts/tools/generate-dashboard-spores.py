@@ -235,19 +235,57 @@ def parse_metrics_rows(raw_rows):
     return metrics
 
 
-def merge_publish_and_metrics(pubs, metrics):
-    """Inner-merge publish entries with metrics, return full enriched list."""
+def merge_publish_and_metrics(pubs, metrics, harvests=None):
+    """Inner-merge publish entries with SPORE-LOG metrics. Phase 2 (2026-05-08):
+    when a `harvests` map is provided, also pull in latest D+N body table data as
+    supplementary fallback — so spores with harvest body data but missing SPORE-LOG
+    struct cols still surface views/engagements in the dashboard.
+
+    Priority for views_latest:
+      1. SPORE-LOG narrative (parse_latest_views_from_harvest)
+      2. SPORE-HARVESTS body table latest D+N views (Phase 2 fallback)
+
+    Priority for views_7d:
+      1. SPORE-LOG struct col `7d 觸及` (parsed by parse_metrics_rows)
+      2. SPORE-HARVESTS body latest D+N where d_n_int >= 7 (Phase 2 fallback)
+    """
+    harvests = harvests or {}
     for e in pubs:
         key = (e["n"], e["platform"])
         m = metrics.get(key) or {}
-        # views_effective: 7d if available, else latest harvest fallback (D+0/D+3)
-        views_eff = m.get("views_7d") or m.get("views_latest")
+
+        # Phase 2: fetch latest harvest body for this spore #
+        body = latest_harvest_body(harvests, e["n"])
+        body_views = _body_views(body) if body else None
+        body_eng = _body_engagements(body) if body else None
+        body_d_n = (body or {}).get("d_n_int", 0)
+
+        # views_latest: SPORE-LOG narrative wins; else fall back to body
+        views_latest = m.get("views_latest") or body_views
+
+        # views_7d: SPORE-LOG struct wins; else fall back to body if D+N >= 7
+        views_7d = m.get("views_7d")
+        if not views_7d and body_views and body_d_n >= 7:
+            views_7d = body_views
+
+        # engagements_7d: similar logic
+        engagements_7d = m.get("engagements_7d")
+        if not engagements_7d and body_eng and body_d_n >= 7:
+            engagements_7d = body_eng
+
+        # rate_7d: recompute if we filled views_7d/engagements_7d from body
+        rate_7d = m.get("rate_7d")
+        if not rate_7d and views_7d and engagements_7d:
+            rate_7d = round(engagements_7d / max(views_7d, 1) * 100, 2)
+
+        views_eff = views_7d or views_latest
+
         e.update({
-            "views_7d": m.get("views_7d"),
-            "views_latest": m.get("views_latest"),
+            "views_7d": views_7d,
+            "views_latest": views_latest,
             "views_effective": views_eff,
-            "engagements_7d": m.get("engagements_7d"),
-            "rate_7d": m.get("rate_7d"),
+            "engagements_7d": engagements_7d,
+            "rate_7d": rate_7d,
             "referral_7d": m.get("referral_7d"),
             "notes": m.get("notes"),
         })
@@ -256,8 +294,39 @@ def merge_publish_and_metrics(pubs, metrics):
 
 # ───────────────────────────────── harvest log parse ─────────────────────────────────
 
+
+# Phase 2 (2026-05-08 laughing-goldstine): SPORE-HARVESTS body table column normalization
+# Schema variation across batch logs handled here so we don't break old logs.
+_HARVEST_COL_ALIASES = {
+    "#": "n",
+    "slug": "slug",
+    "文章": "slug",
+    "platform": "platform",
+    "平台": "platform",
+    "d+n": "d_n",
+    "views": "views",
+    "views (抓取時)": "views",
+    "views (exact)": "views",
+    "likes": "likes",
+    "reposts": "reposts",
+    "comments": "comments",
+    "shares": "shares",
+    "shares/bm": "shares",
+    "engagements": "engagements",
+    "rate": "rate",
+    "互動率": "rate",
+}
+
+
+def _normalize_harvest_col(col):
+    return _HARVEST_COL_ALIASES.get(col.strip().lower(), col.strip().lower())
+
+
 def parse_harvest_frontmatter(md_path):
-    """Read harvest log frontmatter YAML-lite. Returns dict or None."""
+    """Read harvest log frontmatter YAML-lite. Returns dict or None.
+
+    Phase 2: handle both `spore` (legacy singular) and `spores` (canonical plural list).
+    """
     try:
         text = md_path.read_text(encoding="utf-8")
     except Exception:
@@ -276,8 +345,67 @@ def parse_harvest_frontmatter(md_path):
     return fm
 
 
+def parse_harvest_body_table(md_path):
+    """Phase 2: Parse the FIRST markdown pipe-table in batch log body.
+
+    Returns: list of dicts keyed by normalized column name (n, slug, platform, d_n,
+    views, likes, reposts, comments, shares, engagements, rate). None if no parseable.
+
+    Schema-tolerant: accepts variation across legacy batch logs via column aliases.
+    """
+    try:
+        text = md_path.read_text(encoding="utf-8")
+    except Exception:
+        return None
+    if text.startswith("---"):
+        end = text.find("---", 3)
+        if end != -1:
+            text = text[end + 3:]
+
+    table_lines = []
+    in_table = False
+    for line in text.splitlines():
+        s = line.strip()
+        if s.startswith("|") and s.endswith("|"):
+            table_lines.append(s)
+            in_table = True
+        elif in_table and not s.startswith("|"):
+            break
+
+    if len(table_lines) < 3:
+        return None
+
+    headers = [_normalize_harvest_col(h) for h in
+               (c.strip() for c in table_lines[0].strip("|").split("|"))]
+    rows = []
+    for line in table_lines[2:]:
+        cells = [c.strip() for c in line.strip("|").split("|")]
+        if len(cells) != len(headers):
+            continue
+        row = dict(zip(headers, cells))
+        n_str = (row.get("n") or "").strip()
+        if not n_str.isdigit():
+            continue
+        # parse d_n integer (D+10 → 10)
+        d_n_str = (row.get("d_n") or "").strip().lstrip("D+").strip()
+        row["d_n_int"] = int(d_n_str) if d_n_str.isdigit() else 0
+        rows.append(row)
+
+    return rows if rows else None
+
+
+def _spore_ns_from_frontmatter(fm):
+    """Extract list of spore #s from frontmatter `spore` (singular) OR `spores` (plural)."""
+    spore_str = fm.get("spores") or fm.get("spore") or ""
+    return [int(tok) for tok in re.findall(r"#?(\d+)", spore_str)]
+
+
 def collect_harvests():
-    """Walk SPORE-HARVESTS/ and return {spore_n: [harvest_logs_metadata]}."""
+    """Walk SPORE-HARVESTS/, return {spore_n: [harvest_log_metadata]}.
+
+    Phase 2 (2026-05-08): handles `spores` plural list + body table parse.
+    Each entry now also includes `body` (parsed dict for that spore # from body table).
+    """
     out = defaultdict(list)
     if not HARVESTS_DIR.exists():
         return out
@@ -285,17 +413,92 @@ def collect_harvests():
         fm = parse_harvest_frontmatter(p)
         if not fm:
             continue
-        spore_str = fm.get("spore", "").lstrip("#")
-        if not spore_str.isdigit():
+        spore_ns = _spore_ns_from_frontmatter(fm)
+        if not spore_ns:
             continue
-        n = int(spore_str)
-        out[n].append({
-            "harvest_date": fm.get("harvest_date"),
-            "harvest_window_day": fm.get("harvest_window_day"),
-            "reply_count": int(fm.get("reply_count", "0") or 0) if (fm.get("reply_count") or "").strip().split(" ")[0].isdigit() else None,
-            "log_path": str(p.relative_to(REPO_ROOT)),
-        })
+
+        # Parse body table once, index by spore #
+        body_rows = parse_harvest_body_table(p) or []
+        body_by_n = {}
+        for row in body_rows:
+            try:
+                n = int(row["n"])
+                # Multiple D+N rows possible; keep highest D+N (latest)
+                if n not in body_by_n or body_by_n[n].get("d_n_int", -1) < row.get("d_n_int", 0):
+                    body_by_n[n] = row
+            except (ValueError, KeyError):
+                continue
+
+        reply_count_str = (fm.get("reply_count") or "").strip().split(" ")[0]
+        reply_count = int(reply_count_str) if reply_count_str.isdigit() else None
+        for n in spore_ns:
+            out[n].append({
+                "harvest_date": fm.get("harvest_date"),
+                "harvest_window_day": fm.get("harvest_window_day"),
+                "reply_count": reply_count,
+                "log_path": str(p.relative_to(REPO_ROOT)),
+                "body": body_by_n.get(n),
+            })
     return out
+
+
+def _body_views(body_row):
+    """Extract integer views from body table row. None if absent/unparseable."""
+    if not body_row:
+        return None
+    raw = body_row.get("views", "")
+    if not raw:
+        return None
+    s = raw.strip().replace(",", "").replace("*", "").replace(" ", "")
+    if not s or s in ("—", "-", "no-data", "n/a"):
+        return None
+    m = re.match(r"^([\d.]+)([KkMm]?)", s)
+    if not m:
+        return None
+    try:
+        n = float(m.group(1))
+    except ValueError:
+        return None
+    suf = m.group(2).upper()
+    if suf == "K":
+        n *= 1_000
+    elif suf == "M":
+        n *= 1_000_000
+    return int(n)
+
+
+def _body_engagements(body_row):
+    """Compute engagements from body row (engagements col OR sum of likes+reposts+comments+shares)."""
+    if not body_row:
+        return None
+    eng_raw = body_row.get("engagements", "")
+    if eng_raw:
+        m = re.match(r"^[\d,]+", eng_raw.strip())
+        if m:
+            return int(m.group(0).replace(",", ""))
+    total = 0
+    found = False
+    for k in ("likes", "reposts", "comments", "shares"):
+        raw = body_row.get(k, "")
+        m = re.match(r"^[\d,]+", raw.strip()) if raw else None
+        if m:
+            try:
+                total += int(m.group(0).replace(",", ""))
+                found = True
+            except ValueError:
+                pass
+    return total if found else None
+
+
+def latest_harvest_body(harvests, n):
+    """Return latest harvest body row for spore #n (by d_n_int, then harvest_date)."""
+    entries = harvests.get(n, [])
+    bodies = [(e.get("body"), e.get("harvest_date") or "") for e in entries if e.get("body")]
+    if not bodies:
+        return None
+    # Sort by (d_n_int desc, harvest_date desc)
+    bodies.sort(key=lambda t: (t[0].get("d_n_int", 0), t[1]), reverse=True)
+    return bodies[0][0]
 
 
 # ───────────────────────────────── aggregations ─────────────────────────────────
@@ -578,9 +781,8 @@ def main():
 
     publishes = parse_publish_rows(pub_rows)
     metrics = parse_metrics_rows(metric_rows)
-    entries = merge_publish_and_metrics(publishes, metrics)
-
     harvest_map = collect_harvests()
+    entries = merge_publish_and_metrics(publishes, metrics, harvest_map)
 
     bf = compute_backfill_warnings(entries)
     result = {
