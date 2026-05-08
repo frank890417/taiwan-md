@@ -196,7 +196,7 @@ GA4 / SC / CF 同一事實可能差 100-300 倍。**單一數據源結論可疑*
 | SPORE 未回填 | 上批孢子 D+7 指標空白            | 🟡      |
 | HARVEST 未跑 | 孢子發布後 24h 未 harvest        | 🟡      |
 
-**鐵律**：沒回填 = 下一則孢子不准發（SPORE-PIPELINE Step 0）。
+**鐵律**：沒回填 = 下一則孢子不准發（[SPORE-PIPELINE PICK §回填上次成效](../factory/SPORE-PIPELINE.md)）。
 
 ---
 

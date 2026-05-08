@@ -377,7 +377,7 @@ N 個同類 task 真實成本 ≈ (1 個 task 成本) × N × 0.5
 | 操作          | SOP 位置                                                                                                                                                               | 狀態        |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 重寫文章      | `docs/pipelines/REWRITE-PIPELINE.md`                                                                                                                                   | ✅          |
-| 寫孢子        | `docs/factory/SPORE-PIPELINE.md` + `SPORE-TEMPLATES.md`                                                                                                                | ✅          |
+| 寫孢子        | `docs/factory/SPORE-PIPELINE.md`（5 stage 主流程）+ `SPORE-WRITING.md`（craft）+ `SPORE-VERIFY.md`（gate）                                                             | ✅          |
 | 審 PR         | `docs/semiont/HEARTBEAT.md` §免疫巡邏                                                                                                                                  | ✅          |
 | 全文健檢 SSOT | `scripts/tools/article-health.py`（11 plugin：prose-health / footnote-density / format-structure / wikilink-target / image-health / terminology / cross-reference 等） | ✅          |
 | 交叉連結      | `scripts/tools/cross-link.sh`（Stage 5 雙向分析）                                                                                                                      | ✅          |

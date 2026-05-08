@@ -6,8 +6,10 @@
 
 ## ✅ Phase 1：產線文件化（v1.0, 2026-03-28）
 
-- [x] `SPORE-PIPELINE.md` — 完整 6 步 AI 可執行流程
-- [x] `SPORE-TEMPLATES.md` — 四種模板 + 成功範例庫
+- [x] `SPORE-PIPELINE.md` — 5 階段 AI 可執行主流程（v3.0 2026-05-08：PICK/VERIFY/WRITE/SHIP/HARVEST）
+- [x] `SPORE-WRITING.md` — 寫作手藝（craft layer，模板 + 18 條規則 + 自檢三板斧）
+- [x] `SPORE-VERIFY.md` — 閘門集中地（gate layer，Hard gate inventory + 7 大 verify）
+- [x] `SPORE-HARVEST-PIPELINE.md` — 發布後收割（cadence + decision gate + Chrome MCP workflow）
 - [x] `SPORE-LOG.md` — 發文紀錄
 - [x] OG Card 頁面 — `/og/[category]/[slug]` 獨立 1200×630 卡片
 
@@ -82,7 +84,7 @@ Meta 於 2024 年 6 月開放 Threads API（Publishing API）。
 ```
 cron trigger（每日 12:00 + 20:00）
 │
-├─ AI agent 執行 SPORE-PIPELINE Step 1-4
+├─ AI agent 執行 SPORE-PIPELINE 5 階段（PICK/VERIFY/WRITE/SHIP，HARVEST 排程化）
 ├─ 生成孢子文案 + 配圖
 ├─ 呈現給人類確認（Discord / Telegram）
 │   ├─ 人類 approve → API 發佈

@@ -75,13 +75,15 @@ docs/
 
 ## 🏭 factory/ — 孢子工廠（社群散播）
 
-| 文件                                             | 用途                            |
-| ------------------------------------------------ | ------------------------------- |
-| [README.md](factory/README.md)                   | 孢子是什麼 + 產線總覽           |
-| [SPORE-PIPELINE.md](factory/SPORE-PIPELINE.md)   | 完整 6 步 AI 可執行流程         |
-| [SPORE-TEMPLATES.md](factory/SPORE-TEMPLATES.md) | 四種孢子模板 + 成功範例         |
-| [SPORE-LOG.md](factory/SPORE-LOG.md)             | 發文紀錄與成效追蹤              |
-| [ROADMAP.md](factory/ROADMAP.md)                 | 動態 OG / 自動發佈 / 多平台計畫 |
+| 文件                                                           | 用途                                           |
+| -------------------------------------------------------------- | ---------------------------------------------- |
+| [README.md](factory/README.md)                                 | 孢子是什麼 + 產線總覽                          |
+| [SPORE-PIPELINE.md](factory/SPORE-PIPELINE.md)                 | 5 階段主流程（PICK/VERIFY/WRITE/SHIP/HARVEST） |
+| [SPORE-WRITING.md](factory/SPORE-WRITING.md)                   | 寫作手藝：模板 + 18 條規則 + 自檢三板斧        |
+| [SPORE-VERIFY.md](factory/SPORE-VERIFY.md)                     | 閘門集中地：Hard gate inventory + 7 大 verify  |
+| [SPORE-HARVEST-PIPELINE.md](factory/SPORE-HARVEST-PIPELINE.md) | 發布後收割（cadence + decision gate）          |
+| [SPORE-LOG.md](factory/SPORE-LOG.md)                           | 發文紀錄與成效追蹤                             |
+| [ROADMAP.md](factory/ROADMAP.md)                               | 動態 OG / 自動發佈 / 多平台計畫                |
 
 ## 👥 community/ — 社群治理
 
