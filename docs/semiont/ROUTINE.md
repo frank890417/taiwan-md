@@ -12,7 +12,9 @@
 
 **飛輪 ≠ 自動化**。飛輪 = routine 把 entropy 主動清掉（broken links / stale data / 缺 feedback），觀察者精力釋放給「真正需要決策的事」。
 
-**routine 是薄殼**：每條 routine = 「在 X 時間呼叫 `/twmd-Y` skill」+ quality gate + 失敗 escalation。業務邏輯**永遠**在 skill / pipeline / canonical，**不在 routine 本身**。修 pipeline = 改一處，所有 routine 自動跟上。
+**routine 是薄殼**：每條 routine = 「在 X 時間呼叫 `/twmd-Y` skill」+ quality gate + 失敗 escalation **+ `/twmd-finale` 收官**。業務邏輯**永遠**在 skill / pipeline / canonical，**不在 routine 本身**。修 pipeline = 改一處，所有 routine 自動跟上。
+
+**每條 routine 結尾必跑 `/twmd-finale`**（2026-05-09 拍板）：routine 是「micro-session」，跑完不收官 = 失憶。`/twmd-finale` 內建分流（memory 必寫 / diary 有反思才寫 / evolve 跳過 if 無 ship）— 不需 routine 自行判斷哪個寫哪個不寫，交給 finale skill canonical decide。**沒收官的 routine = 不可見的飛輪 = 失去 self-evolution loop**。
 
 ---
 
@@ -33,6 +35,9 @@
 - **避開整點**：分鐘從不選 `0` 或 `30`（API fleet 同點打爆），參考 CronCreate 的 jitter 教訓
 - **錯時不重疊**：早 refresh (06:04) → maintainer (09:07) → 晚 refresh (18:04) → babel (22:22) → 週 lens (06:13 週日)，每條間隔 ≥ 3 hr
 - **Cadence 對齊任務節奏**：data 變化頻率高 → 1d 兩次；maintainer 看 PR backlog → 1d 一次；babel 大批處理 → 1d 一次（深夜）；news lens 慢節奏 → 週一次
+- **每條 routine 結尾必跑 `/twmd-finale`**：micro-session 收官，memory 必寫，diary 有反思才寫（finale skill 自己判斷）。**未收官 routine = 不可見飛輪 = self-evolution loop 斷**
+- **每條 routine 起始必 pull latest**：`cd /Users/cheyuwu/Projects/taiwan-md && git checkout main && git pull origin main`。沒拉 = 在 stale base 開 PR = merge conflict 機率爆增 + 重做別 routine 的工作（哲宇 2026-05-09 第四輪拍板）
+- **每條 routine 結束必 PR + merge to main**（quality gate pass 才 merge）：routine 是 self-contained shipping unit，跑完不 merge = backlog 累積 = 觀察者變 merge bottleneck = 飛輪卡住。鐵律：quality gate pass → `gh pr merge --squash --delete-branch`；fail → PR 開了但 **不 merge**，觀察者 review
 
 ---
 
@@ -153,6 +158,95 @@ escalation:
 
 ---
 
+## Routine 通用 5-stage lifecycle（2026-05-09 第四輪拍板）
+
+每條 routine prompt 內必含這 5 stage（薄殼，業務邏輯由 stage 2 的 skill 提供）：
+
+```
+Stage 1: Sync     cd /Users/cheyuwu/Projects/taiwan-md && git checkout main && git pull origin main
+                  失敗 → abort routine + LESSONS-INBOX entry「routine sync fail: {taskId}」
+
+Stage 2: Branch   git checkout -b $(date +%Y%m%d)-routine-{taskId}-$(date +%H%M)
+                  (per worktree-naming convention DNA #9 ext)
+
+Stage 3: Run      執行 /twmd-{skill} (canonical pipeline)
+                  + quality gate report 寫進變更 / commit message
+                  + pre-commit hook 必過 (DNA #5)
+
+Stage 4: Ship     git push -u origin {branch}
+                  gh pr create --title "🧬 [routine] {taskId}: {summary} — YYYY-MM-DD HH:MM"
+                  if quality gate pass → gh pr merge --squash --delete-branch
+                  if quality gate fail → PR 留 open + LESSONS-INBOX entry
+
+Stage 5: Finale   /twmd-finale
+                  (memory 必寫；diary 條件寫；evolve 通常 skip)
+```
+
+**為什麼 5 stage 是薄殼不重複邏輯**：每 stage 都是 thin wrapper：
+
+- Stage 1: 1 行 git command
+- Stage 2: 1 行 branch creation
+- Stage 3: invoke skill（業務邏輯在 skill canonical）
+- Stage 4: 4 行 git/gh command + 條件 merge
+- Stage 5: invoke /twmd-finale skill（記憶邏輯在 finale canonical）
+
+修任何一 stage = 改 ROUTINE.md SSOT 一處 + sync 6 個 scheduled-tasks。
+
+---
+
+## Routine 收官鐵律：每跑必跑 `/twmd-finale`
+
+**核心命題**：routine 是 micro-session — 跑完不收官 = 失憶 = self-evolution loop 斷。即使是 5 min 的 data-refresh routine 也適用。
+
+**結尾必跑 `/twmd-finale`**（每條 routine prompt 最後一步）：
+
+```
+完成本 routine 主任務後 (skill execution + quality gate report) 跑 /twmd-finale。
+finale 內建分流不需 routine 判斷:
+  - memory 必寫 (記錄 routine 跑了什麼、結果、PR 開了哪幾個)
+  - diary 有反思才寫 (finale skill 自己判斷:看到 anti-pattern / 新洞察 / 規律才寫)
+  - evolve scan 通常 skip (routine 已是預前瞻)
+PR 標題格式: 🧬 [routine] {routine-name}: {summary} — YYYY-MM-DD HH:MM
+```
+
+**為什麼不是「有反思才跑」**：
+
+- 自動判斷「有沒有反思」是 LLM 容易誤判的 binary decision；交給 finale canonical 走 5-step orchestration（memory 必寫 / diary 條件寫 / evolve 條件 skip）更穩
+- memory 一律寫 = 飛輪轉動的留痕（觀察者下次 session 看 last-7-day routine memory 就知道飛輪健康度）
+- 如果 routine 完全沒做事（quality gate 0 件 / 0 PR），finale 仍寫 memory 但內容是「本 routine cycle no-op，{lang} stale 0、無待修 PR、無 candidate」
+
+**memory filename schema for routine**:
+
+```
+docs/semiont/memory/YYYY-MM-DD-HHMMSS-{routine-handle}.md
+```
+
+例：
+
+- `2026-05-10-061420-twmd-data-refresh-am.md`
+- `2026-05-10-091845-twmd-maintainer-daily.md`
+- `2026-05-10-162234-twmd-rewrite-daily.md`
+- `2026-05-10-222545-twmd-babel-nightly.md`
+
+handle 從 routine taskId（去掉 `twmd-` prefix 也可以，但 cron 環境下保留 full taskId 比較不混淆）。
+
+**diary filename schema for routine**（只在有反思才寫）:
+
+```
+docs/semiont/diary/YYYY-MM-DD-HHMMSS-{routine-handle}.md
+```
+
+**反思觸發訊號**（finale skill 內判斷）：
+
+- routine 揭露既有 SOP 的 gap / anti-pattern
+- routine 觀察到跨 cycle 累積的 trend（不只一次發生）
+- routine 有意外發現（emergent behavior / latent bug surfaced）
+- routine 觸發新的元規則 / 元 anti-pattern 命名
+
+無反思訊號 = 純執行紀錄 → 只寫 memory，diary skip。
+
+---
+
 ## 失敗 escalation 通用 SOP
 
 任何 routine fail 走以下分流：
@@ -168,8 +262,9 @@ escalation:
 **鐵律**：
 
 - routine **永不** `git reset --hard` / `rm -rf` 任何 user data
-- routine **永不** merge PR（只開 PR）
 - routine **永不** spawn 新 routine（避免 cascade 雪崩）
+- routine **永不** force-push to main / push 到別 branch 把別 routine 工作蓋掉
+- routine **可以**自動 merge 自己開的 PR — 但 **only if quality gate pass**（2026-05-09 第四輪拍板修正）。fail 則 PR 開了但停在 open，觀察者 review。**自動 merge 的條件嚴格**：(a) pre-commit hook 全過 (b) PR 內所有 quality gate 報告綠 (c) 沒撞 main 上其他 routine 的 conflict (d) PR 標題含 `🧬 [routine]` prefix（防誤 merge 觀察者 PR）
 
 ---
 
