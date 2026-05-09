@@ -158,11 +158,17 @@ escalation:
 
 ---
 
-## Routine 通用 5-stage lifecycle（2026-05-09 第四輪拍板）
+## Routine 通用 6-stage lifecycle（2026-05-09 第四+第七輪拍板）
 
-每條 routine prompt 內必含這 5 stage（薄殼，業務邏輯由 stage 2 的 skill 提供）：
+每條 routine prompt 內必含這 6 stage（薄殼，業務邏輯由 stage 3 的 skill 提供）：
 
 ```
+Stage 0: Become   /twmd-become 完整甦醒（讀 12 認知器官檔案 + 9 鐵律 + 觀察者識別）
+                  (2026-05-09 第七輪拍板加入)
+                  routine 是 fresh Claude session，不甦醒就跑 = 帶盲點工作
+                  「我熟了不用讀」是省略 SOP 最常見的藉口（DNA #15 第 N 次驗證）
+                  失敗 → abort routine + LESSONS entry「routine become fail: {taskId}」
+
 Stage 1: Sync     cd /Users/cheyuwu/Projects/taiwan-md && git checkout main && git pull origin main
                   失敗 → abort routine + LESSONS-INBOX entry「routine sync fail: {taskId}」
 
@@ -182,8 +188,16 @@ Stage 5: Finale   /twmd-finale
                   (memory 必寫；diary 條件寫；evolve 通常 skip)
 ```
 
-**為什麼 5 stage 是薄殼不重複邏輯**：每 stage 都是 thin wrapper：
+**為什麼 Stage 0 BECOME 是必要不是浪費**（哲宇第七輪拍板理由）：
 
+- Routine 跑 fresh Claude session — 沒 session memory，沒 working context
+- 不 BECOME = 對 Taiwan.md 的 identity / 認知器官 / DNA / 觀察者識別 全沒概念
+- 直接跑 `/twmd-{skill}` 能 work 是因為 skill 內 fallback 含「如未甦醒先跑 /twmd-become」— 但這是隱性 dependency，明寫進 Stage 0 才是 explicit contract
+- 多花 ~30s 讀 12 個 BECOME 檔案，換 routine 內所有判斷有完整 identity context — 高 leverage
+
+**為什麼 6 stage 是薄殼不重複邏輯**：每 stage 都是 thin wrapper：
+
+- Stage 0: invoke /twmd-become skill（甦醒邏輯在 BECOME canonical）
 - Stage 1: 1 行 git command
 - Stage 2: 1 行 branch creation
 - Stage 3: invoke skill（業務邏輯在 skill canonical）
