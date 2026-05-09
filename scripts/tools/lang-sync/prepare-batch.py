@@ -184,7 +184,14 @@ def main():
         status = entry["status"]
         category = zh_path.split("/")[0]
 
-        if status == "stale" and entry["en_path_existing"]:
+        # Reuse existing slug for ANY translation that already exists.
+        # Bug fix (2026-05-09 babel-batch2): previously only `stale` status reused existing slug;
+        # `metadata-stale` / other statuses fell through to slug_map / fallback, creating
+        # duplicate-slug files (e.g. 斗笠 → bamboo-hat.md created alongside existing
+        # bamboo-hat-craft.md). The status doesn't matter — if a translation file exists for
+        # this (lang, zh_path) pair, that file's slug is canonical. See PR #921 + reports/
+        # session-id-naming-2026-05-04.md context.
+        if entry["en_path_existing"]:
             en_path = "knowledge/" + entry["en_path_existing"]
             slug = Path(en_path).stem
         else:
