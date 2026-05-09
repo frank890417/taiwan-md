@@ -499,9 +499,22 @@ default:
 - **P2 (~531 entries): Tier 0a diff-patch，~1.5 hr Sonnet sub-agents**（5x 加速）
 - **P2.5 (~2431 entries): Tier 0b bump-source-sha，<1 min**（instant）
 
+### 量化驗證（2026-05-09 batch2 — P2.5 全量 production-scale 驗證）
+
+[PR #921](https://github.com/frank890417/taiwan-md/pull/921) 一次 ship Tier 0b production-scale 驗證：
+
+- **2429 metadata-stale entries 全量 bump**（489 P2.5 articles × 5 langs，one-shot）
+- **Wall-clock**：< 1 min（status.py JSON parse + 2429 single-line frontmatter writes）
+- **Token cost**：$0（Tier 0b deterministic，0 LLM call）
+- **Coverage delta**：stale 從 ~489 / lang 降到 ~157 / lang（**-67% per lang**）
+- **Body 連續性**：100% preserved（bodyHash 沒變的前提即 Tier 0b 篩選條件）
+- **Pre-commit**：1933 frontmatter validation pass / 26 pre-existing warnings（與 bump 無關）
+- **驗證**：v3 設計從「賈永婕一篇 patch demo」躍升到「全 corpus P2.5 一次 clear」，Tier 0b 在大量低 entropy drift 場景**線性可放大**
+
 對應認知層升級：
 
-- DNA 新條目：「Babel priority schema — full vs patch vs bump 三路徑分流」
+- **DNA #53 v3.3 milestone**（2026-05-09 同日續工）：P2.5 production-scale 驗證
+- **DNA #9 延伸**：worktree 命名 `YYYYMMDD-{purpose-title}` 標準（codename 污染歷史 antipattern）
 - LESSONS-INBOX：「v3 升級觸發 — 哲宇『翻譯策略也加上一個 diff patch，用子 agent 快速 patch diff 應該會是最好的做法』」
 
 🧬
