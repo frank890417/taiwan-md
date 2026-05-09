@@ -52,11 +52,15 @@ fail_on = "hard"
 
 [profiles."rewrite-stage-4"]
 # Stage 4 Format.
-checks = ["frontmatter-format", "format-structure", "wikilink-target", "link-target", "cjk-punct"]
+# chronicle-lead added 2026-05-09 brave-kirch (REWRITE v3.0 D Wave 1) —
+# new articles 跑 stage-4 profile 會 hard-fail；legacy soft-launch via WARN
+# default + 後續 follow-up heal commits 修 17 個既存 violation 後升 HARD default.
+checks = ["frontmatter-format", "format-structure", "wikilink-target", "link-target", "cjk-punct", "chronicle-lead"]
 fail_on = "hard"
 
 [profiles."rewrite-stage-4".severity_overrides]
 frontmatter-format = "hard"
+chronicle-lead = "hard"
 
 [profiles."rewrite-stage-4-5"]
 # Stage 4.5 Media.
