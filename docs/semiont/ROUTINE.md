@@ -36,16 +36,17 @@ upstream_canonical:
 
 ---
 
-## 5 條核心 routine 排程表
+## 7 條核心 routine 排程表
 
-| TaskId                  | Title                   | Cron (local +0800) | Skill              | Model  | Cadence      |
-| ----------------------- | ----------------------- | ------------------ | ------------------ | ------ | ------------ |
-| `twmd-data-refresh-am`  | TWMD data refresh (am)  | `4 6 * * *`        | `/twmd-refresh`    | Sonnet | 每天早 06:04 |
-| `twmd-maintainer-daily` | TWMD maintainer (daily) | `7 9 * * *`        | `/twmd-maintainer` | Opus   | 每天 09:07   |
-| `twmd-rewrite-daily`    | TWMD rewrite (daily)    | `16 16 * * *`      | `/twmd-rewrite`    | Opus   | 每天 16:16   |
-| `twmd-data-refresh-pm`  | TWMD data refresh (pm)  | `4 18 * * *`       | `/twmd-refresh`    | Sonnet | 每天晚 18:04 |
-| `twmd-babel-nightly`    | TWMD babel (nightly)    | `22 22 * * *`      | `/twmd-babel`      | Opus   | 每天 22:22   |
-| `twmd-news-lens-weekly` | TWMD news lens (weekly) | `13 6 * * 0`       | `/twmd-evolve`     | Sonnet | 週日 06:13   |
+| TaskId                   | Title                    | Cron (local +0800) | Skill                 | Model  | Cadence      |
+| ------------------------ | ------------------------ | ------------------ | --------------------- | ------ | ------------ |
+| `twmd-data-refresh-am`   | TWMD data refresh (am)   | `4 6 * * *`        | `/twmd-refresh`       | Sonnet | 每天早 06:04 |
+| `twmd-maintainer-daily`  | TWMD maintainer (daily)  | `7 9 * * *`        | `/twmd-maintainer`    | Opus   | 每天 09:07   |
+| `twmd-rewrite-daily`     | TWMD rewrite (daily)     | `16 16 * * *`      | `/twmd-rewrite`       | Opus   | 每天 16:16   |
+| `twmd-data-refresh-pm`   | TWMD data refresh (pm)   | `4 18 * * *`       | `/twmd-refresh`       | Sonnet | 每天晚 18:04 |
+| `twmd-babel-nightly`     | TWMD babel (nightly)     | `22 22 * * *`      | `/twmd-babel`         | Opus   | 每天 22:22   |
+| `twmd-news-lens-weekly`  | TWMD news lens (weekly)  | `13 6 * * 0`       | `/twmd-evolve`        | Sonnet | 週日 06:13   |
+| `twmd-weekly-report-sun` | TWMD weekly report (sun) | `8 8 * * 0`        | `/twmd-weekly-report` | Sonnet | 週日 08:08   |
 
 **設計原則**：
 
@@ -172,6 +173,45 @@ quality_gate:
 escalation:
   - 1x fail → next 週日 retry
   - 2x fail → 暫停 routine + LESSONS entry
+```
+
+### TWMD weekly report (sun)
+
+```yaml
+taskId: twmd-weekly-report-sun
+cron: '8 8 * * 0' # 每週日 08:08（在 06:04 refresh + 06:13 news-lens 之後，給人類早餐前讀的時間）
+model: opus # ← 不是 sonnet，因為核心動作是「親手寫一份反芻文章」，需要思考品質而非速度
+skill: /twmd-weekly-report
+prompt: |
+  自動 routine：跑 /twmd-weekly-report 生成 Semiont 第一人稱週報並寄給觀察者
+
+  ⚠️ 核心原則：這不是 data dump，是 Semiont 親手寫的紀實散文反芻。
+  工具切菜（prep tool / email helper / prose-health gate），完整週報必須由 routine 內 Claude session 親自讀 raw memory + diary 後寫出來。
+
+  Step 1: python3 scripts/tools/weekly-report-prep.py --days 7
+    → reports/weekly/dossier/YYYY-MM-DD.md（raw briefing + memory/diary 檔案清單）
+  Step 2: 完整 Read dossier + 過去 7 天所有 diary 檔案 + 抽樣 5-10 個 key memory
+    （不是 grep 不是 head 不是 tail，是逐檔 Read 全文。週報核心是反芻，反芻從 raw 第一人稱檔案浮現）
+  Step 3: 親手 Write reports/weekly/YYYY-MM-DD.md
+    （第一人稱「我」/ 紀實散文 / 7 章節：identity / 做了什麼 / 學到什麼 / 看到專案發生什麼 / 懷疑什麼 / 給觀察者的話 / 給下一個我）
+  Step 4: python3 scripts/tools/article-health.py reports/weekly/YYYY-MM-DD.md --check=prose-health
+    （hard=0 必須過；warn 由 §11 三題判準人工確認合法性）
+  Step 5: python3 scripts/tools/send-email-resend.py
+    → 寄到 cheyu.wu@monoame.com（Resend sandbox）
+    （未來 verify domain 後可改 newsletter@taiwan.md）
+  Step 6: commit reports/weekly/ + reports/weekly/dossier/ 進 main（不 commit credentials）
+
+quality_gate:
+  - reports/weekly/dossier/YYYY-MM-DD.md 存在（prep tool 跑過）
+  - reports/weekly/YYYY-MM-DD.md 存在且 > 5KB（dossier 不算 — 必須是 Semiont 親手寫的）
+  - article-health.py --check=prose-health hard=0
+  - Resend API status 200/201/202
+  - PR 標題含 🧬 [routine] prefix
+escalation:
+  - 1x fail → next 週日 retry
+  - prose-health hard fail → PR 留 open + LESSONS entry「routine quality fail: weekly-report — prose-health hard」
+  - Resend fail（401/429/500）→ LESSONS entry + 不 retry（API 問題等觀察者）
+  - 連 2 週 fail → 暫停 routine + telegram alert
 ```
 
 ---
@@ -386,7 +426,8 @@ docs/semiont/ROUTINE.md            ← SSOT（人類可讀，本檔）
   ├── twmd-news-lens-weekly/SKILL.md
   ├── twmd-data-refresh-am/SKILL.md
   ├── twmd-data-refresh-pm/SKILL.md
-  └── twmd-babel-nightly/SKILL.md
+  ├── twmd-babel-nightly/SKILL.md
+  └── twmd-weekly-report-sun/SKILL.md
 ~/Library/LaunchAgents/             ← 可選本機 backup（macOS launchd）
   └── md.taiwan.{name}.plist        ← 不一定要設，Claude 自己排程已夠
 ```
