@@ -42,6 +42,24 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 王福瑞 EVOLVE — 2026-05-09 laughing-goldstine 媒體插入 + heading 修補（fair use editorial scope 啟動 / People / 聲音藝術）
+
+哲宇 redirect「進化王福瑞，同步搜集適合使用的圖片跟影片，引用作品是 fair use 比較寬鬆不一定要 CC」。Round 2 媒體研究升級 Stage 1.7：在世藝術家作品紀錄圖（個展裝置、專輯封面）走 fair use editorial commentary scope，不需 CC license。
+
+- **Article**: [knowledge/People/王福瑞.md](../../knowledge/People/王福瑞.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — EVOLVE 模式（媒體插入主重，prose body 不重寫，167 行 → ~190 行）
+- **媒體插入**（4 件）：
+  1. **hero** `wang-fujui-noise-silence-2020.jpg` — 12 聲道全指向喇叭裝置 (frontmatter `image:` + `imageCredit/imageLicense/imageSource`)
+  2. **scene-mid 1** 同三件作品同框（術後段前置）
+  3. **scene-mid 2** Bandcamp《Ching-Shen-Ching 1.2.3.0.》專輯封面（「Bandcamp 上的同人廠牌」段）
+  4. **scene-mid 3** 12 聲道喇叭重複放在核心段落（前後呼應）
+- **Inline YouTube 外連**：噪音寂靜表演紀錄、就在藝術空間個展頁、Bandcamp〈V-Zone〉track
+- **Heading 修補**：「後來，這個故事還在寫」→「Bandcamp 上的同人廠牌」（per 哲宇「故事還在寫」family 列入塑膠句檢查同 PR ship — prose_health.py + QUALITY-CHECKLIST 雙加 patterns）
+- **對位句型修補**：「從場景到身體，從外在到內在」改寫為兩句 explicit 描述
+- **§圖片來源 section**：四張圖完整 attribution + fair use editorial scope 解釋
+- **Quality**: hard=0 warn=2（pre-existing AI metaphor + 空洞詞，未改 prose body）
+- **Research report update**: `reports/research/2026-05/王福瑞.md` §9 媒體授權矩陣 Round 2
+
 ### 聶永真 EVOLVE Round 2 — 2026-05-08 elegant-ptolemy 重構（多元面貌人物 SSODT，去 event-report 框架 / People / 藝術與設計）
 
 哲宇 review Round 1 後指出文章過度錨定 2026/05/08 台電 LOGO 5 小時論述循環，要求重寫為「紀實 + 閱讀感順暢 + 完整描述這個人的多元面貌」的 SSODT，台電案降為其中一章而非結構主軸。

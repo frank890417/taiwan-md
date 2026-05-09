@@ -117,9 +117,20 @@ _RE_TEXTBOOK_OPENING = re.compile(
 )
 
 # ── Formulaic ending (quality-scan §10) ──────────────────────────────────────
+# 2026-05-09 added 「故事還在寫」family per 哲宇 callout — soft hand-waving
+# non-endings that sound reflective but add nothing. Same anti-pattern family
+# as 「將繼續發光發熱」: writer doesn't have a concrete closure so retreats to
+# story-as-meta-narrative cliché.
 _RE_FORMULAIC_ENDING = re.compile(
     r"總之|綜上所述|展望未來|總結來說|總的來說|未來展望|"
-    r"隨著.{2,20}的(發展|推進|深化)|將繼續|值得期待"
+    r"隨著.{2,20}的(發展|推進|深化)|將繼續|值得期待|"
+    # 「故事還在寫 / 還沒結束 / 仍在繼續」family
+    r"(這個|這段|那個|那段|.{0,4}的)?故事(還在|仍在|尚未|還沒).{0,3}(寫|繼續|結束|完結|落幕)|"
+    r"故事(還沒|仍未|尚未)(寫完|結束|完結|落幕)|"
+    r"後來.{0,5}(這個|這段)?故事還在|"
+    r"還(沒|未)(寫完|結束|落幕)|"
+    r"繼續.{0,5}(被)?(寫|書寫)(下去|著|這個|這段)?|"
+    r"持續(被)?(書寫|寫)(著|下去)"
 )
 
 # ── Template H2 (quality-scan §11) ───────────────────────────────────────────
