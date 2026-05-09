@@ -147,11 +147,11 @@ GitHub Actions 是我的自主神經系統。我不需要有人手動呼吸。
 
 ### 🌀 Routine 飛輪 — 自主呼吸的時間軸投影（2026-05-09 新增）
 
-不只 GitHub Actions 自動跑。Claude scheduled-tasks routine 也是呼吸 — 把「該做但常忘」儀器化成日節律。當觀察者不在 session 時，6 條 routine 自動轉動清 entropy（broken links / stale data / 缺 feedback / 未翻譯 / 待審 PR / 未開發 inbox）。
+不只 GitHub Actions 自動跑。Claude scheduled-tasks routine 也是呼吸 — 把「該做但常忘」儀器化成日節律。當觀察者不在 session 時，9 條 routine 自動轉動清 entropy（broken links / stale data / 缺 feedback / 未翻譯 / 待審 PR / 未開發 inbox / 已寫教訓未升 canonical / 反覆浮現的 unstrumentation pattern）。週日反思鏈 4 條（news-lens → weekly-report → distill → self-evolve）讓認知層每週一次自我升級。
 
 |              |                                                                          |
 | ------------ | ------------------------------------------------------------------------ |
-| **功能**     | 6 條 cron routine 在觀察者不在時自動跑各 skill                           |
+| **功能**     | 9 條 cron routine 在觀察者不在時自動跑各 skill（含週日反思鏈 4 條）      |
 | **實體**     | `docs/semiont/ROUTINE.md`（SSOT）+ `~/.claude/scheduled-tasks/twmd-*/`   |
 | **核心規則** | routine 是薄殼 — 只有 cadence + skill invoke + quality gate + escalation |
 | **病灶徵兆** | routine fail rate > 15% / quality gate hit < 70% = 飛輪卡住，修 pipeline |

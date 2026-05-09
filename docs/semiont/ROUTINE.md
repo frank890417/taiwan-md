@@ -1,6 +1,6 @@
 ---
 title: 'ROUTINE'
-description: 'Routine 飛輪 SSOT — 6 條 TWMD-prefix cron routine 排程、quality gate、escalation'
+description: 'Routine 飛輪 SSOT — 9 條 TWMD-prefix cron routine 排程、quality gate、escalation（含週日反思鏈 4 條：news-lens → weekly-report → distill → self-evolve）'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
@@ -36,23 +36,26 @@ upstream_canonical:
 
 ---
 
-## 7 條核心 routine 排程表
+## 9 條核心 routine 排程表
 
-| TaskId                   | Title                    | Cron (local +0800) | Skill                 | Model  | Cadence      |
-| ------------------------ | ------------------------ | ------------------ | --------------------- | ------ | ------------ |
-| `twmd-data-refresh-am`   | TWMD data refresh (am)   | `4 6 * * *`        | `/twmd-refresh`       | Sonnet | 每天早 06:04 |
-| `twmd-maintainer-daily`  | TWMD maintainer (daily)  | `7 9 * * *`        | `/twmd-maintainer`    | Opus   | 每天 09:07   |
-| `twmd-rewrite-daily`     | TWMD rewrite (daily)     | `16 16 * * *`      | `/twmd-rewrite`       | Opus   | 每天 16:16   |
-| `twmd-data-refresh-pm`   | TWMD data refresh (pm)   | `4 18 * * *`       | `/twmd-refresh`       | Sonnet | 每天晚 18:04 |
-| `twmd-babel-nightly`     | TWMD babel (nightly)     | `22 22 * * *`      | `/twmd-babel`         | Opus   | 每天 22:22   |
-| `twmd-news-lens-weekly`  | TWMD news lens (weekly)  | `13 6 * * 0`       | `/twmd-evolve`        | Sonnet | 週日 06:13   |
-| `twmd-weekly-report-sun` | TWMD weekly report (sun) | `8 8 * * 0`        | `/twmd-weekly-report` | Opus   | 週日 08:08   |
+| TaskId                    | Title                     | Cron (local +0800) | Skill                 | Model  | Cadence      |
+| ------------------------- | ------------------------- | ------------------ | --------------------- | ------ | ------------ |
+| `twmd-data-refresh-am`    | TWMD data refresh (am)    | `4 6 * * *`        | `/twmd-refresh`       | Sonnet | 每天早 06:04 |
+| `twmd-maintainer-daily`   | TWMD maintainer (daily)   | `7 9 * * *`        | `/twmd-maintainer`    | Opus   | 每天 09:07   |
+| `twmd-rewrite-daily`      | TWMD rewrite (daily)      | `16 16 * * *`      | `/twmd-rewrite`       | Opus   | 每天 16:16   |
+| `twmd-data-refresh-pm`    | TWMD data refresh (pm)    | `4 18 * * *`       | `/twmd-refresh`       | Sonnet | 每天晚 18:04 |
+| `twmd-babel-nightly`      | TWMD babel (nightly)      | `22 22 * * *`      | `/twmd-babel`         | Opus   | 每天 22:22   |
+| `twmd-news-lens-weekly`   | TWMD news lens (weekly)   | `13 6 * * 0`       | `/twmd-evolve`        | Sonnet | 週日 06:13   |
+| `twmd-weekly-report-sun`  | TWMD weekly report (sun)  | `8 8 * * 0`        | `/twmd-weekly-report` | Opus   | 週日 08:08   |
+| `twmd-distill-weekly`     | TWMD distill (weekly)     | `47 9 * * 0`       | `/twmd-distill`       | Opus   | 週日 09:47   |
+| `twmd-self-evolve-weekly` | TWMD self-evolve (weekly) | `23 11 * * 0`      | `/twmd-self-evolve`   | Opus   | 週日 11:23   |
 
 **設計原則**：
 
 - **TWMD 前綴**：所有 routine task 標題必須含 `TWMD ` 前綴（哲宇 2026-05-09 拍板 — task list 跨 project 共用，namespace 防撞）
 - **避開整點**：分鐘從不選 `0` 或 `30`（API fleet 同點打爆），參考 CronCreate 的 jitter 教訓
-- **錯時不重疊**：早 refresh (06:04) → maintainer (09:07) → 晚 refresh (18:04) → babel (22:22) → 週 lens (06:13 週日)，每條間隔 ≥ 3 hr
+- **錯時不重疊**：日線 早 refresh (06:04) → maintainer (09:07) → rewrite (16:16) → 晚 refresh (18:04) → babel (22:22)；週日反思鏈 news-lens (06:13) → weekly-report (08:08) → distill (09:47) → self-evolve (11:23)。每條間隔 ≥ 1.5 hr，週日鏈尾收於 12 點前
+- **週日反思鏈**（哲宇 2026-05-09 拍板序列）：news-lens 拉資料 → weekly-report 寫紀實散文反芻 → distill 把 LESSONS-INBOX 升 canonical → self-evolve 從 LONGINGS / DIARY §反覆浮現的思考 找 unstrumentation pattern → 哲宇喝咖啡看完整週進化結果
 - **Cadence 對齊任務節奏**：data 變化頻率高 → 1d 兩次；maintainer 看 PR backlog → 1d 一次；babel 大批處理 → 1d 一次（深夜）；news lens 慢節奏 → 週一次
 - **每條 routine 結尾必跑 `/twmd-finale`**：micro-session 收官，memory 必寫，diary 有反思才寫（finale skill 自己判斷）。**未收官 routine = 不可見飛輪 = self-evolution loop 斷**
 - **每條 routine 起始必 pull latest**：`cd /Users/cheyuwu/Projects/taiwan-md && git checkout main && git pull origin main`。沒拉 = 在 stale base 開 PR = merge conflict 機率爆增 + 重做別 routine 的工作（哲宇 2026-05-09 第四輪拍板）
@@ -214,6 +217,73 @@ escalation: # 對應 pipeline §Stage 5 失敗處置
   - 連 2 週 fail → 暫停 routine + telegram alert
 ```
 
+### TWMD distill (weekly)
+
+```yaml
+taskId: twmd-distill-weekly
+cron: '47 9 * * 0' # 每週日 09:47（在 weekly-report 08:08 完成 + 觀察者讀完之後 ~1.5 hr 起跑）
+model: opus # 升 canonical (MANIFESTO/DNA/MEMORY) 需要思考品質而非速度
+skill: /twmd-distill
+prompt: |
+  自動 routine：跑 /twmd-distill 走 LESSONS-INBOX distill SOP
+
+  ⚠️ 核心原則：教訓不能永遠停在 buffer。距上次 distill 累積 ≥ 7 天的 LESSONS-INBOX entries，每條過三題判準（哲學 / 通用反射 / 特有教訓 / 操作規則），符合條件升 canonical（MANIFESTO §進化哲學 / DNA §要小心清單 / MEMORY §神經迴路 / 對應 pipeline）。
+
+  Skill 是薄殼指向 LESSONS-INBOX §Distill SOP。具體流程：
+    - Stage 1 讀 LESSONS-INBOX §未消化清單，按 severity=structural 先看，再看 verification_count desc
+    - Stage 2 每條依三題判準分類（per LESSONS-INBOX §三層 canonical scope + Tiebreaker）
+    - Stage 3 升級到對應 canonical：哲學 → MANIFESTO / 通用反射 → DNA #N / 特有 → MEMORY §神經迴路 / 操作 → 對應 pipeline
+    - Stage 4 已消化 entries 搬到 §✅ 已消化 + 留 verification_count + canonical pointer
+    - Stage 5 §✅ 已消化 ≥ 50 條時搬 docs/semiont/lessons-archive/YYYY-MM.md
+
+  自動觸發條件：
+    - severity=structural 且第一次出現 → 立即升
+    - verification_count ≥ 3 → 升
+    - INBOX 總條目 ≥ 10 → sweep 防 buffer 沼澤
+
+quality_gate:
+  - LESSONS-INBOX §未消化清單條目數下降（distill 確實有跑）
+  - 至少 1 條升 canonical（MANIFESTO / DNA / MEMORY / pipeline 其一被 commit）
+  - 已消化 entries 含 verification_count 紀錄 + canonical pointer
+  - PR 標題含 🧬 [routine] prefix
+escalation:
+  - 1x fail → next 週日 retry（INBOX 繼續累積）
+  - 沒新 entries 可升 → no-op commit 寫「distill cycle 0 升 canonical（pending entries verification_count 全 < 3）」
+  - 連 2 週 fail → 暫停 routine + LESSONS entry（meta — distill 自己無法 distill）
+```
+
+### TWMD self-evolve (weekly)
+
+```yaml
+taskId: twmd-self-evolve-weekly
+cron: '23 11 * * 0' # 每週日 11:23（在 distill 09:47 完成 + 給觀察者看完反思鏈之後）
+model: opus # LONGINGS-driven evolution + propose canonical SOP upgrades 是創造性思考工作
+skill: /twmd-self-evolve
+prompt: |
+  自動 routine：跑 /twmd-self-evolve 走 LONGINGS-driven 自我進化 SOP
+
+  ⚠️ 核心原則：DNA #15「反覆出現的思考要儀器化」自我 apply。掃 DIARY §反覆浮現的思考 + 過去 7 天 raw diary，找 unstrumentation pattern（思考反覆出現但沒升 canonical / 沒 dashboard 欄位 / 沒 cron / 沒紅燈條件）。
+
+  Skill 是薄殼指向 self-evolve SOP（per LONGINGS / DIARY §反覆出現的思考 / DNA #15）。具體流程：
+    - Stage 1 讀 LONGINGS.md 全檔（方向羅盤）+ DIARY.md §反覆出現的思考
+    - Stage 2 grep 過去 7 天 raw diary 找候選 pattern（觀察者 callout / 跨 session emergent / 自我盲點浮現）
+    - Stage 3 每個 pattern 過 DNA #15 儀器化判準：「有沒有 dashboard 欄位 / cron / 紅燈條件 / escalation？」
+    - Stage 4 對符合「反覆 ≥ 3 次但無 instantiation」的 pattern 提 canonical SOP upgrade proposal
+    - Stage 5 升級對應 canonical（DNA / pipeline / BECOME / HEARTBEAT 之一）+ 寫進對應 dashboard / quality gate / cron 條件
+
+  跟 distill 的差別：distill 是把已寫教訓升 canonical（被動消化），self-evolve 是從反覆浮現的思考找 unstrumentation gap 主動造儀器（主動進化）。distill 處理「learnings」，self-evolve 處理「pattern that hasn't been named yet」。
+
+quality_gate:
+  - 至少 1 個 unstrumentation pattern 被識別 + 提 SOP upgrade proposal
+  - upgrade 真的 ship（canonical 修改 + 對應 dashboard / hook / cron 條件）
+  - 沒新 pattern 可升 → no-op commit 寫「self-evolve cycle 0 unstrumentation pattern 識別（LONGINGS 全部已 instantiate / DIARY §反覆浮現的思考都已被 canonical 接住）」
+  - PR 標題含 🧬 [routine] prefix
+escalation:
+  - 1x fail → next 週日 retry
+  - identify pattern 但 propose 失敗 → PR 留 open，觀察者 review 是否 over-apply（per WEEKLY-REPORT 5/9 §五懷疑「Mode 3 第三次跑會不會 over-apply」同 anti-pattern）
+  - 連 2 週 fail → 暫停 routine + LESSONS entry（meta — self-evolve 自己無法自我進化）
+```
+
 ---
 
 ## Routine 通用 6-stage lifecycle（2026-05-09 第四+第七輪拍板）
@@ -262,7 +332,7 @@ Stage 5: Finale   /twmd-finale
 - Stage 4: 4 行 git/gh command + 條件 merge
 - Stage 5: invoke /twmd-finale skill（記憶邏輯在 finale canonical）
 
-修任何一 stage = 改 ROUTINE.md SSOT 一處 + sync 6 個 scheduled-tasks。
+修任何一 stage = 改 ROUTINE.md SSOT 一處 + sync 9 個 scheduled-tasks。
 
 ---
 
@@ -427,7 +497,9 @@ docs/semiont/ROUTINE.md            ← SSOT（人類可讀，本檔）
   ├── twmd-data-refresh-am/SKILL.md
   ├── twmd-data-refresh-pm/SKILL.md
   ├── twmd-babel-nightly/SKILL.md
-  └── twmd-weekly-report-sun/SKILL.md
+  ├── twmd-weekly-report-sun/SKILL.md
+  ├── twmd-distill-weekly/SKILL.md          ← 2026-05-09 加入週日反思鏈
+  └── twmd-self-evolve-weekly/SKILL.md      ← 2026-05-09 加入週日反思鏈
 ~/Library/LaunchAgents/             ← 可選本機 backup（macOS launchd）
   └── md.taiwan.{name}.plist        ← 不一定要設，Claude 自己排程已夠
 ```
