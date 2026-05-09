@@ -89,6 +89,22 @@
     "path": "ko/People/lin-liang-childrens-literature.md"
   },
   {
+    "title": "'유드음: 버클리 박사, 장중모 이어 받은 TSMC, 미중 칩 갈림길에서의 6년 결단'",
+    "description": "'2018년 6월, 장중모가 퇴임하고 유드음과 웨이자지아가 공동으로 TSMC를 이어받았다. 버클리 전기공학 박사인 그는 엔지니어의 정밀함으로 세계에서 가장 중요한 반도체 파운드리를 이끌며, 미중 기술 경쟁이 격화된 6년간 애리조나 공장 건설을 발표하고 지정학적 줄다리기를 반복했다. 2024년 6월 웨이자지아에게 경영을 넘기고 퇴임하며 마지막으로 'TSMC 주식을 사라'고 말했다.'",
+    "category": "ko",
+    "tags": [
+      "TSMC",
+      "반도체",
+      "지정학",
+      "기업 리더십"
+    ],
+    "url": "https://taiwan.md/ko/People/mark-liu",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ko/People/mark-liu.md"
+  },
+  {
     "title": "'장중모'",
     "description": "'반도체 교부, TSMC 창립자, 웨이퍼 파운드리 모델로 글로벌 기술 산업을 바꾼 전설적 기업가'",
     "category": "ko",
@@ -235,7 +251,15 @@
     "title": "「毒じゃがいも」：200ppm の向こうに広がる30ppm、14日、そして15年の食の傷跡",
     "description": "2026年4月29日、中国国台弁（こくたいべん）の報道官・陳斌華（ちんひんか）は「毒じゃがいも」という言葉で頼清徳政権が「民衆の健康を米国への貢ぎ物にした」と批判した。論争の核心は三つの層にまたがる——EU比150倍のCIPC残留基準格差、国境85人の検査員が30億個を「1個ずつ確認」する物理的不可能性、そして2011年の可塑剤（プラスチック可塑剤）事件から積み重なった15年の食の傷跡だ。",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "毒じゃがいも",
+      "食の安全",
+      "認知戦",
+      "台中関係",
+      "ART協定",
+      "ソラニン",
+      "CIPC"
+    ],
     "url": "https://taiwan.md/ja/Society/poisoned-potato-cognitive-warfare-taiwan",
     "readingTime": 53,
     "featured": false,
@@ -1300,22 +1324,6 @@
     "path": "People/王小棣.md"
   },
   {
-    "title": "王永慶",
-    "description": "台塑グループの創業者、米店から石油化学帝国を築いた「経営の神様」",
-    "category": "ja",
-    "tags": [
-      "実業家",
-      "台塑グループ",
-      "石油化学工業",
-      "経営管理"
-    ],
-    "url": "https://taiwan.md/ja/People/yung-ching-wang-formosa-plastics-founder",
-    "readingTime": 7,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ja/People/yung-ching-wang-formosa-plastics-founder.md"
-  },
-  {
     "title": "王永慶：米店、六輕二十年奮戰，逝後的那場爭產大戲",
     "description": "1917年1月18日生於台北新店，王永慶15歲輟學借錢開米店，1954年創立台灣塑膠。1973年向政府提案六輕，奮戰近二十年後方獲批，1998年雲林麥寮正式量產。2008年10月15日於美國逝世，享壽92歲，身後留下跨越十餘年的家族爭產糾紛。",
     "category": "People",
@@ -1331,6 +1339,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/王永慶.md"
+  },
+  {
+    "title": "王永慶：米店から六軽への二十年の奮戦、そして死後の遺産争奪劇",
+    "description": "1917年1月18日、台北新店に生まれた王永慶は、15歳で中退し借金で米店を開業、1954年に台湾プラスチックを設立した。1973年に政府に六軽（第六ナフサクラッカー）の建設を提案し、約二十年の奮戦を経てようやく認可され、1998年に雲林県麦寮で本格量産を開始した。2008年10月15日に米国にて逝去、享年92歳。死後、十年以上にわたる家族間の遺産争いが残された。",
+    "category": "ja",
+    "tags": [
+      "科技與企業",
+      "台塑グループ",
+      "石油化学工業",
+      "六軽",
+      "起業家"
+    ],
+    "url": "https://taiwan.md/ja/People/yung-ching-wang-formosa-plastics-founder",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ja/People/yung-ching-wang-formosa-plastics-founder.md"
   },
   {
     "title": "王建民：建興高校から始まり、シンカーがヤンキースに2シーズンの勝利をもたらした",
@@ -1418,7 +1443,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/People/fujui-wang",
-    "readingTime": 44,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-05-04",
     "path": "ja/People/fujui-wang.md"
@@ -1429,7 +1454,7 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/People/%E7%8E%8B%E7%A6%8F%E7%91%9E",
-    "readingTime": 35,
+    "readingTime": 40,
     "featured": false,
     "date": "2026-05-04",
     "path": "People/王福瑞.md"
@@ -1504,11 +1529,9 @@
     "title": "北大特区：三十年の都市計画と大学街の生活実験",
     "description": "1895年の隆恩埔古戦場から2026年の捷運（MRT）大学街へ――土地、美学、選択的アイデンティティに関する深層的百科事典。",
     "category": "ja",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/Geography/beida-special-district-sanxia",
-    "readingTime": 47,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-04-29",
     "path": "ja/Geography/beida-special-district-sanxia.md"
@@ -1575,9 +1598,7 @@
     "title": "台北101：番犬から「金色の蛇」へ――ランドマークに刻まれた政経と風水の大博打",
     "description": "台北101は単なる超高層ビルではない。陳水扁と彭淮南の政経的駆け引き、李祖原の風水実験、そしてアレックス・ホノルドにとっての「ラスボス」でもあった。59階から101階への変遷をたどり、「聚宝盆」の裏に潜む権力と神秘に迫る。",
     "category": "ja",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/Geography/taipei-101",
     "readingTime": 28,
     "featured": false,
@@ -4829,7 +4850,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/Society/taiwan-slash-generation",
-    "readingTime": 31,
+    "readingTime": 32,
     "featured": false,
     "date": "2026-04-08",
     "path": "ja/Society/taiwan-slash-generation.md"
@@ -5786,20 +5807,13 @@
   },
   {
     "title": "台灣企業：台積電",
-    "description": "一個 56 歲的人在 1987 年創辦了一種「全世界沒人做過」的公司，然後它變成了地球上最重要的工廠",
+    "description": "54 歲離開德州儀器、56 歲創立台積電的張忠謀，前十八年逃過三次難、住過六個城市。三十八年後 2025 年 3 月 3 日，美國總統川普在白宮指著張忠謀的接班人魏哲家說：「他是這個房間裡最重要的男人。」2026 年第一季台積電單季營收 359 億美元。一座颱風頻繁、缺水缺電的島，蓋出全人類數位文明的心臟——但這顆心臟越大，這座島能否承擔它的代價，反而越說不清楚。",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "半導體",
-      "科技",
-      "製造業",
-      "台積電"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-    "readingTime": 22,
+    "readingTime": 54,
     "featured": true,
-    "date": "2026-03-25",
+    "date": "2026-05-09",
     "path": "Economy/台灣企業：台積電.md"
   },
   {
@@ -12278,17 +12292,6 @@
     "path": "ja/Food/hakka-food-culture.md"
   },
   {
-    "title": "施明德",
-    "description": "美麗島事件の指導者、民主運動の先駆者、25年間投獄された政治的被害者",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/People/shih-ming-te",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ja/People/shih-ming-te.md"
-  },
-  {
     "title": "施明德：二十五年鐵窗，最終對自己的黨舉起了旗",
     "description": "1979年美麗島事件後，施明德以主謀之名在軍法庭上慷慨陳詞，不認罪，不求饒，最終被判無期徒刑。他前後坐牢二十五年，是台灣民主運動最重要的受難者之一。但2006年，這個幫民進黨打下江山的人，轉身發起倒扁紅衫軍。2024年1月15日，他的83歲生日那天，帶著這個無解的矛盾離世。",
     "category": "People",
@@ -12304,6 +12307,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/施明德.md"
+  },
+  {
+    "title": "施明德：二十五年の鉄窓、やがて自らの党に旗を掲げた",
+    "description": "1979年の美麗島事件後、施明德は首謀者として軍事法廷で堂々と陳述し、認罪せず、助命を請わず、最終的に無期懲役を宣告された。彼は前後二十五年にわたって投獄され、台湾民主運動における最も重要な受難者の一人となった。しかし2006年、民主進步党の基盤を築いたこの男は、反扁の赤いシャツ軍（紅衫軍）を率いて立ち上がった。2024年1月15日、彼は83歳の誕生日に、この解けない矛盾を抱えたままこの世を去った。",
+    "category": "ja",
+    "tags": [
+      "民主運動",
+      "美麗島事件",
+      "政治受難者",
+      "倒扁紅衫軍",
+      "政治指導者"
+    ],
+    "url": "https://taiwan.md/ja/People/shih-ming-te",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ja/People/shih-ming-te.md"
   },
   {
     "title": "施振榮",
@@ -12658,17 +12678,18 @@
     "path": "ja/Technology/science-park-development.md"
   },
   {
-    "title": "紀政",
-    "description": "飛躍する羚羊、1968年メキシコオリンピック80メートルハードル銅メダリスト",
+    "title": "紀政：10つの世界記録を打ち立て、50年後も台湾の正名のために走り続ける",
+    "description": "1944年3月15日、新竹に生まれた紀政は「飛躍の羚羊」として台湾陸上競技史上最も傑出した女子選手となった。1968年メキシコオリンピックにおいて、80メートルハードルで10秒51の銅メダルを獲得し、台湾初の女子オリンピック陸上メダルとなった。キャリアを通じて10つの世界記録を樹立した。引退後はランニングの普及に尽力し、80代を超えた現在も台湾の正名運動の現場で活躍を続けている。",
     "category": "ja",
     "tags": [
       "スポーツ",
       "陸上競技",
       "オリンピック",
-      "ハードル"
+      "ハードル",
+      "世界記録"
     ],
     "url": "https://taiwan.md/ja/People/chi-cheng-flying-antelope",
-    "readingTime": 7,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/chi-cheng-flying-antelope.md"
@@ -13508,14 +13529,14 @@
     "path": "ja/People/chi-huey-wong-glycoscience-pioneer.md"
   },
   {
-    "title": "能預測路徑，預測不了命運：台灣與颱風的四百年",
-    "description": "從清代先民在澎湖目睹颶風，到 2009 年小林村在暴雨中消失，台灣與颱風共生的歷史從未停歇。如今我們能用 AI 在四分鐘內預測三十天後的颱風路徑，但氣象專家吳德榮說了一個反直覺的真相：中央山脈不是保護我們的神，而是把風變成水的加壓器。",
+    "title": "能預測風雨，預測不了命運：台灣與颱風的四百年",
+    "description": "2009 年莫拉克的那個清晨，71 歲的羅潘春美站在二樓陽台，看著獻肚山崩下來，吞掉小林村 462 位親人。十五年後，台灣用六組 AI 模型把 24 小時颱風路徑誤差從 172 公里壓到 57 公里。但那 57 公里裡誰會在風雨中出門上班、誰會收不到通知，預測不了。",
     "category": "Nature",
     "tags": [],
     "url": "https://taiwan.md/Nature/%E9%A2%B1%E9%A2%A8",
-    "readingTime": 45,
+    "readingTime": 34,
     "featured": false,
-    "date": "2026-05-06",
+    "date": "2026-05-09",
     "path": "Nature/颱風.md"
   },
   {
@@ -14517,18 +14538,18 @@
     "path": "ja/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md"
   },
   {
-    "title": "莊智淵",
-    "description": "卓球の教父、オリンピック4大会代表、孤独に練習を続けた孤高の英雄",
+    "title": "莊智淵：五輪六度出場、2013年世界チャンピオン、あと一歩届かなくて五輪メダル",
+    "description": "1981年4月2日生まれ。莊智淵は台湾卓球界史上最も長く戦い続けた選手です。2000年シドニーから2024年パリまで、五輪に連続六度台湾を代表して出場しました。2013年卓球世界選手権では陳建安とペアを組み、男子ダブルスの世界チャンピオンとなりました。五輪メダルはキャリア唯一の悔やみであり、最も近づいたのは2012年ロンドンの銅メダル戦でした。引退後は中山大学の体育学副教授に就任しました。",
     "category": "ja",
     "tags": [
-      "スポーツ",
+      "体育",
       "卓球",
       "オリンピック",
-      "プロ卓球",
-      "欧州リーグ"
+      "世界チャンピオン",
+      "プロ卓球"
     ],
     "url": "https://taiwan.md/ja/People/chuang-chih-yuan-table-tennis-legend",
-    "readingTime": 10,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/chuang-chih-yuan-table-tennis-legend.md"
@@ -15177,14 +15198,7 @@
     "title": "陳昇：彰化から出発、ファーストアルバム1988、三十年の年越しが彼の名刺",
     "description": "1958年10月29日、彰化県渓州郷に生まれた陳昇（ボビー・チェン）は、台湾のインディーズ音楽において最も個性的な創作歌手である。1988年にファーストアルバム『擁擠的樂園（混雑した楽園）』を発表し、1994年から年越しコンサートを連続開催。台湾音楽シーンにおける毎年大晦日の年次行事となった。2020年に口腔がんの手術を受けた後もステージに復帰し、2025年には31回目の年越しコンサート「大波浪（大波）」を開催した。",
     "category": "ja",
-    "tags": [
-      "音楽",
-      "インディーズ音楽",
-      "創作歌手",
-      "年越しコンサート",
-      "フォーク",
-      "ロック"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/People/bobby-chen-indie-music-pioneer",
     "readingTime": 23,
     "featured": false,
@@ -17249,7 +17263,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/Society/encyclopedia-of-taiwan",
-    "readingTime": 17,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-04-28",
     "path": "ja/Society/encyclopedia-of-taiwan.md"
@@ -17430,6 +17444,25 @@
     "featured": false,
     "date": "2026-03-26",
     "path": "ja/Culture/guan-sheng-di-jun-belief.md"
+  },
+  {
+    "title": "颱風假：誰的假，誰的班",
+    "description": "2001 年彰化一位老師殉職催生了台灣的颱風假制度。二十多年後，81% 勞工仍在風雨中照常上班，37.7% 完全拿不到薪資。每年夏天，一紙停班公告沿著台灣社會的階級線精準切開——白領在家刷手機，批發零售、農漁牧的工人在同一場颱風裡繼續出門。",
+    "category": "Society",
+    "tags": [
+      "颱風假",
+      "勞動權益",
+      "防災",
+      "台灣氣候",
+      "社會議題",
+      "外籍移工",
+      "颱風"
+    ],
+    "url": "https://taiwan.md/Society/%E9%A2%B1%E9%A2%A8%E5%81%87",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-05-09",
+    "path": "Society/颱風假.md"
   },
   {
     "title": "鳳梨酥：從選舉招待點心到年產值 250 億的台灣「金磚」",
@@ -18307,18 +18340,18 @@
     "path": "People/盧彥勳.md"
   },
   {
-    "title": "盧彦勳",
-    "description": "台湾テニスのエース、2010年ウィンブルドン大会ベスト8、オリンピック4大会連続出場",
+    "title": "盧彦勲：ウィンブルドン五輪ベスト8から五回のオリンピック出場へ——台湾テニスを最も遠くまで導いた男",
+    "description": "2010年ウィンブルドンで、盧彦勲は第7シードのアンディ・ロディックを破り、台湾男子テニス史上初のグランドスラムベスト8進出を果たした。2004年アテネから2021年東京まで、五回のオリンピックに欠かさず出場した彼は、台湾現代テニス史上最も遠くまで歩み続けた選手である。引退後はテニスアカデミーを設立し、自らのウィンブルドンの記録を超える台湾の若者を待ち続けている。",
     "category": "ja",
     "tags": [
-      "スポーツ",
-      "テニス",
-      "オリンピック",
-      "ウィンブルドン",
-      "プロテニス"
+      "體育",
+      "網球",
+      "奧運",
+      "溫布頓",
+      "職業網球"
     ],
     "url": "https://taiwan.md/ja/People/lu-yen-hsun-tennis-champion",
-    "readingTime": 10,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/lu-yen-hsun-tennis-champion.md"
@@ -19056,11 +19089,9 @@
     "title": "聶永真：台湾初のAGI会員、金曲賞パッケージから国家アイデンティティシステムへ——二十年の軌跡",
     "description": "聶永真（1977年生）は、スイス国際グラフィックデザイン連盟AGIに加盟した台湾人デザイナーであり、金曲賞最優秀アルバムパッケージ賞を3回受賞しています。デザイン案件はポピュラーミュージックのアルバムカバー（蘇打綠、林宥嘉、田馥甄）、書籍出版、市民運動（2014年太陽花運動「Democracy at 4am」ニューヨーク・タイムズ広告、2020年反譚德塞「Taiwan Can Help」8時間で1000万円相当のクラウドファンディング）、政治選挙キャンペーン（蔡英文2016年「Light Up Taiwan」と2期の大統領就任式メインビジュアル）、国営事業体のアイデンティティシステム（経済部、交通部観光署、台湾中油、台湾電力）、芸術空間（台中緑美図、ヴェネツィア・ビエンナーレ台湾館）に及びます。永真急制スタジオは台北と高雄駁二倉庫に拠点を持ちます。ベルギーとロンドンの大学院に進学しましたが、3校とも卒業はしていません。「デザイナー聶永真になる前に、彼は市民聶永真だった」と自ら語っています。2024年より4つの国営事業体アイデンティティ案件を連続で受注し、2026年台湾電力の新ロゴ発表当日に「政治的見返り」論争が勃発しました。",
     "category": "ja",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/People/nieh-yung-jen",
-    "readingTime": 65,
+    "readingTime": 66,
     "featured": false,
     "date": "2026-05-08",
     "path": "ja/People/nieh-yung-jen.md"
@@ -19593,13 +19624,11 @@
   },
   {
     "title": "Aaron Nieh: Taiwan's First AGI Member, Two Decades from Golden Melody Packaging to National Identity Systems",
-    "description": "Aaron Nieh (b. 1977) is the first Taiwanese designer to join the Swiss Alliance Graphique Internationale (AGI) and a three-time Golden Melody Award winner for Best Album Packaging. His portfolio spans pop music covers (Sodagreen, Yoga Lin, Hebe Tien), book publishing, civic movements (the 2014 Sunflower \\\"Democracy at 4am\\\" New York Times ad, the 2020 anti-Tedros \\\"Taiwan Can Help\\\" NT$10 million eight-hour crowdfunding campaign), political campaigns (Tsai Ing-wen's 2016 \\\"Light Up Taiwan\\\" and two presidential inauguration key visuals), state-enterprise identity systems (Ministry of Economic Affairs, Tourism Administration, CPC Corporation, Taipower), and art spaces (Taichung Green Museumbrary, Taiwan Pavilion at the Venice Biennale). His studio True Lie Workshop operates from Taipei and the Pier-2 Art Center warehouse in Kaohsiung; he attended graduate programs in Belgium and London and left all three without a degree; he has said, \\\"Before he was designer Aaron Nieh, he was citizen Aaron Nieh.\\\" From 2024 he won four consecutive state-enterprise identity contracts; on the day the new Taipower logo launched in 2026, accusations of \\\"political patronage\\\" erupted.",
+    "description": "Aaron Nieh (b. 1977) is the first Taiwanese designer to join the Swiss Alliance Graphique Internationale (AGI) and a three-time Golden Melody Award winner for Best Album Packaging. His portfolio spans pop music covers (Sodagreen, Yoga Lin, Hebe Tien), book publishing, civic movements (the 2014 Sunflower \"Democracy at 4am\" New York Times ad, the 2020 anti-Tedros \"Taiwan Can Help\" NT$10 million eight-hour crowdfunding campaign), political campaigns (Tsai Ing-wen''s 2016 \"Light Up Taiwan\" and two presidential inauguration key visuals), state-enterprise identity systems (Ministry of Economic Affairs, Tourism Administration, CPC Corporation, Taipower), and art spaces (Taichung Green Museumbrary, Taiwan Pavilion at the Venice Biennale). His studio True Lie Workshop operates from Taipei and the Pier-2 Art Center warehouse in Kaohsiung; he attended graduate programs in Belgium and London and left all three without a degree; he has said, \"Before he was designer Aaron Nieh, he was citizen Aaron Nieh.\" From 2024 he won four consecutive state-enterprise identity contracts; on the day the new Taipower logo launched in 2026, accusations of \"political patronage\" erupted.",
     "category": "en",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/People/nieh-yung-jen",
-    "readingTime": 142,
+    "readingTime": 143,
     "featured": false,
     "date": "2026-05-08",
     "path": "en/People/nieh-yung-jen.md"
@@ -20204,7 +20233,13 @@
     "title": "Arroz en tubo de bambú: la fiambrera del cazador que desafía al fuego",
     "description": "El arroz en tubo de bambú no es simplemente una \"receta de recipiente\", sino un preciso \"juego entre agua y fuego\". Aprovechando la propiedad física del agua de hervir a 100 °C, el tubo de bambú —un material altamente inflamable— puede resistir dos horas en la hoguera sin convertirse en cenizas. Esta sabiduría, nacida de la cultura de la caza, se ha convertido hoy en un emblema de la gastronomía indígena taiwanesa.",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "Indígenas",
+      "Bambú makino",
+      "Cultura de caza",
+      "Gastronomía sostenible",
+      "Comparación internacional"
+    ],
     "url": "https://taiwan.md/es/Food/bamboo-tube-rice",
     "readingTime": 51,
     "featured": false,
@@ -20597,9 +20632,7 @@
     "title": "Beida Special District: Three Decades of Urban Planning and the University Town Living Experiment",
     "description": "From the 1895 Longenpu Battlefield to the 2026 MRT University Town, this is an in-depth encyclopedia about land, aesthetics, and selective identity.",
     "category": "en",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/Geography/beida-special-district-sanxia",
     "readingTime": 125,
     "featured": false,
@@ -20654,14 +20687,7 @@
     "title": "Bobby Chen : parti de Changhua, premier album en 1988, trente ans de concerts du Nouvel An comme carte de visite",
     "description": "Né le 29 octobre 1958 dans le canton de Xizhou, comté de Changhua, Bobby Chen est l'auteur-compositeur-interprète le plus singulier de la musique indépendante taïwanaise. Il sort son premier album solo *Le Paradis encombré* en 1988, puis lance en 1994 une série de concerts du Nouvel An qui deviennent, chaque dernière nuit de l'année, un rituel annuel de la scène musicale taïwanaise. En 2020, après une opération pour un cancer de la cavité buccale, il remonte sur scène ; en 2025, sa 31ᵉ édition, « Grandes Vagues », a lieu comme prévu.",
     "category": "fr",
-    "tags": [
-      "Musique",
-      "Musique indépendante",
-      "Auteur-compositeur-interprète",
-      "Concert du Nouvel An",
-      "Folk",
-      "Rock"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/People/bobby-chen-indie-music-pioneer",
     "readingTime": 61,
     "featured": false,
@@ -20672,14 +20698,7 @@
     "title": "Bobby Chen: de Changhua al primer álbum en 1988, treinta años de Nochevieja como tarjeta de presentación",
     "description": "Nacido el 29 de octubre de 1958 en el municipio de Xizhou, condado de Changhua, Bobby Chen es el cantautor de música independiente más singular de Taiwán. En 1988 lanzó su primer álbum en solitario, *Paradiso abarrotado*. Desde 1994 celebra conciertos de Nochevieja de forma ininterrumpida, convirtiéndose en el ritual anual de la última noche del año en la escena musical taiwanesa. Tras una cirugía por cáncer oral en 2020, regresó al escenario; en 2025 presentó su 31.º concierto de Nochevieja, *Gran ola*.",
     "category": "es",
-    "tags": [
-      "Música",
-      "Música independiente",
-      "Cantautor",
-      "Concierto de Nochevieja",
-      "Folk",
-      "Rock"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/People/bobby-chen-indie-music-pioneer",
     "readingTime": 59,
     "featured": false,
@@ -21901,33 +21920,35 @@
     "path": "en/People/cheng-wen-chi.md"
   },
   {
-    "title": "Chi Cheng — L'Antilope Bondissante",
-    "description": "Médaillée de bronze au 80 m haies lors des Jeux olympiques de Mexico 1968, figure légendaire de l'athlétisme taïwanais",
+    "title": "Chi Cheng : 10 records du monde, cinquante ans de course pour la reconnaissance de Taïwan",
+    "description": "Née le 15 mars 1944 à Hsinchu, Chi Cheng, surnommée « l'Antilope volante », est l'athlète féminine la plus brillante de l'histoire de l'athlétisme taïwanais. Aux Jeux olympiques de Mexico en 1968, elle décroche le bronze sur 80 mètres haies en 10 s 51, première médaille olympique féminine en athlétisme pour Taïwan ; elle bat au total 10 records du monde au cours de sa carrière. Après sa retraite, elle se consacre à la promotion du running. À plus de 80 ans, elle reste active sur le front du mouvement pour la reconnaissance du nom « Taïwan ».",
     "category": "fr",
     "tags": [
-      "sport",
-      "athlétisme",
-      "jeux olympiques",
-      "haies"
+      "Sport",
+      "Athlétisme",
+      "Jeux olympiques",
+      "Haies",
+      "Records du monde"
     ],
     "url": "https://taiwan.md/fr/People/chi-cheng-flying-antelope",
-    "readingTime": 20,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/chi-cheng-flying-antelope.md"
   },
   {
-    "title": "Chi Cheng: El Antílope Volador",
-    "description": "\"El Antílope Volador\", ganadora de la medalla de bronce en 80 metros vallas en los Juegos Olímpicos de México 1968",
+    "title": "Chi Cheng: 10 récords mundiales en pista, y cincuenta años después sigue corriendo por el nombre de Taiwán",
+    "description": "Nacida el 15 de marzo de 1944 en Hsinchu, Chi Cheng se convirtió en la atleta femenina más destacada de la historia del atletismo taiwanés bajo el apodo de \"gacela saltadora\". En los Juegos Olímpicos de México 1968, ganó el bronzo en 80 metros vallas con 10,51 segundos, la primera medalla olímpica femenina de atletismo para Taiwán; a lo largo de su carrera estableció 10 récords mundiales. Tras su retiro, se dedicó a promover las carreras de ruta, y con más de ochenta años sigue activa en el movimiento para que Taiwán compita bajo su propio nombre.",
     "category": "es",
     "tags": [
       "Deportes",
       "Atletismo",
       "Juegos Olímpicos",
-      "Vallas"
+      "Vallas",
+      "Récord mundial"
     ],
     "url": "https://taiwan.md/es/People/chi-cheng-flying-antelope",
-    "readingTime": 21,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/chi-cheng-flying-antelope.md"
@@ -22257,14 +22278,7 @@
     "title": "Chien-Ming Wang: del Instituto Chien-King al sinker que le dio dos temporadas ganadas a los Yankees",
     "description": "Nacido en Tainan en 1980, Chien-Ming Wang es el lanzador más representativo de la historia del béisbol taiwanés en Estados Unidos. Estudió en el Instituto Chien-King de Tainan y debutó en las Grandes Ligas en 2005. En 2006, con récord de 19-6, compartió el liderato de victorias de la Liga Americana con Johan Santana (el primero de Asia), y en 2007 registró 19-7. Una lesión corriendo las bases en junio de 2008 truncó su carrera. En 2018 se estrenó el documental _Late Life: The Chien-Ming Wang Story_; en el WBC 2023 y el WBSC Premier12 de 2024 fue entrenador del bullpen del equipo nacional de Taiwán.",
     "category": "es",
-    "tags": [
-      "Deportes",
-      "Béisbol",
-      "MLB",
-      "Yankees",
-      "Lanzadores taiwaneses en el extranjero",
-      "Equipo nacional de Taiwán"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/People/chien-ming-wang-mlb-sinker-ace",
     "readingTime": 76,
     "featured": false,
@@ -22594,32 +22608,26 @@
     "path": "en/People/chu-yi-kuei-qing-rebel.md"
   },
   {
-    "title": "Chuang Chih-yuan",
-    "description": "El padrino del tenis de mesa, cuatro veces olímpico, un héroe solitario forjado en el entrenamiento en solitario",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/People/chuang-chih-yuan-table-tennis-legend",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/chuang-chih-yuan-table-tennis-legend.md"
-  },
-  {
-    "title": "Chuang Chih-Yuan",
-    "description": "Le parrain du tennis de table taïwanais, représentant à quatre Jeux olympiques, héros solitaire forgé par l'entraînement",
+    "title": "Chuang Chih-yuan : six Jeux olympiques, champion du monde 2013, cette médaille olympique à un pas",
+    "description": "Né le 2 avril 1981, Chuang Chih-yuan est le joueur de tennis de table ayant eu la carrière la plus longue de l'histoire taïwanaise. De Sydney 2000 à Paris 2024, il a représenté Taïwan à six éditions consécutives des Jeux olympiques. En 2013, il a remporté le titre mondial en double masculin aux Championnats du monde de tennis de table avec Chen Chien-an. La médaille olympique reste le seul regret de sa carrière, la dernière occasion ayant échoué lors du match pour la bronze à Londres 2012. Après sa retraite, il est devenu professeur associé en éducation physique à l'université Sun Yat-sen.",
     "category": "fr",
-    "tags": [
-      "Sport",
-      "Tennis de table",
-      "Jeux olympiques",
-      "Tennis de table professionnel",
-      "Ligue européenne"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/People/chuang-chih-yuan-table-tennis-legend",
-    "readingTime": 26,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/chuang-chih-yuan-table-tennis-legend.md"
+  },
+  {
+    "title": "Chuang Chih-yuan: seis Juegos Olímpicos, campeón mundial en 2013, y la medalla olímpica que estuvo a punto de alcanzar",
+    "description": "Nacido el 2 de abril de 1981, Chuang Chih-yuan es el jugador con la trayectoria más larga en la historia del tenis de mesa taiwanés. Desde Sídney 2000 hasta París 2024, representó a Taiwán en seis ediciones consecutivas de los Juegos Olímpicos; en el Campeonato Mundial de 2013, él y Chen Chien-an se alzaron con el título mundial en dobles masculinos. La medalla olímpica fue la única asignatura pendiente de su carrera, y la ocasión más cercana fue en Londres 2012, donde cayó en el combate por el bronce. Tras su retiro, se incorporó como profesor asociado de educación física en la Universidad Nacional Sun Yat-sen.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/People/chuang-chih-yuan-table-tennis-legend",
+    "readingTime": 56,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/chuang-chih-yuan-table-tennis-legend.md"
   },
   {
     "title": "Chuang Chih-Yuan: Six Olympics, 2013 World Champion, and the Olympic Medal That Was One Step Away",
@@ -23312,20 +23320,21 @@
     "path": "es/Food/night-market-culture.md"
   },
   {
-    "title": "Cultura del Té",
-    "description": "La evolución de la cultura del té de Taiwán desde las ceremonias del té tradicionales hasta las bebidas modernas de té de burbujas, mostrando las variedades únicas de té y la cultura de consumo de la isla",
+    "title": "Cultura del Té de Taiwán",
+    "description": "Una pequeña isla excluida de los acuerdos de restricción de producción entre las grandes potencias del té, que por eso creó su propia edad de oro tetera, para terminar conquistando el mundo entero con una taza de té mezclado con 'pequeños postres'",
     "category": "es",
     "tags": [
-      "Comida",
+      "Food",
       "Cultura del Té",
       "Té Oolong",
       "Té de Alta Montaña",
-      "Té de Burbujas"
+      "Bebidas RTD",
+      "Té con Leche de Perlas"
     ],
     "url": "https://taiwan.md/es/Food/tea-culture",
     "readingTime": 40,
-    "featured": false,
-    "date": "2026-03-17",
+    "featured": true,
+    "date": "2026-03-23",
     "path": "es/Food/tea-culture.md"
   },
   {
@@ -24422,7 +24431,13 @@
     "title": "El desarrollo del hip-hop y rap taiwanés",
     "description": "Desde Dwagie y MC HotDog hasta MJ116, Soft Lipa y Leo Wang: la localización de la cultura hip-hop taiwanés y su reconocimiento en los Premios Golden Melody",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "Música",
+      "Hip-Hop",
+      "Rap",
+      "Premios Golden Melody",
+      "Música popular"
+    ],
     "url": "https://taiwan.md/es/Music/taiwan-hip-hop-and-rap",
     "readingTime": 76,
     "featured": true,
@@ -24571,7 +24586,15 @@
     "title": "El mercado bursátil y de capitales de Taiwán: del colapso de los 10.000 puntos en 1990 al sexto lugar mundial en 2026, una isla donde el 44% del patrimonio depende de una sola acción",
     "description": "El 28 de abril de 2026, Bloomberg publicó el titular \"Taiwan Overtakes Canada\". Una isla que en 1990 vio cómo el colapso bursátil de los 10.000 puntos se llevó los ahorros de jubilación de ciento sesenta mil personas, treinta y seis años después escaló hasta convertirse en el sexto mercado bursátil más grande del mundo — pero de sus 4,47 billones de dólares en capitalización, casi la mitad recae sobre una sola empresa de semiconductores.",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "mercado bursátil taiwanés",
+      "bolsa de valores",
+      "mercado de capitales",
+      "ETF",
+      "TSMC",
+      "inversores minoristas",
+      "IA"
+    ],
     "url": "https://taiwan.md/es/Economy/taiwan-stock-market",
     "readingTime": 115,
     "featured": true,
@@ -25063,7 +25086,6 @@
       "Fabricación electrónica",
       "Subcontratación",
       "Foxconn",
-      "Foxconn",
       "Gobierno corporativo"
     ],
     "url": "https://taiwan.md/es/Economy/foxconn-precision-industry",
@@ -25197,7 +25219,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Society/encyclopedia-of-taiwan",
-    "readingTime": 45,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-04-28",
     "path": "en/Society/encyclopedia-of-taiwan.md"
@@ -25300,14 +25322,7 @@
     "title": "Entreprises taïwanaises : Foxconn — 8 000 milliards de chiffre d''affaires et la guerre anti-corruption interne sur le même bilan",
     "description": "Le 30 avril 2026 au matin, le magazine Time inscrivait Foxconn parmi les 100 entreprises les plus influentes au monde ; le même jour en fin d''après-midi, des enquêteurs munis de mandats de perquisition entraient dans l''usine Foxconn de Tucheng. De 1974, lorsque la mère de Terry Gou emprunta 100 000 dollars taïwanais lors d''une tontine, à 2025, année où le cloud et les réseaux dépassèrent l''électronique grand public pour atteindre 8 000 milliards de chiffre d''affaires, le plus difficile à gérer chez Foxconn n''est ni la géopolitique, ni le rythme d''expédition des baies de serveurs d''IA — c''est son propre personnel.",
     "category": "fr",
-    "tags": [
-      "Économie",
-      "Entreprises",
-      "Fabrication électronique",
-      "Sous-traitance",
-      "Foxconn",
-      "Gouvernance dentreprise"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/Economy/foxconn-precision-industry",
     "readingTime": 110,
     "featured": false,
@@ -26050,7 +26065,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/fujui-wang",
-    "readingTime": 102,
+    "readingTime": 112,
     "featured": false,
     "date": "2026-05-04",
     "path": "fr/People/fujui-wang.md"
@@ -26061,7 +26076,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/fujui-wang",
-    "readingTime": 92,
+    "readingTime": 102,
     "featured": false,
     "date": "2026-05-04",
     "path": "en/People/fujui-wang.md"
@@ -26072,7 +26087,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/fujui-wang",
-    "readingTime": 101,
+    "readingTime": 110,
     "featured": false,
     "date": "2026-05-04",
     "path": "es/People/fujui-wang.md"
@@ -27529,7 +27544,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/huang-shao-yong-musician",
-    "readingTime": 71,
+    "readingTime": 72,
     "featured": false,
     "date": "2026-04-20",
     "path": "en/People/huang-shao-yong-musician.md"
@@ -27978,13 +27993,7 @@
     "title": "Introducción a los peinados taiwaneses: la escala social de la prohibición capilar a los memes",
     "description": "Desde la regulación de corte de pelo rapado del Ministerio de Educación en 1969 hasta que en 2005 Du Zhengsheng, ministro de Educación, declaró con una sola frase —\"¿Puede un peinado representar si alguien es buena o mala persona?\"— la abolición total de la prohibición capilar, la cabeza de los hombres taiwaneses refleja una transformación social de la disciplina autoritaria a la autoexpresión. El reciente fenómeno viral del meme \"cabeza de Azhi\" no es más que el capítulo más reciente de este cambio.",
     "category": "es",
-    "tags": [
-      "peinado",
-      "cultura de la peluquería",
-      "moda y tendencias",
-      "vida urbana",
-      "memes"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/Lifestyle/taiwan-hairstyles",
     "readingTime": 78,
     "featured": false,
@@ -28164,7 +28173,7 @@
       "中國風"
     ],
     "url": "https://taiwan.md/en/People/jay-chou",
-    "readingTime": 41,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-03-23",
     "path": "en/People/jay-chou.md"
@@ -28173,17 +28182,9 @@
     "title": "Jay Chou",
     "description": "En 1997, un tímido chico de 18 años reescribió la historia de la música popular en chino",
     "category": "es",
-    "tags": [
-      "人物",
-      "Jay Chou",
-      "música popular en chino",
-      "cantante",
-      "composición",
-      "R&B",
-      "estilo chino"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/People/jay-chou",
-    "readingTime": 46,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-23",
     "path": "es/People/jay-chou.md"
@@ -28192,17 +28193,9 @@
     "title": "Jay Chou",
     "description": "En 1997, un garçon timide de 18 ans a réécrit l'histoire de la musique pop sinophone",
     "category": "fr",
-    "tags": [
-      "人物",
-      "Jay Chou",
-      "musique pop sinophone",
-      "chanteur",
-      "composition",
-      "R&B",
-      "style chinois"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/People/jay-chou",
-    "readingTime": 49,
+    "readingTime": 52,
     "featured": false,
     "date": "2026-03-23",
     "path": "fr/People/jay-chou.md"
@@ -28623,7 +28616,14 @@
     "title": "Jolin Tsai",
     "description": "La reina del pop que no era genio: la profesora de baile que dijo que \"no servía para bailar\" y que veinticinco años después se convirtió en la artista de canto y baile con más premios en la historia de los Premios Golden Melody",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "Personaje",
+      "Cantante",
+      "Mundo del espectáculo",
+      "Derechos LGBTQ+",
+      "Música pop",
+      "Premios Golden Melody"
+    ],
     "url": "https://taiwan.md/es/People/jolin-tsai",
     "readingTime": 45,
     "featured": false,
@@ -29342,7 +29342,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/Society/encyclopedia-of-taiwan",
-    "readingTime": 38,
+    "readingTime": 39,
     "featured": false,
     "date": "2026-04-28",
     "path": "fr/Society/encyclopedia-of-taiwan.md"
@@ -31073,7 +31073,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Society/encyclopedia-of-taiwan",
-    "readingTime": 5,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-04-28",
     "path": "es/Society/encyclopedia-of-taiwan.md"
@@ -32131,7 +32131,13 @@
     "title": "La subcontratación de animación en Taiwán",
     "description": "Taiwán fue un centro global de subcontratación de animación: Wang Film Productions se encargó de la producción de clásicos de Hollywood, y en su apogeo representó un tercio de la producción mundial.",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "Industria de animación",
+      "Subcontratación",
+      "Wang Film Productions",
+      "Disney Oriental",
+      "Arte taiwanés"
+    ],
     "url": "https://taiwan.md/es/Economy/taiwan-creator-economy",
     "readingTime": 33,
     "featured": false,
@@ -33405,7 +33411,7 @@
       "["
     ],
     "url": "https://taiwan.md/fr/Geography/beida-special-district-sanxia",
-    "readingTime": 141,
+    "readingTime": 142,
     "featured": false,
     "date": "2026-04-29",
     "path": "fr/Geography/beida-special-district-sanxia.md"
@@ -35597,26 +35603,38 @@
     "path": "en/People/lu-hsiu-yan.md"
   },
   {
-    "title": "Lu Yen-hsun",
-    "description": "El número uno del tenis taiwanés, cuartofinalista en Wimbledon 2010, representante en cuatro Juegos Olímpicos",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/People/lu-yen-hsun-tennis-champion",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/lu-yen-hsun-tennis-champion.md"
-  },
-  {
-    "title": "Lu Yen-hsun",
-    "description": "Le numéro un du tennis taïwanais, quart de finaliste à Wimbledon en 2010, représentant de Taïwan à quatre Jeux olympiques",
+    "title": "Lu Yen-hsun : des quarts de finale de Wimbledon à cinq éditions olympiques, le joueur de tennis taïwanais allé le plus loin",
+    "description": "En 2010 à Wimbledon, Lu Yen-hsun bat la tête de série n°7 Andy Roddick, devenant le premier joueur masculin de Taïwan à atteindre les quarts de finale d'un tournoi du Grand Chelem. D'Athènes 2004 à Tokyo 2021, il a participé à cinq éditions consécutives des Jeux olympiques, un record dans l'histoire du tennis taïwanais contemporain. Après sa retraite, il a fondé une académie de tennis, attendant qu'un jeune Taïwanais vienne un jour surpasser son exploit de Wimbledon.",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "體育",
+      "網球",
+      "奧運",
+      "溫布頓",
+      "職業網球"
+    ],
     "url": "https://taiwan.md/fr/People/lu-yen-hsun-tennis-champion",
-    "readingTime": 24,
+    "readingTime": 55,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/lu-yen-hsun-tennis-champion.md"
+  },
+  {
+    "title": "Lu Yen-hsun: de los cuartos de final de Wimbledon a cinco Juegos Olímpicos, el tenista taiwanés que llegó más lejos",
+    "description": "En Wimbledon 2010, Lu Yen-hsun derrotó al séptimo cabeza de serie Andy Roddick y se convirtió en el primer tenista masculino de Taiwán en alcanzar los cuartos de final de un Grand Slam. Desde Atenas 2004 hasta Tokio 2021, participó sin falta en cinco ediciones consecutivas de los Juegos Olímpicos, siendo el jugador que más lejos ha llegado en la historia del tenis moderno taiwanés. Tras su retiro, fundó una academia de tenis y sigue esperando que aparezca un joven taiwanés capaz de superar su marca en Wimbledon.",
+    "category": "es",
+    "tags": [
+      "Deportes",
+      "Tenis",
+      "Juegos Olímpicos",
+      "Wimbledon",
+      "Tenis profesional"
+    ],
+    "url": "https://taiwan.md/es/People/lu-yen-hsun-tennis-champion",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/lu-yen-hsun-tennis-champion.md"
   },
   {
     "title": "Lu Yen-hsun: From Wimbledon Quarterfinals to Five Olympics, the Man Who Took Taiwanese Tennis the Farthest",
@@ -35819,22 +35837,6 @@
     "path": "en/Nature/marine-pollution-governance-and-conservation.md"
   },
   {
-    "title": "Mark Liu",
-    "description": "Presidente de TSMC, sucesor de Morris Chang, diplomático del semiconductor en la geopolítica",
-    "category": "es",
-    "tags": [
-      "TSMC",
-      "semiconductor",
-      "geopolítica",
-      "liderazgo empresarial"
-    ],
-    "url": "https://taiwan.md/es/People/mark-liu",
-    "readingTime": 23,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/mark-liu.md"
-  },
-  {
     "title": "Mark Liu : le docteur de Berkeley qui a succédé à Morris Chang, six ans de décisions dans l'étau des puces Taïwan-États-Unis",
     "description": "En juin 2018, Morris Chang prend sa retraite. Mark Liu et C.C. Wei prennent conjointement la tête de TSMC. Ce docteur en génie électrique de Berkeley a piloté avec la précision d'un ingénieur la plus importante fonderie de semi-conducteurs au monde. Durant six ans de rivalité technologique sino-américaine, il a annoncé l'implantation en Arizona, navigué à de multiples reprises les tensions géopolitiques, puis a cédé la présidence à C.C. Wei en juin 2024, laissant derrière lui un dernier mot : « Achetez TSMC. »",
     "category": "fr",
@@ -35849,6 +35851,22 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/mark-liu.md"
+  },
+  {
+    "title": "Mark Liu: El doctor de Berkeley que sucedió a Morris Chang, seis años de decisiones en la grieta del semiconductor entre Taiwán y EE.UU.",
+    "description": "En junio de 2018, Morris Chang se retiró y Mark Liu junto con C.C. Wei asumieron conjuntamente el liderazgo de TSMC. Este doctor en ingeniería eléctrica de Berkeley dirigió con precisión de ingeniero la fábrica de chips más importante del mundo, anunciando durante seis años de competencia tecnológica entre EE.UU. y China la construcción de una planta en Arizona y negociando repetidamente en el terreno geopolítico. En junio de 2024 dejó el cargo y cedió el mando a C.C. Wei, dejando como última frase «por favor, compren acciones de TSMC».",
+    "category": "es",
+    "tags": [
+      "TSMC",
+      "semiconductores",
+      "geopolítica",
+      "liderazgo empresarial"
+    ],
+    "url": "https://taiwan.md/es/People/mark-liu",
+    "readingTime": 56,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/mark-liu.md"
   },
   {
     "title": "Mark Liu: The Berkeley PhD Who Succeeded Morris Chang — Six Years of Decision-Making in the US-China Chip Crossfire",
@@ -36876,11 +36894,9 @@
     "title": "Nieh Yung-jen : premier membre taïwanais de l'AGI, vingt ans de création des pochettes de disques aux systèmes d'identité nationale",
     "description": "Nieh Yung-jen (né en 1977) est le premier designer taïwanais à avoir été admis à l'Alliance Graphique Internationale (AGI), l'association suisse de design graphique. Trois fois lauréat du Golden Melody Award pour le meilleur design de pochette d'album, il a travaillé dans des domaines aussi variés que les couvertures d'albums de musique pop (Sodagreen, Yoga Lin, Hebe Tien), l'édition de livres, les mouvements citoyens (publicité « Democracy at 4am » dans le New York Times à l'aube du Mouvement du Tournesol en 2014, campagne « Taiwan Can Help » contre Tedros en 2020 ayant récolté dix millions en huit heures), les campagnes politiques (identité visuelle « Light Up Taiwan » pour Tsai Ing-wen en 2016 et visuels des deux cérémonies d'investiture présidentielle), les systèmes d'identité d'entreprises publiques (Ministère de l'Économie, Administration du Tourisme, CPC Corporation, Taipower), et les espaces artistiques (Taichung Green Museumbrary, pavillon taïwanais de la Biennale de Venise). Son studio Aaron Nieh Workshop est présent à Taipei et dans les entrepôts de Pier-2 à Kaohsiung ; il a étudié en Belgique et à Londres sans obtenir de diplôme dans aucune des trois écoles fréquentées ; il déclare : « Avant d'être le designer Nieh Yung-jen, il était le citoyen Nieh Yung-jen. » À partir de 2024, il a remporté consécutivement quatre marchés d'identité visuelle d'entreprises publiques ; le 8 mai 2026, le lancement du nouveau logo de Taipower a déclenché une controverse de « favoritisme politique ».",
     "category": "fr",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/People/nieh-yung-jen",
-    "readingTime": 167,
+    "readingTime": 168,
     "featured": false,
     "date": "2026-05-08",
     "path": "fr/People/nieh-yung-jen.md"
@@ -37377,9 +37393,17 @@
     "title": "Papas envenenadas: más allá de 200 ppm, las cicatrices de 30 ppm, 14 días y 15 años de seguridad alimentaria",
     "description": "El 29 de abril de 2026, el portavoz de la Oficina de Asuntos de Taiwán del Consejo de Estado de China, Chen Binhua, calificó al gobierno de Lai Ching-te de \"entregar una vez más la salud de la población como carta de sumisión a Estados Unidos\" al referirse a las \"papas envenenadas\". El núcleo real de la controversia abarca tres niveles: la brecha de 150 veces entre el residuo del inhibidor de brotes CIPC en la UE (0,2 ppm) frente a Taiwán (30 ppm), cómo 85 inspectores fronterizos pueden \"revisar una por una\" 300 millones de unidades, y las cicatrices acumuladas en 15 años de seguridad alimentaria desde el escándalo de plastificantes de 2011 —el cimiento sobre el cual este narrativo pisa con precisión—.",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "Papas envenenadas",
+      "Seguridad alimentaria",
+      "Guerra cognitiva",
+      "Relaciones transfronterizas",
+      "Acuerdo ART",
+      "Solanina",
+      "CIPC"
+    ],
     "url": "https://taiwan.md/es/Society/poisoned-potato-cognitive-warfare-taiwan",
-    "readingTime": 205,
+    "readingTime": 206,
     "featured": false,
     "date": "2026-04-30",
     "path": "es/Society/poisoned-potato-cognitive-warfare-taiwan.md"
@@ -37739,9 +37763,17 @@
     "title": "Poisoned Potatoes: Beyond the 200 ppm — There's 30 ppm, 14 Days, and 15 Years of Food-Safety Scars",
     "description": "On 29 April 2026, Chen Binhua of China''s Taiwan Affairs Office attacked the Lai Ching-te government with the phrase \"poisoned potatoes\" — calling it \"yet another offering of the public''s health to flatter America.\" The real core of the controversy spans three layers: the 150-fold gap between the EU''s 0.2 ppm and Taiwan''s 30 ppm CIPC residue limits; the impossibility of \"inspecting every single potato\" with 85 actual border inspectors against 300 million potatoes; and 15 years of accumulated food-safety scars since the 2011 plasticizer scandal — the foundation this narrative steps onto.",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "Poisoned Potatoes",
+      "Food Safety",
+      "Cognitive Warfare",
+      "Cross-Strait Relations",
+      "ART Agreement",
+      "Solanine",
+      "CIPC"
+    ],
     "url": "https://taiwan.md/en/Society/poisoned-potato-cognitive-warfare-taiwan",
-    "readingTime": 235,
+    "readingTime": 236,
     "featured": false,
     "date": "2026-04-30",
     "path": "en/Society/poisoned-potato-cognitive-warfare-taiwan.md"
@@ -37970,13 +38002,7 @@
     "title": "Présentation des coiffures taïwanaises : des interdictions capillaires aux mèmes, un reflet des mutations sociales",
     "description": "En 1969, le ministère de l'Éducation de la République de Chine imposa le crâne rasé comme norme pour les collégiens. En 2005, Du Zhengsheng, alors ministre de l'Éducation, mit fin définitivement à cette interdiction après une protestation de quatre cents élèves, déclarant : « La coiffure peut-elle déterminer si quelqu'un est bon ou mauvais ? » Le crâne des hommes taïwanais reflète ainsi une transition sociale, de la discipline autoritaire à l'expression individuelle. Le mème « la coupe d'A-Zhi », devenu viral ces dernières années, n'en est que le dernier chapitre.",
     "category": "fr",
-    "tags": [
-      "coiffure",
-      "culture de la coiffure",
-      "mode et tendances",
-      "vie urbaine",
-      "mèmes"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/Lifestyle/taiwan-hairstyles",
     "readingTime": 79,
     "featured": false,
@@ -38778,14 +38804,7 @@
     "title": "Retirada de la ONU: aquellos 17 minutos de 1971 en que Taiwán pasó de ser \"China\" a convertirse en un huérfano internacional",
     "description": "El 25 de octubre de 1971, en el momento en que Zhou Shukai bajó del estrado de la Asamblea General de la ONU, la República China pasó de ser miembro fundador de las Naciones Unidas a convertirse en un observador al que aún hoy se le niega la entrada. Medio siglo después, aquella decisión de \"Han y bandidos no pueden coexistir\" sigue teniendo consecuencias: en 2025, Estados Unidos aprobó una ley que reafirma que la Resolución 2758 nunca abordó la representación de Taiwán.",
     "category": "es",
-    "tags": [
-      "diplomacia",
-      "historia",
-      "Naciones Unidas",
-      "Guerra Fría",
-      "relaciones transfronterizas",
-      "derecho internacional"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/History/withdrawal-from-united-nations",
     "readingTime": 101,
     "featured": false,
@@ -38796,14 +38815,7 @@
     "title": "Retrait des Nations unies : ces 17 minutes de 1971 où Taïwan est passé de « la Chine » à l'abandon international",
     "description": "Le 25 octobre 1971, au moment où Shū Kǎi descendit de la tribune de l'Assemblée générale des Nations unies, la République de Chine, membre fondateur de l'Organisation, devint un observateur toujours tenu à la porte. Un demi-siècle plus tard, la décision « Han et bandits ne peuvent coexister » continue de produire ses effets — en 2025, les États-Unis ont adopté une loi réaffirmant que la résolution 2758 n'a jamais traité de la représentation de Taïwan.",
     "category": "fr",
-    "tags": [
-      "diplomatie",
-      "histoire",
-      "Nations unies",
-      "Guerre froide",
-      "relations transstrait",
-      "droit international"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/History/withdrawal-from-united-nations",
     "readingTime": 106,
     "featured": false,
@@ -39151,23 +39163,12 @@
     "path": "en/People/shen-sheng-po.md"
   },
   {
-    "title": "Shih Ming-te",
-    "description": "Líder del Incidente de Formosa, pionero del movimiento democrático, prisionero político que cumplió 25 años de cárcel",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/People/shih-ming-te",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/shih-ming-te.md"
-  },
-  {
-    "title": "Shih Ming-teh",
-    "description": "Figure centrale de l'Incident de Formosa, pionnier de la démocratisation de Taïwan, prisonnier politique ayant passé 25 ans derrière les barreaux",
+    "title": "Shih Ming-teh : vingt-cinq ans derrière les barreaux, il finit par lever le drapeau contre son propre parti",
+    "description": "Après l'incident de Kaohsiung en 1979, Shih Ming-teh, désigné comme cerveau de l'affaire, prononça un plaidoyer éloquent devant le tribunal militaire : il ne reconnut aucun crime, ne demanda aucune clémence, et fut finalement condamné à la prison à vie. Il passa au total plus de vingt-cinq ans incarcéré, devenant l'une des figures les plus marquantes du mouvement démocratique taïwanais. Mais en 2006, celui qui avait contribué à bâtir le Parti démocrate progressiste (DPP) se retourna contre le pouvoir en lançant le mouvement des Chemises rouges contre Chen Shui-bian. Le 15 janvier 2024, jour de son 83e anniversaire, il quitta ce monde en emportant cette contradiction irrésolue.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/shih-ming-te",
-    "readingTime": 33,
+    "readingTime": 51,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/shih-ming-te.md"
@@ -39188,6 +39189,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/shih-ming-te.md"
+  },
+  {
+    "title": "Shih Ming-teh: Veinticinco años entre rejas, al final levantó la bandera contra su propio partido",
+    "description": "Tras el Incidente de Formosa en 1979, Shih Ming-teh, acusado como cabecilla, pronunció un discurso apasionado en el tribunal militar: no se declaró culpable, no suplicó clemencia y fue condenado finalmente a cadena perpetua. Pasó más de veinticinco años en prisión a lo largo de su vida, convirtiéndose en uno de los mártires más importantes del movimiento democrático taiwanés. Pero en 2006, este hombre que había ayudado a cimentar el poder del Partido Democrático Progresista (DPP) dio un giro y lideró el movimiento de los Camisas Rojas contra Chen Shui-bian. El 15 de enero de 2024, el día de su 83.º cumpleaños, falleció cargando consigo esta contradicción irresoluble.",
+    "category": "es",
+    "tags": [
+      "Movimiento democrático",
+      "Incidente de Formosa",
+      "Víctima política",
+      "Movimiento de las Camisas Rojas contra Chen",
+      "Líder político"
+    ],
+    "url": "https://taiwan.md/es/People/shih-ming-te",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/shih-ming-te.md"
   },
   {
     "title": "Shovel Superheroes and Island Synchronicity: How Taiwan's Disaster Volunteer Culture Shapes National Identity",
@@ -39999,9 +40017,7 @@
     "title": "Taipei 101 : Du « chien de garde » au « serpent doré », le pari politico-économique et feng shui d'un monument emblématique",
     "description": "Taipei 101 n'est pas simplement un gratte-ciel : c'est le jeu politico-économique entre Chen Shui-bian et Peng Huan-nan, l'expérience feng shui de Lee Chung-yuan, et le « boss final » sous les pieds d'Alex Honnold. De 59 à 101 étages, l'évolution de ce « bassin à trésors » révèle les rapports de pouvoir et les mystères qui se cachent derrière.",
     "category": "fr",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/Geography/taipei-101",
     "readingTime": 80,
     "featured": false,
@@ -40012,9 +40028,7 @@
     "title": "Taipei 101: Del \"perro guardián\" a la \"serpiente dorada\", la apuesta política, económica y feng shui de un ícono",
     "description": "Taipei 101 no es solo un rascacielos: es el tablero de juego político y económico entre Chen Shui-bian y Peng Huai-nan, el experimento feng shui de Lee Chung-yien, y el \"jefe final\" bajo los pies de Alex Honnold. De 59 a 101 pisos, la evolución de esta \"cuenca de la prosperidad\" revela el poder y el misterio detrás del símbolo.",
     "category": "es",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/Geography/taipei-101",
     "readingTime": 76,
     "featured": false,
@@ -40025,9 +40039,7 @@
     "title": "Taipei 101: From 'Watchdog' to 'Golden Snake' — The Political Economy and Feng Shui Gamble of a Landmark",
     "description": "Taipei 101 is more than a building. It is the political-economic chess match between Chen Shui-bian and Peng Huan-nan, a feng shui experiment by C. Y. Lee, and the 'final boss' beneath Alex Honnold's feet. From 59 floors to 101, the evolution of this 'treasure basin' reveals the power and mystery behind the icon.",
     "category": "en",
-    "tags": [
-      "["
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/Geography/taipei-101",
     "readingTime": 69,
     "featured": false,
@@ -40097,8 +40109,8 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/Society/taiwan-eswatini-relations",
-    "readingTime": 131,
-    "featured": false,
+    "readingTime": 132,
+    "featured": true,
     "date": "2026-05-05",
     "path": "fr/Society/taiwan-eswatini-relations.md"
   },
@@ -40108,8 +40120,8 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/Society/taiwan-eswatini-relations",
-    "readingTime": 131,
-    "featured": false,
+    "readingTime": 132,
+    "featured": true,
     "date": "2026-05-05",
     "path": "ko/Society/taiwan-eswatini-relations.md"
   },
@@ -41851,9 +41863,9 @@
       "Silicon Shield"
     ],
     "url": "https://taiwan.md/en/Society/taiwan-diplomatic-allies-and-international-relations",
-    "readingTime": 126,
+    "readingTime": 128,
     "featured": false,
-    "date": "2026-04-28",
+    "date": "2026-04-29",
     "path": "en/Society/taiwan-diplomatic-allies-and-international-relations.md"
   },
   {
@@ -41869,9 +41881,9 @@
       "Silicon Shield"
     ],
     "url": "https://taiwan.md/es/Society/taiwan-diplomatic-allies-and-international-relations",
-    "readingTime": 127,
+    "readingTime": 128,
     "featured": false,
-    "date": "2026-04-28",
+    "date": "2026-04-29",
     "path": "es/Society/taiwan-diplomatic-allies-and-international-relations.md"
   },
   {
@@ -41887,9 +41899,9 @@
       "Silicon Shield"
     ],
     "url": "https://taiwan.md/ja/Society/taiwan-diplomatic-allies-and-international-relations",
-    "readingTime": 126,
+    "readingTime": 128,
     "featured": false,
-    "date": "2026-04-28",
+    "date": "2026-04-29",
     "path": "ja/Society/taiwan-diplomatic-allies-and-international-relations.md"
   },
   {
@@ -41905,9 +41917,9 @@
       "silicon shield"
     ],
     "url": "https://taiwan.md/ko/Society/taiwan-diplomatic-allies-and-international-relations",
-    "readingTime": 126,
+    "readingTime": 127,
     "featured": false,
-    "date": "2026-04-28",
+    "date": "2026-04-29",
     "path": "ko/Society/taiwan-diplomatic-allies-and-international-relations.md"
   },
   {
@@ -43447,16 +43459,7 @@
     "title": "Teach For Taiwan : comment une diplômée de Princeton a convaincu quatre cents jeunes d'entrer dans les classes rurales",
     "description": "En 2014, Liu An-Ting a démarré avec deux mille dollars taïwanais et neuf personnes. Onze ans plus tard, plus de quatre cents enseignants TFT travaillent dans les écoles primaires les plus reculées de Taïwan, aux côtés de sept mille enfants oubliés par le système. Ce n'est pas un récit inspirant sur la philanthropie éducative — c'est un débat permanent sur la question de savoir qui est responsable des inégalités.",
     "category": "fr",
-    "tags": [
-      "éducation",
-      "éducation rurale",
-      "TFT",
-      "Teach For Taiwan",
-      "Liu An-Ting",
-      "inégalités éducatives",
-      "entreprise sociale",
-      "zones reculées"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/Society/taiwan-slash-generation",
     "readingTime": 87,
     "featured": false,
@@ -43480,7 +43483,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Society/taiwan-slash-generation",
-    "readingTime": 85,
+    "readingTime": 86,
     "featured": false,
     "date": "2026-04-08",
     "path": "es/Society/taiwan-slash-generation.md"
@@ -45430,15 +45433,32 @@
     "path": "en/People/wang-shaudi.md"
   },
   {
-    "title": "Wang Yung-ching : le dieu du management",
-    "description": "Fondateur du groupe Formosa Plastics, il a bâti un empire pétrochimique en partant d'une simple épicerie de riz",
+    "title": "Wang Yung-ching : du rizier à la bataille de vingt ans pour la Sixième Raffinerie, puis le spectacle des querelles successorales",
+    "description": "Né le 18 janvier 1917 à Xindian, Taipei, Wang Yung-ching quitte l'école à 15 ans et emprunte pour ouvrir un commerce de riz. En 1954, il fonde Formosa Plastics. En 1973, il propose au gouvernement la construction de la Sixième Raffinerie de craquage léger (六輕), qui n'est approuvée qu'après près de vingt ans de lutte, pour une production officielle à Mailiao, Yunlin, en 1998. Il meurt le 15 octobre 2008 aux États-Unis à l'âge de 92 ans, laissant derrière lui une querelle familiale de succession qui s'est étendue sur plus d'une décennie.",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "科技與企業",
+      "台塑集團",
+      "石化工業",
+      "六輕",
+      "企業家"
+    ],
     "url": "https://taiwan.md/fr/People/yung-ching-wang-formosa-plastics-founder",
-    "readingTime": 19,
+    "readingTime": 62,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/yung-ching-wang-formosa-plastics-founder.md"
+  },
+  {
+    "title": "Wang Yung-ching: de la tienda de arroz a la batalla de veinte años por la Sexta Nafta, y el drama sucesorio tras su muerte",
+    "description": "Nacido el 18 de enero de 1917 en Xindian, Taipéi, Wang Yung-ching abandonó la escuela a los 15 años y pidió prestado dinero para abrir una tienda de arroz. En 1954 fundó Formosa Plastics. En 1973 propuso al gobierno la construcción de la Sexta Planta de Craqueo de Nafta (六輕), y tras una lucha de casi veinte años logró la aprobación; la producción en masa comenzó en 1998 en Mailiao, Yunlin. Falleció el 15 de octubre de 2008 en Estados Unidos, a los 92 años, dejando tras de sí una disputa familiar por la herencia que se prolongó durante más de una década.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/People/yung-ching-wang-formosa-plastics-founder",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/yung-ching-wang-formosa-plastics-founder.md"
   },
   {
     "title": "Wang-a-piao: de los panfletos electorales al campo de batalla infantil, las cartas de combate de la memoria taiwanesa",
@@ -45742,7 +45762,7 @@
   },
   {
     "title": "Withdrawal from the United Nations: Those 17 Minutes in 1971, and How Taiwan Went from \"China\" to International Orphan",
-    "description": "On October 25, 1971, the moment Foreign Minister Zhou Shu-kai stepped down from the podium in the UN General Assembly hall, the Republic of China went from a founding member of the United Nations to an observer still locked out of the door half a century later. The \"no coexistence between Han and traitor\" decision continues to reverberate — in 2025, the United States passed legislation reaffirming that Resolution 2758 never addressed Taiwan's representation.",
+    "description": "On October 25, 1971, the moment Foreign Minister Zhou Shu-kai stepped down from the podium in the UN General Assembly hall, the Republic of China went from a founding member of the United Nations to an observer still locked out of the door half a century later. The 'no coexistence between Han and traitor' decision continues to reverberate — in 2025, the United States passed legislation reaffirming that Resolution 2758 never addressed Taiwan's representation.",
     "category": "en",
     "tags": [
       "外交",
@@ -46089,17 +46109,6 @@
     "path": "es/People/xu-wen-long-chimei-founder-violin-entrepreneur.md"
   },
   {
-    "title": "Yang Chuan-kwang",
-    "description": "\"El Hombre de Hierro Asiático\", plata en el decatlón de los Juegos Olímpicos de Roma 1960, primer medallista olímpico de Taiwán",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/People/yang-chuan-kwang-asian-iron-man",
-    "readingTime": 24,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/yang-chuan-kwang-asian-iron-man.md"
-  },
-  {
     "title": "Yang Chuan-kwang : le village de Taitung, l'argent à Rome, le record du monde à 9 121 points de l''homme de fer asiatique",
     "description": "Né le 10 juillet 1933 dans le village Amis de Malan, à Taitung, Yang Chuan-kwang est le premier médaillé olympique de Taïwan. Aux Jeux olympiques de Rome en 1960, il décroche l''argent en décathlon avec 8 334 points. En 1963, il établit un record du monde à 9 121 points et réalise un saut à la perche de 4,83 m, ce qui contraint la Fédération internationale d''athlétisme (IAAF) à modifier ses barèmes de notation. Il meurt le 27 janvier 2007 d''un AVC en Californie, à l''âge de 73 ans. En avril 2025, le ministère de la Culture le classe Trésor national.",
     "category": "fr",
@@ -46116,6 +46125,24 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/yang-chuan-kwang-asian-iron-man.md"
+  },
+  {
+    "title": "Yang Chuan-kwang: la tribu de Taitung, la plata de Roma y el récord mundial de 9121 puntos del Hombre de Hierro Asiático",
+    "description": "Nacido el 10 de julio de 1933 en la tribu Amis de Malan, Taitung, Yang Chuan-kwang fue el primer medallista olímpico de Taiwán. En los Juegos Olímpicos de Roma 1960 ganó la plata en decatlón con 8334 puntos, y en 1963 batió el récord mundial con 9121 puntos, con un salto con garrocha de 4,83 metros que obligó a la IAAF a modificar las tablas de puntuación. Falleció el 27 de enero de 2007 en California, Estados Unidos, tras un derrame cerebral, a los 73 años. En abril de 2025, el Ministerio de Cultura lo declaró tesoro nacional.",
+    "category": "es",
+    "tags": [
+      "Deportes",
+      "Atletismo",
+      "Juegos Olímpicos",
+      "Decatlón",
+      "Pueblos indígenas",
+      "Pueblo amis"
+    ],
+    "url": "https://taiwan.md/es/People/yang-chuan-kwang-asian-iron-man",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/yang-chuan-kwang-asian-iron-man.md"
   },
   {
     "title": "Yang Chuan-kwang: Taitung Tribe, Rome Silver Medal, and the 9,121-Point World Record of the Asian Iron Man",
@@ -46353,7 +46380,7 @@
   },
   {
     "title": "Yeh Kuo-Yi: From Shilin Commercial High School, Building a Half-Century OEM Empire",
-    "description": "Born April 21, 1941, Yeh Kuo-Yi never earned a university degree. Starting from Shilin Commercial High School, he founded Inventec in Shilin in 1975. Beginning with electronic calculators, he built the company into one of the world''s top server ODMs, supplying the cloud computing infrastructure of Facebook, Microsoft, and Google. In 2023, he handed the chairman role to his second son, Yeh Li-Cheng, and stepped back to group chairman.",
+    "description": "Born April 21, 1941, Yeh Kuo-Yi never earned a university degree. Starting from Shilin Commercial High School, he founded Inventec in Shilin in 1975. Beginning with electronic calculators, he built the company into one of the world's top server ODMs, supplying the cloud computing infrastructure of Facebook, Microsoft, and Google. In 2023, he handed the chairman role to his second son, Yeh Li-Cheng, and stepped back to group chairman.",
     "category": "en",
     "tags": [
       "科技與企業",
@@ -46584,17 +46611,6 @@
     "featured": false,
     "date": "2026-03-25",
     "path": "fr/People/yu-yong-he.md"
-  },
-  {
-    "title": "Yung-ching Wang",
-    "description": "Fundador del Grupo Formosa Plastics, el 'dios de la gestión empresarial' que pasó de una tienda de arroz a construir un imperio petroquímico",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/People/yung-ching-wang-formosa-plastics-founder",
-    "readingTime": 20,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/yung-ching-wang-formosa-plastics-founder.md"
   },
   {
     "title": "Yung-ching Wang: From a Rice Shop to the Twenty-Year Battle for the Sixth Naphtha Cracker, and the Posthumous Family Inheritance War",
@@ -47382,23 +47398,6 @@
     "path": "ko/People/kuo-chin-fa-taiwanese-singer.md"
   },
   {
-    "title": "궈훙즈 (Kuo Hung-Chih)",
-    "description": "대만 야구의 자랑, MLB 로스앤젤레스 다저스에서 활약한 좌완 투수",
-    "category": "ko",
-    "tags": [
-      "스포츠",
-      "야구",
-      "MLB",
-      "다저스",
-      "좌완투수"
-    ],
-    "url": "https://taiwan.md/ko/People/hong-chih-kuo-taiwanese-left-handed-pitcher",
-    "readingTime": 11,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ko/People/hong-chih-kuo-taiwanese-left-handed-pitcher.md"
-  },
-  {
     "title": "근육산산(肌肉山山): 피트니스·이중언어 유머로 쌓은 영향력",
     "description": "대만 거주 한국인 크리에이터가 피트니스와 한중 이중언어 유머로 커뮤니티 영향력을 쌓고, 하이라이프 협업으로 한식 일상 맛을 대만 편의점 매대로 가져갔다.",
     "category": "ko",
@@ -47438,22 +47437,6 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "ko/Art/taiwanese-experimental-and-new-media-art.md"
-  },
-  {
-    "title": "기정(紀政)",
-    "description": "날아오르는 영양, 1968년 멕시코 올림픽 여자 80m 허들 동메달리스트",
-    "category": "ko",
-    "tags": [
-      "스포츠",
-      "육상",
-      "올림픽",
-      "허들"
-    ],
-    "url": "https://taiwan.md/ko/People/chi-cheng-flying-antelope",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ko/People/chi-cheng-flying-antelope.md"
   },
   {
     "title": "김(금침구): 대만 거주 한국인 크리에이터",
@@ -48265,7 +48248,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/Society/encyclopedia-of-taiwan",
-    "readingTime": 21,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-04-28",
     "path": "ko/Society/encyclopedia-of-taiwan.md"
@@ -49271,7 +49254,7 @@
   },
   {
     "title": "대만 차 문화",
-    "description": "국제 차 생산 제한 협정에서 배제된 작은 섬은 오히려 차 산업의 황금기를 만들었고, 마지막에는 '작은 간식'을 넣은 밀크티 한 잔으로 세계를 사로잡았다",
+    "description": "국제 차 생산 제한 협정에서 배제된 작은 섬은 오히려 차 산업의 황금기를 만들었고, 마지막에는 ''작은 간식''을 넣은 밀크티 한 잔으로 세계를 사로잡았다",
     "category": "ko",
     "tags": [
       "Food",
@@ -49283,7 +49266,7 @@
     ],
     "url": "https://taiwan.md/ko/Food/tea-culture",
     "readingTime": 18,
-    "featured": false,
+    "featured": true,
     "date": "2026-03-23",
     "path": "ko/Food/tea-culture.md"
   },
@@ -49504,14 +49487,20 @@
     "path": "ko/Culture/taiwan-incense-making-culture-and-heritage.md"
   },
   {
-    "title": "대만 헤어스타일 소개",
-    "description": "역사적인 두발 규제(髮禁)부터 현대 트렌드까지, 대만 남성 헤어스타일의 변천사와 이발 문화를 소개합니다.",
+    "title": "대만 헤어스타일 소개: 발금(髮禁)에서 밈(Meme)까지, 사회를 가늠하는 척도",
+    "description": "1969년 교육부의 삭발 규정에서부터, 2005년 두정성(杜正勝) 교육부장관의 '헤어스타일로 사람이 선인인지 악인인지 판단할 수 있나'라는 한마디로 발금이 완전히 해제되기까지, 대만 남성의 머리 위에는 권위주의적 규율에서 자기표현으로 이어지는 사회 변천이 고스란히 새겨져 있다. 최근 폭발적 인기를 끈 '아즈(阿志) 머리' 밈은 이 변천의 최신 장에 불과하다.",
     "category": "ko",
-    "tags": [],
+    "tags": [
+      "헤어스타일",
+      "이발 문화",
+      "유행 패션",
+      "도시 생활",
+      "밈"
+    ],
     "url": "https://taiwan.md/ko/Lifestyle/taiwan-hairstyles",
-    "readingTime": 8,
+    "readingTime": 32,
     "featured": false,
-    "date": null,
+    "date": "2026-05-07",
     "path": "ko/Lifestyle/taiwan-hairstyles.md"
   },
   {
@@ -50720,7 +50709,7 @@
       "CIPC"
     ],
     "url": "https://taiwan.md/ko/Society/poisoned-potato-cognitive-warfare-taiwan",
-    "readingTime": 121,
+    "readingTime": 122,
     "featured": false,
     "date": "2026-04-30",
     "path": "ko/Society/poisoned-potato-cognitive-warfare-taiwan.md"
@@ -50982,22 +50971,6 @@
     "featured": false,
     "date": "2026-03-22",
     "path": "ko/People/annette-lu.md"
-  },
-  {
-    "title": "류더인",
-    "description": "TSMC 이사장, 창업자 장중머우의 후계자, 지정학적 반도체 외교관",
-    "category": "ko",
-    "tags": [
-      "TSMC",
-      "반도체",
-      "지정학",
-      "기업 리더십"
-    ],
-    "url": "https://taiwan.md/ko/People/mark-liu",
-    "readingTime": 9,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ko/People/mark-liu.md"
   },
   {
     "title": "류안팅",
@@ -51674,7 +51647,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/Geography/beida-special-district-sanxia",
-    "readingTime": 54,
+    "readingTime": 55,
     "featured": false,
     "date": "2026-04-29",
     "path": "ko/Geography/beida-special-district-sanxia.md"
@@ -52622,19 +52595,19 @@
     "path": "ko/Culture/national-theater-and-concert-hall.md"
   },
   {
-    "title": "양촨광 — 아시아의 철인",
-    "description": "1960년 로마 올림픽 10종 경기 은메달리스트, 대만 최초의 올림픽 메달리스트",
+    "title": "양촨광: 타이둥 부족, 로마 은메달, 9121점 세계 기록의 아시아 아이언맨",
+    "description": "1933년 7월 10일 타이둥 마란 아메이족 부족에서 태어난 양촨광은 타이완 최초의 올림픽 메달리스트이다. 1960년 로마 올림픽 10종 경기에서 8334점으로 은메달을 획득했으며, 1963년 9121점으로 세계 기록을 경신하고 장대높이높이뛰기 4.83m 기록으로 국제 육상 연맹(IAAF)의 점수 기준을 개정하도록 만들었다. 2007년 1월 27일 미국 캘리포니아에서 뇌졸중으로 타계하여 73세를 일기로 삶을 마쳤다. 2025년 4월 문화부가 국보로 지정했다.",
     "category": "ko",
     "tags": [
-      "스포츠",
+      "체육",
       "육상",
       "올림픽",
       "10종 경기",
       "원주민",
-      "아미족"
+      "아메이족"
     ],
     "url": "https://taiwan.md/ko/People/yang-chuan-kwang-asian-iron-man",
-    "readingTime": 9,
+    "readingTime": 27,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/yang-chuan-kwang-asian-iron-man.md"
@@ -52787,17 +52760,18 @@
     "path": "ko/Food/school-lunch-reform.md"
   },
   {
-    "title": "예궈이 — 대만 전자 위탁제조 산업의 개척자",
-    "description": "인벤텍 그룹 창립자. 대만 전자 ODM 산업을 일군 선구자로, 노트북과 서버 제조 분야에서 세계적 위치를 확립했다.",
+    "title": "예국일: 사림고상에서 출발해 반세기 주조 제국을 건설하다",
+    "description": "1941년 4월 21일 생, 예국일은 대학 학력이 없었으나 사림고상에서 출발하여 1975년 사림에서 잉예다(英業達)를 창립했다. 전자계산기에서 시작해 회사를 글로벌 최고의 서버 주조 기업으로 이끌었으며, 페이스북, 마이크로소프트, 구글의 클라우드 컴퓨팅 파워를 공급했다. 2023년 회장직을 차남 예력성에게 넘기고 그룹 회장으로 물러났다.",
     "category": "ko",
     "tags": [
-      "인벤텍",
-      "전자 위탁제조",
+      "科技與企業",
+      "英業達",
+      "電子代工",
       "ODM",
-      "노트북"
+      "伺服器"
     ],
     "url": "https://taiwan.md/ko/People/yeh-kuo-yi-electronics-manufacturing-pioneer",
-    "readingTime": 10,
+    "readingTime": 28,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md"
@@ -53001,33 +52975,36 @@
     "path": "ko/Lifestyle/wang-a-piau-pog-cards.md"
   },
   {
-    "title": "왕융칭: 쌀가게에서 석유화학 제국까지, 경영의 신",
-    "description": "포르모사 플라스틱 그룹 창업자. 쌀가게 점원에서 출발해 대만 최대의 석유화학 기업 왕국을 일군 전설적 경영인.",
+    "title": "왕영칭: 미점(米店), 육경(六輕) 20년 분투, 사후의 재산 분쟁 대서사",
+    "description": "1917년 1월 18일 타이베이 신디안에서 태어난 왕영칭은 15세에 중퇴하고 돈을 빌려 미점을 열었으며, 1954년 타이완 플라스틱을 창립했다. 1973년 정부에 육경(제6경유분해공장)을 제안했으나 근 20년에 걸친 분투 끝에 비로소 승인을 받았고, 1998년 윈린 마이랴오에서 본격 양산을 시작했다. 2008년 10월 15일 미국에서 향년 92세로 서거했으며, 사후 10년 이상 이어진 가족 간 재산 분쟁을 남겼다.",
     "category": "ko",
     "tags": [
-      "기업인",
-      "포르모사 플라스틱 그룹",
-      "석유화학 산업",
-      "경영 관리"
+      "科技與企業",
+      "台塑集團",
+      "石化工業",
+      "六輕",
+      "企業家"
     ],
     "url": "https://taiwan.md/ko/People/yung-ching-wang-formosa-plastics-founder",
-    "readingTime": 8,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/yung-ching-wang-formosa-plastics-founder.md"
   },
   {
-    "title": "왕젠민",
-    "description": "타이완 출신 미국 진출 야구 투수, 싱커볼로 메이저리그를 평정하다",
+    "title": "왕젠밍: 젠싱 국중에서 출발해 싱커볼로 양키스를 두 시즌 우승으로 이끌다",
+    "description": "1980년 타이난 출생. 왕젠밍은 타이완 메이저리그 역사상 가장 대표적인 투수이다. 타이난 젠싱 국중 재학 중 2005년 메이저리그에 데뷔했다. 2006년 19승 6패로 요한 산타나와 아메리칸리그 다승 공동 1위(아시아 최초)를 기록했으며, 2007년에도 19승 7패를 달성했다. 2008년 6월 주루 부상 이후 커리어가 반전되었다. 2018년 다큐멘터리 《후진: 왕젠밍》이 개봉했고, 2023년 WBC, 2024년 WBSC 프리미어12에서 중화 대표팀 불펜 코치를 맡았다.",
     "category": "ko",
     "tags": [
-      "인물",
+      "체육",
       "야구",
-      "스포츠",
-      "프로선수"
+      "MLB",
+      "양키스",
+      "메이저리그 투수",
+      "중화 대표팀"
     ],
     "url": "https://taiwan.md/ko/People/chien-ming-wang-mlb-sinker-ace",
-    "readingTime": 14,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/chien-ming-wang-mlb-sinker-ace.md"
@@ -53049,7 +53026,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/People/fujui-wang",
-    "readingTime": 50,
+    "readingTime": 56,
     "featured": false,
     "date": "2026-05-04",
     "path": "ko/People/fujui-wang.md"
@@ -54161,7 +54138,7 @@
       "중국풍"
     ],
     "url": "https://taiwan.md/ko/People/jay-chou",
-    "readingTime": 22,
+    "readingTime": 23,
     "featured": false,
     "date": "2026-03-23",
     "path": "ko/People/jay-chou.md"
@@ -54233,18 +54210,18 @@
     "path": "ko/Culture/taiwan-paper-umbrella.md"
   },
   {
-    "title": "좡즈위안 — 탁구의 대부",
-    "description": "네 차례 올림픽 대표로 활약한 대만 탁구의 전설, 홀로 유럽 무대를 개척한 고독한 영웅",
+    "title": "종지위안: 6회 올림픽, 2013년 세계 챔피언, 한 걸음 모자란 올림픽 메달",
+    "description": "1981년 4월 2일생. 종지위안은 대만 탁구 역사상 가장 오랫동안 활약한 선수이다. 2000년 시드니부터 2024년 파리까지 6회 연속 대만을 대표하여 올림픽에 출전했으며, 2013년 세계 탁구 선수권 대회에서 천젠안과 함께 남자 복식 세계 챔피언을 차지했다. 올림픽 메달은 그의 커리어 유일한 아쉬움으로, 가장 가까이 다가선 것은 2012년 런던 동메달 결정전에서의 패배였다. 은퇴 후 중산대학교 체육 부교수로 임용되었다.",
     "category": "ko",
     "tags": [
-      "스포츠",
+      "체육",
       "탁구",
       "올림픽",
-      "프로탁구",
-      "유럽리그"
+      "세계 챔피언",
+      "프로 탁구"
     ],
     "url": "https://taiwan.md/ko/People/chuang-chih-yuan-table-tennis-legend",
-    "readingTime": 10,
+    "readingTime": 24,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/chuang-chih-yuan-table-tennis-legend.md"
@@ -54395,6 +54372,23 @@
     "featured": false,
     "date": "2026-04-21",
     "path": "ko/Art/chi-po-hao-musician.md"
+  },
+  {
+    "title": "지정: 10개의 세계 기록을 세우고, 50년이 지나도 타이완 정명을 위해 달리는 여자",
+    "description": "1944년 3월 15일 신주에서 태어난 지정은「도약하는 영양」이라는 별명으로 타이완 육상 사상 가장 뛰어난 여자 선수로 자리매김했다. 1968년 멕시코 올림픽에서 그녀는 80m 허들 10초51로 동메달을 획득하며 타이완 최초의 여자 올림픽 육상 메달을 안겼고, 선수 생활 동안 총 10개의 세계 기록을 수립했다. 은퇴 후 로드 러닝 보전에 헌신했으며, 80대를 넘긴 지금도 타이완 정명 운동 현장에서 활발히 활동하고 있다.",
+    "category": "ko",
+    "tags": [
+      "육상",
+      "트랙필드",
+      "올림픽",
+      "허들",
+      "세계 기록"
+    ],
+    "url": "https://taiwan.md/ko/People/chi-cheng-flying-antelope",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ko/People/chi-cheng-flying-antelope.md"
   },
   {
     "title": "지진: 지우와 함께 춤추는 섬의 기억",
@@ -54695,24 +54689,6 @@
     "path": "ko/People/tsai-ing-wen.md"
   },
   {
-    "title": "천성 (陳昇)",
-    "description": "대만 인디 음악의 선구자이자 30년 연속 카운트다운 콘서트의 전설적 싱어송라이터",
-    "category": "ko",
-    "tags": [
-      "음악",
-      "인디 음악",
-      "싱어송라이터",
-      "카운트다운 콘서트",
-      "포크",
-      "록"
-    ],
-    "url": "https://taiwan.md/ko/People/bobby-chen-indie-music-pioneer",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ko/People/bobby-chen-indie-music-pioneer.md"
-  },
-  {
     "title": "천수이볜",
     "description": "대만 제10·11대 대통령, 2000년 최초의 정권교체를 실현한 인물. 타이난 소작농의 아들에서 첫 번째 민주진보당 소속 대통령이 되고, 다시 최초로 구금된 전직 국가원수가 되기까지—그의 궤적은 대만 민주주의 전환기의 가장 복잡한 긴장을 압축한다: 고무적 성장, 입법적 기초 구축, 폭풍과 분열.",
     "category": "ko",
@@ -54733,6 +54709,24 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
+  },
+  {
+    "title": "천승: 장화에서 출발, 첫 앨범 1988, 30년 크로스나잇은 그의 강호 명함",
+    "description": "1958년 10월 29일 장현현 시저우향에서 태어난 천승은 대만 독립음악계에서 가장 개성적인 작곡가 겸 가수이다. 1988년 첫 솔로 앨범 《擁擠的樂園》을 발매했으며, 1994년부터 매년 크로스나잇 콘서트를 개최하여 대만 음악계 매년 마지막 밤의 연례 의식이 되었다. 2020년 구강암 수술 후 무대에 복귀했고, 2025년 제31회 「대파도」 역시 무대에 올랐다.",
+    "category": "ko",
+    "tags": [
+      "음악",
+      "독립음악",
+      "작곡가 겸 가수",
+      "크로스나잇 콘서트",
+      "포크",
+      "록"
+    ],
+    "url": "https://taiwan.md/ko/People/bobby-chen-indie-music-pioneer",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ko/People/bobby-chen-indie-music-pioneer.md"
   },
   {
     "title": "천위쉰",
@@ -55030,6 +55024,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "ko/Technology/east-asian-input-methods.md"
+  },
+  {
+    "title": "타이베이 101: \"집 지키는 개\"에서 \"황금 뱀\"으로, 하나의 랜드마크에 얽힌 정치·경제와 풍수의 도박",
+    "description": "타이베이 101은 단순한 건물이 아니다. 천수이볜과 펑화이난의 정치적 경제적 역학, 리위안의 풍수 실험, 그리고 알렉스 홀놀드의 발아래 \"대마왕\"이기도 하다. 59층에서 101층으로의 변천사를 통해 이 \"보물 그릇\" 뒤에 숨겨진 권력과 신비를 파헤친다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/Geography/taipei-101",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-05-04",
+    "path": "ko/Geography/taipei-101.md"
   },
   {
     "title": "타이베이 쥐 문제: 1896년 통독부의 페스트 명령에서 2026년 다안구의한타바이러스까지",
@@ -56211,6 +56216,23 @@
     "path": "ko/People/hung-hsing-fu.md"
   },
   {
+    "title": "홍치궈(곽홍지): 타이완 최초 MLB 홈런과 올스타전, 팔꿈치가 말렸지만 그는 계속 던졌다",
+    "description": "1981년 7월 23일생, 곽홍지는 타이완 네 번째로 MLB에 진출한 야구 선수이자, 메이저리그에서 홈런을 친 최초의 타이완 선수이자 MLB 올스타전에 선정된 최초의 타이완 선수이다. 로스앤젤레스 다저스에서 핵심 불펜 좌투수로 활약하며 2010년 ERA 1.20이라는 최고 수준의 성적을 기록했지만, 부상이 반복적으로 그의 팔꿈치를 멈추게 했고, 그때마다 그는 돌아왔다.",
+    "category": "ko",
+    "tags": [
+      "스포츠",
+      "야구",
+      "MLB",
+      "다저스",
+      "좌투"
+    ],
+    "url": "https://taiwan.md/ko/People/hong-chih-kuo-taiwanese-left-handed-pitcher",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ko/People/hong-chih-kuo-taiwanese-left-handed-pitcher.md"
+  },
+  {
     "title": "환경 보호와 지속 가능한 발전: 섬의 녹색 각성",
     "description": "굴뚝의 섬에서 탄소중립 대만으로: 40년 환경 운동의 각성 여정",
     "category": "ko",
@@ -56393,17 +56415,6 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "ko/Culture/culinary-class-wars-in-taiwan.md"
-  },
-  {
-    "title": "흔들리는 섬 위에 세운 하늘을 찌르는 탑",
-    "description": "활성 단층에서 불과 200미터 떨어진 곳에, 대만인들은 세계에서 가장 불안정한 땅 위에 세계 최고층 빌딩을 세웠다. 그리고 한 남자는 91분 만에 맨손으로 그 꼭대기에 올랐다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/Geography/taipei-101",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ko/Geography/taipei-101.md"
   },
   {
     "title": "アップルサイダー：国民的炭酸飲料から資本の嵐へ、60年の台湾の味はいかにして再生したか",
@@ -56628,17 +56639,9 @@
     "title": "ジェイ・チョウ",
     "description": "1997年、内気な18歳の少年が中国語ポップミュージックの歴史を書き換えました",
     "category": "ja",
-    "tags": [
-      "人物",
-      "ジェイ・チョウ",
-      "中国語ポップミュージック",
-      "歌手",
-      "創作",
-      "R&B",
-      "中国風"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/People/jay-chou",
-    "readingTime": 22,
+    "readingTime": 24,
     "featured": false,
     "date": "2026-03-23",
     "path": "ja/People/jay-chou.md"

@@ -1,8 +1,8 @@
 {
-  "totalArticles": 4187,
+  "totalArticles": 4188,
   "totalCategories": 20,
-  "estimatedContributors": 280,
-  "totalTags": 5290,
+  "estimatedContributors": 57,
+  "totalTags": 5288,
   "categories": [
     {
       "name": "es",
@@ -30,7 +30,7 @@
     },
     {
       "name": "Society",
-      "count": 70
+      "count": 71
     },
     {
       "name": "Culture",
@@ -88,15 +88,15 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 76
-    },
-    {
-      "name": "人物",
       "count": 75
     },
     {
+      "name": "人物",
+      "count": 72
+    },
+    {
       "name": "企業",
-      "count": 56
+      "count": 55
     },
     {
       "name": "기업",
@@ -107,24 +107,24 @@
       "count": 28
     },
     {
-      "name": "ODM",
+      "name": "TSMC",
       "count": 27
     },
     {
-      "name": "TSMC",
-      "count": 26
-    },
-    {
-      "name": "인물",
-      "count": 26
+      "name": "ODM",
+      "count": 27
     },
     {
       "name": "政治",
       "count": 25
     },
     {
-      "name": "半導體",
+      "name": "인물",
       "count": 25
+    },
+    {
+      "name": "半導體",
+      "count": 24
     },
     {
       "name": "AI",
@@ -143,6 +143,10 @@
       "count": 21
     },
     {
+      "name": "體育",
+      "count": 21
+    },
+    {
       "name": "文化",
       "count": 21
     },
@@ -151,15 +155,11 @@
       "count": 21
     },
     {
-      "name": "Économie",
-      "count": 20
-    },
-    {
       "name": "역사",
       "count": 19
     },
     {
-      "name": "體育",
+      "name": "Économie",
       "count": 19
     },
     {
@@ -168,8 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4187,
+    "zh-TW": 4188,
     "en": 0
   },
-  "lastUpdated": "2026-05-09T07:20:48.964Z"
+  "lastUpdated": "2026-05-09T22:15:08.228Z",
+  "stars": 974,
+  "forks": 144,
+  "zhPages": 3479,
+  "enPages": 709,
+  "totalPages": 4188
 }

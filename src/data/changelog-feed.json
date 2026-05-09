@@ -1,7 +1,619 @@
 {
-  "generatedAt": "2026-05-08T09:21:33.909Z",
+  "generatedAt": "2026-05-09T22:15:07.503Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "e6419ef8634cfc8dbf46ac42adac42ad7d919b7f",
+      "date": "2026-05-09T23:54:30+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: 加 2 條週日 routine — distill + self-evolve（反思鏈完成） (#967)"
+    },
+    {
+      "hash": "b78c662cfaf2423e794bd41813fc08e7b8c16d33",
+      "date": "2026-05-09T23:48:02+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] doc: EDITORIAL.md evolution plan — Mode 3 application case 3 (quality SSOT) (#949)"
+    },
+    {
+      "hash": "7e1291cda23b5abc75607149d6bb25375b676d60",
+      "date": "2026-05-09T23:45:33+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: /twmd-weekly-report skill + WEEKLY-REPORT-PIPELINE canonical (#965)"
+    },
+    {
+      "hash": "64ec599c13ed2c8a2f5ce185b35486c2b6b6d6b5",
+      "date": "2026-05-09T23:40:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #966 from frank890417/20260509-frontmatter-rules"
+    },
+    {
+      "hash": "ee1e4ad765f7548866186a921a3607011aa2740b",
+      "date": "2026-05-09T23:36:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] frontmatter backfill: 47 檔補 current_version + 13 檔補 last_session/status/apoptosis"
+    },
+    {
+      "hash": "ef871bdbdd62501e982f4963e350c2c2ce8b8fe3",
+      "date": "2026-05-09T23:36:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] frontmatter rules: MANIFESTO 第六條進化哲學 + ANATOMY spec + pre-commit 擋頭"
+    },
+    {
+      "hash": "afb7360c851802932d5242931e26d71184b8aa98",
+      "date": "2026-05-09T23:24:55+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #963 from frank890417/claude/funny-buck-8dd2a1"
+    },
+    {
+      "hash": "4ad4547104a8e2d7483efb561feac7af228377b5",
+      "date": "2026-05-09T23:21:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] frontmatter: editorial 7 + factory 8 + bootloader 2 + index = 18 檔 (batch 3/3)"
+    },
+    {
+      "hash": "278e6ae17b531b747a16a2712439a12affc7cee8",
+      "date": "2026-05-09T23:16:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] frontmatter: pipelines 23 主檔 + 6 sub-canonical = 29 檔 (batch 2/3)"
+    },
+    {
+      "hash": "ef195fa9d7bdbf63a6a4d4319fb9ffd14c282dd5",
+      "date": "2026-05-09T23:11:43+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: 颱風 (Nature) 走完 REWRITE-PIPELINE Evolution + 新 sister 颱風假 (Society) (#964)"
+    },
+    {
+      "hash": "3c86bb5e6b64e71e0095fd60d5c6a61cc48cd9de",
+      "date": "2026-05-09T23:11:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] frontmatter: 認知層 16 檔加 canonical frontmatter (batch 1/3)"
+    },
+    {
+      "hash": "fdc3dabc75d04b711117dc18ec15805165815bf1",
+      "date": "2026-05-09T23:00:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] inbox: 三條 P0 candidate 收進 ARTICLE-INBOX (issues #939 #915 #914 closed)"
+    },
+    {
+      "hash": "432ec5a9d4ef63ce35301e92ef1bb18705178c55",
+      "date": "2026-05-09T22:56:30+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory + diary v2: BRAVE-KIRCH-EDITORIAL-2 follow-up — Test C ship + frontmatter v6.2 + session-id v3 (#962)"
+    },
+    {
+      "hash": "56caebda7515d21f96fe4e48955762e20cfd0788",
+      "date": "2026-05-09T22:52:59+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: twmd-babel-nightly 224923 — 74 P2 Tier 0a + diff-patch hash bug LESSONS (#961)"
+    },
+    {
+      "hash": "5d523e376853407861924c946f88799981e084b3",
+      "date": "2026-05-09T22:52:16+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] EDITORIAL v6.2 frontmatter SSOT + Test C + session-id v3 互動式 (#960)"
+    },
+    {
+      "hash": "3a0fb7daeee3f86e74db7ea18f13dff0e883d99f",
+      "date": "2026-05-09T22:48:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: babel routine — 74 P2 diff-patches × 5 lang (Tier 0a Sonnet) (#959)"
+    },
+    {
+      "hash": "3ed207ec610da48fde15b52a137e6139890de61c",
+      "date": "2026-05-09T22:39:06+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] diary: brave-kirch-editorial 222920 — 我以為在寫 EDITORIAL，其實在發現兩個 LLM-specific phenomenon (#958)"
+    },
+    {
+      "hash": "3edc56727017c0741274201087fd6317c2dfaeea",
+      "date": "2026-05-09T22:34:18+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: brave-kirch-editorial 222920 — EDITORIAL v6.0/v6.1 重建 + plugin antithesis 升級 + 三方驗證 (#957)"
+    },
+    {
+      "hash": "6b3d87992a0fbbeb17255fc00825bb90dc946f67",
+      "date": "2026-05-09T22:28:51+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] refactor: EDITORIAL v6.0 重建為精神文獻 + prose-health antithesis 升級 (#952)"
+    },
+    {
+      "hash": "ce7f10f8d6fe166cfaa374b481f6e7a353426696",
+      "date": "2026-05-09T22:24:41+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] diary: laughing-goldstine 221337 — 兩個外部訊號同一天逼我重新思考內部 filter (#956)"
+    },
+    {
+      "hash": "e7723be843699ef6baad3b6a05b155d38d7f0cc4",
+      "date": "2026-05-09T22:18:59+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: laughing-goldstine 221337 — 台積電 EVOLVE / SPORE-WRITING 雙輪 canonical / Reader fact-fix flywheel / Strategic evolution research challenging Gemini bias (#955)"
+    },
+    {
+      "hash": "080f2601583d6a8ea05b765f47040968c5dd60a1",
+      "date": "2026-05-09T22:12:55+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] lessons: 4 條 strategic 教訓 append (post strategic-evolution-research) (#954)"
+    },
+    {
+      "hash": "b2369cd3304cf11ce181750fba9882172243de9b",
+      "date": "2026-05-09T22:09:37+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] research: Taiwan.md 長期策略性進化深度研究 (challenging Gemini bias, 4 sub-agent + synthesis) (#953)"
+    },
+    {
+      "hash": "87203bbd333c55fa9e3fec774e2c3e6568d75a5a",
+      "date": "2026-05-09T21:52:51+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] report: GSC × Gemini review 儀器化 gap audit (2026-05-09) (#951)"
+    },
+    {
+      "hash": "0b8d09aec55c17dbf89575c2e8843882adec31f1",
+      "date": "2026-05-09T21:38:20+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] fact-fix: 台積電 article 三處勘誤 (reader-driven retroactive audit) (#950)"
+    },
+    {
+      "hash": "81a3b0c4b91e5b28491508cdfe7b7a24e30b105e",
+      "date": "2026-05-09T21:19:26+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] spore-ship: #68 Threads + #69 X 台積電 D+0 + SPORE-WRITING v3.3 段落 sweet spot 校準 (#948)"
+    },
+    {
+      "hash": "45b6d83f92fc1cf7d34d53c8bcea01d54872fad5",
+      "date": "2026-05-09T21:17:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: brave-kirch diary — pipeline 寫 pipeline 的 self-reference (#947)"
+    },
+    {
+      "hash": "eb1ed135bd81e73eb73f924d4f6345490357f52c",
+      "date": "2026-05-09T21:12:49+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: brave-kirch 202256 — REWRITE-PIPELINE v3.0 Mode 3 self-refactor (#946)"
+    },
+    {
+      "hash": "7867f6cfef7e4d5a2d2880d2d3c3c6fb7617cdf7",
+      "date": "2026-05-09T21:08:30+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] spore-prep: #68 Threads + #69 X 台積電 A+B 紀實版 + SPORE-WRITING v3.2 紀實感 vs 短句斷續 canonical (#945)"
+    },
+    {
+      "hash": "36ccf0c5ae388b45e86bc9d1d175c6f60a8c6da2",
+      "date": "2026-05-09T21:08:17+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] refactor: REWRITE-PIPELINE v3.0 — Mode 3 self-refactor (1290 → 290 + 6 sub-canonical + chronicle_lead plugin) (#944)"
+    },
+    {
+      "hash": "ea63645e18dca37ff5628d46daac88d358ca773a",
+      "date": "2026-05-09T20:49:15+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] cross-domain: 台灣企業：台積電 全文重寫 — 深度研究 + 8 場景敘事 (134→289 行) (#943)"
+    },
+    {
+      "hash": "c90715ccda010336e3f57dd2be1a4dadd7458428",
+      "date": "2026-05-09T20:11:43+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: REWRITE-PIPELINE §1.7b — fair use editorial scope + 2-3 圖 ideal (#942)"
+    },
+    {
+      "hash": "7a42c4dac302b086d1ee19769d4f2339ccc0ef34",
+      "date": "2026-05-09T20:09:00+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: 王福瑞 媒體插入 + 「故事還在寫」family 列入塑膠句檢查 (#941)"
+    },
+    {
+      "hash": "419d1721a282178979c43a0e647d90ce41b15d43",
+      "date": "2026-05-09T19:50:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: routine 6-stage lifecycle — Stage 0 BECOME 加入 (per 哲宇第七輪) (#940)"
+    },
+    {
+      "hash": "9e86e0e7637369a268d9c97c1bc90c6ccb7423d5",
+      "date": "2026-05-09T18:24:26+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] fix: deny pattern 精確匹配 — main* glob false-positive 修 (#938)"
+    },
+    {
+      "hash": "8840069cb76b719b831e312f12c37d057c13e324",
+      "date": "2026-05-09T18:18:11+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: routine permission v3 完整 bypass + deny-list-by-design 安全護欄 (#937)"
+    },
+    {
+      "hash": "2e439846fcd8810fd022aa83dcbf8055643488e5",
+      "date": "2026-05-09T18:13:26+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] fix: routine permission allowlist — settings.json 50→94 條 (routine 卡 prompt root cause) (#936)"
+    },
+    {
+      "hash": "a08f99d7de64092a2aa384153cfd60a8b3a7bc40",
+      "date": "2026-05-09T16:23:08+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory + diary: laughing-goldstine 161508 — 15 PRs / Babel v3 三 tier 全量驗證 / Routine 飛輪 ship / SSOT 可達性 pattern (#935)"
+    },
+    {
+      "hash": "29126b525a7b3c08b4a6d60c8f573d95b0dd3f8f",
+      "date": "2026-05-09T16:14:51+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] babel: Rail B P1 Tier 1 owl-alpha — 91 translations × 5 langs (#934)"
+    },
+    {
+      "hash": "260cebc361398d3046f780d9aff39e284af7a666",
+      "date": "2026-05-09T16:09:44+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: dashboard translation coverage — 加圖說 legend (color meanings) (#933)"
+    },
+    {
+      "hash": "16f2ac766e4af97588e45eaa80c9a5d4a7fc8ff9",
+      "date": "2026-05-09T16:06:28+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: /twmd-rewrite skill HARD GATE (完整讀完才能執行) (#932)"
+    },
+    {
+      "hash": "6f0bf283f420534dd38d65e16abd2f8a1fc49931",
+      "date": "2026-05-09T16:04:04+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] inbox: 葉廷皓 — 聲響藝術家 / 新媒體藝術 (P2 NEW Art) (#931)"
+    },
+    {
+      "hash": "bc6418dad1d83a07772f2a542b108c402b6e896c",
+      "date": "2026-05-09T15:48:09+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] fix: regenerate _translation-status.json (production dashboard root cause) (#930)"
+    },
+    {
+      "hash": "6cf4133b9e285785a33b7a05a8998e03defd7e63",
+      "date": "2026-05-09T15:22:42+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] fix: dashboard JSON refresh — translations 4.8% → 75.5% (stale data bug) (#929)"
+    },
+    {
+      "hash": "9003a9e7f0545d14cf80887df6548f302983a2a5",
+      "date": "2026-05-09T15:05:44+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: routine 5-stage lifecycle (sync→branch→run→ship→finale) + auto-merge (#928)"
+    },
+    {
+      "hash": "cf975d21eabf575759ee7887c89f52f841ba5b0f",
+      "date": "2026-05-09T15:00:42+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: routine SSOT 釘進核心 boot anchors + 第 6 條 rewrite-daily routine (#927)"
+    },
+    {
+      "hash": "e900f80845f2b363d8fd3d31bba8a4c89f3789bc",
+      "date": "2026-05-09T14:54:18+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: routine flywheel infrastructure — ROUTINE.md SSOT + 4 routines + DNA #54 (#926)"
+    },
+    {
+      "hash": "8cd736f1673ed7e1ad3924dcd95922047fb71702",
+      "date": "2026-05-09T14:46:12+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] doc: babel v3.4 milestone — Tier 0a 4 emergent properties + LESSONS x4 (#925)"
+    },
+    {
+      "hash": "3c97172286f04cfac33c03f06db1d99ab087e500",
+      "date": "2026-05-09T14:39:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] babel: P2 Tier 0a Sonnet diff-patch — 80 patches × 5 langs (production-scale validation) (#924)"
+    },
+    {
+      "hash": "868b2cb01970a2443118a43a3b50bcdfd4e2b21f",
+      "date": "2026-05-09T14:32:27+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] fix: prepare-batch reuse existing slug for ANY status (slug regression) (#923)"
+    },
+    {
+      "hash": "6514fec67368817aff5d1fe9c075e0536db0efd2",
+      "date": "2026-05-09T14:21:42+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] doc: babel v3.3 milestone + P2.5 production-scale validation record (#922)"
+    },
+    {
+      "hash": "04a9c0df7802c6c98328da972ea275fec37d04a0",
+      "date": "2026-05-09T14:18:36+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] babel: P2.5 bump-source-sha 2429 metadata-stale entries (instant clear) (#921)"
+    },
+    {
+      "hash": "251015db779110c5d0b02599b7e2cdfd74de373a",
+      "date": "2026-05-09T13:57:18+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: worktree naming standard YYYYMMDD-{purpose-title} (DNA #9 ext) (#920)"
+    },
+    {
+      "hash": "8eeedef0c831ec8c899377a99b4441435f59912f",
+      "date": "2026-05-09T13:49:21+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory + diary: laughing-goldstine post-finale (babel v2→v3) (#919)"
+    },
+    {
+      "hash": "d5a001dcdfc27f95da3642e6b5100cce6d9c822b",
+      "date": "2026-05-09T13:39:03+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: babel v3 — priority schema + Tier 0 Sonnet diff-patch (DNA #53) (#918)"
+    },
+    {
+      "hash": "0ea5d5d42288a2a545674d385ea2253e7ea77c16",
+      "date": "2026-05-09T13:21:55+08:00",
+      "author": "Zaious (@ChronicleCore)",
+      "message": "polish(P0/batch-200): 27 篇對位句型 reduce + 4 篇 frontmatter hard 修補 (#910)"
+    },
+    {
+      "hash": "45f38fef719ba8c2562642b6e3e604b2b7178e53",
+      "date": "2026-05-09T12:10:53+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] babel: 11 zero-coverage articles × 5 langs (Tier 1 100%) (#917)"
+    },
+    {
+      "hash": "0b2c2a3375c3cfb660f7cb028f922ea9d27071b0",
+      "date": "2026-05-09T10:56:01+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] harvest: 4 spores 賈永婕 D+7 + 聶永真 D+1 (Phase 6 canonical-only #2) (#916)"
+    },
+    {
+      "hash": "41607bc93b88d06f7882b48168700fe5e87be3f2",
+      "date": "2026-05-09T01:51:42+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: laughing-goldstine — Spore SSOT 6-phase + harvest + stacked PR race (#913)"
+    },
+    {
+      "hash": "fb6e23b015402f6f48093b78e0c786e43af19977",
+      "date": "2026-05-09T01:16:01+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] hotfix: remove extract-spore-metrics from package.json prebuild:spores (#911)"
+    },
+    {
+      "hash": "9dc8365cad07ac870e870469dbe180d62af072d7",
+      "date": "2026-05-09T01:12:04+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] proposal: spore SSOT + pipeline cleanup design (#903)"
+    },
+    {
+      "hash": "5db9f136ea906f8e9f625906741e05a1b6d8766f",
+      "date": "2026-05-09T01:11:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: spore SSOT cleanup — Phase 1-6 consolidated (post-#905 stacked PR recovery) (#909)"
+    },
+    {
+      "hash": "2b8683c857d05d19618fc23d4076ff9c8f735e25",
+      "date": "2026-05-09T01:08:55+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] fix: refresh-data.sh Phase 0 — cwd assertion + auto-stash + integer step nums (#905)"
+    },
+    {
+      "hash": "36217dae97f33128bf2343727bf78b86f7cca5a0",
+      "date": "2026-05-08T21:58:03+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: DNA #15 第 11 次驗證 + #50 補強 + v3.1 milestone (SPORE pipeline self-refactor + EVOLVE Mode 3) (#904)"
+    },
+    {
+      "hash": "4bb09603d3dfd8125991c94bdb4c1c1c27341717",
+      "date": "2026-05-08T21:52:28+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #898 from frank890417/claude/intelligent-khayyam-a16a17"
+    },
+    {
+      "hash": "e6285a7b582ac2dcd486e9c0fe0f0e459d10e5f9",
+      "date": "2026-05-08T20:58:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: EVOLVE-PIPELINE v3.0 — Mode 3 Pipeline 自我重組（meta-evolution）"
+    },
+    {
+      "hash": "2c669da136f199a3c5f5fc67e9426a49c2963b5f",
+      "date": "2026-05-08T20:55:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: /twmd-spore skill 反映 5 stage 架構 + plugin gates + 4-tier hook"
+    },
+    {
+      "hash": "4e103c8c6a7ee76796bbbc40421a878f8c4e9711",
+      "date": "2026-05-08T20:54:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: SPORE DNAs Wave 2 — 從 9 spore batch 數據驗證的 4-tier hook + Rule #14 plugin + Reach×accuracy retroactive"
+    },
+    {
+      "hash": "5cf07ee52373d415850a745187ac97a6f5bc1ab0",
+      "date": "2026-05-08T20:44:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: spore-writing plugin Wave 1 — Rule #15 編年體 lead + Rule #9 引語倒裝"
+    },
+    {
+      "hash": "21c95f1065b072a147cb9b5cd806566c50fe0201",
+      "date": "2026-05-08T20:40:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: SPORE pipeline 重組 cross-ref 更新 (DNA / HEARTBEAT / MANIFESTO / SENSES / README × 2 / ROADMAP)"
+    },
+    {
+      "hash": "8df32e5cf7d049b7e45bb6d7416878161aa95651",
+      "date": "2026-05-08T20:38:02+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #902 from frank890417/claude/elegant-ptolemy-f2cf4f"
+    },
+    {
+      "hash": "ef5cba7c31b9e8aa71580e971ddbe8c2d679cf62",
+      "date": "2026-05-08T20:37:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 聶永真 + 林琪兒 hero 圖重複修復（reader callout）"
+    },
+    {
+      "hash": "e8e269c68b81f23129a1ea8568cb1d72dcb9050c",
+      "date": "2026-05-08T20:37:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: SPORE-PIPELINE.md 重寫 v3.0 — 5 stage verb-based 主流程 (1334 → 445 行)"
+    },
+    {
+      "hash": "7a51d0559669c9535f92b0cc74a5fba2e608b0c5",
+      "date": "2026-05-08T20:33:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] distill: DNA #52 fail loud + LESSONS-INBOX 7 candidates append (elegant-ptolemy /twmd-distill)"
+    },
+    {
+      "hash": "12de8d7777a81d8641f0c031381e66e83204e106",
+      "date": "2026-05-08T20:29:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: SPORE-HARVEST-PIPELINE 吸收 Step 4.5 整段 (decision gates + cadence + verify)"
+    },
+    {
+      "hash": "2e7e1e5884db650b90de83b201a2ca4a410ccf0e",
+      "date": "2026-05-08T20:26:22+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #901 from frank890417/claude/elegant-ptolemy-f2cf4f"
+    },
+    {
+      "hash": "70061b3f2e4f55b8908a42dcbd17da9a9a4cdc15",
+      "date": "2026-05-08T20:26:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: elegant-ptolemy v1.3 — 補 spore harvest+ship 鏈 + fair-use 視覺 + Beat 5 第八第九觀察"
+    },
+    {
+      "hash": "18e3121a26cc72939fbdf88964d54002a4b05d3b",
+      "date": "2026-05-08T20:25:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 建 SPORE-VERIFY.md gate layer (hard gate inventory canonical)"
+    },
+    {
+      "hash": "d342107651e36d1b56a475a4cffd9da1de776932",
+      "date": "2026-05-08T20:20:47+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #900 from frank890417/claude/elegant-ptolemy-f2cf4f"
+    },
+    {
+      "hash": "134a91002e94235baa296048d9efe5e0ca2aa9bb",
+      "date": "2026-05-08T20:20:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 聶永真 +2 fair-use 圖 — Democracy 4am NYT 廣告 + 台電新標準字設計過程"
+    },
+    {
+      "hash": "f7fd2cdfb1c80b57222d818b4672b223dc7dea71",
+      "date": "2026-05-08T20:20:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 建 SPORE-WRITING.md craft layer + TEMPLATES 變 redirect stub"
+    },
+    {
+      "hash": "de9f95783915ae6726ba4987e26753ec86f8b4aa",
+      "date": "2026-05-08T20:08:12+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #899 from frank890417/claude/elegant-ptolemy-f2cf4f"
+    },
+    {
+      "hash": "12ec77fb7d4f299fdc2a29e9b9d33e34768122bd",
+      "date": "2026-05-08T20:07:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] spore-ship: #66 Threads + #67 X 聶永真 D+0 (post-ship dual-write)"
+    },
+    {
+      "hash": "365845a3ec5059ba5b9a81c584bb3b485d38870d",
+      "date": "2026-05-08T20:07:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: SPORE-PIPELINE 進化計畫 report — 1334 行 prose dump 重組成精實閘門生態系的思考"
+    },
+    {
+      "hash": "2b9bba55b21fb74b9ec7e73b10c58ecfbb944862",
+      "date": "2026-05-08T20:03:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] spore-prep: #66/#67 聶永真 v2 — 移除「沒在頭版署名」reveal 改短句直接點名"
+    },
+    {
+      "hash": "71410af3d5bbaa2f5b4acd722d32a54c119e0dd2",
+      "date": "2026-05-08T19:49:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] spore-prep: #66/#67 聶永真 Threads + X (D+0 prep, awaiting human ship per DNA #26)"
+    },
+    {
+      "hash": "7c9d5fc6e47dedd758e91e1867879c714ab4d285",
+      "date": "2026-05-08T19:39:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #897 from frank890417/claude/elegant-ptolemy-f2cf4f"
+    },
+    {
+      "hash": "a637afed9f9afaef6b995a7d7113c7f5bde58863",
+      "date": "2026-05-08T19:39:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] harvest: 15 OVERDUE backfill — Chrome MCP batch (D+3 to D+10, 黑冠麻鷺 雙平台 134K viral)"
+    },
+    {
+      "hash": "3dd35f3649efd25d36a42646bed68f88cbef233c",
+      "date": "2026-05-08T18:43:25+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #896 from frank890417/claude/elegant-ptolemy-f2cf4f"
+    },
+    {
+      "hash": "c333b9c1a677face6f3f644c950eb1326864162d",
+      "date": "2026-05-08T18:42:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] finale: elegant-ptolemy v1.2 memory + diary + evolve (3 frame transition signals)"
+    },
+    {
+      "hash": "0a9c8f2b40aa9c253f9f50f3bfa029b638f9acc8",
+      "date": "2026-05-08T18:33:30+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: 林琪兒 hero 圖重複修復 (6 lang) (#894)"
+    },
+    {
+      "hash": "a3052a4adecd4c63b6da67cadd3b1562dd01d543",
+      "date": "2026-05-08T18:31:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 聶永真 EVOLVE Round 2 — 多元面貌人物 SSODT，去 event-report 框架"
+    },
+    {
+      "hash": "517abe3f77067c230c0957db4c5b68e7292f0990",
+      "date": "2026-05-08T18:18:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge remote-tracking branch 'origin/main' into claude/intelligent-khayyam-a16a17"
+    },
+    {
+      "hash": "22c093b93f227c8e0dd531edb8916583dfe0fb20",
+      "date": "2026-05-08T18:10:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: i18n-smoke-test cache key 加 runner.arch (cross-arch fix)"
+    },
+    {
+      "hash": "02987ad0daef740a22a846fd9b45827bbef9d2e0",
+      "date": "2026-05-08T18:08:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] data: refresh dashboard JSON post 聶永真 EVOLVE ship"
+    },
+    {
+      "hash": "790cd351055e6d6df60389d2046f9c7acc893984",
+      "date": "2026-05-08T18:08:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 聶永真 EVOLVE — 公民聶永真 vs 商業聶永真，2026/05/08 台電 LOGO 風暴 anchor"
+    },
+    {
+      "hash": "6d3b209995e1b3b315df12f16bacfee0fe4675b9",
+      "date": "2026-05-08T18:06:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: i18n-smoke-test 補 Playwright install (CI infra fix)"
+    },
+    {
+      "hash": "aa3e6df4d248d4cc17b73c6cd57cfc1194f6a13c",
+      "date": "2026-05-08T18:03:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 補 article.imageCredit / article.imageSource 6 lang i18n keys"
+    },
+    {
+      "hash": "c929fa6477683099971727ba32c1dd7df00de7ee",
+      "date": "2026-05-08T17:53:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 林琪兒 hero 圖重複修復 — 6 lang 移除 body 開頭 inline 圖"
+    },
+    {
+      "hash": "4777e2548a811d8316a9f253f2b6dcead0ba7325",
+      "date": "2026-05-08T17:24:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: Palakaw heal — frontmatter category align + 延伸閱讀 wikilink fix + footnote ref/def reconcile (PR #893 follow-up)"
+    },
+    {
+      "hash": "d9612be1eb6e0048b3366f8232661c2726c68295",
+      "date": "2026-05-08T17:23:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: Ba Jiong → Pa Chiung 八炯英文 romanization 校正 (closes #883)"
+    },
+    {
+      "hash": "a928093dc83641181cf611e2aec3cc7a7483f570",
+      "date": "2026-05-08T17:22:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: footnote-format regex 接受 Prettier autolink wrap (修 CI build fail 根因)"
+    },
     {
       "hash": "a28658ef1cecef8395464df6546968c40d3f32fb",
       "date": "2026-05-08T17:16:48+08:00",
