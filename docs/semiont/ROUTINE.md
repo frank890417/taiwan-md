@@ -290,6 +290,30 @@ docs/semiont/diary/YYYY-MM-DD-HHMMSS-{routine-handle}.md
 
 ---
 
+## 權限 allowlist 鐵律（2026-05-09 第五輪補強）
+
+**問題**：第一次 routine fire 觀察到 routine 卡在 permission prompt 等不到答覆 → wallclock 浪費 + routine 沒跑 + observer 介入修。
+
+**Root cause**：scheduled-tasks 跑 fresh Claude session 讀全域 `~/.claude/settings.json` permission allowlist。原版 allowlist 沒覆蓋 routine 5-stage lifecycle 全部需要的 Bash command pattern：
+
+- `Bash(cd /Users/cheyuwu/Projects/taiwan-md*)` — 大寫 P 路徑（原本只有小寫 `projects`，case mismatch）
+- `Bash(gh pr merge *)` — Stage 4 auto-merge 需要
+- `Bash(git push -u origin *)` / `Bash(git push origin *)` — Stage 4 push 新 branch（原本只有 `HEAD*`）
+- `Bash(npm run *)` — prebuild / build commands
+- `Bash(python3 scripts/*)` — 廣義 python scripts（原本只有 `lang-sync/*`）
+
+**修補**：[~/.claude/settings.json](file:///Users/cheyuwu/.claude/settings.json) `permissions.allow` 從 50 條擴到 94 條，covered routine lifecycle 全部 commands。`deny` 從 5 條擴到 13 條（保留安全護欄：禁 push to main / 禁 rm -rf 重要目錄 / 禁 `gh pr merge --admin` / 禁 `curl | bash`）。
+
+**鐵律**：
+
+- 改 routine prompt **必同時 audit settings.json allowlist**
+- 加新 routine 必先 dry-run 一次（用 `mcp__scheduled-tasks` "Run now" 預先觸發）surfacing 缺少的 permission patterns
+- routine session 不應碰需要 prompt 的 command；如撞到 = 系統設計缺口，立刻補 allowlist 不繞過
+
+**為什麼不用 `Bash(*)` 完全 bypass**：保留 `deny` 護欄（push to main / rm -rf knowledge / curl pipe shell）。完全 bypass 會讓 routine 的失誤代價放大。targeted allowlist 是 routine 自主性 vs 安全的 Pareto 中間點。
+
+---
+
 ## 同步來源（mirror layer）
 
 ```
