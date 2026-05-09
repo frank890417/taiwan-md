@@ -17,10 +17,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: '377006e0'
-sourceContentHash: 'sha256:a17c8a8fb3e5b2c1'
-sourceBodyHash: 'sha256:06f0fe3b93639905'
-translatedAt: '2026-04-14T10:22:29+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1be7230ba8a26470'
+sourceBodyHash: 'sha256:448d367a49551ee8'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 # 가지달걀 EggPlantEgg
@@ -69,7 +69,7 @@ translatedAt: '2026-04-14T10:22:29+08:00'
 
 [^3]: [GQ Taiwan: 왜 항상 남자 마음속 이야기를 쓸 수 있을까? 가지달걀](https://www.gq.com.tw/entertainment/article/%E8%AA%AA%E6%95%85%E4%BA%8B%E7%9A%84%E4%BA%BA-%E8%8C%84%E5%AD%90%E8%9B%8B) — 2021년 인터뷰, 결성 초기 토스트를 나눠 먹던 경험 언급
 
-[^4]: [국가 문화 기억관: 금곡29 가지달걀 최우수 신인상 수상](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507455) — 공식 금곡상 기록
+[^4]: [국가 문화 기억관: 금곡29 가지달걀 최우수 신인상 수상](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507455) — 공식 금곡상 기록: 국가 문화 기억관
 
 [^5]: [Stylemaster: 가지달걀 / 인생이 참 엉망이지! 그래도 내일은 살아야 하잖아](https://www.stylemaster.com.tw/2022/01/14/%E8%8C%84%E5%AD%90%E8%9B%8B%EF%BC%8F%E4%BA%BA%E7%94%9F%E5%B0%B1%E6%98%AF%E5%BE%88%E7%88%9B%E5%98%9B%EF%BC%81%E4%BD%86%E6%98%8E%E5%A4%A9%E7%B8%BD%E6%98%AF%E5%BE%97%E9%81%8E%E5%95%8A%EF%BC%8C%E4%B8%8D/) — 2022년 커버 스토리
 
@@ -77,11 +77,11 @@ translatedAt: '2026-04-14T10:22:29+08:00'
 
 [^7]: 〈이런 짝사랑〉은 방랑자 삼부작의 최종장으로, 서사 분석은 앞의 더리포터 및 Stylemaster 인터뷰 참조
 
-[^8]: [중앙통신사: 가지달걀 "사랑, 네가 내 생각보다 훨씬 위대해" 금곡상 올해의 노래상 수상](https://www.cna.com.tw/video/news/4339639) — CNA 공식 보도
+[^8]: [중앙통신사: 가지달걀 "사랑, 네가 내 생각보다 훨씬 위대해" 금곡상 올해의 노래상 수상](https://www.cna.com.tw/video/news/4339639) — CNA 공식 보도: 중앙사 보도
 
 [^9]: [미러 미디어: 가족끼리 돈 얘기하면 감정 상해, 가지달걀 해체하고 각자 활동](https://www.mirrormedia.mg/story/20230313ent026) — 2023년 해체설 보도
 
-[^10]: [MSN: 가지달걀 4년간 사라졌다! 보컬 아빈이 갑자기 새 신분 공개](https://www.msn.com/zh-tw/entertainment/news/%E8%8C%84%E5%AD%90%E8%9B%8B%E6%B6%88%E5%A4%B14%E5%B9%B4-%E4%B8%BB%E5%94%B1%E9%98%BF%E6%96%8C%E7%AA%81%E6%8F%AD%E6%96%B0%E8%BA%AB%E5%88%86-%E7%86%AC%E9%81%8E%E8%81%B2%E5%B8%B6%E6%89%8B%E8%A1%93%E5%90%90%E5%BF%83%E8%81%B2/ar-AA1IeEgJ) — 아빈 성대 수술 후 근황
+[^10]: [MSN: 가지달걀 4년간 사라졌다! 보컬 아빈이 갑자기 새 신분 공개](https://www.msn.com/zh-tw/entertainment/news/%E8%8C%84%E5%AD%90%E8%9B%8B%E6%B6%88%E5%A4%B14%E5%B9%B4-%E4%B8%BB%E5%94%B1%E9%98%BF%E6%96%8C%E7%AA%81%E6%8F%AD%E6%96%B0%E8%BA%AB%E5%88%86-%E7%86%AC%E9%81%8E%E8%81%B2%E5%B8%B6%E6%89%8B%E8%A1%93%E5%90%90%E5%BF%83%E8%81%B2/ar-AA1IeEgJ) — 아빈 성대 수술 후 근황: 원문 링크 참조
 
 [^11]: 앞의 더리포터[^1] 및 GQ[^3] 인터뷰 참조, 타이완어 팝 음악에서 가지달걀의 위상 분석
 

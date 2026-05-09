@@ -1,20 +1,30 @@
 ---
-title: 'Teach For Taiwan : comment une diplômée de Princeton a convaincu quatre cents jeunes d'entrer dans les classes rurales'
-description: 'En 2014, Liu An-Ting a démarré avec deux mille dollars taïwanais et neuf personnes. Onze ans plus tard, plus de quatre cents enseignants TFT travaillent dans les écoles primaires les plus reculées de Taïwan, aux côtés de sept mille enfants oubliés par le système. Ce n'est pas un récit inspirant sur la philanthropie éducative — c'est un débat permanent sur la question de savoir qui est responsable des inégalités.'
+title: "Teach For Taiwan : comment une diplômée de Princeton a convaincu quatre cents jeunes d'entrer dans les classes rurales"
+description: "En 2014, Liu An-Ting a démarré avec deux mille dollars taïwanais et neuf personnes. Onze ans plus tard, plus de quatre cents enseignants TFT travaillent dans les écoles primaires les plus reculées de Taïwan, aux côtés de sept mille enfants oubliés par le système. Ce n'est pas un récit inspirant sur la philanthropie éducative — c'est un débat permanent sur la question de savoir qui est responsable des inégalités."
 date: 2026-04-08
-tags: [éducation, éducation rurale, TFT, Teach For Taiwan, Liu An-Ting, inégalités éducatives, entreprise sociale, zones reculées]
-category: Society
+category: 'Society'
+tags:
+  [
+    'éducation',
+    'éducation rurale',
+    'TFT',
+    'Teach For Taiwan',
+    'Liu An-Ting',
+    'inégalités éducatives',
+    'entreprise sociale',
+    'zones reculées',
+  ]
 subcategory: 'Éducation'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
-readingTime: 12
 lastVerified: 2026-04-08
-lastHumanReview: '2026-04-08'
-translatedFrom: "Society/為台灣而教TFT.md"
-sourceCommitSha: "26216f73"
-sourceContentHash: "sha256:8877b0b0d8b6abd7"
-sourceBodyHash: 'sha256:a37786359a5d674c'
-translatedAt: "2026-04-14T12:32:44+08:00"
+lastHumanReview: true
+readingTime: 12
+translatedFrom: 'Society/為台灣而教TFT.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:d24206673c791f9a'
+sourceBodyHash: 'sha256:2ed9c66e6cdd44d6'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 > **En 30 secondes :** Taïwan se classe parmi les meilleurs au monde au PISA, mais les élèves défavorisés accusent jusqu'à six ans de retard sur leurs pairs. En 2014, Liu An-Ting, diplômée de Princeton à 24 ans, a fondé Teach For Taiwan (TFT) avec deux mille dollars taïwanais, en envoyant des diplômés des meilleures universités enseigner deux ans dans des écoles rurales. Onze ans plus tard, plus de quatre cents enseignants TFT sont présents dans quatre-vingt-cinq établissements répartis dans neuf comtés, aux côtés de plus de sept mille enfants. Huit anciens élèves sur dix restent dans le domaine de l'éducation. Mais les critiques n'ont jamais cessé : six semaines de formation suffisent-elles ? Les élites citadines comprennent-elles vraiment les communautés rurales ? S'agit-il d'une solution systémique, ou d'une nouvelle forme d'invasion culturelle bien intentionnée ?
@@ -132,6 +142,7 @@ Dans les salles de classe des écoles rurales, les néons clignotent parfois. La
 - Justice foncière et territoires traditionnels des peuples autochtones à Taïwan — de nombreuses écoles où TFT intervient se trouvent dans des régions autochtones, où la question éducative se mêle à celle de la justice territoriale et de la transmission culturelle
 - Yan Chang-Shou — l'un des pères spirituels de TFT, fondateur de la Fondation de la plateforme de bien-être public, dont les expériences éducatives à Taitung forment avec TFT deux bras d'un même fleuve
 - Culture du bénévolat et engagement civique à Taïwan — la tradition bénévole de la société civile taïwanaise est le terreau qui a permis à TFT de recruter quatre cents personnes
+- [Zashugiao](/society/雜學校) — autre startup éducative née après le mouvement du 18 mars 2014 ; là où TFT recrute par organisation, Zashugiao opte pour la fête du savoir : deux méthodes de commissariat différentes
 
 ## Références
 

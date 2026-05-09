@@ -11,10 +11,10 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: true
 translatedFrom: Economy/台灣股市與資本市場.md
-sourceCommitSha: 1033cf06
-sourceContentHash: sha256:3bd269df030903a1
-sourceBodyHash: sha256:eee96dbb5a498050
-translatedAt: 2026-05-03T23:14:05+08:00
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:a8ffab6517a1998c'
+sourceBodyHash: 'sha256:f84ec5442a40bab7'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 > **30-Second Overview:** On April 28, 2026, Taiwan's total stock market capitalization surged to US$4.47 trillion, overtaking Canada to become the world's 6th largest stock market; it had already surpassed the UK earlier that month. The driving force behind this was TSMC—with a market cap of US$1.8 trillion, its weight in the TAIEX approached 45%. Thirty-six years ago, the 10,000-point crash that collectively wiped out 4.6 million accounts, and the Hung Yuan investment scheme that swallowed the retirement savings of 160,000 people with monthly interest rates of 4%, have not yet dried from the island's financial memory. From the dozen-odd listed companies in the year the Taiwan Stock Exchange was founded, to 13.93 million accounts sharing the world's 6th largest capital market today, Taiwan took sixty-four years. But this 6th-place ranking carries a structural paradox: remove TSMC, and the remaining 1,000-plus stocks together would barely rank around 15th globally.

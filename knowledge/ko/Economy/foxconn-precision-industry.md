@@ -2,18 +2,20 @@
 title: '대만 기업: 하이하이정밀(鴻海精密): 8조 매출과 내부 반부패 전쟁, 같은 대차대조표의 두 이야기'
 description: '2026년 4월 30일 오전, 타임지가 하이하이를 세계 100대 영향력 기업에 선정한 바로 그날 저녁, 검찰과 수사관들이 수색영장을 들고 하이하이 토성(土城) 공장에 진입했다. 1974년 어머니의 계(標会) 10만 창업에서 2025년 클라우드 네트워크가 소비전자를 추월하며 8조 매출을 달성하기까지, 하이하이가 가장 통제하기 어려운 것은 지정학도 AI 캐비닛 출하 리듬도 아닌, 바로 내부자였다.'
 date: 2026-05-03
-tags: [Economy, 기업, 전자제조, 위탁생산(代工), 하이하이(鴻海), 후커스(富士康), 기업지배구조]
+category: 'Economy'
+tags: ['Economy', '기업', '전자제조', '위탁생산(代工)', '하이하이(鴻海)', '후커스(富士康)', '기업지배구조']
 subcategory: '企業列傳'
-author: Taiwan.md
-readingTime: 10
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
+researchReport: reports/research/2026-05/台灣企業：鴻海精密.md
+readingTime: 10
 translatedFrom: Economy/台灣企業：鴻海精密.md
-sourceCommitSha: c2985874
-sourceContentHash: sha256:58c3399a6b0788c3
-sourceBodyHash: sha256:e1fa0334f3912ed8
-translatedAt: 2026-05-03T23:14:06+08:00
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:f8ad90a4cc28bbe6'
+sourceBodyHash: 'sha256:68bf0232c7180c94'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 > **30초 개요**

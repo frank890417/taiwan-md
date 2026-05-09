@@ -1,29 +1,21 @@
 ---
 title: 'La música hakka de Taiwán: herencia cultural e innovación de la canción de montaña al rock'
 description: 'Explora el recorrido innovador de la música hakka de Taiwán, desde las canciones de montaña tradicionales y los ocho sonidos hakka hasta las contribuciones de músicos contemporáneos como Lin Shengxiang y la banda Jiao Gong, así como los hitos importantes de los álbumes en lengua hakka en los Premios Golden Melody.'
-date: '2026-03-19'
-author: 'Taiwan.md'
+date: 2026-03-19
 category: 'Music'
-subcategory: '傳統音樂'
 tags:
-  [
-    'música hakka',
-    'canción de montaña',
-    'ocho sonidos hakka',
-    '林生祥 (Lin Shengxiang)',
-    '交工樂隊 (Banda Jiao Gong)',
-    'canciones en lengua hakka',
-    'Premios Golden Melody',
-  ]
-readingTime: '13'
-lastVerified: '2026-03-19'
-lastHumanReview: 'false'
-featured: 'true'
+  ['música hakka', 'canción de montaña', 'ocho sonidos hakka', 'Lin Shengxiang', 'Banda Jiao Gong', 'canciones en lengua hakka', 'Premios Golden Melody']
+subcategory: '傳統音樂'
+author: 'Taiwan.md'
+featured: true
+lastVerified: 2026-03-19
+lastHumanReview: false
+readingTime: 13
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:214584e7c5f88b5f'
-sourceBodyHash: 'sha256:7b58dee044509512'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:3b87aa65ad19f49e'
+sourceBodyHash: 'sha256:8c608b3ca113ca88'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 # La música hakka de Taiwán: herencia cultural e innovación de la canción de montaña al rock

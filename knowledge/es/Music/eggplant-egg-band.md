@@ -2,6 +2,7 @@
 title: '茄子蛋 EggPlantEgg'
 description: 'EggPlantEgg, con su distintivo rock de «romanticismo taiwanés» y su narrativa del «vagabundo», no solo ha alcanzado un enorme éxito en el mercado musical, sino que también ha redefinido el rostro contemporáneo de la música pop en taiwanes, convirtiéndose en un componente esencial del imaginario cultural de Taiwán.'
 date: 2026-04-05
+category: 'Music'
 tags:
   [
     'música independiente',
@@ -18,11 +19,10 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: '377006e0'
-sourceContentHash: 'sha256:a17c8a8fb3e5b2c1'
-sourceBodyHash: 'sha256:06f0fe3b93639905'
-translatedAt: '2026-05-01T22:19:10+08:00'
-category: Music
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1be7230ba8a26470'
+sourceBodyHash: 'sha256:448d367a49551ee8'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 # 茄子蛋 EggPlantEgg
@@ -73,7 +73,7 @@ El vocalista A-Bin se ha unido a Universal Music y está explorando activamente 
 
 [^3]: [GQ Taiwan: ¿Por qué siempre logra escribir lo que los hombres sienten? EggPlantEgg](https://www.gq.com.tw/entertainment/article/%E8%AA%AA%E6%95%85%E4%BA%8B%E7%9A%84%E4%BA%BA-%E8%8C%84%E5%AD%90%E8%9B%8B) — Entrevista de 2019 en la que se menciona la experiencia de compartir una barra de pan en los inicios de la banda
 
-[^4]: [國家文化記憶庫: EggPlantEgg gana el Premio al Artista Nuevo en la 29.ª edición de los Golden Melody](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507455) — Registro oficial de los Premios Golden Melody
+[^4]: [國家文化記憶庫: EggPlantEgg gana el Premio al Artista Nuevo en la 29.ª edición de los Golden Melody](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507455) — Registro oficial de los Premios Golden Melody: Base Nacional de Memoria Cultural
 
 [^5]: [Stylemaster: EggPlantEgg / ¡La vida es una mierda! Pero mañana siempre hay que seguir adelante](https://www.stylemaster.com.tw/2020/01/14/%E8%8C%84%E5%AD%90%E8%9B%8B%EF%BC%8F%E4%BA%BA%E7%94%9F%E5%B0%B1%E6%98%AF%E5%BE%88%E7%88%9B%E5%98%9B%EF%BC%81%E4%BD%86%E6%98%8E%E5%A4%A9%E7%B8%BD%E6%98%AF%E5%BE%97%E9%81%8E%E5%95%8A%EF%BC%8C%E4%B8%80/) — Reportaje de portada de 2022
 
@@ -81,11 +81,11 @@ El vocalista A-Bin se ha unido a Universal Music y está explorando activamente 
 
 [^7]: 〈這款自作多情〉 es el capítulo final de la trilogía del vagabundo; el análisis narrativo puede consultarse en los reportajes de 報導者 y Stylemaster citados anteriormente
 
-[^8]: [中央通訊社: EggPlantEgg gana el premio Canción del Año en los Golden Melody con 〈愛情你比我想的閣較偉大〉](https://www.cna.com.tw/video/news/4339639) — Reportaje oficial de CNA
+[^8]: [中央通訊社: EggPlantEgg gana el premio Canción del Año en los Golden Melody con 〈愛情你比我想的閣較偉大〉](https://www.cna.com.tw/video/news/4339639) — Reportaje oficial de CNA: Agencia Central de Noticias
 
 [^9]: [鏡週刊: Hablar de dinero con la familia hiere los sentimientos: EggPlantEgg se disuelve y cada miembro sigue su camino](https://www.mirrormedia.mg/story/20230313ent026) — Reportaje de 2023 sobre los rumores de disolución
 
-[^10]: [MSN: ¡EggPlantEgg desaparece durante 4 años! El vocalista A-Bin revela una nueva identidad](https://www.msn.com/zh-tw/entertainment/news/%E8%8C%84%E5%AD%90%E8%9B%8B%E6%B6%88%E5%A4%B14%E5%B9%B4-%E4%B8%BB%E5%94%B1%E9%98%BF%E6%96%8C%E7%AA%81%E6%8F%AD%E6%96%B0%E8%BA%AB%E5%88%86-%E7%86%AC%E9%81%8E%E8%81%B2%E5%B8%B6%E6%89%8B%E8%A1%93%E5%90%90%E5%BF%83%E8%81%B2/ar-AA1IeEgJ) — Actualidad sobre A-Bin tras la cirugía de cuerdas vocales
+[^10]: [MSN: ¡EggPlantEgg desaparece durante 4 años! El vocalista A-Bin revela una nueva identidad](https://www.msn.com/zh-tw/entertainment/news/%E8%8C%84%E5%AD%90%E8%9B%8B%E6%B6%88%E5%A4%B14%E5%B9%B4-%E4%B8%BB%E5%94%B1%E9%98%BF%E6%96%8C%E7%AA%81%E6%8F%AD%E6%96%B0%E8%BA%AB%E5%88%86-%E7%86%AC%E9%81%8E%E8%81%B2%E5%B8%B6%E6%89%8B%E8%A1%93%E5%90%90%E5%BF%83%E8%81%B2/ar-AA1IeEgJ) — Actualidad sobre A-Bin tras la cirugía de cuerdas vocales: ver contenido del enlace original
 
 [^11]: Véanse las entrevistas de 報導者[^1] y GQ[^3] citadas anteriormente, con análisis sobre el papel de EggPlantEgg en la música pop taiwanesa
 

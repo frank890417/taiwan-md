@@ -2,15 +2,8 @@
 title: "Poisoned Potatoes: Beyond the 200 ppm — There's 30 ppm, 14 Days, and 15 Years of Food-Safety Scars"
 description: 'On 29 April 2026, Chen Binhua of China''s Taiwan Affairs Office attacked the Lai Ching-te government with the phrase "poisoned potatoes" — calling it "yet another offering of the public''s health to flatter America." The real core of the controversy spans three layers: the 150-fold gap between the EU''s 0.2 ppm and Taiwan''s 30 ppm CIPC residue limits; the impossibility of "inspecting every single potato" with 85 actual border inspectors against 300 million potatoes; and 15 years of accumulated food-safety scars since the 2011 plasticizer scandal — the foundation this narrative steps onto.'
 date: 2026-04-30
-tags:
-  - Poisoned Potatoes
-  - Food Safety
-  - Cognitive Warfare
-  - Cross-Strait Relations
-  - ART Agreement
-  - Solanine
-  - CIPC
 category: 'Society'
+tags: ['Poisoned Potatoes', 'Food Safety', 'Cognitive Warfare', 'Cross-Strait Relations', 'ART Agreement', 'Solanine', 'CIPC']
 subcategory: 'International Relations'
 author: 'Taiwan.md'
 featured: false
@@ -19,10 +12,10 @@ lastHumanReview: false
 image: '/article-images/society/du-mali-maine-potato-1940.jpg'
 imageAlt: 'Potato harvest season in Aroostook County, Maine, 1940 (US Farm Security Administration; schools did not open until potatoes were harvested) — the real face of American potatoes before they reach Taiwan'
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
-sourceCommitSha: 'd0f90f01'
-sourceContentHash: 'sha256:dad5e0b9d38ca4de'
-sourceBodyHash: 'sha256:eb0e7978cdb1be4d'
-translatedAt: '2026-04-30T22:33:56+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:441da61b4d105152'
+sourceBodyHash: 'sha256:001afbff1a12f651'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 > **30-second overview:** On 29 April 2026, Chen Binhua, spokesperson for China's Taiwan Affairs Office (TAO), used the term "poisoned potatoes" at a routine press briefing to attack the DPP government for "openly abandoning the bottom line on food safety" and "after opening the door to ractopamine pork, putting poisoned potatoes on the dining tables of ordinary Taiwanese." The trigger was the adjustment of quarantine conditions for processed-use US potatoes, made under the Taiwan-US "Agreement on Reciprocal Trade" (ART) — a memorandum of understanding signed on 16 January and finalized on 13 February: small numbers of sprouted potatoes are now to be "rejected piece by piece" rather than have entire batches returned, and shipments with solanine concentrations below 200 ppm are cleared. The Mainland Affairs Council, the Ministry of Health and Welfare, and the Executive Yuan all issued rebuttals on 29 April. But the "truth" spans three layers. To see this narrative war clearly, you have to look simultaneously at the science layer (what is 200 ppm? behind it sits another 30 ppm), the governance layer (a treaty signed in 28 days plus the math of "inspecting every potato" with 85 border staff), and the trust layer (the 15-year scar from the 2011 plasticizer scandal to the 2024 ractopamine-pork debate). The CCP narrative **stepped precisely** onto this foundation — and the foundation is real.
@@ -328,6 +321,7 @@ Shen has also said something more upstream: "The establishment of friend-enemy c
 - [Taiwan Strait Crises and Cross-Strait Relations Development](/en/history/taiwan-strait-crises-and-cross-strait-relations/) — The longer historical context of the "offering" narrative
 - [Tsai Ing-wen](/en/people/tsai-ing-wen/) — The decision-maker on 2020-2021 ractopamine-pork policy, the previous layer of the scar
 - [Lai Ching-te](/en/people/lai-ching-te/) — The presidential term during which the ART agreement was signed
+- [Voicettank (想想論壇)](/society/想想論壇) — After Tsai Ing-wen's 2025 relaunch and flagship column "Annual China Observation Report," it covers similar cognitive-warfare topics of the same type
 
 ---
 

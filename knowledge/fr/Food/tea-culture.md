@@ -2,22 +2,30 @@
 title: 'La culture du thé à Taïwan'
 description: "Une petite île exclue des accords internationaux de limitation de la production théicole a ainsi créé son âge d'or du thé, avant de conquérir le monde entier avec une tasse de lait aromatisé garnie de petites « perles »"
 date: 2026-03-23
-tags:
-  [Culture du thé, Oolong, Thé de haute montagne, Boissons agitées, Bubble tea]
-subcategory: 'Culture des boissons'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
-readingTime: 12
+tags:
+  [
+    'Culture du thé',
+    'Oolong',
+    'Thé de haute montagne',
+    'Boissons agitées',
+    'Bubble tea',
+  ]
+subcategory: 'Culture des boissons'
+author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-23
-translatedFrom: 'Food/茶文化.md'
+lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
 imageAlt: 'Emballage de thé oolong de Taïwan portant la mention « Formosa Oolong Tea »'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:224c9e016e85d4f1'
-sourceBodyHash: 'sha256:6ba7adb37f74ad5b'
-translatedAt: '2026-04-14T12:29:04+08:00'
+created: 2026-03-23
+readingTime: 12
+translatedFrom: 'Food/茶文化.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:86475082b87388fc'
+sourceBodyHash: 'sha256:a9375147f15627a6'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 # La culture du thé à Taïwan
@@ -112,3 +120,7 @@ Ce n'est pas seulement l'histoire d'une tasse de thé. C'est l'histoire d'une î
 - [La folie des boissons : décryptage des données sur les boissons à secouer à Taïwan - LnData](https://lndatatech.github.io/taiwan-drink/)
 - [Témoin de la transformation économique de Taïwan : le développement du thé taïwanais dans le crépuscule de « Tea Gold » - Agriharvest](https://www.agriharvest.tw/archives/70760)
 - [Thé taïwanais - Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%8C%B6%E8%91%89)
+
+## Sujets connexes
+
+- [Cuisine de rue taïwanaise](/food/台灣小吃)

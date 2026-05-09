@@ -1,27 +1,21 @@
 ---
 title: 'La subcontratación de animación en Taiwán'
 description: 'Taiwán fue un centro global de subcontratación de animación: Wang Film Productions se encargó de la producción de clásicos de Hollywood, y en su apogeo representó un tercio de la producción mundial.'
-date: '2026-03-24'
+date: 2026-03-24
+category: 'Economy'
+tags: ['Industria de animación', 'Subcontratación', 'Wang Film Productions', 'Disney Oriental', 'Arte taiwanés']
 subcategory: '文化產業'
-tags:
-  [
-    'Industria de animación',
-    'Subcontratación',
-    'Wang Film Productions',
-    'Disney Oriental',
-    'Arte taiwanés',
-  ]
 author: 'Taiwan.md Contributors'
+featured: false
+lastVerified: 2026-03-24
+lastHumanReview: false
+difficulty: 'intermediate'
 readingTime: 10
-lastVerified: '2026-03-24'
-lastHumanReview: 'false'
-featured: 'false'
 translatedFrom: 'Economy/台灣動畫代工.md'
-sourceCommitSha: '84e04168'
-sourceContentHash: 'sha256:e65745d7776e7d73'
-sourceBodyHash: 'sha256:6d0f53daee394572'
-translatedAt: '2026-05-01T22:19:10+08:00'
-category: Economy
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:d3d2ec17aaf8187a'
+sourceBodyHash: 'sha256:187c229025183e4b'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 # La subcontratación de animación en Taiwán

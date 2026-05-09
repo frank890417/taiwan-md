@@ -16,13 +16,17 @@ category: 'People'
 subcategory: '聲音藝術'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-05-04
+lastVerified: 2026-05-09
 lastHumanReview: false
+image: '/article-images/people/wang-fujui-noise-silence-2020.jpg'
+imageCredit: '就在藝術空間 Project Fulfill Art Space'
+imageLicense: "Fair use (editorial commentary on artist's work)"
+imageSource: 'https://www.projectfulfill.com/wang-fujui-295793111929790.html'
 translatedFrom: People/王福瑞.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:2d1b677b9d0d7556'
-sourceBodyHash: 'sha256:e7a331b288e86525'
-translatedAt: 2026-05-05T00:33:23+08:00
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:e925472bcb9697b7'
+sourceBodyHash: 'sha256:27c1ee49559d0d55'
+translatedAt: 2026-05-09T14:31:09Z
 ---
 
 # Fujui Wang : de 200 exemplaires de fanzine photocopié à une enceinte 12 canaux, trente ans de bruit
@@ -101,9 +105,15 @@ Ce passage décrit un fait, mais aussi le prix à payer pour un artiste qui, en 
 
 ## Les fréquences du corps post-opératoire
 
-En novembre 2020, Fujui Wang présente son exposition personnelle _Noise is the New Silence_ (_Bruit-Silence_) au Project Fulfill Art Space (就在藝術空間), jusqu'au 5 décembre[^6]. C'est sa troisième exposition personnelle dans cet espace avec lequel il collabore de longue date, après _Quiet Noise_ (_Bruit silencieux_) en 2012 et _Transparent Imagery of Sounds_ (_Images sonores transparentes_) en 2016 ; suivra _So Noisy, So Silent_ (_Comme bruit, comme silence_) en 2024[^12]. Les quatre titres d'exposition se lisent comme quatre variations sur le même thème : la dialectique du silence et du bruit.
+![Trois œuvres de l'exposition _Noise is the New Silence_ dans le même cadre : à gauche _Shadow of Noise_ (bruit d'écran CRT), au centre _Skull Noise_ (dispositif de casque audio), à droite _Body Noise_ (images de sutures chirurgicales), novembre 2020 au Project Fulfill Art Space](/article-images/people/wang-fujui-noise-silence-three-pieces-2020.jpg)
+_Novembre 2020, vue d'ensemble de l'exposition _Noise is the New Silence_, trois œuvres présentées ensemble. Photo : 就在藝術空間 Project Fulfill Art Space. [Référence éditoriale fair use via Project Fulfill](https://www.projectfulfill.com/wang-fujui-295793111929790.html)._
+
+En novembre 2020, Fujui Wang présente son exposition personnelle _[Noise is the New Silence](https://www.youtube.com/watch?v=c8m8zPKBVkg)_ (_Bruit-Silence_) au [Project Fulfill Art Space](https://www.projectfulfill.com/wang-fujui-295793111929790.html) (就在藝術空間), jusqu'au 5 décembre[^6]. C'est sa troisième exposition personnelle dans cet espace avec lequel il collabore de longue date, après _Quiet Noise_ (_Bruit silencieux_) en 2012 et _Transparent Imagery of Sounds_ (_Images sonores transparentes_) en 2016 ; suivra _So Noisy, So Silent_ (_Comme bruit, comme silence_) en 2024[^12]. Les quatre titres d'exposition se lisent comme quatre variations sur le même thème : la dialectique du silence et du bruit.
 
 Mais _Noise is the New Silence_ est différent.
+
+![Œuvre centrale de l'exposition _Noise is the New Silence_ de Fujui Wang : enceinte omnidirectionnelle 12 canaux polyédrique fabriquée par l'artiste, suspendue au plafond, 2020 au Project Fulfill Art Space](/article-images/people/wang-fujui-noise-silence-2020.jpg)
+_2020, œuvre centrale de l'exposition _Noise is the New Silence_ : enceinte omnidirectionnelle 12 canaux polyédrique, transmettant les fréquences ténues de la prothèse vasculaire. Photo : 就在藝術空間 Project Fulfill Art Space. [Référence éditoriale fair use via Project Fulfill](https://www.projectfulfill.com/wang-fujui-295793111929790.html)._
 
 Le cœur de l'exposition est une enceinte omnidirectionnelle 12 canaux polyédrique, fabriquée par Fujui Wang lui-même, suspendue au plafond[^6]. Les autres œuvres sont _Shadow of Noise_ (_Ombres de bruit_, bruit d'écran CRT), _Skull Noise_ (_Bruit de crâne_, dispositif de casque audio) et _Body Noise_ (_Bruit de corps_, images de sutures chirurgicales)[^6].
 
@@ -117,9 +127,12 @@ Dans un entretien pour ARTFORUM Chine, il dit une phrase (texte original en chin
 
 De l'« absence de règles » de l'environnement extérieur à l'« absence de règles » de l'intérieur du corps, le sens s'est inversé, mais la logique reste la même.
 
-## Et l'histoire continue de s'écrire
+## Le label dōjin sur Bandcamp
 
-En 2022, Fujui Wang sort l'album numérique _[Ching-Shen-Ching 1.2.3.0.](https://etat.bandcamp.com/album/ching-shen-ching-1230)_ sur le label Bandcamp d'ET@T, 4 titres[^13], compilant les matériaux sonores de « Jing-Shen-Ching » de la fin des années 1990 au début des années 2020 en un format numérique téléchargeable. De l'« échange physique entre dōjin » de 200 exemplaires de fanzine photocopié en 1993 au « label individuel mondial en ligne » du streaming Bandcamp en 2022, trente ans de logique DIY sous différents supports.
+![Pochette de l'album numérique _Ching-Shen-Ching 1.2.3.0._, publié sur Bandcamp ET@T en 2022, empreinte contemporaine de trente ans de matériaux sonores de « Jing-Shen-Jing »](/article-images/people/wang-fujui-ching-shen-ching-album-2022.jpg)
+_2022, pochette de l'album numérique _Ching-Shen-Ching 1.2.3.0._. Image courtesy of [ET@T Bandcamp](https://etat.bandcamp.com/album/ching-shen-ching-1230). Référence éditoriale fair use._
+
+En 2022, Fujui Wang sort l'album numérique _[Ching-Shen-Ching 1.2.3.0.](https://etat.bandcamp.com/album/ching-shen-ching-1230)_ sur le label Bandcamp d'ET@T, 4 titres[^13], compilant les matériaux sonores de « Jing-Shen-Jing » de la fin des années 1990 au début des années 2020 en un format numérique téléchargeable. Parmi les titres figure _[V-Zone](https://etat.bandcamp.com/track/v-zone)_, l'un des morceaux représentatifs de cette ligne. De l'« échange physique entre dōjin » de 200 exemplaires de fanzine photocopié en 1993 au « label individuel mondial en ligne » du streaming Bandcamp en 2022, trente ans de logique DIY sous différents supports.
 
 Dans les années 2010, Fujui Wang fonde le Soundwatch Studio (響相工作室) avec l'artiste Lu Yi, continuant à promouvoir des performances et ateliers d'art sonore en Taïwan et à l'étranger[^4]. Ses participations à des expositions internationales incluent la Biennale de Venise (performance d'ouverture de Zheng Hui-Hua, _Soundscape social de Taïwan_, en 2011[^7]), Transmediale à Berlin, le ZKM en Allemagne, le Ars Electronica Center à Linz, et le Queens Museum de New York[^4].
 
@@ -127,11 +140,19 @@ En 2024, quatrième exposition personnelle au Project Fulfill Art Space : _So No
 
 > **✦** En trente ans, ce qu'il a fait avec le bruit, c'est finalement du silence.
 
-Des 200 exemplaires de fanzine photocopié en 1993, du premier album de bruit taïwanais en 1994, du Media Lab à trois en 2000, du Laking Sound Festival repris par ses élèves en 2007, au son de la prothèse vasculaire dans son corps en 2020, Fujui Wang a mis trente ans pour transformer la phrase « le bruit est mon point de départ, celui où je n'avais rien » — d'un manifeste de 24 ans — en un constat de fait à 51 ans.
+Des 200 exemplaires de fanzine photocopié en 1993, du premier album de bruit taïwanais en 1994, du Media Lab à trois en 2000, du Lacking Sound Festival repris par ses élèves en 2007, au son de la prothèse vasculaire dans son corps en 2020, Fujui Wang a mis trente ans pour transformer la phrase « le bruit est mon point de départ, celui où je n'avais rien » — d'un manifeste de 24 ans — en un constat de fait à 51 ans.
 
-« Ne rien avoir » en 1993 désigne la scène musicale expérimentale taïwanaise : pas de publication, pas de label, pas de pairs. En 2020, cela désigne le corps lui-même : après une grave maladie, même le son intérieur du corps est devenu matériau.
+Trente ans, c'est la même personne qui a écrit deux silences avec le mot NOISE. Le premier, en 1993, est le silence extérieur : la scène de musique expérimentale taïwanaise sans publication, sans label, sans pairs. Le second, en 2020, est le silence intérieur : après une grave maladie, même le son intérieur du corps est devenu matériau.
 
-De la scène au corps, de l'extérieur à l'intérieur, trente ans de deux silences écrits par la même personne avec le mot NOISE.
+## Sources des images
+
+Cet article utilise 4 images à titre de référence éditoriale (fair use editorial commentary), toutes mises en cache dans `public/article-images/people/` pour éviter les liens directs vers les serveurs sources :
+
+- [Installation 12 canaux de _Noise is the New Silence_ (image principale)](https://www.projectfulfill.com/wang-fujui-295793111929790.html) — œuvre centrale de l'exposition personnelle de Fujui Wang en 2020. Photo : 就在藝術空間 Project Fulfill Art Space. Référence éditoriale fair use.
+- [Vue d'ensemble des trois œuvres de _Noise is the New Silence_](https://www.projectfulfill.com/wang-fujui-295793111929790.html) — _Shadow of Noise_, _Skull Noise_, _Body Noise_ côte à côte lors de l'exposition 2020. Photo : 就在藝術空間. Référence éditoriale fair use.
+- [Pochette de l'album _Ching-Shen-Ching 1.2.3.0._](https://etat.bandcamp.com/album/ching-shen-ching-1230) — album numérique publié sur Bandcamp ET@T en 2022. Image courtesy of ET@T. Référence éditoriale fair use.
+
+Conformément à la [§Matrice de licences images Stage 4.5](../../reports/research/2026-05/王福瑞.md), les images documentaires d'œuvres d'artistes vivants (installations d'exposition, pochettes d'album) relèvent du fair use éditorial ; la mention de la source, du photographe/organisme et de l'usage suffit, sans nécessité de licence CC.
 
 ## Pour aller plus loin
 

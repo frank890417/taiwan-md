@@ -2,18 +2,20 @@
 title: '台湾企業：鴻海精密：8兆円売上と内部反腐敗戦争の同一の貸借対照表'
 description: '2026年4月30日午前、『タイム』誌は鴻海を世界で最も影響力のある100社に選出した。同日夕方、検察捜査官が鴻海土城工場に捜索令状を持って踏み入れた。1974年に母親が標会（無尽講）で集めた10万元から、2025年にクラウドネットワークがコンシューマーエレクトロニクスを上回る8兆円の売上に至るまで、鴻海にとって最も管理が難しいのは地政学でもAIサーバーラックの出荷ペースでもなく、自社の人間である。'
 date: 2026-05-03
+category: 'Economy'
 tags: ['Economy', '企業', '電子製造', '受託製造（OEM）', '鴻海', 'フォックスコーン', 'コーポレートガバナンス']
 subcategory: '企業列傳'
-author: Taiwan.md
-readingTime: 10
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
-translatedFrom: Economy/台灣企業：鴻海精密.md
-sourceCommitSha: c2985874
-sourceContentHash: sha256:58c3399a6b0788c3
-sourceBodyHash: sha256:e1fa0334f3912ed8
-translatedAt: 2026-05-03T23:14:06+08:00
+researchReport: reports/research/2026-05/台灣企業：鴻海精密.md
+readingTime: 10
+translatedFrom: 'Economy/台灣企業：鴻海精密.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:f8ad90a4cc28bbe6'
+sourceBodyHash: 'sha256:68bf0232c7180c94'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 > **30秒でわかる概要**

@@ -2,18 +2,27 @@
 title: 'Entreprises taïwanaises : Foxconn — 8 000 milliards de chiffre d''affaires et la guerre anti-corruption interne sur le même bilan'
 description: 'Le 30 avril 2026 au matin, le magazine Time inscrivait Foxconn parmi les 100 entreprises les plus influentes au monde ; le même jour en fin d''après-midi, des enquêteurs munis de mandats de perquisition entraient dans l''usine Foxconn de Tucheng. De 1974, lorsque la mère de Terry Gou emprunta 100 000 dollars taïwanais lors d''une tontine, à 2025, année où le cloud et les réseaux dépassèrent l''électronique grand public pour atteindre 8 000 milliards de chiffre d''affaires, le plus difficile à gérer chez Foxconn n''est ni la géopolitique, ni le rythme d''expédition des baies de serveurs d''IA — c''est son propre personnel.'
 date: 2026-05-03
-tags: [Économie, Entreprises, Fabrication électronique, Sous-traitance, Foxconn, Gouvernance d''entreprise]
-subcategory: '企業列傳'
-author: Taiwan.md
-readingTime: 10
+category: 'Economy'
+tags:
+  [
+    'Économie',
+    'Entreprises',
+    'Fabrication électronique',
+    'Sous-traitance',
+    'Foxconn',
+    'Gouvernance d''entreprise',
+  ]
+subcategory: 'Chroniques d''entreprises'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-translatedFrom: Economy/台灣企業：鴻海精密.md
-sourceCommitSha: c2985874
-sourceContentHash: sha256:58c3399a6b0788c3
-sourceBodyHash: sha256:e1fa0334f3912ed8
-translatedAt: 2026-05-03T23:14:07+08:00
+readingTime: 10
+translatedFrom: 'Economy/台灣企業：鴻海精密.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:f8ad90a4cc28bbe6'
+sourceBodyHash: 'sha256:68bf0232c7180c94'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 > **En 30 secondes**

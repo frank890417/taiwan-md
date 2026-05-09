@@ -2,28 +2,19 @@
 title: 'El desarrollo del hip-hop y rap taiwanés'
 description: 'Desde Dwagie y MC HotDog hasta MJ116, Soft Lipa y Leo Wang: la localización de la cultura hip-hop taiwanés y su reconocimiento en los Premios Golden Melody'
 date: '2026-03-19'
-author: 'Taiwan.md'
 category: 'Music'
+tags: ['Música', 'Hip-Hop', 'Rap', 'Premios Golden Melody', 'Música popular']
 subcategory: '獨立與搖滾'
-tags:
-  [
-    'Música',
-    'Hip-Hop',
-    'Rap',
-    'Hip-Hop',
-    'Rap',
-    'Premios Golden Melody',
-    'Música popular',
-  ]
-readingTime: '9'
-lastVerified: '2026-03-19'
-lastHumanReview: 'false'
-featured: 'true'
+author: 'Taiwan.md'
+featured: true
+lastVerified: 2026-03-19
+lastHumanReview: false
+readingTime: 9
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
-sourceCommitSha: 'abf94a40'
-sourceContentHash: 'sha256:7966c0692e2a3fd0'
-sourceBodyHash: 'sha256:19d33338e53cee03'
-translatedAt: '2026-05-01T20:54:23+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:8deb2b236ee2d073'
+sourceBodyHash: 'sha256:0869ab568fbb21cd'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 # El desarrollo del hip-hop y rap taiwanés

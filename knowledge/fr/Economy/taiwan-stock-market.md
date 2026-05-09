@@ -12,18 +12,18 @@ tags:
     'investisseurs particuliers',
     'IA',
   ]
-subcategory: 'Economy'
 category: 'Economy'
+subcategory: 'Economy'
 author: 'Taiwan.md'
 featured: true
-readingTime: 16
 lastVerified: 2026-05-03
 lastHumanReview: false
+readingTime: 16
 translatedFrom: 'Economy/台灣股市與資本市場.md'
-sourceCommitSha: '1033cf06'
-sourceContentHash: 'sha256:3bd269df030903a1'
-sourceBodyHash: 'sha256:eee96dbb5a498050'
-translatedAt: '2026-05-03T23:14:07+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:a8ffab6517a1998c'
+sourceBodyHash: 'sha256:f84ec5442a40bab7'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 > **En 30 secondes :** Le 28 avril 2026, la capitalisation totale de la bourse de Taïwan a atteint 4 470 milliards de dollars, dépassant le Canada pour devenir la 6ᵉ bourse mondiale ; quelques jours plus tôt, elle avait déjà dépassé le Royaume-Uni. Le moteur : TSMC, dont la capitalisation de 1 800 milliards de dollars pèse près de 45 % dans l'indice pondéré. Il y a trente-six ans, le krach des 12 000 points avait anéanti 4,6 millions de comptes ; l'investissement clandestin Hongyuan, avec ses 4 % d'intérêt mensuels, avait ruiné cent soixante mille personnes. Ces cicatrices financières ne se sont pas encore refermées dans la mémoire de l'île. De la dizaine d'entreprises cotées lors de la fondation de la bourse à 13,93 millions de comptes aujourd'hui se répartissant un marché de capitaux classé 6ᵉ mondial, il aura fallu soixante-quatre ans à Taïwan. Mais ce 6ᵉ rang recèle un paradoxe structurel : sans TSMC, les quelque 1 000 autres actions réunies se classeraient tout au plus autour du 15ᵉ rang mondial.

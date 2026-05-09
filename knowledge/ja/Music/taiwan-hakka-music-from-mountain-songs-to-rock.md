@@ -1,27 +1,21 @@
 ---
 title: '台湾客家音楽：山歌からロックまでの文化継承と革新'
 description: '台湾客家音楽が伝統的な山歌、客家八音から林生祥、交工楽隊などの現代音楽人による革新の歩み、および金曲奨客語アルバムの重要なマイルストーンを探求します'
-date: '2026-03-19'
-author: 'Taiwan.md'
+date: 2026-03-19
 category: 'Music'
-subcategory: '傳統音樂'
 tags:
-  - '客家音楽'
-  - '山歌'
-  - '客家八音'
-  - '林生祥'
-  - '交工楽隊'
-  - '客語歌曲'
-  - '金曲奨'
-readingTime: 13
-lastVerified: '2026-03-19'
-lastHumanReview: false
+  ['客家音楽', '山歌', '客家八音', '林生祥', '交工楽隊', '客語歌曲', '金曲奨']
+subcategory: '傳統音樂'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-03-19
+lastHumanReview: false
+readingTime: 13
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:214584e7c5f88b5f'
-sourceBodyHash: 'sha256:7b58dee044509512'
-translatedAt: '2026-05-01T18:09:43+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:3b87aa65ad19f49e'
+sourceBodyHash: 'sha256:8c608b3ca113ca88'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 # 台湾客家音楽：山歌からロックまでの文化継承と革新

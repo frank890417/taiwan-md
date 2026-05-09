@@ -2,17 +2,19 @@
 title: 'Jolin Tsai (蔡依林): Taiwanese Pop Queen — Career, Age, and Rise to Stardom'
 description: "Born 1980 in Taipei, Jolin Tsai debuted at 19 and became Asia's most spectacular live performer. From a dance instructor saying she had no talent to aerial rings 10 meters above the stage — her 25-year career proves discipline defeats genius. Full biography and discography."
 date: 2026-03-24
+category: 'People'
 tags:
-  [People, Singer, Entertainment, LGBTQ+ Rights, Mandopop, Golden Melody Awards]
+  ['People', 'Singer', 'Entertainment', 'LGBTQ+ Rights', 'Mandopop', 'Golden Melody Awards']
 subcategory: 'Music'
-category: people
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'People/蔡依林.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:768006b073ae6af1'
-sourceBodyHash: 'sha256:68b6a6a331ac667e'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1eed0b39727d52a4'
+sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 > **30-Second Overview:** In 1998, a dance instructor told her she had no talent for movement.

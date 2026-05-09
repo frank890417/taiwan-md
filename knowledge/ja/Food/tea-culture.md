@@ -1,21 +1,25 @@
 ---
 title: '台湾茶文化'
 description: '国際茶業列強による生産制限協定から除外された小島が、それゆえに茶業の黄金時代を創出し、最終的には「小さいお菓子」を加えたミルクティー一杯で全世界を征服しました'
-date: '2026-03-23'
-author: 'Taiwan.md'
+date: 2026-03-23
 category: 'Food'
-subcategory: '飲品文化'
 tags:
   ['食品', '茶文化', '烏龍茶', '高山茶', '手搖り飲料', 'タピオカミルクティー']
-readingTime: 12
-lastVerified: '2026-03-23'
-lastHumanReview: false
+subcategory: '飲品文化'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-03-23
+lastHumanReview: false
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
+imageAlt: '台湾烏龍茶のパッケージ、Formosa Oolong Teaの文字入り'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
+created: 2026-03-23
+readingTime: 12
 translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:224c9e016e85d4f1'
-sourceBodyHash: 'sha256:6ba7adb37f74ad5b'
-translatedAt: '2026-05-01T18:09:43+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:86475082b87388fc'
+sourceBodyHash: 'sha256:a9375147f15627a6'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 # 台湾茶文化

@@ -1,18 +1,20 @@
 ---
 title: '蔡依林'
 description: '天才ではない天后――ダンスの先生から「踊るのは向いていない」と言われたが、25年後には金曲獎（ゴールデンメロディ賞）史上最も受賞回数の多い歌って踊る歌手となった'
-date: '2026-03-24'
+date: 2026-03-24
+category: 'People'
 tags:
   ['人物', '歌手', '芸能界', 'LGBTQ+権益', '流行音楽', 'ゴールデンメロディ賞']
 subcategory: '音樂'
-category: 'people'
-lastVerified: '2026-03-24'
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'People/蔡依林.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:768006b073ae6af1'
-sourceBodyHash: 'sha256:68b6a6a331ac667e'
-translatedAt: '2026-05-01T18:09:43+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1eed0b39727d52a4'
+sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 > **30秒概覽：** 1998年、ダンスの先生から「踊るのは向いていない」と言われた。25年後、

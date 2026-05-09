@@ -2,24 +2,18 @@
 title: 'Jolin Tsai'
 description: 'La reina del pop que no era genio: la profesora de baile que dijo que "no servía para bailar" y que veinticinco años después se convirtió en la artista de canto y baile con más premios en la historia de los Premios Golden Melody'
 date: 2026-03-24
-tags:
-  [
-    Personaje,
-    Cantante,
-    Mundo del espectáculo,
-    Derechos LGBTQ+,
-    Música pop,
-    Premios Golden Melody,
-  ]
+category: 'People'
+tags: ['Personaje', 'Cantante', 'Mundo del espectáculo', 'Derechos LGBTQ+', 'Música pop', 'Premios Golden Melody']
 subcategory: 'Música'
-category: people
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-translatedFrom: People/蔡依林.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:768006b073ae6af1
-sourceBodyHash: 'sha256:68b6a6a331ac667e'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedFrom: 'People/蔡依林.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1eed0b39727d52a4'
+sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 > **Resumen en 30 segundos:** En 1998, una profesora de baile dijo de ella que "no servía para bailar". Veinticinco años después, su concierto incluía una actuación con anillas a diez metros de altura sobre el suelo, sin doble. La carrera de Jolin Tsai es una historia sobre el talento terrenal (_dìcái_): no depender del don innato, sino tratar cada álbum como un examen de resistencia física. Cuatro premios a Mejor Cantante Femenina de Lengua Mandarina en los Premios Golden Melody (金曲獎), una recaudación acumulada de más de 4,000 millones de dólares taiwaneses en giras, y una canción —«Rose Boy»— que hizo que toda la industria musical china empezara a hablar de igualdad de género.

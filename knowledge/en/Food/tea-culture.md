@@ -1,12 +1,8 @@
 ---
-translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:224c9e016e85d4f1'
-sourceBodyHash: 'sha256:6ba7adb37f74ad5b'
-translatedAt: '2026-05-01T14:11:02+08:00'
 title: 'Taiwan Tea Culture'
 description: "A small island excluded from the international tea production agreement unexpectedly created a golden age for its tea industry, then ultimately conquered the world with a drink containing 'little snacks.'"
 date: 2026-03-23
+category: 'Food'
 tags:
   [
     'Food',
@@ -18,14 +14,19 @@ tags:
   ]
 subcategory: 'Beverage Culture'
 author: 'Taiwan.md'
-readingTime: 12
 featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
-category: 'Food'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
 imageAlt: 'Taiwan oolong tea packaging bearing the label Formosa Oolong Tea'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+created: 2026-03-23
+readingTime: 12
+translatedFrom: 'Food/茶文化.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:86475082b87388fc'
+sourceBodyHash: 'sha256:a9375147f15627a6'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 # Taiwan Tea Culture

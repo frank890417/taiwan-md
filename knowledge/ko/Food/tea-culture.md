@@ -1,24 +1,24 @@
 ---
-created: 2026-03-23
-tags: [Food, 차 문화, 우롱차, 고산차, 손흔들 음료, 버블티]
-subcategory: '음료 문화'
-title: 대만 차 문화
-description: 국제 차 생산 제한 협정에서 배제된 작은 섬은 오히려 차 산업의 황금기를 만들었고, 마지막에는 '작은 간식'을 넣은 밀크티 한 잔으로 세계를 사로잡았다
+title: '대만 차 문화'
+description: '국제 차 생산 제한 협정에서 배제된 작은 섬은 오히려 차 산업의 황금기를 만들었고, 마지막에는 ''작은 간식''을 넣은 밀크티 한 잔으로 세계를 사로잡았다'
 date: 2026-03-23
-author: Taiwan.md Translation Team
-readingTime: 12
-featured: false
+category: 'Food'
+tags: ['Food', '차 문화', '우롱차', '고산차', '손흔들 음료', '버블티']
+subcategory: '음료 문화'
+author: 'Taiwan.md Translation Team'
+featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
-category: Food
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
 imageAlt: 'Formosa Oolong Tea 문구가 적힌 대만 우롱차 포장'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+created: 2026-03-23
+readingTime: 12
 translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:224c9e016e85d4f1'
-sourceBodyHash: 'sha256:6ba7adb37f74ad5b'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:86475082b87388fc'
+sourceBodyHash: 'sha256:a9375147f15627a6'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 # 대만 차 문화

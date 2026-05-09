@@ -2,9 +2,7 @@
 title: 'La evolución de las canciones en taiwanesa: del "abuelo song" al nuevo favorito de los hipsters'
 description: 'Un recorrido por la evolución de las canciones en taiwanesa desde la era del nakashi, Hong Yifeng y Jiu Jinhui hasta las nuevas generaciones de bandas como EggPlantEgg, Sorry Youth y Collage, explorando cómo la música en taiwanesa ha recuperado la identidad de las generaciones jóvenes.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '流行音樂'
 tags:
   [
     'canciones en taiwanesa',
@@ -16,15 +14,17 @@ tags:
     'Collage',
     'Premios Golden Melody',
   ]
-readingTime: 14
+subcategory: '流行音樂'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:0445ff98900d4846'
-sourceBodyHash: 'sha256:400ae92fdbfe7b40'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:622a389cac4436c3'
+sourceBodyHash: 'sha256:37d24845bd7d42b6'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 # La evolución de las canciones en taiwanesa: del "abuelo song" al nuevo favorito de los hipsters

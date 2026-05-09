@@ -24,10 +24,28 @@ subcategory: 'International Relations'
 readingTime: 12
 lastVerified: 2026-05-05
 lastHumanReview: false
+sporeLinks:
+  - platform: 'threads'
+    date: '2026-05-05'
+    url: 'https://www.threads.com/@taiwandotmd/post/DX8zEYFAe9c'
+    views: 7461
+    likes: 504
+    reposts: 0
+    comments: 0
+    shares: 0
+  - platform: 'x'
+    date: '2026-05-05'
+    url: 'https://x.com/taiwandotmd/status/2051577099341967464'
+    views: 17265
+    likes: 538
+    reposts: 68
+    comments: 13
+    shares: 16
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
-sourceCommitSha: 'c48b46696'
-sourceContentHash: 'sha256:8622030ad39ca9b3'
-translatedAt: '2026-05-05T15:58:52+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:fbdebb7691280ba8'
+sourceBodyHash: 'sha256:e3b2d4439bec2dec'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 > **30-Second Overview:** Eswatini (renamed from "Swaziland" in 2018) is Taiwan's only remaining ally in Africa. It established diplomatic relations with the Republic of China in September 1968, marking 58 years as of 2026. King Mswati III was born in April 1968; five months later, the nation gained independence and established ties with Taiwan on the same day. His life almost completely overlaps with the history of Taiwan-Eswatini diplomatic relations. As of 2024, he has visited Taiwan more than 17 times[^1]. After Nauru broke relations in January 2024, Eswatini became Taiwan's sole ally in Africa[^2]. On May 2, 2026, Lai Ching-te's first visit to an allied nation after taking office was originally scheduled for April 22. However, on April 21, Seychelles, Mauritius, and Madagascar unexpectedly revoked flight permits under pressure from China, creating an "air blockade." Subsequently, Mswati dispatched his Deputy Prime Minister, Thulisile Dladla, on the royal A340 aircraft from Mbabane to Taipei to pick up Lai. Lai flew directly from Taipei to Mbabane on May 2[^3]. On May 1 of the same year, China granted zero-tariff treatment for 98% of tariff items to 53 African countries, deliberately excluding Eswatini[^4]. The greatest variable in this diplomatic lifeline is whether the successor after Mswati can persuade a generation with 56% youth unemployment to continue viewing Taiwan as a friend (a question harder to answer than "how much money China uses").
@@ -202,6 +220,7 @@ Africa's last diplomatic lifeline hangs on one person. This is both its most mov
 - [Sunflower Student Movement](/society/太陽花學運) — How the streets of 2014 became the foundation for the 2024-2025 system's external discourse.
 - [2026 Zheng-Xi Meeting and the Decade Reunion of KMT and CCP](/society/2026鄭習會與國共十年再會) — Contemporary cross-strait dynamics, understanding the larger background of China's pressure on Taiwan.
 - [Cognitive Warfare](/society/認知作戰) — A more systematic framework for China's linguistic operations such as "rat" and "smuggling-style external breakout."
+- [Paraguay and Taiwan](/society/巴拉圭與台灣) — South America's only ally, another relationship that has weathered China's pressure through decades of sustained cooperation.
 
 ## Image Sources
 

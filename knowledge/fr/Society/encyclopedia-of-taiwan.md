@@ -12,17 +12,18 @@ tags:
     'Web 2.0',
     'Lee Yuan-tseh',
   ]
-subcategory: 'Knowledge'
-author: 'Taiwan.md Contributors'
 category: 'Society'
+subcategory: 'Médias et expression'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 18
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Society/臺灣大百科全書.md'
-sourceCommitSha: '1213a0f4'
-sourceContentHash: 'sha256:578cad09bcd30716'
-sourceBodyHash: 'sha256:8f59f38adc348115'
-translatedAt: '2026-05-02T08:50:00+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:dacc755fc6695d56'
+sourceBodyHash: 'sha256:8ca41487dbdd4aec'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 > **Aperçu en 30 secondes :**
@@ -80,10 +81,11 @@ L'avenir de la souveraineté taïwanaise du savoir n'est peut-être pas dans un 
 
 📝 Note du commissaire : à l'ère de la collaboration distribuée, la vitalité du savoir vient de l'ouverture, non du contrôle.
 
-**Pour aller plus loin**
+**Pour aller plus loin** :
 
 - [Ministère de la Culture](../Society/文化部) — Organisme gouvernemental dirigeant le projet
 - [Wikipédia](維基百科) — Paradigme contemporain d'encyclopédie collaborative Web 2.0
+- [PanSci](/society/泛科學) — Communauté de vulgarisation scientifique et plateforme de savoir civile ; des articles aux cours, des vidéos aux services créateurs, l'exemple de la transformation du savoir dans l'économie de plateforme
 - [Mémoire culturelle nationale](國家文化記憶庫) — Plateforme successeur recevant les entrées du projet
 
 ---

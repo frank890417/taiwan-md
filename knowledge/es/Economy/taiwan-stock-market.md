@@ -2,28 +2,20 @@
 title: 'El mercado bursátil y de capitales de Taiwán: del colapso de los 10.000 puntos en 1990 al sexto lugar mundial en 2026, una isla donde el 44% del patrimonio depende de una sola acción'
 description: 'El 28 de abril de 2026, Bloomberg publicó el titular "Taiwan Overtakes Canada". Una isla que en 1990 vio cómo el colapso bursátil de los 10.000 puntos se llevó los ahorros de jubilación de ciento sesenta mil personas, treinta y seis años después escaló hasta convertirse en el sexto mercado bursátil más grande del mundo — pero de sus 4,47 billones de dólares en capitalización, casi la mitad recae sobre una sola empresa de semiconductores.'
 date: 2026-05-03
-tags:
-  [
-    'mercado bursátil taiwanés',
-    'bolsa de valores',
-    'mercado de capitales',
-    'ETF',
-    'TSMC',
-    'inversores minoristas',
-    'IA',
-  ]
-subcategory: 'Economy'
 category: 'Economy'
+tags: ['mercado bursátil taiwanés', 'bolsa de valores', 'mercado de capitales', 'ETF', 'TSMC', 'inversores minoristas', 'IA']
+subcategory: 'Economy'
 author: 'Taiwan.md'
 featured: true
-readingTime: 16
 lastVerified: 2026-05-03
 lastHumanReview: false
-translatedFrom: Economy/台灣股市與資本市場.md
-sourceCommitSha: 1033cf06
-sourceContentHash: sha256:3bd269df030903a1
-sourceBodyHash: sha256:eee96dbb5a498050
-translatedAt: 2026-05-03T23:14:07+08:00
+researchReport: reports/research/2026-05/台灣股市與資本市場.md
+readingTime: 16
+translatedFrom: 'Economy/台灣股市與資本市場.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:a8ffab6517a1998c'
+sourceBodyHash: 'sha256:f84ec5442a40bab7'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 > **Panorama en 30 segundos:** El 28 de abril de 2026, la capitalización total del mercado bursátil taiwanés alcanzó los 4,47 billones de dólares, superando a Canadá para convertirse en el sexto mercado bursátil más grande del mundo; a mediados de ese mismo mes ya había superado al Reino Unido. El motor detrás de este ascenso fue TSMC — con una capitalización de 1,8 billones de dólares, su ponderación en el índice ponderado se acerca al 45%. Treinta y seis años antes, aquel colapso de los 10.000 puntos que evaporó 4,6 millones de cuentas, y aquella institución Hung Yuan que con intereses del 4% mensual se tragó los ahorros de ciento sesenta mil personas, aún no se han secado en la memoria financiera de esta isla. Desde las poco más de diez empresas cotizadas el año en que se fundó la bolsa de valores, hasta los 13,93 millones de cuentas que hoy sostienen un mercado de capitales clasificado como el sexto más grande del mundo, Taiwán necesitó sesenta y cuatro años. Pero este sexto lugar tiene una paradoja estructural: sin TSMC, las más de 1.000 acciones restantes juntas apenas alcanzarían el puesto 15 a nivel mundial.

@@ -1,8 +1,8 @@
 ---
 title: '台湾アニメーションOEM'
 description: '台湾はかつて世界のアニメーション外注の中心地であり、宏広（ワンフィルム）カートゥーンがハリウッドの名作アニメーション制作を一手に担い、最盛期には世界の生産額の約3分の1を占めていました'
-date: '2026-03-24'
-subcategory: '文化産業'
+date: 2026-03-24
+category: 'Economy'
 tags:
   [
     'アニメーション産業',
@@ -11,17 +11,18 @@ tags:
     '東洋のディズニー',
     '台湾芸術',
   ]
+subcategory: '文化産業'
 author: 'Taiwan.md Contributors'
+featured: false
+lastVerified: 2026-03-24
+lastHumanReview: false
+difficulty: 'intermediate'
 readingTime: 10
-lastVerified: '2026-03-24'
-lastHumanReview: 'false'
-featured: 'false'
 translatedFrom: 'Economy/台灣動畫代工.md'
-sourceCommitSha: '84e04168'
-sourceContentHash: 'sha256:e65745d7776e7d73'
-sourceBodyHash: 'sha256:6d0f53daee394572'
-translatedAt: '2026-05-01T18:02:56+08:00'
-category: Economy
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:d3d2ec17aaf8187a'
+sourceBodyHash: 'sha256:187c229025183e4b'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 # 台湾アニメーションOEM

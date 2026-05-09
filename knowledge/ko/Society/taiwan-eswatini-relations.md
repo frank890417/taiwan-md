@@ -2,6 +2,7 @@
 title: "Taiwan and Eswatini: Africa's Last Diplomatic Lifeline Hanging on One Person"
 description: "On May 2, 2026, at 9:00 AM, Tsai Ing-wen arrived in Mbabane aboard an A340 aircraft borrowed from the King of Eswatini. This marks the first time a Taiwanese president's flight permit was revoked due to pressure from China, with the final solution being a plane dispatched by the King of the allied nation to pick up the president from Taipei. From the establishment of diplomatic relations on the same day as Eswatini's independence in 1968 to its status as the last ally in Africa, from an absolute monarch whose birth year coincides entirely with the history of diplomatic relations to the suppression of 46 lives in his own town in 2021, from Red Heart Guavas entering SUPERSPAR to China's zero-tariff policy for 53 countries specifically skipping Eswatini. The 58-year relationship between Taiwan and Eswatini is a concrete textbook of 'sovereign states' and an unsolvable question."
 date: 2026-05-05
+category: 'Society'
 tags:
   [
     'Allied Nations',
@@ -18,16 +19,38 @@ tags:
     '318 Student Movement',
     'Nauru Breaks Relations',
   ]
-subcategory: 'International Relations'
+subcategory: '國際關係'
 author: 'Taiwan.md'
-category: 'Society'
-readingTime: 12
+featured: true
 lastVerified: 2026-05-05
 lastHumanReview: false
+readingTime: 12
+image: '/article-images/society/taiwan-eswatini-military-honor-2026.jpg'
+imageCredit: '中華民國總統府'
+imageLicense: 'OGDL (Open Government Data License) — 政府公開資訊'
+imageSource: 'https://english.president.gov.tw/News/7121'
+sporeLinks:
+  - platform: 'threads'
+    date: '2026-05-05'
+    url: 'https://www.threads.com/@taiwandotmd/post/DX8zEYFAe9c'
+    views: 7461
+    likes: 504
+    reposts: 0
+    comments: 0
+    shares: 0
+  - platform: 'x'
+    date: '2026-05-05'
+    url: 'https://x.com/taiwandotmd/status/2051577099341967464'
+    views: 17265
+    likes: 538
+    reposts: 68
+    comments: 13
+    shares: 16
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
-sourceCommitSha: 'c48b46696'
-sourceContentHash: 'sha256:8622030ad39ca9b3'
-translatedAt: '2026-05-05T16:05:29+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:fbdebb7691280ba8'
+sourceBodyHash: 'sha256:e3b2d4439bec2dec'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 > **30-Second Overview:** Eswatini (renamed from "Swaziland" in 2018) is Taiwan's only remaining allied nation in Africa. It established diplomatic relations with the Republic of China in September 1968, marking 58 years by 2026. King Mswati III was born in April 1968; five months later, the country gained independence and established diplomatic relations with Taiwan on the same day. His life almost completely overlaps with the history of Taiwan-Eswatini diplomatic relations. As of 2024, he has visited Taiwan more than 17 times[^1]. After Nauru broke relations in January 2024, Eswatini became Taiwan's sole allied nation in Africa[^2]. On May 2, 2026, Lai Ching-te's first visit to an allied nation after taking office was originally scheduled for April 22. However, on April 21, Seychelles, Mauritius, and Madagascar unexpectedly revoked flight permits under pressure from China, creating an "air blockade." King Mswati subsequently dispatched Eswatini's Airbus A340 royal aircraft to fly his Deputy Prime Minister, Thulisile Dladla, to Taipei to pick up Lai Ching-te. Lai arrived in Mbabane from Taipei on May 2[^3]. On May 1 of the same year, China granted zero-tariff treatment for 98% of tariff items to 53 African countries, excluding Eswatini specifically[^4]. The greatest variable in this diplomatic lifeline is whether the successor after Mswati can persuade a generation with 56% youth unemployment to continue viewing Taiwan as a friend (a question harder to answer than "how much money China uses").
@@ -202,6 +225,7 @@ Africa's last diplomatic lifeline hangs on one person. This is both its most mov
 - [318 Student Movement](/society/太陽花學運) — How the streets of 2014 became the confidence for the system's external discourse in 2024-2025.
 - [2026 Zheng-Xi Meeting and the Decade Reunion of KMT and CCP](/society/2026鄭習會與國共十年再會) — Contemporaneous cross-strait dynamics, understanding the larger background of China's pressure on Taiwan.
 - [Cognitive Warfare](/society/認知作戰) — A more systematic framework for China's language operations such as "rat" and "stealthy external窜".
+- [파라과이와 대만](/society/巴拉圭與台灣) — 남미의 유일한 수교국, 중국의 압력 속에서 장기 협력으로 관계를 유지하는 또 다른 사례.
 
 ## Image Sources
 

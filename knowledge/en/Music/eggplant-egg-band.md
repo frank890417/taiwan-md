@@ -2,6 +2,7 @@
 title: 'EggPlantEgg: The Band That Freed Taiwanese-Language Pop from Its Mournful Cage'
 description: "EggPlantEgg's distinctive 'Taiwanese-style romantic' rock and 'wanderer' narrative not only achieved massive commercial success but redefined what contemporary Taiwanese-language pop music could be — and became a key force in the genre's revival."
 date: 2026-04-05
+category: 'Music'
 tags:
   [
     'indie music',
@@ -18,11 +19,10 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: false
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: '377006e0'
-sourceContentHash: 'sha256:a17c8a8fb3e5b2c1'
-sourceBodyHash: 'sha256:06f0fe3b93639905'
-translatedAt: '2026-05-01T13:44:02+08:00'
-category: Music
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1be7230ba8a26470'
+sourceBodyHash: 'sha256:448d367a49551ee8'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 # EggPlantEgg
@@ -71,7 +71,7 @@ Lead vocalist A-Bin has joined Universal Music, actively exploring acting in fil
 
 [^3]: [GQ Taiwan: Why Can They Always Write What's in a Man's Heart? — EggPlantEgg](https://www.gq.com.tw/entertainment/article/%E8%AA%AA%E6%95%85%E4%BA%8B%E7%9A%84%E4%BA%BA-%E8%8C%84%E5%AD%90%E8%9B%8B) — 2021 interview mentioning the shared loaf of bread during the early band days
 
-[^4]: [National Cultural Memory Bank: Golden Melody 29th — EggPlantEgg Wins Best New Artist](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507455) — Official Golden Melody Award record
+[^4]: [National Cultural Memory Bank: Golden Melody 29th — EggPlantEgg Wins Best New Artist](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507455) — Official Golden Melody Award record: National Cultural Memory Bank
 
 [^5]: [Stylemaster: EggPlantEgg / Life Is Just Really Terrible! But Tomorrow Still Has to Be Gotten Through](https://www.stylemaster.com.tw/2022/01/14/%E8%8C%84%E5%AD%90%E8%9B%8B%EF%BC%8F%E4%BA%BA%E7%94%9F%E5%B0%B1%E6%98%AF%E5%BE%88%E7%88%9B%E5%98%9B%EF%BC%81%E4%BD%86%E6%98%8E%E5%A4%A9%E7%B8%BD%E6%98%AF%E5%BE%97%E9%81%8E%E5%95%8A%EF%BC%8C%E4%B8%8D/) — 2022 cover story
 
@@ -79,11 +79,11 @@ Lead vocalist A-Bin has joined Universal Music, actively exploring acting in fil
 
 [^7]: "This Kind of Making One's Own Romance" is the final chapter of the Wanderer Trilogy; narrative analysis draws on the Reporter and Stylemaster interviews cited above
 
-[^8]: [CNA: EggPlantEgg "Love, You're Even Greater Than I Imagined" Wins Golden Melody Song of the Year](https://www.cna.com.tw/video/news/4339639) — CNA official report
+[^8]: [CNA: EggPlantEgg "Love, You're Even Greater Than I Imagined" Wins Golden Melody Song of the Year](https://www.cna.com.tw/video/news/4339639) — CNA official report: CNA reporting
 
 [^9]: [Mirror Media: Family Talking Money Hurts Feelings — EggPlantEgg Dissolves, Going Solo to Play Their Own Thing](https://www.mirrormedia.mg/story/20230313ent026) — 2023 dissolution rumor report
 
-[^10]: [MSN: EggPlantEgg Disappears for 4 Years! Lead Vocalist A-Bin Suddenly Reveals New Identity](https://www.msn.com/zh-tw/entertainment/news/%E8%8C%84%E5%AD%90%E8%9B%8B%E6%B6%88%E5%A4%B14%E5%B9%B4-%E4%B8%BB%E5%94%B1%E9%98%BF%E6%96%8C%E7%AA%81%E6%8F%AD%E6%96%B0%E8%BA%AB%E5%88%86-%E7%86%AC%E9%81%8E%E8%81%B2%E5%B8%B6%E6%89%8B%E8%A1%93%E5%90%90%E5%BF%83%E8%81%B2/ar-AA1IeEgJ) — A-Bin's recent situation after vocal cord surgery
+[^10]: [MSN: EggPlantEgg Disappears for 4 Years! Lead Vocalist A-Bin Suddenly Reveals New Identity](https://www.msn.com/zh-tw/entertainment/news/%E8%8C%84%E5%AD%90%E8%9B%8B%E6%B6%88%E5%A4%B14%E5%B9%B4-%E4%B8%BB%E5%94%B1%E9%98%BF%E6%96%8C%E7%AA%81%E6%8F%AD%E6%96%B0%E8%BA%AB%E5%88%86-%E7%86%AC%E9%81%8E%E8%81%B2%E5%B8%B6%E6%89%8B%E8%A1%93%E5%90%90%E5%BF%83%E8%81%B2/ar-AA1IeEgJ) — A-Bin's recent situation after vocal cord surgery: see original link for full story
 
 [^11]: See the Reporter[^1] and GQ[^3] interviews cited above for analysis of EggPlantEgg's standing in Taiwanese-language popular music
 

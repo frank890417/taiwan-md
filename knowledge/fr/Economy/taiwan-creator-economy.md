@@ -1,8 +1,8 @@
 ---
 title: 'La sous-traitance animation à Taïwan'
 description: 'Taïwan a longtemps été le centre mondial de la sous-traitance en animation : Wang Film Productions a produit une grande partie des classiques hollywoodiens, représentant à son apogée un tiers de la production mondiale.'
-date: '2026-03-24'
-subcategory: 'Industries culturelles'
+date: 2026-03-24
+category: 'Economy'
 tags:
   [
     "industrie de l'animation",
@@ -11,18 +11,18 @@ tags:
     "l'Disney de l'Orient",
     'art taïwanais',
   ]
-category: 'Economy'
+subcategory: 'Industries culturelles'
 author: 'Taiwan.md Translation Team'
+featured: false
+lastVerified: 2026-03-24
+lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 10
-featured: false
-lastVerified: '2026-03-24'
-lastHumanReview: false
 translatedFrom: 'Economy/台灣動畫代工.md'
-sourceCommitSha: '84e04168'
-sourceContentHash: 'sha256:e65745d7776e7d73'
-sourceBodyHash: 'sha256:6d0f53daee394572'
-translatedAt: '2026-04-14T19:21:16+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:d3d2ec17aaf8187a'
+sourceBodyHash: 'sha256:187c229025183e4b'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 # La sous-traitance animation à Taïwan

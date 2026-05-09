@@ -2,16 +2,19 @@
 title: '竹筒飯：焚き火の中で燃点と勝負するハンターの弁当'
 description: '竹筒飯は単なる「容器料理」ではなく、精密な「水と火の勝負」である。水が100度で沸騰するという物理法則を利用し、易燃性の竹筒を焚き火の中で2時間燃やさずに保持するこの技術は、狩猟文化から生まれた知恵であり、今や台湾先住民の食の芸術を代表する。'
 date: 2026-04-27
-tags: ['先住民族', '桂竹', '狩猟文化', 'サステナブルな食', '国際比較']
-subcategory: '原住民族料理'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+tags: ['先住民族', '桂竹', '狩猟文化', 'サステナブルな食', '国際比較']
+subcategory: '族群飲食'
+author: 'Taiwan.md Contributors'
+featured: false
+lastVerified: 2026-04-27
+lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: 'e0cf5a69'
-sourceContentHash: 'sha256:bd641ad6f8a1d119'
-sourceBodyHash: 'sha256:418c8c90be50e36b'
-translatedAt: '2026-05-01T14:48:26+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:2f969547257cfb65'
+sourceBodyHash: 'sha256:b1f0ce92250128c2'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 > **30秒概覧：** 竹筒飯（ジュートンファン）は台湾先住民族を代表する米料理の一つで、山中で調理道具が手に入らないハンターの知恵から生まれました。台湾固有種の桂竹（グイジュー）の天然水分と竹の清々しい香りを利用し、炭火で直接焼くことで、ご飯はしっとりと仕上がり独特の清香が漂います。これは単なる料理ではなく、森の資源管理と物理科学の実践体系です。

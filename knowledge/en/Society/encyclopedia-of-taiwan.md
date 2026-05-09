@@ -1,7 +1,8 @@
 ---
 title: 'Encyclopedia of Taiwan: A NT$500-Million National Knowledge Dream'
 description: "In 2004, Taiwan launched its largest-ever knowledge engineering project — the Encyclopedia of Taiwan. From Wang Jung-wen's original NT$1.4-billion grand blueprint to the actual NT$520-million execution, the project went through three system iterations and evolving licensing regimes before the standalone website closed in 2014. This is not only a history of technological transition but a profound paradigm shift in which the state moved from being the authoritative definer of knowledge to an open-data provider."
-category: History
+date: 2026-04-28
+category: 'Society'
 tags:
   [
     'Ministry of Culture',
@@ -12,16 +13,17 @@ tags:
     'Web 2.0',
     'Lee Yuan-tseh',
   ]
+subcategory: 'Media & Public Discourse'
 author: 'Taiwan.md Contributors'
-date: 2026-04-28
+featured: false
 readingTime: 20
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'Society/臺灣大百科全書.md'
-sourceCommitSha: '1213a0f4'
-sourceContentHash: 'sha256:ff3c71605b544177'
-sourceBodyHash: 'sha256:8f59f38adc348115'
-translatedAt: '2026-05-01T01:46:13+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:dacc755fc6695d56'
+sourceBodyHash: 'sha256:8ca41487dbdd4aec'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 > **30-second overview:**
@@ -79,10 +81,11 @@ The future of Taiwan's knowledge sovereignty perhaps lies not in a "national can
 
 📝 Curator's note: This experiment demonstrated that the state is suited to doing foundational archives and open data, not monopolizing canonical definitions. In the age of distributed collaboration, knowledge derives its vitality from openness, not control.
 
-**Further Reading**
+**Further Reading**:
 
 - Ministry of Culture (文化部) — the government body that led this project
 - Wikipedia (維基百科) — the concurrent Web 2.0 collaborative encyclopedia paradigm
+- [PanSci](/society/泛科學) — a civilian science platform and knowledge media; in contrast to the state-led encyclopedia, it illustrates how knowledge can be transformed within the platform economy from articles and courses to video and creator services
 - National Cultural Memory Database (國家文化記憶庫) — the successor platform that received this project's entries
 
 ---

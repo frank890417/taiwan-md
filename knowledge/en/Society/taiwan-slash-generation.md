@@ -2,6 +2,7 @@
 title: 'Teach For Taiwan: How a Princeton Graduate Came Home and Convinced 400 Young People to Enter Remote Classrooms'
 description: "In 2014, Liu An-ting started with NT$2,000 and nine people. Eleven years later, more than 400 TFT teachers have entered Taiwan's most remote elementary schools, accompanying over 7,000 children forgotten by the system. This is not an inspirational charity story — it is an ongoing debate about who should be responsible for inequality."
 date: 2026-04-08
+category: 'Society'
 tags:
   [
     'education',
@@ -13,16 +14,17 @@ tags:
     'social enterprise',
     'remote areas',
   ]
-category: 'Society'
 subcategory: '教育'
 author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-04-08
+lastHumanReview: true
 readingTime: 12
 translatedFrom: 'Society/為台灣而教TFT.md'
-sourceCommitSha: '26216f73'
-sourceContentHash: 'sha256:8877b0b0d8b6abd7'
-sourceBodyHash: 'sha256:a37786359a5d674c'
-translatedAt: '2026-05-01T13:44:02+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:d24206673c791f9a'
+sourceBodyHash: 'sha256:2ed9c66e6cdd44d6'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 > **30-second overview:** Taiwan's PISA scores rank among the world's best, but disadvantaged students fall as much as six academic years behind their peers. In 2014, 24-year-old Princeton graduate Liu An-ting founded Teach For Taiwan (TFT) with NT$2,000, sending top university graduates to teach in remote elementary schools for two years. Eleven years on, more than 400 TFT teachers have entered 85 schools across nine counties and cities, accompanying over 7,000 children. Eighty percent of alumni remain in the field of education. But the questions have never stopped: Is six weeks of training enough? Do urban elites understand indigenous communities? Is this a systemic solution, or just another well-meaning cultural intrusion?
@@ -140,6 +142,7 @@ The fluorescent lights in some remote school classrooms flicker. The mountains o
 - Taiwan's Indigenous Land Justice and Traditional Territories — Many of the schools TFT operates in are in indigenous communities, where educational issues are intertwined with land justice and cultural continuity
 - Stan Shih (嚴長壽) — One of TFT's catalysts, founder of the CommonWealth Foundation; his educational experiments in Taitung and TFT are two tributaries of the same river
 - Taiwan's Volunteer Culture and Civic Participation — Taiwan's civil society tradition of volunteerism is the soil that allowed TFT to recruit 400 people
+- [Zashixiao (雜學校)](/society/雜學校) — Another alternative education startup from the same post-318 Movement era; the organizationally driven TFT and the festival-format Zashixiao represent two different curatorial approaches to education
 
 ## References
 

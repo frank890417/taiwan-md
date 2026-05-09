@@ -2,19 +2,20 @@
 title: '대만 주식시장과 자본시장: 1990년 만 포인트 붕괴에서 2026년 세계 6위로, 44% 자산을 한 종목에 올린 섬'
 description: '2026년 4월 28일 블룸버그가 「Taiwan Overtakes Canada」 제목을 띄웠다. 1990년 만 포인트 붕괴로 16만 명의 연금을 앗아간 섬이 36년 만에 세계 6위 주식시장에 올랐다. 그러나 시가총액 4.47조 달러 중 절반에 가까운 금액이 한 반도체 회사에 집중되어 있다.'
 date: 2026-05-03
+category: 'Economy'
 tags: ['대만 증권거래소', '자본시장', 'ETF', 'TSMC', '개인투자자', 'AI']
 subcategory: 'Economy'
-category: 'Economy'
 author: 'Taiwan.md'
 featured: true
-readingTime: 16
 lastVerified: 2026-05-03
 lastHumanReview: false
+researchReport: reports/research/2026-05/台灣股市與資本市場.md
+readingTime: 16
 translatedFrom: Economy/台灣股市與資本市場.md
-sourceCommitSha: 1033cf066
-sourceContentHash: sha256:3bd269df030903a1
-sourceBodyHash: sha256:eee96dbb5a498050
-translatedAt: 2026-05-05T00:33:23+08:00
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:a8ffab6517a1998c'
+sourceBodyHash: 'sha256:f84ec5442a40bab7'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 > **30초 개요:** 2026년 4월 28일, 대만 증시 총시가총액이 4.47조 달러를 돌파하며 캐나다를 제치고 세계 6위 주식시장이 되었다. 같은 달 중순에는 이미 영국을 앞질렀다. 그 배경에는 TSMC가 있다. 시가총액 1.8조 달러, 가중지수 내 비중 약 45%. 36년 전 460만 계좌를 증발시킨 만 포인트 붕괴, 월 4% 고금리로 16만 명의 연금을 삼킨 홍원(鴻源) 기관. 그 금융 트라우마가 아직 이 섬의 기억에서 마르지 않았다. 증권거래소 설립 당시 상장사 열 여 곳에서 오늘날 1,393만 계좌가 세계 6위 자본시장을 함께 짊어지기까지, 대만은 64년을 걸었다. 그런데 이 6위에는 구조적인 아이러니가 있다. TSMC를 빼면 나머지 1,000여 종목을 합쳐도 세계 15위 정도에 불과하다.

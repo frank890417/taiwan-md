@@ -2,6 +2,7 @@
 title: 'The Evolution of Taiwanese Hokkien Songs: From Street Serenades to a Youth Renaissance'
 description: 'How Taiwanese Hokkien (台語) songs moved from the margins to the center—through Nakashi street music, golden‑age divas, language politics, and a new generation of bands.'
 date: 2026-03-19
+category: 'Music'
 tags:
   [
     'Taiwanese Hokkien',
@@ -12,15 +13,15 @@ tags:
     'language revival',
   ]
 author: 'Taiwan.md'
-readingTime: 14
 featured: true
-category: 'Music'
 lastVerified: 2026-03-19
+lastHumanReview: false
+readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:0445ff98900d4846'
-sourceBodyHash: 'sha256:400ae92fdbfe7b40'
-translatedAt: '2026-05-01T14:11:02+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:622a389cac4436c3'
+sourceBodyHash: 'sha256:37d24845bd7d42b6'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 # The Evolution of Taiwanese Hokkien Songs: From Street Serenades to a Youth Renaissance

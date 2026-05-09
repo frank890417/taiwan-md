@@ -2,29 +2,29 @@
 title: 'Teach For Taiwan: una chica de Princeton regresa a casa y convence a cuatrocientos jóvenes para enseñar en las aulas rurales'
 description: 'En 2014, Liu An-ting empezó con dos mil dólares taiwaneses y nueve personas. Once años después, más de cuatrocientos profesores de TFT han llegado a las escuelas primarias más remotas de Taiwán, acompañando a más de siete mil niños olvidados por el sistema. Esta no es una historia inspiradora de caridad educativa: es un debate continuo sobre "quién debe asumir la responsabilidad de la desigualdad".'
 date: 2026-04-08
+category: 'Society'
 tags:
   [
-    educación,
-    educación rural,
-    TFT,
-    Teach For Taiwan,
-    Liu An-ting,
-    desigualdad educativa,
-    empresa social,
-    zonas remotas,
+    'educación',
+    'educación rural',
+    'TFT',
+    'Teach For Taiwan',
+    'Liu An-ting',
+    'desigualdad educativa',
+    'empresa social',
+    'zonas remotas',
   ]
-category: Society
 subcategory: '教育'
 author: 'Taiwan.md'
 featured: false
-readingTime: 12
 lastVerified: 2026-04-08
-lastHumanReview: '2026-04-08'
+lastHumanReview: true
+readingTime: 12
 translatedFrom: 'Society/為台灣而教TFT.md'
-sourceCommitSha: '26216f73'
-sourceContentHash: 'sha256:8877b0b0d8b6abd7'
-sourceBodyHash: 'sha256:a37786359a5d674c'
-translatedAt: '2026-05-01T20:54:23+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:d24206673c791f9a'
+sourceBodyHash: 'sha256:2ed9c66e6cdd44d6'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 > **Panorama en 30 segundos:** Taiwán ocupa posiciones de élite mundial en las pruebas PISA, pero el rendimiento académico de los estudiantes en desventaja se retrasa hasta seis años respecto a sus compañeros. En 2014, Liu An-ting, una graduada de Princeton de 24 años, fundó "Teach For Taiwan" (TFT) con dos mil dólares taiwaneses, enviando a graduados de las mejores universidades a enseñar durante dos años en escuelas primarias rurales. Once años después, más de cuatrocientos profesores de TFT se han desplegado en ochenta y cinco escuelas de nueve condados, acompañando a más de siete mil niños. El ochenta por ciento de los egresados permanece en el ámbito educativo. Pero las dudas nunca han cesado: ¿seis semanas de formación son suficientes? ¿Los entornos urbanos de élite entienden las comunidades indígenas? ¿Es esto una solución sistémica o otra forma de invasión cultural bienintencionada?
@@ -142,6 +142,7 @@ Los fluorescentes de algunas aulas de escuelas rurales parpadean. Las montañas 
 - [Justicia territorial y tierras ancestrales de los pueblos indígenas de Taiwán](/society/台灣原住民族土地正義與傳統領域) — Muchas de las escuelas donde se despliega TFT están en zonas indígenas; los problemas educativos se entrelazan con la justicia territorial y la continuidad cultural.
 - [Yan Changshou](/people/嚴長壽) — Uno de los impulsores de TFT, fundador de la Fundación Plataforma de Bienestar Público; sus experimentos educativos en Taitung y TFT son dos ramas del mismo río.
 - [Cultura del voluntariado y participación en el bienestar público en Taiwán](/society/台灣災難志工文化) — La tradición de voluntariado de la sociedad civil taiwanesa es el suelo del que TFT pudo reclutar a cuatrocientas personas.
+- [Zashuxiao](/society/雜學校) — Otra nueva iniciativa educativa surgida tras el movimiento del 18 de marzo de 2014; TFT con su reclutamiento organizado y Zashuxiao con su enfoque festivalero representan dos métodos curativos distintos.
 
 ## Referencias
 

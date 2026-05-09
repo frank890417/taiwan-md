@@ -1,7 +1,8 @@
 ---
 title: "Bamboo Tube Rice: The Hunter's Lunch Box, Negotiating with the Flame"
 description: "Bamboo tube rice is not simply a 'container dish' — it is a precise negotiation between water and fire. Exploiting the physical property of water boiling at 100°C, it keeps a flammable bamboo tube from turning to ash in an open fire for two full hours. This wisdom, rooted in hunting culture, has become a defining dish of Taiwan's indigenous culinary arts."
-category: Food
+date: 2026-04-27
+category: 'Food'
 tags:
   [
     'Indigenous',
@@ -10,16 +11,17 @@ tags:
     'Sustainable Food Arts',
     'Cross-Cultural Comparison',
   ]
+subcategory: 'Indigenous Cuisine'
 author: 'Taiwan.md Contributors'
-date: 2026-04-27
-readingTime: 8
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
+readingTime: 8
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: 'e0cf5a69'
-sourceContentHash: 'sha256:bd641ad6f8a1d119'
-sourceBodyHash: 'sha256:418c8c90be50e36b'
-translatedAt: '2026-05-01T08:56:11+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:2f969547257cfb65'
+sourceBodyHash: 'sha256:b1f0ce92250128c2'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 > **30-Second Overview:** Bamboo tube rice is one of the most representative rice dishes among Taiwan's indigenous peoples, originating in the practical ingenuity of hunters who lacked cooking vessels in the forest. It uses the natural moisture and inner membrane fragrance of one-year-old Makino bamboo to keep rice moist and impart a distinctive clean aroma under direct charcoal fire. This is not merely a food — it is an applied practice of forest resource management and physical science.

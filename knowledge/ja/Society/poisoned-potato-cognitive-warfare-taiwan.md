@@ -1,21 +1,14 @@
 ---
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
-sourceCommitSha: 'd0f90f01'
-sourceContentHash: 'sha256:dad5e0b9d38ca4de'
-sourceBodyHash: 'sha256:eb0e7978cdb1be4d'
-translatedAt: '2026-05-01T14:48:26+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:441da61b4d105152'
+sourceBodyHash: 'sha256:001afbff1a12f651'
+translatedAt: '2026-05-09T14:30:48Z'
 title: '「毒じゃがいも」：200ppm の向こうに広がる30ppm、14日、そして15年の食の傷跡'
 description: '2026年4月29日、中国国台弁（こくたいべん）の報道官・陳斌華（ちんひんか）は「毒じゃがいも」という言葉で頼清徳政権が「民衆の健康を米国への貢ぎ物にした」と批判した。論争の核心は三つの層にまたがる——EU比150倍のCIPC残留基準格差、国境85人の検査員が30億個を「1個ずつ確認」する物理的不可能性、そして2011年の可塑剤（プラスチック可塑剤）事件から積み重なった15年の食の傷跡だ。'
 date: 2026-04-30
-tags:
-  - '毒じゃがいも'
-  - '食の安全'
-  - '認知戦'
-  - '台中関係'
-  - 'ART協定'
-  - 'ソラニン'
-  - 'CIPC'
 category: 'Society'
+tags: ['毒じゃがいも', '食の安全', '認知戦', '台中関係', 'ART協定', 'ソラニン', 'CIPC']
 subcategory: '国際関係'
 author: 'Taiwan.md'
 featured: false
@@ -249,6 +242,7 @@ EUと台湾・米国の実際の差は**3000倍**（0.01対30）だ。EU 2019/98
 
 - [認知戦](/society/認知作戦) — 中共の情報操作の全体的枠組みと台湾社会の対抗メカニズム
 - [台海危機と両岸関係の発展](/history/台海危機與兩岸關係發展) — 「貢ぎ物」叙述の長期的歴史的文脈
+- [想想論壇](/society/想想論壇) — 蔡英文が2025年にリニューアル再開後、旗艦コラム「年度中国観察報告」で同種の認知戦議題を扱っている
 
 ---
 

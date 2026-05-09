@@ -1,7 +1,8 @@
 ---
 title: '茄子蛋 EggPlantEgg'
 description: '茄子蛋は独自の「台式浪漫」ロックと「浪子」のナラティブにより、音楽市場で大きな成功を収めるだけでなく、台湾語ポップミュージックの現代的な姿を再定義し、台湾文化シンボルの重要な構成要素となっています。'
-date: '2026-04-05'
+date: 2026-04-05
+category: 'Music'
 tags:
   [
     'インディーズ音楽',
@@ -15,14 +16,13 @@ subcategory: '流行音樂'
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
-lastVerified: '2026-04-05'
+lastVerified: 2026-04-05
 lastHumanReview: false
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: '377006e0'
-sourceContentHash: 'sha256:a17c8a8fb3e5b2c1'
-sourceBodyHash: 'sha256:06f0fe3b93639905'
-translatedAt: '2026-05-01T18:02:56+08:00'
-category: Music
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1be7230ba8a26470'
+sourceBodyHash: 'sha256:448d367a49551ee8'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 # 茄子蛋 EggPlantEgg
@@ -71,7 +71,7 @@ category: Music
 
 [^3]: [GQ Taiwan：なぜ男の心の奥底にある言葉を書けるのか？茄子蛋](https://www.gq.com.tw/entertainment/article/%E8%AA%AA%E6%95%85%E4%BA%8B%E7%9A%84%E4%BA%BA-%E8%8C%84%E5%AD%90%E8%9B%8B) — 2021年のインタビュー。結成初期に食パンを分け合っていた経験に言及
 
-[^4]: [国家文化記憶庫：金曲29 茄子蛋が最優秀新人賞を受賞](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507455) — 公式な金曲獎の記録
+[^4]: [国家文化記憶庫：金曲29 茄子蛋が最優秀新人賞を受賞](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507455) — 公式な金曲獎の記録：国家文化記憶庫
 
 [^5]: [Stylemaster：茄子蛋／人生はクソだけど、明日は必ず来る](https://www.stylemaster.com.tw/2022/01/14/%E8%8C%84%E5%AD%90%E8%9B%8B%EF%BC%8F%E4%BA%BA%E7%94%9F%E5%B0%B1%E6%98%AF%E5%BE%88%E7%88%9B%E5%98%9B%EF%BC%81%E4%BD%86%E6%98%8E%E5%A4%A9%E7%B8%BD%E6%98%AF%E5%BE%97%E9%81%8E%E5%95%8A%EF%BC%8C%E4%B8%8D/) — 2022年のカバーストーリー
 
@@ -79,11 +79,11 @@ category: Music
 
 [^7]: 〈這款自作多情〉は浪子三部作の最終章であり、ナラティブの分析については前述の報導者およびStylemasterのインタビューを参照
 
-[^8]: [中央通訊社：茄子蛋「愛情你比我想的閣較偉大」が金曲獎年間最優秀楽曲賞を受賞](https://www.cna.com.tw/video/news/4339639) — CNA公式レポート
+[^8]: [中央通訊社：茄子蛋「愛情你比我想的閣較偉大」が金曲獎年間最優秀楽曲賞を受賞](https://www.cna.com.tw/video/news/4339639) — CNA公式レポート：中央社報導
 
 [^9]: [鏡週刊：金の問題で亀裂——茄子蛋解散とメンバーの単独活動](https://www.mirrormedia.mg/story/20230313ent026) — 2023年の解散報道
 
-[^10]: [MSN：茄子蛋が4年ぶりに登場！ボーカル阿斌が新たな姿を明かす](https://www.msn.com/zh-tw/entertainment/news/%E8%8C%84%E5%AD%90%E8%9B%8B%E6%B6%88%E5%A4%B14%E5%B9%B4-%E4%B8%BB%E5%94%B1%E9%98%BF%E6%96%8C%E7%AA%81%E6%8F%AD%E6%96%B0%E8%BA%AB%E5%88%86-%E7%86%AC%E9%81%8E%E8%81%B2%E5%B8%B6%E6%89%8B%E8%A1%93%E5%90%90%E5%BF%83%E8%81%B2/ar-AA1IeEgJ) — 阿斌の声帯手術後の近況
+[^10]: [MSN：茄子蛋が4年ぶりに登場！ボーカル阿斌が新たな姿を明かす](https://www.msn.com/zh-tw/entertainment/news/%E8%8C%84%E5%AD%90%E8%9B%8B%E6%B6%88%E5%A4%B14%E5%B9%B4-%E4%B8%BB%E5%94%B1%E9%98%BF%E6%96%8C%E7%AA%81%E6%8F%AD%E6%96%B0%E8%BA%AB%E5%88%86-%E7%86%AC%E9%81%8E%E8%81%B2%E5%B8%B6%E6%89%8B%E8%A1%93%E5%90%90%E5%BF%83%E8%81%B2/ar-AA1IeEgJ) — 阿斌の声帯手術後の近況：詳細は原文リンクを参照
 
 [^11]: 前述の報導者[^1]およびGQ[^3]のインタビューを参照。茄子蛋の台湾語ポップミュージックにおける地位についての分析
 

@@ -1,8 +1,7 @@
 ---
 title: "Le riz en tube de bambou : le bento du chasseur pariant contre le point d'inflammation dans le brasier"
 description: "Le riz en tube de bambou n'est pas simplement une « cuisine de contenant », mais un pari précis entre l'eau et le feu. En exploitant la propriété physique de l'eau qui bout à 100 °C, le tube de bambou inflammable peut résister deux heures dans le brasier sans se réduire en cendres. Cette sagesse issue de la culture de la chasse est aujourd'hui devenue un emblème de l'art culinaire autochtone taïwanais."
-date: '2026-04-27'
-author: 'Taiwan.md Contributors'
+date: 2026-04-27
 category: 'Food'
 tags:
   [
@@ -12,14 +11,17 @@ tags:
     'Art culinaire durable',
     'Comparaisons internationales',
   ]
-readingTime: '8'
-lastVerified: '2026-04-27'
-lastHumanReview: 'false'
+subcategory: 'Cuisine des peuples'
+author: 'Taiwan.md Contributors'
+featured: false
+lastVerified: 2026-04-27
+lastHumanReview: false
+readingTime: 8
 translatedFrom: 'Food/竹筒飯.md'
-sourceCommitSha: 'e0cf5a69'
-sourceContentHash: 'sha256:bd641ad6f8a1d119'
-sourceBodyHash: 'sha256:418c8c90be50e36b'
-translatedAt: '2026-05-01T22:19:06+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:2f969547257cfb65'
+sourceBodyHash: 'sha256:b1f0ce92250128c2'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 > **Aperçu en 30 secondes :** Le riz en tube de bambou est l'un des plats de riz les plus emblématiques des peuples autochtones de Taïwan, né de l'ingéniosité des chasseurs confrontés à l'absence d'ustensiles de cuisine en montagne. Il exploite l'humidité naturelle et le parfum de la membrane interne du bambou de Makino âgé d'un an ; grillé directement sur les braises, le riz reste humide et se pare d'un arôme délicat. Ce n'est pas seulement un mets : c'est une pratique conjuguant gestion des ressources forestières et science physique.

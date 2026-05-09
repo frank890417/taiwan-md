@@ -2,17 +2,19 @@
 title: '차이이린 (蔡依林)'
 description: '천재가 아닌 천후(天后)——무용 선생님에게 "춤 재능이 없다"는 말을 들은 소녀가, 25년 후 금곡상 역사상 최다 수상 댄싱 가수가 되다'
 date: 2026-03-24
-tags: [인물, 가수, 연예계, LGBTQ+권익, 팝뮤직, 금곡상]
-subcategory: '음악'
 category: 'People'
-author: 'Taiwan.md Translation Team'
-translatedFrom: 'People/蔡依林.md'
-readingTime: 10
+tags: ['인물', '가수', '연예계', 'LGBTQ+권익', '팝뮤직', '금곡상']
+subcategory: '음악'
+author: 'Taiwan.md'
 featured: false
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:768006b073ae6af1'
-sourceBodyHash: 'sha256:68b6a6a331ac667e'
-translatedAt: '2026-04-14T19:25:05+08:00'
+lastVerified: 2026-03-24
+lastHumanReview: false
+readingTime: 10
+translatedFrom: 'People/蔡依林.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1eed0b39727d52a4'
+sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 > **30초 요약:** 1998년, 어느 무용 선생님이 그녀에게 "춤 재능이 없다"고 했다. 25년 후, 그녀는 콘서트 무대에서 지상 10미터 높이의 공중 링 퍼포먼스를 스턴트 없이 직접 해냈다. 차이이린(Jolin Tsai)의 커리어는 "노력파"의 이야기다. 타고난 재능이 아니라, 매 앨범을 체력 시험처럼 대하는 집념으로 만들어낸 궤적. 금곡상 최우수 국어 여자 가수상 4회, 투어 총 누적 티켓 수익 400억 신타이완달러 이상, 그리고 〈玫瑰少年(장미 소년)〉 한 곡으로 중화어권 음악계 전체가 젠더 평등을 논하게 만들었다.

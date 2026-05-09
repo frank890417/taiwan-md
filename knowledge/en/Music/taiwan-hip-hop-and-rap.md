@@ -2,6 +2,7 @@
 title: 'Taiwan Hip-Hop and Rap'
 description: 'From MC HotDog (熱狗) and Dwagie (大支) to MJ116 (頑童MJ116), Soft Lipa (蛋堡), and Leo王 — the localization of Taiwanese hip-hop culture and its recognition at the Golden Melody Awards'
 date: 2026-03-19
+category: 'Music'
 tags:
   [
     'music',
@@ -14,16 +15,15 @@ tags:
   ]
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
-readingTime: 9
 featured: true
-category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
+readingTime: 9
 translatedFrom: Music/台灣嘻哈與饒舌發展.md
-sourceCommitSha: 'abf94a40'
-sourceContentHash: 'sha256:7966c0692e2a3fd0'
-sourceBodyHash: 'sha256:19d33338e53cee03'
-translatedAt: '2026-04-30T22:50:13+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:8deb2b236ee2d073'
+sourceBodyHash: 'sha256:0869ab568fbb21cd'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 # Taiwan Hip-Hop and Rap

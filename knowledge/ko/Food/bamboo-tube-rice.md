@@ -2,17 +2,19 @@
 title: '통죽밥: 불속에서 발화점과 대결하는 사냥꾼의 도시락'
 description: '통죽밥은 단순한 "그릇 요리"가 아니라 정밀한 "수화(水火)의 대결"이다. 물이 100°C에서 끓는 물리적 특성을 이용하여 가연성인 대나무 통을 불속에서 두 시간 동안 버티게 하면서도 재로 변하지 않게 하는 이 기술은 사냥 문화에서 비롯된 지혜로, 오늘날 대만 원주민 식예(食藝)의 대표가 되었다.'
 date: 2026-04-27
+category: 'Food'
+tags: ['원주민', '계죽', '사냥문화', '지속가능식예', '국제비교']
+subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
-category: Food
-tags: [원주민, 계죽, 사냥문화, 지속가능식예, 국제비교]
-readingTime: 8
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
+readingTime: 8
 translatedFrom: Food/竹筒飯.md
-sourceCommitSha: e0cf5a69
-sourceContentHash: sha256:bd641ad6f8a1d119
-sourceBodyHash: 'sha256:418c8c90be50e36b'
-translatedAt: 2026-05-01T22:19:01+08:00
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:2f969547257cfb65'
+sourceBodyHash: 'sha256:b1f0ce92250128c2'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 > **30초 개요:** 통죽밥은 대만 원주민을 대표하는 쌀 음식 중 하나로, 사냥꾼들이 산속에서 조리 도구가 부족했을 때의 절약적 지혜에서 비롯되었다. 1년생 계죽의 천연 수분과 죽막(竹膜)의 향을 활용하여 숯불에 직접 구우면 밥이 촉촉하게 유지되면서 특유의 은은한 풍미를 띤다. 이는 단순한 음식이 아니라 산림 자원 관리와 물리 과학의 실천이기도 하다.

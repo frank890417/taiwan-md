@@ -2,6 +2,7 @@
 title: "Taiwan's Hakka Music: From Mountain Songs to Modern Rock"
 description: "A cultural translation of Hakka (客家) music in Taiwan-from shan'ge mountain songs and Hakka bayin ensembles to Lin Sheng-xiang and Labor Exchange Band, and the Golden Melody Awards' Hakka category."
 date: 2026-03-19
+category: 'Music'
 tags:
   [
     'Hakka music',
@@ -13,15 +14,15 @@ tags:
     'Golden Melody Awards',
   ]
 author: 'Taiwan.md'
-readingTime: 13
 featured: true
-category: 'Music'
 lastVerified: 2026-03-19
+lastHumanReview: false
+readingTime: 13
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:214584e7c5f88b5f'
-sourceBodyHash: 'sha256:7b58dee044509512'
-translatedAt: '2026-05-01T14:11:02+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:3b87aa65ad19f49e'
+sourceBodyHash: 'sha256:8c608b3ca113ca88'
+translatedAt: '2026-05-09T14:29:43Z'
 ---
 
 # Taiwan's Hakka Music: From Mountain Songs to Modern Rock

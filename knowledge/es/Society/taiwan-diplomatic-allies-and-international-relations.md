@@ -2,16 +2,35 @@
 title: "Taiwan's Diplomatic Allies and International Diplomacy: 12 Allies, 113 Missions, 177 Visa-Free Countries (2026)"
 description: "On January 15, 2024, within 48 hours of Lai Ching-te's election as President, Nauru announced the severance of diplomatic relations, reducing the number of allied nations from 13 to 12. However, in the same year, Taiwan had 113 overseas missions, its passport allowed visa-free access to 177 countries, TSMC produced 90% of the world's advanced chips, and the European Parliament passed a resolution opposing China's distortion of UN General Assembly Resolution 2758 with a vote of 432:60:71. Paper-based recognition is shrinking while shadow networks are expanding, and the battle over the interpretation of international law is reversing."
 date: 2026-04-28
+category: 'Society'
 tags: ['Diplomacy', 'Allied Nations', 'International Relations', 'Cross-Strait', 'United Nations', 'Silicon Shield']
 subcategory: 'International Relations'
 author: 'Taiwan.md Contributors'
 readingTime: 16
 lastVerified: 2026-04-28
 lastHumanReview: false
+sporeLinks:
+  - platform: 'threads'
+    date: '2026-04-29'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXtCIBCEeTh?xmt=AQF00UmSgX_psrM3oEzyol1G5-uzmnwiLTKilOhh_lJbhQ'
+    views: 17000
+    likes: 500
+    reposts: 56
+    comments: 63
+    shares: 14
+  - platform: 'x'
+    date: '2026-04-29'
+    url: 'https://x.com/taiwandotmd/status/2049358488246349945'
+    views: 59190
+    likes: 1192
+    reposts: 212
+    comments: 115
+    shares: 69
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: '2d0c126f'
-sourceContentHash: 'sha256:6086e56d55bdfe3c'
-translatedAt: '2026-05-04T00:43:07+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:106427f4b2a59983'
+sourceBodyHash: 'sha256:52dab0b7f31fb6c8'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 # Taiwan's Diplomatic Allies and International Diplomacy: 12 Allies, 113 Missions, 177 Visa-Free Countries
@@ -87,9 +106,9 @@ Pope Francis passed away in April 2025, and Robert Francis Prevost was elected o
 
 Foreign Minister Joseph Lin publicly listed "Haiti" and the "Holy See" as the two allied nations requiring "special attention" in a Public Television interview in March 2025[^19]—said euphemistically, but the meaning is clear enough.
 
-### Paraguay: The Only One in South America, Sustained by the Colorado Party's Lineage for 66 Years
+### Paraguay: The Only One in South America, Sustained by the Colorado Party's Lineage for 69 Years
 
-Diplomatic relations were established in 1957. **Paraguay is Taiwan's only ally in South America**.
+Diplomatic relations were established in 1957. **Paraguay is Taiwan's only ally in South America**, having survived a coup-driven severance crisis in 1989 and decades of Chinese market incentives and political pressure; the full context can be found in [Paraguay and Taiwan](/society/巴拉圭與台灣/).
 
 Paraguay's Colorado Party has been in power intermittently since 1947 for over 70 years. Anti-communism and pro-Taiwanism are structural legacies left by the Cold War era. The 2023 election winner, Santiago Peña, is a Colorado Party candidate, while the Liberal Party opponent advocated reviewing policy towards Taiwan—voters chose the Colorado Party, which is equivalent to choosing to continue diplomatic ties.
 
@@ -267,6 +286,7 @@ It is the distance between these numbers.
 - [Cross-Strait Crisis and Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — How three crises shaped Taiwan's diplomatic isolation and security anxiety
 - [TSMC](/business/台積電) — The material basis of the silicon shield and its structural vulnerability
 - [Chiu Jung-tai](/people/卓榮泰) — 2026 US-Taiwan tariff trajectory 32→20→15% + Lai Ching-te's visit to Eswatini's cabinet coordinator
+- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — Africa's last remaining allied nation among the 12, the complete 58-year story from diplomatic establishment on the same day in 1968 to Lai Ching-te's 2026 visit
 
 ## References
 

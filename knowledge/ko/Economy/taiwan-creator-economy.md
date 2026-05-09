@@ -1,19 +1,21 @@
 ---
 title: '대만 애니메이션 하청 산업'
 description: '대만은 한때 글로벌 애니메이션 외주 제작의 중심지였다. 宏廣卡通은 할리우드 클래식 애니메이션 제작을 도맡아 최전성기에 전 세계 생산량의 3분의 1을 차지했다.'
-date: '2026-03-24'
-tags: [애니메이션산업, OEM외주, 宏廣카툰, 동방의디즈니, 대만예술]
-subcategory: '문화 산업'
+date: 2026-03-24
 category: 'Economy'
+tags: ['애니메이션산업', 'OEM외주', '宏廣카툰', '동방의디즈니', '대만예술']
+subcategory: '문화 산업'
 author: 'Taiwan.md Translation Team'
-readingTime: 10
 featured: false
+lastVerified: 2026-03-24
+lastHumanReview: false
+difficulty: 'intermediate'
+readingTime: 10
 translatedFrom: 'Economy/台灣動畫代工.md'
-lastVerified: '2026-03-24'
-sourceCommitSha: '84e04168'
-sourceContentHash: 'sha256:e65745d7776e7d73'
-sourceBodyHash: 'sha256:6d0f53daee394572'
-translatedAt: '2026-04-14T08:16:50+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:d3d2ec17aaf8187a'
+sourceBodyHash: 'sha256:187c229025183e4b'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 # 대만 애니메이션 하청 산업

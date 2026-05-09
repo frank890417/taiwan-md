@@ -2,6 +2,7 @@
 title: 'EggPlantEgg — le groupe qui a réinventé la chanson taïwanaise'
 description: 'Avec leur rock « romantisme taïwanais » et leur récit du vagabond contemporain, les EggPlantEgg ont libéré la chanson en langue taïwanaise de ses clichés mélancoliques, lui insufflant une vitalité nouvelle et une identité culturelle forte. Leur succès redéfinit le visage actuel de la pop taïwanaise.'
 date: 2026-04-05
+category: 'Music'
 tags:
   [
     'musique indépendante',
@@ -12,17 +13,16 @@ tags:
     'rock',
   ]
 subcategory: 'Musique populaire'
-category: 'Music'
-author: 'Taiwan.md Translation Team'
-readingTime: 10
+author: 'Taiwan.md'
 featured: false
+readingTime: 10
 lastVerified: 2026-04-05
 lastHumanReview: false
 translatedFrom: 'Music/茄子蛋.md'
-sourceCommitSha: '377006e0'
-sourceContentHash: 'sha256:a17c8a8fb3e5b2c1'
-sourceBodyHash: 'sha256:06f0fe3b93639905'
-translatedAt: '2026-04-15T17:33:06+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1be7230ba8a26470'
+sourceBodyHash: 'sha256:448d367a49551ee8'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 # EggPlantEgg

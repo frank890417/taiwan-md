@@ -2,17 +2,19 @@
 title: '대만 하카 음악: 산노래에서 록까지, 문화 계승과 혁신'
 description: '전통 산노래와 하카 팔음(八音)에서 린성샹, 자오공악대 등 현대 음악인의 혁신까지—대만 하카 음악의 여정과 금곡상 하카어 앨범의 이정표를 탐색한다'
 date: 2026-03-19
-tags: [하카 음악, 산노래, 하카 팔음, 린성샹, 자오공악대, 하카어 노래, 금곡상]
-subcategory: '전통 음악'
 category: 'Music'
+tags: ['하카 음악', '산노래', '하카 팔음', '린성샹', '자오공악대', '하카어 노래', '금곡상']
+subcategory: '전통 음악'
 author: 'Taiwan.md Translation Team'
-readingTime: 13
 featured: true
+lastVerified: 2026-03-19
+lastHumanReview: false
+readingTime: 13
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:214584e7c5f88b5f'
-sourceBodyHash: 'sha256:7b58dee044509512'
-translatedAt: '2026-04-14T09:55:38+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:3b87aa65ad19f49e'
+sourceBodyHash: 'sha256:8c608b3ca113ca88'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 # 대만 하카 음악: 산노래에서 록까지, 문화 계승과 혁신

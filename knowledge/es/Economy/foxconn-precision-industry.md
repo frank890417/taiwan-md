@@ -2,18 +2,20 @@
 title: 'Empresas de Taiwán: Foxconn Precision Industry: 8 billones de ingresos y la guerra anticorrupción interna en un mismo balance general'
 description: 'El 30 de abril de 2026 por la mañana, la revista Time incluyó a Foxconn entre las 100 empresas más influyentes del mundo; esa misma tarde, agentes de la fiscalía entraron con orden de registro en la planta de Tucheng de Foxconn. Desde los 100.000 dólares taiwaneses del fondo familiar de la madre de Terry Gou en 1974 hasta los 8 billones de ingresos en 2025, cuando los productos de red en la nube superaron por primera vez a la electrónica de consumo, lo más difícil de gestionar en Foxconn no es la geopolítica ni el ritmo de envío de racks de servidores de IA: son los propios empleados.'
 date: 2026-05-03
-tags: [Economy, Empresa, Fabricación electrónica, Subcontratación, Foxconn, Foxconn, Gobierno corporativo]
+category: 'Economy'
+tags: ['Economy', 'Empresa', 'Fabricación electrónica', 'Subcontratación', 'Foxconn', 'Gobierno corporativo']
 subcategory: '企業列傳'
-author: Taiwan.md
-readingTime: 10
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: false
-translatedFrom: Economy/台灣企業：鴻海精密.md
-sourceCommitSha: c2985874
-sourceContentHash: sha256:58c3399a6b0788c3
-sourceBodyHash: sha256:e1fa0334f3912ed8
-translatedAt: 2026-05-03T23:14:07+08:00
+researchReport: reports/research/2026-05/台灣企業：鴻海精密.md
+readingTime: 10
+translatedFrom: 'Economy/台灣企業：鴻海精密.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:f8ad90a4cc28bbe6'
+sourceBodyHash: 'sha256:68bf0232c7180c94'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 > **Panorama en 30 segundos**

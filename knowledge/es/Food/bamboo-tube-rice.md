@@ -2,24 +2,19 @@
 title: 'Arroz en tubo de bambú: la fiambrera del cazador que desafía al fuego'
 description: 'El arroz en tubo de bambú no es simplemente una "receta de recipiente", sino un preciso "juego entre agua y fuego". Aprovechando la propiedad física del agua de hervir a 100 °C, el tubo de bambú —un material altamente inflamable— puede resistir dos horas en la hoguera sin convertirse en cenizas. Esta sabiduría, nacida de la cultura de la caza, se ha convertido hoy en un emblema de la gastronomía indígena taiwanesa.'
 date: 2026-04-27
+category: 'Food'
+tags: ['Indígenas', 'Bambú makino', 'Cultura de caza', 'Gastronomía sostenible', 'Comparación internacional']
+subcategory: 'Gastronomía étnica'
 author: 'Taiwan.md Contributors'
-category: Food
-tags:
-  [
-    Indígenas,
-    Bambú makino,
-    Cultura de caza,
-    Gastronomía sostenible,
-    Comparación internacional,
-  ]
-readingTime: 8
+featured: false
 lastVerified: 2026-04-27
 lastHumanReview: false
-translatedFrom: Food/竹筒飯.md
-sourceCommitSha: e0cf5a69
-sourceContentHash: sha256:bd641ad6f8a1d119
-sourceBodyHash: 'sha256:418c8c90be50e36b'
-translatedAt: 2026-05-01T22:19:10+08:00
+readingTime: 8
+translatedFrom: 'Food/竹筒飯.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:2f969547257cfb65'
+sourceBodyHash: 'sha256:b1f0ce92250128c2'
+translatedAt: '2026-05-09T14:31:06Z'
 ---
 
 > **Panorama en 30 segundos:** El arroz en tubo de bambú es uno de los platos de arroz más representativos de los pueblos indígenas de Taiwán. Surgió de la ingeniosidad de los cazadores en las montañas, cuando carecían de utensilios de cocina. Utilizando la humedad natural del bambú makino de un año y el aroma de su membrana interna, el arroz se cuece directamente sobre brasas, manteniéndose húmedo y adquiriendo una fragancia singular. No se trata solo de un manjar, sino de una práctica que integra el manejo de recursos forestales y la ciencia física.

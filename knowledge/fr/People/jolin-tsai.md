@@ -2,26 +2,27 @@
 title: 'Jolin Tsai'
 description: "La reine qui n'était pas un génie — après que son professeur de danse lui a dit qu'elle « n'était pas faite pour danser », elle est devenue, vingt-cinq ans plus tard, l'artiste de variétés ayant remporté le plus de Golden Melody Awards."
 date: 2026-03-24
+category: 'People'
 tags:
   [
-    Personnalités,
-    Chanteuse,
-    Industrie du divertissement,
-    Droits LGBTQ+,
-    Musique pop,
-    Golden Melody Awards,
+    'Personnalités',
+    'Chanteuse',
+    "Industrie du divertissement",
+    'Droits LGBTQ+',
+    'Musique pop',
+    'Golden Melody Awards',
   ]
 subcategory: 'Musique'
-category: People
-author: 'Taiwan.md Translation Team'
-readingTime: 8
+author: 'Taiwan.md'
 featured: false
-translatedFrom: 'People/蔡依林.md'
+readingTime: 8
 lastVerified: 2026-03-24
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:768006b073ae6af1'
-sourceBodyHash: 'sha256:68b6a6a331ac667e'
-translatedAt: '2026-04-14T19:17:00+08:00'
+lastHumanReview: false
+translatedFrom: 'People/蔡依林.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:1eed0b39727d52a4'
+sourceBodyHash: 'sha256:ecfb49e20d9c0f4b'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 > **En 30 secondes :** En 1998, un professeur de danse lui dit qu'elle « n'est pas faite pour danser ». Vingt-cinq ans plus tard, lors de ses concerts, elle réalise des figures aux anneaux aériens à dix mètres du sol — sans doublure. La carrière de Jolin Tsai est l'histoire d'un talent construit de toutes pièces : sans don inné, à force de traiter chaque album comme une épreuve physique. Quatre fois couronnée Meilleure chanteuse mandophone aux Golden Melody Awards, plus de 4 milliards de nouveaux dollars taïwanais en recettes de tournées cumulées, et une chanson, _Womxnly_, qui a ouvert le débat sur l'égalité de genre dans toute la sphère musicale sinophone.

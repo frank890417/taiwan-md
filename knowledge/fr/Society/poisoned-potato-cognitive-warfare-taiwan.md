@@ -2,25 +2,27 @@
 title: 'Pommes de terre empoisonnées : au-delà des 200 ppm, les cicatrices de 30 ppm, 14 jours et 15 ans de sécurité alimentaire'
 description: "Le 29 avril 2026, le porte-parole du Bureau des affaires de Taïwan du Conseil d'État chinois, Chen Binhua, a critiqué le gouvernement Lai Qingde en qualifiant les pommes de terre américaines de « pommes de terre empoisonnées », accusant le gouvernement « une fois de plus de sacrifier la santé publique comme lettre de créance pour flatter les États-Unis ». Le cœur véritable de la controverse s'étend sur trois niveaux : l'écart de 150 fois entre la limite européenne de 0,2 ppm et taïwanaise de 30 ppm pour le résidu de l'inhibiteur de germination CIPC, la question de savoir comment 85 agents frontaliers en poste peuvent « inspecter chaque tubercule » parmi 300 millions, et les cicatrices cumulées de 15 ans de crises de sécurité alimentaire depuis les plastifiants de 2011 — le socle sur lequel ce récit prend appui."
 date: 2026-04-30
-tags:
-  - 'Pommes de terre empoisonnées'
-  - 'Sécurité alimentaire'
-  - 'Guerre cognitive'
-  - 'Relations transstraitières'
-  - 'Accord ART'
-  - 'Solanine'
-  - 'CIPC'
 category: 'Society'
-subcategory: '國際關係'
+tags:
+  [
+    'Pommes de terre empoisonnées',
+    'Sécurité alimentaire',
+    'Guerre cognitive',
+    'Relations transstraitières',
+    'Accord ART',
+    'Solanine',
+    'CIPC',
+  ]
+subcategory: 'Relations internationales'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
-sourceCommitSha: 'd0f90f01'
-sourceContentHash: 'sha256:dad5e0b9d38ca4de'
-sourceBodyHash: 'sha256:eb0e7978cdb1be4d'
-translatedAt: '2026-05-01T20:54:17+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:441da61b4d105152'
+sourceBodyHash: 'sha256:001afbff1a12f651'
+translatedAt: '2026-05-09T14:31:09Z'
 ---
 
 > **En 30 secondes :** Le 29 avril 2026, le porte-parole du Bureau des affaires de Taïwan du Conseil d'État chinois, Chen Binhua, a utilisé l'expression « pommes de terre empoisonnées » lors d'une conférence de presse pour critiquer le gouvernement du DPP, l'accusant d'« abandonner ouvertement les seuils de sécurité alimentaire » et de « servir des pommes de terre empoisonnées aux citoyens taïwanais après avoir déjà autorisé le porc au ractopamine ». Le déclencheur est l'ajustement des conditions de quarantaine pour l'importation de pommes de terre américaines de transformation dans le cadre de l'« Accord sur le commerce réciproque » (ART) États-Unis–Taïwan, signé le 16 janvier (MOU) et finalisé le 13 février : une légère germination entraîne un « rejet tubercule par tubercule » plutôt qu'un refus du lot entier, et une concentration de solanine inférieure à 200 ppm est autorisée. Le MAC, le MOHW et le Yuan exécutif ont réfuté ces accusations le même jour, le 29 avril. Mais la « vérité » s'étend sur trois niveaux. Pour comprendre cette guerre narrative, il faut examiner simultanément le niveau scientifique (que signifient 200 ppm ? et derrière, 30 ppm), le niveau de gouvernance (28 jours pour signer un traité + 85 agents frontaliers peuvent-ils « inspecter chaque tubercule » ?), et le niveau de confiance (les cicatrices de 15 ans depuis les plastifiants de 2011 jusqu'au porc au ractopamine de 2024). Le récit du PCC **a visé juste** sur ce socle — et le socle est réel.
@@ -326,6 +328,7 @@ Shen Boyang a dit une phrase de plus haut niveau : « L'établissement de la con
 - [Crise du détroit de Taïwan et développement des relations transstraitières](/history/台海危機與兩岸關係發展) — Le contexte historique à long terme du récit de la « lettre de créance »
 - [Tsai Ing-wen](/people/蔡英文) — La décideuse de la politique du porc au ractopamine en 2020-2021, la couche précédente des cicatrices
 - [Lai Qingde](/people/賴清德) — Le mandat présidentiel au moment de la signature de l'accord ART
+- [Forum Thinking](/society/想想論壇) — Plateforme phare relancée en 2025 sous Tsai Ing-wen
 
 ---
 

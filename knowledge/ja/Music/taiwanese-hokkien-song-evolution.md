@@ -2,9 +2,7 @@
 title: '台湾台語歌曲の変遷：阿伯歌（伯父さん向け歌）から文青（ぶんせい、文芸青年）の新たな寵児へのアイデンティティ転換'
 description: '台湾台語歌曲が那卡西（ナカシ、流し）、洪一峰、江蕙の時代から、茄子蛋、拍謝少年などの新世代バンドに至る変遷の過程を追い、台語音楽がいかにして若い世代のアイデンティティを再獲得したかを探ります。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '流行音樂'
 tags:
   [
     '台語歌曲',
@@ -16,15 +14,17 @@ tags:
     '珂拉琪（コラチ）',
     '金曲獎（ゴールデン・メロディ賞）',
   ]
-readingTime: 14
+subcategory: '流行音樂'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:0445ff98900d4846'
-sourceBodyHash: 'sha256:400ae92fdbfe7b40'
-translatedAt: '2026-05-01T18:09:43+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:622a389cac4436c3'
+sourceBodyHash: 'sha256:37d24845bd7d42b6'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 # 台湾台語歌曲の変遷：阿伯歌（伯父さん向け歌）から文青（ぶんせい、文芸青年）の新たな寵児へのアイデンティティ転換

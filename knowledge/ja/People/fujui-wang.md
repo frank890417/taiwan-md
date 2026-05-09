@@ -16,13 +16,18 @@ category: 'People'
 subcategory: '聲音藝術'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-05-04
+lastVerified: 2026-05-09
 lastHumanReview: false
+researchReport: reports/research/2026-05/王福瑞.md
+image: '/article-images/people/wang-fujui-noise-silence-2020.jpg'
+imageCredit: '就在藝術空間 Project Fulfill Art Space'
+imageLicense: "Fair use (editorial commentary on artist's work)"
+imageSource: 'https://www.projectfulfill.com/wang-fujui-295793111929790.html'
 translatedFrom: 'People/王福瑞.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:2d1b677b9d0d7556'
-sourceBodyHash: 'sha256:e7a331b288e86525'
-translatedAt: '2026-05-05T00:33:23+08:00'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:e925472bcb9697b7'
+sourceBodyHash: 'sha256:27c1ee49559d0d55'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 # 王福瑞：200部のコピー雑誌から12チャンネルスピーカーへの三十年
@@ -101,9 +106,15 @@ NOISEは雑誌であると同時に、流通レーベルでもありました。
 
 ## 術後の身体の周波数
 
-2020年11月、王福瑞は就在藝術空間で個展《噪音寂靜（Noise is the New Silence）》を開催し、会期は12月5日まででした[^6]。これは彼と就在藝術空間の長期的な協力による三度目の個展であり、前回は2012年の《Quiet Noise（靜噪）》、2016年の《Transparent Imagery of Sounds（透明響像）》で、その後2024年には《So Noisy, So Silent（如噪如靜）》が開催されています[^12]。四つの展覧会タイトルを並べると、同一の曲の四つの変奏のように読め、テーマは一貫しています：静と噪の弁証法。
+![《噪音寂靜》個展三作品同フレーム：左《雜影》CRTモニターノイズ、中《頭顱噪音》ヘッドフォン装置、右《身體噪音》手術縫合糸映像、2020年就在藝術空間](/article-images/people/wang-fujui-noise-silence-three-pieces-2020.jpg)
+_2020年11月《噪音寂靜》個展会場、三作品並列展示。Photo: 就在藝術空間 Project Fulfill Art Space. [Fair use editorial reference via Project Fulfill](https://www.projectfulfill.com/wang-fujui-295793111929790.html)._
+
+2020年11月、王福瑞は[就在藝術空間](https://www.projectfulfill.com/wang-fujui-295793111929790.html)で個展《[噪音寂靜](https://www.youtube.com/watch?v=c8m8zPKBVkg)（Noise is the New Silence）》を開催し、会期は12月5日まででした[^6]。これは彼と就在藝術空間の長期的な協力による三度目の個展であり、前回は2012年の《Quiet Noise（靜噪）》、2016年の《Transparent Imagery of Sounds（透明響像）》で、その後2024年には《So Noisy, So Silent（如噪如靜）》が開催されています[^12]。四つの展覧会タイトルを並べると、同一の曲の四つの変奏のように読め、テーマは一貫しています：静と噪の弁証法。
 
 しかし、《噪音寂靜》はそれまでとは異なります。
+
+![王福瑞《噪音寂靜》核心作品：自作多面体12チャンネル全指向性スピーカーが天井から吊り下げられている、2020年就在藝術空間](/article-images/people/wang-fujui-noise-silence-2020.jpg)
+_2020年王福瑞《噪音寂靜》個展核心作品、多面体12チャンネル全指向性スピーカー、人工血管の微細な周波数を伝える。Photo: 就在藝術空間 Project Fulfill Art Space. [Fair use editorial reference via Project Fulfill](https://www.projectfulfill.com/wang-fujui-295793111929790.html)._
 
 展示の中心は、王福瑞が自作した多面体12チャンネル全指向性スピーカーで、天井から吊り下げられています[^6]。他の作品は《雜影（CRTモニター上のノイズ）》、《頭顱噪音（ヘッドフォン装置）》、《身體噪音（手術の縫合糸の映像展示）》です[^6]。
 
@@ -117,9 +128,12 @@ NOISEは雑誌であると同時に、流通レーベルでもありました。
 
 外部環境の「規則のなさ」から身体内部の「規則のなさ」へ。方向は逆になりましたが、論理は変わっていません。
 
-## その後、この物語はまだ書かれている
+## BandcampのDIYレーベル
 
-2022年、王福瑞はET@TのBandcampレーベルを通じてデジタルアルバム《[Ching-Shen-Ching 1.2.3.0.](https://etat.bandcamp.com/album/ching-shen-ching-1230)》を発行しました。4トラック収録[^3]で、1990年代後半から2020年代初頭の「精・神・經」の音素材をダウンロード可能なデジタル作品としてまとめました。1993年の200部のコピー印刷ファンサインによる「物理的な同人取引」から、2022年のBandcampストリーミングによる「グローバルなオンライン一人レーベル」へ。三十年は、同じDIY論理の異なる媒体です。
+![《Ching-Shen-Ching 1.2.3.0.》デジタルアルバムジャケット、2022年 ET@T Bandcamp 発行、「精・神・經」三十年の音素材の現代的インプリント](/article-images/people/wang-fujui-ching-shen-ching-album-2022.jpg)
+_2022年《Ching-Shen-Ching 1.2.3.0.》デジタルアルバムジャケット。Cover image courtesy of [ET@T Bandcamp](https://etat.bandcamp.com/album/ching-shen-ching-1230). Fair use editorial reference._
+
+2022年、王福瑞はET@TのBandcampレーベルを通じてデジタルアルバム《[Ching-Shen-Ching 1.2.3.0.](https://etat.bandcamp.com/album/ching-shen-ching-1230)》を発行しました。4トラック収録[^3]で、1990年代後半から2020年代初頭の「精・神・經」の音素材をダウンロード可能なデジタル作品としてまとめました。その中には代表的なトラック〈[V-Zone](https://etat.bandcamp.com/track/v-zone)〉も収録されています。1993年の200部のコピー印刷ファンサインによる「物理的な同人取引」から、2022年のBandcampストリーミングによる「グローバルなオンライン一人レーベル」へ。三十年は、同じDIY論理の異なる媒体です。
 
 王福瑞は2010年代にアーティストの盧藝とともに響相工作室（Soundwatch Studio）を設立し、国内外のサウードアート関連の展示・パフォーマンス・ワークショップを継続的に推進しています[^4]。国際的な展示・パフォーマンスの記録には、ヴェネツィア・ビエンナーレ（2011年、鄭慧華による「台湾社会聲音圖景」オープニングパフォーマンス[^7]）、ベルリンTransmediale、ドイツZKM、リンツ電子芸術センター、ニューヨーククイーンズ美術館などがあります[^4]。
 
@@ -131,7 +145,7 @@ NOISEは雑誌であると同時に、流通レーベルでもありました。
 
 「何も持っていなかった」が1993年に意味していたのは、台湾の実験音楽シーン——雑誌もレーベルも仲間もない——ということ。2020年に意味していたのは身体そのもの——大病を患った後、体内の音さえも素材になる——ということです。
 
-シーンから身体へ、外部から内部へ。三十年は、一人の人間がNOISEという言葉で書いた二つの静寂です。
+三十年は、一人の人間がNOISEという言葉で書いた二つの静寂です。一つは1993年、外部環境の静寂——台湾の実験音楽シーンに仲間がいなかった。もう一つは2020年、身体内部の静寂——体内の音さえも素材になる。
 
 ## 関連記事
 
@@ -139,6 +153,16 @@ NOISEは雑誌であると同時に、流通レーベルでもありました。
 - [王連晟](/art/王連晟) —— 北藝大新媒體藝術學系における王福瑞の教え子世代のサウンド・新メディアアーティスト。2007年の失聲祭の制度化の波の延長線上にいます。
 - [台湾新媒體藝術](/art/台灣新媒體藝術) —— 1995年の在地實驗から2000年代の台北數位藝術節に至るデジタル・メディアアートの発展史。王福瑞はサウンドという軸において重要な節です。
 - [台湾獨立音樂](/music/台灣獨立音樂) —— 1990年代台湾のアンダーグラウンド音楽シーンのもう一つの軸。ノイズ・実験音楽シーンと並行する宇宙です。
+
+## 画像出典
+
+本文では編集的引用（fair use editorial commentary）として4枚の画像を使用しており、すべて `public/article-images/people/` にキャッシュされています（ホットリンク元サーバーへの直接アクセスを避けるため）：
+
+- [《噪音寂靜》12チャンネルスピーカー装置（ヒーロー）](https://www.projectfulfill.com/wang-fujui-295793111929790.html) — 2020年王福瑞個展核心作品。Photo: 就在藝術空間 Project Fulfill Art Space. Fair use editorial commentary on the artist's work.
+- [《噪音寂靜》三作品同フレーム](https://www.projectfulfill.com/wang-fujui-295793111929790.html) — 2020年個展会場の《雜影》《頭顱噪音》《身體噪音》並列展示。Photo: 就在藝術空間. Fair use editorial.
+- [《Ching-Shen-Ching 1.2.3.0.》アルバムジャケット](https://etat.bandcamp.com/album/ching-shen-ching-1230) — 2022年 ET@T Bandcamp デジタル発行アルバムジャケット。Image courtesy of ET@T. Fair use editorial commentary on the artist's work.
+
+[§Stage 4.5 画像ライセンスマトリックス](../../reports/research/2026-05/王福瑞.md) に基づき — 存命アーティストの作品記録画像（特に個展インスタレーションとアルバムジャケット）はfair use editorial scopeで運用し、CCライセンスは不要。出典・撮影者・組織・用途を明記することで足りる。
 
 ## 参考文献
 

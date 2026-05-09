@@ -2,19 +2,19 @@
 title: '타이완 힙합과 랩의 발전'
 description: '대지(大支), MC HotDog(熱狗)에서 완동MJ116(頑童MJ116), 단바오(蛋堡), Leo왕(Leo王)까지, 타이완 힙합 문화의 토착화와 금곡상(金曲獎) 인정'
 date: 2026-03-19
-tags: [음악, 힙합, 랩, Hip-Hop, Rap, 금곡상, 대중음악]
+category: 'Music'
+tags: ['음악', '힙합', '랩', 'Hip-Hop', 'Rap', '금곡상', '대중음악']
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
-readingTime: 9
 featured: true
-category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
+readingTime: 9
 translatedFrom: Music/台灣嘻哈與饒舌發展.md
-sourceCommitSha: abf94a40
-sourceContentHash: sha256:7966c0692e2a3fd0
-sourceBodyHash: 'sha256:19d33338e53cee03'
-translatedAt: 2026-05-01T22:19:01+08:00
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:8deb2b236ee2d073'
+sourceBodyHash: 'sha256:0869ab568fbb21cd'
+translatedAt: '2026-05-09T14:31:08Z'
 ---
 
 # 타이완 힙합과 랩의 발전

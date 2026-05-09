@@ -10,11 +10,12 @@ readingTime: 16
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: true
-translatedFrom: Economy/台灣股市與資本市場.md
-sourceCommitSha: 1033cf06
-sourceContentHash: sha256:3bd269df030903a1
-sourceBodyHash: sha256:eee96dbb5a498050
-translatedAt: 2026-05-03T23:14:06+08:00
+researchReport: reports/research/2026-05/台灣股市與資本市場.md
+translatedFrom: 'Economy/台灣股市與資本市場.md'
+sourceCommitSha: 'ce7f10f8'
+sourceContentHash: 'sha256:a8ffab6517a1998c'
+sourceBodyHash: 'sha256:f84ec5442a40bab7'
+translatedAt: '2026-05-09T14:30:48Z'
 ---
 
 > **30秒でわかる概要：** 2026年4月28日、台湾株の総時価総額は4.47兆ドルに達し、カナダを抜いて世界第6位の株式市場となった。同月中旬にはイギリスをすでに上回っていた。その背景にあるのはTSMC（台湾積体電路製造）である——時価総額1.8兆ドル、加重指数のウェイトは約45%に迫る。36年前に460万口座の資産を蒸発させた万点暴落、月利4分（月利4%）で16万人の年金を食い潰した鴻源機構（ホンユアンきこう）——この島の金融記憶には、まだ乾ききっていない傷痕がある。証券取引所が設立された当時の十数社の上場企業から、1,393万口座が世界第6位の資本市場を支えるまで、台湾は64年を要した。しかし、この第6位には構造的な皮肉がある。TSMCを除くと、残りの1,000銘柄以上を合わせても世界15位程度にしかならない。
