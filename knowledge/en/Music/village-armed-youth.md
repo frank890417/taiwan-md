@@ -16,12 +16,12 @@ tags:
 date: 2026-04-27
 readingTime: 8min
 lastVerified: 2026-04-27
-lastHumanReview: ''
+lastHumanReview: false
 translatedFrom: 'Music/農村武裝青年.md'
-sourceCommitSha: 'dac7394c'
-sourceContentHash: 'sha256:eafa380f71d4dfd8'
-sourceBodyHash: 'sha256:005f7b6627af79d8'
-translatedAt: '2026-05-01T01:46:13+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:61f3e48a075a45a9'
+sourceBodyHash: 'sha256:8a72ef4e738ab17c'
+translatedAt: '2026-05-09T06:28:04Z'
 ---
 
 # Village Armed Youth

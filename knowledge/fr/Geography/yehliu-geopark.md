@@ -9,10 +9,10 @@ readingTime: 8
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: Geography/野柳.md
-sourceCommitSha: a4cdf426
-sourceContentHash: sha256:cc375ba3f344da80
-sourceBodyHash: 'sha256:c1c41f5f0c9f31d6'
-translatedAt: 2026-05-01T22:19:06+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:c3a5e07241222609'
+sourceBodyHash: 'sha256:f144a1eb91bb190f'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 > **En bref (30 secondes) :**
@@ -62,20 +62,20 @@ Peut-être qu'un jour, la reine baissera effectivement la tête pour son salut f
 
 ### Références
 
-[^1]: [Le pêcheur de Yehliu Lin Tianzhen se sacrifie pour sauver autrui, inscrit dans les manuels scolaires nationaux](https://time.udn.com/udntime/story/122833/7805077) - 報時光
+[^1]: [Le pêcheur de Yehliu Lin Tianzhen se sacrifie pour sauver autrui, inscrit dans les manuels scolaires nationaux](https://time.udn.com/udntime/story/122833/7805077) — 報時光：Chronique UDN Time
 
-[^2]: [Cap du Diable – Site officiel du Géopark de Yehliu](https://www.ylgeopark.org.tw/YehliuKnowledgeView/PuntoDiablos) - Géopark de Yehliu
+[^2]: [Cap du Diable – Site officiel du Géopark de Yehliu](https://www.ylgeopark.org.tw/YehliuKnowledgeView/PuntoDiablos) — Géopark de Yehliu：Géoparc de Yehliu : voir le contenu original
 
-[^3]: [Sentier du Pic du Chameau : l'origine terrifiante du nom de Yehliu](https://hiking.biji.co/index.php?q=review&act=info&review_id=18536) - 健行筆記
+[^3]: [Sentier du Pic du Chameau : l'origine terrifiante du nom de Yehliu](https://hiking.biji.co/index.php?q=review&act=info&review_id=18536) — 健行筆記：Hiking Biji : voir le contenu original
 
-[^4]: [Zone panoramique de Yehliu](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E6%9F%B3%E1%A2%A8%E6%99%AF%E7%89%B9%E5%AE%9A%E5%8D%80) - Wikipédia
+[^4]: [Zone panoramique de Yehliu](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E6%9F%B3%E1%A2%A8%E6%99%AF%E7%89%B9%E5%AE%9A%E5%8D%80) — Wikipédia：Wikipédia
 
-[^5]: [La Tête de reine de Yehliu face au risque de rupture du cou](https://www.taiwan-panorama.com/Articles/Details?Guid=4b275ff0-c4ff-4dc3-bb58-93c0e8ba0d18&CatId=7&postname=%E9%87%8E%E6%9F%B3%E5%A5%B3%E7%8E%8B%E9%A0%AD-%E5%8A%9B%E6%8A%97%E6%96%B7%E9%A0%B8%E5%8D%B1%E6%A9%9F) - Taiwan Panorama
+[^5]: [La Tête de reine de Yehliu face au risque de rupture du cou](https://www.taiwan-panorama.com/Articles/Details?Guid=4b275ff0-c4ff-4dc3-bb58-93c0e8ba0d18&CatId=7&postname=%E9%87%8E%E6%9F%B3%E5%A5%B3%E7%8E%8B%E9%A0%AD-%E5%8A%9B%E6%8A%97%E6%96%B7%E9%A0%B8%E5%8D%B1%E6%A9%9F) — Taiwan Panorama：Article du magazine Taiwan Panorama
 
 [^6]: [Le chef-d'œuvre de la nature : la Tête de reine menacée de rupture](https://www.peopo.org/news/634394) - PeoPo 公民新聞
 
-[^7]: [Le célèbre site du Géopark de Yehliu sur la côte nord, la « Tête de reine », menacée de rupture imminente](https://www.cy.gov.tw/News_Content.aspx?n=125&s=12857) - Communiqué du Contrôle Yuan
+[^7]: [Le célèbre site du Géopark de Yehliu sur la côte nord, la « Tête de reine », menacée de rupture imminente](https://www.cy.gov.tw/News_Content.aspx?n=125&s=12857) — Communiqué du Contrôle Yuan：Communiqué officiel du Yuan de contrôle
 
-[^8]: [Purification du port par les divinités de Yehliu – Carte culturelle religieuse de Taïwan](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=204) - Ministère de l'Intérieur
+[^8]: [Purification du port par les divinités de Yehliu – Carte culturelle religieuse de Taïwan](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=204) — Ministère de l'Intérieur：Voir le contenu original
 
-[^9]: [Festival culturel de la purification du port par les divinités de Yehliu 2026](https://www.ydcf.org.tw/) - Site officiel de l'événement
+[^9]: [Festival culturel de la purification du port par les divinités de Yehliu 2026](https://www.ydcf.org.tw/) — Site officiel de l'événement：Voir le contenu original

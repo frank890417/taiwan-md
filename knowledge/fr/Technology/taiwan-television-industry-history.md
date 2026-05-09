@@ -17,10 +17,10 @@ author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-03-31
 translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:8a1c3586243b74a9'
-sourceBodyHash: 'sha256:ed795e563186762b'
-translatedAt: '2026-04-14T12:33:27+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:60dba661ebede1ab'
+sourceBodyHash: 'sha256:fe2616d81bff1a07'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 > **En 30 secondes :** Lancée en 1962, la télévision taïwanaise a d'abord été verrouillée par le parti, l'armée et l'État pendant trente ans. En 1998, la création de PTS — première chaîne publique réellement indépendante — marque un tournant. En 2016, la Q-Series affiche seulement 0,5 % d'audience, mais elle libère le drama taïwanais du carcan des soap operas et des feuilletons ruraux. Ces 54 ans racontent, avant tout, la question de qui détient le droit de raconter des histoires.
@@ -158,39 +158,39 @@ Si, en 2050, quelqu'un veut savoir ce que la télévision taïwanaise a tenté d
 
 ## Références
 
-[^1]: [台灣電視 - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96)
+[^1]: [台灣電視 - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96) — Article Wikipédia
 
-[^2]: [老三台 - Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0)
+[^2]: [老三台 - Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0) — Article Wikipédia
 
-[^3]: [黨政軍退出媒體 - Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94)
+[^3]: [黨政軍退出媒體 - Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94) — Article Wikipédia
 
-[^4]: [公視歷史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=46)
+[^4]: [公視歷史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=46) — PTS Taiwan (site officiel)
 
-[^5]: [公共電視法 (民國 86 年) - 維基文庫](<https://zh.wikisource.org/wiki/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E6%B3%95_(%E6%B0%91%E5%9C%8B86%E5%B9%B4)>)
+[^5]: [公共電視法 (民國 86 年) - 維基文庫](https://zh.wikisource.org/wiki/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E6%B3%95_(%E6%B0%91%E5%9C%8B86%E5%B9%B4) — ) — Voir le contenu original
 
-[^6]: [公視歷史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=42)
+[^6]: [公視歷史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=42) — PTS Taiwan (site officiel)
 
-[^7]: [公視年報 2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf)
+[^7]: [公視年報 2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf) — PTS Taiwan (site officiel)
 
-[^8]: 【一鏡到底】王小棣專訪系列，[鏡週刊 Mirror Media](http://mirrormedia.mg/story/20171002pol001)
+[^8]: [Mirror Media (鏡週刊)](http://mirrormedia.mg/story/20171002pol001) — Série d\'entretiens avec Wang Hsiao-di « Une seule prise »
 
-[^9]: 【一鏡到底】拍電視是一種社會運動，[鏡週刊 Mirror Media](http://mirrormedia.mg/story/20171002pol003)
+[^9]: [Mirror Media (鏡週刊)](http://mirrormedia.mg/story/20171002pol003) — « Faire de la télévision est un mouvement social »
 
-[^10]: [植劇場 - Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4)
+[^10]: [植劇場 - Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4) — Article Wikipédia
 
-[^11]: [植劇場 - 台視官網](https://www.ttv.com.tw/drama16/Qseries/default.asp)
+[^11]: [植劇場 - 台視官網](https://www.ttv.com.tw/drama16/Qseries/default.asp) — Voir le contenu original pour les données complémentaires
 
-[^12]: [2016 年度台劇榜：開始看見百花齊放的可能](http://punchline.asia/archives/37962)
+[^12]: [2016 年度台劇榜：開始看見百花齊放的可能](http://punchline.asia/archives/37962) — Voir le contenu original pour les données complémentaires
 
-[^13]: 王小棣專訪／拍電視是一種社會運動，[TVBS 新聞網](http://news.tvbs.com.tw/entertainment/781371)
+[^13]: [TVBS 新聞網](http://news.tvbs.com.tw/entertainment/781371) — Entretien avec Wang Hsiao-di / « Faire de la télévision est un mouvement social »
 
-[^14]: [文化部 2021 年文化內容產業統計](https://www.ccpa.org.tw/article.php?block=2&id=2005)
+[^14]: [文化部 2021 年文化內容產業統計](https://www.ccpa.org.tw/article.php?block=2&id=2005) — Voir le contenu original pour les données complémentaires
 
-[^15]: [台灣電視產業產值分析](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf)
+[^15]: [台灣電視產業產值分析](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf) — Voir le contenu original pour les données complémentaires
 
-[^16]: [台灣媒體史 - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2)
+[^16]: [台灣媒體史 - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — Article Wikipédia
 
-[^17]: 植劇場的幕後推手！專訪王小棣，[女人迷 Womany](https://womany.net/articles/11381/)
+[^17]: [Womany (女人迷)](https://womany.net/articles/11381/) — « Le pilier en coulisses de la Q-Series : entretien avec Wang Hsiao-di »
 
 ---
 

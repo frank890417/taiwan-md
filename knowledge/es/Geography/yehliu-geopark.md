@@ -10,10 +10,10 @@ readingTime: 8
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: 'a4cdf426'
-sourceContentHash: 'sha256:cc375ba3f344da80'
-sourceBodyHash: 'sha256:c1c41f5f0c9f31d6'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:c3a5e07241222609'
+sourceBodyHash: 'sha256:f144a1eb91bb190f'
+translatedAt: '2026-05-09T06:27:14Z'
 ---
 
 > **Resumen en 30 segundos:**
@@ -63,6 +63,6 @@ Quizás algún día, la Reina baje la cabeza y se despida. Pero antes de eso, si
 
 ### Referencias
 
-[^1]: [El pescador de Yehliu Lin Tianzhen se sacrificó para salvar a otros, historia incluida en libros de texto del Ministerio de Educación](https://time.udn.com/udntime/story/122833/7805077) - UDN Time
+[^1]: [El pescador de Yehliu Lin Tianzhen se sacrificó para salvar a otros, historia incluida en libros de texto del Ministerio de Educación](https://time.udn.com/udntime/story/122833/7805077) — UDN Time: columna del periódico United Daily News
 
 [^2]: [Cabo del Diablo - Sitio oficial del Parque Geológico de Yehliu](https://www.ylgeopark

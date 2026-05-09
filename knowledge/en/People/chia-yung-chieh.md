@@ -20,10 +20,10 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: People/賈永婕.md
-sourceCommitSha: 0c60c45d
-sourceContentHash: sha256:75e15983d85e7cbb
-sourceBodyHash: sha256:b066532f1f8eec6b
-translatedAt: 2026-05-09T05:31:47Z
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:75e15983d85e7cbb'
+sourceBodyHash: 'sha256:b066532f1f8eec6b'
+translatedAt: '2026-05-09T06:28:04Z'
 ---
 
 > **30-second overview:** Most people only know one version of her: the variety show host of the 2000s, the civic mobilizer who raised NT$68.04 million in two days in 2021 to secure HFNC units for frontline hospitals, or the sixth chairperson of Taipei 101 appointed in 2024. Only when you connect these episodes does a path with no precedent in Taiwan come into view: using "celebrity social capital" to exchange, again and again, for "public mobilization power," then converting that mobilization power into a "public-share governance seat." Each step has been accompanied by an equal measure of scrutiny (the "Mother of Cadaver Skin," misuse of public resources, improper employee dismissal, shallow vanity, funeral-parlor-style exhibition layouts), and her response has always been the next, larger mobilization. From a 2000 CTV prime-time drama to the January 25, 2026 global live broadcast of Alex Honnold free-soloing the 508-meter Taipei 101, this cycle has been running for twenty-six years.

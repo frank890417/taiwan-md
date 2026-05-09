@@ -11,10 +11,10 @@ lastVerified: 2026-04-27
 lastHumanReview: false
 featured: false
 translatedFrom: Art/當代台灣文學.md
-sourceCommitSha: 31272c2c
-sourceContentHash: sha256:a65b1a4010a5ecce
-sourceBodyHash: 'sha256:e321c808a017c0fd'
-translatedAt: 2026-05-01T22:19:01+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:35da98a88d3eacf8'
+sourceBodyHash: 'sha256:5baed6f05d6d9ed8'
+translatedAt: '2026-05-09T06:27:06Z'
 ---
 
 # 대만 현대문학: 우명이(吳明益), 린이한(林奕含), 그리고 조용한 독서 위기

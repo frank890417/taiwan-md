@@ -2,17 +2,25 @@
 title: 'La diaspora taïwanaise : des étudiants en exil aux ingénieurs de la Silicon Valley, la carte de deux millions de personnes dispersées'
 description: "À ce jour, Taïwan ne dispose pas de vote par procuration ni de vote à distance pour les non-résidents. Deux millions de citoyens taïwanais vivant à l'étranger doivent se rendre en personne dans leur lieu de résidence enregistrée à chaque élection présidentielle. De l'exil politique des étudiants partis aux États-Unis dans les années 1960, à la création du groupe de lobbying FAPA à Los Angeles en 1982, en passant par l'effet de retour au pays des ingénieurs de la Silicon Valley, c'est une histoire de diaspora, d'identité et d'engagement."
 date: 2026-04-28
-tags: ['Taïwanais d\'outre-mer', 'diaspora', 'communauté dispersée', 'politique', 'Silicon Valley', 'FAPA']
+tags:
+  [
+    "Taïwanais d'outre-mer",
+    'diaspora',
+    'communauté dispersée',
+    'politique',
+    'Silicon Valley',
+    'FAPA',
+  ]
 category: 'Society'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'Society/台灣海外僑民與離散社群.md'
-sourceCommitSha: '8951c944'
-sourceContentHash: 'sha256:2eda89d3846fc616'
-sourceBodyHash: 'sha256:00d0a54d5ea80bf7'
-translatedAt: '2026-05-02T01:17:16+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:273b605321194083'
+sourceBodyHash: 'sha256:5b0c5e70e93cb4b0'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 > **En 30 secondes :** On estime qu'environ deux millions de citoyens taïwanais vivent à l'étranger, répartis entre les États-Unis, l'Asie du Sud-Est, l'Europe et le Japon. Ce qui rend ce groupe singulier, c'est qu'à ce jour, Taïwan ne dispose d'aucun système de vote à distance pour les non-résidents : à chaque élection, voter signifie acheter un billet d'avion et retourner dans son lieu de résidence enregistrée. La carte de cette diaspora s'étend des exilés politiques des années 1960 à la Fédération mondiale des associations de compatriotes taïwanais fondée à Vienne en 1974, en passant par l'organisation de lobbying de base FAPA née à Los Angeles en 1982, à laquelle s'ajoutent le retour au pays des ingénieurs de la Silicon Valley, les questionnements identitaires de la deuxième génération, formant ensemble une tranche cachée de l'histoire démocratique de Taïwan.

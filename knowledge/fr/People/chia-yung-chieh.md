@@ -20,10 +20,10 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: People/賈永婕.md
-sourceCommitSha: '0b2c2a33'
-sourceContentHash: 'sha256:a92f6a6b22257ffa'
-sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
-translatedAt: 2026-05-03T23:14:07+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:75e15983d85e7cbb'
+sourceBodyHash: 'sha256:b066532f1f8eec6b'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 > **En 30 secondes :** La plupart des gens ne connaissent qu'une seule version d'elle : l'animatrice des émissions de variétés des années 2000, la mobilisatrice citoyenne qui a collecté 68,04 millions de dollars taïwanais en deux jours en 2021 pour fournir des appareils HFNC aux hôpitaux de première ligne, ou la dirigeante à capitaux publics devenue sixième présidente du conseil d'administration du Taipei 101 en 2024. C'est en reliant ces épisodes que se dessine un parcours sans précédent à Taïwan : convertir le « capital social de célébrité » en « force de mobilisation publique », puis transformer cette force en « siège de gouvernance à capitaux publics ». Chaque nouveau pas s'accompagne d'un volume équivalent de critiques (« mère de la peau cadavérique », détournement d'un usage public, licenciements abusifs, vanité superficielle, parcours d'exposition aux allures de salle funéraire), et sa réponse est toujours une mobilisation encore plus ambitieuse. Du feuilleton prime-time de la chaîne CTS en 2000 au 25 janvier 2026, jour où Alex Honnold a gravi à mains nues les 508 mètres du Taipei 101 en diffusion mondiale en direct, ce cycle dure depuis vingt-six ans.

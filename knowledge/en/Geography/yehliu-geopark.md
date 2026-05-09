@@ -9,10 +9,10 @@ readingTime: 8
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: 'a4cdf426'
-sourceContentHash: 'sha256:cc375ba3f344da80'
-sourceBodyHash: 'sha256:c1c41f5f0c9f31d6'
-translatedAt: '2026-05-01T08:56:11+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:c3a5e07241222609'
+sourceBodyHash: 'sha256:f144a1eb91bb190f'
+translatedAt: '2026-05-09T06:28:04Z'
 ---
 
 > **30-second overview:**
@@ -62,20 +62,20 @@ Perhaps one day the Queen will truly bow and take her final curtain call. But un
 
 ### References
 
-[^1]: [Yehliu Fisherman Lin Tian-zheng's Self-Sacrifice Written into National Textbooks](https://time.udn.com/udntime/story/122833/7805077) — Bao Shi Guang (Timewatcher)
+[^1]: [Yehliu Fisherman Lin Tian-zheng's Self-Sacrifice Written into National Textbooks](https://time.udn.com/udntime/story/122833/7805077) — Bao Shi Guang (Timewatcher): UDN Bao Shi Guang column
 
-[^2]: [Devil's Cape — Yehliu Geopark Official Website](https://www.ylgeopark.org.tw/YehliuKnowledgeView/PuntoDiablos) — Yehliu Geopark
+[^2]: [Devil's Cape — Yehliu Geopark Official Website](https://www.ylgeopark.org.tw/YehliuKnowledgeView/PuntoDiablos) — Yehliu Geopark: see full content at original link
 
-[^3]: [Camel Peak Trail: Uncovering the Terrifying Origin of the Name Yehliu](https://hiking.biji.co/index.php?q=review&act=info&review_id=18536) — Hiking Notes
+[^3]: [Camel Peak Trail: Uncovering the Terrifying Origin of the Name Yehliu](https://hiking.biji.co/index.php?q=review&act=info&review_id=18536) — Hiking Notes: see full content at original link
 
-[^4]: [Yehliu Scenic Special Area](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E6%9F%B3%E1%A2%A8%E6%99%AF%E7%89%B9%E5%AE%9A%E5%8D%80) — Wikipedia
+[^4]: [Yehliu Scenic Special Area](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E6%9F%B3%E1%A2%A8%E6%99%AF%E7%89%B9%E5%AE%9A%E5%8D%80) — Wikipedia: Wikipedia entry
 
-[^5]: [Yehliu Queen's Head — Fighting the Broken-Neck Crisis](https://www.taiwan-panorama.com/Articles/Details?Guid=4b275ff0-c4ff-4dc3-bb58-93c0e8ba0d18&CatId=7&postname=%E9%87%8E%E6%9F%B3%E5%A5%B3%E7%8E%8B%E9%A0%AD-%E5%8A%9B%E6%8A%97%E6%96%B7%E9%A0%B8%E5%8D%B1%E6%A9%9F) — Taiwan Panorama
+[^5]: [Yehliu Queen's Head — Fighting the Broken-Neck Crisis](https://www.taiwan-panorama.com/Articles/Details?Guid=4b275ff0-c4ff-4dc3-bb58-93c0e8ba0d18&CatId=7&postname=%E9%87%8E%E6%9F%B3%E5%A5%B3%E7%8E%8B%E9%A0%AD-%E5%8A%9B%E6%8A%97%E6%96%B7%E9%A0%B8%E5%8D%B1%E6%A9%9F) — Taiwan Panorama: Taiwan Panorama feature article
 
 [^6]: [Nature's Masterwork: The Queen's Head Broken-Neck Crisis](https://www.peopo.org/news/634394) — PeoPo Citizen News
 
-[^7]: [The Famous "Queen's Head" Landmark at Yehliu Geopark on Taiwan's North Coast Is Near the Brink of Snapping](https://www.cy.gov.tw/News_Content.aspx?n=125&s=12857) — Control Yuan Press Release
+[^7]: [The Famous "Queen's Head" Landmark at Yehliu Geopark on Taiwan's North Coast Is Near the Brink of Snapping](https://www.cy.gov.tw/News_Content.aspx?n=125&s=12857) — Control Yuan Press Release: Control Yuan rectification report
 
-[^8]: [Yehliu Holy Statues Cleansing the Harbor — Taiwan Religious Cultural Map](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=204) — Ministry of the Interior
+[^8]: [Yehliu Holy Statues Cleansing the Harbor — Taiwan Religious Cultural Map](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=204) — Ministry of the Interior: see full content at original link
 
-[^9]: [2026 Yehliu Holy Statues Cleansing the Harbor Cultural Festival](https://www.ydcf.org.tw/) — Festival Official Website
+[^9]: [2026 Yehliu Holy Statues Cleansing the Harbor Cultural Festival](https://www.ydcf.org.tw/) — Festival Official Website: see full content at original link

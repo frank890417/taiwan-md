@@ -12,15 +12,16 @@ tags:
     'FAPA',
   ]
 category: 'Society'
+subcategory: '國際關係'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'Society/台灣海外僑民與離散社群.md'
-sourceCommitSha: '8951c944'
-sourceContentHash: 'sha256:2eda89d3846fc616'
-sourceBodyHash: 'sha256:00d0a54d5ea80bf7'
-translatedAt: '2026-04-30T22:50:13+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:273b605321194083'
+sourceBodyHash: 'sha256:5b0c5e70e93cb4b0'
+translatedAt: '2026-05-09T06:28:04Z'
 ---
 
 > **30-second overview:** Approximately two million Taiwanese citizens live abroad, across the United States, Southeast Asia, Europe, and Japan. What makes this group distinctive: Taiwan has no absentee voting system, so every election, anyone who wants to vote must buy an airline ticket and fly back to their household registration polling station. This map of the diaspora spans the political exiles of the 1960s, the World Federation of Taiwanese Associations founded in Vienna in 1974, the grassroots lobbying organization FAPA born in Los Angeles in 1982, and the knowledge return-flow of Silicon Valley engineers — layered over the identity confusion of second-generation Taiwanese abroad, forming a hidden cross-section of Taiwan's democratic history.

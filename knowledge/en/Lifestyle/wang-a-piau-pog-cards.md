@@ -18,10 +18,10 @@ lastVerified: 2026-04-27
 featured: false
 lastHumanReview: false
 translatedFrom: 'Lifestyle/尪仔標.md'
-sourceCommitSha: '56fa1bf1'
-sourceContentHash: 'sha256:01872081668edbca'
-sourceBodyHash: 'sha256:5d92b64086c4d151'
-translatedAt: '2026-04-30T22:50:13+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:ba5e9d32f7d28511'
+sourceBodyHash: 'sha256:cac04e52e2b818d6'
+translatedAt: '2026-05-09T06:28:04Z'
 ---
 
 > **30-second overview:** Starting in the 1950s, Taiwan's "wang-a-piau" (尪仔標) were a game children played and a measure of peer standing — the more you collected, the more you mattered on the schoolyard after the bell rang. These cards, rooted in Chinese leaf-games and influenced by Japanese children's toys, evolved from metal to plastic and their imagery from glove-puppet characters to comic heroes; their rules varied endlessly. They carry the collective memory of multiple generations of Taiwanese people. More unusually: in Taiwan, even election flyers could be folded by children into wang-a-piau, becoming unconventional weapons on the childhood battlefield.

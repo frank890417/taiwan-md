@@ -17,10 +17,10 @@ author: 'Taiwan.md'
 featured: false
 readingTime: 8
 translatedFrom: 'Geography/野柳.md'
-sourceCommitSha: 'a4cdf426'
-sourceContentHash: 'sha256:cc375ba3f344da80'
-sourceBodyHash: 'sha256:c1c41f5f0c9f31d6'
-translatedAt: '2026-05-01T14:48:26+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:c3a5e07241222609'
+sourceBodyHash: 'sha256:f144a1eb91bb190f'
+translatedAt: '2026-05-09T06:34:07Z'
 ---
 
 # 野柳（ヤリュウ）：魔の岬の上で、「女王」の戴冠と幕引きを見守る時間との競走

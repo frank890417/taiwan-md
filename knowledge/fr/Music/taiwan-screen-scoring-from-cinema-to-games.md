@@ -1,9 +1,17 @@
 ---
-title: 'La musique de Taïwan à l'écran : de la bande originale au jeu vidéo, une esthétique sonore singulière'
-description: 'Plongée dans l'univers des compositeurs taïwanais qui ont façonné le son du cinéma d'auteur, des épopées historiques et des jeux vidéo acclamés à l'international — de la collaboration légendaire entre Hou Hsiao-hsien et Lim Giong jusqu'aux créations numériques de Rayark Games'
+title: "La musique de Taïwan à l'écran : de la bande originale au jeu vidéo, une esthétique sonore singulière"
+description: "Plongée dans l'univers des compositeurs taïwanais qui ont façonné le son du cinéma d'auteur, des épopées historiques et des jeux vidéo acclamés à l'international — de la collaboration légendaire entre Hou Hsiao-hsien et Lim Giong jusqu'aux créations numériques de Rayark Games"
 date: 2026-03-19
 tags:
-  ['musique de film', 'musique pour l'image', 'bande originale de jeu vidéo', 'Hou Hsiao-hsien', 'Lim Giong', 'Fan Tsung-pei', 'Rayark Games']
+  [
+    'musique de film',
+    "musique pour l'image",
+    'bande originale de jeu vidéo',
+    'Hou Hsiao-hsien',
+    'Lim Giong',
+    'Fan Tsung-pei',
+    'Rayark Games',
+  ]
 subcategory: 'Industrie musicale'
 author: 'Taiwan.md Translation Team'
 readingTime: 14
@@ -11,11 +19,11 @@ featured: true
 category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: "Music/台灣影視配樂.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:6cbe8cc1264f871a"
-sourceBodyHash: 'sha256:f676e86770e92c50'
-translatedAt: "2026-04-15T17:32:16+08:00"
+translatedFrom: 'Music/台灣影視配樂.md'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:5b87d248aee8d7df'
+sourceBodyHash: 'sha256:75efb37138b63abf'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 # La musique de Taïwan à l'écran : de la bande originale au jeu vidéo, une esthétique sonore singulière

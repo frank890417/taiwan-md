@@ -20,10 +20,10 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: People/賈永婕.md
-sourceCommitSha: '0b2c2a33'
-sourceContentHash: 'sha256:a92f6a6b22257ffa'
-sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
-translatedAt: 2026-05-03T23:14:07+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:75e15983d85e7cbb'
+sourceBodyHash: 'sha256:b066532f1f8eec6b'
+translatedAt: '2026-05-09T06:27:14Z'
 ---
 
 > **Resumen en 30 segundos:** La mayoría de la gente solo conoce una de sus versiones: la presentadora de variedades de los años 2000, la movilizadora civil que en 2021 recaudó 68,04 millones de dólares taiwaneses en dos días para conseguir HFNC para hospitales de primera línea, o la gobernadora de acciones públicas que asumió como sexta presidenta del Taipei 101 en 2024. Solo al conectar estos episodios se revela un camino sin precedentes en Taiwán: usar el «capital social de celebridad» para canjearlo una y otra vez por «poder de movilización pública», y luego convertir ese poder de movilización en un «escaño de gobernanza de acciones públicas». Cada paso viene acompañado de un volumen equivalente de cuestionamientos (madre de la piel cadavérica, uso indebido de recursos públicos, despido impropio de empleados, vanidad superficial, recorrido de exposición estilo funeraria), y su respuesta es siempre la siguiente movilización, aún mayor. Desde el drama de horario estelar de CTV en 2000 hasta lograr que Alex Honnold escalara a mano desnuda los 508 metros del Taipei 101 en transmisión global el 25 de enero de 2026, este ciclo lleva veintiséis años en marcha.

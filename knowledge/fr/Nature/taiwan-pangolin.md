@@ -18,10 +18,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Nature/台灣穿山甲.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:a5b003502d2f617c'
-sourceBodyHash: 'sha256:842dfe18f6392e3e'
-translatedAt: '2026-04-14T19:22:44+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:914838b22341fc06'
+sourceBodyHash: 'sha256:b24e803d4a1ad56c'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 # Le pangolin de Taïwan

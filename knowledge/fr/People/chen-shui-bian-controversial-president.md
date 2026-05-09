@@ -20,10 +20,10 @@ readingTime: 18
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: People/陳水扁.md
-sourceCommitSha: dc87c2a6
-sourceContentHash: sha256:6f1095e22173ebb5
-sourceBodyHash: 'sha256:1ba6a66e675cd161'
-translatedAt: 2026-05-01T20:54:17+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:b62d59ba90fc21c6'
+sourceBodyHash: 'sha256:7cb7fa1cf359eb04'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 # Chen Shui-bian
@@ -47,13 +47,13 @@ Fin 1979, l'Incident de Formosa ébranla tout Taïwan. Des militants du mouvemen
 
 Chen Shui-bian avait alors 29 ans et était déjà un avocat réputé. Lorsque l'avocat de la défense Zhang De-ming vint lui demander s'il acceptait de rejoindre l'équipe de défense pour représenter Huang Xin-zhe, il savait parfaitement ce que cela impliquait : défendre des « prisonniers politiques » sous un régime autoritaire, c'était mettre en jeu sa carrière et sa sécurité.
 
-Il choisit de s'engager. Ce seul décida de son passage du droit à la politique, et c'est au sein du cercle des avocats de la défense qu'il rencontra [[謝長廷]] (Xie Changting) et [[蘇貞昌]] (Su Zhenchang), qui devinrent tous deux des figures majeures du mouvement démocratique. Parmi les 15 avocats de l'équipe de défense, il n'était pas le seul acteur central, mais cette expérience commune le propulsa définitivement du statut d'« avocat maritime » vers celui de militant du mouvement extra-partis.
+Il choisit de s'engager. Ce seul décida de son passage du droit à la politique, et c'est au sein du cercle des avocats de la défense qu'il rencontra 謝長廷 (Xie Changting) et 蘇貞昌 (Su Zhenchang), qui devinrent tous deux des figures majeures du mouvement démocratique. Parmi les 15 avocats de l'équipe de défense, il n'était pas le seul acteur central, mais cette expérience commune le propulsa définitivement du statut d'« avocat maritime » vers celui de militant du mouvement extra-partis.
 
-En 1981, Chen Shui-bian fut élu conseiller municipal de Taipei avec le plus grand nombre de voix, un premier essai retentissant. En 1986, il devint membre fondateur du [[民主進步黨]] (Parti démocrate progressiste).
+En 1981, Chen Shui-bian fut élu conseiller municipal de Taipei avec le plus grand nombre de voix, un premier essai retentissant. En 1986, il devint membre fondateur du 民主進步黨 (Parti démocrate progressiste).
 
 ## Maire de Taipei : transformer le yamen en guichet de service
 
-En décembre 1994, Chen Shui-bian fut élu maire de Taipei au suffrage direct avec 615 090 voix (43,67 %), battant le dernier maire nommé par le gouvernement, [[黃大洲]] (Huang Dazhou), issu du Kuomintang. Il devint le premier maire élu de l'histoire de Taipei et le premier maire issu du Parti démocrate progressiste. [^2]
+En décembre 1994, Chen Shui-bian fut élu maire de Taipei au suffrage direct avec 615 090 voix (43,67 %), battant le dernier maire nommé par le gouvernement, 黃大洲 (Huang Dazhou), issu du Kuomintang. Il devint le premier maire élu de l'histoire de Taipei et le premier maire issu du Parti démocrate progressiste. [^2]
 
 Durant ses quatre années à la tête de la municipalité, sa marque la plus tangible ne fut pas matérielle, mais une refonte destructrice de la « culture des fonctionnaires ».
 
@@ -71,7 +71,7 @@ Pour éradiquer la paresse et l'absentéisme chroniques, il mena personnellement
 >
 > **Innovation sociale :** Promotion de services sociaux pour les groupes vulnérables, incluant des programmes de proximité pour les personnes âgées et les personnes en situation de handicap.
 
-En 1998, Chen Shui-bian briguant un deuxième mandat avec un taux de satisfaction citoyenne de 80 %, il fut néanmoins battu avec 45,91 % des voix par son adversaire [[馬英九]] (Ma Yingjiu). Dans une logique électorale normale, un maire avec 80 % de satisfaction n'aurait pas dû perdre. Les analyses ultérieures des politologues pointèrent le fossé structurel bleu-vert de l'électorat de Taipei — ce n'étaient pas ses réalisations qui avaient faibli, mais la structure même du corps électoral.
+En 1998, Chen Shui-bian briguant un deuxième mandat avec un taux de satisfaction citoyenne de 80 %, il fut néanmoins battu avec 45,91 % des voix par son adversaire 馬英九 (Ma Yingjiu). Dans une logique électorale normale, un maire avec 80 % de satisfaction n'aurait pas dû perdre. Les analyses ultérieures des politologues pointèrent le fossé structurel bleu-vert de l'électorat de Taipei — ce n'étaient pas ses réalisations qui avaient faibli, mais la structure même du corps électoral.
 
 Perdre Taipei ne l'empêcha pas, deux ans plus tard, de conquérir tout Taïwan.
 
@@ -79,7 +79,7 @@ Perdre Taipei ne l'empêcha pas, deux ans plus tard, de conquérir tout Taïwan.
 
 L'élection présidentielle de 2000 fut la plus dramatique de l'histoire démocratique taïwanese.
 
-Le Kuomintang se fractura en interne : le candidat désigné par le parti, Lian Zhan, et le dissident Song Chyu-yu se présentèrent séparément, divisant l'électorat pan-bleu en deux. Chen Shui-bian, avec sa colistière à la vice-présidence [[呂秀蓮]] (Lu Xiulian), l'emporta avec 39,3 % des voix dans une triangulaire. Le Parti démocrate progressiste passa de sa fondation au pouvoir en seulement 14 ans. [^3]
+Le Kuomintang se fractura en interne : le candidat désigné par le parti, Lian Zhan, et le dissident Song Chyu-yu se présentèrent séparément, divisant l'électorat pan-bleu en deux. Chen Shui-bian, avec sa colistière à la vice-présidence 呂秀蓮 (Lu Xiulian), l'emporta avec 39,3 % des voix dans une triangulaire. Le Parti démocrate progressiste passa de sa fondation au pouvoir en seulement 14 ans. [^3]
 
 > **📊 Résultats de l'élection présidentielle de 2000**
 >
@@ -146,7 +146,7 @@ En 2002, lors d'un discours en visioconférence, Chen Shui-bian formula la posit
 
 Vers la fin de son deuxième mandat, il alla plus loin avec les « quatre vouloir et pas de problème de ligne » : vouloir l'indépendance, vouloir la rectification du nom, vouloir une nouvelle constitution, vouloir le développement, pas de problème de ligne gauche ou droite. Il promut simultanément le « référendum d'adhésion de Taïwan aux Nations Unies ». Sur le plan diplomatique, la controverse de la « diplomatie de détour » émergea, et les arrangements de transit aux États-Unis créèrent des tensions avec Washington.
 
-La ligne transstraits qu'il promut — centrée sur la subjectivité de Taïwan et insistant sur l'existence indépendante de Taïwan sur la scène internationale — et la ligne du « consensus de 1992 » de son successeur [[馬英九]] (Ma Yingjiu) constituent le contraste le plus marqué de la politique transstraits taïwanaise. Les différents électorats portent des jugements radicalement différents sur cette période, reflétant la réalité que la société taïwanaise n'a pas encore complètement forgé de consensus sur la question fondamentale : « Qu'est-ce que Taïwan ? »
+La ligne transstraits qu'il promut — centrée sur la subjectivité de Taïwan et insistant sur l'existence indépendante de Taïwan sur la scène internationale — et la ligne du « consensus de 1992 » de son successeur 馬英九 (Ma Yingjiu) constituent le contraste le plus marqué de la politique transstraits taïwanaise. Les différents électorats portent des jugements radicalement différents sur cette période, reflétant la réalité que la société taïwanaise n'a pas encore complètement forgé de consensus sur la question fondamentale : « Qu'est-ce que Taïwan ? »
 
 ## Réélection en 2004 : le coup de feu la veille du scrutin
 
@@ -156,7 +156,7 @@ L'enquête sur la tentative d'assassinat fut entachée de controverses et n'a to
 
 ## Deuxième mandat : la tempête politique
 
-2006 marqua le tournant du deuxième mandat. L'utilisation des frais spéciaux du Bureau présidentiel fut remise en question, des scandales d'achats impliquant des proches émergèrent (dont l'affaire SOGO et l'affaire de l'achat de terrains de Longtan), et l'ancien président du Parti démocrate progressiste [[施明德]] (Shi Mingde) lança le mouvement « un million de personnes pour renverser Bian », rassemblant pendant des semaines sur l'avenue Ketagalan pour exiger la démission de Chen Shui-bian.
+2006 marqua le tournant du deuxième mandat. L'utilisation des frais spéciaux du Bureau présidentiel fut remise en question, des scandales d'achats impliquant des proches émergèrent (dont l'affaire SOGO et l'affaire de l'achat de terrains de Longtan), et l'ancien président du Parti démocrate progressiste 施明德 (Shi Mingde) lança le mouvement « un million de personnes pour renverser Bian », rassemblant pendant des semaines sur l'avenue Ketagalan pour exiger la démission de Chen Shui-bian.
 
 Cette tempête politique paralysa presque totalement la capacité d'action de Chen Shui-bian et laissa une empreinte profonde de division sociale à Taïwan. Durant la même période, l'incident du confinement de l'hôpital Heping lors de l'épidémie de SRAS en 2003 constitua une autre marque de gestion de crise transversale aux deux mandats.
 
@@ -199,14 +199,14 @@ Cette année-là, les Taïwanais apprirent pour la première fois que c'était r
 
 ## Pour aller plus loin
 
-- [[蘇貞昌]] (Su Zhenchang) — compagnon d'équipe de défense lors du procès de l'Incident de Formosa, puis président du Yuan exécutif
-- [[謝長廷]] (Xie Changting) — compagnon d'équipe de défense lors du procès de l'Incident de Formosa, puis président du Yuan exécutif
-- [[呂秀蓮]] (Lu Xiulian) — vice-présidente en 2000 et 2004
-- [[施明德]] (Shi Mingde) — figure centrale de l'Incident de Formosa, puis président du Parti démocrate progressiste, initiateur du mouvement anti-Bian en 2006
-- [[馬英九]] (Ma Yingjiu) — battit Chen Shui-bian pour la mairie de Taipei en 1998, puis lui succéda à la présidence en 2008
-- [[美麗島事件]] (Incident de Formosa) — le grand procès de 1979 qui engendra une nouvelle génération politique
-- [[民主進步黨]] (Parti démocrate progressiste) — membre fondateur, premier président issu du parti au pouvoir
-- [[台灣民主化進程]] (Processus de démocratisation de Taïwan) — l'alternance politique comme nœud clé de la consolidation démocratique
+- 蘇貞昌 (Su Zhenchang) — compagnon d'équipe de défense lors du procès de l'Incident de Formosa, puis président du Yuan exécutif
+- 謝長廷 (Xie Changting) — compagnon d'équipe de défense lors du procès de l'Incident de Formosa, puis président du Yuan exécutif
+- 呂秀蓮 (Lu Xiulian) — vice-présidente en 2000 et 2004
+- 施明德 (Shi Mingde) — figure centrale de l'Incident de Formosa, puis président du Parti démocrate progressiste, initiateur du mouvement anti-Bian en 2006
+- 馬英九 (Ma Yingjiu) — battit Chen Shui-bian pour la mairie de Taipei en 1998, puis lui succéda à la présidence en 2008
+- 美麗島事件 (Incident de Formosa) — le grand procès de 1979 qui engendra une nouvelle génération politique
+- 民主進步黨 (Parti démocrate progressiste) — membre fondateur, premier président issu du parti au pouvoir
+- 台灣民主化進程 (Processus de démocratisation de Taïwan) — l'alternance politique comme nœud clé de la consolidation démocratique
 
 ## Références
 

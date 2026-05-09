@@ -7,7 +7,7 @@ tags:
     '動物園',
     '台北動物園',
     '新竹動物園',
-    '寿山動物園',
+    '壽山動物園',
     'Xpark',
     '海生館',
     '六福村',
@@ -16,15 +16,15 @@ tags:
   ]
 subcategory: '動物と倫理'
 author: 'p3nchan'
-readingTime: 8
-category: 'Society'
 lastVerified: 2026-04-25
 lastHumanReview: false
+featured: false
+readingTime: 8
 translatedFrom: Society/台灣有哪些動物園.md
-sourceCommitSha: eb1ea071
-sourceContentHash: sha256:11766ba8870a1b0b
-sourceBodyHash: 'sha256:11854debbf35b879'
-translatedAt: 2026-05-01T18:02:56+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:a558fb79ea3bf17b'
+sourceBodyHash: 'sha256:6dee4b17705f8ffa'
+translatedAt: '2026-05-09T06:34:07Z'
 ---
 
 # 台湾にはどんな動物園があるのか：最も古いのは木柵ではなく、最大の動物園も動物園だけではない

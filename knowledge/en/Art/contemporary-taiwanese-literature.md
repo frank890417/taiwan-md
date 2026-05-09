@@ -16,10 +16,10 @@ featured: false
 researchReport: 'reports/research/2026-04/當代台灣文學.md'
 readingTime: 10
 translatedFrom: 'Art/當代台灣文學.md'
-sourceCommitSha: '31272c2c'
-sourceContentHash: 'sha256:a65b1a4010a5ecce'
-sourceBodyHash: 'sha256:e321c808a017c0fd'
-translatedAt: '2026-05-01T01:46:13+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:35da98a88d3eacf8'
+sourceBodyHash: 'sha256:5baed6f05d6d9ed8'
+translatedAt: '2026-05-09T06:28:04Z'
 ---
 
 # Contemporary Taiwanese Literature: Wu Ming-yi, Lin Yi-han, and a Quiet Reading Crisis
@@ -135,7 +135,7 @@ Chen Szu-hung writes from Berlin in Chinese about Yongjing, Changhua; Wu Ming-yi
 
 [^7]: The amendment to the _Supplementary Education Act_ ("Anti-Predatory Teacher Amendment") passed the Legislative Yuan's third reading on May 26, 2017.
 
-[^8]: Lin Yi-han's _Fang Si-qi's First Love Paradise_ (房思琪的初戀樂園) published by Guerrilla Publishing on February 7, 2017; sales exceeded 300,000 copies. See: [To All the Fang Si-qis in This World](https://www.biosmonthly.com/article/11494) — Bios Monthly.
+[^8]: [To All the Fang Si-qis in This World](https://www.biosmonthly.com/article/11494) — Lin Yi-han's _Fang Si-qi's First Love Paradise_ (房思琪的初戀樂園) published by Guerrilla Publishing on February 7, 2017; sales exceeded 300,000 copies. See:
 
 [^9]: Huang Li-qun's _A Room by the Sea_ (海邊的房間, published January 16, 2012; 13-story short fiction collection); within five years swept the China Times Literary Award, United Daily News Literary Award (Judge's Award + First Prize), and Lin Jung-san Literary Award Short Fiction Second Prize.
 

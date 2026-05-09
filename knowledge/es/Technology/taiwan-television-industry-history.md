@@ -18,10 +18,10 @@ featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
 translatedFrom: Technology/台灣電視產業史.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:8a1c3586243b74a9
-sourceBodyHash: 'sha256:ed795e563186762b'
-translatedAt: 2026-05-01T20:54:23+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:60dba661ebede1ab'
+sourceBodyHash: 'sha256:fe2616d81bff1a07'
+translatedAt: '2026-05-09T06:27:14Z'
 ---
 
 > **Resumen en 30 segundos:** En 1962 se inauguró TTV, y Taiwán entró en la era de la televisión; en 1998 se fundó la televisión pública (PTS), nació el primer medio de comunicación público no comercial; en 2016, Qseries (植劇場), con una audiencia del 0,5 %, logró que el drama taiwanés trascendiera el marco de las telenovelas románticas y las series costumbristas. Del "monopolio del partido, el gobierno y el ejército" a la "revolución suave", los 54 años de la industria televisiva de Taiwán son una historia sobre quién tiene el poder de contar historias.
@@ -38,7 +38,7 @@ Tres años después de la inauguración de TTV, en 1965, solo había 30 000 tele
 
 > La estructura accionaria de las Tres Grandes se resumió como "medios del partido, el gobierno y el ejército": TTV pertenecía al gobierno provincial de Taiwán (propiedad provincial), CTV al Kuomintang (propiedad del partido), y CTS al Ministerio de Defensa Nacional y al Ministerio de Educación (propiedad estatal).
 
-Estas tres palabras se convirtieron después en el eslogan de la reforma mediática taiwanesa: «[[黨政軍退出媒體]]» (retirada del partido, el gobierno y el ejército de los medios).
+Estas tres palabras se convirtieron después en el eslogan de la reforma mediática taiwanesa: «黨政軍退出媒體» (retirada del partido, el gobierno y el ejército de los medios).
 
 ---
 
@@ -94,7 +94,7 @@ A finales de los años ochenta y durante los noventa, Wang Xiaodi produjo en CTS
 
 En una época en que la televisión taiwanesa estaba dominada por las series de las ocho de la noche y los programas de variedades, estas obras demostraron en silencio que las series de televisión podían tener calidez social.
 
-En 1992, junto con su colaboradora creativa Huang Liming, fundó el **Estudio Cinematográfico Daotian** (稻田電影工作室), y desde entonces trabajó principalmente para la [[公視]] (televisión pública).
+En 1992, junto con su colaboradora creativa Huang Liming, fundó el **Estudio Cinematográfico Daotian** (稻田電影工作室), y desde entonces trabajó principalmente para la 公視 (televisión pública).
 
 En el año 2000, [[王小棣]] (Wang Xiaodi) dirigió para la televisión pública _El gran hospital, los pequeños médicos_ (_大醫院小醫師_), protagonizado por Lan Zhenglong y Ma Zhixiang. Ese año, _Meteor Garden_ (_流星花園_) arrasó en Asia, y las telenovelas románticas se convirtieron oficialmente en la palabra clave de la televisión taiwanesa. _El gran hospital, los pequeños médicos_ se comparó con _Meteor Garden_ y fue aclamado como la "primera generación de telenovelas románticas taiwanesas", pero al mismo tiempo fue la primera **serie laboral** genuina de Taiwán.
 
@@ -141,7 +141,7 @@ En 2016, el valor de las exportaciones de la industria televisiva representó so
 
 El 30 de junio de 2012, Taiwán apagó la señal de televisión analógica terrestre y entró de lleno en la era digital[^16]. Este fue otro punto de inflexión clave para la industria televisiva taiwanesa.
 
-El canal principal de TTV se actualizó a HD el 29 de diciembre de 2014; el canal principal de [[華視]] (CTS) se actualizó a HD el 1 de octubre de 2015; el canal principal de CTV se actualizó a HD el 15 de febrero de 2016. Actualmente, Taiwán cuenta con 8 canales de televisión terrestre gratuitos (TTV, CTV, [[華視]], FTV, [[公視]] (televisión pública), Televisión Hakka, Televisión de los Pueblos Indígenas, Canal Parlamentario).
+El canal principal de TTV se actualizó a HD el 29 de diciembre de 2014; el canal principal de 華視 (CTS) se actualizó a HD el 1 de octubre de 2015; el canal principal de CTV se actualizó a HD el 15 de febrero de 2016. Actualmente, Taiwán cuenta con 8 canales de televisión terrestre gratuitos (TTV, CTV, 華視, FTV, 公視 (televisión pública), Televisión Hakka, Televisión de los Pueblos Indígenas, Canal Parlamentario).
 
 Pero detrás de la digitalización está el auge de las plataformas OTT. YouTube, Netflix, Hami Video y otras plataformas de streaming han cambiado los hábitos de visionado de la audiencia. El modelo tradicional de reparto de ingresos por cuotas de suscripción enfrenta desafíos, y los ingresos publicitarios se han contraído.
 
@@ -163,39 +163,39 @@ Si en 2050 alguien quiere saber qué intentó la industria televisiva de Taiwán
 
 ## Referencias
 
-[^1]: [Televisión en Taiwán - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96)
+[^1]: [Televisión en Taiwán - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96) — entrada de Wikipedia
 
-[^2]: [Tres Grandes - Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0)
+[^2]: [Tres Grandes - Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0) — entrada de Wikipedia
 
-[^3]: [Retirada del partido, el gobierno y el ejército de los medios - Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94)
+[^3]: [Retirada del partido, el gobierno y el ejército de los medios - Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94) — entrada de Wikipedia
 
-[^4]: [Historia de la televisión pública - PTS Taiwan](https://about.pts.org.tw/en/?page_id=46)
+[^4]: [Historia de la televisión pública - PTS Taiwan](https://about.pts.org.tw/en/?page_id=46) — Sitio de noticias de PTS
 
 [^5]: [Ley de Televisión Pública (86.º año de la República) - Wikisource](<https://zh.wikisource.org/wiki/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E6%B3%95_(%E6%B0%91%E5%9C%8B86%E5%B9%B4)>)
 
-[^6]: [Historia de la televisión pública - PTS Taiwan](https://about.pts.org.tw/en/?page_id=42)
+[^6]: [Historia de la televisión pública - PTS Taiwan](https://about.pts.org.tw/en/?page_id=42) — Sitio de noticias de PTS
 
-[^7]: [Informe anual de la televisión pública 2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf)
+[^7]: [Informe anual de la televisión pública 2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf) — Sitio de noticias de PTS
 
-[^8]: [Entrevista en profundidad con Wang Xiaodi, serie "Un solo plano", Espejo Semanal (鏡週刊 Mirror Media)](http://mirrormedia.mg/story/20171002pol001)
+[^8]: [Espejo Semanal (鏡週刊 Mirror Media)](http://mirrormedia.mg/story/20171002pol001) — Entrevista en profundidad con Wang Xiaodi, serie "Un solo plano"
 
-[^9]: [Entrevista en profundidad: "Hacer televisión es un movimiento social", Espejo Semanal (鏡週刊 Mirror Media)](http://mirrormedia.mg/story/20171002pol003)
+[^9]: [Espejo Semanal (鏡週刊 Mirror Media)](http://mirrormedia.mg/story/20171002pol003) — Entrevista en profundidad: "Hacer televisión es un movimiento social"
 
-[^10]: [Qseries (植劇場) - Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4)
+[^10]: [Qseries (植劇場) - Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4) — entrada de Wikipedia
 
-[^11]: [Qseries - Sitio web oficial de TTV](https://www.ttv.com.tw/drama16/Qseries/default.asp)
+[^11]: [Qseries - Sitio web oficial de TTV](https://www.ttv.com.tw/drama16/Qseries/default.asp) — ver texto del enlace original
 
-[^12]: [Ranking de series taiwanesas 2016: comienzan a verse las posibilidades de una floración diversa](http://punchline.asia/archives/37962)
+[^12]: [Ranking de series taiwanesas 2016: comienzan a verse las posibilidades de una floración diversa](http://punchline.asia/archives/37962) — ver texto del enlace original
 
-[^13]: [Entrevista con Wang Xiaodi: "Hacer televisión es un movimiento social", Noticias TVBS](http://news.tvbs.com.tw/entertainment/781371)
+[^13]: [Noticias TVBS](http://news.tvbs.com.tw/entertainment/781371) — Entrevista con Wang Xiaodi: "Hacer televisión es un movimiento social"
 
-[^14]: [Estadísticas de la industria de contenido cultural 2021, Ministerio de Cultura](https://www.ccpa.org.tw/article.php?block=2&id=2005)
+[^14]: [Estadísticas de la industria de contenido cultural 2021, Ministerio de Cultura](https://www.ccpa.org.tw/article.php?block=2&id=2005) — ver texto del enlace original
 
-[^15]: [Análisis del valor de producción de la industria televisiva de Taiwán](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf)
+[^15]: [Análisis del valor de producción de la industria televisiva de Taiwán](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf) — ver texto del enlace original
 
-[^16]: [Historia de los medios de Taiwán - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2)
+[^16]: [Historia de los medios de Taiwán - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — entrada de Wikipedia
 
-[^17]: [La mano detrás de Qseries: entrevista con Wang Xiaodi, Womany](https://womany.net/articles/11381/)
+[^17]: [Womany](https://womany.net/articles/11381/) — La mano detrás de Qseries: entrevista con Wang Xiaodi
 
 ---
 

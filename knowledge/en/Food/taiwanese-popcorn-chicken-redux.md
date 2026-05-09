@@ -10,10 +10,10 @@ featured: false
 lastVerified: 2026-04-01
 lastHumanReview: true
 translatedFrom: 'Food/台灣鹽酥雞.md'
-sourceCommitSha: '0851f334'
-sourceContentHash: 'sha256:22bd81d6708d2643'
-sourceBodyHash: 'sha256:cd050ebd6ec05b35'
-translatedAt: '2026-05-01T14:11:02+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:25b7970725befa60'
+sourceBodyHash: 'sha256:19321f0a09e11670'
+translatedAt: '2026-05-09T06:28:04Z'
 ---
 
 > **30-Second Overview:** 鹽酥雞 (yán sū jī — Taiwanese popcorn chicken) is Taiwan's most representative deep-fried street snack. In 1975, Chen Ting-chih set up the first stall in Taipei's Ximending, using a special marinade on chicken chunks, tossing them with pepper salt and Thai basil — an instant hit.[^1] Fifty years later, 鹽酥雞 carts are scattered at every corner, night market, and residential lane across the island. CNN has twice selected it for "foods Taiwan cannot live without,"[^2] but its most distinctive quality is not the flavor — it is its existence as a form of "late-night infrastructure": no storefront, no sign, just a cart, a wok of oil, and a handful of Thai basil is all it takes to open for business.
@@ -74,22 +74,22 @@ Fifty years ago, Chen Ting-chih probably could not have imagined that the roadsi
 
 ## References
 
-[^1]: [正宗第一家鹽酥雞之父陳廷智——理財週刊](https://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800) (2013)
+[^1]: [正宗第一家鹽酥雞之父陳廷智——理財週刊](https://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800) — (2013)
 
-[^2]: [Taiwan's 40 best foods and drinks — CNN Travel](http://www.cnn.com/travel/article/40-taiwan-food/index.html) (2015)
+[^2]: [Taiwan's 40 best foods and drinks — CNN Travel](http://www.cnn.com/travel/article/40-taiwan-food/index.html) — (2015)
 
-[^3]: [鹽酥雞之父西門町起家 免費加盟限用「台灣第一家」調味粉——三立新聞](https://www.setn.com/News.aspx?NewsID=72928) (2015)
+[^3]: [鹽酥雞之父西門町起家 免費加盟限用「台灣第一家」調味粉——三立新聞](https://www.setn.com/News.aspx?NewsID=72928) — (2015)
 
-[^4]: [創意爆炸的台灣炸物！鹽酥雞和雞排是誰發明的？——上報](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=108758) (2021)
+[^4]: [創意爆炸的台灣炸物！鹽酥雞和雞排是誰發明的？——上報](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=108758) — (2021)
 
-[^5]: [「鹽」酥雞還是「鹹」酥雞？內行自信神回 正解跌破眼鏡——NOWnews](https://www.nownews.com/news/5769646) (2022)
+[^5]: [「鹽」酥雞還是「鹹」酥雞？內行自信神回 正解跌破眼鏡——NOWnews](https://www.nownews.com/news/5769646) — (2022)
 
-[^6]: [鹹酥雞——維基百科](https://zh.wikipedia.org/zh-tw/%E9%B9%B9%E9%85%A5%E9%9B%9E)
+[^6]: [鹹酥雞——維基百科](https://zh.wikipedia.org/zh-tw/%E9%B9%B9%E9%85%A5%E9%9B%9E) — Wikipedia entry
 
-[^7]: [台灣鹽酥雞傳奇！他年收 1.5 億——中時新聞網](https://www.chinatimes.com/realtimenews/20241011001135-260405) (2024)
+[^7]: [台灣鹽酥雞傳奇！他年收 1.5 億——中時新聞網](https://www.chinatimes.com/realtimenews/20241011001135-260405) — (2024)
 
-[^8]: [不只回鍋油恐怖！專家揭「3 原因」鹽酥雞＝健康殺手——ETtoday](https://health.ettoday.net/news/1519768) (2019)
+[^8]: [不只回鍋油恐怖！專家揭「3 原因」鹽酥雞＝健康殺手——ETtoday](https://health.ettoday.net/news/1519768) — (2019)
 
-[^9]: [General Tso's chicken to bento bowls: A food guide to Taiwan politics — BBC](https://www.bbc.com/news/world-asia-67874131) (2024)
+[^9]: [General Tso's chicken to bento bowls: A food guide to Taiwan politics — BBC](https://www.bbc.com/news/world-asia-67874131) — (2024)
 
-[^10]: [RECIPE: Taiwanese Popcorn Chicken — The News Lens International Edition](https://international.thenewslens.com/article/61547)
+[^10]: [RECIPE: Taiwanese Popcorn Chicken — The News Lens International Edition](https://international.thenewslens.com/article/61547) — Supplementary information at the original link

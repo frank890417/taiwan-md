@@ -21,10 +21,10 @@ category: 'Society'
 lastVerified: 2026-04-25
 lastHumanReview: false
 translatedFrom: Society/台灣有哪些動物園.md
-sourceCommitSha: eb1ea071
-sourceContentHash: sha256:11766ba8870a1b0b
-sourceBodyHash: 'sha256:11854debbf35b879'
-translatedAt: 2026-05-01T20:54:10+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:a558fb79ea3bf17b'
+sourceBodyHash: 'sha256:6dee4b17705f8ffa'
+translatedAt: '2026-05-09T06:27:06Z'
 ---
 
 # 대만에는 어떤 동물원이 있나: 가장 오래된 곳은 무자가 아니고, 가장 큰 곳도 단순한 동물원이 아니다

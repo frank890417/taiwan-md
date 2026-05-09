@@ -20,10 +20,10 @@ readingTime: 18
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'People/陳水扁.md'
-sourceCommitSha: 'dc87c2a6'
-sourceContentHash: 'sha256:e2baea53b57c2d58'
-sourceBodyHash: 'sha256:1ba6a66e675cd161'
-translatedAt: '2026-05-02T14:15:00+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:b62d59ba90fc21c6'
+sourceBodyHash: 'sha256:7cb7fa1cf359eb04'
+translatedAt: '2026-05-09T06:27:14Z'
 ---
 
 # Chen Shui-bian
@@ -47,13 +47,13 @@ In late 1979, the Formosa Incident shook the entire island. Non-partisan movemen
 
 Chen Shui-bian was 29 years old that year, already a lawyer with a good reputation. When defense lawyer Chang Te-ming approached him, asking if he was willing to join the defense team to represent Huang Hsin-chieh, he clearly understood what this meant: standing up for "political prisoners" under martial law rule meant betting his career and safety.
 
-He chose to join. This decision transformed him from a legal professional to a political figure, and in the subsequent circle of defense lawyers, he met [[Hsieh Chang-ting]] and [[Su Tseng-chang]]—who later became important figures in the democratic movement. Among the 15 lawyers in the defense team at the time, he was not the only core member, but this shared experience pushed him completely from a "maritime lawyer" into the non-partisan movement.
+He chose to join. This decision transformed him from a legal professional to a political figure, and in the subsequent circle of defense lawyers, he met Hsieh Chang-ting and [[Su Tseng-chang]]—who later became important figures in the democratic movement. Among the 15 lawyers in the defense team at the time, he was not the only core member, but this shared experience pushed him completely from a "maritime lawyer" into the non-partisan movement.
 
-In 1981, Chen Shui-bian was elected as a Taipei City Councilor with the highest number of votes, making his debut. In 1986, he became a founding member of the [[Democratic Progressive Party]].
+In 1981, Chen Shui-bian was elected as a Taipei City Councilor with the highest number of votes, making his debut. In 1986, he became a founding member of the Democratic Progressive Party.
 
 ## Mayor of Taipei: Turning Government Offices into Service Halls
 
-In December 1994, Chen Shui-bian defeated the last appointed KMT Mayor, [[Huang Ta-chou]], in the first direct election for Mayor of Taipei with 615,090 votes (43.67% of the vote), becoming the first directly elected Mayor of Taipei in history and the first DPP mayor. [^2]
+In December 1994, Chen Shui-bian defeated the last appointed KMT Mayor, Huang Ta-chou, in the first direct election for Mayor of Taipei with 615,090 votes (43.67% of the vote), becoming the first directly elected Mayor of Taipei in history and the first DPP mayor. [^2]
 
 He served for four years. His most concrete legacy was not hardware, but the destructive reshaping of "civil service culture."
 
@@ -199,14 +199,14 @@ In that year, Taiwanese people first knew that this was true.
 
 ## Further Reading
 
-- [[Su Tseng-chang]] — Formosa Incident trial defense team partner, later Premier
-- [[Hsieh Chang-ting]] — Formosa Incident trial defense team partner, later Premier
-- [[Liu Hsiu-lien]] — Vice President 2000 / 2004
-- [[Shih Ming-teh]] — Main figure in the Formosa Incident, later DPP Chairman, initiator of the 2006 Anti-Bian movement
-- [[Ma Ying-jeou]] — Defeated Chen Shui-bian to become Mayor of Taipei in 1998, succeeded as President in 2008
-- [[Formosa Incident]] — The 1979 trial spawned a new generation of politicians
-- [[Democratic Progressive Party]] — Founding member, first ruling party President
-- [[Taiwan Democratization Process]] — Party rotation as a key node in democratic consolidation
+- Su Tseng-chang — Formosa Incident trial defense team partner, later Premier
+- Hsieh Chang-ting — Formosa Incident trial defense team partner, later Premier
+- Liu Hsiu-lien — Vice President 2000 / 2004
+- Shih Ming-teh — Main figure in the Formosa Incident, later DPP Chairman, initiator of the 2006 Anti-Bian movement
+- Ma Ying-jeou — Defeated Chen Shui-bian to become Mayor of Taipei in 1998, succeeded as President in 2008
+- Formosa Incident — The 1979 trial spawned a new generation of politicians
+- Democratic Progressive Party — Founding member, first ruling party President
+- Taiwan Democratization Process — Party rotation as a key node in democratic consolidation
 
 ## References
 

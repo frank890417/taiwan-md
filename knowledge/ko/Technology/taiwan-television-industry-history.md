@@ -18,10 +18,10 @@ featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
 translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:8a1c3586243b74a9'
-sourceBodyHash: 'sha256:ed795e563186762b'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:60dba661ebede1ab'
+sourceBodyHash: 'sha256:fe2616d81bff1a07'
+translatedAt: '2026-05-09T06:27:06Z'
 ---
 
 > **30초 요약:** 1962년 타이스(台視)가 개국하면서 대만은 TV 시대에 접어들었다. 1998년 공시(公視)가 설립되어 최초의 비상업 공영 미디어가 탄생했다. 2016년 식극장(植劇場)은 시청률 0.5%에 불과했지만, 대만 드라마를 아이돌극과 향토극의 틀에서 벗어나게 했다. "당정군 독점"에서 "부드러운 혁명"까지, 대만 TV 산업의 54년은 누가 이야기를 들려줄 권리를 갖는가에 대한 역사다.

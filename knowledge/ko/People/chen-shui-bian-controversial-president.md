@@ -20,10 +20,10 @@ readingTime: 18
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: People/陳水扁.md
-sourceCommitSha: dc87c2a6
-sourceContentHash: sha256:6f1095e22173ebb5
-sourceBodyHash: 'sha256:1ba6a66e675cd161'
-translatedAt: 2026-05-01T22:19:01+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:b62d59ba90fc21c6'
+sourceBodyHash: 'sha256:7cb7fa1cf359eb04'
+translatedAt: '2026-05-09T06:27:06Z'
 ---
 
 # 천수이볜

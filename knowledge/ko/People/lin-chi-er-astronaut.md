@@ -14,10 +14,10 @@ imageCredit: 'NASA/Bill Stafford'
 imageLicense: 'Public domain (NASA)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg'
 translatedFrom: People/林琪兒.md
-sourceCommitSha: '616cbd07'
-sourceContentHash: 'sha256:1fc5f820aa4a31fd'
-sourceBodyHash: 'sha256:aa4af14eaa7e0735'
-translatedAt: 2026-05-01T20:54:10+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:38e432704206edeb'
+sourceBodyHash: 'sha256:96d6f6c73259912b'
+translatedAt: '2026-05-09T06:27:06Z'
 ---
 
 > **30초 개요:** 얼 엔. 린드그렌(Kjell N. Lindgren)은 1973년 타이베이에서 태어났다. 아버지는 타이중 칭취엔캉(清泉崗)에 주둔한 미 공군 장교였고, 어머니 장추윈(張楚筠)은 우한 출신으로 유년기에 정부를 따라 대만으로 이주했다. 그는 두 살 반에 대만을 떠나 영국과 버지니아에서 유년 시절을 보냈다. 공군사관학교 졸업 후 비행 훈련 중 천식 오진으로 조종사의 길을 잃고 의학의 길로 전향했으며, 11년 후 NASA 건강검진에서 재합격하여 2009년 3,565명 중 제20기 우주비행사로 선발되었다. 그는 우주정거장에서 레드 로메인 상추를 재배하고, 선실 내에서 플라스틱 백파이프를 불어 친구를 추모했으며, 스페이스X 크루-4 "프리덤" 사령관을 맡아 누적 312일 5시간 11분을 궤도에서 체류했다. 2026년 4월, 그는 "프리덤 250"으로 대만을 방문하여 대통령관에서 "나의 NASA 우주비행사 경력은 대만에서 시작되었다"고 말했다.

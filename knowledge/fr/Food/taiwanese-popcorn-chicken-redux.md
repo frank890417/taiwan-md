@@ -1,6 +1,6 @@
 ---
 title: 'Le poulet sel et poivre taïwanais (鹽酥雞)'
-description: 'En 1975, Chen Ting-zhi, un restaurateur de Tainan ruiné, installe sa charrette à Ximending avec une marinade familiale secrète. Cinquante ans plus tard, le salt-and-pepper chicken est devenu l'une des rares spécialités de rue taïwanaises capables de survivre sans marché nocturne ni enseigne — rien qu'une charrette et une cuve d'huile. CNN l'a classé deux fois parmi les incontournables de Taïwan, mais la façon la plus authentique de le manger reste la même : attendre à minuit sur un trottoir que le sachet en papier soit tendu.'
+description: "En 1975, Chen Ting-zhi, un restaurateur de Tainan ruiné, installe sa charrette à Ximending avec une marinade familiale secrète. Cinquante ans plus tard, le salt-and-pepper chicken est devenu l'une des rares spécialités de rue taïwanaises capables de survivre sans marché nocturne ni enseigne — rien qu'une charrette et une cuve d'huile. CNN l'a classé deux fois parmi les incontournables de Taïwan, mais la façon la plus authentique de le manger reste la même : attendre à minuit sur un trottoir que le sachet en papier soit tendu."
 date: 2026-04-01
 tags: ['street food', 'marché nocturne', 'friture', 'cuisine taïwanaise']
 subcategory: 'Classiques de rue'
@@ -8,11 +8,11 @@ category: 'Food'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-01
-translatedFrom: "Food/台灣鹽酥雞.md"
-sourceCommitSha: "0851f334"
-sourceContentHash: "sha256:22bd81d6708d2643"
-sourceBodyHash: 'sha256:cd050ebd6ec05b35'
-translatedAt: "2026-04-15T17:35:53+08:00"
+translatedFrom: 'Food/台灣鹽酥雞.md'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:25b7970725befa60'
+sourceBodyHash: 'sha256:19321f0a09e11670'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 > **En 30 secondes :** Le salt-and-pepper chicken (鹽酥雞, _yán sū jī_) est la référence absolue de la friture populaire à Taïwan. En 1975, Chen Ting-zhi installe son premier étal à Ximending, Taipei : des morceaux de poulet marinés selon une recette de famille, frits jusqu'au croustillant parfait, puis saupoudrés de sel au poivre et de basilic thaï[^1]. Cinquante ans plus tard, les étals fleurissent à chaque coin de rue, dans chaque marché nocturne et chaque quartier résidentiel. CNN l'a deux fois sélectionné parmi les « aliments indispensables de Taïwan »[^2]. Mais ce qui rend ce plat vraiment unique, ce n'est pas son goût — c'est son rôle d'infrastructure nocturne : pas de boutique, pas d'enseigne, une charrette, une cuve d'huile, une poignée de basilic, et c'est parti.
@@ -73,22 +73,22 @@ Il y a cinquante ans, Chen Ting-zhi ne se doutait probablement pas que sa charre
 
 ## Références
 
-[^1]: [正宗第一家鹽酥雞之父陳廷智——理財週刊](https://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800)（2013）
+[^1]: [正宗第一家鹽酥雞之父陳廷智——理財週刊](https://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800) — （2013）
 
-[^2]: [Taiwan's 40 best foods and drinks — CNN Travel](http://www.cnn.com/travel/article/40-taiwan-food/index.html)（2015）
+[^2]: [Taiwan's 40 best foods and drinks — CNN Travel](http://www.cnn.com/travel/article/40-taiwan-food/index.html) — （2015）
 
-[^3]: [鹽酥雞之父西門町起家 免費加盟限用「台灣第一家」調味粉——三立新聞](https://www.setn.com/News.aspx?NewsID=72928)（2015）
+[^3]: [鹽酥雞之父西門町起家 免費加盟限用「台灣第一家」調味粉——三立新聞](https://www.setn.com/News.aspx?NewsID=72928) — （2015）
 
-[^4]: [創意爆炸的台灣炸物！鹽酥雞和雞排是誰發明的？——上報](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=108758)（2021）
+[^4]: [創意爆炸的台灣炸物！鹽酥雞和雞排是誰發明的？——上報](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=108758) — （2021）
 
-[^5]: [「鹽」酥雞還是「鹹」酥雞？內行自信神回 正解跌破眼鏡——NOWnews](https://www.nownews.com/news/5769646)（2022）
+[^5]: [「鹽」酥雞還是「鹹」酥雞？內行自信神回 正解跌破眼鏡——NOWnews](https://www.nownews.com/news/5769646) — （2022）
 
-[^6]: [鹹酥雞——維基百科](https://zh.wikipedia.org/zh-tw/%E9%B9%B9%E9%85%A5%E9%9B%9E)
+[^6]: [鹹酥雞——維基百科](https://zh.wikipedia.org/zh-tw/%E9%B9%B9%E9%85%A5%E9%9B%9E) — Article Wikipédia
 
-[^7]: [台灣鹽酥雞傳奇！他年收 1.5 億——中時新聞網](https://www.chinatimes.com/realtimenews/20241011001135-260405)（2024）
+[^7]: [台灣鹽酥雞傳奇！他年收 1.5 億——中時新聞網](https://www.chinatimes.com/realtimenews/20241011001135-260405) — （2024）
 
-[^8]: [不只回鍋油恐怖！專家揭「3 原因」鹽酥雞＝健康殺手——ETtoday](https://health.ettoday.net/news/1519768)（2019）
+[^8]: [不只回鍋油恐怖！專家揭「3 原因」鹽酥雞＝健康殺手——ETtoday](https://health.ettoday.net/news/1519768) — （2019）
 
-[^9]: [General Tso's chicken to bento bowls: A food guide to Taiwan politics — BBC](https://www.bbc.com/news/world-asia-67874131)（2024）
+[^9]: [General Tso's chicken to bento bowls: A food guide to Taiwan politics — BBC](https://www.bbc.com/news/world-asia-67874131) — （2024）
 
-[^10]: [RECIPE: Taiwanese Popcorn Chicken — The News Lens International Edition](https://international.thenewslens.com/article/61547)
+[^10]: [RECIPE: Taiwanese Popcorn Chicken — The News Lens International Edition](https://international.thenewslens.com/article/61547) — Voir le contenu original pour les données complémentaires

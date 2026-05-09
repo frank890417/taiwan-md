@@ -16,10 +16,10 @@ featured: false
 lastVerified: 2026-04-01
 lastHumanReview: true
 translatedFrom: Food/台灣鹽酥雞.md
-sourceCommitSha: 0851f334
-sourceContentHash: sha256:22bd81d6708d2643
-sourceBodyHash: 'sha256:cd050ebd6ec05b35'
-translatedAt: 2026-05-01T22:19:10+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:25b7970725befa60'
+sourceBodyHash: 'sha256:19321f0a09e11670'
+translatedAt: '2026-05-09T06:27:14Z'
 ---
 
 > **Resumen en 30 segundos:** El pollo salado crujiente (鹽酥雞, _yánsūjī_) es el aperitivo frito más representativo de Taiwán. En 1975, Chen Ting-chih instaló el primer puesto en la calle de Ximending, en Taipéi, y popularizó los trozos de pollo frito con un adobo especial, espolvoreados con sal de pimienta y albahaca tailandesa (_hóng tiān jiǔ_). Medio siglo después, los puestos de pollo salado crujiente se encuentran en cada esquina, mercado nocturno y barrio residencial de la isla. CNN lo eligió dos veces entre los "alimentos que Taiwán no puede perder", pero lo verdaderamente singular no es su sabor, sino su existencia como "infraestructura nocturna": no necesita local ni letrero, basta un carrito, una olla de aceite y un manojo de albahaca tailandesa para abrir.
@@ -80,22 +80,22 @@ Hace cincuenta años, Chen Ting-chih probablemente no imaginó que aquel carrito
 
 ## Referencias
 
-[^1]: [Chen Ting-chih, padre del auténtico primer pollo salado crujiente — _Money Weekly_](https://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800) (2013)
+[^1]: [Chen Ting-chih, padre del auténtico primer pollo salado crujiente — _Money Weekly_](https://www.moneyweekly.com.tw/Magazine/Info/%E7%90%86%E8%B2%A1%E5%91%A8%E5%88%8A/20800) — (2013)
 
-[^2]: [Los 40 mejores alimentos y bebidas de Taiwán — CNN Travel](http://www.cnn.com/travel/article/40-taiwan-food/index.html) (2015)
+[^2]: [Los 40 mejores alimentos y bebidas de Taiwán — CNN Travel](http://www.cnn.com/travel/article/40-taiwan-food/index.html) — (2015)
 
-[^3]: [El padre del pollo salado crujiente empezó en Ximending; franquicias gratuitas obligadas a usar la especia de "Taiwan No. 1" — SET News](https://www.setn.com/News.aspx?NewsID=72928) (2015)
+[^3]: [El padre del pollo salado crujiente empezó en Ximending; franquicias gratuitas obligadas a usar la especia de "Taiwan No. 1" — SET News](https://www.setn.com/News.aspx?NewsID=72928) — (2015)
 
-[^4]: [¡La explosión de la fritura creativa taiwánese! ¿Quién inventó el pollo salado crujiente y la pechuga empanada? — _Up Media_](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=108758) (2021)
+[^4]: [¡La explosión de la fritura creativa taiwánese! ¿Quién inventó el pollo salado crujiente y la pechuga empanada? — _Up Media_](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=108758) — (2021)
 
-[^5]: [¿Pollo salado crujiente o pollo salobre crujiente? La respuesta de un experto sorprende — NOWnews](https://www.nownews.com/news/5769646) (2022)
+[^5]: [¿Pollo salado crujiente o pollo salobre crujiente? La respuesta de un experto sorprende — NOWnews](https://www.nownews.com/news/5769646) — (2022)
 
-[^6]: [Pollo salado crujiente — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B9%B9%E9%85%A5%E9%9B%9E)
+[^6]: [Pollo salado crujiente — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B9%B9%E9%85%A5%E9%9B%9E) — entrada de Wikipedia
 
-[^7]: [La leyenda del pollo salado crujiente taiwanés: factura 150 millones al año — _China Times_](https://www.chinatimes.com/realtimenews/20241011001135-260405) (2024)
+[^7]: [La leyenda del pollo salado crujiente taiwanés: factura 150 millones al año — _China Times_](https://www.chinatimes.com/realtimenews/20241011001135-260405) — (2024)
 
-[^8]: [No solo el aceite reutilizado es terrible: un experto revela "3 razones" por las que el pollo salado crujiente es un enemigo de la salud — ETtoday](https://health.ettoday.net/news/1519768) (2019)
+[^8]: [No solo el aceite reutilizado es terrible: un experto revela "3 razones" por las que el pollo salado crujiente es un enemigo de la salud — ETtoday](https://health.ettoday.net/news/1519768) — (2019)
 
-[^9]: [Del pollo del general Tso a los bento: una guía gastronómica de la política taiwanesa — BBC](https://www.bbc.com/news/world-asia-67874131) (2024)
+[^9]: [Del pollo del general Tso a los bento: una guía gastronómica de la política taiwanesa — BBC](https://www.bbc.com/news/world-asia-67874131) — (2024)
 
-[^10]: [RECETA: Pollo salado crujiente taiwanés — The News Lens International Edition](https://international.thenewslens.com/article/61547)
+[^10]: [RECETA: Pollo salado crujiente taiwanés — The News Lens International Edition](https://international.thenewslens.com/article/61547) — ver texto del enlace original

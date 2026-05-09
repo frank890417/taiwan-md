@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'Society/台灣海外僑民與離散社群.md'
-sourceCommitSha: '8951c944'
-sourceContentHash: 'sha256:2eda89d3846fc616'
-sourceBodyHash: 'sha256:00d0a54d5ea80bf7'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:273b605321194083'
+sourceBodyHash: 'sha256:5b0c5e70e93cb4b0'
+translatedAt: '2026-05-09T06:27:14Z'
 ---
 
 > **Panorama en 30 segundos:** Se estima que aproximadamente dos millones de ciudadanos taiwaneses viven dispersos por el extranjero, repartidos entre Estados Unidos, el sudeste asiático, Europa y Japón. Lo particular de este grupo es que Taiwán aún no cuenta con un sistema de voto no presencial, por lo que, en cada elección general, quien desee votar debe comprar un boleto de avión y regresar a su domicilio electoral. El mapa de esta diáspora abarca desde los exiliados políticos de la década de 1960, la Federación Mundial de Asociaciones de Compatriotas Taiwaneses fundada en Viena en 1974, hasta la organización de base de cabildeo FAPA gestada en Los Ángeles en 1982, superpuesta con el retorno de conocimiento de los ingenieros de Silicon Valley y la confusión identitaria de la segunda generación, conformando en conjunto una capa oculta de la historia democrática de Taiwán.

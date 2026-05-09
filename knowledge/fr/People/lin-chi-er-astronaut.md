@@ -21,10 +21,10 @@ imageCredit: 'NASA/Bill Stafford'
 imageLicense: 'Public domain (NASA)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg'
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '616cbd07'
-sourceContentHash: 'sha256:1fc5f820aa4a31fd'
-sourceBodyHash: 'sha256:aa4af14eaa7e0735'
-translatedAt: '2026-05-01T22:19:06+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:38e432704206edeb'
+sourceBodyHash: 'sha256:96d6f6c73259912b'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 > **En 30 secondes :** Kjell N. Lindgren est né à Taipei en 1973. Son père était un officier de l'US Air Force stationné à Ching Chuan Kang (Taichung), et sa mère, Zhang Chuyun, d'origine Wuhan, avait déménagé à Taïwan avec le gouvernement dans son enfance. Il a quitté Taïwan à deux ans et demi, passant son enfance en Angleterre et en Virginie. Après son diplôme de l'Air Force Academy, un diagnostic erroné d'asthme lors de l'entraînement en vol a brisé son rêve de pilote. Il s'est alors tourné vers la médecine. Onze ans plus tard, un examen médical à la NASA a invalidé le diagnostic, et en 2009, il a été sélectionné parmi 3 565 candidats pour la 20e promotion d'astronautes. Il a fait pousser de la laitue romaine rouge dans la Station spatiale internationale (ISS), joué de la cornemuse en plastique en hommage à un ami, et commandé la mission SpaceX Crew-4 « Freedom », cumulant 312 jours 5 heures et 11 minutes en orbite. En avril 2026, il est revenu à Taïwan dans le cadre de « Freedom 250 » et a déclaré au Bureau présidentiel : « Ma carrière d'astronaute à la NASA a commencé à Taïwan. »

@@ -20,10 +20,10 @@ readingTime: 8min
 lastVerified: 2026-04-27
 lastHumanReview: ''
 translatedFrom: Music/農村武裝青年.md
-sourceCommitSha: dac7394c
-sourceContentHash: sha256:eafa380f71d4dfd8
-sourceBodyHash: 'sha256:005f7b6627af79d8'
-translatedAt: 2026-05-01T22:19:06+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:61f3e48a075a45a9'
+sourceBodyHash: 'sha256:8a72ef4e738ab17c'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 # Ruraux en armes
@@ -118,7 +118,7 @@ La réponse qu'Ada a trouvée, il l'a appelée _Gēn_ (Racines).
 
 [^2]: [Wikipedia 農村武裝青年](https://zh.wikipedia.org/zh-hant/%E8%BE%B2%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4) — Composition du groupe, instrumentation, liste des six albums
 
-[^3]: [上下游新聞〈農村武裝青年:我看見土地，也一起生活〉](https://www.newsmarket.com.tw/blog/2434/) — Ada parle de musique, de rock et de terre
+[^3]: [上下游新聞〈農村武裝青年：我看見土地，也一起生活〉](https://www.newsmarket.com.tw/blog/2434/) — Ada parle de musique, de rock et de terre
 
 [^4]: [鏡新聞：街頭抗爭到扎根社區 農村武裝青年唱土地的歌](https://tw.news.yahoo.com/%E8%A1%97%E9%A0%AD%E6%8A%97%E7%88%AD%E5%88%B0%E6%89%8E%E6%A0%B9%E7%A4%BE%E5%8D%80-%E8%BE%B2%E6%9D%91%E6%AD%A6%E8%A3%9D%E9%9D%92%E5%B9%B4%E5%94%B1%E5%9C%B0%E5%9C%B0%E7%9A%84%E6%AD%8C-%E9%8F%A1%E6%96%B0%E8%81%9E-032107410.html) — Liste des lieux de contestation où Ruraux en armes s'est produit, incluant Dàpǔ
 

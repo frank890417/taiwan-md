@@ -10,10 +10,10 @@ lastVerified: 2026-04-27
 featured: false
 lastHumanReview: false
 translatedFrom: Lifestyle/尪仔標.md
-sourceCommitSha: 56fa1bf1
-sourceContentHash: sha256:01872081668edbca
-sourceBodyHash: 'sha256:5d92b64086c4d151'
-translatedAt: 2026-05-01T22:19:01+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:ba5e9d32f7d28511'
+sourceBodyHash: 'sha256:cac04e52e2b818d6'
+translatedAt: '2026-05-09T06:27:06Z'
 ---
 
 > **30초 개요:** 1950년대부터 대만의 「왕아표(尪仔標)」는 아이들의 놀이이자 또래 사이 위상의 척도였다——많이 모을수록 쉬는 시간의 학교에서 존재감이 커졌다. 중국 엽자희(葉子戲)에서 유래하고 일본 아동놀이의 영감을 받은 이 카드는 금속에서 플라스틱으로, 그림은 포대희에서 만화로 변화했으며, 다양한 플레이 방식으로 수세대 대만인의 집단적 기억을 담고 있다. 더욱 특별한 것은, 대만에서는 선거 전단마저 아이들이 개조하여 「왕아표」로 만들어 어린이 전장의 이색 무기로 활용했다는 점이다.

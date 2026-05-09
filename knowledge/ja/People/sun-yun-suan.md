@@ -9,10 +9,10 @@ readingTime: 8
 lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: 'People/孫運璿.md'
-sourceCommitSha: '751831b2'
-sourceContentHash: 'sha256:ea8605efaf5f77cb'
-sourceBodyHash: 'sha256:82d911658a60c733'
-translatedAt: '2026-05-01T14:48:26+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:98fbf41bf060069d'
+sourceBodyHash: 'sha256:5edf2339cd607a7e'
+translatedAt: '2026-05-09T06:34:07Z'
 ---
 
 > **30秒概覧：** 台湾の近代化の歴史において、**孫運璿（そんうんせん）**（1913－2006）は避けて通れない名前です。「永遠の行政院長」と称えられ、テクノクラートとしての専門性、廉潔な人格、そして国家が転換期を迎えた重要な局面での果敢な決断力が、その公的イメージを形作っています。戦後の廃墟での電力復旧に始まり、1970年代に半導体産業を推進した先見の明まで、孫運璿の生涯はほぼそのまま、台湾が荒廃から繁栄へと歩んだ創業の歴史です [^1][^2]。

@@ -2,7 +2,7 @@
 title: '台湾テレビ産業史：老三台から植劇場の優しい革命へ'
 description: '1962年のテレビ台湾開局から2016年の植劇場まで、台湾テレビ産業は「党政軍独占」から「公共メディアの台頭」へと54年を歩んできた。広告を売らないプラットフォームは、いかにして誰もが好きな物語を語ったのか。'
 date: 2026-03-31
-tags: ['テレビ', '公視', '植劇場', '老三台', 'メディア改革', '台湾ドラマ']
+tags: ['電視', '公視', '植劇場', '老三台', '媒體改革', '台灣戲劇']
 category: 'Technology'
 subcategory: '影視與メディア'
 author: 'Taiwan.md'
@@ -10,10 +10,10 @@ featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
 translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:8a1c3586243b74a9'
-sourceBodyHash: 'sha256:ed795e563186762b'
-translatedAt: '2026-05-01T18:02:56+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:60dba661ebede1ab'
+sourceBodyHash: 'sha256:fe2616d81bff1a07'
+translatedAt: '2026-05-09T06:34:07Z'
 ---
 
 > **30秒概要：** 1962年にテレビ台湾（TTV）が開局し、台湾はテレビ時代に入った。1998年に公視が設立され、初の非商業公共メディアが誕生した。2016年に植劇場は視聴率0.5%という数字ながら、台湾ドラマをアイドルドラマと郷土ドラマの枠組みから押し出した。「党政軍独占」から「優しい革命」へ——台湾テレビ産業の54年は、誰が物語を語る権利を持つのかという歴史である。
@@ -155,37 +155,37 @@ translatedAt: '2026-05-01T18:02:56+08:00'
 
 ## 参考文献
 
-[^1]: [台湾テレビ - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96)
+[^1]: [台湾テレビ - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96) — 維基百科條目
 
-[^2]: [老三台 - Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0)
+[^2]: [老三台 - Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0) — 維基百科條目
 
-[^3]: [党政軍退出メディア - Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94)
+[^3]: [党政軍退出メディア - Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94) — 維基百科條目
 
-[^4]: [公視歴史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=46)
+[^4]: [公視歴史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=46) — 公視新聞網
 
 [^5]: [公共テレビ法（民国86年） - ウィキソース](<https://zh.wikisource.org/wiki/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E6%B3%95_(%E6%B0%91%E5%9C%8B86%E5%B9%B4)>)
 
-[^6]: [公視歴史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=42)
+[^6]: [公視歴史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=42) — 公視新聞網
 
-[^7]: [公視年報2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf)
+[^7]: [公視年報2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf) — 公視新聞網
 
 [^8]: 【一鏡到底】王小棣インタビューシリーズ、[鏡週刊 Mirror Media](http://mirrormedia.mg/story/20171002pol001)
 
 [^9]: 【一鏡到底】テレビを撮ることは社会運動である、[鏡週刊 Mirror Media](http://mirrormedia.mg/story/20171002pol003)
 
-[^10]: [植劇場 - Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4)
+[^10]: [植劇場 - Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4) — 維基百科條目
 
-[^11]: [植劇場 - テレビ台湾公式サイト](https://www.ttv.com.tw/drama16/Qseries/default.asp)
+[^11]: [植劇場 - テレビ台湾公式サイト](https://www.ttv.com.tw/drama16/Qseries/default.asp) — 詳見原始連結內文資料補充
 
-[^12]: [2016年度台湾ドラマランキング：百花斉放の可能性が見え始めた](http://punchline.asia/archives/37962)
+[^12]: [2016年度台湾ドラマランキング：百花斉放の可能性が見え始めた](http://punchline.asia/archives/37962) — 詳見原始連結內文資料補充
 
 [^13]: 王小棣インタビュー／テレビを撮ることは社会運動である、[TVBS 新聞網](http://news.tvbs.com.tw/entertainment/781371)
 
-[^14]: [文化部2021年文化コンテンツ産業統計](https://www.ccpa.org.tw/article.php?block=2&id=2005)
+[^14]: [文化部2021年文化コンテンツ産業統計](https://www.ccpa.org.tw/article.php?block=2&id=2005) — 詳見原始連結內文資料補充
 
-[^15]: [台湾テレビ産業生産額分析](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf)
+[^15]: [台湾テレビ産業生産額分析](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf) — 詳見原始連結內文資料補充
 
-[^16]: [台湾メディア史 - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2)
+[^16]: [台湾メディア史 - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — 維基百科條目
 
 [^17]: 植劇場の裏方！王小棣インタビュー、[女人迷 Womany](https://womany.net/articles/11381/)
 

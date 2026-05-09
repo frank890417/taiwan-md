@@ -11,10 +11,10 @@ lastVerified: 2026-04-27
 lastHumanReview: false
 featured: false
 translatedFrom: Lifestyle/尪仔標.md
-sourceCommitSha: 56fa1bf1
-sourceContentHash: sha256:01872081668edbca
-sourceBodyHash: 'sha256:5d92b64086c4d151'
-translatedAt: 2026-05-01T22:19:06+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:ba5e9d32f7d28511'
+sourceBodyHash: 'sha256:cac04e52e2b818d6'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 > **En bref (30 secondes) :** À partir des années 1950, le « wang-a-piau » (petites cartes de jeu rondes) était bien plus qu'un simple jeu d'enfant à Taïwan — c'était un marqueur de statut entre pairs. Plus on en collectionnait, plus on pesait dans la cour de récréation. Hérité des jeux de cartes chinois anciens (yèzi xì) et inspiré des jeux d'enfants japonais, ces cartes, d'abord en métal puis en plastique, ont arboré des motifs allant des marionnettes en sac aux personnages de mangas, avec des règles de jeu variées, portant la mémoire collective de plusieurs générations taïwanaises. Fait singulier : à Taïwan, même les tracts électoraux étaient recyclés par les enfants en wang-a-piau, devenant des armes insolites sur les champs de bataille de l'enfance.

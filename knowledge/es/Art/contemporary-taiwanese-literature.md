@@ -11,10 +11,10 @@ lastVerified: 2026-04-27
 lastHumanReview: false
 featured: false
 translatedFrom: Art/當代台灣文學.md
-sourceCommitSha: 31272c2c
-sourceContentHash: sha256:a65b1a4010a5ecce
-sourceBodyHash: 'sha256:e321c808a017c0fd'
-translatedAt: 2026-05-01T22:19:10+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:35da98a88d3eacf8'
+sourceBodyHash: 'sha256:5baed6f05d6d9ed8'
+translatedAt: '2026-05-09T06:27:14Z'
 ---
 
 # Literatura taiwanesa contemporánea: Wu Ming-yi, Lin Yi-han y una crisis silenciosa de la lectura
@@ -130,7 +130,7 @@ Chen Si-hong escribe en chino desde Berlín sobre Yongjing, Changhua; Wu Ming-yi
 
 [^7]: Enmienda a la _Regulación de Gestión de Academias de Apoyo_ («cláusula contra profesores depredadores»), aprobada en tercera lectura por el Yuan Legislativo el 26 de mayo de 2017
 
-[^8]: Lin Yi-han, _Fang Si-chi's First Love Paradise_, publicado por Youji (Guerrilla Culture) el 7 de febrero de 2017, con ventas superiores a 300 000 ejemplares. Véase: [Para las Fang Si-chi de este mundo](https://www.biosmonthly.com/article/11494) — Bios Monthly
+[^8]: [Para las Fang Si-chi de este mundo](https://www.biosmonthly.com/article/11494) — Lin Yi-han, _Fang Si-chi's First Love Paradise_, publicado por Youji (Guerrilla Culture) el 7 de febrero de 2017, con ventas superiores a 300 000 ejemplares. Bios Monthly
 
 [^9]: Huang Li-chun, _The Room by the Sea_, publicado el 16 de enero de 2012 (colección de 13 relatos cortos); en cinco años acumuló premios del China Times Literary Award, United Daily News Literary Award (Premio del Jurado + Primer Premio) y Rong San Lin Literary Award
 

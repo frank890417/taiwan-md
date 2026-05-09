@@ -13,17 +13,17 @@ tags:
     '移行期正義',
     '両岸関係',
   ]
-category: People
 subcategory: '政治と民主主義'
 author: 'Taiwan.md Translation Team'
-readingTime: 18
 lastVerified: 2026-04-29
 lastHumanReview: false
+featured: false
+readingTime: 18
 translatedFrom: 'People/陳水扁.md'
-sourceCommitSha: 'dc87c2a6'
-sourceContentHash: 'sha256:6f1095e22173ebb5'
-sourceBodyHash: 'sha256:1ba6a66e675cd161'
-translatedAt: '2026-05-01T14:48:26+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:b62d59ba90fc21c6'
+sourceBodyHash: 'sha256:7cb7fa1cf359eb04'
+translatedAt: '2026-05-09T06:34:07Z'
 ---
 
 # 陳水扁（チェン・シュイビャン）
@@ -209,7 +209,7 @@ translatedAt: '2026-05-01T14:48:26+08:00'
 
 ## 参考資料
 
-[^1]: [総統府歴代総統資料——陳水扁](https://www.president.gov.tw/AboutThePresident/Presidents) — 公式伝記資料。
+[^1]: [総統府歴代総統資料——陳水扁](https://www.president.gov.tw/AboutThePresident/Presidents) — 公式伝記資料。：詳見原始連結內文
 
 [^2]: [中央選挙委員会——過去の選挙データベース](https://web.cec.gov.tw/central) — 1994年台北市長選挙の得票結果。
 

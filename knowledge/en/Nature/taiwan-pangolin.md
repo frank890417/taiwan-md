@@ -17,12 +17,12 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: Nature/台灣穿山甲.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:a5b003502d2f617c
-sourceBodyHash: 'sha256:842dfe18f6392e3e'
-translatedAt: 2026-05-01T20:54:09+08:00
-category: Nature
+translatedFrom: 'Nature/台灣穿山甲.md'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:914838b22341fc06'
+sourceBodyHash: 'sha256:b24e803d4a1ad56c'
+translatedAt: '2026-05-09T06:28:04Z'
+category: 'Nature'
 ---
 
 # Taiwan Pangolin

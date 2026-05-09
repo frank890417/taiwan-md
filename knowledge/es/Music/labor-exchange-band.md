@@ -21,10 +21,10 @@ readingTime: 8min
 lastVerified: 2026-04-27
 lastHumanReview: false
 translatedFrom: Music/交工樂隊.md
-sourceCommitSha: 1e9b2ffb
-sourceContentHash: sha256:04619d86707f3bb4
-sourceBodyHash: 'sha256:f533cc54ee657769'
-translatedAt: 2026-05-02T02:50:57+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:912e5f2bd004672b'
+sourceBodyHash: 'sha256:f78b7564231803ab'
+translatedAt: '2026-05-09T06:27:14Z'
 ---
 
 # Banda Labor Exchange

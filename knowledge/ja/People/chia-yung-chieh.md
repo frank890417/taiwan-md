@@ -1,8 +1,18 @@
 ---
-title: "Janet Chia: The Taiwanese Experiment of Converting Celebrity Social Capital into Public Mobilization Power, Again and Again"
+title: 'Janet Chia: The Taiwanese Experiment of Converting Celebrity Social Capital into Public Mobilization Power, Again and Again'
 description: "From her debut in the 2000 CTV 8 PM drama, to raising NT$68.04 million in two days in 2021 to secure 252 HFNC units for frontline hospitals, to becoming the 6th Chairman of Taipei 101 in 2024, and finally on January 25, 2026, enabling Alex Honnold's live-streamed free solo climb of the 508-meter Taipei 101—Janet Chia has forged a path with no precedent in Taiwan: repeatedly converting celebrity social capital into public mobilization power. Each step forward is accompanied by an equal amount of skepticism, answered only by the next larger mobilization."
 date: 2026-05-02
-tags: ['Janet Chia', 'Taipei 101', 'HFNC', 'Public Share Governance', 'Taiwanese Women', 'Crossover', 'Public Mobilization', 'Alex Honnold']
+tags:
+  [
+    '賈永婕',
+    '台北101',
+    'HFNC',
+    '公股治理',
+    '台灣女性',
+    '跨界',
+    '公共動員',
+    'Alex Honnold',
+  ]
 subcategory: 'Arts, Entertainment and Media'
 author: 'Taiwan.md'
 category: 'People'
@@ -10,9 +20,10 @@ readingTime: 12
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'People/賈永婕.md'
-sourceCommitSha: '616cbd07'
-sourceContentHash: 'sha256:7377b37a99d255f4'
-translatedAt: '2026-05-04T00:11:07+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:75e15983d85e7cbb'
+sourceBodyHash: 'sha256:b066532f1f8eec6b'
+translatedAt: '2026-05-09T06:34:07Z'
 ---
 
 > **30-Second Overview:** Most people only know one version of her: the variety show host of the 2000s, the grassroots mobilizer who raised NT$68.04 million in two days in 2021 to secure HFNC units for frontline hospitals, or the public share governor who became the 6th Chairman of Taipei 101 in 2024. Only by connecting these events do we discover a path with no precedent in Taiwan: using "celebrity social capital" to repeatedly redeem "public mobilization power," and then exchanging that mobilization power for "public share governance seats." Each step forward is accompanied by an equal amount of skepticism (Mother of Cadaver Skin, misuse of public instruments, improper dismissal of employees, superficial and vain, funeral-style exhibition layout). Her response is always the next larger mobilization. From the 2000 CTV 8 PM drama to January 25, 2026, when Alex Honnold free-solo climbed the 508-meter Taipei 101 in a global live stream, this cycle has run for twenty-six years.
@@ -43,9 +54,9 @@ The timing of this clarification was not random—it came after she had sat in t
 
 ## From Anchor to Artist, Classified by the Market
 
-She graduated from the Department of Communication at Coventry University in the UK. In 2000, she debuted in the CTV 8 PM drama *Good Luck and Happiness Every Year* (吉祥如意年年來) playing Xin Lian (心蓮), serving simultaneously as an anchor for CTV's *Morning News* [^4]—she was an anchor first, before the market classified her as an artist.
+She graduated from the Department of Communication at Coventry University in the UK. In 2000, she debuted in the CTV 8 PM drama _Good Luck and Happiness Every Year_ (吉祥如意年年來) playing Xin Lian (心蓮), serving simultaneously as an anchor for CTV's _Morning News_ [^4]—she was an anchor first, before the market classified her as an artist.
 
-Her subsequent hosting credits span Giga Media, CTV, and Formosa TV, with her representative work being Giga Comprehensive TV's *Entertainment Late Call* (娛樂晚點名). [^5] In 2002, she married Wang Chao-chieh (王兆杰), son of Wang Ming-te, Chairman of De杰 Group (德傑集團), and they had two daughters and one son. In 2004, before the industry standard curve of "artists being eliminated by the market at forty," she founded CH Wedding Classic Wedding Dresses at age thirty, shifting gears first. CH Wedding has been operating for over twenty years. [^5][^6]
+Her subsequent hosting credits span Giga Media, CTV, and Formosa TV, with her representative work being Giga Comprehensive TV's _Entertainment Late Call_ (娛樂晚點名). [^5] In 2002, she married Wang Chao-chieh (王兆杰), son of Wang Ming-te, Chairman of De杰 Group (德傑集團), and they had two daughters and one son. In 2004, before the industry standard curve of "artists being eliminated by the market at forty," she founded CH Wedding Classic Wedding Dresses at age thirty, shifting gears first. CH Wedding has been operating for over twenty years. [^5][^6]
 
 The true origin of the title "120% Beauty Girl" (120% 美少女) stems from a phone call Tsai Ing-wen made to her in 2021—this matter must be placed under the HFNC fundraising section to be understood clearly.
 
@@ -88,13 +99,13 @@ On November 19, 2024, Wang Chao-chieh, riding the wave of the World Baseball 12 
 
 On November 27, 2024, Janet Chia went live for two hours to clarify in person, tears falling: the lighting was approved by the Board of Directors; "De杰 Group, Yung-chien United" is the company slogan; the dismissal of the employee was done through communication and agreement, following the Labor Standards Act for severance, and providing severance pay superior to legal requirements. [^17g] She thanked ten enterprises that supported her during the crisis while wiping away tears—this image later became the representative scene of the controversy surrounding her identity as a public share Chairman.
 
-On July 17, 2025, the *G-Dragon Media Exhibition: Übermensch* opened at 101. The layout was chaotic, merchandise sold out, and the on-site decor was described by netizens as resembling a "funeral hall." Janet Chia apologized twice, emphasizing that "the exhibition design was original by Galaxy Corporation and Korean MUT; Taiwan was merely a communication bridge with no final decision-making power." [^17h]
+On July 17, 2025, the _G-Dragon Media Exhibition: Übermensch_ opened at 101. The layout was chaotic, merchandise sold out, and the on-site decor was described by netizens as resembling a "funeral hall." Janet Chia apologized twice, emphasizing that "the exhibition design was original by Galaxy Corporation and Korean MUT; Taiwan was merely a communication bridge with no final decision-making power." [^17h]
 
 These controversies remain on her chronology and should not be overlooked.
 
 ## 9:00 AM on January 25, 2026
 
-American free solo climber Alex Honnold (protagonist of the documentary *Free Solo*, the one who free-solo climbed El Capitan) began climbing the exterior wall of Taipei 101 bare-handed at 9:00 AM on January 25, 2026. This was the live broadcast of Netflix's *[Free Solo Taipei 101: Live](https://www.netflix.com/title/skyscraper-live)*, broadcast simultaneously in 190 countries worldwide. [^15][^15a]
+American free solo climber Alex Honnold (protagonist of the documentary _Free Solo_, the one who free-solo climbed El Capitan) began climbing the exterior wall of Taipei 101 bare-handed at 9:00 AM on January 25, 2026. This was the live broadcast of Netflix's _[Free Solo Taipei 101: Live](https://www.netflix.com/title/skyscraper-live)_, broadcast simultaneously in 190 countries worldwide. [^15][^15a]
 
 This project was greenlit by Janet Chia. Originally scheduled for January 24, it was delayed by one day due to rain. She told the production team beforehand: January 26 (Monday) is the final deadline; if it rains again, the entire event will be canceled. [^16a]
 
@@ -110,7 +121,7 @@ Her conversations with Honnold were also recorded in full. During a test climb i
 
 After Honnold's summit, he personally thanked "Janet (Chia)" and Taipei 101 at the press conference. [^15c] Netflix announced global viewership of 6.2 million people and 12 million hours, ranking third on the Netflix Global English Program Weekly Chart and first on the Taiwan Chart. [^15d]
 
-There are also negative voices. BBC Chinese and *Crossing* (換日線) jointly raised five key questions questioning the "over-performance" and imitation risks of this live stream; *The Guardian* questioned the future of entertainment involving death-risk live streams. [^15e] Some comments pointed out that Honnold's appearance fee was essentially world-class exposure purchased by Taipei 101 using marketing budgets. [^15e] These doubts are the same curve's different nodes as the 2015 cadaver skin, the 2021 HFNC illegal reporting, the 2024 misuse of public instruments, and the 2025 G-Dragon exhibition funeral hall—every large-scale mobilization of public resources triggers the question "Why her?" and her response every time is to mobilize again on a larger scale.
+There are also negative voices. BBC Chinese and _Crossing_ (換日線) jointly raised five key questions questioning the "over-performance" and imitation risks of this live stream; _The Guardian_ questioned the future of entertainment involving death-risk live streams. [^15e] Some comments pointed out that Honnold's appearance fee was essentially world-class exposure purchased by Taipei 101 using marketing budgets. [^15e] These doubts are the same curve's different nodes as the 2015 cadaver skin, the 2021 HFNC illegal reporting, the 2024 misuse of public instruments, and the 2025 G-Dragon exhibition funeral hall—every large-scale mobilization of public resources triggers the question "Why her?" and her response every time is to mobilize again on a larger scale.
 
 In February 2023, she was reported to have been privately consulted by Lai Ching-te about his vice-presidential candidacy, which she directly denied: "It's too funny, I'm sitting at home and this news falls on my head. I don't want to run." [^18] In October 2023, she was pictured with Lai Ching-te again, leaving comments like "I think they match well"; [^17i] a year and a half later, she took charge of 101—this is another way of answering the question "whether to run" with a public share governance seat.
 
@@ -139,7 +150,7 @@ What is truly worth remembering is perhaps that hour early in the morning when s
 
 [^3]: [Janet Chia Takes Over as Taipei 101 Chairman: Second Half of Life, Welcoming New Challenges — BNext](https://www.bnext.com.tw/article/80246/taipei-101-new-queen) — Records her actual name Chia Yung-chien, family background (Chia Te-yao, Chia Te-yun), father Chia Ta-chun as Navy Colonel, and other complete biographical data.
 
-[^4]: [Janet Chia Debuts in 8 PM Drama for the First Time in 2000's *Good Luck and Happiness Every Year* — United Daily News](https://udn.com/news/story/120910/7064939) — Records her 2000 CTV 8 PM drama debut and *Morning News* anchor career.
+[^4]: [Janet Chia Debuts in 8 PM Drama for the First Time in 2000's _Good Luck and Happiness Every Year_ — United Daily News](https://udn.com/news/story/120910/7064939) — Records her 2000 CTV 8 PM drama debut and _Morning News_ anchor career.
 
 [^5]: [Janet Chia's 7 Identity Turns: Reporter, Anchor, Wedding Boss, Triathlon Goddess to 101 Chairman — Marie Claire](https://www.marieclaire.com.tw/entertainment/story/91407/janet-chia) — Complete career timeline, including 2002 marriage and 2004 founding of CH Wedding.
 
@@ -173,7 +184,7 @@ What is truly worth remembering is perhaps that hour early in the morning when s
 
 [^15d]: [How Many People Watched Alex Honnold Climb Taipei 101 Globally? — GVM Magazine](https://www.gvm.com.tw/article/127368) — 2026-01-26, Netflix announces global 6.2M viewership, 12M hours viewing time, ranking third on Netflix Global English Program Weekly Chart, first on Taiwan Chart.
 
-[^15e]: [What Reflections Does Free-Solo Climbing Taipei 101 Stir Up? — BBC News Chinese × Crossing](https://crossing.cw.com.tw/article/20500) — 2026-01-26, BBC Chinese and Crossing jointly raise five key questions questioning the live stream's "over-performance" and imitation risks; *The Guardian* questions the future of entertainment involving death-risk live streams; discussion of commercial exposure nature.
+[^15e]: [What Reflections Does Free-Solo Climbing Taipei 101 Stir Up? — BBC News Chinese × Crossing](https://crossing.cw.com.tw/article/20500) — 2026-01-26, BBC Chinese and Crossing jointly raise five key questions questioning the live stream's "over-performance" and imitation risks; _The Guardian_ questions the future of entertainment involving death-risk live streams; discussion of commercial exposure nature.
 
 [^16]: [Janet Chia Can't Help Complaining "Promised to Slow Down," Honnold Shouts: I Did! — CTWANT](http://www.ctwant.com/article/467768/) — 2026-01-27, Pre-event September 2025 test climb "No, you need to slow down" dialogue, post-event "Didn't you promise to slow down?" "I did!" "My God! 1 minute!" complete verbatim dialogue.
 
@@ -193,7 +204,7 @@ What is truly worth remembering is perhaps that hour early in the morning when s
 
 [^17g]: [Successively Scolded as 101 Chairman! Janet Chia's Long Text Strikes Back, Reveals Inside Story — Liberty Times Entertainment](https://ent.ltn.com.tw/news/breakingnews/4903198) — 2024-11-27 Janet Chia two-hour live broadcast tearfully clarifies dismissal of employee (former Chairman's secretary, severed according to Labor Standards Act and given severance pay superior to legal requirements), Wang Chao-chieh's lighting approved by Board of Directors; former Chairman Song Wen-chi criticizes "superficial and vain" details.
 
-[^17h]: [GD Exhibition Criticized as Like a Funeral Hall! Janet Chia 680-Word Confession "We Have No Final Decision-Making Power" — ETtoday星光雲](https://star.ettoday.net/news/3000812) — 2025-07-18, *G-Dragon Media Exhibition: Übermensch* Taipei 101 opening day layout chaotic, merchandise sold out, decor like "funeral hall" questioning; Janet Chia apologizes twice, emphasizes "Korean original design, Taiwan was merely a communication bridge with no final decision-making power."
+[^17h]: [GD Exhibition Criticized as Like a Funeral Hall! Janet Chia 680-Word Confession "We Have No Final Decision-Making Power" — ETtoday星光雲](https://star.ettoday.net/news/3000812) — 2025-07-18, _G-Dragon Media Exhibition: Übermensch_ Taipei 101 opening day layout chaotic, merchandise sold out, decor like "funeral hall" questioning; Janet Chia apologizes twice, emphasizes "Korean original design, Taiwan was merely a communication bridge with no final decision-making power."
 
 [^17i]: [Is Lai Ching-te's Vice Presidency Possible? Janet Chia Posts Photo Showing Love, Admits: I Think They Match Well — Mirror Media](https://www.mirrormedia.mg/story/20231023edi023) — 2023-10-23, Janet Chia pictured with Lai Ching-te at father-in-law's 80th birthday, full text of "I think they match well" comment.
 

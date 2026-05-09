@@ -1,6 +1,6 @@
 ---
 title: 'Littérature taïwanaise contemporaine : Wu Ming-yi, Lin Yi-han, et une crise silencieuse de la lecture'
-description: "En 2018, Wu Ming-yi a été présélectionné pour le Man Booker International Prize avec *The Stolen Bicycle*, la mention « Taiwan » figurant clairement dans la case nationalité. Mais à la même époque, le tirage initial de la plupart des ouvrages de littérature pure à Taïwan était déjà tombé en dessous de trois mille exemplaires. De la trilogie épique de Shih Shu-ching, couvrant les périodes Qing et japonaise, à Lin Yi-han, dont un seul livre a conduit à une loi contre les enseignants prédateurs — la littérature taïwanaise contemporaine aborde les questions les plus universelles avec les voix les plus locales. Seuls ceux qui l'entendent se font de plus en plus rares."
+description: "En 2018, Wu Ming-yi a été présélectionné pour le Man Booker International Prize avec _The Stolen Bicycle_, la mention « Taiwan » figurant clairement dans la case nationalité. Mais à la même époque, le tirage initial de la plupart des ouvrages de littérature pure à Taïwan était déjà tombé en dessous de trois mille exemplaires. De la trilogie épique de Shih Shu-ching, couvrant les périodes Qing et japonaise, à Lin Yi-han, dont un seul livre a conduit à une loi contre les enseignants prédateurs — la littérature taïwanaise contemporaine aborde les questions les plus universelles avec les voix les plus locales. Seuls ceux qui l'entendent se font de plus en plus rares."
 date: 2026-04-27
 author: 'Taiwan.md'
 category: Art
@@ -17,10 +17,10 @@ lastVerified: 2026-04-27
 lastHumanReview: false
 featured: false
 translatedFrom: Art/當代台灣文學.md
-sourceCommitSha: 31272c2c
-sourceContentHash: sha256:a65b1a4010a5ecce
-sourceBodyHash: 'sha256:e321c808a017c0fd'
-translatedAt: 2026-05-01T20:54:17+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:35da98a88d3eacf8'
+sourceBodyHash: 'sha256:5baed6f05d6d9ed8'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 # Littérature taïwanaise contemporaine : Wu Ming-yi, Lin Yi-han, et une crise silencieuse de la lecture

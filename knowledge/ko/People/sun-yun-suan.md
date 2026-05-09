@@ -10,10 +10,10 @@ readingTime: 8
 lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: People/孫運璿.md
-sourceCommitSha: 751831b2
-sourceContentHash: sha256:ea8605efaf5f77cb
-sourceBodyHash: 'sha256:82d911658a60c733'
-translatedAt: 2026-05-01T22:19:01+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:98fbf41bf060069d'
+sourceBodyHash: 'sha256:5edf2339cd607a7e'
+translatedAt: '2026-05-09T06:27:06Z'
 ---
 
 > **30초 개요:** 대만의 현대화 과정에서 **손윤쉐안**(孫運璿, 1913–2006)은 결코 빼놓을 수 없는 이름이다. 그는 "영원한 총리"라 불리며, 기술 관료의 전문성, 청렴자수(淸廉自守)의 인격, 그리고 국가 전환의 기점에서의 과감한 결단이 하나로 논 공적 이미지를 지닌다. 전후 초기 폐허 속에서 전력 복구에 매진한 것에서 1970년대 반대를 무릅쓰고 반도체 산업을 추진하기까지, 손윤쉐안의 일생은 대만이 황무지에서 번영으로 나아간 창업사라 할 수 있다 [^1][^2].

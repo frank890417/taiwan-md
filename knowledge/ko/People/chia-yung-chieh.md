@@ -20,10 +20,10 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: People/賈永婕.md
-sourceCommitSha: '0b2c2a33'
-sourceContentHash: 'sha256:a92f6a6b22257ffa'
-sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
-translatedAt: 2026-05-03T23:14:06+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:75e15983d85e7cbb'
+sourceBodyHash: 'sha256:b066532f1f8eec6b'
+translatedAt: '2026-05-09T06:27:06Z'
 ---
 
 > **30초 개요:** 대부분의 사람들은 그녀의 한 가지 면만 알고 있다: 2000년대 예능 MC, 2021년 이틀 만에 6,804만 위안을 모금하여 전선 병원에 HFNC를 확보한 민간 동원가, 또는 2024년 타이베이 101 제6대 이사장에 취임한 공공지분 거버넌스 담당자. 이 사건들을 이어 놓으면 대만에 전례가 없는 한 갈래의 길이 보인다: '연예인 사회자본'으로 반복적으로 '공공 동원력'을 환전하고, 동원력을 다시 '공공지분 거버넌스 지위'로 바꾼다. 한 걸음을 내디딜 때마다 동등한 분량의 의문이 뒤따르고(시체 피부의 어머니, 공적 자원 사적 사용, 부당 해고, 허영심과 천박함, 영정 같은 전시 동선), 그녀의 응답은 언제나 다음 번 더 큰 동원이다. 2000년 화시 저녁 드라마에서 출발하여 2026년 1월 25일 알렉스 호놀드가 맨손으로 508미터 타이베이 101을 독등반하는 장면을 전 세계에 생중계하게 하기까지, 이 순환은 이미 26년째 돌아가고 있다.

@@ -1,18 +1,25 @@
 ---
-title: 'Sun Yun-suan : l\'ingénieur-président qui illumina Taïwan depuis les ténèbres'
-description: 'Du miracle de la restauration de l\'électricité en cinq mois dans les ruines de l\'après-guerre à la vision audacieuse du pari sur l\'industrie des semi-conducteurs, Sun Yun-suan a posé les fondations de la modernisation de Taïwan avec le pragmatisme et l\'intégrité d\'un ingénieur.'
+title: "Sun Yun-suan : l'ingénieur-président qui illumina Taïwan depuis les ténèbres"
+description: "Du miracle de la restauration de l'électricité en cinq mois dans les ruines de l'après-guerre à la vision audacieuse du pari sur l'industrie des semi-conducteurs, Sun Yun-suan a posé les fondations de la modernisation de Taïwan avec le pragmatisme et l'intégrité d'un ingénieur."
 date: 2026-04-30
 author: 'Taiwan.md Contributors'
 category: People
-tags: ['Sun Yun-suan', 'Taiwan Power Company', 'Semi-conducteurs', 'ITRI', 'Dix Grands Projets']
+tags:
+  [
+    'Sun Yun-suan',
+    'Taiwan Power Company',
+    'Semi-conducteurs',
+    'ITRI',
+    'Dix Grands Projets',
+  ]
 readingTime: 8
 lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: People/孫運璿.md
-sourceCommitSha: 751831b2
-sourceContentHash: sha256:ea8605efaf5f77cb
-sourceBodyHash: 'sha256:82d911658a60c733'
-translatedAt: 2026-05-02T01:17:16+08:00
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:98fbf41bf060069d'
+sourceBodyHash: 'sha256:5edf2339cd607a7e'
+translatedAt: '2026-05-09T06:31:03Z'
 ---
 
 > **En 30 secondes :** Dans le processus de modernisation de Taïwan, **Sun Yun-suan** (1913-2006) est un nom incontournable. Surnommé « le Premier ministre de toujours », son image publique mêlait la professionnalité d'un technocrate, une intégrité personnelle irréprochable et une détermination audacieuse aux moments charnières de la transition nationale. De la réparation des infrastructures électriques dans les ruines de l'après-guerre à la promotion de l'industrie des semi-conducteurs dans les années 1970 en dépit des oppositions, la vie de Sun Yun-suan constitue presque un récit entrepreneurial de la transformation de Taïwan, de la désolation à la prospérité [^1][^2].

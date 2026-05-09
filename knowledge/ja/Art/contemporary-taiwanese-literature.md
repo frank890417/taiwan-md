@@ -12,10 +12,10 @@ featured: false
 researchReport: 'reports/research/2026-04/当代台湾文学.md'
 readingTime: 10
 translatedFrom: 'Art/當代台灣文學.md'
-sourceCommitSha: '31272c2c'
-sourceContentHash: 'sha256:a65b1a4010a5ecce'
-sourceBodyHash: 'sha256:e321c808a017c0fd'
-translatedAt: '2026-05-01T14:48:26+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:35da98a88d3eacf8'
+sourceBodyHash: 'sha256:5baed6f05d6d9ed8'
+translatedAt: '2026-05-09T06:34:07Z'
 ---
 
 # 当代台湾文学：呉明益（ウー・ミンイー）、林奕含（リン・イーハン）、そして静かな読書危機

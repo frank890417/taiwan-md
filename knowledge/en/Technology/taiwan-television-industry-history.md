@@ -1,9 +1,9 @@
 ---
 translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:8a1c3586243b74a9'
-sourceBodyHash: 'sha256:ed795e563186762b'
-translatedAt: '2026-05-01T15:38:13+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:60dba661ebede1ab'
+sourceBodyHash: 'sha256:fe2616d81bff1a07'
+translatedAt: '2026-05-09T06:28:04Z'
 title: 'Taiwan Television Industry History: From the "Big Three" to the Gentle Revolution of Qseries'
 description: "From TTV's 1962 launch to Qseries in 2016, Taiwan's television industry traveled 54 years from party-government-military monopoly to the rise of public media. How did a platform that runs no ads tell a story everyone loved?"
 date: 2026-03-31
@@ -163,41 +163,41 @@ If someone in 2050 wants to know what Taiwan's television industry once tried to
 
 ## References
 
-[^1]: [Taiwan Television — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96)
+[^1]: [Taiwan Television — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96) — Wikipedia entry
 
-[^2]: [Big Three — Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0)
+[^2]: [Big Three — Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0) — Wikipedia entry
 
-[^3]: [Party-Government-Military Exit Media — Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94)
+[^3]: [Party-Government-Military Exit Media — Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94) — Wikipedia entry
 
-[^4]: [PTS History — PTS Taiwan](https://about.pts.org.tw/en/?page_id=46)
+[^4]: [PTS History — PTS Taiwan](https://about.pts.org.tw/en/?page_id=46) — PTS News
 
-[^5]: [Public Television Act (Republic of China Year 86) — Wikisource](<https://zh.wikisource.org/wiki/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E6%B3%95_(%E6%B0%91%E5%9C%8B86%E5%B9%B4)>)
+[^5]: [Public Television Act (Republic of China Year 86) — Wikisource](<https://zh.wikisource.org/wiki/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E6%B3%95_(%E6%B0%91%E5%9C%8B86%E5%B9%B4)>) — See full content at original link
 
-[^6]: [PTS History — PTS Taiwan](https://about.pts.org.tw/en/?page_id=42)
+[^6]: [PTS History — PTS Taiwan](https://about.pts.org.tw/en/?page_id=42) — PTS News
 
-[^7]: [PTS Annual Report 2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf)
+[^7]: [PTS Annual Report 2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf) — PTS News
 
-[^8]: Wang Shaudi interview series, [Mirror Media](http://mirrormedia.mg/story/20171002pol001)
+[^8]: [Mirror Media](http://mirrormedia.mg/story/20171002pol001) — Wang Shaudi interview series
 
-[^9]: Making television is a form of social movement, [Mirror Media](http://mirrormedia.mg/story/20171002pol003)
+[^9]: [Mirror Media](http://mirrormedia.mg/story/20171002pol003) — Making television is a form of social movement
 
-[^10]: [Qseries — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4)
+[^10]: [Qseries — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4) — Wikipedia entry
 
-[^11]: [Qseries — TTV Official](https://www.ttv.com.tw/drama16/Qseries/default.asp)
+[^11]: [Qseries — TTV Official](https://www.ttv.com.tw/drama16/Qseries/default.asp) — Supplementary information at the original link
 
-[^12]: [2016 Annual Taiwan Drama Rankings: Beginning to See the Possibility of a Hundred Flowers Blooming](http://punchline.asia/archives/37962)
+[^12]: [2016 Annual Taiwan Drama Rankings: Beginning to See the Possibility of a Hundred Flowers Blooming](http://punchline.asia/archives/37962) — Supplementary information at the original link
 
-[^13]: Wang Shaudi interview / Making television is a form of social movement, [TVBS News](http://news.tvbs.com.tw/entertainment/781371)
+[^13]: [TVBS News](http://news.tvbs.com.tw/entertainment/781371) — Wang Shaudi interview / Making television is a form of social movement
 
-[^14]: [Ministry of Culture 2021 Cultural Content Industry Statistics](https://www.ccpa.org.tw/article.php?block=2&id=2005)
+[^14]: [Ministry of Culture 2021 Cultural Content Industry Statistics](https://www.ccpa.org.tw/article.php?block=2&id=2005) — Supplementary information at the original link
 
-[^15]: [Taiwan Television Industry Output Analysis](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf)
+[^15]: [Taiwan Television Industry Output Analysis](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf) — Supplementary information at the original link
 
-[^16]: [Taiwan Media History — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2)
+[^16]: [Taiwan Media History — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — Wikipedia entry
 
-[^17]: [Taiwan Media History — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2)
+[^17]: [Taiwan Media History — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — Wikipedia entry
 
-[^18]: Qseries's behind-the-scenes driver! Interview with Wang Shaudi, [Womany](https://womany.net/articles/11381/)
+[^18]: [Womany](https://womany.net/articles/11381/) — Qseries's behind-the-scenes driver! Interview with Wang Shaudi
 
 ---
 

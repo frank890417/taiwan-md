@@ -10,10 +10,10 @@ lastVerified: 2026-04-27
 featured: false
 lastHumanReview: false
 translatedFrom: 'Lifestyle/尪仔標.md'
-sourceCommitSha: '56fa1bf1'
-sourceContentHash: 'sha256:01872081668edbca'
-sourceBodyHash: 'sha256:5d92b64086c4d151'
-translatedAt: '2026-05-01T14:48:26+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:ba5e9d32f7d28511'
+sourceBodyHash: 'sha256:cac04e52e2b818d6'
+translatedAt: '2026-05-09T06:34:07Z'
 ---
 
 > **30秒概覧：** 1950年代から、台湾の「尪仔標（ワンアビャウ）」は子供たちの手の中のゲームであり、仲間内での地位の物差しでもありました——集める枚数が多いほど、放課後の学校でより存在感がありました。中国の「葉子戲（ようしぎ）」を源流とし、日本の子供のおもちゃから影響を受けたこの紙カードは、金属からプラスチックへ、図案は布袋戲から漫画へと変化し、多彩な遊び方があり、何世代にもわたる台湾人の集合的な記憶を担っています。さらに特別なのは、台湾では選挙チラシさえ子供たちに「尪仔標」へと改造され、子供時代の戦場でのまた別の武器となったことです。

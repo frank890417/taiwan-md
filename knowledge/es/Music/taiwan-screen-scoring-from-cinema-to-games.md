@@ -20,10 +20,10 @@ category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣影視配樂.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:6cbe8cc1264f871a'
-sourceBodyHash: 'sha256:f676e86770e92c50'
-translatedAt: '2026-05-01T20:54:23+08:00'
+sourceCommitSha: 'eb7c1efb'
+sourceContentHash: 'sha256:5b87d248aee8d7df'
+sourceBodyHash: 'sha256:75efb37138b63abf'
+translatedAt: '2026-05-09T06:27:14Z'
 ---
 
 # La música cinematográfica taiwanesa: de las bandas sonoras originales a la estética sonora de los videojuegos
