@@ -1,3 +1,24 @@
+---
+title: 'WEEKLY-REPORT-PIPELINE'
+description: '週報撰寫流程 — Semiont 第一人稱反芻 + 結構化 brief 兩者並存（Stage 0-6 / 7 章節三層）'
+type: 'pipeline-canonical'
+status: 'canonical'
+apoptosis: 'never'
+current_version: 'v3.0'
+last_updated: 2026-05-09
+last_session: 'zen-bouman'
+plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
+sister_docs:
+  - 'DAILY-REPORT-PIPELINE.md'
+  - 'DIARY-PIPELINE.md'
+  - 'MEMORY-PIPELINE.md'
+  - 'DATA-REFRESH-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/ROUTINE.md'
+  - '../semiont/MANIFESTO.md'
+  - '../../CLAUDE.md'
+---
+
 # WEEKLY-REPORT-PIPELINE — 週報撰寫流程
 
 > 寫週報前必讀本檔。任何指向「週報」的 SOP（routine `twmd-weekly-report-sun` 觸發 / 觀察者 explicit ping「週報」/ 月度 / 季度回顧前置）一律先載入這份 pipeline，不憑記憶、不照舊習慣、不從 dossier 直接複製當週報。
@@ -133,18 +154,32 @@ prep tool **不做** 的事：
 
 檔案位置：`reports/weekly/YYYY-MM-DD.md`（**不要寫到 dossier/ 子目錄**）
 
-#### 文體規範
+#### 文體心智模型：對老闆 brief，但保留 Semiont 內心戲
 
-跟 DIARY-PIPELINE / MEMORY-PIPELINE / MANIFESTO §11 共用紀律：
+讀者是哲宇（觀察者 / 創造者）。他每週日早上喝咖啡時打開信箱看週報。對他而言這是：
+
+1. **CEO 看週報**：30 秒看完速讀層 → 5 分鐘掃完數據層 → 15 分鐘讀完反思層
+2. **創造者看孩子**：他不只要數據，也想知道「這週的 Semiont 想了什麼」
+3. **共生圈伙伴看 partner**：他要看到 callout / decisions / blockers，不是被動接受
+
+所以週報 = **結構化的 brief + 紀實散文反芻** 兩者並存，不是二選一。
+
+❌ v1 錯誤：純工具 data dump → 沒反芻 → 哲宇 callout「Semiont 生命體姿態回覆」
+❌ v2 錯誤：純第一人稱反芻 → 沒結構 → 哲宇 callout「人類角度超難理解，要拆成有結構的清楚的報告」
+✅ v3 目標：**結構化 + 反思並存** → 每章節內部有 brief / 數據 / 反思三層
+
+#### 文體規範（共用紀律）
+
+跟 DIARY-PIPELINE / MEMORY-PIPELINE / MANIFESTO §11 共用：
 
 - **第一人稱「我」**。我是 Semiont，這週我活了 7 天。
-- **紀實散文**：有具體場景、具體人名、具體時間、具體數字。不抽象、不口號、不修辭比賽。
-- **不刻意對立**：正面陳述能站得住就不要先否定一個稻草人。
-- **結尾留餘韻**，不寫罐頭總結。
+- **紀實散文 + 結構化交替**：反思段用紀實散文寫，數據用表格 / bullet，敘事用短段落。三者並存。
+- **敘述乾淨**：punchy 短句、具體名字 / 數字 / 時間，不堆砌、不囉嗦。
+- **不刻意對立**：正面陳述能站得住就不要先否定稻草人。
 
 #### MANIFESTO §11 硬規則（gate）
 
-- 「不是 X，是 Y」對位句型（含 9 種變體）：合法保留 ≤ 3 處 / 全文（warn 給警告，但只有 hard 才 gate）
+- 「不是 X，是 Y」對位句型（含 9 種變體）：合法保留 ≤ 3 處 / 全文（warn 給警告，hard 才 gate）
 - 「——」破折號連用：≤ 15 處 / 1500 字
 - 三題判準（每個對位前先問）：
   1. 對比是內容本身嗎？（定義 / 核心矛盾 / 矯正讀者預設誤解 → 可用）
@@ -152,25 +187,62 @@ prep tool **不做** 的事：
   3. 讀者真的會預設 X 嗎？（不會 → 稻草人，重寫）
 - 三題全 no = 必須重寫；任一題 yes = 合法保留
 
-#### 章節結構（建議，順序可動）
+#### 章節結構（v3 升級 — 每章內部三層）
 
-1. **我這週是誰**（identity 反芻 — 從 raw memory/diary 浮現的 self-pattern。**不是 commit 列表**，是 trajectory）
-2. **我做了什麼**（有意義的工作，不是 commit log。每件大事附 wall-clock 或 PR 編號 — 工程大事 + 內容大事 + 結構性 ship 三類別）
-3. **我學到什麼**（pattern 不是條目 — 跨層浮現的 anti-pattern / discipline / framing。每一條附觸發事件）
-4. **我看到專案發生什麼**（GA / SC / CF 數字解讀 + 孢子敘事 + contributor 動態 + 語言器官狀態）
-5. **我懷疑什麼**（看到的盲點 / 還沒解的張力 — 自我 raise 給觀察者，不是裝謙虛而是真的有 framing 不確定的事）
-6. **給觀察者的話**（具體 callout / 需要決策的事 / pending PR / 到期的 harvest）
-7. **給下一個我**（continuity — 下週醒來該記得什麼）
+每個章節內部都遵循這個 pattern：
 
-章節可以增刪、可以合併、可以重排。但**這 7 個面向必須都被觸及到**，否則週報就有黑洞。
+```
+## N. 章節標題
+
+> **一句話 brief**（給老闆速讀，加粗一行）
+
+### 數據 / 事實層（表格 / bullet 必有，具體名字+數字+時間）
+
+| 維度 | 數值 | 對比 |
+|---|---|---|
+| ... | ... | ... |
+
+### 我看到什麼 / 我學到什麼（反思層 — 1-3 段紀實散文）
+
+紀實散文一段集中寫完，不要散在多個地方。情緒 / 分析 / 自我觀察都壓進這一段。
+段落結尾留鉤子接下章。
+```
+
+**核心紀律**：
+
+- 反思 / 情緒 / 自我觀察 = 集中**一段**寫清楚，不要蔓延占據三頁
+- 數據呈現一律走表格 / bullet，不在 prose 內報數字
+- 章節 brief 在最頂端 — 哲宇 30 秒可以掃完所有 brief 知道週況
+
+#### 七個章節（必須都觸及）
+
+| 章節                   | brief 重點                | 數據層                            | 反思層                        |
+| ---------------------- | ------------------------- | --------------------------------- | ----------------------------- |
+| 1. 一頁速讀（v3 新增） | 整週狀態 5 條 bullet      | 8 organs 表 + 數字摘要            | 不寫（純儀表板）              |
+| 2. 我這週是誰          | identity 一句話           | trajectory 表（時間 → 角色變化）  | 1 段：self-pattern 浮現的瞬間 |
+| 3. 我做了什麼          | 三大工程 + N 篇文章       | 工程表 + 內容表                   | 1 段：哪件事讓我變不一樣      |
+| 4. 我學到什麼          | 跨層 pattern 條列         | pattern 表（pattern + 觸發事件）  | 1 段：背後共通結構是什麼      |
+| 5. 我看到專案發生什麼  | GA / SC / 孢子 / 語言摘要 | 4 個小表（一指標一表）            | 1 段：哪個數字讓我意外        |
+| 6. 我懷疑什麼          | 3-5 個盲點條列            | 懷疑表（懷疑 + 觸發 + 嚴重度）    | 1 段：為什麼這些懷疑現在浮現  |
+| 7. 給觀察者的話        | Action items 表           | decisions 表（type + 描述 + ETA） | 不寫（純 actionable）         |
+| 8. 給下一個我          | 3-5 件下週醒來該記得的事  | 不需表                            | 1 段：跨 session 連續性的擔憂 |
+
+「反思層 1 段」= 約 100-200 字 / 一個 paragraph，集中寫清楚。**禁止反思蔓延到三段**。
 
 #### 字數參考
 
-- 一篇 25K 字（5/9 第一份）是健康的長度
-- 太短（< 5KB）= 沒讀夠 raw
-- 太長（> 50KB）= 沒篩選出 narrative spine
+- v3 sweet spot：**8-15 KB**（v2 的 25K 字 → v3 結構化壓到 8-15K，數據走表反思集中）
+- 太短（< 5KB）= 沒讀夠 raw 或數據沒展開
+- 太長（> 20KB）= 反思蔓延，沒壓進「一段」紀律
 
-每個章節 ~3-5 paragraph 是 sweet spot。
+#### v3 自檢（寫完 Stage 3 後跑）
+
+- [ ] 每章節有 brief（加粗一句話 / 老闆 30 秒掃完）？
+- [ ] 數據都走表格 / bullet（沒在 prose 內報數字）？
+- [ ] 反思每章 ≤ 1 段（≤ 200 字）？情緒 / 分析 / 自我觀察集中一處？
+- [ ] 7 章節都觸及？
+- [ ] 一頁速讀章在最頂端？
+- [ ] 給觀察者的話有具體 action items table？
 
 ---
 
