@@ -298,6 +298,38 @@ const isEn = lang === 'en';
       </h2>
       <p class="section-subtitle">{t('dashboard.translation.subtitle')}</p>
       <div class="translation-bars" id="translation-bars"></div>
+
+      <!-- Legend: 圖說 (2026-05-09 added per observer feedback) -->
+      <div
+        class="translation-legend"
+        aria-label={t('dashboard.translation.legend.aria')}
+      >
+        <span class="legend-item">
+          <span class="legend-dot legend-dot-fresh">●</span>
+          <span class="legend-label"
+            >{t('dashboard.translation.legend.fresh')}</span
+          >
+        </span>
+        <span class="legend-item">
+          <span class="legend-dot legend-dot-stale">●</span>
+          <span class="legend-label"
+            >{t('dashboard.translation.legend.stale')}</span
+          >
+        </span>
+        <span class="legend-item">
+          <span class="legend-dot legend-dot-missing">●</span>
+          <span class="legend-label"
+            >{t('dashboard.translation.legend.missing')}</span
+          >
+        </span>
+        <span class="legend-item legend-item-divider">
+          <span class="legend-format">N/M</span>
+          <span class="legend-label"
+            >{t('dashboard.translation.legend.format')}</span
+          >
+        </span>
+      </div>
+
       <div class="translation-matrix-wrapper">
         <table class="translation-matrix" id="translation-matrix">
           <thead id="translation-matrix-head"></thead>
@@ -3839,6 +3871,58 @@ const isEn = lang === 'en';
   }
   .donut-breakdown .bd-missing {
     color: #94a3b8;
+  }
+  /* Translation coverage legend (2026-05-09) */
+  .translation-legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.4rem 1.2rem;
+    margin: 0.5rem 0 1rem;
+    padding: 0.6rem 0.8rem;
+    background: var(--color-bg-soft, #f8fafc);
+    border: 1px solid var(--color-border-soft, #e2e8f0);
+    border-radius: 0.5rem;
+    font-size: 0.75rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-text-muted, #64748b);
+  }
+  .translation-legend .legend-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    white-space: nowrap;
+  }
+  .translation-legend .legend-item-divider {
+    border-left: 1px solid var(--color-border-soft, #e2e8f0);
+    padding-left: 1rem;
+    margin-left: -0.4rem;
+  }
+  .translation-legend .legend-dot {
+    font-size: 0.85rem;
+    line-height: 1;
+  }
+  .translation-legend .legend-dot-fresh {
+    color: #22c55e;
+  }
+  .translation-legend .legend-dot-stale {
+    color: #f59e0b;
+  }
+  .translation-legend .legend-dot-missing {
+    color: #94a3b8;
+  }
+  .translation-legend .legend-format {
+    display: inline-block;
+    padding: 0.05rem 0.35rem;
+    background: var(--color-bg, #fff);
+    border: 1px solid var(--color-border-soft, #e2e8f0);
+    border-radius: 0.2rem;
+    font-weight: 600;
+    color: var(--color-text, #334155);
+  }
+  .translation-legend .legend-label {
+    color: var(--color-text-muted, #64748b);
   }
   /* matrix table extras */
   .th-deficit {
