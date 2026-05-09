@@ -1,143 +1,116 @@
 ---
-title: "Y.C. Wang: From Rice Shop to Petrochemical Empire - Taiwan's Management God"
-description: "The legendary entrepreneur who built Formosa Plastics Group from humble beginnings, becoming Taiwan's most revered business leader and industrial pioneer"
-date: 2026-03-20
-tags:
-  [
-    'Y.C. Wang',
-    'Formosa Plastics',
-    'Taiwan business',
-    'petrochemicals',
-    'entrepreneurship',
-  ]
-subcategory: 'Tech & Business'
-lastVerified: 2026-03-20
+title: 'Yung-ching Wang: From a Rice Shop to the Twenty-Year Battle for the Sixth Naphtha Cracker, and the Posthumous Family Inheritance War'
+description: 'Born on January 18, 1917, in Xindian, Taipei, Yung-ching Wang dropped out of school at 15 and borrowed money to open a rice shop. He founded Formosa Plastics in 1954. In 1973, he proposed the Sixth Naphtha Cracker (No. 6 Naphtha Cracker Complex) to the government; after nearly two decades of fighting, it was finally approved, and full-scale production began in Mailiao, Yunlin, in 1998. He died in the United States on October 15, 2008, at the age of 92, leaving behind a family inheritance dispute that spanned more than a decade.'
+date: 2026-03-19
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '科技與企業'
+tags: ['科技與企業', '台塑集團', '石化工業', '六輕', '企業家']
+readingTime: "# design_rationale:\n#   why_this_hook: \"從六輕奮戰二十年切入——這個事實比任何「米店到帝國」的起點更能定義王永慶：他是一個願意跟政府打長期消耗戰的人，而且打贏了。\"\n#   whats_excluded: \"台塑集團各旗下公司的詳細財務數字；三房家族系譜；六輕的環境爭議細節\"\n#   where_it_hedges: \"德州投資確切年份（1986或1980，P0待確認）；三房爭產的法律最終結果以已報導部分為準\""
+lastVerified: 2026-05-07
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/王永慶.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:602271271fe217d6'
-sourceBodyHash: 'sha256:859e8caae2f2ba54'
-translatedAt: '2026-04-14T12:25:09+08:00'
-category: People
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:75cade694af4e791'
+sourceBodyHash: 'sha256:ef221213bcf630c8'
+translatedAt: '2026-05-09T14:29:09+08:00'
 ---
 
-# Y.C. Wang: From Rice Shop to Petrochemical Empire - Taiwan's Management God
+# Yung-ching Wang: From a Rice Shop to the Twenty-Year Battle for the Sixth Naphtha Cracker, and the Posthumous Family Inheritance War
 
-Wang Yung-ching (王永慶, 1917-2008) stands as Taiwan's most legendary entrepreneur, universally revered as the "Management God" (經營之神). From the humble origins of a small rice shop, he built the vast Formosa Plastics Group spanning petrochemicals, plastics, textiles, electronics, and healthcare, becoming a pivotal figure in Taiwan's industrial transformation. His life story embodies the essence of Taiwan's economic miracle, demonstrating how vision, discipline, and relentless pursuit of efficiency can transform not just a business, but an entire economy.
+> **30-second overview:** Yung-ching Wang was born on January 18, 1917, in Xindian, Taipei. He is Taiwan's most legendary entrepreneur, known as the "Management God." He dropped out of school at 15, borrowed 200 Japanese yen to open a rice shop, and founded Formosa Plastics in 1954. In 1973, he proposed the Sixth Naphtha Cracker (No. 6 Naphtha Cracker Complex) to the government. After repeated rejections, he fought for nearly two decades before it finally won approval, and full-scale production began in Mailiao, Yunlin, in 1998. He died in New York, United States, on October 15, 2008, at the age of 92. He left behind a family inheritance dispute that continued into the period around 2022.
 
-## Humble Beginnings: The Foundation of Excellence
+## January 18, 1917, Xindian, Taipei
 
-Born in 1917 to a poor farming family in Xindian, New Taipei City, Wang faced economic hardship from an early age. At 15, financial difficulties forced him to leave school, but this setback became the catalyst for his entrepreneurial journey. Borrowing 200 Japanese yen from his father, he established "Shin Ko Rice Mill" (新高製米所), a modest rice trading business that would serve as the cornerstone of his commercial empire.
+On January 18, 1917, Yung-ching Wang was born into a poor farming family in Xindian, Taipei.[^1] At 15, he dropped out of school due to family financial difficulties and borrowed 200 Japanese yen from his father to open "Xingao Rice Shop," formally entering the world of commerce.
 
-Even in this small venture, Wang demonstrated the innovative thinking that would define his career. He introduced the concept of "thin profits, quick turnover" (薄利多銷), personally delivering rice door-to-door while meticulously recording each household's consumption patterns and preferences. This early customer relationship management system, revolutionary for its time, reflected his deep understanding that business success depends on serving customers better than competitors.
+The story of this rice shop has been retold countless times: he delivered rice door to door, recorded each household's consumption patterns, tracked every family's rice usage cycle, and proactively restocked before customers ran out. Thin margins, high volume—and he always delivered on time. This was the starting point of his management thinking and the first lesson in the cost calculations he would obsess over for the next half century.
 
-The rice shop years taught Wang essential lessons about cost control, customer service, and operational efficiency that would later scale to massive industrial operations. His attention to detail and willingness to perform even the most mundane tasks personally established patterns of hands-on leadership that characterized his entire career.
+This habit grew into what Formosa Plastics called "getting to the root of the matter"—for every cost figure, one had to drill down three or more layers to find the fundamental cause. He later said: **"The dollar you earn is not your dollar; the dollar you save is your dollar."**[^3] The abacus from the rice shop days never stopped clicking.
 
-## The Plastics Revolution: Taiwan's Industrial Pioneer
+## 1954: The Birth of Formosa Plastics
 
-In 1954, Wang made the bold decision to enter Taiwan's nascent plastics industry by founding Formosa Plastics Corporation (台灣塑膠工業股份有限公司), specializing in PVC plastic powder production. At the time, Taiwan's domestic market for plastics remained extremely limited, making the venture appear risky to conventional wisdom.
+In 1954, Wang founded Formosa Plastics Corporation, focusing on PVC resin production; mass production began in 1957.[^1] In the early days of the venture, Taiwan's demand for plastics was extremely limited, and factory utilization rates were low. He had to gradually develop downstream buyers in a market that barely existed.
 
-However, Wang's strategic vision extended far beyond immediate market demand. Recognizing that Taiwan needed to develop heavy industry to escape its role as a simple agricultural economy, he decided to pursue vertical integration. He systematically established Taiwan Chemical Fiber Company (台灣化學纖維公司) and Nan Ya Plastics Corporation (南亞塑膠公司), creating an integrated industrial chain from raw materials to finished products.
+His solution was vertical integration: if no one in the market would buy the upstream raw materials, he would move downstream himself, producing midstream pipes and sheets, then extending further into finished products. He went on to establish affiliated companies including Taiwan Chemical Fiber and Nan Ya Plastics, forming a complete industrial chain from raw materials to finished goods that consumed its own output—ensuring that products with no market were absorbed by his own downstream operations.[^1]
 
-This vertically integrated approach allowed Formosa Plastics to control quality, reduce costs, and capture value at every stage of production. More importantly, it positioned Taiwan as a significant player in Asia's emerging chemical industry, contributing substantially to the island's economic transformation.
+This structure became the backbone of the Formosa Plastics Group and was the underlying logic behind his obsession with the Sixth Naphtha Cracker: only by controlling the upstream petrochemical supply could one truly command costs.
 
-## Petrochemical Visionary: Building Industrial Infrastructure
+## 1973: The Sixth Naphtha Cracker Proposal—The Government Says No
 
-Wang's most transformative decision came in 1968 when he invested in Taiwan's first naphtha cracker plant, officially entering the upstream petrochemical industry. This move faced significant initial resistance from government officials who questioned whether Taiwan possessed the technical capability and market size to support such sophisticated heavy industry.
+Taiwan's first naphtha cracker was built by the state-owned China Petrochemical Development Corporation in 1968—not by Formosa Plastics, but by a state enterprise. Wang watched as Formosa Plastics' upstream raw material supply remained dependent on the state-owned refiner, and he decided to build one himself.
 
-Wang persisted, arguing that Taiwan must develop petrochemical capabilities to avoid remaining trapped in low-value manufacturing. His vision proved extraordinarily prescient—the petrochemical complex became the foundation for Taiwan's emergence as a major industrial economy, supporting countless downstream industries from textiles to electronics.
+In 1973, Wang proposed the construction of the "Sixth Naphtha Cracker" (No. 6 Naphtha Cracker Complex) to the government, seeking to take control of the petrochemical upstream supply.[^2] The government rejected the proposal multiple times on grounds of national security and environmental concerns—the petrochemical upstream involved strategic materials, and the Nationalist government was unwilling to let a private enterprise control this critical lifeline. On top of that, environmental awareness was taking root in Taiwan during the 1980s, and siting issues repeatedly shelved the plan. He kept proposing; the government kept blocking. This tug-of-war lasted nearly twenty years.
 
-The success of Taiwan's petrochemical industry under Wang's leadership demonstrated that small economies could compete globally in capital-intensive industries through superior management, technological innovation, and strategic focus. This achievement inspired confidence throughout Taiwan's business community and government, encouraging similar ambitious industrial projects.
+In the end, the government approved it. The Formosa Plastics No. 6 Naphtha Cracker Complex was built in Mailiao, Yunlin, and began full-scale production in 1998.[^2] This project also left a mark in the history of human engineering: the land reclamation area for the complex reached one-tenth the size of Taipei City, with a total investment exceeding NT$300 billion, making it the largest land reclamation project in human history at the time.[^2]
 
-## Global Expansion: The American Adventure
+Wang once described his obsession with the Sixth Naphtha Cracker in his book _Taking Root, Deepening Growth_ by invoking the classical phrase "Of the three unfilial acts, having no posterity is the greatest"[^2]—twenty years of proposals, twenty years of rejections. He treated the Sixth Naphtha Cracker as Formosa Plastics' heir, something that had to come into being. This outcome confirmed a widely attributed quote of his: **"Earning a dollar is not earning; saving a dollar is earning."**[^3]—what he saved was raw material costs, and what he won was that twenty-year battle.
 
-In 1986, Formosa Plastics Group made international headlines by investing $4 billion in a massive petrochemical complex in Point Comfort, Texas. This represented one of the largest overseas investments by a Taiwanese company at the time, marking Taiwan's transition from a recipient of foreign investment to a global investor.
+## The Philosophy of Lean Management
 
-The American facility served multiple strategic purposes: geographic diversification, access to North American markets, and proximity to advanced chemical industry technology and talent. Wang's success in managing complex international operations proved that Taiwanese companies could compete effectively on the global stage.
+Wang established a "cost analysis meeting" system requiring each department to review its cost structure in detail every month, pursuing extreme efficiency. The management culture of the Formosa Plastics Group was directly linked to his obsession with "saving": every process had to be questioned with "why is it done this way" and "is there a cheaper method"—"we've always done it this way" was never accepted as a reason.
 
-This international expansion also demonstrated Wang's ability to navigate different regulatory environments, labor relations, and cultural contexts. The Texas plant's success validated his management philosophy's universal applicability, showing that principles developed in Taiwan could succeed in America's highly competitive industrial landscape.
+His view on systems was equally precise: **"A good system can prevent bad people from running amok; a bad system can prevent good people from doing good work."**[^3][^5] Placed in today's corporate governance discourse, this remains first-class thinking. The design of Formosa Plastics' systems was intended to make cost savings depend not on individual morality but on the system itself.
 
-## Management Philosophy: Efficiency as Religion
+> 📝 **Curator's note:** The common narrative is that Wang succeeded through "saving," but the real underlying logic is closer to "measurable, precise calculation"—the cost analysis meeting system he established forced every unit to account for every cent. Saving money was merely the outcome; "making cost structures transparent" was the method. The influence of this thinking on Taiwanese corporate culture has outlasted the smokestacks of the Sixth Naphtha Cracker.
 
-Wang Yung-ching became legendary for his management philosophy, which emphasized relentless cost analysis and operational efficiency. He institutionalized the "Cost Analysis Conference" (成本分析會) system, requiring all departments to conduct detailed monthly cost structure reviews, pursuing efficiency improvements with almost religious devotion.
+In the 1980s, the Formosa Plastics Group invested in a petrochemical plant in Texas, United States,[^1] becoming one of the early cases of large-scale overseas petrochemical investment by a Taiwanese firm. (The exact year of investment—1980 or 1986—varies across sources [P0⚠️]; consulting the official annual report is recommended for confirmation.)
 
-His famous maxim "earning one dollar isn't earning; saving one dollar is earning" (賺一塊錢不是賺，省一塊錢才是賺) became gospel throughout Formosa Plastics and influenced management thinking across Taiwan's industrial sector. This lean management approach enabled the company to maintain cost leadership even as it grew into a massive conglomerate.
+## 1980s: An Empire Takes Shape, the Method Stays the Same
 
-Wang's hands-on leadership style was legendary—he personally reviewed detailed financial reports, questioned operational decisions at every level, and maintained direct contact with frontline employees. This approach, while demanding, created a culture of continuous improvement and accountability that became Formosa Plastics' competitive advantage.
+In the 1980s, the Formosa Plastics Group expanded rapidly in scale, but its management approach never changed: every cent of cost had to be accounted for, and every decision had to be traced to its root. During this period, Wang established the "management cycle"—plan → execute → evaluate → improve. This logic, later known as "PDCA," was already standard operating procedure at Formosa Plastics in the 1970s and 1980s.
 
-## Social Responsibility: Beyond Profit Maximization
+He had a philosophy on talent selection: **"A manager must have the heart for reform; a manager must have the breadth of mind to benefit both others and oneself."**[^3] Benefiting both others and oneself was his baseline statement of business ethics—not charity, but the idea that your profits should be built together with your partners, not extracted through one-sided exploitation.
 
-Despite his reputation for cost consciousness, Wang demonstrated deep commitment to social responsibility through substantial investments in education and healthcare. He established Chang Gung University (長庚大學) and Chang Gung Memorial Hospital (長庚醫院), creating world-class institutions that advanced Taiwan's human capital development.
+The environmental controversies surrounding the Sixth Naphtha Cracker also began to ferment during this period. The long-term resistance by residents of Mailiao Township, Yunlin County, against petrochemical exhaust and wastewater became an important chapter in the history of Taiwan's environmental movement. This was something Wang was unable to address to anyone's satisfaction during his lifetime, and it became another facet of his business legacy.
 
-Wang believed that business success created obligations to society, particularly in developing the educated workforce necessary for Taiwan's continued economic advancement. Chang Gung Hospital became Taiwan's largest private medical center, while Chang Gung University produced graduates who contributed to Taiwan's technological development.
+## Chang Gung: A Different Kind of Capital Investment
 
-This integration of business success with social contribution established a model for corporate citizenship that influenced Taiwan's business culture. Wang demonstrated that profitability and social responsibility were complementary rather than competing objectives.
+Wang was also the founder of Chang Gung Memorial Hospital and Chang Gung University. In 1976, he donated to establish Chang Gung Memorial Hospital in the name of his mother, Wang詹樣, initially in Linkou, Taoyuan, later expanding to multiple locations including Taipei, Keelung, Chiayi, and Kaohsiung, becoming the private medical institution with the largest number of hospital beds in Taiwan.[^1]
 
-## Crisis Management and Resilience
+He brought business logic into the healthcare system—cost control, process standardization, performance management—which sparked considerable controversy in the medical community at the time: should healthcare be patient-centered or efficiency-first? Wang's answer was that efficiency and quality could coexist, but only if the costs of every link in the chain were clearly calculated.
 
-Throughout his career, Wang navigated numerous economic crises, from oil shocks to currency fluctuations to political uncertainties. His approach to crisis management emphasized financial conservatism, operational flexibility, and strategic patience—characteristics that enabled Formosa Plastics to emerge stronger from each challenge.
+His cost control over hospitals used the same root-cause-tracing method he applied to Formosa Plastics' production lines—perhaps his last large-scale "cost laboratory."
 
-During the 1970s oil crises, while many companies struggled with increased raw material costs, Wang used his integrated supply chain to maintain competitive advantages. His long-term perspective allowed him to invest counter-cyclically, expanding operations when competitors were retrenching.
+## 2008: Death and the Inheritance War
 
-Wang's crisis management philosophy influenced Taiwan's broader business community, demonstrating how strategic thinking and operational discipline could overcome external shocks. His success during turbulent periods enhanced his reputation as Taiwan's most reliable business leader.
+On October 15, 2008, Yung-ching Wang died in New York, United States, at the age of 92, while on a business trip.[^1] The Formosa Plastics Group he built had, by the time of his death, annual revenues exceeding NT$2 trillion, with major entities including Formosa Plastics, Nan Ya Plastics, Taiwan Chemical Fiber, Formosa Petrochemical, and Chang Gung Memorial Hospital. The scale of the Formosa Plastics Group has long placed it at the top of Taiwan's private enterprises.
 
-## Succession Planning: Institutional Legacy
+What he left behind, in addition to the Formosa Plastics Group, was a family inheritance dispute that smoldered for years.[^4] Wang had three families in his lifetime (his first wife, second wife, and third wife), with a total of eight children across the three branches. The dispute involved complex issues including estate distribution, the legal status of various heirs, and the ownership of overseas trust assets. The conflict spanned from 2008 to around 2022, making it one of the largest and longest-running family inheritance cases in the history of Taiwanese business.[^4]
 
-Recognizing that sustainable enterprises must outlast their founders, Wang invested heavily in developing professional management systems and governance structures. He established clear succession mechanisms, combining family involvement with professional management expertise.
+The common narrative is that Wang "had a keen eye for talent and a well-arranged succession plan." But this inheritance war demonstrates that his management logic for Formosa Plastics did not extend to the structural design of family succession—a man who had spent a lifetime on precise calculation did not settle the final accounts.
 
-When Wang passed away in 2008, Formosa Plastics Group had evolved into a massive enterprise with annual revenues exceeding NT$2 trillion (approximately $65 billion USD). The smooth leadership transition demonstrated the effectiveness of his institutional development, ensuring business continuity despite the founder's irreplaceable role.
+The rice shop, the Sixth Naphtha Cracker, the three-family inheritance war—he finished his journey, but the accounts did not.
 
-Wang's approach to succession planning influenced Taiwan's family business practices, showing how traditional Chinese business structures could evolve to meet modern corporate governance requirements while maintaining entrepreneurial dynamism.
+## The Title "Management God"
 
-## Environmental Stewardship and Industrial Responsibility
+Taiwan calls Yung-ching Wang the "Management God." Behind this title is a specific contrast: he had no distinguished academic credentials, no political connections as a backing, and no inherited family wealth. From 200 Japanese yen to NT$2 trillion in annual revenue, there were no shortcuts in between—only generation after generation of clarifying the costs of every production link.
 
-In later years, Wang became increasingly focused on environmental stewardship and sustainable industrial practices. He invested in cleaner production technologies, waste reduction systems, and environmental monitoring capabilities, recognizing that long-term business success required environmental responsibility.
+This title is unique in the history of Taiwanese business. His story is retold so often because it offers a success template that does not depend on innate advantages: not relying on background, but on method.
 
-Formosa Plastics' environmental initiatives included developing more efficient production processes, implementing comprehensive recycling programs, and investing in renewable energy research. Wang understood that industrial leadership required setting environmental standards, not merely meeting regulatory requirements.
+## The Scale of an Empire
 
-His environmental consciousness reflected evolving understanding of corporate responsibility, demonstrating how successful entrepreneurs must adapt their thinking to address changing social expectations and environmental challenges.
+From a 15-year-old boy who borrowed 200 Japanese yen to open a rice shop to the "Management God" whose Formosa Plastics Group posted annual revenues exceeding NT$2 trillion, Yung-ching Wang left behind the longest industrial chain in Taiwan's industrial history. But this "empire" was built on an extremely single logic: every cent must be accounted for, and every process must have a cheaper method than yesterday.
 
-## Economic Impact: Catalyst for Taiwan's Miracle
+He did not have much formal education, no MIT degree, and no Silicon Valley connections. What he had was a rice shop abacus, plus a habit he never put down in ninety-two years: every account had to be made clear.
 
-Wang's contributions to Taiwan's economic development extend far beyond Formosa Plastics' direct impact. By proving that Taiwanese companies could succeed in capital-intensive, technology-driven industries, he inspired countless other entrepreneurs to pursue ambitious industrial projects.
+Taiwan has many industrial legends, but Wang's uniqueness lies in this: his success logic was complex enough to build a multinational conglomerate, yet simple enough for an elementary school student to understand—the dollar you save is yours.
 
-The petrochemical industry cluster that developed around Formosa Plastics created thousands of downstream businesses, from specialty chemicals to plastic processing to industrial equipment manufacturing. This industrial ecosystem contributed substantially to Taiwan's transition from agricultural economy to industrial powerhouse.
+A child of a Xindian farming family in 1917, the man who brought the largest land reclamation project to full production in 1998, and who departed in 2008 with a family account still unsettled. Ninety-two years, and the abacus never stopped.
 
-Wang's success also enhanced Taiwan's international credibility as an investment destination and business partner. Foreign companies recognized Taiwan's industrial capabilities partly through observing Formosa Plastics' achievements, leading to increased technology transfer and collaborative opportunities.
+He left behind not just a conglomerate, but a distinctly Taiwanese philosophy of lean thinking: make costs transparent, trace processes to their roots, and repeat this for a lifetime. This philosophy, whether in his factories, his hospitals, or his rice shop stories, always said the same thing.
 
-## Educational Impact: Management Wisdom for Generations
-
-Wang's management principles and business philosophy became standard curriculum in business schools throughout Taiwan and internationally. His emphasis on operational excellence, cost discipline, and continuous improvement influenced management thinking far beyond the petrochemical industry.
-
-Case studies of Formosa Plastics' development strategies, crisis management approaches, and international expansion became teaching tools for understanding how emerging market companies can achieve global competitiveness. His life story demonstrates how individual vision and execution can transform entire economies.
-
-Business leaders throughout Asia study Wang's methods, applying his principles to diverse industries and markets. His management philosophy transcends cultural boundaries, proving relevant to anyone seeking to build sustainable competitive advantages through operational excellence.
-
-## Enduring Legacy: Taiwan's Industrial Foundation
-
-More than a decade after his death, Wang Yung-ching's influence on Taiwan's economy remains profound. Formosa Plastics continues as one of Taiwan's most important industrial groups, while the management principles and business practices he developed influence countless other enterprises.
-
-His story embodies Taiwan's economic miracle—demonstrating how vision, hard work, and strategic thinking can overcome resource constraints and geographic limitations. For aspiring entrepreneurs worldwide, Wang represents proof that individual determination can achieve extraordinary results.
-
-The institutions he created, from Chang Gung Hospital to the petrochemical complexes, continue serving Taiwan's development needs. His legacy extends beyond business success to encompass contributions to education, healthcare, and industrial capability that benefit all Taiwanese citizens.
-
-## Global Recognition: Management Icon
-
-International business communities recognize Wang as one of Asia's greatest entrepreneurs, comparable to legendary figures in American and European business history. His achievements demonstrate that management excellence and industrial vision are universal capabilities, not limited by cultural or geographic boundaries.
-
-Management scholars study his methods for insights into building sustainable competitive advantages, managing complex industrial operations, and creating value through vertical integration. His approach to business development remains relevant for contemporary entrepreneurs facing global competition.
-
-Wang's life proves that transformative business leadership can emerge from humble circumstances, inspiring confidence in people everywhere who aspire to achieve extraordinary results through dedicated effort and strategic thinking.
-
-## Taiwan's Management God: Eternal Influence
-
-Y.C. Wang earned the title "Management God" through decades of exceptional business achievement, but his true legacy lies in demonstrating how individual excellence can drive societal progress. His journey from rice shop proprietor to industrial leader embodies Taiwan's transformation and continues inspiring new generations of entrepreneurs.
-
-His management philosophy—emphasizing efficiency, customer service, continuous improvement, and social responsibility—remains as relevant today as when he first articulated these principles. In an era of rapid technological change and global competition, Wang's focus on fundamental business excellence provides timeless guidance.
-
-For Taiwan, Y.C. Wang represents the entrepreneurial spirit that transformed the island from agricultural economy to technological powerhouse. His legacy ensures that future generations understand how vision, discipline, and relentless pursuit of excellence can overcome any challenge and achieve any goal.
+**Further reading**: [Yung-ching Wang — Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [Formosa Plastics No. 6 Naphtha Cracker: A Key Transformation in Taiwan's Petrochemical Industry](https://storystudio.tw/article/gushi/taiwan-plastic-industry)
 
 ## References
 
-- [Formosa Plastics Group: Founder Y.C. Wang Biography](https://www.fpg.com.tw/founder) — Official company documentation of founder's achievements
-- [Ministry of Economic Affairs: Taiwan Petrochemical Industry Development](https://www.moea.gov.tw/Mns/doit/industory/IndustryDevelop.aspx?menu_id=13545) — Government records of industrial development
-- [Chang Gung Medical Foundation: Founding Philosophy](https://www.cgmh.org.tw/cgmh/about/philosophy) — Chang Gung Hospital founding principles and mission
+[^1]: [Wikipedia: Yung-ching Wang](https://zh.wikipedia.org/wiki/王永慶) — Complete biographical entry for Yung-ching Wang, confirming date of birth January 18, 1917; Formosa Plastics founding year (1954 / mass production 1957); date of death October 15, 2008; and records of investment in Texas, United States.
+
+[^2]: [Story Studio: History of Taiwan's Petrochemical Industry](https://storystudio.tw/article/gushi/taiwan-plastic-industry) — Includes the historical context of Taiwan's naphtha crackers (the first built by the state-owned refiner in 1968) and the story of Wang's twenty-year fight to get the Sixth Naphtha Cracker approved. This source was used to correct the hallucination that "Wang built a naphtha cracker in 1968."
+
+[^3]: [Wikipedia: Yung-ching Wang](https://zh.wikipedia.org/wiki/王永慶) — Source for Wang's management philosophy and the quote "Earning a dollar is not earning; saving a dollar is earning."
+
+[^4]: [Business Today: The Full Story of the Posthumous Inheritance Dispute over Yung-ching Wang's Estate (2023)](https://www.businesstoday.com.tw/article/category/183016/post/202301030028/) — Detailed report on the inheritance dispute among Wang's three families following his death in 2008, including the development of the conflict from 2008 to 2022.
+
+[^5]: [Wikiquote: Yung-ching Wang](https://zh.wikiquote.org/zh-tw/王永慶) — Collection of Wang's management quotes, including "The dollar you earn is not your dollar; the dollar you save is your dollar" and "A good system can prevent bad people from running amok," with sources.

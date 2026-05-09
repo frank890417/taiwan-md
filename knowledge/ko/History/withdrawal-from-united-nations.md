@@ -1,134 +1,135 @@
 ---
-title: "Exiting the UN: The 17 Minutes in 1971 That Turned Taiwan into an International Orphan"
-description: "On October 25, 1971, the moment James C. H. Shen stepped down from the podium in the UN General Assembly, the Republic of China transformed from a founding member of the United Nations into an observer still barred from the door today. Half a century later, this decision of 'neither Han nor贼 coexist' continues to resonate—the U.S. passed legislation in 2025 reaffirming that Resolution 2758 never addressed Taiwan's representation."
+title: '유엔 탈퇴: 1971년 그 17분, 대만이 어떻게 「중국」에서 국제적 고아가 되었는가'
+description: '1971년 10월 25일, 주서楷(주서개)가 유엔 총회 연단에서 내려온 그 순간, 중화민국은 유엔 창립 회원국에서 여전히 문 밖에서 배제된 관찰자로 전반되었다. 반세기가 지난 후, 이번 「한적불양립(漢賊不兩立)」이라는 결정은 여전히 그 영향력을 발휘하고 있다——미국은 2025년 법안을 통과시켜 재차 명시했다: 제2758호 결의안은 결코 대만의 대표권을 다루지 않았다.'
 date: 2026-05-02
-tags: ['Diplomacy', 'History', 'United Nations', 'Cold War', 'Cross-Strait Relations', 'International Law']
-subcategory: 'History/Exiting the UN'
-author: 'Taiwan.md'
 category: 'History'
-readingTime: 12
+tags: ['외교', '역사', '유엔', '냉전', '양안관계', '국제법']
+subcategory: '民主與治理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
-translatedFrom: 'History/退出聯合國.md'
-sourceCommitSha: '85b83e49'
-sourceContentHash: 'sha256:d40df8938c235696'
-translatedAt: '2026-05-04T00:36:04+08:00'
+translatedFrom: History/退出聯合國.md
+sourceCommitSha: 4b6d28c54
+sourceContentHash: sha256:84c16f78fb1c8afd
+sourceBodyHash: sha256:e02dfcaef9951112
+translatedAt: 2026-05-09T14:29:09+08:00
 ---
 
-Late on the night of October 25, 1971, in the United Nations General Assembly Hall in New York. After reading the statement, Republic of China (ROC) Foreign Minister James C. H. Shen turned and stepped down from the green marble podium; the entire delegation filed out. From entering to leaving, it took less than 20 minutes[^1]. Half an hour later, Resolution 2758 was adopted by a vote of 76 to 35. The "representatives of Chiang Kai-shek" were expelled, and the People's Republic of China (PRC) officially took the China seat. Taiwan, which had been a founding member of the UN (on August 24, 1945, Chiang Kai-shek signed the instrument of ratification for the UN Charter in Chongqing[^2]), suddenly became an outsider to international organizations.
+1971년 10월 25일 심야, 뉴욕 유엔 총회 회의장. 중화민국 외무부장 주서楷(주서개)가 성명을 낭독하고 돌아서서 녹색 대리석 연단에서 내려오자, 전체 대표단이 차례로 퇴장했다. 입장에서 퇴장까지 채 20분이 걸리지 않았다[^1]. 30분 후, 제2758호 결의안이 76 대 35로 가결되었고, 「장제스의 대표」가 축출되면서 중화인민공화국이 정식으로 중국 의장을 승계했다. 대만은 유엔 창립 회원국(1945년 8월 24일, 장중정(장제스)이 충칭에서 「유엔 헌장」 비준서에 서명[^2])에서 하룻밤 사이에 국제기구의 외부인이 되었다.
 
-> **Understand in 30 Seconds**: On the surface, this was the tragic exit of the ROC based on the principle of "neither Han nor 贼 coexist"; in reality, Chiang Kai-shek had already accepted the compromise of "two Chinas" as early as early 1971, and the U.S. State Department even praised Taiwan for showing "extraordinary flexibility"[^3]. The real key was Henry Kissinger's secret visit to Beijing in July of that year. While officials in Taipei and Washington were still in the dark, Kissinger had already revealed his hand to Zhou Enlai: the U.S. would not sincerely fight to keep Taiwan in the UN. Half a century later, the U.S., UK, EU, Australia, and the Netherlands have successively stated that the text of Resolution 2758 does not contain the word "Taiwan" at all.
+> **30초 이해**: 표면상으로 이것은 중화민국의 「한적불양립(漢賊不兩立)」이라는 비장한 퇴장이었지만, 실제로 장제스는 1971년 초부터 이미 「두 개의 중국」이라는 절충안을 수용했으며, 미국 국무부는 심지어 대만이 「비범한 유연성」을 보여주었다고 극찬했다[^3]. 진정한 열쇠는 같은 해 7월 키신저의 비밀 북경 방문에 있었다. 타이베이와 워싱턴의 관료들이 모두 상황을 파악하지 못한 사이, 그는 이미 저우언라이에게 미국의 진짜 의도를 고지했다: 미국은 대만이 유엔에 남도록 진심으로 노력하지 않을 것이다. 반세기가 지난 후, 미국, 영국, EU, 호주, 네덜란드가 잇달아 입장을 표명했다: 제2758호 결의문 안에 「대만」이라는 두 글자는 애초에 존재하지 않는다.
 
-## From Founding Member to the Battle for the Seat
+## 창립 회원국에서 의장 수호전까지
 
-The Republic of China was a founding member of the United Nations and one of the five permanent members of the Security Council. On June 26, 1945, in San Francisco, T. V. Soong signed the UN Charter on behalf of the ROC first; on August 24 of the same year, Chiang Kai-shek signed the instrument of ratification in Chongqing[^2].
+중화민국은 유엔 창립 회원국이자 안전보장이사회 5개 상임이사국 중 하나였다. 1945년 6월 26일 샌프란시스코에서 쑨쯔원(송자문)이 중화민국을 대표하여 「유엔 헌장」에 최초로 서명했으며, 같은 해 8월 24일 장중정(장제스)이 충칭에서 비준서에 서명했다[^2].
 
-The problem arose after 1949: The People's Republic of China was established in Beijing, and the ROC government retreated to Taiwan, but both sides claimed to be the sole legitimate representatives of "China." Starting in the 1950s, every UN General Assembly had to argue over "China's representation." In 1961, the U.S. proposed the "Important Question Resolution," defining "changing China's representation" as an "important question" requiring a two-thirds majority to pass, effectively blocking Beijing[^3].
+문제는 1949년 이후 발생했다: 중화인민공화국이 베이징에서 수립되고, 중화민국 정부가 대만으로 퇴각했지만, 양측 모두 자신이 「중국」의 유일한 합법 정부라고 주장했다. 1950년대부터 매년 유엔 총회에서는 「중국 대표권」을 둘러싼 논쟁이 벌어졌다. 1961년, 미국은 「중요의안안(重要問題案)」을 제출하여 「중국 대표권 변경」을 3분의 2 다수결이 필요한 「중요 문제」로 규정하여 베이징의 진입을 강력히 저지했다[^3].
 
-Former Foreign Minister Hu Shih had a famous metaphor: "The 'One China' policy is like painting the floor of a room—once you finish painting, you step out of the room."[^4] This prophecy came true in 1970. At the 25th UN General Assembly, the "Albania Resolution" (expelling us, admitting the bandits) first obtained a simple majority (51 to 49). The ROC retained its seat only because the two-thirds threshold of the "Important Question Resolution" blocked it[^3].
+전 외무부장 예공초(엽공초)의 유명한 비유가 있다: 「「하나의 중국」 정책이란 마치 방 바닥에 페인트를 칠하는 것과 같다——다 칠하고 나면 방 문 밖으로 물러나게 되는 것이다.」[^4] 이 예언은 1970년에 현실이 되었다. 그해 제25차 유엔 총회에서 알바니아가 제출한 「배아납적안(排我納匪案)」이 최초로 단순 다수(51 대 49)를 얻었고, 중화민국이 의장을 지킨 것은 오직 「중요의안안」의 3분의 2 문턱이 막아주었기 때문이었다[^3].
 
-The red light was on.
+적신호가 이미 켜져 있었다.
 
-## Chiang Kai-shek's Hesitation: Two Chinas in the Diaries
+## 장제스의 동요: 일기 속 두 개의 중국
 
-In the past, academia often blamed Chiang Kai-shek's stubbornness of "neither Han nor 贼 coexist" for the exit from the UN. However, after the National Palace Museum opened the *Diaries of Chiang Chung-cheng* and diplomatic archives in 2010, the historical image was rewritten.
+과거 학계에서는 유엔 탈퇴를 흔히 장제스의 「한적불양립(漢賊不兩立)」이라는 고집 때문으로 돌렸다. 그러나 2010년 국사관(國史館)이 《장중정 일기》와 외교 문건을 공개한 후, 역사적 그림이 다시 쓰였다.
 
-Scholars studying these archives, such as Wang Hao, point out that on December 16, 1970, Chiang Kai-shek explicitly instructed the Ministry of Foreign Affairs at a National Security Council meeting to study various UN regulations, "making every effort to maintain our legal status in the UN, but also preparing for the worst-case scenario of exiting the UN"[^3]. At a diplomatic meeting on December 31, he told the group of ambassadors more clearly that he did not oppose studying the "dual representation" plan, but insisted on retaining the Security Council permanent member seat[^3].
+이 문건을 연구한 학자 왕하오(汪浩)에 따르면, 1970년 12월 16일 장제스는 국가안전회의에서 외무부에 유엔의 각종 규정을 연구하도록 명확히 지시하며, 「유엔에서의 합법적 지위를 수호하기 위해 최대한의 노력을 기울이되, 유엔 탈퇴라는 최악의 경우도 대비해야 한다」고 밝혔다[^3]. 12월 31일 외교 회담에서 그는 대사단에게 더욱 분명히 말했다: 그는 「이중대표권」 방안을 연구하는 것에 반대하지 않지만, 안보리 상임이사국 의장은 반드시 지켜야 한다고[^3].
 
-In other words, "neither Han nor 贼 coexist" was a strategy for maintaining legal continuity internally and negotiating with the U.S.; privately, Chiang Kai-shek had already psychologically accepted "two Chinas." But his red line was the Security Council seat—this represented the legal symbol of the ROC as a "great power."
+즉, 「한적불양립」은 내부적으로 법통을 유지하고 미국과 교섭하는 전략이었으며, 사적으로 장제스는 이미 심리적으로 「두 개의 중국」을 수용하고 있었다. 그러나 그의 마지노선은 안보리 의장이었다——이것은 중화민국이 「대국」으로서의 법통을 상징하는 것이었다.
 
-On May 26, 1971, Vice President Yen Chia-kan presided over the National Security Council on behalf of Chiang. Secretary-General of the National Security Council Huang Shao-gu and Foreign Minister Zhou Shukai proposed a surprising shift in plan: If a diplomatic ally wanted to establish relations with Beijing, as long as three conditions were met (not recognizing the CCP as the sole legitimate government of China, not involving ROC territory Taiwan, and continuing to recognize our government as the Government of the Republic of China, not the "Taiwan Government"), diplomatic relations could be maintained[^3]. This was essentially accepting the arrangement of "two Chinas." Chiang Ching-kuo stated on the spot that he needed "to think about it further."
+1971년 5월 26일, 부총통 옌쟈헌(엄가항)이 국가안전회의를 주관했고, 국가안전회의 비서장 황샤오구(황소곡)와 외무부장 주서楷(주서개)는 놀라운 전환 방안을 제시했다: 만약 어떤 수교국이 베이징과 수교하려 할 때, 세 가지 전제 조건(공산당을 중국의 유일한 합법 정부로 승인하지 않음, 중화민국 영토인 대만을 다루지 않음, 우리 정부를 「대만 정부」가 아닌 「중화민국 정부」로 계속 인정함)을 충족하면 외교 관계를 유지할 수 있다[^3]. 이것은 실질적으로 「두 개의 중국」 배치를 수용하는 것이었고, 장징궈(장경국)는 즉석에서 「다시 생각해 봐야 한다」고 밝혔다.
 
-Chiang's diaries also revealed his inner torment. He wrote, "The ancient teaching of being the pillar in midstream and fighting alone is an honorable isolation," but a few days later changed it to "Weak country diplomacy cannot lack internal firmness and external flexibility; there should be a firm decision in the heart, but the external form has not reached the time for implementation, and should adapt to the environment and change accordingly"[^3]. On May 27, he was diagnosed with cardiomegaly, and officially fell ill in mid-June, recovering only by the end of July—this window period coincided exactly with Kissinger's secret visit to Beijing.
+장제스의 일기 또한 내면의 갈등을 드러낸다. 그는 「중류저주(中流砥柱)와 고군분투의 고훈은 영광스러운 고립이다」라고 썼고, 며칠 후에는 「약국 외교는 내방외원(內方外圓)의 행동을 피할 수 없으며, 마음속에는 확고한 결단이 있어야 하지만, 외형적으로는 실행 시점이 아니므로 상황에 따라 기회를 포착하여 대응해야 한다」로 수정했다[^3]. 5월 27일, 그는 심장 비대증 진단을 받았고, 6월 중순에 공식적으로 쓰러져 7월 말에야 회복되었다——이 공백기가 바로 키신저가 비밀리에 베이징을 방문한 시기와 정확히 겹쳤다.
 
-## Dual Representation: The Road Not Taken
+## 이중대표권: 걷지 못한 길
 
-In early 1971, the Nixon administration formally proposed the "Dual Representation Plan"—allowing the PRC to take the Security Council permanent seat while retaining the ROC's membership in the General Assembly[^5]. On April 23, Nixon sent special envoy Robert Murphy to meet Chiang Kai-shek. To get Chiang's nod, Murphy unilaterally promised "that the ROC would retain its Security Council seat"—this clearly exceeded the White House's directives and authorization[^3].
+1971년 초, 닉슨 정부는 공식적으로 「이중대표권안」을 제출했다——중화인민공화국이 안보리 상임이사국 의장을 얻는 동시에 중화민국이 총회 회원 자격을 유지하는 방안[^5]. 4월 23일, 닉슨은 특사 머피(Robert Murphy)를 장제스에게 보냈다. 머피는 장제스의 동의를 얻기 위해 독단적으로 「중화민국이 안보리 의장을 유지하도록 하겠다」고 약속했다——이것은 백악관의 지시와 권한을 명백히 초과하는 것이었다[^3].
 
-Chiang Kai-shek finally softened. But he warned Murphy: If the Security Council seat was stripped, he had "no choice but to prefer being broken as jade rather than remain intact as a tile."
+장제스는 마침내 입을 열었다. 그러나 그는 머피에게 경고했다: 만약 안보리 의장을 박탈당하면, 그에게는 「옥이 차라리 깨질지언정 완전한 돌이 되기를 원하지 않는(寧為玉碎, 毋為瓦全)」 선택지밖에 없다고.
 
-The problem was that Murphy had no authorization to make this promise. On May 27, Nixon told Kissinger and Secretary of State William Rogers the truth: "I really hope we fail by sticking to principles, so they can get out." Kissinger more sinisterly suggested: Another way to "be defeated" is to delay and not decide, finally pretending to adopt a "two Chinas" stance and failing—"that also means we did everything we could."[^3]
+문제는 머피에게 이러한 약속을 할 권한이 애초에 없었다는 것이다. 5월 27일, 닉슨은 키신저와 국무장관 로저스(William Rogers)에게 진심을 털어놓았다: 「나는 원칙을 고수하다가 실패하는 것을 바란다, 그들을 쫓아내자.」 키신저는 더욱 교활하게 제안했다: 「패배하는 또 다른 방식」은 지연을 통해 결국 「두 개의 중국」 입장을 취하는 척하다가 실패하는 것이다——「그것 역시 우리가 모든 노력을 다했다는 것을 의미한다.」[^3].
 
-This delaying strategy ultimately succeeded, "fooling Rogers and the U.S. Ambassador to the UN Bush (the future President George H.W. Bush), as well as Taiwan's diplomats, and even many historians in later generations"[^3]. George H.W. Bush was a sincere promoter of the dual representation plan that year, desperately lobbying for votes in the General Assembly hall until the last moment—he didn't know he was being used as a gun[^6].
+이 지연 전략은 최종적으로 성공했으며, 「로저스와 미국 유엔 대시 부시(후에 대통령이 된 아버지 부시)를 속였고, 대만의 외교관들, 심지어 후대의 많은 역사학자들까지 속였다」[^3]. 아버지 부시는 당시 이중대표권안의 진심 있는 지지자로서 유엔 회의장에서 마지막 순간까지 표를 열심히 모았다——자신이 이용당하고 있다는 사실을 몰랐다[^6].
 
-## Kissinger's July: The Backstab
+## 키신저의 7월: 뒤에서 당한 배신
 
-On the afternoon of July 1, 1971, before Kissinger's secret visit to Beijing, he spoke with ROC Ambassador to the U.S. Shen Chien-hung. Kissinger solemnly said: "President Nixon's friendship for our President and our government is extremely deep... His determination to do his best to maintain our seat in the General Assembly is beyond doubt. President Nixon also absolutely will not consider any measures that would cause us to lose our Security Council seat; please rest assured."[^3]
+1971년 7월 1일 오후, 키신저가 비밀리에 베이징을 방문하기 직전, 중화민국 주미대사 선젠홍(심겸홍)과 대화를 나눴다. 키신저는 굳게 약속했다: 「닉슨 대통령은 귀하의 대통령과 귀하의 정부에 대한 우정이 매우 깊습니다…… 유엔 의장을 수호하기 위해 최선을 다하겠다는 결의는 의심의 여지가 없습니다. 닉슨 대통령은 또한 귀하의 안보리 의장을 상실하게 만드는 어떠한 조치도 결코 고려하지 않을 것이며, 이점은 반드시 안심하시기 바랍니다.」[^3].
 
-Ten days later, what Kissinger said to Zhou Enlai in Beijing was completely opposite in meaning.
+10일 후, 키신저가 베이징에서 저우언라이에게 한 말은 정반대였다.
 
-From July 9 to 11, Kissinger faked a stomachache in Pakistan and secretly flew to Beijing to meet Zhou Enlai. According to later declassified dialogue records[^7], Kissinger proactively revealed the bottom line of the U.S.'s "complex dual representation" plan to Zhou Enlai: Beijing could join the UN with a simple majority and take the Security Council seat, but expelling the ROC required a two-thirds majority. He promised Zhou Enlai: "As long as China joins the UN, then obtaining a two-thirds vote to expel Taiwan is only a matter of time; the key lies in both the U.S. and China knowing this arrangement clearly and reaching a tacit understanding, waiting patiently."[^3]
+7월 9일부터 11일까지, 키신저는 파키스탄에서 배가 아프다는 핑계를 대고 비밀리에 베이징을 찾아 저우언라이를 만났다. 이후 기밀 해제된 대화 기록[^7]에 따르면, 키신저는 자발적으로 저우언라이에게 미국의 「복잡한 이중대표권」 방안의 진짜 의도를 알려주었다: 베이징은 단순 다수로 유엔에 가입하고 안보리 의장을 얻을 수 있지만, 중화민국을 축출하려면 3분의 2 다수결이 필요하다. 그는 저우언라이에게 약속했다: 「중국이 유엔에 가입하기만 한다면, 3분의 2 표를 얻어 대만을 축출하는 것은 시간 문제일 뿐입니다. 핵심은 미중 양국이 이 배치를 서로 암묵적으로 이해하고 묵인하며 인내심을 갖고 기다리는 것입니다.」[^3].
 
-Zhou Enlai did not appreciate it: "We have already waited for 21 years." And warned: "Taiwan will also oppose it, and the voices of opposition will come from all directions." Kissinger raised his hand in surrender, admitting this "is a very good way to end this issue"[^3].
+저우언라이는 호의적으로 받아들이지 않았다: 「우리는 이미 21년을 기다렸습니다.」 그리고 경고했다: 「대만도 이에 반대할 것이며, 반대의 목소리는 사방에서 들려올 것입니다.」 키신저는 양손을 들어 항복하며, 이것이 「이 문제를 끝내는 훌륭한 방법이다」라고 인정했다[^3].
 
-On July 15, Nixon publicly announced Kissinger's visit to China. Small and medium-sized countries that were still观望 (watching)纷纷 changed their stances. From October 20 to 26, when the General Assembly was debating China's representation, where was Kissinger? He was in Beijing again—this time for a public visit, paving the way for Nixon's visit to China the following year[^8]. Taipei diplomats described: "We are fighting bloody battles on the front line, while our allies are drinking tea in the enemy's capital."
+7월 15일, 닉슨은 키신ger의 중국 방문을 공식적으로 발표했다. 원래 관망 중이던 중소국들이 줄줄이 입장을 바꿨다. 10월 20일부터 26일까지 유엔 총회가 중국 대표권을 논의하는 동안, 키신저는 어디에 있었는가? 또 베이징에 있었다——이번에는 공개 방문으로, 닉슨의 이듬해 중국 방문을 위한 포석이었다[^8]. 타이베이의 외교관들은 이렇게 표현했다: 「우리는 전선에서 피를 흘리며 싸우고 있는데, 동맹국은 적의 수도에서 차를 마시고 있다.」
 
-Former Deputy Minister of Foreign Affairs Chien Fu stated directly years later in an interview: "The U.S. preferred to sacrifice the ROC to woo the CCP."[^9]
+전 외무차장 첸푸(전복)는 수년 후 단독 인터뷰에서 직설적으로 말했다: 「미국은 중화민국을 희생시키더라도 중국 공산당을 끌어들이는 것을 택했다.」[^9]
 
-## Those 17 Minutes: Shen Chien-hung Steps Down from the Podium
+## 그 17분: 주서楷(주서개)가 연단에서 내려오다
 
-The agenda on October 25 was very dramatic.
+10월 25일 당일의 의정은 매우 극적이었다.
 
-In the afternoon, Saudi Arabian representative Jamil Baroody proposed a compromise: allowing Beijing to take the Security Council seat, while Taiwan remained in the General Assembly under the name "Republic of Taiwan," waiting for the two sides to resolve differences themselves[^7]. If this proposal had passed, Taiwan's fate might have been completely rewritten. But the ROC delegation insisted on "One China" and did not actively campaign; the proposal was shelved.
+오후, 사우디아라비아 대표 바루디(Jamil Baroody)가 절충안을 제출했다: 베이징에 안보리 의장을 부여하고, 대만은 「대만 공화국」의 명칭으로 총회에 남되, 양안이 스스로 분쟁을 해결할 때까지 기다리는 방안[^7]. 이 안이 통과되었다면 대만의 운명은 완전히 달라졌을 수 있다. 그러나 중화민국 대표단은 「하나의 중국」 원칙을 고수하며 적극적으로 지지하지 않았고, 안은 보류되었다.
 
-At 9:47 PM, the vote on the "Important Question Resolution" took place—55 to 59, it was rejected. At this moment, the battle was decided.
+밤 9시 47분, 「중요의안안」 표결——55 대 59로 부결. 이 순간, 전세는 이미 결정되었다.
 
-Shen Chien-hung immediately raised his hand to speak. He stepped up to the podium and read a pre-prepared statement: "The Republic of China has decided to withdraw from the United Nations that it participated in creating." He then led the delegation members, including Liu Kai (then ROC Permanent Representative to the UN), out of the hall[^1][^10].
+주서楷(주서개)가 즉시 발언을 요청했다. 그는 연단에 올라 미리 준비한 성명을 낭독했다: 「중화민국은 스스로 참여하여 창설한 유엔에서 탈퇴하기로 결정한다.」 이후 류카이(유개, 당시 유엔 상임대표) 등 대표단 단원들을 이끌고 퇴장했다[^1][^10].
 
-At 10:25 PM, Resolution 2758 was put to a vote: 76 in favor, 35 against, 17 abstentions, 3 absent. The resolution text was only four paragraphs long. The key sentence was: "Decides to restore all the rights of the People's Republic of China... and immediately expel the representatives of Chiang Kai-shek from the seats they illegally occupy in the organization of the United Nations and all its related bodies."[^11]
+10시 25분, 제2758호 결의안이 표결에 부쳐졌다: 76표 찬성, 35표 반대, 17표 기권, 3표 결석. 결의문은 불과 단락 네 개에 불과했으며, 핵심 문장은 이것이었다: 「중화인민공화국의 모든 권리를 회복하기로 결정하며…… 장제스의 대표를 유엔 조직 및 그 산하 모든 기관에서 불법으로 점유하고 있는 의장에서 즉시 축출한다.」[^11]
 
-Notably: The resolution text does not contain the word "Taiwan," nor does it define the territorial scope of "China"[^11]. This became the seed for 50 years of international law disputes.
+주목할 점: 결의문에는 「대만」이라는 두 글자가 없었고, 「중국」의 영토 범위도 정의하지 않았다[^11]. 이것이 이후 50년간 국제법 논쟁의 씨앗이 되었다.
 
-## Chiang Kai-shek's "Message to Compatriots Nationwide" and Domestic Impact
+## 장제스의 「전국동포에게 고하는 글」과 섬 내부의 충격
 
-Early on the morning of October 26, Chiang Kai-shek issued the "Message to Compatriots Nationwide on the ROC's Exit from the UN": "Our country's stance of 'neither Han nor 贼 coexist' and the dignity of upholding the Charter... forces us to painfully announce our withdrawal from the United Nations organization that we participated in creating with difficulty."[^12] The eight characters at the end, "Be dignified and self-reliant, remain calm in the face of change," were printed in textbooks and carved on school gates for the next 30 years.
+10월 26일 이른 아침, 장제스는 《중화민국 유엔 탈퇴 전국동포에게 고하는 글》을 발표했다: 「우리 나라는 「한적불양립」의 입장과 헌장의 존엄을 수호하기 위해…… 어쩔 수 없이 우리가 참여하여 어렵게 창설한 유엔 조직에서 탈퇴한다는 것을 통고하게 되었습니다.」[^12] 글 마지막의 「장경자강(莊敬自强), 처변불경(處變不驚)」 여덟 글자는 이후 30년간 교과서에 인쇄되고 교문에 새겨졌다.
 
-But the domestic impact was far more cruel than the official language. Alumni of the National Taiwan University Law School, Hung San-shiung and Chen Ling-yu, recalled: "When the news reached the mainland, the dream of 'counterattacking the mainland and liberating compatriots' was shattered in an instant, let alone 'neither Han nor 贼 coexist' becoming empty talk."[^13] This defeat directly ignited the NTU Student Movement and the "Save the Diaoyu Islands Movement" between 1971 and 1973. Students began to question the party-state myth, and many future leaders of the non-Tangwai and democratic movements were politically enlightened in this storm.
+그러나 섬 내부의 충격은 공식 언어보다 훨씬 잔혹했다. 대만대학 법학원 홍삼웅(홍삼웅), 천령옥(진령옥)은 회고했다: 「소식이 국내에 전해지자, 「반공대륙, 동포 구출」이라는 꿈이 한순간에 깨졌고, 「한적불양립」조차 공허한 말에 불과했다.」[^13] 이 좌절은 1971년부터 1973년 사이 대만대학 학생운동과 「보어운동(保釣運動)」을 직접적으로 점화했으며, 학생들은 당국 신화에 의문을 제기하기 시작했고, 이후 당외(在野)와 민주운동의 많은 지도자들이 이 폭풍 속에서 정치적 각성을 얻었다.
 
-In his 2021 book *1971 Mythical United Nations*, Yao Chia-wen directly stated that Chiang Kai-shek "preferred to be expelled rather than represent Taiwan"—if the Baloudi Plan had been accepted back then, and Taiwan had remained under the name "Taiwan," Taiwan's international situation afterwards would have been completely different[^14]. But Wang Hao's research points out: The problem actually lay in Nixon and Kissinger having already decided to sacrifice Taiwan; Chiang Kai-shek "could not save it no matter how flexible he was"—this is a story of two national leaders joining hands to eliminate an ally[^3].
+야오자원(요가문)이 2021년에 출간한 《1971 신화 유엔》에서 장제스를 직접 비판했다: 장제스는 「축출당할지언정 대만을 대표하길 거부했다」——만약 당시 바루디안을 수용하고 「대만」의 이름으로 남았다면, 대만의 이후 국제적 처지는 완전히 달라졌을 것이다[^14]. 그러나 왕하오의 연구는 지적한다: 문제는 실제로 닉슨과 키신저가 이미 대만을 희생시키기로 결정했다는 데 있으며, 장제스가 「아무리 유연해도 되돌릴 수 없었다」——이것은 두 나라의 지도자가 합작하여 동맹국 하나를 제거한 이야기이다[^3].
 
-## Echoes 50 Years Later: What Exactly Does Resolution 2758 Say?
+## 50년 후의 메아리: 제2758호 결의안은 도대체 무엇을 말했는가?
 
-The consequences of exiting the UN were domino-like. From 1971 to 1979, the number of countries breaking diplomatic relations with the ROC dropped sharply from 68 to only 22; Japan broke relations in 1972, and the U.S. in 1979[^15]. Taiwan was excluded from the WHO, ICAO, and Interpol, and even passports were often misidentified.
+유엔 탈퇴의 결과는 도미노식이었다. 1971년부터 1979년까지 중화민국과 단교한 국가는 68개국에서 22개국으로 급감했다; 1972년 일본이, 1979년 미국이 단교했다[^15]. 대만은 WHO, ICAO, Interpol에서 배제되었고, 여권조차 자주 오인되었다.
 
-But since the 2020s, the international community has begun to re-examine Resolution 2758.
+그러나 2020년대 이후, 국제사회는 제2758호 결의안을 재검토하기 시작했다.
 
-Starting in 2024, the U.S., UK, European Parliament, Australia, Netherlands, and other countries successively passed resolutions or statements, explicitly pointing out: Resolution 2758 only addressed "China's representation," did not address "Taiwan's political status," and did not authorize China to represent Taiwan[^16]. On April 23, 2025, the U.S. publicly criticized China for "distorting" Resolution 2758 for the first time at the UN Security Council; on May 5, the U.S. House of Representatives passed the *Taiwan International Solidarity Act* without dissent, formally confirming this stance in domestic law[^17].
+2024년부터 미국, 영국, 유럽의회, 호주, 네덜란드 등이 잇달아 결의안이나 성명을 통해 명확히 지적했다: 제2758호 결의안은 「중국 대표권」만을 다루었을 뿐, 「대만의 정치적 지위」를 다루지 않았으며, 중국이 대만을 대표할 권한을 부여하지도 않았다[^16]. 2025년 4월 23일, 미국은 유엔 안보리에서 처음으로 중국이 제2758호 결의안을 「곡해」한다고 공개적으로 비판했다; 5월 5일, 미국 하원은 만장일치로 「대만 국제단결법안」을 통과시켜, 국내법 형식으로 이 입장을 공식 확인했다[^17].
 
-Returning to those 17 minutes in 1971—the steps Shen Chien-hung took down from the podium locked Taiwan's international situation for half a century. But the text of the resolution itself did not completely close the door. The gray area left in the crack of the door is precisely the space that Taiwan's diplomats are striving to expand today.
+1971년의 그 17분으로 돌아가면——주서楷(주서개)가 연단에서 내려오는 발걸음이 대만의 반세기 국제적 처지를 잠갔다. 그러나 결의문 자체는 문을 완전히 닫지는 않았다. 문틈 사이에 남은 회색 지대가 바로 오늘날 대만 외교관들이 열어가려 노력하는 공간이다.
 
-## References
+## 참고 문헌
 
-[^1]: [How Did the Republic of China Exit the United Nations? — Deutsche Welle (2009)](https://www.dw.com/zh-hant/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%98%AF%E6%80%8E%E6%A8%A3%E9%80%80%E5%87%BA%E8%81%AF%E5%90%88%E5%9C%8B%E7%9A%84/a-2845069) — Interview with former Representative to the U.S. Chen Xi-fan, recalling the scene in the General Assembly on the night of October 25, 1971, where Shen Chien-hung read "The Republic of China has decided to withdraw from the United Nations that it participated in creating," and the entire delegation filed out.
+[^1]: [중화민국은 어떻게 유엔에서 탈퇴했는가? — 도이체 벨레(2009)](https://www.dw.com/zh-hant/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%98%AF%E6%80%8E%E6%A8%A3%E9%80%80%E5%87%BA%E8%81%AF%E5%90%88%E5%9C%8B%E7%9A%84/a-2845069) — 전 주미대표 진시판(진석번)을 인터뷰하여, 1971년 10월 25일 밤 주서楷(주서개)가 「중화민국은 스스로 참여하여 창설한 유엔에서 탈퇴하기로 결정한다」를 낭독하고 대표단 전원이 차례로 퇴장한 회의장 현장을 회고.
 
-[^2]: [Shen Chien-hung and the United Nations — ROC Ministry of Foreign Affairs Newsletter (June 2009, Vol. 28)](https://multilingual.mofa.gov.tw/web/web_utf-8/out/2801/5-2_page.html) — Official publication of the Ministry of Foreign Affairs reviewing Shen Chien-hung's life, recording the historical scene of the signing of the UN Charter in San Francisco in June 1945, Chiang Kai-shek signing the instrument of ratification on August 24, and the legal basis for the ROC as a founding member and permanent member of the Security Council.
+[^2]: [주서楷(주서개)와 유엔 — 중화민국 외무부 통신(2009년 6월호, 제28권)](https://multilingual.mofa.gov.tw/web/web_utf-8/out/2801/5-2_page.html) — 외무부 공식 간행물이 주서楷(주서개)의 일생을 회고하며, 1945년 6월 샌프란시스코 「유엔 헌장」 서명, 8월 24일 장중정(장제스)이 충칭에서 비준서에 서명한 역사적 현장, 그리고 중화민국이 창립 회원국이자 안보리 상임이사국으로서의 법적 근거를 기록.
 
-[^3]: [Wang Hao, "Why Was the Republic of China Forced to Exit the United Nations? — Chiang Kai-shek's Policy Bottom Line on UN Representation," *Story Studio* (2017-07-06)](https://storystudio.tw/article/gushi/ares2758-a) — Citing declassified *Diaries of Chiang Chung-cheng*, Ministry of Foreign Affairs archives, and White House dialogue records, revealing that Chiang Kai-shek had already accepted "dual representation" internally, the U.S. State Department praised Taiwan for showing "extraordinary flexibility," and Nixon's true inner thoughts: "I really hope we fail by sticking to principles, so they can get out."
+[^3]: [왕하오(汪浩), 〈중화민국은 왜 유엔에서 탈퇴할 수밖에 없었는가?——장제스의 유엔 대표권 정책 마지노선〉, 《스토리 스토리스튜디오》(2017-07-06)](https://storystudio.tw/article/gushi/ares2758-a) — 국사관 기밀 해제된 《장중정 일기》, 외무부 문건, 백악관 대화 기록을 인용하여, 장제스가 이미 내부적으로 「이중대표권」을 수용했고 미국 국무부가 대만의 「비범한 유연성」을 극찬했으며, 닉슨의 「나는 원칙을 고수하다가 실패하는 것을 바란다, 그들을 쫓아내자」라는 진심을 폭로.
 
-[^4]: [Liu Xin, "On the Movement for the Republic of China (in Taiwan) to Participate in the United Nations," *Strait Review* Issue 45](https://haixia-info.com/articles/1148) — Citing former Foreign Minister Hu Shih's famous metaphor: "The 'One China' policy is like painting the floor of a room; once you finish, you step out of the room," revealing the fundamental limitations of the 'One China' framework on the ROC's international space.
+[^4]: [류신(유신), 〈「중화민국재대만(中華民國在台灣)」 유엔 참여 운동론〉, 《해협평론》 제45호](https://haixia-info.com/articles/1148) — 전 외무부장 예공초(엽공초)의 유명한 비유를 인용: 「「하나의 중국」 정책이란 마치 방 바닥에 페인트를 칠하는 것과 같다, 다 칠하고 나면 방 문 밖으로 물러나게 되는 것이다」, 「일중(一中)」 프레임이 중화민국의 국제적 공간에 대해 근본적으로 제한하는 것을 드러냄.
 
-[^5]: [Chen Wen-xian, *Isolated Taiwan: The 22-Year Controversy over UN "China" Representation* Extended Discussion, *New Century Think Tank Forum* Issue 110 (2025-06-30)](https://www.taiwanncf.org.tw/ttforum/110/110-07.pdf) — Professor of National Chengchi University Institute of Taiwan History citing first-hand archives, analyzing the evolution of "Two Chinas" and "One China, One Taiwan" solutions between 1949 and 1971, and the strategic shift of the U.S. from the "Important Question Resolution" to the "Complex Dual Representation Plan."
+[^5]: [천원헌(진문현), 《외교적으로 고립된 대만: 유엔 「중국」 대표권 22년 논쟁의 전말》 확장 논의, 《신세기지고포럼》 제110호(2025-06-30)](https://www.taiwanncf.org.tw/ttforum/110/110-07.pdf) — 정대 대만사연구소 교수가 1차 문건을 근거로 「두 개의 중국」과 「일중일대(一中一台)」 두 가지 해결책이 1949년부터 1971년 사이에 어떻게 변천했는지, 그리고 미국이 「중요의안안」에서 「복잡한 이중대표권안」으로 전략을 전환한 과정을 분석.
 
-[^6]: [Zhong Ling, "Old Bush Passes Away, Endured CCP Mockery to Defend Taiwan," *See China* (2018-12-01)](https://www.secretchina.com/news/b5/2018/12/01/877956.html) — Reviewing the details of then-U.S. Ambassador to the UN George H.W. Bush desperately lobbying for the "Dual Representation Plan" in the General Assembly hall in October 1971, only to be betrayed by the secret diplomacy of Nixon and Kissinger, and his subsequent criticism of the CCP.
+[^6]: [종령(종영), 〈아버지 부시 서거　대만 수호를 위해 중국의 조롱을 견디다〉, 《간중국(看中國)》(2018-12-01)](https://www.secretchina.com/news/b5/2018/12/01/877956.html) — 당시 미국 유엔 대사였던 아버지 부시가 1971년 10월 회의장에서 「이중대표권안」을 위해 표를 열심히 모았으나 닉슨과 키신저의 밀실 외교에 배신당한 세부 사항과, 이후 중국 공산당에 대한 그의 비판을 회고.
 
-[^7]: [Zhang Jing, "The Taiwan Issue and the Japanese Factor in the 1971 Secret Talks between Zhou Enlai and Kissinger," *Party Literature* (2013-04-25)](https://www.dswxyjy.org.cn/BIG5/n1/2019/0228/c425369-30912380.html) — Based on U.S. declassified archives, detailing the process of Saudi representative Baroody's "Republic of Taiwan" compromise proposal being shelved in the General Assembly, and the specific commitments made regarding the "Two Chinas" stance during Kissinger's secret talks in Beijing.
+[^7]: [장징(장경), 〈저우언라이와 키신저 1971년 비밀 회담에서의 대만 문제 및 일본 요인〉, 《당의 문헌》(2013-04-25)](https://www.dswxyjy.org.cn/BIG5/n1/2019/0228/c425369-30912380.html) — 미국 기밀 해제 문건을 바탕으로, 사우디 대표 바루디가 총회에서 제출한 「대만 공화국」 절충안이 보류된 과정과, 키신저의 베이징 비밀 방문 회담에서 「두 개의 중국」 입장에 대한 구체적 약속을 상세히 서술.
 
-[^8]: [Kissinger's Secret Trip to China — National Security Archive, George Washington University](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB66/) — Full text of U.S. declassified records of Kissinger and Zhou Enlai's talks, including Kissinger's explicit commitments of "not supporting Two Chinas, not supporting Taiwan independence, withdrawing troops from Taiwan within the second term," and timeline details of Kissinger's second public visit to Beijing during the October 1971 General Assembly vote.
+[^8]: [Kissinger's Secret Trip to China — National Security Archive, George Washington University](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB66/) — 미국 측 기밀 해제된 키신저와 저우언라이 회담 기록 전문. 키신저가 「두 개의 중국을 지지하지 않고, 대만 독립을 지지하지 않으며, 두 번째 임기 내에 대만에서 철군하겠다」는 명확한 약속과, 1971년 10월 유엔 총회 표결 기간 중 키신저가 다시 공개적으로 베이징을 방문한 일정 세부 사항을 포함.
 
-[^9]: ["50 Years After Exiting the UN: Interview with Chien Fu to Restore the Past — The U.S. Preferred to Sacrifice the ROC to Woo the CCP," *United Daily News* (2021-10)](https://vip.udn.com/vip/story/121160/5777987) — Former Deputy Minister of Foreign Affairs and former President of the Control Yuan Chien Fu reviews first-hand experience of the 1971 negotiations, revealing the information gap between the U.S. State Department, White House, and UN Representative Office, and the essence of "wooing the CCP is superior to keeping alliances."
+[^9]: [〈유엔 탈퇴 50년: 전 외무차장 첸푸(전복) 단독 인터뷰——미국은 중화민국을 희생시키더라도 중국 공산당을 끌어들였다〉, 《연합보(聯合報)》(2021-10)](https://vip.udn.com/vip/story/121160/5777987) — 전 외무차장, 전 감찰원장 첸푸(전복)가 1971년 협상의 1차 경험을 회고하며, 미국 국무부, 백악관, 유엔 대표부 세 갈래 사이의 정보 격차와 「동맹국에 대한 신의 이행보다 중국 공산당 포섭을 우선한다」는 본질을 폭로.
 
-[^10]: [Introduction Page of *Struggling with the UN: Senior Ambassador's Witness Record*, Reference for Wikipedia Entry on *Liu Kai (Diplomat)*, Republic of China History and Culture Society (2022-10-25)](http://www.rchcs.com.tw/bookdetail-1628.html) — Zhu Hanyuan and Yang Liming interviewed multiple senior diplomats who experienced the representation battle (including the team surrounding then-Permanent Representative to the UN Liu Kai), reconstructing the 17-minute details in the General Assembly before and after Shen Chien-hung stepped down from the podium and the internal decision-making process.
+[^10]: [〈류카이(유개, 외교관)〉 백과 항목이 참고한 《전유엔(纏鬥聯合國): 베테랑 대사 증언록》 소개 페이지, 민국역사문화학사(2022-10-25)](http://www.rchcs.com.tw/bookdetail-1628.html) — 주홍원(주홍원), 양리명(양력명)이 대표권 전쟁에 직접 참여한 베테랑 외교관들(당시 유엔 상임대표 류카이(유개) 주변 팀 포함)을 인터뷰하여, 주서楷(주서개)가 연단에서 내려오기 전후 17분의 회의장 세부 사항과 내부 의사결정 과정을 재구성.
 
-[^11]: [General Assembly Resolution A/RES/2758(XXVI): Restoration of the Legitimate Rights of the People's Republic of China in the United Nations — Official UN Document (1971-10-25)](https://www.un.org/zh/ga/26/res/ares2758.html) — Complete text of Resolution 2758, only four paragraphs in total. The key sentence is "expel the representatives of Chiang Kai-shek." The word "Taiwan" does not appear in the full text, nor does it define the territorial scope of "China"—this is the fundamental textual basis for subsequent international law disputes.
+[^11]: [총회 결의 A/RES/2758(XXVI): 유엔에서의 중화인민공화국의 합법적 권리 회복 — 유엔 공식 문서(1971-10-25)](https://www.un.org/zh/ga/26/res/ares2758.html) — 제2758호 결의안 전문. 전문은 불과 단락 네 개이며, 핵심 문장은 「장제스의 대표를 축출한다」이고, 전문에 「대만」이라는 글자가 등장하지 않으며 「중국」의 영토 범위도 정의하지 않음——이것이 이후 국제법 논쟁의 근본적 문근 근거.
 
-[^12]: ["Message to Compatriots Nationwide on the ROC's Exit from the United Nations" — WikiSource (Chiang Kai-shek, 1971-10-26)](https://zh.wikisource.org/zh-hant/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%80%80%E5%87%BA%E8%81%AF%E5%90%88%E5%9C%8B%E5%91%8A%E5%85%A8%E5%9C%8B%E5%90%8C%E8%83%9E%E6%9B%B8) — First-hand historical material of Chiang Kai-shek announcing the exit from the UN, including the original text of the stance of "neither Han nor 贼 coexist" and the eight-character slogan "Be dignified and self-reliant, remain calm in the face of change."
+[^12]: [〈중화민국 유엔 탈퇴 전국동포에게 고하는 글〉 — 위키문서고(장중정, 1971-10-26)](https://zh.wikisource.org/zh-hant/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%80%80%E5%87%BA%E8%81%AF%E5%90%88%E5%9C%8B%E5%91%8A%E5%85%A8%E5%9C%8B%E5%90%8C%E8%83%9E%E6%9B%B8) — 장제스가 유엔 탈퇴를 선언한 1차 사료 전문. 「한적불양립」 입장과 「장경자강(莊敬自强), 처변불경(處變不驚)」 여덟 글자 정신 구호의 원문을 포함.
 
-[^13]: [Hung San-shiung, Chen Ling-yu, "The Beacon of the Cuckoo City in the 1970s — A Review of the NTU Student Movement (Part 3): The Turmoil of Exiting the UN," *NTU Alumni Bi-Monthly* (2025-07)](https://ntualumnibm.ntu.edu.tw/index.php/bm.bimonthly.article/download.file/sn/9364/file_id/art_attachment_files/key/202507021418456864cf459eb59/preview/0) — Eyewitnesses recall the domestic shock in Taiwan after the news of October 26, 1971, recorded how exiting the UN directly ignited the NTU Student Movement and the Save the Diaoyu Islands Movement, and enlightened a whole generation of future non-Tangwai and democratic movement leaders.
+[^13]: [홍삼웅(홍삼웅), 천령옥(진령옥), 〈1970년대의 불꽃 진성(진성)——대만대학 학생운동 회고(삼): 유엔 탈퇴의 격랑〉, 《대만대학 교우 양월간(臺大校友雙月刊)》(2025-07)](https://ntualumnibm.ntu.edu.tw/index.php/bm.bimonthly.article/download.file/sn/9364/file_id/art_attachment_files/key/202507021418456864cf459eb59/preview/0) — 당사자가 1971년 10월 26일 소식이 대만에 전해진 후의 섬 내부 진동을 회고하며, 유엔 탈퇴가 어떻게 대만대학 학생운동과 보어운동을 직접 점화했고, 이후 당외와 민주운동의 지도자 세대를 정치적으로 각성시켰는지를 기록.
 
-[^14]: ["Yao Chia-wen's New Book Discusses 1971 Exit from the UN: Criticizes Chiang Kai-shek for 'Preferring to Be Expelled Rather Than Represent Taiwan'," *CMedia* (2021-10-07)](https://www.cmmedia.com.tw/home/articles/30182) — Reports on the content of Presidential Advisor Yao Chia-wen's book *1971 Mythical United Nations*, revealing the internal decision-making secrets of Chiang Kai-shek refusing to "remain under the name of Taiwan," re-evaluating this exit from the perspective of Taiwan's subjectivity.
+[^14]: [〈야오자원(요가문) 신간, 1971년 유엔 탈퇴 논의: 장제스 「축출당할지언정 대만을 대표하길 거부했다」 비판〉, 《신미디어(信傳媒)》(2021-10-07)](https://www.cmmedia.com.tw/home/articles/30182) — 대통령부 고문 야오자원(요가문)의 저서 《1971 신화 유엔》 내용을 보도하며, 장제스가 「대만의 이름으로 남는 것」을 거부한 내부 의사결정 비밀을 폭로하고 대만 주체성 관점에서 이 퇴장을 재평가.
 
-[^15]: ["Chen Yi-shen: The Story of the UN 'China Representation' Controversy (1949–1971)," *New Century Think Tank Forum* Issue 96 (2021-12-30)](https://www.taiwanncf.org.tw/ttforum/96/96-03.pdf) — Former Director of the National Palace Museum Chen Yi-shen organizes the timeline of the representation battle and the subsequent diplomatic domino effect, including Japan breaking relations in 1972, the U.S. in 1979, and the specific process of the number of diplomatic countries dropping sharply from 68 to 22.
+[^15]: [진이심(진의심), 〈유엔 「중국 대표권」 논쟁의 전말(1949~1971)〉, 《신세기지고포럼》 제96호(2021-12-30)](https://www.taiwanncf.org.tw/ttforum/96/96-03.pdf) — 국사관 전 관장 진이심(진의심)이 대표권 전쟁의 연대기와 이후 수교 도미노 효과를 정리. 1972년 일본 단교, 1979년 미국 단교를 포함하여 수교국이 68개국에서 22개국으로 급감한 구체적 과정을 기술.
 
-[^16]: ["Government Promotes 2024 UN Participation Case, Mainly to Refute the Distortion and Misuse of UN General Assembly Resolution 2758," ROC Ministry of Foreign Affairs Press Release (2024)](https://www.mofa.gov.tw/News_Content.aspx?n=96&s=117985) — Official explanation by the Ministry of Foreign Affairs on the progress of international law interpretation that the U.S., UK, EU, Australia, Netherlands, and other countries successively passed resolutions starting in 2024, reaffirming that Resolution 2758 only addressed China's representation and did not address Taiwan's political status.
+[^16]: [〈정부, 2024년 유엔 참여 추진, 유엔 총회 제2758호 결의안의 곡해 및 오용 반박을 주요 요구로〉, 중화민국 외무부 보도자료(2024)](https://www.mofa.gov.tw/News_Content.aspx?n=96&s=117985) — 외무부가 미국, 영국, EU, 호주, 네덜란드 등 2024년부터 잇달아 결의안을 통과시켜 제2758호 결의안이 중국 대표권만을 다루고 대만의 정치적 지위를 다루지 않았음을 재확인한 국제법 해석의 진전을 공식 설명.
 
-[^17]: ["U.S. House Passes Bill Emphasizing UN GA Resolution 2758 Did Not Address Taiwan's Representation," *CNA* (2025-05-06)](https://www.cna.com.tw/news/aipl/202505060008.aspx) — Reports that the U.S. House of Representatives passed the *Taiwan International Solidarity Act* without dissent on May 5, 2025, formally confirming in domestic law that Resolution 2758 does not involve Taiwan's representation, echoing the U.S. public statement at the UN Security Council on April 23.
+[^17]: [〈미 하원, 유엔 2758호 결의안이 대만 대표권 문제를 다루지 않았음을 강조하는 법안 통과〉, 《중앙사(中央社)》(2025-05-06)](https://www.cna.com.tw/news/aipl/202505060008.aspx) — 미국 하원이 2025년 5월 5일 만장일치로 「대만 국제단결법안」을 통과시켜 2758호 결의안이 대만 대표권과 무관함을 국내법 형식으로 공식 확인한 것을 보도. 4월 23일 미국이 유엔 안보리에서 처음으로 공개적으로 표명한 입장에 호응.

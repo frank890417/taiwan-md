@@ -1,94 +1,121 @@
 ---
-title: 'Shih Ming-teh'
-description: "Figure centrale de l'Incident de Formosa, pionnier de la démocratisation de Taïwan, prisonnier politique ayant passé 25 ans derrière les barreaux"
+title: 'Shih Ming-teh : vingt-cinq ans derrière les barreaux, il finit par lever le drapeau contre son propre parti'
+description: "Après l'incident de Kaohsiung en 1979, Shih Ming-teh, désigné comme cerveau de l'affaire, prononça un plaidoyer éloquent devant le tribunal militaire : il ne reconnut aucun crime, ne demanda aucune clémence, et fut finalement condamné à la prison à vie. Il passa au total plus de vingt-cinq ans incarcéré, devenant l'une des figures les plus marquantes du mouvement démocratique taïwanais. Mais en 2006, celui qui avait contribué à bâtir le Parti démocrate progressiste (DPP) se retourna contre le pouvoir en lançant le mouvement des Chemises rouges contre Chen Shui-bian. Le 15 janvier 2024, jour de son 83e anniversaire, il quitta ce monde en emportant cette contradiction irrésolue."
 date: 2026-03-19
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '政治與民主'
 tags:
   [
     'mouvement démocratique',
-    'Incident de Formosa',
+    'incident de Kaohsiung',
     'prisonnier politique',
-    'Mouvement des chemises rouges',
-    'leader politique',
+    'mouvement des Chemises rouges contre Chen Shui-bian',
+    'dirigeant politique',
   ]
-subcategory: 'Politique et démocratie'
-category: 'People'
-author: 'Taiwan.md Translation Team'
-readingTime: 10
+readingTime: "# design_rationale:\n#   why_this_hook: \"選擇軍法庭上『請判我死刑』的場景——這個時刻最能定義施明德：不是英雄主義的表演，而是對整個審判邏輯的拒絕。以這個場景作為 anchor，讀者從一開始就站在『他到底在堅持什麼』的問題上。\"\n#   whats_excluded: \"中國大陸媒體對其倒扁運動的定性（親藍工具論）；美麗島事件後黨外運動路線鬥爭的細節；部分學者對其貢獻的保留意見；紅衫軍中泛藍協作的具體指控\"\n#   where_it_hedges: \"坐牢確切年數（各來源介於25-26年，採較保守的二十五年以上表述）；1962年被捕的政治組織確切名稱（史料略有出入）\""
+lastVerified: 2026-05-07
+lastHumanReview: false
 featured: false
-lastVerified: 2026-03-19
 translatedFrom: 'People/施明德.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:04fdf466b4f03b64'
-sourceBodyHash: 'sha256:178620cfcfd0c288'
-translatedAt: '2026-04-14T19:15:12+08:00'
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:26dd4eef921bd1dc'
+sourceBodyHash: 'sha256:604f0360ebfc7d94'
+translatedAt: '2026-05-09T14:29:10+08:00'
 ---
 
-# Shih Ming-teh : un combattant indéfectible de la démocratie
+# Shih Ming-teh : vingt-cinq ans derrière les barreaux, il finit par lever le drapeau contre son propre parti
 
-Né en 1941 à Kaohsiung, Shih Ming-teh compte parmi les personnalités politiques les plus déterminantes de la démocratisation de Taïwan. Au total, il aura passé 25 ans en prison pour son engagement dans le mouvement démocratique — dont une part décisive pour son rôle central dans l'Incident de Formosa de 1979. Des décennies plus tard, en 2006, c'est lui encore qui lance le Mouvement des chemises rouges, mobilisant des centaines de milliers de Taïwanais contre la corruption. Sa trajectoire est le miroir d'une île entière en marche de l'autoritarisme vers la démocratie.
+> **En 30 secondes :** Shih Ming-teh fut emprisonné à deux reprises, passant au total plus de vingt-cinq ans derrière les barreaux. Après l'incident de Kaohsiung en 1979, il refusa de plaider coupable devant le tribunal militaire, demanda lui-même la mort, et fut finalement condamné à la prison à vie. Après sa libération, il contribua à renforcer le Parti démocrate progressiste (DPP) et en assura la présidence de 1994 à 1996. En 2006, il lança le mouvement des Chemises rouges, rassemblant un million de personnes contre la corruption du président Chen Shui-bian, levant ainsi le drapeau contre la cause même pour laquelle il avait autrefois combattu. Le 15 janvier 2024, il mourut d'un cancer du foie le jour de son 83e anniversaire.
 
-## Les premières années : une conscience politique précoce
+## La première porte de prison à vingt et un ans
 
-Dès sa jeunesse, Shih manifeste un sens aigu de la justice et une passion pour la politique. En 1962, à seulement 21 ans, il est arrêté pour avoir participé aux activités de la Ligue pour l'indépendance de Taïwan et condamné à la réclusion à perpétuité. C'est le début d'une longue carrière de résistance.
+En 1962, Shih Ming-teh fut arrêté pour sa participation à des activités d'une organisation politique et condamné à la prison à vie.[^1] Il avait alors vingt et un ans. Taïwan vivait encore sous la férule de la loi martiale, et le sort des prisonniers politiques dépendait davantage de la volonté du pouvoir en place de toute procédure légale.
 
-En prison, loin de se soumettre à la rigueur de l'enfermement, Shih lit abondamment, réfléchit à l'avenir politique de Taïwan et forge ses convictions. En 1975, la mort de Chiang Kai-shek lui vaut une réduction de peine : après 13 ans de détention, il recouvre la liberté.
+Il passa treize ans dans les prisons de l'île de Green Island et de Taïwan continentale. En 1975, à la mort de Tchang Kaï-chek, le gouvernement déclara une amnistie générale, et Shih Ming-teh fut libéré.[^2] Il avait alors trente-quatre ans : la moitié de sa jeunesse s'était écoulée derrière les barreaux.
 
-## Au cœur du mouvement Tangwai
+## L'été derniers des dissidents
 
-À sa sortie de prison, Shih s'investit immédiatement dans le mouvement démocratique Tangwai (hors-parti). Dans la seconde moitié des années 1970, la pression conjointe de la scène internationale et des dissidences internes oblige le régime autoritaire à tolérer un espace d'action plus large pour les opposants. Shih devient l'un des organisateurs pivots de ce mouvement et milite activement pour la réforme démocratique.
+À la fin des années 1970, le mouvement dissident taïwanais, porté par la pression internationale et les aspirations à la réforme intérieure, trouva un espace d'action relativement plus large. Shih Ming-teh devint l'un des organisateurs centraux de ce mouvement, s'activement employant à tisser des liens entre les réformateurs de tout le pays.
 
-Il participe à la fondation de la revue _Formosa_, qui s'impose comme le principal organe de l'opposition politique. Rédigée sur un ton mesuré et rationnel, la revue plaide pour la démocratie tout en abordant des sujets alors tabous : réforme politique, droits de l'homme, tensions entre groupes ethniques.
+En 1979, il participa à la fondation du magazine _Formosa_ (《美麗島》).[^3] Cette publication, qui prônait la réforme démocratique et la défense des droits de l'homme, devint rapidement le bastion intellectuel du mouvement dissident, reliant à travers Taïwan des opposants qui ne se connaissaient pas. Rétrospectivement, cet été et cet automne étaient chargés des courants souterrains qui précèdent la fin d'une époque.
 
-## L'Incident de Formosa : un tournant dans l'histoire de Taïwan
+## Kaohsiung, le 10 décembre 1979
 
-Le 10 décembre 1979, Journée internationale des droits de l'homme, la revue _Formosa_ organise un rassemblement à Kaohsiung. La manifestation dégénère en violents affrontements entre la foule et les forces de l'ordre — c'est l'Incident de Formosa, ou Incident de Kaohsiung. Shih, l'un des cadres dirigeants de la revue, est considéré comme l'un des principaux organisateurs.
+Le 10 décembre 1979, Journée internationale des droits de l'homme, le magazine _Formosa_ organisa un rassemblement pour les droits de l'homme à Kaohsiung. La foule se massa, les tensions montèrent, et la situation dégénéra en une violente confrontation entre les forces antiémeutes et les manifestants : c'est ce que l'histoire retient sous le nom d'« incident de Kaohsiung ».[^3]
 
-Les arrestations se succèdent. Shih et ses co-inculpés sont poursuivis pour rébellion, sous la menace de la peine de mort. Lors du procès militaire, il fait preuve d'un courage remarquable : refusant de plaider coupable, il prend la parole devant le tribunal pour défendre ses idéaux démocratiques. Cette posture impressionne profondément l'opinion, et l'Incident de Formosa devient un moment charnière dans la démocratisation de Taïwan.
+Après les faits, Shih Ming-teh prit la fuite sous un déguisement, se cachant pendant plusieurs semaines avant d'être finalement arrêté.[^1] Le gouvernement du Kuomintang lança des arrestations massives, poursuivant pour sédition les membres clés du magazine _Formosa_ ; Shih Ming-teh fut désigné comme le cerveau de l'affaire.
 
-## Une deuxième incarcération, plus dure encore
+## Ce plaidoyer adressé à l'histoire
 
-À l'issue du procès, Shih est de nouveau condamné à la perpétuité. Les conditions de détention sont plus sévères que lors de son premier emprisonnement, mais il ne cède pas : il refuse toute concession aux autorités et entame des grèves de la faim pour protester contre l'injustice du jugement.
+Le 28 mars 1980, Shih Ming-teh monta à la barre du tribunal militaire pour sa déclaration finale.
 
-En 1990, dans un contexte politique en pleine mutation, il est finalement libéré. Ses deux périodes cumulées derrière les barreaux totalisent 25 ans — les années les plus précieuses de sa vie. Il n'en exprime aucun regret, estimant que ce sacrifice était le prix inévitable de ses convictions.
+Il avait initialement rédigé un « testament politique » de soixante mille caractères, qu'il comptait lire à l'audience. Mais quelques semaines auparavant, la famille de Lin Yi-hsiung avait été massacrée à Taipei : sa mère et ses deux filles jumelles avaient été tuées, sa femme grièvement blessée.[^4] Apprenant la nouvelle, Shih Ming-teh renonça aux soixante mille caractères et prit directement la parole :
 
-## De la fondation du DPP à la vie politique
+« **Condamnez-moi à mort ! Je vous en supplie ! Je vous en supplie !** »[^5]
 
-Après sa libération, Shih s'engage pleinement dans la vie politique démocratique de Taïwan. Il est l'un des membres fondateurs du Parti démocrate progressiste (DPP) et en assume la présidence, contribuant de manière décisive à son développement. Sous sa direction, le DPP se transforme d'un parti d'opposition marginal en une force politique capable de rivaliser avec le Kuomintang.
+Ce plaidoyer de soixante mille caractères fut par la suite publié sous le titre _Le Testament politique de Shih Ming-teh_. Il y écrivait : « Je n'ose espérer obtenir un jugement équitable devant cette « cour » terrestre, mais je crois sans la moindre doute que **la cour de l'histoire me rendra un jour justice !** »[^5]
 
-En 1994, il se présente à la mairie de Taipei. Malgré sa défaite, sa candidature démontre le poids du DPP dans les grandes métropoles et prouve que les anciens militants peuvent exercer une influence réelle à travers les mécanismes ordinaires de la démocratie.
+Le tribunal prononça finalement la sentence : prison à vie. C'était la deuxième fois que Shih Ming-teh était condamné à perpétuité. En prison, il entama une grève de la faim pour protester contre l'iniquité du procès et fut nourri de force plus de trois mille fois.[^1] En 1990, à mesure que l'environnement politique taïwanais évoluait, il recouvra sa liberté, après un total de plus de vingt-cinq ans d'incarcération cumulée.[^1]
 
-## 2006 : le Mouvement des chemises rouges
+> 📝 **Note du curateur** : Quand Shih Ming-teh dit « condamnez-moi à mort », cette phrase semble en surface relever de l'autodestruction, mais dans le contexte du tribunal, elle constitue en réalité un rejet de toute la logique du procès — il refusait de reconnaître à cette cour la moindre autorité morale de le « condamner » à quoi que ce soit. L'homme jugé se retrouvait ainsi, par sa hauteur morale, à dominer le tribunal du regard. Si l'incident de Kaohsiung est devenu un tournant majeur de la transition démocratique taïwanaise, cette scène du procès y est pour beaucoup.
 
-En 2006, Shih revient sur le devant de la scène, cette fois en tant que critique du DPP. Face aux scandales de corruption entourant le président Chen Shui-bian, il lance le « Mouvement d'un million de chemises rouges pour la démission de Chen ».
+## La libération et les années de construction du DPP
 
-Cette décision surprend beaucoup, lui qui avait été un pilier du DPP. Mais Shih est clair : combattre la corruption prime sur la loyauté partisane, et toute démocratie digne de ce nom doit se doter de mécanismes de contrôle et d'équilibre des pouvoirs. Le Mouvement des chemises rouges mobilise des centaines de milliers de personnes, témoignant de la maturité de la société civile taïwanaise.
+En 1986, alors que Shih Ming-teh était encore en prison, le Parti démocrate progressiste (DPP) proclama sa fondation alors que l'interdiction des partis n'avait pas encore été levée.[^6] Après sa libération, il consacra toute son énergie au renforcement de ce parti et en assura la présidence de 1994 à 1996.[^6] Son autorité provenait en partie d'un historique de sacrifices incontestable, et en partie d'une rare ténacité dans la défense de ses principes.
 
-## Une vie guidée par les principes
+En 2000, Shih Ming-teh quitta volontairement le DPP — il ne fut pas exclu, il choisit de partir.[^2]
 
-Ce qui force le plus l'admiration dans le parcours de Shih Ming-teh, c'est sa fidélité constante à ses principes. Qu'il s'agisse de résister à la répression autoritaire ou de s'affranchir des calculs partisans, il a toujours su placer les intérêts supérieurs au-dessus des intérêts personnels. Il répète volontiers : « La politique sert à réaliser des idéaux, non à satisfaire des ambitions personnelles. »
+## 2006 : lever le drapeau contre son propre parti
 
-Sa contribution à la démocratie taïwanaise tient autant à ses sacrifices qu'au modèle qu'il offre : celui d'un homme politique capable de s'élever au-dessus des clivages partisans et d'exiger de lui-même une exigence morale plus haute. Cette exemplarité a eu un impact durable sur la culture politique de l'île.
+En 2006, les scandales de corruption du président Chen Shui-bian, membre du DPP, éclatèrent les uns après les autres. Shih Ming-teh lança à titre personnel le « Mouvement des millions de citoyens contre la corruption », vêtu de rouge sur l'avenue Ketagalan, exigeant la démission du président.[^7] Les Chemises rouges protestèrent dans les rues de Taipei pendant plus d'un mois, attirant des centaines de milliers de participants.
 
-## L'héritage littéraire de la cellule
+La critique courante le disant déshonoré en fin de carrière, réduit au rôle d'instrument du camp bleu (Kuomintang), fut formulée publiquement par Koo Kwang-min, qui le qualifia de « **déshonoré sur la fin** ».[^2]
 
-Durant ses longues années d'emprisonnement, Shih compose de nombreux poèmes et textes en prose, témoignages intimes d'un prisonnier politique face à lui-même. Ces écrits carcéraux ont une valeur littéraire reconnue, et constituent en même temps un précieux document historique sur l'ère autoritaire à Taïwan.
+Cette critique repose sur un raisonnement problématique : Shih Ming-teh avait passé vingt-cinq ans en prison, non pas pour servir un parti, mais pour défendre un principe — tout dirigeant politique, quel que soit son bord, qui s'engage dans la corruption doit être combattu. Quand le DPP, une fois au pouvoir, commit ce qu'il jugeait inacceptable, il s'opposa au DPP. Le parti avait changé de position ; sa logique, elle, n'avait pas bougé.
 
-Ses mémoires, publiés sous le titre _Mémoires de Shih Ming-teh_, restituent avec précision les étapes clés du mouvement démocratique taïwanais et offrent une source de première main irremplaçable pour qui veut comprendre cette période. Son parcours intellectuel est aujourd'hui une référence incontournable pour les chercheurs qui étudient la transition politique de Taïwan.
+Il s'exprima ainsi sur la souveraineté de Taïwan : « **Taïwan devrait être indépendant, et de fait il l'est depuis plus de trente ans ; son nom actuel est la République de Chine.** »[^5] Pour lui, cette souveraineté n'appartenait à aucun parti et n'avait besoin d'aucun parti pour la défendre.
 
-## Une empreinte durable sur la démocratie taïwanaise
+## Les dernières années : quand la logique finit par triompher
 
-L'apport de Shih à la démocratisation de Taïwan est multiple : ses sacrifices ont éveillé la conscience démocratique de la population, son obstination a incarné la valeur des idéaux, et ses actions ont accéléré le processus de réforme. Sans lui — et sans les autres militants de sa génération — la transition démocratique de Taïwan n'aurait sans doute pas été aussi remarquablement réussie.
+Le mouvement des Chemises rouges s'acheva sans que Chen Shui-bian ne démissionne, et Shih Ming-teh subit pendant de nombreuses années les attaques soutenues des partisans du DPP, les étiquettes de « traître » et d'« instrument du camp bleu » lui collant à la peau.
 
-Son histoire nous rappelle que la démocratie a un coût, qu'elle réclame des hommes et des femmes prêts à payer ce prix de leur propre vie. Shih Ming-teh a mis cette vérité en pratique jusqu'au bout, et c'est pourquoi il reste une figure emblématique, permanente, du mouvement démocratique taïwanais.
+La lecture courante voulait qu'il eût été déshonoré en fin de carrière et fût devenu le pion des forces anti-indépendantistes. Mais le cours des événements offrit une autre interprétation — en 2009, Chen Shui-bian fut reconnu coupable dans l'affaire de corruption et incarcéré.[^2] Le jugement politique qui avait conduit à accuser le président de corruption et à exiger sa démission fut finalement confirmé sur le plan judiciaire. Ses méthodes furent critiquées, ses motivations suspectées, mais la thèse centrale — « un dirigeant corrompu doit être combattu, quel que soit son parti » — reçut du temps un verdict singulier : sa conclusion était juste, seul l'homme était au mauvais endroit.
 
-## Les dernières années et la place dans l'histoire
+Par la suite, Shih Ming-teh se retira progressivement du devant de la scène médiatique. Sa santé déclina d'année en année, mais il accordait encore régulièrement des interviews, s'exprimant sur la souveraineté taïwanaise et l'évolution politique, fidèle à ce critère de jugement qui n'avait jamais varié selon les partis.
 
-Dans les dernières décennies de sa vie, Shih s'est progressivement éloigné de la scène politique active, sans pour autant perdre son influence. Chaque fois que Taïwan traverse une crise politique majeure, son nom revient, comme un étalon de ce que signifie vraiment être un homme d'État.
+## Le 15 janvier 2024
 
-En tant que témoin et artisan de la démocratisation de Taïwan, Shih Ming-teh occupe une place irremplaçable dans l'histoire politique de l'île. Son histoire est à la fois un récit d'héroïsme individuel et le reflet condensé de la quête de liberté et de démocratie du peuple taïwanais tout entier.
+Le 15 janvier 2024, à l'aube, Shih Ming-teh mourut d'un cancer du foie à l'hôpital général des Vétérans de Taipei, à l'âge de 83 ans.[^8] Ce jour était aussi celui de son anniversaire.
+
+Né le 15 janvier 1941, il quitta ce monde le 15 janvier 2024.
+
+Dans ce plaidoyer adressé à l'histoire, il avait écrit ces mots : « Chaque époque a ses dévoués. Les dévoués jouent toujours un rôle tragique… **Le sentier étroit que les dévoués ont parcouru sera foulé par ceux qui les suivront, et deviendra une grande route. Les dévoués n'appartiennent pas à aujourd'hui, mais ils vivront dans demain !** »[^5]
+
+En 1980, cet homme de trente-neuf ans disait à la barre du tribunal : « Condammez-moi à mort. » En 2024, ce sentier étroit est-il devenu une grande route ? Les Taïwanais ont chacun leur réponse. Mais lui l'a parcouru jusqu'au bout, de son anniversaire à son anniversaire, quatre-vingt-trois années durant.
+
+**Pour aller plus loin** : [Incident de Kaohsiung — Les événements de 1979 à Kaohsiung](https://zh.wikipedia.org/zh-tw/美麗島事件) ｜ [Mouvement des millions de citoyens contre la corruption](https://zh.wikipedia.org/wiki/百萬人民倒扁運動) ｜ [Musée national des droits de l'homme : archives du procès militaire de Kaohsiung](https://www.nhrm.gov.tw/w/nhrm/Publishing_23020115244906501)
 
 ## Références
 
-- [Mémoires de Shih Ming-teh - China Times Publishing](https://www.readingtimes.com.tw/) — mémoires personnels
-- [Incident de Formosa - Musée national des droits de l'homme](https://www.nhrm.gov.tw/w/nhrm/home) — archives historiques
-- [Histoire du DPP - Parti démocrate progressiste](https://www.dpp.org.tw/about/history) — histoire du parti
+[^1]: [CNA : Shih Ming-teh, plus de 25 ans dans les geôles politiques, surnommé le Mandela de Taïwan (2024)](https://www.cna.com.tw/news/aipl/202401150025.aspx) — Retour complet sur la vie de Shih Ming-teh, incluant sa fuite sous déguisement, les plus de trois mille nourrages de force en prison et ses deux condamnations à perpétuité. Article de référence publié par CNA le jour de son décès.
+
+[^2]: [CNA : Décès de Shih Ming-teh et évaluation historique par le DPP (2024)](https://www.cna.com.tw/news/aipl/202401150026.aspx) — Comprend le contexte historique de son départ volontaire du DPP en 2000, la critique de Koo Kwang-min le qualifiant de « déshonoré sur la fin », ainsi que les évaluations du mouvement anti-Chen Shui-bian de 2006.
+
+[^3]: [Wikipédia : Incident de Kaohsiung](https://zh.wikipedia.org/zh-tw/美麗島事件) — Chronologie complète de l'incident de Kaohsiung en 1979, incluant le contexte de la fondation du magazine _Formosa_, le déroulement des affrontements du 10 décembre et les arrestations massives qui suivirent.
+
+[^4]: [Wikipédia : Lin Yi-hsiung](https://zh.wikipedia.org/zh-tw/林義雄) — Compte rendu du massacre de la famille de Lin Yi-hsiung le 28 février 1980, document historique majeur sur la terreur politique qui suivit l'incident de Kaohsiung, ayant directement influencé la déclaration de Shih Ming-teh au procès.
+
+[^5]: [CommonWealth Magazine : Décès de Shih Ming-teh — il y a 44 ans, il rédigeait un « testament politique » lors du procès historique de Kaohsiung (2024)](https://www.gvm.com.tw/article/109271) — Contient les citations directes de Shih Ming-teh lors du procès militaire de 1980, notamment « Condamnez-moi à mort », « la cour de l'histoire me rendra justice » et « les dévoués n'appartiennent pas à aujourd'hui ».
+
+[^6]: [Wikipédia : Shih Ming-teh](https://zh.wikipedia.org/zh-tw/施明德) — Article biographique complet sur Shih Ming-teh, incluant le contexte de la fondation du DPP, sa présidence du parti (1994-1996) et un aperçu de sa carrière politique.
+
+[^7]: [Wikipédia : Mouvement des millions de citoyens contre la corruption](https://zh.wikipedia.org/wiki/百萬人民倒扁運動) — Compte rendu complet de l'organisation du mouvement des Chemises rouges en 2006, de l'ampleur des manifestations et de son impact politique.
+
+[^8]: [CNA : Shih Ming-teh meurt d'un cancer le jour de son 83e anniversaire (2024)](https://www.cna.com.tw/news/aipl/202401150010.aspx) — Reportage officiel sur le décès de Shih Ming-teh le 15 janvier 2024, confirmant un cancer du foie comme cause de mort et un âge de 83 ans. Premier article de CNA publié le jour du décès.
+
+[^9]: [CommonWealth Magazine : Décès de Shih Ming-teh, figure de la démocratisation taïwanaise (2024)](https://www.cw.com.tw/article/5128979) — Retour approfondi sur la contribution de Shih Ming-teh au mouvement démocratique, incluant une analyse de sa position historique complexe et de la controverse autour du mouvement anti-Chen Shui-bian.
+
+[^10]: [Readr : Données sur l'élection municipale de Taipei en 1994](https://whoareyou.readr.tw/election?area=%E8%87%BA%E5%8C%97%E5%B8%82&type=%E7%B8%A3%E5%B8%82%E9%A6%96%E9%95%B7&year=1994) — Données sur les candidats à l'élection municipale de Taipei en 1994 (Chen Shui-bian 43,67 %, Jaw Shau-kong 30,17 %, Huang Ta-chou 25,89 %), confirmant que Shih Ming-teh ne participa pas à cette élection, occupant alors la présidence du DPP.
+
+[^11]: [Wikipedia (EN): Shih Ming-teh](https://en.wikipedia.org/wiki/Shih_Ming-teh) — Article en anglais couvrant l'histoire de l'emprisonnement de Shih Ming-teh, sa présidence du DPP et sa reconnaissance internationale en tant que « Mandela de Taïwan », offrant une vérification multilingue des faits biographiques clés.

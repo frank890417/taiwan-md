@@ -1,78 +1,119 @@
 ---
-title: 'Yang Chuan-Kwang'
-description: "The Asian Iron Man, Taiwan's first Olympic medalist who won decathlon silver at the 1960 Rome Olympics"
-date: 2026-03-20
-tags: ['sports', 'athletics', 'Olympics', 'decathlon', 'indigenous', 'Amis']
-subcategory: 'Sports'
-lastVerified: 2026-03-20
-translatedFrom: 'People/楊傳廣.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:5d0505271985f7c6'
-sourceBodyHash: 'sha256:ff6a32229cacea3d'
-translatedAt: '2026-04-14T12:25:09+08:00'
-category: People
+title: 'Yang Chuan-kwang: Taitung Tribe, Rome Silver Medal, and the 9,121-Point World Record of the Asian Iron Man'
+description: 'Born on July 10, 1933, in the Malan Amis tribe of Taitung, Yang Chuan-kwang was Taiwan''s first Olympic medalist. At the 1960 Rome Olympics, he won silver in the decathlon with 8,334 points. In 1963, he shattered the world record with 9,121 points and cleared 4.83 m in the pole vault, forcing the International Association of Athletics Federations (IAAF) to revise its scoring tables. He died of a stroke in California, USA, on January 27, 2007, at the age of 73. In April 2025, the Ministry of Culture designated him a national treasure.'
+date: 2026-03-19
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '體育'
+tags: ['體育', '田徑', '奧運', '十項全能', '原住民', '阿美族']
+readingTime: '# design_rationale:
+#   why_this_hook: "從「計分標準被一個人逼著改」切入——9121分不只是個人最佳，而是逼使IAAF修規則。這比『台灣第一面奧運獎牌』更能定義楊傳廣的高度。"
+#   whats_excluded: "各項單科成績細節；1956墨爾本以前的青少年賽事；退役後的教職逐年記錄"
+#   where_it_hedges: "投毒事件（楊傳廣本人指控，無第三方完整核實）；1964東京奧運參賽狀況（P0未提供source）"'
+lastVerified: 2026-05-07
+lastHumanReview: false
+featured: false
+translatedFrom: People/楊傳廣.md
+sourceCommitSha: 0ea5d5d42
+sourceContentHash: sha256:55fd06444600922d
+sourceBodyHash: sha256:eabda09a2f187855
+translatedAt: 2026-05-09T14:29:09+08:00
 ---
 
-# Yang Chuan-Kwang: The Asian Iron Man
+# Yang Chuan-kwang: Taitung Tribe, Rome Silver Medal, and the 9,121-Point World Record of the Asian Iron Man
 
-Yang Chuan-Kwang, revered as the "Asian Iron Man," stands as a legendary figure in Taiwan's sporting history. Born on July 10, 1933, in an Amis indigenous family in the Malan tribal community of Taitung, he became not only Taiwan's first Olympic medalist but also Asia's first athlete to win an Olympic medal in track and field. His achievements opened a new chapter in Taiwan's athletic history while establishing a proud example for indigenous peoples on the international stage.
+> **30-second overview:** Yang Chuan-kwang was born on July 10, 1933, in the Malan Amis tribe of Taitung. He was Taiwan's first Olympic medalist. At the 1960 Rome Olympics, he battled American decathlete Rafer Johnson over two grueling days, finishing with 8,334 points—just 58 points short of gold. In 1963, he set a new world record of 9,121 points and cleared 4.83 m in the pole vault, forcing the IAAF to revise its scoring tables. He died of a stroke in California on January 27, 2007, at age 73. In April 2025, the Ministry of Culture designated him a national treasure.
 
-## From Tribal Roots to the World Stage
+## July 10, 1933, Malan, Taitung
 
-Yang Chuan-Kwang emerged from an Amis tribal background in Taitung, displaying exceptional athletic talent from an early age. His journey into athletics began at Taitung Teachers' College before transferring to Taiwan Normal College (now National Taiwan Normal University). During an era when Taiwan's training conditions were extremely limited, Yang primarily relied on self-directed training, honing his skills in rudimentary facilities.
+On July 10, 1933, Yang Chuan-kwang was born into an Amis family in the Malan tribe of Taitung.[^1] Malan is the largest Amis settlement in Taitung City, and it was here that Yang's athletic talent first took root.
 
-He chose the decathlon—known as the "crown jewel of athletics"—a discipline requiring excellence across ten different events spanning sprints, jumps, and throws. The sport demands not just physical prowess but also mental fortitude and technical versatility across diverse athletic disciplines.
+The Amis upbringing was more than mere background to Yang's track and field career. The Amis tradition of valuing physical prowess, along with the endurance forged through daily tribal life, left a mark on his athletic foundation. The decathlon demands that an athlete complete ten radically different events across two days—the explosive power of the sprint, the elasticity of the jumps, the force of the throws, the stamina of the middle-distance run—and his all-around aptitude was partly rooted in the environment that shaped him.
 
-In 1954, Yang first demonstrated his capabilities at the Asian Games, beginning to make his mark on the international sporting scene. His initial Olympic appearance at the 1956 Melbourne Games, while yielding disappointing results, provided valuable experience in understanding world-class competitive standards. The crucial turning point came in 1957 when he received a scholarship to train at the University of California, Los Angeles (UCLA), where superior training conditions and scientific coaching rapidly elevated his performance levels.
+He attended Taitung Normal School before transferring to Taiwan Provincial Normal College (now National Taiwan Normal University). In an era of limited training facilities, he honed his skills through self-directed practice, running on crude tracks that would eventually produce results that stunned the world.
 
-## The Historic Breakthrough at Rome Olympics
+The popular narrative is that Yang "conquered the Olympics on talent alone." A more precise reading is that in 1950s Taiwan, systematic decathlon training barely existed. His achievements were accomplished under conditions of extreme scarcity—from the track at Taitung Normal School to the training grounds at National Taiwan Normal University, at every stage he pushed forward through sheer willpower that transcended his environment. This backdrop makes his rapid improvement at UCLA's world-class training facility all the more telling: it revealed just how high his own ceiling truly was.
 
-The 1960 Rome Olympics represented the pinnacle of Yang's career and one of Taiwan's most significant sporting moments. In the decathlon competition, he engaged in fierce rivalry with American athlete Rafer Johnson, creating one of the Games' most memorable battles.
+## 1957: UCLA, Training Alongside Rafer Johnson
 
-Their competition commenced with the 100-meter sprint and continued through all ten events until the final 1500-meter run. Yang excelled particularly in high jump, pole vault, and javelin throw, frequently leading the points table throughout the competition.
+In 1957, Yang received a scholarship to the United States and entered the University of California, Los Angeles (UCLA) for training.[^1] There, Rafer Johnson—the American decathlon star who would become his greatest rival and the 1960 Olympic gold medalist—was waiting.
 
-Ultimately, his score of 8,334 points earned him the silver medal—not only his personal best but also an Asian record. More importantly, he became Taiwan's first Olympic medalist and Asia's first track and field Olympic medalist. This silver medal transcended mere athletic achievement, symbolizing Taiwan's breakthrough on the international stage while bringing unprecedented honor to indigenous communities.
+The two trained side by side at UCLA, pushing Yang's technical level to the world's elite tier. Their relationship became one of the most celebrated competitive friendships in track and field history: teammates who lifted each other up, only to face each other for gold and silver on the Olympic stage.
 
-## Technical Innovator in Decathlon
+UCLA's significance for Yang went beyond technical training—it was also a cultural environment. In late-1950s America, for a Taiwanese Amis man to be accepted, trained, and respected within one of the country's premier university track programs was far from a given. His years at UCLA laid the technical foundation of his career and broadened his personal horizons.
 
-Yang was not merely an exceptional athlete but also a technical innovator in decathlon events. He developed unique techniques in pole vaulting that became known as "Yang Chuan-Kwang style pole vaulting" during his era. His javelin throwing technique also featured distinctive elements, innovations that not only provided competitive advantages but influenced subsequent decathletes.
+Johnson later recalled their relationship: **"We were very good friends, but I knew, he knew, and the coach knew—we were ultimately going to have to settle it on the field."**[^4] This dynamic of "rivals on the track, brothers off it" reached its apex at the finish line of the 1960 Rome Olympics: a photograph of an exhausted Johnson leaning on Yang's shoulder became one of the most iconic images in sports history.
 
-In physical conditioning, Yang combined Eastern and Western training philosophies. He maintained the natural explosive power and endurance characteristics of the Amis people while absorbing American scientific training methodologies. This fusion enabled him to maintain high standards across ten vastly different events, demonstrating truly "all-around" competitive capability.
+## 1960: Rome, Silver with 8,334 Points
 
-## Pioneer of Sports Education
+At the 1960 Rome Olympics, Yang Chuan-kwang and Rafer Johnson waged a two-day points battle in the decathlon.[^1] From the 100-meter dash, long jump, shot put, high jump, and 400 meters, to the 110-meter hurdles, discus, pole vault, javelin, and finally the 1,500 meters—ten events, with the scores locked in a tight race throughout.
 
-Following retirement, Yang devoted himself to sports education, teaching successively at normal schools and middle schools. He transformed his competitive experience into educational content, nurturing countless athletic talents. He particularly emphasized fundamental track and field training, believing solid foundations form the basis for all sporting endeavors.
+In the end, Yang took silver with 8,334 points; Johnson claimed gold with 8,392.[^1] The margin was just 58 points. This silver medal made him Taiwan's first Olympic medalist and the first Asian athlete to win an Olympic medal in a track and field event.
 
-Yang also actively promoted indigenous athletic development. He regularly returned to tribal communities to share experiences and encourage young indigenous people to participate in sports. He believed indigenous people possessed natural athletic advantages that should be leveraged to excel in sporting fields. Many subsequently successful indigenous athletes drew inspiration from Yang's spirit and example.
+> 📝 **Curator's note:** A 58-point gap sounds small, but in the context of the decathlon it can come down to a few centimeters or fractions of a second in a single event. Yang's advantage in the pole vault was the key individual event where he gained points, but accumulated shortfalls across other events cost him those 58 points. He didn't lose on athleticism—he lost on the distribution of performance across all ten events. His 9,121-point world record in 1963 surpassed his Rome form, proving that the 8,334 of 1960 was not his ceiling.
 
-## Eternal Symbol of Sporting Spirit
+At the time, Taiwan was mired in international diplomatic isolation. When news of Yang's medal reached the island, it triggered an islandwide frenzy—parades, cinema newsreels replaying the medal moment on loop, a meeting with President Chiang Kai-shek. The weight of that silver medal at that moment far exceeded the scope of a mere athletic result.
 
-Yang passed away on January 27, 2007, but his spiritual influence continues today. He not only created Taiwan's Olympic medal history but, more importantly, proved Taiwan athletes possess the capability to compete with strong opponents on the world stage. His success transcended racial and geographical limitations, demonstrating sport's power to surpass all boundaries.
+In 1960, Taiwan competed under the name "Chinese Taipei" (with even more complex disputes over flag and name at the time). An island squeezed out by international politics found an undeniable presence on the world's largest sporting stage through the decathlon performance of an Amis man. That 58-point gap was incalculable on the political level.
 
-Many of today's achievements in Taiwan athletics can be traced to foundations Yang established. From Chi Cheng's track and field breakthroughs to countless subsequent Olympic achievements, all continue the spiritual tradition he pioneered. Yang represents not just the "Asian Iron Man" but Taiwan sport's eternal spiritual symbol, with his story continuously inspiring every Taiwan athlete pursuing excellence.
+## 1963: The Scoring Standard One Man Forced to Change
 
-The decathlon—often called athletics' most demanding discipline—requires mastery across sprint, distance, jump, and throw events. Yang's silver medal demonstrated that Asian athletes could compete at the highest levels in this ultimate test of athletic versatility. His technical innovations, particularly in pole vault, influenced training methods throughout Asia.
+In 1963, Yang Chuan-kwang set a new decathlon world record of 9,121 points.[^2] The more specific breakthrough came in the pole vault: he cleared 4.83 m, which under the scoring tables of the day translated into a disproportionately high point yield—so high that the International Association of Athletics Federations (IAAF) was compelled to revise its scoring tables.[^2]
 
-## Legacy in Taiwan's Sporting Culture
+The significance of this is: his performance was so good that the existing rules could not contain it, and the governing body had to change the rules. This sounds like hyperbole, but it is literally true: the pole vault result of an Amis man from Taitung forced the organization that sets global standards to sit down and rewrite the rules.
 
-Yang's impact extended beyond his competitive achievements into Taiwan's broader sporting culture. He demonstrated that athletes from indigenous backgrounds could achieve international success, inspiring generations of Taiwan athletes regardless of their ethnic heritage. His story became emblematic of Taiwan's sporting potential and determination.
+When rules are changed, it usually means someone has broken through the system's design boundaries. What Yang did in 1963 was not merely set a world record—his performance forced the IAAF to redefine "what kind of result is even accommodatable." This level of achievement is exceedingly rare in the history of sport.
 
-The training philosophy Yang embodied—combining natural talent with scientific preparation—became a model for Taiwan's approach to developing world-class athletes. His success showed that with proper support and dedication, Taiwan could produce competitors capable of challenging for Olympic medals.
+The 9,121-point world record, in technical terms, demonstrates that Yang was not simply the silver medalist of 1960—he was still improving in 1963. He achieved this score around the age of thirty, an age when athletic careers typically begin to decline, making his continued accumulation of training and technical gains all the more remarkable.
 
-His influence on subsequent generations of Taiwan athletes cannot be overstated. Many cite Yang's example as motivation for their own international pursuits, viewing him as proof that Taiwan athletes belong among the world's elite competitors.
+## The Poisoning Incident
 
-## Technical and Cultural Impact
+During his peak years, Yang Chuan-kwang spoke openly in interviews about being drugged—he claimed someone had poisoned him before major competitions, affecting his performance.[^5] This allegation was made by Yang himself, but the details have never been fully verified by a third party and remain a personal assertion rather than an established fact in the documentary record.
 
-Yang's achievements resonated across multiple dimensions of Taiwan society. For indigenous communities, he represented validation of their athletic capabilities and cultural strength. His success helped break down barriers and stereotypes, opening doors for future indigenous athletes in Taiwan.
+This account is recorded because Yang was willing to say it publicly. A man known for honest competition on the track chose to bring this to light, and that alone merits documentation.
 
-From a technical perspective, Yang's approach to decathlon training influenced coaching methods throughout Asia. His ability to excel across such diverse events required innovative training techniques that coaches studied and adapted for their own athletes.
+## After Retirement: Tribe, Normal Schools, the Next Generation
 
-The international recognition Yang earned helped elevate Taiwan's sporting profile globally. His success at the Rome Olympics placed Taiwan athletics on the world map, establishing a foundation for future international sporting achievements.
+After ending his competitive career, Yang returned to Taiwan and devoted himself to physical education, teaching at normal colleges and secondary schools, bringing back the knowledge he had accumulated at UCLA and on the international stage. He actively returned to the Taitung tribe, encouraging young Amis people to take up athletics.
 
-Yang Chuan-Kwang's legacy transcends statistics and medals. He embodies the spirit of determination, innovation, and excellence that continues to inspire Taiwan athletes today. His story—from tribal origins to Olympic podium—represents the possibilities that exist when talent meets opportunity and dedication. The "Asian Iron Man" remains an eternal inspiration for anyone pursuing athletic excellence, proving that with unwavering commitment, even the highest sporting goals become achievable.
+His presence directly influenced the next generation of Taiwanese track and field, including the rise of [[Chi Cheng]] in the 1960s. Yang was Taiwan's first Olympic medalist; Chi Cheng was the second—two milestones separated by eight years, during which Yang continued through personal example to show the heights a Taiwanese athlete could reach on the international track and field stage.
+
+Their paths began from very different starting points: Yang was an Amis boy from Taitung who went abroad on a UCLA scholarship; Chi Cheng was a girl from Hsinchu who forged a path in women's track and field with no predecessors to look to. But their places in Taiwan's sporting history are adjacent: one opened the door to Olympic track and field medals, and the other walked through it.
+
+His position in Taiwan's sports history is that of a "door-opener": before him, Taiwan had no record of top honors on the Olympic track and field stage; after him, that door was open, and those who came after knew the path was walkable.
+
+## January 27, 2007, California
+
+On January 27, 2007, Yang Chuan-kwang died of a stroke in California, USA, at the age of 73.[^3]
+
+His final decades in the United States were relatively low-key, far from the public spotlight of Taiwanese sports. But the silver medal he left behind, and the world record that forced the IAAF to revise its scoring tables, never disappeared from Taiwan's sporting history.
+
+Yang spent his later years in America—a choice that, for a hero who once sent all of Taiwan into the streets celebrating, represents a quiet contrast. But after an athletic career ends, the fading of the arena's heat is a universal fate. His decision to live in the United States may have been related to teaching opportunities, or it may simply have been a personal choice—he never publicly explained this chapter, and that silence, too, belongs to his story.
+
+## April 2025: Ministry of Culture National Treasure
+
+On April 23, 2025, the Bureau of Cultural Heritage of the Ministry of Culture officially designated "Yang Chuan-kwang's 1960 Rome Olympic Decathlon Silver Medal" as a national treasure.[^2] This was Taiwan's first national treasure in the sports category, sixty-five years after he won the medal.
+
+The designation was based on two criteria under the _Review Regulations for the Classification, Designation, and Abolition of Antiquities_: "representative of historically significant figures or major national events" and "uniqueness or irreplaceability." The silver medal itself is held by the National Sports Training Center and is currently on display at the National Museum of Prehistory.
+
+Taiwan's first sports-category national treasure is a metal object that an athlete earned over two days in 1960. It represents not just a score, but the position one person carved out for Taiwan on the world stage through physical ability, during the island's most adverse international circumstances. The object is preserved in a museum, and the meaning is this: this story deserves to be remembered.
+
+From the Amis tribe of Malan, Taitung, to the silver medal at the 1960 Rome Olympics, to the 1963 world record that forced the IAAF to revise its scoring tables, to the 2025 national treasure designation by the Ministry of Culture—Yang Chuan-kwang's story took ninety-two years to be fully recognized by Taiwan's official institutions. That recognition came late, but the silver medal never waited.
+
+There are several milestone names in the history of Taiwanese sports, and Yang Chuan-kwang is among the earliest. His 1960 opened the record of what Taiwanese athletes could "achieve" on the Olympic stage; his 1963 showed that the scope of that possibility continued to widen during his peak years. The 2025 national treasure designation is the moment this story was formally enshrined in Taiwan's cultural memory.
+
+He set out from a Taitung tribe in 1933, circled the globe, and used his body to carve the first mark for Taiwan on the world map. That mark is the 8,334-point silver medal, the 9,121-point world record, the handshake on the shoulder after a 58-point gap, and the afternoon the IAAF sat down to rewrite its rules.
+
+**Further reading:** [Yang Chuan-kwang — Wikipedia](https://zh.wikipedia.org/zh-tw/楊傳廣) ｜ [CNA: Yang Chuan-kwang coverage](https://www.cna.com.tw/news/aspt/202407103002.aspx)
 
 ## References
 
-- [Chinese Taipei Athletics Association](https://www.athletics.org.tw/) — Yang Chuan-Kwang historical materials
-- [Chinese Taipei Olympic Committee](https://www.tpe-olympic.org.tw/) — Olympic participation records and achievements
-- [Council of Indigenous Peoples](https://www.apc.gov.tw/) — Indigenous athletic development historical materials
+[^1]: [CNA: Yang Chuan-kwang Olympic silver medal report (2024-07-10)](https://www.cna.com.tw/news/aspt/202407103002.aspx) — Confirms the 1960 Rome Olympic decathlon silver medal with 8,334 points (gold medalist Rafer Johnson with 8,392 points) and UCLA training background.
+
+[^2]: [People News: Yang Chuan-kwang's 1963 World Record and Ministry of Culture National Treasure](https://www.peoplenews.tw/news/4c674583-7369-47aa-86a1-73b044fe9df2) — Includes the 1963 world record of 9,121 points, the 4.83 m pole vault that forced the IAAF to revise its scoring tables, and the April 2025 designation as a national treasure by the Ministry of Culture.
+
+[^3]: [Epoch Times: Yang Chuan-kwang obituary (2007-01-28)](https://www.epochtimes.com/b5/7/1/28/n1605792.htm) — Confirms death by stroke in California, USA, on January 27, 2007, at age 73.
+
+[^4]: [CNA: American track legend Johnson passes away; classic rivalry with Yang Chuan-kwang endures](https://www.cna.com.tw/news/aspt/202012030054.aspx) — Includes Rafer Johnson's quote: "We were very good friends, but I knew, he knew, and the coach knew—we were ultimately going to have to settle it on the field," and documents the competitive friendship from their UCLA years through the 1960 Rome Olympics.
+
+[^5]: [Epoch Weekly: Legend and Glory—Yang Chuan-kwang speaks openly about being drugged](https://www.epochweekly.com/b5/006/2655.htm) — Includes Yang Chuan-kwang's own account of the drugging incident; this is a personal allegation, and the details have not been independently verified by a third party.

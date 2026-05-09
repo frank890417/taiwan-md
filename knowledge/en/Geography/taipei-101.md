@@ -1,164 +1,164 @@
 ---
-title: 'They Built a Flying Tower on a Shaking Island'
-description: "Just 200 meters from an active fault line, Taiwan decided to build the world's tallest skyscraper—then a madman spent 91 minutes climbing it with his bare hands."
-date: 2026-03-23
+title: "Taipei 101: From 'Watchdog' to 'Golden Snake' — The Political Economy and Feng Shui Gamble of a Landmark"
+description: "Taipei 101 is more than a building. It is the political-economic chess match between Chen Shui-bian and Peng Huan-nan, a feng shui experiment by C. Y. Lee, and the 'final boss' beneath Alex Honnold's feet. From 59 floors to 101, the evolution of this 'treasure basin' reveals the power and mystery behind the icon."
+date: 2026-05-04
+author: 'Taiwan.md Contributors'
+category: 'Geography'
+subcategory: '地標'
 tags:
   [
-    'Taipei 101',
-    'skyscraper',
-    'earthquake engineering',
-    'TMD damper',
-    'vertical marathon',
-    'New Year fireworks',
-    'Alex Honnold',
-    'free solo climbing',
-    'Xinyi District',
-    'architectural miracle',
-    'C.Y. Lee',
-    'LEED Platinum',
-    'green building',
+    台北101,
+    李祖原,
+    陳水扁,
+    風水建築,
+    BOT,
+    股權爭議,
+    Alex Honnold,
+    阻尼器,
+    綠建築,
+    世界紀錄,
+    跨年煙火,
+    社會成本,
   ]
-category: 'Geography'
-author: 'idlccp02'
-readingTime: 8
-featured: false
-lastVerified: 2026-03-23
+readingTime: 25
+lastVerified: 2026-05-04
 lastHumanReview: false
-translatedFrom: 'Geography/台北101.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:0b35412227ffb8b0'
-sourceBodyHash: 'sha256:7d381eeb77a43103'
-translatedAt: '2026-04-14T12:25:09+08:00'
+featured: false
+translatedFrom: Geography/台北101.md
+sourceCommitSha: 4b6d28c54
+sourceContentHash: sha256:2b98bb25fe4e7d4a
+sourceBodyHash: sha256:d565775868e89ffc
+translatedAt: 2026-05-09T14:29:09+08:00
 ---
 
-# They Built a Flying Tower on a Shaking Island
+# Taipei 101: From "Watchdog" to "Golden Snake" — The Political Economy and Feng Shui Gamble of a Landmark
 
-At 2:52 PM on March 31, 2002, a magnitude 6.8 earthquake struck off the coast of Hualien. The Taipei Basin shook violently. At the Taipei 101 construction site, already 56 stories high, two 200-meter-tall tower cranes snapped under the violent swaying, crashing to the ground and taking five workers' lives with them. This natural disaster nearly killed the insane plan to build the world's tallest building in an earthquake zone.
+At 2:52 PM on March 31, 2002, a magnitude 6.8 earthquake struck Taipei. At the Taipei 101 construction site, which had already risen to the 56th floor, two tower cranes over 200 meters tall snapped and crashed to the ground, killing five workers[^1]. This tragedy nearly ended the audacious plan to build the world's tallest building in an earthquake zone. Yet the tower not only stood firm — in January 2026, it welcomed American climbing legend Alex Honnold, who free-soloed to the summit in just 92 minutes, giving a global livestream audience an intimate look at every inch of this "treasure basin"[^2].
 
-But Taiwan didn't give up. Two years later, the 508-meter Taipei 101 was completed on schedule, becoming the world's tallest building. Even more insane: in January 2026, climbing legend Alex Honnold free-soloed this giant tower in 91 minutes, proving to the world that Taiwan doesn't just dare to build skyscrapers on fault lines—it can make them the ultimate stage for human challenges.
+> **At a glance (30 seconds):** Taipei 101 stands 508 meters tall and held the title of world's tallest building from 2004 to 2010. It is not merely an engineering masterpiece but also Taiwan's first large-scale BOT project. Its planning evolved from an original 59-floor "one tall, two low" configuration into the 101-floor monolithic tower seen today, shaped by political and economic maneuvering. The building is deeply rooted in Eastern feng shui logic, and its shifting equity stakes reflect the political sensitivity of owning a national landmark. Honnold's 2026 extreme ascent once again thrust this "feng shui tower" — blending mysterious upper-level spaces with modern green building technology — into the global spotlight.
 
-## 30-Second Overview
+## From "Watchdog" to 101: The Vanishing Two Buildings and the Airspace Battle
 
-> **Taipei 101:** Standing 508 meters tall, it held the title of world's tallest building from 2004-2010. Located just 200 meters from the Shangjiao Fault in an active earthquake zone, it uses a 660-ton Tuned Mass Damper (TMD) to neutralize seismic threats. From Xinyi District rice paddies to skyline landmark, it witnessed Taiwan's transformation from humility to confidence. Honnold's 91-minute free solo in 2026 brought it back into global spotlight—proving that true eternity isn't about height, but the courage to challenge limits.
+The original form of Taipei 101 was not the solitary bamboo-stalk tower we know today. In the early 1990s, under the name "Taipei International Financial Center," the initial design called for just 59 floors in a "one tall, two medium" configuration — a central high-rise flanked by two approximately 20-story buildings[^3].
 
-## Counter-intuitive Building Philosophy: Building the Tallest Where It's Most Dangerous
+This design drew criticism from figures such as Jeffrey Koo Jr., chairman of Chinatrust Financial Holding, who remarked that the three-building layout resembled a "watchdog" guarding the Xinyi Special District[^4]. A more practical challenge came from Songshan Airport's height restrictions. Then-Mayor Chen Shui-bian, acting on advice from Central Bank Vice Governor Peng Huan-nan, argued that building public housing on such prime land was a waste and that an international financial landmark should be erected instead[^5].
 
-Imagine a geologist's reaction to this proposal: "You want to build the world's tallest building 200 meters from an active fault line?" In global skyscraper history, this is virtually a suicidal site choice. The Taipei Basin isn't just located in the Pacific Ring of Fire—its geology consists of soft sedimentary layers that amplify earthquake vibrations through basin effects.
+To break through the height limit, Chen coordinated with the central government on a strategy of "keeping the runway, changing the flight path," successfully relaxing airspace restrictions over the Xinyi District[^6]. The building plan then jumped from 59 floors to 66 (symbolizing "double prosperity" in Chinese numerology), then to 77 as proposed by Lin Hung-ming (Lucky 7), and finally settled on 101 floors to convey the meaning of "surpassing a hundred — a new century, a new beginning." The floor area originally allocated to the two flanking buildings was consolidated entirely into the main tower, creating the singular giant column on Taipei's skyline today[^7].
 
-But Taiwan engineers were determined to prove that **earthquake zones aren't obstacles, they're stages for challenges.**
+> 📝 **Curator's note:** The height of Taipei 101 was not calculated — it was the result of political will and cultural symbolism being continuously stacked on top of each other.
 
-The secret weapon is the **660-ton Tuned Mass Damper (TMD)** suspended between floors 87-92—the world's largest and heaviest building "shock absorber." This golden sphere, 5.5 meters in diameter, swings in the opposite direction during strong winds or earthquakes, reducing building sway by 40%. When Typhoon Soudelor ravaged Taipei in 2015, Taipei 101 swayed only 1 meter, far below the design standard of 1.5 meters.
+## The Political Sensitivity Behind the Equity: Who Gets to Own Taiwan's Landmark?
 
-> **📝 Curator's Note**
-> What's most moving about Taipei 101 isn't how tall it is, but that it dares to stand tall on shaking ground. This "knowing there are tigers in the mountain yet heading toward the mountain" spirit of Taiwan was later embodied in Honnold's free solo climb.
+As a BOT project, Taipei 101's 70-year operating rights sit atop a complex web of political-business maneuvering. The evolution of the building's ownership structure is often more dramatic than the architecture itself.
 
-## From Rice Fields to Skyline: Xinyi District's Spectacular Transformation
+In 2014, the Ting Hsin International Group, then a major shareholder, attempted to sell its stake to Malaysia's IOI Group amid public backlash over food safety scandals. The deal was met with fierce opposition from the Taiwanese government, with financial authorities unanimously declaring that "a national landmark cannot be sold to foreign investors," fearing the loss of sovereign control over a national symbol. The transaction ultimately collapsed[^8].
 
-The Xinyi Planning District of the 1990s was still rice fields and military dependents' villages—hard to imagine it would become Taipei's "Manhattan." In 1997, Taipei City Government launched the "Taipei International Financial Tower" BOT project, attracting ten corporate giants including China Development Corp, Shin Kong Group, and Chinatrust Commercial Bank to joint bid with a total budget of NT$36 billion.
+Japan's ITOCHU Corporation subsequently stepped in, at one point holding nearly 37% of shares. In 2025, ITOCHU reduced its holdings for financial reporting reasons, selling shares to Taiwanese public-sector banks and pushing public ownership back above 70%[^9]. In early 2026, an affiliate of the Hung Tai Group acquired approximately 15.1% of shares at auction for NT$8.6 billion, becoming the largest domestic private shareholder and continuing to influence the landmark's operational control[^10].
 
-**The BOT Model's Brilliance:** Private funding for construction, securing 70-year land rights, paying NT$700 million annual land rent to the city government. By 2067, the entire building transfers to Taipei City Government at no cost. This meant the government essentially traded one plot of land for a world-class landmark.
+## The Heart of the Engineering Marvel: The 660-Ton Tuned Mass Damper and World Records
 
-From groundbreaking in 1998 to completion in 2004, the project took 6 years and employed over 10,000 workers. It weathered the 2002 March 31 earthquake's tower crane collapse that killed 5 workers, yet construction persevered. **Taiwan learned the most expensive lesson: the road to excellence is never smooth sailing.**
+Taipei 101 is not only a vessel of culture and politics — it is a pinnacle of engineering. Its most famous feature is the golden sphere suspended between the 87th and 92nd floors: the **660-ton Tuned Mass Damper (TMD)**[^11].
 
-## Engineering Marvel: Making Bamboo Bloom in an Earthquake Zone
+- **The Giant Damper:** This 5.5-meter-diameter, 660-ton steel ball, welded from 41 steel plates, was the world's largest damper at the time of installation. It effectively reduces building oscillation during strong winds or earthquakes by 30% to 40%[^11]. During Typhoon Soudelor in 2015, the damper recorded a lateral swing of up to 1 meter[^12].
+- **Tourism and Culture:** Taipei 101 is one of the few buildings in the world that opens its damper to visitors. It even spawned the adorable "Damper Baby" mascot series, transforming serious engineering into an approachable cultural icon[^11].
 
-Architect C.Y. Lee's design drew inspiration from bamboo joints, dividing the building into 8 "segments" of 8 floors each, symbolizing "rising steadily." This wasn't just aesthetic consideration but engineering wisdom: segmented design effectively disperses wind pressure, keeping ultra-tall buildings stable in strong winds.
+Beyond the damper, Taipei 101 has set numerous world records and technical milestones:
 
-**Foundation Engineering:** Excavated 80 meters deep with 380 steel piles (1.5 meters diameter) driven down to bedrock, with foundation slabs up to 4.7 meters thick. The entire underground structure resembles a giant hand gripping the bedrock beneath the Taipei Basin.
+- **World's Tallest Building:** Upon completion in 2004, at a height of 508 meters, it held the title of world's tallest building for six years (2004–2010)[^1].
+- **World's Fastest Elevator:** It once held the record for the world's fastest observation elevator, traveling at 1,010 meters per minute (approximately 60.6 km/h), reaching the 89th-floor observatory from the 5th floor in just 37 seconds[^13].
+- **Green Building Benchmark:** In 2025, Taipei 101 earned dual Platinum certifications under LEED v5 and WELL v2, becoming the only supertall building in the world to hold both top honors simultaneously, with a goal of achieving full-building net-zero carbon emissions by 2045[^14].
+- **Seismic Design:** The overall structural structure is designed to withstand a once-in-2,500-year earthquake and winds of up to 60 meters per second[^11].
 
-**Structural System:** Steel-reinforced concrete structure with 8 mega columns (3×2.4 meters) plus 16 core columns forming the main framework. 11 cross-shaped mega beams divide the building into 11 structural segments, creating a "Mega Structure" system.
+## C. Y. Lee's Feng Shui Laboratory: The Treasure Basin and the Rounded Corners That Dissipate Sha
 
-**High-Ductility Connections:** Utilizing patented technology from Professor Chen Sheng-Jin of Taiwan Tech, steel beam flanges are cut 12 centimeters from column connections, allowing earthquake energy to release at predetermined weak points, preventing brittle failure of the overall structure. This technology makes Taipei 101's earthquake resistance 7-8 times stronger than traditional connections.
+Architect C. Y. Lee explicitly engaged feng shui consultants during the design of Taipei 101. This was not mere superstition but an attempt to deeply integrate traditional Chinese aesthetics with modern engineering[^2].
 
-## The 660-Ton Guardian: From Engineering Equipment to Cultural Symbol
+- **Treasure Basin Imagery:** The tower is segmented into sections of 8 floors each, forming an "inverted trapezoid" profile. In feng shui, this symbolizes a "treasure basin," but in climbing terms, it increases the difficulty — Honnold had to maintain a constant "leaning back" posture as he ascended[^2].
+- **Ancient Coins and Ruyi Scepters:** The 26th-floor exterior is adorned with giant ancient coin and ruyi (wish-granting scepter) motifs, intended to guard Taipei's financial artery and to soften the sharp visual impression of the glass curtain wall[^2].
+- **Rounded Corners to Dissipate Sha:** All corners of Taipei 101 are rounded. Physically, this reduces wind-induced oscillation; in feng shui terms, it neutralizes the "blade sha" (sharp-edge negative energy) generated by supertall buildings, embodying a posture of coexistence with the urban environment[^2].
 
-The TMD damper was originally just engineering equipment but unexpectedly became Taipei 101's most recognizable cultural symbol. This US$4 million golden sphere, weighing 660 tons with a 5.5-meter diameter, is the world's largest passive damper.
+## The Mystery Zone Above the 92nd Floor: Summit 101 and Honnold's Rappel
 
-The engineering principle is simple: when the building sways left due to wind or earthquakes, the damper swings right, creating counteracting force to cancel the motion. But the effect is remarkable—reducing building sway by 40%, preventing dizziness for people working on high floors.
+For most visitors, the journey ends at the 89th-floor observatory. But floors 92 through 101 have long been known as the "Mystery Zone." This area includes communication floors and the interior of the spire, accessible only to authorized personnel. Rumors persist that the 101st floor houses an extremely exclusive VIP club called "Summit 101," which hosts only the world's top political leaders and dignitaries — its details have never been publicly disclosed[^15].
 
-**The Magic of Cultural Transformation:** Sanrio designed the mascot "Damper Baby" for the TMD, releasing five versions (Rich Gold, Cool Black, Smart Silver, Happy Green, Lucky Red) transformed from cold engineering equipment into adorable cultural merchandise. The most popular souvenir at the observatory is now various colored damper babies.
+In January 2026, after Alex Honnold reached the summit, he did not climb back down. Instead, he donned safety gear and **rappelled** the full 508 meters to the ground[^2]. He later revealed that despite the global spectacle of the livestream, Netflix had paid him an "embarrassing amount," adding that "I would have done it for free, just to be allowed up there"[^16].
 
-## Extreme Stage: The 91-Minute Legend and 2046-Step Challenge
+## Financial and Operational Status of the BOT Project
 
-### Honnold's Sky Dance (January 25, 2026)
+As Taiwan's first large-scale BOT project, Taipei 101 had a total construction cost of approximately NT$58 billion (roughly US$1.9 billion), with a 70-year operating concession that will end with a gratuitous transfer to the Taipei City Government[^1][^17]. The project was not only an engineering challenge but also a financial and operational success story.
 
-American climbing legend Alex Honnold completed climbing history's most insane challenge: **free soloing Taipei 101 without ropes or safety equipment.** 91-minute ascent, relying solely on finger strength and friction against the building's bamboo-joint exterior walls—one slip meant certain death.
+- **King of Land Prices:** Taipei 101 and its surrounding land have repeatedly been crowned the "King of Land Prices" (地王), the most expensive real estate in Taiwan, reflecting its commercial value and catalytic role in the development of the Xinyi District[^18].
+- **Revenue Performance:** Its shopping center has long led all department stores in Taiwan by revenue, generating over NT$20 billion annually, with tenants dominated by financial and technology firms including international companies such as Google[^19].
+- **Demonstration Effect:** The success of Taipei 101 provided valuable experience and a model for subsequent large-scale public infrastructure projects in Taiwan adopting the BOT model.
 
-Netflix livestreamed globally as millions held their breath. Honnold used the exterior wall's L-shaped protrusions to climb floor by floor, even waving to office workers gathered at windows on the 89th floor. Upon reaching the top, he took a selfie on the 508-meter lightning rod, saying just one word: "Sick!"
+## The Controversy and Social Cost of Honnold's Ascent
 
-**Honnold's time was more than double the speed of French "Spider-man" Alain Robert's 4-hour roped climb in 2004,** proving the limits of human free climbing.
+While Alex Honnold's free solo of Taipei 101 captured global attention, it was not without controversy:
 
-### Vertical Marathon: Everest for Ordinary People
+- **Ethical Debate:** Some in the climbing community and among viewers criticized his actions as "reckless" and "selfish," particularly given that he is a father of two, raising questions about the ethical boundaries of livestreamed extreme sports[^20].
+- **Climbing Difficulty:** Although the route was relatively "controllable" for Honnold (approximately grade 5.11), the custom-designed sections — including the bamboo-steel dragon features — combined with livestream delays and shifting weather, kept the challenge full of variables[^2].
 
-Since 2005, the Taipei 101 Vertical Marathon has become one of the world's most difficult stair-climbing races. **2046 steps** (floors 5 to 91), 390 meters vertical height, averaging 19 centimeters per step.
+Additionally, the early development of Taipei 101 also involved social costs:
 
-**World Record:** Australian athlete Paul Crake set the men's record of **10 minutes 29.32 seconds** in 2005, which remains unbroken. That's averaging 200 steps per minute—breathtakingly fast. The women's record is held by Austrian athlete Andrea Mayr.
+- **Relocation and Land Disputes:** During the initial development of the Xinyi Special District, there were relocation issues involving some military dependents' villages (眷村) and Army housing. Although the Taipei 101 site itself was not directly on a village, the broader district development still entailed land acquisition and resident resettlement costs[^21].
 
-After Honnold's 2026 climb, the vertical marathon adopted a new slogan: "Honnold climbs walls, you climb stairs," with registration selling out instantly.
+## Other Notable Dimensions
 
-## Global Stage: New Year Fireworks and International Recognition
+- **Fireworks and Cultural Events:** Taipei 101's New Year's Eve fireworks show has become a world-famous annual event, drawing crowds of hundreds of thousands. It was among the first skyscraper-based fireworks displays in the world, transforming the building itself into a massive platform for artistic performance[^22].
+- **Underground and Podium:** Beyond the soaring tower, Taipei 101's podium houses a large shopping mall and food court featuring international luxury brands and specialty dining, making it a major commercial and tourist landmark in Taipei[^23].
+- **Environmental Challenges:** Despite its engineering excellence, Taipei 101 sits in an earthquake zone approximately 200 meters from the Mountain Foot Fault, making its seismic design and ongoing maintenance all the more critical and complex[^1].
+- **Recent Developments:** The observatory continues to undergo upgrades, and there have been reports that the 101st-floor VIP club "Summit 101" may open on a limited basis in the future, giving more people a chance to glimpse this mysterious space[^15].
 
-Every December 31st, Taipei 101 transforms into a giant fireworks stage, showcasing "Taiwan Time" to the world. Performances designed by France's Groupe F pyrotechnics team, combined with the building's T-Pad LED system, create unprecedented light-sculpted firework shows.
+## Coda: The Golden Snake at Sunset
 
-**Technical Breakthrough:** The T-Pad system consists of tens of thousands of LEDs that can project animations on the building's exterior walls, perfectly synchronized with firework explosions to create stunning visual feasts. The 2025 New Year theme "Nature is Future" launched 30,000 fireworks, broadcast globally to hundreds of millions of simultaneous viewers.
+Standing on the 89th-floor observatory as the sun sets in the west, you can see the Tamsui River winding through the Taipei Basin, its shimmering surface transforming into a "golden snake." This image captures the essence of Taipei 101: it is a stable fulcrum built atop shifting geology and complex political economy, and simultaneously a fusion of engineering miracle and cultural symbol.
 
-Taipei 101 has transcended architecture to become Taiwan's cultural vehicle on the international stage—Mission: Impossible filming location, MV backdrop, advertisement billboard—it's the first impression of Taiwan for the world.
-
-## From World's Tallest to World's Most Unique: Redefining Value After Being Surpassed
-
-In 2010, Dubai's Burj Khalifa (828 meters) was completed, officially ending Taipei 101's "world's tallest" reign. But Taiwan quickly discovered: **height can be surpassed, meaning cannot be replicated.**
-
-**Green Building Benchmark:** In 2025, Taipei 101 achieved a record-breaking score of 95 points, earning LEED v5 Operations & Maintenance Platinum certification from the U.S. Green Building Council. From energy management and rainwater collection to waste reduction, it proved that ultra-tall buildings can meet sustainability standards.
-
-**Extreme Sports Mecca:** Honnold's climb gave 101 a new identity—no longer pursuing "tallest" but becoming a symbol of "most daring to challenge." Vertical marathon, base jumping (Skyline 460), and urban climbing have made this a pilgrimage site for extreme sports enthusiasts.
-
-> **📝 Curator's Note**
-> Truly great architecture isn't measured by height but by how many dreams and stories it carries. 101's transformation from world's tallest to world's most unique makes it even more precious.
-
-## Real-World Challenges: The Operational Test Behind the Glory
-
-### Tourism and Operations Status
-
-**Observatory Tickets:** General admission NT$600, concession NT$540, 101st floor add-on NT$380. Premium Skyline 460 outdoor experience NT$3,000, limited to those over 145cm tall, safety equipment required.
-
-**Maintenance Costs:** Annual operating costs approximately NT$2 billion (roughly NT$5.5 million daily), including electricity, personnel, security, and cleaning. Ultra-tall building maintenance costs are 5-10 times those of regular buildings.
-
-**Office Vacancy:** Recent years have seen some floor vacancies due to pandemic impact and remote work trends, increasing rental pressure. However, the observatory and shopping mall remain primary revenue sources.
-
-### Industrial Accident Memory and Responsibility
-
-In 2007, the "Partner Monument" was erected in front of Taipei 101, commemorating 6 workers who died during construction: Lin Jian-cheng, Sun Tong-ying, Chen You-zhen, Chen Xin-yang, Chen Jin-shui, and Zhang Da-quan. Seven colored glass walls inscribed with all construction participants' names remind posterity: **behind every great building lie countless people's blood, sweat, and sacrifice.**
-
-**Ethical Reflection:** Honnold's climbing sparked controversy—does such extreme performance encourage imitators? If accidents occur, how should responsibility be assigned? As host, should Taiwan bear the consequences of "risk diplomacy"?
-
-### Sustainable Development Challenges
-
-Despite LEED Platinum certification, ultra-tall buildings are inherently massive energy consumers. Elevators, air conditioning, lighting, and security systems operate 24/7, with still-alarming carbon emissions. Balancing landmark symbolism with environmental responsibility remains a long-term challenge for 101.
-
-## What Taipei 101 Teaches the World
-
-Within this 508-meter tower, we see Taiwan's complete reflection:
-
-**Resilience Against Natural Disasters:** Building skyscrapers in earthquake zones, using engineering wisdom to combat natural threats.
-**Indomitable Spirit:** Knowing the difficulties ahead yet still striving to be world's first.
-**Transformation Wisdom:** Not wallowing in self-pity after being surpassed, but redefining value instead.
-**Inclusive Culture:** Letting international climbers make history in Taiwan, opening hearts to welcome the world.
-
-From Xinyi District rice paddies to international landmark, from world's tallest to world's most unique, Taipei 101 has taught us over 20 years: **true eternity isn't about living for ten thousand years, but creating moments so dense with meaning that time disappears.**
-
-When Honnold waved from 508 meters high, the whole world saw—on this island that might shake at any moment, Taiwan still dares to stand tall in the sky, creating heights that are uniquely its own.
+The number 101 represents a beginning in binary and transcendence in culture. It is not merely a tower that can "fly" — it is a living, evolving chronicle of political economy and culture, symbolizing Taiwan's soft power of constantly rising and pursuing excellence in the face of challenge.
 
 ## References
 
-- [PanSci: How Does Taipei 101 Resist Earthquakes?](https://pansci.asia/archives/75411)
-- [BBC News: Alex Honnold completes live Netflix free solo climb of Taipei 101 without safety gear](https://www.bbc.com/news/articles/c4gl0njzxjdo)
-- [NOWnews: Honnold's 91-minute 101 ascent! Paul Crake's world record 10:29.32](https://www.nownews.com/news/6779527)
-- [Taipei 101 Official Observatory Ticketing](https://www.taipei-101.com.tw/en/observatory/ticket)
-- [Business Weekly: Taipei 101 Achieves Global High Score LEED v5 Platinum Certification](https://www.businessweekly.com.tw/business/indep/1005824)
-- [Wikipedia: Taipei 101 New Year Fireworks](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB%E8%A1%A8%E6%BC%94)
-- [The News Lens International: That Day, They Fell from the 101 Construction Site](https://global.udn.com/global_vision/story/8664/9303978)
-- [Wikipedia: Taipei 101](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E5%8C%97101)
-- [Wikipedia: Taipei Financial Tower Corp.](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%8C%97%E9%87%91%E8%9E%8D%E5%A4%A7%E6%A8%93%E5%85%AC%E5%8F%B8)
-- [Engineering Consulting Association: Building Anti-Wind and Earthquake Systems](https://www.ntuce-newsletter.tw/vol.21/101damper-1.html)
-- [Wikipedia: Taipei 101 Damper Baby](https://en.wikipedia.org/wiki/Taipei_101)
-- [Netflix: Alex Honnold Skyscraper Live](https://www.netflix.com/tudum/articles/how-to-watch-alex-honnold-skyscraper-climb-live-netflix)
+[^1]: [Office of the President: President Attends Taipei 101 Opening Ceremony](https://www.president.gov.tw/NEWS/9106) — Official record from the Office of the President, Republic of China (Taiwan), detailing the 2004 opening ceremony and the impact of the 3/31 earthquake on construction.
+
+[^2]: [City Magazine: Honnold's Taipei 101 Climb Broadcasts Feng Shui Ingenuity to the World!](https://city.gvm.com.tw/article/127661) — In-depth analysis of Alex Honnold's 2026 ascent details, C. Y. Lee's feng shui design logic, and architectural craftsmanship.
+
+[^3]: [Medium: "From 0 to 101" — The Trials of the Tallest Building](https://medium.com/%E5%AD%90%E8%BF%82%E7%9A%84%E8%A0%B9%E9%85%B8%E9%BD%8B/%E5%BE%9E0%E5%88%B0101-%E7%AC%AC%E4%B8%80%E9%AB%98%E6%A8%93%E7%9A%84%E7%A8%AE%E7%A8%AE%E8%80%83%E9%A9%97-16e06a2d51d6) — Documents the evolution of Taipei 101 from the original "one tall, two low" plan to the final monolithic tower.
+
+[^4]: [Threads: I Bet No One in Taiwan Has Seen the Original 101](https://www.threads.com/@ben_lin0621/post/DUSvHFRknLZ/) — Reveals the historical anecdote of the early plan being rejected by the business community for resembling a "watchdog."
+
+[^5]: [Mirror Media: The Past and Present Life of Taipei 101](https://www.mirrormedia.mg/story/20250103cul001) — Details how Mayor Chen Shui-bian adopted Peng Huan-nan's advice to convert public housing land into an international financial center.
+
+[^6]: [Threads: 101 Groundbreaking Was January 1998, Mayor Was Chen Shui-bian](https://www.threads.com/@yeye9999/post/DUAERMljwZJ/) — Records Chen Shui-bian's coordination with the central government to relax airspace restrictions, elevating the plan from 66 to 101 floors.
+
+[^7]: [Liberty Times Finance: Why Is Taipei 101 101 Floors? Lin Hung-ming Reveals the Secret](https://ec.ltn.com.tw/article/breakingnews/3834325) — Interview with Taipei 101 catalyst Lin Hung-ming, revealing the cultural significance behind the change from 77 to 101 floors.
+
+[^8]: [The News Lens: Ting Hsin's Sale of 101 Stake in Jeopardy? Three Financial Chiefs Oppose Sale to Foreign Investors](https://www.thenewslens.com/article/10113) — Reports on the political and economic background of the government blocking Ting Hsin's attempted sale of shares to Malaysia's IOI Group in 2014.
+
+[^9]: [Threads: 101 Valuation and Equity Structure, March 2025](https://www.threads.com/@marktosay/post/DT-N_M7FIlQ/) — Analyzes the 2025 equity shift as Japanese firm ITOCHU sold shares to public-sector financial groups and the financial considerations involved.
+
+[^10]: [Economic Daily News: Hung Tai Wins Taipei 101 Equity Auction](https://money.udn.com/money/story/5613/9322341) — Reports on the February 2026 acquisition of a 15.1% stake by the Hung Tai Group, making it the largest domestic private shareholder.
+
+[^11]: [Taipei 101 Official Website: Tuned Mass Damper](https://www.taipei-101.com.tw/tw/story/damper.aspx) — Official Taipei 101 introduction to the damper, including its function, dimensions, and cultural significance.
+
+[^12]: [NTDTV: Taipei 101 Damper Swings 100 cm During Typhoon Soudelor, Setting Record](https://www.ntdtv.com.tw/b5/20150808/video/153910.html) — Reports the historical record of Taipei 101's damper oscillation during Typhoon Soudelor in 2015.
+
+[^13]: [Taipei 101 Official Website: World's Fastest Elevator](https://www.taipei-101.com.tw/tw/story/elevator.aspx) — Official Taipei 101 introduction to elevator speed and world records.
+
+[^14]: [Business Weekly: Taipei 101 Earns LEED v5 Platinum Certification with World's Highest Score](https://www.businessweekly.com.tw/business/indep/1005824) — Reports on the process and significance of Taipei 101 obtaining dual LEED v5 and WELL v2 Platinum certifications.
+
+[^15]: [Tatler Asia: Without a Grandmother's Divination, There Would Be No Taipei 101?](https://www.tatlerasia.com/power-purpose/business/taipei-101-building-new-book) — Explores behind-the-scenes stories of Taipei 101, including the mysterious 101st-floor space and the social costs of early development.
+
+[^16]: [Yahoo News: Alex Honnold Says Netflix Paid "Embarrassing Amount"](https://sports.yahoo.com/articles/alex-honnold-says-netflix-paid-165959336.html) — Cites Alex Honnold's post-climb interview, revealing the compensation controversy and personal motivation behind his Taipei 101 ascent.
+
+[^17]: [Ministry of the Interior, Construction and Planning Agency: Taipei 101 Structural Construction Supervision Record](https://ws.moi.gov.tw/001/Upload/OldFile_Abri_Gov/research/646/14479298321.pdf) — Official Ministry document noting Taipei 101 as a BOT project and related planning details.
+
+[^18]: [Liberty Times: Taipei 101 Titles as King of Land Prices for 11 Consecutive Years](https://ec.ltn.com.tw/article/breakingnews/3805898) — Reports on Taipei 101 and its surrounding land repeatedly claiming the highest land price designation in Taiwan.
+
+[^19]: [Economic Daily News: Taipei 101 Mall Revenue Hits New High](https://money.udn.com/money/story/5612/7689000) — Reports on the revenue performance and tenant profile of the Taipei 101 shopping mall.
+
+[^20]: [Daily Mail: 'Reckless' and 'Selfish' Alex Honnold Faces Backlash](https://www.dailymail.co.uk/sport/football/article-15500969/Alex-Honnold-skycraper-Netflix-free-solo-climb-Sanni-family.html) — Reports criticism from some quarters of public opinion following Alex Honnold's Taipei 101 climb.
+
+[^21]: [Watchinese Magazine: Historical Footsteps Framed with 101 — Taipei's First Military Dependents' Village "44 South Village"](https://www.watchinese.com/article/2026/28357) — Mentions the historical connection between Xinyi Special District development and 44 South Village, indirectly reflecting early land use and resident resettlement issues.
+
+[^22]: [Taipei 101 Official Website: New Year's Eve Fireworks](https://www.taipei-101.com.tw/tw/story/fireworks.aspx) — Official Taipei 101 introduction to the New Year's Eve fireworks event.
+
+[^23]: [Taipei 101 Official Website: Shopping Mall](https://www.taipei-101.com.tw/tw/shopping-mall/index.aspx) — Official Taipei 101 introduction to the shopping mall, food court, and brand tenants.
