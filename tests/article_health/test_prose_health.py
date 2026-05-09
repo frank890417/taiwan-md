@@ -255,6 +255,72 @@ def test_tier1_dual_pattern_detected(tmp_path):
     assert len(tier1) >= 5
 
 
+# ── 2026-05-09 brave-kirch: bare antithesis 「不是 X，是 Y」 patterns ────────
+
+
+def test_tier1_bare_antithesis_with_comma(tmp_path):
+    """「不是 X，是 Y」(no 而是/也是/更是) should be detected."""
+    body = "Taiwan.md 不是百科全書，是一座策展空間。\n" * 5
+    body += "\n".join(["延伸 1916 年"] * 20)
+    body += "\n\n[^1]: [src](https://e.com) — desc"
+    violations = _check(tmp_path, body)
+    tier1 = [v for v in violations if "Tier 1" in (v.editorial_ref or "")]
+    assert len(tier1) >= 5, "bare antithesis 『不是 X，是 Y』should trigger"
+
+
+def test_tier1_busheng_more_pattern(tmp_path):
+    """「不只 X，更 Y」variant should be detected."""
+    body = "他不只是歌手，更是文化符號。\n" * 5
+    body += "\n".join(["延伸 1916 年"] * 20)
+    body += "\n\n[^1]: [src](https://e.com) — desc"
+    violations = _check(tmp_path, body)
+    tier1 = [v for v in violations if "Tier 1" in (v.editorial_ref or "")]
+    assert len(tier1) >= 5
+
+
+def test_tier1_bingfei_pattern(tmp_path):
+    """「並非 X，而是 Y」variant should be detected."""
+    body = "這並非偶然事件，而是結構性問題。\n" * 5
+    body += "\n".join(["延伸 1916 年"] * 20)
+    body += "\n\n[^1]: [src](https://e.com) — desc"
+    violations = _check(tmp_path, body)
+    tier1 = [v for v in violations if "Tier 1" in (v.editorial_ref or "")]
+    assert len(tier1) >= 5
+
+
+def test_tier1_no_false_positive_normal_negation(tmp_path):
+    """普通 negation 不應該被誤抓 — 「不是 X 是 Y」 inside long sentence shouldn't trigger."""
+    # 「不是」+ 後續結構但沒形成對位句型（X > 30 字 / 不在「，是」附近）
+    body = "他在那段時間裡到處奔走，不是為了個人利益而是想要解決一個更深層的社會問題，這個問題他關注超過十年。\n"
+    body += "\n".join(["延伸 1916 年"] * 25)
+    body += "\n\n[^1]: [src](https://e.com) — desc"
+    violations = _check(tmp_path, body)
+    tier1 = [v for v in violations if "Tier 1" in (v.editorial_ref or "")]
+    # 應該抓到「不是.{0,8}而是」(short distance)
+    assert len(tier1) <= 2, f"long-X scenarios shouldn't over-trigger, got {len(tier1)}"
+
+
+def test_tier1_docs_canonical_no_frontmatter_still_checked(tmp_path):
+    """docs/ canonical files (no frontmatter) should still trigger prose-health.
+
+    2026-05-09 brave-kirch: 原本 plugin `if not target.frontmatter: return`
+    讓 EDITORIAL.md 自己漏抓 16+ 處對位句型。Fix: only skip if knowledge/ article.
+    """
+    # Simulate a docs/ canonical file (no frontmatter, but rich content)
+    docs_dir = tmp_path / "docs" / "editorial"
+    docs_dir.mkdir(parents=True)
+    f = docs_dir / "TEST-CANONICAL.md"
+    body = "# TEST CANONICAL\n\n"
+    body += "這不是檢查清單，是一個會寫好文章的眼睛。\n" * 6
+    body += "\n".join(["延伸 1916 年"] * 20)
+    f.write_text(body, encoding="utf-8")
+    target = load_target(f)
+    assert not target.frontmatter, "test file should have no frontmatter"
+    violations = list(prose_health.check(target, {}))
+    tier1 = [v for v in violations if "Tier 1" in (v.editorial_ref or "")]
+    assert len(tier1) >= 3, "docs/ canonical without frontmatter should still be checked"
+
+
 def test_tier2_metaphor_density(tmp_path):
     body = "這篇文章的軌跡承載著 DNA，鏡子般的張力，光譜的縮影。\n"
     body += "\n".join(["散文 1916 年"] * 22)

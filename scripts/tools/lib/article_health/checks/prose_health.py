@@ -74,9 +74,13 @@ _RE_HOLLOW = re.compile(
 # ── Em-dash (manifesto-11 [9-10] / quality-scan §8b) ─────────────────────────
 _RE_EMDASH = re.compile(r"——")
 
-# ── Manifesto §11 Tier 1: 不是X是Y 對位句型 11 變體 ─────────────────────────
-# Tightened versions of patterns from check-manifesto-11.sh
+# ── Manifesto §11 Tier 1: 不是X是Y 對位句型 變體 ───────────────────────────
+# Tightened versions of patterns from check-manifesto-11.sh.
+# 2026-05-09 brave-kirch: 加 antithesis-bare 抓最普遍的「不是 X，是 Y」
+# (X 跟 Y 都不超過 30 字、結尾是純「是」不要求「而是 / 也是 / 更是」)。
+# 哲宇 EDITORIAL v6.0 self-check 揭露 plugin 漏抓 16+ 處對位句型。
 _TIER1_PATTERNS = [
+    # 既有 11 patterns (require explicit antithesis tail)
     re.compile(r"不是.{0,30}[，,]\s*而是"),  # cross-comma
     re.compile(r"這不是.{0,15}是"),
     re.compile(r"不只是.{0,15}是"),
@@ -88,6 +92,14 @@ _TIER1_PATTERNS = [
     re.compile(r"既是.{0,8}也是.{0,8}更是"),
     re.compile(r"從.{2,15}到.{2,15}[，,]\s*從.{2,15}到"),
     re.compile(r"與其說.{0,15}不如說"),
+    # NEW (2026-05-09): bare antithesis 「不是 X，是 Y」 / 「不是 X 是 Y」
+    # X 1-30 字 (no 是 inside to avoid match overlap); Y 1-30 字
+    re.compile(r"不是[^是\n]{1,30}[，,]\s*是[^，,。\n]{1,30}"),  # 不是 X，是 Y
+    # NEW: 「不只 X，更 Y」「不只是 X，也 Y」「並非 X，而是 Y」 系列
+    re.compile(r"不只[^更也\n]{1,30}[，,]\s*更"),
+    re.compile(r"不只是[^也還\n]{1,30}[，,]\s*(也|還)"),
+    re.compile(r"並非[^而\n]{1,30}[，,]\s*而是"),
+    re.compile(r"並不[^而是\n]{1,30}[，,]\s*而是"),
 ]
 
 # ── Manifesto §11 Tier 2: AI 抽象 metaphor 詞 ────────────────────────────────
@@ -319,15 +331,27 @@ def _word_count(body: str) -> int:
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     """Yield prose-health violations + a final score-summary violation.
 
-    Skips if file is too short (lines < 20) or has no frontmatter (matches
-    quality-scan.sh::scan_file early-exit semantics).
+    Skips if file is too short (lines < 20).
+
+    Frontmatter requirement: knowledge/ articles must have frontmatter
+    (matches legacy quality-scan.sh::scan_file semantics). For docs/
+    canonical SSOT files (EDITORIAL.md / MANIFESTO.md / pipeline files /
+    cognitive layer), prose-health still applies — these don't have
+    frontmatter but should be held to same writing discipline.
+
+    2026-05-09 brave-kirch: 原本 `if not target.frontmatter: return` 讓
+    EDITORIAL.md 自己漏抓 16+ 處對位句型。docs/ canonical 文件 frontmatter
+    是 optional，不應該 skip prose-health.
     """
     body = target.body
     line_count = body.count("\n") + 1
     if line_count < 20:
         return
-    if not target.frontmatter:
-        # Hub / private docs without frontmatter — quality-scan skips these
+    # Frontmatter required only for knowledge/ articles (legacy semantics).
+    path_str = str(target.path)
+    is_knowledge_article = "/knowledge/" in path_str or path_str.startswith("knowledge/")
+    if is_knowledge_article and not target.frontmatter:
+        # Hub / private docs in knowledge/ without frontmatter — skip
         return
 
     score = 0
