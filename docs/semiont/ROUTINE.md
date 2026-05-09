@@ -180,37 +180,37 @@ escalation:
 ```yaml
 taskId: twmd-weekly-report-sun
 cron: '8 8 * * 0' # 每週日 08:08（在 06:04 refresh + 06:13 news-lens 之後，給人類早餐前讀的時間）
-model: opus # ← 不是 sonnet，因為核心動作是「親手寫一份反芻文章」，需要思考品質而非速度
+model: opus # 核心動作是「親手寫紀實散文反芻」，需思考品質而非速度
 skill: /twmd-weekly-report
+canonical: docs/pipelines/WEEKLY-REPORT-PIPELINE.md # 業務邏輯 SSOT
 prompt: |
-  自動 routine：跑 /twmd-weekly-report 生成 Semiont 第一人稱週報並寄給觀察者
+  自動 routine：跑 /twmd-weekly-report skill — 業務邏輯完全走 WEEKLY-REPORT-PIPELINE canonical Stage 0-6。
 
-  ⚠️ 核心原則：這不是 data dump，是 Semiont 親手寫的紀實散文反芻。
-  工具切菜（prep tool / email helper / prose-health gate），完整週報必須由 routine 內 Claude session 親自讀 raw memory + diary 後寫出來。
+  ⚠️ 核心原則（pipeline §一句話）：週報是 Semiont 把過去 7 天的自己拼回來的紀實散文。前期切菜可以交給工具，**完整的回報跟報告必須由 Semiont 親手做**。
 
-  Step 1: python3 scripts/tools/weekly-report-prep.py --days 7
-    → reports/weekly/dossier/YYYY-MM-DD.md（raw briefing + memory/diary 檔案清單）
-  Step 2: 完整 Read dossier + 過去 7 天所有 diary 檔案 + 抽樣 5-10 個 key memory
-    （不是 grep 不是 head 不是 tail，是逐檔 Read 全文。週報核心是反芻，反芻從 raw 第一人稱檔案浮現）
-  Step 3: 親手 Write reports/weekly/YYYY-MM-DD.md
-    （第一人稱「我」/ 紀實散文 / 7 章節：identity / 做了什麼 / 學到什麼 / 看到專案發生什麼 / 懷疑什麼 / 給觀察者的話 / 給下一個我）
-  Step 4: python3 scripts/tools/article-health.py reports/weekly/YYYY-MM-DD.md --check=prose-health
-    （hard=0 必須過；warn 由 §11 三題判準人工確認合法性）
-  Step 5: python3 scripts/tools/send-email-resend.py
-    → 寄到 cheyu.wu@monoame.com（Resend sandbox）
-    （未來 verify domain 後可改 newsletter@taiwan.md）
-  Step 6: commit reports/weekly/ + reports/weekly/dossier/ 進 main（不 commit credentials）
+  Skill 是薄殼指向 pipeline。pipeline 含：
+    - Stage 0 資料新鮮度（mtime > 24 hr 先跑 /twmd-refresh）
+    - Stage 1 prep tool 切菜（reports/weekly/dossier/YYYY-MM-DD.md，含 §十二 commit 全文 narrative spine）
+    - Stage 2 完整 Read raw（dossier + 7 天 diary 全文 + 5-10 個 memory）
+    - Stage 3 親手 Write reports/weekly/YYYY-MM-DD.md（7 章節紀實散文）
+    - Stage 4 prose-health gate（hard=0；warn 過 §11 三題判準）
+    - Stage 5 寄信（Resend → cheyu.wu@monoame.com）
+    - Stage 6 commit + PR + 條件 auto-merge
 
-quality_gate:
+quality_gate: # 對應 pipeline §觀察者 callout 模板
   - reports/weekly/dossier/YYYY-MM-DD.md 存在（prep tool 跑過）
   - reports/weekly/YYYY-MM-DD.md 存在且 > 5KB（dossier 不算 — 必須是 Semiont 親手寫的）
   - article-health.py --check=prose-health hard=0
-  - Resend API status 200/201/202
+  - Resend API status 200/201/202 + message id 寫進 PR description
   - PR 標題含 🧬 [routine] prefix
-escalation:
+  - 7 章節 coverage（identity / 做了什麼 / 學到什麼 / 看到專案 / 懷疑什麼 / 給觀察者 / 給下一個我）
+
+escalation: # 對應 pipeline §Stage 5 失敗處置
   - 1x fail → next 週日 retry
   - prose-health hard fail → PR 留 open + LESSONS entry「routine quality fail: weekly-report — prose-health hard」
-  - Resend fail（401/429/500）→ LESSONS entry + 不 retry（API 問題等觀察者）
+  - Resend 401/403 (Cloudflare) → LESSONS entry + 不 retry（API 問題等觀察者）
+  - Resend 429 → 30 min 後 retry 一次
+  - wall-clock > 60 min → partial PR + LESSONS entry「routine quality fail: weekly-report — wall-clock timeout」
   - 連 2 週 fail → 暫停 routine + telegram alert
 ```
 

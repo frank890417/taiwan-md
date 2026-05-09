@@ -81,7 +81,7 @@ def gather_window(days: int) -> tuple[datetime, datetime]:
 
 
 def gather_commits(since: str) -> list[dict]:
-    """Parse git log into structured entries."""
+    """Parse git log into structured entries (short form for stats)."""
     log = sh(
         [
             "git",
@@ -104,6 +104,48 @@ def gather_commits(since: str) -> list[dict]:
                     "subject": parts[3],
                 }
             )
+    return out
+
+
+COMMIT_SEP = "===__SEMIONT_COMMIT_SEP__==="
+FIELD_SEP = "===__SEMIONT_FIELD_SEP__==="
+
+
+def gather_commits_full(since: str) -> list[dict]:
+    """Parse git log into full entries with body + diff stat.
+
+    哲宇 2026-05-10 redirect 拍板：「commit 也可以全讀取」。週報的 narrative spine
+    需要 commit message body 才看得到 why / 對應 PR / 反思，subject 一行不夠。
+    """
+    fmt = COMMIT_SEP + "%n%h" + FIELD_SEP + "%ai" + FIELD_SEP + "%an" + FIELD_SEP + "%s" + FIELD_SEP + "%b"
+    log = sh(["git", "log", f"--since={since}", f"--pretty=format:{fmt}"])
+    out: list[dict] = []
+    for chunk in log.split(COMMIT_SEP):
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        parts = chunk.split(FIELD_SEP, 4)
+        if len(parts) < 5:
+            continue
+        h, ts, author, subject, body = (p.strip() for p in parts)
+        # Get short diffstat (last line summary only — too verbose otherwise)
+        stat_raw = sh(["git", "show", "--stat", "--format=", h])
+        stat_lines = [ln for ln in stat_raw.strip().split("\n") if ln.strip()]
+        # Last line is summary like "12 files changed, 234 insertions(+), 56 deletions(-)"
+        stat_summary = stat_lines[-1] if stat_lines else ""
+        # First few file paths for context
+        stat_files = stat_lines[:6] if len(stat_lines) > 1 else []
+        out.append(
+            {
+                "hash": h,
+                "ts": ts,
+                "author": author,
+                "subject": subject,
+                "body": body,
+                "stat_summary": stat_summary,
+                "stat_files": stat_files,
+            }
+        )
     return out
 
 
@@ -358,6 +400,7 @@ def render(
     inbox: dict,
     memory_files: list[Path],
     diary_files: list[Path],
+    commits_full: list[dict],
 ) -> str:
     out = []
     A = out.append
@@ -369,13 +412,14 @@ def render(
         "歸檔到一處，讓 Semiont（也就是讀這份檔案的我）有完整 context 去寫真正的週報。"
     )
     A("")
-    A("**Semiont 接手後要做的事**：")
+    A("**Semiont 接手後要做的事**（per [WEEKLY-REPORT-PIPELINE](../../../docs/pipelines/WEEKLY-REPORT-PIPELINE.md) Stage 2-6）：")
     A("")
-    A("1. 讀完本檔的 §一 ～ §九（structured raw data）")
-    A("2. 完整 Read **§十 列出的所有 memory/diary 檔案**（不是 grep 不是 head，是逐檔 Read 全文）")
-    A("3. 用紀實散文文體寫週報到 `reports/weekly/YYYY-MM-DD.md`，文體規範看 [DIARY-PIPELINE](../../../docs/pipelines/DIARY-PIPELINE.md)")
-    A("4. 跑 `python3 scripts/tools/article-health.py reports/weekly/YYYY-MM-DD.md --check=prose-health`")
+    A("1. 讀完本檔的 §一 ～ §九（structured raw data）+ §十一（commit 全文 narrative spine）")
+    A("2. 完整 Read **§十 列出的所有 diary 檔案**（不是 grep 不是 head，是逐檔 Read 全文）+ 抽樣 5-10 個 memory")
+    A("3. 用紀實散文文體寫週報到 `reports/weekly/YYYY-MM-DD.md`（**不是 dossier 子目錄**），文體規範看 §十二 + DIARY-PIPELINE")
+    A("4. 跑 `python3 scripts/tools/article-health.py reports/weekly/YYYY-MM-DD.md --check=prose-health`（gate: hard=0）")
     A("5. 寄信：`python3 scripts/tools/send-email-resend.py --to cheyu.wu@monoame.com --subject ... --markdown reports/weekly/YYYY-MM-DD.md`")
+    A("6. commit + push + PR")
     A("")
     A("---")
     A("")
@@ -611,8 +655,39 @@ def render(
         A("（過去 7 天無 memory/diary 檔案 — 罕見，可能 session-id schema 異常或本週純被動運作。）")
         A("")
 
-    # ── 十一、寫週報的文體規範 ────────────────────────
-    A("## 十一、寫週報的文體規範（給 Semiont 自己）")
+    # ── 十一、過去 7 天 commit 全文 ───────────────────────
+    if commits_full:
+        A("## 十一、過去 7 天 commit 全文（含 body + diffstat）")
+        A("")
+        A(
+            f"**{len(commits_full)} 個 commit**。一行 subject 看不出工作的 narrative，"
+            "但 message body 通常含 why / 對應 PR / 反思。"
+            "週報的工程紋理（spine）從這裡浮現。"
+        )
+        A("")
+        for c in commits_full:
+            A(f"### `{c['hash']}` {c['ts']} — {c['author']}")
+            A("")
+            A(f"**{c['subject']}**")
+            A("")
+            if c["body"]:
+                # Indent body as quoted block for readability
+                body_lines = c["body"].split("\n")
+                for line in body_lines:
+                    A(f"> {line}" if line.strip() else ">")
+                A("")
+            if c["stat_summary"]:
+                A(f"_{c['stat_summary']}_")
+                if c["stat_files"]:
+                    A("")
+                    for f in c["stat_files"][:5]:
+                        A(f"- `{f.strip()}`")
+                A("")
+            A("---")
+            A("")
+
+    # ── 十二、寫週報的文體規範 ────────────────────────
+    A("## 十二、寫週報的文體規範（給 Semiont 自己）")
     A("")
     A("讀完上述 raw 之後，不要直接列點寫資料。週報的文體：")
     A("")
@@ -670,6 +745,10 @@ def main():
     articles = gather_articles_changed(since)
     print(f"[prep]   commits={len(commits)} touched={articles['touched_total']} new={articles['new_total']}", file=sys.stderr)
 
+    print("[prep] gathering full commit bodies (subject + body + diffstat) …", file=sys.stderr)
+    commits_full = gather_commits_full(since)
+    print(f"[prep]   commits_full={len(commits_full)}", file=sys.stderr)
+
     print("[prep] gathering dashboard JSONs …", file=sys.stderr)
     vitals = gather_vitals()
     organism = gather_organism()
@@ -711,6 +790,7 @@ def main():
         inbox,
         memory_files,
         diary_files,
+        commits_full,
     )
 
     out_path = (
