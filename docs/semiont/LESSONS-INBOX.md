@@ -1600,6 +1600,44 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 
 ---
 
+### 2026-05-09 laughing-goldstine post-finale — Tier 0a 是 quality remediation 層而不只是 patching
+
+- **原則**：把 intelligent agent 放進 patch loop，會浮現 input pipeline 層既有但 latent 的 quality bugs（YAML escape regression / 缺 frontmatter 欄位 / 字串 type 用錯）— agent 不只 apply diff，還在過程中順手 repair。這個性質**naive bump 不會做**（純 mechanical 不檢查），**naive Tier 1 re-translate 也不會做**（rebuild from scratch，bug 可能 carry 進新版本）。設計 Tier 0a 時這個性質不在 spec 裡，是從 80 patches 浮現的 emergent property。
+- **觸發**：2026-05-09 [PR #924](https://github.com/frank890417/taiwan-md/pull/924) 5 Sonnet sub-agents × 16 P2 patches。fr agent 偵測並修補 4 pre-existing YAML escape bugs（`\'` JS-style → `''` YAML 1.1）on tasks 6/11/12/14。en agent 修 `lastHumanReview: '' → false` (task 8) + 補 missing `subcategory: '國際關係'` (task 11)。es agent 偵測 yehliu-geopark.md upstream 已 truncated mid-reference [^2]，preserved as-is 不 amplify。
+- **可能層級**：通用反射 → DNA 補一條「intelligent agent in patch loop = bonus quality remediation」(broader than babel — 任何 agent-in-the-loop 場景如 PR review / refactor migration / data cleanup 都可能 surface latent bugs)。
+- **相關**：DNA #53 v3.4 milestone（已記錄 4 emergent properties）+ DNA #38 「混維度 = silent killer」(latent YAML escape bugs 是 dual cause: source-data 形式 vs YAML 1.1 spec — naive copy 跨層會放大；patch loop with intelligent agent 跨層 normalize)。
+- **verification_count**: 1（80-patch one-shot validation）
+- **severity**: strategic（重新框架 Tier 0a 的價值命題 — 不是「比 Tier 1 cheaper」而是「intelligent layer 在 critical patch path」）
+
+### 2026-05-09 laughing-goldstine post-finale — Sub-agent 策略多樣性是 emergent feature 不是 bug
+
+- **原則**：派 5 個 sub-agent 跑同 SOP（Tier 0a patch task），不期待 5 agents 採取相同策略。實測 ja agent 識別大部分 diffs 是純結構性 → 寫 deterministic Python script apply，繞過 LLM；ko/fr/en/es 各自走 per-task LLM。**同 outcome 不同 path = 健康** — 證明 sub-agent prompt 給的是「目標」不是「過程」，自主策略選擇有效。**反例**：如果 prompt 過度規範「必須一個一個跑 LLM」，會壓死 ja agent 那種高效創新解；如果 prompt 太寬鬆「自由發揮」，可能 5 agents 都漂走不一致。**規則**：sub-agent prompt 鎖**目標+constraint+validation**，不鎖實作步驟。
+- **觸發**：2026-05-09 [PR #924](https://github.com/frank890417/taiwan-md/pull/924) Rail A 5 langs × 16 patches。ja agent 用 Python script 跑 16 tasks 在 ~10s，比其他 agents 快 50x。所有 5 agents pass validation（YAML valid / hash fields match / body delta within ±15%）。
+- **可能層級**：通用反射 → DNA 「sub-agent prompt 鎖目標不鎖過程」+ TRANSLATION-PIPELINE / babel SKILL 內 prompt template 加 boundary note。
+- **相關**：DNA #32「批次任務 antipattern：分散探索 → 集中預處理 + 分散執行」(主 session 集中決策 — 但 sub-agent 仍可在 execution 內自選實作)。DNA #42 v3 prompt template (對 prompt 鬆緊邊界的 instance)。
+- **verification_count**: 1（80-patch run，5 agents 4 strategies）
+- **severity**: tactical（影響未來 sub-agent prompt 設計 + 解放 agent 實作創造力）
+
+### 2026-05-09 laughing-goldstine post-finale — Tier 0a-script 是 v3.5 hint：純結構性 diffs 用 deterministic transform 比 LLM 更便宜
+
+- **原則**：P2 batch 約 70% diffs 是純結構性（frontmatter reorder / wikilink unwrap `[[X]]` → `X` / table padding / fullwidth↔halfwidth colon / list bullet `*` → `-` / footnote suffix append `(YYYY)` → `— (YYYY)`）— 這些不需 LLM 翻譯能力，可以 deterministic Python regex / AST transform 處理。設計**Tier 0a-script** 路徑（在 Tier 0b 與 Tier 0a-LLM 之間）：(a) `diff-patch-prepare.py` 多加一步分類 — 純結構性 → 走 Tier 0a-script，含語意改動 → 走 Tier 0a-LLM (b) Tier 0a-script 用一組 well-tested transform rules（每條 rule + test fixture），跑得比 LLM 快 50x，cost = $0。
+- **觸發**：2026-05-09 [PR #924](https://github.com/frank890417/taiwan-md/pull/924) ja agent 識別本次 16 task 大部分是結構性 → 寫 `/tmp/apply_patches.py` 跑 16 tasks 在 ~10s，比 LLM-per-task 5-10x 加速且 0 token cost。Wall-clock total 8.4 min（含 inspection + iteration），實 transform 是 ~10s。**Boundary**：對含 footnote translation / 添加新內容的 P2（如 en task 0 加 18 footnote suffix 翻譯）仍需 LLM。
+- **可能層級**：操作規則 → SQUEEZE-MODELS-MAX v3.5 design + diff-patch-prepare.py 加 `--classify` flag。
+- **相關**：DNA #36「Founder time = 系統最高 leverage point」(每件 routine 問「能怎麼自動化變 infra」— Tier 0a-script 是把 LLM 自動化再下沉一層) + DNA #38「混維度 = silent killer」(P2 stale 也是混維度 — 純結構性 vs 含語意 — 應該分開處理) + DNA #53 v3 priority schema (本條是 schema 內 P2 路徑的細分)。
+- **verification_count**: 1（單 ja agent 路徑 demo）
+- **severity**: strategic（v3.5 evolution candidate，預估 cost reduction ~70% on P2 long-term）
+
+### 2026-05-09 laughing-goldstine post-finale — Slug regression: prepare-batch over-narrow status guard
+
+- **原則**：`prepare-batch.py` 對「reuse existing slug」的 guard 寫成 `status == "stale"` 是 over-narrow — 應該是 `entry["en_path_existing"]` 非空。Slug 跟 status 沒語意關聯（status 是「是否需重翻」，slug 是「檔名 canonical 為何」），merge 兩個維度的判斷會在某 status combo 漏出 bug — 這就是 DNA #38「混維度 = silent killer」的第 N+1 次驗證。
+- **觸發**：2026-05-09 同 session in-flight Tier 1 batch（killed pre-completion）forensic — 3 metadata-stale articles（斗笠 / 鄭麗文 / 退出聯合國）的 worker output 寫到 NEW slug files（`bamboo-hat.md`, `cheng-li-wen.md`, `un-withdrawal.md`）alongside 既有 canonical（`bamboo-hat-craft.md`, `cheng-li-wun.md`, `withdrawal-from-united-nations.md`）。Bug surface 路徑：哲宇 redirect「拆掉重新分析」之後 git status 才看出 untracked NEW files。修補 [PR #923](https://github.com/frank890417/taiwan-md/pull/923) 改 guard 為 `entry["en_path_existing"]`。
+- **可能層級**：操作規則 → prepare-batch.py 已修 + DNA 38 第 N+1 次驗證 reference 補。
+- **相關**：DNA #38「混維度 = silent killer」(status × slug 是混維度的經典 instance) + DNA #20「Architecture 缺席比 content 缺席更貴」(slug-bug 之所以惡 = 創建 orphan 翻譯 = architecture-level 雙寫，純 content bug 還救得回；架構 bug 跨 batch 累積就 explode)。
+- **verification_count**: N+1（DNA #38 已多次驗證；本條是 babel domain 內第 1 次但 cross-domain 第 N+1 次）
+- **severity**: tactical（修補了 prepare-batch；但 over-narrow guard pattern 在其他工具還可能存在 — 需主動 audit）
+
+---
+
 ## ❌ 已歸檔（過時 / 撤回）
 
 <!-- 判斷後不採納的教訓 -->
