@@ -46,7 +46,7 @@ upstream_canonical:
 | `twmd-data-refresh-pm`   | TWMD data refresh (pm)   | `4 18 * * *`       | `/twmd-refresh`       | Sonnet | 每天晚 18:04 |
 | `twmd-babel-nightly`     | TWMD babel (nightly)     | `22 22 * * *`      | `/twmd-babel`         | Opus   | 每天 22:22   |
 | `twmd-news-lens-weekly`  | TWMD news lens (weekly)  | `13 6 * * 0`       | `/twmd-evolve`        | Sonnet | 週日 06:13   |
-| `twmd-weekly-report-sun` | TWMD weekly report (sun) | `8 8 * * 0`        | `/twmd-weekly-report` | Sonnet | 週日 08:08   |
+| `twmd-weekly-report-sun` | TWMD weekly report (sun) | `8 8 * * 0`        | `/twmd-weekly-report` | Opus   | 週日 08:08   |
 
 **設計原則**：
 
