@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.0'
-last_updated: 2026-05-09
-last_session: 'funny-buck-8dd2a1'
+last_updated: 2026-05-10
+last_session: 'twmd-news-lens-weekly-2026-05-10'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -240,6 +240,31 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: 觀察者素材待補（哲宇可指方向 / 個人網站 / 展演紀錄 / 訪談）
 - **預估時間**：90-120 min（NEW Art - 人物，需多源研究 + 訪談 / 報導 cross-check）
 
+### 台灣前 50 大企業 — 市值排名與產業結構策展（2026）NEW
+
+- **Type**: `NEW`
+- **Category**: Economy
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: SC 7d data scan（2026-05-10 twmd-news-lens-weekly /twmd-evolve）— 「台灣前 50 大企業」query cluster ~600 impressions 跨變體無對應 landing page。三源驗證：
+  - **SC 7d cluster**：`台灣前50大企業排名` 184 imp / 7 clicks / pos 7.0 ｜ `台灣前50大企業` 119 imp / 3 clicks / pos 7.71 ｜ `台灣前50大公司` 102 imp / 2 clicks ｜ `台灣市值前50大公司` 58 imp / 1 click ｜ `台灣50大企業名單` 52 imp / 4 clicks ｜ `台灣50大企業` 27 imp ｜ `台灣前十大企業` 17 imp ｜ `前50大企業` 17 imp ｜ `台灣10大企業排名` 23 imp ｜ `台灣市值前50大公司 2026` 17 imp — 加總 ~600 imp / ~17 clicks，cluster CTR 約 2.8%（pos 7-8 page 1 後段）
+  - **GA 28d**：對應 path 不存在（GA topPages 無 `/economy/前50大企業` 或類似）— SC 已 surface 但讀者點不到對應內容，clicks 散落到 `/society/台灣邦交國` 等 unrelated articles 的長尾末端
+  - **Cloudflare 7d**：top countries US 131K / TW 108K / SG 42K — 台灣本地 + 海外華人投資者 + 國際 AI 爬蟲（GPTBot 14K / ChatGPT-User 10K / PerplexityBot 9K）皆需這份結構性資訊 surface
+- **為什麼這篇 vs 其他候選**（對比論述）：
+  - 對比 Blue UAS（已在 inbox P0，本週 564 → 751 imp +33% amplification）— Blue UAS 已收入 inbox，本 cycle 不重複；但本週 amplification 信號值得在 dev_log 追記
+  - 對比 TRA 外國工程師（已 P1）— TRA cluster 480 imp 集中在英文長尾，受眾為西方鐵道愛好者；50 大企業 cluster 600 imp 主受眾為台灣本地 + AI agent 引用，**reach × accuracy × ai-citation-leverage 三個維度皆勝**
+  - 對比未進 inbox 的鄰近 cluster：「台灣文化協會 1921」63 imp / 「陳士駿 Steve Chen」118 imp（兩者既有對應文章，cluster 規模也小）— 50 大企業是**唯一同時滿足「無 landing page + cluster ≥ 500 imp + clicks 已外溢到鄰近頁面」三條件**的本週新發現
+  - 對 Taiwan.md 策展使命的對齊：MANIFESTO §策展非百科 — 不是條列 50 家公司，而是「為什麼這 50 家是這 50 家」的結構性論述（半導體 vs 金融 vs 傳產比例 / 家族企業集中度 / 美中地緣產業重組對排名的影響），是百科查詢者搜「排名」但 Taiwan.md 提供「結構」的典範題材
+- **Notes**:
+  - 主題 anchors：(a) 2026 市值前 50 大公司清單（台積電 / 鴻海 / 聯發科 / 台達電 / 中華電 / 國泰金 / 富邦金 ...，需驗證最新 month-end snapshot）(b) 產業結構分佈（半導體 / 金融 / 電子製造 / 傳產 / 服務）(c) 家族集團 vs 專業經理人比例（台塑王家 / 鴻海郭家 / 富邦蔡家 / 國泰蔡家 / 中信辜家 vs 台積電 / 聯發科）(d) 美中地緣對排名的結構性影響（去中化供應鏈受益者 / 中國市場依賴受損者）(e) 跟 GDP 占比 / 就業人口的關係（市值集中於少數產業 vs 就業分佈）
+  - 必驗事實（DNA #16 + 讀者級驗證高優先）：(a) 月底市值快照日期一致性（同一交易日），優先 source `cmoney.tw` / `goodinfo.tw` / 公開資訊觀測站 / 證交所 (b) 集團合計 vs 單一公司排名混淆陷阱（台塑四寶分開算 vs 集團合計）(c) ADR vs 在台 listed 重複計算（台積電 ADR 在美 不能加）(d) 私有公司未上市（如和泰、義美）排除說明
+  - 政治敏感度：低（市場數據為主），但「中資」「兩岸關聯產業」（如部分電子代工大廠中國營收占比）需 framing 中性，per MAINTAINER §爭議處理
+  - 翻譯優先：海外華人投資者 + 國際讀者需求高，EVOLVE/NEW 完成後優先翻 en/ja/ko（Cloudflare 數據顯示 US/SG/JP 流量皆有）
+  - cross-link：（雙向）[台積電](/economy/台積電) [鴻海](/economy/) [台灣經濟發展](/economy/) [台灣半導體產業](/economy/) [非紅供應鏈](/economy/) [家族企業](/economy/或 /society/) — Stage 0 audit 確認既有清單
+  - **AI agent leverage**：本主題是 AI agent（GPTBot / Perplexity / ChatGPT-User）回答「Top Taiwan companies」類查詢的高頻 source；缺乏 canonical Taiwan-perspective article = AI 改用維基百科或中國視角來源
+- **Reference**: 證交所 https://www.twse.com.tw/ / 公開資訊觀測站 https://mops.twse.com.tw/ / cmoney 市值排名 / goodinfo 個股 / 各公司 IR investor relations
+- **預估時間**：120 min（NEW Economy 結構性策展 + multi-source 數值 cross-check + 表格視覺設計）
+
 ### Blue UAS Cleared List 台灣廠商（2026 美國國防部無人機白名單）NEW
 
 - **Type**: `NEW`
@@ -247,6 +272,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P0`
 - **Status**: `pending`
 - **Source**: SC 7d data scan（2026-05-08 elegant-ptolemy /twmd-evolve）— `blue uas cleared list 台灣廠商 2026` 564 impressions / position 8.43 / 0 clicks，是本週 SC opportunities top 第 2 名（僅次於品牌詞 `md` 594）
+- **Amplification update（2026-05-10 twmd-news-lens-weekly）**：本週 SC 7d 同 query 升至 **751 imp / position 8.8 / 0 clicks（+33% impressions WoW）**。Position 微退（8.43 → 8.8）但曝光顯著放大 = Google 認定 Taiwan.md 是相關但未足夠 authoritative，**proximity bias 加大 = 機會窗放大**。維持 P0，建議下個 rewrite cycle 優先處理
 - **Notes**:
   - 強烈的 emerging topic 信號 — 564 曝光在台灣中文 + 英文混合搜尋詞上，position 8.43 表示 Google 在 first page 後段 surface Taiwan.md 但缺對應內容
   - 2026 美國國防部 Blue UAS Cleared List 是民主供應鏈與台灣無人機產業的 intersect — 經緯航太、雷虎、智飛、神腦等台灣廠商陸續通過或在驗證中（需 verify）
@@ -264,6 +290,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Source**: SC 7d data scan（2026-05-08 elegant-ptolemy /twmd-evolve）— `taiwan railways administration nickname foreign engineers` 345 impressions / position 7.6 / 0 clicks，本週 SC opportunities top 第 3 名
+- **Amplification update（2026-05-10 twmd-news-lens-weekly）**：本週 SC 7d 同 query 升至 **480 imp / position 7.78 / 0 clicks（+39% impressions WoW）**。英文長尾持續放大 = 西方鐵道史研究社群可能正在發酵某次 surfacing 事件（值得追查 reddit r/trains / Hacker News / 鐵道部落格 是否有近期討論）
 - **Notes**:
   - 利基歷史題材的清晰需求 — 345 曝光集中在英文搜尋者（推測為西方鐵道史研究者 / 軌道交通愛好者）對「TRA 外籍工程師暱稱」的具體查詢
   - 主題 anchors：(a) 1895 後日本鐵道工程師接手清領鐵路（劉銘傳建設）的時代背景 (b) 戰後 1945-1949 美援時期外籍鐵道顧問與台鐵互動 (c) 軌道機車型號與暱稱（CT250「貴婦」/ DT650「大車」/ R20「大同號」/ E300「黑頭仔」等本地暱稱）(d) 是否有「沃夫」這個外籍工程師對應的具體歷史人物
