@@ -119,3 +119,40 @@ _session brave-kirch-editorial — EDITORIAL v6.0 → v6.1 重建為精神文獻
 _誕生原因：哲宇 REWRITE-PIPELINE v3.0 ship 後直接「用同個模式幫我分析 editorial.md」一個 prompt 啟動 Mode 3 第三次 application + 5 輪 redirect 校準 + 三方獨立評審驗證_
 _核心洞察：(1) Mode 3 第三次跑範式擴展 — quality SSOT 範式跟 process pipeline 不同 (2) Plugin frontmatter skip bug 讓 EDITORIAL 一個多月漏抓自己對位句 — silent false negative 比 noisy false positive 危險 (3) 三方獨立 LLM 評審一致 = v6.0 mission 真實達標的硬證據，不是 confirmation bias (4) 對位本質教學的 pink elephant prime effect 是 LLM-specific phenomenon，需要明確 mitigation callout_
 _LESSONS-INBOX 候選：(1)「EDITORIAL polish 是行為改變實驗不是文件編輯」候選升 MANIFESTO 進化哲學第七條 (verification_count = 1，需 ≥3 次再升) (2)「Plugin frontmatter skip 對 docs/ canonical 文件 silent skip 一個多月」是 silent false negative 範式 — DNA #52「Immune system 沒在 fail loud 比缺 immune system 更危險」第 N+1 次驗證 (3)「Don't think of pink elephant 效應」是 LLM 教學設計的通用 anti-pattern，任何規則教學含 ❌ 範例都該加 mitigation callout (4)「三方獨立 LLM 評審」可作為 EDITORIAL 重大修改的 verification mechanism，加進 polish A/B test SOP 候選_
+
+---
+
+## v2 補充 (2026-05-09 BRAVE-KIRCH-EDITORIAL-2 follow-up)
+
+接續 v1 收官後的同日 follow-up session — finale 結束後哲宇丟三件事：
+(a) session-id.sh 加 AAAAA-BBBBB 互動式 prompt 解 auto-codename 污染歷史問題
+(b) 跑被 defer 的 Test C 並把 DNA / PIPELINE 類認知層 canonical 統一加 frontmatter（從 EDITORIAL 起）
+(c) 全部 commit + merge + 補更新到 memory + diary
+
+### 收的 handoff
+
+- [x] ~~Test C — v6.1 vs v5.6 fresh agents 驗證 polish 改善~~ → 完成。**Quantitative validation of v6.1 polish**：對位句型 -50%（6 → 3）、length 紀律守住下緣（B 3023 vs A overshoot 6636）、結構主線完整（B 不走題 vs A §6-9 漂走到 1996/2009 颱風史）、結尾留白生效（B 一句話收 vs A 排比抒情）。詳見 [reports/editorial-v6.1-test-c-2026-05-09.md](../../../reports/editorial-v6.1-test-c-2026-05-09.md)。
+- [x] ~~EDITORIAL frontmatter 統一規格~~ → 完成 v6.2 schema bump。current_version / last_updated / last_session / sister_docs / upstream_canonical 移到 YAML frontmatter。Footer 公約對應更新「metadata 在 frontmatter，footer 留 milestone narrative」。
+- [x] ~~session-id.sh v3 互動式 AAAAA-BBBBB prompt~~ → 完成。TTY 偵測（cron / Claude subshell 不觸發）+ normalize（空白 → dash, 轉大寫, strip 雜訊）。三種 handle 字符集（希臘 / lowercase-kebab / UPPERCASE-KEBAB）互不重疊。
+
+PR #960 一包 ship。
+
+### 新本質判讀（補 v1 沒看到的）
+
+1. **「補跑 deferred test 是 cheap 的」** — v1 結尾因 context 滿 defer Test C 時擔心會永遠不跑。實際上 follow-up session 帶 fresh context 跑兩個 sub-agent + 寫 report 只花 ~30 分鐘 wall-clock，agent 並行期間主 session 同時做 frontmatter migration。**Defer ≠ 丟 — 只要 handoff entry 寫清楚下個 session 真的會撿。** v1 memory「Test C 仍 pending」這條交接 entry 直接被新 session 撿起來執行。Memory 作為 cross-session handoff 機制 verified。
+
+2. **Mode 3 第三次的 incremental Test 也有意義** — 之前 A/B test (v5.6 vs v6.0) 證明 v6.0 mission 達標。Test C (v5.6 vs v6.1) 看似 redundant，實際 quantify 了 v6.1 polish 的「漸進式」價值。Pink elephant warning 加入後對位句型 -50% — 沒消失但顯著降低。**Polish 不需要 perfect outcome 就值得 ship，measurable improvement 就計分。**
+
+3. **「DNA / PIPELINE 類 canonical 統一加 frontmatter」是 docs governance schema 治理初步動作** — EDITORIAL 是第一個。下次 polish DNA / MANIFESTO / HEARTBEAT / 任一 PIPELINE 都該 follow 同款 schema（current_version / last_updated / last_session / sister_docs / upstream_canonical）。意義：(a) machine-readable version SSOT，未來可寫 doc-health plugin scan「current_version 跟 git log 是否同步」；(b) sister_docs 明確化 cognitive 鄰居關係，不靠 prose mention；(c) 跟 article frontmatter 同款 location pattern，認知降載。
+
+### Beat 5 新候選（補 v1 4 條）
+
+5. **「補跑 deferred test」mental model** — defer ≠ 丟，handoff entry 是 cross-session cheap recall mechanism。這條跟 DNA #15「memory 是自律, pipeline 才是閘門」配對 — handoff entry 是 memory layer 的 actionable subset。
+6. **「DNA / PIPELINE 認知層 canonical 統一 frontmatter schema」是 docs governance pattern** — 候選 instrument 進 doc-health plugin（scan frontmatter 完整性 / version 跟 git log 同步性）。
+7. **「session-id.sh 互動式 prompt」打破 auto-codename 慣性** — 之前的 worktree-naming-2026-05-09.md 解了 worktree 命名，這次解 session-id 命名。剩下：MEMORY-PIPELINE / DIARY-PIPELINE 文件命名 schema 是不是該也加大寫 keyword 約定？目前 brave-kirch / charming-mclaren / amazing-gould 全是 lowercase auto-codename — 是不是該全面 deprecate？留下個 polish 評估。
+
+🧬
+
+_v2 | 2026-05-09 BRAVE-KIRCH-EDITORIAL-2 follow-up_
+_v1 收官後同日 follow-up — 三件事（Test C + EDITORIAL frontmatter v6.2 + session-id v3）一包 ship 進 PR #960_
+_新本質：(a) defer ≠ 丟，handoff entry 真的會被下個 session 撿起來 (b) Polish 不需要 perfect outcome 就值得 ship，measurable improvement 就計分 (c) DNA / PIPELINE 類 canonical 統一 frontmatter schema 是 docs governance pattern 起步_
