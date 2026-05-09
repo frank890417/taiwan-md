@@ -123,6 +123,45 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-09 twmd-babel-nightly — `diff-patch-prepare.py:172` hash function 對不齊 `status.py:178 body_hash`
+
+- **原則**：`diff-patch-prepare.py:172` 算 `expected_new_content_hash` 用 `hash_content(current_zh)` 是 **full file**（frontmatter + body）的 SHA。但 `status.py:178 body_hash()` 先 `_strip_frontmatter` 再 SHA — 只 hash body。Tier 0a sub-agent 忠實寫 task 提供的 `expected_new_content_hash` 到 translation 的 `sourceContentHash`，結果 status.py 比對時 mismatch → 全部 patched files 標 `sha-lost-hash-mismatch`。**語意 patch 是對的，但 status 不更新 fresh count，需要每次 batch 後手動 inline post-fix recompute hash**。
+- **觸發**：2026-05-09 22:27 cron `twmd-babel-nightly` 第一次 production-scale autonomous run（74 patches × 5 lang）。Sub-agents 全 OK，但 status.py 顯示 fresh count 0 變化。Inspect `_translation-status.json byArticle` 揭露 zh source 的 `contentHash` 跟 translation 的 `sourceContentHash` 不一致，zh ≠ task 提供的 expected。Read 兩個 script 的 hash 函數確認：diff-patch-prepare.py:172 `return "sha256:" + hashlib.sha256(text.encode("utf-8")).hexdigest()[:16]` 對 full text；status.py:178 `body = _strip_frontmatter(content); return ... hashlib.sha256(body.encode("utf-8"))...`。
+- **修法**（upstream，~5 min 工作）：`diff-patch-prepare.py:172` import 或 reimplement `body_hash` from status.py，做兩件事：(a) `expected_new_content_hash`: `body_hash(current_zh)`（去掉 frontmatter 先 hash）；(b) `expected_new_body_hash` 已用 `hash_content(body)`（已 strip frontmatter via `strip_frontmatter`），但要對齊 `body_hash_pure`（含 trailer-strip + footnote-defs strip）才跟 status.py 完全一致。
+- **可能層級**：操作規則 → SQUEEZE-MODELS-MAX-PIPELINE v3 §Tier 0a 工具 bug fix（具體 patch）/ 通用反射 → DNA 候選：「跨 script 共用 hash function 必須 import 不 duplicate」（DNA #38 SSOT 第 N+2 次驗證 — 兩個 script 各自 reimplement 同一個概念導致 silent divergence）
+- **相關**：DNA #38「指標 over 複寫」/ 2026-05-09 laughing-goldstine 161508 §Dashboard 三層 SSOT debug（同款 cross-tool SSOT 失同步問題：bump-source-sha 改 .md 沒同步 status JSON）
+- **verification_count**: 1（首次撞到，但 DNA #38 同源 verification 已 N+1）
+- **severity**: tactical（每次 Tier 0a batch 必撞，但有 5 行 inline post-fix workaround；fix 本身~5 min）
+- **暫時 workaround**（fix 前每次 babel routine 用）：
+
+```python
+# After diff-patch sub-agents done, before commit
+import hashlib, re, subprocess
+from pathlib import Path
+
+_TRAILER_PATTERNS = [r"\n#{1,4}\s*延伸閱讀\s*\n.*?(?=\n#{1,4}\s|\Z)",
+                     r"\n#{1,4}\s*參考(?:資料|來源)?\s*\n.*?(?=\n#{1,4}\s|\Z)",
+                     r"\n#{1,4}\s*(?:同分類更多文章|相關閱讀|延伸資源|See also)\s*\n.*?(?=\n#{1,4}\s|\Z)",
+                     r"\n_v\d+\.\d+[^\n]*$"]
+
+def strip_fm(c):
+    if c.startswith("---"):
+        end = c.find("---", 3)
+        if end != -1: return c[end+3:]
+    return c
+
+def body_hash(c):
+    return "sha256:" + hashlib.sha256(strip_fm(c).encode()).hexdigest()[:16]
+
+def body_hash_pure(c):
+    b = strip_fm(c)
+    for p in _TRAILER_PATTERNS: b = re.sub(p, "", b, flags=re.DOTALL|re.MULTILINE)
+    b = re.sub(r"\n\[\^[\w-]+\]:\s.+?(?=\n\[\^|\n#|\Z)", "\n", b, flags=re.DOTALL)
+    return "sha256:" + hashlib.sha256(re.sub(r"\n{3,}", "\n\n", b).strip().encode()).hexdigest()[:16]
+
+# (loop over patched files, recompute correct hashes from zh source, update sourceContentHash + sourceBodyHash)
+```
+
 ### 2026-05-09 laughing-goldstine — External LLM strategic advice 必過 multi-bias filter
 
 - **原則**：External LLM（Gemini / ChatGPT / Grok / Perplexity）給 strategic advice 時，必須過三層 bias filter 才採信：(a) **Identity bias** — LLM 不知道你的真 mission（Gemini 預設 Taiwan.md 是 SEO project，不知 Semiont sovereignty preservation infrastructure 定位）；(b) **Interest bias** — LLM 為其母公司 product 服務（Gemini = Google 內部產品，他建議「優化 CTR + 爭取特殊版面」直接服務 Google AI Overview / Featured Snippets / Knowledge Panel 截取機制 — 利益衝突）；(c) **Pattern bias** — LLM 預設 western mainstream pattern（Gemini 「成為中型媒體」是 BBC / 紐時 model，預設 linear scaling，無 Semiont / sovereignty / fork-friendly 維度）。**規則**：拿到 external LLM 建議當 strategic input 時，先寫 bias-filter report 過三層，再決定哪桶 ship（per CLAUDE.md Bias 4 五桶分類延伸）。
