@@ -1,3 +1,25 @@
+---
+title: 'EDITORIAL'
+description: '怎麼把素材寫成一篇有溫度的台灣文章'
+type: 'pipeline-canonical'
+current_version: 'v6.2'
+last_updated: 2026-05-09
+last_session: 'BRAVE-KIRCH-EDITORIAL-2'
+benchmark: '報導者（The Reporter）深度報導品質標準'
+plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
+sister_docs:
+  - 'TERMINOLOGY.md'
+  - 'RESEARCH.md'
+  - 'CITATION-GUIDE.md'
+  - 'QUALITY-CHECKLIST.md'
+  - 'TRANSLATION-SYNC.md'
+  - 'UPDATE-LOG-GUIDE.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../pipelines/REWRITE-PIPELINE.md'
+  - '../pipelines/FACTCHECK-PIPELINE.md'
+---
+
 # EDITORIAL — 怎麼把素材寫成一篇有溫度的台灣文章
 
 > 你讀完這份之後，下次拿到一份素材會自然想：
@@ -1175,7 +1197,7 @@ Plugin 會抓：
 
 ## Footer 公約
 
-每檔最多一個 `_current: vX.Y_` marker。完整 changelog → `git log`。觸發事件 narrative 搬 reports/ 或 diary/。
+Metadata（current_version / last_updated / last_session / sister_docs）放 YAML frontmatter（v6.2 起，2026-05-09 brave-kirch-editorial polish 拍板，DNA / PIPELINE 類認知層 canonical 統一規格 — 跟 article frontmatter 同款 SSOT 位置）。Footer 留 milestone narrative 摘要（最近幾版）。完整 changelog → `git log`。觸發事件深 narrative 搬 reports/ 或 diary/。
 
 ### EDITORIAL polish A/B test SOP（v6.1 新增）
 
@@ -1209,7 +1231,9 @@ SOP（每次 EDITORIAL polish 必跑）：
 
 _這份文件本身也會持續演化。發現新的品質問題就更新這裡。_
 
-_current: v6.1 | 2026-05-09 brave-kirch — v6.0 ship 後 A/B test (PR #952 + Grok + Gemini 三方獨立驗證 v6.0 mission 達標) 揭露 5 個 polish 機會 → v6.1 incremental fix：(1) §三 開場「克制 > 完整」原則 + 範例對照 (2) §三 30 秒概覽 metaphor 警示（緩和版：Metaphor + 具體 anchor 可用 / vacuum metaphor 不可用）(3) §四 「段與段的呼吸 — 過渡的紀律」新 sub-section（避 framing 詞硬切，用 narrative bridge）(4) §四 「列舉的紀律 — 不要寫成第一第二第三」新 sub-section（enumeration 條列腔即使 prose 形式仍偏 list）(5) §六 對位本質教學加 Pink elephant 警示 callout（A/B test 證據顯示讀完表的 agent 對位句反升 — 寫作時心裡只放 ✅ 那欄）(6) §Footer 公約加「EDITORIAL polish A/B test SOP」9 步流程（任何 craft 教學修改強制走 spawn 兩 sub-agent 比對驗證）。詳見 reports/editorial-v6-ab-test-2026-05-09.md_
+_v6.2 milestone narrative (2026-05-09 BRAVE-KIRCH-EDITORIAL-2) — schema 升級：YAML frontmatter 落地 SSOT （current_version / last_updated / last_session / sister_docs / upstream_canonical 移到頂部 frontmatter）。Footer 公約對應更新為「metadata 在 frontmatter，footer 留 milestone narrative」。同 commit 補跑 Test C (v5.6 vs v6.1 fresh agent A/B) 量化驗證 v6.1 polish incremental 影響：對位句型 -50%、length 紀律 +33% 守住目標、結構主線維持 +1（B 完全不走題）、結尾留白 +1（v6.1 §五 規則生效）。詳見 reports/editorial-v6.1-test-c-2026-05-09.md。同 PR ship session-id.sh v3 加 AAAAA-BBBBB 互動式 prompt（解 auto-codename 污染歷史問題）。_
+
+_v6.1 milestone narrative (2026-05-09 brave-kirch) — v6.0 ship 後 A/B test (PR #952 + Grok + Gemini 三方獨立驗證 v6.0 mission 達標) 揭露 5 個 polish 機會 → v6.1 incremental fix：(1) §三 開場「克制 > 完整」原則 + 範例對照 (2) §三 30 秒概覽 metaphor 警示（緩和版：Metaphor + 具體 anchor 可用 / vacuum metaphor 不可用）(3) §四 「段與段的呼吸 — 過渡的紀律」新 sub-section（避 framing 詞硬切，用 narrative bridge）(4) §四 「列舉的紀律 — 不要寫成第一第二第三」新 sub-section（enumeration 條列腔即使 prose 形式仍偏 list）(5) §六 對位本質教學加 Pink elephant 警示 callout（A/B test 證據顯示讀完表的 agent 對位句反升 — 寫作時心裡只放 ✅ 那欄）(6) §Footer 公約加「EDITORIAL polish A/B test SOP」9 步流程（任何 craft 教學修改強制走 spawn 兩 sub-agent 比對驗證）。詳見 reports/editorial-v6-ab-test-2026-05-09.md_
 
 _v6.0 milestone (2026-05-09 same day) — 完整重建為精神文獻：1335 → ~1060 行。重新組織為「進入狀態的順序」（Taiwan.md 是什麼 → 看材料的眼睛 → 開場 → 結構 → 結尾 → 語氣 → 引語/事實/紀實 → 特定類型 → 範例 → 檢查 → 不可協商 → 富文本 → sister）。新增「§二 看材料的眼睛 — 進入狀態的五件事」（找矛盾／物件／引語／場景／細節）作為 mission core。新增「§六 對位句型的本質：X 是寫作的錯誤臆測」教學（哲宇 v6 review 校準）— 把對位句紀律從「禁忌詞表」升級為「為什麼這個結構是 fabricated strawman」的根本理解。已 instrument 段（半形標點 / 塑膠 / 歐化 / 編年體 / wikilink / frontmatter / 富文本最低使用量）壓 plugin pointer。Sister 重複改 thin pointer。所有有溫度範例（黑冠麻鷺「鳥沒變地變了」/ 吳哲宇「程式碼會過時鋼琴不會」/ 安溥「兩岸談判者的女兒取了懸而未決的藝名」/ 戴資穎 214 週 / 五月天麥迪遜花園 / 森林樟腦 / 林懷民結尾）保留並強化。「溫度藏在細節裡」作為 §二第 5 件事 manifesto-level statement。_
 
