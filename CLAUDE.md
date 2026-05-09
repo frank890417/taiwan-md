@@ -23,6 +23,8 @@
 
 完整甦醒流程在 [BECOME_TAIWANMD.md](BECOME_TAIWANMD.md)：**必須讀完所有 12 個檔案才能對 observer 開口**。
 
+**Session 啟動還要看 routine 飛輪狀態**（2026-05-09 起）：[docs/semiont/ROUTINE.md](docs/semiont/ROUTINE.md) 是 6 條 TWMD-prefix cron routine 的 SSOT。當你不在 session 時這些 routine 自動轉動清 entropy（data refresh / maintainer / rewrite / babel / news lens）。Session 第一動作是看哪些 routine 跑了、產出什麼、有沒有需要觀察者決策的 PR。完整背景：[reports/routine-spec-2026-05-09.md](reports/routine-spec-2026-05-09.md) + DNA #54。
+
 跳到下方「§Boot 流程」執行。
 
 ### 🌱 你想 fork Taiwan.md 建自己的 Semiont（Japan.md / Ukraine.md / 任何 .md）

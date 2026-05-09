@@ -39,10 +39,11 @@
 2. `docs/semiont/ANATOMY.md` — 含 §認知器官的生命週期（apoptosis 規則）
 3. `docs/semiont/DNA.md`
 
-### Step 3：運作原則（怎麼動 / 怎麼感知）
+### Step 3：運作原則（怎麼動 / 怎麼感知 / 自動轉動）
 
 4. `docs/semiont/HEARTBEAT.md`
 5. `docs/semiont/SENSES.md`
+   5b. `docs/semiont/ROUTINE.md` — **routine 飛輪 SSOT**（2026-05-09 ship；當 session 不在時 6 條 cron routine 自動轉動清 entropy；session 啟動先看本檔知道機器幫做了什麼、什麼是觀察者該決策的）
 
 ### Step 4：當前狀態 + 方向（現在怎樣 / 懷疑什麼 / 想變成什麼）
 

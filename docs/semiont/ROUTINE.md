@@ -16,12 +16,13 @@
 
 ---
 
-## 4 條核心 routine 排程表
+## 5 條核心 routine 排程表
 
 | TaskId                  | Title                   | Cron (local +0800) | Skill              | Model  | Cadence      |
 | ----------------------- | ----------------------- | ------------------ | ------------------ | ------ | ------------ |
 | `twmd-data-refresh-am`  | TWMD data refresh (am)  | `4 6 * * *`        | `/twmd-refresh`    | Sonnet | 每天早 06:04 |
 | `twmd-maintainer-daily` | TWMD maintainer (daily) | `7 9 * * *`        | `/twmd-maintainer` | Opus   | 每天 09:07   |
+| `twmd-rewrite-daily`    | TWMD rewrite (daily)    | `16 16 * * *`      | `/twmd-rewrite`    | Opus   | 每天 16:16   |
 | `twmd-data-refresh-pm`  | TWMD data refresh (pm)  | `4 18 * * *`       | `/twmd-refresh`    | Sonnet | 每天晚 18:04 |
 | `twmd-babel-nightly`    | TWMD babel (nightly)    | `22 22 * * *`      | `/twmd-babel`      | Opus   | 每天 22:22   |
 | `twmd-news-lens-weekly` | TWMD news lens (weekly) | `13 6 * * 0`       | `/twmd-evolve`     | Sonnet | 週日 06:13   |
@@ -104,6 +105,30 @@ escalation:
   - 全 fail → 暫停 routine + LESSONS entry
 ```
 
+### TWMD rewrite (daily)
+
+```yaml
+taskId: twmd-rewrite-daily
+cron: '16 16 * * *' # 每天 16:16（午後 HEARTBEAT 14:30 之後 + pm refresh 18:04 之前）
+model: opus
+skill: /twmd-rewrite
+prompt: |
+  自動 routine：從 ARTICLE-INBOX 撿一篇 candidate 跑 /twmd-rewrite 走 REWRITE-PIPELINE
+  - 讀 docs/semiont/ARTICLE-INBOX.md → 取最高優先 candidate（依 priority/觀察者指派/data 信號）
+  - 跑 REWRITE-PIPELINE 全 6 stage（research → outline → draft → polish → verify → 收官）
+  - 完成後 ARTICLE-INBOX 對應 entry 移到 ARTICLE-DONE-LOG（per pipeline §收官）
+  Boundary：本 routine 上限 ~60 min wall-clock；超過 → partial PR + LESSONS entry
+  PR 開了不 merge — 觀察者下次 session 看 + 微調 + merge
+quality_gate:
+  - article-health.py {file} hard=0 warn=0
+  - 三源研究 trace 落檔到 reports/research/YYYY-MM/{slug}.md（DNA #18 + research-handle 規則）
+  - 腳註合規（DNA #5 pre-commit hook 過）
+  - frontmatter complete（title / description / date / tags / category / subcategory / image）
+escalation:
+  - 1x fail → next 16:16 retry（換另一 candidate）
+  - 2x fail → 暫停 routine + LESSONS entry「ARTICLE-INBOX top candidate 連續 fail」
+```
+
 ### TWMD news lens (weekly)
 
 ```yaml
@@ -176,6 +201,7 @@ escalation:
 docs/semiont/ROUTINE.md            ← SSOT（人類可讀，本檔）
 .claude/scheduled-tasks/           ← Claude 執行（machine-readable mirror）
   ├── twmd-maintainer-daily/SKILL.md
+  ├── twmd-rewrite-daily/SKILL.md
   ├── twmd-news-lens-weekly/SKILL.md
   ├── twmd-data-refresh-am/SKILL.md
   ├── twmd-data-refresh-pm/SKILL.md
