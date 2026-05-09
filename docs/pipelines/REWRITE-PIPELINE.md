@@ -14,6 +14,72 @@
 
 ---
 
+## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
+
+> 從 prose 萃取的 hard gate 全景。AI session 啟動 rewrite work 時 read 本表 → 知道完整 gate 圖，不用從 prose 自己抽。
+
+| Gate                         | 觸發 stage | 條件                  | 工具                                        | 不過 = ?         |
+| ---------------------------- | ---------- | --------------------- | ------------------------------------------- | ---------------- |
+| 核心矛盾鎖                   | Stage 1 終 | 所有 depth            | research report frontmatter manual          | 不進 Stage 2     |
+| 研究報告落檔                 | Stage 1 終 | depth ≥ 2000 字       | manual ls + frontmatter `researchReport`    | 不進 Stage 2     |
+| 媒體授權矩陣三表             | Stage 1.7  | depth + 涉及媒體      | manual append research 檔末尾               | 不進 Stage 2     |
+| 五指 + 結構 + 塑膠 + 算術    | Stage 3    | 所有 article          | quality-scan + manual                       | 不 commit        |
+| 事實鐵三角（算術/單位/引語） | Stage 3 5  | 含金額/數字/引語      | python algebra + Ctrl-F                     | 不 commit        |
+| FACTCHECK Quick/Full Mode    | Stage 3.5  | 所有 article / A 級   | FACTCHECK-PIPELINE                          | 不進 Stage 4     |
+| Format check 7 維度          | Stage 4    | 所有 article          | article-health.py --profile=rewrite-stage-4 | pre-commit hook  |
+| 多語 visual smoke            | Stage 4    | i18n 改動             | 6 步 bash                                   | revert commit    |
+| Image health                 | Stage 4.5f | 涉及圖                | article-health.py --check=image-health      | 不進 Stage 5     |
+| Aspect ratio 護欄            | Stage 4.5c | 涉及圖                | check-aspect.sh                             | 換圖             |
+| Sibling 格式預檢             | Stage 5.1  | 補 reverse cross-link | article-health.py --check=format-structure  | DEFER + 開 issue |
+
+## 📋 模式速判表
+
+> 4 模式 + 一個變體判定矩陣。觀察者觸發 REWRITE 時先速判該走哪個。
+
+| 場景                                             | 模式                 | 觸發訊號                          | 主要差別                                                                |
+| ------------------------------------------------ | -------------------- | --------------------------------- | ----------------------------------------------------------------------- |
+| 文章不存在                                       | **Fresh**            | 默認                              | 直接 Stage 1                                                            |
+| 文章已存在，需要品質提升                         | **Evolution**        | EVOLVE-PIPELINE 觸發 / 觀察者指派 | Stage 0 素材萃取 + 缺口列表                                             |
+| observer issue 指出 N 篇主題重疊**可融合進一篇** | **Merge variant**    | issue 兩篇重疊                    | Step A 選 canonical + 萃 [MERGE-IN] + Step D 路徑改寫 5 lang redirect   |
+| observer issue 指出 N 篇切片**理應分段不減篇數** | **Boundary variant** | issue N 篇切片                    | Step A 範圍切片表 + Step B 三類劃分（保留/吸納/移除）+ 跨 phase handoff |
+
+**整併 vs 範圍重切判定**：
+
+- ✅ 兩篇覆蓋同主題、視角可融合進一篇且讀起來更完整 → **Merge**
+- ✅ N 篇切 N 個明確 scope（年代 / 議題 / 地理）每篇有獨立讀者價值 → **Boundary**
+- ❌ 主題相關但角度不同（捷運 vs 高鐵）→ 兩篇都留，互相 cross-link
+- ❌ Hub + 深度文 → 兩篇都留，Hub 連深度文
+
+## 📍 條件式 step 路由表
+
+> 9 個 sub-section 是條件式（不是線性必跑）。AI 跑 pipeline 不停回頭問「這條我這次需要嗎」— 本表速答。
+
+| Sub-step                  | 觸發條件                         | Skip 條件               |
+| ------------------------- | -------------------------------- | ----------------------- |
+| Stage 0 素材萃取          | 進化模式（Evolution）            | Fresh 默認跳            |
+| 整併變體 Step A-E         | observer issue 兩篇重疊          | 一般 EVOLVE             |
+| 範圍重切變體 Step A-D     | observer issue N 篇切片需重劃    | 一般 EVOLVE             |
+| Stage 1.5（私有 SSOT）    | 整合當事人提供的私有素材         | 無私有素材              |
+| Stage 1.7（媒體研究）     | 涉及公開作品 / 影像 / transcript | hub / 短修              |
+| Stage 1.7b（圖片）        | depth + 需配圖                   | hub / 純文章            |
+| Stage 3.5 Full Mode       | A 級條目 / 政治敏感              | depth < A 級            |
+| Stage 4 多語 visual smoke | i18n 改動                        | 純內容文章              |
+| Stage 4.5（媒體插入）     | depth + 有 media manifest        | hub / 翻譯文 / no-media |
+| Stage 5.1 sibling 預檢    | 補 reverse cross-link            | 不補                    |
+| Stage 6 翻譯              | 觀察者拍板                       | 默認 skip               |
+
+## ⚠️ 你最常忘的 Top 5 step（從 LESSONS-INBOX / memory 歷史教訓抽）
+
+> 經過 10+ 次 ship-then-retract 的高 friction step。動工前主動掃一次。
+
+1. **Stage 1 #7 核心矛盾必填** — 找不到矛盾 = 這篇不該被重寫（國防現代化重寫教訓）
+2. **Stage 1 #9 研究報告落檔** — depth-article 沒檔 = 沒 audit trail（DNA #22 raw 永留）
+3. **Stage 2 #4 / #11 小標題不編年體** — 編年體 = 維基百科化 = 失敗（Cicada / 草東 / 康士坦 教訓）
+4. **Stage 1.7b aspect ratio 護欄** — portrait hero 切到頭（林琪兒 ι session 教訓）
+5. **Stage 3 #13 Agent claim 驗證** — agent 推導的名人 claim 必須有公開 URL Ctrl-F 可搜（吳哲宇 EVOLVE 教訓）
+
+---
+
 ## 為什麼需要 Pipeline？
 
 **診斷（實戰觀察）：**
