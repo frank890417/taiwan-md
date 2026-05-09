@@ -1,3 +1,20 @@
+---
+title: 'DATA-REFRESH-PIPELINE'
+description: '資料更新 pipeline — git pull + 三源感知 + prebuild + GitHub stats，Heartbeat Beat 1 前置'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine-post-finale'
+sister_docs:
+  - 'STATS-PIPELINE.md'
+  - 'DASHBOARD-PIPELINE.md'
+  - 'SENSE-FETCHER-SETUP.md'
+upstream_canonical:
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/SENSES.md'
+  - '../semiont/ROUTINE.md'
+---
+
 # DATA-REFRESH-PIPELINE — 資料更新 Pipeline
 
 > 每次心跳開始前的唯一資料刷新點。把四個散落的更新步驟 hoist 成一條 pipeline，這樣 HEARTBEAT 裡只要寫一行「執行 **資料更新 pipeline**」就好。

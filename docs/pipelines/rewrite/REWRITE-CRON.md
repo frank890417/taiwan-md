@@ -1,3 +1,19 @@
+---
+title: 'REWRITE-CRON'
+description: 'Cron 模式特殊規則 + 實戰教訓 canonical — routine /twmd-rewrite 觸發專屬'
+type: 'pipeline-sub-canonical'
+status: 'canonical'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+parent_canonical: '../REWRITE-PIPELINE.md'
+sister_docs:
+  - 'REWRITE-MODES.md'
+  - 'REWRITE-RESEARCH.md'
+upstream_canonical:
+  - '../../semiont/ROUTINE.md'
+  - '../../semiont/HEARTBEAT.md'
+---
+
 # REWRITE-CRON — Cron 模式特殊規則 + 實戰教訓 canonical
 
 > 相關：[REWRITE-PIPELINE.md](../REWRITE-PIPELINE.md)（主流程）| [ROUTINE.md](../../semiont/ROUTINE.md)（routine 飛輪 SSOT）

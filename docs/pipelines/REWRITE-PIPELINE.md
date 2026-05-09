@@ -1,3 +1,32 @@
+---
+title: 'REWRITE-PIPELINE'
+description: '文章改寫主流程 canonical — 6 stage flow + Hard Gate Inventory + 模式速判 + 條件路由'
+type: 'pipeline-canonical'
+status: 'canonical'
+current_version: 'v3.0'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
+sister_docs:
+  - 'EVOLVE-PIPELINE.md'
+  - 'FACTCHECK-PIPELINE.md'
+  - 'TRANSLATION-PIPELINE.md'
+  - 'PEER-INGESTION-PIPELINE.md'
+  - 'MEMORY-PIPELINE.md'
+  - 'DIARY-PIPELINE.md'
+sub_canonical:
+  - 'rewrite/REWRITE-RESEARCH.md'
+  - 'rewrite/REWRITE-WRITE.md'
+  - 'rewrite/REWRITE-VERIFY.md'
+  - 'rewrite/REWRITE-MEDIA.md'
+  - 'rewrite/REWRITE-MODES.md'
+  - 'rewrite/REWRITE-CRON.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../semiont/DNA.md'
+  - '../editorial/EDITORIAL.md'
+---
+
 # REWRITE-PIPELINE.md — 文章改寫流程
 
 > **這份檔案是 REWRITE 主流程 canonical**（v3.0 重組後 ~280 行）。完整 stage SOP 拆到 6 個 sub-canonical：

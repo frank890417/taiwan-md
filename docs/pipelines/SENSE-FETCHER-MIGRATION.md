@@ -1,3 +1,15 @@
+---
+title: 'SENSE-FETCHER-MIGRATION'
+description: '三源感知系統跨機器遷移指南 — fetch-sense-data + launchd/cron + credentials 搬遷 SOP'
+type: 'migration-doc'
+status: 'canonical'
+last_updated: 2026-04-11
+sister_docs:
+  - 'SENSE-FETCHER-SETUP.md'
+upstream_canonical:
+  - '../semiont/SENSES.md'
+---
+
 # SENSE-FETCHER-MIGRATION.md — 三源感知系統跨機器遷移指南
 
 > 把 `fetch-sense-data` + launchd / cron + credentials 從機器 A 搬到機器 B 的完整流程。

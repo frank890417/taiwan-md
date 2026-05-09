@@ -1,3 +1,22 @@
+---
+title: 'REWRITE-RESEARCH'
+description: 'Stage 1 研究流程 canonical — 11 step + 4 hard gate（20+ search / 核心矛盾 / 5 維度交叉 / 事實鐵三角）'
+type: 'pipeline-sub-canonical'
+status: 'canonical'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+parent_canonical: '../REWRITE-PIPELINE.md'
+sister_docs:
+  - 'REWRITE-WRITE.md'
+  - 'REWRITE-VERIFY.md'
+  - 'REWRITE-MEDIA.md'
+  - 'REWRITE-MODES.md'
+upstream_canonical:
+  - '../../editorial/RESEARCH.md'
+  - '../../editorial/RESEARCH-TEMPLATE.md'
+  - '../../semiont/DNA.md'
+---
+
 # REWRITE-RESEARCH — Stage 1 研究流程 canonical
 
 > 相關：[REWRITE-PIPELINE.md](../REWRITE-PIPELINE.md)（主流程）| [REWRITE-MODES.md](REWRITE-MODES.md)（4 模式判斷）| [REWRITE-MEDIA.md](REWRITE-MEDIA.md)（媒體素材完整生命週期）| [RESEARCH.md](../../editorial/RESEARCH.md)（研究方法論 SSOT）| [RESEARCH-TEMPLATE.md](../../editorial/RESEARCH-TEMPLATE.md)（填空模板）

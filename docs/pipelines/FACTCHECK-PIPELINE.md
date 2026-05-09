@@ -1,3 +1,21 @@
+---
+title: 'FACTCHECK-PIPELINE'
+description: '事實查核方法論 SSOT — Phase 1-6 / 8 atom 類 / 11 hallucination pattern / 6 drift modes / Quick + Full mode'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-05-04
+last_session: 'magical-feynman'
+sister_docs:
+  - 'REWRITE-PIPELINE.md'
+  - 'PEER-INGESTION-PIPELINE.md'
+  - 'EVOLVE-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../semiont/DNA.md'
+  - '../editorial/EDITORIAL.md'
+  - '../editorial/RESEARCH.md'
+---
+
 # FACTCHECK-PIPELINE.md — 完整事實查核方法論（SSOT）
 
 > **職責定位**：本 pipeline 是 Taiwan.md 事實查核的 **單一真實來源（SSOT）**——所有 atom 類別、hallucination pattern、drift modes、Phase 1-6 SOP、checklist 全部 canonical 在此。

@@ -1,3 +1,22 @@
+---
+title: 'REWRITE-VERIFY'
+description: 'Stage 3 / 3.5 / 4 / 5.1 驗證 canonical — 11 hard gate inventory + factcheck quick mode trigger'
+type: 'pipeline-sub-canonical'
+status: 'canonical'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
+parent_canonical: '../REWRITE-PIPELINE.md'
+sister_docs:
+  - 'REWRITE-RESEARCH.md'
+  - 'REWRITE-WRITE.md'
+  - 'REWRITE-MEDIA.md'
+  - 'REWRITE-MODES.md'
+upstream_canonical:
+  - '../../editorial/QUALITY-CHECKLIST.md'
+  - '../FACTCHECK-PIPELINE.md'
+---
+
 # REWRITE-VERIFY — Stage 3 / 3.5 / 4 / 5.1 驗證 canonical
 
 > 相關：[REWRITE-PIPELINE.md](../REWRITE-PIPELINE.md)（主流程）| [REWRITE-WRITE.md](REWRITE-WRITE.md)（Stage 2 寫作）| [REWRITE-MEDIA.md](REWRITE-MEDIA.md)（Stage 4.5 媒體 + image-health）| [QUALITY-CHECKLIST.md](../../editorial/QUALITY-CHECKLIST.md)（Stage 3 詳細 checklist）| [FACTCHECK-PIPELINE.md](../FACTCHECK-PIPELINE.md)（Stage 3.5 觸發）

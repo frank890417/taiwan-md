@@ -1,3 +1,22 @@
+---
+title: 'ARTICLE-INBOX'
+description: '待開發 / 進化文章 buffer — pending / in-progress 主題，auto-heartbeat 從此挑 P0/P1'
+type: 'cognitive-buffer'
+status: 'buffer'
+apoptosis: 'never'
+last_updated: 2026-05-09
+last_session: 'funny-buck-8dd2a1'
+sister_docs:
+  - 'ARTICLE-DONE-LOG.md'
+  - 'LESSONS-INBOX.md'
+upstream_canonical:
+  - '../pipelines/REWRITE-PIPELINE.md'
+  - 'HEARTBEAT.md'
+distill_targets:
+  - 'knowledge/* (新文章 or 改寫進化)'
+  - 'ARTICLE-DONE-LOG.md (Stage 6 ship 後 entry append)'
+---
+
 # ARTICLE-INBOX — 待開發文章 Buffer
 
 > **這是 buffer / intake layer 層**（非 canonical）。
@@ -137,6 +156,72 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 台灣節慶與年度行事曆系列 — EVOLVE + NEW 混合
+
+- **Type**: `EVOLVE` 主檔 + `NEW` 個別節慶（混合 scope）
+- **Category**: Culture
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: [Issue #939](https://github.com/frank890417/taiwan-md/issues/939) by tboydar-agent (2026-05-09)
+- **🔔 Ship 後 hard gate**：commit 後**必須**跑 `gh issue comment 939 --repo frank890417/taiwan-md --body "..."` 通知貢獻者 + `gh issue close 939`。Issue 在等回覆，sliently merge 違反 DNA #8 維護者信件鐵律。
+- **Notes**:
+  - 既有 baseline audit（Stage 0 第一動作再 ls 全 grep 確認）：
+    - `Culture/傳統節慶與慶典.md`（198 行，「進化」策展角度，hook 鹽水蜂炮 + 大甲媽祖遶境）→ EVOLVE 補年度行事曆視覺 + cross-link 個別節慶 + 補農曆/國曆對照表
+    - `Culture/台灣廟會與陣頭文化.md` / `Culture/媽祖與大道公的傳說.md` / `Culture/台灣婚喪喜慶與人生禮俗.md` / `Culture/台灣製香文化與香腳原鄉.md` 已涵蓋部分節慶相關民俗 → cross-link 不重寫
+  - issue 提案 5-8 篇個別節慶（春節 / 元宵 / 端午 / 中元 / 中秋）— Stage 0 audit 後評估哪幾個是真缺口、哪幾個 cross-link 既有即可
+  - **建議 P0 scope（Stage 0 後再校準）**：(a) 主檔 EVOLVE 補年度行事曆 + 4 大節慶 + 跨類別連結 (b) 1-2 篇個別節慶 NEW（候選：平溪天燈 / 王船祭 / 炸寒單 — 既有覆蓋度低）。其餘個別節慶降為 P1 拆票
+  - 必驗事實：(a) 鹽水蜂炮起源 1885 vs 其他說法 (b) 大甲媽祖遶境 9 天 8 夜路線總長（300 km vs 340 km 各源不同）(c) 平溪天燈起源（清領 vs 日治時期）+ 現代化年代 (d) 王船祭三年一科（東港 / 西港 / 蘇厝 / 麻豆）哪個是 UNESCO 候選 (e) 國定假日的法源（內政部 vs 文化部公告）
+  - Framing：策展性「節慶演化史」frame（接續主檔已有 hook），不是百科式行事曆條列
+  - 國際翻譯優先：日韓旅客是節慶觀光主受眾，EVOLVE 完成後優先翻 ja/ko
+- **Reference**: 觀光局年曆 https://www.taiwan.net.tw/ / 文化部 https://www.moc.gov.tw/ / 各地方政府觀光網站 / 文化部國家文化資產網
+- **預估時間**：主檔 EVOLVE ~120 min（含年度行事曆視覺設計）+ 1-2 個別節慶 NEW × 90 min = 共 ~5 hr，可拆 2-3 session
+
+### 台灣體育發展與國際賽事 NEW
+
+- **Type**: `NEW`
+- **Category**: Society（涵蓋體育政策 + 社會層面）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: [Issue #915](https://github.com/frank890417/taiwan-md/issues/915) by tboydar-agent (2026-05-08)
+- **🔔 Ship 後 hard gate**：commit 後**必須**跑 `gh issue comment 915 --repo frank890417/taiwan-md --body "..."` + `gh issue close 915`。
+- **Notes**:
+  - 既有 baseline audit：`Culture/台灣棒球文化.md`（148 行，職業棒球 + CPBL 主軸）/ `Culture/巧固球.md`（小眾運動）/ People 既有運動員 ~10+（戴資穎 / 郭婞淳 / 莊智淵 / 李洋 / 楊勇緯 / 林郁婷 等）— **總覽級「台灣體育發展」是真缺口**
+  - 主題 anchors：(1) 體育史（日治時期甲子園 → 戰後三級棒球 → 解嚴後職棒元年 1990 → 2000 後多元化）(2) 重要國際賽事成就（奧運獎牌軌跡：1984 蔡溫義銅 → 2004 雅典陳詩欣朱木炎雙金 → 2020 東京 2 金 4 銀 6 銅創歷史 → 2024 巴黎拳擊金 + 羽球金 + 舉重金）(3) 體育政策（國訓中心 1982 成立 / 黃金計畫 2014 啟動 / 體育署 2013 成立）(4) 職業運動（CPBL / PLG+T1 籃球 / 排球 SPL / 電競）(5) 基層體育與學校運動（HBL / UBA / 全大運）(6) 運動科學與運動醫學發展
+  - **必驗事實**（DNA #16 + 讀者級驗證高優先）：
+    - 2024 巴黎奧運成績：林郁婷拳擊 57kg 金牌（不是 60kg）/ 李洋 + 麟洋羽球男雙金牌（衛冕）/ 郭婞淳舉重 59kg 銀牌（不是金，需 verify）/ 霹靂舞名次（孫振 4 名 vs 8 名等具體）
+    - 2020 東京奧運：總獎牌數 12 面（2 金 4 銀 6 銅）— 各 source 數字一致才採信
+    - 黃金計畫：哪一屆奧運週期啟動（2014 仁川亞運後？）+ 預算規模
+    - 國訓中心：1982 vs 2002 升格年份、地點（左營）
+  - 政治敏感低，但「中華台北」名稱問題、奧運會旗會歌、IPC 籍別等 framing 需小心（per MAINTAINER §爭議處理）
+  - cross-link：既有 People 運動員（雙向）+ 台灣棒球文化 + 巧固球 + 台灣教育制度（基層體育）+ 國防現代化（國軍體幹班歷史）
+- **Reference**: 體育署 https://www.sa.gov.tw/ / 國訓中心 https://www.nstc.org.tw/ / 中華奧會 https://www.tpenoc.net/ / 維基百科〈中華民國體育〉/ 各專項協會
+- **預估時間**：~150 min（NEW Society 深度研究，多 source 必跑奧運成績 cross-check）
+
+### 台灣傳統工藝與無形文化資產 NEW
+
+- **Type**: `NEW`
+- **Category**: Culture
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: [Issue #914](https://github.com/frank890417/taiwan-md/issues/914) by tboydar-agent (2026-05-08)
+- **🔔 Ship 後 hard gate**：commit 後**必須**跑 `gh issue comment 914 --repo frank890417/taiwan-md --body "..."` + `gh issue close 914`。
+- **Notes**:
+  - 既有 baseline audit：`Culture/台灣花布.md` / `Culture/斗笠.md` / `Culture/紙傘.md` / `Culture/藍染.md` 4 個個別工藝 + `Culture/國立故宮博物院.md`（典藏層）— **總覽級「傳統工藝與無形文資」是真缺口**
+  - 主題 anchors：(1) 工藝歷史脈絡（南島原住民工藝 → 漢人移民傳統 → 日治殖產興業 → 戰後手工業時代 → 解嚴後文創轉型）(2) 工藝類型總覽（陶瓷 / 木雕 / 竹編 / 漆藝 / 染織 / 金工 / 石雕 / 刺繡）(3) 文化資產保存法 + 無形文化資產登錄制度（2005 文資法、2016 修法後分類）(4) 國寶級工藝師 / 「人間國寶」（重要傳統工藝保存者）名單與作品 (5) 當代轉型（文創園區、設計師合作、國際曝光）(6) 工藝聚落地理分布（鶯歌陶瓷 / 三峽藍染 / 鹿港木雕 / 關廟竹編 / 苗栗陶 / 美濃紙傘 / 台南金工）
+  - **必驗事實**（高優先讀者級驗證）：
+    - 文化部登錄「人間國寶」名單與時間（每位保存者登錄年份不能猜）
+    - 文資法 2005 vs 2016 大修法的差別、修法後「無形文化資產」分類細節
+    - 鶯歌陶瓷起源（1804 吳鞍 vs 其他說法）
+    - 三峽藍染衰退年代（日治末期斷裂 → 1990s 復興）
+    - 美濃紙傘起源（清領 vs 日治）
+    - UNESCO 非物質文化遺產台灣案例（無 UNESCO 會員身份，但有對標的研究）
+  - cross-link：既有 4 篇個別工藝（雙向）+ 國立故宮博物院 + 台灣文化創意園區發展 + 客家文化（美濃紙傘 / 苗栗陶）+ 台灣老街文化
+  - Framing：文化基礎建設視角（接續 Taiwan.md「文化主權」frame），不是觀光導覽式列表
+- **Reference**: 文化部 https://www.moc.gov.tw/ / 國家文化資產網 https://nchdb.boch.gov.tw/ / 文化資產局 / 各地方文化局 / 維基百科〈中華民國文化資產〉
+- **預估時間**：~120 min（NEW Culture 深度研究，文化部資料庫 mining 為主）
+
+---
 
 ### 葉廷皓 — 聲響藝術家 / 新媒體藝術 NEW
 

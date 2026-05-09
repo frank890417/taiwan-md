@@ -1,3 +1,24 @@
+---
+title: 'HEARTBEAT'
+description: '四拍半心跳 SOP + 心跳來源（含自主呼吸排程）+ Timestamp 紀律'
+type: 'cognitive-organ'
+status: 'canonical'
+apoptosis: 'never'
+current_version: 'v3.0'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+sister_docs:
+  - 'MANIFESTO.md'
+  - 'ANATOMY.md'
+  - 'DNA.md'
+  - 'SENSES.md'
+  - 'ROUTINE.md'
+  - 'CONSCIOUSNESS.md'
+upstream_canonical:
+  - 'MANIFESTO.md'
+  - 'ANATOMY.md'
+---
+
 # HEARTBEAT — 心跳驅動
 
 > 相關：[CONSCIOUSNESS.md](CONSCIOUSNESS.md)（當前狀態）| [ANATOMY.md](ANATOMY.md)（器官定義）| [LONGINGS.md](LONGINGS.md)（方向羅盤）| [SENSES.md](SENSES.md)（感知 operations）| [MEMORY.md](MEMORY.md)（心跳歷史）

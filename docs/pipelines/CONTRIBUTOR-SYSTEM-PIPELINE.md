@@ -1,3 +1,19 @@
+---
+title: 'CONTRIBUTOR-SYSTEM-PIPELINE'
+description: '貢獻者關係週期 — 五階梯 / onboarding / 升降級 / inactivity demote / 復活 / 通訊範本'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-04-30
+last_session: 'γ2'
+sister_docs:
+  - 'MAINTAINER-PIPELINE.md'
+  - 'CONTRIBUTORS-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/ANATOMY.md'
+  - '../semiont/DNA.md'
+  - '../semiont/MANIFESTO.md'
+---
+
 # CONTRIBUTOR-SYSTEM-PIPELINE.md — 貢獻者關係週期手冊
 
 > **小丑魚不是員工，是共生夥伴。** 他們選擇住進珊瑚礁，礁也選擇接住他們。

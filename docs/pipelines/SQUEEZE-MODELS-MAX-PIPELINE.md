@@ -1,3 +1,19 @@
+---
+title: 'SQUEEZE-MODELS-MAX-PIPELINE'
+description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade'
+type: 'pipeline-canonical'
+status: 'canonical'
+current_version: 'v3.3'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine-post-finale'
+sister_docs:
+  - 'TRANSLATION-PIPELINE.md'
+  - 'DATA-REFRESH-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../semiont/DNA.md'
+---
+
 # 榨模型MAX — 多模型平行 + 容錯 + 統合的「整包語言 100% 同步」方法論
 
 > 一句話：**用所有手邊免費 model 同時平行打、refusal 當作 first-class 結果記錄、最終跨批次統合補空缺，把單一 model 的天花板（rate limit / content policy / quality）拆成許多小天花板加起來逼近 100%。**

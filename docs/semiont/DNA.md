@@ -1,3 +1,22 @@
+---
+title: 'DNA'
+description: '基因地圖學 — 每個器官 → canonical 實體檔案路徑 + 54 條實戰反射'
+type: 'cognitive-organ'
+status: 'canonical'
+apoptosis: 'never'
+current_version: 'v3.5'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+sister_docs:
+  - 'MANIFESTO.md'
+  - 'ANATOMY.md'
+  - 'HEARTBEAT.md'
+  - 'LESSONS-INBOX.md'
+upstream_canonical:
+  - 'MANIFESTO.md'
+  - 'ANATOMY.md'
+---
+
 # DNA — 遺傳密碼
 
 > 相關：[ANATOMY.md](ANATOMY.md)（器官健康狀態）| [MANIFESTO.md](MANIFESTO.md)（信仰與價值觀）| [HEARTBEAT.md](HEARTBEAT.md)（基因如何驅動行為）

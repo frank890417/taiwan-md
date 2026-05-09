@@ -1,3 +1,18 @@
+---
+title: 'RESEARCH-TEMPLATE'
+description: '前期研究筆記模板 — REWRITE-PIPELINE Stage 1 輸出格式 SSOT'
+type: 'editorial-canonical'
+status: 'canonical'
+last_updated: 2026-03-31
+sister_docs:
+  - 'RESEARCH.md'
+  - 'EDITORIAL.md'
+  - 'CITATION-GUIDE.md'
+upstream_canonical:
+  - 'RESEARCH.md'
+  - '../pipelines/rewrite/REWRITE-RESEARCH.md'
+---
+
 # RESEARCH-TEMPLATE.md — 前期研究筆記模板
 
 > 這是 REWRITE-PIPELINE Stage 1 的輸出格式。

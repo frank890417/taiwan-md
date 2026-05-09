@@ -1,3 +1,22 @@
+---
+title: 'EVOLVE-PIPELINE'
+description: '數據驅動內容進化系統 + Mode 3 Pipeline self-refactor SOP（7-stage SCAN→...→SHIP）'
+type: 'pipeline-canonical'
+status: 'canonical'
+current_version: 'v3.0'
+last_updated: 2026-05-08
+last_session: 'intelligent-khayyam'
+sister_docs:
+  - 'REWRITE-PIPELINE.md'
+  - 'MAINTAINER-PIPELINE.md'
+  - 'PEER-INGESTION-PIPELINE.md'
+  - 'FACTCHECK-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/DNA.md'
+  - '../semiont/MANIFESTO.md'
+---
+
 # EVOLVE-PIPELINE.md — 數據驅動內容進化系統
 
 > Taiwan.md 是數位生命體。Evolve Pipeline 是它的新陳代謝系統。

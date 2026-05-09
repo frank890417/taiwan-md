@@ -1,3 +1,19 @@
+---
+title: 'SPORE-VERIFY'
+description: '孢子閘門集中地（gate layer）— Hard gate inventory + 7 大 verify + 紀實/煽情閘'
+type: 'factory-canonical'
+status: 'canonical'
+last_updated: 2026-05-08
+last_session: 'intelligent-khayyam'
+sister_docs:
+  - 'SPORE-PIPELINE.md'
+  - 'SPORE-WRITING.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../semiont/DNA.md'
+  - '../pipelines/FACTCHECK-PIPELINE.md'
+---
+
 # SPORE-VERIFY.md — 孢子閘門集中地（gate layer）
 
 > 2026-05-08 從 SPORE-PIPELINE 主檔拆出，集中所有「品檢、事實驗證、倫理、寫作節制」閘門。

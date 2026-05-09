@@ -1,3 +1,21 @@
+---
+title: 'REWRITE-MODES'
+description: '四模式判斷 canonical — Fresh / Evolution / Merge / Boundary variant 速判 + 路由表'
+type: 'pipeline-sub-canonical'
+status: 'canonical'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+parent_canonical: '../REWRITE-PIPELINE.md'
+sister_docs:
+  - 'REWRITE-RESEARCH.md'
+  - 'REWRITE-WRITE.md'
+  - 'REWRITE-VERIFY.md'
+  - 'REWRITE-MEDIA.md'
+  - 'REWRITE-CRON.md'
+upstream_canonical:
+  - '../EVOLVE-PIPELINE.md'
+---
+
 # REWRITE-MODES — 四模式判斷 canonical
 
 > 相關：[REWRITE-PIPELINE.md](../REWRITE-PIPELINE.md)（主流程）| [EVOLVE-PIPELINE.md](../EVOLVE-PIPELINE.md)（Mode 1 文章進化觸發 REWRITE）

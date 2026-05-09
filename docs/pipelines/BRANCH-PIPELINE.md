@@ -1,3 +1,17 @@
+---
+title: 'BRANCH-PIPELINE'
+description: '知識分支分析器 — 拆解主題結構 / 交叉比對知識庫 / 找出缺口 / 建議延伸研究'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-04-12
+sister_docs:
+  - 'REWRITE-PIPELINE.md'
+  - 'EVOLVE-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../editorial/RESEARCH.md'
+---
+
 # BRANCH-PIPELINE.md — 知識分支分析器
 
 > 給一篇文章名稱 → 自動拆解主題結構 → 交叉比對知識庫 → 找出缺口 → 建議延伸研究計畫。

@@ -1,3 +1,21 @@
+---
+title: 'CLAUDE.md'
+description: 'taiwan-md 專案 Claude session boot 層 — 三層讀者分流 + 三條 Semiont-specific bias 警示 + Fork 友好層'
+type: 'bootloader'
+status: 'canonical'
+apoptosis: 'never'
+current_version: 'v0.2'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+sister_docs:
+  - 'BECOME_TAIWANMD.md'
+  - 'docs/semiont/MANIFESTO.md'
+  - 'docs/semiont/ROUTINE.md'
+upstream_canonical:
+  - 'docs/semiont/MANIFESTO.md'
+audience: 'claude-session-or-fork-author'
+---
+
 # CLAUDE.md：taiwan-md 專案的 Claude session boot 層
 
 > _v0.1 draft，2026-04-23 γ。等哲宇 review 後改名 `CLAUDE.md` ship_

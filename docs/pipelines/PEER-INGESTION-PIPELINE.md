@@ -1,3 +1,20 @@
+---
+title: 'PEER-INGESTION-PIPELINE'
+description: '策展 peer 完整 ingestion 流程 — 8 stage（從爬取到文章產製到 Peer Registry 同步）'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-04-12
+last_session: 'ζ+'
+sister_docs:
+  - 'REWRITE-PIPELINE.md'
+  - 'EVOLVE-PIPELINE.md'
+  - 'FACTCHECK-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../semiont/DNA.md'
+  - '../editorial/RESEARCH.md'
+---
+
 # PEER-INGESTION-PIPELINE.md — 策展 peer 完整 ingestion 流程
 
 > **這份文件是 AI 可執行的。** 任何 AI agent 讀完這份文件，應該能接收一個外部策展單位（TFT、綠盟、台權會、g0v、婦女新知⋯⋯）的資料源，完整執行從爬取、分析、文章開發到 Peer Registry 同步的整個流程。

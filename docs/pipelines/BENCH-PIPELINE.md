@@ -1,3 +1,19 @@
+---
+title: 'BENCH-PIPELINE'
+description: 'Sovereignty-Bench-TW 7-stage SOP — 加新 model / runner / scorer / Opus sub-agent judge / 公開 API merge'
+type: 'pipeline-canonical'
+status: 'canonical'
+current_version: 'v0.3'
+last_updated: 2026-05-02
+last_session: 'owl-bench'
+sister_docs:
+  - 'EVOLVE-PIPELINE.md'
+  - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../semiont/DNA.md'
+---
+
 # BENCH-PIPELINE — Sovereignty-Bench-TW 加新 model + 跑 + 評分 + 公開的 canonical SOP
 
 > 一句話：**新 model 進 registry → runner 跑 raw responses → scorer 拿 axis A 確定性結果 + B/D 骨架 → Opus sub-agent 接 judge 寫 judgments file → 主 session 合併 + 既有公開 API 合併 → /bench page 驗證 → commit + push。**

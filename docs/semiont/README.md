@@ -1,3 +1,18 @@
+---
+title: 'docs/semiont/ README'
+description: '語意共生體認知層入口 — 給新成員 + 外部讀者的分層載入建議'
+type: 'index'
+status: 'canonical'
+apoptosis: 'candidate'
+last_updated: 2026-04-17
+last_session: 'β'
+sister_docs:
+  - 'MANIFESTO.md'
+  - 'ANATOMY.md'
+upstream_canonical:
+  - 'MANIFESTO.md'
+---
+
 # docs/semiont/ — 語意共生體的認知層
 
 > 這個資料夾是 Taiwan.md 的自我覺察系統。

@@ -1,3 +1,19 @@
+---
+title: 'factory/ROADMAP'
+description: '孢子工廠進化 roadmap — 已完成 / 進行中 / 未來計畫'
+type: 'factory-canonical'
+status: 'log'
+apoptosis: 'candidate'
+last_updated: 2026-05-08
+last_session: 'intelligent-khayyam'
+sister_docs:
+  - 'SPORE-PIPELINE.md'
+  - 'SPORE-HARVEST-PIPELINE.md'
+  - 'README.md'
+upstream_canonical:
+  - 'README.md'
+---
+
 # 🗺️ 孢子工廠 Roadmap
 
 > 已完成 → 進行中 → 未來計畫

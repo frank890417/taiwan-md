@@ -1,3 +1,26 @@
+---
+title: 'LESSONS-INBOX'
+description: '教訓 buffer（intake layer）— 新教訓先 append 此處，週期性 distill 到 MANIFESTO/DNA/MEMORY canonical'
+type: 'cognitive-buffer'
+status: 'buffer'
+apoptosis: 'never'
+last_updated: 2026-05-09
+last_session: 'twmd-babel-nightly-224923'
+sister_docs:
+  - 'MEMORY.md'
+  - 'DIARY.md'
+  - 'ARTICLE-INBOX.md'
+upstream_canonical:
+  - 'DNA.md'
+  - 'MEMORY.md'
+  - 'MANIFESTO.md'
+distill_targets:
+  - 'MANIFESTO.md (哲學層)'
+  - 'DNA.md §要小心清單 (通用反射)'
+  - 'MEMORY.md §神經迴路 (特有教訓)'
+  - '../pipelines/*.md (操作規則)'
+---
+
 # LESSONS-INBOX — 教訓 Buffer（待消化）
 
 > **這是 buffer / pool / inbox 層**（非 canonical）。

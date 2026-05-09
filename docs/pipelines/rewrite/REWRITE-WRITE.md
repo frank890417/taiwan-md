@@ -1,3 +1,21 @@
+---
+title: 'REWRITE-WRITE'
+description: 'Stage 2 寫作流程 canonical — 8 step + 5 自檢套件（小標題先行 / 結尾先行 / hook 物件 / 核心矛盾）'
+type: 'pipeline-sub-canonical'
+status: 'canonical'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+parent_canonical: '../REWRITE-PIPELINE.md'
+sister_docs:
+  - 'REWRITE-RESEARCH.md'
+  - 'REWRITE-VERIFY.md'
+  - 'REWRITE-MEDIA.md'
+  - 'REWRITE-MODES.md'
+upstream_canonical:
+  - '../../editorial/EDITORIAL.md'
+  - '../../editorial/CITATION-GUIDE.md'
+---
+
 # REWRITE-WRITE — Stage 2 寫作流程 canonical
 
 > 相關：[REWRITE-PIPELINE.md](../REWRITE-PIPELINE.md)（主流程）| [REWRITE-RESEARCH.md](REWRITE-RESEARCH.md)（Stage 1 研究）| [REWRITE-VERIFY.md](REWRITE-VERIFY.md)（Stage 3 驗證）| [EDITORIAL.md](../../editorial/EDITORIAL.md)（品質基因 SSOT）| [CITATION-GUIDE.md](../../editorial/CITATION-GUIDE.md)（腳註格式 SSOT）

@@ -1,3 +1,20 @@
+---
+title: 'REWRITE-MEDIA'
+description: '媒體素材完整生命週期 canonical — 授權矩陣 / aspect ratio 護欄 / fair use editorial scope'
+type: 'pipeline-sub-canonical'
+status: 'canonical'
+last_updated: 2026-05-09
+last_session: 'brave-kirch-202256'
+parent_canonical: '../REWRITE-PIPELINE.md'
+sister_docs:
+  - 'REWRITE-RESEARCH.md'
+  - 'REWRITE-WRITE.md'
+  - 'REWRITE-VERIFY.md'
+upstream_canonical:
+  - '../../semiont/DNA.md'
+  - '../../editorial/EDITORIAL.md'
+---
+
 # REWRITE-MEDIA — 媒體素材完整生命週期 canonical
 
 > 相關：[REWRITE-PIPELINE.md](../REWRITE-PIPELINE.md)（主流程）| [REWRITE-RESEARCH.md](REWRITE-RESEARCH.md)（Stage 1）| [REWRITE-WRITE.md](REWRITE-WRITE.md)（Stage 2 inline 外連 call site）| [REWRITE-VERIFY.md](REWRITE-VERIFY.md)（image-health gate）

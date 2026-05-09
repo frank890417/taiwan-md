@@ -1,3 +1,20 @@
+---
+title: 'MAINTAINER-PIPELINE'
+description: '日常維護者手冊 — Issue 分類、PR 審核策略、品質巡檢、社群互動、close 前 hard gate'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-05-04
+last_session: 'magical-feynman'
+sister_docs:
+  - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
+  - 'EVOLVE-PIPELINE.md'
+  - 'REWRITE-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/DNA.md'
+  - '../semiont/ROUTINE.md'
+---
+
 # MAINTAINER-PIPELINE.md — Taiwan.md 維護者手冊
 
 > **Taiwan.md 是策展，不是百科。** 選什麼放進來、怎麼說，才是價值。

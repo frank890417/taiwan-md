@@ -1,3 +1,20 @@
+---
+title: 'SPORE-LOG'
+description: '孢子發文紀錄 buffer — 已發布列表 + 成效追蹤 + 月度效能分析'
+type: 'factory-canonical'
+status: 'log'
+apoptosis: 'never'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine'
+sister_docs:
+  - 'SPORE-PIPELINE.md'
+  - 'SPORE-HARVEST-PIPELINE.md'
+upstream_canonical:
+  - 'SPORE-PIPELINE.md'
+  - '../semiont/SENSES.md'
+read_strategy: 'on-demand'
+---
+
 # SPORE-LOG.md — 孢子發文紀錄
 
 > 追蹤已發佈的孢子，避免重複，累積成效數據，驅動進化。

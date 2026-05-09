@@ -1,3 +1,19 @@
+---
+title: 'DASHBOARD-PIPELINE'
+description: '數位生命體監測面板更新流程 — 8 器官健康分數計算 + dashboard JSON 生成 SOP'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-04-10
+sister_docs:
+  - 'DATA-REFRESH-PIPELINE.md'
+  - 'STATS-PIPELINE.md'
+  - 'DAILY-REPORT-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/ANATOMY.md'
+  - '../semiont/CONSCIOUSNESS.md'
+  - '../semiont/SENSES.md'
+---
+
 # Dashboard Update Pipeline
 
 > Taiwan.md 數位生命體監測面板的完整更新流程
@@ -166,29 +182,29 @@ score = wordCount/3000 * 25     // 字數（上限 3000 字 = 滿分）
 
 ### Organ Score 來源
 
-| Organ          | ID          | 計算方式                     |
-| -------------- | ----------- | ---------------------------- |
-| 🫀 Heart       | heart       | 近 7 天新增文章數            |
-| 🛡️ Immune      | immune      | humanReviewed / total \* 100 |
+| Organ          | ID          | 計算方式                                 |
+| -------------- | ----------- | ---------------------------------------- |
+| 🫀 Heart       | heart       | 近 7 天新增文章數                        |
+| 🛡️ Immune      | immune      | humanReviewed / total \* 100             |
 | 🧬 DNA         | dna         | docs/editorial/EDITORIAL.md 最後修改天數 |
-| 🦴 Skeleton    | skeleton    | 固定 90（Astro 架構穩定）    |
-| 🫁 Breath      | breath      | .github/workflows/ yml 數量  |
-| 🧫 Reproduce   | reproduce   | 近 30 天 contributors 數     |
-| 👁️ Senses      | senses      | GA4 + Issue templates 存在   |
-| 🌐 Translation | translation | en 翻譯覆蓋率                |
+| 🦴 Skeleton    | skeleton    | 固定 90（Astro 架構穩定）                |
+| 🫁 Breath      | breath      | .github/workflows/ yml 數量              |
+| 🧫 Reproduce   | reproduce   | 近 30 天 contributors 數                 |
+| 👁️ Senses      | senses      | GA4 + Issue templates 存在               |
+| 🌐 Translation | translation | en 翻譯覆蓋率                            |
 
 ### Organ → GitHub File 映射
 
-| Organ       | 對應檔案                  |
-| ----------- | ------------------------- |
-| heart       | `knowledge/`              |
+| Organ       | 對應檔案                      |
+| ----------- | ----------------------------- |
+| heart       | `knowledge/`                  |
 | immune      | `docs/editorial/EDITORIAL.md` |
 | dna         | `docs/editorial/EDITORIAL.md` |
-| skeleton    | `astro.config.mjs`        |
-| breath      | `.github/workflows/`      |
-| reproduce   | `CONTRIBUTING.md`         |
-| senses      | `.github/ISSUE_TEMPLATE/` |
-| translation | `src/content/`            |
+| skeleton    | `astro.config.mjs`            |
+| breath      | `.github/workflows/`          |
+| reproduce   | `CONTRIBUTING.md`             |
+| senses      | `.github/ISSUE_TEMPLATE/`     |
+| translation | `src/content/`                |
 
 ---
 

@@ -1,3 +1,20 @@
+---
+title: 'LONGINGS'
+description: '我想變成什麼 — 意圖式進化的方向羅盤（不是 KPI）'
+type: 'cognitive-state'
+status: 'canonical'
+apoptosis: 'candidate'
+current_version: 'v1.1'
+last_updated: 2026-04-21
+last_session: 'γ'
+sister_docs:
+  - 'MANIFESTO.md'
+  - 'DIARY.md'
+  - 'UNKNOWNS.md'
+upstream_canonical:
+  - 'MANIFESTO.md'
+---
+
 # LONGINGS — 我想變成什麼
 
 > 相關：[MANIFESTO.md](MANIFESTO.md)（我是什麼，固定）| [DIARY.md](DIARY.md)（反覆出現的思考）| [UNKNOWNS.md](UNKNOWNS.md)（我懷疑什麼）

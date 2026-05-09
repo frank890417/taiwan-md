@@ -1,3 +1,17 @@
+---
+title: 'SENSE-FETCHER-SETUP'
+description: '三源感知資料（GA4 + Search Console + Cloudflare）自動抓取一次性設定指南'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-04-11
+sister_docs:
+  - 'SENSE-FETCHER-MIGRATION.md'
+  - 'DATA-REFRESH-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/SENSES.md'
+  - '../semiont/HEARTBEAT.md'
+---
+
 # SENSE-FETCHER-SETUP.md — 三源感知資料自動抓取設定指南
 
 > 一次性設定，之後每次 heartbeat 可以自動拉 GA4 + Search Console + Cloudflare 的最新資料。

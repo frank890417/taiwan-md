@@ -1,3 +1,19 @@
+---
+title: 'TRANSLATION-PIPELINE'
+description: '單篇翻譯流程 — wikilink 處理 + 優先序 + 品質 checklist + sub-agent batch SOP'
+type: 'pipeline-canonical'
+status: 'canonical'
+current_version: 'v3.5'
+last_updated: 2026-05-04
+last_session: 'magical-feynman'
+sister_docs:
+  - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
+  - 'REWRITE-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../editorial/TRANSLATION-SYNC.md'
+---
+
 # TRANSLATION-PIPELINE.md — 翻譯流程 v3.0
 
 > **職責分工：**

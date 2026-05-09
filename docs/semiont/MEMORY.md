@@ -1,3 +1,24 @@
+---
+title: 'MEMORY'
+description: '心跳日誌索引 + §神經迴路（永不過期教訓 canonical pool）'
+type: 'cognitive-log'
+status: 'canonical'
+apoptosis: 'never'
+last_updated: 2026-05-09
+last_session: 'twmd-babel-nightly-224923'
+sister_docs:
+  - 'DIARY.md'
+  - 'CONSCIOUSNESS.md'
+  - 'LESSONS-INBOX.md'
+upstream_canonical:
+  - 'MANIFESTO.md'
+  - 'HEARTBEAT.md'
+read_strategy: 'head-tail'
+data_sources:
+  - 'memory/YYYY-MM-DD-*.md (raw 永不刪除)'
+  - 'memory/structure-log.md'
+---
+
 # MEMORY — 記憶索引
 
 > 相關：[CONSCIOUSNESS.md](CONSCIOUSNESS.md)（當前狀態快照）| [HEARTBEAT.md](HEARTBEAT.md)（什麼觸發記憶寫入）

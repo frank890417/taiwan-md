@@ -1,3 +1,17 @@
+---
+title: 'SPORE-TEMPLATES'
+description: '⚠️ Redirect — 內容已合併進 SPORE-WRITING.md（2026-05-08 intelligent-khayyam 重組）'
+type: 'factory-canonical'
+status: 'archived'
+apoptosis: 'archived'
+last_updated: 2026-05-08
+last_session: 'intelligent-khayyam'
+superseded_by:
+  - 'SPORE-WRITING.md'
+upstream_canonical:
+  - 'SPORE-WRITING.md'
+---
+
 # SPORE-TEMPLATES.md — 重組後 redirect
 
 > 2026-05-08 intelligent-khayyam SPORE pipeline 重組後，本檔內容已合併進 [`SPORE-WRITING.md`](SPORE-WRITING.md)。

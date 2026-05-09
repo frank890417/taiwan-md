@@ -1,3 +1,19 @@
+---
+title: 'SPORE-HARVEST-PIPELINE'
+description: '孢子回聲收割產線 — D+1-D+7 cadence + decision gate + retroactive accuracy trigger'
+type: 'factory-canonical'
+status: 'canonical'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine'
+sister_docs:
+  - 'SPORE-PIPELINE.md'
+  - 'SPORE-LOG.md'
+upstream_canonical:
+  - '../semiont/SENSES.md'
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/DNA.md'
+---
+
 # SPORE-HARVEST-PIPELINE.md — 孢子回聲收割產線
 
 > **這份文件是 AI 可執行的。** 任何 AI agent 讀完這份文件，應該能獨立完成一次孢子回聲的抓取、分類、整合與回覆準備。

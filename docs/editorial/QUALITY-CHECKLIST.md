@@ -1,3 +1,21 @@
+---
+title: 'QUALITY-CHECKLIST'
+description: '文章品質驗證清單 — REWRITE-PIPELINE Stage 3 執行手冊'
+type: 'editorial-canonical'
+status: 'canonical'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine'
+plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
+sister_docs:
+  - 'EDITORIAL.md'
+  - 'CITATION-GUIDE.md'
+  - 'TERMINOLOGY.md'
+upstream_canonical:
+  - 'EDITORIAL.md'
+  - '../pipelines/REWRITE-PIPELINE.md'
+  - '../pipelines/rewrite/REWRITE-VERIFY.md'
+---
+
 # QUALITY-CHECKLIST.md — 文章品質驗證清單
 
 > 這是 REWRITE-PIPELINE Stage 3 的執行手冊。

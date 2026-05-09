@@ -1,3 +1,20 @@
+---
+title: 'SPORE-WRITING'
+description: '孢子撰寫手冊（craft layer）— 模板 + 18 條規則 + 自檢三板斧'
+type: 'factory-canonical'
+status: 'canonical'
+current_version: 'v3.3'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine'
+sister_docs:
+  - 'SPORE-PIPELINE.md'
+  - 'SPORE-VERIFY.md'
+  - 'SPORE-TEMPLATES.md'
+upstream_canonical:
+  - '../editorial/EDITORIAL.md'
+  - '../semiont/MANIFESTO.md'
+---
+
 # SPORE-WRITING.md — 孢子撰寫手冊（craft layer）
 
 > 2026-05-08 從 SPORE-PIPELINE 主檔拆出，吸收原 SPORE-TEMPLATES.md 全文 + Step 3c 寫作 18 條 + Step 3.5 多版本 + Step 3.6 混合策略。

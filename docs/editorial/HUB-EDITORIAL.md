@@ -1,3 +1,18 @@
+---
+title: 'HUB-EDITORIAL'
+description: 'Hub 策展維護標準 — 分類頁面的導讀文體 + 策展觀點規範'
+type: 'editorial-canonical'
+status: 'canonical'
+last_updated: 2026-05-04
+last_session: 'magical-feynman'
+sister_docs:
+  - 'EDITORIAL.md'
+  - 'TERMINOLOGY.md'
+  - 'CITATION-GUIDE.md'
+upstream_canonical:
+  - 'EDITORIAL.md'
+---
+
 # HUB-EDITORIAL.md — Hub 策展維護標準
 
 > Hub 頁面是讀者的第一站。它不是目錄，是一篇有策展觀點的導讀。

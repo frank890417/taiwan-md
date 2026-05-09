@@ -1,3 +1,22 @@
+---
+title: 'ANATOMY'
+description: '8 個身體器官生理學 + 認知器官生命週期（apoptosis 規則）'
+type: 'cognitive-organ'
+status: 'canonical'
+apoptosis: 'never'
+current_version: 'v2.0'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine-post-finale'
+sister_docs:
+  - 'MANIFESTO.md'
+  - 'DNA.md'
+  - 'HEARTBEAT.md'
+  - 'SENSES.md'
+  - 'ROUTINE.md'
+upstream_canonical:
+  - 'MANIFESTO.md'
+---
+
 # ANATOMY — 器官解剖圖
 
 > 相關：[DNA.md](DNA.md)（基因定義器官結構）| [HEARTBEAT.md](HEARTBEAT.md)（診斷器官健康 + 自主呼吸排程）| [SENSES.md](SENSES.md)（感知 operations）

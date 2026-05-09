@@ -1,3 +1,20 @@
+---
+title: 'DEEP-INSIGHT-SYNTHESIS-PIPELINE'
+description: 'N→N+1 洞察 distill 方法論 — 多輪 raw 經驗萃取 hidden pattern + cross-domain 遷移抽象'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-05-02
+last_session: 'multi-lang-final'
+sister_docs:
+  - 'EVOLVE-PIPELINE.md'
+  - 'MEMORY-PIPELINE.md'
+  - 'DIARY-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../semiont/DNA.md'
+  - '../semiont/LESSONS-INBOX.md'
+---
+
 # DEEP-INSIGHT-SYNTHESIS — N→N+1 洞察 distill 方法論
 
 > **一句話：把多輪 raw 經驗（memory / diary / commits / failed experiments / user prompts）當原料，主動找出尚未被命名的 pattern、hidden tradeoff、被當成 fact 的 choice，產出至少一個跨域可遷移的 N+1 抽象，而非只 summarize 已知。**

@@ -1,3 +1,21 @@
+---
+title: 'MEMORY-PIPELINE'
+description: 'Session memory 撰寫流程 — 凝練版結構模板 + Stage 0-5 + 5 分鐘 reading test 自檢'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-05-04
+last_session: 'magical-feynman'
+plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
+sister_docs:
+  - 'DIARY-PIPELINE.md'
+  - 'REWRITE-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/MEMORY.md'
+  - '../semiont/MANIFESTO.md'
+  - '../editorial/EDITORIAL.md'
+---
+
 # MEMORY-PIPELINE — Session memory 撰寫流程
 
 > 寫 session memory 前必讀本檔。每次 HEARTBEAT Beat 4 收官、每次 observer-triggered task 結束、每次 cron 心跳結束 — 寫 `memory/{session-id}.md` 之前一律先載入這份 pipeline，不憑記憶、不照舊 template。

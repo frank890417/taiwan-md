@@ -1,3 +1,18 @@
+---
+title: 'CITATION-GUIDE'
+description: '來源引用與腳註規範 — 每個主張怎麼追溯來源 + 腳註格式 SSOT'
+type: 'editorial-canonical'
+status: 'canonical'
+last_updated: 2026-04-12
+sister_docs:
+  - 'EDITORIAL.md'
+  - 'RESEARCH.md'
+  - 'QUALITY-CHECKLIST.md'
+upstream_canonical:
+  - 'EDITORIAL.md'
+  - '../semiont/MANIFESTO.md'
+---
+
 # CITATION-GUIDE.md — 來源引用與腳註規範
 
 > 每篇文章的來源引用必須遵守這份規範。

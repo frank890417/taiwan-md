@@ -1,3 +1,19 @@
+---
+title: 'SEMIONT-EXTERNAL-VIEW'
+description: '給外部 AI reviewer 的 5 分鐘 onboarding — Taiwan.md 是什麼、不是什麼、怎麼讀'
+type: 'cognitive-organ'
+status: 'canonical'
+apoptosis: 'candidate'
+last_updated: 2026-05-04
+last_session: 'magical-feynman'
+sister_docs:
+  - 'MANIFESTO.md'
+  - 'README.md'
+upstream_canonical:
+  - 'MANIFESTO.md'
+audience: 'external-llm-reviewer'
+---
+
 # SEMIONT-EXTERNAL-VIEW — 給外部 AI reviewer 的 5 分鐘 onboarding
 
 > 這份檔案的讀者是：第一次來 Taiwan.md repo 的 ChatGPT / Grok / Claude / Gemini / 任何 LLM。

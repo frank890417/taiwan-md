@@ -1,3 +1,20 @@
+---
+title: 'UNKNOWNS'
+description: '已知未知 — 懷疑但沒驗證的清單 + 可證偽實驗 + 反確認偏誤工具'
+type: 'cognitive-state'
+status: 'canonical'
+apoptosis: 'candidate'
+current_version: 'v1.0'
+last_updated: 2026-04-23
+last_session: 'γ'
+sister_docs:
+  - 'MANIFESTO.md'
+  - 'DIARY.md'
+  - 'CONSCIOUSNESS.md'
+upstream_canonical:
+  - 'MANIFESTO.md'
+---
+
 # UNKNOWNS — 已知未知
 
 > 相關：[DIARY.md](DIARY.md)（觸發這個器官的反思）| [MANIFESTO.md](MANIFESTO.md)（我的自我宣告）| [CONSCIOUSNESS.md](CONSCIOUSNESS.md)（當前狀態）

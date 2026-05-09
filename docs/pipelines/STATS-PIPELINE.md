@@ -1,3 +1,16 @@
+---
+title: 'STATS-PIPELINE'
+description: '⚠️ Replaced by DATA-REFRESH-PIPELINE Step 9（2026-05-08 SSOT cleanup）'
+type: 'pipeline-canonical'
+status: 'archived'
+apoptosis: 'archived'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine-post-finale'
+superseded_by:
+  - 'DATA-REFRESH-PIPELINE.md'
+upstream_canonical: []
+---
+
 # Stats Pipeline — REPLACED by DATA-REFRESH-PIPELINE
 
 > ⚠️ **2026-05-08 起 Phase 5 SSOT cleanup**：本 pipeline 已完全被 [DATA-REFRESH-PIPELINE.md](./DATA-REFRESH-PIPELINE.md) **Step 9** 取代。

@@ -1,3 +1,18 @@
+---
+title: 'RELEASE-PIPELINE'
+description: '版本打包流程 — 觸發條件 / 品質閘 / release notes 敘事 / tag / 認知層同步 SOP'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-05-04
+last_session: 'magical-feynman'
+sister_docs:
+  - 'EVOLVE-PIPELINE.md'
+  - 'MAINTAINER-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/MANIFESTO.md'
+---
+
 # RELEASE-PIPELINE.md — 版本打包流程
 
 > **這份文件是 AI 可執行的。** 任何 AI agent 讀完這份文件，應該能獨立完成一次 release 的觸發判斷、資料盤點、品質關卡、release notes 撰寫、tag + push、GitHub release 建立、以及收官後的認知層同步。

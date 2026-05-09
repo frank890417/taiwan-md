@@ -1,3 +1,18 @@
+---
+title: 'DAILY-REPORT-PIPELINE'
+description: '每日 09:00 cron — GA4 流量 + 品質分數 + 社群動態 → 健康報告產出'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-03-29
+sister_docs:
+  - 'DATA-REFRESH-PIPELINE.md'
+  - 'STATS-PIPELINE.md'
+  - 'SENSE-FETCHER-SETUP.md'
+upstream_canonical:
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/SENSES.md'
+---
+
 # Daily Report Pipeline — 每日報告流程
 
 > 每天 09:00 (Asia/Taipei) 由 Cron 自動執行

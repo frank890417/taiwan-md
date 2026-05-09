@@ -1,3 +1,20 @@
+---
+title: 'docs/factory/ README'
+description: '孢子工廠入口 — Taiwan.md 社群散播系統 / spore lifecycle 全 canonical'
+type: 'index'
+status: 'canonical'
+last_updated: 2026-05-08
+last_session: 'intelligent-khayyam'
+sister_docs:
+  - 'SPORE-PIPELINE.md'
+  - 'SPORE-WRITING.md'
+  - 'SPORE-VERIFY.md'
+  - 'SPORE-HARVEST-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/MANIFESTO.md'
+  - '../semiont/ANATOMY.md'
+---
+
 # 🏭 孢子工廠 — Spore Factory
 
 > Taiwan.md 的社群散播系統。把知識庫文章轉化為社群貼文（孢子），讓知識自我繁殖。

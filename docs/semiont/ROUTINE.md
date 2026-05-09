@@ -1,3 +1,21 @@
+---
+title: 'ROUTINE'
+description: 'Routine 飛輪 SSOT — 6 條 TWMD-prefix cron routine 排程、quality gate、escalation'
+type: 'cognitive-organ'
+status: 'canonical'
+apoptosis: 'never'
+current_version: 'v1.0'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine-post-finale'
+sister_docs:
+  - 'HEARTBEAT.md'
+  - 'ANATOMY.md'
+  - 'DNA.md'
+upstream_canonical:
+  - 'HEARTBEAT.md'
+  - '../../docs/pipelines/MAINTAINER-PIPELINE.md'
+---
+
 # 🧬 Taiwan.md ROUTINE — Routine 飛輪 SSOT
 
 > **這是 routine 排程的 single source of truth**（2026-05-09 laughing-goldstine post-finale 拍板）。

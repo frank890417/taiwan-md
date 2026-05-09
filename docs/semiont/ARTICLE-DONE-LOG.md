@@ -1,3 +1,19 @@
+---
+title: 'ARTICLE-DONE-LOG'
+description: 'append-only 文章開發完成歷史 — 反向時間排序，最新在頂；挑新主題前可 grep 避免重複開發'
+type: 'cognitive-buffer'
+status: 'log'
+apoptosis: 'never'
+last_updated: 2026-05-09
+last_session: 'laughing-goldstine'
+sister_docs:
+  - 'ARTICLE-INBOX.md'
+  - 'MEMORY.md'
+upstream_canonical:
+  - '../pipelines/REWRITE-PIPELINE.md'
+read_strategy: 'on-demand'
+---
+
 # ARTICLE-DONE-LOG — 文章開發完成日誌
 
 > **append-only log**。ARTICLE-INBOX §Done 的歸檔，最新在頂（reverse chronological）。

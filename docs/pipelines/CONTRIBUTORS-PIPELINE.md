@@ -1,3 +1,19 @@
+---
+title: 'CONTRIBUTORS-PIPELINE'
+description: '貢獻者名單每日 cron 自動更新流程 — README contributor list / dashboard data sync'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-04-30
+last_session: 'γ2'
+sister_docs:
+  - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
+  - 'STATS-PIPELINE.md'
+  - 'DATA-REFRESH-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/ANATOMY.md'
+---
+
 # Contributors Pipeline — 貢獻者名單自動更新流程
 
 > 每天 03:30 (Asia/Taipei) 由 Cron 自動執行

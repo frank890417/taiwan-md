@@ -1,3 +1,18 @@
+---
+title: 'LANGUAGE-BIRTH-CHECKLIST'
+description: '新語言誕生清單 — UI / 頁面 / Hub / 文章 四層完整啟用 SOP（避免「宣稱完成但半完成」）'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-04-08
+last_session: 'γ'
+sister_docs:
+  - 'TRANSLATION-PIPELINE.md'
+  - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/ANATOMY.md'
+  - '../semiont/MANIFESTO.md'
+---
+
 # LANGUAGE-BIRTH-CHECKLIST — 新語言誕生清單
 
 > 相關：[TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md) | [ANATOMY.md](../semiont/ANATOMY.md) §語言器官

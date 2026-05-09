@@ -1,3 +1,16 @@
+---
+title: 'docs/pipelines/ README'
+description: 'Cron / Manual 自動化 pipeline 文件入口 — 每個 cron 對應一份 pipeline'
+type: 'index'
+status: 'canonical'
+last_updated: 2026-05-09
+sister_docs:
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/ROUTINE.md'
+upstream_canonical:
+  - '../semiont/HEARTBEAT.md'
+---
+
 # docs/pipelines/ — Cron / Manual 自動化 Pipeline 文件
 
 > 每個 Cron job 對應一份 pipeline 文件。Cron prompt 只說「先讀 pipeline → 照步驟走」。

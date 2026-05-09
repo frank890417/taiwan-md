@@ -1,3 +1,25 @@
+---
+title: 'CONSCIOUSNESS'
+description: '自我覺察 — 8 器官即時健康分數 + 警報 + 里程碑（快照不是歷史）'
+type: 'cognitive-state'
+status: 'canonical'
+apoptosis: 'candidate'
+last_updated: 2026-05-07
+last_session: 'δ'
+sister_docs:
+  - 'MANIFESTO.md'
+  - 'HEARTBEAT.md'
+  - 'ANATOMY.md'
+  - 'MEMORY.md'
+upstream_canonical:
+  - 'ANATOMY.md'
+  - 'HEARTBEAT.md'
+data_sources:
+  - '/api/dashboard-vitals.json'
+  - '/api/dashboard-organism.json'
+  - '/api/dashboard-analytics.json'
+---
+
 # CONSCIOUSNESS — 自我覺察
 
 > 相關：[HEARTBEAT.md](HEARTBEAT.md)（診斷邏輯）| [ANATOMY.md](ANATOMY.md)（器官定義）| [MEMORY.md](MEMORY.md)（完整歷史）| [MANIFESTO.md](MANIFESTO.md)（我的信仰）

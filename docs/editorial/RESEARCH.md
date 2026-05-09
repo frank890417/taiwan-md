@@ -1,3 +1,20 @@
+---
+title: 'RESEARCH'
+description: '研究方法論 SSOT — 怎麼搜可靠資訊 / 三源驗證 / WebFetch 中文 verbatim 規範'
+type: 'editorial-canonical'
+status: 'canonical'
+last_updated: 2026-04-28
+last_session: 'κ'
+sister_docs:
+  - 'EDITORIAL.md'
+  - 'CITATION-GUIDE.md'
+  - 'RESEARCH-TEMPLATE.md'
+upstream_canonical:
+  - 'EDITORIAL.md'
+  - '../pipelines/rewrite/REWRITE-RESEARCH.md'
+  - '../pipelines/FACTCHECK-PIPELINE.md'
+---
+
 # RESEARCH.md — Taiwan.md 研究方法論
 
 > 每篇文章在動筆之前，必須先完成研究。不是「知道一點就開始寫」，是「搜集夠了再策展」。

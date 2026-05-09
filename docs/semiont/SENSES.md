@@ -1,3 +1,21 @@
+---
+title: 'SENSES'
+description: '感知 operations canonical 介面 — 5 觸手 / 抓取 SOP / 交叉分析 / AI 自主 vs Human 邊界'
+type: 'cognitive-organ'
+status: 'canonical'
+apoptosis: 'never'
+current_version: 'v2.0'
+last_updated: 2026-05-08
+last_session: 'magical-feynman'
+sister_docs:
+  - 'ANATOMY.md'
+  - 'DNA.md'
+  - 'HEARTBEAT.md'
+upstream_canonical:
+  - 'ANATOMY.md'
+  - 'DNA.md'
+---
+
 # SENSES — 感知操作介面（運作原則 v2）
 
 > 相關：[ANATOMY §感知器官](ANATOMY.md#-感知器官--外部感知)（生理學）| [DNA §感知基因](DNA.md#️-感知基因外部感知)（實體檔案 gene map）| [HEARTBEAT](HEARTBEAT.md)（心跳驅動感知何時跑）

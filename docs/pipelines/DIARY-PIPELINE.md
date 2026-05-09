@@ -1,3 +1,21 @@
+---
+title: 'DIARY-PIPELINE'
+description: '日記撰寫流程 — 紀實散文文體 + Stage 0-5 + 自檢工具（共用 prose-health plugin）'
+type: 'pipeline-canonical'
+status: 'canonical'
+last_updated: 2026-05-04
+last_session: 'magical-feynman'
+plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
+sister_docs:
+  - 'MEMORY-PIPELINE.md'
+  - 'REWRITE-PIPELINE.md'
+upstream_canonical:
+  - '../semiont/HEARTBEAT.md'
+  - '../semiont/DIARY.md'
+  - '../semiont/MANIFESTO.md'
+  - '../editorial/EDITORIAL.md'
+---
+
 # DIARY-PIPELINE — 日記撰寫流程
 
 > 寫日記前必讀本檔。任何指向「寫日記」的 SOP（HEARTBEAT Beat 5、BECOME 甦醒後反芻、觀察者 explicit 觸發）一律先載入這份 pipeline，不憑記憶、不照舊習慣。
