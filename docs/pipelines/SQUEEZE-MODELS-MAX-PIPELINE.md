@@ -318,6 +318,7 @@ Tier 4: Sonnet sub-agent (paid, last resort — should rarely fire)
 **Stage L2 — Build per-lang ollama task dirs**：從原 `_batch-manifest.json` filter 到 missing list，寫到 `.lang-sync-tasks/{lang}-ollama/_batch-manifest.json` + `_group-A.json`（small batch 1 group 即可）。target en_path 仍指 `knowledge/{lang}/...`（last-write-wins on same target，覆蓋 cloud 漏接）。
 
 **Stage L3 — Sequential dispatch**：
+
 ```bash
 # Sequential per lang，避免 GPU memory 競爭（qwen3.6 35B 需 21GB）
 for lang in en ja ko es fr; do
@@ -333,6 +334,7 @@ Per-lang ~1.5-3.5 min wall-clock for 1-2 articles。Total 5-lang ~10 min wall-cl
 ### Tier 3 model 選擇
 
 驗證過的 local model：
+
 - ✅ `qwen3.6:35b-a3b-coding-nvfp4` — 21GB，0 refusal observed，翻譯品質可接受（略低於 owl-alpha 但「永遠收下」更重要）
 - 候選未測：`gemma4:e4b-nvfp4`（9.6GB，更輕）/ `taide-gemma3-12b:2602-q4km`（8.2GB，台灣本土訓練 — 候選 sovereignty-aware backbone）
 
@@ -349,6 +351,7 @@ Per-lang ~1.5-3.5 min wall-clock for 1-2 articles。Total 5-lang ~10 min wall-cl
 ### v2.0 驗證
 
 2026-05-03 magical-feynman 後段 9 articles × 5 langs babel sync：
+
 - Tier 1 owl-alpha：~30 ✅（包括 PRC-tolerant sensitive 如 出國史 in en/ja/es）
 - Tier 2 Hy3 副批：5 ✅（70% refusal as DNA #45）
 - Tier 3 Ollama qwen3.6：9 ✅（last 20% sovereignty 戰場全收下，包括 5 langs × 心戰）
@@ -368,3 +371,144 @@ Per-lang ~1.5-3.5 min wall-clock for 1-2 articles。Total 5-lang ~10 min wall-cl
 _v2.0 | 2026-05-03 magical-feynman 後段_
 _升級觸發：哲宇 prompt「ollama qwen3.6 你也可以用 最後捕手🤣」以輕鬆語氣放下 architecture 級設計指令_
 _最後 20% 是 sovereignty 真正戰場 — Local LLM 不是 backup，是 sovereignty backbone_
+
+---
+
+## v3.0 升級 — Priority schema + Tier 0 diff-patch（2026-05-09 laughing-goldstine post-finale）
+
+### v2 → v3 演化
+
+v2 把所有 babel 任務當「翻譯」一視同仁 — 全部走 Tier 1 owl-alpha 重翻。但實際上 658 stale articles 中有 70% 是「**只動腳註 / sporeLinks / tags reformat**」這種 trailer-only-drift（status `metadata-stale`）+ 20% 是「**body 小幅補一兩段**」這種 minor stale。對這兩類重新跑全文翻譯是 wasteful：
+
+- **Token cost**：每篇 owl-alpha ~300s × 5 lang = 25 min wall-clock per article，但 90% body 沒變
+- **Drift risk**：LLM 重翻 unchanged 段落會產生細微語意 drift（同義詞替換 / 文風變調），破壞 audit trail
+- **Budget**：cloud free tier rate limit 一次燒光
+
+v3 加入 **priority schema + Tier 0 diff-patch**：
+
+### Priority schema（per-task triage）
+
+```
+P0 缺口            → 走 Tier 1 cascade（full translation，新檔案無 existing）
+P1 大幅更新        → 走 Tier 1 cascade（diff > 50 lines or added > 30）
+P2 小幅更新        → **Tier 0a: Sonnet diff-patch sub-agent**（diff ≤ 50 lines body change）
+P2.5 metadata only → **Tier 0b: bump-source-sha.py**（deterministic, no LLM, instant）
+P3 舊文章          → 視內容 P2/P2.5 路由 OR skip
+```
+
+判定工具：`scripts/tools/lang-sync/prioritize-batch.py`
+
+```bash
+# Top 20 unique articles by priority, output zh paths
+python3 scripts/tools/lang-sync/prioritize-batch.py --lang all --by-article --top-n 20 --out /tmp/batch.txt
+```
+
+### Tier 0a: diff-patch sub-agent（P2 minor stale）
+
+對 P2 stale 文章不重翻，改 patch existing translation with the zh diff applied to the corresponding lang。**比 full re-translation 快 5-10x，preserves unchanged paragraphs（避免 LLM drift），cheaper token cost**。
+
+**Workflow**：
+
+```bash
+# 1. Prepare patch tasks (per-pair JSON with zh diff + existing translation)
+python3 scripts/tools/lang-sync/diff-patch-prepare.py --input batch.txt --lang all
+# → .lang-sync-tasks/diff-patch/{lang}-patch-tasks.json
+
+# 2. 主 session 用 Agent tool 平行 dispatch Sonnet sub-agents
+#    (5 lang parallel × 1 task per agent，single message multi-Agent calls)
+```
+
+Per-task agent prompt template（in skill）:
+
+```
+You are a translation patch agent for Taiwan.md. Apply this zh diff to the existing
+{lang} translation, preserving unchanged paragraphs verbatim.
+
+Step 1: Read patch task JSON from .lang-sync-tasks/diff-patch/{lang}-patch-tasks.json
+Step 2: Decide what to patch:
+  - frontmatter changes (tags reformat / sporeLinks updates) → mirror to translation
+  - body prose changes → translate ONLY changed sentences/paragraphs
+  - sourceCommitSha / sourceContentHash / sourceBodyHash → update from task expected values
+  - translatedAt → bash `date -u +%Y-%m-%dT%H:%M:%SZ`
+Step 3: Write atomic via Write tool
+Step 4: Verify YAML valid + body length ±10%
+```
+
+**驗證範例**（2026-05-09 賈永婕 P2 stale en）：
+
+- Before: en/People/chia-yung-chieh.md sourceCommitSha=616cbd07 (5/3)
+- zh diff: 55 lines (frontmatter tags reformat + sporeLinks views 14K→35K + 3 SHA fields)
+- Patch: body 100% preserved (29807 chars unchanged), frontmatter 52 bytes ↑
+- After: YAML valid, sourceCommitSha=0c60c45d, 90s wall-clock
+
+### Tier 0b: bump-source-sha.py（P2.5 metadata-stale）
+
+對 trailer-only-drift（footnote URL polish / 延伸閱讀 list 變動）— body 已 valid（bodyHash 沒變），不重翻只 bump metadata：sourceCommitSha + sourceContentHash + sourceBodyHash → zh latest。
+
+```bash
+# Apply 對所有 metadata-stale 文章（5 lang × N articles，instant）
+python3 scripts/tools/lang-sync/bump-source-sha.py --apply
+```
+
+零 LLM call、零 token cost、零 risk。Phase 6 + this v3 後 P2.5 = 自動清。
+
+### v3 4-tier cascade（updated）
+
+```
+Per task priority routing：
+
+P0 missing → Tier 1+ (full translation)
+  Tier 1: openrouter/owl-alpha (proven 100% on Taiwan content, 1M ctx)
+  Tier 2: tencent/hy3-preview:free (skip if PRC-sensitive — 85% refusal)
+  Tier 3: Ollama qwen3.6 (sovereignty backbone — 永不漏接)
+  Tier 4: Sonnet sub-agent (paid last resort)
+
+P1 major stale → 同 P0 cascade
+
+P2 minor stale → Tier 0a Sonnet diff-patch sub-agent
+  fallback if patch fails (size ratio < 0.5 / YAML broken) → P0 cascade
+
+P2.5 metadata-stale → Tier 0b deterministic bump-source-sha
+  no LLM call, instant
+```
+
+### Smart tier router（per-article heuristic）
+
+```python
+# In prioritize-batch.py suggest_tier()
+if topic_sensitivity_keywords_in_title:  # 政治/兩岸/台獨/國防/民主/主權 等
+    skip Tier 2 Hy3 (85% refusal on Taiwan content)
+if article_size > 5000 bytes:
+    Tier 1 owl-alpha (1M ctx)
+if prior_refusal_cache says owl-alpha refused:
+    skip to Tier 3 Ollama
+default:
+    Tier 1
+```
+
+### 量化收益（2026-05-09 batch1 first run）
+
+實測 Phase 6 後 babel 第一波 (zero-coverage 11 articles × 5 lang = 55 translations)：
+
+- 100% Tier 1 owl-alpha pass，0 refusal
+- 8 YAML quoting bugs (owl-alpha `\'` escape) auto-fixed in-place
+
+預估 v3 全 stale clear 量化（686 articles × 5 lang = 3430 translations 涵蓋）：
+
+- P0/P1 (~300 entries): Tier 1 cascade，~5 hr 集中 batch
+- **P2 (~531 entries): Tier 0a diff-patch，~1.5 hr Sonnet sub-agents**（5x 加速）
+- **P2.5 (~2431 entries): Tier 0b bump-source-sha，<1 min**（instant）
+
+對應認知層升級：
+
+- DNA 新條目：「Babel priority schema — full vs patch vs bump 三路徑分流」
+- LESSONS-INBOX：「v3 升級觸發 — 哲宇『翻譯策略也加上一個 diff patch，用子 agent 快速 patch diff 應該會是最好的做法』」
+
+🧬
+
+---
+
+_v3.0 | 2026-05-09 laughing-goldstine post-finale_
+_升級觸發：哲宇「翻譯策略也加上一個 diff patch，用子 agent (小幅度更新) sonnet 快速的 patch diff 應該會是最好的做法」+「優先排序：缺口 → 大幅更新 → 小幅／腳註 → 舊」+「自我演化 DNA 跟紀錄」_
+_核心洞察：v2 把所有 babel 任務當「翻譯」處理是 over-spec — P2/P2.5 不需要 full re-translate，patch + bump 就夠且更安全（preserves unchanged paragraphs，避免 LLM drift）_
+_v3 工具新增：prioritize-batch.py（智慧分流）+ diff-patch-prepare.py（Tier 0a 任務準備）；bump-source-sha.py（Tier 0b deterministic）已存在 reuse_
