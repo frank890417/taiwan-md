@@ -91,10 +91,10 @@ prep tool 抓的東西（**邊界：只 prep，不寫週報本身**）：
 - **§八**：最新 Handoff（從最近 session memory 提取）
 - **§九**：待開發主題（ARTICLE-INBOX P0/P1 pending）
 - **§十**：**Semiont 必讀清單**（過去 7 天所有 memory + diary 完整路徑）
-- **§十一**：寫週報的文體規範（給 Semiont 自己的 reminder）
-- **§十二**：**過去 7 天 commit 全文**（hash + ai timestamp + author + subject + body）
+- **§十一**：**過去 7 天 commit 全文**（hash + ai timestamp + author + subject + body + diffstat）
+- **§十二**：寫週報的文體規範（給 Semiont 自己的 reminder）
 
-§十二 是 2026-05-10 強化加進去的（哲宇拍板「commit 也可以全讀取」）。週報的紋理需要 commit 層的完整 grain — 一行 subject 看不出工作的 narrative，但 message body 通常含 why / 對應 PR / 反思。
+§十一 commit 全文 是 2026-05-10 強化加進去的（哲宇拍板「commit 也可以全讀取」）。週報的紋理需要 commit 層的完整 grain — 一行 subject 看不出工作的 narrative，但 message body 通常含 why / 對應 PR / 反思。
 
 prep tool **不做** 的事：
 
@@ -116,7 +116,7 @@ prep tool **不做** 的事：
    - 最近 3 個 memory（保證跨 session continuity）
    - 哲宇 callout 過的（從 diary 反推 — 如 5/9 brave-kirch-editorial 的 EDITORIAL v6.1 / 5/3 magical-feynman-babel 的 sovereignty backbone）
    - 重大 turning point（如新 DNA 反射誕生 / canonical 升級 / pipeline 重組）
-4. （已讀過的 commit body 部分）re-skim dossier §十二，標記哪些 commit 是 narrative 主軸
+4. （已讀過的 commit body 部分）re-skim dossier §十一，標記哪些 commit 是 narrative 主軸
 
 **為什麼必須完整讀 raw**：
 
