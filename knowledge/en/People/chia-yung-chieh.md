@@ -1,19 +1,29 @@
 ---
-title: "Chia Yung-chieh: The Taiwan Experiment of Converting Celebrity Social Capital into Public Mobilization Power, Again and Again"
+title: 'Chia Yung-chieh: The Taiwan Experiment of Converting Celebrity Social Capital into Public Mobilization Power, Again and Again'
 description: "From her 2000 debut in a CTV prime-time drama, to raising NT$68.04 million in two days in 2021 to secure 252 HFNC units for frontline hospitals, to becoming the sixth chairperson of Taipei 101 in 2024, to the January 25, 2026 live global broadcast of Alex Honnold free-soloing the 508-meter Taipei 101—Chia Yung-chieh has walked a path with no precedent in Taiwan: a celebrity's social capital repeatedly converted across boundaries into public mobilization power, each step met with an equal measure of scrutiny, answered each time with an even larger mobilization."
 date: 2026-05-02
-tags: [Chia Yung-chieh, Taipei 101, HFNC, public-share governance, Taiwanese women, cross-sector, public mobilization, Alex Honnold]
-category: People
+category: 'People'
+tags:
+  [
+    'Chia Yung-chieh',
+    'Taipei 101',
+    'HFNC',
+    'public-share governance',
+    'Taiwanese women',
+    'cross-sector',
+    'public mobilization',
+    'Alex Honnold',
+  ]
 subcategory: '藝術、娛樂與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: People/賈永婕.md
-sourceCommitSha: 616cbd07
-sourceContentHash: sha256:a92f6a6b22257ffa
-sourceBodyHash: sha256:3a5ef98d636f1bfa
-translatedAt: 2026-05-03T23:14:05+08:00
+sourceCommitSha: 0c60c45d
+sourceContentHash: sha256:75e15983d85e7cbb
+sourceBodyHash: sha256:b066532f1f8eec6b
+translatedAt: 2026-05-09T05:31:47Z
 ---
 
 > **30-second overview:** Most people only know one version of her: the variety show host of the 2000s, the civic mobilizer who raised NT$68.04 million in two days in 2021 to secure HFNC units for frontline hospitals, or the sixth chairperson of Taipei 101 appointed in 2024. Only when you connect these episodes does a path with no precedent in Taiwan come into view: using "celebrity social capital" to exchange, again and again, for "public mobilization power," then converting that mobilization power into a "public-share governance seat." Each step has been accompanied by an equal measure of scrutiny (the "Mother of Cadaver Skin," misuse of public resources, improper employee dismissal, shallow vanity, funeral-parlor-style exhibition layouts), and her response has always been the next, larger mobilization. From a 2000 CTV prime-time drama to the January 25, 2026 global live broadcast of Alex Honnold free-soloing the 508-meter Taipei 101, this cycle has been running for twenty-six years.
@@ -44,9 +54,9 @@ The timing of this clarification was not random—it came after she had served a
 
 ## From News Anchor, Categorized by the Market as an Entertainer
 
-She graduated from the Department of Communication at Coventry University in the United Kingdom. In 2000, she debuted as Hsin-lien in the CTV prime-time drama *Auspicious Year After Year* and simultaneously served as an anchor for CTV's *Morning News*[^4]—she was an anchor first, and only then was categorized by the market as an entertainer.
+She graduated from the Department of Communication at Coventry University in the United Kingdom. In 2000, she debuted as Hsin-lien in the CTV prime-time drama _Auspicious Year After Year_ and simultaneously served as an anchor for CTV's _Morning News_[^4]—she was an anchor first, and only then was categorized by the market as an entertainer.
 
-Her subsequent hosting career spanned GTV, CTV, and FTV, with her signature show being GTV's *Entertainment Late Check-In*.[^5] In 2002, she married Chao-chieh Wang, son of Ming-te Wang, chairman of the Der-Jei Group, and they have two daughters and one son. In 2004, before turning thirty, she founded CH Wedding, a bridal atelier—stepping off the standard curve of "entertainers being phased out by the market at forty" to pivot into brand-building ahead of time. CH Wedding has now been in operation for over twenty years.[^5][^6]
+Her subsequent hosting career spanned GTV, CTV, and FTV, with her signature show being GTV's _Entertainment Late Check-In_.[^5] In 2002, she married Chao-chieh Wang, son of Ming-te Wang, chairman of the Der-Jei Group, and they have two daughters and one son. In 2004, before turning thirty, she founded CH Wedding, a bridal atelier—stepping off the standard curve of "entertainers being phased out by the market at forty" to pivot into brand-building ahead of time. CH Wedding has now been in operation for over twenty years.[^5][^6]
 
 The true origin of the nickname "120% pretty girl" traces back to a phone call from Tsai Ing-wen in 2021—but that story only makes sense once you get to the HFNC fundraising section below.
 
@@ -89,13 +99,13 @@ On November 19, 2024, Chao-chieh Wang, riding the wave of the Taiwan national ba
 
 On November 27, Chia Yung-chieh went live for two hours to address the controversies, tearfully clarifying: the lighting had been approved by the board of directors, and "Der-Jei Group, United with Yung-chieh" was a company slogan; the employee dismissal had been carried out through negotiated agreement with severance in accordance with the Labor Standards Act, with a severance package exceeding legal requirements.[^17g] While thanking the ten companies that stood by her during the crisis, she wiped away tears—this scene later became the defining image of her public-share chairperson identity controversy.
 
-On July 17, 2025, the *G-Dragon Media Exhibition: Übermensch* opened at Taipei 101, with chaotic visitor flow, sold-out merchandise, and on-site décor described by netizens as resembling a "funeral parlor." Chia apologized twice, emphasizing that "the exhibition design was the original creation of Galaxy Corporation and Korea's MUT; Taiwan was only a communication bridge with no final decision-making authority."[^17h]
+On July 17, 2025, the _G-Dragon Media Exhibition: Übermensch_ opened at Taipei 101, with chaotic visitor flow, sold-out merchandise, and on-site décor described by netizens as resembling a "funeral parlor." Chia apologized twice, emphasizing that "the exhibition design was the original creation of Galaxy Corporation and Korea's MUT; Taiwan was only a communication bridge with no final decision-making authority."[^17h]
 
 These controversies remain on her timeline and should not be glossed over.
 
 ## January 25, 2026, 9:00 AM
 
-American free solo climber Alex Honnold—the subject of the documentary *Free Solo*, the man who free-soloed El Capitan—began climbing the exterior wall of Taipei 101 with his bare hands at 9:00 AM on January 25, 2026. This was the live event for Netflix's *[赤手獨攀台北 101：直播](https://www.netflix.com/title/skyscraper-live)*, broadcast simultaneously in 190 countries.[^15][^15a]
+American free solo climber Alex Honnold—the subject of the documentary _Free Solo_, the man who free-soloed El Capitan—began climbing the exterior wall of Taipei 101 with his bare hands at 9:00 AM on January 25, 2026. This was the live event for Netflix's _[赤手獨攀台北 101：直播](https://www.netflix.com/title/skyscraper-live)_, broadcast simultaneously in 190 countries.[^15][^15a]
 
 The project was greenlit by Chia Yung-chieh. Originally scheduled for January 24, it was postponed one day due to rain. She told the production team in advance: January 26 (Monday) was the final deadline; if it rained again, the entire event would be canceled.[^16a]
 
@@ -111,7 +121,7 @@ Two exchanges between her and Honnold were also recorded in full. During a trial
 
 After summiting, Honnold personally thanked "Janet (Chia Yung-chieh)" and Taipei 101 at the press conference.[^15c] Netflix reported 6.2 million views globally and 12 million viewing hours, ranking third on Netflix's global English-language program weekly chart and first on the Taiwan chart.[^15d]
 
-There were, of course, dissenting voices. BBC Chinese and *Crossing* jointly raised five key questions criticizing the broadcast's "excessive performatization" and imitation risks; *The Guardian* questioned the future of broadcasting life-threatening stunts as entertainment.[^15e] Some commentators noted that Honnold's appearance fee was essentially world-class exposure purchased with Taipei 101's marketing budget.[^15e] These questions, along with the 2015 cadaver skin controversy, the 2021 HFNC legality complaints, the 2024 misuse-of-public-resources allegations, and the 2025 G-Dragon exhibition funeral-parlor comparisons—are all nodes on the same curve: every large-scale mobilization of public resources triggers the question "by what right does she do this," and her response each time is to mount an even larger mobilization.
+There were, of course, dissenting voices. BBC Chinese and _Crossing_ jointly raised five key questions criticizing the broadcast's "excessive performatization" and imitation risks; _The Guardian_ questioned the future of broadcasting life-threatening stunts as entertainment.[^15e] Some commentators noted that Honnold's appearance fee was essentially world-class exposure purchased with Taipei 101's marketing budget.[^15e] These questions, along with the 2015 cadaver skin controversy, the 2021 HFNC legality complaints, the 2024 misuse-of-public-resources allegations, and the 2025 G-Dragon exhibition funeral-parlor comparisons—are all nodes on the same curve: every large-scale mobilization of public resources triggers the question "by what right does she do this," and her response each time is to mount an even larger mobilization.
 
 In February 2023, when reports surfaced that Lai Ching-te had privately inquired whether she would consider serving as a vice-presidential running mate, she flatly denied it: "Too funny—I'm sitting at home and this kind of news still lands on my head. I'm not running."[^18] In October 2023, she appeared alongside Lai and made remarks like "I think we'd be a good match";[^17i] a year and a half later she took over Taipei 101—this was another way of answering the question "will you run?" with a public-share governance seat.
 
@@ -140,7 +150,7 @@ What may be most worth remembering is that hour in the early morning when she ha
 
 [^3]: [Chia Yung-chieh Assumes Taipei 101 Chair: Second Half of Life, Embracing a New Challenge — Business Next](https://www.bnext.com.tw/article/80246/taipei-101-new-queen) — Documents her real given name Chia Yung-tsieh, family background (Te-yao Chia, Te-jun Chia), father Ta-chun Chia's naval captain rank, and complete family history.
 
-[^4]: [Chia Yung-chieh's First Prime-Time Drama Challenge: 2000's *Auspicious Year After Year* — United Daily News](https://udn.com/news/story/120910/7064939) — Documents her 2000 CTV prime-time drama debut and *Morning News* anchor tenure.
+[^4]: [Chia Yung-chieh's First Prime-Time Drama Challenge: 2000's _Auspicious Year After Year_ — United Daily News](https://udn.com/news/story/120910/7064939) — Documents her 2000 CTV prime-time drama debut and _Morning News_ anchor tenure.
 
 [^5]: [Chia Yung-chieh's 7 Identity Transitions: Reporter, Anchor, Bridal Shop Owner, Triathlete Goddess, to Taipei 101 Chair — Marie Claire](https://www.marieclaire.com.tw/entertainment/story/91407/janet-chia) — Complete career timeline, including 2002 marriage and 2004 founding of CH Wedding.
 
@@ -174,7 +184,7 @@ What may be most worth remembering is that hour in the early morning when she ha
 
 [^15d]: [How Many People Worldwide Watched Alex Honnold Climb Taipei 101? — Global Views Monthly](https://www.gvm.com.tw/article/127368) — 2026-01-26, Netflix reported 6.2 million global views, 12 million viewing hours, ranking third on Netflix's global English-language program weekly chart and first on the Taiwan chart.
 
-[^15e]: [What Reflections Does Free-Soloing Taipei 101 Provoke? — BBC News Chinese × Crossing](https://crossing.cw.com.tw/article/20500) — 2026-01-26, BBC Chinese and Crossing jointly raised five key questions criticizing the broadcast's "excessive performatization" and imitation risks; *The Guardian* questioned the future of broadcasting life-threatening stunts as entertainment; discussion of the commercial exposure nature.
+[^15e]: [What Reflections Does Free-Soloing Taipei 101 Provoke? — BBC News Chinese × Crossing](https://crossing.cw.com.tw/article/20500) — 2026-01-26, BBC Chinese and Crossing jointly raised five key questions criticizing the broadcast's "excessive performatization" and imitation risks; _The Guardian_ questioned the future of broadcasting life-threatening stunts as entertainment; discussion of the commercial exposure nature.
 
 [^16]: [Chia Yung-chieh Can't Help Complaining "You Promised to Slow Down"; Honnold Shouts: I Did! — CTWANT](http://www.ctwant.com/article/467768/) — 2026-01-27, the pre-event September 2025 trial climb "No, you need to slow down" exchange, and the post-event verbatim dialogue: "Didn't you promise me you'd slow down?" "I did!" "My God! 1 minute!"
 
@@ -194,7 +204,7 @@ What may be most worth remembering is that hour in the early morning when she ha
 
 [^17g]: [Taipei 101 Chair Appointment Repeatedly Under Fire! Chia Yung-chieh's Long Post Strikes Back, Reveals Inside Story — Liberty Times Entertainment](https://ent.ltn.com.tw/news/breakingnews/4903198) — 2024-11-27, Chia Yung-chieh's two-hour live tearful clarification on employee dismissal (former chairperson's secretary, severed in accordance with the Labor Standards Act with severance exceeding legal requirements), Chao-chieh Wang's lighting approved by the board; former chairperson Wen-chi Sung's "shallow and vanity" criticism, full account.
 
-[^17h]: [GD Exhibition Criticized as Looking Like a Funeral Parlor! Chia Yung-chieh's 680-Word Statement Admits "We Did Not Have Final Decision-Making Authority" — ETtoday Star Cloud](https://star.ettoday.net/news/3000812) — 2025-07-18, *G-Dragon Media Exhibition: Übermensch* opened at Taipei 101 with chaotic visitor flow, sold-out merchandise, and décor resembling a "funeral parlor"; Chia Yung-chieh apologized twice, emphasizing "the Korean side's original design; Taiwan was only a communication bridge with no final decision-making authority."
+[^17h]: [GD Exhibition Criticized as Looking Like a Funeral Parlor! Chia Yung-chieh's 680-Word Statement Admits "We Did Not Have Final Decision-Making Authority" — ETtoday Star Cloud](https://star.ettoday.net/news/3000812) — 2025-07-18, _G-Dragon Media Exhibition: Übermensch_ opened at Taipei 101 with chaotic visitor flow, sold-out merchandise, and décor resembling a "funeral parlor"; Chia Yung-chieh apologized twice, emphasizing "the Korean side's original design; Taiwan was only a communication bridge with no final decision-making authority."
 
 [^17i]: [A Match for Lai Ching-te's Vice President? Chia Yung-chieh Posts Couple-Style Photo, Admits: I Think We'd Be a Good Match — Mirror Media](https://www.mirrormedia.mg/story/20231023edi023) — 2023-10-23, Chia Yung-chieh appeared alongside Lai Ching-te in a photo from her father-in-law's eightieth birthday; full text of "I think we'd be a good match" remarks.
 
