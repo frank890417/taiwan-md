@@ -69,6 +69,12 @@ export const dashboardUI = {
     'dashboard.translation.full': 'Full Coverage',
     'dashboard.translation.growing': 'Growing',
     'dashboard.translation.seedling': 'Seedling',
+    'dashboard.translation.legend.aria': 'Translation status legend',
+    'dashboard.translation.legend.fresh': 'Fresh — up-to-date with zh source',
+    'dashboard.translation.legend.stale': 'Stale — zh source moved forward',
+    'dashboard.translation.legend.missing': 'Missing — no translation yet',
+    'dashboard.translation.legend.format':
+      'translated / stale-or-missing per category',
 
     // Immune System
     'dashboard.immune.title': 'Immune System',
@@ -164,6 +170,11 @@ export const dashboardUI = {
     'dashboard.translation.full': '完全カバレッジ',
     'dashboard.translation.growing': '成長中',
     'dashboard.translation.seedling': '発芽期',
+    'dashboard.translation.legend.aria': '翻訳ステータス凡例',
+    'dashboard.translation.legend.fresh': '最新 — zh ソースと同期済み',
+    'dashboard.translation.legend.stale': '旧版 — zh ソースが先行',
+    'dashboard.translation.legend.missing': '未訳 — まだ翻訳なし',
+    'dashboard.translation.legend.format': '翻訳済 / 未訳・旧版 (カテゴリ別)',
 
     // Immune System
     'dashboard.immune.title': '免疫システム',
@@ -258,6 +269,12 @@ export const dashboardUI = {
     'dashboard.translation.full': '완전 커버리지',
     'dashboard.translation.growing': '성장 중',
     'dashboard.translation.seedling': '싹틔우기',
+    'dashboard.translation.legend.aria': '번역 상태 범례',
+    'dashboard.translation.legend.fresh': '최신 — zh 원본과 동기화됨',
+    'dashboard.translation.legend.stale': '구버전 — zh 원본이 앞섬',
+    'dashboard.translation.legend.missing': '미번역 — 아직 번역 없음',
+    'dashboard.translation.legend.format':
+      '번역됨 / 미번역·구버전 (카테고리별)',
 
     // Immune System
     'dashboard.immune.title': '면역 시스템',
@@ -351,6 +368,11 @@ export const dashboardUI = {
     'dashboard.translation.full': '完整覆蓋',
     'dashboard.translation.growing': '成長中',
     'dashboard.translation.seedling': '萌芽期',
+    'dashboard.translation.legend.aria': '翻譯狀態圖說',
+    'dashboard.translation.legend.fresh': '最新 — 跟中文原文同步',
+    'dashboard.translation.legend.stale': '舊版 — 中文原文已更新，翻譯未跟上',
+    'dashboard.translation.legend.missing': '未譯 — 還沒翻譯',
+    'dashboard.translation.legend.format': '已譯 / 未譯·舊版 (按分類)',
 
     // Immune System
     'dashboard.immune.title': '免疫系統',
@@ -436,6 +458,13 @@ export const dashboardUI = {
     'dashboard.translation.full': 'Couverture complète',
     'dashboard.translation.growing': 'En croissance',
     'dashboard.translation.seedling': 'Jeune pousse',
+    'dashboard.translation.legend.aria': 'Légende du statut de traduction',
+    'dashboard.translation.legend.fresh':
+      'À jour — synchronisé avec la source zh',
+    'dashboard.translation.legend.stale': 'Périmé — la source zh a évolué',
+    'dashboard.translation.legend.missing': 'Manquant — pas encore traduit',
+    'dashboard.translation.legend.format':
+      'traduit / manquant ou périmé (par catégorie)',
     'dashboard.immune.title': 'Système immunitaire',
     'dashboard.immune.subtitle':
       'État de la défense qualité et tâches en attente',
@@ -520,6 +549,13 @@ export const dashboardUI = {
     'dashboard.translation.full': 'Cobertura completa',
     'dashboard.translation.growing': 'En crecimiento',
     'dashboard.translation.seedling': 'Plántula',
+    'dashboard.translation.legend.aria': 'Leyenda del estado de traducción',
+    'dashboard.translation.legend.fresh':
+      'Actualizado — sincronizado con la fuente zh',
+    'dashboard.translation.legend.stale': 'Obsoleto — la fuente zh ha avanzado',
+    'dashboard.translation.legend.missing': 'Falta — sin traducir aún',
+    'dashboard.translation.legend.format':
+      'traducido / falta o obsoleto (por categoría)',
     'dashboard.immune.title': 'Sistema inmunitario',
     'dashboard.immune.subtitle':
       'Estado de defensa de calidad y tareas pendientes',
