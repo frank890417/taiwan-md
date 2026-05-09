@@ -123,6 +123,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-09 laughing-goldstine — 算術 sanity check ≠ 來源 anchor，baseline 數字可能是 fabricated 但內部 self-consistent
+
+- **原則**：Research agent 對「對比型 fact」(X vs Y = N 倍) 做 sanity check 時，會驗算術 (math)，但不會驗 baseline。如果 baseline 數字本身是 fabricated（無 source URL 但 high_confidence 標籤），算術 ✅ + 算出的倍數會跟著錯，整條 fact 看起來 plausible 但實際 wrong。**規則**：(a) 任何「X 倍 / 從 A 到 B / 跟今天差 N 倍」這類 ratio / delta claim，**baseline + endpoint 都必須各自有 footnote URL**，不能只因算術內部 consistent 就標 ✅；(b) `high_confidence` 信度層的 prerequisite 是「至少一個來源頁面 verbatim 寫了這個數字」，不是「這個數字符合 sanity range」；(c) 算術 sanity check 是 secondary check（防 typo / off-by-magnitude），不是 primary fact verification。
+- **觸發**：2026-05-09 台積電 article ship 後讀者社群留言「1987 年是 2 吋（誤打為 2 微米）晶圓廠，不是 2 奈米」，重新 audit 發現 article §「我只想要活下去」L52 寫「第一座晶圓廠⋯⋯0.8 微米製程，跟今天的 2 奈米相比差了 400 倍」是 fabricated。Research report fact #10「1987 0.8 微米 vs 2026 2 奈米 = 400 倍微縮」原標 high_confidence + 算術 ✅，但實際 0.8µm 是 hallucination — TSMC 1987 第一座 fab 是 6 吋（150mm）+ 2 微米製程（per TSMC 官網 + 瞿宛文獨評 + FundingUniverse 多源 verify）。算術內部一致 (0.8/2nm = 400) 但 baseline 0.8µm 沒有 source URL，等於是 sanity check 通過的 hallucination。修正後算術 = 2µm/2nm = 1000 倍。
+- **可能層級**：操作規則 → REWRITE-PIPELINE Stage 3.5 FACTCHECK 加「ratio claim baseline + endpoint 必須各自 footnote anchor」rule + research-template.md `high_confidence` 定義加上「verbatim source 是 prerequisite，不是算術 sanity」/ 通用反射 → DNA 候選「baseline hallucination 是 reasoning 錯誤的最深層 — internal consistency ≠ external truth」
+- **相關**：DNA #16 三源驗證（baseline 也是 atom 之一）+ DNA #15 反覆浮現要儀器化（這條被讀者抓到 = 第 N 次驗證 baseline-without-anchor 是 systemic 漏洞）+ Reach × Accuracy retroactive trigger（per SPORE-VERIFY，spore #68 D+0 6h 內讀者抓到原文錯誤觸發 article 反向 audit，找出三處錯誤：0.8µm hallucination + Fab 5 編號錯 + 1985 timing 倒置）
+- **verification_count**: 1（首次發現，但結構性 root cause 跟既有 DNA #16 同源）
+- **severity**: strategic（影響所有 article RESEARCH stage 的 baseline 數字 audit；ratio claim 跨 domain 普遍存在，不限半導體）
+
 ### 2026-05-07 amazing-gould — Bulk fix 工具的「first run 寫壞、second run 撞自己」失敗模式
 
 - **原則**：`--fix --all` 第一次 run 撞 bug 時可能已經把部分 file 寫成 broken state；同一個 working tree 跑第二次會在 loader 階段 crash（讀進 broken YAML 直接死），讓 debug 變成兩層：分不清「我的新 fix 寫壞」vs「previous failed run 殘留」。**規則**：(a) bulk fix 工具第一次跑前默認應 `git stash --keep-index` 或先 dry-run scan；(b) fix 函式撞 exception 時應 catch + log 哪個檔案、跳過繼續，不要讓單檔失敗炸整個 run；(c) `--fix` 應有 `--dry-run` mode 顯示「會改 N 檔，每檔改 K 處」但不寫；(d) workflow doc / pipeline 段加註：bulk fix 跑前先 `git status` 確認 clean，跑後第一件事 `git diff` 抽樣驗證。
