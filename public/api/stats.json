@@ -1,28 +1,28 @@
 {
-  "totalArticles": 4129,
+  "totalArticles": 4187,
   "totalCategories": 20,
-  "estimatedContributors": 276,
-  "totalTags": 5395,
+  "estimatedContributors": 280,
+  "totalTags": 5290,
   "categories": [
     {
       "name": "es",
-      "count": 673
+      "count": 685
     },
     {
       "name": "ko",
-      "count": 682
+      "count": 694
     },
     {
       "name": "en",
-      "count": 698
+      "count": 709
     },
     {
       "name": "fr",
-      "count": 699
+      "count": 711
     },
     {
       "name": "ja",
-      "count": 689
+      "count": 700
     },
     {
       "name": "History",
@@ -88,11 +88,11 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 77
+      "count": 76
     },
     {
       "name": "人物",
-      "count": 73
+      "count": 75
     },
     {
       "name": "企業",
@@ -107,32 +107,36 @@
       "count": 28
     },
     {
-      "name": "TSMC",
+      "name": "ODM",
       "count": 27
     },
     {
+      "name": "TSMC",
+      "count": 26
+    },
+    {
       "name": "인물",
-      "count": 25
+      "count": 26
     },
     {
       "name": "政治",
-      "count": 24
-    },
-    {
-      "name": "ODM",
-      "count": 24
+      "count": 25
     },
     {
       "name": "半導體",
-      "count": 24
+      "count": 25
     },
     {
       "name": "AI",
       "count": 24
     },
     {
-      "name": "政治人物",
-      "count": 22
+      "name": "YouTuber",
+      "count": 21
+    },
+    {
+      "name": "歷史",
+      "count": 21
     },
     {
       "name": "民主化",
@@ -143,24 +147,20 @@
       "count": 21
     },
     {
-      "name": "歷史",
-      "count": 20
+      "name": "政治人物",
+      "count": 21
     },
     {
       "name": "Économie",
       "count": 20
     },
     {
-      "name": "YouTuber",
-      "count": 19
-    },
-    {
-      "name": "金曲獎",
-      "count": 19
-    },
-    {
       "name": "역사",
-      "count": 18
+      "count": 19
+    },
+    {
+      "name": "體育",
+      "count": 19
     },
     {
       "name": "台灣文化",
@@ -168,8 +168,8 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4129,
+    "zh-TW": 4187,
     "en": 0
   },
-  "lastUpdated": "2026-05-08T09:21:34.759Z"
+  "lastUpdated": "2026-05-09T07:20:48.964Z"
 }
