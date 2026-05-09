@@ -138,6 +138,22 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 葉廷皓 — 聲響藝術家 / 新媒體藝術 NEW
+
+- **Type**: `NEW`
+- **Category**: Art
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Source**: 觀察者直接指派（2026-05-09 laughing-goldstine post-finale, 哲宇）
+- **Notes**:
+  - 葉廷皓（Yeh Ting-Hao）— 台灣 audio-visual / sound art / new media 創作者
+  - 主題 anchors（待 research 驗證）：(a) AV 即時演出 / generative audio-visual 美學脈絡 (b) 跟 TouchDesigner / Max/MSP / 純粹聲響演出社群的位置 (c) 跨機構教育角色（如 TNUA 任教、新媒體藝術系所）(d) 代表作品 / 國際展演 / 跨域合作（音樂節 / 跨國 sound art collective）
+  - 必驗事實：作品時間軸、跨域合作對象（音樂人 / 視覺藝術家 / 機構）、教學機構、近期展演與 lectures（2024-2026）。所有引用必須三源驗證（DNA #16）
+  - cross-link 候選：Art / 音樂 / Technology / 新媒體藝術相關既有人物
+  - Framing：策展性人物 frame — 台灣 sound art / new media 場景的 first-person voice，不是百科式條目
+- **Reference**: 觀察者素材待補（哲宇可指方向 / 個人網站 / 展演紀錄 / 訪談）
+- **預估時間**：90-120 min（NEW Art - 人物，需多源研究 + 訪談 / 報導 cross-check）
+
 ### Blue UAS Cleared List 台灣廠商（2026 美國國防部無人機白名單）NEW
 
 - **Type**: `NEW`
