@@ -20,7 +20,7 @@ featured: true
 readingTime: 12
 category: 'Technology'
 translatedFrom: 'Technology/電子商務與數位支付生態系.md'
-sourceCommitSha: 'e844a4b8'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e6d4ecca5e8c9269'
 sourceBodyHash: 'sha256:8a4126afbbcc2d61'
 translatedAt: '2026-05-01T13:44:02+08:00'

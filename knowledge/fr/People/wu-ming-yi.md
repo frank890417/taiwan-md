@@ -19,8 +19,8 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 translatedFrom: 'People/吳明益.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:2244fabc33ee8056'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2752c026dbd32f77'
 sourceBodyHash: 'sha256:33817e164492daa0'
 translatedAt: '2026-04-14T19:14:43+08:00'
 ---

@@ -19,7 +19,7 @@ readingTime: 15
 lastVerified: '2026-04-25'
 lastHumanReview: false
 translatedFrom: 'Nature/台灣獼猴.md'
-sourceCommitSha: 'dd7a1d1c'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cdaa1e14237e0765'
 sourceBodyHash: 'sha256:a5f55aca8739dd3e'
 translatedAt: '2026-05-01T22:19:10+08:00'

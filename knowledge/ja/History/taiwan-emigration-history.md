@@ -2,7 +2,18 @@
 title: '台湾出国史：「警総核准」から「世界通行」への島民越境叙事'
 description: '1979年元旦、台湾は初めての観光パスポートを発行した。これは単なる書類の発行にとどまらず、戒厳令下の鎖国から国民外交への転換点であり、台湾人が「外貨浪費」の罪人から世界の旅人へと変貌する過程を記録したものである。'
 category: History
-tags: ['出国', '1979', '戒厳', '観光', 'パスポート', '留学潮', '外貨管制', '林献堂', '移動自由']
+tags:
+  [
+    '出国',
+    '1979',
+    '戒厳',
+    '観光',
+    'パスポート',
+    '留学潮',
+    '外貨管制',
+    '林献堂',
+    '移動自由',
+  ]
 author: 'Taiwan.md Contributors'
 date: 2026-05-02
 readingTime: 25
@@ -10,7 +21,7 @@ lastVerified: 2026-05-02
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/台灣出國史.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8d6508c76f18f1af'
 sourceBodyHash: 'sha256:2ed834cb9de7de1b'
 translatedAt: '2026-05-03T21:10:09+08:00'

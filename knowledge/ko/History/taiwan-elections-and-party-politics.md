@@ -10,7 +10,7 @@ readingTime: 14
 featured: false
 lastVerified: 2026-04-07
 translatedFrom: 'History/台灣選舉與政黨政治.md'
-sourceCommitSha: '001ae5fb'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:92e02a6f4332994e'
 sourceBodyHash: 'sha256:dfd574c12aaa4fc2'
 translatedAt: '2026-04-14T05:07:23+08:00'

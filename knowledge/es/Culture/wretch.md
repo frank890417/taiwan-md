@@ -17,8 +17,8 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Culture/無名小站.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:e0339531e5d43f7e'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:72580c86a46fe38d'
 sourceBodyHash: 'sha256:fef7d909d291cdc3'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---

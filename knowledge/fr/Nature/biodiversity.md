@@ -12,8 +12,8 @@ category: 'Nature'
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: "Nature/生態多樣性.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:7c8e2ae7ead043fa"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:7c8e2ae7ead043fa'
 sourceBodyHash: 'sha256:337a7730efae1092'
 translatedAt: "2026-04-14T19:23:22+08:00"
 ---

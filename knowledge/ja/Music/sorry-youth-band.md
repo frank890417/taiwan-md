@@ -1,7 +1,7 @@
 ---
 translatedFrom: Music/拍謝少年.md
-sourceCommitSha: bb7a2ab0
-sourceContentHash: sha256:a3a6f5b85db8c272
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:6a2b0dda2e1882cf'
 sourceBodyHash: 'sha256:07737a8d590520a4'
 translatedAt: '2026-05-01T14:48:26+08:00'
 category: Music

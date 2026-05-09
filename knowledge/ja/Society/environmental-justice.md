@@ -20,7 +20,7 @@ category: 'Society'
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
-sourceCommitSha: '2d0c126f'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8d7b73d5dcd91cdf'
 sourceBodyHash: 'sha256:102f748afe8c1589'
 translatedAt: '2026-05-03T23:14:06+08:00'

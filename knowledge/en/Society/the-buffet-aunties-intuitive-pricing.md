@@ -19,7 +19,7 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 category: 'society'
 translatedFrom: 'Society/自助餐阿姨的謎之目測精算能力.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c40e9256e5031f97'
 sourceBodyHash: 'sha256:b933f7d83c83a92f'
 translatedAt: '2026-04-14T12:25:09+08:00'

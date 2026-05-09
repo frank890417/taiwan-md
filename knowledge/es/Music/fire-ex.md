@@ -23,8 +23,8 @@ readingTime: 14min
 lastVerified: 2026-04-14
 lastHumanReview: '2026-04-14'
 translatedFrom: Music/滅火器樂團.md
-sourceCommitSha: 83b8a92b
-sourceContentHash: sha256:ff50a058e16cd318
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ff50a058e16cd318'
 sourceBodyHash: 'sha256:4b22b6f4b3e09c1b'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---

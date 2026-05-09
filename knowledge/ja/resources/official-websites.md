@@ -4,8 +4,8 @@ description: '台湾の公式ウェブサイトは、政府サービスや政策
 date: 2026-03-17
 tags: [リソース, 政府, 公式, Taiwan.md]
 translatedFrom: resources/official-websites.md
-sourceCommitSha: 800114ea
-sourceContentHash: sha256:0d481ed818da82f8
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0d481ed818da82f8'
 sourceBodyHash: 'sha256:6713c8a6c615e62a'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

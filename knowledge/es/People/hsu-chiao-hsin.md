@@ -1,20 +1,28 @@
 ---
-title: "Hsu Chiao-hsin: de hija de una cafetería a legisladora del «armamento de 80 mil millones» y la juventud del tráfico digital"
-description: "Legisladora por el Séptimo Distrito Electoral de Taipéi. Nacida en 1989 en una familia de cafetería en Taipéi, a los 24 años se convirtió en la miembro más joven del Comité Central Permanente del Kuomintang en 2013. En 2024 derrotó a Hsu Shu-hua con 89.727 votos y entró en la Legislatura. En el gran recall de 2025, 62.000 votos a favor alcanzaron el umbral legal pero fueron rechazados; en las negociaciones de armamento de 2026, propuso una versión de 80 mil millones que chocó con los 38 mil millones+N del Comité Central del partido. Chi Lin-lien la señaló por nombre: «no haga cosas que duelan a los suyos y alegren a los enemigos»."
+title: 'Hsu Chiao-hsin: de hija de una cafetería a legisladora del «armamento de 80 mil millones» y la juventud del tráfico digital'
+description: 'Legisladora por el Séptimo Distrito Electoral de Taipéi. Nacida en 1989 en una familia de cafetería en Taipéi, a los 24 años se convirtió en la miembro más joven del Comité Central Permanente del Kuomintang en 2013. En 2024 derrotó a Hsu Shu-hua con 89.727 votos y entró en la Legislatura. En el gran recall de 2025, 62.000 votos a favor alcanzaron el umbral legal pero fueron rechazados; en las negociaciones de armamento de 2026, propuso una versión de 80 mil millones que chocó con los 38 mil millones+N del Comité Central del partido. Chi Lin-lien la señaló por nombre: «no haga cosas que duelan a los suyos y alegren a los enemigos».'
 date: 2026-05-03
-tags: ["político", "legislador", "Kuomintang", "Combat Blue", "Séptimo Distrito Electoral de Taipéi", "legislador 2024"]
-category: "People"
-subcategory: "政治人物"
-author: "Taiwan.md"
+tags:
+  [
+    'político',
+    'legislador',
+    'Kuomintang',
+    'Combat Blue',
+    'Séptimo Distrito Electoral de Taipéi',
+    'legislador 2024',
+  ]
+category: 'People'
+subcategory: '政治人物'
+author: 'Taiwan.md'
 readingTime: 12
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
-translatedFrom: "People/徐巧芯.md"
-sourceCommitSha: "1e9ce66d"
-sourceContentHash: "sha256:8f69e3146e67bf4f"
-sourceBodyHash: "sha256:c36ec4a8304568ae"
-translatedAt: "2026-05-03T23:14:07+08:00"
+translatedFrom: 'People/徐巧芯.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8f69e3146e67bf4f'
+sourceBodyHash: 'sha256:c36ec4a8304568ae'
+translatedAt: '2026-05-03T23:14:07+08:00'
 ---
 
 # Hsu Chiao-hsin: de hija de una cafetería a legisladora del «armamento de 80 mil millones» y la juventud del tráfico digital

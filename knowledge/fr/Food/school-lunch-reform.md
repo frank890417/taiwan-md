@@ -21,7 +21,7 @@ lastVerified: 2026-05-04
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Food/營養午餐.md'
-sourceCommitSha: '6cd51d3f4'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7821275263a50042'
 sourceBodyHash: 'sha256:41f53dec5abc68f4'
 translatedAt: '2026-05-07T10:52:19+08:00'

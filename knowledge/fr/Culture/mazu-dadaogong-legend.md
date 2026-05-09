@@ -10,8 +10,8 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
 translatedFrom: "Culture/媽祖與大道公的傳說.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:e0f0df37674e0a42"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:e0f0df37674e0a42'
 sourceBodyHash: 'sha256:0cf1fac1d7c9b8b4'
 translatedAt: "2026-04-14T12:34:13+08:00"
 ---

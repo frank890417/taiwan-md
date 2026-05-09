@@ -2,7 +2,7 @@
 title: "Administrative Divisions of Taiwan: The Power Puzzle from 'Landdag' to 'Five Municipalities'"
 description: "Taiwan's administrative divisions are more than lines on a map — they are the result of a four-hundred-year experiment in power. From tribal councils under the Dutch, to the Japanese colonial era's elegant place-name renaming campaign, to a post-war plan that nearly named a city 'Shuangwen City,' every border conceals a tug-of-war between governing will and local identity."
 translatedFrom: 'Geography/台灣行政區劃.md'
-sourceCommitSha: '4caeb669'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
 translatedAt: '2026-05-01T12:53:58+08:00'

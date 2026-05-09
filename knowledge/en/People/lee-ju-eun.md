@@ -19,7 +19,7 @@ readingTime: 10
 lastVerified: 2026-04-14
 lastHumanReview: false
 translatedFrom: 'People/李珠珢.md'
-sourceCommitSha: '967e77ab'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1a5ec966d15fc75f'
 sourceBodyHash: 'sha256:286ea06e2dfa5442'
 translatedAt: '2026-05-01T20:54:09+08:00'

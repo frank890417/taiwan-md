@@ -22,7 +22,7 @@ lastVerified: 2026-04-20
 lastHumanReview: 2026-04-20
 researchReport: reports/research/2026-04/柯智棠.md
 translatedFrom: People/柯智棠.md
-sourceCommitSha: 9701427d
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4bb0752dfbb4d3f2'
 sourceBodyHash: 'sha256:9da1c30493a70f8a'
 translatedAt: '2026-05-01T12:53:58+08:00'

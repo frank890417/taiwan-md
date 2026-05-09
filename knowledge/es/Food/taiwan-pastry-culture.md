@@ -1,6 +1,6 @@
 ---
 title: 'La cultura de los pasteles taiwaneses'
-description: "Desde el pastel de ojos de fénix de Yuzhenzhai en Lukang (1877) hasta el pastel de yema de huevo Red Clay de Chen Yaoxun, agotado en 30 segundos en el sistema de venta de entradas Tixcraft en 2026: 150 años de historia estratificada de la repostería taiwanesa. En medio, la revolución del pastel cuadrado de piña de Yifutang durante el periodo colonial japonés, el experimento del pastel de yema de huevo en forma de oliva de Baoquan en Fengyuan, 270 hectáreas de cultivo por contrato de piña nativa al pie de la montaña Bagua, la mutación artesanal de la masa de aceite envuelta en hojaldre, y una tienda centenaria de pasteles Han compartiendo la misma mesa del Festival de Medio Otoño con un campeón mundial de panadería."
+description: 'Desde el pastel de ojos de fénix de Yuzhenzhai en Lukang (1877) hasta el pastel de yema de huevo Red Clay de Chen Yaoxun, agotado en 30 segundos en el sistema de venta de entradas Tixcraft en 2026: 150 años de historia estratificada de la repostería taiwanesa. En medio, la revolución del pastel cuadrado de piña de Yifutang durante el periodo colonial japonés, el experimento del pastel de yema de huevo en forma de oliva de Baoquan en Fengyuan, 270 hectáreas de cultivo por contrato de piña nativa al pie de la montaña Bagua, la mutación artesanal de la masa de aceite envuelta en hojaldre, y una tienda centenaria de pasteles Han compartiendo la misma mesa del Festival de Medio Otoño con un campeón mundial de panadería.'
 date: 2026-05-03
 category: Food
 subcategory: 烘焙與糕點
@@ -21,9 +21,9 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: Food/台灣糕餅文化.md
-sourceCommitSha: 7632201f
-sourceContentHash: sha256:bdb405b92fc10596
-sourceBodyHash: sha256:c6a86f733ba033b1
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:bdb405b92fc10596'
+sourceBodyHash: 'sha256:c6a86f733ba033b1'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
@@ -73,7 +73,7 @@ La historia de Baoquan abarca Japón y Taiwán. En la era colonial japonesa, la 
 
 Su primer experimento fue la "pequeña luna" (小月饼): redujo el gran pastel de luna tradicional a un tamaño adecuado para que una persona lo comiera entero de una vez, usando judías shiro importadas de Japón como relleno. Pero lo que realmente cambió el mapa de las cajas de regalo del Festival de Medio Otoño en Taiwán fue otra pastel: el **pastel de yema de huevo**.
 
-La revista *Baking Information* de agosto de 1986 documenta que el inventor del pastel de yema de huevo fue Chen Zengxiong[^13]. El maestro nacional Lyu Hongyu recuerda que el pastel de yema de huevo, que se originó alrededor de la década de 1960, **originalmente tenía forma de oliva y no esférica**, se cortaba por la mitad para mostrar la yema de huevo del relleno, y la masa era de piña en lugar de hojaldre[^9]. Con el tiempo, evolucionó gradualmente a la versión esférica con masa hojaldrada que conocemos hoy.
+La revista _Baking Information_ de agosto de 1986 documenta que el inventor del pastel de yema de huevo fue Chen Zengxiong[^13]. El maestro nacional Lyu Hongyu recuerda que el pastel de yema de huevo, que se originó alrededor de la década de 1960, **originalmente tenía forma de oliva y no esférica**, se cortaba por la mitad para mostrar la yema de huevo del relleno, y la masa era de piña en lugar de hojaldre[^9]. Con el tiempo, evolucionó gradualmente a la versión esférica con masa hojaldrada que conocemos hoy.
 
 Los tres ajustes clave de proceso que Chen Zengxiong estableció fueron: las yemas de huevo saladas debían remojarse primero en licor fuerte para eliminar el olor a pescado y luego hornearse a temperatura media; la pasta de judías negras debía cocerse a fuego lento con aroma ahumado; la proporción de harina y grasa en la masa hojaldrada debía calibrarse con precisión[^9]. Estos tres parámetros de receta se han mantenido vigentes hasta hoy.
 
@@ -168,7 +168,7 @@ El tiempo que contiene una pastel es mucho más largo de lo que crees.
 
 [^12]: [Museo de la Cultura Pastelera de Acongshi en Dajia](https://www.o-nongs.com.tw/) — Información oficial del pastel creativo de taro de Acongshi en Dajia, que documenta su historia como aperitivo designado para cenas de estado y la herencia de la artesanía del pastel de taro.
 
-[^13]: [Wikipedia: Pastel de yema de huevo](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Recoge la información sobre Chen Zengxiong como inventor del pastel de yema de huevo, documentada en la revista *Baking Information* de agosto de 1986, así como los parámetros artesanales estándar de pasta de judías rojas, yema de huevo de pato salada y masa hojaldrada.
+[^13]: [Wikipedia: Pastel de yema de huevo](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Recoge la información sobre Chen Zengxiong como inventor del pastel de yema de huevo, documentada en la revista _Baking Information_ de agosto de 1986, así como los parámetros artesanales estándar de pasta de judías rojas, yema de huevo de pato salada y masa hojaldrada.
 
 [^14]: [Wikipedia: Pastel de frijol mungo relleno (綠豆椪)](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — También conocido como "綠豆凸" o "luna taiwanesa", originado en las mejoras de Fengyuan durante el periodo colonial japonés, con relleno de pasta de frijol mungo, manteca de cerdo, cebolleta y cerdo, de sabor agridulce, y su papel importante en los pasteles de boda taiwaneses.
 

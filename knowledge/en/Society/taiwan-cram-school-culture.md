@@ -19,8 +19,8 @@ readingTime: 10
 lastVerified: 2026-04-23
 lastHumanReview: false
 translatedFrom: 'Society/台灣補習班文化.md'
-sourceCommitSha: '2c96c034'
-sourceContentHash: 'sha256:0ad8f24127489ef0'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:31c0d75fa23d229b'
 sourceBodyHash: 'sha256:2b22c43058efac00'
 translatedAt: '2026-05-01T12:21:52+08:00'
 ---

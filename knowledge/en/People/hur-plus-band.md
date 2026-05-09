@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: '2c96c034'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f585a86608bf6a28'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
 translatedAt: '2026-05-01T12:21:52+08:00'

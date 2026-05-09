@@ -18,7 +18,7 @@ readingTime: 10
 lastVerified: 2026-04-20
 lastHumanReview: 2026-04-20
 translatedFrom: 'People/張志祺.md'
-sourceCommitSha: '0ecfa053'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b7728f29d3dbc9e2'
 sourceBodyHash: 'sha256:8df8bda804d8ffe0'
 translatedAt: '2026-05-01T22:19:10+08:00'

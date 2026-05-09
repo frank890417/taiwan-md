@@ -9,7 +9,7 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'People/李登輝.md'
-sourceCommitSha: 'cbc2ad44'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b7406ab07a0d09c2'
 sourceBodyHash: 'sha256:5c229e19645654a0'
 translatedAt: '2026-05-01T19:52:32+08:00'

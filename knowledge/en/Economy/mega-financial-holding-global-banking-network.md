@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Economy/台灣企業：兆豐金控.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d45f458eabe77e3c'
 sourceBodyHash: 'sha256:9b950fb292247748'
 translatedAt: '2026-05-01T15:38:13+08:00'

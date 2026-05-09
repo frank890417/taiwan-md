@@ -19,8 +19,8 @@ readingTime: 16
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: People/林良.md
-sourceCommitSha: f553d365
-sourceContentHash: sha256:ff949a14cc54475a
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
 translatedAt: 2026-05-02T01:17:15+08:00
 ---

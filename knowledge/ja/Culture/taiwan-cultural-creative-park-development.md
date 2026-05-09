@@ -10,8 +10,8 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: Culture/台灣文化創意園區發展.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:0fec167ed85728d4
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0fec167ed85728d4'
 sourceBodyHash: 'sha256:611006b4f7ff5d5a'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

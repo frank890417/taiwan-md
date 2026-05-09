@@ -21,8 +21,8 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12min
 featured: true
 translatedFrom: 'Music/五月天.md'
-sourceCommitSha: 'eb0744ad'
-sourceContentHash: 'sha256:683ec3194ba4aa3c'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2d73cb00a5f5d254'
 sourceBodyHash: 'sha256:7f6b080a953be003'
 translatedAt: '2026-04-14T09:55:38+08:00'
 ---

@@ -17,7 +17,7 @@ readingTime: 12
 featured: false
 translatedFrom: 'Culture/巧固球.md'
 lastVerified: 2026-03-27
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:01a29994f0cdcf17'
 sourceBodyHash: 'sha256:620db6741686fb51'
 translatedAt: '2026-04-14T19:13:02+08:00'

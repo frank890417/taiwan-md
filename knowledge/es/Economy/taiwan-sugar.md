@@ -2,7 +2,14 @@
 title: 'Taiwan Sugar Corporation: Del imperio dulce que sustentaba el 74% de las divisas extranjeras al «gran terrateniente que no se dedica a su actividad principal» con beneficios récord en 2025'
 description: 'En 2025, el beneficio neto después de impuestos de Taiwan Sugar Corporation alcanzó un récord de 7400 millones de yuanes, pero esta empresa centenaria ya no obtiene ingresos por la venta de azúcar. Desde ser un pilar colonial durante el periodo de gobierno japonés en Taiwán hasta convertirse en el eje económico de la posguerra, observe cómo Taiwan Sugar Corporation ha dado un giro desde el azúcar para redefinir el «beneficio dulce» en el sector de orquídeas, biotecnología y arquitectura circular.'
 category: Economy
-tags: ['Taiwan Sugar Corporation', 'Historia de la industria azucarera', 'Transformación', 'Economía circular', 'Orquídea mariposa']
+tags:
+  [
+    'Taiwan Sugar Corporation',
+    'Historia de la industria azucarera',
+    'Transformación',
+    'Economía circular',
+    'Orquídea mariposa',
+  ]
 author: 'Taiwan.md Contributors'
 date: 2026-05-03
 readingTime: 8
@@ -10,7 +17,7 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台糖.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
 translatedAt: '2026-05-03T21:10:09+08:00'

@@ -1,28 +1,29 @@
 ---
 title: "Taiwan's Climate Crisis and Net-Zero Transition"
-description: "Warming at nearly half the global rate, 98% of energy imported — an island bets NT$9 trillion on rebuilding its own energy system"
+description: 'Warming at nearly half the global rate, 98% of energy imported — an island bets NT$9 trillion on rebuilding its own energy system'
 date: 2026-04-04
-author: "Taiwan.md"
-category: "Nature"
-subcategory: "保育與環境"
-tags: [
-    "氣候變遷",
-    "淨零轉型",
-    "能源轉型",
-    "離岸風電",
-    "太陽光電",
-    "碳權交易",
-    "極端氣候",
+author: 'Taiwan.md'
+category: 'Nature'
+subcategory: '保育與環境'
+tags:
+  [
+    '氣候變遷',
+    '淨零轉型',
+    '能源轉型',
+    '離岸風電',
+    '太陽光電',
+    '碳權交易',
+    '極端氣候',
   ]
 readingTime: 14
 lastVerified: 2026-04-04
 lastHumanReview: 2026-04-04
 featured: true
-translatedFrom: "Nature/台灣氣候危機與淨零轉型.md"
-sourceCommitSha: "14c7b362"
-sourceContentHash: "sha256:a139d73d65e0ebe1"
-sourceBodyHash: "sha256:6ee4b6b98fc76b72"
-translatedAt: "2026-05-03T23:14:05+08:00"
+translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:e177a9a10f52aedb'
+sourceBodyHash: 'sha256:6ee4b6b98fc76b72'
+translatedAt: '2026-05-03T23:14:05+08:00'
 ---
 
 # Taiwan's Climate Crisis and Net-Zero Transition
@@ -45,9 +46,9 @@ Taiwan's total precipitation has not decreased significantly, but the character 
 
 The frequency of extreme rainfall is also climbing. Days with single-day precipitation exceeding 200 mm have increased from an annual average of 5 in the 1960s to 8 in recent years. In 2009, Typhoon Morakot set a record of 2,884 mm of cumulative rainfall at the Alishan station[^5] — three days of rain equivalent to Taipei's entire annual total. During that disaster, Xiaolin Village in Kaohsiung's Jiaxian District was buried by a landslide from Xiandu Mountain in the early morning hours, killing 491 people[^6].
 
-> "Each chair represents a family member." Survivor Wang Min-liang later told visitors at Xiaolin Memorial Park. He founded the Guangming Xiaolin community and led the tribe's Manazu dance troupe on tours across Taiwan. (From PTS *Our Island*)
+> "Each chair represents a family member." Survivor Wang Min-liang later told visitors at Xiaolin Memorial Park. He founded the Guangming Xiaolin community and led the tribe's Manazu dance troupe on tours across Taiwan. (From PTS _Our Island_)
 
-Morakot was not an accident — it was a preview. The 2024 *National Climate Change Science Report*, led by Hsu Huang-hsiung, notes that extreme rainfall events currently occurring once every 50 years could become once-in-10-year events in the future[^7]. Yunlin, Tainan, and Keelung are the areas at highest coastal flood risk.
+Morakot was not an accident — it was a preview. The 2024 _National Climate Change Science Report_, led by Hsu Huang-hsiung, notes that extreme rainfall events currently occurring once every 50 years could become once-in-10-year events in the future[^7]. Yunlin, Tainan, and Keelung are the areas at highest coastal flood risk.
 
 ## The Bill for the World's 22nd-Largest Emitter
 

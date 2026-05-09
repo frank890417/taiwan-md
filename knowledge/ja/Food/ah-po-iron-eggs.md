@@ -24,8 +24,8 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Iron_eggs_in_T
 imageAlt: '淡水の老街に並ぶ深褐色の鉄たまご。質感は固く、艶やかな輝きを持つ'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: '64abf6f8'
-sourceContentHash: 'sha256:8a2fd81f78cdb8fd'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f215fbcb32524845'
 sourceBodyHash: 'sha256:f4c6330bca417165'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---

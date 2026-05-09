@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 translatedFrom: 'Economy/台灣企業：大立光電.md'
 lastVerified: 2026-03-22
-sourceCommitSha: '800114ea'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:74469a54ad5b9ae3'
 sourceBodyHash: 'sha256:4ac8e9cdef3a165c'
 translatedAt: '2026-04-14T08:48:46+08:00'

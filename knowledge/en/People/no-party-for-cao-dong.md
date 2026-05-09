@@ -28,7 +28,7 @@ lastVerified: 2026-04-18
 lastHumanReview: true
 researchReport: reports/research/2026-04/草東沒有派對.md
 translatedFrom: People/草東沒有派對.md
-sourceCommitSha: 9e6e29f2
+sourceCommitSha: '5db9f136'
 sourceContentHash: 'sha256:c93963fdd3e6600a'
 sourceBodyHash: 'sha256:5d39f10852397392'
 translatedAt: '2026-05-01T12:53:58+08:00'

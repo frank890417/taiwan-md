@@ -18,8 +18,8 @@ lastHumanReview: true
 category: People
 featured: true
 translatedFrom: 'People/周子瑜.md'
-sourceCommitSha: '5c7329f7'
-sourceContentHash: 'sha256:9b5d2b035a213c6b'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:6c29fcd00c11f957'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
 translatedAt: '2026-05-01T13:19:11+08:00'
 ---

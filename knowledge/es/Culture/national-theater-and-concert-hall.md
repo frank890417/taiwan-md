@@ -20,8 +20,8 @@ readingTime: 10
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Culture/兩廳院.md'
-sourceCommitSha: '8084798e'
-sourceContentHash: 'sha256:c1673701dcda7bb5'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1b722cc963da8ad2'
 sourceBodyHash: 'sha256:b8e419f98d87f2d4'
 translatedAt: '2026-05-02T11:00:00+08:00'
 ---

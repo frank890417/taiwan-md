@@ -18,8 +18,8 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 featured: true
 translatedFrom: History/清法戰爭.md
-sourceCommitSha: 956a36f3
-sourceContentHash: sha256:e29f16bbd0760f6c
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0d133f631d4db985'
 sourceBodyHash: 'sha256:f135e504997bf040'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---

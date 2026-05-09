@@ -22,7 +22,7 @@ lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/戰後台灣文學.md'
 translatedFrom: 'Art/戰後台灣文學.md'
-sourceCommitSha: 'f553d365'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ccb549fdb85f9bc6'
 sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
 translatedAt: '2026-04-30T22:50:13+08:00'

@@ -4,8 +4,8 @@ description: 'Los sitios web oficiales de Taiwán no solo ofrecen servicios gube
 date: 2026-03-17
 tags: ['recursos', 'gobierno', 'oficial', 'Taiwan.md']
 translatedFrom: resources/official-websites.md
-sourceCommitSha: 800114ea
-sourceContentHash: sha256:0d481ed818da82f8
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0d481ed818da82f8'
 sourceBodyHash: 'sha256:6713c8a6c615e62a'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---

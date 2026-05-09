@@ -2,7 +2,18 @@
 title: "Taiwan's History of Going Abroad: From 'KMT General Approval' to 'Worldwide Access' Narrative of Islander Cross-Border Mobility"
 description: "On January 1, 1979, Taiwan issued its first tourist passport. This was not merely the issuance of a piece of paper, but a turning point from martial law isolation to 'citizen diplomacy,' recording the story of how Taiwanese people transformed from 'sinners wasting foreign exchange' into global travelers."
 date: 2026-05-02
-tags: ['Going Abroad', '1979', 'Martial Law', 'Tourism', 'Passport', 'Study Abroad Wave', 'Foreign Exchange Control', 'Lin Hsien-tang', 'Freedom of Movement']
+tags:
+  [
+    'Going Abroad',
+    '1979',
+    'Martial Law',
+    'Tourism',
+    'Passport',
+    'Study Abroad Wave',
+    'Foreign Exchange Control',
+    'Lin Hsien-tang',
+    'Freedom of Movement',
+  ]
 author: 'Taiwan.md Contributors'
 subcategory: 'History/Taiwan Outbound History'
 category: 'History'
@@ -10,8 +21,8 @@ readingTime: 25
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'History/台灣出國史.md'
-sourceCommitSha: '053efd9a'
-sourceContentHash: 'sha256:b8c0353b228aea91'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8d6508c76f18f1af'
 sourceBodyHash: 'sha256:2ed834cb9de7de1b'
 translatedAt: '2026-05-03T21:42:07+08:00'
 ---
@@ -39,7 +50,7 @@ The passport system at that time clearly distinguished between Japanese people a
 
 ### 2.2 The Grand Tours of Gentry and Ideological Enlightenment
 
-Despite the restrictions, the gentry of the time initiated a trend of "grand tours." In 1927, Lin Hsien-tang of the Wufeng Lin family embarked on a year-long global journey with his son, visiting Europe, the Americas, and Asia. Lin Hsien-tang serialized his observations in the *Taiwan Minbao* (Taiwan People's Newspaper), allowing Taiwanese people to see the world through the eyes of their compatriots for the first time. [^11] [^12] The overseas experiences of political figures such as Tsai Pei-huo and Chiang Wei-shui also became nourishment for later Taiwan social movements, bringing Western democratic ideas back to the island. [^13]
+Despite the restrictions, the gentry of the time initiated a trend of "grand tours." In 1927, Lin Hsien-tang of the Wufeng Lin family embarked on a year-long global journey with his son, visiting Europe, the Americas, and Asia. Lin Hsien-tang serialized his observations in the _Taiwan Minbao_ (Taiwan People's Newspaper), allowing Taiwanese people to see the world through the eyes of their compatriots for the first time. [^11] [^12] The overseas experiences of political figures such as Tsai Pei-huo and Chiang Wei-shui also became nourishment for later Taiwan social movements, bringing Western democratic ideas back to the island. [^13]
 
 📝 Curator's Note: The "travel passport" of that era was not just a permit; it was a mirror reflecting the class and struggles under the colonial system. Lin Hsien-tang's global journey was essentially a pioneering attempt at "citizen diplomacy."
 

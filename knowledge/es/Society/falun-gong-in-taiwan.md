@@ -16,8 +16,8 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: Society/法輪功在台灣.md
-sourceCommitSha: 4a42ae8d
-sourceContentHash: sha256:0b627bb39208e94e
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0b627bb39208e94e'
 sourceBodyHash: 'sha256:506539ee82e6b605'
 translatedAt: 2026-05-02T13:31:21+08:00
 ---

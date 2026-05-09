@@ -20,8 +20,8 @@ readingTime: 15
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Music/張懸與安溥.md'
-sourceCommitSha: '4a5b7958'
-sourceContentHash: 'sha256:8db767c623103846'
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:27ef434e8d6b0605'
 sourceBodyHash: 'sha256:5705b435f269e6ca'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---

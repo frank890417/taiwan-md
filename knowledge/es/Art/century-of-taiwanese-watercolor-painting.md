@@ -7,8 +7,8 @@ subcategory: '視覺藝術'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: Art/台灣水彩畫的百年流變.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:c0b72206c0902f28
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:c0b72206c0902f28'
 sourceBodyHash: 'sha256:0797f8f5d26b7f91'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: Art

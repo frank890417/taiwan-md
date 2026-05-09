@@ -8,7 +8,7 @@ category: 'Music'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'Music/台灣民謠與歌謠.md'
-sourceCommitSha: '800114ea'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
 sourceBodyHash: 'sha256:943159c3ad5fba6c'
 translatedAt: '2026-04-14T10:10:05+08:00'

@@ -19,8 +19,8 @@ readingTime: 15
 lastVerified: 2026-03-25
 lastHumanReview: false
 translatedFrom: 'History/台灣森林開發史.md'
-sourceCommitSha: '84e04168'
-sourceContentHash: 'sha256:73e54955334b68f6'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8069998f1aa354c8'
 sourceBodyHash: 'sha256:55bbc4efed5f30a9'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---

@@ -17,7 +17,7 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/楊右任.md'
 readingTime: 8
 featured: false
-sourceCommitSha: '84e04168'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ffd477fca05ec608'
 sourceBodyHash: 'sha256:b8b4f8338741f24b'
 translatedAt: '2026-04-14T19:24:47+08:00'

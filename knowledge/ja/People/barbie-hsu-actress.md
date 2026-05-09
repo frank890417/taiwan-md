@@ -1,7 +1,7 @@
 ---
 translatedFrom: People/徐熙媛.md
-sourceCommitSha: 96971399
-sourceContentHash: sha256:0482a2d48a6c1b99
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:85fa468fad16ec09'
 sourceBodyHash: 'sha256:7ad4c339c52ad6fb'
 translatedAt: '2026-05-01T14:48:26+08:00'
 category: People

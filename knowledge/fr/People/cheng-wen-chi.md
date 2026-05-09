@@ -10,9 +10,9 @@ featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false
 translatedFrom: People/鄭文琦.md
-sourceCommitSha: f22392129
-sourceContentHash: sha256:c8a06771daecf793
-sourceBodyHash: sha256:7cc12241a8e54299
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0e9e8f5ed7e1d87b'
+sourceBodyHash: 'sha256:7cc12241a8e54299'
 translatedAt: 2026-05-05T00:33:23+08:00
 ---
 

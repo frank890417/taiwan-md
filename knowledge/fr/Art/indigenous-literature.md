@@ -17,7 +17,7 @@ readingTime: 7
 featured: false
 lastVerified: 2026-03-24
 translatedFrom: 'Art/原住民文學.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c3ce92b18e6d1aeb'
 sourceBodyHash: 'sha256:621573191262d79d'
 translatedAt: '2026-04-14T19:13:26+08:00'

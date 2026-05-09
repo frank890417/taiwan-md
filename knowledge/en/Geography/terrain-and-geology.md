@@ -8,7 +8,7 @@ readingTime: 8
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Geography/地形與地質.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1c19912f3b7cdf1b'
 sourceBodyHash: 'sha256:ff4a4e3156ba7d86'
 translatedAt: '2026-04-14T12:25:09+08:00'

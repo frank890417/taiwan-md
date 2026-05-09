@@ -15,8 +15,8 @@ tags:
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: Art/台灣劇場與表演藝術.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:cddfbcb9ade43ff2
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:cddfbcb9ade43ff2'
 sourceBodyHash: 'sha256:0f8dee8662286dcf'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---

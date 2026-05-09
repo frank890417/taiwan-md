@@ -10,7 +10,7 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Technology/AI人工智慧產業.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bc36a1af91d28cb5'
 sourceBodyHash: 'sha256:9d1ac9fec38fa5d4'
 translatedAt: '2026-05-01T18:02:56+08:00'

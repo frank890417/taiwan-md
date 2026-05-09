@@ -14,7 +14,7 @@ subcategory: '藝術與設計'
 lastVerified: '2026-03-19'
 lastHumanReview: false
 translatedFrom: 'People/方序中.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:09b565df3960bd44'
 sourceBodyHash: 'sha256:55d5916648c3787e'
 translatedAt: '2026-05-01T18:09:43+08:00'

@@ -2,7 +2,15 @@
 title: 'Lu Hsiu-yan: De los 10,000 frascos de aire de Guguan a la teoría de la compra de armas como seguro en Washington, la reina invicta'
 description: 'El 25 de diciembre de 2018, de su propio bolsillo encargó 10,000 frascos de vidrio con "aire de Guguan" para repartir entre los ciudadanos que asistieron a la ceremonia, materializando su eslogan de campaña en las manos de los lectores. Tras 8 años invicta en las elecciones, 2 mandatos como alcaldesa de Taichung y 6 legislaturas como diputada, en agosto de 2025 Chu Li-lun le pidió públicamente que asumiera la presidencia del partido, y ella respondió: "Cuanto más difíciles son los tiempos, mamá se queda en casa". Pero según la encuesta más reciente de abril de 2026, su posición de candidata por defecto para 2028 ha sido superada por Chen Wan-an con un 25% frente al 19.7%.'
 date: 2026-05-03
-tags: ['política', 'alcaldesa de Taichung', 'Kuomintang', 'reina invicta', 'alcaldesa mamá', 'elecciones 2028']
+tags:
+  [
+    'política',
+    'alcaldesa de Taichung',
+    'Kuomintang',
+    'reina invicta',
+    'alcaldesa mamá',
+    'elecciones 2028',
+  ]
 category: 'People'
 subcategory: '政治人物'
 author: 'Taiwan.md'
@@ -11,9 +19,9 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: People/盧秀燕.md
-sourceCommitSha: 96c653f7
-sourceContentHash: sha256:d371b7109756e14d
-sourceBodyHash: sha256:8d9608a92d5a6a0c
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:d371b7109756e14d'
+sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
@@ -37,7 +45,7 @@ Lu Hsiu-yan no es de Taichung.
 
 Nació el 31 de agosto de 1961 en el distrito de Anle, ciudad de Keelung.[^1] Su padre, Lu Hui-ting, era de Zhucheng, Shandong, y durante la Guerra de Corea en la década de 1950 fue voluntario del Ejército Popular de Chino, capturado por fuerzas estadounidenses y que eligió ir a Taiwán. Su madre era de la ciudad de Hsinchu, la hija mayor de una familia nativa. Su hermana menor, Lu Hsiu-fang, entró posteriormente en el mundo televisivo, y desde 2024 asumió la presidencia y dirección general de CTV.[^1] Su entorno familiar es una estructura típica de "segunda generación de continental mezclada con nativa", pero más norteña y urbana que la de alguien como Cheng Li-wen, criada en un barrio de militares.
 
-En la universidad estudió en el Departamento de Administración de Tierras de la Universidad Nacional Chengchi,[^2] sin relación directa con derecho ni ciencias políticas. En 1983 entró como reportera en CTV, tenía 22 años.[^3] En 1990, a los 29 años, ganó el Premio Golden Bell a la Entrevista de Noticias de Televisión en su 25.ª edición con una serie de reportajes de investigación titulada "Falso amor, verdadera recaudación de fondos". Ese mismo año fue ascendida a jefa del Centro de Noticias del Centro de CTV, descrita por el periódico *Shibao Guang* como "la primera mujer jefa de corresponsalía en el centro de Taiwán en la historia de la televisión taiwanesa".[^4]
+En la universidad estudió en el Departamento de Administración de Tierras de la Universidad Nacional Chengchi,[^2] sin relación directa con derecho ni ciencias políticas. En 1983 entró como reportera en CTV, tenía 22 años.[^3] En 1990, a los 29 años, ganó el Premio Golden Bell a la Entrevista de Noticias de Televisión en su 25.ª edición con una serie de reportajes de investigación titulada "Falso amor, verdadera recaudación de fondos". Ese mismo año fue ascendida a jefa del Centro de Noticias del Centro de CTV, descrita por el periódico _Shibao Guang_ como "la primera mujer jefa de corresponsalía en el centro de Taiwán en la historia de la televisión taiwanesa".[^4]
 
 De 1983 a 1994 estuvo en CTV durante 11 años. En la segunda mitad de ese período, su hermana menor Lu Hsiu-fang también entró como presentadora en TTV. La imagen de las dos hermanas juntas en la era de las tres cadenas era una escena en el mundo informativo de la época.[^4] En aquel entonces, nadie pensaba que aquella jefa de corresponsalía del centro que había ganado un premio Golden Bell se convertiría, más de 30 años después, en candidata a "candidata por defecto para 2028" del Kuomintang, incluida ella misma.
 
@@ -75,7 +83,7 @@ El 25 de diciembre, el día de su toma de posesión, regaló 10,000 frascos de a
 
 Según un análisis de la agencia CNA tras su reelección en 2022, el origen de esta etiqueta se remonta a su autoposicionamiento durante la campaña de 2018: centrada en la lucha contra la contaminación del aire y la reactivación económica, sumado a que ella misma es madre de dos hijos. Tras ser elegida, cumplió sus promesas de campaña, otorgando subsidios a las primas de seguro médico para personas mayores, ampliando las instalaciones de guarderías públicas y fortaleciendo las políticas educativas y de bienestar social, vinculando la imagen de "mamá cuida a la familia" con la gestión municipal.[^15]
 
-En 2019, durante una sesión de interpelación de un concejal, afirmó que "nunca se había autodenominado alcaldesa mamá" y que no sabía por qué la gente la llamaba así. Pero en la fiesta de Nochevieja de 2022, gritó a todo el público "Mamá te quiere" y hizo un gesto de corazón con las manos. El columnista del *Liberty Times* Lee Chung-hsien criticó esto como "el lugar de Taiwán que más se parece a Corea del Norte", una excesiva adoración personal.[^15]
+En 2019, durante una sesión de interpelación de un concejal, afirmó que "nunca se había autodenominado alcaldesa mamá" y que no sabía por qué la gente la llamaba así. Pero en la fiesta de Nochevieja de 2022, gritó a todo el público "Mamá te quiere" y hizo un gesto de corazón con las manos. El columnista del _Liberty Times_ Lee Chung-hsien criticó esto como "el lugar de Taiwán que más se parece a Corea del Norte", una excesiva adoración personal.[^15]
 
 Esta polémica es real. A veces niega el apodo, a veces lo abraza. Pero los resultados electorales del 26 de noviembre de 2022 no mienten: obtuvo 799,107 votos (59.35%) frente a los 524,224 de Tsai Chi-chang (38.93%), una ventaja de 270,000 votos, **ganando en los 29 distritos administrativos de la ciudad de Taichung**.[^13] Tsai Chi-chang perdió incluso en su ciudad natal, Qingshui, por 167 votos.[^13] Se convirtió en la **primera alcaldesa reelegida** desde la fusión de la ciudad y el condado de Taichung, rompiendo el hechizo de que "ningún alcalde de ciudad especial había logrado la reelección" desde la fusión de 2010.
 
@@ -149,7 +157,7 @@ En ese momento, el Ejecutivo impulsaba un presupuesto especial de compra de arma
 
 Otra de sus propuestas concretas era más técnica: "**Los submarinos un poco más pequeños, los drones deberían ampliarse.**"[^^27] El enfoque de la capacidad asimétrica centrado en drones en lugar de submarinos era cercano a la estructura del "Escudo de Taiwán" propuesta por Lai Ching-te en abril de 2025, pero ella no hablaba desde el lado de Lai; hablaba desde la posición de "gobernante pragmática".
 
-El *Liberty Times* calificó este rango de "sin ruta, está jugando a todas las cartas" y "cambiando varias veces en un día".[^^26] Donovan Smith observó el 25 de abril en el *Taipei Times* que ella estaba "**preparándose silenciosamente para las elecciones presidenciales**", eligiendo deliberadamente una ruta moderada, a diferencia de otros políticos que usaban un lenguaje de indignación durante el gran recall.[^28]
+El _Liberty Times_ calificó este rango de "sin ruta, está jugando a todas las cartas" y "cambiando varias veces en un día".[^^26] Donovan Smith observó el 25 de abril en el _Taipei Times_ que ella estaba "**preparándose silenciosamente para las elecciones presidenciales**", eligiendo deliberadamente una ruta moderada, a diferencia de otros políticos que usaban un lenguaje de indignación durante el gran recall.[^28]
 
 Ambas lecturas tienen sentido. Si ella está "sin ruta" o "deliberadamente en el centro" depende de desde qué lado se lea.
 
@@ -163,7 +171,7 @@ Una encuesta publicada por Z.media en abril mostró la idoneidad como potencial 
 - **Lu Hsiu-yan 19.7%**
 - **Han Kuo-yu 15.6%**[^28]
 
-Chiang Wan-an superó a Lu Hsiu-yan. Donovan Smith escribió en su columna del *Taipei Times* del 25 de abril que "sus números en las encuestas se han estado erosionando lentamente".[^28] En el mismo artículo señaló dos claves: Chiang Wan-an obtuvo puntuaciones altas en la gestión municipal de Taipei (una encuesta de Formosa mostró una satisfacción municipal del 62.6% para Chiang frente al 48.7% de Lu); y que Chiang, al igual que Lu, seguía una ruta moderada, pero con una imagen de edad y urbanidad que apelaba más directamente a los votantes jóvenes.
+Chiang Wan-an superó a Lu Hsiu-yan. Donovan Smith escribió en su columna del _Taipei Times_ del 25 de abril que "sus números en las encuestas se han estado erosionando lentamente".[^28] En el mismo artículo señaló dos claves: Chiang Wan-an obtuvo puntuaciones altas en la gestión municipal de Taipei (una encuesta de Formosa mostró una satisfacción municipal del 62.6% para Chiang frente al 48.7% de Lu); y que Chiang, al igual que Lu, seguía una ruta moderada, pero con una imagen de edad y urbanidad que apelaba más directamente a los votantes jóvenes.
 
 Para la "reina invicta", esta era la primera vez en más de 30 años de carrera política que aparecía un oponente al que no podía desplazar. Podía ganar a los caciques locales, a los señores feudales regionales, a los veteranos del partido, pero no podía ganar a un alcalde de Taipei 17 años más joven que ella y con una línea política que se solapaba con la suya.
 

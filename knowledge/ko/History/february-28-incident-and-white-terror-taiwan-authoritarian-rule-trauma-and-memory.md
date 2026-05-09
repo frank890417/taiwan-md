@@ -10,7 +10,7 @@ featured: true
 lastVerified: 2026-03-31
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'History/二二八事件.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:634ee0a75c18646d'
 sourceBodyHash: 'sha256:af07edaeaadb2899'
 translatedAt: '2026-04-14T04:54:47+08:00'

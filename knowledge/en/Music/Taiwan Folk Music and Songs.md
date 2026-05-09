@@ -18,7 +18,7 @@ lastHumanReview: false
 description: "In 1996, the Atlanta Olympics opening ceremony carried the ancient chant of an Amis elder from Taiwan — but Kuo Ying-nan only learned he had been heard by 65 million people two years later, through a lawsuit. This absurd story mirrors the fate of Taiwan's folk music: silenced repeatedly under colonialism, yet always finding its way back to the world's ears."
 readingTime: 8
 translatedFrom: 'Music/台灣民謠與歌謠.md'
-sourceCommitSha: '800114ea'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
 sourceBodyHash: 'sha256:943159c3ad5fba6c'
 translatedAt: '2026-05-01T14:11:02+08:00'

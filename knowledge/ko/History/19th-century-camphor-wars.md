@@ -18,8 +18,8 @@ lastVerified: 2026-04-25
 lastHumanReview: false
 featured: false
 translatedFrom: History/19世紀的樟腦戰爭.md
-sourceCommitSha: 3aba2ea3
-sourceContentHash: sha256:0a0b650eeeb1074e
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0a0b650eeeb1074e'
 sourceBodyHash: 'sha256:308ab8066ca9a9d0'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---

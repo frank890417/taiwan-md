@@ -9,8 +9,8 @@ lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
 translatedFrom: People/林懷民.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:90c4912ca48f7ecb
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:42fcc41544e48198'
 sourceBodyHash: 'sha256:13ac312ffbbbdc9b'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People

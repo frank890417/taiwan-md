@@ -10,7 +10,7 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Culture/台灣老街文化與商業街區.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:979c4f4ab814a0ca'
 sourceBodyHash: 'sha256:58eb03f7f8ab81ca'
 translatedAt: '2026-05-01T18:02:56+08:00'

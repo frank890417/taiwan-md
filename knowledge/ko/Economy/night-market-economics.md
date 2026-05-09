@@ -10,7 +10,7 @@ readingTime: 12
 featured: false
 translatedFrom: 'Economy/夜市經濟學.md'
 lastVerified: 2026-03-21
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0fad49e81799ba5a'
 sourceBodyHash: 'sha256:3e5dc2a574d892a7'
 translatedAt: '2026-04-14T08:28:14+08:00'

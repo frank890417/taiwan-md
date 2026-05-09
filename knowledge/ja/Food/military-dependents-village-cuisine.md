@@ -14,7 +14,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_p
 imageAlt: '葱油餅（ネギ入りパンケーキ）'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9da552eaab0e9bd8'
 sourceBodyHash: 'sha256:3bb2b7ca8725757b'
 translatedAt: '2026-05-01T18:02:56+08:00'

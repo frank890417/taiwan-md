@@ -10,7 +10,7 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '2acf410b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
 translatedAt: '2026-05-02T02:50:54+08:00'

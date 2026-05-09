@@ -16,8 +16,8 @@ readingTime: 8
 lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: Nature/黑面琵鷺.md
-sourceCommitSha: 21335999
-sourceContentHash: sha256:8cef581f5392bc2b
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8cef581f5392bc2b'
 sourceBodyHash: 'sha256:445b5720cbf0d2d9'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---

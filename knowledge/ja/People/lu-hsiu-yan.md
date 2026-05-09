@@ -5,13 +5,14 @@ date: 2026-05-03
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '政治人物'
-tags: ['政治人物', '台中市長', '中国国民党', '不敗の女王', 'ママ市長', '2028年大選']
+tags:
+  ['政治人物', '台中市長', '中国国民党', '不敗の女王', 'ママ市長', '2028年大選']
 readingTime: 14
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/盧秀燕.md'
-sourceCommitSha: '96c653f7'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d371b7109756e14d'
 sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: '2026-05-03T23:14:06+08:00'

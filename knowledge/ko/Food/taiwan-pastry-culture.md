@@ -21,9 +21,9 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: Food/台灣糕餅文化.md
-sourceCommitSha: 7632201f
-sourceContentHash: sha256:bdb405b92fc10596
-sourceBodyHash: sha256:c6a86f733ba033b1
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:bdb405b92fc10596'
+sourceBodyHash: 'sha256:c6a86f733ba033b1'
 translatedAt: 2026-05-03T23:14:06+08:00
 ---
 

@@ -17,8 +17,8 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'People/林強.md'
-sourceCommitSha: '2f191274'
-sourceContentHash: 'sha256:b7a8166bcc17bf2b'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:a8fc4383d9d485f8'
 sourceBodyHash: 'sha256:d49e5d04c317a204'
 translatedAt: '2026-05-02T11:00:00+08:00'
 ---

@@ -2,7 +2,7 @@
 title: 'Hsu Mei-hua: Ten Years of an Anonymous Civic Pseudonym, from Anti-Tsinghua Unigroup to the Great Recall'
 description: '"Hsu Mei-hua" is not a real name but a pseudonym that appeared at two critical moments in Taiwan''s civil society — in 2015 as one of the "Four Horsemen" who helped block China''s Tsinghua Unigroup from acquiring Taiwan''s semiconductor packaging giants, and in 2025 as the most counter-intuitive "funding hub" of the Great Recall wave: handling not a single cent herself, yet coordinating over twenty million New Taiwan dollars in civic donations.'
 translatedFrom: 'People/許美華.md'
-sourceCommitSha: 'fb9ddcae'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1b5d90dfca7bb147'
 sourceBodyHash: 'sha256:e380720def0effee'
 translatedAt: '2026-05-01T12:53:58+08:00'

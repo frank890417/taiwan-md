@@ -20,8 +20,8 @@ readingTime: 12
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'People/唐鳳.md'
-sourceCommitSha: '32e53d5b'
-sourceContentHash: 'sha256:eaf0eba2e4a68e41'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:a082c7ac24170454'
 sourceBodyHash: 'sha256:c6c324b6990ea5dc'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---

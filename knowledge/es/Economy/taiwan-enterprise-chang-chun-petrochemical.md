@@ -10,7 +10,7 @@ lastVerified: 2026-03-20
 lastHumanReview: 'true'
 featured: 'false'
 translatedFrom: 'Economy/台灣企業：長春石化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a4e3dd0ffdb02185'
 sourceBodyHash: 'sha256:36b0a9584ba9eefb'
 translatedAt: '2026-05-01T22:19:10+08:00'

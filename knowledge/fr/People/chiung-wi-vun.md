@@ -16,8 +16,8 @@ featured: false
 lastVerified: 2026-03-23
 readingTime: 8
 translatedFrom: 'People/蔣為文.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:1881b8ae5fd55c43'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:46faaa4a99788548'
 sourceBodyHash: 'sha256:161cfe479ea8068c'
 translatedAt: '2026-04-14T19:17:00+08:00'
 ---

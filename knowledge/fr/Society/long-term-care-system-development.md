@@ -18,7 +18,7 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c735ef0db3cd23ac'
 sourceBodyHash: 'sha256:738376ef61832978'
 translatedAt: '2026-04-14T12:32:34+08:00'

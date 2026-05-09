@@ -17,8 +17,8 @@ category: 'People'
 lastVerified: 2026-03-30
 lastHumanReview: false
 translatedFrom: People/杜奕瑾.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:bfd44714801a9d19
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:c0f750e52c0448dd'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---

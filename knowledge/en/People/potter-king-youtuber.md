@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'People/波特王.md'
-sourceCommitSha: 'fcfe3aef'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f007d55cb9bbfd03'
 sourceBodyHash: 'sha256:08c56227ca69228f'
 translatedAt: '2026-05-01T12:21:52+08:00'

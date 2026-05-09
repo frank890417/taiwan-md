@@ -5,13 +5,22 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Lifestyle'
 subcategory: '城市生活'
-tags: ['生活', 'コンビニエンスストア', 'セブンイレブン', 'ファミリーマート', 'デリ', 'コンビニ文化', '現代生活']
+tags:
+  [
+    '生活',
+    'コンビニエンスストア',
+    'セブンイレブン',
+    'ファミリーマート',
+    'デリ',
+    'コンビニ文化',
+    '現代生活',
+  ]
 readingTime: 7
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: '14c7b362'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1147dce03206caa1'
 sourceBodyHash: 'sha256:66d64e8d30fb65b6'
 translatedAt: '2026-05-03T23:14:06+08:00'

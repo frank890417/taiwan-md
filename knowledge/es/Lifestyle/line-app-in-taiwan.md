@@ -19,8 +19,8 @@ readingTime: 15
 lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: Lifestyle/LINE.md
-sourceCommitSha: 21335999
-sourceContentHash: sha256:e36f0dcb06bdb5d7
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:e36f0dcb06bdb5d7'
 sourceBodyHash: 'sha256:45c225df72a18f73'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---

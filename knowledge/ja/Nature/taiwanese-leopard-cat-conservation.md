@@ -10,7 +10,7 @@ lastVerified: '2026-03-30'
 lastHumanReview: true
 featured: false
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:51b6f9aa87c5e972'
 sourceBodyHash: 'sha256:ef03963755b1efd7'
 translatedAt: '2026-05-01T18:09:43+08:00'

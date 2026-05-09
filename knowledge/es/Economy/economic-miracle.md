@@ -1,19 +1,26 @@
 ---
-title: "El milagro económico"
-description: "En 1952, el PIB per cápita de Taiwán era de apenas 196 dólares, más bajo que el de Haití. Cuarenta años después, Taiwán se convirtió en el líder de los «cuatro tigres asiáticos», con un PIB per cápita superior a los 10.000 dólares. Pero, ¿cuál fue el precio de este «milagro»? Cuando alabamos la época en que «los dólares llegaban hasta los tobillos» en Taiwán, pocos hablan de las obreras que trabajaban 12 horas diarias en las zonas de procesamiento para la exportación, ni de los dueños de pequeñas fábricas que apostaron los ahorros de toda su vida."
+title: 'El milagro económico'
+description: 'En 1952, el PIB per cápita de Taiwán era de apenas 196 dólares, más bajo que el de Haití. Cuarenta años después, Taiwán se convirtió en el líder de los «cuatro tigres asiáticos», con un PIB per cápita superior a los 10.000 dólares. Pero, ¿cuál fue el precio de este «milagro»? Cuando alabamos la época en que «los dólares llegaban hasta los tobillos» en Taiwán, pocos hablan de las obreras que trabajaban 12 horas diarias en las zonas de procesamiento para la exportación, ni de los dueños de pequeñas fábricas que apostaron los ahorros de toda su vida.'
 date: 2026-03-23
 author: Taiwan.md
 category: Economy
 subcategory: '經濟發展'
-tags: ["Economy", "Economía taiwanesa", "Pequeñas y medianas empresas", "Parques científicos", "Semiconductores"]
+tags:
+  [
+    'Economy',
+    'Economía taiwanesa',
+    'Pequeñas y medianas empresas',
+    'Parques científicos',
+    'Semiconductores',
+  ]
 readingTime: 10
 lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
 translatedFrom: Economy/經濟奇蹟.md
-sourceCommitSha: 14c7b362
-sourceContentHash: sha256:18f44148c9c813dd
-sourceBodyHash: sha256:418b6e8bc018ebdd
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:18f44148c9c813dd'
+sourceBodyHash: 'sha256:418b6e8bc018ebdd'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 

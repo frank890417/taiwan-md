@@ -13,8 +13,8 @@ lastVerified: 2026-05-02
 lastHumanReview: false
 category: 'Technology'
 translatedFrom: 'Technology/台灣機器人產業.md'
-sourceCommitSha: 'fa95d5e0'
-sourceContentHash: 'sha256:a91d10affc55d5fd'
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:1474f16951c52f9b'
 sourceBodyHash: 'sha256:e0fcab720b26db10'
 translatedAt: '2026-05-02T10:00:00+08:00'
 ---

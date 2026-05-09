@@ -18,8 +18,8 @@ featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
 translatedFrom: Food/台灣手路菜.md
-sourceCommitSha: ae9e1b75
-sourceContentHash: sha256:0472e30648b041f9
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:df198d59161b9af6'
 sourceBodyHash: 'sha256:36f30f4b81431a3f'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---

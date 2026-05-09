@@ -10,7 +10,7 @@ readingTime: 8
 featured: true
 translatedFrom: 'Society/環保與永續發展.md'
 lastVerified: 2026-03-21
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
 translatedAt: '2026-04-14T06:03:39+08:00'

@@ -1,7 +1,7 @@
 ---
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:0bba0af0611bfce8'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0b2e856857f62b1e'
 sourceBodyHash: 'sha256:e5a7aa30573d4059'
 translatedAt: '2026-05-01T14:11:02+08:00'
 title: "History of Taiwan's MRT Development: An Urban Evolution Written in Blood and Money"

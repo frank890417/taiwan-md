@@ -2,7 +2,19 @@
 title: "Psychological Warfare: From Kinmen's Broadcasting Walls to the Paradigm Shift of AI Cognitive Operations"
 description: "From the 1960s' Deng Lijun appeals and 'surrender food' dropped by balloons on Kinmen to the 2026 digital era's information penetration and AI cognitive manipulation, cross-strait psychological warfare has evolved from physical material incentives to digital semantic offense and defense. This article thoroughly梳理s the historical context of Taiwan's psychological warfare against China, specific material lists, and contrasts the challenges of the current AI industrialization stage."
 date: 2026-05-03
-tags: ['psychological warfare', 'cognitive warfare', 'Kinmen', 'Deng Lijun', 'dropped items', 'surrender food', 'AI deepfake', 'information warfare', 'cross-strait relations', 'Voice of Free China']
+tags:
+  [
+    'psychological warfare',
+    'cognitive warfare',
+    'Kinmen',
+    'Deng Lijun',
+    'dropped items',
+    'surrender food',
+    'AI deepfake',
+    'information warfare',
+    'cross-strait relations',
+    'Voice of Free China',
+  ]
 subcategory: 'Media and Speech'
 author: 'Taiwan.md Contributors'
 category: 'History'
@@ -10,8 +22,8 @@ readingTime: 8
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: '053efd9a'
-sourceContentHash: 'sha256:d64911e3fd5d8404'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
 translatedAt: '2026-05-03T21:35:48+08:00'
 ---
@@ -35,12 +47,12 @@ Kinmen's **Mashan Observation Post** and **Beishan Broadcasting Wall** were the 
 
 Dropped item operations were not merely about distributing leaflets; they were a visual and material exhibition of "modern life."
 
-| Category | Specific Material List [^5] [^11] | Psychological Intent |
-| :----------- | :--------------------------------------------------------- | :----------------------------------------------- |
-| **Surrender Food** | **Pineapple cakes, instant noodles (with seasoning packets), dried meat, sugar, pork fat cans, rations** | Demonstrates the development of Taiwan's food industry and extreme abundance of materials. |
-| **Daily Necessities** | **Small crystal radios, watches, fountain pens, nail clippers, underwear, towels** | Radios were used to encourage "listening to enemy stations"; clothing displayed textile industry achievements. |
-| **Medical Supplies** | **Tiger Balm, cold medicine, band-aids** | Reflects care for the "physical health" of mainland compatriots and the gap in medical standards. |
-| **Political Credentials** | **Photos of Chiang Kai-shek, Surrender Certificates (guaranteeing gold and positions)** | Provides a political safe haven and specific economic opportunities for turning over [^6]. |
+| Category                  | Specific Material List [^5] [^11]                                                                        | Psychological Intent                                                                                           |
+| :------------------------ | :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
+| **Surrender Food**        | **Pineapple cakes, instant noodles (with seasoning packets), dried meat, sugar, pork fat cans, rations** | Demonstrates the development of Taiwan's food industry and extreme abundance of materials.                     |
+| **Daily Necessities**     | **Small crystal radios, watches, fountain pens, nail clippers, underwear, towels**                       | Radios were used to encourage "listening to enemy stations"; clothing displayed textile industry achievements. |
+| **Medical Supplies**      | **Tiger Balm, cold medicine, band-aids**                                                                 | Reflects care for the "physical health" of mainland compatriots and the gap in medical standards.              |
+| **Political Credentials** | **Photos of Chiang Kai-shek, Surrender Certificates (guaranteeing gold and positions)**                  | Provides a political safe haven and specific economic opportunities for turning over [^6].                     |
 
 📝 **Curator's Note**: The "instant noodles" in the dropped items were a highly shocking symbol in mainland China at that time. This industrial product, ready to eat upon opening and featuring multiple seasoning packets, represented an unimaginable "efficiency" and "abundance" to mainland citizens still under the rationing system.
 

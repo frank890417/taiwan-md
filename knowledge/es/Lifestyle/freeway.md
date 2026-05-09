@@ -4,13 +4,21 @@ description: 'En 1964, la carretera MacArthur solo tenía 23 kilómetros; hoy la
 date: '2026-05-03'
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-tags: ['Autopista nacional', 'Infraestructura de transporte', 'Diez Grandes Proyectos de Construcción', 'Túnel de Xueshan', 'ETC', 'Taiwán de posguerra']
+tags:
+  [
+    'Autopista nacional',
+    'Infraestructura de transporte',
+    'Diez Grandes Proyectos de Construcción',
+    'Túnel de Xueshan',
+    'ETC',
+    'Taiwán de posguerra',
+  ]
 readingTime: '10'
 lastVerified: '2026-05-03'
 lastHumanReview: 'false'
 featured: 'false'
 translatedFrom: 'Lifestyle/高速公路.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5a8bf0cfcaa7dbd2'
 sourceBodyHash: 'sha256:6f25b03f0ed1d8d2'
 translatedAt: '2026-05-03T21:10:09+08:00'
@@ -39,7 +47,7 @@ El 14 de agosto de 1971 comenzó la construcción de la autopista Zhongshan.
 
 Fue el primero y el más grande de los "Diez Grandes Proyectos de Construcción" de Chiang Ching-kuo. Diseñada desde Keelung hasta Kaohsiung, con una longitud total de 373 kilómetros y cuatro carriles bidireccionales, su fecha de finalización se fijó políticamente para el 31 de octubre de 1978 —el aniversario del nacimiento de Chiang Kai-shek— y fue bautizada como "autopista nacional Zhongshan"[^2][^3][^10].
 
-La dificultad de la obra sigue siendo asombrosa hoy: en aquel entonces Taiwán ni siquiera contaba con normativas de diseño de autopistas; el equipo de ingenieros traducía sobre la marcha estándares japoneses y estadounidenses mientras construían, y muchos puentes y terraplenes se diseñaron "desde cero"[^10]. El puente Zhongsha, la pendiente de Yangmei, el tramo de lutita de Houlong: cada sección tiene su propia historia de ingeniería. En la publicación conmemorativa de historia oral *El camino de la gran vía* (*大道之行*), compilada por la Dirección General de Autopistas Nacionales, los ingenieros de la época recordaban: "No estábamos construyendo una carretera; estábamos aprendiendo a construir una carretera"[^10].
+La dificultad de la obra sigue siendo asombrosa hoy: en aquel entonces Taiwán ni siquiera contaba con normativas de diseño de autopistas; el equipo de ingenieros traducía sobre la marcha estándares japoneses y estadounidenses mientras construían, y muchos puentes y terraplenes se diseñaron "desde cero"[^10]. El puente Zhongsha, la pendiente de Yangmei, el tramo de lutita de Houlong: cada sección tiene su propia historia de ingeniería. En la publicación conmemorativa de historia oral _El camino de la gran vía_ (_大道之行_), compilada por la Dirección General de Autopistas Nacionales, los ingenieros de la época recordaban: "No estábamos construyendo una carretera; estábamos aprendiendo a construir una carretera"[^10].
 
 > **💡 ¿Sabías que...?**
 > La autopista Zhongshan fue planificada originalmente con un diseño de "cruce a nivel", no como un verdadero sistema cerrado. Durante la construcción se modificó a un estándar de autopista completamente cerrada con cruces a desnivel —lo que significó que muchos tramos tuvieron que rediseñarse mientras ya se estaban construyendo, un caso extremadamente raro de "cambio de especificaciones sobre la marcha" en ingeniería[^4][^10].

@@ -10,8 +10,8 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 translatedFrom: "People/李智凱.md"
-sourceCommitSha: "d4498d97"
-sourceContentHash: "sha256:40c8b34419f44594"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
 translatedAt: "2026-04-14T19:15:26+08:00"
 ---

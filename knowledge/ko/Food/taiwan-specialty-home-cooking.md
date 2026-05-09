@@ -13,8 +13,8 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sanbeiji.jpg/9
 imageAlt: '삼배계(三杯雞)'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣手路菜.md'
-sourceCommitSha: 'ae9e1b75'
-sourceContentHash: 'sha256:0472e30648b041f9'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:df198d59161b9af6'
 sourceBodyHash: 'sha256:36f30f4b81431a3f'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---

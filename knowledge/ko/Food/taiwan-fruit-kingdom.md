@@ -23,7 +23,7 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Food/台灣水果王國.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cec5a64527d2ad7f'
 sourceBodyHash: 'sha256:c88724fc04366f08'
 translatedAt: '2026-04-14T03:55:14+08:00'

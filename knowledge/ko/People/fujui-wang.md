@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false
 translatedFrom: 'People/王福瑞.md'
-sourceCommitSha: '1d4c3c5b2'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2d1b677b9d0d7556'
 sourceBodyHash: 'sha256:e7a331b288e86525'
 translatedAt: '2026-05-05T00:33:23+08:00'

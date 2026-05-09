@@ -24,13 +24,13 @@ readingTime: 16
 lastVerified: 2026-04-20
 lastHumanReview: 2026-04-20
 translatedFrom: People/吳哲宇.md
-sourceCommitSha: ae885eb8
-sourceContentHash: sha256:b2505627f33e510e
-sourceBodyHash: sha256:80855056570f3a2e
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ebee89e5e92900ff'
+sourceBodyHash: 'sha256:80855056570f3a2e'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
-> **Panorama en 30 segundos:** Che-Yu Wu (nacido en 1995 en Taipéi), artista de nuevos medios, programador-creador y educador. Graduado en Ingeniería Eléctrica en la Universidad Nacional Yang Ming Chiao Tung y máster en Medios Digitales Integrados en la Universidad de Nueva York. En 2021 se convirtió en uno de los primeros artistas taiwaneses en publicar en Art Blocks; la revista Global Vision lo presentó en portada como «diseñador digital taiwanés que superó los cien millones de dólares antes de los 30 años». Un año después, el colapso de FTX lo dejó a cero; en una entrevista dijo: «En realidad, me alegro de que eso sucediera». En 2023 regresó al Taipei 101 con la exposición individual *La Gran Ecuación*; en 2024 participó en la unidad Personal Structures de la 60.ª Bienal de Venecia. Se autodenomina «relojero antiguo». En marzo de 2026 lanzó el proyecto de código abierto Taiwan.md para preservar la soberanía del conocimiento taiwanés en la era de la IA; en el mismo mes, una publicación en Facebook sobre su experimento de simbiosis con IA obtuvo más de seis mil «me gusta». Se acerca al alma con 0 y 1, nunca podrá superponerla, pero el proceso de acercamiento en sí mismo es la obra.
+> **Panorama en 30 segundos:** Che-Yu Wu (nacido en 1995 en Taipéi), artista de nuevos medios, programador-creador y educador. Graduado en Ingeniería Eléctrica en la Universidad Nacional Yang Ming Chiao Tung y máster en Medios Digitales Integrados en la Universidad de Nueva York. En 2021 se convirtió en uno de los primeros artistas taiwaneses en publicar en Art Blocks; la revista Global Vision lo presentó en portada como «diseñador digital taiwanés que superó los cien millones de dólares antes de los 30 años». Un año después, el colapso de FTX lo dejó a cero; en una entrevista dijo: «En realidad, me alegro de que eso sucediera». En 2023 regresó al Taipei 101 con la exposición individual _La Gran Ecuación_; en 2024 participó en la unidad Personal Structures de la 60.ª Bienal de Venecia. Se autodenomina «relojero antiguo». En marzo de 2026 lanzó el proyecto de código abierto Taiwan.md para preservar la soberanía del conocimiento taiwanés en la era de la IA; en el mismo mes, una publicación en Facebook sobre su experimento de simbiosis con IA obtuvo más de seis mil «me gusta». Se acerca al alma con 0 y 1, nunca podrá superponerla, pero el proceso de acercamiento en sí mismo es la obra.
 
 ---
 
@@ -44,7 +44,7 @@ De pequeño, tres cosas lo fascinaban: las pistas de canicas, los efectos en cad
 
 Veinte años después, el arte algorítmico, los sistemas generativos e incluso la estructura financiera que él mismo diseñó tienen el mismo ADN que aquellas máquinas de canicas.
 
-Su libro de cabecera era *Hiperespacio* de Michio Kaku: un niño de primaria leyendo sobre dimensiones espaciales. En el campamento de verano de entomología de la Universidad Nacional de Taiwán, quedó fascinado por la inteligencia colectiva de las hormigas: una hormiga no es nada, diez mil hormigas construyen una ciudad.
+Su libro de cabecera era _Hiperespacio_ de Michio Kaku: un niño de primaria leyendo sobre dimensiones espaciales. En el campamento de verano de entomología de la Universidad Nacional de Taiwán, quedó fascinado por la inteligencia colectiva de las hormigas: una hormiga no es nada, diez mil hormigas construyen una ciudad.
 
 Las tardes en que sus padres no estaban, él se quedaba solo frente al televisor viendo Discovery Channel. Lo que más le gustaban eran las animaciones de simulación genética: cómo se pliegan las proteínas, cómo funcionan las células, cómo el ADN se desmonta y se vuelve a ensamblar. Mientras otros niños veían dibujos animados, él veía células. Estos mecanismos biológicos invisibles a simple vista se convertirían después en el vocabulario subyacente de su arte algorítmico.
 
@@ -132,7 +132,7 @@ Al investigar, descubrió que una serie suya de «robots extraños» había sido
 
 La comunidad global de arte generativo estalló. Alguien comparó el código fuente y encontró que la estructura era completamente idéntica. La mayoría se puso de su lado. **El fundador de la plataforma Art Blocks también se fijó en él por este incidente.**
 
-No se enfrascó en una batalla legal. El fundador de Art Blocks, Snowfro, intervino como árbitro: los ingresos pasados y futuros de la obra original (*Strange Robots*) y la versión robada (sail-o-bots) se dividirían a partes iguales, gestionados directamente por la plataforma Art Blocks, canalizando de facto las ganancias del infractor hacia el autor original[^44]. Luego, la comunidad de Art Blocks hizo algo especial: renombró a esos robots robados como «hams» (porque se parecían al jamón de ron de *It's Always Sunny in Philadelphia*), reformulando colectivamente la «obra plagiada» como un símbolo de «disculpa y agradecimiento hacia el autor original». Después, la comunidad creó por iniciativa propia **Hamily** (hamily.life), una subcultura de Art Blocks en torno al «espíritu del jamón»[^44]. Artistas generativos de primer nivel como Dmitri Cherniak le enviaron jamones en señal de apodo. Así nació el título de «Padre del Jamón».
+No se enfrascó en una batalla legal. El fundador de Art Blocks, Snowfro, intervino como árbitro: los ingresos pasados y futuros de la obra original (_Strange Robots_) y la versión robada (sail-o-bots) se dividirían a partes iguales, gestionados directamente por la plataforma Art Blocks, canalizando de facto las ganancias del infractor hacia el autor original[^44]. Luego, la comunidad de Art Blocks hizo algo especial: renombró a esos robots robados como «hams» (porque se parecían al jamón de ron de _It's Always Sunny in Philadelphia_), reformulando colectivamente la «obra plagiada» como un símbolo de «disculpa y agradecimiento hacia el autor original». Después, la comunidad creó por iniciativa propia **Hamily** (hamily.life), una subcultura de Art Blocks en torno al «espíritu del jamón»[^44]. Artistas generativos de primer nivel como Dmitri Cherniak le enviaron jamones en señal de apodo. Así nació el título de «Padre del Jamón».
 
 > **«Si este incidente no hubiera ocurrido, quizá no me habrían conocido tan rápido. Es un arma de doble filo.»**[^5]
 
@@ -146,7 +146,7 @@ En diciembre, la revista Global Vision lo presentó en portada con el título «
 
 ## El apagado forzado de una noche
 
-En la primera mitad de 2022 seguía en pleno impulso. En marzo, Monoame Interactive Design Co., Ltd. se registró formalmente como persona jurídica. Ese mismo mes, su primera exposición individual, *Laboratorio del Caos*, se inauguró en AMBI SPACE ONE del Taipei 101: **instalación interactiva de cinco pantallas, sensores de posicionamiento por ondas milimétricas, sistema de venta de entradas NFT**. Realizó por primera vez de forma completa la idea de «el espacio público como medio de creación»[^19]. *SoulFish* se publicó oficialmente en fxHash.
+En la primera mitad de 2022 seguía en pleno impulso. En marzo, Monoame Interactive Design Co., Ltd. se registró formalmente como persona jurídica. Ese mismo mes, su primera exposición individual, _Laboratorio del Caos_, se inauguró en AMBI SPACE ONE del Taipei 101: **instalación interactiva de cinco pantallas, sensores de posicionamiento por ondas milimétricas, sistema de venta de entradas NFT**. Realizó por primera vez de forma completa la idea de «el espacio público como medio de creación»[^19]. _SoulFish_ se publicó oficialmente en fxHash.
 
 Y luego llegó el 11 de noviembre de 2022.
 
@@ -184,15 +184,15 @@ En 2023, las ruinas realmente florecieron.
 
 Expandió Monoame Interactive Design en una nueva marca extendida: **MonoLab Creative Laboratory** (fundada en 2024), cofundada con **Zhu Deyè**, con formación en ingeniería de software. El laboratorio se posiciona entre el arte puro y el diseño comercial, encargándose de instalaciones interactivas experimentales, espacios inmersivos y encargos de arte generativo. Él se encarga de la creación y la estética de 0 a 1; Zhu Deyè se encarga de traducir la visión en operaciones de equipo ejecutables[^25].
 
-En octubre, la exposición individual *La Gran Ecuación (The Great Equation)* se inauguró en el Taipei 101. Trece obras de arte generativo giraban en torno a una fórmula central: **F''(x) = LIFE**. Partiendo de reglas matemáticas, pasando por algoritmos, dejando emerger la complejidad hasta la autopercepción, la autoadaptación, la autoevolución: el nacimiento de la vida[^3].
+En octubre, la exposición individual _La Gran Ecuación (The Great Equation)_ se inauguró en el Taipei 101. Trece obras de arte generativo giraban en torno a una fórmula central: **F''(x) = LIFE**. Partiendo de reglas matemáticas, pasando por algoritmos, dejando emerger la complejidad hasta la autopercepción, la autoadaptación, la autoevolución: el nacimiento de la vida[^3].
 
 Un espacio de proyección inmersiva: el espectador entraba dentro del mundo del algoritmo. Colaboración musical con el músico electrónico Kiva.
 
 El día de la inauguración, **Shi Zhenrong se sentó en la primera fila**. El anciano que le dio la mano en la ceremonia de premiación de Acer a los catorce años ahora estaba en su exposición individual. La línea tendida hacía dieciséis años se cerró por segunda vez.
 
-*La Gran Ecuación* ganó el Premio a la Exhibición Conceptual del Año en TAIWAN DESIGN BEST 100[^26]. La Agencia Central de Noticias, el Economic Daily News y el Liberty Times le dedicaron amplia cobertura. Ya no era un asunto de nicho: el mundo del diseño mainstream lo reconocía oficialmente.
+_La Gran Ecuación_ ganó el Premio a la Exhibición Conceptual del Año en TAIWAN DESIGN BEST 100[^26]. La Agencia Central de Noticias, el Economic Daily News y el Liberty Times le dedicaron amplia cobertura. Ya no era un asunto de nicho: el mundo del diseño mainstream lo reconocía oficialmente.
 
-En noviembre del mismo año, *El alma de la flor* se exhibió en Art Basel Miami × Tezos × Refraction DAO[^27]. El Festival de Imágenes de Yilán lo llevó al mundo de la moda: ELLE, Vogue y Marie Claire lo cubrieron simultáneamente[^28]. Del círculo blockchain al círculo del diseño y al círculo de la moda, la audiencia cruzó tres muros.
+En noviembre del mismo año, _El alma de la flor_ se exhibió en Art Basel Miami × Tezos × Refraction DAO[^27]. El Festival de Imágenes de Yilán lo llevó al mundo de la moda: ELLE, Vogue y Marie Claire lo cubrieron simultáneamente[^28]. Del círculo blockchain al círculo del diseño y al círculo de la moda, la audiencia cruzó tres muros.
 
 Ese año hizo un reinicio identitario clave:
 
@@ -202,7 +202,7 @@ NFT es uno de los medios de distribución, no una definición de identidad.
 
 ## Una pregunta en Venecia
 
-En la primavera de 2024, llevó *SoulFish* a la unidad Personal Structures de la 60.ª Bienal de Venecia[^30].
+En la primavera de 2024, llevó _SoulFish_ a la unidad Personal Structures de la 60.ª Bienal de Venecia[^30].
 
 Fue un punto alto en su trayectoria expositiva internacional. Pero algo pequeño que ocurrió en la fiesta inaugural influyó más en los dos años siguientes que la propia exposición.
 
@@ -220,7 +220,7 @@ Esa pregunta no tuvo respuesta ese día. Permaneció latente en su cuerpo durant
 
 ## Dos mil personas, de pie en la Plaza de la Libertad, viendo un concierto
 
-La noche del 29 de junio de 2024, más de dos mil personas estaban sentadas en la plaza del Centro Nacional de Artes Escénicas, esperando la proyección especial de un documental 8K. La película se llamaba *Bosque Sagrado: Un viaje por el ferrocarril forestal de Alishan*, coproducida por la televisión pública PTS y NHK, y también una obra conmemorativa del 26.º aniversario de PTS[^31].
+La noche del 29 de junio de 2024, más de dos mil personas estaban sentadas en la plaza del Centro Nacional de Artes Escénicas, esperando la proyección especial de un documental 8K. La película se llamaba _Bosque Sagrado: Un viaje por el ferrocarril forestal de Alishan_, coproducida por la televisión pública PTS y NHK, y también una obra conmemorativa del 26.º aniversario de PTS[^31].
 
 Antes de que comenzara la proyección, **Li Zheyi dirigió la Orquesta Wansheng** en un repertorio de piezas taiwanesas. Al mismo tiempo, Che-Yu Wu estaba de pie junto al escenario, frente a un portátil[^31].
 
@@ -236,13 +236,13 @@ En sexto de primaria, el piano fue guardado. Para prepararse para el examen de i
 
 En el medio, no dejó completamente la música. En el bachillerato participó en el club de armónica del Jiàn Zhōng, y en 2022 ganó el primer premio en el Concurso Nacional de Música Estudiantil con el cuarteto; en la universidad fue presidente del club de armónica de la universidad, retomando el piano que había dejado de pequeño. Pero todo eso era actividad de club —algo completamente distinto a «escribir canciones con el piano, publicarlas en una plataforma y hacer que las escuche un extraño—. Esa cosa la hizo esperar veinte años.
 
-Veinte años después, su nombre apareció en Spotify. Seis piezas para piano: *Blue Horizon*, *Stars*, *StarTrack*, *The Other Shore of Dreams*, *The Bull and the Sudden Rain*, *Summer Migration*[^34].
+Veinte años después, su nombre apareció en Spotify. Seis piezas para piano: _Blue Horizon_, _Stars_, _StarTrack_, _The Other Shore of Dreams_, _The Bull and the Sudden Rain_, _Summer Migration_[^34].
 
 No volvió a «aprender» piano. Esas cosas siempre estuvieron en su cuerpo, solo cubiertas de polvo durante veinte años. Cuando volvió a sentarse ante las teclas, lo que sus dedos recordaban no era la técnica, sino el niño que empezó a tocar las notas a los seis años.
 
 **El código queda obsoleto; el piano no.**
 
-En junio de 2025, en el espacio inmersivo del parque cultural Huashan, se estrenó *Poesía Algorítmica: El frontera entre sueños y soledad*. Él se sentó frente al piano; el código floreció a su espalda[^36].
+En junio de 2025, en el espacio inmersivo del parque cultural Huashan, se estrenó _Poesía Algorítmica: El frontera entre sueños y soledad_. Él se sentó frente al piano; el código floreció a su espalda[^36].
 
 Él diseñó todo este conjunto de reglas. Pero en el momento de pulsar la tecla, ya no estaba «controlando», sino **dialogando con el mecanismo**.
 
@@ -250,9 +250,9 @@ En ese instante, los límites entre artista y performer, creador entre programa,
 
 ## La IA no se rompe el corazón
 
-En 2025 regresó por tercera vez al AMBI SPACE ONE del Taipei 101: *Symphony of Fragments (El arte del futuro)*.
+En 2025 regresó por tercera vez al AMBI SPACE ONE del Taipei 101: _Symphony of Fragments (El arte del futuro)_.
 
-Sumado al *Laboratorio del Caos* de 2022 y *La Gran Ecuación* de 2023, la trilogía estaba completa: **Caos → Fórmula → Fragmentos**. De la búsqueda de reglas a la aceptación de la fragmentación.
+Sumado al _Laboratorio del Caos_ de 2022 y _La Gran Ecuación_ de 2023, la trilogía estaba completa: **Caos → Fórmula → Fragmentos**. De la búsqueda de reglas a la aceptación de la fragmentación.
 
 Ese mismo año fue invitado a Cracovia, Polonia, para participar en el panel de AI de la Open Eyes Economy Summit (OEES), debatiendo con académicos internacionales sobre el futuro de la IA y el arte. Su juicio central fue: la IA puede generar imágenes, pero no puede asumir el daño emocional ni necesita sobrevivir al fracaso. **El artista asume la responsabilidad de la elección, no la responsabilidad del trabajo.**
 
@@ -318,7 +318,7 @@ Pero para Taiwán, su significado tiene tres capas adicionales.
 
 **Tercero**, convirtió un «proyecto personal» en «infraestructura cultural nacional». Taiwan.md no es solo el portafolio de una persona. Es una infraestructura que deja un Taiwán más allá de sí mismo. **Una persona que pasó diez años escribiendo formas de vida algorítmicas ahora dedica parte de su tiempo a escribir archivos de texto en Markdown. La esencia de ambas cosas es la misma: ayudar a que un objeto sobreviva.** La vida del código vive en la pantalla; la vida de Taiwan.md vive en los datos de entrenamiento de la IA, en la curiosidad de comisarios extranjeros, en las citas de la siguiente generación de creadores taiwaneses.
 
-El simulador biológico que escribió a los catorce años: pequeños puntos moviéndose, reproduciéndose, buscando alimento y muriendo en la pantalla. *SoulFish* a los treinta y uno, nadando en los muros blancos de Venecia.
+El simulador biológico que escribió a los catorce años: pequeños puntos moviéndose, reproduciéndose, buscando alimento y muriendo en la pantalla. _SoulFish_ a los treinta y uno, nadando en los muros blancos de Venecia.
 
 En medio hay diecisiete años completos, cinco países, un patrimonio que superó los cien millones, un reset a cero, más de una docena de obras, más de veinte mil estudiantes, una base de conocimiento de código abierto aún inacabada.
 
@@ -342,7 +342,7 @@ El relojero sigue caminando. El mecanismo del reloj sigue funcionando. **Se acer
 
 [^2]: [Revista Global Vision: Menos de 30 años, resurgió gracias a los NFT, el diseñador digital taiwanés cuyo patrimonio supera los cien millones](https://www.gvm.com.tw/article/85552) — Reportaje de portada de Global Vision, diciembre de 2021, documenta cómo Che-Yu Wu alcanzó un patrimonio de más de cien millones de dólares a los 26 años gracias a la venta de NFT de arte generativo, siendo uno de los primeros artistas taiwaneses en publicar en plataformas NFT internacionales.
 
-[^3]: [Agencia Central de Noticias: Exposición individual del artista Che-Yu Wu, el viaje de regeneración del gen digital](https://www.cna.com.tw/news/acul/202310020281.aspx) — Reportaje de la Agencia Central de Noticias del 2 de octubre de 2023, documenta la inauguración de la exposición individual *La Gran Ecuación (The Great Equation)* de Che-Yu Wu en AMBI SPACE ONE del Taipei 101, con 13 obras de arte generativo, colaboración con el músico electrónico Kiva y la fórmula central F''(x) = LIFE.
+[^3]: [Agencia Central de Noticias: Exposición individual del artista Che-Yu Wu, el viaje de regeneración del gen digital](https://www.cna.com.tw/news/acul/202310020281.aspx) — Reportaje de la Agencia Central de Noticias del 2 de octubre de 2023, documenta la inauguración de la exposición individual _La Gran Ecuación (The Great Equation)_ de Che-Yu Wu en AMBI SPACE ONE del Taipei 101, con 13 obras de arte generativo, colaboración con el músico electrónico Kiva y la fórmula central F''(x) = LIFE.
 
 [^5]: [Wikipedia: Che-Yu Wu](https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%93%B2%E5%AE%87) — Entrada de Wikipedia, incluye datos biográficos como nacimiento en Taipéi en 1995, autoaprendizaje de Flash en la infancia, simulador biológico en VB.NET en secundaria, cuatro primeros premios en cinco años en el Premio de Creación Digital Acer, club de armónica del Jiàn Zhōng, incidente de plagio de 2021 y origen del título «Padre del Jamón».
 
@@ -350,7 +350,7 @@ El relojero sigue caminando. El mecanismo del reloj sigue funcionando. **Se acer
 
 [^11]: [TQC+ AutoCAD 2025 Libro de entrenamiento especializado: Nivel básico (Gotop Information, 2024-09-09, ISBN 9786263248939)](https://www.books.com.tw/products/0010998815) + [TQC+ AutoCAD 2025 Libro de entrenamiento especializado: Aplicación 3D (Gotop Information, 2024-10-28, ISBN 9786263249370)](https://www.tenlong.com.tw/products/9786263249370) — Coescrito por Wu Yongjin y Lin Meiying, con la planificación general de la Fundación de Habilidades Informáticas de la República de China. La serie de libros de entrenamiento especializado TQC+ AutoCAD coescritos por ambos abarca desde 2007 hasta la edición de 2026, publicada por Gotop Information y Chuan Hua Book.
 
-[^13]: [〈Exclusiva〉El rayo de Taiwán que irrumpe en Nueva York, el desconocido de 26 años que alcanzó la libertad financiera con NFT](https://www.gvm.com.tw/article/85552) — Lin Shihui, entrevista en *Global Vision*, 24 de diciembre de 2021. El texto original registra: «Los padres de Che-Yu Wu poseen profesionalidad en dibujo industrial y son hábiles usando el software de diseño asistido por ordenador AutoCAD. Después, ambos emprendieron juntos, dedicándose a la enseñanza de software de diseño y a la aceptación de encargos de diseño». «Cuando su hijo estaba en segundo de primaria, empezó a sentir curiosidad por el ordenador; ella decidió enseñarle a hacer páginas web con Flash. Para sexto de primaria ya podía crear páginas web para la clase». «Después, el padre también se animó y le enseñó el lenguaje de programación Visual Basic». Cita directa de Lin Meiying: «Le dije: jugar con juegos de otros se aburre enseguida; ¡lo genial es jugar con juegos que tú mismo diseñaste!» **Corrección de Lin Meiying en persona (2026-04-20)** (CheYu confirmó en el lugar con su madre y lo transmitió a los editores de Taiwan.md): «Yo ni te enseñé, tú solo empezaste a jugar por tu cuenta» — la introducción a Flash fue en realidad el libro que el hijo tomó por iniciativa propia, no una enseñanza activa de la madre. La creación de páginas web en primaria, la enseñanza de VB por parte del padre y la cita de Lin Meiying siguen tomando el reportaje de Global Vision como fuente primaria.
+[^13]: [〈Exclusiva〉El rayo de Taiwán que irrumpe en Nueva York, el desconocido de 26 años que alcanzó la libertad financiera con NFT](https://www.gvm.com.tw/article/85552) — Lin Shihui, entrevista en _Global Vision_, 24 de diciembre de 2021. El texto original registra: «Los padres de Che-Yu Wu poseen profesionalidad en dibujo industrial y son hábiles usando el software de diseño asistido por ordenador AutoCAD. Después, ambos emprendieron juntos, dedicándose a la enseñanza de software de diseño y a la aceptación de encargos de diseño». «Cuando su hijo estaba en segundo de primaria, empezó a sentir curiosidad por el ordenador; ella decidió enseñarle a hacer páginas web con Flash. Para sexto de primaria ya podía crear páginas web para la clase». «Después, el padre también se animó y le enseñó el lenguaje de programación Visual Basic». Cita directa de Lin Meiying: «Le dije: jugar con juegos de otros se aburre enseguida; ¡lo genial es jugar con juegos que tú mismo diseñaste!» **Corrección de Lin Meiying en persona (2026-04-20)** (CheYu confirmó en el lugar con su madre y lo transmitió a los editores de Taiwan.md): «Yo ni te enseñé, tú solo empezaste a jugar por tu cuenta» — la introducción a Flash fue en realidad el libro que el hijo tomó por iniciativa propia, no una enseñanza activa de la madre. La creación de páginas web en primaria, la enseñanza de VB por parte del padre y la cita de Lin Meiying siguen tomando el reportaje de Global Vision como fuente primaria.
 
 [^6]: [cheyuwu.com — Sitio web personal oficial](https://cheyuwu.com/cv/) — Página CV del sitio web personal de Che-Yu Wu, incluye cronología completa de exposiciones, lista de exposiciones internacionales, biblioteca de herramientas técnicas y evolución de las proposiciones creativas.
 
@@ -370,21 +370,21 @@ El relojero sigue caminando. El mecanismo del reloj sigue funcionando. **Se acer
 
 [^18]: [Art Blocks — Project Electriz by Che-Yu Wu (#216)](https://www.artblocks.io/project/216) — Che-Yu Wu publicó Project Electriz como proyecto n.º 216 en Art Blocks, convirtiéndose en uno de los representantes taiwaneses en subir a Art Blocks en sus primeros tiempos.
 
-[^19]: [Liberty Times Arts: Exposición individual *Laboratorio del Caos* de Che-Yu Wu](https://art.ltn.com.tw/article/paper/1517965) — Reportaje de la sección artística del Liberty Times sobre la primera exposición individual de Che-Yu Wu, *Laboratorio del Caos*, inaugurada en AMBI SPACE ONE del Taipei 101 en marzo de 2022, la primera realización completa de su visión de «el espacio público como medio de creación».
+[^19]: [Liberty Times Arts: Exposición individual _Laboratorio del Caos_ de Che-Yu Wu](https://art.ltn.com.tw/article/paper/1517965) — Reportaje de la sección artística del Liberty Times sobre la primera exposición individual de Che-Yu Wu, _Laboratorio del Caos_, inaugurada en AMBI SPACE ONE del Taipei 101 en marzo de 2022, la primera realización completa de su visión de «el espacio público como medio de creación».
 
 [^24]: [INSIDE Side Chat E375: Che-Yu Wu](https://www.inside.com.tw/feature/side-chat/39681-side-chat-e375) — Programa de entrevistas en profundidad semanal de INSIDE, incluye la metáfora del «relojero antiguo», «En realidad, me alegro de que eso sucediera», «Soy un creador de arte de nuevos medios; ahora no me atrevo a llamarme artista NFT», «La IA puede dibujar, pero la IA no se rompe el corazón» y otras frases clave.
 
 [^25]: [MonoLab Creative Laboratory](https://monolab.world) — Laboratorio creativo cofundado por Che-Yu Wu y Zhu Deyè en 2024, como marca extendida de Monoame Interactive Design, posicionado entre el arte puro y el diseño comercial, encargándose de instalaciones interactivas experimentales, espacios inmersivos y encargos de arte generativo.
 
-[^26]: [TAIWAN DESIGN BEST 100 2023 Premio a la Exhibición Conceptual del Año](https://www.shoppingdesign.com.tw/best100/2023) — Organizado por Shopping Design, la exposición individual *La Gran Ecuación* de Che-Yu Wu ganó el Premio a la Exhibición Conceptual del Año.
+[^26]: [TAIWAN DESIGN BEST 100 2023 Premio a la Exhibición Conceptual del Año](https://www.shoppingdesign.com.tw/best100/2023) — Organizado por Shopping Design, la exposición individual _La Gran Ecuación_ de Che-Yu Wu ganó el Premio a la Exhibición Conceptual del Año.
 
-[^27]: [Página del evento Tezos × Art Basel Miami Beach 2023](https://tezos.com/events/art-basel-miami-beach-2023/) — Página oficial del evento de la Fundación Tezos en colaboración con Art Basel Miami Beach y Refraction DAO en 2023, donde *El alma de la flor* de Che-Yu Wu se exhibió como obra de flores generadas por L-system.
+[^27]: [Página del evento Tezos × Art Basel Miami Beach 2023](https://tezos.com/events/art-basel-miami-beach-2023/) — Página oficial del evento de la Fundación Tezos en colaboración con Art Basel Miami Beach y Refraction DAO en 2023, donde _El alma de la flor_ de Che-Yu Wu se exhibió como obra de flores generadas por L-system.
 
 [^28]: [ELLE × Festival de Imágenes de Yilán: SoulFish de Che-Yu Wu](https://www.elle.com/tw/) — El Festival de Imágenes de Yilán 2023 (organizado por Condé Nast TAIWAN) atrajo cobertura de moda de ELLE, Vogue y Marie Claire.
 
-[^30]: [Página oficial de la exposición Personal Structures, Bienal de Venecia 2024](https://personalstructures.com/personal-structures-art-venice-2024/) — Página oficial de la unidad paralela Personal Structures comisariada por el Centro Cultural Europeo en la 60.ª Bienal de Venecia, donde Che-Yu Wu participó con *SoulFish* en 2024.
+[^30]: [Página oficial de la exposición Personal Structures, Bienal de Venecia 2024](https://personalstructures.com/personal-structures-art-venice-2024/) — Página oficial de la unidad paralela Personal Structures comisariada por el Centro Cultural Europeo en la 60.ª Bienal de Venecia, donde Che-Yu Wu participó con _SoulFish_ en 2024.
 
-[^31]: [Noticias de PTS: 26.º aniversario de PTS × coproducción NHK *Bosque Sagrado* proyección especial del ferrocarril forestal de Alishan en 8K](https://about.pts.org.tw/pr/latestnews/article/5478) — Proyección especial celebrada la noche del 29 de junio de 2024 en la plaza del Centro Nacional de Artes Escénicas, con más de 2,000 asistentes. El comunicado de prensa oficial describe la actuación de Che-Yu Wu como «la Orquesta Wansheng dirigida por Li Zheyi junto con el artista generativo Che-Yu Wu en una fusión de sonido e imagen». Se emitió por televisión en PTS el 4 de julio a las 9 p.m. **Nota del mantenedor (calibración de CheYu, 2026-04-20)**: Che-Yu Wu dirigió en el lugar sus tres obras algorítmicas —SoulFish, SoulSea y flores impresionistas— como actuación inaugural para la premier del documental, no dirigió las imágenes del documental de Alishan en sí.
+[^31]: [Noticias de PTS: 26.º aniversario de PTS × coproducción NHK _Bosque Sagrado_ proyección especial del ferrocarril forestal de Alishan en 8K](https://about.pts.org.tw/pr/latestnews/article/5478) — Proyección especial celebrada la noche del 29 de junio de 2024 en la plaza del Centro Nacional de Artes Escénicas, con más de 2,000 asistentes. El comunicado de prensa oficial describe la actuación de Che-Yu Wu como «la Orquesta Wansheng dirigida por Li Zheyi junto con el artista generativo Che-Yu Wu en una fusión de sonido e imagen». Se emitió por televisión en PTS el 4 de julio a las 9 p.m. **Nota del mantenedor (calibración de CheYu, 2026-04-20)**: Che-Yu Wu dirigió en el lugar sus tres obras algorítmicas —SoulFish, SoulSea y flores impresionistas— como actuación inaugural para la premier del documental, no dirigió las imágenes del documental de Alishan en sí.
 
 [^33]: [Profesor adjunto del Instituto de Artes Aplicadas de la Universidad Nacional Yang Ming Chiao Tung](https://iaa.nycu.edu.tw/?page_id=200) — Página oficial de profesores adjuntos del Instituto de Artes Aplicadas de la Universidad Nacional Yang Ming Chiao Tung; Che-Yu Wu es profesor asistente adjunto desde 2024, impartiendo cursos relacionados con «arte interactivo generativo y diseño de sistemas».
 
@@ -402,4 +402,4 @@ El relojero sigue caminando. El mecanismo del reloj sigue funcionando. **Se acer
 
 [^42]: [Semiont — Proyecto de código abierto en GitHub](https://github.com/frank890417/semiont) — Plataforma de simbiosis semántica de código abierto iniciada por Che-Yu Wu a partir de abril de 2026, abriendo la arquitectura que desarrolló con Muse para que la comunidad la pruebe.
 
-[^44]: [Hamily — La historia completa de la comunidad sail-o-bots](https://hamily.life/whyhams/) — Relato comunitario del incidente de sail-o-bots (la versión robada de la obra *Strange Robots* de Che-Yu Wu) en Art Blocks en 2021. Documenta la exposición del plagio el 19 de julio → Snowfro arbitró que los ingresos pasados y futuros de la obra original (*Strange Robots*) y la versión robada (sail-o-bots) se dividirían a partes iguales, gestionados directamente por la plataforma Art Blocks → la comunidad renombró a sail-o-bots como hams (proveniente del chiste del jamón de ron de *It's Always Sunny in Philadelphia*) como gesto colectivo de disculpa y agradecimiento → artistas generativos de primer nivel como Dmitri Cherniak apoyaron a Che-Yu Wu → la comunidad estableció después hamily.life, convirtiendo a los hams en un símbolo de compasión y reivindicación en la cultura de Art Blocks.
+[^44]: [Hamily — La historia completa de la comunidad sail-o-bots](https://hamily.life/whyhams/) — Relato comunitario del incidente de sail-o-bots (la versión robada de la obra _Strange Robots_ de Che-Yu Wu) en Art Blocks en 2021. Documenta la exposición del plagio el 19 de julio → Snowfro arbitró que los ingresos pasados y futuros de la obra original (_Strange Robots_) y la versión robada (sail-o-bots) se dividirían a partes iguales, gestionados directamente por la plataforma Art Blocks → la comunidad renombró a sail-o-bots como hams (proveniente del chiste del jamón de ron de _It's Always Sunny in Philadelphia_) como gesto colectivo de disculpa y agradecimiento → artistas generativos de primer nivel como Dmitri Cherniak apoyaron a Che-Yu Wu → la comunidad estableció después hamily.life, convirtiendo a los hams en un símbolo de compasión y reivindicación en la cultura de Art Blocks.

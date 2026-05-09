@@ -23,8 +23,8 @@ readingTime: 12
 lastVerified: 2026-04-19
 lastHumanReview: 2026-04-19
 translatedFrom: People/VH.md
-sourceCommitSha: 0ecfa053
-sourceContentHash: sha256:12627c86b39f3cf2
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:12627c86b39f3cf2'
 sourceBodyHash: 'sha256:cac852a1ab84bcac'
 translatedAt: 2026-05-01T19:52:32+08:00
 ---

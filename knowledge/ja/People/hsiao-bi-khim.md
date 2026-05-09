@@ -10,7 +10,7 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/蕭美琴.md'
-sourceCommitSha: '2d0c126f'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
 translatedAt: '2026-05-03T23:14:06+08:00'

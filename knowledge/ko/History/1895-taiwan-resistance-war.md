@@ -19,8 +19,8 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 featured: true
 translatedFrom: History/乙未之役.md
-sourceCommitSha: a98d745f
-sourceContentHash: sha256:fc7bac7e7a555233
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:fc7bac7e7a555233'
 sourceBodyHash: 'sha256:6abb82a8cf5a2a95'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---

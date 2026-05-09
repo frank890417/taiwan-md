@@ -2,7 +2,8 @@
 title: '徐巧芯：朝食店の娘から「8000億円軍事調達」議員へ――流量で若返らせる政治家'
 description: '台北市第七選挙区立法委員。1989年、台北市の朝食店家庭に生まれる。2013年、24歳で国民党史上最若の中央常務委員となる。2024年、89,727票で許淑華を破り立法院入り。2025年大罷免では6.2万の同意票が法定基準に達したが否決。2026年軍事調達協議で8000億バージョンを提示し、党中央の3800億+N案と激突。季麟連が「親痛仇快のことはするな」と名指しで警告。'
 date: 2026-05-03
-tags: ['政治人物', '立法委員', '中国国民党', '戰鬥藍', '台北市第七選區', '2024立委']
+tags:
+  ['政治人物', '立法委員', '中国国民党', '戰鬥藍', '台北市第七選區', '2024立委']
 category: 'People'
 subcategory: '政治人物'
 author: 'Taiwan.md'
@@ -11,9 +12,9 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: People/徐巧芯.md
-sourceCommitSha: 1e9ce66d
-sourceContentHash: sha256:8f69e3146e67bf4f
-sourceBodyHash: sha256:c36ec4a8304568ae
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8f69e3146e67bf4f'
+sourceBodyHash: 'sha256:c36ec4a8304568ae'
 translatedAt: 2026-05-03T23:14:06+08:00
 ---
 

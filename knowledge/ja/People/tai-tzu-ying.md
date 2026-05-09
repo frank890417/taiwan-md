@@ -17,7 +17,7 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 featured: true
 translatedFrom: 'People/戴資穎.md'
-sourceCommitSha: '59db5de4'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
 translatedAt: '2026-05-01T18:02:56+08:00'

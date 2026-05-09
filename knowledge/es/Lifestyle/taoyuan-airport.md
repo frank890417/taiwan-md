@@ -2,7 +2,14 @@
 title: 'Aeropuerto de Taoyuan: del nombre "Chung-cheng" de las Diez Grandes Construcciones al renacimiento de la puerta nacional en 2026 con una inversión de miles de millones'
 description: 'En abril de 2026, el techo de la Terminal 3 del Aeropuerto de Taoyuan se cerró oficialmente, marcando el inminente renacimiento de esta puerta nacional con un costo de 128,300 millones de dólares taiwaneses. Desde su nacimiento como "Aeropuerto Internacional de Chung-cheng" en 1979, pasando por el punto más bajo de las inundaciones de 2016, hasta la inauguración del vestíbulo de embarque norte en 2025 que generó un auge de tránsitos, el Aeropuerto de Taoyuan intenta recuperar su posición perdida en la competencia por ser un hub aéreo asiático.'
 date: 2026-05-03
-tags: ['Aeropuerto de Taoyuan', 'Terminal 3', 'Infraestructura básica', 'Transporte', 'Diez Grandes Construcciones']
+tags:
+  [
+    'Aeropuerto de Taoyuan',
+    'Terminal 3',
+    'Infraestructura básica',
+    'Transporte',
+    'Diez Grandes Construcciones',
+  ]
 category: 'Lifestyle'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -10,8 +17,8 @@ readingTime: 5
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: Lifestyle/桃園機場.md
-sourceCommitSha: 053efd9a
-sourceContentHash: sha256:1479fcc5eaa28fc5
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1479fcc5eaa28fc5'
 sourceBodyHash: 'sha256:1fbc8f5240a8c4b8'
 translatedAt: 2026-05-03T21:10:09+08:00
 ---

@@ -9,8 +9,8 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-01
 translatedFrom: "Culture/噗浪Plurk.md"
-sourceCommitSha: "0851f334"
-sourceContentHash: "sha256:a38fe6b9c1f6f658"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:96026947f084b369'
 sourceBodyHash: 'sha256:147f1c5986f4274b'
 translatedAt: "2026-04-14T12:34:13+08:00"
 ---

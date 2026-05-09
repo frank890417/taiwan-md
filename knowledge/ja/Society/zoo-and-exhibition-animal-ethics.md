@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/動物園與展演動物倫理.md'
-sourceCommitSha: 'ecb173b1'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b513829394ccaf6f'
 sourceBodyHash: 'sha256:0dbde865ec05f5ab'
 translatedAt: '2026-05-01T18:02:56+08:00'

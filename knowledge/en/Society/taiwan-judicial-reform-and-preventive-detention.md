@@ -2,7 +2,7 @@
 title: 'Taiwan Judicial Reform and Preventive Detention'
 description: "From its introduction in 1997 to its expanded application in April 2026 to include drunk driving and child sexual exploitation, preventive detention has been part of Taiwan's legal system for 29 years. While expanding protections for victims, the baseline of the presumption of innocence has been retreating — is this progress, or a form of structural compromise?"
 translatedFrom: 'Society/台灣司法改革與預防性羈押制度.md'
-sourceCommitSha: '6f3e4cc4'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:95fbaf40f48b2ca2'
 sourceBodyHash: 'sha256:afed06eba24e4811'
 translatedAt: '2026-05-01T12:53:58+08:00'

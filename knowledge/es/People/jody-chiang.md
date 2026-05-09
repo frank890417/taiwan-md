@@ -17,8 +17,8 @@ readingTime: 10
 lastVerified: 2026-03-28
 lastHumanReview: false
 translatedFrom: 'People/江蕙.md'
-sourceCommitSha: '221b1708'
-sourceContentHash: 'sha256:c679b75dc5a802a2'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:af8cff27f6cadb30'
 sourceBodyHash: 'sha256:09c26c642594595d'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---

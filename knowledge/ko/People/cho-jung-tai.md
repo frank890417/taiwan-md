@@ -5,13 +5,14 @@ date: 2026-05-03
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '政治人物'
-tags: ['政治人物', '행정원장', '민주진보당', '셰창팅계', '소수 정부', '2024내각']
+tags:
+  ['政治人物', '행정원장', '민주진보당', '셰창팅계', '소수 정부', '2024내각']
 readingTime: 13
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/卓榮泰.md'
-sourceCommitSha: '140e882d'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1274f9fb56a6cca0'
 sourceBodyHash: 'sha256:98226e940e464d18'
 translatedAt: '2026-05-03T23:14:06+08:00'

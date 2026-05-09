@@ -18,8 +18,8 @@ readingTime: 10
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Culture/布袋戲.md'
-sourceCommitSha: '531353d0'
-sourceContentHash: 'sha256:c66292fce61243df'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:90bff79aa4402b0e'
 sourceBodyHash: 'sha256:79bbd46fe867d775'
 translatedAt: '2026-05-02T11:00:00+08:00'
 ---

@@ -17,8 +17,8 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: Society/台灣少子化危機.md
-sourceCommitSha: 6c11ef53
-sourceContentHash: sha256:b6c977b96b8c6c27
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:b6c977b96b8c6c27'
 sourceBodyHash: 'sha256:f565beba22c0df57'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: Society

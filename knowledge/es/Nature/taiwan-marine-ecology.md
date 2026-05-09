@@ -20,8 +20,8 @@ category: Nature
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: Nature/台灣海洋生態.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:34ef5e8d367bee9d
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:34ef5e8d367bee9d'
 sourceBodyHash: 'sha256:d270d18b5c4f802e'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---

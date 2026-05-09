@@ -26,7 +26,7 @@ lastVerified: 2026-04-26
 lastHumanReview: false
 researchReport: 'reports/research/2026-04/徐佳瑩.md'
 translatedFrom: 'People/徐佳瑩.md'
-sourceCommitSha: '81e6f52d'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f9f02c4b8eb59a3c'
 sourceBodyHash: 'sha256:08e93141b3775e8d'
 translatedAt: '2026-05-01T08:56:11+08:00'

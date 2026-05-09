@@ -2,7 +2,7 @@
 title: 'Waa Wei: Twenty Years of Wanting to Be Heard, from Naturally Curly''s "Wawa" to Two-Time Golden Melody Queen'
 description: "Vocalist 'Wawa' of Naturally Curly in 2003, going solo as 'Waa Wei' after a vocal cord injury in 2006, and winning Best Mandarin Female Singer at the Golden Melody Awards in both 2020 and 2025. From the four-language elegy 'That Place' mourning Ellen Loo, to the female resistance of the children's-voice version of 'Ophelia', to the courage grown from pain in Pearl Punishment — twenty years on the most counter-intuitive path in Mandopop: making her voice more famous than her face, letting her work outlive her persona."
 translatedFrom: 'People/魏如萱.md'
-sourceCommitSha: '7bcc3ce4'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c0bf0a88da519f63'
 sourceBodyHash: 'sha256:071293de94a6fba8'
 translatedAt: '2026-05-01T12:53:58+08:00'

@@ -5,7 +5,8 @@ date: 2026-04-20
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '新媒體藝術'
-tags: [
+tags:
+  [
     '新媒體藝術',
     '生成藝術',
     '程式創作',
@@ -23,9 +24,9 @@ lastVerified: 2026-04-20
 lastHumanReview: 2026-04-20
 featured: true
 translatedFrom: People/吳哲宇.md
-sourceCommitSha: ae885eb8
-sourceContentHash: sha256:b2505627f33e510e
-sourceBodyHash: sha256:80855056570f3a2e
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ebee89e5e92900ff'
+sourceBodyHash: 'sha256:80855056570f3a2e'
 translatedAt: 2026-05-03T23:14:06+08:00
 ---
 

@@ -18,7 +18,7 @@ category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'Technology/PTT批踢踢.md'
-sourceCommitSha: '800114ea'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f28d98485199bc24'
 sourceBodyHash: 'sha256:110038d2fb23bc2a'
 translatedAt: '2026-05-01T14:11:02+08:00'

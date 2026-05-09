@@ -1,31 +1,31 @@
 ---
-title: "料金所：台湾の国道で消えた3秒間の停止"
-description: "1974年、泰山收費站が台湾の國道の有料道路時代を幕開けしました。半世紀にわたるこの歴史は、技術が手動回數制から電子計程制へと進化しただけでなく、石油危機後の財政需要、收費站ブース内の高温と排気ガスに耐える作業員の苦労、そして國道收費員が「家」と呼ばれた職場から抗議の街頭へと追いやられた社会的痛みを秘めています。"
-category: "Lifestyle"
+title: '料金所：台湾の国道で消えた3秒間の停止'
+description: '1974年、泰山收費站が台湾の國道の有料道路時代を幕開けしました。半世紀にわたるこの歴史は、技術が手動回數制から電子計程制へと進化しただけでなく、石油危機後の財政需要、收費站ブース内の高温と排気ガスに耐える作業員の苦労、そして國道收費員が「家」と呼ばれた職場から抗議の街頭へと追いやられた社会的痛みを秘めています。'
+category: 'Lifestyle'
 tags:
   [
-    "國道（台湾の高速道路）",
-    "收費站（料金所）",
-    "ETC",
-    "交通史",
-    "社會運動（社会運動）",
-    "孫秀鑾",
-    "回數票（回数券）",
-    "泰山收費站",
-    "西螺大橋",
-    "濁水溪收費站",
+    '國道（台湾の高速道路）',
+    '收費站（料金所）',
+    'ETC',
+    '交通史',
+    '社會運動（社会運動）',
+    '孫秀鑾',
+    '回數票（回数券）',
+    '泰山收費站',
+    '西螺大橋',
+    '濁水溪收費站',
   ]
-author: "Taiwan.md Contributors"
+author: 'Taiwan.md Contributors'
 date: 2026-05-03
 readingTime: 12
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
-translatedFrom: "Lifestyle/收費站.md"
-sourceCommitSha: "053efd9a"
-sourceContentHash: "sha256:51547944c653872d"
+translatedFrom: 'Lifestyle/收費站.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:51547944c653872d'
 sourceBodyHash: 'sha256:bc9b5cd80bcd52ef'
-translatedAt: "2026-05-03T21:10:09+08:00"
+translatedAt: '2026-05-03T21:10:09+08:00'
 ---
 
 > **「在那三尺見方的票亭裡，我們接過的不是一張票，而是無數個趕路人的靈魂。窗戶搖下時，湧進來的是冬天的寒風、夏天的燥熱，還有那句輕輕的『辛苦了』。」**

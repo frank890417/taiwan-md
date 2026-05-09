@@ -20,8 +20,8 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/Ray.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:d89e2ce7459672fc'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:970d28e96a195c6a'
 sourceBodyHash: 'sha256:bfea2eb77a7d1c05'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---

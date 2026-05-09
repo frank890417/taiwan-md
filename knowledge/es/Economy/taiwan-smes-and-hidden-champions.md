@@ -20,8 +20,8 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: Economy/台灣中小企業與隱形冠軍.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:51e4bbc49efeda40
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:51e4bbc49efeda40'
 sourceBodyHash: 'sha256:a547cd2ed92973fa'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---

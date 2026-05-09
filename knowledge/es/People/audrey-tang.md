@@ -8,7 +8,7 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 featured: true
 translatedFrom: 'People/唐鳳.md'
-sourceCommitSha: '32e53d5b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a082c7ac24170454'
 sourceBodyHash: 'sha256:c6c324b6990ea5dc'
 translatedAt: '2026-05-01T20:54:23+08:00'

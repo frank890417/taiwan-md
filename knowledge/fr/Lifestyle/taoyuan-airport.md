@@ -2,7 +2,14 @@
 title: "L'aéroport de Taoyuan : du nom « Chiang Kai-shek » des Dix Grandes Travaux à l'épreuve du milliard pour la renaissance de la porte nationale en 2026"
 description: "En avril 2026, le toit du troisième terminal de l'aéroport de Taoyuan a été officiellement achevé, marquant la renaissance imminente de cette porte nationale dont le coût s'élève à 128,3 milliards de dollars taïwanais. De sa naissance en 1979 sous le nom d'« aéroport international Chiang Kai-shek », au creux de la crue de 2016, puis à l'inauguration de l'embarcadère nord en 2025 qui a déclenché un afflux de passagers en transit, l'aéroport de Taoyuan tente de retrouver ses coordonnées dans la concurrence pour le statut de plaque tournante aérienne asiatique."
 date: 2026-05-03
-tags: ['Aéroport de Taoyuan', 'Troisième terminal', 'Infrastructures', 'Transport', 'Dix Grandes Travaux']
+tags:
+  [
+    'Aéroport de Taoyuan',
+    'Troisième terminal',
+    'Infrastructures',
+    'Transport',
+    'Dix Grandes Travaux',
+  ]
 category: 'Lifestyle'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -10,8 +17,8 @@ readingTime: 5
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: Lifestyle/桃園機場.md
-sourceCommitSha: 053efd9a
-sourceContentHash: sha256:1479fcc5eaa28fc5
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1479fcc5eaa28fc5'
 sourceBodyHash: 'sha256:1fbc8f5240a8c4b8'
 translatedAt: 2026-05-03T21:10:10+08:00
 ---

@@ -8,7 +8,7 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'People/洪醒夫.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7de74580c2e1d825'
 sourceBodyHash: 'sha256:669b88afae826e6b'
 translatedAt: '2026-04-14T19:24:47+08:00'

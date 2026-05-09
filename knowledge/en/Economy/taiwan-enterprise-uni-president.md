@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Economy/台灣企業：統一企業.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:3fb7c059831bdebb'
 sourceBodyHash: 'sha256:481f2cb6cfdcbd21'
 translatedAt: '2026-05-01T15:38:13+08:00'

@@ -21,7 +21,7 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'Food/台灣糕餅文化.md'
-sourceCommitSha: '7632201f'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bdb405b92fc10596'
 sourceBodyHash: 'sha256:c6a86f733ba033b1'
 translatedAt: '2026-05-03T23:14:07+08:00'
@@ -73,7 +73,7 @@ L'histoire de Baoquan traverse les deux rives du détroit. Sous l'ère japonaise
 
 Sa première expérience fut la « petite lune » (小月餅) — réduire le grand gâteau de lune traditionnel à une taille adaptée à une seule personne, avec une garniture de haricots shiro importés du Japon. Mais ce qui a véritablement changé la carte des coffrets de la Fête de la Mi-Automne à Taïwan, c'est un autre gâteau : la **pâtisserie au jaune d'œuf** (蛋黃酥).
 
-Le numéro d'août 1986 du *Baking Food Information Magazine* rapporte que l'inventeur de la pâtisserie au jaune d'œuf est bien Chen Zengxiong[^13]. Le maître national Lü Hongyu se souvient que la pâtisserie au jaune d'œuf, née vers les années 1960, était **initialement en forme d'olive et non sphérique** ; après cuisson, elle était coupée en deux pour révéler le jaune d'œuf de la garniture, et la peau était de type ananas et non feuilletée[^9]. Ce n'est que progressivement qu'elle a évolué vers la version ronde et feuilletée que nous connaissons aujourd'hui.
+Le numéro d'août 1986 du _Baking Food Information Magazine_ rapporte que l'inventeur de la pâtisserie au jaune d'œuf est bien Chen Zengxiong[^13]. Le maître national Lü Hongyu se souvient que la pâtisserie au jaune d'œuf, née vers les années 1960, était **initialement en forme d'olive et non sphérique** ; après cuisson, elle était coupée en deux pour révéler le jaune d'œuf de la garniture, et la peau était de type ananas et non feuilletée[^9]. Ce n'est que progressivement qu'elle a évolué vers la version ronde et feuilletée que nous connaissons aujourd'hui.
 
 Les ajustements techniques clés apportés par Chen Zengxiong sont au nombre de trois : le jaune d'œuf salé doit d'abord être trempé dans un alcool fort pour éliminer l'odeur de poisson, puis cuit à température moyenne ; le haricot azuki noir doit être cuit lentement au feu doux avec une odeur fumée ; le rapport farine et matière grasse de la pâte feuilletée doit être dosé avec précision[^9]. Ces trois paramètres de recette sont restés en usage jusqu'à aujourd'hui.
 
@@ -168,7 +168,7 @@ Le temps contenu dans un gâteau est bien plus long que vous ne le pensez.
 
 [^12]: [Musée de la culture pâtissière d'A-Congshi à Dajia](https://www.o-nongs.com.tw/) — Données officielles sur la pâtisserie créative à la taro d'A-Congshi à Dajia, documentant son histoire en tant que pâtisserie officielle des banquets d'État et la transmission de la technique de la pâtisserie à la taro.
 
-[^13]: [Wikipédia : Pâtisserie au jaune d'œuf](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Documente les informations sur Chen Zengxiong, inventeur de la pâtisserie au jaune d'œuf selon le *Baking Food Information Magazine* d'août 1986, ainsi que les paramètres techniques standard du haricot azuki, du jaune d'œuf de canard salé et de la pâte feuilletée.
+[^13]: [Wikipédia : Pâtisserie au jaune d'œuf](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Documente les informations sur Chen Zengxiong, inventeur de la pâtisserie au jaune d'œuf selon le _Baking Food Information Magazine_ d'août 1986, ainsi que les paramètres techniques standard du haricot azuki, du jaune d'œuf de canard salé et de la pâte feuilletée.
 
 [^14]: [Wikipédia : Pâtisserie de haricot mungo](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Aussi appelée « gâteau bombé de haricot mungo » ou « gâteau de lune taïwanais », originaire de Fengyuan et perfectionnée sous l'ère japonaise, garniture contenant du haricot mungo, du saindoux, de l'oignon rouge et du porc, saveur salée-douce, et rôle important dans les gâteaux de mariage taïwanais.
 

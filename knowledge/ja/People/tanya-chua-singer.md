@@ -21,7 +21,7 @@ date: 2026-04-28
 readingTime: 22
 featured: true
 translatedFrom: 'People/蔡健雅.md'
-sourceCommitSha: '5030f5d6'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9474a07c92a4db90'
 sourceBodyHash: 'sha256:f2c2b3c665362b55'
 translatedAt: '2026-05-01T14:48:26+08:00'

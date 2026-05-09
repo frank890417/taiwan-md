@@ -1,18 +1,18 @@
 ---
-title: "Han Kuo-yu"
-description: "The first directly elected mayor in ROC constitutional history to be recalled, then became President of the Legislative Yuan four years later. What kind of political trajectory is this?"
+title: 'Han Kuo-yu'
+description: 'The first directly elected mayor in ROC constitutional history to be recalled, then became President of the Legislative Yuan four years later. What kind of political trajectory is this?'
 date: 2026-04-11
-author: "Taiwan.md"
-subcategory: "政治人物"
-tags: ["政治人物", "國民黨", "立法院長", "韓流", "高雄", "2018", "2020", "2024"]
+author: 'Taiwan.md'
+subcategory: '政治人物'
+tags: ['政治人物', '國民黨', '立法院長', '韓流', '高雄', '2018', '2020', '2024']
 readingTime: 12
 lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: People/韓國瑜.md
-sourceCommitSha: 2d0c126f
-sourceContentHash: sha256:ee41f08167c2c2aa
-sourceBodyHash: sha256:73cf0e41be5a3b9e
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:ee41f08167c2c2aa'
+sourceBodyHash: 'sha256:73cf0e41be5a3b9e'
 translatedAt: 2026-05-03T23:14:05+08:00
 ---
 
@@ -66,7 +66,7 @@ His campaign language had a density never before seen in Taiwanese politics:
 
 What these slogans shared was: **extreme concreteness, extreme populism, extreme emotion**. They did not discuss policy details or governance philosophy; they went straight to voters' most primal pain points — young people could not stay, the economy was not growing, there was no hope. And they could be replicated, shared, and turned into internet memes.
 
-*The Reporter*'s post-election analysis in 2018 classified the "Han Wave" as an **anti-establishment, anti-elite, grassroots** electoral phenomenon.[^6] At the time, Taiwan's political narrative was dominated by the DPP under President Tsai Ing-wen, with language that leaned toward the rational, the international, reform, and progress. For certain voters — particularly those aged 40–49 who had witnessed Kaohsiung's economic glory and watched it decline — this language was incomprehensible and unwelcome.
+_The Reporter_'s post-election analysis in 2018 classified the "Han Wave" as an **anti-establishment, anti-elite, grassroots** electoral phenomenon.[^6] At the time, Taiwan's political narrative was dominated by the DPP under President Tsai Ing-wen, with language that leaned toward the rational, the international, reform, and progress. For certain voters — particularly those aged 40–49 who had witnessed Kaohsiung's economic glory and watched it decline — this language was incomprehensible and unwelcome.
 
 Han Kuo-yu's emergence gave them **something they could say**.
 

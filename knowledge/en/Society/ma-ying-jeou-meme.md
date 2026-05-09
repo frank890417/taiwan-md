@@ -18,7 +18,7 @@ featured: false
 lastVerified: 2026-04-21
 lastHumanReview: false
 translatedFrom: 'Society/馬英九迷因.md'
-sourceCommitSha: '5032dd64'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:219fe04c84e96b20'
 sourceBodyHash: 'sha256:2e23822aef955aa4'
 translatedAt: '2026-05-01T12:21:52+08:00'

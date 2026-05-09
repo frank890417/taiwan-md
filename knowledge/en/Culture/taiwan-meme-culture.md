@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Culture/台灣迷因.md'
-sourceCommitSha: 'c860d150'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:b8e2ae4ba4b5e3d9'
 sourceBodyHash: 'sha256:971e379fee29d9f0'
 translatedAt: '2026-05-01T12:21:52+08:00'

@@ -22,7 +22,7 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/收費站.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:51547944c653872d'
 sourceBodyHash: 'sha256:bc9b5cd80bcd52ef'
 translatedAt: '2026-05-03T21:10:03+08:00'
@@ -93,14 +93,14 @@ Today, three booth sites have been preserved:
 
 ### Timeline: Fifty Years of Freeway Tolling
 
-| Year     | Key Event                                                                                      |
-| :------- | :--------------------------------------------------------------------------------------------- |
-| **1953** | Xiluo Bridge opens; Zhuoshui River Toll Station established — the origin of tolling in Taiwan. |
-| **1974** | Taishan Toll Station opens, inaugurating the era of manual per-trip freeway tolling.           |
-| **1978** | After the Zhongzheng Bridge scandal, toll collectors become an all-female workforce.           |
-| **1985** | Full implementation of dedicated prepaid ticket lanes, maximizing efficiency.                   |
-| **2006** | ETC electronic toll collection begins trial operation (OBU system).                             |
-| **2013** | 12/30 — Manual tolling becomes history; full transition to eTag distance-based tolling.        |
+| Year     | Key Event                                                                                         |
+| :------- | :------------------------------------------------------------------------------------------------ |
+| **1953** | Xiluo Bridge opens; Zhuoshui River Toll Station established — the origin of tolling in Taiwan.    |
+| **1974** | Taishan Toll Station opens, inaugurating the era of manual per-trip freeway tolling.              |
+| **1978** | After the Zhongzheng Bridge scandal, toll collectors become an all-female workforce.              |
+| **1985** | Full implementation of dedicated prepaid ticket lanes, maximizing efficiency.                     |
+| **2006** | ETC electronic toll collection begins trial operation (OBU system).                               |
+| **2013** | 12/30 — Manual tolling becomes history; full transition to eTag distance-based tolling.           |
 | **2016** | Freeway Toll Collectors Self-Help Association reaches compensation agreement with the government. |
 
 ---

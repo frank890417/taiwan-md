@@ -11,7 +11,7 @@ category: 'Food'
 lastVerified: 2026-03-18
 lastHumanReview: false
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:83aadc055a63682c'
 sourceBodyHash: 'sha256:c6a05009c0ee406c'
 translatedAt: '2026-04-14T03:55:14+08:00'

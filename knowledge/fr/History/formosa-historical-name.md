@@ -18,8 +18,8 @@ author: Taiwan.md Translation Team
 lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: "History/福爾摩沙.md"
-sourceCommitSha: 53610439
-sourceContentHash: "sha256:7eacbccf24addf9e"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:7eacbccf24addf9e'
 sourceBodyHash: 'sha256:6720483f0291c768'
 translatedAt: "2026-04-14T12:32:06+08:00"
 ---

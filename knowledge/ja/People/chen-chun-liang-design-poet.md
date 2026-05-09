@@ -14,8 +14,8 @@ subcategory: '藝術與デザイン'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: People/陳俊良.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:230d66867f466f8b
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:230d66867f466f8b'
 sourceBodyHash: 'sha256:0738f24a7fbe249b'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People

@@ -9,7 +9,7 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Nature/梅雨.md'
-sourceCommitSha: '14c7b362'
+sourceCommitSha: '4b6d28c5'
 sourceBodyHash: 'sha256:31c92fd7633ce35e'
 sourceContentHash: 'sha256:08c48a6ddad4519e'
 ---

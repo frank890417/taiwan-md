@@ -19,8 +19,8 @@ readingTime: 7
 lastVerified: 2026-04-25
 lastHumanReview: false
 translatedFrom: 'People/黃光雄.md'
-sourceCommitSha: '2c96c034'
-sourceContentHash: 'sha256:2add36e24fa34463'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1b679db54adf9d80'
 sourceBodyHash: 'sha256:e4792097bdf41668'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---

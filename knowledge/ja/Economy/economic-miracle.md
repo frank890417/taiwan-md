@@ -1,19 +1,19 @@
 ---
-title: "経済の奇跡"
-description: "1952年、台湾の一人当たりGDPはわずか196ドルで、ハイチよりも貧しかった。40年後、台湾は「アジア四小龍」のトップとなり、一人当たりGDPは1万ドルを超えた。しかし、この「奇跡」の代償は何だったのか。台湾の「金が足元を洗う」と称賛される時代を語るとき、加工輸出区で毎日12時間働いた女性労働者や、生涯の貯蓄を小さな工場に賭けた経営者たちのことは、ほとんど語られない。"
+title: '経済の奇跡'
+description: '1952年、台湾の一人当たりGDPはわずか196ドルで、ハイチよりも貧しかった。40年後、台湾は「アジア四小龍」のトップとなり、一人当たりGDPは1万ドルを超えた。しかし、この「奇跡」の代償は何だったのか。台湾の「金が足元を洗う」と称賛される時代を語るとき、加工輸出区で毎日12時間働いた女性労働者や、生涯の貯蓄を小さな工場に賭けた経営者たちのことは、ほとんど語られない。'
 date: 2026-03-23
 author: Taiwan.md
 category: Economy
-subcategory: "經濟發展"
-tags: ["Economy", "台湾経済", "中小企業", "科学技術パーク", "半導体"]
+subcategory: '經濟發展'
+tags: ['Economy', '台湾経済', '中小企業', '科学技術パーク', '半導体']
 readingTime: 10
 lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
 translatedFrom: Economy/經濟奇蹟.md
-sourceCommitSha: 14c7b362
-sourceContentHash: sha256:18f44148c9c813dd
-sourceBodyHash: sha256:418b6e8bc018ebdd
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:18f44148c9c813dd'
+sourceBodyHash: 'sha256:418b6e8bc018ebdd'
 translatedAt: 2026-05-03T23:14:06+08:00
 ---
 

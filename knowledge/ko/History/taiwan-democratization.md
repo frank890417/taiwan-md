@@ -11,8 +11,8 @@ readingTime: 18
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'History/台灣民主轉型.md'
-sourceCommitSha: '59db5de4'
-sourceContentHash: 'sha256:33d740b447049cc9'
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:d432b8072ad8da53'
 sourceBodyHash: 'sha256:9d24249723803e6a'
 translatedAt: '2026-05-02T08:56:00+08:00'
 ---

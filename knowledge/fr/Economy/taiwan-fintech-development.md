@@ -20,9 +20,9 @@ readingTime: 12
 lastVerified: 2026-04-06
 lastHumanReview: false
 translatedFrom: Economy/台灣金融科技發展.md
-sourceCommitSha: 2d0c126f
-sourceContentHash: sha256:c4241632c676aa85
-sourceBodyHash: sha256:b0709e8ad615db88
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:c4241632c676aa85'
+sourceBodyHash: 'sha256:b0709e8ad615db88'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
@@ -51,7 +51,7 @@ En juillet 2025, le tribunal déclare la transaction nulle et ordonne à JKOPay 
 Le jour de la saisie, près de 300 employés sont informés en télétravail à la dernière minute, et l'enseigne du bureau est décrochée. Hu Yijia est ensuite poursuivi par le parquet pour abus de confiance aggravé, interdit de quitter le territoire, et a même été un temps placé sous surveillance par bracelet électronique.[^5]
 
 > **📝 Note du curateur**
-> Les fonds des utilisateurs de JKOPay eux-mêmes sont en sécurité — conformément à la *Loi sur la gestion des institutions de paiement électronique*, toutes les sommes prépayées sont détenues en fiducie dans des comptes séquestres par des banques mandataires, totalement isolées des finances de la société mère. La Commission de supervision financière n'a cessé de le souligner. Mais l'image de « comptes contenant moins de mille yuans » a déjà gravement érodé la confiance dans les startups financières taïwanaises.
+> Les fonds des utilisateurs de JKOPay eux-mêmes sont en sécurité — conformément à la _Loi sur la gestion des institutions de paiement électronique_, toutes les sommes prépayées sont détenues en fiducie dans des comptes séquestres par des banques mandataires, totalement isolées des finances de la société mère. La Commission de supervision financière n'a cessé de le souligner. Mais l'image de « comptes contenant moins de mille yuans » a déjà gravement érodé la confiance dans les startups financières taïwanaises.
 
 Ce n'est pas la première fois que Hu Yijia s'oppose aux autorités de régulation. Dès 2020, la Commission de supervision financière avait sanctionné le produit « Tubao » pour sept infractions — tromperie des investisseurs, atteinte à la gouvernance d'entreprise — par une amende de trois millions de TWD et avait révoqué Hu Yijia de son poste de directeur chez JKOPay Investment Trust. Sa réponse à l'époque avait été une attaque publique contre la Commission.[^6]
 
@@ -59,18 +59,18 @@ L'histoire de JKOPay est un condensé de la décennie fintech taïwanaise : la p
 
 ## Une loi qui change les règles du jeu
 
-Revenons à 2015. Cette année-là, la Commission de supervision financière publie le *Livre blanc sur la stratégie de développement de la fintech*, déclarant l'intention de Taïwan d'embrasser la FinTech. Deux ans plus tard, la *Loi sur l'expérimentation en innovation financière technologique* est adoptée par le Parlement — c'est la première loi dédiée en Asie, faisant de Taïwan l'un des rares pays au monde dotés d'un cadre juridique de « bac à sable réglementaire ».[^7]
+Revenons à 2015. Cette année-là, la Commission de supervision financière publie le _Livre blanc sur la stratégie de développement de la fintech_, déclarant l'intention de Taïwan d'embrasser la FinTech. Deux ans plus tard, la _Loi sur l'expérimentation en innovation financière technologique_ est adoptée par le Parlement — c'est la première loi dédiée en Asie, faisant de Taïwan l'un des rares pays au monde dotés d'un cadre juridique de « bac à sable réglementaire ».[^7]
 
 La logique du bac à sable est simple : vous avez une idée d'innovation financière, mais la réglementation actuelle ne le permet pas ? Postulez pour entrer dans le bac à sable, expérimentez dans un cadre limité, et si l'expérience réussit, la loi sera modifiée pour vous légaliser ; si elle échoue, vous ne serez pas sanctionné.
 
 Sur le papier, c'est séduisant. En pratique, l'exécution s'avère plus conservatrice qu'escompté.
 
-Joinvest est l'un des rares cas de succès sortis du bac à sable — cette plateforme de groupement d'achat d'obligations permet aux particuliers d'investir collectivement dans des obligations autrefois réservées aux investisseurs institutionnels. Entrée en expérimentation dans le bac à sable en 2021, elle a obtenu la reconnaissance de la Commission de supervision financière, jugée « innovante et contribuant à l'inclusion financière », ce qui a directement conduit à une modification du *Règlement d'établissement des courtiers en valeurs mobilières*.[^8]
+Joinvest est l'un des rares cas de succès sortis du bac à sable — cette plateforme de groupement d'achat d'obligations permet aux particuliers d'investir collectivement dans des obligations autrefois réservées aux investisseurs institutionnels. Entrée en expérimentation dans le bac à sable en 2021, elle a obtenu la reconnaissance de la Commission de supervision financière, jugée « innovante et contribuant à l'inclusion financière », ce qui a directement conduit à une modification du _Règlement d'établissement des courtiers en valeurs mobilières_.[^8]
 
 Mais les chiffres de l'autre côté sont moins flatteurs. Sept ans après le lancement du bac à sable, le nombre de projets expérimentaux approuvés reste modeste, et ceux qui en sont véritablement « sortis » pour entraîner des réformes réglementaires sont encore plus rares. Les critiques estiment que les seuils d'accès au bac à sable taïwanais sont trop élevés, les examens trop lents, les périodes d'expérimentation trop courtes, transformant le dispositif en un système « apparemment ouvert, mais en réalité conservateur ».[^9]
 
 > « Le bac à sable réglementaire de Taïwan est l'un des cadres juridiques les plus complets au monde, mais le problème ne réside pas dans le cadre — il réside dans la vitesse d'exécution. »
-> — Chambers and Partners, *Fintech 2025: Taiwan*[^9]
+> — Chambers and Partners, _Fintech 2025: Taiwan_[^9]
 
 ## La guerre des paiements dans le téléphone
 
@@ -145,11 +145,11 @@ En décembre 2025, LINE Bank annonce son premier bénéfice mensuel, d'un montan
 
 [^6]: [Voice Tank 〈Les 3,6 milliards disparus de JKOPay : de l'expérience du paiement en Chine à l'« exceptionnalisme startup »〉](https://voicettank.org/20250714-1/) — Retour sur l'historique des sanctions contre le produit « Tubao » de JKOPay et les défis de supervision de la Commission.
 
-[^7]: [ICLG, *Fintech Laws and Regulations Report 2025: Taiwan*](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — La *Loi sur l'expérimentation en innovation financière technologique* de Taïwan entre en vigueur en avril 2018, première loi fintech dédiée en Asie.
+[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — La _Loi sur l'expérimentation en innovation financière technologique_ de Taïwan entre en vigueur en avril 2018, première loi fintech dédiée en Asie.
 
-[^8]: [Global Legal Insights, *Fintech Laws and Regulations 2025: Taiwan*](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — La plateforme de groupement d'achat d'obligations Joinvest sort du bac à sable et entraîne une modification du *Règlement d'établissement des courtiers en valeurs mobilières*.
+[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — La plateforme de groupement d'achat d'obligations Joinvest sort du bac à sable et entraîne une modification du _Règlement d'établissement des courtiers en valeurs mobilières_.
 
-[^9]: [Chambers and Partners, *Fintech 2025: Taiwan — Trends and Developments*](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — Évaluation par la communauté juridique internationale du bac à sable taïwanais : « cadre complet mais vitesse d'exécution insuffisante ».
+[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — Évaluation par la communauté juridique internationale du bac à sable taïwanais : « cadre complet mais vitesse d'exécution insuffisante ».
 
 [^10]: [Commission nationale de développement 〈Le taux de pénétration du paiement mobile atteint un nouveau record, vers une vie nouvelle de nation numérique〉](https://www.ndc.gov.tw/nc_27_33762) — L'objectif gouvernemental de 90 % de pénétration du paiement mobile en 2025 ; le nombre total d'utilisateurs de comptes de paiement électronique atteint 34,45 millions.
 

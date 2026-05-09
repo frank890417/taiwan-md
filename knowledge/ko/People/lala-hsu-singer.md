@@ -25,8 +25,8 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: People/徐佳瑩.md
-sourceCommitSha: 81e6f52d
-sourceContentHash: sha256:f9f02c4b8eb59a3c
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f9f02c4b8eb59a3c'
 sourceBodyHash: 'sha256:08e93141b3775e8d'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---

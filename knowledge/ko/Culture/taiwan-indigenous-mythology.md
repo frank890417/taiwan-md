@@ -10,8 +10,8 @@ lastVerified: 2026-04-17
 lastHumanReview: true
 featured: false
 translatedFrom: Culture/原住民神話.md
-sourceCommitSha: 4caeb669
-sourceContentHash: sha256:6142366c1ed5a061
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:3ad9f28eb81ce704'
 sourceBodyHash: 'sha256:93356a93ce6ebf61'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---

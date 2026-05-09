@@ -1,8 +1,8 @@
 ---
-title: "麻芛湯：南屯の黄麻畑から台中の夏の食卓へ、苦みと甘みが交じる緑色のスープ一碗"
-description: "1895年、日本人は麻布袋を製造するため台中の南屯一帯で黄麻を大規模に栽培しました。半世紀後、プラスチック袋の普及により麻縄産業は衰退しましたが、麻芛湯だけは台中の人々の夏の思い出に残りました。苦みの中に甘みが戻ってくる緑色の濃厚なスープは、台湾で唯一「副産品」として残存した郷土料理です。"
+title: '麻芛湯：南屯の黄麻畑から台中の夏の食卓へ、苦みと甘みが交じる緑色のスープ一碗'
+description: '1895年、日本人は麻布袋を製造するため台中の南屯一帯で黄麻を大規模に栽培しました。半世紀後、プラスチック袋の普及により麻縄産業は衰退しましたが、麻芛湯だけは台中の人々の夏の思い出に残りました。苦みの中に甘みが戻ってくる緑色の濃厚なスープは、台湾で唯一「副産品」として残存した郷土料理です。'
 category: Food
-tags: ["台中", "南屯", "黄麻", "昔ながらの味", "夏の料理"]
+tags: ['台中', '南屯', '黄麻', '昔ながらの味', '夏の料理']
 author: 'Taiwan.md Contributors'
 date: 2026-05-03
 readingTime: 9
@@ -10,7 +10,7 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/麻芛湯.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:37e6bdeac5fb1d7c'
 sourceBodyHash: 'sha256:3db5773500588245'
 translatedAt: '2026-05-03T21:10:09+08:00'

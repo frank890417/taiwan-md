@@ -17,7 +17,7 @@ readingTime: 10
 featured: false
 translatedFrom: 'People/賴聲川.md'
 lastVerified: 2026-03-19
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:5a4167cb8b4d6e8d'
 sourceBodyHash: 'sha256:19b0aa996efe749d'
 translatedAt: '2026-04-14T19:19:05+08:00'

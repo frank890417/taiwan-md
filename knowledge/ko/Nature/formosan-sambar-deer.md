@@ -18,8 +18,8 @@ readingTime: 18
 lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: Nature/台灣水鹿.md
-sourceCommitSha: 21335999
-sourceContentHash: sha256:026cdbb45cf7fc52
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:d00de39e39633054'
 sourceBodyHash: 'sha256:dc8842a4b46a7f80'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---

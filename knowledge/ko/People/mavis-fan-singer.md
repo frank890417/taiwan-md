@@ -10,8 +10,8 @@ featured: false
 lastVerified: 2026-04-20
 lastHumanReview: false
 translatedFrom: People/范曉萱.md
-sourceCommitSha: d0343c92
-sourceContentHash: sha256:be33318bbff736f0
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:be33318bbff736f0'
 sourceBodyHash: 'sha256:972eef53b5601304'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---

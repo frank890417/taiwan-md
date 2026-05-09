@@ -77,8 +77,8 @@ sporeLinks:
     comments: 47
     shares: 112
 translatedFrom: 'People/李洋.md'
-sourceCommitSha: '3289f32e'
-sourceContentHash: 'sha256:6b5f90a7107dd4a7'
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:96f1d5630278a964'
 sourceBodyHash: 'sha256:57937e9b25b2f462'
 translatedAt: '2026-05-01T13:19:11+08:00'
 ---

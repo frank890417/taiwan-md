@@ -17,7 +17,7 @@ lastHumanReview: false
 lastVerified: 2026-03-23
 readingTime: 15
 translatedFrom: 'Nature/台灣鳥類窗殺議題.md'
-sourceCommitSha: '2acf410b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7b5c9a385e90141f'
 sourceBodyHash: 'sha256:e55bf8d3c335463a'
 translatedAt: '2026-04-14T12:25:09+08:00'

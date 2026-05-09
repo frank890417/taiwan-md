@@ -18,8 +18,8 @@ readingTime: 12
 lastVerified: 2026-04-24
 lastHumanReview: false
 translatedFrom: Society/台灣再生醫療雙法沿革從業人員告白.md
-sourceCommitSha: eb57c596
-sourceContentHash: sha256:2089e1e69b688487
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2089e1e69b688487'
 sourceBodyHash: 'sha256:5509b7826b80ddd5'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---

@@ -10,7 +10,7 @@ category: 'Culture'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '221b1708'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e868357ae72f86c5'
 sourceBodyHash: 'sha256:674e1a69052d9d0d'
 translatedAt: '2026-04-14T12:25:09+08:00'

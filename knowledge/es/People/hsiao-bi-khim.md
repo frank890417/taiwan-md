@@ -2,7 +2,16 @@
 title: 'Hsiao Bi-khim'
 description: "¿Cómo la 'Gata Guerrera', nacida en Japón, educada en una escuela primaria de Tainan, criada en Nueva Jersey y graduada de Oberlin, se convirtió en la representante más exitosa de Taiwán ante Estados Unidos y luego ascendió al cargo de vicepresidenta?"
 date: 2026-04-11
-tags: ['Figura política', 'Vicepresidenta', 'Partido Progresista Democrático', 'Diplomacia', 'Representante en EE.UU.', 'Hualien', 'Gata Guerrera']
+tags:
+  [
+    'Figura política',
+    'Vicepresidenta',
+    'Partido Progresista Democrático',
+    'Diplomacia',
+    'Representante en EE.UU.',
+    'Hualien',
+    'Gata Guerrera',
+  ]
 subcategory: '政治人物'
 author: 'Taiwan.md'
 readingTime: 12
@@ -10,9 +19,9 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: People/蕭美琴.md
-sourceCommitSha: 2d0c126f
-sourceContentHash: sha256:f272f267160332e7
-sourceBodyHash: sha256:3d2acfec22ab6d95
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:f272f267160332e7'
+sourceBodyHash: 'sha256:3d2acfec22ab6d95'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
@@ -30,7 +39,7 @@ Cuarenta y dos años de congelación diplomática se derritieron un poco en aque
 
 La persona que hizo posible esto era una mujer nacida en Japón, que había asistido a la escuela primaria en Tainan, crecido en Nueva Jersey y se graduado en Oberlin. Su trayectoria no encajaba en ningún perfil estándar de político taiwanés: no era de primera generación de provinciales, ni provenía de una familia prominente de Taipéi; no era una luchadora democrática encarcelada durante la era de la ley marcial, ni una empresaria de segunda generación que entró en política; era una joven que había pasado más tiempo en la costa este de Estados Unidos en Taiwán, y que luego decidió regresar para colocar esta isla en el mapa de Washington.
 
-> **Resumen en 30 segundos**: Hsiao Bi-khim nació en 1971 en Kōbe, Japón. Su padre fue Hsiao Ching-fen, presidente del Seminario Teológico de Tainan, y su madre fue Peggy Cooley, profesora de música de ascendencia euroamericana de Carolina del Norte. Cursó la primaria en Tainan, la secundaria en Nueva Jersey, se licenció en Estudios de Asia Oriental en el Oberlin College y obtuvo una maestría en Ciencias Políticas en la Universidad de Columbia. En 1995 ingresó en la Oficina en EE.UU. del Partido Progresista Democrático (DPP). En 2000 fue asesora presidencial y secretaria de inglés. Fue legisladora en las legislaturas 5.ª, 6.ª, 8.ª y 9.ª. En 2015, en Hualien —donde el DPP nunca había obtenido un escaño de legislador por distrito—, derrotó a Wang Ting-sheng con el 53,77 % de los votos. En 2020 fue nombrada la **primera mujer representante de Taiwán en EE.UU.**, y durante su mandato logró la invitación formal a la toma de posesión de Biden, la visita con el presidente de la Cámara McCarthy y el establecimiento de la Iniciativa EE.UU.-Taiwán sobre Comercio del Siglo XXI. En noviembre de 2023 renunció a su cargo para acompañar a Lai Ching-te como candidata a la vicepresidencia. En enero de 2024 fue elegida vicepresidenta y tomó posesión en mayo del mismo año. Su marca personal es el "espíritu de gata guerrera" (*Cat Warrior*).
+> **Resumen en 30 segundos**: Hsiao Bi-khim nació en 1971 en Kōbe, Japón. Su padre fue Hsiao Ching-fen, presidente del Seminario Teológico de Tainan, y su madre fue Peggy Cooley, profesora de música de ascendencia euroamericana de Carolina del Norte. Cursó la primaria en Tainan, la secundaria en Nueva Jersey, se licenció en Estudios de Asia Oriental en el Oberlin College y obtuvo una maestría en Ciencias Políticas en la Universidad de Columbia. En 1995 ingresó en la Oficina en EE.UU. del Partido Progresista Democrático (DPP). En 2000 fue asesora presidencial y secretaria de inglés. Fue legisladora en las legislaturas 5.ª, 6.ª, 8.ª y 9.ª. En 2015, en Hualien —donde el DPP nunca había obtenido un escaño de legislador por distrito—, derrotó a Wang Ting-sheng con el 53,77 % de los votos. En 2020 fue nombrada la **primera mujer representante de Taiwán en EE.UU.**, y durante su mandato logró la invitación formal a la toma de posesión de Biden, la visita con el presidente de la Cámara McCarthy y el establecimiento de la Iniciativa EE.UU.-Taiwán sobre Comercio del Siglo XXI. En noviembre de 2023 renunció a su cargo para acompañar a Lai Ching-te como candidata a la vicepresidencia. En enero de 2024 fue elegida vicepresidenta y tomó posesión en mayo del mismo año. Su marca personal es el "espíritu de gata guerrera" (_Cat Warrior_).
 
 ## Nacida en Kōbe, primaria en Tainan, secundaria en Nueva Jersey
 
@@ -70,7 +79,7 @@ Su respuesta no fue verbal, sino de acción. Estableció una oficina de servicio
 
 En las elecciones de 2015, Hsiao Bi-khim derrotó a Wang Ting-sheng con un **53,77 %** de los votos, convirtiéndose en la **primera legisladora por distrito del DPP en la historia de Hualien**.[^8] El significado de esta victoria trasciende las cifras: demostró que el DPP podía ganar en un bastión del Kuomintang, siempre que el candidato estuviera dispuesto a trabajar el territorio con una paciencia casi "misionera".
 
-Esos seis años en Hualien también le ayudaron a construir su marca personal: **el gato que no se rinde**. A ella no le gustaba que la llamaran "guerrera gato", pero aceptó la etiqueta de "espíritu de gata guerrera" (*Cat Warrior*) —que significa suave, flexible, pero que nunca cede—. Esta marca fue posteriormente adoptada por el Ministerio de Relaciones Exteriores y la Oficina de la Vicepresidencia, convirtiéndose en un símbolo de su estilo personal en la diplomacia con Estados Unidos y el exterior.
+Esos seis años en Hualien también le ayudaron a construir su marca personal: **el gato que no se rinde**. A ella no le gustaba que la llamaran "guerrera gato", pero aceptó la etiqueta de "espíritu de gata guerrera" (_Cat Warrior_) —que significa suave, flexible, pero que nunca cede—. Esta marca fue posteriormente adoptada por el Ministerio de Relaciones Exteriores y la Oficina de la Vicepresidencia, convirtiéndose en un símbolo de su estilo personal en la diplomacia con Estados Unidos y el exterior.
 
 ## Representante en EE.UU.: colocar a Taiwán en la estantería de Washington
 

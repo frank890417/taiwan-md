@@ -2,7 +2,14 @@
 title: "Taoyuan Airport: From the 'Chiang' Name of the Ten Major Projects to the Billion-Dollar Trial of the 2026 National Gateway"
 description: "In April 2026, the roof of the Taoyuan Airport Terminal 3 was officially topped out, marking that this national gateway, costing NT$128.3 billion, is about to be reborn. From the birth of 'Chiang Kai-shek International Airport' in 1979, the low point of flooding in 2016, to the transit boom triggered by the opening of the North Concourse in 2025, Taoyuan Airport is attempting to regain its lost coordinates in the competition for Asian aviation hubs."
 date: 2026-05-03
-tags: ['Taoyuan Airport', 'Terminal 3', 'Infrastructure', 'Transportation', 'Ten Major Projects']
+tags:
+  [
+    'Taoyuan Airport',
+    'Terminal 3',
+    'Infrastructure',
+    'Transportation',
+    'Ten Major Projects',
+  ]
 subcategory: 'Lifestyle'
 author: 'Taiwan.md'
 category: 'Lifestyle'
@@ -10,8 +17,8 @@ readingTime: 12
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'Lifestyle/桃園機場.md'
-sourceCommitSha: '053efd9a'
-sourceContentHash: 'sha256:b51ff75f35150835'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1479fcc5eaa28fc5'
 sourceBodyHash: 'sha256:1fbc8f5240a8c4b8'
 translatedAt: '2026-05-03T21:40:25+08:00'
 ---

@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Culture/黑白大廚在台灣.md'
-sourceCommitSha: 'daf5ee02'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:31883f60285a57e2'
 sourceBodyHash: 'sha256:bf7679056e96cbe1'
 translatedAt: '2026-05-01T17:15:07+08:00'

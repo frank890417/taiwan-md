@@ -10,8 +10,8 @@ featured: true
 lastVerified: 2026-04-13
 lastHumanReview: true
 translatedFrom: "History/大罷免.md"
-sourceCommitSha: "887af6c4"
-sourceContentHash: "sha256:81f328afe392aa26"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:6a3389f4e3aa59c9'
 sourceBodyHash: 'sha256:ac361a928edec55d'
 translatedAt: "2026-04-14T12:31:49+08:00"
 ---

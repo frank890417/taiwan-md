@@ -18,8 +18,8 @@ featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: Nature/台灣海洋保育與挑戰.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:b277d24628428df0
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:b277d24628428df0'
 sourceBodyHash: 'sha256:21aa63cb636df052'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---

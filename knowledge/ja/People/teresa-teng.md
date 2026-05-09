@@ -23,8 +23,8 @@ lastVerified: 2026-05-02
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/鄧麗君.md'
-sourceCommitSha: 'd0343c92'
-sourceContentHash: 'sha256:edf71ed00c866f9a'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:137ce9f0ad4e78d5'
 sourceBodyHash: 'sha256:d9aced35b5cf6b29'
 translatedAt: '2026-05-02T09:35:00+08:00'
 ---

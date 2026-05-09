@@ -13,7 +13,7 @@ tags:
     '屋台軽食',
   ]
 translatedFrom: 'Economy/夜市經濟學.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0fad49e81799ba5a'
 sourceBodyHash: 'sha256:3e5dc2a574d892a7'
 translatedAt: '2026-05-01T18:09:43+08:00'

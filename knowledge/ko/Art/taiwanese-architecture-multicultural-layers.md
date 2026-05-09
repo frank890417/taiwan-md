@@ -10,7 +10,7 @@ featured: true
 readingTime: 15
 translatedFrom: 'Art/台灣建築.md'
 lastVerified: 2026-03-28
-sourceCommitSha: 'e564525c'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:97939516b3de2749'
 sourceBodyHash: 'sha256:8d0abd22f69dd0b4'
 translatedAt: '2026-04-14T09:20:00+08:00'

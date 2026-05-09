@@ -16,8 +16,8 @@ lastHumanReview: false
 readingTime: 8
 description: Thirty-eight years of repression lifted in a single night, and literature erupted — but freedom is not the same as liberation from constraint, and new challenges quietly arrived
 translatedFrom: Art/解嚴後台灣文學.md
-sourceCommitSha: f553d365
-sourceContentHash: sha256:493c1722ce576d1b
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:493c1722ce576d1b'
 sourceBodyHash: 'sha256:5be7a14368f53828'
 translatedAt: '2026-05-01T01:46:13+08:00'
 ---

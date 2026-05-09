@@ -10,8 +10,8 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: Economy/台灣企業：國泰金控.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:15d9f13b5613c8cd
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:15d9f13b5613c8cd'
 sourceBodyHash: 'sha256:d03224ca8bd3574e'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: Economy

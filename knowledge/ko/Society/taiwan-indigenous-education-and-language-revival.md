@@ -22,8 +22,8 @@ readingTime: 15
 featured: true
 translatedFrom: 'Society/台灣原住民族教育與語言復振的交界.md'
 lastVerified: 2026-04-11
-sourceCommitSha: '45b62300'
-sourceContentHash: 'sha256:ed157e0ec93c7134'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:976815861db5ed08'
 sourceBodyHash: 'sha256:57d3b8ceecf4a7d0'
 translatedAt: '2026-04-14T06:21:59+08:00'
 ---

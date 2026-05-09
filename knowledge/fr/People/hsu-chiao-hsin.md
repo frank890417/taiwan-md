@@ -2,7 +2,15 @@
 title: "Hsu Chiao-hsin : de la fille d'un petit-déjeuner à la députée du « plan d'armements de 800 milliards » et la jeunesse par le capital médiatique"
 description: "Députée du septième district électoral de Taipei. Née en 1989 dans une famille tenant un petit-déjeuner à Taipei, elle est devenue en 2013, à 24 ans, la plus jeune membre du Comité central permanent de l'histoire du Kuomintang. En 2024, elle a battu Hsu Shu-hua avec 89 727 voix pour entrer au Yuan législatif. Lors de la grande révocation de 2025, 62 000 voix favorables ont atteint le seuil légal mais la motion a été rejetée ; en 2026, lors des négociations sur les acquisitions militaires, elle a présenté une version de 800 milliards en confrontation avec la ligne du Comité central (380 milliards + N), Chi Lin-lian la nommant publiquement pour lui dire « ne faites pas ce qui réjouit l'ennemi et afflige les proches »."
 date: 2026-05-03
-tags: ['personnalité politique', 'député', 'Kuomintang', 'Combat Blue', 'septième district électoral de Taipei', 'élections législatives 2024']
+tags:
+  [
+    'personnalité politique',
+    'député',
+    'Kuomintang',
+    'Combat Blue',
+    'septième district électoral de Taipei',
+    'élections législatives 2024',
+  ]
 category: 'People'
 subcategory: '政治人物'
 author: 'Taiwan.md'
@@ -11,9 +19,9 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: People/徐巧芯.md
-sourceCommitSha: 1e9ce66d
-sourceContentHash: sha256:8f69e3146e67bf4f
-sourceBodyHash: sha256:c36ec4a8304568ae
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8f69e3146e67bf4f'
+sourceBodyHash: 'sha256:c36ec4a8304568ae'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 

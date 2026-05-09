@@ -15,8 +15,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: People/楊德昌.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:7eb377093645b409
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:7eb377093645b409'
 sourceBodyHash: 'sha256:17251b5f245f8706'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People

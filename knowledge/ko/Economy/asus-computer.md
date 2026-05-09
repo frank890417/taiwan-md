@@ -10,7 +10,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:00009559de6db0ad'
 sourceBodyHash: 'sha256:eb96f18936ed3093'
 translatedAt: '2026-04-14T09:08:10+08:00'

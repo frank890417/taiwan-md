@@ -10,7 +10,7 @@ featured: false
 lastVerified: 2026-04-17
 lastHumanReview: false
 translatedFrom: 'People/陳菊.md'
-sourceCommitSha: 'f94d76ee'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
 sourceBodyHash: 'sha256:5121ea375a0a93ff'
 translatedAt: '2026-05-01T12:53:58+08:00'

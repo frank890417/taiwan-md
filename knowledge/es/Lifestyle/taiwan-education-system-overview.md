@@ -12,7 +12,7 @@ tags:
   ]
 date: 2026-03-17
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: '800114ea'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e9ca27840e47d5f'
 sourceBodyHash: 'sha256:0a4c39eae3411ae0'
 translatedAt: '2026-04-14T12:25:09+08:00'

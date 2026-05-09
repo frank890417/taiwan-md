@@ -10,8 +10,8 @@ readingTime: 15
 featured: false
 lastVerified: 2026-04-03
 translatedFrom: "Music/台灣國樂.md"
-sourceCommitSha: "5dfae94a"
-sourceContentHash: "sha256:0bcde4a3f239bc5d"
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:e1bc3aa8197e4184'
 sourceBodyHash: 'sha256:c0bd2cc77ca9d51c'
 translatedAt: "2026-04-15T17:36:15+08:00"
 ---

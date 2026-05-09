@@ -15,8 +15,8 @@ translatedFrom: "History/台灣選舉與政黨政治.md"
 updateLog:
   - date: '2026-04-07'
     changes: 'Réécriture complète (Pipeline v2.12), 18 notes de bas de page, ouverture sur l'incident de Zhongli, ajout des données des élections 2020 et 2024'
-sourceCommitSha: "001ae5fb"
-sourceContentHash: "sha256:92e02a6f4332994e"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:92e02a6f4332994e'
 sourceBodyHash: 'sha256:dfd574c12aaa4fc2'
 translatedAt: "2026-04-14T12:31:49+08:00"
 ---

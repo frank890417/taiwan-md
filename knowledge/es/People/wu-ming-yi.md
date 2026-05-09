@@ -13,8 +13,8 @@ tags:
   ]
 date: 2026-03-17
 translatedFrom: 'People/吳明益.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:2244fabc33ee8056'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2752c026dbd32f77'
 sourceBodyHash: 'sha256:33817e164492daa0'
 translatedAt: '2026-04-14T12:25:09+08:00'
 description: 'Primer autor taiwanés preseleccionado para el Premio Internacional Man Booker, teje naturaleza e historia en poemas literarios con una visión de ojo compuesto. Su novela El hombre con los ojos compuestos (複眼人) vendió derechos a más de diez países; La bicicleta robada (單車失竊記) fue preseleccionada para el Man Booker Internacional 2018. Actualmente es profesor en la Universidad Dong Hwa (東華大學) y la voz principal de la literatura ecológica taiwanesa.'

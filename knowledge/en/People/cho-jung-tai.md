@@ -11,9 +11,9 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: People/卓榮泰.md
-sourceCommitSha: 140e882d
-sourceContentHash: sha256:1274f9fb56a6cca0
-sourceBodyHash: sha256:98226e940e464d18
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1274f9fb56a6cca0'
+sourceBodyHash: 'sha256:98226e940e464d18'
 translatedAt: 2026-05-03T23:14:05+08:00
 ---
 
@@ -23,7 +23,7 @@ translatedAt: 2026-05-03T23:14:05+08:00
 
 In 1987, Taiwan lifted martial law. On the third floor of the Taipei City Council, a 28-year-old legislative aide followed newly elected city councilor Hsieh Chang-ting into the chamber.
 
-His name was Cho Jung-tai. A year earlier, Hsieh had founded *Taiwan New Culture* magazine to critique the political status quo and promote a cultural renaissance in Taiwan; Cho served as a consultant for the magazine.[^2] On the eve of the lifting of martial law, Hsieh was elected to the Taipei City Council, and Cho followed him in as an aide. From that year through 2024, he spent 37 years serving as someone else's assistant, deputy secretary-general, secretary-general, and party chairman.
+His name was Cho Jung-tai. A year earlier, Hsieh had founded _Taiwan New Culture_ magazine to critique the political status quo and promote a cultural renaissance in Taiwan; Cho served as a consultant for the magazine.[^2] On the eve of the lifting of martial law, Hsieh was elected to the Taipei City Council, and Cho followed him in as an aide. From that year through 2024, he spent 37 years serving as someone else's assistant, deputy secretary-general, secretary-general, and party chairman.
 
 In those 37 years, he almost never once stood at the front as the lead. He was Hsieh Chang-ting's legislative aide, Chen Shui-bian's Deputy Secretary-General of the Presidential Office,[^1] Secretary-General of the Executive Yuan under Lai Ching-te's 2017 cabinet,[^1] and the by-election party chairman put forward to clean up the mess after the DPP's devastating loss in the nine-in-one elections.[^2] His labels were "coordinator," "liaison between the Presidential Office, Executive Yuan, and party," and "senior brother of the Hsieh faction."[^2] He was not a faction boss, not a local kingpin, not a technocrat. He was the person in Taiwanese politics who spent 38 years coordinating on behalf of others.
 
@@ -37,7 +37,7 @@ Cho Jung-tai was born on January 22, 1959, in Taipei City.[^1] Not Changhua, not
 
 His educational background has a rarely noted twist: he first enrolled at Soochow University Law Department, withdrew, and transferred to the College of Law and Business at National Chung Hsing University, graduating from the law department in 1984.[^1] From Jian-Xin Elementary School, Taipei Municipal Datong Junior High School, to Taipei Municipal Fu-Hsin Senior High School, he followed the standard path through Taipei's public school system. After graduating from Chung Hsing Law in 1984, he practiced law for a period.
 
-1986 was a pivotal year. That year, Hsieh Chang-ting founded *Taiwan New Culture* magazine to critique the political landscape, and Cho Jung-tai served as a consultant.[^2] The two became inseparable from this point on. One would go on to run for president three times without success and eventually serve as Taiwan's representative to Japan after the DPP's 2008 defeat; the other would go on to become Premier of the Republic of China in 2024.
+1986 was a pivotal year. That year, Hsieh Chang-ting founded _Taiwan New Culture_ magazine to critique the political landscape, and Cho Jung-tai served as a consultant.[^2] The two became inseparable from this point on. One would go on to run for president three times without success and eventually serve as Taiwan's representative to Japan after the DPP's 2008 defeat; the other would go on to become Premier of the Republic of China in 2024.
 
 ## The Man Who Spent 37 Years as a Deputy
 
@@ -217,7 +217,7 @@ And the blue-white majority in the Legislative Yuan did not actually move a no-c
 
 [^1]: [Cho Jung-tai — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%93%E6%A6%AE%E6%B3%B0) — Chinese Wikipedia entry documenting Cho Jung-tai's complete biography: born 1959-01-22 in Taipei City; withdrew from Soochow University Law Department, transferred to and graduated from National Chung Hsing University College of Law and Business Law Department in 1984; Taipei City Councilor from 1989 (two terms); Legislator for Taipei City 1st electoral district, 4th and 5th Legislative Yuan (1999-02-01 to 2004-05-19); two terms as Deputy Secretary-General of the Presidential Office (2004-05-20 to 2005-01-31 and 2006-01-25 to 2007-10-16); two terms as DPP Secretary-General (2007-10-15 to 2008-01-15 and 2017-09-08 to 2018-12-28); DPP Chairman (2019-01-09 to 2020-05-20).
 
-[^2]: [From "Senior Brother of the Hsieh Faction" to "Senior Brother of the Whole Party": Cho Jung-tai as Lead-off Premier, How Does He Attack and Defend? — The News Lens](https://www.thenewslens.com/article/201774) — Cheng Yu-jung's in-depth April 2024 report, documenting Cho Jung-tai's role as consultant for Hsieh Chang-ting's *Taiwan New Culture* magazine in 1986, his service as Hsieh's Taipei City Council aide from 1987, and the hot pot restaurant cross-factional persuasion story after the DPP's 2018 nine-in-one election loss (Cheng Wen-tsan/Pan Men-an/Lin Chia-lung/Lin Chih-chien/Huang Wei-che/Chen Chi-mai/Weng Chang-liang jointly endorsing Cho for the party chairmanship by-election), including Cho's original quote: "I considered it for quite a long time… until about 10:30 at night. If I didn't decide soon, nobody would be able to go home."
+[^2]: [From "Senior Brother of the Hsieh Faction" to "Senior Brother of the Whole Party": Cho Jung-tai as Lead-off Premier, How Does He Attack and Defend? — The News Lens](https://www.thenewslens.com/article/201774) — Cheng Yu-jung's in-depth April 2024 report, documenting Cho Jung-tai's role as consultant for Hsieh Chang-ting's _Taiwan New Culture_ magazine in 1986, his service as Hsieh's Taipei City Council aide from 1987, and the hot pot restaurant cross-factional persuasion story after the DPP's 2018 nine-in-one election loss (Cheng Wen-tsan/Pan Men-an/Lin Chia-lung/Lin Chih-chien/Huang Wei-che/Chen Chi-mai/Weng Chang-liang jointly endorsing Cho for the party chairmanship by-election), including Cho's original quote: "I considered it for quite a long time… until about 10:30 at night. If I didn't decide soon, nobody would be able to go home."
 
 [^3]: [Taipei City Council Global Information Network — Former Councilors: Cho Jung-tai](https://www.tcc.gov.tw/Councilor_Content_All.aspx?n=13513&s=1528&d=580122&name=%E5%8D%93%E6%A6%AE%E6%B3%B0&termsn=15) — Official Taipei City Council records of former councilors, documenting Cho Jung-tai's two terms as Taipei City Councilor (1990–1998) with district and tenure details.
 

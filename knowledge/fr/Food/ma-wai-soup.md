@@ -2,18 +2,18 @@
 title: "Soupe de ma wai : des champs de jute de Nantun au bol d'été taïwanais, une soupe verte amère-douce"
 description: "En 1895, les Japonais plantèrent du jute à grande échelle à Nantun, dans la ville de Taichung, pour produire des sacs de toile. Un demi-siècle plus tard, les sacs en plastique eurent raison de l'industrie de la corde de jute, mais la soupe de ma wai resta dans l'été des habitants de Taichung. Une soupe verte épaisse, amère puis douce en bouche, est le seul plat local de Taïwan à avoir survécu en tant que « sous-produit » d'une industrie disparue."
 date: 2026-05-03
-author: "Taiwan.md Contributors"
+author: 'Taiwan.md Contributors'
 category: Food
-tags: ["Taichung", "Nantun", "jute", "saveur d'antan", "plat d'été"]
+tags: ['Taichung', 'Nantun', 'jute', "saveur d'antan", "plat d'été"]
 readingTime: 9
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
-translatedFrom: "Food/麻芛湯.md"
-sourceCommitSha: "053efd9a"
-sourceContentHash: "sha256:37e6bdeac5fb1d7c"
+translatedFrom: 'Food/麻芛湯.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:37e6bdeac5fb1d7c'
 sourceBodyHash: 'sha256:3db5773500588245'
-translatedAt: "2026-05-03T21:10:10+08:00"
+translatedAt: '2026-05-03T21:10:10+08:00'
 ---
 
 > **En trente secondes**

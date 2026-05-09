@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'History/湖口營區與勝利路記憶.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:24a72a8ef4ad1c70'
 sourceBodyHash: 'sha256:67689aef546b2c21'
 translatedAt: '2026-04-14T12:31:57+08:00'

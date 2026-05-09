@@ -10,7 +10,7 @@ readingTime: 6
 featured: false
 translatedFrom: 'Art/台灣現代詩.md'
 lastVerified: 2026-03-23
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:76772688d61c205f'
 sourceBodyHash: 'sha256:444e69e75502ca5e'
 translatedAt: '2026-04-14T09:31:15+08:00'

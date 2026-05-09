@@ -19,8 +19,8 @@ author: 'Taiwan.md'
 featured: false
 readingTime: 35
 translatedFrom: 'Technology/維基百科.md'
-sourceCommitSha: 'dc87c2a6'
-sourceContentHash: 'sha256:d2683a8c1c0c16b8'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:041d66a77659bdef'
 sourceBodyHash: 'sha256:d2c0d3b4dad31bc9'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---

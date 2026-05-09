@@ -21,7 +21,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Taiwanese_Styl
 imageAlt: 'Salt-and-pepper fried chicken at Nanjichang Night Market'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣鹹酥雞.md'
-sourceCommitSha: '82d9f045'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f78e66c21a3386f0'
 sourceBodyHash: 'sha256:f601237f7e38aaea'
 translatedAt: '2026-05-01T08:56:11+08:00'

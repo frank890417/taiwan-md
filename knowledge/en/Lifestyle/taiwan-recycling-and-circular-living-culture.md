@@ -18,7 +18,7 @@ category: 'Lifestyle'
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣回收與資源循環文化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:692a1090832374e5'
 sourceBodyHash: 'sha256:258baccfb653bebb'
 translatedAt: '2026-04-14T12:25:09+08:00'

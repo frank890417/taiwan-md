@@ -18,9 +18,9 @@ readingTime: 18
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Economy/發票.md'
-sourceCommitSha: '14c7b362'
+sourceCommitSha: '4b6d28c5'
 sourceBodyHash: 'sha256:1dc11e21cef45412'
-sourceContentHash: 'sha256:cad80115ffa06b57'
+sourceContentHash: 'sha256:442f27209d04a396'
 ---
 
 > **Resumen en 30 segundos:**

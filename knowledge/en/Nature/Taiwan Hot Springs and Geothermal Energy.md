@@ -7,8 +7,8 @@ category: Nature
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: "Nature/台灣溫泉與地熱.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:c950b0e6980af7aa"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:c950b0e6980af7aa'
 sourceBodyHash: 'sha256:76aaf6bdf8e233fe'
 translatedAt: "2026-04-14T12:25:09+08:00"
 ---

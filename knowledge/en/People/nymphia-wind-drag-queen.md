@@ -2,7 +2,7 @@
 title: "From Underground to the Presidential Office: Nymphia Wind and the History of Taiwan's Drag Queens' Self-Empowerment"
 description: "How a Taiwanese boy who was bullied for his gender expression brought the drag art form — once considered a subculture — to the international stage, and used the banana as a symbol to show the world Taiwan's diversity and confidence."
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: 'fab473cc'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
 translatedAt: '2026-05-01T12:53:58+08:00'

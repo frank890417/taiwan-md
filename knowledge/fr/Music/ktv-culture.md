@@ -12,8 +12,8 @@ category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: "Music/台灣KTV文化.md"
-sourceCommitSha: "800114ea"
-sourceContentHash: "sha256:9ec6298d6c909b81"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:9ec6298d6c909b81'
 sourceBodyHash: 'sha256:93b7dc55fa7bfc35'
 translatedAt: "2026-04-15T17:32:16+08:00"
 ---

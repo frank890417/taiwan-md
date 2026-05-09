@@ -10,8 +10,8 @@ readingTime: 10
 featured: false
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
 lastVerified: 2026-03-25
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:0c49eb028b1d20ab'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:dfb20f69ec36c9e6'
 sourceBodyHash: 'sha256:ca7ccf342ddb45cb'
 translatedAt: '2026-04-14T08:57:05+08:00'
 ---

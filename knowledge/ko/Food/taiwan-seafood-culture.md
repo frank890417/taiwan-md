@@ -11,7 +11,7 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Food/台灣海鮮文化.md'
-sourceCommitSha: '221b1708'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b19eaae2749a2675'
 sourceBodyHash: 'sha256:0e334a19b5edfbf1'
 translatedAt: '2026-04-14T03:55:14+08:00'

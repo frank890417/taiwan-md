@@ -10,8 +10,8 @@ readingTime: 12
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'People/蔡阿嘎.md'
-sourceCommitSha: '9f58e3fd'
-sourceContentHash: 'sha256:5df437374507ecbb'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:bf1f88b91edcdfa2'
 sourceBodyHash: 'sha256:3835f3eeb33c205d'
 translatedAt: '2026-05-02T09:03:00+08:00'
 ---

@@ -19,8 +19,8 @@ lastVerified: 2026-04-10
 lastHumanReview: false
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'History/中正紀念堂.md'
-sourceCommitSha: '603c911a'
-sourceContentHash: 'sha256:c4755ffdce1f19d7'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:69baf41d38c3c7aa'
 sourceBodyHash: 'sha256:3ae76649f6776188'
 translatedAt: '2026-04-14T12:32:06+08:00'
 ---

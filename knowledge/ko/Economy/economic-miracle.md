@@ -1,19 +1,19 @@
 ---
-title: "경제 기적"
+title: '경제 기적'
 description: "'1952년, 타이완 1인당 GDP는 고작 196달러에 불과하여 아이티보다 가난했다. 40년 후, 타이완은 '아시아 네 마리 용'의 으뜸이 되어 1인당 GDP가 1만 달러를 돌파했다. 그러나 이 '기적'의 대가는 무엇이었는가? 우리가 타이완 돈이 발목까지 차오르던 시대를 찬미할 때, 가공수출구역에서 매일 12시간씩 일한 여공들과 평생 저축을 소규모 공장에 걸었던 사장님들의 이야기는 거의 거론되지 않는다.'"
 date: 2026-03-23
 author: Taiwan.md
 category: Economy
 subcategory: '經濟發展'
-tags: ["Economy", "대만 경제", "중소기업", "과학단지", "반도체"]
+tags: ['Economy', '대만 경제', '중소기업', '과학단지', '반도체']
 readingTime: 10
 lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
 translatedFrom: Economy/經濟奇蹟.md
-sourceCommitSha: 14c7b362
-sourceContentHash: sha256:18f44148c9c813dd
-sourceBodyHash: sha256:418b6e8bc018ebdd
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:18f44148c9c813dd'
+sourceBodyHash: 'sha256:418b6e8bc018ebdd'
 translatedAt: 2026-05-03T23:14:06+08:00
 ---
 

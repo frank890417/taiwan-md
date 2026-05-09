@@ -13,8 +13,8 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutb
 imageAlt: '부눙족(布農族) 사람들이 파시붓붓을 연창하는 모습'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Music/八部合音.md'
-sourceCommitSha: '0851f334'
-sourceContentHash: 'sha256:10556895c89da74d'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:3c2872e562b3f229'
 sourceBodyHash: 'sha256:43f231d59e183f8e'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---

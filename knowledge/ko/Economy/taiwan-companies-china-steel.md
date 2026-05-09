@@ -10,7 +10,7 @@ readingTime: 8
 featured: false
 translatedFrom: 'Economy/台灣企業：中鋼.md'
 lastVerified: 2026-03-20
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:046697b621d130dd'
 sourceBodyHash: 'sha256:3296fd82b3d8a938'
 translatedAt: '2026-04-14T08:37:54+08:00'

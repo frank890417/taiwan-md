@@ -4,7 +4,7 @@ description: 'From dawn tai chi to late‑night strolls—parks as Taiwan’s in
 tags: [Parks, Leisure, Social Life, Intergenerational, Daily Life]
 lastVerified: 2026-03-19
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5627d196edbadc46'
 sourceBodyHash: 'sha256:fb9597ed5d14a1d1'
 translatedAt: '2026-04-14T12:25:09+08:00'

@@ -11,8 +11,8 @@ lastVerified: 2026-04-05
 lastHumanReview: false
 featured: true
 translatedFrom: Food/粽子.md
-sourceCommitSha: 8b302342
-sourceContentHash: sha256:417f55638e009ac3
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:417f55638e009ac3'
 sourceBodyHash: 'sha256:0a9c845f48a278d1'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

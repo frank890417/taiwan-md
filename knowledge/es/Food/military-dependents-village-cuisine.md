@@ -18,7 +18,7 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9da552eaab0e9bd8'
 sourceBodyHash: 'sha256:3bb2b7ca8725757b'
 translatedAt: '2026-05-01T22:19:10+08:00'

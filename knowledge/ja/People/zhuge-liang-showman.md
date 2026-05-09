@@ -14,7 +14,7 @@ tags:
 lastVerified: '2026-03-19'
 lastHumanReview: false
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: '83b74a21'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:88702d1dcebd6f35'
 sourceBodyHash: 'sha256:75ed9a5646b17b48'
 translatedAt: '2026-05-01T18:09:43+08:00'

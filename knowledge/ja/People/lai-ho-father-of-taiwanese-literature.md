@@ -8,8 +8,8 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 translatedFrom: 'People/賴和.md'
-sourceCommitSha: '1213a0f4'
-sourceContentHash: 'sha256:34809f6a7ed52317'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ea423174510ba903'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---

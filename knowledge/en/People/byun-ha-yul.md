@@ -18,7 +18,7 @@ readingTime: 9
 featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/邊荷律.md'
-sourceCommitSha: '967e77ab'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:af29100685c178a2'
 sourceBodyHash: 'sha256:be4e8ced9d5948a0'
 translatedAt: '2026-05-01T13:19:11+08:00'

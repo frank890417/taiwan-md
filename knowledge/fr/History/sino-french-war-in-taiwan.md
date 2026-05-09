@@ -19,8 +19,8 @@ author: Taiwan.md Translation Team
 lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: 'History/清法戰爭.md'
-sourceCommitSha: '956a36f3'
-sourceContentHash: 'sha256:e29f16bbd0760f6c'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0d133f631d4db985'
 sourceBodyHash: 'sha256:f135e504997bf040'
 translatedAt: '2026-04-14T12:31:57+08:00'
 ---

@@ -11,7 +11,7 @@ category: 'Food'
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'Food/台灣豆漿與早餐店.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ba7ff819ca0777d2'
 sourceBodyHash: 'sha256:a157234d7add2561'
 translatedAt: '2026-04-14T04:09:26+08:00'

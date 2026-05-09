@@ -11,7 +11,7 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'History/清治時期.md'
-sourceCommitSha: '3aba2ea3'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f1f83caa365a0cc3'
 sourceBodyHash: 'sha256:d0f664f6960a31bb'
 translatedAt: '2026-04-29T20:23:51+08:00'

@@ -11,7 +11,7 @@ readingTime: 13
 lastVerified: 2026-04-08
 lastHumanReview: false
 translatedFrom: 'Culture/台灣殯葬文化與生死觀.md'
-sourceCommitSha: 'f4e7a8af'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c4dd3375c0cfa0a5'
 sourceBodyHash: 'sha256:a20df4f3c36414b3'
 translatedAt: '2026-05-01T18:02:56+08:00'

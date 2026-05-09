@@ -4,13 +4,20 @@ description: 'In 2025, Taiwan Sugar’s after-tax net profit hit a record high o
 date: 2026-05-03
 author: 'Taiwan.md Contributors'
 category: Economy
-tags: ['Taiwan Sugar', 'Sugar Industry History', 'Transformation', 'Circular Economy', 'Moth Orchids']
+tags:
+  [
+    'Taiwan Sugar',
+    'Sugar Industry History',
+    'Transformation',
+    'Circular Economy',
+    'Moth Orchids',
+  ]
 readingTime: 8
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台糖.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
 translatedAt: '2026-05-03T21:10:03+08:00'

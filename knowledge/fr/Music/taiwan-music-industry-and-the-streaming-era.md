@@ -19,7 +19,7 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e8d2c98ba6bf8e0d'
 sourceBodyHash: 'sha256:cfd94d19f3ed25b0'
 translatedAt: '2026-04-15T17:32:47+08:00'

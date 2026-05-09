@@ -20,9 +20,9 @@ readingTime: 12
 lastVerified: 2026-04-06
 lastHumanReview: false
 translatedFrom: Economy/台灣金融科技發展.md
-sourceCommitSha: 2d0c126f
-sourceContentHash: sha256:c4241632c676aa85
-sourceBodyHash: sha256:b0709e8ad615db88
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:c4241632c676aa85'
+sourceBodyHash: 'sha256:b0709e8ad615db88'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
@@ -51,7 +51,7 @@ En julio de 2025, el tribunal dictaminó que la transacción era inválida y ord
 El día del embargo, cerca de 300 empleados fueron notificados de última hora para trabajar desde casa y el letrero de la oficina fue retirado. Posteriormente, Hu Yijia fue acusado por la fiscalía del delito de deslealtad especial, se le restringió la salida del país y, por un tiempo, fue sometido a vigilancia con tobillera electrónica.[^5]
 
 > **📝 Nota del curador**
-> Los fondos de los usuarios de JKOPay en sí estaban seguros: según la *Ley de Gestión de Instituciones de Pago Electrónico*, todos los saldos almacenados se custodian en cuentas fiduciarias independientes en bancos comisionados, completamente aisladas de las finanzas de la empresa matriz. La Comisión de Supervisión Financiera insistió repetidamente en este punto. Sin embargo, la imagen de "cuentas con menos de mil dólares" ya había dañado gravemente la base de confianza de las startups financieras en Taiwán.
+> Los fondos de los usuarios de JKOPay en sí estaban seguros: según la _Ley de Gestión de Instituciones de Pago Electrónico_, todos los saldos almacenados se custodian en cuentas fiduciarias independientes en bancos comisionados, completamente aisladas de las finanzas de la empresa matriz. La Comisión de Supervisión Financiera insistió repetidamente en este punto. Sin embargo, la imagen de "cuentas con menos de mil dólares" ya había dañado gravemente la base de confianza de las startups financieras en Taiwán.
 
 Esta no era la primera vez que Hu Yijia chocaba con los reguladores. Ya en 2020, la Comisión de Supervisión Financiera lo multó con tres millones de TWD por siete infracciones relacionadas con el producto "Tuofubao", incluyendo inducción a error de los inversores y socavamiento del gobierno corporativo, y lo destituyó como director de JKOPay Investment Trust. Su respuesta en ese momento fue un ataque público contra la Comisión.[^6]
 
@@ -59,18 +59,18 @@ La historia de JKOPay es un microcosmos de la década de tecnología financiera 
 
 ## Una ley que cambió las reglas del juego
 
-Volvamos a 2015. Ese año, la Comisión de Supervisión Financiera publicó el *Libro Blanco de Estrategias de Desarrollo FinTech*, declarando la intención de Taiwán de abrazar la tecnología financiera. Dos años después, la *Ley de Experimentos de Innovación en Tecnología Financiera* fue aprobada por el legislativo: fue la primera ley de su tipo en Asia, convirtiendo a Taiwán en uno de los pocos países del mundo con un marco legal de "sandbox regulatorio".[^7]
+Volvamos a 2015. Ese año, la Comisión de Supervisión Financiera publicó el _Libro Blanco de Estrategias de Desarrollo FinTech_, declarando la intención de Taiwán de abrazar la tecnología financiera. Dos años después, la _Ley de Experimentos de Innovación en Tecnología Financiera_ fue aprobada por el legislativo: fue la primera ley de su tipo en Asia, convirtiendo a Taiwán en uno de los pocos países del mundo con un marco legal de "sandbox regulatorio".[^7]
 
 La lógica del sandbox es sencilla: si tienes una idea de innovación financiera pero la normativa vigente no lo permite, solicita entrar al sandbox, experimenta en un ámbito limitado; si funciona, se reforma la ley para legalizarlo; si fracasa, no serás sancionado.
 
 Suena ideal, pero la ejecución resultó más conservadora de lo esperado.
 
-Joinvest es uno de los pocos casos de éxito que se graduaron del sandbox: esta empresa opera una plataforma de compra colectiva de bonos que permite a inversores minoristas agrupar fondos para adquirir bonos que normalmente solo están disponibles para inversores institucionales. Entró al sandbox en 2021 y la Comisión reconoció que el proyecto "posee innovación y contribuye a la inclusión financiera", lo que impulsó directamente una reforma de las *Normas de Establecimiento de Firmas de Valores*.[^8]
+Joinvest es uno de los pocos casos de éxito que se graduaron del sandbox: esta empresa opera una plataforma de compra colectiva de bonos que permite a inversores minoristas agrupar fondos para adquirir bonos que normalmente solo están disponibles para inversores institucionales. Entró al sandbox en 2021 y la Comisión reconoció que el proyecto "posee innovación y contribuye a la inclusión financiera", lo que impulsó directamente una reforma de las _Normas de Establecimiento de Firmas de Valores_.[^8]
 
 Pero la otra cara de la moneda no es tan alentadora. Tras siete años de funcionamiento del sandbox, el número de experimentos aprobados acumulados no es alto, y los que realmente se "graduaron" y promovieron reformas regulatorias son aún menos. Los críticos señalan que los requisitos de entrada al sandbox taiwanés son demasiado altos, la revisión demasiado lenta y el período de experimentación demasiado corto, convirtiéndolo en un sistema que "parece abierto pero en la práctica es conservador".[^9]
 
 > "El sandbox regulatorio de Taiwán es uno de los marcos legales más completos del mundo, pero el problema no está en el marco, sino en la velocidad de ejecución."
-> —Chambers and Partners, *Fintech 2025: Taiwan*[^9]
+> —Chambers and Partners, _Fintech 2025: Taiwan_[^9]
 
 ## La guerra de pagos en el teléfono
 
@@ -145,11 +145,11 @@ En diciembre de 2025, LINE Bank reportó su primer mes rentable, una cantidad ta
 
 [^6]: [Voice Tank 〈Los 3,600 millones desaparecidos de JKOPay: de la experiencia de pagos en China al "excepcionalismo startup"〉](https://voicettank.org/20250714-1/) — Repaso del historial de sanciones por infracciones del producto "Tuofubao" y los desafíos regulatorios de la Comisión de Supervisión Financiera.
 
-[^7]: [ICLG, *Fintech Laws and Regulations Report 2025: Taiwan*](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — La *Ley de Experimentos de Innovación en Tecnología Financiera* de Taiwán entró en vigor en abril de 2018, siendo la primera ley especializada en FinTech de Asia.
+[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — La _Ley de Experimentos de Innovación en Tecnología Financiera_ de Taiwán entró en vigor en abril de 2018, siendo la primera ley especializada en FinTech de Asia.
 
-[^8]: [Global Legal Insights, *Fintech Laws and Regulations 2025: Taiwan*](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvest, plataforma de compra colectiva de bonos, se graduó del sandbox e impulsó la reforma de las *Normas de Establecimiento de Firmas de Valores*.
+[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvest, plataforma de compra colectiva de bonos, se graduó del sandbox e impulsó la reforma de las _Normas de Establecimiento de Firmas de Valores_.
 
-[^9]: [Chambers and Partners, *Fintech 2025: Taiwan — Trends and Developments*](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — Evaluación de la comunidad jurídica internacional sobre el sandbox regulatorio taiwanés: "marco completo pero velocidad de ejecución insuficiente".
+[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — Evaluación de la comunidad jurídica internacional sobre el sandbox regulatorio taiwanés: "marco completo pero velocidad de ejecución insuficiente".
 
 [^10]: [Comisión Nacional de Desarrollo 〈La penetración de pagos móviles alcanza un máximo histórico, hacia una nueva vida digital〉](https://www.ndc.gov.tw/nc_27_33762) — El gobierno fijó el objetivo de alcanzar una penetración de pagos móviles del 90% en 2025; el total de usuarios de cuentas de pago electrónico alcanzó los 34,45 millones.
 

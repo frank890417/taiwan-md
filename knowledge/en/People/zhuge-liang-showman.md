@@ -6,7 +6,7 @@ tags: ['豬哥亮', '秀場', '喜劇', '綜藝', '台語']
 subcategory: '數位與媒體'
 lastVerified: 2026-03-19
 translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: 83b74a21
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:88702d1dcebd6f35'
 sourceBodyHash: 'sha256:75ed9a5646b17b48'
 translatedAt: '2026-05-01T12:53:58+08:00'

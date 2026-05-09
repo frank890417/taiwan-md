@@ -21,8 +21,8 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutb
 imageAlt: 'Des membres du peuple Bunun interprétant le chant des huit voix'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Music/八部合音.md'
-sourceCommitSha: '0851f334'
-sourceContentHash: 'sha256:10556895c89da74d'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:3c2872e562b3f229'
 sourceBodyHash: 'sha256:43f231d59e183f8e'
 translatedAt: '2026-04-15T17:32:16+08:00'
 ---

@@ -15,7 +15,7 @@ tags:
 lastVerified: '2026-03-19'
 lastHumanReview: false
 translatedFrom: 'People/陳玉勳.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:37de07b59dc6f1fd'
 sourceBodyHash: 'sha256:f33484f2f7bf8baf'
 translatedAt: '2026-05-01T18:09:43+08:00'

@@ -11,7 +11,7 @@ category: 'History'
 featured: true
 lastVerified: 2026-03-22
 translatedFrom: 'History/台灣眷村歷史.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e26ca70cc051b743'
 sourceBodyHash: 'sha256:6ea24f40d826e7d7'
 translatedAt: '2026-04-14T05:07:23+08:00'

@@ -11,7 +11,7 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Culture/台灣花布.md'
-sourceCommitSha: '2acf410b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d3e93a783d8e2299'
 sourceBodyHash: 'sha256:bfe64f8e2199eaf4'
 translatedAt: '2026-05-01T20:54:23+08:00'

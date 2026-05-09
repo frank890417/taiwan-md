@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'History/乙未之役.md'
-sourceCommitSha: 'a98d745f'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:fc7bac7e7a555233'
 sourceBodyHash: 'sha256:6abb82a8cf5a2a95'
 translatedAt: '2026-05-01T14:48:26+08:00'

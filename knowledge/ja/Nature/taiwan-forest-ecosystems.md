@@ -11,7 +11,7 @@ lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
 translatedFrom: 'Nature/台灣森林生態系.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:07db67d659e5f36c'
 sourceBodyHash: 'sha256:cfc05d83f5b3a542'
 translatedAt: '2026-05-01T19:52:32+08:00'

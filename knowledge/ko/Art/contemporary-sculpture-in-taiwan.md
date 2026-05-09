@@ -11,7 +11,7 @@ readingTime: 18
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Art/台灣當代雕塑發展.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:f29e2e2ec385f748'
 sourceBodyHash: 'sha256:2fae1aa9371579c1'
 translatedAt: '2026-04-14T09:31:15+08:00'

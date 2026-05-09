@@ -18,7 +18,7 @@ featured: false
 readingTime: 8
 category: 'Culture'
 translatedFrom: 'Culture/巴哈姆特.md'
-sourceCommitSha: 'bf1be5e5'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1eeea7390de68e10'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
 translatedAt: '2026-05-01T13:44:02+08:00'

@@ -5,7 +5,8 @@ date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '社會運動'
-tags: [
+tags:
+  [
     '環境正義',
     '鄰避效應',
     '環境不平等',
@@ -19,7 +20,7 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
-sourceCommitSha: '2d0c126f'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8d7b73d5dcd91cdf'
 sourceBodyHash: 'sha256:102f748afe8c1589'
 translatedAt: '2026-05-03T23:14:05+08:00'
@@ -237,5 +238,5 @@ Environmental decision-making in a democratic society should be based on adequat
 - [Tao Foundation of Orchid Island](http://www.teyaw.org/) — Nuclear waste removal and Indigenous rights
 - [Environmental Protection Administration, Executive Yuan](https://www.epa.gov.tw/) — Environmental policy and regulatory information
 - [National Taiwan University College of Public Health](https://www.sph.ntu.edu.tw/) — Environmental health risk research
-- *Environmental Justice: Environmental Risks in Disadvantaged Communities*, by Wen-ling Tu, OpenBook, 2012
-- *An Introduction to Taiwan's Environmental Movements*, by Ming-hsiu Ho, Socio Publishing, 2006
+- _Environmental Justice: Environmental Risks in Disadvantaged Communities_, by Wen-ling Tu, OpenBook, 2012
+- _An Introduction to Taiwan's Environmental Movements_, by Ming-hsiu Ho, Socio Publishing, 2006

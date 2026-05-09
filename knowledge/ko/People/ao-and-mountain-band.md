@@ -25,8 +25,8 @@ readingTime: 16
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'People/凹與山.md'
-sourceCommitSha: '0ecfa053'
-sourceContentHash: 'sha256:92cbf2b890a1e888'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
 translatedAt: '2026-05-02T08:59:00+08:00'
 ---

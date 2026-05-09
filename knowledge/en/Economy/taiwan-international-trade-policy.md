@@ -20,7 +20,7 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: '800114ea'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:e86aa807bf77d463'
 sourceBodyHash: 'sha256:50732ecac41f23f8'
 translatedAt: '2026-05-01T14:11:02+08:00'

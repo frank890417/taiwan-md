@@ -10,7 +10,7 @@ readingTime: 12
 featured: false
 translatedFrom: 'Culture/台灣花布.md'
 lastVerified: 2026-03-19
-sourceCommitSha: '2acf410b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d3e93a783d8e2299'
 sourceBodyHash: 'sha256:bfe64f8e2199eaf4'
 translatedAt: '2026-04-14T07:46:34+08:00'

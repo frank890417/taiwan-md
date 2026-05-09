@@ -10,7 +10,7 @@ readingTime: 15
 featured: false
 lastVerified: 2026-03-31
 translatedFrom: 'Society/台灣省籍矛盾.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1ad089e1b6d004d2'
 sourceBodyHash: 'sha256:b040587ba3041a93'
 translatedAt: '2026-04-14T05:53:10+08:00'

@@ -14,8 +14,8 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/TaiwanesePineappleCa
 imageAlt: '鳳梨酥'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: Food/台灣麵包與烘焙.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:b2065fed8f03e46b
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:b2065fed8f03e46b'
 sourceBodyHash: 'sha256:61a9d0ad7fe3cd11'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---

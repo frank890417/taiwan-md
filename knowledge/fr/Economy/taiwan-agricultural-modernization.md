@@ -10,8 +10,8 @@ readingTime: 17
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: "Economy/台灣農業現代化發展.md"
-sourceCommitSha: "d4498d97"
-sourceContentHash: "sha256:e6e4ed55452711e1"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:e6e4ed55452711e1'
 sourceBodyHash: 'sha256:979b05cfe13254ea'
 translatedAt: "2026-04-14T19:21:51+08:00"
 ---

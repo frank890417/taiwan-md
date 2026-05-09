@@ -24,7 +24,7 @@ lastVerified: 2026-04-20
 lastHumanReview: 2026-04-20
 researchReport: reports/research/2026-04/王新仁.md
 translatedFrom: 'Art/王新仁.md'
-sourceCommitSha: '72ec8595'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:25ec392b5ce7e019'
 sourceBodyHash: 'sha256:e40b70041a0b9945'
 translatedAt: '2026-05-01T12:21:52+08:00'

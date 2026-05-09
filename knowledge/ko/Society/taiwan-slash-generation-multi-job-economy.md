@@ -10,7 +10,7 @@ readingTime: 8
 translatedFrom: 'Society/台灣斜槓世代.md'
 lastVerified: 2026-03-29
 featured: false
-sourceCommitSha: '800114ea'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bdd6bcaeb167f0b4'
 sourceBodyHash: 'sha256:cfe750f00aea3ad6'
 translatedAt: '2026-04-14T05:53:10+08:00'

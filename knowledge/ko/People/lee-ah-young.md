@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/李雅英.md'
 readingTime: 9
-sourceCommitSha: '967e77ab'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:83e0dbb3cbec1753'
 sourceBodyHash: 'sha256:68f630723c181a47'
 translatedAt: '2026-04-16T13:53:14+09:00'

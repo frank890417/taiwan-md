@@ -20,7 +20,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-04-07
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: 'cbc2ad44'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:588ff4df368e93d2'
 sourceBodyHash: 'sha256:7536fcd6ada53909'
 translatedAt: '2026-04-14T19:20:08+08:00'

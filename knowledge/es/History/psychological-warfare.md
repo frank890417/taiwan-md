@@ -1,8 +1,21 @@
 ---
-title: "Psychological Warfare: From the Kinmen Broadcasting Wall to the Paradigm Shift of AI Cognitive Operations"
+title: 'Psychological Warfare: From the Kinmen Broadcasting Wall to the Paradigm Shift of AI Cognitive Operations'
 description: "From the 1960s' Deng Lijun appeals and 'surrender food' dropped by balloons on Kinmen to the 2026 digital era's information penetration and AI cognitive manipulation, cross-strait psychological warfare has evolved from physical material incentives to digital semantic攻防 (offense and defense). This article details the historical context of Taiwan's psychological warfare against China, specific material lists, and contrasts the challenges of the current AI industrialization stage."
 date: 2026-05-03
-tags: ['psychological warfare', 'cognitive warfare', 'Kinmen', 'Deng Lijun', 'balloon-dropped items', 'surrender food', 'AI deepfake', 'information warfare', 'cross-strait relations', 'Radio Free Asia', '']
+tags:
+  [
+    'psychological warfare',
+    'cognitive warfare',
+    'Kinmen',
+    'Deng Lijun',
+    'balloon-dropped items',
+    'surrender food',
+    'AI deepfake',
+    'information warfare',
+    'cross-strait relations',
+    'Radio Free Asia',
+    '',
+  ]
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: 'Media and Speech'
@@ -10,8 +23,8 @@ readingTime: 8
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: '053efd9a'
-sourceContentHash: 'sha256:d64911e3fd5d8404'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
 translatedAt: '2026-05-03T21:41:10+08:00'
 ---
@@ -25,7 +38,7 @@ At the peak of the Cold War confrontation, Taiwan's psychological warfare strate
 
 ### The Radio War: More Than Just Deng Lijun's Voice
 
-Kinmen's **Mashan Observation Post** and **Beishan Broadcasting Wall** were the concrete embodiments of sonic weapons at that time [^1]. In addition to Deng Lijun's *Sweet Honey*, the radio programs of that era were highly targeted:
+Kinmen's **Mashan Observation Post** and **Beishan Broadcasting Wall** were the concrete embodiments of sonic weapons at that time [^1]. In addition to Deng Lijun's _Sweet Honey_, the radio programs of that era were highly targeted:
 
 - **Specific Programs and Call Signs**: **Radio Free Asia (RFA)**'s broadcast call sign for mainland China included "Voice of Free China" (Voice of Free China). Program content covered "Reward Measures for Uprising," real-time news from Taiwan, and commentary on the chaotic situation of the Cultural Revolution [^2].
 - **Uprising Phase**: The broadcasts repeatedly reported "Surrender Navigation Directions" and "Landing Signals," detailing how mainland pilots should fly to Taoyuan or Ching Chuan Kang Air Force Bases, promising rewards of thousands to tens of thousands of taels of gold [^7].
@@ -35,12 +48,12 @@ Kinmen's **Mashan Observation Post** and **Beishan Broadcasting Wall** were the 
 
 Balloon-dropped operations were not just about distributing leaflets; they were a visual and material exhibition of "modern life."
 
-| Category | Specific Material List [^5] [^11] | Psychological Intent |
-| :----------- | :--------------------------------------------------------- | :----------------------------------------------- |
-| **Surrender Food** | **Pineapple cakes, instant noodles (with seasoning packets), dried meat, sugar, lard cans, rations** | To demonstrate the development of Taiwan's food industry and extreme abundance of materials. |
-| **Daily Necessities** | **Small transistor radios, watches, fountain pens, nail clippers, underwear, towels** | Radios were used to encourage "secretly listening to enemy stations"; clothing displayed achievements in the textile industry. |
-| **Medical Supplies** | **Tiger Balm, cold medicine, band-aids** | To reflect care for the "physical health" of mainland compatriots and the gap in medical standards. |
-| **Political Credentials** | **Photos of Chiang Kai-shek, Surrender Certificates (guaranteeing gold and position promises)** | To provide a political safe haven and specific economic opportunities for turning over [^6]. |
+| Category                  | Specific Material List [^5] [^11]                                                                    | Psychological Intent                                                                                                           |
+| :------------------------ | :--------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| **Surrender Food**        | **Pineapple cakes, instant noodles (with seasoning packets), dried meat, sugar, lard cans, rations** | To demonstrate the development of Taiwan's food industry and extreme abundance of materials.                                   |
+| **Daily Necessities**     | **Small transistor radios, watches, fountain pens, nail clippers, underwear, towels**                | Radios were used to encourage "secretly listening to enemy stations"; clothing displayed achievements in the textile industry. |
+| **Medical Supplies**      | **Tiger Balm, cold medicine, band-aids**                                                             | To reflect care for the "physical health" of mainland compatriots and the gap in medical standards.                            |
+| **Political Credentials** | **Photos of Chiang Kai-shek, Surrender Certificates (guaranteeing gold and position promises)**      | To provide a political safe haven and specific economic opportunities for turning over [^6].                                   |
 
 📝 **Curator's Note**: The "instant noodles" in the balloon-dropped items were a highly shocking symbol in mainland China at that time. This industrial product, ready to eat upon opening and featuring multiple seasoning packets, represented an unimaginable "efficiency" and "abundance" to mainland citizens still under the rationing system.
 

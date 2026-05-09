@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Economy/台灣企業：宏達電.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e3a135605ed275be'
 sourceBodyHash: 'sha256:5fbf8f52118423a5'
 translatedAt: '2026-05-01T15:38:13+08:00'

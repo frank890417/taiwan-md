@@ -10,8 +10,8 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-22
 translatedFrom: "People/高俊明.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:f0ff3506d945b448"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
 translatedAt: "2026-04-14T19:19:52+08:00"
 ---

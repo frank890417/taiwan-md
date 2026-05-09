@@ -17,7 +17,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-24
 translatedFrom: 'Technology/台灣災難醫療體系.md'
-sourceCommitSha: 'ecb173b1'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:eaa687a658bed0b7'
 sourceBodyHash: 'sha256:b629f53ab0b8e508'
 translatedAt: '2026-04-14T12:33:06+08:00'

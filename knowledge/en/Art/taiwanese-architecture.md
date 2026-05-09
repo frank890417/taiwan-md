@@ -12,7 +12,7 @@ revision: 2
 lastVerified: 2026-03-28
 lastHumanReview: true
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'e564525c'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:97939516b3de2749'
 sourceBodyHash: 'sha256:8d0abd22f69dd0b4'
 translatedAt: '2026-05-01T13:44:02+08:00'

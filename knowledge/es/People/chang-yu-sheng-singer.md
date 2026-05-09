@@ -19,7 +19,7 @@ lastVerified: 2026-04-19
 lastHumanReview: 2026-04-19
 featured: false
 translatedFrom: 'People/張雨生.md'
-sourceCommitSha: '4d3d206a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f4eb416f9486c9fa'
 sourceBodyHash: 'sha256:fa4f2d152a7b850d'
 translatedAt: '2026-05-01T22:19:10+08:00'

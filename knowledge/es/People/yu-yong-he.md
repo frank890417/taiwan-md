@@ -21,8 +21,8 @@ readingTime: 10
 lastVerified: 2026-03-25
 lastHumanReview: true
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:10864abc2d3e4f56'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---

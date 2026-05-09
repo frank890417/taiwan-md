@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Economy/台灣農業現代化發展.md'
-sourceCommitSha: 'd4498d97'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e6e4ed55452711e1'
 sourceBodyHash: 'sha256:979b05cfe13254ea'
 translatedAt: '2026-05-01T13:44:02+08:00'

@@ -4,8 +4,8 @@ description: '대만의 공식 웹사이트는 정부 서비스와 정책 정보
 date: 2026-03-17
 tags: [자료, 정부, 공식, Taiwan.md]
 translatedFrom: resources/official-websites.md
-sourceCommitSha: 800114ea
-sourceContentHash: sha256:0d481ed818da82f8
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0d481ed818da82f8'
 sourceBodyHash: 'sha256:6713c8a6c615e62a'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---

@@ -7,8 +7,8 @@ tags: ['人物', '朱宗慶', '音楽家', '打楽器', '教育', '舞台芸術'
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: People/朱宗慶.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:9f25e4b33618c84b
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0eba5bba0f89e085'
 sourceBodyHash: 'sha256:7f55711687ee2aed'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People

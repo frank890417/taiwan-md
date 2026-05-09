@@ -11,9 +11,9 @@ lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
 translatedFrom: Economy/經濟奇蹟.md
-sourceCommitSha: 14c7b362
-sourceContentHash: sha256:18f44148c9c813dd
-sourceBodyHash: sha256:418b6e8bc018ebdd
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:18f44148c9c813dd'
+sourceBodyHash: 'sha256:418b6e8bc018ebdd'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
@@ -145,7 +145,7 @@ Dans les années 1970, la zone franche industrielle de Kaohsiung était qualifi�
 Mais ces ouvrières n'avaient pas le choix. Pour une jeune fille de la campagne, entrer dans une zone franche industrielle était déjà la meilleure option. Dans son village, elle ne pouvait que travailler dans l'agriculture ou faire du travail à domicile, avec des revenus encore plus faibles et un avenir encore plus sombre.
 
 > **💡 Le saviez-vous ?**
-> Dans les années 1970, une chanson populaire intitulée *Le Village natal au crépuscule* (黃昏的故鄉) contenait les paroles : « Ceux qui vivent pour vivre, passagers temporaires dans une terre étrangère », décrivant ces jeunes qui quittaient leur foyer pour travailler en usine. Cette chanson connut un immense succès car elle exprimait le sentiment d'une génération entière de Taïwanais.
+> Dans les années 1970, une chanson populaire intitulée _Le Village natal au crépuscule_ (黃昏的故鄉) contenait les paroles : « Ceux qui vivent pour vivre, passagers temporaires dans une terre étrangère », décrivant ces jeunes qui quittaient leur foyer pour travailler en usine. Cette chanson connut un immense succès car elle exprimait le sentiment d'une génération entière de Taïwanais.
 
 ### Le coût de la pollution environnementale
 

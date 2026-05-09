@@ -10,8 +10,8 @@ lastVerified: 2026-04-17
 lastHumanReview: true
 featured: false
 translatedFrom: Geography/台灣行政區劃.md
-sourceCommitSha: 4caeb669
-sourceContentHash: sha256:349360e6f67e2293
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:349360e6f67e2293'
 sourceBodyHash: 'sha256:a900fc355006c673'
 translatedAt: 2026-05-02T01:17:14+08:00
 ---

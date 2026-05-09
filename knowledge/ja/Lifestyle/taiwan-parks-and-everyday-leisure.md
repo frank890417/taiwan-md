@@ -6,7 +6,7 @@ tags: ['公園', '余暇', '社交文化', '世代を超えた', '日常生活']
 lastVerified: '2026-03-19'
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5627d196edbadc46'
 sourceBodyHash: 'sha256:fb9597ed5d14a1d1'
 translatedAt: '2026-05-01T18:09:43+08:00'

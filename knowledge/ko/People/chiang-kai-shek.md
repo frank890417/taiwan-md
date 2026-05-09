@@ -9,8 +9,8 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/蔣中正.md'
 readingTime: 18
 featured: false
-sourceCommitSha: '0851f334'
-sourceContentHash: 'sha256:cc927a774bcfd71c'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ad64f216ed170575'
 sourceBodyHash: 'sha256:447dc5d1bea38591'
 translatedAt: '2026-04-14T19:25:05+08:00'
 ---

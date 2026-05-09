@@ -13,8 +13,8 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: "People/楊右任.md"
-sourceCommitSha: "84e04168"
-sourceContentHash: "sha256:ffd477fca05ec608"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ffd477fca05ec608'
 sourceBodyHash: 'sha256:b8b4f8338741f24b'
 translatedAt: "2026-04-14T19:16:13+08:00"
 ---

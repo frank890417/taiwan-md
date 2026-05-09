@@ -12,8 +12,8 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-21
 translatedFrom: "People/麟洋配.md"
-sourceCommitSha: "ddc476ed"
-sourceContentHash: "sha256:d3037d2c6f885793"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:d3037d2c6f885793'
 sourceBodyHash: 'sha256:2c9db3cb9fda0ceb'
 translatedAt: "2026-04-14T19:19:52+08:00"
 ---

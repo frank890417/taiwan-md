@@ -21,8 +21,8 @@ lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
 translatedFrom: Culture/台灣新偶像世代.md
-sourceCommitSha: 2c96c034
-sourceContentHash: sha256:8258a0ced6980600
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8258a0ced6980600'
 sourceBodyHash: 'sha256:3dda77b7510dd761'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

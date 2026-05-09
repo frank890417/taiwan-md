@@ -24,8 +24,8 @@ lastVerified: 2026-04-30
 lastHumanReview: false
 readingTime: 18
 translatedFrom: 'Nature/台灣藍鵲.md'
-sourceCommitSha: '21335999'
-sourceContentHash: 'sha256:f6980fbd5d5b1fa0'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:69050f9233c761e6'
 sourceBodyHash: 'sha256:9493291d7f66f3a4'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
