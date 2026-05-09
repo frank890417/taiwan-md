@@ -42,6 +42,25 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 台灣企業：台積電 EVOLVE — 2026-05-09 laughing-goldstine 全文重寫（深度研究 / Economy / 護國神山）
+
+哲宇 directive「/twmd-rewrite 深度研究 重寫『台灣企業：台積電』，完整遵循 pipeline」。同 PR ship REWRITE-PIPELINE v2.21 §1.7b 更新（理想 2-3 圖，企業官網/fair use editorial scope 入正式來源）。EVOLVE 從 134 行 → 289 行，5 場景架構保留，3 段新場景補齊（1985 年 14 天提案 / 2009 年 10 分鐘樓下豆漿 / 鄭家祖墳 178 年），結尾 Mode D 敘事閉環+翻轉「56 歲那個人，已經沒在這個房間了」。
+
+- **Article**: [knowledge/Economy/台灣企業：台積電.md](../../knowledge/Economy/台灣企業：台積電.md)
+- **Pipeline**: REWRITE-PIPELINE v2.21 — EVOLVE 模式（重寫率 ~95%，原稿 5 場景骨架保留 + 3 場景新增）
+- **核心矛盾**：「54 歲離開德儀、56 歲創立台積電的張忠謀前 18 年逃過三次難 → 38 年後川普誇接班人魏哲家『是這個房間裡最重要的男人』」 vs 「但同一段時間，新竹寶山一座 1844 年蓋的鄭家祖墳正在遷葬為 2 奈米廠讓地」。所有奇蹟都疊在一座島承擔不起的水電與在地歷史代價上。
+- **Hook**：1985-09-04 李國鼎辦公室 14 天「Common Wafer Fab」原始提案 verbatim 中文段落（張忠謀自傳）
+- **品質**：289 行 / 31 腳註 / 破折號 9（< 15）/ prose-health score 2 (≤3 PASS) / article-health ci-deploy passed=True
+- **Research**: [reports/research/2026-05/台灣企業：台積電.md](../../reports/research/2026-05/台灣企業：台積電.md) — 407 行研究筆記，22 facts table、28 verbatim quotes（張忠謀 8 / 魏哲家 4 / 黃仁勳 4 / Trump 英文 / 柯志恩 英文 / 邱振瑋議員）、5 specific scenes、5 image candidates（CC/PD verified）
+- **媒體插入**（2 件）：
+  1. **hero** `tsmc-fabs-hsinchu-2020.jpg` — 新竹科學園區廠房群空拍，曾成訓 攝 2020-01-02 CC BY 2.0
+  2. **scene-mid** `tsmc-fab21-arizona-2023.jpg` — 亞利桑那 Fab 21 工地空拍，Hunter Trick 攝 2023-11-05 CC BY-SA 4.0
+- **大事實**：Q1 2026 營收 359 億美元（年增 40.6%）、EPS NT$22.08、市值 1.7 兆美元（全球第 6）、員工 84,512（2024-12）、3 奈米占 Q1 25%、2 奈米良率 70-80%、2026 capex USD 52-56B（vs 2025 40.9B / 2024 28.9B）
+- **verbatim 三段**：張忠謀「全球化已死、世界貿易已死」（2024-10-26 運動會中央社）/ 川普「Right now, he's the most important man in the room」（2025-03-03 白宮 American Presidency Project）/ 魏哲家「In Phoenix, Arizona, with 3,000 employees, we are producing the most advanced chip made on U.S. soil」（同前）
+- **Cross-link**：4 延伸閱讀（聯發科技 / 日月光半導體 / 台股 / 產業轉型升級）+ 反向已存在於聯發科技、台股；日月光、產業轉型升級僅 inline mention 待 Stage 5 review
+
+---
+
 ### 王福瑞 EVOLVE — 2026-05-09 laughing-goldstine 媒體插入 + heading 修補（fair use editorial scope 啟動 / People / 聲音藝術）
 
 哲宇 redirect「進化王福瑞，同步搜集適合使用的圖片跟影片，引用作品是 fair use 比較寬鬆不一定要 CC」。Round 2 媒體研究升級 Stage 1.7：在世藝術家作品紀錄圖（個展裝置、專輯封面）走 fair use editorial commentary scope，不需 CC license。
