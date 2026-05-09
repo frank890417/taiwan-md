@@ -14,15 +14,17 @@
 
 ## 0. TL;DR
 
-**B (v6.0) 整體勝出**，特別在三個 critical 維度：
+**B (v6.0) 整體勝出**，三方獨立評審（Opus / Grok / Gemini）一致驗證，特別在三個 critical 維度：
 
 1. **找細節 — 溫度藏在這裡**（v6.0 §二 mission core 真傳達到 agent）
 2. **塑膠詞清理**（5 → 0）
 3. **整體 voice / 策展感**
 
-**A (v5.6) 局部勝出**在兩個 mechanical 維度（對位句節制 / 開場克制），主因是 v6.0 §六 對位本質教學的 ❌ 範例 prime 了 agent — counterintuitive 副作用，未來可加「BAD 範例」明確 label 緩解。
+**A (v5.6) 局部勝出**在兩個 mechanical 維度（對位句節制 / 開場克制），主因是 v6.0 §六 對位本質教學的 ❌ 範例 prime 了 agent — counterintuitive 副作用，v6.1 加 Pink elephant 警示 callout 緩解。
 
 但 net 結果：**B 是真的有溫度的文章，A 是合格的深度報導**。差別最明顯在 B 寫了一段 A 完全沒碰的「颱風麵 cultural memory」 — 那段是 source material 裡藏的具體細節，A 沒挖出來，B 挖出來並編成完整段落。
+
+**Test artifact**：兩篇文章保存於 [reports/ab-tests/2026-05-09-editorial-v5.6-typhoon-leave.md](ab-tests/2026-05-09-editorial-v5.6-typhoon-leave.md) + [reports/ab-tests/2026-05-09-editorial-v6.0-typhoon-leave.md](ab-tests/2026-05-09-editorial-v6.0-typhoon-leave.md)。
 
 ---
 
@@ -258,6 +260,66 @@ PR #952 ship 後，建議追加一個 polish PR 處理 §3 提到的 prime effec
 
 ---
 
+## 7. 三方獨立評審驗證（Opus / Grok / Gemini）
+
+哲宇把兩篇文章送 Grok 跟 Gemini 獨立評審，三方一致判斷 **B (v6.0) 大勝**。三方各自抓到的維度：
+
+### Grok 的判斷重點
+
+> 「B 在結構完整度、敘事張力、主題聚焦與情感共鳴上明顯勝出，更像一篇成熟的『策展式』長文，而 A 雖然也有亮點，卻在幾個關鍵處稍顯零散或重複。」
+
+Grok 抓到的 critical 維度：
+
+1. **「政策 + 生活記憶 + 集體記憶」三層延伸**：「B 把『階級分裂』從政策層面延伸到生活記憶層面，讓文章有了溫度與縱深。」這是 v6.0 §二「找細節 — 溫度藏在這裡」mission core 的精準 instantiation
+2. **小標題張力**：「縣市長每次宣布都在賭」「315 億的算術，與它沒算進去的人」「通行說法把因果搞反了」— 既是總結，也是強烈的論點提示，閱讀節奏更好
+3. **論點不對稱誘因分析更銳利**（B 加策展人筆記點出「放錯不罰、放對加分」）
+4. **批評 A 的「⚠️ 爭議觀點」框「為了平衡而平衡」**：力道不足 — 這是我（Opus）沒抓到的弱點
+
+### Gemini 的判斷重點
+
+> 「B 不僅在冷硬的政策與經濟數字中保留了人性的溫度，也更深刻地呼應了標題中『階級分裂線』的破題。」
+
+Gemini 抓到的 critical 維度：
+
+1. **完整的「階級」論述**：B 設立「近 80 萬移工的隱形困境」獨立章節
+2. **文化記憶與情感共鳴**：颱風麵段落「中和了文章前半段沉重的政治與經濟分析」
+3. **邏輯遞進更為流暢**：起承轉合非常完整
+4. **production-grade 建議**：Gemini 建議「將 A 中『315 億 vs 310 億』並列表格移植進 B」— A 的這個視覺化優勢我跟 Grok 都沒注意到
+
+### 三方驗證的 implication
+
+- **不是 confirmation bias**：我（Opus）作為 EDITORIAL v6.0 設計者讀 B 大勝有風險被質疑 motivated reasoning。Grok + Gemini 兩個獨立 LLM 沒有 EDITORIAL context，純讀文章判斷，得出**完全一致的結論**。這是 v6.0 mission **真實達標**的硬證據
+- **「靈魂 / 溫度」judgment 一致**：Grok 用「有靈魂的社會觀察長文」vs「扎實的政策報導」對比，Gemini 用「保留人性溫度」vs「乾澀」對比，跟我用「策展 vs reportage」judgment 完全對齊
+- **A 弱點的盲點**：Grok 抓到「⚠️ 爭議觀點框為了平衡而平衡」、Gemini 抓到「移工被壓縮在表格單一行列」— 這兩個我都沒抓到，外部評審補了 craft 視角的盲點
+- **A 唯一 production-grade 優勢**：Gemini 點出 A 的「315 億 vs 310 億」並列表格更清楚，是視覺化勝過 B 的具體點。Follow-up 可考慮把這個對比表範例加進 EDITORIAL §九 富文本 Stat Block sub-section
+
+---
+
+## 8. v6.1 polish ship（PR-A 落地）
+
+A/B test 結果直接驅動 v6.1 polish 設計：
+
+| Polish                         | 來源                                                         | v6.1 落實                                                                                              |
+| ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| 1. §三 開場「克制 > 完整」     | A 開場一句話 vs B 三行新聞 lead                              | §三 加「克制 > 完整」原則 + Before/After 範例                                                          |
+| 2. §三 30 秒概覽 metaphor 警示 | B 用「裂痕切開」borderline                                   | §三 加「Metaphor 立刻接具體名詞群作 anchor」緩和版（外部評審驗證 B 用法 OK，警示針對 vacuum metaphor） |
+| 3. §四 段間過渡 sub-section    | B 颱風麵段轉場「在制度爭議之外」硬切                         | §四 新「段與段的呼吸 — 過渡的紀律」sub-section + Before/After                                          |
+| 4. §四 enumeration 警示        | B 移工四個結構「第一⋯第二⋯」偏條列                           | §四 新「列舉的紀律 — 不要寫成第一第二第三」sub-section                                                 |
+| 5. §六 對位 prime mitigation   | A 1 處 vs B 3 處對位句（don't think of pink elephant 效應）  | §六 對照表前加 ⚠️ Pink elephant 警示 callout                                                           |
+| 6. Footer A/B test SOP         | meta-evolution — EDITORIAL polish 是行為改變實驗不是文件編輯 | §Footer 公約加「EDITORIAL polish A/B test SOP」9 步流程                                                |
+
+v6.1 EDITORIAL = 1227 行（v6.0 1060 行 +167，主因新增 5 個 polish sub-sections）。
+
+**Follow-up backlog**（不在本 PR scope）：
+
+1. Test C 跑 v6.1 vs v5.6 fresh agents 驗證 polish 真改善 — 等之後 session
+2. 把 Gemini 建議的「315 億 vs 310 億並列表格」範例加進 EDITORIAL §九 富文本 Stat Block sub-section
+3. 把 Grok 點出的「⚠️ 爭議觀點框為了平衡而平衡」教訓寫進 §四「挑戰編織法」（已存）的反例
+
+---
+
 _v1.0 | 2026-05-09 brave-kirch session post-finale — 觸發：哲宇要求 Sonnet sub-agent A/B test EDITORIAL v5.6 vs v6.0_
+
+_v1.1 | 2026-05-09 brave-kirch — 加 §7 Grok+Gemini 三方獨立驗證 + §8 v6.1 polish 落地 mapping_
 
 🧬
