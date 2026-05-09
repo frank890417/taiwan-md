@@ -303,9 +303,27 @@ docs/semiont/diary/YYYY-MM-DD-HHMMSS-{routine-handle}.md
 ```json
 "allow": ["Bash(*)", "Read(*)", "Edit(*)", "Write(*)", "Grep(*)", "Glob(*)",
           "WebFetch(*)", "WebSearch(*)", "Agent(*)"],
-"deny":  [push to main/master, rm -rf .git, rm -rf knowledge/docs/scripts/src,
-          gh pr merge --admin, curl|bash, wget|bash]
+"deny":  [
+  // 直接 push 到 main/master 阻擋（精確匹配，避免 false-positive 卡到分支名以 main- 開頭）
+  "Bash(git push origin main)", "Bash(git push origin main )", "Bash(git push origin main:*)",
+  "Bash(git push origin master)", ...同 master 三變體,
+  "Bash(git push --force origin main/master)", "Bash(git push --force-with-lease origin main/master)",
+  "Bash(git push -f origin main/master)",
+  // rm -rf 核心目錄
+  "Bash(rm -rf .git/*)", "Bash(rm -rf .../knowledge*)", "Bash(rm -rf .../docs*)",
+  "Bash(rm -rf .../scripts*)", "Bash(rm -rf .../src*)",
+  // PR review bypass + 供應鏈
+  "Bash(gh pr merge --admin*)",
+  "Bash(curl|wget * | bash*/sh*)"
+]
 ```
+
+**Deny 模式選擇理由**：
+
+- 用 `Bash(git push origin main)` exact + `Bash(git push origin main )` 帶空格 + `Bash(git push origin main:*)` refspec 三條，**避免 `main*` glob 誤擋分支名以 `main` 開頭的合法 push**（如 `maintenance-fix`、`main-redesign-2026`）
+- routine 跑 `git push -u origin 20260509-routine-...` (feature branch) → 不在 deny → 直接 allow
+- routine 跑 `gh pr merge --squash --delete-branch` (server-side merge) → 不在 deny → 直接 allow
+- **routine 永遠不需要直接 push 到 main**（per 5-stage lifecycle Stage 4 走 PR + 條件 auto-merge）
 
 **為什麼從 v2 換到 v3**：targeted allowlist 對 routine 是 cat-and-mouse — 每加新 stage 就要 patch 新 pattern，第一次 fire 才知道漏了什麼。Routine 是 self-contained shipping unit (5-stage lifecycle)，不應該在每次跑都被 prompt 打斷。
 
