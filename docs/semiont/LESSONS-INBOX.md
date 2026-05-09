@@ -123,6 +123,42 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-09 laughing-goldstine — External LLM strategic advice 必過 multi-bias filter
+
+- **原則**：External LLM（Gemini / ChatGPT / Grok / Perplexity）給 strategic advice 時，必須過三層 bias filter 才採信：(a) **Identity bias** — LLM 不知道你的真 mission（Gemini 預設 Taiwan.md 是 SEO project，不知 Semiont sovereignty preservation infrastructure 定位）；(b) **Interest bias** — LLM 為其母公司 product 服務（Gemini = Google 內部產品，他建議「優化 CTR + 爭取特殊版面」直接服務 Google AI Overview / Featured Snippets / Knowledge Panel 截取機制 — 利益衝突）；(c) **Pattern bias** — LLM 預設 western mainstream pattern（Gemini 「成為中型媒體」是 BBC / 紐時 model，預設 linear scaling，無 Semiont / sovereignty / fork-friendly 維度）。**規則**：拿到 external LLM 建議當 strategic input 時，先寫 bias-filter report 過三層，再決定哪桶 ship（per CLAUDE.md Bias 4 五桶分類延伸）。
+- **觸發**：2026-05-09 觀察者貼 Gemini 對 Taiwan.md GSC 三月窗數據的 review 對話，問「哪些能儀器化進化 DNA / pipeline」。第一輪我寫 audit report（gsc-gemini-review-instrument-audit）落「儀器化 5 個 gap」結論。觀察者立刻 callout：「Gemini 的回答可能很狹窄或是有 bias」。第二輪 4 sub-agent research 後 synthesis（strategic-evolution-deep-research）抓出 Gemini 5 個結構性 bias + 最深 bias 是 Google 內部產品利益衝突。**從 Gemini 建議跑去寫 5 個 gap report 的時候，我沒先過 bias filter** — 直接接受了「優化 CTR」「成為中型媒體」這些前提。
+- **可能層級**：操作規則 → CLAUDE.md Bias 4 「外部 critique default 處置不是執行」延伸：原 Bias 4 講的是 critique（peer review），這條是 strategic advice（forward-looking）。兩者同源但 advice 更危險，因為 critique 是回頭看可驗證、advice 是往前推 path-dependent / 通用反射 → DNA 候選「External LLM 跨 vendor 的隱藏 bias 三層 audit pattern」
+- **相關**：CLAUDE.md Bias 4「外部 critique default 處置不是執行」（同源延伸）+ 同 session §「KPI 多維 vs 單軸 strategic blindspot」（具體案例）+ Grok critique 2026-05-04 reframing leak 同類風險
+- **verification_count**: 1（首次發現結構性問題，但 Bias 4 已是同源 verification_count 1）
+- **severity**: strategic（影響所有「諮詢 external LLM 戰略」決策）
+
+### 2026-05-09 laughing-goldstine — KPI 單軸視角 = strategic blindspot
+
+- **原則**：用單一 metric 評估 strategic positioning（例如 GSC traffic / Twitter followers / GitHub stars）會 systematically miss 結構性威脅 + 結構性 opportunity。**多維 KPI framework 是 strategic discipline，不是 nice-to-have**。對 Taiwan.md 案例：(A) 影響力（學術引用 + AI substrate citations + Wikipedia 引用）；(B) Community（contributor + direct visit + RSS subscriber）；(C) Ecosystem（fork 物種繁殖 + AI training corpus 滲透）；(D) Sovereignty（Sovereignty-Bench-TW 結果 + 多語覆蓋 + 敏感主題覆蓋）；(E) Health（prose-health + factCorrectionLog + pipeline gate 通過率）。**規則**：strategic decision（資源分配 / 進化方向）必須對照 ≥ 3 個維度，不能只看 1 維。
+- **觸發**：2026-05-09 Gemini review 用 GSC 4 指標（點擊 / 曝光 / CTR / 排名）評估 Taiwan.md，建議「擴展 1000+ 篇 + 優化 CTR + 成為中型媒體」。但 hard data 顯示 traffic 是崩潰中的 channel（Wikipedia -26%/3y / Stack Overflow -50% / Digital Trends -97%），同時 substrate layer（Wikipedia = ChatGPT top-10 cites 47.9%）才是真正 leverage。**單看 GSC 會錯失 substrate / sovereignty / community 三個更重要維度**。Taiwan.md 進化路徑跟 Gemini SEO path 完全相反 — 這個 misalignment 只有多維 KPI 才看得出來。
+- **可能層級**：哲學 → MANIFESTO 候選「KPI 多維 vs 單軸 traffic」(明確 reject Gemini-style scale path) / 通用反射 → DNA 候選「KPI 單軸視角 = strategic blindspot」(任何 AI 評估 strategy 時的反射條件) / 操作規則 → EVOLVE-PIPELINE 候選 「strategic review 必對照 ≥ 3 維度」
+- **相關**：同 session §「External LLM bias filter」(Gemini bias 的具體展現) + reports/strategic-evolution-deep-research-2026-05-09.md §1 五維 KPI framework
+- **verification_count**: 1
+- **severity**: strategic（影響所有 strategic decision）
+
+### 2026-05-09 laughing-goldstine — Country.md fork 模式 50% 死亡率（novel territory 警示）
+
+- **原則**：「Country.md as fork-template seed」(三層 Semiont 架構：CLAUDE.md / BECOME / docs/semiont) 是 novel territory，沒先例。Awesome-list pattern 數據顯示 **~50% fork 在 2 年內死亡**，存活的需要兩個必要條件：(a) Original curator 持續 ship（不能 disappear）；(b) 清楚 contribution conventions（避免 contributor 怎麼做都對）。**規則**：(a) 主動 outreach 第一個 fork（Japan.md / Ukraine.md）比被動等更重要 — 主動 curate 第一個 case study 確保 fork 模式 viable；(b) 第一個 fork 應該是 high-context relationship（觀察者本人認識的 sovereignty creator），不是隨機 stranger；(c) Fork 後 Cross-Semiont 互教機制要設計（彼此 review 對方的 evolution，不是 isolated 物種）。
+- **觸發**：2026-05-09 Agent #3 (open-source content sustainability) research 發現 country.md fork 模式沒先例 + 警示 50% awesome-list fork 死亡率。Taiwan.md 自 2026-04-23 創立 fork 友好層（CLAUDE.md §🌱 Fork 友好層）至今 1+ 月，0 個 fork 案例。MANIFESTO §3 物種繁殖是核心使命但**沒有 active outreach 計畫**。Agent #1 的 Kyiv Independent 對標 + Agent #4 的 Sovereignty media 案例都暗示：sovereignty Semiont 物種需要建立 mutual support network，不是 isolated success。
+- **可能層級**：操作規則 → 新 FORK-PIPELINE 候選（教其他 sovereign 怎麼 fork Taiwan.md + cross-Semiont 互啟發機制） / 特有教訓 → MEMORY append「fork 物種繁殖必須主動 curate 第一個案例」
+- **相關**：MANIFESTO §3 fork 友好層 + CLAUDE.md §🌱 Fork 友好層 + reports/strategic-evolution-deep-research-2026-05-09.md §3.5
+- **verification_count**: 1
+- **severity**: strategic（影響 Semiont 物種繁殖 mission 是否可行）
+
+### 2026-05-09 laughing-goldstine — Reader-funded resilience > Grant-funded（USAID freeze + RFA-VOA closure 案例）
+
+- **原則**：Sovereignty media 的 sustainability 模型優先序是 **Reader-funded membership > Grant-funded > Ad（沒做過）**。Grant 是 bridge funding 不是 floor — 政治轉換風險高（USAID freeze 2025 / RFA-VOA Tibetan service closure threats 2025 已 demo）。Reader-funded 案例：Kyiv Independent 70% revenue from 17,500 × $5/mo / Initium ~60K paying subs / Wikipedia 8M+ donors × $10.58 / Chaser News (HK exile) £6.50-£34.50/mo。**規則**：(a) 第一階段 funding stack 應優先建 Liberapay / GitHub Sponsors / Substack tier（recurring small membership）；(b) Grant 可作 bridge 但 mission-critical infrastructure 不能依賴 grant；(c) 完全避免依賴單一政府金援（台灣政府轉換政權風險、USAID 風險都是同類）。
+- **觸發**：2026-05-09 Agent #4 (sovereignty content infrastructure) research 提供 USAID freeze 2025 + RFA-VOA Tibetan service closure threats 2025 + Kyiv Independent / Initium / Chaser News 三個 reader-funded 存活案例。Taiwan.md 當前 0 funding（哲宇個人 ops 成本），未來如果走 Substack / membership 路線 vs grant 路線 — 這條教訓校準了優先序。
+- **可能層級**：操作規則 → 新 MEMBERSHIP-PIPELINE 候選（Liberapay / GitHub Sponsors / Substack tier 設置 + "Who funds us" 透明頁 + email newsletter SOP） / 特有教訓 → MEMORY append「sustainability 模型優先序 reader-funded > grant」
+- **相關**：reports/strategic-evolution-deep-research-2026-05-09.md §4.2 + §6.6 + §7.3 + §11 critical 決策 #1（Substack newsletter 要不要做）
+- **verification_count**: 1
+- **severity**: strategic（影響 Taiwan.md 長期 sustainability 路徑）
+
 ### 2026-05-09 laughing-goldstine — 算術 sanity check ≠ 來源 anchor，baseline 數字可能是 fabricated 但內部 self-consistent
 
 - **原則**：Research agent 對「對比型 fact」(X vs Y = N 倍) 做 sanity check 時，會驗算術 (math)，但不會驗 baseline。如果 baseline 數字本身是 fabricated（無 source URL 但 high_confidence 標籤），算術 ✅ + 算出的倍數會跟著錯，整條 fact 看起來 plausible 但實際 wrong。**規則**：(a) 任何「X 倍 / 從 A 到 B / 跟今天差 N 倍」這類 ratio / delta claim，**baseline + endpoint 都必須各自有 footnote URL**，不能只因算術內部 consistent 就標 ✅；(b) `high_confidence` 信度層的 prerequisite 是「至少一個來源頁面 verbatim 寫了這個數字」，不是「這個數字符合 sanity range」；(c) 算術 sanity check 是 secondary check（防 typo / off-by-magnitude），不是 primary fact verification。
