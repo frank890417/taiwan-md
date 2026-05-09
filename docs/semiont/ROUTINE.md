@@ -290,27 +290,39 @@ docs/semiont/diary/YYYY-MM-DD-HHMMSS-{routine-handle}.md
 
 ---
 
-## 權限 allowlist 鐵律（2026-05-09 第五輪補強）
+## 權限 bypass 模型（2026-05-09 第六輪拍板：完整 bypass）
 
-**問題**：第一次 routine fire 觀察到 routine 卡在 permission prompt 等不到答覆 → wallclock 浪費 + routine 沒跑 + observer 介入修。
+**演化過程**：
 
-**Root cause**：scheduled-tasks 跑 fresh Claude session 讀全域 `~/.claude/settings.json` permission allowlist。原版 allowlist 沒覆蓋 routine 5-stage lifecycle 全部需要的 Bash command pattern：
+- **v1 (50 條 targeted allow)** — 第一次 routine fire 卡 prompt（cd 大寫路徑 / gh pr merge / git push -u 等沒 cover）
+- **v2 (94 條擴增 allow)** — 嘗試逐條補，但 routine workflow 發散，每 patch 都漏 — Pareto 假象
+- **v3 (Bash(\*) 完整 bypass + deny 護欄)** — 哲宇拍板「完整 bypass」
 
-- `Bash(cd /Users/cheyuwu/Projects/taiwan-md*)` — 大寫 P 路徑（原本只有小寫 `projects`，case mismatch）
-- `Bash(gh pr merge *)` — Stage 4 auto-merge 需要
-- `Bash(git push -u origin *)` / `Bash(git push origin *)` — Stage 4 push 新 branch（原本只有 `HEAD*`）
-- `Bash(npm run *)` — prebuild / build commands
-- `Bash(python3 scripts/*)` — 廣義 python scripts（原本只有 `lang-sync/*`）
+**v3 模型**（[~/.claude/settings.json](file:///Users/cheyuwu/.claude/settings.json)）：
 
-**修補**：[~/.claude/settings.json](file:///Users/cheyuwu/.claude/settings.json) `permissions.allow` 從 50 條擴到 94 條，covered routine lifecycle 全部 commands。`deny` 從 5 條擴到 13 條（保留安全護欄：禁 push to main / 禁 rm -rf 重要目錄 / 禁 `gh pr merge --admin` / 禁 `curl | bash`）。
+```json
+"allow": ["Bash(*)", "Read(*)", "Edit(*)", "Write(*)", "Grep(*)", "Glob(*)",
+          "WebFetch(*)", "WebSearch(*)", "Agent(*)"],
+"deny":  [push to main/master, rm -rf .git, rm -rf knowledge/docs/scripts/src,
+          gh pr merge --admin, curl|bash, wget|bash]
+```
+
+**為什麼從 v2 換到 v3**：targeted allowlist 對 routine 是 cat-and-mouse — 每加新 stage 就要 patch 新 pattern，第一次 fire 才知道漏了什麼。Routine 是 self-contained shipping unit (5-stage lifecycle)，不應該在每次跑都被 prompt 打斷。
+
+**核心安全護欄保留在 deny**（不在 allow 也不在 prompt）：
+
+- 永不 push to main/master（含 --force / --force-with-lease — 即使 routine bug 也阻擋）
+- 永不 rm -rf 核心目錄（`.git` / knowledge / docs / scripts / src — 路徑 explicit 防誤刪）
+- 永不 `gh pr merge --admin`（繞 review 護欄）
+- 永不 `curl | bash` / `wget | bash`（供應鏈安全）
 
 **鐵律**：
 
-- 改 routine prompt **必同時 audit settings.json allowlist**
-- 加新 routine 必先 dry-run 一次（用 `mcp__scheduled-tasks` "Run now" 預先觸發）surfacing 缺少的 permission patterns
-- routine session 不應碰需要 prompt 的 command；如撞到 = 系統設計缺口，立刻補 allowlist 不繞過
+- routine 在 deny 列表內的 command **絕不會被 prompt** — 直接被擋。如果某天 routine 撞到 deny → routine 設計有 bug，看 LESSONS-INBOX
+- 改 deny 列表是 review-PR 級別的決策，不是隨便加減
+- 觀察者意識到該禁的新 pattern → 加進 deny，不要等出事
 
-**為什麼不用 `Bash(*)` 完全 bypass**：保留 `deny` 護欄（push to main / rm -rf knowledge / curl pipe shell）。完全 bypass 會讓 routine 的失誤代價放大。targeted allowlist 是 routine 自主性 vs 安全的 Pareto 中間點。
+**Trade-off**：bypass 模型把信任邊界從 prompt-by-prompt 移到 deny-list-by-design。失去細粒度可見性，換到 routine 真正自轉。對 unattended 飛輪 = 必要 trade-off。
 
 ---
 
