@@ -10,8 +10,8 @@ readingTime: 10
 featured: true
 lastVerified: 2026-03-21
 translatedFrom: "People/戴資穎.md"
-sourceCommitSha: "59db5de4"
-sourceContentHash: "sha256:1a1c26aae26ed9f8"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
 translatedAt: "2026-04-14T19:14:57+08:00"
 ---

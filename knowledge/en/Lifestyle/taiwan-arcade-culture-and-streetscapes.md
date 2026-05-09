@@ -17,7 +17,7 @@ category: 'Lifestyle'
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2b233a45daf622e6'
 sourceBodyHash: 'sha256:8f231aa6641c39c8'
 translatedAt: '2026-04-14T12:25:09+08:00'

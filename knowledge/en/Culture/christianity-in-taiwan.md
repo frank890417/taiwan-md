@@ -19,8 +19,8 @@ readingTime: 13
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'Culture/基督教在台灣.md'
-sourceCommitSha: 'dc87c2a6'
-sourceContentHash: 'sha256:5bd661cb477b8c99'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:875b7e202aed03cb'
 sourceBodyHash: 'sha256:4b3f831fea6a96bf'
 translatedAt: '2026-05-01T01:46:13+08:00'
 ---

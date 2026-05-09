@@ -19,7 +19,7 @@ readingTime: 20
 featured: true
 translatedFrom: 'People/李安.md'
 lastVerified: 2026-03-19
-sourceCommitSha: '2acf410b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:424471225df1f956'
 sourceBodyHash: 'sha256:56541aa1062802c8'
 translatedAt: '2026-04-14T19:15:26+08:00'

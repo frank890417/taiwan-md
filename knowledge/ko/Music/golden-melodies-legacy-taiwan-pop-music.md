@@ -11,7 +11,7 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: 'd0ae0f3b'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:818f98dc184f6fa7'
 sourceBodyHash: 'sha256:f9084870752a124b'
 translatedAt: '2026-05-01T22:19:01+08:00'

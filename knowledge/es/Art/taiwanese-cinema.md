@@ -21,8 +21,8 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
 translatedFrom: Art/台灣電影.md
-sourceCommitSha: e564525c
-sourceContentHash: sha256:066d8323f1454dcc
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:066d8323f1454dcc'
 sourceBodyHash: 'sha256:8e9ec585dc056a94'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---

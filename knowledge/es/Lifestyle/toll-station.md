@@ -22,7 +22,7 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/收費站.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:51547944c653872d'
 sourceBodyHash: 'sha256:bc9b5cd80bcd52ef'
 translatedAt: '2026-05-03T21:10:09+08:00'
@@ -93,15 +93,15 @@ Hoy, tres cabinas han sido preservadas:
 
 ### Cronología: cincuenta años de peaje en la autopista
 
-| Año     | Evento clave                                                                                   |
-| :------ | :--------------------------------------------------------------------------------------------- |
-| **1953** | Entrada en servicio del puente de Xiluo; se establece el peaje de Zhuoshui, precursor de los peajes en Taiwán. |
-| **1974** | Inauguración del peaje de Taishan, que inicia la era del cobro manual por tramo en la autopista. |
-| **1978** | Tras el escándalo del puente de Zhongzheng, las peajistas pasan a ser exclusivamente mujeres. |
-| **1985** | Implementación plena de los carriles exclusivos para boletos por tramo, maximizando la eficiencia. |
-| **2006** | Inicio de la fase piloto del cobro electrónico ETC (sistema OBU). |
+| Año      | Evento clave                                                                                                    |
+| :------- | :-------------------------------------------------------------------------------------------------------------- |
+| **1953** | Entrada en servicio del puente de Xiluo; se establece el peaje de Zhuoshui, precursor de los peajes en Taiwán.  |
+| **1974** | Inauguración del peaje de Taishan, que inicia la era del cobro manual por tramo en la autopista.                |
+| **1978** | Tras el escándalo del puente de Zhongzheng, las peajistas pasan a ser exclusivamente mujeres.                   |
+| **1985** | Implementación plena de los carriles exclusivos para boletos por tramo, maximizando la eficiencia.              |
+| **2006** | Inicio de la fase piloto del cobro electrónico ETC (sistema OBU).                                               |
 | **2013** | El 30 de diciembre, el cobro manual pasa a la historia; se adopta íntegramente el cobro por distancia con eTag. |
-| **2016** | El comité de autodefensa de peajistas de autopista y el gobierno alcanzan un acuerdo de compensación. |
+| **2016** | El comité de autodefensa de peajistas de autopista y el gobierno alcanzan un acuerdo de compensación.           |
 
 ---
 

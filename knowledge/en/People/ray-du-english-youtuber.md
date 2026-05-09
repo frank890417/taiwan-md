@@ -2,7 +2,7 @@
 title: "Ray Du: From a Young Exchange Student Who Hated English to the 'Block Captain' of Taiwan's YouTube World"
 description: "In 2020, YouTuber Ray Du launched the New York Times advertising crowdfunding campaign that showed the world Taiwan exists; in 2021 he openly shared his battle with depression, candidly facing a low point in life. From his English awakening in Singapore to founding a creators' association, Ray Du is not only a knowledge-based influencer but also a driving force behind Taiwan's new media ecosystem."
 translatedFrom: 'People/阿滴.md'
-sourceCommitSha: 'fceb6784'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
 translatedAt: '2026-05-01T12:53:58+08:00'

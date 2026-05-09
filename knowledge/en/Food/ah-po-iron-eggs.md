@@ -24,8 +24,8 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Iron_eggs_in_T
 imageAlt: 'Dark brown iron eggs on Tamsui Old Street, firm in texture and glossy in surface'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/阿婆鐵蛋.md'
-sourceCommitSha: '64abf6f8'
-sourceContentHash: 'sha256:8a2fd81f78cdb8fd'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f215fbcb32524845'
 sourceBodyHash: 'sha256:f4c6330bca417165'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---

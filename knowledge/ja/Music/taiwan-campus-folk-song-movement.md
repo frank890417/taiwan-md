@@ -21,7 +21,7 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣民歌運動.md'
-sourceCommitSha: '8ca452e4'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:2d4b4a21a7f7fad1'
 sourceBodyHash: 'sha256:cbbbeffaa978f82b'
 translatedAt: '2026-05-01T14:48:26+08:00'

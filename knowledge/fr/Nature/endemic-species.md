@@ -17,8 +17,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: Nature/特有種.md
-sourceCommitSha: dd7a1d1c
-sourceContentHash: sha256:c6541151750229dc
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:c6541151750229dc'
 sourceBodyHash: 'sha256:af8d8adbaacbf685'
 translatedAt: 2026-05-01T22:19:06+08:00
 category: Nature

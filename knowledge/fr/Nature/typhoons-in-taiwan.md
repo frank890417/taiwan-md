@@ -24,7 +24,7 @@ readingTime: 14
 lastVerified: 2026-05-06
 lastHumanReview: false
 translatedFrom: 'Nature/颱風.md'
-sourceCommitSha: 'dc4e0c957'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e1030b784b38d4e'
 sourceBodyHash: 'sha256:8509bdbbc304e652'
 translatedAt: '2026-05-06T12:37:35+08:00'

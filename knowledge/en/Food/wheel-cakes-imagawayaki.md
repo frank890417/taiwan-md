@@ -19,8 +19,8 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 featured: false
 translatedFrom: Food/車輪餅.md
-sourceCommitSha: 64abf6f8
-sourceContentHash: sha256:75886d0c9c5c9b1f
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:75886d0c9c5c9b1f'
 sourceBodyHash: 'sha256:b1f515f692de800c'
 translatedAt: '2026-05-01T01:46:13+08:00'
 ---

@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 11
 featured: true
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4725470c61019afd'
 sourceBodyHash: 'sha256:668dd9289a9fed88'
 translatedAt: '2026-04-14T19:29:12+08:00'

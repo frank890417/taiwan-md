@@ -20,8 +20,8 @@ featured: false
 translatedFrom: 'Economy/台灣農業與農村再生.md'
 lastVerified: 2026-03-19
 lastHumanReview: false
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:d99b81502fe8995b'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:a63a4fe6ec13dde6'
 sourceBodyHash: 'sha256:50574d790744d84c'
 translatedAt: '2026-04-14T19:21:51+08:00'
 ---

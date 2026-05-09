@@ -1,6 +1,6 @@
 ---
-title: 'Les péages : ces trois secondes d''arrêt disparues sur l''autoroute'
-description: 'En 1974, le péage de Taishan inaugurait l''ère de la perception de péages sur les autoroutes de Taïwan. Cette histoire, qui s''étend sur un demi-siècle, ne reflète pas seulement l''évolution technologique du comptage manuel vers la tarification électronique au kilomètre, mais recèle aussi les besoins financiers nés de la crise pétrolière, la pénibilité de la chaleur et des gaz d''échappement dans les cabines, ainsi que la douleur sociale des péagistes, arrachées à leur « foyer » pour être jetées dans la rue de la contestation.'
+title: "Les péages : ces trois secondes d'arrêt disparues sur l'autoroute"
+description: "En 1974, le péage de Taishan inaugurait l'ère de la perception de péages sur les autoroutes de Taïwan. Cette histoire, qui s'étend sur un demi-siècle, ne reflète pas seulement l'évolution technologique du comptage manuel vers la tarification électronique au kilomètre, mais recèle aussi les besoins financiers nés de la crise pétrolière, la pénibilité de la chaleur et des gaz d'échappement dans les cabines, ainsi que la douleur sociale des péagistes, arrachées à leur « foyer » pour être jetées dans la rue de la contestation."
 date: 2026-05-03
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
@@ -22,7 +22,7 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/收費站.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:51547944c653872d'
 sourceBodyHash: 'sha256:bc9b5cd80bcd52ef'
 translatedAt: '2026-05-03T21:10:10+08:00'
@@ -93,15 +93,15 @@ Aujourd''hui, trois cabines ont été préservées :
 
 ### Chronologie : cinquante ans de péages autoroutiers
 
-| Année     | Événement clé                                                                              |
-| :-------- | :----------------------------------------------------------------------------------------- |
-| **1953**  | Mise en service du pont de Xiluo, création du péage de Zhuoshui, premier péage de Taïwan.  |
-| **1974**  | Ouverture du péage de Taishan, début de l''ère de la perception manuelle au passage.       |
-| **1978**  | Après l''affaire de corruption du péage de Zhongzheng, les péagistes deviennent toutes des femmes. |
-| **1985**  | Mise en place généralisée des voies réservées aux tickets de passage, maximisation de l''efficacité. |
-| **2006**  | Début de l''expérimentation de la perception électronique ETC (système OBU).               |
-| **2013**  | Le 30/12, la perception manuelle appartient à l''histoire, passage intégral à la tarification au kilomètre par eTag. |
-| **2016**  | Le comité d''entraide des péagistes et le gouvernement parviennent à un accord d''indemnisation. |
+| Année    | Événement clé                                                                                                        |
+| :------- | :------------------------------------------------------------------------------------------------------------------- |
+| **1953** | Mise en service du pont de Xiluo, création du péage de Zhuoshui, premier péage de Taïwan.                            |
+| **1974** | Ouverture du péage de Taishan, début de l''ère de la perception manuelle au passage.                                 |
+| **1978** | Après l''affaire de corruption du péage de Zhongzheng, les péagistes deviennent toutes des femmes.                   |
+| **1985** | Mise en place généralisée des voies réservées aux tickets de passage, maximisation de l''efficacité.                 |
+| **2006** | Début de l''expérimentation de la perception électronique ETC (système OBU).                                         |
+| **2013** | Le 30/12, la perception manuelle appartient à l''histoire, passage intégral à la tarification au kilomètre par eTag. |
+| **2016** | Le comité d''entraide des péagistes et le gouvernement parviennent à un accord d''indemnisation.                     |
 
 ---
 

@@ -9,7 +9,7 @@ readingTime: 8
 author: 'Taiwan.md Translation Team'
 featured: true
 translatedFrom: 'Nature/台灣海洋保育與挑戰.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b277d24628428df0'
 sourceBodyHash: 'sha256:21aa63cb636df052'
 translatedAt: '2026-04-14T10:34:15+08:00'

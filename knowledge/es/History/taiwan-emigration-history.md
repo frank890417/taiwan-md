@@ -4,13 +4,24 @@ description: 'El 1 de enero de 1979, Taiwán emitió su primer pasaporte turíst
 date: '2026-05-02'
 author: 'Taiwan.md Contributors'
 category: 'History'
-tags: ["emigración", "1979", "ley marcial", "turismo", "pasaporte", "ola de estudios en el exterior", "control de divisas", "Lin Xiantang", "libertad de movimiento"]
+tags:
+  [
+    'emigración',
+    '1979',
+    'ley marcial',
+    'turismo',
+    'pasaporte',
+    'ola de estudios en el exterior',
+    'control de divisas',
+    'Lin Xiantang',
+    'libertad de movimiento',
+  ]
 readingTime: '25'
 lastVerified: '2026-05-02'
 lastHumanReview: 'false'
 featured: 'false'
 translatedFrom: 'History/台灣出國史.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8d6508c76f18f1af'
 sourceBodyHash: 'sha256:2ed834cb9de7de1b'
 translatedAt: '2026-05-03T21:10:09+08:00'
@@ -39,7 +50,7 @@ El sistema de pasaportes de viaje de la época presentaba diferencias claras ent
 
 ### 2.2 Los viajes de los notables y la ilustración intelectual
 
-A pesar de las restricciones, los notables de la época iniciaron una tendencia de "grandes viajes". En 1927, Lin Xiantang, de la familia Lin de Wufeng, emprendió con su hijo un viaje alrededor del mundo que duró un año, recorriendo Europa, América y Asia. Lin Xiantang publicó sus observaciones por entregas en el *Taiwan Minbao* (民報 de Taiwán), permitiendo a los taiwaneses ver el mundo por primera vez a través de los ojos de un compatriota. [^11] [^12] Las experiencias en el extranjero de figuras políticas como Cai Peihuo y Jiang Weishu también se convirtieron en nutrientes para los posteriores movimientos sociales en Taiwán, trayendo las corrientes democráticas occidentales de vuelta a la isla. [^13]
+A pesar de las restricciones, los notables de la época iniciaron una tendencia de "grandes viajes". En 1927, Lin Xiantang, de la familia Lin de Wufeng, emprendió con su hijo un viaje alrededor del mundo que duró un año, recorriendo Europa, América y Asia. Lin Xiantang publicó sus observaciones por entregas en el _Taiwan Minbao_ (民報 de Taiwán), permitiendo a los taiwaneses ver el mundo por primera vez a través de los ojos de un compatriota. [^11] [^12] Las experiencias en el extranjero de figuras políticas como Cai Peihuo y Jiang Weishu también se convirtieron en nutrientes para los posteriores movimientos sociales en Taiwán, trayendo las corrientes democráticas occidentales de vuelta a la isla. [^13]
 
 📝 Nota del curador: En aquella época, el "pasaporte de viaje" no era solo un documento de tránsito, sino un espejo que reflejaba las clases y las luchas bajo el sistema colonial. El viaje alrededor del mundo de Lin Xiantang fue, en esencia, un primer intento de "diplomacia ciudadana".
 
@@ -67,13 +78,13 @@ En las décadas de 1960 y 1970, Taiwán experimentó dos grandes oleadas de emig
 
 ### 4.1 La "fuga" y los "grandes viajes" de talento científico y tecnológico
 
-Beneficiándose de la Guerra Fría entre Estados Unidos y la Unión Soviética y de la competencia espacial, Estados Unidos tenía una gran demanda de talento científico y tecnológico. En 1958, Estados Unidos aprobó la *National Defense Education Act*, y en 1965 una nueva ley de inmigración. En aquella época, en Taiwán circulaba una frase popular: "Ven, ven, ven, ven a la Universidad de Taiwán; ve, ve, ve, ve a Estados Unidos". Esta tendencia alcanzó su punto máximo entre 1965 y 1975. [^20] [^21]
+Beneficiándose de la Guerra Fría entre Estados Unidos y la Unión Soviética y de la competencia espacial, Estados Unidos tenía una gran demanda de talento científico y tecnológico. En 1958, Estados Unidos aprobó la _National Defense Education Act_, y en 1965 una nueva ley de inmigración. En aquella época, en Taiwán circulaba una frase popular: "Ven, ven, ven, ven a la Universidad de Taiwán; ve, ve, ve, ve a Estados Unidos". Esta tendencia alcanzó su punto máximo entre 1965 y 1975. [^20] [^21]
 
 ### 4.2 La ola de médicos y "vender campos para enviar al hijo"
 
 A finales de la década de 1960, debido a la escasez de médicos en Estados Unidos provocada por la guerra de Vietnam, los hospitales estadounidenses abrieron plazas para graduados de facultades de medicina extranjeras. Muchas familias taiwanesas incluso "vendían sus campos para enviar al hijo" al extranjero, formando una cultura particular del "sueño americano". [^20] Las corrientes democráticas y los hábitos de consumo que estos estudiantes trajeron de vuelta contribuyeron de forma indirecta pero profunda al posterior fin de la ley marcial en Taiwán. [^22]
 
-📝 Nota del curador: Estos estudiantes y médicos se convirtieron más tarde en el pilar de las comunidades taiwanesas en Estados Unidos, y también reflejaron el fenómeno social de la fuga de cerebros (*Brain Drain*) de la época.
+📝 Nota del curador: Estos estudiantes y médicos se convirtieron más tarde en el pilar de las comunidades taiwanesas en Estados Unidos, y también reflejaron el fenómeno social de la fuga de cerebros (_Brain Drain_) de la época.
 
 ## 1979: el primer pasaporte turístico y la "diplomacia ciudadana"
 
@@ -121,7 +132,7 @@ En una época de relativa escasez material, los viajeros solían cargar con la i
 
 ## El estallido y la diversificación del movimiento tras el fin de la ley marcial (décadas de 1990 a 2010)
 
-Tras el fin de la ley marcial, se relajó el control de divisas y el turismo al extranjero entró en un período de explosión. En la década de 1990 prevalecieron los grupos turísticos al sudeste asiático, y posteriormente los viajes independientes a Japón y los viajes en profundidad a Europa y América se convirtieron en la tendencia principal. El auge de las aerolíneas de bajo costo y las políticas de "trabajo-vacaciones" (*Working Holiday*) hicieron que emigrar al extranjero dejara de ser un lujo para las generaciones más jóvenes y se convirtiera en un proceso de autodescubrimiento. [^27] [^28]
+Tras el fin de la ley marcial, se relajó el control de divisas y el turismo al extranjero entró en un período de explosión. En la década de 1990 prevalecieron los grupos turísticos al sudeste asiático, y posteriormente los viajes independientes a Japón y los viajes en profundidad a Europa y América se convirtieron en la tendencia principal. El auge de las aerolíneas de bajo costo y las políticas de "trabajo-vacaciones" (_Working Holiday_) hicieron que emigrar al extranjero dejara de ser un lujo para las generaciones más jóvenes y se convirtiera en un proceso de autodescubrimiento. [^27] [^28]
 
 ## Desafíos contemporáneos: el "viaje de venganza" y el significado de la libertad de movimiento
 

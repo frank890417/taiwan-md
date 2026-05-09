@@ -16,8 +16,8 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
 translatedFrom: Culture/台灣諧音禁忌文化.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:d88f480a1e1f7ae0
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:d88f480a1e1f7ae0'
 sourceBodyHash: 'sha256:ab7935ab2e6c6ed8'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---

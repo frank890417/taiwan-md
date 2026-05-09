@@ -10,8 +10,8 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: Economy/台灣企業：日月光半導體.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:cb7042e73cb2cef2
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:cb7042e73cb2cef2'
 sourceBodyHash: 'sha256:ab22377f8d58d529'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: Economy

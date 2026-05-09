@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'People/沈伯洋.md'
-sourceCommitSha: '616cbd07'
+sourceCommitSha: '5db9f136'
 sourceContentHash: 'sha256:264471f17f1dd86d'
 sourceBodyHash: 'sha256:ff76539057c18498'
 translatedAt: '2026-05-01T14:48:26+08:00'

@@ -4,7 +4,7 @@ description: From the enlightenment of Ishikawa Kin'ichiro during the Japanese c
 date: 2026-03-19
 tags: [Art, watercolor, painting, 水彩, art history]
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c0b72206c0902f28'
 sourceBodyHash: 'sha256:0797f8f5d26b7f91'
 translatedAt: '2026-04-14T12:25:09+08:00'

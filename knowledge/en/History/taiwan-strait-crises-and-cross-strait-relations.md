@@ -18,7 +18,7 @@ featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 translatedFrom: 'History/台海危機與兩岸關係發展.md'
-sourceCommitSha: 'f78028db'
+sourceCommitSha: '5db9f136'
 sourceContentHash: 'sha256:cff96f2b8cf87a1f'
 sourceBodyHash: 'sha256:762c08c4709bfc5b'
 translatedAt: '2026-05-01T12:21:52+08:00'

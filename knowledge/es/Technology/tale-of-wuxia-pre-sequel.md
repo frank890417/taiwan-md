@@ -19,8 +19,8 @@ lastVerified: '2026-04-25'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/活俠傳.md'
-sourceCommitSha: '376ba20d'
-sourceContentHash: 'sha256:9c9560e376ac72c8'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:5d8fd5b2e9fb7126'
 sourceBodyHash: 'sha256:05a2488db4c17ec6'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---

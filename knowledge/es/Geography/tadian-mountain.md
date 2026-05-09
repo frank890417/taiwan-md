@@ -19,8 +19,8 @@ readingTime: 6
 featured: false
 lastHumanReview: false
 translatedFrom: Geography/漯底山.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:2cef849f8ebc6df7
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:2cef849f8ebc6df7'
 sourceBodyHash: 'sha256:a56d3c9283c22ceb'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: Geography

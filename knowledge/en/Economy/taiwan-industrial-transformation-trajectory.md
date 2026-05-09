@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Economy/產業轉型與經濟發展軌跡.md'
-sourceCommitSha: 'd4498d97'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bfcbba1c658dedbc'
 sourceBodyHash: 'sha256:c5c8ac186296ceb1'
 translatedAt: '2026-05-01T13:44:02+08:00'

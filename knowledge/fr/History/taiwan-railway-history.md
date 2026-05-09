@@ -12,8 +12,8 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: "History/台灣鐵道史.md"
-sourceCommitSha: "956a36f3"
-sourceContentHash: "sha256:b934d409b4731aff"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:b934d409b4731aff'
 sourceBodyHash: 'sha256:2cf5dced3bae0d77'
 translatedAt: "2026-04-14T12:31:49+08:00"
 ---

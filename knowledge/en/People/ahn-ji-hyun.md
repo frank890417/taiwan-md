@@ -18,7 +18,7 @@ readingTime: 9
 featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/安芝儇.md'
-sourceCommitSha: '967e77ab'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5c8ae9f4892807a5'
 sourceBodyHash: 'sha256:727da6d1403587b0'
 translatedAt: '2026-05-01T13:19:11+08:00'

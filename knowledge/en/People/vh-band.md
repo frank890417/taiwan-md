@@ -24,7 +24,7 @@ lastVerified: 2026-04-19
 lastHumanReview: 2026-04-19
 researchReport: reports/research/2026-04/VH.md
 translatedFrom: 'People/VH.md'
-sourceCommitSha: '0ecfa053'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:12627c86b39f3cf2'
 sourceBodyHash: 'sha256:cac852a1ab84bcac'
 translatedAt: '2026-05-01T12:53:58+08:00'

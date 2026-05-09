@@ -21,8 +21,8 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Food/蘋果西打.md'
-sourceCommitSha: '053efd9a'
-sourceContentHash: 'sha256:12b6dab4e16405b6'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1bbef8e9596c3b5a'
 sourceBodyHash: 'sha256:fe306b29e346e954'
 translatedAt: '2026-05-03T21:10:10+08:00'
 ---
@@ -34,7 +34,7 @@ translatedAt: '2026-05-03T21:10:10+08:00'
 
 ## Prologue : un souvenir national sur les tables
 
-Dans les restaurants de *rechao* (cuisine sautée taïwanaise), lors des banquets traditionnels et dans les salles privées de karaoké, une présence familière ne manque jamais à l'appel : cette bouteille dorée et limpide, pétillante de bulles, le « cidre de pomme ». Ce n'est pas simplement une boisson désaltérante, mais un symbole culturel, témoin des transformations de la société taïwanaise et des moments de la vie quotidienne. Cependant, l'histoire de cette boisson nationale, qui accompagne les Taïwanais depuis près d'un demi-siècle, est bien plus complexe et mouvementée que sa douceur rafraîchissante ne le laisse paraître. De sa formule unique « sino-américaine » au parcours légendaire de ses fondateurs, en passant par les crises sanitaires et les tempêtes financières des dernières années, le voyage d'Apple Sidra est une épopée de l'histoire des entreprises taïwanaises, jalonnée de défis et de renaissances.
+Dans les restaurants de _rechao_ (cuisine sautée taïwanaise), lors des banquets traditionnels et dans les salles privées de karaoké, une présence familière ne manque jamais à l'appel : cette bouteille dorée et limpide, pétillante de bulles, le « cidre de pomme ». Ce n'est pas simplement une boisson désaltérante, mais un symbole culturel, témoin des transformations de la société taïwanaise et des moments de la vie quotidienne. Cependant, l'histoire de cette boisson nationale, qui accompagne les Taïwanais depuis près d'un demi-siècle, est bien plus complexe et mouvementée que sa douceur rafraîchissante ne le laisse paraître. De sa formule unique « sino-américaine » au parcours légendaire de ses fondateurs, en passant par les crises sanitaires et les tempêtes financières des dernières années, le voyage d'Apple Sidra est une épopée de l'histoire des entreprises taïwanaises, jalonnée de défis et de renaissances.
 
 ## I. Origines et formule : une saveur unique sino-américaine
 
@@ -56,9 +56,9 @@ Initialement, le produit a été lancé sous le nom de « cidre de pomme améric
 
 Le cidre de pomme ne se distingue pas seulement par son goût unique, mais a également développé une culture de consommation propre au sein de la société taïwanaise, devenant un élément indispensable dans de nombreuses occasions.
 
-### 2.1 Le modèle de « vente exclusive » dans les restaurants de *rechao* et les banquets
+### 2.1 Le modèle de « vente exclusive » dans les restaurants de _rechao_ et les banquets
 
-Dans la culture culinaire taïwanaise, le cidre de pomme est intimement lié aux restaurants de *rechao* et aux banquets traditionnels. Au début, Atlantic Beverage a adopté une stratégie marketing unique, établissant des partenariats avec des restaurants de *rechao* et des établissements de restauration dans les régions du centre et du sud, en sponsorisant des réfrigérateurs pour faire du cidre de pomme la boisson « exclusive » de ces lieux. Ce modèle de marketing profondément enraciné au niveau local a rendu la boisson particulièrement populaire dans les marchés du centre et du sud, faisant de « manger des *rechao* avec du cidre de pomme » une habitude alimentaire bien établie[^6].
+Dans la culture culinaire taïwanaise, le cidre de pomme est intimement lié aux restaurants de _rechao_ et aux banquets traditionnels. Au début, Atlantic Beverage a adopté une stratégie marketing unique, établissant des partenariats avec des restaurants de _rechao_ et des établissements de restauration dans les régions du centre et du sud, en sponsorisant des réfrigérateurs pour faire du cidre de pomme la boisson « exclusive » de ces lieux. Ce modèle de marketing profondément enraciné au niveau local a rendu la boisson particulièrement populaire dans les marchés du centre et du sud, faisant de « manger des _rechao_ avec du cidre de pomme » une habitude alimentaire bien établie[^6].
 
 ### 2.2 La culture des mélanges : du « cidre blanc de pomme » au classique du karaoké
 

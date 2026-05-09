@@ -2,7 +2,7 @@
 title: 'Chen Tzu-jian (Retina): Building a Palace of Mockery on the Ruins of State Media, Then Demolishing It at Its Peak'
 description: 'From the inspiration born watching CCTV''s Xinwen Lianbo on a cross-strait exchange trip to Fujian, to becoming the youngest daytime news anchor in CTS history at age 23, to voluntarily discontinuing a channel with 1.21 million subscribers at its peak — Chen Tzu-jian, as "Retina," completed an eight-year anti-authoritarian deconstruction project. After 2023, he shifted to PTS children''s programming, hosting Hello! Can I Ask You? (Golden Bell 59 nomination) and Detective Club at Chengren High School S1 and S2 (Golden Bell 60 youth program nomination). From 2026 he is living in Tokyo for a year with his dog Yuzi, sharing Retina News and daily life — including his extreme hatred of cilantro — on Instagram and his personal YouTube channel.'
 translatedFrom: 'People/陳子見.md'
-sourceCommitSha: 'fcfe3aef'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b4ed377dcae75954'
 sourceBodyHash: 'sha256:5225e3163bb10fe2'
 translatedAt: '2026-05-01T12:53:58+08:00'

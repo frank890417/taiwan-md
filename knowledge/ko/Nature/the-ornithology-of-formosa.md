@@ -23,8 +23,8 @@ lastVerified: 2026-04-24
 lastHumanReview: 2026-04-24
 featured: false
 translatedFrom: 'Nature/福爾摩沙鳥類學.md'
-sourceCommitSha: 'dd7a1d1c'
-sourceContentHash: 'sha256:17fd4a38ace902bb'
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:d1293bcf641ce299'
 sourceBodyHash: 'sha256:44c9000276437d2c'
 translatedAt: '2026-05-01T20:54:10+08:00'
 ---

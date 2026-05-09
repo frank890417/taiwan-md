@@ -21,7 +21,7 @@ featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 translatedFrom: 'Technology/台灣機器人產業.md'
-sourceCommitSha: 'fa95d5e0'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:1474f16951c52f9b'
 sourceBodyHash: 'sha256:e0fcab720b26db10'
 translatedAt: '2026-05-01T13:19:11+08:00'

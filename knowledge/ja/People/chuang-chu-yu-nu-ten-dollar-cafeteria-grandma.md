@@ -9,8 +9,8 @@ readingTime: 10
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '751831b2'
-sourceContentHash: 'sha256:983dd4462b680d89'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---

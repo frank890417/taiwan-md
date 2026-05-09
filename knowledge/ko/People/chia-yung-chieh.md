@@ -2,7 +2,17 @@
 title: '자옌제: 연예인 사회자본을 반복적으로 공공 동원력으로 전환한 대만 실험'
 description: '2000년 화시(華視) 저녁 드라마로 데뷔, 2021년 이틀 만에 6,804만 위안을 모금하여 전선 병원에 HFNC 252대를 확보, 2024년 타이베이 101 제6대 이사장 취임, 2026년 1월 25일 알렉스 호놀드가 맨손으로 508미터 타이베이 101을 독등반하는 장면을 전 세계에 생중계하게 한 것까지—자옌제가 걸어온 길은 대만에 전례가 없는 것이었다: 연예인 사회자본을 반복적으로 넘어서 공공 동원력으로 실현시키고, 한 걸음을 내디딜 때마다 동등한 분량의 의문이 뒤따르며, 더 큰 동원으로 응답한다.'
 date: 2026-05-02
-tags: ['자옌제', '타이베이101', 'HFNC', '공공지분 거버넌스', '대만 여성', '크로스오버', '공공 동원', '알렉스 호놀드']
+tags:
+  [
+    '자옌제',
+    '타이베이101',
+    'HFNC',
+    '공공지분 거버넌스',
+    '대만 여성',
+    '크로스오버',
+    '공공 동원',
+    '알렉스 호놀드',
+  ]
 category: People
 subcategory: '藝術、娛樂與媒體'
 author: 'Taiwan.md'
@@ -10,9 +20,9 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: People/賈永婕.md
-sourceCommitSha: 616cbd07
-sourceContentHash: sha256:a92f6a6b22257ffa
-sourceBodyHash: sha256:3a5ef98d636f1bfa
+sourceCommitSha: '0b2c2a33'
+sourceContentHash: 'sha256:a92f6a6b22257ffa'
+sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
 translatedAt: 2026-05-03T23:14:06+08:00
 ---
 

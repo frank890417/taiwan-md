@@ -27,8 +27,8 @@ readingTime: 17
 lastVerified: 2026-04-18
 lastHumanReview: true
 translatedFrom: People/草東沒有派對.md
-sourceCommitSha: 9e6e29f2
-sourceContentHash: sha256:c93963fdd3e6600a
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:c93963fdd3e6600a'
 sourceBodyHash: 'sha256:5d39f10852397392'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---

@@ -10,7 +10,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 11
 featured: false
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
 sourceBodyHash: 'sha256:3d618da70d40426c'
 translatedAt: '2026-04-14T10:55:17+08:00'

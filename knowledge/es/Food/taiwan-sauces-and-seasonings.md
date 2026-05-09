@@ -22,7 +22,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Deep_dish_pizz
 imageAlt: 'Platos con salsa de soja'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣醬料與調味.md'
-sourceCommitSha: '221b1708'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:80c0f5a5b4a4fc5f'
 sourceBodyHash: 'sha256:165e3d5c431f4c83'
 translatedAt: '2026-05-01T22:19:10+08:00'

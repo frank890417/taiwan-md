@@ -10,7 +10,7 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: true
 translatedFrom: 'People/黃玉嬌.md'
-sourceCommitSha: 'a9bade27'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cac2434cbb03924f'
 sourceBodyHash: 'sha256:80650db2e1788a43'
 translatedAt: '2026-05-01T18:02:56+08:00'

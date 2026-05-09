@@ -18,8 +18,8 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Lifestyle/小綠人.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:e13c8539ecf8a7a9'
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:0e8351a88b984c1d'
 sourceBodyHash: 'sha256:83cbb50293e2fd70'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---

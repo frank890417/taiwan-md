@@ -18,8 +18,8 @@ readingTime: 5
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'People/葉丙成.md'
-sourceCommitSha: '67fe687d'
-sourceContentHash: 'sha256:342599fa566fd6e8'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0759e160a613377d'
 sourceBodyHash: 'sha256:08a335a9af5d60e0'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---

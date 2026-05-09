@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 7
 featured: true
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: '55c3ff6a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8ca95111311b9e7a'
 sourceBodyHash: 'sha256:99516f459f833e82'
 translatedAt: '2026-04-14T19:24:10+08:00'

@@ -21,7 +21,7 @@ readingTime: 17
 lastVerified: 2026-04-10
 lastHumanReview: false
 translatedFrom: 'Society/台灣動物用藥爭議.md'
-sourceCommitSha: '1d7e529c'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d7dcd37acdb09d6d'
 sourceBodyHash: 'sha256:d1454d9c190df6ba'
 translatedAt: '2026-05-01T13:19:11+08:00'

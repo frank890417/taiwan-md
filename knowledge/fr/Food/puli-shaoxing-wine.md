@@ -17,8 +17,8 @@ date: 2026-05-01
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Food/埔里紹興酒.md'
-sourceCommitSha: 'd94bc431'
-sourceContentHash: 'sha256:a112cb9e51682bab'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:9df20812b27208dc'
 sourceBodyHash: 'sha256:8546c2e9468f2766'
 translatedAt: '2026-05-02T11:00:00+08:00'
 ---

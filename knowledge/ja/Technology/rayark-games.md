@@ -20,8 +20,8 @@ lastVerified: 2026-04-25
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/雷亞遊戲.md'
-sourceCommitSha: '2c96c034'
-sourceContentHash: 'sha256:b5bd67f2598b2625'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:4f6bf71c086c458c'
 sourceBodyHash: 'sha256:5362133ae7600024'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---

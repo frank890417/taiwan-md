@@ -20,7 +20,7 @@ readingTime: 12
 featured: true
 translatedFrom: 'Lifestyle/台灣教育制度.md'
 lastVerified: 2026-03-23
-sourceCommitSha: '800114ea'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e9ca27840e47d5f'
 sourceBodyHash: 'sha256:0a4c39eae3411ae0'
 translatedAt: '2026-04-15T17:34:49+08:00'

@@ -10,8 +10,8 @@ readingTime: 10
 featured: false
 translatedFrom: "People/鈕承澤.md"
 lastVerified: 2026-03-19
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:c412539523fe8a6a"
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:c412539523fe8a6a'
 sourceBodyHash: 'sha256:542c1db901d15440'
 translatedAt: "2026-04-14T19:19:21+08:00"
 ---

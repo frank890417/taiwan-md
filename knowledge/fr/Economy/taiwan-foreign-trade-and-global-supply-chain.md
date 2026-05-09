@@ -20,7 +20,7 @@ featured: false
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
 lastVerified: 2026-03-19
 lastHumanReview: false
-sourceCommitSha: '2d0c126f'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c9c74a5987b6a57a'
 sourceBodyHash: 'sha256:fc166b853b9db56b'
 translatedAt: '2026-04-14T19:21:33+08:00'

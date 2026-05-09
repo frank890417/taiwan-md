@@ -20,8 +20,8 @@ readingTime: 10
 lastVerified: 2026-04-20
 lastHumanReview: false
 translatedFrom: People/林宥嘉.md
-sourceCommitSha: 4d3d206a
-sourceContentHash: sha256:ff4d0a0deab286ca
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ff4d0a0deab286ca'
 sourceBodyHash: 'sha256:e37ed40c36801365'
 translatedAt: 2026-05-01T20:54:17+08:00
 ---

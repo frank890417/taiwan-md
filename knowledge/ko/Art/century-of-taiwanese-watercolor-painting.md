@@ -10,7 +10,7 @@ readingTime: 8
 featured: false
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
 lastVerified: 2026-03-19
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c0b72206c0902f28'
 sourceBodyHash: 'sha256:0797f8f5d26b7f91'
 translatedAt: '2026-04-14T09:31:15+08:00'

@@ -2,7 +2,15 @@
 title: '루슈옌(盧秀燕): 구관 공기 1만 병에서 워싱턴 군사 구매 보험론까지, 불패의 여왕'
 description: '2018년 12월 25일, 그녀는 자비로 1만 개의 유리병에 담은 「구관 공기」를 참석 시민들에게 나누어 주며 선거 구호를 시민들의 손에 쥐여주었다. 8년 연속 선거 불패, 두 차례 타이중 시장, 6선 국회의원을 거친 후, 2025년 8월 주리룬(朱立倫)이 공개적으로 그녀에게 당 주석직을 맡겨달라고 요청하자, 그녀는 「어려울수록 엄마는 집에 남는다」고 답했다. 그러나 2026년 4월 최신 여론조사에서 그녀의 2028년 대권 유력 후보 지위가 천완안(陳萬安)에게 25% 대 19.7%로 추월당했다.'
 date: 2026-05-03
-tags: ['정치인', '타이중 시장', '중국국민당', '불패의 여왕', '엄마 시장', '2028대선']
+tags:
+  [
+    '정치인',
+    '타이중 시장',
+    '중국국민당',
+    '불패의 여왕',
+    '엄마 시장',
+    '2028대선',
+  ]
 category: 'People'
 subcategory: '政治人物'
 author: 'Taiwan.md'
@@ -11,9 +19,9 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: People/盧秀燕.md
-sourceCommitSha: 96c653f7
-sourceContentHash: sha256:d371b7109756e14d
-sourceBodyHash: sha256:8d9608a92d5a6a0c
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:d371b7109756e14d'
+sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: 2026-05-03T23:14:06+08:00
 ---
 

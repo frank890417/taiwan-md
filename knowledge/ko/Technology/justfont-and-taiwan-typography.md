@@ -22,7 +22,7 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: 'ee4917f3'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d183a4f153af2c30'
 sourceBodyHash: 'sha256:b00886dbf4c43128'
 translatedAt: '2026-05-01T22:19:01+08:00'

@@ -22,7 +22,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%E5%9F%BA%E9%9
 imageAlt: 'Marché aux poissons de Kanziding à Keelung'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣海鮮文化.md'
-sourceCommitSha: '221b1708'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b19eaae2749a2675'
 sourceBodyHash: 'sha256:0e334a19b5edfbf1'
 translatedAt: '2026-04-14T12:29:18+08:00'

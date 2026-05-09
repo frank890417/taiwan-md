@@ -10,8 +10,8 @@ featured: false
 lastVerified: 2026-04-01
 lastHumanReview: true
 translatedFrom: 'Culture/台灣獸迷文化.md'
-sourceCommitSha: '5dfae94a'
-sourceContentHash: 'sha256:ba17289b87055288'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:fb754fde867da6b6'
 sourceBodyHash: 'sha256:b8b517c948537006'
 translatedAt: '2026-05-02T01:17:17+08:00'
 ---

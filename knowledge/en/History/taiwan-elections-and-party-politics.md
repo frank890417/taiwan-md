@@ -22,7 +22,7 @@ updateLog:
   - date: '2026-04-07'
     changes: 'Full rewrite (Pipeline v2.12), 18 footnotes, Zhongli Incident opening, 2020/2024 election data added'
 translatedFrom: 'History/台灣選舉與政黨政治.md'
-sourceCommitSha: '001ae5fb'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:92e02a6f4332994e'
 sourceBodyHash: 'sha256:dfd574c12aaa4fc2'
 translatedAt: '2026-05-01T13:44:02+08:00'

@@ -26,8 +26,8 @@ readingTime: 16
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: People/壞特.md
-sourceCommitSha: '616cbd07'
-sourceContentHash: 'sha256:28a7c9490bcdaa67'
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:bc3dc1570bc97a61'
 sourceBodyHash: 'sha256:f96db07a5b8f044c'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---

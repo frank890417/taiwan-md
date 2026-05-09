@@ -17,7 +17,7 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-05
 translatedFrom: 'People/黃玉嬌.md'
-sourceCommitSha: 'a9bade27'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cac2434cbb03924f'
 sourceBodyHash: 'sha256:80650db2e1788a43'
 translatedAt: '2026-04-14T19:20:08+08:00'

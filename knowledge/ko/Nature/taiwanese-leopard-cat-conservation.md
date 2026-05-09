@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:51b6f9aa87c5e972'
 sourceBodyHash: 'sha256:ef03963755b1efd7'
 translatedAt: '2026-04-14T10:48:03+08:00'

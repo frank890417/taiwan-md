@@ -10,7 +10,7 @@ readingTime: 12
 featured: true
 translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
 lastVerified: 2026-04-04
-sourceCommitSha: 'a97494be'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:6443d0ccddb2bc55'
 sourceBodyHash: 'sha256:d52012c21b6cf2d9'
 translatedAt: '2026-04-14T06:47:03+08:00'

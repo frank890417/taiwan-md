@@ -18,7 +18,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-27
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c09723b8f613b890'
 sourceBodyHash: 'sha256:8cc0f510721f307f'
 translatedAt: '2026-04-14T19:19:21+08:00'

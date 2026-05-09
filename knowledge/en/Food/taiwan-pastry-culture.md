@@ -21,7 +21,7 @@ lastVerified: '2026-05-03'
 lastHumanReview: 'false'
 featured: 'false'
 translatedFrom: 'Food/台灣糕餅文化.md'
-sourceCommitSha: '7632201f'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bdb405b92fc10596'
 sourceBodyHash: 'sha256:c6a86f733ba033b1'
 translatedAt: '2026-05-03T23:14:05+08:00'
@@ -73,7 +73,7 @@ Fengyuan Fengquan's story spans both sides of the Taiwan Strait and Japan. In th
 
 His first experiment was the "small moon cake" — shrinking the traditional big moon cake to a size one person could finish in one sitting, using white lima beans imported from Japan for the filling. But what truly changed Taiwan's Mid-Autumn gift box landscape was another pastry: the **egg yolk pastry**.
 
-The August 1986 issue of *Baking Food Information Magazine* recorded that the inventor of the egg yolk pastry was Chen Zengxiong[^13]. National treasure pastry master Lü Hongyu recalled that the egg yolk pastry, originating around the 1960s, **was originally olive-shaped rather than round**, and would be cut in half to reveal the salted egg yolk inside, with a pineapple crust rather than an oil pastry crust[^9]. It only gradually evolved into the round + oil pastry crust version we know today.
+The August 1986 issue of _Baking Food Information Magazine_ recorded that the inventor of the egg yolk pastry was Chen Zengxiong[^13]. National treasure pastry master Lü Hongyu recalled that the egg yolk pastry, originating around the 1960s, **was originally olive-shaped rather than round**, and would be cut in half to reveal the salted egg yolk inside, with a pineapple crust rather than an oil pastry crust[^9]. It only gradually evolved into the round + oil pastry crust version we know today.
 
 The three key process parameters Chen Zengxiong adjusted were: salted egg yolks must first be soaked in strong liquor to remove fishiness, then baked at moderate temperature; red bean paste must be slow-cooked to develop a smoky flavor; and the flour-to-oil ratio in the oil pastry crust must be precisely calibrated[^9]. These three formula parameters have been used to this day.
 
@@ -168,7 +168,7 @@ A single pastry holds far more time than you might think.
 
 [^12]: [Dajia A-Cong-Shi Pastry Culture Museum](https://www.o-nongs.com.tw/) — Official information for Dajia A-Cong-Shi Creative Taro Pastry, documenting its history as a designated state banquet snack and the heritage of taro pastry craft.
 
-[^13]: [Wikipedia: Egg Yolk Pastry](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Documents the August 1986 *Baking Food Information Magazine* record of egg yolk pastry inventor Chen Zengxiong, along with standard craft parameters of red bean paste, salted duck egg yolk, and oil pastry crust.
+[^13]: [Wikipedia: Egg Yolk Pastry](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Documents the August 1986 _Baking Food Information Magazine_ record of egg yolk pastry inventor Chen Zengxiong, along with standard craft parameters of red bean paste, salted duck egg yolk, and oil pastry crust.
 
 [^14]: [Wikipedia: Mung Bean Pastry (綠豆椪)](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Also known as "Green Bean Dome" or "Taiwanese moon cake," originating from Fengyuan refinements during the Japanese colonial era, with fillings of mung bean paste, lard, fried shallots, and pork, and its important role in Taiwanese wedding pastries.
 

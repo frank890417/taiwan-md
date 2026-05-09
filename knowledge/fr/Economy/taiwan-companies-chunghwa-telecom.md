@@ -10,8 +10,8 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: "Economy/台灣企業：中華電信.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:2dc422bd153e8b6c"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2dc422bd153e8b6c'
 sourceBodyHash: 'sha256:7cf96bc35fdd604f'
 translatedAt: "2026-04-14T19:20:24+08:00"
 ---

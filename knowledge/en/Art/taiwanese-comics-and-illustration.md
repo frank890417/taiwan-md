@@ -4,7 +4,7 @@ category: Art
 tags: [comics, illustration, visual art]
 date: 2026-03-18
 translatedFrom: 'Art/台灣漫畫.md'
-sourceCommitSha: '0d8e06fc'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:3a1178905711b562'
 sourceBodyHash: 'sha256:a9f04ad63339e270'
 translatedAt: '2026-05-01T17:09:56+08:00'

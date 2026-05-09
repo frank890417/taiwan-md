@@ -1,28 +1,29 @@
 ---
-title: "Crise climatique et transition vers la neutralité carbone à Taïwan"
+title: 'Crise climatique et transition vers la neutralité carbone à Taïwan'
 description: "Un réchauffement deux fois plus rapide que la moyenne mondiale, 98 % d'énergie importée — une île mise 9 000 milliards de dollars taïwanais sur la reconstruction de son système énergétique"
 date: 2026-04-04
-author: "Taiwan.md"
-category: "Nature"
-subcategory: "保育與環境"
-tags: [
-    "Changement climatique",
-    "Transition vers la neutralité carbone",
-    "Transition énergétique",
-    "Éolien en mer",
-    "Énergie solaire photovoltaïque",
-    "Marché du carbone",
-    "Phénomènes climatiques extrêmes",
+author: 'Taiwan.md'
+category: 'Nature'
+subcategory: '保育與環境'
+tags:
+  [
+    'Changement climatique',
+    'Transition vers la neutralité carbone',
+    'Transition énergétique',
+    'Éolien en mer',
+    'Énergie solaire photovoltaïque',
+    'Marché du carbone',
+    'Phénomènes climatiques extrêmes',
   ]
 readingTime: 14
 lastVerified: 2026-04-04
 lastHumanReview: 2026-04-04
 featured: true
-translatedFrom: "Nature/台灣氣候危機與淨零轉型.md"
-sourceCommitSha: "14c7b362"
-sourceContentHash: "sha256:a139d73d65e0ebe1"
-sourceBodyHash: "sha256:6ee4b6b98fc76b72"
-translatedAt: "2026-05-03T23:14:07+08:00"
+translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:e177a9a10f52aedb'
+sourceBodyHash: 'sha256:6ee4b6b98fc76b72'
+translatedAt: '2026-05-03T23:14:07+08:00'
 ---
 
 # Crise climatique et transition vers la neutralité carbone à Taïwan
@@ -45,9 +46,9 @@ Le volume total des précipitations à Taïwan n'a pas diminué de façon marqu�
 
 La fréquence des précipitations extrêmes est elle aussi en hausse. Le nombre de jours de pluie torrentielle dépassant 200 mm en vingt-quatre heures est passé de 5 par an en moyenne dans les années 1960 à 8 ces dernières années. En 2009, le typhon Morakot a déversé 2 884 mm de pluie cumulée à Alishan[^5] — l'équivalent de la pluviométrie annuelle entière de Taipei en trois jours seulement. Lors de cette catastrophe, le village de Xiaolin, dans le district de Kaohsiung, a été enseveli avant l'aube sous les coulées de boue du mont Shiangtou, tuant 491 personnes[^6].
 
-> « Chaque chaise représente un membre de la famille. » C'est ainsi que Wang Ming-liang, survivant, s'adressait plus tard aux visiteurs du mémorial de Xiaolin. Il a fondé la communauté de Guangming Xiaolin et emmène la troupe de danse et chant des Da du peuple Bunun en tournée à travers Taïwan. (Propos recueillis par l'émission *Notre île* de la chaîne publique PTS.)
+> « Chaque chaise représente un membre de la famille. » C'est ainsi que Wang Ming-liang, survivant, s'adressait plus tard aux visiteurs du mémorial de Xiaolin. Il a fondé la communauté de Guangming Xiaolin et emmène la troupe de danse et chant des Da du peuple Bunun en tournée à travers Taïwan. (Propos recueillis par l'émission _Notre île_ de la chaîne publique PTS.)
 
-Morakot n'était pas un accident — c'était un avertissement. Le *Rapport scientifique national sur le changement climatique 2024*, dirigé par Hsu Huang-hsiung, indique que les épisodes de précipitations extrêmes qui ne se produisaient qu'une fois tous les 50 ans pourraient survenir tous les 10 ans à l'avenir[^7]. Yunlin, Tainan et Keelung sont les régions les plus exposées aux inondations côtières.
+Morakot n'était pas un accident — c'était un avertissement. Le _Rapport scientifique national sur le changement climatique 2024_, dirigé par Hsu Huang-hsiung, indique que les épisodes de précipitations extrêmes qui ne se produisaient qu'une fois tous les 50 ans pourraient survenir tous les 10 ans à l'avenir[^7]. Yunlin, Tainan et Keelung sont les régions les plus exposées aux inondations côtières.
 
 ## La facture du 22e plus grand émetteur mondial
 

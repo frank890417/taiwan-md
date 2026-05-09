@@ -18,8 +18,8 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-21
 translatedFrom: 'People/朱宗慶.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:9f25e4b33618c84b'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0eba5bba0f89e085'
 sourceBodyHash: 'sha256:7f55711687ee2aed'
 translatedAt: '2026-04-14T19:15:12+08:00'
 ---

@@ -16,8 +16,8 @@ readingTime: 12
 lastVerified: 2026-04-16
 lastHumanReview: false
 translatedFrom: Food/黑松.md
-sourceCommitSha: fab473cc
-sourceContentHash: sha256:764c87b479e4e9af
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:764c87b479e4e9af'
 sourceBodyHash: 'sha256:6c2df9f7c1f07744'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---

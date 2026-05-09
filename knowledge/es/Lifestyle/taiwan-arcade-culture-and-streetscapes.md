@@ -10,8 +10,8 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: Lifestyle/台灣騎樓文化與街景.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:2b233a45daf622e6
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2b233a45daf622e6'
 sourceBodyHash: 'sha256:8f231aa6641c39c8'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---

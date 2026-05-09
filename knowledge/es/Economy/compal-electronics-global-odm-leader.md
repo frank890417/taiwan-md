@@ -10,8 +10,8 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: Economy/台灣企業：仁寶電腦.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:95ade25e990d7b77
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:95ade25e990d7b77'
 sourceBodyHash: 'sha256:3d69fd05c24e44c7'
 translatedAt: 2026-05-02T01:17:17+08:00
 category: Economy

@@ -19,8 +19,8 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: Culture/人間雜誌.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:71f7c3d911b14d72
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:71f7c3d911b14d72'
 sourceBodyHash: 'sha256:39b5ed0bb97ef89b'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: Culture

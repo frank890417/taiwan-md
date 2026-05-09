@@ -21,8 +21,8 @@ lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
 translatedFrom: People/連穎.md
-sourceCommitSha: 2c96c034
-sourceContentHash: sha256:5f1555ccc3c4f606
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:5f1555ccc3c4f606'
 sourceBodyHash: 'sha256:3765efbdda716be7'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

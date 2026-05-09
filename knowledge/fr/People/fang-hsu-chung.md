@@ -17,7 +17,7 @@ readingTime: 10
 featured: false
 translatedFrom: 'People/方序中.md'
 lastVerified: 2026-03-19
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:09b565df3960bd44'
 sourceBodyHash: 'sha256:55d5916648c3787e'
 translatedAt: '2026-04-14T19:15:12+08:00'

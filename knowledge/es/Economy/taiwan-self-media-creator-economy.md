@@ -18,7 +18,7 @@ lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
-sourceCommitSha: '800114ea'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:96a6ae9b363e959a'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
 translatedAt: '2026-05-01T22:19:10+08:00'

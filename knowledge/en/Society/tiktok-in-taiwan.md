@@ -19,8 +19,8 @@ readingTime: 10
 lastVerified: 2026-04-12
 lastHumanReview: '2026-04-13'
 translatedFrom: 'Society/TikTok.md'
-sourceCommitSha: '92f224cf'
-sourceContentHash: 'sha256:5107a48f2b5cfa08'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
 translatedAt: '2026-05-01T13:19:11+08:00'
 ---

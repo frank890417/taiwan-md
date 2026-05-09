@@ -17,8 +17,8 @@ featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 translatedFrom: People/曾雅妮.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:890dbecd669ee83c
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People

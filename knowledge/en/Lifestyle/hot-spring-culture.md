@@ -19,7 +19,7 @@ readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Lifestyle/溫泉文化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5c053dd9110acc9b'
 sourceBodyHash: 'sha256:62212c95c5c34acf'
 translatedAt: '2026-04-14T12:25:09+08:00'

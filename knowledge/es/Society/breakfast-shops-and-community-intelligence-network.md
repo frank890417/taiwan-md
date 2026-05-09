@@ -18,7 +18,7 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/早餐店阿姨與社區情報網.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:753337c350d2acc3'
 sourceBodyHash: 'sha256:7215c472ebf36aad'
 translatedAt: '2026-05-01T22:19:10+08:00'

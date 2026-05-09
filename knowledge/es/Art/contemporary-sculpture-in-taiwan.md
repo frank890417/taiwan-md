@@ -21,8 +21,8 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: Art/台灣當代雕塑發展.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:f29e2e2ec385f748
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:f29e2e2ec385f748'
 sourceBodyHash: 'sha256:2fae1aa9371579c1'
 translatedAt: 2026-05-01T20:54:23+08:00
 category: Art

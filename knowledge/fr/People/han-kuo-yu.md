@@ -1,18 +1,28 @@
 ---
-title: "Han Kuo-yu"
+title: 'Han Kuo-yu'
 description: "Premier maire d'une municipalité spéciale à avoir été destitué, il est devenu président du Parlement quatre ans plus tard. Quelle trajectoire politique est-ce là ?"
 date: 2026-04-11
-tags: ["personnalité politique", "Kuomintang", "président du Parlement", "vague Han", "Kaohsiung", "2018", "2020", "2024"]
-subcategory: "政治人物"
-author: "Taiwan.md"
+tags:
+  [
+    'personnalité politique',
+    'Kuomintang',
+    'président du Parlement',
+    'vague Han',
+    'Kaohsiung',
+    '2018',
+    '2020',
+    '2024',
+  ]
+subcategory: '政治人物'
+author: 'Taiwan.md'
 readingTime: 12
 lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: People/韓國瑜.md
-sourceCommitSha: 2d0c126f
-sourceContentHash: sha256:ee41f08167c2c2aa
-sourceBodyHash: sha256:73cf0e41be5a3b9e
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:ee41f08167c2c2aa'
+sourceBodyHash: 'sha256:73cf0e41be5a3b9e'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
@@ -34,15 +44,15 @@ Entre 2020 et 2024, Han Kuo-yu n'a participé à aucune nouvelle élection, n'a 
 
 Entre la mort politique et la résurrection politique, il n'y avait qu'une liste de candidats nationaux.
 
-> **Aperçu en 30 secondes** : Han Kuo-yu, né en 1957 à Banciao, Taipei, est un descendant de deuxième génération de *waishengren* (originaires de la province du Henan, Shangqiu). Diplômé de la filière spéciale de l'Académie militaire de l'armée de terre, du département d'anglais de l'université Soochow et de l'Institut d'études sur l'Asie de l'Est de l'université nationale de Chengchi. Il a été législateur aux 2e, 3e et 4e législatures et adjoint au maire de Zhonghe, dans le comté de Taipei. Après avoir été nommé directeur général de la société de commercialisation des produits agricoles de Taipei (TPPC) en 2016, il est resté dans l'ombre pendant trois ans. En 2018, il s'est présenté aux élections municipales de Kaohsiung sous la bannière du Kuomintang, déclenchant la « vague Han » avec des slogans comme « Kaohsiung, devenons riches ! », « les jeunes qui ont migré vers le nord » et « les marchandises sortent, les gens entrent », battant son adversaire avec 150 000 voix d'avance. Quatre mois après son élection comme maire en 2019, il a annoncé sa candidature à la présidence. En janvier 2020, il a perdu l'élection présidentielle avec un écart de 2,65 millions de voix, puis a été destitué le 6 juin de la même année, devenant le premier maire de municipalité spéciale destitué de l'histoire constitutionnelle. En 2024, il est revenu au Yuan législatif en tant que premier candidat national du Kuomintang et a été élu président du Parlement le 1er février.
+> **Aperçu en 30 secondes** : Han Kuo-yu, né en 1957 à Banciao, Taipei, est un descendant de deuxième génération de _waishengren_ (originaires de la province du Henan, Shangqiu). Diplômé de la filière spéciale de l'Académie militaire de l'armée de terre, du département d'anglais de l'université Soochow et de l'Institut d'études sur l'Asie de l'Est de l'université nationale de Chengchi. Il a été législateur aux 2e, 3e et 4e législatures et adjoint au maire de Zhonghe, dans le comté de Taipei. Après avoir été nommé directeur général de la société de commercialisation des produits agricoles de Taipei (TPPC) en 2016, il est resté dans l'ombre pendant trois ans. En 2018, il s'est présenté aux élections municipales de Kaohsiung sous la bannière du Kuomintang, déclenchant la « vague Han » avec des slogans comme « Kaohsiung, devenons riches ! », « les jeunes qui ont migré vers le nord » et « les marchandises sortent, les gens entrent », battant son adversaire avec 150 000 voix d'avance. Quatre mois après son élection comme maire en 2019, il a annoncé sa candidature à la présidence. En janvier 2020, il a perdu l'élection présidentielle avec un écart de 2,65 millions de voix, puis a été destitué le 6 juin de la même année, devenant le premier maire de municipalité spéciale destitué de l'histoire constitutionnelle. En 2024, il est revenu au Yuan législatif en tant que premier candidat national du Kuomintang et a été élu président du Parlement le 1er février.
 
 ## De Banciao à Taipei à la base avancée de Kaohsiung
 
-Le milieu familial de Han Kuo-yu est celui d'un « descendant de deuxième génération de *waishengren* de Banciao, Taipei ». Son père, originaire de Shangqiu dans le Henan, a suivi le gouvernement nationaliste à Taïwan en 1949. Sa mère est également d'origine continentale. Il a grandi dans un *juancun* (village militaire) ou dans ses environs à Banciao, enfant typique d'une famille de première génération de *waishengren* d'après-guerre.[^4]
+Le milieu familial de Han Kuo-yu est celui d'un « descendant de deuxième génération de _waishengren_ de Banciao, Taipei ». Son père, originaire de Shangqiu dans le Henan, a suivi le gouvernement nationaliste à Taïwan en 1949. Sa mère est également d'origine continentale. Il a grandi dans un _juancun_ (village militaire) ou dans ses environs à Banciao, enfant typique d'une famille de première génération de _waishengren_ d'après-guerre.[^4]
 
 Son parcours éducatif mêle formation militaire et études littéraires. À l'université, il a suivi la filière spéciale de l'Académie militaire de l'armée de terre — une formation militaire de courte durée, distincte du cursus régulier de quatre ans. Après en être sorti, il a obtenu une licence au département d'anglais de l'université Soochow, puis une maîtrise à l'Institut d'études sur l'Asie de l'Est de l'université nationale de Chengchi. Cet institut est l'établissement académique le plus réputé de Taïwan pour l'étude des questions chinoises, et ses diplômés travaillent principalement dans les systèmes de sécurité nationale, de diplomatie et de recherche sur les relations transstraitières.
 
-Ces trois étapes éducatives reflètent un parcours typique d'« élite de deuxième génération de *waishengren* » : **fond militaire + diplôme en sciences humaines + spécialisation en études transstraitières**. Ce n'est pas une combinaison aléatoire, mais la formule standard utilisée par le système du Kuomintang pour former ses successeurs durant la Guerre froide. Pour les descendants de *waishengren* nés entre les années 1950 et 1970 qui souhaitaient entrer en politique, un parcours éducatif similaire était courant.
+Ces trois étapes éducatives reflètent un parcours typique d'« élite de deuxième génération de _waishengren_ » : **fond militaire + diplôme en sciences humaines + spécialisation en études transstraitières**. Ce n'est pas une combinaison aléatoire, mais la formule standard utilisée par le système du Kuomintang pour former ses successeurs durant la Guerre froide. Pour les descendants de _waishengren_ nés entre les années 1950 et 1970 qui souhaitaient entrer en politique, un parcours éducatif similaire était courant.
 
 En 1993, il est élu à la 2e législature et réélu pour deux mandats consécutifs (2e, 3e et 4e législatures, 1993-2002). Durant ses neuf années au Parlement, il s'est fait connaître pour son style de « canonnier » — prêt à insulter, à charger, à affronter directement ses adversaires. Le Kuomintang avait besoin de ce type de personnage à l'époque, car les législateurs du DPP adoptaient un style similaire.
 
@@ -60,13 +70,13 @@ Puis la « vague Han » s'est produite.
 
 Son langage électoral avait une densité jamais vue dans la politique taïwanaise :
 
-- **« Une bouteille d'eau minérale, un bol de *lu rou fan* »** — pour montrer qu'il ne dépendait pas des grands groupes financiers et faisait campagne avec les choses les plus simples
+- **« Une bouteille d'eau minérale, un bol de _lu rou fan_ »** — pour montrer qu'il ne dépendait pas des grands groupes financiers et faisait campagne avec les choses les plus simples
 - **« Les jeunes qui ont migré vers le nord »** — pour nommer le phénomène des habitants de Kaohsiung contraints de quitter leur ville pour travailler à Taipei
 - **« Les marchandises sortent, les gens entrent, Kaohsiung devient riche ! »** — trois phrases résumant la détresse économique et l'espoir en un slogan[^5]
 
 Le point commun de ces slogans : **extrêmement concrets, extrêmement populaires, extrêmement émotionnels**. Ils ne détaillaient pas les politiques, ne développaient pas de philosophie de gouvernance, mais touchaient directement la douleur la plus brute des électeurs — les jeunes ne restent pas, l'économie ne croît pas, l'espoir est introuvable. Et ils étaient reproductibles, partageables, transformables en mèmes Internet.
 
-L'analyse post-électorale de *The Reporter* en 2018 a classé la « vague Han » comme un phénomène électoral **anti-discours, anti-élitiste, proche du peuple**.[^6] À l'époque, le récit politique taïwanais était dominé par le DPP sous la présidence de Tsai Ing-wen, avec un langage orienté vers la rationalité, l'international, la réforme et le progrès. Ce langage était incompréhensible et inaudible pour certains électeurs — en particulier les 40-49 ans, ceux qui avaient connu la prospérité économique de Kaohsiung puis l'avaient vue décliner.
+L'analyse post-électorale de _The Reporter_ en 2018 a classé la « vague Han » comme un phénomène électoral **anti-discours, anti-élitiste, proche du peuple**.[^6] À l'époque, le récit politique taïwanais était dominé par le DPP sous la présidence de Tsai Ing-wen, avec un langage orienté vers la rationalité, l'international, la réforme et le progrès. Ce langage était incompréhensible et inaudible pour certains électeurs — en particulier les 40-49 ans, ceux qui avaient connu la prospérité économique de Kaohsiung puis l'avaient vue décliner.
 
 L'apparition de Han Kuo-yu leur a donné **des mots pour s'exprimer**.
 
@@ -104,7 +114,7 @@ Mettre ces deux chiffres côte à côte rend les choses encore plus claires : **
 
 Han Kuo-yu est devenu le **premier maire d'une municipalité spéciale destitué** dans l'histoire constitutionnelle de la République de Chine.[^2] Son mandat de 528 jours est également devenu le plus court de l'histoire pour un maire de municipalité spéciale.
 
-Ce soir-là, la déclaration de Han Kuo-yu a été brève : « Je respecte la décision des citoyens de Kaohsiung. » Pas de colère, pas de justification, pas de théorie du complot. C'était l'exact opposé de l'enthousiasme de « Kaohsiung, devenons riches ! » de 2018 — mais c'était peut-être sa vraie nature, un descendant de deuxième génération de *waishengren* mêlant discipline militaire et calcul politique, sachant quand baisser la tête.
+Ce soir-là, la déclaration de Han Kuo-yu a été brève : « Je respecte la décision des citoyens de Kaohsiung. » Pas de colère, pas de justification, pas de théorie du complot. C'était l'exact opposé de l'enthousiasme de « Kaohsiung, devenons riches ! » de 2018 — mais c'était peut-être sa vraie nature, un descendant de deuxième génération de _waishengren_ mêlant discipline militaire et calcul politique, sachant quand baisser la tête.
 
 ## De la destitution au président du Parlement : quatre ans d'attente
 
@@ -170,9 +180,9 @@ La vérité se situe probablement entre les deux. Et Han Kuo-yu lui-même est pe
 
 [^3]: [Han Kuo-yu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — L'article Wikipédia rassemble les résultats complets de l'élection présidentielle du 11 janvier 2020 : Tsai Ing-wen et Lai Ching-te 8,17 millions de voix, Han Kuo-yu et Chang San-cheng 5,52 millions de voix, James Soong et Yu Hsiang 1,05 million de voix, ainsi que l'écart de défaite de 2,65 millions de voix pour Han Kuo-yu.
 
-[^4]: [Han Kuo-yu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — L'article Wikipédia sur Han Kuo-yu, documentant sa naissance le 17 juin 1957 à Banciao, Taipei, son origine de deuxième génération de *waishengren* du Henan, Shangqiu, ainsi que son parcours éducatif : filière spéciale de l'Académie militaire de l'armée de terre → département d'anglais de l'université Soochow → Institut d'études sur l'Asie de l'Est de l'université nationale de Chengchi.
+[^4]: [Han Kuo-yu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — L'article Wikipédia sur Han Kuo-yu, documentant sa naissance le 17 juin 1957 à Banciao, Taipei, son origine de deuxième génération de _waishengren_ du Henan, Shangqiu, ainsi que son parcours éducatif : filière spéciale de l'Académie militaire de l'armée de terre → département d'anglais de l'université Soochow → Institut d'études sur l'Asie de l'Est de l'université nationale de Chengchi.
 
-[^5]: [« Kaohsiung, devenons riches ! » — Wikipédia](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%99%BC%E5%A4%A7%E8%B2%A1) — Article Wikipédia dédié à « Kaohsiung, devenons riches ! », compilant de manière exhaustive l'ensemble des slogans centraux de la campagne de Han Kuo-yu pour l'élection municipale de Kaohsiung en 2018 (« une bouteille d'eau minérale, un bol de *lu rou fan* », « les jeunes qui ont migré vers le nord », « les marchandises sortent, les gens entrent »), ainsi que la structure linguistique par laquelle ces slogans ont formé le phénomène de la « vague Han ».
+[^5]: [« Kaohsiung, devenons riches ! » — Wikipédia](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%99%BC%E5%A4%A7%E8%B2%A1) — Article Wikipédia dédié à « Kaohsiung, devenons riches ! », compilant de manière exhaustive l'ensemble des slogans centraux de la campagne de Han Kuo-yu pour l'élection municipale de Kaohsiung en 2018 (« une bouteille d'eau minérale, un bol de _lu rou fan_ », « les jeunes qui ont migré vers le nord », « les marchandises sortent, les gens entrent »), ainsi que la structure linguistique par laquelle ces slogans ont formé le phénomène de la « vague Han ».
 
 [^6]: [Anti-discours, anti-élitiste, proche du peuple : comment la « vague Han » s'est-elle levée ? — The Reporter](https://www.twreporter.org/a/2018-election-kaohsiung-han-kuo-yu) — Analyse approfondie de The Reporter après les élections locales de 2018, positionnant la « vague Han » comme un phénomène électoral anti-discours, anti-élitiste et proche du peuple, et expliquant pourquoi la tranche des 40-49 ans de la population de Kaohsiung est devenue la base de soutien la plus solide de Han Kuo-yu.
 

@@ -18,8 +18,8 @@ readingTime: 15
 lastVerified: 2026-04-27
 lastHumanReview: false
 translatedFrom: Geography/清水斷崖.md
-sourceCommitSha: a6b467e5
-sourceContentHash: sha256:641da5668e0d4302
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:977c64498b20b961'
 sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---

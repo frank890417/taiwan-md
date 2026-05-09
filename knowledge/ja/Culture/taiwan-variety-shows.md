@@ -12,8 +12,8 @@ readingTime: 9
 lastVerified: 2026-04-19
 lastHumanReview: 2026-04-19
 translatedFrom: Culture/台灣綜藝.md
-sourceCommitSha: 4d3d206a
-sourceContentHash: sha256:a2572613f79ed394
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:a2572613f79ed394'
 sourceBodyHash: 'sha256:e10637f3a982deb1'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

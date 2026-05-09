@@ -7,8 +7,8 @@ subcategory: '電影與戲劇'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: People/桂綸鎂.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:abc35bc4aee48bac
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:abc35bc4aee48bac'
 sourceBodyHash: 'sha256:df4e818396c5d890'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People

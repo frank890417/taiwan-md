@@ -19,7 +19,7 @@ author: 'Taiwan.md'
 lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: 'History/福爾摩沙.md'
-sourceCommitSha: '53610439'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7eacbccf24addf9e'
 sourceBodyHash: 'sha256:6720483f0291c768'
 translatedAt: '2026-05-01T13:19:11+08:00'

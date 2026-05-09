@@ -11,8 +11,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: Economy/台灣產業轉型升級.md
-sourceCommitSha: 800114ea
-sourceContentHash: sha256:4035b995bd717d6f
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:4035b995bd717d6f'
 sourceBodyHash: 'sha256:81ddde0be3d6c345'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: Economy

@@ -19,8 +19,8 @@ featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: Technology/台灣太空產業發展.md
-sourceCommitSha: 4af626f4
-sourceContentHash: sha256:6d36d0208e7a562f
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:6d36d0208e7a562f'
 sourceBodyHash: 'sha256:a6c98698fb79ebb5'
 translatedAt: 2026-05-02T01:17:16+08:00
 ---

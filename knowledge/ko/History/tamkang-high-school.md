@@ -11,8 +11,8 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: History/淡江中學.md
-sourceCommitSha: 01bfab3c
-sourceContentHash: sha256:6515803df49cd854
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:6515803df49cd854'
 sourceBodyHash: 'sha256:68be41dd8378b384'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---

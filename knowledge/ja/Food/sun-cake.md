@@ -8,8 +8,8 @@ category: 'Food'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'Food/太陽餅.md'
-sourceCommitSha: 'eaef8b77'
-sourceContentHash: 'sha256:8d8d05b5b9b080eb'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---

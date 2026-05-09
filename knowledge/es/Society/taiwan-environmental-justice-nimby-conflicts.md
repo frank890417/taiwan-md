@@ -20,7 +20,7 @@ category: 'Society'
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
-sourceCommitSha: '2d0c126f'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8d7b73d5dcd91cdf'
 sourceBodyHash: 'sha256:102f748afe8c1589'
 translatedAt: '2026-05-03T23:14:07+08:00'
@@ -28,7 +28,7 @@ translatedAt: '2026-05-03T23:14:07+08:00'
 
 # Justicia ambiental y conflictos NIMBY en Taiwán
 
-La justicia ambiental se ocupa de la equidad en la distribución de las cargas y los beneficios ambientales. En Taiwán, los problemas ambientales generados durante el proceso de industrialización tienden a concentrarse en regiones y grupos étnicos específicos, configurando un fenómeno de «desigualdad ambiental». Desde las incineradoras de residuos, la disposición de desechos nucleares hasta los parques industriales petroquímicos, estas instalaciones necesarias pero riesgosas generan invariablemente conflictos NIMBY (*Not In My Back Yard*, «No en mi patio trasero»), reflejando las contradicciones profundas de la sociedad taiwanesa en torno a la distribución del riesgo ambiental.
+La justicia ambiental se ocupa de la equidad en la distribución de las cargas y los beneficios ambientales. En Taiwán, los problemas ambientales generados durante el proceso de industrialización tienden a concentrarse en regiones y grupos étnicos específicos, configurando un fenómeno de «desigualdad ambiental». Desde las incineradoras de residuos, la disposición de desechos nucleares hasta los parques industriales petroquímicos, estas instalaciones necesarias pero riesgosas generan invariablemente conflictos NIMBY (_Not In My Back Yard_, «No en mi patio trasero»), reflejando las contradicciones profundas de la sociedad taiwanesa en torno a la distribución del riesgo ambiental.
 
 ## Fundamentos teóricos de la justicia ambiental
 
@@ -238,5 +238,5 @@ Las decisiones ambientales en una democracia deben basarse en información sufic
 - [蘭嶼達悟族文教基金會](http://www.teyaw.org/) — Retiro de desechos nucleares y derechos indígenas
 - [行政院環境保護署](https://www.epa.gov.tw/) — Políticas y regulaciones ambientales
 - [台灣大學公共衛生學院](https://www.sph.ntu.edu.tw/) — Investigación sobre riesgos ambientales para la salud
-- *Justicia ambiental: riesgos ambientales en comunidades vulnerables*, de Wenling Du, Kaixuan Culture, 2012
-- *Introducción a los movimientos ambientales en Taiwán*, de Mingxiu He, Qunxue Publishing, 2006
+- _Justicia ambiental: riesgos ambientales en comunidades vulnerables_, de Wenling Du, Kaixuan Culture, 2012
+- _Introducción a los movimientos ambientales en Taiwán_, de Mingxiu He, Qunxue Publishing, 2006

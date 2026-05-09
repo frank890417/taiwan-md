@@ -15,8 +15,8 @@ subcategory: '電影與戲劇'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: People/陳玉勳.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:37de07b59dc6f1fd
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:37de07b59dc6f1fd'
 sourceBodyHash: 'sha256:f33484f2f7bf8baf'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People

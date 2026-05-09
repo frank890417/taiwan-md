@@ -221,7 +221,7 @@ lifeTree:
           plausibility: structural
           note: 'The Berkshire Hathaway / Buffett model. But Chang chose to exit proactively, avoiding the risk of gerontocracy. The self-restraint itself was part of the succession quality.'
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: '4a5b7958'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cd227d8ac5698cc4'
 sourceBodyHash: 'sha256:76e39b691c0dd9a1'
 translatedAt: '2026-05-01T08:56:11+08:00'

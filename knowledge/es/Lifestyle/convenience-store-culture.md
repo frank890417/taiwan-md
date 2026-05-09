@@ -5,13 +5,22 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Lifestyle'
 subcategory: '城市生活'
-tags: ['vida cotidiana', 'tiendas de conveniencia', '7-Eleven', 'FamilyMart', 'comida fresca', 'cultura de supermercados', 'vida moderna']
+tags:
+  [
+    'vida cotidiana',
+    'tiendas de conveniencia',
+    '7-Eleven',
+    'FamilyMart',
+    'comida fresca',
+    'cultura de supermercados',
+    'vida moderna',
+  ]
 readingTime: 7
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: '14c7b362'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1147dce03206caa1'
 sourceBodyHash: 'sha256:66d64e8d30fb65b6'
 translatedAt: '2026-05-03T23:14:07+08:00'

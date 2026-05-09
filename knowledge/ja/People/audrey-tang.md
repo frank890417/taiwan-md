@@ -20,7 +20,7 @@ lastHumanReview: '2026-04-07'
 featured: false
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/唐鳳.md'
-sourceCommitSha: '32e53d5b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a082c7ac24170454'
 sourceBodyHash: 'sha256:c6c324b6990ea5dc'
 translatedAt: '2026-05-01T14:48:26+08:00'

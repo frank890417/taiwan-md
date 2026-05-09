@@ -18,8 +18,8 @@ lastVerified: 2026-05-02
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/鐵皮屋.md'
-sourceCommitSha: 'c67109e5'
-sourceContentHash: 'sha256:be1cbb120a1ca336'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2513952bc4eab478'
 sourceBodyHash: 'sha256:96d147de5fc403fe'
 translatedAt: '2026-05-02T14:18:00+08:00'
 ---

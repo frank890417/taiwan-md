@@ -1,16 +1,24 @@
 ---
 title: 'Autoroutes : de la MacArthur Highway au tunnel de Xueshan, cinquante ans de pouvoir et de vitesse sur les routes nationales taïwanaises'
-description: 'En 1964, la MacArthur Highway ne comptait que 23 kilomètres ; aujourd''hui, le réseau autoroutier de Taïwan dépasse les 1 000 kilomètres. De la Chiang Kai-shek Expressway décidée par Chiang Ching-kuo, à la Formosa Highway moquée comme « route politique », au tunnel de Xueshan, l''un des plus difficiles à creuser au monde, jusqu''au système ETC qui a transformé les habitudes de paiement de chaque conducteur — chaque bande d''asphalte enregistre la volonté politique, les limites de l''ingénierie et les résistances populaires du Taïwan d''après-guerre.'
+description: "En 1964, la MacArthur Highway ne comptait que 23 kilomètres ; aujourd'hui, le réseau autoroutier de Taïwan dépasse les 1 000 kilomètres. De la Chiang Kai-shek Expressway décidée par Chiang Ching-kuo, à la Formosa Highway moquée comme « route politique », au tunnel de Xueshan, l'un des plus difficiles à creuser au monde, jusqu'au système ETC qui a transformé les habitudes de paiement de chaque conducteur — chaque bande d'asphalte enregistre la volonté politique, les limites de l'ingénierie et les résistances populaires du Taïwan d'après-guerre."
 date: 2026-05-03
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-tags: ['routes nationales', 'infrastructures de transport', 'Dix Grands Projets', 'tunnel de Xueshan', 'péage électronique ETC', 'Taïwan d''après-guerre']
+tags:
+  [
+    'routes nationales',
+    'infrastructures de transport',
+    'Dix Grands Projets',
+    'tunnel de Xueshan',
+    'péage électronique ETC',
+    "Taïwan d'après-guerre",
+  ]
 readingTime: 10
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/高速公路.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5a8bf0cfcaa7dbd2'
 sourceBodyHash: 'sha256:6f25b03f0ed1d8d2'
 translatedAt: '2026-05-03T21:10:10+08:00'
@@ -39,7 +47,7 @@ Le 14 août 1971, les travaux de la Chiang Kai-shek Expressway débutent.
 
 C'est le premier et le plus vaste des « Dix Grands Projets » de Chiang Ching-kuo. Conçue pour relier Keelung à Kaohsiung sur 373 kilomètres à quatre voies, sa date d'achèvement est fixée au 31 octobre 1978 — date anniversaire de la mort de Tchang Kaï-chek — et elle est baptisée « Chiang Kai-shek Expressway »[^2][^3][^10].
 
-La difficulté du projet reste impressionnante aujourd'hui : à l'époque, Taïwan ne disposait d'aucune norme de conception autoroutière ; les équipes d'ingénieurs traduisaient au fur et à mesure les normes japonaises et américaines, et de nombreux ponts et remblais furent conçus « à partir de zéro »[^10]. Le pont Zhongsha, la côte de Yangmei, le segment de mudstone de Longdong — chaque section a sa propre histoire d'ingénierie. Dans l'ouvrage d'histoire orale *Da Dao Zhi Xing* publié par le Bureau des autoroutes, les ingénieurs de l'époque se souviennent : « Nous ne construisions pas une route, nous apprenions à construire une route. »[^10]
+La difficulté du projet reste impressionnante aujourd'hui : à l'époque, Taïwan ne disposait d'aucune norme de conception autoroutière ; les équipes d'ingénieurs traduisaient au fur et à mesure les normes japonaises et américaines, et de nombreux ponts et remblais furent conçus « à partir de zéro »[^10]. Le pont Zhongsha, la côte de Yangmei, le segment de mudstone de Longdong — chaque section a sa propre histoire d'ingénierie. Dans l'ouvrage d'histoire orale _Da Dao Zhi Xing_ publié par le Bureau des autoroutes, les ingénieurs de l'époque se souviennent : « Nous ne construisions pas une route, nous apprenions à construire une route. »[^10]
 
 > **💡 Le saviez-vous ?**
 > La Chiang Kai-shek Expressway était initialement conçue comme un système « à niveau », sans véritable fermeture. Ce n'est qu'en cours de travaux qu'elle fut redessinée selon les normes d'une autoroute totalement fermée avec échangeurs dénivelés — ce qui signifie que de nombreux tronçons ont été reconçus après le début des travaux, un cas extrêmement rare en ingénierie de « modification des spécifications en cours de route »[^4][^10].

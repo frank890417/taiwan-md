@@ -16,7 +16,7 @@ tags:
 readingTime: 10
 featured: false
 translatedFrom: 'Music/小虎隊.md'
-sourceCommitSha: 'f260d03b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:14e51d60921e3e85'
 sourceBodyHash: 'sha256:4b4e203a177f15a3'
 translatedAt: '2026-05-01T22:19:10+08:00'

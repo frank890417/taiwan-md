@@ -1,5 +1,5 @@
 ---
-title: "Ma-wai Soup: A Bowl of Bitter-Sweet Green Soup from Nantun’s Jute Fields to Taichung’s Summer Dining Tables"
+title: 'Ma-wai Soup: A Bowl of Bitter-Sweet Green Soup from Nantun’s Jute Fields to Taichung’s Summer Dining Tables'
 description: "In 1895, the Japanese colonial administration promoted extensive jute cultivation in Nantun, Taichung to manufacture jute sacks. Half a century later, plastic bags phased out the jute rope industry, yet Ma-wai soup remained a summer staple for Taichung residents. This thick green soup with a bitter-sweet aftertaste is the only local dish in Taiwan that has survived as a 'by-product' of an industry."
 category: Food
 tags: ['Taichung', 'Nantun', 'Jute', 'Traditional Flavor', 'Summer Dish']
@@ -10,7 +10,7 @@ lastVerified: '2026-05-03'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/麻芛湯.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:37e6bdeac5fb1d7c'
 sourceBodyHash: 'sha256:3db5773500588245'
 translatedAt: '2026-05-03T21:10:03+08:00'
@@ -54,7 +54,7 @@ To understand why Ma-wai is in Taichung, you must first understand why Taiwan gr
 
 Why don’t Taipei residents drink it, nor Tainan residents? Besides not cultivating it, there is a more subjective reason: bitterness.
 
-Taiwanese outside central Taiwan generally have a lower tolerance for "bitterness". Tainan cuisine tends to be sweet, Taipei cuisine salty, Hakka cuisine salty and fragrant—only Taichung has developed a "mildly bitter with sweet aftertaste" line—Da Mian Geng (noodles boiled in alkaline water, with a slight bitter taste) and Ma-wai soup are the two pillars of this line[^1]. Scholar Wang Pai-ren wrote in the quarterly *Cultural Taichung*: "For Nantun residents, the phrase 'bitterness followed by sweetness' is literally something they taste in their mouths."[^1]
+Taiwanese outside central Taiwan generally have a lower tolerance for "bitterness". Tainan cuisine tends to be sweet, Taipei cuisine salty, Hakka cuisine salty and fragrant—only Taichung has developed a "mildly bitter with sweet aftertaste" line—Da Mian Geng (noodles boiled in alkaline water, with a slight bitter taste) and Ma-wai soup are the two pillars of this line[^1]. Scholar Wang Pai-ren wrote in the quarterly _Cultural Taichung_: "For Nantun residents, the phrase 'bitterness followed by sweetness' is literally something they taste in their mouths."[^1]
 
 This is also why Ma-wai soup is difficult to "unify north and south". It is not that it tastes bad, but its deliciousness requires a full set of local taste training—you have to accept the first sip of bitterness to wait for the sweetness of the third sip.
 

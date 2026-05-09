@@ -18,7 +18,7 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0705937c431692b3'
 sourceBodyHash: 'sha256:15b3f93d773ca72a'
 translatedAt: '2026-05-01T22:19:10+08:00'

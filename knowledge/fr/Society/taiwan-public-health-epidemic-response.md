@@ -19,7 +19,7 @@ readingTime: 14
 lastVerified: 2026-04-08
 lastHumanReview: false
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '6e9dc32c'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:58f409f32e8328d7'
 sourceBodyHash: 'sha256:a899b39b8261de58'
 translatedAt: '2026-04-14T12:32:24+08:00'

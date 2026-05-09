@@ -20,7 +20,7 @@ lastVerified: 2026-04-28
 lastHumanReview: 2026-04-28
 featured: false
 translatedFrom: 'People/沈伯洋.md'
-sourceCommitSha: '616cbd07'
+sourceCommitSha: '5db9f136'
 sourceContentHash: 'sha256:264471f17f1dd86d'
 sourceBodyHash: 'sha256:ff76539057c18498'
 translatedAt: '2026-05-02T01:17:15+08:00'

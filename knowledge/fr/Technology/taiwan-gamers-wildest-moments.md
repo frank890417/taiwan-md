@@ -22,8 +22,8 @@ lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣玩家的瘋狂時刻.md'
-sourceCommitSha: '2c96c034'
-sourceContentHash: 'sha256:84365299ccbe62a3'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:03ef929d72a03265'
 sourceBodyHash: 'sha256:dd0e3abb83d55e63'
 translatedAt: '2026-05-02T01:17:16+08:00'
 ---

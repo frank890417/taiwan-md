@@ -13,7 +13,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightM
 imageAlt: '대만의 야시장 문화'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/夜市文化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cad0161e7864d0ae'
 sourceBodyHash: 'sha256:ea37a51a6e2ccfcd'
 translatedAt: '2026-04-14T12:25:09+08:00'

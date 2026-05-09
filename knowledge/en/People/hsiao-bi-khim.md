@@ -1,18 +1,18 @@
 ---
-title: "Hsiao Bi-khim"
+title: 'Hsiao Bi-khim'
 description: "Born in Japan, elementary school in Tainan, raised in New Jersey, Oberlin graduate — the 'Cat Warrior' who became Taiwan's most successful representative to the United States and then ascended to the vice presidency"
 date: 2026-04-11
-author: "Taiwan.md"
-subcategory: "政治人物"
-tags: ["政治人物", "副總統", "民進黨", "外交", "駐美代表", "花蓮", "戰貓"]
+author: 'Taiwan.md'
+subcategory: '政治人物'
+tags: ['政治人物', '副總統', '民進黨', '外交', '駐美代表', '花蓮', '戰貓']
 readingTime: 12
 lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: People/蕭美琴.md
-sourceCommitSha: 2d0c126f
-sourceContentHash: sha256:f272f267160332e7
-sourceBodyHash: sha256:3d2acfec22ab6d95
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:f272f267160332e7'
+sourceBodyHash: 'sha256:3d2acfec22ab6d95'
 translatedAt: 2026-05-03T23:14:05+08:00
 ---
 

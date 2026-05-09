@@ -8,7 +8,7 @@ lastVerified: 2026-04-03
 lastHumanReview: 2026-04-03
 featured: true
 translatedFrom: 'People/林書豪.md'
-sourceCommitSha: '0851f334'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8c536e7e37fb32f5'
 sourceBodyHash: 'sha256:c98e98e0d803e897'
 translatedAt: '2026-05-01T22:19:10+08:00'

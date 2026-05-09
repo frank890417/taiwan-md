@@ -19,7 +19,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:7da94098666855ee'
 sourceBodyHash: 'sha256:5b38988aa62be187'
 translatedAt: '2026-04-14T19:23:02+08:00'

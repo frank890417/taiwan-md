@@ -6,8 +6,8 @@ subcategory: '飲食生活'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: Lifestyle/台灣市場文化與傳統市場.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:0334fef76cff5db1
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0334fef76cff5db1'
 sourceBodyHash: 'sha256:1f68acc56a66c3d5'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: Lifestyle

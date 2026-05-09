@@ -22,8 +22,8 @@ lastVerified: 2026-04-12
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/劉安婷.md'
-sourceCommitSha: '4f008ac1'
-sourceContentHash: 'sha256:89e13d5f2d14687c'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f5a74a02db786491'
 sourceBodyHash: 'sha256:8514a8a697807f6e'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---

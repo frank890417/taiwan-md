@@ -19,8 +19,8 @@ readingTime: 8
 lastVerified: 2026-04-25
 lastHumanReview: false
 translatedFrom: People/楊深坑.md
-sourceCommitSha: 2c96c034
-sourceContentHash: sha256:86136985cda69b56
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:86136985cda69b56'
 sourceBodyHash: 'sha256:481eaba369f94755'
 translatedAt: 2026-05-02T01:17:16+08:00
 ---

@@ -23,8 +23,8 @@ readingTime: 10min
 lastVerified: 2026-04-27
 lastHumanReview: false
 translatedFrom: Music/濁水溪公社.md
-sourceCommitSha: 83b8a92b
-sourceContentHash: sha256:9376f811cccfc241
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:0be561fb740254b6'
 sourceBodyHash: 'sha256:ba486d59e98b80d0'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---

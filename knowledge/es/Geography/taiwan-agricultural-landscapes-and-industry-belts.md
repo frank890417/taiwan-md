@@ -11,8 +11,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: Geography/台灣農業地景與產業分布.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:a43ae2332c3edc7d
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:a43ae2332c3edc7d'
 sourceBodyHash: 'sha256:c8d5c569a0a2b4a6'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: Geography

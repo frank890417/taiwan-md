@@ -1,29 +1,29 @@
 ---
-title: "Justice environnementale et conflits NIMBY à Taïwan"
+title: 'Justice environnementale et conflits NIMBY à Taïwan'
 description: "Examen du phénomène de répartition inégale des charges environnementales à Taïwan, des conflits de type NIMBY liés aux incinérateurs, aux déchets nucléaires et à l'industrie pétrochimique, analyse des inégalités environnementales et des enjeux de justice sociale"
 date: 2026-03-20
 tags:
   [
-    "justice environnementale",
-    "effet NIMBY",
-    "inégalité environnementale",
-    "justice sociale",
-    "incinérateurs",
-    "déchets nucléaires",
-    "industrie pétrochimique",
+    'justice environnementale',
+    'effet NIMBY',
+    'inégalité environnementale',
+    'justice sociale',
+    'incinérateurs',
+    'déchets nucléaires',
+    'industrie pétrochimique',
   ]
-subcategory: "社會運動"
-author: "Taiwan.md Contributors"
+subcategory: '社會運動'
+author: 'Taiwan.md Contributors'
 readingTime: 13
 featured: false
-category: "Society"
+category: 'Society'
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: "Society/台灣環境正義與鄰避爭議.md"
-sourceCommitSha: "2d0c126f"
-sourceContentHash: "sha256:8d7b73d5dcd91cdf"
-sourceBodyHash: "sha256:102f748afe8c1589"
-translatedAt: "2026-05-03T23:14:07+08:00"
+translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8d7b73d5dcd91cdf'
+sourceBodyHash: 'sha256:102f748afe8c1589'
+translatedAt: '2026-05-03T23:14:07+08:00'
 ---
 
 # Justice environnementale et conflits NIMBY à Taïwan
@@ -238,5 +238,5 @@ Dans une société démocratique, les décisions environnementales devraient rep
 - [Fondation culturelle et éducative du peuple Tao de Lanyu](http://www.teyaw.org/) — Retrait des déchets nucléaires et droits des peuples autochtones
 - [Agence de protection de l'environnement, Yuan exécutif](https://www.epa.gov.tw/) — Politiques et réglementation environnementales
 - [École de santé publique, Université nationale de Taïwan](https://www.sph.ntu.edu.tw/) — Recherche sur les risques sanitaires environnementaux
-- *Justice environnementale : les risques environnementaux des communautés vulnérables*, de Du Wenling (杜文ulin), Éditions Kai Xue (開學文化), 2012
-- *Introduction aux mouvements environnementaux à Taïwan*, de He Mingxiu (何明修), Éditions Qun Xue (群學出版社), 2006
+- _Justice environnementale : les risques environnementaux des communautés vulnérables_, de Du Wenling (杜文ulin), Éditions Kai Xue (開學文化), 2012
+- _Introduction aux mouvements environnementaux à Taïwan_, de He Mingxiu (何明修), Éditions Qun Xue (群學出版社), 2006

@@ -19,7 +19,7 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Nature/台灣皇蛾.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:04090b613f5ed578'
 sourceBodyHash: 'sha256:a6fc776d191702d7'
 translatedAt: '2026-05-01T22:19:10+08:00'

@@ -16,7 +16,7 @@ lastVerified: '2026-04-19'
 lastHumanReview: '2026-04-19'
 featured: false
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: '6fb6ec00'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c0745c4b9d2ae295'
 sourceBodyHash: 'sha256:c2f250d5a21d59eb'
 translatedAt: '2026-05-01T18:09:43+08:00'

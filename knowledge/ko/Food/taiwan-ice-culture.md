@@ -11,7 +11,7 @@ category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:281be5a9fbb7d21c'
 sourceBodyHash: 'sha256:e60dcc9509786953'
 translatedAt: '2026-04-14T03:55:14+08:00'

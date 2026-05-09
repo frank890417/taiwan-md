@@ -10,8 +10,8 @@ readingTime: 8
 featured: false
 translatedFrom: "Culture/台灣原住民語言復振運動.md"
 lastVerified: 2026-03-29
-sourceCommitSha: "26216f73"
-sourceContentHash: "sha256:9c408bfc603af1d1"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:9c408bfc603af1d1'
 sourceBodyHash: 'sha256:f60b7a2b3f864e75'
 translatedAt: "2026-04-14T12:33:49+08:00"
 ---

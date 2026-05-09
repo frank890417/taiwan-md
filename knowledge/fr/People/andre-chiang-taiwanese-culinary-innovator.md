@@ -19,7 +19,7 @@ readingTime: 9
 featured: false
 lastVerified: 2026-03-30
 translatedFrom: 'People/江振誠.md'
-sourceCommitSha: '55c3ff6a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b95aab4a94d428d9'
 sourceBodyHash: 'sha256:12c31fa42e4be425'
 translatedAt: '2026-04-14T19:16:13+08:00'

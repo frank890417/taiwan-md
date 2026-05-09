@@ -9,8 +9,8 @@ tags: ['セデック族', '霧社事件', '原住民歴史', '日本植民地', 
 readingTime: 12
 featured: false
 translatedFrom: People/莫那·魯道.md
-sourceCommitSha: 221b1708
-sourceContentHash: sha256:87f54ad98e5a6fd1
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:87f54ad98e5a6fd1'
 sourceBodyHash: 'sha256:b0bcf45b1cb74d70'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

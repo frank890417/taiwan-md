@@ -24,7 +24,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Penghu_Tianhou
 imageAlt: 'Main hall of the Tianhou Temple in Penghu, the oldest Mazu temple in Taiwan'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Culture/澎湖民俗文化.md'
-sourceCommitSha: 'e3376fec'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:20a4e415d5a5b5ab'
 sourceBodyHash: 'sha256:800e8b0751351b5e'
 translatedAt: '2026-05-01T13:44:02+08:00'

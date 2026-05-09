@@ -18,7 +18,7 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
 translatedAt: '2026-05-02T01:17:17+08:00'

@@ -12,7 +12,7 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣電子音樂與派對文化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:fc263f7b3e9c2710'
 sourceBodyHash: 'sha256:2ef2ac66c5c075c5'
 translatedAt: '2026-05-01T19:52:32+08:00'

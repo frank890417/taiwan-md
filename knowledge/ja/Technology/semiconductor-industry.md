@@ -11,7 +11,7 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 featured: true
 translatedFrom: 'Technology/半導體產業.md'
-sourceCommitSha: '2d0c126f6'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f9a710246e015c47'
 sourceBodyHash: 'sha256:2696fe078094ab95'
 translatedAt: '2026-05-05T00:33:23+08:00'

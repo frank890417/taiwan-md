@@ -11,8 +11,8 @@ featured: false
 lastVerified: 2026-04-27
 lastHumanReview: 2026-04-27
 translatedFrom: Lifestyle/台灣高鐵.md
-sourceCommitSha: 5a1e8b86
-sourceContentHash: sha256:d4cd6040714e7d5e
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:d4cd6040714e7d5e'
 sourceBodyHash: 'sha256:437f56550a534c16'
 translatedAt: 2026-05-01T20:54:17+08:00
 ---

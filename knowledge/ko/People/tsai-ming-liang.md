@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/蔡明亮.md'
 readingTime: 12
 featured: true
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e54b6ea6e90672b5'
 sourceBodyHash: 'sha256:55b9157eeca4616d'
 translatedAt: '2026-04-14T19:25:05+08:00'

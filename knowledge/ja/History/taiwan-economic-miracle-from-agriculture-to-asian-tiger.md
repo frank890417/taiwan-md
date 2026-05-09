@@ -10,8 +10,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: History/台灣經濟奇蹟.md
-sourceCommitSha: 800114ea
-sourceContentHash: sha256:59051517307ea5dd
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:59051517307ea5dd'
 sourceBodyHash: 'sha256:fbdf196b93386d0c'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: History

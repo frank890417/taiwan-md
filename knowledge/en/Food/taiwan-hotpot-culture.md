@@ -9,8 +9,8 @@ readingTime: 8
 lastVerified: 2026-04-18
 lastHumanReview: false
 translatedFrom: Food/台灣火鍋.md
-sourceCommitSha: 86d067a0
-sourceContentHash: 'sha256:72f8e11ac02c2d55'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---

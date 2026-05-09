@@ -17,8 +17,8 @@ featured: false
 lastVerified: 2026-04-01
 lastHumanReview: true
 translatedFrom: 'Technology/迷音Miin.md'
-sourceCommitSha: '0851f334'
-sourceContentHash: 'sha256:6a247587b9bacefb'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:86e79dfbeda52398'
 sourceBodyHash: 'sha256:82deaf21752f91fe'
 translatedAt: '2026-05-01T14:11:02+08:00'
 ---

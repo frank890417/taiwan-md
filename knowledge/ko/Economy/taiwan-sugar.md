@@ -1,19 +1,19 @@
 ---
-title: "대만설탕: 74% 외환을 떠받치던 단맛 제국에서 2025년 사상 최대 이익을 기록한 「본업과 거리가 먼」대지주로"
-description: "2025년 대만설탕의 세후 순이익이 74억 위안으로 사상 최고치를 기록했지만, 이 백년 기업은 이미 오래전부터 설탕 판매로 수익을 내지 않습니다. 일제 강점기의 식민 지주에서 전후 경제의 대동맥으로, 대만설탕이 어떻게 설탕 사업에서 벗어나 난초, 생명공학, 순환 건축 분야에서 「단맛」을 재정의했는지 살펴봅니다."
-category: "Economy"
-tags: ["대만설탕", "설탕 산업 역사", "전환", "순환 경제", "나비란"]
-author: "Taiwan.md Contributors"
+title: '대만설탕: 74% 외환을 떠받치던 단맛 제국에서 2025년 사상 최대 이익을 기록한 「본업과 거리가 먼」대지주로'
+description: '2025년 대만설탕의 세후 순이익이 74억 위안으로 사상 최고치를 기록했지만, 이 백년 기업은 이미 오래전부터 설탕 판매로 수익을 내지 않습니다. 일제 강점기의 식민 지주에서 전후 경제의 대동맥으로, 대만설탕이 어떻게 설탕 사업에서 벗어나 난초, 생명공학, 순환 건축 분야에서 「단맛」을 재정의했는지 살펴봅니다.'
+category: 'Economy'
+tags: ['대만설탕', '설탕 산업 역사', '전환', '순환 경제', '나비란']
+author: 'Taiwan.md Contributors'
 date: 2026-05-03
 readingTime: 8
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
-translatedFrom: "Economy/台糖.md"
-sourceCommitSha: "053efd9a"
-sourceContentHash: "sha256:f64751a4a51b546a"
+translatedFrom: 'Economy/台糖.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f64751a4a51b546a'
 sourceBodyHash: 'sha256:9631152a90e28115'
-translatedAt: "2026-05-03T21:10:09+08:00"
+translatedAt: '2026-05-03T21:10:09+08:00'
 ---
 
 > **30초 개요:** 1950년대 대만의 외환 100위안 중 74위안은 대만설탕의 설탕 수출에서 나왔습니다. 현재 대만설탕의 설탕 사업은 매년 적자를 기록하고 있으나, 2025년에는 유류, 나비란, 토지 개발 사업을 통해 74.68억 위안의 사상 최대 이익을 기록했습니다. 대만 전체 최대의 지주인 이 기업은 현재 '설탕 제조 기업'에서 '순환 경제'의 선두 주자로 전환 중입니다.

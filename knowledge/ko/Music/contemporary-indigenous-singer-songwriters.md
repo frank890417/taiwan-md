@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: true
 translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5f9911af7563336d'
 sourceBodyHash: 'sha256:7f98ff539639dcef'
 translatedAt: '2026-04-14T10:22:29+08:00'

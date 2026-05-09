@@ -20,8 +20,8 @@ readingTime: 8
 lastVerified: 2026-04-21
 lastHumanReview: false
 translatedFrom: Culture/神豬.md
-sourceCommitSha: 292ec5fe
-sourceContentHash: sha256:4e7bd6002d83c43b
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:4e7bd6002d83c43b'
 sourceBodyHash: 'sha256:0f6781254171f7ba'
 translatedAt: 2026-05-02T01:17:16+08:00
 ---

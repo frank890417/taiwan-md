@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'Music/台灣搖滾樂發展史.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:9d76f310b8c2b867'
 sourceBodyHash: 'sha256:73497d3dfb386763'
 translatedAt: '2026-04-14T09:55:38+08:00'

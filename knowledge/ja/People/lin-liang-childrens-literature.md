@@ -20,8 +20,8 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 researchReport: reports/research/2026-04/林良.md
 translatedFrom: People/林良.md
-sourceCommitSha: f553d365
-sourceContentHash: sha256:ff949a14cc54475a
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
 translatedAt: 2026-05-01T14:48:26+08:00
 ---

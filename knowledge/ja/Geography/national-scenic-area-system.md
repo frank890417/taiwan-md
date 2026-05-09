@@ -11,7 +11,7 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 featured: true
 translatedFrom: 'Geography/台灣國家風景區系統.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9369d7f73b449799'
 sourceBodyHash: 'sha256:efc3d350be263a65'
 translatedAt: '2026-05-01T19:52:32+08:00'

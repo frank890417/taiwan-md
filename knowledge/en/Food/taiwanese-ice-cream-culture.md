@@ -19,7 +19,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Taipei_mangguo
 imageAlt: 'Mango shaved ice'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:281be5a9fbb7d21c'
 sourceBodyHash: 'sha256:e60dcc9509786953'
 translatedAt: '2026-04-14T12:25:09+08:00'

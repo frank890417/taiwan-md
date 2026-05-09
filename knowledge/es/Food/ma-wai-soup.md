@@ -4,13 +4,20 @@ description: 'En 1895, los japoneses cultivaron extensamente yute amarillo en Na
 date: 2026-05-03
 author: 'Taiwan.md Contributors'
 category: Food
-tags: ['Taichung', 'Nantun', 'Yute amarillo', 'Sabor tradicional', 'Platos estivales']
+tags:
+  [
+    'Taichung',
+    'Nantun',
+    'Yute amarillo',
+    'Sabor tradicional',
+    'Platos estivales',
+  ]
 readingTime: 9
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/麻芛湯.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:37e6bdeac5fb1d7c'
 sourceBodyHash: 'sha256:3db5773500588245'
 translatedAt: '2026-05-03T21:10:09+08:00'
@@ -40,4 +47,4 @@ Para entender por qué el máwěi está en Taichung, primero hay que entender po
 
 1. **1895** — Japón asume el control de Taiwán, lanza el plan de exportación de arroz a Japón y la demanda de sacos de yute se dispara[^7][^15]
 2. **Décadas de 1910 a 1940** — La cuenca de Taichung se convierte en la mayor zona productora de yute amarillo de Taiwán, con Nantun, Wuri y Dali contando con talleres de descortezado (maoliao)[^5][^12]
-3. **Déc
+3. \*\*Déc

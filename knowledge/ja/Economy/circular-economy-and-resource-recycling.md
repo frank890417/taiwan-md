@@ -18,8 +18,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: Economy/台灣循環經濟與資源再利用.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:14226e8150e93598
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:14226e8150e93598'
 sourceBodyHash: 'sha256:8cf8889ff81d5115'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: Economy

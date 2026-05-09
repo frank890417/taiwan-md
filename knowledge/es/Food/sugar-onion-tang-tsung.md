@@ -20,8 +20,8 @@ featured: true
 lastVerified: 2026-04-23
 lastHumanReview: false
 translatedFrom: 'Food/糖蔥.md'
-sourceCommitSha: '9f58e3fd'
-sourceContentHash: 'sha256:7505e08b5ce9d500'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ca062268b3b89018'
 sourceBodyHash: 'sha256:383a8a9c19be37a9'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---

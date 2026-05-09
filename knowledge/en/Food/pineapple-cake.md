@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Food/鳳梨酥.md'
-sourceCommitSha: 'e6b0d7f8'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d40713778c8c010e'
 sourceBodyHash: 'sha256:d1a328d777682bdd'
 translatedAt: '2026-05-01T12:21:52+08:00'

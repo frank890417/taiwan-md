@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
-sourceCommitSha: 'd4498d97'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e90c463d345a441'
 sourceBodyHash: 'sha256:668d74d853340086'
 translatedAt: '2026-05-01T13:44:02+08:00'

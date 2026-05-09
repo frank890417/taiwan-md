@@ -5,15 +5,16 @@ date: 2026-05-03
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '政治人物'
-tags: ['政治人物', '立法委員', '中國國民黨', '戰鬥藍', '台北市第七選區', '2024立委']
+tags:
+  ['政治人物', '立法委員', '中國國民黨', '戰鬥藍', '台北市第七選區', '2024立委']
 readingTime: 12
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: People/徐巧芯.md
-sourceCommitSha: 1e9ce66d
-sourceContentHash: sha256:8f69e3146e67bf4f
-sourceBodyHash: sha256:c36ec4a8304568ae
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8f69e3146e67bf4f'
+sourceBodyHash: 'sha256:c36ec4a8304568ae'
 translatedAt: 2026-05-03T23:14:05+08:00
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Tour Bus: The Iron Box That Has Carried Taiwanese People Over Mountains and Seas for Sixty Years — Why Does It Keep Crashing?"
-description: "From Yu Liu Ju-lan, who passed the conductor exam at age 14 during the Japanese colonial era, to the Golden Horse Express scaling the Central Cross-Island Highway in 1959, to the wild chicken buses that ruled the national freeways in the 1980s, to the 2017 Dielianhua Nangang rollover that killed 33, to the 2025 National Freeway No. 1 fire and the Xilingxi gorge plunge — the tour bus has carried every postwar Taiwanese dream of sightseeing, pilgrimage, and school field trips. But the affiliation system, rock-bottom tour pricing, and long working hours have also made this iron box one of the most dangerous modes of transport on the island. Can the new driver identification system, effective January 1, 2026, finally break this cycle?"
+title: 'Tour Bus: The Iron Box That Has Carried Taiwanese People Over Mountains and Seas for Sixty Years — Why Does It Keep Crashing?'
+description: 'From Yu Liu Ju-lan, who passed the conductor exam at age 14 during the Japanese colonial era, to the Golden Horse Express scaling the Central Cross-Island Highway in 1959, to the wild chicken buses that ruled the national freeways in the 1980s, to the 2017 Dielianhua Nangang rollover that killed 33, to the 2025 National Freeway No. 1 fire and the Xilingxi gorge plunge — the tour bus has carried every postwar Taiwanese dream of sightseeing, pilgrimage, and school field trips. But the affiliation system, rock-bottom tour pricing, and long working hours have also made this iron box one of the most dangerous modes of transport on the island. Can the new driver identification system, effective January 1, 2026, finally break this cycle?'
 date: 2026-05-02
 tags: [transportation, tourism, public safety, labor, industry, culture]
 category: 'Lifestyle'
@@ -10,7 +10,7 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/遊覽車.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2b757d54650fbf73'
 sourceBodyHash: 'sha256:9e75f80aeb03d94c'
 translatedAt: '2026-05-03T21:10:03+08:00'
@@ -70,7 +70,7 @@ But the "wild chicken spirit" never truly vanished. In the 2010s, there were sti
 
 The most critical structural problem in the tour bus industry is called **"kàoháng" (affiliation)**.
 
-Under Article 19-2 of the *Automobile Transport Industry Management Rules*, to operate a tour bus passenger business, one must apply for a company license, meet minimum capital requirements, maintain a minimum number of vehicles, operate a dedicated business premises, and run a dedicated maintenance facility[^18]. These thresholds were originally designed to "eliminate small operators and prevent a race to the bottom" — but the actual effect was the opposite: individual vehicle owners could not afford these fixed costs, so they adopted a model where "an individual buys the vehicle (costing several million NT dollars) and registers it under an existing company." The vehicle is privately owned, but the license, insurance, and business registration are all in the company's name. The company collects a monthly "affiliation fee" (ranging from several thousand to over ten thousand NT dollars per vehicle).
+Under Article 19-2 of the _Automobile Transport Industry Management Rules_, to operate a tour bus passenger business, one must apply for a company license, meet minimum capital requirements, maintain a minimum number of vehicles, operate a dedicated business premises, and run a dedicated maintenance facility[^18]. These thresholds were originally designed to "eliminate small operators and prevent a race to the bottom" — but the actual effect was the opposite: individual vehicle owners could not afford these fixed costs, so they adopted a model where "an individual buys the vehicle (costing several million NT dollars) and registers it under an existing company." The vehicle is privately owned, but the license, insurance, and business registration are all in the company's name. The company collects a monthly "affiliation fee" (ranging from several thousand to over ten thousand NT dollars per vehicle).
 
 This system was exposed to public scrutiny after the 2017 Dielianhua crash: the vehicle involved was registered under Youli Transport, but in reality, **nearly 100 of Youli's 136 tour buses were affiliated vehicles**, and Dielianhua Travel Agency had itself been illegally operating tour buses under Youli's affiliation for two years[^19]. The Control Yuan issued a correction against the Highway Bureau (under the MOTC), the Tourism Bureau, and the Ministry of Labor, explicitly stating that the affiliation model resulted in "the improper exploitation of drivers' labor rights and endangered passenger safety," and that the competent authorities "failed to carry out legally mandated inspections and penalties"[^20].
 
@@ -100,17 +100,17 @@ After every accident, the authorities announce a "comprehensive review," but the
 
 ## 11 Hours, Clocking In, Facial Recognition: The New System Effective January 1, 2026
 
-The most important legislative progress after Dielianhua came in 2022: the MOTC amended Article 86-4 of the *Automobile Transport Industry Management Rules*, stipulating that **a tour bus driver's time from check-in to end of work must not exceed 11 hours, and continuous driving must not exceed 4 hours**, with a maximum fine of NT$90,000 for violations[^4].
+The most important legislative progress after Dielianhua came in 2022: the MOTC amended Article 86-4 of the _Automobile Transport Industry Management Rules_, stipulating that **a tour bus driver's time from check-in to end of work must not exceed 11 hours, and continuous driving must not exceed 4 hours**, with a maximum fine of NT$90,000 for violations[^4].
 
 But the enforcement loophole is obvious: tachographs record the "vehicle," not the "person." One bus could be driven uphill by Driver A and downhill by Driver B — calculated separately, neither exceeds the limit — and as long as the authorities cannot prove the same person was driving, the penalty is effectively meaningless.
 
-Hence the new system effective January 1, 2026: on April 27, 2025, the MOTC issued amendments to the *Automobile Transport Industry Management Rules*, **mandating that all approximately 14,000 tour buses nationwide be equipped with "driver identification devices."** Drivers must clock in using an employee card, IC card, or facial recognition before starting work, linked to the tachograph and GPS, so that the authorities can precisely track "who drove for how long"[^5]. A May 2025 analysis report by the Legislative Yuan's Legal Affairs Bureau also noted that this system closes the "vehicle-person separation" enforcement gap that had persisted since 2017[^26].
+Hence the new system effective January 1, 2026: on April 27, 2025, the MOTC issued amendments to the _Automobile Transport Industry Management Rules_, **mandating that all approximately 14,000 tour buses nationwide be equipped with "driver identification devices."** Drivers must clock in using an employee card, IC card, or facial recognition before starting work, linked to the tachograph and GPS, so that the authorities can precisely track "who drove for how long"[^5]. A May 2025 analysis report by the Legislative Yuan's Legal Affairs Bureau also noted that this system closes the "vehicle-person separation" enforcement gap that had persisted since 2017[^26].
 
 But the new system is not without controversy: the Highway Bureau subsidizes a maximum of NT$2,000 per vehicle, while a full installation (card reader, sensors, backend system) costs between NT$3,000 and NT$10,000, with the difference absorbed by operators. Labor unions protested that drivers were being asked to bear the cost themselves[^27]. Travel agencies must also adjust itineraries to avoid rushing, but under the low-tour-fee structure, enforcement ultimately depends on inspection capacity rather than industry self-regulation. Long-standing passenger-side issues — such as failure to wear seatbelts and defective emergency exit designs — were also not addressed in this round of regulatory reform.
 
 ## The Industry by the Numbers: 14,000 Vehicles, 900 Operators, and Structural Contraction
 
-According to the most recent *Tour Bus Operations Survey* by the MOTC's Department of Statistics, as of the end of 2021, the Taiwan-Fujian region still had **907** tour bus operators and approximately **14,000** tour buses in service[^28]. Compared with 944 operators and 16,830 vehicles at the end of 2015[^29], both the number of operators and the number of vehicles have declined — a loss of nearly 3,000 vehicles in six years. Three forces are squeezing simultaneously:
+According to the most recent _Tour Bus Operations Survey_ by the MOTC's Department of Statistics, as of the end of 2021, the Taiwan-Fujian region still had **907** tour bus operators and approximately **14,000** tour buses in service[^28]. Compared with 944 operators and 16,830 vehicles at the end of 2015[^29], both the number of operators and the number of vehicles have declined — a loss of nearly 3,000 vehicles in six years. Three forces are squeezing simultaneously:
 
 - **The high-speed rail eating into the domestic tourism market**: After the THSR opened in 2007, long-distance group travel demand along the western corridor structurally declined, and charter services shifted from "point-to-point transport" to "intra-destination shuttle."
 - **The rise of independent travel**: Younger generations prefer small groups, self-driving, and hotel-booking apps, concentrating whole-vehicle charter demand at the upper end.
@@ -150,9 +150,9 @@ Otherwise, the next tour bus to fall off an interchange or burn into a fireball 
 
 [^3]: [Dielianhua Rollover Kills 33 — Investigation Concluded, All 8 Defendants Not Indicted](https://news.pts.org.tw/article/369903) — PTS News report on the Shilin District Prosecutors Office's September 2017 decision, analyzing the legal difficulty of assigning responsibility.
 
-[^4]: [Tour Bus Driver Working Hours Capped at 11 Hours — Maximum Fine NT$90,000](https://news.pts.org.tw/article/587960) — PTS News report on the 2022 amendment to Article 86-4 of the *Automobile Transport Industry Management Rules* and its penalties.
+[^4]: [Tour Bus Driver Working Hours Capped at 11 Hours — Maximum Fine NT$90,000](https://news.pts.org.tw/article/587960) — PTS News report on the 2022 amendment to Article 86-4 of the _Automobile Transport Industry Management Rules_ and its penalties.
 
-[^5]: [To Prevent Overtime Disasters! Tour Buses Mandatorily Equipped with Driver Identification Systems — Effective New Year's Day Next Year](https://www.ettoday.net/news/20250427/2949662.htm) — ETtoday report on the MOTC's April 27, 2025 amendment to the *Automobile Transport Industry Management Rules*, mandating driver identification devices on all tour buses effective January 1, 2026.
+[^5]: [To Prevent Overtime Disasters! Tour Buses Mandatorily Equipped with Driver Identification Systems — Effective New Year's Day Next Year](https://www.ettoday.net/news/20250427/2949662.htm) — ETtoday report on the MOTC's April 27, 2025 amendment to the _Automobile Transport Industry Management Rules_, mandating driver identification devices on all tour buses effective January 1, 2026.
 
 [^6]: [History of Road Passenger Transport Development](https://transport-curation.nat.gov.tw/museo/policy.html) — National Railway Museum preparatory office online exhibition documenting the Japanese-era main-line operation by the Bureau of Railways, secondary routes operated by over 20 private "jidōsha" companies, and the postwar Highway Bureau takeover of Japanese shares and reorganization of private bus companies.
 

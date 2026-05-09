@@ -10,8 +10,8 @@ lastVerified: 2026-04-19
 lastHumanReview: true
 featured: false
 translatedFrom: Technology/mini-taiwan-pulse.md
-sourceCommitSha: 55515887
-sourceContentHash: sha256:67b51d615cc671f3
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:67b51d615cc671f3'
 sourceBodyHash: 'sha256:e36cd08c05108020'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

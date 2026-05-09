@@ -10,8 +10,8 @@ readingTime: 6
 featured: false
 translatedFrom: "People/陳樹菊.md"
 lastVerified: 2026-04-03
-sourceCommitSha: "0851f334"
-sourceContentHash: "sha256:323b34d523a17107"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:323b34d523a17107'
 sourceBodyHash: 'sha256:cf7f5778e87ab86e'
 translatedAt: "2026-04-14T19:19:36+08:00"
 ---

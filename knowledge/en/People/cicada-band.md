@@ -2,7 +2,7 @@
 title: 'Cicada: Fifteen Years of Field Recordings from Typhoon Morakot 2009 to the Source of the Danda River 2022'
 description: "Founded in Taipei in 2009, Cicada is a fully instrumental, vocally silent independent band. Founding pianist Jesy Chiang (M.A. in Art History, Taipei National University of the Arts) wrote the first batch of songs after watching news coverage of Typhoon Morakot that year. Over the next fifteen years, they turned Taiwan's vanishing coastlines, marine ecology, mountain forests, and river headwaters into albums without a single human voice. Their 2022 album *Residing above the River's Source* is the product of a 15-day, 120-kilometer expedition through the Central Mountain Range; their film score received Japan's Academy Prize. In 2024, *Returning* revisited the western coastline — the gaps between mountain and water, forest and land."
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: 'e53be21c'
+sourceCommitSha: '5db9f136'
 sourceContentHash: 'sha256:fe41f66467969b5d'
 sourceBodyHash: 'sha256:94ae560f9807778b'
 translatedAt: '2026-05-01T12:53:58+08:00'

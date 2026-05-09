@@ -10,9 +10,9 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: People/韓國瑜.md
-sourceCommitSha: 2d0c126f
-sourceContentHash: sha256:ee41f08167c2c2aa
-sourceBodyHash: sha256:73cf0e41be5a3b9e
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:ee41f08167c2c2aa'
+sourceBodyHash: 'sha256:73cf0e41be5a3b9e'
 translatedAt: 2026-05-03T23:14:06+08:00
 ---
 

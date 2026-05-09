@@ -10,7 +10,7 @@ lastVerified: '2026-05-02'
 lastHumanReview: 'false'
 featured: 'false'
 translatedFrom: 'History/台灣出國史.md'
-sourceCommitSha: '053efd9a'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8d6508c76f18f1af'
 sourceBodyHash: 'sha256:2ed834cb9de7de1b'
 translatedAt: '2026-05-03T21:10:03+08:00'
@@ -39,7 +39,7 @@ The travel pass system of that era showed clear discrimination between Japanese 
 
 ### 2.2 The Grand Tours of the Gentry and the Enlightenment of Ideas
 
-Despite the restrictions, the gentry of the time inaugurated a culture of "grand tours." In 1927, Lin Xiantang of the Wufeng Lin family embarked on a year-long round-the-world journey with his son, traveling across Europe, America, and Asia. Lin serialized his observations in the *Taiwan Minbao* (Taiwan People's News), allowing Taiwanese to see the world for the first time through the eyes of a compatriot. [^11] [^12] The overseas experiences of political figures such as Cai Peihuo and Jiang Weishui also became nourishment for later social movements in Taiwan, bringing Western democratic thought back to the island. [^13]
+Despite the restrictions, the gentry of the time inaugurated a culture of "grand tours." In 1927, Lin Xiantang of the Wufeng Lin family embarked on a year-long round-the-world journey with his son, traveling across Europe, America, and Asia. Lin serialized his observations in the _Taiwan Minbao_ (Taiwan People's News), allowing Taiwanese to see the world for the first time through the eyes of a compatriot. [^11] [^12] The overseas experiences of political figures such as Cai Peihuo and Jiang Weishui also became nourishment for later social movements in Taiwan, bringing Western democratic thought back to the island. [^13]
 
 📝 Curator's Note: The "travel pass" of that era was more than a permit — it was a mirror reflecting class and struggle under the colonial system. Lin Xiantang's round-the-world journey was essentially an early attempt at "citizen diplomacy."
 

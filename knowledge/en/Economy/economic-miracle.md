@@ -1,5 +1,5 @@
 ---
-title: "The Economic Miracle"
+title: 'The Economic Miracle'
 description: "In 1952, Taiwan's per capita GDP was only US$196 — poorer than Haiti. Forty years later, Taiwan had become the leader of the 'Four Asian Tigers,' with per capita GDP exceeding US$10,000. But what was the cost of this 'miracle'? When we praise the era when 'money flooded Taiwan's shores,' few people talk about the women workers in the export processing zones who labored 12 hours a day, or the small-factory owners who bet their life savings on a single business."
 date: 2026-03-23
 author: Taiwan.md
@@ -11,9 +11,9 @@ lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
 translatedFrom: Economy/經濟奇蹟.md
-sourceCommitSha: 14c7b362
-sourceContentHash: sha256:18f44148c9c813dd
-sourceBodyHash: sha256:418b6e8bc018ebdd
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:18f44148c9c813dd'
+sourceBodyHash: 'sha256:418b6e8bc018ebdd'
 translatedAt: 2026-05-03T23:14:05+08:00
 ---
 

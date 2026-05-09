@@ -11,8 +11,8 @@ lastVerified: 2026-05-02
 lastHumanReview: false
 category: 'Music'
 translatedFrom: 'Music/台灣國樂.md'
-sourceCommitSha: '5dfae94a'
-sourceContentHash: 'sha256:7f25861baa135d21'
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:e1bc3aa8197e4184'
 sourceBodyHash: 'sha256:c0bd2cc77ca9d51c'
 translatedAt: '2026-05-02T09:20:00+08:00'
 ---

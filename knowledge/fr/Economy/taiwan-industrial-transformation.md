@@ -18,7 +18,7 @@ readingTime: 18
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Economy/產業轉型.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ce20822406c79ae1'
 sourceBodyHash: 'sha256:f3709634beb4667c'
 translatedAt: '2026-04-14T19:21:51+08:00'

@@ -21,8 +21,8 @@ featured: false
 lastVerified: 2026-04-18
 lastHumanReview: false
 translatedFrom: Economy/台灣企業：義美食品.md
-sourceCommitSha: 4351767d
-sourceContentHash: sha256:fd10cef889ef4781
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:fd10cef889ef4781'
 sourceBodyHash: 'sha256:3df603cf09cf4177'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---

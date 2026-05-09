@@ -10,8 +10,8 @@ readingTime: 5
 featured: false
 translatedFrom: "People/黃國珍.md"
 lastVerified: 2026-03-20
-sourceCommitSha: "abc5bd75"
-sourceContentHash: "sha256:7d3b709915399ea3"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:6e868b8f8667e118'
 sourceBodyHash: 'sha256:2b34fd0038a36214'
 translatedAt: "2026-04-14T19:20:08+08:00"
 ---

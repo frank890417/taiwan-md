@@ -8,8 +8,8 @@ lastVerified: 2026-04-04
 lastHumanReview: false
 featured: true
 translatedFrom: People/吳大猷.md
-sourceCommitSha: 4af626f4
-sourceContentHash: sha256:341c2f3308bef4d0
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:341c2f3308bef4d0'
 sourceBodyHash: 'sha256:b758182bc81d64b1'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: People

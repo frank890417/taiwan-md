@@ -9,7 +9,7 @@ readingTime: 12
 lastVerified: '2026-04-25'
 lastHumanReview: false
 translatedFrom: 'People/趙自強.md'
-sourceCommitSha: '37ef8f67'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9ecf294ab1fe9170'
 sourceBodyHash: 'sha256:4e53d6d0a41114dd'
 translatedAt: '2026-05-01T18:09:43+08:00'

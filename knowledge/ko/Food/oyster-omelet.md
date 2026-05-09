@@ -20,8 +20,8 @@ readingTime: 12
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: Food/蚵仔煎.md
-sourceCommitSha: 6ae7e431
-sourceContentHash: sha256:35151734317d2ad1
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
 translatedAt: 2026-05-02T01:17:15+08:00
 ---

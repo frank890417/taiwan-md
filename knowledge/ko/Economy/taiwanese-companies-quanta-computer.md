@@ -10,7 +10,7 @@ readingTime: 8
 featured: false
 translatedFrom: 'Economy/台灣企業：廣達電腦.md'
 lastVerified: 2026-03-21
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:917f1503c2ff61d8'
 sourceBodyHash: 'sha256:8336e4cef45a1444'
 translatedAt: '2026-04-14T08:57:05+08:00'

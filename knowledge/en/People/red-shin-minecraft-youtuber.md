@@ -2,7 +2,7 @@
 title: 'Red Shin (Kouki): From Eleven-Year Daily Upload Machine to Million-Subscriber YouTuber Who Reclaimed His Life'
 description: 'On October 15, 2023, game streamer Red Shin (Kouki), with 3 million subscribers, uploaded his final scheduled video, formally ending 14 years of creative work. This creator who rose to fame through Minecraft and set the legendary record of 11 consecutive years of daily uploads chose to retire at the peak of his career, frankly stating he had been living like a machine — revealing the brutal struggle of a top creator between algorithm and personal life.'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: '6fb6ec00'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c0745c4b9d2ae295'
 sourceBodyHash: 'sha256:c2f250d5a21d59eb'
 translatedAt: '2026-05-01T12:53:58+08:00'

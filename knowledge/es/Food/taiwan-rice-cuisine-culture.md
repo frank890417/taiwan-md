@@ -23,7 +23,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Rice_Dumpling_%28Zon
 imageAlt: '粽子'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣米食文化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0e38833f3cafaf68'
 sourceBodyHash: 'sha256:2354ee60853945b0'
 translatedAt: '2026-05-01T22:19:10+08:00'

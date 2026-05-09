@@ -15,8 +15,8 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%E5%9F%BA%E9%9
 imageAlt: '基隆のかんかぎり魚市場'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: Food/台灣海鮮文化.md
-sourceCommitSha: 221b1708
-sourceContentHash: sha256:b19eaae2749a2675
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:b19eaae2749a2675'
 sourceBodyHash: 'sha256:0e334a19b5edfbf1'
 translatedAt: 2026-05-01T19:52:32+08:00
 ---

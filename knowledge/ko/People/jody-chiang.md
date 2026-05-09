@@ -8,7 +8,7 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 translatedFrom: 'People/江蕙.md'
-sourceCommitSha: '221b1708'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:af8cff27f6cadb30'
 sourceBodyHash: 'sha256:09c26c642594595d'
 translatedAt: '2026-04-14T19:24:47+08:00'

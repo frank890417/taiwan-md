@@ -19,8 +19,8 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: Society/台灣流浪動物文化.md
-sourceCommitSha: ecb173b1
-sourceContentHash: sha256:aa70d55ab7f81779
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:aa70d55ab7f81779'
 sourceBodyHash: 'sha256:2b938df705566c1a'
 translatedAt: 2026-05-01T22:19:01+08:00
 category: Society

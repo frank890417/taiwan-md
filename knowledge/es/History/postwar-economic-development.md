@@ -11,7 +11,7 @@ tags:
     transformación industrial,
   ]
 translatedFrom: 'History/戰後經濟發展.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bd943f680a0506bf'
 sourceBodyHash: 'sha256:9e8ab929793e320d'
 translatedAt: '2026-04-17T10:33:16+08:00'

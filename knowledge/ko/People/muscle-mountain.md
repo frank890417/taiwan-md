@@ -10,7 +10,7 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/肌肉山山.md'
 readingTime: 9
-sourceCommitSha: '967e77ab'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a9c781639a414788'
 sourceBodyHash: 'sha256:d1cce1c9cb32c2ba'
 translatedAt: '2026-04-16T13:53:14+09:00'

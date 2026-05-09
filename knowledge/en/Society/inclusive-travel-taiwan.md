@@ -17,7 +17,7 @@ lastHumanReview: false
 lastVerified: 2026-03-23
 readingTime: 12
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: '84e04168'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8a4d3295bf443494'
 sourceBodyHash: 'sha256:be2327c5c3e0748e'
 translatedAt: '2026-04-14T12:25:09+08:00'

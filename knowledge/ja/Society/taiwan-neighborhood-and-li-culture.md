@@ -7,7 +7,7 @@ tags:
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cd7ff91fe48a2538'
 sourceBodyHash: 'sha256:04d1aee034c97e89'
 translatedAt: '2026-05-01T19:52:32+08:00'

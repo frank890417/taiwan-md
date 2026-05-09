@@ -19,7 +19,7 @@ category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣樂器製造.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c05b566af47ac375'
 sourceBodyHash: 'sha256:9224b4ac617e2e48'
 translatedAt: '2026-04-15T17:32:16+08:00'

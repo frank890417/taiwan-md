@@ -10,7 +10,7 @@ readingTime: 15
 featured: true
 translatedFrom: 'Economy/台灣企業：台達電子.md'
 lastVerified: 2026-03-22
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:731abae76b18888c'
 sourceBodyHash: 'sha256:5afb6209c3e31868'
 translatedAt: '2026-04-14T08:37:54+08:00'

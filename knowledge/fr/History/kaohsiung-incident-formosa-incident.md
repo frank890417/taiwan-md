@@ -15,8 +15,8 @@ featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 translatedFrom: History/美麗島事件.md
-sourceCommitSha: 5dc50b7a
-sourceContentHash: sha256:fe9f8fe921c693b2
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:b6388def07095d7a'
 sourceBodyHash: 'sha256:023966d5fd73721a'
 translatedAt: 2026-05-01T20:54:17+08:00
 category: History

@@ -21,8 +21,8 @@ lastHumanReview: false
 category: People
 featured: false
 translatedFrom: People/HUR-plus.md
-sourceCommitSha: 2c96c034
-sourceContentHash: sha256:f585a86608bf6a28
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f585a86608bf6a28'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---

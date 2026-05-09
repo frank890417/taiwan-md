@@ -19,7 +19,7 @@ readingTime: 8
 lastVerified: 2026-04-14
 lastHumanReview: false
 translatedFrom: 'People/朴星垠.md'
-sourceCommitSha: '967e77ab'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b387b2ccc5c7905c'
 sourceBodyHash: 'sha256:e7707b2af3303c6e'
 translatedAt: '2026-05-01T22:19:06+08:00'

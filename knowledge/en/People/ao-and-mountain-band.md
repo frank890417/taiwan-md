@@ -24,7 +24,7 @@ lastVerified: 2026-04-18
 lastHumanReview: true
 researchReport: 'reports/research/2026-04/凹與山.md'
 translatedFrom: 'People/凹與山.md'
-sourceCommitSha: '0ecfa053'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
 translatedAt: '2026-05-01T12:53:58+08:00'

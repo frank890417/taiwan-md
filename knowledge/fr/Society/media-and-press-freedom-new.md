@@ -12,8 +12,8 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: "Society/台灣媒體與新聞自由.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:a463f0fc05470693"
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:a463f0fc05470693'
 sourceBodyHash: 'sha256:9300996efcda2a10'
 translatedAt: "2026-04-15T17:36:38+08:00"
 ---

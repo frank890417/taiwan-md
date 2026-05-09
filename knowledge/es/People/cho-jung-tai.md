@@ -2,7 +2,15 @@
 title: 'Cho Jung-tai: de asistente parlamentario de Hsieh Chang-ting a coordinador que se niega a refrendar la Ley de Distribución Fiscal'
 description: '31.º presidente del Yuan Ejecutivo de la República de China. En 1987 comenzó como asistente parlamentario de Hsieh Chang-ting; durante 38 años fue siempre secretario general o subordinado de otros. Tras asumir como primer primer ministro de Lai Ching-te en 2024, enfrentó un gobierno en minoría, los aranceles de Trump, compras militares por 1.25 billones de dólares taiwaneses y la derrota total del movimiento de destitución masiva. En diciembre de 2025 se convirtió en el primer presidente del Yuan Ejecutivo en la historia constitucional en negarse a refrendar la Ley de Distribución Fiscal.'
 date: 2026-05-03
-tags: ['político', 'presidente del Yuan Ejecutivo', 'Partido Progresista Democrático', 'facción Hsieh', 'gobierno en minoridad', 'gabinete de 2024']
+tags:
+  [
+    'político',
+    'presidente del Yuan Ejecutivo',
+    'Partido Progresista Democrático',
+    'facción Hsieh',
+    'gobierno en minoridad',
+    'gabinete de 2024',
+  ]
 category: 'People'
 subcategory: '政治人物'
 author: 'Taiwan.md'
@@ -11,7 +19,7 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/卓榮泰.md'
-sourceCommitSha: '140e882d'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1274f9fb56a6cca0'
 sourceBodyHash: 'sha256:98226e940e464d18'
 translatedAt: '2026-05-03T23:14:07+08:00'
@@ -23,7 +31,7 @@ translatedAt: '2026-05-03T23:14:07+08:00'
 
 En 1987, Taiwán levantó la ley marcial. En el tercer piso del Ayuntamiento de Taipéi había un asistente parlamentario de 28 años que acompañó al recién elegido concejal Hsieh Chang-ting a la sala de reuniones.
 
-Se llamaba Cho Jung-tai. Un año antes, Hsieh Chang-ting había fundado la revista *Nueva Cultura Taiwanesa* para criticar la situación política y promover la renovación cultural de Taiwán; Cho Jung-tai fue asesor de la revista.[^2] En vísperas del levantamiento de la ley marcial, Hsieh fue elegido concejal de Taipéi, y Cho lo acompañó al parlamento como asistente. Desde ese año hasta 2024, pasó 37 años siendo asistente, vicesecretario general, secretario general y presidente de partido de otros.
+Se llamaba Cho Jung-tai. Un año antes, Hsieh Chang-ting había fundado la revista _Nueva Cultura Taiwanesa_ para criticar la situación política y promover la renovación cultural de Taiwán; Cho Jung-tai fue asesor de la revista.[^2] En vísperas del levantamiento de la ley marcial, Hsieh fue elegido concejal de Taipéi, y Cho lo acompañó al parlamento como asistente. Desde ese año hasta 2024, pasó 37 años siendo asistente, vicesecretario general, secretario general y presidente de partido de otros.
 
 En esos 37 años, casi nunca estuvo en primera fila como protagonista. Fue asistente parlamentario de Hsieh Chang-ting, vicesecretario general de la Presidencia bajo Chen Shui-bian,[^1] secretario general del Yuan Ejecutivo en el gabinete de 2017 de Lai Ching-te,[^1] y presidente interino del partido elegido para recoger los restos tras la aplastante derrota del DPP en las elecciones locales de 2018.[^2] Sus etiquetas eran «coordinación», «comunicación entre la Presidencia, el Yuan Ejecutivo y el partido» y «hermano mayor de la facción Hsieh».[^2] No era un cacique de facción, ni un señor feudal local, ni un tecnócrata. Era la persona en la política taiwanesa que durante 38 años pasó coordinando para otros.
 
@@ -37,7 +45,7 @@ Cho Jung-tai nació el 22 de enero de 1959 en Taipéi,[^1] no en Changhua, no en
 
 Su formación académica tiene un giro poco notado: primero ingresó en el Departamento de Derecho de la Universidad Soochow, se retiró y se transfirió al Departamento de Derecho de la Facultad de Derecho y Comercio de la Universidad Nacional Chung Hsing, graduándose en 1984.[^1] Desde la escuela primaria Jianxin Rixin, pasando por la secundaria municipal Datong y la preparatoria municipal Fuxiong, siguió la ruta estándar del sistema de escuelas públicas de Taipéi. Tras graduarse en Derecho de Chung Hsing en 1984, trabajó un tiempo como abogado.
 
-1986 fue un año clave. Ese año, Hsieh Chang-ting fundó la revista *Nueva Cultura Taiwanesa* para criticar la situación política, y Cho Jung-tai fue asesor.[^2] A partir de ese momento, ambos quedaron vinculados. Uno sería el político que se presentaría tres veces sin éxito a la presidencia y que, tras la derrota del DPP en 2008, fue enviado a Japón como representante en Tokio; el otro sería quien en 2024 asumiría la presidencia del Yuan Ejecutivo de la República de China.
+1986 fue un año clave. Ese año, Hsieh Chang-ting fundó la revista _Nueva Cultura Taiwanesa_ para criticar la situación política, y Cho Jung-tai fue asesor.[^2] A partir de ese momento, ambos quedaron vinculados. Uno sería el político que se presentaría tres veces sin éxito a la presidencia y que, tras la derrota del DPP en 2008, fue enviado a Japón como representante en Tokio; el otro sería quien en 2024 asumiría la presidencia del Yuan Ejecutivo de la República de China.
 
 ## Aquel hombre que durante 37 años fue siempre subordinado
 
@@ -87,7 +95,7 @@ Los medios calificaron ampliamente esta elección como «el Cho Jung-tai que mej
 
 Sumado a que Cho Jung-tai siempre ha sido reconocido por su «flexibilidad y habilidad para negociar y coordinar», descrito repetidamente por The News Lens y otros medios,[^2] la lógica de Lai Ching-te al elegirlo como «primer ministro de apertura» era clara: un gobierno en minoría necesita un coordinador, no un confrontador.
 
-El 20 de mayo de 2024 por la tarde, la ceremonia conjunta de traspaso del Yuan Ejecutivo se celebró en el gran salón del Yuan Ejecutivo. Cho Jung-tai recibió el sello oficial de manos del saliente presidente Chen Chien-jen, con la vicepresidenta Hsiao Bi-khim supervisando. El nuevo gabinete fue definido como «**gabinete activo e innovador de IA**» (*Active & Innovative Cabinet*). Cho Jung-tai declaró en su discurso:
+El 20 de mayo de 2024 por la tarde, la ceremonia conjunta de traspaso del Yuan Ejecutivo se celebró en el gran salón del Yuan Ejecutivo. Cho Jung-tai recibió el sello oficial de manos del saliente presidente Chen Chien-jen, con la vicepresidenta Hsiao Bi-khim supervisando. El nuevo gabinete fue definido como «**gabinete activo e innovador de IA**» (_Active & Innovative Cabinet_). Cho Jung-tai declaró en su discurso:
 
 > «El "gabinete activo e innovador de IA" continuará avanzando sobre la sólida base establecida por el gobierno de Tsai durante los últimos 8 años.»[^6]
 
@@ -187,7 +195,7 @@ El 16 de diciembre, Cho Jung-tai declaró desafiante en conferencia de prensa: �
 
 El «coordinador» llegó a un primer caso constitucional. El asistente parlamentario que en 1987 siguió a Hsieh Chang-ting al concejo municipal de Taipéi, 38 años después, sacaba públicamente el artículo 37 de la Constitución como arma en una conferencia de prensa.
 
-Un editorial del *United Daily News* lo describió como «un general en un laberinto». Los críticos consideran que «negarse a refrender» es un asalto ejecutivo-judicial contra el Legislativo y un daño a los principios democráticos. Los partidarios consideran que es el último recurso de un gobierno en minoría frente a leyes abusivas por parte de la mayoría, y el propósito del diseño del sistema constitucional. El mismo acto tiene dos interpretaciones completamente opuestas, y ambas son verdaderas.
+Un editorial del _United Daily News_ lo describió como «un general en un laberinto». Los críticos consideran que «negarse a refrender» es un asalto ejecutivo-judicial contra el Legislativo y un daño a los principios democráticos. Los partidarios consideran que es el último recurso de un gobierno en minoría frente a leyes abusivas por parte de la mayoría, y el propósito del diseño del sistema constitucional. El mismo acto tiene dos interpretaciones completamente opuestas, y ambas son verdaderas.
 
 ## Epílio: el escenario de coordinación ya no pertenece al coordinador
 
@@ -217,7 +225,7 @@ Y la mayoría pan-azul del Legislativo no presentó realmente una moción de cen
 
 [^1]: [Cho Jung-tai - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%93%E6%A6%AE%E6%B3%B0) — Wikipedia en chino con la biografía completa de Cho Jung-tai: nacido el 22 de enero de 1959 en Taipéi, retirado del Departamento de Derecho de la Universidad Soochow y transferido al Departamento de Derecho de la Facultad de Derecho y Comercio de la Universidad Nacional Chung Hsing, graduado en 1984; concejal de Taipéi por dos mandatos desde 1989; legislador del primer distrito electoral de Taipéi del 1 de febrero de 1999 al 19 de mayo de 2004 (4.ª y 5.ª legislaturas); vicesecretario general de la Presidencia del 20 de mayo de 2004 al 31 de enero de 2005 y del 25 de enero de 2006 al 16 de octubre de 2007; secretario general del DPP del 15 de octubre de 2007 al 15 de enero de 2008 y del 8 de septiembre de 2017 al 28 de diciembre de 2018; presidente del DPP del 9 de enero de 2019 al 20 de mayo de 2020.
 
-[^2]: [De «hermano mayor de la facción Hsieh» a «hermano mayor de todo el partido»: Cho Jung-tai asume como primer ministro de apertura, ¿cómo atacar y defender interna y externamente? - The News Lens](https://www.thenewslens.com/article/201774) — Reportaje en profundidad de Cheng Yu-jung, abril de 2024, documenta el origen de Cho Jung-tai como asesor de la revista *Nueva Cultura Taiwanesa* de Hsieh Chang-ting en 1986 y como asistente de Hsieh en el concejo municipal de Taipéi desde 1987, así como la historia de la persuasión nocturna en un restaurante de hot pot tras la derrota del DPP en las elecciones locales de 2018, donde figuras de la generación intermedia (Cheng Wen-tsan, Pan Meng-an, Lin Chia-lung, Lin Chih-chien, Huang Wei-che, Chen Chi-mai, Weng Chang-liang) impulsaron conjuntamente a Cho Jung-tai a presentarse a la elección complementaria de la presidencia del partido, incluyendo la cita textual de Cho: «Lo consideré durante bastante tiempo… hasta que eran cerca de las 10:30 de la noche; si no tomaba una decisión pronto, nadie podría irse a casa.»
+[^2]: [De «hermano mayor de la facción Hsieh» a «hermano mayor de todo el partido»: Cho Jung-tai asume como primer ministro de apertura, ¿cómo atacar y defender interna y externamente? - The News Lens](https://www.thenewslens.com/article/201774) — Reportaje en profundidad de Cheng Yu-jung, abril de 2024, documenta el origen de Cho Jung-tai como asesor de la revista _Nueva Cultura Taiwanesa_ de Hsieh Chang-ting en 1986 y como asistente de Hsieh en el concejo municipal de Taipéi desde 1987, así como la historia de la persuasión nocturna en un restaurante de hot pot tras la derrota del DPP en las elecciones locales de 2018, donde figuras de la generación intermedia (Cheng Wen-tsan, Pan Meng-an, Lin Chia-lung, Lin Chih-chien, Huang Wei-che, Chen Chi-mai, Weng Chang-liang) impulsaron conjuntamente a Cho Jung-tai a presentarse a la elección complementaria de la presidencia del partido, incluyendo la cita textual de Cho: «Lo consideré durante bastante tiempo… hasta que eran cerca de las 10:30 de la noche; si no tomaba una decisión pronto, nadie podría irse a casa.»
 
 [^3]: [Portal del Ayuntamiento de Taipéi - Concejales históricos: Cho Jung-tai](https://www.tcc.gov.tw/Councilor_Content_All.aspx?n=13513&s=1528&d=580122&name=%E5%8D%93%E6%A6%AE%E6%B3%B0&termsn=15) — Datos oficiales de concejales históricos del Ayuntamiento de Taipéi, documentando los detalles del distrito electoral y los mandatos de Cho Jung-tai como concejal de Taipéi por dos mandatos (1990-1998).
 

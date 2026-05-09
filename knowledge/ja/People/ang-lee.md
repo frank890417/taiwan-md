@@ -8,8 +8,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: People/李安.md
-sourceCommitSha: 2acf410b
-sourceContentHash: sha256:424471225df1f956
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:424471225df1f956'
 sourceBodyHash: 'sha256:56541aa1062802c8'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People

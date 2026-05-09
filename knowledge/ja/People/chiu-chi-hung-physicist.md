@@ -19,8 +19,8 @@ readingTime: 25
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: People/邱繼弘.md
-sourceCommitSha: 2eaba5ee
-sourceContentHash: sha256:1260b9482a373397
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1260b9482a373397'
 sourceBodyHash: 'sha256:60f774f7923d2a36'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

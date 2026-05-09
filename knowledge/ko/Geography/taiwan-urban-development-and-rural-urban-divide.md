@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:abb1bddb60e0e0c6'
 sourceBodyHash: 'sha256:85a0db4806eee7dd'
 translatedAt: '2026-04-14T19:23:57+08:00'

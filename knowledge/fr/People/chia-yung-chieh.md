@@ -2,7 +2,17 @@
 title: "Chia Yung-chieh : l'expérience taïwanaise de conversion répétée du capital social de célébrité en force de mobilisation publique"
 description: "Du début de sa carrière en 2000 dans un feuilleton prime-time de la chaîne CTS, à la collecte de 68,04 millions de dollars taïwanais en deux jours en 2021 pour équiper les hôpitaux de première ligne de 252 appareils HFNC, puis à sa nomination en 2024 comme sixième présidente du conseil d'administration du Taipei 101, jusqu'au 25 janvier 2026 où elle a permis à Alex Honnold de gravir à mains nues les 508 mètres du Taipei 101 en diffusion mondiale en direct — Chia Yung-chieh a tracé un chemin sans précédent à Taïwan : convertir à plusieurs reprises le capital social d'une célébrité en force de mobilisation publique transsectorielle, chaque nouveau pas s'accompagnant d'un volume équivalent de critiques, auquel elle répond par une mobilisation encore plus ambitieuse."
 date: 2026-05-02
-tags: ["Chia Yung-chieh", "Taipei 101", "HFNC", "gouvernance à capitaux publics", "femmes taïwanaises", "transsectorialité", "mobilisation publique", "Alex Honnold"]
+tags:
+  [
+    'Chia Yung-chieh',
+    'Taipei 101',
+    'HFNC',
+    'gouvernance à capitaux publics',
+    'femmes taïwanaises',
+    'transsectorialité',
+    'mobilisation publique',
+    'Alex Honnold',
+  ]
 category: People
 subcategory: '藝術、娛樂與媒體'
 author: 'Taiwan.md'
@@ -10,9 +20,9 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: People/賈永婕.md
-sourceCommitSha: 616cbd07
-sourceContentHash: sha256:a92f6a6b22257ffa
-sourceBodyHash: sha256:3a5ef98d636f1bfa
+sourceCommitSha: '0b2c2a33'
+sourceContentHash: 'sha256:a92f6a6b22257ffa'
+sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
@@ -44,9 +54,9 @@ Le moment choisi pour cette clarification n'était pas aléatoire — c'était a
 
 ## Des débuts comme présentatrice, classée par le marché comme artiste
 
-Elle est diplômée du département de communication de l'université de Coventry, au Royaume-Uni. En 2000, elle a fait ses débuts en jouant le rôle de Hsin-lien (心蓮) dans le feuilleton prime-time de la chaîne CTS *Ji Xiang Ru Yi Nian Nian Lai* (吉祥如意年年來), tout en étant simultanément présentatrice du *Morning News* de la chaîne CTS[^4] — elle a d'abord été présentatrice avant d'être classée par le marché comme artiste.
+Elle est diplômée du département de communication de l'université de Coventry, au Royaume-Uni. En 2000, elle a fait ses débuts en jouant le rôle de Hsin-lien (心蓮) dans le feuilleton prime-time de la chaîne CTS _Ji Xiang Ru Yi Nian Nian Lai_ (吉祥如意年年來), tout en étant simultanément présentatrice du _Morning News_ de la chaîne CTS[^4] — elle a d'abord été présentatrice avant d'être classée par le marché comme artiste.
 
-Son parcours d'animatrice s'est ensuite étendu aux chaînes GTV, CTV et FTV, avec comme émission phare *Entertainment Late Check-in* (娛樂晚點名) sur GTV Variety.[^5] En 2002, elle a épousé Wang Chao-chieh (王兆杰), fils de Wang Ming-teh (王明德), président du groupe De Chieh (德傑集團), et a eu deux filles et un fils. En 2004, avant l'âge de trente ans, elle a fondé CH Wedding, une marque de robes de mariée classique, quittant le marché du spectacle avant la courbe d'élimination standard des artistes taïwanais à quarantant ans pour se reconvertir dans l'entrepreneuriat de marque. CH Wedding est en activité depuis plus de vingt ans.[^5][^6]
+Son parcours d'animatrice s'est ensuite étendu aux chaînes GTV, CTV et FTV, avec comme émission phare _Entertainment Late Check-in_ (娛樂晚點名) sur GTV Variety.[^5] En 2002, elle a épousé Wang Chao-chieh (王兆杰), fils de Wang Ming-teh (王明德), président du groupe De Chieh (德傑集團), et a eu deux filles et un fils. En 2004, avant l'âge de trente ans, elle a fondé CH Wedding, une marque de robes de mariée classique, quittant le marché du spectacle avant la courbe d'élimination standard des artistes taïwanais à quarantant ans pour se reconvertir dans l'entrepreneuriat de marque. CH Wedding est en activité depuis plus de vingt ans.[^5][^6]
 
 La véritable origine du surnom « belle fille à 120 % » remonte à l'appel téléphonique de Tsai Ing-wen en 2021 — il faut lire la section sur la collecte de fonds HFNC ci-dessous pour comprendre.
 
@@ -89,13 +99,13 @@ Le 19 novembre 2024, Wang Chao-chieh a profité de l'engouement pour l'équipe n
 
 Le 27 novembre, Chia Yung-chieh a tenu une diffusion en direct de deux heures pour répondre aux critiques en pleurant : les illuminations avaient été approuvées par le conseil d'administration et « 德傑集團 永婕同心 » était le slogan de l'entreprise ; le licenciement de l'employée avait été effectué après communication et accord, conformément à la loi sur les normes du travail, avec une indemnité de licenciement supérieure aux exigences légales.[^17g] Tout en remerciant les dix entreprises qui l'avaient soutenue pendant la crise, elle s'essuyait les larmes — cette image est devenue la scène emblématique de la controverse sur son rôle de présidente à capitaux publics.
 
-Le 17 juillet 2025, l'exposition *G-Dragon Media Exhibition: Übermensch* a ouvert au Taipei 101, avec un parcours de visite chaotique, des produits dérivés en rupture de stock, et une décoration que les internautes ont comparée à une « salle funéraire ». Chia Yung-chieh s'est excusée deux fois, soulignant que « la conception de l'exposition était l'œuvre originale de Galaxy Corporation et du studio coréen MUT ; Taïwan n'était qu'un pont de communication sans pouvoir de décision final ».[^17h]
+Le 17 juillet 2025, l'exposition _G-Dragon Media Exhibition: Übermensch_ a ouvert au Taipei 101, avec un parcours de visite chaotique, des produits dérivés en rupture de stock, et une décoration que les internautes ont comparée à une « salle funéraire ». Chia Yung-chieh s'est excusée deux fois, soulignant que « la conception de l'exposition était l'œuvre originale de Galaxy Corporation et du studio coréen MUT ; Taïwan n'était qu'un pont de communication sans pouvoir de décision final ».[^17h]
 
 Ces controverses figurent toujours dans sa chronologie et ne doivent pas être omises.
 
 ## Le 25 janvier 2026, à neuf heures du matin
 
-L'escaladeur libre américain Alex Honnold (le protagoniste du documentaire *Free Solo*, celui qui a grimpé El Capitan à mains nues) a commencé à gravir la façade extérieure du Taipei 101 à mains nues le 25 janvier 2026 à neuf heures du matin. C'était l'événement en direct de Netflix *[赤手獨攀台北 101：直播](https://www.netflix.com/title/skyscraper-live)*, diffusé simultanément dans 190 pays.[^15][^15a]
+L'escaladeur libre américain Alex Honnold (le protagoniste du documentaire _Free Solo_, celui qui a grimpé El Capitan à mains nues) a commencé à gravir la façade extérieure du Taipei 101 à mains nues le 25 janvier 2026 à neuf heures du matin. C'était l'événement en direct de Netflix _[赤手獨攀台北 101：直播](https://www.netflix.com/title/skyscraper-live)_, diffusé simultanément dans 190 pays.[^15][^15a]
 
 Ce projet a été validé par Chia Yung-chieh. Initialement prévu le 24 janvier, il a été reporté d'un jour en raison de la pluie. Elle avait déclaré à l'équipe de production avant l'événement : le 26 janvier (lundi) était la date limite absolue, et s'il pleuvait encore, tout serait annulé.[^16a]
 
@@ -111,7 +121,7 @@ Deux de ses échanges avec Honnold ont également été intégralement enregistr
 
 Après avoir atteint le sommet, Honnold a remercié personnellement « Janet (Chia Yung-chieh) » et le Taipei 101 lors de la conférence de presse.[^15c] Netflix a annoncé 6,2 millions de vues et 12 millions d'heures de visionnage dans le monde, se classant troisième du classement hebdomadaire mondial des programmes en anglais de Netflix et premier du classement taïwanais.[^15d]
 
-Il y a bien sûr eu des voix critiques. BBC Chinese et *Crossing* (換日線) ont soulevé cinq questions clés mettant en doute la « spectacularisation excessive » de la diffusion en direct et les risques d'imitation ; *The Guardian* a questionné l'avenir du divertissement en direct mettant en jeu la mort.[^15e] Certains commentateurs ont également souligné que les cachets de Honnold étaient essentiellement une exposition de classe mondiale achetée par le Taipei 101 avec son budget marketing.[^15e] Ces critiques, tout comme celles de 2015 sur la peau cadavérique, de 2021 sur les accusations d'irrégularités dans la collecte HFNC, de 2024 sur le détournement d'usage public, et de 2025 sur l'exposition G-Dragon aux allures de salle funéraire — sont toutes des nœuds différents sur la même courbe : chaque mobilisation à grande échelle de ressources publiques déclenche la question « de quel droit ? », et sa réponse est toujours une mobilisation encore plus grande.
+Il y a bien sûr eu des voix critiques. BBC Chinese et _Crossing_ (換日線) ont soulevé cinq questions clés mettant en doute la « spectacularisation excessive » de la diffusion en direct et les risques d'imitation ; _The Guardian_ a questionné l'avenir du divertissement en direct mettant en jeu la mort.[^15e] Certains commentateurs ont également souligné que les cachets de Honnold étaient essentiellement une exposition de classe mondiale achetée par le Taipei 101 avec son budget marketing.[^15e] Ces critiques, tout comme celles de 2015 sur la peau cadavérique, de 2021 sur les accusations d'irrégularités dans la collecte HFNC, de 2024 sur le détournement d'usage public, et de 2025 sur l'exposition G-Dragon aux allures de salle funéraire — sont toutes des nœuds différents sur la même courbe : chaque mobilisation à grande échelle de ressources publiques déclenche la question « de quel droit ? », et sa réponse est toujours une mobilisation encore plus grande.
 
 En février 2023, quand des rumeurs ont circulé selon lesquelles Lai Ching-te l'aurait consultée en privé sur sa volonté d'être candidate à la vice-présidence, elle a nié directement : « C'est trop drôle, je suis assise chez moi et ce genre de nouvelles me tombe dessus. Je ne veux pas me présenter. »[^18] En octobre 2023, elle est apparue aux côtés de Lai Ching-te et a fait des déclarations comme « Je trouve que ça va bien ensemble » ;[^17i] un an et demi plus tard, elle prenait la tête du Taipei 101 — c'était une autre façon de répondre à la question « se présenter ou non » en obtenant un siège de gouvernance à capitaux publics.
 

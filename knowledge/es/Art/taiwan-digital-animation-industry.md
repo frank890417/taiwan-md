@@ -12,7 +12,7 @@ tags:
   ]
 status: 'completo'
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:692543a60baf3299'
 sourceBodyHash: 'sha256:bb5064886298647d'
 translatedAt: '2026-04-14T12:25:09+08:00'

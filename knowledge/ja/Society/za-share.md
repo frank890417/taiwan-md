@@ -20,9 +20,9 @@ lastVerified: 2026-05-05
 lastHumanReview: false
 featured: false
 translatedFrom: Society/雜學校.md
-sourceCommitSha: b832b3443
-sourceContentHash: sha256:ab5d7d4fa3beef0f
-sourceBodyHash: sha256:bf906239d976cf4a
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:ab5d7d4fa3beef0f'
+sourceBodyHash: 'sha256:bf906239d976cf4a'
 translatedAt: 2026-05-05T14:13:07+08:00
 ---
 

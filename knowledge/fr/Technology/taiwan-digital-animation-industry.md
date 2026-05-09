@@ -16,7 +16,7 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:692543a60baf3299'
 sourceBodyHash: 'sha256:bb5064886298647d'
 translatedAt: '2026-04-14T12:33:06+08:00'

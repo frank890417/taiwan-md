@@ -18,8 +18,8 @@ readingTime: 30
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: Society/移工.md
-sourceCommitSha: dc87c2a6
-sourceContentHash: sha256:5d7c6ddfd68cedc4
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:56c198b69b8ecacd'
 sourceBodyHash: 'sha256:223753ff8fc1f5ae'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---

@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'Nature/台灣國家公園.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:3ce9f00d5b274081'
 sourceBodyHash: 'sha256:4ed766623132c30e'
 translatedAt: '2026-04-14T10:34:15+08:00'

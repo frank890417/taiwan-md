@@ -21,8 +21,8 @@ lastVerified: 2026-03-25
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/齊柏林.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:9451fc2140cbffe0'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2842e6333688b98f'
 sourceBodyHash: 'sha256:272da240ae5fe1df'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---

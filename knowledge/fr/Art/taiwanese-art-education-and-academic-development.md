@@ -17,7 +17,7 @@ readingTime: 11
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Art/台灣藝術教育與學院發展.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ae5d08a6dde61127'
 sourceBodyHash: 'sha256:548c84503ade97c1'
 translatedAt: '2026-04-14T19:14:02+08:00'

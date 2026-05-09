@@ -19,7 +19,7 @@ readingTime: 12
 featured: true
 translatedFrom: 'Art/台灣傳統藝術.md'
 lastVerified: '2026-03-24'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8199dcc4edeb2fce'
 sourceBodyHash: 'sha256:de7228ea44ad062e'
 translatedAt: '2026-04-14T09:20:00+08:00'

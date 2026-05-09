@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 date: 2026-04-30
 readingTime: 12
 translatedFrom: 'Lifestyle/合作社.md'
-sourceCommitSha: 'd78f10ae'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
 translatedAt: '2026-05-01T14:48:26+08:00'

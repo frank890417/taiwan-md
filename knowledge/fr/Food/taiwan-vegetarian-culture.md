@@ -18,7 +18,7 @@ category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Food/台灣素食文化.md'
-sourceCommitSha: '82d9f045'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:24a4870b5a8b1b34'
 sourceBodyHash: 'sha256:82910774988d36fc'
 translatedAt: '2026-05-01T22:19:06+08:00'

@@ -9,7 +9,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Geography/台灣溫泉地景.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5501454d0b0366dd'
 sourceBodyHash: 'sha256:7e3bd7915270078d'
 translatedAt: '2026-04-14T19:23:57+08:00'

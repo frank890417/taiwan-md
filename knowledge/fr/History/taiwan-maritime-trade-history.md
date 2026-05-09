@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '2acf410b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
 translatedAt: '2026-04-14T12:31:41+08:00'

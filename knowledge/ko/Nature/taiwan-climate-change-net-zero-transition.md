@@ -20,9 +20,9 @@ lastVerified: 2026-04-04
 lastHumanReview: 2026-04-04
 featured: true
 translatedFrom: Nature/台灣氣候危機與淨零轉型.md
-sourceCommitSha: 14c7b362
-sourceContentHash: sha256:a139d73d65e0ebe1
-sourceBodyHash: sha256:6ee4b6b98fc76b72
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:e177a9a10f52aedb'
+sourceBodyHash: 'sha256:6ee4b6b98fc76b72'
 translatedAt: 2026-05-03T23:14:06+08:00
 ---
 

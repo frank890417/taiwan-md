@@ -16,8 +16,8 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: Economy/農業科技與精緻農業.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:b2ed1a7ff254e589
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:b2ed1a7ff254e589'
 sourceBodyHash: 'sha256:bb17e44e9574ab34'
 translatedAt: 2026-05-01T20:54:23+08:00
 category: Economy

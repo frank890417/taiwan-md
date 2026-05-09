@@ -20,7 +20,7 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'People/黃震南.md'
-sourceCommitSha: '2acf410b'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:26157944457addef'
 sourceBodyHash: 'sha256:5572b1dffb016fcd'
 translatedAt: '2026-04-14T12:25:09+08:00'

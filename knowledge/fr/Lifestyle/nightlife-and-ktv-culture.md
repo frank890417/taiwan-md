@@ -10,7 +10,7 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
 category: 'Lifestyle'
-sourceCommitSha: 87911554
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b2fc903c97041562'
 sourceBodyHash: 'sha256:ace1507a913d6853'
 translatedAt: '2026-04-28T21:41:13+08:00'

@@ -20,8 +20,8 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: Economy/台灣機械工具產業.md
-sourceCommitSha: fa95d5e0
-sourceContentHash: sha256:74fc634acab51c40
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
 translatedAt: 2026-05-01T20:54:23+08:00
 category: Economy

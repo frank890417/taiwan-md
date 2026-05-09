@@ -19,8 +19,8 @@ readingTime: 9
 lastVerified: 2026-04-15
 lastHumanReview: false
 translatedFrom: People/肌肉山山.md
-sourceCommitSha: 967e77ab
-sourceContentHash: sha256:a9c781639a414788
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:a9c781639a414788'
 sourceBodyHash: 'sha256:d1cce1c9cb32c2ba'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

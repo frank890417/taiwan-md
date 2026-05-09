@@ -18,8 +18,8 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 featured: false
 translatedFrom: Culture/台灣原住民族16族文化地圖.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:36ecabdcaffefea4
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---

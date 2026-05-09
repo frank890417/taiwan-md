@@ -1,7 +1,7 @@
 ---
 translatedFrom: 'Geography/清水斷崖.md'
-sourceCommitSha: 'a6b467e5'
-sourceContentHash: 'sha256:641da5668e0d4302'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:977c64498b20b961'
 sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: '2026-05-01T14:48:26+08:00'
 title: '清水断崖（せいすいだんがい）：プレート衝突が刻んだ絶美の傷跡と生命の強さ'

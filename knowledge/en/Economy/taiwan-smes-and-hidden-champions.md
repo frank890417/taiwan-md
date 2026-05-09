@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Economy/台灣中小企業與隱形冠軍.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:51e4bbc49efeda40'
 sourceBodyHash: 'sha256:a547cd2ed92973fa'
 translatedAt: '2026-05-01T15:38:13+08:00'

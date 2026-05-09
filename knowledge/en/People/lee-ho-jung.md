@@ -19,7 +19,7 @@ lastVerified: 2026-04-14
 lastHumanReview: false
 category: 'People'
 translatedFrom: 'People/李晧禎.md'
-sourceCommitSha: '967e77ab'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:23d7ff4a25548dd1'
 sourceBodyHash: 'sha256:7920b3c19edb9fba'
 translatedAt: '2026-05-01T13:19:11+08:00'

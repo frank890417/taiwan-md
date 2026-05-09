@@ -21,7 +21,7 @@ readingTime: 12
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'People/蘇巧慧.md'
-sourceCommitSha: '64abf6f8'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eb7e3bede251836b'
 sourceBodyHash: 'sha256:8ae89739a53e0a1f'
 translatedAt: '2026-05-01T22:19:01+08:00'

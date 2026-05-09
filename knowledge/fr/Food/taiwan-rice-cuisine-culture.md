@@ -18,7 +18,7 @@ readingTime: 12
 featured: false
 translatedFrom: 'Food/台灣米食文化.md'
 lastVerified: 2026-03-23
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0e38833f3cafaf68'
 sourceBodyHash: 'sha256:2354ee60853945b0'
 translatedAt: '2026-04-14T12:29:25+08:00'

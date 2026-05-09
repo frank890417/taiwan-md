@@ -10,8 +10,8 @@ lastVerified: 2026-03-24
 lastHumanReview: false
 featured: true
 translatedFrom: Art/台灣散文.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:d7ef47535e3ba2f2
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:d7ef47535e3ba2f2'
 sourceBodyHash: 'sha256:9cb5aac080fec83b'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---

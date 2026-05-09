@@ -18,8 +18,8 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: '67fe687d'
-sourceContentHash: 'sha256:6bcf8cc662668e7d'
+sourceCommitSha: '5db9f136'
+sourceContentHash: 'sha256:bf2c8c297d2e1acd'
 sourceBodyHash: 'sha256:c4adf4d38cbc289a'
 translatedAt: '2026-04-14T19:24:16+08:00'
 ---

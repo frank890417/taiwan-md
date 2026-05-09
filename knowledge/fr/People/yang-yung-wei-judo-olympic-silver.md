@@ -21,7 +21,7 @@ readingTime: 10
 featured: false
 translatedFrom: 'People/楊勇緯.md'
 lastVerified: 2026-03-21
-sourceCommitSha: 'd4498d97'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:66a5e0aae1a572b7'
 sourceBodyHash: 'sha256:162f09653edec7c3'
 translatedAt: '2026-04-14T19:16:13+08:00'

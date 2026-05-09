@@ -9,7 +9,7 @@ author: Taiwan.md
 readingTime: 12
 featured: true
 translatedFrom: 'History/日治時期.md'
-sourceCommitSha: '3aba2ea3'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:fb4775ce7ce7538c'
 sourceBodyHash: 'sha256:a19f66d12d9ae924'
 translatedAt: '2026-04-25T18:32:22+08:00'

@@ -10,7 +10,7 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣華語的演化.md'
-sourceCommitSha: 'abc5bd75'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2b37211d946c848c'
 sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
 translatedAt: '2026-05-02T02:50:54+08:00'

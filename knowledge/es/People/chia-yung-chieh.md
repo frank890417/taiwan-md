@@ -2,7 +2,17 @@
 title: 'Chia Yung-chieh: el experimento taiwanés de convertir repetidamente el capital social de una celebridad en poder de movilización pública'
 description: 'Desde su debut en 2000 en un drama de horario estelar de CTV, pasando por recaudar 68,04 millones de dólares taiwaneses en dos días en 2021 para adquirir 252 unidades de HFNC para hospitales de primera línea, asumir en 2024 como sexta presidenta del Taipei 101, hasta lograr que Alex Honnold escalara a mano desnuda los 508 metros del Taipei 101 en transmisión global el 25 de enero de 2026 — Chia Yung-chieh ha recorrido un camino sin precedentes en Taiwán: convertir una y otra vez el capital social de celebridad en poder de movilización pública transfronteriza, donde cada paso viene acompañado de un volumen equivalente de cuestionamientos, y cada respuesta es una movilización aún mayor.'
 date: 2026-05-02
-tags: ['Chia Yung-chieh', 'Taipei 101', 'HFNC', 'gobernanza de acciones públicas', 'mujeres taiwanesas', 'transfronterizo', 'movilización pública', 'Alex Honnold']
+tags:
+  [
+    'Chia Yung-chieh',
+    'Taipei 101',
+    'HFNC',
+    'gobernanza de acciones públicas',
+    'mujeres taiwanesas',
+    'transfronterizo',
+    'movilización pública',
+    'Alex Honnold',
+  ]
 category: People
 subcategory: '藝術、娛樂與媒體'
 author: 'Taiwan.md'
@@ -10,9 +20,9 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: People/賈永婕.md
-sourceCommitSha: 616cbd07
-sourceContentHash: sha256:a92f6a6b22257ffa
-sourceBodyHash: sha256:3a5ef98d636f1bfa
+sourceCommitSha: '0b2c2a33'
+sourceContentHash: 'sha256:a92f6a6b22257ffa'
+sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
 translatedAt: 2026-05-03T23:14:07+08:00
 ---
 

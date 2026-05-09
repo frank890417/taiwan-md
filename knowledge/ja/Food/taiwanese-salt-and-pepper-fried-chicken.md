@@ -14,7 +14,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Taiwanese_Styl
 imageAlt: '南機場夜市の鹹酥雞'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣鹹酥雞.md'
-sourceCommitSha: '82d9f045'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f78e66c21a3386f0'
 sourceBodyHash: 'sha256:f601237f7e38aaea'
 translatedAt: '2026-05-01T14:48:26+08:00'

@@ -7,8 +7,8 @@ subcategory: '文學'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: People/席慕蓉.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:310ac0cea3702788
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:310ac0cea3702788'
 sourceBodyHash: 'sha256:78271b6f20943b55'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People

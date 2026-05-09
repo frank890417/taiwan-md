@@ -20,9 +20,9 @@ lastVerified: 2026-04-06
 lastHumanReview: false
 featured: false
 translatedFrom: Economy/台灣金融科技發展.md
-sourceCommitSha: 2d0c126f
-sourceContentHash: sha256:c4241632c676aa85
-sourceBodyHash: sha256:b0709e8ad615db88
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:c4241632c676aa85'
+sourceBodyHash: 'sha256:b0709e8ad615db88'
 translatedAt: 2026-05-03T23:14:05+08:00
 ---
 
@@ -51,7 +51,7 @@ In July 2025, the court ruled the transaction invalid and ordered JKO Financial 
 On the day of the seizure, nearly 300 employees were abruptly told to work from home, and the office signage was taken down. Hu Yijia was subsequently indicted by prosecutors on charges of breach of trust under special circumstances, placed under travel restrictions, and at one point faced electronic ankle monitoring.[^5]
 
 > **📝 Curator's Note**
-> The user funds within JKO Pay itself are safe — under the *Electronic Payment Institutions Act*, all stored-value funds are held in segregated trust accounts by custodian banks, completely isolated from the parent company's finances. The Financial Supervisory Commission (FSC) has repeatedly emphasized this point. But the image of "bank accounts holding less than NT$1,000" has already dealt a severe blow to the trust foundation of Taiwan's fintech startups.
+> The user funds within JKO Pay itself are safe — under the _Electronic Payment Institutions Act_, all stored-value funds are held in segregated trust accounts by custodian banks, completely isolated from the parent company's finances. The Financial Supervisory Commission (FSC) has repeatedly emphasized this point. But the image of "bank accounts holding less than NT$1,000" has already dealt a severe blow to the trust foundation of Taiwan's fintech startups.
 
 This was not Hu's first clash with regulators. As early as 2020, the FSC fined JKO Securities Investment Trust NT$3 million for seven violations related to the "Tuofubao" product — including misleading investors and undermining corporate governance — and removed Hu from his directorship at JKO SIT. His response at the time was a public rebuttal directed at the FSC.[^6]
 
@@ -59,18 +59,18 @@ The JKO story is a microcosm of Taiwan's decade of fintech: the policy door was 
 
 ## One Law That Changed the Game
 
-Rewind to 2015. That year, the FSC published the *Fintech Development Strategy White Paper*, declaring Taiwan's embrace of FinTech. Two years later, the *Fintech Innovation Experiment Act* passed the Legislative Yuan — the first dedicated fintech law in Asia, making Taiwan one of the few countries globally with a legal framework for a "regulatory sandbox."[^7]
+Rewind to 2015. That year, the FSC published the _Fintech Development Strategy White Paper_, declaring Taiwan's embrace of FinTech. Two years later, the _Fintech Innovation Experiment Act_ passed the Legislative Yuan — the first dedicated fintech law in Asia, making Taiwan one of the few countries globally with a legal framework for a "regulatory sandbox."[^7]
 
 The sandbox logic is simple: you have a financial innovation idea, but current regulations don't allow it? Apply to enter the sandbox, experiment within a limited scope, and if it succeeds, regulations will be amended to legalize it; if it fails, you won't be penalized.
 
 It sounds beautiful. In practice, it proved more conservative than imagined.
 
-Joinvest is one of the few success stories to graduate from the sandbox — the company operates a bond group-buying platform that allows retail investors to pool funds and purchase bonds previously accessible only to institutional investors. It entered the sandbox for experimentation in 2021, and the results earned FSC recognition for being "innovative and conducive to financial inclusion," directly driving amendments to the *Standards for Establishment of Securities Firms*.[^8]
+Joinvest is one of the few success stories to graduate from the sandbox — the company operates a bond group-buying platform that allows retail investors to pool funds and purchase bonds previously accessible only to institutional investors. It entered the sandbox for experimentation in 2021, and the results earned FSC recognition for being "innovative and conducive to financial inclusion," directly driving amendments to the _Standards for Establishment of Securities Firms_.[^8]
 
 But the numbers on the other side are less encouraging. Seven years after the sandbox launched, the total number of approved experiments has been modest, and the number that truly "graduated" and drove regulatory amendments is even smaller. Critics say Taiwan's sandbox has thresholds that are too high, reviews that are too slow, and experimental periods that are too short — turning it into a system that "looks open but is actually conservative."[^9]
 
 > "Taiwan's regulatory sandbox is one of the most comprehensive legal frameworks in the world, but the problem is not the framework — it's the speed of execution."
-> — Chambers and Partners, *Fintech 2025: Taiwan*[^9]
+> — Chambers and Partners, _Fintech 2025: Taiwan_[^9]
 
 ## The Payment War Inside Your Phone
 
@@ -145,11 +145,11 @@ In December 2025, LINE Bank reported its first monthly profit — an amount so s
 
 [^6]: [Voicettank 〈JKO's Vanished NT$3.6 Billion: From China's Payment Experience to "Startup Exceptionalism"〉](https://voicettank.org/20250714-1/) — A retrospective on JKO's "Tuofubao" regulatory violations and the FSC's supervisory challenges.
 
-[^7]: [ICLG, *Fintech Laws and Regulations Report 2025: Taiwan*](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — Taiwan's *Fintech Innovation Experiment Act* took effect in April 2018, the first dedicated fintech law in Asia.
+[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — Taiwan's _Fintech Innovation Experiment Act_ took effect in April 2018, the first dedicated fintech law in Asia.
 
-[^8]: [Global Legal Insights, *Fintech Laws and Regulations 2025: Taiwan*](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvest's bond group-buying platform graduated from the sandbox and drove amendments to the *Standards for Establishment of Securities Firms*.
+[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvest's bond group-buying platform graduated from the sandbox and drove amendments to the _Standards for Establishment of Securities Firms_.
 
-[^9]: [Chambers and Partners, *Fintech 2025: Taiwan — Trends and Developments*](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — International legal community's assessment of Taiwan's regulatory sandbox as "comprehensive in framework but insufficient in execution speed."
+[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — International legal community's assessment of Taiwan's regulatory sandbox as "comprehensive in framework but insufficient in execution speed."
 
 [^10]: [National Development Council 〈Mobile Payment Penetration Hits New High, Moving Toward a New Digital Nation Lifestyle〉](https://www.ndc.gov.tw/nc_27_33762) — Government's 2025 target of 90% mobile payment penetration; total electronic payment account users reached 34.45 million.
 

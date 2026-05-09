@@ -20,8 +20,8 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Food/台灣麵食文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:2b29927b05c617ee'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:7aeb090ae7f880d7'
 sourceBodyHash: 'sha256:07d9c3b482846ce9'
 translatedAt: '2026-04-14T04:09:26+08:00'
 ---

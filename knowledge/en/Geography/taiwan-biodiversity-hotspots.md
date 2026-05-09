@@ -17,7 +17,7 @@ category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
 translatedAt: '2026-04-14T12:25:09+08:00'

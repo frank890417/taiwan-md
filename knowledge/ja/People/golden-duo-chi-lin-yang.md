@@ -12,7 +12,7 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 featured: true
 translatedFrom: 'People/麟洋配.md'
-sourceCommitSha: 'ddc476ed'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d3037d2c6f885793'
 sourceBodyHash: 'sha256:2c9db3cb9fda0ceb'
 translatedAt: '2026-05-01T18:02:56+08:00'

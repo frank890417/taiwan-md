@@ -1,8 +1,20 @@
 ---
-title: "Psychological Warfare: From the Kinmen Broadcasting Wall to the Paradigm Shift in AI Cognitive Operations"
+title: 'Psychological Warfare: From the Kinmen Broadcasting Wall to the Paradigm Shift in AI Cognitive Operations'
 description: "From the 1960s' Deng Lijun appeals and 'defection food' dropped by balloons on Kinmen to the 2026 digital era's information penetration and AI cognitive manipulation, cross-strait psychological warfare has evolved from physical material incentives to digital semantic攻防. This article details the historical context of Taiwan's psychological warfare against China, specific material lists, and contrasts the challenges of the current AI industrialization stage."
 date: 2026-05-03
-tags: ['psychological warfare', 'cognitive warfare', 'Kinmen', 'Deng Lijun', 'dropped objects', 'defection food', 'AI deepfakes', 'information warfare', 'cross-strait relations', 'Radio Taiwan International']
+tags:
+  [
+    'psychological warfare',
+    'cognitive warfare',
+    'Kinmen',
+    'Deng Lijun',
+    'dropped objects',
+    'defection food',
+    'AI deepfakes',
+    'information warfare',
+    'cross-strait relations',
+    'Radio Taiwan International',
+  ]
 subcategory: 'Media and Speech'
 author: 'Taiwan.md'
 category: 'History'
@@ -10,8 +22,8 @@ readingTime: 8
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: '053efd9a'
-sourceContentHash: 'sha256:d64911e3fd5d8404'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
 translatedAt: '2026-05-03T21:39:24+08:00'
 ---
@@ -35,12 +47,12 @@ Kinmen's **Mashan Observation Post** and **Beishan Broadcasting Wall** were the 
 
 Dropped object operations were not merely about distributing leaflets; they were a visual and material exhibition about "modern life."
 
-| Category | Specific Material List [^5] [^11] | Psychological Intent |
-| :----------- | :--------------------------------------------------------- | :----------------------------------------------- |
-| **Defection Food** | **Pineapple cakes, instant noodles (with seasoning packets), meat jerky, sugar, lard cans, rations** | To demonstrate the development of Taiwan's food industry and the extreme abundance of materials. |
-| **Daily Necessities** | **Small transistor radios, watches, fountain pens, nail clippers, underwear, towels** | Radios were used to encourage "secretly listening to enemy stations"; clothing displayed achievements in the textile industry. |
-| **Medical Supplies** | **Tiger Balm, cold medicine, band-aids** | To reflect care for the "physical health" of mainland compatriots and the gap in medical standards. |
-| **Political Credentials** | **Photographs of Chiang Kai-shek, certificates of defection (guaranteeing deposits and position commitments)** | To provide a political safe haven and specific economic opportunities for turning one's life around [^6]. |
+| Category                  | Specific Material List [^5] [^11]                                                                              | Psychological Intent                                                                                                           |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| **Defection Food**        | **Pineapple cakes, instant noodles (with seasoning packets), meat jerky, sugar, lard cans, rations**           | To demonstrate the development of Taiwan's food industry and the extreme abundance of materials.                               |
+| **Daily Necessities**     | **Small transistor radios, watches, fountain pens, nail clippers, underwear, towels**                          | Radios were used to encourage "secretly listening to enemy stations"; clothing displayed achievements in the textile industry. |
+| **Medical Supplies**      | **Tiger Balm, cold medicine, band-aids**                                                                       | To reflect care for the "physical health" of mainland compatriots and the gap in medical standards.                            |
+| **Political Credentials** | **Photographs of Chiang Kai-shek, certificates of defection (guaranteeing deposits and position commitments)** | To provide a political safe haven and specific economic opportunities for turning one's life around [^6].                      |
 
 📝 **Curator's Note**: The "instant noodles" in the dropped objects were a highly shocking symbol for mainland China at that time. This industrial product, ready to eat upon opening and featuring multiple seasoning packets, represented an unimaginable "efficiency" and "abundance" to mainland citizens still living under a rationing system.
 

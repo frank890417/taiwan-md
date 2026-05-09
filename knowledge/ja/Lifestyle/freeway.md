@@ -2,7 +2,15 @@
 title: "Highways: From the MacArthur Highway to the Xueshan Tunnel, Taiwan's 50 Years of Power and Speed"
 description: "The MacArthur Highway, opened in 1964, was only 23 kilometers long; today, Taiwan's national highway network exceeds 1,000 kilometers. From the Zhongshan Expressway approved by Chiang Ching-kuo, the 'political road' (Fu-Hsin Expressway) that was mocked, the world's most difficult-to-dig Xueshan Tunnel, to ETC changing every driver's payment habits—each stretch of asphalt records post-war Taiwan's political will, engineering limits, and civilian resistance."
 date: 2026-05-03
-tags: ['National Highway', 'Transportation Infrastructure', 'Ten Major Projects', 'Xueshan Tunnel', 'ETC', 'Post-war Taiwan']
+tags:
+  [
+    'National Highway',
+    'Transportation Infrastructure',
+    'Ten Major Projects',
+    'Xueshan Tunnel',
+    'ETC',
+    'Post-war Taiwan',
+  ]
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
 subcategory: 'Lifestyle/Highways.md'
@@ -10,8 +18,8 @@ readingTime: 10
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'Lifestyle/高速公路.md'
-sourceCommitSha: '053efd9a'
-sourceContentHash: 'sha256:8da1bf163616fdc6'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:5a8bf0cfcaa7dbd2'
 sourceBodyHash: 'sha256:6f25b03f0ed1d8d2'
 translatedAt: '2026-05-03T21:36:22+08:00'
 ---
@@ -39,7 +47,7 @@ On August 14, 1971, construction of the Zhongshan Expressway began.
 
 This was the first and largest of Chiang Ching-kuo's "Ten Major Projects." Designed to run from Keelung to Kaohsiung, it was 373 kilometers long with four lanes in both directions. The completion date was politically set for October 31, 1978—Chiang Kai-shek's birthday—and named the "Zhongshan Expressway" (Chiang Zhongshan)[^2][^3][^10].
 
-The difficulty of the engineering is still staggering to look at today: at that time, Taiwan did not even have highway design standards. The engineering team translated Japanese and American standards while building, and the designs for many bridges and embankments were "from scratch"[^10]. The Zhongsha Bridge, Yangmei Slope, and Houlong mudstone section each have their own engineering stories. In the oral history special issue *The Way of the Great Road* compiled by the National Highway Bureau, engineers from that era recalled: "We were not just building roads; we were learning how to build roads."[^10]
+The difficulty of the engineering is still staggering to look at today: at that time, Taiwan did not even have highway design standards. The engineering team translated Japanese and American standards while building, and the designs for many bridges and embankments were "from scratch"[^10]. The Zhongsha Bridge, Yangmei Slope, and Houlong mudstone section each have their own engineering stories. In the oral history special issue _The Way of the Great Road_ compiled by the National Highway Bureau, engineers from that era recalled: "We were not just building roads; we were learning how to build roads."[^10]
 
 > **💡 Did You Know?**
 > The initial plan for the Zhongshan Expressway was a "level-crossing style" design, not a true closed system. It was only changed to the "true highway" standard of a fully closed, interchanged system during construction—meaning many sections were redesigned after construction began, an extremely rare "changing specifications while running" scenario in engineering[^4][^10].

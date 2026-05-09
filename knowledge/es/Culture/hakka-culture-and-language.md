@@ -19,8 +19,8 @@ lastVerified: 2026-04-05
 lastHumanReview: false
 featured: false
 translatedFrom: Culture/客家文化與語言.md
-sourceCommitSha: 5b8ea228
-sourceContentHash: sha256:b7e6cdcd3f8a0bf5
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:b7e6cdcd3f8a0bf5'
 sourceBodyHash: 'sha256:af3d2488463632de'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---

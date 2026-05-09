@@ -11,8 +11,8 @@ category: 'Society'
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: "Society/環保與永續發展.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:58130043015789fc"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
 translatedAt: "2026-04-14T12:32:44+08:00"
 ---

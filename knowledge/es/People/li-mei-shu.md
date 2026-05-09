@@ -10,8 +10,8 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'People/李梅樹.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:44a9b62010a8d0da'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---

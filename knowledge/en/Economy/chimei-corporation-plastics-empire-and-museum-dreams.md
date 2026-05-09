@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Economy/台灣企業：奇美實業.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ef66216f5745267b'
 sourceBodyHash: 'sha256:311e82e102e15eb1'
 translatedAt: '2026-05-01T15:38:13+08:00'

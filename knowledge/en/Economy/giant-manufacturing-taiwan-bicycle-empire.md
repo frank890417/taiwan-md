@@ -18,7 +18,7 @@ readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：巨大機械.md'
-sourceCommitSha: 'a05d2431'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:59a5006dd9b19748'
 sourceBodyHash: 'sha256:ba1854308daac0e3'
 translatedAt: '2026-05-01T15:38:13+08:00'

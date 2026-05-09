@@ -16,7 +16,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 translatedFrom: 'Society/台灣流浪動物文化.md'
-sourceCommitSha: 'ecb173b1'
+sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:aa70d55ab7f81779'
 sourceBodyHash: 'sha256:2b938df705566c1a'
 translatedAt: '2026-04-14T12:25:09+08:00'

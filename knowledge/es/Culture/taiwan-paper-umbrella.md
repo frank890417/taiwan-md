@@ -19,8 +19,8 @@ readingTime: 10
 lastVerified: 2026-04-21
 lastHumanReview: false
 translatedFrom: Culture/紙傘.md
-sourceCommitSha: 292ec5fe
-sourceContentHash: sha256:2b63bb823fbdea45
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:2b63bb823fbdea45'
 sourceBodyHash: 'sha256:6966802b8bb41d32'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---

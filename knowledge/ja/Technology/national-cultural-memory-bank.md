@@ -17,8 +17,8 @@ readingTime: 12
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'Technology/國家文化記憶庫.md'
-sourceCommitSha: 'dc87c2a6'
-sourceContentHash: 'sha256:2ab29985957780e7'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:6f90dbf2e1df699d'
 sourceBodyHash: 'sha256:f903cddb5dedf5bd'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---

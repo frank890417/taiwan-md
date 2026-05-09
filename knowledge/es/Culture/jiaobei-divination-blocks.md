@@ -10,8 +10,8 @@ readingTime: 8
 lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'Culture/擲筊.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:30bfc298addfbbfa'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f8a1e86f13d5a657'
 sourceBodyHash: 'sha256:ef724755039c89a7'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---

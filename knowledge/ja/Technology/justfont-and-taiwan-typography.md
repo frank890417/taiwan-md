@@ -20,7 +20,7 @@ subcategory: '設計與工藝'
 author: 'Taiwan.md'
 featured: true
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: 'ee4917f3'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d183a4f153af2c30'
 sourceBodyHash: 'sha256:b00886dbf4c43128'
 translatedAt: '2026-05-01T14:48:26+08:00'

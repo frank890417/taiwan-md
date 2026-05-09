@@ -1,19 +1,28 @@
 ---
-title: "Hsiao Bi-khim"
+title: 'Hsiao Bi-khim'
 description: "Née à Kobe, scolarisée à Tainan, élevée dans le New Jersey, diplômée d'Oberlin : comment la « Chatte Guerrière » est devenue la représentante la plus influente de Taïwan aux États-Unis, avant d'accéder à la vice-présidence ?"
 date: 2026-04-11
-tags: ["personnalité politique", "vice-présidente", "DPP", "diplomatie", "représentante aux États-Unis", "Hualien", "Chatte Guerrière"]
-subcategory: "政治人物"
-author: "Taiwan.md"
+tags:
+  [
+    'personnalité politique',
+    'vice-présidente',
+    'DPP',
+    'diplomatie',
+    'représentante aux États-Unis',
+    'Hualien',
+    'Chatte Guerrière',
+  ]
+subcategory: '政治人物'
+author: 'Taiwan.md'
 readingTime: 12
 lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
-translatedFrom: "People/蕭美琴.md"
-sourceCommitSha: "2d0c126f"
-sourceContentHash: "sha256:f272f267160332e7"
-sourceBodyHash: "sha256:3d2acfec22ab6d95"
-translatedAt: "2026-05-03T23:14:07+08:00"
+translatedFrom: 'People/蕭美琴.md'
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:f272f267160332e7'
+sourceBodyHash: 'sha256:3d2acfec22ab6d95'
+translatedAt: '2026-05-03T23:14:07+08:00'
 ---
 
 # Hsiao Bi-khim

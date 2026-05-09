@@ -2,19 +2,19 @@
 title: "Lu Hsiu-yan: From 10,000 Bottles of Guguan Air to the 'Arms Procurement as Insurance' Doctrine — The Undefeated Queen"
 description: "On 2018-12-25, she spent her own money to commission 10,000 glass jars of 'Guguan Air' and distributed them to citizens attending her inauguration, putting her campaign slogan into the hands of her readers. After 8 consecutive undefeated elections, two terms as Taichung mayor, and 6 terms as a legislator, Eric Chu publicly asked her to take over as KMT party chair in August 2025. She replied, 'The more difficult the times, the more Mom stays home.' But an April 2026 poll showed that her presumed frontrunner status for 2028 had been overtaken by Chiang Wan-an, 25% to 19.7%."
 date: 2026-05-03
-author: "Taiwan.md"
-category: "People"
-subcategory: "政治人物"
-tags: ["政治人物", "台中市長", "中國國民黨", "不敗女王", "媽媽市長", "2028大選"]
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '政治人物'
+tags: ['政治人物', '台中市長', '中國國民黨', '不敗女王', '媽媽市長', '2028大選']
 readingTime: 14
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
-translatedFrom: "People/盧秀燕.md"
-sourceCommitSha: "96c653f7"
-sourceContentHash: "sha256:d371b7109756e14d"
-sourceBodyHash: "sha256:8d9608a92d5a6a0c"
-translatedAt: "2026-05-03T23:14:05+08:00"
+translatedFrom: 'People/盧秀燕.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:d371b7109756e14d'
+sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
+translatedAt: '2026-05-03T23:14:05+08:00'
 ---
 
 # Lu Hsiu-yan: From 10,000 Bottles of Guguan Air to the 'Arms Procurement as Insurance' Doctrine — The Undefeated Queen
@@ -37,7 +37,7 @@ Lu Hsiu-yan is not from Taichung.
 
 She was born on August 31, 1961, in Anle District, Keelung City. [^1] Her father, Lu Huiting, was a native of Zhucheng, Shandong, who served in the Chinese People's Volunteer Army during the Korean War in the 1950s, was captured by U.S. forces, and chose to come to Taiwan. Her mother is from Hsinchu City, the eldest daughter of a native Taiwanese family. Her younger sister, Lu Hsiu-fang, later entered the television industry and took over as Chairman and General Manager of CTV in 2024. [^1] Her family background is a classic "mixed second-generation mainlander and native Taiwanese" structure, but compared to someone like Cheng Li-wu, who grew up in a military dependents' village, she is more northern, more metropolitan.
 
-She studied land economics at National Chengchi University, [^2] unrelated to law or political science. In 1983, at age 22, she joined CTS as a reporter. [^3] In 1990, at age 29, she won the 25th Golden Bell Award for Television News Reporting for an investigative series titled "False Charity, True Profiteering." That same year she was promoted to CTS Central Taiwan News Bureau Chief, described by *UDN Time* as "the first female bureau chief assigned to central Taiwan in Taiwanese television history." [^4]
+She studied land economics at National Chengchi University, [^2] unrelated to law or political science. In 1983, at age 22, she joined CTS as a reporter. [^3] In 1990, at age 29, she won the 25th Golden Bell Award for Television News Reporting for an investigative series titled "False Charity, True Profiteering." That same year she was promoted to CTS Central Taiwan News Bureau Chief, described by _UDN Time_ as "the first female bureau chief assigned to central Taiwan in Taiwanese television history." [^4]
 
 From 1983 to 1994, she spent 11 years at CTS. In the latter half, her sister Lu Hsiu-fang also joined Taiwan Television (TTV) as an anchor. The sister duo appearing together on the three-network era screen was a notable image in the news industry. [^4] At the time, no one imagined that this Golden Bell–winning central Taiwan bureau chief would, over 30 years later, become the KMT's "presumed 2028 frontrunner" — including herself.
 
@@ -75,7 +75,7 @@ Where did the "Mom Mayor" label come from?
 
 According to a Central News Agency analysis after her 2022 re-election, the label originated from her self-positioning during the 2018 campaign: she focused on anti–air pollution and economic revitalization, and she herself was a mother of two. After taking office, she delivered on pre-election promises, rolling out elderly health insurance subsidies, expanding public childcare facilities, and strengthening education and social welfare policies, weaving the image of "a mom who takes care of her family" into city governance. [^15]
 
-In 2019, during a council Q&A session, she stated that "she had never called herself Mom Mayor" and didn't know why everyone used that term. But at a 2022 New Year's Eve event, she addressed the crowd with "Mommy loves you" and made a heart gesture. *Liberty Times* commentator Lee Chung-hsien criticized this as "the most North Korea–like place in Taiwan," calling it excessive personality cult. [^15]
+In 2019, during a council Q&A session, she stated that "she had never called herself Mom Mayor" and didn't know why everyone used that term. But at a 2022 New Year's Eve event, she addressed the crowd with "Mommy loves you" and made a heart gesture. _Liberty Times_ commentator Lee Chung-hsien criticized this as "the most North Korea–like place in Taiwan," calling it excessive personality cult. [^15]
 
 The controversy is real. She has at times denied and at times embraced the label. But the election results on November 26, 2022, do not lie: she won 799,107 votes (59.35%) to Tsai Chi-chang's 524,224 (38.93%), a margin of 270,000 votes, **sweeping all 29 administrative districts of Taichung City**. [^13] Tsai Chi-chang even lost his hometown of Qingshui by 167 votes. [^13] She became the **first mayor to successfully win re-election** since the 2010 merger of Taichung City and County, breaking the curse that no special municipality mayor had managed to win a second term since the merger.
 
@@ -149,7 +149,7 @@ At the time, the Executive Yuan was pushing a NT$1.25 trillion special budget fo
 
 Another of her specific proposals was more technical: "**Make the submarines a little smaller; scale up the drones.**" [^27] Focusing asymmetric warfare capabilities on drones rather than submarines was close to the structure of the "Shield of Taiwan" that Lai Ching-te had proposed in April 2025, but she was not speaking from Lai's side — she was speaking from the position of a "pragmatic administrator."
 
-*Liberty Times* criticized this range as "no route — she's hedging her bets" and "changing multiple times in a single day." [^26] Donovan Smith observed in a April 25 *Taipei Times* column that she was "**quietly preparing for a presidential election**," deliberately walking a moderate route, unlike other politicians who used angry rhetoric during the recall campaigns. [^28]
+_Liberty Times_ criticized this range as "no route — she's hedging her bets" and "changing multiple times in a single day." [^26] Donovan Smith observed in a April 25 _Taipei Times_ column that she was "**quietly preparing for a presidential election**," deliberately walking a moderate route, unlike other politicians who used angry rhetoric during the recall campaigns. [^28]
 
 Both readings have merit. Whether she has "no route" or is "deliberately centrist" depends on which side you read her from.
 
@@ -163,7 +163,7 @@ A Z.media poll released in April showed the suitability ratings for potential pa
 - **Lu Hsiu-yan: 19.7%**
 - **Han Kuo-yu: 15.6%** [^28]
 
-Chiang Wan-an had overtaken Lu Hsiu-yan. Donovan Smith wrote in his April 25 *Taipei Times* column that her "polling numbers have been slowly eroding." [^28] In the same article, he identified two key factors: Chiang Wan-an scored high on Taipei municipal governance (a Formosa poll showed Chiang's municipal satisfaction at 62.6% versus Lu's 48.7%); and Chiang, like Lu, walked a moderate line, but his age and urban image more directly appealed to younger voters.
+Chiang Wan-an had overtaken Lu Hsiu-yan. Donovan Smith wrote in his April 25 _Taipei Times_ column that her "polling numbers have been slowly eroding." [^28] In the same article, he identified two key factors: Chiang Wan-an scored high on Taipei municipal governance (a Formosa poll showed Chiang's municipal satisfaction at 62.6% versus Lu's 48.7%); and Chiang, like Lu, walked a moderate line, but his age and urban image more directly appealed to younger voters.
 
 For the "Undefeated Queen," this was the first time in her 30-plus-year political career that an opponent had emerged she could not outrun. She could beat local factions, beat local power brokers, beat party elders — but she could not beat a Taipei mayor who overlapped with her political positioning yet was 17 years younger.
 
@@ -203,13 +203,13 @@ And the question of whether she should step out of Taichung or continue staying 
 
 [^3]: [盧秀燕曝年輕主播照「記者節快樂」 11 年媒體生涯曾拿電視金鐘獎 - ETtoday](https://www.ettoday.net/news/20220901/2329595.htm) — ETtoday report from September 1, 2022 (Journalists' Day), documenting Lu Hsiu-yan joining CTS as a reporter in 1983, winning the 25th Golden Bell Award for Television News Reporting in 1990 for "False Charity, True Profiteering," and her 11-year media career timeline.
 
-[^4]: [從「金鐘記者」到「地方首長」 盧秀燕最早從華視主播起家 - 報時光](https://time.udn.com/udntime/story/122834/9100576) — *UDN Time* 2024 in-depth retrospective, documenting Lu Hsiu-yan's promotion to CTS Central Taiwan News Bureau Chief in late 1990, being called the first female bureau chief assigned to central Taiwan in Taiwanese television history, and family details of her sister Lu Hsiu-fang appearing together in the news industry.
+[^4]: [從「金鐘記者」到「地方首長」 盧秀燕最早從華視主播起家 - 報時光](https://time.udn.com/udntime/story/122834/9100576) — _UDN Time_ 2024 in-depth retrospective, documenting Lu Hsiu-yan's promotion to CTS Central Taiwan News Bureau Chief in late 1990, being called the first female bureau chief assigned to central Taiwan in Taiwanese television history, and family details of her sister Lu Hsiu-fang appearing together in the news industry.
 
 [^5]: [立法院全球資訊網 - 盧秀燕委員](https://www.ly.gov.tw/Pages/List.aspx?nodeid=1785) — Official Legislative Yuan member profile, documenting Lu Hsiu-yan's service as a legislator for the 4th–9th Legislative Yuan (1999-02-01 to 2018-11-20) with complete tenure records and Taichung constituency data, as well as her committee assignments over the years.
 
 [^8]: [台中市長選舉結果 2018 視覺化 - 中央社](https://www.cna.com.tw/project/20181124-electionchart/tc.html) — CNA 2018 nine-in-one election interactive visualization, recording the complete vote count: Lu Hsiu-yan 827,996 votes (56.57%) to Lin Chia-lung 619,855 votes (42.35%), margin of 208,141 votes.
 
-[^9]: [贏回 20 萬票 盧秀燕讓台中變天 - 自由時報](https://news.ltn.com.tw/news/focus/paper/1249387) — *Liberty Times* November 25, 2018 post-election analysis, documenting Lu Hsiu-yan becoming the third mayor of the merged Taichung special municipality and the first KMT female mayor, as well as the two-way swing structure: Lin Chia-lung lost nearly 240,000 votes compared to 2014, while Lu gained 190,000 more than the 2014 KMT candidate.
+[^9]: [贏回 20 萬票 盧秀燕讓台中變天 - 自由時報](https://news.ltn.com.tw/news/focus/paper/1249387) — _Liberty Times_ November 25, 2018 post-election analysis, documenting Lu Hsiu-yan becoming the third mayor of the merged Taichung special municipality and the first KMT female mayor, as well as the two-way swing structure: Lin Chia-lung lost nearly 240,000 votes compared to 2014, while Lu gained 190,000 more than the 2014 KMT candidate.
 
 [^10]: [影／「谷關空氣」成本一瓶 30 元！廠商曝製作過程 分批上山封蓋 1 萬次 - ETtoday](https://www.ettoday.net/news/20181225/1340499.htm) — ETtoday December 25, 2018 inauguration-day report, including the contracted vendor's detailed account of the production process: NT$30 per bottle, over NT$300,000 total, recyclable glass material, paid from personal funds with no public money used, vendor made multiple trips up the mountain during good air quality periods to manually open and seal jars 10,000 times.
 
@@ -219,7 +219,7 @@ And the question of whether she should step out of Taichung or continue staying 
 
 [^13]: [盧秀燕贏蔡其昌逾 27 萬票 台中市 29 區全拿 - 中央社](https://www.cna.com.tw/news/aipl/202211260303.aspx) — CNA November 26, 2022 vote count report, documenting Lu Hsiu-yan 799,107 votes (59.35%) to Tsai Chi-chang 524,224 votes (38.93%), a margin of 274,883 votes, all 29 administrative districts of Taichung won, and Tsai Chi-chang losing even his hometown of Qingshui by 167 votes.
 
-[^14]: [「不敗女王」盧秀燕從議員、立委到市長締造 8 連勝 - 今周刊](https://www.businesstoday.com.tw/article/category/183027/post/202211140046/) — *Business Today* November 2022 in-depth report, tallying Lu Hsiu-yan's complete record of 8 consecutive electoral victories from provincial councilor (1994), legislator (1999–2018, 6 terms), to mayor (2018 + 2022), including data on being rated a top-tier outstanding legislator 18 times by civil society organizations during her legislative tenure.
+[^14]: [「不敗女王」盧秀燕從議員、立委到市長締造 8 連勝 - 今周刊](https://www.businesstoday.com.tw/article/category/183027/post/202211140046/) — _Business Today_ November 2022 in-depth report, tallying Lu Hsiu-yan's complete record of 8 consecutive electoral victories from provincial councilor (1994), legislator (1999–2018, 6 terms), to mayor (2018 + 2022), including data on being rated a top-tier outstanding legislator 18 times by civil society organizations during her legislative tenure.
 
 [^15]: [盧秀燕連任成功 「媽媽市長」形象經營奏效 - 中央社](https://www.cna.com.tw/news/aipl/202211260184.aspx) — CNA November 26, 2022 re-election analysis, documenting the "Mom Mayor" label's origins in the 2018 campaign, the policy delivery on public childcare expansion and elderly health insurance subsidies after taking office, and the inconsistency controversy between her 2019 council Q&A statement "I never called myself Mom Mayor" and the 2022 New Year's Eve "Mommy loves you" moment.
 
@@ -229,20 +229,20 @@ And the question of whether she should step out of Taichung or continue staying 
 
 [^18]: [盧秀燕不選國民黨主席「留在家」陪產業度難關 - 中央社](https://www.cna.com.tw/news/aipl/202508240082.aspx) — CNA August 24, 2025 interview report, documenting Lu Hsiu-yan's public refusal of the party chair nomination, the original quote "the more difficult the times, the more Mom stays home," and her full argument citing Trump's 32% tariffs on Taiwan and the impact on central Taiwan's industries as her reason for staying at her post.
 
-[^19]: [宣布不選國民黨主席 盧秀燕：不宜指定或欽定參選 - 自由時報](https://news.ltn.com.tw/news/politics/breakingnews/5154666) — *Liberty Times* August 24, 2025 political report, including Lu Hsiu-yan's verbatim quote: "The position of party chair should not be filled by appointment or by designation. It should be contested fairly by those who are willing to run."
+[^19]: [宣布不選國民黨主席 盧秀燕：不宜指定或欽定參選 - 自由時報](https://news.ltn.com.tw/news/politics/breakingnews/5154666) — _Liberty Times_ August 24, 2025 political report, including Lu Hsiu-yan's verbatim quote: "The position of party chair should not be filled by appointment or by designation. It should be contested fairly by those who are willing to run."
 
-[^21]: [國民黨主席選舉，鄭麗文當選！最終開票結果一次看 - 遠見雜誌](https://www.gvm.com.tw/article/125140) — *Global Views Magazine* October 18, 2025 vote count report, documenting Cheng Li-wu's election as the 12th KMT party chair with 65,122 votes and a 50.15% vote share, defeating Hau Lung-pin, Lo Chih-chiang, and other candidates, as well as her August 11 hint on Wang Chien-chiu's radio program that "if Lu doesn't run, I'm considering it."
+[^21]: [國民黨主席選舉，鄭麗文當選！最終開票結果一次看 - 遠見雜誌](https://www.gvm.com.tw/article/125140) — _Global Views Magazine_ October 18, 2025 vote count report, documenting Cheng Li-wu's election as the 12th KMT party chair with 65,122 votes and a 50.15% vote share, defeating Hau Lung-pin, Lo Chih-chiang, and other candidates, as well as her August 11 hint on Wang Chien-chiu's radio program that "if Lu doesn't run, I'm considering it."
 
-[^22]: [鄭麗文第二波人事 藍副主席張榮恭、蕭旭岑 - 聯合報](https://udn.com/news/story/122404/9095097) — *United Daily News* November 2025 report, documenting the second wave of party headquarters personnel appointments under Cheng Li-wu, with Vice Chairmen Chang Jung-kung (former head of the KMT Mainland Affairs Department) and Hsiao Hsu-cheng (CEO of the Ma Ying-jeou Foundation), and noting that Lu Hsiu-yan was not on the vice chairman list.
+[^22]: [鄭麗文第二波人事 藍副主席張榮恭、蕭旭岑 - 聯合報](https://udn.com/news/story/122404/9095097) — _United Daily News_ November 2025 report, documenting the second wave of party headquarters personnel appointments under Cheng Li-wu, with Vice Chairmen Chang Jung-kung (former head of the KMT Mainland Affairs Department) and Hsiao Hsu-cheng (CEO of the Ma Ying-jeou Foundation), and noting that Lu Hsiu-yan was not on the vice chairman list.
 
-[^23]: [盧秀燕華府會國務院、戰爭部高級官員 喊軍購如「買保險」須盡早 - 自由時報](https://news.ltn.com.tw/news/politics/breakingnews/5376508) — *Liberty Times* March 2026 U.S. visit report, documenting Lu Hsiu-yan's meetings in Washington with U.S. State Department and Department of War officials, Brookings scholars Richard Bush and Bonnie Glaser, and the specific itinerary details of the AIT Washington headquarters reception.
+[^23]: [盧秀燕華府會國務院、戰爭部高級官員 喊軍購如「買保險」須盡早 - 自由時報](https://news.ltn.com.tw/news/politics/breakingnews/5376508) — _Liberty Times_ March 2026 U.S. visit report, documenting Lu Hsiu-yan's meetings in Washington with U.S. State Department and Department of War officials, Brookings scholars Richard Bush and Bonnie Glaser, and the specific itinerary details of the AIT Washington headquarters reception.
 
-[^24]: [務實穩健 盧秀燕：軍購如買保險 - 聯合報](https://udn.com/news/story/6656/9393740) — *United Daily News* March 2026 U.S. visit interview, including Lu Hsiu-yan's verbatim quote: "Arms procurement is like buying insurance — you should buy it early and buy the best, but it must be within the nation's fiscal capacity," along with her "pragmatic and steady" self-positioning narrative.
+[^24]: [務實穩健 盧秀燕：軍購如買保險 - 聯合報](https://udn.com/news/story/6656/9393740) — _United Daily News_ March 2026 U.S. visit interview, including Lu Hsiu-yan's verbatim quote: "Arms procurement is like buying insurance — you should buy it early and buy the best, but it must be within the nation's fiscal capacity," along with her "pragmatic and steady" self-positioning narrative.
 
-[^25]: [鄭麗文時代誰戰 2028 國民黨從獨尊盧秀燕變「3+1」？ - 聯合報 VIP](https://vip.udn.com/vip/story/122367/9098762) — *United Daily News* VIP analysis, examining Cheng Li-wu's public statement after her October 18 election that "2028 doesn't have to be exclusively about Lu Hsiu-yan," and the power structure shift within the KMT from "Lu as sole frontrunner" to "3+1" (Lu, Han Kuo-yu, Chiang Wan-an + Cheng Li-wu).
+[^25]: [鄭麗文時代誰戰 2028 國民黨從獨尊盧秀燕變「3+1」？ - 聯合報 VIP](https://vip.udn.com/vip/story/122367/9098762) — _United Daily News_ VIP analysis, examining Cheng Li-wu's public statement after her October 18 election that "2028 doesn't have to be exclusively about Lu Hsiu-yan," and the power structure shift within the KMT from "Lu as sole frontrunner" to "3+1" (Lu, Han Kuo-yu, Chiang Wan-an + Cheng Li-wu).
 
-[^26]: [盧秀燕挺軍購額度一日數變！被酸「沒有路線，她在包牌」 - 自由時報](https://news.ltn.com.tw/news/Taichung/breakingnews/5387872) — *Liberty Times* April 2026 report, documenting Lu Hsiu-yan's proposed arms procurement scale of NT$800 billion to NT$1 trillion, critics' commentary of "no route, she's hedging her bets," and the comparison of three versions: the Executive Yuan's NT$1.25 trillion, the KMT's "NT$380 billion + N," and Lu's range.
+[^26]: [盧秀燕挺軍購額度一日數變！被酸「沒有路線，她在包牌」 - 自由時報](https://news.ltn.com.tw/news/Taichung/breakingnews/5387872) — _Liberty Times_ April 2026 report, documenting Lu Hsiu-yan's proposed arms procurement scale of NT$800 billion to NT$1 trillion, critics' commentary of "no route, she's hedging her bets," and the comparison of three versions: the Executive Yuan's NT$1.25 trillion, the KMT's "NT$380 billion + N," and Lu's range.
 
-[^27]: [影／盧秀燕談對美軍購規模：潛艦縮小一點 無人機應該放大 - 聯合報](https://udn.com/news/story/10930/9411197) — *United Daily News* April 2026 video report, including Lu Hsiu-yan's verbatim quote: "Make the submarines a little smaller; scale up the drones," along with her specific policy proposal to focus asymmetric warfare capabilities on drones.
+[^27]: [影／盧秀燕談對美軍購規模：潛艦縮小一點 無人機應該放大 - 聯合報](https://udn.com/news/story/10930/9411197) — _United Daily News_ April 2026 video report, including Lu Hsiu-yan's verbatim quote: "Make the submarines a little smaller; scale up the drones," along with her specific policy proposal to focus asymmetric warfare capabilities on drones.
 
-[^28]: [Donovan's Deep Dives: The KMT's 2028 presidential calculus is changing - Taipei Times](https://www.taipeitimes.com/News/feat/archives/2026/04/25/2003856200) — *Taipei Times* columnist Courtney Donovan Smith's April 25, 2026 observational analysis, documenting the Z.media poll showing Chiang Wan-an 25% > Lu 19.7% > Han Kuo-yu 15.6%, the Formosa poll showing Chiang's municipal satisfaction at 62.6% versus Lu's 48.7%, and the international perspective on Lu's slowly eroding polling numbers in spring 2026.
+[^28]: [Donovan's Deep Dives: The KMT's 2028 presidential calculus is changing - Taipei Times](https://www.taipeitimes.com/News/feat/archives/2026/04/25/2003856200) — _Taipei Times_ columnist Courtney Donovan Smith's April 25, 2026 observational analysis, documenting the Z.media poll showing Chiang Wan-an 25% > Lu 19.7% > Han Kuo-yu 15.6%, the Formosa poll showing Chiang's municipal satisfaction at 62.6% versus Lu's 48.7%, and the international perspective on Lu's slowly eroding polling numbers in spring 2026.

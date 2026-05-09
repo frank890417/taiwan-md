@@ -212,8 +212,8 @@ lifeTree:
           plausibility: structural
           note: 'Berkshire Hathaway 巴菲特模式。但張忠謀選擇主動退場，避免「老人政治」的風險，這個自我克制本身是傳承品質的一部分。'
 translatedFrom: People/張忠謀.md
-sourceCommitSha: 4a5b7958
-sourceContentHash: sha256:cd227d8ac5698cc4
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:cd227d8ac5698cc4'
 sourceBodyHash: 'sha256:76e39b691c0dd9a1'
 translatedAt: 2026-05-02T01:17:16+08:00
 category: People
