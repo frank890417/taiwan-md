@@ -147,6 +147,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-10 sad-shockley — EVOLVE 必須升級 title + description（canonical gap）
+
+- **原則**：focused EVOLVE（如新增一節）讓 article 的 spine（核心矛盾 / hook anchor）變化時，**必須同步升級 title + description** 以反映新核心。否則 SC 顯示舊 title／reader 點進來看到舊 hook 但讀到新內容 = 落差。
+- **觸發**：2026-05-10 sad-shockley session — twmd-rewrite-daily routine EVOLVE [knowledge/Technology/台灣無人機產業.md](../../knowledge/Technology/台灣無人機產業.md) 加新節「藍色清單與一張入場券」（PR #988 ship）後，title 仍為舊 stub「台灣無人機產業」、description 仍只提雷虎 Overkill 一句話、未反映新節核心矛盾「39+165 中只有 1」+ Blue Skies for Taiwan Act fast-track。觀察者 callout 對照同期 ship 的 [颱風](../../knowledge/Nature/颱風.md)（「能預測風雨，預測不了命運：台灣與颱風的四百年」）/ [颱風假](../../knowledge/Society/颱風假.md)（「誰的假，誰的班」）/ [史瓦帝尼](../../knowledge/Society/台灣與史瓦帝尼.md)（「非洲最後一條外交命脈，掛在一個人身上」）/ [黃魚鴞](../../knowledge/Nature/黃魚鴞.md)（「六公里溪流養一對」）— 整批都走「主題：副標 hook」的冒號三明治格式，唯獨無人機沒升。
+- **canonical gap 證據**：
+  - [EDITORIAL §Title 四原則](../editorial/EDITORIAL.md#title-強制冒號三明治people-類)只 explicit 寫「People/ 條目 title 強制人名：代表性弧線或場景格式」— **沒覆蓋 Tech / Society / Nature / Economy** 等其他 category，但 recent batch 實踐已擴及全 category
+  - [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md) Stage 2 寫作流程沒有 hard gate「EVOLVE 完成後檢查 title + description 是否已吃進新核心」
+  - [REWRITE-MODES.md §Evolution](../pipelines/rewrite/REWRITE-MODES.md) 只強調「全文重寫，不在舊文上修補」，沒提 frontmatter title/desc 同步
+  - [EVOLVE-PIPELINE.md line 61, 122, 153](../pipelines/EVOLVE-PIPELINE.md) 提過「高曝光 + 低 CTR → 改 title/desc」但限定為 SC-driven optimization，**不是 standard EVOLVE 一律觸發**
+- **可能層級**：
+  - 通用反射 → DNA 候選「focused EVOLVE 結尾必跑 title + description spine check」（verification_count 1，待 ≥ 3 確認後升 DNA）
+  - 操作規則 → REWRITE-PIPELINE Stage 2 hard gate inventory + REWRITE-WRITE.md §自檢套件 加第 6 條「title + description 是否已吃進 EVOLVE 新核心矛盾」
+  - 文件層 → EDITORIAL §Title 四原則 從「People 強制」擴為「**所有** category 強制冒號三明治 + 副標獨立成立」
+- **相關**：
+  - [EDITORIAL §Title 四原則 + §Description 四原則](../editorial/EDITORIAL.md#title-與-description-的品質)
+  - [REWRITE-PIPELINE.md §Hard Gate Inventory](../pipelines/REWRITE-PIPELINE.md)（待加「title+desc spine sync」gate）
+  - 2026-05-10 sad-shockley PR #988 (EVOLVE) → PR #N (title+desc fix) 雙 PR 軌跡
+- **verification_count**: 1（首次 surface，本 session 修補）
+- **severity**: tactical-architectural（個案 fix 已完成，但跨 EVOLVE 反覆風險中等 — recent batch 5/9 颱風 + 颱風假是同 session 同時做，沒驗證 EVOLVE-only 場景是否會漏）
+- **待 distill 條件**：
+  - 若下次 EVOLVE focused section 又漏升 title+desc → 升 DNA 反射「EVOLVE 結尾 spine check」
+  - 若 EDITORIAL §Title 已被多 category 文章驗證冒號三明治，可升 v6.3 把規則從「People only」擴為「所有 category」
+
 ### 2026-05-10 twmd-maintainer-pm — 雙生 slot 第 1 day 跑通 collect-and-merge SSOT 收割者
 
 - **原則**：ROUTINE v1.1 把 maintainer 從 1d 1x（AM 09:07）升為 1d 2x（AM + PM 21:07），核心目的是「捕捉 AM 之後新出現的 routine PR backlog，避免 PM 期 PR 壓到隔天 AM」。第 1 day 驗證：PM cycle 確實接住 1 條 self-evolve 11:38 ship 的 #983（auto-merged via collect-and-merge §A 路徑），如果只有 AM cycle 該 PR 會延到隔天才被處理（延遲 ~12 hr）。

@@ -195,4 +195,50 @@ Blue UAS Cleared List 於 2025-12-03 從 DIU（Defense Innovation Unit, Mountain
 
 [^a14]: 既有條目 [^4] 經濟日報 500 億標案。
 
+---
+
+## 媒體授權矩陣（Stage 1.7d 補登 — 2026-05-10 sad-shockley）
+
+### inline 外連（YouTube／影像／音檔）
+
+本次 EVOLVE focused section 不引用具名公開作品（institutional fact 為主），無 inline 外連 manifest。
+
+### 圖片素材
+
+| 媒體檔                            | 用途   | 來源 URL                                                                                           | 授權          | 攝影者/作者 | 拍攝日期   | Wikimedia File                                                  | 本地 cache 路徑                                              | aspect           | size   | alt text                                         |
+| --------------------------------- | ------ | -------------------------------------------------------------------------------------------------- | ------------- | ----------- | ---------- | --------------------------------------------------------------- | ------------------------------------------------------------ | ---------------- | ------ | ------------------------------------------------ |
+| chung-shyang-ii-uav-2007.jpg      | hero   | https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg                                    | Public domain | Kliu1       | 2007-10-11 | File:Chung_Shyang_II_UAV.jpg                                    | /article-images/technology/chung-shyang-ii-uav-2007.jpg      | 1.5 (1999×1333)  | 504 KB | 中科院中翔二號無人機 2007 ROC 國慶大會 hero shot |
+| uav-9717-zhongzheng-port-2013.jpg | inline | https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg | CC BY-SA 3.0  | 玄史生      | 2013-05-04 | File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg | /article-images/technology/uav-9717-zhongzheng-port-2013.jpg | 1.33 (1500×1125) | 396 KB | 中科院銳鳶 9717 號 2013 中正軍港開放日展示       |
+
+**Aspect ratio 護欄**：兩張皆通過 `bash scripts/tools/check-aspect.sh`（hero 0.9-2.0 / inline 0.75-2.5）。
+**File format**：兩張皆 JPEG sRGB / quality 80-85 / 已 resize / 無 EXIF GPS。
+**Cache verify**：兩檔皆存在於 `public/article-images/technology/`，無熱連結。
+
+### 引用 transcript
+
+無（本次 EVOLVE 不引 verbatim quote / podcast / 訪談 transcript）。
+
+### Stage 1.7e deliverable 確認
+
+- [x] §媒體授權矩陣 三表完整（inline 外連 N/A / 圖片 2 張 / transcript N/A）
+- [x] 圖檔 cache 在 `public/article-images/technology/`
+- [x] aspect ratio 護欄通過
+- [x] image-health plugin gate hard=0（2026-05-10 16:50 跑通）
+
+### 為什麼 Wikimedia 找不到雷虎 / Overkill / 民間廠商圖
+
+Stage 1.7 search 邊界紀錄供未來補強：
+
+- Wikimedia Commons search「Thunder Tiger drone Taiwan」→ 0 results
+- Wikimedia Commons search「Taiwan defense expo drone」→ 0 results
+- Wikimedia Commons search「Taiwan UAV military」→ 3 results 全為 NCSIST 國造軍用無人機（中翔 II / 銳鳶 9717 / Guardian）
+- 雷虎 Overkill / 中光電 SIRAS / 系統電 Vesper / Trace 在 Commons **皆無圖**
+- 雷虎企業官網 product pages 屬企業 IP，可走 fair use editorial commentary scope（per REWRITE-MEDIA §1.7b 第 6/8 點），但本輪用 NCSIST 國造軍用 UAV 已能涵蓋「台灣無人機產業」廣義 hero 視覺需求，未走 fair use 路徑
+
+**未來補強方向**（非本 PR scope）：
+
+1. 中科院 NCSIST 官方 press release 圖庫可能有更多 PD 釋出（如紅雀 II / 騰雲 / 銳鳶 II / 劍翔）— 待 Stage 1.7 補抓
+2. 國防部年鑑 / 雙年武器展圖（Taipei Aerospace & Defense Technology Exhibition 2025 / 2026）可能有 PD 或可請示授權
+3. 雷虎 / 中光電 / 系統電官方 IR 投資人關係頁的 product hi-res 圖可走 fair use editorial commentary scope（如台積電條目慣例）
+
 🧬
