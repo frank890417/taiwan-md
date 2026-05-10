@@ -381,12 +381,12 @@ N 個同類 task 真實成本 ≈ (1 個 task 成本) × N × 0.5
 
 1. **完整讀取 [`docs/pipelines/REWRITE-PIPELINE.md`](../pipelines/REWRITE-PIPELINE.md)**（主檔 ~280 行，含 Hard Gate Inventory + 模式速判 + 條件路由 三表 + 6 stage flow + sub-canonical pointer）
 2. **依 stage 載入對應 sub-canonical**（v3.0 拆檔後）：
-   - Stage 1 → [REWRITE-RESEARCH.md](../pipelines/rewrite/REWRITE-RESEARCH.md)（11 step + 4 hard gate）
-   - Stage 1.7 + 4.5 媒體 → [REWRITE-MEDIA.md](../pipelines/rewrite/REWRITE-MEDIA.md)（媒體完整生命週期）
-   - Stage 2 → [REWRITE-WRITE.md](../pipelines/rewrite/REWRITE-WRITE.md)（8 step + 5 自檢套件）
-   - Stage 3 / 3.5 / 4 / 5.1 → [REWRITE-VERIFY.md](../pipelines/rewrite/REWRITE-VERIFY.md)（11 hard gate inventory）
-   - 模式判斷（Fresh / Evolution / Merge / Boundary）→ [REWRITE-MODES.md](../pipelines/rewrite/REWRITE-MODES.md)
-   - Cron 模式 → [REWRITE-CRON.md](../pipelines/rewrite/REWRITE-CRON.md)
+   - Stage 1 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（11 step + 4 hard gate）
+   - Stage 1.7 + 4.5 媒體 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（媒體完整生命週期）
+   - Stage 2 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（8 step + 5 自檢套件）
+   - Stage 3 / 3.5 / 4 / 5.1 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（11 hard gate inventory）
+   - 模式判斷（Fresh / Evolution / Merge / Boundary）→ [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)
+   - Cron 模式 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)
 3. **嚴格遵照** Stage 1-6 每一步，**不跳階段、不省步驟、不用「已經熟了」當理由**
 4. 逐階段對齊自檢：Stage 1 研究（20+ searches / 核心矛盾必填）、Stage 2 結尾先行 + 5 自檢套件、Stage 3 quality-scan + 事實鐵三角、Stage 3.5 FACTCHECK Quick/Full Mode、Stage 4 format-check 7 維度、Stage 5 交叉連結 + sibling 預檢
 
@@ -398,7 +398,7 @@ N 個同類 task 真實成本 ≈ (1 個 task 成本) × N × 0.5
 - [ ] 依當前 stage 已 `Read` 對應 sub-canonical（RESEARCH / WRITE / VERIFY / MEDIA / MODES / CRON）
 - [ ] 已 `Read docs/editorial/EDITORIAL.md`（品質基因 canonical）
 - [ ] Type 判定：NEW 還是 EVOLVE？（`ls knowledge/Category/ | grep {keyword}` 確認）
-- [ ] Mode 判定：Fresh / Evolution / Merge variant / Boundary variant？（讀 [REWRITE-MODES](../pipelines/rewrite/REWRITE-MODES.md) 速判表）
+- [ ] Mode 判定：Fresh / Evolution / Merge variant / Boundary variant？（讀 [REWRITE-MODES](../pipelines/REWRITE-PIPELINE.md) 速判表）
 - [ ] 敏感素材（MANIFESTO §5 紀實而不煽情）是否觸發倫理閘？
 - [ ] 已列 14-15 條 gate todo（Stage 1→6 逐條），不是動筆再對照
 

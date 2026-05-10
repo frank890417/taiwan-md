@@ -4,7 +4,7 @@ Direction D Wave 1 from reports/rewrite-pipeline-evolution-plan-2026-05-09.md:
     把 REWRITE Stage 2 #4「小標題不編年體」+ #11「編年體自檢」從 prose 提醒
     升級為 plugin gate (DNA #15 第 N 次驗證：memory 是自律，pipeline 才是閘門).
 
-Rule (REWRITE-WRITE.md §Step 4 + §自檢 3):
+Rule (REWRITE-PIPELINE.md §Stage 2 Step D + §Stage 2 Step G 自檢 3):
     H2 subheadings must NOT be chronicle-style「YYYY 年 X 月」/「YYYY 年《作品》」
     /「YYYY.MM.DD」 — these turn the article into a Wikipedia-style timeline
     (Cicada / 草東 / 康士坦 / 魏如萱 等 2026-04-18 教訓).
@@ -39,7 +39,7 @@ Future extensions (deferred to D Wave 2-5):
   - density_balance (Stage 2 #12 — needs LLM-as-judge)
 
 Canonical:
-  - docs/pipelines/rewrite/REWRITE-WRITE.md §Step 4 小標題先行決定 + §自檢 3 編年體自檢
+  - docs/pipelines/REWRITE-PIPELINE.md §Stage 2 Step D 小標題先行決定 + §自檢 3 編年體自檢
   - docs/pipelines/REWRITE-PIPELINE.md ⚠️ Top 5 最常忘的 step #3
 """
 
@@ -56,7 +56,7 @@ DIMENSION = "subheading"
 # Promote to HARD once legacy heal'd (per spore_writing.py Wave 2 Rule #14 pattern).
 # rewrite-stage-4 profile applies severity_override = "hard" for new articles.
 DEFAULT_SEVERITY = Severity.WARN
-EDITORIAL_REF = "REWRITE-WRITE.md §Step 4 + §自檢 3 編年體自檢"
+EDITORIAL_REF = "REWRITE-PIPELINE.md §Stage 2 Step D + §Stage 2 Step G 自檢 3 編年體自檢"
 APPLIES_TO = ["zh-TW"]
 
 

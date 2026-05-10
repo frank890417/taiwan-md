@@ -210,11 +210,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **canonical gap 證據**：
   - [EDITORIAL §Title 四原則](../editorial/EDITORIAL.md#title-強制冒號三明治people-類)只 explicit 寫「People/ 條目 title 強制人名：代表性弧線或場景格式」— **沒覆蓋 Tech / Society / Nature / Economy** 等其他 category，但 recent batch 實踐已擴及全 category
   - [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md) Stage 2 寫作流程沒有 hard gate「EVOLVE 完成後檢查 title + description 是否已吃進新核心」
-  - [REWRITE-MODES.md §Evolution](../pipelines/rewrite/REWRITE-MODES.md) 只強調「全文重寫，不在舊文上修補」，沒提 frontmatter title/desc 同步
+  - [REWRITE-PIPELINE.md §Evolution](../pipelines/REWRITE-PIPELINE.md) 只強調「全文重寫，不在舊文上修補」，沒提 frontmatter title/desc 同步
   - [EVOLVE-PIPELINE.md line 61, 122, 153](../pipelines/EVOLVE-PIPELINE.md) 提過「高曝光 + 低 CTR → 改 title/desc」但限定為 SC-driven optimization，**不是 standard EVOLVE 一律觸發**
 - **可能層級**：
   - 通用反射 → DNA 候選「focused EVOLVE 結尾必跑 title + description spine check」（verification_count 1，待 ≥ 3 確認後升 DNA）
-  - 操作規則 → REWRITE-PIPELINE Stage 2 hard gate inventory + REWRITE-WRITE.md §自檢套件 加第 6 條「title + description 是否已吃進 EVOLVE 新核心矛盾」
+  - 操作規則 → REWRITE-PIPELINE Stage 2 hard gate inventory + REWRITE-PIPELINE.md §自檢套件 加第 6 條「title + description 是否已吃進 EVOLVE 新核心矛盾」
   - 文件層 → EDITORIAL §Title 四原則 從「People 強制」擴為「**所有** category 強制冒號三明治 + 副標獨立成立」
 - **相關**：
   - [EDITORIAL §Title 四原則 + §Description 四原則](../editorial/EDITORIAL.md#title-與-description-的品質)
@@ -225,8 +225,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **distill 狀態**：✅ **已升 canonical（同 session sad-shockley 2150 完成）**
   - [EDITORIAL.md v6.3](../editorial/EDITORIAL.md#title-強制冒號三明治所有-categoryv63) — §Title 強制冒號三明治從「People 強制」擴為「**所有 category 強制**」+ 例外清單（Hub / 系列共名）
   - [REWRITE-PIPELINE.md v3.1](../pipelines/REWRITE-PIPELINE.md) — Hard Gate Inventory 加「Title+desc spine sync」+「媒體授權矩陣三表」明確標 **含 EVOLVE** + 雙條反射特別強化段
-  - [REWRITE-WRITE.md v1.1](../pipelines/rewrite/REWRITE-WRITE.md) — 自檢套件從 5 條擴為 7 條（自檢 6 title+desc spine / 自檢 7 媒體素材 spine check）
-  - [REWRITE-MODES.md v1.1](../pipelines/rewrite/REWRITE-MODES.md) — §Evolution Stage 0 加 frontmatter audit + `[STUB-TITLE]` / `[NO-MEDIA]` 標籤 + §EVOLVE 結尾必跑反射段
+  - [REWRITE-PIPELINE.md v1.1](../pipelines/REWRITE-PIPELINE.md) — 自檢套件從 5 條擴為 7 條（自檢 6 title+desc spine / 自檢 7 媒體素材 spine check）
+  - [REWRITE-PIPELINE.md v1.1](../pipelines/REWRITE-PIPELINE.md) — §Evolution Stage 0 加 frontmatter audit + `[STUB-TITLE]` / `[NO-MEDIA]` 標籤 + §EVOLVE 結尾必跑反射段
 
 ### 2026-05-10 twmd-maintainer-pm — 雙生 slot 第 1 day 跑通 collect-and-merge SSOT 收割者
 

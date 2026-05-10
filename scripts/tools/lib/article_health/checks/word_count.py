@@ -20,7 +20,7 @@ Threshold:
 
 Canonical:
     - REWRITE-PIPELINE.md §Hard Gate Inventory (Stage 3 / 4)
-    - REWRITE-WRITE.md §Step 5 寫正文（按敘事弧線）
+    - REWRITE-PIPELINE.md §Stage 2 Step E 寫正文（按敘事弧線）
     - 觸發脈絡：2026-05-10 sad-shockley session 觀察者指出
       [knowledge/Technology/台灣無人機產業.md](../../../../../knowledge/Technology/台灣無人機產業.md)
       EVOLVE 後仍 3273 字 = 虎頭蛇尾、後半部沒重點 → 升 canonical 反射為 plugin gate。
@@ -40,7 +40,7 @@ DIMENSION = "depth"
 # (estimated 100+ files). Promote to HARD via rewrite-stage-4 severity_override
 # (per chronicle-lead pattern) — new articles 強制達標，legacy 慢慢 heal。
 DEFAULT_SEVERITY = Severity.WARN
-EDITORIAL_REF = "REWRITE-WRITE.md §Step 5 寫正文 + REWRITE-PIPELINE Hard Gate (depth ≥ 4500 字)"
+EDITORIAL_REF = "REWRITE-PIPELINE.md §Stage 2 Step E 寫正文 + REWRITE-PIPELINE Hard Gate (depth ≥ 4500 字)"
 APPLIES_TO = ["zh-TW"]
 
 DEFAULT_MIN_CHARS = 4500
