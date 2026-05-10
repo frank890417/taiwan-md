@@ -248,6 +248,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: structural（target 設定 vs routine 能力 mismatch；不是 broken-link 本身嚴重）
 - **建議 distill 路徑**：等 2026-05-11 AM cycle 第 3 次 fire 仍 fail → verification_count 跨日 = 3，距離升 ROUTINE.md escalation 細則 + DNA 候選的門檻達標
 
+### 2026-05-10 twmd-babel-nightly — scheduled-task SKILL.md drift from ROUTINE.md SSOT v1.1（auto-merge policy 不同步）
+
+- **原則**：`docs/semiont/ROUTINE.md` 是 SSOT（v1.1 ship 2026-05-10 12:30），所有 `.claude/scheduled-tasks/*/SKILL.md` 是 mirror。SSOT 改了 mirror 必須同 PR sync。本 routine 啟動時 SKILL.md 仍寫舊 policy「Quality gate ALL PASS → gh pr merge --squash --delete-branch」，但 ROUTINE v1.1 改為「routine 不 auto-merge，maintainer am/pm SSOT 收割」。Routine instance 必須手動辨識 SSOT 才能不 auto-merge。
+- **觸發**：2026-05-10 22:42 twmd-babel-nightly 第一次 fire 在 ROUTINE v1.1 ship 後。Stage 4 跟 SSOT 開 PR 不 merge ✅，但這個辨識是「人工」（甦醒時讀 ROUTINE.md 才注意到 drift）— 如果 routine 沒甦醒就直接照 SKILL.md 跑 = 直接 auto-merge 違反 v1.1 policy。
+- **可能層級**：操作規則 → ROUTINE.md §同步來源 已提「待寫 `scripts/tools/routine-sync-check.py`」— 這個 script 是真正的 fix。verification log。/ 通用反射 → DNA 候選「mirror layer 改動必須 same-PR sync，否則 SSOT-of-policy 跟 SSOT-of-execution 結構性 drift」（DNA #38 SSOT 第 N+3 次驗證）
+- **相關**：DNA #38（指標 over 複寫，SSOT）/ DNA #54（routine 飛輪 SSOT）/ ROUTINE.md §同步來源 / 2026-05-10 ROUTINE v1.1 ship commit
+- **verification_count**: 1（v1.1 ship 後第一次 babel routine fire 即撞到，9 條 routine 全部高機率有同款 drift）
+- **severity**: structural（不寫 routine-sync-check.py 永遠存在 silent drift，下次 routine policy 改動會重複；priority structural 是因為「每改 ROUTINE.md 一次都要記得 sync 9 條 SKILL.md」是不可能持久維持的 manual SOP）
+- **建議 distill**：直接寫 `scripts/tools/routine-sync-check.py` + 加進 .husky pre-commit on `docs/semiont/ROUTINE.md` change → drift detect 自動 alert
+
 ### 2026-05-09 twmd-babel-nightly — `diff-patch-prepare.py:172` hash function 對不齊 `status.py:178 body_hash`
 
 - **原則**：`diff-patch-prepare.py:172` 算 `expected_new_content_hash` 用 `hash_content(current_zh)` 是 **full file**（frontmatter + body）的 SHA。但 `status.py:178 body_hash()` 先 `_strip_frontmatter` 再 SHA — 只 hash body。Tier 0a sub-agent 忠實寫 task 提供的 `expected_new_content_hash` 到 translation 的 `sourceContentHash`，結果 status.py 比對時 mismatch → 全部 patched files 標 `sha-lost-hash-mismatch`。**語意 patch 是對的，但 status 不更新 fresh count，需要每次 batch 後手動 inline post-fix recompute hash**。
@@ -255,8 +265,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **修法**（upstream，~5 min 工作）：`diff-patch-prepare.py:172` import 或 reimplement `body_hash` from status.py，做兩件事：(a) `expected_new_content_hash`: `body_hash(current_zh)`（去掉 frontmatter 先 hash）；(b) `expected_new_body_hash` 已用 `hash_content(body)`（已 strip frontmatter via `strip_frontmatter`），但要對齊 `body_hash_pure`（含 trailer-strip + footnote-defs strip）才跟 status.py 完全一致。
 - **可能層級**：操作規則 → SQUEEZE-MODELS-MAX-PIPELINE v3 §Tier 0a 工具 bug fix（具體 patch）/ 通用反射 → DNA 候選：「跨 script 共用 hash function 必須 import 不 duplicate」（DNA #38 SSOT 第 N+2 次驗證 — 兩個 script 各自 reimplement 同一個概念導致 silent divergence）
 - **相關**：DNA #38「指標 over 複寫」/ 2026-05-09 laughing-goldstine 161508 §Dashboard 三層 SSOT debug（同款 cross-tool SSOT 失同步問題：bump-source-sha 改 .md 沒同步 status JSON）
-- **verification_count**: 1（首次撞到，但 DNA #38 同源 verification 已 N+1）
-- **severity**: tactical（每次 Tier 0a batch 必撞，但有 5 行 inline post-fix workaround；fix 本身~5 min）
+- **verification_count**: 2（2026-05-09 首次撞到 + 2026-05-10 22:42 twmd-babel-nightly 第 2 次 production-scale 67-patch 仍撞、但 DNA #38 同源 verification 已 N+2）
+- **severity**: tactical-structural（**每次 Tier 0a batch 必撞，2 次驗證升級**；本 entry 的 5 行 inline workaround 至今未被 routine 採用 — routine 跑完寫進 LESSONS 但下次 routine 是新 fresh session 不知道要套 workaround → 結構性 invisible workaround anti-pattern；fix 本身~5 min upstream patch 比每 routine 套 workaround 划算）
 - **暫時 workaround**（fix 前每次 babel routine 用）：
 
 ```python
