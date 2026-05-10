@@ -147,6 +147,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-10 twmd-maintainer-pm — 雙生 slot 第 1 day 跑通 collect-and-merge SSOT 收割者
+
+- **原則**：ROUTINE v1.1 把 maintainer 從 1d 1x（AM 09:07）升為 1d 2x（AM + PM 21:07），核心目的是「捕捉 AM 之後新出現的 routine PR backlog，避免 PM 期 PR 壓到隔天 AM」。第 1 day 驗證：PM cycle 確實接住 1 條 self-evolve 11:38 ship 的 #983（auto-merged via collect-and-merge §A 路徑），如果只有 AM cycle 該 PR 會延到隔天才被處理（延遲 ~12 hr）。
+- **觸發**：2026-05-10 21:13 PM cycle 第 1 次 fire。3 open PR 走 SOP 分流：#983 (routine, owner, mergeable, age 569min) → auto-merge ✅；#976 (AM cycle memory, CONFLICTING due to 13+ main commits since AM, LESSONS-INBOX + MEMORY.md anchor 撞) → leave open；#968 (contributor) → leave open。collect-and-merge SOP 三條路徑（A merge / A defer / B 永不 auto）首次完整 exercise。
+- **可能層級**：操作規則 → ROUTINE.md §maintainer (am + pm) — 1d 2x 設計 verified（已是 v1.1 ship 內容，本 entry 是 verification log，不是新規則）/ 通用反射 → DNA 候選等 verification_count ≥ 3 才升（單日 single fire 不夠）
+- **相關**：DNA #54（routine 飛輪 SSOT）/ ROUTINE.md §collect-and-merge SOP / 2026-05-10 ROUTINE v1.1 ship commit 81f120ee5
+- **verification_count**: 1（single PM fire）
+- **severity**: tactical（routine design verification，無 anti-pattern）
+- **待 distill 條件**：跨 ≥ 3 day PM cycle 都成功 catch ≥ 1 條 backlog → 升 DNA 反射「routine 雙生 slot 是 PR backlog 的安全網」；若 ≥ 3 day PM 都 0 catch → 反向驗證「AM single slot already enough」要 review 升降頻率
+
+### 2026-05-10 twmd-maintainer (AM + PM) — broken-link DNA #52 1% target 連 2 次同日 fail，結構性 backlog 不會自然收斂
+
+- **原則**：broken-link verifier 在 AM 09:16 報 5.73% / PM 21:13 報 5.73%（zh-TW 9.21% 主因），同日 zero 改變。AM cycle 已詳列三大群結構性 backlog（ja stub heal / es-fr ai-\* slug / 中文 slug 重導向）。daily routine 不可能自然收斂這個數字 — 需要專門的 i18n heal session（觀察者排）。連 2 fire 同 fail 是預期，不是 routine 失能。**現有 DNA #52 1% target 對 routine quality gate 是「永遠 fail」狀態**，需要要嘛重設 target、要嘛開正式 heal session 把 5.73% 壓到 < 1%。
+- **觸發**：2026-05-10 跨 AM + PM 兩次 maintainer cycle，broken-link 數字完全 reproduce（zh-TW 13,162 broken / 142,932 total = 9.21%）。AM cycle handoff 已寫「連 2 次 fail 觸發 escalation」，PM cycle 即是第 2 次 — 但同日（非跨日）連 2 次。escalation 條件需要 disambiguate「同日雙生 slot 共撞同源」vs「跨日連 2 day 都 fail」。
+- **可能層級**：操作規則 → ROUTINE.md §maintainer escalation 細則升級「同日 AM+PM 雙撞同源 ≠ trend，跨日 ≥ 2 day 同 fail = trend」/ DNA 候選 → 「routine quality gate 設定的 target 必須是 routine 能影響的範圍」（DNA #52 1% target 不是 routine 能 ship 的，是觀察者 heal session 工作量級）
+- **相關**：DNA #52（immune system fail-loud）/ DNA #15（反覆浮現要儀器化）/ AM cycle PR #976 broken-link backlog 段落
+- **verification_count**: 2（AM 09:16 + PM 21:13 同日，但同源 — verification value 約等於 1.5 跨日）
+- **severity**: structural（target 設定 vs routine 能力 mismatch；不是 broken-link 本身嚴重）
+- **建議 distill 路徑**：等 2026-05-11 AM cycle 第 3 次 fire 仍 fail → verification_count 跨日 = 3，距離升 ROUTINE.md escalation 細則 + DNA 候選的門檻達標
+
 ### 2026-05-09 twmd-babel-nightly — `diff-patch-prepare.py:172` hash function 對不齊 `status.py:178 body_hash`
 
 - **原則**：`diff-patch-prepare.py:172` 算 `expected_new_content_hash` 用 `hash_content(current_zh)` 是 **full file**（frontmatter + body）的 SHA。但 `status.py:178 body_hash()` 先 `_strip_frontmatter` 再 SHA — 只 hash body。Tier 0a sub-agent 忠實寫 task 提供的 `expected_new_content_hash` 到 translation 的 `sourceContentHash`，結果 status.py 比對時 mismatch → 全部 patched files 標 `sha-lost-hash-mismatch`。**語意 patch 是對的，但 status 不更新 fresh count，需要每次 batch 後手動 inline post-fix recompute hash**。
