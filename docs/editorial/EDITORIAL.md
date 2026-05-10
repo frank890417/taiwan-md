@@ -3,9 +3,9 @@ title: 'EDITORIAL'
 description: '怎麼把素材寫成一篇有溫度的台灣文章'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v6.2'
-last_updated: 2026-05-09
-last_session: 'BRAVE-KIRCH-EDITORIAL-2'
+current_version: 'v6.3'
+last_updated: 2026-05-10
+last_session: 'sad-shockley-2150'
 benchmark: '報導者（The Reporter）深度報導品質標準'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
@@ -209,19 +209,29 @@ Taiwan.md 是一座策展空間。
 
 ### Title 與 Description 的品質
 
-#### Title 強制冒號三明治（People 類）
+#### Title 強制冒號三明治（**所有 category**，v6.3）
 
-People/ 條目 title 強制「人名：代表性弧線或場景」格式。光寫人名是百科 stub 風格，跟策展精神衝突。
+**所有 category 的條目 title 都走「主題：副標 hook」冒號三明治格式**。光寫主題是百科 stub 風格，跟策展精神衝突。
+
+> v6.2 → v6.3 升級（2026-05-10 sad-shockley）：原本 explicit 寫「People 強制」但 recent batch 已實際擴及全 category（颱風 / 颱風假 / 史瓦帝尼 / 黃魚鴞 / 林琪兒 / 台灣無人機產業 等）。canonical 跟上實踐。觸發：sad-shockley session EVOLVE 台灣無人機產業 漏升 title+desc 被觀察者 callout，揭露 canonical gap。
 
 ```
-❌ 周杰倫
-❌ 唐鳳
-❌ 戴資穎
+❌ 周杰倫                        ❌ 台灣無人機產業
+❌ 唐鳳                          ❌ 颱風
+❌ 戴資穎                        ❌ 颱風假
 
 ✅ 周杰倫：從 4 in Love 隔壁練團室到《不能說的祕密》的二十五年
 ✅ 唐鳳：自學 14 歲到 g0v 中央委員，再到第一位數位部長
 ✅ 戴資穎：高雄左營少女到三度世界球后，球場外的安靜抵抗
+✅ 台灣無人機產業：從台中玩具飛機到藍色清單，一張入場券給了雷虎
+✅ 能預測風雨，預測不了命運：台灣與颱風的四百年
+✅ 颱風假：誰的假，誰的班
 ```
+
+**例外**（保留 stub 名）：
+
+- Hub 頁（`_*.md`）— 是 nav 不是條目
+- 系列共名（如 `台灣企業：台積電` 是 People 類「企業列傳」系列共名 + 子主題）— 副標 hook 進 description 而非 title
 
 #### Title 四原則
 

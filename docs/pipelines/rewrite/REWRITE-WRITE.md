@@ -1,11 +1,11 @@
 ---
 title: 'REWRITE-WRITE'
-description: 'Stage 2 寫作流程 canonical — 8 step + 5 自檢套件（小標題先行 / 結尾先行 / hook 物件 / 核心矛盾）'
+description: 'Stage 2 寫作流程 canonical — 8 step + 7 自檢套件（小標題 / 結尾 / 5 自檢 + title-desc spine + 媒體素材）'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v1.0'
-last_updated: 2026-05-09
-last_session: 'brave-kirch-202256'
+current_version: 'v1.1'
+last_updated: 2026-05-10
+last_session: 'sad-shockley-2150'
 parent_canonical: '../REWRITE-PIPELINE.md'
 sister_docs:
   - 'REWRITE-RESEARCH.md'
@@ -157,6 +157,66 @@ agent 在研究報告中聲稱的「XXX 背書」「XXX 公開推薦」等名人
 
 - 魏如萱「沒被認出的金曲歌后」是好的（張力）
 - Cicada「2022《棲居在溪源之上》：15 天遠征」是編年失敗
+
+### 自檢 6：Title + description spine sync（v2.21 新增 — 2026-05-10 sad-shockley）
+
+> 🔴 **特別強化**：所有 article（**含 EVOLVE focused section addition**）寫完 prose 後**必須回看 frontmatter title + description**，三題自檢：
+
+1. **冒號三明治測試** — title 是否走「主題：副標 hook」格式？單純名詞 stub（`台灣無人機產業` / `颱風` / `周杰倫`）= 百科風格，需升。對照 [EDITORIAL §Title 強制冒號三明治（所有 category）](../../editorial/EDITORIAL.md#title-強制冒號三明治所有-categoryv63) v6.3 — 不限 People，全 category 強制
+2. **副標獨立成立測試** — 冒號後一句能不能單獨 tweet 出去？讀者只看到副標也能停下來嗎？
+3. **EVOLVE spine sync 測試** — 這次 EVOLVE 加的新節核心矛盾，是否已寫進 description？舊 description 還適用嗎？description 沒吃進新核心 = SC 顯示舊 hook 但讀者點進來看到新內容 = 落差
+
+**任一答 no → 重寫 frontmatter title + description，跟 prose 同 commit**。
+
+**為什麼必須**：
+
+- recent 5/4-5/9 batch（颱風 / 颱風假 / 史瓦帝尼 / 黃魚鴞 / 林琪兒）都走「主題：副標 hook」冒號三明治
+- 但 EDITORIAL v6.2 之前 explicit 寫「People 強制」，導致 sad-shockley session EVOLVE 台灣無人機產業時漏升 title+desc → 觀察者 callout
+- canonical gap 已修補（EDITORIAL v6.3 + 本自檢條目）
+
+**對照組**：
+
+```
+❌ 台灣無人機產業（百科 stub）
+✅ 台灣無人機產業：從台中玩具飛機到藍色清單，一張入場券給了雷虎
+
+❌ 颱風（百科 stub）
+✅ 能預測風雨，預測不了命運：台灣與颱風的四百年
+
+❌ 颱風假
+✅ 颱風假：誰的假，誰的班
+```
+
+**例外**（保留 stub 名）：
+
+- Hub 頁（`_*.md`）— 是 nav
+- 系列共名（如 `台灣企業：台積電`）— 副標 hook 進 description
+
+### 自檢 7：媒體素材 spine check（v2.21 新增 — 2026-05-10 sad-shockley）
+
+> 🔴 **特別強化**：所有 article（含 EVOLVE）寫完 prose 後 grep 既有 frontmatter：
+
+```bash
+grep -E "^image:|^imageCredit|^imageLicense|^imageSource" knowledge/{Category}/{slug}.md
+ls public/article-images/{category-lower}/ | grep {slug-keyword}
+grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category}/{slug}.md
+```
+
+**三條判斷**：
+
+| 結果                                    | 處置                                                                                                                  |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 三項全有                                | 已合規，跳過                                                                                                          |
+| 三項全無（pre-gate 遺珠）               | 補跑 [REWRITE-MEDIA §1.7b 圖片素材](REWRITE-MEDIA.md) 至少 hero 1 張，append §圖片來源 section                        |
+| Hero 有但 EVOLVE 加的新節主題缺對應視覺 | 評估是否需補 inline 圖（per [REWRITE-MEDIA §4.5a 三段敘事節奏](REWRITE-MEDIA.md)），找不到 PD/CC 圖記錄邊界（不放空） |
+
+**為什麼必須**：
+
+- Stage 1.7 v2.20 hard gate 是 2026-04-28 才升，更早 ship 的 article 多為 pre-gate 遺珠
+- focused EVOLVE 加新節時容易忽略「既有 article 的媒體狀態」— 假設「上次 ship 已合規」，但 pre-gate 條目實際無 hero
+- 找不到合適 PD/CC 圖時不可放空 → 走 fair use editorial commentary scope（per [REWRITE-MEDIA §1.7b 第 6/8 點](REWRITE-MEDIA.md)）或記錄 search 邊界（如「Wikimedia 0 results」）供未來補強
+
+**觸發脈絡**：2026-05-10 sad-shockley session EVOLVE 台灣無人機產業 漏走 Stage 1.7（既有 2026-04-08 條目無 hero / 無 §圖片來源），觀察者 callout「以後 editorial / rewrite-pipeline 都要特別加強這兩個環節 要自我審視檢查」 → 升 canonical 為自檢 6+7 + EDITORIAL v6.3 全 category 擴展。
 
 ---
 

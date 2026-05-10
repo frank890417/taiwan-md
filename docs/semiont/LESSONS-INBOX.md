@@ -166,9 +166,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - 2026-05-10 sad-shockley PR #988 (EVOLVE) → PR #N (title+desc fix) 雙 PR 軌跡
 - **verification_count**: 1（首次 surface，本 session 修補）
 - **severity**: tactical-architectural（個案 fix 已完成，但跨 EVOLVE 反覆風險中等 — recent batch 5/9 颱風 + 颱風假是同 session 同時做，沒驗證 EVOLVE-only 場景是否會漏）
-- **待 distill 條件**：
-  - 若下次 EVOLVE focused section 又漏升 title+desc → 升 DNA 反射「EVOLVE 結尾 spine check」
-  - 若 EDITORIAL §Title 已被多 category 文章驗證冒號三明治，可升 v6.3 把規則從「People only」擴為「所有 category」
+- **distill 狀態**：✅ **已升 canonical（同 session sad-shockley 2150 完成）**
+  - [EDITORIAL.md v6.3](../editorial/EDITORIAL.md#title-強制冒號三明治所有-categoryv63) — §Title 強制冒號三明治從「People 強制」擴為「**所有 category 強制**」+ 例外清單（Hub / 系列共名）
+  - [REWRITE-PIPELINE.md v3.1](../pipelines/REWRITE-PIPELINE.md) — Hard Gate Inventory 加「Title+desc spine sync」+「媒體授權矩陣三表」明確標 **含 EVOLVE** + 雙條反射特別強化段
+  - [REWRITE-WRITE.md v1.1](../pipelines/rewrite/REWRITE-WRITE.md) — 自檢套件從 5 條擴為 7 條（自檢 6 title+desc spine / 自檢 7 媒體素材 spine check）
+  - [REWRITE-MODES.md v1.1](../pipelines/rewrite/REWRITE-MODES.md) — §Evolution Stage 0 加 frontmatter audit + `[STUB-TITLE]` / `[NO-MEDIA]` 標籤 + §EVOLVE 結尾必跑反射段
 
 ### 2026-05-10 twmd-maintainer-pm — 雙生 slot 第 1 day 跑通 collect-and-merge SSOT 收割者
 

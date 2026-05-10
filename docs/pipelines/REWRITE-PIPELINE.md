@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程 canonical — 6 stage flow + Hard Gate Inventory + 模式速判 + 條件路由'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v3.0'
-last_updated: 2026-05-09
-last_session: 'brave-kirch-202256'
+current_version: 'v3.1'
+last_updated: 2026-05-10
+last_session: 'sad-shockley-2150'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -64,19 +64,33 @@ upstream_canonical:
 >
 > 完整 SOP 在 [REWRITE-VERIFY.md](rewrite/REWRITE-VERIFY.md)。
 
-| Gate                       | 觸發 stage | 條件                  | 工具                                        | 不過 = ?         |
-| -------------------------- | ---------- | --------------------- | ------------------------------------------- | ---------------- |
-| 核心矛盾鎖                 | Stage 1 終 | 所有 depth            | research report frontmatter manual          | 不進 Stage 2     |
-| 研究報告落檔               | Stage 1 終 | depth ≥ 2000 字       | manual ls + frontmatter `researchReport`    | 不進 Stage 2     |
-| 媒體授權矩陣三表           | Stage 1.7  | depth + 涉及媒體      | manual append research 檔末尾               | 不進 Stage 2     |
-| 五指 + 結構 + 塑膠 + 算術  | Stage 3    | 所有 article          | quality-scan + manual                       | 不 commit        |
-| 事實鐵三角(算術/單位/引語) | Stage 3 5  | 含金額/數字/引語      | python algebra + Ctrl-F                     | 不 commit        |
-| FACTCHECK Quick/Full Mode  | Stage 3.5  | 所有 article / A 級   | FACTCHECK-PIPELINE                          | 不進 Stage 4     |
-| Format check 7 維度        | Stage 4    | 所有 article          | article-health.py --profile=rewrite-stage-4 | pre-commit hook  |
-| 多語 visual smoke          | Stage 4    | i18n 改動             | 6 步 bash                                   | revert commit    |
-| Image health               | Stage 4.5f | 涉及圖                | article-health.py --check=image-health      | 不進 Stage 5     |
-| Aspect ratio 護欄          | Stage 4.5c | 涉及圖                | check-aspect.sh                             | 換圖             |
-| Sibling 格式預檢           | Stage 5.1  | 補 reverse cross-link | article-health.py --check=format-structure  | DEFER + 開 issue |
+| Gate                       | 觸發 stage  | 條件                          | 工具                                                                                    | 不過 = ?         |
+| -------------------------- | ----------- | ----------------------------- | --------------------------------------------------------------------------------------- | ---------------- |
+| 核心矛盾鎖                 | Stage 1 終  | 所有 depth                    | research report frontmatter manual                                                      | 不進 Stage 2     |
+| 研究報告落檔               | Stage 1 終  | depth ≥ 2000 字               | manual ls + frontmatter `researchReport`                                                | 不進 Stage 2     |
+| 媒體授權矩陣三表           | Stage 1.7   | 所有 article（**含 EVOLVE**） | manual append research 檔末尾 + ls public/article-images/{cat}/                         | 不進 Stage 2     |
+| 五指 + 結構 + 塑膠 + 算術  | Stage 3     | 所有 article                  | quality-scan + manual                                                                   | 不 commit        |
+| 事實鐵三角(算術/單位/引語) | Stage 3 5   | 含金額/數字/引語              | python algebra + Ctrl-F                                                                 | 不 commit        |
+| FACTCHECK Quick/Full Mode  | Stage 3.5   | 所有 article / A 級           | FACTCHECK-PIPELINE                                                                      | 不進 Stage 4     |
+| **Title+desc spine sync**  | Stage 3 / 4 | **所有 article（含 EVOLVE）** | manual: title 冒號三明治 + desc 吃進核心矛盾（per EDITORIAL §Title 四原則 全 category） | 不 commit        |
+| Format check 7 維度        | Stage 4     | 所有 article                  | article-health.py --profile=rewrite-stage-4                                             | pre-commit hook  |
+| 多語 visual smoke          | Stage 4     | i18n 改動                     | 6 步 bash                                                                               | revert commit    |
+| Image health               | Stage 4.5f  | 涉及圖                        | article-health.py --check=image-health                                                  | 不進 Stage 5     |
+| Aspect ratio 護欄          | Stage 4.5c  | 涉及圖                        | check-aspect.sh                                                                         | 換圖             |
+| Sibling 格式預檢           | Stage 5.1   | 補 reverse cross-link         | article-health.py --check=format-structure                                              | DEFER + 開 issue |
+
+**🔴 兩條反射特別強化（v3.1，2026-05-10 sad-shockley）**：
+
+1. **Title+desc spine sync** — 所有 category（不限 People）的 EVOLVE 在 Stage 2 寫完後**必須回看 frontmatter title + description**，問三題：
+   - 標題是否走「主題：副標 hook」冒號三明治？（單純名詞 = stub，需升）
+   - 副標一句是否能單獨 tweet 出去？
+   - description 有沒有吃進這次 EVOLVE 加的新節核心矛盾？舊 description 還適用嗎？
+   - 任一答 no → 重寫 frontmatter title + description，跟 prose 同 commit
+
+2. **媒體素材 self-check** — 不論 Fresh / EVOLVE，Stage 1.7 都要跑：
+   - Fresh：完整跑 §1.7a/b/c/d/e
+   - EVOLVE：先 grep 既有條目 frontmatter `image:` 是否存在 + §圖片來源 section 是否存在 → 不存在 = pre-gate 遺珠（v2.20 hard gate 是 2026-04-28 才升，更早的條目皆需補登），補跑 §1.7b 圖片素材至少 hero 1 張
+   - 找不到 PD/CC 圖時記錄邊界（per [REWRITE-MEDIA §1.7b 第 6/8 點](rewrite/REWRITE-MEDIA.md)），不放空
 
 ## 📋 模式速判表
 

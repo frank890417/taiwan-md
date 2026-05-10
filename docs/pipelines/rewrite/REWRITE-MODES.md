@@ -3,9 +3,9 @@ title: 'REWRITE-MODES'
 description: '四模式判斷 canonical — Fresh / Evolution / Merge / Boundary variant 速判 + 路由表'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v1.0'
-last_updated: 2026-05-09
-last_session: 'brave-kirch-202256'
+current_version: 'v1.1'
+last_updated: 2026-05-10
+last_session: 'sad-shockley-2150'
 parent_canonical: '../REWRITE-PIPELINE.md'
 sister_docs:
   - 'REWRITE-RESEARCH.md'
@@ -69,12 +69,34 @@ upstream_canonical:
 核心步驟：
 
 1. **提取事實清單**：人名、年份、數字、引語、有效 URL
-2. **標記問題類型**：`[LIST-DUMP]` / `[THIN]` / `[STALE]` / `[PLASTIC]` / `[FLAT-END]`
+2. **標記問題類型**：`[LIST-DUMP]` / `[THIN]` / `[STALE]` / `[PLASTIC]` / `[FLAT-END]` / `[STUB-TITLE]`（v3.1 新增 — title 是百科名詞 stub） / `[NO-MEDIA]`（v3.1 新增 — 無 hero / 無 §圖片來源 = pre-gate 遺珠）
 3. **列出缺口**：「舊文缺什麼？Stage 1 需要補什麼研究？」
+4. **frontmatter audit（v3.1 新增）**：
+   - title 是否走「主題：副標 hook」冒號三明治？stub → 標 `[STUB-TITLE]` 進 EVOLVE scope
+   - description 是否吃進當前 EVOLVE 的新核心？舊 description 還適用嗎？沒有 → 同 commit 升級
+   - frontmatter `image:` + `imageCredit` + §圖片來源 section 是否齊全？無 → 標 `[NO-MEDIA]`，走 [REWRITE-MEDIA §1.7b](REWRITE-MEDIA.md) 補跑
 
 **⚠️ 萃取完畢後，舊文不再被參考。只看事實清單進入 Stage 1。**
 
 **然後進入 Stage 1（研究），研究範圍 = 舊文缺口 + 正常研究流程。**
+
+### EVOLVE 結尾必跑反射（v3.1，2026-05-10 sad-shockley 校準）
+
+> 🔴 **特別強化**：focused section addition 加新節後，**Stage 2 寫完 prose 不直接進 Stage 3，先跑兩條反射**。否則 prose 升級了 title+desc 還停在舊版本，spine 跟內容脫節。
+
+| 反射                      | 必跑        | 自檢                                                                                                                                                                 | 不過 = ?                                     |
+| ------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| **Title+desc spine sync** | 所有 EVOLVE | [REWRITE-WRITE 自檢 6](REWRITE-WRITE.md#自檢-6title--description-spine-syncv221-新增--2026-05-10-sad-shockley) 三題（冒號三明治 / 副標獨立 / spine sync）            | 升 frontmatter，跟 prose 同 commit           |
+| **媒體素材 self-check**   | 所有 EVOLVE | [REWRITE-WRITE 自檢 7](REWRITE-WRITE.md#自檢-7媒體素材-spine-checkv221-新增--2026-05-10-sad-shockley) 三 grep（`image:` / `public/article-images/` / `## 圖片來源`） | 補跑 [REWRITE-MEDIA §1.7b](REWRITE-MEDIA.md) |
+
+**為什麼這兩條特別放在 Evolution 模式而非 Fresh 模式**：
+
+- Fresh 模式從零開始，Stage 1.7 + Stage 4 frontmatter-format 已自然攔截
+- EVOLVE 模式假設「既有條目已合規」，容易跳過 frontmatter audit + 媒體 audit
+- 多數 pre-2026-04-28（Stage 1.7 v2.20 hard gate 升級之前）的條目都是「pre-gate 遺珠」— 無 hero / 無 §圖片來源 / title 仍 stub
+- recent 5/4-5/9 batch 觀察者反覆 callout 同問題 → DNA #15 反覆浮現要儀器化 → 升 canonical 反射
+
+**觸發脈絡**：2026-05-10 sad-shockley session EVOLVE [knowledge/Technology/台灣無人機產業.md](../../../knowledge/Technology/台灣無人機產業.md) 加 Blue UAS section 後漏升 title+desc 也漏 Stage 1.7 → PR #988 ship 後觀察者 callout「以後 editorial / rewrite-pipeline 都要特別加強這兩個環節」→ 升 canonical（EDITORIAL v6.3 + REWRITE-WRITE 自檢 6+7 + REWRITE-MODES §Evolution 反射 + REWRITE-PIPELINE Hard Gate Inventory）。
 
 ---
 
