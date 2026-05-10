@@ -11,7 +11,11 @@ const t = useTranslations(lang);
 const routesData = getMapRoutes(t);
 ---
 
-<Layout title={t('map.meta.title')} description={t('map.meta.description')}>
+<Layout
+  lang={lang}
+  title={t('map.meta.title')}
+  description={t('map.meta.description')}
+>
   <div class="map-page">
     <div
       id="mapData"

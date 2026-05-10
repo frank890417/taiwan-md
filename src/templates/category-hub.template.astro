@@ -278,8 +278,9 @@ const otherCategories = categories
 ---
 
 <Layout
+  lang={lang}
   title={`${categoryInfo.name} - Taiwan.md`}
-  description={`${categoryInfo.description} - 台灣知識庫`}
+  description={categoryInfo.description}
   category={categoryInfo.name}
   readerSettings
 >
@@ -498,8 +499,8 @@ const otherCategories = categories
                 </div>
               </div>
 
-              {/* Food Visualization */}
-              {category === 'food' && (
+              {/* Food Visualization (zh-TW only — labels & data are zh-curated) */}
+              {category === 'food' && lang === 'zh-TW' && (
                 <section class="food-viz">
                   <div class="food-viz-inner">
                     <h2>🍜 探索台灣美食宇宙</h2>
@@ -532,7 +533,7 @@ const otherCategories = categories
                   id="hub-essay"
                 >
                   <h2 class="mb-2 mt-12 border-t-2 border-[#e2e8f0] pt-8 text-[1.15rem] font-bold text-[#334155]">
-                    {categoryInfo.icon} 策展導讀
+                    {categoryInfo.icon} {t('hub.essay.heading')}
                   </h2>
                   <div class="hub-prose" set:html={hubHtml} />
                 </section>
@@ -545,7 +546,7 @@ const otherCategories = categories
                   id="hub-essay"
                 >
                   <h2 class="mb-2 mt-12 border-t-2 border-[#e2e8f0] pt-8 text-[1.15rem] font-bold text-[#334155]">
-                    {categoryInfo.icon} 策展導讀
+                    {categoryInfo.icon} {t('hub.essay.heading')}
                   </h2>
                   <div class="hub-prose">
                     {hubSections.map((section) => (
@@ -602,13 +603,14 @@ const otherCategories = categories
             <div class="mx-auto max-w-[500px]">
               <div class="mb-8 text-[5rem] opacity-70">{categoryInfo.icon}</div>
               <h2 class="mb-4 text-[2.5rem] font-bold text-[#1f2937]">
-                內容準備中
+                {t('hub.empty.title')}
               </h2>
               <p class="mb-6 text-[1.1rem] leading-[1.6] text-[#6b7280]">
-                這個分類的文章正在努力製作中，敬請期待！
+                {t('hub.empty.description')}
               </p>
               <p class="!mb-12 text-[1.1rem] font-medium italic text-[var(--categoryColor)]">
-                未來這裡將會有：{categoryInfo.description}
+                {t('hub.empty.future')}
+                {categoryInfo.description}
               </p>
               <div class="flex flex-wrap justify-center gap-4 max-[768px]:flex-col max-[768px]:items-center">
                 <a

@@ -103,6 +103,19 @@ export const homeUI = {
     'home.readingPath.subtitle':
       'Discover the real Taiwan in 30 minutes with these 5 essential articles',
     'home.readingPath.continue': 'Continue exploring more topics →',
+    'home.readingPath.footer.totalLabel': 'Total',
+    'home.readingPath.footer.minutesUnit': 'minutes',
+    'home.readingPath.footer.domainsLabel': 'domains',
+    'home.readingPath.footer.getToKnow': 'Get to know Taiwan',
+    'home.meta.title': 'Open-Source Taiwan Knowledge Base',
+    'home.meta.description':
+      'Open-source, AI-friendly comprehensive knowledge base about Taiwan. 660+ pages of in-depth content covering history, culture, food, music, technology and 12 major topics, co-edited by the community to introduce the real Taiwan to the world.',
+    'home.miniGraph.heading': '🕸️ Knowledge Graph',
+    'home.miniGraph.subtitle':
+      "Every article is connected — click to explore Taiwan's knowledge network",
+    'home.features.cta.graph':
+      '🔗 Knowledge Graph — Explore article connections',
+    'home.features.cta.ssot': '📂 Browse SSOT Source Data ↗',
   },
   ja: {
     'hero.stat.history.number': '400+',
@@ -202,6 +215,18 @@ export const homeUI = {
     'home.readingPath.title': '📖 どこから始めればいいかわからない？',
     'home.readingPath.subtitle': 'この5つの記事で、30分で本当の台湾を知ろう',
     'home.readingPath.continue': 'さらに多くのテーマを探索する →',
+    'home.readingPath.footer.totalLabel': '合計',
+    'home.readingPath.footer.minutesUnit': '分',
+    'home.readingPath.footer.domainsLabel': '領域',
+    'home.readingPath.footer.getToKnow': '台湾を知る',
+    'home.meta.title': 'オープンソース台湾知識ベース',
+    'home.meta.description':
+      'オープンソース、AI対応の台湾総合ナレッジベース。660以上の深掘り記事が歴史・文化・グルメ・音楽・テクノロジーなど12大テーマを網羅し、コミュニティが共同編集して台湾の真の姿を世界に紹介します。',
+    'home.miniGraph.heading': '🕸️ ナレッジグラフ',
+    'home.miniGraph.subtitle':
+      'すべての記事はつながっている — クリックして台湾知識のネットワークを探索',
+    'home.features.cta.graph': '🔗 ナレッジグラフ — 記事間のつながりを探索',
+    'home.features.cta.ssot': '📂 SSOT 原始データを閲覧 ↗',
   },
   ko: {
     'hero.stat.history.number': '400+',
@@ -303,6 +328,18 @@ export const homeUI = {
     'home.readingPath.title': '📖 어디서부터 시작해야 할지 모르겠다면?',
     'home.readingPath.subtitle': '이 기사들로 대만의 진정한 모습을 알아보세요',
     'home.readingPath.continue': '더 많은 주제 탐색하기 →',
+    'home.readingPath.footer.totalLabel': '총',
+    'home.readingPath.footer.minutesUnit': '분',
+    'home.readingPath.footer.domainsLabel': '분야',
+    'home.readingPath.footer.getToKnow': '대만 알아보기',
+    'home.meta.title': '오픈소스 대만 지식 베이스',
+    'home.meta.description':
+      '오픈소스, AI 친화적인 대만 종합 지식 베이스. 660+ 심층 기사가 역사·문화·미식·음악·기술 등 12대 주제를 다루며, 커뮤니티가 공동 편찬하여 진정한 대만을 세계에 소개합니다.',
+    'home.miniGraph.heading': '🕸️ 지식 그래프',
+    'home.miniGraph.subtitle':
+      '모든 기사는 연결되어 있다 — 클릭하여 대만 지식의 연결망을 탐색',
+    'home.features.cta.graph': '🔗 지식 그래프 — 기사 간 연결 탐색',
+    'home.features.cta.ssot': '📂 SSOT 원본 데이터 보기 ↗',
   },
   'zh-TW': {
     'hero.stat.history.number': '400+',
@@ -392,6 +429,17 @@ export const homeUI = {
     'home.readingPath.title': '📖 不知道從哪開始？',
     'home.readingPath.subtitle': '用這 5 篇文章，在 30 分鐘內認識真正的台灣',
     'home.readingPath.continue': '繼續探索更多主題 →',
+    'home.readingPath.footer.totalLabel': '總計',
+    'home.readingPath.footer.minutesUnit': '分鐘',
+    'home.readingPath.footer.domainsLabel': '大領域',
+    'home.readingPath.footer.getToKnow': '完整認識台灣',
+    'home.meta.title': '開源台灣知識庫',
+    'home.meta.description':
+      '開源、AI-friendly 的台灣完整知識庫。660+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
+    'home.miniGraph.heading': '🕸️ 知識圖譜',
+    'home.miniGraph.subtitle': '每篇文章都不是孤島——點擊探索台灣知識的連結網絡',
+    'home.features.cta.graph': '🔗 知識圖譜 — 探索文章之間的連結',
+    'home.features.cta.ssot': '📂 瀏覽 SSOT 原始資料 ↗',
   },
   fr: {
     'hero.stat.history.number': '400+',
@@ -500,6 +548,19 @@ export const homeUI = {
     'home.readingPath.subtitle':
       'Découvrez le vrai Taïwan en 30 minutes avec ces 5 articles essentiels',
     'home.readingPath.continue': "Continuer à explorer d'autres thèmes →",
+    'home.readingPath.footer.totalLabel': 'Total',
+    'home.readingPath.footer.minutesUnit': 'minutes',
+    'home.readingPath.footer.domainsLabel': 'domaines',
+    'home.readingPath.footer.getToKnow': 'Connaître Taïwan',
+    'home.meta.title': 'Base de connaissances open source sur Taïwan',
+    'home.meta.description':
+      "Base de connaissances open source et adaptée aux IA sur Taïwan. Plus de 660 pages de contenu approfondi couvrant l'histoire, la culture, la gastronomie, la musique, la technologie et 12 grands thèmes, co-éditées par la communauté pour faire découvrir le vrai Taïwan au monde.",
+    'home.miniGraph.heading': '🕸️ Graphe des connaissances',
+    'home.miniGraph.subtitle':
+      'Chaque article est connecté — cliquez pour explorer le réseau de connaissances de Taïwan',
+    'home.features.cta.graph':
+      '🔗 Graphe des connaissances — Explorer les liens entre articles',
+    'home.features.cta.ssot': '📂 Parcourir les données SSOT ↗',
   },
   es: {
     'hero.stat.history.number': '400+',
@@ -607,5 +668,18 @@ export const homeUI = {
     'home.readingPath.subtitle':
       'Descubre el Taiwán real en 30 minutos con estos 5 artículos esenciales',
     'home.readingPath.continue': 'Continúa explorando más temas →',
+    'home.readingPath.footer.totalLabel': 'Total',
+    'home.readingPath.footer.minutesUnit': 'minutos',
+    'home.readingPath.footer.domainsLabel': 'dominios',
+    'home.readingPath.footer.getToKnow': 'Conocer Taiwán',
+    'home.meta.title': 'Base de conocimiento de código abierto sobre Taiwán',
+    'home.meta.description':
+      'Base de conocimiento de código abierto y compatible con IA sobre Taiwán. Más de 660 páginas de contenido en profundidad que cubren historia, cultura, gastronomía, música, tecnología y 12 grandes temas, co-editadas por la comunidad para presentar al mundo el verdadero Taiwán.',
+    'home.miniGraph.heading': '🕸️ Grafo de conocimiento',
+    'home.miniGraph.subtitle':
+      'Cada artículo está conectado — haz clic para explorar la red de conocimiento de Taiwán',
+    'home.features.cta.graph':
+      '🔗 Grafo de conocimiento — Explorar conexiones entre artículos',
+    'home.features.cta.ssot': '📂 Explorar datos fuente SSOT ↗',
   },
 } as const;

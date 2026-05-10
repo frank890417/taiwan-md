@@ -214,6 +214,11 @@ export const ui = {
     'CategoryGrid.aria-explore': 'Explore',
     'CategoryGrid.aria-explore-suffix': ' ',
     'CategoryGrid.alt-category-image-suffix': 'category image',
+    'hub.essay.heading': 'Curatorial Reading',
+    'hub.empty.title': 'Content Coming Soon',
+    'hub.empty.description':
+      'Articles for this category are being prepared. Stay tuned!',
+    'hub.empty.future': 'Coming soon: ',
   },
   ja: {
     ...homeUI.ja,
@@ -397,6 +402,10 @@ export const ui = {
     'CategoryGrid.aria-explore': '探索する',
     'CategoryGrid.aria-explore-suffix': ' ',
     'CategoryGrid.alt-category-image-suffix': 'カテゴリ画像',
+    'hub.essay.heading': 'キュレーター解説',
+    'hub.empty.title': 'コンテンツ準備中',
+    'hub.empty.description': 'このカテゴリの記事を鋭意準備中です。お楽しみに！',
+    'hub.empty.future': '近日公開：',
   },
   ko: {
     ...homeUI.ko,
@@ -583,6 +592,11 @@ export const ui = {
     'CategoryGrid.aria-explore': '탐색하기',
     'CategoryGrid.aria-explore-suffix': ' ',
     'CategoryGrid.alt-category-image-suffix': '카테고리 이미지',
+    'hub.essay.heading': '큐레이터 가이드',
+    'hub.empty.title': '콘텐츠 준비 중',
+    'hub.empty.description':
+      '이 카테고리의 기사를 준비하고 있습니다. 기대해 주세요!',
+    'hub.empty.future': '곧 공개: ',
   },
   es: {
     ...homeUI.es,
@@ -775,6 +789,11 @@ export const ui = {
     'CategoryGrid.aria-explore': 'Explorar',
     'CategoryGrid.aria-explore-suffix': ' ',
     'CategoryGrid.alt-category-image-suffix': 'imagen de categoría',
+    'hub.essay.heading': 'Lectura curatorial',
+    'hub.empty.title': 'Contenido en preparación',
+    'hub.empty.description':
+      'Los artículos de esta categoría se están preparando. ¡Mantente atento!',
+    'hub.empty.future': 'Próximamente: ',
   },
   fr: {
     ...homeUI.fr,
@@ -968,6 +987,11 @@ export const ui = {
     'CategoryGrid.aria-explore': 'Explorer',
     'CategoryGrid.aria-explore-suffix': ' ',
     'CategoryGrid.alt-category-image-suffix': 'image de catégorie',
+    'hub.essay.heading': 'Lecture curatoriale',
+    'hub.empty.title': 'Contenu en préparation',
+    'hub.empty.description':
+      "Les articles de cette catégorie sont en préparation. Restez à l'écoute !",
+    'hub.empty.future': 'Bientôt : ',
   },
   'zh-TW': {
     ...homeUI['zh-TW'],
@@ -1147,5 +1171,9 @@ export const ui = {
     'CategoryGrid.aria-explore': '探索',
     'CategoryGrid.aria-explore-suffix': '主題',
     'CategoryGrid.alt-category-image-suffix': '主題相關圖片',
+    'hub.essay.heading': '策展導讀',
+    'hub.empty.title': '內容準備中',
+    'hub.empty.description': '這個分類的文章正在努力製作中，敬請期待！',
+    'hub.empty.future': '未來這裡將會有：',
   },
 } as const;

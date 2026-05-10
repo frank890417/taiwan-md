@@ -26,7 +26,11 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
 const dataCategories = getCategories(t);
 ---
 
-<Layout title={t('data.meta.title')} description={t('data.meta.description')}>
+<Layout
+  lang={lang}
+  title={t('data.meta.title')}
+  description={t('data.meta.description')}
+>
   <!--
     Phase 7.6 — data.template.astro (Tier 1, partial)
     Wrappers migrated to inline Tailwind: `.data-hub`, `.hero`,

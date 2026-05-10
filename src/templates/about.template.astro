@@ -9,7 +9,11 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 ---
 
-<Layout title={t('about.meta.title')} description={t('about.meta.description')}>
+<Layout
+  lang={lang}
+  title={t('about.meta.title')}
+  description={t('about.meta.description')}
+>
   <div class="about-page">
     <!--
       Phase 7.5 deepening — about.template.astro

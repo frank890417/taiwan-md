@@ -28,6 +28,7 @@ import ProticoScript from '../components/ProticoScript.astro';
 import { fetchRecentCommits } from '../lib/commits';
 import { feedbacks } from '../data/feedbacks';
 import { useTranslations, getLangFromUrl } from '../i18n/utils';
+import { getCategoryConfigs } from '../utils/categoryConfig';
 import matter from 'gray-matter';
 import { readFileSync, readdirSync } from 'node:fs';
 import { resolve, join, basename } from 'node:path';
@@ -43,6 +44,24 @@ const recentCommits = await fetchRecentCommits();
 // other 5 langs all share the same English hall narrative).
 const isZh = lang === 'zh-TW';
 const langUrlPrefix = isZh ? '' : `/${lang}`;
+
+// Translated category names for the d3 mini-graph (passed to inline script
+// via define:vars so the graph renders in the visitor's language).
+const categoryConfigsForGraph = getCategoryConfigs(t);
+const miniGraphCategoryNames: Record<string, string> = {
+  history: categoryConfigsForGraph.history.name,
+  geography: categoryConfigsForGraph.geography.name,
+  culture: categoryConfigsForGraph.culture.name,
+  food: categoryConfigsForGraph.food.name,
+  art: categoryConfigsForGraph.art.name,
+  music: categoryConfigsForGraph.music.name,
+  technology: categoryConfigsForGraph.technology.name,
+  nature: categoryConfigsForGraph.nature.name,
+  people: categoryConfigsForGraph.people.name,
+  society: categoryConfigsForGraph.society.name,
+  economy: categoryConfigsForGraph.economy.name,
+  lifestyle: categoryConfigsForGraph.lifestyle.name,
+};
 
 // ── Exhibition: scan A-grade articles for pick cards ──
 interface PickArticle {
@@ -158,22 +177,23 @@ const totalTime = readingPathSteps.reduce(
   0,
 );
 
-const readingPathFooterItems = isZh
-  ? [
-      { icon: '⏱️', label: `總計 ${totalTime} 分鐘` },
-      { icon: '🎯', label: `跨越 ${readingPathSteps.length} 大領域` },
-      { icon: '🌟', label: '完整認識台灣' },
-    ]
-  : [
-      { icon: '⏱️', label: `Total ${totalTime} minutes` },
-      { icon: '🎯', label: `${readingPathSteps.length} domains` },
-      { icon: '🌟', label: 'Get to know Taiwan' },
-    ];
+const readingPathFooterItems = [
+  {
+    icon: '⏱️',
+    label: `${t('home.readingPath.footer.totalLabel')} ${totalTime} ${t('home.readingPath.footer.minutesUnit')}`,
+  },
+  {
+    icon: '🎯',
+    label: `${readingPathSteps.length} ${t('home.readingPath.footer.domainsLabel')}`,
+  },
+  { icon: '🌟', label: t('home.readingPath.footer.getToKnow') },
+];
 ---
 
 <Layout
-  title="開源台灣知識庫"
-  description="開源、AI-friendly 的台灣完整知識庫。660+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。"
+  lang={lang}
+  title={t('home.meta.title')}
+  description={t('home.meta.description')}
 >
   <HeroSection />
 
@@ -182,37 +202,37 @@ const readingPathFooterItems = isZh
   <RandomDiscovery />
 
   <ReadingPath
-    title="📖 不知道從哪開始？"
-    subtitle="用這 5 篇文章，在 30 分鐘內認識真正的台灣"
+    title={t('home.readingPath.title')}
+    subtitle={t('home.readingPath.subtitle')}
     steps={readingPathSteps}
     footerItems={readingPathFooterItems}
     continueHref="#categories"
-    continueLabel="繼續探索更多主題 →"
+    continueLabel={t('home.readingPath.continue')}
   />
 
   <FeatureCards
-    lang="zh-TW"
-    sectionTitle="為什麼需要 Taiwan.md？"
+    lang={lang}
+    sectionTitle={t('home.features.title')}
     cards={[
       {
         icon: '🎯',
-        title: '策展式觀點',
-        description: '精心策展的深度敘事，不是百科全書式羅列',
+        title: t('home.features.curated.title'),
+        description: t('home.features.curated.desc'),
       },
       {
         icon: '🤖',
-        title: 'AI-Friendly 設計',
-        description: '結構化內容，讓AI也能理解台灣的複雜性',
+        title: t('home.features.ai.title'),
+        description: t('home.features.ai.desc'),
       },
       {
         icon: '🌍',
-        title: '雙語國際視野',
-        description: '從在地觀點出發，用國際語言說台灣故事',
+        title: t('home.features.bilingual.title'),
+        description: t('home.features.bilingual.desc'),
       },
       {
         icon: '📚',
-        title: '完整多面向',
-        description: '涵蓋12+領域，呈現台灣的立體完整面貌',
+        title: t('home.features.complete.title'),
+        description: t('home.features.complete.desc'),
       },
     ]}
   >
@@ -220,29 +240,31 @@ const readingPathFooterItems = isZh
       class="mt-8 flex flex-wrap justify-center gap-4 px-4 max-[480px]:flex-col max-[480px]:items-center"
     >
       <a
-        href="/graph"
+        href={`${langUrlPrefix}/graph`}
         class="inline-flex items-center gap-2 rounded-lg border-[1.5px] border-[rgba(45,80,22,0.2)] bg-[#f0fdf4] px-6 py-[0.7rem] text-[0.9rem] font-semibold text-[#2d5016] no-underline transition-all duration-[250ms] hover:-translate-y-px hover:border-[rgba(45,80,22,0.4)] hover:bg-[rgba(45,80,22,0.1)] hover:shadow-[0_2px_8px_rgba(45,80,22,0.15)]"
-        >🔗 知識圖譜 — 探索文章之間的連結</a
+        >{t('home.features.cta.graph')}</a
       >
       <a
         href="https://github.com/frank890417/taiwan-md/tree/main/knowledge"
         target="_blank"
         rel="noopener noreferrer"
         class="inline-flex items-center gap-2 rounded-lg border-[1.5px] border-[#d1d5db] bg-[#f8fafc] px-6 py-[0.7rem] text-[0.9rem] font-semibold text-[#374151] no-underline transition-all duration-[250ms] hover:-translate-y-px hover:border-[#9ca3af] hover:bg-[#f1f5f9] hover:shadow-[0_2px_8px_rgba(0,0,0,0.06)]"
-        >📂 瀏覽 SSOT 原始資料 ↗</a
+        >{t('home.features.cta.ssot')}</a
       >
     </div>
   </FeatureCards>
 
   <section class="mx-auto mb-16 max-w-[800px] px-8 max-[480px]:px-4">
     <a
-      href="/graph"
+      href={`${langUrlPrefix}/graph`}
       class="block rounded-2xl border border-[#e2e8f0] bg-[#f8fafc] p-8 no-underline transition-all duration-300 hover:border-[#2d5016] hover:shadow-[0_4px_12px_rgba(45,80,22,0.1)]"
     >
       <div class="mb-4 text-center">
-        <h3 class="mb-2 text-[1.3rem] text-[#1f2937]">🕸️ 知識圖譜</h3>
+        <h3 class="mb-2 text-[1.3rem] text-[#1f2937]">
+          {t('home.miniGraph.heading')}
+        </h3>
         <p class="text-[0.95rem] text-[#6b7280]">
-          每篇文章都不是孤島——點擊探索台灣知識的連結網絡
+          {t('home.miniGraph.subtitle')}
         </p>
       </div>
       <div id="mini-graph" class="h-[300px] w-full overflow-hidden"></div>
@@ -715,23 +737,59 @@ const readingPathFooterItems = isZh
 </Layout>
 
 <script is:inline src="https://d3js.org/d3.v7.min.js"></script>
-<script is:inline>
+<script is:inline define:vars={{ miniGraphCategoryNames }}>
   document.addEventListener('DOMContentLoaded', function () {
     const container = document.getElementById('mini-graph');
     if (container) {
       const categories = [
-        { id: 'history', name: '歷史', color: '#dc2626' },
-        { id: 'geography', name: '地理', color: '#2563eb' },
-        { id: 'culture', name: '文化', color: '#7c3aed' },
-        { id: 'food', name: '美食', color: '#ea580c' },
-        { id: 'art', name: '藝術', color: '#db2777' },
-        { id: 'music', name: '音樂', color: '#4f46e5' },
-        { id: 'technology', name: '科技', color: '#0891b2' },
-        { id: 'nature', name: '自然', color: '#16a34a' },
-        { id: 'people', name: '人物', color: '#ca8a04' },
-        { id: 'society', name: '社會', color: '#64748b' },
-        { id: 'economy', name: '經濟', color: '#0d9488' },
-        { id: 'lifestyle', name: '生活', color: '#f97316' },
+        {
+          id: 'history',
+          name: miniGraphCategoryNames.history,
+          color: '#dc2626',
+        },
+        {
+          id: 'geography',
+          name: miniGraphCategoryNames.geography,
+          color: '#2563eb',
+        },
+        {
+          id: 'culture',
+          name: miniGraphCategoryNames.culture,
+          color: '#7c3aed',
+        },
+        { id: 'food', name: miniGraphCategoryNames.food, color: '#ea580c' },
+        { id: 'art', name: miniGraphCategoryNames.art, color: '#db2777' },
+        { id: 'music', name: miniGraphCategoryNames.music, color: '#4f46e5' },
+        {
+          id: 'technology',
+          name: miniGraphCategoryNames.technology,
+          color: '#0891b2',
+        },
+        {
+          id: 'nature',
+          name: miniGraphCategoryNames.nature,
+          color: '#16a34a',
+        },
+        {
+          id: 'people',
+          name: miniGraphCategoryNames.people,
+          color: '#ca8a04',
+        },
+        {
+          id: 'society',
+          name: miniGraphCategoryNames.society,
+          color: '#64748b',
+        },
+        {
+          id: 'economy',
+          name: miniGraphCategoryNames.economy,
+          color: '#0d9488',
+        },
+        {
+          id: 'lifestyle',
+          name: miniGraphCategoryNames.lifestyle,
+          color: '#f97316',
+        },
       ];
 
       const nodes = [
