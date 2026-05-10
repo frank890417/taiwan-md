@@ -1,11 +1,11 @@
 ---
 title: 'REWRITE-PIPELINE'
-description: '文章改寫主流程 canonical — 6 stage 線性 / 模式收進 Stage 1 / 編號正規化（Stage N → Step X → 子點 N）/ ASCII 流程圖在最前 (v4.0)'
+description: '文章改寫主流程 canonical — 5 stage 線性 / 模式收進 Stage 1 / 編號正規化（Stage N → Step X → 子點 N）/ 翻譯收斂為 pointer 到巴別塔 (v4.1)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.0'
-last_updated: 2026-05-10
-last_session: 'sad-shockley-v4-refactor'
+current_version: 'v4.1'
+last_updated: 2026-05-11
+last_session: 'sad-shockley-v4.1-refactor'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -20,11 +20,13 @@ upstream_canonical:
   - '../editorial/EDITORIAL.md'
 ---
 
-# REWRITE-PIPELINE.md — 文章改寫主流程 v4
+# REWRITE-PIPELINE.md — 文章改寫主流程 v4.1
 
-> **第一性原理**：所有文章都走同一條 6-stage pipeline。模式差別只在 Stage 1 怎麼取材。Stage 2-6 完全相同。
+> **第一性原理**：所有文章都走同一條 5-stage pipeline。模式差別只在 Stage 1 怎麼取材。Stage 2-5 完全相同。
 >
-> v4 收斂回單一 canonical（合併 v3.0 拆出的 6 sub-canonical），原因見 [reports/rewrite-pipeline-refactor-v4-plan-2026-05-10.md](../../reports/rewrite-pipeline-refactor-v4-plan-2026-05-10.md)。
+> **翻譯不在本 pipeline scope**——本 pipeline 100% 預算給中文版產出。多語版本由獨立的[巴別塔 pipeline](SQUEEZE-MODELS-MAX-PIPELINE.md)負責。
+>
+> v4 收斂回單一 canonical（合併 v3.0 拆出的 6 sub-canonical），v4.1 進一步抽掉 Stage 6 翻譯（原本就是 pointer，正式收斂為「Article ship 後跨 pipeline boundary」）。原因見 [reports/rewrite-pipeline-refactor-v4-plan-2026-05-10.md](../../reports/rewrite-pipeline-refactor-v4-plan-2026-05-10.md)。
 
 ---
 
@@ -32,7 +34,7 @@ upstream_canonical:
 
 ```
 ╭──────────────────────────────────────────────────────────────────────────╮
-│                  REWRITE-PIPELINE 6 階段                                 │
+│                  REWRITE-PIPELINE 5 階段                                 │
 │                                                                          │
 │   ┌─ Stage 1: RESEARCH（預算 35-40%）                                    │
 │   │  Step A. 模式識別                                                    │
@@ -101,10 +103,12 @@ upstream_canonical:
 │   │  ─────────                                                           │
 │   │  Hard gate ↳ format-structure pass / build verify                    │
 │   ↓                                                                      │
-│   ┌─ Stage 6: TRANSLATION（可選 / 觀察者拍板）                           │
-│   │  └ 走 TRANSLATION-PIPELINE 或 SQUEEZE-MODELS-MAX-PIPELINE            │
-│   ↓                                                                      │
-│   ✅ Article shipped                                                     │
+│   ✅ Article shipped (zh-TW canonical)                                   │
+│                                                                          │
+│   ──── 翻譯（不在本 pipeline scope）────                                 │
+│   多語版本由獨立的巴別塔 pipeline 負責：                                  │
+│   → SQUEEZE-MODELS-MAX-PIPELINE.md（多語 batch sync 主流程）             │
+│   → TRANSLATION-PIPELINE.md（單篇翻譯）                                   │
 ╰──────────────────────────────────────────────────────────────────────────╯
 ```
 
@@ -120,7 +124,7 @@ upstream_canonical:
 4. **富文本被遺忘** → EDITORIAL 規範到後面沒人記得
 5. **模式混淆** → 不同切入方式應該是同一條 pipeline 的不同 entry point，不該被當成獨立 pipeline
 
-**解法**：六階段分離 + 結尾先行 + 後半段品質鎖 + Stage 2-6 統一不分模式。
+**解法**：五階段分離 + 結尾先行 + 後半段品質鎖 + Stage 2-5 統一不分模式。翻譯獨立到巴別塔 pipeline。
 
 ---
 
@@ -170,17 +174,18 @@ upstream_canonical:
 
 ## 跨檔案職責分工（pipeline + 品質基因生態系）
 
-| 檔案                                                      | 範圍                                                            |
-| --------------------------------------------------------- | --------------------------------------------------------------- |
-| **本檔**                                                  | 6 stage 線性主流程（v4 單檔，含模式判定 + 媒體生命週期 + cron） |
-| [RESEARCH.md](../editorial/RESEARCH.md)                   | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                   |
-| [EDITORIAL.md](../editorial/EDITORIAL.md)                 | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）                 |
-| [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)       | 引用規範（腳註格式、密度標準、來源品質）                        |
-| [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md) | 研究模板（Stage 1 輸出格式）                                    |
-| [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md) | 驗證清單（Stage 3 逐項檢查）                                    |
-| [TERMINOLOGY.md](../editorial/TERMINOLOGY.md)             | 用語規範（台灣在地用語標準）                                    |
-| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)            | Stage 3 Step C 觸發（事實查核完整 SOP）                         |
-| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)        | Stage 6 觸發（翻譯完整 SOP）                                    |
+| 檔案                                                             | 範圍                                                            |
+| ---------------------------------------------------------------- | --------------------------------------------------------------- |
+| **本檔**                                                         | 6 stage 線性主流程（v4 單檔，含模式判定 + 媒體生命週期 + cron） |
+| [RESEARCH.md](../editorial/RESEARCH.md)                          | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                   |
+| [EDITORIAL.md](../editorial/EDITORIAL.md)                        | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）                 |
+| [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)              | 引用規範（腳註格式、密度標準、來源品質）                        |
+| [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md)        | 研究模板（Stage 1 輸出格式）                                    |
+| [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md)        | 驗證清單（Stage 3 逐項檢查）                                    |
+| [TERMINOLOGY.md](../editorial/TERMINOLOGY.md)                    | 用語規範（台灣在地用語標準）                                    |
+| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                   | Stage 3 Step C 觸發（事實查核完整 SOP）                         |
+| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)               | 中文 ship 後跨 pipeline 觸發（單篇翻譯 SOP）                    |
+| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md) | 中文 ship 後跨 pipeline 觸發（多語 batch sync 巴別塔）          |
 
 ---
 
@@ -1355,32 +1360,30 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{sibling}.md --chec
 
 ---
 
-# Stage 6: TRANSLATION（可選）
+# 翻譯：跨 pipeline boundary 指標
 
-**Stage 5 完成後，詢問操作者**：
+> **本 Pipeline 只產中文版。100% 的 token 預算都給中文版**。翻譯**不**在本 pipeline scope，是另一條獨立 pipeline 的職責。
 
-> 「中文版已完成並推上 main。要不要現在走翻譯 pipeline 產英文版？」
+Stage 5 完成（中文版 ship）後，視觸發條件決定走哪條翻譯 pipeline：
 
-| 回答               | 動作                                                                                 |
-| ------------------ | ------------------------------------------------------------------------------------ |
-| ✅ 要              | 走 [TRANSLATION-PIPELINE](TRANSLATION-PIPELINE.md)，基於剛 commit 的中文定稿產英文版 |
-| ❌ 不要 / 之後再說 | 結束。英文版留給下一輪或其他人                                                       |
+| 觸發條件                               | 走哪條 pipeline                                                            |
+| -------------------------------------- | -------------------------------------------------------------------------- |
+| 觀察者拍板「現在翻單篇 X 語言」        | [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)                         |
+| Routine 觸發多語 batch sync（5 langs） | [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md)（巴別塔） |
+| 不翻 / 之後再說                        | 結束。中文版本身就是完整 ship 結果                                         |
 
-**翻譯流程規則**：
+**為什麼從本 pipeline 抽掉**（v4.1，2026-05-11）：
 
-- 英文版是「重寫」不是逐句翻譯
-- 事實和結構以中文定稿為準
-- 寫入 `knowledge/en/{Category}/`
-- 寫完跑 `bash scripts/core/sync.sh`
+- Stage 6 在 v4.0 是 pointer-only section（只是「詢問觀察者要不要翻 + 跳到另一檔」），不算真正的 stage
+- 抽掉後，主 pipeline 變 5 stage 線性（Stage 1-5），更乾淨
+- 翻譯有自己的觸發、預算、品質 gate（巴別塔的 priority schema P0/P1/P2/P2.5/P3 + 4-tier cascade），不該被當成 REWRITE 的尾巴
+- 對應觀察者 callout（2026-05-11 sad-shockley）：「翻譯環節可以整個抽掉，直接變指標到巴別塔 pipeline」
 
-⚠️ **這一步永遠在中文版 commit 之後。不要在 Stage 2 偷跑。**
+**REWRITE 跟翻譯 pipeline 的分工**：
 
-⚠️ **本 Pipeline 只產中文版**。英文版由獨立的翻譯流程處理：
-
-- Rewrite Pipeline 的職責 = 產出高品質**中文版**文章。句號。
-- **不要在 rewrite 過程中「順便」產英文版。** 這會分散 token 預算，導致中文品質下降
-- 英文版什麼時候產？→ 中文版 commit 後，走翻譯流程
-- **100% 的 token 預算都給中文**
+- REWRITE-PIPELINE：產 high-quality **中文版**（zh-TW canonical），到 ship 上 main 為止
+- TRANSLATION-PIPELINE：單篇 X 語言翻譯（觀察者主動觸發）
+- SQUEEZE-MODELS-MAX-PIPELINE：多語 batch sync（routine 自動跑）
 
 ---
 
@@ -1487,10 +1490,11 @@ git push
 
 ---
 
-_v4.0 | 2026-05-10 sad-shockley — 第一性原理收斂：合併 v3.0 拆出的 6 sub-canonical 回單檔。模式收進 Stage 1 Step A，編號正規化（Stage N → Step X → 子點 N）。ASCII flow diagram 在最前面。完整 refactor rationale → [reports/rewrite-pipeline-refactor-v4-plan-2026-05-10.md](../../reports/rewrite-pipeline-refactor-v4-plan-2026-05-10.md)。_
+_v4.1 | 2026-05-11 sad-shockley — 抽掉 Stage 6 翻譯（原本就是 pointer-only），改為「中文 ship 後跨 pipeline 指標到 SQUEEZE-MODELS-MAX-PIPELINE 巴別塔 / TRANSLATION-PIPELINE」。觸發：觀察者 callout「翻譯環節可以整個抽掉，直接變指標到巴別塔 pipeline」。_
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/REWRITE-PIPELINE.md`）_：
 
+- **v4.1**（2026-05-11 sad-shockley）— Stage 6 抽掉 → 巴別塔 pipeline 指標；REWRITE 變 5 stage 線性
 - **v4.0**（2026-05-10 sad-shockley）— 單檔收斂 + 模式收進 Stage 1 + 編號正規化 + ASCII diagram 在最前
 - **v3.1**（2026-05-10 sad-shockley）— Hard Gate Inventory 加 Title+desc spine sync + 媒體素材 v3.1 雙條反射；EDITORIAL §Title 從 People-only 擴為全 category
 - **v3.0**（2026-05-09 brave-kirch）— 1290 → 280 行（-78%）+ 拆 6 sub-canonical（**v4 已收斂回**）
