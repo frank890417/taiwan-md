@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-05-09T22:15:07.503Z",
+  "generatedAt": "2026-05-10T13:18:47.887Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "b62928fe04ddda8db945db8fb76334458fa57336",
+      "date": "2026-05-10T21:12:22+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] twmd-self-evolve: weekly LONGINGS-driven evolution — 2026-05-10 (#983)"
+    },
+    {
+      "hash": "c9a769348cb7f9295413a76db9acad890fc5695c",
+      "date": "2026-05-10T16:40:51+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] memory: twmd-rewrite-daily @ 2026-05-10 16:23 — 台灣無人機產業 EVOLVE Blue UAS (#989)"
+    },
+    {
+      "hash": "73db6b2ed6fe635d475ace63ac730ee55f68f515",
+      "date": "2026-05-10T16:38:03+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] twmd-rewrite: Technology/台灣無人機產業 EVOLVE — Blue UAS 與一張入場券 — 2026-05-10 (#988)"
+    },
+    {
+      "hash": "4261ca56d994076cd5ae1706e66b78dde8e0269e",
+      "date": "2026-05-10T13:17:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-05-10-131515-busy-pare — v1.7.0 release ship 收官"
+    },
+    {
+      "hash": "cf8102f579ed0a89c7ed4848116d09b3ffc29e9d",
+      "date": "2026-05-10T13:13:51+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 v1.7.0 release prep — CONSCIOUSNESS 里程碑 + MEMORY 索引 + about page 第五十四天里程碑 (#987)"
+    },
+    {
+      "hash": "2e9d62550a645b3df9b51a0358798af6119f1d72",
+      "date": "2026-05-10T12:18:47+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory + diary: gracious-blackwell-9905be 2026-05-10 finale — /explore + ROUTINE v1.1 ship 收官 (#986)"
+    },
+    {
+      "hash": "81f120ee534791730594963831ea15ba59701e55",
+      "date": "2026-05-10T12:11:15+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: ROUTINE v1.1 — maintainer 1d 2x + PR backlog SSOT 收割者 (#985)"
+    },
+    {
+      "hash": "c9d3dfcd0293867d213372f582a3dc7715a139f5",
+      "date": "2026-05-10T12:01:10+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] feat: /explore — 資料庫探索主頁（取代 #categories anchor） (#984)"
+    },
+    {
+      "hash": "cb1b63161eb1c6f20db971bd7a138e3b4651ef8b",
+      "date": "2026-05-10T11:07:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: 外語版首頁與 Hub 頁面完整 i18n — 修 #973 (#981)"
+    },
+    {
+      "hash": "94926b4330fd6fc3d3c46886c1ba26538b7a8b40",
+      "date": "2026-05-10T10:51:22+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory + diary: nice-shamir 2026-05-10 finale — DNA v4.0 整檔精實淬煉收官 (#982)"
+    },
+    {
+      "hash": "2d19a7f76ccf10e2394c1686ec3581ebd7b744fe",
+      "date": "2026-05-10T10:42:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 DNA v4.0 整檔精實淬煉 — catalog cleanup + 4 段格式 + 內部按 #N 重排 (#980)"
+    },
+    {
+      "hash": "105fb8b423cf8aa4446cd0def505574cc7aadf0d",
+      "date": "2026-05-10T10:17:49+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: distill 規則升級 — 消化後完整刪除，不留 comment pointer (#979)"
+    },
+    {
+      "hash": "3f43f02f258564c4cc1a85bfc3222fc45455a499",
+      "date": "2026-05-10T10:02:02+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] memory: twmd-distill-weekly @ 2026-05-10 09:54 (#978)"
+    },
+    {
+      "hash": "0514eb2b3371fb0ff372a2d3b522605d1900047d",
+      "date": "2026-05-10T10:00:30+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] twmd-distill: weekly LESSONS distill — 2026-05-10 (#977)"
+    },
+    {
+      "hash": "a4f15fd586b69beb4e78305d276c776d79630821",
+      "date": "2026-05-10T08:21:20+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] memory: twmd-weekly-report-sun @ 2026-05-10 08:12 (#975)"
+    },
+    {
+      "hash": "4cc87fadff5d0e020ae93ee13e8e8831f01cb966",
+      "date": "2026-05-10T08:18:33+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] report: weekly 2026-05-10 — Resend id 20ccee51 (#974)"
+    },
+    {
+      "hash": "ca0929b927dfd6d1342b590a6f1329145d4c3321",
+      "date": "2026-05-10T06:27:10+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] memory: twmd-news-lens-weekly @ 2026-05-10 06:18 (#972)"
+    },
+    {
+      "hash": "716a3fb9905b8e01f275b90fa9342e2b6cdf6e44",
+      "date": "2026-05-10T06:24:35+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] inbox: news-lens weekly — 台灣前 50 大企業 NEW P0 + Blue UAS/TRA amplification update (#971)"
+    },
+    {
+      "hash": "7906be60dae7566813f0f7bd3a381f1004b744dd",
+      "date": "2026-05-10T06:19:25+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-05-10 06:14 (#970)"
+    },
+    {
+      "hash": "4665cefe1fd34b2e66774932b1c046c1cd9b83ef",
+      "date": "2026-05-10T06:16:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] twmd-data-refresh-am: dashboard sync — 2026-05-10 06:14 (#969)"
+    },
     {
       "hash": "e6419ef8634cfc8dbf46ac42adac42ad7d919b7f",
       "date": "2026-05-09T23:54:30+08:00",

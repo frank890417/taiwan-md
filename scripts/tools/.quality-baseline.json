@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-05-09T22:15:08Z",
+  "timestamp": "2026-05-10T13:18:48Z",
   "total": 687,
-  "flagged": 466,
+  "flagged": 467,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -318,6 +318,11 @@
       "file": "economy/台灣企業：宏碁.md",
       "score": 8,
       "reasons": "僅1個URL; 空洞詞7個; 未人工審核; 連續bullet4行; 塑膠句1個; 稀薄段落×2; 無腳註"
+    },
+    {
+      "file": "technology/台灣無人機產業.md",
+      "score": 4,
+      "reasons": "未人工審核; 破折號10個; 稀薄段落×1"
     },
     {
       "file": "technology/Threads在台灣.md",

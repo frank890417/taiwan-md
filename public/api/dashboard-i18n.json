@@ -1,27 +1,27 @@
 {
-  "generated": "2026-05-09T22:15:06Z",
-  "max_total": 1965,
+  "generated": "2026-05-10T13:18:47Z",
+  "max_total": 1978,
   "modules": [
     {
       "name": "home",
       "langs": {
-        "zh-TW": 73,
-        "en": 73,
-        "ja": 73,
-        "ko": 73,
-        "fr": 73,
-        "es": 73
+        "zh-TW": 83,
+        "en": 83,
+        "ja": 83,
+        "ko": 83,
+        "fr": 83,
+        "es": 83
       }
     },
     {
       "name": "about",
       "langs": {
-        "zh-TW": 237,
-        "en": 237,
-        "ja": 237,
-        "ko": 237,
-        "fr": 237,
-        "es": 237
+        "zh-TW": 240,
+        "en": 240,
+        "ja": 240,
+        "ko": 240,
+        "fr": 240,
+        "es": 240
       }
     },
     {
@@ -136,11 +136,11 @@
     }
   ],
   "lang_totals": {
-    "zh-TW": { "keys": 1965, "coverage_pct": 100.0 },
-    "en": { "keys": 1965, "coverage_pct": 100.0 },
-    "ja": { "keys": 1965, "coverage_pct": 100.0 },
-    "ko": { "keys": 1965, "coverage_pct": 100.0 },
-    "fr": { "keys": 1965, "coverage_pct": 100.0 },
-    "es": { "keys": 1966, "coverage_pct": 100.05 }
+    "zh-TW": { "keys": 1978, "coverage_pct": 100.0 },
+    "en": { "keys": 1978, "coverage_pct": 100.0 },
+    "ja": { "keys": 1978, "coverage_pct": 100.0 },
+    "ko": { "keys": 1978, "coverage_pct": 100.0 },
+    "fr": { "keys": 1978, "coverage_pct": 100.0 },
+    "es": { "keys": 1979, "coverage_pct": 100.05 }
   }
 }
