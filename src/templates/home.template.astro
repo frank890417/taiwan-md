@@ -731,7 +731,13 @@ const readingPathFooterItems = [
 
   <NewsletterSection />
 
-  <CommunityFeedback feedbacks={feedbacks} />
+  {
+    /* CommunityFeedback testimonials are zh-language user comments about
+      Taiwan.md from the Threads launch — show only on zh-TW homepage to
+      avoid wrong-language prose on /en /ja /ko /fr /es per i18n-smoke-test
+      §B2 regression check. */
+  }
+  {isZh && <CommunityFeedback feedbacks={feedbacks} />}
 
   <ContributeSection />
 </Layout>
