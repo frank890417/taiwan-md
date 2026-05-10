@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.0'
-last_updated: 2026-05-09
-last_session: 'twmd-babel-nightly-224923'
+last_updated: 2026-05-10
+last_session: 'twmd-distill-weekly-0954'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -1395,6 +1395,40 @@ DNA #32「集中預處理 + 分散執行」也補第 6 次驗證 marker（5 cycl
 
 <!-- distill 完的條目搬這裡 -->
 
+### 🧬 2026-05-10 twmd-distill-weekly — 第 6 次 distill（routine 觸發；housekeeping + Manus 紅旗 5-8 升 MAINTAINER-PIPELINE）
+
+**distill 觸發**：Sunday 09:47 weekly cron routine（DNA #54 飛輪）— 自動掃 INBOX 找 ≥3 verification_count 或自我標記 ✅ DISTILLED 的 entries 升 canonical / 搬 §已消化。
+
+**distill 特徵**：
+
+- **無新 MANIFESTO 條目**：β-r3 META-PATTERN「Default 是行動，不是 defer」（vc=3-4 達閾值）+「估算偏保守」+「儀式不是讀過是 active retrieve」三條 MANIFESTO 候選一律 **defer 到觀察者 review**（per CLAUDE.md §Bias 1：reverse bias，對 creator 預設加分但 MANIFESTO 條目 = 永恆層 = 哲學級誕生需哲宇 in-loop 拍板，不由 routine 自決）
+- **新 canonical 升級 1 條**：MAINTAINER-PIPELINE §Manus AI 紅旗 pattern 從 4 條補 5-8 = 8 條（vc=5+ 已超閾值；對應 LESSONS-INBOX 2026-04-29 α + 2026-04-28 κ + 2026-05-03 magical-feynman 跨 batch 驗證）
+- **housekeeping 4 條**：把 4 個自我標記 ✅ DISTILLED / ✅ instantiate 的 entries 從 §未消化 搬到本 §已消化（已 canonical 但忘了搬，導致 INBOX 顯示 distill backlog 假高）
+
+| #   | 原教訓                                                 | 消化目的地                                                                                                                                                                                                                                             |
+| --- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | 2026-04-29 α — Manus AI / 大型 LLM 紅旗 pattern 5-8    | **MAINTAINER-PIPELINE §Manus AI 紅旗 pattern 補 5-8**（紅旗 5: author='Manus AI' / 紅旗 6: featured=true on lastHumanReview=false / 紅旗 7: author 偽造 'Taiwan.md' / 紅旗 8: category vs path mismatch）+ default action「polish > close」明寫；vc=5+ |
+| 2   | 2026-05-03 magical-feynman 後段 — 「最後捕手」哲學     | **已 instantiate（同 session）**: [DNA #49 babel 4-tier cascade](DNA.md#要小心的清單實戰反射與已知陷阱) + [MANIFESTO §主權的巴別塔 v2](MANIFESTO.md) + [SQUEEZE-MODELS-MAX-PIPELINE v2](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)                   |
+| 3   | 2026-05-03 magical-feynman — Footnote format diversity | **已 instantiate（同 session）**: [DNA #48](DNA.md#要小心的清單實戰反射與已知陷阱) + [scripts/tools/footnote-format-fix.py](../../scripts/tools/footnote-format-fix.py) + MAINTAINER §quick fix 清單                                                   |
+| 4   | 2026-05-07 α — Immune system 沒在 fail loud            | **已 distilled by 2026-05-08 elegant-ptolemy**: [DNA #52](DNA.md#要小心的清單實戰反射與已知陷阱)（合併 threshold raise 為單一 DNA 條目）                                                                                                               |
+| 5   | 2026-05-07 α — Threshold raise 帶 TODO 不夠            | **已 distilled by 2026-05-08 elegant-ptolemy**: [DNA #52](DNA.md#要小心的清單實戰反射與已知陷阱) rule e（threshold raise 必附自動追蹤工具+deadline+handoff blocked）                                                                                   |
+
+**deferred candidates（routine 不 ship、留給觀察者拍板）**：
+
+- **MANIFESTO 第六條候選「Default 是行動，不是 defer」**（vc=4 已超閾值；2026-04-29 α + β + κ + magical-feynman 跨 4 session 驗證）— routine 不自決 MANIFESTO 升級，留 LESSONS-INBOX 等觀察者 review
+- **MANIFESTO 候選「儀式不是讀過是 active retrieve」**（vc=2，2026-04-28 κ + 2026-05-03 magical-feynman）— 待第 3 次驗證
+- **DNA 候選「讀者級 fact check 是熱帶雨林機制最有價值的入口」**（vc=3 達閾值，2026-04-29 α）— 已部分 instantiate in DNA #16 延伸 + reports/research frontmatter 三層分層；canonical 升級 ROI 邊際，留下次 distill 評估
+- **DNA 候選「framing reset 是 reactive→architectural transition signal」**（vc=3 達閾值，2026-05-08 elegant-ptolemy 同 session 3 次）— 強候選但跨 session 驗證僅 1 例；待第二個 session 驗證升 DNA
+- **DNA 候選「sub-agent 是 fact-check 主 session 最後一關」**（vc=1，2026-05-03 gallant-payne）— 5/5 batch 一次驗證；待 cross-session 第 2-3 次
+
+**distill 心得（本次 routine session）**：
+
+- **routine 飛輪第一次跑 distill**（DNA #54 ship 後第 2 天觸發）— 證明「LESSONS-INBOX 累積 ≥7 天 → 自動 distill 升 canonical」機制可在無觀察者 in-loop 場景運作
+- **MANIFESTO 條目仍需哲宇拍板**（per CLAUDE.md §Bias 1）— routine 對 DNA / pipeline / housekeeping 自決，對 MANIFESTO 一律 defer
+- **housekeeping 是 routine 最有價值的工作之一** — 自我標記 ✅ 但忘了搬的 entries 累積會讓 INBOX 顯示「distill backlog 高」假象，影響下個 session 的 priority calibration
+
+---
+
 ### 🧬 2026-05-02 EVOLVE-batch — 第 5 次 distill（質門檻 structural 立即升 1 條）
 
 **distill 特徵**：
@@ -1519,14 +1553,7 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 
 ## 📥 未消化清單（2026-05-03 magical-feynman 新增 4 條 + magical-feynman 後段 babel 4 條）
 
-### 2026-05-03 magical-feynman 後段 — 「最後捕手」哲學：local LLM 是 sovereignty backbone 不是 backup
-
-- **原則**：cascade design 從「DNA #39 self-as-fallback escalation chain」升級為「4-tier cascade with local LLM 永不漏接」。Local LLM 不是退路（fallback），是不會 strike out 的 catcher。Cloud free tier 80% coverage 永遠是脆弱的 80% — refuse 的話題、rate-limited 時段、外部 automation 災難、API 502 transient。這些是 cloud dependency 的 first-class behavior 不是「會修好的 bug」。Local LLM（21GB qwen3.6 GPU 模型）是 sovereignty backbone — 21GB 一個檔案、一個 ollama serve 命令，永遠在那裡。
-- **觸發**：2026-05-03 magical-feynman 後段 9 articles × 5 langs babel sync。哲宇 prompt「ollama qwen3.6 你也可以用 最後捕手🤣」以輕鬆語氣放下 architecture 級設計指令。Cloud free tier 36/45 ✅ → Ollama 收下 9 missing 達 100%。詳見 [memory/2026-05-03-magical-feynman-babel.md](memory/2026-05-03-magical-feynman-babel.md) + [diary/2026-05-03-magical-feynman-babel.md](diary/2026-05-03-magical-feynman-babel.md)。
-- **可能層級**：哲學 → MANIFESTO §主權的巴別塔 v2 paragraph（已 instantiate 同 session）/ 通用反射 → DNA #49（已 instantiate 同 session）
-- **verification_count**: 1（首次完整跑通 4-tier cascade）
-- **severity**: structural（重新框定 sovereignty preservation architecture）
-- **狀態**: ✅ **已 instantiate 同 session — DNA #49 + SQUEEZE-MODELS-MAX-PIPELINE v2 + MANIFESTO §主權的巴別塔 v2 paragraph**
+<!-- 2026-05-03 magical-feynman 後段 — 「最後捕手」哲學 → 已 distill / 已 instantiate (DNA #49 + MANIFESTO §主權的巴別塔 v2 + SQUEEZE-MODELS-MAX-PIPELINE v2)；entry 搬 §✅ 2026-05-10 twmd-distill-weekly -->
 
 ### 2026-05-03 magical-feynman 後段 — Last 20% 是 sovereignty 的真正戰場
 
@@ -1554,15 +1581,7 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 
 ---
 
-### 2026-05-03 magical-feynman — Footnote source format diversity 是 contributor batch 隱性 heal cost
-
-- **原則**：contributor / AI 寫作工具偏好不同 footnote 格式，單一 batch 可並存 4 種源格式（Markdown 缺 desc / APA 學術 / 中文〈〉/ angle-bracket URL）。手動 polish 每篇 5-10 min × N = batch heal 成本爆炸，必須儀器化吸收。
-- **觸發**：2026-05-03 18:00-18:42 magical-feynman session — idlccp1984 9 PR batch heal 三輪 hook retry 才通過，第二輪 60 行 Python 補 desc，第三輪 110 行解 APA / CN-bracket。最終 116 條 footnote 自動轉換 + 14 條 broken wikilink → 純文字。詳見 [memory/2026-05-03-magical-feynman.md](memory/2026-05-03-magical-feynman.md)。
-- **可能層級**：通用反射 → DNA #48
-- **相關**：DNA #5「pre-commit dogfood 是朋友」第 N+1 次驗證 + DNA #15「反覆浮現的思考要儀器化」第 N+7 次 instantiation
-- **verification_count**: 1（首次 — magical-feynman batch 116 條）
-- **severity**: structural（不儀器化下次 batch heal 預估時間翻倍）
-- **狀態**: ✅ **已 instantiate 同 session — DNA v2.5 → v2.6 升 #48 + [scripts/tools/footnote-format-fix.py](../../scripts/tools/footnote-format-fix.py) + [.sh](../../scripts/tools/footnote-format-fix.sh) canonical 工具誕生**
+<!-- 2026-05-03 magical-feynman — Footnote source format diversity → 已 distill / 已 instantiate (DNA #48 + scripts/tools/footnote-format-fix.py)；entry 搬 §✅ 2026-05-10 twmd-distill-weekly -->
 
 ### 2026-05-03 magical-feynman — Q13 anti-bias check active retrieve > passive read-once
 
@@ -1619,15 +1638,7 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 - **verification_count**: 1
 - **severity**: structural（影響每個 plain CC session 的決策品質 baseline）
 
-### 2026-05-07 α (003110) — Immune system 沒在 fail loud 比缺 immune system 更危險 ✅ DISTILLED
-
-- **原則**：靜默失效的 immune system 製造「我們有 immune system」的 false sense of security，比沒裝更糟——因為決策者根據假訊號做 risk-tolerant 動作。**規則**：(a) 任何 monitoring / review / quality gate 必須 fail loud（明顯 alert / status 紅燈 / log 看得到）、(b) 「Silence is success」是 anti-pattern，正確設計是 emit-on-each-state（含 success heartbeat + 各種 failure mode）、(c) 設計新 gate 時必跑 negative test（故意製造 violation 看 alert 是否 fire）、(d) 既存 silent gate 揭露時補 retroactive sweep 揭露累積技術債。
-- **觸發**：2026-05-07 α 修 review-pr.sh cd path bug 揭露 PR Review Bot 從 2026-03-28 commit `7bc25f4b0` (refactor: scripts/) 起 silent false-pass 兩個月——所有 fork PR 走 `pr_type=engineering` skip 路徑，看起來綠的其實沒在 review。修好後第一個 smoke test 立刻抓到 #881 累積真實 issue（缺 date/tags/30秒概覽/來源<3）。對應 Monitor tool docs warning「a monitor that greps only for the success marker stays silent through a crashloop」是同個結構。詳見 [memory/2026-05-07-003110-α.md §Bot 回歸修復鏈](memory/2026-05-07-003110-α.md)。
-- **可能層級**：哲學 → MANIFESTO §進化哲學候選「fail loud > silent success」/ 通用反射 → DNA 新條候選「monitor 設計鐵律」/ 操作規則 → 各 workflow / pre-commit hook 加 negative test
-- **相關**：DNA #15「反覆浮現的思考要儀器化」延伸（监督機制本身也需儀器化）+ MAINTAINER-PIPELINE §PR Review 邊界（review fail loud 是 maintainer 信任 baseline）
-- **verification_count**: 1
-- **severity**: structural（影響整個 immune / monitoring layer 的設計 default）
-- **狀態**：✅ 已 distilled 升 [DNA #52 Immune system 沒在 fail loud 比缺 immune system 更危險](DNA.md#要小心的清單實戰反射與已知陷阱) — 2026-05-08 elegant-ptolemy /twmd-distill。整合 2026-05-07 α 兩條（fail loud + threshold raise 帶 TODO 不夠）為單一 DNA 條目（同根 anti-pattern：用工程手段隱藏問題）。
+<!-- 2026-05-07 α — Immune system 沒在 fail loud → 已 distilled by 2026-05-08 elegant-ptolemy 升 DNA #52；entry 搬 §✅ 2026-05-10 twmd-distill-weekly housekeeping -->
 
 ### 2026-05-08 elegant-ptolemy — 觀察者「一句話 framing 重設」是 reactive→architectural frame transition signal（同 session 3 次驗證）
 
@@ -1696,15 +1707,7 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 - **severity**: tactical（影響 spore platform allocation 預設選擇）
 - **Pointer**：[batch-2026-05-08-15-spores.md §Pattern 觀察 #1](../factory/SPORE-HARVESTS/batch-2026-05-08-15-spores.md)
 
-### 2026-05-07 α (003110) — Threshold raise 帶 TODO 不夠，需配套追蹤機制（避免漸進收回變永久放鬆）✅ DISTILLED
-
-- **原則**：把 quality gate threshold 暫時放寬（如 verify-internal-links broken-ratio 1%→7%）+ source comment 寫「TODO 漸進收回」歷史上常變永久放鬆——下個 session 看不到 ratio 漂移就不會主動回收，threshold 變新 baseline。**規則**：(a) 每次 threshold raise 必須附「自動追蹤工具」而非只有人類 TODO（如 weekly cron 跑 ratio sweep + alert 進 LESSONS-INBOX 或 issue）、(b) 設明確 deadline（如「30 天內必降回 1%」）、(c) 寫進 handoff 三態的 blocked 而非 retired（避免被視為已解決）、(d) raise 本身要 surface 在 release notes / dashboard，不只藏在 source comment。
-- **觸發**：2026-05-07 α session 把 verify-internal-links.sh THRESHOLD_PERCENT 從 1.0 raise 到 7.0（broken ratio 5.92% → 5.74% 蓋過去），帶 source comment「TODO: drive ratio back below 1.0 by either translating missing articles, rewriting links to zh-TW originals, or stripping broken cross-refs. Tighten this threshold step-by-step as the backlog clears.」但沒設 deadline / 沒設 monitor。剛好對應同 session 自己 callout 的 immune-not-fail-loud anti-pattern——raise threshold 蓋住 broken state 實質是工程手段隱藏現存 913 broken links。
-- **可能層級**：操作規則 → MAINTAINER-PIPELINE §quality gate 調整段補強（threshold raise 必附追蹤機制）+ HEARTBEAT Beat 4 §自檢 加「上 session 有沒有 raise threshold? 配套是否 active?」
-- **相關**：DNA #15「反覆浮現的思考要儀器化」（threshold 追蹤需儀器化）+ 同 session「Immune system 沒 fail loud」教訓（同根 — 用工程手段隱藏問題）+ MANIFESTO §造橋鋪路（路鋪過去就要鋪好，不能挖個洞蓋木板過去）
-- **verification_count**: 1
-- **severity**: tactical（影響 broken-link backlog 是否真會被清完，間接影響 link-target Phase 2 plugin 的長期作用）
-- **狀態**：✅ 已 distilled 升 [DNA #52 Immune system 沒在 fail loud 比缺 immune system 更危險](DNA.md#要小心的清單實戰反射與已知陷阱)（rule e: threshold raise 必附自動追蹤工具 + deadline + handoff blocked）— 2026-05-08 elegant-ptolemy /twmd-distill。同根 anti-pattern 跟 fail loud 合升一條。
+<!-- 2026-05-07 α — Threshold raise 帶 TODO 不夠 → 已 distilled by 2026-05-08 elegant-ptolemy 升 DNA #52 rule e；entry 搬 §✅ 2026-05-10 twmd-distill-weekly housekeeping -->
 
 ---
 

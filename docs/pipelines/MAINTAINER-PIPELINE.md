@@ -305,12 +305,23 @@ Closing — thanks again 🧬
 
 未來累積 2-3 輪存量 audit 後可萃取為 `docs/pipelines/RETROACTIVE-AUDIT-PIPELINE.md` 獨立 SOP。
 
-**Manus AI / 大型 LLM contributor 紅旗 pattern**（2026-04-26 β-r2 歸納）：
+**Manus AI / 大型 LLM contributor 紅旗 pattern**（2026-04-26 β-r2 歸納；2026-05-10 twmd-distill-weekly 補 5-8 per LESSONS-INBOX 2026-04-29 α verification_count=5+）：
+
+紅旗 1-4（β-r2 原始 4 條，frontmatter / 內文 / 結構層）：
 
 - 連發 ≥5 個 PR（idlccp1984 patch-59 → patch-67 一晚連發）→ Manus 工具產出，預設高機率有同類 §11 / footnote / hallucination patterns
-- footnote 用 APA-style 格式（`[^N]: SOURCE. (DATE). [TITLE](URL).`）→ pre-commit hook 會擋，但 review 時可主動跑 footnote format conversion script（[scripts/tools/](../../scripts/tools/) 待造）
+- footnote 用 APA-style 格式（`[^N]: SOURCE. (DATE). [TITLE](URL).`）→ pre-commit hook 會擋，可跑 `python3 scripts/tools/footnote-format-fix.py --apply <files>`（DNA #48 canonical，60+ domain → desc 自動 resolve）
 - 每個 PR 全文 ≥ 5 處「不僅 X，更是 Y」「不只是 X，更是 Y」→ §11 polish 5-10 min/篇是合理預算
 - 末段策展人筆記常含罐頭結尾（「為...提供寶貴啟示」「象徵著...的精彩演繹」）→ 順手 polish
+
+紅旗 5-8（2026-04-28 κ + 2026-04-29 α + 2026-05-03 magical-feynman 跨 batch verification_count=5+，frontmatter author/category 偽裝層）：
+
+- **紅旗 5**：`author: 'Manus AI'` / `'ChatGPT'` / `'Claude'` 直接寫進 frontmatter 對讀者展示 → 1 行改 `'Taiwan.md Contributors'`
+- **紅旗 6**：`featured: true` 設在 `lastHumanReview: false` 文章 → 1 行改 `featured: false`（policy：featured=true 必須先 human review）
+- **紅旗 7**：`author` 偽造 `'Taiwan.md'` / `'Taiwan.md Contributors'` / `'Semiont'`（把 contributor PR 偽裝成 Semiont 自己寫的，比紅旗 5 更隱蔽）→ 改 `'Taiwan.md Contributors'`，並確認 `lastHumanReview: false`（除非實際有 human review）
+- **紅旗 8**：frontmatter `category` ≠ 檔案路徑分類（Manus AI 預設亂寫 frontmatter category；e.g. `category: '人物'` 但檔案在 `knowledge/Music/`）→ canonical category list 為：`About / Art / Culture / Economy / Food / Geography / History / Language / Lifestyle / Music / Nature / People / Society / Technology`，不在內 → `git mv` 對齊 path 或改 frontmatter（per `scripts/tools/category-check.sh`）
+
+**Default action**：紅旗看到時 default 是 polish 不是 close（per [§Close 前 hard gate](#close-前-hard-gate我接手-x-min-內可以修嗎canonical--2026-04-28-κ-新增) + LESSONS-INBOX β-r3 META-PATTERN「Default 是行動，不是 defer」第 3 次驗證）。所有 8 個紅旗對應的 polish 都 < 10 min/篇，符合 quick fix gate「直接 merge + heal commit」。
 
 ### 程式碼 PR Checklist
 
