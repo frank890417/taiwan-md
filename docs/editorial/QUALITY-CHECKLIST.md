@@ -14,7 +14,7 @@ sister_docs:
 upstream_canonical:
   - 'EDITORIAL.md'
   - '../pipelines/REWRITE-PIPELINE.md'
-  - '../pipelines/rewrite/REWRITE-VERIFY.md'
+  - '../pipelines/REWRITE-PIPELINE.md'
 ---
 
 # QUALITY-CHECKLIST.md — 文章品質驗證清單

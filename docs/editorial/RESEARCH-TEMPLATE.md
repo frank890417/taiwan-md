@@ -12,7 +12,7 @@ sister_docs:
   - 'CITATION-GUIDE.md'
 upstream_canonical:
   - 'RESEARCH.md'
-  - '../pipelines/rewrite/REWRITE-RESEARCH.md'
+  - '../pipelines/REWRITE-PIPELINE.md'
 ---
 
 # RESEARCH-TEMPLATE.md — 前期研究筆記模板

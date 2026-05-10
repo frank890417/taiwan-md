@@ -12,7 +12,7 @@ sister_docs:
   - 'RESEARCH-TEMPLATE.md'
 upstream_canonical:
   - 'EDITORIAL.md'
-  - '../pipelines/rewrite/REWRITE-RESEARCH.md'
+  - '../pipelines/REWRITE-PIPELINE.md'
   - '../pipelines/FACTCHECK-PIPELINE.md'
 ---
 
