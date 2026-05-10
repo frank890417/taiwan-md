@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T13:18:48.949Z",
+  "lastUpdated": "2026-05-10T22:15:28.369Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,9 +10,9 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 685,
+      "total": 686,
       "percentage": 100,
-      "fresh": 685,
+      "fresh": 686,
       "stale": 0,
       "missing": 0,
       "deficit": 0
@@ -498,41 +498,41 @@
       }
     },
     "society": {
-      "zh-TW": 71,
+      "zh-TW": 72,
       "en": {
         "count": 70,
         "fresh": 55,
         "stale": 15,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       },
       "ja": {
         "count": 70,
         "fresh": 54,
         "stale": 16,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       },
       "ko": {
         "count": 70,
         "fresh": 55,
         "stale": 15,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       },
       "es": {
         "count": 70,
         "fresh": 54,
         "stale": 16,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       },
       "fr": {
         "count": 70,
         "fresh": 54,
         "stale": 16,
         "missing": 0,
-        "deficit": 1
+        "deficit": 2
       }
     },
     "technology": {
@@ -576,22 +576,27 @@
   },
   "missing": {
     "en": [
+      "Society/醫療法：機構規範與市場拉扯的四十年.md",
       "Society/颱風假：誰的假，誰的班.md",
       "Technology/半導體產業.md"
     ],
     "ja": [
+      "Society/醫療法：機構規範與市場拉扯的四十年.md",
       "Society/颱風假：誰的假，誰的班.md",
       "Culture/斗笠：龍肚國中旁那對夫妻，把六十年的桂竹編進一頂帽子裡.md",
       "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md"
     ],
     "ko": [
+      "Society/醫療法：機構規範與市場拉扯的四十年.md",
       "Society/颱風假：誰的假，誰的班.md"
     ],
     "es": [
+      "Society/醫療法：機構規範與市場拉扯的四十年.md",
       "Society/颱風假：誰的假，誰的班.md",
       "Culture/斗笠：龍肚國中旁那對夫妻，把六十年的桂竹編進一頂帽子裡.md"
     ],
     "fr": [
+      "Society/醫療法：機構規範與市場拉扯的四十年.md",
       "Society/颱風假：誰的假，誰的班.md"
     ]
   },

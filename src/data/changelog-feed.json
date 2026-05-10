@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-05-10T13:18:47.887Z",
+  "generatedAt": "2026-05-10T22:15:27.255Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "9c91f36578f18f61f12df66c0ceb4fd2e264833d",
+      "date": "2026-05-11T00:12:43+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: 醫療法 補 Stage 4/5 漏跑 + REWRITE-PIPELINE v4.0 → v4.1 抽掉 Stage 6 (#1004)"
+    },
+    {
+      "hash": "fdf5c7782e2853d666dad7b5c8f4ecd0bb2f474d",
+      "date": "2026-05-11T00:04:57+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] rewrite: 醫療法 (Society) — 機構規範與市場拉扯的四十年 (Fresh, v4 first article) (#1003)"
+    },
+    {
+      "hash": "2e0ee42d3b7312cf02ecb307b1ca1e2e30d4429e",
+      "date": "2026-05-10T23:43:56+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] babel: 台灣無人機產業 P1 sync × 5 langs (Tier 1 owl-alpha) — 2026-05-10 22:55 (#1000)"
+    },
+    {
+      "hash": "919ed5844ef991dbf560cf83f981521ae153eb4d",
+      "date": "2026-05-10T23:41:12+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory + diary: sad-shockley 收官 — 7hr observer-driven cascade + REWRITE v4 收斂 (#1002)"
+    },
+    {
+      "hash": "86a7aa376821329d10c494c48f9c1ce7023fbb38",
+      "date": "2026-05-10T23:38:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: REWRITE-PIPELINE v3.1 → v4.0 — 第一性原理收斂單檔 + 模式收進 Stage 1 (#1001)"
+    },
+    {
+      "hash": "f645075b183287cd4e38bf9a936c9927205250c4",
+      "date": "2026-05-10T22:57:15+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] doc: REWRITE-PIPELINE v4 refactor plan report (analysis only, refactor 待 approve) (#999)"
+    },
+    {
+      "hash": "8f0b0bebf7d016b4648db50826a1dd9723477a99",
+      "date": "2026-05-10T22:43:42+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] spore-prep: #70/#71 台灣無人機產業 — 雷虎弧線 + 規模反差雙 reveal (Angle A 觀察者拍板) (#997)"
+    },
+    {
+      "hash": "bb1826d4be6bf315384c443fc282ef56c94e7a22",
+      "date": "2026-05-10T22:28:53+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: 台灣無人機產業 EVOLVE 後半部 + word-count plugin + prose-health 加 line/前後文 (#996)"
+    },
+    {
+      "hash": "3e53281a841f32d4d4f0fdbe29cac787cccb7a6b",
+      "date": "2026-05-10T22:06:04+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: distill SOP v2.1 → v2.2 — routine vs observer 分流 + housekeeping-first sweep + cross-routine hot signal (#995)"
+    },
+    {
+      "hash": "6ce3c75ae2e90f29197c5d746fc1e7f658e3b449",
+      "date": "2026-05-10T21:49:44+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] rewrite: 台灣無人機產業 title+desc 升級 + Stage 1.7/4.5 媒體素材補登 + LESSONS canonical gap (#994)"
+    },
+    {
+      "hash": "65a178d015f8b16a79cf51260174b72cde58b318",
+      "date": "2026-05-10T21:24:01+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-pm @ 2026-05-10 18:12 (#992)"
+    },
+    {
+      "hash": "43c0b6c11235136622c71f1e03d18376e0a0e859",
+      "date": "2026-05-10T21:20:09+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] memory: twmd-maintainer-pm @ 2026-05-10 21:13 (#990)"
+    },
+    {
+      "hash": "6dd4142d553d9a6dd58eb8f5717899243aec8a03",
+      "date": "2026-05-10T21:20:07+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] twmd-data-refresh-pm: dashboard sync — 2026-05-10 18:12 (#991)"
+    },
     {
       "hash": "b62928fe04ddda8db945db8fb76334458fa57336",
       "date": "2026-05-10T21:12:22+08:00",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T13:18:48.949Z",
+  "lastUpdated": "2026-05-10T22:15:28.369Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 86,
-        "articlesLast30Days": 322,
-        "totalArticles": 685
+        "articlesLast7Days": 90,
+        "articlesLast30Days": 323,
+        "totalArticles": 686
       }
     },
     {
@@ -25,7 +25,7 @@
       "trend": "stable",
       "metrics": {
         "humanReviewedCount": 138,
-        "totalArticles": 685,
+        "totalArticles": 686,
         "humanReviewedPercent": 20.1
       }
     },
@@ -38,7 +38,7 @@
       "score": 95,
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-05-09T15:36:51.000Z"
+        "editorialLastModified": "2026-05-10T13:49:44.000Z"
       }
     },
     {
@@ -73,7 +73,7 @@
       "trend": "up",
       "metrics": {
         "recentContributors": 18,
-        "recentSpores": 23,
+        "recentSpores": 25,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 153428,
         "hasBlockbuster": true
@@ -98,18 +98,18 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 94,
+      "score": 93,
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 685,
+          "zh-TW": 686,
           "en": 705,
           "ja": 698,
           "ko": 692,
           "es": 683,
           "fr": 709
         },
-        "translationPct": 94,
+        "translationPct": 93,
         "langHealthDetails": {
           "en": {
             "ui": {
@@ -207,9 +207,9 @@
             },
             "articles": {
               "count": 709,
-              "pct": 104
+              "pct": 103
             },
-            "score": 87
+            "score": 86
           }
         }
       }

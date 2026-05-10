@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-05-10T13:18:48Z",
-  "total": 687,
-  "flagged": 467,
+  "timestamp": "2026-05-10T22:15:28Z",
+  "total": 688,
+  "flagged": 468,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -322,7 +322,7 @@
     {
       "file": "technology/台灣無人機產業.md",
       "score": 4,
-      "reasons": "未人工審核; 破折號10個; 稀薄段落×1"
+      "reasons": "未人工審核; 破折號20個"
     },
     {
       "file": "technology/Threads在台灣.md",
@@ -357,7 +357,7 @@
     {
       "file": "technology/台灣災難醫療體系.md",
       "score": 11,
-      "reasons": "年份僅0個; 未人工審核; 塑膠句6個; 後段清單堆砌56%; 稀薄段落×1"
+      "reasons": "年份僅0個; 未人工審核; 塑膠句6個; 後段清單堆砌58%; 稀薄段落×1"
     },
     {
       "file": "technology/電子商務與數位支付生態系.md",
@@ -775,6 +775,11 @@
       "reasons": "未人工審核; 連續bullet5行; 塑膠句2個; 後段清單堆砌71%; 稀薄段落×8; 引用荒漠(零腳註)"
     },
     {
+      "file": "society/醫療法.md",
+      "score": 6,
+      "reasons": "未人工審核; 連續bullet6行; 破折號18個"
+    },
+    {
       "file": "society/教育制度與升學文化.md",
       "score": 11,
       "reasons": "年份僅0個; 空洞詞9個; 未人工審核; 連續bullet4行; 塑膠句1個; 稀薄段落×15; 無腳註"
@@ -932,7 +937,7 @@
     {
       "file": "society/台灣再生醫療雙法沿革從業人員告白.md",
       "score": 5,
-      "reasons": "未人工審核; 破折號7個; 後段清單堆砌31%; 稀薄段落×1"
+      "reasons": "未人工審核; 破折號7個; 後段清單堆砌33%; 稀薄段落×1"
     },
     {
       "file": "about/緣起故事.md",

@@ -4873,12 +4873,12 @@
     "path": "ja/Society/taiwan-tin-shed-houses.md"
   },
   {
-    "title": "台湾のドローン産業",
-    "description": "2025年9月、雷虎科技（サンダータイガー）の自爆型ドローン「Overkill」が、米国防総省のブルーリスト認証を通過した台湾初のドローンとなりました。40年間ラジコン模型飛行機を製造してきた台中の企業が、ペンタゴンの調達リストに名を連ねることになりました。",
+    "title": "台湾のドローン産業：台中の玩具飛行機からブルーリストへ、一枚の入場券が雷虎に与えられた",
+    "description": "2025年9月21日、雷虎科技（Thunder Tiger）のOverkill FPV自爆型ドローンが、米国防総省のブルーUASクリアリスト（Blue UAS Cleared List）認証を取得した——台湾初、そして2026年初頭時点で唯一の企業である。リスト全体には39の機体プラットフォームと165のコンポーネントが掲載されており、台湾が占めるのはそのうちの1枠に過ぎない。2026年4月、米国超党派の4名の上院議員が共同で「台湾のための青空法（Blue Skies for Taiwan Act）」を提案し、台湾企業向けのファストトラックの設立を求めた。法案の存在自体が一つの事実を浮き彫りにしている——台湾の参入が遅すぎるため、米国自らが法整備によって障壁を下げざるを得ない状況である。台中で46年間リモコン玩具飛行機を作り続けてきた企業が、オハイオ州に第二工場を建設する計画を進めている。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/Technology/taiwan-drone-industry",
-    "readingTime": 19,
+    "readingTime": 55,
     "featured": false,
     "date": "2026-04-08",
     "path": "ja/Technology/taiwan-drone-industry.md"
@@ -7628,8 +7628,8 @@
     "path": "History/台灣森林開發史.md"
   },
   {
-    "title": "台灣無人機產業",
-    "description": "2025 年 9 月，雷虎科技的自殺式無人機「Overkill」成為第一架通過美國國防部藍色清單認證的台灣無人機。一家做了四十年遙控玩具飛機的台中公司，飛進了五角大廈的採購清單。",
+    "title": "台灣無人機產業：從台中玩具飛機到藍色清單，一張入場券給了雷虎",
+    "description": "2025 年 9 月 21 日，雷虎科技的 Overkill FPV 自殺無人機通過美國國防部藍色清單（Blue UAS Cleared List）認證——台灣第一家，也是截至目前唯一一家。整份清單上 39 個整機平台、165 個元件，台灣只佔其中一個位子。2026 年 4 月四位美國跨黨派參議員共同提案《Blue Skies for Taiwan Act》要求建立台灣廠商快速通道；法案存在本身揭露一件事：台灣進得太慢，連美國自己都得立法降門檻。一家在台中做了四十六年遙控玩具飛機的公司，正計畫在俄亥俄州蓋第二座工廠。",
     "category": "Technology",
     "tags": [
       "無人機",
@@ -7641,9 +7641,9 @@
       "Blue UAS"
     ],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%94%A2%E6%A5%AD",
-    "readingTime": 26,
+    "readingTime": 45,
     "featured": false,
-    "date": "2026-04-08",
+    "date": "2026-05-10",
     "path": "Technology/台灣無人機產業.md"
   },
   {
@@ -14164,7 +14164,7 @@
       "GMP"
     ],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E5%86%8D%E7%94%9F%E9%86%AB%E7%99%82%E9%9B%99%E6%B3%95%E6%B2%BF%E9%9D%A9%E5%BE%9E%E6%A5%AD%E4%BA%BA%E5%93%A1%E5%91%8A%E7%99%BD",
-    "readingTime": 13,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-04-24",
     "path": "Society/台灣再生醫療雙法沿革從業人員告白.md"
@@ -19163,6 +19163,17 @@
     "featured": false,
     "date": "2026-05-02",
     "path": "ja/Lifestyle/tour-bus.md"
+  },
+  {
+    "title": "醫療法：機構規範與市場拉扯的四十年",
+    "description": "台灣醫療法 1986 年公布、2017 年修醫師刑責、2026 年護病比入法。法律寫的是「促進醫療事業健全發展」，運轉的是 83% 病床私立化、急診醫師退場率高出國際兩三倍、護理師連續離職一千多人才把護病比寫進法。這不是健保法、不是醫師法——這是台灣「醫院」這個機構怎麼存在的根法，也是醫療公益性與市場機制四十年沒解開的拉扯。",
+    "category": "Society",
+    "tags": [],
+    "url": "https://taiwan.md/Society/%E9%86%AB%E7%99%82%E6%B3%95",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-05-10",
+    "path": "Society/醫療法.md"
   },
   {
     "title": "雜學校：貯金をすべてつぎ込んで開催した無料展示会、11年後に副総統が開幕に来た",
@@ -29643,24 +29654,6 @@
     "path": "fr/Technology/artificial-intelligence-industry.md"
   },
   {
-    "title": "L'industrie des drones à Taïwan",
-    "description": "En septembre 2025, le drone kamikaze « Overkill » de Thunder Tiger est devenu le premier produit taïwanais certifié sur la Blue UAS Cleared List du Département de la Défense américain. Une entreprise de Taichung qui fabriquait des avions télécommandés depuis quarante ans vient d'entrer dans les catalogues d'achat du Pentagone.",
-    "category": "fr",
-    "tags": [
-      "drones",
-      "défense",
-      "Thunder Tiger",
-      "chaîne dapprovisionnement non-rouge",
-      "industrie militaire",
-      "IA"
-    ],
-    "url": "https://taiwan.md/fr/Technology/taiwan-drone-industry",
-    "readingTime": 50,
-    "featured": false,
-    "date": "2026-04-08",
-    "path": "fr/Technology/taiwan-drone-industry.md"
-  },
-  {
     "title": "L'industrie des machines-outils à Taïwan",
     "description": "De la Vallée d'Or du mont Dadu au salon TMTS 2026 : la résilience, les effondrements et les renaissances de l'industrie des machines-outils taïwanaise — et pourquoi la chute de la 5e à la 7e place mondiale en 2024 révèle une anxiété structurelle profonde.",
     "category": "fr",
@@ -29758,6 +29751,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "fr/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md"
+  },
+  {
+    "title": "L'industrie taïwanaise des drones : des avions télécommandés de Taichung à la Blue List, un laissez-passer pour Thunder Tiger",
+    "description": "Le 21 septembre 2025, le drone suicide Overkill FPV de Thunder Tiger a obtenu la certification Blue UAS Cleared List du département de la Défense des États-Unis — première entreprise taïwanaise, et à ce jour la seule. Sur l'ensemble de la liste, qui compte 39 plateformes complètes et 165 composants, Taïwan n'occupe qu'une seule place. En avril 2026, quatre sénateurs américains bipartisans ont conjointement proposé le Blue Skies for Taiwan Act, exigeant la création d'un accès rapide pour les fabricants taïwanais ; l'existence même de ce projet de loi révèle une chose : Taïwan avance trop lentement, au point que les États-Unis eux-mêmes doivent légiférer pour abaisser les barrières. Une entreprise qui fabrique des avions télécommandés à Taichung depuis quarante-six ans prévoit de construire une deuxième usine dans l'Ohio.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/Technology/taiwan-drone-industry",
+    "readingTime": 139,
+    "featured": false,
+    "date": "2026-04-08",
+    "path": "fr/Technology/taiwan-drone-industry.md"
   },
   {
     "title": "L'industrie YouTuber à Taïwan : de Tsai A-Ga à Chi Hsuan, l'évolution d'une culture numérique insulaire",
@@ -31339,12 +31343,12 @@
     "path": "es/Technology/taiwan-robotics-industry.md"
   },
   {
-    "title": "La industria taiwanesa de drones",
-    "description": "En septiembre de 2025, el dron suicida \"Overkill\" de Thunder Tiger se convirtió en el primer dron taiwanés certificado por la Lista Azul del Departamento de Defensa de Estados Unidos. Una empresa de Taichung que durante cuarenta años fabricó aviones teledirigidos de juguete ha entrado en la lista de adquisiciones del Pentágono.",
+    "title": "La industria taiwanesa de drones: de los aviones de juguete de Taichung a la Lista Azul, una entrada para Thunder Tiger",
+    "description": "El 21 de septiembre de 2025, el dron suicida Overkill FPV de Thunder Tiger obtuvo la certificación de la Lista Azul del Departamento de Defensa de Estados Unidos (Blue UAS Cleared List) —la primera y, hasta la fecha, la única empresa taiwanesa en lograrlo. De las 39 plataformas completas y 165 componentes de toda la lista, Taiwán ocupa un solo asiento. En abril de 2026, cuatro senadores estadounidenses bipartidarios presentaron conjuntamente el Blue Skies for Taiwan Act, que exige la creación de un canal rápido para fabricantes taiwaneses; la mera existencia de la ley revela algo: Taiwán avanza demasiado lento, y hasta Estados Unidos tiene que legislar para bajar el umbral. Una empresa que lleva cuarenta y seis años fabricando aviones de radiocontrol en Taichung planea construir una segunda fábrica en Ohio.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Technology/taiwan-drone-industry",
-    "readingTime": 52,
+    "readingTime": 136,
     "featured": false,
     "date": "2026-04-08",
     "path": "es/Technology/taiwan-drone-industry.md"
@@ -41942,12 +41946,20 @@
     "path": "fr/Society/taiwan-diplomatic-allies-and-international-relations.md"
   },
   {
-    "title": "Taiwan's Drone Industry: From Toy Planes to Pentagon Procurement",
-    "description": "In September 2025, Thunder Tiger's kamikaze drone 'Overkill' became the first Taiwanese UAV to pass the U.S. Department of Defense Blue UAS certification. A Taichung company that spent four decades making RC model aircraft just landed on the Pentagon's approved vendor list.",
+    "title": "Taiwan's Drone Industry: From Taichung Toy Planes to the Blue List — One Ticket, Awarded to Thunder Tiger",
+    "description": "On September 21, 2025, Thunder Tiger's Overkill FPV loitering munition became the first — and so far only — Taiwanese product to earn U.S. Department of Defense Blue UAS Cleared List certification. Across the entire list of 39 complete airframes and 165 components, Taiwan holds exactly one seat. In April 2026, four bipartisan U.S. senators co-sponsored the Blue Skies for Taiwan Act, demanding a fast-track pathway for Taiwanese manufacturers. The very existence of the bill reveals one thing: Taiwan has been moving too slowly, and even the United States has had to legislate a lower bar. A company that has spent forty-six years making radio-controlled toy airplanes in Taichung is now planning a second factory in Ohio.",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "無人機",
+      "國防",
+      "雷虎科技",
+      "非紅供應鏈",
+      "軍工",
+      "AI",
+      "Blue UAS"
+    ],
     "url": "https://taiwan.md/en/Technology/taiwan-drone-industry",
-    "readingTime": 44,
+    "readingTime": 121,
     "featured": false,
     "date": "2026-04-08",
     "path": "en/Technology/taiwan-drone-industry.md"
@@ -48312,19 +48324,12 @@
     "path": "ko/Culture/taiwanese-homophone-taboos.md"
   },
   {
-    "title": "대만 드론 산업",
-    "description": "2025년 9월, 레이후 테크(雷虎科技)의 자폭형 드론 \"Overkill\"이 미국 국방부 블루 UAS 인증을 통과한 최초의 대만산 드론이 되었다. 40년간 RC 완구 비행기를 만들어 온 타이중 기업이 펜타곤의 조달 목록에 이름을 올렸다.",
+    "title": "대만 드론 산업: 타이중 장난감 비행기에서 블루 리스트까지, 한 장의 입장권이 레이후에게 돌아온 날",
+    "description": "2025년 9월 21일, 레이후 테크놀로지(雷虎科技)의 Overkill FPV 자폭 드론이 미국 국방부 블루 리스트(Blue UAS Cleared List) 인증을 통과했다. 대만 최초이자, 현재까지 유일한 대만 기업이다. 전체 리스트에는 39개 기체 플랫폼과 165개 부품이 올라 있으며, 대만은 그중 단 하나의 자리를 차지하고 있을 뿐이다. 2026년 4월 미국 초당파 상원의원 4명이 공동으로 「Blue Skies for Taiwan Act」를 발의하여 대만 업체에 대한 패스트트랙 구축을 요구했다. 법안의 존재 자체가 한 폭로하는 것이 있다: 대만의 진입이 너무 느려서 미국 스스로가 문턱을 낮추기 위해 입법을 해야 했다는 사실이다. 타이중에서 46년간 무선 조종 장난감 비행기를 만들어 온 한 회사가 오하이오주에 두 번째 공장을 건설할 계획을 세우고 있다.",
     "category": "ko",
-    "tags": [
-      "드론",
-      "국방",
-      "레이후 테크",
-      "비중국 공급망",
-      "방산",
-      "AI"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/Technology/taiwan-drone-industry",
-    "readingTime": 21,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-04-08",
     "path": "ko/Technology/taiwan-drone-industry.md"
