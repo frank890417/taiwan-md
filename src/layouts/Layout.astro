@@ -84,6 +84,23 @@ const jfClass = [
       tags={tags}
       category={category}
     />
+    <!-- FOUC fix: hide until fonts ready -->
+    <style>
+      html { visibility: hidden; }
+      html.fonts-loaded { visibility: visible; }
+    </style>
+    <script is:inline>
+      (function() {
+        if (document.fonts) {
+          document.fonts.ready.then(function() {
+            document.documentElement.classList.add('fonts-loaded');
+          });
+        } else {
+          // fallback for older browsers
+          document.documentElement.classList.add('fonts-loaded');
+        }
+      })();
+    </script>
     <script
       is:inline
       async
