@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.0'
-last_updated: 2026-05-09
-last_session: 'twmd-babel-nightly-224923'
+last_updated: 2026-05-10
+last_session: 'twmd-maintainer-daily-091617'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -1743,6 +1743,17 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 - **相關**：DNA #38「混維度 = silent killer」(status × slug 是混維度的經典 instance) + DNA #20「Architecture 缺席比 content 缺席更貴」(slug-bug 之所以惡 = 創建 orphan 翻譯 = architecture-level 雙寫，純 content bug 還救得回；架構 bug 跨 batch 累積就 explode)。
 - **verification_count**: N+1（DNA #38 已多次驗證；本條是 babel domain 內第 1 次但 cross-domain 第 N+1 次）
 - **severity**: tactical（修補了 prepare-batch；但 over-narrow guard pattern 在其他工具還可能存在 — 需主動 audit）
+
+---
+
+### 2026-05-10 twmd-maintainer-daily — routine quality fail: broken-link 6.38% 結構性 backlog 超 DNA #52 1% target
+
+- **原則**：maintainer routine quality gate「broken-link < 1%」不會被 daily routine 自然收斂。verifier sample 50 報 6.38%，build embedded 報 5.73%，主要 dead links 集中在三類結構性問題：(a) `/ja/` 指向尚未翻譯 ja 的 article (228-incident / 教育系統 / koxinga 系列等)；(b) `/es/` `/fr/` 指向已被改 slug 的 ai-development-_ / artificial-intelligence-_ 系列；(c) 中文 slug `/music/台湾流行音樂` `/technology/台灣行動支付` Astro 不認。**Routine 是 status reporter 不是 heal worker** — 該專門排 i18n broken-link heal session 收斂。
+- **觸發**：2026-05-10 09:16 twmd-maintainer-daily 第二次 fire — quality gate 五項中 broken-link 唯一 fail（build 綠 / open PR review-handled / 24hr commit log 全 routine 無異常 / 唯一 issue 缺 maintainer 介入）。Verifier 7% 硬閥仍 PASSED 但 DNA #52 1% target 沒達到。
+- **可能層級**：操作規則 → 加進 ROUTINE.md「broken-link gate threshold 重新校準」(1% strict vs 7% verifier soft 之間需要選一個 SSOT) / 或 → 排專門 heal pipeline (ja stub heal + es/fr ai-\* slug 重對 + 中文 slug 移除)
+- **相關**：DNA #52「immune system fail-loud」(broken-link 是 immune signal) + ROUTINE.md §每條 routine 規格.maintainer.quality_gate
+- **verification_count**: 1（routine 第一次 quality fail — 第一次 fire 在 2026-05-09 已知有 ratio 但無留痕）
+- **severity**: structural（不解 = routine 每天 quality gate fail = LESSONS spam noise；threshold 設計需 reconcile）
 
 ---
 
