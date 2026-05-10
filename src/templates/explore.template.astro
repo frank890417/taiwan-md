@@ -1,0 +1,601 @@
+---
+/**
+ * /explore — database front-page (issue #615 child).
+ *
+ * Born 2026-05-10 (gracious-blackwell-9905be). The old `/#categories`
+ * anchor in the main nav scrolled to a section *inside* the homepage
+ * narrative, which mixed two visitor modes:
+ *   - readers (came for the curated essay → halls + recent updates)
+ *   - searchers (came to find things → bounced through the narrative)
+ *
+ * /explore is the searcher's entry point: search-first UX, hot
+ * keywords, twelve category cards with article counts, top picks
+ * cross-category, plus pointers to the graph + map + glossary.
+ *
+ * Reuses CategoryGrid (12 cards) + search-modal (Header.astro's
+ * global instance — we trigger it via inline JS on the prominent
+ * search box and the hot-keyword chips). No duplicated search
+ * infrastructure — single source of truth stays in Layout.astro.
+ */
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import CategoryGrid from '../components/CategoryGrid.astro';
+import { useTranslations, getLangFromUrl } from '../i18n/utils';
+import {
+  ENABLED_LANGUAGE_CODES,
+  LANGUAGES,
+  DEFAULT_LANGUAGE,
+} from '../config/languages';
+import matter from 'gray-matter';
+import { readFileSync, readdirSync } from 'node:fs';
+import { resolve, join, basename } from 'node:path';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const isZh = lang === 'zh-TW';
+const langUrlPrefix = isZh ? '' : `/${lang}`;
+
+// ── Stats ribbon: read fresh vitals from prebuilt JSON if available,
+// fall back to live count of knowledge/{Cat}/ ──
+let totalArticles = 0;
+let contributors = 61;
+let articlesLast30Days = 0;
+try {
+  const vitalsPath = resolve(process.cwd(), 'public/api/dashboard-vitals.json');
+  const v = JSON.parse(readFileSync(vitalsPath, 'utf-8'));
+  totalArticles = Number(v.totalArticles) || 0;
+  contributors = Number(v.contributors) || 61;
+  articlesLast30Days = Number(v.articlesLast30Days) || 0;
+} catch {
+  // Fallback — count zh-TW articles directly
+  const folders = [
+    'History',
+    'Geography',
+    'Culture',
+    'Food',
+    'Art',
+    'Music',
+    'Technology',
+    'Nature',
+    'People',
+    'Society',
+    'Economy',
+    'Lifestyle',
+  ];
+  for (const f of folders) {
+    try {
+      const dir = resolve(process.cwd(), 'knowledge', f);
+      totalArticles += readdirSync(dir).filter(
+        (x) => x.endsWith('.md') && !x.startsWith('_'),
+      ).length;
+    } catch {}
+  }
+}
+
+const enabledLanguages = ENABLED_LANGUAGE_CODES.length;
+
+// ── Featured picks: A-grade articles cross-category ──
+interface PickArticle {
+  title: string;
+  href: string;
+  footnotes: number;
+  readingTime: number;
+  description: string;
+  category: string;
+  categoryLabel: string;
+  categoryEmoji: string;
+  featured: boolean;
+}
+
+const categoryFolders: Array<[string, string, string]> = [
+  ['history', 'History', '📜'],
+  ['geography', 'Geography', '🗺️'],
+  ['culture', 'Culture', '🎭'],
+  ['food', 'Food', '🍜'],
+  ['art', 'Art', '🎨'],
+  ['music', 'Music', '🎵'],
+  ['technology', 'Technology', '💻'],
+  ['nature', 'Nature', '🌿'],
+  ['people', 'People', '👥'],
+  ['society', 'Society', '🏛️'],
+  ['economy', 'Economy', '📊'],
+  ['lifestyle', 'Lifestyle', '🏠'],
+];
+
+const allPicks: PickArticle[] = [];
+for (const [slug, folder, emoji] of categoryFolders) {
+  const dir = isZh
+    ? resolve(process.cwd(), 'knowledge', folder)
+    : resolve(process.cwd(), 'knowledge', lang, folder);
+  try {
+    const files = readdirSync(dir).filter(
+      (f) => f.endsWith('.md') && !f.startsWith('_'),
+    );
+    for (const file of files) {
+      try {
+        const raw = readFileSync(join(dir, file), 'utf-8');
+        const { data } = matter(raw);
+        const fnCount = (raw.match(/^\[\^\d+\]:/gm) || []).length;
+        const threshold = data.featured ? 8 : 18;
+        if (fnCount >= threshold) {
+          allPicks.push({
+            title: data.title || basename(file, '.md'),
+            href: `${langUrlPrefix}/${slug}/${encodeURIComponent(basename(file, '.md'))}`,
+            footnotes: fnCount,
+            readingTime: data.readingTime || 10,
+            description: data.description || '',
+            category: slug,
+            categoryLabel: t(`categoryConfig.${slug}` as any),
+            categoryEmoji: emoji,
+            featured: !!data.featured,
+          });
+        }
+      } catch {}
+    }
+  } catch {}
+}
+
+// Pick top 8 across categories — featured first, then by footnote count,
+// dedupe so no single category dominates (max 1 per category in the
+// first 8 slots).
+allPicks.sort((a, b) => {
+  if (a.featured !== b.featured) return a.featured ? -1 : 1;
+  return b.footnotes - a.footnotes;
+});
+const featuredPicks: PickArticle[] = [];
+const usedCats = new Set<string>();
+for (const p of allPicks) {
+  if (featuredPicks.length >= 8) break;
+  if (usedCats.has(p.category)) continue;
+  usedCats.add(p.category);
+  featuredPicks.push(p);
+}
+// If we didn't fill 8 because we ran out of categories, fall back to the
+// next-highest articles regardless of category.
+if (featuredPicks.length < 8) {
+  for (const p of allPicks) {
+    if (featuredPicks.length >= 8) break;
+    if (featuredPicks.includes(p)) continue;
+    featuredPicks.push(p);
+  }
+}
+
+// ── Hot search chips: pull six terms from i18n (per-language) ──
+const hotSearchTerms = [
+  t('explore.hotSearches.term1' as any),
+  t('explore.hotSearches.term2' as any),
+  t('explore.hotSearches.term3' as any),
+  t('explore.hotSearches.term4' as any),
+  t('explore.hotSearches.term5' as any),
+  t('explore.hotSearches.term6' as any),
+] as string[];
+
+// ── Lang derivation for the inline random script ──
+// Per DNA #20 / MANIFESTO §指標 over 複寫 — derive from LANGUAGES_REGISTRY
+// SSOT instead of hardcoding ['en','ja','ko','es','fr']. The non-default
+// codes are the language URL prefixes; `langPrefixesLower` adds 'zh-tw'
+// lowercase to catch stray articles whose category accidentally landed
+// as the default-locale code (matches RandomDiscovery.astro logic).
+const nonDefaultLangCodes = LANGUAGES.filter(
+  (l) => l.enabled && l.code !== DEFAULT_LANGUAGE.code,
+).map((l) => l.code);
+const defaultLangCode = DEFAULT_LANGUAGE.code;
+const langPrefixesLower = [
+  ...nonDefaultLangCodes,
+  defaultLangCode.toLowerCase(),
+];
+---
+
+<Layout
+  lang={lang}
+  title={t('explore.meta.title')}
+  description={t('explore.meta.description')}
+>
+  <!-- ====== HERO ====== -->
+  <PageHero
+    bgVariant="solid"
+    bgColor="#1a3c34"
+    bgTone="dark"
+    titleVariant="inherit"
+    containerWidth="wide"
+    eyebrow={t('explore.hero.eyebrow')}
+    title={t('explore.hero.title')}
+    subtitle={t('explore.hero.subtitle')}
+    accentColor="rgba(255,255,255,0.7)"
+  >
+    <div
+      slot="meta"
+      class="mt-6 flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-[0.95rem] tracking-[0.05em] opacity-85"
+    >
+      <span
+        ><strong class="font-bold">{totalArticles}</strong>
+        {t('explore.stats.articles')}</span
+      >
+      <span class="opacity-50">·</span>
+      <span
+        ><strong class="font-bold">{contributors}</strong>
+        {t('explore.stats.contributors')}</span
+      >
+      <span class="opacity-50">·</span>
+      <span
+        ><strong class="font-bold">{enabledLanguages}</strong>
+        {t('explore.stats.languages')}</span
+      >
+      <span class="opacity-50">·</span>
+      <span
+        ><strong class="font-bold">{articlesLast30Days}</strong>
+        {t('explore.stats.last30d')}</span
+      >
+    </div>
+  </PageHero>
+
+  <!-- ====== SEARCH SECTION (the heart of /explore) ====== -->
+  <section
+    class="relative -mt-12 mb-10 px-4 max-[768px]:-mt-8 max-[768px]:mb-8"
+  >
+    <div
+      class="mx-auto max-w-[820px] rounded-[18px] border border-[#e2e8f0] bg-white p-6 shadow-[0_18px_50px_rgba(15,23,42,0.12),0_4px_12px_rgba(15,23,42,0.06)] max-[768px]:p-4"
+    >
+      <div class="flex gap-3 max-[600px]:flex-col">
+        <!-- Fake search input — clicking opens the global modal -->
+        <button
+          type="button"
+          id="explore-search-trigger"
+          class="group flex flex-1 items-center gap-3 rounded-xl border-2 border-[#cbd5e1] bg-[#f8fafc] px-5 py-[0.95rem] text-left transition-all hover:border-[#10b981] hover:bg-white hover:shadow-[0_2px_8px_rgba(16,185,129,0.12)] focus:border-[#10b981] focus:bg-white focus:shadow-[0_2px_12px_rgba(16,185,129,0.18)] focus:outline-none"
+          aria-label={t('explore.search.heading')}
+        >
+          <svg
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="#64748b"
+            stroke-width="2.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="flex-shrink-0 transition-colors group-hover:stroke-[#10b981]"
+          >
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <span
+            class="flex-1 text-[1rem] font-medium text-[#94a3b8] max-[480px]:text-[0.9rem]"
+          >
+            {t('explore.search.placeholder')}
+          </span>
+          <kbd
+            class="hidden flex-shrink-0 rounded border border-[#e2e8f0] bg-white px-2 py-[0.15rem] font-mono text-[0.75rem] font-semibold text-[#64748b] sm:inline-block"
+            >/</kbd
+          >
+        </button>
+
+        <!-- Random discovery button -->
+        <button
+          type="button"
+          id="explore-random-btn"
+          class="group flex items-center justify-center gap-2 rounded-xl border-2 border-[#f59e0b] bg-[linear-gradient(135deg,#f59e0b,#d97706)] px-5 py-[0.95rem] font-bold text-white transition-all hover:-translate-y-px hover:shadow-[0_6px_18px_rgba(245,158,11,0.35)] active:translate-y-0 max-[600px]:py-3"
+          aria-label={t('explore.search.random')}
+        >
+          <span
+            class="text-[1.4rem] leading-none transition-transform group-hover:rotate-[20deg]"
+            >🎲</span
+          >
+          <span class="text-[0.95rem]">{t('explore.search.random')}</span>
+        </button>
+      </div>
+
+      <!-- Hot search chips -->
+      <div class="mt-4 flex flex-wrap items-center gap-2 max-[600px]:gap-1.5">
+        <span
+          class="mr-1 flex items-center gap-1 text-[0.85rem] font-semibold text-[#475569] max-[480px]:text-[0.8rem]"
+        >
+          <span class="text-[1rem]">🔥</span>
+          <span>{t('explore.hotSearches.label')}</span>
+        </span>
+        {
+          hotSearchTerms.map((term) => (
+            <button
+              type="button"
+              class="hot-chip rounded-full border border-[#e2e8f0] bg-[#f1f5f9] px-3 py-[0.3rem] text-[0.85rem] font-medium text-[#475569] transition-all hover:-translate-y-px hover:border-[#10b981] hover:bg-[#ecfdf5] hover:text-[#065f46] max-[480px]:px-2.5 max-[480px]:py-1 max-[480px]:text-[0.78rem]"
+              data-term={term}
+            >
+              {term}
+            </button>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- ====== CATEGORIES ====== -->
+  <section class="my-16 max-[768px]:my-10">
+    <div class="mb-6 px-4 text-center">
+      <h2
+        class="hero-title mb-2 text-[2rem] font-black -tracking-[0.02em] text-[#1a1a2e] max-[768px]:text-[1.6rem]"
+      >
+        {t('explore.categories.heading')}
+      </h2>
+      <p
+        class="mx-auto max-w-[600px] text-[1.05rem] leading-[1.6] text-[#64748b] max-[480px]:text-[0.95rem]"
+      >
+        {t('explore.categories.subtitle')}
+      </p>
+    </div>
+    <CategoryGrid />
+  </section>
+
+  <!-- ====== FEATURED DEEP-DIVES ====== -->
+  {
+    featuredPicks.length > 0 && (
+      <section class="mx-auto my-16 max-w-[1200px] px-8 max-[768px]:my-10 max-[768px]:px-4">
+        <div class="mb-8 text-center">
+          <h2 class="hero-title mb-2 text-[2rem] font-black -tracking-[0.02em] text-[#1a1a2e] max-[768px]:text-[1.6rem]">
+            {t('explore.featured.heading')}
+          </h2>
+          <p class="mx-auto max-w-[640px] text-[1.05rem] leading-[1.6] text-[#64748b] max-[480px]:text-[0.95rem]">
+            {t('explore.featured.subtitle')}
+          </p>
+        </div>
+
+        <div class="grid grid-cols-2 gap-5 max-[900px]:grid-cols-2 max-[600px]:grid-cols-1 max-[600px]:gap-4">
+          {featuredPicks.map((p) => (
+            <a
+              href={p.href}
+              class="group flex flex-col rounded-2xl border border-[#e2e8f0] bg-white p-6 no-underline shadow-[0_2px_8px_rgba(15,23,42,0.04)] transition-all hover:-translate-y-1 hover:border-[#10b981] hover:shadow-[0_12px_32px_rgba(15,23,42,0.10)] max-[480px]:p-5"
+            >
+              <div class="mb-3 flex items-center gap-2">
+                <span class="text-[1.1rem]">{p.categoryEmoji}</span>
+                <span class="text-[0.78rem] font-semibold uppercase tracking-[0.08em] text-[#10b981]">
+                  {p.categoryLabel}
+                </span>
+              </div>
+              <h3 class="mb-2 line-clamp-2 font-['Noto_Serif_TC',serif] text-[1.15rem] font-bold leading-[1.4] text-[#1a1a2e] transition-colors group-hover:text-[#065f46] max-[480px]:text-[1.05rem]">
+                {p.title}
+              </h3>
+              {p.description && (
+                <p class="mb-4 line-clamp-2 text-[0.9rem] leading-[1.55] text-[#64748b]">
+                  {p.description}
+                </p>
+              )}
+              <div class="mt-auto flex items-center justify-between border-t border-[#f1f5f9] pt-3 text-[0.78rem] text-[#94a3b8]">
+                <span class="flex items-center gap-1.5">
+                  <svg
+                    width="13"
+                    height="13"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+                    <polyline points="14 2 14 8 20 8" />
+                  </svg>
+                  {p.footnotes} {t('explore.featured.citations')}
+                </span>
+                <span class="flex items-center gap-1.5">
+                  <svg
+                    width="13"
+                    height="13"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <circle cx="12" cy="12" r="10" />
+                    <polyline points="12 6 12 12 16 14" />
+                  </svg>
+                  {p.readingTime} {t('explore.featured.minRead')}
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )
+  }
+
+  <!-- ====== MORE WAYS TO EXPLORE ====== -->
+  <section
+    class="mx-auto my-16 max-w-[1200px] px-8 max-[768px]:my-10 max-[768px]:px-4"
+  >
+    <div class="mb-8 text-center">
+      <h2
+        class="hero-title text-[1.6rem] font-black -tracking-[0.02em] text-[#1a1a2e] max-[768px]:text-[1.35rem]"
+      >
+        {t('explore.more.heading')}
+      </h2>
+    </div>
+    <div
+      class="grid grid-cols-3 gap-5 max-[900px]:grid-cols-1 max-[900px]:gap-4"
+    >
+      <a
+        href={`${langUrlPrefix}/graph`}
+        class="group flex items-start gap-4 rounded-2xl border border-[#e2e8f0] bg-white p-6 no-underline transition-all hover:-translate-y-1 hover:border-[#7c3aed] hover:shadow-[0_12px_32px_rgba(124,58,237,0.12)]"
+      >
+        <span class="flex-shrink-0 text-[2rem]">🕸️</span>
+        <div class="flex-1">
+          <h3
+            class="mb-1 text-[1.05rem] font-bold text-[#1a1a2e] group-hover:text-[#7c3aed]"
+          >
+            {t('explore.more.graph.title')}
+          </h3>
+          <p class="mb-2 text-[0.88rem] leading-[1.55] text-[#64748b]">
+            {t('explore.more.graph.desc')}
+          </p>
+          <span
+            class="text-[0.85rem] font-semibold text-[#7c3aed] group-hover:underline"
+            >{t('explore.more.graph.cta')}</span
+          >
+        </div>
+      </a>
+      <a
+        href={`${langUrlPrefix}/map`}
+        class="group flex items-start gap-4 rounded-2xl border border-[#e2e8f0] bg-white p-6 no-underline transition-all hover:-translate-y-1 hover:border-[#10b981] hover:shadow-[0_12px_32px_rgba(16,185,129,0.12)]"
+      >
+        <span class="flex-shrink-0 text-[2rem]">🗺️</span>
+        <div class="flex-1">
+          <h3
+            class="mb-1 text-[1.05rem] font-bold text-[#1a1a2e] group-hover:text-[#065f46]"
+          >
+            {t('explore.more.map.title')}
+          </h3>
+          <p class="mb-2 text-[0.88rem] leading-[1.55] text-[#64748b]">
+            {t('explore.more.map.desc')}
+          </p>
+          <span
+            class="text-[0.85rem] font-semibold text-[#065f46] group-hover:underline"
+            >{t('explore.more.map.cta')}</span
+          >
+        </div>
+      </a>
+      <a
+        href={`${langUrlPrefix}/terminology`}
+        class="group flex items-start gap-4 rounded-2xl border border-[#e2e8f0] bg-white p-6 no-underline transition-all hover:-translate-y-1 hover:border-[#f59e0b] hover:shadow-[0_12px_32px_rgba(245,158,11,0.12)]"
+      >
+        <span class="flex-shrink-0 text-[2rem]">📖</span>
+        <div class="flex-1">
+          <h3
+            class="mb-1 text-[1.05rem] font-bold text-[#1a1a2e] group-hover:text-[#b45309]"
+          >
+            {t('explore.more.terminology.title')}
+          </h3>
+          <p class="mb-2 text-[0.88rem] leading-[1.55] text-[#64748b]">
+            {t('explore.more.terminology.desc')}
+          </p>
+          <span
+            class="text-[0.85rem] font-semibold text-[#b45309] group-hover:underline"
+            >{t('explore.more.terminology.cta')}</span
+          >
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <!-- ====== CTA FOOTER ====== -->
+  <section
+    class="mx-auto my-20 max-w-[760px] rounded-3xl border border-[#e2e8f0] bg-[linear-gradient(135deg,#f0fdf4,#ecfdf5)] px-10 py-12 text-center max-[768px]:my-12 max-[768px]:px-6 max-[768px]:py-8"
+  >
+    <h2
+      class="mb-3 text-[1.5rem] font-black -tracking-[0.01em] text-[#065f46] max-[768px]:text-[1.25rem]"
+    >
+      {t('explore.cta.heading')}
+    </h2>
+    <p
+      class="mx-auto mb-6 max-w-[560px] text-[1rem] leading-[1.65] text-[#374151] max-[480px]:text-[0.95rem]"
+    >
+      {t('explore.cta.body')}
+    </p>
+    <div
+      class="flex flex-wrap justify-center gap-3 max-[480px]:flex-col max-[480px]:items-stretch"
+    >
+      <a
+        href={`${langUrlPrefix}/contribute`}
+        class="rounded-full bg-[#065f46] px-6 py-3 text-[0.95rem] font-semibold text-white no-underline transition-all hover:-translate-y-px hover:bg-[#047857] hover:shadow-[0_6px_18px_rgba(6,95,70,0.3)]"
+      >
+        {t('explore.cta.contribute')}
+      </a>
+      <a
+        href="https://github.com/frank890417/taiwan-md"
+        target="_blank"
+        rel="noopener"
+        class="rounded-full border-2 border-[#065f46] bg-white px-6 py-3 text-[0.95rem] font-semibold text-[#065f46] no-underline transition-all hover:-translate-y-px hover:bg-[#f0fdf4] hover:shadow-[0_6px_18px_rgba(6,95,70,0.15)]"
+      >
+        {t('explore.cta.github')}
+      </a>
+    </div>
+  </section>
+</Layout>
+
+<script
+  is:inline
+  define:vars={{ nonDefaultLangCodes, defaultLangCode, langPrefixesLower }}
+>
+  // ── Search trigger: open global modal + focus input ──
+  function openSearchModal(prefill) {
+    var modal = document.getElementById('search-modal');
+    var input = document.getElementById('search-input');
+    if (!modal || !input) return;
+    modal.classList.add('open');
+    if (typeof prefill === 'string' && prefill.length > 0) {
+      input.value = prefill;
+      // The Layout.astro search initializer attaches an `input` listener;
+      // dispatch one so results render for the prefilled term.
+      input.dispatchEvent(new Event('input', { bubbles: true }));
+    }
+    setTimeout(function () {
+      input.focus();
+      // Place caret at end if there was a prefill so the user can edit.
+      if (typeof prefill === 'string' && prefill.length > 0) {
+        var len = input.value.length;
+        try {
+          input.setSelectionRange(len, len);
+        } catch (_) {}
+      }
+    }, 100);
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var trigger = document.getElementById('explore-search-trigger');
+    if (trigger) {
+      trigger.addEventListener('click', function () {
+        openSearchModal();
+      });
+    }
+
+    // Hot keyword chips → prefilled search modal
+    document.querySelectorAll('.hot-chip').forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        var term = chip.getAttribute('data-term');
+        if (term) openSearchModal(term);
+      });
+    });
+
+    // Random button — pick a random article from /api/articles.json
+    // filtered by current language. Mirrors RandomDiscovery.astro logic
+    // but trimmed (no tick animation — instant nav for explore-mode UX).
+    var randomBtn = document.getElementById('explore-random-btn');
+    if (randomBtn) {
+      randomBtn.addEventListener('click', async function () {
+        randomBtn.style.pointerEvents = 'none';
+        randomBtn.style.opacity = '0.7';
+        try {
+          var pathLang = (location.pathname.split('/')[1] || '').toLowerCase();
+          // nonDefaultLangCodes / defaultLangCode / langPrefixesLower
+          // are injected via define:vars from LANGUAGES_REGISTRY (SSOT).
+          var currentLang =
+            nonDefaultLangCodes.indexOf(pathLang) >= 0
+              ? pathLang
+              : defaultLangCode;
+          var res = await fetch('/api/articles.json');
+          if (!res.ok) throw new Error('articles fetch failed');
+          var raw = await res.json();
+          var pool = raw.filter(function (a) {
+            var cat = (a.category || '').toLowerCase();
+            if (currentLang === defaultLangCode) {
+              // Default locale (no URL prefix) — exclude any article
+              // whose category is itself a language code.
+              return langPrefixesLower.indexOf(cat) === -1;
+            }
+            return cat === currentLang;
+          });
+          if (pool.length === 0) throw new Error('empty pool');
+          var pick = pool[Math.floor(Math.random() * pool.length)];
+          var url = pick.url
+            .replace('https://taiwan.md', '')
+            .replace(/^\/([^\/]+)/, function (m, p) {
+              return '/' + p.toLowerCase();
+            });
+          location.href = url;
+        } catch (e) {
+          randomBtn.style.pointerEvents = '';
+          randomBtn.style.opacity = '';
+          // Silent fail — keep the page usable.
+        }
+      });
+    }
+  });
+</script>

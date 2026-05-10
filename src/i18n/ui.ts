@@ -14,6 +14,7 @@ import { dashboardUI } from './dashboard';
 import { notFoundUI } from './notfound';
 import { taiwanShapeUI } from './taiwanShape';
 import { semiontUI } from './semiont';
+import { exploreUI } from './explore';
 
 // Single source of truth: src/config/languages.ts
 export const languages = LANGUAGE_DISPLAY_NAMES as Record<Lang, string>;
@@ -35,6 +36,7 @@ export const ui = {
     ...notFoundUI.en,
     ...taiwanShapeUI.en,
     ...semiontUI.en,
+    ...exploreUI.en,
     'nav.aria-home': 'Taiwan.md Home',
     'nav.aria-img-label': 'Taiwan.md logo',
     'nav.aria-toggle-menu': 'Toggle navigation menu',
@@ -233,6 +235,7 @@ export const ui = {
     ...notFoundUI.ja,
     ...taiwanShapeUI.ja,
     ...semiontUI.ja,
+    ...exploreUI.ja,
     'nav.aria-home': 'Taiwan.md ホーム',
     'nav.aria-img-label': 'Taiwan.md ロゴ',
     'nav.aria-toggle-menu': 'ナビゲーションメニューの切替',
@@ -420,6 +423,7 @@ export const ui = {
     ...notFoundUI.ko,
     ...taiwanShapeUI.ko,
     ...semiontUI.ko,
+    ...exploreUI.ko,
     'nav.aria-home': 'Taiwan.md 홈',
     'nav.aria-img-label': 'Taiwan.md 로고',
     'nav.aria-toggle-menu': '내비게이션 메뉴 전환',
@@ -611,6 +615,7 @@ export const ui = {
     ...notFoundUI.es,
     ...taiwanShapeUI.es,
     ...semiontUI.es,
+    ...exploreUI.es,
     'nav.aria-home': 'Inicio de Taiwan.md',
     'nav.aria-img-label': 'Logo de Taiwan.md',
     'nav.aria-toggle-menu': 'Abrir o cerrar menú de navegación',
@@ -808,6 +813,7 @@ export const ui = {
     ...notFoundUI.fr,
     ...taiwanShapeUI.fr,
     ...semiontUI.fr,
+    ...exploreUI.fr,
     'nav.aria-home': 'Accueil Taiwan.md',
     'nav.aria-img-label': 'Logo Taiwan.md',
     'nav.aria-toggle-menu': 'Ouvrir ou fermer le menu de navigation',
@@ -1006,6 +1012,7 @@ export const ui = {
     ...notFoundUI['zh-TW'],
     ...taiwanShapeUI['zh-TW'],
     ...semiontUI['zh-TW'],
+    ...exploreUI['zh-TW'],
     'nav.aria-home': 'Taiwan.md 首頁',
     'nav.aria-img-label': 'Taiwan.md 標誌圖示',
     'nav.aria-toggle-menu': '開啟/關閉導航選單',

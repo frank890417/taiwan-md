@@ -109,7 +109,7 @@ const isHome = normalizedPath === '/' || normalizedPath === '/en';
 
 const navConfig = [
   { path: '/about', label: t('nav.about') },
-  { path: '/#categories', label: t('nav.explore') },
+  { path: '/explore', label: t('nav.explore') },
   { path: '/map', label: t('nav.map') },
   { path: '/data', label: t('nav.data') },
   { path: '/soundscape', label: t('nav.soundscape') },
@@ -276,7 +276,7 @@ const categoryList = [
                   </Fragment>
                 );
               }
-              if (item.path === '/#categories') {
+              if (item.path === '/explore') {
                 return (
                   <Fragment>
                     {showSep && <span class="nav-sep" />}
@@ -593,9 +593,7 @@ const categoryList = [
       <nav class="nav-mobile" aria-label={t('nav.aria-mobile-navigation')}>
         {
           navConfig.map((item) => {
-            const hasSub = ['/#categories', '/map', '/semiont'].includes(
-              item.path,
-            );
+            const hasSub = ['/explore', '/map', '/semiont'].includes(item.path);
             return (
               <Fragment>
                 <div class:list={['mobile-nav-item', { 'has-sub': hasSub }]}>
@@ -615,7 +613,7 @@ const categoryList = [
                     </button>
                   )}
                 </div>
-                {item.path === '/#categories' && (
+                {item.path === '/explore' && (
                   <div class="mobile-sub-links open">
                     <a
                       href={translatePath('/graph')}
