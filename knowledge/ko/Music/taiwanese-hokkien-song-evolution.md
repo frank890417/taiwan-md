@@ -4,7 +4,16 @@ description: '나카시, 홍이펑, 장혜매 시대부터 가지단(茄子蛋),
 date: 2026-03-19
 category: 'Music'
 tags:
-  ['타이위 노래', '나카시', '홍이펑', '장혜매', '가지단', '파이시에샤오녠', '커라치', '금곡상']
+  [
+    '타이위 노래',
+    '나카시',
+    '홍이펑',
+    '장혜매',
+    '가지단',
+    '파이시에샤오녠',
+    '커라치',
+    '금곡상',
+  ]
 subcategory: '팝 음악'
 author: 'Taiwan.md Translation Team'
 featured: true
@@ -12,10 +21,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: 'ce7f10f8'
-sourceContentHash: 'sha256:622a389cac4436c3'
-sourceBodyHash: 'sha256:37d24845bd7d42b6'
-translatedAt: '2026-05-09T14:31:08Z'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:a97c2de5935f84d1'
+sourceBodyHash: 'sha256:29498f1ec67dd86e'
+translatedAt: '2026-05-10T12:00:00Z'
 ---
 
 # 대만 타이위 노래의 변천: 어르신 노래에서 인디 팬의 사랑으로

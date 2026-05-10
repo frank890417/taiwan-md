@@ -3,7 +3,7 @@ title: 'チェン・ウェイイン'
 description: '25億台湾ドルという史上最高額の契約を締結したが、実際に受け取ったのは47％に過ぎない左投手'
 date: 2026-03-22
 author: 'Taiwan.md'
-category: 'people'
+category: 'People'
 subcategory: '體育'
 tags:
   [
@@ -21,10 +21,10 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:231187a409527522'
-sourceBodyHash: 'sha256:d108a9297d14dc10'
-translatedAt: '2026-05-01T18:09:43+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:6b7e4f91c9d8e7c0'
+sourceBodyHash: 'sha256:dcb79e520722938f'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 > **30秒概覽：** チェン・ウェイインは、日本プロ野球から直接メジャーリーグへ移籍した初の台湾出身投手です。

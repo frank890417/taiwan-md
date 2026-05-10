@@ -10,10 +10,10 @@ readingTime: 9
 featured: false
 translatedFrom: 'Society/人權與性別平等.md'
 lastVerified: 2026-03-19
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:b007d781b4327433'
-sourceBodyHash: 'sha256:318958941cae16c4'
-translatedAt: '2026-04-14T05:40:02+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:814b451ca9006dad'
+sourceBodyHash: 'sha256:a6995e962160e803'
+translatedAt: '2026-05-10T12:00:00Z'
 ---
 
 # 인권과 젠더 평등

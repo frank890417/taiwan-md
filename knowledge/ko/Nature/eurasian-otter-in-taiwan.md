@@ -19,10 +19,10 @@ readingTime: 10
 lastVerified: 2026-04-25
 lastHumanReview: false
 translatedFrom: Nature/水獺.md
-sourceCommitSha: 2adb8222
-sourceContentHash: sha256:aaf180d9d935b596
-sourceBodyHash: 'sha256:55b4ad88d2c4a79f'
-translatedAt: 2026-05-01T22:19:01+08:00
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:321d097dbb83cd33'
+sourceBodyHash: 'sha256:248f2fda20ea4369'
+translatedAt: '2026-05-10T12:00:00Z'
 ---
 
 # 대만 수달: 금문 유라시아 수달의 고립된 섬 생존기와 본조의 조용한 소멸
@@ -103,7 +103,7 @@ translatedAt: 2026-05-01T22:19:01+08:00
 
 [^12]: [서식지와 인간 활동 지역이 고도로 겹치는 금문 "유라시아 수달" 분변에서 미세플라스틱 검출](https://www.natgeomedia.com/environment/article/content-15247.html) — 내셔널 지오그래픽(2022).
 
-[^13]: [플라스틱의 운명을 피할 수 없다: 대만 보전종 야생동물 및 서식지 미세플라스틱 오염 조사](https://issuu.com/greenpeace_eastasia/docs/2022_microplastic_in_taiwan_conservation_animals) — 그린피스 전체 보고서.
+[^13]: [플라스틱의 운명을 피할 수 없다: 대만 보전종 야생동물 및 서식지 미세플라스틱 오염 조사](https://issuu.com/greenpeace_eastasia/docs/2022_microplastic_in_taiwan_conservation_animals) — 그린피스 전체 보고서. 원문 링크 내용 참조.
 
 [^14]: [사금천 인공호의 생태 위기｜논란 속 일시 보류가 불러일으킨 성찰](https://ourisland.pts.org.tw/content/10454) — 우리들의 섬(2023).
 

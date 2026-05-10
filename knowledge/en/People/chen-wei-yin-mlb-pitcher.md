@@ -4,17 +4,17 @@ description: "The left-hander who signed Taiwan's highest sports contract but on
 date: 2026-03-22
 tags: [people, baseball, sports, professional athlete, MLB, NPB]
 subcategory: 'Sports'
-category: 'people'
+category: 'People'
 author: 'Taiwan.md'
 featured: false
 readingTime: 6
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:231187a409527522'
-sourceBodyHash: 'sha256:d108a9297d14dc10'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:6b7e4f91c9d8e7c0'
+sourceBodyHash: 'sha256:dcb79e520722938f'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 > **30-second overview:** Wei-Yin Chen was the first Taiwanese pitcher to jump directly from NPB to MLB,

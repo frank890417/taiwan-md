@@ -22,10 +22,10 @@ lastVerified: 2026-04-04
 lastHumanReview: 2026-04-04
 featured: true
 translatedFrom: Art/台灣新媒體藝術.md
-sourceCommitSha: ee4917f3
-sourceContentHash: sha256:d65b35a4569fdd34
-sourceBodyHash: 'sha256:c49b8a3dc9dc5eeb'
-translatedAt: 2026-05-01T20:54:10+08:00
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:9bd3fb8545ca6bf8'
+sourceBodyHash: 'sha256:6bb7848c2fabe7e4'
+translatedAt: '2026-05-10T12:00:00Z'
 ---
 
 # 타이완 뉴미디어 아트
@@ -156,6 +156,7 @@ translatedAt: 2026-05-01T20:54:10+08:00
 - [報導者：把調查報導從營業項目救成公共財的十年](/society/報導者) — 마찬가지로 시민 커뮤니티가 추진하고 크로스 디시플린으로 성장한 또 다른 Taiwan-DNA 사례, 2015년 이후 시민사회가 공공재를 구축한 또 다른 경로 보여줌
 - [justfont 與台灣字體發展：從華康廿五年到金萱七十六分鐘的字型小史](/technology/justfont與台灣字體發展) — 글꼴을 문화 기반 시설로, 뉴미디어 아트와 마찬가지로 타이완 시각 주체성에 주목하는 또 다른 차원
 - [海底電纜：矽盾頂上看得到，命脈底下看不見](/technology/海底電纜) — 국제 뉴미디어 아트 전시와 큐레이션 협업의 99%가 해저 케이블을 경유, 이 보이지 않는 디지털 문화 기반 시설을 고발
+- [聶永真](/people/聶永真) — 대만 최초의 AGI(국제 그래픽 디자인 연맹) 회원, 녜용전 공방(永真急制)과 대만 현대 시각 문화의 큐레이션적 위치
 
 ## 참고 자료
 

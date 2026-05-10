@@ -1,7 +1,7 @@
 ---
 title: "Kuo Chin-fa: The Bass Soul Behind 'Roasted Rice Dumpling'"
 description: "From a shoemaker's apprentice in Dadaocheng to the 'Island's Bass King,' Kuo Chin-fa used 'Roasted Rice Dumpling' to sing out the hardship and resilience of postwar Taiwanese common people — and burned up his last breath on stage."
-category: People
+category: 'People'
 tags:
   [
     'music',
@@ -10,16 +10,18 @@ tags:
     'Bass King',
     'martial law banned songs',
   ]
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
+featured: false
 date: 2026-04-19
-readingTime: 10
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
+readingTime: 10
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '2d6af4d2'
-sourceContentHash: 'sha256:c7f8174c853276ba'
-sourceBodyHash: 'sha256:2f700eb4acb2f9b7'
-translatedAt: '2026-05-01T12:53:58+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:9249bda4ae2408de'
+sourceBodyHash: 'sha256:db9995896174da37'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 > **📝 Curator's note**

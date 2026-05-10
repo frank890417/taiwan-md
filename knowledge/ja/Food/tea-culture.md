@@ -16,10 +16,10 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 created: 2026-03-23
 readingTime: 12
 translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: 'ce7f10f8'
-sourceContentHash: 'sha256:86475082b87388fc'
-sourceBodyHash: 'sha256:a9375147f15627a6'
-translatedAt: '2026-05-09T14:30:48Z'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:355edf5d838e3009'
+sourceBodyHash: 'sha256:84b4858bc19ac1b0'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 # 台湾茶文化

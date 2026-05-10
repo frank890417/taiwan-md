@@ -2,18 +2,18 @@
 title: 'Stan Shih'
 description: 'Mentor emprendedor que admitió pérdidas de cien mil millones, la filosofía del fracaso detrás de la Curva de la Sonrisa'
 date: 2026-03-22
+category: 'People'
 tags: ['Personajes', 'Empresarios', 'Tecnología', 'Acer', 'Curva de la Sonrisa']
 subcategory: '科技與企業'
-category: 'people'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:d36614a40d07f9c0'
-sourceBodyHash: 'sha256:5f377990ea68f933'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:92cf9b04314eac9b'
+sourceBodyHash: 'sha256:dce1b037c6c4a498'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 > **Resumen de 30 segundos:** Stan Shih, fundador de Acer, es el único líder empresarial de Taiwán que ha admitido públicamente pérdidas superiores a los cien mil millones de dólares taiwaneses (TWD);

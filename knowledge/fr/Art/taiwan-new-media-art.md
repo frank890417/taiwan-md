@@ -22,10 +22,10 @@ lastVerified: 2026-04-04
 lastHumanReview: 2026-04-04
 featured: true
 translatedFrom: Art/台灣新媒體藝術.md
-sourceCommitSha: ee4917f3
-sourceContentHash: sha256:d65b35a4569fdd34
-sourceBodyHash: 'sha256:c49b8a3dc9dc5eeb'
-translatedAt: 2026-05-01T20:54:17+08:00
+sourceCommitSha: 3e53281a
+sourceContentHash: sha256:9bd3fb8545ca6bf8
+sourceBodyHash: 'sha256:6bb7848c2fabe7e4'
+translatedAt: 2026-05-10T00:00:00Z
 ---
 
 # L'art des nouveaux médias à Taïwan
@@ -156,6 +156,7 @@ Lorsque le nom de Yu Shien Yang apparaît sur la liste des lauréats de l'Ars El
 - [Le Reporter : dix ans pour sauver le journalisme d'investigation du registre commercial et en faire un bien public](/society/報導者) — Un autre cas de Taiwan-DNA porté par une communauté citoyenne et une croissance transdisciplinaire, illustrant une autre voie de construction de biens publics par la société civile après 2015
 - [justfont et le développement de la typographie taïwanaise : vingt-cinq ans chez Dynatype à soixante-sept minutes pour Jin-Xuan](/technology/justfont與台灣字體發展) — La typographie comme infrastructure culturelle, une autre dimension de la souveraineté visuelle taïwanaise, au même titre que l'art des nouveaux médias
 - [Les câbles sous-marins : visibles au sommet du Bouclier de silicium, invisibles sous la ligne de vie](/technology/海底電纜) — 99 % des collaborations de commissariat et de présentation d'art des nouveaux médias transnationaux transitent par les câbles sous-marins ; cet article révèle cette infrastructure culturelle numérique invisible
+- [Nieh Yung-chen](/people/聶永真) — Premier membre taïwanais de l'Alliance graphique internationale (AGI), son studio Forever Studio et sa position curatrice au sein de la culture visuelle contemporaine taïwanaise
 
 ## Références
 

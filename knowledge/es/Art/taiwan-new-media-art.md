@@ -2,7 +2,7 @@
 title: 'El arte de nuevos medios en Taiwán'
 description: 'Desde los pioneros del video en la década de 1980 hasta el premio de RV en Venecia, la trayectoria completa de 16 artistas clave y 40 años de revolución del arte digital. Cómo Taiwán escribe poesía con código y graba su nombre en el mapa artístico internacional.'
 date: 2026-03-28
-category: Art
+category: 'Art'
 tags:
   [
     'Arte de nuevos medios',
@@ -18,14 +18,15 @@ tags:
     'C-LAB',
   ]
 subcategory: '新媒體與數位藝術'
-lastVerified: 2026-04-04
-lastHumanReview: 2026-04-04
+author: 'Taiwan.md'
 featured: true
-translatedFrom: Art/台灣新媒體藝術.md
-sourceCommitSha: ee4917f3
-sourceContentHash: sha256:d65b35a4569fdd34
-sourceBodyHash: 'sha256:c49b8a3dc9dc5eeb'
-translatedAt: 2026-05-01T20:54:23+08:00
+lastVerified: 2026-04-04
+lastHumanReview: true
+translatedFrom: 'Art/台灣新媒體藝術.md'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:9bd3fb8545ca6bf8'
+sourceBodyHash: 'sha256:6bb7848c2fabe7e4'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 # El arte de nuevos medios en Taiwán
@@ -156,6 +157,7 @@ Cuando en 2025 el nombre de Yu Shien Yang apareció en la lista de premiados del
 - [The Reporter: diez años rescatando el periodismo de investigación de un rubro comercial a un bien público](/society/報導者) — Otro caso de ADN taiwánés impulsado por la comunidad ciudadana y de crecimiento transversal, que muestra otra vía de construcción de bienes públicos por parte de la sociedad civil a partir de 2015.
 - [justfont y el desarrollo tipográfico en Taiwán: una pequeña historia tipográfica de los veinticinco años de Dynafund a los setenta y seis minutos de Jin-Syuan](/technology/justfont與台灣字體發展) — La tipografía como infraestructura cultural, otra dimensión que, al igual que el arte de nuevos medios, se ocupa de la subjetividad visual taiwanesa.
 - [Cables submarinos: visibles en la cima del escudo de silicio, invisibles en el fondo como lifeline](/technology/海底電纜) — El 99% de las colaboraciones curatoriales y exposiciones internacionales de arte de nuevos medios transcurren por cable submarino; este artículo revela esta infraestructura cultural digital invisible.
+- [Aaron Nieh (聶永真)](/people/聶永真) — Primer miembro taiwanés de la Alliance Graphique Internationale (AGI), y la posición curatorial del estudio forever·true en la cultura visual contemporánea de Taiwán.
 
 ## Referencias
 

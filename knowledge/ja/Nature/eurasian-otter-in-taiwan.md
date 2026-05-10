@@ -19,10 +19,10 @@ readingTime: 10
 lastVerified: 2026-04-25
 lastHumanReview: false
 translatedFrom: Nature/水獺.md
-sourceCommitSha: 2adb8222
-sourceContentHash: sha256:aaf180d9d935b596
-sourceBodyHash: 'sha256:55b4ad88d2c4a79f'
-translatedAt: 2026-05-01T18:02:56+08:00
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:321d097dbb83cd33'
+sourceBodyHash: 'sha256:248f2fda20ea4369'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 # 台湾のカワウソ：金門ユーラシアカワウソの孤島サバイバルと本島の静かなる消滅

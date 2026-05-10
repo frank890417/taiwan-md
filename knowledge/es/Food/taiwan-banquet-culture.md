@@ -2,6 +2,7 @@
 title: 'La cultura del banquete taiwanés'
 description: 'Una industria que existe desde la dinastía Qing, que en la tierra más árida de Taiwán produjo la mayor densidad mundial de chefs itinerantes. La pandemia evaporó el 90 % de los pedidos, pero lo que realmente preocupa a los expertos nunca fue el desempleo: fue la pérdida de la tradición.'
 date: '2026-03-30'
+category: 'Food'
 tags:
   [
     'Banquetes itinerantes',
@@ -14,15 +15,16 @@ tags:
     'Calidez humana',
   ]
 subcategory: '飲食場景'
-category: 'Food'
-readingTime: '7'
+author: 'Taiwan.md'
+featured: false
 lastVerified: '2026-03-30'
-lastHumanReview: 'false'
+lastHumanReview: false
+readingTime: 7
 translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:f32e8e2ccf42dc0e'
-sourceBodyHash: 'sha256:cfc9322860941967'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:c5e399e754058d4d'
+sourceBodyHash: 'sha256:729745d6e7b80390'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 # La cultura del banquete taiwanés

@@ -2,9 +2,7 @@
 title: 'La nutria de Taiwán: la lucha por la supervivencia de la nutria euroasiática en Kinmen y su silenciosa desaparición en la isla principal'
 description: 'La nutria euroasiática en la isla principal de Taiwán no tiene registros confirmados en estado silvestre desde la década de 1980; el estado de su población es incierto y sumamente desfavorable. La única población que sobrevive, en Kinmen —conocida como la "nutria de zona de guerra"— enfrenta una convergencia de amenazas: fragmentación de hábitat, atropellos en carreteras y contaminación por microplásticos.'
 date: 2026-04-25
-author: 'Taiwan.md Contributors'
-category: Nature
-subcategory: '保育與環境'
+category: 'Nature'
 tags:
   [
     'nutria euroasiática',
@@ -15,14 +13,17 @@ tags:
     'atropellos',
     'fragmentación de hábitat',
   ]
-readingTime: 10
+subcategory: '保育與環境'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-translatedFrom: Nature/水獺.md
-sourceCommitSha: 2adb8222
-sourceContentHash: sha256:aaf180d9d935b596
-sourceBodyHash: 'sha256:55b4ad88d2c4a79f'
-translatedAt: 2026-05-01T22:19:10+08:00
+readingTime: 10
+translatedFrom: 'Nature/水獺.md'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:321d097dbb83cd33'
+sourceBodyHash: 'sha256:248f2fda20ea4369'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 # La nutria de Taiwán: la lucha por la supervivencia de la nutria euroasiática en Kinmen y su silenciosa desaparición en la isla principal
@@ -103,7 +104,7 @@ La lucha por la supervivencia de la nutria de Kinmen en su isla-refugio es un mi
 
 [^12]: [Hábitat altamente solapado con actividad humana: se detectan microplásticos en las heces de la "nutria euroasiática" de Kinmen](https://www.natgeomedia.com/environment/article/content-15247.html) — National Geographic (2022).
 
-[^13]: [Sin escapar del destino plástico: investigación sobre contaminación por microplásticos en animales silvestres protegidos y sus hábitats en Taiwán](https://issuu.com/greenpeace_eastasia/docs/2022_microplastic_in_taiwan_conservation_animals) — Informe completo de Greenpeace.
+[^13]: [Sin escapar del destino plástico: investigación sobre contaminación por microplásticos en animales silvestres protegidos y sus hábitats en Taiwán](https://issuu.com/greenpeace_eastasia/docs/2022_microplastic_in_taiwan_conservation_animals) — Informe completo de Greenpeace. Véase el contenido del enlace original.
 
 [^14]: [La crisis ecológica del lago artificial del río Jinsha | La suspensión en medio de la controversia invita a la reflexión](https://ourisland.pts.org.tw/content/10454) — _Nuestra Isla_ (2023).
 

@@ -18,10 +18,10 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-30
 translatedFrom: 'Culture/族群（閩南客家原住民外省新住民）.md'
-sourceCommitSha: '44b55077'
-sourceContentHash: 'sha256:9192f33930425491'
-sourceBodyHash: 'sha256:7675a44fa40054c8'
-translatedAt: '2026-04-14T19:13:02+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:5007b3d5a265fc61'
+sourceBodyHash: 'sha256:cbc31b670ca05510'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 # Les groupes ethniques de Taïwan

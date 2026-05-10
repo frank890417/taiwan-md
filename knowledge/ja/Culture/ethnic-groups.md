@@ -10,10 +10,10 @@ readingTime: 12
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Culture/族群（閩南客家原住民外省新住民）.md'
-sourceCommitSha: '44b55077'
-sourceContentHash: 'sha256:306fb6bf9be5859b'
-sourceBodyHash: 'sha256:7675a44fa40054c8'
-translatedAt: '2026-05-02T08:50:00+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:5007b3d5a265fc61'
+sourceBodyHash: 'sha256:cbc31b670ca05510'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 # 台湾の族群

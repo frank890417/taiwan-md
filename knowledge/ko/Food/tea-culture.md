@@ -1,6 +1,6 @@
 ---
 title: '대만 차 문화'
-description: '국제 차 생산 제한 협정에서 배제된 작은 섬은 오히려 차 산업의 황금기를 만들었고, 마지막에는 ''작은 간식''을 넣은 밀크티 한 잔으로 세계를 사로잡았다'
+description: "국제 차 생산 제한 협정에서 배제된 작은 섬은 오히려 차 산업의 황금기를 만들었고, 마지막에는 '작은 간식'을 넣은 밀크티 한 잔으로 세계를 사로잡았다"
 date: 2026-03-23
 category: 'Food'
 tags: ['Food', '차 문화', '우롱차', '고산차', '손흔들 음료', '버블티']
@@ -15,10 +15,10 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 created: 2026-03-23
 readingTime: 12
 translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: 'ce7f10f8'
-sourceContentHash: 'sha256:86475082b87388fc'
-sourceBodyHash: 'sha256:a9375147f15627a6'
-translatedAt: '2026-05-09T14:31:08Z'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:355edf5d838e3009'
+sourceBodyHash: 'sha256:84b4858bc19ac1b0'
+translatedAt: '2026-05-10T12:00:00Z'
 ---
 
 # 대만 차 문화

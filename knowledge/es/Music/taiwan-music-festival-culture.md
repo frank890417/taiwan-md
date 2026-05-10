@@ -2,6 +2,7 @@
 title: 'La cultura de los festivales musicales en Taiwán: por qué una isla necesita tantas fiestas al aire libre'
 description: 'Desde el escenario improvisado que dos estadounidenses montaron en las playas de Kenting en 1995, hasta los más de 50 festivales que se celebran cada año a lo largo y ancho de la isla. La densidad de festivales musicales de Taiwán es posiblemente la más alta del mundo, y sus pioneros no eran taiwaneses.'
 date: '2026-03-29'
+category: 'Music'
 tags:
   [
     'festivales musicales',
@@ -12,17 +13,16 @@ tags:
     'cultura juvenil',
   ]
 subcategory: '獨立與搖滾'
-category: 'Music'
 author: 'Taiwan.md'
 featured: true
-readingTime: 10
 lastVerified: '2026-03-29'
 lastHumanReview: false
+readingTime: 10
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:81daef88e9eeac8f'
-sourceBodyHash: 'sha256:f84387198c5041a5'
-translatedAt: '2026-05-01T20:54:23+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:005a4c23ff74281f'
+sourceBodyHash: 'sha256:cf3f4e933a5718b8'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 **La cultura de los festivales musicales en Taiwán comenzó en 1995, cuando dos estadounidenses montaron un escenario improvisado en las playas de Kenting. En tres décadas, dio lugar a especies tan distintas como Spring Scream, el Festival de Música del Océano y Megaport Festival. Para la década de 2020, esta isla de superficie menor que los Países Bajos acogía más de 50 festivales al año. No es una escala que pueda explicarse por la demanda del mercado: se acerca más a un ritual colectivo, la forma en la que toda una generación encontró su propia voz al aire libre.**

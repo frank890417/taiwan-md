@@ -10,10 +10,10 @@ featured: false
 readingTime: 6
 lastVerified: 2026-03-22
 translatedFrom: "People/陳偉殷.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:231187a409527522"
-sourceBodyHash: 'sha256:d108a9297d14dc10'
-translatedAt: "2026-04-14T19:19:21+08:00"
+sourceCommitSha: "3e53281a"
+sourceContentHash: "sha256:6b7e4f91c9d8e7c0"
+sourceBodyHash: 'sha256:dcb79e520722938f'
+translatedAt: "2026-05-10T00:00:00Z"
 ---
 
 > **En 30 secondes :** Wei-Yin Chen est le premier lanceur taïwanais à avoir rejoint les Ligues majeures directement depuis le baseball japonais. En 2016, il signe un contrat de 80 millions de dollars sur cinq ans — le plus lucratif jamais accordé à un sportif taïwanais —, mais après impôts, commissions et assurances, il n'en touchera que 47 %. Au total, 96 victoires entre les États-Unis et le Japon, dont 59 en MLB, juste derrière les 68 de Wang Chien-Ming.

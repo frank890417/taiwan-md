@@ -17,10 +17,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: true
 translatedFrom: 'Music/台灣音樂祭文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:81daef88e9eeac8f'
-sourceBodyHash: 'sha256:f84387198c5041a5'
-translatedAt: '2026-04-14T10:22:29+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:005a4c23ff74281f'
+sourceBodyHash: 'sha256:cf3f4e933a5718b8'
+translatedAt: '2026-05-10T12:00:00Z'
 ---
 
 **대만의 음악 축제 문화는 1995년 두 미국인이 켄팅 해변에 거칠게 세운 무대에서 시작되었다. 30년에 걸쳐 스프링 스크림, 해양 음악제, 다강개창이라는 전혀 다른 형태로 진화했다. 2020년대에 이르러, 네덜란드보다 작은 이 섬에서는 매년 50개 이상의 음악 축제가 열린다. 이는 시장 수요만으로는 설명할 수 없는 규모다. 오히려 하나의 집단적 의식에 가깝다. 한 세대 전체가 야외에서 자신만의 목소리를 찾아가는 방식.**

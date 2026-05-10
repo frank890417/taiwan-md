@@ -3,17 +3,17 @@ title: '施振榮'
 description: '千億台湾ドル超の損失を認めた起業メンター、スマイルカーブ背後の失敗哲学'
 date: '2026-03-22'
 author: 'Taiwan.md'
-category: 'people'
+category: 'People'
 subcategory: '科技與企業'
 tags: ['人物', '企業家', '科学技術', 'エイサー', 'スマイルカーブ']
 lastVerified: '2026-03-22'
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:d36614a40d07f9c0'
-sourceBodyHash: 'sha256:5f377990ea68f933'
-translatedAt: '2026-05-01T18:09:43+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:92cf9b04314eac9b'
+sourceBodyHash: 'sha256:dce1b037c6c4a498'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 > **30秒概覧：** エイサー創業者の施振榮は、台湾で唯一千億台湾ドル超の損失を公に認めた企業の教父であり、

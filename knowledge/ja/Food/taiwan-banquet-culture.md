@@ -19,10 +19,10 @@ readingTime: 7
 lastVerified: 2026-03-30
 lastHumanReview: false
 translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:f32e8e2ccf42dc0e'
-sourceBodyHash: 'sha256:cfc9322860941967'
-translatedAt: '2026-05-01T18:02:56+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:c5e399e754058d4d'
+sourceBodyHash: 'sha256:729745d6e7b80390'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 # 台湾の屋台宴会文化（パンチョ文化）

@@ -2,27 +2,27 @@
 title: 'Grupos étnicos (hokkien, hakka, pueblos originarios,外省, nuevos residentes)'
 description: 'Una ceremonia de disculpa, una marcha de diez mil personas, 570 000 familias recién llegadas: la historia de los grupos étnicos de Taiwán es mucho más compleja que las cuatro palabras «coexistencia plural».'
 date: 2026-03-30
+category: 'Culture'
 tags:
   [
-    cultura,
-    grupos étnicos,
-    pueblos originarios,
-    hakka,
-    hokkien,
-    外省,
-    nuevos residentes,
+    'cultura',
+    'grupos étnicos',
+    'pueblos originarios',
+    'hakka',
+    'hokkien',
+    '外省',
+    'nuevos residentes',
   ]
 subcategory: '族群文化'
-category: 'Culture'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30
-lastHumanReview: 2026-04-04
-translatedFrom: Culture/族群（閩南客家原住民外省新住民）.md
-sourceCommitSha: 44b55077
-sourceContentHash: sha256:9192f33930425491
-sourceBodyHash: 'sha256:7675a44fa40054c8'
-translatedAt: 2026-05-02T01:17:17+08:00
+lastHumanReview: true
+translatedFrom: 'Culture/族群（閩南客家原住民外省新住民）.md'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:5007b3d5a265fc61'
+sourceBodyHash: 'sha256:cbc31b670ca05510'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 # Los grupos étnicos de Taiwán

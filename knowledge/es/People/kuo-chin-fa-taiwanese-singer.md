@@ -2,24 +2,26 @@
 title: 'Kuo Chin-fa: El alma de voz grave detrás de los zongzi asados'
 description: 'De aprendiz de zapatero en Dadaocheng a Rey de la Voz Grave de la Isla Preciosa, Kuo Chin-fa cantó con «Zongzi asados» la amargura y la resiliencia del pueblo taiwanés de posguerra, y consumió hasta la última chispa de su vida sobre el escenario.'
 date: 2026-04-19
-author: Taiwan.md Contributors
-category: People
+category: 'People'
 tags:
   [
-    Música,
-    Canción taiwanesa,
-    Zongzi asados,
-    Rey de la voz grave,
-    Canciones prohibidas durante la ley marcial,
+    'Música',
+    'Canción taiwanesa',
+    'Zongzi asados',
+    'Rey de la voz grave',
+    'Canciones prohibidas durante la ley marcial',
   ]
-readingTime: 10
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
-translatedFrom: People/郭金發.md
-sourceCommitSha: 2d6af4d2
-sourceContentHash: sha256:c7f8174c853276ba
-sourceBodyHash: 'sha256:2f700eb4acb2f9b7'
-translatedAt: 2026-05-01T22:19:10+08:00
+lastHumanReview: true
+readingTime: 10
+translatedFrom: 'People/郭金發.md'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:9249bda4ae2408de'
+sourceBodyHash: 'sha256:db9995896174da37'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 > **📝 Nota del curador**

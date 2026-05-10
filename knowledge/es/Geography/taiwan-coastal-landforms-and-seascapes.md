@@ -2,9 +2,7 @@
 title: 'Formas costeras y paisajes marinos de Taiwán'
 description: 'En la Tierra, pocos lugares permiten partir desde una cima de casi 4.000 metros y caer en una fosa oceánica de 7.500 metros de profundidad en menos de 150 kilómetros. Taiwán sí. La línea costera de esta isla es un accidente de tránsito aún en curso —bello hasta cortar la respiración—.'
 date: '2026-03-24'
-author: 'Taiwan.md'
 category: 'Geography'
-subcategory: '地形與地質'
 tags:
   [
     'formas costeras',
@@ -13,15 +11,17 @@ tags:
     'procesos geológicos',
     'paisajes naturales',
   ]
-readingTime: '10'
+subcategory: '地形與地質'
+author: 'Taiwan.md'
+featured: true
 lastVerified: '2026-03-24'
-lastHumanReview: 'true'
-featured: 'true'
+lastHumanReview: true
+readingTime: 10
 translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:6cf131bbf7b2e79b'
-sourceBodyHash: 'sha256:ab5de473384c6799'
-translatedAt: '2026-05-02T01:17:17+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:e54550587495a0bf'
+sourceBodyHash: 'sha256:d5f36e528ad6bbba'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 > **Panorama en 30 segundos:** Desde la cumbre del Monte Yu (3.952 m) hasta la Fosa de Ryukyu en el mar oriental (-7.507 m), la diferencia vertical supera los 11.000 metros en una distancia horizontal de menos de 150 kilómetros. Esta cifra convierte a Taiwán en una de las islas con mayor gradiente topográfico del planeta —más "concentrado" que saltar desde el Everest hasta la Fosa de las Marianas—. Y todo esto ocurrió en solo 5 millones de años.
@@ -55,7 +55,7 @@ El Monte Yu, a 3.952 metros, es el pico más alto del noreste de Asia. A menos d
 > - 🔄 Tasa de erosión: ~5,3 mm/año
 >   (Fuentes: Administración del Parque Nacional Yushan, Britannica, Oficina Central de Investigación Geológica)
 
-Hace 5 millones de años, la Placa del Mar de Filipinas colisionó con la [[歐亞板塊|Placa Euroasiática]] a una velocidad de 7-8 centímetros por año. Esa colisión aún no ha cesado. Taiwán no es un "vestigio" de la colisión de placas —es, **ahora mismo**, el lugar del impacto. El mármol del Acantilado de Qingshui se formó hace 250 millones de años, reposando en silencio en el fondo del mar profundo. Cinco millones de años de compresión lo empujaron casi mil metros hacia arriba, y luego una falla lo cortó de tajo, creando un acantilado vertical con un desnivel de 800 metros.
+Hace 5 millones de años, la Placa del Mar de Filipinas colisionó con la Placa Euroasiática a una velocidad de 7-8 centímetros por año. Esa colisión aún no ha cesado. Taiwán no es un "vestigio" de la colisión de placas —es, **ahora mismo**, el lugar del impacto. El mármol del Acantilado de Qingshui se formó hace 250 millones de años, reposando en silencio en el fondo del mar profundo. Cinco millones de años de compresión lo empujaron casi mil metros hacia arriba, y luego una falla lo cortó de tajo, creando un acantilado vertical con un desnivel de 800 metros.
 
 Al mirar hacia abajo desde la carretera Suhua, cada roca blanca bajo tus pies fue alguna vez el resto de un organismo marino.
 
@@ -67,11 +67,11 @@ Debido a que el ángulo y la fuerza de esta colisión no son uniformes, las cuat
 
 El este es el frente de la colisión —las montañas emergen directamente del fondo marino. El Acantilado de Qingshui se extiende 21 kilómetros de acantilado continuo, un paisaje de "acantilado marino" poco común en el mundo. Aquí no hay playas, no hay zona de amortiguamiento: solo roca y el choque frontal con el Océano Pacífico.
 
-[[石梯坪]] (Shitiping), en Hualien, parece una cápsula del tiempo abierta: una terraza de arrecife de coral en forma de escalera, donde cada "peldaño" es una marca del nivel del mar de una época diferente. El arrecife más antiguo, en el nivel superior, tiene 120.000 años y registra el momento en que el nivel del mar alcanzó su máximo durante el último interglacial.
+Shitiping (石梯坪), en Hualien, parece una cápsula del tiempo abierta: una terraza de arrecife de coral en forma de escalera, donde cada "peldaño" es una marca del nivel del mar de una época diferente. El arrecife más antiguo, en el nivel superior, tiene 120.000 años y registra el momento en que el nivel del mar alcanzó su máximo durante el último interglacial.
 
 ### Costa oeste: suave, pero en desaparición
 
-La costa occidental es la cara opuesta de la colisión —el [[濁水溪]] (Río Zhuoshui) arrastra 40 millones de toneladas de sedimento al mar cada año, y durante millones de años ha rellenado las llanuras de la mitad occidental de Taiwán. Aquí hay lagunas, humedales y el mayor banco de arena de Taiwán.
+La costa occidental es la cara opuesta de la colisión —el Río Zhuoshui (濁水溪) arrastra 40 millones de toneladas de sedimento al mar cada año, y durante millones de años ha rellenado las llanuras de la mitad occidental de Taiwán. Aquí hay lagunas, humedales y el mayor banco de arena de Taiwán.
 
 Pero esta costa suave está pagando un precio.
 
@@ -87,7 +87,7 @@ El cuello de la Cabeza de la Reina adelgaza entre 1 y 2 centímetros al año. La
 
 ### Costa sur: cuenta regresiva del paraíso tropical
 
-[[墾丁]] (Kenting) es la única costa de arrecife de coral tropical de Taiwán. Caminando por la calle principal de Kenting, la roca blanca bajo tus pies son restos de coral de hace 120.000 años —tras la retirada del mar en el último interglacial, la corteza terrestre elevó estos antiguos arrecifes más de 200 metros.
+Kenting (墾丁) es la única costa de arrecife de coral tropical de Taiwán. Caminando por la calle principal de Kenting, la roca blanca bajo tus pies son restos de coral de hace 120.000 años —tras la retirada del mar en el último interglacial, la corteza terrestre elevó estos antiguos arrecifes más de 200 metros.
 
 Los arrecifes modernos bajo la superficie albergan 60 especies de coral constructor de arrecifes y más de 1.200 especies de peces, con una densidad biológica comparable a la selva amazónica. Pero en el verano de 2020, Taiwán sufrió el mayor evento de blanqueamiento de coral jamás registrado. Un equipo de la Academia Sinica documentó 28.250 colonias de coral en 62 sitios alrededor de la isla, con conclusiones desoladoras: la Isla Xiaoliuqiu perderá el 55 % de sus corales, y la costa noreste y Kenting alrededor del 30 %.
 
@@ -106,7 +106,7 @@ El **reloj humano** avanza hacia abajo: Waizishan se redujo un 65 % en 36 años.
 
 📝 **Nota curatorial:** La historia de la costa taiwanesa no es tan simple como "la humanidad destruye la naturaleza". La isla misma es una "destrucción" en curso desde hace 5 millones de años —colisión de placas, corte por fallas, erosión marina. Las actividades humanas (retención de arena por Liuying, emisiones de carbono que calientan el clima) simplemente añadieron una nueva variación al ritmo geológico natural. El problema no es la destrucción en sí, sino la velocidad —lo que la geología tarda millones de años en hacer, nosotros lo logramas en décadas.
 
-Sobre las 1.600 hectáreas de la laguna de Qigu, cada invierno llegan entre 2.000 y 3.000 [[黑面琵鷺|espátulas menores]] (_Platalea minor_) a invernar, representando más del 60 % de la población mundial. Los cangrejos violinistas (_Uca_) de las llanuras fangosas de la costa oeste poseen un reloj biológico preciso: comienzan a agitar sus pinzas en cortejo 30 minutos antes de la bajada de la marea —incluso trasladados al laboratorio, siguen el ritmo de las mareas de su hábitat original durante semanas.
+Sobre las 1.600 hectáreas de la laguna de Qigu, cada invierno llegan entre 2.000 y 3.000 espátulas menores (_Platalea minor_) a invernar, representando más del 60 % de la población mundial. Los cangrejos violinistas (_Uca_) de las llanuras fangosas de la costa oeste poseen un reloj biológico preciso: comienzan a agitar sus pinzas en cortejo 30 minutos antes de la bajada de la marea —incluso trasladados al laboratorio, siguen el ritmo de las mareas de su hábitat original durante semanas.
 
 Estos seres no saben que Waizishan está desapareciendo. Simplemente viven según su propio reloj.
 

@@ -10,10 +10,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: Society/人權與性別平等.md
-sourceCommitSha: 800114ea
-sourceContentHash: sha256:b007d781b4327433
-sourceBodyHash: 'sha256:318958941cae16c4'
-translatedAt: 2026-05-01T18:02:56+08:00
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:814b451ca9006dad'
+sourceBodyHash: 'sha256:a6995e962160e803'
+translatedAt: '2026-05-10T18:00:00Z'
 category: Society
 ---
 

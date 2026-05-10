@@ -21,10 +21,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: 'ce7f10f8'
-sourceContentHash: 'sha256:622a389cac4436c3'
-sourceBodyHash: 'sha256:37d24845bd7d42b6'
-translatedAt: '2026-05-09T14:30:48Z'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:a97c2de5935f84d1'
+sourceBodyHash: 'sha256:29498f1ec67dd86e'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 # 台湾台語歌曲の変遷：阿伯歌（伯父さん向け歌）から文青（ぶんせい、文芸青年）の新たな寵児へのアイデンティティ転換

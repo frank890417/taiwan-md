@@ -21,10 +21,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: 'ce7f10f8'
-sourceContentHash: 'sha256:622a389cac4436c3'
-sourceBodyHash: 'sha256:37d24845bd7d42b6'
-translatedAt: '2026-05-09T14:31:06Z'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:a97c2de5935f84d1'
+sourceBodyHash: 'sha256:29498f1ec67dd86e'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 # La evolución de las canciones en taiwanesa: del "abuelo song" al nuevo favorito de los hipsters

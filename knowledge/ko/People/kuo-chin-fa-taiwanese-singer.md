@@ -9,10 +9,10 @@ readingTime: 10
 lastVerified: 2026-04-19
 lastHumanReview: 2026-04-19
 translatedFrom: People/郭金發.md
-sourceCommitSha: 2d6af4d2
-sourceContentHash: sha256:c7f8174c853276ba
-sourceBodyHash: 'sha256:2f700eb4acb2f9b7'
-translatedAt: 2026-05-01T22:19:01+08:00
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:9249bda4ae2408de'
+sourceBodyHash: 'sha256:db9995896174da37'
+translatedAt: '2026-05-10T12:00:00Z'
 ---
 
 > **📝 큐레이터 노트**

@@ -2,19 +2,19 @@
 title: 'Chen Wei-yin'
 description: 'Firmó el contrato más alto en la historia de Taiwán por 2.5 mil millones de TWD, pero solo recibió el 47% como lanzador zurdo'
 date: 2026-03-22
-tags: [人物, 棒球, 運動, 職業運動員, 大聯盟, MLB, NPB, 日職]
+category: 'People'
+tags: ['人物', '棒球', '運動', '職業運動員', '大聯盟', 'MLB', 'NPB', '日職']
 subcategory: '體育'
-category: 'people'
 author: 'Taiwan.md'
 featured: false
-readingTime: 6
 lastVerified: 2026-03-22
 lastHumanReview: false
-translatedFrom: People/陳偉殷.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:231187a409527522
-sourceBodyHash: 'sha256:d108a9297d14dc10'
-translatedAt: 2026-05-01T22:19:10+08:00
+readingTime: 6
+translatedFrom: 'People/陳偉殷.md'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:6b7e4f91c9d8e7c0'
+sourceBodyHash: 'sha256:dcb79e520722938f'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 > **Resumen en 30 segundos:** Chen Wei-yin fue el primer lanzador taiwanés en saltar directamente de la NPB a las Grandes Ligas.

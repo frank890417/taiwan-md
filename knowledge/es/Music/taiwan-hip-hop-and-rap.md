@@ -11,10 +11,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 9
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
-sourceCommitSha: 'ce7f10f8'
-sourceContentHash: 'sha256:8deb2b236ee2d073'
-sourceBodyHash: 'sha256:0869ab568fbb21cd'
-translatedAt: '2026-05-09T14:31:06Z'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:fd1e4b41ad820918'
+sourceBodyHash: 'sha256:1a962ee65f745347'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 # El desarrollo del hip-hop y rap taiwanés

@@ -22,10 +22,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 18
 featured: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
-sourceCommitSha: 'ee4917f3'
-sourceContentHash: 'sha256:d65b35a4569fdd34'
-sourceBodyHash: 'sha256:c49b8a3dc9dc5eeb'
-translatedAt: '2026-05-01T14:48:26+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:9bd3fb8545ca6bf8'
+sourceBodyHash: 'sha256:6bb7848c2fabe7e4'
+translatedAt: '2026-05-10T18:00:00Z'
 lastVerified: 2026-04-04
 ---
 
@@ -150,6 +150,7 @@ lastVerified: 2026-04-04
 - 台湾映画 — 台湾映像芸術のもう一つの脈絡
 - 開源コミュニティとg0v — 台湾テクノロジー文化の別の側面
 - 台湾テレビ産業史 — 放送テレビからOTTへのメディア変遷
+- [聶永真（ニエ・ヨンジェン）](/people/聶永真) — 台湾初のAGI国際グラフィックデザイン連盟会員、永真急制スタジオと台湾当代ビジュアル文化の策展的位置
 
 ## 参考資料
 

@@ -19,10 +19,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 13
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: 'ce7f10f8'
-sourceContentHash: 'sha256:3b87aa65ad19f49e'
-sourceBodyHash: 'sha256:8c608b3ca113ca88'
-translatedAt: '2026-05-09T14:29:43Z'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:4f118a4e26895bb3'
+sourceBodyHash: 'sha256:d4621ce04c34bfba'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 # Taiwan's Hakka Music: From Mountain Songs to Modern Rock

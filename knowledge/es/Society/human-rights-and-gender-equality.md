@@ -1,25 +1,28 @@
 ---
-created: 2026-03-17
+title: 'Derechos Humanos e Igualdad de Género'
+description: 'El camino progresista de Taiwán en la protección de los derechos humanos y la igualdad de género, desde las violaciones de derechos humanos autoritarias hasta convertirse en pionero de los derechos humanos en Asia'
+date: 2026-03-17
+category: 'Society'
 tags:
   [
-    society,
-    human rights,
-    gender equality,
-    same-sex marriage,
-    transitional justice,
+    'society',
+    'human rights',
+    'gender equality',
+    'same-sex marriage',
+    'transitional justice',
   ]
-title: Derechos Humanos e Igualdad de Género
-description: El camino progresista de Taiwán en la protección de los derechos humanos y la igualdad de género, desde las violaciones de derechos humanos autoritarias hasta convertirse en pionero de los derechos humanos en Asia
-date: 2026-03-17
-author: Taiwan.md
-readingTime: 9
+subcategory: '人權與平等'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-19
+lastHumanReview: false
+created: 2026-03-17
+readingTime: 9
 translatedFrom: 'Society/人權與性別平等.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:b007d781b4327433'
-sourceBodyHash: 'sha256:318958941cae16c4'
-translatedAt: '2026-04-14T12:25:09+08:00'
-category: Society
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:814b451ca9006dad'
+sourceBodyHash: 'sha256:a6995e962160e803'
+translatedAt: '2026-05-10T00:00:00Z'
 ---
 
 # Derechos Humanos e Igualdad de Género

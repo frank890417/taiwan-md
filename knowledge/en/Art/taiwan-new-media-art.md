@@ -1,7 +1,7 @@
 ---
 title: 'Taiwan New Media Art'
 description: 'Sixteen key artists and forty years of digital art revolution — from 1980s video art pioneers to a Venice VR Grand Prize. How Taiwan wrote poetry in code and carved its name into the international art map.'
-category: Art
+category: 'Art'
 tags:
   [
     'new media art',
@@ -19,13 +19,14 @@ tags:
 subcategory: '新媒體與數位藝術'
 date: 2026-03-28
 lastVerified: 2026-04-04
-lastHumanReview: 2026-04-04
+author: 'Taiwan.md'
+lastHumanReview: true
 featured: true
 translatedFrom: Art/台灣新媒體藝術.md
-sourceCommitSha: 'ee4917f3'
-sourceContentHash: 'sha256:d65b35a4569fdd34'
-sourceBodyHash: 'sha256:c49b8a3dc9dc5eeb'
-translatedAt: '2026-04-30T22:50:13+08:00'
+sourceCommitSha: '3e53281a'
+sourceContentHash: 'sha256:9bd3fb8545ca6bf8'
+sourceBodyHash: 'sha256:6bb7848c2fabe7e4'
+translatedAt: '2026-05-10T18:00:00Z'
 ---
 
 # Taiwan New Media Art
@@ -155,6 +156,7 @@ When Yu Shien Yang's name appeared on the 2025 Ars Electronica Linz jury list, n
 - [The Reporter](/society/the-reporter-investigative-journalism) — Another Taiwan-DNA case driven by civic communities; shows a different path to building public goods after 2015
 - [justfont and Taiwan Typography](/technology/justfont與台灣字體發展) — Typography as cultural infrastructure; another dimension of Taiwanese visual sovereignty
 - [Submarine Cables](/technology/海底電纜) — 99% of cross-border new media art exhibitions and curatorial collaborations run over submarine cables; this piece reveals the invisible digital cultural infrastructure beneath
+- [Aaron Nieh (聶永真)](/people/聶永真) — Taiwan's first AGI (Alliance Graphique Internationale) member; the curatorial position of his Eternal Design Studio (永真急制) in contemporary Taiwanese visual culture
 
 ## References
 
