@@ -33,7 +33,7 @@ upstream_canonical:
 - **Pivot / 暫停**（如 qwen3.6 跑兩 prompt 發現 NULL 模式 → 暫停換 owl-alpha）
 - **Partial responses 怎麼放**（不能跟正式 responses 混在 `bench/v0/responses/`，會污染 scorer）
 - **Decision matrix**（full 40 vs partial 10，何時哪個合理）
-- **Live observability regex 必抓 PASS + FAIL 雙信號**（Monitor 只抓 NULL 會錯估通過率）
+- **Live observability regex 必抓 PASS + FAIL 雙信號**（Monitor 只抓 NULL 會錯估通過率，per DNA #55）
 - **Worktree vs main repo**（`bench/v0/responses/*/` gitignored — 在 worktree 看不到 prior model 的 raw responses）
 - **既有 cells / samples 怎麼保留**（generate-public-results.py 預設讀 latest scores，會把其他 model 的 cell 抹掉）
 - **Opus sub-agent judge 取代 OpenRouter Sonnet judge**（cleaner reproducibility chain，less external dependency）
@@ -139,7 +139,7 @@ python3 scripts/bench/runner.py \
 
 ## Stage 3：Live Monitor — 雙信號 regex 鐵律
 
-**DNA 候選 #43**：Monitor regex 必須同時抓 **PASS + FAIL** 兩種 terminal state。本 session 教訓：只抓 `⚠️ NULL` / `429` 漏掉「→ ok (xxx chars, ys)」通過事件 → 主 session 推估通過率時要 fall back to log scan，是 unnecessary friction。
+**DNA #55**（升 canonical 2026-05-10，原候選編號 #43 因與「dashboard JSON sync」同號 collision 已重編）：Monitor regex 必須同時抓 **PASS + FAIL** 兩種 terminal state。本 session 教訓：只抓 `⚠️ NULL` / `429` 漏掉「→ ok (xxx chars, ys)」通過事件 → 主 session 推估通過率時要 fall back to log scan，是 unnecessary friction。
 
 ```bash
 # Wrong — 只抓失敗
@@ -369,8 +369,8 @@ Write bench/v0/results/<slug>-judgments.json (schema in BENCH-PIPELINE Stage 5b)
 - DNA #21 — SSOT 不一定在中央（model entry 在 models.json 自我描述，前端自動 derive）
 - DNA #22 — Raw 永遠不刪除（responses-paused/ canonical 目錄 mirror）
 - DNA #26 — AI-autonomous vs Human-only 邊界（bench 全自動跑 / public 上線 human 決定）
-- DNA #43（候選）— Monitor regex 必抓 PASS + FAIL 雙信號
-- DNA #44（候選）— Bench judge 用 Opus sub-agent 不用 OpenRouter API（cleaner reproducibility）
+- DNA #55 — Monitor regex 必抓 PASS + FAIL 雙信號（升 canonical 2026-05-10，原候選 #43 因 collision 重編）
+- DNA #44 — Bench judge 用 Opus sub-agent 不用 OpenRouter API（cleaner reproducibility）
 
 ---
 
