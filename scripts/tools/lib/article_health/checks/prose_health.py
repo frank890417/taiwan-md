@@ -328,6 +328,36 @@ def _word_count(body: str) -> int:
     return len(body.split())
 
 
+def _line_at_offset(body: str, offset: int) -> int:
+    """Return 1-indexed line number of given char offset in body.
+
+    body is padded with leading blank lines to match original-file line
+    numbers (per FileTarget.body_pad_lines), so the returned line equals
+    the line number in the source .md file.
+    """
+    if offset < 0 or offset > len(body):
+        return 1
+    return body.count("\n", 0, offset) + 1
+
+
+def _context_around(body: str, start: int, end: int, before: int = 20, after: int = 20) -> str:
+    """Return the matched span with surrounding context, marking the match.
+
+    Layout: `…<before>《MATCH》<after>…`
+    Newlines collapsed to ⏎ so single-line snippets stay readable.
+    Caller can show this in violation snippet for grep-style locate.
+    """
+    body_len = len(body)
+    ctx_start = max(0, start - before)
+    ctx_end = min(body_len, end + after)
+    pre = body[ctx_start:start].replace("\n", "⏎")
+    mid = body[start:end].replace("\n", "⏎")
+    post = body[ctx_end:end].replace("\n", "⏎") if False else body[end:ctx_end].replace("\n", "⏎")
+    leading = "…" if ctx_start > 0 else ""
+    trailing = "…" if ctx_end < body_len else ""
+    return f"{leading}{pre}《{mid}》{post}{trailing}"
+
+
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     """Yield prose-health violations + a final score-summary violation.
 
@@ -417,7 +447,11 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         reasons.append(f"連續bullet{max_run}行")
 
     # ── 8. Plastic phrases ──
-    plastic_n = len(_RE_PLASTIC.findall(text_for_patterns))
+    # Emit per-match with line + 前後文 context (2026-05-10 sad-shockley
+    # feedback). Aggregate count drives score; individual locations help
+    # writer find them fast.
+    plastic_matches = list(_RE_PLASTIC.finditer(text_for_patterns))
+    plastic_n = len(plastic_matches)
     if plastic_n > 8:
         score += 4
         reasons.append(f"塑膠句{plastic_n}個")
@@ -430,9 +464,23 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     elif plastic_n >= 1:
         score += 1
         reasons.append(f"塑膠句{plastic_n}個")
+    # Itemize each plastic phrase occurrence (capped at 10 to avoid noise)
+    for m in plastic_matches[:10]:
+        line_no = _line_at_offset(text_for_patterns, m.start())
+        ctx = _context_around(text_for_patterns, m.start(), m.end())
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=f"塑膠句 (§quality-scan #8)：{ctx}",
+            line=line_no,
+            snippet=m.group(0)[:80],
+            editorial_ref="EDITORIAL.md §quality-scan #8 塑膠句禁令",
+            fix_suggestion="改成正面具體斷言 (替換「不僅...更是」「展現了...精神」「值得紀念」)",
+        )
 
     # ── 8b. Em-dash overuse ──
-    dash_n = len(_RE_EMDASH.findall(text_for_patterns))
+    dash_matches = list(_RE_EMDASH.finditer(text_for_patterns))
+    dash_n = len(dash_matches)
     if dash_n > 15:
         score += 3
         reasons.append(f"破折號{dash_n}個")
@@ -442,6 +490,20 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     elif dash_n > 4:
         score += 1
         reasons.append(f"破折號{dash_n}個")
+    # Only itemize if over budget (> 8) — don't spam < 5 instances
+    if dash_n > 8:
+        for m in dash_matches[:10]:
+            line_no = _line_at_offset(text_for_patterns, m.start())
+            ctx = _context_around(text_for_patterns, m.start(), m.end(), before=15, after=15)
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=f"破折號連用 (§quality-scan #8b 第 {dash_matches.index(m)+1}/{dash_n} 處)：{ctx}",
+                line=line_no,
+                snippet="——",
+                editorial_ref="EDITORIAL.md §quality-scan #8b + MANIFESTO §11.2",
+                fix_suggestion="改用「，即」「（）」「：」/ 分句 / 短句 / bullet",
+            )
 
     # ── 9. Textbook opening ──
     if _detect_textbook_opening(body):
@@ -531,18 +593,27 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             reasons.append("無腳註")
 
     # ── Manifesto §11 Tier 1: 對位句型 ──
+    # Emit per-match with line + 前後文 context so writers can locate fast
+    # (per 2026-05-10 sad-shockley feedback: tool 應該直接指出哪裡 + 前後文).
     tier1_total = 0
     for pat in _TIER1_PATTERNS:
         matches = list(pat.finditer(text_for_patterns))
         if matches:
             tier1_total += len(matches)
             for m in matches:
+                line_no = _line_at_offset(text_for_patterns, m.start())
+                ctx = _context_around(text_for_patterns, m.start(), m.end())
                 yield Violation(
                     check=CHECK_NAME,
                     severity=Severity.WARN,
-                    message=f"對位句型 (§11 Tier 1): {m.group(0)[:30]}…",
+                    message=f"對位句型 (§11 Tier 1)：{ctx}",
+                    line=line_no,
                     snippet=m.group(0)[:80],
-                    editorial_ref="MANIFESTO.md §11 Tier 1",
+                    editorial_ref="MANIFESTO.md §11 Tier 1 對位句型禁令",
+                    fix_suggestion=(
+                        "三題判準 (MANIFESTO §11.1)：(1) 對比是內容本身嗎？(2) 正面主張能獨立站立嗎？"
+                        "(3) 讀者真會預設 X 嗎？三題全 no = 改成正面斷言"
+                    ),
                 )
 
     # ── Manifesto §11 Tier 2: AI metaphor ──

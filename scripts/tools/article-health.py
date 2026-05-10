@@ -255,11 +255,16 @@ def _format_human(report: HealthReport, fail_on: str = "hard") -> str:
         icon = "✅" if r.passed else ("🔴" if r.hard_count else "⚠️ ")
         counts = f"hard={r.hard_count} warn={r.warn_count}"
         lines.append(f"   {icon} {r.check}  {counts}")
-        for v in r.violations[:5]:
+        # Show up to 20 violations per check (was 5, bumped 2026-05-10
+        # sad-shockley feedback: tool 應該直接指出哪裡有對位句／前後文，
+        # 不該 truncate 到 5 反而要 grep 自己找). 20 covers most articles
+        # without spamming console; rare cases > 20 still surface tail.
+        max_show = 20
+        for v in r.violations[:max_show]:
             loc = f"L{v.line}" if v.line else ""
             lines.append(f"      {v.severity.value} {loc}: {v.message}")
-        if len(r.violations) > 5:
-            lines.append(f"      ... and {len(r.violations) - 5} more")
+        if len(r.violations) > max_show:
+            lines.append(f"      ... and {len(r.violations) - max_show} more")
     eff = _effective_passed(report, fail_on)
     lines.append(
         f"\nSummary: hard={report.hard_count}  warn={report.warn_count}  "

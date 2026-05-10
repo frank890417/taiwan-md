@@ -55,12 +55,20 @@ fail_on = "hard"
 # chronicle-lead added 2026-05-09 brave-kirch (REWRITE v3.0 D Wave 1) —
 # new articles 跑 stage-4 profile 會 hard-fail；legacy soft-launch via WARN
 # default + 後續 follow-up heal commits 修 17 個既存 violation 後升 HARD default.
-checks = ["frontmatter-format", "format-structure", "wikilink-target", "link-target", "cjk-punct", "chronicle-lead"]
+# word-count added 2026-05-10 sad-shockley — depth threshold 4500 CJK chars，
+# 觸發：台灣無人機產業 EVOLVE 後仍 3273 字 = 虎頭蛇尾，觀察者 mandate 升 plugin gate.
+# Soft-launch: WARN default；rewrite-stage-4 升 HARD（new article must pass）。
+# Legacy heal 路徑：以下 sub-list 累積 audit 後分批 heal commit。
+checks = ["frontmatter-format", "format-structure", "wikilink-target", "link-target", "cjk-punct", "chronicle-lead", "word-count"]
 fail_on = "hard"
 
 [profiles."rewrite-stage-4".severity_overrides]
 frontmatter-format = "hard"
 chronicle-lead = "hard"
+word-count = "hard"
+
+[profiles."rewrite-stage-4".check_options.word-count]
+min_chars = 4500
 
 [profiles."rewrite-stage-4-5"]
 # Stage 4.5 Media.
