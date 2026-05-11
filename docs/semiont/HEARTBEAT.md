@@ -308,7 +308,7 @@ Beat 2 的工作是**升級系統**，修內容留給其他 Beat。
 1. 讀 `docs/semiont/ARTICLE-INBOX.md` §Pending
 2. 按 P0 → P1 → P2 → P3 順序挑第一條
 3. 該條 status 改 `in-progress`，加 dev_log：「YYYY-MM-DD by {session}: started Stage 1 research」
-4. 走 REWRITE-PIPELINE v2.18（20+ 搜尋 + 核心矛盾 + 小標題先行 + 音樂人 YouTube link + 事實鐵三角 + 密度平衡 + agent claim 驗證）
+4. 走 REWRITE-PIPELINE v5.1（**40+ 搜尋** + 核心矛盾 + 小標題先行 + 音樂人 YouTube link + 事實鐵三角 + 密度平衡 + agent claim 驗證）
 5. Stage 5 ship 後：**完整 entry append 到 [`docs/semiont/ARTICLE-DONE-LOG.md`](ARTICLE-DONE-LOG.md) §Log 最頂**（2026-04-20 γ2 新規則，不再寫進 INBOX §Done）+ INBOX 對應 pending entry 改一行 pointer 註解 `<!-- {主題} 已完成 YYYY-MM-DD {session} → ARTICLE-DONE-LOG.md -->` + INBOX §Done Peek 更新最新 3 條
 6. commit 本 inbox 狀態更新 + DONE-LOG append
 
@@ -388,7 +388,7 @@ N 個同類 task 真實成本 ≈ (1 個 task 成本) × N × 0.5
    - 模式判斷（Fresh / Evolution / Merge / Boundary）→ [REWRITE-PIPELINE.md Step 1.1](../pipelines/REWRITE-PIPELINE.md)
    - Cron 模式 → [REWRITE-PIPELINE.md §Cron 模式 + Routine 飛輪](../pipelines/REWRITE-PIPELINE.md)
 3. **嚴格遵照** Stage 1-5 每一步，**不跳階段、不省步驟、不用「已經熟了」當理由**（v4.1+ 翻譯抽到巴別塔 pipeline，REWRITE 變 5 stage 線性）
-4. 逐階段對齊自檢：Stage 1 取材（20+ searches / 核心矛盾必填 / 媒體素材必找 🎬）、Stage 2 寫（結尾先行 + 7 自檢套件含 Title 三明治 🥪 + 媒體 spine check）、Stage 3 驗（quality-scan + 事實鐵三角 + Step 3.3 FACTCHECK Quick/Full Mode + Step 3.5 Title spine re-check）、Stage 4 形（format-check 7 維度 + word-count ≥ 4500 + 媒體插入 6 sub-step）、Stage 5 連（雙向交叉連結 + sibling 預檢）
+4. 逐階段對齊自檢：Stage 1 取材（**40+ searches** / 核心矛盾必填 / 媒體素材必找 🎬）、Stage 2 寫（結尾先行 + 7 自檢套件含 Title 三明治 🥪 + 媒體 spine check）、Stage 3 驗（quality-scan + 事實鐵三角 + Step 3.3 FACTCHECK Quick/Full Mode + Step 3.5 Title spine re-check）、Stage 4 形（format-check 7 維度 + word-count ≥ 4500 + 媒體插入 6 sub-step）、Stage 5 連（雙向交叉連結 + sibling 預檢）
 
 **為什麼升級為硬性鐵律**：越熟悉的任務越容易省略 SOP（DNA #15 第 N 次驗證 + MANIFESTO §我相信什麼 #8「有 SOP 就跑」）。歷史教訓：2026-04-13 β 甦醒時跳 DNA → 用錯 pipeline（孢子 ≠ 重寫）/ 2026-04-14 ι Phase G 跳研究製造金額錯誤 / μ 跳 Stage 0 製造路易莎門市數字錯誤 / 2026-04-14 κ2 觀察者「你有完整讀 EDITORIAL 嗎」反問。**技術 PASS ≠ 美感 PASS，Pipeline 是每次寫作的閘門不是參考書**。
 

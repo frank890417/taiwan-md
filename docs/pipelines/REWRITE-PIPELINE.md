@@ -3,7 +3,7 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程 canonical — 5 stage 線性 / 模式判定只在 Stage 1 內部分支 / Step N.M 編號 / heading 階層 H1-H4 / 翻譯收斂為 pointer 到巴別塔 (v5.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v5.0'
+current_version: 'v5.1'
 last_updated: 2026-05-11
 last_session: 'admiring-cohen-8b68fc-v5-stage-spine'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
@@ -21,7 +21,7 @@ upstream_canonical:
   - '../editorial/EDITORIAL.md'
 ---
 
-# REWRITE-PIPELINE.md — 文章改寫主流程 v5.0
+# REWRITE-PIPELINE.md — 文章改寫主流程 v5.1
 
 > **第一性原理**：所有文章都走同一條 5-stage pipeline，每篇都跑過。模式判定只在 **Stage 1 內部分支**（Step 1.1-1.4 決定怎麼取材／怎麼回爐重造），Stage 2-5 完全 mode-agnostic。
 >
@@ -288,15 +288,17 @@ cat docs/editorial/RESEARCH.md       # 方法論：搜尋策略 / 來源判斷 /
 cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 ```
 
-### Step 1.6: 搜尋深度 ≥ 20 次
+### Step 1.6: 搜尋深度 ≥ 40 次
 
-**搜尋至少 20 次**：
+**搜尋至少 40 次**：
 
-- 中文 12+ / 英文 5+ / 一手來源 5+
-- 研究深度直接決定文章品質——12 次搜尋的文章容易薄、容易單一視角
-- 20+ 次能交叉驗證事實、能找到矛盾視角、能挖到非 Wikipedia 層級的具體錨點（引語、場景、日期）
+- 中文 24+ / 英文 10+ / 一手來源 10+
+- 研究深度直接決定文章品質——20 次搜尋的文章雖然有錨點但仍偏單一視角，40 次才能 triangulate
+- 40+ 次能跨多源交叉驗證、能找到反方視角、能挖到非 Wikipedia 層級的具體錨點（引語、場景、日期）並具備多源比對能力
 
-**v2.17 升級理由**：2026-04-18 當日 11 篇音樂人批次中，12-15 次搜尋的 Cicada / 草東 / 康士坦 / 魏如萱 雖然 pass format-check，但小標題淪為編年史，缺乏場景/意象級的敘事錨點，研究深度是根本原因。
+**v5.1 升級理由**（2026-05-11 cranky-newton）：v2.17 訂 ≥ 20 是相對 12 次淺研究的下限。實戰累積後（NMTH Fresh / 政治人物 batch / 認知作戰深度文）顯示 20 次仍會留下「單源依賴」風險（同一篇 ltn 報導被 5 atom 綁住 = over-citing 紅旗），40 次才開始有 triangulation 空間。
+
+**v2.17 原版觸發**：2026-04-18 當日 11 篇音樂人批次中，12-15 次搜尋的 Cicada / 草東 / 康士坦 / 魏如萱 雖然 pass format-check，但小標題淪為編年史，缺乏場景/意象級的敘事錨點，研究深度是根本原因。
 
 ### Step 1.7: 結尾素材鎖定
 
