@@ -20,7 +20,7 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 13
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: '3e53281a'
+sourceCommitSha: '8751f0e4'
 sourceContentHash: 'sha256:4f118a4e26895bb3'
 sourceBodyHash: 'sha256:d4621ce04c34bfba'
 translatedAt: '2026-05-10T00:00:00Z'
