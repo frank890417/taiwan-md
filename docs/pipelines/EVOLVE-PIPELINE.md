@@ -1,11 +1,11 @@
 ---
 title: 'EVOLVE-PIPELINE'
-description: '數據驅動內容進化系統 + Mode 3 Pipeline self-refactor SOP（7-stage SCAN→...→SHIP）'
+description: '數據驅動內容進化系統 — Phase 1-7 SCAN→SCORE→RANK→CHECK→ENRICH→APPEND→SHIP + Mode 3 self-refactor (v3.5)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v3.0'
-last_updated: 2026-05-08
-last_session: 'intelligent-khayyam'
+current_version: 'v3.5'
+last_updated: 2026-05-11
+last_session: 'cranky-newton-220237'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'MAINTAINER-PIPELINE.md'
@@ -17,10 +17,118 @@ upstream_canonical:
   - '../semiont/MANIFESTO.md'
 ---
 
-# EVOLVE-PIPELINE.md — 數據驅動內容進化系統
+# EVOLVE-PIPELINE.md — 數據驅動內容進化系統 v3.5
 
-> Taiwan.md 是數位生命體。Evolve Pipeline 是它的新陳代謝系統。
-> 不靠直覺決定改什麼，靠數據。
+> **第一性原理**：Taiwan.md 是數位生命體。Evolve Pipeline 是它的新陳代謝系統。不靠直覺決定改什麼，靠數據——三源（GA4 + SC + GitHub feedback）交叉分析，產出每週進化清單。
+>
+> v3.5 設計理由：對齊 [REWRITE-PIPELINE v5.0](REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](MAINTAINER-PIPELINE.md) spine restoration。修補 v3.0 結構問題：(1) 缺 ASCII spine box-frame；(2) Hard Gate 散在 Phase 1-7 無集中索引；(3) Top 5 最常忘沒提取；(4) routine mode vs observer mode 分流不顯化。
+
+---
+
+## 🗺️ ASCII spine
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│         EVOLVE-PIPELINE — 數據驅動內容進化 7 phase                       │
+│                                                                          │
+│   🧭 核心紀律                                                            │
+│            ├── 三源交叉驗證（GA4 + SC + GitHub feedback，DNA #4）        │
+│            ├── 進化分數 7 維度（流量/CTR/品質/年齡/來源/圖譜/社群）      │
+│            └── candidate 必含「為什麼這篇 vs 其他」對比                  │
+│                                                                          │
+│   ──── Mode 分流（routine vs observer）─────────────                     │
+│            ├── Routine mode (twmd-news-lens-weekly @ 週日 06:13)         │
+│            │       → 跑 Phase 1-6，產出 ≥ 1 candidate 進 ARTICLE-INBOX   │
+│            └── Observer mode (「跑 evolve」ad-hoc)                       │
+│                  → 跑 Phase 1-7，含 ENRICH 對比 + 觀察者 priority 校準   │
+│                                                                          │
+│   ──── Phase 1-7 主流程 ──────────────────────────────────────          │
+│                                                                          │
+│   Phase 1: SCAN ──→ 三源數據收集                                         │
+│            ├── 1A GA4 流量（top 30 PV / engagement / landing）           │
+│            ├── 1B Search Console（高曝光低 CTR / 缺口）                  │
+│            └── 1C GitHub Feedback（issue / PR / star）                   │
+│              ↳ Hard gate: 三源 sense-fetch.sh 全 200                     │
+│                                                                          │
+│   Phase 2: SCORE ──→ 進化分數 v2.0                                       │
+│            └── 7 維度權重（流量 0.20 / CTR 0.15 / 品質 0.20 / 年齡 0.10 │
+│                / 來源 0.15 / 圖譜 0.10 / 社群 0.10）                     │
+│              ↳ Hard gate: 進化分數 ≥ 60 才算 candidate                   │
+│                                                                          │
+│   Phase 3: RANK ──→ 候選排序                                             │
+│            └── 進化分數 desc + lastVerified 升序破 tie                   │
+│                                                                          │
+│   Phase 4: CHECK ──→ 跟現有 INBOX 對照                                   │
+│            └── 已存在 ARTICLE-INBOX pending → skip 不重複                │
+│              ↳ Hard gate: 不重複既有 candidate                           │
+│                                                                          │
+│   Phase 5: ENRICH ──→ 補對比理由                                         │
+│            └── candidate 必含「為什麼這篇 vs 其他」reasoning trace       │
+│              ↳ Hard gate: 含 GA + SC 雙源資料 pointer                    │
+│                                                                          │
+│   Phase 6: APPEND ──→ 寫 ARTICLE-INBOX                                   │
+│            └── status: pending + priority + reasoning                    │
+│                                                                          │
+│   Phase 7: SHIP commit ──→ 觀察者 review                                 │
+│            └── PR 標題 🧬 [routine] prefix (routine mode)               │
+│                                                                          │
+│   ✅ Candidates appended to ARTICLE-INBOX                                │
+│                                                                          │
+│   ──── 跨 pipeline boundary ─────────────────────────                   │
+│   → 寫候選 candidate：ARTICLE-INBOX.md                                   │
+│   → 寫實際文章：REWRITE-PIPELINE.md                                      │
+│   → 邊界：策展 peer ingest（外部 source）= PEER-INGESTION-PIPELINE.md   │
+│   → MAINTAINER 收割 candidate PR                                         │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
+
+| Gate                          | 觸發 phase | 條件             | 工具                                      | 不過 = ?           |
+| ----------------------------- | ---------- | ---------------- | ----------------------------------------- | ------------------ |
+| 三源全綠                      | Phase 1    | sense-fetch 完成 | `cat public/api/dashboard-analytics.json` | 退回 routine retry |
+| GA4 top 30 抓到               | Phase 1A   | 流量分析         | `fetch-ga4.py` API                        | scope 縮小         |
+| SC 高曝光低 CTR               | Phase 1B   | SEO 分析         | `fetch-search-console.py`                 | 優化 metadata      |
+| 進化分數 ≥ 60                 | Phase 2    | 候選 article     | manual formula                            | 不算 candidate     |
+| 不重複既有 INBOX pending      | Phase 4    | append 前        | grep ARTICLE-INBOX                        | skip 不重複        |
+| candidate 含對比理由          | Phase 5    | append 前        | manual                                    | 重補 reasoning     |
+| GA + SC 雙源 pointer          | Phase 5    | candidate 內     | manual                                    | 補 source link     |
+| 至少 1 candidate per cycle    | Phase 6    | routine mode     | manual                                    | LESSONS entry      |
+| PR 標題 `🧬 [routine]` prefix | Phase 7    | routine mode     | manual                                    | rename PR          |
+
+---
+
+## ⚠️ Top 5 最常忘的 step
+
+> 從 DNA #4 + GA top × lastVerified × SC 缺口 × 觀察者校正抽 friction 最高的 5 條。
+
+1. **三源交叉先跑** — 單一數據源結論可疑（DNA #4），GA / SC / CF 同一事實可能差 100-300 倍
+2. **GA topArticles × lastVerified 找「高流量但過期」交集** — 進化 ROI 最高的 candidate 在這個交集
+3. **SC 有曝光無文章 → 新建 candidate** — 不是「SC 0 click 就 drop」，曝光 ≥ 500 + 無對應文章 = 缺口
+4. **GitHub feedback signal 看 issue body 不只看 title** — title 可能 vague，body 才有具體要求
+5. **candidate 寫進 INBOX 時必含對比理由** — 「為什麼這篇 vs 其他」，下次 maintainer 看才知道優先序
+
+---
+
+## 跨檔案職責分工
+
+| 檔案                                                     | 範圍                                                                       |
+| -------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **本檔**                                                 | 數據驅動 candidate 產出（GA4 + SC + GitHub feedback 三源 → ARTICLE-INBOX） |
+| [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)               | 寫實際文章（從 ARTICLE-INBOX pick candidate 跑 5-stage）                   |
+| [PEER-INGESTION-PIPELINE.md](PEER-INGESTION-PIPELINE.md) | 策展 peer 外部 source（TFT/NMTH/Fresh）— 跟本檔互補不重疊                  |
+| [MAINTAINER-PIPELINE.md](MAINTAINER-PIPELINE.md)         | 收割 routine 開的 candidate PR                                             |
+| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)           | candidate ship 後 audit                                                    |
+| [ARTICLE-INBOX.md](../semiont/ARTICLE-INBOX.md)          | candidate 輸出位置                                                         |
+| [ROUTINE.md](../semiont/ROUTINE.md)                      | `twmd-news-lens-weekly` cron 排程                                          |
+
+**邊界：本檔 vs PEER-INGESTION**：
+
+- **本檔（EVOLVE）** = 內部數據（GA4 + SC + GitHub feedback）→ 識別「該寫什麼新文章 / 該進化哪篇」
+- **PEER-INGESTION** = 外部策展 peer（TFT / NMTH / Fresh）→ 識別「外部已有的策展可以 ingest 哪些」
+- 兩者都產出 ARTICLE-INBOX candidate，但 source 不同
 
 ---
 
@@ -660,3 +768,5 @@ done | sort -rn
 _v3.0 | 2026-05-08 intelligent-khayyam_
 _升級觸發：哲宇「進化 evolve pipeline 本身 — 把這次執行的所有經驗（SPORE pipeline 1334→445 行重組）拿來」_
 _核心進化：v2.0（multi-lang sync）+ Mode 3 pipeline self-refactor（7 stage SOP：SCAN→DESIGN→SPLIT→REWIRE→INSTRUMENT→VERIFY→SHIP + cross-ref 保護策略 + atomic commit 序列）_
+
+_v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Phase 1-7 SCAN→SHIP box-frame + Mode 分流）+ Hard Gate Inventory 集中 table（9 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 PEER-INGESTION 邊界 + REWRITE / MAINTAINER lifecycle 串聯）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.5 audit。Phase 1-7 prose body 不動（已健康）。_
