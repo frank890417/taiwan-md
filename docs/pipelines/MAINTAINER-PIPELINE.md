@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者手冊 — Issue 分類、PR 審核策略、品質巡檢、社群互動、close 前 hard gate'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.3'
+current_version: 'v1.4'
 last_updated: 2026-05-11
-last_session: 'ecstatic-archimedes-112344-v2'
+last_session: 'ecstatic-archimedes-112344-v4'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -349,34 +349,25 @@ Closing — thanks again 🧬
 - **程式碼 PR**：簡單 squash，複雜保留 commits
 - **重構 PR**：逐 commit 看，確認沒有遺漏 section
 
-### §collect-and-merge SOP — maintainer 是 PR backlog SSOT 收割者（canonical — 2026-05-10 v1.1 新增 / 2026-05-11 升 canonical / 2026-05-11 v2 擴展 contributor 收割）
+### §collect-and-merge SOP — maintainer 是 contributor PR backlog 收割者（canonical — v3.0 main-direct mode 2026-05-11 拍板）
 
-> ⚠️ **這是 maintainer routine 的 PR backlog 收割 canonical**。對應 [ROUTINE.md §TWMD maintainer (am + pm)](../semiont/ROUTINE.md) — ROUTINE.md 只 pointer 回此處，不再 inline 複寫流程（per MANIFESTO §薄殼鐵律 2026-05-11 升 canonical）。
+> ⚠️ **這是 maintainer routine 的 PR backlog 收割 canonical**。對應 [ROUTINE.md §TWMD maintainer (am + pm)](../semiont/ROUTINE.md) — ROUTINE.md pointer 回此處不複寫流程。
 >
-> **v2 擴展（2026-05-11 ecstatic-archimedes）**：哲宇校正「maintainer → observer / 外部 PR 也要一起判斷跟 merge」。原本 B 路徑「contributor / observer PR 永不 auto-merge」改為「走完整 §PR 審核策略 + §Close 前 hard gate decision matrix」。**maintainer 不只是 routine PR 收割者，是所有 PR backlog 的 SSOT 收割者**。
+> **v3.0 main-direct pivot（2026-05-11 哲宇拍板）**：routine v2.0 改 main-direct mode 後**沒 routine PR 要收割** — 所有 routine 直接 commit + push main。**§A 路徑（routine PR collection）廢棄**，§B 路徑（contributor / observer PR）變主流程也是唯一流程。
 >
-> **設計理由**：原本每條 routine 各自跑 `gh pr merge` 等 6 處複寫 hard-gate 邏輯（指標 over 複寫違反）。集中由 maintainer am/pm 走 hard gate 後 `gh pr merge --squash --delete-branch`，所有 merge 動作走同一個 quality gate canonical。其他 routine 開 PR 後即收工，**不 auto-merge 自己的 PR**。
+> **v2 → v3 演化**：
+>
+> - v1.x: A 路徑收 routine PR / B 路徑「contributor 永不 auto-merge」
+> - v2: B 路徑改「走完整 §PR 審核策略」(contributor PR 也可 auto-merge)
+> - **v3.0**: routine v2.0 main-direct 後 A 路徑廢棄；只剩 B 路徑做完整 PR 審核
 
-#### 對每個 `gh pr list --state open` 分流
+#### A. ~~Routine PR 收割~~ ⛔ **DEPRECATED（v3.0）**
 
-**A. 標題以 `🧬 [routine]` 開頭 + author == frank890417（routine 自己開的 PR）**：
+v1.x-v2 的 routine PR 分流邏輯（CI green + age ≥ 5 min + auto-merge）**已廢棄**。routine v2.0 改 main-direct 後沒有 routine PR backlog 要收割。
 
-檢查項：
+歷史記錄保留作 evidence chain（per MANIFESTO §時間是結構修補協議）— 但實際操作走 §B 路徑唯一流程。
 
-1. `gh pr checks N --json state --jq '.[].state' | sort -u`
-2. `gh pr view N --json mergeable,createdAt --jq '{mergeable: .mergeable, age_min: ((now - (.createdAt | fromdateiso8601)) / 60 | floor)}'`
-
-分流：
-
-| 狀態                              | 動作                                                | Memory 紀錄                                        |
-| --------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
-| 全 PASS + MERGEABLE + age ≥ 5 min | `gh pr merge N --squash --delete-branch`            | ✅ merged routine PR #N: {title}                   |
-| PENDING (CI 還在跑)               | 留下次 cycle（PM 撿 AM 漏的 / AM 撿 PM 漏的）       | ⏳ routine PR #N pending CI — defer to next cycle  |
-| FAIL (CI 紅)                      | 留 open + LESSONS entry                             | ❌ routine PR #N CI fail — left open for observer  |
-| CONFLICTING                       | 留 open + LESSONS entry                             | ⚠️ routine PR #N conflict — left open for observer |
-| age < 5 min                       | 等下次 cycle（防止搶自身 routine 還沒結束就 merge） | —                                                  |
-
-**B. Contributor / observer PR（標題不含 `🧬 [routine]` 或 author != frank890417）**：
+#### B. Contributor / observer PR（標題不含 `🧬 [routine]` 或 author != frank890417）：
 
 走完整 PR 審核流程 — 不是無條件 merge，也不是無條件 leave-open，而是依照既有 canonical decision：
 
