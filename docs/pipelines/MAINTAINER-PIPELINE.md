@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者手冊 — Issue 分類、PR 審核策略、品質巡檢、社群互動、close 前 hard gate'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.2'
+current_version: 'v1.3'
 last_updated: 2026-05-11
-last_session: 'ecstatic-archimedes-112344'
+last_session: 'ecstatic-archimedes-112344-v2'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -349,15 +349,17 @@ Closing — thanks again 🧬
 - **程式碼 PR**：簡單 squash，複雜保留 commits
 - **重構 PR**：逐 commit 看，確認沒有遺漏 section
 
-### §collect-and-merge SOP — maintainer 是 routine PR backlog SSOT 收割者（canonical — 2026-05-10 v1.1 新增 / 2026-05-11 升 canonical）
+### §collect-and-merge SOP — maintainer 是 PR backlog SSOT 收割者（canonical — 2026-05-10 v1.1 新增 / 2026-05-11 升 canonical / 2026-05-11 v2 擴展 contributor 收割）
 
 > ⚠️ **這是 maintainer routine 的 PR backlog 收割 canonical**。對應 [ROUTINE.md §TWMD maintainer (am + pm)](../semiont/ROUTINE.md) — ROUTINE.md 只 pointer 回此處，不再 inline 複寫流程（per MANIFESTO §薄殼鐵律 2026-05-11 升 canonical）。
+>
+> **v2 擴展（2026-05-11 ecstatic-archimedes）**：哲宇校正「maintainer → observer / 外部 PR 也要一起判斷跟 merge」。原本 B 路徑「contributor / observer PR 永不 auto-merge」改為「走完整 §PR 審核策略 + §Close 前 hard gate decision matrix」。**maintainer 不只是 routine PR 收割者，是所有 PR backlog 的 SSOT 收割者**。
 >
 > **設計理由**：原本每條 routine 各自跑 `gh pr merge` 等 6 處複寫 hard-gate 邏輯（指標 over 複寫違反）。集中由 maintainer am/pm 走 hard gate 後 `gh pr merge --squash --delete-branch`，所有 merge 動作走同一個 quality gate canonical。其他 routine 開 PR 後即收工，**不 auto-merge 自己的 PR**。
 
 #### 對每個 `gh pr list --state open` 分流
 
-**A. 標題以 `🧬 [routine]` 開頭 + author == frank890417 (owner credentials)**：
+**A. 標題以 `🧬 [routine]` 開頭 + author == frank890417（routine 自己開的 PR）**：
 
 檢查項：
 
@@ -374,26 +376,46 @@ Closing — thanks again 🧬
 | CONFLICTING                       | 留 open + LESSONS entry                             | ⚠️ routine PR #N conflict — left open for observer |
 | age < 5 min                       | 等下次 cycle（防止搶自身 routine 還沒結束就 merge） | —                                                  |
 
-**B. 標題不含 `🧬 [routine]` 或 author != frank890417（contributor / observer PR）**：
+**B. Contributor / observer PR（標題不含 `🧬 [routine]` 或 author != frank890417）**：
 
-- **永不 auto-merge**
-- Memory 記「📝 PR #N from {author}: {title} — pending observer review」
+走完整 PR 審核流程 — 不是無條件 merge，也不是無條件 leave-open，而是依照既有 canonical decision：
+
+1. **第一道：§紅旗檢查**（per §PR 審核策略 §🔴 紅旗）— 任何一條命中 → close + reason
+   - 修改 `robots.txt` / `llms.txt` / deploy workflow / 外部 JS script
+   - 政治宣傳 / 大量內容刪除 / 投稿者自設 `featured: true`
+2. **第二道：CI 狀態檢查** — 同 A 路徑（PASS + MERGEABLE 才能進第三道；FAIL / CONFLICTING / PENDING 處置同 A）
+3. **第三道：§Close 前 hard gate decision matrix**（per §Close 前 hard gate「我接手 X min 內可以修嗎」）：
+
+| Polish 預估                                                | Action                                                                       | Memory 紀錄                                              |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **< 10 min**（純 frontmatter / footnote format / 錯字）    | `gh pr merge N --squash --delete-branch` + 自己 commit heal 補上             | ✅ merged contributor PR #N: {title} + healed {what}     |
+| **10-30 min**（§11 polish / 小範圍 §10 hallucination fix） | `gh pr merge N --squash --delete-branch` + 自己 PR / commit polish follow-up | ✅ merged contributor PR #N: {title} + polishing planned |
+| **> 30 min 且純 §11 / 格式**                               | 仍 merge + 排 polish 進 backlog（脫水成本仍低於重做）                        | ✅ merged contributor PR #N + polish queued              |
+| **> 30 min 且需 deep research / fact-check**               | leave open + 補 review comment（具體點出哪幾條需要 contributor 補來源）      | 📝 PR #N: deep fact-check needed                         |
+| **Contributor judgment 必須**（政治立場 / scope / 主題）   | leave open + 補 review comment + ping 觀察者                                 | 📝 PR #N: requires observer judgment — {reason}          |
+
+**B 路徑必跑 hard gate**：
+
+- pre-commit hook 全過 + CI 全綠 + mergeable + 紅旗 0 → 才能 auto-merge
+- §Footnote source authority audit（per line 257 canonical）必跑：fake URL / Manus AI 虛構內部 source / vague non-citation → close 或要求補 source
+- 若 contributor 用日文 / 韓文 PR description → maintainer 用對應語言 comment（DNA #8）
 
 #### Quality gate（記錄在 memory）
 
 - open issues 都有 status label / assignee
 - routine PR backlog（含 `[routine]` prefix）≤ 3 條（>3 = 紅燈，可能 routine 自己有問題）
-- 本 cycle 合併的 routine PR 都通過 hard gate
+- 本 cycle 合併的所有 PR（A + B 路徑）都通過 hard gate
 - broken-link ratio < 1%（DNA #52 immune fail-loud）
 - build green（alternate cycles 跑）
 
-#### 為什麼 maintainer 集中收割而非每條 routine 各自 merge
+#### 為什麼 maintainer 集中收割而非「routine 各自 merge / contributor PR 永遠等 observer」
 
 - **drift 風險**：每條 routine 各自跑 `gh pr merge` 等 6 處複寫 hard-gate 邏輯 → 改一處要改 6 處 → 指標 over 複寫違反
 - **同步問題**：routine 自己 10-60 min 完成，CI 跑 5-10 min — 等 = 浪費；不等 = 賭 CI 過
 - **集中審計**：maintainer 是唯一 cycle 跑「掃所有 PR + 走 hard gate」的 routine
-- **觀察者可見度**：所有 routine merge 都來自 maintainer（git log 一目了然）
-- **fail isolation**：某條 routine PR fail（CI 紅 / conflict），不會卡住其他 routine
+- **觀察者可見度**：所有 merge 都來自 maintainer（git log 一目了然）+ 留 open 的 PR 都有具體 reason
+- **contributor 等待成本（v2 新增）**：原本 B 路徑「永遠不 auto-merge」造成 contributor PR 等 ≥ 24 hr 才有 review 動作，違反 [DNA #7 先有再求好](../semiont/DNA.md) + [merge first polish later canonical](../semiont/MEMORY.md) + [β-r3 META-PATTERN「Default 是行動，不是 defer」](../semiont/LESSONS-INBOX.md)。哲宇 2026-05-11 校正後改走完整審核
+- **fail isolation**：某條 PR fail（CI 紅 / conflict / 紅旗），不會卡住其他 PR — maintainer 各別處置
 
 #### 例外：maintainer 自己的 PR 可以 auto-merge
 
