@@ -77,15 +77,15 @@ related:
 
 ### Tier A — 第一輪 audit（核心高頻 + 已知有問題）
 
-| Pipeline                                                 | 行數            | 主要 audit 目標                                | 狀態                   |
-| -------------------------------------------------------- | --------------- | ---------------------------------------------- | ---------------------- |
-| **TRANSLATION-PIPELINE**                                 | 1005            | 跟 SQUEEZE-MODELS-MAX 邊界 + spine 對齊        | ✅ v4.0 ship           |
-| **SQUEEZE-MODELS-MAX-PIPELINE**                          | 543             | 接收 TRANSLATION batch + spine                 | ✅ v4.0 ship           |
-| **SPORE family** (PIPELINE / WRITING / VERIFY / HARVEST) | 470+761+591+883 | 5 stage spine + sub-canonical 邊界             | ⏳ 待處理              |
-| **FACTCHECK-PIPELINE**                                   | 563             | Quick/Full Mode spine + REWRITE hard gate 對齊 | ✅ v2.0 ship           |
-| **MEMORY + DIARY + WEEKLY-REPORT trio**                  | 334+319+410     | Beat 4-5 收官 trio + finale skill contract     | ✅ v2.0/v2.0/v3.5 ship |
-| **EVOLVE-PIPELINE**                                      | 662             | news-lens routine + PEER-INGESTION 邊界        | ⏳ 待處理              |
-| **DATA-REFRESH-PIPELINE**                                | 336             | Phase 編號 + SENSE-FETCHER 三檔分工            | ⏳ 待處理              |
+| Pipeline                                                 | 行數            | 主要 audit 目標                                | 狀態                        |
+| -------------------------------------------------------- | --------------- | ---------------------------------------------- | --------------------------- |
+| **TRANSLATION-PIPELINE**                                 | 1005            | 跟 SQUEEZE-MODELS-MAX 邊界 + spine 對齊        | ✅ v4.0 ship                |
+| **SQUEEZE-MODELS-MAX-PIPELINE**                          | 543             | 接收 TRANSLATION batch + spine                 | ✅ v4.0 ship                |
+| **SPORE family** (PIPELINE / WRITING / VERIFY / HARVEST) | 470+761+591+883 | 5 stage spine + sub-canonical 邊界             | ✅ v3.5/v3.4/v1.5/v2.0 ship |
+| **FACTCHECK-PIPELINE**                                   | 563             | Quick/Full Mode spine + REWRITE hard gate 對齊 | ✅ v2.0 ship                |
+| **MEMORY + DIARY + WEEKLY-REPORT trio**                  | 334+319+410     | Beat 4-5 收官 trio + finale skill contract     | ✅ v2.0/v2.0/v3.5 ship      |
+| **EVOLVE-PIPELINE**                                      | 662             | news-lens routine + PEER-INGESTION 邊界        | ⏳ 待處理                   |
+| **DATA-REFRESH-PIPELINE**                                | 336             | Phase 編號 + SENSE-FETCHER 三檔分工            | ⏳ 待處理                   |
 
 ### Tier B — 第二輪 audit（次要，看第一輪 budget）
 

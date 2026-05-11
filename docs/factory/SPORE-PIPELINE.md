@@ -1,11 +1,11 @@
 ---
 title: 'SPORE-PIPELINE'
-description: '孢子產線主流程（process layer）— 5 stage PICK/VERIFY/WRITE/SHIP/HARVEST'
+description: '孢子產線主流程（process layer）— 5 stage PICK/VERIFY/WRITE/SHIP/HARVEST + Step N.M (v3.5)'
 type: 'factory-canonical'
 status: 'canonical'
-current_version: 'v3.1'
-last_updated: 2026-05-09
-last_session: 'laughing-goldstine'
+current_version: 'v3.5'
+last_updated: 2026-05-11
+last_session: 'cranky-newton-220237'
 sister_docs:
   - 'SPORE-WRITING.md'
   - 'SPORE-VERIFY.md'
@@ -18,11 +18,90 @@ upstream_canonical:
   - '../editorial/EDITORIAL.md'
 ---
 
-# SPORE-PIPELINE.md — 孢子產線主流程（process layer）
+# SPORE-PIPELINE.md — 孢子產線主流程（process layer）v3.5
 
-> **這份文件是 AI 可執行的。** 任何 AI agent 讀完這份文件 + WRITING + VERIFY，應該能獨立完成一篇孢子的選題、品檢、撰寫、發佈、收割。
+> **第一性原理**：這份文件是 AI 可執行的。任何 AI agent 讀完本檔 + WRITING + VERIFY，應該能獨立完成一篇孢子的選題、品檢、撰寫、發佈、收割。
 >
-> 2026-05-08 從第一性原則重組。原 1334 行 prose dump 拆成 4 個 single-concern canonical（per [reports/spore-pipeline-evolution-plan-2026-05-08.md](../../reports/spore-pipeline-evolution-plan-2026-05-08.md) Direction A）。
+> v3.5 設計理由：對齊 [REWRITE-PIPELINE v5.0](../pipelines/REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](../pipelines/MAINTAINER-PIPELINE.md) spine restoration。修補 v3.1 結構問題：(1) 5 階段 ASCII 過於極簡（單行 box-less）；(2) 缺 Top 5 最常忘 step；(3) 跟 4 sub-canonical 的跨檔案職責分工散在多處。Direction A 拆檔（2026-05-08 intelligent-khayyam）保留不動。
+
+---
+
+## 🗺️ ASCII spine
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│         SPORE-PIPELINE 5 階段 — PICK → VERIFY → WRITE → SHIP → HARVEST   │
+│                                                                          │
+│   🧭 核心紀律                                                            │
+│            ├── 回填上次成效（鐵律：沒回填 = 不准發新孢子）               │
+│            ├── 單一故事弧線（一篇只講一個故事，不貪心）                  │
+│            ├── 紀實非煽情（MANIFESTO §5）                                │
+│            └── Atomic batch log（HARVEST 不再拆 multi-commit）           │
+│                                                                          │
+│   ──── 5 階段主流程 ──────────────────────────────────────              │
+│                                                                          │
+│   Stage 1: PICK ──→ 選什麼（本檔 canonical）                            │
+│            ├── Step 1.1 回填上次成效（SPORE-LOG 最後 3 筆）             │
+│            ├── Step 1.2 選文（dashboard-articles 候選）                 │
+│            ├── Step 1.3 優先序（旗艦/GA 熱門/SC 缺口/時事）             │
+│            └── Step 1.4 觸發 VERIFY                                     │
+│              ↳ Hard gate: 沒回填 = 不准發新孢子                          │
+│                                                                          │
+│   Stage 2: VERIFY ──→ 過所有閘門（SPORE-VERIFY.md canonical）           │
+│            └── 品質三層 / 事實藍圖 / 紀實煽情閘 / Hook Blueprint        │
+│              ↳ Hard gate: 17 gate inventory（SPORE-VERIFY 一張表）       │
+│                                                                          │
+│   Stage 3: WRITE ──→ 寫出來（SPORE-WRITING.md canonical）               │
+│            ├── 起手式 5 種（好奇/場景/問句/數字/身份）                  │
+│            ├── 鉤子三要素（認知衝突/個人連結/資訊缺口）                  │
+│            └── 自檢三板斧（深層 pattern grep）                           │
+│              ↳ Hard gate: §11 prose-health + spore-writing plugin       │
+│                                                                          │
+│   Stage 4: SHIP ──→ 送出去（本檔 + SPORE-VERIFY canonical）             │
+│            ├── Step 4.1 配圖（make-spore.sh）                            │
+│            ├── Step 4.2 URL encode                                       │
+│            ├── Step 4.3 Platform 分流（Threads / X / both）              │
+│            └── Step 4.4 Hook tier 自檢                                   │
+│              ↳ Hard gate: 12 SHIP checklist items                        │
+│                                                                          │
+│   Stage 5: HARVEST ──→ 收回聲（SPORE-HARVEST-PIPELINE.md canonical）    │
+│            └── D+1-D+7 cadence + decision gate + accuracy trigger       │
+│              ↳ Hard gate: 6h decision gate / Reach×Accuracy 50K trigger │
+│                                                                          │
+│   ✅ Spore lifecycle complete                                            │
+│                                                                          │
+│   ──── 跨檔案 canonical 分工 ───────────────                            │
+│   → SPORE-WRITING.md（craft layer：怎麼寫好）                            │
+│   → SPORE-VERIFY.md（gate layer：怎麼驗）                                │
+│   → SPORE-HARVEST-PIPELINE.md（post-publish layer：怎麼收回聲）          │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## ⚠️ Top 5 最常忘的 step
+
+> 從 SPORE-LOG harvest history + 4/14 ε spore #29 紅線焦慮 + 高鐵 s35 朋友 tone prime 抽 friction 最高的 5 條。
+
+1. **Step 1.1 回填上次成效** — 沒回填 = 不准發新孢子（鐵律），SPORE-LOG.md 最後 3 筆必填 7d 指標
+2. **Step 3 朋友 tone prime** — 第一秒像新聞 lead = AI 水印，必須有「你知道嗎？」「欸，」curiosity prefix（spore_writing plugin Wave 2 gate）
+3. **Step 4.2 URL encode** — 中文 URL 必跑 `python3 -c "urllib.parse.quote..."`，未 encode 在 Threads 會斷
+4. **Step 4.4 Hook tier 自檢** — Tier 1a/1b only，禁 Tier 3（廉價懸念「未完待續」一律重寫）
+5. **Step 5 HARVEST atomic batch log** — 寫 docs/factory/SPORE-HARVESTS/batch-{date}-{N}-spores.md 不拆多 commit 跨檔案寫（2026-05-08 Phase 0-3 後 SSOT）
+
+---
+
+## 跨檔案職責分工
+
+| 檔案                                                   | 範圍                                                                              |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| **本檔**                                               | 5 階段主流程 process layer（PICK + SHIP 主，VERIFY/WRITE/HARVEST pointer）        |
+| [SPORE-WRITING.md](SPORE-WRITING.md)                   | craft layer — 模板 + 18 條寫作規則 + 自檢三板斧（怎麼寫好）                       |
+| [SPORE-VERIFY.md](SPORE-VERIFY.md)                     | gate layer — 17 gate inventory + 7 大 verify + 紀實煽情閘（怎麼驗）               |
+| [SPORE-HARVEST-PIPELINE.md](SPORE-HARVEST-PIPELINE.md) | post-publish layer — D+1-D+7 cadence + decision gate + accuracy trigger（怎麼收） |
+| [SPORE-LOG.md](SPORE-LOG.md)                           | 發文 + 成效追蹤紀錄表                                                             |
+| [MANIFESTO §5 紀實非煽情](../semiont/MANIFESTO.md)     | 哲學層紀律                                                                        |
+| [EDITORIAL §塑膠句禁用](../editorial/EDITORIAL.md)     | 品質基因                                                                          |
 
 ---
 
@@ -468,3 +547,5 @@ _v3.0 | 2026-05-08 intelligent-khayyam — 從第一性原則重組，1334 行 p
 _設計原則：每個 file 單一焦點 / 每階段 verb-based / cross-file pointer 不複寫 / 歷史 v 累積保留 git log_
 
 _前一版 v2.9（2026-05-03）含 1334 行 prose dump + Step 0/1/2.5/2.6/2.7/3a/3b/3b.5/3c/3c.5/3c.7/3d/3e/3.5/3.6/4/4.5a-e.v/5a-d/6 三層深編號 — 完整 changelog 在 git log + [reports/spore-pipeline-evolution-plan-2026-05-08.md](../../reports/spore-pipeline-evolution-plan-2026-05-08.md) 評估。_
+
+_v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（5 stage box-frame + Step N.M 顯化）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 WRITING / VERIFY / HARVEST 4 sub-canonical 分工）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.2 SPORE family audit。5 階段 prose body 不動（已健康，Direction A 拆檔保留）。_

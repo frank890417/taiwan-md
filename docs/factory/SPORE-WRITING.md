@@ -1,27 +1,98 @@
 ---
 title: 'SPORE-WRITING'
-description: '孢子撰寫手冊（craft layer）— 模板 + 18 條規則 + 自檢三板斧'
+description: '孢子撰寫手冊（craft layer）— 模板 + 18 條規則 + 自檢三板斧 + 起手式 5 種 + 鉤子三要素 (v3.4)'
 type: 'factory-canonical'
 status: 'canonical'
-current_version: 'v3.3'
-last_updated: 2026-05-09
-last_session: 'laughing-goldstine'
+current_version: 'v3.4'
+last_updated: 2026-05-11
+last_session: 'cranky-newton-220237'
 sister_docs:
   - 'SPORE-PIPELINE.md'
   - 'SPORE-VERIFY.md'
+  - 'SPORE-HARVEST-PIPELINE.md'
   - 'SPORE-TEMPLATES.md'
 upstream_canonical:
   - '../editorial/EDITORIAL.md'
   - '../semiont/MANIFESTO.md'
 ---
 
-# SPORE-WRITING.md — 孢子撰寫手冊（craft layer）
+# SPORE-WRITING.md — 孢子撰寫手冊（craft layer）v3.4
 
-> 2026-05-08 從 SPORE-PIPELINE 主檔拆出，吸收原 SPORE-TEMPLATES.md 全文 + Step 3c 寫作 18 條 + Step 3.5 多版本 + Step 3.6 混合策略。
+> **第一性原理**：孢子是「跟朋友介紹台灣」式的短篇引爆器——第一句話讓人停下拇指、結尾用情感收、連結放最後一行、150-300 字。craft = 怎麼寫好。
 >
-> **跟 SPORE-PIPELINE 的分工**：PIPELINE 管 process（5 stage 線性），WRITING 管 craft（怎麼寫好）。寫 prose 時讀本檔 + 工具 verify 時讀 SPORE-VERIFY.md。
->
-> 對應 [reports/spore-pipeline-evolution-plan-2026-05-08.md](../../reports/spore-pipeline-evolution-plan-2026-05-08.md) Direction A 拆檔。
+> v3.4 設計理由：對齊 [REWRITE-PIPELINE v5.0](../pipelines/REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](../pipelines/MAINTAINER-PIPELINE.md) spine restoration。修補 v3.3 結構問題：(1) 缺 ASCII spine；(2) Top 5 最常忘沒提取；(3) 跟 PIPELINE / VERIFY / HARVEST sub-canonical 跨檔案職責分工要拉到頂部。
+
+---
+
+## 🗺️ ASCII spine
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│         SPORE-WRITING — craft layer（怎麼寫好一則孢子）                  │
+│                                                                          │
+│   🧭 通用寫作規則                                                        │
+│            ├── 第一句話必須讓人停下拇指                                  │
+│            ├── 用場景取代描述（讓讀者自己看見）                          │
+│            ├── 一篇只講一個故事弧線                                      │
+│            ├── 結尾用情感收，不用摘要收                                  │
+│            ├── 連結放最後一行（孢子要獨立存活）                          │
+│            └── 長度 150-300 字（Threads 最佳閱讀長度）                   │
+│                                                                          │
+│   ──── 5 種起手式（AI 依素材自動選）─────────────                        │
+│            ├── 🎯 好奇型（預設）「你知道嗎？」+ emoji                    │
+│            ├── 🎬 場景型「[年份]，[地點]，[一個人在做一件事]」          │
+│            ├── ❓ 問句型 直接挑戰認知                                    │
+│            ├── 🔢 數字衝擊型 裸數字開場                                  │
+│            └── 🪞 身份認同型「身為台灣人，你可能不知道...」              │
+│              ↳ Hard gate: 朋友 tone prime（spore_writing plugin Wave 2） │
+│                                                                          │
+│   ──── 鉤子三要素（命中至少 2/3）─────────────                           │
+│            ├── 認知衝突（讀者以為 A 其實是 B）                           │
+│            ├── 個人連結（這跟我有關）                                    │
+│            └── 資訊缺口（故事弧線的自然懸念）                            │
+│                                                                          │
+│   ──── 18 條深層規則 + 自檢三板斧 ─────────────                          │
+│            ├── 18 條規則（內文 §依素材選起手式 → §結尾紀律）              │
+│            └── 自檢三板斧（深層 pattern mental grep）                    │
+│              ↳ Hard gate: spore-writing plugin 全跑                      │
+│                                                                          │
+│   ✅ Draft ready → 進 SPORE-VERIFY                                       │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## ⚠️ Top 5 最常忘的 step
+
+> 從 4/14 ε spore #29「逐字」紅線焦慮 + 高鐵 s35 朋友 tone prime + 多次塑膠句被觀察者校正抽 friction 最高的 5 條。
+
+1. **朋友 tone prime — 「你知道嗎？」開場必跑** — 第一秒像新聞 lead = AI 水印（spore_writing plugin Wave 2 gate）
+2. **結尾用情感不用摘要** — 「總之...」「希望這篇文章能讓你...」一律改寫
+3. **連結放最後一行** — 孢子本身要獨立存活，連結是附帶不是主體
+4. **鉤子三要素 ≥ 2/3** — 寫完自檢，< 2 個就重寫鉤子
+5. **§11 對位句型 9 變體 + 破折號連用** — 跟其他 prose pipeline 共用 prose-health plugin
+
+---
+
+## 跨檔案職責分工
+
+| 檔案                                                   | 範圍                                                                   |
+| ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| **本檔**                                               | craft layer — 模板 + 18 條規則 + 起手式 5 種 + 鉤子三要素 + 自檢三板斧 |
+| [SPORE-PIPELINE.md](SPORE-PIPELINE.md)                 | 5 stage 主流程 process layer（PICK/VERIFY/WRITE/SHIP/HARVEST）         |
+| [SPORE-VERIFY.md](SPORE-VERIFY.md)                     | gate layer — 17 hard gate 集中地                                       |
+| [SPORE-HARVEST-PIPELINE.md](SPORE-HARVEST-PIPELINE.md) | post-publish layer — D+1-D+7 收割                                      |
+| [MANIFESTO §5 紀實非煽情](../semiont/MANIFESTO.md)     | 哲學層紀律                                                             |
+| [EDITORIAL §塑膠句禁用](../editorial/EDITORIAL.md)     | 品質基因                                                               |
+| [MANIFESTO §11](../semiont/MANIFESTO.md)               | 對位句型 + 破折號雙紀律                                                |
+
+---
+
+## 跟 SPORE-PIPELINE 的分工
+
+PIPELINE 管 process（5 stage 線性），WRITING 管 craft（怎麼寫好）。寫 prose 時讀本檔 + 工具 verify 時讀 SPORE-VERIFY.md。
+
+對應 [reports/spore-pipeline-evolution-plan-2026-05-08.md](../../reports/spore-pipeline-evolution-plan-2026-05-08.md) Direction A 拆檔。
 
 ---
 

@@ -1,27 +1,93 @@
 ---
 title: 'SPORE-VERIFY'
-description: '孢子閘門集中地（gate layer）— Hard gate inventory + 7 大 verify + 紀實/煽情閘'
+description: '孢子閘門集中地（gate layer）— 17 Hard gate inventory + 7 大 verify + 紀實/煽情閘 (v1.5)'
 type: 'factory-canonical'
 status: 'canonical'
-current_version: 'v1.0'
-last_updated: 2026-05-08
-last_session: 'intelligent-khayyam'
+current_version: 'v1.5'
+last_updated: 2026-05-11
+last_session: 'cranky-newton-220237'
 sister_docs:
   - 'SPORE-PIPELINE.md'
   - 'SPORE-WRITING.md'
+  - 'SPORE-HARVEST-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
   - '../semiont/DNA.md'
   - '../pipelines/FACTCHECK-PIPELINE.md'
 ---
 
-# SPORE-VERIFY.md — 孢子閘門集中地（gate layer）
+# SPORE-VERIFY.md — 孢子閘門集中地（gate layer）v1.5
 
-> 2026-05-08 從 SPORE-PIPELINE 主檔拆出，集中所有「品檢、事實驗證、倫理、寫作節制」閘門。
+> **第一性原理**：寫一則孢子需要過的所有閘門集中在一張表 — 17 hard gate，任一不過 = 不放行。本檔是 verify 紀律的 single source of truth。
 >
-> **跟其他 spore 檔的分工**：PIPELINE 管 process（5 stage 線性），WRITING 管 craft（怎麼寫好），**本檔管 gate（怎麼驗）**。
->
-> 對應 [reports/spore-pipeline-evolution-plan-2026-05-08.md](../../reports/spore-pipeline-evolution-plan-2026-05-08.md) Direction A 拆檔。
+> v1.5 設計理由：對齊 [REWRITE-PIPELINE v5.0](../pipelines/REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](../pipelines/MAINTAINER-PIPELINE.md) spine restoration。Hard Gate Inventory 已存在不動，補 ASCII spine + Top 5 最常忘 + 跨檔案職責分工 standalone table。
+
+---
+
+## 🗺️ ASCII spine
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│         SPORE-VERIFY — gate layer（怎麼驗一則孢子）                      │
+│                                                                          │
+│   🧭 verify 紀律                                                         │
+│            ├── 17 hard gate（12 必跑 + 5 條件）                          │
+│            ├── 三層 quality（自動掃描 → EDITORIAL → 人工判斷）           │
+│            └── reach × accuracy（views ≥ 50K 觸發 retroactive audit）    │
+│                                                                          │
+│   ──── 7 大 verify 階段 ──────────────────────────────────────          │
+│                                                                          │
+│   1. 上次成效回填 ──→ PICK 前置（鐵律）                                  │
+│   2. 品質三層 ──→ 自動掃描 + EDITORIAL + 人工                           │
+│   3. 事實藍圖 + 信度層 ──→ blueprint 必填                                │
+│   4. 紀實/煽情閘 ──→ 敏感度 flag 觸發四問自檢                            │
+│   5. Hook Blueprint ──→ 結構性題目讀者物件 + 矛盾問題                    │
+│   6. 事實查核表 + §11 書寫節制 ──→ 7 類 claim audit + AI 水印            │
+│   7. SHIP checklist ──→ URL encode / 配圖 / Hook tier / Platform        │
+│                                                                          │
+│   ──── 17 Hard Gate Inventory（一張表 audit 全 pipeline）───              │
+│            └── 詳見下方 §Hard Gate Inventory                             │
+│                                                                          │
+│   ──── HARVEST 觸發 retroactive audit ──────────────                    │
+│            └── views ≥ 50K → spawn FACTCHECK Quick Mode 驗 3-5 atom      │
+│                                                                          │
+│   ✅ 孢子過所有閘門 → 進 WRITE / SHIP                                   │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## ⚠️ Top 5 最常忘的 step
+
+> 從 4/14 ε spore #29 紅線焦慮 + 鄭麗文事實藍圖必填 + 多次「Tier 3 廉價懸念」紅旗抽 friction 最高的 5 條。
+
+1. **事實藍圖必填**（VERIFY 第 3 階段）— 不能寫 prose 前必須有 blueprint + frontmatter 信度層
+2. **Reach × Accuracy 50K 觸發 retroactive audit** — 孢子 views ≥ 50K spawn FACTCHECK Quick Mode 驗 3-5 atom，發現錯誤修原文
+3. **§11 prose-health plugin** — 對位句型 9 變體 + 破折號連用 + spore-writing plugin 全跑
+4. **Platform allocation** — zh 一般人物 default Threads only，X 拉非中文受眾才開
+5. **Hook tier 自檢** — Tier 1a/1b only，禁 Tier 3 廉價懸念（「未完待續」一律重寫）
+
+---
+
+## 跨檔案職責分工
+
+| 檔案                                                        | 範圍                                                                            |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **本檔**                                                    | gate layer — 17 hard gate inventory + 7 大 verify + 紀實煽情閘 + Hook Blueprint |
+| [SPORE-PIPELINE.md](SPORE-PIPELINE.md)                      | 5 stage 主流程 process layer                                                    |
+| [SPORE-WRITING.md](SPORE-WRITING.md)                        | craft layer — 模板 + 18 條規則 + 自檢三板斧                                     |
+| [SPORE-HARVEST-PIPELINE.md](SPORE-HARVEST-PIPELINE.md)      | post-publish — Reach×Accuracy 50K 觸發本檔 retroactive audit                    |
+| [FACTCHECK-PIPELINE.md](../pipelines/FACTCHECK-PIPELINE.md) | 觸發 Quick Mode 對孢子做 atom 驗證（reach ≥ 50K）                               |
+| [MANIFESTO §11](../semiont/MANIFESTO.md)                    | 對位句型 + 破折號雙紀律                                                         |
+| [DNA #16+31](../semiont/DNA.md)                             | 事實驗證 / 跨源驗證                                                             |
+
+---
+
+## 跟其他 spore 檔的分工
+
+PIPELINE 管 process（5 stage 線性），WRITING 管 craft（怎麼寫好），**本檔管 gate（怎麼驗）**。
+
+對應 [reports/spore-pipeline-evolution-plan-2026-05-08.md](../../reports/spore-pipeline-evolution-plan-2026-05-08.md) Direction A 拆檔。
 
 ---
 
@@ -589,3 +655,5 @@ python3 scripts/tools/article-health.py /tmp/spore-draft.md --check=prose-health
 ---
 
 _v1.0 | 2026-05-08 intelligent-khayyam — 從 SPORE-PIPELINE 主檔拆出，吸收 Step 2 品質三層 + Step 2.5 事實藍圖 + Step 2.6 針對性驗證 + Step 2.7 紀實/煽情閘 + Step 3b.5 Hook Blueprint + Step 3c.5 事實查核閘 + Step 3c.7 §11 書寫節制閘_
+
+_v1.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（7 大 verify 階段 + 17 gate inventory pointer + HARVEST retroactive trigger）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table。Hard Gate Inventory 17 gates table 不動（已是 spec canonical pattern instantiation）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.2 SPORE family audit。_

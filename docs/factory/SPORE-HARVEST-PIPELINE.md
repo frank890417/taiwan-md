@@ -1,13 +1,15 @@
 ---
 title: 'SPORE-HARVEST-PIPELINE'
-description: '孢子回聲收割產線 — D+1-D+7 cadence + decision gate + retroactive accuracy trigger'
+description: '孢子回聲收割產線 — D+1-D+7 cadence + decision gate + retroactive accuracy trigger + atomic batch log (v2.0)'
 type: 'factory-canonical'
 status: 'canonical'
-current_version: 'v1.1'
-last_updated: 2026-05-09
-last_session: 'laughing-goldstine'
+current_version: 'v2.0'
+last_updated: 2026-05-11
+last_session: 'cranky-newton-220237'
 sister_docs:
   - 'SPORE-PIPELINE.md'
+  - 'SPORE-WRITING.md'
+  - 'SPORE-VERIFY.md'
   - 'SPORE-LOG.md'
 upstream_canonical:
   - '../semiont/SENSES.md'
@@ -15,11 +17,104 @@ upstream_canonical:
   - '../semiont/DNA.md'
 ---
 
-# SPORE-HARVEST-PIPELINE.md — 孢子回聲收割產線
+# SPORE-HARVEST-PIPELINE.md — 孢子回聲收割產線 v2.0
 
-> **這份文件是 AI 可執行的。** 任何 AI agent 讀完這份文件，應該能獨立完成一次孢子回聲的抓取、分類、整合與回覆準備。
+> **第一性原理**：孢子上線不是終點，是反饋迴圈的起點。HARVEST 讓讀者的聲音回到文章本體，文章持續成為「作者 + 讀者」的共寫物。
 >
-> 跟 [SPORE-PIPELINE.md](SPORE-PIPELINE.md) 的分工：**SPORE 管上線（孢子怎麼誕生 + 怎麼發出去）；HARVEST 管收割（孢子發出去後，讀者的回聲怎麼回到文章本體）**。
+> v2.0 設計理由：對齊 [REWRITE-PIPELINE v5.0](../pipelines/REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](../pipelines/MAINTAINER-PIPELINE.md) spine restoration。修補 v1.1 結構問題：(1) 缺 ASCII spine + atomic batch log SSOT；(2) Hard Gate 散在各 section；(3) Top 5 最常忘沒提取。
+
+---
+
+## 🗺️ ASCII spine
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│         SPORE-HARVEST-PIPELINE — 收割流程 D+1-D+7                        │
+│                                                                          │
+│   🧭 核心紀律                                                            │
+│            ├── Atomic batch log SSOT（不拆 multi-commit 跨檔案寫）       │
+│            ├── 自動化下游（generate-dashboard-spores.py / sync-links）   │
+│            ├── 6h decision gate（views < 500 觸發 re-hook）              │
+│            └── Reach × Accuracy（views ≥ 50K 觸發 retroactive audit）    │
+│                                                                          │
+│   📍 SSOT 寫入位置                                                       │
+│            └── docs/factory/SPORE-HARVESTS/batch-{date}-{N}-spores.md    │
+│              （frontmatter: spores plural list / harvest_date /          │
+│               harvest_window_day / batch_reason / triggered_by / count） │
+│                                                                          │
+│   ──── D+1 → D+7 cadence ─────────────────────────────                  │
+│                                                                          │
+│   Step 1: D+1 acute（6h decision gate）                                  │
+│            ├── Chrome MCP harvest views / likes / replies                │
+│            ├── views < 500 → 觸發 re-hook decision                       │
+│            └── views ≥ 500 → 進 Step 2 D+3                               │
+│                                                                          │
+│   Step 2: D+3 trend ──→ 中段觀察                                         │
+│            ├── 互動趨勢（線性成長 / 衰退 / 高鐵型長尾）                  │
+│            └── reach 50K 累積 → Step 4 retroactive audit                 │
+│                                                                          │
+│   Step 3: D+7 finalize ──→ SPORE-LOG 7d 指標回填                         │
+│            └── 7d_views / 7d_likes / 7d_engagement / amplification ratio │
+│                                                                          │
+│   Step 4: Reach × Accuracy trigger ──→ retroactive FACTCHECK             │
+│            └── views ≥ 50K spawn FACTCHECK Quick Mode 驗 3-5 atom        │
+│                                                                          │
+│   Step 5: Atomic batch log commit ──→ HARVESTS/batch-{date}-{N}.md       │
+│            └── 一個 commit 寫一個 batch log，不跨檔案多 commit            │
+│                                                                          │
+│   ✅ Harvest cycle complete → 下游 generator 自動算 dashboard            │
+│                                                                          │
+│   ──── 跨 pipeline boundary ──────────────────────────                  │
+│   → SPORE-PIPELINE.md（觸發點：孢子發布後 24h 起跑本檔）                 │
+│   → FACTCHECK-PIPELINE.md（reach ≥ 50K 觸發 Quick Mode）                │
+│   → DATA-REFRESH-PIPELINE.md（Step 13 sync-spore-links 從本檔 SSOT 重生）│
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
+
+| Gate                          | 觸發 step    | 條件            | 工具                                    | 不過 = ?                                       |
+| ----------------------------- | ------------ | --------------- | --------------------------------------- | ---------------------------------------------- |
+| Atomic batch log              | Step 5       | 整次 harvest    | manual（不拆 multi-commit）             | split → 從 SPORE-HARVESTS 重新整合             |
+| Frontmatter spores plural     | Step 5       | per batch       | manual（spores 不是 spore）             | schema 不符                                    |
+| harvest_window_day            | Step 5       | per batch       | manual（D+N or `mixed`）                | 失去 cadence 紀錄                              |
+| 不寫 knowledge sporeLinks     | 全程         | 收割期間        | manual（Step 12 sync-spore-links 自動） | 寫了會被 refresh.sh 覆蓋                       |
+| 6h decision gate              | Step 1       | views < 500     | Chrome MCP harvest                      | 觸發 re-hook                                   |
+| Reach × Accuracy trigger      | Step 4       | views ≥ 50K     | manual + FACTCHECK                      | spawn Quick Mode 驗 atom                       |
+| D+7 7d 指標必填               | Step 3       | per spore       | SPORE-LOG.md                            | 空白 = 不准發新孢子（per SPORE-PIPELINE 鐵律） |
+| 下游 generator 跑             | Step 5 後    | refresh-data.sh | `generate-dashboard-spores.py`          | dashboard 不更新                               |
+| sync-spore-links 從 SSOT 重生 | refresh-data | Step 13         | `sync-spore-links.py`                   | knowledge sporeLinks drift                     |
+
+---
+
+## ⚠️ Top 5 最常忘的 step
+
+> 從 SPORE-LOG harvest history + 4/18 δ-late 觀察者觸發誕生事件 + 5/8 Phase 6 atomic batch log refactor 抽 friction 最高的 5 條。
+
+1. **Atomic batch log，不拆 multi-commit** — 一次 harvest 一個 commit，per `batch-{date}-{N}-spores.md` SSOT（5/8 Phase 6 SSOT cleanup）
+2. **不手寫 knowledge/\*.md sporeLinks** — Step 12 sync-spore-links 從 SSOT 重生會覆蓋手寫
+3. **D+7 7d 指標必填到 SPORE-LOG** — 空白 = 鐵律違反（per SPORE-PIPELINE PICK §回填上次成效）
+4. **Reach × Accuracy 50K 觸發 retroactive FACTCHECK** — 不是「等讀者抓錯」，是主動 spawn Quick Mode 驗 3-5 atom
+5. **Frontmatter `spores` 是 plural list** — Phase 1 audit 後強制 schema，不再用 `spore` singular
+
+---
+
+## 跨檔案職責分工
+
+| 檔案                                                              | 範圍                                                                                       |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **本檔**                                                          | post-publish layer — D+1-D+7 cadence + decision gate + accuracy trigger + atomic batch log |
+| [SPORE-PIPELINE.md](SPORE-PIPELINE.md)                            | 5 stage 主流程（觸發點：孢子發布後 24h 起跑本檔）                                          |
+| [SPORE-WRITING.md](SPORE-WRITING.md)                              | craft layer（怎麼寫好）                                                                    |
+| [SPORE-VERIFY.md](SPORE-VERIFY.md)                                | gate layer（17 hard gate + 1 retroactive 觸發點：reach ≥ 50K → 本檔）                      |
+| [SPORE-LOG.md](SPORE-LOG.md)                                      | 發文 + 成效追蹤紀錄表                                                                      |
+| [FACTCHECK-PIPELINE.md](../pipelines/FACTCHECK-PIPELINE.md)       | Quick Mode 被本檔 Step 4 觸發（reach ≥ 50K）                                               |
+| [DATA-REFRESH-PIPELINE.md](../pipelines/DATA-REFRESH-PIPELINE.md) | Step 13 sync-spore-links 從本檔 SSOT 重生                                                  |
+| [SENSES.md](../semiont/SENSES.md)                                 | Chrome MCP 抓取 SOP                                                                        |
+
+---
 
 ## 📍 SSOT 寫入位置（2026-05-08 Phase 0-3 後 canonical）
 
@@ -881,3 +976,5 @@ _v1.0 | 2026-04-18 δ-late — 觀察者觸發孢子 #33 @ste_ven_1487 事實更
 _定位：SPORE 產線的下游 — 孢子上線後 7 天的讀者聲音收割 + 整合回文章本體_
 _執行責任：AI 主責 Step 1-5 + 7-8；人類主責 Step 6（回覆留言）_
 _每次執行留 log 到 `docs/factory/SPORE-HARVESTS/{N}-{slug}-{date}.md`_
+
+_v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（D+1 → D+7 cadence + 6h decision gate + Reach×Accuracy trigger + atomic batch log SSOT 顯化）+ Hard Gate Inventory 集中 table（9 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 SPORE-PIPELINE / VERIFY / FACTCHECK / DATA-REFRESH 分工 + atomic batch log 寫入路徑強化）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.2 SPORE family audit。D+1-D+7 prose body 不動（已健康，5/8 Phase 6 SSOT cleanup 保留）。_
