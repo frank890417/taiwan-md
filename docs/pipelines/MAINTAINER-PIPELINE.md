@@ -274,7 +274,7 @@ Closing — thanks again 🧬
 3. **URL 內容支持 claim**（claim-citation 對應，非僅 URL 存在）
    - WebFetch URL → 驗證該 URL 是否真的提到 footnote 旁邊的 claim
    - 若 URL 是書籍/podcast/影片無法 WebFetch → contributor 需附 timestamp / 章節 / 段落引文證明
-   - 對應 [REWRITE-PIPELINE Stage 3.5 全文幻覺審計](REWRITE-PIPELINE.md#stage-35-hallucination-audit)，但 retroactive 用「降階處理」六種策略（見 [§降階處理 retroactive audit](#降階處理retroactive-audit-strategy降階處理表)）
+   - 對應 [REWRITE-PIPELINE Step 3.3 FACTCHECK Quick Mode + Step 3.4 Story atom audit](REWRITE-PIPELINE.md#step-33-factcheck-quick-modea-級--政治敏感--full-mode)，但 retroactive 用「降階處理」六種策略（見 [§降階處理 retroactive audit](#降階處理retroactive-audit-strategy降階處理表)）
 
 4. **直接引語 source 含逐字原文**（quote-restoration check）
    - 任何「」直接引號 → URL 必須含原文逐字
@@ -291,7 +291,7 @@ Closing — thanks again 🧬
 
 **「降階處理」retroactive audit strategy（降階處理表）**
 
-> 對 retroactive audit / 寬鬆 fix-on-merge 場景，Stage 3.5/3.6 的 hard gate 力度過高。Zaious 在 [PR #625](https://github.com/CheYuWuMonoame/taiwan-md/pull/625)（22-article retroactive citation cleanup, 372 對 claim-citation pair audit, 12.6% systematic unsupported rate confirmed）發明的六種降階策略是 maintainer 的實用工具：
+> 對 retroactive audit / 寬鬆 fix-on-merge 場景，REWRITE Step 3.3 + 3.4（v5.0；舊版 Stage 3.5 + 3.6）的 hard gate 力度過高。Zaious 在 [PR #625](https://github.com/CheYuWuMonoame/taiwan-md/pull/625)（22-article retroactive citation cleanup, 372 對 claim-citation pair audit, 12.6% systematic unsupported rate confirmed）發明的六種降階策略是 maintainer 的實用工具：
 
 | 場景                                       | 降階處理                                                                               |
 | ------------------------------------------ | -------------------------------------------------------------------------------------- |

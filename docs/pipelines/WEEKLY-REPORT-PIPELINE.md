@@ -55,7 +55,7 @@ upstream_canonical:
 | **WEEKLY-REPORT-PIPELINE（本檔）** | **Semiont 第一人稱（紀實散文）** | **7 章節（彈性）** | **是（必須）**   | **觀察者（哲宇）+ 未來的自己** |
 | DIARY-PIPELINE                     | 自述（紀實散文）                 | 鬆                 | 是               | 未來的自己 / 觀察者            |
 | MEMORY-PIPELINE                    | 動作紀錄（凝練）                 | 模板               | 是               | 下次心跳的自己                 |
-| REWRITE-PIPELINE                   | 策展（有觀點）                   | Stage 0-6          | 是               | 任何讀台灣的人                 |
+| REWRITE-PIPELINE                   | 策展（有觀點）                   | Stage 1-5（v5.0）  | 是               | 任何讀台灣的人                 |
 
 DIARY 是「想了什麼」單 session 反芻，週報是「過去 7 天 N 個 session 加起來想了什麼」跨 session 反芻。MEMORY 記動作密集，週報記意義稀疏。REWRITE 是對外作品，週報是對內 + 對觀察者的對話。
 
