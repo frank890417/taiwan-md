@@ -254,6 +254,8 @@ def _format_human(report: HealthReport, fail_on: str = "hard") -> str:
             continue
         icon = "✅" if r.passed else ("🔴" if r.hard_count else "⚠️ ")
         counts = f"hard={r.hard_count} warn={r.warn_count}"
+        if r.info_count:
+            counts += f" info={r.info_count}"
         lines.append(f"   {icon} {r.check}  {counts}")
         # Show up to 20 violations per check (was 5, bumped 2026-05-10
         # sad-shockley feedback: tool 應該直接指出哪裡有對位句／前後文，

@@ -104,7 +104,13 @@ def _is_excluded_path(path_str: str) -> bool:
 
 
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
-    """Detect short articles failing depth threshold."""
+    """Detect short articles failing depth threshold.
+
+    Always emits 1 INFO line with the CJK count (so users see stats even when
+    the article passes the threshold; 哲宇 mandate 2026-05-11 kind-mirzakhani
+    — 基礎指標每次都要顯示，不只 fail 才知道字數). Below threshold yields a
+    WARN/HARD violation per profile severity.
+    """
     if _is_excluded_path(str(target.path)):
         return
 
@@ -123,6 +129,17 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         return
 
     cjk = _count_cjk_in_body(body)
+
+    # ── INFO stats line (always emit, regardless of pass/fail) ────────────────
+    # 哲宇 mandate 2026-05-11: 檢查時要輸出基礎文章狀態分析（字數等）
+    pct = (cjk / min_chars) * 100 if min_chars > 0 else 0
+    yield Violation(
+        check=CHECK_NAME,
+        severity=Severity.INFO,
+        message=f"字數統計：{cjk} CJK chars ({pct:.0f}% of {min_chars} 門檻)",
+        editorial_ref=EDITORIAL_REF,
+    )
+
     if cjk >= min_chars:
         return
 

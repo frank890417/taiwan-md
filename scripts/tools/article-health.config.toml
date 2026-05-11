@@ -62,8 +62,12 @@ fail_on = "hard"
 # word-count added 2026-05-10 sad-shockley — depth threshold 4500 CJK chars，
 # 觸發：台灣無人機產業 EVOLVE 後仍 3273 字 = 虎頭蛇尾，觀察者 mandate 升 plugin gate.
 # Soft-launch: WARN default；rewrite-stage-4 升 HARD（new article must pass）。
+# image-health (count gate) added 2026-05-11 kind-mirzakhani — NMTH 文章 ship
+# 後哲宇 callout「為什麼圖片用那麼少」揭露 Step 4.3.1 三段敘事節奏沒儀器化進
+# article-health (DNA #15 第 N 次驗證)。min_images=3 對齊 depth article 理想
+# hero + 1-2 scene-mid，rewrite-stage-4 升 HARD。
 # Legacy heal 路徑：以下 sub-list 累積 audit 後分批 heal commit。
-checks = ["frontmatter-format", "format-structure", "wikilink-target", "link-target", "cjk-punct", "chronicle-lead", "word-count"]
+checks = ["frontmatter-format", "format-structure", "wikilink-target", "link-target", "cjk-punct", "chronicle-lead", "word-count", "image-health"]
 fail_on = "hard"
 
 [profiles."rewrite-stage-4".severity_overrides]
@@ -71,13 +75,29 @@ frontmatter-format = "hard"
 chronicle-lead = "hard"
 word-count = "hard"
 
-[profiles."rewrite-stage-4".check_options.word-count]
+# Options overrides — 2026-05-11 kind-mirzakhani 修正既有 typo:
+# `check_options` → `options_overrides` (per config.py:127 ProfileConfig schema)。
+# 既存 word-count min_chars=4500 跟 plugin DEFAULT_MIN_CHARS 一致所以 typo 沒
+# 顯性暴露，但 image-health 新加的 min_images_severity=hard 必須 reach
+# 才能 promote 預設 WARN → HARD，所以一併修正命名。
+[profiles."rewrite-stage-4".options_overrides.word-count]
 min_chars = 4500
 
+[profiles."rewrite-stage-4".options_overrides.image-health]
+min_images = 3
+min_images_severity = "hard"
+zero_images_severity = "hard"
+
 [profiles."rewrite-stage-4-5"]
-# Stage 4.5 Media.
+# Stage 4.5 Media — 保留 ad-hoc 入口，便於只跑 image-health 單獨檢查
+# (rewrite-stage-4 已含 image-health 跟 count gate)。
 checks = ["image-health"]
 fail_on = "hard"
+
+[profiles."rewrite-stage-4-5".options_overrides.image-health]
+min_images = 3
+min_images_severity = "hard"
+zero_images_severity = "hard"
 
 [profiles.release-pr]
 # 全跑、嚴格 (both HARD and WARN trigger fail). 用於人工 release review。
