@@ -28,16 +28,20 @@ phase = "7-pre-commit-wired"
 
 [profiles.pre-commit]
 # Pre-commit hook gate. HARD violations block; WARN reported but allowed.
-# Matches legacy inline-check severity model so .husky/pre-commit can flip.
-checks = [
-  "cjk-punct",
-  "frontmatter-title",
-  "frontmatter-format",
-  "footnote-format",
-  "wikilink-target",
-  "link-target",
-  "format-structure",
-]
+# 2026-05-11 admiring-cohen: 對齊 ci-deploy profile — 用 `*` 跑全部 13
+# plugins，避免「pre-commit 過、ci-deploy fail」這種 asymmetric ship
+# (root cause of 2026-05-11 CI emergency PR #1025 — 雜誌.md missing
+# featured + MTV包廂.md missing subcategory 兩個檔不在原 pre-commit
+# 7-check list 但在 ci-deploy * 範圍，contributor PR squash merge 不跑
+# pre-commit，maintainer 本地 heal commit 跑 pre-commit 也沒抓到)。
+#
+# 對稱原則：本地 commit 跟 main 自動 CI 該跑同一份 check set，避免
+# false-positive ship。WARN 仍 advisory（不擋），HARD 才擋 commit。
+#
+# 歷史 — pre-commit 原本 7 checks 是 legacy inline-check 對應，Phase
+# 1-10 一次升一個 plugin。現在所有 13 plugins 都穩定，pre-commit 對齊
+# ci-deploy 沒有額外風險（fail_on=hard 不變，只是擴大 scope）。
+checks = "*"
 fail_on = "hard"
 
 [profiles."rewrite-stage-3"]
