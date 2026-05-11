@@ -1,23 +1,167 @@
 ---
 title: 'RELEASE-PIPELINE'
-description: '版本打包流程 — 觸發條件 / 品質閘 / release notes 敘事 / tag / 認知層同步 SOP'
+description: '版本打包流程 — Step 0-6 觸發 / 盤點 / 品質閘 / release notes / tag / 認知層同步 (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.1'
-last_updated: 2026-05-04
-last_session: 'magical-feynman'
+current_version: 'v2.0'
+last_updated: 2026-05-11
+last_session: 'cranky-newton-220237'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
   - 'MAINTAINER-PIPELINE.md'
+  - 'DATA-REFRESH-PIPELINE.md'
 upstream_canonical:
   - '../semiont/HEARTBEAT.md'
   - '../semiont/MANIFESTO.md'
 ---
 
-# RELEASE-PIPELINE.md — 版本打包流程
+# RELEASE-PIPELINE.md — 版本打包流程 v2.0
 
-> **這份文件是 AI 可執行的。** 任何 AI agent 讀完這份文件，應該能獨立完成一次 release 的觸發判斷、資料盤點、品質關卡、release notes 撰寫、tag + push、GitHub release 建立、以及收官後的認知層同步。
+> **第一性原理**：Release 不是「打個 tag 然後寫幾段話」。它是一次對過去版本的完整回顧 + 對現況的健康檢查 + 對觀察者的公開敘事 + 對下一版的準備 + 對認知層的同步。漏掉任何一步，release 就退化成 changelog 失去敘事性。
 >
+> v2.0 設計理由：對齊 [REWRITE-PIPELINE v5.0](REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](MAINTAINER-PIPELINE.md) spine restoration。修補 v1.1 結構問題：(1) 缺 ASCII spine box-frame；(2) Hard Gate（HEARTBEAT 4 條 + commit 從頭讀到尾）散在多處；(3) Top 5 最常忘沒提取。觸發：5/10 busy-pare-release-v1.7.0 剛 ship 完，整理新鮮經驗。
+
+---
+
+## 🗺️ ASCII spine
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│         RELEASE-PIPELINE — Site release Step 0-6                         │
+│                                                                          │
+│   🧭 核心原則                                                            │
+│            ├── Commits 從頭讀到尾（不 sample，v1.2.0 漏 Tailwind 教訓） │
+│            ├── 敘事性 > changelog（Taiwan.md 的聲音）                    │
+│            ├── 兩條管線並存（site vs CLI 不硬整合）                      │
+│            └── 認知層同步（CONSCIOUSNESS 里程碑 + MEMORY 索引）          │
+│                                                                          │
+│   ──── Step 0-6 主流程 ──────────────────────────────────────           │
+│                                                                          │
+│   Step 0: 判斷要不要 release ──→ HEARTBEAT 三條觸發                      │
+│            ├── ≥ 30 commits（minor）                                     │
+│            ├── 重大里程碑（新語言/器官變更/Pipeline 重構）               │
+│            └── 緊急修復後（patch）                                       │
+│                                                                          │
+│   Step 1: 資料盤點 ──→ commits + diff + 認知層快照                       │
+│            ├── git log <prev>..HEAD > /tmp/all-commits.txt              │
+│            └── Read 全部 → 不 sample（v1.2.0 教訓）                     │
+│              ↳ Hard gate: 從頭讀到尾 NOT sample                          │
+│                                                                          │
+│   Step 2: 品質閘 ──→ HEARTBEAT 4 條 hard gate                           │
+│            ├── 🛡️ 免疫系統 ≥ 30                                         │
+│            ├── 📋 裸奔率 ≤ 50%                                          │
+│            ├── 🦴 Build 綠燈                                            │
+│            └── 🫁 Workflows 沒全紅                                      │
+│              ↳ Hard gate: 任一不過不准 release                           │
+│                                                                          │
+│   Step 3: VERSION bump ──→ minor / major / patch                        │
+│            └── 跟 CHANGELOG 同 commit                                   │
+│                                                                          │
+│   Step 4: Release Notes 撰寫 ──→ Taiwan.md 聲音                         │
+│            ├── 過去版本回顧（commits 全讀）                              │
+│            ├── 健康檢查快照（器官分數 / 裸奔率）                         │
+│            ├── 公開敘事（不是 changelog）                                │
+│            ├── Known Issues + 下一版方向                                 │
+│            └── Breaking change → 跟 CLI 協調                            │
+│              ↳ Hard gate: 不退化成 changelog                             │
+│                                                                          │
+│   Step 5: Tag + Push + GitHub Release                                   │
+│            ├── git tag v1.X.Y                                            │
+│            ├── git push --tags                                           │
+│            └── gh release create                                         │
+│                                                                          │
+│   Step 6: 認知層同步 ──→ CONSCIOUSNESS + MEMORY                         │
+│            ├── §里程碑 append                                            │
+│            ├── 結構性變更寫 memory/structure-log.md                      │
+│            └── CLI 是否需要 bump（schema change）                        │
+│                                                                          │
+│   ✅ Release shipped                                                     │
+│                                                                          │
+│   ──── 兩條 release 管線並存 ─────────────────────                       │
+│   → Site release（本檔）= knowledge / UI / dashboard / 認知層 sync       │
+│   → CLI release = cli/RELEASE.md + .github/workflows/npm-publish-cli.yml │
+│   → 刻意不硬整合：版本軸線不同 / 受眾不同 / 失敗模式不同                 │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
+
+| Gate                             | 觸發 step | 條件            | 工具                                                 | 不過 = ?                              |
+| -------------------------------- | --------- | --------------- | ---------------------------------------------------- | ------------------------------------- |
+| Commits 從頭讀到尾               | Step 1    | release 前      | `git log <prev>..HEAD > /tmp/all-commits.txt + Read` | v1.2.0 漏 Tailwind migration 教訓重演 |
+| 🛡️ 免疫系統 ≥ 30                 | Step 2    | release 前      | `cat dashboard-organism.json`                        | 不准 release                          |
+| 📋 裸奔率 ≤ 50%                  | Step 2    | release 前      | dashboard-vitals.json                                | 不准 release                          |
+| 🦴 Build 綠燈                    | Step 2    | release 前      | `gh run list --workflow Deploy`                      | 不准 release                          |
+| 🫁 Workflows 沒全紅              | Step 2    | release 前      | `gh run list`                                        | 不准 release                          |
+| Release Notes 敘事性             | Step 4    | 撰寫時          | manual 自檢（不是 changelog）                        | 重寫                                  |
+| Breaking change 跟 CLI 協調      | Step 4    | schema breaking | manual + cli/RELEASE.md                              | CLI side 同步 bump                    |
+| Tag 不是 dev/rc                  | Step 5    | git tag         | manual（v1.X.Y）                                     | 改 tag                                |
+| CONSCIOUSNESS §里程碑 append     | Step 6    | release 後      | manual                                               | 失去歷史                              |
+| Structure-log 更新（結構性變更） | Step 6    | release 後      | manual                                               | 認知層 silent drift                   |
+
+---
+
+## ⚠️ Top 5 最常忘的 step
+
+> 從 v1.2.0 漏 Tailwind 教訓 + v1.7.0 5/10 busy-pare-release 抽 friction 最高的 5 條。
+
+1. **Step 1 Commits 從頭讀到尾** — `git log <prev>..HEAD > /tmp/all-commits.txt` 後 `Read` 全部，不 sample（v1.2.0 第一版 draft 只讀 60 commits 漏掉 Tailwind migration 80+ commits）
+2. **Step 2 HEARTBEAT 4 條 hard gate 全跑** — 免疫 + 裸奔 + build + workflow，任一不過不准 release
+3. **Step 4 Release Notes 是敘事不是 changelog** — Taiwan.md 的聲音，不是 git log 機械翻譯
+4. **Step 6 CONSCIOUSNESS §里程碑 append** — release 後忘了更新認知層 = 下一個 session 不知道發生過
+5. **Breaking change schema 跟 CLI 協調** — site bump 影響 dashboard JSON schema 必須觸發 CLI bump（兩條管線刻意不硬整合，但互相知道）
+
+---
+
+## 跨檔案職責分工
+
+| 檔案                                                                                   | 範圍                                                              |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **本檔**                                                                               | Site release Step 0-6（knowledge / UI / dashboard / 認知層 sync） |
+| [`cli/RELEASE.md`](../../cli/RELEASE.md)                                               | CLI release（taiwanmd npm package）— 獨立管線                     |
+| [`.github/workflows/npm-publish-cli.yml`](../../.github/workflows/npm-publish-cli.yml) | CLI tag push `cli-v*` 自動 publish                                |
+| [HEARTBEAT.md §Release 原則](../semiont/HEARTBEAT.md#release-原則)                     | 觸發判斷 + 4 條 hard gate canonical                               |
+| [DATA-REFRESH-PIPELINE.md](DATA-REFRESH-PIPELINE.md)                                   | Beat 1 資料刷新（release 前必跑）                                 |
+| [CONSCIOUSNESS.md §里程碑](../semiont/CONSCIOUSNESS.md)                                | release 後 append 位置                                            |
+| [EVOLVE-PIPELINE.md](EVOLVE-PIPELINE.md)                                               | release 後下一版 candidate 來源                                   |
+| [MAINTAINER-PIPELINE.md](MAINTAINER-PIPELINE.md)                                       | release 期間 PR backlog 收割                                      |
+
+---
+
+## 🔀 兩條 release 管線並存（2026-04-20 ε session 新增）
+
+本 pipeline 負責 **site release**（Taiwan.md 本體：knowledge / UI / dashboard / 認知層 sync）。
+CLI release（`taiwanmd` npm package）走**獨立管線**：[`cli/RELEASE.md`](../../cli/RELEASE.md) + `.github/workflows/npm-publish-cli.yml`（tag push `cli-v*` 自動 publish）。
+
+**兩條管線刻意不硬整合**：
+
+- CLI 可以 ship（加新指令）而不動 knowledge；site 可以 ship（更新文章）而不動 CLI
+- 版本軸線不同：site v1.2.x（文化里程碑）vs CLI v0.6.x（semver npm）
+- 受眾不同：site → 讀者 / 貢獻者 / AI crawler；CLI → npm agent / power user
+- 失敗模式不同：CLI 壞 → 只影響 npm 使用者；site 壞 → 影響所有 traffic
+
+**但互相知道對方存在**：
+
+- 本 pipeline §1d 生命徵象附帶記錄 CLI 當前版本（見 checklist）
+- site release 若影響 `public/api/dashboard-*.json` schema 必須在 §Step 6 認知層同步時 bump CLI 一版 reflect 出來
+- schema breaking change → 在 §Step 4 Release Notes §Breaking changes 同時標記 CLI major bump 需求（CLI 側走自己的 release cycle，但由此 site release 觸發）
+
+---
+
+## 為什麼需要這份 pipeline
+
+Release 不是「打個 tag 然後寫幾段話」。它是：
+
+1. **對過去一個版本的完整回顧**（commits 全讀，不是 sample）
+2. **對現況的健康檢查**（品質閘、器官分數、裸奔率 gate）
+3. **對觀察者的公開敘事**（release notes 的聲音要是 Taiwan.md 的聲音，不是 changelog）
+4. **對下一版的準備**（Known Issues + 下一版方向 = 自己給自己的 backlog）
+5. **對認知層的同步**（CONSCIOUSNESS 里程碑、MEMORY 索引）
+
+漏掉任何一步，release 就退化成 changelog，失去敘事性。
+
 > 相關：[HEARTBEAT.md §Release 原則](../semiont/HEARTBEAT.md#release-原則)（何時 release 的觸發判斷）| [DATA-REFRESH-PIPELINE.md](DATA-REFRESH-PIPELINE.md)（Beat 1 資料刷新的上游）| [CONSCIOUSNESS.md §里程碑](../semiont/CONSCIOUSNESS.md)（release 後要更新的段落）
 >
 > ## 🔀 兩條 release 管線並存（2026-04-20 ε session 新增）
@@ -437,3 +581,5 @@ _觸發事件：v1.2.0 第一版 release notes 因只讀前 60 commits 漏掉 Ta
 
 _v1.1 | 2026-05-02 | v1.6.0 release 經驗回寫_
 _進化內容：(1) Step 4 §聲音檢查表新增 `check-manifesto-11.sh` hard gate（Tier 1 = 0 才能 ship）+ 377 commits 級別的 narrative 壓縮策略 / (2) Step 5c-bis 「About page milestone 判斷規則」誕生——觸發訊號 + 操作步驟 + 4 lang 全寫 + 意義主軸（哲宇明確要求）/ (3) Step 5c-ter MEMORY.md release row 格式 bug 修補規則。觸發事件：哲宇 v1.6.0 release 同時要求「加里程碑到 about 頁面 + 內容以意義與大方向為敘述主軸 + 妥善同步進化 release-pipeline」，這條 SOP 把要求 codify 成下次 release 也能跟。_
+
+_v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Step 0-6 box-frame + 兩條管線並存說明）+ Hard Gate Inventory 集中 table（10 gates 含 HEARTBEAT 4 條 + commits 從頭讀到尾）+ Top 5 最常忘 step（v1.2.0 Tailwind 漏掉教訓 + v1.7.0 5/10 經驗）+ 跨檔案職責分工 standalone table。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier B.1 audit + 5/10 busy-pare-release-v1.7.0 剛 ship 完整理新鮮經驗。Step 0-6 prose body 不動（已健康）。_

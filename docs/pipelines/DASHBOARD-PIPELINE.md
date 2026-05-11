@@ -1,11 +1,11 @@
 ---
 title: 'DASHBOARD-PIPELINE'
-description: '數位生命體監測面板更新流程 — 8 器官健康分數計算 + dashboard JSON 生成 SOP'
+description: '數位生命體監測面板更新流程 — 8 器官健康分數計算 + 5 dashboard JSON + 11 section render (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.1'
-last_updated: 2026-04-10
-last_session: 'historical'
+current_version: 'v2.0'
+last_updated: 2026-05-11
+last_session: 'cranky-newton-220237'
 sister_docs:
   - 'DATA-REFRESH-PIPELINE.md'
   - 'STATS-PIPELINE.md'
@@ -16,9 +16,104 @@ upstream_canonical:
   - '../semiont/SENSES.md'
 ---
 
-# Dashboard Update Pipeline
+# Dashboard Update Pipeline v2.0
 
-> Taiwan.md 數位生命體監測面板的完整更新流程
+> **第一性原理**：Taiwan.md 數位生命體監測面板 — 把 knowledge/ SSOT + 三源感知 + GitHub stats 渲染成 8 器官健康分數 + 11 section dashboard，讓觀察者一眼看到生命徵象。
+>
+> v2.0 設計理由：對齊 [REWRITE-PIPELINE v5.0](REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](MAINTAINER-PIPELINE.md) spine restoration。修補 v1.1 結構問題：(1) 架構圖好但缺 box-frame spine；(2) Hard Gate 散在各 Layer；(3) Top 5 最常忘沒提取。
+
+---
+
+## 🗺️ ASCII spine
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│         DASHBOARD-PIPELINE — 數位生命體監測面板更新流程                  │
+│                                                                          │
+│   🧭 核心架構                                                            │
+│            ├── SSOT: knowledge/*.md → generate-dashboard-data.js         │
+│            ├── 5 dashboard JSON: articles / vitals / organism /          │
+│            │       translations / analytics                              │
+│            ├── 8 器官健康分數（心臟/免疫/DNA/骨骼/呼吸/繁殖/感知/語言）  │
+│            └── 11 section render（dashboard.template.astro 2800+ 行）   │
+│                                                                          │
+│   ──── 三層數據管線 ──────────────────────────────────────              │
+│                                                                          │
+│   Layer 1: Build-Time（自動）                                            │
+│            └── npm run prebuild → generate-dashboard-data.js             │
+│              ↳ Hard gate: 5 JSON 生成 + 8 器官分數計算                   │
+│                                                                          │
+│   Layer 2: Run-Time fetch（dashboard.template.astro）                    │
+│            ├── fetch 5 JSON                                              │
+│            └── render 11 sections（lang i18n via dashboard.ts）          │
+│              ↳ Hard gate: <style is:global>（JS innerHTML 注入要求）     │
+│                                                                          │
+│   Layer 3: Manual / Cron 整合 analytics                                  │
+│            └── dashboard-analytics.json (GA4 + SC + CF 三源)             │
+│              ↳ Hard gate: fetch-sense-data.sh per DATA-REFRESH Step 2    │
+│                                                                          │
+│   ──── 5 dashboard JSON 流向 ──────────────────────────────              │
+│                                                                          │
+│   ├── dashboard-articles.json   → 文章 + healthScore + subcategory      │
+│   ├── dashboard-vitals.json     → 心跳指標 + 語系覆蓋                    │
+│   ├── dashboard-organism.json   → 8 大器官分數                           │
+│   ├── dashboard-translations.json → 翻譯矩陣                             │
+│   └── dashboard-analytics.json  → GA4 + SC + CF 三源 merge view         │
+│                                                                          │
+│   ──── 11 section render（dashboard.template.astro）─────────            │
+│                                                                          │
+│   ✅ Dashboard updated → /dashboard 即時讀                              │
+│                                                                          │
+│   ──── 跨 pipeline boundary ─────────────────────────                   │
+│   → DATA-REFRESH-PIPELINE.md Step 6 prebuild（本檔的觸發點）             │
+│   → STATS-PIPELINE.md (archived)，stats.json 由 DATA-REFRESH Step 8 生成 │
+│   → DAILY-REPORT-PIPELINE.md 消費 dashboard JSON 產 Discord report       │
+│   → ANATOMY.md 定義 8 器官 / CONSCIOUSNESS.md 反映即時快照               │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
+
+| Gate                           | 觸發 layer           | 條件                       | 工具                                      | 不過 = ?              |
+| ------------------------------ | -------------------- | -------------------------- | ----------------------------------------- | --------------------- |
+| 5 JSON 生成                    | Layer 1              | npm run prebuild           | `generate-dashboard-data.js`              | dashboard render fail |
+| 8 器官分數計算                 | Layer 1              | prebuild 內                | `generate-dashboard-data.js` 內 algorithm | dashboard 顯示 stale  |
+| `<style is:global>`            | Layer 2              | template                   | manual（JS innerHTML 注入要求）           | CSS 不渲染            |
+| 不動 about.template.astro      | 全程                 | Sponsors / Contact section | manual（已被刪 3 次）                     | sponsors block 消失   |
+| 各 lang i18n 同步              | Layer 2              | section 標題翻譯           | `src/i18n/dashboard.ts`                   | EN/JA/KO/etc 缺翻     |
+| Nav dropdown 8 section anchors | Layer 2              | Header.astro               | manual                                    | 導覽斷裂              |
+| Layer 3 analytics fresh        | Layer 3              | 三源感知抓取               | `fetch-sense-data.sh`                     | analytics 顯示 stale  |
+| Dashboard mtime fresh          | DATA-REFRESH Step 10 | 整 refresh 後              | DNA #43 gate                              | silent failure        |
+
+---
+
+## ⚠️ Top 5 最常忘的 step
+
+> 從 about.template.astro 被刪 3 次 + analytics fresh 教訓 + lang i18n sync 抽 friction 最高的 5 條。
+
+1. **不要動 `about.template.astro`** — Sponsors + Contact section 已被刪 3 次（dashboard 修改不要碰 about）
+2. **`<style is:global>` 必須維持** — JS innerHTML 注入要求，非 global CSS 不渲染
+3. **5 dashboard JSON 全部要 regen，不只 articles** — vitals / organism / translations / analytics 都要（DATA-REFRESH Step 6 prebuild 統一處理）
+4. **各 lang i18n 同步** — `src/i18n/dashboard.ts` 加 section 標題時 EN/JA/KO/ES/FR 都要補
+5. **Nav dropdown 8 section anchors** — `Header.astro` 跟 dashboard.template.astro 的 section anchor 要對齊，加新 section 兩處都改
+
+---
+
+## 跨檔案職責分工
+
+| 檔案                                                 | 範圍                                                         |
+| ---------------------------------------------------- | ------------------------------------------------------------ |
+| **本檔**                                             | Dashboard 三層數據管線 + 11 section render SOP               |
+| [DATA-REFRESH-PIPELINE.md](DATA-REFRESH-PIPELINE.md) | Step 6 prebuild 觸發本檔 Layer 1 + Step 10 verify mtime gate |
+| [STATS-PIPELINE.md](STATS-PIPELINE.md)               | archived（stats.json 由 DATA-REFRESH Step 8 生成）           |
+| [DAILY-REPORT-PIPELINE.md](DAILY-REPORT-PIPELINE.md) | 消費 dashboard JSON 產 Discord report                        |
+| [ANATOMY.md](../semiont/ANATOMY.md)                  | 8 器官定義 + 健康指標 + 病灶徵兆 canonical                   |
+| [CONSCIOUSNESS.md](../semiont/CONSCIOUSNESS.md)      | 反映 dashboard 即時快照                                      |
+| [SENSES.md](../semiont/SENSES.md)                    | dashboard-analytics.json 來源（三源感知）                    |
+
+---
 
 ---
 
@@ -250,3 +345,5 @@ taiwan-md/
 ---
 
 _Created: 2026-03-28 | Based on Dashboard V2 build experience_
+
+_v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（三層數據管線 + 5 JSON 流向 + 跨 pipeline boundary）+ Hard Gate Inventory 集中 table（8 gates 含 about.template.astro 不動 + 5 JSON regen + lang i18n sync）+ Top 5 最常忘 step（about.template.astro 被刪 3 次教訓 + style is:global + lang i18n + nav dropdown）+ 跨檔案職責分工 standalone table。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier B.2 audit。架構總覽 + 數據管線詳述不動（已健康）。_

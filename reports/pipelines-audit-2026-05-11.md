@@ -89,10 +89,10 @@ related:
 
 ### Tier B — 第二輪 audit（次要，看第一輪 budget）
 
-| Pipeline               | 行數 | 待整理理由                     | 狀態      |
-| ---------------------- | ---- | ------------------------------ | --------- |
-| **RELEASE-PIPELINE**   | 439  | v1.7.0 剛 ship 經驗可寫進 SOP  | ⏳ 待處理 |
-| **DASHBOARD-PIPELINE** | 252  | 跟 explore page Phase 規劃對齊 | ⏳ 待處理 |
+| Pipeline               | 行數 | 待整理理由                     | 狀態         |
+| ---------------------- | ---- | ------------------------------ | ------------ |
+| **RELEASE-PIPELINE**   | 439  | v1.7.0 剛 ship 經驗可寫進 SOP  | ✅ v2.0 ship |
+| **DASHBOARD-PIPELINE** | 252  | 跟 explore page Phase 規劃對齊 | ✅ v2.0 ship |
 
 ### Tier C — 候選降級 / 合併（懷疑重複，需 verify）
 
