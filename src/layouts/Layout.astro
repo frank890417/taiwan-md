@@ -142,6 +142,29 @@ const jfClass = [
       slug={slug}
       categorySlug={propCategorySlug}
     />
+    <!-- FOUC fix: hide <html> until fonts loaded (2026-05-11 picked up from
+         tboydar-agent PR #1012 / fixes #401). Combined with shot-mode +
+         reader-settings init below for complete pre-paint FOUC prevention. -->
+    <style>
+      html {
+        visibility: hidden;
+      }
+      html.fonts-loaded {
+        visibility: visible;
+      }
+    </style>
+    <script is:inline>
+      (function () {
+        if (document.fonts) {
+          document.fonts.ready.then(function () {
+            document.documentElement.classList.add('fonts-loaded');
+          });
+        } else {
+          // fallback for older browsers
+          document.documentElement.classList.add('fonts-loaded');
+        }
+      })();
+    </script>
     <!-- Pre-paint inline scripts: shot-mode + reader-settings FOUC init.
          2026-05-03 sleepy-colden Tier 2.6: 抽到 src/components/HeadInlineScripts.astro
          讓 Layout 主結構乾淨。原本 ~150 行 inline 邏輯都在這裡。 -->
