@@ -59,6 +59,25 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 國立臺灣歷史博物館 NEW — 2026-05-11 kind-mirzakhani 觀察者指派（深度研究 / Society / NMTH × 臺灣島史觀）
+
+哲宇 directive「`/twmd-rewrite 國立臺灣歷史博物館`」+ Stage 1.10 一手素材 framing：「以臺灣島史觀出發，也是國家級的臺灣歷史策展。我相信在 AI 時代社群驅動開源知識庫的潛力，當與一座國家級博物館，各自從不同角度看同一座島嶼相遇時，就能建構更立體臺灣島史觀的集體記憶。」Fresh 模式（既有 Taiwan.md 9 篇引用 NMTH 但無主檔）。Stage 1 Research agent 跑 43 次（27 WebSearch + 16 WebFetch），落檔 651 行研究筆記。
+
+- **Article**: [knowledge/Society/國立臺灣歷史博物館.md](../../knowledge/Society/國立臺灣歷史博物館.md)
+- **Pipeline**: REWRITE-PIPELINE v5.0 — Fresh 模式（首篇 Fresh 走 v5.0 spine restoration 8 H2 結構）
+- **核心矛盾**：「國家級策展 × 社群共筆，兩種臺灣島史觀在 NMTH 相遇」（21 字）— NMTH 第七、八展區「大家的博物館」+「你也是寫歷史的人」+ 館長張隆志親口「全民共筆共創」+ 政府資料開放授權條款 1.0 版（CC BY 4.0 等效）= 國家級三級機構在制度層 / 法律層 / 策展論述層全部認證社群共筆策展機制，Taiwan.md 跟 NMTH 是同一條臺灣島史觀軌道上的兩個 instantiation
+- **Hook**：第八展區「你也是寫歷史的人」（NMTH 常設展最後一格）+ 第七展區「大家的博物館」常設展論述
+- **品質**：8 H2 / 27 footnote / 5632 CJK chars / 破折號 ≤ 5（含展名「斯土斯民——臺灣的故事」必保留）/ 對位句型 1（L68 NMTH 策展論述 verbatim 引號內必保留）/ prose-health score 3 PASS / article-health rewrite-stage-4 profile hard=0 warn=0 ALL GREEN
+- **Research**: [reports/research/2026-05/國立臺灣歷史博物館.md](../../reports/research/2026-05/國立臺灣歷史博物館.md) — 651 行筆記，14 維度 high_confidence facts、4 個 single_source flags、3 個 unverified flags、4 個核心矛盾候選、3 個開場 + 3 個結尾 anchor 候選、媒體授權矩陣三表
+- **媒體插入**（1 件）：
+  1. **hero** `nmth-main-building-2011.jpg` — Wikimedia Commons 主館外觀 840×459 aspect 1.83 by Fcuk1203 CC BY-SA 3.0
+- **大事實**：2011-10-29 開館（4 源 verify，從 1998 籌備處到 2011 開館 13 年）/ 14-15 萬件館藏 / 國家文化記憶庫 200+ 萬筆（NMTH 2021 起承接運營）/ Open Data 授權「政府資料開放授權條款 1.0 版」一手 verbatim / 2021-04-01 張隆志接任第五任 / 2021-10-17 升格三級機構 / 2024 跨1624 與 Rekihaku 合辦 / 雲牆逾千片太陽能板年發電 17 萬度
+- **verbatim 引語**：張隆志「全民共筆共創，活化歷史記憶的行動平台」（2025-03 數味食光）+「你要先是一個有趣的人，然後再是一個歷史學家」（故事 StoryStudio）+「公共歷史學一個很重要的核心觀念就是共構、協作」+ 常設展第八展區「歷史是一段歷程、一份感受；是不同的人們，站在自己的位置」+ 第七展區「『未來』由各形各色的『我們』拼貼而成」+ 開放資料 Open Data 頁「不限用途、不用付費，可直接下載使用」+「反共復國基地」展區「威權體制」「一黨獨大、以黨領政」+「走近二二八」展區「埋下日後遭到整肅的暗流」
+- **Stage 3.3 FACTCHECK Quick Mode**：footnote URL audit 揭露 [^4] 文化部新聞稿 + [^17] 文化平權頁 404，已換為 NMTH 官網現任館長頁 + 文化部博物館友善措施服務介紹網（替換 stable URL）；「挑戰者們：解嚴 30 週年特展」原誤寫「NMTH 協辦」修正為「NMTH 主辦」+ 加準確展期「2017-11-28 至 2018-06-24」+ 加 [^26] verify source URL
+- **哲宇 framing 補進文章**：Research agent 沒搜到的「臺灣史新手村」+「55 萬筆」— 經 main session sibling cross-link 揭露 NMTH 自己的子站 `ilhaformosa.nmth.gov.tw` = 「臺灣史新手村」（既有 Taiwan.md 〈荷西明鄭時期〉等多條已引用作一手史料），補進文章 §四 開放資料庫 + [^27] footnote
+- **Cross-link**：5 條 forward 延伸閱讀（台灣島史觀 / 三個外國人看乙未 / 19世紀的樟腦戰爭 / 荷西明鄭時期 / 福爾摩沙）+ 5 條 reverse 同 PR 補完（5 sibling format-check 全 PASS）
+- **未來預期 cross-link**：吳密察（首任館長 → 故宮院長）/ 張隆志（現任館長 + 公共歷史學者）/ 曹永和（臺灣島史觀提出者）/ 平埔族群（NMTH《看見平埔》專刊母題）
+
 ### 台灣企業：台積電 EVOLVE — 2026-05-09 laughing-goldstine 全文重寫（深度研究 / Economy / 護國神山）
 
 哲宇 directive「/twmd-rewrite 深度研究 重寫『台灣企業：台積電』，完整遵循 pipeline」。同 PR ship REWRITE-PIPELINE v2.21 §1.7b 更新（理想 2-3 圖，企業官網/fair use editorial scope 入正式來源）。EVOLVE 從 134 行 → 289 行，5 場景架構保留，3 段新場景補齊（1985 年 14 天提案 / 2009 年 10 分鐘樓下豆漿 / 鄭家祖墳 178 年），結尾 Mode D 敘事閉環+翻轉「56 歲那個人，已經沒在這個房間了」。
