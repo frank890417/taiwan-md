@@ -1855,6 +1855,30 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 - **相關**：DNA #52「broken-link immune fail-loud」+ #15「反覆浮現要儀器化」（這條教訓本身就是 #15 的 instantiation — fail signal 從「reactive 個別 cycle 記錄」儀器化為「跨日連續 N 次 → 升 escalation」）
 - **severity**: backlog（i18n heal session 是 L 量級 task，不在 routine 範圍）
 
+### 2026-05-11 twmd-rewrite-daily — Wikimedia thumb URL 不能直連，必須走 File: page 取 Original URL
+
+- **原則**：`upload.wikimedia.org/wikipedia/commons/thumb/[a]/[b]/Filename.ext/1600px-Filename.ext` 樣 thumb URL 直接 curl 會返 HTML 錯誤頁（thumb endpoint 需 Referer/Cookie）；`Special:FilePath?width=N` 同樣失敗。**正確 path**：WebFetch File: page → 取「Original file URL」（`upload.wikimedia.org/wikipedia/commons/[a]/[b]/Filename.ext` 不含 thumb / 不含 size suffix）→ curl 該 URL。
+- **觸發**：2026-05-11 twmd-rewrite-daily routine 跑台灣鐵道史 EVOLVE 時，Stage 4 image-health hard gate 需 fetch 3 張 CC PD 圖。第一輪 thumb URL 失敗 → Special:FilePath 失敗 → 最終 WebFetch File: page 取 upload.wikimedia.org 完整 path 才成功。整個 image fetch 浪費 ~6 min wall-clock（佔 75 min 總時間的 8%）。
+- **可能層級**：操作規則（REWRITE-PIPELINE Step 1.14.2 §授權檢查 SOP）+ 工具升級（造 `scripts/tools/wikimedia-fetch.sh` helper：input = File:Name + dest path，output = 直接 curl 成功 + license metadata 一併 emit）
+- **相關**：DNA #15「反覆浮現要儀器化」+ MANIFESTO §造橋鋪路（routine 場景特別需要 helper script — 每次都浪費 6 min 是 indexed 浪費）
+- **severity**: tactical（單條 SOP 細化 + 一個小工具升級，verification_count 1，等下次 image fetch 場景驗證）
+
+### 2026-05-11 twmd-rewrite-daily — Routine 60-min boundary vs depth-article hard gate 結構矛盾
+
+- **原則**：當前 routine boundary 60 min wall-clock vs depth article hard gate（word-count ≥ 4500 + image-health ≥ 3 + Stage 1 ≥ 20 WebSearch）vs ARTICLE-INBOX P0 NEW 估時 90-150 min — 三條約束無法同時對齊。任何 P0 NEW 都 over budget，只有 P1 + EVOLVE focused section 才能勉強 fit 60 min。
+- **觸發**：2026-05-11 twmd-rewrite-daily routine 跑台灣鐵道史 P1 EVOLVE focused section addition（最 routine-friendly 的 scope），仍 ~75 min wall-clock（over budget 25%）。前一日 routine (#1003 醫療法 NEW) 觸發 #1004 heal 補 Stage 4/5 漏跑 — 結構性 partial PR pattern。
+- **可能層級**：操作規則（ROUTINE.md §TWMD rewrite (daily) 預估改 75-90 min + 標「EVOLVE preferred over NEW for routine slot」）+ ARTICLE-INBOX schema（新增 `routine-friendly: true` flag 標 60-90 min budget 內可完成的 entries，cron 優先挑這類）+ pipeline canonical（REWRITE-PIPELINE §Cron 模式可加「routine 走 EVOLVE focused section / 短 NEW，P0 大型 NEW 留給 observer-triggered session」）
+- **相關**：DNA #33「Routine 化任務的雙刃劍：熟練度」+ DNA #50「pipeline auto-detection」+ MANIFESTO §造橋鋪路（boundary mismatch 反覆出現要儀器化）
+- **severity**: structural（影響多條 routine 設計，verification_count 1 但 pattern 已第二次出現 — twmd-rewrite-daily 連 2 day over budget 或 partial PR）
+
+### 2026-05-11 twmd-rewrite-daily — ARTICLE-INBOX entry 與既有文章重疊偵測應前置到 Stage 0
+
+- **原則**：選文後才發現主題已被既有文章 covered 是 5-10 min 浪費。重複偵測（REWRITE-PIPELINE Step 1.8）目前在 Stage 1 內，應前置到「**選文前 first action**」— inbox entry 從 ARTICLE-INBOX 拿出來時就跑 `ls knowledge/{Cat}/ | grep {keyword}` + `grep -rn {keyword} knowledge/{Cat}/`，把 overlap 揭露在選擇前而非選擇後。
+- **觸發**：2026-05-11 twmd-rewrite-daily 第一輪 pick Blue UAS Cleared List 台灣廠商（P0），Stage 0 才發現 `knowledge/Technology/台灣無人機產業.md` title 就含「藍色清單」，內文 11+ 個 Blue UAS 相關 footnote 已 covered。Inbox entry 應該已 retire 到 DONE-LOG。
+- **可能層級**：操作規則（REWRITE-PIPELINE Step 0 加「pre-select baseline grep」first action）+ inbox 寫入 SOP（任何 entry append 時自動帶一行 baseline audit grep 結果作為 metadata，例：`baseline_grep: "ls knowledge/Technology/ | grep 無人機 → 台灣無人機產業.md exists, 11 Blue UAS footnotes"`）
+- **相關**：DNA #16「跨源驗證」（同款邏輯延伸：source verification 也包含「既有文章本身就是 source」）+ MANIFESTO §造橋鋪路
+- **severity**: tactical（單條 SOP 細化 + inbox schema 微調，verification_count 1）
+
 ---
 
 ## ❌ 已歸檔（過時 / 撤回）
