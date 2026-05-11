@@ -16,7 +16,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 created: 2026-03-23
 readingTime: 12
 translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: '3e53281a'
+sourceCommitSha: '8751f0e4'
 sourceContentHash: 'sha256:355edf5d838e3009'
 sourceBodyHash: 'sha256:84b4858bc19ac1b0'
 translatedAt: '2026-05-10T18:00:00Z'

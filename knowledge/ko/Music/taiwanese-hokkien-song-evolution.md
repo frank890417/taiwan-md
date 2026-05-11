@@ -21,7 +21,7 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: '3e53281a'
+sourceCommitSha: '8751f0e4'
 sourceContentHash: 'sha256:a97c2de5935f84d1'
 sourceBodyHash: 'sha256:29498f1ec67dd86e'
 translatedAt: '2026-05-10T12:00:00Z'

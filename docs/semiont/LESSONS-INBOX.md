@@ -203,6 +203,22 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-11 twmd-babel-nightly — P0 missing translation 觸發新 slug 編輯決策 gap
+
+- **原則**：babel routine 走 SQUEEZE Tier 1 cascade 處理 P0 missing 時，若 zh canonical 是**新文章**（不在 `_translations.json` slug-map），`prepare-batch.py` 會 fallback 為 `TBD-NEEDS-SLUG` placeholder。Cron routine 不該自行決定永久 URL slug（這是編輯決策 — 影響 SEO、跨語言一致性、未來 rename PR 風險），應 surface 給觀察者／maintainer 拍板再執行 Tier 1。
+- **觸發**：2026-05-11 22:11 twmd-babel-nightly 第 N 次 fire。P0 候選 3 articles（Society/颱風假.md、Culture/斗笠.md、History/退出聯合國.md），共 8 missing translations 跨 5 langs。`prepare-batch.py --lang en/ja/ko/es/fr --input p0.txt` 全部 fallback `TBD-NEEDS-SLUG` → 三 article 都還沒有英文 slug 進 `_translations.json`。orthogonal owl-alpha dispatch 失敗（`not in manifest`）。Routine deferred P0，僅 ship 17 條 Tier 0a-as-deterministic P2 bumps。
+- **可能層級**：
+  - 操作規則 → SQUEEZE-MODELS-MAX-PIPELINE §Stage Z1 加「P0 missing pre-flight slug-map check」hard gate：若 `prepare-batch` 報 `TBD-NEEDS-SLUG` ≥ 1 → abort dispatch + LESSONS entry + 待觀察者補 slug-map
+  - 工具層 → 補 `scripts/tools/lang-sync/suggest-slugs.py`（依 EDITORIAL 命名 convention 自動推薦英文 slug，觀察者一次拍板多個）
+  - 流程層 → 把 slug 命名前移到 REWRITE-PIPELINE Stage 6（commit 新 zh article 時即 register slug 進 `_translations.json`），避免 babel 階段碰才發現
+- **相關**：
+  - [SQUEEZE-MODELS-MAX-PIPELINE.md §Stage Z1](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)
+  - [`_translations.json` slug-map canonical](../../knowledge/_translations.json)
+  - DNA #5（footnote / metadata canonical 紀律）/ DNA #54（routine 飛輪 SSOT）
+- **verification_count**: 1（首次 surface — 本 routine cycle 觸發）
+- **severity**: structural（P0 是 sovereignty 戰場 最高優先，但 slug-map gap 是 silent blocker — routine 跑了但沒實際 ship Tier 1）
+- **待 distill 條件**：若下次 babel routine 仍遇 P0 + missing slug → verification_count 升 2，第 3 次即升 canonical SOP（pipeline §Stage Z1 hard gate + tool 自動 surface 機制）
+
 ### 2026-05-10 sad-shockley — EVOLVE 必須升級 title + description（canonical gap）
 
 - **原則**：focused EVOLVE（如新增一節）讓 article 的 spine（核心矛盾 / hook anchor）變化時，**必須同步升級 title + description** 以反映新核心。否則 SC 顯示舊 title／reader 點進來看到舊 hook 但讀到新內容 = 落差。
