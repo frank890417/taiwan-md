@@ -283,23 +283,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: SC 7d top opportunity / DIU Blue UAS Cleared List 官方 / 國防部新聞稿
 - **預估時間**：90 min（NEW Technology with multi-source 一手研究）
 
-### 台灣鐵道史 — 日治時期外國工程師：「沃夫」「火車仔」與 TRA 暱稱史 NEW
-
-- **Type**: `NEW`
-- **Category**: History
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Source**: SC 7d data scan（2026-05-08 elegant-ptolemy /twmd-evolve）— `taiwan railways administration nickname foreign engineers` 345 impressions / position 7.6 / 0 clicks，本週 SC opportunities top 第 3 名
-- **Amplification update（2026-05-10 twmd-news-lens-weekly）**：本週 SC 7d 同 query 升至 **480 imp / position 7.78 / 0 clicks（+39% impressions WoW）**。英文長尾持續放大 = 西方鐵道史研究社群可能正在發酵某次 surfacing 事件（值得追查 reddit r/trains / Hacker News / 鐵道部落格 是否有近期討論）
-- **Notes**:
-  - 利基歷史題材的清晰需求 — 345 曝光集中在英文搜尋者（推測為西方鐵道史研究者 / 軌道交通愛好者）對「TRA 外籍工程師暱稱」的具體查詢
-  - 主題 anchors：(a) 1895 後日本鐵道工程師接手清領鐵路（劉銘傳建設）的時代背景 (b) 戰後 1945-1949 美援時期外籍鐵道顧問與台鐵互動 (c) 軌道機車型號與暱稱（CT250「貴婦」/ DT650「大車」/ R20「大同號」/ E300「黑頭仔」等本地暱稱）(d) 是否有「沃夫」這個外籍工程師對應的具體歷史人物
-  - 必驗事實：每個暱稱的本土起源 + 所對應外籍人物身份。優先驗 Wikipedia + 台鐵官方 + 鐵道文化志工社群（火車有夢）
-  - 既有相關文章：[knowledge/Geography/台灣鐵路.md](../../knowledge/Geography/台灣鐵路.md)（如存在）、[台灣交通系統.md](../../knowledge/Lifestyle/台灣交通系統.md) — 先確認既有覆蓋度
-  - cross-link：[台灣交通系統](/lifestyle/台灣交通系統)、[日治時期](/history/) 等
-- **Reference**: SC 7d opportunity / 台鐵局百年史 / 鐵道愛好者社群 wiki
-- **預估時間**：60-90 min（History deep research）
-
 ### 台灣經典街頭小吃系列 NEW（6 篇候選）
 
 - **Type**: `NEW` × N（系列 umbrella，每篇獨立 ship）

@@ -59,6 +59,28 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 台灣鐵道史 EVOLVE — 2026-05-11 nervous-banzai-125050 twmd-rewrite-daily routine（外籍工程師譜系 + 黑頭仔命名譜系 focused section addition / History / 鐵道）
+
+- **Article**: [knowledge/History/台灣鐵道史.md](../../knowledge/History/台灣鐵道史.md)
+- **Pipeline**: REWRITE-PIPELINE v5.0 — EVOLVE 模式（focused section addition，補 word-count gate 3155 → 5329 + 補 image-health 0 → 3）
+- **觸發**：
+  - 內部：article-health.py warn=1 word-count 3155 < 4500 depth threshold（缺 1345 字 / 30%）
+  - 外部：SC 7d query `taiwan railways administration nickname foreign engineers` 345→480 imp +39% WoW, position 7.78（英文長尾持續放大）
+- **新增章節**：
+  - §外國名字怎麼掉漆的（劉銘傳鐵路德英外籍班底 + 長谷川謹介 / 河合鈰太郎 / 進藤熊之助 / 新元鹿之助 日治譜系）
+  - §黑頭仔與命名譜系（CK101 / CT250 / DT650 編號系統 + 莒光 / 自強 / 復興 命名典故 + 普悠瑪 / 太魯閣 後戒嚴時代命名轉折）
+- **新增腳註**：13 條 `[^f1]-[^f13]`（Nippon.com / 國史館論文 / Wikidata / 維基百科多源）
+- **新增媒體**：3 張 CC 授權圖片（hero: TRA Taitung Line fireman 1970s CC BY 4.0 / inline 1: Changhua Roundhouse 蒸汽機車群 2009 CC BY 2.0 / inline 2: DT668 海線 2021 CC BY-SA 2.0）
+- **Frontmatter spine sync**：
+  - title `台灣鐵道史` → `台灣鐵道史：肺病鐵道、黑頭仔，以及那條失去外國名字的譜系`
+  - description 補進新核心矛盾（外國名字一路掉漆 + 命名譜系從政治口號到原住民地名）
+  - 新增 `researchReport: 'reports/research/2026-05/taiwan-railway-foreign-engineers.md'`
+- **Stage 4 gate**：rewrite-stage-4 profile hard=0 warn=0 全綠 ✅；word-count 5329 (118% of 4500)；image-health 3 張全合規
+- **Research report**：[reports/research/2026-05/taiwan-railway-foreign-engineers.md](../../reports/research/2026-05/taiwan-railway-foreign-engineers.md) — 9 WebSearch, 中英日 source 全 cross-check
+- **未證實項目（不寫進文章）**：SC 查詢提到的「沃夫」外籍工程師暱稱 + 阿里山「美國工程師」線索 — 9 次搜尋未找到具體對應，按 MANIFESTO §10 幻覺鐵律降級為空白，不掰
+- **核心矛盾**（30 字內）：技術接力的譜系斷裂 — 每一代都把上一代的紀錄推到注腳，台鐵的譜系成了一條失去外國名字的單線
+- **觀察**：routine 60 min boundary tight — wall-clock ~75 min（image fetch 多輪 redirect 影響），但完整跑完 Stage 1-5 不留 partial。LESSONS-INBOX 候選：「Wikimedia thumb URL 直連會回 HTML 錯誤頁；必須走 Special:FilePath 或 WebFetch 抓 upload.wikimedia.org 完整 URL 才能 curl」
+
 ### 國立臺灣歷史博物館 NEW — 2026-05-11 kind-mirzakhani 觀察者指派（深度研究 / Society / NMTH × 臺灣島史觀）
 
 哲宇 directive「`/twmd-rewrite 國立臺灣歷史博物館`」+ Stage 1.10 一手素材 framing：「以臺灣島史觀出發，也是國家級的臺灣歷史策展。我相信在 AI 時代社群驅動開源知識庫的潛力，當與一座國家級博物館，各自從不同角度看同一座島嶼相遇時，就能建構更立體臺灣島史觀的集體記憶。」Fresh 模式（既有 Taiwan.md 9 篇引用 NMTH 但無主檔）。Stage 1 Research agent 跑 43 次（27 WebSearch + 16 WebFetch），落檔 651 行研究筆記。
