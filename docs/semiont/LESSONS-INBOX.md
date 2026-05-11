@@ -1839,6 +1839,22 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 - **verification_count**: N+1（DNA #38 已多次驗證；本條是 babel domain 內第 1 次但 cross-domain 第 N+1 次）
 - **severity**: tactical（修補了 prepare-batch；但 over-narrow guard pattern 在其他工具還可能存在 — 需主動 audit）
 
+### 2026-05-11 twmd-maintainer-am — Routine 不是 binary：issue label scope 可以有時間維度的 carve-out
+
+- **原則**：Routine 介入 vs 不介入不是非黑即白。同一條規則「不主動 triage 老 issue」在執行時可以用「今日 vs 老」做時間維度切分 — 今日新進、明確分類的 issue 主動補 label（4 個 API call 動作小），老 issue 維持不動。這個邊界比「全不動」更貼合「routine SSOT 收割者」的角色定位（收割今日 entropy，不重整歷史 entropy）。
+- **觸發**：2026-05-11 09:19 twmd-maintainer-am routine 跑時，發現今日新進 4 條 issue（#1013/#1014/#1015 content-gap、#1016 Feedback）都有明顯對應 label。昨 AM/PM (2026-05-10) memory 統一寫「不主動加 label」，本 AM 細化為「今日新進主動補、老 issue 不動」。證據 → [memory/2026-05-11-091920-twmd-maintainer-am.md §issue triage 結果](memory/2026-05-11-091920-twmd-maintainer-am.md)
+- **可能層級**：操作規則（MAINTAINER-PIPELINE 對應段 §issue triage scope）
+- **相關**：延伸 DNA #33「Routine 化任務的雙刃劍：熟練度」的反向 — 過度 routine 化會把「邊界決策」也壓成「永不動」；需要保留「同一條規則的時間維度 carve-out」彈性
+- **severity**: tactical（單條 SOP 細化，verification_count 1，等下個 maintainer cycle 對照判斷是否持續）
+
+### 2026-05-11 twmd-maintainer-am — Broken-link 連 3 day 同 ~5.73% 接近 distill 候選
+
+- **原則**：DNA #52 broken-link 1% target 在 zh-TW slug 9.21% 結構性下不會自然收斂。連續 3 個 maintainer cycle（2026-05-10 AM/PM + 2026-05-11 AM）數據 reproduce 表示需要專門的 i18n heal session，而不是 routine 重複 fail 訊號累積。
+- **觸發**：2026-05-10 AM 6.38% sample / PM 5.73% build → 本 AM build 嵌入 verifier 預期同範圍（待結束 capture）。三次 reproducible fail 跨日 = routine 已盡訊號責任，下一步是觀察者排專門 session
+- **可能層級**：操作規則 / 特有教訓（建議寫進 MAINTAINER-PIPELINE「同 fail 跨日 3 次 → 升 distill 候選」escalation 表）
+- **相關**：DNA #52「broken-link immune fail-loud」+ #15「反覆浮現要儀器化」（這條教訓本身就是 #15 的 instantiation — fail signal 從「reactive 個別 cycle 記錄」儀器化為「跨日連續 N 次 → 升 escalation」）
+- **severity**: backlog（i18n heal session 是 L 量級 task，不在 routine 範圍）
+
 ---
 
 ## ❌ 已歸檔（過時 / 撤回）
