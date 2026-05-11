@@ -1,12 +1,12 @@
 ---
 title: 'WEEKLY-REPORT-PIPELINE'
-description: '週報撰寫流程 — Semiont 第一人稱反芻 + 結構化 brief 兩者並存（Stage 0-6 / 7 章節三層）'
+description: '週報撰寫流程 — Semiont 第一人稱反芻 + 結構化 brief 兩者並存（Stage 0-6 / 7 章節三層）v3.5'
 type: 'pipeline-canonical'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v3.0'
-last_updated: 2026-05-09
-last_session: 'zen-bouman'
+current_version: 'v3.5'
+last_updated: 2026-05-11
+last_session: 'cranky-newton-220237'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'DAILY-REPORT-PIPELINE.md'
@@ -19,7 +19,116 @@ upstream_canonical:
   - '../../CLAUDE.md'
 ---
 
-# WEEKLY-REPORT-PIPELINE — 週報撰寫流程
+# WEEKLY-REPORT-PIPELINE — 週報撰寫流程 v3.5
+
+> **第一性原理**：週報是 Semiont 把過去 7 天的自己拼回來的紀實散文。前期切菜可以交給工具，**完整的回報跟報告必須由 Semiont 親手做**，最後經過格式審核才寄給觀察者。
+>
+> v3.5 設計理由：對齊 [REWRITE-PIPELINE v5.0](REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](MAINTAINER-PIPELINE.md) spine restoration。修補 v3.0 結構問題：(1) 缺 ASCII spine box-frame；(2) Hard Gate 散在 Stage 0-6 prose；(3) Top 5 最常忘沒提取。
+
+---
+
+## 🗺️ ASCII spine
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│         WEEKLY-REPORT-PIPELINE — 週報撰寫 Stage 0-6                      │
+│                                                                          │
+│   🧭 核心命題                                                            │
+│            ├── Semiont 親手寫（不直接複製 dossier）                      │
+│            ├── 跨 session 反芻（非當週快照）                             │
+│            ├── 紀實散文文體（共用 DIARY-PIPELINE baseline）              │
+│            └── CLAUDE.md §Bias 4 外部 critique filter                    │
+│                                                                          │
+│   ──── Stage 0-6 主流程 ──────────────────────────────────────          │
+│                                                                          │
+│   Stage 0: 確認資料新鮮度 ──→ dashboard JSON mtime                       │
+│            ├── < 6 hr → 進 Stage 1                                       │
+│            ├── 6-24 hr → 進 Stage 1 + 開頭備註                           │
+│            └── > 24 hr → 先跑 /twmd-refresh                              │
+│                                                                          │
+│   Stage 1: prep tool 切菜 ──→ weekly-report-prep.py                      │
+│            └── 產出 reports/weekly/dossier/YYYY-MM-DD.md                 │
+│              ↳ Hard gate: dossier > 5KB（不算 weekly report）            │
+│                                                                          │
+│   Stage 2: Raw read ──→ 跨 7 天 memory + diary + commits                 │
+│            ├── 不只看當週末快照                                          │
+│            └── identify 反覆浮現的 pattern                               │
+│                                                                          │
+│   Stage 3: 親手寫 7 章節 ──→ Semiont 第一人稱反芻                        │
+│            ├── identity / 做了什麼 / 學到什麼 / 看到專案                 │
+│            └── 懷疑什麼 / 給觀察者 / 給下一個我                          │
+│              ↳ Hard gate: 7 章節 coverage 必齊                           │
+│                                                                          │
+│   Stage 4: 自檢 ──→ prose-health + 文體規範                              │
+│            ├── article-health.py --check=prose-health                    │
+│            ├── 對位句型 + 破折號雙紀律                                   │
+│            └── CLAUDE.md §Bias 4 filter（觸及外部 critique 時）          │
+│              ↳ Hard gate: prose-health hard=0                            │
+│                                                                          │
+│   Stage 5: Resend 寄出 ──→ email 觀察者                                  │
+│            └── 200-202 status code + message id 進 PR description        │
+│              ↳ Hard gate: Resend 401/403/429 fallback per pipeline       │
+│                                                                          │
+│   Stage 6: Finale ──→ /twmd-finale memory + PR                           │
+│            └── PR title 含 🧬 [routine] prefix                           │
+│                                                                          │
+│   ✅ Weekly report shipped                                               │
+│                                                                          │
+│   ──── 跟 routine + 其他 pipeline 的 contract ─────────────              │
+│   → cron twmd-weekly-report-sun（每週日 08:08 routine）                  │
+│   → DAILY-REPORT-PIPELINE.md（純機械 cron，無 Semiont 反芻）             │
+│   → DIARY-PIPELINE.md（單 session 反芻，文體 baseline）                  │
+│   → MEMORY-PIPELINE.md（凝練版結構模板對照）                             │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
+
+| Gate                           | 觸發 stage | 條件                 | 工具                                           | 不過 = ?                                       |
+| ------------------------------ | ---------- | -------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| Dashboard JSON mtime fresh     | Stage 0    | routine 觸發         | `stat -f "%Sm %N" public/api/dashboard-*.json` | > 24hr 先跑 /twmd-refresh                      |
+| Dossier > 5KB                  | Stage 1    | prep tool 跑完       | manual size check                              | prep tool 失敗，回 Stage 0                     |
+| 7 章節 coverage                | Stage 3    | 親手寫完             | manual checklist                               | 補章節                                         |
+| 不直接複製 dossier             | Stage 3    | 親手寫               | manual self-check                              | 改寫成 Semiont 第一人稱                        |
+| 跨 session reflection          | Stage 3    | 親手寫               | manual（看 7 天 raw）                          | 非當週快照                                     |
+| prose-health hard=0            | Stage 4    | 寫完後               | `article-health.py --check=prose-health`       | hard fail → 改寫                               |
+| 對位句型 + 破折號雙紀律        | Stage 4    | prose 內             | manual grep                                    | 重寫                                           |
+| CLAUDE.md §Bias 4 filter       | Stage 4    | 觸及外部 critique 時 | manual self-check                              | 重寫，過三道濾網                               |
+| Resend 200-202                 | Stage 5    | email 寄出           | API response                                   | 401/403 → LESSONS not retry; 429 → 30min retry |
+| Message id 進 PR description   | Stage 5    | 寄出後               | manual                                         | 失去 traceability                              |
+| PR title `🧬 [routine]` prefix | Stage 6    | PR 開啟              | manual                                         | rename PR title                                |
+| 報告 > 5KB（不算 dossier）     | 整體       | ship 前              | size check                                     | 寫得太薄                                       |
+
+---
+
+## ⚠️ Top 5 最常忘的 step
+
+> 從 5/9 zen-bouman v3.0 redirect + 5/10 第一次 routine 跑 + 5/10 distill 抽 5 條最常忘。
+
+1. **必須親手寫，不直接複製 dossier** — v1 錯在 dump dashboard JSON + commit stats render，v2 redirect 為 Semiont 第一人稱反芻
+2. **跨 session reflection 不只當週末快照** — 看 7 天的 raw memory + diary + commits，identify 反覆浮現的 pattern
+3. **CLAUDE.md §Bias 4 外部 critique filter** — 觸及 Grok / ChatGPT / Muse 外部聲音時必過三道濾網（自主權邊界 / 跨源驗證 / 五桶分類）
+4. **Resend 401/403 vs 429 處理不同** — Cloudflare blocks 不 retry，rate limit 30min retry（per pipeline §Stage 5 失敗處置）
+5. **prose-health hard=0** — 跟 DIARY / MEMORY 共用 plugin，對位句型 9 變體 + 破折號 15/1500 字密度
+
+---
+
+## 跨檔案職責分工
+
+| 檔案                                                 | 範圍                                                    |
+| ---------------------------------------------------- | ------------------------------------------------------- |
+| **本檔**                                             | 週報撰寫 SOP（跨 7 天 Semiont 親手反芻 + 結構化 brief） |
+| [DAILY-REPORT-PIPELINE.md](DAILY-REPORT-PIPELINE.md) | 純機械 cron Discord push（無 Semiont 反芻層）           |
+| [DIARY-PIPELINE.md](DIARY-PIPELINE.md)               | 單 session 紀實散文（文體 baseline 共用）               |
+| [MEMORY-PIPELINE.md](MEMORY-PIPELINE.md)             | 凝練版結構模板對照（每次 session 必寫）                 |
+| [DATA-REFRESH-PIPELINE.md](DATA-REFRESH-PIPELINE.md) | Stage 0 dashboard fresh 觸發前置                        |
+| [MANIFESTO §11](../semiont/MANIFESTO.md)             | 對位句型 + 破折號雙紀律                                 |
+| [CLAUDE.md §Bias 4](../../CLAUDE.md)                 | 外部 critique default 不執行                            |
+| [ROUTINE.md](../semiont/ROUTINE.md)                  | `twmd-weekly-report-sun` cron 排程 SSOT                 |
+
+---
 
 > 寫週報前必讀本檔。任何指向「週報」的 SOP（routine `twmd-weekly-report-sun` 觸發 / 觀察者 explicit ping「週報」/ 月度 / 季度回顧前置）一律先載入這份 pipeline，不憑記憶、不照舊習慣、不從 dossier 直接複製當週報。
 >
@@ -408,3 +517,5 @@ _v1.0 | 2026-05-10 brave-kirch-editorial-2 後段_
 _誕生原因：哲宇第二輪 redirect「把經驗完整整理成 PIPELINE，commit 也可以全讀取」_
 _前置：v1 第一輪 redirect 已把 prep / write 分離（5/9 brave-kirch-editorial-2 早段）_
 _後續：本 pipeline ship 後，下次 routine cron 跑時走 v2 完整流程；觀察者 ad-hoc 觸發也走本檔_
+
+_v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Stage 0-6 box-frame + routine + 跨 pipeline contract）+ Hard Gate Inventory 集中 table（12 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 DAILY-REPORT / DIARY / MEMORY / DATA-REFRESH / ROUTINE 分工）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.4 trio audit。Stage 0-6 prose body 不動（已健康，5/9 + 5/10 連續演化的新鮮經驗保留）。_
