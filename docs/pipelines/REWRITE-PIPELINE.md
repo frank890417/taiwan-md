@@ -692,15 +692,29 @@ Stage 1 結束時 deliverable：
 - 重點掃：被動句（「被認為」）、「的」連鎖（≥ 3）、弱動詞（「進行」「透過」）
 - 詳見 [EDITORIAL.md §歐化語法偵測](../editorial/EDITORIAL.md)
 
-#### Step 2.7.2: 60% 暫停數破折號
+#### Step 2.7.2: prose-health plugin gate（對位句型 + 破折號 + AI metaphor 全交給工具）
 
-寫到 60% 時暫停，**數一下「——」數量**：
+寫到 60% 時或寫完 prose 後，**直接跑 plugin**，不要手 grep。
 
-- > 8 個就開始替換為逗號、句號、冒號或斷句重寫
-- quality-scan 閾值是 15，但寫作中途到 15 才改已經傷筋動骨
-- 來自 2026-04-10 國防現代化教訓：一寫就寫到 29 個，事後逐個刪很痛
+```bash
+python3 scripts/tools/article-health.py knowledge/{Category}/{slug}.md --check=prose-health
+```
 
-> **plugin gate**：`article-health.py --check=prose-health`（已 instrument 對位句型 + 破折號密度 + line + 前後文）。
+plugin 抓 12 dim 塑膠 + 3 tier 對位句型（含「不是 X，是 Y」「不只 X 更是 Y」「並非 X 而是 Y」全部變種）+ 30+ AI metaphor + 17 ritual 句 + 破折號密度。每條 violation 含 line + 前後文 snippet + fix suggestion，可直接定位修正。
+
+**閾值**（per MANIFESTO §11）：
+
+- 對位句型「不是 X，是 Y」+ 變種：≤ 3 處
+- 破折號 ——：≤ 15 / 1500 字（plugin 用比例計算）
+- prose-health score：≤ 3 為 pass
+
+**為什麼禁用手 grep**（DNA #15 self-apply）：
+
+- plugin 抓的 pattern 比 manual regex 全（含 7-9 種對位變體）
+- plugin 有精確 line + 前後文，可直接 jump-to-fix
+- 「反覆浮現的思考要儀器化」原則 self-apply — 自己手 grep 是繞過 SOP，每次跑 plugin 累積進化（觀察者 2026-05-11 admiring-montalcini callout）
+
+**歷史教訓**：2026-04-10 國防現代化一寫就到 29 個破折號，事後逐個刪很痛；plugin 在中段 60% 時抓出來，比寫完痛苦回頭便宜 10x。
 
 #### Step 2.7.3: 編年體自檢
 

@@ -31,12 +31,17 @@ APPLIES_TO = ["zh-TW"]
 # Per EDITORIAL §原則 3 canonical 禁用清單. 「神話 / 不朽 / 永恆」等
 # 沒列在這裡的詞可能是文章本身的 subject (如《原住民神話》、《不朽記憶》).
 # 擴充先讀 docs/editorial/EDITORIAL.md §原則 3.
+#
+# 2026-05-11 admiring-montalcini: 移除「國民」(per 哲宇 callout
+# 「『國民飲料』是正確的形容」)。「國民」在中文裡多為 noun modifier
+# (國民飲料 / 國民義務 / 國民教育) 而非純評價詞，跟「傳奇 / 偉大 / 最強 /
+# 天后」等不同。誤殺 case：蘋果西打 EVOLVE title「60 年國民氣泡飲」
+# 被誤判為空泛詞但實為 idiom。
 TITLE_VAGUE_ADJECTIVES: list[str] = [
     "傳奇",
     "偉大",
     "優秀",
     "最強",
-    "國民",
     "天后",
 ]
 
@@ -91,7 +96,7 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 severity=Severity.WARN,
                 message=(
                     f"title 含空泛形容詞「{adj}」"
-                    f" (EDITORIAL §原則 3 禁止「傳奇/偉大/最強/國民」等空泛詞)"
+                    f" (EDITORIAL §原則 3 禁止「傳奇/偉大/最強/天后」等空泛詞)"
                 ),
                 snippet=title,
                 editorial_ref="EDITORIAL.md §原則 3",

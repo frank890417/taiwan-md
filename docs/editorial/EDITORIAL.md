@@ -237,7 +237,7 @@ Taiwan.md 是一座策展空間。
 
 1. **代表性 > 反諷 hook**：title 選的 scene 必須能定義這個人／主題的本質。反諷 scene 可以放 description 或文章中段，但 title 是讀者的第一印象框架
 2. **冒號三明治結構**：「主題 + 冒號 + 核心矛盾／代表性弧線」
-3. **禁用空泛形容詞**：「傳奇 / 偉大 / 優秀 / 最強 / 國民 / 天后」這類評判性形容詞不進 title
+3. **禁用空泛形容詞**：「傳奇 / 偉大 / 優秀 / 最強 / 天后」這類評判性形容詞不進 title。例外：noun modifier 性質的詞（如「國民」在「國民飲料 / 國民教育 / 國民義務」是 idiom，非評判詞 — 跟「天后」「傳奇」純評價詞性質不同，2026-05-11 admiring-montalcini 校準）
 4. **冒號後一句要獨立成立**：副標是一個可以單獨 tweet 出去的句子
 
 ```
@@ -654,7 +654,7 @@ abstraction 蓋過細節是 AI 寫作最普遍的指紋。每段沒有 anchor no
 
 ### 對位句型 + 破折號連用 — 兩條 AI 水印紀律
 
-完整哲學見 [MANIFESTO §11](../semiont/MANIFESTO.md#11-書寫節制跨所有書寫層的兩條-ai-水印紀律)。
+完整哲學見 [MANIFESTO §11](../semiont/MANIFESTO.md#11-書寫節制跨所有書寫層的兩條-ai-水印紀律)。**檢查工具**：`prose-health` plugin — 不要手 grep，跑 `python3 scripts/tools/article-health.py {file} --check=prose-health` 一次抓對位句 + 破折號 + AI metaphor + 塑膠句全部，每條 violation 含 line + 前後文。詳見 [REWRITE-PIPELINE Step 2.7.2](../pipelines/REWRITE-PIPELINE.md)（plugin gate canonical SOP）。手 grep 是 SOP 退化（per DNA #15 self-apply）。
 
 #### 「不是 X，是 Y」的本質：X 是寫作的錯誤臆測
 
