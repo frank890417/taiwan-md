@@ -77,21 +77,22 @@ related:
 
 ### Tier A — 第一輪 audit（核心高頻 + 已知有問題）
 
-| Pipeline                                                 | 行數            | 主要 audit 目標                                |
-| -------------------------------------------------------- | --------------- | ---------------------------------------------- |
-| **TRANSLATION-PIPELINE**                                 | 1005            | 跟 SQUEEZE-MODELS-MAX 邊界 + spine 對齊        |
-| **SPORE family** (PIPELINE / WRITING / VERIFY / HARVEST) | 470+761+591+883 | 5 stage spine + sub-canonical 邊界             |
-| **FACTCHECK-PIPELINE**                                   | 563             | Quick/Full Mode spine + REWRITE hard gate 對齊 |
-| **MEMORY + DIARY + WEEKLY-REPORT trio**                  | 334+319+410     | Beat 4-5 收官 trio + finale skill contract     |
-| **EVOLVE-PIPELINE**                                      | 662             | news-lens routine + PEER-INGESTION 邊界        |
-| **DATA-REFRESH-PIPELINE**                                | 336             | Phase 編號 + SENSE-FETCHER 三檔分工            |
+| Pipeline                                                 | 行數            | 主要 audit 目標                                | 狀態         |
+| -------------------------------------------------------- | --------------- | ---------------------------------------------- | ------------ |
+| **TRANSLATION-PIPELINE**                                 | 1005            | 跟 SQUEEZE-MODELS-MAX 邊界 + spine 對齊        | ✅ v4.0 ship |
+| **SQUEEZE-MODELS-MAX-PIPELINE**                          | 543             | 接收 TRANSLATION batch + spine                 | ✅ v4.0 ship |
+| **SPORE family** (PIPELINE / WRITING / VERIFY / HARVEST) | 470+761+591+883 | 5 stage spine + sub-canonical 邊界             | ⏳ 待處理    |
+| **FACTCHECK-PIPELINE**                                   | 563             | Quick/Full Mode spine + REWRITE hard gate 對齊 | ⏳ 待處理    |
+| **MEMORY + DIARY + WEEKLY-REPORT trio**                  | 334+319+410     | Beat 4-5 收官 trio + finale skill contract     | ⏳ 待處理    |
+| **EVOLVE-PIPELINE**                                      | 662             | news-lens routine + PEER-INGESTION 邊界        | ⏳ 待處理    |
+| **DATA-REFRESH-PIPELINE**                                | 336             | Phase 編號 + SENSE-FETCHER 三檔分工            | ⏳ 待處理    |
 
 ### Tier B — 第二輪 audit（次要，看第一輪 budget）
 
-| Pipeline               | 行數 | 待整理理由                     |
-| ---------------------- | ---- | ------------------------------ |
-| **RELEASE-PIPELINE**   | 439  | v1.7.0 剛 ship 經驗可寫進 SOP  |
-| **DASHBOARD-PIPELINE** | 252  | 跟 explore page Phase 規劃對齊 |
+| Pipeline               | 行數 | 待整理理由                     | 狀態      |
+| ---------------------- | ---- | ------------------------------ | --------- |
+| **RELEASE-PIPELINE**   | 439  | v1.7.0 剛 ship 經驗可寫進 SOP  | ⏳ 待處理 |
+| **DASHBOARD-PIPELINE** | 252  | 跟 explore page Phase 規劃對齊 | ⏳ 待處理 |
 
 ### Tier C — 候選降級 / 合併（懷疑重複，需 verify）
 

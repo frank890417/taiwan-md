@@ -1,30 +1,163 @@
 ---
 title: 'TRANSLATION-PIPELINE'
-description: '單篇翻譯流程 — wikilink 處理 + 優先序 + 品質 checklist + sub-agent batch SOP'
+description: '翻譯流程主檔 — A/B/C/D 4 模式 / 8 stage 單篇 SOP / 平行 sub-agent / sync-on-update / 跨機器搬遷 (v4.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v3.5'
-last_updated: 2026-05-04
-last_session: 'magical-feynman'
+current_version: 'v4.0'
+last_updated: 2026-05-11
+last_session: 'cranky-newton-220237'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - 'REWRITE-PIPELINE.md'
+  - 'EVOLVE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
   - '../editorial/TRANSLATION-SYNC.md'
 ---
 
-# TRANSLATION-PIPELINE.md — 翻譯流程 v3.0
+# TRANSLATION-PIPELINE.md — 翻譯流程主檔 v4.0
 
-> **職責分工：**
+> **第一性原理**：翻譯不是文字替換，是把中文 SSOT 的策展視角投影到該語言讀者的 reference frame。所有模式都基於「精準 / 專業 / 快速」三軸 + 中→該語言投影 mental model + 不預設篇幅。
 >
-> - **本文件** → 翻譯流程的所有 stage、決策點、批次合併、新語言啟用 SOP
-> - [`REWRITE-PIPELINE.md`](REWRITE-PIPELINE.md) → 中文 SSOT 文章重寫流程（翻譯不重寫，這是不同 pipeline）
-> - [`EVOLVE-PIPELINE.md`](EVOLVE-PIPELINE.md) → 數據驅動的內容進化策略
-> - [`docs/community/LANGUAGE-STATUS.md`](../community/LANGUAGE-STATUS.md) → 語言狀態（active / preview / disabled）
-> - [`src/config/languages.ts`](../../src/config/languages.ts) → LANGUAGES_REGISTRY SSOT
->
-> ⚠️ **每個 stage 的 hard rules 都是經驗教訓凝固的，繞過會撞同一個坑**。
+> v4.0 設計理由：對齊 [REWRITE-PIPELINE v5.0](REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](MAINTAINER-PIPELINE.md) spine restoration 範式。修補 v3.5 三個結構問題：(1) 缺 ASCII spine，agent 進來看不到全景；(2) Hard Gate 散在各 stage 無集中索引；(3) Top 5 最常忘從 17 條常漏沒篩選出來放頂部。
+
+---
+
+## 🗺️ ASCII spine
+
+```
+╭──────────────────────────────────────────────────────────────────────────╮
+│         TRANSLATION-PIPELINE 4 模式 + 8 stage 主流程                     │
+│                                                                          │
+│   🧭 翻譯元則（4 條，位階高於所有 stage）                                │
+│            ├── 精準 / 專業 / 快速 三軸                                   │
+│            ├── 中文 SSOT → 投影到目標語言 reference frame                │
+│            ├── 不預設篇幅（length follows content）                      │
+│            └── Frontmatter + cross-reference 是品質基線                  │
+│                                                                          │
+│   ──── 4 模式 entry point ────────────────────────────────────────       │
+│                                                                          │
+│   A. 單篇翻譯 ─→ Stage 0-8（個別 contributor，最常見）                   │
+│                                                                          │
+│   B. 批次合併 ─→ Maintainer 批次合併工作流 5 step                        │
+│         （外部 contributor 一次 N 個 PR）                                │
+│                                                                          │
+│   C. Sub-agent 平行批次 ─→ Stage P1-P5（lang-sync 補空缺）               │
+│         （main session orchestrate N sub-agent，per Anthropic SDK）      │
+│         → 跟 SQUEEZE-MODELS-MAX 區隔：本模式單 model fleet              │
+│                                                                          │
+│   D. sync-on-update ─→ article-level 即時同步                            │
+│         （commit 後立刻偵測 stale + 觸發 micro-batch）                   │
+│                                                                          │
+│   ──── A 模式 8 stage 主流程（C/D 模式共用部分 stage）────              │
+│                                                                          │
+│   Stage 0: 決定翻譯什麼 ──→ SSOT 找有價值的中文文章                      │
+│   Stage 1: 架構檢查 ──→ 目標語言 enabled / preview / 未註冊             │
+│   Stage 2: 來源準備 ──→ translatedFrom 路徑                              │
+│   Stage 3: 重寫式翻譯 ──→ 觀點重建，不是文字替換                        │
+│   Stage 4: Frontmatter 紀律 ──→ translatedFrom 必填 + mirror 規則       │
+│   Stage 5: 內部連結轉換 ──→ wikilinks / 延伸閱讀 / cross-link          │
+│   Stage 6: 驗證 ──→ ratio / format-check / sync --check                  │
+│   Stage 7: Commit ──→ pre-commit hook 全過                              │
+│   Stage 8: 後合併 ──→ sync json + dashboard 重生 + 抽樣驗證             │
+│                                                                          │
+│   ✅ Translation shipped                                                 │
+│                                                                          │
+│   ──── 跨 pipeline boundary ─────────────────────────                   │
+│   → 多 model fleet 批次：SQUEEZE-MODELS-MAX-PIPELINE.md（巴別塔）        │
+│   → 中文 SSOT 寫作：REWRITE-PIPELINE.md                                  │
+│   → 跨機器搬遷：SENSE-FETCHER-MIGRATION.md（同 pattern 不同 domain）    │
+╰──────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🧭 翻譯元則（觀察者校準 canonical — 2026-04-30 δ）
+
+> 觸發：2026-04-30 δ session 觀察者下達 EN 批次更新任務時校準的核心方向。**位階高於八階段流程**——任何 stage 的判斷與翻譯實作都應 rooted in 這四條。
+
+### 1. 精準 / 專業 / 快速（三軸 trade-off 不可分）
+
+**精準**：每個事實 / 引語 / 數字 / 人名 / 機構 / 法律條文都要對得上中文 SSOT，不腦補、不 paraphrase 走樣。
+**專業**：英文用詞貼合該主題的 academic / industry register，不是觀光英文也不是機翻腔。
+**快速**：批次任務不 over-engineer 個別篇章；mental budget 5-15 min/篇基準。
+
+### 2. 從中文 SSOT 投影到目標語言（projection mental model）
+
+翻譯**不是替換字詞**，是把中文 SSOT 的策展視角投影到目標語言讀者的 reference frame：
+
+- **保留**：核心矛盾、人物/地點/時間 anchor、引語 verbatim、腳註 source URL
+- **重新框定**：類比、文化常識 contextualize、政治語境精準避歧義
+- **不要硬翻**：中文俗語直譯通常 broken，找對應目標語言 idiom 或重述本意
+
+### 3. 不預設篇幅（length follows content，not template）
+
+中文 SSOT 多長，翻譯就多長。常見 trap：中文 8,000 字翻 4,000 字 = AI 摘要陷阱（ratio-check 抓 <0.55）；中文 1,500 字翻 3,000 字 = 過度解釋陷阱。
+
+### 4. Frontmatter 與 cross-reference 是品質基線
+
+`translatedFrom` 必填 + `sourceCommitSha` / `sourceContentHash` / `translatedAt` 三欄位用 `refresh.sh --apply --sha-only` 自動更新 + wikilink/延伸閱讀按目標語言路徑轉換。
+
+完整論述見下方 §翻譯元則 詳述。
+
+---
+
+## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
+
+| Gate                                         | 觸發 stage / mode  | 條件                         | 工具                                         | 不過 = ?                   |
+| -------------------------------------------- | ------------------ | ---------------------------- | -------------------------------------------- | -------------------------- |
+| `translatedFrom` 必填                        | Stage 4 / 所有翻譯 | 所有 `knowledge/{lang}/*.md` | pre-commit hook `test-frontmatter.mjs`       | reject commit              |
+| `category` 英文跟原文同                      | Stage 4            | 所有翻譯                     | `category-check.sh`                          | request changes            |
+| `featured` mirror 原文                       | Stage 4            | 所有翻譯                     | manual diff vs zh source                     | request changes            |
+| `date` mirror 原文                           | Stage 4            | 所有翻譯                     | manual                                       | request changes            |
+| 翻譯字數比 ≥ 0.55                            | Stage 6            | 所有翻譯                     | `translation-ratio-check.sh`                 | TRUNCATED 警告，重翻       |
+| Wikilink 0 殘留                              | Stage 5            | 所有翻譯                     | pre-commit hook                              | reject commit              |
+| Wikilink 目標存在性                          | Stage 5            | 所有翻譯                     | pre-commit hook                              | reject commit              |
+| 內部連結 `/{lang}/` 前綴                     | Stage 5            | 所有翻譯                     | `verify-internal-links.sh --sample 30`       | request changes            |
+| Format check 7 維度                          | Stage 6            | 所有翻譯                     | `article-health.py --check=format-structure` | request changes            |
+| sync-translations-json                       | Stage 6, 8         | 所有翻譯                     | `sync-translations-json.py --check`          | 不 commit                  |
+| Arch gate（語言 enabled / preview / 未註冊） | Stage 1            | 新翻譯                       | `grep "code:" languages.ts`                  | unregistered → 拒絕        |
+| Manifest 預處理（C 模式）                    | Stage P1           | sub-agent batch              | `prepare-batch.py`                           | 不 dispatch                |
+| 8 項統一驗證（C 模式）                       | Stage P4           | sub-agent batch              | `verify-batch.py`                            | 不 commit                  |
+| Destructive git ops 禁令（C 模式）           | 全程               | sub-agent 跑期間             | manual self-check                            | abort op，走 worktree 隔離 |
+| Cycle budget 對齊（C 模式）                  | Stage P2           | sub-agent batch              | manual（30-35 篇 / 1 hr cycle）              | 縮減批次規模               |
+
+---
+
+## ⚠️ Top 5 最常忘的 step
+
+> 從 17 條常漏（§下方）+ 4/14 η 60 PR 海嘯 + 5/4 magical-feynman 抽 friction 最高的 5 條。動工前主動掃一次。
+
+1. **`translatedFrom` 不能含 `knowledge/` 前綴** — 寫成 `'Music/五月天.md'` 不是 `'knowledge/Music/五月天.md'`（4-22% 歷史翻譯撞過）
+2. **`category` 用英文跟原文一致** — `'Music'` 不是 `'음악'`（早期 ja/ko 寫中文 category 撞 category-check.sh）
+3. **`featured` mirror 原文，contributor 不該自己改** — 由 maintainer 統一決定
+4. **Wikilink `[[X]]` 必須轉成 markdown link** — Astro 不渲染，pre-commit hook 抓
+5. **內部連結加 `/{lang}/` 前綴** — `[安溥](/music/...)` 在 ko 版會 404，應該 `/ko/music/...`（DNA #19 Tailwind sed 反向教訓）
+
+---
+
+## 跨檔案職責分工
+
+| 檔案                                                                   | 範圍                                                                                                      |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **本檔**                                                               | 4 模式翻譯主流程（A/B/C/D）+ Stage 0-8 單篇 SOP + 17 條常漏 + 新語言啟用                                  |
+| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md)       | 多 model fleet 巴別塔批次（OpenRouter 多 model + try-catch refusal first-class + Tier 0a/0b/1-3 cascade） |
+| [REWRITE-PIPELINE.md](REWRITE-PIPELINE.md)                             | 中文 SSOT 文章寫作 5-stage（翻譯不重寫，需重寫先走這條）                                                  |
+| [EVOLVE-PIPELINE.md](EVOLVE-PIPELINE.md)                               | 數據驅動該寫什麼新文章（vs 本檔該翻什麼既有文章，互補）                                                   |
+| [`docs/community/LANGUAGE-STATUS.md`](../community/LANGUAGE-STATUS.md) | 語言狀態（active / preview / disabled）                                                                   |
+| [`src/config/languages.ts`](../../src/config/languages.ts)             | LANGUAGES_REGISTRY SSOT                                                                                   |
+
+**邊界：C 模式 vs SQUEEZE-MODELS-MAX**：
+
+- **C 模式**（本檔 §平行 sub-agent SOP）= main session orchestrate N 個 Anthropic SDK sub-agent，單 model（Sonnet default），主 session 預處理 + sub-agent 純執行
+- **SQUEEZE-MODELS-MAX** = 多 model fleet（OpenRouter free tier 跨 Hy3 / Gemma / Llama / owl-alpha + Tier 0a Sonnet diff-patch），try-catch first-class，refusal 是 result 不是 exception，跨批次 last-write-wins
+- 兩者互相 cross-ref，**不互相覆蓋**
+
+---
+
+## ⚠️ 鐵律（保留 v3.5 既有）
+
+每個 stage 的 hard rules 都是經驗教訓凝固的，繞過會撞同一個坑。Stage 內 prose body 以下保留 v3.5 原貌（已健康，refactor 主要在頂部）。
 
 ---
 
@@ -999,6 +1132,7 @@ bash scripts/tools/bulk-pr-analyze.sh
 - **v3.3** | 2026-05-01 δ2 — 三個 known gaps 全部造橋完成：(1) `prepare-batch.py` Stage P1 manifest 自動生成（含 snake-balance / wikilink target lookup / frontmatter placeholder） (2) `verify-batch.py` Stage P4 8 項統一驗證入口（含 0-byte purge / YAML pre-flight / DNA #31 自動 grep frontmatter）(3) refresh.sh insert gap 由 manifest 預注入解決，不需另寫子命令。新增 §批次規模 vs Usage budget cycle 對齊（5 小時 limit ≈ 30-35 篇 sonnet / cycle）。觸發：第二波 5 Sonnet × 10 篇驗證 batch antipattern fix 大量成功（frontmatter 正確率 25%→100%）+ usage 90% wrap up 教訓（50/cycle 太大）。完整評估：[reports/translation-batch-design-evaluation-2026-04-30-δ.md](../../reports/translation-batch-design-evaluation-2026-04-30-δ.md)。
 - **v3.4** | 2026-05-01 γ — 新增 §sync-on-update mode（D 模式）+ `sync-on-update.py` 工具：article-update 後即時偵測哪些 lang 翻譯變 stale，opt-in 立即同步該篇所有語言版本，避免堆積長尾。修 verify-batch.py YAML pre-flight 限定在 tags block 內檢查（消除 `date: YYYY-MM-DD` false positive）。Slug map 自動推薦：從 `_translations.json` 反推導出 614 個 zh→slug 對應（cross-lang 復用，ja/ko 直接 reuse en slug）。批次規模上限提高到 10 sub-agent × 10 articles = 100/batch（首次 JA batch 驗證）。新增 §C 模式 cross-link auto-fix per cycle 待辦（DNA #33 反向力對策）。觸發：5-cycle EN marathon 後哲宇要求 (1) 多語言 sync 變預設 (2) 文章更新時就處理翻譯 (3) 擴大 batch 規模測試極限。
 - **v3.5** | 2026-05-01 γ — 新增 §C 模式 P0 鐵律「sub-agents 跑期間禁止 destructive git ops」（對應 DNA #35）。觸發：γ session 主 session 為了 ship dashboard fix 跑 `git reset --hard` 把 10 ja agents 的 14 篇 stale refresh work 抹掉。鐵律含 worktree / stash / branch 切換不 reset 三種正確做法。Donut bug v2 修補（threshold ≥99 + 顯式 circumference 99.9）寫進 dashboard 內聯 fix。
+- **v4.0** | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（4 模式 + 8 stage 全景）+ Hard Gate Inventory 集中 table（15 gates）+ Top 5 最常忘 step + 跨檔案職責分工 table（明確 C 模式 vs SQUEEZE-MODELS-MAX 邊界）+ 翻譯元則 summary at top（詳述保留）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.1 audit。Stage 內 prose body 不動（已健康，避免大規模 cross-link 連動風險）。
 
 ---
 
