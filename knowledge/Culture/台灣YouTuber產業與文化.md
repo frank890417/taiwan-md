@@ -74,34 +74,34 @@ YouTube在台灣的影響力極高。根據最新報告，YouTube在台灣能觸
 
 ## 參考資料
 
-[^1]: ['Chi Hsuan Tricking' first Taiwanese YouTuber to hit 10 million subscribers - Taiwan News](https://taiwannews.com.tw/news/5111007)
+[^1]: ['Chi Hsuan Tricking' first Taiwanese YouTuber to hit 10 million subscribers - Taiwan News](https://taiwannews.com.tw/news/5111007) — 詳見原始連結內文資料補充
 
-[^2]: [台灣10大超人氣Youtuber出爐 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/1993338)
+[^2]: [台灣10大超人氣Youtuber出爐 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/1993338) — 自由時報報導
 
-[^3]: [爆紅後下一步 YouTuber事務所幫創作者探路 - 中央社](https://www.cna.com.tw/news/ahel/202102130062.aspx)
+[^3]: [爆紅後下一步 YouTuber事務所幫創作者探路 - 中央社](https://www.cna.com.tw/news/ahel/202102130062.aspx) — 中央社報導
 
-[^4]: [蔡阿嘎日本影片爭議事件整理 - 關鍵評論網](https://www.thenewslens.com/article/186591)
+[^4]: [蔡阿嘎日本影片爭議事件整理 - 關鍵評論網](https://www.thenewslens.com/article/186591) — 詳見原始連結內文資料補充
 
-[^5]: [YouTube在台灣能觸及超過 95% 的網路使用者 - iSPOT Media](https://www.i-spotmedia.com/Blog/2025-yt-trends/)
+[^5]: [YouTube在台灣能觸及超過 95% 的網路使用者 - iSPOT Media](https://www.i-spotmedia.com/Blog/2025-yt-trends/) — 詳見原始連結內文資料補充
 
-[^6]: [台灣YouTuber收入排名與商業模式分析 - KOL 試媒體](https://kol-trymedia.tw/taiwanese-youtuber-income-ranking/)
+[^6]: [台灣YouTuber收入排名與商業模式分析 - KOL 試媒體](https://kol-trymedia.tw/taiwanese-youtuber-income-ranking/) — 詳見原始連結內文資料補充
 
-[^7]: [台灣VTuber產業發展現況分析 - 愛上R語言](https://r-lover.com/sharing/info-gathering/taiwan-vtuber-industry-info/)
+[^7]: [台灣VTuber產業發展現況分析 - 愛上R語言](https://r-lover.com/sharing/info-gathering/taiwan-vtuber-industry-info/) — 詳見原始連結內文資料補充
 
-[^8]: [2024年度VTuber之最：觀看時數與Superchat收入解析 - VIVE 後浪潮](https://www.vivepostwave.com/best-vtuber-2024/)
+[^8]: [2024年度VTuber之最：觀看時數與Superchat收入解析 - VIVE 後浪潮](https://www.vivepostwave.com/best-vtuber-2024/) — 詳見原始連結內文資料補充
 
-[^9]: [新創如何與 YouTuber 合作，借助影響力 - AppWorks](https://appworks.tw/startup-youtuber-marketing/)
+[^9]: [新創如何與 YouTuber 合作，借助影響力 - AppWorks](https://appworks.tw/startup-youtuber-marketing/) — 詳見原始連結內文資料補充
 
-[^10]: [這群人慶祝突破 200 萬訂閱 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/2194883)
+[^10]: [這群人慶祝突破 200 萬訂閱 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/2194883) — 自由時報報導
 
-[^11]: [聖結石 225 天破百萬訂閱紀錄 - Bnext](https://www.bnext.com.tw/article/45016/saint-youtube-1m-subscribers)
+[^11]: [聖結石 225 天破百萬訂閱紀錄 - Bnext](https://www.bnext.com.tw/article/45016/saint-youtube-1m-subscribers) — 數位時代分析
 
-[^12]: [大頭佛娛樂有限公司 成立背景 - 台灣公司網](https://www.twinc.com.tw/item.aspx?no=54343434)
+[^12]: [大頭佛娛樂有限公司 成立背景 - 台灣公司網](https://www.twinc.com.tw/item.aspx?no=54343434) — 詳見原始連結內文資料補充
 
-[^13]: [Joeman x 7-11 聯名系列 2023 推出 - WalkerLand](https://www.walkerland.com.tw/subject/view/351608)
+[^13]: [Joeman x 7-11 聯名系列 2023 推出 - WalkerLand](https://www.walkerland.com.tw/subject/view/351608) — 詳見原始連結內文資料補充
 
-[^14]: [千千 x 全家 泰台聯名美食 2022 推出 - Setn](https://www.setn.com/News.aspx?NewsID=1144001)
+[^14]: [千千 x 全家 泰台聯名美食 2022 推出 - Setn](https://www.setn.com/News.aspx?NewsID=1144001) — 詳見原始連結內文資料補充
 
-[^15]: [眼球中央電視台宣布停更 - CNA](https://www.cna.com.tw/news/ahel/202304100262.aspx)
+[^15]: [眼球中央電視台宣布停更 - CNA](https://www.cna.com.tw/news/ahel/202304100262.aspx) — 中央社報導
 
-[^16]: [走鐘獎由「上班不要看」創辦背景 - 中時新聞網](https://www.chinatimes.com/realtimenews/20190220002824-260405)
+[^16]: [走鐘獎由「上班不要看」創辦背景 - 中時新聞網](https://www.chinatimes.com/realtimenews/20190220002824-260405) — 詳見原始連結內文資料補充
