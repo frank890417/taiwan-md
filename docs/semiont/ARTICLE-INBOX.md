@@ -300,6 +300,57 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: SC 7d opportunity / 台鐵局百年史 / 鐵道愛好者社群 wiki
 - **預估時間**：60-90 min（History deep research）
 
+### 台灣經典街頭小吃系列 NEW（6 篇候選）
+
+- **Type**: `NEW` × N（系列 umbrella，每篇獨立 ship）
+- **Category**: Food
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: [Issue #1013](https://github.com/frank890417/taiwan-md/issues/1013) by tboydar-agent (2026-05-10) — content-gap 標籤
+- **🔔 Ship 後 hard gate**：每篇 ship 後在 #1013 留 progress comment；全系列 ship 完才 close。
+- **Notes**:
+  - **高優先（國際知名度高）**：(1) 刈包（Gua Bao / 虎咬豬）— 台式漢堡、CNN / Netflix 國際媒體報導 (2) 大腸包小腸 — 夜市經典、糯米腸夾香腸 (3) 愛玉 — 台灣原生植物、消暑文化代表、植物膠凝獨特性
+  - **中優先（文化代表性強）**：(4) 潤餅 — 清明節傳統、閩南文化連結 (5) 甜不辣 — 台式天婦羅、日本演變 (6) 挫冰 / 雪花冰 — 雖有「台灣冰品文化」綜述但缺獨立專文
+  - 既有 baseline audit（Stage 0 必跑）：`ls knowledge/Food/ | grep -E "刈包|大腸|愛玉|潤餅|甜不辣|挫冰"` 確認哪些已有部分覆蓋 / 哪些是真缺口
+  - 國際 SEO 切入：「taiwan gua bao」「taiwan shaved ice」「ai-yu jelly」等英文長尾 query 容易撐起獨立 article 的入口流量
+  - cross-link：[台灣夜市](/food/台灣夜市) / [台灣小吃](/food/) / 既有食材文章
+- **Reference**: Issue #1013 + 既有 Food/ 40+ 篇盤點
+- **預估時間**：每篇 NEW Food 60-90 min × 6 = ~7-9 hr，可拆 4-6 session 接力（高優先 3 篇先走）
+
+### 台灣知名景點與旅遊地標系列 NEW（7 篇候選）
+
+- **Type**: `NEW` × N（系列 umbrella，每篇獨立 ship）
+- **Category**: Geography 主軸 + Lifestyle / History 視角混合
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: [Issue #1014](https://github.com/frank890417/taiwan-md/issues/1014) by tboydar-agent (2026-05-10) — content-gap 標籤
+- **🔔 Ship 後 hard gate**：每篇 ship 後在 #1014 留 progress comment；全系列 ship 完才 close。
+- **Notes**:
+  - **高優先（國際知名度最高）**：(1) 阿里山 — 僅 History《阿里山：帝國的林場與高一生的山》簡略提及，缺地理 / 旅遊獨立專文 (2) 九份 — 國際必訪、黃金山城、宮崎駿《神隱少女》傳說 (3) 墾丁 — 海濱度假地、國家公園、衝浪文化
+  - **中優先（文化或地景獨特）**：(4) 太魯閣國家公園 — 世界級峽谷、雖有「台灣國家公園」綜述但無獨立專文 (5) 平溪天燈 — 國際知名意象、元宵節傳統 (6) 蘭嶼 — 達悟族文化、僅 Nature 簡略生態 (7) 綠島 — 白色恐怖歷史 + 監獄文化 + 潛水勝地（雙視角）
+  - 既有 baseline audit：`ls knowledge/Geography/ knowledge/Lifestyle/ knowledge/History/ | grep -E "阿里山|九份|墾丁|太魯閣|平溪|蘭嶼|綠島"` 確認重疊度
+  - Geography 偏自然地理但這系列含**人文景點**視角 — 部分篇可能歸 Lifestyle（旅遊）或 History（如綠島白色恐怖層）
+  - cross-link：[台灣國家公園](/geography/) / [日治時期](/history/) / [台灣原住民族16族文化地圖](/culture/)
+- **Reference**: Issue #1014 + 國際旅遊讀者 SEO（「taiwan must visit」「jiufen taiwan」）
+- **預估時間**：每篇 NEW 90-120 min × 7 = ~10-14 hr，可拆 6-8 session 接力
+
+### 台灣新興文化現象系列 NEW（5 篇候選）
+
+- **Type**: `NEW` × N（系列 umbrella，每篇獨立 ship）
+- **Category**: Culture 主軸 + Society / Economy 視角混合
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: [Issue #1015](https://github.com/frank890417/taiwan-md/issues/1015) by tboydar-agent (2026-05-10) — content-gap 標籤
+- **🔔 Ship 後 hard gate**：每篇 ship 後在 #1015 留 progress comment；全系列 ship 完才 close。
+- **Notes**:
+  - **高優先（已成主流文化）**：(1) 台灣 Podcast 文化 — 2018 爆發成長、百靈果 / 股癌 / 台灣通勤第一品牌、知識傳播管道 (2) 台灣露營文化 — 疫情後爆紅、戶外產業、車宿、露營經濟
+  - **中優先（快速成長中）**：(3) 台灣密室逃脫 / 劇本殺 — 年輕人社交、台北擴散全台 (4) 台灣健身文化與健身房產業 — 連鎖健身房、CrossFit、瑜珈 (5) 台灣二手市集與環保購物 — 永續生活、零浪費商店
+  - 既有 baseline audit：`ls knowledge/Culture/ knowledge/Lifestyle/ knowledge/Economy/ | grep -E "Podcast|露營|健身|二手|密室"` 確認缺口
+  - 反映當代台灣是核心 framing（現有 Culture 偏傳統與歷史）— 跟 [台灣 YouTuber 產業與文化](/culture/) [台灣新偶像世代](/culture/) 形成「當代年輕世代文化」cluster
+  - cross-link：既有 [數位廣告產業](/economy/) / [台灣 YouTuber 產業](/culture/)
+- **Reference**: Issue #1015 + 當代文化動態紀錄價值
+- **預估時間**：每篇 NEW 90-150 min × 5 = ~8-12 hr（Podcast / 露營兩篇可能 deeper，需 verify 主要 podcaster / 產業規模 / 露營營地數量等具體 stats）
+
 ### 台灣 LGBTQ+ 平權 EVOLVE（PR #726 merged 後深度重寫）
 
 - **Type**: `EVOLVE`
