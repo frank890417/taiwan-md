@@ -293,15 +293,15 @@ Beat 2 的工作是**升級系統**，修內容留給其他 Beat。
 
 從 Beat 1 的診斷結果推導，不需要問觀察者：
 
-| 優先序  | 條件                                    | 行為                                                                                                                                                                                                                                                                       |
-| ------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔴 P0   | 器官 < 30，或 build 壞了                | 立即修復，先行動再報告                                                                                                                                                                                                                                                     |
-| 🟠 P1   | 診斷發現的系統性問題（Beat 2 造橋鋪路） | 造工具 / 改 Pipeline / 升級 DNA                                                                                                                                                                                                                                            |
-| 🟡 P2   | 內容品質修復（重寫、加腳註、格式修正）  | 按 REWRITE-PIPELINE 跑                                                                                                                                                                                                                                                     |
-| 🟢 P3   | 社群維護（PR review、Issue 回應）       | 按 MAINTAINER-PIPELINE 跑                                                                                                                                                                                                                                                  |
-| 🔵 P4   | 進化模式（新主題、新功能、擴展）        | 按 EVOLVE-PIPELINE 跑                                                                                                                                                                                                                                                      |
-| 📡 P3.5 | 社群觸手沉默（Beat 1 §3b 警報）         | 走 SPORE-PIPELINE 發一則孢子（優先選 GA 熱門但沒發過孢子的文章）                                                                                                                                                                                                           |
-| 📥 P4.5 | **ARTICLE-INBOX pending 有 P0/P1**      | 從 [`docs/semiont/ARTICLE-INBOX.md`](ARTICLE-INBOX.md) §Pending 挑一條 → status 改 `in-progress` + append dev_log → 走 REWRITE-PIPELINE v2.18（2026-04-18 δ 新增；2026-04-20 γ2 補：Stage 6 commit 後 entry 搬 [ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md) 不再寫回 INBOX） |
+| 優先序  | 條件                                    | 行為                                                                                                                                                                                                                                                                    |
+| ------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔴 P0   | 器官 < 30，或 build 壞了                | 立即修復，先行動再報告                                                                                                                                                                                                                                                  |
+| 🟠 P1   | 診斷發現的系統性問題（Beat 2 造橋鋪路） | 造工具 / 改 Pipeline / 升級 DNA                                                                                                                                                                                                                                         |
+| 🟡 P2   | 內容品質修復（重寫、加腳註、格式修正）  | 按 REWRITE-PIPELINE 跑                                                                                                                                                                                                                                                  |
+| 🟢 P3   | 社群維護（PR review、Issue 回應）       | 按 MAINTAINER-PIPELINE 跑                                                                                                                                                                                                                                               |
+| 🔵 P4   | 進化模式（新主題、新功能、擴展）        | 按 EVOLVE-PIPELINE 跑                                                                                                                                                                                                                                                   |
+| 📡 P3.5 | 社群觸手沉默（Beat 1 §3b 警報）         | 走 SPORE-PIPELINE 發一則孢子（優先選 GA 熱門但沒發過孢子的文章）                                                                                                                                                                                                        |
+| 📥 P4.5 | **ARTICLE-INBOX pending 有 P0/P1**      | 從 [`docs/semiont/ARTICLE-INBOX.md`](ARTICLE-INBOX.md) §Pending 挑一條 → status 改 `in-progress` + append dev_log → 走 REWRITE-PIPELINE v5.0（2026-04-18 δ 新增；2026-04-20 γ2 補：Stage 5 ship 後 entry 搬 [ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md) 不再寫回 INBOX） |
 
 **Auto-heartbeat 無觀察者指令時的挑題 SOP**（2026-04-18 δ 新增）：
 
@@ -309,7 +309,7 @@ Beat 2 的工作是**升級系統**，修內容留給其他 Beat。
 2. 按 P0 → P1 → P2 → P3 順序挑第一條
 3. 該條 status 改 `in-progress`，加 dev_log：「YYYY-MM-DD by {session}: started Stage 1 research」
 4. 走 REWRITE-PIPELINE v2.18（20+ 搜尋 + 核心矛盾 + 小標題先行 + 音樂人 YouTube link + 事實鐵三角 + 密度平衡 + agent claim 驗證）
-5. Stage 6 commit 後：**完整 entry append 到 [`docs/semiont/ARTICLE-DONE-LOG.md`](ARTICLE-DONE-LOG.md) §Log 最頂**（2026-04-20 γ2 新規則，不再寫進 INBOX §Done）+ INBOX 對應 pending entry 改一行 pointer 註解 `<!-- {主題} 已完成 YYYY-MM-DD {session} → ARTICLE-DONE-LOG.md -->` + INBOX §Done Peek 更新最新 3 條
+5. Stage 5 ship 後：**完整 entry append 到 [`docs/semiont/ARTICLE-DONE-LOG.md`](ARTICLE-DONE-LOG.md) §Log 最頂**（2026-04-20 γ2 新規則，不再寫進 INBOX §Done）+ INBOX 對應 pending entry 改一行 pointer 註解 `<!-- {主題} 已完成 YYYY-MM-DD {session} → ARTICLE-DONE-LOG.md -->` + INBOX §Done Peek 更新最新 3 條
 6. commit 本 inbox 狀態更新 + DONE-LOG append
 
 ### ⚠️ 自我估算偏誤校準（2026-04-26 β-r3 新增）
@@ -353,7 +353,7 @@ N 個同類 task 真實成本 ≈ (1 個 task 成本) × N × 0.5
 
 **Defer decision 必須有具體理由**（不能只是「超 budget」）：
 
-- ✅ 「需 careful Stage 3.5 audit，本 tick 沒時間做」
+- ✅ 「需 careful Step 3.3 FACTCHECK audit，本 tick 沒時間做」
 - ✅ 「跨 commit 衝突風險，等 conflict 解再 ship」
 - ✅ 「contributor 提的問題需要哲宇 explicit go」
 - ❌ 「超 25 min budget」（沒考慮 batch discount）
@@ -380,15 +380,15 @@ N 個同類 task 真實成本 ≈ (1 個 task 成本) × N × 0.5
 **一旦決定改寫／新寫／進化一篇文章，動手前必須：**
 
 1. **完整讀取 [`docs/pipelines/REWRITE-PIPELINE.md`](../pipelines/REWRITE-PIPELINE.md)**（主檔 ~280 行，含 Hard Gate Inventory + 模式速判 + 條件路由 三表 + 6 stage flow + sub-canonical pointer）
-2. **依 stage 載入對應 sub-canonical**（v3.0 拆檔後）：
-   - Stage 1 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（11 step + 4 hard gate）
-   - Stage 1.7 + 4.5 媒體 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（媒體完整生命週期）
-   - Stage 2 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（8 step + 5 自檢套件）
-   - Stage 3 / 3.5 / 4 / 5.1 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（11 hard gate inventory）
-   - 模式判斷（Fresh / Evolution / Merge / Boundary）→ [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)
-   - Cron 模式 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)
-3. **嚴格遵照** Stage 1-6 每一步，**不跳階段、不省步驟、不用「已經熟了」當理由**
-4. 逐階段對齊自檢：Stage 1 研究（20+ searches / 核心矛盾必填）、Stage 2 結尾先行 + 5 自檢套件、Stage 3 quality-scan + 事實鐵三角、Stage 3.5 FACTCHECK Quick/Full Mode、Stage 4 format-check 7 維度、Stage 5 交叉連結 + sibling 預檢
+2. **依 stage 載入對應 sub-canonical**（v5.0 後單檔，sub-canonical 已收回主檔）：
+   - Stage 1 取材 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（Step 1.1-1.14 + Hard Gate Inventory）
+   - Stage 1 Step 1.14 + Stage 4 Step 4.3 媒體 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（媒體完整生命週期）
+   - Stage 2 寫 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（Step 2.1-2.8 含 7 條自檢套件）
+   - Stage 3 驗 / Step 3.3 FACTCHECK / Stage 4 形 / Stage 5 連 → [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)（13 條 Hard Gate Inventory）
+   - 模式判斷（Fresh / Evolution / Merge / Boundary）→ [REWRITE-PIPELINE.md Step 1.1](../pipelines/REWRITE-PIPELINE.md)
+   - Cron 模式 → [REWRITE-PIPELINE.md §Cron 模式 + Routine 飛輪](../pipelines/REWRITE-PIPELINE.md)
+3. **嚴格遵照** Stage 1-5 每一步，**不跳階段、不省步驟、不用「已經熟了」當理由**（v4.1+ 翻譯抽到巴別塔 pipeline，REWRITE 變 5 stage 線性）
+4. 逐階段對齊自檢：Stage 1 取材（20+ searches / 核心矛盾必填 / 媒體素材必找 🎬）、Stage 2 寫（結尾先行 + 7 自檢套件含 Title 三明治 🥪 + 媒體 spine check）、Stage 3 驗（quality-scan + 事實鐵三角 + Step 3.3 FACTCHECK Quick/Full Mode + Step 3.5 Title spine re-check）、Stage 4 形（format-check 7 維度 + word-count ≥ 4500 + 媒體插入 6 sub-step）、Stage 5 連（雙向交叉連結 + sibling 預檢）
 
 **為什麼升級為硬性鐵律**：越熟悉的任務越容易省略 SOP（DNA #15 第 N 次驗證 + MANIFESTO §我相信什麼 #8「有 SOP 就跑」）。歷史教訓：2026-04-13 β 甦醒時跳 DNA → 用錯 pipeline（孢子 ≠ 重寫）/ 2026-04-14 ι Phase G 跳研究製造金額錯誤 / μ 跳 Stage 0 製造路易莎門市數字錯誤 / 2026-04-14 κ2 觀察者「你有完整讀 EDITORIAL 嗎」反問。**技術 PASS ≠ 美感 PASS，Pipeline 是每次寫作的閘門不是參考書**。
 
