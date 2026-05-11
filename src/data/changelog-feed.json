@@ -1,7 +1,121 @@
 {
-  "generatedAt": "2026-05-10T22:15:27.255Z",
+  "generatedAt": "2026-05-11T10:13:19.797Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "01d9d0e734ded7ece79962288ec6d30f9a81faf0",
+      "date": "2026-05-11T16:09:20+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] rewrite: 國立臺灣歷史博物館 NEW — 第八展區叫「你也是寫歷史的人」 (#1028)"
+    },
+    {
+      "hash": "1c31b4990bfe48d921f0b4760e374c6d526d7101",
+      "date": "2026-05-11T14:34:59+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: Twinkle Hub Layer 1 dogfood — 100% accuracy / $0 cost / FACTCHECK 整合就緒 (#1027)"
+    },
+    {
+      "hash": "58437285eb4dbb65457a3b926af4a332dbfdda99",
+      "date": "2026-05-11T13:50:18+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: pre-commit profile 對齊 ci-deploy (全 16 plugin) + ARTICLE-INBOX P0 +3 系列 (issue #1013-1015 街頭小吃/景點地標/新興文化) (#1026)"
+    },
+    {
+      "hash": "9b5cb286e9d5b34c93ad07d9e6f5cfb11fc82e7c",
+      "date": "2026-05-11T13:41:06+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: CI emergency — 雜誌.md +featured + MTV包廂.md +subcategory + 欄位順序對齊 (#1025)"
+    },
+    {
+      "hash": "8fa5a22a296e3465f3600abbc30993b95e0244ae",
+      "date": "2026-05-11T11:58:37+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: MAINTAINER §collect-and-merge v2 — maintainer 收割 contributor/observer PR (v1.2 → v1.3) (#1023)"
+    },
+    {
+      "hash": "546ec00fd177de55050d63ad6cf9ead500c04578",
+      "date": "2026-05-11T11:46:56+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: MANIFESTO §薄殼鐵律 v1.7 + ROUTINE 飛輪 SSOT 全層修補 (#1022)"
+    },
+    {
+      "hash": "d44a39b7bab9e9e71a7cd23f86bd40a07191891c",
+      "date": "2026-05-11T11:28:27+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] fix: prevent FOUC by hiding page until fonts loaded (#401 / picked up from #1012) (#1020)"
+    },
+    {
+      "hash": "2faa5728be4da5c4a8502be91c8b21fb420bbc85",
+      "date": "2026-05-11T11:28:24+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: idlccp1984 batch (#968 #1005-1009) — frontmatter + footnote APA + 阿翰 placeholder fill (#1019)"
+    },
+    {
+      "hash": "eea25ef1a49faa7b5af254ab45195c98481bfc27",
+      "date": "2026-05-11T11:19:13+08:00",
+      "author": "idlccp1984",
+      "message": "Create 八田與一.md (#1009)"
+    },
+    {
+      "hash": "c538915470bc3b20f4cd0bd9677a916f2854c4e3",
+      "date": "2026-05-11T11:19:10+08:00",
+      "author": "idlccp1984",
+      "message": "Create 阿翰.md (#1008)"
+    },
+    {
+      "hash": "efd9b1c88b7c71648e23b608e72d11c705aafc0b",
+      "date": "2026-05-11T11:19:06+08:00",
+      "author": "idlccp1984",
+      "message": "Create 雜誌.md (#1007)"
+    },
+    {
+      "hash": "4a319c58d2b696558019e0ddf5aa84a8b7a936f4",
+      "date": "2026-05-11T11:19:03+08:00",
+      "author": "idlccp1984",
+      "message": "Create 電競.md (#1006)"
+    },
+    {
+      "hash": "494c888a6f5f4d57ecdee587ef9153ba5a42c779",
+      "date": "2026-05-11T11:18:59+08:00",
+      "author": "idlccp1984",
+      "message": "Create 螺絲.md (#1005)"
+    },
+    {
+      "hash": "797d8279af95139ad40a9c60a78a418c32ce3a6b",
+      "date": "2026-05-11T11:18:56+08:00",
+      "author": "idlccp1984",
+      "message": "Create MTV包廂.md (#968)"
+    },
+    {
+      "hash": "73a543bf4605014ff50f6c5c04d531fd0f5650f2",
+      "date": "2026-05-11T11:03:19+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: REWRITE-PIPELINE v4.1 → v5.0 — Stage spine restoration (#1018)"
+    },
+    {
+      "hash": "1c45d83c8e8cbc598d4a6b522160410248899aff",
+      "date": "2026-05-11T09:24:55+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-05-11 09:19 (#1017)"
+    },
+    {
+      "hash": "f9f657bb7128732ffa1c111f34485a9a5199da24",
+      "date": "2026-05-11T09:18:21+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] twmd-babel: Tier 0a ×67 (5 langs P2 stale clear) — 2026-05-10 22:42 (#998)"
+    },
+    {
+      "hash": "4e5e35703a2bdf9f2418b62a70152c3ba36e7537",
+      "date": "2026-05-11T09:18:11+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-05-11 06:15 (#1011)"
+    },
+    {
+      "hash": "68ea10a621923fc16e23726b23591b1596708090",
+      "date": "2026-05-11T09:17:32+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [routine] twmd-data-refresh-am: dashboard sync — 2026-05-11 06:15 (#1010)"
+    },
     {
       "hash": "9c91f36578f18f61f12df66c0ceb4fd2e264833d",
       "date": "2026-05-11T00:12:43+08:00",

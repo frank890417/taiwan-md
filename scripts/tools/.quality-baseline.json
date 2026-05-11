@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-05-10T22:15:28Z",
-  "total": 688,
-  "flagged": 468,
+  "timestamp": "2026-05-11T10:13:21Z",
+  "total": 695,
+  "flagged": 473,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -253,6 +253,11 @@
       "file": "economy/台灣企業：義美食品.md",
       "score": 5,
       "reasons": "空洞詞9個; 未人工審核; 塑膠句4個"
+    },
+    {
+      "file": "economy/螺絲.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句2個; 稀薄段落×4"
     },
     {
       "file": "economy/台灣企業：長榮海運.md",
@@ -625,9 +630,19 @@
       "reasons": "年份2個; 未人工審核; 連續bullet6行; 塑膠句1個; 破折號5個; 後段清單堆砌40%; 稀薄段落×5; 品質衰退前14%後8%; 無腳註"
     },
     {
+      "file": "lifestyle/MTV包廂.md",
+      "score": 4,
+      "reasons": "未人工審核; 破折號15個; 稀薄段落×1"
+    },
+    {
       "file": "lifestyle/台灣市場文化與傳統市場.md",
       "score": 5,
       "reasons": "空洞詞8個; 未人工審核; 塑膠句8個"
+    },
+    {
+      "file": "lifestyle/電競.md",
+      "score": 8,
+      "reasons": "空洞詞12個; 未人工審核; 塑膠句7個; 稀薄段落×4"
     },
     {
       "file": "lifestyle/尪仔標.md",
@@ -1138,6 +1153,11 @@
       "file": "people/豬哥亮.md",
       "score": 11,
       "reasons": "年份僅0個; 空洞詞9個; 未人工審核; 塑膠句3個; 教科書開場; 稀薄段落×1"
+    },
+    {
+      "file": "people/阿翰.md",
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句1個; 破折號13個; 稀薄段落×1"
     },
     {
       "file": "people/蔣中正.md",
@@ -1947,7 +1967,7 @@
     {
       "file": "history/台灣島史觀.md",
       "score": 9,
-      "reasons": "塑膠句6個; 後段清單堆砌43%; 稀薄段落×3; 無腳註"
+      "reasons": "塑膠句6個; 後段清單堆砌45%; 稀薄段落×3; 無腳註"
     },
     {
       "file": "history/台灣森林開發史.md",
@@ -2153,6 +2173,11 @@
       "file": "culture/藍染.md",
       "score": 5,
       "reasons": "未人工審核; 連續bullet4行; 塑膠句1個; 稀薄段落×2"
+    },
+    {
+      "file": "culture/雜誌.md",
+      "score": 6,
+      "reasons": "未人工審核; 塑膠句2個; 破折號16個; 稀薄段落×1"
     },
     {
       "file": "culture/台灣原住民族16族文化地圖.md",
