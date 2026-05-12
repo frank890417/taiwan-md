@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-05-11T22:11:31.608932Z",
+  "lastUpdated": "2026-05-12T11:19:22.980479Z",
   "schemaVersion": "1.1",
   "totals": {
-    "count": 71,
+    "count": 73,
     "platforms": {
-      "x": 31,
-      "threads": 36,
+      "x": 32,
+      "threads": 37,
       "other": 4
     },
     "languages": {
-      "zh": 64,
+      "zh": 66,
       "en": 7
     },
     "templates": {
-      "A2": 12,
+      "A2": 14,
       "A": 26,
       "B": 27,
       "other": 2,
@@ -21,6 +21,38 @@
     }
   },
   "recent": [
+    {
+      "n": 73,
+      "date": "2026-05-12",
+      "platform": "x",
+      "article": "蘋果西打",
+      "articleSlug": "蘋果西打",
+      "category": "food",
+      "template": "A2 首尾呼應 + 60 年商標借殼反轉",
+      "url": "https://x.com/taiwandotmd/status/2054158652588863776",
+      "highlight": "**同 #72 內容**：X inline URL 版（utm_campaign=s73）。哲宇拍板 override default「Threads only」allocation，X 也發 — 商業財經 / 公司治理 angle 對 X 投資族群可能 resonant，加上掏空案 + 4.93 億賣地撐 EPS 雙重 reveal 對 X niche 商業社群有 reach 潛力。Blueprint: [SPORE-BLUEPRINTS/72-蘋果西打.md](SPORE-BLUEPRINTS/72-蘋果西打.md)。",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
+    {
+      "n": 72,
+      "date": "2026-05-12",
+      "platform": "threads",
+      "article": "蘋果西打",
+      "articleSlug": "蘋果西打",
+      "category": "food",
+      "template": "A2 首尾呼應 + 60 年商標借殼反轉",
+      "url": "https://www.threads.com/@taiwandotmd/post/DYPI9W0kyPP",
+      "highlight": "**接續 PR #1041 蘋果西打 EVOLVE（commit `e10215bc7`，60 年完整記憶 + 10 紅旗事實校正 + 餐桌文化擴展 + plugin 雙修）+ /twmd-spore directive ship**：開場「熱炒店冰箱裡 60 年沒換過位置的那瓶金黃氣泡飲，它的商標前 30 年從來不在台灣手上」→ 1965 李鴻略 + 美國謝斯尼斯 + 屈臣氏 + 1979 台美斷交「美國」二字消失 + 商標流轉（美國果是高 → 賴比瑞亞商果是高國際）→ 1995 孫幼英 80 萬美元贖回 + 「考量大飲營收高達 95% 為販售蘋果西打」verbatim → 24 年後她從自己救回來的公司掏走 1.08 億 reverse reveal → 收尾 KTV 玫瑰紅 + 阿嬤辦桌 + 圭賢度小月 verbatim「好好喝喔，這個韓國沒有對吧？」+ 「一瓶氣泡飲，60 年裡把台灣的金融、外交、食安、文化都壓進同一個塑膠瓶」list-summary。Tier 1b 具體性槓桿（熱炒店冰箱 anchor + 60 年弧線）+ 中段結構性題目（商業治理）疊加，預期 D+7 10K-65K。spore-writing hard=0 / warn=0 / 三板斧 不是 0 / —— 0 / 不僅 0 ✅✅✅。9 條 fact 全來自 article 26 footnote 既有 verify。Threads 主貼不含 URL，self-reply 加 utm_campaign=s72 連結。配圖 landscape 1600×900 + square 1080×1080。Blueprint: [SPORE-BLUEPRINTS/72-蘋果西打.md](SPORE-BLUEPRINTS/72-蘋果西打.md)。",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
     {
       "n": 71,
       "date": "2026-05-10",
@@ -48,10 +80,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM",
       "highlight": "**接續 PR #996 EVOLVE 後半部完整重寫（4520 CJK chars + 21 footnotes + 4 個新節）+ 3-Angle 提案觀察者拍板 Angle A**：1979 雷虎台中玩具飛機 → 2025-09-21 Overkill 通過 Blue UAS 開場 → 39+165 中只有 1 reveal → 烏克蘭 2025 月產 20 萬 vs 台灣 1.25 兆 8 年 21 萬 = 一個半月產量數字反差 → 雷虎月產 1,000 架 vs 寶山 2 奈米 5 萬片晶圓哲學對位收尾。Tier 1b 具體性槓桿（玩具飛機 anchor 46 年弧線）+ 中段結構性題目（規模反差 + 半導體 vs 無人機產業哲學）雙力疊加。spore-writing hard=0 / prose-health hard=0 score=2 / 三板斧 不是 0 / —— 0 / 不僅 0 ✅✅✅。320 CJK / 5 段 / 段密度 1/64 sweet spot。Threads 主貼不含 URL，self-reply 加 utm_campaign=s70 連結。配圖 landscape + square（prod URL deploy 後重產，抓到 EVOLVE 新 title「從台中玩具飛機到藍色清單，一張入場券給了雷虎」）。EVOLVE 鏈：PR #988 Blue UAS section + #994 title+desc 升級 + #996 後半部全文重寫 + word-count plugin + prose-health line/前後文 + 本 spore #997。",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 5140,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 69,
@@ -64,39 +96,7 @@
       "url": "https://x.com/taiwandotmd/status/2053100425730269544",
       "highlight": "**同日 EVOLVE article ship（PR #943, commit `ea63645e1`）+ A+B 混合紀實版**：1985-09-04 李國鼎見 14 天提案「共同晶圓廠」+ 1987 創立「我只想要活下去」 verbatim → 38 年後鄭家祖墳 1844（道光二十四年）4000 坪為 2 奈米廠遷葬「滅村」邱振瑋議員 verbatim + 同時段 2025-03-03 白宮川普「Right now, he's the most important man in the room」 verbatim → Mode D 結尾「56 歲那個人沒在那個房間了」反轉。Tier 1a 雙人物槓桿（張忠謀國民級 + 川普國際 newsworthy）。**v3.2 → v3.3 canonical evolution**：哲宇兩輪 redirect — round 1「不要斷斷續續，要紀實感」（推 v7 連貫 prose 3 段 312 字）→ round 2 ship 後實戰「分成 4-5 個段落比較健康好閱讀」（v3.3 sweet spot 校準：300 字 4-5 段 / 每段 50-80 字 / 段密度 1/60 ~ 1/80，避免 monolithic 太擠）。SPORE-WRITING §紀實感 vs 短句斷續 同 PR ship。spore-writing hard=0 / prose-health hard=0 / 三板斧 不是 0 / —— 1 / 不僅 0 ✅。X inline URL 版（utm_campaign=s69）。Blueprint: [SPORE-BLUEPRINTS/68-台灣企業：台積電.md](SPORE-BLUEPRINTS/68-台灣企業：台積電.md)。",
       "views_7d": null,
-      "views_latest": null,
-      "engagements_7d": null,
-      "rate_7d": null,
-      "backfilled": false
-    },
-    {
-      "n": 68,
-      "date": "2026-05-09",
-      "platform": "threads",
-      "article": "台灣企業：台積電",
-      "articleSlug": "台灣企業：台積電",
-      "category": "economy",
-      "template": "A+B 混合紀實版 / Mode D 反轉",
-      "url": "https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z",
-      "highlight": "**同 #69 內容**：Threads 主貼不含 URL，self-reply 加連結（utm_campaign=s68）。觀察者實戰 ship 後 callout「分成 4-5 個段落比較健康好閱讀」→ 升 SPORE-WRITING v3.3 段落密度 sweet spot（300 字 4-5 段 / 每段 50-80 字）。配圖 square 1080×1080。台積電知名度全方位高（張忠謀國民級 + 川普國際 newsworthy + 即時事件 2025-03-03 白宮 + 2025-05 鄭家遷葬 + AI 半導體熱潮 context）= Threads + X 雙平台同步。Blueprint: [SPORE-BLUEPRINTS/68-台灣企業：台積電.md](SPORE-BLUEPRINTS/68-台灣企業：台積電.md)。",
-      "views_7d": null,
-      "views_latest": null,
-      "engagements_7d": null,
-      "rate_7d": null,
-      "backfilled": false
-    },
-    {
-      "n": 67,
-      "date": "2026-05-08",
-      "platform": "x",
-      "article": "聶永真",
-      "articleSlug": "聶永真",
-      "category": "people",
-      "template": "A2 首尾呼應 + Scene-List-Scene",
-      "url": "https://x.com/taiwandotmd/status/2052721374570106952",
-      "highlight": "**EVOLVE Round 2 ship 同日孢子化（commit `a3052a4ad`）**：Scene-List-Scene 結構 — 開場 2014/03/24 凌晨四點紐時頭版「Democracy at 4am」+ Emily Dickinson 副標 → reveal 短句「這是聶永真做的。」→ 中段二十年作品壓縮 list（兩年前 AGI 首位 / 三度金曲 林宥嘉/蘇打綠/田馥甄/五月天 / 十二年六項作品：點亮台灣 + 兩屆就職 + Taiwan Can Help 1028 萬 + 經濟部+觀光署+中油+台電識別系統）→ 結尾 scene 2026/05/08 早上 9:30 + 下午 14:36 黃智陽舉證 1965《台電月刊》第 25 期 + 5 小時三層論述 →「在做設計師聶永真之前，他是公民聶永真」自陳引語收。雙場景括號夾住中段二十年。**v1→v2 polish**：哲宇 callout「設計者沒在頭版署名，但設計圈知道是聶永真做的」強調錯方向（讀者本來就知道是聶永真做的）→ 改短句「這是聶永真做的。」獨立段 reveal 直接有力（302→288 CJK -14 字更精簡）。§11 hard=0 / warn=1 / score=1 ≤ 3 PASS / 三板斧全 0（不是 0 / —— 0 / 不僅 0）/ 19 claim fact-check 全 ✅。X inline URL 版（utm_campaign=s67）。配圖 landscape 1600×900 + square 1080×1080 雙圖（justfont rixingsong-semibold + BrandMark）。Blueprint: [SPORE-BLUEPRINTS/66-聶永真.md](SPORE-BLUEPRINTS/66-聶永真.md)。",
-      "views_7d": null,
-      "views_latest": 4688,
+      "views_latest": 6,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -195,77 +195,21 @@
   "amplification": [],
   "platformComparison": {
     "x": {
-      "count": 24,
-      "avgViews": 22225,
+      "count": 28,
+      "avgViews": 20127,
       "maxViews": 136474,
-      "avgRate": 3.93,
+      "avgRate": 3.92,
       "maxRate": 10.71
     },
     "threads": {
-      "count": 25,
-      "avgViews": 34506,
+      "count": 28,
+      "avgViews": 31764,
       "maxViews": 300000,
-      "avgRate": 5.93,
+      "avgRate": 6.23,
       "maxRate": 14.38
     }
   },
   "backfillWarnings": [
-    {
-      "n": 60,
-      "article": "黃魚鴞",
-      "platform": "x",
-      "publishedDays": 8,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2051235570995839479"
-    },
-    {
-      "n": 59,
-      "article": "黃魚鴞",
-      "platform": "threads",
-      "publishedDays": 8,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DX6Xxd6kQan"
-    },
-    {
-      "n": 65,
-      "article": "寶島聯播網訪談（自述版）",
-      "platform": "x",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2051684242749575450"
-    },
-    {
-      "n": 64,
-      "article": "寶島聯播網訪談",
-      "platform": "x",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2051682413823336822"
-    },
-    {
-      "n": 63,
-      "article": "寶島聯播網訪談",
-      "platform": "threads",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DX9i3zClPj4"
-    },
-    {
-      "n": 62,
-      "article": "台灣與史瓦帝尼",
-      "platform": "x",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2051577099341967464"
-    },
-    {
-      "n": 61,
-      "article": "台灣與史瓦帝尼",
-      "platform": "threads",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DX8zEYFAe9c"
-    },
     {
       "n": 67,
       "article": "聶永真",
@@ -313,6 +257,22 @@
       "publishedDays": 2,
       "status": "waiting",
       "url": "https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM"
+    },
+    {
+      "n": 73,
+      "article": "蘋果西打",
+      "platform": "x",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://x.com/taiwandotmd/status/2054158652588863776"
+    },
+    {
+      "n": 72,
+      "article": "蘋果西打",
+      "platform": "threads",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://www.threads.com/@taiwandotmd/post/DYPI9W0kyPP"
     }
   ],
   "noUrlHistorical": [
@@ -379,10 +339,35 @@
     {
       "week": "2026-W19",
       "published": 13,
-      "avgViews": 6953
+      "avgViews": 6280
+    },
+    {
+      "week": "2026-W20",
+      "published": 2,
+      "avgViews": 0
     }
   ],
   "harvestStatus": [
+    {
+      "n": 73,
+      "article": "蘋果西打",
+      "platform": "x",
+      "publishDate": "2026-05-12",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
+    },
+    {
+      "n": 72,
+      "article": "蘋果西打",
+      "platform": "threads",
+      "publishDate": "2026-05-12",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
+    },
     {
       "n": 71,
       "article": "台灣無人機產業",
@@ -390,8 +375,8 @@
       "publishDate": "2026-05-10",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 70,
@@ -400,8 +385,8 @@
       "publishDate": "2026-05-10",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 69,
@@ -410,8 +395,8 @@
       "publishDate": "2026-05-09",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 68,
@@ -420,8 +405,8 @@
       "publishDate": "2026-05-09",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 67,
@@ -430,8 +415,8 @@
       "publishDate": "2026-05-08",
       "daysSincePublish": 4,
       "withinHarvestWindow": true,
-      "harvestCount": 2,
-      "lastHarvest": "2026-05-09 10:53"
+      "harvestCount": 3,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 66,
@@ -440,8 +425,8 @@
       "publishDate": "2026-05-08",
       "daysSincePublish": 4,
       "withinHarvestWindow": true,
-      "harvestCount": 2,
-      "lastHarvest": "2026-05-09 10:53"
+      "harvestCount": 3,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 65,
@@ -450,8 +435,8 @@
       "publishDate": "2026-05-05",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 2,
-      "lastHarvest": "2026-05-08 23:46"
+      "harvestCount": 3,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 64,
@@ -460,8 +445,8 @@
       "publishDate": "2026-05-05",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-05-08 23:46"
+      "harvestCount": 2,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 63,
@@ -470,8 +455,8 @@
       "publishDate": "2026-05-05",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-05-08 23:46"
+      "harvestCount": 2,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 62,
@@ -480,8 +465,8 @@
       "publishDate": "2026-05-05",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-05-08 23:46"
+      "harvestCount": 2,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 61,
@@ -490,8 +475,8 @@
       "publishDate": "2026-05-05",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-05-08 23:46"
+      "harvestCount": 2,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 60,
@@ -500,8 +485,8 @@
       "publishDate": "2026-05-04",
       "daysSincePublish": 8,
       "withinHarvestWindow": false,
-      "harvestCount": 2,
-      "lastHarvest": "2026-05-08 23:46"
+      "harvestCount": 3,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 59,
@@ -510,8 +495,8 @@
       "publishDate": "2026-05-04",
       "daysSincePublish": 8,
       "withinHarvestWindow": false,
-      "harvestCount": 2,
-      "lastHarvest": "2026-05-08 23:46"
+      "harvestCount": 3,
+      "lastHarvest": "2026-05-12"
     },
     {
       "n": 58,
