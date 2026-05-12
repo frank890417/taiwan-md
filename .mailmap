@@ -14,3 +14,8 @@
 Che-Yu Wu <cheyu.wu@monoame.com> <frank890417@gmail.com>
 Che-Yu Wu <cheyu.wu@monoame.com> Wu Che Yu <frank890417@gmail.com>
 Che-Yu Wu <cheyu.wu@monoame.com> frank890417 <cheyu.wu@monoame.com>
+
+# ── Zaious ────────────────────────────────────────────────
+# GitHub user.name 含 "(@ChronicleCore)" 不適合當 URL slug，
+# 統一為 canonical "Zaious" (對應 GitHub login 同名)。
+Zaious <zaious.design@gmail.com> Zaious (@ChronicleCore) <zaious.design@gmail.com>

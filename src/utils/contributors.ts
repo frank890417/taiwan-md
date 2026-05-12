@@ -84,8 +84,11 @@ export function buildGitInfoCache(knowledgePath: string) {
   const cache = new Map<string, GitInfo>();
 
   try {
+    // Use %aN (mailmap-aware author name) + %aE (mailmap-aware email)
+    // instead of %an/%ae so .mailmap consolidates author variants.
+    // See: https://git-scm.com/docs/git-log#_pretty_formats
     const logOutput = execSync(
-      `git log --full-history -z --name-only --format="COMMIT|%H|%aI|%an|%ae" -- "${knowledgePath}"`,
+      `git log --full-history -z --name-only --format="COMMIT|%H|%aI|%aN|%aE" -- "${knowledgePath}"`,
       { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
     );
     let currentHash = '';
