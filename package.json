@@ -8,7 +8,7 @@
   "scripts": {
     "postinstall": "bash scripts/core/sync.sh",
     "dev": "npm run prebuild:sync && astro dev",
-    "prebuild": "npm run prebuild:sync && run-p prebuild:api prebuild:map prebuild:search prebuild:dashboard prebuild:changelog prebuild:contributors prebuild:supporters prebuild:china-terms prebuild:spores prebuild:buildperf prebuild:langswitch prebuild:og",
+    "prebuild": "npm run prebuild:sync && run-p prebuild:api prebuild:map prebuild:search prebuild:dashboard prebuild:changelog prebuild:contributors prebuild:verify-contributors prebuild:supporters prebuild:china-terms prebuild:spores prebuild:buildperf prebuild:langswitch prebuild:og",
     "prebuild:sync": "bash scripts/core/sync.sh",
     "prebuild:api": "node scripts/core/generate-api.js",
     "prebuild:map": "node scripts/core/generate-map-markers.js",
@@ -16,6 +16,7 @@
     "prebuild:dashboard": "python3 scripts/tools/article-health.py --baseline-out scripts/tools/.quality-baseline.json && node scripts/core/generate-dashboard-data.js",
     "prebuild:changelog": "node scripts/core/generate-changelog-data.js",
     "prebuild:contributors": "node scripts/core/generate-contributors-data.js",
+    "prebuild:verify-contributors": "node scripts/tools/verify-contributors.mjs",
     "prebuild:supporters": "node scripts/core/generate-supporters-data.js",
     "prebuild:china-terms": "python3 scripts/core/extract-china-terms.py --quiet",
     "prebuild:spores": "python3 scripts/tools/generate-dashboard-spores.py",
