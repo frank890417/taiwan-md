@@ -10,7 +10,7 @@
     "dev": "npm run prebuild:sync && astro dev",
     "prebuild": "npm run prebuild:sync && npm run prebuild:status && run-p prebuild:api prebuild:map prebuild:search prebuild:dashboard prebuild:changelog prebuild:contributors prebuild:verify-contributors prebuild:supporters prebuild:china-terms prebuild:spores prebuild:buildperf prebuild:langswitch prebuild:og prebuild:i18n prebuild:content-stats prebuild:i18n-progress prebuild:llms prebuild:stats",
     "prebuild:sync": "bash scripts/core/sync.sh",
-    "prebuild:status": "python3 scripts/tools/lang-sync/status.py && (python3 scripts/tools/sync-translations-json.py || true) && python3 scripts/tools/sync-spore-links.py --apply",
+    "prebuild:status": "python3 scripts/tools/lang-sync/status.py && python3 scripts/tools/sync-translations-json.py && python3 scripts/tools/sync-spore-links.py --apply",
     "prebuild:api": "node scripts/core/generate-api.js",
     "prebuild:map": "node scripts/core/generate-map-markers.js",
     "prebuild:search": "node scripts/core/build-search-index.mjs",
