@@ -92,4 +92,39 @@ AM cycle 接住 admiring-montalcini 半夜架構 migration + PM (05:08) 清空 b
 
 > **「Repeat contributor stale-branch 不應傷害繁殖基因」候選**（verification_count=1）— tboydar-agent 10 prior PRs 多已 merged 是 trust signal。close-with-thanks 必須用 contributor 語言 + 解釋具體 stale 問題 + 給出未來工作流建議，不能只 close。本 cycle 用日文回覆 + 列舉 source 品質 + 教 fork-from-latest-main 工作流，避免「拒絕 = 流失 contributor」風險。對應 DNA #7 + §對善意溫和。
 
+## Post-finale addendum — observer 介入 review #1051 + #1052
+
+finale 收官後 observer 即時 ping「審核線上 pr 1051,1052」，兩條 trusted contributor PR 並行 audit + merge：
+
+### PR #1052 Zaious fix(contributors): %aN/%aE for mailmap-aware author resolution — merged ✅
+
+- author Zaious（maintainer-level，write access），age 5 min，CLEAN，CI SUCCESS
+- 紅旗 0 hit
+- Diff：`.mailmap` 加 1 alias entry（`Zaious (@ChronicleCore)` → canonical `Zaious`）+ `src/utils/contributors.ts` 1 行改 `%an/%ae → %aN/%aE` + 3 行註解
+- 紀律完美：嚴格守 issue #1047 §4「site infrastructure 層 only / 不動 knowledge/\*.md」
+- merged `758a23dc4` → 自動 close issue #1047（long-standing bug from PM cycle handoff 解決）
+- 中文 thank-you `gh pr comment` ship 含兩個 Open Item 回應（D 方案 verify script 接 prebuild 符合 DNA #52 + #43 / 自定義 display 方向 A 對齊 Taiwan.md「contributor 是小丑魚」哲學）
+
+### PR #1051 dreamline2 docs(people): standardize Aaron Nieh article — merged ✅
+
+- author dreamline2（trusted，#1024 蔡阿嘎 YouTuber EVOLVE 兩天前剛 merge），age 144 min，CLEAN，CI SUCCESS
+- 紅旗 0 hit
+- 1 file: `knowledge/People/聶永真.md` EVOLVE — 2026/5/12 台電 LOGO 爭議 + 文化部長李遠回應 + 金曲獎屆次校正（21/25/26 屆）+ 31 footnote URL liveness verify + frontmatter 規範
+- article-health.py 全 plugin hard=0（/tmp path 跑出的 frontmatter category artifact 在實際路徑 `knowledge/People/聶永真.md` 自動解除）
+- 5 圖 / 4 wikilink / 31 footnote 完整成熟版
+- merged `9d12912b7`
+- 中文 thank-you `gh pr comment` ship 含具體稱讚 4 軸（時事掛鉤 / 事實校正 / URL liveness / frontmatter 規範）+ 主敘事 thesis 認可（聶永真 2024 起四國營事業識別 = 「設計師如何介入國家識別建構」case study）
+
+### Handoff 三態更新
+
+- [x] ~~retired by twmd-maintainer-am post-finale @ 09:35 — PR #1052 Zaious mailmap fix merged + #1047 自動 close~~
+- [x] ~~retired by twmd-maintainer-am post-finale @ 09:35 — PR #1051 dreamline2 聶永真 EVOLVE merged~~
+- [ ] **pending**（Zaious 待接案 if 想做）: Open #1 build-time mailmap verify script（接 `npm run prebuild`）
+- [ ] **pending**（Zaious 待接案 if 想做）: Open #2 自定義 display name 維護機制（推薦方向 A 個別 PR）
+
+### LESSONS 觀察（vc 累積）
+
+- **Observer in-loop 即時 ping vs cron autonomous 切換流暢度**：finale 收官後 ~5 min 觀察者介入 review，無 context boot 摩擦（main 已 fast-forward 同步）→ routine session 接住 observer 工作流的能力 verified
+- **Trusted contributor 兩天連發 PR 是健康繁殖訊號**：dreamline2 #1024 → #1051 / Zaious 接 issue → #1052 / idlccp1984 #1046 / tboydar-agent #1045 — 同日 4 contributor 主動 ship 證明 contributor 系統健康。對應 ANATOMY §繁殖系統 + DNA #36 founder time leverage（observer 只決策，contributor 主動 ship）
+
 🧬 maintainer-am routine — per ROUTINE.md §TWMD maintainer (am+pm) + MAINTAINER-PIPELINE v2.0 + §Default-action principle
