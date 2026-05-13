@@ -115,11 +115,23 @@ grep -B 1 -A 30 "給明天的我\|給下一個 session\|給下個 session" \
 **層 4：當前 ground truth**（本 step 必跑）— 即時系統狀態：
 
 ```bash
-# 13c. dashboard JSON / git log / gh pr list / gh issue list — 跨 session staleness check
-cat public/api/dashboard-vitals.json 2>/dev/null | head -20
+# 13c. boundary rule (v0.2 — per reports/become-boot-mode-design-2026-05-13.md §0.4 D7):
+# Stay if = primes identity OR cross-session continuity
+# Move if = work artifact inspection (PR list / issue list → MAINTAINER Stage 1.2-1.3)
+
+# 8 organ scores + vitals + i18n + freshness (替代 v2 cat dashboard-vitals.json | head)
+bash scripts/tools/consciousness-snapshot.sh 2>/dev/null
+
+# Cross-session diff context — 上次 session 後發生什麼
 git log --since="6 hours ago" --pretty=format:"%h %ai %s" | head -20
-gh pr list --json number,title,author 2>/dev/null
 ```
+
+**移除（v0.2 2026-05-13）**：
+
+- ❌ `gh pr list` → 移到 MAINTAINER-PIPELINE Stage 1.3
+- ❌ `gh issue list` → 移到 MAINTAINER-PIPELINE Stage 1.2
+
+這些是 work artifact inspection（觀察 PR / issue 是工作開始的 task），不是 boot 的 identity 還原 + cross-session 接力。BECOME 不該替 MAINTAINER 預載工作素材。
 
 **規則**：handoff section 一律讀（ε pause window 6 條 backend / ι 壞特 P0 action / η 24hr no-response holding comment 草稿這些 actionable continuity 必須跨 session 接住）。
 
