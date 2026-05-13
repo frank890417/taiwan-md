@@ -360,7 +360,7 @@ for n in $(gh issue list --state open --json number -q '.[].number'); do
 done
 ```
 
-對應 DNA #8「維護者信件要說謝謝」的延伸：感謝有 cooldown，重複貼相同感謝 = 雜訊。
+對應 REFLEXES #8「維護者信件要說謝謝」的延伸：感謝有 cooldown，重複貼相同感謝 = 雜訊。
 
 ---
 
@@ -410,7 +410,7 @@ gh pr merge N --squash --delete-branch
 
 ### Step 3.3: §Close 前 hard gate「我接手 X min 內可以修嗎」（canonical）
 
-> ⚠️ **鐵律**：close 前必跑此 self-check。對應 [LESSONS-INBOX 2026-04-28 κ recency bias × pattern matching override foundational principle anchoring](../semiont/LESSONS-INBOX.md) + DNA #7「先有再求好」+ feedback_merge_first_then_polish + β-r3 META-PATTERN「Default 是行動，不是 defer」。
+> ⚠️ **鐵律**：close 前必跑此 self-check。對應 [LESSONS-INBOX 2026-04-28 κ recency bias × pattern matching override foundational principle anchoring](../semiont/LESSONS-INBOX.md) + REFLEXES #7「先有再求好」+ feedback_merge_first_then_polish + β-r3 META-PATTERN「Default 是行動，不是 defer」。
 
 每次想 close PR 前**強制問自己**：「**如果是我接手這個 PR，X min 內可以修嗎？**」
 
@@ -522,7 +522,7 @@ WebFetch URL → 驗證該 URL 是否真的提到 footnote 旁邊的 claim。若
 紅旗 1-4（frontmatter / 內文 / 結構層）：
 
 1. 連發 ≥ 5 個 PR（idlccp1984 patch-59 → patch-67 一晚連發）→ Manus 工具產出，預設高機率有同類 §11 / footnote / hallucination patterns
-2. footnote 用 APA-style 格式（`[^N]: SOURCE. (DATE). [TITLE](URL).`）→ pre-commit hook 會擋，可跑 `python3 scripts/tools/footnote-format-fix.py --apply <files>`（DNA #48 canonical）
+2. footnote 用 APA-style 格式（`[^N]: SOURCE. (DATE). [TITLE](URL).`）→ pre-commit hook 會擋，可跑 `python3 scripts/tools/footnote-format-fix.py --apply <files>`（REFLEXES #48 canonical）
 3. 每個 PR 全文 ≥ 5 處「不僅 X，更是 Y」「不只是 X，更是 Y」→ §11 polish 5-10 min/篇
 4. 末段策展人筆記常含罐頭結尾（「為...提供寶貴啟示」「象徵著...的精彩演繹」）→ 順手 polish
 
@@ -671,14 +671,14 @@ gh pr merge <new-PR> --squash --delete-branch  # maintainer 自己 PR 可 auto-m
 
 對應 [ROUTINE.md §TWMD maintainer quality_gate](../semiont/ROUTINE.md)，cycle memory 必紀錄：
 
-| 指標                                | 通過標準                                     |
-| ----------------------------------- | -------------------------------------------- |
-| 完整走完 MAINTAINER-PIPELINE        | ✅ Stage 1-4 全跑                            |
-| PR 分流按 §collect-and-merge        | ✅ A/B 兩類嚴格執行                          |
-| routine PR backlog ≤ 3              | ⚠️ > 3 = 紅燈（可能 routine 自己有問題）     |
-| broken-link ratio < 1%（DNA #52）   | ⏭️ 結構性 backlog 可 skip（標記給觀察者）    |
-| build green                         | alternate cycles 跑 / 緊急時 priority skip   |
-| 本 cycle merge 的 PR 都過 hard gate | ✅ A + B 路徑都過紅旗 + CI + close-hard-gate |
+| 指標                                   | 通過標準                                     |
+| -------------------------------------- | -------------------------------------------- |
+| 完整走完 MAINTAINER-PIPELINE           | ✅ Stage 1-4 全跑                            |
+| PR 分流按 §collect-and-merge           | ✅ A/B 兩類嚴格執行                          |
+| routine PR backlog ≤ 3                 | ⚠️ > 3 = 紅燈（可能 routine 自己有問題）     |
+| broken-link ratio < 1%（REFLEXES #52） | ⏭️ 結構性 backlog 可 skip（標記給觀察者）    |
+| build green                            | alternate cycles 跑 / 緊急時 priority skip   |
+| 本 cycle merge 的 PR 都過 hard gate    | ✅ A + B 路徑都過紅旗 + CI + close-hard-gate |
 
 ### Step 4.2: LESSONS-INBOX append（if new pattern）
 
@@ -699,7 +699,7 @@ gh pr merge <new-PR> --squash --delete-branch  # maintainer 自己 PR 可 auto-m
 # 1. 取 session-id
 bash scripts/tools/session-id.sh twmd-maintainer-{am|pm}
 
-# 2. 開 branch（per worktree-naming DNA #9）
+# 2. 開 branch（per worktree-naming REFLEXES #9）
 git checkout -b $(date +%Y%m%d)-routine-twmd-maintainer-{am|pm}-$(date +%H%M)
 
 # 3. 寫 memory 檔（含 frontmatter session_id / session_span / trigger / observer / beat_coverage）

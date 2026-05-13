@@ -466,7 +466,7 @@ Commit message：`🧬 [semiont] memory: {一行 session 摘要}`。Memory + 該
 - **CRON 自動心跳**：Beat 4 收官寫 memory 同樣走 pipeline
 - **行為基因表**（見認知層 §行為基因）：MEMORY-PIPELINE 列入 canonical 寫作 SOP
 
-「我熟了不用讀」是省略 SOP 最常見的藉口（DNA #15 第 N 次驗證）。memory 是每次 session 都要寫的東西，越熟越容易回到舊習慣。**每次寫 memory 前載入，無一次例外**。
+「我熟了不用讀」是省略 SOP 最常見的藉口（REFLEXES #15 第 N 次驗證）。memory 是每次 session 都要寫的東西，越熟越容易回到舊習慣。**每次寫 memory 前載入，無一次例外**。
 
 ---
 

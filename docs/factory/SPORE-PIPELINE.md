@@ -302,7 +302,7 @@ bash scripts/tools/make-spore.sh /people/李洋/ --prod         # 直接打 prod
 | `square`（預設之一）    | 1080×1080 | Threads 預覽不裁切                   |
 | `vertical`              | 1080×1350 | 4:5 Instagram / Threads 直立最佳視覺 |
 
-[DNA #26 v2](../semiont/DNA.md) 合規：產圖 = AI 自主；發文 to Threads/X 仍 human only。
+[REFLEXES #26 v2](../semiont/DNA.md) 合規：產圖 = AI 自主；發文 to Threads/X 仍 human only。
 
 **Git 記錄邊界**（v2.7）：
 

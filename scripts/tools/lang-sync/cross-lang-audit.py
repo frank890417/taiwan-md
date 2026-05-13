@@ -8,7 +8,7 @@ Audit dimensions（每篇 zh canonical 跨 5 lang 比對）：
    - 檢查每個 zh source 的 5 lang 翻譯 slug 是否一致
    - en slug 是 canonical，其他 lang 應 match en slug
 
-2. **translatedFrom 格式**（DNA #42 v3）
+2. **translatedFrom 格式**（REFLEXES #42 v3）
    - 必須是 'Category/中文檔.md'（不含 'knowledge/' 前綴）
    - 必須含 .md 副檔名 + 單引號
 
@@ -199,7 +199,7 @@ def audit():
             for rec in recs:
                 rec_issues = []
 
-                # Check 1: translatedFrom format (DNA #42 v3)
+                # Check 1: translatedFrom format (REFLEXES #42 v3)
                 if rec["tf_raw"].startswith("knowledge/"):
                     rec_issues.append({
                         "type": "translatedFrom_prefix",

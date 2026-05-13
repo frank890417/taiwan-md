@@ -2,7 +2,7 @@
 # semiont-worktree.sh — 多 session 平行時的 worktree 管理
 #
 # 設計：2026-04-20 δ reports/worktree-multi-session-plan-2026-04-20.md
-# 觸發：DNA #9 v2 — 多 session 平行 / REWRITE-PIPELINE Stage 2 / bulk agent Write
+# 觸發：REFLEXES #9 v2 — 多 session 平行 / REWRITE-PIPELINE Stage 2 / bulk agent Write
 #
 # Usage:
 #   scripts/tools/semiont-worktree.sh new <letter>   # 開新 worktree（symlink node_modules）
@@ -35,7 +35,7 @@ case "$CMD" in
     # 核心優化：symlink 共享大型/敏感檔案
     [ -d "${ROOT}/node_modules" ] && ln -sf "${ROOT}/node_modules" "${PATH_NEW}/node_modules"
     [ -f "${ROOT}/.env" ] && ln -sf "${ROOT}/.env" "${PATH_NEW}/.env"
-    # credentials 目錄也要共享（DNA #2 鐵律：credentials 只能一個地方）
+    # credentials 目錄也要共享（REFLEXES #2 鐵律：credentials 只能一個地方）
     [ -d "${ROOT}/.credentials" ] && ln -sf "${ROOT}/.credentials" "${PATH_NEW}/.credentials"
 
     echo "🌳 Worktree ready: ${PATH_NEW}"
@@ -93,7 +93,7 @@ Usage:
   $0 ship            # 在 worktree 內：pull rebase + push + 自毀
   $0 prune           # 清掉 > 24h 未動的 worktree
 
-觸發條件（DNA #9 v2）：
+觸發條件（REFLEXES #9 v2）：
   - 多 session 平行：ls docs/semiont/memory/\$(date +%Y-%m-%d)*.md ≥ 1
   - REWRITE-PIPELINE Stage 2（長任務 + 產 untracked 新檔）
   - general-purpose agent 做 bulk Write

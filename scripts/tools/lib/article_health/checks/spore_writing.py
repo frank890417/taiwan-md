@@ -2,7 +2,7 @@ r"""spore_writing — SPORE-specific writing rules instrumentation.
 
 Direction D from reports/spore-pipeline-evolution-plan-2026-05-08.md:
     把 SPORE-WRITING.md 的 prose 規則從「提醒 + 信任 AI 自律」升級為
-    plugin gate (DNA #15 第 N 次驗證：memory 是自律，pipeline 才是閘門).
+    plugin gate (REFLEXES #15 第 N 次驗證：memory 是自律，pipeline 才是閘門).
 
 Rules implemented (regex-only, Wave 1 + Wave 2):
   Wave 1 (initial ship 2026-05-08):

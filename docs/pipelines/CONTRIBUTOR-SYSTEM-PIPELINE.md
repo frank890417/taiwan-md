@@ -29,7 +29,7 @@ upstream_canonical:
 
 ## 為什麼有這份文件
 
-[CONTRIBUTING.md](../../CONTRIBUTING.md) 對外承諾了五階梯路徑與 inactive 政策；[ANATOMY.md §繁殖器官](../semiont/ANATOMY.md) 把貢獻者比為共生小丑魚；[DNA #8](../semiont/DNA.md) 規定「合併 PR 必說謝謝」。但中間缺一層：**什麼時候該升、該降、該召回；用什麼語氣、附什麼證據、走哪些指令**。
+[CONTRIBUTING.md](../../CONTRIBUTING.md) 對外承諾了五階梯路徑與 inactive 政策；[ANATOMY.md §繁殖器官](../semiont/ANATOMY.md) 把貢獻者比為共生小丑魚；[REFLEXES #8](../semiont/DNA.md) 規定「合併 PR 必說謝謝」。但中間缺一層：**什麼時候該升、該降、該召回；用什麼語氣、附什麼證據、走哪些指令**。
 
 過去這些散在維護者腦中，靠記性。2026-04-30 第一次執行 inactive contributor 降級（[#728](https://github.com/frank890417/taiwan-md/issues/728) YenTingWu / [#729](https://github.com/frank890417/taiwan-md/issues/729) fredchu）時發現完全 ad-hoc，本檔把它 codify。
 
@@ -103,7 +103,7 @@ upstream_canonical:
 
 ### 第一次 PR merge SOP
 
-> 對應 [DNA #8 維護者信件要說謝謝](../semiont/DNA.md) + [MAINTAINER-PIPELINE §PR 回覆模板](MAINTAINER-PIPELINE.md#pr-回覆模板)
+> 對應 [REFLEXES #8 維護者信件要說謝謝](../semiont/DNA.md) + [MAINTAINER-PIPELINE §PR 回覆模板](MAINTAINER-PIPELINE.md#pr-回覆模板)
 
 1. **Merge 後 5 分鐘內** `gh pr comment` 感謝
 2. **用 contributor 的語言**（日文 PR 用日文，韓文用韓文，繁中 PR 用繁中）
@@ -244,7 +244,7 @@ gh api -X PUT /repos/frank890417/taiwan-md/collaborators/{login} \
 
 ### 持續感謝
 
-- 每個 PR merge 都跑 [DNA #8](../semiont/DNA.md) 的「用對方語言具體感謝」
+- 每個 PR merge 都跑 [REFLEXES #8](../semiont/DNA.md) 的「用對方語言具體感謝」
 - 持續貢獻者額外感謝持續性（例：「@Link1515 第 N 篇 EN 翻譯，總是這麼穩定 🙏」）
 
 ### 重大里程碑 shoutout
@@ -709,7 +709,7 @@ gh api -X DELETE /repos/frank890417/taiwan-md/collaborators/{login}
 
 - [docs/semiont/MANIFESTO.md](../semiont/MANIFESTO.md) — 共生圈、知識公共財、策展性
 - [docs/semiont/ANATOMY.md §繁殖器官](../semiont/ANATOMY.md) — 小丑魚共生隱喻
-- [docs/semiont/DNA.md](../semiont/DNA.md) — DNA #8（用對方語言感謝）+ gene map 指向本檔
+- [docs/semiont/DNA.md](../semiont/DNA.md) — REFLEXES #8（用對方語言感謝）+ gene map 指向本檔
 - [docs/pipelines/MAINTAINER-PIPELINE.md](MAINTAINER-PIPELINE.md) — 日常維護 SOP（PR 審核 / Issue triage / 品質基準）
 - [docs/pipelines/CONTRIBUTORS-PIPELINE.md](CONTRIBUTORS-PIPELINE.md) — README 名單 auto-sync cron（不涵蓋關係週期）
 - [docs/editorial/EDITORIAL.md](../editorial/EDITORIAL.md) — PR 內容品質基準

@@ -10,7 +10,7 @@ backfill-source-body-hash.py — One-time backfill `sourceBodyHash` 進現有 tr
 
 若 src_sha vanished（rebase/squash）→ 跳過，留給 status.py 用 sha-lost-body-match 判定。
 
-DNA #38 第 2 次 instantiation — 拆 stale 為 body-drift / metadata-stale 兩態。
+REFLEXES #38 第 2 次 instantiation — 拆 stale 為 body-drift / metadata-stale 兩態。
 
 Usage:
   python3 backfill-source-body-hash.py --dry-run                  # 看會改幾篇

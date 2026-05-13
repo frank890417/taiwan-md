@@ -386,7 +386,7 @@ python3 scripts/tools/send-email-resend.py \
 
 #### 設定
 
-- **API key**：`~/.config/taiwan-md/credentials/resend.key`（chmod 600 / DNA #2 鐵律：永不進對話、永不複述、永不 commit）
+- **API key**：`~/.config/taiwan-md/credentials/resend.key`（chmod 600 / REFLEXES #2 鐵律：永不進對話、永不複述、永不 commit）
 - **From**：`Taiwan.md <onboarding@resend.dev>`（Resend sandbox / 預設）
 - **To 預設 `cheyu.wu@monoame.com`**（Resend account email；sandbox 模式只能寄到 verified email）
 - **未來 verify domain 後**：可改 To 為 `frank890417@gmail.com` 或 `newsletter@taiwan.md`

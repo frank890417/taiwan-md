@@ -85,7 +85,7 @@ upstream_canonical:
 | 各 lang i18n 同步              | Layer 2              | section 標題翻譯           | `src/i18n/dashboard.ts`                   | EN/JA/KO/etc 缺翻     |
 | Nav dropdown 8 section anchors | Layer 2              | Header.astro               | manual                                    | 導覽斷裂              |
 | Layer 3 analytics fresh        | Layer 3              | 三源感知抓取               | `fetch-sense-data.sh`                     | analytics 顯示 stale  |
-| Dashboard mtime fresh          | DATA-REFRESH Step 10 | 整 refresh 後              | DNA #43 gate                              | silent failure        |
+| Dashboard mtime fresh          | DATA-REFRESH Step 10 | 整 refresh 後              | REFLEXES #43 gate                         | silent failure        |
 
 ---
 

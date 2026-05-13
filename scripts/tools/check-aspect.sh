@@ -16,7 +16,7 @@
 #   0 — 所有圖通過
 #   1 — 至少一張圖超範圍
 #
-# Canonical: REWRITE-PIPELINE Stage 1.7b / 4.5c / DNA #30
+# Canonical: REWRITE-PIPELINE Stage 1.7b / 4.5c / REFLEXES #30
 
 set -e
 

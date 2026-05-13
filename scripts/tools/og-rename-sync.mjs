@@ -57,7 +57,7 @@ const CATEGORY_FOLDER_TO_SLUG = {
 };
 
 // Derive non-default enabled lang codes from LANGUAGES_REGISTRY
-// (avoid hardcode array — DNA #20 architecture-as-data)
+// (avoid hardcode array — REFLEXES #20 architecture-as-data)
 const ENABLED_LANGS = new Set(
   LANGUAGES.filter((l) => l.enabled && !l.isDefault).map((l) => l.code),
 );

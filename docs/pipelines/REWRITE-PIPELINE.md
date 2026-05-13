@@ -154,7 +154,7 @@ upstream_canonical:
 
 1. **Step 0.6 觀點成型**（v6.0 新增）— 沒有觀點之前的搜尋都是亂槍（蘋果西打 PR #1041 教訓：searched-first 寫成 crisis-only reveal，觀察者校正為 60 年完整記憶）
 2. **Step 1.4 核心矛盾鎖定** — 找不到矛盾 = 這篇不該被重寫（國防現代化重寫教訓）
-3. **Step 1.7 研究報告落檔** — depth-article 沒檔 = 沒 audit trail（DNA #22 raw 永留）
+3. **Step 1.7 研究報告落檔** — depth-article 沒檔 = 沒 audit trail（REFLEXES #22 raw 永留）
 4. **Step 2.4 小標題不編年體** — 編年體 = 維基百科化 = 失敗（Cicada / 草東 / 康士坦 教訓）
 5. **Step 4.3.3 aspect ratio 護欄** — portrait hero 切到頭（林琪兒 ι session 教訓）
 
@@ -610,7 +610,7 @@ core_contradiction: 一句話（≤ 30 字）
 {agent 完整輸出內容，不摘要}
 ```
 
-**好處**（對齊 [DNA #22 raw 永遠不刪](../semiont/DNA.md) + [MANIFESTO §造橋鋪路](../semiont/MANIFESTO.md)）：
+**好處**（對齊 [REFLEXES #22 raw 永遠不刪](../semiont/DNA.md) + [MANIFESTO §造橋鋪路](../semiont/MANIFESTO.md)）：
 
 - Audit trail：文章 fact 被質疑 → 追回 agent 當時的研究材料
 - Cross-article re-use：下一篇類似主題先 grep `reports/research/` 看現有研究
@@ -919,7 +919,7 @@ plugin 抓 12 dim 塑膠 + 3 tier 對位句型（含「不是 X，是 Y」「不
 - 破折號 ——：≤ 15 / 1500 字（plugin 用比例計算）
 - prose-health score：≤ 3 為 pass
 
-**為什麼禁用手 grep**（DNA #15 self-apply）：
+**為什麼禁用手 grep**（REFLEXES #15 self-apply）：
 
 - plugin 抓的 pattern 比 manual regex 全（含 7-9 種對位變體）
 - plugin 有精確 line + 前後文，可直接 jump-to-fix
@@ -1149,7 +1149,7 @@ REWRITE Stage 2 寫完 prose 後、進 Stage 4 之前，**必須跑 FACTCHECK-PI
 - 0 個 🔴 DEAD-LINK（任何 footnote URL 4xx/5xx 都先換源）
 - 0 個 ❌ HARD-FIX（claim 不在 source、引號內 paraphrase、third-person flip 等全部處置完）
 - ⚠️ SOFT-FIX 數量無上限，但每條都要在 commit message 列出，可 ship 後 polish
-- 每個 ❌ 與 🔴 的修補都 append 到 `reports/research/YYYY-MM/{slug}.md` § audit section（DNA #22 raw 永留）
+- 每個 ❌ 與 🔴 的修補都 append 到 `reports/research/YYYY-MM/{slug}.md` § audit section（REFLEXES #22 raw 永留）
 
 #### 為什麼這條 step 是 hard gate 而非 soft
 
@@ -1243,7 +1243,7 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profi
 ### Step 4.2: 多語 visual smoke test（i18n 改動時）
 
 > **觸發條件**：commit 涉及任何 i18n 系統 / 多語系路由 / homepage components / `src/pages/{lang}/` / `src/i18n/`、或加新語言、或大型 sed 批次替換。
-> 對應 [DNA #19 大型 refactor 後 visual smoke test](../semiont/DNA.md#四工程衛生)。
+> 對應 [REFLEXES #19 大型 refactor 後 visual smoke test](../semiont/REFLEXES.md#四工程衛生)。
 
 **強制 SOP**（6 步）：
 
@@ -1670,7 +1670,7 @@ REWRITE 是 routine 飛輪 10 條核心 routine 之一（`twmd-rewrite-daily`）
 5. **塑膠會變種**：AI 把被禁句式微調成看似不同的版本（"展現了"→"印證了"→"彰顯了"）
 6. **Build 驗證不能省**：YAML frontmatter 偶爾壞掉，一篇壞 = 整個 category 炸
 7. **結尾最後寫 = 品質最差**：v2 改成結尾先行（Stage 2 Step 2.2）
-8. **觀察者反覆 callout 同問題 → DNA #15 反覆浮現要儀器化** → 升 plugin gate（chronicle-lead / word-count / Title+desc spine sync）
+8. **觀察者反覆 callout 同問題 → REFLEXES #15 反覆浮現要儀器化** → 升 plugin gate（chronicle-lead / word-count / Title+desc spine sync）
 9. **EVOLVE 容易漏 Stage 1 Step 1.9 媒體素材**（v5 之前為 Step 1.14）：pre-2026-04-28 條目多無 hero / 無 §圖片來源 = pre-gate 遺珠，補 EVOLVE 時必查
 10. **EVOLVE 容易漏 frontmatter spine sync**：title 是百科 stub / description 沒吃進新核心 = SC 顯示舊 hook 但讀者點進來看到新內容 = 落差
 

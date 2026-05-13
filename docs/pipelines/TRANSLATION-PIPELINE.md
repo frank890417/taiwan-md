@@ -132,7 +132,7 @@ upstream_canonical:
 2. **`category` 用英文跟原文一致** — `'Music'` 不是 `'음악'`（早期 ja/ko 寫中文 category 撞 category-check.sh）
 3. **`featured` mirror 原文，contributor 不該自己改** — 由 maintainer 統一決定
 4. **Wikilink `[[X]]` 必須轉成 markdown link** — Astro 不渲染，pre-commit hook 抓
-5. **內部連結加 `/{lang}/` 前綴** — `[安溥](/music/...)` 在 ko 版會 404，應該 `/ko/music/...`（DNA #19 Tailwind sed 反向教訓）
+5. **內部連結加 `/{lang}/` 前綴** — `[安溥](/music/...)` 在 ko 版會 404，應該 `/ko/music/...`（REFLEXES #19 Tailwind sed 反向教訓）
 
 ---
 
@@ -428,7 +428,7 @@ python3 scripts/tools/lang-sync/verify-batch.py
 8 項驗證（按執行順序）：
 
 0. **0-byte purge**（agent kill signature — δ2 教訓）— 自動清掉中斷沒寫內容的空檔
-1. **存在 + frontmatter 4 欄位完整度**（DNA #31 — 不 trust agent claim，主 session grep）
+1. **存在 + frontmatter 4 欄位完整度**（REFLEXES #31 — 不 trust agent claim，主 session grep）
 2. **YAML pre-flight**（catch sonnet `\\'s` escape bug + unquoted year tags）
 3. **Translation ratio**（translation-ratio-check.sh wrapper）
 4. **Wikilink residue**（target 0）
@@ -465,17 +465,17 @@ python3 scripts/tools/lang-sync/verify-batch.py
 
 ### Known gaps 與已造橋（v3.4 update）
 
-| Gap                                             | 狀態                             | 工具                                                 |
-| ----------------------------------------------- | -------------------------------- | ---------------------------------------------------- |
-| Manifest 自動生成                               | ✅ 已造橋（v3.3）                | `scripts/tools/lang-sync/prepare-batch.py`           |
-| 8 項 verify 統一入口                            | ✅ 已造橋（v3.3）                | `scripts/tools/lang-sync/verify-batch.py`            |
-| 0-byte purge 自動化                             | ✅ 已造橋（v3.3）                | verify-batch.py Stage 0                              |
-| YAML escape pre-flight                          | ✅ 已造橋（v3.3）                | verify-batch.py Stage 2                              |
-| YAML pre-flight false-positive (date: YYYY)     | ✅ 已修（v3.4）                  | verify-batch.py 限定在 tags block 內檢查             |
-| 文章更新即時同步偵測                            | ✅ 已造橋（v3.4）                | `scripts/tools/lang-sync/sync-on-update.py`          |
-| Cross-link auto-fix per cycle                   | ⏳ pending（DNA #33 反向力對策） | 待加進 verify-batch.py 第 5 step                     |
-| `refresh.sh --apply --sha-only` insert NEW case | ⏳ 不再緊急（manifest 預先注入） | `refresh.sh --insert` 子命令（待寫，但已 obviated）  |
-| Slug map 自動推薦                               | ✅ 已造橋（v3.4 觀察）           | 從 `_translations.json` 反推導出 614 個 zh→slug 對應 |
+| Gap                                             | 狀態                                  | 工具                                                 |
+| ----------------------------------------------- | ------------------------------------- | ---------------------------------------------------- |
+| Manifest 自動生成                               | ✅ 已造橋（v3.3）                     | `scripts/tools/lang-sync/prepare-batch.py`           |
+| 8 項 verify 統一入口                            | ✅ 已造橋（v3.3）                     | `scripts/tools/lang-sync/verify-batch.py`            |
+| 0-byte purge 自動化                             | ✅ 已造橋（v3.3）                     | verify-batch.py Stage 0                              |
+| YAML escape pre-flight                          | ✅ 已造橋（v3.3）                     | verify-batch.py Stage 2                              |
+| YAML pre-flight false-positive (date: YYYY)     | ✅ 已修（v3.4）                       | verify-batch.py 限定在 tags block 內檢查             |
+| 文章更新即時同步偵測                            | ✅ 已造橋（v3.4）                     | `scripts/tools/lang-sync/sync-on-update.py`          |
+| Cross-link auto-fix per cycle                   | ⏳ pending（REFLEXES #33 反向力對策） | 待加進 verify-batch.py 第 5 step                     |
+| `refresh.sh --apply --sha-only` insert NEW case | ⏳ 不再緊急（manifest 預先注入）      | `refresh.sh --insert` 子命令（待寫，但已 obviated）  |
+| Slug map 自動推薦                               | ✅ 已造橋（v3.4 觀察）                | 從 `_translations.json` 反推導出 614 個 zh→slug 對應 |
 
 ---
 
@@ -498,7 +498,7 @@ python3 scripts/tools/lang-sync/verify-batch.py
 2. **Stash 隔離**：`git stash push -- knowledge/<lang>/` 把 sub-agent work 暫存（含 tracked modifications），切 branch 修補後 `git stash pop` 還原
 3. **Branch 切換但不 reset**：`git checkout -b new-branch` 切到新 branch（保留 working tree），commit 修補相關檔案，不碰 sub-agent files
 
-**對應 DNA #35**。
+**對應 REFLEXES #35**。
 
 ---
 
@@ -1129,9 +1129,9 @@ bash scripts/tools/bulk-pr-analyze.sh
 - **v3.0** | 2026-04-14 η — **完全重寫**。基於 60 PR 一日合併實戰經驗 + LANGUAGES_REGISTRY 重構 + translatedFrom SSOT 模式 + .gitattributes union driver + cherry-pick workflow + 17 條常漏 + 完整工具索引。觸發：ceruleanstring 60 PR 海嘯 + 哲宇要求重新設計 pipeline
 - **v3.1** | 2026-04-30 δ — 新增 §翻譯元則（觀察者校準四條：精準/專業/快速 + 中→英投影 + 不預設篇幅 + frontmatter & cross-ref 鐵律）。觸發：哲宇 EN 批次更新任務時直接 dictate 元則，需 canonical 化高於八階段流程的方向感。
 - **v3.2** | 2026-04-30 δ — 新增 §平行 sub-agent 批次翻譯 SOP（C 模式）+ 三模式架構重整（A 單篇 / B 外部批次合併 / C maintainer 平行 sub-agent）。觸發：4 隻 Opus agent × 5 篇首次跑後揭露批次 antipattern（分散探索浪費 / agent claim 不可信 / refresh.sh insert gap）。SOP 5 階段（P1 預處理 / P2 dispatch / P3 純執行 / P4 統一驗證 / P5 commit），Sonnet 升為預設模型，列出三個 known gaps 待造橋。
-- **v3.3** | 2026-05-01 δ2 — 三個 known gaps 全部造橋完成：(1) `prepare-batch.py` Stage P1 manifest 自動生成（含 snake-balance / wikilink target lookup / frontmatter placeholder） (2) `verify-batch.py` Stage P4 8 項統一驗證入口（含 0-byte purge / YAML pre-flight / DNA #31 自動 grep frontmatter）(3) refresh.sh insert gap 由 manifest 預注入解決，不需另寫子命令。新增 §批次規模 vs Usage budget cycle 對齊（5 小時 limit ≈ 30-35 篇 sonnet / cycle）。觸發：第二波 5 Sonnet × 10 篇驗證 batch antipattern fix 大量成功（frontmatter 正確率 25%→100%）+ usage 90% wrap up 教訓（50/cycle 太大）。完整評估：[reports/translation-batch-design-evaluation-2026-04-30-δ.md](../../reports/translation-batch-design-evaluation-2026-04-30-δ.md)。
-- **v3.4** | 2026-05-01 γ — 新增 §sync-on-update mode（D 模式）+ `sync-on-update.py` 工具：article-update 後即時偵測哪些 lang 翻譯變 stale，opt-in 立即同步該篇所有語言版本，避免堆積長尾。修 verify-batch.py YAML pre-flight 限定在 tags block 內檢查（消除 `date: YYYY-MM-DD` false positive）。Slug map 自動推薦：從 `_translations.json` 反推導出 614 個 zh→slug 對應（cross-lang 復用，ja/ko 直接 reuse en slug）。批次規模上限提高到 10 sub-agent × 10 articles = 100/batch（首次 JA batch 驗證）。新增 §C 模式 cross-link auto-fix per cycle 待辦（DNA #33 反向力對策）。觸發：5-cycle EN marathon 後哲宇要求 (1) 多語言 sync 變預設 (2) 文章更新時就處理翻譯 (3) 擴大 batch 規模測試極限。
-- **v3.5** | 2026-05-01 γ — 新增 §C 模式 P0 鐵律「sub-agents 跑期間禁止 destructive git ops」（對應 DNA #35）。觸發：γ session 主 session 為了 ship dashboard fix 跑 `git reset --hard` 把 10 ja agents 的 14 篇 stale refresh work 抹掉。鐵律含 worktree / stash / branch 切換不 reset 三種正確做法。Donut bug v2 修補（threshold ≥99 + 顯式 circumference 99.9）寫進 dashboard 內聯 fix。
+- **v3.3** | 2026-05-01 δ2 — 三個 known gaps 全部造橋完成：(1) `prepare-batch.py` Stage P1 manifest 自動生成（含 snake-balance / wikilink target lookup / frontmatter placeholder） (2) `verify-batch.py` Stage P4 8 項統一驗證入口（含 0-byte purge / YAML pre-flight / REFLEXES #31 自動 grep frontmatter）(3) refresh.sh insert gap 由 manifest 預注入解決，不需另寫子命令。新增 §批次規模 vs Usage budget cycle 對齊（5 小時 limit ≈ 30-35 篇 sonnet / cycle）。觸發：第二波 5 Sonnet × 10 篇驗證 batch antipattern fix 大量成功（frontmatter 正確率 25%→100%）+ usage 90% wrap up 教訓（50/cycle 太大）。完整評估：[reports/translation-batch-design-evaluation-2026-04-30-δ.md](../../reports/translation-batch-design-evaluation-2026-04-30-δ.md)。
+- **v3.4** | 2026-05-01 γ — 新增 §sync-on-update mode（D 模式）+ `sync-on-update.py` 工具：article-update 後即時偵測哪些 lang 翻譯變 stale，opt-in 立即同步該篇所有語言版本，避免堆積長尾。修 verify-batch.py YAML pre-flight 限定在 tags block 內檢查（消除 `date: YYYY-MM-DD` false positive）。Slug map 自動推薦：從 `_translations.json` 反推導出 614 個 zh→slug 對應（cross-lang 復用，ja/ko 直接 reuse en slug）。批次規模上限提高到 10 sub-agent × 10 articles = 100/batch（首次 JA batch 驗證）。新增 §C 模式 cross-link auto-fix per cycle 待辦（REFLEXES #33 反向力對策）。觸發：5-cycle EN marathon 後哲宇要求 (1) 多語言 sync 變預設 (2) 文章更新時就處理翻譯 (3) 擴大 batch 規模測試極限。
+- **v3.5** | 2026-05-01 γ — 新增 §C 模式 P0 鐵律「sub-agents 跑期間禁止 destructive git ops」（對應 REFLEXES #35）。觸發：γ session 主 session 為了 ship dashboard fix 跑 `git reset --hard` 把 10 ja agents 的 14 篇 stale refresh work 抹掉。鐵律含 worktree / stash / branch 切換不 reset 三種正確做法。Donut bug v2 修補（threshold ≥99 + 顯式 circumference 99.9）寫進 dashboard 內聯 fix。
 - **v4.0** | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（4 模式 + 8 stage 全景）+ Hard Gate Inventory 集中 table（15 gates）+ Top 5 最常忘 step + 跨檔案職責分工 table（明確 C 模式 vs SQUEEZE-MODELS-MAX 邊界）+ 翻譯元則 summary at top（詳述保留）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.1 audit。Stage 內 prose body 不動（已健康，避免大規模 cross-link 連動風險）。
 
 ---

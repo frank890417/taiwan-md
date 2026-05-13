@@ -162,14 +162,43 @@ awk '/^### / {h=$0; body=""} /^---$/ && h {if(body ~ /✅ DISTILLED|✅ \*\*已 
 
 **Stage 2 — Classify**：每條依三題判準分類 + Tiebreaker（MANIFESTO > DNA > MEMORY）
 
-**Stage 3 — Execute**：根據分類執行：
+**Stage 3 — Execute**：根據分類執行（**遵循 promotion flow 方向**，見下方 Step 5）：
 
 - **哲學** → MANIFESTO §進化哲學 new section（**Routine mode**: 只列入 defer handoff，不寫；**Observer mode**: 慎重寫 — 這是 canonical 永恆層）
-- **通用反射** → DNA §要小心 new #N（編號 increment）或補強既有 #N
+- **通用反射** → REFLEXES.md §要小心 new #N（編號 increment）或補強既有 #N（2026-05-13 從 DNA 拆出獨立成第 9 認知器官，per [ANATOMY §認知層 promotion flow](ANATOMY.md#認知器官的生命週期)）
 - **特有教訓** → MEMORY §神經迴路 append
 - **操作規則** → 對應 pipeline（MAINTAINER / SPORE / REWRITE / HEARTBEAT 等）
 - **重複已有** → 在原 canonical 補觸發事件 + 驗證次數 +1
 - **過時 / 撤回** → 搬 §❌ 已歸檔
+
+**Step 5 — Promotion flow direction（2026-05-13 元規則 canonical）**：
+
+> 「最重要的哲學才會進到 manifesto，如果 reflex 未來有出現這樣的內容，也會進化到 manifesto」— 哲宇 2026-05-13 dialogue
+
+distill 流向**有方向**，從本層 → REFLEXES → MANIFESTO 是合法的；反向（MANIFESTO → REFLEXES、REFLEXES → LESSONS）違反 evolutionary pressure 不允許：
+
+```
+LESSONS-INBOX (raw, 未驗證)          ← 本檔
+       ↓ distill (≥ 1 次驗證 + 跨 task)
+REFLEXES.md (#N catalog, instinct)
+       ↓ promote (跨 task 通用 + 影響身份)
+MANIFESTO.md (身份哲學)
+       ↓ apoptosis (失去當前性)
+reports/ (歷史 snapshot)
+```
+
+**規則**：
+
+| 流向                       | 允許 | 拍板                                                                        |
+| -------------------------- | ---- | --------------------------------------------------------------------------- |
+| LESSONS → REFLEXES         | ✅   | Routine 自決（per §模式分流 v2.0）                                          |
+| LESSONS → DNA (gene map)   | ❌   | DNA 是 lookup table 不是 reflex catalog                                     |
+| LESSONS → MEMORY §神經迴路 | ✅   | session-specific 教訓 narrative                                             |
+| LESSONS → MANIFESTO        | ❌   | 跳級違反流向，必須先進 REFLEXES + 驗證 ≥ 3 次                               |
+| REFLEXES → MANIFESTO       | ✅   | 跨 task 通用 + 影響身份 + 哲宇 explicit promote                             |
+| MANIFESTO → REFLEXES       | ❌   | demote 違反方向，哲宇 explicit override + 寫 ANATOMY §歷史凋亡事件 row 才行 |
+
+完整 canonical: [ANATOMY §認知層 promotion flow](ANATOMY.md#認知器官的生命週期)。
 
 **Stage 4 — Sweep**：消化後本條 buffer entry **完整刪除**從 §未消化清單，同步在 §✅ 已消化新增 row（含 canonical pointer + verification_count + distill 日期 + session）。**不留 HTML comment pointer**（§✅ 已消化 本身就是 traceability source；comment 殘留會讓 INBOX 視覺體積虛高 + 干擾 `grep -c "^### "` entry count）— 觀察者 2026-05-10 拍板
 

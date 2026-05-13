@@ -18,7 +18,7 @@ Supports any OpenRouter model id (free-tier or paid). Common picks:
     - qwen/qwen3-*         (Alibaba)
     - baidu/cobuddy        (Baidu)
 
-Per DNA #45: same provider keys share budget. 哲宇 has 5 keys in
+Per REFLEXES #45: same provider keys share budget. 哲宇 has 5 keys in
 ~/.config/taiwan-md/credentials/openrouter-keys/ — backend rotates on 429.
 """
 from __future__ import annotations

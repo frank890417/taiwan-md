@@ -2,7 +2,7 @@
 
 Direction D Wave 1 from reports/rewrite-pipeline-evolution-plan-2026-05-09.md:
     把 REWRITE Stage 2 #4「小標題不編年體」+ #11「編年體自檢」從 prose 提醒
-    升級為 plugin gate (DNA #15 第 N 次驗證：memory 是自律，pipeline 才是閘門).
+    升級為 plugin gate (REFLEXES #15 第 N 次驗證：memory 是自律，pipeline 才是閘門).
 
 Rule (REWRITE-PIPELINE.md §Stage 2 Step D + §Stage 2 Step G 自檢 3):
     H2 subheadings must NOT be chronicle-style「YYYY 年 X 月」/「YYYY 年《作品》」

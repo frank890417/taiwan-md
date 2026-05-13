@@ -17,7 +17,7 @@
 #   2. open -R 讓 Finder 視窗標示檔案位置
 #   3. 若 docs/factory/SPORE-BLUEPRINTS/*{slug}*.md 存在 → 印出文案區塊
 #
-# DNA #26 v2 合規：AI 自主產圖 + 印文案，發文仍是 human only。
+# REFLEXES #26 v2 合規：AI 自主產圖 + 印文案，發文仍是 human only。
 
 set -euo pipefail
 

@@ -79,7 +79,7 @@ upstream_canonical:
 | [SPORE-HARVEST-PIPELINE.md](SPORE-HARVEST-PIPELINE.md)      | post-publish — Reach×Accuracy 50K 觸發本檔 retroactive audit                    |
 | [FACTCHECK-PIPELINE.md](../pipelines/FACTCHECK-PIPELINE.md) | 觸發 Quick Mode 對孢子做 atom 驗證（reach ≥ 50K）                               |
 | [MANIFESTO §11](../semiont/MANIFESTO.md)                    | 對位句型 + 破折號雙紀律                                                         |
-| [DNA #16+31](../semiont/DNA.md)                             | 事實驗證 / 跨源驗證                                                             |
+| [REFLEXES #16+31](../semiont/DNA.md)                        | 事實驗證 / 跨源驗證                                                             |
 
 ---
 
@@ -263,7 +263,7 @@ cat docs/editorial/EDITORIAL.md
 - **讀者級事實** = 讀者第一眼會查維基比對的 fact（樂團成員姓名 / 公開獎項年份 / 公開生日 / 地點座標）。這類事實即使 `high_confidence` 也**強制進針對性驗證**，因為讀者會在幾小時內抓到錯誤。
 - **研究級事實** = 政策細節 / 次要人物 / 非公開資訊，需深度搜尋驗證。
 
-對應 [DNA #16 延伸](../semiont/DNA.md#一事實核對與研究方法)。
+對應 [REFLEXES #16 延伸](../semiont/REFLEXES.md#一事實核對與研究方法)。
 
 ### 敏感度標記觸發紀實/煽情閘
 
@@ -278,7 +278,7 @@ cat docs/editorial/EDITORIAL.md
 | 倫理審查 | 寫完事後挽救，常挽不回       | 敏感素材 bullet 階段就替換 angle |
 | 可追溯   | 孢子本體 opaque              | Blueprint = fact ledger 留存     |
 
-對應 [DNA #27 「藍圖→驗證→寫 比 寫→檢查 低 10x 成本」](../semiont/DNA.md)。
+對應 [REFLEXES #27 「藍圖→驗證→寫 比 寫→檢查 低 10x 成本」](../semiont/DNA.md)。
 
 ---
 
@@ -327,7 +327,7 @@ Blueprint 每條 bullet 補上 `verified` 欄：
 > **核心校準**：標準不是「真人痛苦不能寫」。標準是「**紀實而不煽情**」。SSODT 優先 → 寫全；死亡 + 人倫悲劇的具體情景 → 節制。
 >
 > 哲學 canonical：[MANIFESTO §紀實而不煽情](../semiont/MANIFESTO.md#我的進化哲學--紀實而不煽情盡可能呈現-ssodt-所有面向)。
-> 對應 [DNA #28](../semiont/DNA.md)。
+> 對應 [REFLEXES #28](../semiont/DNA.md)。
 
 ### 觸發條件
 
@@ -448,7 +448,7 @@ Fact blueprint 任一 bullet 標敏感度 = 「死亡」「自殺」「人倫悲
 
 事實藍圖 + 針對性驗證存在於 pipeline，但 AI 寫到 prose 時會直接跳過回頭驗證。**memory 是自律，pipeline 才是閘門**。這一條把 gate 物理化到 output 流程——觀察者看不到查核表就看不到 prose，跳不過去。
 
-對應 [DNA #15 反覆浮現要儀器化](../semiont/DNA.md)（第 N 次驗證）+ [DNA #18 時間是結構](../semiont/DNA.md)（時序錯誤汙染 ground truth）。
+對應 [REFLEXES #15 反覆浮現要儀器化](../semiont/DNA.md)（第 N 次驗證）+ [REFLEXES #18 時間是結構](../semiont/DNA.md)（時序錯誤汙染 ground truth）。
 
 ### 查核表格式（強制）
 

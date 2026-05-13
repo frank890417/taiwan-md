@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # audit-batch.sh — 機械化抓 sub-agent batch 的 cross-pollination commit
-# 對應 DNA #42「Sub-agent N 篇 sequential 三偷吃步」+ DNA #31「Sub-agent claim 是線索不是事實」
+# 對應 REFLEXES #42「Sub-agent N 篇 sequential 三偷吃步」+ REFLEXES #31「Sub-agent claim 是線索不是事實」
 # 用法:
 #   bash scripts/tools/audit-batch.sh --since "2 hours ago"
 #   bash scripts/tools/audit-batch.sh --since "2026-05-02 09:00"
@@ -158,7 +158,7 @@ printf "  Missing audit reports:        %d\n\n" "$MISSING_AUDIT_COUNT"
 
 if (( CROSS_POLLINATION_COUNT > 0 || MISSING_AUDIT_COUNT > 0 )); then
   printf "%s❌ 偵測到 sub-agent 偷吃步 — 補做 audit report 或拆 commit%s\n" "$RED" "$RST"
-  printf "%scanonical: DNA #42 + LESSONS-INBOX 2026-05-02 EVOLVE-batch%s\n" "$DIM" "$RST"
+  printf "%scanonical: REFLEXES #42 + LESSONS-INBOX 2026-05-02 EVOLVE-batch%s\n" "$DIM" "$RST"
   exit 1
 fi
 

@@ -22,7 +22,7 @@ upstream_canonical:
 >
 > 取代位置：[bench/MODEL_GUIDE.md](../../bench/MODEL_GUIDE.md) 從「3 步驟 quick-ref」升為 quick-pointer，**完整 SOP 看本檔**。
 >
-> 觸發背景：2026-05-02 session 加 qwen3.6（暫停）→ 改測 owl-alpha → OpenRouter Sonnet judge 換 Opus sub-agent → 暴露多個結構性 friction，DNA #15「反覆浮現要儀器化」第 N+1 次驗證。
+> 觸發背景：2026-05-02 session 加 qwen3.6（暫停）→ 改測 owl-alpha → OpenRouter Sonnet judge 換 Opus sub-agent → 暴露多個結構性 friction，REFLEXES #15「反覆浮現要儀器化」第 N+1 次驗證。
 
 ---
 
@@ -33,7 +33,7 @@ upstream_canonical:
 - **Pivot / 暫停**（如 qwen3.6 跑兩 prompt 發現 NULL 模式 → 暫停換 owl-alpha）
 - **Partial responses 怎麼放**（不能跟正式 responses 混在 `bench/v0/responses/`，會污染 scorer）
 - **Decision matrix**（full 40 vs partial 10，何時哪個合理）
-- **Live observability regex 必抓 PASS + FAIL 雙信號**（Monitor 只抓 NULL 會錯估通過率，per DNA #55）
+- **Live observability regex 必抓 PASS + FAIL 雙信號**（Monitor 只抓 NULL 會錯估通過率，per REFLEXES #55）
 - **Worktree vs main repo**（`bench/v0/responses/*/` gitignored — 在 worktree 看不到 prior model 的 raw responses）
 - **既有 cells / samples 怎麼保留**（generate-public-results.py 預設讀 latest scores，會把其他 model 的 cell 抹掉）
 - **Opus sub-agent judge 取代 OpenRouter Sonnet judge**（cleaner reproducibility chain，less external dependency）
@@ -50,7 +50,7 @@ upstream_canonical:
 
 ### 軸二：partial / pivot 是 first-class state
 
-`bench/v0/responses-paused/` 是 canonical 目錄，**raw responses 永不刪除**（DNA #22 mirror）。pivot 不是 exception，是 lifecycle 的一個 state。Future resume 走 runner skip-existing 機制即可。
+`bench/v0/responses-paused/` 是 canonical 目錄，**raw responses 永不刪除**（REFLEXES #22 mirror）。pivot 不是 exception，是 lifecycle 的一個 state。Future resume 走 runner skip-existing 機制即可。
 
 ### 軸三：Public API merge 不破壞既有 cell
 
@@ -108,7 +108,7 @@ upstream_canonical:
 - `prc-origin` — Tencent / DeepSeek / Qwen / MiniMax / Baidu
 - `local-ollama` — 本機 Ollama（無論 origin）
 
-不確定 → 開新 group。前端 results table 自動 render（DNA #21 SSOT 自我 apply）。
+不確定 → 開新 group。前端 results table 自動 render（REFLEXES #21 SSOT 自我 apply）。
 
 ---
 
@@ -139,7 +139,7 @@ python3 scripts/bench/runner.py \
 
 ## Stage 3：Live Monitor — 雙信號 regex 鐵律
 
-**DNA #55**（升 canonical 2026-05-10，原候選編號 #43 因與「dashboard JSON sync」同號 collision 已重編）：Monitor regex 必須同時抓 **PASS + FAIL** 兩種 terminal state。本 session 教訓：只抓 `⚠️ NULL` / `429` 漏掉「→ ok (xxx chars, ys)」通過事件 → 主 session 推估通過率時要 fall back to log scan，是 unnecessary friction。
+**REFLEXES #55**（升 canonical 2026-05-10，原候選編號 #43 因與「dashboard JSON sync」同號 collision 已重編）：Monitor regex 必須同時抓 **PASS + FAIL** 兩種 terminal state。本 session 教訓：只抓 `⚠️ NULL` / `429` 漏掉「→ ok (xxx chars, ys)」通過事件 → 主 session 推估通過率時要 fall back to log scan，是 unnecessary friction。
 
 ```bash
 # Wrong — 只抓失敗
@@ -364,13 +364,13 @@ Write bench/v0/results/<slug>-judgments.json (schema in BENCH-PIPELINE Stage 5b)
 
 ## 看 DNA 對應反射
 
-- DNA #2 — 憑證永不進對話（reference answers stored separately mirror）
-- DNA #15 — 反覆浮現要儀器化（本 pipeline 是第 N+1 次驗證）
-- DNA #21 — SSOT 不一定在中央（model entry 在 models.json 自我描述，前端自動 derive）
-- DNA #22 — Raw 永遠不刪除（responses-paused/ canonical 目錄 mirror）
-- DNA #26 — AI-autonomous vs Human-only 邊界（bench 全自動跑 / public 上線 human 決定）
-- DNA #55 — Monitor regex 必抓 PASS + FAIL 雙信號（升 canonical 2026-05-10，原候選 #43 因 collision 重編）
-- DNA #44 — Bench judge 用 Opus sub-agent 不用 OpenRouter API（cleaner reproducibility）
+- REFLEXES #2 — 憑證永不進對話（reference answers stored separately mirror）
+- REFLEXES #15 — 反覆浮現要儀器化（本 pipeline 是第 N+1 次驗證）
+- REFLEXES #21 — SSOT 不一定在中央（model entry 在 models.json 自我描述，前端自動 derive）
+- REFLEXES #22 — Raw 永遠不刪除（responses-paused/ canonical 目錄 mirror）
+- REFLEXES #26 — AI-autonomous vs Human-only 邊界（bench 全自動跑 / public 上線 human 決定）
+- REFLEXES #55 — Monitor regex 必抓 PASS + FAIL 雙信號（升 canonical 2026-05-10，原候選 #43 因 collision 重編）
+- REFLEXES #44 — Bench judge 用 Opus sub-agent 不用 OpenRouter API（cleaner reproducibility）
 
 ---
 

@@ -702,7 +702,7 @@ async function main() {
       const s = statusSummary[lang];
       const fresh = s.fresh || 0;
       const stale = s.stale || 0;
-      const metadataStale = s.metadata_stale || 0; // NEW (DNA #38 第 2 次 instantiation)
+      const metadataStale = s.metadata_stale || 0; // NEW (REFLEXES #38 第 2 次 instantiation)
       const miss = s.missing || 0;
       const orphan = s.orphan || 0;
       const totalZh = s.total_zh || articles.length;
