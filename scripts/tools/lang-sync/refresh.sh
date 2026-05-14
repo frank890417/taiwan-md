@@ -116,7 +116,7 @@ ZH_HEAD_DATE=$(git -C "$REPO" log -1 --format='%aI' -- "knowledge/$ZH_REL")
   echo ""
   echo "## Translation rules"
   echo "- Read \`docs/prompts/TRANSLATE_PROMPT.md\` for full rules"
-  echo "- 完整翻譯不摘要 (DNA #1)"
+  echo "- 完整翻譯不摘要 (REFLEXES #1)"
   echo "- 保留腳註結構 [^1] [^2]"
   echo "- 維持 wikilinks [[X]] 但目標語言無對應時轉純文字"
   echo "- 字數 ratio 應 0.65–1.30 (en) / 0.55–1.10 (ja/ko)"

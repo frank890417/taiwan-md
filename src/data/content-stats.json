@@ -10,7 +10,7 @@
     "Lifestyle": 141,
     "Music": 158,
     "Nature": 185,
-    "People": 1077,
+    "People": 1079,
     "Society": 381,
     "Technology": 236,
     "resources": 10,
@@ -238,5 +238,5 @@
       "count": 2
     }
   ],
-  "updated": "2026-05-12"
+  "updated": "2026-05-13"
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-12T22:10:44.583Z",
+  "generated_at": "2026-05-13T15:09:09.349Z",
   "languages": ["en", "ja", "ko", "es", "fr"],
-  "total_entries": 10463,
+  "total_entries": 10469,
   "registry": {
     "en": {
       "toZh": {
@@ -450,6 +450,7 @@
         "/en/people/henry-lee-forensic": "/people/%E6%9D%8E%E6%98%8C%E9%88%BA",
         "/en/people/hong-chih-kuo-taiwanese-left-handed-pitcher": "/people/%E9%83%AD%E6%B3%93%E5%BF%97",
         "/en/people/hou-hsiao-hsien": "/people/%E4%BE%AF%E5%AD%9D%E8%B3%A2",
+        "/en/people/howhow": "/people/Howhow",
         "/en/people/hsiao-bi-khim": "/people/%E8%95%AD%E7%BE%8E%E7%90%B4",
         "/en/people/hsu-chiao-hsin": "/people/%E5%BE%90%E5%B7%A7%E8%8A%AF",
         "/en/people/hsu-mei-hua-financial-commentator": "/people/%E8%A8%B1%E7%BE%8E%E8%8F%AF",
@@ -1572,6 +1573,7 @@
         "/people/郭泓志": "/en/people/hong-chih-kuo-taiwanese-left-handed-pitcher",
         "/people/%E4%BE%AF%E5%AD%9D%E8%B3%A2": "/en/people/hou-hsiao-hsien",
         "/people/侯孝賢": "/en/people/hou-hsiao-hsien",
+        "/people/Howhow": "/en/people/howhow",
         "/people/%E8%95%AD%E7%BE%8E%E7%90%B4": "/en/people/hsiao-bi-khim",
         "/people/蕭美琴": "/en/people/hsiao-bi-khim",
         "/people/%E5%BE%90%E5%B7%A7%E8%8A%AF": "/en/people/hsu-chiao-hsin",
@@ -4638,6 +4640,7 @@
         "/ko/people/henry-lee-forensic": "/people/%E6%9D%8E%E6%98%8C%E9%88%BA",
         "/ko/people/hong-chih-kuo-taiwanese-left-handed-pitcher": "/people/%E9%83%AD%E6%B3%93%E5%BF%97",
         "/ko/people/hou-hsiao-hsien": "/people/%E4%BE%AF%E5%AD%9D%E8%B3%A2",
+        "/ko/people/howhow": "/people/Howhow",
         "/ko/people/hsiao-bi-khim": "/people/%E8%95%AD%E7%BE%8E%E7%90%B4",
         "/ko/people/hsu-chiao-hsin": "/people/%E5%BE%90%E5%B7%A7%E8%8A%AF",
         "/ko/people/hsu-mei-hua-financial-commentator": "/people/%E8%A8%B1%E7%BE%8E%E8%8F%AF",
@@ -5765,6 +5768,7 @@
         "/people/郭泓志": "/ko/people/hong-chih-kuo-taiwanese-left-handed-pitcher",
         "/people/%E4%BE%AF%E5%AD%9D%E8%B3%A2": "/ko/people/hou-hsiao-hsien",
         "/people/侯孝賢": "/ko/people/hou-hsiao-hsien",
+        "/people/Howhow": "/ko/people/howhow",
         "/people/%E8%95%AD%E7%BE%8E%E7%90%B4": "/ko/people/hsiao-bi-khim",
         "/people/蕭美琴": "/ko/people/hsiao-bi-khim",
         "/people/%E5%BE%90%E5%B7%A7%E8%8A%AF": "/ko/people/hsu-chiao-hsin",
@@ -6732,6 +6736,7 @@
         "/es/people/henry-lee-forensic": "/people/%E6%9D%8E%E6%98%8C%E9%88%BA",
         "/es/people/hong-chih-kuo-taiwanese-left-handed-pitcher": "/people/%E9%83%AD%E6%B3%93%E5%BF%97",
         "/es/people/hou-hsiao-hsien": "/people/%E4%BE%AF%E5%AD%9D%E8%B3%A2",
+        "/es/people/howhow": "/people/Howhow",
         "/es/people/hsiao-bi-khim": "/people/%E8%95%AD%E7%BE%8E%E7%90%B4",
         "/es/people/hsu-chiao-hsin": "/people/%E5%BE%90%E5%B7%A7%E8%8A%AF",
         "/es/people/hsu-mei-hua-financial-commentator": "/people/%E8%A8%B1%E7%BE%8E%E8%8F%AF",
@@ -7856,6 +7861,7 @@
         "/people/郭泓志": "/es/people/hong-chih-kuo-taiwanese-left-handed-pitcher",
         "/people/%E4%BE%AF%E5%AD%9D%E8%B3%A2": "/es/people/hou-hsiao-hsien",
         "/people/侯孝賢": "/es/people/hou-hsiao-hsien",
+        "/people/Howhow": "/es/people/howhow",
         "/people/%E8%95%AD%E7%BE%8E%E7%90%B4": "/es/people/hsiao-bi-khim",
         "/people/蕭美琴": "/es/people/hsiao-bi-khim",
         "/people/%E5%BE%90%E5%B7%A7%E8%8A%AF": "/es/people/hsu-chiao-hsin",

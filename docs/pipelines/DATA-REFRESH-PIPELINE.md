@@ -60,7 +60,7 @@ upstream_canonical:
 │            ├── Step 8 update-stats → README + stats.json                 │
 │            └── Step 9 extract-build-perf → dashboard-build-perf.json     │
 │                                                                          │
-│   Step 10: verify dashboard freshness ──→ DNA #43 gate                  │
+│   Step 10: verify dashboard freshness ──→ REFLEXES #43 gate                  │
 │            └── 每個 public/api/dashboard-*.json 有今天的 mtime           │
 │              ↳ Hard gate: stale = generator 漏跑（silent failure）       │
 │                                                                          │
@@ -91,7 +91,7 @@ upstream_canonical:
 | Dirty tree auto-stash       | Step 1     | working tree dirty         | `git stash push --include-untracked`  | auto handle                  |
 | git pull rebase 成功        | Step 1     | sync 階段                  | `git pull --rebase origin main`       | hard abort（人類介入）       |
 | 三源 sense-fetch 200        | Step 2     | fetch GA/SC/CF             | per-source HTTP check                 | soft skip + LESSONS entry    |
-| Dashboard mtime fresh       | Step 10    | 整個 refresh 後            | manual stat check                     | DNA #43 silent failure       |
+| Dashboard mtime fresh       | Step 10    | 整個 refresh 後            | manual stat check                     | REFLEXES #43 silent failure  |
 | validate-spore-data 5 check | Step 11    | SSOT consistency           | `validate-spore-data.py`              | 阻 ship + 修補               |
 | sync-spore-links 從 SSOT    | Step 12    | knowledge sporeLinks regen | `sync-spore-links.py`                 | drift = manual override      |
 | 不手寫 knowledge sporeLinks | 全程       | knowledge/\*.md            | manual                                | 會被 Step 12 覆蓋            |
@@ -101,13 +101,13 @@ upstream_canonical:
 
 ## ⚠️ Top 5 最常忘的 step
 
-> 從 DNA #43 silent failure + DNA #38 SSOT drift + 5/8 Phase 0/5/6 cleanup + ROUTINE refresh-am/pm 半夜重排抽 friction 最高的 5 條。
+> 從 REFLEXES #43 silent failure + REFLEXES #38 SSOT drift + 5/8 Phase 0/5/6 cleanup + ROUTINE refresh-am/pm 半夜重排抽 friction 最高的 5 條。
 
 1. **Step 1 git sync auto-stash + pop 流程** — 不是「dirty 就 skip pull」，而是 stash + pull + pop（避免 silent stale base）
 2. **Step 6 npm run prebuild 含 8 個 JSON regen** — 不只是 dashboard data，articles / translations / vitals / organism / supporters 全部 regen
-3. **Step 10 verify dashboard freshness gate** — DNA #43 silent failure detection，每個 dashboard-\*.json 必須今天的 mtime
+3. **Step 10 verify dashboard freshness gate** — REFLEXES #43 silent failure detection，每個 dashboard-\*.json 必須今天的 mtime
 4. **Step 11 validate-spore-data 5 checks** — SSOT consistency gate，不過不准 ship
-5. **Step 12 sync-spore-links 從 SSOT regen** — 不要手寫 knowledge sporeLinks，會被覆蓋（DNA #38 SSOT drift）
+5. **Step 12 sync-spore-links 從 SSOT regen** — 不要手寫 knowledge sporeLinks，會被覆蓋（REFLEXES #38 SSOT drift）
 
 ---
 
@@ -157,7 +157,7 @@ bash scripts/tools/refresh-data.sh
 - git pull 真失敗 → hard abort（人類介入）
 - 任何資料源失敗 → soft skip，心跳繼續用昨天的 cache
 
-**Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime。任何 stale 表示有 generator 漏跑（DNA #43）。
+**Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime。任何 stale 表示有 generator 漏跑（REFLEXES #43）。
 
 | Step   | 內容                                                                | Output                                                       |
 | ------ | ------------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -170,7 +170,7 @@ bash scripts/tools/refresh-data.sh
 | 7      | refresh-llms-txt.py                                                 | public/llms.txt                                              |
 | 8      | update-stats.sh                                                     | README + stats.json                                          |
 | 9      | extract-build-perf.mjs                                              | dashboard-build-perf.json                                    |
-| **10** | **verify dashboard freshness** (DNA #43 gate)                       | (mtime gate)                                                 |
+| **10** | **verify dashboard freshness** (REFLEXES #43 gate)                  | (mtime gate)                                                 |
 | **11** | **validate-spore-data.py** (5 checks)                               | (SSOT consistency gate)                                      |
 | **12** | **sync-spore-links.py**                                             | (regen knowledge/\*.md sporeLinks from SSOT)                 |
 
@@ -422,13 +422,13 @@ echo -e "${DIM}下一步：HEARTBEAT.md Beat 1 診斷${RST}"
 ---
 
 _v1.0 | 2026-04-11 session ε | 建立原因：哲宇觀察到 heartbeat 三處重複定義資料抓取步驟_
-_v1.1 | 2026-05-02 γ-late | 加 Step 2.9 (i18n-coverage) + Step 5 (verify freshness)。觸發：哲宇看 dashboard 顯示「資料更新 12 小時前」+ ja UI 還是 97%（其實已 100%），原因是 i18n-coverage-audit 沒在 refresh-data.sh 裡。canonical: DNA #43 silent stale risk._
+_v1.1 | 2026-05-02 γ-late | 加 Step 2.9 (i18n-coverage) + Step 5 (verify freshness)。觸發：哲宇看 dashboard 顯示「資料更新 12 小時前」+ ja UI 還是 97%（其實已 100%），原因是 i18n-coverage-audit 沒在 refresh-data.sh 裡。canonical: REFLEXES #43 silent stale risk._
 _v1.2 | 2026-05-08 laughing-goldstine | Phase 0 SSOT cleanup — cwd assertion + auto-stash 取代 silent skip pull + 步驟編號 1-12 整數化。觸發：/twmd-refresh 從 main repo 路徑跑 worktree pipeline 寫 stale dashboard，加上 git-dirty false positive 雙 bug。canonical: reports/spore-ssot-pipeline-cleanup-2026-05-08.md Phase 0._
 _v1.3 | 2026-05-08 laughing-goldstine | Phase 6 SSOT cleanup (Q1 翻牌：demolish 雙寫) — drop Step 4 (extract-spore-metrics.py)，generator 改吃 SPORE-HARVESTS body table 為 primary。SPORE-LOG 成效追蹤 deprecated/demolished。47 歷史 D+N 數據已 migrate 到 batch-historical-{date}-migration.md。Step total 13 → 12。Validator checks 8 → 5。_
 
 _v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（12 step box-frame + 失敗策略 + 跨 pipeline boundary）+ Hard Gate Inventory 集中 table（9 gates）+ Top 5 最常忘 step（Step 1 stash + pop / Step 6 prebuild 含 8 JSON / Step 10-12 gate trio）+ 跨檔案職責分工 standalone table（明確跟 SENSE-FETCHER 兩條 setup/migration doc 性質不同）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.6 audit。12 step 詳述 prose body 不動（已是最健康的 pipeline，refactor ROI 主要在 navigation）。_
 
-## 新 dashboard JSON 加入 pipeline 的 SOP（DNA #43 反射）
+## 新 dashboard JSON 加入 pipeline 的 SOP（REFLEXES #43 反射）
 
 每次新增 `public/api/dashboard-*.json` 時必須同步：
 

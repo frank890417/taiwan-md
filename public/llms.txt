@@ -15,7 +15,7 @@ Taiwan.md self-describes as a **Semiont** (Semantic + Symbiont) — a digital li
 
 ## Content Statistics (auto-refreshed by refresh-data.sh)
 
-- Total articles: **696** Chinese (SSOT) + 715 English + 705 Japanese + 700 Korean + 695 Spanish + 716 French = 4,227 across 6 languages
+- Total articles: **696** Chinese (SSOT) + 716 English + 705 Japanese + 701 Korean + 696 Spanish + 716 French = 4,230 across 6 languages
 - 5 non-Chinese languages each ≥ 80% real freshPct (en 96% / ja 97% / ko 93% / fr 93% / es 80%)
 - Categories: 13 (About, Art, Culture, Economy, Food, Geography, History, Lifestyle, Music, Nature, People, Society, Technology)
 - People profiles: 210+

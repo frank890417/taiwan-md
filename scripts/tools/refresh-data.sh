@@ -11,7 +11,7 @@
 #    7. refresh-llms-txt.py                 (sync llms.txt content stats)
 #    8. update-stats.sh                     (README + stats.json)
 #    9. extract-build-perf.mjs              (build perf trend dashboard)
-#   10. verify dashboard freshness          (mtime gate, DNA #43)
+#   10. verify dashboard freshness          (mtime gate, REFLEXES #43)
 #   11. validate-spore-data.py              (SSOT consistency check)
 #   12. sync-spore-links.py                 (regen knowledge/*.md sporeLinks; Phase 3)
 #
@@ -33,7 +33,7 @@
 #
 # 詳見：docs/pipelines/DATA-REFRESH-PIPELINE.md
 # 2026-04-11 session ε 建造
-# 2026-05-02 γ-late: 加 i18n-coverage + verify freshness (DNA #43)
+# 2026-05-02 γ-late: 加 i18n-coverage + verify freshness (REFLEXES #43)
 # 2026-05-08 laughing-goldstine: Phase 0 SSOT cleanup
 #   - cwd assertion（防 main repo 跑 worktree 跑混淆）
 #   - git-dirty 改 auto-stash（不再 silent skip pull）
@@ -190,7 +190,7 @@ fi
 echo ""
 
 # ────────────────── Step 11 — verify dashboard freshness ──────────────────
-# DNA #43: 每個 public/api/dashboard-*.json 都必須有今天的 mtime，否則 generator 漏跑了
+# REFLEXES #43: 每個 public/api/dashboard-*.json 都必須有今天的 mtime，否則 generator 漏跑了
 echo -e "${GRN}[10/12]${RST} verify dashboard freshness..."
 TODAY=$(date +%Y-%m-%d)
 STALE_COUNT=0

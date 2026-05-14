@@ -1,7 +1,7 @@
 """
 backends/ollama.py — Local Ollama HTTP API backend.
 
-Per DNA #49 "v2.0 4-tier cascade" — Ollama is the sovereignty backbone, not a backup.
+Per REFLEXES #49 "v2.0 4-tier cascade" — Ollama is the sovereignty backbone, not a backup.
 Cloud free-tier consistently refuses last-20% sovereignty-sensitive content (心戰 /
 戒嚴 / 兩岸 / 黑名單 / 政治歷史敘事). Local LLM永遠收下, 0 refusal rate observed.
 
@@ -41,7 +41,7 @@ class OllamaBackend(TranslationBackend):
         max_context_chars=130_000,
         prc_refusal_risk_low=True, # local + Western training data
         multilingual_strength=0.78,
-        notes="Sovereignty backbone (DNA #49). 0 refusal observed on Taiwan content. "
+        notes="Sovereignty backbone (REFLEXES #49). 0 refusal observed on Taiwan content. "
               "Slower than cloud but永遠 available. GPU contention → single-process serial.",
     )
 

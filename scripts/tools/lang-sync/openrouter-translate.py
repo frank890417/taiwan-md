@@ -238,7 +238,7 @@ def call_openrouter(_api_key_unused, model, system, user_msg, max_retries=3, max
     """Call OpenRouter API with key rotation on 429.
 
     `_api_key_unused` is kept for backward compat — internal logic now picks
-    fresh key per attempt via pick_api_key() (DNA #45 budget × N rotation).
+    fresh key per attempt via pick_api_key() (REFLEXES #45 budget × N rotation).
     """
     payload = json.dumps({
         "model": model,

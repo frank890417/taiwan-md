@@ -13,7 +13,7 @@ Lines patched:
 5. "Average revisions per article: N"
 6. "210+" appearing in `People (人物) — N+ profiles:`
 
-Triggered from refresh-data.sh Step 2.95 (added 2026-05-04 per DNA #43:
+Triggered from refresh-data.sh Step 2.95 (added 2026-05-04 per REFLEXES #43:
 new dashboard-* generators must register in refresh-data.sh or go silent stale).
 
 Usage:
@@ -22,7 +22,7 @@ Usage:
   --check    exit 1 if llms.txt would change (CI gate)
   --dry-run  print diff without writing
 
-Per DNA #48 (mechanical first, LLM last) — this script is pure deterministic
+Per REFLEXES #48 (mechanical first, LLM last) — this script is pure deterministic
 regex replace, no LLM calls, runs in <100ms.
 """
 

@@ -2,7 +2,7 @@
 """
 verify-batch.py — Stage P4 統一驗證（per TRANSLATION-PIPELINE v3.3 §平行 sub-agent 批次翻譯 SOP）
 
-機械化驗證所有 batch translation outputs，**不 trust agent self-report**（DNA #31）：
+機械化驗證所有 batch translation outputs，**不 trust agent self-report**（REFLEXES #31）：
 1. 0-byte file purge (agent kill signature — 2026-04-30 δ2 教訓)
 2. 存在 + frontmatter 完整度（4 欄位 grep）
 3. YAML pre-flight (catch \\'s escape bug + unquoted year tags)
@@ -62,7 +62,7 @@ def main():
         for p in purged:
             log(f"      {p}")
 
-    # ----- 1. 存在 + frontmatter completeness (DNA #31) -----
+    # ----- 1. 存在 + frontmatter completeness (REFLEXES #31) -----
     log("[1/8] 存在 + frontmatter 4 欄位完整度...")
     missing_files = []
     bad_frontmatter = []

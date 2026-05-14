@@ -5,7 +5,7 @@ import { LANGUAGES } from '../config/languages';
 
 // 2026-04-25 β7 Phase 1：路由疊加 fix（i18n-evolution-roadmap audit B1）
 // 從 LANGUAGES_REGISTRY 動態 derive 非預設啟用語言清單，
-// 對應 MANIFESTO §指標 over 複寫 + DNA #20 architecture-as-data。
+// 對應 MANIFESTO §指標 over 複寫 + REFLEXES #20 architecture-as-data。
 const NON_DEFAULT_ENABLED_LANGS = LANGUAGES.filter(
   (l) => l.enabled && !l.isDefault,
 ).map((l) => l.code) as readonly Lang[];
@@ -62,7 +62,7 @@ async function getValidZhFiles(): Promise<Set<string>> {
 // Single uniform abstraction replacing the previous per-lang Map<> + per-lang
 // branch duplication. 2026-05-02 sleepy-colden refactor: from 5 lang × 4 branch
 // duplicate (~100 lines) to 1 LangMap registry + uniform loop (this is the
-// 造橋鋪路 application of MANIFESTO §指標 over 複寫 + DNA #20).
+// 造橋鋪路 application of MANIFESTO §指標 over 複寫 + REFLEXES #20).
 interface LangMap {
   // langUrl (e.g., '/en/art/...') → zhUrl (e.g., '/art/中文檔')
   toZh: Map<string, string>;

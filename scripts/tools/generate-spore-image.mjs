@@ -12,7 +12,7 @@
  * woff binary 壞掉（FontFace API reject），所以 .hero-title 改 fallback
  * 到 lanyanghei-extraheavy（與一般 h1 同字體）。等 justfont 修好可改回。
  *
- * DNA #26 v2 合規：AI 自主生圖屬「內部處理」，Post 到 Threads/X 仍然
+ * REFLEXES #26 v2 合規：AI 自主生圖屬「內部處理」，Post 到 Threads/X 仍然
  * 是 human only。本腳本只產檔不發文。
  *
  * 用法：

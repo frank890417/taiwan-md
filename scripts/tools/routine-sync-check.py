@@ -3,8 +3,8 @@
 routine-sync-check.py — Routine 飛輪 SSOT vs mirror drift detector
 
 per MANIFESTO §指標 over 複寫 §薄殼鐵律
-per DNA #38 status drift = silent killer
-per DNA #52 immune system fail-loud
+per REFLEXES #38 status drift = silent killer
+per REFLEXES #52 immune system fail-loud
 per ROUTINE.md §同步來源 — promised tool, finally written 2026-05-11
 
 Compares docs/semiont/ROUTINE.md SSOT vs
@@ -253,7 +253,7 @@ def print_human(results, exit_code):
 
     if results["cron_drift"]:
         print(
-            f"❌ CRON_DRIFT ({len(results['cron_drift'])}) — SSOT cron 欄位 vs mirror SKILL.md cron 不一致 (DNA #38):"
+            f"❌ CRON_DRIFT ({len(results['cron_drift'])}) — SSOT cron 欄位 vs mirror SKILL.md cron 不一致 (REFLEXES #38):"
         )
         for r in results["cron_drift"]:
             print(

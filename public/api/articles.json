@@ -2197,20 +2197,13 @@
   },
   {
     "title": "台湾企業：TSMC（台湾積体電路製造）",
-    "description": "56歳の人物が1987年に「世界中で誰もやったことがない」タイプの会社を創業し、それが地球上で最も重要な工場になった",
+    "description": "54歳でテキサス・インスツルメンツを離れ、56歳でTSMCを創業したモリス・チャン（張忠謀）は最初の18年間に3度の難を逃れ、6つの都市を住み渡った。38年後の2025年3月3日、トランプ大統領がホワイトハウスでTSMCの後継者ウェイ・チェジャを指して言った——「彼こそがこの部屋で最も重要な男だ」と。2026年第1四半期のTSMCの単期売上高は359億ドル。台風が頻繁に訪れ、水も電力も不足するこの島が、全人類のデジタル文明の心臓を作り上げた——しかしその心臓が大きくなるほど、この島がその代償を担えるかどうかはますます見えなくなっている。",
     "category": "ja",
-    "tags": [
-      "Economy",
-      "企業",
-      "半導体",
-      "テクノロジー",
-      "製造業",
-      "TSMC"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/Economy/tsmc-taiwan-semiconductor",
-    "readingTime": 29,
+    "readingTime": 54,
     "featured": true,
-    "date": "2026-03-25",
+    "date": "2026-05-09",
     "path": "ja/Economy/tsmc-taiwan-semiconductor.md"
   },
   {
@@ -4828,7 +4821,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/Music/taiwan-soundscape",
-    "readingTime": 42,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-03-17",
     "path": "ja/Music/taiwan-soundscape.md"
@@ -9525,7 +9518,7 @@
   },
   {
     "title": "安芝儇",
-    "description": "從韓國職業應援到移居高雄，她把「來台演出」推進成「在台生活」的韓籍啦啦隊新路徑。",
+    "description": "從韓國職業應援到台鋼 Wing Stars 主力外援，她把跨國演出經驗帶進高雄主場；2026 年大巨蛋檔期亦成為觀察其負伤調整與場邊角色的公開節點。",
     "category": "People",
     "tags": [
       "流行人物",
@@ -9537,9 +9530,9 @@
       "高雄"
     ],
     "url": "https://taiwan.md/People/%E5%AE%89%E8%8A%9D%E5%84%87",
-    "readingTime": 6,
+    "readingTime": 5,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/安芝儇.md"
   },
   {
@@ -9728,13 +9721,13 @@
   },
   {
     "title": "朴旻曙",
-    "description": "從韓國到台灣球場，她以穩定舞台感與親和互動，成為中信兄弟韓援應援世代的重要成員。",
+    "description": "以「Mingo」之名加入台鋼雄鷹 Wing Stars，她在南部主場體系裡扛起表演總監與韓籍外援角色，呈現中職啦啦隊「外援制度化」的另一條路。",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/People/%E6%9C%B4%E6%97%BB%E6%9B%99",
-    "readingTime": 6,
+    "readingTime": 4,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/朴旻曙.md"
   },
   {
@@ -9756,7 +9749,7 @@
     "url": "https://taiwan.md/People/%E6%9C%B4%E6%98%9F%E5%9E%A0",
     "readingTime": 7,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/朴星垠.md"
   },
   {
@@ -9926,7 +9919,7 @@
     "url": "https://taiwan.md/People/%E8%82%8C%E8%82%89%E5%B1%B1%E5%B1%B1",
     "readingTime": 4,
     "featured": false,
-    "date": "2026-04-15",
+    "date": "2026-05-13",
     "path": "People/肌肉山山.md"
   },
   {
@@ -10335,9 +10328,9 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/People/%E6%9D%8E%E5%A4%9A%E6%85%A7",
-    "readingTime": 7,
+    "readingTime": 8,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/李多慧.md"
   },
   {
@@ -10480,9 +10473,9 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/People/%E6%9D%8E%E7%8F%A0%E7%8F%A2",
-    "readingTime": 6,
+    "readingTime": 7,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/李珠珢.md"
   },
   {
@@ -10538,7 +10531,7 @@
     "url": "https://taiwan.md/People/%E6%9D%8E%E6%99%A7%E7%A6%8E",
     "readingTime": 6,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/李晧禎.md"
   },
   {
@@ -10661,7 +10654,7 @@
     "url": "https://taiwan.md/People/%E6%9D%8E%E9%9B%85%E8%8B%B1",
     "readingTime": 6,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/李雅英.md"
   },
   {
@@ -11304,7 +11297,7 @@
       "2026"
     ],
     "url": "https://taiwan.md/ja/People/ji-lin-lian",
-    "readingTime": 35,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-05-03",
     "path": "ja/People/ji-lin-lian.md"
@@ -12079,7 +12072,7 @@
     "url": "https://taiwan.md/People/%E9%87%91%E9%87%9D%E8%8F%87",
     "readingTime": 6,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/金針菇.md"
   },
   {
@@ -12344,9 +12337,9 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/People/%E5%8D%97%E7%8F%89%E8%B2%9E",
-    "readingTime": 6,
+    "readingTime": 5,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/南珉貞.md"
   },
   {
@@ -15935,18 +15928,12 @@
     "path": "People/幾米.md"
   },
   {
-    "title": "曾博恩：從神經科學到小巨蛋，一個「不搞笑」的人如何定義台灣喜劇",
-    "description": "1990 年出生的曾博恩，以神經科學雙碩士背景跨界單口喜劇，創辦薩泰爾娛樂並推出《博恩夜夜秀》，成為首位登上小巨蛋的喜劇演員。他在理性研究與冒犯藝術間拉扯，試圖用「不搞笑」的科學態度，在台灣播下美式諷刺喜劇的種子。",
+    "title": "曾博恩：算得出笑點，算不準社會",
+    "description": "1990 年生的曾博恩，從建中課桌椅上的耳機，到台大外文心理雙修、倫敦大學腦與心智科學、巴黎第六大學整合生物學碩士，最後在博士班申請前夕轉身投入單口喜劇。他與謝政豪共創薩泰爾娛樂，把台灣脫口秀從卡米地的 Open Mic 推進到一萬三千人的小巨蛋，也用同一份神經科學家的精準，算錯了鄭南榕梗、外送員影片、和娛樂稅官司的社會情緒重量。",
     "category": "People",
-    "tags": [
-      "曾博恩",
-      "薩泰爾娛樂",
-      "單口喜劇",
-      "博恩夜夜秀",
-      "台灣文化"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/People/%E6%9B%BE%E5%8D%9A%E6%81%A9",
-    "readingTime": 11,
+    "readingTime": 56,
     "featured": false,
     "date": "2026-05-13",
     "path": "People/曾博恩.md"
@@ -18056,7 +18043,7 @@
       "先住民族"
     ],
     "url": "https://taiwan.md/ja/People/tsai-ing-wen",
-    "readingTime": 20,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-17",
     "path": "ja/People/tsai-ing-wen.md"
@@ -19593,13 +19580,13 @@
   },
   {
     "title": "邊荷律",
-    "description": "從中信兄弟韓援代表到跨賽季續留，她的在台歷程呈現「高人氣下的職業韌性」與情緒勞動現實。",
+    "description": "從中信兄弟韓援代表到跨賽季續留，她在高人氣之外，亦在公開訪談中坦承家人健康議題對心情的影響，呈現應援工作者的真實壓力面。",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/People/%E9%82%8A%E8%8D%B7%E5%BE%8B",
-    "readingTime": 7,
+    "readingTime": 6,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "People/邊荷律.md"
   },
   {
@@ -19804,6 +19791,25 @@
     "featured": false,
     "date": "2026-05-07",
     "path": "ja/Art/yingge-ceramics-museum.md"
+  },
+  {
+    "title": "a carte d'identité numérique et le gouvernement électronique à Taïwa",
+    "description": "omment Taïwan a dépensé 48 milliards de NT$ pour une carte à puce jamais distribuée — et ce que cela révèle sur la confiance, la démocratie numérique et la gouvernance à l'ère des données",
+    "category": "fr",
+    "tags": [
+      "identité numérique",
+      "gouvernement électronique",
+      "démocratie numérique",
+      "données personnelles",
+      "vie privée",
+      "participation citoyenne",
+      "Audrey Tang"
+    ],
+    "url": "https://taiwan.md/fr/Technology/digital-id-and-digital-government",
+    "readingTime": 68,
+    "featured": false,
+    "date": "2024-01-01",
+    "path": "fr/Technology/digital-id-and-digital-government.md"
   },
   {
     "title": "A History of Taiwanese Literature",
@@ -22113,20 +22119,21 @@
     "path": "fr/People/cheng-chao-tsun-javelin-asian-king.md"
   },
   {
-    "title": "Cheng Chao-tsun: The Javelin King of Asia",
-    "description": "Taiwan's javelin legend who set the Asian record of 91.36m at the 2017 Universiade, revolutionizing Asian javelin throwing",
+    "title": "Cheng Chao-tsun: 91.36 Meters on the Last Throw — The Day Asian Javelin Changed Forever",
+    "description": "Born October 17, 1993 in Taichung, Cheng Chao-tsun is Taiwan's most accomplished javelin thrower in history. In the men's javelin final at the 2017 Taipei Summer Universiade, his last throw of 91.36 meters reversed the standings and won gold, setting the Asian record and making him the first Asian athlete to exceed 90 meters — ranked 12th all-time in the world at that point. He won gold at 86.72 meters at the 2019 Asian Athletics Championships and silver at 87.12 meters at the 2019 Diamond League Shanghai. He competed injured at the 2021 Tokyo Olympics but did not advance to the final. The world record is held by Czech athlete Jan Železný at 98.48 meters.",
     "category": "en",
     "tags": [
-      "athletics",
-      "track and field",
-      "javelin",
+      "Sports",
+      "Athletics",
+      "Javelin",
       "Universiade",
-      "Asian record"
+      "Asian Record",
+      "Tokyo Olympics"
     ],
     "url": "https://taiwan.md/en/People/cheng-chao-tsun-javelin-asian-king",
-    "readingTime": 37,
+    "readingTime": 41,
     "featured": false,
-    "date": "2026-03-20",
+    "date": "2026-03-19",
     "path": "en/People/cheng-chao-tsun-javelin-asian-king.md"
   },
   {
@@ -25342,6 +25349,17 @@
     "path": "es/Economy/taiwan-enterprise-chang-chun-petrochemical.md"
   },
   {
+    "title": "Empresa taiwanesa: TSMC",
+    "description": "Morris Chang dejó Texas Instruments a los 54 años y fundó TSMC a los 56, tras escapar tres veces de conflictos armados y vivir en seis ciudades durante sus primeros dieciocho años. Treinta y ocho años después, el 3 de marzo de 2025, el presidente Trump señaló en la Casa Blanca al sucesor de Chang, C.C. Wei, y dijo: 'Él es el hombre más importante de esta sala.' En el primer trimestre de 2026, los ingresos trimestrales de TSMC alcanzaron los 35.900 millones de dólares. En una isla sacudida por tifones, con escasez de agua y electricidad, se construyó el corazón de la civilización digital de la humanidad; pero cuanto más grande se vuelve ese corazón, más incierta es la capacidad de esta isla para soportar su peso.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/Economy/tsmc-taiwan-semiconductor",
+    "readingTime": 121,
+    "featured": true,
+    "date": "2026-05-09",
+    "path": "es/Economy/tsmc-taiwan-semiconductor.md"
+  },
+  {
     "title": "Empresas de Taiwán: ASE Semiconductor",
     "description": "El mayor fabricante de encapsulado y pruebas del mundo: ¿por qué el dueño de una empresa constructora se cambió al sector de los semiconductores?",
     "category": "es",
@@ -25519,24 +25537,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "es/Economy/taiwanese-companies-realtek-semiconductor.md"
-  },
-  {
-    "title": "Empresas taiwanesas: TSMC",
-    "description": "Una persona de 56 años fundó en 1987 un tipo de empresa que \"nadie en el mundo había hecho antes\", y se convirtió en la fábrica más importante del planeta",
-    "category": "es",
-    "tags": [
-      "Economy",
-      "Empresa",
-      "Semiconductores",
-      "Tecnología",
-      "Manufactura",
-      "TSMC"
-    ],
-    "url": "https://taiwan.md/es/Economy/tsmc-taiwan-semiconductor",
-    "readingTime": 62,
-    "featured": true,
-    "date": "2026-03-25",
-    "path": "es/Economy/tsmc-taiwan-semiconductor.md"
   },
   {
     "title": "En la encrucijada de la educación y la revitalización lingüística de los pueblos indígenas de Taiwán: la escuela primaria aguanta, la secundaria no",
@@ -25718,20 +25718,13 @@
   },
   {
     "title": "Entreprises taïwanaises : TSMC",
-    "description": "Un homme de 56 ans a fondé en 1987 une entreprise que \"personne au monde n'avait jamais créée\", et elle est devenue l'usine la plus stratégique de la planète",
+    "description": "Morris Chang avait 54 ans quand il quitta Texas Instruments, et 56 ans quand il fonda TSMC. Ses dix-huit premières années, il avait fui trois fois, vécu dans six villes. Trente-huit ans plus tard, le 3 mars 2025, le président américain Trump désignait son successeur C. C. Wei dans la Salle Est de la Maison Blanche : «Il est l'homme le plus important de cette pièce.» Au premier trimestre 2026, le chiffre d'affaires trimestriel de TSMC atteignait 35,9 milliards de dollars. Sur une île frappée par les typhons, manquant d'eau et d'électricité, a été bâti le coeur de la civilisation numérique de l'humanité — mais plus ce coeur grossit, moins il est clair si cette île peut en supporter le prix.",
     "category": "fr",
-    "tags": [
-      "Économie",
-      "Entreprises",
-      "Semi-conducteurs",
-      "Technologie",
-      "Industrie manufacturière",
-      "TSMC"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/Economy/tsmc-taiwan-semiconductor",
-    "readingTime": 63,
+    "readingTime": 118,
     "featured": true,
-    "date": "2026-03-25",
+    "date": "2026-05-09",
     "path": "fr/Economy/tsmc-taiwan-semiconductor.md"
   },
   {
@@ -27396,6 +27389,39 @@
     "featured": false,
     "date": "2026-04-07",
     "path": "en/Geography/how-to-read-the-taiwan-map.md"
+  },
+  {
+    "title": "Howhow: del personaje marginal que hace de varios a la vez, al rey del contenido patrocinado que redefinió la publicidad",
+    "description": "Chen Zi-hao (Howhow), nacido en 1989, estudió Economía en la Universidad Nacional de Chengchi antes de cruzarse al mundo de los efectos visuales en el Savannah College of Art and Design de Estados Unidos. Con un humor absurdo en el que él mismo interpreta todos los personajes, convirtió el \"contenido patrocinado\" —lo que más detestan los espectadores— en la principal fortaleza competitiva de su canal. Esta \"actuación en solitario\" de diez años redefinió los límites del marketing tradicional y le permitió construir, desde la autoironía y su imagen de marginal, la conexión más profunda con la cultura de internet taiwanesa.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/People/howhow",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "es/People/howhow.md"
+  },
+  {
+    "title": "Howhow: From Solo Outsider to the Sponsored-Content King Who Redefined Advertising",
+    "description": "Born in 1989, Chen Tzu-hao studied economics at National Chengchi University before crossing over to pursue a master's in visual effects at the Savannah College of Art and Design in the US. With absurdist one-man skits where he plays every character himself, he transformed the audience's most-hated genre — sponsored content — into his channel's greatest competitive strength. This ten-year 'solo performance' redefined the boundaries of traditional marketing and built the deepest collective resonance with Taiwan's internet generation through self-deprecating outsider humor.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/howhow",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "en/People/howhow.md"
+  },
+  {
+    "title": "Howhow: 혼자 여러 역을 소화한 아웃사이더에서, 광고를 재정의한 \"협찬의 왕\"까지",
+    "description": "1989년생 천쯔하오(陳孜昊)는 정치대학 경제학과에서 미국 사바나 예술대학원 시각 특수효과 전공으로 전향했다. 한 명이 여러 역을 연기하는 엉뚱한 단막극으로 시청자들이 가장 싫어하던 \"협찬\"을 채널의 핵심 경쟁력으로 탈바꿈시켰다. 10년간의 이 \"고독한 공연\"은 전통 마케팅의 경계를 새롭게 정의했고, 자조(自嘲)와 아웃사이더 설정 속에서 대만 네티즌과의 가장 깊은 집단적 공명을 쌓아냈다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/People/howhow",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "ko/People/howhow.md"
   },
   {
     "title": "Howhow：從一人分飾多角的邊緣人，到重新定義廣告的業配之王",
@@ -30196,25 +30222,6 @@
     "featured": true,
     "date": "2026-03-21",
     "path": "fr/Nature/biodiversity.md"
-  },
-  {
-    "title": "La carte d'identité numérique et le gouvernement électronique à Taïwan",
-    "description": "Comment Taïwan a dépensé 48 milliards de NT$ pour une carte à puce jamais distribuée — et ce que cela révèle sur la confiance, la démocratie numérique et la gouvernance à l'ère des données.",
-    "category": "fr",
-    "tags": [
-      "identité numérique",
-      "gouvernement électronique",
-      "démocratie numérique",
-      "données personnelles",
-      "vie privée",
-      "participation citoyenne",
-      "Audrey Tang"
-    ],
-    "url": "https://taiwan.md/fr/Technology/digital-id-and-digital-government",
-    "readingTime": 68,
-    "featured": false,
-    "date": "2024-01-01",
-    "path": "fr/Technology/digital-id-and-digital-government.md"
   },
   {
     "title": "La ceremonia del té taiwanesa y la estética de la vida cotidiana",
@@ -33462,7 +33469,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/Music/taiwan-soundscape",
-    "readingTime": 77,
+    "readingTime": 78,
     "featured": false,
     "date": "2026-03-17",
     "path": "fr/Music/taiwan-soundscape.md"
@@ -33648,8 +33655,8 @@
     "path": "fr/Nature/formosan-salamander.md"
   },
   {
-    "title": "Le système de santé taïwanais et l\\'Assurance Maladie Universelle",
-    "description": "Le paradoxe d\\'une couverture à 99 % : classée première mondiale par Numbeo pendant six années consécutives, pourquoi l\\'assurance maladie taïwanaise repose-t-elle sur l\\'épuisement du personnel soignant ?",
+    "title": "Le système de santé taïwanais et l'Assurance Maladie Universelle",
+    "description": "Le paradoxe d'une couverture à 99 % : classée première mondiale par Numbeo pendant six années consécutives, pourquoi l'assurance maladie taïwanaise repose-t-elle sur l'épuisement du personnel soignant ?",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/Lifestyle/taiwan-healthcare-and-national-health-insurance",
@@ -37455,17 +37462,6 @@
     "path": "en/Food/oil-rice.md"
   },
   {
-    "title": "On peut prédire la trajectoire, pas le destin : quatre cents ans de typhons à Taïwan",
-    "description": "Des premiers colons de la dynastie Qing assistant aux ouragans à Penghu, à la disparition du village de Xiaolin sous des pluies torrentielles en 2009, l'histoire de la coexistence entre Taïwan et les typhons n'a jamais cessé. Aujourd'hui, nous pouvons utiliser l'IA pour prédire la trajectoire d'un typhon trente à l'avance en quatre minutes, mais le météorologue Wu Derong a révélé une vérité contre-intuitive : la Chaîne centrale n'est pas un dieu protecteur, mais un compresseur qui transforme le vent en eau.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/Nature/typhoons-in-taiwan",
-    "readingTime": 148,
-    "featured": false,
-    "date": "2026-05-06",
-    "path": "fr/Nature/typhoons-in-taiwan.md"
-  },
-  {
     "title": "Open Source Community and g0v",
     "description": "In February 2020, while the rest of the world was scrambling to buy masks, a group of Taiwanese programmers built a mask-inventory query system covering 13,000 convenience stores in just 72 hours — with no government mandate and no budget, only one belief: use code to change society. This is g0v (gov-zero), a remarkable experiment in 'forking the government.'",
     "category": "en",
@@ -38362,14 +38358,14 @@
     "path": "fr/About/why-taiwan-needs-its-own-knowledge-base.md"
   },
   {
-    "title": "Predicting the Path, Not the Destiny: Four Centuries of Taiwan and Typhoons",
-    "description": "From Qing Dynasty settlers witnessing hurricanes in Penghu to the village of Xiaolin vanishing under torrential rains in 2009, Taiwan's coexistence with typhoons has never ceased. Today we can use AI to forecast a typhoon's path thirty days out in just four minutes, but meteorologist Wu Derong revealed a counterintuitive truth: the Central Mountain Range is not a divine protector but a pressurizer that turns wind into water.",
+    "title": "Predicting the Storm, Not the Fate: Taiwan and Typhoons Across Four Centuries",
+    "description": "On the morning of 2009's Typhoon Morakot, 71-year-old Lo Pan Chun-mei stood on her second-floor balcony and watched Mount Hsientou collapse, swallowing 462 of her relatives in Xiaolin Village. Fifteen years later, Taiwan has used six AI models to compress its 24-hour typhoon track error from 172 kilometers down to 57. But who within those 57 kilometers goes to work in the storm, and who never receives the warning — that, no forecast can predict.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Nature/typhoons-in-taiwan",
-    "readingTime": 136,
+    "readingTime": 92,
     "featured": false,
-    "date": "2026-05-06",
+    "date": "2026-05-09",
     "path": "en/Nature/typhoons-in-taiwan.md"
   },
   {
@@ -38430,6 +38426,17 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "es/Culture/loanwords-and-language-contact-in-taiwan.md"
+  },
+  {
+    "title": "Prevoir la trajectoire, pas le destin : quatre cents ans de typhons a Taiwan",
+    "description": "Ce matin-là en 2009, Luo Pan-chunmei, 71 ans, se tenait sur le balcon du deuxième etage et regardait le mont Xiandu s'effondrer, engloutissant 462 de ses proches au village de Xiaolin. Quinze ans plus tard, Taiwan utilise six modèles d'IA pour comprimer l'erreur de prediction sur 24 heures de la trajectoire des typhons de 172 km à 57 km. Mais dans ces 57 km, personne ne peut predire qui sortira travailler sous la pluie et le vent, ni qui ne recevra pas l'alerte.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/Nature/typhoons-in-taiwan",
+    "readingTime": 113,
+    "featured": false,
+    "date": "2026-05-09",
+    "path": "fr/Nature/typhoons-in-taiwan.md"
   },
   {
     "title": "Prosa taiwanesa",
@@ -38596,14 +38603,14 @@
     "path": "ko/Technology/ptt-bulletin-board-system.md"
   },
   {
-    "title": "Puede predecir la trayectoria, pero no el destino: cuatrocientos años de tifones en Taiwán",
-    "description": "Desde los primeros colonos de la dinastía Qing que presenciaron huracanes en Penghu hasta la desaparición del pueblo de Xiaolin bajo lluvias torrenciales en 2009, la historia de la convivencia de Taiwán con los tifones nunca se ha detenido. Hoy podemos usar IA para predecir la trayectoria de un tifón con trente días de antelación en solo cuatro minutos, pero el meteorólogo Wu Derong reveló una verdad contraintuitiva: la Cordillera Central no es el dios que nos protege, sino un amplificador que convierte viento en agua.",
+    "title": "Puede predecir el viento y la lluvia, pero no el destino: cuatrocientos años de tifones en Taiwán",
+    "description": "En la madrugada de 2009, Luo Pan Chun-mei, de 71 años, estaba en el balcón del segundo piso mirando cómo el monte Xiantou se derrumbaba, tragándose a 462 de sus seres queridos del pueblo de Xiaolin. Quince años después, Taiwán usa seis modelos de IA para reducir el margen de error en la predicción de trayectorias de tifones a 24 horas de 172 kilómetros a 57 kilómetros. Pero quién saldrá a trabajar en medio del temporal dentro de esos 57 kilómetros, quién no recibirá la notificación de alerta: eso no se puede predecir.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Nature/typhoons-in-taiwan",
-    "readingTime": 143,
+    "readingTime": 112,
     "featured": false,
-    "date": "2026-05-06",
+    "date": "2026-05-09",
     "path": "es/Nature/typhoons-in-taiwan.md"
   },
   {
@@ -39644,6 +39651,23 @@
     "path": "en/People/shen-wencheng.md"
   },
   {
+    "title": "Shih Ming-te: Twenty-Five Years Behind Bars, He Finally Raised a Flag Against His Own Party",
+    "description": "After the 1979 Kaohsiung Incident, Shih Ming-te — charged as the mastermind — stood at his military tribunal and refused to plead guilty, refused to beg for mercy, and was sentenced to life imprisonment. He spent a cumulative twenty-five-plus years in prison, one of the most significant victims of Taiwan's democracy movement. But in 2006, the man who helped build the Democratic Progressive Party turned around and launched the anti-Chen Red Shirt Movement. On January 15, 2024 — his 83rd birthday — he died carrying that unresolved contradiction.",
+    "category": "en",
+    "tags": [
+      "Democracy Movement",
+      "Kaohsiung Incident",
+      "Political Prisoner",
+      "Red Shirt Movement",
+      "Political Leader"
+    ],
+    "url": "https://taiwan.md/en/People/shih-ming-te",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/People/shih-ming-te.md"
+  },
+  {
     "title": "Shih Ming-teh : vingt-cinq ans derrière les barreaux, il finit par lever le drapeau contre son propre parti",
     "description": "Après l'incident de Kaohsiung en 1979, Shih Ming-teh, désigné comme cerveau de l'affaire, prononça un plaidoyer éloquent devant le tribunal militaire : il ne reconnut aucun crime, ne demanda aucune clémence, et fut finalement condamné à la prison à vie. Il passa au total plus de vingt-cinq ans incarcéré, devenant l'une des figures les plus marquantes du mouvement démocratique taïwanais. Mais en 2006, celui qui avait contribué à bâtir le Parti démocrate progressiste (DPP) se retourna contre le pouvoir en lançant le mouvement des Chemises rouges contre Chen Shui-bian. Le 15 janvier 2024, jour de son 83e anniversaire, il quitta ce monde en emportant cette contradiction irrésolue.",
     "category": "fr",
@@ -39653,23 +39677,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/shih-ming-te.md"
-  },
-  {
-    "title": "Shih Ming-teh: Twenty-Five Years Behind Bars, He Finally Raised a Flag Against His Own Party",
-    "description": "After the 1979 Kaohsiung Incident, Shih Ming-teh, charged as the mastermind, delivered impassioned statements at his military tribunal—refusing to plead guilty, refusing to beg for mercy—and was ultimately sentenced to life imprisonment. He spent a cumulative twenty-five years in prison, making him one of the most significant victims of Taiwan's democracy movement. But in 2006, the man who had helped the Democratic Progressive Party seize power turned around and launched the anti-Chen Shui-bian Red Shirt Army. On January 15, 2024—his 83rd birthday—he passed away, carrying with him this unresolved contradiction.",
-    "category": "en",
-    "tags": [
-      "民主運動",
-      "美麗島事件",
-      "政治受難者",
-      "倒扁紅衫軍",
-      "政治領袖"
-    ],
-    "url": "https://taiwan.md/en/People/shih-ming-te",
-    "readingTime": 47,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/shih-ming-te.md"
   },
   {
     "title": "Shih Ming-teh: Veinticinco años entre rejas, al final levantó la bandera contra su propio partido",
@@ -40997,17 +41004,6 @@
     "path": "en/Economy/taiwan-enterprise-fubon-financial.md"
   },
   {
-    "title": "Taiwan Enterprise: TSMC",
-    "description": "A 56-year-old man founded a company in 1987 that 'no one in the world had done before,' and it became the most important factory on earth",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Economy/tsmc",
-    "readingTime": 56,
-    "featured": true,
-    "date": "2026-03-25",
-    "path": "en/Economy/tsmc.md"
-  },
-  {
     "title": "Taiwan Enterprise: Uni-President Enterprises",
     "description": "How a 13-year-old child laborer built a NT$657.6 billion revenue empire from scratch at age 38",
     "category": "en",
@@ -41208,7 +41204,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Lifestyle/taiwan-healthcare-and-national-health-insurance",
-    "readingTime": 42,
+    "readingTime": 43,
     "featured": true,
     "date": "2026-03-30",
     "path": "en/Lifestyle/taiwan-healthcare-and-national-health-insurance.md"
@@ -43179,7 +43175,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Music/taiwan-soundscape",
-    "readingTime": 91,
+    "readingTime": 92,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/Music/taiwan-soundscape.md"
@@ -43277,6 +43273,17 @@
     "featured": true,
     "date": "2026-04-26",
     "path": "en/Lifestyle/transportation-system.md"
+  },
+  {
+    "title": "Taiwan's TSMC: The Island That Builds the World's Digital Heart",
+    "description": "Morris Chang left Texas Instruments at 54 and founded TSMC at 56, after fleeing war three times and living in six cities before age 18. Thirty-eight years later, on March 3, 2025, President Trump pointed to Chang's successor C.C. Wei in the White House and said: 'He is the most important man in the room.' In Q1 2026, TSMC posted $35.9 billion in quarterly revenue. An island battered by typhoons and perennially short on water and power built the heart of humanity's digital civilization — but the larger that heart grows, the less clear it becomes whether the island can bear its weight.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Economy/tsmc",
+    "readingTime": 110,
+    "featured": true,
+    "date": "2026-05-09",
+    "path": "en/Economy/tsmc.md"
   },
   {
     "title": "Taiwan's Urban Development and the Rural-Urban Divide",
@@ -44132,22 +44139,6 @@
   },
   {
     "title": "Terry Gou",
-    "description": "Founder of Hon Hai Precision Industry (Foxconn), world's largest electronics manufacturing services company",
-    "category": "en",
-    "tags": [
-      "people",
-      "entrepreneur",
-      "technology",
-      "manufacturing"
-    ],
-    "url": "https://taiwan.md/en/People/terry-gou",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/People/terry-gou.md"
-  },
-  {
-    "title": "Terry Gou",
     "description": "Fundador de Foxconn, líder mundial en servicios de manufactura electrónica",
     "category": "es",
     "tags": [
@@ -44177,6 +44168,24 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/terry-gou.md"
+  },
+  {
+    "title": "Terry Gou: Banqiao 1950, Hon Hai Plastics 1974 — Founder of a Manufacturing Empire",
+    "description": "Born October 18, 1950 in Taipei County's Banqiao. Founded Hon Hai Plastics Enterprise with NT$100,000 in 1974 (10 employees). Moved into PC connectors in 1981, renamed the company Hon Hai Precision in 1982. Handed over the chairmanship to Young Liu in June 2019. In 2021, the Yonglin Foundation partnered with TSMC and Foxconn to donate BNT vaccines. In 2023, ran for president as an independent but withdrew three hours before the registration deadline despite collecting 902,389 valid signatures. Fortune 500 rank #32 in 2024; Taiwan's richest person in 2026 at US$15.3 billion.",
+    "category": "en",
+    "tags": [
+      "Technology and Enterprise",
+      "Foxconn",
+      "Manufacturing",
+      "Entrepreneur",
+      "Fortune 500",
+      "Yonglin Foundation"
+    ],
+    "url": "https://taiwan.md/en/People/terry-gou",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/People/terry-gou.md"
   },
   {
     "title": "The 1895 Taiwan Resistance War: 148 Days of the Republic of Formosa",
@@ -45151,7 +45160,7 @@
       "原住民族"
     ],
     "url": "https://taiwan.md/en/People/tsai-ing-wen",
-    "readingTime": 50,
+    "readingTime": 52,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/People/tsai-ing-wen.md"
@@ -45189,7 +45198,7 @@
       "peuples autochtones"
     ],
     "url": "https://taiwan.md/fr/People/tsai-ing-wen",
-    "readingTime": 57,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-17",
     "path": "fr/People/tsai-ing-wen.md"
@@ -47493,17 +47502,6 @@
     "path": "ko/Nature/malayan-night-heron.md"
   },
   {
-    "title": "경로는 예측할 수 있어도, 운명은 예측할 수 없다: 대만과 태풍의 400년",
-    "description": "청대 선조들이 펑후(澎湖)에서 허리케인을 목격한 때부터, 2009년 샤오린촌(小林村)이 폭우 속에서 사라진 때까지, 대만과 태풍이 공존해 온 역사는 한 번도 멈춘 적이 없다. 오늘날 우리는 AI로 4분 만에 30일 후의 태풍 경로를 예측할 수 있지만, 기상 전문가 우더룽(吳德榮)은 반직관적 진실을 말했다: 중앙산맥은 우리를 지키는 신이 아니라, 바람을 물로 바꾸는 가압기다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/Nature/typhoons-in-taiwan",
-    "readingTime": 65,
-    "featured": false,
-    "date": "2026-05-06",
-    "path": "ko/Nature/typhoons-in-taiwan.md"
-  },
-  {
     "title": "경쟁 컵 쌓기(Sport Stacking): 1.915초의 온라인 경매 \"유행 아이템\"에서 아시아를 석권한 43금의 전설",
     "description": "2025년 대만 대표팀이 다롄 아시안컵에서 43금을 획득하고 7개 세계 기록을 경신하며, 한때 \"구멍 뚫린 컵 쌓기\"라는 조롱을 받았던 이 종목이 대만에서 가장 지배적인 경기 종목으로 부상했다. 린멍신(林孟欣)부터 세데크족 소녀 사마바쑤오(莎瑪巴紹)에 이르기까지, 대만 컵 쌓기는 0.001초의 한계를 추구하는 동시에 특수교육 재활과 일반-특수 통합교육(普特融合)에서 사회적 새로운 높이를 쌓아 올렸다.",
     "category": "ko",
@@ -47915,6 +47913,24 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "ko/People/kuo-chin-fa-taiwanese-singer.md"
+  },
+  {
+    "title": "궈타이밍: 반차오 1950, 홍하이 플라스틱 1974에서 위탁 생산 제국 창업자까지",
+    "description": "1950년 10월 18일 타이베이현 반차오 출생. 1974년 10만 대만 달러로 홍하이 플라스틱 기업(직원 10명) 창립. 1981년 PC 커넥터 진출, 1982년 홍하이 정밀로 개명. 2019년 6월 류양웨이에게 이사장직 이양. 2021년 영링 재단이 TSMC·홍하이와 협력해 BNT 백신 기증. 2023년 무소속으로 대통령 선거 출마 연서를 마친 후 등록 3시간 전 후보 사퇴. 2024년 Fortune 500 32위, 2026년 대만 최고 부자 (153억 달러).",
+    "category": "ko",
+    "tags": [
+      "과학기술과 기업",
+      "홍하이",
+      "제조업",
+      "기업인",
+      "Fortune 500",
+      "영링 재단"
+    ],
+    "url": "https://taiwan.md/ko/People/terry-gou",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ko/People/terry-gou.md"
   },
   {
     "title": "근육산산(肌肉山山): 피트니스·이중언어 유머로 쌓은 영향력",
@@ -48492,21 +48508,14 @@
     "path": "ko/Art/taiwanese-theater-and-performing-arts.md"
   },
   {
-    "title": "대만 기업: TSMC(대만 반도체 제조사)",
-    "description": "56세에 \"전 세계 어디에도 없던\" 회사를 창업한 한 사람의 이야기, 그리고 그것이 어떻게 지구에서 가장 중요한 공장이 됐는가",
+    "title": "대만 기업: TSMC (대만 반도체 제조사)",
+    "description": "54세에 텍사스인스트루먼츠를 떠나 56세에 TSMC를 창업한 모리스 창은 지난 18년간 세 번의 피란을 겪고 여섯 도시를 전전했다. 38년 후인 2025년 3월 3일, 미국 대통령 트럼프는 백악관에서 모리스 창의 후계자 웨이저자를 가리키며 말했다: \"그는 이 방에서 가장 중요한 사람입니다.\" 2026년 1분기 TSMC의 단분기 매출은 359억 달러. 태풍이 잦고 물과 전기가 부족한 섬에 세워진, 전 인류 디지털 문명의 심장――그러나 이 심장이 커질수록 이 섬이 그 대가를 감당할 수 있을지는 점점 더 불분명해진다.",
     "category": "ko",
-    "tags": [
-      "경제",
-      "기업",
-      "반도체",
-      "기술",
-      "제조업",
-      "TSMC"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/Economy/tsmc-taiwan-semiconductor",
-    "readingTime": 30,
+    "readingTime": 62,
     "featured": true,
-    "date": "2026-03-25",
+    "date": "2026-05-09",
     "path": "ko/Economy/tsmc-taiwan-semiconductor.md"
   },
   {
@@ -50813,7 +50822,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/Lifestyle/taiwan-healthcare-and-national-health-insurance",
-    "readingTime": 20,
+    "readingTime": 21,
     "featured": true,
     "date": "2026-03-30",
     "path": "ko/Lifestyle/taiwan-healthcare-and-national-health-insurance.md"
@@ -52054,6 +52063,17 @@
     "featured": false,
     "date": "2026-05-08",
     "path": "ko/Nature/palakaw.md"
+  },
+  {
+    "title": "바람과 비는 예측할 수 있어도, 운명은 예측할 수 없다: 대만과 태풍의 400년",
+    "description": "2009년 모라꼬(莫拉克) 태풍의 그 새벽, 71세의 뤄판춘메이(羅潘春美)는 2층 베란다에 서서 샨두산(獻肚山)이 무너지며 샤오린촌(小林村) 462명의 이웃을 삼키는 것을 지켜봤다. 15년 후, 대만은 여섯 개의 AI 모델로 24시간 태풍 경로 오차를 172km에서 57km로 줄였다. 그러나 그 57km 안에서 누가 폭우 속에 출근할지, 누가 경보를 받지 못할지는 예측할 수 없다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/Nature/typhoons-in-taiwan",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-05-09",
+    "path": "ko/Nature/typhoons-in-taiwan.md"
   },
   {
     "title": "바이시엔융: 현대 문학의 영원한 추구자",
@@ -55253,7 +55273,7 @@
       "원주민"
     ],
     "url": "https://taiwan.md/ko/People/tsai-ing-wen",
-    "readingTime": 25,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-03-17",
     "path": "ko/People/tsai-ing-wen.md"
@@ -56158,22 +56178,6 @@
     "featured": false,
     "date": "2026-05-09",
     "path": "ko/Society/typhoon-day.md"
-  },
-  {
-    "title": "테리 궈 (郭台銘)",
-    "description": "폭스콘(홍하이) 창업자, 세계 최대 전자 제조 서비스 기업의 수장",
-    "category": "ko",
-    "tags": [
-      "인물",
-      "기업인",
-      "과학기술",
-      "제조업"
-    ],
-    "url": "https://taiwan.md/ko/People/terry-gou",
-    "readingTime": 14,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ko/People/terry-gou.md"
   },
   {
     "title": "톨게이트: 고속도로 사라진 3초간의 정지",

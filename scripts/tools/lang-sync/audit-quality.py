@@ -45,7 +45,7 @@ def find_zh_source(trans_path: str) -> str:
     `translatedFrom: 'knowledge/Category/檔.md'` instead of the canonical
     `'Category/檔.md'`; without strip, this function returned
     `knowledge/knowledge/Category/檔.md` and falsely flagged 'zh source not
-    found'). 2026-05-02 sleepy-colden — DNA #42 v3 sub-agent prompt 反例補強."""
+    found'). 2026-05-02 sleepy-colden — REFLEXES #42 v3 sub-agent prompt 反例補強."""
     full = REPO / trans_path
     if not full.exists():
         return ""

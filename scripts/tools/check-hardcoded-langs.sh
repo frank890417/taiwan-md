@@ -97,7 +97,7 @@ if [[ $VIOLATIONS -gt 0 ]]; then
   echo ""
   echo "    import { ENABLED_LANGUAGE_CODES, ALL_LANGUAGE_CODES } from '../config/languages';"
   echo ""
-  echo "  Why：對應 MANIFESTO §指標 over 複寫 SSOT 原則 + DNA #20"
+  echo "  Why：對應 MANIFESTO §指標 over 複寫 SSOT 原則 + REFLEXES #20"
   echo "  Audit canonical：reports/i18n-evolution-roadmap-2026-04-25.md"
 
   if [[ "$MODE" == "--ci" ]] || [[ "$MODE" == "--staged" ]]; then

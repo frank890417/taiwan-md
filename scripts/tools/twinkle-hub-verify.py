@@ -3,7 +3,7 @@
 twinkle-hub-verify.py — Twinkle Hub deterministic verify CLI
 
 per reports/research/2026-05/twinkle-hub-application-2026-05-11.md §4 strongest application
-per MANIFESTO §10 幻覺鐵律 + DNA #23 毒樹果實鏈
+per MANIFESTO §10 幻覺鐵律 + REFLEXES #23 毒樹果實鏈
 per MANIFESTO §薄殼鐵律 — thin wrapper around https://api.twinkleai.tw/mcp/
 
 Reads Twinkle AI Hub API key from macOS Keychain:

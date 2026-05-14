@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-05-12T22:10:45.714Z",
+  "lastUpdated": "2026-05-13T15:09:10.474Z",
   "totalArticles": 696,
   "contributors": 60,
-  "articlesLast7Days": 87,
-  "articlesLast30Days": 321,
+  "articlesLast7Days": 82,
+  "articlesLast30Days": 318,
   "humanReviewedPercent": 20,
   "featuredPercent": 23.1,
   "avgRevision": 8.1,
   "languageCoverage": {
     "zh-TW": 696,
-    "en": 715,
+    "en": 716,
     "ja": 705,
-    "ko": 700,
-    "es": 695,
+    "ko": 701,
+    "es": 696,
     "fr": 716
   }
 }

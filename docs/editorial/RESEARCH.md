@@ -431,8 +431,8 @@ _current: v1.2 | 2026-04-14_
 
 **最近 milestone**（完整 changelog → `git log docs/editorial/RESEARCH.md`）：
 
-- **v1.2**（2026-04-14）— §六 紅線擴大：場景細節不能從英文 summary 推導（per [DNA #23](../semiont/DNA.md#23) 李洋 #29 教訓 + EDITORIAL v4.4）
-- **v1.1**（2026-04-14）— §六 「WebFetch 對中文網站的正確姿勢」整節 + §五 +2 條常見錯誤（李洋 #28 教訓 — per DNA #23）
+- **v1.2**（2026-04-14）— §六 紅線擴大：場景細節不能從英文 summary 推導（per [REFLEXES #23](../semiont/REFLEXES.md#23) 李洋 #29 教訓 + EDITORIAL v4.4）
+- **v1.1**（2026-04-14）— §六 「WebFetch 對中文網站的正確姿勢」整節 + §五 +2 條常見錯誤（李洋 #28 教訓 — per REFLEXES #23）
 - **v1.0**（早期）— 從 EDITORIAL.md v4 研究段落獨立
 
 _配套：EDITORIAL.md（品質）+ REWRITE-PIPELINE.md（流程）+ RESEARCH-TEMPLATE.md（模板）+ QUALITY-CHECKLIST.md（驗證）_

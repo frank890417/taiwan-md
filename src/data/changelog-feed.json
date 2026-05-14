@@ -1,7 +1,133 @@
 {
-  "generatedAt": "2026-05-12T22:10:44.623Z",
+  "generatedAt": "2026-05-13T15:09:09.391Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "71378fdc32a00502c7d0cc9e7ec8251ce6a5e81c",
+      "date": "2026-05-13T22:41:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-05-13-210341-manual — 觀察者一句話 trigger 結構性升級的三次同 session 浮現"
+    },
+    {
+      "hash": "acfedb370debebe248966d0c06ffa122d245514f",
+      "date": "2026-05-13T22:37:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory + evolve: Phase E ship — CLAUDE.md §Boot 流程 super-thin (50→12) + session memory 210341-manual"
+    },
+    {
+      "hash": "bcb42902c21c2df9becc27e2fe655129db955fce",
+      "date": "2026-05-13T22:28:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: Phase D ship — HEARTBEAT super-thin v3.0 (745→218, -71%) + BECOME 移出 default load + skill 改 routing layer"
+    },
+    {
+      "hash": "97476922f4f7fa5dd1660e4f68c978435d7e4565",
+      "date": "2026-05-13T22:21:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: Phase C ship — BECOME v2.0 Mode dispatcher + skill mode arg + CLAUDE.md align + report v0.3"
+    },
+    {
+      "hash": "84fb8a79f3693d33a1254b5f162fcc8ee77d2676",
+      "date": "2026-05-13T22:07:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-pm @ 2026-05-13 22:05 finale — PR #1060 dreamline2 11 篇人物 footnote 升級 merge + 髒 WT skip own-fix"
+    },
+    {
+      "hash": "b6d586f4b2b87a5cf38afd71491cc1a2b0a78058",
+      "date": "2026-05-13T22:02:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: Phase B1 ship — REFLEXES.md 拆檔 + ANATOMY 認知層 promotion flow + SENSES apoptosis"
+    },
+    {
+      "hash": "cb49ae85078a070504af450ebd94eae0081ffb37",
+      "date": "2026-05-13T21:44:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: Phase A2+A3 ship — routine-status.sh + inbox-signal.sh + BECOME L4 wire-up"
+    },
+    {
+      "hash": "a137e3d4c125b9cb7a6e1ea1e90576a5d869c798",
+      "date": "2026-05-13T21:42:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: BECOME boot mode design v0.2 + Phase A1 ship — CONSCIOUSNESS 動態化"
+    },
+    {
+      "hash": "859d7316de225efd91e2dea4bcdbeeb793b8ff9e",
+      "date": "2026-05-13T23:05:14+09:00",
+      "author": "Wilson Chen",
+      "message": "docs(people): verify sources and refresh popular-figures entries for May 2026 (#1060)"
+    },
+    {
+      "hash": "14f00f031b71d9eeebc944363854b45f07cbebbd",
+      "date": "2026-05-13T21:39:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 曾博恩 EVOLVE 後補丁 — 清除 audit trail 內 unverified 私人關係 claim"
+    },
+    {
+      "hash": "86db85f3d82b7604b52a1fbfab5fb64f55acf6aa",
+      "date": "2026-05-13T21:36:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 曾博恩 EVOLVE 2200→6001 字 / 19→51 footnote / Stage 0 觀點 v6.0 dogfood"
+    },
+    {
+      "hash": "2b8fde16a9c7eae230706665cbdcb47b0757fcd9",
+      "date": "2026-05-13T09:47:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary + memory addendum: 2026-05-13-011548-manual — Ship canonical 不是終點，同夜三面 self-apply 完整證據鏈"
+    },
+    {
+      "hash": "849b5ab2dcf21992324a15d8442974b36559d654",
+      "date": "2026-05-13T09:41:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] report v1.2: maintainer issue taxonomy — 哲宇 review 5 Q + 真實 backfill 數字"
+    },
+    {
+      "hash": "6ba9d132fbc611a8b90597d3ab44a3272378ccd1",
+      "date": "2026-05-13T09:35:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] report: MAINTAINER-PIPELINE issue 分類 taxonomy + 差異化 action 設計"
+    },
+    {
+      "hash": "3719fb0bc629e7ca8c253b22f40b7d2d310664d5",
+      "date": "2026-05-13T09:30:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-05-13-011548-manual — 「不要 tolerate orphan」反轉 + MANIFESTO §架構解第七條 + babel v2.3 義務鐵律"
+    },
+    {
+      "hash": "2484742736c0bca4875ea9286c08b31c90f1bd2c",
+      "date": "2026-05-13T09:15:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: 0 PR + 3 issue reply (#1059 #574 #130) — 2026-05-13 09:30"
+    },
+    {
+      "hash": "1198a712401b3fc2cc5535ab05c1038fca2b19ab",
+      "date": "2026-05-13T09:04:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] routine: v2.3 swap maintainer-pm ↔ babel-nightly + babel §義務鐵律推 100%"
+    },
+    {
+      "hash": "d600e441d797e46a630722e2f1ef2ae95447fb15",
+      "date": "2026-05-13T07:11:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-05-13-070440-spore-harvest-am — routine v2.2 first production auto-fire"
+    },
+    {
+      "hash": "9bf50831772526410dd3724a0bf4a45cc9a978e5",
+      "date": "2026-05-13T07:09:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: 8 spores — 2026-05-13"
+    },
+    {
+      "hash": "866b049065e016b747f0931819f8b5f14c3900d0",
+      "date": "2026-05-13T06:12:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-05-13-061136-twmd-data-refresh-am — cron routine 全綠"
+    },
+    {
+      "hash": "aedfccdc8fbae6462287b3b1d5a5ed529ba8ad28",
+      "date": "2026-05-13T06:11:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: dashboard sync — 2026-05-13 06:00"
+    },
     {
       "hash": "148e57b851aaada40d02375c71c2c277d83f5334",
       "date": "2026-05-13T05:13:46+08:00",

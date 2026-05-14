@@ -1,16 +1,16 @@
 {
-  "totalArticles": 4243,
+  "totalArticles": 4246,
   "totalCategories": 20,
   "estimatedContributors": 57,
-  "totalTags": 5266,
+  "totalTags": 5269,
   "categories": [
     {
       "name": "es",
-      "count": 697
+      "count": 698
     },
     {
       "name": "ko",
-      "count": 702
+      "count": 703
     },
     {
       "name": "fr",
@@ -18,7 +18,7 @@
     },
     {
       "name": "en",
-      "count": 719
+      "count": 720
     },
     {
       "name": "ja",
@@ -88,7 +88,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 75
+      "count": 73
     },
     {
       "name": "人物",
@@ -96,18 +96,18 @@
     },
     {
       "name": "企業",
-      "count": 55
+      "count": 54
     },
     {
       "name": "기업",
-      "count": 30
-    },
-    {
-      "name": "경제",
-      "count": 28
+      "count": 29
     },
     {
       "name": "ODM",
+      "count": 27
+    },
+    {
+      "name": "경제",
       "count": 27
     },
     {
@@ -115,15 +115,11 @@
       "count": 25
     },
     {
-      "name": "인물",
-      "count": 25
-    },
-    {
-      "name": "TSMC",
+      "name": "半導體",
       "count": 24
     },
     {
-      "name": "半導體",
+      "name": "인물",
       "count": 24
     },
     {
@@ -151,6 +147,10 @@
       "count": 21
     },
     {
+      "name": "TSMC",
+      "count": 20
+    },
+    {
       "name": "歷史",
       "count": 20
     },
@@ -159,22 +159,22 @@
       "count": 19
     },
     {
-      "name": "台灣文化",
+      "name": "金曲獎",
       "count": 19
     },
     {
-      "name": "金曲獎",
-      "count": 19
+      "name": "台灣文化",
+      "count": 18
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4243,
+    "zh-TW": 4246,
     "en": 0
   },
-  "lastUpdated": "2026-05-12T22:10:45.328Z",
-  "stars": 986,
+  "lastUpdated": "2026-05-13T15:09:10.110Z",
+  "stars": 987,
   "forks": 146,
-  "zhPages": 3524,
-  "enPages": 719,
-  "totalPages": 4243
+  "zhPages": 3526,
+  "enPages": 720,
+  "totalPages": 4246
 }

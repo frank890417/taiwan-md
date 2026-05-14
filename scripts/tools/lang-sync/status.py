@@ -147,7 +147,7 @@ def git_diff_summary(sha: str, file_path: Path) -> str:
 
 # ---------- content hash ----------
 #
-# 兩個 hash 區分 body drift vs metadata drift（DNA #38 第 2 次 instantiation）：
+# 兩個 hash 區分 body drift vs metadata drift（REFLEXES #38 第 2 次 instantiation）：
 #
 #   contentHash = 整個 body（after frontmatter）— legacy hash，包含 trailer
 #   bodyHash    = 純敘事 body — strip 延伸閱讀 / 參考資料 / footer metadata block /

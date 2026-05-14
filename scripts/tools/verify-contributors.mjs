@@ -22,8 +22,8 @@
  * Hooked into npm run prebuild (跟 generate-contributors-data 平行).
  *
  * DNA refs (per #1052 哲宇 review):
- *   - DNA #52 Immune fail-loud 比缺 immune 更危險
- *   - DNA #43 derived 資料儀器化進生命週期觸發點
+ *   - REFLEXES #52 Immune fail-loud 比缺 immune 更危險
+ *   - REFLEXES #43 derived 資料儀器化進生命週期觸發點
  */
 
 import { readFileSync } from 'fs';
@@ -90,7 +90,9 @@ function main() {
   try {
     profiles = loadProfiles();
   } catch (e) {
-    console.warn(`⚠️  verify-contributors: cannot load .all-contributorsrc — ${e.message}`);
+    console.warn(
+      `⚠️  verify-contributors: cannot load .all-contributorsrc — ${e.message}`,
+    );
     return 0;
   }
 
@@ -126,13 +128,19 @@ function main() {
 
   // ── Report ─────────────────────────────────────────────────────────────────
   if (missing.length === 0 && unsafe.length === 0) {
-    console.log('✅ verify-contributors: all canonical authors have valid .all-contributorsrc entries');
+    console.log(
+      '✅ verify-contributors: all canonical authors have valid .all-contributorsrc entries',
+    );
     return 0;
   }
 
   console.warn('');
-  console.warn('⚠️  verify-contributors: found missing/unsafe contributor entries');
-  console.warn('   (跟 contributors.ts 一樣 contributorKey lookup — 缺 entry 會走 fallback)');
+  console.warn(
+    '⚠️  verify-contributors: found missing/unsafe contributor entries',
+  );
+  console.warn(
+    '   (跟 contributors.ts 一樣 contributorKey lookup — 缺 entry 會走 fallback)',
+  );
 
   if (missing.length > 0) {
     console.warn('');
@@ -142,8 +150,12 @@ function main() {
     }
     console.warn('');
     console.warn('   建議用 all-contributors bot 補：');
-    console.warn('     @all-contributors please add @<github-login> for <contribution-type>');
-    console.warn('   (contribution 類型: code / content / doc / translation / bug / review / ...)');
+    console.warn(
+      '     @all-contributors please add @<github-login> for <contribution-type>',
+    );
+    console.warn(
+      '   (contribution 類型: code / content / doc / translation / bug / review / ...)',
+    );
   }
 
   if (unsafe.length > 0) {
@@ -155,7 +167,9 @@ function main() {
   }
 
   console.warn('');
-  console.warn('   (WARN-only — does not fail build. See docs/contributors-maintenance.md)');
+  console.warn(
+    '   (WARN-only — does not fail build. See docs/contributors-maintenance.md)',
+  );
   console.warn('');
   return 0; // exit 0 — never fail build
 }

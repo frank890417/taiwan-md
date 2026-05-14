@@ -2,7 +2,7 @@
 """
 bump-source-sha.py — 把 metadata-stale 翻譯 frontmatter 升級到 zh latest commit。
 
-Body 已 valid（DNA #38 第 2 次 instantiation：bodyHash 沒變），不重翻只 bump metadata：
+Body 已 valid（REFLEXES #38 第 2 次 instantiation：bodyHash 沒變），不重翻只 bump metadata：
   sourceCommitSha → zh latest commit
   sourceContentHash → zh latest contentHash
   sourceBodyHash → zh latest bodyHash（同一個值）

@@ -133,7 +133,7 @@ wc -m knowledge/Category/原文.md knowledge/{lang}/Category/translated.md
 - 保留 Markdown 格式（標題層級、粗體、表格等）
 - `author` 改為 `"Taiwan.md Translation Team"`
 
-#### Frontmatter `translatedFrom` 格式（DNA #42 v3 反例對照，2026-05-02 sleepy-colden 強化）
+#### Frontmatter `translatedFrom` 格式（REFLEXES #42 v3 反例對照，2026-05-02 sleepy-colden 強化）
 
 translatedFrom 必須是 **相對於 `knowledge/` 的 zh source path，不含 `knowledge/` 前綴**：
 

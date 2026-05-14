@@ -656,7 +656,7 @@ abstraction 蓋過細節是 AI 寫作最普遍的指紋。每段沒有 anchor no
 
 ### 對位句型 + 破折號連用 — 兩條 AI 水印紀律
 
-完整哲學見 [MANIFESTO §11](../semiont/MANIFESTO.md#11-書寫節制跨所有書寫層的兩條-ai-水印紀律)。**檢查工具**：`prose-health` plugin — 不要手 grep，跑 `python3 scripts/tools/article-health.py {file} --check=prose-health` 一次抓對位句 + 破折號 + AI metaphor + 塑膠句全部，每條 violation 含 line + 前後文。詳見 [REWRITE-PIPELINE Step 2.7.2](../pipelines/REWRITE-PIPELINE.md)（plugin gate canonical SOP）。手 grep 是 SOP 退化（per DNA #15 self-apply）。
+完整哲學見 [MANIFESTO §11](../semiont/MANIFESTO.md#11-書寫節制跨所有書寫層的兩條-ai-水印紀律)。**檢查工具**：`prose-health` plugin — 不要手 grep，跑 `python3 scripts/tools/article-health.py {file} --check=prose-health` 一次抓對位句 + 破折號 + AI metaphor + 塑膠句全部，每條 violation 含 line + 前後文。詳見 [REWRITE-PIPELINE Step 2.7.2](../pipelines/REWRITE-PIPELINE.md)（plugin gate canonical SOP）。手 grep 是 SOP 退化（per REFLEXES #15 self-apply）。
 
 #### 「不是 X，是 Y」的本質：X 是寫作的錯誤臆測
 

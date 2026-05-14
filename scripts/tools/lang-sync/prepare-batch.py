@@ -42,7 +42,7 @@ _TRAILER_PATTERNS = [
 
 
 def _body_hash_pure(body: str) -> str:
-    """Same as status.py body_hash_pure — strip trailers + footnote defs (DNA #38 第 2 次)."""
+    """Same as status.py body_hash_pure — strip trailers + footnote defs (REFLEXES #38 第 2 次)."""
     for pattern in _TRAILER_PATTERNS:
         body = re.sub(pattern, "", body, flags=re.DOTALL | re.MULTILINE)
     body = re.sub(r"\n\[\^[\w-]+\]:\s.+?(?=\n\[\^|\n#|\Z)", "\n", body, flags=re.DOTALL)

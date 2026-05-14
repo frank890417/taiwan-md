@@ -5,7 +5,7 @@ codex-translate.py — Translate via OpenAI Codex CLI (subscription-backed gpt-5
 Wrapper that reuses openrouter-translate.py's prompt builder + manifest reader,
 but pipes the prompt to `codex exec` instead of OpenRouter API.
 
-Use when OpenRouter free tier is rate-limited (per DNA #45) and Sonnet sub-agent
+Use when OpenRouter free tier is rate-limited (per REFLEXES #45) and Sonnet sub-agent
 is disabled (per哲宇 explicit constraint 2026-05-12).
 
 Usage:

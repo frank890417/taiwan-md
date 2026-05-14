@@ -7,7 +7,7 @@
  * dashboard freshness check 範圍。本腳本把 GitHub Actions deploy 的 build
  * 時間數據抓出來、解析平均 ms/page、寫進 dashboard-build-perf.json。
  *
- * DNA #15 第 N+6 次儀器化：「反覆浮現要儀器化」應用到 build 效能 silent regression。
+ * REFLEXES #15 第 N+6 次儀器化：「反覆浮現要儀器化」應用到 build 效能 silent regression。
  *
  * 不阻擋 build：API call 失敗 / token 缺 → soft skip（避免 SSOT freshness
  * verify 因 GH API 暫斷而 fail）。

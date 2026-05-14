@@ -1,7 +1,7 @@
 """image_health — article image references + frontmatter coherence + count gate.
 
 Migrated from `scripts/tools/article-image-health.sh` (REWRITE-PIPELINE
-Stage 4.5f hard gate per DNA #30).
+Stage 4.5f hard gate per REFLEXES #30).
 
 Dimensions:
   1. inline `![alt](path)` references — `path` must exist on disk
@@ -14,7 +14,7 @@ Dimensions:
      depth article 理想 hero + 1-2 scene-mid = 2-3 張，min_images=3 預設
      soft-launch WARN（legacy heal），rewrite-stage-4 profile severity_override
      升 HARD。觸發：NMTH 文章 ship 後哲宇 callout「為什麼圖片用那麼少」揭露
-     Step 4.3.1 三段敘事節奏沒儀器化進 article-health（DNA #15 反覆浮現要儀器化
+     Step 4.3.1 三段敘事節奏沒儀器化進 article-health（REFLEXES #15 反覆浮現要儀器化
      第 N 次驗證）。
 
 Severity: HARD for missing files / hot-links, WARN for missing 圖片來源 section,
@@ -33,7 +33,7 @@ from ..types import FileTarget, Severity, Violation
 CHECK_NAME = "image-health"
 DIMENSION = "media"
 DEFAULT_SEVERITY = Severity.HARD
-EDITORIAL_REF = "REWRITE-PIPELINE Stage 1 Step 1.14 + Stage 4 Step 4.3 / DNA #30"
+EDITORIAL_REF = "REWRITE-PIPELINE Stage 1 Step 1.14 + Stage 4 Step 4.3 / REFLEXES #30"
 APPLIES_TO = ["*"]
 
 # Defaults — overridable via profile options

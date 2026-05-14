@@ -52,12 +52,7 @@
  */
 
 import { chromium } from 'playwright';
-import {
-  statSync,
-  mkdirSync,
-  existsSync,
-  readFileSync,
-} from 'node:fs';
+import { statSync, mkdirSync, existsSync, readFileSync } from 'node:fs';
 import { readdir, stat, readFile } from 'node:fs/promises';
 import { join, dirname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -94,7 +89,7 @@ const DEFAULT_LANG = 'zh-TW';
 
 // i18n labels embedded inline (extracted from src/i18n/ui.ts)。Source-of-truth
 // 在 ui.ts；此 mirror 維護成本低（13 cats × 4 langs，半年改一次）。
-// 若 ui.ts 加新分類或語言，記得同步本表（DNA #43 的同型 SSOT 風險）。
+// 若 ui.ts 加新分類或語言，記得同步本表（REFLEXES #43 的同型 SSOT 風險）。
 const HOME_LABEL = {
   'zh-TW': '首頁',
   en: 'Home',
@@ -289,7 +284,11 @@ async function readDiaryMeta(filePath) {
         break;
       }
       // 一般段落
-      if (!trimmed.startsWith('_') && !trimmed.startsWith('*') && trimmed.length >= 30) {
+      if (
+        !trimmed.startsWith('_') &&
+        !trimmed.startsWith('*') &&
+        trimmed.length >= 30
+      ) {
         description = trimmed;
         break;
       }
@@ -639,14 +638,23 @@ async function buildRenderPayload(entry) {
 
 // ── Worker ──────────────────────────────────────────────────────────────────
 
-async function workerLoop(id, queue, processedCounter, total, browser, templateHtml, skipFontWait) {
+async function workerLoop(
+  id,
+  queue,
+  processedCounter,
+  total,
+  browser,
+  templateHtml,
+  skipFontWait,
+) {
   const ctx = await browser.newContext({
     viewport: VIEWPORT,
     deviceScaleFactor: 1,
     reducedMotion: 'reduce',
   });
   const page = await ctx.newPage();
-  let ok = 0, failed = 0;
+  let ok = 0,
+    failed = 0;
   try {
     await page.setContent(templateHtml, { waitUntil: 'domcontentloaded' });
     if (!skipFontWait) {
@@ -747,9 +755,7 @@ async function main() {
   const articleEntries = onlyDiary
     ? []
     : await findMarkdownFiles(filterLang, filterCategory);
-  const diaryEntries = includeDiary
-    ? await findDiaryEntries(filterSlug)
-    : [];
+  const diaryEntries = includeDiary ? await findDiaryEntries(filterSlug) : [];
   const entries = [...articleEntries, ...diaryEntries];
 
   const byLang = entries.reduce((acc, e) => {

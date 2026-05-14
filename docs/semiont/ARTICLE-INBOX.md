@@ -165,7 +165,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P0`
 - **Status**: `pending`
 - **Source**: [Issue #939](https://github.com/frank890417/taiwan-md/issues/939) by tboydar-agent (2026-05-09)
-- **🔔 Ship 後 hard gate**：commit 後**必須**跑 `gh issue comment 939 --repo frank890417/taiwan-md --body "..."` 通知貢獻者 + `gh issue close 939`。Issue 在等回覆，sliently merge 違反 DNA #8 維護者信件鐵律。
+- **🔔 Ship 後 hard gate**：commit 後**必須**跑 `gh issue comment 939 --repo frank890417/taiwan-md --body "..."` 通知貢獻者 + `gh issue close 939`。Issue 在等回覆，sliently merge 違反 REFLEXES #8 維護者信件鐵律。
 - **Notes**:
   - 既有 baseline audit（Stage 0 第一動作再 ls 全 grep 確認）：
     - `Culture/傳統節慶與慶典.md`（198 行，「進化」策展角度，hook 鹽水蜂炮 + 大甲媽祖遶境）→ EVOLVE 補年度行事曆視覺 + cross-link 個別節慶 + 補農曆/國曆對照表
@@ -189,7 +189,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Notes**:
   - 既有 baseline audit：`Culture/台灣棒球文化.md`（148 行，職業棒球 + CPBL 主軸）/ `Culture/巧固球.md`（小眾運動）/ People 既有運動員 ~10+（戴資穎 / 郭婞淳 / 莊智淵 / 李洋 / 楊勇緯 / 林郁婷 等）— **總覽級「台灣體育發展」是真缺口**
   - 主題 anchors：(1) 體育史（日治時期甲子園 → 戰後三級棒球 → 解嚴後職棒元年 1990 → 2000 後多元化）(2) 重要國際賽事成就（奧運獎牌軌跡：1984 蔡溫義銅 → 2004 雅典陳詩欣朱木炎雙金 → 2020 東京 2 金 4 銀 6 銅創歷史 → 2024 巴黎拳擊金 + 羽球金 + 舉重金）(3) 體育政策（國訓中心 1982 成立 / 黃金計畫 2014 啟動 / 體育署 2013 成立）(4) 職業運動（CPBL / PLG+T1 籃球 / 排球 SPL / 電競）(5) 基層體育與學校運動（HBL / UBA / 全大運）(6) 運動科學與運動醫學發展
-  - **必驗事實**（DNA #16 + 讀者級驗證高優先）：
+  - **必驗事實**（REFLEXES #16 + 讀者級驗證高優先）：
     - 2024 巴黎奧運成績：林郁婷拳擊 57kg 金牌（不是 60kg）/ 李洋 + 麟洋羽球男雙金牌（衛冕）/ 郭婞淳舉重 59kg 銀牌（不是金，需 verify）/ 霹靂舞名次（孫振 4 名 vs 8 名等具體）
     - 2020 東京奧運：總獎牌數 12 面（2 金 4 銀 6 銅）— 各 source 數字一致才採信
     - 黃金計畫：哪一屆奧運週期啟動（2014 仁川亞運後？）+ 預算規模
@@ -234,7 +234,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Notes**:
   - 葉廷皓（Yeh Ting-Hao）— 台灣 audio-visual / sound art / new media 創作者
   - 主題 anchors（待 research 驗證）：(a) AV 即時演出 / generative audio-visual 美學脈絡 (b) 跟 TouchDesigner / Max/MSP / 純粹聲響演出社群的位置 (c) 跨機構教育角色（如 TNUA 任教、新媒體藝術系所）(d) 代表作品 / 國際展演 / 跨域合作（音樂節 / 跨國 sound art collective）
-  - 必驗事實：作品時間軸、跨域合作對象（音樂人 / 視覺藝術家 / 機構）、教學機構、近期展演與 lectures（2024-2026）。所有引用必須三源驗證（DNA #16）
+  - 必驗事實：作品時間軸、跨域合作對象（音樂人 / 視覺藝術家 / 機構）、教學機構、近期展演與 lectures（2024-2026）。所有引用必須三源驗證（REFLEXES #16）
   - cross-link 候選：Art / 音樂 / Technology / 新媒體藝術相關既有人物
   - Framing：策展性人物 frame — 台灣 sound art / new media 場景的 first-person voice，不是百科式條目
 - **Reference**: 觀察者素材待補（哲宇可指方向 / 個人網站 / 展演紀錄 / 訪談）
@@ -257,7 +257,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 對 Taiwan.md 策展使命的對齊：MANIFESTO §策展非百科 — 不是條列 50 家公司，而是「為什麼這 50 家是這 50 家」的結構性論述（半導體 vs 金融 vs 傳產比例 / 家族企業集中度 / 美中地緣產業重組對排名的影響），是百科查詢者搜「排名」但 Taiwan.md 提供「結構」的典範題材
 - **Notes**:
   - 主題 anchors：(a) 2026 市值前 50 大公司清單（台積電 / 鴻海 / 聯發科 / 台達電 / 中華電 / 國泰金 / 富邦金 ...，需驗證最新 month-end snapshot）(b) 產業結構分佈（半導體 / 金融 / 電子製造 / 傳產 / 服務）(c) 家族集團 vs 專業經理人比例（台塑王家 / 鴻海郭家 / 富邦蔡家 / 國泰蔡家 / 中信辜家 vs 台積電 / 聯發科）(d) 美中地緣對排名的結構性影響（去中化供應鏈受益者 / 中國市場依賴受損者）(e) 跟 GDP 占比 / 就業人口的關係（市值集中於少數產業 vs 就業分佈）
-  - 必驗事實（DNA #16 + 讀者級驗證高優先）：(a) 月底市值快照日期一致性（同一交易日），優先 source `cmoney.tw` / `goodinfo.tw` / 公開資訊觀測站 / 證交所 (b) 集團合計 vs 單一公司排名混淆陷阱（台塑四寶分開算 vs 集團合計）(c) ADR vs 在台 listed 重複計算（台積電 ADR 在美 不能加）(d) 私有公司未上市（如和泰、義美）排除說明
+  - 必驗事實（REFLEXES #16 + 讀者級驗證高優先）：(a) 月底市值快照日期一致性（同一交易日），優先 source `cmoney.tw` / `goodinfo.tw` / 公開資訊觀測站 / 證交所 (b) 集團合計 vs 單一公司排名混淆陷阱（台塑四寶分開算 vs 集團合計）(c) ADR vs 在台 listed 重複計算（台積電 ADR 在美 不能加）(d) 私有公司未上市（如和泰、義美）排除說明
   - 政治敏感度：低（市場數據為主），但「中資」「兩岸關聯產業」（如部分電子代工大廠中國營收占比）需 framing 中性，per MAINTAINER §爭議處理
   - 翻譯優先：海外華人投資者 + 國際讀者需求高，EVOLVE/NEW 完成後優先翻 en/ja/ko（Cloudflare 數據顯示 US/SG/JP 流量皆有）
   - cross-link：（雙向）[台積電](/economy/台積電) [鴻海](/economy/) [台灣經濟發展](/economy/) [台灣半導體產業](/economy/) [非紅供應鏈](/economy/) [家族企業](/economy/或 /society/) — Stage 0 audit 確認既有清單
@@ -379,7 +379,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 <!-- -->
 <!--    Peer-bias 警示：鄭文琦個人風格 driven 88% NML 文章 → 多元 cite secondary -->
 <!--    editors 區秀詒 / 高森信男 / 王柏偉 / 印卡 / 蔡長璜 / 葉杏柔 避免單一視角。 -->
-<!--    DNA #16「Peer 是 peer 不是 source material」在 NML 場景特別硬。 -->
+<!--    REFLEXES #16「Peer 是 peer 不是 source material」在 NML 場景特別硬。 -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <!-- 鄭文琦 NEW 已完成 2026-05-04 angry-shamir → ARTICLE-DONE-LOG.md -->
@@ -702,7 +702,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **預估**：L（5-6 hr）
 - **NML 萃取重點**：**這篇是 §7.3 NML 盲點 #4 的 explicit 反向補位** — NML 缺原住民聲音，Taiwan.md 主動補。**Stage 1 不主要 mine NML**（NML 在這個 topic 是缺口而非素材源）。WebSearch 主導：原民會原住民藝術家資料庫 / Pulima 藝術獎得獎人 / 蘭嶼達悟族藝術家 / 高山青藝術 / 國美館原住民當代藝術典藏。NML 補：少數提及原住民的 article（如達悟族相關）作為對照。
 - **NML Local Sources**：少量參考（NML 在這 topic 是缺口）
-- **Notes**：DNA #16 反向補位的具體 instantiation — 不繼承 peer 盲點 / 跟既有 [台灣原住民當代藝術](../../knowledge/Art/台灣原住民當代藝術.md) 雙向 cross-link
+- **Notes**：REFLEXES #16 反向補位的具體 instantiation — 不繼承 peer 盲點 / 跟既有 [台灣原住民當代藝術](../../knowledge/Art/台灣原住民當代藝術.md) 雙向 cross-link
 
 ---
 
