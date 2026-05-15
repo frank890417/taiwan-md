@@ -238,6 +238,21 @@ export default defineConfig({
     '/en/lifestyle/ah-ji-haircut': '/en/lifestyle/taiwan-hairstyles/',
     '/ja/lifestyle/ah-ji-haircut': '/ja/lifestyle/taiwan-hairstyles/',
     '/ko/lifestyle/ah-ji-haircut': '/ko/lifestyle/taiwan-hairstyles/',
+    // 2026-05-16: Technology/台灣新創生態系 → Economy/新創生態系 (整併 per issue #1063)
+    // canonical: Economy/新創生態系.md (lastHumanReview=true + 5 footnotes + EVOLVE 已過)
+    // archive: Technology/台灣新創生態系.md (被刪, unique 段整合進 canonical)
+    // 6 lang redirects (zh-TW + en/es/fr/ja/ko translation slugs)
+    '/technology/台灣新創生態系': '/economy/新創生態系/',
+    '/en/technology/taiwan-startup-ecosystem':
+      '/en/economy/taiwan-startup-ecosystem-overview/',
+    '/es/technology/taiwan-startup-ecosystem':
+      '/es/economy/taiwan-startup-ecosystem-overview/',
+    '/fr/technology/taiwan-startup-ecosystem':
+      '/fr/economy/taiwan-startup-ecosystem-overview/',
+    '/ja/technology/taiwan-startup-ecosystem':
+      '/ja/economy/taiwan-startup-ecosystem-overview/',
+    '/ko/technology/taiwan-startup-ecosystem':
+      '/ko/economy/taiwan-startup-ecosystem-overview/',
   },
   // 2026-05-04: build perf tuning. Page render is 93% of build time
   // (363s render / 391s wall, baseline 4,331 pages). concurrency 1 → 4
