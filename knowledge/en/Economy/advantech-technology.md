@@ -1,159 +1,138 @@
 ---
-translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:9704201e3df16190'
-sourceBodyHash: 'sha256:f26ece62a9fac047'
-translatedAt: '2026-05-01T15:38:13+08:00'
-title: 'Advantech Technology'
-description: 'Global leader in industrial computing, IoT intelligent systems pioneer from Taiwan'
+title: 'Advantech'
+description: 'A global leader in industrial computers and a Taiwan-born pioneer in IoT intelligent systems'
 date: 2026-03-20
-tags: ['Economy', 'Enterprise', 'Industrial Computers', 'IoT']
-subcategory: '企業列傳'
 author: 'Taiwan.md'
+category: 'Economy'
+subcategory: '企業列傳'
+tags: ['Economy', 'Enterprises', 'Industrial Computers', 'IoT']
 readingTime: 8
-featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-category: Economy
+featured: false
+translatedFrom: 'Economy/台灣企業：研華科技.md'
+sourceCommitSha: '24efd20f3'
+sourceContentHash: 'sha256:a8a721f10cbcd9e7'
+sourceBodyHash: 'sha256:03acf2baf95f172e'
+translatedAt: '2026-05-15T13:52:05+08:00'
 ---
 
 > **30-Second Overview**
 >
-> Advantech was founded in 1983 by three former HP engineers and is currently the global leader in industrial computers. The company specializes in Industrial IoT (AIoT) and edge computing solutions, with offices in 27 countries and nearly 9,000 employees. From its origins as an industrial computer manufacturer, it has transformed into a "driver of intelligent earth," providing the core technology for digital transformation across manufacturing, healthcare, transportation, retail, and other sectors.
+> Advantech was founded in 1983 by three former Hewlett-Packard engineers and is now the global leader in industrial computers. The company focuses on Industrial Internet of Things (AIoT) and edge computing solutions, with operations in 27 countries and nearly 9,000 employees. From its origins as an industrial computer manufacturer, it has transformed into an “enabler of an intelligent planet,” providing core technologies for digital transformation across manufacturing, healthcare, transportation, retail, and other fields.
 
-## Why Advantech Matters
+## Why Does Advantech Matter?
 
-In this era of interconnected everything, Advantech plays the role of behind-the-scenes driver of digital transformation. When we talk about Industry 4.0, smart manufacturing, and smart cities, Advantech's technology is often the underlying foundation. This Taiwanese enterprise is not only the global leader in industrial computers but also an important supplier of IoT infrastructure.
+When an automated factory production line stops, a hospital’s medical equipment loses monitoring, or an urban traffic management system fails, there is often a trace of interrupted Advantech technology behind it. Advantech is the global leader in the industrial computer market and a core supplier of Internet of Things infrastructure, with a presence across 27 countries.
 
-From factory automation production lines, medical equipment monitoring in hospitals, to urban traffic management systems — Advantech's products are everywhere. It demonstrates that Taiwanese enterprises can move beyond contract manufacturing toward proprietary brands and occupy key positions in the global high-tech value chain.
+Its significance lies not only in market share. By moving from contract manufacturing toward its own brand, Advantech has shown that Taiwanese enterprises can secure key positions in the global high-tech industrial chain through proprietary technology amid the wave of Industry 4.0.
 
-## Corporate Overview
+## Company Overview
 
-**Advantech Co., Ltd.** is Taiwan's largest industrial computer manufacturer and the global leading supplier of IoT systems and embedded platforms. With the brand vision of "intelligent planet maker," the company is committed to driving the digital transformation of global industries.
+**Advantech Co., Ltd.** is Taiwan’s largest industrial computer manufacturer and a leading global supplier of IoT systems and embedded platforms. With “Enabling an Intelligent Planet” as its brand vision, the company is committed to advancing digital transformation across global industries.
 
-### Core Business Scope
+### Core Business Areas
 
-Advantech's product line covers an extremely broad range of industrial application fields:
+Advantech’s hardware platforms include industrial computers, embedded systems, single-board computers, industrial motherboards, LCD panel PCs, medical computers, and in-vehicle computers. On this foundation, the company provides intelligent solutions including IoT gateways, edge computing systems, AI Jetson edge computing platforms, industrial automation controllers, and human-machine interfaces.
 
-**Hardware Platforms**: Industrial computers, embedded systems, single-board computers, industrial motherboards, LCD panel computers, medical computers, in-vehicle computers, and more
+**Software services**: data acquisition and analysis software, equipment management platforms, cloud integration services, and related offerings
 
-**Intelligent Solutions**: IoT gateways, edge computing systems, AI Jetson edge computing, industrial automation controllers, human-machine interfaces, and more
-
-**Software Services**: Data acquisition and analysis software, equipment management platforms, cloud integration services, and more
-
-**Application Fields**: Factory automation, environmental monitoring, telecommunications, transportation, healthcare, retail, building automation, and more
+**Application fields**: factory automation, environmental monitoring, telecommunications, transportation, healthcare, retail services, building automation, and more
 
 ## Key Facts and Data
 
 ### Financial Performance
 
-- **Stock code**: 2395 (Taiwan Stock Exchange, listed 1999)
-- **Revenue H1 2024**: NT$28.523 billion (down 17% year-on-year)
-- **Gross margin**: Approximately 40.2% (H1 2024)
-- **Earnings per share**: NT$2.46 (Q2 2024)
+Advantech’s stock ticker is 2395, and it was listed on the Taiwan Stock Exchange in 1999. Revenue for the first half of 2024 was NT$28.523 billion, a 17% decline from the same period the previous year[^3], with a gross margin of approximately 40.2%.
+
+- **Earnings per share**: NT$2.46 in the second quarter of 2024
 
 ### Global Footprint
 
-- **Operating locations**: Offices in 27 countries
-- **Employee count**: Nearly 9,000 people
-- **Production bases**: Three major manufacturing centers — Taiwan Linkou, China Kunshan, Japan
-- **Operating headquarters**: Neihu Science Park, Taipei, Taiwan
+Advantech has subsidiaries in 27 countries, nearly 9,000 employees, and its operational headquarters are located in Taipei’s Neihu Technology Park.
+
+- **Production bases**: three major manufacturing centers in Linkou, Taiwan; Kunshan, China; and Japan
 
 ### Market Position
 
-- Global leader in the industrial computer market
-- Intel ECA (Embedded and Communication Alliance) Premier Partner
-- Microsoft Windows Embedded Gold Partner
-- Global leading manufacturer in the IoT intelligent systems field
+Advantech is the global leader in the industrial computer market and also a leading global company in IoT intelligent systems. In terms of partnership certifications, the company holds Intel ECA (Embedded & Communication Alliance) Premier Partner status and Microsoft Windows Embedded Gold Partner status.
 
-## Development History: From Garage Startup to Global Empire
+## Development History: From Garage Startup to Global Enterprise
 
-### Founding (1983–1990)
+### Founding Beginnings (1983-1990)
 
-In 1983, three former HP engineers — Liu Ke-chen, Huang Yu-min, and Chuang Yong-shun — leveraging keen insight into the industrial computer market, founded Advantech in Taiwan. At the time, personal computers were just emerging, but the industrial sector still lacked stable and reliable computer equipment, and these engineers identified this market gap.
+In 1983, three former Hewlett-Packard (HP) engineers, K.C. Liu, Yu-Min Huang, and Yung-Shun Chuang, founded Advantech in Taiwan based on their sharp insight into the industrial computer market. Personal computers were emerging at the time, but the industrial sector still lacked stable and reliable computing equipment. This group of engineers identified that market gap.
 
-Founder Liu Ke-chen, a graduate of National Chiao Tung University's telecommunications engineering program, whose experience as an electronic instrument sales engineer at HP gave him deep understanding of industrial customers' real needs. From the company's founding, it focused on producing industrial computers that could operate stably in harsh environments, providing technical support for Taiwan's manufacturing sector's transformation and upgrading.
+Founder K.C. Liu graduated from the Department of Communication Engineering at National Chiao Tung University[^1]. His experience as a sales engineer[^2] in Hewlett-Packard Taiwan’s instruments division gave him a deep understanding of the real needs of industrial customers. In its early years, the company focused on producing industrial computers that could operate reliably in harsh environments, providing technical support for the transformation and upgrading of Taiwan’s manufacturing sector.
 
-### Establishing a Foothold (1990–2000)
+### Establishing a Foothold (1990-2000)
 
-In the 1990s, Advantech began aggressively expanding into overseas markets. Not satisfied with only serving the Taiwan market, the company set its sights on the world. During this period, Advantech established branches in Europe and the US, built international sales networks, and gradually built brand recognition.
+In the 1990s, Advantech turned its market focus overseas. The company established subsidiaries in Europe and North America, built an international sales network, and raised the profile of its own brand.
 
-In 1999, Advantech officially listed on the Taiwan Stock Exchange, becoming the first industrial computer company listed in Taiwan. This not only brought funding but also represented the capital market's recognition of its business model.
+In 1999, Advantech was formally listed on the Taiwan Stock Exchange, becoming Taiwan’s first publicly listed industrial computer company[^4]. This not only brought new capital into the company, but also represented capital-market recognition of its business model.
 
-### Global Expansion (2000–2010)
+### Global Expansion (2000-2010)
 
-Entering the 21st century, Advantech accelerated its globalization. The company established manufacturing bases in mainland China, built more locations in Europe and the Americas, and formed an operating network covering major global markets.
+Entering the 21st century, Advantech accelerated its globalization. The company established manufacturing bases in mainland China and more locations in Europe and the Americas, forming an operating network that covered major global markets.
 
-During this phase, Advantech was not just a hardware manufacturer but began providing complete system solutions. The company invested substantial resources in technology R&D, expanding from simple industrial computer manufacturing to automation control, data acquisition, communications networks, and related fields.
+At this stage, Advantech was not only a hardware manufacturer but also began to provide complete system solutions. The company invested substantial resources in technological research and development, extending from simple industrial computer manufacturing into related fields such as automation control, data acquisition, and communication networks.
 
-### IoT Transformation (2010–2020)
+### IoT Transformation (2010-2020)
 
-As the IoT concept emerged, Advantech keenly captured this technology trend. The company began transforming from a traditional industrial computer manufacturer into an IoT solution provider.
+After the Internet of Things concept took off, Advantech transformed from a traditional industrial computer manufacturer into an IoT solutions provider. This transformation was built on many years of accumulation in industrial automation. The company combined its existing hardware products with cloud technologies and big data analytics to launch complete AIoT (Artificial Intelligence of Things) solutions.
 
-This transformation was not instantaneous but was based on Advantech's deep experience accumulated over many years in industrial automation. The company combined its existing hardware products with cloud technology and big data analytics, launching complete AIoT (Artificial Intelligence of Things) solutions.
+### The Edge Computing Era (2020-Present)
 
-### Edge Computing Era (2020–Present)
+In recent years, Advantech has shifted its strategic focus toward AIoT and edge computing. In 2023, as the company marked its 40th anniversary, Chairman K.C. Liu announced that the company would focus on “AIoT + Edge Computing,” arguing that artificial intelligence would have a major impact on the Internet of Things[^5].
 
-In recent years, Advantech has shifted its strategic focus to AIoT and edge computing. In 2023 — the company's 40th anniversary — Chairman Liu Ke-chen announced the company would focus on "AIoT + Edge Computing," believing AI will have a major impact on IoT.
+This strategic adjustment reflects Advantech’s accurate assessment of technological trends. Under considerations such as data privacy, real-time response, and network bandwidth, edge computing has become a key technology in the development of the Internet of Things. Drawing on its deep foundation in embedded systems, Advantech gained an early advantage in this field.
 
-This strategic adjustment reflects Advantech's accurate assessment of technology trends. Given considerations of data privacy, real-time response, and network bandwidth, edge computing has become a key technology for IoT development, and Advantech has gained a head start in this field with its deep foundation in embedded systems.
+## Global Influence: Taiwan’s Strength on the International Stage
 
-## Global Influence: The International Stage for a Taiwanese Champion
+### Technological Leadership
 
-### Technical Leadership
+Advantech’s technological position in industrial computers stems from its deep understanding of customer needs. In addition to standardized products, the company can also carry out customized designs according to customers’ specific requirements. This flexibility is a key competitive advantage in the international market.
 
-Advantech's technical leadership in the industrial computer field stems from its deep understanding of customer needs and continuous technology innovation. The company provides not only standardized products but also custom design based on customers' special requirements — this flexibility is the key advantage in international market competition.
+In edge computing, Advantech has worked with international major companies such as AMD to launch high-performance edge computing platforms, providing powerful computing capabilities for AI applications. These partnerships not only improve the technical level of its products, but also consolidate Advantech’s important position within the ecosystem.
 
-In the edge computing field, Advantech collaborates with international giants like AMD to launch high-performance edge computing platforms, providing powerful computing power for AI applications. These collaborations not only elevate product technical levels but also solidify Advantech's important position in the ecosystem.
+### Building an Industrial Ecosystem
 
-### Industry Ecosystem Building
-
-Advantech is not just a product supplier but an important builder of the industry ecosystem. Through technology collaboration, strategic alliances, and other methods, the company works with upstream and downstream partners to jointly drive IoT industry development.
-
-Particularly in the Industry 4.0 wave, Advantech plays a key bridging role, connecting traditional manufacturing with digital technology and driving industrial transformation and upgrading. This influence extends beyond Taiwan to the global manufacturing sector's digitalization process.
+Through technological cooperation and strategic alliances, Advantech works with upstream and downstream partners to jointly build an IoT industrial ecosystem. Its role in linking traditional manufacturing with digital technology has extended beyond Taiwan and into the digitalization process of global manufacturing.
 
 ### Successful Brand Internationalization
 
-From Taiwanese local enterprise to internationally recognized brand, Advantech's success proves that Taiwanese enterprises can hold a significant position in the global high-tech industry. The company's brand value comes not just from product quality but from its professional status and technology innovation capabilities in specific fields.
-
-This success story provides valuable experience for other Taiwanese enterprises: focus on core technology, deeply cultivate specific markets, and build international cooperative relationships — these are effective paths for Taiwanese enterprises going international.
+Advantech’s brand value rests on two pillars: product quality and specialized standing in a specific field. The company chose to cultivate depth in the relatively niche market of industrial computers rather than pursue diversification. As a result, among global peers its brand represents reliability and technical depth, rather than a generic technology brand.
 
 ## Challenges and Outlook
 
-### Facing Challenges
+### Challenges Ahead
 
-**Intensifying Market Competition**: As the IoT market develops rapidly, more and more enterprises are entering this field — including traditional IT giants and emerging tech companies — making competition increasingly fierce.
+**Intensifying market competition**: As the IoT market develops rapidly, more and more enterprises are entering the field, including traditional IT giants and emerging technology companies, making competition increasingly intense.
 
-**Speed of Technological Updates**: AI, 5G, edge computing, and other new technologies evolve rapidly, requiring enterprises to continuously invest R&D resources to keep up with technology development.
+**Pace of technological renewal**: New technologies such as AI, 5G, and edge computing are evolving rapidly, requiring companies to invest substantial R&D resources in order to keep up.
 
-**Supply Chain Challenges**: Global supply chain uncertainty — especially fluctuations in supply of key components like semiconductors — has a major impact on the manufacturing industry.
+**Supply chain challenges**: Uncertainty in global supply chains, especially fluctuations in the supply of key components such as semiconductors, has had a major impact on manufacturing.
 
-**Changing Customer Needs**: As digital transformation deepens, customers need not just hardware products but software services and solutions, requiring enterprises to have more comprehensive capabilities.
+**Changing customer needs**: As digital transformation deepens, customers need not only hardware products but also software services and solutions. This requires enterprises to possess more comprehensive capabilities.
 
 ### Future Outlook
 
-**Deepening AIoT Layout**: Advantech will continue to deepen its positioning in the artificial intelligence IoT field, particularly edge AI applications, providing smarter solutions for all industries.
+Advantech’s strategic focus is concentrated in four directions: extending edge AI applications, shifting from a product-oriented to a service-oriented model by increasing software subscription and data analytics revenue, expanding partner programs, and pursuing green manufacturing goals under an ESG framework. Among these, the shift toward service-based offerings is the most challenging, because Advantech’s traditional strengths lie in hardware, while software services require a fundamentally different business model and sales capability.
 
-**Service-Oriented Transformation**: Shifting from product-oriented to service-oriented, providing more software services and data analysis functions to improve customer stickiness and product added value.
-
-**Ecosystem Building**: Through partner programs, developer communities, and other means, building a more complete AIoT ecosystem to expand market influence.
-
-**Sustainable Development**: Under ESG trends, Advantech is also incorporating sustainable development into its operational strategy, promoting green manufacturing and energy-saving solutions.
-
-Advantech's development trajectory is not only a company's success story but a microcosm of Taiwan's high-tech industry development. From contract manufacturing to proprietary brands, from local enterprise to international leader, Advantech has proven the important role Taiwanese enterprises play in the global value chain.
-
-Facing the wave of digital transformation, Advantech will continue to play the role of "intelligent planet maker," providing key technology support for the global industry's digital upgrading. This is not only a commercial opportunity for the enterprise but also an important expression of Taiwan's technological capabilities on the international stage.
+Advantech’s journey from a 1983 startup founded by three Hewlett-Packard engineers to today’s position as an industrial computer market leader with operations in 27 countries is a concrete example of independent brand-building in Taiwan’s high-tech industry. In 2023, on the company’s 40th anniversary, Chairman K.C. Liu declared a focus on “AIoT + Edge Computing.” This reflected Advantech’s clear judgment about its own positioning: in an era of rising demand for data sovereignty and real-time computing, deep accumulated expertise in embedded systems is an irreplaceable competitive moat.
 
 ---
 
 ## References
 
-1. Advantech official website — https://www.advantech.com/zh-tw
-2. Advantech investor relations page — financial reports and operating data
-3. Advantech Wikipedia entry — company history and development
-4. Business Next — "Advantech's industrial computer transformation push, focusing on AIoT + edge computing" (2023)
-5. Electronic Engineering Journal — "Edge computing leaps toward high performance: Advantech HPEC platform accelerates edge revolution" (2024)
-6. Yahoo Finance — Advantech (2395.TW) financial data
-7. Advantech ESG Sustainability Report
+[^1]: [National Chiao Tung University Outstanding Alumni — K.C. Liu](https://www.nctu.edu.tw/outstanding/) — K.C. Liu graduated from the Department of Communication Engineering at National Chiao Tung University and is an outstanding alumnus of the university
 
-_Article last verified: March 20, 2026_
+[^2]: [Scientific American Taiwan — Interview with K.C. Liu](https://www.scitw.cc/posts/SCIENTIFIC-ENTREPRENEURS-267) — Before founding Advantech, K.C. Liu worked as a Sales Engineer in Hewlett-Packard Taiwan’s instruments division
+
+[^3]: [Advantech Investor Relations](https://www.advantech.com/zh-tw/investor-relations/) — Advantech’s revenue for the first half of 2024 was NT$28.523 billion, with a gross margin of 40.2%, down 17% from the same period the previous year
+
+[^4]: [Advantech Official Website](https://www.advantech.com/zh-tw) — Advantech was formally listed on the Taiwan Stock Exchange in 1999 under stock ticker 2395
+
+[^5]: [Business Next — Advantech Pushes Industrial Computer Transformation, Focusing on AIoT + Edge Computing (2023)](https://www.bnext.com.tw/) — In 2023, Advantech marked its 40th anniversary, and K.C. Liu declared that the company would focus on the strategic direction of “AIoT + Edge Computing”
+
+_Last verified: March 20, 2026_

@@ -1,12 +1,10 @@
 ---
-translatedFrom: 'Economy/農業科技與精緻農業.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:b2ed1a7ff254e589'
-sourceBodyHash: 'sha256:bb17e44e9574ab34'
-translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Agricultural Technology and Refined Agriculture'
-description: 'How Taiwan transformed from traditional farming to high-tech refined agriculture, creating an agricultural miracle'
+description: 'How Taiwan Transformed from Traditional Farming into High-Tech Refined Agriculture and Created an Agricultural Miracle'
 date: 2026-03-18
+author: 'Taiwan.md'
+category: 'Economy'
+subcategory: '農業經濟'
 tags:
   [
     'refined agriculture',
@@ -15,205 +13,114 @@ tags:
     'atemoya',
     'smart agriculture',
   ]
-subcategory: 'Agricultural Economy'
 readingTime: 11
-featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-category: Economy
+featured: false
+translatedFrom: 'Economy/農業科技與精緻農業.md'
+sourceCommitSha: '24efd20f3'
+sourceContentHash: 'sha256:7c173ab223ebcfab'
+sourceBodyHash: 'sha256:6a3f109cd6a40c81'
+translatedAt: '2026-05-15T13:52:05+08:00'
 ---
 
 # Agricultural Technology and Refined Agriculture
 
 ## 30-Second Overview
 
-On less than 40,000 square kilometers of land, Taiwan has created an agricultural miracle that astonishes the world. Starting with Ishibashi Eiichi, the "Father of Ponlai Rice," Taiwan's agriculture has continued to innovate and break through, developing refined agricultural products such as orchids, atemoya (pineapple sugar apple), and high-mountain tea that hold important positions in international markets. Combining IoT, AI, and other new technologies, Taiwan is moving toward the "Smart Agriculture 4.0" era.
+With less than 40,000 square kilometers of land, Taiwan has created an agricultural miracle that has impressed the world. Beginning with Eikichi Iso, the "father of Ponlai rice," Taiwan's agriculture has long pursued innovation and breakthroughs, developing refined agricultural products such as orchids, atemoya, and high-mountain tea that occupy key positions in international markets. By integrating new technologies such as the Internet of Things and AI, Taiwan is now moving toward the era of "Smart Agriculture 4.0."
 
-Keywords: refined agriculture, smart agriculture, Orchid Kingdom, atemoya, agricultural technology, variety improvement
+Keywords: refined agriculture, smart agriculture, orchid kingdom, atemoya, agricultural technology, varietal improvement
 
 ## Why It Matters
 
-On an island nation with limited area, Taiwan must replace "extensive" cultivation with "refined" cultivation and "technology" with "labor." Agriculture is no longer just a primary industry — it is a sixth-level industry combining technology, cultural creativity, and tourism. The success of Taiwan's refined agriculture proves that even small nations can find a unique position in global agricultural competition.
+As an island country with limited land area, Taiwan has had to replace "extensive" production with "refined" production, and replace "labor" with "technology." Agriculture is no longer merely a primary industry; it has become a sixth-sector industry combining technology, cultural and creative work, and tourism. The success of Taiwan's refined agriculture proves that small countries can also find distinctive positions in global agricultural competition.
 
-For Taiwan, refined agriculture represents:
+For Taiwan, refined agriculture represents the maximization of land efficiency, creating the greatest value from limited land, as well as a model of technological innovation, with systematic technological upgrading from breeding to cultivation.
 
-- **Land efficiency maximization:** creating maximum value from limited land
-- **Technology innovation model:** comprehensive technological transformation from breeding to cultivation
-- **International competitive advantage:** establishing irreplaceable positions in specific agricultural products
-- **Sustainable development model:** an environmental, efficient, and high-value agricultural development path
+- **International competitive advantage**: Establishing irreplaceable positions in specific agricultural products
+- **Sustainable development model**: An environmentally friendly, efficient, and high-value path for agricultural development
 
-## Taiwan's Agricultural Transformation Journey
+## Taiwan's Agricultural Transformation
 
-### Traditional Agriculture Era (1950–1980)
+### The Era of Traditional Agriculture (1950-1980)
 
-In the early postwar period, Taiwan's agriculture aimed for food self-sufficiency:
+In the early postwar period, Taiwan's agricultural goal was food self-sufficiency. The land-to-the-tiller policy unleashed rural productivity, accompanied by the promotion of high-yield rice varieties, the Green Revolution, and the extensive use of chemical fertilizers.
 
-- **Land reform:** The "land to the tiller" policy unleashed rural productivity
-- **Green Revolution:** promotion of high-yield rice varieties to increase food production
-- **Chemical fertilizers and pesticides:** heavy use of chemical fertilizers to increase per-unit-area yields
-- **Foreign exchange earnings:** exports of rice, sugar, tea, and other agricultural products to earn foreign exchange
+- **Foreign-exchange earnings**: Agricultural exports such as rice, sugar, and tea earned foreign exchange
 
-This phase emphasized increasing "quantity" without adequate consideration of "quality."
+This stage emphasized increases in "quantity" but lacked sufficient consideration of "quality."
 
-### Refined Agriculture Takes Off (1980–2000)
+### The Beginnings of Refined Agriculture (1980-2000)
 
-In the 1980s, Taiwan began promoting "refined agriculture" policies:
+In the 1980s, Taiwan began promoting policies for "refined agriculture." Agricultural research institutes developed high-quality new varieties, while facility agriculture such as greenhouses and net houses grew rapidly.
 
-- **Variety improvement:** agricultural experiment stations bred superior new varieties
-- **Facility agriculture:** development of greenhouse and net house controlled-environment cultivation
-- **Quality improvement:** shifting from pursuing quantity to pursuing quality
-- **Brand building:** gradual establishment of "Taiwan Orchid" and "Taiwan Tea" brands
+- **Quality upgrading**: The focus shifted from pursuing output to pursuing quality
+- **Brand building**: Brands such as "Taiwan orchids" and "Taiwan tea" established reputations in major export markets
 
-The key turning point was recognizing that Taiwan could not compete in low-price agricultural products and had to pursue a high-value path.
+The key turning point was the recognition that Taiwan could not compete in low-priced agricultural products and had to pursue a high-value path.
 
-### Rise of Technology Agriculture (2000–2010)
+### The Rise of Technological Agriculture (2000-2010)
 
-After joining the WTO, Taiwan's agriculture faced pressure from international competition:
+After Taiwan joined the WTO, its agriculture faced pressure from international competition. Biotechnology, including molecular breeding and tissue culture, came into broad use, while GPS and GIS technologies were introduced into farmland management.
 
-- **Biotechnology:** widespread application of molecular breeding, tissue culture, and other techniques
-- **Precision agriculture:** introduction of GPS, GIS, and other technologies into farmland management
-- **Cold chain logistics:** development of preservation technologies to extend agricultural product shelf life
-- **Organic agriculture:** responding to consumer demand for food safety
+- **Cold-chain logistics**: Preservation technologies were developed to extend the shelf life of agricultural products
+- **Organic agriculture**: Responding to consumer demand for food safety
 
-### Smart Agriculture Era (2010–Present)
+### The Era of Smart Agriculture (2010-Present)
 
-With IoT and AI technologies maturing, Taiwan is promoting "Smart Agriculture 4.0":
+After the maturation of IoT and AI technologies, Taiwan promoted "Smart Agriculture 4.0." Sensors collect environmental data, AI analyzes optimal cultivation conditions, and robots and drones reduce labor demand.
 
-- **Data agriculture:** sensors collect environmental data; AI analyzes optimal cultivation conditions
-- **Automated production:** robots, drones, and other equipment reduce labor requirements
-- **Blockchain traceability:** building complete food safety tracking systems
-- **Circular agriculture:** resource utilization of waste, establishing sustainable production models
+- **Blockchain traceability**: Establishing a food-safety tracking system from cultivation to consumption
+- **Circular agriculture**: Turning waste into resources and building sustainable production models
 
-## Success Cases in Refined Agriculture
+## Successful Cases of Refined Agriculture
 
-### The Orchid Kingdom: Taiwan's Orchid Industry
+### Orchid Kingdom: Taiwan's Orchid Industry
 
-Taiwan has the reputation of the "Orchid Kingdom" and is the world's most important orchid producing and exporting nation:
+Taiwan is known as the "Orchid Kingdom" and is one of the world's most important orchid producers and exporters:
 
-**Industry Scale**
+**Industry scale**: Annual production value is approximately NT$6 billion. In 2023, total orchid exports approached US$200 million, US$197.68 million,[^1] Taiwan's global market share in Phalaenopsis orchid seedlings was about one-third,[^1] and the industry employed approximately 10,000 people.
 
-- Annual production value approximately NT$6 billion
-- Export value approximately US$180 million (2023)
-- Approximately 30% of global orchid trade volume
-- Approximately 10,000 employees
+**Technological advantages**: Tissue-culture technology supports the large-scale propagation of high-quality seedlings. Hybrid breeding creates new varieties with independent intellectual-property rights. Precise environmental controls, including temperature, humidity, and light, combined with standardized production processes, ensure consistent quality.
 
-**Technical Advantages**
+**International competitiveness**: The main export markets are the United States, Japan, the European Union, and South Korea. Taiwan's share of the U.S. high-end orchid market, including potted flowers and seedlings, exceeds 70%. It has also established production bases in China and Vietnam to export technology.
 
-- **Tissue culture technology:** mass propagation of superior seedlings
-- **Hybrid breeding:** creating new varieties with proprietary intellectual property rights
-- **Environmental control:** precise control of temperature, humidity, and lighting
-- **Production standardization:** establishing standard operating procedures to ensure consistent quality
+**Keys to success**
+The orchid research team at the Tainan District Agricultural Research and Extension Station of the Ministry of Agriculture spent 30 years building the orchid industry system.[^2] From the collection and preservation of native orchids to hybrid breeding, tissue culture, and cultivation techniques, it covers the entire industry chain from breeding to export.
 
-**International Competitiveness**
+### Atemoya: A New Star of Taiwan Agriculture
 
-- Major export markets: United States, Japan, European Union, South Korea
-- World's No. 1 market share in Phalaenopsis cut flowers
-- Over 70% market share in the high-end US orchid market
-- Technology export: establishing production bases in China, Vietnam, and other locations
+Atemoya is a masterpiece of Taiwan's agricultural technology, demonstrating the results of varietal improvement and refined cultivation:
 
-**Key to Success**
-The orchid research team at the Tainan Agricultural Improvement Station spent 30 years building a complete orchid industry system — from collecting and preserving native orchids to hybrid breeding, tissue culture, and cultivation techniques, forming a complete industrial chain.
+**Varietal characteristics**: It combines the Peruvian cherimoya with a Taitung native custard apple. Its flesh is dense and creamy, with extremely high sweetness, about 20-25 degrees Brix. It has a pineapple-like aroma, which gives it its Chinese name, and it is resistant to cracking, durable in transport, and visually attractive.
 
-### Atemoya: Taiwan Agriculture's New Star
+**Industry data**: The main production area is Taitung County, accounting for more than 90% of Taiwan's total output, with annual production of approximately 30,000 metric tons. Before China's 2021 import ban, exports to China accounted for a high proportion, though figures differ by source. After the ban, the export structure changed substantially.[^4] Farmers' earnings can reach NT$1 million to NT$1.5 million per hectare per year.
 
-Atemoya (pineapple sugar apple) is a masterpiece of Taiwan's agricultural technology, demonstrating the results of variety improvement and refined cultivation:
+**Technological breakthroughs**: Grafting technology allows atemoya branches to be harvested in the year after grafting. Production-period regulation extends the harvest season from December to April of the following year. Grading and packaging standards ensure export quality, while postharvest storage and transportation technologies extend freshness.
 
-**Variety Characteristics**
-
-- Combining Peruvian cherimoya with native Taiwan sugar apple varieties
-- Dense flesh, extremely high sweetness (approximately 20–25 degrees Brix)
-- A pineapple-like fragrance, hence the name
-- Not prone to splitting, tolerates transportation, attractive appearance
-
-**Industry Data**
-
-- Main production area: Taitung County (over 90% of national total)
-- Annual production approximately 30,000 metric tons
-- Export ratio reaches 90%, mainly to mainland China
-- Farmer income: annual income per hectare can reach NT$1–1.5 million
-
-**Technical Breakthroughs**
-
-- **Grafting technology:** grafting atemoya scions onto common sugar apple rootstock enables harvest the following year
-- **Harvest period adjustment:** through technical control, extending the harvest period from December through April the following year
-- **Quality control:** establishing grading and packaging standards to ensure export quality
-- **Post-harvest handling:** developing appropriate storage and transport technologies to extend freshness
-
-**Challenges and Opportunities**
-After China suspended imports in 2021, Taiwan actively developed diverse markets including Japan, Hong Kong, and Southeast Asia. This also prompted the industry to think about how to reduce single-market dependency risk.
+**Challenges and opportunities**
+After China suspended imports in 2021, Taiwan developed alternative markets such as Japan, Hong Kong, and Southeast Asia. This forced transformation prompted the atemoya industry to seriously confront the structural problem of reducing dependence on a single market.
 
 ### High-Mountain Oolong Tea: A Miracle Created by Geography
 
-Taiwan's high-mountain tea is a typical representative of refined agriculture:
+Taiwan's high-mountain tea is a classic representative of refined agriculture:
 
-**Geographic Advantages**
+**Geographic advantages**: Four conditions together create the distinctive quality of high-mountain oolong tea: high-mountain environments above 1,000 meters in elevation, large day-night temperature differences that help tea leaves accumulate nutrients, misty conditions that provide natural shade, and well-drained soil.
 
-- High-mountain environment at 1,000 meters above sea level or higher
-- Large day-night temperature differences, beneficial for tea leaf nutrient accumulation
-- Cloud and mist cover naturally shields direct sunlight
-- Well-drained soil suitable for tea tree growth
+**Quality characteristics**: The tea liquor is fragrant, sweet in the finish, and richly layered. The leaves are thick and suitable for repeated infusions. Each production area's mountain terroir is clearly perceptible, and Taiwanese teas have won multiple major awards in international tea competitions.
 
-**Quality Characteristics**
+**Famous production areas**: The Alishan tea area, at elevations of 1,000-1,700 meters and known for Zhulu tea, and the Lishan tea area, above 2,000 meters and Taiwan's highest-elevation tea region, are the two flagship production areas. The Shanlinxi tea area is shrouded in mist year-round and produces sweet, fine tea. The Dayuling tea area, at 2,200-2,600 meters, has scarce output but excellent quality, and supply falls short of demand every purchasing season.
 
-- Clear, fragrant, sweet-returning tea liquor with rich layering
-- Thick leaves with good brew durability
-- Distinct mountain terroir, with unique flavors across production areas
-- Multiple international tea competition awards
+## Applications of Smart Agricultural Technology
 
-**Notable Production Areas**
+### Precision Agriculture Technologies
 
-- **Alishan Tea Area:** elevation 1,000–1,700 meters, known for pearl dew tea
-- **Lishan Tea Area:** elevation over 2,000 meters, Taiwan's highest altitude tea area
-- **Shanlinxi Tea Area:** perennial cloud cover, sweet tea character
-- **Dayuling Tea Area:** elevation 2,200–2,600 meters, scarce production but exceptional quality
+The three core technology modules of precision agriculture support one another. Environmental monitoring systems track soil temperature and humidity, pH, EC values, and meteorological data in real time, providing early warnings for pests and diseases. Automated irrigation systems adjust watering volume according to soil moisture, while integrated water-and-fertilizer systems apply fertilizer precisely, improving water-saving efficiency by 30-50% and reducing labor costs by 60%. Production-history systems use blockchain technology to record the full process from planting to harvest, allowing consumers to scan a QR code to make inquiries.
 
-## Smart Agriculture Technology Applications
+### AI Applications
 
-### Precision Agriculture Technology
-
-**Environmental Monitoring Systems**
-
-- Real-time monitoring of soil temperature, humidity, pH value, and EC value
-- Meteorological data collection: temperature, humidity, wind speed, rainfall
-- Image recognition of plant growth status
-- Early warning systems for pests and diseases
-
-**Automated Irrigation Systems**
-
-- Automatic water volume adjustment based on soil moisture
-- Integrated water-fertilizer systems for precise fertilization
-- Water efficiency improvement of 30–50%
-- Labor cost reduction of approximately 60%
-
-**Production Traceability Systems**
-
-- Blockchain technology builds product traceability systems
-- Complete recording from planting, fertilizing, and pesticide application through harvest
-- Consumers scan QR codes to query production information
-- Enhancing consumer confidence and increasing product added value
-
-### AI Artificial Intelligence Applications
-
-**Image Recognition Technology**
-
-- Drones equipped with multispectral cameras monitor crop growth status
-- AI analysis of plant diseases with accuracy rates above 95%
-- Automatic calculation of crop maturity to determine optimal harvest timing
-- Automated quality grading to improve grading efficiency and consistency
-
-**Predictive Analysis Systems**
-
-- Combining meteorological data with historical data to predict optimal cultivation timing
-- Market price prediction to help farmers decide what to plant
-- Yield estimation to assist supply chain management
-- Pest and disease occurrence probability prediction for advance prevention
-
-**Smart Decision Support**
-
-- Integrating data from various sensors to provide cultivation recommendations
-- Automatic adjustment of greenhouse environmental parameters
-- Optimization of fertilizer application timing and quantities
-- Reducing production costs by approximately 20–30%
+The main use cases for AI in agriculture include drones carrying multispectral cameras to monitor crop growth, AI analysis of plant diseases with accuracy above 95%, and automated quality grading to improve efficiency. In predictive analysis, AI combines historical weather data to forecast the optimal cultivation timing, market prices, and probabilities of pest and disease occurrence. Smart decision-support systems integrate sensor data to provide cultivation recommendations and regulate greenhouse environments, reducing overall production costs by 20-30%.
 
 ## Government Policies and Support
 
@@ -221,152 +128,46 @@ Taiwan's high-mountain tea is a typical representative of refined agriculture:
 
 The Executive Yuan launched the "Smart Agriculture 4.0" plan in 2017:
 
-**Plan Goals**
+**Plan goals**: Establish 10 smart-agriculture demonstration sites, cultivate 1,000 smart-agriculture professionals, and promote a 20% increase in agricultural production value.[^3]
 
-- NT$4 billion investment over 4 years to develop smart agriculture
-- Establish 10 smart agriculture demonstration sites
-- Cultivate 1,000 smart agriculture professionals
-- Promote 20% increase in agricultural production value
-
-**Key Items**
-
-1. **Smart production:** introducing sensors and automated equipment
-2. **Digital services:** establishing agricultural cloud service platforms
-3. **Agricultural finance:** using big data to improve agricultural financing
-4. **Cross-domain collaboration:** integrating ICT industry with agriculture
+**Priority items**: The plan begins with smart production, including sensors and automated equipment, and digital services, including agricultural cloud platforms, and extends to agricultural finance, using big data to improve financing, and cross-domain cooperation, integrating the ICT industry with agriculture.
 
 ### New Agriculture Innovation Promotion Program
 
-**Variety Improvement and Breeding**
-
-- Establishing the "Agricultural Biotechnology Park"
-- Supporting seedling industry research and development of new varieties
-- Establishing a plant variety rights protection system
-- Promoting international breeding cooperation
-
-**Facility Agriculture Development**
-
-- Subsidizing construction of smart greenhouses and plant factories
-- Promoting environmental control facilities to improve production efficiency
-- Developing vertical farms to overcome land limitations
-- Establishing facility agriculture technical standards
-
-**Agricultural Value-Added**
-
-- Processing primary agricultural products into secondary products
-- Combining tourism to develop leisure agriculture (tertiary)
-- Promoting the "sixth-level industrialization" concept
-- Establishing agricultural product brand marketing systems
+The New Agriculture Innovation Promotion Program supports industrial upgrading along three axes: varietal improvement, including agricultural biotechnology parks, R&D subsidies for the seedling industry, protection of plant variety rights, and international breeding cooperation; facility agriculture, including subsidies for smart greenhouses and plant factories, promotion of environmental-control facilities, and vertical farm development; and agricultural value addition, upgrading primary agricultural products through processing into secondary and tertiary products while promoting the concept of "sixth-sector industrialization" and brand marketing.
 
 ### Organic Agriculture Promotion Act
 
-The Organic Agriculture Promotion Act was enacted in 2018:
-
-- Establishing organic agriculture zones
-- Providing organic certification subsidies
-- Promoting organic agricultural product marketing
-- Target: organic cultivation area reaching 15,000 hectares
+The Organic Agriculture Promotion Act, enacted in 2018, established organic agricultural zones, provided certification subsidies, and promoted marketing, with the goal of expanding organic cultivation area to 15,000 hectares.
 
 ## Challenges and Future Development
 
-### Major Challenges
+### Main Challenges
 
-**Climate Change Impacts**
+Taiwan's refined agriculture faces four structural challenges. In climate terms, the rising frequency of extreme weather and changing pest and disease patterns require stress-resistant varieties and disaster early-warning systems. In labor terms, the average age of agricultural workers is about 63, the share of young people entering agriculture remains low, and technical inheritance faces discontinuity. In market terms, low-price competition from Southeast Asia is intensifying, trade protectionism is rising, and differentiated advantages still need to be strengthened. In environmental terms, pressure to reduce carbon emissions requires agriculture to lower the use of chemical fertilizers and pesticides and develop circular agricultural models.
 
-- Increasing frequency of extreme weather affecting crop production
-- Changing patterns of pest and disease occurrence
-- Need to develop stress-tolerant varieties
-- Strengthening disaster warning and protective measures
+### Future Directions
 
-**Rural Population Aging**
+The next step for precision agriculture is the wider adoption of sensor technology, iterative improvement of AI analysis, and unmanned operation in some fields. Biotechnology applications will focus on gene-edited breeding, biological control as a pesticide substitute, probiotic soil improvement, and the commercialization of plant factories. The circular-economy direction includes turning agricultural waste into resources, alternative proteins such as insect protein, and agricultural carbon-credit trading. International cooperation will focus on exporting agricultural technology to Southeast Asia and Africa, developing agricultural technology services, and establishing overseas agricultural production bases.
 
-- Average age of agricultural workers approximately 63 years
-- Low proportion of young people entering farming
-- Agricultural technology inheritance facing discontinuity
-- Need to improve agricultural working conditions and income
+## International Impact and Future Vision
 
-**International Market Competition**
+The international impact of Taiwan's refined agriculture mainly takes the form of technology export. Orchid-industry technology has been exported to China and Vietnam, while agricultural experts have been stationed in allied countries and participated in United Nations Sustainable Development Goals programs. In branding, "Taiwan orchids" in the U.S. high-end market and "Taiwan tea" in high-end consumer markets in Japan and Southeast Asia have both established clear quality premiums.
 
-- Facing low-cost competition from Southeast Asia
-- Rising trade protectionism
-- Need to strengthen differentiation advantages
-- Developing diversified markets
-
-**Environmental Sustainability Requirements**
-
-- Reducing use of chemical fertilizers and pesticides
-- Developing circular agriculture models
-- Protecting ecological environments
-- Responding to net-zero emissions targets
-
-### Future Development Directions
-
-**Deepening Precision Agriculture**
-
-- Sensor technology becoming more widespread
-- AI analysis capabilities continuously improving
-- Automation levels constantly increasing
-- Approaching "unmanned farm" reality
-
-**Biotechnology Applications**
-
-- Gene editing technology to cultivate new varieties
-- Biological pest control to reduce chemical pesticides
-- Probiotics to improve soil health
-- Plant factory large-scale commercialization
-
-**Circular Economy Model**
-
-- Resource utilization of agricultural waste
-- Developing insect protein and other alternative proteins
-- Establishing agricultural carbon credit trading mechanisms
-- Promoting regenerative agriculture practices
-
-**Expanding International Cooperation**
-
-- Technology export to Southeast Asia and Africa
-- Participating in international agricultural aid programs
-- Establishing overseas agricultural production bases
-- Developing agricultural technology service industries
-
-## International Influence and Future Vision
-
-Taiwan's successful experience in refined agriculture has become an international learning model:
-
-**Technology Export**
-
-- Orchid industry technology exported to China and Vietnam
-- Agricultural experts stationed in allied nations for guidance
-- Participating in United Nations sustainable development goal programs
-- Sharing smart agriculture solutions
-
-**Brand Building**
-
-- "Taiwan Orchid" internationally renowned
-- "Taiwan Tea" brand value continuously increasing
-- Agricultural products passing international organic certification
-- Establishing reputation in high-end markets
-
-**Future Vision**
-
-- Becoming an Asia-Pacific agricultural innovation hub
-- Exporting Taiwan's agricultural technology and management models
-- Establishing a model for sustainable agricultural development
-- Making "Taiwan Agriculture" a synonym for quality assurance
-
-Taiwan's agriculture has transformed from "depending on heaven" to "technology agriculture," from "pursuing quantity" to "enhancing quality." This transformation process is full of wisdom and innovation. On land of limited area, Taiwan's farmers have used technology and intelligence to create an agricultural miracle — not only a source of Taiwan's pride, but a valuable development experience for small agricultural nations worldwide.
+The transformation path of Taiwan's agriculture, from Ponlai rice breeding in the 1920s to AI image recognition of pests and diseases today, is essentially the systematic raising of technological barriers. Orchid seedlings account for 70% of the U.S. high-end market, and atemoya can generate annual income of NT$1 million per hectare. These two figures show the concrete meaning of "refinement" in Taiwan's agricultural context: a market position with a moat, not merely a claim of quality.
 
 ## References
 
-1. [Ministry of Agriculture (formerly Council of Agriculture), Smart Agriculture 4.0 Plan Results Report, 2023](https://www.moa.gov.tw/)
-2. [Taitung District Agricultural Improvement Station, Current Status of Atemoya Industry Development, 2024](https://www.ttdares.gov.tw/)
-3. [Taiwan Agricultural Research Institute, Taiwan Orchid Industry Development White Paper, 2023](https://www.tari.gov.tw/)
-4. [Ministry of Agriculture, 2022 Agricultural Statistics Yearbook, 2023](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx)
-5. [Tea and Beverage Crops Improvement Station, Taiwan High-Mountain Tea Industry Analysis Report, 2024](https://www.tbrs.gov.tw/)
-6. [Agricultural Technology Research Institute, Refined Agriculture Development Strategy Analysis, 2023](https://www.atri.org.tw/)
-7. International Orchid Association, Global Orchid Market Report, 2023
-8. [Wikipedia, Atemoya entry](https://zh.wikipedia.org/wiki/%E9%B3%B3%E6%A2%A8%E9%87%8B%E8%BF%A6)
-9. Executive Yuan, New Agriculture Innovation Promotion Program, 2023 revised edition
-10. Agricultural Finance Agency, Agricultural Technology Development Fund Utilization Results, 2024
-11. Organic Agriculture Global Information Network, Current Status of Taiwan's Organic Agriculture Development
-12. DIGITIMES, Taiwan Smart Agriculture Development Trend Analysis, 2024
+[^1]: [Ministry of Agriculture official Facebook — Taiwan Orchids Astonish the World (Nearly US$200 Million in Exports in 2023)](https://www.facebook.com/TaiwanMOA/) — Official data showing total orchid exports of US$197.68 million in 2023
+
+[^2]: [Tainan District Agricultural Research and Extension Station, Ministry of Agriculture](https://www.tndais.gov.tw/) — Results of orchid variety research and industry guidance by the Tainan station
+
+[^3]: [Ministry of Agriculture — Advancing toward the Taiwan Agriculture 4.0 Era with Smart Technology](https://www.moa.gov.tw/ws.php?id=2505139) — Policy explanation for the smart agriculture promotion plan launched in 2017
+
+[^4]: [Taitung District Agricultural Research and Extension Station, Ministry of Agriculture — Development of the Atemoya Industry](https://www.ttdares.gov.tw/) — Atemoya export structure and adjustment strategies after China's import ban
+
+[^5]: [Ministry of Agriculture Agricultural Statistics Yearbook](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Historical Ministry of Agriculture statistics on agriculture, forestry, fisheries, and animal husbandry
+
+[^6]: [Agricultural Technology Research Institute — Analysis of Refined Agriculture Development Strategies](https://www.atri.org.tw/) — Analysis of refined agriculture technologies and commercialization strategies
+
+[^7]: [Tea and Beverage Research Station — Taiwan's High-Mountain Tea Industry](https://www.tbrs.gov.tw/) — Materials on Taiwanese tea varietal improvement and the high-mountain tea industry

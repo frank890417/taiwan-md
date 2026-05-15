@@ -1,283 +1,224 @@
 ---
-title: 'El comercio exterior de Taiwán y la cadena de suministro global'
-description: 'De la orientación exportadora al nodo clave de la cadena de suministro: cómo Taiwán mantiene su ventaja comercial en la rivalidad entre Estados Unidos y China'
+title: 'Comercio exterior de Taiwán y cadenas globales de suministro'
+description: 'De la orientación exportadora a nodo clave de las cadenas de suministro: cómo Taiwán mantiene su ventaja comercial en la confrontación entre Estados Unidos y China'
 date: 2026-03-18
+author: 'Taiwan.md'
+category: 'Economy'
+subcategory: '經濟發展'
 tags:
   [
-    comercio exterior,
-    cadena de suministro global,
-    orientación exportadora,
-    guerra comercial EE.UU.-China,
-    ECFA,
-    acuerdos comerciales internacionales,
-    semiconductores,
+    'comercio exterior',
+    'cadenas globales de suministro',
+    'orientación exportadora',
+    'guerra comercial entre Estados Unidos y China',
+    'ECFA',
+    'acuerdos comerciales internacionales',
+    'semiconductores',
   ]
-subcategory: '經濟發展'
-category: Economy
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: Economy/台灣外貿與全球供應鏈.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c9c74a5987b6a57a'
-sourceBodyHash: 'sha256:fc166b853b9db56b'
-translatedAt: 2026-05-01T22:19:10+08:00
+featured: false
+translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
+sourceCommitSha: '24efd20f3'
+sourceContentHash: 'sha256:9913b1fbaa8895dd'
+sourceBodyHash: 'sha256:ec73a2d32ea085c0'
+translatedAt: '2026-05-15T13:52:06+08:00'
 ---
 
-# El comercio exterior de Taiwán y la cadena de suministro global
+# Comercio exterior de Taiwán y cadenas globales de suministro
 
-En el muelle de contenedores del puerto de Taipéi, miles de contenedores estándar se cargan y descargan cada día con destino a todos los rincones del mundo. Dentro de estas aparentes cajas de metal se esconde el secreto del milagro económico taiwanés: desde la ropa y los juguetes de la década de 1960 hasta los chips de semiconductores de hoy, Taiwán ha ocupado una posición clave en el escenario internacional gracias al comercio de exportación. A pesar de contar con una superficie territorial de apenas 36.000 km², Taiwán es la decimoquinta potencia comercial mundial y posee una posición insustentable en sectores críticos como los semiconductores y los productos de tecnología de la información y las comunicaciones.
+En las terminales de contenedores del puerto de Taipéi, miles de contenedores estándar se cargan y descargan cada día con destino a todas partes del mundo. Dentro de esas cajas de metal en apariencia ordinarias viaja el secreto del milagro económico taiwanés: desde la confección y los juguetes de la década de 1960 hasta los chips semiconductores actuales, Taiwán ha ocupado una posición clave en el escenario internacional gracias al comercio de exportación. Aunque su territorio mide apenas 36.000 kilómetros cuadrados, según el valor de sus exportaciones en 2023 Taiwán fue la 16.ª economía exportadora del mundo[^2], y además ocupa una posición insustituible en áreas estratégicas como los semiconductores y los productos de tecnologías de la información y las comunicaciones.
 
-> En 2023, el volumen total del comercio taiwanés alcanzó los 815.900 millones de dólares, con una dependencia de importaciones y exportaciones del 100%, lo que lo convierte en una economía típicamente orientada al comercio. De ese total, el comercio con China (incluida Hong Kong) representó el 35%, y el comercio con Estados Unidos, el 15%, lo que subraya la posición delicada de Taiwán en la relación triangular entre Washington y Pekín.
+> En 2023, el comercio exterior total de Taiwán alcanzó los 869.540 millones de dólares estadounidenses —475.070 millones en exportaciones y 394.470 millones en importaciones—[^1], y su dependencia de las importaciones y exportaciones llegó al 100%, lo que lo convierte en una economía típicamente orientada al comercio. De ese total, el comercio con China —incluido Hong Kong— representó el 35%, mientras que el comercio con Estados Unidos representó el 15%, lo que pone de relieve la posición delicada de Taiwán dentro de la relación triangular entre Estados Unidos y China.
 
 ## Por qué esto importa
 
-El comercio exterior de Taiwán no se reduce a cifras económicas: es una estrategia de supervivencia. En una isla carente de recursos naturales, Taiwán debe obtener bienes de primera necesidad y energía a través del comercio, al tiempo que exporta productos de alta intensidad tecnológica para generar riqueza. Cuando las cadenas de suministro globales se reconfiguran por razones geopolíticas, la posición estratégica de Taiwán se vuelve aún más prominente: es tanto un puesto de avanzada tecnológico de Estados Unidos para contener a China como un proveedor tecnológico indispensable para China. Mantener el equilibrio en esta relación triangular es vital para los medios de vida de 23 millones de personas.
+El comercio exterior de Taiwán es una estrategia de supervivencia. En una isla carente de recursos naturales, Taiwán debe obtener mediante el comercio bienes básicos y energía, al mismo tiempo que exporta productos intensivos en tecnología para generar riqueza. A medida que las cadenas globales de suministro se reorganizan por motivos geopolíticos, la posición estratégica de Taiwán se vuelve cada vez más evidente: es tanto la avanzada tecnológica de Estados Unidos para contener a China como un proveedor tecnológico indispensable para China. Mantener el equilibrio dentro de esta relación triangular incide directamente en el sustento de 23 millones de personas.
 
-## La formación de una economía orientada a la exportación
+## Formación de una economía orientada a la exportación
 
-### 1960-1980: la estrategia de sustitución de exportaciones
+### 1960-1980: estrategia de sustitución por exportaciones
 
-**Limitaciones de la sustitución de importaciones:**
-En la década de 1950, Taiwán adoptó una política de sustitución de importaciones para proteger el desarrollo de su industria nacional. Sin embargo, el reducido tamaño del mercado interno generó rápidamente un cuello de botella en el crecimiento.
+**Los límites de la sustitución de importaciones:**
+En la década de 1950, Taiwán adoptó una política de sustitución de importaciones para proteger el desarrollo de la industria local. Sin embargo, el mercado interno era pequeño y pronto encontró cuellos de botella para seguir creciendo.
 
-**Transición hacia la orientación exportadora:**
+**Transformación hacia la orientación exportadora:**
 A partir de la década de 1960 se impulsó la industrialización orientada a la exportación:
 
-- Creación de zonas de procesamiento de exportación para atraer inversión extranjera
-- Ofrecimiento de incentivos fiscales y mano de obra a bajo coste
-- Establecimiento de organismos de promoción comercial (Consejo de Desarrollo del Comercio Exterior de la República de China)
-- Devaluación monetaria para mejorar la competitividad de las exportaciones
+El gobierno estableció zonas de procesamiento para la exportación, atrajo capital extranjero para instalar fábricas y ofreció incentivos fiscales y mano de obra barata para captar pedidos. Al mismo tiempo, creó una institución de promoción comercial —el Consejo de Desarrollo del Comercio Exterior de la República de China— y combinó esa política con una estrategia de depreciación monetaria para aumentar la competitividad exportadora.
 
-**Tres pilares de exportación:**
+**Tres principales motores de exportación:**
 
-1. **Textil y confección:** aprovechando la abundante mano de obra y la base técnica existente
-2. **Ensamblaje electrónico:** asumiendo pedidos de fabricación por encargo de empresas europeas y estadounidenses
-3. **Juguetes de plástico:** productos intensivos en mano de obra con baja barrera tecnológica
+1. **Textiles y confección:** uso de abundante mano de obra y una base técnica existente
+2. **Ensamblaje electrónico:** recepción de pedidos de manufactura por contrato de empresas europeas y estadounidenses
+3. **Juguetes de plástico:** productos intensivos en mano de obra y con bajo umbral tecnológico
 
-**Rápido crecimiento comercial:**
+**Rápido crecimiento comercial:** en 1960, las exportaciones sumaban apenas 164 millones de dólares estadounidenses; para 1980 habían alcanzado 19.900 millones, un aumento de 121 veces en 20 años. En el mismo periodo, la dependencia exportadora pasó del 11% al 52%, lo que marcó la culminación de la transformación de Taiwán hacia una economía orientada a la exportación.
 
-- Exportaciones en 1960: 164 millones de dólares
-- Exportaciones en 1980: 19.900 millones de dólares, un crecimiento de 121 veces en 20 años
-- La dependencia de las exportaciones pasó del 11% en 1960 al 52% en 1980
+### 1980-2000: modernización y transformación industrial
 
-### 1980-2000: la transformación con mejora industrial
+Frente a la competencia de bajo costo de Corea del Sur y el Sudeste Asiático, Taiwán se vio obligado a avanzar hacia industrias intensivas en tecnología:
 
-Ante la competencia de bajo coste de Corea del Sur y el sudeste asiático, Taiwán se vio obligada a escalar hacia industrias de alta intensidad tecnológica:
+**Ascenso de la industria tecnológica:**
 
-**Auge de la industria tecnológica:**
+En 1980 se fundó el Parque Científico de Hsinchu, que impulsó el arraigo de las industrias de semiconductores e informática en Taiwán, formó clústeres de investigación, desarrollo y manufactura, cultivó talento tecnológico local y estableció un efecto integral de aglomeración industrial.
 
-- En 1980 se fundó el Parque Científico de Hsinchu
-- Atracción de industrias de semiconductores e informática
-- Formación de talento tecnológico local
-- Creación de un ecosistema industrial completo
+**Modelo de manufactura por contrato:**
+Las empresas taiwanesas desarrollaron un modelo propio de ODM/OEM: el OEM ofrece servicios de manufactura pura por encargo, mientras que el ODM integra diseño y fabricación para crear productos a medida para marcas internacionales, formando un ecosistema completo de producción por contrato.
 
-**Modelo de fabricación por encargo:**
-Las empresas taiwanesas desarrollaron un modelo singular de ODM/OEM:
+**Cambio en la estructura exportadora:** la proporción de textiles tradicionales y juguetes disminuyó, mientras que los productos electrónicos e informáticos los reemplazaron como principal rubro de exportación, con un aumento significativo de la intensidad tecnológica.
 
-- **OEM (fabricación por encargo):** manufactura puramente subcontratada
-- **ODM (diseño por encargo):** servicio integral de diseño más fabricación
-- **Fabricación de marca blanca:** desarrollo de productos a medida para marcas internacionales
+### 2000-presente: integración en las cadenas globales de suministro
 
-**Cambio en la estructura de exportación:**
-
-- Disminución de la proporción de productos tradicionales (textiles, juguetes)
-- Los productos de electrónica e información se convirtieron en el pilar exportador
-- Aumento significativo de la intensidad tecnológica
-
-### 2000-actualidad: integración en la cadena de suministro global
-
-**La ola de inversión en China:**
-A partir de 2000, las empresas taiwanesas se trasladaron en masa al continente chino:
-
-- Aprovechando la mano de obra y el suelo de bajo coste en China
-- Atendiendo de cerca a las empresas de marca europeas y estadounidenses
-- Configurando el modelo «pedido en Taiwán, producción en China»
-- Rápido crecimiento del comercio entre ambas orillas
+**Ola de inversión en China:**
+Después de 2000, las empresas taiwanesas avanzaron masivamente hacia el oeste, aprovechando la mano de obra y la tierra de bajo costo en China para servir de cerca a las marcas europeas y estadounidenses. Así se formó el modelo emblemático de “Taiwán recibe los pedidos, China produce”, que impulsó el rápido crecimiento del comercio a ambos lados del Estrecho.
 
 **Modelo de comercio triangular:**
-Taiwán, China y Occidente formaron una estrecha relación de comercio triangular:
+Taiwán, China, Europa y Estados Unidos formaron una estrecha relación de comercio triangular:
 
-1. **Taiwán:** I+D tecnológica, producción de componentes clave, centro neurálgico comercial
-2. **China:** ensamblaje final, base de producción de bajo coste
-3. **Occidente:** marketing de marca, consumo en mercados finales
+1. **Taiwán**: investigación y desarrollo tecnológico, producción de componentes clave, centro comercial
+2. **China**: ensamblaje final, base de producción de bajo costo
+3. **Europa y Estados Unidos**: marketing de marca, consumo en mercados finales
 
-## El papel de Taiwán en la cadena de suministro global
+## El papel de Taiwán en las cadenas globales de suministro
 
-### El reino de los semiconductores
+### Reino de los semiconductores
 
 **El efecto TSMC:**
-TSMC (Taiwan Semiconductor Manufacturing Company) se ha convertido en el líder mundial de la fundición de obleas, con una cuota de mercado superior al 50%:
+TSMC se ha convertido en el líder mundial de la fundición de obleas, con una cuota de mercado superior al 50%:
 
-- Domina los procesos de fabricación más avanzados (3 nm, 2 nm)
-- Es el único proveedor de grandes clientes como Apple, NVIDIA y AMD
-- Impulsa el desarrollo de la cadena de suministro aguas arriba y aguas abajo
+- Domina las tecnologías de proceso más avanzadas —3 nanómetros y 2 nanómetros
+- Es proveedor único de grandes empresas como Apple, NVIDIA y AMD
+- Impulsa el desarrollo de las cadenas de suministro aguas arriba y aguas abajo
 
 **Ecosistema completo de semiconductores:**
 
-- **Diseño de circuitos integrados:** MediaTek, Realtek, Novatek, entre otros
-- **Fundición de obleas:** TSMC, UMC, VIS
-- **Encapsulado y pruebas:** ASE, SPIL, Powertech
-- **Equipamiento y materiales:** Hermes-Epitek, Sino-American Silicon Products, GlobalWafers
+En el extremo del diseño de circuitos integrados están empresas como MediaTek, Realtek y Novatek; la fundición de obleas está liderada por TSMC, UMC y Vanguard International Semiconductor; el encapsulado y las pruebas están dominados por ASE, SPIL y Powertech; y proveedores de equipos y materiales como Hermes-Epitek, Sino-American Silicon Products y GlobalWafers conforman un soporte aguas arriba completo.
 
 **Importancia estratégica:**
-Los semiconductores son la base de la tecnología moderna. Taiwán controla a nivel mundial:
+Los semiconductores son la base de la tecnología moderna. Taiwán domina a escala mundial:
 
-- El 63% de la capacidad de fundición de obleas
+- Fundición de obleas: encabezada por TSMC, la cuota taiwanesa total se estima en más del 70% —en 2023-2024, TSMC por sí sola alcanzó entre 55% y 67%—[^3]
 - Más del 90% de la capacidad de procesos avanzados
 - Más del 50% de la capacidad de encapsulado y pruebas
 
-### Cadena de la industria de TIC
+### Cadena industrial de tecnologías de la información y las comunicaciones
 
-**El reino de la fabricación de portátiles:**
-Taiwán concentra más del 90% de la capacidad mundial de producción de computadoras portátiles:
+**Reino de la fabricación de computadoras portátiles:**
+Las marcas taiwanesas y la producción en el exterior de empresas taiwanesas concentran en conjunto alrededor del 85-90% de la manufactura por contrato mundial de computadoras portátiles —incluidas las fábricas de empresas taiwanesas en China continental, según datos de 2024—, mientras que la proporción de producción directa en la isla de Taiwán ha caído considerablemente[^4]:
 
-- **Quanta:** principal fabricante subcontratado de Apple MacBook
-- **Compal:** fabricación por encargo de portátiles para Lenovo y Dell
-- **Pegatron:** producción de portátiles para ASUS y Sony
+- **Quanta:** principal fabricante por contrato de MacBook de Apple
+- **Compal:** fabricante por contrato de portátiles para Lenovo y Dell
+- **Pegatron:** fabricante de portátiles para ASUS y Sony
 
-**Servidores y equipos de computación en la nube:**
+**Servidores y equipos de nube:**
 
-- El 70% de los servidores mundiales se diseñan y fabrican en Taiwán
-- Principal proveedor de servicios en la nube (Google, Amazon, Facebook)
-- Importante fabricante de equipos de infraestructura 5G
+- El 70% de los servidores del mundo se diseña y fabrica en Taiwán
+- Principales proveedores de empresas de servicios en la nube como Google, Amazon y Facebook
+- Fabricantes importantes de equipos de infraestructura 5G
 
 **Componentes clave:**
 
-- **Componentes pasivos:** Yageo, Walsin (entre los tres primeros del mundo por cuota de mercado)
-- **Conectores:** Foxconn, Cheng Uei (principales proveedores de Apple)
-- **Placas de circuito impreso:** ZDT, Unimicron (líderes tecnológicos)
+- **Componentes pasivos:** Yageo y Walsin Technology —entre los tres mayores del mundo por cuota de mercado
+- **Conectores:** Foxconn y Cheng Uei —proveedores principales de Apple
+- **Placas de circuito impreso:** Zhen Ding y Unimicron —con liderazgo tecnológico
 
-### Maquinaria de precisión y máquinas-herramienta
+### Maquinaria de precisión y máquinas herramienta
 
-Taiwán ocupa el cuarto lugar mundial en exportación de máquinas-herramienta, con tecnología de maquinaria de precisión de nivel mundial:
+En 2023, Taiwán cayó al séptimo lugar mundial en exportaciones de máquinas herramienta —un descenso respecto de sus años de mayor desempeño— y fue superado por Estados Unidos y Corea del Sur[^5], aunque su tecnología de maquinaria de precisión sigue siendo competitiva:
 
-- **Equipos de mecanizado de precisión para teléfonos móviles:** utilizados por las cadenas de suministro de TSMC y Apple
-- **Componentes automotrices:** Hotai Auto Parts, Tong Yang Industrial
-- **Cadena de la industria de la bicicleta:** Giant, Merida y sus proveedores aguas arriba y aguas abajo
+- **Equipos de mecanizado de precisión para teléfonos móviles:** usados por las cadenas de suministro de TSMC y Apple
+- **Componentes automotrices:** Hota Industrial y Tong Yang Industry
+- **Cadena industrial de bicicletas:** Giant, Merida y proveedores aguas arriba y aguas abajo
 
-## Relaciones comerciales entre ambas orillas del estrecho
+## Relaciones comerciales a ambos lados del Estrecho
 
-### ECFA y el comercio a través del estrecho
+### ECFA y comercio a través del Estrecho
 
 **Firma del ECFA en 2010:**
-El Acuerdo Marco de Cooperación Económica (ECFA) generó beneficios tangibles:
+El Acuerdo Marco de Cooperación Económica entre ambos lados del Estrecho produjo beneficios sustantivos:
 
-- La lista de cosecha temprana redujo los aranceles
-- Las exportaciones taiwanesas a China continental crecieron rápidamente
-- Apertura del mercado de servicios
-- Acuerdo de protección de inversiones
+La lista de cosecha temprana del ECFA redujo múltiples aranceles, impulsó el rápido crecimiento de las exportaciones taiwanesas hacia China continental y abrió mercados de servicios, al tiempo que estableció un marco para acuerdos de protección de inversiones.
 
 **Datos comerciales:**
 
-- Volumen comercial entre ambas orillas en 2023: 284.700 millones de dólares
+- En 2023, el comercio a ambos lados del Estrecho tuvo cifras distintas según el criterio estadístico: las estadísticas de comercio directo de la Administración de Aduanas del Ministerio de Finanzas rondaron los 223.900 millones de dólares estadounidenses; los cálculos que incluyen comercio indirecto son más altos, y 284.700 millones de dólares es una cifra citada por otra fuente[^7]
 - China es el mayor socio comercial de Taiwán
-- Superávit comercial taiwanés con China: aproximadamente 80.000 millones de dólares
-- Principales partidas de exportación: semiconductores, paneles, maquinaria y equipos
+- Taiwán registra un superávit comercial con China continental de alrededor de 80.000 millones de dólares estadounidenses
+- Principales rubros de exportación: semiconductores, paneles y equipos mecánicos
 
-### Inversión y transferencia industrial
+### Inversión y traslado industrial
 
-**Cronología de la expansión taiwanesa hacia China:**
+**Trayectoria del avance de empresas taiwanesas hacia China:**
 
-1. **Década de 1990:** traslado de industrias manufactureras manufactureras tradicionales (textil, calzado)
-2. **Década de 2000:** migración masiva de la industria electrónica e informática
-3. **Década de 2010:** inicio de la expansión del sector servicios en el mercado chino
+1. **Década de 1990:** traslado de manufacturas tradicionales —textiles y calzado
+2. **Década de 2000:** avance masivo de la industria electrónica e informática hacia China
+3. **Década de 2010:** inicio del despliegue de la industria de servicios en el mercado chino
 
-**Modelo de división industrial:**
+**Modelo de división industrial:** Taiwán se encarga de la investigación y el diseño, los componentes clave y la gestión de marcas, mientras que China asume la manufactura y el ensamblaje, el mercado interno y la integración de cadenas de suministro, formando una estructura de división vertical altamente interdependiente.
 
-- **Taiwán:** I+D, componentes clave, gestión de marca
-- **China:** manufactura y ensamblaje, mercado interno, integración de la cadena de suministro
+**Riesgos y desafíos:** el costo de este modelo es una dependencia excesiva de un solo mercado, acompañada por amenazas de fuga tecnológica y riesgos geopolíticos cada vez mayores.
 
-**Riesgos y desafíos:**
+## Impacto de la guerra comercial entre Estados Unidos y China
 
-- Dependencia excesiva de un solo mercado
-- Fuga de tecnología y amenazas competitivas
-- Aumento del riesgo geopolítico
+### Choque de la guerra tecnológica
 
-## El impacto de la guerra comercial EE.UU.-China
+**Efecto de las restricciones contra Huawei:**
+Las sanciones de Estados Unidos contra Huawei y otras empresas chinas afectaron a proveedores taiwaneses:
 
-### Impacto de la guerra tecnológica
+- TSMC dejó de fabricar por contrato para Huawei
+- MediaTek, Largan Precision y otras empresas perdieron clientes importantes
+- Taiwán quedó atrapado en el dilema de verse obligado a escoger bando
 
-**Efecto de la prohibición contra Huawei:**
-Las sanciones de Estados Unidos contra empresas chinas como Huawei afectaron a los proveedores taiwaneses:
+**Competencia estratégica en semiconductores:** la Ley CHIPS de Estados Unidos ofrece subsidios para atraer a TSMC a instalar fábricas en territorio estadounidense, mientras China aumenta simultáneamente la inversión en investigación y desarrollo autónomos de semiconductores. Taiwán enfrenta riesgos de fuga tecnológica en medio de la presión de ambas potencias.
 
-- TSMC dejó de fabricar para Huawei
-- MediaTek, Largan Precision y otros perdieron clientes importantes
-- El dilema de verse obligados a tomar partido
+### Oportunidades por la reorganización de las cadenas de suministro
 
-**Competencia estratégica en semiconductores:**
-
-- La Ley CHIPS de Estados Unidos atrajo a TSMC para construir fábricas en suelo estadounidense
-- China incrementó la inversión en I+D independiente de semiconductores
-- Taiwán enfrenta el riesgo de fuga tecnológica
-
-### Oportunidades de reconfiguración de la cadena de suministro
-
-**Efecto de desviación de pedidos:**
-La guerra comercial EE.UU.-China generó oportunidades de desviación de pedidos:
-
-- Los proveedores estadounidenses redujeron las compras a China
-- Taiwán absorbió parte de los pedidos transferidos
-- La maquinaria y los productos electrónicos se beneficiaron
+**Efecto de desvío de pedidos:**
+La guerra comercial entre Estados Unidos y China generó oportunidades por transferencia de pedidos: las empresas estadounidenses redujeron sus compras a China, Taiwán recibió parte de esos pedidos trasladados, y los sectores de maquinaria y equipos electrónicos fueron los más beneficiados.
 
 **Nueva Política hacia el Sur:**
-El gobierno impulsó la Nueva Política hacia el Sur para reducir la dependencia de China:
+El gobierno impulsó la Nueva Política hacia el Sur con el objetivo de establecer inversiones en los diez países de la ASEAN, seis países de Asia Meridional, Australia y Nueva Zelanda, además de promover intercambios de talento, cooperación tecnológica y cooperación financiera en infraestructura para reducir la dependencia de China.
 
-- Inversión y presencia en los diez países de la ASEAN, seis países del sur de Asia y Australia/Nueva Zelanda
-- Intercambio de talento y cooperación tecnológica
-- Cooperación en infraestructura y finanzas
-
-**Tendencia al nearshoring:**
-Las empresas multinacionales priorizan la resiliencia de la cadena de suministro:
-
-- Diversificación geográfica
-- Localización de tecnologías clave
-- Taiwán se convierte en un socio de confianza
+**Tendencia al nearshoring:** bajo la presión de aumentar la resiliencia de las cadenas de suministro, las empresas multinacionales diversifican su distribución geográfica. Gracias a su sistema de gobernanza democrático y a la confianza tecnológica que genera, Taiwán se ha convertido en un destino prioritario cuando las empresas trasladan capacidad productiva.
 
 ## Participación en acuerdos comerciales internacionales
 
-### Desafíos en la negociación de TLC
+### Desafíos para la red de FTA
 
-**Limitaciones por factores políticos:**
-Debido a la política de una sola China, la participación de Taiwán en la integración económica regional enfrenta dificultades:
+**Restricciones por factores políticos:**
+Debido a la política de una sola China, Taiwán enfrenta dificultades para participar en la integración económica regional:
 
-- Imposibilidad de participar en la RCEP (Asociación Económica Integral Regional)
-- Avance lento de la solicitud de adhesión al CPTPP (Tratado Integral y Progresista de Asociación Transpacíficas)
-- Obstáculos en las negociaciones bilaterales de TLC
+- No puede participar en el RCEP —Asociación Económica Integral Regional
+- La solicitud de ingreso al CPTPP —Tratado Integral y Progresista de Asociación Transpacífico— avanza con lentitud
+- Las negociaciones de FTA bilaterales encuentran obstáculos
 
-**Acuerdos comerciales vigentes:**
+**Acuerdos comerciales existentes:**
 
-- TLC firmados con Panamá, Guatemala, Honduras, Nicaragua y otros siete países
-- Reanudación de las negociaciones del TIFA (Acuerdo Marco de Comercio e Inversión) con Estados Unidos
-- Impulso del BIA (Acuerdo Bilateral de Inversión) con la Unión Europea
+- Firma de FTA con siete países, entre ellos Panamá, Guatemala, Honduras y Nicaragua
+- Reanudación de las negociaciones del TIFA —Acuerdo Marco de Comercio e Inversión— con Estados Unidos
+- Impulso de un BIA —acuerdo bilateral de inversión— con la Unión Europea
 
-### Avances en la estrategia económica y comercial
+### Avances estratégicos en economía y comercio
 
-**Cooperación en comercio digital:**
+**Cooperación en comercio digital:** Taiwán y Estados Unidos firmaron un marco de cooperación en comercio tecnológico e inversión, y Taiwán participa en negociaciones del DEPA —Acuerdo de Asociación de Economía Digital—, promoviendo en foros multilaterales la formulación de reglas de comercio digital favorables para Taiwán.
 
-- Firma del Marco de Cooperación en Comercio Tecnológico e Inversión con Estados Unidos
-- Participación en las negociaciones del DEPA (Acuerdo de Asociación Económica Digital)
-- Impulso a la formulación de reglas de comercio digital
-
-**Cooperación en cadenas de suministro:**
-
-- Iniciativa Comercial Taiwán-Estados Unidos del Siglo XXI
-- Marco de Cooperación en Comercio Tecnológico e Inversión entre Taiwán y Estados Unidos
-- Establecimiento de cadenas de suministro de minerales críticos con aliados
+**Cooperación en cadenas de suministro:** la Iniciativa Estados Unidos-Taiwán sobre Comercio del Siglo XXI y el marco de cooperación tecnológica, comercial y de inversión entre Taiwán y Estados Unidos ofrecen una estructura institucional bilateral, a la vez que Taiwán se suma a la colaboración multilateral con aliados para establecer cadenas de suministro de minerales críticos.
 
 ## Transformación de la estructura comercial
 
-### Evolución de los productos de exportación
+### Evolución de los bienes exportados
 
-**Década de 1960:** textiles, prendas de vestir, productos plásticos
-**Década de 1980:** productos de electrónica e informática, maquinaria y equipos
+**Década de 1960:** textiles, confección, productos plásticos
+**Década de 1980:** productos electrónicos e informáticos, maquinaria y equipos
 **Década de 2000:** semiconductores, paneles, computadoras portátiles
 **Década de 2020:** semiconductores avanzados, equipos 5G, componentes para vehículos eléctricos
 
-**Principales productos de exportación actuales (2023):**
+**Principales bienes de exportación actuales (2023):**
 
 1. **Circuitos integrados** (36,7%)
 2. **Maquinaria y equipos** (9,8%)
-3. **Productos petroquímicos** (7,2%)
+3. **Productos petroquímicos y plásticos** (7,2%)
 4. **Instrumentos ópticos** (5,1%)
 5. **Metales básicos** (4,9%)
 
@@ -285,7 +226,7 @@ Debido a la política de una sola China, la participación de Taiwán en la inte
 
 **Distribución de mercados de exportación (2023):**
 
-1. **China** (35,0%)
+1. **China —incluido Hong Kong—** (31,7%)[^6]
 2. **Estados Unidos** (14,8%)
 3. **Unión Europea** (8,9%)
 4. **ASEAN** (8,2%)
@@ -293,70 +234,55 @@ Debido a la política de una sola China, la participación de Taiwán en la inte
 
 **Tendencia a la diversificación:**
 
-- La proporción de exportaciones a China disminuye año tras año (pico del 42% en 2021 → 35% en 2023)
-- Aumento de la proporción de exportaciones a Estados Unidos y la ASEAN
-- Rápido crecimiento en mercados emergentes (India, México)
+La proporción de exportaciones hacia China —incluido Hong Kong— cayó desde un máximo de 42% en 2021 a 31,7% en 2023, según estadísticas del Ministerio de Finanzas[^6]. En el mismo periodo, las exportaciones hacia Estados Unidos y la ASEAN compensaron parte de esa brecha, mientras que mercados emergentes como India y México también mostraron un crecimiento acelerado.
 
-## Desafíos y oportunidades futuros
+## Desafíos y oportunidades futuras
 
 ### Riesgos geopolíticos
 
-**Rivalidad tecnológica EE.UU.-China:**
+**Confrontación tecnológica entre Estados Unidos y China:** los controles sobre tecnología de semiconductores se intensifican año tras año, mientras la formación de bloques en las cadenas de suministro y la divergencia de estándares tecnológicos se aceleran. La posición de Taiwán enfrenta presiones para ser renegociada.
 
-- Intensificación del control sobre tecnología de semiconductores
-- Riesgo de polarización por bloques en las cadenas de suministro
-- Divergencia en estándares técnicos
-
-**Impacto de la situación en el estrecho de Taiwán:**
-
-- Aumento de la percepción de riesgo por parte de los inversores
-- Diversificación de la presencia de empresas internacionales
-- Incremento de los costes de seguros y transporte
+**Impacto de la situación en el Estrecho de Taiwán:** la evaluación de riesgo de los inversionistas aumenta, las empresas internacionales aceleran sus estrategias de diversificación, y los costos de seguros y transporte suben al mismo tiempo. Estos costos terminarán reflejándose en la competitividad exportadora de Taiwán.
 
 ### Oportunidades de transformación industrial
 
-**Tendencia hacia las cero emisiones netas:**
+Aunque la presión geopolítica genera incertidumbre, también abre para Taiwán tres corredores de transformación: tecnología energética, infraestructura digital y biotecnología médica. Taiwán ya posee bases manufactureras en estos tres campos; su capacidad para profundizar barreras tecnológicas determinará la competitividad exportadora de la próxima década.
 
-- Liderazgo en la cuota global de mercado de células solares
-- Establecimiento de la cadena de suministro de energía eólica marina
-- Ventaja tecnológica en componentes para vehículos eléctricos
+**Tendencia hacia emisiones netas cero:** Taiwán se ubica entre los primeros lugares mundiales en cuota de mercado de celdas solares; la cadena de suministro de energía eólica marina está tomando forma, y los componentes para vehículos eléctricos se han convertido en un nuevo punto de crecimiento exportador.
 
-**Demanda de transformación digital:**
+**Demanda de transformación digital:** la construcción de infraestructura 5G impulsa la demanda de internet de las cosas y computación de borde, mientras que la explosión de capacidad de cómputo para IA beneficia directamente las capacidades taiwanesas de diseño de chips de inteligencia artificial.
 
-- Construcción de infraestructura 5G
-- Internet de las cosas y computación en el borde (edge computing)
-- Diseño de chips de inteligencia artificial
-
-**Industria biomédica y de la salud:**
-
-- Capacidad de I+D de vacunas contra la COVID-19
-- Fabricación de equipos de medicina de precisión
-- Soluciones de salud digital
+**Industria biotecnológica y médica:** la COVID-19 puso de relieve las capacidades de Taiwán en investigación y desarrollo de vacunas y fabricación de equipos de medicina de precisión; las soluciones de salud digital son, a su vez, una nueva categoría exportadora en formación.
 
 ### Construcción de cadenas de suministro resilientes
 
-**Diversificación de la presencia:**
+La confrontación entre Estados Unidos y China y los riesgos en el Estrecho de Taiwán obligan a las empresas a reevaluar la concentración de sus cadenas de suministro. La estrategia de respuesta de Taiwán avanza por dos vías: hacia afuera, evitar la dependencia excesiva de un solo mercado y establecer fuentes de suministro diversificadas; hacia adentro, mantener en Taiwán las tecnologías y capacidades productivas clave, complementadas con inventarios de seguridad de materiales estratégicos, para preservar el control autónomo de la cadena industrial. Mejorar la visibilidad de las cadenas de suministro es una necesidad de infraestructura común a ambas vías.
 
-- Evitar la dependencia excesiva de un solo mercado
-- Establecer fuentes de suministro múltiples
-- Mejorar la visibilidad de la cadena de suministro
+## Conclusión
 
-**Producción localizada:**
+En sesenta años de historia comercial exterior, Taiwán pasó de la confección y los juguetes a la fundición de obleas y los servidores de IA. Cada transformación fue una elección activa frente a la presión. Ante el nuevo escenario de Guerra Fría generado por la confrontación entre Estados Unidos y China, Taiwán debe acelerar su despliegue en el próximo ciclo industrial mientras mantiene sus ventajas tecnológicas existentes.
 
-- Retención de tecnología clave y capacidad productiva
-- Reservas de seguridad de materiales estratégicos
-- Grado de control autónomo sobre la cadena industrial
+La reorganización de las cadenas de suministro no solo trae riesgos: las ventajas concentradas de Taiwán en fundición de obleas, fabricación por contrato de servidores y maquinaria de precisión hacen que las empresas no puedan rodear fácilmente a Taiwán. La estructura comercial ha pasado de exportaciones intensivas en mano de obra a nodos de cadenas de suministro intensivos en tecnología, y la diversificación de mercados es el pilar clave para resistir los riesgos geopolíticos.
 
-## Un nuevo capítulo para una nación comercial
+## Referencias
 
-Al repasar la historia del desarrollo del comercio exterior de Taiwán, desde la sustitución de exportaciones en la década de 1960 hasta su papel actual como nodo clave de la cadena de suministro global, Taiwán ha buscado siempre caminos de supervivencia y desarrollo en un entorno internacional cambiante. Frente al nuevo patrón de guerra fría marcado por la rivalidad entre Estados Unidos y China, Taiwán debe mantener sus ventajas existentes mientras se posiciona activamente en las industrias del futuro.
+[^1]: [Departamento de Estadísticas del Ministerio de Finanzas — Panorama del comercio de importación y exportación de nuestro país en 2023](https://service.mof.gov.tw/public/Data/statistic/bulletin/113/112%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Confirma exportaciones por 475.070 millones de dólares estadounidenses e importaciones por 394.470 millones en 2023.
 
-> «El mayor recurso de Taiwán son el talento y la tecnología.» En la era de la reconfiguración de las cadenas de suministro globales, Taiwán posee un valor estratégico insustentable gracias a la innovación tecnológica, la calidad de fabricación y la ventaja geográfica.
+[^2]: [TechNews科技新報 — Taiwán ocupó el puesto 16 mundial por valor de exportaciones en 2023](https://technews.tw/2024/04/12/taiwan-export-value-in-2023/) — Confirma que el valor de las exportaciones de 2023 ocupó el puesto 16 del mundo y fue el tercero más alto de la historia.
 
-Desde la montaña sagrada de los semiconductores que protege a la nación hasta las nuevas fuerzas de la tecnología verde, Taiwán está escribiendo un nuevo capítulo como nación fundada en el comercio. En una era de profunda incertidumbre, solo la innovación continua y la diversificación estratégica permitirán mantener la delantera en la feroz competencia global.
+[^3]: [TrendForce — Informe de cuota de mercado de fundición de obleas 2023-2024](https://www.trendforce.com/) — TSMC por sí sola tuvo una cuota de mercado de 55-67%, y Taiwán en conjunto superó el 70%.
+
+[^4]: [TrendForce — Ranking de fabricantes por contrato de computadoras portátiles 2024](https://www.trendforce.com/) — Las marcas taiwanesas y las fábricas en el exterior de empresas taiwanesas concentraron en conjunto alrededor del 85-90% de la manufactura por contrato mundial de portátiles; la proporción de producción directa en la isla de Taiwán ha disminuido considerablemente.
+
+[^5]: [Asociación de Industrias de Máquinas Herramienta y Componentes de Taiwán — Estadísticas de exportación de máquinas herramienta 2023](https://www.tmba.org.tw/) — En 2023, Taiwán cayó al séptimo lugar mundial en exportaciones de máquinas herramienta.
+
+[^6]: [Departamento de Estadísticas del Ministerio de Finanzas — Estadísticas de principales destinos de exportación 2023](https://service.mof.gov.tw/) — En 2023, la proporción de exportaciones taiwanesas hacia China continental —incluido Hong Kong— fue de 31,7%.
+
+[^7]: [Consejo de Asuntos de China Continental — Estadísticas sobre relaciones económicas y comerciales a ambos lados del Estrecho](https://www.mac.gov.tw/Content_List.aspx?n=BF634E946ACD5EAA) — Debido a diferencias de criterios estadísticos —comercio directo frente a comercio con comercio indirecto incluido—, las cifras citadas por distintas fuentes varían; se recomienda tomar como referencia las estadísticas directas de la Administración de Aduanas del Ministerio de Finanzas.
 
 ## Lecturas complementarias
 
-- [Pymes taiwanesas y campeones ocultos](/economy/台灣中小企業與隱形冠軍)
-- [La agricultura taiwanesa y la revitalización rural](/economy/台灣農業與農村再生)
+- [Pequeñas y medianas empresas de Taiwán y campeones ocultos](/economy/台灣中小企業與隱形冠軍)
+- [Agricultura taiwanesa y regeneración rural](/economy/台灣農業與農村再生)
 - [Ecosistema de startups](/economy/新創生態系)
+- [Empresas taiwanesas: Hon Hai Precision](/economy/台灣企業：鴻海精密) — Su despliegue global en 24 países y con 900.000 personas es el mayor campo de experimentación de la gobernanza transfronteriza de la manufactura taiwanesa

@@ -1,389 +1,381 @@
 ---
-title: 'La modernisation de l'agriculture taïwanaise'
-description: 'Comment Taïwan a transformé son agriculture traditionnelle en une agriculture de précision à haute valeur ajoutée — entre agriculture biologique, revitalisation rurale et agrotourisme'
+title: "Modernisation de l'agriculture taïwanaise"
+description: "Examine le processus par lequel Taïwan est passée d'une agriculture traditionnelle à une agriculture moderne de précision, y compris les modèles innovants de développement tels que l'agriculture biologique, la revitalisation rurale et l'agritourisme"
 date: 2026-03-18
-tags: ['agriculture', 'agriculture de précision', 'agriculture biologique', 'revitalisation rurale', 'agrotourisme', 'modernisation']
-subcategory: 'Économie agricole'
+author: 'Taiwan.md'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+subcategory: '農業經濟'
+tags:
+  [
+    'agriculture',
+    'agriculture de précision',
+    'agriculture biologique',
+    'revitalisation rurale',
+    'agritourisme',
+    'modernisation',
+  ]
 readingTime: 17
-featured: true
 lastVerified: 2026-03-19
-translatedFrom: "Economy/台灣農業現代化發展.md"
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:e6e4ed55452711e1'
-sourceBodyHash: 'sha256:979b05cfe13254ea'
-translatedAt: "2026-04-14T19:21:51+08:00"
+lastHumanReview: false
+featured: true
+translatedFrom: 'Economy/台灣農業現代化發展.md'
+sourceCommitSha: '24efd20f3'
+sourceContentHash: 'sha256:ade41d6905a5412b'
+sourceBodyHash: 'sha256:45d5485b56395378'
+translatedAt: '2026-05-15T13:52:06+08:00'
 ---
 
-# La modernisation de l'agriculture taïwanaise
+# Modernisation de l'agriculture taïwanaise
 
-## En 30 secondes
+## Aperçu en 30 secondes
 
-En quelques décennies, Taïwan a métamorphosé une agriculture de subsistance, intensive en main-d'œuvre, en une agriculture de précision à forte valeur ajoutée, pilotée par la technologie. Cette transformation a touché chaque maillon de la chaîne : scientifisation des techniques de production, managérialisation des exploitations, montée en gamme des produits. De l'essor de l'agriculture biologique aux programmes de revitalisation rurale, en passant par l'explosion de l'agrotourisme, Taïwan a forgé un « modèle taïwanais » singulier — qui non seulement préserve la compétitivité agricole, mais crée une valeur triple : économique, écologique et culturelle.
+En quelques décennies seulement, l’agriculture taïwanaise est passée d’une agriculture traditionnelle à forte intensité de main-d’œuvre à une agriculture moderne de précision, intensive en technologies et à forte valeur ajoutée. Cette transformation comprend la scientificisation des techniques de production, la professionnalisation entrepreneuriale des modes de gestion et la montée en gamme des produits. De la promotion de l’agriculture biologique à la mise en œuvre des programmes de revitalisation rurale, jusqu’à l’essor de l’agritourisme, l’agriculture taïwanaise a développé un « modèle taïwanais » distinctif : il maintient la compétitivité agricole tout en créant un modèle de développement durable fondé sur une triple valeur agricole, écologique et culturelle.
 
-**Mots-clés :** agriculture de précision, agriculture biologique, revitalisation rurale, agrotourisme, agriculture intelligente, développement durable
+**Mots-clés :** agriculture de précision, agriculture biologique, revitalisation rurale, agritourisme, agriculture intelligente, développement durable
 
-## Pourquoi c'est important
+## Pourquoi c’est important
 
-### Le miracle de la petite agriculture
+### Le miracle de la sophistication d’une économie de petits exploitants
 
-La surface moyenne d'une exploitation taïwanaise ne dépasse pas un hectare — l'une des plus faibles au monde. Pourtant, Taïwan parvient à générer une productivité et une qualité remarquables sur des terres aussi limitées. Ce modèle « petit mais précis » constitue une référence précieuse pour tous les pays confrontés à des contraintes similaires.
+La superficie moyenne cultivée par ménage agricole à Taïwan est inférieure à 1 hectare, ce qui relève, à l’échelle mondiale, d’une économie de petits exploitants. Pourtant, l’agriculture taïwanaise parvient à créer une valeur de production élevée et une haute qualité sur des terres limitées. Ce modèle de développement « petit mais raffiné » offre une valeur de référence directe pour les pays et régions du monde confrontés à des conditions similaires.
 
-### Un modèle d'agriculture multifonctionnelle
+### Un modèle de multifonctionnalité agricole
 
-L'agriculture taïwanaise contemporaine ne se limite plus à produire de la nourriture. Elle assure désormais des fonctions de conservation écologique, d'entretien des paysages, de transmission culturelle et de tourisme de loisirs. Cette multifonctionnalité a insufflé une nouvelle vitalité aux campagnes, tout en offrant aux citadins un espace pour se reconnecter à la nature et à la culture rurale.
+L’agriculture taïwanaise moderne a dépassé la seule fonction de production alimentaire pour développer de multiples fonctions : conservation écologique, entretien des paysages, transmission culturelle, tourisme et loisirs. Cette agriculture multifonctionnelle favorise le retour de populations vers les campagnes, réactive l’usage des terres et offre aussi aux citadins des lieux où se rapprocher de la nature et faire l’expérience de la culture rurale.
 
-### Un engagement concret pour la durabilité
+### Une pratique pionnière du développement durable
 
-Face au changement climatique et aux défis environnementaux, Taïwan s'oriente résolument vers un modèle durable : agriculture biologique, pratiques écologiques, politiques publiques volontaristes et demande de marché en progression. L'expérience taïwanaise en matière d'agriculture durable est une source d'inspiration pour le reste du monde.
+Face au changement climatique et aux défis environnementaux, l’agriculture taïwanaise s’est orientée vers des modèles de développement durable biologiques et écologiques. De l’appui public à l’acceptation par le marché, l’expérience de Taïwan dans la promotion d’une agriculture durable fournit des enseignements concrets pour le développement agricole mondial.
 
-## Les fondations historiques et les défis de l'agriculture traditionnelle
+## Fondements et défis de l’agriculture traditionnelle
 
-### L'héritage de la période japonaise
+### Les bases agricoles de la période de domination japonaise
 
-Les bases de l'agriculture moderne taïwanaise remontent à la période coloniale japonaise. Pour faire de Taïwan le grenier du Japon, les autorités coloniales ont massivement investi dans les infrastructures agricoles.
+Les fondements du développement de l’agriculture moderne taïwanaise remontent à la période de domination japonaise. Afin de faire de Taïwan un grenier à céréales pour le Japon, le gouvernement colonial japonais a investi d’importantes ressources dans l’amélioration des infrastructures agricoles.
 
-**Infrastructures hydrauliques :** La construction de grands ouvrages d'irrigation — le canal de Jianan, le canal de Taoyuan — a posé les fondements du développement agricole. Ces systèmes continuent d'irriguer Taïwan aujourd'hui.
+**Construction d’infrastructures hydrauliques** : de grands ouvrages hydrauliques tels que le canal de Chianan et le grand canal de Taoyuan ont résolu les problèmes de sécheresse dans le sud de Taïwan, permettant à la production alimentaire de s’affranchir de la dépendance aux aléas du ciel. Ces systèmes d’irrigation constituent encore aujourd’hui l’épine dorsale des infrastructures agricoles de Taïwan[^1].
 
-**Amélioration variétale et transfert de technologie :** L'introduction du riz ponlai, l'amélioration des variétés de canne à sucre et la mise en place d'institutions de recherche agronomique ont tracé la voie de la modernisation scientifique.
+**Amélioration variétale et introduction de technologies** : dans les années 1920, durant la période japonaise, le riz Ponlai a été introduit, des variétés de canne à sucre ont été améliorées et des institutions d’expérimentation agricole ont été créées, jetant les bases du développement ultérieur des sciences et technologies agricoles.
 
-**Le réseau des associations agricoles :** Le système des associations agricoles, qui fournit aux agriculteurs conseils techniques, financements et débouchés commerciaux, a été établi à cette époque — et perdure aujourd'hui encore.
+**Mise en place des associations agricoles** : le système des associations agricoles a fourni aux agriculteurs des services de conseil technique, de soutien financier et de commercialisation des produits. Ce système est encore en usage aujourd’hui.
 
-### La réforme agraire des années 1950
+### La réforme foncière du début de l’après-guerre
 
-La réforme agraire des années 1950 a créé les conditions favorables à la modernisation agricole.
+La réforme foncière de 1949-1953 a créé des conditions favorables à la modernisation de l’agriculture taïwanaise.
 
-**La terre à ceux qui la travaillent :** La redistribution des terres a donné aux agriculteurs la propriété de leurs parcelles, décuplant leur motivation productive.
+**La terre à ceux qui la cultivent** : la réforme foncière a permis aux agriculteurs d’obtenir la propriété de la terre, ce qui a directement accru leur volonté de produire.
 
-**Hausse des revenus agricoles :** Les exploitants propriétaires ont vu leurs revenus augmenter sensiblement, dégageant des marges pour l'investissement et l'amélioration des pratiques.
+**Hausse des revenus agricoles** : les revenus des agriculteurs propriétaires de leurs terres ont nettement augmenté, fournissant du capital pour les investissements agricoles et l’amélioration variétale.
 
-**Émergence d'un marché rural :** La hausse des revenus a stimulé la consommation rurale, créant par ricochet des débouchés pour les produits industriels.
+**Formation d’un marché de consommation rural** : la hausse des revenus agricoles a stimulé la consommation rurale et fourni un débouché aux produits industriels.
 
-### Le choc de l'industrialisation
+### L’impact de l’industrialisation sur l’agriculture
 
-Dans les années 1960-1970, l'industrialisation a soumis l'agriculture à une pression inédite.
+Dans les années 1960 et 1970, Taïwan a engagé son processus d’industrialisation, et l’agriculture a fait face à des défis sans précédent.
 
-**Exode rural :** Les usines ont attiré massivement la jeunesse rurale, provoquant une pénurie de main-d'œuvre agricole et le vieillissement des campagnes.
+**Exode de la main-d’œuvre rurale** : le développement industriel a attiré un grand nombre de jeunes ruraux vers les usines, provoquant une pénurie de main-d’œuvre et un vieillissement de la population dans les campagnes.
 
-**Conversion des terres agricoles :** L'expansion des zones industrielles a englouti de grandes surfaces de terres fertiles.
+**Conversion non agricole des terres agricoles** : l’expansion des zones industrielles a occupé de vastes superficies de terres agricoles de qualité, réduisant année après année la surface agricole utile.
 
-**Érosion de la compétitivité relative :** La montée en puissance de l'industrie et des services a réduit le poids de l'agriculture dans l'économie nationale, poussant de nombreux agriculteurs à se reconvertir.
+**Évolution des avantages comparatifs** : le développement rapide de l’industrie et des services a fait chuter rapidement la part de l’agriculture dans l’économie nationale, plaçant les agriculteurs sous pression pour changer d’activité.
 
-## Le développement de l'agriculture de précision
+## Trajectoire de développement de l’agriculture de précision
 
-### Un virage stratégique
+### Réorientation des politiques et planification stratégique
 
-À partir des années 1980, le gouvernement taïwanais a promu la stratégie dite d'« agriculture de précision » — extraire le maximum de valeur économique d'une base de ressources limitée.
+À partir des années 1980, le gouvernement taïwanais a commencé à promouvoir une stratégie de développement de l’« agriculture de précision », cherchant à créer la plus grande valeur économique possible avec des ressources agricoles limitées.
 
-**Définition :** L'agriculture de précision désigne une production agricole à haute densité et haute valeur, mobilisant des technologies avancées et accentuant l'intensité en main-d'œuvre qualifiée, en technologie et en capital.
+**Définition de l’agriculture de précision** : l’agriculture de précision désigne l’usage de technologies agricoles avancées pour mener une production agricole à haute densité et à forte valeur de production, en mettant l’accent sur des caractéristiques « intensives en main-d’œuvre, en technologie et en capital ».
 
-**Objectifs :**
+**Objectifs politiques** : la politique d’agriculture de précision s’articule autour de trois axes majeurs : finesse de la gestion, scientificisation des technologies et montée en gamme de la qualité. Elle est accompagnée d’objectifs visant à attirer les jeunes vers l’agriculture et à revitaliser le développement rural. Le gouvernement a soutenu cette transition par la recherche-développement technologique, la formation de talents, les subventions financières et l’ouverture de marchés.
 
-- Affiner les méthodes d'exploitation
-- Scientifiser les techniques de production
-- Élever la qualité des produits vers le haut de gamme
-- Attirer les jeunes vers l'agriculture
-- Revitaliser le développement rural
+### L’essor de l’agriculture technologique
 
-**Leviers d'action :** Le gouvernement a soutenu cette transition par la R&D, la formation, les subventions et le développement de nouveaux marchés.
+**Recherche-développement en technologies agricoles** : le gouvernement a investi dans la recherche-développement agricole et mis en place un système de recherche et d’expérimentation. De la sélection variétale à la culture, de la lutte contre les maladies et ravageurs au traitement post-récolte, chaque maillon bénéficie d’un soutien technologique.
 
-### L'essor de l'agriculture technologique
+**Développement de l’agriculture sous installations** : les serres, filets de protection, systèmes de contrôle environnemental et autres dispositifs se sont rapidement développés, rendant la production agricole moins dépendante des conditions météorologiques et améliorant la stabilité des rendements et de la qualité.
 
-**R&D agricole :** Taïwan a construit un système complet de recherche et d'expérimentation agricole — de la sélection variétale à la gestion post-récolte, chaque étape bénéficie d'un soutien scientifique.
+**Applications biotechnologiques** : l’application de technologies telles que la culture de tissus, la transgenèse et la sélection assistée par marqueurs moléculaires a fortement amélioré l’efficacité et la précision de l’amélioration variétale.
 
-**Agriculture sous abri :** Les serres, filets de protection et systèmes de contrôle environnemental se sont multipliés, permettant une production affranchie des aléas climatiques et garantissant stabilité des rendements et de la qualité.
+**Débuts de l’agriculture intelligente** : de nouvelles technologies comme l’Internet des objets, les mégadonnées et l’intelligence artificielle ont commencé à être appliquées à la production agricole, permettant une gestion précise et des opérations automatisées.
 
-**Biotechnologies :** La culture in vitro, la transgénèse et la sélection assistée par marqueurs moléculaires ont accéléré et précisé l'amélioration variétale.
+### Mise en place d’une agriculture de marque
 
-**Agriculture intelligente :** L'Internet des objets, le big data et l'intelligence artificielle font progressivement leur entrée dans la production agricole, ouvrant la voie à la gestion de précision et à l'automatisation.
+**Différenciation des produits** : l’agriculture taïwanaise est passée de la production de masse à la production de produits haut de gamme, en recourant à l’amélioration variétale et à une gestion raffinée pour produire des produits agricoles de haute qualité.
 
-### La construction d'une agriculture de marque
+**Gestion de marque** : la création de labels tels que « Taiwan Good Agriculture » et « traçabilité de la production et de la commercialisation » a renforcé l’identification sur le marché et la valeur ajoutée des produits agricoles taïwanais[^7].
 
-**Différenciation produit :** Taïwan est passée d'une logique de volume à une logique de premium — amélioration variétale et gestion soignée au service de produits d'exception.
+**Marketing international** : les fruits, fleurs, thés et autres produits agricoles de qualité de Taïwan ont acquis une bonne réputation sur les marchés internationaux, et la part des exportations de marque augmente régulièrement.
 
-**Labels de confiance :** Des labels comme « Taiwan Good Agriculture » ou le système de traçabilité des produits agricoles ont renforcé la reconnaissance et la valeur ajoutée des productions taïwanaises.
+## Promotion et développement de l’agriculture biologique
 
-**Rayonnement international :** Fruits, fleurs, thés — les produits taïwanais jouissent d'une excellente réputation sur les marchés internationaux.
+### Évolution des politiques d’agriculture biologique
 
-## L'agriculture biologique : développement et diffusion
+Le développement de l’agriculture biologique à Taïwan est passé d’une dynamique spontanée issue de la société civile à un pilotage par l’État.
 
-### Évolution des politiques publiques
+**Développement initial, années 1980-1990** : avec la montée des préoccupations environnementales et sanitaires dans la société, certains agriculteurs ont adopté spontanément des méthodes de culture biologique.
 
-L'agriculture biologique taïwanaise a suivi un parcours allant de l'initiative privée à l'impulsion publique.
+**Mise en place institutionnelle, années 2000-2010** : le gouvernement a commencé à établir un système de certification de l’agriculture biologique et a adopté la Loi sur la production et la certification des produits agricoles, offrant une protection juridique au développement de l’agriculture biologique.
 
-**Pionniers (1980-1990) :** La montée des préoccupations environnementales et sanitaires a poussé certains agriculteurs à adopter spontanément l'agriculture biologique.
+**Promotion institutionnelle, depuis 2018** : l’adoption en 2018 de la Loi de promotion de l’agriculture biologique a marqué l’entrée de l’agriculture biologique taïwanaise dans une phase de promotion légalisée, le gouvernement fixant un objectif de doublement des surfaces cultivées en agriculture biologique.
 
-**Mise en place du cadre légal (2000) :** Le gouvernement a institué un système de certification, en adoptant la Loi sur la gestion et la certification des produits agricoles, offrant une base légale solide au secteur.
+### Situation actuelle et réalisations de l’agriculture biologique
 
-**Déploiement à grande échelle (2010 à aujourd'hui) :** L'adoption de la Loi sur la promotion de l'agriculture biologique a marqué le passage à une dynamique nationale, avec l'objectif de doubler les surfaces certifiées biologiques.
+**Croissance des surfaces cultivées** : les surfaces cultivées en agriculture biologique à Taïwan sont passées de 800 hectares en 2000 à près de 20 000 hectares en 2025, soit une multiplication par plus de 25[^1].
 
-### État des lieux et résultats
+**Diversification des produits** : d’abord centrée sur les légumes, l’agriculture biologique s’est étendue au riz, aux fruits, au thé, aux produits d’élevage et à diverses autres catégories de produits agricoles.
 
-**Croissance des surfaces :** Les surfaces cultivées en mode biologique sont passées de 800 hectares en 2000 à près de 20 000 hectares en 2025, soit une multiplication par 25.
+**Hausse de l’acceptation par le marché** : l’acceptation des produits biologiques par le marché s’est nettement accrue, la demande des consommateurs pour la sécurité alimentaire et le respect de l’environnement stimulant l’expansion du marché biologique.
 
-**Diversification des productions :** Des légumes initialement dominants, l'offre s'est élargie au riz, aux fruits, au thé et aux produits d'élevage.
+**Alignement sur les certifications internationales** : les produits agricoles biologiques taïwanais obtiennent des certifications internationales et peuvent être exportés vers le Japon, les États-Unis, l’Union européenne et d’autres marchés.
 
-**Acceptation croissante du marché :** La demande en produits biologiques ne cesse de progresser, portée par les préoccupations pour la sécurité alimentaire et le respect de l'environnement.
+### Cultures respectueuses de l’environnement
 
-**Certifications internationales :** Les produits biologiques taïwanais sont certifiés pour l'export vers le Japon, les États-Unis et l'Union européenne.
+Outre l’agriculture biologique, Taïwan promeut aussi des cultures respectueuses de l’environnement, afin de soutenir les agriculteurs qui n’ont pas encore obtenu de certification biologique mais produisent selon des méthodes favorables à l’environnement.
 
-### Pratiques agricoles respectueuses de l'environnement
+**Inclusivité des politiques** : la politique de culture respectueuse de l’environnement reconnaît que la transformation agricole exige du temps et offre aux agriculteurs des choix flexibles.
 
-Au-delà du biologique certifié, Taïwan encourage les pratiques agricoles respectueuses de l'environnement — un soutien aux agriculteurs engagés dans une transition écologique, même en l'absence de certification.
+**Système de paiements écologiques** : le gouvernement accorde des paiements écologiques aux agriculteurs adoptant des pratiques respectueuses de l’environnement, afin d’encourager la réduction de l’usage des pesticides et des engrais chimiques.
 
-**Une politique inclusive :** Cette démarche reconnaît que la transition agricole prend du temps, laissant aux agriculteurs une marge de manœuvre.
+**Protection de la biodiversité** : les cultures respectueuses de l’environnement contribuent à protéger les écosystèmes agricoles et à préserver la biodiversité.
 
-**Paiements pour services environnementaux :** Des indemnités sont versées aux agriculteurs qui réduisent leur usage de pesticides et d'engrais chimiques.
+## Programme de revitalisation rurale
 
-**Protection de la biodiversité :** Ces pratiques contribuent à la santé des écosystèmes agricoles et au maintien de la biodiversité.
+### Contexte et objectifs du programme
 
-## Le programme de revitalisation rurale
+Le programme de revitalisation rurale, mis en œuvre à partir de 2010, est une politique majeure du gouvernement taïwanais pour promouvoir le développement des campagnes.
 
-### Contexte et ambitions
+**Contexte politique** : face à l’exode rural, au vieillissement des infrastructures et au déclin des industries rurales, le gouvernement a proposé un programme de revitalisation rurale, espérant favoriser la redynamisation des campagnes par une approche « ascendante ».
 
-Lancé en 2010, le programme de revitalisation rurale est l'une des politiques phares du gouvernement taïwanais pour le développement des campagnes.
+**Objectifs centraux** :
 
-**Contexte :** Face à l'exode rural, au vieillissement des infrastructures et au déclin économique, le gouvernement a misé sur une approche ascendante pour revitaliser les villages.
+- Améliorer les infrastructures et équipements publics ruraux
+- Promouvoir le développement des industries rurales
+- Transmettre la culture rurale
+- Améliorer la qualité de vie dans les campagnes
+- Attirer les jeunes vers leur région d’origine
 
-**Objectifs centraux :**
+**Investissement budgétaire** : le gouvernement a investi 150 milliards de nouveaux dollars taïwanais, exécutés en quatre phases, démontrant l’importance accordée au développement rural[^5].
 
-- Moderniser les infrastructures et équipements collectifs
-- Stimuler l'économie locale
-- Préserver le patrimoine culturel rural
-- Améliorer la qualité de vie à la campagne
-- Attirer les jeunes à revenir en milieu rural
+### Stratégies et méthodes de mise en œuvre
 
-**Investissement :** Le gouvernement a alloué 150 milliards de nouveaux dollars taïwanais, répartis sur quatre phases — un signal fort de l'engagement public.
+**Pilotage par les communautés** : l’accent est mis sur le rôle actif des résidents locaux ; les communautés proposent leurs plans de développement et le gouvernement fournit un appui en ressources.
 
-### Méthodes et approche
+**Planification intégrée** : au-delà des infrastructures matérielles, le programme couvre aussi les dimensions immatérielles telles que la préservation culturelle, le développement industriel et la formation des ressources humaines.
 
-**Pilotage communautaire :** Les habitants sont au centre du dispositif — ils élaborent leurs propres projets de développement, le gouvernement apportant les ressources nécessaires.
+**Adaptation aux conditions locales** : différents modèles de revitalisation rurale sont développés selon les caractéristiques et conditions de chaque région.
 
-**Approche intégrée :** Le programme dépasse la seule infrastructure matérielle pour inclure la préservation culturelle, le développement économique et la formation humaine.
+**Développement durable** : le programme met l’accent sur la protection de l’environnement et la préservation écologique, tout en promouvant les énergies vertes et l’économie circulaire.
 
-**Sur mesure :** Chaque région développe son modèle de revitalisation selon ses spécificités et atouts propres.
+### Cas de réussite et modèles
 
-**Durabilité :** La protection de l'environnement et la gestion écologique sont au cœur du dispositif, avec une orientation vers les énergies renouvelables et l'économie circulaire.
+**Communauté Xiecheng de Xinshe** : centrée sur l’industrie du champignon shiitaké et associée au tourisme des champs fleuris, elle a réussi sa transformation en zone d’agritourisme.
 
-### Cas exemplaires
+**Shuili, Nantou** : grâce à la renaissance de l’industrie de la prune et à la préservation culturelle, cette région a retrouvé une dynamique de développement rural.
 
-**Communauté de Xinxie, Xinshe :** En articulant production de champignons et tourisme floral, ce village s'est transformé en zone d'agrotourisme florissante.
+**Village de Shengou, Yilan** : en combinant agriculture biologique et expériences agricoles, il a développé un modèle de ferme pédagogique.
 
-**Shuili, Nantou :** La renaissance de la filière prune, couplée à la valorisation du patrimoine culturel, a redonné un souffle à ce village.
+**Fengbin, Hualien** : des communautés autochtones y associent les ressources côtières au développement de l’écotourisme et d’expériences culturelles autochtones.
 
-**Village de Shengou, Yilan :** En combinant agriculture biologique et expériences agricoles éducatives, ce village a développé un modèle de ferme pédagogique original.
+## Développement rapide de l’agritourisme
 
-**Fengbin, Hualien :** Une communauté de peuples autochtones qui a su associer ressources côtières, écotourisme et expériences culturelles autochtones.
+### Contexte de l’essor de l’agritourisme
 
-## L'agrotourisme en plein essor
+L’augmentation du revenu national a entraîné une transformation des attentes en matière de qualité de vie. La demande des citadins pour se rapprocher de la nature et faire l’expérience de la vie rurale s’est nettement élargie, ouvrant un espace de marché pour l’agritourisme.
 
-### Les ressorts de l'essor
+**Réflexion sur l’urbanisation** : le stress et le sentiment d’aliénation de la vie urbaine nourrissent le désir de retourner vers la nature et de rechercher une expérience rurale simple.
 
-La hausse du niveau de vie et l'évolution des attentes en matière de qualité de vie ont aiguisé chez les citadins le désir de nature et d'expériences rurales authentiques.
+**Transformation des besoins éducatifs** : les parents souhaitent que leurs enfants puissent être en contact avec la nature et comprendre l’agriculture ; l’agritourisme fournit une excellente plateforme éducative.
 
-**Le contrecoup de l'urbanisation :** Le stress et la déconnexion de la vie urbaine alimentent une aspiration profonde à retrouver la nature et la simplicité des campagnes.
+**Essor de l’économie du week-end** : la mise en place de la semaine de cinq jours a créé des conditions temporelles favorables aux courts voyages et aux activités de loisirs.
 
-**Nouvelles attentes éducatives :** Les parents souhaitent que leurs enfants connaissent la nature et comprennent d'où vient leur nourriture — l'agrotourisme offre un cadre idéal.
+### Modèles de développement de l’agritourisme
 
-**L'économie du week-end :** La semaine de cinq jours a ouvert un espace-temps favorable aux escapades de courte durée.
+**Fermes touristiques** : elles proposent des expériences de cueillette de produits agricoles, comme les fraisières, orangeraies ou jardins de lotus, permettant aux visiteurs de récolter eux-mêmes des produits.
 
-### Les différents modèles
+**Expériences agricoles** : diverses activités agricoles sont conçues, telles que le repiquage du riz, la récolte, la fabrication du thé ou la préparation de légumes marinés, afin de permettre aux citadins de faire l’expérience de la vie paysanne.
 
-**Jardins de cueillette :** Fraises, mandarines, lotus — les visiteurs peuvent cueillir eux-mêmes les produits de saison.
+**Éducation agricole** : en associant éducation environnementale et éducation alimentaire et agricole, ces activités permettent aux élèves et au public de comprendre les processus de production agricole et l’origine des aliments.
 
-**Expériences agricoles :** Repiquage du riz, récolte, préparation du thé, conservation des légumes — les citadins découvrent concrètement le quotidien des agriculteurs.
+**Chambres d’hôtes rurales** : elles proposent des services d’hébergement afin que les visiteurs puissent vivre plus profondément la vie rurale et profiter du calme et des paysages des campagnes.
 
-**Agriculture éducative :** Programmes d'éducation à l'environnement et à l'alimentation, sensibilisant élèves et grand public au cycle de production alimentaire.
+**Expériences de transformation des produits agricoles** : elles développent des activités de bricolage alimentaire ou artisanal à partir de produits agricoles, comme la fabrication de confiture, la pâtisserie ou la fabrication de savon.
 
-**Hébergements ruraux :** Des chambres d'hôtes pour s'immerger pleinement dans la vie à la campagne, profiter de la sérénité des paysages et du rythme des saisons.
+### Modèles de réussite et caractéristiques
 
-**Ateliers de transformation :** Confitures, pâtisseries, savons artisanaux — des activités DIY permettent aux visiteurs de repartir avec leurs créations.
+**Ferme Qingjing** : en combinant élevage, horticulture et tourisme, elle est devenue l’une des fermes de loisirs les plus connues de Taïwan[^6].
 
-### Des lieux emblématiques
+**Ferme Flying Cow** : fondée sur l’élevage laitier, elle a développé une chaîne d’expériences d’agritourisme couvrant la découverte de la ferme, les ateliers de produits laitiers et l’éducation écologique.
 
-**Ferme de Cingjing :** Alliant élevage, horticulture et tourisme, ce site est l'une des fermes de loisirs les plus célèbres de Taïwan.
+**Rivière Dongshan, Yilan** : en associant la culture du riz et l’atmosphère des villages d’eau, elle a développé un modèle distinctif de tourisme rural.
 
-**Parc de Flying Cow Ranch :** Fondé sur l'élevage laitier, il a développé une chaîne d'expériences agrotouristiques complète.
+**Chishang, Taitung** : fondée sur un riz de grande qualité, associée aux paysages de rizières et à une culture de la vie lente, cette région attire de très nombreux visiteurs.
 
-**Rivière Dongshan, Yilan :** Culture du riz et atmosphère de campagne aquatique, pour un tourisme rural à l'identité forte.
+## Développement de l’agriculture intelligente
 
-**Chishang, Taitung :** Riz d'exception, paysages bucoliques et art de vivre slow — une destination qui attire les foules.
+### Agriculture technologique 4.0
 
-## L'agriculture intelligente
+Taïwan promeut le développement de l’agriculture intelligente en utilisant l’Internet des objets, les mégadonnées, l’intelligence artificielle et d’autres technologies afin d’améliorer l’efficacité et la qualité de la production agricole.
 
-### L'agriculture 4.0
+**Technologies de capteurs** : l’application de divers capteurs liés au sol, à la météo et à la croissance des cultures permet une surveillance précise de l’environnement de production agricole.
 
-Taïwan pousse activement vers une agriculture intelligente, mobilisant IoT, big data et IA pour améliorer l'efficacité et la qualité de production.
+**Équipements automatisés** : l’usage de dispositifs d’irrigation automatique, de fertilisation automatique et de récolte automatique réduit les besoins en main-d’œuvre et améliore l’efficacité de production.
 
-**Capteurs :** Sols, météorologie, croissance des cultures — les données sont collectées en temps réel pour un monitoring précis des conditions de production.
+**Analyse de mégadonnées** : la collecte et l’analyse des données de production agricole fournissent aux agriculteurs un soutien scientifique à la décision.
 
-**Automatisation :** Irrigation, fertilisation, récolte automatiques — moins de main-d'œuvre, plus d'efficacité.
+**Applications de l’IA** : l’intelligence artificielle est utilisée pour identifier les maladies et ravageurs, prévoir les rendements et classer la qualité des produits.
 
-**Analyse de données :** Les données agricoles collectées alimentent des outils d'aide à la décision scientifiques au service des agriculteurs.
+### Pratique de l’agriculture de précision
 
-**Applications IA :** Reconnaissance des maladies et ravageurs, prévision des rendements, classification qualitative automatisée.
+**Fertilisation précise** : à partir des résultats d’analyses des sols, les formules d’engrais sont ajustées avec précision afin de réduire les gaspillages et la charge environnementale.
 
-### La précision en pratique
+**Usage précis des traitements** : grâce aux systèmes de surveillance des maladies et ravageurs, les traitements phytosanitaires sont appliqués avec précision, réduisant la quantité de pesticides utilisée.
 
-**Fertilisation de précision :** Les formules d'engrais sont ajustées en fonction des analyses de sol, réduisant le gaspillage et l'impact environnemental.
+**Irrigation précise** : l’irrigation est contrôlée précisément selon les besoins hydriques des cultures et la teneur en eau du sol, économisant les ressources en eau.
 
-**Phytosanitaire de précision :** Les systèmes de surveillance permettent des traitements ciblés, réduisant significativement les volumes de pesticides.
+**Récolte précise** : les technologies de détection de la maturité permettent de récolter au moment optimal et d’assurer la qualité des produits.
 
-**Irrigation de précision :** L'eau est distribuée selon les besoins réels des cultures et la teneur en eau du sol — une ressource précieuse préservée.
+### Résultats de l’agriculture intelligente
 
-**Récolte de précision :** Des capteurs de maturité permettent de récolter au moment optimal, garantissant la qualité des produits.
+**Hausse des rendements** : l’application des technologies d’agriculture intelligente peut accroître les rendements des cultures, selon les rapports du programme d’agriculture intelligente du ministère de l’Agriculture[^10].
 
-### Résultats concrets
+**Amélioration de la qualité** : la gestion précise rend la qualité des produits agricoles plus stable et réduit les écarts entre lots.
 
-**Rendements en hausse :** L'agriculture intelligente permet en moyenne une augmentation des rendements de 15 à 30 %.
+**Réduction des coûts** : l’automatisation et la gestion précise diminuent les coûts de main-d’œuvre et d’intrants.
 
-**Qualité améliorée :** Une gestion plus précise stabilise la qualité des produits et les aligne mieux sur les attentes du marché.
+**Respect de l’environnement** : la réduction de l’usage des pesticides et engrais chimiques limite les effets négatifs sur l’environnement.
 
-**Coûts réduits :** L'automatisation et la précision font baisser les coûts de main-d'œuvre et d'intrants.
+## Intégration de la chaîne industrielle agricole
 
-**Impact environnemental moindre :** La réduction de l'usage de pesticides et d'engrais chimiques soulage l'environnement.
+### Développement de l’industrie de sixième ordre
 
-## L'intégration de la chaîne de valeur agricole
+L’agriculture taïwanaise promeut le développement de l’industrie de sixième ordre, en intégrant la production primaire, la transformation secondaire et les services tertiaires afin de créer une valeur ajoutée plus élevée.
 
-### L'industrie à six niveaux
+**Transformation des produits agricoles** : le développement de technologies de transformation raffinées permet de produire des aliments agricoles transformés à forte valeur ajoutée, de prolonger la durée de conservation des produits agricoles et d’accroître leur diversité.
 
-Taïwan développe activement une industrie agricole à six niveaux, articulant production primaire, transformation secondaire et services tertiaires pour maximiser la valeur ajoutée.
+**Services agricoles** : ils comprennent les services techniques agricoles, les services de machines agricoles, la finance agricole et l’assurance agricole, fournissant un soutien global à la production agricole.
 
-**Transformation agricole :** Développement de techniques de transformation raffinées pour produire des dérivés à haute valeur ajoutée, allonger la durée de conservation et diversifier l'offre produits.
+**Tourisme agricole** : en combinant production agricole et tourisme, il développe les expériences agricoles, les chambres d’hôtes rurales et les produits agricoles destinés aux cadeaux et souvenirs.
 
-**Services agricoles :** Conseil technique, services de mécanisation, financement et assurance agricoles — un soutien à 360 degrés pour la production.
+### Système de traçabilité de la production et de la commercialisation
 
-**Tourisme agricole :** Expériences agricoles, hébergements ruraux, produits régionaux à emporter — la production se double d'une offre touristique.
+**Traçabilité de la sécurité alimentaire** : un système complet d’enregistrement, de la production à la vente, est établi afin de garantir la traçabilité de la sécurité alimentaire.
 
-### Le système de traçabilité
+**Assurance qualité** : la production standardisée et les systèmes de certification améliorent la qualité des produits agricoles et la confiance des consommateurs.
 
-**Traçabilité alimentaire :** Un système complet d'enregistrement de la production à la vente, garantissant la traçabilité de la sécurité alimentaire.
+**Renforcement de la valeur de marque** : le label de traçabilité de la production et de la commercialisation devient une garantie pour les produits agricoles de qualité et renforce leur compétitivité.
 
-**Garantie qualité :** La standardisation et la certification renforcent la qualité des produits et la confiance des consommateurs.
+### Commerce électronique et vente directe
 
-**Valorisation de la marque :** Le label de traçabilité est devenu un gage de qualité, renforçant la compétitivité des produits taïwanais.
+**Plateformes de vente en ligne** : les agriculteurs vendent directement leurs produits via des plateformes en ligne, réduisant les intermédiaires et augmentant leurs revenus.
 
-### Commerce en ligne et vente directe
+**Agriculture soutenue par la communauté** : les consommateurs commandent directement des produits agricoles auprès des agriculteurs, établissant des relations stables de production et de commercialisation.
 
-**Plateformes numériques :** Les agriculteurs vendent directement en ligne, s'affranchissant des intermédiaires pour améliorer leurs marges.
+**Marchés paysans** : des marchés paysans sont organisés régulièrement, permettant aux agriculteurs d’entrer directement en contact avec les consommateurs et de construire des relations de confiance.
 
-**Agriculture soutenue par la communauté (AMAP) :** Les consommateurs s'abonnent directement aux productions d'un agriculteur, instaurant une relation stable et de confiance.
+## Défis rencontrés et réponses
 
-**Marchés de producteurs :** Des marchés réguliers permettent aux agriculteurs de rencontrer directement leurs consommateurs et de tisser des liens durables.
+### Effets du changement climatique
 
-## Défis et réponses
+**Phénomènes météorologiques extrêmes** : la fréquence accrue des typhons, sécheresses, pluies torrentielles et autres événements extrêmes affecte la production agricole.
 
-### Le changement climatique
+**Évolution des maladies et ravageurs** : le changement climatique entraîne l’apparition de nouvelles maladies et de nouveaux ravageurs, ce qui impose d’ajuster les méthodes traditionnelles de prévention et de lutte.
 
-**Événements extrêmes :** La multiplication des typhons, sécheresses et pluies torrentielles fragilise la production agricole.
+**Adaptation des cultures** : les variétés traditionnelles peuvent ne pas s’adapter aux nouvelles conditions climatiques, ce qui exige la sélection de nouvelles variétés.
 
-**Nouveaux ravageurs et maladies :** Le changement climatique fait émerger de nouvelles menaces phytosanitaires, rendant obsolètes certaines méthodes de lutte traditionnelles.
+**Stratégies de réponse** :
 
-**Adaptation des variétés :** Les variétés anciennes peuvent ne plus convenir aux nouvelles conditions climatiques, nécessitant un effort de sélection accru.
+- Développer des variétés résistantes aux stress
+- Construire des installations de prévention des catastrophes
+- Ajuster les systèmes de culture
+- Mettre en place des systèmes d’alerte précoce
 
-**Réponses :**
+### Pénurie de main-d’œuvre
 
-- Développer des variétés tolérantes aux stress abiotiques
-- Construire des infrastructures de protection contre les catastrophes
-- Adapter les calendriers de culture
-- Mettre en place des systèmes d'alerte précoce
+**Vieillissement de la population** : le vieillissement de la population rurale est marqué, et les jeunes ne souhaitent pas exercer des métiers agricoles.
 
-### La pénurie de main-d'œuvre
+**Besoins saisonniers de main-d’œuvre** : certaines cultures demandent beaucoup de main-d’œuvre à des saisons précises, mais le recrutement est difficile.
 
-**Vieillissement de la population rurale :** Les campagnes vieillissent, et les jeunes boudent le travail agricole.
+**Insuffisance de talents techniques** : l’agriculture moderne requiert davantage de compétences techniques, mais les systèmes de formation restent à renforcer.
 
-**Demandes saisonnières :** Certaines cultures requièrent une main-d'œuvre importante à des périodes précises, difficile à mobiliser.
+**Stratégies de réponse** :
 
-**Manque de techniciens :** L'agriculture moderne a besoin de profils spécialisés, mais le système de formation peine à répondre à la demande.
-
-**Réponses :**
-
-- Accélérer la mécanisation
-- Ouvrir le recours à la main-d'œuvre étrangère
+- Promouvoir la mécanisation agricole
+- Introduire de la main-d’œuvre étrangère
 - Renforcer la formation professionnelle
-- Revaloriser les métiers agricoles
+- Améliorer les conditions offertes par l’agriculture
 
-### La pression de la concurrence internationale
+### Pression de la concurrence internationale
 
-**Libéralisation des échanges agricoles :** L'OMC et les accords de libre-échange régionaux intensifient la concurrence internationale.
+**Libéralisation du commerce des produits agricoles** : l’OMC et les divers accords commerciaux régionaux ont accru la pression concurrentielle internationale.
 
-**Désavantage coût :** Face aux pays à bas coûts d'Asie du Sud-Est, Taïwan est en position difficile sur le plan des prix.
+**Concurrence par les coûts** : par rapport aux régions à bas coûts comme l’Asie du Sud-Est, l’agriculture taïwanaise fait face à un désavantage de coûts.
 
-**Compétition par la qualité :** La voie taïwanaise passe par l'excellence et la singularité des produits — une stratégie de valeur, pas de volume.
+**Concurrence par la qualité** : elle doit l’emporter par la qualité et les caractéristiques distinctives, en suivant une voie à haute valeur.
 
-**Réponses :**
+**Stratégies de réponse** :
 
-- Investir dans le marketing de marque
+- Renforcer le marketing de marque
 - Développer des produits à forte valeur ajoutée
-- Affirmer les spécificités régionales
-- Cibler des marchés de niche
+- Construire des caractéristiques régionales
+- Élargir les marchés de niche
 
-## Perspectives : vers une durabilité assumée
+## Perspectives d’avenir du développement durable
 
-### L'agriculture circulaire
+### Promotion de l’agriculture circulaire
 
-**Valorisation des déchets agricoles :** Paille de riz transformée en panneaux de construction, marc de fruits converti en engrais organique — rien ne se perd.
+**Réutilisation circulaire des ressources** : réutilisation des déchets agricoles, par exemple la fabrication de panneaux à partir de paille de riz ou la production d’engrais organiques à partir de résidus de fruits.
 
-**Énergie circulaire :** Les déchets agricoles produisent de l'énergie verte : biogaz, panneaux solaires en toiture de serres.
+**Cycle énergétique** : utilisation des déchets agricoles pour produire de l’énergie verte, comme la production d’électricité à partir de biogaz ou l’installation de panneaux solaires.
 
-**Gestion de l'eau :** Développement de l'irrigation économe en eau, récupération et réutilisation des eaux pluviales et traitées.
+**Cycle des ressources en eau** : développement de technologies d’irrigation économes en eau et réutilisation de l’eau de pluie et des eaux traitées.
 
 ### Protection de la biodiversité
 
-**Écologie parcellaire :** Des espaces-refuges pour la faune et la flore sont préservés au sein des exploitations agricoles.
+**Écologie des champs** : maintien d’espaces d’habitat biologique dans les terres agricoles afin de préserver la biodiversité des milieux agricoles.
 
-**Conservation du patrimoine génétique :** Variétés traditionnelles et espèces sauvages sont conservées pour préserver les ressources génétiques agricoles.
+**Conservation des ressources génétiques** : préservation des variétés traditionnelles et des espèces sauvages afin de maintenir les ressources génétiques agricoles.
 
-**Pratiques agroécologiques :** Promotion de méthodes sans pesticides ni engrais chimiques, pour protéger les sols et les eaux.
+**Méthodes agricoles respectueuses de l’environnement** : promotion de modes de culture sans pesticides ni engrais chimiques afin de protéger les sols et les ressources en eau.
 
-### L'agriculture neutre en carbone
+### Agriculture neutre en carbone
 
-**Réduction des émissions :** Diminuer les gaz à effet de serre liés à la production agricole.
+**Mesures de réduction du carbone** : réduction des émissions de gaz à effet de serre au cours des processus de production agricole.
 
-**Séquestration du carbone :** Gestion des sols et pratiques culturales favorisant le stockage de carbone dans les terres agricoles.
+**Méthodes agricoles de séquestration du carbone** : augmentation du stockage de carbone dans les sols grâce à la gestion des sols et aux cultures.
 
-**Marchés carbone :** Mise en place d'un mécanisme de marché carbone agricole pour inciter financièrement les agriculteurs qui réduisent leurs émissions.
+**Mécanisme d’échange de carbone** : mise en place d’un système d’échange de carbone agricole offrant des incitations économiques aux agriculteurs qui réduisent les émissions.
 
-### L'écosystème agricole numérique
+### Écosystème d’agriculture numérique
 
-**Plateformes intégrées :** Construire une plateforme agricole numérique unifiée reliant production, transformation et commercialisation.
+**Intégration des plateformes** : création de plateformes numériques agricoles intégrées reliant la production, la transformation et la vente.
 
-**Partage des données :** Développer une plateforme de big data agricole favorisant la mutualisation et l'exploitation des données.
+**Partage des données** : mise en place de plateformes de mégadonnées agricoles afin de promouvoir le partage et l’utilisation des données.
 
-**Nouveaux services :** Imaginer des modèles de services agricoles inédits, fondés sur les technologies numériques.
+**Services innovants** : développement de nouveaux modèles de services agricoles fondés sur les technologies numériques.
 
----
+Le moteur de la modernisation agricole taïwanaise a toujours été la pression externe : l’exode de la main-d’œuvre a imposé la mécanisation, la concurrence liée à l’OMC a imposé la construction de marques, et les crises de sécurité alimentaire ont imposé la conversion biologique. Chaque pression a trouvé une issue politique. Le prochain défi porte sur le renouvellement variétal face au changement climatique et sur les tensions foncières liées à la coexistence entre agriculture et production photovoltaïque ; là encore, la solution devra passer d’abord par l’innovation institutionnelle.
 
-L'expérience taïwanaise de modernisation agricole démontre que, même avec des ressources limitées, l'innovation technologique, institutionnelle et de modèle permet d'atteindre une agriculture de qualité, efficiente et durable. Ce « modèle taïwanais » n'a pas seulement tracé une voie pour Taïwan — il offre au monde une référence précieuse pour les économies de petite agriculture.
+**Lectures complémentaires** :
 
-À l'avenir, l'agriculture taïwanaise continuera d'évoluer vers plus d'intelligence, d'écologie et d'ouverture internationale — garantissant la sécurité alimentaire tout en créant une valeur économique, sociale et environnementale accrue, en exemple de développement durable.
-
-**Lecture complémentaire :**
-
-- Taiwan face à la crise climatique et à la transition zéro carbone — l'impact du changement climatique sur l'agriculture et la pêche, et les conflits d'usage des terres autour de l'agrivoltaïsme
-
-## Sources
-
-- Histoire et évolution des politiques de l'agriculture biologique à Taïwan
-- Études de cas sur les applications des technologies d'agriculture intelligente
-- Analyse des communautés exemplaires du programme de revitalisation rurale
-- Modèles de gestion en agrotourisme
-- Impacts du changement climatique sur l'agriculture taïwanaise et stratégies d'adaptation
-- Industrialisation agricole et intégration de la chaîne de valeur
-- Agriculture durable et conservation de la biodiversité
+- [Crise climatique et transition vers le zéro émission nette à Taïwan](/nature/台灣氣候危機與淨零轉型) — Les effets du changement climatique sur l’agriculture et la pêche, ainsi que les conflits d’usage des terres suscités par les politiques d’agrivoltaïsme
 
 ## Références
 
-1. Ministère de l'Agriculture (anciennement Conseil de l'agriculture de l'Exécutif) - Annuaire statistique agricole : https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx
-2. Conseil national du développement - Rapport de planification de la politique d'agriculture de précision : https://www.ndc.gov.tw/
-3. Institut de recherche agronomique du Ministère de l'Agriculture - Rapport sur le développement des technologies agricoles taïwanaises : https://www.tari.gov.tw/
-4. Centre de promotion de l'agriculture biologique de la République de Chine - Statistiques sur le développement de l'agriculture biologique
-5. Agence de développement rural et de conservation des terres et des eaux du Ministère de l'Agriculture - Rapport d'exécution du programme de revitalisation rurale : https://www.ardswc.gov.tw/
-6. Association de développement de l'agrotourisme taïwanais - Enquête sur l'industrie agrotouristique : https://www.taiwanfarm.org.tw/
-7. Bureau des produits agricoles du Ministère de l'Agriculture - Statistiques de certification des produits agricoles traçables : https://taft.moa.gov.tw/
-8. Institut d'économie de l'Academia Sinica - Recherches sur la transformation agricole taïwanaise : https://www.econ.sinica.edu.tw/
-9. Collège des bio-ressources et d'agriculture de l'Université nationale de Taïwan - Rapport de recherche sur l'agriculture durable
-10. Institut de recherche en technologie agricole - Livre blanc sur le développement des technologies d'agriculture intelligente : https://www.atri.org.tw/
-11. Ministère de l'Environnement - Programme de promotion des pratiques agricoles respectueuses de l'environnement : https://www.moenv.gov.tw/
-12. Bureau de la technologie du Ministère des Affaires économiques - Plan de développement de l'industrie des biotechnologies agricoles
+[^1]: [Annuaire statistique agricole du ministère de l’Agriculture](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Données statistiques agricoles historiques du ministère de l’Agriculture, ancien Conseil de l’agriculture du Yuan exécutif
+
+[^2]: [Planification des politiques d’agriculture de précision du Conseil national de développement](https://www.ndc.gov.tw/) — Rapports de planification des politiques d’agriculture de précision et de transformation agricole
+
+[^3]: [Développement des sciences et technologies agricoles taïwanaises par l’Institut de recherche agricole du ministère de l’Agriculture](https://www.tari.gov.tw/) — Résultats de recherche en sciences et technologies agricoles et rapports de développement technologique
+
+[^5]: [Rapport sur les résultats de mise en œuvre du programme de revitalisation rurale de l’Agence du développement rural et de la conservation des sols et des eaux du ministère de l’Agriculture](https://www.ardswc.gov.tw/) — Résultats d’exécution du Fonds de revitalisation rurale et dossiers d’accompagnement des communautés
+
+[^6]: [Rapport d’enquête sur l’industrie de l’agritourisme de l’Association taïwanaise pour le développement de l’agritourisme](https://www.taiwanfarm.org.tw/) — Enquête nationale sur le nombre de fermes de loisirs, la fréquentation touristique et l’échelle industrielle
+
+[^7]: [Statistiques de certification des produits agricoles avec traçabilité de la production et de la commercialisation de l’Agence de l’agriculture et de l’alimentation du ministère de l’Agriculture](https://taft.moa.gov.tw/) — Statistiques sur les catégories et les surfaces de produits agricoles certifiés par traçabilité à Taïwan
+
+[^8]: [Recherches sur la transformation agricole taïwanaise de l’Institut d’économie de l’Academia Sinica](https://www.econ.sinica.edu.tw/) — Transformation structurelle de l’agriculture taïwanaise et analyse des politiques
+
+[^10]: [Livre blanc sur le développement des technologies d’agriculture intelligente de l’Institut de recherche sur les technologies agricoles](https://www.atri.org.tw/) — État des applications de l’Internet des objets, de l’IA et des technologies d’automatisation dans l’agriculture
+
+[^11]: [Programme de promotion des cultures respectueuses de l’environnement du ministère de l’Environnement](https://www.moenv.gov.tw/) — Résultats de la mise en œuvre des paiements écologiques et des politiques de culture respectueuse de l’environnement

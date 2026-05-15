@@ -1,466 +1,163 @@
 ---
-title: "Taiwan's International Trade Policy: Finding Position in the Globalization Wave"
-description: 'As a trade-oriented economy, Taiwan actively promotes diversified trade strategies including CPTPP membership bid and New Southbound Policy, seeking breakthroughs in international economic space under geopolitical constraints.'
+title: "Taiwan's International Trade Policy: Finding Its Place in the Tide of Globalization"
+description: 'As a trade-oriented economy, Taiwan pursues diversified trade strategies including CPTPP accession and the New Southbound Policy, seeking breakthroughs in international economic and trade space under geopolitical constraints.'
 date: 2026-03-19
+author: 'Taiwan.md'
+category: 'Economy'
+subcategory: '貿易與全球化'
 tags:
   [
-    'economy',
-    'trade policy',
+    'Economy',
+    'Trade Policy',
     'CPTPP',
     'New Southbound Policy',
     'ECFA',
     'FTA',
-    'international trade',
+    'International Economic and Trade Relations',
   ]
-subcategory: '貿易與全球化'
-author: 'Taiwan.md'
-difficulty: 'intermediate'
 readingTime: 16
-featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+featured: true
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:e86aa807bf77d463'
-sourceBodyHash: 'sha256:50732ecac41f23f8'
-translatedAt: '2026-05-01T14:11:02+08:00'
-category: Economy
+sourceCommitSha: '24efd20f3'
+sourceContentHash: 'sha256:46d9237ef98b45d7'
+sourceBodyHash: 'sha256:9fbe7b79e0934c74'
+translatedAt: '2026-05-15T13:52:05+08:00'
 ---
 
-# Taiwan's International Trade Policy: Finding Position in the Globalization Wave
+# Taiwan's International Trade Policy: Finding Its Place in the Tide of Globalization
 
 ## 30-Second Overview
 
-As an island economy highly dependent on international trade, Taiwan faces dual challenges of "political reality" and "economic needs." Through actively seeking CPTPP membership, promoting the New Southbound Policy, and maintaining trade relations with the United States, Taiwan strives to build diversified trade partnerships within limited international space. It must also balance cross-strait economic dependence with economic security, seeking sustainable development paths for Taiwan's economy.
+As an island economy highly dependent on international trade, Taiwan faces the dual challenges of "political reality" and "economic necessity." By seeking CPTPP accession, advancing the New Southbound Policy, and maintaining trade relations with the United States, Taiwan is working to build diversified trade partnerships within limited international space. At the same time, it must strike a balance between cross-strait economic dependence and economic security, while searching for a sustainable development path for Taiwan's economy.
 
-**Keywords:** CPTPP, New Southbound Policy, ECFA, Free Trade Agreements, Economic Diversification, Supply Chain Restructuring
-
----
-
-## Why This Matters
-
-Taiwan's international trade policy concerns national survival and development:
-
-### Economic Lifeline
-
-As an island economy lacking natural resources, Taiwan's economy is highly dependent on international trade:
-
-- **Trade Dependency**: Total imports and exports exceed 100% of GDP
-- **Export-Oriented**: Manufacturing industries like electronics and machinery serve as economic pillars
-- **Global Supply Chain**: Taiwan is a critical node in global technology supply chains
-
-### Bridge to International Participation
-
-With limited diplomatic space, economic cooperation becomes Taiwan's important channel for international participation:
-
-- **Substantive Diplomacy**: Building international friendships through economic relations
-- **Soft Power Display**: Enhancing international image through economic achievements
-- **Multilateral Participation**: Maintaining voice through international organizations like the WTO
-
-### Geopolitical Balance
-
-Facing China's economic rise and geopolitical competition, Taiwan needs:
-
-- **Risk Diversification**: Reducing over-dependence on single markets
-- **Strategic Autonomy**: Maintaining independence in economic decision-making
-- **Security Considerations**: Balancing economic cooperation with national security
+**Keywords:** CPTPP, New Southbound Policy, ECFA, free trade agreements, trade and economic diversification, supply chain restructuring
 
 ---
 
-## Taiwan's Trade Structure Analysis
+## Why It Matters
 
-### Major Trading Partners
+Taiwan is an island economy with few natural resources. Its total imports and exports exceed 100% of GDP, and manufacturing industries such as electronics and machinery are pillars of the economy. Taiwan is also a critical node in global technology product supply chains. This structure means that trade policy is national survival policy: without exports there is no foreign exchange, and without foreign exchange there are no imports of energy or raw materials.
 
-According to latest statistics, Taiwan's top ten trading partners include:
+With diplomatic space constrained, economic and trade cooperation has become Taiwan's main channel for participating in the international community: maintaining a voice through international organizations such as the WTO, enhancing its international image in substantive diplomatic settings through economic achievements, and, while facing geopolitical pressure brought by China's economic rise, finding a balance between risk diversification and the maintenance of necessary exchanges.
 
-1. **China** (including Hong Kong): ~40% of trade volume
-2. **United States**: Important bilateral trading partner
-3. **Japan**: Close technological and investment cooperation
-4. **ASEAN**: Key region for New Southbound Policy
-5. **European Union**: High-value product markets
-6. **South Korea**: Coexisting competition and cooperation
+---
+
+## Analysis of Taiwan's Trade Structure
+
+### Major Trade Partners
+
+According to Ministry of Finance statistics, in 2023 China, including Hong Kong, accounted for approximately 31.7% of Taiwan's exports, making it Taiwan's largest export market[^1]; the United States, Japan, ASEAN, and the European Union followed in order. Although the concentration of exports to China has declined from its peak in the 2010s, it remains the central focus of trade diversification policy. South Korea and Taiwan have both competitive and cooperative relations in areas such as semiconductors and display panels, making it another trade relationship worth close attention.
 
 ### Export Product Structure
 
-Taiwan's exports are dominated by high-tech products:
-
-- **Electronic Products**: Semiconductors, computers, communication equipment (over 60% of exports)
-- **Machinery**: Precision machinery, machine tools
-- **Chemicals**: Petrochemicals, plastic products
-- **Metal Products**: Steel, non-ferrous metals
+Taiwan's exports are highly concentrated in high-technology products. According to Ministry of Finance statistics for 2022-2023, electronic products, including semiconductors, computers, and communications equipment, accounted for more than 60% of exports[^1], followed by precision machinery and machine tools, petrochemical products and plastics, and steel and non-ferrous metals. This concentration makes Taiwan especially sensitive to semiconductor market cycles; when chip demand slows, overall export figures respond quickly.
 
 ### Import Dependencies
 
-Taiwan's main import needs:
-
-- **Energy**: Oil, natural gas, coal
-- **Raw Materials**: Metal ores, chemical raw materials
-- **Agricultural Products**: Food, livestock products
-- **High-end Equipment**: Semiconductor equipment, scientific instruments
+Taiwan's dependence on energy imports is its largest structural risk: oil, natural gas, and coal are almost entirely imported. Metal minerals and chemical raw materials, food and livestock products, and semiconductor equipment and scientific instruments constitute four other major categories of import demand. The geopolitical vulnerability of energy imports is one of the most difficult elements to avoid in Taiwan's supply security policy.
 
 ---
 
 ## Core Trade Policy Framework
 
-### Participation Under WTO System
+### Participation Under the WTO System
 
-Taiwan participates in the WTO as "Chinese Taipei":
-
-**Multilateral Trading System Participation**:
-
-- Officially joined WTO in 2002
-- Actively participates in multilateral negotiations
-- Adheres to international trade norms
-- Promotes trade liberalization
-
-**Challenges Faced**:
-
-- Interference from politically sensitive issues
-- Complex interactions with China
-- Limited speaking rights in international organizations
+Taiwan operates as a WTO member under the name "Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu" from 2002 to the present. Its formal accession began in 2002, and within the multilateral trading system it observes rules and participates in multilateral negotiations. Yet this identity design has produced long-term political friction: China's interference with Taiwan's right to speak in WTO settings, as well as the complexity of Taiwan's status in international organizations, has constrained the effectiveness of Taiwan's participation in WTO multilateral negotiations. Even so, WTO membership remains an important legal basis for Taiwan's maintenance of multilateral trade protection.
 
 ### Bilateral Free Trade Agreements (FTAs)
 
-Taiwan currently has limited signed FTAs:
-
-**Signed FTAs**:
-
-- Panama, Guatemala, Nicaragua, El Salvador, Honduras (Central American allies)
-- New Zealand, Singapore (Economic Cooperation Agreements)
-
-**Under Negotiation or Planning**:
-
-- United States (21st Century Trade Initiative)
-- India (Bilateral Investment Agreement)
-- United Kingdom (Investment Dialogue)
-
-**Political Constraints**:
-Due to political realities, many countries are unwilling to sign formal FTAs with Taiwan, requiring alternative forms like Economic Partnership Agreements.
+Taiwan has signed very few formal FTAs, mainly with diplomatic allies in Central America: Panama, Guatemala, Nicaragua, El Salvador, and Honduras. Taiwan has signed economic cooperation agreements (ECAs) with New Zealand and Singapore respectively, which fall under a non-traditional FTA framework[^2]. Items under negotiation include the United States, with the first chapter on trade facilitation under the U.S.-Taiwan Initiative on 21st-Century Trade signed in 2023[^3]; India, through a bilateral investment agreement; and the United Kingdom, through investment dialogue. The fundamental reason FTA expansion is constrained lies in political reality: many countries, under pressure from Beijing, are unwilling to conclude formal agreements with Taiwan, making it necessary to advance cooperation through alternative frameworks.
 
 ---
 
-## Key Policy Initiatives
+## Major Policy Initiatives
 
-### CPTPP Membership Strategy
+### CPTPP Accession Strategy
 
-**Application Process**:
+Taiwan formally applied to join the CPTPP in September 2021, established an interministerial working group, and began policy dialogues with member states. Assessments of accession benefits include access to the markets of 11 member countries, the gradual elimination of tariffs on most products, greater transparency in the investment environment, and new opportunities in services such as finance and telecommunications.
 
-- Formally applied for CPTPP membership in September 2021
-- Established inter-ministerial working group for promotion
-- Actively engaged in policy dialogue with member countries
+However, the path to accession faces both domestic and external obstacles. Domestically, there is strong pressure to protect agriculture, controversy over extensions of pharmaceutical patent terms, and sensitive interests involved in adjustments to foreign labor policy. Externally, China's political obstruction is the most difficult variable to overcome. As of 2026, Taiwan's CPTPP application has still made no substantive progress. The political sensitivity among member states over handling Taiwan's and China's applications at the same time has left accession negotiations stalled[^4].
 
-**Membership Benefits Assessment**:
+In response, the government has continued to conduct industrial impact assessments and guidance, regulatory adaptation and institutional reform, communication with the legislature and social dialogue, and the deepening of bilateral relations with each member state, preserving room to advance the issue when the timing for accession becomes mature.
 
-- **Market Expansion**: Access to 11 member country markets
-- **Tariff Reduction**: Gradual zero tariffs for most products
-- **Investment Protection**: Enhanced investment environment transparency
-- **Service Liberalization**: Opportunities in finance, telecommunications, etc.
+### New Southbound Policy (2016-Present)
 
-**Challenges Faced**:
+The New Southbound Policy was launched in 2016 with the goals of diversifying market dependence away from China, deepening economic and trade relations with ASEAN and South Asia, and promoting cooperation in regional industrial chains and talent exchange. The policy covers 18 target countries: the 10 ASEAN countries, six South Asian countries, New Zealand, and Australia. It is advanced through four main pillars: economic and trade cooperation, talent exchange, resource sharing, and regional links.
 
-- **Agricultural Opening**: Domestic agricultural protection concerns
-- **Intellectual Property**: Drug patent extension controversies
-- **Labor Standards**: Foreign worker policy adjustment needs
-- **Geopolitics**: Political obstruction from China
+Concrete results include increased investment in New Southbound countries, growth in bilateral trade, cases of industrial park cooperation, and the export of technical and vocational education. The policy's practical challenges lie in linguistic and cultural differences, unfamiliarity with local regulatory environments, political risk, and infrastructure gaps. These obstacles show that southbound expansion requires a longer timeline than simple re-export routes.
 
-**Response Strategies**:
+### U.S.-Taiwan Initiative on 21st-Century Trade
 
-- Industry impact assessment and assistance measures
-- Regulatory adaptation and institutional reforms
-- Parliamentary communication and social dialogue
-- Strengthening bilateral relations with members
-
-### New Southbound Policy (2016-present)
-
-**Policy Objectives**:
-
-- Diversify market risks
-- Deepen economic relations with ASEAN and South Asia
-- Build regional industrial chain cooperation
-- Promote talent exchange
-
-**18 Target Countries**:
-10 ASEAN countries, 6 South Asian countries, New Zealand, Australia
-
-**Four Main Pillars**:
-
-1. **Economic Cooperation**: Investment, trade, industrial collaboration
-2. **Talent Exchange**: Education, tourism, labor services
-3. **Resource Sharing**: Technology, healthcare, agriculture
-4. **Regional Connectivity**: Infrastructure, smart cities
-
-**Concrete Results**:
-
-- Significant growth in investment to New Southbound countries
-- Continued increase in bilateral trade volume
-- Industrial park cooperation cases
-- Success in technical and vocational education export
-
-**Difficulties Faced**:
-
-- Language and cultural differences
-- Unfamiliarity with regulatory environments
-- Local political risks
-- Insufficient infrastructure
-
-### Taiwan-US 21st Century Trade Initiative
-
-**Cooperation Areas**:
-
-- Trade facilitation
-- Regulatory practices
-- Agricultural cooperation
-- Anti-corruption
-- SME trade
-- Digital trade
-- Labor issues
-- Environmental issues
-
-**Strategic Significance**:
-
-- Deepening Taiwan-US economic relations
-- Laying foundation for future broader agreements
-- Demonstrating Taiwan's reform commitment
-- Strengthening Indo-Pacific regional cooperation
+In 2023, the first chapter on trade facilitation under the U.S.-Taiwan Initiative on 21st-Century Trade was signed. The initiative covers eight areas: trade facilitation, regulatory practices, agricultural cooperation, anti-corruption, small and medium-sized enterprise trade, digital trade, labor issues, and environmental issues. Its strategic significance lies in deepening U.S.-Taiwan economic and trade relations, laying the foundation for broader future agreements, demonstrating Taiwan's reform capacity, and strengthening the basis of mutual trust between Taiwan and the United States within Indo-Pacific regional cooperation frameworks.
 
 ---
 
-## Cross-Strait Economic Relations
+## Cross-Strait Economic and Trade Relations
 
-### ECFA Signing and Impact
+### The Signing and Impact of ECFA
 
-**Background and Content**:
+Taiwan advanced the ECFA framework during 2010-2012. In 2010, it signed the Cross-Straits Economic Cooperation Framework Agreement (ECFA), using an early harvest list to reduce tariffs on some goods and establish mechanisms for follow-up negotiations. The agreement drove growth in bilateral trade, made investment in China more convenient for Taiwanese businesses, increased Chinese tourist visits to Taiwan, and expanded financial business exchanges. Critics argued that the agreement deepened economic dependence, accelerated industrial relocation, worsened income distribution, and carried implicit national security risks.
 
-- Signed Economic Cooperation Framework Agreement in 2010
-- Early harvest list reduced tariffs
-- Established subsequent negotiation mechanisms
+**Recent ECFA Developments (2023-2024):** At the end of 2023, China cancelled tariff concessions on 539 items from the early harvest list. In May 2024, it further cancelled concessions on 134 petrochemical products, substantially eroding the ECFA framework[^5]. Taiwan's related export industries face pressure from rising tariffs, and ECFA's remaining benefits have been sharply reduced.
 
-**Economic Benefits**:
+### Current Cross-Strait Economic and Trade Challenges
 
-- Significant growth in bilateral trade
-- Facilitated Taiwan business investment in China
-- Increased mainland tourist visits to Taiwan
-- Expanded financial business exchanges
-
-**Political Controversies**:
-
-- Concerns about excessive economic dependence
-- Accelerated industrial relocation
-- Worsening income distribution
-- National security risks
-
-### Current Cross-Strait Economic Challenges
-
-**Structural Issues**:
-
-- Taiwan's excessive trade dependence on China
-- Increasing industrial competition overlap
-- Rising technology outflow risks
-- Supply chain security considerations
-
-**Policy Adjustment Directions**:
-
-- Strengthen critical technology controls
-- Promote supply chain diversification
-- Establish economic security mechanisms
-- Maintain necessary economic exchanges
+There are four main structural problems: Taiwan's relatively high trade dependence on China, increasing overlap in industrial competitiveness, rising risks of technology outflow, and supply chain security considerations. The direction of policy adjustment is to strengthen controls on key technologies, promote supply chain diversification, and establish economic security mechanisms, while maintaining necessary economic and trade exchanges. The latter has become increasingly difficult to calibrate precisely as cross-strait political tensions intensify.
 
 ---
 
-## Industry-Specific Trade Policies
+## Sectoral Trade Policy
 
 ### Semiconductor Industry
 
-Taiwan semiconductors' critical position in global supply chains:
+Taiwan's semiconductor industry occupies a critical position in global supply chains. Its core competitive advantages come from leadership in advanced process technology, a complete industrial ecosystem, and high-quality human resources. The direction of trade policy is to participate in U.S.-led chip alliances, build trusted supply chains, and strengthen export control mechanisms. TSMC's plant construction plans in the United States and Japan are typical examples of Taiwan's proactive management of diplomatic risk amid the politicization of chip supply chains.
 
-**Competitive Advantages**:
+### Agricultural Sector
 
-- Leading advanced process technology
-- Complete industrial ecosystem
-- High-quality human resources
+Agriculture plays the role of a sensitive bargaining chip in trade negotiations. Relatively high production costs, insufficient economies of scale, and intense international competition constitute the three main obstacles to agricultural trade liberalization. The response strategy is to develop high-value agriculture, strengthen agricultural product traceability, and promote agricultural technology, using differentiation in place of low-price competition.
 
-**Trade Policies**:
+### Services
 
-- Participate in US chip alliances
-- Build trusted supply chains
-- Strengthen export control mechanisms
-
-### Agriculture Sector
-
-Agriculture's sensitive position in trade negotiations:
-
-**Challenges**:
-
-- Relatively high production costs
-- Insufficient economies of scale
-- Intense international competition
-
-**Response Strategies**:
-
-- Develop precision agriculture
-- Strengthen agricultural product traceability
-- Promote agricultural technology adoption
-
-### Service Industry
-
-Service industry internationalization opportunities:
-
-**Advantage Areas**:
-
-- Financial services
-- ICT services
-- Healthcare
-- Cultural and creative industries
-
-**Opening Policies**:
-
-- Gradually relax foreign investment restrictions
-- Improve service quality
-- Build international brands
+Financial services, information and communications services, healthcare, and cultural and creative industries are Taiwan's areas of strength in the internationalization of services. The direction of liberalization policy is to gradually relax foreign investment restrictions, improve service quality, and build international brands. The relatively low share of services in exports represents a clear growth area for Taiwan compared with manufacturing.
 
 ---
 
-## Digital Trade and New Economy
+## Digital Trade and the New Economy
 
-### Digital Economy Trade Norms
+In response to the development of the digital economy, Taiwan faces institutional pressure to build digital trade rules covering cross-border data flows, personal data protection standards, e-commerce regulations, and digital tax coordination. Emerging issues include artificial intelligence governance, cryptocurrency regulation, platform economy rules, and intellectual property protection. Taiwan needs to find a balance between participating in the making of international standards and protecting its own digital sovereignty.
 
-Responding to digital economy development, Taiwan needs:
-
-**Digital Trade Rules**:
-
-- Cross-border data flows
-- Personal data protection standards
-- E-commerce regulations
-- Digital tax coordination
-
-**Emerging Issues**:
-
-- AI governance
-- Cryptocurrency regulation
-- Platform economy norms
-- Intellectual property protection
-
-### Green Trade Trends
-
-Aligning with global net-zero carbon goals:
-
-**Carbon Border Adjustment Mechanism**:
-
-- EU CBAM impact assessment
-- Industrial carbon footprint certification
-- Green supply chain establishment
-
-**Circular Economy Trade**:
-
-- Waste resource utilization
-- Recycled material trade
-- Environmental technology export
+In line with global net-zero carbon emissions goals, assessing the impact of the EU Carbon Border Adjustment Mechanism (CBAM) on Taiwanese exporters is urgent. Taiwan's response directions include industrial carbon footprint certification and the establishment of green supply chains, as well as the development of circular economy trade opportunities such as waste resource recovery, trade in recycled raw materials, and the export of environmental technologies.
 
 ---
 
-## Trade Policy Formulation Mechanisms
+## Trade Policy-Making Mechanisms
 
-### Government Department Division
+Taiwan's trade policy is advanced through a division of labor among multiple agencies. The International Trade Administration under the Ministry of Economic Affairs is responsible for trade policy planning and implementation, coordination of bilateral and multilateral negotiations, and the handling of trade barriers. The Office of Trade Negotiations under the Executive Yuan coordinates major economic and trade negotiations, interministerial policy coordination, and international economic and trade policy planning. The Ministry of Foreign Affairs aligns with foreign policy, the Ministry of Agriculture takes primary responsibility for agricultural negotiations, and the Ministry of Digital Affairs is responsible for digital trade rules, forming a multi-agency collaborative policy-making structure.
 
-**Bureau of Foreign Trade, MOEA**:
-
-- Trade policy planning and implementation
-- Bilateral and multilateral negotiation coordination
-- Trade barrier handling
-
-**Office of Trade Negotiations, Executive Yuan**:
-
-- Coordination of major economic negotiations
-- Inter-ministerial policy coordination
-- International economic policy planning
-
-**Other Relevant Ministries**:
-
-- Ministry of Foreign Affairs: Foreign policy coordination
-- Ministry of Agriculture: Agricultural negotiations
-- Ministry of Digital Affairs: Digital trade regulations
-
-### Private Sector Participation
-
-**Industry Association Participation**:
-
-- Policy advisory committees
-- Negotiation position recommendations
-- Impact assessment assistance
-
-**Parliamentary Oversight**:
-
-- Review of major agreements
-- Policy questioning and supervision
-- Budget review and oversight
+Civil society participation is realized through two channels. Industry associations provide recommendations on negotiating positions and assist with impact assessments through policy advisory committees. The Legislative Yuan reviews major agreements, conducts policy questioning and oversight, and examines budgets. The intensity of public oversight varies significantly depending on issue sensitivity. The large-scale social controversy triggered by ECFA in 2010 remains a point of reference for issues of transparency in major trade agreement negotiations.
 
 ---
 
 ## Future Challenges and Opportunities
 
-### Opportunities from Geopolitical Restructuring
+Supply chain restructuring brings concrete opportunities: the trend toward friendshoring, demand for resilient supply chains, and Taiwan's position as a trusted partner give Taiwan more negotiating leverage in new regional integration mechanisms such as the Indo-Pacific Economic Framework (IPEF). The path for deepening bilateral cooperation has therefore also become clearer.
 
-**Supply Chain Restructuring**:
-
-- Friend-shoring trends
-- Resilient supply chain construction
-- Trusted partner status
-
-**New Regional Integration Framework**:
-
-- Indo-Pacific Economic Framework (IPEF)
-- Participation in other regional initiatives
-- Bilateral cooperation deepening
-
-### Continued Challenges
-
-**International Space Constraints**:
-
-- Political reality constraints
-- Difficulties participating in international organizations
-- Limited negotiation partners
-
-**Economic Structure Adjustment**:
-
-- Industrial competitiveness enhancement
-- Domestic market expansion
-- Innovation capability strengthening
-
-### Policy Recommendation Directions
-
-**Diversification Strategy**:
-
-- Continue promoting New Southbound Policy
-- Deepen cooperation with democratic countries
-- Explore emerging market opportunities
-
-**Institutional Development**:
-
-- Improve trade regulations
-- Strengthen negotiation capabilities
-- Enhance implementation efficiency
-
-**Industrial Upgrading**:
-
-- Support high value-added industries
-- Develop service trade
-- Promote digital transformation
+The constraints, however, are equally clear. Political realities limit the room for expanding formal FTAs, Taiwan's voice in international organizations remains structurally constrained, and the diversity of its negotiating partners is lower than that of trade-oriented economies of comparable scale. Areas for internal adjustment include improving industrial competitiveness, expanding the domestic market, strengthening innovation capacity, and improving trade regulations and negotiating capabilities. Whether Taiwan's diversification strategy can achieve a breakthrough will ultimately depend on the pace of change in the geopolitical landscape and on whether Taiwan can secure an early position in the next window for agreement negotiations.
 
 ---
 
-## Further Reading
+## References
 
-### Related Articles
+[^1]: [Department of Statistics, Ministry of Finance — Overview of Taiwan's Import and Export Trade in 2023](https://www.mof.gov.tw/htmlList/103) — Taiwan's 2023 export structure and shares of major trade partners
 
-### References
+[^2]: [Taiwan ECA/FTA Portal — Taiwan-New Zealand and Taiwan-Singapore Economic Cooperation Agreements](https://fta.trade.gov.tw/) — Explanation of Taiwan's ECA agreements with New Zealand and Singapore
 
-- [Bureau of Foreign Trade, MOEA](https://www.trade.gov.tw/)
-- [Office of Trade Negotiations, Executive Yuan](https://www.ey.gov.tw/otn/)
-- [Chung-Hua Institution for Economic Research](https://www.cier.edu.tw/)
-- [Taiwan Institute of Economic Research](https://www.tier.org.tw/)
-- [Taiwan ECA/FTA Portal](https://fta.trade.gov.tw/)
-- [WTO Trade Policy Review Report for Chinese Taipei](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047)
+[^3]: [Office of Trade Negotiations, Executive Yuan — U.S.-Taiwan Initiative on 21st-Century Trade](https://www.ey.gov.tw/otn/) — Background and content of the first chapter, trade facilitation, signed in 2023
 
----
+[^4]: [International Trade Administration, Ministry of Economic Affairs — CPTPP Application Progress](https://www.trade.gov.tw/) — Explanation of Taiwan's progress since applying to join the CPTPP in 2021
 
-_Taiwan's international trade policy must demonstrate creativity and resilience within limited political space. Through pragmatic economic diplomacy, building diversified partnerships, and continuous industrial upgrading, Taiwan continues to find its optimal position in the globalization wave, creating broader opportunities for national development._
+[^5]: [Central News Agency, 2024/5/31 — China Cancels Concessions on 134 ECFA Petrochemical Products](https://www.cna.com.tw/) — In May 2024, China further cancelled ECFA early harvest concessions on 134 petrochemical products
+
+[^6]: [WTO — Trade Policy Review Report on the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — WTO review report on Taiwan's trade policy

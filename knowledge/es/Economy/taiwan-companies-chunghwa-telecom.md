@@ -1,14 +1,15 @@
 ---
 title: 'Empresas de Taiwán: Chunghwa Telecom'
-description: 'El mayor operador de telecomunicaciones de Taiwán, de monopolio estatal a líder en transformación digital'
+description: 'La mayor operadora de telecomunicaciones de Taiwán, líder de la transición del monopolio estatal a la transformación digital'
 date: 2026-03-20
-author: Taiwan.md
+author: 'Taiwan.md'
+category: 'Economy'
 subcategory: '企業列傳'
 tags:
   [
     'Economía',
     'Empresas',
-    'Sector de telecomunicaciones',
+    'Telecomunicaciones',
     'Transformación digital',
     'Privatización de empresas estatales',
   ]
@@ -17,119 +18,160 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:2dc422bd153e8b6c'
-sourceBodyHash: 'sha256:7cf96bc35fdd604f'
-translatedAt: '2026-05-01T22:19:10+08:00'
-category: Economy
+sourceCommitSha: '24efd20f3'
+sourceContentHash: 'sha256:dd735f0162ff1ad0'
+sourceBodyHash: 'sha256:9b07a151711a4285'
+translatedAt: '2026-05-15T13:52:06+08:00'
 ---
 
-> **Resumen en 30 segundos**
+> **Panorama en 30 segundos**
 >
-> Chunghwa Telecom es el mayor operador de telecomunicaciones de Taiwán. Desde su fundación en 1996, ha experimentado una transformación de monopolio estatal a competencia abierta. En 2024, sus ingresos alcanzaron los 2.300,3 millones de yuanes taiwaneses, su capitalización de mercado supera el billón de yuanes y cuenta con unos 30.000 empleados. No solo controla más del 90% del mercado de redes fijas de Taiwán, sino que también realiza una planificación activa en áreas de tecnología emergente como 5G, computación en la nube e IA, siendo un impulsor clave de la infraestructura digital de Taiwán.
+> Chunghwa Telecom es la mayor operadora de telecomunicaciones de Taiwán. Desde su creación en 1996, ha atravesado una transformación que la llevó del monopolio estatal a la competencia abierta. En 2024 registró ingresos por 230.030 millones de dólares taiwaneses, una capitalización de mercado cercana al billón de dólares taiwaneses y alrededor de 30.000 empleados. No solo controla más del 90% del mercado de telefonía fija de Taiwán, sino que también ha desplegado inversiones en tecnologías emergentes como 5G, nube e IA, lo que la convierte en un actor clave de la infraestructura digital taiwanesa.
 
 ## Por qué es importante
 
-En la trayectoria del desarrollo económico de Taiwán, Chunghwa Telecom desempeña un papel único y clave. No solo es el puente digital que conecta Taiwán con el mundo, sino también un impulsor fundamental en la transición de Taiwán de una sociedad industrial a una sociedad de la información. Desde el monopolio estatal inicial de telecomunicaciones hasta convertirse hoy en una empresa líder frente a los desafíos de la transformación digital, el desarrollo de Chunghwa Telecom es un microcosmos de la modernización de la industria de telecomunicaciones de Taiwán.
+La evolución de Chunghwa Telecom, desde el monopolio estatal original de las telecomunicaciones hasta convertirse en una empresa líder que hoy enfrenta los desafíos de la transformación digital, resume la modernización del sector de telecomunicaciones de Taiwán.
 
-Cuando hablamos de la "resiliencia digital" de Taiwán, la red de infraestructura de Chunghwa Telecom es la base física de dicha resiliencia. Ya sea la red de banda ancha que sostuvo el teletrabajo en todo el país durante la pandemia de COVID-19, o la infraestructura que impulsa el desarrollo de ciudades inteligentes en la era 5G, Chunghwa Telecom desempeña un papel indispensable.
+Una parte sustancial de la “resiliencia digital” de Taiwán se apoya en la infraestructura de Chunghwa Telecom. Durante la pandemia de COVID-19, fue precisamente esta red de banda ancha la que sostuvo el trabajo remoto en toda la isla; la cobertura de las estaciones base 5G también proporcionó una base física confiable para la construcción de ciudades inteligentes.
 
-## Descripción general de la empresa
+Que una sola empresa pueda dar cuenta de la transición de las telecomunicaciones taiwanesas desde el monopolio hacia la competencia y luego hacia la era 5G la convierte en un caso imprescindible para observar la transformación industrial de Taiwán. Ese papel infraestructural determina que sus próximos pasos no solo afecten a la propia compañía, sino también a la orientación general del desarrollo digital taiwanés.
 
-Chunghwa Telecom Co., Ltd. se fundó el 1 de julio de 1996, como una empresa estatal surgida de la reestructuración de la Dirección General de Telecomunicaciones del Ministerio de Transporte, y completó su privatización en 2005. Como el mayor operador de telecomunicaciones de Taiwán, Chunghwa Telecom ofrece servicios integrales de telecomunicaciones que incluyen redes fijas, comunicaciones móviles, internet y comunicaciones de datos.
+## Panorama de la empresa
 
-La sede de la empresa se encuentra en el Distrito Xinyi de Taipéi, y cuenta con cientos de puntos de servicio en todo Taiwán. Además de los servicios tradicionales de telecomunicaciones, en los últimos años Chunghwa Telecom ha realizado una transformación activa, invirtiendo en áreas de tecnología emergente como computación en la nube, seguridad de la información, Internet de las Cosas e inteligencia artificial, con el objetivo de convertirse en el "mejor socio para la transformación digital".
+Chunghwa Telecom Co., Ltd. fue fundada el 1 de julio de 1996, a partir de la reorganización de la Dirección General de Telecomunicaciones del Ministerio de Transportes y Comunicaciones, y se constituyó como empresa estatal. En 2005 completó su privatización.
 
-## Datos clave: hablando con números
+La sede central de la compañía se encuentra en el distrito de Xinyi, en Taipéi, y cuenta con cientos de puntos de servicio en todo Taiwán. Además de sus servicios tradicionales de telecomunicaciones, en los últimos años Chunghwa Telecom se ha transformado para invertir en tecnologías emergentes como computación en la nube, ciberseguridad, internet de las cosas e inteligencia artificial.
+
+El desplazamiento de su centro de negocios refleja los cambios estructurales del mercado taiwanés de telecomunicaciones: mientras los servicios tradicionales de voz y mensajería SMS retroceden, la demanda de digitalización empresarial ha compensado la brecha de ingresos. Pasar de proveer “tuberías” de conectividad a integrar “soluciones” tomó a Chunghwa Telecom alrededor de una década.
+
+## Datos clave: lo que muestran las cifras
+
+Las cifras financieras de Chunghwa Telecom en 2024 reflejan la capacidad de una operadora histórica para mantener una rentabilidad estable bajo múltiples presiones de mercado.
+
+Aunque el negocio tradicional de telefonía fija se ha contraído, tres áreas emergentes —nube, IDC y ciberseguridad— crecieron respectivamente 46%, 62% y 56% interanual, suficiente para compensar la caída de las llamadas de voz.
+
+Su escala, con una capitalización de mercado cercana al billón de dólares taiwaneses, alrededor de 30.000 empleados y una utilidad por acción de 4,8 dólares taiwaneses, permite a Chunghwa Telecom conservar una posición dominante en el sector taiwanés de telecomunicaciones, aun cuando la competencia ya se ha extendido desde otras operadoras locales hacia proveedores internacionales de nube.
 
 **Escala operativa (datos de 2024)**
 
-- Ingresos anuales: 2.300,3 millones de yuanes taiwaneses (fuente: informe financiero de Chunghwa Telecom, 2024)
-- Capitalización de mercado: cerca de 9.300 millones de yuanes taiwaneses, la primera en la industria de telecomunicaciones de Taiwán (fuente: Diario Económico, 2024)
-- Número de empleados: unos 30.000 personas (fuente: sitio web oficial de Chunghwa Telecom, 2024)
-- Beneficio por acción: 4,8 yuanes, superando el límite superior de las previsiones financieras anuales (fuente: United Daily News, enero de 2025)
+- Ingresos anuales: 230.030 millones de dólares taiwaneses (fuente: estados financieros de Chunghwa Telecom, 2024)
+- Capitalización de mercado: cercana a 930.000 millones de dólares taiwaneses, la mayor del sector de telecomunicaciones de Taiwán (fuente: Economic Daily News, 2024)
+- Número de empleados: alrededor de 30.000 personas (fuente: sitio oficial de Chunghwa Telecom, 2024)
+- Utilidad por acción: 4,8 dólares taiwaneses, por encima del extremo superior de la proyección financiera anual (fuente: United Daily News, enero de 2025)
 
-**Posición en el mercado**
+**Posición de mercado**
 
-- Usuarios de telefonía fija: 9,061 millones de hogares, cuota de mercado superior al 90% (fuente: Wikipedia, abril de 2024)
-- Usuarios de banda ancha HiNet: 4,399 mil hogares (fuente: Wikipedia, abril de 2024)
-- Usuarios de comunicaciones móviles: unos 12 millones de hogares, siendo el mayor operador de telecomunicaciones móviles de Taiwán
-- Número de estaciones base 5G: el mayor de todo Taiwán, con una cobertura que lidera al sector
+- Usuarios de telefonía local: 9,061 millones de líneas, con una cuota de mercado superior al 90%[^2]
+- Usuarios de banda ancha HiNet: 4,399 millones[^2]
+- Usuarios de comunicaciones móviles: alrededor de 12 millones, la mayor operadora móvil de Taiwán
+- Número de estaciones base 5G: el mayor de Taiwán, con una cobertura líder frente a sus competidores
 
-**Desempeño innovador**
+**Desempeño en innovación**
 
-- Crecimiento anual del negocio de IDC: 62%, servicios en la nube: 46%, servicios de seguridad de la información: 56% (fuente: Chunghwa Telecom, enero de 2025)
-- Crecimiento anual de ingresos de la unidad de clientes empresariales: 24,1%, impulsado principalmente por el negocio de ICT
-- Primera solución integrada de puertos inteligentes con drones 5G de Taiwán
+- El negocio IDC creció 62% interanual, los servicios en la nube 46% y los servicios de ciberseguridad 56% (informe de resultados operativos del cuarto trimestre de 2024 de Chunghwa Telecom)[^4]
+- Los ingresos del grupo de negocios para clientes empresariales crecieron 24,1% interanual, impulsados principalmente por los servicios ICT
+- Primera solución integrada de puerto inteligente con drones 5G en Taiwán
 
-## Historia de desarrollo: la metamorfosis del monopolio a la competencia
+## Trayectoria: la transformación del monopolio a la competencia
 
 ### Período estatal (1996-2005)
 
-Los antecedentes de Chunghwa Telecom se remontan a la Sección de Comunicaciones de la Compañía de Electricidad de Taiwán, fundada en 1943, pasando por etapas como la Oficina de Telecomunicaciones de Taiwán y la Dirección General de Telecomunicaciones. El 1 de julio de 1996, para cumplir con la política de liberalización de las telecomunicaciones, la Dirección General de Telecomunicaciones se reestructuró en Chunghwa Telecom Co., Ltd., convirtiéndose en una empresa estatal.
+El antecedente de Chunghwa Telecom puede remontarse a la Administración de Telecomunicaciones de Taiwán, fundada en 1949, posteriormente renombrada Dirección General de Telecomunicaciones del Ministerio de Transportes y Comunicaciones[^1]. El 1 de julio de 1996, para acompañar la política de liberalización de las telecomunicaciones, la Dirección General de Telecomunicaciones fue reorganizada como Chunghwa Telecom Co., Ltd. y se convirtió en una empresa estatal.
 
-Durante este período, Chunghwa Telecom disfrutó de una posición de monopolio en redes fijas, siendo el único proveedor de servicios de telecomunicaciones de Taiwán. Aunque carecía de presión competitiva, la empresa invirtió fuertemente en infraestructura durante este tiempo, sentando una base sólida para la competencia abierta posterior.
+Durante este período, Chunghwa Telecom disfrutó de una posición monopólica en telefonía fija y fue el único proveedor de servicios de telecomunicaciones de Taiwán. Aunque carecía de presión competitiva, la compañía aprovechó esos años para ampliar su inversión en infraestructura, sentando una base sólida para la posterior competencia abierta.
 
 ### Período de competencia abierta (2005-2010)
 
-En agosto de 2005, completó su privatización, con la participación del gobierno reducida al 35,36%. Con la entrada de competidores como Taiwan Mobile y Far EasTone Telecommunications en el mercado, Chunghwa Telecom enfrentó una presión competitiva sin precedentes.
+En agosto de 2005, la venta de acciones por parte del gobierno redujo la participación pública por debajo del 50%, con lo que se completó formalmente la privatización[^2]. Posteriormente continuaron las ventas de acciones, y la participación estatal —del Ministerio de Finanzas y del Fondo Nacional de Desarrollo— se sitúa actualmente alrededor del 35%. Con la entrada al mercado de competidores como Taiwan Mobile y Far EasTone Telecommunications, Chunghwa Telecom enfrentó una presión competitiva sin precedentes.
 
-Durante este período, Chunghwa Telecom experimentó una transición de identidad de "monopolista" a "competidor". La empresa comenzó a priorizar la calidad del servicio, la experiencia del cliente y la capacidad de innovación, desarrollando gradualmente una mentalidad de gestión orientada al mercado.
+En esta etapa, Chunghwa Telecom atravesó una conversión de identidad: de “monopolista” a “competidor”. La empresa comenzó a dar mayor importancia a la calidad del servicio, la experiencia del cliente y la capacidad de innovación, y desarrolló una mentalidad de gestión orientada al mercado.
 
-### Período de transformación digital (2010 hasta la actualidad)
+### Período de transformación digital (2010 hasta hoy)
 
-Ante la popularización de los teléfonos inteligentes, el surgimiento de la generación nativa de internet y el desarrollo de la economía digital, Chunghwa Telecom inició una transformación digital integral. Pasó de ser un simple "proveedor de infraestructura" a un "integrador de servicios digitales".
-
-En los últimos años, con el surgimiento de tecnologías emergentes como 5G, IA e IoT, Chunghwa Telecom no solo ha invertido en infraestructura de red de nueva generación, sino que también ha desarrollado activamente soluciones empresariales, transformándose con éxito de un operador tradicional de telecomunicaciones a un proveedor integral de servicios de ICT.
+Ante la masificación de los teléfonos inteligentes, el surgimiento de generaciones nativas de internet y el desarrollo de la economía digital, Chunghwa Telecom inició su transformación digital: dejó de ser un simple “proveedor de tuberías” para convertirse en un “integrador de servicios digitales”. La compañía invirtió en infraestructura de red de nueva generación y desarrolló soluciones empresariales, lo que permitió que los servicios ICT, fuera de los ingresos tradicionales de telecomunicaciones, se convirtieran en una nueva fuente de ingresos.
 
 ## Influencia global: el puente que conecta Taiwán con el mundo
 
-### Red de cables submarinos internacionales
+### Red internacional de cables submarinos
 
-Chunghwa Telecom ha invertido y participado en la construcción de múltiples cables submarinos internacionales, incluyendo el APCN-2 (Asia-Pacific Cable Network 2), SEA-ME-WE 3 (South East Asia-Middle East-Western Europe 3), TPE (Trans-Pacific Express) y otros sistemas de cables importantes. Estas inversiones no solo garantizan la estabilidad de la conexión entre Taiwán y el resto del mundo, sino que también convierten a Taiwán en un nodo digital clave en la región de Asia-Pacífico.
+Chunghwa Telecom ha invertido y participado en la construcción de múltiples cables submarinos internacionales, incluidos sistemas importantes como Asia Pacific Cable Network 2 (APCN-2), South-East Asia–Middle East–Western Europe 3 (SEA-ME-WE 3) y Trans-Pacific Express (TPE). Estas inversiones no solo aseguran la estabilidad de la conexión entre Taiwán y el mundo, sino que también hacen de Taiwán un importante nodo digital de la región Asia-Pacífico.
 
-### Presencia internacional de la empresa
+### Despliegue empresarial en el exterior
 
-Chunghwa Telecom ha establecido filiales u oficinas en Estados Unidos, Japón, Vietnam, Tailandia y otros lugares, ofreciendo servicios de telecomunicaciones locales a las empresas taiwanesas en el extranjero y ayudando a empresas internacionales a ingresar al mercado taiwanés. Especialmente en el sudeste asiático, la experiencia y la exportación de tecnología de Chunghwa Telecom se han convertido en una manifestación importante del poder blando de Taiwán.
+Chunghwa Telecom ha establecido filiales u oficinas en Estados Unidos, Japón, Vietnam, Tailandia y otros lugares, ofreciendo servicios locales de telecomunicaciones a empresas taiwanesas y ayudando a compañías internacionales a entrar en el mercado de Taiwán. En particular en el Sudeste Asiático, Chunghwa Telecom ha apoyado a empresas taiwanesas en el establecimiento de servicios locales de telecomunicaciones y también ha exportado cierto grado de tecnología ICT y experiencia en integración de sistemas.
 
 ### Participación en estándares técnicos
 
-Como representante de Taiwán, Chunghwa Telecom participa activamente en la formulación de estándares internacionales de telecomunicaciones, incluyendo áreas de tecnología emergente como 5G, IoT e IA. Esta participación no solo mejora el peso de Taiwán en la industria internacional de telecomunicaciones, sino que también garantiza que el desarrollo tecnológico de Taiwán esté alineado con el nivel internacional.
+Como representante de Taiwán, Chunghwa Telecom participa en la elaboración de estándares internacionales de telecomunicaciones, abarcando ámbitos tecnológicos emergentes como 5G, IoT e IA, para asegurar que el desarrollo tecnológico taiwanés se mantenga conectado con el entorno internacional.
 
-## Capacidad innovadora: líder en la transformación digital de Taiwán
+## Capacidad de innovación: liderar la transformación digital de Taiwán
 
 ### Construcción del ecosistema 5G
 
-Chunghwa Telecom no solo fue uno de los primeros en obtener licencias 5G en Taiwán, sino que también construye activamente un ecosistema 5G. Desde fabricación inteligente, atención médica inteligente hasta ciudades inteligentes, Chunghwa Telecom colabora con socios industriales para desarrollar diversos escenarios de aplicación 5G, impulsando la transformación digital de la industria taiwanesa.
+Chunghwa Telecom fue una de las primeras adjudicatarias de licencias 5G en Taiwán y ha colaborado con socios industriales para desarrollar escenarios de aplicación 5G en manufactura inteligente, salud inteligente y ciudades inteligentes, impulsando la transformación digital de la industria taiwanesa.
 
 ### IA y servicios en la nube
 
-A través de sus salas de servidores en la nube y plataforma de IA propias, Chunghwa Telecom ofrece soluciones integrales de transformación digital a clientes empresariales. Su asistente de IA "servicio al cliente inteligente" y su sistema ERP en la nube se han convertido en herramientas clave para la digitalización de las pequeñas y medianas empresas de Taiwán.
+A través de centros de datos en la nube y plataformas de IA construidos por la propia empresa, Chunghwa Telecom ofrece a clientes empresariales soluciones integrales de transformación digital. Su asistente de IA, “servicio al cliente inteligente”, y sus sistemas ERP en la nube se han convertido en herramientas importantes para la digitalización de las pequeñas y medianas empresas taiwanesas.
 
-### Sistema de protección de seguridad de la información
+### Sistema de protección de ciberseguridad
 
-Ante las crecientes amenazas de ciberseguridad, Chunghwa Telecom ha establecido un sistema integral de protección de seguridad de la información, que no solo protege la seguridad de su propia red, sino que también ofrece servicios de seguridad de la información a agencias gubernamentales y clientes empresariales. Su crecimiento anual del 56% en servicios de seguridad de la información refleja la fuerte demanda del mercado por servicios profesionales en este campo.
+Chunghwa Telecom ha construido un sistema de protección de ciberseguridad que abarca desde el monitoreo de amenazas y las pruebas de penetración hasta la respuesta a incidentes, ofreciendo servicios de ciberseguridad a organismos gubernamentales y clientes empresariales. El crecimiento anual de 56% de sus servicios de ciberseguridad muestra la fuerte demanda de apoyo profesional en esta área por parte de las empresas taiwanesas durante su proceso de digitalización.
 
-## Responsabilidad social: reduciendo la brecha digital
+## Responsabilidad social: reducir la brecha digital
 
-### Construcción de banda ancha en zonas rurales
+### Construcción de banda ancha en zonas rurales y remotas
 
-A pesar de la rentabilidad comercial limitada, Chunghwa Telecom continúa invirtiendo en la construcción de banda ancha en zonas rurales, asegurando que la brecha digital entre zonas urbanas y rurales no se amplíe. Este espíritu de "servicio universal" refleja el sentido de responsabilidad social de su origen como empresa estatal.
+Aunque los beneficios comerciales sean limitados, Chunghwa Telecom sigue invirtiendo en la construcción de banda ancha en zonas rurales y remotas, para asegurar que la brecha digital entre zonas urbanas y rurales no se amplíe. Este espíritu de “servicio universal” refleja el sentido de responsabilidad social heredado de su origen como empresa estatal.
 
 ### Promoción de la educación digital
 
-A través de la plataforma "HiNet Aprendizaje Digital" y diversos cursos de alfabetización digital, Chunghwa Telecom ayuda a la población a adaptarse a la era digital. Especialmente durante la pandemia de COVID-19, proporcionó recursos educativos en línea gratuitos para apoyar las necesidades de enseñanza a distancia en todo Taiwán.
+A través de la plataforma “HiNet Digital Learning” y diversos cursos de alfabetización digital, Chunghwa Telecom ayuda a la ciudadanía a adaptarse a la era digital. En particular durante la pandemia de COVID-19, ofreció gratuitamente recursos de enseñanza en línea para apoyar las necesidades de educación a distancia en todo Taiwán.
 
-### Desarrollo sostenible y protección ambiental
+### Sostenibilidad ambiental
 
-Chunghwa Telecom se ha comprometido a alcanzar la neutralidad de carbono para 2030, e invierte activamente en instalaciones ambientales como salas de servidores verdes y energías renovables. Como el mayor operador de infraestructura de telecomunicaciones de Taiwán, sus esfuerzos ambientales tienen un efecto demostrativo en toda la industria.
+Chunghwa Telecom se ha comprometido a alcanzar la neutralidad de carbono en 2030, invirtiendo en centros de datos verdes e instalaciones de energía renovable. El consumo eléctrico de sus miles de estaciones base en todo Taiwán es el principal objetivo de reducción de carbono. Como mayor operador de infraestructura de telecomunicaciones de Taiwán, sus prácticas ambientales tienen un efecto demostrativo para todo el sector.
 
-## Desafíos a enfrentar
+## Desafíos
 
 ### Declive de los negocios tradicionales
 
-Con la popularización de las aplicaciones de mensajería y el cambio en los estilos de vida, los negocios tradicionales de telefonía fija y larga distancia continúan en declive. Aunque estos negocios siguen siendo una fuente de ingresos estable para Chunghwa Telecom, la tendencia a largo plazo es irreversible.
+Con la difusión del software de comunicación y los cambios en los estilos de vida, los negocios tradicionales de telefonía local y de larga distancia han retrocedido durante años consecutivos. En 2024, los ingresos por voz de la red fija ya habían caído a un porcentaje de un solo dígito dentro de los ingresos totales. Aunque todavía generan un flujo de caja mensual estable, esta tendencia difícilmente pueda revertirse.
 
 ### Presión de inversión en 5G
 
-La construcción de redes 5G requiere grandes inversiones de capital, pero el modelo de negocio aún está en fase de exploración. Cómo mantener la rentabilidad mientras se invierte en infraestructura 5G
+La construcción de redes 5G requiere una gran inversión de capital, pero el modelo de negocios aún está en fase de exploración. Aunque existen pedidos para redes privadas empresariales 5G y aplicaciones de manufactura inteligente, en el mercado de consumo todavía no se ha consolidado una aplicación decisiva. Mantener la rentabilidad mientras se invierte en infraestructura es uno de los grandes desafíos de Chunghwa Telecom.
+
+### Necesidad de transformación del talento
+
+El paso desde tecnologías tradicionales de telecomunicaciones hacia nuevos campos como IA, nube y ciberseguridad requiere una gran cantidad de talento con capacidades interdisciplinarias. Entre los aproximadamente 30.000 empleados de Chunghwa Telecom, muchas competencias centrales están vinculadas a la operación y mantenimiento de redes fijas o a las comunicaciones móviles. Cómo cubrir esas brechas mediante programas de capacitación y contratación externa es un desafío de recursos humanos de mediano y largo plazo.
+
+### Intensificación de la competencia
+
+La competencia que enfrenta Chunghwa Telecom ya no proviene únicamente de otras operadoras como Taiwan Mobile o Far EasTone Telecommunications. Los servicios en la nube de gigantes tecnológicos internacionales como Google y Amazon, así como los nuevos proveedores OTT, también están dividiendo el mercado de ingresos tradicionales por conectividad de Chunghwa Telecom. En el mercado de la nube, la escala y la inversión en investigación y desarrollo de estos proveedores extranjeros superan ampliamente a las de Chunghwa Telecom.
+
+## Perspectivas futuras
+
+### Estrategia de prioridad a la IA
+
+Chunghwa Telecom anunció que en 2025 “activará el futuro con IA” y planea introducir tecnologías de IA en todos sus procesos de negocio. Desde el servicio al cliente y la operación y mantenimiento de redes hasta el desarrollo de nuevos productos, la IA se convertirá en el núcleo de la ventaja competitiva de la empresa.
+
+### Ecosistema, internacionalización y sostenibilidad
+
+Otra dirección de Chunghwa Telecom es la estrategia de “plataforma abierta”: mediante API, permitirá que más empresas desarrollen servicios innovadores sobre su infraestructura, transformándose de una operadora de telecomunicaciones aislada en un nodo central de una plataforma ecosistémica. En el mercado internacional, la empresa planea exportar al Sudeste Asiático la experiencia de transformación digital acumulada en Taiwán y convertirse en un proveedor regional de servicios ICT. La sostenibilidad también ha sido incorporada como objetivo central: además del compromiso de neutralidad de carbono, la compañía impulsa la inclusión digital para asegurar que los grupos vulnerables no queden excluidos de la ola de digitalización.
+
+La historia de Chunghwa Telecom es una síntesis de tres décadas en las que la industria taiwanesa de comunicaciones pasó del monopolio a la competencia y luego a la transformación. Desde la fibra óptica en zonas rurales y remotas hasta la salud inteligente 5G, el próximo paso de esta empresa también influirá en la dirección general de la infraestructura digital de Taiwán.
+
+---
+
+## Referencias
+
+[^1]: [Museo Digital de Telecomunicaciones — Historia del desarrollo de las telecomunicaciones en Taiwán](https://telecom.nstm.gov.tw/Development) — Desde la fundación de la Administración de Telecomunicaciones de Taiwán (1949) hasta el proceso de reorganización como Chunghwa Telecom
+
+[^2]: [Wikipedia — Chunghwa Telecom](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1) — Cronograma de privatización, estructura accionaria e historia corporativa
+
+[^3]: [Chunghwa Telecom — Acerca de Chunghwa](https://www.cht.com.tw/zh-tw/home/cht/about-cht/introduction/about-cht) — Propósito de fundación, alcance de negocios e hitos de desarrollo de la empresa
+
+[^4]: [Chunghwa Telecom — Informe de resultados operativos del cuarto trimestre de 2024](https://www.cht.com.tw/) — Desempeño financiero y datos de negocios de 2024
+
+[^5]: [Chunghwa Telecom — Principales accionistas](https://www.cht.com.tw/zh-tw/home/cht/investors/shareholder-services/shareholder) — Situación actual de la participación accionaria del gobierno (Ministerio de Finanzas y Fondo Nacional de Desarrollo)

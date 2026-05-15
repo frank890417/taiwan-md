@@ -1,168 +1,178 @@
 ---
-translatedFrom: 'Economy/台灣企業：國泰金控.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:15d9f13b5613c8cd'
-sourceBodyHash: 'sha256:d03224ca8bd3574e'
-translatedAt: '2026-05-01T15:38:13+08:00'
-title: 'Taiwan Enterprise: Cathay Financial Holdings'
-description: "Taiwan's largest financial holding company — the financial empire built by the Lin Yuan Group"
+title: 'Taiwanese Enterprise: Cathay Financial Holdings'
+description: "Taiwan's largest financial holding group, a financial empire built by the Lin Yuan Group"
 date: 2026-03-20
+author: 'Taiwan.md'
+category: 'Economy'
+subcategory: '企業列傳'
 tags:
   [
     'Economy',
-    'enterprises',
-    'financial industry',
-    'financial holding companies',
-    'banking',
-    'insurance',
+    'Enterprise',
+    'Financial Industry',
+    'Financial Holding Company',
+    'Banking',
+    'Insurance',
   ]
-subcategory: 'Enterprise Chronicles'
-author: Taiwan.md
 readingTime: 8
-featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-category: Economy
+featured: false
+translatedFrom: 'Economy/台灣企業：國泰金控.md'
+sourceCommitSha: '24efd20f3'
+sourceContentHash: 'sha256:4749f0faadb8e7bf'
+sourceBodyHash: 'sha256:ebc33c96c44483b0'
+translatedAt: '2026-05-15T13:52:05+08:00'
 ---
 
 > **30-Second Overview**
 >
-> Cathay Financial Holdings is Taiwan's largest financial holding company, with total assets of NT$12 trillion, encompassing subsidiaries including Cathay Life Insurance, Cathay United Bank, and Cathay Century Insurance. In November 2025, single-month profits reached NT$14.62 billion, claiming the top spot for profits for two consecutive months. Starting from Tsai Wan-tsai's founding of Cathay Life Insurance in 1962, it developed into a financial empire spanning insurance, banking, securities, and investment trust — an important driver of Taiwan's financial industry development.
+> Cathay Financial Holdings is Taiwan's largest financial holding company, with total assets of NT$12 trillion and subsidiaries including Cathay Life Insurance, Cathay United Bank, and Cathay Century Insurance. In November 2025, it posted monthly profit of NT$14.62 billion, taking the top profit spot for the second consecutive month. Beginning with the founding of Cathay Life Insurance by brothers Tsai Wan-chun and Tsai Wan-lin in 1962, the group developed into a financial empire spanning insurance, banking, securities, and investment trust businesses, making it an important driver in the history of Taiwan's financial industry.
 
 ## Why It Matters
 
-Cathay Financial Holdings' importance lies not only in its scale, but in its profound influence on Taiwan's financial industry. It was Taiwan's first private life insurance company, pioneering Taiwan's insurance industry; it was also one of the earliest operators to establish a financial holding structure, leading the trend of integration in Taiwan's financial industry.
+The significance of Cathay Financial Holdings lies not only in its scale, but also in its far-reaching influence on Taiwan's financial industry. It was Taiwan's first privately owned life insurance company, opening a new chapter for Taiwan's insurance sector; it was also among the earliest firms to establish a financial holding company structure, leading the integration trend in Taiwan's financial industry.
 
-In the process of Taiwan's financial liberalization, Cathay Financial Holdings has played an important role. Starting from insurance, expanding into banking and securities, Cathay has established a comprehensive financial services system. For ordinary citizens, Cathay may be the first insurance company they encounter, or the primary bank they use.
+In the course of Taiwan's financial liberalization, Cathay Financial Holdings played a key role. Starting from life insurance and expanding into banking and securities, Cathay built a financial services system covering insurance, banking, and investment. For ordinary people in Taiwan, Cathay may have been the first insurance company they encountered, or it may be the main bank they use.
 
-More importantly, Cathay Financial Holdings represents the strength of Taiwan's domestic financial industry. In a competitive environment with international banks everywhere, Cathay's ability to maintain its leading position proves that Taiwan's financial industry possesses international competitiveness.
+Cathay Financial Holdings represents the strength of Taiwan's domestic financial industry. In a competitive environment crowded with foreign banks, Cathay's ability to maintain its leading position demonstrates that Taiwan's financial industry possesses international competitiveness.
 
-## Enterprise Overview
+## Corporate Overview
 
-Cathay Financial Holding Co., Ltd. was established in 2001, the first financial holding company established after Taiwan's Financial Holding Company Act was passed. The group started in insurance and currently operates major subsidiaries including Cathay Life Insurance, Cathay United Bank, Cathay Century Insurance, Cathay Securities, Cathay SITE, and Cathay Investment Advisory.
+Cathay Financial Holding Co. was established in 2001 and was the first financial holding company founded after Taiwan's Financial Holding Company Act was passed[^5]. The group began in the insurance business; its main subsidiaries today include Cathay Life Insurance, Cathay United Bank, Cathay Century Insurance, Cathay Securities, Cathay SITE, and Cathay Securities Investment Consulting.
 
-Cathay Financial Holdings' core competitiveness lies in "comprehensive financial services." Customers can enjoy one-stop financial services within the Cathay system — from insurance and banking to investment and wealth management. This cross-selling model not only increases customer stickiness but also dramatically reduces customer acquisition costs.
+Cathay Financial Holdings' core competitiveness lies in "integrated financial services." Customers can receive one-stop financial services within the Cathay system, from insurance and banking to investment and wealth management. This cross-selling model not only increases customer stickiness, but also substantially reduces customer acquisition costs.
 
-The group's operational strategy focuses on "digital transformation" and "sustainable finance." Through technological innovation to improve service efficiency, while actively promoting ESG investment and green finance, hoping to become a leading sustainable finance institution in Asia.
+The group's operating strategy focuses on "digital transformation" and "sustainable finance." Through technological innovation, it seeks to improve service efficiency, advance ESG investment and green finance, and become a leading sustainable financial institution in Asia.
 
-## Key Facts (Let the Numbers Speak)
+## Key Facts: By the Numbers
 
-**Group Scale:**
+Several figures illustrate Cathay Financial Holdings' position in Taiwan's financial industry: NT$12 trillion in total assets, ranking first among Taiwan's financial holding companies; Cathay Life Insurance's leading share of the life insurance market; and NT$14.6 billion in profit in November 2025, making it the month's profit champion.
 
-- Total assets: NT$12 trillion, Taiwan's largest financial holding company (Wikipedia, July 3, 2025)
-- Market capitalization: approximately NT$700 billion (estimated March 2026)
-- Number of employees: approximately 50,000 (including overseas locations)
+These figures are the result of more than six decades of accumulation. From its start in life insurance in 1962, to its bank merger in 2003, to the launch of the digital brand KOKO in 2016, each turning point in Cathay's development has left a benchmark record in Taiwan's financial industry.
 
-**Profitability:**
+The group's overall ROE remains around 10-12%, placing it in the upper tier of the industry in an era of low interest rates and reflecting the effectiveness of its asset allocation and cost control.
 
-- November 2025 single-month after-tax net profit: NT$14.62 billion, claiming top spot for profits for two consecutive months
-- Cumulative profit for first 11 months of 2025: estimated approximately NT$140 billion
-- ROE (return on equity): approximately 10–12%
+**Group Scale**:
 
-**Market Position:**
+- Total assets: NT$12 trillion, Taiwan's largest financial holding company[^2]
+- Market capitalization: Approximately NT$700 billion (estimated in March 2026)
+- Employees: Approximately 50,000 people (including overseas locations)
 
-- Insurance: Cathay Life Insurance is Taiwan's No. 1 domestic life insurer by market share
-- Banking: Cathay United Bank is Taiwan's third-largest private commercial bank
-- Property insurance: Cathay Century Insurance is among Taiwan's top three property insurers
-- Overall: described as a "key Asia regional banking group" by the Taiwan Academy of Banking and Finance
+**Profitability**:
 
-**Digital Transformation Results:**
+- November 2025 monthly net income after tax: NT$14.62 billion, taking the top profit spot for the second consecutive month[^3]
+- Cumulative profit for the first 11 months of 2025: Estimated at approximately NT$140 billion
+- ROE (return on equity): Approximately 10-12%
 
-- Cathay United Bank App downloads exceeding 5 million times
-- Digital account opening numbers continue to grow
-- AI customer service system handles over 60% of customer inquiries
+**Market Position**:
 
-**International Footprint:**
+- Life insurance: Cathay Life Insurance is Taiwan's domestic life insurer with the largest market share
+- Banking: Cathay United Bank is Taiwan's third-largest privately owned bank
+- Property and casualty insurance: Cathay Century Insurance is one of Taiwan's top three property and casualty insurers
+- Overall: Described by the Taiwan Academy of Banking and Finance as a "key Asian regional banking group"
 
-- Presence in mainland China, Hong Kong, Singapore, Vietnam, Indonesia, and other locations
-- Important position in the Chinese market, cooperating with local operators
+**Digital Transformation Results**:
 
-## Development History: From Insurance Pioneer to Financial Holding Leader
+- Cathay United Bank's app has been downloaded more than 5 million times
+- The number of digital account openings grows year after year
+- AI customer service systems handle more than 60% of customer inquiries
 
-**Founding Period (1962–1980):**
-In 1962, Tsai Wan-tsai (蔡萬才) and brother Tsai Chen-chou (蔡辰洲) founded "Cathay Life Insurance Company," Taiwan's first private life insurance company. The name "Cathay" (國泰) carries the meaning of "national prosperity and peace," reflecting the founders' confidence in Taiwan's future development.
+**International Footprint**:
 
-The founding period faced numerous challenges. Taiwanese citizens at the time had insufficient understanding of insurance, making business promotion difficult. Tsai Wan-tsai employed a "people-wave" strategy, extensively training sales representatives who traveled across Taiwan to spread insurance concepts. This "feet-on-the-ground" management approach laid the foundation for Cathay's deep penetration into the community.
+- Locations in mainland China, Hong Kong, Singapore, Vietnam, Indonesia, and other markets
+- Holds an important position in the Chinese market and operates in cooperation with local firms
 
-In the 1970s, Taiwan's economy took off, citizens' incomes rose, and demand for insurance began to increase. Cathay seized the opportunity to expand rapidly, establishing a service network spanning all of Taiwan.
+## Development History: From Life Insurance Pioneer to Financial Holding Leader
 
-**Diversification Period (1980–2000):**
-In the 1980s, Cathay began diversified operations. In 1981, Cathay Construction was established, venturing into real estate; in 1987, Cathay Securities entered the capital markets; in the 1990s, it further entered the media business, acquiring the China Times Evening News and other media assets.
+**Founding Period (1962-1980)**:
+In 1962, Tsai Wan-chun (the eldest brother) and Tsai Wan-lin jointly founded "Cathay Life Insurance Company"[^1], Taiwan's first privately owned life insurance company. The choice of the name "Cathay" implied "national prosperity and peace," reflecting the founders' confidence in Taiwan's future development. Tsai Wan-tsai was the fourth brother and later founded the Fubon Group separately; Tsai Chen-chou was the son of Tsai Wan-chun, from the next generation, and was not a co-founder.
 
-This period saw Cathay form the "Lin Yuan Group" structure, with businesses spanning finance, construction, and media. Tsai Wan-tsai was revered as "Taiwan's godfather of finance," and Cathay became one of Taiwan's most influential enterprise groups.
+The early years brought numerous challenges. At the time, the public in Taiwan had limited understanding of insurance, making business development difficult. Tsai Wan-tsai adopted a "human-wave" sales approach, training large numbers of agents who traveled across Taiwan to promote the concept of insurance. This down-to-earth operating method allowed Cathay's insurance business to penetrate grassroots society.
 
-In 1992, Cathay Life Insurance and US MetLife jointly established "Cathay MetLife," Taiwan's insurance industry's first international cooperation case — symbolizing the beginning of Cathay's internationalization.
+As Taiwan's economy took off in the 1970s and incomes rose, demand for insurance began to increase. Cathay seized the opportunity to expand rapidly and built a service network spanning all of Taiwan.
 
-**Financial Holding Era (2001–2010):**
-When the Financial Holding Company Act was passed in 2001, Cathay immediately applied to establish a holding company, becoming Taiwan's first financial holding company. This decision demonstrated Cathay's foresight and execution capability.
+**Diversification Period (1980-2000)**:
+In the 1980s, Cathay began diversifying its operations. In 1981, it established Cathay Real Estate and entered the property sector; in 1987, it established Cathay Securities and entered the capital markets; in the 1990s, it further expanded into media, acquiring media assets such as China Times Express.
 
-After the holding company was established, Cathay actively integrated its financial businesses. In 2003, it merged Cathay Trust and World Hua Bank to establish "Cathay United Bank," formally entering the banking industry. This merger made Cathay's financial services footprint more complete.
+During this period, Cathay formed the structure of the "Lin Yuan Group," with businesses spanning finance, construction, media, and other fields. Tsai Wan-lin was respectfully known as the "doyen of Taiwan's insurance industry," and Cathay became one of Taiwan's most influential corporate groups.
 
-In 2007, the global financial crisis erupted, but Cathay — with its conservative investment strategy — was relatively lightly affected. It instead seized the opportunity, with competitors weakened, to expand market share.
+In 1992, Cathay Life Insurance and MetLife of the United States jointly established "Cathay MetLife," the first international partnership case in Taiwan's insurance industry and a symbol of Cathay's move toward internationalization.
 
-**Transformation Period (2010–Present):**
-After 2010, Taiwan's financial industry entered a low-interest-rate era, with traditional business growth slowing. Cathay began promoting digital transformation, investing heavily in financial technology.
+**Financial Holding Era (2001-2010)**:
+After the Financial Holding Company Act was passed in 2001, Cathay immediately applied to establish a financial holding company, becoming Taiwan's first such company. This decision demonstrated Cathay's foresight and execution capacity.
 
-In 2016, Cathay United Bank launched the "KOKO" digital banking brand, targeting young customers. Through innovative digital experiences and community marketing, KOKO successfully penetrated the youth market, becoming a benchmark for Taiwan's digital finance.
+After the financial holding company was established, Cathay systematically integrated its financial businesses. In 2003, it merged Cathay Trust and United World Chinese Commercial Bank to form "Cathay United Bank," formally entering the banking industry. This merger made Cathay's financial services map more comprehensive.
 
-In recent years Cathay has more actively promoted sustainable finance, committing to net-zero portfolio emissions by 2050. In 2021, it issued Taiwan's first sustainable development bond, leading the development of Taiwan's green finance.
+The global financial crisis erupted in 2007, but because of its conservative investment strategy, Cathay suffered relatively limited damage. It instead expanded its market share while competitors were weakened.
 
-## Global Influence: Representative of Taiwan's Financial Industry
+**Transformation Period (2010-Present)**:
+After 2010, Taiwan's financial industry entered an era of low interest rates, and growth in traditional businesses slowed. Cathay began advancing digital transformation and investing in financial technology.
 
-**Insurance Industry Innovator:**
-Cathay Life Insurance is not only Taiwan's first private life insurance company but also an innovator in many insurance products and service models. From early endowment insurance to recent investment-linked policies, Cathay has always been able to quickly launch products meeting market needs.
+In 2016, Cathay United Bank launched the "KOKO" digital banking brand, targeting younger customers. Through innovative digital experiences and social media marketing, KOKO successfully entered the youth market and became a benchmark for digital finance in Taiwan.
 
-Its sales representative training system is considered a model by the industry, having trained tens of thousands of insurance professionals. These talents shine not only within Cathay but spread throughout the entire insurance industry, driving the professional development of Taiwan's insurance industry.
+In recent years, Cathay has promoted sustainable finance and pledged to achieve net-zero emissions in its investment portfolio by 2050. In 2021, it issued sustainability-linked bonds, advancing the development of green finance in Taiwan.
 
-**Digital Finance Leader:**
-Cathay started its digital transformation relatively early, with relatively impressive results. The success of the KOKO digital bank proves that traditional financial institutions can also find new growth momentum in the digital age.
+## Global Influence: A Representative of Taiwan's Financial Industry
 
-Its AI applications are also at the forefront — from intelligent customer service to credit evaluation, from investment advice to risk management, AI technology is widely applied in various financial services. These innovative experiences provide important reference for the digital transformation of Taiwan's financial industry.
+**Insurance Industry Innovator**:
+Cathay Life Insurance is not only Taiwan's first privately owned life insurance company, but also an innovator in many insurance products and service models. From early savings insurance to more recent investment-linked policies, Cathay has consistently been able to launch products that meet market demand quickly.
 
-**Sustainable Finance Promoter:**
-Cathay is an active promoter of Taiwan's sustainable finance. It not only incorporates ESG considerations into investment decisions but also proactively launches green financial products, supporting Taiwan's sustainable development.
+Its agent training system is regarded as a model by the industry and has cultivated tens of thousands of insurance professionals. These professionals have not only thrived within Cathay, but also spread throughout the insurance industry, promoting the professional development of Taiwan's insurance sector.
 
-In 2021, Cathay Life Insurance announced it would no longer make new coal-related investments, becoming the first Taiwanese insurance company to make such a commitment. This decision has important symbolic significance for Taiwan's energy transition.
+**Digital Finance Leader**:
+Cathay began its digital transformation relatively early, and its results have also been comparatively strong. The success of KOKO digital banking demonstrates that traditional financial institutions can also find new growth momentum in the digital era.
 
-## Challenges and Prospects
+Its AI applications are also at the forefront, spanning intelligent customer service, credit assessment, investment advice, and risk management. AI technology has been widely applied across financial services. These innovation experiences have provided important reference points for the digital transformation of Taiwan's financial industry.
 
-**Low-Interest-Rate Environment Challenges:**
-The long-term low-interest-rate environment creates serious challenges for the life insurance industry. Cathay Life Insurance's traditional savings insurance business has been impacted, requiring adjustment of product structure and development of more diversified product combinations.
+**Sustainable Finance Promoter**:
+Cathay is a pioneer in sustainable finance in Taiwan. It incorporates ESG considerations into investment decisions, proactively launches green financial products, and supports Taiwan's sustainable development.
 
-At the same time, interest spreads in banking are also compressed; Cathay United must increase the proportion of fee income and reduce operating costs through digitalization.
+In 2021, Cathay Life Insurance announced that it would no longer add new coal-related investments, becoming the first insurance company in Taiwan to make this commitment[^4]. This decision carried important symbolic significance for Taiwan's energy transition.
 
-**Adapting to Regulatory Changes:**
-The financial industry is highly regulated; regulatory changes greatly impact business. From the RBC (Risk-Based Capital) system in insurance to the Basel Accord in banking, Cathay must continuously invest in compliance management.
+## Challenges and Outlook
 
-In particular, sustainable finance regulations are increasingly strict; Cathay needs to establish comprehensive ESG evaluation and reporting systems.
+**Challenges from the Low-Interest-Rate Environment**:
+A prolonged low-interest-rate environment has created serious challenges for the life insurance industry. Cathay Life Insurance's traditional savings insurance business has been affected, requiring it to adjust its product structure and broaden its product portfolio.
 
-**Intensified Digital Competition:**
-The rise of FinTech operators and pure digital banks creates competitive pressure on traditional financial institutions. While Cathay has performed reasonably well in digital transformation, it must continue innovating to maintain competitive advantages.
+At the same time, spreads in the banking business have also been compressed. Cathay United Bank must raise the share of fee income and reduce operating costs through digitalization.
 
-Especially as younger customers increasingly value digital experiences, Cathay must continuously improve the convenience and innovation of digital services.
+**Adapting to Regulatory Change**:
+Finance is a highly regulated industry, and regulatory changes have major effects on business operations. From the insurance industry's RBC (risk-based capital) system to the Basel Accords in banking, Cathay must invest in compliance management.
 
-**Geopolitical Risk:**
-Cathay has significant business in mainland China; changes in US-China relations may affect its international footprint. How to maintain stable operations in a complex geopolitical environment is an important challenge.
+As regulations related to sustainable finance become stricter, Cathay needs to establish comprehensive ESG assessment and reporting systems.
 
-**Looking Ahead:**
-Facing challenges, Cathay Financial Holdings proposes several key strategic directions:
+**Intensifying Digital Competition**:
+The rise of FinTech firms and internet-only banks has created competitive pressure for traditional financial institutions. Although Cathay has performed well in digital transformation, it still needs to launch new functions to maintain its competitive advantage.
 
-1. **Deepening digital transformation:** continuing to invest in financial technology, improving digital service quality, and developing new digital products
-2. **Strengthening wealth management:** in a low-interest-rate environment, wealth management becomes an important profit source
-3. **Advancing sustainable finance:** integrating ESG concepts into all businesses to become a leader in sustainable finance
-4. **Optimizing customer experience:** using big data and AI technology to provide more personalized financial services
-5. **Prudent international deployment:** more carefully evaluating overseas investment opportunities amid geopolitical risk
+Younger customers increasingly value digital experiences, and Cathay must improve the convenience and innovativeness of its digital services.
 
-Cathay Financial Holdings' success is not only the achievement of one enterprise, but represents the strength of Taiwan's financial industry. In an era of rapid global financial change, whether Cathay can continue to innovate and adapt will influence the international competitiveness of Taiwan's financial industry.
+**Geopolitical Risk**:
+Cathay has important operations in mainland China, and changes in U.S.-China relations could affect its international footprint. Maintaining business stability in a complex geopolitical environment is an important challenge.
 
-From the small insurance company Tsai Wan-tsai founded to today's financial empire, Cathay's story witnesses the development trajectory of Taiwan's financial industry. In the new era, Cathay is striving to transform from "traditional financial operator" to "digital sustainable finance leader" — the success or failure of this transformation will provide important insights for the future of Taiwan's financial industry.
+**Future Outlook**:
+Facing these challenges, Cathay Financial Holdings has proposed several important strategic directions:
+
+1. **Deepen digital transformation**: Continue investing in financial technology, improve the quality of digital services, and develop new digital products
+2. **Strengthen wealth management**: In a low-interest-rate environment, wealth management becomes an important source of profit
+3. **Advance sustainable finance**: Integrate ESG principles into all businesses and become a leader in sustainable finance
+4. **Optimize customer experience**: Use big data and AI technologies to provide more personalized financial services
+5. **Pursue prudent international expansion**: Under geopolitical risk, evaluate overseas investment opportunities more cautiously
+
+The success of Cathay Financial Holdings is not only the achievement of a single enterprise; it also represents the strength of Taiwan's financial industry. In an era of rapid global financial change, whether Cathay can find new profit engines and adapt to change will affect the international competitiveness of Taiwan's financial industry.
+
+From the life insurance company founded by brothers Tsai Wan-chun and Tsai Wan-lin to today's financial empire, Cathay's story bears witness to the development trajectory of Taiwan's financial industry. In the new era, Cathay is working to transform itself from a "traditional financial institution" into a "digital and sustainable finance leader." The success or failure of this transformation will provide important lessons for the future of Taiwan's financial industry.
 
 ---
 
 ## References
 
-- Digital Times: Analysis of 13 financial holding companies' profits — Cathay Financial earns NT$14.62 billion in single month, claims top spot (December 11, 2025)
-- CNyes: 13 financial holding companies' profit rankings, Cathay Financial remains single-month profit king (December 2025)
-- Wikipedia: Cathay Financial Holdings (updated July 3, 2025)
-- StatementDog: Financial holding company concept stocks total assets ranking (March 2026)
-- Smart Learning Network: Fubon Financial, Cathay Financial, CTBC Financial first 10-month profit analysis (November 2025)
+[^1]: [Wikipedia — Tsai Wan-lin](https://zh.wikipedia.org/wiki/蔡萬霖) — Tsai Wan-lin (1924-2004) was a co-founder of Cathay Life Insurance; Tsai Wan-chun (the eldest brother) and Tsai Wan-lin jointly founded it in 1962, while Tsai Wan-tsai, the fourth brother, separately founded the Fubon Group
+
+[^2]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holdings has total assets of NT$12 trillion (updated July 2025), making it Taiwan's largest financial holding company
+
+[^3]: [Cnyes, December 2025 — Profit Ranking of 13 Financial Holding Companies](https://www.cnyes.com/) — Cathay Financial Holdings posted monthly net income after tax of NT$14.62 billion in November 2025, taking the top profit spot for the second consecutive month
+
+[^4]: [Cathay Financial Holdings ESG Report — Sustainable Finance Commitment](https://www.cathayholdings.com/) — In 2021, Cathay Life Insurance announced that it would no longer add new coal-related investments, becoming the first insurance company in Taiwan to make this commitment
+
+[^5]: [Wikipedia — Cathay Financial Holdings](https://zh.wikipedia.org/wiki/國泰金融控股) — Cathay Financial Holdings was established in 2001 and was the first financial holding company founded after Taiwan's Financial Holding Company Act was passed

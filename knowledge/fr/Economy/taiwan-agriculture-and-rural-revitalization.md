@@ -1,363 +1,255 @@
 ---
-title: 'Agriculture et renaissance rurale à Taïwan'
-description: "Du royaume du riz à l'agriculture de précision : comment Taïwan a réinventé son modèle agricole et redonné vie à ses campagnes"
+title: 'Agriculture et revitalisation rurale à Taïwan'
+description: "Du royaume du riz à l'agriculture de précision : l'histoire de la transformation agricole de Taïwan et de la renaissance des communautés rurales"
 date: 2026-03-18
+author: 'Taiwan.md'
+category: 'Economy'
+subcategory: '農業經濟'
 tags:
   [
-    agriculture,
-    renaissance rurale,
-    agriculture de précision,
-    agriculture biologique,
-    retour des jeunes,
-    système des coopératives agricoles,
-    développement communautaire,
+    'agriculture',
+    'revitalisation rurale',
+    'agriculture de précision',
+    'agriculture biologique',
+    'retour des jeunes au pays natal',
+    'système des associations paysannes',
+    'développement communautaire',
   ]
-subcategory: 'Économie agricole'
-category: 'Economy'
-author: 'Taiwan.md Translation Team'
-readingTime: 12
-featured: false
-translatedFrom: 'Economy/台灣農業與農村再生.md'
 lastVerified: 2026-03-19
 lastHumanReview: false
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:a63a4fe6ec13dde6'
-sourceBodyHash: 'sha256:50574d790744d84c'
-translatedAt: '2026-04-14T19:21:51+08:00'
+featured: false
+translatedFrom: 'Economy/台灣農業與農村再生.md'
+sourceCommitSha: '24efd20f3'
+sourceContentHash: 'sha256:95d473c7b6d24541'
+sourceBodyHash: 'sha256:a996bea328f05c29'
+translatedAt: '2026-05-15T13:52:06+08:00'
 ---
 
-# Agriculture et renaissance rurale à Taïwan
+# Agriculture et revitalisation rurale à Taïwan
 
-Dans les champs de ciboules du district de Sanxing, à Yilan, un jeune agriculteur de 33 ans filme en direct sa récolte sur son téléphone. Il explique à ses abonnés en ligne les secrets de culture de la ciboule biologique locale. De l'autre côté de l'écran, des consommateurs à Taipei ont déjà passé commande. Cette scène était impensable il y a cinquante ans — à l'époque, les agriculteurs se débattaient avec une surproduction de riz tandis que les jeunes quittaient en masse les campagnes pour rejoindre les usines. Aujourd'hui, Taïwan a accompli une transformation remarquable : de « royaume du riz de masse », il est devenu un « modèle d'agriculture de précision ». Ses villages ruraux, jadis en déclin, se réinventent comme des espaces de créativité et de durabilité.
+Dans les champs de ciboule de Sanxing, dans le comté de Yilan, un jeune homme de 33 ans revenu dans sa région natale diffuse en direct sur son téléphone la récolte en cours et explique à son public en ligne les secrets de culture de la ciboule biologique de Sanxing. À l’autre bout de l’écran, des consommateurs de Taipei ont déjà passé commande en prévente. Une telle scène aurait été inimaginable il y a 50 ans : à l’époque, les agriculteurs s’inquiétaient de la surproduction rizicole, tandis que les jeunes quittaient massivement les campagnes pour travailler en usine. Aujourd’hui, l’agriculture taïwanaise est passée du « royaume du riz produit en volume » à un « modèle d’agriculture de précision », et les campagnes, autrefois espaces en déclin marqués par l’exode démographique, renaissent comme de nouveaux territoires où coexistent créativité et durabilité.
 
-> Les terres agricoles de Taïwan ne représentent que 24 % du territoire national, et pourtant elles génèrent chaque année une valeur de production dépassant 540 milliards de nouveaux dollars taïwanais. Si la population active agricole ne représente que 3 % de la main-d'œuvre totale, elle s'inscrit dans une filière complète qui fait vivre quelque 6 millions de personnes.
+> Les terres agricoles de Taïwan ne représentent que 24 % du territoire national, et la valeur annuelle de production du secteur primaire agriculture-forêts-pêche-élevage s’élève à environ 351,3 milliards de dollars taïwanais (2023 ; l’ensemble de la chaîne agroalimentaire, restauration incluse, atteint 1 683,5 milliards de dollars taïwanais)[^1]. La population active agricole représente environ 4,4 % de l’emploi total national (statistiques 2023 du ministère de l’Agriculture, soit environ 509 000 personnes)[^1] ; derrière ces chiffres se trouve une chaîne industrielle complète liée aux moyens de subsistance de six millions de personnes.
 
-## Pourquoi cela compte
+## Pourquoi cela importe
 
-L'agriculture n'est pas qu'une industrie : elle est le socle culturel et écologique de Taïwan. De la sélection du riz ponlai à l'époque de l'occupation japonaise à la réforme agraire de l'après-guerre, jusqu'à l'agriculture de précision d'aujourd'hui, l'histoire agricole de Taïwan est indissociable de son histoire sociale. À l'heure où le monde entier fait face aux défis de la sécurité alimentaire, l'expérience taïwanaise — produire une grande valeur sur des terres limitées, revitaliser les campagnes par le développement communautaire — offre un modèle précieux pour de nombreux pays en développement.
+L’agriculture est le socle de la culture et de l’écologie taïwanaises, ainsi qu’un secteur essentiel au fonctionnement de l’ensemble de la société. De la sélection du riz ponlai sous la domination japonaise à la réforme agraire de l’après-guerre, puis à l’agriculture de précision actuelle, l’histoire du développement agricole de Taïwan est aussi une histoire des transformations sociales. Alors que le monde est confronté à des défis de sécurité alimentaire, l’expérience taïwanaise de transformation agricole — comment créer une forte valeur sur des terres limitées, comment faire renaître les campagnes grâce au développement communautaire — offre de précieux points de référence à de nombreux pays en développement.
 
-## Du royaume du riz à l'agriculture de précision
+## Du royaume du riz à l’agriculture de précision
 
-### 1950–1980 : l'âge d'or du riz
+### 1950-1980 : l’âge d’or du royaume du riz
 
-**Les fondations posées par la réforme agraire :**
-Entre 1949 et 1953, la réforme agraire a mis fin au système des grands propriétaires fonciers hérité de l'ère japonaise en appliquant le principe « la terre à celui qui la cultive ». Cette transformation a décuplé la motivation des agriculteurs. Combinée à la diffusion des meilleures variétés de riz ponlai, la production rizicole taïwanaise a connu une progression rapide.
+**Les fondations de la réforme agraire :**
+La réforme agraire de 1949-1953 a remplacé le système des grands propriétaires hérité de la période japonaise par le principe de la « terre à celui qui la cultive », stimulant la motivation productive des agriculteurs. Avec la diffusion de variétés améliorées de riz ponlai, la production rizicole de Taïwan a rapidement augmenté.
 
 **La révolution verte :**
 
-- Introduction dans les années 1960 des techniques de l'Institut international de recherche sur le riz (IRRI)
-- Généralisation des engrais chimiques et des pesticides
-- Mise en place des infrastructures d'irrigation
-- Le rendement du riz passe de 2,8 tonnes par hectare en 1950 à 4,5 tonnes en 1980
+- Introduction, dans les années 1960, des technologies de l’Institut international de recherche sur le riz (IRRI)
+- Promotion de l’utilisation d’engrais chimiques et de pesticides
+- Mise en place de systèmes d’irrigation agricole
+- Hausse du rendement rizicole de 2,8 tonnes par hectare en 1950 à 4,5 tonnes en 1980[^1]
 
-**La construction du réseau des coopératives agricoles :**
-Les coopératives ont joué le rôle d'interface entre agriculteurs et État, en assumant plusieurs missions clés :
+**La mise en place du système des associations paysannes :**
+Les associations paysannes sont devenues le pont entre les agriculteurs et l’État, avec pour responsabilités :
 
-- Diffusion des techniques agricoles
-- Achat et commercialisation des produits agricoles
-- Services financiers et d'assurance agricoles
-- Formation et éducation des agriculteurs
+- La vulgarisation des techniques agricoles
+- L’achat et la vente des produits agricoles
+- Les services financiers agricoles
+- La formation et l’éducation des agriculteurs
 
-### 1980–2000 : restructuration du secteur
+### 1980-2000 : ajustement de la structure industrielle
 
-L'accélération de l'industrialisation a exposé l'agriculture à un double choc — l'exode des travailleurs et la dégradation de sa compétitivité relative.
+Avec l’accélération de l’industrialisation, l’agriculture a fait face à l’exode de la main-d’œuvre et au recul de ses avantages comparatifs :
 
-**La crise de la surproduction rizicole :**
+**Crise de surproduction du riz :**
 
-- Dès les années 1980, la surproduction de riz pousse l'État à mettre en œuvre une politique de réduction des surfaces rizicoles
-- Encouragement à la reconversion vers des cultures à plus haute valeur ajoutée
-- Amorce d'un virage vers la qualité plutôt que vers la quantité
+- Dans les années 1980, la production de riz devient excédentaire, et l’État promeut une « politique de réduction de la production rizicole »
+- Encouragement à la reconversion vers des cultures à forte valeur économique
+- Début d’une attention portée à la qualité des produits agricoles plutôt qu’aux volumes produits
 
-**Diversification des productions :**
+**Développement diversifié :**
 
-- Montée en gamme des techniques maraîchères et fruitières
-- Essor de l'horticulture florale
-- Modernisation de l'élevage
-- Percées dans l'aquaculture
+- Amélioration des techniques de culture des légumes et des fruits
+- Essor de l’horticulture florale
+- Modernisation de l’élevage
+- Percées dans les techniques d’aquaculture
 
-### 2000 à aujourd'hui : le modèle de l'agriculture de précision
+### 2000 à aujourd’hui : un modèle d’agriculture de précision
 
-**La politique d'agriculture de précision :**
-En 2002, l'État taïwanais formalise officiellement le concept d'« agriculture de précision », articulé autour de quatre axes :
+**Politique d’agriculture de précision :**
+En 2002, le gouvernement a officiellement proposé le concept d’« agriculture de précision »[^2], en mettant l’accent sur :
 
-- Haute qualité et haute valeur ajoutée
-- Respect de l'environnement et développement durable
-- Applications technologiques et innovation
-- Construction de marques et ouverture à l'international
+- La haute qualité et la forte valeur ajoutée
+- Le respect de l’environnement et le développement durable
+- L’application des technologies et l’innovation
+- La construction de marques et l’internationalisation
 
-## La renaissance des communautés rurales
+## La voie de la revitalisation des communautés rurales
 
 ### Le mouvement de développement communautaire rural
 
-**L'éveil des années 1990 :**
-Inspirée par le mouvement japonais « un village, un produit », Taïwan lance une vaste démarche de développement communautaire intégré :
+**L’éveil au développement communautaire dans les années 1990 :**
+Inspirée par le mouvement japonais « un village, un produit », Taïwan a commencé à promouvoir le développement communautaire intégré :
 
-- Identification des ressources culturelles et des spécificités locales
-- Renforcement de l'identité et de la conscience communautaires
-- Articulation entre développement économique et tourisme
-- Développement de la capacité d'autogestion des communautés
+- Identification des caractéristiques locales et des ressources culturelles
+- Développement de la conscience et de l’identité communautaires
+- Articulation entre développement industriel et tourisme
+- Mise en place d’une capacité de gestion autonome des communautés
 
-**Exemples de réussites :**
+**Exemples réussis :**
 
 **Beipu, Hsinchu :**
-Ce village hakka a su allier sa culture traditionnelle à son industrie des kakis séchés pour développer le tourisme culturel.
+En combinant la culture hakka et l’industrie du kaki séché, la localité a développé un tourisme culturel.
 
-- Préservation des techniques ancestrales de séchage des kakis
-- Restauration des sites historiques et bâtiments anciens
-- Création de festivals autour des kakis séchés
-- Développement d'une marque et de circuits de distribution
+- Préservation des techniques traditionnelles de fabrication du kaki séché
+- Restauration de monuments et de bâtiments historiques
+- Développement d’événements festifs autour du kaki séché
+- Création d’une marque et de canaux de distribution pour le kaki séché
 
-**Communauté de Taomi, Nantou :**
-Un modèle de reconstruction après le séisme de 921 : d'un village en ruines à un éco-village de référence.
+**La communauté de Taomi, Nantou :**
+Modèle de reconstruction après le séisme du 21 septembre 1999, elle est passée des ruines à l’écovillage.
 
-- Reconstruction par des techniques d'ingénierie écologique
-- Développement de l'écotourisme et de l'éducation environnementale
-- La « Paper Dome » comme symbole de la renaissance communautaire
-- Centre de recherche et de conservation des écosystèmes amphibiens
+- Reconstruction du village par des méthodes écologiques
+- Développement de l’écotourisme et de l’éducation à l’environnement
+- L’église de papier est devenue un symbole de renaissance communautaire
+- Base de recherche et de conservation de l’écologie des grenouilles
 
-### La loi sur la revitalisation rurale et sa mise en œuvre
+### La Loi sur la revitalisation rurale et sa mise en pratique
 
-**Adoptée en 2010, la loi sur la revitalisation rurale prévoit :**
+**Adoption de la Loi sur la revitalisation rurale en 2010 :**
 
-- Un budget de 200 milliards de dollars taïwanais sur dix ans
-- Des plans de revitalisation organisés à l'échelle des communautés locales
-- Une articulation entre infrastructures matérielles et développement des savoir-faire
-- Une planification participative, du bas vers le haut
+- La Loi sur la revitalisation rurale prévoit légalement un fonds de revitalisation rurale de 150 milliards de dollars taïwanais sur 10 ans (adoptée en l’an 99 de la République de Chine, soit 2010)[^5]
+- Promotion de plans de revitalisation à l’échelle des communautés
+- Articulation entre infrastructures matérielles et renforcement immatériel
+- Accent mis sur une planification participative ascendante
 
-**Les axes stratégiques de revitalisation :**
+**Stratégies de revitalisation :**
 
-1. **Revitalisation économique :** développement de produits agricoles typiques et « sixième industrialisation »
-2. **Préservation culturelle :** protection du patrimoine bâti et des ressources culturelles immatérielles
-3. **Amélioration de l'environnement :** réhabilitation des canaux, sentiers et espaces publics
-4. **Développement des ressources humaines :** retour des jeunes ruraux et formation de leaders communautaires
+1. **Réactivation industrielle :** développer des produits agricoles distinctifs et la « sixième industrialisation » de l’agriculture
+2. **Préservation culturelle :** protéger les bâtiments traditionnels et le patrimoine culturel immatériel
+3. **Amélioration de l’environnement :** réaménager canaux d’irrigation, sentiers et espaces publics
+4. **Formation des talents :** encourager le retour des jeunes ruraux et former des leaders communautaires
 
-## Le retour des jeunes à la campagne
+## La vague de retour des jeunes au pays natal
 
-### La montée d'une nouvelle génération d'agriculteurs
+### L’essor des nouveaux agriculteurs
 
-**La vague de retour des années 2010 :**
-Portés par les scandales alimentaires et une aspiration à une meilleure qualité de vie, de plus en plus de jeunes choisissent de revenir cultiver la terre :
+**La vague de retour après 2010 :**
+Sous l’effet des incidents liés à la sécurité alimentaire et de la recherche d’une meilleure qualité de vie, de plus en plus de jeunes choisissent de revenir dans leur région d’origine pour pratiquer l’agriculture :
 
-- 40 % des nouveaux agriculteurs revenus à la campagne sont diplômés de l'université
-- L'âge moyen de ces « néo-paysans » est de 35 ans, bien inférieur à celui des agriculteurs traditionnels
-- La majorité vient de secteurs non agricoles
-- Attachement fort aux pratiques écologiques et à la valorisation par la marque
+- Les jeunes diplômés de l’université représentent 40 % des personnes revenues à l’agriculture
+- L’âge moyen des nouveaux agriculteurs est de 35 ans, inférieur à celui des agriculteurs traditionnels
+- La plupart ont une formation professionnelle non agricole
+- Ils accordent de l’importance au respect de l’environnement et à la gestion de marque
 
-### Les nouveaux modèles d'exploitation agricole
+### Les modèles d’exploitation agricole de nouvelle génération
 
-**L'agriculture technologique :**
+**Agriculture technologique :**
 
-- Serres intelligentes avec systèmes de contrôle de l'environnement
-- Drones pour la pulvérisation et le monitoring
-- Capteurs IoT déployés dans les exploitations
-- Analyse de données massives et aide à la décision par intelligence artificielle
+- Serres intelligentes et systèmes de contrôle environnemental
+- Pulvérisation et surveillance par drones
+- Application de capteurs de l’Internet des objets
+- Analyse de mégadonnées et aide à la décision par l’IA
 
-**Le management par la marque :**
+**Gestion par la marque :**
 
-- Construction d'une marque personnelle ou d'exploitation
-- Éducation alimentaire et activités d'expérience agricole
+- Création d’une marque personnelle ou d’exploitation agricole
+- Éducation alimentaire et agricole, et activités expérientielles
 - Marketing sur les réseaux sociaux
-- Vente directe aux consommateurs (circuits courts)
+- Vente directe aux consommateurs, avec expédition depuis le lieu de production
 
-**La sixième industrialisation :**
+**Sixième industrialisation :**
 
-- Premier niveau (production) : produits agricoles sûrs et de qualité
-- Deuxième niveau (transformation) : valorisation et conditionnement des produits agricoles
-- Troisième niveau (services) : tourisme, expériences et restauration
-- 1 × 2 × 3 = 6 : une synergie de valeur complète
+- Production primaire : produits agricoles sûrs et de haute qualité
+- Transformation secondaire : affinage et conditionnement des produits agricoles
+- Services tertiaires : expériences touristiques et services de restauration
+- Effet intégré de 1×2×3=6
 
-### Portraits de retours réussis
+### Exemples réussis de retour au pays natal
 
-**« Liangshi Nongchuang » à Dapu, Yunlin :**
-Un diplômé de l'Université nationale de Taïwan a transformé l'entreprise familiale de choucroute :
+**« Liangshi Nongchuang » à Dapi, Yunlin :**
+Des jeunes revenus au pays natal après des études à l’Université nationale de Taïwan ont transformé l’activité familiale de chou fermenté :
 
-- Mise en conformité avec le système HACCP de contrôle de la sécurité alimentaire
-- Développement de recettes créatives et de produits dérivés à base de choucroute
-- Combinaison d'éducation alimentaire et de visites de ferme
-- Création d'un système de vente en ligne et de livraison à domicile
+- Introduction du système HACCP de maîtrise de la sécurité sanitaire des aliments
+- Développement de plats et de produits créatifs à base de chou fermenté
+- Combinaison d’éducation alimentaire et agricole avec des expériences à la ferme
+- Mise en place d’un système de vente en ligne et de livraison à domicile
 
-**Ferme écologique « Navuza » à Rinari, Pingtung :**
+**« Ferme écologique Nafuna » à Rinari, Pingtung :**
 Un modèle de reconstruction autochtone après le typhon Morakot :
 
-- Culture biologique du quinoa rouge et du millet
+- Culture biologique de quinoa rouge et de millet
 - Association des savoirs agricoles traditionnels et des techniques modernes
-- Développement de l'écotourisme au sein de la communauté tribale
-- Promotion de l'éducation culturelle des peuples autochtones
+- Développement de l’écotourisme tribal
+- Promotion de l’éducation à la culture autochtone
 
-## L'essor de l'agriculture biologique
+## L’essor de l’agriculture biologique
 
-### Les étapes du développement de l'agriculture biologique
+### Trajectoire du développement biologique
 
-**Phase d'émergence (1980–1995) :**
+Le développement de l’agriculture biologique à Taïwan peut être divisé en trois périodes. La phase d’émergence, de 1980 à 1995, voit la création de la fondation Tse-Xin pour le développement de l’agriculture biologique, la promotion des achats collectifs par la Homemakers Union, et l’éveil de la conscience environnementale des consommateurs. La phase de croissance, de 1995 à 2007, voit la mise en place du label des produits agricoles biologiques, l’entrée en discussion du projet de loi sur la promotion de l’agriculture biologique, et l’expansion du marché biologique. Après 2007 s’ouvre une phase d’institutionnalisation : adoption de la Loi sur la production agricole et la gestion de la certification, entrée en vigueur en 2018 de la Loi sur la promotion de l’agriculture biologique, puis, en 2023, 17 365 hectares certifiés biologiques et 5 131 exploitations biologiques[^7].
 
-- Fondation de la Fondation pour le développement de l'agriculture organique Tzu-Chi
-- Campagne d'achats collectifs portée par la Ligue des femmes au foyer
-- Montée de la conscience environnementale chez les consommateurs
+### Défis et opportunités de l’agriculture biologique
 
-**Phase de croissance (1995–2007) :**
+Les principaux défis de l’agriculture biologique résident dans la perte de revenus pendant la période de transition, le niveau technique élevé requis pour la lutte biologique, et la difficulté à établir des canaux de vente ; l’acceptation par les consommateurs du prix des produits agricoles biologiques demeure également un facteur limitant. En revanche, la montée de la conscience de la sécurité alimentaire stimule la demande biologique ; avec les subventions publiques, la croissance du marché biologique international et les liens avec l’écotourisme, la dynamique de croissance de l’agriculture biologique s’est nettement renforcée.
 
-- Mise en place d'un système de certification des produits biologiques
-- Travaux préparatoires sur une loi de promotion de l'agriculture biologique
-- Élargissement progressif du marché biologique
+## L’évolution du système des associations paysannes
 
-**Phase d'institutionnalisation (2007 à aujourd'hui) :**
+### Fonctions traditionnelles des associations paysannes
 
-- 2007 : adoption de la loi sur la gestion de la production et de la certification des produits agricoles
-- 2018 : entrée en vigueur de la loi de promotion de l'agriculture biologique
-- Franchissement du cap du 10 000 hectares de terres agricoles biologiques
-- Plus de 4 000 exploitations biologiques certifiées
+Les associations paysannes traditionnelles remplissent à la fois des fonctions politiques et économiques : sur le plan politique, elles représentent les intérêts des agriculteurs, diffusent les politiques agricoles et mobilisent les organisations rurales de base ; sur le plan économique, elles assurent la commercialisation collective des produits agricoles, l’achat collectif des intrants agricoles, les services de finance et d’assurance agricoles, ainsi que la vulgarisation technique agricole.
 
-### Défis et opportunités de l'agriculture biologique
+### Transformation des associations paysannes modernes
 
-**Défis :**
+Les services des associations paysannes modernes se sont étendus de l’agriculture au commerce de détail en supermarché, au tourisme de loisirs et à la restauration, aux soins de longue durée et à l’accompagnement communautaire, ainsi qu’à la culture et à l’éducation. Elles avancent en parallèle dans leur transformation numérique : plateformes d’achat en ligne, paiements numériques, analyse de mégadonnées agricoles et services d’agriculture intelligente constituent les quatre dimensions de cette montée en gamme numérique.
 
-- Perte de revenus pendant la période de conversion
-- Technicité élevée des méthodes de protection biologique
-- Difficulté à établir des circuits de distribution
-- Acceptabilité des prix par les consommateurs
+**Exemple réussi de transformation :**
 
-**Opportunités :**
+**Association paysanne de Gukeng, Yunlin :** centrée sur la construction de la marque Café de Gukeng, elle a développé des festivals culturels du café, un tourisme thématique autour du café et une gestion haut de gamme des produits agricoles, formant une trajectoire complète de culturalisation de l’industrie.
 
-- Montée de la conscience alimentaire et demande croissante pour le bio
-- Soutien politique et subventions de l'État
-- Croissance du marché international du biologique
-- Synergies avec l'écotourisme et les activités d'expérience agricole
+## Innovation technologique agricole
 
-## L'évolution du réseau des coopératives agricoles
+### Développement de l’agriculture intelligente
 
-### Les fonctions traditionnelles des coopératives
+L’agriculture sous installations repose principalement sur les serres intelligentes, l’irrigation-fertilisation automatisée, les usines végétales à LED et les technologies de fermes verticales. L’agriculture de précision intègre quant à elle la navigation GPS des machines agricoles, la fertilisation à dose variable, la surveillance de la croissance des cultures et les modèles de prévision des rendements. Les applications des biotechnologies comprennent la sélection de variétés résistantes aux maladies et ravageurs, le développement d’engrais microbiens, la sélection assistée par marqueurs génétiques et la production de plants par culture tissulaire. Ces trois dimensions constituent ensemble l’architecture technique de l’agriculture intelligente taïwanaise.
 
-**Rôle politique :**
+### Plateformes agricoles numériques
 
-- Représentation des intérêts des agriculteurs
-- Communication et mise en œuvre des politiques agricoles
-- Mobilisation des organisations de base en milieu rural
+Le système de traçabilité de la production et de la commercialisation permet, grâce aux QR Codes, de retracer le processus de production et de présenter directement aux consommateurs les informations relatives à la sécurité alimentaire, établissant la confiance et augmentant la valeur de marque. Les plateformes de commerce électronique agricole intègrent quant à elles vente en ligne, expédition depuis le lieu de production, réservation d’expériences à la ferme et partage de connaissances agricoles, permettant aux agriculteurs de contourner les intermédiaires et d’atteindre directement les consommateurs.
 
-**Rôle économique :**
+## Les défis tournés vers l’avenir
 
-- Commercialisation groupée des produits agricoles
-- Achats collectifs de matériaux et d'équipements agricoles
-- Services financiers agricoles et assurances
-- Diffusion des techniques agricoles
+### Adaptation au changement climatique
 
-### La modernisation des coopératives
+Les instruments de politique publique pour l’adaptation au changement climatique comprennent la sélection de variétés résistantes à la sécheresse et tolérantes aux inondations, le renforcement de la prévention des catastrophes dans l’agriculture sous installations, l’amélioration du système d’assurance agricole et les mécanismes d’accompagnement à la remise en culture après catastrophe. Les modèles de production durable progressent en parallèle sur quatre axes : agriculture comme puits de carbone, agriculture circulaire, conservation de la biodiversité et maintien de la santé des sols.
 
-**Diversification des services :**
+### Garantie de la sécurité alimentaire
 
-- Gestion de supermarchés et services de distribution
-- Activités de tourisme de loisir et de restauration
-- Services de soins aux personnes âgées et d'aide à la communauté
-- Transmission culturelle et activités éducatives
+Face aux fluctuations internationales des prix alimentaires et aux risques pesant sur les chaînes d’approvisionnement, la stratégie taïwanaise de sécurité alimentaire comprend l’augmentation du taux d’autosuffisance, la constitution de réserves alimentaires stratégiques, le développement de sources de protéines alternatives et le renforcement de la coopération alimentaire régionale.
 
-**Transformation numérique :**
+### Transmission générationnelle et innovation
 
-- Mise en place de plateformes d'achats en ligne
-- Adoption de systèmes de paiement numérique
-- Collecte et analyse de données agricoles massives
-- Fourniture de services d'agriculture intelligente
+La transmission des techniques agricoles met l’accent sur la préservation des savoirs agricoles traditionnels, les échanges d’expérience entre anciennes et nouvelles générations, l’amélioration du système d’éducation agricole et la formation de professionnels agricoles. La montée en gamme industrielle s’oriente vers l’agriculture à forte valeur ajoutée, l’essor des services agricoles, l’expansion sur les marchés internationaux et la construction de valeur de marque.
 
-**Un modèle de transformation réussie :**
+## Un nouvel espoir pour les campagnes
 
-**Coopérative agricole de Gukeng, Yunlin :**
+Les campagnes taïwanaises d’aujourd’hui ne sont plus les régions arriérées de l’imaginaire traditionnel. De la persévérance des petits agriculteurs biologiques à la créativité des jeunes revenus au pays natal, en passant par la transformation du système des associations paysannes, les campagnes redéfinissent leur propre valeur. Cette terre porte une énergie multiple : production alimentaire, transmission culturelle, conservation écologique et expérimentation innovante.
 
-- Construction et promotion de la marque café de Gukeng
-- Organisation du festival culturel du café
-- Développement d'un tourisme à thème autour du café
-- Valorisation premium des produits agricoles
-
-## L'innovation technologique dans l'agriculture
-
-### Le développement de l'agriculture intelligente
-
-**L'agriculture sous abri :**
-
-- Contrôle de l'environnement dans les serres intelligentes
-- Systèmes automatisés d'irrigation et de fertilisation
-- Fermes végétales à LED
-- Techniques d'agriculture verticale
-
-**L'agriculture de précision :**
-
-- Navigation GPS pour les engins agricoles
-- Techniques d'application variable des intrants
-- Suivi de la croissance des cultures
-- Modèles de prévision des rendements
-
-**Les applications en biotechnologie :**
-
-- Sélection de variétés résistantes aux maladies et aux ravageurs
-- Développement de biofertilisants microbiens
-- Sélection assistée par marqueurs génétiques
-- Production de plants par culture tissulaire
-
-### Les plateformes agricoles numériques
-
-**Le système de traçabilité de la production :**
-
-- QR Code pour retracer le processus de production
-- Garantie de la sécurité alimentaire
-- Construction de la confiance des consommateurs
-- Valorisation de la marque
-
-**Les plateformes de commerce électronique agricole :**
-
-- Vente en ligne de produits agricoles
-- Service de livraison directe depuis la ferme
-- Réservation d'activités à la ferme
-- Partage de connaissances agricoles
-
-## Les défis à venir
-
-### S'adapter au changement climatique
-
-**Face aux événements météorologiques extrêmes :**
-
-- Sélection de variétés tolérantes à la sécheresse et aux inondations
-- Renforcement de la protection des infrastructures agricoles
-- Amélioration du système d'assurance agricole
-- Accompagnement à la remise en culture après les catastrophes
-
-**Vers des modèles de production durables :**
-
-- Promotion de l'agriculture puits de carbone
-- Développement de l'agriculture circulaire
-- Préservation de la biodiversité
-- Maintien de la santé des sols
-
-### Garantir la sécurité alimentaire
-
-Face aux fluctuations des prix agricoles mondiaux et aux risques pesant sur les chaînes d'approvisionnement :
-
-- Amélioration du taux d'autosuffisance alimentaire
-- Constitution de réserves stratégiques de denrées
-- Développement de sources alternatives de protéines
-- Renforcement de la coopération alimentaire régionale
-
-### Transmission intergénérationnelle et innovation
-
-**Transmission des savoirs agricoles :**
-
-- Préservation des connaissances sur les méthodes agricoles traditionnelles
-- Échanges d'expérience entre générations
-- Développement des structures d'enseignement agricole
-- Système de formation des agriculteurs professionnels
-
-**Modernisation et montée en gamme du secteur :**
-
-- Développement d'une agriculture à haute valeur ajoutée
-- Émergence des services liés à l'agriculture
-- Expansion sur les marchés internationaux
-- Construction de la valeur de marque
-
-## Un avenir à réinventer pour les campagnes taïwanaises
-
-Les campagnes taïwanaises d'aujourd'hui ne ressemblent plus aux territoires délaissés que l'on imaginait. Entre la ténacité des petits producteurs biologiques, la créativité des jeunes revenus de la ville et la transformation des coopératives, le monde rural est en train de redéfinir sa valeur. Cette terre ne nourrit plus seulement des corps — elle fait germer une culture, préserve des écosystèmes et génère de l'innovation.
-
-> « L'agriculture est une industrie d'espoir. » Cette phrase prend aujourd'hui un sens renouvelé à Taïwan — non plus seulement l'espoir d'une bonne récolte, mais celui d'un avenir durable, d'une transmission entre générations, d'une coexistence harmonieuse entre villes et campagnes.
-
-Dans un contexte de mondialisation et de dérèglement climatique, l'expérience de Taïwan en matière de transformation agricole et de revitalisation rurale pourrait bien offrir au monde une boussole précieuse pour tracer sa route vers le développement durable. Du royaume du riz à l'agriculture de précision, du déclin rural à la renaissance des communautés, Taïwan est en train d'écrire un nouveau chapitre de la modernisation agricole.
+Sous le double défi de la mondialisation et du changement climatique, l’expérience de transformation de l’agriculture et des campagnes taïwanaises constitue peut-être une référence importante pour le monde en quête de voies de développement durable. Après les trois transformations successives du royaume du riz, de la refonte par l’agriculture de précision et de la revitalisation des communautés rurales, la trajectoire taïwanaise de création d’une forte valeur sur des terres limitées est déjà citée par plusieurs instituts asiatiques de recherche sur les politiques agricoles comme modèle opérationnel d’économie de petits exploitants.
 
 ## Pour aller plus loin
 
-- PME taïwanaises et champions discrets
-- Commerce extérieur taïwanais et chaînes d'approvisionnement mondiales
+- [Les PME taïwanaises et les champions cachés](/economy/台灣中小企業與隱形冠軍)
+- [Le commerce extérieur de Taïwan et les chaînes d’approvisionnement mondiales](/economy/台灣外貿與全球供應鏈)
+
+## Références
+
+[^1]: [Annuaire statistique agricole du ministère de l’Agriculture, incluant les comptes satellites de l’agriculture et de la chaîne agroalimentaire](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Statistiques historiques sur la valeur de production de l’agriculture, des forêts, de la pêche et de l’élevage, le nombre d’emplois et les comptes satellites de la chaîne agroalimentaire
+
+[^2]: [Présentation de la politique d’agriculture de précision du ministère de l’Agriculture](https://www.moa.gov.tw/) — Évolution et objectifs des politiques de promotion de l’agriculture de précision
+
+[^5]: [Base nationale des lois et règlements, Loi sur la revitalisation rurale](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=M0090059) — Article 44 de la Loi sur la revitalisation rurale : fondement légal du fonds de revitalisation rurale de 150 milliards de dollars taïwanais sur 10 ans
+
+[^6]: [Résultats des plans de revitalisation rurale de l’Agence du développement rural et de la conservation des eaux et des sols du ministère de l’Agriculture](https://www.ardswc.gov.tw/) — Rapports sur l’accompagnement des communautés de revitalisation rurale et les résultats de mise en œuvre
+
+[^7]: [Statistiques sur l’agriculture biologique de l’Agence de l’agriculture et de l’alimentation du ministère de l’Agriculture](https://taft.moa.gov.tw/) — Statistiques sur les surfaces certifiées biologiques, le nombre d’exploitations et la certification des produits agricoles biologiques

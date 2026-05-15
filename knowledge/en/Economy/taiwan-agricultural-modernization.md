@@ -1,386 +1,381 @@
 ---
-translatedFrom: 'Economy/台灣農業現代化發展.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:e6e4ed55452711e1'
-sourceBodyHash: 'sha256:979b05cfe13254ea'
-translatedAt: '2026-05-01T13:44:02+08:00'
 title: "Taiwan's Agricultural Modernization"
-description: "Exploring Taiwan's transformation from traditional farming to modern precision agriculture, including organic farming, rural revitalization, and leisure agriculture as innovative development models"
+description: 'Examines Taiwan’s transition from traditional agriculture to modern, high-value agriculture, including innovative development models such as organic agriculture, rural regeneration, and leisure agriculture'
 date: 2026-03-18
+author: 'Taiwan.md'
+category: 'Economy'
+subcategory: '農業經濟'
 tags:
   [
     'agriculture',
-    'precision agriculture',
-    'organic farming',
-    'rural revitalization',
+    'high-value agriculture',
+    'organic agriculture',
+    'rural regeneration',
     'leisure agriculture',
     'modernization',
   ]
-subcategory: 'Agricultural Economy'
-category: 'Economy'
-author: 'Taiwan.md'
 readingTime: 17
-featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+featured: true
+translatedFrom: 'Economy/台灣農業現代化發展.md'
+sourceCommitSha: '24efd20f3'
+sourceContentHash: 'sha256:ade41d6905a5412b'
+sourceBodyHash: 'sha256:45d5485b56395378'
+translatedAt: '2026-05-15T13:52:05+08:00'
 ---
 
 # Taiwan's Agricultural Modernization
 
 ## 30-Second Overview
 
-In just a few decades, Taiwan's agriculture transformed from labor-intensive traditional farming into technology-intensive, high-value modern precision agriculture. This transformation included the scientization of production techniques, the corporatization of farm management, and the premiumization of products. From promoting organic farming and implementing rural revitalization programs to the rise of leisure agriculture, Taiwan's agricultural sector developed a unique "Taiwan Model" that not only maintained agricultural competitiveness but also created a sustainable development paradigm combining agricultural, ecological, and cultural value.
+Over just a few decades, Taiwan's agriculture has transformed from labor-intensive traditional farming into technology-intensive, high-value modern agriculture. This transition has involved the scientization of production technologies, the corporatization of management models, and the premiumization of agricultural products. From the promotion of organic agriculture and the implementation of rural regeneration programs to the rise of leisure agriculture, Taiwan has developed a distinctive "Taiwan model" of agricultural development. This model not only sustains agricultural competitiveness, but also creates a sustainable development paradigm that integrates agricultural, ecological, and cultural value.
 
-**Keywords:** Precision agriculture, organic farming, rural revitalization, leisure agriculture, smart agriculture, sustainable development
+**Keywords:** high-value agriculture, organic agriculture, rural regeneration, leisure agriculture, smart agriculture, sustainable development
 
 ## Why It Matters
 
-### The Miracle of Small-Farm Premiumization
+### The High-Value Miracle of a Smallholder Economy
 
-The average Taiwanese farm is less than one hectare — putting Taiwan firmly in the small-farm economy category on the global scale. Yet Taiwanese agriculture manages to generate high output value and high quality from limited land. This "small but refined" development model carries significant reference value for countries and regions worldwide facing similar conditions.
+The average cultivated area per farm household in Taiwan is less than one hectare, making it a smallholder economy by global standards. Yet Taiwan's agriculture has been able to generate high output value and high quality from limited land. This "small but refined" development model offers direct reference value for countries and regions around the world facing similar conditions.
 
-### A Paradigm for Agricultural Multifunctionality
+### A Model of Agricultural Multifunctionality
 
-Modern Taiwanese agriculture has transcended the simple function of food production, developing multiple functions including ecological conservation, landscape maintenance, cultural heritage preservation, and recreational tourism. This multifunctional agricultural development model has injected new vitality into rural areas while providing urban dwellers with places to connect with nature and experience rural culture.
+Modern Taiwanese agriculture has moved beyond the simple function of food production and developed multiple functions, including ecological conservation, landscape maintenance, cultural transmission, and leisure tourism. This multifunctional agriculture has encouraged population return to rural communities and the revitalized use of land, while also providing urban residents with places to approach nature and experience rural culture.
 
-### Pioneering Sustainable Development
+### Forward-Looking Practice in Sustainable Development
 
-Facing climate change and environmental challenges, Taiwan's agriculture has actively shifted toward an organic, ecological model of sustainable development. From policy support to market acceptance, Taiwan's experience in promoting sustainable agriculture provides valuable lessons for global agricultural development.
+In the face of climate change and environmental challenges, Taiwanese agriculture has shifted toward organic and ecological models of sustainable development. From policy support to market acceptance, Taiwan's experience in promoting sustainable agriculture offers concrete lessons for global agricultural development.
 
-## The Foundation and Challenges of Traditional Agriculture
+## The Foundations and Challenges of Traditional Agriculture
 
-### Agricultural Foundations During the Japanese Colonial Era
+### Agricultural Foundations During the Japanese Colonial Period
 
-The developmental foundation of modern Taiwanese agriculture can be traced back to the Japanese colonial period. To develop Taiwan as Japan's breadbasket, the colonial government invested heavily in improving agricultural infrastructure.
+The foundations of modern agricultural development in Taiwan can be traced back to the Japanese colonial period. To build Taiwan into a granary for Japan, the Japanese colonial government invested substantial resources in improving agricultural infrastructure.
 
-**Water Infrastructure Construction:** Major irrigation projects such as the Chianan Grand Canal and the Taoyuan Grand Canal laid critical foundations for Taiwan's agricultural development. These irrigation systems remain important pillars of Taiwan's agriculture today.
+**Irrigation infrastructure construction**: Major irrigation projects such as the Chianan Irrigation System and the Taoyuan Irrigation System addressed drought problems in southern Taiwan and freed food production from dependence on rainfall alone. These irrigation systems remain backbone infrastructure for Taiwanese agriculture today[^1].
 
-**Variety Improvement and Technology Transfer:** The colonial period saw the introduction of Ponlai rice, improvement of sugarcane varieties, and the establishment of agricultural research institutions — all laying the groundwork for subsequent advances in agricultural science.
+**Varietal improvement and technology introduction**: During the Japanese colonial period in the 1920s, Japonica-style ponlai rice was introduced, sugarcane varieties were improved, and agricultural experiment institutions were established, laying the foundations for later agricultural technology development.
 
-**Establishment of Farmers' Associations:** The farmers' association system provided farmers with technical guidance, financial support, and product marketing services, and remains in use to this day.
+**Establishment of farmers' associations**: The farmers' association system provided farmers with services such as technical guidance, financial support, and product sales. This system remains in use today.
 
-### Post-War Land Reform
+### Early Postwar Land Reform
 
-The land reforms of the 1950s created favorable conditions for Taiwan's agricultural modernization.
+The land reform of 1949-1953 created favorable conditions for the modernization of Taiwanese agriculture.
 
-**Land to the Tiller:** Land reform gave farmers property ownership, significantly boosting their motivation to produce.
+**Land-to-the-tiller**: Land reform gave farmers land ownership, directly increasing their willingness to produce.
 
-**Rising Farmer Incomes:** Farmers who owned land saw noticeably higher incomes, providing capital for agricultural investment and improvement.
+**Increase in farmers' incomes**: Farmers who owned land saw considerable income increases, providing capital for agricultural investment and varietal improvement.
 
-**Formation of Rural Consumer Markets:** Higher farmer incomes promoted rural consumption and created markets for industrial products.
+**Formation of rural consumer markets**: Rising farmers' incomes promoted rural consumption and also provided markets for industrial products.
 
 ### The Impact of Industrialization on Agriculture
 
-From the 1960s to 1970s, Taiwan began its industrialization drive, and agriculture faced unprecedented challenges.
+In the 1960s and 1970s, Taiwan began its process of industrialization, and agriculture faced unprecedented challenges.
 
-**Rural Labor Outflow:** Industrial development attracted large numbers of young rural workers into factories, creating labor shortages and population aging in rural areas.
+**Outflow of rural labor**: Industrial development attracted large numbers of rural youth into factories, creating labor shortages and population aging in rural areas.
 
-**Non-Agricultural Use of Farmland:** The expansion of industrial zones consumed large amounts of prime agricultural land, continuously reducing the area under cultivation.
+**Non-agricultural use of farmland**: The expansion of industrial zones occupied large areas of high-quality farmland, reducing the area of agricultural land year by year.
 
-**Shifting Comparative Advantages:** The rapid development of industry and services steadily reduced agriculture's share of the national economy, placing farmers under pressure to change occupations.
+**Changes in comparative advantage**: The rapid development of industry and services caused agriculture's share of the national economy to fall quickly, placing farmers under pressure to change occupations.
 
-## The Development of Precision Agriculture
+## The Development of High-Value Agriculture
 
-### Policy Reorientation and Strategic Planning
+### Policy Shift and Strategic Planning
 
-Starting in the 1980s, the Taiwanese government began promoting a "precision agriculture" development strategy, seeking to generate maximum economic value from limited agricultural resources.
+Beginning in the 1980s, the Taiwanese government started promoting a "high-value agriculture" development strategy, seeking to create maximum economic value under limited agricultural resources.
 
-**Definition of Precision Agriculture:** Precision agriculture refers to agricultural production that uses advanced technology, operating at high density and high output value, with an emphasis on being "labor-intensive, technology-intensive, and capital-intensive."
+**Definition of high-value agriculture**: High-value agriculture refers to the use of advanced agricultural science and technology to carry out high-density, high-output-value agricultural production, emphasizing the characteristics of "labor intensity, technology intensity, and capital intensity."
 
-**Policy Objectives:**
+**Policy objectives**: High-value agricultural policy has centered on three main axes: more refined management, more scientific technology, and higher product quality. It has also been paired with goals to attract young people into agriculture and revitalize rural development. The government has promoted transformation through support measures including technology research and development, talent cultivation, financial subsidies, and market development.
 
-- Refine management practices
-- Scientize production technology
-- Upgrade product quality
-- Attract young people to agriculture
-- Revitalize rural development
+### The Rise of Technology-Based Agriculture
 
-**Implementation Strategy:** The government supported agricultural transformation and upgrading through technology R&D, talent cultivation, financial subsidies, and market development.
+**Agricultural technology research and development**: The government has invested in agricultural technology R&D and established an agricultural experimentation and research system. Every stage, from breeding, cultivation, and pest and disease control to post-harvest handling, is supported by technology.
 
-### The Rise of Technology-Driven Agriculture
+**Development of protected agriculture**: Protected agriculture, including greenhouses, net houses, and environmental control systems, has developed rapidly. This allows agricultural production to be less affected by weather and improves the stability of both yield and quality.
 
-**Agricultural Technology R&D:** The government invested heavily in agricultural technology research and development, establishing a comprehensive system of agricultural experiment and research. Scientific support now covers every link in the chain — from breeding and cultivation to pest control and post-harvest handling.
+**Biotechnology applications**: The application of biotechnology, including tissue culture, genetic modification, and marker-assisted breeding, has greatly increased the efficiency and precision of varietal improvement.
 
-**Development of Facility Agriculture:** Greenhouses, net houses, and environmental control systems developed rapidly, freeing agricultural production from weather constraints and improving the stability of yield and quality.
+**Beginnings of smart agriculture**: New technologies such as the Internet of Things, big data, and artificial intelligence have begun to be applied to agricultural production, enabling precision management and automated operation.
 
-**Biotechnology Applications:** Techniques such as tissue culture, genetic transformation, and marker-assisted breeding dramatically improved the efficiency and precision of variety improvement.
+### Building Branded Agriculture
 
-**Smart Agriculture Emerges:** New technologies including the Internet of Things, big data, and artificial intelligence began to be applied in agricultural production, enabling precision management and automated operations.
+**Product differentiation**: Taiwanese agriculture has shifted from mass production toward premium products, producing high-quality agricultural goods through varietal improvement and refined management.
 
-### Building Agricultural Brands
+**Brand management**: Brand labels such as "Taiwan Good Agriculture" and "Traceable Agricultural Products" have been established, increasing the market recognition and added value of Taiwanese agricultural products[^7].
 
-**Product Differentiation:** Taiwan's agriculture shifted from mass production to premium products, producing high-quality agricultural goods through variety improvement and refined management.
+**International marketing**: Taiwan's high-quality agricultural products, including fruit, flowers, and tea, have built strong reputations in international markets, and the share of branded exports has steadily increased.
 
-**Brand Building:** Labels such as "Good Agriculture Taiwan" and "Traceable Agricultural Products" were established, raising the market recognition and added value of Taiwanese agricultural products.
-
-**International Marketing:** Taiwan actively opened up international markets, and premium products including Taiwanese fruit, flowers, and tea enjoy strong reputations in global markets.
-
-## Promotion and Development of Organic Farming
+## Promotion and Development of Organic Agriculture
 
 ### Evolution of Organic Agriculture Policy
 
-The development of organic farming in Taiwan has evolved from grassroots spontaneity to government leadership.
+The development of organic agriculture in Taiwan has evolved from spontaneous civic initiatives to government-led promotion.
 
-**Early Development (1980s–1990s):** Rising public environmental and health awareness led some farmers to voluntarily adopt organic cultivation methods.
+**Early development (1980s-1990s)**: As public environmental and health awareness rose, some farmers spontaneously adopted organic cultivation methods.
 
-**Institution Building (2000s):** The government began establishing an organic farming certification system and enacted the Agricultural Products Production and Certification Management Act, providing legal protection for organic agriculture development.
+**Institutional establishment (2000s-2010s)**: The government began establishing an organic agriculture certification system and enacted the Agricultural Production and Certification Act, providing legal protections for the development of organic agriculture.
 
-**Full-Scale Promotion (2010s to Present):** The enactment of the Organic Agriculture Promotion Act marked the entry of Taiwan's organic farming into a new phase of comprehensive promotion, with the government setting goals to double organic farmland.
+**Institutional promotion (2018-present)**: The enactment of the Organic Agriculture Promotion Act in 2018 marked Taiwan's entry into a legally institutionalized stage of organic agriculture promotion, with the government setting a target to double the area under organic agriculture.
 
-### Current Status and Achievements in Organic Agriculture
+### Current Status and Achievements of Organic Agriculture
 
-**Growth in Cultivation Area:** Taiwan's organic farming area grew from 800 hectares in 2000 to nearly 20,000 hectares by 2025 — an increase of more than 25-fold.
+**Growth in cultivated area**: Taiwan's organic agricultural area grew from 800 hectares in 2000 to nearly 20,000 hectares in 2025, an increase of more than 25 times[^1].
 
-**Product Diversification:** The range expanded from an initial focus on vegetables to include rice, fruits, tea, and livestock products.
+**Product diversification**: Organic products have expanded from an initial focus on vegetables to rice, fruit, tea, livestock products, and other categories of agricultural goods.
 
-**Rising Market Acceptance:** Consumer demand for food safety and environmentally friendly production has driven expansion of the organic market.
+**Higher market acceptance**: Market acceptance of organic agricultural products has risen significantly. Consumer demand for food safety and environmentally friendly products has driven the expansion of the organic market.
 
-**International Certification Alignment:** Taiwanese organic products have obtained international certification and can be exported to markets including Japan, the United States, and the European Union.
+**Alignment with international certification**: Taiwanese organic agricultural products have obtained international certification and can be exported to markets including Japan, the United States, and the European Union.
 
-### Environmentally Friendly Farming
+### Environment-Friendly Cultivation
 
-Beyond organic agriculture, Taiwan promotes environmentally friendly farming practices, offering support to farmers who have not yet obtained organic certification but are producing in environmentally conscious ways.
+Beyond organic agriculture, Taiwan also promotes environment-friendly cultivation, providing support to farmers who have not yet obtained organic certification but use environmentally friendly production methods.
 
-**Policy Inclusivity:** Environmentally friendly farming policies acknowledge that agricultural transition takes time, offering farmers flexible choices.
+**Policy inclusiveness**: Environment-friendly cultivation policy recognizes that agricultural transformation takes time and provides farmers with flexible choices.
 
-**Eco-Payment System:** The government provides ecological payments to farmers who adopt environmentally friendly practices, encouraging reduced use of pesticides and chemical fertilizers.
+**Ecological payment system**: The government provides ecological payments to farmers who adopt environment-friendly cultivation, encouraging reductions in the use of pesticides and chemical fertilizers.
 
-**Biodiversity Protection:** Environmentally friendly farming helps protect farmland ecosystems and maintain biodiversity.
+**Biodiversity protection**: Environment-friendly cultivation helps protect farmland ecosystems and maintain biodiversity.
 
-## Rural Revitalization Program
+## Rural Regeneration Program
 
-### Program Background and Goals
+### Program Background and Objectives
 
-The Rural Revitalization Program, launched in 2010, is an important policy through which the Taiwan government promotes rural development.
+The Rural Regeneration Program, implemented beginning in 2010, is an important policy through which the Taiwanese government promotes rural development.
 
-**Policy Background:** Facing problems including rural population outflow, aging infrastructure, and industrial decline, the government proposed the Rural Revitalization Program, hoping to promote rural revitalization through a "bottom-up" approach.
+**Policy background**: Faced with problems such as rural population outflow, aging infrastructure, and industrial decline, the government proposed the Rural Regeneration Program, hoping to promote rural revitalization through a "bottom-up" approach.
 
-**Core Objectives:**
+**Core objectives**:
 
 - Improve rural infrastructure and public facilities
-- Promote rural industrial development
-- Preserve rural culture
-- Improve rural quality of life
-- Attract young people to return to rural areas
+- Promote the development of rural industries
+- Transmit rural culture
+- Improve the quality of rural life
+- Attract young people to return to their hometowns
 
-**Budget:** The government committed NT$150 billion over four phases, demonstrating its commitment to rural development.
+**Budget investment**: The government invested NT$150 billion, implemented in four phases, demonstrating the importance placed on rural development[^5].
 
-### Implementation Strategy and Methods
+### Implementation Strategies and Methods
 
-**Community-Led:** Emphasizing the primacy of community residents, with communities proposing development plans and the government providing resources and support.
+**Community-led approach**: The program emphasizes the agency of community residents. Communities propose development plans, while the government provides resource support.
 
-**Integrated Planning:** Covering not just hardware construction but also "software" development — cultural preservation, industrial development, and human capital cultivation.
+**Integrated planning**: In addition to physical construction, the program also covers soft dimensions such as cultural preservation, industrial development, and human resource cultivation.
 
-**Location-Specific Approaches:** Developing different rural revitalization models based on the characteristics and conditions of each area.
+**Locally adapted development**: Different rural regeneration models are developed according to the characteristics and conditions of each area.
 
-**Sustainable Development:** Emphasizing environmental protection and ecological maintenance, promoting green energy and the circular economy.
+**Sustainable development**: The program emphasizes environmental protection and ecological maintenance, promoting green energy and the circular economy.
 
-### Success Stories and Models
+### Successful Cases and Models
 
-**Xinshexiecheng Community:** Using the shiitake mushroom industry as its core, combined with flower field tourism, it successfully transformed into a leisure agricultural zone.
+**Xiesheng Community in Xinshe**: With the mushroom industry at its core and flower-sea tourism integrated into its development, the community successfully transformed into a leisure agriculture area.
 
-**Nantou Shuili:** Through revitalizing the plum industry and cultural preservation, the community rediscovered its development momentum.
+**Shuili, Nantou**: Through the revival of the plum industry and cultural preservation, Shuili rediscovered momentum for rural development.
 
-**Yilan Shengou Village:** Combining organic farming with agricultural experiences, it developed an educational farm model.
+**Shengou Village, Yilan**: By combining organic agriculture and agricultural experiences, Shengou developed an educational farm model.
 
-**Hualien Fengbin:** An indigenous community combining coastal resources to develop ecotourism and indigenous cultural experiences.
+**Fengbin, Hualien**: Indigenous communities combined coastal resources with ecotourism and Indigenous cultural experiences.
 
-## The Rise of Leisure Agriculture
+## The Rapid Development of Leisure Agriculture
 
-### Background of Leisure Agriculture's Rise
+### Background to the Rise of Leisure Agriculture
 
-Rising per-capita income and changing quality-of-life expectations have increased urban residents' demand to connect with nature and experience rural life, creating opportunities for leisure agriculture.
+Rising national income has driven changes in demand for quality of life. Urban residents' demand for access to nature and experiences of rural life has expanded significantly, creating market space for leisure agriculture.
 
-**Reflection on Urbanization:** The pressures and detachment of urban life have made people yearn to return to nature and find simple rural experiences.
+**Reflection on urbanization**: The pressures and alienation of urban life have led people to long for a return to nature and to seek simple rural experiences.
 
-**Changing Educational Needs:** Parents want their children to engage with nature and understand agriculture, and leisure agriculture provides an excellent educational platform.
+**Changes in educational needs**: Parents hope their children can encounter nature and understand agriculture, and leisure agriculture provides a strong educational platform.
 
-**Rise of the Weekend Economy:** The adoption of a five-day workweek created the time conditions for short-haul travel and leisure activities.
+**Rise of the holiday economy**: The implementation of the two-day weekend system created the time conditions for short-distance travel and leisure activities.
 
-### Leisure Agriculture Development Models
+### Development Models of Leisure Agriculture
 
-**Agritourism Orchards:** Providing pick-your-own experiences for strawberries, tangerines, lotus, and other crops, letting visitors harvest agricultural products firsthand.
+**Tourism farms**: These provide agricultural product picking experiences, such as strawberry farms, orange orchards, and lotus gardens, allowing visitors to harvest agricultural products by hand.
 
-**Agricultural Experiences:** Designing various farming activities — transplanting rice seedlings, harvesting, making tea, pickling vegetables — to let city dwellers experience farm life.
+**Agricultural experiences**: Various farming activities are designed, such as rice transplanting, harvesting, tea making, and vegetable pickling, allowing urban residents to experience farmers' lives.
 
-**Agricultural Education:** Combining environmental education and food-and-farming education to help students and the public understand agricultural production processes and food origins.
+**Agricultural education**: By combining environmental education and food and agriculture education, these programs help students and the public understand agricultural production processes and the sources of food.
 
-**Rural Homestays:** Offering accommodation so visitors can deeply experience rural life and enjoy the tranquility and scenery of the countryside.
+**Rural homestays**: Accommodation services allow visitors to experience rural life in depth and enjoy the tranquility and scenery of the countryside.
 
-**Agricultural Processing Experiences:** Developing DIY activities using farm products — jam making, baking, soap making, and more.
+**Agricultural product processing experiences**: DIY agricultural product activities are developed, such as jam making, pastry baking, and soap making.
 
-### Success Stories and Distinctive Models
+### Successful Models and Features
 
-**Cingjing Farm:** Combining animal husbandry, horticulture, and tourism, it has become one of Taiwan's most famous leisure farms.
+**Qingjing Farm**: Combining animal husbandry, horticulture, and tourism, Qingjing Farm has become one of Taiwan's best-known leisure farms[^6].
 
-**Flying Cow Ranch:** Building on a dairy cattle operation, it developed a complete leisure agriculture experience chain.
+**Flying Cow Ranch**: Based on dairy farming, Flying Cow Ranch has developed a leisure agriculture experience chain covering ranch experiences, dairy product DIY activities, and ecological education.
 
-**Yilan Dongshan River:** Combining rice culture and a water-town ambiance, it developed a distinctive model of agricultural tourism.
+**Dongshan River, Yilan**: By combining rice culture and waterside rural scenery, the area has developed a distinctive rural tourism model.
 
-**Taitung Chishang:** Using premium rice as its foundation, combined with pastoral scenery and a slow-living culture, it attracts large numbers of visitors.
+**Chishang, Taitung**: Based on high-quality rice, pastoral scenery, and slow-living culture, Chishang attracts large numbers of visitors.
 
 ## Development of Smart Agriculture
 
-### Agricultural Technology 4.0
+### Technology Agriculture 4.0
 
-Taiwan is promoting smart agriculture development, using technologies including the Internet of Things, big data, and artificial intelligence to improve agricultural production efficiency and quality.
+Taiwan is promoting the development of smart agriculture, using technologies such as the Internet of Things, big data, and artificial intelligence to improve agricultural production efficiency and quality.
 
-**Sensor Technology:** Soil, meteorological, and crop growth sensors enable precise monitoring of the agricultural production environment.
+**Sensor technology**: The use of various sensors for soil, weather, and crop growth enables precise monitoring of agricultural production environments.
 
-**Automated Equipment:** Automated irrigation, fertilization, and harvesting equipment reduce labor needs and improve production efficiency.
+**Automated equipment**: The application of equipment such as automatic irrigation, automatic fertilization, and automatic harvesting reduces labor demand and increases production efficiency.
 
-**Big Data Analysis:** Collecting and analyzing agricultural production data to provide farmers with science-based decision support.
+**Big data analysis**: Agricultural production data are collected and analyzed to provide farmers with scientific decision-making support.
 
-**AI Applications:** Using artificial intelligence for pest and disease identification, yield forecasting, and quality grading.
+**AI applications**: Artificial intelligence is used for pest and disease identification, yield forecasting, quality grading, and other tasks.
 
-### Precision Agriculture in Practice
+### Practice of Precision Agriculture
 
-**Precision Fertilization:** Based on soil test results, fertilizer formulas are precisely calibrated, reducing waste and lowering environmental burden.
+**Precision fertilization**: Fertilizer formulas are precisely adjusted according to soil testing results, reducing waste and lowering environmental burdens.
 
-**Precision Pesticide Use:** Using pest and disease monitoring systems to apply pesticides precisely, reducing overall pesticide usage.
+**Precision pesticide use**: Pest and disease monitoring systems are used to enable precise pesticide application and reduce pesticide use.
 
-**Precision Irrigation:** Controlling irrigation precisely based on crop water needs and soil moisture, conserving water resources.
+**Precision irrigation**: Irrigation is precisely controlled according to crop water demand and soil moisture, conserving water resources.
 
-**Precision Harvesting:** Using maturity detection technology to harvest at the optimal time, ensuring product quality.
+**Precision harvesting**: Maturity detection technologies are used to harvest at the optimal time and ensure product quality.
 
-### Smart Agriculture Outcomes
+### Results of Smart Agriculture
 
-**Yield Improvement:** Smart agriculture technologies can on average improve crop yields by 15–30%.
+**Yield improvement**: The application of smart agriculture technologies can increase crop yields, according to Ministry of Agriculture smart agriculture program reports[^10].
 
-**Quality Enhancement:** Precision management makes agricultural product quality more consistent, meeting market demands.
+**Quality improvement**: Precision management makes agricultural product quality more stable and reduces differences between batches.
 
-**Cost Reduction:** Automated and precision management lowers both labor costs and input costs.
+**Cost reduction**: Automation and precision management reduce labor costs and input costs.
 
-**Environmental Friendliness:** Reduced pesticide and fertilizer use lowers the negative environmental impact.
+**Environmental friendliness**: Reduced use of pesticides and chemical fertilizers lowers negative impacts on the environment.
 
-## Integration of the Agricultural Supply Chain
+## Integration of the Agricultural Industrial Chain
 
-### Development of the Six-Sector Industry
+### Development of Sixth-Sector Industry
 
-Taiwan's agriculture is actively promoting six-sector industry development, integrating primary production, secondary processing, and tertiary services to create higher added value.
+Taiwanese agriculture promotes the development of sixth-sector industry, integrating primary production, secondary processing, and tertiary services to create higher added value.
 
-**Agricultural Processing Industry:** Developing refined processing technologies to produce high-value-added processed agricultural products, extending product shelf life and increasing product diversity.
+**Agricultural product processing**: Refined processing technologies are developed to produce high-added-value processed agricultural products, extend the shelf life of agricultural products, and increase product diversity.
 
-**Agricultural Services:** Including technical services, agricultural machinery services, agricultural finance, and agricultural insurance, providing comprehensive support for agricultural production.
+**Agricultural services**: These include agricultural technical services, agricultural machinery services, agricultural finance, and agricultural insurance, providing comprehensive support for agricultural production.
 
-**Agricultural Tourism:** Combining agricultural production with tourism to develop agricultural experiences, rural homestays, and agricultural specialty products.
+**Agritourism**: Agricultural production is combined with tourism to develop agricultural experiences, rural homestays, agricultural product souvenirs, and related services.
 
 ### Traceable Agricultural Products System
 
-**Food Safety Traceability:** Establishing a complete record system from production to sale, ensuring food safety is traceable.
+**Food safety traceability**: A complete record system from production to sales is established to ensure that food safety can be traced.
 
-**Quality Assurance:** Improving agricultural product quality and consumer confidence through standardized production and certification.
+**Quality assurance**: Standardized production and certification systems improve agricultural product quality and consumer confidence.
 
-**Brand Value Enhancement:** The traceable agricultural products label has become a guarantee of high-quality products, improving market competitiveness.
+**Enhancement of brand value**: The Traceable Agricultural Products label has become a guarantee of high-quality agricultural products, improving product competitiveness.
 
 ### E-Commerce and Direct Sales
 
-**Online Sales Platforms:** Farmers sell agricultural products directly through online platforms, reducing intermediary steps and improving income.
+**Online sales platforms**: Farmers sell agricultural products directly through online platforms, reducing intermediary stages and increasing income.
 
-**Community-Supported Agriculture:** Consumers order agricultural products directly from farmers, establishing stable production-and-sales relationships.
+**Community-supported agriculture**: Consumers order agricultural products directly from farmers, establishing stable production-and-sales relationships.
 
-**Farmers' Markets:** Regularly held farmers' markets allow farmers to face consumers directly, building trust.
+**Farmers' markets**: Regular farmers' markets allow farmers to face consumers directly and build relationships of trust.
 
 ## Challenges and Responses
 
-### The Impact of Climate Change
+### Impacts of Climate Change
 
-**Extreme Weather:** Increasing frequency of extreme weather events — typhoons, droughts, heavy rains — disrupts agricultural production.
+**Extreme weather**: The frequency of extreme weather such as typhoons, droughts, and torrential rain is increasing, affecting agricultural production.
 
-**Changing Pest and Disease Patterns:** Climate change is causing new pests and diseases to emerge, requiring adjustments to traditional control methods.
+**Changes in pests and diseases**: Climate change has led to the emergence of new pests and diseases, requiring adjustments to traditional control methods.
 
-**Crop Adaptability:** Traditional varieties may not be suited to new climate conditions, requiring new varieties to be bred.
+**Crop adaptability**: Traditional varieties may not adapt to new climatic conditions, requiring the breeding of new varieties.
 
-**Response Strategies:**
+**Response strategies**:
 
 - Develop stress-resistant varieties
-- Build disaster prevention facilities
-- Adjust planting systems
-- Establish early warning systems
+- Build disaster-prevention facilities
+- Adjust cropping systems
+- Establish early-warning systems
 
-### Labor Shortage
+### Labor Shortages
 
-**Population Aging:** Rural populations are aging severely, with young people reluctant to work in agriculture.
+**Population aging**: Rural population aging is severe, and young people are unwilling to engage in agricultural work.
 
-**Seasonal Labor Demand:** Some crops require large amounts of labor during specific seasons, but hiring is difficult.
+**Seasonal labor demand**: Certain crops require large amounts of labor in specific seasons, but workers are difficult to recruit.
 
-**Insufficient Technical Talent:** Modern agriculture requires more technical professionals, but the training system needs to be strengthened.
+**Shortage of technical talent**: Modern agriculture requires more technical talent, but training systems still need to be strengthened.
 
-**Response Strategies:**
+**Response strategies**:
 
 - Promote agricultural mechanization
-- Allow foreign workers
+- Introduce foreign labor
 - Strengthen vocational training
 - Improve agricultural compensation
 
 ### International Competitive Pressure
 
-**Agricultural Trade Liberalization:** WTO agreements and various regional trade agreements have increased international competitive pressure.
+**Agricultural trade liberalization**: The WTO and various regional trade agreements have increased international competitive pressure.
 
-**Cost Competition:** Compared with low-cost regions such as Southeast Asia, Taiwan's agriculture faces a cost disadvantage.
+**Cost competition**: Compared with lower-cost regions such as Southeast Asia, Taiwanese agriculture faces a cost disadvantage.
 
-**Quality Competition:** Taiwan must win on quality and distinctiveness, pursuing a high-value strategy.
+**Quality competition**: Taiwan must win on quality and distinctiveness, following a high-value path.
 
-**Response Strategies:**
+**Response strategies**:
 
 - Strengthen brand marketing
-- Develop high-value-added products
-- Build regional distinctiveness
+- Develop high-added-value products
+- Establish regional characteristics
 - Expand niche markets
 
 ## Future Prospects for Sustainable Development
 
-### Promoting Circular Agriculture
+### Promotion of Circular Agriculture
 
-**Resource Recycling:** Repurposing agricultural waste — for instance, using rice straw to make boards and fruit residue to make organic fertilizer.
+**Resource recycling and reuse**: Agricultural waste is reused, such as making boards from rice straw and producing organic fertilizer from fruit pomace.
 
-**Energy Recycling:** Using agricultural waste to generate green energy — biogas electricity generation and solar panel installation.
+**Energy circulation**: Agricultural waste is used to generate green energy, such as biogas power generation and the installation of solar panels.
 
-**Water Resource Recycling:** Developing water-saving irrigation technology and recovering rainwater and treated water.
+**Water resource circulation**: Water-saving irrigation technologies are developed, and rainwater and treated water are recycled and reused.
 
 ### Biodiversity Protection
 
-**Field Ecology:** Preserving habitat space within farmland to maintain farmland biodiversity.
+**Field ecology**: Biological habitat spaces are preserved in farmland to maintain farmland biodiversity.
 
-**Conservation of Genetic Resources:** Preserving traditional and wild varieties to maintain agricultural genetic resources.
+**Conservation of genetic resources**: Traditional varieties and wild species are preserved to maintain agricultural genetic resources.
 
-**Environmentally Friendly Farming Methods:** Promoting cultivation without pesticides or chemical fertilizers to protect soil and water sources.
+**Environment-friendly farming methods**: Cultivation methods that do not use pesticides or chemical fertilizers are promoted to protect soil and water sources.
 
 ### Carbon-Neutral Agriculture
 
-**Carbon Reduction Measures:** Reducing greenhouse gas emissions during the agricultural production process.
+**Carbon reduction measures**: Greenhouse gas emissions during agricultural production are reduced.
 
-**Carbon-Sequestering Farming:** Increasing soil carbon storage through soil management and crop planting.
+**Carbon-sequestering farming methods**: Soil management and crop cultivation are used to increase soil carbon storage.
 
-**Carbon Trading Mechanisms:** Establishing agricultural carbon trading systems to provide economic incentives for carbon-reducing farmers.
+**Carbon trading mechanisms**: Agricultural carbon trading systems are established to provide economic incentives to farmers who reduce carbon emissions.
 
-### Digital Agricultural Ecosystem
+### Digital Agriculture Ecosystem
 
-**Platform Integration:** Building an integrated digital agricultural platform connecting production, processing, and sales.
+**Platform integration**: Integrated digital agriculture platforms are established to connect production, processing, sales, and other stages.
 
-**Data Sharing:** Establishing a big data platform for agriculture to facilitate data sharing and applications.
+**Data sharing**: Agricultural big data platforms are established to promote data sharing and application.
 
-**Innovative Services:** Developing new types of agricultural service models based on digital technology.
+**Innovative services**: New agricultural service models based on digital technologies are developed.
 
-Taiwan's experience in agricultural modernization demonstrates that under conditions of limited resources, technology innovation, institutional innovation, and model innovation can enable agriculture to achieve high-quality, high-efficiency, and sustainable development. This "Taiwan Model" has not only found a path forward for Taiwanese agriculture — it has also provided valuable experience for the development of small-farm economies worldwide.
+The driving force behind Taiwan's agricultural modernization has always been external pressure: labor outflows forced mechanization, WTO competition forced branding, and food safety crises forced organic transition. Each pressure found a policy outlet. The next challenge is varietal renewal under climate change and land-use conflicts created by agrivoltaics. The solution will likewise have to begin with institutional innovation.
 
-Looking ahead, Taiwan's agriculture will continue moving toward smart, ecological, and internationally oriented development. While ensuring food security, it will create greater economic, social, and environmental value, becoming a model for sustainable development.
+**Further Reading**:
 
-**Further Reading:**
-
-- [Taiwan's Climate Crisis and Net-Zero Transition](/nature/台灣氣候危機與淨零轉型) — The impact of climate change on agriculture and fisheries, and the land-use conflicts arising from agri-solar policies
+- [Taiwan's Climate Crisis and Net-Zero Transition](/nature/台灣氣候危機與淨零轉型) — The impacts of climate change on agriculture and fisheries, and land-use conflicts triggered by agrivoltaic policy
 
 ## References
 
-1. [Council of Agriculture (now Ministry of Agriculture) — Agricultural Statistical Yearbook](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx)
-2. [National Development Council — Precision Agriculture Policy Planning Report](https://www.ndc.gov.tw/)
-3. [Taiwan Agricultural Research Institute, Ministry of Agriculture — Taiwan Agricultural Technology Development Report](https://www.tari.gov.tw/)
-4. Organic Agriculture Promotion Center, R.O.C. — Organic Agriculture Development Statistics
-5. [Soil and Water Conservation Bureau, Ministry of Agriculture — Rural Revitalization Program Results Report](https://www.ardswc.gov.tw/)
-6. [Taiwan Leisure Agriculture Development Association — Leisure Agriculture Industry Survey Report](https://www.taiwanfarm.org.tw/)
-7. [Agri-Food Agency, Ministry of Agriculture — Traceable Agricultural Products Certification Statistics](https://taft.moa.gov.tw/)
-8. [Institute of Economics, Academia Sinica — Research on Taiwan's Agricultural Transition](https://www.econ.sinica.edu.tw/)
-9. College of Bioresources and Agriculture, National Taiwan University — Sustainable Agriculture Research Report
-10. [Agricultural Technology Research Institute — Smart Agriculture Technology Development White Paper](https://www.atri.org.tw/)
-11. [Ministry of Environment — Environmentally Friendly Farming Promotion Program](https://www.moenv.gov.tw/)
-12. Department of Industrial Technology, Ministry of Economic Affairs — Agricultural Biotech Industry Development Plan
+[^1]: [Ministry of Agriculture Agricultural Statistics Yearbook](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Historical agricultural statistics from the Ministry of Agriculture (formerly the Council of Agriculture, Executive Yuan)
+
+[^2]: [National Development Council High-Value Agriculture Policy Planning](https://www.ndc.gov.tw/) — Policy planning reports on high-value agriculture and agricultural transformation
+
+[^3]: [Taiwan Agricultural Technology Development, Taiwan Agricultural Research Institute, Ministry of Agriculture](https://www.tari.gov.tw/) — Reports on agricultural technology research results and technological development
+
+[^5]: [Rural Regeneration Program Implementation Results Report, Agency of Rural Development and Soil and Water Conservation, Ministry of Agriculture](https://www.ardswc.gov.tw/) — Implementation results of the Rural Regeneration Fund and records of community guidance
+
+[^6]: [Leisure Agriculture Industry Survey Report, Taiwan Leisure Farms Development Association](https://www.taiwanfarm.org.tw/) — National survey of the number of leisure farms, visitor numbers, and industry scale
+
+[^7]: [Traceable Agricultural Product Certification Statistics, Agriculture and Food Agency, Ministry of Agriculture](https://taft.moa.gov.tw/) — Statistics on categories and area of certified Traceable Agricultural Products in Taiwan
+
+[^8]: [Research on Taiwan's Agricultural Transformation, Institute of Economics, Academia Sinica](https://www.econ.sinica.edu.tw/) — Analysis of Taiwan's agricultural structural transformation and policy
+
+[^10]: [Smart Agriculture Technology Development White Paper, Agricultural Technology Research Institute](https://www.atri.org.tw/) — Current status of IoT, AI, and automation technology applications in agriculture
+
+[^11]: [Environment-Friendly Cultivation Promotion Program, Ministry of Environment](https://www.moenv.gov.tw/) — Implementation results of ecological payments and environment-friendly cultivation policy
