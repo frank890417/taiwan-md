@@ -1,121 +1,131 @@
 ---
-title: 'Island Summits and Seas: Taiwan’s National Parks as Living Ecological Archives'
-description: 'A cultural translation of Taiwan’s nine national parks—an island-scale conservation network that stretches from tropical coasts to alpine snowlines, protecting endemic species, Indigenous heritage, and world-class geology.'
+title: "Island Summits and Seas: Ecology and Landscapes of Taiwan's National Parks"
+description: "Explore the unique ecosystems and conservation value of Taiwan's nine national parks, spanning complete landscapes from subtropical coastlines to alpine snow lines"
 date: 2026-03-19
-tags:
-  [
-    'national parks',
-    'conservation',
-    'endemic species',
-    'landscape diversity',
-    'environmental education',
-  ]
 author: 'Taiwan.md'
-difficulty: 'intermediate'
+category: 'Nature'
+subcategory: '國家公園與步道'
+tags: ['國家公園', '生態保育', '自然地景', '生物多樣性', '環境保護']
 readingTime: 12
-featured: true
 lastVerified: 2026-03-19
+lastHumanReview: false
+featured: true
 translatedFrom: 'Nature/台灣國家公園.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:3ce9f00d5b274081'
-sourceBodyHash: 'sha256:4ed766623132c30e'
-translatedAt: '2026-04-14T12:25:09+08:00'
-category: Nature
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:c51eb1a165d6a2f5'
+sourceBodyHash: 'sha256:99620fa1348fdcfe'
+translatedAt: '2026-05-15T15:39:39+08:00'
 ---
 
-# Island Summits and Seas: Taiwan’s National Parks as Living Ecological Archives
+# Island Summits and Seas: Ecology and Landscapes of Taiwan's National Parks
 
 ## 30-Second Overview
 
-Taiwan compresses an entire continent’s worth of ecosystems into one island. Across only 36,000 square kilometers, nine national parks protect a vertical ecological gradient that runs from tropical coasts to the 3,952‑meter summit of Yushan (玉山). These parks safeguard more than 30% of Taiwan’s land area and preserve thousands of endemic species, Indigenous cultural landscapes, and some of Asia’s most dramatic geology. Since Kenting National Park (墾丁) was established in 1982 and the newer Shoushan National Nature Park (壽山) was designated in 2024, the system has become one of the densest national park networks in the world.
+Taiwan has 9 national parks + 1 national nature park, encompassing a complete ecosystem ranging from sea level to the 3,952-meter Yushan (Jade Mountain) main peak. These national parks protect Taiwan's most precious natural and cultural assets, including endemic species, Indigenous cultural heritage sites, and world-class geological landscapes. From the establishment of the Kenting National Park Headquarters on January 1, 1984 (the plan was announced in 1982), to the opening of Shoushan National Nature Park on December 6, 2011 (Taiwan's first national nature park), and then to the formal establishment of the National Park Service under the Ministry of the Interior on September 20, 2023, Taiwan's national park system has become an important biodiversity conservation network in Asia. The April 3, 2024 Hualien earthquake caused devastating damage to Taroko National Park and represents the single greatest conservation challenge at present.[^1]
 
-**Keywords:** national parks, conservation, endemism, landscape diversity, environmental education
+**Keywords**: national parks, ecological conservation, endemic species, landscape diversity, environmental education
 
 ## Why It Matters
 
-Taiwan’s national parks are more than “protected areas.” They are the island’s ecological memory. Rapid industrialization once threatened to erase old-growth forests, alpine ecosystems, and traditional Indigenous territories. The park system created a legal and cultural boundary: some places are too precious to trade away.
+On the island of Taiwan, with an area of only 36,000 square kilometers, nine national parks connect a complete ecological gradient from tropical coastlines to alpine snow lines, protecting over 30% of Taiwan's terrestrial area. This density is extremely rare among national park systems worldwide. The parks not only shelter more than 2,500 endemic species but also serve as precious biological refuges in the era of climate change.[^5]
 
-In a warming climate, these parks act as ecological refuges. Species migrate upslope, wetlands buffer coastlines, and coral reefs signal ocean health. The parks also function as public classrooms—where Taiwanese people learn how geography, biodiversity, and culture interlock.
+The establishment of national parks has rescued the last remaining pristine landscapes from the wave of industrialization. Yushan National Park protects one of the highest peaks in East Asia, Shei-Pa National Park safeguards the Formosan landlocked salmon, and the marine national parks maintain coral reef ecosystems. These protected areas are treasure troves of Taiwan's biodiversity and places where future generations can learn to understand nature and coexist with the environment.
 
-## A Park System that Spans Altitudes and Cultures
+## Ecological Treasures of the Nine National Parks
 
-### Land Parks: From Coastal Tropics to Alpine Snow
+### Terrestrial National Parks: Complete Protection from Mountains to Sea
 
-**Kenting National Park (墾丁, 1982)**
-Taiwan’s first national park sits at the southern tip of the island, where tropical coastal forests meet coral reef shorelines. Kenting is famous for strong “Luo‑shan winds” (落山風) and a migratory raptor spectacle—thousands of gray‑faced buzzards (灰面鵟鷹) pass through each autumn. The park protects rare coastal forests and a remarkably high percentage of endemic plants.
+**Kenting National Park (plan announced 1982, headquarters established January 1, 1984)**
+Located on the Hengchun Peninsula at Taiwan's southernmost tip, this is Taiwan's first national park. It protects Taiwan's only tropical coastal forest, home to more than 1,200 plant species, of which the proportion of endemic species reaches one-quarter. The katamonso (descending mountain winds) from October to March of the following year shape the unique coral reef coastal terrain and grassland ecology. During migratory bird season, the passage of gray-faced buzzards through Manzhou Township is celebrated as the natural spectacle known as the "National Day Bird."
 
-**Yushan National Park (玉山, 1985)**
-Home to Northeast Asia’s highest peak, Yushan is a vertical world in itself. Subtropical broadleaf forests rise to alpine meadows and windswept ridgelines. The park is also a cultural landscape of the Bunun people (布農族), whose knowledge of high‑mountain survival and hunting paths shaped these peaks long before modern conservation.
+**Yushan National Park (established 1985)**
+Encompassing Taiwan's highest peak, Yushan Main Peak (3,952 meters), and the surrounding mountain ranges, this is Taiwan's largest national park by area. From subtropical broad-leaved forests to alpine grasslands, it fully preserves Taiwan's vertical vegetation zones. Alpine plants such as Yushan juniper and Taiwan fir form high-altitude ecosystems unique to East Asia. Bunun cultural heritage sites within the park bear witness to the millennia of coexistence wisdom between Indigenous peoples and the high-mountain environment.
 
-**Yangmingshan National Park (陽明山, 1985)**
-Only minutes from Taipei, Yangmingshan is a live volcano landscape—steam vents, sulfur crystals, and hot springs. It is Taiwan’s most accessible national park, showing how urban proximity can coexist with fragile ecosystems if carefully managed.
+**Yangmingshan National Park (established 1985)**
+A volcanic landscape conservation area adjacent to the Taipei metropolitan region, protecting the post-volcanic activity landscapes of the Datun Mountain system. The fumaroles of Sulfur Valley and the sulfur crystals of Xiaoyoukou reveal the active geological character of Taiwan. Cherry blossoms in spring, silvergrass flowers in autumn, and abundant hot spring resources make Yangmingshan the most accessible and visitor-friendly national park in Taiwan.
 
-**Taroko National Park (太魯閣, 1986)**
-Taroko is a marble canyon carved by the Liwu River (立霧溪). The white stone walls and steep gorges are a geological masterpiece—and a cultural home to the Truku people (太魯閣族). It is a reminder that geology is not just scenery; it shapes the histories and livelihoods of those who live here.
+**Taroko National Park (established 1986)**
+World-renowned for the gorge terrain formed by the Liwu River cutting through marble, it is hailed as a "world-class marble gorge landscape." The marble gorges of Swallow Grotto and Nine Turns Tunnel are the geological result of millions of years of tectonic movement and Liwu River erosion. The Truku Indigenous culture within the park forms a unique humanistic and natural landscape together with the gorge terrain.
 
-**Shei‑Pa National Park (雪霸, 1992)**
-Centered on Xueshan (雪山) and the iconic Dabajianshan (大霸尖山), Shei‑Pa protects cold‑water habitats vital to the Formosan landlocked salmon (台灣櫻花鉤吻鮭), a glacial‑age relic found almost nowhere else on Earth. Ancient cypress forests in the Wuling and Guanwu areas offer a glimpse of Taiwan’s pre‑logging past.
+**Shei-Pa National Park (established 1992)**
+Protecting the finest areas of the Xueshan (Snow Mountain) range, centered on Xueshan Main Peak and Dabajian Mountain. This is the last habitat of the Formosan landlocked salmon; the cold-water environment of Qijiawan溪 sustains the survival of this glacial-era relict species. The giant cypress groves in the Guanwu area bear witness to the thousand-year history of Taiwan's forests.
 
-**Kinmen National Park (金門, 1995)**
-Kinmen blends ecology with military memory. Fortifications from the Cold War sit beside wetlands that host migratory birds. It is a rare example of a “war landscape” now managed as a conservation and cultural heritage zone.
+**Kinmen National Park (established 1995)**
+Protecting Kinmen Island's unique wartime cultural landscape and migratory bird habitats. Traditional Fujian-style house settlements, military facilities, and natural ecology interweave to form a rare military-cultural landscape found few places in the world. Migratory birds such as cormorants and ruddy shelducks winter here, while Cihu and Lingshui Lake are Kinmen's most important wetland ecosystems.
 
-**Taijiang National Park (台江, 2009)**
-On Taiwan’s southwest coast, Taijiang protects lagoons, mudflats, and traditional fish‑pond landscapes. It is the winter home of the endangered black‑faced spoonbill (黑面琵鷺), a species whose comeback has become a conservation success story across East Asia.
+**Taijiang National Park (established 2009)**
+Taiwan's eighth national park, protecting the lagoons, wetlands, and fishpond landscapes along the Tainan coast. The wetlands at the mouth of the Zengwen River are an important wintering habitat for black-faced spoonbills, attracting approximately one-third of the global black-faced spoonbill population each winter. The balance between traditional fishing culture and modern conservation demonstrates the possibility of sustainable use.
 
-**South Penghu Marine Park (澎湖南方四島, 2014)**
-Offshore in the Penghu archipelago, this park preserves basalt sea cliffs, coral reefs, and seabird breeding grounds. It highlights Taiwan’s role as a guardian of oceanic biodiversity—not just land ecosystems.
+**Penghu South Sea Islands National Park (established 2014)**
+Taiwan's ninth national park, protecting the marine ecosystems of the four southern Penghu islands (Dongyu Pingyu, Xiyu Pingyu, Dongjiyu, and Xijiyu). Basalt sea-eroded landforms, coral reef ecosystems, and seabird breeding grounds form a tightly connected island ecological network.
 
-### National Nature Parks: Urban Ecologies
+### National Nature Parks: Protecting the Urban Green Lung
 
-**Shoushan National Nature Park (壽山, 2024)**
-Shoushan is a limestone ridge in Kaohsiung, often called the city’s “green lung.” Its macaques (台灣獼猴) share space with urban neighborhoods, illustrating a new model of metropolitan conservation where wildlife is not elsewhere—it is part of daily life.
+**Shoushan National Nature Park (opened December 6, 2011)**
+Taiwan's first national nature park (not 2024), protecting the coral limestone terrain and urban biodiversity of the Shoushan area in Kaohsiung. Formosan macaque populations coexist harmoniously with the city here, demonstrating a new model of ecological conservation in urban areas.
 
-### Marine National Parks: The Blue Territory
+## Marine National Parks: Guardians of the Blue Territory
 
-**Dongsha Atoll National Park (東沙環礁, 2007)**
-Taiwan’s first marine national park lies in the South China Sea. The atoll’s ring‑shaped reef supports turtles, dolphins, and coral ecosystems highly sensitive to warming oceans and acidification. It is a critical node in Taiwan’s blue‑water conservation strategy.
+**Dongsha Atoll National Park (established 2007)**
+Taiwan's seventh national park and its first marine national park, protecting the Dongsha Atoll ecosystem in the South China Sea. The approximately 25-kilometer-diameter atoll is fully preserved, with high coral reef coverage, serving as a core habitat for marine life such as sea turtles and cetaceans.
 
-## Conservation Challenges and Future Directions
+**Taijiang National Park Marine Area**
+In addition to its terrestrial wetlands, Taijiang National Park simultaneously protects the lagoon and estuarine ecosystems along the Tainan coast, serving as a marine protected area on Taiwan's southwestern shore.
 
-### Climate Pressure
+## Conservation Challenges and Future Outlook
 
-Taiwan’s alpine ecosystems are “moving upward.” As temperatures rise, subalpine conifers retreat and cold‑adapted species lose habitat. Marine parks face coral bleaching events that have become more frequent with rising sea temperatures.
+### Establishment of the National Park Service on September 20, 2023
 
-### Human Pressure
+On September 20, 2023, the Ministry of the Interior formally established the **National Park Service** (formerly the National Park Division of the Construction and Planning Agency, Ministry of the Interior), representing a major organizational reform of Taiwan's national park management system. The National Park Service coordinates policy formulation and management for all 9 national parks and 1 national nature park across Taiwan, enhancing the professionalism and independence of conservation work.
 
-Tourism and urbanization remain constant pressures. Taroko’s breathtaking gorges can be overwhelmed by visitors; Yangmingshan must constantly negotiate its boundary with Taipei’s expanding metropolitan footprint. The challenge is to keep parks accessible without turning them into theme parks.
+### The April 3, 2024 Hualien Earthquake: The Greatest Conservation Challenge
 
-### Indigenous Rights and Co‑Management
+**At 7:58 AM on April 3, 2024**, a strong earthquake struck off the coast of Hualien (CWA M_L 7.2 / USGS M_w 7.4, focal depth 15.5 km), with shaking intensity reaching 6+. Taroko National Park was the hardest-hit area—well-known attractions including the Shakadang Trail, Baiyang Trail, Nine Turns Tunnel, and Swallow Grotto were fully closed, with road collapses and rock wall failures at multiple locations. The earthquake caused multiple fatalities, including visitors on the Shakadang Trail, and Taroko National Park immediately closed its main attractions indefinitely.[^4]
 
-Many parks overlap with Indigenous territories. Taiwan has begun experimenting with co‑management (共管) frameworks, inviting Indigenous communities into conservation decision‑making. This is still a work in progress, but it marks an important shift: nature protection must also be cultural justice.
+This earthquake was the greatest geological impact since Taroko National Park's establishment in 1986, and reconstruction work is expected to take years or even more than a decade. The closure of Taroko has also affected Hualien's tourism industry, with estimated losses to related industries exceeding billions of NT dollars.
 
-## Environmental Education and Sustainable Travel
+### The Impact of Climate Change
 
-National parks are Taiwan’s most powerful environmental classrooms. School trips to Taroko’s geology trails, Yushan’s alpine ecology programs, or Taijiang’s wetland birding tours are not side activities—they are how a society learns to inhabit its own land responsibly.
+With global warming, Taiwan's alpine ecosystems face the pressure of "upward migration." The subalpine coniferous forest zones in high-altitude national parks such as Yushan and Shei-Pa are shrinking, and species adapted to cold climates face survival challenges. Marine national parks confront issues such as rising sea temperatures and ocean acidification, with coral bleaching areas continuing to expand over the past decade.
 
-Sustainable tourism is the next frontier. Seasonal flower festivals in Yangmingshan, bird‑watching in Taijiang, and cherry‑blossom hikes in Shei‑Pa can all work as low‑impact tourism models if visitor numbers, transport, and waste are carefully managed.
+### Managing Human Pressures
 
-## Taiwan’s Parks in the Global Conservation Network
+Taiwan's high population density means that areas surrounding national parks often face development pressure. The urbanization pressure on Yangmingshan National Park and the tourism impact on Taroko National Park both require finding a balance between conservation and utilization.
 
-Taiwan collaborates with international partners on coral reef monitoring, alpine ecology research, and biodiversity databases. Its scientific contributions—despite Taiwan’s political complexity on the world stage—are widely recognized. The parks are not just protected areas; they are research laboratories and global reference points for island ecology.
+### Indigenous Rights and Conservation
 
-## The Larger Story
+Many national parks are located within Indigenous traditional territories. Finding a balance between conservation goals and Indigenous cultural rights is an important issue in Taiwan's national park management. The "co-management mechanism" promoted in recent years, which involves Indigenous peoples in conservation management, demonstrates a new model of harmonious coexistence between culture and nature.
 
-Taiwan’s national parks tell a story of scale: a small island that contains almost every climate zone in East Asia, and a society that decided its most fragile landscapes deserve protection. In a time of rapid climate change, these parks are not only guardians of the present—they are investments in a livable future.
+## Ecological Education and Sustainable Tourism
 
-They are where Taiwanese people go to meet the island as it truly is: high, wet, wind‑carved, and alive. To protect these places is to protect the memory of Taiwan itself.
+Taiwan's national parks promote environmental education, from geological interpretation in Taroko to alpine ecology education in Yushan and wetland conservation experiences in Taijiang, attracting millions of participants annually. These activities concretely bridge the distance between urban residents and wild ecosystems.
+
+The promotion of sustainable tourism has made national parks models of ecotourism. The cherry blossom viewing activities in Shei-Pa National Park, the migratory bird season in Kenting, and the flower-viewing season in Yangmingshan have all successfully combined conservation with tourism, creating a win-win for both the economy and ecology.
+
+## International Cooperation and Research
+
+Taiwan's national parks participate in international conservation networks, establishing research collaborations with Japan, South Korea, the United States, and other countries. Coral reef monitoring data from Dongsha Atoll National Park and alpine ecological research from Yushan National Park have been cited by international organizations such as the IUCN.[^6]
+
+The density of ecosystem types in Taiwan ranks among the highest globally, and from molecular biology to ecosystem management, national parks serve as natural laboratories for cross-scale scientific research.
+
+---
+
+Taiwan's 9 national parks + 1 national nature park preserve the island's most precious natural and cultural heritage. On limited land, they safeguard complete ecosystems from subtropical coastlines to alpine snow lines, bearing witness to Taiwan's deep recognition of environmental protection values during its transformation from an agricultural society to a modern nation.
+
+Facing the challenges of climate change and human pressures, these national parks are evolving into a more resilient network of protected areas. Through scientific research, environmental education, and sustainable management, they protect natural resources for the present generation and preserve the possibility of coexisting with nature for future generations.
+
+Taiwan's national park system is the result of long-term collaboration between ecological conservation and public policy, and it is also a mechanism that allows Indigenous cultural heritage sites and natural landscapes to be preserved together.
 
 ## References
 
-- [National Park Service, Ministry of the Interior](https://www.nps.gov.tw/)
-- _Taiwan National Parks Annual_, Ministry of the Interior, 2020
-- [Forestry and Nature Conservation Agency — Biodiversity](https://www.forest.gov.tw/biodiversity)
-- [_Taiwan’s National Parks_ (book)](https://www.books.com.tw/products/0010193906)
-- [Taiwan Catalogue of Life](https://taicol.tw/)
-- [Forestry and Nature Conservation Agency](https://www.forest.gov.tw/)
-- [Taiwan Biodiversity Information Facility (TaiBIF)](https://portal.taibif.tw/)
-- [_Taiwan’s Most Beautiful Places: National Park Map_](https://www.books.com.tw/products/0010811062)
-- [Tourism Administration — Statistical Yearbook](https://admin.taiwan.net.tw/businessinfo/FilePage?a=14034)
-- [National Geographic (Chinese Edition)](https://www.natgeomedia.com/)
-- [National Park Biodiversity Database](https://npgis.nps.gov.tw/newpublic/)
-- [IUCN Protected Area Guidelines](https://iucn.org/our-union/commissions/world-commission-protected-areas/our-work/wcpa-publications/iucn-wcpa-good)
+[^1]: [National Park Service, Ministry of the Interior — Introduction to National Parks](https://www.nps.gov.tw/) — Official information on Taiwan's national parks, including year of establishment, area, and ecological data.
+
+[^2]: [Jianan Great Irrigation Canal Cultural Park — Hatta Yoichi Memorial Garden](https://www.tainan.gov.tw/) — Background on the Wushantou Reservoir and Jianan Canal construction, and records of Hatta Yoichi's engineering work.
+
+[^3]: [Forestry and Nature Conservation Agency, Ministry of Agriculture — Biodiversity Statistics](https://www.forest.gov.tw/biodiversity) — Statistics on Taiwan's endemic species count, forest coverage rate, and national park protected area.
+
+[^4]: [Hualien County Government — Records of the April 3, 2024 Earthquake Damage](https://www.hl.gov.tw/) — Earthquake damage to Taroko National Park, attraction closures, and reconstruction plans.
+
+[^5]: [Academia Sinica — Taiwan Catalogue of Life (TaiCoL)](https://taicol.tw/) — Taiwan biodiversity database, classification statistics for endemic and alien species.
+
+[^6]: [Taiwan Biodiversity Information Facility (TaiBIF)](https://portal.taibif.tw/) — Taiwan species distribution data platform, species observation records.

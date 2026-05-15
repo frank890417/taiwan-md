@@ -1,93 +1,94 @@
 ---
-title: 'China Steel : l'épopée industrielle du ministre de fer et des Dix Grands Travaux'
-description: 'Des négociations audacieuses de Chao Yao-tung en Europe jusqu'à la première colonne de fumée blanche s'élevant au-dessus de Xiaogang, China Steel a bâti en cinquante ans la colonne vertébrale de l'industrie lourde de Taïwan — le joyau incontesté des Dix Grands Travaux'
+title: "China Steel : le « ministre de fer » et la légende de l'acier des Dix Grands Projets"
+description: "Des négociations de Zhao Yaodong en Europe et aux États-Unis pour obtenir la technologie, à la première fumée blanche s'élevant à Siaogang, Kaohsiung, China Steel a mis 50 ans à bâtir l'épine dorsale de l'industrie lourde taïwanaise, devenant la perle la plus brillante des Dix Grands Projets"
 date: 2026-03-20
-tags: [Économie, Entreprises, Sidérurgie, Dix Grands Travaux, Industrie lourde]
-subcategory: 'Portraits d'entreprises'
+author: 'Taiwan.md Contributors'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
-readingTime: 8
-featured: false
+subcategory: '企業列傳'
+tags:
+  [
+    'Economy',
+    'Entreprise',
+    'Industrie sidérurgique',
+    'Dix Grands Projets',
+    'Industrie lourde',
+  ]
 lastVerified: 2026-03-20
-translatedFrom: "Economy/台灣企業：中鋼.md"
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:046697b621d130dd'
-sourceBodyHash: 'sha256:3296fd82b3d8a938'
-translatedAt: "2026-04-14T19:20:24+08:00"
+lastHumanReview: true
+featured: false
+translatedFrom: 'Economy/台灣企業：中鋼.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:204bc05a0920a7fd'
+sourceBodyHash: 'sha256:ec289a352e872076'
+translatedAt: '2026-05-15T15:39:40+08:00'
 ---
 
-> **En 30 secondes**
+> **Aperçu en 30 secondes**
 >
-> Fondée en 1971, la China Steel Corporation est le fleuron des Dix Grands Travaux de Chiang Ching-kuo. Son premier directeur général, surnommé « le ministre de fer », Chao Yao-tung, a mené des négociations habiles pour arracher à l'Europe et aux États-Unis les technologies convoitées. En décembre 1977, le premier haut-fourneau s'allume à Xiaogang, Kaohsiung. Cinquante ans plus tard, China Steel figure au 22e rang mondial des producteurs d'acier avec un chiffre d'affaires de 360,5 milliards de dollars taïwanais en 2024. L'entreprise ne fournit pas seulement Taïwan en matériaux de construction : elle est un maillon essentiel de la filière sidérurgique asiatique.
+> Fondée en 1971, China Steel (中國鋼鐵公司) est la perle des Dix Grands Projets de Chiang Ching-kuo. Son premier directeur général, Zhao Yaodong (趙耀東), qui devint ministre de l'Économie de 1981 à 1984 et acquit le surnom de « ministre de fer » (鐵頭部長), négocia une stratégie d'autonomie technologique. En 1972, il signa un accord de coopération technique avec McLouth Steel aux États-Unis, et en 1977, le premier haut fourneau de Siaogang, Kaohsiung, fut allumé. En 50 ans, China Steel est passée du statut de start-up à celui de 22ᵉ sidérurgiste mondial, avec un chiffre d'affaires de 360,5 milliards de dollars taïwanais en 2024.[^1]
 
-## Un bras de fer intellectuel avec les géants européens
+## Négocier l'autonomie technologique : de l'Europe aux États-Unis
 
-En 1970, à Taipei, se joue une négociation dont dépend le destin industriel de Taïwan. En face, des représentants européens tiennent entre leurs mains la technologie de sidérurgie intégrée que Taïwan convoite. Leurs conditions sont exorbitantes : prix prohibitifs, achat groupé d'équipements imposé en contrepartie, et restriction des droits de développement technologique futurs.
+Au début des années 1970, le bureau préparatoire de China Steel, en négociant des accords de coopération technique pour une aciérie à processus intégré, contacta plusieurs sidérurgistes européens. Mais les conditions proposées incluaient des clauses d'achat obligatoire d'équipements liés et des restrictions sur le développement technologique futur de Taïwan. Zhao Yaodong jugea ces conditions trop contraignantes et interrompit volontairement les négociations avec l'Europe pour se tourner vers les États-Unis, à la recherche d'un mode de coopération plus égalitaire.[^2]
 
-C'est alors qu'un ingénieur aux lunettes épaisses, au verbe direct, se lève. Il s'appelle Chao Yao-tung, fraîchement rappelé des États-Unis par Chiang Ching-kuo pour diriger le comité de préfiguration de China Steel. Face à l'arrogance du consortium européen, il prend une décision qui stupéfie l'assemblée : « Merci. Nous déclinons. »
+## La coopération technique avec McLouth Steel aux États-Unis
 
-Le silence s'abat dans la salle. Personne n'imaginait que Taïwan, aux ressources limitées, oserait dire non à l'hégémonie technologique européenne. Mais Chao avait déjà une autre idée en tête : trouver un vrai partenaire pour Taïwan, pas un colonisateur technologique.
+Zhao Yaodong décida de quitter l'Europe pour chercher un partenariat aux États-Unis. L'industrie sidérurgique américaine se montrait initialement sceptique quant aux capacités industrielles de Taïwan, estimant qu'une économie est-asiatique à peine sortie d'une politique de substitution aux importations serait incapable d'exploiter des installations d'aciérie à processus intégré, industrie à forte intensité capitalistique et à longue chaîne d'approvisionnement.[^2]
 
-## Le retournement américain du « ministre de fer »
+À ce moment décisif, Zhao Yaodong fit preuve de la rationalité d'un ingénieur et de la sagesse d'un homme d'affaires. Il ne parla ni sentiment ni politique, mais démontra, données précises à l'appui, la base industrielle et la qualité des ressources humaines de Taïwan. Il proposa un plan incitant les Américains à s'engager : un transfert de technologie et une coopération à long terme, plutôt qu'un simple achat d'équipements.
 
-Chao Yao-tung quitte l'Europe et se tourne vers les États-Unis. Mais l'industrie sidérurgique américaine accueille la démarche avec le même scepticisme : « Taïwan est-il vraiment capable de faire tourner des équipements industriels aussi complexes ? »
+En 1972, China Steel signa un accord de coopération technique avec la société américaine **McLouth Steel** (une aciérie à processus intégrée du Michigan) et engagea le cabinet de conseil américain C.E. Lummus pour fournir une assistance en ingénierie. Ces négociations permirent non seulement à Taïwan d'économiser des fonds considérables, mais surtout d'obtenir l'autonomie technologique. La stratégie de Zhao Yaodong permit à China Steel d'emblée d'acquérir la capacité d'absorber, d'améliorer et de développer sa propre technologie, plutôt que de rester un simple acheteur d'équipements.
 
-Face au doute, Chao déploie à la fois la rigueur de l'ingénieur et le sens des affaires du négociateur. Pas d'arguments émotionnels, pas de discours politiques — rien que des données précises illustrant la solidité des bases industrielles et la qualité du capital humain taïwanais. Surtout, il propose une formule que les Américains ne peuvent refuser : un transfert de technologie assorti d'un partenariat à long terme, plutôt qu'une simple transaction d'équipements.
+## La première fumée blanche de Siaogang
 
-En 1972, China Steel signe avec la U.S. Steel Corporation et des cabinets de conseil américains. Cette négociation permet à Taïwan non seulement d'économiser des sommes considérables, mais surtout d'obtenir une vraie autonomie technologique. Dès l'origine, China Steel ne se positionne pas comme un simple acquéreur de technologie, mais comme un partenaire capable d'absorber, d'améliorer et de développer ses propres savoir-faire.
+En 1977, la zone industrielle de Siaogang, à Kaohsiung, acheva la construction du premier haut fourneau de China Steel et procéda à l'allumage d'essai, marquant la mise en service officielle de la première acière à processus intégrée de Taïwan.[^1]
 
-On comprendra plus tard que ce retournement en apparence impossible incarnait ce qu'il y a de plus précieux dans l'entrepreneuriat taïwanais : l'audace du plus faible face au plus fort, et le refus obstiné de la dépendance technologique.
+Mais les débuts furent difficiles. China Steel naissante fit face à d'innombrables défis techniques : les proportions de matières premières devaient être déterminées par tâtonnement, les paramètres opérationnels nécessitaient des ajustements répétés, et les normes de qualité des produits devaient atteindre le niveau international. L'équipe technique dirigée par Zhao Yaodong vivait pratiquement dans l'usine, surveillant chaque étape de la production 24 heures sur 24.
 
-## La première colonne de fumée blanche à Xiaogang
+La difficulté la plus grande concernait les ressources humaines. Taïwan n'avait jamais eu d'expérience en matière d'aciérie à processus intégrée ; toute la technique opérationnelle devait être apprise à partir de zéro. China Steel envoya une centaine d'ingénieurs se former aux États-Unis, qui, à leur retour, formèrent à leurs tours leurs collègues. L'équipe technique de China Steel construisit ainsi, par la pratique, une expérience locale d'exploitation d'aciérie à processus intégrée.
 
-Le 3 décembre 1977, à l'aube, une tension palpable règne sur la zone industrielle de Xiaogang, à Kaohsiung. Après six ans de construction, le premier haut-fourneau de China Steel est prêt à être mis à feu.
+## De la substitution aux importations à la création de devises à l'exportation
 
-Quand la fumée blanche s'élève lentement du sommet de la cheminée de 143 mètres, toutes les personnes présentes retiennent leur souffle. Ce n'est pas simplement l'allumage d'un haut-fourneau : c'est la naissance de l'industrie lourde taïwanaise. Désormais, Taïwan ne dépend plus entièrement de l'acier importé. Il possède son propre « cœur d'acier ».
+En 1983, les produits de China Steel commencèrent à être massivement exportés vers le Japon. Le Japon est l'un des pays les plus avancés au monde en matière de technologie sidérurgique ; le fait que China Steel ait pu pénétrer le marché japonais démontrait que la qualité de ses produits avait atteint un niveau de compétitivité internationale.
 
-Les débuts sont laborieux. Les premières années, China Steel accumule les défis techniques : le dosage des matières premières est à découvrir de zéro, les paramètres d'exploitation demandent des ajustements incessants, et les standards de qualité des produits doivent atteindre le niveau international. Chao Yao-tung et son équipe technique vivent pratiquement dans l'usine, surveillant chaque étape de la production vingt-quatre heures sur vingt-quatre.
+Plus surprenant encore était le prix à l'exportation. Grâce à un contrôle rigoureux des coûts, les produits de China Steel disposaient d'un avantage concurrentiel évident sur le marché international. Au milieu des années 1980, China Steel était devenue une importante base d'exportation d'acier en Asie, ses produits étant vendus au Japon, en Corée du Sud, en Asie du Sud-Est et ailleurs.
 
-Le plus difficile reste la question humaine. Taïwan n'a aucune expérience d'une aciérie intégrée : tout est à apprendre. China Steel envoie une centaine d'ingénieurs aux États-Unis pour se former, qui transmettent ensuite leurs connaissances à leurs collègues. Ces « sidérurgistes de la première heure » forgent, à la sueur de leur front et par leur intelligence, le savoir-faire sidérurgique propre à Taïwan.
+Cette transformation était significative. China Steel, initialement un outil de politique de « substitution aux importations », était devenue un moteur économique de « création de devises à l'exportation ». Plus important encore, elle prouvait que Taïwan était capable de rivaliser avec les pays avancés dans le domaine de l'industrie lourde à forte intensité technologique.
 
-## De la substitution aux importations à la conquête des marchés extérieurs
+## La puissance sidérurgique derrière les chiffres
 
-En 1983, un événement marque un tournant : les produits de China Steel commencent à s'exporter massivement vers le Japon.
+Après 50 ans de développement, l'échelle de China Steel s'est considérablement élargie. En 2024, le chiffre d'affaires atteignait 360,5 milliards de dollars taïwanais, le bénéfice net après impôts s'élevait à 3,875 milliards de dollars taïwanais ([^3]), elle se classait au 22ᵉ rang mondial des producteurs d'acier, avec une capacité de production annuelle d'environ 10 millions de tonnes métriques.[^5]
 
-La nouvelle fait l'effet d'une onde de choc dans la sidérurgie asiatique. Le Japon est l'un des pays les plus avancés technologiquement au monde dans ce secteur : que ses usines acceptent des aciers taïwanais atteste d'une qualité d'ores et déjà comparable aux meilleurs standards mondiaux.
+Cependant, en 2022 et 2023, face au recul mondial de la demande d'acier et au dumping massif d'acier à bas prix en provenance de Chine, China Steel a enregistré des baisses brutales de bénéfices ou des pertes consécutives : en 2022, le bénéfice net après impôts a chuté brusquement depuis un pic de 22,6 milliards de dollars taïwanais, et en 2023, les pertes ont atteint 6,4 milliards de dollars taïwanais, soit la première perte annuelle en près de dix ans.[^3] En 2024, une légère reprise a été observée, mais les bénéfices restaient bien inférieurs au pic de 2021-2022.
 
-La compétitivité tarifaire est tout aussi remarquable. Grâce à une maîtrise rigoureuse des coûts, China Steel s'impose avec un avantage concurrentiel net sur les marchés internationaux. Au milieu des années 1980, l'entreprise est devenue une plateforme majeure d'exportation d'acier en Asie, présente au Japon, en Corée du Sud et en Asie du Sud-Est.
+Les autoroutes, le système de métro, le gratte-ciel Taipei 101 et la construction du train à grande vitesse de Taïwan ont tous massivement utilisé des produits de China Steel, qui constitue l'un des principaux marchés en aval nationaux de l'entreprise.
 
-Cette transformation a une portée symbolique considérable. China Steel est passé d'instrument de politique de substitution aux importations à véritable moteur de devises à l'exportation. Plus important encore, il prouvait que Taïwan pouvait s'imposer, même dans les secteurs lourds à forte intensité technologique, face aux nations les plus avancées.
+China Steel est également l'une des réussites les plus éloquentes de la privatisation d'une entreprise publique à Taïwan. Transformée en entreprise privée en 1995, elle a conservé son statut stratégique national tout en acquérant une capacité d'adaptation au marché plus flexible. Ce modèle d'« économie mixte » est devenu une référence pour d'autres pays asiatiques.
 
-## Une puissance sidérurgique en chiffres
+## Défis et transition : vers l'acier vert
 
-Après cinquante ans de développement, China Steel affiche un bilan impressionnant. En 2024, son chiffre d'affaires atteint 360,5 milliards de dollars taïwanais, avec un bénéfice net de 3,875 milliards. L'entreprise figure au 22e rang mondial des producteurs d'acier, avec une capacité de production annuelle d'environ 10 millions de tonnes.
+Au XXIᵉ siècle, China Steel fait face à de nouveaux défis. La surcapacité sidérurgique mondiale, la concurrence à bas prix de la Chine continentale, le renforcement des normes environnementales… tout cela met à l'épreuve la capacité d'adaptation de l'entreprise.
 
-Derrière ces chiffres, c'est l'impact profond de China Steel sur l'économie taïwanaise qui mérite l'attention. Les autoroutes, les lignes de métro, le Taipei 101, le TGV taïwanais... presque tous les grands chantiers du pays ont utilisé ses produits. On peut le dire sans exagération : China Steel est l'armature d'acier de la modernisation de Taïwan.
+Le plus grand défi provient de la pression en faveur de la neutralité carbone. L'industrie sidérurgique est une industrie à forte consommation d'énergie et à fortes émissions de carbone ; face à l'objectif de neutralité carbone à l'horizon 2050, China Steel doit opérer une transformation fondamentale.
 
-China Steel constitue aussi l'un des exemples les plus réussis de privatisation d'une entreprise d'État à Taïwan. Transformée en société privée en 1995, elle a conservé son rôle stratégique national tout en gagnant en agilité face au marché. Ce modèle d'« économie mixte » est devenu une référence étudiée par d'autres pays asiatiques.
+La stratégie de réponse de China Steel consiste à investir dans les technologies de l'acier vert : développement de la technologie de réduction de l'acier par hydrogène, augmentation de la proportion de ferraille utilisée, investissement dans des équipements de capture du carbone… En 2024, China Steel a reçu le prix de compétitivité industrielle zéro émission nette de la Fondation du XXIᵉ siècle (財團法人二十一世紀基金會), signe que ses efforts en matière de transition verte ont été reconnus.
 
-## Défis et mutation : vers l'acier vert
+## La perle la plus brillante des Dix Grands Projets
 
-À l'entrée du XXIe siècle, China Steel fait face à de nouveaux enjeux. Surcapacité mondiale, concurrence des aciers bon marché en provenance de Chine continentale, durcissement des normes environnementales : tout cela met à l'épreuve la capacité d'adaptation de l'entreprise.
+China Steel est l'exemple de réussite commerciale relative parmi les Dix Grands Projets. Après sa privatisation en 1995, tout en conservant sa fonction stratégique nationale d'approvisionnement en acier, elle a acquis une capacité d'adaptation au marché. Le parcours de développement de China Steel — « licence technologique – absorption – R&D autonome » — est également devenu un modèle de référence pour de nombreuses autres entreprises manufacturières taïwanaises lors de l'introduction de technologies.
 
-Le défi majeur est celui de la neutralité carbone. La sidérurgie est une industrie très énergivore et émettrice de CO₂ ; pour atteindre l'objectif de neutralité carbone à l'horizon 2050, China Steel doit engager une transformation structurelle.
+## Direction actuelle
 
-Sa stratégie repose sur l'investissement dans les technologies d'acier vert : développement de la réduction par hydrogène, augmentation de la proportion de ferraille recyclée, investissements dans des équipements de capture du carbone. En 2024, China Steel a reçu le prix de compétitivité industrielle bas carbone décerné par la Fondation du XXIe siècle, reconnaissance de ses efforts en matière de transition écologique.
+Le président actuel de China Steel est **Huang Chien-chih** (黃建智), nommé en 2024, succédant à **Weng Chao-tung** (翁朝棟), en fonction de 2022 à 2024.[^3]
 
-## Le joyau le plus brillant des Dix Grands Travaux
+## Références
 
-Avec le recul, China Steel s'impose comme la réussite la plus éclatante des Dix Grands Travaux. Comparé aux autres projets de la même époque, China Steel n'a pas seulement atteint les objectifs de politique publique initiaux : il a continué de croître et de se renforcer à mesure qu'il s'ouvrait au marché.
+[^1]: [China Steel — Wikipédia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — Historique de China Steel, incluant la fondation en 1971, l'allumage du haut fourneau en 1977 et la privatisation en 1995.
 
-Plus fondamentalement, son modèle de développement a inspiré des entreprises comme TSMC ou Formosa Plastics : importer une technologie étrangère de pointe, former les talents locaux, bâtir une capacité de recherche et développement autonome, puis s'imposer sur la scène internationale. Cette voie de « croissance par la technologie » est devenue l'un des gènes fondateurs de l'industrie technologique taïwanaise.
+[^2]: [Epoch Times : Le « ministre de fer » dans le cœur du peuple — Zhao Yaodong et la légende de China Steel](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Récit des négociations de Zhao Yaodong avec McLouth Steel aux États-Unis et origine du surnom « ministre de fer » durant son mandat comme ministre de l'Économie en 1981.
 
-De la négociation visionnaire de Chao Yao-tung, jusqu'à la première volute de fumée blanche à Xiaogang, en passant par la transition verte d'aujourd'hui, l'histoire de China Steel est le miroir du développement industriel de Taïwan. Elle dit ceci : avec la bonne stratégie, une détermination sans faille et une innovation continue, les entreprises taïwanaises peuvent briller sur la scène mondiale.
+[^3]: [Site officiel de China Steel et rapport annuel 2024](https://www.csc.com.tw/) — Données opérationnelles les plus récentes et rapport annuel du groupe China Steel.
 
-Dans une époque de ressources rares, China Steel a forgé l'armature industrielle de Taïwan haut-fourneau après haut-fourneau. À l'ère du développement durable, il ouvre un nouveau chapitre industriel grâce aux technologies vertes. L'acier ne ment pas, les chiffres non plus — cinquante ans de résultats sont la meilleure démonstration de la puissance industrielle de Taïwan.
+[^4]: [Dix Grands Projets — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Contexte politique des Dix Grands Projets de la République de Chine et positionnement de China Steel.
 
-## Sources
-
-- [Site officiel de la China Steel Corporation et rapport annuel 2024](https://www.csc.com.tw/)
-- [Epoch Times : Chao Yao-tung, le « ministre de fer » fondateur de la légende China Steel](https://www.epochtimes.com/b5/14/8/18/n4227993.htm)
-- [Wikipédia : Dix Grands Travaux](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD)
-- [Wikipédia : China Steel Corporation](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5)
-- [Statistiques de la World Steel Association](https://worldsteel.org/)
+[^5]: [Statistiques de l'Association mondiale de l'acier](https://worldsteel.org/) — Classement mondial des aciéries et statistiques de capacité de production.

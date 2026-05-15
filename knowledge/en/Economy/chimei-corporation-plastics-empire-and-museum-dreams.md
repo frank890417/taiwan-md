@@ -1,121 +1,103 @@
 ---
-translatedFrom: 'Economy/台灣企業：奇美實業.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ef66216f5745267b'
-sourceBodyHash: 'sha256:311e82e102e15eb1'
-translatedAt: '2026-05-01T15:38:13+08:00'
-title: 'Chimei Corporation: Building a Plastics Empire and Museum Dreams'
-description: "Starting from a small Tainan factory in 1960, Hsu Wen-lung spent his life building Asia's largest ABS materials empire and creating the Chimei Museum to give back to society — proving Taiwanese enterprises can balance commercial success with humanistic values"
+title: "Chimei Corporation: Hsu Wen-lung's Acrylic Kingdom and Museum Dream"
+description: "Starting from a small factory in Rende, Tainan in 1960, Hsu Wen-lung spent a lifetime building Asia's largest ABS materials empire and established the Chimei Museum to give back to society. Proof that Taiwanese enterprises can balance commercial success with humanistic care."
 date: 2026-03-20
-tags:
-  [
-    'Economy',
-    'Enterprise',
-    'Chemical Industry',
-    'Polymer Materials',
-    'Tainan Enterprise',
-  ]
+author: 'Taiwan.md Contributors'
+category: 'Economy'
 subcategory: '企業列傳'
-author: 'Taiwan.md'
+tags: ['Economy', '企業', '化學工業', '高分子材料', '台南企業']
 readingTime: 8
-featured: false
 lastVerified: 2026-03-20
-lastHumanReview: true
-category: Economy
+lastHumanReview: 'true'
+featured: 'false'
+translatedFrom: 'Economy/台灣企業：奇美實業.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:ae9b504389b6e4fd'
+sourceBodyHash: 'sha256:318b91e549ea3a09'
+translatedAt: '2026-05-15T15:39:39+08:00'
 ---
 
-> **30-Second Overview**
->
-> Chimei Corporation was founded by Hsu Wen-lung in 1960, starting from a small factory in Rende, Tainan, and growing into one of the world's top five ABS resin suppliers with annual production capacity of one million metric tons. Products are widely used in automotive, electronics, and home appliance industries — the smartphone casing in your hand may well be made of Chimei materials. Hsu Wen-lung further donated to build the Chimei Museum, demonstrating the humanistic sentiment and social responsibility of a Taiwanese entrepreneur.
+> **30-second overview:** Chimei Corporation was founded by Hsu Wen-lung in 1960, starting from a small factory in Rende, Tainan, and has grown into one of the world's top five ABS resin suppliers (as of 2024). Its products are widely used in the automotive, electronics, and home appliance industries. Hsu Wen-lung also donated the construction of the Chimei Museum, which opened to the public free of charge in 2015, making it one of the largest privately donated comprehensive museums in Taiwan.
 
-## A Chemical Industry Outsider's Dream of Acrylic Glass
+## A Chemical Industry Outsider's Dream of Aircraft Glass
 
-In 1960 Rende, Tainan, a 34-year-old man stood in a small factory he had just rented, holding technical materials brought back from Japan, his eyes glowing with excitement. His name was Hsu Wen-lung — originally just a small boss who made plastic molds, and now he was taking on a completely unfamiliar field: acrylic resin manufacturing.
+In 1960, in Rende, Tainan, Hsu Wen-lung, 34 years old, was originally just a small plastics mold maker, but now he was about to venture into a completely unfamiliar field—acrylic resin manufacturing.
 
-This decision had a coincidental starting point. In 1959, Japan's Mitsubishi Chemical came to Taiwan to promote MMA monomer (the raw material for making acrylic), and at the time no one in Taiwan understood this technology. But Hsu keenly sensed an opportunity: MMA could make transparent aircraft glass panels and all kinds of transparent products, with enormous market potential.
+The starting point of this decision was quite accidental. In 1959, Japan's Mitsubishi Chemical came to Taiwan to promote MMA monomer (the raw material for making acrylic), and at the time, no one in Taiwan understood this technology. But Hsu Wen-lung keenly sensed the opportunity: MMA could be used to make aircraft transparent glass panels and various transparent products, with enormous market potential. He proactively went to Japan to learn acrylic resin manufacturing technology, and after returning to Taiwan, he learned while doing it, and actually built the factory.
 
-The key was Hsu Wen-lung's learning ability. He actively went to Japan to learn acrylic resin manufacturing technology, and upon returning to Taiwan began learning and doing simultaneously — and actually got the factory up and running. When Japanese Mitsubishi received the factory photos Hsu proactively sent, they were astonished by this Taiwanese man's execution ability and decided to provide technical guidance and supply raw materials.
+When Mitsubishi Chemical in Japan received factory photos that Hsu Wen-lung had proactively sent, they were shocked by this Taiwanese man's execution ability and decided to provide technical guidance and supply raw materials. And so, "Chimei Industrial Factory" was born, becoming Taiwan's first polymethyl methacrylate (acrylic) manufacturer. A chemical industry outsider, relying on sharp business instincts and a strong desire to learn, opened a new chapter in Taiwan's polymer materials industry.[^1]
 
-And so "Chimei Industrial Factory" was born — Taiwan's first polymethyl methacrylate (acrylic) manufacturer. A chemical industry outsider, with keen business acumen and intense desire to learn, opened a new chapter in Taiwan's polymer materials industry.
+## From Imitation to Innovation: Technological Breakthroughs
 
-## Technology Breakthrough: From Imitation to Innovation
+From the start of his entrepreneurship, Hsu Wen-lung held the philosophy of "technology as the foundation," insisting on investing in R&D and accumulating independent technological capabilities rather than relying on licensing and external purchases forever. In the early 1960s, Taiwan's chemical technology was almost entirely dependent on imports. He invested substantial resources to build an R&D team, continuously improved production processes, and digested the learned technology into his own core capabilities.
 
-Chimei's success was not accidental but the embodiment of Hsu Wen-lung's philosophy of "building on technology."
+In the 1970s, Chimei entered the ABS resin field. ABS is a high-performance engineering plastic widely used in the automotive, electronics, and home appliance industries. ABS production technology is more complex than acrylic, requiring precise polymerization and modification technologies. The Chimei engineering team spent years of repeated experimentation and finally mastered the key processes. By the 1980s, Chimei's ABS product quality had reached internationally advanced levels.[^2]
 
-In the early 1960s, Taiwan's chemical technology was almost entirely dependent on imports. But Hsu was unwilling to just be a user of technology — he wanted to become a creator of technology. He invested substantial resources to build an R&D team, continuously improving production processes and elevating product quality.
+After mastering the foundational technology, Chimei began conducting original R&D, developing various special-specification ABS materials to meet customers' differentiated needs. This customization capability built an almost irreplicable technological barrier for Chimei in the fiercely competitive market.
 
-In the 1970s, Chimei began entering the ABS resin field. ABS is an engineering plastic with excellent performance, widely used in automotive, electronics, and home appliance industries. Hsu identified the enormous potential of this market and decided to go all in.
+## A Materials Empire Among the World's Top Five
 
-But ABS production technology is more complex than acrylic, requiring precise polymerization and modification technology. Chimei's engineering team spent years of continuous experimentation and adjustment before finally mastering the key technology. By the 1980s, Chimei's ABS product quality had reached international advanced levels.
+After more than 60 years of development, Chimei has become one of Asia's largest ABS resin suppliers, with a global market share of approximately 8-10% (as of the 2020s), ranking among the top five. From the R&D center at its Taiwan headquarters, to production bases on the Chinese mainland, to an overseas factory in Texas, USA, Chimei has established a global manufacturing service network, with an annual production capacity of 1 million metric tons (as of 2024), offering over 2,000 product grades covering a wide range of applications.[^2]
 
-More importantly, Chimei was not satisfied with imitation and began original R&D. They developed multiple special-specification ABS materials to meet customers' specialized needs. This customization capability became an important advantage in fierce market competition.
+Chimei's products are everywhere. The smartphone case in your hand, the home appliances in your house, the car parts on the road—all may use Chimei's materials. But you can't see or feel them, because Chimei is in the "hidden champion" business—providing high-quality raw materials for other manufacturers, with technical services extending from material design to processing applications, so that customers' purchasing decisions are not just about buying materials, but about buying a complete solution.
 
-## The Materials Kingdom in the Global Top Five
-
-After more than 60 years of development, Chimei has become one of Asia's largest ABS resin suppliers, with a global market share of approximately 8–10%, ranking in the top five.
-
-Behind this achievement is Chimei's complete industry chain layout. From the R&D center at Taiwan headquarters, to production bases in mainland China, to the overseas factory in Texas, USA, Chimei has built a globalized manufacturing service network. Annual production capacity reaches one million metric tons, with over 2,000 grades of products covering almost all application fields.
-
-Chimei's products are everywhere. The smartphone in your hand, the electrical appliances at home, the car parts on the road — all may use Chimei materials. But you cannot see or touch them, because Chimei is in the business of the "hidden champion" — providing high-quality raw materials to other manufacturers.
-
-What is most admirable is Chimei's technical service capability. They do not just sell materials but provide complete solutions — from material design and processing applications to technical services — forming a complete value chain. This customer value-oriented business model has kept Chimei consistently leading in fierce competition.
+Chimei Optoelectronics (CMO) is an important side note to this expansion period. The Chimei Group entered the panel industry in 2002, establishing Chimei Optoelectronics, which once became one of the world's top three TFT-LCD panel manufacturers. In 2010, Chimei Optoelectronics merged with Innolux Corporation, and the merged Innolux became Taiwan's second-largest panel manufacturer, writing a chapter of cross-industry expansion for the Chimei Group's business landscape.[^3]
 
 ## Hsu Wen-lung's Museum Dream
 
-But what Hsu Wen-lung is most celebrated for is not his business achievements but his humanistic sentiment.
+Hsu Wen-lung's humanistic investment was as concrete and measurable as his commercial achievements: he spent NT$2 billion to build a museum open to the public for free. In 2015, the Chimei Museum officially opened, becoming a new landmark in Tainan. This European classical building houses Hsu Wen-lung's lifetime collection of art treasures: from classical instruments to Western paintings, from animal specimens to weapon collections, making it the largest privately donated comprehensive museum in Taiwan.[^4]
 
-In 2015, the Chimei Museum — built at a cost of NT$2 billion — officially opened, becoming a new landmark of Tainan. This European classical-style building houses the artistic treasures Hsu collected throughout his life: from classical instruments to Western paintings, from animal specimens to weapons collections, a dazzling array.
+Hsu Wen-lung's museum dream stemmed from his life philosophy: "Making money is not the purpose of a business; giving back to society is the meaning." The Chimei Museum is open to the public for free, attracting hundreds of thousands of visitors annually, allowing local Tainan residents and out-of-town tourists to access art treasures that originally belonged only to a few collectors, transforming originally private aesthetic assets into public cultural resources.
 
-Hsu Wen-lung's museum dream stemmed from his life philosophy: "Making money for an enterprise is not the purpose; giving back to society is the meaning." He believed entrepreneurs should bear greater social responsibility — not just creating wealth but creating cultural value.
+On February 27, 2023, Hsu Wen-lung passed away at the age of 94, and people from all walks of life in Taiwan deeply mourned him. What he left behind, in addition to a materials empire with an annual production of one million metric tons, is a museum open to the public for free, and the "corporate citizenship" belief he practiced throughout his life.[^5]
 
-The Chimei Museum is open free of charge, attracting hundreds of thousands of visitors annually. This is not a commercial investment but a pure social contribution. Hsu Wen-lung demonstrated through action that Taiwanese entrepreneurs can pursue commercial success while also attending to humanistic concern and social responsibility.
+After Hsu Wen-lung's passing, the actual management of Chimei Corporation has been led by his successor Liao Chin-hsiang (current chairman). Liao Chin-hsiang has long been trained within the Chimei system, is deeply familiar with the materials industry chain, and continues to drive Chimei's R&D layout in high-performance materials and eco-friendly materials. The "happiness" corporate culture established by Hsu Wen-lung and the promise of museum social giving have been continued under the leadership of the new management.
 
-## Sustainable Operations: Green Transformation
+## Green Transformation for Sustainable Operations
 
-Facing global environmental trends, Chimei is also actively promoting a green transformation.
+Facing global environmental trends, Chimei is actively promoting green transformation. Chimei has developed various eco-friendly materials—recyclable plastic materials, bio-based materials, low-carbon-footprint materials—these innovations not only meet environmental requirements but also create additional value for customers in their own carbon audits and supply chain ratings.
 
-Chimei has developed multiple environmentally friendly materials: recyclable plastic materials, bio-based materials, low-carbon footprint materials... These innovations not only meet environmental requirements but also create new value for customers.
+In terms of production processes, Chimei continues to invest in environmental equipment, improve energy efficiency, and reduce waste generation. Chimei lists "sustainable development" as a core corporate strategy, proactively internalizing environmental responsibility as part of its business model, and collaborates with upstream and downstream manufacturers to establish a material recycling and reuse system, turning the circular economy from a slogan into verifiable operational indicators. Traditional chemical industry is often seen as a high-risk target in the sustainability wave, and Chimei's transformation attempt provides a local example.
 
-In production processes, Chimei continues to invest in environmental equipment, improving energy use efficiency and reducing waste generation. They regard "sustainable development" as a core corporate value — not passively complying with regulations but proactively taking on environmental responsibility.
+## A "Happiness" Corporate Culture
 
-More importantly, Chimei has integrated circular economy concepts into its business model. Collaborating with upstream and downstream partners, they have established material recycling and reuse systems to achieve circular resource use. This innovative thinking has found a new direction for the traditional chemical industry on the path of sustainable development.
+Chimei's corporate culture is deeply influenced by Hsu Wen-lung's life philosophy, with "happiness" at its core. Hsu Wen-lung believed that the purpose of a business is "to make human life better": from material quality, employee treatment to community giving, he incorporated these three dimensions into corporate management evaluation.
 
-## The "Xingfu" Philosophy Corporate Culture
+This philosophy is most concretely reflected in employee management. Chimei's employee turnover rate is far below the industry average. Many employees have worked at Chimei since they were young, staying for decades. A stable team brings knowledge accumulation and process refinement, forming an organizational advantage that is difficult to replicate through salary competition alone, and is Chimei's internal foundation for maintaining quality consistency in technology-intensive industries.
 
-Chimei's corporate culture is deeply influenced by Hsu Wen-lung's life philosophy, with "happiness" (Xingfu / 幸福) as its core concept.
+## Coordinates for Taiwan's Chemical Industry
 
-Hsu Wen-lung believes the purpose of an enterprise's existence is "to make human life better." This is not just a slogan but a genuine management philosophy. Chimei provides high-quality material products, allowing consumers to enjoy a better quality of life; Chimei creates stable employment, allowing employees to have a happy working life; Chimei gives back to society, allowing community residents to share in the results of the enterprise's development.
+Chimei Corporation's development trajectory leaves several reference coordinates for Taiwan's chemical industry. Technological innovation has been a direction Chimei has adhered to from the very beginning: 3-4% of annual revenue invested in R&D (as of the 2020s), with over 1,500 patents filed (as of 2024), establishing a continuously updated technological advantage in the fiercely competitive chemical industry.[^2]
 
-This "happiness philosophy" is also reflected in employee management. Chimei's employee turnover rate is far below industry average, with many employees starting at Chimei when young and working there for decades. This stable team is the important foundation for Chimei's continuous innovation and growth.
+Customer service is another axis of Chimei. They provide complete technical solutions from material design to processing applications, and the long-term partnerships built with customers have allowed Chimei to maintain relative business stickiness during market cycle fluctuations.
 
-## A Model for Taiwan's Chemical Industry
+The implementation of social responsibility is the most difficult part for Chimei to be directly replicated. From Hsu Wen-lung's donation of the museum to the company's environmental investments, Chimei's approach is concrete and quantifiable, not staying at the language level of ESG reports. This corporate citizenship spirit is also one of the conditions for Taiwan's chemical industry to enter high-end international supply chains and gain the trust of multinational clients.
 
-Chimei Corporation's success provides important insights for Taiwan's chemical industry.
+## Market Dynamics After 2024
 
-First is the importance of technology innovation. Chimei has valued R&D from the very beginning, investing 3–4% of annual revenue in R&D, with over 1,500 patents applied for in total. This technology-oriented development strategy has allowed Chimei to build a solid moat in the fiercely competitive chemical industry.
+**ABS overcapacity in China**: In the 2020s, China's ABS production capacity expanded massively, with domestic manufacturers seizing the global market at low prices, causing a significant decline in global average ABS prices, compressing the profit margins of Chimei and its peers. This is one of the main external pressures Chimei faces in 2024-2025.[^1]
 
-Second is the value of customer service. Chimei does not just sell products but provides complete technical solutions. This customer value-centered business model has allowed Chimei to build long-term partnership relationships with customers.
+**Chimei Museum exhibitions**: Since its opening in 2015, the Chimei Museum has continued to launch long-term collection exhibitions and special exhibitions, centered on its three major collections of Western art, weapons, and animal specimens, with annual visitor numbers reaching hundreds of thousands during major exhibition periods.[^4]
 
-Most importantly is the practice of social responsibility. From Hsu Wen-lung's museum construction to the company's environmental investments, Chimei has demonstrated the vision and magnanimity of Taiwanese entrepreneurs. This entrepreneurial spirit is Taiwan's most precious soft power.
+## Challenges and Opportunities for the Next 60 Years
 
-## The Challenges and Opportunities of the Next 60 Years
+Entering the 2020s, Chimei faces new challenges and opportunities. The global chemical industry is undergoing profound changes: raw material cost fluctuations, stricter environmental regulations, and rising trade protectionism are all testing companies' adaptability. The rise of the electric vehicle industry brings new demand for special materials, the popularization of 5G communications creates new markets for high-performance materials, and the trend of sustainable development opens new competitive dimensions for eco-friendly materials.
 
-Entering the 2020s, Chimei faces new challenges and opportunities.
-
-The global chemical industry is undergoing profound changes: raw material cost fluctuations, tightening environmental regulations, rising trade protectionism... All of these test Chimei's adaptability.
-
-But opportunities are equally clear. The rise of the EV industry creates new demand for specialty materials; the proliferation of 5G communications creates new markets for high-performance materials; sustainable development trends open new blue oceans for eco-friendly materials.
-
-Chimei's response strategy is continuous innovation: deepening high-performance material technology, promoting digital transformation, strengthening sustainable development, and expanding into emerging markets. These efforts have only one goal: to continue writing the success story of Taiwan's chemical industry in the next 60 years.
-
-From the small factory in Rende, Tainan in 1960, to the Asian materials kingdom of 2024, Chimei Corporation has used 64 years to prove one principle: with correct philosophy, persevering willpower, and innovative capabilities, Taiwanese enterprises can shine on the global stage.
-
-Hsu Wen-lung's story tells us that true entrepreneurs pursue not just commercial success — they must also take on social responsibility and create humanistic value. This is the most precious DNA of Taiwanese enterprises.
+These three demand curves all point to Chimei's accumulated technological advantages in high-performance and low-carbon materials. Starting from a small factory in Rende, Tainan in 1960, Chimei has walked to this industry crossroads in 64 years. The shape of the next turning point depends on whether Chimei can transform the technological accumulation and cultural heritage established in the Hsu Wen-lung era into entry qualifications for the next generation of materials competition.
 
 ## References
 
-- [Chimei Corporation official website](https://www.chimei.com/)
-- [Wikipedia: Chimei Corporation](https://zh.wikipedia.org/zh-tw/%E5%A5%87%E7%BE%8E%E5%AF%A6%E6%A5%AD)
-- [Wikipedia: Hsu Wen-lung](https://zh.wikipedia.org/zh/%E8%A8%B1%E6%96%87%E9%BE%8D)
-- [National Cheng Kung University Taiwan Chemical History Museum: Chimei Corporation](https://www.che.ncku.edu.tw/historicalgallery2/index.php?option=module&lang=cht&task=pageinfo&id=648&index=2)
-- [Chimei Museum official website](https://www.chimeimuseum.org/)
+[^1]: [Chimei Corporation Official Website](https://www.chimei.com/) — Company history and founding story.
+
+[^2]: [National Cheng Kung University Taiwan Chemical History Museum: Chimei Corporation](https://www.che.ncku.edu.tw/historicalgallery2/index.php?option=module&lang=cht&task=pageinfo&id=648&index=2) — Chimei Corporation's technological development history and ABS industry layout.
+
+[^3]: [Wikipedia: Chimei Optoelectronics](https://zh.wikipedia.org/zh-tw/%E5%A5%87%E7%BE%8E%E9%9B%BB%E5%AD%90) — Confirms Chimei Optoelectronics was established in 2002 and merged with Innolux Corporation in 2010.
+
+[^4]: [Chimei Museum Official Website](https://www.chimeimuseum.org/) — Museum opening date (2015), collection descriptions, and free admission policy.
+
+[^5]: [Wikipedia: Hsu Wen-lung](https://zh.wikipedia.org/zh/%E8%A8%B1%E6%96%87%E9%BE%8D) — Confirms Hsu Wen-lung's birth and death years (1926–February 27, 2023) and the founding background of Chimei Corporation.
+
+**Further Reading**
+
+- [Chimei Museum](https://www.chimeimuseum.org/) — Donated by Hsu Wen-lung, opened in 2015, free admission, the largest comprehensive museum in Tainan
+- [Wikipedia: Chimei Corporation](https://zh.wikipedia.org/zh-tw/%E5%A5%87%E7%BE%8E%E5%AF%A6%E6%A5%AD) — Complete description of business landscape and group structure

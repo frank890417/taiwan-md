@@ -1,92 +1,120 @@
 ---
-title: 'Entreprise taïwanaise : Realtek Semiconductor'
-description: 'Sept ingénieurs, deux millions de dollars : l'histoire légendaire du petit crabe qui s'est faufilé dans chaque ordinateur du monde'
+title: 'Entreprises taïwanaises : Realtek Semiconductor'
+description: 'Sept ingénieurs créent une entreprise avec 2 millions de dollars taïwanais et font entrer un petit crabe dans chaque ordinateur du monde'
 date: 2026-03-20
-tags: ['Économie', 'Entreprise', 'Semi-conducteurs', 'Conception de circuits intégrés']
-subcategory: 'Portraits d'entreprises'
+author: 'Taiwan.md Contributors'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
-featured: false
+subcategory: '企業列傳'
+tags:
+  [
+    'Economy',
+    'Entreprises',
+    'Semi-conducteurs',
+    'Conception de circuits intégrés',
+  ]
 lastVerified: 2026-03-20
-translatedFrom: "Economy/台灣企業：瑞昱半導體.md"
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ab958b73a4cbe23f'
-sourceBodyHash: 'sha256:c4557fee064c4c66'
-translatedAt: "2026-04-14T19:20:58+08:00"
+lastHumanReview: true
+featured: false
+translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:bc61864ded99ef44'
+sourceBodyHash: 'sha256:dec8acb87bfd42a2'
+translatedAt: '2026-05-15T15:39:40+08:00'
 ---
 
-> **En 30 secondes :** En 1987, sept ingénieurs ont fondé Realtek Semiconductor dans le parc scientifique de Hsinchu avec deux millions de dollars taïwanais et un crabe pour emblème. En 1991, ils ont lancé la première puce réseau entièrement conçue à Taïwan. En 2024, le chiffre d'affaires dépasse 80 milliards de dollars taïwanais — Realtek est désormais le troisième plus grand concepteur de circuits intégrés du pays. Chaque ordinateur dans le monde abrite probablement un « crabe Realtek ».
+> **En bref (30 secondes) :** En 1987, sept ingénieurs fondent Realtek Semiconductor avec 2 millions de dollars taïwanais dans le parc scientifique de Hsinchu, adoptant le crabe comme logo. En 1991, ils lancent la première puce réseau conçue de manière autonome à Taïwan. En 2024, le chiffre d'affaires consolidé atteint environ 113,4 milliards de dollars taïwanais, faisant de Realtek la troisième plus grande entreprise de conception de circuits intégrés (IC design) de Taïwan. Chaque ordinateur dans le monde pourrait bien abriter un « crabe Realtek ».
 
-Si vous avez déjà utilisé un ordinateur, vous avez probablement côtoyé un crabe sans le savoir. Ce crabe ne pince pas — il vous connecte à Internet, diffuse votre musique et affiche vos images. Discret, logé dans un coin de la carte mère, gravé sur un minuscule boîtier noir, il porte le nom de Realtek.
+Si vous avez déjà utilisé un ordinateur, vous avez très probablement croisé un crabe. Ce logo de crabe représente Realtek Semiconductor, la troisième plus grande entreprise de conception de circuits intégrés de Taïwan. Ses produits principaux couvrent les contrôleurs réseau, puces audio et puces de contrôle d'affichage, intégrés dans les cartes mères, routeurs et téléviseurs du monde entier.
 
-Voici l'histoire de sept ingénieurs qui ont changé le monde avec deux millions de dollars.
+## Le pari de 2 millions des sept épéistes
 
-## Le pari des sept mousquetaires
+En 1987, Taïwan venait tout juste de lever la loi martiale et son économie décollait. Le parc scientifique de Hsinchu n'existait que depuis quelques années. Sept ingénieurs travaillant pour des entreprises étrangères se réunirent pour discuter d'une idée audacieuse : et si nous concevions nos propres puces ?
 
-En 1987, Taïwan venait de lever la loi martiale. L'économie décollait, et le parc scientifique de Hsinchu avait à peine quelques années d'existence. Sept ingénieurs travaillant dans des multinationales se retrouvent autour d'une idée audacieuse : et si nous concevions nos propres puces ?
+À l'époque, l'industrie technologique taïwanaise en était encore au stade de l'assemblage sous contrat (OEM/ODM). Concevoir ses propres puces semblait relever de la science-fiction. Mais ces sept ingénieurs étaient convaincus que les ingénieurs taïwanais en étaient capables.
 
-À l'époque, l'industrie technologique taïwanaise en était encore au stade de l'assemblage sous contrat. Concevoir soi-même une puce relevait de la science-fiction. Pourtant, ces sept hommes — surnommés les « sept mousquetaires » de Realtek — croyaient que les ingénieurs taïwanais en avaient les capacités.
+Ils réunirent 2 millions de dollars taïwanais et fondèrent Realtek Semiconductor le 21 octobre 1987.[^1] Le nom anglais de l'entreprise est Realtek.
 
-Ils réunissent deux millions de dollars taïwanais et fondent Realtek Semiconductor le 21 octobre. Le nom anglais, Realtek, combine « real » (vrai) et « tek » (technology) : « la vraie technologie ». Quant au crabe choisi comme mascotte, l'explication est charmante : petit mais tenace, le crabe s'adapte à tous les environnements. Une métaphore parfaite pour une jeune entreprise cherchant à survivre dans un secteur impitoyable.
+Le choix du crabe comme logo a une raison intéressante : bien que petit, le crabe possède une grande capacité d'adaptation et peut survivre dans des environnements très variés. C'est exactement ce qu'ils souhaitaient pour leur entreprise — trouver sa propre voie de survie dans l'industrie technologique ultra-compétitive.
 
 ## La naissance du premier crabe
 
-Les débuts sont difficiles. Sept ingénieurs entassés dans un petit bureau, sans client ni produit — seulement de la passion et des convictions techniques.
+Les débuts ne furent pas faciles. Les sept ingénieurs étaient entassés dans un petit bureau, sans clients ni produits, et fonctionnaient grâce à leurs fonds propres.
 
-Le tournant arrive en 1991. Le secteur taïwanais de l'informatique est en pleine effervescence, mais les puces réseau sont toutes importées des États-Unis ou du Japon : chères et souvent mal soutenues techniquement. Realtek flaire l'opportunité et décide de concevoir la première carte réseau Ethernet entièrement taïwanaise. Après deux ans de développement, la RTL8002 voit le jour — première puce réseau à propriété intellectuelle 100 % taïwanaise.
+Le tournant survint en 1991. L'industrie informatique taïwanaise connaissait alors une croissance rapide, mais les puces réseau devaient être achetées auprès de fabricants américains ou japonais, à des prix élevés et avec un support technique souvent insuffisant.
 
-Cette puce dépasse la prouesse technique. Elle prouve que les ingénieurs de Taïwan peuvent créer des produits de niveau mondial de toutes pièces, et marque un virage historique : de la sous-traitance vers la R&D propre.
+L'équipe de Realtek saisit cette opportunité et décida de développer le premier contrôleur Ethernet conçu de manière autonome à Taïwan. Après deux ans de recherche et développement, le RTL8002 vit le jour — la première puce réseau entièrement conçue avec une propriété intellectuelle propre à Taïwan.
 
-## L'ère de la « carte crabe »
+La signification de cette puce dépassait le cadre technique. Elle prouvait que les ingénieurs taïwanais étaient capables de concevoir des produits de classe mondiale à partir de zéro, et marquait une étape clé dans la transition de l'industrie technologique taïwanaise de la « fabrication sous contrat » vers la « R&D autonome ».
 
-Au milieu des années 1990, l'ordinateur personnel se démocratise et Internet commence à entrer dans les foyers taïwanais. Pour se connecter, il faut une carte réseau — un circuit imprimé vert avec des puces et des connecteurs.
+## Les souvenirs de l'ère de la « carte crabe »
 
-Les cartes réseau Realtek, arborant leur emblème crabe, sont vite surnommées « cartes crabes » par les passionnés d'informatique taïwanais. L'expression est devenue un symbole nostalgique, évocateur des premières années d'Internet à Taïwan.
+Au milieu des années 1990, les ordinateurs personnels commençaient à se démocratiser et Internet pénétrait progressivement dans les foyers taïwanais. Pour connecter un ordinateur à Internet, il fallait installer une « carte réseau » — généralement une carte de circuit imprimé verte, garnie de diverses puces et connecteurs.
 
-Mais l'impact va bien au-delà du surnom : Realtek a fait chuter le prix des cartes réseau de plusieurs milliers à quelques centaines de dollars taïwanais, mettant l'accès à Internet à la portée d'un bien plus grand nombre. Cette philosophie de « démocratisation par la technologie » deviendra l'une des marques de fabrique de l'industrie technologique taïwanaise.
+Les cartes réseau de Realtek, dont le logo représentait un crabe, furent surnommées « cartes crabe » (螃蟹卡) par les passionnés d'informatique taïwanais. Ce surnom est devenu par la suite un symbole nostalgique, évoquant les premières années du développement d'Internet à Taïwan.
 
-## Du réseau au son : le grand écart réussi
+Plus important encore, Realtek fit chuter le prix des cartes réseau de plusieurs milliers de dollars taïwanais (chez les fabricants américains) à quelques centaines, permettant à davantage de Taïwanais de s'offrir un ordinateur et un accès à Internet. Cette « démocratisation technologique » est devenue par la suite une caractéristique constante de l'industrie taïwanaise de conception de circuits intégrés.
 
-Fort de son succès dans les cartes réseau, Realtek ne s'endort pas sur ses lauriers. À la fin des années 1990, l'entreprise se lance dans les puces audio.
+## De la carte réseau à la carte son : une diversification réussie
 
-Le choix peut sembler surprenant, mais la logique est solide : le traitement des signaux réseau et audio partagent des bases techniques communes. L'expertise accumulée sur les puces Ethernet trouve une nouvelle application dans la reproduction sonore.
+Après avoir percé sur le marché des cartes réseau, Realtek ne se contenta pas de ses acquis. À la fin des années 1990, l'entreprise commença à s'aventurer dans le domaine des puces audio.
 
-Les solutions audio de Realtek s'intègrent rapidement chez les grands fabricants de cartes mères taïwanais : Asus, Gigabyte, MSI. Dans les années 2000, Realtek s'impose comme l'un des principaux fournisseurs mondiaux de puces audio pour PC. Pratiquement chaque ordinateur assemblé dissimule un composant Realtek.
+Cette décision pouvait sembler surprenante, mais elle reposait sur une logique solide. La transmission réseau et le traitement audio impliquent tous deux des technologies de traitement du signal. La base technique accumulée par Realtek dans les puces réseau pouvait tout naturellement être appliquée au domaine audio.
 
-## Le crabe est partout
+Les puces audio de Realtek pénétrèrent rapidement les chaînes d'approvisionnement des grands fabricants de cartes mères. Les géants taïwanais de la carte mère — ASUS, Gigabyte et MSI — commencèrent tous à intégrer les solutions audio de Realtek dans leurs produits.
 
-Aujourd'hui, Realtek n'a plus rien de la petite équipe des origines. Fin 2024, le chiffre d'affaires dépasse 80 milliards de dollars taïwanais, les effectifs dépassent 6 000 personnes, et l'entreprise est le troisième concepteur de circuits intégrés de Taïwan.
+Dans les années 2000, Realtek était devenu l'un des principaux fournisseurs mondiaux de puces audio pour PC. Presque chaque ordinateur assemblé contenait une puce Realtek en fonctionnement.
 
-Mais c'est son omniprésence qui impressionne vraiment. Des routeurs domestiques aux ordinateurs portables, des téléviseurs intelligents aux contrôleurs industriels — les puces Realtek sont partout. Des centaines de millions de personnes utilisent chaque jour un appareil qui en contient une.
+## Le petit crabe omniprésent
 
-Cette réussite repose sur une stratégie de plateforme. Plutôt que de concevoir des produits isolés, Realtek développe des socles technologiques réutilisables. Une même architecture de base peut donner naissance à des puces réseau, audio ou d'affichage selon les besoins.
+Aujourd'hui, Realtek n'est plus la petite entreprise de sept personnes qu'elle était à ses débuts. En 2024, le chiffre d'affaires consolidé de l'entreprise atteint environ 113,4 milliards de dollars taïwanais (en hausse de 19,1 % en glissement annuel), elle emploie plus de 6 000 personnes et se classe comme la troisième plus grande entreprise de conception de circuits intégrés de Taïwan.[^2]
 
-## WiFi 6 et les nouveaux territoires
+Mais ce qui est encore plus impressionnant, c'est le taux de pénétration des produits Realtek. Des routeurs domestiques aux ordinateurs portables, des téléviseurs intelligents aux contrôleurs industriels, les puces Realtek sont pratiquement omniprésentes. Les équipements terminaux intégrant des puces Realtek sont répartis dans le monde entier, couvrant les marchés domestique, commercial et industriel.
 
-Dans les années 2010, la généralisation des smartphones et l'essor de l'IoT font du sans-fil un champ de bataille stratégique. Realtek s'adapte une fois de plus, passant du filaire au WiFi. Ses puces sans fil équipent routeurs, appareils électroménagers connectés et équipements industriels. À l'ère du WiFi 6, ses solutions trouvent un équilibre enviable entre performance et coût.
+Ce succès repose sur la « stratégie de plateforme » de Realtek : les technologies de base qu'ils conçoivent peuvent être déclinées sur différentes gammes de produits. Une même architecture de traitement du signal donne naissance à des puces réseau, des puces audio, des puces de contrôle d'affichage et d'autres applications. Un ensemble de technologies fondamentales peut engendrer différents produits : puces réseau, puces audio, puces de contrôle d'affichage, etc.
 
-Le crabe de la mascotte, symbole d'adaptabilité depuis le premier jour, n'avait pas menti. Des cartes réseau des années 1980 au WiFi 6 des années 2020, Realtek a su se repositionner à chaque vague technologique.
+## Le nouveau champ de bataille de l'ère WiFi
 
-## Naviguer dans la guerre technologique sino-américaine
+Dans les années 2010, avec la démocratisation des smartphones et l'essor de l'Internet des objets (IoT), le réseau sans fil est devenu un nouveau champ de bataille. Realtek a une fois de plus démontré sa capacité d'adaptation, passant du réseau filaire au réseau sans fil.
 
-La rivalité technologique entre Washington et Pékin place Realtek dans une position délicate. La Chine est un marché crucial pour l'entreprise — routeurs, décodeurs et électroménagers connectés y consomment massivement ses puces. Mais les restrictions américaines à l'exportation peuvent affecter les ventes à certains clients chinois.
+Les puces WiFi qu'ils ont développées sont largement utilisées dans les routeurs, appareils domotiques, équipements industriels et autres produits. Du WiFi 4 au WiFi 5, puis au WiFi 6, jusqu'aux solutions WiFi 7 lancées au milieu des années 2020, Realtek a maintenu ses parts de marché à chaque transition entre générations de normes sans fil.[^4]
 
-La réponse de Realtek reste fidèle à ses origines : priorité à l'innovation technique. L'entreprise parie que l'excellence de ses solutions lui ouvrira un espace viable même dans un contexte géopolitique complexe.
+Realtek, sous le code boursier 2379, est cotée à la Bourse de Taïwan depuis 1998. Le président actuel est **Qiu Shunjian** et le directeur général est **Ye Boreng**.[^3]
 
-## Trente-sept ans après : le royaume du crabe
+### Nouvelles orientations : AI PC et Ethernet automobile
 
-De 1987 à 2024, Realtek a traversé 37 ans. Certains des sept fondateurs sont à la retraite, d'autres ont rejoint d'autres entreprises — mais le royaume crabe qu'ils ont bâti continue de prospérer.
+Depuis les années 2020, Realtek déploie activement sa stratégie sur trois marchés émergents : (1) **AI PC** — avec la démocratisation des spécifications Copilot+ PC de Microsoft, les puces Wi-Fi 7 et Ethernet haut débit de Realtek deviennent des composants de connectivité fondamentaux pour les plateformes AI PC ; (2) **Ethernet automobile** — la conduite autonome et les communications embarquées nécessitent des réseaux intra-véhicule à haut débit et faible latence ; Realtek s'impose dans la chaîne d'approvisionnement ADAS avec ses puces automobiles 100BASE-T1 / 1000BASE-T1 ; (3) **BIS (Broad IoT Solutions)** — une gamme de puces de contrôle intégrées destinées au contrôle industriel, à la domotique et à la gestion de l'énergie, visant à accroître la part de marché hors PC.[^4]
 
-Realtek d'aujourd'hui est plus qu'un concepteur de puces : c'est une plateforme technologique mondiale. Ses composants permettent à des milliards d'appareils de se connecter, de produire du son, d'afficher des images. La plupart des utilisateurs ne connaissent pas le nom de Realtek — pourtant presque tout le monde bénéficie de ses technologies.
+Le **RTL8002**, lancé par Realtek en 1991, est le premier contrôleur Ethernet entièrement conçu avec une propriété intellectuelle propre à Taïwan, établissant le point de départ de la trajectoire technologique de l'entreprise dans le domaine des puces réseau.[^1]
 
-Cette histoire nous rappelle qu'il n'est pas toujours besoin de grands discours ni de capitaux colossaux pour changer le monde. Sept ingénieurs, deux millions de dollars, un crabe sur un logo, et plus de trente ans d'obstination créatrice — c'est tout ce qu'il a fallu pour que ce petit crabe colonise la planète entière.
+## Les défis de la guerre technologique sino-américaine
 
-Et son histoire est loin d'être terminée.
+Ces dernières années, la concurrence technologique entre la Chine et les États-Unis s'est intensifiée, faisant des semi-conducteurs une ressource stratégique. Realtek, en tant que fournisseur mondial important de puces réseau, fait face à de nouveaux défis.
+
+D'un côté, le marché chinois est très important pour Realtek : de nombreux routeurs, boîtiers TV et appareils domotiques utilisent ses puces. De l'autre, les politiques de contrôle des exportations américaines pourraient affecter les ventes de Realtek à certains clients chinois.
+
+Mais la stratégie de réponse de Realtek reste fidèle à ses origines : se concentrer sur l'innovation technologique. L'entreprise est convaincue qu'en continuant à fournir les meilleures solutions techniques, elle trouvera sa place dans un environnement géopolitique complexe.
+
+## Le royaume du crabe, 37 ans plus tard
+
+De 1987 à 2024, Realtek a parcouru 37 ans. Certains des sept épéistes d'origine ont pris leur retraite, d'autres ont rejoint d'autres entreprises, mais le royaume du crabe qu'ils ont fondé continue de prospérer.
+
+Realtek d'aujourd'hui n'est plus seulement une entreprise de conception de puces — c'est une plateforme technologique. Leurs puces permettent aux équipements du monde entier de se connecter à Internet, de diffuser du son et d'afficher des images. Les consommateurs ne connaissent peut-être pas le nom de Realtek, mais presque tout le monde bénéficie de sa technologie.
+
+Fondée en 1987 par sept ingénieurs, 37 ans plus tard, les puces de Realtek sont intégrées dans des centaines de millions d'équipements terminaux à travers le monde, constituant l'un des exemples concrets de la transition de l'industrie taïwanaise de conception de circuits intégrés, de l'ère de la fabrication sous contrat vers une trajectoire de R&D autonome.
 
 ## Références
 
-- [Site officiel de Realtek Semiconductor](https://www.realtek.com/)
-- [Market Observation Post System : rapports financiers Realtek](https://mops.twse.com.tw/)
-- [Bourse de Taïwan : informations sur Realtek](https://www.twse.com.tw/)
-- [TechNews : historique du développement de Realtek](https://technews.tw/)
-- [Digitimes : rapport sur l'industrie de la conception de CI à Taïwan](https://www.digitimes.com.tw/)
+[^1]: [Rapport annuel 2024 de Realtek Semiconductor｜Realtek](https://www.realtek.com/InvestorRelations/AnnualReports) — Confirme un chiffre d'affaires consolidé d'environ 113,4 milliards de dollars taïwanais en 2024 (hausse de 19,1 % en glissement annuel) ; 7 fondateurs ayant créé l'entreprise le 21 octobre 1987.
+
+[^2]: [MOPS — Realtek Semiconductor](https://mops.twse.com.tw/) — Données de base de la cotation 2379, rapports financiers annuels.
+
+[^3]: [Bourse de Taïwan : 2379 Realtek](https://www.twse.com.tw/) — Confirme le code boursier 2379, cotation en 1998, Qiu Shunjian comme président actuel.
+
+[^4]: [Site officiel Realtek — Gamme de produits](https://www.realtek.com/) — Description de la gamme de puces WiFi 6/7.
+
+[^5]: [TechNews : Parcours de Realtek Semiconductor](https://technews.tw/) — Couverture du contexte industriel de Realtek, de ses débuts dans les puces réseau à son expansion vers les circuits intégrés multimédias.
+
+**Pour aller plus loin**
+
+- [TechNews : Historique du développement de Realtek Semiconductor](https://technews.tw/)
+- [DigiTimes : Rapport sur l'industrie taïwanaise de conception de circuits intégrés](https://www.digitimes.com.tw/)

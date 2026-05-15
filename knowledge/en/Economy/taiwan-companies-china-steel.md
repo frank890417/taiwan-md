@@ -1,101 +1,87 @@
 ---
-translatedFrom: 'Economy/台灣企業：中鋼.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:046697b621d130dd'
-sourceBodyHash: 'sha256:3296fd82b3d8a938'
-translatedAt: '2026-05-01T15:38:13+08:00'
-title: 'China Steel: The Iron-Headed Minister and the Steel Legend of the Ten Major Constructions'
-description: "From Zhao Yao-dong's clever negotiations with Europe and America to win technology, to the first plume of white smoke rising from Kaohsiung's Xiaogang — China Steel spent 50 years building Taiwan's heavy industry backbone, the most successful jewel of the Ten Major Constructions."
+title: 'China Steel: The Iron-Head Minister and the Steel Legend of the Ten Major Construction Projects'
+description: "From Zhao Yaodong's shrewd technology negotiations in Europe and America to the first wisp of white smoke rising over Xiaogang in Kaohsiung, China Steel spent 50 years forging Taiwan's heavy-industry backbone — the brightest jewel among the Ten Major Construction Projects"
 date: 2026-03-20
-tags:
-  [
-    'Economy',
-    'enterprises',
-    'steel industry',
-    'Ten Major Constructions',
-    'heavy industry',
-  ]
-subcategory: 'Enterprise Chronicles'
-author: Taiwan.md
-readingTime: 8
-featured: false
+author: 'Taiwan.md Contributors'
+category: 'Economy'
+subcategory: '企業列傳'
+tags: ['Economy', '企業', '鋼鐵業', '十大建設', '重工業']
 lastVerified: 2026-03-20
-lastHumanReview: true
-category: Economy
+lastHumanReview: 'true'
+featured: 'false'
+translatedFrom: 'Economy/台灣企業：中鋼.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:204bc05a0920a7fd'
+sourceBodyHash: 'sha256:ec289a352e872076'
+translatedAt: '2026-05-15T15:39:39+08:00'
 ---
 
 > **30-Second Overview**
 >
-> China Steel Corporation was established in 1971, the jewel of Chiang Ching-kuo's Ten Major Constructions. First general manager Zhao Yao-dong — the "Iron-Headed Minister" — negotiated cleverly, using Taiwan's strength to resist European and American technology monopolies, lighting the first blast furnace in Kaohsiung's Xiaogang in 1977. Over 50 years, China Steel grew from nothing to the world's 22nd largest steel producer, with 2024 revenues of NT$360.5 billion. Not only supplying Taiwan's construction needs, it is an important part of Asia's steel industry.
+> China Steel Corporation (CSC) was established in 1971 as the crown jewel of Chiang Ching-kuo's Ten Major Construction Projects. Its first general manager, Zhao Yaodong (who later served as Minister of Economic Affairs from 1981 to 1984, earning the nickname "Iron-Head Minister"), pursued a strategy of technology self-reliance through negotiation. In 1972, CSC signed a technology cooperation agreement with the U.S. firm McLouth Steel, and in 1977, the first blast furnace was lit at Xiaogang in Kaohsiung. Over 50 years, CSC grew from scratch to become the world's 22nd-largest steelmaker, with 2024 revenue of NT$360.5 billion.[^1]
 
-## A Battle of Wits with European Giants
+## Technology Self-Reliance Negotiations: From Europe to America
 
-In 1970 Taipei, negotiations crucial to Taiwan's industrial destiny were underway. In the conference room sat representatives from European technology firms. They held in their hands the integrated steelmaking technology Taiwan desperately sought, but the conditions they laid out were breathtaking: not only exorbitant pricing, but also bundled procurement requirements for their equipment, and even restrictions on Taiwan's future technology development.
+In the early 1970s, as the CSC preparatory office negotiated technology cooperation for integrated steelmaking, it approached several European steelmakers. However, the terms they offered came bundled with requirements to purchase designated equipment and restrictions on Taiwan's future technological development. Zhao Yaodong deemed the conditions excessively onerous and proactively broke off the European negotiations, turning instead to the United States for a more equitable cooperation model.[^2]
 
-Just then, an engineer with thick glasses and a frank manner of speaking stood up. He was Zhao Yao-dong (趙耀東), the head of China Steel's preparatory committee, recently recruited from the United States by Chiang Ching-kuo. Facing the European consortium's strong-arm tactics, Zhao made a decision that stunned everyone in the room: "Thank you — we don't need it."
+## Technology Cooperation with America's McLouth Steel
 
-The conference room went silent instantly. Nobody had imagined that resource-poor Taiwan would dare to say no to European technology hegemony. But Zhao's mind was already working — he needed to find Taiwan a true partner, not a technology colonizer.
+Zhao Yaodong decided to leave Europe and seek cooperation in the United States. The American steel industry was initially skeptical of Taiwan's industrial capabilities, believing that a newly industrialized East Asian economy — just emerging from an import-substitution policy — would be hard-pressed to operate integrated steelmaking facilities, a capital-intensive, long-supply-chain industrial undertaking.[^2]
 
-## The Iron-Headed Minister's American Reversal
+At this critical juncture, Zhao Yaodong demonstrated the rigor of an engineer and the wisdom of a businessman. He spoke neither of sentiment nor of politics, but presented precise data sets to prove Taiwan's industrial foundation and workforce quality. He proposed a deal that gave the Americans a reason to come to the table: technology transfer and long-term cooperation, rather than a simple equipment purchase.
 
-Zhao decided to leave Europe and turn to America for cooperation. But America's steel industry was equally skeptical of this request from a small island in the east: "Does Taiwan have the capability to operate such complex industrial equipment?"
+In 1972, CSC signed a technology cooperation agreement with **McLouth Steel** of Michigan, an integrated steelmaker, and engaged the American consulting firm C.E. Lummus for engineering design support. The negotiation not only saved Taiwan a substantial sum of money but, more importantly, secured technological autonomy. Zhao Yaodong's strategy ensured that CSC would from the outset possess the capacity to absorb, improve, and independently develop technology — rather than merely serve as an equipment buyer.
 
-At the critical moment, Zhao displayed an engineer's rationality and a businessman's intelligence. He did not appeal to sentiment or politics — he used precise data to prove Taiwan's industrial foundation and human capital quality. More importantly, he proposed a proposal the American side could not refuse: technology transfer and long-term cooperation, not merely equipment purchasing.
+## The First Wisp of White Smoke Over Xiaogang
 
-In 1972, China Steel signed agreements with US Steel and consulting firms. This negotiation not only saved Taiwan enormous funds but, more importantly, secured technological autonomy. Zhao's strategy ensured that from the very beginning, China Steel was not merely a technology buyer, but a cooperative partner with the capacity to absorb, improve, and develop its own technology.
+In 1977, the Xiaogang Industrial Zone in Kaohsiung completed construction of CSC's first blast furnace and conducted its ignition test run, marking the official commissioning of Taiwan's first integrated steel mill.[^1]
 
-Years later, people came to understand that this seemingly impossible reversal actually embodied Taiwan's most precious entrepreneurial qualities: the courage to challenge the powerful with limited resources, and the insistence on rejecting technological colonization.
+But the early days were fraught with difficulty. The fledgling CSC faced countless technical challenges: raw material ratios had to be worked out from scratch, operating parameters required repeated adjustment, and product quality standards had to meet international benchmarks. Zhao Yaodong's technical team practically lived on-site, monitoring every production link around the clock.
 
-## The First Plume of White Smoke at Xiaogang
-
-On the morning of December 3, 1977, the Xiaogang Industrial Zone in Kaohsiung was thick with nervous tension. After six years of preparation, China Steel's first blast furnace was about to be lit for its trial run.
-
-When white smoke rose slowly from the 470-foot chimney, everyone on site held their breath. This was not merely a blast furnace starting up — it was the birth of Taiwan's heavy industry. From that moment, Taiwan would no longer be entirely dependent on imported steel, having its own "steel heart."
-
-But the early days were difficult. The early China Steel faced countless technical challenges: raw material ratios had to be worked out from scratch, operating parameters needed repeated adjustment, and product quality standards had to meet international levels. The technical team led by Zhao virtually lived on the factory grounds, monitoring every production link around the clock.
-
-The hardest problem was talent. Taiwan had never had experience with integrated steelworks, and all operational technology had to be learned from zero. China Steel dispatched a hundred engineers to the United States for training; when they returned, they trained their colleagues. These "first-generation steelworkers" used sweat and intelligence to work out Taiwan's own steelmaking experience.
+The most difficult problem was talent. Taiwan had no prior experience with integrated steelmaking; all operational know-how had to be learned from zero. CSC sent hundreds of engineers to the United States for training, and upon their return they trained their colleagues in turn. Through hands-on practice, CSC's technical team built up Taiwan's indigenous operational expertise in integrated steelmaking.
 
 ## From Import Substitution to Export Earnings
 
-In 1983, a landmark event occurred at China Steel: products began being exported in large quantities to Japan.
+In 1983, CSC began exporting large volumes of product to steel to Japan. As one of the world's most technologically advanced steelmaking nations, Japan represented a demanding market; CSC's ability to enter it demonstrated that its product quality had reached internationally competitive levels.
 
-This news stunned the entire Asian steel industry. Japan was one of the world's most technically advanced countries in steel — for China Steel's products to enter the Japanese market meant quality had reached world-class standards.
+Even more impressive was the export price. Thanks to disciplined cost control, CSC's products held a clear competitive advantage on the international market. By the mid-1980s, CSC had become a major steel-export base in Asia, shipping to Japan, South Korea, Southeast Asia, and beyond.
 
-Even more surprising was the export pricing. With well-managed costs, China Steel's products had clear competitive advantages in international markets. By the mid-1980s, China Steel had become an important steel exporting base in Asia, with products sold to Japan, South Korea, and Southeast Asia.
+This transformation was significant. CSC had evolved from a tool of "import substitution" policy into an "export earnings" economic engine. More importantly, it proved that Taiwan could compete with advanced nations in technology-intensive heavy industry.
 
-This transformation was deeply significant. China Steel evolved from an originally "import substitution" policy tool into an "export earnings" economic engine. More importantly, it proved that Taiwan had the ability to compete with advanced nations in technologically intensive heavy industry.
+## The Steel Power Behind the Numbers
 
-## The Steel Strength Behind the Numbers
+Over 50 years of development, CSC's scale has grown markedly. 2024 revenue reached NT$360.5 billion, with after-tax net income of NT$3.875 billion.[^3] It ranks as the world's 22nd-largest steel producer, with an annual capacity of approximately 10 million metric tons.[^5]
 
-After 50 years of development, China Steel has delivered impressive results. 2024 revenues reached NT$360.5 billion, with after-tax net profit of NT$3.875 billion, ranked 22nd globally among steel producers, with annual production capacity of approximately 10 million metric tons.
+However, in 2022–2023, amid a global steel demand slump and a flood of low-priced Chinese steel dumped on the market, CSE suffered consecutive sharp profit declines or losses: 2022 after-tax net income plummeted from a peak of NT$22.6 billion, and 2023 recorded a loss of NT$6.4 billion — its first annual loss in nearly a decade.[^3] 2024 saw a modest recovery, but profitability remained well below the 2021–2022 peak.
 
-But behind these numbers, what deserves even more attention is China Steel's deeper impact on Taiwan's economy. Taiwan's expressways, MRT systems, Taipei 101, the high-speed railway... almost all major constructions use China Steel's products. China Steel is, one could say, the rebar and iron bones of Taiwan's modernization.
+Taiwan's highways, MRT systems, Taipei 101, and high-speed rail construction all used large volumes of CSC products, making the domestic downstream market one of CSC's most important.
 
-China Steel is also one of Taiwan's most successful state enterprise privatization cases. After privatizing in 1995, it gained more flexible market response capability while maintaining its national strategic position. This "mixed economy" model has become a benchmark for learning by other Asian nations.
+CSC is also one of Taiwan's most successful cases of state-owned enterprise privatization. After its conversion to a private company in 1995, it retained its national strategic role while gaining greater market agility. This "mixed economy" model became a benchmark studied by other Asian countries.
 
-## Challenge and Transformation: Toward Green Steel
+## Challenges and Transformation: Toward Green Steel
 
-Entering the 21st century, China Steel faces new challenges. Global steel overcapacity, low-price competition from mainland China, increasingly strict environmental standards... all test China Steel's adaptability.
+Entering the 21st century, CSC faces an entirely new set of challenges. Global steel overcapacity, low-price competition from mainland China, and increasingly stringent environmental standards all test CSC's adaptability.
 
-The biggest challenge comes from carbon neutrality pressure. The steel industry is a high-energy-consuming, high-carbon-emitting sector; facing the 2050 carbon neutrality target, China Steel must undergo fundamental transformation.
+The greatest challenge comes from carbon-neutrality pressure. Steelmaking is a high-energy, high-emission industry, and in the face of the 2050 carbon-neutrality target, CSC must undergo a fundamental transformation.
 
-China Steel's response strategy is investing in green steel technology: developing hydrogen-based steelmaking technology, increasing the proportion of scrap steel used, investing in carbon capture equipment... In 2024, China Steel received the 21st Century Foundation Net-Zero Industry Competitiveness Award, showing its green transformation efforts are gaining recognition.
+CSC's response strategy is investment in green steel technology: developing hydrogen-based direct reduction steelmaking, increasing scrap steel utilization ratios, investing in carbon capture equipment, and more. In 2024, CSC received the 21st Century Foundation's Net-Zero Industrial Competitiveness Award, signaling that its green-transition efforts have been recognized.
 
-## The Most Successful Jewel of the Ten Major Constructions
+## The Brightest Jewel of the Ten Major Construction Projects
 
-Looking back at history, China Steel can be called the most successful project among the Ten Major Constructions. Compared with other projects from the same era, China Steel not only achieved its original policy objectives but continued to grow robustly through the market transformation process.
+CSC stands as one of the more commercially successful outcomes of the Ten Major Construction Projects. After privatization in 1995, it retained its national strategic steel-supply function while gaining market responsiveness. CSC's development path of "technology licensing → absorption → independent R&D" also became a model referenced by many subsequent Taiwanese manufacturing firms when introducing foreign technology.
 
-More importantly, China Steel's success model was learned by later enterprises like TSMC and Formosa Plastics: introduce advanced foreign technology, cultivate domestic talent, establish independent R&D capabilities, and ultimately compete in international markets. This "technology-building" development path became an important genetic trait of Taiwan's tech industry.
+## Current Leadership
 
-From Zhao Yao-dong's clever negotiations, to the first plume of white smoke at Xiaogang, to today's green transformation — China Steel's story is a microcosm of Taiwan's industrial development. It tells us: with the right strategy, persistent determination, and continuous innovation, Taiwan's enterprises can shine on the global stage.
-
-In that era of scarce resources, China Steel built Taiwan's industrial backbone with blast furnace after blast furnace. In this era of sustainable development, China Steel is creating a new industrial chapter for Taiwan with green technology. Steel doesn't lie, and data doesn't deceive — China Steel's 50-year track record is the best proof of Taiwan's industrial strength.
+CSC's current chairman is **Huang Chien-chih** (assumed office in 2024), succeeding **Weng Chao-tung** (served 2022–2024).[^3]
 
 ## References
 
-- [China Steel Corporation Official Website and 2024 Annual Report](https://www.csc.com.tw/)
-- [Epoch Times: The Iron-Headed Minister deep in the people's hearts — Zhao Yao-dong and the China Steel legend](https://www.epochtimes.com/b5/14/8/18/n4227993.htm)
-- [Wikipedia: Ten Major Constructions](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD)
-- [Wikipedia: China Steel](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5)
-- [World Steel Association Statistics](https://worldsteel.org/)
+[^1]: [China Steel Corporation — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%9C%8B%E9%8B%BC%E9%90%B5) — History of China Steel Corporation, including its 1971 founding, 1977 blast furnace ignition, and 1995 privatization.
+
+[^2]: [Epoch Times: Iron-Head Minister Deep in the People's Hearts — Zhao Yaodong Creates the CSC Legend](https://www.epochtimes.com/b5/14/8/18/n4227993.htm) — Account of Zhao Yaodong's technology cooperation negotiations with America's McLouth Steel and the origin of the "Iron-Head Minister" nickname from his 1981 tenure as Minister of Economic Affairs.
+
+[^3]: [China Steel Corporation Official Website and 2024 Annual Report](https://www.csc.com.tw/) — Latest operational data and annual report of the CSC Group.
+
+[^4]: [Ten Major Construction Projects — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Background of the Republic of China's Ten Major Construction Projects policy and CSC's role within it.
+
+[^5]: [World Steel Association Statistics](https://worldsteel.org/) — Global steelmaker rankings and production capacity statistics.

@@ -1,111 +1,126 @@
 ---
-title: 'La photographie à Taïwan'
-description: "De la révolution moderniste de Chang Chao-tang en 1965 à l'humanisme rural de Juan I-jong dans Hommes et Terre, la photographie taïwanaise capte l'âme d'une île en perpétuelle transformation"
+title: 'La photographie taïwanaise'
+description: "De la révolution de la photographie moderne initiée par Chang Chao-Tang en 1965 à l'esthétique documentaire définie par Juan I-Jong dans « L'Homme et la Terre », la photographie taïwanaise raconte l'histoire de l'île à travers la lumière et l'ombre."
 date: 2026-03-20
+author: 'Taiwan.md Contributors'
+category: 'Art'
+subcategory: '視覺藝術'
 tags:
   [
     'photographie',
     'arts visuels',
-    'Chang Chao-tang',
-    'Juan I-jong',
-    'documentaire',
+    'Chang Chao-Tang',
+    'Juan I-Jong',
+    'photographie documentaire',
   ]
-subcategory: 'Arts visuels'
-category: 'Art'
-author: 'Taiwan.md Translation Team'
-difficulty: 'beginner'
 readingTime: 10
-featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+featured: false
 translatedFrom: 'Art/台灣攝影.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:52b7961ea27ae3bf'
-sourceBodyHash: 'sha256:e35e89d8cffd872c'
-translatedAt: '2026-04-14T19:13:26+08:00'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:9e4daeb9f4939ca2'
+sourceBodyHash: 'sha256:80c79b7fd0c73431'
+translatedAt: '2026-05-15T15:39:40+08:00'
 ---
 
-# La photographie à Taïwan
+# La photographie taïwanaise
 
-> **En 30 secondes :** La photographie taïwanaise prend racine à l'époque coloniale japonaise. En 1965, l'exposition en duo de Chang Chao-tang et Cheng Sang-hsi ouvre la voie à une esthétique d'avant-garde. En 1987, le recueil _Hommes et Terre_ de Juan I-jong s'impose comme un classique du documentaire humaniste. La création du Centre national de la culture photographique en 2019 marque l'entrée dans une nouvelle ère. De l'expérimentation au reportage, les photographes taïwanais ont su tisser, objectif après objectif, l'histoire vivante de leur île.
+> **Aperçu en 30 secondes :** La photographie taïwanaise prend racine durant la période coloniale japonaise. En 1965, Chang Chao-Tang et Cheng Sang-Hsi organisent l''exposition « Photographie moderne en duo », inaugurant une esthétique d''avant-garde. En 1987, « L''Homme et la Terre » de Juan I-Jong devient un classique de la photographie documentaire. En avril 2021, le Centre national de la photographie et de la culture visuelle est officiellement inauguré, marquant une nouvelle étape dans le développement de la photographie taïwanaise. De l''expérimentation au documentaire, les photographes taïwanais utilisent leur objectif pour enregistrer les mutations de l''île et son esprit humain.
 
-La photographie taïwanaise a traversé plus d'un siècle d'histoire, de l'introduction de la technique à l'époque coloniale jusqu'à la diversité créative contemporaine, en empruntant des chemins esthétiques décisifs. Deux figures tutélaires — Chang Chao-tang et Juan I-jong — ont forgé, l'un par l'expérimentation avant-gardiste, l'autre par l'humanisme documentaire, les canons visuels qui continuent d'inspirer les générations suivantes. Qu'il s'agisse des institutions publiques ou des innovations propres à l'ère numérique, la photographie de Taïwan ne cesse de négocier, entre tradition et modernité, son propre langage.
+La photographie taïwanaise a plus d''un siècle d''histoire, depuis l''introduction de la technique photographique durant la période coloniale japonaise jusqu''à la création contemporaine plurielle, en passant par plusieurs tournants esthétiques décisifs. Deux figures centrales, Chang Chao-Tang et Juan I-Jong, ont respectivement établi les styles classiques de la photographie taïwanaise à travers l''expérimentation d''avant-garde et le documentaire humaniste, et leur influence perdure encore aujourd''hui. De la création d''institutions dédiées par le gouvernement à l''innovation de l''ère numérique, la photographie taïwanaise continue de chercher sa propre voie d''expression entre tradition et modernité.
 
-## L'époque japonaise : l'arrivée de la photographie
+## La période coloniale japonaise : l''introduction de la technique photographique
 
-L'histoire de la photographie à Taïwan est indissociable de la colonisation japonaise. Après la guerre sino-japonaise de 1895, les photographes militaires nippons documentent la conquête de l'île, posant les premières pierres d'une mémoire visuelle taïwanaise. La diffusion des plaques sèches fait de la photographie un outil privilégié de l'administration coloniale.
+L''apparition de la photographie à Taïwan est étroitement liée à la domination coloniale japonaise. Après la guerre sino-japonaise de 1895, des photographes militaires japonais documentent la campagne de Taïwan, ouvrant ainsi l''histoire de la photographie sur l''île. Avec la généralisation de la technique des plaques sèches, le gouvernement colonial l''utilise systématiquement pour la cartographie et les études ethnographiques.
 
-Des chercheurs japonais comme Torii Ryuzo et Mori Ushinosuke s'enfoncent avec leurs appareils dans les montagnes de Taïwan pour mesurer et documenter les peuples autochtones, laissant derrière eux un fonds iconographique d'une valeur inestimable. Ces images, marquées du sceau colonial, constituent néanmoins une archive visuelle exceptionnelle.
+Des chercheurs japonais tels que Torii Ryūzō et Mori Ushinosuke s''enfoncent dans les montagnes de Taïwan avec leurs appareils photo pour réaliser des relevés documentaires sur les peuples autochtones, laissant derrière eux un fonds photographique considérable. Bien que ces images portent la marque du colonialisme, elles constituent aussi les premiers archives photographiques systématiques de Taïwan.
 
-Dès les années 1920, de jeunes Taïwanais s'initient à la photographie, que ce soit lors de séjours d'études au Japon ou comme apprentis dans les studios locaux. Les archives attestent que le premier atelier photographique tenu par un Taïwanais fut le « Erwo Portrait Studio », fondé en 1901 par Shi Qiang, originaire de Lukang. La famille Jiang de Beipu est également une grande lignée photographique : elle conserve encore aujourd'hui des plaques de verre datant des années 1890.
+À partir des années 1920, de jeunes Taïwanais apprennent la technique photographique, soit en étudiant au Japon, soit comme apprentis dans des studios photo. Selon les sources, le premier studio photo fondé par un Taïwanais est le « Erwo Studio » (二我寫真館), établi en 1901 par Shi Qiang à Lukang. La famille Jiang de Beipu est également une dynastie de photographes et conserve encore des plaques de verre datant des années 1890.
 
-Les premiers photographes taïwanais subissent l'influence de la « photographie artistique » (geijutsu shashin) japonaise, en quête d'une beauté proche de la peinture. L'arrivée de la « nouvelle photographie » (shinkō shashin) réoriente les pratiques vers une observation directe du réel dans la rue, jetant les bases du futur documentaire.
+Les photographes taïwanais sont d''abord influencés par le « shashin geijutsu » (art photographique) japonais, recherchant une beauté picturale. Avec l''introduction de la « photographie néo-réaliste », l''accent est mis sur l''« observation réaliste de la rue », soutenant que la photographie doit affronter la réalité directement, ce qui influencera l''orientation de la photographie documentaire taïwanaise pour les décennies à venir.
 
-## Chang Chao-tang : pionnier de la photographie moderne
+**Peng Ruei-Lin** (1904–1984) est l''un des pionniers à avoir reçu une formation photographique systématique durant la période coloniale japonaise. Il étudie à l''École orientale de photographie de Tokyo, puis retourne à Taïwan en 1935 pour ouvrir le studio Apollo à Taipei, se spécialisant dans le portrait. Il est parfois surnommé « docteur en photographie » par la postérité, mais il s''agit d''un sobriquet populaire et non d''un diplôme officiel ; la contribution de Peng Ruei-Lin réside dans le fait qu''il a ramené l''enseignement de la photographie moderne japonaise à Taïwan, posant ainsi les bases de la formation de talents photographiques locaux.[^1]
 
-Chang Chao-tang (1943–2024) est la figure centrale de la photographie moderne taïwanaise. C'est au lycée Chenggong de Taipei, en 1958, qu'il rejoint le club de photo sous la direction de Cheng Sang-hsi. Admis en génie civil à l'Université nationale de Taïwan, il s'imprègne en parallèle de littérature moderne, d'existentialisme et de surréalisme — autant de ferments qui alimenteront toute son œuvre.
+Dans les années 1940, un groupe de photographes locaux taïwanais émerge, parmi lesquels Teng Nan-Kuang, Tsang Tsai et Li Ming-Diao sont les plus représentatifs, formant ensemble les « Trois épées de la photographie taïwanaise ». Teng Nan-Kuang excelle dans la saisie de la vie urbaine, Tsang Tsai a vécu à Pékin et Shanghai, rapportant une vision plus large, et Li Ming-Diao se distingue par la photographie de la nature et de l''écologie. Chacun à leur manière, ils définissent ensemble les premiers contours de la photographie humaniste taïwanaise.[^1]
 
-En 1965, à vingt-deux ans, Chang Chao-tang et Cheng Sang-hsi organisent une « Exposition de photographie moderne en duo ». L'événement fait date : ses thèmes et son esthétique tranchent radicalement avec le style dominant des salons photographiques, provoquant à la fois polémiques vives et curiosité générale.
+## Chang Chao-Tang : pionnier de la photographie moderne
 
-Les premières œuvres de Chang sont traversées par l'existentialisme et le surréalisme — des images empreintes d'errance, de mélancolie et d'absurde. La série des « hommes sans tête » des années 1960, où les visages sont délibérément dissimulés ou coupés, crée un choc visuel percutant et traduit une interrogation philosophique sur la condition humaine.
+Chang Chao-Tang (1943-2024) est l''un des pionniers de la photographie moderne taïwanaise. En 1958, alors qu''il étudie au lycée Chenggong de Taipei, il rejoint le club de photographie et commence à créer sous la direction de son professeur Cheng Sang-Hsi. Bien qu''il ait été admis directement au département de génie civil de l''Université nationale de Taïwan, il s''abreuve abondamment de littérature moderne, de philosophie existentialiste et de pensée surréaliste, des influences qui nourriront profondément son œuvre ultérieure.[^2]
 
-Au fil des années, son travail évolue de la pure expérimentation vers un documentaire chargé d'humanité, attentif aux mutations de la société taïwanaise. Bien plus qu'un photographe, Chang est un artiste visuel à part entière : il participe à la production télévisuelle et co-réalise avec Lei Xiang, Juan I-jong et Christopher Doyle l'émission culte _Yingxiang zhi lü_ (Voyage en images).
+En 1965, à 22 ans, Chang Chao-Tang et Cheng Sang-Hsi organisent l''exposition « Photographie moderne en duo ». Le thème, la forme et le contenu de cette exposition tranchent radicalement avec le style dominant de la photographie de salon de l''époque, suscitant une controverse animée dans le milieu photographique et une large attention, ce qui lui confère une importance historique marquante dans l''histoire de la photographie taïwanaise.[^3]
 
-Son importance ne tient pas seulement à son œuvre personnelle ; il a ouvert une voie nouvelle en montrant que la photographie peut exprimer des idées, explorer la philosophie, créer de la poésie — et non se contenter d'enregistrer le visible.
+Les premières œuvres de Chang Chao-Tang sont profondément marquées par l''existentialisme et le surréalisme, ses images débordant d''un sentiment de désorientation, de mélancolie et d''absurdité. La plus célèbre est la série des hommes sans tête des années 1960, où la tête des personnages est délibérément masquée ou coupée, créant un choc visuel puissant et exprimant une réflexion philosophique sur la condition humaine.
 
-## Juan I-jong : poète de la terre et des hommes
+Avec l''âge, la création de Chang Chao-Tang évolue de la pure expérimentation vers un style documentaire empreint d''humanité, commençant à enregistrer les mutations de la société taïwanaise. Il participe également à la production d''émissions de télévision, réalisant avec Lei Hsiang, Juan I-Jong et Christopher Doyle des programmes tels que « Voyage en images ».
 
-Juan I-jong (né en 1950), originaire de Toucheng dans le comté de Yilan, est la référence incontournable du documentaire humaniste taïwanais. Après ses débuts dans le journalisme écrit à la revue _Youshi Wenyi_, il découvre la photographie en rejoignant le magazine sino-américain _Echo_. C'est ensuite, en tant que rédacteur photo au _Jiating Yuekan_ (Magazine de la famille), qu'il sillonne les bourgs et villages de Taïwan, saisissant la vie au quotidien.
+La contribution de Chang Chao-Tang réside dans l''ouverture de nouvelles possibilités pour la photographie taïwanaise : la photographie ne se contente pas de documenter la réalité, elle peut aussi penser philosophiquement et porter une dimension poétique, insufflant ainsi une profondeur culturelle à la photographie taïwanaise.
 
-En 1987, il publie son œuvre majeure, _Hommes et Terre_ (_Ren yu Tu Di_). Ce recueil est unanimement salué comme un classique de la photographie taïwanaise : avec un regard chaleureux et profondément humain, il offre un témoignage visuel irremplaçable sur la société de l'île.
+## Juan I-Jong : le poète de l''humanité rurale
 
-La force de _Hommes et Terre_ réside dans sa capacité à fixer le Taïwan en mutation des années 1970–1980. À l'heure d'une croissance économique vertigineuse et de bouleversements sociaux accélérés, Juan I-jong tourne son objectif vers des modes de vie traditionnels sur le point de disparaître, immortalisant l'existence la plus simple et la plus authentique.
+Juan I-Jong (1950-) naît à Toucheng, dans le comté de Yilan, et est une figure majeure de la photographie documentaire taïwanaise. Il commence par travailler comme rédacteur au magazine « Jeunesse littéraire », puis entre en contact avec la photographie après avoir rejoint le magazine bilingue chinois-anglais « Echo ». C''est lorsqu''il devient rédacteur photo au « Monthly Family » qu''il s''investit véritablement dans la création photographique, parcourant les villes et villages de tout Taïwan pour des reportages photographiques.
 
-Ses images célèbrent les paysages ruraux, la concentration des artisans, la sérénité des anciens, la joie insouciante des enfants. Avec une acuité du regard et une profonde sensibilité culturelle, il transforme des instants ordinaires en œuvres d'une durée infinie.
+En 1987, Juan I-Jong publie « L''Homme et la Terre » (人與土地). Ce recueil de photographies, empreint d''une vision chaleureuse et humaniste, constitue un témoignage visuel précieux de la société taïwanaise et est unanimement reconnu comme une œuvre classique de l''histoire de la photographie taïwanaise.[^4]
 
-L'œuvre de Juan est traversée par une nostalgie puissante et une certaine mélancolie : il voit s'effacer la simplicité et la solidarité qui caractérisaient, selon lui, les Taïwanais. En mettant en regard tradition et modernité, il invite à s'interroger sur ce que l'on abandonne dans la course au progrès matériel.
+La signification de « L''Homme et la Terre » réside dans sa saisie du visage authentique de la société taïwanaise en pleine transition dans les années 1970-1980. À une époque de développement économique rapide et de bouleversements sociaux, Juan I-Jong braque son objectif sur les modes de vie traditionnels en voie de disparition, documentant l''état de vie le plus simple des Taïwanais.
 
-Au-delà de la photographie, Juan I-jong participe à la réalisation documentaire télévisuelle. À partir de 1981, il co-produit avec Chang Chao-tang et d'autres l'émission _Yingxiang zhi lü_, qui explore la création artistique taïwanaise, les arts populaires, les peuples autochtones et les transformations urbaines et rurales — une émission qui reste une référence dans l'histoire de la télévision taïwanaise.
+Ces photographies capturent les paysages ruraux, la concentration des artisans traditionnels, les sourires bienveillants des aînés, les jeux innocents des enfants. Avec un sens aigu de l''observation et une culture humaniste, Juan I-Jong transforme des instants de vie ordinaire en œuvres d''art.
 
-## Le Centre national de la culture photographique : une institutionnalisation historique
+L''œuvre de Juan I-Jong est imprégnée d''une forte nostalgie et d''un sentiment de mélancolie. Il estime que les vertus de simplicité et d''entraide des Taïwanais sont en train de disparaître. En opposant tradition et modernité, il invite à réfléchir à ce que l''on risque de perdre dans la quête du progrès matériel.
 
-En 2015, le ministère de la Culture lance le « Plan de sauvetage du patrimoine photographique national et de création d'un centre culturel dédié à la photographie ». En janvier 2019, le Centre national de la culture photographique (NCPI) ouvre officiellement ses portes — une étape décisive dans l'histoire de la photographie taïwanaise.
+Outre la photographie fixe, Juan I-Jong participe également à la réalisation de documentaires télévisés. À partir de 1981, il produit avec Chang Chao-Tang et d''autres l''émission « Voyage en images », qui explore la création d''artistes taïwanais, le développement des arts populaires, la vie des peuples autochtones et l''évolution urbaine et rurale, devenant une émission emblématique de l''histoire de la télévision taïwanaise.
 
-Installé dans l'ancien siège taïpéiste de l'Osaka Shosen Kaisha, son antenne de Taipei propose une programmation d'expositions rigoureuses sur les tendances et les enjeux esthétiques de la photographie et de l'image. Le Centre ne se contente pas de collectionner et d'exposer : il soutient activement la recherche et la médiation autour de la photographie taïwanaise, offrant à la communauté académique une ressource de premier plan.
+## Le Centre national de la photographie et de la culture visuelle : un jalon institutionnel
 
-Sa création marque le passage de la photographie taïwanaise d'une pratique individuelle à une préservation et une diffusion systématiques. Ses expositions régulières retracent l'histoire de la photographie locale, valorisent les créateurs contemporains et sensibilisent le grand public à cet art.
+En 2015, le ministère de la Culture lance le « Plan de sauvegarde du patrimoine photographique national et de création d''un centre de la culture photographique ». En avril 2021, le Centre national de la photographie et de la culture visuelle est officiellement inauguré, constituant un jalon institutionnel dans l''histoire du développement de la photographie taïwanaise.[^5]
 
-## La photographie contemporaine : un panorama pluriel
+Le centre est installé dans l''ancien bureau de Taipei de la Compagnie maritime d''Osaka et présente, à travers des expositions professionnelles, les tendances du développement de la photographie et de l''art visuel. En plus de la collection et de la présentation d''œuvres photographiques taïwanaises, il promeut la recherche en culture photographique et offre un soutien à la recherche académique.[^6]
 
-Au tournant du XXIe siècle, la photographie taïwanaise explore de multiples directions. La nouvelle génération bâtit sur les fondations existantes pour chercher ses propres voies : Shen Chao-liang interroge avec sa série _Drift_ l'identité taïwanaise à l'ère de la mondialisation ; Ho Ching-tai documente, dans le reportage photographique, les événements sociaux majeurs, affirmant la photographie comme conscience du monde.
+La création du Centre national de la photographie et de la culture visuelle marque le passage de la photographie taïwanaise de la création individuelle à la préservation et à la diffusion systématiques. Les diverses expositions photographiques régulièrement organisées présentent l''évolution historique de la photographie taïwanaise, promeuvent les réalisations des photographes contemporains et sensibilisent le public à l''art photographique.
 
-La démocratisation de la photographie numérique offre à Taïwan de nouvelles opportunités tout en posant de nouveaux défis. D'un côté, elle abaisse le seuil de création et élargit le cercle des pratiquants ; de l'autre, maintenir la profondeur artistique et culturelle de la photographie dans un monde saturé d'images devient un enjeu central pour les photographes d'aujourd'hui.
+## Le développement pluriel de la photographie contemporaine
 
-L'essor des réseaux sociaux transforme en profondeur les modes de diffusion. Les jeunes photographes partagent leur travail sur Instagram ou Facebook, construisent leur identité, accèdent directement à leur public. Cette relation directe ouvre des possibilités de survie économique aux photographes indépendants et démocratise la création.
+Au XXIe siècle, la photographie taïwanaise connaît un développement pluriel. Les photographes de la nouvelle génération explorent diverses possibilités en s''appuyant sur les fondations traditionnelles : Shen Chao-Liang examine l''identité taïwanaise dans la mondialisation à travers sa série « Dérive », Ho Ching-Tai documente des événements sociaux dans le domaine du photojournalisme, démontrant la force de la photographie comme témoignage social.
 
-L'intelligence artificielle, quant à elle, ouvre de nouvelles perspectives : traitement d'image assisté, automatisation de la prise de vue, analyse intelligente des images — autant d'outils qui reconfigurent les pratiques photographiques traditionnelles. Mais la technique ne remplace pas la créativité ni l'humanité du regard : dans un univers de changements permanents, la vision singulière et la culture du photographe n'en sont que plus précieuses.
+Le photographe d''origine taïwanaise Chien-Chi Chang se distingue par des enquêtes approfondies s''étalant sur plusieurs années, ses œuvres couvrant des sujets tels que les travailleurs migrants clandestins, les condamnés à mort et les hôpitaux psychiatriques. Il est à ce jour le seul photographe né à Taïwan à avoir obtenu le statut de membre titulaire de Magnum Photos.[^7]
 
-## La photographie comme acte social
+La démocratisation de la photographie numérique offre de nouvelles opportunités et de nouveaux défis à la photographie taïwanaise. D''un côté, elle abaisse les barrières à la création et permet à davantage de personnes de s''investir dans la photographie ; de l''autre, comment maintenir la dimension artistique et la profondeur culturelle de la photographie à une ère de surabondance d''images est une question à laquelle les photographes contemporains doivent faire face.
 
-La photographie taïwanaise a joué un rôle essentiel dans le processus de démocratisation du pays. De la résistance politique sous la loi martiale aux mouvements sociaux de l'après-martial, les photographes ont capté les moments charnières de la transformation taïwanaise, devenant les témoins privilégiés de l'histoire. Ces images de reportage ne possèdent pas seulement une valeur journalistique — elles constituent aussi des documents historiques de premier ordre.
+L''essor des réseaux sociaux transforme les modes de diffusion de la photographie. Les jeunes photographes partagent leurs œuvres via des plateformes telles qu''Instagram et Facebook, construisant leur marque personnelle. Cette connexion directe offre aux photographes indépendants des moyens de subsistance et favorise la démocratisation de la création photographique.
 
-Le tremblement de terre du 21 septembre 1999 est l'une des catastrophes naturelles les plus dévastatrices de l'histoire récente de Taïwan. Les photographes y ont joué un rôle crucial, saisissant à la fois l'ampleur du désastre et la lumière humaine qui en émergea. Juan I-jong, reprenant son appareil après le séisme, a pointé son objectif sur les bénévoles de la reconstruction, immortalisant l'esprit de solidarité et la résilience des Taïwanais face à l'adversité.
+Le développement des technologies d''intelligence artificielle ouvre de nouvelles possibilités pour la photographie. Le traitement d''images assisté par IA, les technologies de prise de vue automatisée et l''analyse intelligente d''images transforment tous les modes de création photographique traditionnels. Cependant, les avancées technologiques ne peuvent remplacer la créativité et la sensibilité humaniste du photographe ; à une époque d''évolution technologique rapide, la perspective et la culture du photographe deviennent d''autant plus irremplaçables.
 
-Avec la montée en puissance de la conscience environnementale, de plus en plus de photographes documentent les pollutions industrielles, les impacts du changement climatique sur les écosystèmes, les nouvelles relations entre l'homme et la nature. Ces images, par leur force visuelle, alertent l'opinion publique sur les questions environnementales.
+## La fonction sociale de la photographie
 
-## Mondialisation et ancrage local
+La photographie taïwanaise joue un rôle de témoin dans le processus de démocratisation sociale. Des luttes politiques sous la loi martiale aux mouvements sociaux après la levée de celle-ci, les photographes ont documenté les moments clés de la transformation de la société taïwanaise, devenant des témoins de l''histoire. Ces photographies de reportage possèdent une double valeur, à la fois journalistique et documentaire.
 
-Dans un monde globalisé, comment préserver les spécificités de la photographie taïwanaise ? C'est l'une des questions fondamentales que se posent les photographes d'aujourd'hui. Il s'agit à la fois de dialoguer avec la scène photographique internationale, d'en assimiler les pratiques et les innovations, et de rester enraciné dans la culture locale, pour exprimer ce que Taïwan a d'unique — son histoire, son expérience, son regard sur le monde.
+Le séisme du 21 septembre 1999 (921) est une catastrophe majeure de l''histoire moderne de Taïwan. Les photographes ont exercé leur fonction de témoins, documentant l''horreur de la catastrophe et la noblesse de la nature humaine. Après le séisme, Juan I-Jong a repris son objectif et braqué sa lentille sur les bénévoles de secours, enregistrant l''esprit d''entraide et la résilience des Taïwanais face à la catastrophe.
 
-Les photographes taïwanais qui s'imposent trouvent cet équilibre : leurs œuvres s'inscrivent dans une perspective et une exigence internationales, tout en puisant leurs racines dans la culture taïwanaise, révélant ainsi toute la singularité de ce regard insulaire.
+Avec la montée de la conscience environnementale, un nombre croissant de photographes se penchent sur les questions écologiques, documentant la destruction de l''environnement par la pollution industrielle, l''impact du changement climatique sur les écosystèmes et l''évolution de la relation entre l''homme et la nature. Ces photographies environnementales, par leur impact visuel, sensibilisent le public aux problèmes écologiques.
 
-La photographie taïwanaise a constitué, au fil du temps, une généalogie complète, des grands maîtres aux créateurs émergents. Portée par une riche tradition culturelle, un environnement de création ouvert et une vision internationale, elle continuera d'écrire ses propres pages dans l'histoire mondiale de la photographie. Comme le disait Chang Chao-tang, photographier, c'est interroger la condition humaine, c'est saisir l'éclat fugitif d'un instant. La valeur de la photographie taïwanaise ne réside pas seulement dans sa fonction de mémoire — elle tient à l'humanité et à la profondeur culturelle qu'elle porte en elle.
+## Mondialisation et identité locale
+
+Dans le contexte de la mondialisation, comment préserver la spécificité locale de la photographie taïwanaise est un défi auquel les photographes contemporains sont confrontés. D''un côté, il est nécessaire de dialoguer avec la communauté photographique internationale pour apprendre les concepts de création et les techniques avancées ; de l''autre, il faut s''enraciner profondément dans la culture locale pour exprimer la richesse culturelle et l''expérience de vie propres à Taïwan.
+
+Les photographes taïwanais qui réussissent trouvent souvent un équilibre entre mondialisation et localisation : leurs œuvres possèdent à la fois une vision internationale et sont enracinées dans le sol culturel taïwanais. Des instantanés de rue des Trois épées de la période coloniale japonaise aux expérimentations existentialistes de Chang Chao-Tang, du documentaire humaniste de Juan I-Jong aux reportages d''enquête de Chien-Chi Chang sur la scène de Magnum, la photographie taïwanaise, dans des langages différents, a enregistré la même île à travers les époques.
 
 ## Références
 
-- [張照堂 - 維基百科](https://zh.wikipedia.org/wiki/%E5%BC%B5%E7%85%A7%E5%A0%82)
-- [攝影家張照堂81歲辭世 - 聯合新聞網](https://udn.com/news/story/6898/7874899)
-- [專訪台灣攝影家張照堂 - 端傳媒](https://theinitium.com/project/20181020-photo-changchaotang)
-- [人與土地：阮義忠經典攝影集 - 博客來](https://www.books.com.tw/products/0010712291)
-- [國家攝影文化中心](https://ncpi.ntmofa.gov.tw/)
-- [國家攝影文化中心 - 維基百科](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E5%AE%B6%E6%94%9D%E5%BD%B1%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83)
+[^1]: [Teng Nan-Kuang — Wikipédia](https://zh.wikipedia.org/wiki/%E9%84%A7%E5%8D%97%E5%85%89) — Contexte et période d''activité des Trois épées de la photographie taïwanaise (Teng Nan-Kuang, Tsang Tsai, Li Ming-Diao).
+
+[^2]: [Chang Chao-Tang — Wikipédia](https://zh.wikipedia.org/wiki/%E5%BC%B5%E7%85%A7%E5%A0%82) — Confirmation des dates de vie de Chang Chao-Tang (1943-2024) et de son parcours d''études.
+
+[^3]: [Le photographe Chang Chao-Tang s''éteint à 81 ans — United Daily News](https://udn.com/news/story/6898/7874899) — Confirmation de l''exposition « Photographie moderne en duo » de 1965 et de l''annonce du décès de Chang Chao-Tang.
+
+[^4]: [L''Homme et la Terre : recueil classique de photographies de Juan I-Jong — Books.com.tw](https://www.books.com.tw/products/0010712291) — Recueil de photographies documentaires de Juan I-Jong (première édition 1987, réédition 2016).
+
+[^5]: [Centre national de la photographie et de la culture visuelle — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E5%AE%B6%E6%94%9D%E5%BD%B1%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83) — Confirmation de la date d''inauguration officielle en avril 2021.
+
+[^6]: [Centre national de la photographie et de la culture visuelle](https://ncpi.ntmofa.gov.tw/) — Fonctions de l''institution, politique de collection et programme d''expositions.
+
+[^7]: [Chien-Chi Chang — Magnum Photos](https://www.magnumphotos.com/photographer/chien-chi-chang/) — Confirmation du statut de membre titulaire de Chien-Chi Chang chez Magnum Photos et de la portée de ses œuvres.
+
+**Pour aller plus loin**
+
+- [Entretien avec le photographe taïwanais Chang Chao-Tang — Initium Media](https://theinitium.com/project/20181020-photo-changchaotang)
+- [Collection et recherche du Centre national de la photographie et de la culture visuelle](https://ncpi.ntmofa.gov.tw/)

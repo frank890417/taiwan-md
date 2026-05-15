@@ -1,102 +1,101 @@
 ---
 title: 'Vida nocturna y cultura del KTV'
-description: 'Desde las cabinas de Cashbox hasta los restaurantes nocturnos, la vida nocturna de una isla que no cierra nunca'
+description: 'Desde las cabinas de Cashbox hasta los restaurantes de madrugada, la vida nocturna de una isla que nunca cierra'
 date: 2026-03-17
-tags: [vida, vida nocturna, KTV, restaurantes nocturnos, Taiwán]
-subcategory: '休閒與娛樂'
 author: 'Taiwan.md Contributors'
-readingTime: 8
+category: 'Lifestyle'
+subcategory: '休閒與娛樂'
+tags: ['vida', 'vida nocturna', 'KTV', 'restaurantes de madrugada', 'Taiwán']
 lastVerified: 2026-03-19
 lastHumanReview: false
+featured: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b2fc903c97041562'
-sourceBodyHash: 'sha256:ace1507a913d6853'
-translatedAt: '2026-05-01T22:19:10+08:00'
-category: Lifestyle
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:3a356e2fbd9898dc'
+sourceBodyHash: 'sha256:5171611c1ca72679'
+translatedAt: '2026-05-15T15:39:40+08:00'
 ---
 
 # Vida nocturna y cultura del KTV
 
-Cuando cae la noche sobre Taiwán, la isla no se duerme: cambia de rostro. Los neones iluminan las calles, las cabinas de KTV resuenan de risas, los restaurantes nocturnos brillan con luz propia y los letreros de establecimientos abiertos las 24 horas destacan con fuerza en la oscuridad. La vida nocturna taiwanesa no es solo entretenimiento, sino una filosofía de vida: un modo de recargar el alma cansada bajo el manto de la noche.
+> **Resumen en 30 segundos:** La vida nocturna de Taiwán se sustenta en tres pilares: las cabinas de KTV, los restaurantes de madrugada y los mercados nocturnos. Un servicio ininterrumpido las 24 horas sostiene el ritmo de esta "isla que nunca duerme". La cultura de las cabinas de KTV se popularizó en la década de 1990 y evolucionó hasta convertirse en una forma de reunión para todos los públicos; en 2020, un incendio en un KTV Cashbox de Taipéi causó 5 víctimas mortales, lo que impulsó una reforma de seguridad en el sector.
 
-En esta "isla que nunca duerme", las 10 de la noche son simplemente el comienzo de otro día. Las cenas tras la jornada laboral, las celebraciones después de los exámenes, las conversaciones íntimas entre amigos: todo encuentra su escenario perfecto en la oscuridad. La cultura nocturna de Taiwán refleja la comprensión singular de esta isla sobre el "descanso" y la "conexión".
+Cuando cae la noche sobre Taiwán, la isla adopta un rostro distinto. Los neones iluminan las calles, las cabinas de KTV resuenan con risas y canciones, los restaurantes de madrugada brillan con luz propia y los letreros de establecimientos abiertos las 24 horas destacan con fuerza en la oscuridad. Las cenas tras la jornada laboral de los oficinistas, las celebraciones estudiantes después de los exámenes y las conversaciones íntimas entre amigos encuentran en la noche su escenario perfecto.
 
 ## La cultura del KTV: un universo paralelo dentro de una cabina
 
-El KTV es el corazón de la vida nocturna taiwana. Marcas como Cashbox, Holiday y Star Party alberdan los recuerdos de alegría de incontables taiwaneses. Cada vez que uno abre la puerta de una cabina de KTV, ingresa en un universo paralelo aislado del exterior, donde cualquiera puede convertirse en una estrella.
+El KTV (karaoke televisado) es el núcleo de la vida nocturna taiwanesa. Tras el auge de los KTV con cabinas privadas en la década de 1990, marcas como Cashbox, Holiday y Star K fueron expandiéndose, acompañando a generaciones de taiwaneses en incontables reuniones. Cada vez que se abre la puerta de una cabina de KTV, se ingresa en un espacio relativamente aislado del mundo exterior; frente al micrófono, las diferencias de profesión y edad quedan temporalmente suspendidas.
 
-La densidad de establecimientos de KTV en Taiwán se encuentra entre las más altas del mundo: solo en la ciudad de Taipéi hay más de 300. Desde las lujosas cabinas presidenciales hasta las económicas cabinas de diversión, la variedad de precios convierte al KTV en un entretenimiento accesible para todos. Una cabina para 10 personas, en día laborable, cuesta solo 1.200 dólares taiwaneses por tres horas, lo que equivale a 120 por persona: un coste de felicidad más barato que ir al cine.
+La densidad de KTV en Taiwán se encuentra entre las más altas del mundo. Según los registros del Departamento de Comercio del Ministerio de Economía, el número de establecimientos de KTV en la ciudad de Taipéi se ha mantenido de forma sostenida por encima del centenar (incluyendo cadenas y tiendas independientes), con una distribución desigual entre distritos: Xinyi, Da'an y Zhongshan concentran la mayor densidad. Desde cabinas presidenciales de lujo hasta paquetes económicos de entretenimiento, la variedad de precios convierte al KTV en un entretenimiento accesible para todos; una cabina para 10 personas tiene un coste de entre 1.500 y 2.500 TWD por 3 horas en días laborables (incluyendo consumo mínimo de comida), mientras que los programas de membresía de las grandes cadenas o las franjas horarias de menor afluencia resultan aún más económicos. Las pantallas táctiles de selección de canciones ofrecen más de 100.000 títulos en mandarín, taiwanés, inglés, japonés y coreano, satisfaciendo las necesidades de distintas generaciones.[^1]
 
-> «El KTV es el lugar más honesto de los taiwaneses. Dentro de la cabina, el director ejecutivo puede cantar a Teresa Teng, el ingenero puede lanzarse a notas agudas y los universitarios pueden corear a Jay Chou. El micrófono es igualitario; la voz no entiende de clases.»
+Cumpleaños, cenas de fin de año corporativas, reuniones de exalumnos, citas románticas: el KTV es el lugar de encuentro predilecto de los taiwaneses para toda clase de ocasiones. La atmósfera íntima de la cabina permite bajar la guardia y expresarse con libertad. Un jefe normalmente serio se desinhibe bailando dentro de la cabina; un colega introvertido se convierte de pronto en el rey del micrófono. Este contraste es precisamente la razón por la que la cultura del KTV no ha perdido vigencia.
 
-El sistema de selección de canciones del KTV refleja la evolución de la cultura popular taiwana. Desde los primeros videodiscos de karaoke hasta la selección digital, desde la simple visualización de letras hasta la reproducción de videoclips, el progreso tecnológico ha elevado continuamente la experiencia. Los paneles táctiles actuales ofrecen más de 100.000 canciones, en mandarín, taiwanés, inglés, japonés y coreano, satisfaciendo las necesidades de distintas generaciones.
+## Cashbox y Holiday: duopolio competitivo y accidentes de seguridad
 
-Cumpleaños, cenas de empresa, reuniones de exalumnos, citas románticas: el KTV es el lugar preferido para todo tipo de encuentros. La intimidad de la cabina permite a las personas bajar la guardia y expresarse sin reservas. Es habitual ver a un jefe normalmente serio bailando con entusiasmo dentro de la cabina, o a un colega tímido convertirse de pronto en un devorador de micrófonos. Ese contraste es precisamente el encanto de la cultura del KTV.
+Cashbox y Holiday son los dos gigantes del KTV en Taiwán. Décadas de competencia impulsaron mejoras en equipos de sonido, diseño de cabinas y servicio de restauración. Cashbox se distingue por su posicionamiento de gama alta, orientado a clientes de negocios; Holiday apuesta por una línea asequible y popular, muy apreciada por el público estudiantil.
 
-## Cashbox y Holiday: historia de un duopolio
+**El incendio de Cashbox Zhonglun en 1995** fue el accidente más grave en la historia del KTV taiwanés. El siniestro causó múltiples víctimas mortales y llevó al gobierno a exigir por primera vez que todos los operadores de KTV equiparan instalaciones contra incendios adecuadas, marcando un primer punto de inflexión en la normativa de seguridad del sector.[^2]
 
-Cashbox y Holiday son los dos gigantes de la industria del KTV en Taiwán. Cashbox se distingue por su posicionamiento premium: cabinas lujosas, equipos de sonido de primer nivel, el lugar preferido para reuniones de negocios. Holiday, en cambio, apuesta por un enfoque accesible y popular: gran número de cabinas, precios asequibles, la opción favorita del público estudiantil.
+En **2017, la Comisión de Competencia Justa** revisó la adquisición de Holiday por parte de Cashbox (grupo KK BOX) y la aprobó con condiciones, exigiendo que ambas marcas mantuvieran la competencia en determinados condados y ciudades para evitar un monopolio de mercado. Este caso marcó el cambio estructural del mercado taiwanés del KTV, que pasó de un duopolio competitivo a estar dominado por un único grupo.[^4]
 
-La competencia entre ambos ha impulsado la innovación en todo el sector. Desde la mejora del equipamiento de sonido hasta la calidad del servicio de restauración, desde el diseño de las cabinas hasta los programas de fidelización, cada avance competitivo ha beneficiado al consumidor. Los KTV actuales ya no se limitan a cantar: ofrecen menús elaborados, servicio de coctelería e incluso cabinas temáticas, convirtiéndose en espacios de entretenimiento multifuncionales.
+En abril de 2020, un incendio se declaró nuevamente en un KTV Cashbox en la zona de Zhongxiao East Road, Taipéi, causando 5 víctimas mortales. El accidente puso de manifiesto las deficiencias de gestión de seguridad en edificios antiguos; las autoridades competentes llevaron a cabo inspecciones especiales en todos los KTV del país y los operadores procedieron a actualizar sus sistemas contra incendios.[^2]
 
-La llegada de nuevos operadores como Star Party ha aportado aún más creatividad al mercado. Cabinas temáticas, salas de fiestas y servicios VIP diversifican la experiencia. Algunas cabinas cuentan incluso con videoconsolas y equipos de proyección, de modo que quienes no disfrutan cantando también encuentran su diversión.
+Durante el **período de alerta de nivel 3 por COVID-19** (mayo-julio de 2021), el gobierno ordenó el cierre obligatorio de KTV, bares, discotecas y otros establecimientos de ocio nocturno. Fue la primera vez en la historia de la industria del KTV en Taiwán que el sector se enfrentó a un cierre forzado de varias semanas. Muchos operadores sufrieron tensiones en su cadena de financiación, y algunos KTV pequeños y medianos no volvieron a abrir tras la pandemia. La crisis aceleró la concentración del mercado: las grandes cadenas sobrevivieron al bache gracias a sus sistemas de reserva en línea y a cabinas más sofisticadas, con una tasa de supervivencia notablemente superior a la de los establecimientos independientes.
 
-## Restaurantes nocturnos: la cultura izakaya al estilo taiwanés
+## Restaurantes de madrugada: la cultura izakaya al estilo taiwanés
 
-Cuando la izakaya japonesa se encuentra con la cultura de los salteados calientes taiwaneses, surge el singular restaurante nocturno taiwanés. Estos establecimientos suelen abrir hasta la madrugada y ofrecen platos salteados, aperitivos y cerveza, funcionando como punto de encuentro para los noctámbulos.
+Cuando el estilo de los izakaya japoneses se fusionó con la cultura de los salteados calientes (rechao) de Taiwán, nació una forma singular de restaurante de madrugada taiwanés. Estos establecimientos suelen estar abiertos hasta el amanecer, ofreciendo salteados, aperitivos y cerveza, y sirven de punto de encuentro para trabajadores tras la jornada y noctámbulos. En Taipéi, los alrededores del área comercial de Shihda y la zona de Gongguan, así como los alrededores del mercado nocturno Ruifeng en Kaohsiung, concentran densos núcleos de restaurantes de madrugada.
 
-En el Shida Night Market y el área de Gongguan en Taipéi, o en el Ruifeng Night Market de Kaohsiung, abundan los restaurantes nocturnos clásicos. Mesas de madera, iluminación cálida, cerveza taiwanesa bien fría y pollo salado crujiente recién hecho conforman el estándar de estos locales. Aquí no hay la formalidad de la izakaya japonesa, sino el calor y la espontaneidad propios de los taiwaneses.
+Mesas y sillas de madera, iluminación cálida, cerveza taiwanesa bien fría y pollo salteado con sal y pimienta recién hecho conforman el equipamiento estándar de un restaurante de madrugada taiwanés. Platos caseros como el pollo en tres tazas (sanbeiji), el pollo kongpao, el pepino aliñado y la carne de cerdo con salsa de ajo gozan de especial popularidad en las horas nocturnas; acompañados de una botella de cerveza taiwanesa, alivian eficazmente el cansancio del día.
 
-El menú de un restaure nocturno suele ser sencillo pero clásico: pollo en tres tazas (sanbeiji), pollo kung pao, cerdo con puré de ajo, pepino encurtido. Estos platos caseros tienen un poder reconfortante especial en las horas de madrugada. Acompañados de una botella de cerveza taiwanesa o de licor de gaoliang, hacen que el cansancio del día se desvanezca.
-
-> Un visitante japonés comentó: «La izakaya japonesa relaja; el restaurante nocturno taiwanés abriga. Ese ambiente en el que uno se sienta y, sin más, comienza a conversar, no lo encuentro en ningún otro lugar.»
+La atmósfera de los restaurantes de madrugada taiwaneses difiere de la formalidad del izakaya japonés y se acerca más al estilo social espontáneo y cálido de los taiwaneses. No es extraño que desconocidos entablen conversación; en una misma mesa grande pueden coincidir grupos de bebedores distintos. Esta flexibilidad en el uso compartido del espacio otorga a los restaurantes de madrugada una doble función: social y gastronómica.
 
 ## Discotecas y bares: el pulso de la noche urbana
 
-Las discotecas del distrito Xinyi de Taipéi representan otra faceta de la vida nocturna taiwana. Locales reconocidos como OMNI, ELECTRO y Chess atraen a jóvenes que liberan su energía juvenil. Música electrónica atronadora, espectáculos de luces deslumbrantes y multitudes en movimiento componen la imagen más efervescente de la noche urbana.
+El distrito de Xinyi en Taipéi concentra las discotecas más conocidas de Taiwán. La música electrónica, los espectáculos de luces y las pistas de baile componen el escenario más vibrante de la noche urbana, con multitudes que a menudo se extienden desde la madrugada hasta el amanecer. La cultura de las discotecas taiwanesas está fuertemente influenciada por Occidente, pero el hecho de que los DJ mezclen versiones electrónicas de canciones populares en chino y que los jóvenes locales las interpreten a su manera ha dado lugar a un carácter propio.
 
-La cultura discotequera taiwana está fuertemente influenciada por Occidente, pero incorpora rasgos propios. Es habitual que los DJs mezclen versiones electrónicas de éxitos en mandarín, y que los jóvenes taiwaneses interpreten la cultura de club a su manera. Los fines de semana, las discotecas se llenan hasta los topes: los jóvenes se expresan a través del baile y se conectan entre sí mediante la música.
+La cultura de los bares es aún más diversa. Bares de cócteles de autor, bares deportivos, tiendas especializadas en whisky y jardines de cerveza atraen a públicos distintos. La zona de los callejones de Zhongshan (Tiao-tong) en Taipéi conserva una marcada atmósfera japonesa y es una de las áreas de ocio nocturno más antiguas de la ciudad; desde la década de 1980, la densidad de bares y restaurantes ha sido notable, y la zona es muy apreciada por profesionales de negocios y turistas japoneses.
 
-La cultura de los bares es aún más diversa. Desde bares de cócteles de autor hasta bares deportivos, desde tiendas especializadas en whisky hasta jardines de cerveza, distintos estilos satisfacen a públicos distintos. La cultura de los _tiao-tong_ (pequeños callejones) en el distrito oriental de Taipéi conserva un marcado aire japonés, ofreciendo una experiencia de exotismo urbano.
+La cultura de la coctelería ha experimentado un rápido desarrollo en Taiwán en los últimos años. Varios bares de Taipéi han sido incluidos en listas mundiales de los mejores bares de cócteles, impulsando la profesionalización de los bartenders y la difusión de conocimientos sobre degustación. La tendencia de la cerveza artesanal y el vino natural también se ha extendido a los escenarios de la vida nocturna taiwanesa, diversificando las opciones de consumo de bebidas.
 
-## La cultura de las 24 horas: infraestructura de una ciudad que no duerme
+## La cultura del servicio 24 horas: infraestructura de una ciudad que nunca duerme
 
-La cultura de apertura permanente en Taiwán proporciona una base sólida para la vida nocturna. Tiendas de conveniencia, farmacias, lavanderías, librerías e incluso gimnasios ofrecen servicio las 24 horas. Esta cultura de "disponibilidad total" permite a los taiwaneses vivir al ritmo que elijan.
+La cultura del servicio las 24 horas en Taiwán proporciona un soporte infraestructural esencial para la vida nocturna. Tiendas de conveniencia, farmacias, gimnasios e incluso algunas librerías ofrecen servicio ininterrumpido, permitiendo a cada persona vivir a su propio ritmo.
 
-La antigua librería Eslite de Dunan fue la primera del mundo abierta las 24 horas, convirtiéndose en un bastión espiritual para los noctámbulos de Taipéi. Aunque ya ha cerrado sus puertas, demostró la demanda taiwanesa de actividades culturales nocturnas. Las actuales sucursales de Eslite en Xinyi y eslite spectrum mantienen horarios que se extienden hasta la madrugada, haciendo de la lectura una opción más de la vida nocturna.
+La librería Eslite Dunan se convirtió en 1999 en la primera librería de Taiwán abierta las 24 horas, adquiriendo un estatus icónico entre los noctámbulos de Taipéi y convirtiéndose en un ejemplo frecuente en los medios extranjeros que cubren la cultura nocturna taiwanesa. Cerró en 2020, pero la tienda insignia de Eslite en Xinyi y otros establecimientos mantienen horarios de apertura hasta altas horas de la madrugada, haciendo de la lectura una opción más de la vida nocturna.[^3]
 
-El auge de los gimnasios 24 horas permite que el ejercicio forme parte de la vida nocturna. Muchos trabajadores eligen entrenar de madrugada, disfrutando de un entorno tranquilo. Esta diversificación de estilos de vida es una característica distintiva de la cultura nocturna taiwana.
+El auge de los gimnasios 24 horas ofrece un espacio estable para el ejercicio nocturno; algunos oficinistas tienen la costumbre de disfrutar de un ambiente tranquilo para entrenar a altas horas. Este ritmo de vida distribuido a lo largo de las distintas franjas horarias es una estrategia de adaptación surgida de forma natural ante la densidad de la vida urbana taiwanesa, y constituye la infraestructura subyacente de la expresión "isla que nunca duerme".
 
-## Taxis y transporte nocturno
+## Mercados nocturnos: el escenario principal de la vida nocturna popular
 
-La vida nocturna taiwana sería impensable sin un transporte nocturno eficaz. Los taxis son el mejor aliado de quienes regresan tarde: sus carrocerías amarillas destacan con claridad en la oscuridad. La densidad de taxis en Taipéi es una las más altas del mundo: un taxi por cada 170 habitantes de media, lo que permite encontrar uno con facilidad incluso de madrugada.
+Los mercados nocturnos (night markets) son la forma de vida nocturna más popular y arraigada de Taiwán. El mercado nocturno de Shilin, el de Ningxia, el de Fengjia y el de Liuhé poseen cada uno una personalidad propia y una oferta gastronómica emblemática. Familias de tres generaciones, parejas y grupos de amigos encuentran cada uno su diversión en el mercado nocturno, convirtiéndolo en un espacio social compartido por todas las edades en Taiwán.
 
-Servicios de reserva como Uber, Taiwan Taxi y 55688 hacen que desplazarse de noche sea más seguro y cómodo. El GPS, la valoración de conductores y el pago electrónico convierten la experiencia de tomar un taxi nocturno en una opción fiable. Gracias a ello, muchas personas se atreven a explorar destinos nocturnos más alejados sin preocuparse por el regreso a casa.
+El horario de los mercados nocturnos suele extenderse desde el atardecer hasta la madrugada, en sintonía con el ritmo de vida de los taiwaneses. Juegos de habilidad, puestos de mercancías y actuaciones de artistas callejeros combinan funciones gastronómicas, comerciales y de entretenimiento. Para los visitantes extranjeros, los mercados nocturnos son también la vía más directa para conocer la cultura culinaria popular taiwánese, y prácticamente toda guía de viaje sobre Taiwán los incluye.
 
-Los autobuses nocturnos, aunque con menor frecuencia, cubren las principales zonas de ocio. De la zona oriental a Ximending, de Shilin a Gongguan, estos autobuses permiten que los jóvenes sin vehículo propio también disfruten de la vida nocturna. A bordo viajan amigos que salen del KTV, comensales de restaurantes nocturnos y jóvenes que abandonan las discotecas, testimonio de la diversidad nocturna de Taiwán.
+La forma de los mercados nocturnos varía según la región. El mercado nocturno de Ningxia en Taipéi es conocido por su cocina taiwanesa tradicional; el de Fengjia en Taichung destaca por sus aperitivos creativos y sus puestos de gran afluencia; el de Liuhé en Kaohsiung sigue una orientación más turística. Cada uno cuenta con su propia proporción de clientes locales habituales y visitantes foráneos, conformando las múltiples facetas de la cultura culinaria popular taiwanesa.[^5]
 
-## Los mercados nocturnos: escenario principal de la vida nocturna popular
+## Evolución y desafíos de la vida nocturna
 
-Los mercados nocturnos (_yèshì_) son la forma más popular y accesible de vida nocturna en Taiwán. El Shilin Night Market, el Ningxia Night Market, el Fengjia Night Market y el Liuhe Night Market poseen cada uno su carácter propio y sus platos emblemáticos. No son solo paraísos gastronómicos, sino también espacios sociales fundamentales.
+La vida nocturna en Taiwán presenta diferencias generacionales evidentes: las personas mayores prefieren el karaoke y los restaurantes de madrugada; la generación de mediana edad tiende hacia restaurantes de alta gama o bares de whisky; las generaciones más jóvenes se inclinan por las discotecas, los bares de cócteles y los restaurantes temáticos. Durante la pandemia, formas como el KTV en línea o la coctelería doméstica llenaron temporalmente el vacío de las reuniones presenciales; a partir de 2021, con la relajación de las restricciones, los establecimientos físicos fueron recuperando progresivamente su afluencia.
 
-En un mercado nocturno se ven familias de tres generaciones disfrutando juntas, parejas de la mano probando bocados y grupos de amigos riendo frente a los puestos. Su encanto radica en la inclusividad: sin importar la edad, la profesión o la situación económica, todos encuentran aquí su propia diversión.
+La popularización de las plataformas de entrega a domicilio ha diversificado las opciones gastronómicas nocturnas: sin salir de casa se puede disfrutar de aperitivos de mercado nocturno o platos salteados calientes. Los servicios de transporte con conductor hacen que los desplazamientos nocturnos sean más seguros; la geolocalización por GPS y los pagos electrónicos reducen las preocupaciones de salir de noche. Estos servicios complementarios sostienen conjuntamente la evolución del ecosistema de la vida nocturna taiwanesa.
 
-El horario de los mercados nocturnos, generalmente desde el atardecer hasta la madrugada, se adapta perfectamente al ritmo de vida taiwanés. Cenar en el mercado después del trabajo, pasear en familia durante el fin de semana: el mercado nocturno está profundamente integrado en la vida cotidiana. Juegos de habilidad, puestos de mercancías y actuaciones de artistas callejeros los convierten en algo más que un simple mercado de comida: son espacios de entretenimiento integral.
+La sostenibilidad de la economía nocturna también es objeto de debate. La concentración excesiva de mercados nocturnos turísticos genera problemas de ruido y residuos; las dudas sobre la seguridad de algunos edificios antiguos de KTV requieren normativas actualizadas, y las condiciones laborales de los trabajadores nocturnos también merecen atención. La riqueza de la vida nocturna taiwanesa se sustenta en una enorme fuerza laboral de servicios nocturnos, un hecho estructural que a menudo queda oculto detrás de la imagen de la "isla que nunca duerme".
 
-## Diferencias generacionales y evolución de la vida nocturna
+## Referencias
 
-La cultura nocturna taiwana presenta diferencias generacionales marcadas. Las personas mayores prefieren el karaoke y los restaurantes nocturnos, disfrutando de reuniones tranquilas y cómodas. La generación de mededad frecuenta restaurantes de alto nivel y bares de whisky, buscando calidad y refinamiento. Los jóvenes, en cambio, se inclinan por discotecas, bares de coctelería y restaurantes temáticos, en busca de experiencias novedosas y estimulantes.
+[^1]: [KTV — Wikipedia](https://zh.wikipedia.org/wiki/KTV) — Origen del KTV y panorama del desarrollo de la industria de KTV con cabinas en Taiwán.
 
-La pandemia transformó las formas de vida nocturna. KTV en línea, servicio a domicilio y coctelería en casa desplazaron la experiencia del encuentro grupal hacia lo individual. Sin embargo, con la remisión de la pandemia, el deseo de reunión presencial se ha intensificado, y los negocios nocturnos han experimentado un repunte.
+[^2]: [Incendio en KTV Cashbox — Wikipedia](https://zh.wikipedia.org/wiki/%E9%8C%A2%E6%AB%83KTV%E7%81%AB%E7%81%BD) — Incendio en el KTV Cashbox de Zhongxiao, Taipéi, en abril de 2020: 5 víctimas mortales y reformas de seguridad posteriores.
 
-Las nuevas tecnologías también están cambiando la experiencia nocturna. KTV con realidad virtual, pedidos inteligentes y bares sin personal hacen que la vida nocturna sea más cómoda y divertida. Pero lo que permanece inalterable es el entusiasmo taiwanés por los encuentros nocturnos y la necesidad de encontrar un sentido de pertenencia bajo el manto de la noche.
+[^3]: [Librería Eslite — Wikipedia](https://zh.wikipedia.org/wiki/%E8%AA%A0%E5%93%81%E6%9B%B8%E5%BA%97) — Historia de la librería Eslite, incluyendo el inicio del servicio 24 horas en la tienda Dunan y su cierre en 2020.
 
-> La cultura nocturna de Taiwán refleja la inclusividad y la vitalidad de esta isla. Ya se busque bullicio o tranquilidad, tradición o modernidad, opciones económicas o de alto nivel, las noches taiwanesas satisfacen cualquier deseo.
+[^4]: [Comisión de Competencia Justa — Resoluciones de casos de concentración](https://www.ftc.gov.tw/) — Caso de adquisición de Holiday por Cashbox en 2017: resolución de aprobación con condiciones.
+
+[^5]: [Mercados nocturnos de Taiwán — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82) — Distribución de los principales mercados nocturnos de Taiwán, características culturales y presentación de mercados representativos, incluyendo Ningxia, Fengjia y Liuhé.
 
 ## Lecturas complementarias
 
-- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統): cómo el transporte nocturno sostiene la cultura de la vida nocturna
-- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化): la relación entre las tiendas 24 horas y la cultura de la ciudad que no duerme
-- [La cultura del café en Taiwán](/lifestyle/台灣咖啡文化): de la cafetería a la cafetería nocturna
-- [Creencias religiosas en Taiwán](/culture/台灣宗教與寺廟文化): ferias nocturnas en templos y celebraciones tradicionales de noche
+- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統) — Cómo el transporte nocturno sostiene la cultura de la vida nocturna
+- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — La relación entre las tiendas 24 horas y la cultura de la ciudad que nunca duerme
+- [Creencias religiosas de Taiwán](/culture/台灣宗教與寺廟文化) — Ferias nocturnas en templos y vida nocturna en festividades tradicionales

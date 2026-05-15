@@ -1,123 +1,94 @@
 ---
-title: 'La question de la désignation de Taïwan dans les normes internationales'
-description: 'Des codes ISO aux logiciels open source — comment le nom de Taïwan est écrit, contesté et corrigé dans l'infrastructure numérique mondiale'
+title: "La question de l'étiquetage de Taïwan dans les normes internationales"
+description: "Des codes ISO aux logiciels open source — comment le nom de Taïwan est écrit, contesté et corrigé dans l'infrastructure numérique mondiale"
 date: 2026-03-18
+author: 'Taiwan.md Contributors'
 category: 'Society'
-tags: ['ISO 3166', 'normes internationales', 'open source', 'g0v', 'souveraineté numérique', 'désignation de Taïwan']
-subcategory: 'Relations internationales'
-author: 'Taiwan.md Translation Team'
-difficulty: 'intermediate'
-readingTime: 10
-featured: false
+subcategory: '國際關係'
+tags:
+  [
+    'ISO 3166',
+    'normes internationales',
+    'logiciel open source',
+    'g0v',
+    'souveraineté numérique',
+    'étiquetage de Taïwan',
+  ]
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: "Society/台灣在國際標準中的標示問題.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:20aea791d594faee"
-sourceBodyHash: 'sha256:de1fb2e5b744ba19'
-translatedAt: "2026-04-14T12:32:24+08:00"
+featured: false
+translatedFrom: 'Society/台灣在國際標準中的標示問題.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:474db7988470495f'
+sourceBodyHash: 'sha256:288ae1e41983889d'
+translatedAt: '2026-05-15T15:39:40+08:00'
 ---
 
-# La question de la désignation de Taïwan dans les normes internationales
+# La question de l'étiquetage de Taïwan dans les normes internationales
 
-Au sein de l'infrastructure numérique mondiale, une question d'apparence technique cache en réalité des enjeux politiques et identitaires profondément sensibles : comment Taïwan doit-il être désigné dans les normes internationales et les systèmes logiciels ? De la norme ISO 3166 aux innombrables projets open source, la désignation « Taiwan, Province of China » suscite des débats persistants et des initiatives de correction.
+> **En bref (30 secondes) :** Dans l'infrastructure numérique mondiale, Taïwan est fréquemment étiqueté « Taiwan, Province of China ». Cet étiquetage découle du paysage politique international issu de la résolution 2758 de l'Assemblée générale des Nations Unies en 1971, a influencé des normes internationales telles que l'ISO 3166, et s'est étendu aux logiciels open source et aux services en ligne à travers le monde. La communauté open source continue de promouvoir des désignations plus neutres par le biais de rapports de bogues et de _pull requests_.
 
-## Le cœur du problème : la norme ISO 3166-1
+Dans l'infrastructure numérique mondiale, la manière dont Taïwan est étiqueté reflète un différend international vieux d'un demi-siècle. De l'ISO 3166 à l'interface de sélection des miroirs de Ubuntu, derrière un détail technique se cache la question non résolue de l'identité de Taïwan au sein du système international.
 
-ISO 3166-1 est la norme établie par l'Organisation internationale de normalisation, qui attribue à chaque pays et territoire des codes à deux lettres, trois lettres et numériques. Dans ce référentiel, Taïwan s'est vu attribuer le code `TW`, mais son nom officiel est libellé « Taiwan, Province of China » (Taïwan, province de Chine).
+## Contexte historique : de la résolution 2758 de l'ONU à l'ISO 3166
 
-Cette désignation figure dans la norme ISO 3166 depuis 1974. Pour de nombreux Taïwanais et membres de la communauté internationale, il s'agit d'une norme « défectueuse » qui ne reflète pas la réalité politique ni la structure de gouvernance effective de Taïwan.
+En 1971, la résolution 2758 de l'Assemblée générale des Nations Unies est adoptée, décidant que « le siège de la Chine aux Nations Unies » serait occupé par la République populaire de Chine, la République de Chine perdant ainsi son siège à l'ONU. Cette résolution ne portait initialement que sur la représentation aux Nations Unies, mais elle a ensuite été largement invoquée comme fondement de l'exclusion de Taïwan ou de son étiquetage spécifique dans diverses organisations internationales et organismes de normalisation.[^1]
 
-## Les actions correctives de la communauté open source
+En 1974, dans la norme internationale ISO 3166, l'intitulé de l'entrée relative à Taïwan est modifié de « Taiwan » à « Taiwan, Province of China », établissant officiellement l'étiquetage utilisé depuis lors. L'ISO 3166-1 attribue simultanément à Taïwan le code à deux lettres `TW`, mais la controverse sur le nom officiel n'a jamais été résolue.
 
-### Ubuntu Bug 1138121 : le choix du pays dans les sources logicielles
+La position de l'ISO est de s'aligner sur la base de données toponymiques de la Division de statistique des Nations Unies (UNSD), dont l'étiquetage remonte au paysage politique post-résolution 2758. Cela crée un système d'interdépendance : les normes internationales citent les données de l'ONU, les logiciels open source citent les normes internationales, et finalement « Taiwan, Province of China » apparaît dans les menus déroulants des développeurs du monde entier.[^2]
 
-Dans la configuration des sources logicielles d'Ubuntu, les utilisateurs doivent sélectionner leur pays afin d'identifier le miroir le plus adapté. Lorsqu'un utilisateur taïwanais découvre l'option « Taiwan, Province of China », beaucoup ressentent un malaise ou une vive insatisfaction.
+## Les actions de correction de la communauté open source
 
-Le rapporteur du bug #1138121 a décrit précisément le problème :
+Le bogue Ubuntu n° 1138121 (signalé en 2013) est l'un des cas les plus fréquemment cités. Lorsque des utilisateurs taïwanais sélectionnaient un site miroir de logiciels, ils voyaient « Taiwan, Province of China » apparaître sur l'interface, ce que beaucoup trouvaient problématique. Le rapporteur a suggéré d'utiliser le champ _common name_ de l'ISO 3166, c'est-à-dire simplement « Taiwan », plutôt que le nom officiel complet.
 
-> Presque tous les Taïwanais (République de Chine) seraient perturbés par ce défaut logiciel s'il apparaissait sur leur écran d'ordinateur ;)
+Des problèmes similaires se sont reproduits dans d'autres projets open source. L'issue n° 43 du dépôt ISO-3166-Countries-with-Regional-Codes, le PR 138672 de FreeBSD et l'issue n° 1938892 de Drupal documentent tous les objections de la communauté à cet étiquetage. La solution retenue consiste généralement à utiliser les données CLDR (_Unicode Common Locale Data Repository_), dont l'étiquetage de Taïwan est plus neutre.[^3]
 
-La solution proposée consistait à utiliser le champ « common name » des codes ISO, soit simplement « Taiwan », plutôt que l'appellation officielle à connotation politique.
+Les actions de correction de la communauté open source illustrent l'intersection entre technologie et politique : les développeurs souhaitent généralement adopter un étiquetage plus neutre, mais, contraints par le respect des « normes internationales », les modifications nécessitent souvent de longues discussions communautaires, et certains mainteneurs choisissent d'éviter la question. chewei, membre de la communauté g0v, compile depuis longtemps des cas pertinents, documentant l'étendue du problème de l'étiquetage de Taïwan dans l'écosystème logiciel mondial.
 
-### Les tentatives de correction sur GitHub
+## Un impact plus large sur la dénomination
 
-Au sein de la communauté open source sur GitHub, de nombreux projets sont confrontés au même problème. Dans l'issue #43 du projet ISO-3166-Countries-with-Regional-Codes, un membre de la communauté faisait remarquer :
+Dans le cadre formel des organisations internationales, la question de la dénomination de Taïwan est encore plus vaste. À l'Assemblée mondiale de la Santé (AMS), Taïwan a été invité à participer en qualité d'observateur sous le nom de « Chinese Taipei », de 2009 à 2016 (huit sessions au total) ; à partir de 2017, la Chine s'est opposée à la poursuite de la participation de Taïwan, et les invitations ont cessé, Taïwan n'ayant plus reçu d'invitation officielle depuis.[^6] Au sein de l'Organisation de l'aviation civile internationale (OACI), Taïwan n'a pas non plus pu participer aux décisions en tant que membre officiel, dépendant de canaux informels pour obtenir des informations sur les normes techniques d'aviation, ce qui crée des lacunes potentielles dans la circulation des informations relatives à la sécurité aérienne. Aux Jeux olympiques, Taïwan participe sous le nom de « Chinese Taipei » (中華台北) depuis 1981 — ce nom provient de l'accord de Lausanne signé en 1981 entre le CIO et le Comité olympique chinois. Ce compromis a été repris par de nombreuses organisations internationales non gouvernementales et s'étend à des forums tels que l'APEC.
 
-> Selon Wikipédia, Taïwan n'est pas une province de Chine. Certains codes désignent « Taiwan » comme « Taiwan, Province of China », ce qui est inacceptable.
+La question de la dénomination a pris une nouvelle dimension à l'ère numérique. Outre l'ISO 3166, les codes bancaires SWIFT, les codes d'aéroport de l'OACI et les bases de données géographiques des gouvernements nationaux ont chacun des manières différentes d'étiqueter Taïwan, en l'absence de norme unifiée.
 
-Ces signalements s'accompagnent généralement de pull requests proposant de corriger la désignation de « Taiwan, Province of China » en « Taiwan » dans les fichiers concernés.
+Depuis 2023, certaines entreprises technologiques internationales (telles qu'Apple et Google Maps) ont progressivement ajusté le nom affiché pour Taïwan à la suite de signalements d'utilisateurs, mais l'étiquetage officiel de l'ISO 3166-1 lui-même n'a pas changé, ce qui montre que le décalage entre les pratiques des entreprises et les normes internationales continue de se creuser.
 
-### FreeBSD PR 138672
+## Refonte de la couverture du passeport en 2020
 
-Le système d'exploitation FreeBSD a également reçu un signalement similaire. Le titre de la PR 138672 est sans ambiguïté : « ISO 3166 attribue un nom erroné à Taïwan, veuillez l'appeler 'Taiwan' comme auparavant. »
+Le **2 septembre 2020**, le ministère des Affaires étrangères de la République de Chine a dévoilé le nouveau design du passeport : l'inscription « REPUBLIC OF CHINA », précédemment bien visible sur la couverture, a été nettement réduite (les armoiries nationales étant conservées), tandis que le mot « TAIWAN » a été considérablement agrandi pour apparaître au même niveau que « REPUBLIC OF CHINA ». Cette modification faisait suite aux incidents survenus durant la pandémie de COVID-19, lorsque des voyageurs taïwanais avaient été refusés à l'entrée de plusieurs pays après avoir été confondus avec des ressortissants chinois. C'est la première fois que le gouvernement taïwanais a répondu concrètement au problème de « confusion d'étiquetage souverain » par le design du passeport. Le nouveau passeport a été mis à compter de **janvier 2021**.[^4]
 
-### Drupal Issue 1938892
+## La controverse du « Chinese Taipei » aux Jeux olympiques de Paris 2024
 
-La communauté du système de gestion de contenu Drupal a elle aussi débattu de la migration des données de pays ISO-3166-1 vers les données Unicode CLDR (Common Locale Data Repository). Des membres de la communauté ont qualifié la désignation « Taiwan, Province of China » de « hautement problématique ».
+Durant les **Jeux olympiques de Paris de juillet-août 2024**, Taïwan a participé sous le nom de « Chinese Taipei », mais sur plusieurs plateformes de médias sociaux chinois, la société civile a traduit ce nom par « 中國台北 » (« Taipei de Chine »), ce qui présente un écart manifeste avec la traduction officiellement établie par le CIO, « Chinese Taipei = 中華台北 ». Des incidents tels que le retrait de drapeaux par des spectateurs chinois lors des compétitions d'athlètes taïwanais et des perturbations de groupes de supporters taïwanais par des responsables chinois ont relancé la réflexion au sein de la société taïwanaise sur l'accord de Lausanne de 1981.[^5]
 
-## Défis techniques et solutions envisagées
+## Cas de pression exercée sur les entreprises multinationales
 
-### Le dilemme de la normalisation
+La pression exercée par la Chine sur l'extension du « principe d'une seule Chine » s'est considérablement intensifiée à partir de la fin des années 2010 dans le domaine des entreprises multinationales. **China Airlines** (華航) fait l'objet d'un débat interne récurrent sur l'identité nationale taïwanaise en raison de son nom en anglais (pétition de « changement de nom de China Airlines » en 2018). Des entreprises telles que **Delta Air Lines**, **Marriott International**, **United Airlines**, **Zara**, **Starbucks** et **Marriott** ont été contraintes par l'Administration de l'aviation civile de Chine ou par le Bureau national de l'information sur Internet de modifier leurs sites web, où « Taïwan » était listé comme pays, pour le remplacer par « Taïwan, Chine » ou « Région de Taïwan, Chine ». Ces cas montrent que « l'effet politique des normes ISO » s'est étendu du domaine technique à celui de l'outil de pression géopolitique.
 
-Les développeurs font face à un défi délicat : comment respecter les normes internationales tout en évitant les controverses politiques et en tenant compte de la sensibilité des utilisateurs ? Les solutions les plus courantes sont les suivantes :
+## Perspective : la position de la Chine
 
-1. **Utiliser le nom courant** : adopter la désignation neutre « Taiwan » plutôt que l'appellation officielle complète
-2. **Recourir aux données CLDR** : s'appuyer sur les données régionales du projet Unicode CLDR, généralement plus neutres
-3. **Traitement par localisation** : utiliser des désignations appropriées selon les contextes linguistiques
+Du point de vue officiel de la République populaire de Chine, le « principe d'une seule Chine » constitue la politique fondamentale des relations entre les deux rives, affirmant que la République populaire de Chine est le seul gouvernement légitime de la Chine et que Taïwan est une province de la République populaire de Chine (au niveau administratif de la « province de Taïwan »). Cette position a directement influencé l'étiquetage de Taïwan en tant que « Taiwan, Province of China » dans l'ISO 3166 depuis 1974. Comprendre la question de Taïwan dans les normes internationales nécessite de considérer simultanément la position d'opposition du gouvernement de la République de Chine, les revendications de la République populaire de Chine et le spectre diversifié des identités au sein de la société taïwanaise — ces trois dimensions ne sont ni cohérentes ni réductibles les unes aux autres.
 
-### Les modes de réponse de la communauté des développeurs
+## La tour de Babel de la souveraineté : _sovereignty preservation_
 
-Lorsqu'un utilisateur signale un problème de désignation concernant Taïwan, les projets open source adoptent généralement la démarche suivante :
-
-1. **Évaluation technique** : vérifier si la désignation peut être modifiée sans affecter le fonctionnement du système
-2. **Discussion communautaire** : débattre de l'alternative la plus pertinente dans les issues ou les forums
-3. **Correction progressive** : mettre à jour les fichiers concernés par étapes, via des pull requests
-4. **Mise à jour de la documentation** : modifier la documentation pour expliquer la nouvelle approche retenue
-
-## Un impact qui dépasse le domaine logiciel
-
-### Le problème de dénomination au sein des organisations internationales
-
-Cette problématique ne se limite pas aux systèmes informatiques. Taïwan se heurte à des défis similaires dans de nombreuses organisations internationales :
-
-- **OMS** : Taïwan ne peut pas y participer sous le nom « Taiwan » ; l'appellation « Taipei chinois » est généralement utilisée
-- **Jeux olympiques** : Taïwan concourt sous la désignation « Taipei chinois »
-- **Autres organismes de normalisation internationaux** : la plupart suivent la nomenclature ISO 3166-1
-
-### Réflexions sur la souveraineté numérique
-
-La question de la désignation de Taïwan dans les normes internationales est le reflet d'enjeux plus larges liés à l'expression de la souveraineté à l'ère numérique. Dans une infrastructure numérique mondialisée, la manière dont chaque territoire est identifié et représenté mérite une réflexion approfondie.
-
-## La contribution de la communauté g0v
-
-Un remerciement particulier est adressé à chewei, membre de la communauté g0v, pour sa compilation rigoureuse et de longue date des cas et des fils de discussion sur ce sujet, permettant à un plus grand nombre de personnes de prendre conscience de l'ampleur et de l'importance de cette problématique. La communauté g0v s'engage depuis longtemps à améliorer les services numériques publics et à promouvoir la transparence de l'information, grâce à la collaboration open source.
-
-## Recommandations pratiques pour les développeurs
-
-Pour les développeurs amenés à intégrer une fonctionnalité de sélection de pays ou de région, voici quelques recommandations :
-
-1. **Éviter les désignations politiquement sensibles** : privilégier des appellations neutres telles que « Taiwan » plutôt que « Taiwan, Province of China »
-2. **Proposer une option de personnalisation** : permettre aux utilisateurs ou aux administrateurs de définir eux-mêmes les noms de régions
-3. **S'inspirer des usages internationaux** : se référer aux pratiques des services de premier plan (Google, Microsoft, etc.)
-4. **Documenter les choix effectués** : expliquer clairement dans la documentation les raisons du choix d'une désignation particulière
-
-## Conclusion
-
-La question de la désignation de Taïwan dans les normes internationales peut sembler n'être qu'un détail technique, mais elle touche en réalité à des enjeux profonds d'identité, de respect et d'inclusion. Grâce aux efforts continus de la communauté open source, de nombreux projets ont adopté des désignations plus neutres et plus inclusives.
-
-Au-delà de la simple résolution d'un problème technique, chaque correction de ce type témoigne de l'attachement de la communauté des développeurs aux ressentis de ses utilisateurs, et de sa volonté de construire un environnement numérique plus accueillant pour tous.
+La question de l'étiquetage de Taïwan dans les normes internationales est, par nature, une question d'**infrastructure de préservation de la souveraineté** (_sovereignty preservation infrastructure_). Faire en sorte que la voix de première personne de Taïwan existe dans chaque langue, chaque système et chaque base de données est le moyen de maintenir la visibilité de Taïwan en tant que sujet politique indépendant à l'ère de l'information. Chaque rapport de bogue, chaque _pull request_, chaque mise à jour du design du passeport constitue une brique de cette infrastructure.
 
 ## Références
 
-- [ISO-3166-Countries-with-Regional-Codes Issue #43](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/issues/43)
-- [Ubuntu Bug #1138121](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1138121)
-- [FreeBSD PR 138672](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=138672)
-- [Drupal Issue #1938892](https://www.drupal.org/project/drupal/issues/1938892)
-- [Taiwan News: Taiwan urged to address mislabeling by ISO](https://www.taiwannews.com.tw/news/3812381)
-- [Change.org Petition: Correct "Taiwan, Province of China" on ISO 3166](https://www.change.org/p/iso-international-organization-for-standardization-correct-taiwan-province-of-china-on-iso-3166-and-change-it-to-taiwan-let-tw-be-taiwan)
-- [Compilation de la communauté g0v](https://g0v.hackmd.io/5YRoMhveTt-aXwH60T2NZg) - avec les remerciements de chewei pour son travail de compilation
+[^1]: [Résolution 2758 de l'Assemblée générale des Nations Unies (1971)](<https://undocs.org/zh/A/RES/2758(XXVI)>) — Texte intégral de la résolution décidant que le siège de la Chine aux Nations Unies serait occupé par la République populaire de Chine.
 
----
+[^2]: [ISO 3166 Maintenance Agency — Online Browsing Platform](https://www.iso.org/obp/ui/#iso:code:3166:TW) — Entrée relative à Taïwan dans l'ISO 3166-1, incluant le code TW et le nom officiel.
 
-_Cet article a bénéficié du travail de compilation de chewei, membre de la communauté g0v, ainsi que de tous les développeurs et membres de la communauté qui œuvrent à l'amélioration de la représentation de Taïwan dans les systèmes numériques._
+[^3]: [Ubuntu Launchpad — Bug #1138121](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1138121) — Signalement original du problème d'étiquetage de Taïwan dans l'interface de sources logicielles de Ubuntu, 2013.
+
+[^4]: [Ministère des Affaires étrangères de la République de Chine — Présentation du nouveau passeport](https://www.mofa.gov.tw/) — Nouveau design du passeport annoncé le 2 septembre 2020, avec agrandissement du mot « TAIWAN », mis en circulation à partir de janvier 2021.
+
+[^5]: [Comité international olympique — Accord du Comité olympique de Chinese Taipei](https://www.olympic.org/) — L'accord de Lausanne de 1981 a établi le nom « Chinese Taipei » ; durant les JO de Paris 2024, la traduction erronée « 中國台北 » par la Chine a suscité une controverse.
+
+[^6]: [Ministère de la Santé et du Bien-être de la République de Chine — Explication sur la participation de Taïwan à l'OMS](https://www.mohw.gov.tw/) — Taïwan a participé en tant qu'observateur à l'AMS de 2009 à 2016, et n'a plus été invité à partir de 2017 ; le contexte de l'exclusion de l'OACI est également documenté dans les déclarations du ministère des Affaires étrangères.
+
+## Pour aller plus loin
+
+- [Communauté g0v — Compilation des problèmes d'étiquetage de Taïwan](https://g0v.hackmd.io/5YRoMhveTt-aXwH60T2NZg) — Base de cas d'étiquetage de Taïwan dans les logiciels open source, compilée par chewei
+- [Plateforme de consultation en ligne de l'ISO 3166](https://www.iso.org/obp/ui/#iso:code:3166:TW) — Consulter l'étiquetage actuel de Taïwan dans l'ISO 3166-1

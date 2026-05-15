@@ -1,126 +1,86 @@
 ---
-title: 'Taiwan’s Labeling in International Standards'
-description: 'From ISO codes to open‑source datasets—how Taiwan’s name is negotiated across global digital infrastructure'
+title: "Taiwan's Labeling in International Standards"
+description: "From ISO Codes to Open-Source Software — How Taiwan's Name Is Written, Contested, and Corrected in Global Digital Infrastructure"
 date: 2026-03-18
-category: 'Society'
-tags:
-  [
-    'ISO 3166',
-    'international standards',
-    'open source',
-    'g0v',
-    'digital sovereignty',
-    'Taiwan naming',
-  ]
 author: 'Taiwan.md Contributors'
-difficulty: 'intermediate'
-readingTime: 10
-featured: false
+category: 'Society'
+subcategory: '國際關係'
+tags: ['ISO 3166', '國際標準', '開源軟體', 'g0v', '數位主權', '台灣標示']
 lastVerified: 2026-03-19
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/台灣在國際標準中的標示問題.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:20aea791d594faee'
-sourceBodyHash: 'sha256:de1fb2e5b744ba19'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:474db7988470495f'
+sourceBodyHash: 'sha256:288ae1e41983889d'
+translatedAt: '2026-05-15T15:39:39+08:00'
 ---
 
-# Taiwan’s Labeling in International Standards
+# Taiwan's Labeling in International Standards
 
-In global digital infrastructure, a seemingly technical label can become a flashpoint of identity and politics. Taiwan’s name inside international standards and software systems—especially the label “Taiwan, Province of China”—has sparked years of debate, bug reports, and revisions across open‑source communities. The issue is not only about a string in a database; it is about how a place is recognized by the software that runs the world.
+> **30-second overview:** In global digital infrastructure, Taiwan is frequently labeled as "Taiwan, Province of China." This designation stems from the international political landscape following UN General Assembly Resolution 2758 in 1971, affecting international standards such as ISO 3166 and extending to global open-source software and internet services. The open-source community has continuously pushed for more neutral labeling through bug reports and pull requests.
 
-## The Core Issue: ISO 3166‑1
+In global digital infrastructure, the way Taiwan is labeled reflects over half a century of international political divergence. From ISO 3166 to Ubuntu's mirror site selection interface, behind a single technical detail lies the unresolved controversy over Taiwan's identity within the international system.
 
-ISO 3166‑1 is the standard that assigns country and region codes used across government systems, business databases, shipping, and software localization. Taiwan’s two‑letter code is **TW**, yet the official ISO long name reads “Taiwan, Province of China.” That phrasing has appeared in the standard since 1974. For Taiwanese users and many international contributors, this is a politically loaded label that does not reflect Taiwan’s lived reality or governance.
+## Historical Context: UN 2758 to ISO 3166
 
-Because ISO codes and names are widely embedded into software libraries (CLDR, ICU, locale datasets, analytics platforms), the label propagates across countless products. When a dropdown menu or location setting shows “Taiwan, Province of China,” it becomes a daily reminder that technical standards can carry political baggage.
+In 1971, UN General Assembly Resolution 2758 was adopted, deciding that the representation of "China in the United Nations" would be held by the People's Republic of China, and the Republic of China consequently lost its UN seat. The resolution originally concerned only UN representation, but it was subsequently widely invoked as the basis for Taiwan's exclusion from or specific labeling in various international organizations and standards bodies.[^1]
 
-## Open‑Source Communities Push Back
+In 1974, the entry name for Taiwan in the ISO 3166 international standard was changed from "Taiwan" to "Taiwan, Province of China," formally establishing the designation that persists to this day. ISO 3166-1 simultaneously assigned Taiwan the two-letter code `TW`, but the dispute over the official name has continued unresolved ever since.
 
-### Ubuntu Bug #1138121: Country Selection in Software Sources
+ISO's position is to follow the UN Statistics Division (UNSD) geonames database, whose designations in turn trace back to the political landscape after UN 2758. This creates an interdependent system: international standards cite UN data, open-source software cites international standards, and ultimately "Taiwan, Province of China" appears in the dropdown menus of developers worldwide.[^2]
 
-Ubuntu’s software mirror selector once displayed “Taiwan, Province of China.” Taiwanese users filed a bug report (#1138121) arguing that the label was inappropriate. A widely cited comment explained that almost all Taiwanese users would be disturbed by such a label. The proposed fix was simple and practical: use ISO’s **common name** field—“Taiwan”—rather than the political long form.
+## Corrective Actions in the Open-Source Community
 
-### GitHub Issues: Local Data with Global Impact
+Ubuntu Bug #1138121 (filed in 2013) is one of the most widely cited cases. When Taiwanese users selected a software mirror site and saw "Taiwan, Province of China" displayed in the interface, many found it troubling. The reporter suggested using the common name field from ISO 3166 — simply "Taiwan" — rather than the full official designation.
 
-Multiple GitHub repositories that track ISO codes or country lists have received similar requests. In Issue #43 of **ISO‑3166‑Countries‑with‑Regional‑Codes**, contributors argued that “Taiwan, Province of China” is unacceptable and that software should display “Taiwan.” These issues often include pull requests updating JSON or CSV datasets that thousands of developers rely upon.
+Similar issues have recurred across other open-source projects. ISO-3166-Countries-with-Regional-Codes Issue #43, FreeBSD PR 138672, and Drupal Issue #1938892 all document community objections to this labeling. The typical resolution has been to switch to CLDR (Unicode Common Locale Data Repository) data, which uses a more neutral designation for Taiwan.[^3]
 
-### FreeBSD PR 138672
+These corrective actions in the open-source community reflect the intersection of technology and politics: developers generally prefer more neutral labeling, but constrained by considerations of "following international standards," changes often require extended community discussion, and some maintainers choose to avoid the issue altogether. g0v community member chewei has long compiled related cases, documenting the breadth of Taiwan's labeling problem across the global software ecosystem.
 
-FreeBSD also received a formal problem report requesting that Taiwan be labeled simply “Taiwan” instead of the ISO long name. The title itself encapsulates the sentiment: ISO gives Taiwan an incorrect name, please restore “Taiwan” as it was before.
+## Broader Naming Implications
 
-### Drupal Issue #1938892
+In formal international settings, Taiwan's naming issue extends even further. At the World Health Assembly (WHA), Taiwan was invited to attend as an observer under the name "Chinese Taipei" from 2009 to 2016 (eight sessions in total); from 2017 onward, China opposed Taiwan's continued attendance, and the invitation was suspended, with Taiwan never formally invited again.[^6] At the International Civil Aviation Organization (ICAO), Taiwan similarly has not been able to participate in decision-making as a formal member, relying for years on informal channels to obtain aviation technical standards information, creating a potential gap in the flow of aviation safety data. At the Olympic Games, Taiwan has competed under the name "Chinese Taipei" (中華台北) since 1981 — a name derived from the 1981 Lausanne Agreement between the International Olympic Committee and the Chinese Taipei Olympic Committee. This compromise has been adopted by many non-governmental international organizations and extended to settings such as APEC.
 
-The Drupal community discussed moving from ISO datasets to Unicode CLDR for country names. Contributors noted that “Taiwan, Province of China” was highly problematic, and CLDR offered a more neutral naming approach in many locales.
+The naming issue has taken on new dimensions in the digital age. Beyond ISO 3166, SWIFT banking codes, ICAO airport codes, and national governments' geographic databases each have their own way of labeling Taiwan, with no unified standard.
 
-## Why It’s Hard: Standards vs. Sensitivity
+Since 2023, some international technology companies (such as Apple and Google Maps) have adjusted Taiwan's display name following user reports, but the official ISO 3166-1 designation itself has not changed, indicating a growing disconnect between corporate implementation and international standards.
 
-Developers face a dilemma: respect international standards to keep systems interoperable, but avoid labels that alienate users or misrepresent political reality. The most common solutions include:
+## 2020 Passport Cover Redesign
 
-1. **Use Common Names**
-   - Prefer “Taiwan” for UI display while keeping ISO codes for backend integrity.
+**September 2, 2020** — The Ministry of Foreign Affairs of the Republic of China unveiled a new passport design: the "REPUBLIC OF CHINA" text on the cover was significantly reduced in size (while retaining the national emblem), while the "TAIWAN" text was greatly enlarged to appear alongside "REPUBLIC OF CHINA." This change responded to incidents during the COVID-19 pandemic in which Taiwanese travelers were mistaken for Chinese nationals and denied entry at borders in multiple countries. It was the first time the Taiwanese government addressed the concrete issue of "sovereignty label confusion" through passport design. The new passport was issued starting **January 2021**.[^4]
 
-2. **Adopt CLDR Locales**
-   - Unicode CLDR provides localized names that are often more neutral and context‑sensitive.
+## 2024 Paris Olympics: The Chinese Taipei Controversy
 
-3. **Localize by Region**
-   - Names can vary by language or locale; Taiwan’s display label can be tuned per region.
+During the **July–August 2024 Paris Olympics**, Taiwan competed under the name "Chinese Taipei," but Chinese netizens on multiple social media platforms translated the name as "中國台北" (Zhongguo Taibei), a clear deviation from the Olympic-mandated Chinese rendering of "Chinese Taipei" as "中華台北" (Zhonghua Taibei). Incidents during the Games — including Chinese spectators snagging Taiwanese flags and Chinese delegation leaders disrupting Taiwanese cheer squads — prompted renewed reflection in Taiwanese society on the 1981 Lausanne Agreement.[^5]
 
-4. **Provide Custom Overrides**
-   - Allow administrators or users to override country labels in enterprise systems.
+## Multinational Corporate Pressure Cases
 
-These approaches acknowledge the political reality without breaking technical compatibility.
+China's extended pressure over the "One China Principle" expanded significantly into the multinational corporate sphere in the late 2010s. **China Airlines** (華航), long operating internationally under that English name, sparked domestic controversy over Taiwanese national identity (the 2018 "Rename China Airlines" petition). Companies including **Delta Air Lines**, **Marriott International**, **United Airlines**, **Zara**, **Starbucks**, and **Marriott** were pressured by the Civil Aviation Administration of China or the Cyberspace Administration of China after their websites listed "Taiwan" as a country, and were forced to change the designation to "中國台灣" (China Taiwan) or "中國台灣地區" (Taiwan Region, China). These cases demonstrate that "the political force of ISO standards" has expanded from the technical domain into a tool of geopolitical pressure.
 
-## Beyond Software: International Naming Constraints
+## Perspective: The Chinese Position
 
-The same naming tension exists outside software:
+From the official standpoint of the People's Republic of China, the "One China Principle" is the political foundation of cross-strait relations, asserting that the People's Republic of China is the sole legitimate government of China and that Taiwan is a province of the People's Republic of China (at the administrative level of "Taiwan Province"). This position directly influenced ISO 3166's "Taiwan, Province of China" designation for Taiwan from 1974 onward. Understanding the Taiwan question in international standards requires simultaneously recognizing the opposing position of the Republic of China government, the claims of the People's Republic of China, and the diverse spectrum of identity in Taiwanese society — these three are neither consistent with one another nor reducible to a single narrative.
 
-- **WHO**: Taiwan is often excluded or listed under alternate designations.
-- **Olympics**: Taiwan competes as “Chinese Taipei.”
-- **Other Standards Bodies**: Many follow ISO 3166‑1 by default.
+## The Babel Tower of Sovereignty: Sovereignty Preservation
 
-Software, however, is more flexible than diplomatic protocols. That makes open‑source communities a crucial site where labels can be debated and updated.
-
-## Digital Sovereignty as a Lived Experience
-
-For Taiwan, naming in software is part of a broader conversation about **digital sovereignty**—how a society is represented and recognized in the infrastructure of the internet. A label in a dropdown is small, but it touches on autonomy, dignity, and international visibility.
-
-This is why Taiwanese civic‑tech communities (notably **g0v**) document these cases, file issues, and coordinate fixes. The work is incremental: a pull request here, a bug report there. But each change reduces friction for users and signals that local realities matter.
-
-## Practical Guidance for Developers
-
-If you build or maintain a system that includes country/region selection, consider these best practices:
-
-1. **Avoid Politicized Labels**
-   - Display “Taiwan” where possible; reserve ISO’s long form for internal references.
-
-2. **Let Users Decide**
-   - Offer an editable display name in admin settings for enterprise use cases.
-
-3. **Document Your Choices**
-   - Explain why your system uses common names or CLDR rather than ISO long names.
-
-4. **Follow Precedents**
-   - Check how major platforms (Google, Microsoft, Apple) handle Taiwan labels in UI.
-
-5. **Separate Codes from Labels**
-   - Keep **TW** as the stable code for data integrity, while using culturally sensitive labels for display.
-
-## Closing Thoughts
-
-The Taiwan labeling issue looks technical, but it exposes how political realities are encoded into the digital world. Open‑source communities have shown that standards are not immutable: if a label harms users or misrepresents a place, it can be challenged and updated.
-
-Each small fix—choosing “Taiwan” in a UI, using CLDR names, updating a dataset—builds a more respectful digital environment. For Taiwan, these changes are not just cosmetic; they are part of how the island is seen and understood in the global digital public sphere.
+The question of Taiwan's labeling in international standards is, at its core, a matter of **sovereignty preservation infrastructure**. Ensuring that Taiwan's first-person voice exists in every language, every system, and every database is a way of maintaining Taiwan's visibility as an independent political subject in the information age. Every bug report, every pull request, every passport redesign update is a brick in this infrastructure.
 
 ## References
 
-- [ISO‑3166‑Countries‑with‑Regional‑Codes Issue #43](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/issues/43)
-- [Ubuntu Bug #1138121](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1138121)
-- [FreeBSD PR 138672](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=138672)
-- [Drupal Issue #1938892](https://www.drupal.org/project/drupal/issues/1938892)
-- [Taiwan News: Taiwan urged to address mislabeling by ISO](https://www.taiwannews.com.tw/news/3812381)
-- [Change.org Petition: Correct “Taiwan, Province of China” on ISO 3166](https://www.change.org/p/iso-international-organization-for-standardization-correct-taiwan-province-of-china-on-iso-3166-and-change-it-to-taiwan-let-tw-be-taiwan)
-- [g0v community dossier](https://g0v.hackmd.io/5YRoMhveTt-aXwH60T2NZg) — thanks to chewei’s long‑running collection
+[^1]: [UN General Assembly Resolution 2758 (1971)](<https://undocs.org/zh/A/RES/2758(XXVI)>) — Full text of the resolution deciding that China's UN representation would be held by the People's Republic of China.
 
----
+[^2]: [ISO 3166 Maintenance Agency — Online Browsing Platform](https://www.iso.org/obp/ui/#iso:code:3166:TW) — ISO 3166-1 Taiwan entry, including code TW and official name.
 
-_With appreciation to g0v contributors and open‑source maintainers who keep Taiwan’s name accurate in global software systems._
+[^3]: [Ubuntu Launchpad — Bug #1138121](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1138121) — Original report of the Taiwan labeling issue in the Ubuntu software sources interface, 2013.
+
+[^4]: [Ministry of Foreign Affairs, Republic of China — New Passport Announcement](https://www.mofa.gov.tw/) — New passport design announced September 2, 2020, with "TAIWAN" text enlarged; issued from January 2021.
+
+[^5]: [International Olympic Committee — Chinese Taipei Olympic Committee Agreement](https://www.olympic.org/) — The 1981 Lausanne Agreement established the "Chinese Taipei" name; during the 2024 Paris Olympics, China's mistranslation as "中國台北" sparked controversy.
+
+[^6]: [Ministry of Health and Welfare, Republic of China — Taiwan's Participation in the WHO](https://www.mohw.gov.tw/) — Taiwan attended the WHA as an observer from 2009 to 2016; not invited again from 2017 onward; for the ICAO exclusion context, see related MOFA statements.
+
+## Further Reading
+
+- [g0v Community — Taiwan Labeling Issue Compilation](https://g0v.hackmd.io/5YRoMhveTt-aXwH60T2NZg) — chewei's database of open-source software cases involving Taiwan's labeling
+- [ISO 3166 Online Browsing Platform](https://www.iso.org/obp/ui/#iso:code:3166:TW) — Look up Taiwan's current designation in ISO 3166-1

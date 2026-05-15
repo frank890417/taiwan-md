@@ -1,124 +1,123 @@
 ---
 title: 'Taiwan Cement: La leyenda de la transformación verde de la primera empresa cotizada de Taiwán'
-description: 'En 1962, la Bolsa de Valores de Taiwán nació para ella; el código bursátil 1101 simboliza el origen del mercado de valores taiwanés. Tras 76 años bajo tres generaciones de la familia Ku, Taiwan Cement ha sido testigo con sus hornos de cemento de los milagros de la construcción en Taiwán, y hoy se transforma en empresa verde para enfrentar la era de la neutralidad de carbono.'
+description: 'En 1962, la Bolsa de Valores de Taiwán nació para ella; el código bursátil 1101 simboliza el origen del mercado de valores taiwanés. Tras 76 años bajo tres generaciones de la familia Koo, Taiwan Cement ha sido testigo con sus hornos de cemento de los milagros de la construcción en Taiwán, y hoy se transforma en empresa verde para enfrentar la era de la neutralidad de carbono.'
 date: 2026-03-20
+author: 'Taiwan.md Contributors'
+category: 'Economy'
+subcategory: '企業列傳'
 tags:
   [
-    Economy,
-    Empresa,
-    Industria cementera,
-    Materiales de construcción,
-    Privatización de empresas estatales,
-    Transformación verde,
+    'Economy',
+    'Empresas',
+    'Industria del cemento',
+    'Materiales de construcción',
+    'Privatización de empresas estatales',
+    'Transformación verde',
   ]
-subcategory: '企業列傳'
-author: Taiwan.md
-readingTime: 9
-featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
-translatedFrom: Economy/台灣企業：台泥.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:7664edadac92feec'
-sourceBodyHash: 'sha256:aefdee9f1ebaabc5'
-translatedAt: 2026-05-01T22:19:10+08:00
-category: Economy
+featured: false
+translatedFrom: 'Economy/台灣企業：台泥.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:d4462b5c55abd9d2'
+sourceBodyHash: 'sha256:144f62335cbc632a'
+translatedAt: '2026-05-15T15:39:40+08:00'
 ---
 
-> **Resumen en 30 segundos**
+> **Panorama en 30 segundos**
 >
-> Taiwan Cement fue fundada en 1946 y se convirtió en la primera empresa cotizada de Taiwán en 1962, con el código bursátil 1101, hoy una leyenda del mercado taiwanés. Tras su transición de empresa estatal a privada, fue liderada por tres generaciones: Ku Chen-fu, Ku Cheng-yun y Chang An-ping. En 2024, sus ingresos alcanzaron los 154.6 mil millones de dólares taiwaneses. Desde la industria cementera tradicional, se ha transformado con éxito en una "empresa de ingeniería ambiental verde", abriendo nuevos caminos en energía verde, almacenamiento de energía y economía circular bajo la presión global de la descarbonización.
+> Taiwan Cement se fundó en 1946 y en 1962 se convirtió en la primera empresa cotizada de Taiwán, con el código bursátil 1101, hoy una leyenda del mercado taiwanés. Tras pasar de empresa estatal a privada, fue dirigida por tres generaciones: Koo Chen-fu, Koo Cheng-yun y Chang An-ping. En 2024, sus ingresos alcanzaron los 154.6 mil millones de TWD. Desde la industria cementera tradicional, se ha transformado con éxito en una "empresa de ingeniería ambiental verde", abriendo nuevas vías de negocio en energía verde, almacenamiento de energía y economía circular bajo la presión global de la descarbonización.
 
-## Una bolsa de valores nacida para una sola empresa
+## Las primeras acciones cotizadas en Taiwán
 
-El 9 de febrero de 1962 tuvo lugar un día que reescribió la historia económica de Taiwán. La Bolsa de Valores de Taiwán abrió oficialmente, y la primera acción cotizada fue Taiwan Cement, con el código bursátil 1101.
+El 9 de febrero de 1962, la Bolsa de Valores de Taiwán abrió oficialmente. Las ocho acciones inscritas en la primera lista incluyeron a Taiwan Cement, con el código bursátil 1101, el código más bajo de ese grupo inicial.[^1]
 
-El significado de este "001" va mucho más allá del número en sí. Muchos desconocen que la creación de la Bolsa de Valores de Taiwán se preparó en gran medida para facilitar la salida a bolsa de Taiwan Cement. En aquel entonces, Taiwán estaba impulsando su mercado de capitales y necesitaba una empresa con escala y reputación como "caballo de arranque", y Taiwan Cement era la opción ideal.
+Desde entonces, 1101 se convirtió en el código de partida del mercado de valores taiwanés, y Taiwan Cement en una de las empresas cotizadas con mayor historia en el mercado de capitales de Taiwán. Taiwan Cement no fue la única empresa que impulsó la creación de la bolsa — entre las primeras inscritas también figuraban Taiwan Paper y Taiwan Agriculture & Forestry — pero fue una de las de mayor escala y solidez crediticia del grupo.
 
-Desde entonces, 1101 no es solo un código bursátil, sino un símbolo del origen del mercado de capitales taiwanés. Cada vez que se discute la historia del mercado de valores de Taiwán, se comienza por este número. Taiwan Cement no es solo una empresa, sino testigo de los mercados financieros modernos de Taiwán.
+## Privatización en 1954: un encuentro de familias político-empresariales
 
-## La junta de accionistas histórica frente a la Oficina Presidencial
+En noviembre de 1954, Taiwan Cement pasó formalmente de empresa pública a privada. Esta privatización fue un momento clave en la reestructuración de las familias político-empresariales de la posguerra en Taiwán. La familia Koo de Lukang obtuvo el control operativo. Koo Chen-fu, a través de los lazos familiares de su esposa con la familia Lin de Banqiao, invitó a **Lin Bo-shou**, el miembro de mayor rango generacional, a asumir el cargo de primer presidente del consejo, mientras él participó en las operaciones como **gerente adjunto**.[^6]
 
-El 11 de noviembre de 1954, a las 11:11 de la mañana, miles de personas se reunieron en el Estadio de las Tres Armas frente a la Oficina Presidencial en Taipéi. No era una ceremonia militar, sino la primera junta de accionistas de Taiwan Cement tras su privatización.
+La junta de accionistas fue un auténtico encuentro de la élite política y empresarial de Taiwán. Lin Bo-shou de la familia Lin de Banqiao fue elegido primer presidente; Koo Chen-fu de la familia Koo de Lukang asumió el puesto de gerente adjunto; la familia Wu de Tainan (Wu San-lian), el grupo Shin Kong (familia Wu), la familia Lin de Wufeng, la familia Yan de Keelung y otras familias participaron en la inversión de Taiwan Cement. Casi todas las familias importantes de Taiwán tenían acciones en esta privatización.
 
-La fecha del 11 de noviembre a las 11 horas y la ubicación frente a la Oficina Presidencial no fueron casualidades. El clima político de la época cargaba de simbolismo cada decisión: la privatización de Taiwan Cement representaba un cambio fundamental en el sistema económico de Taiwán.
+Esta disposición tenía un propósito profundo. El gobierno necesitaba familias prestigiosas para respaldar la privatización de Taiwan Cement, y estas familias veían la oportunidad del despegue económico de Taiwán. Puede decirse que la junta de accionistas de la privatización de Taiwan Cement fue un microcosmos de la estructura político-empresarial de la posguerra en Taiwán. No fue hasta 1973 que Koo Chen-fu asumió formalmente la presidencia del consejo de Taiwan Cement, inaugurando una era de 30 años bajo su liderazgo.
 
-La junta de accionistas fue una gran reunión del mundo político y empresarial taiwanés. Lin Bo-shou de la familia Lin de Banqiao fue elegido primer presidente del consejo; Ku Chen-fu de la familia Ku de Lukang asumió el puesto de director general; Wu San-lian del grupo Tainan, la familia Wu del grupo Shin Kong, la familia Lin de Wufeng, la familia Yan de Keelung... Casi todas las familias importantes de Taiwán participaron en la inversión de Taiwan Cement.
+## La leyenda de los treinta años de Koo Chen-fu
 
-Esta disposición tenía un propósito detrás. El gobierno necesitaba familias prestigiosas para respaldar la privatización de Taiwan Cement, y estas familias también veían la oportunidad del despegue económico de Taiwán. Puede decirse que la junta de accionistas de Taiwan Cement fue un microcosmos de la estructura política y empresarial de la posguerra en Taiwán.
+En 1973, Koo Chen-fu, gracias a sus excepcionales relaciones político-empresariales, obtuvo el apoyo de las grandes familias y asumió formalmente la presidencia del consejo de Taiwan Cement. Permaneció en el cargo durante 30 años, el período de expansión más crucial de la empresa.
 
-## La leyenda de treinta años de Ku Chen-fu
+Koo Chen-fu fue un empresario visionario. Comprendió que la mera fabricación de cemento tenía sus límites y que era necesario diversificar. Bajo su liderazgo, Taiwan Cement pasó de ser un simple fabricante de materiales de construcción a un grupo empresarial diversificado, extendiendo sus negocios a petroquímica, electrónica, finanzas, inmobiliaria y otros sectores.
 
-En 1973, Ku Chen-fu, gracias a sus excepcionales relaciones políticas y empresariales, obtuvo el apoyo de las grandes familias y asumió formalmente la presidencia del consejo de Taiwan Cement. Permaneció en el cargo durante 30 años, el período de expansión más crucial de la empresa.
+Koo Chen-fu realizó activamente inversiones intersectoriales, incluyendo la participación en las acciones iniciales de Taiwan Semiconductor Manufacturing Company (TSMC) en su fundación en 1987, la inversión en el proyecto del Tren de Alta Velocidad de Taiwán en la década de 1990, y el centro comercial Hanshin en Kaohsiung, entre otras. Estas inversiones se realizaron mayoritariamente en las etapas tempranas de desarrollo de las empresas correspondientes, lo que demuestra su capacidad de anticipación a las tendencias industriales de Taiwán.[^5]
 
-Ku Chen-fu fue un empresario visionario. Comprendía que la fabricación de cemento por sí sola tenía sus límites y que era necesario diversificar. Bajo su liderazgo, Taiwan Cement pasó de ser un simple fabricante de materiales de construcción a un grupo empresarial diversificado, extendiendo sus negocios a petroquímica, electrónica, finanzas, inmobiliaria y otros sectores.
+Cabe destacar su estrategia de internacionalización. En la década de 1980, Taiwan Cement comenzó a invertir en China continental, desempeñando un papel clave en el intercambio económico entre ambas orillas del estrecho. Esta decisión fue muy controvertida en su momento, pero demostró ser extraordinariamente visionaria a posteriori.
 
-Lo más impresionante fue la perspicacia inversora de Ku Chen-fu. Invirtió en empresas clave como Taiwan Semiconductor (TSC), el Tren de Alta Velocidad de Taiwán y Hanshin Department Store, y casi nunca se equivocó al leer las tendencias. Esta capacidad de inversión no era suerte, sino una comprensión profunda del pulso económico de Taiwán.
+## Transición generacional: de padre a hijo
 
-Más importante aún fue su estrategia de internacionalización. En la década de 1980, Taiwan Cement comenzó a invertir en China continental, convirtiéndose en un puente importante para el intercambio económico entre ambas orillas. Esta decisión fue muy controvertida en su momento, pero demostró ser extremadamente visionaria a posteriori.
+En 2003, Koo Cheng-yun asumió la presidencia del consejo, inaugurando la segunda generación de liderazgo en Taiwan Cement. En comparación con su padre, Koo Cheng-yun puso mayor énfasis en la innovación tecnológica y el desarrollo ambiental.
 
-## La sucesión de padre a hijo
+Bajo su dirección, Taiwan Cement invirtió fuertemente en equipos de protección ambiental y promovió tecnologías de producción limpia. Más importante aún, Koo Cheng-yun comenzó a reflexionar sobre el desarrollo sostenible de la industria cementera: cómo satisfacer la demanda de construcción al mismo tiempo que se reduce el impacto ambiental.
 
-En 2003, Ku Cheng-yun asumió la presidencia del consejo, inaugurando la segunda generación de liderazgo en Taiwan Cement. En comparación con su padre, Ku Cheng-yun puso mayor énfasis en la innovación tecnológica y el desarrollo ambiental.
+En 2017, Koo Cheng-yun falleció inesperadamente, poniendo fin a 14 años de liderazgo. Los logros acumulados en transformación ambiental sentaron las bases para la posterior transición verde de Taiwan Cement.
 
-Bajo su dirección, Taiwan Cement invirtió fuertemente en equipos de protección ambiental y promovió tecnologías de producción limpia. Más importante aún, Ku Cheng-yun comenzó a reflexionar sobre el desarrollo sostenible de la industria cementera: cómo satisfacer la demanda de construcción al mismo tiempo que se reduce el impacto ambiental.
+## La estrategia de transformación de Chang An-ping
 
-En 2017, Ku Cheng-yun falleció inesperadamente, poniendo fin a sus 14 años de liderazgo. Sin embargo, sus esfuerzos en la transformación ambiental sentaron las bases para la posterior transición verde de Taiwan Cement.
+El 23 de enero de 2017, Koo Cheng-yun falleció a los 62 años en el Hospital de Rehabilitación Cheng Hsing a causa de un edema cerebral derivado de un accidente por caída en el Hotel Silks Place. Esa misma tarde, Taiwan Cement convocó de emergencia una reunión del consejo de administración para elegir nuevo presidente, recayendo el cargo en **Chang An-ping**, cuñado de Koo Cheng-yun (esposo de su hermana). Chang An-ping es hijo de Chang Min-yu, fundador de Chia Cement, y se casó en 1978 con Koo Huai-ju, la hija menor de Koo Chen-fu, vinculándose con la industria del cemento de Taiwan Cement durante 40 años. Tras asumir el cargo, presentó una visión que sacudió a la industria: transformar Taiwan Cement de "fabricante de cemento" a "empresa de ingeniería ambiental verde".[^7]
 
-## La revolución verde de Chang An-ping
+Esta decisión requirió un enorme valor. El cemento era el negocio fundamental de Taiwan Cement; emprender una transformación tan radical equivalía a desafiar su propia competitividad central. Pero Chang An-ping comprendió que, ante la tendencia global hacia la neutralidad de carbono, la industria cementera tradicional debía encontrar nuevos caminos de desarrollo.
 
-En 2017, Chang An-ping, cuñado de Ku Cheng-yun, asumió la presidencia del consejo y presentó una visión que sacudió a la industria: transformar Taiwan Cement de "fabricante de cemento" a "empresa de ingeniería ambiental verde".
-
-Esta decisión requirió un enorme valor. El cemento era el negocio fundamental de Taiwan Cement; emprender una transformación tan radical equivalía a desafiar su propia competitividad central. Pero Chang An-ping sabía que, ante la tendencia global hacia la neutralidad de carbono, la industria cementera tradicional debía encontrar nuevos caminos de desarrollo.
-
-En mayo de 2024, Taiwan Cement estableció formalmente su estrategia de "cuatro patas": negocio de cemento en Taiwán y China continental, cemento bajo en carbono en Europa y África, negocio de energías renovables, y reciclaje de recursos. Esta estructura muestra claramente la determinación de transformación de Taiwan Cement: de la fabricación de cemento a un servicio verde diversificado.
+En mayo de 2024, Taiwan Cement estableció formalmente su estrategia de "cuatro pilares": negocio de cemento en Taiwán y China continental, cemento bajo en carbono en Europa y África, negocio de energías renovables, y economía circular. Esta estructura muestra claramente la determinación de transformación de Taiwan Cement: de la fabricación de cemento a la prestación de servicios verdes diversificados.
 
 ## Los resultados de la transformación detrás de los 154.6 mil millones
 
-En 2024, Taiwan Cement presentó resultados sobresalientes: ingresos de 154.6 mil millones de dólares taiwaneses y una utilidad neta de 15.6 mil millones. Más importante aún, una proporción significativa de estos resultados provino de negocios de energía verde y protección ambiental, lo que demuestra que la estrategia de transformación está comenzando a dar frutos.
+En 2024, Taiwan Cement presentó resultados sobresalientes: ingresos por 154.6 mil millones de TWD y un beneficio neto de 15.6 mil millones de TWD. Cabe destacar que una proporción significativa de estos resultados proviene de los negocios de energía verde y protección ambiental, lo que indica que la estrategia de transformación está comenzando a dar frutos.
 
-La transformación de Taiwan Cement no es un discurso vacío, sino una estrategia de negocio concreta. A través de Hoping Power, desarrolló energía eólica; mediante E-One Moli Energy, invirtió en tecnología de almacenamiento de energía; a través de Dahe Environmental Services, impulsó la economía circular... Estas subsidiarias se han convertido en los nuevos motores de crecimiento de Taiwan Cement.
+La transformación de Taiwan Cement se ha materializado en una estructura de negocios concreta. A través de Hoping Power, desarrolla energía eólica; a través de E-One Moli Energy, invierte en tecnología de almacenamiento de energía; a través de Dahe Environmental Services, impulsa la economía circular. Estas filiales se han convertido en los nuevos motores de crecimiento de Taiwan Cement.
 
-Particularmente destacable es el negocio de almacenamiento de energía. A medida que aumenta la proporción de energías renovables, el almacenamiento se convierte en un eslabón clave del sistema eléctrico. Taiwan Cement ha entrado en este mercado a través de E-One Moli Energy y ya ocupa una posición importante en la industria de almacenamiento de energía de Taiwán.
+El negocio de almacenamiento de energía merece especial atención. A medida que aumenta la proporción de energías renovables, el almacenamiento se convierte en un eslabón clave del sistema eléctrico. Taiwan Cement ha incursionado en este mercado a través de E-One Moli Energy, ocupando una posición importante en la industria taiwanesa de almacenamiento de energía.
 
 ## La magia de la economía circular en los hornos de cemento
 
 La ventaja competitiva más singular de Taiwan Cement es la transformación de sus hornos de cemento en equipos centrales de la economía circular.
 
-Tradicionalmente, los hornos de cemento solo eran herramientas para producir cemento. Pero Taiwan Cement descubrió que los hornos de alta temperatura podían coprocesar diversos tipos de residuos, convirtiéndolos en materias primas o combustibles para la producción de cemento. Esta tecnología de "coprocesamiento" permite a Taiwan Cement obtener ingresos del tratamiento de residuos al mismo tiempo que reduce el uso de recursos naturales.
+Tradicionalmente, los hornos de cemento solo servían para calcinar cemento. Pero Taiwan Cement descubrió que los hornos de alta temperatura pueden coprocesar diversos tipos de residuos, convirtiéndolos en materias primas o combustibles para la producción de cemento. Esta tecnología de "coprocesamiento" permite a Taiwan Cement obtener ingresos del tratamiento de residuos al mismo tiempo que reduce el uso de recursos naturales.
 
-Este modelo innovador ya funciona con éxito en la planta de Hoping en Hualian. Neumáticos usados, lodos de alcantarillado, residuos de construcción... diversos tipos de desechos son "regenerados" como recursos útiles bajo las altas temperaturas del horno de cemento. Esto no es solo innovación tecnológica, sino también innovación en el modelo de negocio.
+Este modelo innovador ya funciona con éxito en la planta de Hoping en Hualian. Neumáticos usados, lodos de alcantarillado, residuos de construcción y otros tipos de desechos son "regenerados" como recursos útiles bajo las altas temperaturas del horno de cemento. Esto constituye simultáneamente una innovación tecnológica y una innovación de modelo de negocio.
 
 ## Desafíos y oportunidades en la era de la neutralidad de carbono
 
-La industria cementera es altamente intensiva en emisiones de carbono. Frente al objetivo de neutralidad de carbono para 2050, Taiwan Cement enfrenta un desafío sin precedentes. Pero toda crisis es también una oportunidad.
+La industria del cemento es un sector con alta intensidad de emisiones de carbono. Ante el objetivo de neutralidad de carbono para 2050, Taiwan Cement enfrenta un desafío sin precedentes. Pero toda crisis es también una oportunidad.
 
-La estrategia de respuesta de Taiwan Cement es multifacética: desarrollo de tecnologías de cemento bajo en carbono, inversión en tecnología de captura de carbono, aumento de la proporción de combustibles alternativos, expansión de la infraestructura de energías renovables... Estos esfuerzos ya están dando resultados; el premio de competitividad industrial hacia cero emisiones netas que recibió Taiwan Cement en 2024 es la mejor prueba.
+La estrategia de respuesta de Taiwan Cement es multifacética: desarrollo de tecnologías de cemento bajo en carbono, inversión en tecnologías de captura de carbono, aumento de la proporción de combustibles alternativos, expansión de la infraestructura de energías renovables... Estos esfuerzos ya están dando resultados; el premio de competitividad industrial hacia cero emisiones netas obtenido por Taiwan Cement en 2024 es la mejor prueba.
 
-Más importante aún, Taiwan Cement no ve la neutralidad de carbono como una carga, sino como una oportunidad de transformación. Mediante el desarrollo y la aplicación de tecnologías verdes, Taiwan Cement está pasando de la manufactura tradicional a los servicios tecnológicos, de centro de costos a centro de ganancias.
+Más importante aún, Taiwan Cement no considera la neutralidad de carbono como una carga, sino como una oportunidad de transformación. Mediante el desarrollo y la aplicación de tecnologías verdes, Taiwan Cement está pasando de la manufactura tradicional a los servicios tecnológicos, de centro de costos a centro de ganancias.
 
-## 76 años siendo testigo de los milagros de la construcción en Taiwán
+## 76 años como testigo de los milagros de la construcción en Taiwán
 
-Desde su fundación en 1946, Taiwan Cement ha sido testigo durante 76 años de los milagros de la construcción en Taiwán. Las autopistas, el sistema de metro, el Taipei 101, el Aeropuerto de Taoyuan... casi todas las grandes obras de infraestructura han utilizado productos de Taiwan Cement.
+Desde su fundación en 1946 hasta la actualidad, Taiwan Cement ha sido testigo durante 76 años de los milagros de la construcción en Taiwán. Las autopistas, el sistema de metro, el Taipei 101, el aeropuerto de Taoyuan... Casi todas las grandes obras de infraestructura han utilizado productos de Taiwan Cement.
 
-Más importante aún, la trayectoria de desarrollo de Taiwan Cement es un reflejo del desarrollo económico de Taiwán: de la reconstrucción de posguerra al despegue económico, de la manufactura tradicional a la industria de alta tecnología, del mercado interno a la competencia internacional, Taiwan Cement ha sido un participante y promotor clave.
+Cabe destacar que la trayectoria de desarrollo de Taiwan Cement es un reflejo de la economía taiwanesa. Reconstrucción de posguerra, despegue económico, transición de manufactura tradicional a industria de alta tecnología, del mercado interno a la competencia internacional: en cada etapa, Taiwan Cement ha sido participante y motor.
 
-Como la primera empresa cotizada de Taiwán, Taiwan Cement también ha sido testigo del desarrollo del mercado de capitales taiwanés. Desde el código bursátil 1101 en 1962 hasta los mercados actuales con índices por encima de los diez mil puntos, Taiwan Cement ha sido siempre un miembro importante del mercado de valores de Taiwán.
+Como la primera empresa cotizada de Taiwán, Taiwan Cement también ha sido testigo del desarrollo del mercado de capitales taiwanés. Desde el código bursátil 1101 en 1962 hasta los mercados actuales en niveles históricos, Taiwan Cement ha sido siempre un miembro importante del mercado de valores de Taiwán.
 
-## La transformación elegante de una industria tradicional
+## La lógica de transformación de una industria tradicional
 
-La historia de Taiwan Cement nos enseña que no existen industrias en declive, solo mentalidades en declive. Frente a los cambios de época, la clave no es resistirse al cambio, sino abrazar activamente la transformación.
+La ruta de transformación de Taiwan Cement presenta varias características observables: el momento de la decisión fue anterior al endurecimiento de las políticas de neutralidad de carbono (2017, antes de que se estableciera el objetivo de cero emisiones netas para 2050 en Taiwán); la transformación no implica abandonar el negocio principal del cemento, sino partir de la capacidad de coprocesamiento de los hornos de cemento como punto de entrada, desarrollando simultáneamente negocios de almacenamiento de energía y energías renovables; la expansión en el mercado de cemento bajo en carbono en Europa y África también alivia la presión de la creciente competencia en los mercados de Taiwán y China continental.
 
-La revolución verde de Chang An-ping demuestra que las industrias tradicionales también pueden encontrar un nuevo posicionamiento en la nueva era. La clave está en tener el coraje para transformarse, la capacidad de innovar y un juicio preciso de las tendencias futuras.
-
-En un mundo que persigue el desarrollo sostenible, la experiencia de transformación de Taiwan Cement tiene un importante valor de referencia para otras industrias tradicionales. Demuestra que incluso una industria "antigua" como la del cemento puede revitalizarse en el nuevo contexto mediante la innovación tecnológica y la innovación en el modelo de negocio.
-
-La leyenda de la primera empresa cotizada de Taiwán sigue escribiéndose, y esta vez los temas son sostenibilidad, innovación y futuro verde.
+La industria cementera representa aproximadamente el 7-8% de las emisiones globales de carbono (datos de la Agencia Internacional de Energía, AIE), siendo una de las industrias más difíciles de descarbonizar. La transformación de Taiwan Cement está aún en curso y sus resultados deberán evaluarse a largo plazo.[^2]
 
 ## Referencias
 
-- [Informe anual 2024 de Taiwan Cement Corporation](https://www.taiwancement.com/)
-- [Wikipedia: Taiwan Cement](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5)
-- [CommonWealth Magazine: La empresa cotizada más antigua de Taiwán, Taiwan Cement opera en 13 países con 27 subsidiarias y se reinventa "dejando atrás el cemento"](https://www.cw.com.tw/article/5130723)
-- [TEJ Taiwan Economic Journal: Construyendo un imperio de cemento en Taiwán: el viaje de crecimiento de la familia Ku y el grupo Taiwan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/)
-- [Mirror Media: Recordando a Ku Chen-fu y la innovación en Taiwan Cement — Chang An-ping: transformación total hacia empresa verde](https://www.mirrormedia.mg/story/20210209fin001)
+[^1]: [Taiwan Cement — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%B3%A5) — Historia completa de Taiwan Cement, incluyendo su fundación en 1946, privatización en 1954 y salida a bolsa en 1962.
+
+[^2]: [Informe anual 2024 de Taiwan Cement Corporation](https://www.taiwancement.com/) — Datos financieros y de negocio más recientes del grupo Taiwan Cement.
+
+[^3]: [CommonWealth Magazine: La empresa cotizada más antigua de Taiwán, Taiwan Cement opera en 13 países con 27 filiales y se reinventa "dejando el cemento"](https://www.cw.com.tw/article/5130723) — Reportaje sobre la estrategia de transformación verde y diversificación de Taiwan Cement.
+
+[^4]: [Mirror Media: Recordando a Koo Chen-fu y la innovación en Taiwan Cement — Chang An-ping: transformación total hacia empresa verde](https://www.mirrormedia.mg/story/20210209fin001) — Entrevista sobre la dirección de la transformación verde de Taiwan Cement tras la asunción de Chang An-ping.
+
+[^5]: [TEJ (Taiwan Economic Journal): Construyendo el reino del cemento de Taiwán — el viaje de crecimiento de la familia Koo y el grupo Taiwan Cement](https://www.tejwin.com/insight/%E8%BE%9C%E5%AE%B6%E5%8F%B0%E6%B3%A5%E9%9B%86%E5%9C%98/) — Registro completo de las tres generaciones de la familia Koo y la trayectoria de gestión de Taiwan Cement.
+
+[^6]: [La unión matrimonial de la familia Koo y la construcción del reino del cemento de Taiwán, expandiéndose a la energía verde — CNA](https://www.cna.com.tw/news/afe/202502050178.aspx) — Registro completo de la privatización de Taiwan Cement en 1954, Lin Bo-shou como primer presidente, Koo Chen-fu como gerente adjunto, y la red de uniones matrimoniales familiares.
+
+[^7]: [Fallecimiento repentino de Koo Cheng-yun — su cuñado Chang An-ping asume el control del grupo Taiwan Cement — Liberty Times](https://news.ltn.com.tw/news/focus/paper/1073619) — Confirma el fallecimiento de Koo Cheng-yun el 23/1/2017 y la identidad de Chang An-ping como "cuñado" (Koo Huai-ju es la hija menor de Koo Chen-fu). Véase también [Mirror Media: El detrás de escenas del fallecimiento de Koo Cheng-yun](https://www.mirrormedia.mg/story/20170124bus004).

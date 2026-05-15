@@ -1,111 +1,92 @@
 ---
-created: 2026-03-17
-tags:
-  [
-    society,
-    human rights,
-    gender equality,
-    same-sex marriage,
-    transitional justice,
-  ]
-title: Human Rights and Gender Equality
-description: Taiwan's progressive journey in human rights protection and gender equality, from authoritarian human rights violations to becoming Asia's pioneer in human rights
+title: 'Human Rights and Gender Equality'
+description: "Taiwan's progress in human rights protection and gender equality, from human rights violations under authoritarian rule to becoming a pioneer in human rights across Asia"
 date: 2026-03-17
-author: Taiwan.md
-readingTime: 9
+author: 'Taiwan.md Contributors'
+category: 'Society'
+subcategory: '人權與平等'
+tags: ['Society', '人權', '性別平等', '同性婚姻', '轉型正義']
+lastVerified: 2026-03-19
+lastHumanReview: false
 featured: false
 translatedFrom: 'Society/人權與性別平等.md'
-sourceCommitSha: '3e53281a'
-sourceContentHash: 'sha256:814b451ca9006dad'
-sourceBodyHash: 'sha256:a6995e962160e803'
-translatedAt: '2026-05-10T18:00:00Z'
-subcategory: '人權與平等'
-category: 'Society'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:22a18952ed1d65bb'
+sourceBodyHash: 'sha256:8495c26241a6b1ab'
+translatedAt: '2026-05-15T15:39:39+08:00'
 ---
 
 # Human Rights and Gender Equality
 
-> **30-second overview:** Taiwan has evolved from human rights violations under authoritarian rule to becoming Asia's leading nation in human rights protection. Through milestones including transitional justice for authoritarian legacies, gender equality legislation, and legalizing same-sex marriage, Taiwan has established a comprehensive human rights protection system, becoming an important indicator of democratic and human rights values in Asia.
+> **30-second overview:** Taiwan has evolved from human rights violations under authoritarian rule to become a leading country in human rights protection in Asia. Through transitional justice to address the legacy of authoritarianism, the advancement of gender equality legislation, and the achievement of milestones such as the legalization of same-sex marriage, Taiwan has become an important benchmark for democratic and human rights values in Asia.
 
-## Why It Matters
+Taiwan's human rights development has gone through three stages: authoritarian repression, democratic transition, and rights protection. From the traumatic memories of the February 28 Incident and the White Terror, to the gradual establishment of human rights protection mechanisms after the lifting of martial law, to recent breakthroughs such as the promotion of transitional justice and the legalization of same-sex marriage. In 2009, Taiwan incorporated the International Covenant on Civil and Political Rights (ICCPR) and the International Covenant on Economic, Social and Cultural Rights (ICESCR) into domestic law, establishing a legal framework grounded in international human rights standards.[^1]
 
-Human rights and gender equality are crucial indicators of a democratic society's maturity. Taiwan's experience demonstrates how to rebuild human rights values from the trauma of authoritarian rule and promote gender equality within traditional society. These achievements not only enhance Taiwan's international image but also provide important reference for human rights development in other Asian countries.
+## Human Rights Violations During the Authoritarian Period
 
-## Overview
+The 1947 February 28 Incident caused tens of thousands of casualties, and the subsequent thirty-eight years of martial law (1949–1987) constituted the most profound trauma in Taiwan's modern human rights history. During the White Terror period, political dissidents faced unjust trials, torture, execution, or long-term imprisonment. Political cases such as the Lei Zhen case and the Kaohsiung Incident (1979) became representative symbols of authoritarian rule.[^2]
 
-Taiwan's human rights development has gone through three phases: authoritarian oppression, democratic transition, and rights protection. From the traumatic memories of the February 28 Incident and White Terror, to gradually establishing human rights protection mechanisms after martial law was lifted, to recent breakthrough progress including transitional justice and legalizing same-sex marriage. In gender equality, Taiwan has transformed from a traditional patriarchal society to a gender-friendly society, establishing comprehensive anti-discrimination legislation and gender mainstreaming policies.
+Under the martial law regime, basic freedoms such as assembly and association, speech and publication, and freedom of movement and residence were all restricted. Military tribunals were extended to civilians, undermining judicial independence; cultural censorship was used to control social thought, creating a "chilling effect."
 
-## Key Facts
+After the lifting of martial law (1987), the work of redressing wrongful convictions proceeded gradually. The "Compensation Act for Wrongful Trials on Charges of Sedition and Espionage During the Martial Law Period" provided compensation to victims, and oral history projects and archival access efforts unfolded over the following decades. This memory work formed the material foundation for later transitional justice.
 
-- **Same-Sex Marriage Legalization**: Became the first Asian country to recognize same-sex marriage in 2019
-- **Transitional Justice Promotion**: Transitional Justice Commission established in 2018 to address wrongful verdicts and human rights violations during the authoritarian period
-- **Gender Equality Legal Framework**: Comprehensive legal system including Gender Equality in Employment Act and Gender Equity Education Act
-- **International Rankings**: Rated as "Free" by Freedom House, ranking among Asia's top in gender equality
-- **Human Rights Institution**: Established National Human Rights Commission under Control Yuan, meeting international human rights standards
+## Transitional Justice Process
 
-## In-Depth Content
+The 2017 "Transitional Justice Act" established the legal foundation, and in 2018 the Transitional Justice Commission (TJC) formally began operations, responsible for truth investigations, archival organization, legal review, and the recovery of party assets improperly obtained during the authoritarian period.
 
-### Human Rights Violations During Authoritarian Period
+Regarding the removal of authoritarian symbols, statues of authoritarian rulers were gradually taken down, and former authoritarian sites were transformed into human rights education venues. The White Terror Jing-Mei Memorial Park and the Green Island Human Rights Culture Park are representative examples.
 
-The **February 28 Incident** (1947) and subsequent **White Terror** caused massive human rights violations, with an estimated tens of thousands of victims. Political dissidents faced improper trials, torture, execution, or long-term imprisonment. Political cases like the **Lei Zhen Case** and **Kaohsiung Incident** became symbols of authoritarian rule.
+In terms of institutional development, the National Human Rights Commission was established within the Control Yuan, meeting the "Paris Principles" standard for an independent body to monitor human rights conditions. Taiwan's transitional justice path has provided a referenceable practical case for other democratizing countries in Asia.[^3]
 
-The **martial law system** restricted people's fundamental rights, including freedom of assembly, association, speech, publication, and movement. **Military tribunals** extended to civilians, undermining judicial independence. **Thought control** through cultural censorship controlled social thinking, creating a "chilling effect."
+## Gender Equality and Same-Sex Marriage
 
-### Human Rights Reconstruction After Democratization
+In terms of gender equality legislation, the "Gender Equality in Employment Act" guarantees workplace gender equality, the "Gender Equity Education Act" promotes campus gender equity education, and the "Sexual Harassment Prevention Act" establishes prevention mechanisms. The women's quota system has significantly increased women's political participation, and the proportion of female legislators in Taiwan has long ranked among the highest in Asia.
 
-**Overturning Wrongful Cases**: Beginning in the 1980s, political cases were gradually overturned, with the "Compensation Act for Wrongful Trials on Sedition and Espionage Charges during the Martial Law Period" providing compensation to victims. **Truth-Seeking**: Historical truth was reconstructed through oral history, archive openings, and other methods.
+**The legalization of same-sex marriage is Taiwan's most internationally watched human rights advancement in recent years.** **On May 24, 2017, Judicial Yuan Interpretation No. 748** confirmed that the existing Civil Code's failure to guarantee same-sex marriage violated constitutional equality rights, requiring relevant legislation to be completed within two years. **The referendum proposals on November 24, 2028 (Proposals 10, 11, 12, 14, and 15)** revealed clear societal division: Proposal 10 (marriage limited to one man and one woman) received 7.65 million votes in favor and 2.90 million against; Proposal 14 (Civil Code guaranteeing same-sex marriage) received 3.38 million votes in favor and 6.95 million against. These results showed that the anti-same-sex-marriage side held a clear majority in the referendum. The Legislative Yuan ultimately responded by enacting a separate special law, **passing the "Enforcement Act of Judicial Yuan Interpretation No. 748" on May 17, 2019**, making Taiwan the first country in Asia to legalize same-sex marriage.[^4]
 
-**Institutional Construction**: The Human Rights Protection Basic Act established a legal foundation, with the **National Human Rights Commission** established to monitor human rights conditions. **International Integration**: Taiwan signed multiple international human rights conventions, domesticating international human rights standards.
+Conservative groups such as the Taiwan Alliance for the Protection of Families and the Stability of Power mobilized parents and religious communities before and after the referendum, reflecting that internal tensions in Taiwanese society on gender issues did not disappear with the completion of legislation. **In January 2023**, the Legislative Yuan amended the Enforcement Act to allow same-sex spouses to jointly adopt non-biological children, filling a previous legal gap.
 
-### Transitional Justice Process
+**On May 29, 2020, Judicial Yuan Interpretation No. 791** declared Article 239 of the Criminal Code (the adultery provision) unconstitutional and immediately void, removing gendered regulation of individual sexual autonomy from the criminal law (in judicial practice, the adultery provision had been disproportionately applied against women), marking a key milestone in the evolution of gender equality legislation.
 
-The **Transitional Justice Act** (2017) established the legal foundation for transitional justice, with the **Transitional Justice Commission** responsible for truth investigation, archive organization, and legal cleanup. **Dealing with Ill-gotten Party Assets**: Pursuing political party assets improperly obtained during the authoritarian period.
+## 2023 #MeToo and the Amendment of the Three Gender Equity Laws
 
-**Clearing Authoritarian Symbols**: Removing statues and emblems of authoritarian rulers. **Spatial Transformation**: Converting former authoritarian sites into human rights education venues, such as the Jing-Mei White Terror Memorial Park and Green Island (綠島, Ludao) Human Rights Culture Park.
+**From May to June 2023**, Taiwan experienced a wave of the #MeToo movement, beginning with accusations of sexual harassment by a Democratic Progressive Party staff member and rapidly spreading to politics, academia, media, and the arts, dubbed "Taiwan's #MeToo." The events prompted the Legislative Yuan to pass sweeping amendments to the Gender Equality in Employment Act, the Gender Equity Education Act, and the Sexual Harassment Prevention Act (collectively known as the "Three Gender Equity Laws") on **July 31, 2023**, strengthening the handling responsibilities of employers and schools, increasing penalties, and introducing third-party independent investigation mechanisms.[^5]
 
-### Gender Equality Development
+The amendments to the Three Gender Equity Laws also addressed the long-criticized problem of "non-independent handling mechanisms" — in the past, sexual harassment cases were mostly self-investigated and self-concluded by the institution to which the perpetrator belonged. The new law mandates external committee members and extends the complaint filing period, representing a structural breakthrough in Taiwan's gender equality legal framework.
 
-**Legal Framework Construction**: The Gender Equality in Employment Act (性別工作平等法) protects workplace gender equality, the Gender Equity Education Act (性別平等教育法) promotes campus gender equality education, and the Sexual Harassment Prevention Act (性騷擾防治法) establishes prevention mechanisms. **Political Participation**: Implementing women's quota systems significantly increased female political participation.
+## Transgender Rights and Internal Tensions
 
-**LGBTQ Rights**: After long-term social movements, the Constitutional Court's interpretation in 2017 confirmed same-sex marriage rights. In 2019, the "Enforcement Act of Judicial Yuan Interpretation No. 748" was passed, making Taiwan the first Asian country to legalize same-sex marriage.
+**The controversy over gender marker change without surgery** is one of the most contentious areas of gender equality issues in Taiwan in recent years. In the 2021 "Xiao E case," the Taipei High Administrative Court ruled that the Ministry of Health and Welfare's administrative letter requiring sex-reassignment surgery for gender marker changes was unconstitutional, marking the first time Taiwan's judiciary recognized the legal possibility of "gender marker change without surgery." This ruling triggered divisions within feminism: the transgender movement advocates for gender identity self-determination, while some radical feminists (known as TERFs, Trans-Exclusionary Radical Feminists) express concerns about the impact on women-only spaces (restrooms, locker rooms, sports competitions, shelters). This tension has yet to reach social consensus, and the Executive Yuan has not yet issued comprehensive gender marker change standards.[^6]
 
-**Gender Mainstreaming**: Promoting gender impact assessment, requiring policy formulation to consider gender differences. **Diverse Gender**: Recognizing diverse gender identities and promoting transgender rights protection.
+## The 2018 TJC "Eastern Factory" Incident
 
-### Special Human Rights Issues
+**In September 2018**, recordings from an internal meeting of the Transitional Justice Commission were leaked, in which Deputy Chairperson Chang Tien-chin referenced "establishing an Eastern Factory" (a historical reference to a secret police apparatus) and discussed the strategic use of transitional justice investigations targeting a specific candidate (Hou You-yi), raising public doubts about the TJC's political neutrality. Chang resigned and the TJC conducted an internal investigation, but the incident severely damaged the TJC's credibility and became a negative reference case for the subsequent advancement of transitional justice work.[^7]
 
-**Indigenous Rights**: The Indigenous Peoples Basic Act (原住民族基本法) established collective rights of indigenous peoples, promoting traditional territory demarcation and language revitalization. **Migrant Worker Rights**: Protecting basic labor conditions for foreign workers, though improvement space remains.
+## Unfinished Agendas
 
-**Children's Rights**: The Children and Youth Welfare and Rights Protection Act prohibits corporal punishment and establishes reporting mechanisms. **Disability Rights**: Promoting domestication of the Convention on the Rights of Persons with Disabilities and promoting barrier-free environment construction.
+Regarding indigenous peoples, the "Indigenous Peoples Basic Law" establishes collective rights and promotes the delineation of traditional territories and language revitalization, but disputes over traditional territories and the practice of self-governance are still ongoing. While the basic labor conditions of migrant workers are protected, the brokerage fee system and room for improvement in migrant workers' personal freedom remain concerns.
 
-### International Human Rights Participation
+Regarding children, the "Children and Youth Welfare and Rights Protection Act" establishes a mandatory reporting mechanism and prohibits corporal punishment by law. Regarding persons with disabilities, the Convention on the Rights of Persons with Disabilities (CRPD) has been incorporated into domestic law through an enforcement act, and the construction of barrier-free environments is still underway.
 
-**Human Rights Diplomacy**: Participating in international society through human rights values, supporting global democracy and human rights movements. **Experience Sharing**: Sharing transitional justice and democratization experiences with other countries. **NGO Role**: Taiwan's civil human rights organizations actively participate in international human rights networks.
+In terms of international participation, Taiwan's special sovereign status prevents it from formally joining United Nations human rights mechanisms, but it participates in international human rights discussions through civil society channels. The domestic implementation of CEDAW (Convention on the Elimination of All Forms of Discrimination Against Women) has been recognized by international human rights organizations, and Freedom House rates Taiwan as a "Free" country.
 
-**Challenges and Limitations**: Due to Taiwan's special sovereignty status, it cannot formally join UN human rights mechanisms, but continues participating through civil channels. **China Factor**: External pressure on Taiwan's human rights development.
+## References
 
-### Unfinished Issues
+[^1]: [Two Covenants Enforcement Act — Ministry of Justice Laws & Regulations Database](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0040037) — "International Covenant on Civil and Political Rights and International Covenant on Economic, Social and Cultural Rights Enforcement Act," enacted in 2009.
 
-**Judicial Reform**: There remains room for improvement in enhancing judicial credibility and human rights protection. **Digital Rights**: Facing emerging human rights issues in the information age such as personal data protection and internet freedom. **Social Discrimination**: Despite legal protections, social-level discrimination and prejudice remain to be eliminated.
+[^2]: [Transitional Justice Commission Official Website](https://www.tjc.gov.tw/) — Government transitional justice body, including investigations of human rights violations during the authoritarian period, databases of victims, and related archives.
 
-**Immigration Rights**: Rights protection for new immigrants, migrant workers, and refugees needs strengthening. **Long-term Care Rights**: Human rights protection for the elderly in an aging society is increasingly important.
+[^3]: [Same-Sex Marriage in Taiwan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB) — The process of legalizing same-sex marriage in Taiwan, including Judicial Yuan interpretations, referendum data, and the legislative process.
 
-## International Recognition
+[^4]: [Freedom House — Freedom in the World: Taiwan](https://freedomhouse.org/country/taiwan/freedom-world/2024) — Annual international human rights organization assessment of Taiwan's political rights and civil liberties. See also [Central Election Commission — 2018 Referendum Results](https://web.cec.gov.tw/) for complete vote counts on Proposals 10 and 14.
 
-Taiwan performs excellently in international human rights rankings, rated as "Free" by Freedom House, leading Asia in gender equality indices. **Same-sex marriage legalization** received high praise from international human rights organizations, and **transitional justice experience** provides reference models for other countries.
+[^5]: [Gender Equality in Employment Act — Laws & Regulations Database](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030014) — Full text of the Three Gender Equity Laws amendments passed on July 31, 2023.
+
+[^6]: [Gender Marker Change Without Surgery — Awakening Foundation](https://www.awakening.org.tw/) — The 2021 Xiao E case ruling and related legal discussions.
+
+[^7]: [Transitional Justice Commission "Eastern Factory" Incident — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BC%B5%E5%A4%A9%E6%AC%BD) — Complete record of the September 2018 Chang Tien-chin incident.
 
 ## Further Reading
 
-- [Same-sex marriage in Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Same-sex_marriage_in_Taiwan)
-- [Transitional justice - Wikipedia](https://en.wikipedia.org/wiki/Transitional_justice)
-- [Taiwan's Human Rights Report](https://www.humanrights.moj.gov.tw/)
-- [National Human Rights Commission](https://nhrc.cy.gov.tw/en/)
-- [Taiwan Association for Human Rights](https://www.tahr.org.tw/)
-
-## Related Topics
-
-- [democratic-system](/society/democratic-system)
-- [taiwan-democratization](/history/taiwan-democratization)
-
----
-
-_Taiwan's human rights journey demonstrates that societies can overcome authoritarian legacies to build inclusive, rights-respecting democracies that serve as beacons for the region._
+- [Transitional Justice Commission](https://www.tjc.gov.tw/) — Taiwan's official transitional justice body
+- [Covenants Watch](https://covenantswatch.org.tw/) — Monitoring the implementation of international human rights covenants in Taiwan

@@ -1,104 +1,92 @@
 ---
-title: 'Droits humains et égalité des genres à Taïwan'
-description: "Du régime autoritaire à la figure de proue des droits humains en Asie : le parcours de Taïwan vers la justice transitionnelle, l'égalité des genres et le mariage pour tous."
+title: 'Droits humains et égalité des genres'
+description: "Le parcours progressif de Taïwan en matière de protection des droits humains et d'égalité des genres, des violations des droits humains sous le régime autoritaire à son rôle de pionnier des droits humains en Asie"
 date: 2026-03-17
-tags:
-  [
-    Société,
-    droits humains,
-    égalité des genres,
-    mariage homosexuel,
-    justice transitionnelle,
-  ]
-subcategory: 'Droits humains et égalité'
+author: 'Taiwan.md Contributors'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
-readingTime: 9
-featured: false
+subcategory: '人權與平等'
+tags: ['Society', '人權', '性別平等', '同性婚姻', '轉型正義']
 lastVerified: 2026-03-19
-lastHumanReview: false
+lastHumanReview: 'false'
+featured: 'false'
 translatedFrom: 'Society/人權與性別平等.md'
-sourceCommitSha: '3e53281a'
-sourceContentHash: 'sha256:814b451ca9006dad'
-sourceBodyHash: 'sha256:a6995e962160e803'
-translatedAt: '2026-05-10T00:00:00Z'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:22a18952ed1d65bb'
+sourceBodyHash: 'sha256:8495c26241a6b1ab'
+translatedAt: '2026-05-15T15:39:40+08:00'
 ---
 
-# Droits humains et égalité des genres à Taïwan
+# Droits humains et égalité des genres
 
-> **En 30 secondes :** Taïwan a opéré une transformation remarquable : d'un État autoritaire qui bafouait les droits fondamentaux, le pays est devenu un modèle de référence pour les droits humains en Asie. Justice transitionnelle, législation sur l'égalité des genres, légalisation du mariage pour tous — autant de jalons qui font aujourd'hui de Taïwan un repère incontournable pour la démocratie et les valeurs humaines dans la région.
+> **Aperçu en 30 secondes :** Taïwan est passé des violations des droits humains sous l'ère autoritaire à un pays leader en matière de protection des droits humains en Asie. À travers la justice transitionnelle pour traiter l'héritage autoritaire, la promotion de la législation sur l'égalité des genres, et la légalisation du mariage entre personnes de même sexe, Taïwan est devenue un indicateur important des valeurs démocratiques et des droits humains en Asie.
 
-## Pourquoi cela compte
+Le développement des droits humains à Taïwan a traversé trois phases : oppression autoritaire, transition démocratique et protection des droits. Du traumatisme de l'Incident du 28 février et de la Terreur blanche, à l'établissement progressif de mécanismes de protection des droits humains après la levée de la loi martiale, jusqu'aux avancées majeures récentes comme la justice transitionnelle et la légalisation du mariage entre personnes de même sexe. En 2009, Taïwan a transposé le Pacte international relatif aux droits civils et politiques (ICCPR) et le Pacte international relatif aux droits économiques, sociaux et culturels (ICESCR) en droit national, établissant un cadre juridique fondé sur les normes internationales des droits humains.[^1]
 
-La manière dont une société protège ses citoyens les plus vulnérables révèle la profondeur réelle de sa démocratie. L'expérience taïwanaise est particulièrement instructive : comment un pays peut-il se relever des traumatismes laissés par la dictature, reconstruire un cadre solide de droits humains, et impulser l'égalité des genres au sein d'une société traditionnellement patriarcale ? Les réponses apportées par Taïwan offrent non seulement une leçon d'histoire, mais aussi une feuille de route concrète pour d'autres pays asiatiques encore engagés dans leur propre transition démocratique.
+## Violations des droits humains sous l'ère autoritaire
 
-## Vue d'ensemble
+L'Incident du 28 février 1947 a causé des dizaines de milliers de morts et de blessés. Les trente-huit années de régime de loi martiale qui ont suivi (1949-1987) constituent le traumatisme le plus profond de l'histoire moderne des droits humains à Taïwan. Durant la période de Terreur blanche, les dissidents politiques ont subi des procès inéquitables, la torture, l'exécution ou l'emprisonnement prolongé. Des affaires politiques comme l'affaire Lei Zhen et l'incident de Kaohsiung (1979) sont devenues des symboles emblématiques du régime autoritaire.[^2]
 
-Le chemin parcouru par Taïwan en matière de droits humains se déroule en trois actes distincts : la répression autoritaire, la transition démocratique, puis la consolidation des droits. De la mémoire douloureuse de l'Incident du 28 février et de la Terreur blanche, à la mise en place progressive de mécanismes de protection après la levée de la loi martiale, jusqu'aux avancées décisives de ces dernières années — justice transitionnelle, légalisation du mariage entre personnes de même sexe — le pays a accompli un chemin extraordinaire. Sur le plan de l'égalité des genres, Taïwan a opéré un pivot culturel majeur : d'une société traditionnellement dominée par des normes patriarcales, il s'est transformé en une société respectueuse du genre, dotée d'un arsenal législatif antidiscriminatoire et d'une politique d'intégration du genre dans les politiques publiques.
+Sous le régime de loi martiale, les libertés fondamentales — réunion, association, expression, presse, circulation et résidence — étaient toutes restreintes. La juridiction militaire s'étendait aux civils, portant atteinte à l'indépendance judiciaire. Le contrôle de la pensée sociale par la censure culturelle créait un « effet de cigogne » (autocensure généralisée).
 
-## Repères essentiels
+Après la levée de la loi martiale (1987), le travail de réhabilitation des affaires judiciaires injustes a progressé graduellement. La « Loi sur la compensation pour les affaires de rébellion et d'espionnage injustement jugées durant la période de loi martiale » a offert des réparations aux victimes. Les travaux d'histoire orale et d'ouverture des archives se sont également déroulés au cours des décennies suivantes, constituant la base documentaire pour la justice transitionnelle ultérieure.
 
-- **Mariage pour tous** : en 2019, Taïwan est devenu le premier pays d'Asie à légaliser le mariage entre personnes de même sexe
-- **Justice transitionnelle** : création de la Commission pour la promotion de la justice transitionnelle en 2018, chargée d'examiner les condamnations abusives et les violations des droits humains sous l'ère autoritaire
-- **Cadre légal pour l'égalité des genres** : corpus législatif complet comprenant la Loi sur l'égalité dans l'emploi entre les sexes, la Loi sur l'éducation à l'égalité des genres, et la Loi sur la prévention du harcèlement sexuel
-- **Classements internationaux** : Taïwan est classé pays « libre » par Freedom House, et figure en tête des indices d'égalité des genres en Asie
-- **Institutions des droits humains** : création de la Commission nationale des droits humains au sein du Yuan de contrôle, conforme aux normes internationales
+## Le processus de justice transitionnelle
 
-## Analyse approfondie
+En 2017, la « Loi pour la promotion de la justice transitionnelle » a établi les fondements juridiques. En 2018, la Commission pour la promotion de la justice transitionnelle (促轉會) a officiellement commencé ses opérations, chargée de l'enquête sur la vérité, du classement des archives, du nettoyage juridique et de la récupération des biens de partis politiques acquis de manière illégitime durant l'ère autoritaire.
 
-### Les violations des droits humains sous l'ère autoritaire
+Concernant le retrait des symboles autoritaires, certaines statues de dirigeants autoritaires ont été progressivement déplacées, et d'anciens lieux de pouvoir autoritaire ont été reconvertis en espaces d'éducation aux droits humains. Le Mémorial de Jingmei (Terreur blanche) et le Parc culturel des droits humains de l'île de Green sont des exemples représentatifs.
 
-L'Incident du 28 février 1947 et la période de Terreur blanche qui s'ensuivit ont laissé des plaies profondes dans la société taïwanaise. Des dizaines de milliers de personnes sont estimées avoir été victimes de ces violences d'État : dissidents politiques soumis à des procès iniques, torturés, exécutés ou emprisonnés pour de longues années. Des affaires emblématiques comme le Cas Lei Chen ou l'Incident de Formosa sont devenues les symboles d'un pouvoir prêt à tout pour étouffer l'opposition.
+Sur le plan institutionnel, la Commission nationale des droits humains du Yuan de contrôle a été établie, conformément aux normes d'indépendance des « Principes de Paris », pour surveiller la situation des droits humains. La voie de justice transitionnelle de Taïwan offre un cas pratique de référence pour d'autres pays asiatiques en transition démocratique.[^3]
 
-Sous le régime de la loi martiale, les libertés fondamentales étaient sévèrement restreintes : liberté de réunion et d'association, liberté d'expression et de presse, liberté de circulation et de résidence. La justice militaire s'étendait aux civils, compromettant l'indépendance du pouvoir judiciaire. La censure culturelle instaurait un climat de peur généralisé — ce que l'on nomme l'« effet cigale » — étouffant toute pensée dissidente dans un silence forcé.
+## Égalité des genres et mariage entre personnes de même sexe
 
-### La reconstruction des droits après la démocratisation
+Sur le plan législatif de l'égalité des genres, la « Loi sur l'égalité des genres au travail » garantit l'égalité professionnelle, la « Loi sur l'éducation à l'égalité des genres » promeut l'éducation à l'égalité dans les établissements scolaires, et la « Loi sur la prévention et le contrôle du harcèlement sexuel » établit des mécanismes de prévention. Le système de quotas réservés aux femmes a considérablement accru la participation politique féminine, et la proportion de femmes députées à Taïwan se maintient depuis longtemps parmi les plus élevées d'Asie.
 
-Le processus de réhabilitation des victimes a débuté dès les années 1980, s'accélérant progressivement avec l'adoption de la Loi d'indemnisation pour les affaires jugées iniques relatives aux rébellions et aux espions pendant la période de la loi martiale. Une démarche de vérité historique a été engagée via des projets d'histoire orale et l'ouverture des archives, permettant de reconstituer les faits et de rendre justice à la mémoire des victimes.
+**La légalisation du mariage entre personnes de même sexe est l'avancée en matière de droits humains la plus médiatisée internationalement ces dernières années à Taïwan.** **Le 24 mai 2017, l'interprétation n° 748 du Yuan constitutionnel** a confirmé que l'absence de protection du mariage entre personnes de même sexe dans le Code civil en vigueur portait atteinte au droit à l'égalité garanti par la Constitution, et a exigé l'adoption d'une législation pertinente dans un délai de deux ans. **Le 24 novembre 2018, les résultats des référendums (propositions n° 10, 11, 12, 14 et 15)** ont révélé une division claire de l'opinion publique : la proposition n° 10 (limiter le mariage à un homme et une femme) a recueilli 7,65 millions de voix pour et 2,90 millions contre ; la proposition n° 14 (garantir le mariage pour tous par le Code civil) a recueilli 3,38 millions de voix pour et 6,95 millions contre. Ces résultats montraient que les opposants au mariage entre personnes de même sexe étaient nettement majoritaires lors du référendum. L'Assemblée législative a finalement répondu par l'adoption d'une loi spécifique distincte du Code civil. **Le 17 mai 2019, la « Loi d'application de l'interprétation n° 748 du Yuan constitutionnel »** a été adoptée, faisant de Taïwan le premier pays d'Asie à légaliser le mariage entre personnes de même sexe.[^4]
 
-Sur le plan institutionnel, l'adoption d'une loi fondamentale sur la protection des droits humains a posé les bases juridiques d'un nouveau cadre, tandis que la création de la Commission nationale des droits humains offrait un mécanisme de surveillance indépendant. Sur le plan international, Taïwan a ratifié plusieurs conventions internationales relatives aux droits humains, en les intégrant dans son droit interne.
+Des groupes conservateurs comme l'Alliance pour la protection de la famille (護家盟) et la Force stabilité (安定力量) ont mobilisé les parents et les communautés religieuses avant et après le référendum, reflétant que les tensions internes de la société taïwanaise sur les questions de genre n'ont pas disparu avec l'adoption de la législation. **En janvier 2023**, l'Assemblée législative a amendé la « Loi d'application » pour permettre aux couples de même sexe d'adopter conjointement des enfants sans lien de parenté, comblant ainsi une lacune juridique initiale.
 
-### Le processus de justice transitionnelle
+**Le 29 mai 2020, l'interprétation n° 791 du Yuan constitutionnel** a déclaré l'article 239 du Code pénal (criminalisant l'adultère) inconstitutionnel et immédiatement caduc, supprimant ainsi au niveau pénal le contrôle genré de l'autonomie sexuelle individuelle (l'infraction d'adultère était nettement plus souvent invoquée contre les femmes dans la pratique judiciaire). Il s'agit d'une étape clé dans l'évolution du cadre juridique de l'égalité des genres.
 
-La Loi sur la promotion de la justice transitionnelle (2017) a constitué la pierre angulaire d'un processus systématique. La Commission chargée de cette mission s'est attelée à plusieurs tâches essentielles : investigation sur la vérité historique, collecte et organisation des archives, révision des textes législatifs hérités de l'ère autoritaire. Le traitement des biens mal acquis par les partis politiques pendant cette période a également fait l'objet d'une procédure spécifique.
+## Le mouvement #MeToo de 2023 et la révision des trois lois sur l'égalité des genres
 
-La transformation symbolique de l'espace public a accompagné cette démarche : retrait des statues et emblèmes liés aux gouvernants autoritaires, reconversion de lieux chargés d'histoire répressive en espaces d'éducation aux droits humains — comme le Parc commémoratif de Jingmei pour les victimes de la Terreur blanche, ou le Parc culturel des droits humains de l'île de Green Island.
+**De mai à juin 2023**, Taïwan a connu une vague de mouvement #MeToo, déclenchée par des accusations de harcèlement sexuel portées par des employées du Parti démocrate progressiste (DPP) contre des cadres de base, s'étendant rapidement aux milieux politique, universitaire, médiatique et artistique. Cet épisode a été qualifié de « #MeToo taïwanais ». Ces événements ont conduit l'Assemblée législative à adopter, **le 31 juillet 2023**, une révision en profondeur de la « Loi sur l'égalité des genres au travail », de la « Loi sur l'éducation à l'égalité des genres » et de la « Loi sur la prévention et le contrôle du harcèlement sexuel » (collectively appelées les « trois lois sur l'égalité des genres »). Ces révisions ont renforcé les responsabilités de traitement des employeurs et des établissements scolaires, augmenté les sanctions et introduit un mécanisme d'enquête indépendante par des tiers.[^5]
 
-### Les avancées en matière d'égalité des genres
+La révision des trois lois sur l'égalité des genres a également répondu à une critique de longue date concernant le « manque d'indépendance des mécanismes de traitement » — auparavant, les affaires de harcèlement sexuel étaient souvent traitées en interne par l'institution à laquelle appartenait l'auteur des faits. La nouvelle législation impose la mise en place de membres externes et prolonge les délais de dépôt de plainte, constituant une avancée structurelle dans le cadre juridique de l'égalité des genres à Taïwan.
 
-L'architecture législative en faveur de l'égalité des genres repose sur plusieurs piliers : la Loi sur l'égalité dans l'emploi entre les sexes, qui protège contre les discriminations dans le milieu professionnel ; la Loi sur l'éducation à l'égalité des genres, qui intègre ces enjeux dans les programmes scolaires ; la Loi sur la prévention du harcèlement sexuel, qui établit des mécanismes de protection. Des quotas ont été introduits pour favoriser la participation politique des femmes, ce qui a considérablement augmenté leur représentation dans les institutions.
+## Droits des personnes transgenres et tensions internes
 
-Concernant les droits des personnes LGBTQ+, le chemin a été long, porté par des décennies de mobilisation sociale. En 2017, le Conseil des grands juges a confirmé le droit constitutionnel au mariage pour les couples de même sexe. En 2019, la loi d'application de l'interprétation n° 748 du Yuan judiciaire a été adoptée, faisant de Taïwan le premier pays d'Asie à légaliser pleinement le mariage entre personnes de même sexe.
+**La controverse sur le changement de sexe sur les documents d'identité sans chirurgie** est l'un des sujets les plus débattus en matière d'égalité des genres à Taïwan ces dernières années. En 2021, dans l'« affaire Xiao E », la Cour administrative supérieure de Taipei a jugé inconstitutionnelle l'interprétation du ministère de la Santé exigeant une opération de réassignation sexuelle pour pouvoir modifier la mention du sexe sur les documents d'identité. C'était la première fois que la justice taïwanaise reconnaissait la possibilité juridique du « changement de sexe sans chirurgie ». Ce jugement a provoqué des divisions au sein du mouvement féministe : les mouvements transgenres défendaient l'autodétermination de l'identité de genre, tandis que certaines féministes radicales (qualifiées de TERF, Trans-Exclusionary Radical Feminist) exprimaient des préoccupations concernant les espaces non mixtes réservés aux femmes (toilettes, vestiaires, compétitions sportives, centres d'hébergement). Cette tension n'a pas encore fait l'objet d'un consensus social, et le Yuan exécutif n'a pas publié de norme complète pour le changement de sexe sur les documents.[^6]
 
-L'intégration du genre dans les politiques publiques (gender mainstreaming) est désormais une exigence : toute décision politique doit prendre en compte ses effets différenciés selon le genre. La reconnaissance des identités de genre multiples, y compris la protection des droits des personnes transgenres, s'inscrit dans cette dynamique inclusive.
+## L'« affaire Dongchang » de la Commission de justice transitionnelle en 2018
 
-### Des enjeux spécifiques qui méritent attention
+**En septembre 2018**, Chang Tien-chin (張天欽), vice-président de la Commission pour la promotion de la justice transitionnelle, a été enregistré lors d'une réunion interne évoquant la création d'un « Dongchang » (東廠, référence historique à un organe de surveillance impérial) et l'utilisation stratégique de la justice transitionnelle contre un candidat spécifique (Hou You-yi, 侯友宜). Cet incident a suscité des doutes dans la société quant à la neutralité politique de la Commission. Chang Tien-chin a démissionné et une enquête interne a été menée, mais l'affaire a gravement entamé la crédibilité de la Commission et est devenue un cas négatif de référence pour la suite du travail de justice transitionnelle.[^7]
 
-Les peuples autochtones bénéficient d'une protection renforcée depuis l'adoption de la Loi fondamentale sur les peuples autochtones, qui reconnaît leurs droits collectifs et soutient des initiatives concrètes : délimitation des territoires traditionnels, revitalisation des langues. La situation des travailleurs migrants étrangers a été améliorée sur le plan des droits du travail, mais des progrès restent à accomplir.
+## Les chantiers inachevés
 
-La protection de l'enfance est encadrée par la Loi sur la protection des droits et des intérêts de l'enfance et de la jeunesse, qui interdit les châtiments corporels et établit des mécanismes de signalement. Les droits des personnes en situation de handicap sont promus à travers l'intégration dans le droit interne de la Convention relative aux droits des personnes handicapées, favorisant le développement d'environnements accessibles à tous.
+Concernant les peuples autochtones, la « Loi fondamentale sur les peuples autochtones » a établi des droits collectifs et promu la délimitation des territoires traditionnels et la revitalisation linguistique, mais les controverses sur les territoires traditionnels et la pratique de l'autogouvernance sont encore en cours. Pour les travailleurs migrants étrangers, si les conditions de travail de base sont garanties, le système de frais d'intermédiation et les marges d'amélioration de la liberté personnelle des travailleurs migrants restent des préoccupations.
 
-### La participation internationale aux enjeux de droits humains
+Concernant les enfants, la « Loi sur la protection et la garantie des droits et du bien-être des enfants et adolescents » a établi un mécanisme de signalement et interdit les châtiments corporels par la loi. Pour les personnes en situation de handicap, la « Convention relative aux droits des personnes handicapées » (CRPD) a fait l'objet d'une loi d'application nationale, et l'aménagement d'environnements accessibles est encore en cours.
 
-Taïwan défend activement les valeurs démocratiques et les droits humains sur la scène internationale, malgré les contraintes liées à son statut particulier. Le pays partage son expérience en matière de justice transitionnelle et de démocratisation avec d'autres nations. Les organisations non gouvernementales taïwanaises jouent un rôle actif dans les réseaux internationaux de défense des droits humains.
+En matière de participation internationale, Taïwan, en raison de son statut souverain particulier, ne peut pas rejoindre formellement les mécanismes des Nations Unies relatifs aux droits humains, mais participe aux discussions internationales sur les droits humains par des voies non gouvernementales. La mise en œuvre nationale de la CEDEF (Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes) a été saluée par les organisations internationales de défense des droits humains, et Freedom House classe Taïwan parmi les pays « libres ».
 
-La limitation principale reste liée à la question de la souveraineté : Taïwan ne peut pas participer officiellement aux mécanismes onusiens de protection des droits humains, mais continue d'agir par des voies non gouvernementales. La pression exercée par Pékin constitue par ailleurs une contrainte extérieure permanente sur le développement des droits humains à Taïwan.
+## Références
 
-### Les chantiers inachevés
+[^1]: [Loi d'application des deux Pactes — Base de données juridique du Ministère de la Justice](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0040037) — « Loi d'application du Pacte international relatif aux droits civils et politiques et du Pacte international relatif aux droits économiques, sociaux et culturels », entrée en vigueur en 2009.
 
-Des efforts restent à fournir pour renforcer la crédibilité du système judiciaire et ses garanties en matière de droits humains. Les droits numériques constituent un chantier émergent : protection des données personnelles, liberté sur internet — autant d'enjeux propres à l'ère de l'information qui nécessitent un cadre adapté. Sur le plan social, même si la protection juridique est solide, les discriminations et préjugés persistants dans la société constituent un obstacle réel que la loi seule ne peut effacer.
+[^2]: [Site officiel de la Commission pour la promotion de la justice transitionnelle](https://www.tjc.gov.tw/) — Institution gouvernementale de justice transitionnelle, comprenant des enquêtes sur les violations des droits humains sous l'ère autoritaire, une base de données des victimes et des archives connexes.
 
-La protection des droits des nouveaux résidents — migrants, travailleurs étrangers, réfugiés — doit être renforcée. Avec le vieillissement accéléré de la population, la question des droits des personnes âgées dans une société gériatrique devient également un enjeu de plus en plus pressant.
+[^3]: [Mariage entre personnes de même sexe à Taïwan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB) — Parcours de la légalisation du mariage entre personnes de même sexe à Taïwan, incluant les interprétations du Yuan constitutionnel, les données des référendums et le processus législatif.
 
-## Regard international
+[^4]: [Freedom House — Freedom in the World Taïwan](https://freedomhouse.org/country/taiwan/freedom-world/2024) — Évaluation annuelle des droits politiques et des libertés civiques à Taïwan par une organisation internationale de défense des droits humains. Voir également [Commission électorale centrale — Résultats du référendum de 2018](https://web.cec.gov.tw/) pour les résultats complets des propositions n° 10 et n° 14.
 
-Taïwan occupe une place de choix dans les classements internationaux relatifs aux droits humains. Freedom House le classe parmi les pays « libres », et ses indices d'égalité des genres le placent en tête du continent asiatique. La légalisation du mariage pour tous a été saluée par les organisations internationales de défense des droits humains. L'expérience taïwanaise de justice transitionnelle est désormais étudiée et citée comme un modèle de référence par d'autres pays en quête de réconciliation nationale.
+[^5]: [Loi sur l'égalité des genres au travail — Base de données juridique nationale](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030014) — Texte intégral de la révision des trois lois sur l'égalité des genres du 31 juillet 2023.
 
-## Sources
+[^6]: [Changement de sexe sans chirurgie — Fondation Awakening](https://www.awakening.org.tw/) — Jugement de l'affaire Xiao E de 2021 et discussions juridiques connexes.
 
-- [Mariage homosexuel à Taïwan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB)
-- [Justice transitionnelle — Wikipédia](https://zh.wikipedia.org/wiki/%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9)
+[^7]: [Affaire Dongchang de la Commission de justice transitionnelle — Wikipédia](https://zh.wikipedia.org/wiki/%E5%BC%B5%E5%A4%A9%E6%AC%BD) — Compte rendu complet de l'incident de Chang Tien-chin en septembre 2018.
 
-## Thèmes connexes
+## Pour aller plus loin
 
-- Système démocratique
+- [Commission pour la promotion de la justice transitionnelle](https://www.tjc.gov.tw/) — Institution officielle taïwanaise de justice transitionnelle
+- [Alliance pour la surveillance de l'application des pactes sur les droits humains](https://covenantswatch.org.tw/) — Surveillance de la mise en œuvre des pactes internationaux sur les droits humains à Taïwan

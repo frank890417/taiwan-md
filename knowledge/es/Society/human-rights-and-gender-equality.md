@@ -1,113 +1,99 @@
 ---
-title: 'Derechos Humanos e Igualdad de Género'
-description: 'El camino progresista de Taiwán en la protección de los derechos humanos y la igualdad de género, desde las violaciones de derechos humanos autoritarias hasta convertirse en pionero de los derechos humanos en Asia'
+title: 'Derechos humanos y igualdad de género'
+description: 'El progreso de Taiwán en materia de protección de derechos humanos e igualdad de género, desde las violaciones de derechos humanos bajo el régimen autoritario hasta convertirse en pionero de los derechos humanos en Asia'
 date: 2026-03-17
+author: 'Taiwan.md Contributors'
 category: 'Society'
+subcategory: '人權與平等'
 tags:
   [
-    'society',
-    'human rights',
-    'gender equality',
-    'same-sex marriage',
-    'transitional justice',
+    'Society',
+    'Derechos humanos',
+    'Igualdad de género',
+    'Matrimonio homosexual',
+    'Justicia transicional',
   ]
-subcategory: '人權與平等'
-author: 'Taiwan.md'
-featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-created: 2026-03-17
-readingTime: 9
+featured: false
 translatedFrom: 'Society/人權與性別平等.md'
-sourceCommitSha: '3e53281a'
-sourceContentHash: 'sha256:814b451ca9006dad'
-sourceBodyHash: 'sha256:a6995e962160e803'
-translatedAt: '2026-05-10T00:00:00Z'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:22a18952ed1d65bb'
+sourceBodyHash: 'sha256:8495c26241a6b1ab'
+translatedAt: '2026-05-15T15:39:40+08:00'
 ---
 
-# Derechos Humanos e Igualdad de Género
+# Derechos humanos y igualdad de género
 
-> **Resumen en 30 segundos:** Taiwán ha evolucionado de las violaciones de derechos humanos bajo el gobierno autoritario a convertirse en la nación líder de Asia en protección de derechos humanos. A través de hitos que incluyen la justicia transicional para los legados autoritarios, la legislación de igualdad de género y la legalización del matrimonio entre personas del mismo sexo, Taiwán ha establecido un sistema integral de protección de derechos humanos, convirtiéndose en un indicador importante de los valores democráticos y de derechos humanos en Asia.
+> **Resumen en 30 segundos:** Taiwán pasó de las violaciones de derechos humanos en la era autoritaria a convertirse en un país líder en la protección de los derechos humanos en Asia. A través de la justicia transicional para abordar el legado del autoritarismo, la promoción de legislación sobre igualdad de género y la legalización del matrimonio homosexual, entre otros hitos, se ha convertido en un referente importante de los valores democráticos y de derechos humanos en Asia.
 
-## Por qué es importante
+El desarrollo de los derechos humanos en Taiwán ha atravesado tres etapas: represión autoritaria, transición democrática y garantía de derechos. Desde la memoria traumática del Incidente del 28 de Febrero y el Terror Blanco, pasando por el establecimiento gradual de mecanismos de protección de derechos humanos tras el levantamiento de la ley marcial, hasta los avances revolucionarios de los últimos años, como la promoción de la justicia transicional y la legalización del matrimonio homosexual. En 2009, Taiwán incorporó el _Pacto Internacional de Derechos Civiles y Políticos_ (ICCPR) y el _Pacto Internacional de Derechos Económicos, Sociales y Culturales_ (ICESCR) a su legislación nacional, estableciendo un marco jurídico basado en estándares internacionales de derechos humanos.[^1]
 
-Los derechos humanos y la igualdad de género son indicadores cruciales de la madurez de una sociedad democrática. La experiencia de Taiwán demuestra cómo reconstruir valores de derechos humanos desde el trauma del gobierno autoritario y promover la igualdad de género dentro de la sociedad tradicional. Estos logros no solo mejoran la imagen internacional de Taiwán, sino que también proporcionan una referencia importante para el desarrollo de derechos humanos en otros países asiáticos.
+## Violaciones de derechos humanos durante el período autoritario
 
-## Visión general
+El Incidente del 28 de Febrero de 1947 causó decenas de miles de muertos y heridos. A este hecho le siguieron treinta y ocho años de gobierno bajo ley marcial (1949-1987), que constituyen el trauma más profundo en la historia moderna de los derechos humanos en Taiwán. Durante el período del Terror Blanco, los disidentes políticos fueron sometidos a juicios injustos, torturas, ejecuciones o largas penas de prisión. Casos políticos como el caso Lei Zhen y el Incidente de Formosa (1979) se convirtieron en símbolos representativos del régimen autoritario.[^2]
 
-El desarrollo de los derechos humanos en Taiwán ha pasado por tres fases: opresión autoritaria, transición democrática y protección de derechos. Desde los recuerdos traumáticos del Incidente del 28 de febrero y el Terror Blanco, hasta el establecimiento gradual de mecanismos de protección de derechos humanos después de levantarse la ley marcial, hasta el reciente progreso revolucionario que incluye la justicia transicional y la legalización del matrimonio entre personas del mismo sexo. En igualdad de género, Taiwán se ha transformado de una sociedad patriarcal tradicional a una sociedad favorable al género, estableciendo legislación integral contra la discriminación y políticas de integración de la perspectiva de género.
+Bajo el sistema de ley marcial, las libertades fundamentales —reunión, asociación, expresión, publicación, residencia y libre circulación— estaban restringidas. La jurisdicción militar se extendía a civiles, socavando la independencia judicial; el control del pensamiento social se ejercía mediante la censura cultural, generando un "efecto de cigarra helada" (autocensura generalizada).
 
-## Datos clave
+Tras el levantamiento de la ley marcial (1987), se avanzó progresivamente en la rehabilitación de casos injustos. La _Ley de Compensación por Casos de Rebelión y Espionaje Impropios durante el Período de Ley Marcial_ ofreció compensación a las víctimas. Los trabajos de historia oral y apertura de archivos también se desarrollaron a lo largo de las décadas posteriores, y esta labor de recuperación de la memoria constituyó la base documental para la posterior justicia transicional.
 
-- **Legalización del matrimonio entre personas del mismo sexo**: Se convirtió en el primer país asiático en reconocer el matrimonio entre personas del mismo sexo en 2019
-- **Promoción de la justicia transicional**: Comisión de Justicia Transicional establecida en 2018 para abordar veredictos injustos y violaciones de derechos humanos durante el período autoritario
-- **Marco legal de igualdad de género**: Sistema legal integral que incluye la Ley de Igualdad de Género en el Empleo y la Ley de Educación en Equidad de Género
-- **Clasificaciones internacionales**: Calificado como "Libre" por Freedom House, clasificándose entre los principales de Asia en igualdad de género
-- **Institución de derechos humanos**: Estableció la Comisión Nacional de Derechos Humanos bajo el Yuan de Control, cumpliendo con los estándares internacionales de derechos humanos
+## Proceso de justicia transicional
 
-## Contenido en profundidad
+En 2017, la _Ley para la Promoción de la Justicia Transicional_ estableció la base legal, y en 2018 la Comisión para la Promoción de la Justicia Transicional (促轉會) comenzó oficialmente sus operaciones, encargándose de la investigación de la verdad, la organización de archivos, la depuración legal y la recuperación de bienes partidistas obtenidos indebidamente durante el período autoritario.
 
-### Violaciones de derechos humanos durante el período autoritario
+En cuanto a la eliminación de símbolos autoritarios, se retiraron progresivamente varias estatuas de gobernantes autoritarios, y antiguos espacios de poder autoritario fueron reconvertidos en centros de educación sobre derechos humanos. El Parque Conmemorativo de la Antigua Cárcel Militar de Jingmei y el Parque Cultural de los Derechos Humanos de la Isla Verde son casos representativos.
 
-El **Incidente del 28 de febrero** (1947) y el posterior **Terror Blanco** causaron violaciones masivas de derechos humanos, con un estimado de decenas de miles de víctimas. Los disidentes políticos enfrentaron juicios impropios, tortura, ejecución o encarcelamiento a largo plazo. Casos políticos como el **caso Lei Zhen** y el **Incidente de Kaohsiung** se convirtieron en símbolos del gobierno autoritario.
+En el ámbito institucional, se estableció la Comisión Nacional de Derechos Humanos dentro del Control Yuan, un organismo independiente conforme a los "Principios de París" para supervisar la situación de los derechos humanos. La trayectoria de justicia transicional de Taiwán ofrece un caso de referencia práctico para otros países en transición democrática en Asia.[^3]
 
-El **sistema de ley marcial** restringió los derechos fundamentales del pueblo, incluida la libertad de reunión, asociación, expresión, publicación y movimiento. **Los tribunales militares** se extendieron a civiles, socavando la independencia judicial. **El control del pensamiento** a través de la censura cultural controló el pensamiento social, creando un "efecto escalofriante".
+## Igualdad de género y matrimonio homosexual
 
-### Reconstrucción de derechos humanos tras la democratización
+En materia de legislación sobre igualdad de género, la _Ley de Igualdad de Género en el Empleo_ garantiza la igualdad de género en el lugar de trabajo, la _Ley de Educación para la Igualdad de Género_ promueve la educación sobre igualdad de género en las escuelas, y la _Ley de Prevención del Acoso Sexual_ establece mecanismos de prevención. El sistema de cuotas de representación femenina impulsó significativamente la participación política de las mujeres, y la proporción de legisladoras en Taiwán se ha mantenido entre las más altas de Asia durante un período prolongado.
 
-**Anulación de casos injustos**: A partir de la década de 1980, los casos políticos fueron gradualmente anulados, con la "Ley de Compensación por Juicios Injustos sobre Cargos de Sedición y Espionaje durante el Período de Ley Marcial" proporcionando compensación a las víctimas. **Búsqueda de la verdad**: La verdad histórica fue reconstruida mediante historia oral, aperturas de archivos y otros métodos.
+**La legalización del matrimonio homosexual es el avance en derechos humanos que más atención internacional ha generado en Taiwán en los últimos años.** **El 24 de mayo de 2017, la Interpretación n.º 748 del Tribunal Constitucional** confirmó que la exclusión de las parejas del mismo sexo del Código Civil violaba el derecho constitucional a la igualdad, exigiendo la promulgación de legislación pertinente en un plazo de dos años. **El 24 de noviembre de 2018, los referéndums n.º 10, 11, 12, 14 y 15** reflejaron una clara división de la opinión pública: la pregunta 10 (limitar el matrimonio a un hombre y una mujer) obtuvo 7,65 millones de votos a favor y 2,90 millones en contra; la pregunta 14 (garantizar el matrimonio homosexual en el Código Civil) obtuvo 3,38 millones de votos a favor y 6,95 millones en contra. Estos resultados evidenciaron que la posición contraria al matrimonio homosexual fue claramente mayoritaria en los referéndums. El Legislativo respondió finalmente mediante la creación de una ley especial, y **el 17 de mayo de 2019 se aprobó la _Ley de Aplicación de la Interpretación n.º 748 del Tribunal Constitucional_**, convirtiendo a Taiwán en el primer país de Asia en legalizar el matrimonio homosexual.[^4]
 
-**Construcción institucional**: La Ley Básica de Protección de Derechos Humanos estableció una base legal, con la **Comisión Nacional de Derechos Humanos** establecida para supervisar las condiciones de derechos humanos. **Integración internacional**: Taiwán firmó múltiples convenciones internacionales de derechos humanos, domesticando los estándares internacionales de derechos humanos.
+Grupos conservadores como la Alianza por la Protección de la Familia y Fuerza Estable movilizaron a padres y comunidades religiosas antes y después de los referéndums, reflejando que las tensiones internas en la sociedad taiwanesa en torno a las cuestiones de género no desaparecieron con la aprobación de la legislación. **En enero de 2023**, el Legislativo enmendó la _Ley de Aplicación_ para permitir que las parejas del mismo sexo adoptaran conjuntamente hijos sin vínculo de consanguinidad, subsanando una laguna legal previa.
 
-### Proceso de justicia transicional
+**El 29 de mayo de 2020, la Interpretación n.º 791 del Tribunal Constitucional** declaró inconstitucional e inmediatamente inválido el artículo 239 del _Código Penal_ relativo al delito de adulterio, eliminando a nivel penal la regulación sexualizada de la autonomía sexual individual (en la práctica judicial, la tasa de denuncias por adulterio era notablemente más alta contra las mujeres), constituyendo un hito clave en la evolución de la legislación sobre igualdad de género.
 
-La **Ley de Justicia Transicional** (2017) estableció la base legal para la justicia transicional, con la **Comisión de Justicia Transicional** responsable de la investigación de la verdad, la organización de archivos y la limpieza legal. **Tratamiento de los activos obtenidos ilegalmente por partidos**: Persiguiendo activos de partidos políticos obtenidos indebidamente durante el período autoritario.
+## El movimiento #MeToo de 2023 y la reforma de las tres leyes de igualdad de género
 
-**Eliminación de símbolos autoritarios**: Eliminación de estatuas y emblemas de gobernantes autoritarios. **Transformación espacial**: Conversión de antiguos sitios autoritarios en lugares de educación en derechos humanos, como el Parque Memorial del Terror Blanco de Jing-Mei y el Parque Cultural de Derechos Humanos de Green Island.
+**Entre mayo y junio de 2023**, Taiwán vivió una oleada del movimiento #MeToo, que comenzó con acusaciones de acoso sexual por parte de trabajadoras del Partido Democrático Progresista (DPP) y se extendió rápidamente al ámbito político, académico, mediático y artístico, siendo denominado el "#MeToo taiwanés". Los acontecimientos impulsaron al Legislativo a aprobar, **el 31 de julio de 2023**, una reforma integral de la _Ley de Igualdad de Género en el Empleo_, la _Ley de Educación para la Igualdad de Género_ y la _Ley de Prevención del Acoso Sexual_ (conocidas conjuntamente como las "tres leyes de igualdad de género"), fortaleciendo las responsabilidades de empleadores y centros educativos, incrementando las sanciones e introduciendo mecanismos de investigación independiente por terceros.[^5]
 
-### Desarrollo de la igualdad de género
+La reforma de las tres leyes de igualdad de género también abordó la largamente criticada cuestión de la "falta de independencia en los mecanismos de gestión": anteriormente, los casos de acoso sexual eran investigados internamente por la propia institución a la que pertenecía el presunto agresor. La nueva legislación obliga a incorporar comités externos y amplía los plazos de presentación de quejas, lo que constituye un avance estructural en la legislación sobre igualdad de género en Taiwán.
 
-**Construcción del marco legal**: La Ley de Igualdad de Género en el Empleo (性別工作平等法) protege la igualdad de género en el lugar de trabajo, la Ley de Educación en Equidad de Género (性別平等教育法) promueve la educación en igualdad de género en el campus, y la Ley de Prevención del Acoso Sexual (性騷擾防治法) establece mecanismos de prevención. **Participación política**: La implementación de sistemas de cuotas para mujeres aumentó significativamente la participación política femenina.
+## Derechos de las personas transgénero y tensiones internas
 
-**Derechos LGBTQ**: Después de movimientos sociales a largo plazo, la interpretación del Tribunal Constitucional en 2017 confirmó los derechos al matrimonio entre personas del mismo sexo. En 2019, se aprobó la "Ley de Aplicación de la Interpretación Nº 748 del Yuan Judicial", convirtiendo a Taiwán en el primer país asiático en legalizar el matrimonio entre personas del mismo sexo.
+**La controversia sobre el cambio de sexo en documentos de identidad sin requisito quirúrgico** es uno de los temas más debatidos en materia de igualdad de género en Taiwán en los últimos años. En 2021, en el "caso de la Sra. Xiao E", el Tribunal Administrativo Superior de Taipéi dictaminó que la directiva del Ministerio de Salud y Bienestar que exigía cirugía de reasignación sexual para cambiar el marcador de género en documentos de identidad era inconstitucional, siendo la primera vez que la justicia taiwanesa reconocía la viabilidad legal del cambio de sexo sin cirugía. Este fallo generó divisiones dentro del feminismo: el movimiento transgénero defiende la autodeterminación de la identidad de género, mientras que algunas feministas radicales (denominadas TERF, _Trans-Exclusionary Radical Feminist_) expresan preocupación por el impacto en espacios exclusivos para mujeres (baños, vestuarios, competiciones deportivas, refugios). Esta tensión aún no ha alcanzado un consenso social, y el Ejecutivo aún no ha emitido estándares generales para el cambio de documentos.[^6]
 
-**Integración de la perspectiva de género**: Promoviendo la evaluación del impacto de género, requiriendo que la formulación de políticas considere las diferencias de género. **Género diverso**: Reconociendo identidades de género diversas y promoviendo la protección de los derechos de las personas transgénero.
+## El "incidente Dongchang" de la Comisión de Justicia Transicional en 2018
 
-### Cuestiones especiales de derechos humanos
+**En septiembre de 2018**, el subpresidente de la Comisión para la Promoción de la Justicia Transicional, Zhang Tianqing, fue grabado en una reunión interna mencionando la creación de un "Dongchang" (una referencia a la policía secreta imperial china) y el uso estratégico de las investigaciones de justicia transicional dirigidas contra un candidato político específico (Hou Youyi), lo que generó cuestionamientos públicos sobre la neutralidad política de la Comisión. Zhang Tianqing presentó su dimisión y la Comisión realizó una investigación interna, pero el incidente dañó gravemente la credibilidad de la Comisión y se convirtió en un caso de referencia negativa para el posterior avance del trabajo de justicia transicional.[^7]
 
-**Derechos de los pueblos indígenas**: La Ley Básica de los Pueblos Indígenas (原住民族基本法) estableció los derechos colectivos de los pueblos indígenas, promoviendo la demarcación de territorios tradicionales y la revitalización del idioma. **Derechos de los trabajadores migrantes**: Protegiendo las condiciones laborales básicas de los trabajadores extranjeros, aunque queda espacio para mejoras.
+## Asuntos pendientes
 
-**Derechos de los niños**: La Ley de Protección y Derechos del Bienestar de Niños y Jóvenes prohíbe el castigo corporal y establece mecanismos de denuncia. **Derechos de las personas con discapacidad**: Promoviendo la domesticación de la Convención sobre los Derechos de las Personas con Discapacidad y promoviendo la construcción de entornos sin barreras.
+En lo relativo a los pueblos indígenas, la _Ley Básica de Pueblos Indígenas_ establece derechos colectivos y promueve la delimitación de territorios tradicionales y la revitalización lingüística, aunque las controversias sobre territorios tradicionales y la práctica de la autonomía continúan en curso. En cuanto a los trabajadores migrantes extranjeros, aunque las condiciones laborales básicas están garantizadas, el sistema de tarifas de intermediación y las condiciones de libertad personal de los trabajadores migrantes siguen requiriendo mejoras.
 
-### Participación internacional en derechos humanos
+En el ámbito infantil, la _Ley de Bienestar y Protección de los Derechos de Niños y Adolescentes_ establece mecanismos de notificación obligatoria y prohíbe el castigo corporal por ley. En materia de personas con discapacidad, la _Convención sobre los Derechos de las Personas con Discapacidad_ (CRPD) ya ha sido incorporada a la legislación nacional mediante una ley de aplicación, y la construcción de entornos accesibles continúa en proceso.
 
-**Diplomacia de derechos humanos**: Participando en la sociedad internacional a través de valores de derechos humanos, apoyando los movimientos globales de democracia y derechos humanos. **Compartir experiencias**: Compartiendo experiencias de justicia transicional y democratización con otros países. **Rol de las ONG**: Las organizaciones de derechos humanos civiles de Taiwán participan activamente en redes internacionales de derechos humanos.
+En cuanto a la participación internacional, debido a la particularidad de su condición soberana, Taiwán no puede unirse formalmente a los mecanismos de derechos humanos de las Naciones Unidas, pero participa en debates internacionales sobre derechos humanos a través de vías no gubernamentales. La aplicación nacional de la CEDAW (_Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer_) ha sido reconocida positivamente por organizaciones internacionales de derechos humanos, y Freedom House clasifica a Taiwán como país "libre".
 
-**Desafíos y limitaciones**: Debido al estatus de soberanía especial de Taiwán, no puede unirse formalmente a los mecanismos de derechos humanos de la ONU, pero continúa participando a través de canales civiles. **Factor China**: Presión externa sobre el desarrollo de derechos humanos de Taiwán.
+## Referencias
 
-### Cuestiones pendientes
+[^1]: [Ley de Aplicación de los Dos Pactos — Base de Datos de Legislación del Ministerio de Justicia](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0040037) — _Ley de Aplicación del Pacto Internacional de Derechos Civiles y Políticos y del Pacto Internacional de Derechos Económicos, Sociales y Culturales_, en vigor desde 2009.
 
-**Reforma judicial**: Todavía hay margen para mejorar la credibilidad judicial y la protección de los derechos humanos. **Derechos digitales**: Enfrentando cuestiones emergentes de derechos humanos en la era de la información como la protección de datos personales y la libertad de Internet. **Discriminación social**: A pesar de las protecciones legales, la discriminación y el prejuicio a nivel social siguen por ser eliminados.
+[^2]: [Sitio web oficial de la Comisión para la Promoción de la Justicia Transicional](https://www.tjc.gov.tw/) — Institución gubernamental de justicia transicional, con investigaciones sobre violaciones de derechos humanos durante el período autoritario, base de datos de víctimas y archivos relacionados.
 
-**Derechos de inmigración**: La protección de derechos para nuevos inmigrantes, trabajadores migrantes y refugiados necesita fortalecimiento. **Derechos de cuidados a largo plazo**: La protección de los derechos humanos de los ancianos en una sociedad envejecida es cada vez más importante.
+[^3]: [Matrimonio homosexual en Taiwán — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB) — Proceso de legalización del matrimonio homosexual en Taiwán, incluyendo interpretaciones del Tribunal Constitucional, datos de referéndums y proceso legislativo.
 
-## Reconocimiento internacional
+[^4]: [Freedom House — Freedom in the World Taiwán](https://freedomhouse.org/country/taiwan/freedom-world/2024) — Evaluación anual de Freedom House sobre los derechos políticos y las libertades civiles en Taiwán. Véase también [Comisión Electoral Central — Resultados del referéndum de 2018](https://web.cec.gov.tw/) para los resultados completos de las preguntas 10 y 14.
 
-Taiwán tiene un desempeño excelente en las clasificaciones internacionales de derechos humanos, calificado como "Libre" por Freedom House, liderando Asia en índices de igualdad de género. **La legalización del matrimonio entre personas del mismo sexo** recibió grandes elogios de organizaciones internacionales de derechos humanos, y **la experiencia de justicia transicional** proporciona modelos de referencia para otros países.
+[^5]: [Ley de Igualdad de Género en el Empleo — Base de Datos de Legislación](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030014) — Texto completo de la reforma de las tres leyes de igualdad de género del 31/7/2023.
 
-## Lectura adicional
+[^6]: [Cambio de sexo sin cirugía en documentos de identidad — Fundación Awakening](https://www.awakening.org.tw/) — Sentencia del caso de la Sra. Xiao E de 2021 y debates legales relacionados.
 
-- [Same-sex marriage in Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Same-sex_marriage_in_Taiwan)
-- [Transitional justice - Wikipedia](https://en.wikipedia.org/wiki/Transitional_justice)
-- [Taiwan's Human Rights Report](https://www.humanrights.moj.gov.tw/)
-- [National Human Rights Commission](https://nhrc.cy.gov.tw/en/)
-- [Taiwan Association for Human Rights](https://www.tahr.org.tw/)
+[^7]: [Incidente Dongchang de la Comisión de Justicia Transicional — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BC%B5%E5%A4%A9%E6%AC%BD) — Registro completo del incidente de Zhang Tianqing en septiembre de 2018.
 
-## Temas relacionados
+## Lecturas complementarias
 
-- [democratic-system](/society/democratic-system)
-- [taiwan-democratization](/history/taiwan-democratization)
-
----
-
-_El viaje de los derechos humanos de Taiwán demuestra que las sociedades pueden superar los legados autoritarios para construir democracias inclusivas que respetan los derechos y sirven como faros para la región._
+- [Comisión para la Promoción de la Justicia Transicional](https://www.tjc.gov.tw/) — Institución oficial de justicia transicional de Taiwán
+- [Coalición de Supervisión de la Aplicación de los Pactos de Derechos Humanos](https://covenantswatch.org.tw/) — Supervisión de la implementación de los pactos internacionales de derechos humanos en Taiwán

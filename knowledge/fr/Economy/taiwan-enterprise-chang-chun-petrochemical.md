@@ -1,103 +1,119 @@
 ---
-title: 'Chang Chun Petrochemical : le géant discret de la chimie taïwanaise'
-description: "D'une petite usine à Tainan en 1949 à un groupe chimique mondial pesant 430 milliards de TWD — l'histoire d'un champion invisible qui refuse de s'introduire en Bourse et de s'endetter."
+title: 'Entreprise taïwanaise : Chang Chun Petrochemical'
+description: "D'une petite usine de Tainan en 1949 à un géant mondial de la chimie, l'histoire d'un champion caché qui refuse d'entrer en bourse et de s'endetter"
 date: 2026-03-20
-tags: ['Économie', 'Entreprise', 'Industrie pétrochimique', 'Chimie']
-subcategory: 'Portraits d'entreprises'
+author: 'Taiwan.md Contributors'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
-readingTime: 8
-featured: false
+subcategory: '企業列傳'
+tags: ['Economy', 'Entreprise', 'Pétrochimie', 'Chimie']
 lastVerified: 2026-03-20
-translatedFrom: "Economy/台灣企業：長春石化.md"
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:a4e3dd0ffdb02185'
-sourceBodyHash: 'sha256:36b0a9584ba9eefb'
-translatedAt: "2026-04-14T19:21:16+08:00"
+lastHumanReview: 'true'
+featured: 'false'
+translatedFrom: 'Economy/台灣企業：長春石化.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:52c5476d48498d3c'
+sourceBodyHash: 'sha256:908aaa826fb63ea3'
+translatedAt: '2026-05-15T15:39:40+08:00'
 ---
 
-> **En 30 secondes :** En 1949, Liao Ding-li fonde Chang Chun Chemical dans une modeste usine de Tainan. Soixante-quinze ans plus tard, le groupe affiche un chiffre d'affaires annuel de 430 milliards de TWD et emploie plus de 12 000 personnes dans 18 pays. Sa philosophie : jamais d'introduction en Bourse, jamais d'emprunt, 80 % des technologies développées en interne. Un champion invisible qui a su s'imposer face aux mastodontes européens et américains du secteur.
+> **En bref (30 secondes) :** En juillet 1949, Liao Ming-Kun, Lin Shu-Hung et Cheng Hsin-Yi fondent Chang Chun Chemical à Tainan avec un capital de 50 dollars américains. De cette modeste usine naît un groupe chimique mondial dont le chiffre d'affaires dépasse 40 milliards de dollars taïwanais. Fidèle depuis plus de soixante-dix ans à une philosophie de gestion « sans introduction en bourse, sans emprunts », le groupe mise sur une forte proportion de R&D interne. C'est l'un des rares champions cachés taïwanais à s'être taillé une place de choix face aux géants occidentaux de la chimie. [^1]
 
-Dans une zone industrielle du district d'Annan, à Tainan, se trouve une entreprise dont vous n'avez probablement jamais entendu le nom — et dont les produits sont pourtant entre vos mains. La coque de votre smartphone, les pièces de votre voiture, la semelle de vos chaussures de sport, les dispositifs médicaux : tout cela repose peut-être sur des matériaux chimiques fabriqués ici. Cette société dépasse les 400 milliards de TWD de chiffre d'affaires, ne s'est jamais introduite en Bourse, n'a jamais contracté d'emprunt bancaire significatif, et reste discrète depuis soixante-quinze ans. Elle s'appelle Chang Chun Petrochemical.
+Dans la zone industrielle d'Annan à Tainan, il existe une entreprise dont vous n'avez probablement jamais entendu parler, mais dont les produits se trouvent peut-être déjà entre vos mains. La coque de votre téléphone, les pièces de votre voiture, les semelles de vos chaussures de sport, voire certains dispositifs médicaux, utilisent vraisemblablement des matériaux chimiques qu'elle produit. Cette entreprise, dont le chiffre d'affaires dépasse 40 milliards de dollars taïwanais, n'a jamais été cotée en bourse et n'a jamais contracté de prêts. Depuis 75 ans, elle cultive la discrétion — elle s'appelle Chang Chun Petrochemical.
 
-## 1949 : un rêve chimique né dans le chaos
+## 1949 : Un rêve de chimie en temps de guerre
 
-En 1949, alors que la guerre civile chinoise fait rage et que Taïwan sort à peine de la période coloniale japonaise, un jeune homme nommé Liao Ding-li loue un petit atelier à Tainan et commence à produire des résines à usage industriel.
+En juillet 1949, Liao Ming-Kun, Lin Shu-Hung et Cheng Hsin-Yi s'associent avec 50 dollars américains pour établir une usine à Tainan et commencer à produire des résines industrielles. Les trois sont diplômés de l'École industrielle de Taipei à l'époque de la colonisation japonaise (aujourd'hui l'Université nationale de technologie de Taipei), et sont tous nés sous le signe du dragon — ce qui leur vaudra le surnom des « Trois Dragons » dans le milieu industriel. À cette époque, la quasi-totalité des matières premières chimiques utilisées à Taïwan sont importées. Leur objectif est simple : pour que Taïwan développe son industrie, il lui faut ses propres matériaux chimiques. [^1]
 
-Liao n'est pas ingénieur chimiste de formation, mais il part d'un constat simple : si Taïwan veut industrialiser son économie, il lui faut ses propres matières premières chimiques. À l'époque, presque tout est importé — coûteux et souvent indisponible. Il est convaincu que des produits de qualité trouveront forcément preneurs.
+Les débuts sont extrêmement difficiles. L'usine ne dispose que de quelques équipements rudimentaires, la qualité des produits est instable et les clients se font rares. Mais les trois fondateurs partagent un même trait de caractère : un refus intransigeant de transiger sur la qualité, quitte à perdre de l'argent pour maîtriser la technologie. Cette obstination pragmatique deviendra le socle de la culture d'entreprise de Chang Chun.
 
-Les débuts sont durs. L'atelier ne dispose que de quelques équipements rudimentaires, la qualité des produits reste instable, les clients se font rares. Mais Liao possède un trait de caractère qui ne le quittera jamais : il refuse de transiger. Il préfère perdre de l'argent plutôt que de livrer un produit médiocre, prendre du retard plutôt que de bâcler une technique.
+## L'obsession de l'autonomie technologique
 
-Ce perfectionnisme fondateur deviendra le socle de la culture d'entreprise de Chang Chun.
+Ce qui impressionne le plus chez Chang Chun, c'est son obsession pour la technologie. Dans une industrie chimique où l'efficacité des coûts prime, la plupart des entreprises choisissent d'acheter des technologies clés en main, mais Chang Chun insiste pour développer les siennes.
 
-## 80 % de technologies maison : une obsession qui paye
+Dans les années 1970, alors que les autres usines chimiques taïwanaises se cantonnent à la sous-traitance, Chang Chun investit déjà massivement en recherche et développement. Le consensus au sein de l'équipe fondatrice est clair : la technologie peut s'acheter, mais l'avantage concurrentiel, non.
 
-Ce qui distingue le plus Chang Chun dans le secteur, c'est son rapport à la technologie. Dans une industrie chimique obsédée par l'efficacité des coûts, la plupart des acteurs achètent des licences technologiques existantes. Chang Chun, elle, a choisi de développer les siennes.
+Cette décision est alors considérée comme du gaspillage. Les investissements en R&D sont lourds, risqués et à retour lent. Beaucoup estiment qu'une petite entreprise n'a pas besoin de tout cela. Mais Chang Chun tient bon, et les résultats prouvent que la direction prise était la bonne.
 
-Dès les années 1970, alors que d'autres usines taïwanaises se cantonnaient à la sous-traitance, Chang Chun investissait massivement en R&D. La conviction de Liao : « On peut acheter une technologie, mais on ne peut pas acheter un avantage concurrentiel. »
+Le groupe Chang Chun privilégie depuis longtemps une forte proportion de R&D interne. [^1] Cette accumulation technologique confère aux produits de Chang Chun un avantage différenciateur. Lorsque les clients ont des besoins spécifiques, Chang Chun est en mesure de proposer des solutions sur mesure, et non de simples produits standard.
 
-À l'époque, cette position était jugée irresponsable — investissement lourd, risque élevé, retour à long terme, et pour quoi ? Une PME n'a pas à faire ça. Liao a tenu bon. L'histoire lui a donné raison.
+## La philosophie obstinée : « Ni bourse, ni emprunts »
 
-Aujourd'hui, 80 % des technologies de produits et de procédés du groupe sont développées en interne — un ratio rarissime dans la chimie mondiale. Ces technologies ne confèrent pas seulement un avantage différenciant : elles permettent surtout de répondre aux demandes spécifiques des clients avec des solutions sur mesure, là où la concurrence dit simplement « nous n'avons que des produits standards ».
+Dans les années 1980, le marché boursier taïwanais décolle et de nombreuses entreprises s'introduisent en bourse pour financer leur expansion. La taille et la rentabilité de Chang Chun remplissent largement les conditions d'une introduction. Courtiers et banques d'investissement se pressent à sa porte, mais l'équipe fondatrice refuse catégoriquement.
 
-## « Ni Bourse ni dette » : une philosophie à toute épreuve
+Leur raisonnement est simple : « Entrer en bourse, c'est devoir rendre des comptes aux actionnaires, qui recherchent des profits à court terme, alors que la R&D exige des investissements de long terme. »
 
-Dans les années 1980, le marché boursier taïwanais s'emballe et les entreprises se précipitent vers l'introduction en Bourse pour lever des fonds et accélérer leur croissance. Chang Chun réunit toutes les conditions pour coter — résultats solides, taille significative. Les banques d'affaires et les courtiers se succèdent. Liao refuse à chaque fois.
+Plus « obstiné » encore : Chang Chun recourt très peu aux emprunts bancaires. À une époque où la plupart des entreprises s'endettent pour se développer, Chang Chun insiste sur une croissance autofinancée. Cela ralentit son rythme d'expansion, mais confère à l'entreprise une solidité remarquable face aux crises économiques.
 
-Son raisonnement tient en une phrase : « Entrer en Bourse, c'est répondre aux actionnaires. Les actionnaires veulent des résultats à court terme. Or la R&D demande des années. »
+Lors de la crise financière de 2008, de nombreuses usines chimiques se retrouvent en difficulté en raison d'un endettement excessif. Chang Chun, libérée de toute pression d'endettement, est au contraire en mesure d'investir contre-cyclique et de racheter certains concurrents en difficulté.
 
-Plus surprenant encore : Chang Chun utilise très peu le crédit bancaire. À une époque où la quasi-totalité des grandes entreprises se développent à coups d'effet de levier, le groupe grandit avec ses propres fonds. Plus lentement, certes — mais avec une solidité hors norme.
+## De Tainan à l'empire chimique mondial
 
-La crise financière de 2008 l'illustre parfaitement. Pendant que des usines chimiques lourdement endettées plongeaient dans les difficultés, Chang Chun, sans pression de dette, pouvait se permettre d'investir à contre-courant et de racheter des concurrents en difficulté.
+Dans les années 1990, tandis que les entreprises taïwanaises se tournent massivement vers la Chine continentale, Chang Chun commence à y établir des usines. Mais sa stratégie d'internationalisation a une particularité : il ne s'agit pas seulement de produire sur place, mais aussi d'y implanter des centres de R&D.
 
-## De Tainan au monde : construire un empire chimique
+Cette approche est alors perçue comme un risque de « fuite technologique », mais la logique de Chang Chun est la suivante : ce n'est qu'en comprenant en profondeur les besoins du marché local qu'il est possible de développer des produits véritablement adaptés.
 
-Dans les années 1990, au moment où les entrepreneurs taïwanais se tournaient massivement vers la Chine continentale, Chang Chun y implante ses premières usines. Mais sa stratégie d'internationalisation se distingue d'emblée : le groupe ne se contente pas de produire sur place — il y installe aussi des centres de R&D.
+Les faits lui donnent raison. Les équipes de R&D de Chang Chun en Chine ne servent pas seulement les clients chinois — elles développent aussi de nombreux produits qui connaîtront ensuite un succès sur les marchés mondiaux.
 
-À l'époque, beaucoup voyaient cela comme un risque de fuite technologique. Pour Chang Chun, la logique était inverse : comprendre les besoins locaux en profondeur est la seule façon de développer des produits vraiment adaptés.
+Aujourd'hui, le groupe Chang Chun est présent dans 18 pays, emploie plus de 12 000 personnes et réalise un chiffre d'affaires annuel supérieur à 43 milliards de dollars taïwanais. De la petite usine de Tainan au géant mondial de la chimie, cette métamorphose a pris 75 ans.
 
-Les faits ont validé cette approche. Les équipes R&D en Chine ont non seulement servi les clients locaux, mais ont également mis au point des produits qui ont ensuite réussi à l'international.
+## Le PVA : une première mondiale inattendue
 
-Aujourd'hui, le groupe Chang Chun est présent dans 18 pays, emploie plus de 12 000 personnes et réalise un chiffre d'affaires annuel supérieur à 430 milliards de TWD. De l'atelier de Tainan au groupe mondial : soixante-quinze ans de transformation.
+Parmi les nombreuses lignes de produits de Chang Chun, la « première mondiale » la plus emblématique est l'alcool polyvinylique (PVA, Polyvinyl Alcohol). Le PVA est largement utilisé dans les films, les fibres, les adhésifs et les films polarisants de qualité optique (un composant clé des écrans à cristaux liquides). Le groupe Chang Chun figure parmi les leaders mondiaux en termes de part de marché dans le segment du PVA pour films optiques, est l'un des plus grands producteurs mondiaux de PVA et constitue un fournisseur majeur pour les fabricants de panneaux au Japon, en Corée du Sud et à Taïwan. [^3]
 
-## Chang Chun est déjà dans votre quotidien
+Cette position repose sur des décennies d'accumulation de savoir-faire : contrôle qualité et optimisation des procédés sont indissociables. Les films optiques en PVA exigent des indicateurs techniques — distribution du poids moléculaire, degré d'alcoolyse — bien plus stricts que le PVA industriel, avec une marge d'erreur extrêmement réduite. Chang Chun a bâi sur ce parcours technologique un système de connaissances procédurales difficile à reproduire rapidement.
 
-L'activité de Chang Chun est essentiellement B2B — vous ne trouverez pas sa marque en rayon. Et pourtant, ses matériaux vous entourent.
+## Le secret de l'amont : la chaîne verticale du VAM au PVA
 
-Votre smartphone : le boîtier est peut-être en plastique technique Chang Chun ; les matériaux de protection des circuits intégrés, probablement en produits chimiques électroniques Chang Chun ; le chargeur, peut-être en matériaux ignifuges Chang Chun.
+La matière première directe du PVA est le monomère d'acétate de vinyle (VAM, Vinyl Acetate Monomer). Pour produire du PVA de qualité optique, le contrôle de la pureté du VAM constitue la première épreuve — la moindre impureté dans la matière première peut compromettre les performances de polarisation du produit fini.
 
-Votre voiture : du tableau de bord aux pièces moteur, les matériaux Chang Chun sont omniprésents. À l'ère des véhicules électriques, les matériaux haute température et haute isolation développés par le groupe jouent un rôle clé dans les systèmes de batteries.
+Chang Chun a choisi une voie rare : produire son propre VAM. Cela signifie que le groupe maîtrise les variables de qualité dès la source. Les fabricants qui achètent du VAM à l'extérieur ne peuvent ajuster leurs procédés que dans le cadre de spécifications prédéfinies ; Chang Chun, lui, peut définir les spécifications de la matière première au niveau moléculaire, puis adapter le procédé en conséquence. De la purification du VAM à la polymérisation du PVA, puis au revêtement des films optiques, cette chaîne est intégrée verticalement au sein du groupe, offrant aux fabricants de panneaux en aval un partenaire d'approvisionnement de long terme capable de co-définir les spécifications au niveau moléculaire. [^5]
 
-Vos chaussures de sport : le rebond de la semelle vient peut-être d'une formulation caoutchouc spéciale Chang Chun ; la résistance de la tige, peut-être d'un traitement de fibres Chang Chun.
+Acétaldéhyde (Acetaldehyde), acide acétique (Acetic Acid), acétate de vinyle (VAM) — cette chaîne fondamentale de la chimie du carbone est construite de bout en bout dans les usines de Chang Chun. Cette intégration verticale, de la matière première de base à la transformation de précision, confère à Chang Chun une structure de coûts marginaux radicalement différente de celle des fabricants se limitant à l'aval. C'est aussi l'une des raisons pour lesquelles Chang Chun a pu maintenir un approvisionnement stable lors des multiples fluctuations mondiales des prix des matières premières.
 
-C'est tout le paradoxe de la chimie B2B : vous ne la voyez pas, mais c'est elle qui porte la vie moderne.
+## Produits chimiques électroniques pour semi-conducteurs
 
-## Le défi de la transmission
+Le groupe Chang Chun est un fournisseur important de produits chimiques électroniques pour les procédés de fabrication de semi-conducteurs à Taïwan. Ses produits de qualité électronique comprennent : des solvants de haute pureté utilisés pour le nettoyage des procédés de fabrication de circuits intégrés, des produits chimiques pour photorésines, ainsi que des matériaux d'encapsulation au niveau des plaques de silicium (wafers). Les fonderies de semi-conducteurs comme TSMC exigent une pureté des produits chimiques électroniques atteignant le niveau des ppb (parties par milliard). L'accumulation de savoir-faire de Chang Chun en matière de procédés de haute purification lui permet d'accéder à cette chaîne d'approvisionnement aux barrières d'entrée extrêmement élevées. [^3]
 
-Chang Chun traverse aujourd'hui un tournant décisif. Le fondateur Liao Ding-li est décédé depuis plusieurs années ; l'entreprise est désormais dirigée par la deuxième, voire la troisième génération. Et les défis ne sont plus les mêmes.
+L'industrie des semi-conducteurs taïwanaise est concentrée dans le nord et le centre de Taïwan. Les multiples sites de production chimique de Chang Chun sur l'île bénéficient d'une proximité géographique avec ces pôles. Associée à une philosophie de production qui refuse l'externalisation des procédés critiques, cette présence fait de Chang Chun l'une des rares sources internes de produits chimiques électroniques dans la chaîne d'approvisionnement locale taïwanaise en semi-conducteurs.
 
-L'industrie chimique mondiale se transforme profondément. Les réglementations environnementales se durcissent, les exigences de développement durable des clients s'intensifient, et la transformation numérique redéfinit les modes de production.
+## Les matériaux Chang Chun dans votre téléphone
 
-Les nouvelles générations de Chang Chun doivent préserver l'esprit du fondateur tout en trouvant les réponses d'une époque nouvelle. Leur programme « Green Chemistry » développe des matériaux et des procédés plus respectueux de l'environnement ; leurs projets d'usines intelligentes intègrent IA et IoT pour améliorer l'efficacité de production.
+Les produits de Chang Chun, bien que principalement destinés au marché B2B et donc invisibles du grand public, se trouvent pourtant à portée de main.
 
-## L'avenir d'un champion invisible
+Votre smartphone : sa coque est probablement en plastique technique de Chang Chun ; les matériaux de protection des circuits imprimés sont peut-être des produits chimiques électroniques de Chang Chun ; le boîtier du chargeur est vraisemblablement en matériau ignifuge de Chang Chun.
 
-L'histoire de Chang Chun incarne une certaine vision de l'industrie manufacturière taïwanaise : ne pas chercher à être le plus grand, mais être le plus fort.
+Votre voiture : du tableau de bord aux pièces moteur, de nombreux composants peuvent utiliser des matériaux de Chang Chun. À l'ère des véhicules électriques, les matériaux haute résistance thermique et haute isolation développés par Chang Chun jouent un rôle clé dans les systèmes de batteries.
 
-Dans un secteur dominé par des géants comme BASF en Allemagne, DuPont aux États-Unis ou Mitsubishi Chemical au Japon, Chang Chun a su s'imposer sur des niches de marché — et même prendre la tête de certains segments. Pas en reproduisant le modèle des grands groupes, mais en jouant sa propre partition.
+Même vos chaussures de sport : l'élasticité de la semelle provient peut-être d'une formulation de caoutchouc spéciale de Chang Chun ; la durabilité de la tige est peut-être le résultat d'une technologie de traitement des fibres de Chang Chun.
 
-Cette réussite repose sur l'obsession technologique, l'exigence qualité et la foi dans le long terme. Dans un monde qui court après la rentabilité immédiate, la « lenteur » de Chang Chun s'est révélée être un atout.
+## Le défi de la relève
 
-L'industrie chimique de demain sera plus verte, plus intelligente, plus personnalisée. Avec 75 ans de capital technologique et une présence mondiale déjà établie, Chang Chun a toutes les cartes en main pour jouer un rôle central dans ce nouveau paysage.
+Le groupe Chang Chun est actuellement dirigé par la deuxième génération. Liao Long-Xing, fils de Liao Ming-Kun, en est le président. Le cofondateur Lin Shu-Hung était encore en vie en 2024, faisant de lui l'un des dirigeants en exercice les plus âgés de l'industrie chimique taïwanaise. Les défis auxquels fait face la nouvelle équipe de direction sont radicalement différents de ceux de l'époque fondatrice. [^2]
 
-Et surtout, Chang Chun démontre une vérité fondamentale : dans la compétition mondiale, les entreprises taïwanaises n'ont pas besoin d'être les plus grandes ni les mieux financées — elles ont besoin d'une technologie irréprochable et d'une conviction inébranlable.
+L'industrie chimique mondiale traverse des bouleversements profonds. Les réglementations environnementales se durcissent, les exigences des clients en matière de développement durable augmentent, et la transformation numérique redéfinit les modes de production.
 
-C'est ça, l'essence d'un champion invisible.
+La jeune génération de Chang Chun doit, tout en préservant l'esprit des fondateurs, trouver les réponses de la nouvelle ère. Le programme « chimie verte » qu'elle promeut vise à développer des matériaux et des procédés plus respectueux de l'environnement. Les projets d'usines intelligentes dans lesquels elle investit exploitent l'intelligence artificielle et l'Internet des objets pour améliorer l'efficacité de la production.
 
-## Sources
+## L'avenir d'un champion caché
 
-- [Site officiel du groupe Chang Chun](https://www.cgpc.com.tw/)
-- [Market Observation Post System : informations financières Chang Chun](https://mops.twse.com.tw/)
-- [Business Today : dossier sur le groupe Chang Chun](https://www.businesstoday.com.tw/)
-- [Bureau de l'industrie, MOEA : panorama de l'industrie chimique taïwanaise](https://www.moeaidb.gov.tw/)
-- [Taiwan Petrochemical Industry Association](https://www.tpcia.org.tw/)
+L'histoire de Chang Chun incarne une possibilité de l'industrie manufacturière taïwanaise : il n'est pas nécessaire d'être le plus grand, mais il faut être le plus fort.
+
+Dans un paysage mondial de la chimie dominé par des géants comme l'allemand BASF, l'américain DuPont ou le japonais Mitsubishi Chemical, Chang Chun, en tant qu'entreprise taïwanaise, a su s'imposer sur des segments de marché de niche et même occuper des positions de leadership dans certains domaines.
+
+Ce succès repose sur l'obsession technologique, la persévérance en matière de qualité et la foi dans le long terme. Le modèle de Chang Chun — faible endettement, investissements technologiques de long terme — a permis de maintenir une structure financière relativement stable à travers de multiples cycles économiques mondiaux.
+
+L'avenir de l'industrie chimique s'oriente vers des solutions plus écologiques, plus intelligentes et plus personnalisées. Fort de 75 ans d'accumulation technologique et d'un déploiement mondial, Chang Chun a l'opportunité de jouer un rôle encore plus important dans le nouveau paysage concurrentiel.
+
+Plus encore, Chang Chun prouve une chose : dans la compétition mondiale, une entreprise taïwanaise n'a pas nécessairement besoin de la plus grande envergure ou du plus grand volume de capitaux, mais elle doit disposer de la technologie la plus avancée et de la conviction la plus inébranlable.
+
+## Références
+
+[^1]: [Groupe Chang Chun — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%95%B7%E6%98%A5%E9%9B%86%E5%9C%98) — Historique du groupe Chang Chun, incluant les circonstances de sa fondation en 1949 par Liao Ming-Kun, Lin Shu-Hung et Cheng Hsin-Yi.
+
+[^2]: [Business Today : Dossier spécial Chang Chun Petrochemical](https://www.businesstoday.com.tw/article/category/80407/post/200806050022/) — Philosophie de gestion et planification de la relève du groupe Chang Chun.
+
+[^3]: [Site officiel du groupe Chang Chun](https://www.cgpc.com.tw/) — Portefeuille d'activités du groupe, implantation mondiale et présentation des technologies produits.
+
+[^4]: [Wikipédia : Alcool polyvinylique (PVA)](https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B9%99%E7%83%AF%E9%86%87) — Procédés de fabrication du PVA, domaines d'application et spécifications du PVA pour films optiques.
+
+[^5]: [Industrial Technology Research Institute : Développement de l'industrie chimique taïwanaise](https://www.itri.org.tw/) — Structure de l'industrie chimique taïwanaise, part de la R&D interne et analyse des tendances en matériaux haute performance.
