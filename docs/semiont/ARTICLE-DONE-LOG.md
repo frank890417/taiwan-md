@@ -59,6 +59,32 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 刈包 NEW — 2026-05-16 twmd-rewrite-daily routine（從福州虎咬豬到 BAO London 米其林符號 / Food / 系列第 1 篇）
+
+- **Article**: [knowledge/Food/刈包.md](../../knowledge/Food/刈包.md)
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式（Stage 0 §觀點成型 落檔 + Stage 1 deep research via general-purpose agent 50+ WebSearch + 6 WebFetch）
+- **核心矛盾**：「福州移民帶來的尾牙工人餐，怎麼變成 BAO London 的米其林符號」（Stage 1.4 從候選 A/B/C 收斂為 A，時間軸完整：1927 黃旺成日記 → 1955 源芳 → 2013 BAO → 2024 米其林四錨點）
+- **Hook（Title 三明治）**：「刈包：從福州虎咬豬到 BAO London 的米其林符號」
+- **品質**：4500 CJK chars (100% of 4500 門檻) / 28 footnote / 7 narrative H2（非編年體 / 場景或地名 anchor）/ Tier 2 metaphor 6 → 0 主動清理（重量級 → 資深 / 軌跡 → 發展）
+- **Research**: [reports/research/2026-05/刈包.md](../../reports/research/2026-05/刈包.md) — Stage 0 §觀點成型 完整六核心問題 + 7 品質維度 anchor + 50+ WebSearch 含跨源 verification 分級
+- **Hard gates 全過**：rewrite-stage-4 profile hard=0 warn=0 全綠 ✅ / 8 plugin 全 pass（frontmatter / format-structure / wikilink / link / cjk-punct / chronicle-lead / word-count / image-health）
+- **核心事實 source 鎖定**：
+  - 源芳 1955 / 吳黃義 / 華西街 17-2 號 / 米其林必比登 2020-2024（lordcat + margaret.tw + appletrees + mecocute 多源）
+  - 藍家 1992（**非 1971**，Stage 0 假設糾正）/ 藍鳳榮 / 母親食譜（Instagram + ETtoday + Michelin + Banbi）
+  - 1927 黃旺成日記「尾牙吃虎咬豬」（中研院臺史所出版品 + 觀光局推廣資料 + 民間轉述，引語標「據傳載」緩和）
+  - BAO London Erchen Chang 台北出身 + Slade UCL 2012 + Netil Market 2013 + Soho 2015-04-08（Apollo + Toast + Wikipedia + Picky Glutton + Grubstance 五源）
+  - David Chang 2004 Momofuku Noodle Bar + 自承 pork bun 源自北京烤鴨非 gua bao（NPR + Mashed + Resy + Wikipedia Momofuku 四源）
+  - Eddie Huang 2009-12 Baohaus + 2026-03 The Flower Shop 重開（Wikipedia + Resy 二源）
+- **避坑**：
+  - Stage 0 假設「喪禮辦桌刈包」習俗 → Stage 1 30+ queries 找不到 primary 民俗文獻 → 從文章 drop（unverified）
+  - 1927 黃旺成日記逐字引語只有民間轉述源（my-hito blog），中研院原檔網路無 full text → 引用改「據傳載」緩和
+  - 連珍刈包 / 神農生活 / 三國張飛割饅頭 / 福建泉州少數派起源說 → 全 single source 或無 source，未寫進文章
+  - 「謊言包進去」第三層尾牙寓意 single source（風傳媒）→ 標「如果這個解讀屬實」緩和
+- **媒體授權**：2 張 Wikimedia Commons CC BY 2.0（hero: 源芳 2023 by 王昱晴 / 中華民國總統府 / inline: LeoAlmighty steamed sandwich）/ aspect ratio 全 pass（hero 1.82 / inline 1.0）/ 圖片來源 section 完整 attribution
+- **Cross-link**：forward 5 條（台灣小吃 / 夜市文化 / 台灣辦桌文化 / 台灣米食文化 / 台灣鹽酥雞）/ reverse cross-link **DEFER**（cron 時間預算考量，留下次 polish）
+- **Issue 連動**：[#1013 台灣經典街頭小吃系列](https://github.com/frank890417/taiwan-md/issues/1013) progress comment 待 ship 後留言（系列尚有 5 篇待完成，issue 不 close）
+- **routine vitals**：refresh-pm 23:00 → rewrite-daily 00:00 順跑無漂移 / dashboard sync 已含 1068 紀柏豪 + 1066 綠島監獄 + 1067 nl 暫緩 finale 後狀態 / babel drift heal 22:35 完成 / 心臟器官 90↑ 維持
+
 ### 台灣傳統工藝與無形文化資產 NEW — 2026-05-15 twmd-rewrite-daily routine（人間國寶制度移植 / Culture / 文資法 2005/2016 演化）
 
 - **Article**: [knowledge/Culture/台灣傳統工藝與無形文化資產.md](../../knowledge/Culture/台灣傳統工藝與無形文化資產.md)
