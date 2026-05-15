@@ -1,8 +1,8 @@
 {
-  "totalArticles": 4247,
+  "totalArticles": 4249,
   "totalCategories": 20,
   "estimatedContributors": 57,
-  "totalTags": 5308,
+  "totalTags": 5148,
   "categories": [
     {
       "name": "es",
@@ -26,7 +26,7 @@
     },
     {
       "name": "History",
-      "count": 39
+      "count": 40
     },
     {
       "name": "Society",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Culture",
-      "count": 58
+      "count": 59
     },
     {
       "name": "People",
@@ -88,7 +88,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 73
+      "count": 76
     },
     {
       "name": "人物",
@@ -96,19 +96,15 @@
     },
     {
       "name": "企業",
-      "count": 54
-    },
-    {
-      "name": "기업",
-      "count": 29
+      "count": 60
     },
     {
       "name": "ODM",
-      "count": 27
+      "count": 26
     },
     {
-      "name": "경제",
-      "count": 27
+      "name": "기업",
+      "count": 26
     },
     {
       "name": "政治",
@@ -147,10 +143,6 @@
       "count": 21
     },
     {
-      "name": "TSMC",
-      "count": 20
-    },
-    {
       "name": "歷史",
       "count": 20
     },
@@ -159,8 +151,16 @@
       "count": 20
     },
     {
+      "name": "경제",
+      "count": 20
+    },
+    {
       "name": "역사",
       "count": 19
+    },
+    {
+      "name": "TSMC",
+      "count": 18
     },
     {
       "name": "台灣文化",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4247,
+    "zh-TW": 4249,
     "en": 0
   },
-  "lastUpdated": "2026-05-15T05:40:04.958Z",
+  "lastUpdated": "2026-05-15T15:10:08.462Z",
   "stars": 989,
-  "forks": 146,
-  "zhPages": 3527,
+  "forks": 147,
+  "zhPages": 3529,
   "enPages": 720,
-  "totalPages": 4247
+  "totalPages": 4249
 }

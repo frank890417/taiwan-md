@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-15T16:42:13+08:00",
-    "zhCommitHead": "d46270462",
-    "totalZh": 700,
+    "lastUpdated": "2026-05-15T23:10:06+08:00",
+    "zhCommitHead": "893f9e9cc",
+    "totalZh": 701,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 700,
-        "fresh": 555,
-        "stale": 134,
-        "metadata_stale": 8,
-        "missing": 3,
-        "orphan": 0
-      },
-      "ja": {
-        "total_zh": 700,
-        "fresh": 550,
-        "stale": 138,
-        "metadata_stale": 8,
-        "missing": 4,
-        "orphan": 0
-      },
-      "ko": {
-        "total_zh": 700,
-        "fresh": 553,
-        "stale": 136,
-        "metadata_stale": 8,
-        "missing": 3,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 700,
+        "total_zh": 701,
         "fresh": 554,
         "stale": 135,
         "metadata_stale": 8,
-        "missing": 3,
+        "missing": 4,
         "orphan": 0
       },
-      "fr": {
-        "total_zh": 700,
+      "ja": {
+        "total_zh": 701,
         "fresh": 549,
         "stale": 139,
         "metadata_stale": 8,
+        "missing": 5,
+        "orphan": 0
+      },
+      "ko": {
+        "total_zh": 701,
+        "fresh": 552,
+        "stale": 137,
+        "metadata_stale": 8,
         "missing": 4,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 701,
+        "fresh": 553,
+        "stale": 136,
+        "metadata_stale": 8,
+        "missing": 4,
+        "orphan": 0
+      },
+      "fr": {
+        "total_zh": 701,
+        "fresh": 548,
+        "stale": 140,
+        "metadata_stale": 8,
+        "missing": 5,
         "orphan": 0
       }
     },
@@ -10635,10 +10635,10 @@
     },
     "Art/紀柏豪.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:8b8b961e07ccb199",
-        "bodyHash": "sha256:4548be6076ba4c32"
+        "lastCommit": "893f9e9c",
+        "lastModified": "2026-05-15T22:38:48+08:00",
+        "contentHash": "sha256:e9295abc417c9449",
+        "bodyHash": "sha256:deda308b17ff80b3"
       },
       "translations": {
         "en": {
@@ -10651,8 +10651,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+91 -37"
         },
         "ja": {
           "path": "ja/Art/chi-po-hao-musician.md",
@@ -10664,8 +10666,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+91 -37"
         },
         "ko": {
           "path": "ko/Art/chi-po-hao-musician.md",
@@ -10677,8 +10681,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+91 -37"
         },
         "es": {
           "path": "es/Art/chi-po-hao-musician.md",
@@ -10690,8 +10696,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+91 -37"
         },
         "fr": {
           "path": "fr/Art/chi-po-hao-musician.md",
@@ -10703,8 +10711,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+91 -37"
         }
       }
     },
@@ -44668,6 +44678,31 @@
           "inferred": false,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "History/綠島監獄.md": {
+      "zh": {
+        "lastCommit": "b162058d",
+        "lastModified": "2026-05-15T22:09:16+08:00",
+        "contentHash": "sha256:16ee9eafe9ce2684",
+        "bodyHash": "sha256:a34a73b78fd5609c"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },

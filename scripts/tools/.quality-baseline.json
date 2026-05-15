@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-05-15T05:40:05Z",
-  "total": 699,
-  "flagged": 414,
+  "timestamp": "2026-05-15T15:10:08Z",
+  "total": 701,
+  "flagged": 415,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -356,8 +356,8 @@
     },
     {
       "file": "art/紀柏豪.md",
-      "score": 6,
-      "reasons": "未人工審核; 連續bullet4行; 塑膠句1個; 破折號25個"
+      "score": 5,
+      "reasons": "空洞詞7個; 連續bullet4行; 破折號43個"
     },
     {
       "file": "art/台灣現代詩.md",
@@ -1653,6 +1653,11 @@
       "file": "history/台灣鐵道史.en.md",
       "score": 6,
       "reasons": "未人工審核; 後段清單堆砌41%; 引用荒漠(零腳註)"
+    },
+    {
+      "file": "history/綠島監獄.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句2個; 稀薄段落×3"
     },
     {
       "file": "history/湖口營區與勝利路記憶.md",
