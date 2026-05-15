@@ -2,7 +2,7 @@
 title: 'Le paysage sonore de Taïwan'
 description: 'De la Lettre à Élise des camions-poubelles au chant polyphonique des Bunun — reconnaître Taïwan par les oreilles'
 date: 2026-03-17
-subcategory: 'Musique traditionnelle'
+category: 'Music'
 tags:
   [
     'paysage sonore',
@@ -13,17 +13,17 @@ tags:
     'beiguan nanguan',
     'sons de rue',
   ]
-author: 'Taiwan.md Translation Team'
-readingTime: 10
+subcategory: 'Musique traditionnelle'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-category: 'Music'
+readingTime: 10
 translatedFrom: 'Music/台灣聲音地景.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:cbfdd904f2ae5e56'
-sourceBodyHash: 'sha256:903b8ccb1a4120d1'
-translatedAt: '2026-04-15T17:32:16+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f2429b5e23112189'
+sourceBodyHash: 'sha256:44f3bfcab12159eb'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 # Le paysage sonore de Taïwan
@@ -207,6 +207,12 @@ En 2018, le collectif Dahe Music a mené un projet d'enregistrement de terrain u
 - 🔢 **Le nanguan, un fossile vivant :** Il préserve des éléments musicaux des dynasties Tang et Song, l'une des plus anciennes traditions de musique de chambre d'Asie de l'Est — inscrit au patrimoine immatériel de l'UNESCO en 2009
 - 🔢 **Les cigales de Taïwan atteignent 90 décibels :** Le chant des cigales d'été équivaut au bruit d'un aspirateur — avec plus de 60 espèces, Taïwan abrite l'un des paysages de cigales les plus denses au monde
 - 🔢 **Le taïwanais a sept tons en usage :** C'est l'une des langues à tons les plus riches utilisées au quotidien dans le monde — chaque changement de ton change le sens du mot, la langue elle-même est une musique
+
+---
+
+**Lectures complémentaires** :
+
+- [Wang Fuyui](/people/王福瑞) — fondateur en 1993 du premier label de musique expérimentale de Taïwan, NOISE ; source de la généalogie Wang Fuyui, Yao Chung-han, Chang Yung-ta mentionnée dans la section « Art sonore » de cet article
 
 ---
 

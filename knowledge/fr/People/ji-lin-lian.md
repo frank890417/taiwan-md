@@ -2,20 +2,29 @@
 title: "Chi Lin-lien: From Chen Shui-bian's General to Vice Chair Calling for Han Kuo-yu's Expulsion"
 description: "On the afternoon of April 29, 2026, at the KMT Central Executive Committee meeting, 78-year-old Vice Chair Chi Lin-lien said in front of media cameras: 'Even if you beat me to death, I would never believe that Brother Guoyu would do something that betrays the party for personal glory. If such a thing happens, the Huang Xing Fu faction will surely step forward to extinguish the kin for the greater good and recommend expelling Brother Guoyu from the party.' This statement prompted Chen Shui-bian to sigh, 'I don't know he has changed so much,' because the person who promoted him to a two-star general 20 years ago was none other than Ah Bian."
 date: 2026-05-03
-tags: ['political figures', 'Kuomintang', 'Huang Xing Fu', 'retired generals', 'arms procurement controversy', '2026']
 category: 'People'
+tags:
+  [
+    'political figures',
+    'Kuomintang',
+    'Huang Xing Fu',
+    'retired generals',
+    'arms procurement controversy',
+    '2026',
+  ]
 subcategory: 'Political Figures'
 author: 'Taiwan.md'
-difficulty: 'intermediate'
-readingTime: 12
 featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
+difficulty: 'intermediate'
+readingTime: 12
 researchReport: 'reports/research/2026-05/Chi Lin-lien.md'
 translatedFrom: 'People/季麟連.md'
-sourceCommitSha: 'de5c259c'
-sourceContentHash: 'sha256:a917fc553946c504'
-translatedAt: '2026-05-04T01:05:12+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:e096cf547c4b743c'
+translatedAt: '2026-05-13T01:08:41Z'
+sourceBodyHash: 'sha256:94870d211f5fa515'
 ---
 
 # Chi Lin-lien: From Chen Shui-bian's General to Vice Chair Calling for Han Kuo-yu's Expulsion

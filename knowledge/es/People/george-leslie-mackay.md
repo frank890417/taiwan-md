@@ -2,9 +2,7 @@
 title: 'Preferir consumirse antes que oxidarse: Mackay y su amada Formosa'
 description: 'Desde la extracción de veinte mil dientes hasta la fundación de la primera escuela para niñas, el misionero canadiense Mackay se convirtió en un "taiwanés de pura cepa" y reescribió con treinta años de vida la historia de la medicina, la educación y la exploración científica en el norte de Taiwán.'
 date: 2026-03-31
-author: 'Taiwan.md Contributors'
-category: People
-subcategory: '歷史人物'
+category: 'People'
 tags:
   [
     'Mackay',
@@ -14,14 +12,16 @@ tags:
     'Educación',
     'Ciencias naturales',
   ]
+subcategory: '歷史人物'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 lastVerified: 2026-03-31
 lastHumanReview: true
-translatedFrom: People/馬偕.md
-sourceCommitSha: c018a424
-sourceContentHash: sha256:96659af055b707e8
-sourceBodyHash: 'sha256:eca40022361b6a3e'
-translatedAt: 2026-05-02T13:31:21+08:00
+translatedFrom: 'People/馬偕.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:b7d6932f284b6cf0'
+sourceBodyHash: 'sha256:d3315bfee0561cb1'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 > **Panorama en 30 segundos:**

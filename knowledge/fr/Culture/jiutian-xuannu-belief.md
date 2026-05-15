@@ -1,19 +1,27 @@
 ---
-title: 'Jiutian Xuannü : de conseillère militaire de l'Empereur Jaune à déesse tutélaire des jeunes troupes de temple à Taïwan'
-description: 'Un directeur de troupe de temple sans diplôme supérieur, humilié pendant des années par les évaluateurs du ministère de la Culture, a mis 11 ans à décrocher un doctorat — uniquement pour prouver qu'apprendre la batterie à des décrocheurs scolaires est bien un art. Derrière lui se tient une déesse qui enseignait l'art de la guerre il y a quatre mille ans.'
+title: "Jiutian Xuannü : de conseillère militaire de l'Empereur Jaune à déesse tutélaire des jeunes troupes de temple à Taïwan"
+description: "Un directeur de troupe de temple sans diplôme supérieur, humilié pendant des années par les évaluateurs du ministère de la Culture, a mis 11 ans à décrocher un doctorat — uniquement pour prouver qu'apprendre la batterie à des décrocheurs scolaires est bien un art. Derrière lui se tient une déesse qui enseignait l'art de la guerre il y a quatre mille ans."
 date: 2026-03-27
-tags: [Jiutian Xuannü, troupes de temple, Nine Heaven Folk Arts Troupe, croyances populaires, culture des temples, Hsu Chen-jung]
-subcategory: 'Religion et folklore'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
-readingTime: 12
+tags:
+  [
+    'Jiutian Xuannü',
+    'troupes de temple',
+    'Nine Heaven Folk Arts Troupe',
+    'croyances populaires',
+    'culture des temples',
+    'Hsu Chen-jung',
+  ]
+subcategory: 'Religion et folklore'
+author: 'Taiwan.md'
 featured: false
-translatedFrom: "Culture/九天玄女信仰.md"
 lastVerified: 2026-03-27
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:c7b34b7d400744b0"
-sourceBodyHash: 'sha256:3470e36661b8823f'
-translatedAt: "2026-04-14T12:33:38+08:00"
+translatedFrom: 'Culture/九天玄女信仰.md'
+readingTime: 12
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1910ee0829efda65'
+sourceBodyHash: 'sha256:def52197e717a6f7'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 > **En 30 secondes :** Jiutian Xuannü est la conseillère militaire de la mythologie chinoise qui aida l'Empereur Jaune à vaincre Chiyou. Après avoir traversé le détroit pour Taïwan, elle est devenue la patronne des fabricants d'encens, remplaçante du dieu des amours, déesse porte-bonheur aux examens — une divinité polyvalente à tout faire. Mais le chapitre le plus touchant de son histoire à Taïwan, c'est celui d'un homme nommé Hsu Chen-jung, sur les collines de Dadu à Taichung, qui a utilisé son nom pour recueillir des jeunes abandonnés par l'école, a hissé les troupes de temple au rang d'art de scène jusqu'au Lincoln Center de New York, et a inspiré un film qui a rapporté 320 millions de dollars taïwanais au box-office.

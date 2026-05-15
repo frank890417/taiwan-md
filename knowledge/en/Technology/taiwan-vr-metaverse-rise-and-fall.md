@@ -20,10 +20,10 @@ lastVerified: 2026-04-23
 featured: false
 lastHumanReview: false
 translatedFrom: 'Technology/台灣VR元宇宙興衰史.md'
-sourceCommitSha: '2c96c034'
-sourceContentHash: 'sha256:cfb9196e79bb6e49'
-sourceBodyHash: 'sha256:3f0b5464187691ec'
-translatedAt: '2026-05-01T08:56:11+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:59f706d4d55d0ff9'
+sourceBodyHash: 'sha256:e56340a36684b82b'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 > In 2016, HTC unveiled the consumer Vive at MWC Barcelona and Cher Wang declared it the "Year of VR." That same year, Taiwan saw its first VR/AR industry association, its first VR internet café, and its first VR theme park. Nine years later, in January 2025, HTC sold its XR research and development team to Google for $250 million. In the intervening years, Taiwanese artists won the Best VR Experience prize at the Venice Film Festival twice — yet Taiwan's VR hardware market share collapsed from 35% to below 2%. This is the story of an island's bet on the next big thing: its inflation, and its slow cooling.
@@ -230,7 +230,7 @@ Two rooms. One technology. Two futures.
 
 [^5]: [Business Next: 2016 Taiwan AR/VR Industry Year in Review](https://www.bnext.com.tw/article/42600/review-2016-taiwan-ar-vr-industry-key-events) — TAVAR founding, Geek Den, VR hackathon, and other 2016 events
 
-[^6]: [TAVAR Official Website](https://www.tavar.tw/about_tavar.aspx) — Association background and mission
+[^6]: [TAVAR Official Website](https://www.tavar.tw/about_tavar.aspx) — Association background and mission; see original link for details
 
 [^7]: [Business Next: 2016 Taiwan AR/VR Industry Year in Review](https://www.bnext.com.tw/article/42600/review-2016-taiwan-ar-vr-industry-key-events) — VR internet cafés, VIVELAND, theme park VR installations
 
@@ -252,7 +252,7 @@ Two rooms. One technology. Two futures.
 
 [^16]: [CNBC: VR Market Keeps Shrinking](https://www.cnbc.com/2023/12/19/vr-market-shrinking-as-meta-pours-billions-of-dollars-into-metaverse.html) — Meta Horizon Worlds' 300,000 MAU, global VR market contraction
 
-[^17]: [TechNews: Facebook Renames Itself Meta](https://finance.technews.tw/2021/11/07/zuckerberg-plan-is-not-just-for-metaverse/) — Analysis of Zuckerberg's rebranding motivations
+[^17]: [TechNews: Facebook Renames Itself Meta](https://finance.technews.tw/2021/11/07/zuckerberg-plan-is-not-just-for-metaverse/) — Analysis of Zuckerberg's rebranding motivations; see original link for details
 
 [^18]: [Economic Daily News: HTC Metaverse Platform VIVERSE Debuts](https://money.udn.com/money/story/5612/6143543) — VIVERSE unveiled at 2022 MWC
 

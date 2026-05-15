@@ -19,10 +19,10 @@ featured: true
 lastVerified: 2026-03-30
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: 'ecb173b1'
-sourceContentHash: 'sha256:39c821713935f8cf'
-sourceBodyHash: 'sha256:75e9dea7607dd460'
-translatedAt: '2026-04-14T04:41:25+08:00'
+sourceCommitSha: '9c91f365'
+sourceContentHash: 'sha256:44244a287820de65'
+sourceBodyHash: 'sha256:4fe433074ad9b614'
+translatedAt: '2026-05-13T01:08:20Z'
 ---
 
 # 대만의 의료 시스템과 전민건강보험
@@ -129,6 +129,13 @@ translatedAt: '2026-04-14T04:41:25+08:00'
 
 ---
 
+**추가 읽을거리**
+
+- [의료법](/society/醫療法) — 건강보험법은 '급여'를 관할하고, 의료법은 '기관'을 관할한다. 두 법률이 함께 대만 의료 거버넌스 골격의 급여면과 기관면 이중 체계를 구성한다
+- [대만 동물용의약품 논쟁](/society/台灣動物用藥爭議) — 건강보험은 사람을 위한 것이지 동물을 위한 것이 아니다. 반려동물 의약품 논쟁은 건강보험 제도의 대조군으로, 건강보험도 없고 의약분업 체계도 갖추지 못하며 응급 산소조차 항목별로 기재해야 하는 또 다른 세계를 보여준다
+
+---
+
 ## 참고 자료
 
 - [위생복리부 중앙건강보험서](https://www.nhi.gov.tw/ch/np-3087-1.html)
@@ -137,4 +144,8 @@ translatedAt: '2026-04-14T04:41:25+08:00'
 - [報導者: 健保的崩時代](https://www.twreporter.org/topics/health-insurance-system-reform)
 - [PMC: An overview of the healthcare system in Taiwan](https://pmc.ncbi.nlm.nih.gov/articles/PMC3960712/)
 - [GeneOnline: 健保30載——結構性風險](https://geneonline.news/taiwan-national-health-insurance-30-years-series-1/)
-- [未來城市: 懲罰多花時間在個別病患的醫生？](https://futurecity.cw.com.tw/article/2509)
+- [未來城市: 懲罰多花時間在個別病患의醫生？](https://futurecity.cw.com.tw/article/2509)
+
+## 관련 주제
+
+대만사회복지 · IC카드 · 대만인구고령화 · 분급의료

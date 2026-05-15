@@ -20,10 +20,10 @@ lastVerified: 2026-04-23
 featured: false
 lastHumanReview: false
 translatedFrom: 'Technology/台灣VR元宇宙興衰史.md'
-sourceCommitSha: '2c96c034'
-sourceContentHash: 'sha256:cfb9196e79bb6e49'
-sourceBodyHash: 'sha256:3f0b5464187691ec'
-translatedAt: '2026-05-01T20:54:23+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:59f706d4d55d0ff9'
+sourceBodyHash: 'sha256:e56340a36684b82b'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 > En 2016, HTC presentó la versión comercial de Vive en el MWC de Barcelona y Wang Xuehong declaró el "año cero de la VR". Ese mismo año surgieron en Taiwán la primera asociación industrial de VR/AR, el primer cibercafé de VR y el primer parque temático de VR. Nueve años después, en enero de 2025, HTC vendió su equipo de I+D en XR a Google por 250 millones de dólares. Durante ese periodo, artistas taiwaneses ganaron dos veces el premio a la mejor experiencia de VR en el Festival de Cine de Venecia, pero la cuota de mercado de hardware de VR de Taiwán cayó del 35 % a menos del 2 %. Este artículo rastrea la apuesta, la inflación y el enfriamiento de toda una isla ante "el gran siguiente hito".

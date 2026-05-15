@@ -19,10 +19,10 @@ featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: 'ecb173b1'
-sourceContentHash: 'sha256:39c821713935f8cf'
-sourceBodyHash: 'sha256:75e9dea7607dd460'
-translatedAt: '2026-05-01T13:44:02+08:00'
+sourceCommitSha: '9c91f365'
+sourceContentHash: 'sha256:44244a287820de65'
+sourceBodyHash: 'sha256:4fe433074ad9b614'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 # Taiwan Healthcare and National Health Insurance
@@ -131,6 +131,7 @@ The future of this system depends on whether Taiwanese society is willing to ack
 
 **Further Reading**
 
+- [Medical Care Act](/society/醫療法) — The NHI Act governs "benefits" while the Medical Care Act governs "institutions"; the two laws together form the dual-track backbone of Taiwan's healthcare governance — covering both the benefits side and the institutional side
 - [Taiwan Animal Drug Controversy](/society/台灣動物用藥爭議) — NHI covers people, not animals; the controversy over veterinary pharmaceuticals is a counterpart to the NHI system, revealing a different world where there is no insurance, no complete pharmaceutical separation framework, and even emergency oxygen must be logged item by item
 
 ---

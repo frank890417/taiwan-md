@@ -9,11 +9,11 @@ lastVerified: 2026-03-30
 lastHumanReview: false
 featured: false
 readingTime: 8
-translatedFrom: People/柯文哲.md
-sourceCommitSha: 84e04168
-sourceContentHash: sha256:07cd9f09350b5c18
-sourceBodyHash: 'sha256:839cc4ab3eb7bf61'
-translatedAt: 2026-05-02T01:17:17+08:00
+translatedFrom: 'People/柯文哲.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f3f1641bd9815359'
+sourceBodyHash: 'sha256:639fe26edbc39449'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # Ko Wen-je

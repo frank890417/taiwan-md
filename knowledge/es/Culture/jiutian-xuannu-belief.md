@@ -3,7 +3,7 @@ title: 'Jiutian Xuannü: de consejera militar del Emperador Amarillo a diosa pro
 description: 'Un director de ferias de templos con solo estudios de secundaria, humillado durante más de una década por evaluadores del Consejo de Construcción Cultural, tardó 11 años en obtener un doctorado solo para demostrar que enseñar a tocar tambores a jóvenes que abandonaron la escuela también es arte. Detrás de él se alza una diosa que hace cuatro mil años enseñó al Emperador Amarillo a ganar guerras.'
 date: 2026-03-27
 author: 'Taiwan.md'
-category: Culture
+category: 'Culture'
 subcategory: '宗教與民俗'
 tags:
   [
@@ -18,11 +18,11 @@ readingTime: 12
 lastVerified: 2026-03-27
 lastHumanReview: false
 featured: false
-translatedFrom: Culture/九天玄女信仰.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:c7b34b7d400744b0
-sourceBodyHash: 'sha256:3470e36661b8823f'
-translatedAt: 2026-05-02T01:17:17+08:00
+translatedFrom: 'Culture/九天玄女信仰.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1910ee0829efda65'
+sourceBodyHash: 'sha256:def52197e717a6f7'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 > **Resumen en 30 segundos:** Jiutian Xuannü es la consejera militar de la mitología china que enseñó al Emperador Amarillo a derrotar a Chiyou. Tras cruzar el estrecho hacia Taiwán, se convirtió en la diosa patrona de la industria del incienso, sustituta de la diosa del amor y protectora para aprobar exámenes: una diosa para todo. Pero su capítulo más conmovedor en Taiwán es el de un hombre llamado 許振榮, en la montaña Dadu de Taichung, que usó su nombre para acoger a un grupo de jóvenes abandonados por el sistema escolar, transformó las procesiones religiosas de las ferias de templos en arte escénico que llegó al Lincoln Center de Nueva York, e inspiró una película que recaudó 320 millones de dólares taiwaneses.

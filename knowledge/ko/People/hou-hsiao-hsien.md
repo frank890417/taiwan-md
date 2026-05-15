@@ -19,10 +19,10 @@ readingTime: 15
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: '4a5b7958'
-sourceContentHash: 'sha256:6d8c55c9c5279972'
-sourceBodyHash: 'sha256:ef42d53af786cc39'
-translatedAt: '2026-05-02T08:58:00+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:16a0f8bff9cea010'
+sourceBodyHash: 'sha256:4bfda7146e522cab'
+translatedAt: '2026-05-13T01:08:20Z'
 ---
 
 # 허우샤오셴

@@ -20,10 +20,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 13
 translatedFrom: 'Music/台灣客家音樂.md'
-sourceCommitSha: '8751f0e4'
-sourceContentHash: 'sha256:4f118a4e26895bb3'
-sourceBodyHash: 'sha256:d4621ce04c34bfba'
-translatedAt: '2026-05-10T00:00:00Z'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:3b87aa65ad19f49e'
+sourceBodyHash: 'sha256:8c608b3ca113ca88'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # La música hakka de Taiwán: herencia cultural e innovación de la canción de montaña al rock

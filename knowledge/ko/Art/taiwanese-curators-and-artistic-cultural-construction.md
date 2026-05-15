@@ -10,10 +10,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:321e09715c3afee4'
-sourceBodyHash: 'sha256:3ddfebeada2ca7e5'
-translatedAt: '2026-04-14T09:31:15+08:00'
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:01e74babf94ac8da'
+sourceBodyHash: 'sha256:859c873057ee681d'
+translatedAt: '2026-05-13T01:08:20Z'
 ---
 
 # 대만의 큐레이터와 예술 문화 구축

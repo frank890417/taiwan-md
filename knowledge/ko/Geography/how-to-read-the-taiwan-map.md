@@ -25,10 +25,10 @@ readingTime: 10
 lastVerified: 2026-04-07
 lastHumanReview: true
 translatedFrom: 'Geography/台灣地圖怎麼讀.md'
-sourceCommitSha: 'e70c87a8'
-sourceContentHash: 'sha256:abbfc58a10b3e4aa'
-sourceBodyHash: 'sha256:19fd80a6deabc5cb'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:098044cbe17d84d6'
+sourceBodyHash: 'sha256:0dee5d4db7ae7893'
+translatedAt: '2026-05-13T01:08:20Z'
 ---
 
 # 대만 지도 읽는 법: 고구마에서 위성까지, 400년의 시선

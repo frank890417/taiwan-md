@@ -19,9 +19,9 @@ featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: 'ecb173b1'
-sourceContentHash: 'sha256:39c821713935f8cf'
-sourceBodyHash: 'sha256:75e9dea7607dd460'
+sourceCommitSha: '9c91f365'
+sourceContentHash: 'sha256:44244a287820de65'
+sourceBodyHash: 'sha256:4fe433074ad9b614'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

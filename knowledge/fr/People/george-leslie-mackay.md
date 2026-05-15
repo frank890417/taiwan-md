@@ -1,19 +1,28 @@
 ---
 title: 'Brûler plutôt que rouiller : George Mackay et Formose, son île bien-aimée'
-description: 'Deux mille dents arrachées, une école pour les femmes fondée de toutes pièces — comment ce missionnaire canadien est devenu un véritable Taïwanais, transformant en trente ans la médecine, l'éducation et les sciences naturelles du nord de Taïwan.'
-category: People
-subcategory: 'Personnages historiques'
-tags: [Mackay, Tamsui, histoire de Taïwan, médecine, éducation, sciences naturelles]
-author: 'Taiwan.md Translation Team'
+description: "Deux mille dents arrachées, une école pour les femmes fondée de toutes pièces — comment ce missionnaire canadien est devenu un véritable Taïwanais, transformant en trente ans la médecine, l'éducation et les sciences naturelles du nord de Taïwan."
 date: 2026-03-31
-readingTime: 8
+category: 'People'
+tags:
+  [
+    'Mackay',
+    'Tamsui',
+    'histoire de Taïwan',
+    'médecine',
+    'éducation',
+    'sciences naturelles',
+  ]
+subcategory: 'Personnages historiques'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-31
 lastHumanReview: true
-translatedFrom: "People/馬偕.md"
-sourceCommitSha: "c018a424"
-sourceContentHash: "sha256:96659af055b707e8"
-sourceBodyHash: 'sha256:eca40022361b6a3e'
-translatedAt: "2026-04-14T19:19:52+08:00"
+readingTime: 8
+translatedFrom: 'People/馬偕.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:b7d6932f284b6cf0'
+sourceBodyHash: 'sha256:d3315bfee0561cb1'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 > **En 30 secondes :**

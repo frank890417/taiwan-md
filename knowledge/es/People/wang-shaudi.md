@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:e928ad71bd98068d'
-sourceBodyHash: 'sha256:1301d595b3900dd8'
-translatedAt: '2026-05-02T08:50:00+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:585e0e43e012a49f'
+sourceBodyHash: 'sha256:e1c0f0613a0e3a84'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # Wang Shaudi: "El chico de la sexta década" y la revolución silenciosa de la televisión taiwanesa

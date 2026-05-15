@@ -17,10 +17,10 @@ readingTime: 7
 featured: false
 lastVerified: 2026-03-30
 translatedFrom: 'Art/植劇場.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:52ebdd617f88ce4b'
-sourceBodyHash: 'sha256:c47cc8538936b060'
-translatedAt: '2026-04-14T19:14:02+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:37996f439df838f6'
+sourceBodyHash: 'sha256:0818e9fb5c8333f5'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 # Q Series : comment un fabricant d'ordinateurs a planté les graines de la renaissance du drama taïwanais

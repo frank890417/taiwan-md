@@ -1,16 +1,28 @@
 ---
-title: "Tsai Ing-wen"
-description: "Première présidente de Taïwan (2016-2024), juriste en droit international du commerce, a fait adopter la première loi sur le mariage homosexuel en Asie, a présenté les excuses du gouvernement aux peuples autochtones, descendante du peuple Paiwan"
+title: 'Tsai Ing-wen'
+description: 'Première présidente de Taïwan (2016-2024), juriste en droit international du commerce, a fait adopter la première loi sur le mariage homosexuel en Asie, a présenté les excuses du gouvernement aux peuples autochtones, descendante du peuple Paiwan'
 date: 2026-03-17
-tags: ["personnalité", "Tsai Ing-wen", "présidente", "dirigeante", "démocratie", "politique", "peuples autochtones"]
-subcategory: "政治與民主"
+category: 'People'
+tags:
+  [
+    'personnalité',
+    'Tsai Ing-wen',
+    'présidente',
+    'dirigeante',
+    'démocratie',
+    'politique',
+    'peuples autochtones',
+  ]
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-04
-lastHumanReview: 2026-04-04
-translatedFrom: "People/蔡英文.md"
-sourceCommitSha: "c9138dca"
-sourceContentHash: "sha256:4bb37557e229f5c6"
-sourceBodyHash: "sha256:a47845d84d432cf6"
-translatedAt: "2026-05-03T23:14:07+08:00"
+lastHumanReview: true
+translatedFrom: 'People/蔡英文.md'
+sourceCommitSha: '790cd351'
+sourceContentHash: 'sha256:c83fd3ce9c9d29bb'
+sourceBodyHash: 'sha256:a99640d8582ca9af'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 # Tsai Ing-wen
@@ -29,7 +41,7 @@ Tsai Ing-wen est née le 31 août 1956 à l'hôpital Mackay de Taipei. Son père
 
 Son héritage ethnique est en lui-même un reflet de Taïwan : un mélange de souches hakka, minnan et paiwan. Sa grand-mère maternelle était d'ascendance paiwan, faisant d'elle la première présidente de l'histoire de Taïwan à avoir du sang autochtone. Son nom en langue paiwan est Tjuku[^3].
 
-Après avoir obtenu son diplôme de droit de l'université nationale de Taïwan en 1978, elle partit aux États-Unis. En 1980, elle obtint un master en droit de l'université Cornell, puis s'inscrivit à la London School of Economics and Political Science pour son doctorat. En 1984, elle soutint sa thèse intitulée *Unfair Trade Practices and Safeguard Actions*, sous la direction de Michael J. Elliott[^7].
+Après avoir obtenu son diplôme de droit de l'université nationale de Taïwan en 1978, elle partit aux États-Unis. En 1980, elle obtint un master en droit de l'université Cornell, puis s'inscrivit à la London School of Economics and Political Science pour son doctorat. En 1984, elle soutint sa thèse intitulée _Unfair Trade Practices and Safeguard Actions_, sous la direction de Michael J. Elliott[^7].
 
 > En 2019, sa thèse de doctorat devint une arme d'attaque politique — son existence même fut mise en doute. La London School of Economics publia une déclaration officielle en octobre 2019 confirmant l'authenticité du diplôme[^7]. Si la thèse n'avait pas été versée aux archives pendant trente-cinq ans, c'est simplement parce qu'elle n'en avait pas remis d'exemplaire à la bibliothèque à l'époque.
 
@@ -85,7 +97,7 @@ La stratégie de Tsai Ing-wen était de ne pas provoquer et de ne pas céder. El
 
 Le 20 mai 2024, Tsai Ing-wen quitta ses fonctions. Son vice-président, Lai Ching-te, avait remporté l'élection présidentielle de janvier de la même année — c'était la première fois que le Parti démocrate progressif remportait trois élections présidentielles consécutives, un fait sans précédent dans l'histoire démocratique de Taïwan[^12].
 
-Deux fois désignée parmi les cent personnalités les plus influentes du monde par le magazine *Time* (en 2016 et 2020)[^13]. Après son départ, elle effectua des visites en tant que personne privée en Lituanie, au Danemark et au Royaume-Uni.
+Deux fois désignée parmi les cent personnalités les plus influentes du monde par le magazine _Time_ (en 2016 et 2020)[^13]. Après son départ, elle effectua des visites en tant que personne privée en Lituanie, au Danemark et au Royaume-Uni.
 
 Elle avait deux chats — Tsai Xiangxiang (un tigré gris recueilli après un typhon en 2012) et Tsai Acai (un chat roux trouvé à Taitung en 2015)[^14]. Elle ne se maria jamais. Durant la campagne de 2016, l'agence de presse chinoise Xinhua publia un commentaire suggérant que « les femmes célibataires ont des émotions instables », ce qui fut largement condamné comme discrimination sexiste[^14].
 
@@ -100,6 +112,8 @@ Tsai Ing-wen prouva en huit ans une chose : une femme politique de type universi
 - [Mouvement du Tournesol](/society/太陽花學運) — Le mouvement social de 2014 qui transforma la carte politique de Taïwan
 - [Chou Tzu-yu](/people/周子瑜) — Les 90 secondes de vidéo d'excuses la veille de l'élection de 2016, qui déclenchèrent la réplique de Tsai Ing-wen dans son discours de victoire : « personne ne devrait s'excuser pour son identité »
 - [Chia Yong-chieh](/people/賈永婕) — L'autre bout de l'appel de juin 2021 avec la « beauté à 120 % » ; la collecte de fonds pour les HFNC fut une rare synchronisation entre la mobilisation citoyenne et le système présidentiel
+- [Taïwan et l'Eswatini](/society/台灣與史瓦帝尼) — les deux visites de Tsai en Eswatini (2018 + 2023) correspondent aux deux phases des relations diplomatiques taïwano-swatini : 55e anniversaire et signature personnelle du fonds de microcrédit pour l'entrepreneuriat féminin
+- [Think Forum](/society/想想論壇) — plateforme d'opinion de la Fondation Small Light créée par Tsai après sa défaite électorale de 2012, relancée en octobre 2025, cinq mois après son départ
 
 ## Références
 

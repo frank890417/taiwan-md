@@ -2,26 +2,27 @@
 title: 'Ko Wen-je'
 description: "Du pionnier de l'ECMO à la figure de la troisième voie politique : l'histoire tumultueuse du premier maire de Taipei sans étiquette partisane"
 date: 2026-03-30
+category: 'People'
 tags:
   [
-    personnalité,
-    politique,
-    maire de Taipei,
-    Parti populaire de Taïwan,
-    médecin,
-    troisième voie,
+    'personnalité',
+    'politique',
+    'maire de Taipei',
+    'Parti populaire de Taïwan',
+    'médecin',
+    'troisième voie',
   ]
 subcategory: 'Politique et démocratie'
-category: 'People'
-author: 'Taiwan.md Translation Team'
-readingTime: 8
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30
+lastHumanReview: false
+readingTime: 8
 translatedFrom: 'People/柯文哲.md'
-sourceCommitSha: '84e04168'
-sourceContentHash: 'sha256:07cd9f09350b5c18'
-sourceBodyHash: 'sha256:839cc4ab3eb7bf61'
-translatedAt: '2026-04-14T19:15:55+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f3f1641bd9815359'
+sourceBodyHash: 'sha256:639fe26edbc39449'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 # Ko Wen-je

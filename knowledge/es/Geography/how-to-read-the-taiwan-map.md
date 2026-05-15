@@ -24,11 +24,11 @@ featured: false
 readingTime: 10
 lastVerified: 2026-04-07
 lastHumanReview: true
-translatedFrom: Geography/台灣地圖怎麼讀.md
-sourceCommitSha: e70c87a8
-sourceContentHash: sha256:abbfc58a10b3e4aa
-sourceBodyHash: 'sha256:19fd80a6deabc5cb'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedFrom: 'Geography/台灣地圖怎麼讀.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:098044cbe17d84d6'
+sourceBodyHash: 'sha256:0dee5d4db7ae7893'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 > **Panorama en 30 segundos:** Los mapas de Taiwán no son solo geografía; son la evidencia de cómo distintas personas «han visto esta isla» a lo largo de cuatrocientos años. En 1554, los portugueses dibujaron una difusa «I. Fremosa»; en 1714, Kangxi envió a jesuitas a cartografiar la isla, pero solo dibujaron la mitad occidental —el este era territorio de los pueblos indígenas, fuera del alcance del emperador, así que no lo dibujaron—; durante el periodo japonés, la triangulación produjo los mapas topográficos más precisos de toda la isla; hoy, el Taiwán que ves en Google Maps desde China no es el mismo que ves desde Taipéi. Un mapa nunca se limita a representar el terreno: representa el poder.

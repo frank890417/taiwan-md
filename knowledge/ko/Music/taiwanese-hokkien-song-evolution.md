@@ -21,10 +21,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: '8751f0e4'
-sourceContentHash: 'sha256:a97c2de5935f84d1'
-sourceBodyHash: 'sha256:29498f1ec67dd86e'
-translatedAt: '2026-05-10T12:00:00Z'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:622a389cac4436c3'
+sourceBodyHash: 'sha256:37d24845bd7d42b6'
+translatedAt: '2026-05-13T01:08:20Z'
 ---
 
 # 대만 타이위 노래의 변천: 어르신 노래에서 인디 팬의 사랑으로

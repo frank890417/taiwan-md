@@ -23,10 +23,10 @@ author: 'Taiwan.md'
 featured: false
 readingTime: 10
 translatedFrom: 'Geography/台灣地圖怎麼讀.md'
-sourceCommitSha: 'e70c87a8'
-sourceContentHash: 'sha256:abbfc58a10b3e4aa'
-sourceBodyHash: 'sha256:19fd80a6deabc5cb'
-translatedAt: '2026-05-01T13:44:02+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:098044cbe17d84d6'
+sourceBodyHash: 'sha256:0dee5d4db7ae7893'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 > **30-second overview:** Taiwan's maps are not merely geography — they are four hundred years of evidence for how different people have "seen" this island. In 1554, the Portuguese drew a blurry "I. Fremosa." In 1714, the Kangxi Emperor sent Jesuits to survey the island, but they drew only the western half — the east belonged to indigenous peoples, beyond the emperor's reach, so it was not drawn. During the Japanese colonial period, triangulation produced the most accurate topographic maps ever made of the full island. Today, the Taiwan you see on Google Maps in China looks different from the one you see in Taipei. Maps have never only represented terrain — they represent power.

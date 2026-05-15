@@ -2,25 +2,27 @@
 title: 'Kevin Lin (Lin Yi-jie)'
 description: 'From rejected track team tryouts to becoming the first person to run across the Sahara Desert on foot'
 date: 2026-03-22
-category: 'people'
+category: 'People'
 tags:
   [
-    people,
-    ultramarathon,
-    extreme expeditions,
-    athlete,
-    sahara desert,
-    taiwan pride,
+    'people',
+    'ultramarathon',
+    'extreme expeditions',
+    'athlete',
+    'sahara desert',
+    'taiwan pride',
   ]
 subcategory: 'Sports'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:b6c10d1de65584e0'
-sourceBodyHash: 'sha256:9539b3b7cc15f63e'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8741429d614846be'
+sourceBodyHash: 'sha256:3713eaac6b565ca6'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 > **30-second overview:** Kevin Lin (Lin Yi-jie), a skinny boy once threatened by his PE teacher to "not outrun the senior students,"

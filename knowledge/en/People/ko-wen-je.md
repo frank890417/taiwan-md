@@ -4,24 +4,25 @@ description: "The surgeon who rewrote Taiwan's political script — from ECMO pi
 date: 2026-03-29
 tags:
   [
-    People,
-    Politics,
-    Taipei Mayor,
-    Taiwan People's Party,
-    Physician,
-    Third Party,
+    'People',
+    'Politics',
+    'Taipei Mayor',
+    "Taiwan People's Party",
+    'Physician',
+    'Third Party',
   ]
 subcategory: 'Politics & Democracy'
 category: 'People'
+author: 'Taiwan.md'
 lastVerified: 2026-03-29
 lastHumanReview: false
 featured: false
 readingTime: 8
 translatedFrom: 'People/柯文哲.md'
-sourceCommitSha: '84e04168'
-sourceContentHash: 'sha256:07cd9f09350b5c18'
-sourceBodyHash: 'sha256:839cc4ab3eb7bf61'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f3f1641bd9815359'
+sourceBodyHash: 'sha256:639fe26edbc39449'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 # Ko Wen-je
@@ -117,4 +118,4 @@ Whether that space becomes a durable alternative force or a transitional moment 
 5. Ko Wen-je doctoral dissertation: _Extracorporeal membrane oxygenation: Clinical applications and prognosis projection_, NTU (2002) (primary)
 6. [維基百科 — 柯文哲](https://zh.wikipedia.org/wiki/%E6%9F%AF%E6%96%87%E5%93%B2) (secondary, Chinese)
 
-See also: [[Taiwan People's Party]], [[Lai Ching-te]], [[2024 Presidential Election]], [[Audrey Tang]], [[Tsai Ing-wen]].
+See also: Taiwan People's Party, Lai Ching-te, 2024 Presidential Election, Audrey Tang, Tsai Ing-wen.

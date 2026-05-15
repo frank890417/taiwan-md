@@ -20,9 +20,9 @@ lastVerified: 2026-03-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:5204a1234af866a0'
-sourceBodyHash: 'sha256:8280e871af75b399'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:97a6acec72ee0e79'
+sourceBodyHash: 'sha256:70ab08dbd7b43fbc'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

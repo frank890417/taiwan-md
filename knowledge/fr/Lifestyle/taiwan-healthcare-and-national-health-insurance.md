@@ -1,15 +1,14 @@
 ---
-title: 'Le système de santé taïwanais et l\'Assurance Maladie Universelle'
-description: 'Le paradoxe d\'une couverture à 99 % : classée première mondiale par Numbeo pendant six années consécutives, pourquoi l\'assurance maladie taïwanaise repose-t-elle sur l\'épuisement du personnel soignant ?'
+title: "Le système de santé taïwanais et l'Assurance Maladie Universelle"
+description: "Le paradoxe d'une couverture à 99 % : classée première mondiale par Numbeo pendant six années consécutives, pourquoi l'assurance maladie taïwanaise repose-t-elle sur l'épuisement du personnel soignant ?"
 date: 2026-03-30
 category: 'Lifestyle'
-subcategory: '醫療與健保'
 tags:
   [
     'Assurance Maladie Universelle',
     'système de santé',
     'carte à puce',
-    'réforme de l\'assurance maladie',
+    "réforme de l'assurance maladie",
     'qualité des soins',
     'accessibilité des soins',
     'protection sociale',
@@ -19,10 +18,10 @@ lastVerified: 2026-03-30
 lastHumanReview: false
 featured: true
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: 'ecb173b1'
-sourceContentHash: 'sha256:39c821713935f8cf'
-sourceBodyHash: 'sha256:75e9dea7607dd460'
-translatedAt: '2026-05-02T01:17:16+08:00'
+sourceCommitSha: '9c91f365'
+sourceContentHash: 'sha256:44244a287820de65'
+sourceBodyHash: 'sha256:4fe433074ad9b614'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 # Le système de santé taïwanais et l'Assurance Maladie Universelle

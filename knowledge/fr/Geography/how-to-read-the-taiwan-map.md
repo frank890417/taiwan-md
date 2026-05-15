@@ -2,33 +2,33 @@
 title: 'Lire une carte de Taïwan : quatre siècles de la patate douce au satellite'
 description: "En 1554, un cartographe portugais dessina sur huit peaux de mouton une île floue nommée « I. Fremosa ». Il n'y avait jamais mis les pieds. Quatre cent soixante-dix ans plus tard, la Taïwan que vous voyez sur Google Maps dépend de l'endroit où vous vous trouvez — ce n'est pas une question technique, c'est une question politique."
 date: 2026-04-07
+category: 'Geography'
 tags:
   [
-    géographie,
-    cartographie,
-    Taïwan,
-    cinq reliefs,
-    patate douce,
-    cartes historiques,
-    Kangxi,
-    peuples autochtones,
-    Kinmen,
-    Matsu,
-    territoire,
-    cartographie numérique,
+    'géographie',
+    'cartographie',
+    'Taïwan',
+    'cinq reliefs',
+    'patate douce',
+    'cartes historiques',
+    'Kangxi',
+    'peuples autochtones',
+    'Kinmen',
+    'Matsu',
+    'territoire',
+    'cartographie numérique',
   ]
-category: 'Geography'
 subcategory: 'Introduction à la géographie'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
-readingTime: 10
 lastVerified: 2026-04-07
 lastHumanReview: true
+readingTime: 10
 translatedFrom: 'Geography/台灣地圖怎麼讀.md'
-sourceCommitSha: 'e70c87a8'
-sourceContentHash: 'sha256:abbfc58a10b3e4aa'
-sourceBodyHash: 'sha256:19fd80a6deabc5cb'
-translatedAt: '2026-04-15T17:33:26+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:098044cbe17d84d6'
+sourceBodyHash: 'sha256:0dee5d4db7ae7893'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 > **En 30 secondes :** Une carte de Taïwan n'est pas seulement un document géographique — c'est le témoignage de quatre siècles de regards portés sur cette île. En 1554, les Portugais esquissèrent une vague « I. Fremosa » ; en 1714, l'empereur Kangxi envoya des jésuites lever les plans de l'île, mais ils n'en cartographièrent que la moitié occidentale — l'est appartenait aux peuples autochtones, hors de portée du Fils du Ciel, donc absent de la carte ; sous la domination japonaise, la triangulation topographique produisit les relevés les plus précis que l'île ait jamais connus ; aujourd'hui, la Taïwan visible sur Google Maps depuis la Chine n'est pas la même que celle visible depuis Taipei. Une carte n'a jamais été qu'un reflet du terrain — elle est d'abord un reflet du pouvoir.

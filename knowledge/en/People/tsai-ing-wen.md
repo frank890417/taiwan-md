@@ -1,5 +1,5 @@
 ---
-title: "Tsai Ing-wen"
+title: 'Tsai Ing-wen'
 description: "Taiwan's first female president (2016–2024), a scholar of international trade law by training, who oversaw Asia's first same-sex marriage legislation, formally apologized to Indigenous peoples on behalf the government, and is of Paiwan descent"
 date: 2026-03-17
 tags: [人物, 蔡英文, 總統, 女性領袖, 民主, 政治, 原住民族]
@@ -7,10 +7,10 @@ subcategory: '政治與民主'
 lastVerified: 2026-04-04
 lastHumanReview: 2026-04-04
 translatedFrom: People/蔡英文.md
-sourceCommitSha: c9138dca
-sourceContentHash: sha256:4bb37557e229f5c6
-sourceBodyHash: sha256:a47845d84d432cf6
-translatedAt: 2026-05-03T23:14:05+08:00
+sourceCommitSha: '790cd351'
+sourceContentHash: 'sha256:c83fd3ce9c9d29bb'
+sourceBodyHash: 'sha256:a99640d8582ca9af'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 # Tsai Ing-wen
@@ -29,7 +29,7 @@ Tsai Ing-wen was born on August 31, 1956, at Mackay Memorial Hospital in Taipei.
 
 Her ethnic background is itself a microcosm of Taiwan: Hakka, Hoklo, and Paiwan heritage intertwined. Through her grandmother's line, she has Paiwan ancestry, making her the first president of Taiwan with Indigenous heritage. Her Paiwan name is Tjuku.[^3]
 
-After graduating from NTU's law department in 1978, she went to the United States. In 1980 she received her LL.M. from Cornell University, then went on to pursue her doctorate at the London School of Economics. In 1984 she completed her doctoral dissertation, *Unfair Trade Practices and Safeguard Actions*, under the supervision of Michael J. Elliott.[^7]
+After graduating from NTU's law department in 1978, she went to the United States. In 1980 she received her LL.M. from Cornell University, then went on to pursue her doctorate at the London School of Economics. In 1984 she completed her doctoral dissertation, _Unfair Trade Practices and Safeguard Actions_, under the supervision of Michael J. Elliott.[^7]
 
 > In 2019, her dissertation became a weapon in a political attack—questions were raised about whether it even existed. The London School of Economics issued a formal statement in October 2019 confirming the degree was genuine and valid.[^7] The reason the dissertation had not been deposited in the library for thirty-five years was simply that she had not submitted a copy.
 
@@ -59,7 +59,7 @@ The two most historically significant moments of Tsai Ing-wen's presidency were 
 
 > "For the suffering and injustice endured over the past four hundred years, I apologize to you on behalf of the government."[^5]
 
-**May 24, 2019**—the *Judicial Yuan Interpretation No. 748 Enforcement Act* took effect. Taiwan became the first country in Asia to legalize same-sex marriage.[^4] Tsai wrote on Twitter: "In Taiwan, #LoveWins." On the first day, 526 same-sex couples registered their marriages.
+**May 24, 2019**—the _Judicial Yuan Interpretation No. 748 Enforcement Act_ took effect. Taiwan became the first country in Asia to legalize same-sex marriage.[^4] Tsai wrote on Twitter: "In Taiwan, #LoveWins." On the first day, 526 same-sex couples registered their marriages.
 
 Two signatures. One confronting four centuries of historical wounds, the other confronting a millennium of social taboo. Both provoked fierce backlash. The apology was criticized as "words without action," and the same-sex marriage law faced opposition in a referendum. But the signatures had already been made.
 
@@ -85,7 +85,7 @@ Tsai's strategy was to neither provoke nor concede. She did not declare independ
 
 On May 20, 2024, Tsai Ing-wen left office. Her vice president, Lai Ching-te, had won the presidential election the previous January—marking the first time the DPP won three consecutive presidential elections, unprecedented in Taiwan's democratic history.[^12]
 
-She was named to the *TIME* 100 Most Influential People twice (2016 and 2020).[^13] After leaving office, she visited Lithuania, Denmark, and the United Kingdom in a private capacity.
+She was named to the _TIME_ 100 Most Influential People twice (2016 and 2020).[^13] After leaving office, she visited Lithuania, Denmark, and the United Kingdom in a private capacity.
 
 She kept two cats—Tsai Xiang-xiang (a gray tabby rescued after a typhoon in 2012) and Tsai A-cai (an orange cat found in Taitung in 2015).[^14] She never married. During the 2016 campaign, China's Xinhua News Agency published a commentary implying that "unmarried women are emotionally unstable," which was widely condemned as sexist.[^14]
 
@@ -100,6 +100,9 @@ Tsai Ing-wen spent eight years proving one thing: a scholar-type politician who 
 - [Sunflower Student Movement](/society/太陽花學運) — The 2014 social movement that reshaped Taiwan's political landscape
 - [Chou Tzu-yu](/people/周子瑜) — The 90-second apology video on the eve of the 2016 election that prompted Tsai's victory speech line, "No one should have to apologize for their identity"
 - [Jenna Chiu](/people/賈永婕) — On the other end of that "120% beautiful girl" phone call in June 2021; the HFNC fundraising drive was a rare instance of synchronization between civil mobilization and the Presidential Office
+- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — Tsai's two visits to Eswatini (2018 + 2023), corresponding to the two phases of Taiwan-Eswatini diplomatic relations, the 55th anniversary commemoration, and the signing of the women's entrepreneurship microloan revolving fund
+- [Thinking Taiwan](/society/想想論壇) — The commentary platform under the Hsiao-Ying Education Foundation established by Tsai after her 2012 defeat; relaunched in October 2025, five months after her retirement
+- [Aaron Nieh (聶永真)](/people/聶永真) — The designer who created the main visuals for Tsai's 2016 "Light Up Taiwan" and 2020 presidential campaigns and inauguration ceremonies; another chapter in Taiwan's political design history
 
 ## References
 

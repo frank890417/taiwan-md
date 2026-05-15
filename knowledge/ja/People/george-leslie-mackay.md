@@ -10,10 +10,10 @@ readingTime: 8
 lastVerified: 2026-03-31
 lastHumanReview: true
 translatedFrom: People/馬偕.md
-sourceCommitSha: c018a424
-sourceContentHash: sha256:96659af055b707e8
-sourceBodyHash: 'sha256:eca40022361b6a3e'
-translatedAt: 2026-05-01T18:02:56+08:00
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:b7d6932f284b6cf0'
+sourceBodyHash: 'sha256:d3315bfee0561cb1'
+translatedAt: '2026-05-13T01:08:16Z'
 ---
 
 > **30秒でわかる概要：**

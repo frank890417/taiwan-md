@@ -18,10 +18,10 @@ lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'Art/植劇場.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:a4dd72c35e6cc743'
-sourceBodyHash: 'sha256:c47cc8538936b060'
-translatedAt: '2026-05-02T08:50:00+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:37996f439df838f6'
+sourceBodyHash: 'sha256:0818e9fb5c8333f5'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # Q-Series: cómo un fabricante de portátiles plantó la semilla del renacimiento de la teleserie taiwanesa

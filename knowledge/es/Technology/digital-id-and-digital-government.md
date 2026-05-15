@@ -19,11 +19,11 @@ readingTime: 12
 lastVerified: 2026-03-24
 lastHumanReview: false
 featured: true
-translatedFrom: Technology/數位身分證與數位政府.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:b4175e4786ecfd7b
-sourceBodyHash: 'sha256:ddd000a6b90bc6a2'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedFrom: 'Technology/數位身分證與數位政府.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:29bb34fbe5bc3139'
+sourceBodyHash: 'sha256:421fd13a4ac20718'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # Identidad digital y gobierno digital

@@ -2,23 +2,25 @@
 title: 'Annette Lu'
 description: 'De convicta de rebelión a vicepresidenta: la legendaria vida de la primera mujer vicepresidenta del mundo chino'
 date: 2026-03-22
+category: 'People'
 tags:
   [
-    Personaje,
-    Política,
-    Movimiento feminista,
-    Vicepresidenta,
-    Incidente de Kaohsiung,
+    'Personaje',
+    'Política',
+    'Movimiento feminista',
+    'Vicepresidenta',
+    'Incidente de Kaohsiung',
   ]
 subcategory: '政治與民主'
-category: 'people'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'People/呂秀蓮.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:809d857cd912d504'
-sourceBodyHash: 'sha256:6824251a06515b3a'
-translatedAt: '2026-05-02T01:17:17+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:4f2e975be9df55bf'
+sourceBodyHash: 'sha256:e2af78942d7ac0ac'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 > **Resumen en 30 segundos:** En 1979, Annette Lu fue condenada a 12 años de prisión por el Incidente de Kaohsiung; en 2000, se convirtió en la primera mujer vicepresidenta del mundo chino. Esta pionera del movimiento feminista taiwanés tardó 20 años en pasar de la cárcel a la presidencia, presenciando la transición completa de Taiwán de un régimen autoritario a la democracia.

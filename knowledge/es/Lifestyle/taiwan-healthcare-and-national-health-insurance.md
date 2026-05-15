@@ -9,11 +9,11 @@ author: Taiwan.md
 readingTime: 8
 featured: false
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: 'ecb173b1'
-sourceContentHash: 'sha256:39c821713935f8cf'
-sourceBodyHash: 'sha256:75e9dea7607dd460'
-translatedAt: '2026-04-14T12:25:09+08:00'
-category: Lifestyle
+sourceCommitSha: '9c91f365'
+sourceContentHash: 'sha256:44244a287820de65'
+sourceBodyHash: 'sha256:4fe433074ad9b614'
+translatedAt: '2026-05-13T01:08:31Z'
+category: 'Lifestyle'
 ---
 
 # Seguro Nacional de Salud

@@ -25,10 +25,10 @@ readingTime: 10
 lastVerified: 2026-04-07
 lastHumanReview: true
 translatedFrom: 'Geography/台灣地圖怎麼讀.md'
-sourceCommitSha: 'e70c87a8'
-sourceContentHash: 'sha256:abbfc58a10b3e4aa'
-sourceBodyHash: 'sha256:19fd80a6deabc5cb'
-translatedAt: '2026-05-01T19:52:32+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:098044cbe17d84d6'
+sourceBodyHash: 'sha256:0dee5d4db7ae7893'
+translatedAt: '2026-05-13T01:08:16Z'
 ---
 
 > **30秒概要：** 台湾の地図は単なる地理ではなく、四百年にわたる異なる人々が「この島をどう見てきたか」の証拠である。1554年、ポルトガル人が曖昧な「I. Fremosa」を描いた。1714年、康熙帝がイエズス会士に測量させたが、結果は西半分だけが描かれた——東は先住民族の領域であり、皇帝の支配が及ばないため描かなかった。日本統治時代には三角測量によって島全体で最も精密な地形図が作成された。今日、中国でGoogle Mapsを開いて見る台湾と、台北で見るものは違う。地図は常に地形を示すだけでなく、権力を示している。
@@ -158,7 +158,7 @@ translatedAt: '2026-05-01T19:52:32+08:00'
 
 [^11]: [Taiwan Strait — Wikipedia (EN)](https://en.wikipedia.org/wiki/Taiwan_Strait) — 台湾海峡中線の1955年の起源、2019年の座標公表、中国による存在否定。
 
-[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — 台湾ADIZの1954年米軍による設定、中国大陸上空への延伸、国際法上の根拠の不在。
+[^12]: [Air Defense Identification Zone (Taiwan) — Wikipedia (EN)](<https://en.wikipedia.org/wiki/Air_Defense_Identification_Zone_(Taiwan)>) — 台湾ADIZの1954年米軍による設定、中国大陸上空への延伸、国際法上の根拠の不在
 
 [^13]: [Marine Regions — Overlapping claim Taiwan](https://www.marineregions.org/eezdetails.php?mrgid=8321) — 台湾海峡大陸棚の水深と経済水域の重複紛争。
 

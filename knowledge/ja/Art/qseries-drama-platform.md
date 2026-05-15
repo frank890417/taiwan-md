@@ -11,9 +11,9 @@ lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 7
 translatedFrom: Art/植劇場.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:52ebdd617f88ce4b
-sourceBodyHash: 'sha256:c47cc8538936b060'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:37996f439df838f6'
+sourceBodyHash: 'sha256:0818e9fb5c8333f5'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 

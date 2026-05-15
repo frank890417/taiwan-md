@@ -10,10 +10,10 @@ lastVerified: '2026-03-28'
 lastHumanReview: 'true'
 featured: 'false'
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:4511682266317092'
-sourceBodyHash: 'sha256:1301d595b3900dd8'
-translatedAt: '2026-05-01T18:02:56+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:585e0e43e012a49f'
+sourceBodyHash: 'sha256:e1c0f0613a0e3a84'
+translatedAt: '2026-05-13T01:08:16Z'
 ---
 
 > **30秒概要：** 王小棣は台湾で最も重要なテレビドラマ監督の一人であり、40年にわたって一世代の俳優と脚本家を育ててきました。父親は戒厳令時代の情報・政治工作システムの首脳である王昇上将でしたが、彼は小さな人々のために声を上げる道を歩みました。1980年代の『全家福』から2016年の[植劇場](/ja/art/production-theater/)まで、彼はレンズを通して台湾社会の底辺にある尊厳を記録し、テレビを撮ることは社会運動であることを行動で証明しました。2014年に国家文芸賞を受賞しました。

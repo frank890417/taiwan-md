@@ -20,10 +20,10 @@ lastVerified: 2026-04-23
 featured: false
 lastHumanReview: false
 translatedFrom: 'Technology/台灣VR元宇宙興衰史.md'
-sourceCommitSha: '2c96c034'
-sourceContentHash: 'sha256:cfb9196e79bb6e49'
-sourceBodyHash: 'sha256:3f0b5464187691ec'
-translatedAt: '2026-05-02T01:17:16+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:59f706d4d55d0ff9'
+sourceBodyHash: 'sha256:e56340a36684b82b'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 > En 2016, HTC dévoile le Vive grand public au MWC de Barcelone. Wang Xuehong proclame l'« année zéro de la VR ». La même année, Taïwan voit naître sa première association industrielle VR/AR, son premier cybercafé VR et son premier parc d'attractions en VR. En janvier 2025, neuf ans plus tard, HTC cède son équipe de R&D XR à Google pour 250 millions de dollars. Durant cette période, des artistes taïwanais ont remporté deux fois le prix de la meilleure expérience VR à la Mostra de Venise, mais la part de marché de Taïwan dans le matériel VR est passée de 35 % à moins de 2 %. Cet article retrace le pari, l'emballement et le refroidissement d'une île tout entière face au « prochain grand truc ».

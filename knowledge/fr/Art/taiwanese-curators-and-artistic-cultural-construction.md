@@ -1,19 +1,26 @@
 ---
-title: 'Les commissaires d'exposition taïwanais et la construction culturelle artistique'
-description: 'Des premières expérimentations institutionnelles des années 1990 aux plateformes internationales d'aujourd'hui — comment les commissaires taïwanais ont-ils construit un discours artistique local dans le sillage de la mondialisation, et comment ont-ils trouvé leur voix dans le système des biennales ? Trente ans d'évolution entre identité culturelle et professionnalisation.'
+title: "Les commissaires d'exposition taïwanais et la construction culturelle artistique"
+description: "Des premières expérimentations institutionnelles des années 1990 aux plateformes internationales d'aujourd'hui — comment les commissaires taïwanais ont-ils construit un discours artistique local dans le sillage de la mondialisation, et comment ont-ils trouvé leur voix dans le système des biennales ? Trente ans d'évolution entre identité culturelle et professionnalisation."
 date: 2026-03-24
-tags: ['commissaires d'exposition', 'art contemporain', 'construction culturelle', 'musées', 'discours artistique']
+tags:
+  [
+    "commissaires d'exposition",
+    'art contemporain',
+    'construction culturelle',
+    'musées',
+    'discours artistique',
+  ]
 subcategory: 'Art contemporain'
 category: 'Art'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-24
-translatedFrom: "Art/台灣策展人與藝術文化建構.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:321e09715c3afee4"
-sourceBodyHash: 'sha256:3ddfebeada2ca7e5'
-translatedAt: "2026-04-14T19:13:49+08:00"
+translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
+sourceCommitSha: 'f99a9959'
+sourceContentHash: 'sha256:01e74babf94ac8da'
+sourceBodyHash: 'sha256:859c873057ee681d'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 # Les commissaires d'exposition taïwanais et la construction culturelle artistique

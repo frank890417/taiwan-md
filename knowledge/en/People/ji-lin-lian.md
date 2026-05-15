@@ -1,20 +1,20 @@
 ---
-title: "Ji Lin-lian: From a Chen Shui-bian–Favored General to the Vice Chairman Who Wanted Han Kuo-yu Expelled from the KMT"
+title: 'Ji Lin-lian: From a Chen Shui-bian–Favored General to the Vice Chairman Who Wanted Han Kuo-yu Expelled from the KMT'
 description: "On the afternoon of April 29, 2026, at a KMT Central Standing Committee meeting, 78-year-old Vice Chairman Ji Lin-lian said before the media cameras: 'You can kill me, but I will never believe that Brother Guo-yu would do anything to betray the party for personal gain. If he did, Huang Fuxing would surely step forward to put righteousness above family and recommend expelling Brother Guo-yu from the party.' This remark prompted Chen Shui-bian to lament publicly, 'I had no idea he had changed so much,' because it was Ah-Bian himself who promoted Ji to two-star general 20 years ago."
 date: 2026-05-03
-author: "Taiwan.md"
-category: "People"
-subcategory: "政治人物"
-tags: ["政治人物", "國民黨", "黃復興", "退役將領", "軍購爭議", "2026"]
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '政治人物'
+tags: ['政治人物', '國民黨', '黃復興', '退役將領', '軍購爭議', '2026']
 readingTime: 12
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: People/季麟連.md
-sourceCommitSha: de5c259c
-sourceContentHash: sha256:3cd3c96d999a550c
-sourceBodyHash: sha256:a04587f69ba5411d
-translatedAt: 2026-05-03T23:14:05+08:00
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:e096cf547c4b743c'
+sourceBodyHash: 'sha256:94870d211f5fa515'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 # Ji Lin-lian: From a Chen Shui-bian–Favored General to the Vice Chairman Who Wanted Han Kuo-yu Expanded from the KMT

@@ -11,10 +11,10 @@ lastVerified: 2026-03-30
 lastHumanReview: false
 readingTime: 7
 translatedFrom: Art/植劇場.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:52ebdd617f88ce4b
-sourceBodyHash: 'sha256:c47cc8538936b060'
-translatedAt: 2026-05-02T02:50:54+08:00
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:37996f439df838f6'
+sourceBodyHash: 'sha256:0818e9fb5c8333f5'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 # Q Series: How a Laptop Maker Planted the Seeds of Taiwan's TV Drama Revival
@@ -25,7 +25,7 @@ translatedAt: 2026-05-02T02:50:54+08:00
 
 At the end of 2014, director Wang Shaudi called seven old friends with a direct question: "Are you willing to spend time mentoring newcomers?"
 
-On the other end of the line were Tsai Ming-liang, Chen Yu-hsun, Qu You-ning, Xu Jie-hui, Xu Fu-jun, Wang Ming-tai, and An Zhe-yi — all directors with decades of experience in [[Taiwanese cinema]] and television. In that era, hiring these people was usually about chasing high ratings or big-budget productions. But what Wang Shaudi was proposing was simply mentoring newcomers.
+On the other end of the line were Tsai Ming-liang, Chen Yu-hsun, Qu You-ning, Xu Jie-hui, Xu Fu-jun, Wang Ming-tai, and An Zhe-yi — all directors with decades of experience in Taiwanese cinema and television. In that era, hiring these people was usually about chasing high ratings or big-budget productions. But what Wang Shaudi was proposing was simply mentoring newcomers.
 
 She selected 24 promising talents — dubbed the "Q Seeds" (好植之徒) — from over 300 applicants and enrolled them in the "Q Place Performance Academy" she had founded. Training ranged from Peking opera movement and clowning rhythm to modern dance bodywork, all designed to recalibrate the modern body through the discipline of traditional theater. The first real battlefield for these 24 trainees was the eight-series lineup of Q Series. Wang Shaudi's intent was clear: "Q Series is a garden where we can breathe freely and grow together — not just the little Q actors honing their craft, but directors, screenwriters, and behind-the-scenes crew supporting one another and advancing together." (Quoted from Wang Shaudi's original statement as cited on Wikipedia)
 

@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'Culture/九天玄女信仰.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:c7b34b7d400744b0'
-sourceBodyHash: 'sha256:3470e36661b8823f'
-translatedAt: '2026-05-01T17:09:56+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:1910ee0829efda65'
+sourceBodyHash: 'sha256:def52197e717a6f7'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 > **30-second overview:** Jiutian Xuannu is a Chinese goddess who, in myth, descended onto an ancient battlefield and taught the Yellow Emperor how to defeat his enemy. In Taiwan, she evolved into something far stranger: patron saint of the incense industry, popular matchmaker, exam-season savior, and — most remarkably — the namesake deity behind a troupe of former dropout teenagers who performed at Lincoln Center. Their founder spent 11 years earning a doctorate just to prove the cultural establishment wrong.
@@ -59,7 +59,7 @@ In mainland China, she remained primarily a deity of military strategy and divin
 
 The portfolio kept expanding. The Jiutian Xuannu temple in Tainan became famous for matchmaking prayers. The one in Chiayi fills with anxious students during exam season. Other temples offer fertility blessings, feng shui consultations, and spiritual counseling. A goddess who spent millennia teaching military strategy now serves as Taiwan's all-purpose divine consultant.
 
-This pattern — deities accumulating new responsibilities in Taiwan — is not unique to Jiutian Xuannu. [[Guan Sheng Dijun]] went from war god to patron of business and police. [[Mazu]] went from sea goddess to universal protector. The logic is pragmatic: devotees don't check the classical texts for a deity's original job description. They care about one thing — does she deliver?
+This pattern — deities accumulating new responsibilities in Taiwan — is not unique to Jiutian Xuannu. Guan Sheng Dijun went from war god to patron of business and police. Mazu went from sea goddess to universal protector. The logic is pragmatic: devotees don't check the classical texts for a deity's original job description. They care about one thing — does she deliver?
 
 > 📝 **Curator's note:** A goddess who spent four thousand years teaching military strategy now most frequently gets asked: "Do I still have a chance with them?"
 
@@ -77,7 +77,7 @@ Hsu's insight was simple. If a dropout teenager is willing to train for eight ho
 
 A drumstick in the hand demands precision. A missed beat throws off the entire row. The accountability is physical, immediate, and impossible to fake. It worked better than any counseling program.
 
-But Hsu had larger ambitions. He refused to let 陣頭 remain at the margins of temple courtyards. He took traditional elements — war drums, deity puppets, the beloved youth deity [[Third Prince]] — and reconfigured them with professional stage lighting, original music, and dramatic structure. Productions like _Pulling the Water Carts_ (based on a Yunlin funeral ritual), _The Beggar Prince_ (a puppet-and-human fable), and _Entering the Stage_ (confronting the social stigma of temple performance) moved beyond streets and into theaters.
+But Hsu had larger ambitions. He refused to let 陣頭 remain at the margins of temple courtyards. He took traditional elements — war drums, deity puppets, the beloved youth deity Third Prince — and reconfigured them with professional stage lighting, original music, and dramatic structure. Productions like _Pulling the Water Carts_ (based on a Yunlin funeral ritual), _The Beggar Prince_ (a puppet-and-human fable), and _Entering the Stage_ (confronting the social stigma of temple performance) moved beyond streets and into theaters.
 
 Over nearly 30 years, the troupe has performed **more than 1,100 shows across 100+ cities on five continents**. In 2012, they performed at Lincoln Center in New York. In 2011, they carried a Third Prince deity figure through the Sahara Desert ultra-marathon.
 

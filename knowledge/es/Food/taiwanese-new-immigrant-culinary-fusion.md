@@ -17,11 +17,11 @@ featured: true
 category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: Food/台灣新住民美食融合.md
-sourceCommitSha: 800114ea
-sourceContentHash: sha256:4cea918b3c765295
-sourceBodyHash: 'sha256:d29105235d630c57'
-translatedAt: 2026-05-01T20:54:23+08:00
+translatedFrom: 'Food/台灣新住民美食融合.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:bd8e4eaaa3e395c7'
+sourceBodyHash: 'sha256:6806ae061b784232'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # Fusión culinaria de los nuevos residentes en Taiwán

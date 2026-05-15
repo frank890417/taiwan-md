@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣聲音地景.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:cbfdd904f2ae5e56'
-sourceBodyHash: 'sha256:903b8ccb1a4120d1'
-translatedAt: '2026-05-01T15:38:13+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f2429b5e23112189'
+sourceBodyHash: 'sha256:44f3bfcab12159eb'
+translatedAt: '2026-05-13T01:07:52Z'
 category: Music
 ---
 
@@ -240,6 +240,14 @@ Taiwan's new media artists have made outstanding contributions in the field of i
 - 🔢 **Nanguan is a living fossil:** Preserving musical elements from the Tang and Song dynasties, it is one of the oldest surviving chamber music traditions in East Asia and was inscribed on the UNESCO Intangible Cultural Heritage list in 2009.
 - 🔢 **Taiwan's cicadas reach 90 decibels:** Summer cicada song is as loud as a vacuum cleaner; more than 60 species create one of the world's densest cicada soundscapes.
 - 🔢 **Taiwanese Hokkien has seven tones:** One of the world's tonally richest everyday spoken languages, in which every change of tone changes the meaning of a word — the language itself is music.
+
+---
+
+---
+
+**Further Reading**:
+
+- [Wang Furu (王福瑞)](/people/王福瑞) — Founded NOISE in 1993, Taiwan's first experimental music label; the source of the Wang Furu, Yao Chung-han, and Zhang Yong-da lineage mentioned in the "Sound Art" section of this article
 
 ---
 

@@ -1,19 +1,26 @@
 ---
 title: 'La démocratisation de Taïwan'
-description: 'Le 18 mars 1980, dans la salle d'audience d'un tribunal militaire de Kaohsiung, Shih Ming-teh renonce à son mémoire de défense de soixante mille caractères et demande au juge de le condamner à mort. Les jeunes avocats qui le défendaient ce jour-là — Chen Shui-bian, Hsieh Chang-ting, Su Tseng-chang — allaient tous devenir présidents ou premiers ministres dans les vingt années suivantes. Un procès conçu pour faire taire l'opposition a, contre toute attente, formé toute une génération de dirigeants politiques.'
+description: "Le 18 mars 1980, dans la salle d'audience d'un tribunal militaire de Kaohsiung, Shih Ming-teh renonce à son mémoire de défense de soixante mille caractères et demande au juge de le condamner à mort. Les jeunes avocats qui le défendaient ce jour-là — Chen Shui-bian, Hsieh Chang-ting, Su Tseng-chang — allaient tous devenir présidents ou premiers ministres dans les vingt années suivantes. Un procès conçu pour faire taire l'opposition a, contre toute attente, formé toute une génération de dirigeants politiques."
 date: 2026-03-27
-tags: [histoire, démocratisation, politique, incident de Formosa, mouvement du Lys sauvage]
-subcategory: 'Après-guerre et régime autoritaire'
 category: 'History'
-author: 'Taiwan.md Translation Team'
+tags:
+  [
+    'histoire',
+    'démocratisation',
+    'politique',
+    'incident de Formosa',
+    'mouvement du Lys sauvage',
+  ]
+subcategory: 'Après-guerre et régime autoritaire'
+author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
-translatedFrom: "History/民主化.md"
-sourceCommitSha: "800114ea"
-sourceContentHash: "sha256:df748c5bdb5127e1"
-sourceBodyHash: 'sha256:5fe67a248a3f0cf4'
-translatedAt: "2026-04-14T12:31:57+08:00"
+translatedFrom: 'History/民主化.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:5c4c48886e261a1e'
+sourceBodyHash: 'sha256:1ac64c77bbabb1d3'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 # La démocratisation de Taïwan

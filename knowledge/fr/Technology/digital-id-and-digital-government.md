@@ -1,19 +1,27 @@
 ---
-title: 'La carte d'identité numérique et le gouvernement électronique à Taïwan'
-description: 'Comment Taïwan a dépensé 48 milliards de NT$ pour une carte à puce jamais distribuée — et ce que cela révèle sur la confiance, la démocratie numérique et la gouvernance à l'ère des données.'
+title: "a carte d'identité numérique et le gouvernement électronique à Taïwa"
+description: "omment Taïwan a dépensé 48 milliards de NT$ pour une carte à puce jamais distribuée — et ce que cela révèle sur la confiance, la démocratie numérique et la gouvernance à l'ère des données"
 date: 2024-01-01
-tags: [identité numérique, gouvernement électronique, démocratie numérique, données personnelles, vie privée, participation citoyenne, Audrey Tang]
-subcategory: 'Gouvernance numérique'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
-readingTime: 12
+tags:
+  [
+    'identité numérique',
+    'gouvernement électronique',
+    'démocratie numérique',
+    'données personnelles',
+    'vie privée',
+    'participation citoyenne',
+    'Audrey Tang',
+  ]
+subcategory: 'Gouvernance numérique'
+author: 'Taiwan.md'
 featured: false
-translatedFrom: "Technology/數位身分證與數位政府.md"
+translatedFrom: 'Technology/數位身分證與數位政府.md'
 lastVerified: 2024-01-01
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:b4175e4786ecfd7b"
-sourceBodyHash: 'sha256:ddd000a6b90bc6a2'
-translatedAt: "2026-04-14T12:33:27+08:00"
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:29bb34fbe5bc3139'
+sourceBodyHash: 'sha256:421fd13a4ac20718'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 # La carte d'identité numérique et le gouvernement électronique à Taïwan

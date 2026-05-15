@@ -1,19 +1,26 @@
 ---
 title: 'Annette Lu — De prisonnière politique à vice-présidente'
-description: 'Pionnière du féminisme taïwanais et première femme vice-présidente du monde sinophone : le parcours exceptionnel d'Annette Lu'
+description: "Pionnière du féminisme taïwanais et première femme vice-présidente du monde sinophone : le parcours exceptionnel d'Annette Lu"
 date: 2026-03-22
-tags: [personnalité, femme politique, féminisme, vice-présidente, incident de Formosa]
-subcategory: 'Politique et démocratie'
 category: 'People'
-author: 'Taiwan.md Translation Team'
-readingTime: 10
+tags:
+  [
+    'personnalité',
+    'femme politique',
+    'féminisme',
+    'vice-présidente',
+    'incident de Formosa',
+  ]
+subcategory: 'Politique et démocratie'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
-translatedFrom: "People/呂秀蓮.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:809d857cd912d504"
-sourceBodyHash: 'sha256:6824251a06515b3a'
-translatedAt: "2026-04-14T19:14:43+08:00"
+lastHumanReview: false
+translatedFrom: 'People/呂秀蓮.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:4f2e975be9df55bf'
+sourceBodyHash: 'sha256:e2af78942d7ac0ac'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 > **En 30 secondes :** En 1979, Annette Lu est condamnée à douze ans de prison lors de l'incident de Formosa. En 2000, elle devient la première femme vice-présidente dans l'ensemble du monde sinophone. En vingt ans, elle a traversé les murs d'une cellule pour rejoindre les couloirs du palais présidentiel — incarnant à elle seule la transformation de Taïwan, d'un régime autoritaire vers la démocratie.

@@ -2,7 +2,7 @@
 title: 'El paisaje sonoro de Taiwán'
 description: 'Desde el "Para Elise" de los camiones de basura hasta la polifonía de ocho voces del pueblo Bunun — conocer Taiwán con los oídos'
 date: 2026-03-17
-subcategory: '傳統音樂'
+category: 'Music'
 tags:
   [
     'paisaje sonoro',
@@ -13,17 +13,16 @@ tags:
     'beiguan y nanguan',
     'sonidos callejeros',
   ]
+subcategory: '傳統音樂'
 author: 'Taiwan.md Contributors'
-readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣聲音地景.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:cbfdd904f2ae5e56'
-sourceBodyHash: 'sha256:903b8ccb1a4120d1'
-translatedAt: '2026-05-01T20:54:23+08:00'
-category: Music
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f2429b5e23112189'
+sourceBodyHash: 'sha256:44f3bfcab12159eb'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # El paisaje sonoro de Taiwán

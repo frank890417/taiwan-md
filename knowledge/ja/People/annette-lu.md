@@ -8,10 +8,10 @@ tags: ['人物', '政治家', '女性運動', '副大統領', '美麗島事件']
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: People/呂秀蓮.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:809d857cd912d504
-sourceBodyHash: 'sha256:6824251a06515b3a'
-translatedAt: 2026-05-01T19:52:32+08:00
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:4f2e975be9df55bf'
+sourceBodyHash: 'sha256:e2af78942d7ac0ac'
+translatedAt: '2026-05-13T01:08:16Z'
 ---
 
 > **30秒概要：** 1979年、呂秀蓮は美麗島事件により懲役12年の判決を受けました。

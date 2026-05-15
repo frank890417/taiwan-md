@@ -2,7 +2,15 @@
 title: 'Ji Linlian: de general pro-Chen Shui-bian a vicepresidente que pidió la expulsión de Han Kuo-yu del Kuomintang'
 description: 'El 29 de abril de 2026 por la tarde, en la reunión del Comité Permanente del Kuomintang (KMT). Ji Linlian, vicepresidente de 78 años, declaró ante las cámaras de los medios: "Aunque me maten, no creeré que el hermano Guoyu haya hecho algo que traicione al partido para beneficio propio. Si lo hizo, Huang Fuxing sin duda dará un paso al frente por la justicia y propondrá la expulsión del hermano Guoyu del partido." Estas palabras provocaron que Chen Shui-bian saliera a decir que "no sabía que había cambiado tanto", porque quien lo ascendió a general de segunda clase hace 20 años fue precisamente Ah-Bian.'
 date: 2026-05-03
-tags: ['figura política', 'Kuomintang', 'Huang Fuxing', 'militar retirado', 'controversia armamentística', '2026']
+tags:
+  [
+    'figura política',
+    'Kuomintang',
+    'Huang Fuxing',
+    'militar retirado',
+    'controversia armamentística',
+    '2026',
+  ]
 category: 'People'
 subcategory: '政治人物'
 author: 'Taiwan.md'
@@ -11,10 +19,10 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/季麟連.md'
-sourceCommitSha: 'de5c259c'
-sourceContentHash: 'sha256:3cd3c96d999a550c'
-sourceBodyHash: 'sha256:a04587f69ba5411d'
-translatedAt: '2026-05-03T23:14:07+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:e096cf547c4b743c'
+sourceBodyHash: 'sha256:94870d211f5fa515'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # Ji Linlian: de general pro-Chen Shui-bian a vicepresidente que pidió la expulsión de Han Kuo-yu del Kuomintang

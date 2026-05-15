@@ -1,23 +1,31 @@
 ---
 title: 'La street food taïwanaise'
-description: 'En 1987, une erreur dans une boutique de thé de Taichung a propulsé le bubble tea dans 60 pays. De simples outils de survie pour les immigrants de l'époque Qing, les petits plats de rue sont aujourd'hui une industrie de 400 milliards de dollars portée par 233 000 stands. Leur recette du succès ? Pas la sophistication — mais ce courage populaire de dire « tant pis, essayons. »'
+description: "En 1987, une erreur dans une boutique de thé de Taichung a propulsé le bubble tea dans 60 pays. De simples outils de survie pour les immigrants de l'époque Qing, les petits plats de rue sont aujourd'hui une industrie de 400 milliards de dollars portée par 233 000 stands. Leur recette du succès ? Pas la sophistication — mais ce courage populaire de dire « tant pis, essayons. »"
 date: 2026-03-28
-tags: [Food, street food, marché de nuit, cuisine taïwanaise, soft power culturel, cuisine des immigrants]
-subcategory: 'Scènes culinaires'
-author: 'Taiwan.md Translation Team'
 category: 'Food'
-readingTime: 12
+tags:
+  [
+    'Food',
+    'street food',
+    'marché de nuit',
+    'cuisine taïwanaise',
+    'soft power culturel',
+    'cuisine des immigrants',
+  ]
+subcategory: 'Scènes culinaires'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-28
 lastHumanReview: false
+readingTime: 12
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg/960px-East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 imageAlt: "L'entrée du marché de nuit de Raohe Street illuminée la nuit, enseignes au néon"
 imageCredit: 'Wikimedia Commons, CC BY-SA'
-translatedFrom: "Food/台灣小吃.md"
-sourceCommitSha: "800114ea"
-sourceContentHash: "sha256:5204a1234af866a0"
-sourceBodyHash: 'sha256:8280e871af75b399'
-translatedAt: "2026-04-14T12:29:04+08:00"
+translatedFrom: 'Food/台灣小吃.md'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:97a6acec72ee0e79'
+sourceBodyHash: 'sha256:70ab08dbd7b43fbc'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 # La street food taïwanaise

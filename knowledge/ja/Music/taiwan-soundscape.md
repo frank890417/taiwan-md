@@ -19,10 +19,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/台灣聲音地景.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:cbfdd904f2ae5e56'
-sourceBodyHash: 'sha256:903b8ccb1a4120d1'
-translatedAt: '2026-05-01T19:52:32+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:f2429b5e23112189'
+sourceBodyHash: 'sha256:44f3bfcab12159eb'
+translatedAt: '2026-05-13T01:08:16Z'
 category: Music
 ---
 
@@ -240,6 +240,12 @@ category: Music
 - 🔢 **南管は生きた化石**：唐宋時代の音楽的要素を保存しており、東アジア現存最古の室内楽伝統の一つであり、2009年にユネスコ無形文化遺産に登録されました。
 - 🔢 **台湾の蝉の声は90デシベル**：夏の蝉の声は掃除機一臺に相当する音量であり、60種以上の蝉が世界最高密度の蝉のサウンドスケープの一つを構成しています。
 - 🔢 **台湾語には七つの声調がある**：世界で最も声調が豊かな日常使用言語の一つであり、声調が変わると意味も変わります。言語そのものが音楽なのです。
+
+---
+
+**関連読み物**：
+
+- [王福瑞](/people/王福瑞) — 1993年に台湾初の実験音楽レーベルNOISEを設立。本文「サウンドアート」の段で言及した王福瑞、姚仲涵、張永達の系譜における源流
 
 ---
 

@@ -9,10 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 7
 featured: false
 translatedFrom: 'Art/植劇場.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:52ebdd617f88ce4b'
-sourceBodyHash: 'sha256:c47cc8538936b060'
-translatedAt: '2026-04-14T09:46:05+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:37996f439df838f6'
+sourceBodyHash: 'sha256:0818e9fb5c8333f5'
+translatedAt: '2026-05-13T01:08:20Z'
 ---
 
 # 즈쥐창(植劇場): 노트북을 만드는 사람이 대만 드라마 부흥의 씨앗을 심다

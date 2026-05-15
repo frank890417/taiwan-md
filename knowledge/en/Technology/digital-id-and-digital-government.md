@@ -1,9 +1,9 @@
 ---
 translatedFrom: 'Technology/數位身分證與數位政府.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:b4175e4786ecfd7b'
-sourceBodyHash: 'sha256:ddd000a6b90bc6a2'
-translatedAt: '2026-05-01T15:38:13+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:29bb34fbe5bc3139'
+sourceBodyHash: 'sha256:421fd13a4ac20718'
+translatedAt: '2026-05-13T01:07:52Z'
 title: 'Digital ID and Digital Government'
 description: "A chip card that was never issued cost NT$280 million in compensation — Taiwan's digital government story is proof that trust is harder to build than technology"
 date: 2026-03-18

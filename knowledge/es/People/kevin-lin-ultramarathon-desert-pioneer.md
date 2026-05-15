@@ -2,7 +2,7 @@
 title: 'Kevin Lin'
 description: 'De niño delgado rechazado por el equipo de atletismo a corredor de expedición polar que hizo historia al cruzar el desierto del Sahara a pie'
 date: 2026-03-22
-category: 'people'
+category: 'People'
 subcategory: '體育'
 tags:
   [
@@ -17,10 +17,10 @@ readingTime: 7
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:b6c10d1de65584e0'
-sourceBodyHash: 'sha256:9539b3b7cc15f63e'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8741429d614846be'
+sourceBodyHash: 'sha256:3713eaac6b565ca6'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 > **Resumen en 30 segundos:** Kevin Lin, un niño delgado al que un profesor de educación física amenazó en la escuela primaria con la frase «no puedes ganarle a los alumnos mayores», se convirtió en 2006 en una de las tres primeras personas en la historia de la humanidad en cruzar el desierto del Sahara a pie. 7.500 kilómetros en 111 días, 11 pares de zapatillas destrozadas, solo para descubrir después que el ejército que los escoltó fue asesinado por completo en el camino de regreso.

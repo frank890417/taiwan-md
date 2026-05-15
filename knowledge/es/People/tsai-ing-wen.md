@@ -1,16 +1,28 @@
 ---
-title: "Tsai Ing-wen"
-description: "Primera presidenta de Taiwán (2016-2024), especialista en derecho internacional comercial. Durante su mandato se promulgó la primera ley de matrimonio homosexual de Asia, representó al gobierno en una disculpa oficial a los pueblos indígenas y es de ascendencia paiwan."
+title: 'Tsai Ing-wen'
+description: 'Primera presidenta de Taiwán (2016-2024), especialista en derecho internacional comercial. Durante su mandato se promulgó la primera ley de matrimonio homosexual de Asia, representó al gobierno en una disculpa oficial a los pueblos indígenas y es de ascendencia paiwan.'
 date: 2026-03-17
-tags: [personaje, Tsai Ing-wen, presidenta, liderazgo femenino, democracia, política, pueblos indígenas]
-subcategory: "政治與民主"
+category: 'People'
+tags:
+  [
+    'personaje',
+    'Tsai Ing-wen',
+    'presidenta',
+    'liderazgo femenino',
+    'democracia',
+    'política',
+    'pueblos indígenas',
+  ]
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-04
-lastHumanReview: 2026-04-04
-translatedFrom: "People/蔡英文.md"
-sourceCommitSha: "c9138dca"
-sourceContentHash: "sha256:4bb37557e229f5c6"
-sourceBodyHash: "sha256:a47845d84d432cf6"
-translatedAt: "2026-05-03T23:14:07+08:00"
+lastHumanReview: true
+translatedFrom: 'People/蔡英文.md'
+sourceCommitSha: '790cd351'
+sourceContentHash: 'sha256:c83fd3ce9c9d29bb'
+sourceBodyHash: 'sha256:a99640d8582ca9af'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # Tsai Ing-wen
@@ -29,7 +41,7 @@ Tsai Ing-wen nació el 31 de agosto de 1956 en el Hospital Mackay de Taipéi. Su
 
 Su herencia étnica es en sí misma un reflejo de Taiwán: ascendencia hakka, hoklo y paiwan entrelazadas. Por línea materna de su abuela tenía sangre paiwan, lo que la convirtió en la primera presidenta de la historia de Taiwán con ascendencia indígena; su nombre en paiwan es Tjuku[^3].
 
-Tras licenciarse en Derecho por la Universidad Nacional de Taiwán en 1978, se marchó a Estados Unidos. En 1980 obtuvo el máster en Derecho por la Universidad de Cornell y luego se doctoró en la London School of Economics and Political Science. En 1984 defendió su tesis doctoral, *Unfair Trade Practices and Safeguard Measures*, bajo la dirección de Michael J. Elliott[^7].
+Tras licenciarse en Derecho por la Universidad Nacional de Taiwán en 1978, se marchó a Estados Unidos. En 1980 obtuvo el máster en Derecho por la Universidad de Cornell y luego se doctoró en la London School of Economics and Political Science. En 1984 defendió su tesis doctoral, _Unfair Trade Practices and Safeguard Measures_, bajo la dirección de Michael J. Elliott[^7].
 
 > En 2019, su tesis doctoral se convirtió en arma de ataque político: se cuestionó su existencia. La London School of Economics emitió un comunicado oficial en octubre de 2019 confirmando que el título era auténtico y válido[^7]. La razón por la que la tesis no había sido archivada durante treinta y cinco años era simplemente que ella no entregó una copia a la biblioteca en su momento.
 
@@ -59,7 +71,7 @@ Los dos momentos de mayor significado histórico durante la presidencia de Tsai 
 
 > «Por el sufrimiento y el trato injusto que han soportado a lo largo de los últimos cuatrocientos años, en nombre del gobierno, les pido disculpas.»[^5]
 
-**El 24 de mayo de 2019**, entró en vigor la *Ley de Aplicación de la Interpretación n.º 748 del Yuan Judicial*. Taiwán se convirtió en el primer país de Asia en legalizar el matrimonio homosexual[^4]. Tsai escribió en Twitter: «En Taiwán, #LoveWins.» El primer día se inscribieron quinientas veintiséis parejas del mismo sexo.
+**El 24 de mayo de 2019**, entró en vigor la _Ley de Aplicación de la Interpretación n.º 748 del Yuan Judicial_. Taiwán se convirtió en el primer país de Asia en legalizar el matrimonio homosexual[^4]. Tsai escribió en Twitter: «En Taiwán, #LoveWins.» El primer día se inscribieron quinientas veintiséis parejas del mismo sexo.
 
 Dos firmas. Una frente a una herida histórica de cuatrocientos años, otra frente a un tabú social de milenios. Ambas provocaron una enorme reacción en contra. La disculpa fue criticada como «solo palabras, sin acciones», y la ley del matrimonio homosexual fue rechazada en referéndum. Pero las firmas ya estaban estampadas.
 
@@ -85,7 +97,7 @@ La estrategia de Tsai fue no provocar y no ceder. No declaró la independencia n
 
 El 20 de mayo de 2024, Tsai Ing-wen dejó el cargo. Su vicepresidente, Lai Ching-te, había ganado las elecciones de enero de ese mismo año: era la primera vez que el Partido Democrático Progresista ganaba tres elecciones presidenciales consecutivas, un hecho sin precedentes en la historia democrática de Taiwán[^12].
 
-Fue incluida dos veces en la lista de las cien personas más influyentes de la revista *TIME* (2016 y 2020)[^13]. Tras dejar el cargo, realizó visitas como ciudadana particular a Lituania, Dinamarca y el Reino Unido.
+Fue incluida dos veces en la lista de las cien personas más influyentes de la revista _TIME_ (2016 y 2020)[^13]. Tras dejar el cargo, realizó visitas como ciudadana particular a Lituania, Dinamarca y el Reino Unido.
 
 Tuvo dos gatos: Tsai Xiangxiang (un atigrado gris rescatado tras un tifón en 2012) y Tsai Acai (un gato naranja encontrado en Taitung en 2015)[^14]. No se casó nunca. Durante la campaña electoral de 2016, la agencia de noticias Xinhua de China publicó un comentario insinuando que «las mujeres solteras son emocionalmente inestables», lo que fue ampliamente condenado como discriminación de género[^14].
 

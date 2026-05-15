@@ -5,24 +5,24 @@ date: 2026-03-22
 category: 'People'
 tags:
   [
-    personnalité,
-    ultra-marathon,
-    exploration polaire,
-    athlète,
-    désert du Sahara,
-    fierté de Taïwan,
+    'personnalité',
+    'ultra-marathon',
+    'exploration polaire',
+    'athlète',
+    'désert du Sahara',
+    'fierté de Taïwan',
   ]
 subcategory: 'Sport'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 7
-featured: false
-author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:b6c10d1de65584e0'
-sourceBodyHash: 'sha256:9539b3b7cc15f63e'
-translatedAt: '2026-04-14T19:15:55+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:8741429d614846be'
+sourceBodyHash: 'sha256:3713eaac6b565ca6'
+translatedAt: '2026-05-13T01:08:41Z'
 ---
 
 > **En 30 secondes :** Lin Yi-chieh, ce petit garçon maigre à qui un professeur de sport avait interdit de « dépasser les aînés » à l'école primaire, est devenu en 2006 l'un des trois premiers êtres humains à traverser le Sahara à pied. 111 jours de course, 7 500 kilomètres parcourus, 11 paires de chaussures usées jusqu'à la corde — et la découverte, des mois plus tard, que les soldats qui les escortaient avaient tous été tués sur le chemin du retour.

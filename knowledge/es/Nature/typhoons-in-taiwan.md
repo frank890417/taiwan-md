@@ -1,10 +1,8 @@
 ---
-title: 'Puede predecir la trayectoria, pero no el destino: cuatrocientos años de tifones en Taiwán'
-description: 'Desde los primeros colonos de la dinastía Qing que presenciaron huracanes en Penghu hasta la desaparición del pueblo de Xiaolin bajo lluvias torrenciales en 2009, la historia de la convivencia de Taiwán con los tifones nunca se ha detenido. Hoy podemos usar IA para predecir la trayectoria de un tifón con trente días de antelación en solo cuatro minutos, pero el meteorólogo Wu Derong reveló una verdad contraintuitiva: la Cordillera Central no es el dios que nos protege, sino un amplificador que convierte viento en agua.'
-date: '2026-05-06'
-author: 'Taiwan.md'
+title: 'Puede predecir el viento y la lluvia, pero no el destino: cuatrocientos años de tifones en Taiwán'
+description: 'En la madrugada de 2009, Luo Pan Chun-mei, de 71 años, estaba en el balcón del segundo piso mirando cómo el monte Xiantou se derrumbaba, tragándose a 462 de sus seres queridos del pueblo de Xiaolin. Quince años después, Taiwán usa seis modelos de IA para reducir el margen de error en la predicción de trayectorias de tifones a 24 horas de 172 kilómetros a 57 kilómetros. Pero quién saldrá a trabajar en medio del temporal dentro de esos 57 kilómetros, quién no recibirá la notificación de alerta: eso no se puede predecir.'
+date: 2026-05-09
 category: 'Nature'
-subcategory: '氣候與災害'
 tags:
   [
     'tifón',
@@ -16,296 +14,219 @@ tags:
     'saberes indígenas',
     'Wu Derong',
     'Wu Junjie',
-    'Luo Pan Chunmei',
-    'predicción con IA',
+    'Luo Pan Chun-mei',
+    'predicción IA',
     'FORMOSAT-7',
   ]
-readingTime: '14'
-lastVerified: '2026-05-06'
-lastHumanReview: 'false'
+subcategory: '氣候與災害'
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-05-09
+lastHumanReview: false
 translatedFrom: 'Nature/颱風.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:4e1030b784b38d4e'
-sourceBodyHash: 'sha256:8509bdbbc304e652'
-translatedAt: '2026-05-06T12:37:35+08:00'
+sourceCommitSha: 'ef195fa9d'
+sourceContentHash: 'sha256:f24328f70712f01e'
+sourceBodyHash: 'sha256:b9d03786e906ca4a'
+translatedAt: '2026-05-13T09:30:28+08:00'
+readingTime: 13
 ---
 
-> **Panorama en 30 segundos:** Taiwán sufre en promedio 3,5 tifones al año, que aportan cerca del 50 % de las precipitaciones de la isla y constituyen su fuente más severa de desastres compuestos. Investigaciones de la Academia Sinica muestran que, para finales de siglo, los tifones que lleguen a Taiwán podrían reducirse a solo 1 o 2 anuales, pero la intensidad de las lluvias aumentará un 40 % y la velocidad del viento un 10 %: la nueva normalidad de «menos pero más intensos» ya está aquí. Taiwán posee tanto tecnología de observación de tifones de nivel mundial como una tradición literaria de tifones de varios siglos, pero los tifones no traen solo datos y versos, sino también vidas reales: Luo Pan Chunmei, superviviente de 71 años de Xiaolin, vio desaparecer a 462 familiares; Wu Derong, exdirector del Centro de Pronósticos de la Oficina Meteorológica, desmintió públicamente el mito del «dios protector de la nación»; Wu Junjie, director del programa de caza de tifones, voló al ojo del tifón para experimentarlo en persona. Podemos predecir la trayectoria de un tifón, pero no el destino.
+# Puede predecir el viento y la lluvia, pero no el destino: cuatrocientos años de tifones en Taiwán
 
-«¡Xiaolin ya no está!»
+> **Resumen en 30 segundos:** El 8 de agosto de 2009 al amanecer, el monte Xiantou se derrumbó tras tres días de lluvias torrenciales y sepultó 462 vidas del pueblo de Xiaolin. Dieciséis años después, el margen de error en la predicción de la trayectoria de los tifones a 24 horas en Taiwán se redujo de 172 kilómetros en el año 2000 a 57 kilómetros en 2025. Cada día, el satélite FORMOSAT-7 descarga más de 4.000 perfiles atmosféricos, y seis modelos de IA generan mapas de alerta para treinta días en tan solo cuatro minutos. Pero el instante en que Luo Pan Chun-mei estaba en el segundo piso viendo desaparecer a sus seres queridos, ningún radar en el mundo podía rescatarlos. Se puede predecir el viento y la lluvia, pero no el destino.
 
-La mañana del 8 de agosto de 2009, Luo Pan Chunmei, de 71 años, se asomó al balcón del segundo piso y vio cómo todo desaparecía ante sus ojos. La montaña Xiantu, que el día anterior estaba intacta, se derrumbó bajo la erosión de lluvias incesantes. Un flujo de lodo y rocas, como un dragón amarillo, se precipitó desde la cima, tragándose calles, casas y el pueblo donde había vivido toda su vida. Sus 462 familiares desaparecieron para siempre entre las montañas.[^1]
+## "¡Xiaolin ha desaparecido!"
 
-> **✦** «Lloré hasta que no pude llorar más; ahora ya no derramo tantas lágrimas, tenemos que seguir adelante.» — Luo Pan Chunmei, al mirar atrás diez años después del desastre de Morakot
+El 8 de agosto de 2009 al amanecer, Luo Pan Chun-mei, de 71 años, estaba en el balcón del segundo piso.
 
-Ese grito fue uno de los instantes más dolorosos en cuatrocientos años de convivencia entre Taiwán y los tifones.
+El monte Xiantou, que el día anterior seguía intacto, se desmoronó bajo la erosión de tres días consecutivos de lluvias torrenciales. Masas de tierra y rocas descendieron como un dragón amarillo desde la cumbre, engullendo calles, casas y la aldea donde ella había vivido toda su vida. Sus 462 seres queridos desaparecieron para siempre entre las montañas.[^1]
 
-| Indicador                                                  | Valor                                                                              |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Tifones que afectan Taiwán al año (promedio)               | 3,5                                                                                |
-| Aporte de los tifones a la precipitación anual de la isla  | Cerca del 50 %                                                                     |
-| Pérdidas agrícolas por tifones en 2024                     | Aproximadamente 52.000 millones de NTD (98,88 % de las pérdidas agrícolas anuales) |
-| Error de pronóstico de trayectoria en 24 horas (2000→2025) | 172 km → 57 km                                                                     |
-| Perfiles atmosféricos diarios de FORMOSAT-7                | 4.000–5.000 registros                                                              |
+> **✦** "Ya no puedo llorar, ahora se me han secado las lágrimas. Tenemos que seguir adelante." — Luo Pan Chun-mei, evocando el tifón Morakot diez años después
 
-## Cuatrocientos años de viento y lluvia: desde las banderas de tormenta de Takao hasta los dos mil milímetros en Alishan
+Aquel grito de dolor fue el momento más trágico de los cuatrocientos años de combate entre Taiwán y los tifones. En esta isla, los tifones son los versos que un funcionario escribió en Penghu en 1705, las banderas de colores en el tejado del puerto de Kaohsiung en 1865, la mañana en que Xiaolin desapareció en 2009, y también la lluvia bajo la que el 81% de los trabajadores sigue yendo al trabajo cada verano.
 
-La historia de Taiwán frente a los tifones es mucho más larga que la de la República de China.
+| Indicador                                                                 | Valor                                                                               |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Número medio anual de tifones que afectan a Taiwán                        | 3,5                                                                                 |
+| Porcentaje de la precipitación anual total aportada por tifones           | cerca del 50%                                                                       |
+| Pérdidas agrícolas por tifones en 2024                                    | ~52.000 millones de NT$ (el 98,88% de las pérdidas agrícolas por desastres del año) |
+| Margen de error en la predicción de la trayectoria a 24 horas (2000→2025) | 172 km → 57 km                                                                      |
+| Perfiles atmosféricos diarios de FORMOSAT-7                               | 4.000-5.000                                                                         |
 
-Hacia el período Tongzhi de la dinastía Qing (alrededor de 1865), los británicos instalaron banderas de colores de viento y lluvia en el techo del hospital Mude en Takao (actual Kaohsiung): fue el primer sistema de alerta meteorológica de Taiwán. Los colores de las banderas indicaban distintos niveles de fuerza del viento, y los barcos sabían si debían o no hacerse a la mar al verlas.[^6]
+## De las banderas de colores en Kaohsiung a los 1.094 milímetros en Alishan
 
-En Penghu, por aquel entonces, un funcionario llamado Sun Yuanheng presenció de cerca el terror de un huracán. En 1705 escribió «Canción del huracán» (〈颶風歌〉), un poema de ochenta y cinco versos que documenta los presagios antes de la llegada del huracán y su impacto devastador: «El viento de otoño se desata en una noche furiosa, la madre del huracán llega del oeste con ira arrogante.»[^35] Doscientos años después, sus versos siguen releyéndose antes de cada tifón.
+La historia de Taiwán frente a los tifones es bastante anterior a la República de China.
 
-Saltamos al 31 de julio de 1996. El tifón Herb azotó Taiwán y Alishan registró 1.094,5 mm de lluvia en un solo día: el equivalente a la precipitación «anual» de la ciudad de Taipéi, vertida en 24 horas.[^5] Fue la primera vez desde que la estación meteorológica se instaló en 1933. Años después, usuarios de PTT recordaban: «El tifón Herb inundó directamente la planta baja de mi casa.» Otro comentó: «La mayor parte de los estanques de peces y tierras de cultivo que mi padre había trabajado toda su vida se los llevó el agua.» Herb fue llamado «el 921 del mundo de los tifones»: sin distinción entre ciudad y campo, ni entre sectores, toda Taiwán sufrió por igual. Las pérdidas totales se estimaron entre 25.300 y 30.000 millones de NTD.[^5]
+Durante el período Tongzhi de la dinastía Qing (alrededor de 1865), los británicos instalaron banderas de colores para alertar del viento y la lluvia en el tejado del hospital Mud (hoy Kaohsiung) en Dagou: fue el primer sistema de alerta meteorológica de Taiwán. El color de la bandera indicaba diferentes niveles de intensidad del viento, y los barcos que las veían sabían si debían o no hacerse a la mar.[^6]
 
-Cinco años después, en septiembre de 2001, el tifón Nari se estancó sobre Taiwán durante 49 horas con una trayectoria errática. La estación meteorológica de Taipéi registró 425 mm de lluvia en un día, un máximo histórico en 105 años de registros.[^2] La línea Bannan del metro de Taipéi suspendió todo su servicio; 16 estaciones y el depósito se inundaron por completo. Hu Zongli, exjefe de sección de la línea Bannan, huyó con las llaves y varios cientos de miles en fondos de operación, mientras las 12 estaciones que administraba quedaban sumergidas en una noche.[^2] Los residentes de Bishanli, en Neihu, habían dedicado un año a impulsar el reciclaje de residuos; con el desastre, 150.000 toneladas de basura colapsaron todo el sistema de reciclaje.[^2]
+Ciento sesenta años antes, en 1705, en Penghu, el funcionario Sun Yuan-heng fue testigo directo de un huracán. Escribió una composición de ochenta y cinco versos, «Oda al huracán»: «De noche el viento otoñal desata el tornado, la madre del huracán llega del oeste con furia arrogante.»[^35] Trescientos años después, cada vez que llega un tifón, sus versos vuelven a ser leídos en alguna publicación de Facebook.
 
-> **📝 Nota del curador**
-> La memoria de los tifones en Taiwán está grabada en lo cotidiano. Hace treinta años, la noche antes de un tifón, las madres llenaban la bañera de agua, compraban pilas y velas, y las abastecían en el mercado (night market). Tras el apagón, toda la familia se reunía a comer fideos con lata de caballa en salsa de tomate: quienes nacieron en los sesenta y setenta recuerdan ese sabor, y los vecinos intercambiando fideos instantáneos de distintos sabores.[^17] Con la mejora de la infraestructura, las generaciones más jóvenes ya no experimentan cortes de agua ni de luz, y esa memoria se está perdiendo.
+Saltemos al 31 de julio de 1996. El tifón Herb azotó Taiwán; Alishan recibió 1.094,5 milímetros de lluvia en un solo día, equivalente a las precipitaciones de «todo un año» en Taipéi, cayendo en cascada en apenas un día.[^5] Fue la primera vez en la historia de la estación meteorológica, establecida en 1933. Usuarios del foro PTT recordaron años después: «El tifón Herb inundó literalmente la planta baja de nuestra casa.» Otro usuario dijo: «Las estanques de peces y los terrenos agrícolas en los que mi padre había invertido toda su vida, la mitad se los llevó el tifón.»[^5] Herb fue denominado el «921 de los tifones», con pérdidas totales de entre 25.000 y 30.000 millones de NT$.
 
-## El mito del «dios protector de la nación»: ¿barrera o amplificador?
+Cinco años después, en septiembre de 2001, el tifón Nari se quedó estancado sobre Taiwán durante 49 horas siguiendo una trayectoria extraña. La estación meteorológica de Taipéi registró 425 milímetros de lluvia en un día, el máximo histórico de la estación en 105 años.[^2] La línea Bannan del metro de Taipéi quedó paralizada en su totalidad y 16 estaciones y cocheras se inundaron completamente. Hu Zong-li, el entonces jefe de tramo de la línea Bannan, escapó con las llaves y decenas de miles de NT$ en efectivo mientras las 12 estaciones a su cargo quedaban anegadas en una noche. Los vecinos del barrio de Bishan en Neihu habían pasado un año recogiendo residuos reciclables; cuando llegó el tifón, 150.000 toneladas de basura colapsaron completamente el sistema de reciclaje.[^2]
 
-Cada vez que un tifón se aproxima de este a oeste, los taiwaneses miran instintivamente hacia la Cordillera Central, cuya altitud promedio supera los 3.000 metros. La llama coloquialmente «dios protector de la nación», agradeciéndole que debilite el tifón y proteja la mitad occidental de la isla.
+Desde los versos de 1705 hasta el metro de 2001, los detalles que el lenguaje registra son distintos, pero el hecho que registran es el mismo: esta isla no sabe por dónde va a romper cuando llega un tifón.
 
-Wu Derong, exdirector del Centro de Pronósticos de la Oficina Meteorológica, ha refutado esta idea en múltiples ocasiones.[^3]
+## La "montaña sagrada protectora" es un compresor, no un escudo
 
-> «Si Taiwán fuera una llanura, las lluvias que trajo Morakot habrían sido radicalmente distintas. Es precisamente la abrupta orografía la que obliga al aire cálido y húmedo a ascender, generando precipitaciones extremas en la ladera de barlovento.»
+Cuando un tifón se acerca de este a oeste, los taiwaneses suelen mirar hacia la Cordillera Central, con una altitud media superior a los 3.000 metros. El apodo popular es "montaña sagrada protectora de la nación", agradecida por debilitar los tifones y proteger la mitad occidental de la isla.
 
-Los datos científicos respaldan su argumento. El tifón Herb acumuló 1.994 mm de lluvia en tres días en Alishan: casi dos mil milímetros. Morakot superó los 3.000 mm totales en Alishan, un máximo histórico.[^5] Esos números no fueron «detenidos por el dios protector», sino «exprimidos por la montaña».
+Wu Derong, exjefe del Centro de Predicción de la Agencia Meteorológica, ha refutado públicamente esta afirmación en múltiples ocasiones.[^3]
 
-> **✦** «Sin la Cordillera Central, el tifón Herb no habría descargado 2.000 mm de lluvia en Alishan.»
+> "Si Taiwán fuera plana, las precipitaciones que trajo Morakot habrían sido 'completamente distintas'. Precisamente porque el terreno accidentado obliga al aire cálido y húmedo a ascender, en la ladera a barlovento cayeron precipitaciones extremas."
 
-Cuando la circulación del tifón desciende por la ladera de sotavento tras cruzar la cordillera, suele provocar un viento cálido y seco de tipo foehn. Las temperaturas se disparan en Taitung y Taichung tras cada tifón, causando graves daños a los cultivos.[^5]
+Los datos científicos respaldan su juicio. Las precipitaciones totales en tres días del tifón Herb en Alishan alcanzaron 1.994 milímetros, casi dos mil. Las precipitaciones totales de Morakot en Alishan superaron los 3.000 milímetros, estableciendo un récord histórico.[^5] ¿Cómo es posible que estas cifras sean el resultado de que "la montaña sagrada las ha bloqueado"? La montaña las exprime. Convierte el viento en agua y la vierte sobre la ladera a barlovento.
 
-[^3]: [舉莫拉克為例：氣象專家吳德榮指中央山脈絕非護國神山](https://tw.news.yahoo.com/%E8%88%89%E8%8E%AB%E6%8B%89%E5%85%8B%E7%82%BA%E4%BE%8B-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%88%E7%B5%95%E9%9D%9E%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-015829806.html) — Reportaje de Yahoo News 2016 en el que Wu Derong usa Morakot como ejemplo para explicar cómo la orografía amplifica las precipitaciones.
+> **📝 Nota editorial**
+>
+> El apodo de "montaña sagrada protectora" es esencialmente la perspectiva de los habitantes de las llanuras de la mitad occidental de la isla. Para las zonas montañosas de la ladera a barlovento, la Cordillera Central actúa como compresor: el viento se convierte en agua y cae sobre esa ladera. En el mismo tifón, la mitad occidental agradece a la montaña que bloquee el viento, mientras las zonas montañosas soportan solas los dos mil milímetros de lluvia que les exprime. Este "quién se beneficia, quién lo soporta" geográfico presagia la misma grieta que aparecerá en todas las historias de tifones que seguirán.
 
-Esta distribución —«la mitad occidental agradece, la zona montañosa soporta»— es en sí misma un reflejo de las diferencias de clase, al igual que el sistema de días libres por tifón: ante un mismo desastre, personas de distintas regiones y sectores asumen costos radicalmente diferentes.
+Cuando la circulación del tifón desciende tras cruzar la Cordillera, suele provocar en la ladera a sotavento un efecto foehn de alta temperatura y sequedad. Tras los tifones, las temperaturas en Taidong y Taichung se disparan, causando graves daños a los cultivos.[^5]
 
-> **📝 Nota del curador**
-> El título de «dios protector de la nación» refleja esencialmente la perspectiva de los residentes de las llanuras del oeste. Para las zonas montañosas de barlovento, la Cordillera Central actúa como un amplificador: el viento se comprime y se convierte en agua que se descarga sobre la ladera expuesta. Esta distribución —«el oeste agradece, la montaña soporta»— es en sí misma un reflejo de las diferencias de clase.
+## Menos pero más fuertes: cada año uno o dos tifones, y cada uno es un evento extremo
 
-## Menos pero más intensos: la nueva normalidad de los tifones bajo el cambio climático
+Las estadísticas de Taiwán entre 1951 y 2023 muestran que hubo seis años en los que no se formó ningún tifón antes de mayo. Entre 2020 y 2022 se registraron incluso tres años consecutivos sin ningún tifón que tocara tierra.[^1]
 
-Las estadísticas de Taiwán entre 1951 y 2023 muestran que en seis años no se formó ningún tifón antes de mayo. Entre 2020 y 2022 se registró un hecho sin precedentes: tres años consecutivos sin ningún tifón tocando tierra.[^1]
+Pero detrás de esta tendencia de "cada vez menos" se esconde un cambio aún más preocupante.
 
-Pero detrás de las cifras se esconde una tendencia aún más preocupante.
+El Centro de Investigación sobre el Cambio Ambiental (RCEC) de la Academia Sinica y la Universidad Normal de Taiwán colaboraron usando el modelo de alta resolución en la nube HiRAM para simular: [^1] a finales de este siglo (2080-2099), los tifones que afecten a Taiwán podrían ser solo uno o dos al año, pero la proporción de supertifones de categoría 4 o superior aumentará más de un 150%, la intensidad de las precipitaciones de los tifones aumentará un 40% y la velocidad del viento al tocar tierra aumentará un 10%.
 
-El Centro de Investigación sobre Cambio Ambiental (RCEC) de la Academia Sinica, en colaboración con la Universidad Normal de Taiwán, utilizó modelos de nube para simular el futuro:[^1] hacia mediados de siglo (2040-2059), el número de tifones que afecten a Taiwán se reducirá a 3 o 4 anuales; para finales de siglo (2080-2099), podrían ser solo 1 o 2.
+| Indicador                                       | Actualidad (período base 1979-2015) | Mediados del siglo XXI (2040-2059) | Finales del siglo XXI (2080-2099) |
+| ----------------------------------------------- | ----------------------------------- | ---------------------------------- | --------------------------------- |
+| Número anual de tifones que afectan a Taiwán    | 4-5                                 | 3-4                                | 1-2                               |
+| Proporción de tifones de categoría 4 o superior | valor base                          | +105%                              | +150%+                            |
+| Intensidad de precipitaciones de los tifones    | valor base                          | +20%                               | +40%                              |
+| Velocidad del viento al tocar tierra            | valor base                          | +8%                                | +10%                              |
 
-La frecuencia disminuye, pero la intensidad aumenta drásticamente.
+La investigación también constató que el 6,5% de las precipitaciones extremas del tifón Morakot fue amplificado por el cambio climático antropogénico.[^1] Sin el calentamiento global, el monte Xiantou podría no haberse derrumbado en aquella madrugada. Este es un número concreto mediante el que la comunidad académica conecta directamente un tifón con el calentamiento del planeta.
 
-| Indicador                             | Actual (período base 1979-2015) | Mediados del siglo XXI (2040-2059) | Finales del siglo XXI (2080-2099) |
-| ------------------------------------- | ------------------------------- | ---------------------------------- | --------------------------------- |
-| Tifones que afectan al año            | 4-5                             | 3-4                                | 1-2                               |
-| Proporción de tifones de categoría 4+ | Valor base                      | +105 %                             | +150 %+                           |
-| Intensidad de lluvia de los tifones   | Valor base                      | +20 %                              | +40 %                             |
-| Velocidad del viento al tocar tierra  | Valor base                      | +8 %                               | +10 %                             |
+"Menos pero más fuertes" invierte la lógica de prevención de desastres del pasado. Antes, los recursos se distribuían partiendo de la premisa de "vendrán varios cada año"; ahora, la premisa es "puede que todo el verano sea tranquilo, pero el que venga tendrá que aguantar la destrucción de todo un año". Un tifón es un evento extremo anual.
 
-[^1]: [氣候報告示警 本世紀末襲台颱風可能每年僅 1 至 2 個但風雨更強](http://www.cna.com.tw/news/ahel/202405080408.aspx) — Reportaje de CNA 2024: el RCEC de la Academia Simula las tendencias de tifones para el próximo siglo con el modelo de nube HiRAM.
+## Los cazadores de tifones: Taiwán que vuela dentro del ojo
 
-El estudio también reveló que el 6,5 % de las precipitaciones extremas del tifón Morakot fueron amplificadas por el cambio climático antropogénico.[^1] En otras palabras, sin el calentamiento global, las lluvias de Morakot quizá no habrían sido tan extremas. Esta es una evidencia empírica que vincula directamente el cambio climático con un desastre específico.
+Las herramientas con las que la humanidad se enfrenta a los tifones han evolucionado desde las banderas de colores de 1865 hasta la IA de 2025. En esa trayectoria hay un profesor de la Universidad Nacional de Taiwán llamado Wu Junjie.
 
-> **📝 Nota del curador**
-> Estos datos transforman la mentalidad de prevención de desastres en Taiwán. Antes se asignaban recursos bajo la premisa de «cualquier año puede haber tifones», pero el futuro presenta un escenario polarizado: «años sin tifones en los que no hay nada contra qué prepararse, y años con tifones de violencia extrema». Cuando un tifón realmente llega, trae consigo un evento extremo que requiere preparación para todo el año, no simplemente unos días de lluvia intensa.
+Desde 2002 lidera el Experimento de Observación de Tifones con Aviones de Reconocimiento en Taiwán (DOTSTAR, conocido popularmente como «Plan de caza de tifones»), el primer gran programa de investigación de tifones en Asia. El 1 de septiembre de 2003, con el tifón Dujuan, el equipo realizó su primera misión oficial de caza de tifones. Hasta finales de 2012, completaron 49 tifones, 64 misiones de vuelo, lanzaron 1.051 sondes desechables y acumularon 334 horas de vuelo. Estos datos de primera mano redujeron el margen de error en la predicción de la trayectoria a 24 y 72 horas en una media del 20%.[^9]
 
-## Un costo de 31.500 millones: las fracturas de clase detrás del día libre por tifón
+Wu Junjie describe en primera persona su experiencia dentro del ojo de un tifón:
 
-En Taiwán, los tifones no son solo desastres naturales; también han generado una cultura única del «día libre por tifón».
+> "Crecí en Taidong, he cazado tifones. Primero sientes el viento del norte, porque los tifones giran en sentido antihorario; luego de repente el viento cesa, es que estás en el interior del ojo del tifón. Unos minutos después empieza el viento del sur, lo que significa que el ojo del tifón ya ha pasado sobre ti."
 
-El origen de este sistema fue una tragedia. El 30 de julio de 2001, durante el paso del tifón de intensidad media Toraji, la maestra Xu Bilan de la escuela primaria Qingshan en el condado de Changhua murió protegiendo a sus alumnos al caer accidentalmente en una zanja de drenaje. El entonces presidente Chen Shui-bian acudió personalmente al funeral, y esta tragedia impulsó al gobierno a establecer criterios formales para la toma de decisiones en días de tifón.[^22] En 2013, el protocolo original fue renombrado como «Reglamento para la suspensión de labores y clases por desastres naturales», ampliando el día libre por tifón a todo tipo de desastres naturales.[^22]
+Pero la caza de tifones es solo una parte del panorama de observación de tifones de Taiwán. En 1998, Taiwán se convirtió en el primer país del mundo en utilizar un avión no tripulado Aerosonde para observar tifones.[^10] Tras la prohibición de exportación del Aerosonde por parte de Estados Unidos en septiembre de 2001, Taiwán se convirtió en el último país en poseer y utilizar ese sistema.
 
-> **✦** «Cada día de suspensión de labores y clases supera los 31.000 millones de NTD en pérdidas.»
+El satélite FORMOSAT-7, lanzado el 25 de junio de 2019, elevó el ángulo de observación desde la troposfera hasta el espacio.[^11] Seis pequeños satélites, en colaboración con la NOAA de Estados Unidos, proporcionan entre 4.000 y 5.000 perfiles atmosféricos al día, de los que aproximadamente el 80% puede penetrar hasta por debajo de 1 kilómetro de altitud, el doble que el sistema antiguo FS3/COSMIC.
 
-Esta cifra proviene de un artículo de 2005 del exministro de Medio Ambiente Peng Qiming, recalculado posteriormente por Lin Borfeng, presidente de la Asociación 33, con datos del PIB de 2023, arrojando una pérdida neta diaria de aproximadamente 31.500 millones de NTD.[^4] El cálculo deduce la producción de industrias de operación continua como los semiconductores y el mercado interno, reflejando el costo económico de lo que «realmente se detiene».
+Para 2025, el Servicio Meteorológico de Taiwán usa seis modelos de IA que integran datos de Estados Unidos, Taiwán y Japón en 18 predicciones de trayectoria. El margen de error en la predicción a 24 horas se redujo de 172 km en 2000 a 57 km en 2025, una mejora del ~67% en 25 años. Los modelos de IA pueden generar datos de alerta para 30 días en tan solo 4 minutos, una velocidad 900 veces superior a los métodos tradicionales.[^11]
 
-Pero esta cifra en sí misma oculta una injusticia.
+| Tecnología                                                 | Datos clave                              | Significado para la prevención de desastres                              |
+| ---------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------ |
+| Plan de caza de tifones (aviones no tripulados)            | 64 misiones, 1.051 sondes desechables    | Margen de error en predicción 24-72 h reducido un 20%                    |
+| FORMOSAT-7 (satélite)                                      | 4.000-5.000 perfiles atmosféricos/día    | 80% penetra hasta menos de 1 km de altitud, el doble del sistema antiguo |
+| Aviones no tripulados de la Universidad Central            | IP65 impermeable, altitud de 3.000 m     | Más de 1.000 misiones de observación                                     |
+| Modelos de IA meteorológicos (6 modelos, incluido Huafeng) | 4 min para generar predicción de 30 días | Error a 24 h de 172 km reducido a 57 km                                  |
 
-Una encuesta de yes123.com a 1.330 trabajadores reveló que el 81 % había trabajado en días de tifón, y el 65 % por exigencia de sus superiores.[^6] El comercio mayorista y minorista (88,6 %), la salud y biotecnología (86,7 %), la hostelería y restauración (85,7 %) y la agricultura, pesca y ganadería (83,3 %) fueron los cinco sectores con mayor tasa de asistencia sin importar el clima.[^6]
+De las banderas de colores a las predicciones a 4 minutos para 30 días, la precisión acumulada durante 160 años es suficiente para que el Gobierno despliegue materiales de rescate con 72 horas de antelación y para que los agricultores cosechen sus plátanos una semana antes. Pero la precisión es, en última instancia, algo que existe en los mapas. El mapa te dice dónde va a tocar tierra el tifón, pero no te dice quién en la calle donde toca tierra tiene que seguir trabajando.
 
-La brecha más crítica está entre clases. Una encuesta de FTNN News mostró que el 53,5 % de los trabajadores recibía el salario completo, pero el 37,7 % no recibía remuneración alguna.[^7] Cerca del 70 % de los trabajadores de industrias tradicionales carecía de medidas de protección.[^6] Cerca de 800.000 trabajadores migrantes extranjeros se concentran en manufactura, agricultura, pesca y ganadería —precisamente los sectores con mayor tasa de asistencia—. Al percibir un salario mensual, la suspensión sin pago afecta directamente los envíos de dinero a sus países de origen; sumado a las restricciones contractuales, «no se atreven a pedir el día libre» es una realidad generalizada.[^8]
+## El costo de 31.500 millones: ¿quién lo paga?
 
-El 96 % de los trabajadores apoya legislar el día libre por tifón como día con salario, pero el Ministerio de Trabajo ha pospuesto la reforma legal argumentando que «podría afectar gravemente a los servicios esenciales».[^6]
+Los tifones también han generado una institución única en Taiwán: el día libre por tifón (días de suspensión de trabajo y clases por desastre natural).
 
-La investigación académica revela otra dimensión: las decisiones sobre días libres por tifón están profundamente influenciadas por consideraciones de opinión pública. Un análisis cuantitativo que abarcó 35 eventos de tifón entre 2005 y 2015 encontró que, en promedio, cada día adicional de asueto correcto incrementaba la tasa de votos para la reelección en un 2 %.[^5] Una decisión correcta aumenta la probabilidad de reelección, mientras que una decisión errónea no conlleva un castigo electoral significativo, lo que explica la pugna psicológica de los políticos de «esperar a que las jurisdicciones vecinas anuncien primero».[^5]
+El punto de partida de esta institución fue una tragedia. El 30 de julio de 2001, durante el paso del tifón de intensidad moderada Toraji, la maestra Xu Bi-lan de la Escuela Primaria Qingshan en el condado de Changhua falleció al caer accidentalmente a un canal de drenaje mientras protegía a sus alumnos. El entonces presidente Chen Shui-bian acudió personalmente a rendir homenaje en el velatorio. Doce años después, en 2013, el reglamento original pasó a llamarse «Medidas operativas para la suspensión de trabajo y clases por desastres naturales».[^22]
 
-| Grupo                                    | Experiencia del día libre por tifón                    | Nivel de riesgo |
-| ---------------------------------------- | ------------------------------------------------------ | --------------- |
-| Funcionarios / trabajadores de oficina   | Día libre con salario completo                         | Bajo            |
-| Trabajadores de industrias tradicionales | Cerca del 70 % sin protección; 37,7 % sin remuneración | Alto            |
-| Trabajadores migrantes extranjeros       | Presión económica que les impide pedir el día libre    | Máximo          |
+> **✦** "Cada día de suspensión de trabajo y clases tiene un impacto superior a los 31.000 millones de nuevos dólares taiwaneses."
 
-[^4]: [數據更新！黃揚明：放一天颱風假、台灣損失超過「這數字」新台幣](https://www.nownews.com/news/6480095) — NOWnews, recálculo del costo económico del día libre por tifón con datos de exportación de 2023.
+Esta afirmación proviene de un artículo del entonces ministro de Medio Ambiente Peng Chi-ming de 2005, y fue recalculada por Lin Bo-feng, presidente de la Cámara de los Tres Tercios, usando datos del PIB de 2023, obteniendo una pérdida neta de aproximadamente 31.500 millones de NT$ al día.[^4]
 
-[^5]: [商周 — 颱風假真能討好小確幸選民嗎？統計結果顯示：放對假才會](https://www.businessweekly.com.tw/focus/blog/20743) — Business Weekly, análisis cuantitativo de la relación entre días libres por tifón y resultados electorales.
+Pero en esa aritmética falta un problema estructural. Una encuesta de yes123 a 1.330 trabajadores encontró que el 81% había ido a trabajar un día de tifón, de los cuales el 65% fue por petición de sus superiores. Una encuesta del portal FTNN de noticias mostró que el 53,5% de los trabajadores cobraba el salario completo, pero el 37,7% no cobraba absolutamente nada.[^7] Los funcionarios y trabajadores de oficina esperan en casa la notificación de suspensión de clases, mientras que los trabajadores del comercio al por mayor y al por menor, la pesca y la hostelería siguen saliendo en ese mismo tifón.
 
-[^6]: [台灣大紀元 — 調查：8 成勞工曾颱風天到班，五大行業好辛勞](https://epochtimes.com.tw/n445585/) — Encuesta de yes123.com a 1.330 trabajadores.
+> **📝 Nota editorial**
+>
+> La historia del día libre por tifón y la de la "montaña sagrada protectora" son en realidad dos versiones de la misma historia. La montaña convierte el viento en agua, ¿sobre la casa de quién cae? El anuncio de suspensión de trabajo ¿a quién le da el día libre y a quién omite? En el mismo tifón, la lluvia en el mapa está distribuida uniformemente, pero quienes cargan con el costo nunca están distribuidos uniformemente.
 
-[^7]: [FTNN 新聞網 — 調查：颱風假五成老闆給全薪](https://www.ftnn.com.tw/news/467148) — Encuesta salarial de 1111 Human Bank sobre días libres por tifón.
+La distribución de clases por tifón según estrato social, los puntos ciegos detrás de la aritmética de los 31.500 millones y la situación de los trabajadores migrantes son otra historia independiente, narrada en el artículo [Día libre por tifón](/Society/颱風假).
 
-[^8]: [21manpower — 外籍移工｜颱風來襲籲加強工安措施](https://www.21manpower.com.tw/migrant-workers/2295/) — Análisis de las dificultades estructurales de los trabajadores migrantes durante los días libres por tifón.
+## Las estaciones meteorológicas de las aldeas: mil años de sabiduría son la última red de seguridad
 
-[^22]: [風傳媒 — 「颱風假」是這樣來的：24 年前一場悲劇，改變台灣防災思維](https://www.storm.mg/articles/1080271) — Rastreo del origen del sistema de días libres por tifón hasta la muerte de la maestra Xu Bilan en 2001.
+La tecnología no es la única forma de predecir los tifones en Taiwán.
 
-## Los que persiguen al viento: desde drones hasta satélites, cómo Taiwán mira al ojo del tifón
+En la aldea de Shennshan del municipio de Laiyi en el condado de Pingtung, los ancianos paiwan observan los fenómenos naturales para juzgar los cambios meteorológicos. Si el arco iris aparece en la dirección de la salida del sol, el tifón se debilitará; si aparece en la dirección de la puesta del sol, traerá un tifón. Grandes bandadas de cangrejos que suben a tierra, grandes migraciones de colonias de hormigas, grandes salidas de lombrices de tierra: todas estas son señales de que se acerca un tifón o un terremoto.[^12]
 
-Si la historia de Luo Pan Chunmei representa la fuerza destructiva de los tifones, la del profesor Wu Junjie representa la valentía humana de enfrentarse directamente al desastre.
+Durante el tifón Morakot de 2009, los miembros de la aldea Kakanami (Shennshan) del condado de Taidong notaron que el agua del arroyo estaba turbia, lo que les alertó del riesgo de deslizamiento de tierra, y evacuaron a tiempo a todos los aldeanos.[^12] Ese año, las 462 vidas de Xiaolin no las salvó ningún satélite, pero los habitantes de la aldea Kakanami sobrevivieron gracias a un arroyo turbio.
 
-Wu Junjie es catedrático del Departamento de Ciencias Atmosféricas de la Universidad Nacional de Taiwán y director del «Experimento de reconocimiento aéreo con aviones y observaciones con dropsondes de tifones que afectan a Taiwán» (DOTSTAR, programa de caza de tifones). Este programa, iniciado en 2002, fue el primer gran programa de investigación de tifones de Asia.[^9]
+Los amis del pueblo portuario de Fengbin en Hualian tienen su propia sabiduría para leer el mar. Antes de que llegue un tifón sopla viento del norte; después de que pase sopla más viento del sur. Si las grandes olas cubren las rocas negras, significa que el tifón va a arrasar la zona. Los nombres de lugares de los dao de Orchid Island (Isla Pequeña de Orquídeas) codifican el conocimiento de los riesgos de desastres. «Ji-Rako a Poas» designa una zona de grandes deslizamientos de tierra; «Ji-Igang» designa una zona de peligro de inundaciones.[^12] Las casas tradicionales semienterradas de los dao se comportaron mejor que las casas modernas de hormigón durante los tifones Morakot y Tembin.
 
-El 1 de septiembre de 2003, con el tifón Dujuan, el equipo realizó su primera «cacería» oficial. Hasta finales de 2012, completaron 49 tifones y 64 misiones de observación, lanzando 1.051 dropsondes con un tiempo total de vuelo de 334 horas.[^9] Estos datos de primera mano redujeron el error promedio en el pronóstico de trayectoria de 24 a 72 horas en un 20 %.[^9]
+El profesor Guan Da-wei de la Universidad Nacional de Chengchi señala en su investigación que, aunque las predicciones meteorológicas tradicionales de los pueblos indígenas no son tan precisas como los instrumentos modernos, reflejan la sabiduría acumulada durante siglos de observación de la naturaleza y coexistencia con el entorno.[^14] Cuando los modelos de IA fallan o en zonas montañosas periféricas sin cobertura de red, estos conocimientos pueden ser la última red de seguridad.
 
-El tifón Sinlaku (2008) presentó un raro fenómeno de doble pared del ojo. El programa de caza de tifones voló durante tres días consecutivos, y todo el equipo multinacional voló durante siete días seguidos.[^9]
+Cuatrocientos años antes, Sun Yuan-heng observaba el viento y el cielo en Penghu; trescientos años después, los ancianos dao observaban el color del arroyo para juzgar los deslizamientos de tierra; hoy el Servicio Meteorológico usa IA para calcular alertas de 30 días. Los tres sistemas se superponen. Cuando la precisión en el mapa se lleva a 57 kilómetros, lo que realmente protege a las personas en esos 57 kilómetros puede seguir siendo ese arroyo turbio.
 
-> «Crecí en Taitung, y los he perseguido. Primero sientes el viento del norte, porque el tifón gira en sentido antihorario; de pronto deja de soplar: estás dentro del ojo. Pasados varios minutos, el viento del norte vuelve a soplar: el ojo ya te ha cruzado.»
+## Quince años de Xiaolin: del derrumbe a los cantos ancestrales
 
-[^9]: [「追風計畫」20 年！吳俊傑談亞洲第一個大型颱風研究計畫](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=ab691668-650c-4ffc-be83-866054a3e029) — Parque Científico y Tecnológico del Ministerio de Ciencia y Tecnología, registro completo de los veinte años del programa de caza de tifones, desde el primer vuelo con Dujuan en 2003 hasta 2023.
+En 2024, el decimoquinto aniversario del tifón Morakot.
 
-Los reconocimientos del programa trascendieron fronteras: en 2009 recibió el «Logro Científico 50» del Consejo Nacional de Ciencia; en 2010 fue seleccionado como uno de los «100 nuevos rostros de Taiwán» por la revista Global Views; en 2014 fue reconocido por el programa decenal THORPEX de la OMM de la ONU.[^9]
+Pan Yuan-ming, presidente de la Asociación de Desarrollo Comunitario de Xiaolin, regresó al santuario conmemorativo. Cambió el material floral de la ofrenda de girasoles a crisantemos, simbolizando la longevidad, con la esperanza de que sus antepasados deseen que sus descendientes vivan bien.[^1]
 
-Pero la caza de tifones es solo una parte del panorama de observación de Taiwán.
+> "Como es un día de tifón, la gente tiene miedo y no se atreve a volver aquí."
 
-En 1998, Taiwán se convirtió en el primer país del mundo en utilizar aviones no tripulados Aerosonde para observar tifones.[^10] El 16 de octubre de 2001, penetró por primera vez en la región externa del núcleo de circulación del tifón «Haiyan». Tras la prohibición de exportación de Estados Unidos en septiembre de 2001, Taiwán se convirtió en el último país en poseer y operar Aerosonde.[^10]
+Las casas permanentes de Wulipo, construidas por la Cruz Roja para los 90 hogares de Xiaolin, tienen una tasa de ocupación de solo el 30 al 40%. Ganarse la vida es difícil, y la generación joven sigue emigrando.[^19] Pero algunos jóvenes eligieron un camino diferente.
 
-El satélite FORMOSAT-7 (Formosa-7), lanzado el 25 de junio de 2019, elevó la perspectiva de observación de la «estratosfera» al «espacio».[^11] Estos seis pequeños satélites, en cooperación con la NOAA de Estados Unidos, constituyen la primera constelación operativa de radio-ocultación enfocada en las regiones tropicales y subtropicales del mundo. Proporciona entre 4.000 y 5.000 perfiles atmosféricos diarios, de los cuales cerca del 80 % penetran por debajo de 1 kilómetro de altitud: el doble que el sistema anterior (FS3/COSMIC).[^11]
+Wang Min-liang (A-liang), director ejecutivo de la Asociación de Desarrollo Comunitario de Riyue Xiaolin, fundó en 2011 el Gran Grupo de Danza Man para acompañar a los habitantes de Xiaolin a superar el dolor a través de cantos ancestrales y danzas. El grupo de danza recibió el reconocimiento del Premio Golden Melody de Artes Tradicionales en 2019.[^1] La pequeña Bangsi-qi llevaba toda la vida escuchando a su madre cantar cantos ancestrales, y dice: «¡Escucho, escucho, oír a mamá cantar y ya lo aprendes!»
 
-| Tecnología                                                    | Dato clave                                   | Significado                                                        |
-| ------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------ |
-| Programa de caza de tifones (drones)                          | 64 misiones, 1.051 dropsondes                | Reducción del 20 % en el error de trayectoria a 24-72 h            |
-| FORMOSAT-7 (satélite)                                         | 4.000-5.000 perfiles atmosféricos diarios    | 80 % penetran por debajo de 1 km, el doble que el sistema anterior |
-| Drones de la Universidad Central                              | Resistentes al agua IP65, 3.000 m de altitud | Más de 1.000 misiones de observación                               |
-| Modelos meteorológicos con IA (seis grupos, incluido Huafeng) | Generan pronóstico a 30 días en 4 minutos    | Error de trayectoria a 24 h reducido de 172 km a 57 km             |
+En la entrevista del décimo aniversario de Morakot en 2019, el superviviente Weng Rui-qi, en las casas permanentes de Wulipo, rehízo su familia con la vecina Yang Mei-lu, que también había perdido a sus seres queridos. Dijo: «La vida tiene que continuar de todos modos.»[^20]
 
-[^10]: [天與水之歌：深入颱風暴風圈！台灣無人飛機探空團隊](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=7e5fafbb-62bc-41ee-93c3-d178854b0cb5) — Parque Científico y Tecnológico del Ministerio de Ciencia y Tecnología, registro completo de la historia de Taiwán desde la introducción de Aerosonde en 1998 hasta los drones de nueva generación en 2014.
+> **📝 Nota editorial**
+>
+> La historia de Xiaolin revela una paradoja de la era de los tifones: la modernización ha llevado a más personas a alejarse de las zonas de riesgo, pero con ello también se han roto las raíces culturales. El intento del Gran Grupo de Danza Man de "plantar de vuelta el hogar" a través de los cantos ancestrales es una respuesta a una pregunta más fundamental: cuando el hogar físico al que ya no se puede volver, ¿dónde se construye el hogar cultural? Esto coincide con el núcleo ideológico de los 335 barrios de gestión autónoma de desastres de Taiwán: mi barrio lo salvo yo. Este programa, impulsado por la Agencia de Recursos Hídricos del Ministerio de Asuntos Económicos desde 2010, ya había establecido 335 comunidades para 2015, desde Meizhou en Yilan y Dingxiang en Keelung hasta Lijin en Yunlin Huwei, con cada barrio organizando su propia red de alerta y rescate.[^15]
 
-[^11]: [福爾摩沙衛星七號介紹](https://www.tasa.org.tw/satellite_program/formosat-7/) — Página oficial del Centro Nacional del Espacio, explicación de cómo FORMOSAT-7 mejora la precisión de los pronósticos meteorológicos.
+Los tifones seguirán llegando. Los modelos de IA seguirán mejorando. Pero lo que Xiaolin le ha dicho a Taiwán durante estos quince años es: por muy precisa que sea la tecnología, la reconstrucción sigue dependiendo de esa relación que fue dispersada y vuelta a reunir: entre persona y persona, entre persona y tierra, entre los vivos y los muertos.
 
-## Desde poetas de la dinastía Qing hasta la IA: las formas de expresar los tifones en Taiwán
+## Se puede predecir el viento y la lluvia, pero no el destino
 
-En Taiwán, los tifones nunca han sido solo un fenómeno meteorológico. También son versos, leyendas y arte.
+El margen de error en la predicción de la trayectoria de los tifones se redujo de 172 kilómetros a 57 kilómetros.
 
-Durante el período Kangxi de la dinastía Qing (1705), el funcionario de Penghu Sun Yuanheng escribió «Canción del huracán» (〈颶風歌〉), un poema de ochenta y cinco versos que documenta el terror del huracán. Zheng Yongxi, de la misma época, escribió en su poema «Huracán» (〈颶風〉): «Lo que más conmueve es la cosecha cercana: los arrozales y cultivos podrían marchitarse.»[^35] Cuando llega un tifón de otoño, la cosecha de los campesinos está en peligro: lo que preocupaba a la gente hace trescientos años es lo mismo que preocupa hoy.
+Pero en aquella madrugada de 2009, el instante en que Luo Pan Chun-mei estaba en el segundo piso mirando cómo se derrumbaba el monte Xiantou y cómo desaparecían 462 de sus seres queridos de su campo de visión, ninguna predicción de ninguna escala de precisión podría haber llegado a tiempo.
 
-En la historia literaria de Taiwán, Xiao Jizong (1915-1996) fue un poeta clásico poco común que tomó los tifones como tema. En 1961 escribió «Versos jocosos tras el paso del tifón Pomina» (〈波蜜娜颱風過境戲賦〉), describiendo el tifón Pomina de 1961 en el formato clásico de suites de sanqu de la dinastía Yuan.[^36] Con un lenguaje humorístico e ingenioso, integró vocabulario moderno como «observatorio» o «puerto de refugio» en melodías antiguas: el primer diálogo entre la forma clásica y el desastre contemporáneo.
-
-En el arte contemporáneo, la serie «Tifón» (〈颱風〉) de Lin Quanju (2002) utiliza montículos de arroz como imagen central, representando la lucha de los campesinos contra los tifones y el ciclo de destrucción y renacimiento tras cada paso del tifón.[^37] Esta serie, en la colección del Museo de Bellas Artes de Kaohsiung, sustituye la denuncia trágica por «el renacimiento tras la destrucción y la coexistencia entre el ser humano y la naturaleza».[^37]
-
-«La isla del gran viento» (《大風之島》), ganadora del premio al mejor documental en el Festival de Cine de Taipéi 2025, dirigida por Xu Yating, utiliza el «viento» como metáfora del movimiento de preservación del sanatorio de Losheng.[^38] La canción tema «Dafengzi» (〈大風子〉), compuesta por Wang Yujun, dice: «Losheng, Losheng / arrancando ramas en protesta / las ramas rotas aún florecen.»[^38] El viento, símbolo de desastre natural, se extiende como metáfora de resiliencia en los movimientos sociales.
-
-[^35]: [農業知識入口網 — 古早台灣的風雨傳說](https://kmweb.moa.gov.tw/theme_data.php?id=55279&sub_theme=agri_life&theme=news) — Incluye poemas clásicos sobre tifones como «Canción del huracán» de Sun Yuanheng y «Huracán» de Zheng Yongxi.
-
-[^36]: [台灣文學館館刊 — 第 15 期](https://dcollection.lib.thu.edu.tw/wp-content/uploads/2024/12/%E7%AC%AC15%E6%9C%9F%E9%A4%A8%E5%88%8A56-61.pdf) — Investigación académica sobre la poesía de tifones de Xiao Jizong, un tema raro en la literatura clásica taiwanesa.
-
-[^37]: [奇美美術館 — 082 林銓居〈颱風〉空間對應的期待與重生](https://www.kmfa.gov.tw/ArtActivityInfo/ArtActivityInfoArticlesDetail.aspx?Cond=1c1bfcfd-c146-43e9-a26f-6184914cf268) — Descripción de la serie «Tifón» de Lin Quanju en la colección del Museo de Bellas Artes de Kaohsiung.
-
-[^38]: [報導者 — 記錄樂生院 20 年，「形成我的世界觀」──專訪《大風之島》導演許雅婷](https://www.twreporter.org/a/director-interview-hsu-ya-ting-island-of-the-winds) — Entrevista con la directora del mejor documental del Festival de Cine de Taipéi 2025.
-
-## La estación meteorológica de la aldea: la sabiduría indígena frente a los tifones
-
-La meteorología moderna no es la única forma de predecir tifones en Taiwán.
-
-En la aldea de Kakanami (Shenshan), en el condado de Pingtung, los ancianos del pueblo Paiwan observan fenómenos naturales para anticipar cambios climáticos.[^12] Cuando un anciano ve el agua del arroyo turbia, cargada de barro, avisa a la aldea: podría haber un derrumbe en la montaña trasera.
-
-Tienen muchos más métodos:
-
-Si el arcoíris aparece en la dirección por donde sale el sol, el tifón se debilitará; si aparece en la dirección de la puesta de sol, atraerá al tifón. Grandes cantidades de cangrejos trepando a tierra firme, hormigueros migrando en masa, lombrices de tierra saliendo a la superficie: todas son señales de que un tifón o un terremoto están por llegar.[^12]
-
-Durante el tifón Morakot en 2009, los miembros de la aldea Kakanami (Shenshan) en el condado de Taitung notaron que el agua del arroyo se enturbiaba, lo que les permitió alertar sobre el riesgo de deslizamiento de tierra y evacuar a tiempo a toda la aldea.[^12] Esta sabiduría tradicional se convirtió en la última red de seguridad en la gestión moderna de desastres.
-
-Los Amis de la aldea de Kungdu en el condado de Hualien tienen su propia sabiduría de observación del mar. Antes de un tifón sopla viento del norte; después del paso, predomina el viento del sur.[^12] Si las piedras negras quedan cubiertas por grandes olas, significa que el tifón barrerá la zona. En la mitología de la aldea Amis Matasping, el dios masculino Sawarwar gira su cuerpo frenéticamente y la diosa Harongheng grita a todo pulmón: se transforman en viento, creando la fuerza destructora y el aterrador rugido del tifón.[^13]
-
-En los topónimos del pueblo Tao de la isla de Orchid, se codifica conocimiento sobre riesgos de desastres. «Ji-Rako a Poas» designa una zona de derrumbes masivos; «Ji-Igang» señala un área de riesgo de inundación.[^12] Las viviendas tradicionales semienterradas del pueblo Tao demostraron un rendimiento superior al de las construcciones modernas de hormigón durante Morakot y el tifón Tembin.[^12]
-
-El profesor Guan Dawei de la Universidad Nacional de Chengchi señala que, aunque las predicciones meteorológicas tradicionales indígenas no son tan precisas como los instrumentos modernos, reflejan una sabiduría de observación prolongada de la naturaleza y de coexistencia con el entorno.[^12] En situaciones límite donde los pronósticos meteorológicos modernos fallan o se retrasan, este conocimiento puede convertirse en la última red de seguridad.
-
-[^12]: [傳統智慧判讀颱風路徑 — 神山、港口部落長者經驗談](https://news.ipcf.org.tw/140803) — TITV (televisión indígena), registro de la sabiduría meteorológica tradicional de los pueblos Paiwan, Amis y Tao.
-
-[^13]: [Wiki — Sawarwar 與 Haronghang](https://zh.wikipedia.org/wiki/Sawarwar%E8%88%87Haronghang) — Documentación de la mitología del tifón de la aldea Amis Matasping.
-
-[^14]: [政大人文．島嶼 — 面對颱風、極端氣候 政大官大偉分享原住民的自然觀](https://humanityisland.nccu.edu.tw/guan-da-wei/) — El profesor Guan Dawei de la Universidad Nacional de Chengchi comparte la cosmovisión indígena y su complementariedad con la meteorología moderna.
-
-## Nuestra casa, nuestra responsabilidad: las redes comunitarias de prevención nacidas de Morakot
-
-Las lecciones del desastre de Morakot no solo enseñaron a Taiwán a «predecir», sino también a «responder».
-
-La Administración de Recursos Hídricos del Ministerio de Economía impulsó desde 2010 las comunidades autónomas de prevención de inundaciones; para finales de 2015 se habían establecido 335.[^15] La filosofía central de estas comunidades es «nuestra casa, nuestra responsabilidad»: cada barrio organiza su propia red de alerta temprana y rescate.
-
-La comunidad de Meizhou en la ciudad de Yilan demostró la eficacia de este modelo durante el tifón Soudelor en 2015. El grupo de patrulla y alerta temprana detectó que una presa corría riesgo de rotura; la notificación urgente evitó que el desastre se agravara.[^15] La comunidad de Dingxiangli en la ciudad de Keelung ejecutó con éxito una evacuación preventiva durante el tifón Nesat en 2022.[^16] La comunidad de Liren en la ciudad de Huwei, condado de Yunlin, desplegó un equipo de protección de 32 personas que, tan pronto como amainó el temporal, salió a inspeccionar y despejar árboles caídos durante el tifón Danas en 2025.[^17]
-
-La investigación del profesor asociado Wang Shitou de la Universidad Nacional de Ciencia y Tecnología de Pingtung documentó los patrones de participación de organizaciones civiles tras Morakot: 32 organizaciones participaron en la reconstrucción, cubriendo cuatro áreas: cuidado comunitario mutuo, restauración de funciones comunitarias, reconstrucción de medios de vida y desarrollo comunitario autónomo.[^18] La conclusión del estudio señala: «Las organizaciones civiles son una fuerza que no debe subestimarse en el trabajo de socorro gubernamental.»[^18]
-
-[^15]: [國立台灣大學氣候天氣災害研究中心 — 自己的家園自己救](https://case.ntu.edu.tw/highscope/%e8%87%aa%e5%b7%b1%e7%9a%84%e5%ae%b6%e5%9c%92%e8%87%aa%e5%b7%b1%e6%95%91-%e8%aa%8d%e8%ad%98%e6%b0%b4%e6%82%a4%e8%87%aa%e4%b8%bb%e9%98%b2%e7%81%bd%e7%a4%be%e5%8d%80/index.html) — Centro de Investigación de Desastres Climáticos y Meteorológicos de la Universidad Nacional de Taiwán, presentación del modelo de comunidades autónomas de prevención de inundaciones.
-
-[^16]: [基隆市政府市政新聞](https://www.klcg.gov.tw/tw/klcg1/3168-286665.html) — Prácticas de prevención de desastres de la comunidad resiliente de Dingxiangli en Keelung.
-
-[^17]: [蕃新聞 — 丹娜絲風災復原家園清理 虎尾鎮立仁社區自主防災](http://n.yam.com/Article/20250708923114) — Verificación práctica del equipo de voluntarios de prevención de desastres de la comunidad de Liren durante el tifón Danas en 2025.
-
-[^18]: [衛生福利部社區發展季刊 — 民間團體參與屏東縣 88 水災社區復原工作模式初探](https://cdj.sfaa.gov.tw/Journal/Content?gno=1618) — Investigación de la Universidad Nacional de Ciencia y Tecnología de Pingtung sobre los patrones de participación de 32 organizaciones civiles en la reconstrucción tras Morakot.
-
-## Quince años después de Xiaolin: lo que los tifones enseñaron a Taiwán
-
-En 2024 se cumplieron quince años del desastre de Morakot.
-
-Pan Yuanming, presidente de la Asociación de Desarrollo Comunitario de Xiaolin, regresó al santuario conmemorativo. Cambió las flores de ofrenda de girasoles a crisantemos —símbolo de longevidad—, expresando el deseo de los antepasados de que las generaciones futuras vivan plenamente.[^1]
-
-> «Como era día de tifón, todos tenían miedo y no se atrevían a volver aquí.»
-
-Las viviendas permanentes de Wulipu, construidas por la Cruz Roja para los residentes de Xiaolin —90 unidades—, tienen una tasa de ocupación de solo el 30 al 40 %. Ganarse la vida es difícil, y los jóvenes siguen emigrando.[^19] Pero algunos jóvenes eligieron un camino diferente.
-
-Wang Minliang (Ah Liang), secretario general de la Asociación de Desarrollo Comunitario de Riguang Xiaolin, fundó el grupo de danza Damanguwu en 2011, guiando a los residentes de Xiaolin a superar el trauma a través de cantos ancestrales y danza. El grupo recibió el reconocimiento del Premio Golden Melody de Artes Tradicionales en 2019.[^1] Wu Bangsiqi, de cinco años, siempre escuchaba a su madre cantar los cantos ancestrales: «Escuchaba y escuchaba, ¡y al escuchar a mi madre cantar, aprendí!»[^1]
-
-> **📝 Nota del curador**
-> La historia de Xiaolin revela una paradoja profunda: la modernidad ha alejado a más personas de las zonas de riesgo, pero también ha roto los hilos culturales. El intento del grupo Damanguwu de «resembrar el hogar» con cantos ancestrales responde a una pregunta más fundamental: cuando el hogar físico ya no se puede recuperar, ¿dónde se construye el hogar cultural?
-
-[^19]: [RTI 中央廣播電臺 — 【莫拉克十年】消失危機進行式 等待歸人的小林村](https://www.rti.org.tw/news/view/id/2030098) — Reportaje del décimo aniversario de Morakot sobre la tasa de ocupación y la situación actual de los residentes en las viviendas permanentes de Wulipu.
-
-## Convivir con la incertidumbre
-
-En 2019, décimo aniversario del desastre de Morakot, Weng Ruiqi se reunió con Yang Meilu, vecina que también había perdido a su familia, en las viviendas permanentes de Wulipu, donde formaron una nueva familia. Dijo: «La vida tiene que continuar.»[^20]
-
-[^20]: [惡水無情人間有愛：小林村倖存者不幸中小確幸](https://www.cna.com.tw/news/aloc/201908070236.aspx) — Reportaje de CNA en el décimo aniversario de Morakot, documentando la historia de reconstrucción de supervivientes como Weng Ruiqi en las viviendas permanentes de Wulipu.
-
-Esta frase quizás también expresa la actitud de la isla de Taiwán frente a los tifones.
-
-Desde que Sun Yuanheng escribió «Canción del huracán» en Penghu durante la dinastía Qing hasta que, en 2025, la Oficina Meteorológica utiliza seis modelos de IA para generar 18 trayectorias de tifón; desde las banderas de tormenta en el puerto de Takao hasta que FORMOSAT-7 lee cinco mil datos atmosféricos diarios desde el espacio; desde los dos mil milímetros de lluvia torrencial en Alishan hasta que los supervivientes de Xiaolin aprendieron a no derramar más lágrimas —cuatrocientos años después, la comprensión de los taiwaneses sobre los tifones está experimentando una transformación profunda.
-
-Pasamos de la «evitación pasiva del desastre» a la «adaptación activa». De «luchar contra el tifón» a «convivir con la incertidumbre».
-
-Pero esta transformación aún no está completa.
-
-Las 335 comunidades autónomas de prevención de desastres cubren solo una pequeña fracción de los barrios de Taiwán. El 37,7 % de los trabajadores de base trabajan en días de tifón sin remuneración. El 96 % de los trabajadores apoya legislar el día libre por tifón con salario, pero la reforma legal sigue sin avanzar. La nueva normalidad de tifones menos frecuentes pero más intensos ya está aquí, pero la distribución de recursos de prevención de desastres sigue superpuesta a las clases sociales.
-
-Swinhoe escribió la palabra «raro» en Tamsui hace 160 años, describiendo un ave.[^21] Hoy, los tifones que enfrentamos son más violentos e impredecibles que los que él vio en su época.
-
-[^21]: [颱風百問](https://www.cwa.gov.tw/V8/C/K/Encyclopedia/typhoon/index.html) — Columna de divulgación científica oficial de la Oficina Meteorológica Central del Ministerio de Transporte, explicación completa de las causas, clasificación, pronóstico e historia de los tifones.
-
-> **✦** «Sin la Cordillera Central, el tifón Herb no habría descargado 2.000 mm de lluvia en Alishan.»
-
-El error en el pronóstico de la trayectoria de los tifones se ha reducido de 172 a 57 kilómetros. Pero el instante en que Luo Pan Chunmei, desde el segundo piso, vio desaparecer a 462 familiares, nos recuerda algo:
-
-Podemos predecir el viento y la lluvia, pero no el destino.
-
----
+Se puede predecir el viento y la lluvia, pero no el destino.
 
 ## Lecturas complementarias
 
-- [Crisis climática y transición a cero emisiones en Taiwán](/nature/台灣氣候危機與淨零轉型) — Detrás del aumento del 40 % en la intensidad de lluvia de los tifones se encuentra el contexto más amplio del calentamiento global y la transición energética de Taiwán
-- [Ecosistemas de alta montaña y reliquias glaciales en Taiwán](/nature/台灣高山生態系與冰河孑遺) — La Cordillera Central no solo altera las trayectorias de los tifones, sino que también alberga algunos de los ecosistemas de mayor altitud del mundo
-- [Lluvia de mayo (梅雨)](/nature/梅雨) — Además de los tifones, la lluvia de mayo es otra gran fuente de precipitaciones estacionales en Taiwán, igualmente afectada por el cambio climático
-- [Conservación marina y desafíos en Taiwán](/nature/台灣海洋保育與挑戰) — La costa suroeste, donde se entrelazan marejadas ciclónicas y subsidencia del terreno, es la primera línea del impacto económico de los tifones
-- [Islas periféricas y cultura marítima](/geography/離島與海洋文化) — La arquitectura tradicional y el conocimiento topográfico del pueblo Tao en la isla de Orchid tienen un valor único de prevención de desastres en la era de los tifones
+- [Día libre por tifón](/Society/颱風假) — En el mismo tifón, los funcionarios se quedan en casa y los trabajadores del comercio al por menor salen. La grieta de clases que falta en la aritmética de los 31.500 millones
+- [Crisis climática de Taiwán y transición hacia cero emisiones netas](/Nature/台灣氣候危機與淨零轉型) — Detrás del aumento del 40% en la intensidad de las precipitaciones de los tifones está el mayor contexto del calentamiento global y la transición energética de Taiwán
+- [Ecosistema alpino de Taiwán y reliquias glaciares](/Nature/台灣高山生態系與冰河孑遺) — La Cordillera Central no solo cambia la trayectoria de los tifones, sino que también alberga el ecosistema alpino de mayor altitud del mundo
+- [Lluvia de ciruelo](/Nature/梅雨) — Además de los tifones, la lluvia de ciruelo es otra fuente importante de la estación lluviosa en Taiwán, igualmente afectada por el cambio climático
+- [Islas periféricas y cultura marítima](/Geography/離島與海洋文化) — La arquitectura tradicional y el conocimiento de los topónimos de los dao de Orchid Island tienen un valor único para la prevención de desastres en la era de los tifones
 
 ## Referencias
 
-[^2]: [北捷 30 週年／納莉颱風慘況觸目驚心！](http://news.tvbs.com.tw/life/3161340) — Reportaje de TVBS en el 30.º aniversario del metro de Taipéi, retrospectiva de las devastadoras inundaciones del tifón Nari, con la línea Bannan fuera de servicio durante tres meses.
+[^1]: [Informe climático advierte que a finales de siglo los tifones que afecten a Taiwán podrían ser solo de 1 a 2 al año pero con vientos y lluvias más intensos](http://www.cna.com.tw/news/ahel/202405080408.aspx) — Informe de la CNA de 2024: el Centro de Investigación sobre el Cambio Ambiental de la Academia Sinica usa el modelo en la nube HiRAM para simular las tendencias de los tifones en el próximo siglo; incluye el contexto de Luo Pan Chun-mei y del Gran Grupo de Danza Man de Wang Min-liang.
 
-[^3]: [舉莫拉克為例：氣象專家吳德榮指中央山脈絕非護國神山](https://tw.news.yahoo.com/%E8%88%89%E8%8E%AB%E6%8B%89%E5%85%8B%E7%82%BA%E4%BE%8B-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%88%E7%B5%95%E9%9D%9E%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-015829806.html) — Reportaje de Yahoo News 2016 en el que Wu Derong explica cómo la orografía amplificó las lluvias de Morakot.
+[^2]: [30 aniversario del metro de Taipéi / Los desastres del tifón Nari resultan impactantes](http://news.tvbs.com.tw/life/3161340) — Informe de TVBS sobre el 30 aniversario del metro de Taipéi y el recuerdo de las inundaciones del tifón Nari; la línea Bannan quedó paralizada durante 3 meses; relato en primera persona de Hu Zong-li.
 
-[^4]: [放 1 天颱風假台灣損失 315 億：為何日本沒颱風假？](https://tw.news.yahoo.com/%E6%94%BE1%E5%A4%A9%E9%A2%A1%E9%A2%A8%E5%81%87%E5%8F%B0%E7%81%A3%E6%90%8D%E5%A4%B1315%E5%84%84-%E8%81%B3%E9%A2%A1%E9%A2%A8%E5%B0%B1%E6%94%BE%E5%81%87-%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%97%8E-%E7%82%BA%E4%BD%95%E6%97%A5%E6%9C%AC%E6%B2%92%E9%A2%A1%E9%A2%A8%E5%81%87-%E4%BB%96%E6%8F%AD%E5%8F%B0%E6%97%A5%E5%B7%AE%E7%95%B6-101040004.html) — Reportaje de Yahoo News 2024 sobre la estimación del costo económico del día libre por tifón y las diferencias entre Taiwán y Japón.
+[^3]: [Tomando Morakot como ejemplo: el experto meteorológico Wu Derong afirma que la Cordillera Central no es la montaña sagrada que protege la nación](https://tw.news.yahoo.com/%E8%88%89%E8%8E%AB%E6%8B%89%E5%85%8B%E7%82%BA%E4%BE%8B-%E6%B0%A3%E8%B1%A1%E5%B0%88%E5%AE%B6%EF%BC%9A%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%88%E7%B5%95%E9%9D%9E%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-015829806.html) — Noticias de Yahoo de 2016: Wu Derong usa Morakot para explicar cómo la lluvia orográfica amplifica las precipitaciones.
 
-[^5]: [颱風來時，中央山脈真的是「護國神山」？專家：觀念絕對錯誤](https://www.storm.mg/article/139829) — Reportaje de Storm.mg 2016, análisis en profundidad del mito del «dios protector de la nación» y las causas orográficas del viento foehn.
+[^4]: [Actualización de datos! Huang Yang-ming: un día de permiso por tifón cuesta a Taiwán más de esta cifra en NT\$](https://www.nownews.com/news/6480095) — NOWnews, recalcula el costo económico del permiso por tifón usando los datos de exportación de 2023.
 
-[^6]: [颱風豪雨農損升至 20.7 億：香蕉、文旦柚皆逾 2 億](https://www.cna.com.tw/news/ahel/202507090394.aspx) — Reportaje de CNA 2025 sobre la distribución de pérdidas agrícolas específicas del tifón Danas en Taiwán.
+[^5]: [Cuando llega el tifón, ¿la Cordillera Central es realmente la "montaña sagrada protectora"? Experto: la idea es absolutamente errónea](https://www.storm.mg/article/139829) — Storm Media, 2016: análisis profundo del mito de la montaña sagrada protectora y el mecanismo del efecto foehn; incluye datos de precipitaciones de Herb en Alishan.
 
-[^7]: [凱米颱風重創中南部：為何高雄廣設滯洪池仍淹水？](https://esg.businesstoday.com.tw/article/category/180687/post/202407250028) — Análisis en profundidad de Business Today 2024 sobre la prueba de resiliencia del tifón Gaemi a parques científicos e infraestructuras.
+[^6]: [100 preguntas sobre tifones](https://www.cwa.gov.tw/V8/C/K/Encyclopedia/typhoon/index.html) — Columna de divulgación científica oficial del Servicio Meteorológico Central de Taiwán: explica en detalle las causas, clasificación, predicción e historia de los tifones; incluye el contexto de las banderas de colores de viento y lluvia en Kaohsiung.
 
-[^8]: [颱風災害專區](https://dra.ncdr.nat.gov.tw/Frontend/Disaster/DisasterDetail/Menu000026) — Sección especial del Centro Nacional de Ciencia y Tecnología para la Prevención de Desastres (NCDR), organización sistemática de los tipos y casos históricos de desastres compuestos por tifones.
+[^7]: [FTNN noticias: Encuesta: en los días de tifón la mitad de los jefes pagan el salario completo](https://www.ftnn.com.tw/news/467148) — Encuesta de 1111 sobre salarios en días de tifón: el 37,7% no cobra absolutamente nada.
+
+[^9]: ["Plan de caza de tifones" a sus 20 años: Wu Junjie habla del primer gran programa de investigación de tifones de Asia](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=ab691668-650c-4ffc-be83-866054a3e029) — Science & Technology Vista del Ministerio de Ciencia y Tecnología: registra el historial completo del Plan de caza de tifones desde el primer vuelo con el tifón Dujuan en 2003 hasta los 20 años del programa en 2023; incluye la descripción en primera persona de Wu Junjie dentro del ojo del tifón.
+
+[^10]: [Canción del cielo y el agua: ¡dentro del círculo de vientos de un tifón! El equipo taiwanés de observación con aviones no tripulados](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=7e5fafbb-62bc-41ee-93c3-d178854b0cb5) — Science & Technology Vista del Ministerio de Ciencia y Tecnología: registra el historial completo desde la introducción del Aerosonde en Taiwán en 1998 hasta los nuevos aviones no tripulados de nueva generación en 2014.
+
+[^11]: [Presentación del satélite FORMOSAT-7](https://www.tasa.org.tw/satellite_program/formosat-7/) — Página oficial del Centro Nacional del Espacio: explica cómo FORMOSAT-7 mejora la precisión de la predicción meteorológica; incluye datos de error a 24 horas del modelo de IA.
+
+[^12]: [Los saberes tradicionales para predecir la trayectoria de los tifones: relatos de experiencia de los ancianos de las aldeas Shennshan y Gangkou](https://news.ipcf.org.tw/140803) — Red de noticias TITV: registra la sabiduría meteorológica tradicional de los paiwan, amis y dao; incluye el caso de evacuación de la aldea Kakanami durante el tifón Morakot en 2009.
+
+[^14]: [Humanidades e islas de la NCCU: frente a los tifones y el clima extremo, el profesor Guan Da-wei de la NCCU comparte la visión de la naturaleza de los pueblos indígenas](https://humanityisland.nccu.edu.tw/guan-da-wei/) — El profesor Guan Da-wei de la Universidad Nacional de Chengchi comparte la relación complementaria entre la visión natural de los pueblos indígenas y la meteorología moderna.
+
+[^15]: [Centro de Investigación sobre el Clima y los Desastres Meteorológicos de la Universidad Nacional de Taiwán: yo salvo mi propio barrio](https://case.ntu.edu.tw/highscope/%e8%87%aa%e5%b7%b1%e7%9a%84%e5%ae%b6%e5%9c%92%e8%87%aa%e5%b7%b1%e6%95%91-%e8%aa%8d%e8%ad%98%e6%b0%b4%e6%82%a3%e8%87%aa%e4%b8%bb%e9%98%b2%e7%81%bd%e7%a4%be%e5%8d%80/index.html) — El Centro de Investigación sobre el Clima y los Desastres Meteorológicos de la NTU presenta el modelo de comunidades autónomas de prevención de desastres por inundaciones; fuente de los datos de 335 comunidades.
+
+[^19]: [RTI Radio Taiwán Internacional: [Diez años de Morakot] El pueblo de Xiaolin en proceso de desaparición, esperando que regresen sus habitantes](https://www.rti.org.tw/news/view/id/2030098) — La tasa de ocupación de las casas permanentes de Wulipo y la situación actual de los aldeanos en el décimo aniversario de Morakot.
+
+[^20]: [Aguas crueles, amor humano: los pequeños consuelos de los supervivientes del pueblo de Xiaolin](https://www.cna.com.tw/news/aloc/201908070236.aspx) — Informe del décimo aniversario de Morakot de la CNA de 2019: registra la historia de reconstrucción de Weng Rui-qi y otros supervivientes en las casas permanentes de Wulipo.
+
+[^22]: [Storm Media: El origen del "permiso por tifón": una tragedia de hace 24 años cambió el pensamiento de prevención de desastres de Taiwán](https://www.storm.mg/articles/1080271) — Traza el origen del sistema de permiso por tifón hasta el fallecimiento de la maestra Xu Bi-lan en 2001.
+
+[^35]: [Portal del conocimiento agrícola: las leyendas del viento y la lluvia en el Taiwán antiguo](https://kmweb.moa.gov.tw/theme_data.php?id=55279&sub_theme=agri_life&theme=news) — Recoge la "Oda al huracán" de Sun Yuan-heng y la "Balada del huracán" de Zheng Yong-xi de la época de la dinastía Qing y otras poesías clásicas sobre tifones.

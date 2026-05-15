@@ -10,10 +10,10 @@ lastVerified: 2026-03-28
 lastHumanReview: 'true'
 featured: 'false'
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:4511682266317092'
-sourceBodyHash: 'sha256:1301d595b3900dd8'
-translatedAt: '2026-05-02T02:50:54+08:00'
+sourceCommitSha: '4b6d28c5'
+sourceContentHash: 'sha256:585e0e43e012a49f'
+sourceBodyHash: 'sha256:e1c0f0613a0e3a84'
+translatedAt: '2026-05-13T01:07:52Z'
 ---
 
 > **30-second overview:** Wang Shaudi is one of Taiwan's most important television directors, having nurtured an entire generation of actors and screenwriters over four decades. Her father was General Wang Sheng (王昇), the head of the intelligence and political warfare system during the martial law era, yet she chose to speak for ordinary people. From the 1980s series _Whole Family Happiness_ to the 2016 project Qseries (植劇場), she has used her camera to document the dignity of Taiwan's social underclass, proving through action that making television is a form of social movement. In 2014, she received the National Award for Arts.
