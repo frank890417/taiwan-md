@@ -4,7 +4,7 @@ description: 'Taiwan heeft de hoogste dichtheid aan gemakswinkels ter wereld —
 date: 2026-05-15
 tags: [Lifestyle, Buurtsuper, 7-Eleven, FamilyMart, Stadscultuur, Nachtleven]
 subcategory: 'Stadsleven'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
 readingTime: 7
 featured: true
