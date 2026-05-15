@@ -238,6 +238,43 @@ export default defineConfig({
     '/en/lifestyle/ah-ji-haircut': '/en/lifestyle/taiwan-hairstyles/',
     '/ja/lifestyle/ah-ji-haircut': '/ja/lifestyle/taiwan-hairstyles/',
     '/ko/lifestyle/ah-ji-haircut': '/ko/lifestyle/taiwan-hairstyles/',
+    // 2026-05-16: 產業轉型 4 篇 → 1 篇 (整併 per issue #1063 哲宇裁決)
+    // canonical: Economy/台灣產業轉型升級.md (補美援/十大建設/新竹園區/四小龍 4 段)
+    // archive 1-3: 台灣產業轉型與經濟發展軌跡 / 產業轉型 / 產業轉型與經濟發展軌跡
+    // 6 lang × 3 archives = 18 redirect entries
+    '/economy/台灣產業轉型與經濟發展軌跡': '/economy/台灣產業轉型升級/',
+    '/en/economy/taiwan-industrial-transformation-trajectory':
+      '/en/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/es/economy/taiwan-industrial-transformation-trajectory':
+      '/es/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/fr/economy/taiwan-industrial-transformation-trajectory':
+      '/fr/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/ja/economy/taiwan-industrial-transformation-trajectory':
+      '/ja/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/ko/economy/taiwan-industrial-transformation-trajectory':
+      '/ko/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/economy/產業轉型': '/economy/台灣產業轉型升級/',
+    '/en/economy/taiwan-industrial-transformation':
+      '/en/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/es/economy/taiwan-industrial-transformation':
+      '/es/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/fr/economy/taiwan-industrial-transformation':
+      '/fr/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/ja/economy/taiwan-industrial-transformation':
+      '/ja/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/ko/economy/taiwan-industrial-transformation':
+      '/ko/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/economy/產業轉型與經濟發展軌跡': '/economy/台灣產業轉型升級/',
+    '/en/economy/industrial-transformation-and-economic-development':
+      '/en/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/es/economy/industrial-transformation-and-economic-development':
+      '/es/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/fr/economy/industrial-transformation-and-economic-development':
+      '/fr/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/ja/economy/industrial-transformation-and-economic-development':
+      '/ja/economy/industrial-transformation-from-manufacturing-to-innovation/',
+    '/ko/economy/industrial-transformation-and-economic-development':
+      '/ko/economy/industrial-transformation-from-manufacturing-to-innovation/',
     // 2026-05-16: Technology/台灣新創生態系 → Economy/新創生態系 (整併 per issue #1063)
     // canonical: Economy/新創生態系.md (lastHumanReview=true + 5 footnotes + EVOLVE 已過)
     // archive: Technology/台灣新創生態系.md (被刪, unique 段整合進 canonical)
