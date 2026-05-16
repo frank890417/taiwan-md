@@ -21,7 +21,7 @@ readingTime: 20
 lastVerified: 2026-04-29
 lastHumanReview: false
 featured: false
-translatedFrom: 'People/呉百福.md'
+translatedFrom: 'People/吳百福.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:1b59d09fec786013'
 sourceBodyHash: 'sha256:3e07cf6a17af5d88'
