@@ -12,8 +12,8 @@ lastVerified: 2026-04-27
 lastHumanReview: false
 translatedFrom: Music/交工樂隊.md
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:c3347c2a085cddc9'
-sourceBodyHash: 'sha256:8f0c4cf2e72a96b9'
+sourceContentHash: 'sha256:912e5f2bd004672b'
+sourceBodyHash: 'sha256:f78b7564231803ab'
 translatedAt: '2026-05-09T06:27:06Z'
 ---
 

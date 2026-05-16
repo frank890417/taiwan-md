@@ -22,8 +22,8 @@ imageLicense: 'Public domain (NASA)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg'
 translatedFrom: 'People/林琪兒.md'
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:ed644880c93bcac8'
-sourceBodyHash: 'sha256:4fd6e96bb27bc80b'
+sourceContentHash: 'sha256:38e432704206edeb'
+sourceBodyHash: 'sha256:96d6f6c73259912b'
 translatedAt: '2026-05-09T06:27:14Z'
 ---
 

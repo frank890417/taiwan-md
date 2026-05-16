@@ -18,8 +18,8 @@ featured: true
 lastVerified: 2026-03-31
 translatedFrom: 'Technology/台灣電視產業史.md'
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:f8c3d1432bd47fe6'
-sourceBodyHash: 'sha256:48b4e5475f2d12a8'
+sourceContentHash: 'sha256:60dba661ebede1ab'
+sourceBodyHash: 'sha256:fe2616d81bff1a07'
 translatedAt: '2026-05-09T06:31:03Z'
 ---
 

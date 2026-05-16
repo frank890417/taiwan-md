@@ -15,10 +15,10 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 created: 2026-03-23
 readingTime: 12
 translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:86475082b87388fc'
 sourceBodyHash: 'sha256:a9375147f15627a6'
-translatedAt: '2026-05-17T06:30:00Z'
+translatedAt: '2026-05-13T01:08:20Z'
 ---
 
 # 대만 차 문화

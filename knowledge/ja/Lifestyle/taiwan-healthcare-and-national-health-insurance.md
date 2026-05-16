@@ -19,10 +19,10 @@ featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '9c91f365'
 sourceContentHash: 'sha256:44244a287820de65'
 sourceBodyHash: 'sha256:4fe433074ad9b614'
-translatedAt: '2026-05-17T06:35:00Z'
+translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 
 # 台湾の医療と全民健康保険

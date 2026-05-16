@@ -9,10 +9,10 @@ author: Taiwan.md
 readingTime: 8
 featured: false
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '9c91f365'
 sourceContentHash: 'sha256:44244a287820de65'
 sourceBodyHash: 'sha256:4fe433074ad9b614'
-translatedAt: '2026-05-17T06:00:00Z'
+translatedAt: '2026-05-13T01:08:31Z'
 category: 'Lifestyle'
 ---
 

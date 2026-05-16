@@ -10,8 +10,8 @@ readingTime: 6
 featured: false
 translatedFrom: 'People/陳偉殷.md'
 sourceCommitSha: '3e53281a'
-sourceContentHash: 'sha256:ffd25b21bdd9c278'
-sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
+sourceContentHash: 'sha256:6b7e4f91c9d8e7c0'
+sourceBodyHash: 'sha256:dcb79e520722938f'
 translatedAt: '2026-05-10T12:00:00Z'
 ---
 

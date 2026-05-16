@@ -11,10 +11,10 @@ readingTime: 15
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: 'd6e87d07'
+sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:16a0f8bff9cea010'
 sourceBodyHash: 'sha256:4bfda7146e522cab'
-translatedAt: '2026-05-17T06:00:00Z'
+translatedAt: '2026-05-13T01:08:31Z'
 ---
 
 # Hou Hsiao-hsien

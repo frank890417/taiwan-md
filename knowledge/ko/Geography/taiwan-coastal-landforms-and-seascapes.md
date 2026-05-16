@@ -10,8 +10,8 @@ readingTime: 10
 featured: true
 translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
 sourceCommitSha: '3e53281a'
-sourceContentHash: 'sha256:8973e8b56e7201bf'
-sourceBodyHash: 'sha256:a8f819c22dc292c1'
+sourceContentHash: 'sha256:e54550587495a0bf'
+sourceBodyHash: 'sha256:d5f36e528ad6bbba'
 translatedAt: '2026-05-10T12:00:00Z'
 ---
 

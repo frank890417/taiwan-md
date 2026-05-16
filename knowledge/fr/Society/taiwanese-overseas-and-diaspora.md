@@ -18,8 +18,8 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'Society/台灣海外僑民與離散社群.md'
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:5ad18a83d0ab46f1'
-sourceBodyHash: 'sha256:dc26781150e83c1c'
+sourceContentHash: 'sha256:273b605321194083'
+sourceBodyHash: 'sha256:5b0c5e70e93cb4b0'
 translatedAt: '2026-05-09T06:31:03Z'
 ---
 
