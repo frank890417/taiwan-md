@@ -60,17 +60,21 @@ KNOWLEDGE = REPO / "knowledge"
 
 # ────────────────── Cascade defaults ──────────────────
 
-DEFAULT_CASCADE_ID = "codex,openrouter:openrouter/owl-alpha,openrouter:openai/gpt-oss-120b:free,gemini,ollama"
-"""Default cascade priority (2026-05-12 admiring-montalcini observation):
+DEFAULT_CASCADE_ID = "codex,gemini,openrouter:openrouter/owl-alpha,openrouter:openai/gpt-oss-120b:free,ollama"
+"""Default cascade priority (v4.2 2026-05-16 哲宇 callout「codex + gemini 為優先」):
 
-1. **codex (gpt-5.5)** — highest quality, subscription-backed, no PRC content policy
-2. **openrouter owl-alpha** — top free-tier when not rate-limited
-3. **openrouter gpt-oss-120b:free** — reliable free fallback
-4. **gemini** — Google subscription as backup
-5. **ollama (qwen3.6)** — sovereignty backbone, never refuses
+1. **codex (gpt-5.5)** — subscription, top quality, ~100% Taiwan pass (production verified)
+2. **gemini (gemini-2.5-pro)** — Google subscription priority partner (對 sensitive 主題待 calibrate)
+3. **openrouter owl-alpha** — verified free, 1M ctx, rate-limit-prone (REFLEXES #45)
+4. **openrouter gpt-oss-120b:free** — verified free fallback (Hy3 退役後 Tier 2)
+5. **ollama (qwen3.6)** — sovereignty backbone, never refuses（需 `ollama serve` 啟動）
 
-Rationale: starts with subscription-paid path (predictable), falls to free, ends
-with local. Order can be changed per哲宇 preference or for cost optimization.
+Rationale: subscription priority pair (codex + gemini) → free-tier verified middle layer
+(owl-alpha + gpt-oss-120b) → local fallback. 驗證佇列 model (Llama-3.3-70b / Hermes-3-405b /
+Gemma-4-31b 等) 不在 default cascade — 要驗證走 `--cascade openrouter:{MODEL}` override +
+SQUEEZE-MODELS-MAX-PIPELINE §驗證 SOP test set。
+
+Pipeline canonical: docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md v4.2
 """
 
 
