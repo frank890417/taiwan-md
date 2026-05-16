@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T08:17:13.439042",
+  "lastUpdated": "2026-05-16T22:01:17.029804",
   "sourcesUsed": ["ga", "searchConsole24h", "cloudflare24h", "sense-cache"],
   "ga": {
     "label": "2026-04-18 to 2026-05-16",
@@ -298,7 +298,52 @@
         "users": 7,
         "events": 38
       }
-    ]
+    ],
+    "byLang": {
+      "zh-TW": {
+        "views": 28562,
+        "users": 19037,
+        "sessions": 0,
+        "avgEngagementSeconds": 0.0,
+        "pageCount": 48
+      },
+      "en": {
+        "views": 483,
+        "users": 256,
+        "sessions": 0,
+        "avgEngagementSeconds": 0.0,
+        "pageCount": 2
+      },
+      "ja": {
+        "views": 0,
+        "users": 0,
+        "sessions": 0,
+        "avgEngagementSeconds": 0,
+        "pageCount": 0
+      },
+      "ko": {
+        "views": 0,
+        "users": 0,
+        "sessions": 0,
+        "avgEngagementSeconds": 0,
+        "pageCount": 0
+      },
+      "es": {
+        "views": 0,
+        "users": 0,
+        "sessions": 0,
+        "avgEngagementSeconds": 0,
+        "pageCount": 0
+      },
+      "fr": {
+        "views": 0,
+        "users": 0,
+        "sessions": 0,
+        "avgEngagementSeconds": 0,
+        "pageCount": 0
+      }
+    },
+    "byLangSource": "top_pages_fallback"
   },
   "searchConsole24h": {
     "label": "2026-04-09 (24h)",

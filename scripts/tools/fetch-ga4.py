@@ -223,6 +223,25 @@ def main():
         limit=50,
     )
 
+    # Report 6: All article paths for per-lang aggregation (2026-05-16)
+    # Path-prefix based lang derivation (zh-TW = no prefix, en/ja/ko/es/fr = prefix).
+    # Limit 500 to capture small-lang signal that the limit=50 top_pages misses.
+    # Powers dashboard-analytics.json `ga.byLang` — sovereignty preservation impact
+    # 量測（per reports/immune-score-redesign-2026-05-16.md §D 短期方案）。
+    by_lang_req = RunReportRequest(
+        property=f"properties/{property_id}",
+        date_ranges=[date_range],
+        dimensions=[Dimension(name="pagePath")],
+        metrics=[
+            Metric(name="screenPageViews"),
+            Metric(name="activeUsers"),
+            Metric(name="sessions"),
+            Metric(name="averageSessionDuration"),
+        ],
+        order_bys=[OrderBy(metric=OrderBy.MetricOrderBy(metric_name="screenPageViews"), desc=True)],
+        limit=500,
+    )
+
     # Report 5: 404 events (if instrumented)
     event_404_req = RunReportRequest(
         property=f"properties/{property_id}",
@@ -255,6 +274,15 @@ def main():
         print(f"⚠️  articles_7d report failed: {type(e).__name__}: {e}", file=sys.stderr)
         articles_7d = None
         articles_7d_ok = False
+
+    # Try by_lang — isolated try; defaults to empty list if API errors.
+    try:
+        by_lang = client.run_report(by_lang_req)
+        by_lang_ok = True
+    except Exception as e:
+        print(f"⚠️  by_lang report failed: {type(e).__name__}: {e}", file=sys.stderr)
+        by_lang = None
+        by_lang_ok = False
 
     # Try 404 events — might fail if custom dimension not registered yet
     try:
@@ -293,6 +321,7 @@ def main():
         } if overall.rows else {},
         "top_pages": parse_rows(pages, 2),
         "top_articles_7d": parse_rows(articles_7d, 2) if articles_7d_ok else [],
+        "by_lang_pages": parse_rows(by_lang, 1) if by_lang_ok else [],
         "traffic_sources": parse_rows(sources, 1),
         "geo": parse_rows(geo, 2),
         "events_404": events_404,

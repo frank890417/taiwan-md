@@ -1,0 +1,176 @@
+{
+  "lastUpdated": "2026-05-16T22:16:34.965247",
+  "schemaVersion": "v2-2026-05-16",
+  "featureFlag": "IMMUNE_V2",
+  "immuneScore": 67,
+  "status": "需關注 — T1 review < 80% OR plugin pass < 90%",
+  "components": {
+    "review_coverage": 21.9,
+    "plugin_pass_rate": 70.0,
+    "plugin_health": 100.0,
+    "citation_density": 88.4,
+    "tool_freshness": 100,
+    "drift_velocity": 90.0
+  },
+  "componentWeights": {
+    "review_coverage": 0.3,
+    "plugin_pass_rate": 0.25,
+    "plugin_health": 0.15,
+    "citation_density": 0.15,
+    "tool_freshness": 0.1,
+    "drift_velocity": 0.05
+  },
+  "tierBreakdown": {
+    "T1": {
+      "total": 329,
+      "reviewed": 66,
+      "pct": 20.1,
+      "weight": 3.0
+    },
+    "T2": {
+      "total": 278,
+      "reviewed": 75,
+      "pct": 27.0,
+      "weight": 1.5
+    },
+    "T3": {
+      "total": 89,
+      "reviewed": 12,
+      "pct": 13.5,
+      "weight": 0.5
+    }
+  },
+  "pluginPassDetail": {
+    "total_files": 698,
+    "hard_pass_files": 698,
+    "hard_pass_pct": 100.0,
+    "warn_pass_files": 0,
+    "warn_pass_pct": 0.0,
+    "weight_formula": "hard×0.7 + warn×0.3"
+  },
+  "citationDetail": {
+    "grades": {
+      "A": 507,
+      "B": 11,
+      "C": 163,
+      "D": 4,
+      "F": 11
+    },
+    "files_with_grade": 696
+  },
+  "freshnessDetail": {
+    "editorial_days_old": 3,
+    "avg_plugin_days_old": 7.6,
+    "plugin_count": 18,
+    "source": "git log %ai (not fs mtime — worktree-safe)"
+  },
+  "driftDetail": {
+    "new_articles_7d": 16,
+    "rate_per_article": 1.0,
+    "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
+  },
+  "pluginHealthDetail": {
+    "plugin_count": 18,
+    "fresh_count": 18,
+    "drifted_count": 0,
+    "editorial_age_days": 3,
+    "drift_thresholds": {
+      "editorial_recent_days": 14,
+      "plugin_stale_days": 30
+    },
+    "plugins": [
+      {
+        "plugin": "chronicle_lead",
+        "plugin_age_days": 3,
+        "drifted": false
+      },
+      {
+        "plugin": "cjk_punct",
+        "plugin_age_days": 12,
+        "drifted": false
+      },
+      {
+        "plugin": "cross_reference",
+        "plugin_age_days": 12,
+        "drifted": false
+      },
+      {
+        "plugin": "footnote_density",
+        "plugin_age_days": 12,
+        "drifted": false
+      },
+      {
+        "plugin": "footnote_format",
+        "plugin_age_days": 8,
+        "drifted": false
+      },
+      {
+        "plugin": "footnote_url",
+        "plugin_age_days": 12,
+        "drifted": false
+      },
+      {
+        "plugin": "format_structure",
+        "plugin_age_days": 12,
+        "drifted": false
+      },
+      {
+        "plugin": "frontmatter_format",
+        "plugin_age_days": 8,
+        "drifted": false
+      },
+      {
+        "plugin": "frontmatter_title",
+        "plugin_age_days": 5,
+        "drifted": false
+      },
+      {
+        "plugin": "image_alt",
+        "plugin_age_days": 0,
+        "drifted": false
+      },
+      {
+        "plugin": "image_health",
+        "plugin_age_days": 3,
+        "drifted": false
+      },
+      {
+        "plugin": "link_target",
+        "plugin_age_days": 12,
+        "drifted": false
+      },
+      {
+        "plugin": "prose_health",
+        "plugin_age_days": 6,
+        "drifted": false
+      },
+      {
+        "plugin": "seo_meta",
+        "plugin_age_days": 0,
+        "drifted": false
+      },
+      {
+        "plugin": "spore_writing",
+        "plugin_age_days": 3,
+        "drifted": false
+      },
+      {
+        "plugin": "terminology",
+        "plugin_age_days": 12,
+        "drifted": false
+      },
+      {
+        "plugin": "wikilink_target",
+        "plugin_age_days": 12,
+        "drifted": false
+      },
+      {
+        "plugin": "word_count",
+        "plugin_age_days": 5,
+        "drifted": false
+      }
+    ],
+    "note": "Phase 7 v1 — per-plugin drift only. Future: per-section EDITORIAL, false-positive-rate, longitudinal violation trend."
+  },
+  "designReport": "reports/immune-score-redesign-2026-05-16.md"
+}

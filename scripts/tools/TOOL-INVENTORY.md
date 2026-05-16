@@ -131,3 +131,87 @@ python3 scripts/tools/article-health.py --all --output=json
 _v1.0 | 2026-04-04_ — original 18-tool matrix
 _v2.0 | 2026-05-04_ — SSOT migration; 8 plugins consolidated into article-health.py
 _v2.0 建立原因_：session η 留下的 27 工具實情已 drift 9 個未列、3-way duplication（quality-scan / check-manifesto-11 / review-pr.sh L2）。SSOT migration 把規則 canonical 收攏到 plugin + TOML config，未來新工具加 plugin 一個指令 inventory 自動更新。詳見 `reports/article-health-ssot-design-2026-05-04.md`.
+
+---
+
+## 🆕 2026-05-16 Standalone 工具四類分類（v2.1）
+
+> 觸發：session 215434-manual 哲宇 directive「盤點文章評分工具進化方向」。盤點 18 standalone 後發現**幾乎全是 complementary**，沒有可砍。改成「分類補文檔 + 識別缺口優先序」。詳見 [reports/immune-score-redesign-2026-05-16.md §1.3 + §2.C](../../reports/immune-score-redesign-2026-05-16.md)。
+
+按操作 layer 把 18 standalone 拆四類，給未來 session 一份「哪個 layer 用哪個工具」reference：
+
+### Class A — Article-layer complementary（5 個）
+
+跟 article-health.py plugin **同 domain 但功能正交**。Plugin 沒覆蓋的特定 mode / use case。
+
+| Tool                             | Plugin 差異                                                                                                            |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `check-cjk-punct.py`             | Plugin facade — 保留 contributors muscle memory + `--fix` 模式                                                         |
+| `check-canonical-frontmatter.py` | 掃 canonical doc frontmatter（sister_docs / promotion_rule 等），vs plugin `frontmatter-format` 掃 article frontmatter |
+| `people-title-check.sh`          | People 類 title 冒號三明治 advisory KPI（不擋 commit，dashboard 用）                                                   |
+| `check-aspect.sh`                | 圖片 aspect ratio 護欄 — plugin `image-health` 是 count gate，aspect 是 ratio gate（互補）                             |
+| `footnote-format-fix.py`         | 4 source format auto-fix + 60+ domain → desc resolve；唯一保留的 `.py` auto-fix（DNA #48 canonical）                   |
+
+### Class B — Repo / system-layer（7 個）
+
+**不是 article-layer** 的健檢，掃認知層 / cron routine / i18n module / hardcoded path。
+
+| Tool                              | 掃描範圍                                               |
+| --------------------------------- | ------------------------------------------------------ |
+| `dna-split-audit.sh`              | DNA.md / REFLEXES.md 拆檔後 cross-ref 一致性           |
+| `routine-sync-check.py`           | ROUTINE.md SSOT vs cron schedule 同步                  |
+| `routine-audit.py`                | Weekly 跨 routine pattern detection（2026-05-16 新增） |
+| `dead-cross-ref-scan.sh`          | 認知層交叉引用斷鏈掃描                                 |
+| `i18n-coverage-audit.sh`          | i18n module 覆蓋率                                     |
+| `check-language-registry-sync.sh` | LangMapRegistry source-of-truth check                  |
+| `check-hardcoded-langs.sh`        | 硬編碼語系列表掃描                                     |
+
+### Class C — Data-layer validators（4 個）
+
+驗證 YAML / TSV / JSON 等 data 來源完整性，**不掃 article prose**。
+
+| Tool                          | 驗證對象                                          |
+| ----------------------------- | ------------------------------------------------- |
+| `terminology-yaml-audit.py`   | TERMINOLOGY YAML 詞庫品質                         |
+| `validate-spore-data.py`      | SPORE-LOG data 完整性                             |
+| `validate-china-fp-tsv.py`    | 中國 fp TSV 格式                                  |
+| `spore-content-hash-audit.py` | Spore content fingerprint 比對（2026-05-16 新增） |
+
+### Class D — Post-build / build-time（2 個）
+
+對 `dist/` 或 build artifact 跑（vs plugin 跑 source `knowledge/`）。
+
+| Tool                        | 何時跑                                                                  |
+| --------------------------- | ----------------------------------------------------------------------- |
+| `verify-internal-links.sh`  | postbuild，對 dist/ html 跑 (link-target plugin 是 source-layer 對應品) |
+| `check-scoped-css-size.mjs` | postbuild，Astro scoped CSS bundle size                                 |
+
+### 為什麼沒 redundant
+
+前評估以為 18 standalone 有 4-5 個 redundant。盤點後**幾乎全是 complementary**：
+
+- 不同 layer（article / repo / data / post-build）天然不會撞
+- 同 layer 內部不同 mode（plugin = source-time check，standalone = post-build / facade / batch-heal mode）
+- 4 個 Class A 是 plugin 的 satellite（facade、互補 dimension、advisory KPI、auto-fix mode），不是 plugin 的 superset
+
+**結論**：Phase C 從「砍冗餘」改成「補文檔 + 識別缺口」。
+
+### 🕳️ 缺口優先序（2026-05-16 reclassified from §🕳️）
+
+從 §🕳️ 既知缺口加上「session 215434-manual 處理優先序」標籤：
+
+| 缺口                       | 重要性 | 處理優先                                                          | 本 session 處理？                |
+| -------------------------- | ------ | ----------------------------------------------------------------- | -------------------------------- |
+| 圖片 alt 文字品質          | 🟠     | **P0** — ship `image-alt` plugin                                  | ✅ Phase 4                       |
+| SEO metadata 品質          | 🟠     | **P0** — ship `seo-meta` plugin                                   | ✅ Phase 5                       |
+| 事實正確性自動驗證         | 🔴     | **P1** — prose-health red-flag scan                               | ❌ defer（LLM-driven，工程量大） |
+| 時序正確性（日期前後矛盾） | 🟡     | **P1** — prose-health red-flag scan                               | ❌ defer                         |
+| 跨語言版本一致性           | 🟡     | **P2** — 已部分 cover（i18n-coverage-audit + translation-status） | ❌ already covered               |
+| 英文版品質掃描             | 🟠     | **P2** — prose-health 多語擴充                                    | ❌ defer                         |
+| 外部連結 404               | 🟡     | **P3** — 需 rate-limit，不適合 plugin                             | ❌ standalone candidate          |
+
+P0 兩個本 session ship（image-alt / seo-meta）。P1/P2/P3 進 LESSONS-INBOX 跟未來 session 接力。
+
+---
+
+_v2.1 | 2026-05-16 215434-manual session — standalone 工具四類分類 (A/B/C/D) + 缺口優先序 reclassified；觸發：哲宇 directive「盤點文章評分工具進化方向」+ 自審 18 standalone 後發現非 redundant 而是 complementary，需要補文檔不是砍。詳見 reports/immune-score-redesign-2026-05-16.md_

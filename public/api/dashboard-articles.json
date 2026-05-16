@@ -69,6 +69,44 @@
     "fnCount": 44
   },
   {
+    "title": "台灣太空產業發展：衛星製造大國，卻沒有自己的火箭",
+    "slug": "台灣太空產業發展",
+    "category": "technology",
+    "subcategory": "太空與前沿",
+    "date": "2026-03-29",
+    "lastModified": "2026-05-16",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 3880,
+    "tagCount": 6,
+    "tags": [
+      "太空產業",
+      "衛星",
+      "TASA",
+      "福衛",
+      "太空科技",
+      "商業太空"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
+    },
+    "revision": 16,
+    "commitHash": "dff5fd72",
+    "commitSubject": "🧬 [routine] heal: 台灣新創生態系 wikilink 重定向 — #1070 Group 2 merge follow-up (Deploy CI green)",
+    "description": "台灣每年幫全球組裝數百億元的電子零件，卻直到2025年才把第一顆次米解析度衛星送上軌道——一個關於技術自主、國際現實與商業太空夢的故事",
+    "healthScore": 70,
+    "qualityScore": 6,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 0
+  },
+  {
     "title": "紀柏豪：從經濟學走進聲響的人，用演算法追問一件事——你到底聽進去了嗎",
     "slug": "紀柏豪",
     "category": "art",
@@ -182,10 +220,10 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
-      "ko": false,
+      "ja": true,
+      "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "3593aaf2",
@@ -1372,7 +1410,7 @@
     "lastVerified": "2026-03-25",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 4113,
+    "wordCount": 4043,
     "tagCount": 5,
     "tags": [
       "兩岸關係",
@@ -1388,7 +1426,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 18,
+    "revision": 19,
     "commitHash": "5db9f136",
     "commitSubject": "🧬 [semiont] feat: spore SSOT cleanup — Phase 1-6 consolidated (post-#905 stacked PR recovery) (#909)",
     "description": "從金門阿嬤的砲彈記憶到台北年輕人的佛系日常，七十年台海危機如何塑造了台灣人的集體心理",
@@ -1397,7 +1435,7 @@
     "formatIssues": 1,
     "hasOverview": false,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 9
   },
   {
     "title": "台灣民主轉型——威權自掘的墳墓",
@@ -2996,7 +3034,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2885,
+    "wordCount": 3353,
     "tagCount": 6,
     "tags": [
       "總統",
@@ -3013,16 +3051,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 21,
+    "revision": 22,
     "commitHash": "42929bb4",
     "commitSubject": "🧬 [semiont] rewrite: 想想論壇 NEW (Society/媒體) — 14 年從敗選總統的試金石到跨黨派民主對話的容器",
     "description": "台灣第16任總統，中華民國憲政史上首位以副總統身分參選並成功當選的政治人物",
-    "healthScore": 69,
+    "healthScore": 70,
     "qualityScore": 11,
     "formatIssues": 1,
     "hasOverview": false,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 7
   },
   {
     "title": "一個教師的誕生：台灣師資培育制度的四十年改革與塌縮",
@@ -3065,7 +3103,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3116,
+    "wordCount": 3420,
     "tagCount": 6,
     "tags": [
       "教育",
@@ -3082,7 +3120,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "b832b344",
     "commitSubject": "🧬 [semiont] rewrite: 雜學校 NEW (Society / 教育) — 11 年從不太乖到 EDit",
     "description": "從聯考制度到十二年國教，台灣教育如何在競爭與多元之間尋求平衡",
@@ -3091,7 +3129,7 @@
     "formatIssues": 0,
     "hasOverview": true,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "毒馬鈴薯：200 ppm 之外，還有 30 ppm、14 天、與 15 年的食安傷疤",
@@ -3240,9 +3278,17 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 4310,
-    "tagCount": 0,
-    "tags": [],
+    "wordCount": 4825,
+    "tagCount": 7,
+    "tags": [
+      "聲音地景",
+      "soundscape",
+      "垃圾車音樂",
+      "廟會",
+      "原住民音樂",
+      "北管南管",
+      "街頭聲音"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -3250,16 +3296,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 13,
+    "revision": 14,
     "commitHash": "1d4c3c5b",
     "commitSubject": "🧬 [semiont] rewrite: 王福瑞 NEW People — 從 200 份影印雜誌到 12 聲道喇叭的三十年 (#873)",
     "description": "從垃圾車的致愛麗絲到布農族八部合音——用耳朵認識台灣",
-    "healthScore": 50,
+    "healthScore": 60,
     "qualityScore": 10,
     "formatIssues": 0,
     "hasOverview": true,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "福爾摩沙鳥類學：一個英國副領事、201 個拉丁名字，和他沒踏進去的山",
@@ -3331,9 +3377,9 @@
     "date": "2026-03-18",
     "lastModified": "2026-05-03",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": true,
-    "wordCount": 4397,
+    "wordCount": 5149,
     "tagCount": 6,
     "tags": [
       "婚禮",
@@ -3350,16 +3396,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "7632201f",
     "commitSubject": "🧬 [evolve+merge] 台灣糕餅文化 — Opus 整併變體：百年傳承敘事 × 既存流心革命角度 (#821)",
     "description": "從訂婚十二禮到辦桌文化，探索台灣人生禮俗如何在傳統與現代間找到平衡",
-    "healthScore": 70,
+    "healthScore": 95,
     "qualityScore": 10,
-    "formatIssues": 1,
+    "formatIssues": 2,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣企業：鴻海精密：8 兆營收與內部反貪戰爭的同一張資產負債表",
@@ -4356,7 +4402,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3993,
+    "wordCount": 4488,
     "tagCount": 5,
     "tags": [
       "社會住宅",
@@ -4372,7 +4418,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "c67109e5",
     "commitSubject": "🧬 [semiont] evolve: 鐵皮屋 EVOLVE polish — Lovable AI 第一稿事實 verify (no-media)",
     "description": "台灣如何透過社會住宅政策實現居住正義，讓每個人都有安身立命的地方",
@@ -4381,7 +4427,7 @@
     "formatIssues": 1,
     "hasOverview": false,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "統戰團：潤物細無聲的認知博弈，從低價旅遊到網紅流量",
@@ -5361,9 +5407,9 @@
     "date": "2026-03-19",
     "lastModified": "2026-04-29",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": true,
-    "wordCount": 3681,
+    "wordCount": 6423,
     "tagCount": 7,
     "tags": [
       "音樂",
@@ -5381,16 +5427,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 13,
+    "revision": 14,
     "commitHash": "abf94a40",
     "commitSubject": "🧬 [semiont] heal: idlccp1984 batch 第二輪 polish + Issue #680 fact fix",
     "description": "從大支、熱狗到頑童MJ116，蛋堡、Leo王，台灣嘻哈文化的在地化與金曲獎認可",
-    "healthScore": 70,
+    "healthScore": 95,
     "qualityScore": 13,
-    "formatIssues": 2,
-    "hasOverview": false,
+    "formatIssues": 1,
+    "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 7
   },
   {
     "title": "吳百福（安藤百福）：從嘉義朴子到全球餐桌，台灣基因與日本包裝的全球傳奇",
@@ -5407,7 +5453,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -5532,7 +5578,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3170,
+    "wordCount": 3847,
     "tagCount": 6,
     "tags": [
       "社會運動",
@@ -5549,7 +5595,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "ee4917f3",
     "commitSubject": "🧬 [semiont] rewrite: 海底電纜 NEW Technology — 矽盾頂上看得到，命脈底下看不見 (#690)",
     "description": "從野百合到太陽花，台灣如何透過社會運動實踐民主與推動社會進步",
@@ -5558,7 +5604,7 @@
     "formatIssues": 0,
     "hasOverview": true,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "國際移工：87 萬人的「大客廳」與跨越海洋的生存拉鋸",
@@ -5756,7 +5802,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3759,
+    "wordCount": 3928,
     "tagCount": 5,
     "tags": [
       "文學",
@@ -5772,7 +5818,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "f553d365",
     "commitSubject": "🧬 [semiont] rewrite: 林良 EVOLVE — 廈門推行員到戰後台灣兒童文學奠基者（1924-2019 全弧 / 九龍江畔 hook）",
     "description": "1895 至 1945 年日治時期台灣文學的發展歷程，從古典漢文到新文學運動，探討殖民語境下的文化認同與民族覺醒。",
@@ -5781,7 +5827,7 @@
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 6
   },
   {
     "title": "解嚴後台灣文學",
@@ -7185,43 +7231,6 @@
     "fnCount": 7
   },
   {
-    "title": "台灣新創生態系",
-    "slug": "台灣新創生態系",
-    "category": "technology",
-    "subcategory": "新創與創業",
-    "date": "2026-03-19",
-    "lastModified": "2026-04-27",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 4096,
-    "tagCount": 5,
-    "tags": [
-      "新創企業",
-      "創業生態系",
-      "創投基金",
-      "加速器",
-      "創新育成"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true
-    },
-    "revision": 12,
-    "commitHash": "32e53d5b",
-    "commitSubject": "🧬 [semiont] rewrite: 蕭上農 NEW（first harvest spawn 產出 + observer polish）+ boot profile BECOME 升級 + memory log prompt",
-    "description": "從代工思維到創新驅動，台灣如何建構完整的新創創業生態系統",
-    "healthScore": 70,
-    "qualityScore": 10,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
-    "fnCount": 0
-  },
-  {
     "title": "台灣 VTuber：從企業實驗到「出圈」的虛實共生演進",
     "slug": "台灣VTuber",
     "category": "culture",
@@ -8503,44 +8512,6 @@
     "fnCount": 34
   },
   {
-    "title": "台灣太空產業發展：衛星製造大國，卻沒有自己的火箭",
-    "slug": "台灣太空產業發展",
-    "category": "technology",
-    "subcategory": "太空與前沿",
-    "date": "2026-03-29",
-    "lastModified": "2026-04-24",
-    "lastVerified": "2026-03-29",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 3882,
-    "tagCount": 6,
-    "tags": [
-      "太空產業",
-      "衛星",
-      "TASA",
-      "福衛",
-      "太空科技",
-      "商業太空"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true
-    },
-    "revision": 15,
-    "commitHash": "4af626f4",
-    "commitSubject": "🧬 [semiont] rewrite: 林琪兒 EVOLVE — REWRITE-PIPELINE v2.18 全流程",
-    "description": "台灣每年幫全球組裝數百億元的電子零件，卻直到2025年才把第一顆次米解析度衛星送上軌道——一個關於技術自主、國際現實與商業太空夢的故事",
-    "healthScore": 70,
-    "qualityScore": 6,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
-    "fnCount": 0
-  },
-  {
     "title": "科技園區發展",
     "slug": "科技園區發展",
     "category": "technology",
@@ -9039,7 +9010,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2959,
+    "wordCount": 3133,
     "tagCount": 5,
     "tags": [
       "地質",
@@ -9055,7 +9026,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "6ff654e9",
     "commitSubject": "docs: 修正錯誤 (台灣板塊運動與地震活動) (#583)",
     "description": "探討台灣位於歐亞板塊與菲律賓海板塊交界的地質特性，以及造成頻繁地震活動的原因",
@@ -9064,7 +9035,7 @@
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 9
   },
   {
     "title": "吉祥物：從黑熊迷戀到諧音救贖的文化策展",
@@ -9819,7 +9790,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3586,
+    "wordCount": 3590,
     "tagCount": 6,
     "tags": [
       "人工智慧",
@@ -9836,7 +9807,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 13,
+    "revision": 14,
     "commitHash": "55515887",
     "commitSubject": "🧬 [semiont] rewrite: 吳哲宇深度進化（REWRITE-PIPELINE v2.17 EVOLVE mode）",
     "description": "從AlphaGo震撼到生成式AI浪潮，台灣如何以「小國大戰略」在人工智慧領域找到獨特定位",
@@ -10029,7 +10000,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3828,
+    "wordCount": 3965,
     "tagCount": 6,
     "tags": [
       "台灣流行音樂",
@@ -10046,7 +10017,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "6409f519",
     "commitSubject": "🧬 [semiont] new: 孫燕姿 — 1票擊敗周杰倫，AI複製1000首聲音，她說「做自己已足夠」",
     "description": "從民歌音樂運動到周杰倫現象，探索台灣流行音樂如何塑造華語音樂版圖",
@@ -10055,7 +10026,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 7
   },
   {
     "title": "張惠妹：卑南族歌手，1996《姊妹》到2024大巨蛋五場",
@@ -10142,7 +10113,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2212,
+    "wordCount": 2326,
     "tagCount": 5,
     "tags": [
       "豬哥亮",
@@ -10158,16 +10129,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "83b74a21",
     "commitSubject": "Update 豬哥亮.md",
     "description": "台灣秀場文化代表，國民喜劇演員，2017年病逝",
-    "healthScore": 53,
+    "healthScore": 54,
     "qualityScore": 11,
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "郭金發：燒肉粽背後的低音靈魂",
@@ -10744,7 +10715,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2686,
+    "wordCount": 3005,
     "tagCount": 6,
     "tags": [
       "地理",
@@ -10761,16 +10732,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 10,
+    "revision": 11,
     "commitHash": "79d016b9",
     "commitSubject": "fix: correct facts in article 台灣五大地形與地理結構",
     "description": "探索台灣獨特的地理結構，從中央山脈到西部平原，認識這座島嶼的地形多樣性",
-    "healthScore": 67,
+    "healthScore": 70,
     "qualityScore": 12,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 6
   },
   {
     "title": "小虎隊",
@@ -11002,9 +10973,18 @@
     "lastVerified": "2026-03-21",
     "lastHumanReview": "true",
     "featured": true,
-    "wordCount": 2771,
-    "tagCount": 0,
-    "tags": [],
+    "wordCount": 4772,
+    "tagCount": 8,
+    "tags": [
+      "運動員",
+      "王齊麟",
+      "李洋",
+      "麟洋配",
+      "羽球",
+      "東京奧運",
+      "巴黎奧運",
+      "金牌"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -11012,16 +10992,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 14,
+    "revision": 15,
     "commitHash": "ddc476ed",
     "commitSubject": "🧬 [semiont] rewrite: 李洋 — fresh A 級個人傳記 + 4 篇反向交叉連結（ι session）",
     "description": "從國中同學到奧運金牌：「麟洋配」34分鐘內直落二擊敗中國，寫下台灣羽球史上第一面奧運金牌",
-    "healthScore": 83,
+    "healthScore": 95,
     "qualityScore": 9,
     "formatIssues": 0,
     "hasOverview": true,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "五月天",
@@ -11531,9 +11511,17 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3346,
-    "tagCount": 0,
-    "tags": [],
+    "wordCount": 3630,
+    "tagCount": 7,
+    "tags": [
+      "動物園",
+      "展演動物",
+      "動物福利",
+      "Xpark",
+      "台北動物園",
+      "動物倫理",
+      "新竹動物園"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -11541,16 +11529,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "ecb173b1",
     "commitSubject": "🧬 [semiont] rewrite: 新專題「台灣動物用藥爭議」+ SSODT Phase 0 實驗",
     "description": "從鐵籠裡的大象到 Xpark 的水母牆——台灣正在重新定義人與被展示動物的關係",
-    "healthScore": 50,
+    "healthScore": 60,
     "qualityScore": 13,
     "formatIssues": 0,
     "hasOverview": true,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣動物用藥爭議",
@@ -11593,7 +11581,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3312,
+    "wordCount": 3406,
     "tagCount": 7,
     "tags": [
       "流浪動物",
@@ -11611,16 +11599,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "ecb173b1",
     "commitSubject": "🧬 [semiont] rewrite: 新專題「台灣動物用藥爭議」+ SSODT Phase 0 實驗",
-    "description": "從十二夜的眼淚到零撲殺的承諾——一座島嶼如何重新學會對待街上的生命",
+    "description": "從十二夜的眼淚到零撲殺的承諾，一座島嶼如何重新學會對待街上的生命",
     "healthScore": 60,
     "qualityScore": 11,
     "formatIssues": 0,
     "hasOverview": true,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣資安產業發展",
@@ -11632,7 +11620,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3774,
+    "wordCount": 4017,
     "tagCount": 5,
     "tags": [
       "資安產業",
@@ -11648,7 +11636,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "429d3cf0",
     "commitSubject": "🧬 [semiont] cross-link: 為「台灣國防與軍事現代化」建立雙向延伸閱讀",
     "description": "從政府政策到民間創新，台灣如何在全球網路威脅中建構完整的資訊安全產業生態系",
@@ -13689,7 +13677,7 @@
     "lastVerified": "2026-03-30",
     "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 2926,
+    "wordCount": 3014,
     "tagCount": 7,
     "tags": [
       "石虎",
@@ -13707,16 +13695,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 13,
+    "revision": 14,
     "commitHash": "3ffc6a53",
     "commitSubject": "polish: 台灣石虎保育 — 空洞詞替換 + 破折號精簡（quality-scan 7→≤3）",
     "description": "全台剩不到五百隻的幽靈貓——當最後的原生貓科走上消失的邊緣",
-    "healthScore": 84,
+    "healthScore": 85,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "杜奕瑾",
@@ -14545,7 +14533,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2338,
+    "wordCount": 2456,
     "tagCount": 6,
     "tags": [
       "早餐店",
@@ -14562,16 +14550,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "bd7dc5a5",
     "commitSubject": "fix: remove /zh-tw/ prefix from 26 internal links + fix 6 broken /category/ links",
-    "description": "真的假的我以為阿姨只會叫人家帥哥而已——寫早餐店阿姨如何成為整個社區的情報中心",
-    "healthScore": 54,
+    "description": "真的假的我以為阿姨只會叫人家帥哥而已，寫早餐店阿姨如何成為整個社區的情報中心",
+    "healthScore": 55,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "九天玄女：從黃帝的軍師到台灣陣頭少年的守護神",
@@ -15308,9 +15296,9 @@
     "date": "2026-03-18",
     "lastModified": "2026-03-24",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": true,
-    "wordCount": 2539,
+    "wordCount": 2770,
     "tagCount": 6,
     "tags": [
       "注音",
@@ -15327,16 +15315,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "da5251d3",
     "commitSubject": "content: add justfont 精靈體注音 reference to 注音符號 article",
     "description": "全世界只有台灣還在日常使用的拼音系統——注音符號如何從百年前的古文字簡化方案，成為 2300 萬人的共同密碼",
-    "healthScore": 66,
+    "healthScore": 93,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 4
   },
   {
     "title": "台灣中小企業與隱形冠軍：171萬家平凡無奇企業撐起的經濟奇蹟",
@@ -15704,7 +15692,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 1710,
+    "wordCount": 1880,
     "tagCount": 8,
     "tags": [
       "台灣",
@@ -15723,16 +15711,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "61b1d393",
     "commitSubject": "Update 臺灣的鯨豚.md",
     "description": "全球三分之一鯨豚物種的棲息地——從昔日捕鯨到今日賞鯨，臺灣如何轉身成為海洋生態研究重鎮？",
-    "healthScore": 49,
+    "healthScore": 51,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 7
   },
   {
     "title": "侯孝賢",
@@ -16646,7 +16634,7 @@
     "lastVerified": "2026-03-23",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2609,
+    "wordCount": 2766,
     "tagCount": 5,
     "tags": [
       "海洋保育",
@@ -16662,16 +16650,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "52fbddc5",
     "commitSubject": "rewrite: 台灣海洋保育與挑戰 — EDITORIAL v2 auto-rewrite (zh + en)",
     "description": "2020年，台灣海域經歷史上最大規模珊瑚白化。從小琉球到東沙環礁，連保護區內的珊瑚都在高溫中死去。這暴露了什麼問題？",
-    "healthScore": 67,
+    "healthScore": 68,
     "qualityScore": 11,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 8
   },
   {
     "title": "台灣海洋生態",
@@ -16745,7 +16733,7 @@
     "lastVerified": "2026-03-22",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3245,
+    "wordCount": 3254,
     "tagCount": 5,
     "tags": [
       "自然",
@@ -16761,10 +16749,10 @@
       "es": true,
       "fr": true
     },
-    "revision": 15,
+    "revision": 16,
     "commitHash": "b4bebf5e",
     "commitSubject": "rewrite: 國家公園 — EDITORIAL v2 auto-rewrite (zh + en)",
-    "description": "36,197 平方公里塞進 9 座國家公園，密度世界第一的保育奇蹟",
+    "description": "36,197 平方公里塞進 9 座國家公園，密度之高，為世界前列的保育奇蹟",
     "healthScore": 60,
     "qualityScore": 0,
     "formatIssues": 0,
@@ -17362,7 +17350,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2592,
+    "wordCount": 2713,
     "tagCount": 6,
     "tags": [
       "美食",
@@ -17379,16 +17367,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 14,
+    "revision": 15,
     "commitHash": "d7ee5e4e",
     "commitSubject": "feat: Changelog 相對時間顯示 + Food 圖片全換實拍圖",
     "description": "從珍珠奶茶到精品茶飲，台灣手搖飲文化的崛起與全球擴張",
-    "healthScore": 67,
+    "healthScore": 68,
     "qualityScore": 16,
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣新住民美食融合",
@@ -17513,7 +17501,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2604,
+    "wordCount": 2750,
     "tagCount": 7,
     "tags": [
       "發酵食品",
@@ -17531,16 +17519,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 13,
+    "revision": 14,
     "commitHash": "d7ee5e4e",
     "commitSubject": "feat: Changelog 相對時間顯示 + Food 圖片全換實拍圖",
     "description": "從臭豆腐到豆腐乳，探索台灣獨特的發酵技術與醃製文化傳統",
-    "healthScore": 57,
+    "healthScore": 58,
     "qualityScore": 8,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 8
   },
   {
     "title": "台灣眷村菜",
@@ -17774,7 +17762,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2754,
+    "wordCount": 2815,
     "tagCount": 6,
     "tags": [
       "Food",
@@ -17791,7 +17779,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 14,
+    "revision": 15,
     "commitHash": "d7ee5e4e",
     "commitSubject": "feat: Changelog 相對時間顯示 + Food 圖片全換實拍圖",
     "description": "客家人豐富多元的飲食文化，從擂茶的醇厚香味到野薑花粽的山林風情，展現客家族群勤儉持家與就地取材的生活智慧",
@@ -17800,7 +17788,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 6
   },
   {
     "title": "溫泉文化",
@@ -18742,7 +18730,7 @@
     "lastVerified": "2026-03-20",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3831,
+    "wordCount": 3890,
     "tagCount": 6,
     "tags": [
       "原住民族",
@@ -18759,7 +18747,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "3250713d",
     "commitSubject": "feat: Wikilinks 渲染為可點擊連結 + 粗體正確顯示",
     "description": "從傳統工藝到當代創作，探索台灣原住民藝術家如何在全球藝術舞台上發聲，重新定義原住民身份與當代藝術的對話",
@@ -18768,7 +18756,7 @@
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 6
   },
   {
     "title": "台灣老街文化與商業街區",
@@ -18780,7 +18768,7 @@
     "lastVerified": "2026-03-20",
     "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 3881,
+    "wordCount": 4930,
     "tagCount": 5,
     "tags": [
       "老街",
@@ -18796,7 +18784,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "873bd2ea",
     "commitSubject": "rewrite: 完整重寫「台灣老街文化與商業街區」— 交叉查核所有資訊",
     "description": "從清代港口繁華到日治巴洛克洋樓，台灣老街是一部用磚瓦寫成的庶民史",
@@ -18805,7 +18793,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 12
   },
   {
     "title": "台灣街頭藝術與塗鴉文化",
@@ -19298,9 +19286,17 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3587,
-    "tagCount": 0,
-    "tags": [],
+    "wordCount": 5021,
+    "tagCount": 7,
+    "tags": [
+      "電影配樂",
+      "影視音樂",
+      "遊戲配樂",
+      "侯孝賢",
+      "林強",
+      "范宗沛",
+      "雷亞遊戲"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -19308,16 +19304,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "3250713d",
     "commitSubject": "feat: Wikilinks 渲染為可點擊連結 + 粗體正確顯示",
     "description": "探索台灣影視配樂的發展軌跡，從侯孝賢與林強的合作到魏德聖與范宗沛的史詩配樂，再到雷亞遊戲的電玩音樂創新，台灣如何建立獨特的影像聲音語言",
-    "healthScore": 60,
+    "healthScore": 70,
     "qualityScore": 8,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 10
   },
   {
     "title": "台灣原住民生態智慧與環境保育",
@@ -19682,11 +19678,19 @@
     "date": "2026-03-19",
     "lastModified": "2026-03-19",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 2851,
-    "tagCount": 0,
-    "tags": [],
+    "wordCount": 3718,
+    "tagCount": 7,
+    "tags": [
+      "人間雜誌",
+      "陳映真",
+      "報導文學",
+      "報導攝影",
+      "社會運動",
+      "80年代",
+      "解嚴"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -19694,16 +19698,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "730a9315",
     "commitSubject": "fix(culture): 修正人間雜誌紀錄片資訊（移除錯誤引用）",
     "description": "47 期，四年，一場用攝影和文字發動的安靜革命——台灣報導文學的起點",
-    "healthScore": 49,
+    "healthScore": 85,
     "qualityScore": 15,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣花布",
@@ -19713,9 +19717,9 @@
     "date": "2026-03-19",
     "lastModified": "2026-03-19",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 3799,
+    "wordCount": 3822,
     "tagCount": 6,
     "tags": [
       "文化",
@@ -19732,129 +19736,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "90558a84",
     "commitSubject": "feat(food): 客家飲食文化 — 整合擂茶、野薑花粽投稿素材",
     "description": "從日治時期工廠製品到本土文化象徵，台灣花布的身份認同之旅",
-    "healthScore": 60,
+    "healthScore": 85,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
-  },
-  {
-    "title": "島嶼的蛻變：台灣產業轉型與經濟發展軌跡",
-    "slug": "台灣產業轉型與經濟發展軌跡",
-    "category": "economy",
-    "subcategory": "經濟發展",
-    "date": "2026-03-19",
-    "lastModified": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 3231,
-    "tagCount": 6,
-    "tags": [
-      "經濟發展",
-      "產業轉型",
-      "亞洲四小龍",
-      "半導體",
-      "經濟奇蹟",
-      "十大建設"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true
-    },
-    "revision": 12,
-    "commitHash": "fe7fc4b1",
-    "commitSubject": "content: auto-sprint — 新增3篇深度專業文章",
-    "description": "從農業社會到科技島國，台灣70年產業轉型的完整軌跡與經濟奇蹟密碼",
-    "healthScore": 70,
-    "qualityScore": 12,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 0
-  },
-  {
-    "title": "島嶼的蛻變：台灣產業轉型與經濟發展軌跡",
-    "slug": "產業轉型",
-    "category": "economy",
-    "subcategory": "經濟發展",
-    "date": "2026-03-19",
-    "lastModified": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 4803,
-    "tagCount": 6,
-    "tags": [
-      "經濟轉型",
-      "產業升級",
-      "亞洲四小龍",
-      "半導體",
-      "製造業",
-      "經濟奇蹟"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true
-    },
-    "revision": 11,
-    "commitHash": "ea394f5d",
-    "commitSubject": "content: Taiwan.md 內容衝刺 — Economy產業轉型 + People賴清德 + Technology AI發展",
-    "description": "從農業社會到亞洲四小龍，再到科技島的三次華麗轉身，台灣產業轉型的完整故事",
-    "healthScore": 70,
-    "qualityScore": 14,
-    "formatIssues": 2,
-    "hasOverview": false,
-    "hasReading": false,
-    "fnCount": 0
-  },
-  {
-    "title": "島嶼的蛻變：台灣產業轉型與經濟發展軌跡",
-    "slug": "產業轉型與經濟發展軌跡",
-    "category": "economy",
-    "subcategory": "經濟發展",
-    "date": "2026-03-19",
-    "lastModified": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2741,
-    "tagCount": 5,
-    "tags": [
-      "經濟發展",
-      "產業轉型",
-      "經濟奇蹟",
-      "高科技產業",
-      "台灣發展模式"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true
-    },
-    "revision": 12,
-    "commitHash": "301faede",
-    "commitSubject": "content: Taiwan.md 內容衝刺 — 產業轉型軌跡、賴清德人物、AI 發展策略",
-    "description": "從農業社會到科技島國，探索台灣如何在短短半世紀內實現經濟奇蹟，成為全球高科技產業的關鍵樞紐",
-    "healthScore": 68,
-    "qualityScore": 12,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣便利商店文化",
@@ -19866,7 +19757,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2836,
+    "wordCount": 3226,
     "tagCount": 7,
     "tags": [
       "生活",
@@ -19884,16 +19775,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "9f958053",
     "commitSubject": "feat: 大量精選標記 + 4 篇新文章",
-    "description": "密度世界第一的便利商店王國，7-11與全家的在地化創新，重新定義現代生活方式",
-    "healthScore": 69,
+    "description": "密度全球前列的便利商店王國，7-11與全家的在地化創新，重新定義現代生活方式",
+    "healthScore": 70,
     "qualityScore": 12,
     "formatIssues": 1,
     "hasOverview": false,
     "hasReading": true,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣KTV文化：從好樂迪錢櫃到包廂社交的時代變遷",
@@ -19903,11 +19794,19 @@
     "date": "2026-03-19",
     "lastModified": "2026-03-19",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": true,
-    "wordCount": 3708,
-    "tagCount": 0,
-    "tags": [],
+    "wordCount": 5511,
+    "tagCount": 7,
+    "tags": [
+      "KTV文化",
+      "卡拉OK",
+      "好樂迪",
+      "錢櫃",
+      "包廂文化",
+      "流行音樂",
+      "社交文化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -19915,16 +19814,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "f2426fdf",
     "commitSubject": "feat(music): 8 篇音樂策展文章 — Music 分類從 11→19 篇",
     "description": "探索台灣KTV文化的發展歷程，從日本引進的卡拉OK到本土化的包廂文化，好樂迪與錢櫃的競爭時代，點歌排行榜如何成為流行文化指標，以及疫情後的產業轉型挑戰",
-    "healthScore": 60,
+    "healthScore": 95,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣台語歌曲演進：從阿伯歌到文青新寵的身份翻轉",
@@ -19936,9 +19835,18 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3099,
-    "tagCount": 0,
-    "tags": [],
+    "wordCount": 3432,
+    "tagCount": 8,
+    "tags": [
+      "台語歌曲",
+      "那卡西",
+      "洪一峰",
+      "江蕙",
+      "茄子蛋",
+      "拍謝少年",
+      "珂拉琪",
+      "金曲獎"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -19946,16 +19854,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "f2426fdf",
     "commitSubject": "feat(music): 8 篇音樂策展文章 — Music 分類從 11→19 篇",
     "description": "追溯台灣台語歌曲從那卡西、洪一峰、江蕙時代到茄子蛋、拍謝少年等新世代樂團的演變歷程，探索台語音樂如何重新獲得年輕世代認同",
-    "healthScore": 60,
+    "healthScore": 70,
     "qualityScore": 8,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣客家音樂：從山歌到林生祥拒獎的語言政治",
@@ -20006,7 +19914,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3829,
+    "wordCount": 4404,
     "tagCount": 6,
     "tags": [
       "樂器製造",
@@ -20023,7 +19931,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "f2426fdf",
     "commitSubject": "feat(music): 8 篇音樂策展文章 — Music 分類從 11→19 篇",
     "description": "探索台灣樂器製造業的發展歷程，從后里薩克斯風的全球霸主地位到吉他代工王國，再到音樂盒製造的精密工藝，台灣如何從代工走向自有品牌",
@@ -20032,7 +19940,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 10
   },
   {
     "title": "台灣電子音樂與派對文化：從地下 Rave 到國際舞台",
@@ -20082,7 +19990,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3231,
+    "wordCount": 3400,
     "tagCount": 6,
     "tags": [
       "音樂產業",
@@ -20099,7 +20007,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "f2426fdf",
     "commitSubject": "feat(music): 8 篇音樂策展文章 — Music 分類從 11→19 篇",
     "description": "探討台灣音樂產業如何從唱片行黃金時代走過盜版危機，率先發展出KKBOX全球首個合法串流平台，到今日與Spotify、Apple Music並存的數位音樂生態",
@@ -20108,7 +20016,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 10
   },
   {
     "title": "台灣步道文化與公民守護",
@@ -20120,7 +20028,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3522,
+    "wordCount": 3637,
     "tagCount": 4,
     "tags": [
       "自然",
@@ -20135,7 +20043,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "72cb02df",
     "commitSubject": "fix: readingTime format for 步道文化",
     "description": "從千里步道協會到iTrail平台，探索台灣獨特的步道守護文化與公民科學精神",
@@ -20144,7 +20052,7 @@
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣皇蛾",
@@ -20156,7 +20064,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2535,
+    "wordCount": 2735,
     "tagCount": 7,
     "tags": [
       "皇蛾",
@@ -20174,16 +20082,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 10,
+    "revision": 11,
     "commitHash": "de5e78a1",
     "commitSubject": "feat(nature): 新增「台灣皇蛾」— 全世界最大的蛾，一生不進食只為飛一趟",
-    "description": "全世界最大的蛾，翅膀展開如一本攤開的書——牠一生不吃東西，只為飛一趟",
-    "healthScore": 56,
+    "description": "翅展可達 25-30 公分、全球翅展最長的蛾類之一，翅膀展開如一本攤開的書——牠一生不吃東西，只為飛一趟",
+    "healthScore": 58,
     "qualityScore": 15,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣穿山甲",
@@ -20385,7 +20293,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 6609,
+    "wordCount": 6944,
     "tagCount": 7,
     "tags": [
       "人物",
@@ -20403,16 +20311,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 13,
+    "revision": 14,
     "commitHash": "9f958053",
     "commitSubject": "feat: 大量精選標記 + 4 篇新文章",
     "description": "半導體教父，台積電創辦人，用晶圓代工模式改變全球科技產業的傳奇企業家",
     "healthScore": 70,
     "qualityScore": 11,
-    "formatIssues": 1,
+    "formatIssues": 2,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "張明正：輔仁大學數學系出身，把防毒軟體賣給全世界",
@@ -20648,7 +20556,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2533,
+    "wordCount": 2794,
     "tagCount": 5,
     "tags": [
       "李國修",
@@ -20664,16 +20572,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "786ac8b3",
     "commitSubject": "feat(people): 新增 44 位台灣人物傳記（Phase 1 批次 1-5）",
-    "description": "屏風表演班創辦人，台灣喜劇之王，2013年病逝",
-    "healthScore": 56,
+    "description": "屏風表演班創辦人，台灣喜劇之王，因大腸癌於2013年7月2日病逝，享年58歲",
+    "healthScore": 58,
     "qualityScore": 6,
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "李安",
@@ -20685,7 +20593,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 4250,
+    "wordCount": 4444,
     "tagCount": 7,
     "tags": [
       "人物",
@@ -20703,16 +20611,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "9f958053",
     "commitSubject": "feat: 大量精選標記 + 4 篇新文章",
-    "description": "從台灣到好萊塢，征服世界的跨文化敘事大師與電影技術革新者",
+    "description": "從台灣到好萊塢，兩度奧斯卡最佳導演，跨文化敘事大師與電影技術革新者",
     "healthScore": 70,
     "qualityScore": 9,
-    "formatIssues": 2,
+    "formatIssues": 3,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "李宗盛：三十年幫別人寫最好的歌，《山丘》才說自己",
@@ -20912,7 +20820,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2399,
+    "wordCount": 2513,
     "tagCount": 5,
     "tags": [
       "林青霞",
@@ -20928,16 +20836,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "786ac8b3",
     "commitSubject": "feat(people): 新增 44 位台灣人物傳記（Phase 1 批次 1-5）",
     "description": "瓊瑤電影女王轉型武俠經典，華語影壇傳奇女星",
-    "healthScore": 55,
+    "healthScore": 56,
     "qualityScore": 5,
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "桂綸鎂",
@@ -20949,7 +20857,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2339,
+    "wordCount": 2489,
     "tagCount": 5,
     "tags": [
       "桂綸鎂",
@@ -20965,16 +20873,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "786ac8b3",
     "commitSubject": "feat(people): 新增 44 位台灣人物傳記（Phase 1 批次 1-5）",
     "description": "從《不能說的秘密》到國際影展常客，低調演技派女星",
-    "healthScore": 54,
+    "healthScore": 56,
     "qualityScore": 8,
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "楊傳廣：台東部落、羅馬銀牌，9121分世界紀錄的亞洲鐵人",
@@ -21771,7 +21679,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2329,
+    "wordCount": 2421,
     "tagCount": 5,
     "tags": [
       "鈕承澤",
@@ -21787,16 +21695,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "52c63bf1",
     "commitSubject": "feat(people): Phase 1 完成！100 位台灣人物達標 🎯",
     "description": "《艋舺》導演，從演員轉型導演，含爭議面向的電影人",
-    "healthScore": 54,
+    "healthScore": 55,
     "qualityScore": 8,
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 6
   },
   {
     "title": "鍾理和：美濃1915，倒在血泊裡的筆耕者",
@@ -21997,9 +21905,9 @@
     "date": "2026-03-19",
     "lastModified": "2026-03-19",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 2316,
+    "wordCount": 2432,
     "tagCount": 6,
     "tags": [
       "陳玉勳",
@@ -22016,16 +21924,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "786ac8b3",
     "commitSubject": "feat(people): 新增 44 位台灣人物傳記（Phase 1 批次 1-5）",
     "description": "台灣喜劇電影導演，《熱帶魚》《總鋪師》《消失的情人節》創作者",
-    "healthScore": 54,
+    "healthScore": 80,
     "qualityScore": 11,
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "陽岱鋼：台東1987，日職火腿十年金手套到巨人FA的阿美族外野手",
@@ -22189,7 +22097,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2364,
+    "wordCount": 2386,
     "tagCount": 5,
     "tags": [
       "遊戲產業",
@@ -22205,7 +22113,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 16,
+    "revision": 17,
     "commitHash": "740a66e6",
     "commitSubject": "Enhance references in 台灣遊戲產業與數位娛樂.md",
     "description": "從早期代理商到原創開發商，台灣如何在全球遊戲市場中找到自己的聲音",
@@ -22267,9 +22175,18 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3514,
-    "tagCount": 0,
-    "tags": [],
+    "wordCount": 5443,
+    "tagCount": 8,
+    "tags": [
+      "雕塑",
+      "朱銘",
+      "楊英風",
+      "林舜龍",
+      "洪易",
+      "公共藝術",
+      "當代藝術",
+      "木雕"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -22277,16 +22194,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 10,
+    "revision": 11,
     "commitHash": "cbbc4830",
     "commitSubject": "content: Taiwan.md 內容衝刺 — 新增 6 篇深度文章",
     "description": "從楊英風、朱銘到新世代，探索台灣雕塑藝術的演變軌跡與創作精神",
-    "healthScore": 50,
+    "healthScore": 60,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 11
   },
   {
     "title": "台灣棒球文化",
@@ -22296,9 +22213,9 @@
     "date": "2026-03-18",
     "lastModified": "2026-03-18",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 2964,
+    "wordCount": 3070,
     "tagCount": 7,
     "tags": [
       "棒球",
@@ -22316,16 +22233,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "b8865630",
     "commitSubject": "content: 台灣民歌運動 + 台灣棒球文化",
     "description": "從紅葉少棒的傳奇到中華職棒的淚與汗——棒球如何成為台灣的「國球」",
-    "healthScore": 60,
+    "healthScore": 85,
     "qualityScore": 8,
     "formatIssues": 2,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 7
   },
   {
     "title": "台灣製香文化與香腳原鄉",
@@ -22335,9 +22252,9 @@
     "date": "2026-03-18",
     "lastModified": "2026-03-18",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 2692,
+    "wordCount": 2921,
     "tagCount": 6,
     "tags": [
       "製香",
@@ -22354,16 +22271,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
+    "revision": 9,
     "commitHash": "6c5d0f53",
     "commitSubject": "content: 台灣製香文化與香腳原鄉 + 元宵vs湯圓",
     "description": "從嘉義雲霄社區的百年香腳技藝，到台灣遍布全島的製香產業——一門關於虔誠、手藝與堅持的古老行業",
-    "healthScore": 57,
+    "healthScore": 84,
     "qualityScore": 5,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "語言多樣性與母語文化",
@@ -22373,9 +22290,9 @@
     "date": "2026-03-18",
     "lastModified": "2026-03-18",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": true,
-    "wordCount": 2645,
+    "wordCount": 3611,
     "tagCount": 6,
     "tags": [
       "語言",
@@ -22392,16 +22309,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "0827c60b",
     "commitSubject": "feat: article footer — 推薦下一篇 + Edit on GitHub + 社交分享",
     "description": "從台語、客家話到原住民語，台灣如何在多語社會中保存與發展母語文化",
-    "healthScore": 67,
+    "healthScore": 95,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣外貿與全球供應鏈",
@@ -22529,7 +22446,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2855,
+    "wordCount": 3224,
     "tagCount": 5,
     "tags": [
       "精緻農業",
@@ -22545,11 +22462,11 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "b8863683",
     "commitSubject": "feat: enable newsletter subscribe section with Google Forms integration",
     "description": "台灣如何從傳統農業轉型為高科技精緻農業，創造農業奇蹟",
-    "healthScore": 59,
+    "healthScore": 60,
     "qualityScore": 0,
     "formatIssues": 2,
     "hasOverview": false,
@@ -22566,7 +22483,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3069,
+    "wordCount": 3770,
     "tagCount": 7,
     "tags": [
       "地理",
@@ -22584,7 +22501,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "5ffad273",
     "commitSubject": "content: auto-sprint — Geography 補強（台灣五大地形與地理結構、台灣河川系統與水文特色）+ Technology 新增（電子商務與數位支付生態系）",
     "description": "探索台灣獨特的河川系統，從濁水溪到高屏溪，了解島嶼地形如何塑造台灣的水文特色",
@@ -22593,7 +22510,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 6
   },
   {
     "title": "城市特色與區域文化",
@@ -22605,7 +22522,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3382,
+    "wordCount": 4771,
     "tagCount": 5,
     "tags": [
       "城市",
@@ -22621,7 +22538,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "b423f6f6",
     "commitSubject": "fix: 將新竹縣市移至北台灣章節並補充代表地區",
     "description": "從台北的國際都會到台南的古都風情，台灣各城市如何形塑獨特的地方認同",
@@ -22630,7 +22547,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣原住民音樂傳統",
@@ -22642,7 +22559,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2742,
+    "wordCount": 4020,
     "tagCount": 5,
     "tags": [
       "原住民",
@@ -22658,16 +22575,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 10,
+    "revision": 11,
     "commitHash": "42d8684c",
     "commitSubject": "fix: .md button routes to correct source markdown",
     "description": "探索台灣 16 族原住民豐富的音樂文化，從古調吟唱到傳統樂器，見證數千年文化傳承",
-    "healthScore": 68,
+    "healthScore": 70,
     "qualityScore": 11,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣搖滾樂發展史：從地下到主流的三十年",
@@ -22679,7 +22596,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2356,
+    "wordCount": 3268,
     "tagCount": 5,
     "tags": [
       "搖滾樂",
@@ -22695,16 +22612,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "2fc3919a",
     "commitSubject": "content: 為音樂類文章補充 YouTube 連結",
     "description": "從1980年代地下搖滾到1990年代樂團興起，台灣搖滾樂如何從邊緣走向主流，成為華語搖滾重要力量",
-    "healthScore": 65,
+    "healthScore": 70,
     "qualityScore": 10,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣民歌運動",
@@ -22745,9 +22662,9 @@
     "date": "2026-03-18",
     "lastModified": "2026-03-18",
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": true,
-    "wordCount": 3327,
+    "wordCount": 4915,
     "tagCount": 5,
     "tags": [
       "原住民歌手",
@@ -22763,16 +22680,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "2fc3919a",
     "commitSubject": "content: 為音樂類文章補充 YouTube 連結",
     "description": "從張惠妹到舒米恩、桑布伊，台灣原住民歌手如何在現代音樂中傳承古老靈魂，創造獨特的當代原住民音樂風景",
-    "healthScore": 70,
+    "healthScore": 95,
     "qualityScore": 12,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 7
   },
   {
     "title": "台灣黑熊",
@@ -22784,7 +22701,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3297,
+    "wordCount": 3378,
     "tagCount": 7,
     "tags": [
       "台灣黑熊",
@@ -22802,16 +22719,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "fc075855",
     "commitSubject": "feat(nature): 新增「台灣石虎保育」+「台灣黑熊」— 台灣野生動物雙篇",
-    "description": "胸前的白色 V 字是牠的簽名——台灣山林最後的王者，與牠未完的保育戰",
+    "description": "胸前的白色 V 字是牠的簽名，與牠未完的保育戰",
     "healthScore": 60,
     "qualityScore": 13,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣在國際標準中的標示問題",
@@ -22933,7 +22850,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2071,
+    "wordCount": 2109,
     "tagCount": 5,
     "tags": [
       "經濟史",
@@ -22949,16 +22866,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "60b9cd78",
     "commitSubject": "feat: 13 new English articles - major EN content expansion",
     "description": "台灣從農業社會躍升為亞洲四小龍之一的經濟奇蹟發展歷程",
-    "healthScore": 52,
+    "healthScore": 53,
     "qualityScore": 10,
-    "formatIssues": 2,
+    "formatIssues": 3,
     "hasOverview": false,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "夜生活與KTV文化",
@@ -23081,7 +22998,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3239,
+    "wordCount": 4260,
     "tagCount": 5,
     "tags": [
       "藝術教育",
@@ -23097,7 +23014,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 10,
+    "revision": 11,
     "commitHash": "",
     "commitSubject": "",
     "description": "從師範體系到專業藝術大學，台灣藝術教育的體制變革與人才培育",
@@ -23106,7 +23023,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣文化創意園區發展",
@@ -23116,9 +23033,9 @@
     "date": "2026-03-19",
     "lastModified": null,
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 2989,
+    "wordCount": 4903,
     "tagCount": 5,
     "tags": [
       "文創園區",
@@ -23134,16 +23051,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 10,
+    "revision": 11,
     "commitHash": "",
     "commitSubject": "",
     "description": "從舊建築活化到創意聚落，台灣文化創意園區的發展歷程與創新模式",
-    "healthScore": 60,
+    "healthScore": 85,
     "qualityScore": 11,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "黃金時代的餘韻：台灣茶文化的流變與工藝",
@@ -23447,7 +23364,7 @@
     "lastVerified": "2026-03-20",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2370,
+    "wordCount": 2677,
     "tagCount": 4,
     "tags": [
       "Economy",
@@ -23462,11 +23379,11 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "",
     "commitSubject": "",
     "description": "全球工業電腦領導廠商，從台灣起家的物聯網智能系統先驅",
-    "healthScore": 53,
+    "healthScore": 55,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -23483,7 +23400,7 @@
     "lastVerified": "2026-03-20",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3191,
+    "wordCount": 3257,
     "tagCount": 5,
     "tags": [
       "Economy",
@@ -23499,7 +23416,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "",
     "commitSubject": "",
     "description": "從宏碁分拆而生的製造巨擘，年營收破兆；依2025年最新報告已躍升全球第二大EMS，iPhone與 Dell 電腦背後的重要製造夥伴",
@@ -23520,7 +23437,7 @@
     "lastVerified": "2026-03-20",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2369,
+    "wordCount": 2389,
     "tagCount": 5,
     "tags": [
       "Economy",
@@ -23536,7 +23453,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "",
     "commitSubject": "",
     "description": "台灣第一家晶圓代工廠，半世紀來見證並推動台灣半導體產業從無到有的奇蹟征程",
@@ -23633,7 +23550,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2822,
+    "wordCount": 4737,
     "tagCount": 6,
     "tags": [
       "經濟",
@@ -23650,11 +23567,11 @@
       "es": true,
       "fr": true
     },
-    "revision": 7,
+    "revision": 8,
     "commitHash": "",
     "commitSubject": "",
     "description": "台灣產業結構從勞力密集轉向知識密集，透過5+2產業創新、6大核心戰略產業等政策，推動傳統製造業升級與新興產業發展。",
-    "healthScore": 69,
+    "healthScore": 70,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
@@ -23671,7 +23588,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 4737,
+    "wordCount": 4845,
     "tagCount": 6,
     "tags": [
       "農業",
@@ -23688,7 +23605,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 12,
+    "revision": 13,
     "commitHash": "",
     "commitSubject": "",
     "description": "探討台灣從傳統農業轉型為現代精緻農業的歷程，包括有機農業、農村再生、休閒農業等創新發展模式",
@@ -23707,9 +23624,9 @@
     "date": "2026-03-18",
     "lastModified": null,
     "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastHumanReview": "true",
     "featured": true,
-    "wordCount": 2268,
+    "wordCount": 5190,
     "tagCount": 6,
     "tags": [
       "新創",
@@ -23726,16 +23643,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 14,
+    "revision": 15,
     "commitHash": "",
     "commitSubject": "",
     "description": "台灣新創生態的發展歷程，從早期挑戰到現今的加速器、創投環境與獨角獸追求",
-    "healthScore": 64,
+    "healthScore": 95,
     "qualityScore": 11,
-    "formatIssues": 2,
-    "hasOverview": false,
+    "formatIssues": 1,
+    "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "發票：1951 年那張把全民變成稅務稽查員的紙",
@@ -23778,7 +23695,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2347,
+    "wordCount": 3109,
     "tagCount": 5,
     "tags": [
       "地理",
@@ -23794,16 +23711,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "",
     "commitSubject": "",
     "description": "探索台灣獨特的島嶼地理特色，從板塊運動到地形結構，了解福爾摩沙島的自然奧秘",
-    "healthScore": 55,
+    "healthScore": 60,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 7
   },
   {
     "title": "台灣農業地景與產業分布",
@@ -23815,7 +23732,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 1737,
+    "wordCount": 2430,
     "tagCount": 5,
     "tags": [
       "農業",
@@ -23831,16 +23748,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "",
     "commitSubject": "",
     "description": "從北到南的農業地景變化，彰顯台灣從「台灣穀倉」到「精緻農業」的轉型之路",
-    "healthScore": 49,
+    "healthScore": 55,
     "qualityScore": 13,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 6
   },
   {
     "title": "漯底山",
@@ -23892,7 +23809,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3030,
+    "wordCount": 3384,
     "tagCount": 6,
     "tags": [
       "歷史",
@@ -23909,7 +23826,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 7,
+    "revision": 8,
     "commitHash": "",
     "commitSubject": "",
     "description": "1960-1990年代台灣創造了舉世矚目的經濟奇蹟，從農業社會轉型為工業化國家，與韓國、香港、新加坡並列亞洲四小龍。",
@@ -23918,7 +23835,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣公園與日常休閒",
@@ -24041,7 +23958,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 4603,
+    "wordCount": 6054,
     "tagCount": 5,
     "tags": [
       "海洋保育",
@@ -24057,7 +23974,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 10,
+    "revision": 11,
     "commitHash": "",
     "commitSubject": "",
     "description": "面對海洋廢棄物、過度捕撈與氣候變遷，探討台灣海洋保育的現況、挑戰與創新解決方案",
@@ -24066,7 +23983,7 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 12
   },
   {
     "title": "台灣鳥類窗殺議題：隱形的都市殺手",
@@ -24505,7 +24422,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2495,
+    "wordCount": 2968,
     "tagCount": 5,
     "tags": [
       "媒體",
@@ -24521,16 +24438,16 @@
       "es": true,
       "fr": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "",
     "commitSubject": "",
     "description": "從黨國控制到媒體戰國時代：台灣新聞自由的民主化歷程與數位轉型挑戰",
-    "healthScore": 56,
+    "healthScore": 60,
     "qualityScore": 10,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
+    "fnCount": 5
   },
   {
     "title": "台灣學校輔導室的前世今生：從「有問題的人才去」到「每個人都需要但不夠用」",
@@ -24808,7 +24725,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2800,
+    "wordCount": 2791,
     "tagCount": 5,
     "tags": [
       "音響產業",
@@ -24824,7 +24741,7 @@
       "es": true,
       "fr": true
     },
-    "revision": 10,
+    "revision": 11,
     "commitHash": "",
     "commitSubject": "",
     "description": "從 OEM 代工到自有品牌，台灣音響產業的技術實力與全球市場地位",

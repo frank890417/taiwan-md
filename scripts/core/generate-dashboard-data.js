@@ -860,11 +860,40 @@ async function main() {
   const heartTrend =
     articlesLast7Days > 5 ? 'up' : articlesLast7Days > 2 ? 'stable' : 'down';
 
-  // Immune: lastHumanReview percentage
-  const immuneScore =
+  // Immune: lastHumanReview percentage (V1 formula).
+  // Feature flag IMMUNE_V2 (env): if set + dashboard-immune.json exists,
+  // override with V2 score (6-dim weighted, per
+  // reports/immune-score-redesign-2026-05-16.md §2.A).
+  let immuneScore =
     articles.length > 0
       ? Math.round((humanReviewedCount / articles.length) * 100)
       : 0;
+  let immuneVersion = 'v1';
+  let immuneStatus = null;
+  let immuneComponents = null;
+
+  if (process.env.IMMUNE_V2) {
+    const immunePath = path.join(OUTPUT_DIR, 'dashboard-immune.json');
+    if (fs.existsSync(immunePath)) {
+      try {
+        const immuneData = JSON.parse(fs.readFileSync(immunePath, 'utf8'));
+        if (typeof immuneData.immuneScore === 'number') {
+          immuneScore = immuneData.immuneScore;
+          immuneVersion = immuneData.schemaVersion || 'v2';
+          immuneStatus = immuneData.status || null;
+          immuneComponents = immuneData.components || null;
+        }
+      } catch (e) {
+        console.error(
+          `⚠️  IMMUNE_V2 enabled but dashboard-immune.json invalid: ${e.message}`,
+        );
+      }
+    } else {
+      console.error(
+        '⚠️  IMMUNE_V2 enabled but dashboard-immune.json missing. Run scripts/core/generate-dashboard-immune.py first.',
+      );
+    }
+  }
   const immuneTrend = immuneScore > 50 ? 'up' : 'stable';
 
   // DNA: EDITORIAL.md last modified
@@ -1127,10 +1156,13 @@ async function main() {
         emoji: '🛡️',
         score: immuneScore,
         trend: immuneTrend,
+        version: immuneVersion,
         metrics: {
           humanReviewedCount,
           totalArticles: articles.length,
           humanReviewedPercent: vitals.humanReviewedPercent,
+          ...(immuneStatus ? { v2Status: immuneStatus } : {}),
+          ...(immuneComponents ? { v2Components: immuneComponents } : {}),
         },
       },
       {

@@ -1635,6 +1635,52 @@ DNA #32「集中預處理 + 分散執行」也補第 6 次驗證 marker（5 cycl
 - **verification_count**: 1
 - **severity**: tactical
 
+### 2026-05-16 manual 215434 — 單維度 quality gate 跟工具實際輸出脫鉤 = silent killer
+
+- **原則**：Quality gate 公式只用單一 metric（如 immune score = humanReviewedCount/total）會跟下游工具實際運作脫鉤 — 即使 16 plugin SSOT 跑出多維度 violation，分數還是 anchor 在那一個 metric。後果是 dashboard 數字（V1 immune 20）跟系統實際健康度（V2 算出 67）有 47-point gap，但 gap 不會自己暴露（單維度數字看起來「合理」— low review = low score 沒違反直覺）。
+- **觸發**：2026-05-16 215434 哲宇 self-analysis directive 要重新制定免疫分數。寫 dashboard-immune.json 跑 6 dimension weighted 算出 V2=67 才意識到 V1=22 過度悲觀。Plugin HARD 100% / citation A-grade 73% / tool freshness 100 等強項在 V1 完全沒進分數。
+- **可能層級**：
+  - 操作規則 → 任何 organ score 公式設計前先列舉所有相關下游 sensor，weighted-combine 至少 3-4 dim，避免 single-metric
+  - 工具層 → 4 個有效 organ score（heart / immune / DNA / breathing）逐一 audit 是否單維度，識別其他 silent killer
+  - 結構性 → MANIFESTO §造橋鋪路新加「Score formula 必須跟工具實際輸出對齊」反射
+- **verification_count**: 1（首次成文，等其他 organ score audit 驗證 vc≥2）
+- **severity**: structural（影響所有 dashboard 數字的可信度）
+- **跨檔關聯**：[reports/immune-score-redesign-2026-05-16.md §1.1](../../reports/immune-score-redesign-2026-05-16.md) + [memory 2026-05-16-215434-manual §免疫分數 V2](memory/2026-05-16-215434-manual.md)
+
+### 2026-05-16 manual 215434 — 「砍冗餘工具」常是錯誤直覺，SSOT 後留下來的是 complementary
+
+- **原則**：SSOT migration（plugin 化）後留下的 standalone tool 通常已被刻意保留為 satellite（facade muscle-memory / advisory KPI / batch-heal mode / build-time mode）。「盤點 + 砍重複」的直覺反應在 SSOT 環境會錯估 — 大部分剩餘 standalone 不是 redundant 而是 complementary。應該先分類（按 layer / mode / use case）再決定，default action 是「補文檔 + 識別缺口」不是「砍」。
+- **觸發**：本 session Phase C 開工前根據 design report 假設 18 standalone 有 4-5 個 redundant 可砍。盤點後發現 check-cjk-punct.py 是 facade、check-canonical-frontmatter.py 掃 canonical doc（非 article）、people-title-check.sh 是 advisory KPI、footnote-format-fix.py 是唯一 .py auto-fix — 全部不能砍。Phase C 從「砍 redundant」改成「補四類分類 + reclassify §🕳️ gap priority」。
+- **可能層級**：
+  - 操作規則 → tool / pipeline / canonical 整理任務的 default 動作改成「先分類後決定」而不是「先找冗餘」
+  - 結構性 → REFLEXES 候選 #N「SSOT 化後 standalone 是 complementary 不是 redundant」
+- **verification_count**: 1（首次成文）
+- **severity**: tactical（影響未來 tool inventory / pipeline 整理任務 default mode）
+- **跨檔關聯**：[scripts/tools/TOOL-INVENTORY.md v2.1](../../scripts/tools/TOOL-INVENTORY.md) + [reports/immune-score-redesign-2026-05-16.md §1.3](../../reports/immune-score-redesign-2026-05-16.md) + [memory 2026-05-16-215434-manual §TOOL-INVENTORY](memory/2026-05-16-215434-manual.md)
+
+### 2026-05-16 manual 215434 — 寫 plugin 前先 grep canonical 精確閾值跟單位
+
+- **原則**：實作 plugin / quality gate 前必須先 grep 對應 canonical（EDITORIAL.md / DNA / pipeline）的精確閾值跟單位，不憑記憶估算。憑印象估算第一版閾值會偏離 canonical 標準，輸出大量無實質意義的 violation。
+- **觸發**：seo-meta plugin 第一版用 `_cjk_aware_len`（混排 chars: 全形×2 + 半形×1）估算閾值（DESC_MIN_LEN=80 / MAX=200），跑全站撞 615 violations。回頭讀 EDITORIAL §Description 四原則才看到 canonical 是「120-160 **字**」**CJK char count**，不是混排 chars。改 `_cjk_count` + 100-180 字閾值，第二版輸出 honest signal（579 files description 太短的真實 legacy heal backlog）。
+- **可能層級**：
+  - 操作規則 → 寫 plugin / quality gate / SOP rule 前先 grep canonical 找精確閾值
+  - 工具層 → plugin scaffolding template 加 § Canonical reference grep checklist 強制 author 列出對應 canonical
+  - 結構性 → 對應 REFLEXES #15「反覆浮現要儀器化」一個變種：「寫工具前先查 canonical」也是反覆浮現的失敗 pattern
+- **verification_count**: 1（首次成文）
+- **severity**: operational（影響新 plugin / quality gate 的精度跟可信度）
+- **跨檔關聯**：[scripts/tools/lib/article_health/checks/seo_meta.py](../../scripts/tools/lib/article_health/checks/seo_meta.py) + [memory 2026-05-16-215434-manual §兩個新 plugin](memory/2026-05-16-215434-manual.md)
+
+### 2026-05-16 manual 215434 — Feature flag 是 high-stake quality-gate 公式改動的 mandatory safety net
+
+- **原則**：Quality gate 數值 / 公式 redesign 直接 swap 會破壞 dashboard 視覺連續性 + 失去 rollback path。Feature flag（env / config）+ 觀察期是 high-stake 公式改動的標配。Default 保 V1 不變，opt-in 才用 V2，stable 後切 default。此 pattern 也適用任何「組織級可見的數字突然大跳」的場景（GA dimension / 翻譯閾值 / 心臟分數公式等）。
+- **觸發**：本 session immune V2 設計報告 §4.2 列 rollback strategy，發現直接 swap V1→V2 會讓 dashboard immune 從 20 跳 67 沒任何 context，看起來像系統「突然好了」。改成 `IMMUNE_V2=1` env feature flag — default 跑 V1 不變，opt-in 跑 V2，7d 觀察期後再切 default。
+- **可能層級**：
+  - 操作規則 → REWRITE-PIPELINE / 任何 quality gate 公式改動的 design report 標準 checklist 加「feature flag + 觀察期」section
+  - 結構性 → MANIFESTO §造橋鋪路 補：「結構性數字變動需 graceful migration 不是 hard swap」
+- **verification_count**: 1（首次成文）
+- **severity**: operational（影響所有 dashboard score / quality gate 改動的安全性）
+- **跨檔關聯**：[scripts/core/generate-dashboard-data.js IMMUNE_V2 block](../../scripts/core/generate-dashboard-data.js) + [reports/immune-score-redesign-2026-05-16.md §4.2](../../reports/immune-score-redesign-2026-05-16.md)
+
 ---
 
 ## ✅ 已消化（保留 pointer）

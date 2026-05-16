@@ -3,11 +3,18 @@
 # 設計提案：reports/article-health-ssot-design-2026-05-04.md
 # Canonical 寫作品質規則：docs/editorial/EDITORIAL.md
 #
-# Phases 1-7 shipped 2026-05-04. 13 plugins registered:
+# Phases 1-7 shipped 2026-05-04. Initial 13 plugins; 18 plugins as of 2026-05-16:
 #   cjk-punct / cross-reference / footnote-density / footnote-format /
 #   footnote-url / format-structure / frontmatter-format /
 #   frontmatter-title / image-health / link-target / prose-health /
-#   terminology / wikilink-target
+#   terminology / wikilink-target / chronicle-lead / word-count /
+#   spore-writing / image-alt (NEW 2026-05-16) / seo-meta (NEW 2026-05-16)
+#
+# image-alt + seo-meta added 2026-05-16 215434-manual session — Phase 4-5 of
+# immune-score-redesign. P0 缺口 from TOOL-INVENTORY §🕳️. Both default WARN
+# (soft-launch for legacy heal): image-alt 抓 empty/generic/filename alt；
+# seo-meta 抓 frontmatter title/desc 長度 + brand-prefix + title-desc 重複
+# (canonical EDITORIAL §Description 四原則 120-160 字)。
 #
 # link-target added 2026-05-04 jovial-feistel session — Phase 1 (casing,
 # HARD, auto-fix) caught 649 `]( /lang/UpperCase/...)` broken-routing
