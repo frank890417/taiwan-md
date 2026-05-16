@@ -1,7 +1,7 @@
 ---
 title: 'Lee Ju-eun'
 description: 'Desde el fenómeno de la "diosa de la IA" hasta su apuesta total por desarrollarse en Taiwán, su trayectoria ha reescrito la imaginación sobre la permanencia de animadoras coreanas en la Liga Profesional de Béisbol de Taiwán.'
-date: 2026-04-14
+date: 2026-05-13
 tags:
   [
     'Personajes populares',
@@ -15,14 +15,14 @@ tags:
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 10
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 category: People
 translatedFrom: 'People/李珠珢.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:1a5ec966d15fc75f'
-sourceBodyHash: 'sha256:286ea06e2dfa5442'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:451da618ddccb297'
+sourceBodyHash: 'sha256:4b9c8f80e4d299c5'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 > **Resumen en 30 segundos:** Lee Ju-eun firmó un contrato de representación completo con los Fubon Guardians en 2025 y en 2026 reubicó de forma más clara su centro de trabajo en Taiwán. Su importancia no radica únicamente en su alto volumen de audiencia, sino en que impulsó la trayectoria de las animadoras coreanas desde un modelo de "viaje bilateral" hacia una "permanencia prolongada en Taiwán".
@@ -30,6 +30,8 @@ translatedAt: '2026-05-01T22:19:10+08:00'
 Tras despegar en el ámbito mediático en Corea del Sur, no se limitó a colaboraciones a corto plazo, sino que avanzó directamente hacia una integración de representación más profunda. Este paso la distingue claramente de las animadoras coreanas que suelen "visitar Taiwán como invitadas".
 
 Las señales de continuidad alrededor de la temporada 2026 consolidaron aún más este camino: no solo ha estado en Taiwán, sino que ha incorporado a Taiwán como eje principal de su carrera.
+
+En su cobertura de marzo de 2026 sobre la rueda de prensa de inicio de temporada de las Fubon Angels, la edición digital de *United Daily News* / UDN describe a Lee Ju-eun renovando con los Guardians y emocionándose al saludar a los aficionados en chino; la misma crónica menciona también detalles del acto como la asistencia de Park Sung-yeon con un parche en el ojo por un orzuelo, que sirven como registro de primera mano para entender el clima de opinión pública en torno a ese periodo. [Fuente: United Daily News / UDN][^6]
 
 ## De la fama repentina a una apuesta a largo plazo
 
@@ -66,8 +68,11 @@ Este giro es probablemente uno de los cambios más importantes en la cultura pop
 
 ## Referencias / Sources
 
-Fuente 1: https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
-Fuente 2: https://m.mirrormedia.mg/story/20260223edi054
-Fuente 3: https://stage.newtalk.tw/news/view/2026-02-23/1021071
-Fuente 4: https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html
-Fuente 5: https://news.pchome.com.tw/entertainment/crwant/20260330/index-77484543045734316006.html
+[^6]: *United Daily News* / UDN (reportera Yeh Pei-yu), «CPBL / Cinco refuerzos coreanas de los Guardians comparten escenario; Lee Ju-eun rompe en lágrimas: "Hacía tanto que no os veía"», 25-03-2026, https://udn.com/news/story/7002/9402487
+
+Otras fuentes verificables:
+
+- Wikipedia (perfil personal): https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
+- Mirror Media (resúmenes personales / deportivos): https://m.mirrormedia.mg/story/20260223edi054
+- Newtalk News, «Lee Ju-eun anuncia por sorpresa que "se queda en Taiwán": revelada gran noticia en su segundo año con los Fubon», 23-02-2026, https://www.newtalk.tw/news/view/2026-02-23/1021071
+- Yahoo News Taiwán (resúmenes de calendario / partidos): https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html

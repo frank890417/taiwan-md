@@ -2,19 +2,19 @@
 title: 'Evergreen Marine'
 description: "A 15-year-old secondhand freighter, a carpenter's son, and the shipping empire that once blocked global trade for six days"
 date: 2026-03-24
-tags: [Economy, Business, Shipping, Logistics, International Trade]
-author: Taiwan.md
+category: 'Economy'
+tags: ['Economy', 'Business', 'Shipping', 'Logistics', 'International Trade']
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：長榮海運.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:568e51f4fe252bc3'
-sourceBodyHash: 'sha256:31112da08c38be6e'
-translatedAt: '2026-05-01T15:38:13+08:00'
-subcategory: '企業列傳'
-category: Economy
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:8bed402beaecae31'
+sourceBodyHash: 'sha256:97f9ec5722ee27b9'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 > **30-Second Overview**

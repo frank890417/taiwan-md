@@ -1,7 +1,7 @@
 ---
 title: '李多慧'
 description: '韓国プロ野球のチアリーディングから台湾プロ野球の第一線応援代表へ。「客場的人気」を「在地長期発展」へと変えた、韓流の新たなモデル。'
-date: 2026-04-14
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: People
 subcategory: '流行人物'
@@ -16,13 +16,13 @@ tags:
     'Dragon Beauties',
   ]
 readingTime: 10
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/李多慧.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c3e61e6efd81f405'
-sourceBodyHash: 'sha256:e2519e7a562b02a9'
-translatedAt: '2026-05-01T18:02:56+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:5948ff9d2aa67b97'
+sourceBodyHash: 'sha256:b16f2be3d2468ceb'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 > **30秒概要：** 2023年、彼女は台湾の球場で初めて正式にデビューしました。2024年、味全龍に移籍しました。2026年、小龍女のキャプテンを続投することが発表されました。李多慧は単なる高人気の韓国出身チアリーダーではなく、時代の象徴でもあります。台湾における韓国出身チアリーダーが「一時的な登場」から「長期的な定着」へと変化していく流れを体現しているのです。
@@ -48,6 +48,10 @@ translatedAt: '2026-05-01T18:02:56+08:00'
 
 同時に、台湾のファンからの期待も変化しました。当初の「彼女はどの曲で踊るのか見たい」という関心から、「今年はチームをどのような方向に導いてくれるのか」という期待へと移り変わっていったのです。
 
+## 2026 年：韓国プロ野球との交流期間とチームのビジュアル
+
+2026 年シーズン開幕記者会見で、味全ドラゴンズは韓国プロ野球 LG TWINS との戦略的提携を発表しました。『聯合報』デジタル版／聯合新聞網は、小龍女が新しいチャイナドレス風のユニフォームをお披露目し、これを李多慧が手がけたこと、また LG TWINS のチアリーダー代表が記者会見の場で両者の交流計画を共有し、5 月 26、27 日に台北ドームで味全ドラゴンズと LG TWINS の応援交流テーマデーを開催することを予告したと報じています。[出典：聯合報／聯合新聞網][^5]
+
 ## 台湾での活動がもたらす影響
 
 李多慧がもたらした影響は少なくとも三つの層があります。第一はパフォーマンスの層で、応援ステージの完成度に対する一般の基準を引き上げました。第二は産業の層で、多くの球団が国際的な応援人材への投資に前向きになりました。第三は文化の層で、韓流がコンサートだけにとどまらず、台湾プロ野球の日常の観戦シーンに浸透するきっかけとなりました。
@@ -70,8 +74,10 @@ translatedAt: '2026-05-01T18:02:56+08:00'
 
 ## 参考資料 / Sources
 
-来源 1：https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%9A%E6%85%A7_(%E5%95%A6%E5%95%A6%E9%9A%8A)
-来源 2：https://gobaseball.gogoal.com.tw/archives/69038
-来源 3：https://news.tvbs.com.tw/entertainment/3126261
-来源 4：https://www.chinatimes.com/realtimenews/20260403001614-260404
-来源 5：https://vip.udn.com/vip/story/121585/9420050
+[^5]: 聯合報／聯合新聞網（記者陳宛晶），〈中職／李多慧がデザインした新ユニフォームを初公開 LG TWINS とのコラボ・テーマデーを 5 月に台北ドームで開催〉，2026-03-23，https://udn.com/news/story/7002/9397592
+
+その他の参照可能なソース：
+
+- ウィキペディア（人物概観）：https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%9A%E6%85%A7_(%E5%95%A6%E5%95%A6%E9%9A%8A)
+- TVBS ニュース（人物／試合関連まとめ）：https://news.tvbs.com.tw/entertainment/3126261
+- 中時新聞網（リアルタイムニュース）：https://www.chinatimes.com/realtimenews/20260403001614-260404

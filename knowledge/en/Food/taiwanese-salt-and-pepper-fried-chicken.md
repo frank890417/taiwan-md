@@ -15,19 +15,21 @@ author: 'Taiwan.md'
 readingTime: 7
 featured: true
 category: 'Food'
-lastVerified: 2026-03-19
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Taiwanese_Style_Fried_Chicken.jpg/800px-Taiwanese_Style_Fried_Chicken.jpg'
 imageAlt: 'Salt-and-pepper fried chicken at Nanjichang Night Market'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣鹹酥雞.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:f78e66c21a3386f0'
-sourceBodyHash: 'sha256:f601237f7e38aaea'
-translatedAt: '2026-05-01T08:56:11+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:19740acf787fc53e'
+sourceBodyHash: 'sha256:eaf89ac01bb318f9'
+translatedAt: '2026-05-17T06:02:00Z'
 ---
 
 # Taiwanese Salt-and-Pepper Fried Chicken
+
+> **30-second overview:** Salt-and-pepper fried chicken is the defining icon of Taiwan's late-night food aesthetic. In 1975, the Ximending-based brand "Taiwan's First" (台灣第一家) pushed it from a pushcart snack into the franchise-chain era[^1]. The making process is distinctive: choose your ingredients from a glass display case, fast-fry at medium-high heat, and finish with fresh nine-layer basil tossed in the moment the food leaves the oil. Compared with Japanese karaage's pursuit of the ingredient's purity, salt-and-pepper fried chicken is a heavy-seasoning, heavy-aromatic composite experience—and a concrete vessel for Taiwan's overtime culture and "reward culture."
 
 When night falls across Taiwan, the streets begin to carry the fragrance of fried food. The long queues in front of salt-and-pepper fried chicken stalls are the most familiar scene in Taiwan's night life. This dish, which looks simple on the surface, holds within it a complex set of social and cultural codes. Developed since the 1970s, it has become the defining icon of Taiwanese late-night food aesthetics.[^1]
 
@@ -79,12 +81,18 @@ In recent years the concept of "premium salt-and-pepper fried chicken" has emerg
 
 Some creative vendors have also introduced "salt-and-pepper chicken bento boxes" and "salt-and-pepper chicken mixed noodles" and other fusion dishes, repackaging this classic snack to suit modern dining needs.
 
-The story of salt-and-pepper fried chicken is still evolving. From street carts to chain stores, from traditional flavors to innovative variations, this street food of the people is undergoing the test of the times. But whatever changes come, that familiar fragrance and the warmth of human connection it carries remain the most beautiful memory of the Taiwanese night.
+The 2025 salt-and-pepper fried chicken stall still preserves the core workflow of "Taiwan's First" in 1975: choose your ingredients from a glass display case, fast-fry at medium-high heat, finish by tossing with nine-layer basil. From pushcart stalls to franchise brands, from traditional pepper flavor to mala and creative variants, the shop form has changed, but the handful of basil still hisses in the iron wok every late night.
+
+## Further Reading
+
+- [Night Market Culture](/food/夜市文化) — The principal distribution arena for salt-and-pepper chicken; the core stage of Taiwan's late-night food ecosystem
+- [Taiwanese Breakfast Culture](/food/台灣早餐文化) — From dawn to deep night, contrasting Taiwan's two crucial mealtimes
+- [Taiwanese Convenience Store Culture](/lifestyle/台灣便利商店文化) — Together with salt-and-pepper chicken stalls, convenience stores form Taiwan's 24-hour food landscape
 
 ---
 
-_References:_
+## References
 
-[^1]: [Wikipedia: Taiwanese Salt-and-Pepper Fried Chicken History and the Influence of "Taiwan's First"](https://zh.wikipedia.org/zh-tw/%E9%B9%BD%E9%85%A5%E9%9B%9E) — Wikipedia: Taiwanese salt-and-pepper fried chicken history and the influence of "Taiwan's First"
+[^1]: [Wikipedia: Salt-and-Pepper Fried Chicken](https://zh.wikipedia.org/zh-tw/%E9%B9%BD%E9%85%A5%E9%9B%9E) — Chinese Wikipedia's full "Salt-and-Pepper Fried Chicken" entry, covering the 1975 Ximending "Taiwan's First" origin, the move to franchise chains, nine-layer basil seasoning, and other Taiwanese fried-food cultural information.
 
-[^3]: [Taiwan Panorama: Taiwan Night Market Culture — No Romantic Legend](https://www.taiwan-panorama.com/Articles/Details?Guid=8c15ae35-f89b-461c-bed1-f481e2681fb7) — Taiwan Panorama: Taiwan night market culture — no romantic legend
+[^3]: [Taiwan Panorama: Taiwan Night Market Culture — No Romantic Legend](https://www.taiwan-panorama.com/Articles/Details?Guid=8c15ae35-f89b-461c-bed1-f481e2681fb7) — In-depth Taiwan Panorama coverage documenting the historical context, social function of Taiwan's night-market culture, and the role of salt-and-pepper fried chicken stalls in late-night settings.

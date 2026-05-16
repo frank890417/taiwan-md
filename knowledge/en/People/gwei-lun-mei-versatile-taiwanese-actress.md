@@ -13,16 +13,16 @@ tags:
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-20
 translatedFrom: 'People/桂綸鎂.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:abc35bc4aee48bac'
-sourceBodyHash: 'sha256:df4e818396c5d890'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:266bd954eeb032d3'
+sourceBodyHash: 'sha256:c06a0cb5b90069e3'
+translatedAt: '2026-05-16T21:50:00Z'
 category: People
 ---
 
 # Gwei Lun-Mei: Taiwan's Quietly Resilient Method Actress
 
-Gwei Lun-Mei stands among Taiwan's most accomplished actresses of her generation, renowned for her authentic and sincere acting style coupled with a refreshingly low-key personal approach. Rising to prominence in 2007 through Jay Chou's directorial debut "Secret," she has since delivered nuanced performances in films like "Blue Gate Crossing" and "GF\*BF," establishing herself as a regular presence at international film festivals and multiple Golden Horse Award nominee. Critics regard her as one of Taiwan's most precious cinematic assets.
+Gwei Lun-Mei is known for her authentic, sincere acting and refreshingly low-key personal style — one of the faces from Taiwan's new generation of actors most followed by international film festivals. Her debut was 2002's "Blue Gate Crossing"; Jay Chou's 2007 directorial debut "Secret" made her widely known, and subsequent works such as "GF\*BF" continued to earn Golden Horse Award recognition.[^2]
 
 ## A Military Dependents' Village Girl's Artistic Awakening
 
@@ -52,7 +52,7 @@ This production seamlessly blended elements of romance, fantasy, and music, requ
 
 Gwei Lun-Mei had the privilege of receiving guidance and affection from the late director Edward Yang, whose influence proved instrumental in her acting development. Although they never formally collaborated on a film, Yang's cinematic philosophy deeply impacted her approach to performance.
 
-Yang recognized Gwei Lun-Mei's potential to become an exceptional actress, encouraging her to focus on refining her craft rather than being seduced by external fame and fortune. These teachings became crucial guidance for her artistic journey.
+Yang recognized Gwei Lun-Mei's potential to become an exceptional actress, encouraging her to focus on refining her craft rather than being seduced by external fame and fortune. These teachings had a profound influence on her later attitude toward project selection.
 
 In interviews, Gwei Lun-Mei frequently expresses gratitude and remembrance for Yang, considering him a vital teacher in her acting career. This mentor-student relationship has become a celebrated story within Taiwan's film circles.
 
@@ -94,13 +94,13 @@ Gwei Lun-Mei represents a vital figure among Taiwan's new generation of actors, 
 
 Her natural and sincere performance style embodies the characteristics of Taiwan's new generation of actors. This approach differs from traditional theatrical performance styles, drawing closer to life's authentic reality.
 
-Many young actors regard Gwei Lun-Mei as a learning model, making her an important benchmark within Taiwan's entertainment industry. Her success path also provides reference points for emerging talents.
+Many young actors regard Gwei Lun-Mei as a learning model; her project-selection orientation and acting method offer a concrete reference path for those who come after.
 
 ## Deep Collaboration with Directors
 
 Gwei Lun-Mei excels at establishing profound creative relationships with directors, engaging in thorough discussions about character development and performance direction. This collaborative approach makes her performances more precise and layered.
 
-Her multiple collaborations with director Chung Mong-Hong have been particularly successful, including works like "Soul" and "The Big Buddha+." These productions showcase her adaptability across different film genres.
+Her collaboration with director Chung Mong-Hong has been particularly successful, with "Soul" (2013) among its representative works.[^1] The film showcased her adaptability within the thriller genre.
 
 Gwei Lun-Mei views the actor-director relationship as a creative partnership requiring mutual trust and cooperation. While always fully supporting directors' creative needs, she also contributes her own insights and ideas.
 
@@ -135,3 +135,9 @@ Through her acting career, Gwei Lun-Mei has demonstrated what it means to be a t
 - [Gwei Lun-Mei — Taiwan Cinema Network](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12789) — Actor filmography
 - [Golden Horse Awards Historical Winners and Nominees](https://www.goldenhorse.org.tw/) — Award records
 - [Taiwan Actor International Development — Bureau of Audiovisual and Music Industry Development](https://www.bamid.gov.tw/) — International cooperation materials
+
+[^1]: Wikipedia "Soul" entry: "Soul" (2013), directed by Chung Mong-Hong, starring Gwei Lun-Mei and Joseph Chang. https://zh.wikipedia.org/wiki/失魂
+[^2]: Wikipedia "Gwei Lun-Mei" entry, listing works such as "Blue Gate Crossing," "Secret," and "GF\*BF." https://zh.wikipedia.org/wiki/桂綸鎂
+[^3]: "Blue Gate Crossing" (2002), directed by Yee Chih-Yen, starring Gwei Lun-Mei and Chen Bo-Lin, screened at multiple international festivals. Taiwan Cinema Network: <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
+[^4]: "GF\*BF" (2012), directed by Yang Ya-Che, nominated for Best Actress at the 49th Golden Horse Awards. Golden Horse Awards official site: https://www.goldenhorse.org.tw/
+[^5]: "Our Time Will Come" (2017), directed by Ann Hui, featuring Gwei Lun-Mei, demonstrating cross-regional collaboration. Hong Kong Film Archive collection: <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>

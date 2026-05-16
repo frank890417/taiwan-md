@@ -10,15 +10,15 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: "People/桂綸鎂.md"
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:abc35bc4aee48bac'
-sourceBodyHash: 'sha256:df4e818396c5d890'
-translatedAt: "2026-04-14T19:16:13+08:00"
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:e41fff8c078f654c'
+sourceBodyHash: 'sha256:d343aad5f928cfbe'
+translatedAt: "2026-05-17T06:15:00Z"
 ---
 
 # Guei Lun-Mei : une actrice discrète et d'une rare profondeur
 
-Guei Lun-Mei est l'une des actrices les plus talentueuses de sa génération à Taïwan. Elle se distingue par un jeu naturel et sincère, ainsi que par une discrétion remarquable dans sa vie publique. Révélée en 2007 dans _The Secret_ réalisé par Jay Chou, elle a ensuite démontré toute l'étendue de son talent dans _Blue Gate Crossing_ et *GF*BF\*, entre autres. Habituée des festivals internationaux, elle a été nommée à plusieurs reprises aux Golden Horse Awards et est aujourd'hui considérée comme un véritable trésor du cinéma taïwanais.
+Guei Lun-Mei se distingue par un jeu naturel et sincère et par une discrétion remarquable dans sa vie publique. Elle est l'un des visages de la nouvelle génération d'acteurs taïwanais les plus suivis par les festivals internationaux. _Blue Gate Crossing_ (2002) est son premier film, _The Secret_ (2007), réalisé par [[Jay Chou]], la révèle au grand public ; depuis, des œuvres comme *GF*BF\* continuent de lui valoir la reconnaissance des Golden Horse Awards.[^2]
 
 ## Une enfance en village militaire, berceau d'une vocation artistique
 
@@ -44,7 +44,7 @@ Mêlant romance, fantaisie et musique, le film exige de la comédienne une gamme
 
 Guei Lun-Mei a bénéficié des conseils et de la bienveillance du regretté réalisateur Edward Yang, dont l'influence sur son développement artistique fut profonde. Si aucune collaboration officielle ne s'est concrétisée, la vision cinématographique de Yang a imprégné durablement sa conception du jeu.
 
-Yang voyait en elle le potentiel d'une grande actrice. Il l'encourageait à se concentrer sur le travail de l'interprétation, sans se laisser séduire par la gloire ou l'argent. Ces conseils sont devenus une boussole pour elle tout au long de sa carrière. Guei Lun-Mei a souvent exprimé en entretien sa gratitude et son attachement à Edward Yang, qu'elle considère comme un maître fondateur. Cette relation de transmission est restée dans les mémoires du milieu cinématographique taïwanais.
+Yang voyait en elle le potentiel d'une grande actrice. Il l'encourageait à se concentrer sur le travail de l'interprétation, sans se laisser séduire par la gloire ou l'argent. Ces conseils ont eu une influence durable sur sa manière de choisir ses films par la suite. Guei Lun-Mei a souvent exprimé en entretien sa gratitude et son attachement à Edward Yang, qu'elle considère comme un maître fondateur. Cette relation de transmission est restée dans les mémoires du milieu cinématographique taïwanais.
 
 ## La reconnaissance internationale
 
@@ -84,13 +84,13 @@ Guei Lun-Mei est l'une des figures de proue de la nouvelle génération d'acteur
 
 Son style de jeu — naturel et sincère — incarne les caractéristiques d'une nouvelle génération d'acteurs taïwanais. Cette approche rompt avec le jeu dramatique traditionnel pour se rapprocher au plus près de la vérité du quotidien.
 
-De nombreux jeunes acteurs la citent comme modèle ; elle est devenue une référence incontournable du milieu artistique taïwanais, et son parcours trace une voie pour ceux qui viennent après elle.
+De nombreux jeunes acteurs la citent comme modèle ; ses choix de films et sa méthode de jeu offrent à la génération suivante un chemin de référence très concret.
 
 ## Une collaboration en profondeur avec les réalisateurs
 
 Guei Lun-Mei excelle dans l'art de nouer une relation créative authentique avec les metteurs en scène. Elle discute longuement de la construction des personnages et des orientations de jeu, ce qui permet à ses performances d'atteindre une précision et une densité remarquables.
 
-Ses collaborations répétées avec le réalisateur Chung Mong-hong se sont révélées particulièrement fructueuses — notamment dans _Soul_ et _The Great Buddha+_ —, deux films qui démontrent sa capacité à s'adapter à des genres cinématographiques très différents.
+Sa collaboration avec le réalisateur Chung Mong-hong s'est révélée particulièrement fructueuse, _Soul_ (2013) en étant une œuvre représentative.[^1] Ce film démontre sa capacité à s'adapter à des genres cinématographiques comme le thriller.
 
 Pour Guei Lun-Mei, acteur et réalisateur sont des partenaires créatifs qui se doivent confiance et soutien mutuels. Elle se met toujours entièrement au service de la vision du réalisateur, tout en apportant librement ses propres suggestions.
 
@@ -125,3 +125,9 @@ Guei Lun-Mei a prouvé, par toute sa carrière, ce que signifie réellement êtr
 - [Guei Lun-Mei — Taiwan Cinema Database](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12789) — Filmographie complète
 - [Golden Horse Awards — Palmarès et nominations](https://www.goldenhorse.org.tw/) — Historique des récompenses
 - [Développement international des acteurs taïwanais — Bureau de l'audiovisuel et de la musique populaire, Ministère de la Culture](https://www.bamid.gov.tw/) — Données sur les coopérations internationales
+
+[^1]: Wikipédia, entrée « Soul » (失魂) : _Soul_ (2013), réalisé par Chung Mong-hong, avec Guei Lun-Mei et Chang Hsiao-chuan. https://zh.wikipedia.org/wiki/失魂
+[^2]: Wikipédia, entrée « Guei Lun-Mei », répertoriant les œuvres dont _Blue Gate Crossing_, _The Secret_, _GF*BF_. https://zh.wikipedia.org/wiki/桂綸鎂
+[^3]: _Blue Gate Crossing_ (2002), réalisé par Yee Chih-yen, avec Guei Lun-Mei et Chen Bo-lin, sélectionné dans plusieurs festivals internationaux. Taiwan Cinema Database : <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
+[^4]: _GF*BF_ (2012), réalisé par Yang Ya-che, nommée meilleure actrice à la 49e cérémonie des Golden Horse Awards. Site officiel des Golden Horse Awards : https://www.goldenhorse.org.tw/
+[^5]: _Our Time Will Come_ (2017), réalisé par Ann Hui, avec Guei Lun-Mei, illustrant une collaboration transrégionale. Hong Kong Film Archive : <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>

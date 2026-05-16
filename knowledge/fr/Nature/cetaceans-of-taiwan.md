@@ -20,27 +20,25 @@ category: 'Nature'
 lastVerified: 2026-03-19
 featured: false
 translatedFrom: 'Nature/臺灣的鯨豚.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:07527dba7e956bb0'
-sourceBodyHash: 'sha256:e23b2794eedebfe3'
-translatedAt: '2026-04-14T19:23:22+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:fa8568c6d129180a'
+sourceBodyHash: 'sha256:7c0ff1bf77404541'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # Les cétacés de Taïwan
 
 ## En 30 secondes
 
-Taïwan est idéalement positionnée en marge du Pacifique Nord-Ouest. Sa géographie privilégiée et la complexité de ses fonds marins ont engendré une biodiversité océanique exceptionnelle. À l'est, les eaux sont alimentées par le courant de Kuroshio ; à l'ouest s'étend un vaste plateau continental.
+Taïwan est idéalement positionnée en marge du Pacifique Nord-Ouest. Sa géographie privilégiée et la complexité de ses fonds marins ont engendré une biodiversité océanique riche et variée. À l'est, les eaux sont alimentées par le courant de Kuroshio ; à l'ouest s'étend un vaste plateau continental.
 
-Dans ces eaux, on a recensé plus de **32 espèces** de cétacés, soit plus d'un tiers des espèces connues dans le monde. Du dauphin longirostre tourbillonnant au cachalot insaisissable, en passant par le dauphin blanc de Chine en voie d'extinction — surnommé « poisson de Mazu » — Taïwan est non seulement un habitat essentiel pour les cétacés, mais aussi un point névralgique de la biodiversité marine mondiale.
+Dans ces eaux, on a recensé plus de **32 espèces** de cétacés, soit plus d'un tiers des espèces connues dans le monde.[^2] Du dauphin longirostre tourbillonnant au cachalot insaisissable, en passant par le dauphin blanc de Chine en voie d'extinction — surnommé « poisson de Mazu » — Taïwan est non seulement un habitat essentiel pour les cétacés, mais aussi un point névralgique de la biodiversité marine mondiale.
 
 ---
 
 ## Pourquoi cela compte
 
-Les cétacés occupent le sommet de la chaîne alimentaire marine : ce sont des **espèces indicatrices** de la santé des océans. Leur présence reflète l'équilibre et la richesse de tout un écosystème.
-
-L'attitude de Taïwan envers les cétacés illustre également une transformation profonde des valeurs de l'île. De la chasse à la baleine qui suivit la Seconde Guerre mondiale dans les années 1950, à l'interdiction totale dans les années 1990, puis au premier bateau d'observation en 1997, la société taïwanaise a opéré un virage : de l'exploitation de l'océan vers une relation de respect et de protection. Ce chemin incarne l'éveil de la conscience environnementale à Taïwan.
+Les cétacés occupent le sommet de la chaîne alimentaire marine : ce sont des **espèces indicatrices** de la santé des océans. Leur présence reflète l'équilibre et la richesse de tout un écosystème. L'attitude de Taïwan envers les cétacés illustre également une mutation profonde des valeurs de l'île : de la chasse à la baleine qui suivit la Seconde Guerre mondiale dans les années 1950, à l'interdiction totale dans les années 1990, puis au premier bateau d'observation en 1997, la société taïwanaise est passée de l'exploitation de l'océan à une relation de proximité et de protection. Ce parcours documente clairement l'éveil de la conscience environnementale à Taïwan.
 
 ---
 
@@ -50,7 +48,7 @@ Taïwan est entourée d'eau de tous côtés, mais les environnements marins à l
 
 ### Côte est : l'autoroute des grands fonds
 
-Le littoral oriental plonge abruptement : à quelques kilomètres du rivage, les profondeurs dépassent déjà 1 000 mètres. Le courant principal du **Kuroshio** longe la côte est en remontant vers le nord, apportant des eaux chaudes chargées en poissons migrateurs et en céphalopodes. C'est le territoire des cétacés plongeurs et pélagiques : cachalots, baleines à bec, et toutes sortes de dauphins.
+Le littoral oriental plonge abruptement : à quelques kilomètres du rivage, les profondeurs dépassent déjà 1 000 mètres. Le courant principal du **Kuroshio** longe la côte est en remontant vers le nord, apportant des eaux chaudes et de grandes quantités de poissons migrateurs et de céphalopodes. C'est le territoire des cétacés plongeurs et pélagiques : cachalots, baleines à bec, et toutes sortes de dauphins.
 
 ### Côte ouest : la nurserie des eaux peu profondes
 
@@ -64,11 +62,11 @@ D'après les données d'échouages et les relevés en mer accumulés au fil des 
 
 ### Dauphin longirostre (Spinner Dolphin)
 
-**Le danseur de l'océan.** Il affectionne les étrave des bateaux et peut s'élancer hors de l'eau en plusieurs rotations spectaculaires sur son axe. C'est l'espèce la plus fréquemment observée lors des sorties en mer à l'est de Taïwan : vif, enjoué, il se déplace en groupes compacts.
+**Le danseur de l'océan.** Il affectionne les étrave des bateaux et peut s'élancer hors de l'eau en plusieurs rotations spectaculaires sur son axe : c'est l'espèce la plus fréquemment observée lors des sorties en mer à l'est de Taïwan, vive, enjouée, se déplaçant en groupes compacts.
 
 ### Dauphin de Risso (Risso's Dolphin)
 
-Son corps est couvert de cicatrices blanches — les marques de ses interactions sociales, portées comme des médailles. La tête est arrondie et le front bombé. Plus discret que son cousin longirostre, il préfère les zones profondes.
+Son corps est couvert de cicatrices blanches (marques d'interactions sociales portées comme des médailles), la tête arrondie. Plus discret, il préfère les zones profondes ; des échouages sont régulièrement enregistrés le long des côtes taïwanaises.
 
 ### Cachalot (Sperm Whale)
 
@@ -76,7 +74,7 @@ Son corps est couvert de cicatrices blanches — les marques de ses interactions
 
 ### Dauphin blanc de Chine (Indo-Pacific Humpback Dolphin)
 
-**Le « poisson de Mazu ».** Il vit dans les eaux côtières de l'ouest, entre Miaoli et Tainan. Son surnom vient du fait qu'il est plus visible aux alentours de la fête de Mazu (troisième mois lunaire), quand les mers se calment. Cette sous-espèce endémique est **en danger critique d'extinction** (Critically Endangered) : la population totale est estimée à moins de 60 individus, confrontés à une menace existentielle.
+**Le « poisson de Mazu ».** Il vit dans les eaux côtières de l'ouest, entre Miaoli et Tainan. Son surnom vient du fait qu'il est plus visible aux alentours de la fête de Mazu (troisième mois lunaire), quand les mers se calment. Cette sous-espèce endémique est **en danger critique d'extinction** (Critically Endangered) : la population totale est estimée à 45-50 individus selon la dernière enquête de 2025, dont plus de 60 % présentent des blessures externes, face à une menace existentielle.[^1]
 
 ---
 
@@ -92,13 +90,13 @@ En 1990, un massacre de dauphins à grande échelle aux Penghu provoqua une onde
 
 ### 1997 : l'avènement de l'observation des baleines
 
-En juillet 1997, le premier bateau d'observation de baleines de Taïwan — le _Haiching_ — appareilla pour la première fois depuis Shihtiping, à Hualien. Ce départ symbolisait la mutation du rapport entre les Taïwanais et les cétacés : de la prédation au regard admiratif. L'activité se développa rapidement sur la côte est (ports de Wushi à Yilan, de Hualien, de Shihtiping et de Chenggong à Taitung), devenant une fenêtre précieuse sur l'écologie marine.
+En juillet 1997, le premier bateau d'observation de baleines de Taïwan — le _Haiching_ — appareilla pour la première fois depuis Shihtiping, à Hualien. Ce départ symbolisait la mutation du rapport entre les Taïwanais et les cétacés : de la prédation au regard admiratif. L'activité s'étendit ensuite sur la côte est (ports de Wushi à Yilan, de Hualien, de Shihtiping et de Chenggong à Taitung), invitant un public toujours plus large à découvrir l'écologie marine.[^3]
 
 ---
 
 ## Recherche et science participative
 
-Depuis les années 1990, la recherche scientifique sur les cétacés taïwanais a progressivement porté ses fruits. Parmi les acteurs clés :
+Depuis les années 1990, la recherche scientifique taïwanaise sur les cétacés s'enracine et se développe en profondeur. Parmi les acteurs clés :
 
 - **Institutions académiques** : Université nationale de Taïwan (équipe du Pr. Chou Lien-siang), Université nationale Cheng Kung (équipe du Pr. Wang Jian-ping, dont la direction du centre cétacé a été reprise par le Pr. Wang Hao-wen), Université nationale Chia-yi (équipe du Pr. Yang Wei-cheng, désormais rattachée à l'Université nationale de Taïwan).
 - **Musées** : Musée national des sciences naturelles (Dr. Yao Chiu-ju), Musée national de biologie et aquarium marins.
@@ -133,8 +131,10 @@ Protéger les cétacés, ce n'est pas seulement défendre une espèce animale. C
 
 ## Références
 
-- [Agence de conservation marine — Plan de conservation des cétacés](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf)
-- [Agence de conservation marine — Guide de l'observation responsable des baleines](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190)
-- [Association taïwanaise des cétacés](https://www.whale.org.tw/)
-- [Fondation Kuroshio Ocean Education](https://www.kuroshio.org.tw/newsite/)
-- [Taiwan Wilderness Society](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91)
+[^1]: [Enquête sur la population du dauphin blanc de Chine - The News Lens](https://www.thenewslens.com/article/255968) — Confirme l'estimation 2025 à 45-50 individus, dont plus de 60 % présentent des blessures externes.
+[^2]: [Plan de conservation des cétacés - Agence de conservation marine, Conseil des affaires maritimes](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — Version publique du Plan de conservation du dauphin blanc de Chine et des cétacés de l'Agence de conservation marine.
+[^3]: [Guide de l'observation responsable des baleines - Agence de conservation marine](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Référentiel d'écotourisme baleinier à Taïwan.
+[^4]: [Association taïwanaise des cétacés](https://www.whale.org.tw/) — Organisation civile qui promeut la recherche et la conservation des cétacés à Taïwan.
+[^5]: [Fondation Kuroshio Ocean Education](https://www.kuroshio.org.tw/newsite/) — Institut de recherche cétacée et de science participative basé à Hualien.
+[^6]: [Taiwan Wilderness Society](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Organisation de plaidoyer pour la conservation du dauphin blanc de Chine.
+[^7]: [Agence de conservation marine, Conseil des affaires maritimes](https://www.oca.gov.tw/) — Autorité taïwanaise de la conservation marine, en charge de la protection des habitats des cétacés et de la régulation des projets de développement.

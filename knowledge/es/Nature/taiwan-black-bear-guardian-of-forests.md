@@ -1,6 +1,6 @@
 ---
 title: 'El oso negro taiwanés'
-description: 'La marca blanca en forma de V en su pecho es su firma — el último rey de los bosques de Taiwán y su inconclusa batalla por la conservación'
+description: 'La marca blanca en forma de V en su pecho es su firma, junto con su inconclusa batalla por la conservación'
 date: 2026-03-18
 tags:
   [
@@ -19,16 +19,16 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: Nature/台灣黑熊.md
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:7da94098666855ee'
-sourceBodyHash: 'sha256:5b38988aa62be187'
-translatedAt: 2026-05-02T01:17:17+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:80f0c919cd7bb16c'
+sourceBodyHash: 'sha256:c26951c6cc082f43'
+translatedAt: '2026-05-17T05:33:00Z'
 category: Nature
 ---
 
 # El oso negro taiwanés
 
-> La marca blanca en forma de V en su pecho es su firma — el último rey de los bosques de Taiwán y su inconclusa batalla por la conservación
+> La marca blanca en forma de V en su pecho es su firma, junto con su inconclusa batalla por la conservación
 
 ## Panorama en 30 segundos
 
@@ -74,7 +74,7 @@ También descubrió que los osos negros en realidad tienen mucho miedo de los se
 
 ### De investigadora a activista de la conservación
 
-A medida que avanzaba su investigación, Huang Mei-hsiu fue transformándose gradualmente de académica pura a activista de la conservación. Fundó la Asociación de Conservación del Oso Negro de Taiwán, impulsó legislación protectora, capacitó guardabosques y participó personalmente en programas de rehabilitación y liberación de osos heridos.
+A medida que avanzaba su investigación, Huang Mei-hsiu fue transformándose gradualmente de académica pura a activista de la conservación. Fundó la Asociación de Conservación del Oso Negro de Taiwán, impulsó legislación protectora, capacitó guardabosques y participó personalmente en programas de rehabilitación y liberación de osos heridos.[^1]
 
 **Se la conoce como la "Madre de los Osos Negros", no solo por su profundo conocimiento de la especie, sino por el cariño que siente hacia cada ejemplar.** Cada oso estudiado tiene su propia nombre y su propia historia; a los ojos de Huang Mei-hsiu, no son objetos de estudio, sino crías que necesitan protección.
 
@@ -110,7 +110,7 @@ Este fue un caso de éxito. Pero en los bosques invisibles, hay muchos más osos
 
 ### La protección de los parques nacionales
 
-Los principales hábitats del oso negro taiwanés se encuentran dentro de los parques nacionales: el Parque Nacional de Yushan, el Parque Nacional de Taroko, el Parque Nacional de Xueshan (Shei-Pa) y el Eje de Conservación de la Cordillera Central. Estas áreas protegidas ofrecen refugio relativamente seguro, limitan el desarrollo humano y protegen hábitats clave.
+Los principales hábitats del oso negro taiwanés se encuentran dentro de los parques nacionales: el Parque Nacional de Yushan, el Parque Nacional de Taroko, el Parque Nacional de Xueshan (Shei-Pa) y el Eje de Conservación de la Cordillera Central.[^2] Estas áreas protegidas ofrecen refugio relativamente seguro, limitan el desarrollo humano y protegen hábitats clave.
 
 ### El sistema de guardabosques
 
@@ -118,7 +118,7 @@ Los principales hábitats del oso negro taiwanés se encuentran dentro de los pa
 
 ### Nuevos desafíos tras "Honrar la Montaña"
 
-En 2019, el gobierno lanzó la política "Honrar la Montaña" (向山致敬), que abrió las montañas al público y simplificó los procedimientos de solicitud para practicar senderismo. Esta política permitió que más personas se acercaran a la naturaleza, pero también trajo nuevos riesgos de conflicto oso-humano.
+En 2019, el gobierno lanzó la política "Honrar la Montaña" (向山致敬), que abrió las montañas al público y simplificó los procedimientos de solicitud para practicar senderismo.[^4] Esta política permitió que más personas se acercaran a la naturaleza, pero también trajo nuevos riesgos de conflicto oso-humano.
 
 El número de excursionistas se disparó, las actividades de acampada aumentaron y los problemas de restos de comida y basura hicieron que los osos tuvieran más facilidad para entrar en contacto con los humanos. Algunos osos aprendieron a revolver las mochilas de los excursionistas en busca de alimento, un cambio de comportamiento que preocupa a los conservacionistas.
 
@@ -132,7 +132,7 @@ Tradicionalmente, la caza del oso entre los pueblos indígenas era un ritual sag
 
 ### De OhBear al símbolo comercial
 
-**En la sociedad taiwanesa contemporánea, el oso negro se ha convertido en un símbolo cultural importante.** La mascota oficial de la Oficina de Turismo, "OhBear", fue diseñada a partir del oso negro taiwanés, y la marca blanca en forma de V en su pecho se ha convertido en un identificador visual de Taiwán.
+**En la sociedad taiwanesa contemporánea, el oso negro se ha convertido en un símbolo cultural importante.** La mascota oficial de la Administración de Turismo del Ministerio de Transportes y Comunicaciones, "OhBear", fue diseñada a partir del oso negro taiwanés, y la marca blanca en forma de V en su pecho se ha convertido en un identificador visual de Taiwán.
 
 Pero esta simbolización también plantea problemas. Muchas marcas comerciales utilizan la imagen del oso negro en sus campañas de marketing, pero muestran una indiferencia total hacia la conservación real de la especie. El oso negro se ha convertido en un simpático personaje de dibujos animados, y la gente ha perdido la percepción de la crisis de supervivencia que enfrenta en la naturaleza.
 
@@ -181,24 +181,19 @@ La historia del oso negro taiwanés es una historia de supervivencia, adaptació
 
 **Proteger al oso negro taiwanes no es solo proteger una especie, sino proteger nuestro vínculo con la tierra y la integridad de los bosques de Taiwán.** En un momento en que la biodiversidad mundial enfrenta una crisis, cada oso negro taiwanés que sobrevive es un símbolo de esperanza.
 
-La profesora Huang Mei-hsiu dijo una vez: "Los osos negros no son solo animales; son un indicador de la salud de los bosques de Taiwán. Cuando logremos coexistir pacíficamente con los osos negros, habremos encontrado la forma de vivir en armonía con la naturaleza."
+La profesora Huang Mei-hsiu ha señalado que el oso negro taiwanés es un indicador clave del ecosistema de los bosques montañosos, y que la coexistencia pacífica entre humanos y osos es la cuestión central para una relación armónica entre las personas y la naturaleza.[^3]
 
 Esta batalla por la conservación aún no ha terminado. En cada cima de montaña de Taiwán, hay osos esperando nuestra protección. Esa marca en forma de V en su pecho no es solo una media luna: quizás sea también el presagio de una victoria (Victory), si estamos dispuestos a luchar por ellos.
 
 ## Referencias
 
-### Recursos oficiales
+[^1]: [Asociación de Conservación del Oso Negro de Taiwán](https://www.taiwanbear.org.tw/) — Fundada por la profesora Huang Mei-hsiu para impulsar la investigación y la legislación sobre la conservación del oso negro.
+[^2]: [Sección de Conservación del Oso Negro del Parque Nacional de Yushan](https://www.ysnp.gov.tw/) — Medidas de conservación del hábitat del oso negro en el Parque Nacional de Yushan.
+[^3]: [Agencia Forestal y de Conservación Natural: las poblaciones de oso negro taiwanés aumentan y ya no están en peligro inminente — CNA](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Declaración de la Agencia Forestal y de Conservación Natural del Ministerio de Agricultura de abril de 2025.
+[^4]: [Agencia Forestal y de Conservación Natural del Ministerio de Agricultura](https://www.forest.gov.tw/) — Política de conservación de fauna silvestre y plan de conservación del oso negro.
+[^5]: [Wuo-Wuo — Especial sobre el oso negro taiwanés en peligro](https://wuo-wuo.com/topics/widlife/taiwan-luna-bear) — Reportaje en profundidad sobre la conservación del oso negro taiwanés.
 
-- [Asociación de Conservación del Oso Negro de Taiwán](https://www.taiwanbear.org.tw/)
-- [Sección de Conservación del Oso Negro del Parque Nacional de Yushan](https://www.ysnp.gov.tw/)
-- [Conservación de Vida Silvestre del Buró Forestal](https://www.forest.gov.tw/)
+Lecturas complementarias:
 
-### Reportajes en profundidad
-
-- [Wuo-Wuo — Especial sobre el oso negro taiwanés en peligro](https://wuo-wuo.com/topics/widlife/taiwan-luna-bear)
-- [The Reporter — El camino de regreso a casa del oso negro](https://www.twreporter.org/)
-- [CommonWealth Magazine — Huang Mei-hsiu, la Madre de los Osos Negros](https://www.cw.com.tw/)
-
-### Registro audiovisual
-
+- [The Reporter — El camino de regreso a casa del oso negro](https://www.twreporter.org/) — Crónica de las liberaciones y los esfuerzos de conservación.
 - _Here Come the Bears_ (黑熊來了) — Documental dirigido por Mai Jue-ming, que sigue el proceso de conservación del oso negro taiwanés.

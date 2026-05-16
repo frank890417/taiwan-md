@@ -18,10 +18,10 @@ readingTime: 10
 lastVerified: 2026-03-28
 lastHumanReview: false
 translatedFrom: 'Music/流行音樂與金曲獎.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:adb300b59de6c935'
-sourceBodyHash: 'sha256:811e10d5510abbcf'
-translatedAt: '2026-05-01T14:11:02+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:ff90e26d455a0248'
+sourceBodyHash: 'sha256:26fbe182d7c0f17a'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 # Pop Music and the Golden Melody Awards

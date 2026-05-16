@@ -18,10 +18,10 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: People/鄭麗文.md
-sourceCommitSha: '5db9f136'
+sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
 sourceBodyHash: 'sha256:119c3d104b24e9dd'
-translatedAt: 2026-05-05T00:33:23+08:00
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 # Cheng Li-wun

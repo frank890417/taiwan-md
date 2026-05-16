@@ -1,5 +1,5 @@
 ---
-title: 'Chen Shu-chu'
+title: "Chen Shu-chu: A Taitung Vegetable Vendor's Charitable Life — Tens of Millions Donated From Fifty Years of Vegetable Money"
 description: "A vegetable vendor from Taitung who donated tens of millions over fifty years of vegetable sales — and still calls herself 'just a vegetable seller.'"
 date: 2026-03-19
 tags:
@@ -13,13 +13,13 @@ tags:
     'education donations',
   ]
 subcategory: '慈善與社會'
-lastVerified: 2026-04-03
-lastHumanReview: '2026-04-03'
+lastVerified: 2026-05-16
+lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:323b34d523a17107'
-sourceBodyHash: 'sha256:cf7f5778e87ab86e'
-translatedAt: '2026-05-01T14:11:02+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:884e3106e00c3ed4'
+sourceBodyHash: 'sha256:0e9eced4546d8cba'
+translatedAt: '2026-05-16T21:50:00Z'
 category: People
 ---
 
@@ -39,7 +39,7 @@ Chen Shu-chu's stall is in the Taitung Central Market. Every day she was at work
 
 The stall was not large, but the location was good — when the market was first set up and lots were drawn, her family drew a good spot. She later developed a business model: supplying vegetables to the military garrison on Green Island, because shipping direct from Taitung was cheaper than transporting from elsewhere.[^4] This gave her stable income, though still a vegetable vendor's income.
 
-Her money did not come all at once — it was saved up, one bunch of vegetables at a time. She spent almost nothing on herself: no eating out, no new clothes, living in an old building near the market. What she saved, she had other uses for.
+Her money was saved up one bunch of vegetables at a time, without a single windfall or shortcut. She spent almost nothing on herself: no eating out, no new clothes, living in an old building near the market. What she saved, she had other uses for.
 
 ## A Chronicle of Donations
 
@@ -88,6 +88,12 @@ The answer is tens of millions.
 The deeper question is: why would a vegetable vendor do this? Her answer has never changed — because when she was thirteen years old, her mother died on the way to the hospital, and she could do nothing. Fifty years later, she finally had the ability to make sure other people's mothers would not face the same thing.[^11]
 
 In 2025, National Taitung University awarded her an honorary doctorate. She spoke at the ceremony: "Thank you all for not looking down on a roadside vegetable stall."[^13]
+
+## Further Reading
+
+- [Taitung Central Market](/lifestyle/台東市集) — Chen Shu-chu's vegetable stall of fifty years; a representative site of Taitung's grassroots economy
+- [Taiwan's Philanthropic Culture](/society/台灣慈善文化) — From Master Cheng Yen and Tzu Chi to Chen Shu-chu the vegetable vendor: two samples of Taiwanese folk philanthropy
+- [Education in Taiwan's Remote Areas](/society/台灣偏鄉教育) — The main destinations of Chen Shu-chu's donations over the years: long-term support for libraries, schools, and orphanages
 
 ## References
 

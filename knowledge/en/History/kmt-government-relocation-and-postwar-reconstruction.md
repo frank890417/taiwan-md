@@ -15,12 +15,12 @@ category: 'History'
 author: 'Taiwan.md'
 readingTime: 22
 featured: true
-lastVerified: 2026-03-19
+lastVerified: 2026-05-16
 translatedFrom: 'History/國民政府遷台與戰後重建.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:74f0993c4f31ed7d'
-sourceBodyHash: 'sha256:0192d7f4368e5ad1'
-translatedAt: '2026-05-01T14:11:02+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:4e071d84893835c3'
+sourceBodyHash: 'sha256:fdd1a6127fff34df'
+translatedAt: '2026-05-17T06:04:00Z'
 ---
 
 # KMT Government Relocation and Post-War Reconstruction

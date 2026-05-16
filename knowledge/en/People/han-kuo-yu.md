@@ -10,10 +10,10 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: People/韓國瑜.md
-sourceCommitSha: '5db9f136'
-sourceContentHash: 'sha256:ee41f08167c2c2aa'
-sourceBodyHash: 'sha256:73cf0e41be5a3b9e'
-translatedAt: 2026-05-03T23:14:05+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:43806fa3b9658513'
+sourceBodyHash: 'sha256:fe00573219684528'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 # Han Kuo-yu
@@ -161,6 +161,7 @@ The truth probably lies somewhere in between. And Han Kuo-yu himself may be the 
 - [Lu Shiow-yen](/people/盧秀燕) — The other pole of the 2018 Han Wave, the Taichung mayor who flipped blue territory to blue the same year as Han Kuo-yu
 - [Hsin Chiao-hsin](/people/徐巧芯) — The key proponent of the NT$80 billion military procurement version in the 2026 arms purchase controversy, and a critical presence in Han Kuo-yu's Legislative Yuan negotiations
 - [Chi Lin-lian](/people/季麟連) — The vice chairman who threatened at the April 29, 2026, Central Standing Committee meeting that "those who sell the party for personal glory should be expelled" — the real target of that statement was Han Kuo-yu
+- [Brian Tseng](/people/曾博恩) — In December 2019, Han Kuo-yu appeared on Season 3 of The Night Night Show with Brian Tseng; his one condition was "no jokes about my hairstyle," and Tseng called him "the most familiar stranger"
 
 ## References
 

@@ -18,14 +18,14 @@ tags:
     'Fort Zeelandia',
   ]
 readingTime: 10
-lastVerified: 2026-04-05
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 featured: false
 translatedFrom: 'History/荷西明鄭時期.md'
-sourceCommitSha: '01d9d0e73'
-sourceContentHash: 'sha256:e5a3bfeaee77a9cf'
-sourceBodyHash: 'sha256:184255d8cbd17846'
-translatedAt: '2026-05-12T11:51:05+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:475b891f7794f26c'
+sourceBodyHash: 'sha256:ec7a623ac36bc060'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 # Période néerlandaise, espagnole et Ming-Zheng
@@ -103,7 +103,7 @@ Cette carte fut la première apparition de Taïwan, sous l’aspect d’« une p
 
 Les soixante années de la période néerlandaise, espagnole et Ming-Zheng établirent le caractère de Taïwan comme **société d’immigration** : les Han s’y installèrent en grand nombre, et la population passa d’environ 100 000 personnes à l’époque néerlandaise à environ 200 000 à l’époque Ming-Zheng, transformant en profondeur la structure démographique de l’île.[^5]
 
-Sur le plan institutionnel, les conceptions administratives néerlandaises et la tradition culturelle confucéenne des Ming-Zheng se superposèrent aux sociétés autochtones autonomes, formant la structure multicouche de la culture politique taïwanaise. La tradition du commerce international donna dès l’origine à Taïwan un caractère maritime : non pas une île isolée, mais un nœud.
+Sur le plan institutionnel, les conceptions administratives néerlandaises et la tradition culturelle confucéenne des Ming-Zheng se superposèrent aux sociétés autochtones autonomes, formant la structure multicouche de la culture politique taïwanaise. La tradition du commerce international donna dès l’origine à Taïwan un caractère maritime : géographiquement, c’est une île ; économiquement et politiquement, c’est un nœud.
 
 Sur le plan matériel, les marchandises et habitudes culturelles entrées au XVIIe siècle furent absorbées et transformées par les habitants locaux, devenant une part du socle de la culture taïwanaise actuelle : les barres japonaises de cuivre _saodong_ repêchées dans le port de Magong, aux Pescadores, importées au milieu du XVIIe siècle et utilisées pour la frappe monétaire et les armes à feu ; les jarres en céramique dites « jarres d’Anping » du nord du Fujian, que les Han utilisaient pour conserver des aliments en saumure, tandis que les autochtones siraya les employaient dans le culte des ancêtres et pour contenir l’« eau orientée » servant à communiquer avec eux ; ainsi que ces ancres murales encore fixées aujourd’hui aux pignons des vieux temples de Tainan.[^4]
 

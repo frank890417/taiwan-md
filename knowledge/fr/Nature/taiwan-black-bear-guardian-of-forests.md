@@ -1,6 +1,6 @@
 ---
 title: "L'ours noir de Formose"
-description: 'Le V blanc sur sa poitrine est sa signature — dernier souverain des forêts de Taïwan, et la bataille inachevée pour sa survie'
+description: 'Le V blanc sur sa poitrine est sa signature, et la bataille inachevée pour sa survie'
 date: 2026-03-18
 tags:
   [
@@ -19,15 +19,15 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:7da94098666855ee'
-sourceBodyHash: 'sha256:5b38988aa62be187'
-translatedAt: '2026-04-14T19:23:02+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:80f0c919cd7bb16c'
+sourceBodyHash: 'sha256:c26951c6cc082f43'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # L'ours noir de Formose
 
-> Le V blanc sur sa poitrine est sa signature — dernier souverain des forêts de Taïwan, et la bataille inachevée pour sa survie
+> Le V blanc sur sa poitrine est sa signature, et la bataille inachevée pour sa survie
 
 ## En 30 secondes
 
@@ -73,7 +73,7 @@ Ses recherches ont également révélé que les ours noirs craignent en réalit�
 
 ### De chercheuse à militante
 
-Au fil de ses recherches, Huang Mei-hsiu s'est progressivement transformée : d'académicienne pure, elle est devenue une militante de la conservation. Elle a fondé la Taiwan Black Bear Conservation Association, porté des initiatives législatives, formé des gardes forestiers et participé en personne à des programmes de réintroduction d'ours blessés.
+Au fil de ses recherches, Huang Mei-hsiu s'est progressivement transformée : d'académicienne pure, elle est devenue une militante de la conservation. Elle a fondé la Taiwan Black Bear Conservation Association, porté des initiatives législatives, formé des gardes forestiers et participé en personne à des programmes de réintroduction d'ours blessés.[^1]
 
 **On la surnomme « la mère des ours noirs » non seulement pour son expertise, mais pour l'affection qu'elle porte à chacun d'eux.** Chaque ours étudié a un nom et une histoire. Pour elle, ils ne sont pas des sujets d'étude — ce sont des êtres à protéger.
 
@@ -109,7 +109,7 @@ C'est une réussite. Mais dans les forêts que personne ne voit, d'autres ours a
 
 ### La protection des parcs nationaux
 
-Les principaux habitats de l'ours noir de Formose se trouvent dans les limites de parcs nationaux : Yushan, Taroko, Shei-Pa, ainsi que le corridor de conservation de la Chaîne centrale. Ces zones protégées offrent des refuges relativement sûrs, limitent le développement humain et préservent les habitats essentiels.
+Les principaux habitats de l'ours noir de Formose se trouvent dans les limites de parcs nationaux : Yushan, Taroko, Shei-Pa, ainsi que le corridor de conservation de la Chaîne centrale.[^2] Ces zones protégées offrent des refuges relativement sûrs, limitent le développement humain et préservent les habitats essentiels.
 
 ### Les gardes forestiers en première ligne
 
@@ -117,7 +117,7 @@ Les principaux habitats de l'ours noir de Formose se trouvent dans les limites d
 
 ### La politique « Vers la montagne » et ses nouveaux risques
 
-En 2019, le gouvernement a lancé la politique dite « Vers la montagne » (_Xiàng shān zhìjìng_), qui a simplifié les procédures d'accès aux zones de randonnée. Cette ouverture a rapproché davantage de Taïwanais des espaces naturels, mais elle a aussi accru les risques de rencontres hommes-ours.
+En 2019, le gouvernement a lancé la politique dite « Vers la montagne » (_Xiàng shān zhìjìng_), qui a simplifié les procédures d'accès aux zones de randonnée.[^4] Cette ouverture a rapproché davantage de Taïwanais des espaces naturels, mais elle a aussi accru les risques de rencontres hommes-ours.
 
 La fréquentation a explosé, le camping s'est multiplié, et les restes alimentaires attirent les ours vers les zones de présence humaine. Certains individus ont commencé à fouiller les sacs des randonneurs en quête de nourriture — une évolution comportementale qui préoccupe les spécialistes de la conservation.
 
@@ -131,7 +131,7 @@ Traditionnellement, la chasse à l'ours était un rituel sacré, non une activit
 
 ### De mascotte à symbole commercial
 
-**Dans la Taïwan contemporaine, l'ours noir est devenu un symbole culturel de premier plan.** La mascotte de l'Office du tourisme, OhBear, s'inspire directement de l'ours noir de Formose — son V blanc sur la poitrine est devenu une identité visuelle associée à Taïwan.
+**Dans la Taïwan contemporaine, l'ours noir est devenu un symbole culturel de premier plan.** La mascotte de l'Administration du tourisme du ministère des Transports et des Communications, OhBear, s'inspire directement de l'ours noir de Formose — son V blanc sur la poitrine est devenu une identité visuelle associée à Taïwan.
 
 Mais cette iconisation pose aussi un problème. De nombreuses marques commerciales utilisent l'image de l'ours à des fins marketing tout en ignorant la réalité de sa survie en nature. L'animal est devenu un personnage de dessin animé sympathique, et les gens ont perdu de vue la crise de conservation qui se joue dans les montagnes.
 
@@ -180,24 +180,19 @@ L'histoire de l'ours noir de Formose est celle de la survie, de l'adaptation et 
 
 **Protéger l'ours noir de Formose, c'est protéger notre lien à la terre et l'intégrité des forêts de montagne de Taïwan.** À l'heure où la biodiversité mondiale est en crise, chaque ours noir encore en vie est un symbole d'espoir.
 
-La professeure Huang Mei-hsiu l'a dit : « Les ours noirs ne sont pas de simples animaux — ils sont l'indicateur de la santé des forêts de Taïwan. Quand nous parviendrons à coexister pacifiquement avec eux, ce sera la preuve que nous avons trouvé une façon de vivre en harmonie avec la nature. »
+La professeure Huang Mei-hsiu a souligné que l'ours noir de Formose est un indicateur essentiel de l'écosystème de montagne : la coexistence pacifique entre humains et ours est la question clé pour vivre en harmonie avec la nature.[^3]
 
 Cette bataille pour la conservation n'est pas terminée. Dans chaque massif de Taïwan, des ours noirs attendent notre protection. Ce V sur leur poitrine n'est peut-être pas seulement un croissant — c'est peut-être la promesse d'une victoire (_victoire_), si nous choisissons de nous battre pour eux.
 
 ## Références
 
-### Ressources officielles
+[^1]: [Taiwan Black Bear Conservation Association](https://www.taiwanbear.org.tw/) — Fondée par la professeure Huang Mei-hsiu, elle promeut la recherche et la législation sur la conservation de l'ours noir.
+[^2]: [Zone de conservation de l'ours noir du parc national de Yushan](https://www.ysnp.gov.tw/) — Mesures de protection de l'habitat de l'ours noir au parc national de Yushan.
+[^3]: [Agence forestière : la population d'ours noirs de Formose progresse, l'espèce n'est plus menacée d'extinction — CNA](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Communiqué de l'Agence forestière et de la conservation de la nature du ministère de l'Agriculture, avril 2025.
+[^4]: [Agence forestière et de la conservation de la nature, ministère de l'Agriculture](https://www.forest.gov.tw/) — Politique de conservation de la faune sauvage et plan de conservation de l'ours noir.
+[^5]: [Wuo Wuo — Dossier sur les ours noirs de Formose en détresse](https://wuo-wuo.com/topics/widlife/taiwan-luna-bear) — Reportage approfondi sur la conservation de l'ours noir de Formose.
 
-- [Taiwan Black Bear Conservation Association](https://www.taiwanbear.org.tw/)
-- [Parc national de Yushan — Conservation de l'ours noir](https://www.ysnp.gov.tw/)
-- [Bureau forestier — Protection de la faune sauvage](https://www.forest.gov.tw/)
+Pour aller plus loin :
 
-### Reportages approfondis
-
-- [Wuo Wuo — Dossier sur les ours noirs de Taïwan en détresse](https://wuo-wuo.com/topics/widlife/taiwan-luna-bear)
-- [The Reporter — Le chemin du retour pour l'ours noir](https://www.twreporter.org/)
-- [CommonWealth Magazine — Huang Mei-hsiu, la mère des ours noirs](https://www.cw.com.tw/)
-
-### Documents audiovisuels
-
-- Documentaire _L'ours noir arrive_ — Réalisé par Mike Kasavubu (Mike McQuarrie), retraçant l'histoire de la conservation de l'ours noir de Formose
+- [The Reporter — Le chemin du retour pour l'ours noir](https://www.twreporter.org/) — Chronique de la relâche et de la conservation des ours noirs.
+- Documentaire _L'ours noir arrive_ — Réalisé par Mai Jue-ming, retraçant l'histoire de la conservation de l'ours noir de Formose.

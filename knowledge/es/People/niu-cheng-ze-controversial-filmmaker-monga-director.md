@@ -7,16 +7,16 @@ subcategory: '電影與戲劇'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: People/鈕承澤.md
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:c412539523fe8a6a'
-sourceBodyHash: 'sha256:542c1db901d15440'
-translatedAt: 2026-05-01T22:19:10+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:03252333a42bc60e'
+sourceBodyHash: 'sha256:decf157a216cec86'
+translatedAt: '2026-05-17T06:00:00Z'
 category: People
 ---
 
 # Niu Chengze: un cineasta entre el talento y la polémica
 
-Niu Chengze es un conocido director y actor taiwanés, reconocido por películas como _Monga_ y _Paradise in Service_. Desde sus inicios como niño actor hasta su transición a la dirección, sus obras abordan con frecuencia temas sensibles de la sociedad taiwanesa y poseen un marcado estilo personal. Sin embargo, en 2018 fue acusado de agresión sexual, lo que ensombreció su carrera artística y la valoración de su obra, convirtiéndolo en una de las figuras más polémicas del cine taiwanés.
+Desde _Monga_ hasta _Paradise in Service_, Niu Chengze se ganó un lugar en el cine con un estilo personal contundente, y sus obras abordan con frecuencia temas sensibles de la sociedad taiwanesa. En 2018, las acusaciones de agresión sexual y la posterior sentencia condenatoria ataron su nombre a la ola #MeToo de Taiwán y pusieron un punto final abrupto a su carrera artística.
 
 ## Inicios como niño actor
 
@@ -32,7 +32,7 @@ Tras alcanzar la edad adulta, Niu continuó trabajando como actor en películas 
 
 Bajo la tutela de Hou Hsiao-hsien aprendió la esencia del arte cinematográfico, una experiencia que influyó profundamente en su estilo creativo posterior. Comenzó a reflexionar sobre el significado profundo del cine, más allá del mero entretenimiento comercial.
 
-La experiencia adquirida durante la década de 1980 le permitió acumular una sólida técnica actoral, al tiempo que desarrolló una comprensión integral de la producción cinematográfica. Esto sentó las bases para su posterior transición a la dirección.
+La experiencia adquirida durante la década de 1980 le permitió acumular una sólida técnica actoral y, más importante aún, construir un conocimiento de primera mano del proceso integral de producción cinematográfica.
 
 ## Transición exitosa a la serie de televisión
 
@@ -96,7 +96,7 @@ En 2018, Niu Chengze fue acusado de agresión sexual contra una trabajadora, un 
 
 Durante el juicio, más víctimas presentaron acusaciones, evidenciando la gravedad del problema. Estas denuncias causaron un golpe devastador a su reputación y su carrera.
 
-En 2021, el Tribunal de Distrito de Taipéi declaró a Niu Chengze culpable y lo sentenció a cuatro años de prisión. La sentencia confirmó su conducta criminal y puso fin a su carrera artística.
+En primera instancia, el Tribunal de Distrito de Taipéi declaró a Niu Chengze culpable en abril de 2020 y lo condenó a cuatro años de prisión; en segunda instancia, el Tribunal Superior de Taiwán confirmó la sentencia en diciembre de 2020; el Tribunal Supremo desestimó el recurso en septiembre de 2021 y la sentencia quedó firme[^1]. Esta sentencia firme confirmó su conducta criminal y puso fin a su carrera artística.
 
 ## Impacto en la industria audiovisual taiwanesa
 
@@ -128,7 +128,7 @@ El proceso judicial del caso de Niu Chengze puso de manifiesto la forma en que e
 
 Aunque el veredicto otorgó a las víctimas cierto grado de justicia, también generó debate sobre la adecuación de la condena.
 
-Este caso se convirtió en un ejemplo importante de educación cívica legal en la sociedad taiwanesa, recordando que el poder no puede estar por encima de la lección.
+Este caso suscitó en la sociedad taiwanesa una discusión profunda sobre la relación entre «talento» y «carácter», y se convirtió también en un caso de referencia para la educación en seguridad de género en el trabajo de quienes se dedican a la industria audiovisual.
 
 ## Lecciones para el cine taiwanés
 
@@ -142,6 +142,9 @@ El caso de Niu Chengze representa un punto de inflexión importante en la indust
 
 ## Referencias
 
-- [Sentencia del caso de agresión sexual de Niu Chengze — Sistema de consulta de datos judiciales del Poder Judicial](https://judgment.judicial.gov.tw/) — Documento de la sentencia judicial
-- [Igualdad de género en la industria audiovisual taiwanesa — Ministerio de Cultura](https://www.moc.gov.tw/) — Políticas y medidas
-- [El movimiento MeToo en Taiwán — Fundación Awakening de la Mujer](https://www.awakening.org.tw/) — Documentación del movimiento social
+[^1]: Taro News, «Sentencia firme del Tribunal Supremo en el caso de agresión sexual de Niu Chengze: cuatro años de prisión», https://taronews.tw/, septiembre de 2021
+[^2]: Sistema de consulta de datos judiciales del Poder Judicial, documento de la sentencia del caso de agresión sexual de Niu Chengze, https://judgment.judicial.gov.tw/
+[^3]: Central News Agency (CNA), «Niu Chengze acusado de agresión sexual: el Tribunal de Distrito de Taipéi lo declara culpable en primera instancia con cuatro años de prisión», https://www.cna.com.tw/, abril de 2020
+[^4]: Ministerio de Cultura, política de igualdad de género en la industria audiovisual taiwanesa, https://www.moc.gov.tw/
+[^5]: Fundación Awakening de la Mujer, documentación de incidencia social del movimiento MeToo en Taiwán, https://www.awakening.org.tw/
+[^6]: Wikipedia, entrada «Niu Chengze», https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4

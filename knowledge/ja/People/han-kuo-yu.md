@@ -10,10 +10,10 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: '5db9f136'
-sourceContentHash: 'sha256:ee41f08167c2c2aa'
-sourceBodyHash: 'sha256:73cf0e41be5a3b9e'
-translatedAt: '2026-05-03T23:14:06+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:b248c358d4ff171a'
+sourceBodyHash: 'sha256:34912fb2edaeaf10'
+translatedAt: '2026-05-17T06:35:00Z'
 ---
 
 # 韓国瑜
@@ -161,6 +161,7 @@ translatedAt: '2026-05-03T23:14:06+08:00'
 - [盧秀燕](/people/盧秀燕) — 2018年韓流のもう一極。韓国瑜と同年に青地から青に転換した台中市長
 - [徐巧芯](/people/徐巧芯) — 2026年軍事調達問題の8000億バージョンの主要推進者。韓国瑜立法院長の協議における重要な関係者
 - [季麟連](/people/季麟連) — 2026年4月29日中常会で「党を売って栄誉を得る者は党籍を除名すべき」と発言した副主席。その言葉が真に衝撃を与えた対象は韓国瑜であった
+- [曾博恩](/people/曾博恩) — 2019 年 12 月、韓国瑜は『博恩夜夜秀』第三季に出演した。唯一の要求は「髪型でジョークを言わないこと」で、博恩は彼を「最も馴染みのある見知らぬ人」と呼んだ
 
 ## 参考資料
 

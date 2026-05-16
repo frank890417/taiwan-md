@@ -1,7 +1,7 @@
 ---
 title: 'Lee Da-hye'
 description: 'De las animadoras del béisbol coreano a representante de primera línea en las ligas taiwanesas, transformó la "popularidad de visitante" en un nuevo modelo coreano de "desarrollo local a largo plazo".'
-date: 2026-04-14
+date: 2026-05-13
 tags:
   [
     Personajes populares,
@@ -15,14 +15,14 @@ tags:
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 10
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 category: People
 translatedFrom: People/李多慧.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c3e61e6efd81f405'
-sourceBodyHash: 'sha256:e2519e7a562b02a9'
-translatedAt: 2026-05-01T22:19:10+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:5948ff9d2aa67b97'
+sourceBodyHash: 'sha256:b16f2be3d2468ceb'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 > **Resumen en 30 segundos:** En 2023, hizo su primera aparición oficial en un estadio taiwanés; en 2024, se unió a Wei Quan Long; en 2026, renovó como capitana de las Dragon Beauties. Lee Da-hye no es solo una animadora coreana de gran popularidad: es una señal de época. Las animadoras coreanas en Taiwán pasaron de "venir un momento" a "quedarse a largo plazo".
@@ -48,6 +48,10 @@ Para 2026, cuando las Dragon Beauties anunciaron la alineación de la nueva temp
 
 Al mismo tiempo, las expectativas de los aficionados taiweses también cambiaron: de "¿qué canción bailará esta vez?" a "¿hacia dónde llevará al equipo este año?".
 
+## 2026: temporada de intercambio con la liga coreana e identidad visual del equipo
+
+En la rueda de prensa de inicio de la temporada 2026, Wei Quan Long anunció una colaboración estratégica con los LG TWINS de la liga profesional coreana. Según informó la edición digital de *United Daily News*/UDN, las Dragon Beauties presentaron un nuevo uniforme con estilo qipao diseñado por Lee Da-hye; representantes de las animadoras de los LG TWINS también compartieron en el acto el plan de intercambio entre ambas partes y anticiparon una jornada temática conjunta de animación entre Wei Quan Long y los LG Twins en el Taipei Dome los días 26 y 27 de mayo. [Fuente: United Daily News / UDN][^5]
+
 ## Su influencia en el desarrollo en Taiwán
 
 El impacto de Lee Da-hye tiene al menos tres capas. La primera es escénica: elevó el listón de lo que el público espera de una presentación de animación. La segunda es industrial: motivó a más clubes a invertir en talento de animación transnacional. La tercera es cultural: hizo que la ola coreana no se limitara a los conciertos, sino que entrara en la experiencia cotidiana de asistir a un partido de béisbol en Taiwán.
@@ -70,8 +74,10 @@ Por eso Lee Da-hye merece un lugar en la sección de personajes populares de Tai
 
 ## Referencias / Fuentes
 
-Fuente 1: https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%9A%E6%85%A7_(%E5%95%A6%E5%95%A6%E9%9A%8A)
-Fuente 2: https://gobaseball.gogoal.com.tw/archives/69038
-Fuente 3: https://news.tvbs.com.tw/entertainment/3126261
-Fuente 4: https://www.chinatimes.com/realtimenews/20260403001614-260404
-Fuente 5: https://vip.udn.com/vip/story/121585/9420050
+[^5]: *United Daily News* / UDN (reportera Chen Wan-ching), «CPBL / Primer vistazo al nuevo uniforme diseñado por Lee Da-hye: jornada temática conjunta con LG TWINS en mayo en el Taipei Dome», 23-03-2026, https://udn.com/news/story/7002/9397592
+
+Otras fuentes verificables:
+
+- Wikipedia (perfil personal): https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%9A%E6%85%A7_(%E5%95%A6%E5%95%A6%E9%9A%8A)
+- TVBS News (resúmenes personales / deportivos): https://news.tvbs.com.tw/entertainment/3126261
+- China Times News (noticias en tiempo real): https://www.chinatimes.com/realtimenews/20260403001614-260404

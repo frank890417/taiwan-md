@@ -2,17 +2,18 @@
 title: 'Chen Cheng-po'
 description: "He conquered Tokyo's Imperial Art Exhibition with oil paintings, yet was shot dead in front of Chiayi Railway Station — and what made the world know him was often his death, not those paintings."
 date: 2026-03-31
-tags: [藝術, 繪畫, 二二八, 嘉義, 日治時期]
+category: 'People'
+tags: ['藝術', '繪畫', '二二八', '嘉義', '日治時期']
 subcategory: '藝術家'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
-translatedFrom: People/陳澄波.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:12bbbe1f09116e18
-sourceBodyHash: 'sha256:daa58274ba5f4a8d'
-translatedAt: 2026-05-02T02:50:54+08:00
-category: People
+translatedFrom: 'People/陳澄波.md'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:485587af49d56815'
+sourceBodyHash: 'sha256:433a66ecaa1d5d52'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 > **30-second overview:** On March 25, 1947, in front of Chiayi Railway Station, a man who wielded a paintbrush was bound with wire and shot dead in the street. His name was Chen Cheng-po — the first Taiwanese artist to break into Japan's Imperial Art Exhibition with oil paintings, and the one who went to negotiate during the [228 Incident](/en/history/228-incident/) and never came back.

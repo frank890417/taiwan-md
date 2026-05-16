@@ -19,10 +19,10 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 researchReport: reports/research/2026-04/報導者.md
 translatedFrom: Society/報導者.md
-sourceCommitSha: 'ee4917f3'
-sourceContentHash: 'sha256:49cc6bc592e21101'
-sourceBodyHash: 'sha256:eb5141137b65e66f'
-translatedAt: '2026-04-30T22:50:13+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:6c6fd9ecbe1e0609'
+sourceBodyHash: 'sha256:5f1735314ca6d06c'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 > **30-second overview:** The Reporter (《報導者》) is a nonprofit investigative journalism outlet co-founded on September 1, 2015 — Journalists' Day in Taiwan — by Ho Jung-hung and Chang Tieh-chih, with ASUS co-founder and Pegatron chairman Tung Tzu-hsien's (童子賢) initial personal donation of NT$5 million establishing the Reporter Cultural Foundation. [^1] It voluntarily ties its own hands: a "Three Nots" donor covenant — no ownership, no interference, no clawback — is written explicitly into its published articles. [^2] The newsroom accepts no advertising, no government contracts, and displays no internal traffic metrics; all content is free. Over ten years, its investigation _Blood and Tears at Sea_ directly prompted Control Yuan censure of the Fisheries Agency; [^3] the _Ruins Youth_ duology won the Excellence in Journalism Award; _Storm of Child Predators_ involved eight months of undercover work to expose a child sexual exploitation supply chain; and _MIT Machine Tools Flowing Into Russia's Defense Industry_ won first place at the 2025 SOPA Outstanding Economic Reporting Award. [^4] Annual fundraising rose from NT$34.47 million in 2022 to NT$52.98 million in 2025. [^5] This island's civil society, through monthly automatic payments from one stranger to another, has turned investigative journalism from a commercial media line item into a public good — one that sustains itself, and keeps going.
@@ -131,10 +131,11 @@ But the tenth anniversary exhibition was titled _OPEN_, not _The End_.
 
 > **✦** "No ownership, no interference, no clawback." — The Reporter Donor Covenant [^36]
 
-## Further Reading
+**Further Reading**:
 
 - [Social Movements and Civic Participation](/society/social-movements-and-civic-participation) — The Reporter's birth and operation are tightly coupled to Taiwan's civil society; this piece traces the broader social movement and civic participation spectrum in which The Reporter is rooted
 - [Taiwan New Media Art](/art/taiwan-new-media-art) — Another Taiwan-DNA case driven by civic communities and growing across disciplinary lines
+- [PanSci](/society/泛科學) — Another 2010s case of Taiwanese new media building public discourse, but PanSci chose the route of sustaining that public space through science communication, courses, video, sponsored projects, and a knowledge-services company
 - [Taiwan Independent Music Scene](/music/taiwan-independent-music-scene-evolution) — Another public-good ecosystem sustained by strangers paying voluntarily
 - [justfont and Taiwan Typography](/technology/justfont與台灣字體發展) — Another 2015 crowdfunding case study that reshaped Taiwanese public perception; a parallel in cultural infrastructure
 - [Submarine Cables](/technology/海底電纜) — The Reporter's 2024 deep-dive on submarine cables is a key source for this topic

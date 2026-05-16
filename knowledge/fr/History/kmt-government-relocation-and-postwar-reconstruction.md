@@ -2,29 +2,19 @@
 title: 'Le repli du gouvernement nationaliste à Taïwan et la reconstruction d'après-guerre'
 description: 'Yan Chia-kan a quitté le Fujian pour assister à l'exil du gouvernement nationaliste en 1949. 1,2 million de civils et soldats, 38 ans de loi martiale, réforme agraire — comment cette période a-t-elle redessiné Taïwan ?'
 date: 2026-03-18
-tags:
-  [
-    'Gouvernement nationaliste',
-    'Exil à Taïwan',
-    'Reconstruction d'après-guerre',
-    '1949',
-    'Guerre civile chinoise',
-    'Migrants continentaux',
-    'Yan Chia-kan',
-    'Période de loi martiale',
-  ]
+tags: ['Gouvernement nationaliste', 'Exil à Taïwan', 'Reconstruction d''après-guerre', '1949', 'Guerre civile chinoise', 'Migrants continentaux', 'Yan Chia-kan', 'Période de loi martiale']
 subcategory: 'Après-guerre et autoritarisme'
 category: 'History'
 author: 'Taiwan.md Translation Team'
 readingTime: 18
 featured: true
-lastVerified: 2026-04-04
+lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: "History/國民政府遷台與戰後重建.md"
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:74f0993c4f31ed7d'
-sourceBodyHash: 'sha256:0192d7f4368e5ad1'
-translatedAt: "2026-04-14T12:31:49+08:00"
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:4e071d84893835c3'
+sourceBodyHash: 'sha256:fdd1a6127fff34df'
+translatedAt: "2026-05-17T05:33:00Z"
 ---
 
 # Le repli du gouvernement nationaliste à Taïwan et la reconstruction d'après-guerre
@@ -40,7 +30,7 @@ Né en 1905, Yan Chia-kan a occupé le poste de directeur des finances de la pro
 
 > **« Je n'avais pas le choix, c'était le propriétaire terrien qui décidait. »** — Un métayer taïwanais (cité dans les _Entretiens sur les faits et gestes du président Yan Chia-kan_)
 
-Cette parole a été recueillie dans la campagne taïwanaise de 1949. À cette époque, la politique des « 37,5 % » venait d'être mise en place : les métayers ne devaient remettre au propriétaire que 37,5 % de leur récolte. Il ne s'agissait pas seulement d'une mesure économique, mais d'une transformation radicale des structures sociales — une rupture avec le régime féodal de la tenure agricole, ouvrant la voie à une société de petits propriétaires[^2].
+Cette parole a été recueillie dans la campagne taïwanaise de 1949. À cette époque, la politique des « 37,5 % » venait d'être mise en place : les métayers ne devaient remettre au propriétaire que 37,5 % de leur récolte. Cette mesure a enclenché une transformation radicale des structures sociales taïwanaises — une rupture avec le régime de tenure agricole, ouvrant la voie à une société de petits propriétaires[^2].
 
 Yan Chia-kan a déclaré : « C'était une nécessité historique, et en même temps une douloureuse contrainte de l'époque. » Ce commentaire, formulé à propos du repli gouvernemental de 1949, vaut en réalité comme épitaphe pour toute une ère[^3].
 
@@ -87,7 +77,7 @@ Les propriétaires terriens sont contraints de vendre à l'État les terres agri
 La réforme agraire supprime efficacement la grande propriété foncière et réalise l'idéal républicain de « la terre à celui qui la cultive ». Environ 194 000 ménages de métayers accèdent à la propriété, transformant en profondeur la société rurale. Les anciens propriétaires reçoivent en compensation des obligations foncières et des actions d'entreprises publiques ; beaucoup se reconvertissent dans le commerce et l'industrie, apportant les capitaux qui alimenteront le développement industriel ultérieur de Taïwan.
 
 > **📝 Note de la rédaction**
-> La réforme agraire n'est pas seulement une politique économique — c'est une véritable révolution sociale. Elle a transformé la structure des classes à Taïwan, faisant des paysans des propriétaires et des propriétaires des capitalistes. C'est là l'un des pivots de la transition de Taïwan d'une société agricole vers une société industrielle.
+> La réforme agraire est une révolution sociale à part entière. Elle a transformé la structure des classes à Taïwan, faisant des paysans des propriétaires et des propriétaires des capitalistes. C'est là l'un des pivots de la transition de Taïwan d'une société agricole vers une société industrielle.
 
 ## Reconstruction économique et aide américaine
 
@@ -126,17 +116,17 @@ En 1971, l'Assemblée générale des Nations Unies adopte la résolution 2758, r
 
 Le 5 avril 1975, Chiang Kai-shek disparaît. Conformément à la Constitution, le vice-président en exercice, Yan Chia-kan, lui succède à la présidence[^15]. En 1978, à l'issue de son mandat, Yan Chia-kan passe le relais à Chiang Ching-kuo, alors président du Yuan exécutif.
 
-Chiang Ching-kuo engage une série de réformes majeures : levée de la loi martiale (1987), autorisation des partis politiques (1987), levée des restrictions sur la presse (1988), ouverture des visites familiales au continent (1987). Ces mesures posent les fondations de la démocratisation de Taïwan.
+Chiang Ching-kuo engage une série de réformes majeures : levée de la loi martiale (1987), autorisation des partis politiques (1987), levée des restrictions sur la presse (1988), ouverture des visites familiales au continent (1987). Ces mesures déclenchent le processus concret de démocratisation de Taïwan.
 
 > **✦** « C'était une nécessité historique, et en même temps une douloureuse contrainte de l'époque. » — Yan Chia-kan
 
-Cette phrase figure dans les archives orales de l'Académie d'histoire nationale. Elle dit à la fois la résignation de Yan Chia-kan face au repli de 1949 et son regard sur toute une époque. Le passage de Taïwan de l'autoritarisme à la démocratie ne fut ni serein ni violent — ce fut une « inévitabilité douloureuse ».
+Cette phrase figure dans les archives orales de l'Académie d'histoire nationale. Elle dit à la fois la résignation de Yan Chia-kan face au repli de 1949 et son regard sur toute une époque. La transition de Taïwan, de l'autoritarisme à la démocratie, n'a connu ni transfert pacifique ni révolution sanglante : un lent relâchement, à la manière d'une « inévitabilité douloureuse ».
 
 ## Les résonances de l'histoire
 
 Le 15 juillet 1987 à minuit, Chiang Ching-kuo lève la loi martiale. Ce soir-là, les rues de Taïwan restent silencieuses — pas de pétards, pas de fêtes. Des millions de familles regardent les informations télévisées dans le silence. Une époque se fermait, comme Yan Chia-kan l'avait dit : « Une nécessité historique, et en même temps une douloureuse contrainte de l'époque. »
 
-Aujourd'hui, environ 15 % de la population taïwanaise est descendante de migrants continentaux. Leurs patronymes, leurs souvenirs, leurs langues sont devenus partie intégrante de Taïwan. L'histoire du repli nationaliste et de la reconstruction d'après-guerre n'est pas celle d'un « régime étranger » imposé de l'extérieur — c'est celle d'une communauté de migrants qui a pris racine.
+Aujourd'hui, environ 15 % de la population taïwanaise est descendante de migrants continentaux. Leurs patronymes, leurs souvenirs, leurs langues sont devenus partie intégrante de Taïwan. L'histoire du repli nationaliste et de la reconstruction d'après-guerre est passée du cadre unique d'un « régime étranger » à une lecture en termes de communauté de migrants entrelacée et recomposée avec la société locale.
 
 Si en 2050 quelqu'un cherche à comprendre ce qui importait aux Taïwanais de 1949, il lira peut-être ces fichiers Markdown.
 

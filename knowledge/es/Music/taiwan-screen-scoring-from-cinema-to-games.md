@@ -21,8 +21,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣影視配樂.md'
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:5b87d248aee8d7df'
-sourceBodyHash: 'sha256:75efb37138b63abf'
+sourceContentHash: 'sha256:acab3be703b32826'
+sourceBodyHash: 'sha256:f981cb738e4f962d'
 translatedAt: '2026-05-09T06:27:14Z'
 ---
 

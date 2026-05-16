@@ -89,6 +89,23 @@
     "path": "ko/Geography/yushan-jade-mountain.md"
   },
   {
+    "title": "'신생태 예술환경: 1992년 융푸루의 400핑 노옥, 지원 구조보다 앞서 달린 7년'",
+    "description": "1992년 6월, 두자오셴은 타이난 융푸루의 400여 핑 규모 노건축에 「신생태 예술환경」을 열었다. 국가문화예술기금회는 아직 설립되지 않았고, 타이난예술대학은 아직 개교하지 않았으며, 문건회의 「유휴 공간 재활용」 정책도 아직 시행되지 않았다. 이 공간은 7년을 버텼고, 1999년 문을 닫을 때쯤 대만 현대미술의 기관적 신경계가 막 자라나기 시작했다.",
+    "category": "ko",
+    "tags": [
+      "대안 공간",
+      "현대미술",
+      "타이난",
+      "1990년대",
+      "계엄 해제 이후"
+    ],
+    "url": "https://taiwan.md/ko/Art/new-ecological-art-environment",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "ko/Art/new-ecological-art-environment.md"
+  },
+  {
     "title": "'얕은 것은 얕지만, 얕으면서도 맛이 있어야 한다'",
     "description": "'1944년 구룡강 가에서 아버지를 잃은 맏이에서, 2019년 12월 잠든 채 떠난 95세 할아버지까지. 린량(林良)은 73년간 증명했다: 아이는 완전한 독자로 대우받을 가치가 있다.'",
     "category": "ko",
@@ -114,17 +131,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/mark-liu.md"
-  },
-  {
-    "title": "'장중모'",
-    "description": "'반도체 교부, TSMC 창립자, 웨이퍼 파운드리 모델로 글로벌 기술 산업을 바꾼 전설적 기업가'",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/People/tsmc-morris-chang",
-    "readingTime": 49,
-    "featured": true,
-    "date": "2026-03-17",
-    "path": "ko/People/tsmc-morris-chang.md"
   },
   {
     "title": "'조사 보도를 영업 항목에서 공공재로 구해낸 10년'",
@@ -736,11 +742,13 @@
   },
   {
     "title": "三峡茶：「青心柑仔」の螺旋的転換から、夏茶の価値である蜜香への進化へ",
-    "description": "三峡は台湾を代表する専門の炒菁緑茶産地であり、その産業の歩みは「適応」をめぐる長期的な実験であった。清代同治年間の陶徳による発見から、日本統治期における緑茶輸出の抑制、1990年代末期の碧螺春の正式な定名に至るまで、三峡の茶農は固有品種と土地開発の狭間で、台湾緑茶のローカルスタンダードを築き上げた。",
+    "description": "三峡は台湾を代表する専門の炒菁（釜炒り）緑茶産地であり、その産業の歩みは「適応」をめぐる長期的な実験です。清代同治年間の陶徳による発見から、日本統治期における緑茶輸出の抑制、1990年代末期の碧螺春の正式な定名に至るまで、三峡の茶農は固有品種と土地開発の狭間で、台湾緑茶のローカルスタンダードを築き上げました。",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "["
+    ],
     "url": "https://taiwan.md/ja/Food/sanxia-tea",
-    "readingTime": 16,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-04-26",
     "path": "ja/Food/sanxia-tea.md"
@@ -1053,6 +1061,17 @@
     "featured": true,
     "date": "2026-05-16",
     "path": "ja/Food/gua-bao.md"
+  },
+  {
+    "title": "区秀詒：「群島」を台湾芸術界にもたらしたマレーシアのキュレーター",
+    "description": "2003 年、彼女はクアラルンプールから台北へ渡り、台北芸術大学で学びました。当初はただの通過者だと思っていましたが、14 年後、台北で「東南アジア」という冷戦期の命名に代えて「群島」（Nusantara）を用い始め、マレー世界の自己命名を台湾のキュレーション言説へ持ち込みました。架空の地名をめぐる「メンケラン」三部作、《Kris Project》のシンガポール美術館コレクション入り、そして 2024 年に陳侑汝と協働してマレーシアの無国籍児童にインタビューしたことまで、彼女は NML のインタビューでこう語っています。「正因為我的『不在場』，才會做出這個作品。」",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/People/au-sow-yee",
+    "readingTime": 75,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "ja/People/au-sow-yee.md"
   },
   {
     "title": "太陽花学運——あの三十秒から十二年後",
@@ -1845,6 +1864,17 @@
     "path": "History/台海危機與兩岸關係發展.md"
   },
   {
+    "title": "台湾 VTuber：企業実験から「圏外進出」へ向かう虚実共生の進化",
+    "description": "2017 年、バーチャル少女の虎妮が Yahoo TV に登場し、台湾 VTuber 産業の幕を開けました。初期の企業による技術実験から、2025 年には台湾全体で累計 3,000 人を超える VTuber がデビューするまでになり、この潮流はオリンピック連携から台湾語復興までを横断する文化生態系へと進化しました。そこから生まれた Super Chat 経済は数千万規模に達する一方、個人クリエイターはいまも高コストと高い流動率という課題に直面しています。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/Culture/taiwan-vtuber",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "ja/Culture/taiwan-vtuber.md"
+  },
+  {
     "title": "台湾5Gネットワーク建設とデジタルトランスフォーメーション",
     "description": "台湾が4Gの先行から5Gの展開へ、デジタルトランスフォーメーション国家戦略とスマートアプリケーションの発展過程を探る",
     "category": "ja",
@@ -2006,12 +2036,20 @@
     "path": "ja/Music/taiwanese-hokkien-song-evolution.md"
   },
   {
-    "title": "台湾民謡運動：「自分たちの歌を歌おう」から変わった華語音楽圏",
-    "description": "1970年代の台湾で若者たちが起こした文化革命——淡江事件から金韻賞、そして現代インディーズ音楽へと受け継がれた精神の軌跡",
+    "title": "台湾民歌運動",
+    "description": "「自分の歌を歌おう」から華語音楽シーン全体の変革へ——1970年代、若者たちの文化革命",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "民歌運動",
+      "校園民歌",
+      "金韻獎",
+      "李雙澤",
+      "楊弦",
+      "胡德夫",
+      "唱自己的歌"
+    ],
     "url": "https://taiwan.md/ja/Music/taiwan-campus-folk-song-movement",
-    "readingTime": 21,
+    "readingTime": 23,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Music/taiwan-campus-folk-song-movement.md"
@@ -2761,7 +2799,7 @@
       "地政学"
     ],
     "url": "https://taiwan.md/ja/History/taiwan-strait-crises-and-cross-strait-relations",
-    "readingTime": 31,
+    "readingTime": 32,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/History/taiwan-strait-crises-and-cross-strait-relations.md"
@@ -2959,7 +2997,7 @@
   },
   {
     "title": "台湾黒熊",
-    "description": "胸元の白いV字はその署名――台湾の山林における最後の王者、そして未完の保護闘争",
+    "description": "胸元の白いV字はその署名、そして未完の保護闘争",
     "category": "ja",
     "tags": [
       "台湾黒熊",
@@ -2971,7 +3009,7 @@
       "国立公園"
     ],
     "url": "https://taiwan.md/ja/Nature/taiwan-black-bear-guardian-of-forests",
-    "readingTime": 13,
+    "readingTime": 23,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Nature/taiwan-black-bear-guardian-of-forests.md"
@@ -3040,7 +3078,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/Culture/taiwanese-sensibility",
-    "readingTime": 29,
+    "readingTime": 30,
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Culture/taiwanese-sensibility.md"
@@ -3090,7 +3128,7 @@
       "南北の差異"
     ],
     "url": "https://taiwan.md/ja/Food/braised-pork-rice",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": true,
     "date": "2026-03-19",
     "path": "ja/Food/braised-pork-rice.md"
@@ -3145,17 +3183,6 @@
     "featured": false,
     "date": "2026-04-23",
     "path": "ja/Technology/taiwan-vr-metaverse-rise-and-fall.md"
-  },
-  {
-    "title": "台湾VTuber：企業実験から「枠外」へ、仮想と現実の共生の進化",
-    "description": "2017年、仮想の女の子・虎妮（フーニー）がYahoo TVに登場し、台湾VTuber産業の幕を開けた。最初の企業技術実験から、2025年に全台累計3,000人以上のVTuberがデビューするまで、この力は奥運（パリ五輪）との連携や台湾語復興にまたがる文化的エコシステムへと進化した。スーパーチャット経済は数千万元に達するが、個人クリエイターは依然として高コストと高い流動率という課題に直面している。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/Culture/taiwan-vtuber",
-    "readingTime": 31,
-    "featured": false,
-    "date": "2026-04-26",
-    "path": "ja/Culture/taiwan-vtuber.md"
   },
   {
     "title": "台湾YouBike文化と都市のマイクロモビリティ革命",
@@ -3240,7 +3267,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/Technology/taiwan-cybersecurity-industry-development",
-    "readingTime": 33,
+    "readingTime": 35,
     "featured": true,
     "date": "2026-03-19",
     "path": "ja/Technology/taiwan-cybersecurity-industry-development.md"
@@ -3328,7 +3355,7 @@
       "生態"
     ],
     "url": "https://taiwan.md/ja/Nature/taiwanese-leopard-cat-conservation",
-    "readingTime": 12,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Nature/taiwanese-leopard-cat-conservation.md"
@@ -3414,7 +3441,7 @@
       "林文安"
     ],
     "url": "https://taiwan.md/ja/Nature/taiwan-mountains-and-hiking-culture",
-    "readingTime": 17,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Nature/taiwan-mountains-and-hiking-culture.md"
@@ -3840,7 +3867,7 @@
       "生態保全"
     ],
     "url": "https://taiwan.md/ja/Nature/trail-culture-and-civic-stewardship",
-    "readingTime": 24,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/Nature/trail-culture-and-civic-stewardship.md"
@@ -3907,17 +3934,17 @@
   },
   {
     "title": "台湾の芸術教育と学院の発展",
-    "description": "師範体系から専門芸術大学へ、台湾の芸術教育における体制変革と人材育成",
+    "description": "師範体系から専門芸術大学へ、台湾の芸術教育における制度変革と人材育成",
     "category": "ja",
     "tags": [
       "芸術教育",
-      "美術系",
+      "美術学科",
       "芸術大学",
       "教員養成",
       "学院発展"
     ],
     "url": "https://taiwan.md/ja/Art/taiwanese-art-education-and-academic-development",
-    "readingTime": 22,
+    "readingTime": 30,
     "featured": true,
     "date": "2026-03-19",
     "path": "ja/Art/taiwanese-art-education-and-academic-development.md"
@@ -4655,7 +4682,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/Nature/cetaceans-of-taiwan",
-    "readingTime": 13,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/Nature/cetaceans-of-taiwan.md"
@@ -4672,7 +4699,7 @@
       "夜市"
     ],
     "url": "https://taiwan.md/ja/Food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 11,
+    "readingTime": 13,
     "featured": true,
     "date": "2026-03-19",
     "path": "ja/Food/taiwanese-salt-and-pepper-fried-chicken.md"
@@ -5011,7 +5038,7 @@
       "85°C"
     ],
     "url": "https://taiwan.md/ja/Food/taiwan-bread-and-baking",
-    "readingTime": 15,
+    "readingTime": 17,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/Food/taiwan-bread-and-baking.md"
@@ -5056,7 +5083,7 @@
       "菜食レストラン"
     ],
     "url": "https://taiwan.md/ja/Food/taiwan-vegetarian-culture",
-    "readingTime": 14,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/Food/taiwan-vegetarian-culture.md"
@@ -5371,7 +5398,16 @@
     "title": "台灣山岳與登山文化",
     "description": "268座三千公尺高山擠在一座島上，台灣人卻花了半世紀才被允許自由爬自己的山",
     "category": "Nature",
-    "tags": [],
+    "tags": [
+      "山岳",
+      "登山文化",
+      "百岳",
+      "嘉明湖",
+      "山難",
+      "開放山林",
+      "森丑之助",
+      "林文安"
+    ],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E5%B1%B1%E5%B2%B3%E8%88%87%E7%99%BB%E5%B1%B1%E6%96%87%E5%8C%96",
     "readingTime": 18,
     "featured": false,
@@ -5731,9 +5767,17 @@
     "title": "台灣民歌運動",
     "description": "從「唱自己的歌」到改變整個華語音樂圈——1970年代那場屬於年輕人的文化革命",
     "category": "Music",
-    "tags": [],
+    "tags": [
+      "民歌運動",
+      "校園民歌",
+      "金韻獎",
+      "李雙澤",
+      "楊弦",
+      "胡德夫",
+      "唱自己的歌"
+    ],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E6%B0%91%E6%AD%8C%E9%81%8B%E5%8B%95",
-    "readingTime": 15,
+    "readingTime": 17,
     "featured": false,
     "date": "2026-03-18",
     "path": "Music/台灣民歌運動.md"
@@ -6199,7 +6243,7 @@
       "豆漿店"
     ],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%97%A9%E9%A4%90%E6%96%87%E5%8C%96",
-    "readingTime": 19,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-18",
     "path": "Food/台灣早餐文化.md"
@@ -7221,7 +7265,7 @@
       "素食餐廳"
     ],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E7%B4%A0%E9%A3%9F%E6%96%87%E5%8C%96",
-    "readingTime": 11,
+    "readingTime": 12,
     "featured": false,
     "date": "2026-03-19",
     "path": "Food/台灣素食文化.md"
@@ -7349,7 +7393,16 @@
     "title": "台灣動漫文化",
     "description": "小叮噹、灌籃高手、美少女戰士是 1980-90 年代台灣青少年的共同語言；開拓動漫祭從 1999 年至今辦了超過 40 屆、每場帶進十多萬人；同人誌與 cosplay 養出了《返校》《還願》的創作者——台灣動漫文化不是外來娛樂的模仿，是兩個世代的共同記憶與創作土壤。",
     "category": "Culture",
-    "tags": [],
+    "tags": [
+      "動漫",
+      "宅文化",
+      "cosplay",
+      "同人誌",
+      "開拓動漫祭",
+      "FF",
+      "VTuber",
+      "次文化"
+    ],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%8B%95%E6%BC%AB%E6%96%87%E5%8C%96",
     "readingTime": 17,
     "featured": false,
@@ -7867,7 +7920,16 @@
     "title": "台灣感性：韓國人眼中的台式美學",
     "description": "兩個高雄人花十年拍下兩千種鐵窗花，韓國人花五年把它拍成一個文化現象——「대만감성」如何讓台灣的日常街景成為亞洲最迷人的美學符號",
     "category": "Culture",
-    "tags": [],
+    "tags": [
+      "台灣感性",
+      "대만감성",
+      "韓國",
+      "美學",
+      "街景",
+      "文化輸出",
+      "鐵窗花",
+      "老屋顏"
+    ],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E6%84%9F%E6%80%A7",
     "readingTime": 21,
     "featured": true,
@@ -8199,7 +8261,7 @@
       "南北差異"
     ],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%BB%B7%E8%82%89%E9%A3%AF",
-    "readingTime": 10,
+    "readingTime": 11,
     "featured": true,
     "date": "2026-03-19",
     "path": "Food/台灣滷肉飯.md"
@@ -8208,9 +8270,18 @@
     "title": "台灣漫畫",
     "description": "從 1970 年代漫畫王國的劉興欽、敖幼祥，到 1991 年鄭問征服日本成為「亞洲至寶」、蔡志忠用《莊子說》把古典哲學漫畫化，再到 2010 年金漫獎、2017 年 CCC 創作集——台灣漫畫走過日漫夾擊的低潮，正在找回自己的原創聲音。",
     "category": "Art",
-    "tags": [],
+    "tags": [
+      "漫畫",
+      "鄭問",
+      "蔡志忠",
+      "劉興欽",
+      "敖幼祥",
+      "金漫獎",
+      "CCC創作集",
+      "阮光民"
+    ],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%BC%AB%E7%95%AB",
-    "readingTime": 20,
+    "readingTime": 19,
     "featured": false,
     "date": "2026-03-20",
     "path": "Art/台灣漫畫.md"
@@ -8754,7 +8825,7 @@
       "夜市"
     ],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E9%B9%B9%E9%85%A5%E9%9B%9E",
-    "readingTime": 8,
+    "readingTime": 9,
     "featured": true,
     "date": "2026-03-19",
     "path": "Food/台灣鹹酥雞.md"
@@ -9650,13 +9721,13 @@
   },
   {
     "title": "安芝儇",
-    "description": "韓国のプロ応援から高雄へ移住し、「台湾への出演」を「台湾での生活」へと推し進めた、韓籍チアリーダーの新たな道です。",
+    "description": "韓国のプロ応援から台鋼 Wing Stars の主力外国人選手へ。跨国の出演経験を高雄ホームへ持ち込み、2026 年の台北ドーム開催期間は負傷調整と場外での役割を観察する公的な節目にもなりました。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/People/ahn-ji-hyun",
-    "readingTime": 9,
+    "readingTime": 7,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ja/People/ahn-ji-hyun.md"
   },
   {
@@ -9878,9 +9949,9 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/People/park-sung-eun",
-    "readingTime": 10,
+    "readingTime": 9,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ja/People/park-sung-eun.md"
   },
   {
@@ -10055,13 +10126,13 @@
   },
   {
     "title": "辺荷律（ピョンハルル）",
-    "description": "中信兄弟の韓援代表としてシーズンを跨いで続留する彼女の在台経歴は、「高人気の下での職業的レジリエンス」と感情労働の現実を浮き彫りにしています。",
+    "description": "中信兄弟の韓国援護代表からシーズンを跨いで続留する彼女は、高い人気の裏側で、家族の健康問題が気持ちに与える影響を公開インタビューで率直に語り、応援活動者の現実的な圧力の一面を示しています。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/People/byun-ha-yul",
-    "readingTime": 9,
+    "readingTime": 8,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ja/People/byun-ha-yul.md"
   },
   {
@@ -10108,7 +10179,7 @@
     "path": "ja/Society/medical-care-act.md"
   },
   {
-    "title": "吳大猷",
+    "title": "吳大猷：推薦楊振寧李政道赴美的中研院院長，台灣科研奠基的十一年",
     "description": "理論物理學家、中研院院長，培育楊振寧、李政道兩位諾貝爾獎得主，為台灣科學奠基的一代宗師",
     "category": "People",
     "tags": [
@@ -10119,13 +10190,13 @@
       "中研院"
     ],
     "url": "https://taiwan.md/People/%E5%90%B3%E5%A4%A7%E7%8C%B7",
-    "readingTime": 10,
+    "readingTime": 11,
     "featured": true,
     "date": "2026-03-19",
     "path": "People/吳大猷.md"
   },
   {
-    "title": "吳大猷",
+    "title": "吳大猷：楊振寧・李政道の渡米を推薦した中央研究院院長、台湾科学研究の基礎を築いた11年",
     "description": "理論物理学者、中央研究院院長。楊振寧・李政道の二人のノーベル賞受賞者を育成し、台湾の科学を築き上げた一代の宗師",
     "category": "ja",
     "tags": [
@@ -10136,7 +10207,7 @@
       "中央研究院"
     ],
     "url": "https://taiwan.md/ja/People/tai-yu-wu",
-    "readingTime": 13,
+    "readingTime": 14,
     "featured": true,
     "date": "2026-03-19",
     "path": "ja/People/tai-yu-wu.md"
@@ -10393,7 +10464,7 @@
       "移行期正義"
     ],
     "url": "https://taiwan.md/ja/History/martial-law-era",
-    "readingTime": 17,
+    "readingTime": 19,
     "featured": true,
     "date": "2026-03-17",
     "path": "ja/History/martial-law-era.md"
@@ -10426,7 +10497,7 @@
       "轉型正義"
     ],
     "url": "https://taiwan.md/History/%E6%88%92%E5%9A%B4%E6%99%82%E6%9C%9F",
-    "readingTime": 13,
+    "readingTime": 15,
     "featured": true,
     "date": "2026-03-17",
     "path": "History/戒嚴時期.md"
@@ -10459,9 +10530,9 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/People/lee-da-hye",
-    "readingTime": 11,
+    "readingTime": 12,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ja/People/lee-da-hye.md"
   },
   {
@@ -10603,9 +10674,9 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/People/lee-ju-eun-singer",
-    "readingTime": 8,
+    "readingTime": 10,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ja/People/lee-ju-eun-singer.md"
   },
   {
@@ -10659,9 +10730,9 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/People/lee-ho-jung",
-    "readingTime": 8,
+    "readingTime": 9,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ja/People/lee-ho-jung.md"
   },
   {
@@ -10784,7 +10855,7 @@
     "url": "https://taiwan.md/ja/People/lee-ah-young",
     "readingTime": 8,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ja/People/lee-ah-young.md"
   },
   {
@@ -11629,7 +11700,7 @@
       "華語映画"
     ],
     "url": "https://taiwan.md/ja/People/brigitte-lin-legendary-actress",
-    "readingTime": 17,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/brigitte-lin-legendary-actress.md"
@@ -11693,12 +11764,21 @@
     "path": "People/林宥嘉.md"
   },
   {
-    "title": "林書豪",
+    "title": "林書豪：從 15 天被裁兩次到 TPBL 雙料 MVP 退休的籃球路",
     "description": "高中州冠軍沒拿到獎學金，選秀沒人要，15天內被裁兩次——然後他讓全世界認識了「林來瘋」",
     "category": "People",
-    "tags": [],
+    "tags": [
+      "人物",
+      "籃球",
+      "台裔美國人",
+      "NBA",
+      "林來瘋",
+      "哈佛大學",
+      "P.League+",
+      "TPBL"
+    ],
     "url": "https://taiwan.md/People/%E6%9E%97%E6%9B%B8%E8%B1%AA",
-    "readingTime": 20,
+    "readingTime": 18,
     "featured": true,
     "date": "2026-03-19",
     "path": "People/林書豪.md"
@@ -12217,9 +12297,9 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/People/jin-enoki",
-    "readingTime": 8,
+    "readingTime": 9,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ja/People/jin-enoki.md"
   },
   {
@@ -12486,7 +12566,7 @@
     "url": "https://taiwan.md/ja/People/nam-min-jung",
     "readingTime": 8,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ja/People/nam-min-jung.md"
   },
   {
@@ -13525,7 +13605,7 @@
       "実力派"
     ],
     "url": "https://taiwan.md/ja/People/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 16,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -13990,18 +14070,46 @@
     "title": "動物園と展示動物の倫理",
     "description": "鉄格子の中の象からXparkのクラゲの壁へ——台湾は人と展示される動物の関係を再定義しつつある",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "動物園",
+      "展示動物",
+      "動物福祉",
+      "Xpark",
+      "台北動物園",
+      "動物倫理",
+      "新竹動物園"
+    ],
     "url": "https://taiwan.md/ja/Society/zoo-and-exhibition-animal-ethics",
-    "readingTime": 25,
+    "readingTime": 27,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Society/zoo-and-exhibition-animal-ethics.md"
   },
   {
+    "title": "區秀詒：把「群島」帶進台灣藝術圈的馬來西亞策展人",
+    "description": "2003 年她從吉隆坡到台北念北藝大，原以為只是過客；十四年後她在台北開始用「群島」（Nusantara）取代「東南亞」這個冷戰命名，把馬來世界的自我命名帶進台灣策展論述。從棉佳蘭虛構地名三部曲、Kris Project 進入新加坡藝術博物館典藏，到 2024 跟陳侑汝合作訪談馬來西亞無國籍兒童——她在 NML 訪談說過一句話：「正因為我的『不在場』，才會做出這個作品。」",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/People/%E5%8D%80%E7%A7%80%E8%A9%92",
+    "readingTime": 57,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "People/區秀詒.md"
+  },
+  {
     "title": "國民政府遷台與戰後重建",
     "description": "嚴家淦從福建走來，見證 1949 年國民政府遷台的歷史。120 萬軍民、38 年戒嚴、土地改革——這段歷史如何重塑台灣？",
     "category": "History",
-    "tags": [],
+    "tags": [
+      "國民政府",
+      "政府遷台",
+      "戰後重建",
+      "1949",
+      "國共內戰",
+      "外省移民",
+      "嚴家淦",
+      "戒嚴時期"
+    ],
     "url": "https://taiwan.md/History/%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0%E8%88%87%E6%88%B0%E5%BE%8C%E9%87%8D%E5%BB%BA",
     "readingTime": 18,
     "featured": true,
@@ -14217,11 +14325,19 @@
   },
   {
     "title": "張忠謀",
-    "description": "半導体界の教父、TSMC創設者。ウェハファウンドリモデルで世界のテクノロジー産業を変えた伝説的な起業家",
+    "description": "半導体の父、TSMC創業者。ウェハー受託製造モデルで世界のテクノロジー産業を変えた伝説的な企業家です",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "人物",
+      "張忠謀",
+      "TSMC",
+      "半導体",
+      "企業家",
+      "ウェハー受託製造",
+      "護国神山"
+    ],
     "url": "https://taiwan.md/ja/People/tsmc-morris-chang",
-    "readingTime": 43,
+    "readingTime": 49,
     "featured": true,
     "date": "2026-03-17",
     "path": "ja/People/tsmc-morris-chang.md"
@@ -14653,12 +14769,18 @@
     "path": "ja/People/zhuge-liang-showman.md"
   },
   {
-    "title": "現代台湾先住民シンガーソングライター",
-    "description": "張恵妹からシュミエン、サンブイまで、台湾先住民歌手が現代音楽の中で古い魂を継承し、独自の現代先住民音楽の景観をいかに創り出しているかを紹介します",
+    "title": "現代の原住民シンガーソングライター",
+    "description": "張惠妹から舒米恩、桑布伊まで、台湾原住民歌手が現代音楽の中で古い魂をどのように受け継ぎ、独自の現代原住民音楽の風景を創り出しているのかを見ます",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "原住民歌手",
+      "ポピュラー音楽",
+      "文化融合",
+      "金曲奨",
+      "現代創作"
+    ],
     "url": "https://taiwan.md/ja/Music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 4,
+    "readingTime": 35,
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Music/contemporary-indigenous-singer-songwriters.md"
@@ -14684,7 +14806,17 @@
     "title": "荷西明鄭時期",
     "description": "1624 年荷蘭人在臺南建立熱蘭遮城，到 1683 年施琅登陸澎湖為止——臺灣被寫進世界貿易地圖的六十年，和四個政權輪替的故事",
     "category": "History",
-    "tags": [],
+    "tags": [
+      "History",
+      "荷蘭東印度公司",
+      "西班牙",
+      "明鄭",
+      "鄭成功",
+      "鄭經",
+      "施琅",
+      "東寧王國",
+      "熱蘭遮城"
+    ],
     "url": "https://taiwan.md/History/%E8%8D%B7%E8%A5%BF%E6%98%8E%E9%84%AD%E6%99%82%E6%9C%9F",
     "readingTime": 19,
     "featured": false,
@@ -15131,17 +15263,6 @@
   },
   {
     "title": "郭婞淳",
-    "description": "台灣舉重選手，三屆奧運獎牌得主（2016 銅牌、2021 金牌、2024 銅牌），59 公斤級世界紀錄保持人，阿美族馬蘭部落後裔",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/People/%E9%83%AD%E5%A9%9E%E6%B7%B3",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "People/郭婞淳.md"
-  },
-  {
-    "title": "郭婞淳",
     "description": "台湾の重量挙げ選手で、三度のオリンピックメダリスト（2016年銅メダル、2021年金メダル、2024年銅メダル）、59キロ級世界記録保持者、アミ族マラン部落の子孫です。",
     "category": "ja",
     "tags": [],
@@ -15150,6 +15271,27 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/kuo-hsing-chun-olympic-weightlifting-champion.md"
+  },
+  {
+    "title": "郭婞淳：從 141 公斤砸下的傷，到三屆奧運獎牌台的舉重路",
+    "description": "台灣舉重選手，三屆奧運獎牌得主（2016 銅牌、2021 金牌、2024 銅牌），59 公斤級世界紀錄保持人，阿美族馬蘭部落後裔",
+    "category": "People",
+    "tags": [
+      "人物",
+      "郭婞淳",
+      "舉重",
+      "奧運",
+      "金牌",
+      "運動員",
+      "台灣",
+      "阿美族",
+      "原住民族"
+    ],
+    "url": "https://taiwan.md/People/%E9%83%AD%E5%A9%9E%E6%B7%B3",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "People/郭婞淳.md"
   },
   {
     "title": "都市の特色と地域文化",
@@ -15462,6 +15604,46 @@
     "path": "People/陳建仁.md"
   },
   {
+    "title": "陳建年：派出所的金曲歌王，外公留下的歌孫子寫成海洋",
+    "description": "1967年8月1日生於台東卑南南王部落。1986年警專畢業分發台東關山，警界服務30年10個月。1999年33歲發行首張創作專輯《海洋》，2000年第11屆金曲獎打敗張學友、王力宏、陶喆、庾澄慶拿下最佳國語男演唱人，同屆〈神話〉再拿最佳作曲。獎台上的他仍是警察。同年9月請調蘭嶼避紛擾，一待17年到退休。外公陸森寶是〈美麗的稻穗〉作者，孫子用三十年才接住那條音樂線。",
+    "category": "People",
+    "tags": [
+      "音樂",
+      "原住民",
+      "卑南族",
+      "金曲獎",
+      "海洋",
+      "蘭嶼",
+      "警察",
+      "創作歌手"
+    ],
+    "url": "https://taiwan.md/People/%E9%99%B3%E5%BB%BA%E5%B9%B4",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "People/陳建年.md"
+  },
+  {
+    "title": "陳建年：派出所の金曲歌王、祖父が残した歌を孫が海へと書き継ぎました",
+    "description": "1967年8月1日、台東の卑南・南王部落に生まれました。1986年に警察専科学校を卒業後、台東・関山に配属され、警察で30年10か月勤務しました。1999年、33歳で初の創作アルバム『海洋』を発表し、2000年の第11回金曲奨で張学友、王力宏、陶喆、庾澄慶を破り、最優秀国語男性歌手賞を受賞しました。同回では〈神話〉で最優秀作曲賞も受賞しました。受賞台に立つ彼は、なお警察官でした。同年9月、騒がしさを避けるため蘭嶼への異動を願い出て、退職まで17年滞在しました。祖父の陸森宝は〈美麗的稻穗〉の作者であり、孫は30年をかけてその音楽の線を受け止めました。",
+    "category": "ja",
+    "tags": [
+      "音楽",
+      "原住民",
+      "プユマ族",
+      "金曲奨",
+      "海洋",
+      "蘭嶼",
+      "警察",
+      "シンガーソングライター"
+    ],
+    "url": "https://taiwan.md/ja/People/chen-chien-nien",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "ja/People/chen-chien-nien.md"
+  },
+  {
     "title": "陳建騏：会計系出身から三金プロデューサーへ、華語ポップミュージックから「変なイントネーション」という赤い線を引きはがした人物",
     "description": "1973年生まれ、淡江大学会計学部卒業の陳建騏は、華語ポップミュージック史上稀に見る「不在の著作者」である。彼がプロデュースした魏如萱、徐佳瑩、田馥甄、彭佳慧の楽曲を聴いたことがある人は多いが、彼の名前を知らない人も少なくない。2021年第32回金曲獎最優秀アルバムプロデューサー賞、2023年金馬獎最優秀オリジナル映画歌曲賞、2025年金鐘獎ドラマオリジナル歌曲賞の三金受賞者。劇場のピアニストからポップミュージックの世界へ歩み込んだプロデューサーである。",
     "category": "ja",
@@ -15655,7 +15837,7 @@
     "path": "ja/People/chen-cheng-po.md"
   },
   {
-    "title": "陳樹菊",
+    "title": "陳樹菊：一個台東菜販，用五十年菜錢捐出數千萬的慈善人生",
     "description": "一個台東菜販，用五十年的菜錢捐了數千萬，卻說自己「就是一個賣菜的」",
     "category": "People",
     "tags": [
@@ -15674,7 +15856,7 @@
     "path": "People/陳樹菊.md"
   },
   {
-    "title": "陳樹菊",
+    "title": "陳樹菊：台東の青果商、50 年の青果代から数千万元を寄付した慈善の生涯",
     "description": "台東の青果商である彼女は、50年間の青果販売で得た収益から数千万円を寄付しながら、自らを「ただの青果売り」と称しています。",
     "category": "ja",
     "tags": [],
@@ -16718,6 +16900,40 @@
     "path": "ja/History/postwar-economic-development.md"
   },
   {
+    "title": "新生態藝術環境：1992 年永福路那棟四百坪老屋，跑在補助結構前面的七年",
+    "description": "1992 年 6 月，杜昭賢在台南永福路一棟四百多坪老建築開了「新生態藝術環境」。國藝會還沒成立，南藝大還沒開校，文建會「閒置空間再利用」政策還沒上線。它撐了七年，到 1999 年熄燈時，台灣當代藝術的機構神經系統剛好開始長出來。",
+    "category": "Art",
+    "tags": [
+      "替代空間",
+      "當代藝術",
+      "台南",
+      "九〇年代",
+      "解嚴後"
+    ],
+    "url": "https://taiwan.md/Art/%E6%96%B0%E7%94%9F%E6%85%8B%E8%97%9D%E8%A1%93%E7%92%B0%E5%A2%83",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "Art/新生態藝術環境.md"
+  },
+  {
+    "title": "新生態藝術環境：1992年、永福路の四百坪の古い建物が、助成構造に先行した七年間",
+    "description": "1992年6月、杜昭賢は台南・永福路にある四百坪余りの古い建物で「新生態藝術環境」を開きました。国家文化芸術基金会はまだ成立しておらず、台南芸術学院もまだ開校しておらず、文建会の「遊休空間再利用」政策もまだ始まっていませんでした。それは七年間持続し、1999年に灯を消したとき、台湾現代美術の制度的神経系がちょうど形成され始めていました。",
+    "category": "ja",
+    "tags": [
+      "オルタナティブ・スペース",
+      "現代美術",
+      "台南",
+      "1990年代",
+      "戒厳令解除後"
+    ],
+    "url": "https://taiwan.md/ja/Art/new-ecological-art-environment",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "ja/Art/new-ecological-art-environment.md"
+  },
+  {
     "title": "新創生態系",
     "description": "台灣新創生態的發展歷程，從早期挑戰到現今的加速器、創投環境與獨角獸追求",
     "category": "Economy",
@@ -17071,6 +17287,42 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "Economy/經濟奇蹟.md"
+  },
+  {
+    "title": "群島思考：台湾をマレー世界の地図に戻す",
+    "description": "台湾は中華世界の辺境にある孤島だけではありません。マレー世界の北東端であり、オーストロネシア語族の原郷であり、太平洋への拡散の起点でもあります。地図を南へ 30 度回転させると、完全に成立していながら見落とされてきた、もう一つの座標系が見えてきます。",
+    "category": "ja",
+    "tags": [
+      "群島",
+      "オーストロネシア語族",
+      "Nusantara",
+      "台湾島史",
+      "先住民族",
+      "文化地理"
+    ],
+    "url": "https://taiwan.md/ja/Culture/archipelago-thinking",
+    "readingTime": 65,
+    "featured": true,
+    "date": "2026-05-17",
+    "path": "ja/Culture/archipelago-thinking.md"
+  },
+  {
+    "title": "群島思維：把台灣放回馬來世界這一塊地圖",
+    "description": "台灣不是中華邊陲的孤島，也是馬來世界的東北端、南島語族的原鄉、太平洋擴散的起點。地圖往南旋轉 30 度，你會看見另一張完全成立但被遺漏的座標系統。",
+    "category": "Culture",
+    "tags": [
+      "群島",
+      "南島語族",
+      "Nusantara",
+      "台灣島史",
+      "原住民",
+      "文化地理"
+    ],
+    "url": "https://taiwan.md/Culture/%E7%BE%A4%E5%B3%B6%E6%80%9D%E7%B6%AD",
+    "readingTime": 50,
+    "featured": true,
+    "date": "2026-05-17",
+    "path": "Culture/群島思維.md"
   },
   {
     "title": "義美：百年固執、食安良心，與社會共好的多維實踐",
@@ -17892,6 +18144,17 @@
     "path": "Technology/數位身分證與數位政府.md"
   },
   {
+    "title": "數位荒原：一個沒商業模式的網路藝評平台怎麼活了 12 年",
+    "description": "2011 年 11 月，鄭文琦在台北一個叫「在地實驗」的舊媒體機構辦了一個沒紙本、沒廣告、沒訂閱費的網路書寫計劃。12 年後它累積 56 期主題、384 篇文章、31 集 podcast、10 冊《群島資料庫》。同期同類型「無紙媒母體 + 無實體空間 + 個人主編 driven」三條件齊備的中文藝評平台沒有同期存活案例。它撐下來靠的是三層 quiet infrastructure 精細疊合：機構母體承接基本成本、公部門專案補單期內容、編輯個人 12 年勞動補剩下的 gap。",
+    "category": "Art",
+    "tags": [],
+    "url": "https://taiwan.md/Art/%E6%95%B8%E4%BD%8D%E8%8D%92%E5%8E%9F",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "Art/數位荒原.md"
+  },
+  {
     "title": "澎湖民俗文化",
     "description": "每年正月十五，澎湖兩百多座廟宇同時擲筊、四萬七千斤米龜堆上供桌——這座被東北季風吹了四百年的群島，用乞龜換回出海的人，用石滬困住退潮的魚，用褒歌對唱一整個冬天的寂寞。",
     "category": "Culture",
@@ -18067,26 +18330,7 @@
     "path": "ja/People/tsai-a-ga-youtuber.md"
   },
   {
-    "title": "蔡英文",
-    "description": "台灣第一位女總統（2016-2024），國際貿易法學者出身，任內完成亞洲首部同婚專法、代表政府向原住民族道歉，排灣族後裔",
-    "category": "People",
-    "tags": [
-      "人物",
-      "蔡英文",
-      "總統",
-      "女性領袖",
-      "民主",
-      "政治",
-      "原住民族"
-    ],
-    "url": "https://taiwan.md/People/%E8%94%A1%E8%8B%B1%E6%96%87",
-    "readingTime": 17,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "People/蔡英文.md"
-  },
-  {
-    "title": "蔡英文",
+    "title": "蔡英文：80 万票差の敗北から 817 万票での再選を果たした初の女性大統領へ",
     "description": "台湾初の女性大統領（2016〜2024年）。国際貿易法学者の出身であり、在任中にアジア初の同性婚専門法を成立させ、政府を代表して先住民族に謝罪した。排湾族の血を引く。",
     "category": "ja",
     "tags": [
@@ -18099,10 +18343,29 @@
       "先住民族"
     ],
     "url": "https://taiwan.md/ja/People/tsai-ing-wen",
-    "readingTime": 21,
+    "readingTime": 24,
     "featured": false,
     "date": "2026-03-17",
     "path": "ja/People/tsai-ing-wen.md"
+  },
+  {
+    "title": "蔡英文：從 80 萬票敗選到 817 萬票連任的第一位女總統",
+    "description": "台灣第一位女總統（2016-2024），國際貿易法學者出身，任內完成亞洲首部同婚專法、代表政府向原住民族道歉，排灣族後裔",
+    "category": "People",
+    "tags": [
+      "人物",
+      "蔡英文",
+      "總統",
+      "女性領袖",
+      "民主",
+      "政治",
+      "原住民族"
+    ],
+    "url": "https://taiwan.md/People/%E8%94%A1%E8%8B%B1%E6%96%87",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "People/蔡英文.md"
   },
   {
     "title": "蔡健雅：四度金曲歌后，新加坡人怎麼把台灣變成主場",
@@ -19029,6 +19292,17 @@
     "path": "Geography/擎天崗.md"
   },
   {
+    "title": "擎天崗：草原、トーチカ、水牛をめぐる百年のせめぎ合い",
+    "description": "ケタガラン族の狩猟場から清朝統治期の「河南勇」の駐屯地へ、日本統治期の大嶺峠牧場の繁栄から蔣経国が「擎天崗」と命名した軍事的含意へ。この火山性草原は、台北市民の裏庭であるだけでなく、軍事、畜産、生態保護、そして人と牛の共存をめぐる多様な意思が百年にわたり交錯してきた現場でもあります。2020年冬の水牛死亡事件は、国立公園管理における「人牛分離」政策の深層にある代償と、人と自然の共存をめぐる永続的な問いを明らかにしました。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/Geography/qingtiangang",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-05-16",
+    "path": "ja/Geography/qingtiangang.md"
+  },
+  {
     "title": "擎天崗的19頭牛：從源興牛到台南牛肉湯，一座島嶼的肉牛突圍",
     "description": "台灣牛肉自給率僅4.6%，卻在2024年誕生全國第一個民間認證牛品種。源興牛的故事，是一個94歲的老人、19頭野生黑牛、和一碗凌晨的溫體湯共同寫成的產業突圍劇本。",
     "category": "History",
@@ -19645,12 +19919,12 @@
     "path": "People/邊荷律.md"
   },
   {
-    "title": "鏟子超人與島嶼共時性：台灣災難志工文化如何形塑國族認同",
-    "description": "以2025年花蓮光復鄉水災為鏡，探討台灣獨特的災難志工動員模式如何透過社群媒體重新定義島嶼共同體意識，從921地震到花蓮水災的社會韌性演化軌跡。",
+    "title": "鏟子超人與島嶼共時性：台灣災難志工文化如何影響國族認同",
+    "description": "從 2025 年馬太鞍洪水的鏟子超人切入，回看台灣從 1999 年 921 集集大地震以來累積的災難志工文化、馬太鞍部落的洪水創世神話與社區韌性，以及慈濟模式與光復現場 500 公尺三個指揮所的多頭馬車，並探討陳建年〈我們是同胞〉在這場洪水裡變成具體動作的時刻。",
     "category": "Society",
     "tags": [],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E7%81%BD%E9%9B%A3%E5%BF%97%E5%B7%A5%E6%96%87%E5%8C%96",
-    "readingTime": 27,
+    "readingTime": 41,
     "featured": false,
     "date": "2026-03-24",
     "path": "Society/台灣災難志工文化.md"
@@ -20103,7 +20377,7 @@
       "IoT"
     ],
     "url": "https://taiwan.md/en/Economy/advantech-technology",
-    "readingTime": 45,
+    "readingTime": 50,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Economy/advantech-technology.md"
@@ -20168,7 +20442,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Economy/agricultural-technology-and-refined-agriculture",
-    "readingTime": 60,
+    "readingTime": 67,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Economy/agricultural-technology-and-refined-agriculture.md"
@@ -20208,35 +20482,43 @@
   },
   {
     "title": "Ahn Ji-hyun",
-    "description": "From Korean pro cheer to life in Kaohsiung—she pushes the Korean cheer path in Taiwan from “fly-in gig” toward “living here.”",
+    "description": "From Korean pro cheer to lead foreign performer of TSG Wing Stars—she brings cross-border performance experience to the Kaohsiung home park; the 2026 Taipei Dome series also became a public node for observing her injury adjustments and sideline role.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/ahn-ji-hyun",
     "readingTime": 13,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "en/People/ahn-ji-hyun.md"
   },
   {
     "title": "Ahn Ji-hyun",
-    "description": "De la animación profesional en Corea del Sur a la reubicación en Kaohsiung, ella transformó «actuar en Taiwán» en «vivir en Taiwán», trazando un nuevo camino para las animadoras coreanas.",
+    "description": "De la animación profesional en Corea del Sur a refuerzo extranjero principal de las Wing Stars de Tsgri, llevó su experiencia transnacional al estadio de Kaohsiung; la temporada de 2026 en el Taipei Dome también se convirtió en un punto público para observar sus ajustes por lesión y su papel desde la banda.",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "流行人物",
+      "安芝儇",
+      "韓國",
+      "啦啦隊",
+      "台鋼雄鷹",
+      "Wing Stars",
+      "高雄"
+    ],
     "url": "https://taiwan.md/es/People/ahn-ji-hyun",
-    "readingTime": 18,
+    "readingTime": 16,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "es/People/ahn-ji-hyun.md"
   },
   {
     "title": "Ahn Ji-hyun",
-    "description": "Du cheerleading professionnel sud-coréen à l'installation à Kaohsiung, elle a transformé les « prestations en Taiwan » en une véritable « vie sur place », ouvrant une nouvelle voie pour les pom-pom girls coréennes.",
+    "description": "De cheerleader professionnelle sud-coréenne à pilier des renforts étrangers des Wing Stars de TSG Hawks, elle a apporté son expérience scénique transnationale au stade de Kaohsiung ; sa série au Taipei Dome de 2026 est aussi devenue un point public d'observation de son ajustement face à une blessure et de son rôle en marge du terrain.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/ahn-ji-hyun",
-    "readingTime": 20,
+    "readingTime": 16,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "fr/People/ahn-ji-hyun.md"
   },
   {
@@ -20593,6 +20875,24 @@
     "path": "en/Food/apple-cider.md"
   },
   {
+    "title": "Archipelago Thinking: Placing Taiwan Back on the Map of the Malay World",
+    "description": "Taiwan is not only an isolated island on the margins of China; it is also the northeastern edge of the Malay world, the homeland of Austronesian languages, and the starting point of Pacific dispersal. Rotate the map 30 degrees southward, and you will see another coordinate system that is entirely valid yet long overlooked.",
+    "category": "en",
+    "tags": [
+      "Archipelago",
+      "Austronesian Languages",
+      "Nusantara",
+      "Taiwan Island History",
+      "Indigenous Peoples",
+      "Cultural Geography"
+    ],
+    "url": "https://taiwan.md/en/Culture/archipelago-thinking",
+    "readingTime": 140,
+    "featured": true,
+    "date": "2026-05-17",
+    "path": "en/Culture/archipelago-thinking.md"
+  },
+  {
     "title": "Arquitectura taiwanesa",
     "description": "De las casas de pizarra a los rascacielos: un viaje arquitectónico a través del tiempo en una isla",
     "category": "es",
@@ -20636,6 +20936,23 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "es/Food/bamboo-tube-rice.md"
+  },
+  {
+    "title": "Art Education and Institutional Development in Taiwan",
+    "description": "From the normal-school system to specialized arts universities, the institutional transformation and talent cultivation of art education in Taiwan",
+    "category": "en",
+    "tags": [
+      "art education",
+      "art departments",
+      "arts universities",
+      "teacher training",
+      "academic development"
+    ],
+    "url": "https://taiwan.md/en/Art/taiwanese-art-education-and-academic-development",
+    "readingTime": 88,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/Art/taiwanese-art-education-and-academic-development.md"
   },
   {
     "title": "Art urbain et culture du graffiti à Taïwan",
@@ -20787,6 +21104,39 @@
     "path": "en/Economy/asus-computer.md"
   },
   {
+    "title": "Au Sow Yee : la curatrice malaisienne qui a fait entrer l'« archipel » dans le milieu artistique taïwanais",
+    "description": "En 2003, elle quitte Kuala Lumpur pour Taipei afin d'étudier à l'Université nationale des arts de Taipei, pensant n'être que de passage ; quatorze ans plus tard, elle commence à Taipei à employer « l'archipel » (Nusantara) à la place de « l'Asie du Sud-Est », désignation issue de la guerre froide, et introduit dans le discours curatorial taïwanais une auto-désignation du monde malais. De la trilogie du toponyme fictif Mengkerang à l'entrée du Kris Project dans la collection du Singapore Art Museum, jusqu'aux entretiens menés en 2024 avec Chen Yow-Ruu auprès d'enfants apatrides de Malaisie, elle a prononcé dans un entretien avec NML une phrase décisive : « C'est précisément parce que je n'étais pas là que j'ai pu faire cette œuvre. »",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/People/au-sow-yee",
+    "readingTime": 165,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "fr/People/au-sow-yee.md"
+  },
+  {
+    "title": "Au Sow Yee: la curadora malasia que llevó el “archipiélago” al círculo artístico de Taiwán",
+    "description": "En 2003 llegó de Kuala Lumpur a Taipéi para estudiar en la Universidad Nacional de las Artes de Taipéi, pensando que solo sería una transeúnte; catorce años después, en Taipéi, empezó a usar “archipiélago” (Nusantara) en lugar de “Sudeste Asiático”, una denominación de la Guerra Fría, e introdujo en el discurso curatorial taiwanés la autodenominación del mundo malayo. Desde la trilogía del topónimo ficticio Mengkerang y la incorporación de Kris Project a la colección del Museo de Arte de Singapur, hasta las entrevistas de 2024 con Chen Yow-Ruu a niños apátridas de Malasia, en una entrevista con NML dijo una frase: “Precisamente por mi ‘ausencia’ pude hacer esta obra.”",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/People/au-sow-yee",
+    "readingTime": 163,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "es/People/au-sow-yee.md"
+  },
+  {
+    "title": "Au Sow Yee: The Malaysian Curator Who Brought the \"Archipelago\" into Taiwan’s Art World",
+    "description": "In 2003 she left Kuala Lumpur for Taipei to study at Taipei National University of the Arts, thinking she was only passing through; fourteen years later, in Taipei, she began replacing the Cold War name “Southeast Asia” with “Nusantara,” or “archipelago,” bringing the Malay world’s self-naming into Taiwan’s curatorial discourse. From the fictional-place trilogy The Mengkerang Project and The Kris Project entering the Singapore Art Museum collection, to her 2024 collaboration with Chen Yow-Ruu interviewing stateless children in Malaysia, she once said in an NML interview: “It is precisely because of my ‘absence’ that I could make this work.”",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/au-sow-yee",
+    "readingTime": 151,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "en/People/au-sow-yee.md"
+  },
+  {
     "title": "Audrey Tang : chacune de ses décisions célèbres a consisté à refuser l’étiquette de « génie »",
     "description": "À 8 ans, elle est frappée par un camarade jusqu’à perdre connaissance ; à 14 ans, elle refuse une admission recommandée au lycée Chien Kuo ; à 24 ans, elle fait son coming out transgenre mais refuse de devenir porte-parole ; à 35 ans, sa première condition pour entrer au gouvernement est « pas de bureau ». Le 2 décembre 2025, à Stockholm, elle reçoit le Right Livelihood Award ; sur scène, elle ne dit pas « je », elle dit « nous ».",
     "category": "fr",
@@ -20818,6 +21168,23 @@
     "featured": true,
     "date": "2026-05-16",
     "path": "en/People/audrey-tang.md"
+  },
+  {
+    "title": "Auteurs-compositeurs-interprètes autochtones contemporains",
+    "description": "De Chang Hui-mei à Suming et Sangpuy, comment les chanteurs autochtones de Taïwan transmettent une âme ancienne dans la musique moderne et créent un paysage musical autochtone contemporain singulier",
+    "category": "fr",
+    "tags": [
+      "chanteurs autochtones",
+      "musique pop",
+      "fusion culturelle",
+      "Golden Melody Awards",
+      "création contemporaine"
+    ],
+    "url": "https://taiwan.md/fr/Music/contemporary-indigenous-singer-songwriters",
+    "readingTime": 100,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "fr/Music/contemporary-indigenous-singer-songwriters.md"
   },
   {
     "title": "Autobuses turísticos: la caja de hierro que ha llevado a los taiwaneses por montañas y mares durante sesenta años, ¿por qué siempre ocurren accidentes?",
@@ -21171,7 +21538,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Food/braised-pork-rice",
-    "readingTime": 32,
+    "readingTime": 36,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Food/braised-pork-rice.md"
@@ -21191,9 +21558,15 @@
     "title": "Brigitte Lin Ching-hsia",
     "description": "De l'icône du mélo à la légende du wuxia : le parcours d'une star intemporelle du cinéma sinophone",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "Brigitte Lin",
+      "actrice",
+      "cinéma Qiong Yao",
+      "Invincible Orient",
+      "cinéma sinophone"
+    ],
     "url": "https://taiwan.md/fr/People/brigitte-lin-legendary-actress",
-    "readingTime": 40,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/brigitte-lin-legendary-actress.md"
@@ -21204,7 +21577,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/brigitte-lin-legendary-actress",
-    "readingTime": 46,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/brigitte-lin-legendary-actress.md"
@@ -21215,7 +21588,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/brigitte-lin-legendary-actress",
-    "readingTime": 44,
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/brigitte-lin-legendary-actress.md"
@@ -21295,29 +21668,29 @@
   },
   {
     "title": "Byun Ha-yul",
-    "description": "A CTBC Korean cheer pillar across seasons—her Taiwan arc shows professional resilience and the reality of emotional labor under fame.",
+    "description": "From a CTBC Brothers Korean cheer pillar to a cross-season regular—beyond high popularity, she has also spoken in public interviews about how family health affects her mood, showing the real pressure side of cheer work.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/byun-ha-yul",
-    "readingTime": 13,
+    "readingTime": 15,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "en/People/byun-ha-yul.md"
   },
   {
     "title": "Byun Ha-yul",
-    "description": "Desde ser representante de las animadoras surcoreanas contratadas por los Chinatrust Brothers hasta su permanencia en el equipo por varias temporadas, su trayectoria en Taiwán refleja la «resiliencia profesional bajo gran popularidad» y la realidad del trabajo emocional.",
+    "description": "Desde ser representante de las animadoras surcoreanas contratadas por los Chinatrust Brothers hasta su permanencia entre temporadas, más allá de su gran popularidad también ha reconocido en entrevistas públicas el impacto emocional de los problemas de salud familiar, mostrando la presión real de las trabajadoras de la animación deportiva.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/byun-ha-yul",
     "readingTime": 18,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "es/People/byun-ha-yul.md"
   },
   {
     "title": "Byun Ha-yul",
-    "description": "De la représentante des cheerleaders sud-coréens des CTBC Brothers à son maintien d'une saison à l'autre, son parcours à Taïwan illustre la « résilience professionnelle sous haute popularité » et la réalité du travail émotionnel.",
+    "description": "De la représentante des cheerleaders sud-coréennes des CTBC Brothers à son maintien d'une saison sur l'autre : au-delà de sa forte popularité, elle a aussi reconnu en entretien public que la santé de ses proches pesait sur son moral, révélant la pression réelle qui s'exerce sur les cheerleaders professionnelles.",
     "category": "fr",
     "tags": [
       "流行人物",
@@ -21331,7 +21704,7 @@
     "url": "https://taiwan.md/fr/People/byun-ha-yul",
     "readingTime": 18,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "fr/People/byun-ha-yul.md"
   },
   {
@@ -21369,11 +21742,17 @@
   },
   {
     "title": "Cantautores indígenas contemporáneos",
-    "description": "Desde Chang Hui-mei hasta Suming y Sangpuy, los cantantes indígenas de Taiwán heredan el alma ancestral en la música moderna, creando un paisaje musical indígena contemporáneo único",
+    "description": "De A-mei a Suming y Sangpuy: cómo los cantantes indígenas de Taiwán transmiten almas antiguas en la música moderna y crean un paisaje musical indígena contemporáneo singular",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "cantantes indígenas",
+      "música pop",
+      "fusión cultural",
+      "Premios Golden Melody",
+      "creación contemporánea"
+    ],
     "url": "https://taiwan.md/es/Music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 66,
+    "readingTime": 96,
     "featured": true,
     "date": "2026-03-18",
     "path": "es/Music/contemporary-indigenous-singer-songwriters.md"
@@ -21518,7 +21897,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Nature/cetaceans-of-taiwan",
-    "readingTime": 25,
+    "readingTime": 33,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Nature/cetaceans-of-taiwan.md"
@@ -21529,7 +21908,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Nature/cetaceans-of-taiwan",
-    "readingTime": 38,
+    "readingTime": 42,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/Nature/cetaceans-of-taiwan.md"
@@ -21621,17 +22000,6 @@
     "featured": false,
     "date": "2026-04-18",
     "path": "en/People/chang-yu-sheng-singer.md"
-  },
-  {
-    "title": "Chanteurs-compositeurs autochtones contemporains de Taïwan",
-    "description": "De A-Mei (aMEI) à Suming et Sangpuy, comment les artistes autochtones de Taïwan transmettent une âme ancestrale dans la musique moderne, créant un paysage sonore autochtone contemporain absolument singulier",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/Music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 73,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "fr/Music/contemporary-indigenous-singer-songwriters.md"
   },
   {
     "title": "Chants populaires et ballades de Taïwan : du pillage à la conquête du monde",
@@ -21844,6 +22212,66 @@
     "path": "fr/People/chen-chien-jen.md"
   },
   {
+    "title": "Chen Chien-nien : le roi des Golden Melody Awards du poste de police, le petit-fils qui fit de la chanson léguée par son grand-père un océan",
+    "description": "Né le 1er août 1967 dans la communauté Nanwang, à Beinan, Taitung. Diplômé de l’École de police en 1986, il fut affecté à Guanshan, Taitung, et servit dans la police pendant 30 ans et 10 mois. En 1999, à 33 ans, il publia son premier album d’auteur-compositeur, Ocean ; en 2000, lors de la 11e édition des Golden Melody Awards, il devança Jacky Cheung, Wang Leehom, David Tao et Harlem Yu pour remporter le prix du meilleur chanteur masculin en mandarin, tandis que Myth lui valut la même année le prix de la meilleure composition. Sur la scène de la remise des prix, il était encore policier. En septembre de la même année, pour fuir l’agitation, il demanda sa mutation à Lanyu, où il resta 17 ans jusqu’à sa retraite. Son grand-père maternel, Lu Senbao, était l’auteur de Beautiful Rice Grains ; il fallut trente ans au petit-fils pour reprendre ce fil musical.",
+    "category": "fr",
+    "tags": [
+      "musique",
+      "peuples autochtones",
+      "Puyuma",
+      "Golden Melody Awards",
+      "océan",
+      "Lanyu",
+      "police",
+      "auteur-compositeur-interprète"
+    ],
+    "url": "https://taiwan.md/fr/People/chen-chien-nien",
+    "readingTime": 136,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "fr/People/chen-chien-nien.md"
+  },
+  {
+    "title": "Chen Chien-nien: el rey del Golden Melody de la comisaría, el nieto que convirtió en océano las canciones dejadas por su abuelo materno",
+    "description": "Nació el 1 de agosto de 1967 en la comunidad Nanwang de Beinan, Taitung. En 1986 se graduó de la academia de policía y fue asignado a Guanshan, Taitung; sirvió en la policía durante 30 años y 10 meses. En 1999, a los 33 años, lanzó su primer álbum de composiciones propias, Ocean. En 2000, en la 11.ª edición de los Golden Melody Awards, derrotó a Jacky Cheung, Wang Leehom, David Tao y Harlem Yu para obtener el premio a Mejor Intérprete Masculino en Mandarín; en la misma edición, Myth ganó además Mejor Composición. Sobre el escenario de premiación, él seguía siendo policía. En septiembre de ese mismo año pidió el traslado a Lanyu para alejarse del ruido, y permaneció allí 17 años hasta jubilarse. Su abuelo materno, Lu Sen-bao, fue el autor de Beautiful Rice Ears; el nieto tardó treinta años en sostener ese hilo musical.",
+    "category": "es",
+    "tags": [
+      "música",
+      "pueblos indígenas",
+      "pueblo beinan",
+      "Golden Melody Awards",
+      "océano",
+      "Lanyu",
+      "policía",
+      "cantautor"
+    ],
+    "url": "https://taiwan.md/es/People/chen-chien-nien",
+    "readingTime": 146,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "es/People/chen-chien-nien.md"
+  },
+  {
+    "title": "Chen Chien-nien: The Golden Melody King from the Police Station, Turning His Grandfather's Songs into Ocean",
+    "description": "Born on August 1, 1967, in the Nanwang community of Beinan, Taitung. After graduating from the police academy in 1986, he was assigned to Guanshan, Taitung, and served in the police for 30 years and 10 months. In 1999, at age 33, he released his first album of original songs, Ocean. At the 11th Golden Melody Awards in 2000, he defeated Jacky Cheung, Wang Leehom, David Tao, and Harlem Yu to win Best Mandarin Male Singer; at the same ceremony, Myth won Best Composition. Even on the awards stage, he was still a police officer. In September of the same year, he requested a transfer to Lanyu to avoid the commotion, staying there for 17 years until retirement. His maternal grandfather Lu Senbao wrote Beautiful Ears of Rice; it took the grandson thirty years to catch hold of that musical line.",
+    "category": "en",
+    "tags": [
+      "Music",
+      "Indigenous Peoples",
+      "Puyuma",
+      "Golden Melody Awards",
+      "Ocean",
+      "Lanyu",
+      "Police",
+      "Singer-songwriter"
+    ],
+    "url": "https://taiwan.md/en/People/chen-chien-nien",
+    "readingTime": 136,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "en/People/chen-chien-nien.md"
+  },
+  {
     "title": "Chen Chih-chung : de l'aura de la première famille aux aléas politiques sous l'« anti-corruption clause »",
     "description": "En 2008, Chen Chih-chung a été contraint d'interrompre ses études et de revenir à Taïwan en raison de l'affaire de blanchiment d'argent à l'étranger impliquant sa famille, inaugurant une carrière politique entremêlée de controverses judiciaires. Il a été élu deux fois conseiller municipal de Kaohsiung avec le plus grand score de sa circonscription, mais a également été révoqué trois fois en raison de ses affaires judiciaires. Après l'adoption de l'« anti-corruption clause » en 2023, sa voie politique semblait close, mais il s'est tourné vers les plateformes sociales comme Threads, où ses interactions humoristiques avec son père Chen Shui-bian sous le nom « Water » ont révélé une relation père-fils atypique et un retour numérique.",
     "category": "fr",
@@ -21970,29 +22398,7 @@
     "path": "es/People/chen-chun-liang-design-poet.md"
   },
   {
-    "title": "Chen Shu-chu",
-    "description": "A vegetable vendor from Taitung who donated tens of millions over fifty years of vegetable sales — and still calls herself 'just a vegetable seller.'",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/chen-shu-chu-vegetable-vendor-philanthropist",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
-  },
-  {
-    "title": "Chen Shu-chu",
-    "description": "Una vendedora de verduras de Taitung que donó decenas de millones a lo largo de cincuenta años con el dinero de su puesto, y aun así decía de sí misma: \"Solo soy una vendedora de verduras\"",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/People/chen-shu-chu-vegetable-vendor-philanthropist",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
-  },
-  {
-    "title": "Chen Shu-chu",
+    "title": "Chen Shu-chu : une marchande de légumes de Taïdong qui a fait don de dizaines de millions accumulés en cinquante ans de petit commerce",
     "description": "Une marchande de légumes de Taïdong qui a donné des dizaines de millions de dollars sur cinquante ans, et qui dit simplement : « Je ne suis qu'une vendeuse de légumes. »",
     "category": "fr",
     "tags": [
@@ -22005,10 +22411,32 @@
       "dons à léducation"
     ],
     "url": "https://taiwan.md/fr/People/chen-shu-chu-vegetable-vendor-philanthropist",
-    "readingTime": 36,
+    "readingTime": 38,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
+  },
+  {
+    "title": "Chen Shu-chu: A Taitung Vegetable Vendor's Charitable Life — Tens of Millions Donated From Fifty Years of Vegetable Money",
+    "description": "A vegetable vendor from Taitung who donated tens of millions over fifty years of vegetable sales — and still calls herself 'just a vegetable seller.'",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/chen-shu-chu-vegetable-vendor-philanthropist",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
+  },
+  {
+    "title": "Chen Shu-chu: la vendedora de verduras de Taitung que donó decenas de millones a lo largo de cincuenta años con el dinero de su puesto",
+    "description": "Una vendedora de verduras de Taitung que donó decenas de millones a lo largo de cincuenta años con el dinero de su puesto, y aun así decía de sí misma: \"Solo soy una vendedora de verduras\"",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/People/chen-shu-chu-vegetable-vendor-philanthropist",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
   },
   {
     "title": "Chen Shui-bian",
@@ -23316,7 +23744,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Nature/taiwanese-leopard-cat-conservation",
-    "readingTime": 62,
+    "readingTime": 65,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Nature/taiwanese-leopard-cat-conservation.md"
@@ -23346,7 +23774,7 @@
       "écologie"
     ],
     "url": "https://taiwan.md/fr/Nature/taiwanese-leopard-cat-conservation",
-    "readingTime": 62,
+    "readingTime": 64,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Nature/taiwanese-leopard-cat-conservation.md"
@@ -23408,11 +23836,17 @@
   },
   {
     "title": "Contemporary Indigenous Singer-Songwriters",
-    "description": "From A-mei to Suming and Sangpuy, how Taiwan’s Indigenous singers carry an ancient spirit into modern music, creating a unique contemporary Indigenous soundscape",
+    "description": "From A-mei to Suming and Sangpuy, how Taiwan's Indigenous singers carry ancient souls into modern music and create a distinctive contemporary Indigenous musical landscape",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "Indigenous singers",
+      "popular music",
+      "cultural fusion",
+      "Golden Melody Awards",
+      "contemporary songwriting"
+    ],
     "url": "https://taiwan.md/en/Music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 59,
+    "readingTime": 89,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Music/contemporary-indigenous-singer-songwriters.md"
@@ -23665,7 +24099,7 @@
       "Conservación ecológica"
     ],
     "url": "https://taiwan.md/es/Nature/trail-culture-and-civic-stewardship",
-    "readingTime": 24,
+    "readingTime": 28,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/Nature/trail-culture-and-civic-stewardship.md"
@@ -24131,7 +24565,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Technology/taiwan-cybersecurity-industry-development",
-    "readingTime": 91,
+    "readingTime": 97,
     "featured": true,
     "date": "2026-03-19",
     "path": "es/Technology/taiwan-cybersecurity-industry-development.md"
@@ -24236,6 +24670,17 @@
     "path": "es/Technology/artificial-intelligence-development-strategy.md"
   },
   {
+    "title": "Désert numérique : comment une plateforme de critique d’art en ligne sans modèle économique a survécu 12 ans",
+    "description": "En novembre 2011, Cheng Wen-chi a lancé à Taipei, au sein d’une ancienne institution médiatique appelée ET@T, un projet d’écriture en ligne sans édition papier, sans publicité et sans abonnement. Douze ans plus tard, il avait accumulé 56 numéros thématiques, 384 articles, 31 épisodes de podcast et 10 volumes de Nusantara Archive. Parmi les plateformes chinoises de critique d’art de la même période réunissant les trois conditions « sans matrice de presse imprimée + sans espace physique + pilotée par un rédacteur en chef individuel », aucun autre cas n’a survécu aussi longtemps. Sa tenue dans le temps repose sur l’assemblage minutieux de trois couches de quiet infrastructure : une institution-mère assumant les coûts de base, des projets publics complétant les contenus de certains numéros, et douze années de travail éditorial individuel comblant le gap restant.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/Art/no-mans-land-art-platform",
+    "readingTime": 163,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "fr/Art/no-mans-land-art-platform.md"
+  },
+  {
     "title": "Development of Contemporary Taiwanese Sculpture",
     "description": "From Yang Ying-feng and Ju Ming to the new generation, exploring the evolutionary trajectory and creative spirit of Taiwanese sculpture art",
     "category": "en",
@@ -24263,7 +24708,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Technology/taiwan-cybersecurity-industry-development",
-    "readingTime": 80,
+    "readingTime": 85,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Technology/taiwan-cybersecurity-industry-development.md"
@@ -24296,7 +24741,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/Technology/taiwan-cybersecurity-industry-development",
-    "readingTime": 95,
+    "readingTime": 100,
     "featured": true,
     "date": "2026-03-19",
     "path": "fr/Technology/taiwan-cybersecurity-industry-development.md"
@@ -24402,6 +24847,17 @@
     "path": "en/Technology/digital-id-and-digital-government.md"
   },
   {
+    "title": "Digital Wasteland: How an Online Art-Criticism Platform with No Business Model Survived for 12 Years",
+    "description": "In November 2011, Cheng Wen-chi launched an online writing project at an old-media institution in Taipei called ET@T. It had no print edition, no advertising, and no subscription fee. Twelve years later, it had accumulated 56 themed issues, 384 articles, 31 podcast episodes, and 10 volumes of the Nusantara Archive. Among Chinese-language art-criticism platforms of the same period with the same three conditions, no print-media parent body, no physical space, and driven by an individual editor-in-chief, there is no comparable case that survived across the same period. It endured through the precise layering of three forms of quiet infrastructure: an institutional parent body absorbing basic costs, public-sector projects filling issue-based content, and the editor's own 12 years of labor covering the remaining gap.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Art/no-mans-land-art-platform",
+    "readingTime": 150,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "en/Art/no-mans-land-art-platform.md"
+  },
+  {
     "title": "Distrito Especial Beida: treinta años de planificación urbana y experimento de vida universitaria",
     "description": "Desde el antiguo campo de batalla de Longenpu en 1895 hasta la estación de metro Universidad de Taipéi en 2026, esta es una enciclopedia profunda sobre tierra, estética e identidad selectiva.",
     "category": "es",
@@ -24480,7 +24936,7 @@
       "controverse"
     ],
     "url": "https://taiwan.md/fr/People/niu-cheng-ze-controversial-filmmaker-monga-director",
-    "readingTime": 32,
+    "readingTime": 34,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/niu-cheng-ze-controversial-filmmaker-monga-director.md"
@@ -24631,11 +25087,18 @@
   },
   {
     "title": "Ecosistema de startups",
-    "description": "La evolución del ecosistema de startups en Taiwán, desde los primeros desafíos hasta el entorno actual de aceleradoras, capital de riesgo y la búsqueda de unicornios",
+    "description": "La evolución del ecosistema de startups de Taiwán, desde sus desafíos iniciales hasta el entorno actual de aceleradoras, capital de riesgo y búsqueda de unicornios",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "startups",
+      "emprendimiento",
+      "capital de riesgo",
+      "aceleradoras",
+      "AppWorks",
+      "unicornios"
+    ],
     "url": "https://taiwan.md/es/Economy/taiwan-startup-ecosystem-overview",
-    "readingTime": 49,
+    "readingTime": 109,
     "featured": true,
     "date": "2026-03-18",
     "path": "es/Economy/taiwan-startup-ecosystem-overview.md"
@@ -24672,6 +25135,58 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "es/Nature/taiwan-forest-ecosystems.md"
+  },
+  {
+    "title": "Écosystème des startups",
+    "description": "L'évolution de l'écosystème des startups à Taïwan, des premières difficultés à l'environnement actuel des accélérateurs, du capital-risque et de la quête des licornes",
+    "category": "fr",
+    "tags": [
+      "Startups",
+      "Entrepreneuriat",
+      "Capital-risque",
+      "Accélérateurs",
+      "AppWorks",
+      "Licornes"
+    ],
+    "url": "https://taiwan.md/fr/Economy/taiwan-startup-ecosystem-overview",
+    "readingTime": 117,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "fr/Economy/taiwan-startup-ecosystem-overview.md"
+  },
+  {
+    "title": "Educación artística y desarrollo académico en Taiwán",
+    "description": "Del sistema normalista a las universidades especializadas en artes, la transformación institucional y la formación de talentos en la educación artística de Taiwán",
+    "category": "es",
+    "tags": [
+      "educación artística",
+      "departamentos de bellas artes",
+      "universidades de artes",
+      "formación docente",
+      "desarrollo académico"
+    ],
+    "url": "https://taiwan.md/es/Art/taiwanese-art-education-and-academic-development",
+    "readingTime": 100,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "es/Art/taiwanese-art-education-and-academic-development.md"
+  },
+  {
+    "title": "Éducation artistique et développement académique à Taïwan",
+    "description": "Du système des écoles normales aux universités d’art spécialisées, les transformations institutionnelles et la formation des talents dans l’éducation artistique taïwanaise",
+    "category": "fr",
+    "tags": [
+      "éducation artistique",
+      "départements des beaux-arts",
+      "universités d’art",
+      "formation des enseignants",
+      "développement académique"
+    ],
+    "url": "https://taiwan.md/fr/Art/taiwanese-art-education-and-academic-development",
+    "readingTime": 104,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "fr/Art/taiwanese-art-education-and-academic-development.md"
   },
   {
     "title": "Éducation des peuples autochtones et revitalisation linguistique à Taïwan : protégés à l'école primaire, abandonnés au collège",
@@ -24767,7 +25282,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Food/braised-pork-rice",
-    "readingTime": 37,
+    "readingTime": 42,
     "featured": true,
     "date": "2026-03-19",
     "path": "es/Food/braised-pork-rice.md"
@@ -25058,9 +25573,17 @@
     "title": "El movimiento de la canción folclórica taiwanesa",
     "description": "De \"cantar nuestras propias canciones\" a transformar toda la escena musical en lengua china: la revolución cultural de los jóvenes en la década de 1970",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "Movimiento folclórico",
+      "Canción folclórica universitaria",
+      "Concurso Jinyun",
+      "Li Shuangze",
+      "Yang Xian",
+      "Hu Defu",
+      "Cantar nuestras propias canciones"
+    ],
     "url": "https://taiwan.md/es/Music/taiwan-campus-folk-song-movement",
-    "readingTime": 59,
+    "readingTime": 65,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Music/taiwan-campus-folk-song-movement.md"
@@ -25111,11 +25634,11 @@
   },
   {
     "title": "El oso negro taiwanés",
-    "description": "La marca blanca en forma de V en su pecho es su firma — el último rey de los bosques de Taiwán y su inconclusa batalla por la conservación",
+    "description": "La marca blanca en forma de V en su pecho es su firma, junto con su inconclusa batalla por la conservación",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Nature/taiwan-black-bear-guardian-of-forests",
-    "readingTime": 68,
+    "readingTime": 71,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Nature/taiwan-black-bear-guardian-of-forests.md"
@@ -25186,7 +25709,7 @@
       "Justicia transicional"
     ],
     "url": "https://taiwan.md/es/History/martial-law-era",
-    "readingTime": 46,
+    "readingTime": 54,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/History/martial-law-era.md"
@@ -25289,17 +25812,6 @@
     "featured": true,
     "date": "2026-04-26",
     "path": "es/Lifestyle/transportation-system.md"
-  },
-  {
-    "title": "El té de Sanxia: del giro espiral del \"Chin-shin ganzai\" a la mejora del valor del té de verano con aroma a miel",
-    "description": "Sanxia es la zona productora de té verde tostado más representativa de Taiwán, y su trayectoria industrial constituye un largo experimento sobre la \"adaptación\". Desde el descubrimiento de John Dodd durante el período Tongzhi de la dinastía Qing, pasando por la supresión de la exportación de té verde durante el período de ocupación japonesa, hasta la denominación formal del Biluochun a finales de la década de 1990, los agricultores de té de Sanxia han trazado un estándar local para el taiwanés entre la variedad autóctona y la presión del desarrollo urbano.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/Food/sanxia-tea",
-    "readingTime": 72,
-    "featured": false,
-    "date": "2026-04-26",
-    "path": "es/Food/sanxia-tea.md"
   },
   {
     "title": "El té Puchung de Mingjian: el \"héroe anónimo\" que sostiene el 80% del imperio taiwanés de las bebidas de té con leche",
@@ -25991,6 +26503,25 @@
     "featured": false,
     "date": "2026-03-30",
     "path": "en/Culture/ethnic-groups.md"
+  },
+  {
+    "title": "Ética de los zoológicos y de los animales de exhibición",
+    "description": "Desde los elefantes en jaulas de hierro hasta el muro de medusas de Xpark: Taiwán está redefiniendo la relación entre las personas y los animales exhibidos",
+    "category": "es",
+    "tags": [
+      "zoológicos",
+      "animales de exhibición",
+      "bienestar animal",
+      "Xpark",
+      "Zoológico de Taipéi",
+      "ética animal",
+      "Zoológico de Hsinchu"
+    ],
+    "url": "https://taiwan.md/es/Society/zoo-and-exhibition-animal-ethics",
+    "readingTime": 77,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "es/Society/zoo-and-exhibition-animal-ethics.md"
   },
   {
     "title": "Evergreen Marine",
@@ -26699,7 +27230,7 @@
       "jeu dacteur"
     ],
     "url": "https://taiwan.md/fr/People/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 45,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -26738,7 +27269,7 @@
       "演技派"
     ],
     "url": "https://taiwan.md/es/People/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 45,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -26749,7 +27280,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 45,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -26798,7 +27329,7 @@
       "2024"
     ],
     "url": "https://taiwan.md/en/People/han-kuo-yu",
-    "readingTime": 81,
+    "readingTime": 82,
     "featured": true,
     "date": "2026-04-11",
     "path": "en/People/han-kuo-yu.md"
@@ -26818,9 +27349,9 @@
       "2024"
     ],
     "url": "https://taiwan.md/es/People/han-kuo-yu",
-    "readingTime": 83,
+    "readingTime": 84,
     "featured": true,
-    "date": "2026-04-11",
+    "date": "2026-04-13",
     "path": "es/People/han-kuo-yu.md"
   },
   {
@@ -26829,7 +27360,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/han-kuo-yu",
-    "readingTime": 93,
+    "readingTime": 94,
     "featured": true,
     "date": "2026-04-11",
     "path": "fr/People/han-kuo-yu.md"
@@ -28880,9 +29411,9 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/jin-enoki",
-    "readingTime": 16,
+    "readingTime": 21,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "es/People/jin-enoki.md"
   },
   {
@@ -28891,9 +29422,9 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/jin-enoki",
-    "readingTime": 17,
+    "readingTime": 22,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "fr/People/jin-enoki.md"
   },
   {
@@ -29722,28 +30253,6 @@
     "path": "fr/Nature/taiwan-forest-ecosystems.md"
   },
   {
-    "title": "L'écosystème startup de Taïwan",
-    "description": "L'évolution de l'écosystème startup taïwanais, depuis ses premiers défis jusqu'à l'émergence d'accélérateurs, d'investisseurs en capital-risque et d'une course aux licornes",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/Economy/taiwan-startup-ecosystem-overview",
-    "readingTime": 49,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "fr/Economy/taiwan-startup-ecosystem-overview.md"
-  },
-  {
-    "title": "L'éducation artistique à Taïwan et le développement des grandes écoles d'art",
-    "description": "Du système des écoles normales aux universités des beaux-arts spécialisées : les transformations institutionnelles et la formation des artistes à Taïwan",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/Art/taiwanese-art-education-and-academic-development",
-    "readingTime": 75,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "fr/Art/taiwanese-art-education-and-academic-development.md"
-  },
-  {
     "title": "L'éducation dans les zones rurales de Taïwan : ce dont les enfants ont besoin, ce n'est pas d'une histoire inspirante — c'est d'un filet de soutien qui tient",
     "description": "L'éducation rurale à Taïwan est bien plus qu'une question de distance. Instabilité du corps enseignant, classes multi-niveaux, transports et hébergements, soutien familial, ancrage communautaire, définition étroite de la réussite sociale — la vraie difficulté, c'est que dès qu'un enfant quitte sa salle de classe, le système censé le porter a tendance à se défaire couche par couche.",
     "category": "fr",
@@ -29845,12 +30354,21 @@
     "path": "fr/Music/taiwanese-language-song-evolution.md"
   },
   {
-    "title": "L'évolution des chansons en taïwanais : du répertoire des anciens à la nouvelle scène indie",
-    "description": "Retracer le parcours de la chanson taïwanaise (taïwan-ais), de l'ère Nakashi, Hung Yi-feng et Chiang Hui jusqu'aux groupes de la nouvelle génération comme Egg Noodles, Sorry Youth et Clé — et comprendre comment cette musique a reconquis l'oreille des jeunes.",
+    "title": "L'évolution de la musique taïwanaise en langue taïwanaise : du « chant des anciens » à la coqueluche des jeunes intellectuels",
+    "description": "Retraçant l'évolution de la musique taïwanaise en langue taïwanaise, de l'ère du nakashi, de Hong Yi-feng et de [[Jody Chiang]] aux interprétations innovantes de nouvelles générations de groupes tels qu'[[Eggplant Egg Band]] et [[Sorry Youth Band]], cet article explore comment la musique en langue taïwanaise a regagné l'adhésion des jeunes générations.",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "chanson taïwanaise",
+      "nakashi",
+      "Hong Yi-feng",
+      "Jody Chiang",
+      "Eggplant Egg Band",
+      "Sorry Youth Band",
+      "Collage",
+      "Golden Melody Awards"
+    ],
     "url": "https://taiwan.md/fr/Music/taiwanese-language-songs-evolution",
-    "readingTime": 55,
+    "readingTime": 74,
     "featured": true,
     "date": "2026-03-19",
     "path": "fr/Music/taiwanese-language-songs-evolution.md"
@@ -30147,11 +30665,11 @@
   },
   {
     "title": "L'ours noir de Formose",
-    "description": "Le V blanc sur sa poitrine est sa signature — dernier souverain des forêts de Taïwan, et la bataille inachevée pour sa survie",
+    "description": "Le V blanc sur sa poitrine est sa signature, et la bataille inachevée pour sa survie",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/Nature/taiwan-black-bear-guardian-of-forests",
-    "readingTime": 63,
+    "readingTime": 65,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Nature/taiwan-black-bear-guardian-of-forests.md"
@@ -30488,7 +31006,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Culture/taiwan-comics-and-animation-culture",
-    "readingTime": 58,
+    "readingTime": 59,
     "featured": false,
     "date": "2026-03-20",
     "path": "es/Culture/taiwan-comics-and-animation-culture.md"
@@ -30522,11 +31040,19 @@
   },
   {
     "title": "La cultura del béisbol en Taiwán",
-    "description": "De la leyenda de los Hongye al llanto y sudor de la Liga Profesional de Béisbol China — cómo el béisbol se convirtió en el \"deporte nacional\" de Taiwán",
+    "description": "Desde la leyenda de los Little Leaguers de Hongye hasta las lágrimas y el sudor de la Liga Profesional de Béisbol China — cómo el béisbol se convirtió en el \"deporte nacional\" de Taiwán",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "béisbol",
+      "Liga Profesional de Béisbol China",
+      "Little Leaguers de Hongye",
+      "deporte nacional",
+      "deportes",
+      "Wang Chien-ming",
+      "efecto Ohtani"
+    ],
     "url": "https://taiwan.md/es/Culture/taiwan-baseball-culture",
-    "readingTime": 61,
+    "readingTime": 67,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Culture/taiwan-baseball-culture.md"
@@ -30652,7 +31178,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Food/taiwan-vegetarian-culture",
-    "readingTime": 47,
+    "readingTime": 54,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/Food/taiwan-vegetarian-culture.md"
@@ -30886,7 +31412,7 @@
       "conservation écologique"
     ],
     "url": "https://taiwan.md/fr/Nature/trail-culture-and-civic-stewardship",
-    "readingTime": 66,
+    "readingTime": 69,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/Nature/trail-culture-and-civic-stewardship.md"
@@ -31133,7 +31659,16 @@
     "title": "La culture taïwanaise du manga et de l'animation",
     "description": "Doraemon, Slam Dunk et Sailor Moon étaient le langage commun des adolescents taïwanais dans les années 1980-1990 ; le Fancy Frontier (FF), le plus grand salon de doujinshi de Taïwan, a tenu plus de 40 éditions depuis 1999 et attire plus de cent mille visiteurs par événement ; les créateurs de *Detention* et *Devotion* sont issus de la scène du doujinshi et du cosplay — la culture taïwanaise du manga et de l'animation n'est pas une imitation du divertissement étranger, c'est la mémoire commune et le terreau créatif de deux générations.",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "manga et animation",
+      "culture otaku",
+      "cosplay",
+      "doujinshi",
+      "Fancy Frontier",
+      "FF",
+      "VTuber",
+      "sous-culture"
+    ],
     "url": "https://taiwan.md/fr/Culture/taiwan-comics-and-animation-culture",
     "readingTime": 60,
     "featured": false,
@@ -31144,9 +31679,15 @@
     "title": "La culture végétarienne de Taïwan",
     "description": "La proportion de population végétarienne à Taïwan se classe parmi les trois premières au monde, de la tradition végétarienne bouddhiste à l'évolution culturelle de l'innovation moderne en matière d'ingrédients végétaux",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "végétarisme",
+      "bouddhisme",
+      "ingrédients végétaux",
+      "Tzu Chi",
+      "restaurants végétariens"
+    ],
     "url": "https://taiwan.md/fr/Food/taiwan-vegetarian-culture",
-    "readingTime": 50,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/Food/taiwan-vegetarian-culture.md"
@@ -31256,17 +31797,6 @@
     "path": "es/Economy/night-market-economics.md"
   },
   {
-    "title": "La educación artística y el desarrollo académico en Taiwán",
-    "description": "Del sistema de formación docente a las universidades de arte especializadas: transformación institucional y formación de talento en la educación artística taiwanesa",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/Art/taiwanese-art-education-and-academic-development",
-    "readingTime": 75,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "es/Art/taiwanese-art-education-and-academic-development.md"
-  },
-  {
     "title": "La educación rural en Taiwán: lo que les falta a los niños no son historias motivadoras, sino un sistema de apoyo que no se afloja",
     "description": "La educación rural no es tan simple como que \"las escuelas en la montaña están más lejos\". Desde la rotación docente, la enseñanza multigrado, el transporte y el alojamiento, hasta el apoyo familiar, la vinculación comunitaria y la visión singular que la sociedad tiene del éxito, la verdadera dificultad es que, una vez que un niño sale del aula, todo el sistema de apoyo suele aflojarse capa por capa.",
     "category": "es",
@@ -31287,17 +31817,6 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "es/Society/encyclopedia-of-taiwan.md"
-  },
-  {
-    "title": "La evolución de las canciones en taiwanesa: del \"abuelo song\" al nuevo favorito de los hipsters",
-    "description": "Un recorrido por la evolución de las canciones en taiwanesa desde la era del nakashi, Hong Yifeng y Jiu Jinhui hasta las nuevas generaciones de bandas como EggPlantEgg, Sorry Youth y Collage, explorando cómo la música en taiwanesa ha recuperado la identidad de las generaciones jóvenes.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/Music/taiwanese-hokkien-song-evolution",
-    "readingTime": 64,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "es/Music/taiwanese-hokkien-song-evolution.md"
   },
   {
     "title": "La evolución del mandarín taiwanés: estratigrafía lingüística de cuatrocientos años",
@@ -31717,7 +32236,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Art/post-martial-law-taiwanese-literature",
-    "readingTime": 84,
+    "readingTime": 85,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Art/post-martial-law-taiwanese-literature.md"
@@ -31739,7 +32258,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/Art/post-martial-law-taiwanese-literature",
-    "readingTime": 81,
+    "readingTime": 82,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Art/post-martial-law-taiwanese-literature.md"
@@ -32044,7 +32563,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/History/martial-law-era",
-    "readingTime": 48,
+    "readingTime": 56,
     "featured": true,
     "date": "2026-03-17",
     "path": "fr/History/martial-law-era.md"
@@ -32213,7 +32732,16 @@
     "title": "La sensibilité taïwanaise : l'esthétique taiwanoise vue par les Coréens",
     "description": "Deux habitants de Kaohsiung ont passé dix ans à photographier deux mille motifs de grilles en fer forgé ; des Coréens ont mis cinq ans à en faire un phénomène culturel — comment « 대만감성 » a transformé les rues quotidiennes de Taïwan en l'un des symboles esthétiques les plus fascinants d'Asie",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "Sensibilité taïwanaise",
+      "대만감성",
+      "Corée",
+      "Esthétique",
+      "Paysage urbain",
+      "Rayonnement culturel",
+      "Grilles en fer forgé",
+      "Vieux visages de maisons"
+    ],
     "url": "https://taiwan.md/fr/Culture/taiwanese-sensibility",
     "readingTime": 75,
     "featured": true,
@@ -32664,7 +33192,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/History/taiwan-strait-crises-and-cross-strait-relations",
-    "readingTime": 52,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/History/taiwan-strait-crises-and-cross-strait-relations.md"
@@ -33250,9 +33778,17 @@
     "title": "Le mouvement folklorique taïwanais",
     "description": "De « Chanter nos propres chansons » à la transformation de toute la scène musicale sinophone — la révolution culturelle des années 1970 portée par la jeunesse",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "mouvement folklorique",
+      "chansons folkloriques universitaires",
+      "Concours Golden Melody",
+      "Li Shuangze",
+      "Yang Xian",
+      "Hu Defu",
+      "chanter nos propres chansons"
+    ],
     "url": "https://taiwan.md/fr/Music/taiwan-campus-folk-song-movement",
-    "readingTime": 57,
+    "readingTime": 62,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Music/taiwan-campus-folk-song-movement.md"
@@ -33296,7 +33832,7 @@
       "85°C"
     ],
     "url": "https://taiwan.md/fr/Food/taiwan-bread-and-baking",
-    "readingTime": 43,
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/Food/taiwan-bread-and-baking.md"
@@ -33378,9 +33914,15 @@
     "title": "Le poulet frit taïwanais au sel et poivre",
     "description": "La culture de la collation nocturne la plus répandue à Taïwan, de la sociologie des stands de poulet frit à l'évolution de l'esthétique de la friture",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "poulet frit au sel et poivre",
+      "culture de la collation nocturne",
+      "friture",
+      "basilic tropical",
+      "marché nocturne"
+    ],
     "url": "https://taiwan.md/fr/Food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 23,
+    "readingTime": 26,
     "featured": true,
     "date": "2026-03-19",
     "path": "fr/Food/taiwanese-salt-and-pepper-fried-chicken.md"
@@ -33416,7 +33958,16 @@
     "title": "Le repli du gouvernement nationaliste à Taïwan et la reconstruction d'après-guerre",
     "description": "Yan Chia-kan a quitté le Fujian pour assister à l'exil du gouvernement nationaliste en 1949. 1,2 million de civils et soldats, 38 ans de loi martiale, réforme agraire — comment cette période a-t-elle redessiné Taïwan ?",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "Gouvernement nationaliste",
+      "Exil à Taïwan",
+      "Reconstruction daprès-guerre",
+      "1949",
+      "Guerre civile chinoise",
+      "Migrants continentaux",
+      "Yan Chia-kan",
+      "Période de loi martiale"
+    ],
     "url": "https://taiwan.md/fr/History/kmt-government-relocation-and-postwar-reconstruction",
     "readingTime": 65,
     "featured": true,
@@ -33440,7 +33991,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/Food/braised-pork-rice",
-    "readingTime": 38,
+    "readingTime": 43,
     "featured": true,
     "date": "2026-03-19",
     "path": "fr/Food/braised-pork-rice.md"
@@ -33643,28 +34194,6 @@
     "path": "fr/Food/mingjian-puchung-tea.md"
   },
   {
-    "title": "Le thé de Sanxia : de la spirale du « Chin-shin ganzai » à la valorisation estivale du thé au miel",
-    "description": "Sanxia est la région de production de thé vert sauté la plus représentative de Taïwan. Son parcours industriel constitue une longue expérience d'« adaptation ». De la découverte par John Dodd sous le règne de Tongzhi (dynastie Qing) à la répression de l'exportation du thé vert sous l'occupation japonaise, puis à la dénomination officielle du Biluochun à la fin des années 1990, les cultivateurs de Sanxia ont défini, entre les contraintes d'une variété endémique et l'exploitation foncière, une norme locale pour le thé vert taïwanais.",
-    "category": "fr",
-    "tags": [
-      "Sanxia",
-      "Biluochun",
-      "Thé au miel",
-      "Chin-shin ganzai",
-      "Huang Wenxiong",
-      "Tianfang Tea Shop",
-      "Tribu Daba",
-      "Éducation agroalimentaire",
-      "Études de Sanxia",
-      "Jiaozijiao"
-    ],
-    "url": "https://taiwan.md/fr/Food/sanxia-tea",
-    "readingTime": 70,
-    "featured": false,
-    "date": "2026-04-26",
-    "path": "fr/Food/sanxia-tea.md"
-  },
-  {
     "title": "Le théâtre et les arts de la scène à Taïwan",
     "description": "Comment un jeune littéraire de 26 ans a fondé la première compagnie de danse contemporaine du monde sinophone, et comment des acteurs de l'opéra de Pékin ont fait parler Shakespeare en chinois",
     "category": "fr",
@@ -33742,9 +34271,9 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/lee-ah-young",
-    "readingTime": 17,
+    "readingTime": 19,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "en/People/lee-ah-young.md"
   },
   {
@@ -33753,9 +34282,9 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/lee-ah-young",
-    "readingTime": 18,
+    "readingTime": 20,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "es/People/lee-ah-young.md"
   },
   {
@@ -33764,9 +34293,9 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/lee-ah-young",
-    "readingTime": 18,
+    "readingTime": 20,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "fr/People/lee-ah-young.md"
   },
   {
@@ -33786,9 +34315,9 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/lee-da-hye",
-    "readingTime": 23,
+    "readingTime": 27,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "es/People/lee-da-hye.md"
   },
   {
@@ -33797,9 +34326,9 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/lee-da-hye",
-    "readingTime": 26,
+    "readingTime": 30,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "fr/People/lee-da-hye.md"
   },
   {
@@ -33808,9 +34337,9 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/lee-ho-jung",
-    "readingTime": 15,
+    "readingTime": 17,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "en/People/lee-ho-jung.md"
   },
   {
@@ -33819,9 +34348,9 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/lee-ho-jung",
-    "readingTime": 18,
+    "readingTime": 20,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "es/People/lee-ho-jung.md"
   },
   {
@@ -33830,9 +34359,9 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/lee-ho-jung",
-    "readingTime": 18,
+    "readingTime": 20,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "fr/People/lee-ho-jung.md"
   },
   {
@@ -33863,9 +34392,9 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/lee-ju-eun-singer",
-    "readingTime": 19,
+    "readingTime": 23,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "es/People/lee-ju-eun-singer.md"
   },
   {
@@ -33882,9 +34411,9 @@
       "中華職棒"
     ],
     "url": "https://taiwan.md/fr/People/lee-ju-eun-singer",
-    "readingTime": 20,
+    "readingTime": 24,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "fr/People/lee-ju-eun-singer.md"
   },
   {
@@ -34142,7 +34671,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/Nature/cetaceans-of-taiwan",
-    "readingTime": 36,
+    "readingTime": 40,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/Nature/cetaceans-of-taiwan.md"
@@ -34215,7 +34744,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/History/taiwan-strait-crises-and-cross-strait-relations",
-    "readingTime": 78,
+    "readingTime": 77,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/History/taiwan-strait-crises-and-cross-strait-relations.md"
@@ -34621,17 +35150,6 @@
     "featured": true,
     "date": "2026-03-22",
     "path": "fr/History/taiwan-military-dependents-villages-history.md"
-  },
-  {
-    "title": "Les VTuber taïwanais : de l'expérience d'entreprise à l'évolution symbiotique virtuel-réel",
-    "description": "En 2017, la fille virtuelle Huni fait ses débuts sur Yahoo TV, inaugurant l'industrie VTuber à Taïwan. D'une simple expérience technologique d'entreprise à ses débuts, le secteur a évolué pour compter plus de 3 000 VTuber lancés à l'échelle nationale en 2025, formant un écosystème culturel qui s'étend de la coopération olympique à la revitalisation du taïwanais. Bien que l'économie des Super Chat générée atteigne plusieurs dizaines de millions, les créateurs individuels font face à des défis de coûts élevés et de forte rotation.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/Culture/taiwan-vtuber",
-    "readingTime": 86,
-    "featured": false,
-    "date": "2026-04-26",
-    "path": "fr/Culture/taiwan-vtuber.md"
   },
   {
     "title": "Les wang-a-piau : des tracts électoraux aux champs de bataille de l'enfance, les cartes de combat de la mémoire taïwanaise",
@@ -35531,6 +36049,25 @@
     "path": "fr/Society/medical-care-act.md"
   },
   {
+    "title": "Long Ying-tai: Daliao 1952, Public Intellectual from *Wild Fire* to Taiwan's First Minister of Culture",
+    "description": "Born 1952/2/13 in Daliao Township, Kaohsiung City. MA in English and American Literature, Kansas State University; doctoral degree has conflicting accounts (P0⚠️). *Wild Fire* first published 12/1985, reprinted 24 times in 21 days, surpassed 100,000 copies in 4 months. Taiwan's first Minister of Culture, 2012–2014 (appointed by Ma Ying-jeou). *Big River, Big Sea 1949* published 2009.",
+    "category": "en",
+    "tags": [
+      "文學",
+      "散文",
+      "野火集",
+      "大江大海",
+      "文化部長",
+      "公共知識分子",
+      "高雄"
+    ],
+    "url": "https://taiwan.md/en/People/lung-ying-tai",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/People/lung-ying-tai.md"
+  },
+  {
     "title": "Long Yingtai",
     "description": "Autora de 'El fuego salvaje', la ensayista más influyente del mundo sinohablante y exministra de Cultura de Taiwán",
     "category": "es",
@@ -35772,17 +36309,6 @@
   },
   {
     "title": "Lung Ying-tai",
-    "description": "Author of 'Wild Fire,' one of the most influential essayists in the Chinese-speaking world and former Taiwan Minister of Culture",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/lung-ying-tai",
-    "readingTime": 41,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/People/lung-ying-tai.md"
-  },
-  {
-    "title": "Lung Ying-tai",
     "description": "Auteure de Wild Fire, essayiste majeure du monde sinophone et ancienne ministre de la Culture de Taïwan",
     "category": "fr",
     "tags": [],
@@ -36018,7 +36544,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/History/martial-law-era",
-    "readingTime": 42,
+    "readingTime": 49,
     "featured": true,
     "date": "2026-03-17",
     "path": "en/History/martial-law-era.md"
@@ -36141,11 +36667,17 @@
   },
   {
     "title": "Media and Press Freedom in Taiwan",
-    "description": "From party‑state control to a noisy digital marketplace: how Taiwan’s press freedom emerged, and what it’s now up against",
+    "description": "From Party-State Control to the Media Warring States Era: Taiwan's Democratization of Press Freedom and the Challenges of Digital Transformation",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "媒體",
+      "新聞自由",
+      "民主化",
+      "數位轉型",
+      "媒體識讀"
+    ],
     "url": "https://taiwan.md/en/Society/media-and-press-freedom-in-taiwan",
-    "readingTime": 33,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Society/media-and-press-freedom-in-taiwan.md"
@@ -36676,7 +37208,16 @@
     "title": "Montagnes de Taïwan et culture de la randonnée",
     "description": "268 sommets dépassant les trois mille mètres entassés sur une île — et pourtant, les Taïwanais ont attendu un demi-siècle avant de pouvoir grimper librement leurs propres montagnes",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "montagnes",
+      "culture de la randonnée",
+      "cent sommets",
+      "lac Jiaming",
+      "accidents en montagne",
+      "ouverture des forêts",
+      "Mori Ushinosuke",
+      "Lin Wen-an"
+    ],
     "url": "https://taiwan.md/fr/Nature/taiwan-mountains-and-hiking-culture",
     "readingTime": 67,
     "featured": false,
@@ -36696,49 +37237,57 @@
   },
   {
     "title": "Morris Chang",
-    "description": "The semiconductor patriarch and founder of TSMC, the legendary entrepreneur who reshaped the global tech industry with the pure-play foundry model",
+    "description": "The father of semiconductors, founder of TSMC, and legendary entrepreneur who transformed the global technology industry through the wafer foundry model",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "People",
+      "Morris Chang",
+      "TSMC",
+      "Semiconductors",
+      "Entrepreneur",
+      "Wafer Foundry",
+      "Sacred Mountain Protecting the Nation"
+    ],
     "url": "https://taiwan.md/en/People/tsmc-morris-chang",
-    "readingTime": 104,
+    "readingTime": 120,
     "featured": true,
     "date": "2026-03-17",
     "path": "en/People/tsmc-morris-chang.md"
   },
   {
     "title": "Morris Chang",
-    "description": "El padrino de los semiconductores, fundador de TSMC, el empresario legendario que transformó la industria tecnológica mundial con el modelo de fundición de obleas",
+    "description": "El padre de los semiconductores, fundador de TSMC, legendario empresario que cambió la industria tecnológica global con el modelo de fundición de obleas",
     "category": "es",
     "tags": [
-      "人物",
-      "張忠謀",
-      "台積電",
-      "半導體",
-      "企業家",
-      "晶圓代工",
-      "護國神山"
+      "personas",
+      "Morris Chang",
+      "TSMC",
+      "semiconductores",
+      "empresario",
+      "fundición de obleas",
+      "montaña sagrada protectora del país"
     ],
     "url": "https://taiwan.md/es/People/tsmc-morris-chang",
-    "readingTime": 129,
+    "readingTime": 137,
     "featured": true,
     "date": "2026-03-17",
     "path": "es/People/tsmc-morris-chang.md"
   },
   {
     "title": "Morris Chang",
-    "description": "Le « parrain des semi-conducteurs », fondateur de TSMC, l'entrepreneur légendaire qui a transformé l'industrie technologique mondiale grâce au modèle de fonderie de wafers",
+    "description": "Parrain des semi-conducteurs, fondateur de TSMC et entrepreneur légendaire qui a transformé l'industrie technologique mondiale par le modèle de fonderie de wafers",
     "category": "fr",
     "tags": [
-      "Personnalité",
+      "personnes",
       "Morris Chang",
       "TSMC",
-      "Semi-conducteurs",
-      "Entrepreneur",
-      "Fonderie de wafers",
-      "Bouclier national"
+      "semi-conducteurs",
+      "entrepreneur",
+      "fonderie de wafers",
+      "montagne sacrée protectrice de la nation"
     ],
     "url": "https://taiwan.md/fr/People/tsmc-morris-chang",
-    "readingTime": 132,
+    "readingTime": 140,
     "featured": true,
     "date": "2026-03-17",
     "path": "fr/People/tsmc-morris-chang.md"
@@ -37041,13 +37590,13 @@
   },
   {
     "title": "Nam Min-jung",
-    "description": "A Korean member who stayed seasons with Fubon—turning “short-term heat” into “predictable appearances” as professional cheer.",
+    "description": "A Korean member who stayed seasons with Fubon—turning \"short-term heat\" into \"predictable appearances\" as professional cheer.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/nam-min-jung",
-    "readingTime": 11,
+    "readingTime": 12,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "en/People/nam-min-jung.md"
   },
   {
@@ -37056,9 +37605,9 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/nam-min-jung",
-    "readingTime": 18,
+    "readingTime": 19,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "es/People/nam-min-jung.md"
   },
   {
@@ -37067,9 +37616,9 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/nam-min-jung",
-    "readingTime": 18,
+    "readingTime": 20,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "fr/People/nam-min-jung.md"
   },
   {
@@ -37144,6 +37693,23 @@
     "featured": false,
     "date": "2026-05-02",
     "path": "en/Culture/national-theater-and-concert-hall.md"
+  },
+  {
+    "title": "New Ecological Art Environment: Seven Years in the 400-Ping Old House on Yongfu Road, Ahead of the Funding Structure",
+    "description": "In June 1992, Tu Chao-hsien opened New Ecological Art Environment in an old building of more than 400 ping on Yongfu Road in Tainan. The National Culture and Arts Foundation had not yet been established, Tainan National University of the Arts had not yet opened, and the Council for Cultural Affairs' policy on the reuse of idle spaces had not yet come online. It lasted seven years. By the time it went dark in 1999, the institutional nervous system of Taiwanese contemporary art was just beginning to grow.",
+    "category": "en",
+    "tags": [
+      "Alternative Spaces",
+      "Contemporary Art",
+      "Tainan",
+      "1990s",
+      "Post-Martial Law"
+    ],
+    "url": "https://taiwan.md/en/Art/new-ecological-art-environment",
+    "readingTime": 118,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "en/Art/new-ecological-art-environment.md"
   },
   {
     "title": "Nieh Yung-jen : premier membre taïwanais de l'AGI, vingt ans de création des pochettes de disques aux systèmes d'identité nationale",
@@ -37224,7 +37790,7 @@
       "Controversy"
     ],
     "url": "https://taiwan.md/en/People/niu-cheng-ze-controversial-filmmaker-monga-director",
-    "readingTime": 34,
+    "readingTime": 37,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/niu-cheng-ze-controversial-filmmaker-monga-director.md"
@@ -37241,7 +37807,7 @@
       "polémica"
     ],
     "url": "https://taiwan.md/es/People/niu-cheng-ze-controversial-filmmaker-monga-director",
-    "readingTime": 44,
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/niu-cheng-ze-controversial-filmmaker-monga-director.md"
@@ -37289,6 +37855,40 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "es/Culture/common-taiwanese-names.md"
+  },
+  {
+    "title": "Nouvel environnement artistique écologique : les sept années où la vieille maison de quatre cents ping de Yongfu Road, en 1992, a devancé les structures de subvention",
+    "description": "En juin 1992, Tu Chao-hsien ouvrit le « Nouvel environnement artistique écologique » dans un ancien bâtiment de plus de quatre cents ping sur Yongfu Road, à Tainan. La Fondation nationale pour la culture et les arts n’existait pas encore, l’Université nationale des arts de Tainan n’avait pas encore ouvert, et la politique de « réutilisation des espaces vacants » du Conseil des affaires culturelles n’était pas encore lancée. L’espace tint sept ans ; lorsqu’il ferma en 1999, le système nerveux institutionnel de l’art contemporain taïwanais commençait tout juste à se former.",
+    "category": "fr",
+    "tags": [
+      "espaces alternatifs",
+      "art contemporain",
+      "Tainan",
+      "années 1990",
+      "après la levée de la loi martiale"
+    ],
+    "url": "https://taiwan.md/fr/Art/new-ecological-art-environment",
+    "readingTime": 134,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "fr/Art/new-ecological-art-environment.md"
+  },
+  {
+    "title": "Nuevo Entorno de Arte Ecológico: la vieja casa de cuatrocientos ping en Yongfu Road en 1992 y los siete años por delante de las estructuras de subsidio",
+    "description": "En junio de 1992, Tu Chao-hsien abrió el “Nuevo Entorno de Arte Ecológico” en un antiguo edificio de más de cuatrocientos ping en Yongfu Road, Tainan. El Fondo Nacional para la Cultura y las Artes aún no existía, la Universidad Nacional de las Artes de Tainan aún no había abierto, y la política del Consejo de Asuntos Culturales para la “reutilización de espacios ociosos” aún no estaba en marcha. Resistió siete años; cuando apagó sus luces en 1999, el sistema nervioso institucional del arte contemporáneo taiwanés apenas empezaba a formarse.",
+    "category": "es",
+    "tags": [
+      "espacio alternativo",
+      "arte contemporáneo",
+      "Tainan",
+      "años noventa",
+      "posley marcial"
+    ],
+    "url": "https://taiwan.md/es/Art/new-ecological-art-environment",
+    "readingTime": 133,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "es/Art/new-ecological-art-environment.md"
   },
   {
     "title": "Ocho voces en armonía: un fósil viviente que desafía la visión occidental de la historia musical",
@@ -37592,7 +38192,7 @@
       "85°C"
     ],
     "url": "https://taiwan.md/es/Food/taiwan-bread-and-baking",
-    "readingTime": 42,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/Food/taiwan-bread-and-baking.md"
@@ -37726,9 +38326,9 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/park-sung-eun",
-    "readingTime": 18,
+    "readingTime": 21,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "es/People/park-sung-eun.md"
   },
   {
@@ -37737,9 +38337,9 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/People/park-sung-eun",
-    "readingTime": 20,
+    "readingTime": 21,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "fr/People/park-sung-eun.md"
   },
   {
@@ -37892,6 +38492,42 @@
     "path": "en/Culture/penghu-folk-culture.md"
   },
   {
+    "title": "Pensamiento archipelágico: devolver Taiwán al mapa del mundo malayo",
+    "description": "Taiwán no es una isla aislada en la periferia china; también es el extremo nororiental del mundo malayo, la patria originaria de la familia lingüística austronesia y el punto de partida de la expansión por el Pacífico. Si giras el mapa 30 grados hacia el sur, verás otro sistema de coordenadas plenamente válido, pero omitido.",
+    "category": "es",
+    "tags": [
+      "archipiélagos",
+      "familia austronesia",
+      "Nusantara",
+      "historia insular de Taiwán",
+      "pueblos indígenas",
+      "geografía cultural"
+    ],
+    "url": "https://taiwan.md/es/Culture/archipelago-thinking",
+    "readingTime": 147,
+    "featured": true,
+    "date": "2026-05-17",
+    "path": "es/Culture/archipelago-thinking.md"
+  },
+  {
+    "title": "Pensée archipélagique : replacer Taïwan sur la carte du monde malais",
+    "description": "Taïwan n'est pas seulement une île isolée aux marges du monde chinois : c'est aussi l'extrémité nord-est du monde malais, le foyer originel des langues austronésiennes et le point de départ de leur diffusion dans le Pacifique. Faites pivoter la carte de 30 degrés vers le sud, et vous verrez apparaître un autre système de coordonnées, parfaitement cohérent mais longtemps omis.",
+    "category": "fr",
+    "tags": [
+      "archipel",
+      "langues austronésiennes",
+      "Nusantara",
+      "histoire insulaire de Taïwan",
+      "peuples autochtones",
+      "géographie culturelle"
+    ],
+    "url": "https://taiwan.md/fr/Culture/archipelago-thinking",
+    "readingTime": 153,
+    "featured": true,
+    "date": "2026-05-17",
+    "path": "fr/Culture/archipelago-thinking.md"
+  },
+  {
     "title": "Période de domination japonaise",
     "description": "De 1895 à 1945, le Japon a gouverné Taïwan pendant 50 ans, apportant une modernisation complète des infrastructures et une gestion institutionnalisée, tout en mettant en œuvre des politiques d'assimilation qui ont profondément influencé le développement de la société taïwanaise.",
     "category": "fr",
@@ -37944,7 +38580,17 @@
     "title": "Período neerlandés, español y Ming-Zheng",
     "description": "Desde 1624, cuando los neerlandeses construyeron el fuerte Zeelandia en Tainan, hasta 1683, cuando Shi Lang desembarcó en Penghu: sesenta años en que Taiwán fue inscrito en el mapa del comercio mundial, y la historia de la sucesión de cuatro regímenes",
     "category": "es",
-    "tags": [],
+    "tags": [
+      "Historia",
+      "Compañía Neerlandesa de las Indias Orientales",
+      "España",
+      "Ming-Zheng",
+      "Zheng Chenggong",
+      "Zheng Jing",
+      "Shi Lang",
+      "Reino de Tungning",
+      "Fuerte Zeelandia"
+    ],
     "url": "https://taiwan.md/es/History/dutch-spanish-and-koxinga-era",
     "readingTime": 69,
     "featured": false,
@@ -38133,7 +38779,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 32,
+    "readingTime": 38,
     "featured": true,
     "date": "2026-03-19",
     "path": "es/Food/taiwanese-salt-and-pepper-fried-chicken.md"
@@ -38194,7 +38840,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Art/post-martial-law-taiwanese-literature",
-    "readingTime": 72,
+    "readingTime": 73,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Art/post-martial-law-taiwanese-literature.md"
@@ -38742,6 +39388,39 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "en/Geography/qingshui-cliff.md"
+  },
+  {
+    "title": "Qingtiangang : un siècle de tensions entre prairie, blockhaus et buffles d’eau",
+    "description": "Des terrains de chasse des Ketagalan au cantonnement des « braves du Henan » sous les Qing, de la prospérité du pâturage d’Ōmine-tōge sous la domination japonaise à la portée militaire du nom « Qingtiangang » donné par Chiang Ching-kuo, cette prairie volcanique n’est pas seulement le jardin arrière des habitants de Taipei : elle est aussi, depuis un siècle, le théâtre d’affrontements entre impératifs militaires, pastoralisme, protection écologique et coexistence entre humains et buffles. La mortalité des buffles d’eau durant l’hiver 2020 a révélé le coût profond de la politique de « séparation entre humains et buffles » dans la gestion du parc national, ainsi que l’interrogation persistante sur la coexistence entre l’humain et la nature.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/Geography/qingtiangang",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-05-16",
+    "path": "fr/Geography/qingtiangang.md"
+  },
+  {
+    "title": "Qingtiangang: A Century-Long Tug-of-War among Grassland, Bunkers, and Water Buffalo",
+    "description": "From the Ketagalan people's hunting grounds to the Qing-era garrisoning of the 'Henan Braves,' from the prosperity of Dailing Pass Ranch under Japanese rule to the military implications of Chiang Ching-kuo's naming of 'Qingtiangang,' this volcanic grassland is not only Taipei residents' backyard, but also a century-long site of contention among military, pastoral, ecological conservation, and human-buffalo coexistence agendas. The winter 2020 water buffalo deaths revealed the deep costs of the 'separation of humans and cattle' policy in national park management, and the enduring question of coexistence between humans and nature.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Geography/qingtiangang",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-05-16",
+    "path": "en/Geography/qingtiangang.md"
+  },
+  {
+    "title": "Qingtiangang: un siglo de tensiones entre praderas, búnkeres y búfalos de agua",
+    "description": "Desde los terrenos de caza del pueblo ketagalan hasta la guarnición de los “voluntarios de Henan” durante el periodo Qing; desde el auge del rancho Da Ling Toge bajo el dominio japonés hasta las connotaciones militares del nombre “Qingtiangang”, asignado por Chiang Ching-kuo, esta pradera volcánica no es solo el patio trasero de los habitantes de Taipéi, sino también un escenario donde, durante un siglo, han chocado voluntades diversas: militares, ganaderas, de conservación ecológica y de coexistencia entre humanos y búfalos. La mortandad de búfalos de agua del invierno de 2020 reveló el costo profundo de la política de “separación entre humanos y búfalos” en la gestión de los parques nacionales, así como la pregunta permanente por la coexistencia entre las personas y la naturaleza.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/Geography/qingtiangang",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-05-16",
+    "path": "es/Geography/qingtiangang.md"
   },
   {
     "title": "Quand l'épidémie s'éteint, les feux d'artifice deviennent tradition : l'évolution inattendue des fêtes à Taïwan",
@@ -39315,7 +39994,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Society/taiwan-rural-education",
-    "readingTime": 69,
+    "readingTime": 70,
     "featured": false,
     "date": "2026-04-09",
     "path": "en/Society/taiwan-rural-education.md"
@@ -39365,12 +40044,12 @@
     "path": "fr/Society/taiwan-public-health-epidemic-response.md"
   },
   {
-    "title": "Sanxia Tea: From the Spiral Turn of Qingxin Ganzai to the Honey-Aroma Upgrade of Summer Tea",
-    "description": "Sanxia is Taiwan's most representative specialized pan-fried green tea production area, and its industrial trajectory is a long-running experiment in adaptation. From John Dodd's discovery during the Tongzhi era of the Qing dynasty, to the suppression of green tea exports under Japanese colonial rule, to the formal naming of Biluochun in the late 1990s, Sanxia tea farmers have sketched out the local standard for Taiwanese green tea in the gap between a unique cultivar and land development pressures.",
+    "title": "Sanxia Tea: From the Spiral Turn of Qingxin Ganzai to the Honey-Scented Upgrade of Summer Tea",
+    "description": "Sanxia is Taiwan's most representative specialized pan-fired green tea production area, and its industrial path is a long-term experiment in adaptation. From John Dodd's discovery during the Tongzhi era of the Qing dynasty, to the suppression of green tea exports during the Japanese colonial period, and then to the formal naming of Biluochun in the late 1990s, Sanxia tea farmers, caught between a distinctive cultivar and land development, outlined a local standard for Taiwanese green tea.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Food/sanxia-tea",
-    "readingTime": 63,
+    "readingTime": 65,
     "featured": false,
     "date": "2026-04-26",
     "path": "en/Food/sanxia-tea.md"
@@ -40080,6 +40759,24 @@
     "path": "en/People/stanley-yen.md"
   },
   {
+    "title": "Startup Ecosystem",
+    "description": "The development of Taiwan’s startup ecosystem, from early challenges to today’s accelerators, venture capital environment, and pursuit of unicorns",
+    "category": "en",
+    "tags": [
+      "startups",
+      "entrepreneurship",
+      "venture capital",
+      "accelerators",
+      "AppWorks",
+      "unicorns"
+    ],
+    "url": "https://taiwan.md/en/Economy/taiwan-startup-ecosystem-overview",
+    "readingTime": 97,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "en/Economy/taiwan-startup-ecosystem-overview.md"
+  },
+  {
     "title": "Stefanie Sun : 1 voix d'avance sur Jay Chou, 1 000 chansons recréées par IA, elle répond « Être moi-même suffit »",
     "description": "Le 9 juin 2000, une jeune Singapourienne fait ses débuts à Taïwan avec « Tian Hei Hei » (天黑了), son premier album vendu à 330 000 exemplaires, remportant la première place des ventes annuelles. L'année suivante, aux Golden Melody Awards, elle bat Jay Chou d'une seule voix pour le prix de meilleure nouvelle artiste ; quatre ans plus tard, avec l'album « Stefanie », elle devient la première artiste de l'histoire des Golden Melody à remporter à la fois le prix de meilleure nouvelle artiste et celui de meilleure chanteuse. En 2023, une IA reproduit sa voix pour interpréter plus de 1 000 chansons. Sa réponse tient en une phrase : « Être moi-même, c'est déjà suffisant. »",
     "category": "fr",
@@ -40477,7 +41174,7 @@
     "path": "fr/People/tai-tzu-ying.md"
   },
   {
-    "title": "Tai Yu Wu",
+    "title": "Tai Yu Wu: el presidente de la Academia Sinica que recomendó a Yang Chen-Ning y Lee Tsung-Dao para estudiar en EE. UU., y los once años de cimentación de la investigación científica taiwanesa",
     "description": "Físico teórico y presidente de la Academia Sinica, mentor de Yang Chen-Ning y Lee Tsung-Dao, dos premios Nobel, y maestro fundacional de la ciencia taiwanesa",
     "category": "es",
     "tags": [
@@ -40669,11 +41366,19 @@
   },
   {
     "title": "Taiwan Baseball Culture",
-    "description": "From the legendary Red Leaf Little League to CPBL tears and triumphs — how baseball became Taiwan's 'national sport'",
+    "description": "From the Legend of the Red Leaf Little League to the Tears and Sweat of the CPBL — How Baseball Became Taiwan''s \"National Sport\"",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "棒球",
+      "中華職棒",
+      "紅葉少棒",
+      "國球",
+      "體育",
+      "王建民",
+      "大谷翔平效應"
+    ],
     "url": "https://taiwan.md/en/Culture/taiwan-baseball-culture",
-    "readingTime": 51,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Culture/taiwan-baseball-culture.md"
@@ -40701,7 +41406,7 @@
       "85C"
     ],
     "url": "https://taiwan.md/en/Food/taiwan-bread-and-baking",
-    "readingTime": 24,
+    "readingTime": 29,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Food/taiwan-bread-and-baking.md"
@@ -40716,6 +41421,25 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Food/taiwan-breakfast-culture.md"
+  },
+  {
+    "title": "Taiwan Campus Folk Song Movement",
+    "description": "From “singing our own songs” to transforming the entire Mandarin-language music scene: the youth-led cultural revolution of the 1970s",
+    "category": "en",
+    "tags": [
+      "Folk Song Movement",
+      "Campus Folk Songs",
+      "Jin Yun Awards",
+      "Li Shuangze",
+      "Yang Xian",
+      "Hu De-fu",
+      "Singing Our Own Songs"
+    ],
+    "url": "https://taiwan.md/en/Music/taiwan-campus-folk-song-movement",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "en/Music/taiwan-campus-folk-song-movement.md"
   },
   {
     "title": "Taiwan Cement : la légende de la transition verte de la première société cotée de Taïwan",
@@ -41564,17 +42288,6 @@
     "path": "en/Technology/taiwan-software-industry-development.md"
   },
   {
-    "title": "Taiwan Startup Ecosystem Overview",
-    "description": "The development of Taiwan's startup ecosystem — from early challenges to today's accelerators, venture capital environment, and the pursuit of unicorns",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Economy/taiwan-startup-ecosystem-overview",
-    "readingTime": 44,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Economy/taiwan-startup-ecosystem-overview.md"
-  },
-  {
     "title": "Taiwan Stock Market and Capital Market: From the 1990 10,000-Point Crash to the 2026 Global No. 6, with 44% of Wealth Tied to a Single Stock",
     "description": "On April 28, 2026, Bloomberg reported 'Taiwan Overtakes Canada.' An island that once lost the retirement funds of 160,000 people in the 1990 10,000-point crash has, thirty-six years later, ascended to become the world's 6th largest stock market—yet nearly half of its $4.47 trillion market cap is tied to a single semiconductor company.",
     "category": "ko",
@@ -41599,7 +42312,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/History/taiwan-strait-crises-and-cross-strait-relations",
-    "readingTime": 78,
+    "readingTime": 77,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/History/taiwan-strait-crises-and-cross-strait-relations.md"
@@ -41758,17 +42471,6 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "en/Culture/taiwan-variety-shows.md"
-  },
-  {
-    "title": "Taiwan VTubers: The Evolution from Corporate Experiment to Mainstream Cultural Ecosystem",
-    "description": "In 2017, the virtual girl Huni debuted on Yahoo TV, opening Taiwan's VTuber industry. From early corporate technology experiments to over 3,000 Taiwanese VTubers having debuted by 2025, the movement has evolved into a cultural ecosystem spanning Olympic collaborations and Taiwanese-language revitalization. The Super Chat economy it drives reaches tens of millions of NT dollars, yet individual creators still face high costs and high turnover.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/taiwan-vtuber",
-    "readingTime": 73,
-    "featured": false,
-    "date": "2026-04-26",
-    "path": "en/Culture/taiwan-vtuber.md"
   },
   {
     "title": "Taiwan White Terror",
@@ -41950,7 +42652,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Economy/taiwan-agricultural-modernization",
-    "readingTime": 97,
+    "readingTime": 99,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Economy/taiwan-agricultural-modernization.md"
@@ -42020,17 +42722,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Geography/taiwan-biodiversity-hotspots.md"
-  },
-  {
-    "title": "Taiwan's Campus Folk Song Movement",
-    "description": "From 'Sing Our Own Songs' to transforming the entire Mandarin-language music world — the 1970s cultural revolution that belonged to Taiwan's youth",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Music/taiwan-campus-folk-song-movement",
-    "readingTime": 47,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Music/taiwan-campus-folk-song-movement.md"
   },
   {
     "title": "Taiwan's Choirs: Sixty Years from Rongxing to Asia's Top Five",
@@ -43227,7 +43918,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Food/taiwan-vegetarian-culture",
-    "readingTime": 40,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Food/taiwan-vegetarian-culture.md"
@@ -43369,17 +44060,6 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Art/taiwanese-architecture-multicultural-layers.md"
-  },
-  {
-    "title": "Taiwanese Art Education and Academic Development",
-    "description": "From normal school systems to specialized art universities: institutional transformation and talent cultivation in Taiwan's art education",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Art/taiwanese-art-education-and-academic-development",
-    "readingTime": 63,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Art/taiwanese-art-education-and-academic-development.md"
   },
   {
     "title": "Taiwanese Bandoh Banquet Culture",
@@ -43550,7 +44230,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Nature/taiwanese-leopard-cat-conservation",
-    "readingTime": 48,
+    "readingTime": 52,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Nature/taiwanese-leopard-cat-conservation.md"
@@ -43686,7 +44366,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 31,
+    "readingTime": 36,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Food/taiwanese-salt-and-pepper-fried-chicken.md"
@@ -43745,6 +44425,28 @@
     "featured": false,
     "date": "2026-04-03",
     "path": "en/Music/taiwanese-traditional-chinese-orchestra-music.md"
+  },
+  {
+    "title": "Taiwanese VTubers: From Corporate Experiments to the Evolution of \"Breakout\" Virtual-Real Symbiosis",
+    "description": "In 2017, the virtual girl Hoonie debuted on Yahoo TV, marking the beginning of Taiwan's VTuber industry. From its earliest corporate technology experiments to more than 3,000 VTubers cumulatively debuting across Taiwan by 2025, this force has evolved into a cultural ecosystem spanning Olympic collaborations and the revitalization of Taiwanese. Although the Super Chat economy it drives has reached tens of millions, individual creators still face the challenges of high costs and high turnover.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Culture/taiwan-vtuber",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "en/Culture/taiwan-vtuber.md"
+  },
+  {
+    "title": "taiwanese-hokkien-song-evolution",
+    "description": "",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/Music/taiwanese-hokkien-song-evolution",
+    "readingTime": 75,
+    "featured": false,
+    "date": null,
+    "path": "es/Music/taiwanese-hokkien-song-evolution.md"
   },
   {
     "title": "Tale of Wuxia: Pre-sequel: Dos personas, 30% de reseñas positivas, 700.000 copias vendidas",
@@ -43912,6 +44614,17 @@
     "featured": false,
     "date": "2026-03-27",
     "path": "en/Culture/tchoukball-in-taiwan.md"
+  },
+  {
+    "title": "Té de Sanxia: del giro en espiral del «Qingxin Ganzai» a la valorización melosa del té de verano",
+    "description": "Sanxia es la zona productora especializada en té verde salteado más representativa de Taiwán, y su trayectoria industrial constituye un experimento de largo plazo sobre la «adaptación». Desde el hallazgo de John Dodd durante el período Tongzhi de la dinastía Qing, pasando por la presión ejercida sobre la exportación de té verde durante el período colonial japonés, hasta la denominación oficial de Biluochun a fines de la década de 1990, los agricultores de té de Sanxia, entre variedades singulares y desarrollo territorial, delinearon un estándar local para el té verde taiwanés.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/Food/sanxia-tea",
+    "readingTime": 73,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "es/Food/sanxia-tea.md"
   },
   {
     "title": "Teach For Taiwan : comment une diplômée de Princeton a convaincu quatre cents jeunes d'entrer dans les classes rurales",
@@ -44189,7 +44902,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion",
-    "readingTime": 97,
+    "readingTime": 98,
     "featured": true,
     "date": "2026-04-11",
     "path": "en/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md"
@@ -44215,6 +44928,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Technology/east-asian-input-methods.md"
+  },
+  {
+    "title": "Thé de Sanxia : de l’inflexion spiralée du « Qingxin Ganzai » à la montée en valeur miellée du thé d’été",
+    "description": "Sanxia est la région de production de thé vert sauté la plus représentative de Taïwan ; sa trajectoire industrielle constitue une longue expérience d’« adaptation ». Depuis la découverte de John Dodd sous l’ère Tongzhi des Qing, en passant par la répression des exportations de thé vert durant la période japonaise, jusqu’à la dénomination officielle du Biluochun à la fin des années 1990, les producteurs de thé de Sanxia ont dessiné, entre variété locale spécifique et pression de l’aménagement foncier, un standard taïwanais du thé vert.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/Food/sanxia-tea",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "fr/Food/sanxia-tea.md"
   },
   {
     "title": "The Development of Taiwan’s Long‑Term Care System",
@@ -44295,12 +45019,21 @@
     "path": "en/Music/taiwan-independent-music-scene-evolution.md"
   },
   {
-    "title": "The Evolution of Taiwanese Hokkien Songs: From Street Serenades to a Youth Renaissance",
-    "description": "How Taiwanese Hokkien (台語) songs moved from the margins to the center—through Nakashi street music, golden‑age divas, language politics, and a new generation of bands.",
+    "title": "The Evolution of Taiwanese Hokkien Songs: From \"Old Man's Music\" to Indie Darling",
+    "description": "Tracing the evolution of Taiwanese Hokkien songs from the nakashi era, the golden age of Hung I-feng and Jody Chiang, to the new-generation bands such as Eggplant Egg, Sorry Youth, and Collage — exploring how Hokkien music has regained the identity of younger generations.",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "台語歌曲",
+      "那卡西",
+      "洪一峰",
+      "江蕙",
+      "茄子蛋",
+      "拍謝少年",
+      "珂拉琪",
+      "金曲獎"
+    ],
     "url": "https://taiwan.md/en/Music/taiwanese-hokkien-song-evolution",
-    "readingTime": 25,
+    "readingTime": 62,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Music/taiwanese-hokkien-song-evolution.md"
@@ -44509,7 +45242,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Society/the-reporter-investigative-journalism",
-    "readingTime": 100,
+    "readingTime": 101,
     "featured": true,
     "date": "2026-04-29",
     "path": "en/Society/the-reporter-investigative-journalism.md"
@@ -44571,7 +45304,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Society/sunflower-movement",
-    "readingTime": 70,
+    "readingTime": 72,
     "featured": true,
     "date": "2026-04-12",
     "path": "en/Society/sunflower-movement.md"
@@ -44730,6 +45463,17 @@
     "featured": false,
     "date": "2026-04-26",
     "path": "fr/People/hebe-tien-singer.md"
+  },
+  {
+    "title": "Tierra baldía digital: cómo sobrevivió 12 años una plataforma en línea de crítica de arte sin modelo de negocio",
+    "description": "En noviembre de 2011, Cheng Wen-chi puso en marcha en Taipéi, dentro de una antigua institución mediática llamada ET@T, un proyecto de escritura en línea sin edición impresa, sin publicidad y sin cuota de suscripción. Doce años después, acumulaba 56 números temáticos, 384 artículos, 31 episodios de podcast y 10 volúmenes de Nusantara Archive. Entre las plataformas de crítica de arte en chino de la misma época que reunían simultáneamente tres condiciones —sin matriz de prensa impresa, sin espacio físico y con dirección editorial individual— no hubo otro caso contemporáneo de supervivencia. Se sostuvo gracias a la articulación precisa de tres capas de quiet infrastructure: una institución matriz que absorbió los costos básicos, proyectos del sector público que cubrieron contenidos por entregas puntuales, y 12 años de trabajo personal editorial que llenaron el gap restante.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/Art/no-mans-land-art-platform",
+    "readingTime": 152,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "es/Art/no-mans-land-art-platform.md"
   },
   {
     "title": "TikTok",
@@ -44997,7 +45741,7 @@
       "生態保育"
     ],
     "url": "https://taiwan.md/en/Nature/trail-culture-and-civic-stewardship",
-    "readingTime": 28,
+    "readingTime": 36,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Nature/trail-culture-and-civic-stewardship.md"
@@ -45121,7 +45865,18 @@
     "path": "en/People/tsai-a-ga-youtuber.md"
   },
   {
-    "title": "Tsai Ing-wen",
+    "title": "Tsai Ing-wen : de la défaite de 800 000 voix à la réélection à 8,17 millions de voix, la première femme présidente",
+    "description": "Première présidente de Taïwan (2016-2024), juriste en droit international du commerce, a fait adopter la première loi sur le mariage homosexuel en Asie, a présenté les excuses du gouvernement aux peuples autochtones, descendante du peuple Paiwan",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/People/tsai-ing-wen",
+    "readingTime": 64,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "fr/People/tsai-ing-wen.md"
+  },
+  {
+    "title": "Tsai Ing-wen: From an 800,000-Vote Defeat to an 8.17 Million-Vote Re-election as Taiwan’s First Female President",
     "description": "Taiwan's first female president (2016–2024), a scholar of international trade law by training, who oversaw Asia's first same-sex marriage legislation, formally apologized to Indigenous peoples on behalf the government, and is of Paiwan descent",
     "category": "en",
     "tags": [
@@ -45134,32 +45889,21 @@
       "原住民族"
     ],
     "url": "https://taiwan.md/en/People/tsai-ing-wen",
-    "readingTime": 52,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/People/tsai-ing-wen.md"
   },
   {
-    "title": "Tsai Ing-wen",
+    "title": "Tsai Ing-wen: la primera presidenta, de una derrota por 800 000 votos a una reelección con 8,17 millones",
     "description": "Primera presidenta de Taiwán (2016-2024), especialista en derecho internacional comercial. Durante su mandato se promulgó la primera ley de matrimonio homosexual de Asia, representó al gobierno en una disculpa oficial a los pueblos indígenas y es de ascendencia paiwan.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/People/tsai-ing-wen",
-    "readingTime": 55,
+    "readingTime": 64,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/People/tsai-ing-wen.md"
-  },
-  {
-    "title": "Tsai Ing-wen",
-    "description": "Première présidente de Taïwan (2016-2024), juriste en droit international du commerce, a fait adopter la première loi sur le mariage homosexuel en Asie, a présenté les excuses du gouvernement aux peuples autochtones, descendante du peuple Paiwan",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/People/tsai-ing-wen",
-    "readingTime": 58,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "fr/People/tsai-ing-wen.md"
   },
   {
     "title": "Tsai Ming-liang",
@@ -45693,12 +46437,23 @@
     "path": "en/Society/volunteering-and-civic-charity-in-taiwan.md"
   },
   {
-    "title": "VTubers de Taiwán: de la experimentación empresarial a la evolución simbiótica entre lo virtual y lo real",
-    "description": "En 2017, la chica virtual Huni debutó en Yahoo TV, dando inicio a la industria taiwanesa de VTubers. Desde los primeros experimentos tecnológicos corporativos hasta más de 3 000 VTubers que han debutado en todo Taiwán para 2025, esta fuerza se ha convertido en un ecosistema cultural que abarca desde colaboraciones olímpicas hasta la revitalización del idioma hokkienés taiwanés. Aunque la economía de Super Chat que genera alcanza decenas de millones, los creadores individuales aún enfrentan desafíos de alto costo y alta rotación.",
+    "title": "VTubers à Taïwan : de l’expérimentation d’entreprise à l’évolution symbiotique entre virtuel et réel au-delà des cercles spécialisés",
+    "description": "En 2017, la jeune fille virtuelle Hoonie est apparue sur Yahoo TV, ouvrant la voie à l’industrie taïwanaise des VTubers. Des premières expérimentations technologiques d’entreprise jusqu’à plus de 3 000 débuts cumulés de VTubers dans tout Taïwan en 2025, cette dynamique est devenue un écosystème culturel allant des collaborations olympiques à la revitalisation du taïwanais. Si l’économie du Super Chat qu’elle entraîne atteint plusieurs dizaines de millions, les créateurs individuels restent confrontés à des coûts élevés et à une forte rotation.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/Culture/taiwan-vtuber",
+    "readingTime": 84,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "fr/Culture/taiwan-vtuber.md"
+  },
+  {
+    "title": "VTubers de Taiwán: de experimento empresarial a una evolución de coexistencia virtual-real que sale del nicho",
+    "description": "En 2017, la chica virtual Hoonie apareció en Yahoo TV y abrió la industria VTuber de Taiwán. Desde los primeros experimentos tecnológicos empresariales hasta más de 3.000 VTubers debutados en todo el país hacia 2025, esta fuerza ha evolucionado hasta convertirse en un ecosistema cultural que abarca colaboraciones olímpicas y la revitalización del taiwanés. Aunque la economía de Super Chat que impulsa alcanza decenas de millones, los creadores individuales siguen enfrentando altos costos y una elevada rotación.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Culture/taiwan-vtuber",
-    "readingTime": 85,
+    "readingTime": 82,
     "featured": false,
     "date": "2026-04-26",
     "path": "es/Culture/taiwan-vtuber.md"
@@ -46202,7 +46957,7 @@
       "ODM"
     ],
     "url": "https://taiwan.md/en/Economy/wistron-global-manufacturing-transformation-pioneer",
-    "readingTime": 62,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Economy/wistron-global-manufacturing-transformation-pioneer.md"
@@ -46375,7 +47130,7 @@
     "path": "fr/People/che-yu-wu.md"
   },
   {
-    "title": "Wu Da-You",
+    "title": "Wu Da-You : président de l'Academia Sinica qui recommanda Yang Chen-Ning et Lee Tsung-Dao aux États-Unis, et ses onze années fondatrices pour la recherche scientifique taïwanaise",
     "description": "Physicien théoricien, président de l'Academia Sinica, mentor de Yang Chen-Ning et Lee Tsung-Dao, deux lauréats du prix Nobel, figure fondatrice de la science taïwanaise",
     "category": "fr",
     "tags": [],
@@ -46441,7 +47196,7 @@
     "path": "en/People/wu-bao-chun.md"
   },
   {
-    "title": "Wu Ta-you",
+    "title": "Wu Ta-you: The Academia Sinica President Who Recommended Yang and Lee to the US, and His Eleven Years Laying Taiwan's Scientific Foundations",
     "description": "Theoretical physicist and president of Academia Sinica; mentor to Nobel laureates Yang Chen-ning and Lee Tsung-dao; the foundational figure who built Taiwan's scientific enterprise",
     "category": "en",
     "tags": [
@@ -47356,34 +48111,39 @@
     "path": "en/Food/zongzi-rice-dumpling.md"
   },
   {
-    "title": "Zoológicos y ética de los animales en exhibición",
-    "description": "Desde los elefantes tras barrotes hasta el muro de medusas de Xpark, Taiwán está redefiniendo su relación con los animales exhibidos",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/Society/zoo-and-exhibition-animal-ethics",
-    "readingTime": 73,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "es/Society/zoo-and-exhibition-animal-ethics.md"
-  },
-  {
-    "title": "Zoos and Exhibition Animal Ethics",
-    "description": "From elephants in iron cages to Xpark's jellyfish wall — Taiwan is redefining the relationship between people and animals on display.",
+    "title": "Zoo and Exhibition Animal Ethics",
+    "description": "From an Elephant in an Iron Cage to Xpark's Jellyfish Wall: Taiwan Is Redefining the Relationship Between Humans and Animals on Display",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "zoos",
+      "exhibition animals",
+      "animal welfare",
+      "Xpark",
+      "Taipei Zoo",
+      "animal ethics",
+      "Hsinchu Zoo"
+    ],
     "url": "https://taiwan.md/en/Society/zoo-and-exhibition-animal-ethics",
-    "readingTime": 59,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Society/zoo-and-exhibition-animal-ethics.md"
   },
   {
-    "title": "Zoos et éthique des animaux en captivité",
-    "description": "De l'éléphant derrière les barreaux à la salle des méduses de Xpark — Taïwan redéfinit la relation entre les humains et les animaux exposés",
+    "title": "Zoos et éthique des animaux de spectacle",
+    "description": "Des éléphants derrière les barreaux au mur de méduses de Xpark — Taïwan redéfinit la relation entre les humains et les animaux exposés",
     "category": "fr",
-    "tags": [],
+    "tags": [
+      "zoo",
+      "animaux de spectacle",
+      "bien-être animal",
+      "Xpark",
+      "zoo de Taipei",
+      "éthique animale",
+      "zoo de Hsinchu"
+    ],
     "url": "https://taiwan.md/fr/Society/zoo-and-exhibition-animal-ethics",
-    "readingTime": 73,
+    "readingTime": 76,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Society/zoo-and-exhibition-animal-ethics.md"
@@ -47542,7 +48302,7 @@
       "전환기 정의"
     ],
     "url": "https://taiwan.md/ko/History/martial-law-era",
-    "readingTime": 20,
+    "readingTime": 22,
     "featured": true,
     "date": "2026-03-17",
     "path": "ko/History/martial-law-era.md"
@@ -47712,6 +48472,17 @@
     "path": "ko/Society/education-system-and-admissions-culture.md"
   },
   {
+    "title": "구슈이: ‘군도’를 대만 미술계로 가져온 말레이시아 큐레이터",
+    "description": "2003년 그는 쿠알라룸푸르에서 타이베이로 와 타이베이예술대학에서 공부했으며, 처음에는 자신을 그저 잠시 머무는 사람이라고 생각했다. 14년 뒤 그는 타이베이에서 냉전기의 명명인 ‘동남아시아’ 대신 ‘군도’(Nusantara)를 사용하기 시작했고, 말레이 세계의 자기 명명을 대만의 큐레이팅 담론 속으로 가져왔다. 가상의 지명 ‘멍커랑’ 3부작, 싱가포르미술관 소장품이 된 Kris Project, 2024년 천요루와 협업해 말레이시아 무국적 아동을 인터뷰한 작업에 이르기까지, 그는 NML 인터뷰에서 이렇게 말한 적이 있다. “바로 나의 ‘부재’ 때문에 이 작품을 만들 수 있었다.”",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/People/au-sow-yee",
+    "readingTime": 81,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "ko/People/au-sow-yee.md"
+  },
+  {
     "title": "구이 룬메이: 조용하고 단단한 연기파 배우",
     "description": "《말할 수 없는 비밀》에서 국제 영화제의 단골 손님으로, 저조한 방식으로 실력을 쌓아온 대만 여배우",
     "category": "ko",
@@ -47723,7 +48494,7 @@
       "연기파"
     ],
     "url": "https://taiwan.md/ko/People/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 14,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/gwei-lun-mei-versatile-taiwanese-actress.md"
@@ -47823,6 +48594,24 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "ko/Society/migrant-workers-in-taiwan.md"
+  },
+  {
+    "title": "군도적 사고: 타이완을 말레이 세계의 지도 위에 되돌려 놓기",
+    "description": "타이완은 중화 세계 변방의 고립된 섬만이 아니라, 말레이 세계의 동북단이자 오스트로네시아어족의 원향이며 태평양 확산의 출발점이기도 하다. 지도를 남쪽으로 30도 돌리면, 완전히 성립하지만 누락되어 온 또 하나의 좌표계를 보게 된다.",
+    "category": "ko",
+    "tags": [
+      "군도",
+      "오스트로네시아어족",
+      "누산타라",
+      "타이완 섬 역사",
+      "원주민",
+      "문화지리"
+    ],
+    "url": "https://taiwan.md/ko/Culture/archipelago-thinking",
+    "readingTime": 72,
+    "featured": true,
+    "date": "2026-05-17",
+    "path": "ko/Culture/archipelago-thinking.md"
   },
   {
     "title": "굴전: 빈곤에서 국민 음식으로의 미각 진화사",
@@ -47938,9 +48727,9 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/People/jin-enoki",
-    "readingTime": 6,
+    "readingTime": 8,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ko/People/jin-enoki.md"
   },
   {
@@ -47967,9 +48756,9 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/People/nam-min-jung",
-    "readingTime": 7,
+    "readingTime": 6,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ko/People/nam-min-jung.md"
   },
   {
@@ -48034,7 +48823,7 @@
       "논란"
     ],
     "url": "https://taiwan.md/ko/People/niu-cheng-ze-controversial-filmmaker-monga-director",
-    "readingTime": 18,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/niu-cheng-ze-controversial-filmmaker-monga-director.md"
@@ -48183,17 +48972,6 @@
     "featured": false,
     "date": "2026-04-23",
     "path": "ko/Technology/taiwan-vr-metaverse-rise-and-fall.md"
-  },
-  {
-    "title": "대만 VTuber: 기업 실험에서 '아웃 오브 더 박스'로 가는 가상-실제 공생 진화",
-    "description": "2017년 가상 소녀 후니가 Yahoo TV에 등장하며 대만 VTuber 산업이 시작되었다. 초기의 기업 기술 실험에서 시작해 2025년 전국 누계 3,000명 이상의 VTuber 데뷔까지, 이 흐름은 올림픽 협력과 대만어 부흥을 가로지르는 문화 생태계로 진화했다. 이로 인한 슈퍼챗 경제는 수천만 대만달러에 이르지만, 개별 창작자는 여전히 높은 비용과 높은 이직률의 도전에 직면해 있다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/Culture/taiwan-vtuber",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-04-26",
-    "path": "ko/Culture/taiwan-vtuber.md"
   },
   {
     "title": "대만 YouTuber 산업과 문화: 차이아가에서 치쉬안까지, 한 섬의 디지털 문화 진화사",
@@ -49105,7 +49883,7 @@
       "생태"
     ],
     "url": "https://taiwan.md/ko/Nature/taiwanese-leopard-cat-conservation",
-    "readingTime": 24,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-03-18",
     "path": "ko/Nature/taiwanese-leopard-cat-conservation.md"
@@ -49322,6 +50100,23 @@
     "featured": true,
     "date": "2026-03-23",
     "path": "ko/Art/taiwanese-cinema.md"
+  },
+  {
+    "title": "대만 예술교육과 대학 제도의 발전",
+    "description": "사범계 체제에서 전문 예술대학에 이르기까지, 대만 예술교육의 제도 변혁과 인재 양성",
+    "category": "ko",
+    "tags": [
+      "예술교육",
+      "미술학과",
+      "예술대학",
+      "교원 양성",
+      "대학 제도 발전"
+    ],
+    "url": "https://taiwan.md/ko/Art/taiwanese-art-education-and-academic-development",
+    "readingTime": 33,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "ko/Art/taiwanese-art-education-and-academic-development.md"
   },
   {
     "title": "대만 온라인 커뮤니티 30년——BBS에서 Threads로의 이주사",
@@ -49673,7 +50468,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/Technology/taiwan-cybersecurity-industry-development",
-    "readingTime": 32,
+    "readingTime": 34,
     "featured": true,
     "date": "2026-03-19",
     "path": "ko/Technology/taiwan-cybersecurity-industry-development.md"
@@ -50233,7 +51028,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/Nature/cetaceans-of-taiwan",
-    "readingTime": 15,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/Nature/cetaceans-of-taiwan.md"
@@ -50406,7 +51201,7 @@
       "생태보전"
     ],
     "url": "https://taiwan.md/ko/Nature/trail-culture-and-civic-stewardship",
-    "readingTime": 27,
+    "readingTime": 28,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/Nature/trail-culture-and-civic-stewardship.md"
@@ -50626,23 +51421,6 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "ko/Food/night-market-culture.md"
-  },
-  {
-    "title": "대만의 예술 교육과 학원 발전",
-    "description": "사범 체계에서 전문 예술대학까지—대만 예술 교육의 제도적 변화와 인재 양성",
-    "category": "ko",
-    "tags": [
-      "예술 교육",
-      "미술학과",
-      "예술대학",
-      "교원 양성",
-      "학원 발전"
-    ],
-    "url": "https://taiwan.md/ko/Art/taiwanese-art-education-and-academic-development",
-    "readingTime": 24,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "ko/Art/taiwanese-art-education-and-academic-development.md"
   },
   {
     "title": "대만의 오토바이 문화",
@@ -51139,11 +51917,19 @@
   },
   {
     "title": "동물원과 전시 동물 윤리",
-    "description": "철장 속 코끼리에서 Xpark의 해파리 벽까지 — 대만이 전시 동물과의 관계를 새롭게 정의하는 과정",
+    "description": "철창 속 코끼리에서 Xpark의 해파리 벽까지—대만이 인간과 전시되는 동물의 관계를 새롭게 정의하고 있다",
     "category": "ko",
-    "tags": [],
+    "tags": [
+      "동물원",
+      "전시 동물",
+      "동물 복지",
+      "Xpark",
+      "타이베이 동물원",
+      "동물 윤리",
+      "신주 동물원"
+    ],
     "url": "https://taiwan.md/ko/Society/zoo-and-exhibition-animal-ethics",
-    "readingTime": 29,
+    "readingTime": 31,
     "featured": false,
     "date": "2026-03-18",
     "path": "ko/Society/zoo-and-exhibition-animal-ethics.md"
@@ -51165,6 +51951,23 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "ko/Economy/taiwanese-companies-far-eastern-group.md"
+  },
+  {
+    "title": "동시대 원주민 싱어송라이터",
+    "description": "장후이메이에서 수밍, 삼부이까지, 타이완 원주민 가수들이 현대 음악 속에서 오래된 영혼을 계승하며 독특한 동시대 원주민 음악 풍경을 만들어 온 방식",
+    "category": "ko",
+    "tags": [
+      "원주민 가수",
+      "대중음악",
+      "문화 융합",
+      "금곡상",
+      "동시대 창작"
+    ],
+    "url": "https://taiwan.md/ko/Music/contemporary-indigenous-singer-songwriters",
+    "readingTime": 40,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ko/Music/contemporary-indigenous-singer-songwriters.md"
   },
   {
     "title": "두이진 — PTT 창시자에서 비영리 AI 연구소 설립자까지",
@@ -51204,6 +52007,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "ko/Technology/digital-id-and-digital-government.md"
+  },
+  {
+    "title": "디지털 황무지: 상업 모델 없는 온라인 예술비평 플랫폼은 어떻게 12년을 버텼는가",
+    "description": "2011년 11월, 정원치는 타이베이의 ‘재지실험’이라는 오래된 미디어 기관에서 종이 매체도, 광고도, 구독료도 없는 온라인 글쓰기 기획을 시작했다. 12년 뒤 그것은 56개 주제호, 384편의 글, 31편의 팟캐스트, 10권의 『군도 데이터베이스』를 축적했다. 같은 시기 같은 유형, 곧 ‘종이 매체 모체 없음 + 물리적 공간 없음 + 개인 편집장 driven’이라는 세 조건을 모두 갖춘 중국어권 예술비평 플랫폼 가운데 동시대에 생존한 사례는 없다. 그것이 버틸 수 있었던 것은 세 겹의 quiet infrastructure가 정교하게 포개졌기 때문이다. 기관 모체가 기본 비용을 떠안고, 공공 부문 프로젝트가 단기 콘텐츠를 보충했으며, 편집자 개인의 12년 노동이 남은 gap을 메웠다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/Art/no-mans-land-art-platform",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "ko/Art/no-mans-land-art-platform.md"
   },
   {
     "title": "라대우: 방사선과 의사 출신, 1982년 《지호야자》에서 2025년 신앨범까지",
@@ -51313,7 +52127,7 @@
       "남북 차이"
     ],
     "url": "https://taiwan.md/ko/Food/braised-pork-rice",
-    "readingTime": 16,
+    "readingTime": 18,
     "featured": true,
     "date": "2026-03-19",
     "path": "ko/Food/braised-pork-rice.md"
@@ -51540,7 +52354,7 @@
       "화어 영화"
     ],
     "url": "https://taiwan.md/ko/People/brigitte-lin-legendary-actress",
-    "readingTime": 12,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/brigitte-lin-legendary-actress.md"
@@ -52049,9 +52863,9 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/People/park-sung-eun",
-    "readingTime": 8,
+    "readingTime": 9,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ko/People/park-sung-eun.md"
   },
   {
@@ -52103,13 +52917,13 @@
   },
   {
     "title": "변하율: CTBC 한국 치어의 시즌 넘는 기둥",
-    "description": "명성 아래 감정 노동과 프로로서의 회복탄력을 보여 주는 사례.",
+    "description": "CTBC 브라더스의 한국 응원 대표에서 시즌을 넘는 잔류까지—높은 인기 뒤에서 그녀는 공개 인터뷰에서 가족 건강 문제가 자신의 감정에 끼친 영향을 솔직히 털어놓으며 응원 노동자의 실제 압력 면을 보여 주었다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/People/byun-ha-yul",
     "readingTime": 8,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ko/People/byun-ha-yul.md"
   },
   {
@@ -52229,17 +53043,6 @@
     "featured": true,
     "date": "2026-04-24",
     "path": "ko/Art/mountain-makers-tsmc-documentary.md"
-  },
-  {
-    "title": "삼협차: 「청심감자(青心柑仔)」의 나선형 전환에서 여름차 가치의 밀향(蜜香) 업그레이드까지",
-    "description": "삼협은 대만에서 가장 대표적인 전문 볶청(炒菁) 녹차 산지이며, 그 산업의 역사란 「적응」에 관한 장기적인 실험이다. 청나라 동치(同治) 연간의 존 도드(John Dodd) 발견부터 일제강점기 녹차 수출의 탄압, 1990년대 말 비루춘(碧螺春)의 공식 명명에 이르기까지, 삼협의 농부들은 고유 품종과 토지 개발의 틈바구니 속에서 대만 녹차의 토착적 기준을 그려냈다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/Food/sanxia-tea",
-    "readingTime": 27,
-    "featured": false,
-    "date": "2026-04-26",
-    "path": "ko/Food/sanxia-tea.md"
   },
   {
     "title": "삽을 든 슈퍼히어로와 섬의 공시성: 대만 재난 자원봉사 문화가 국가 정체성을 형성하는 방식",
@@ -52694,24 +53497,6 @@
     "path": "ko/Society/taiwan-tv-content-rating-system.md"
   },
   {
-    "title": "스타트업 생태계",
-    "description": "대만 스타트업 생태계의 발전 과정, 초기의 도전에서 현재의 액셀러레이터, 벤처캐피털 환경, 유니콘 기업 추구까지",
-    "category": "ko",
-    "tags": [
-      "스타트업",
-      "창업",
-      "벤처캐피털",
-      "액셀러레이터",
-      "AppWorks",
-      "유니콘"
-    ],
-    "url": "https://taiwan.md/ko/Economy/taiwan-startup-ecosystem-overview",
-    "readingTime": 20,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ko/Economy/taiwan-startup-ecosystem-overview.md"
-  },
-  {
     "title": "스탠 시 — 1조 원의 수업료를 낸 창업 교부",
     "description": "1조 원대 손실을 공개 인정한 Acer 창립자, 스마일 커브 이론으로 세계 경영학계에 이름을 새긴 대만 IT 산업의 아이콘",
     "category": "ko",
@@ -52787,6 +53572,35 @@
     "featured": false,
     "date": "2026-04-20",
     "path": "ko/Culture/divine-pig-festival.md"
+  },
+  {
+    "title": "신생 벤처 생태계",
+    "description": "대만 신생 벤처 생태계의 발전 과정, 초기의 도전부터 현재의 액셀러레이터, 벤처투자 환경과 유니콘 추구까지",
+    "category": "ko",
+    "tags": [
+      "신생 벤처",
+      "창업",
+      "벤처투자",
+      "액셀러레이터",
+      "AppWorks",
+      "유니콘"
+    ],
+    "url": "https://taiwan.md/ko/Economy/taiwan-startup-ecosystem-overview",
+    "readingTime": 47,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ko/Economy/taiwan-startup-ecosystem-overview.md"
+  },
+  {
+    "title": "싼샤 차: 「칭신간자이」의 나선형 전환에서 여름차 가치의 밀향 고도화까지",
+    "description": "싼샤는 대만을 대표하는 전문 덖음 녹차 산지이며, 그 산업 경로는 「적응」에 관한 장기 실험이었다. 청나라 동치 연간 존 도드의 발견에서 일제 시기 녹차 수출의 억압, 다시 1990년대 말 벽라춘의 공식 명명에 이르기까지, 싼샤 차농들은 고유 품종과 토지 개발의 틈새에서 대만 녹차의 지역 표준을 그려냈다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/Food/sanxia-tea",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "ko/Food/sanxia-tea.md"
   },
   {
     "title": "쓰레기차를 쫓는 섬: 대만의 쓰레기 위기에서 재활용 기적으로",
@@ -52909,13 +53723,13 @@
   },
   {
     "title": "안지현: 한국 프로 치어에서 가오슝 생활까지",
-    "description": "대만 한국 치어의 길을 ‘날아다니는 공연’에서 ‘여기 살기’로 넓힌 인물.",
+    "description": "한국 프로 치어에서 타이강 윙 스타즈의 주력 외국인 멤버로—국경을 넘는 공연 경험을 가오슝 홈구장에 가져오고, 2026년 타이베이 돔 일정 또한 부상 조정과 사이드 라인 역할을 관찰할 수 있는 공개적 분기점이 되고 있다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/People/ahn-ji-hyun",
     "readingTime": 7,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ko/People/ahn-ji-hyun.md"
   },
   {
@@ -53520,7 +54334,7 @@
     "path": "ko/Society/mainlanders-in-taiwan.md"
   },
   {
-    "title": "우다유",
+    "title": "우다유: 양진닝·리젠다오를 미국으로 추천한 중원원 원장, 대만 과학연구 기초의 11년",
     "description": "이론물리학자, 중원원(中央研究院) 원장. 양진닝(楊振寧), 리젠다오(李政道) 두 명의 노벨상 수상자를 양성하고 대만 과학의 기초를 닦은 일대 종사",
     "category": "ko",
     "tags": [
@@ -53824,9 +54638,9 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/People/lee-da-hye",
-    "readingTime": 8,
+    "readingTime": 10,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ko/People/lee-da-hye.md"
   },
   {
@@ -53934,7 +54748,7 @@
     "url": "https://taiwan.md/ko/People/lee-ah-young",
     "readingTime": 8,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ko/People/lee-ah-young.md"
   },
   {
@@ -53984,9 +54798,9 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/People/lee-ju-eun-singer",
-    "readingTime": 7,
+    "readingTime": 8,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ko/People/lee-ju-eun-singer.md"
   },
   {
@@ -53997,7 +54811,7 @@
     "url": "https://taiwan.md/ko/People/lee-ho-jung",
     "readingTime": 7,
     "featured": false,
-    "date": "2026-04-14",
+    "date": "2026-05-13",
     "path": "ko/People/lee-ho-jung.md"
   },
   {
@@ -54290,6 +55104,25 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "ko/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md"
+  },
+  {
+    "title": "장중머우",
+    "description": "반도체의 대부이자 TSMC 창업자로, 웨이퍼 파운드리 모델로 세계 기술 산업을 바꾼 전설적 기업가",
+    "category": "ko",
+    "tags": [
+      "인물",
+      "장중머우",
+      "TSMC",
+      "반도체",
+      "기업가",
+      "웨이퍼 파운드리",
+      "호국신산"
+    ],
+    "url": "https://taiwan.md/ko/People/tsmc-morris-chang",
+    "readingTime": 54,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "ko/People/tsmc-morris-chang.md"
   },
   {
     "title": "장치치(張志祺): 도불부(圖文不符)에서 치치치칠(志祺七七)까지, 양극화 시대에서 대화를 찾는 \"정보 큐레이터\"",
@@ -55116,7 +55949,7 @@
     "path": "ko/People/tanya-chua-singer.md"
   },
   {
-    "title": "채잉웬(蔡英文)",
+    "title": "채잉웬(蔡英文): 80만 표 패배에서 817만 표 재선까지, 첫 여성 대통령",
     "description": "타이완 최초의 여성 대통령(2016-2024). 국제 무역법 학자 출신으로, 임기 중 아시아 최초의 동성결혼 전문법 제정, 정부를 대표하여 원주민에게 사과를 표명한 바 있으며, 파이완족 후손이다.",
     "category": "ko",
     "tags": [
@@ -55129,7 +55962,7 @@
       "원주민"
     ],
     "url": "https://taiwan.md/ko/People/tsai-ing-wen",
-    "readingTime": 26,
+    "readingTime": 28,
     "featured": false,
     "date": "2026-03-17",
     "path": "ko/People/tsai-ing-wen.md"
@@ -55146,12 +55979,12 @@
     "path": "ko/People/chen-shui-bian-controversial-president.md"
   },
   {
-    "title": "천수쥐 (陳樹菊)",
+    "title": "천수쥐: 타이둥의 채소 장수, 오십 년 치 채소 돈으로 수천만을 기부한 자선 인생",
     "description": "타이둥의 채소 상인, 오십 년 치 채소 판 돈으로 수천만 원을 기부하고도 \"저는 그냥 채소 장수예요\"라고 말한 사람",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/People/chen-shu-chu-vegetable-vendor-philanthropist",
-    "readingTime": 19,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
@@ -55213,6 +56046,26 @@
     "featured": false,
     "date": null,
     "path": "ko/People/chen-tzu-jian.md"
+  },
+  {
+    "title": "천젠녠: 파출소의 금곡상 가왕, 외조부가 남긴 노래를 손자가 바다로 쓰다",
+    "description": "1967년 8월 1일 타이둥 베이난 난왕부락에서 태어났다. 1986년 경찰전문학교를 졸업한 뒤 타이둥 관산에 배치되어 경찰계에서 30년 10개월을 복무했다. 1999년 33세에 첫 창작 앨범 《바다》를 발표했고, 2000년 제11회 금곡상에서 장쉐유, 왕리훙, 타오저, 위청칭을 제치고 최우수 만다린 남자 가수상을 받았으며, 같은 회차에서 〈신화〉로 최우수 작곡상도 받았다. 시상대 위의 그는 여전히 경찰이었다. 같은 해 9월 소란을 피하려 란위 전근을 신청했고, 은퇴할 때까지 17년을 머물렀다. 외조부 루썬바오는 〈아름다운 벼 이삭〉의 작자였고, 손자는 30년에 걸쳐서야 그 음악의 선을 이어받았다.",
+    "category": "ko",
+    "tags": [
+      "음악",
+      "원주민",
+      "베이난족",
+      "금곡상",
+      "바다",
+      "란위",
+      "경찰",
+      "싱어송라이터"
+    ],
+    "url": "https://taiwan.md/ko/People/chen-chien-nien",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "ko/People/chen-chien-nien.md"
   },
   {
     "title": "천젠런 (陳建仁)",
@@ -55425,6 +56278,17 @@
     "path": "ko/Art/chi-po-hao-musician.md"
   },
   {
+    "title": "칭톈강: 초원, 벙커, 물소가 벌인 백년의 줄다리기",
+    "description": "케타갈란족의 사냥터에서 청대 '허난용'의 주둔지로, 일제강점기 다이레이토게 목장의 번성에서 장징궈가 '칭톈강'이라 명명한 군사적 함의에 이르기까지, 이 화산 초원은 타이베이 시민의 뒷마당일 뿐 아니라 군사, 목축, 생태 보전, 인간과 물소의 공존이라는 여러 의지가 백 년 동안 충돌해 온 현장이다. 2020년 겨울의 물소 폐사 사건은 국립공원 관리에서 '인간과 소의 분리' 정책이 초래한 깊은 대가와, 인간과 자연의 공존을 둘러싼 영원한 물음을 드러냈다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/Geography/qingtiangang",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-05-16",
+    "path": "ko/Geography/qingtiangang.md"
+  },
+  {
     "title": "커 원저: ECMO 프로토콜 확립자에서 제3세력의 기수로",
     "description": "대만 최초의 무소속 타이베이 시장, 한 중증의학 교수의 파란만장한 정치사",
     "category": "ko",
@@ -55530,6 +56394,17 @@
     "featured": false,
     "date": "2026-05-05",
     "path": "ko/Society/taipei-rat-problem.md"
+  },
+  {
+    "title": "타이완 VTuber: 기업 실험에서 ‘대중권 진입’으로 나아간 가상과 현실의 공생적 진화",
+    "description": "2017년, 가상 소녀 후니가 Yahoo TV에 등장하며 타이완 VTuber 산업의 문을 열었다. 초기의 기업 기술 실험에서 2025년 타이완 전역 누적 3,000명 이상의 VTuber 데뷔에 이르기까지, 이 흐름은 올림픽 협업과 대만어 부흥을 가로지르는 문화 생태계로 진화했다. 그가 이끈 Super Chat 경제는 수천만 대만달러 규모에 이르렀지만, 개인 창작자들은 여전히 높은 비용과 높은 유동성이라는 도전에 직면해 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/Culture/taiwan-vtuber",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "ko/Culture/taiwan-vtuber.md"
   },
   {
     "title": "타이완 YouBike 문화와 도시 마이크로모빌리티 혁명",
@@ -55672,11 +56547,19 @@
   },
   {
     "title": "타이완 민요 운동",
-    "description": "\"우리 노래를 부르자\"에서 중화권 음악계 전체를 바꾸다—1970년대 청년들의 문화 혁명",
+    "description": "\"우리 자신의 노래를 부르자\"에서 중화권 음악계 전체의 변혁까지—1970년대 청년들의 문화 혁명",
     "category": "ko",
-    "tags": [],
+    "tags": [
+      "민요 운동",
+      "캠퍼스 민요",
+      "금운상",
+      "리쉬앙쩌",
+      "양셴",
+      "후더푸",
+      "우리 자신의 노래를 부르자"
+    ],
     "url": "https://taiwan.md/ko/Music/taiwan-campus-folk-song-movement",
-    "readingTime": 24,
+    "readingTime": 27,
     "featured": false,
     "date": "2026-03-18",
     "path": "ko/Music/taiwan-campus-folk-song-movement.md"
@@ -55729,7 +56612,7 @@
       "85도씨"
     ],
     "url": "https://taiwan.md/ko/Food/taiwan-bread-and-baking",
-    "readingTime": 17,
+    "readingTime": 19,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/Food/taiwan-bread-and-baking.md"
@@ -55882,7 +56765,7 @@
       "야시장"
     ],
     "url": "https://taiwan.md/ko/Food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 14,
+    "readingTime": 16,
     "featured": true,
     "date": "2026-03-19",
     "path": "ko/Food/taiwanese-salt-and-pepper-fried-chicken.md"
@@ -55899,7 +56782,7 @@
       "채식식당"
     ],
     "url": "https://taiwan.md/ko/Food/taiwan-vegetarian-culture",
-    "readingTime": 18,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/Food/taiwan-vegetarian-culture.md"
@@ -56007,7 +56890,7 @@
   },
   {
     "title": "타이완 흑곰(台灣黑熊)",
-    "description": "가슴의 하얀 V자가 이 곰의 서명이다 — 타이완 산림 최후의 왕자, 그리고 끝나지 않은 보전의 전쟁",
+    "description": "가슴의 하얀 V자가 이 곰의 서명이다, 그리고 끝나지 않은 보전의 전쟁",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/Nature/taiwan-black-bear-guardian-of-forests",
@@ -56530,7 +57413,7 @@
       "2024"
     ],
     "url": "https://taiwan.md/ko/People/han-kuo-yu",
-    "readingTime": 35,
+    "readingTime": 36,
     "featured": true,
     "date": "2026-04-11",
     "path": "ko/People/han-kuo-yu.md"
@@ -56696,23 +57579,6 @@
     "featured": false,
     "date": "2026-03-29",
     "path": "ko/People/henry-lee-forensic.md"
-  },
-  {
-    "title": "현대 원주민 창작 가수",
-    "description": "장후이메이부터 수밍, 상부이까지, 타이완 원주민 가수들이 현대 음악 속에서 오래된 영혼을 전승하며 독자적인 당대 원주민 음악의 풍경을 만들어 온 과정",
-    "category": "ko",
-    "tags": [
-      "원주민 가수",
-      "팝 음악",
-      "문화 융합",
-      "금곡상",
-      "현대 창작"
-    ],
-    "url": "https://taiwan.md/ko/Music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 26,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ko/Music/contemporary-indigenous-singer-songwriters.md"
   },
   {
     "title": "홍싱푸: 너무 일찍 떨어진 향토 문학의 별",
@@ -57233,12 +58099,12 @@
     "path": "ja/Society/taiwan-tv-content-rating-system.md"
   },
   {
-    "title": "スタートアップエコシステム",
-    "description": "台湾のスタートアップエコシステムの発展の歩みを、初期の課題から現在のアクセラレーター、ベンチャーキャピタル環境、ユニコーン企業の追求まで解説します。",
+    "title": "スタートアップ・エコシステム",
+    "description": "台湾のスタートアップ・エコシステムの発展過程を、初期の課題から現在のアクセラレーター、ベンチャーキャピタル環境、ユニコーン追求まで概観します",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/Economy/taiwan-startup-ecosystem-overview",
-    "readingTime": 16,
+    "readingTime": 44,
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Economy/taiwan-startup-ecosystem-overview.md"
@@ -57275,6 +58141,17 @@
     "featured": true,
     "date": "2026-04-12",
     "path": "ja/People/charles-le-gendre.md"
+  },
+  {
+    "title": "デジタル荒原：商業モデルのないオンライン芸術評論プラットフォームはいかに12年間生き延びたのですか",
+    "description": "2011年11月、鄭文琦は台北の「在地實驗」という旧メディア機関で、紙媒体も広告も購読料もないオンライン執筆計画を始めました。12年後、それは56期の特集、384本の記事、31回のpodcast、10冊の『群島資料庫』を蓄積しました。同時期・同類型で「紙媒体の母体なし + 実体空間なし + 個人編集長 driven」という三条件を備えた中国語芸術評論プラットフォームに、同時期まで存続した事例はありません。それを支えたのは、三層の quiet infrastructure の精密な重なりです。機関母体が基本コストを引き受け、公的部門のプロジェクトが単期コンテンツを補い、編集者個人の12年にわたる労働が残りの gap を埋めたのです。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/Art/no-mans-land-art-platform",
+    "readingTime": 71,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "ja/Art/no-mans-land-art-platform.md"
   },
   {
     "title": "デジタルIDとデジタル政府",

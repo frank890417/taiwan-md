@@ -8,13 +8,13 @@ subcategory: '戰後與威權'
 category: 'History'
 author: 'Taiwan.md'
 featured: true
-lastVerified: 2026-04-04
+lastVerified: 2026-05-16
 lastHumanReview: false
 translatedFrom: 'History/戒嚴時期.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:87b991cbce460289'
-sourceBodyHash: 'sha256:c2f0ee19422b9dcf'
-translatedAt: '2026-05-02T11:00:00+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:c8b50f1d09b2fa84'
+sourceBodyHash: 'sha256:028c0bee94ad5d00'
+translatedAt: '2026-05-17T05:55:00Z'
 ---
 
 # Martial Law Era
@@ -24,11 +24,9 @@ translatedAt: '2026-05-02T11:00:00+08:00'
 > **📝 Curator's note**
 > For many families, the martial law era has never receded — the stories of 140,000 victim families live on, and they have never been fully told.
 
-## The Night Lei Chen Was Imprisoned
+## Lei Chen's Eleven Years in Prison
 
-In the early hours of April 28, 1960, secret police knocked on Lei Chen's door[^1]. This political scientist who had run for president in 1960 was arrested on charges of "harboring communist spies." His wife Chao Ju-ying cried out outside the door; Lei Chen turned back and said to her: "Don't cry, I'll come back."
-
-He didn't come back. Lei Chen spent 11 years in prison, not released until 1970. During those 11 years, Taiwan was under martial law.
+On September 4, 1960, the Taiwan Garrison Command arrested Lei Chen on charges of "harboring communist spies" and "knowing of communist spies and failing to report"[^1]. The political scientist, who had been organizing the "China Democratic Party" to compete with the KMT, would spend the next 11 years in prison before being released in 1970. During those 11 years, Taiwan was under martial law.
 
 > **✦** "A pure-text BBS from 30 years ago is still influencing Taiwanese politics today." The martial law era is the key to understanding Taiwan's modern political development, but few ask: why was martial law able to last 38 years?
 
@@ -49,9 +47,9 @@ This decision pushed Taiwan into one of the longest periods of martial law in wo
 
 The martial law period was accompanied by severe political persecution, known as the "White Terror." In the name of anti-communism, the government carried out mass arrests, trials, imprisonment, or execution of political dissidents.
 
-According to official Ministry of Justice data, during 38 years of martial law, military tribunals adjudicated 29,407 criminal cases involving non-active-duty military personnel[^4]. Civilian statistics show that political cases involved approximately 140,000 people, with estimates of around 4,500 executed.
+According to official Ministry of Justice data, during 38 years of martial law, military tribunals adjudicated 29,407 criminal cases involving non-active-duty military personnel[^4]. Civilian statistics show that political cases involved approximately 140,000 people, with estimates of around 4,500 executed — this is the upper-bound estimate for "executions linked to political cases."
 
-The Taiwan Association for Truth and Reconciliation counted 1,061 death-penalty victims during the martial law period (as of 2013)[^5].
+Taiwan's Association for Truth and Reconciliation, applying a stricter "confirmed military-tribunal death sentence" criterion, identified 1,061 death-penalty victims during the martial law period (as of 2013)[^5]. Both numbers coexist: 4,500 is an estimate, 1,061 is verified; the gap reflects the incompleteness of authoritarian-era archives.
 
 > **📊 Data source**
 > The Ministry of Justice statistics show 29,407 military tribunal cases during the martial law period; civilian statistics show approximately 140,000 victims, with executions of 1,061–4,500.
@@ -95,9 +93,9 @@ Last political prisoners: In December 1984, Lin Shu-yang and Li Chin-mu were rel
 
 The political legacy left by the martial law era still influences Taiwan today. Authoritarian thinking, polarized opposition, complex identity issues. These are all legacies of the martial law era.
 
-Transitional justice has become an effort to face this history: investigating human rights violations during the authoritarian period, providing compensation to political victims, preserving historical witness from the martial law era.
+The transitional justice project took three decades to move from investigation to legislation. In December 2017 the Legislative Yuan passed the Act on Promoting Transitional Justice; in May 2018 the Executive Yuan established the "Transitional Justice Commission"; after the task-force agency was dissolved in May 2022, its work was transferred to the National Human Rights Museum, the Ministry of Justice, and the National Development Council to continue[^9]. The National Human Rights Museum's Jingmei and Green Island parks have been progressively opened to the public; disputes over compensation to victims and the legal reservation for preserving sites of injustice are still not fully resolved as of 2026.
 
-The experience of martial law has become an important reference for Taiwan's democratic development: emphasis on basic human rights, insistence on rule of law, vibrant civil society participation.
+Martial law left democratic Taiwan three everyday reflexes: emphasis on basic human rights, insistence on rule by law, and vibrant civil-society participation.
 
 > **📝 Curator's note**
 > The martial law era is a dark chapter in Taiwan's history, but also a catalyst for the awakening of democratic consciousness. To remember this history is to ensure similar tragedies do not repeat.
@@ -114,21 +112,23 @@ If, in 2050, someone wants to know what Taiwanese in 1987 cared about, what they
 
 ## References
 
-[^1]: [Lei Chen - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%9B%B7%E9%9C%87) — Lei Chen, the political scientist who ran for president in 1960, was imprisoned 11 years on charges of "harboring communist spies."
+[^1]: [Lei Chen - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%9B%B7%E9%9C%87) — In 1960, while organizing the "China Democratic Party," Lei Chen was arrested on September 4 by the Taiwan Garrison Command on charges of "harboring communist spies" and "knowing of communist spies and failing to report," and was imprisoned for 11 years.
 
 [^2]: [Taiwan Province Martial Law Decree - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4) — Issued May 19, 1949, taking effect at midnight on May 20.
 
-[^3]: [Martial Law Act - Wikipedia](https://zh.wikipedia.org/wiki/%E6%88%92%E5%9A%B4%E6%B3%95) — The act under which the highest commander of the martial law area takes charge of administrative and judicial affairs during martial law.
+[^3]: [Laws & Regulations Database: Martial Law Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=F0070002) — Full text of the Martial Law Act in the Ministry of Justice's national laws database, stipulating that during martial law the highest commander of the affected area takes charge of administrative and judicial affairs.
 
 [^4]: [Taiwan White Terror Era - Ministry of Justice](https://www.moj.gov.tw/) — Ministry of Justice statistics: 29,407 military tribunal cases during the martial law period.
 
 [^5]: [Taiwan Association for Truth and Reconciliation](https://www.taiwantrc.org/) — Statistics show 1,061 death-penalty victims during the martial law period (as of 2013).
 
-[^6]: [Joint Surety System - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%80%94%E5%BA%A7%E4%BF%9D%E8%AD%98%E5%88%B6%E5%BA%A6) — A political vetting system implemented starting July 1949.
+[^6]: [Civil Historical Archives Digital Platform 1937-1949: Family Stories on Your Household Records — Police Governance and the Joint Surety System](https://www.19371949.org.tw/archives/1750) — A feature article documenting the joint surety system implemented in post-war Taiwan from July 1949, and its role in household-registration governance and political vetting.
 
 [^7]: [Lifting of Martial Law - Wikipedia](https://zh.wikipedia.org/zh-hant/%E8%A7%A3%E5%9A%B4) — On July 14, 1987, presidential order lifted martial law over the Taiwan area.
 
-[^8]: [Lifting of Martial Law in Kinmen-Matsu - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%87%91%E9%A6%AC%E5%9C%B0%E5%8D%80%E8%A7%A3%E5%9A%B4) — Kinmen-Matsu martial law not lifted until November 7, 1992.
+[^8]: [Wikipedia: Battlefield Administration](https://zh.wikipedia.org/zh-tw/%E6%88%B0%E5%9C%B0%E6%94%BF%E5%8B%99) — Chinese Wikipedia's full "Battlefield Administration" entry, documenting battlefield administration starting in 1956 for Kinmen and on July 16, 1956 for Matsu, until both regions simultaneously ended battlefield administration and lifted martial law on November 7, 1992.
+
+[^9]: [Wikipedia: Transitional Justice Commission](https://zh.wikipedia.org/zh-tw/%E4%BF%83%E9%80%B2%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E5%A7%94%E5%93%A1%E6%9C%83) — Chinese Wikipedia's full "Transitional Justice Commission" entry, documenting the December 2017 passage of the Act on Promoting Transitional Justice, the Executive Yuan's establishment of the task-force agency on May 31, 2018, and its dissolution on May 30, 2022, with handover of operations to the National Human Rights Museum, Ministry of Justice, and National Development Council.
 
 **Further reading**:
 

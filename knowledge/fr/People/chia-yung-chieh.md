@@ -21,8 +21,8 @@ lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: People/賈永婕.md
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:75e15983d85e7cbb'
-sourceBodyHash: 'sha256:b066532f1f8eec6b'
+sourceContentHash: 'sha256:a92f6a6b22257ffa'
+sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
 translatedAt: '2026-05-09T06:31:03Z'
 ---
 

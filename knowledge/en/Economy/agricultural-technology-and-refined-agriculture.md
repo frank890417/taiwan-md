@@ -18,10 +18,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/農業科技與精緻農業.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:7c173ab223ebcfab'
-sourceBodyHash: 'sha256:6a3f109cd6a40c81'
-translatedAt: '2026-05-15T13:52:05+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:cad6938758da3c7e'
+sourceBodyHash: 'sha256:7f2dcf08f6952b25'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 # Agricultural Technology and Refined Agriculture
@@ -87,7 +87,7 @@ Taiwan is known as the "Orchid Kingdom" and is one of the world's most important
 **International competitiveness**: The main export markets are the United States, Japan, the European Union, and South Korea. Taiwan's share of the U.S. high-end orchid market, including potted flowers and seedlings, exceeds 70%. It has also established production bases in China and Vietnam to export technology.
 
 **Keys to success**
-The orchid research team at the Tainan District Agricultural Research and Extension Station of the Ministry of Agriculture spent 30 years building the orchid industry system.[^2] From the collection and preservation of native orchids to hybrid breeding, tissue culture, and cultivation techniques, it covers the entire industry chain from breeding to export.
+The orchid research team at the Tainan District Agricultural Research and Extension Station of the Ministry of Agriculture spent 30 years building the orchid industry system.[^2] From the collection and preservation of native orchids to hybrid breeding, tissue culture, and cultivation techniques, it covers the entire industry chain from breeding to export. On the export side, Houbi (Tainan) and Tianwei (Changhua) are the main export hubs for Phalaenopsis seedlings; U.S. floral retail channels (Costco, Trader Joe's, Whole Foods and other supermarkets) form the largest mass-market outlet; the Aalsmeer flower auction in the Netherlands and the Cultivate trade show in the U.S. are the main stages for cultivating high-end wholesale buyers in Europe and North America; and licensing arrangements with Japanese breeders allow Taiwanese orchid producers to keep earning royalties on plant-variety IP. Because orchid seedlings are shipped via air cold chain, the industry has also had a visible knock-on effect on Taiwan's air-cargo system and flower cold-storage infrastructure.
 
 ### Atemoya: A New Star of Taiwan Agriculture
 
@@ -121,6 +121,10 @@ The three core technology modules of precision agriculture support one another. 
 ### AI Applications
 
 The main use cases for AI in agriculture include drones carrying multispectral cameras to monitor crop growth, AI analysis of plant diseases with accuracy above 95%, and automated quality grading to improve efficiency. In predictive analysis, AI combines historical weather data to forecast the optimal cultivation timing, market prices, and probabilities of pest and disease occurrence. Smart decision-support systems integrate sensor data to provide cultivation recommendations and regulate greenhouse environments, reducing overall production costs by 20-30%.
+
+### Agricultural Mechanization and Crop-Protection Drones
+
+Taiwan's agricultural drone industry has grown rapidly in recent years. In 2023 the total area treated by agricultural drones across Taiwan exceeded 1.5 million hectare-passes, and more than 3,000 registered units are in operation, making Taiwan one of the regions with the highest density of agricultural drones in the world[^5]. Compared with conventional ground spraying, drone crop protection can reduce per-hectare pesticide use by more than 30%, and drones can reach hillside terraces and remote farmland to fill in for shortages of farm labor. The Ministry of Agriculture provides purchase subsidies for combines, rice transplanters, drones, and other agricultural machinery, helping farmers absorb the upfront cost of mechanization. Robotic harvesters for fruits and vegetables are still in field-trial stage, but several startups have demonstrated production-ready prototypes on strawberries, cucumbers, and similar crops, with commercialization expected between 2026 and 2028.
 
 ## Government Policies and Support
 

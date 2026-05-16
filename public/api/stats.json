@@ -1,28 +1,28 @@
 {
-  "totalArticles": 4255,
+  "totalArticles": 4290,
   "totalCategories": 20,
   "estimatedContributors": 57,
-  "totalTags": 5135,
+  "totalTags": 5376,
   "categories": [
     {
       "name": "es",
-      "count": 700
+      "count": 706
     },
     {
       "name": "ko",
-      "count": 704
+      "count": 710
     },
     {
       "name": "fr",
-      "count": 720
+      "count": 726
     },
     {
       "name": "en",
-      "count": 721
+      "count": 727
     },
     {
       "name": "ja",
-      "count": 709
+      "count": 715
     },
     {
       "name": "History",
@@ -34,11 +34,11 @@
     },
     {
       "name": "Culture",
-      "count": 59
+      "count": 60
     },
     {
       "name": "People",
-      "count": 216
+      "count": 218
     },
     {
       "name": "Music",
@@ -70,7 +70,7 @@
     },
     {
       "name": "Art",
-      "count": 31
+      "count": 33
     },
     {
       "name": "About",
@@ -92,7 +92,7 @@
     },
     {
       "name": "人物",
-      "count": 62
+      "count": 64
     },
     {
       "name": "企業",
@@ -112,14 +112,14 @@
     },
     {
       "name": "文學",
-      "count": 23
+      "count": 24
     },
     {
       "name": "體育",
-      "count": 23
+      "count": 24
     },
     {
-      "name": "半導體",
+      "name": "金曲獎",
       "count": 23
     },
     {
@@ -127,7 +127,23 @@
       "count": 23
     },
     {
+      "name": "TSMC",
+      "count": 22
+    },
+    {
       "name": "YouTuber",
+      "count": 22
+    },
+    {
+      "name": "民主化",
+      "count": 22
+    },
+    {
+      "name": "半導體",
+      "count": 22
+    },
+    {
+      "name": "原住民",
       "count": 22
     },
     {
@@ -135,11 +151,11 @@
       "count": 22
     },
     {
-      "name": "民主化",
-      "count": 21
+      "name": "인물",
+      "count": 22
     },
     {
-      "name": "金曲獎",
+      "name": "音樂",
       "count": 21
     },
     {
@@ -147,34 +163,18 @@
       "count": 21
     },
     {
-      "name": "인물",
-      "count": 21
-    },
-    {
       "name": "歷史",
       "count": 20
-    },
-    {
-      "name": "音樂",
-      "count": 20
-    },
-    {
-      "name": "경제",
-      "count": 20
-    },
-    {
-      "name": "역사",
-      "count": 19
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4255,
+    "zh-TW": 4290,
     "en": 0
   },
-  "lastUpdated": "2026-05-16T15:09:20.525Z",
-  "stars": 990,
+  "lastUpdated": "2026-05-16T22:12:24.098Z",
+  "stars": 991,
   "forks": 147,
-  "zhPages": 3534,
-  "enPages": 721,
-  "totalPages": 4255
+  "zhPages": 3563,
+  "enPages": 727,
+  "totalPages": 4290
 }

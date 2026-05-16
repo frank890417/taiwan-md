@@ -1,617 +1,406 @@
 ---
 title: 'Morris Chang'
-description: 'The semiconductor patriarch and founder of TSMC, the legendary entrepreneur who reshaped the global tech industry with the pure-play foundry model'
+description: 'The father of semiconductors, founder of TSMC, and legendary entrepreneur who transformed the global technology industry through the wafer foundry model'
 date: 2026-03-17
-tags:
-  [
-    'People',
-    'Morris Chang',
-    'TSMC',
-    'Semiconductor',
-    'Entrepreneur',
-    'Foundry',
-    'Silicon Shield',
-  ]
-subcategory: 'Tech & Business'
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '科技與企業'
+tags: ['People', 'Morris Chang', 'TSMC', 'Semiconductors', 'Entrepreneur', 'Wafer Foundry', 'Sacred Mountain Protecting the Nation']
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-lifeTree:
-  protagonist: 'Morris Chang (張忠謀)'
-  birthYear: 1931
-  span: '1931–2018'
-  source:
-    article: 'knowledge/People/張忠謀.md'
-    commit: '2acf410b'
-    commitDate: '2026-03-17'
-    extractedBy: 'Taiwan.md (Semiont) β-r5'
-    extractedAt: '2026-04-26 13:30 +0800'
-    note: 'Original article has no footnotes; sources inferred from references section (autobiography / TSMC annual reports / Wikipedia / ITRI / NTHU) plus public historical records. A few psychological motivations marked [speculative].'
-  intro: 'A son of a Chinese banker who fled to Hong Kong at 14, enrolled in Harvard Literature at 18, switched to MIT Engineering at 20, and at 54 left a US vice-president post to found TSMC in Taiwan. This tree maps every crossroads he chose (geographic, skills, business model, succession) and those he did not — from the Harvard literature path to staying safely in America to continuing the IDM model.'
-  themes:
-    - id: homeland
-      label: 'Overseas vs Homeland'
-      color: '#10B981'
-    - id: expert-leader
-      label: 'Engineer vs Executive'
-      color: '#8B5CF6'
-    - id: business-model
-      label: 'Integrated vs Foundry'
-      color: '#F59E0B'
-    - id: succession
-      label: 'In Office vs Legacy'
-      color: '#EC4899'
-  nodes:
-    - id: birth
-      year: 1931
-      age: 0
-      type: given
-      theme: homeland
-      label: 'Born in Ningbo, Zhejiang'
-      scene: 'Father Zhang Weiguan was a banker; mother Xu Yunzheng came from a scholarly family. A literary household in a turbulent era.'
-    - id: hong-kong
-      year: 1945
-      age: 14
-      type: choice
-      theme: homeland
-      scene: 'Childhood migration: Ningbo to Shanghai to Nanjing to Chongqing to Shanghai to Guangzhou to Hong Kong. Settled in Hong Kong at 14.'
-      chose:
-        label: 'Received secondary education under the British colonial system'
-        consequence: "Hong Kong's international environment and English training laid the language and global outlook for his future in the US. It also gave him an early sense of operating as an outsider within a great-power system."
-      alternatives:
-        - label: 'Stayed on the Chinese mainland'
-          plausibility: structural
-          note: 'Most families of the same generation could not relocate to Hong Kong. Banker descendants who remained after 1949 followed a completely different trajectory — they would not have appeared in Silicon Valley.'
-        - label: 'Gone directly to the US'
-          plausibility: structural
-          note: 'A handful of wealthy families sent children directly to the US in the late 1940s. Without four years in Hong Kong, the English and international foundation would have been weaker, making Harvard admission much harder.'
-    - id: harvard-mit
-      year: 1950
-      age: 19
-      type: choice
-      theme: expert-leader
-      scene: 'Entered Harvard in 1949 to study literature. One year later, lacking passion for literature and facing financial pressures.'
-      chose:
-        label: 'Transferred to MIT Mechanical Engineering'
-        consequence: "MIT's rigorous engineering education cultivated logical thinking and problem-solving skills. Received a BS in Mechanical Engineering in 1952. This pivot from arts to technology was a defining fork."
-      alternatives:
-        - label: 'Stayed at Harvard studying literature'
-          plausibility: speculative
-          note: '[Speculative] Had he stayed, he might have pursued an academic or literary path — the semiconductor career would never have existed. But the tension of why someone interested in literature succeeded in MIT Engineering later became the reason he could view the tech industry through a humanistic lens.'
-        - label: 'Switched to business school'
-          plausibility: structural
-          note: 'Some Chinese students of the same era chose Harvard Business School. Without engineering hands-on experience, the technical roles at TI would have been inaccessible, and the precision of semiconductor manufacturing would have been opaque.'
-    - id: korea-war-civilian
-      year: 1952
-      age: 21
-      type: event
-      theme: homeland
-      label: 'Graduated from MIT during the Korean War; foreign-student status barred him from US defense-related work'
-      scene: 'Defense industry closed to foreign nationals during wartime.'
-    - id: sylvania
-      year: 1955
-      age: 24
-      type: choice
-      theme: expert-leader
-      scene: 'Three years after graduation, found a job opportunity.'
-      chose:
-        label: 'Joined Sylvania for three years in semiconductors'
-        consequence: 'First contact with the semiconductor industry. The sector was still nascent, but he keenly sensed its enormous potential. Learned the fundamentals of semiconductor manufacturing and cultivated attention to technical detail.'
-      alternatives:
-        - label: 'Joined an established mature industry'
-          plausibility: structural
-          note: 'The mainstream choices in the 1950s were automotive, mechanical, and chemical industries. Without joining semiconductors in their infancy, the TI opportunity would never have come.'
-    - id: ti-1958
-      year: 1958
-      age: 27
-      type: choice
-      theme: expert-leader
-      scene: 'Texas Instruments was aggressively building its semiconductor business.'
-      chose:
-        label: 'Joined TI as a semiconductor engineer'
-        consequence: 'Improved manufacturing processes, raised yields, reduced costs. Rose from engineer to vice president over 25 years — TI was the stage that defined his life.'
-      alternatives:
-        - label: 'Stay at Sylvania'
-          plausibility: structural
-          note: 'Sylvania gradually exited semiconductors. Had he stayed, career ceiling would have been obvious.'
-        - label: 'Found a startup'
-          plausibility: structural
-          note: "Some contemporaries chose to leave big companies and start ventures (e.g., Intel founders Noyce and Moore left Fairchild in 1968). But Chang took the grow-within-a-large-corporation path for 25 years — that patience later became the root of TSMC's play-the-long-game culture."
-    - id: stanford-phd
-      year: 1961
-      age: 30
-      type: choice
-      theme: expert-leader
-      scene: 'TI sponsored him to pursue a doctorate in Electrical Engineering at Stanford.'
-      chose:
-        label: 'Earned PhD'
-        consequence: 'Stanford EE PhD in 1964. Returned to TI in key management roles (GM of Germanium, Silicon Transistors, and IC divisions). Dual-track: technical + management.'
-      alternatives:
-        - label: 'Remain an engineer without a PhD'
-          plausibility: structural
-          note: 'Many engineers of the era skipped the doctorate; career ceiling was roughly senior/staff engineer. For the technical-management track that led to vice president, the PhD was an invisible prerequisite.'
-    - id: vp-1972
-      year: 1972
-      age: 41
-      type: choice
-      theme: expert-leader
-      scene: '14 years after joining TI as an engineer, reached the top.'
-      chose:
-        label: 'Named Group Vice President of TI and President of the Semiconductor Group'
-        consequence: "One of the highest-ranking Chinese-American executives in major American corporations at the time. Broke through the racial ceiling. Led TI's most critical business unit."
-      alternatives:
-        - label: 'Jump to a competitor'
-          plausibility: structural
-          note: 'Intel, AMD, and Motorola were all recruiting senior semiconductor executives in the 1970s. A move might have yielded a CEO title but would have sacrificed the political capital and networks accumulated at TI.'
-    - id: itri-call
-      year: 1985
-      age: 54
-      type: choice
-      theme: homeland
-      scene: 'ITRI Chairman Hsu Hsien-hsiu, Premier Yu Kuo-hua, and Policy Minister Li Kuo-ting jointly invited him.'
-      chose:
-        label: 'Returned to Taiwan as President of ITRI'
-        consequence: 'At 54, with a successful career and comfortable life in the US, returning to Taiwan was a high-risk decision. But this was the precondition for TSMC — without the ITRI presidency, there would have been no government support and no equity structure for what came next.'
-      alternatives:
-        - label: 'Stay in the US'
-          plausibility: structural
-          note: "Most Chinese-American executives of his generation chose to remain in the US until retirement. Had he stayed, a stable career — but no TSMC. Taiwan's semiconductor trajectory would have been entirely different."
-        - label: 'Go to mainland China'
-          plausibility: structural
-          note: "1985 was the seventh year of China's reform and opening. Overseas Chinese technology leaders were also being courted. Choosing the mainland would have meant being absorbed into state semiconductor plans (like SMIC later), with very different path constraints and commercial model freedom."
-    - id: tsmc-foundry
-      year: 1987
-      age: 56
-      type: choice
-      theme: business-model
-      scene: 'During his tenure at ITRI, he conceived a revolutionary business model.'
-      chose:
-        label: 'Founded TSMC with a pure-play foundry model'
-        consequence: 'Incorporated February 21, 1987, with initial capital of NT$22 billion. Broke the dominant IDM (Integrated Device Manufacturer) model. Clients could design chips without massive capital investment in fabs. Later reshaped the global semiconductor ecosystem and spawned the fabless industry.'
-      alternatives:
-        - label: 'Pursue the traditional IDM model (design + manufacture)'
-          plausibility: structural
-          note: 'The mainstream model at the time (Intel, TI, Motorola were all IDMs). Choosing IDM would have put TSMC in direct competition with Samsung and Japanese NEC — almost certainly a losing fight. The foundry model was the key to bypassing the Western IDM home field.'
-        - label: 'Design only, no manufacturing'
-          plausibility: structural
-          note: "Another direction: a Taiwanese fabless company (like MediaTek later). But in 1987, Taiwan's design capability was far behind its manufacturing potential — this route would have started too late."
-        - label: "Don't start a company; stay in ITRI doing policy"
-          plausibility: structural
-          note: 'Some returning overseas technical leaders chose a pure policy role. Had he done so, TSMC would not exist, and Taiwan would have taken another decade to catch Korea in semiconductors.'
-    - id: retire-2005
-      year: 2005
-      age: 74
-      type: choice
-      theme: succession
-      scene: 'TSMC was the global foundry leader.'
-      chose:
-        label: 'First retirement — handed CEO role to Rick Tsai — retained Chairman position'
-        consequence: 'A carefully prepared succession plan. Paved the way for corporate sustainability. But retaining the chairmanship kept strategic decision-making authority.'
-      alternatives:
-        - label: 'Complete exit'
-          plausibility: structural
-          note: 'Full retirement is the clean-exit model (like Bill Gates in 2008). But if Chang had fully stepped away, TSMC might not have found its footing when the 2008 financial crisis hit. Retaining the chairmanship was what enabled his comeback.'
-    - id: comeback-2009
-      year: 2009
-      age: 78
-      type: choice
-      theme: succession
-      scene: 'The 2008 global financial crisis battered TSMC. Revenue fell; competition intensified.'
-      chose:
-        label: 'Returned at 78 to serve again as CEO'
-        consequence: 'Stabilized market confidence, led the company through difficulty, and cultivated Liu Te-yin and Wei Che-chia as successors. A classic case of a veteran returning to rescue a ship.'
-      alternatives:
-        - label: "Don't return; let Rick Tsai handle it"
-          plausibility: structural
-          note: 'Respecting the established succession plan was the other road. But the double pressure of the financial crisis plus insufficient successor authority might have caused TSMC to miss the critical 28nm window.'
-    - id: retire-2018
-      year: 2018
-      age: 87
-      type: choice
-      theme: succession
-      scene: 'TSMC reached global process leadership under his second nine-year tenure.'
-      chose:
-        label: 'Formally retired and established co-leadership (Liu Te-yin as Chairman / Wei Che-chia as CEO)'
-        consequence: 'A model retirement. The co-leadership balanced external and internal responsibilities. A 31-year legendary career ended. Widely cited as a textbook case of corporate succession.'
-      alternatives:
-        - label: 'Single successor'
-          plausibility: structural
-          note: "The American corporate tradition (Apple with Cook, Microsoft with Nadella are both single-successor). But given TSMC's scale and two equally strong candidates, the co-leadership model avoided two-tigers-fighting while enabling complementary strengths."
-        - label: 'Stay on until 90'
-          plausibility: structural
-          note: 'The Berkshire Hathaway / Buffett model. But Chang chose to exit proactively, avoiding the risk of gerontocracy. The self-restraint itself was part of the succession quality.'
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:cd227d8ac5698cc4'
-sourceBodyHash: 'sha256:76e39b691c0dd9a1'
-translatedAt: '2026-05-01T08:56:11+08:00'
-category: People
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:fca37099653d1002'
+sourceBodyHash: 'sha256:2c14d5f13ef3ba1c'
+translatedAt: '2026-05-17T05:34:48+08:00'
 ---
 
-# Morris Chang (張忠謀)
+# Morris Chang
 
-Morris Chang — legendary entrepreneur known as the "Father of Semiconductors" — is the founder of Taiwan Semiconductor Manufacturing Company (TSMC). He not only created the world's first dedicated semiconductor foundry, but pioneered a business model that permanently altered the global technology ecosystem. From his role as a Chinese-American vice president at Texas Instruments to returning to Taiwan and building TSMC, his life traces the arc of the global semiconductor industry while cementing Taiwan's pivotal place in the global technology supply chain.
+Morris Chang, the legendary entrepreneur known as the "father of semiconductors," is the founder of Taiwan Semiconductor Manufacturing Company (TSMC). He created the world's first dedicated wafer foundry and pioneered a business model that reshaped the global technology industry. From Chinese American senior executive at Texas Instruments to founder of TSMC in Taiwan, his life traces the development of the global semiconductor industry and established Taiwan's critical position in the global technology supply chain.
 
 ## 30-Second Overview
 
-**Why the world should know Morris Chang**
+**Why should the world know Morris Chang?**
 
-TSMC, founded by Morris Chang, is not only the world's largest semiconductor foundry — it is a critical pillar of modern digital civilization. From smartphones and computers to AI chips, the vast majority of the world's advanced semiconductors are manufactured by TSMC. The "pure-play foundry" business model he created allowed countless technology companies to focus on chip design without investing enormous capital in wafer fabs, fundamentally changing the global technology industry.
+TSMC, founded by Morris Chang, is the world's most valuable wafer foundry and a crucial foundation of modern digital civilization. From smartphones and computers to artificial intelligence chips, most of the world's advanced semiconductors are manufactured by TSMC. The "pure-play foundry" business model he pioneered enabled countless technology companies to focus on chip design without having to invest enormous capital in building wafer fabs, fundamentally reshaping the global technology industry.
 
-TSMC is called Taiwan's "Silicon Shield," carrying enormous strategic significance in geopolitics. Morris Chang is not merely a successful entrepreneur — he is an innovator who changed the world, and his story is a legend of vision, perseverance, and business acumen.
+TSMC is called Taiwan's "sacred mountain protecting the nation," a phrase used in Taiwan to describe its irreplaceable strategic value in geopolitics. Chang is one of the few people in the twentieth century who genuinely changed an industry's structure: he redefined the business boundaries of the semiconductor sector and enabled Taiwan, starting from contract manufacturing, to become a central node in the global technology supply chain.
+
+Born in Ningbo, Zhejiang, in 1931 and founder of TSMC in Taiwan in 1987, Morris Chang's life is itself a condensed history of Asia's technological rise in the twentieth century.
 
 ## Early Life and Education
 
-### Growing Up in a Time of Upheaval
+### Growing Up in an Era of Upheaval
 
 **Birth and family background:**
-On July 10, 1931, Morris Chang was born in Ningbo, Zhejiang Province, China. His father Zhang Weiguan was a banker; his mother Xu Yunzheng came from a scholarly family. Strong family education in turbulent times gave him a deep cultural foundation.
+Morris Chang was born on July 10, 1931, in Ningbo, Zhejiang Province, China. His father, Chang Wei-kuan, was a banker, and his mother, Hsu Yun-cheng, came from a scholarly family. In that turbulent era, his father was deeply versed in literature and history, and the family had an extensive home library. This environment allowed Chang to retain a humanistic perspective throughout his engineering career.
 
-**A childhood of migrations:**
-War drove a childhood of constant movement — from Ningbo to Shanghai, Nanjing, Chongqing, back to Shanghai, then Guangzhou, Hong Kong, and ultimately America. These years of displacement built his adaptability and international outlook.
+**A childhood of migration:**
+Because of war, Chang's childhood was marked by constant movement. From Ningbo to Shanghai, Nanjing, Chongqing, Shanghai again, then Guangzhou, Hong Kong, and ultimately the United States, this experience of displacement cultivated his adaptability and international outlook.
 
-**School years in Hong Kong:**
-In 1945, at 14, Chang settled in Hong Kong with his family and received a secondary education under the British colonial system. Hong Kong's international environment and English-language instruction laid critical groundwork for his later studies and career in the United States.
+**Schooling in Hong Kong:**
+In 1945, at age 14, Chang moved with his family to Hong Kong, where he received his secondary education under the British colonial education system. Hong Kong's international environment and English-language education laid an important foundation for his later studies and work in the United States.
 
-### A Decisive Pivot in the US
+### A Crucial Turn in American Education
 
-**A brief stint at Harvard:**
-In 1949, at 18, Chang entered Harvard University to study literature. Within a year, lacking passion for literature and facing financial pressure, he transferred to the Massachusetts Institute of Technology (MIT).
+**A brief period at Harvard:**
+In 1949, at age 18, Chang entered Harvard University, initially studying literature. After one year, however, he transferred to the Massachusetts Institute of Technology (MIT), both because he lacked passion for literature and because of financial considerations.
 
 **Engineering education at MIT:**
-At MIT, Chang chose Mechanical Engineering as his major. The choice seemed accidental but proved foundational for his later success in manufacturing. MIT's rigorous engineering training cultivated logical thinking and problem-solving abilities.
+At MIT, Chang chose mechanical engineering as his major. The choice may have seemed accidental, but it gave him first-hand engineering intuition in the core of semiconductor manufacturing: precision mechanical processes. This later became an important basis for his leadership in improving TSMC's manufacturing processes.
 
-**BS degree in 1952:**
-Chang graduated from MIT with a degree in Mechanical Engineering in 1952. Graduating during the Korean War, he was barred as a foreign national from defense-related work — a constraint that steered him toward civilian industry.
+**Bachelor's degree in 1952:**
+Chang received a bachelor's degree in mechanical engineering from MIT in 1952. Upon graduation, the Korean War was under way, and as a foreign student he could not obtain work related to the U.S. military. That constraint instead pushed him toward civilian industry.
 
 ## Early Career: Sylvania
 
-### First Steps into Semiconductors
+### Entering the Semiconductor Industry
 
-**Opportunity in 1955:**
-After graduation, Chang spent three years at Sylvania, his first exposure to the semiconductor industry. Semiconductors were still in their infancy, but he keenly sensed the enormous potential of this nascent field.
+**An opportunity in 1955:**
+After graduation, Chang worked for three years at Sylvania, his first exposure to the semiconductor industry. At the time, the semiconductor sector was still in its infancy, but Chang keenly perceived the enormous potential of this emerging industry.
 
-**Building technical skills:**
-At Sylvania, Chang worked in semiconductor device manufacturing, learning the fundamentals of semiconductor processes. The experience revealed the complexity and precision of semiconductor manufacturing and cultivated his attention to technical detail.
+**Developing technical capabilities:**
+At Sylvania, Chang worked on the manufacture of semiconductor devices and learned the fundamentals of semiconductor processes. This experience taught him the complexity and precision of semiconductor manufacturing and cultivated his attention to technical detail.
 
 **Early signs of management ability:**
-Even in an entry-level technical role, Chang demonstrated exceptional management capability — organizing teams effectively and resolving technical problems — laying the groundwork for his management career.
+Even in a junior technical role, Chang displayed strong management ability. He was adept at organizing teams and solving technical problems, and those three years helped him understand the exacting demands of semiconductor manufacturing.
 
-## Texas Instruments: A Platform for Leadership
+## Texas Instruments: The Emergence of a Manager
 
-### The Defining Pivot of 1958
+### A Major Turning Point in 1958
 
 **Joining Texas Instruments:**
-In 1958, Chang joined Texas Instruments (TI), the most important turning point of his professional career. TI was aggressively developing its semiconductor business, giving him an exceptional stage for growth.
+In 1958, Chang joined Texas Instruments (TI), a decisive turning point in his career. TI was then aggressively expanding its semiconductor business and needed people who could bridge engineering and management.
 
 **From engineer to manager:**
-At TI, Chang started as a semiconductor engineer responsible for wafer production. He distinguished himself not only technically but also in management, quickly earning the attention of senior leadership.
+At TI, Chang began as a semiconductor engineer responsible for wafer production. He performed strongly in technical work while also showing exceptional management talent, quickly attracting the attention of senior leaders.
 
-**Process improvements:**
-During his time at TI, Chang significantly improved the company's semiconductor manufacturing processes, raising yield rates and production efficiency. These technical gains saved the company substantial costs and earned him a strong reputation.
+**Contributions to process improvement:**
+During his years at TI, Chang substantially improved the company's semiconductor processes, raising product yield and production efficiency. These technical improvements saved the company significant costs and earned him a strong reputation.
 
-### Doctorate at Stanford
+### Advanced Study at Stanford
 
-**Learning opportunity in 1961:**
-In 1961, TI sponsored Chang to pursue a doctorate in Electrical Engineering at Stanford University — recognition of his abilities and an example of American corporate investment in talent development.
+**The opportunity to study in 1961:**
+In 1961, TI supported Chang in pursuing a doctorate in electrical engineering at Stanford University. This was recognition of his ability and also showed how American companies valued talent development.
 
-**Gains from the doctorate:**
-Chang earned a Stanford EE PhD in 1964. Beyond deepening his technical skills, it expanded his vision and professional network.
+**Earning the doctorate:**
+In 1964, Chang received a PhD in electrical engineering from Stanford University.[^3] This period of study deepened his theoretical training and expanded his industry network. After returning to TI, he was soon promoted.
 
-**New role upon return:**
-After the doctorate, Chang returned to TI in progressively important management positions — General Manager of the Germanium Transistor Division, the Silicon Transistor Division, and the Integrated Circuit Division.
+**A new role after returning:**
+After completing his doctorate, Chang returned to TI in higher-level management roles. He successively served as general manager of the germanium transistor, silicon transistor, and integrated circuit divisions, with his standing at TI rising alongside his performance.
 
-### Breaking Through the Racial Ceiling
+### Breaking the Racial Ceiling
 
 **A historic promotion in 1972:**
-In 1972, Chang was named Group Vice President of TI, becoming one of the highest-ranking Chinese-American executives in major American corporations at the time — a rare achievement in that era's American business environment.
+In 1972, Chang was promoted to group vice president of Texas Instruments, becoming one of the highest-ranking Chinese executives in major American corporations at the time. Such a promotion was an extremely rare achievement in the U.S. business environment of that era.
 
-**President of the Semiconductor Group:**
-Chang simultaneously served as President of TI's Semiconductor Group, leading the company's most critical business unit. Under his leadership, TI's semiconductor business expanded rapidly to become a leading global supplier.
+**General manager of the semiconductor group:**
+Chang also served as general manager of TI's semiconductor group, overseeing the company's core business division. Under his leadership, TI's semiconductor business developed rapidly and became one of the world's major semiconductor suppliers.
 
-**25 years at TI summarized:**
-Over 25 years at TI, Chang rose from entry-level engineer to senior executive, accumulating vast technical and managerial experience. More importantly, he developed a deep understanding of the semiconductor industry's development dynamics and commercial logic.
+**The sum of a 25-year American career:**
+In his 25 years at TI, Chang rose from entry-level engineer to senior executive and gained a deep understanding of the semiconductor industry's technical cadence and business logic. When he returned to Taiwan to start a company in 1987, this experience gave him far sharper market judgment than anyone with a purely academic background.
 
-## The Call from Taiwan: ITRI Presidency
+## Taiwan's Call: President of ITRI
 
-### A Life-Turning Moment in 1985
+### A Life Turn in 1985
 
-**The invitation:**
-In 1985, Chang was invited by ITRI Chairman Hsu Hsien-hsiu, Premier Yu Kuo-hua, and Policy Minister Li Kuo-ting to serve as President of the Industrial Technology Research Institute (ITRI). This decision changed not only his life trajectory but the fate of Taiwan's technology industry.
+**The invitation from Sun Yun-suan:**
+In 1985, Chang was strongly invited by former Premier Sun Yun-suan,[^1] ITRI chairman Hsu Hsien-hsiu, Premier Yu Kuo-hwa, and Minister without Portfolio K. T. Li to serve as president of the Industrial Technology Research Institute (ITRI). Sun Yun-suan had long promoted Taiwan's development of high-technology industries and was a key advocate in bringing Chang back to Taiwan. This decision changed the course of Chang's life and the fate of Taiwan's technology industry.
 
-**The courage to leave comfort:**
-At 54, Chang already had a successful career and a comfortable life in the US. Choosing to return to Taiwan was a decision full of risk and challenge — one that reflected his sense of mission for Taiwan's technological development.
+**The courage to leave a comfort zone:**
+At age 54, Chang already had a successful career and a comfortable life in the United States. Choosing to return to Taiwan was a decision full of risk and challenge, showing his sense of mission toward Taiwan's technological development.
 
-**Reforms at ITRI:**
-As ITRI President, Chang vigorously promoted the integration of research and industry, raising Taiwan's capacity for technological innovation. His management philosophy and international vision brought new directions to the institute.
+**Reforming ITRI:**
+During his tenure as president of ITRI, Chang pushed for closer integration between research and industry and reorganized ITRI's research direction with American-style management thinking. His international perspective helped shift ITRI from a government research institution toward a more commercially aware technology incubator.
 
-### Assessing Taiwan's Semiconductor Potential
+### Assessing Taiwan's Semiconductor Industry
 
 **Analyzing the industrial environment:**
-Chang conducted an in-depth analysis of Taiwan's industrial environment and strengths. He concluded that Taiwan had excellent engineering talent, relatively lower costs, and flexible manufacturing capacity — conditions well-suited for semiconductor manufacturing.
+Chang carefully assessed Taiwan's industrial environment and advantages. He believed Taiwan had excellent engineering talent, lower costs, and flexible manufacturing capability, conditions well suited to developing semiconductor manufacturing.
 
-**Conceptualizing the foundry model:**
-During his ITRI tenure, Chang began thinking about a revolutionary business model: the dedicated wafer foundry. This concept emerged from his deep insight into industry trends and crystallized decades of industry experience.
+**The foundry concept:**
+At ITRI, Chang began to think through a revolutionary business model: the dedicated wafer foundry. The idea came from his deep insight into industry trends and represented the crystallization of many years of industrial experience.
 
 **The importance of government support:**
-Chang recognized that developing the semiconductor industry required strong government support — capital investment, policy backing, and talent cultivation. He actively communicated with government officials, laying groundwork for TSMC's eventual founding.
+Chang understood that developing a semiconductor industry required full government support, including capital investment, policy coordination, and talent cultivation. He communicated closely with government officials and secured for TSMC a special structure combining ITRI technology licensing and government equity investment.
 
-## TSMC: The 1987 Innovation
+## The Birth of TSMC: Innovation in 1987
 
-### The Foundry Model Innovation
+### Innovation in the Dedicated Foundry Model
 
-**Breaking with the old paradigm:**
-In 1987, Chang introduced the concept of the "pure-play wafer foundry." Unlike the traditional IDM model, TSMC would focus exclusively on manufacturing chips for customers — without designing its own products.
+**A breakthrough in foundry thinking:**
+In 1987, Chang proposed the innovative concept of the "dedicated wafer foundry." Unlike the traditional integrated device manufacturer (IDM) model, TSMC would focus on manufacturing chips for customers and would not design its own products.
 
-**The model's revolutionary significance:**
-The model's revolutionary nature was this: it enabled companies without the resources to build wafer fabs to design advanced chips, dramatically lowering the barriers to entering the semiconductor industry and catalyzing innovation.
+**The revolutionary business model:**
+The revolutionary nature of this model lay in the fact that it enabled many companies without the capacity to build wafer fabs to design advanced chips. It dramatically lowered the barrier to entry in the semiconductor industry and allowed chip design companies to grow exponentially from the 1990s through the 2020s.
 
-**Impact on the industrial ecosystem:**
-The pure-play foundry model created an entirely new ecosystem, allowing design companies to focus on innovation while foundries focused on manufacturing — a professional division of labor that raised efficiency across the entire industry.
+**Impact on the industry ecosystem:**
+The dedicated foundry model created an entirely new industrial ecosystem. Design companies could focus on innovation, while foundries focused on manufacturing. This enabled specialized division of labor and improved efficiency across the industry.
 
 ### The Founding of TSMC
 
-**The historic moment of February 21, 1987:**
-Taiwan Semiconductor Manufacturing Company was formally incorporated on February 21, 1987, with initial capital of NT$22 billion — the result of collaboration among the government, private enterprises, and foreign investors.
+**The historic moment on February 21, 1987:**
+On February 21, 1987, Taiwan Semiconductor Manufacturing Company was formally established with initial capital of NT$22 billion. It was the result of cooperation among the government, private enterprises, and foreign investors.
 
-**Equity structure:**
-TSMC's shareholders included ITRI, Dutch electronics giant Philips, and Taiwanese private enterprises. This diversified structure brought technology, capital, and market resources to the company.
+**Designing the ownership structure:**
+TSMC's ownership structure included ITRI, the Dutch company Philips, and Taiwanese private enterprises. This diversified structure brought TSMC technology, capital, and market resources.
 
 **Chang's dual role:**
-Chang served as both Chairman and CEO, overseeing the company's overall strategy and day-to-day operations. His leadership style blended the efficiency of American management with the wisdom of Chinese cultural traditions.
+Chang served as TSMC's chairman and president, later retitled chief executive officer, responsible for the company's overall strategy and daily operations. His leadership style combined the efficiency of American management with the wisdom of Chinese culture.
 
 ## TSMC's Development
 
 ### Early Challenges and Breakthroughs
 
-**1987–1990 — The difficult founding years:**
-TSMC faced enormous challenges in its early years. The pure-play foundry was an entirely new business model, and the market was skeptical; clients needed time to accept the concept. Chang had to simultaneously build manufacturing capability and convince clients.
+**1987-1990: the difficult start-up years:**
+In its early years, TSMC faced enormous challenges. Dedicated foundry manufacturing was an entirely new business model, the market was skeptical, and customers needed time to accept the concept. Chang had to build manufacturing capability while persuading customers at the same time.
 
 **Building technical capability:**
-TSMC's initial technology came from ITRI transfers and Philips collaboration. Chang led the team to rapidly learn and improve process technology, establishing reliable manufacturing capability.
+TSMC's initial technology came from transfers from ITRI and cooperation with Philips. Chang led the team in rapidly learning and improving process technology, establishing reliable manufacturing capability.
 
-**Winning the first customers:**
-TSMC's early clients were primarily American fabless semiconductor companies — precisely the ones that needed dedicated foundry services, giving TSMC its early business foundation.
+**Developing the first customers:**
+TSMC's first customers were mainly American fabless semiconductor companies. These companies needed professional foundry services and gave TSMC its early business base.
 
 ### Rapid Growth in the 1990s
 
-**The technology leadership strategy:**
-In the 1990s, Chang formulated a "technology leadership" strategy, investing heavily in R&D to ensure TSMC stayed ahead in process technology. This approach underpinned the company's long-term development.
+**A technology leadership strategy:**
+In the 1990s, Chang set a strategy of "technology leadership," investing heavily in research and development to ensure that TSMC would not lag behind competitors in any process generation. TSMC built multiple fabs in Taiwan, and its customer base expanded from early American fabless companies to major global design firms such as Qualcomm, Broadcom, and Nvidia.
 
-**Capacity expansion and global positioning:**
-As orders grew, TSMC aggressively expanded capacity, building multiple fabs in Taiwan, and began considering a global footprint to be closer to major clients and markets.
+### Leadership in the Twenty-First Century
 
-**Customer diversification:**
-TSMC's customer base expanded from early American fabless companies to include the world's major semiconductor design houses — Qualcomm, Broadcom, NVIDIA, and others.
+**Competition in advanced processes:**
+Entering the twenty-first century, the development of semiconductor process technology became increasingly difficult and expensive. With R&D investment above the industry average each year, TSMC maintained its leadership in advanced processes.
 
-### Leadership in the 21st Century
+**Breakthroughs from 28 nanometers to 5 nanometers:**
+From 28 nanometers to 16 nanometers, 7 nanometers, and then 5 nanometers and 3 nanometers, TSMC maintained technological leadership in advanced processes at every generation, consolidating its position in the high-end market.
 
-**The race for advanced nodes:**
-Into the 21st century, semiconductor process development became progressively more difficult and expensive. TSMC maintained leadership in advanced process technology through sustained R&D investment and innovation.
+**The milestone of Apple cooperation:**
+Cooperation with Apple began with the A-series chips in 2013. TSMC manufactured the core processors for iPhones and iPads, bringing in massive orders and subjecting TSMC's advanced process capability to the most rigorous commercial validation.[^2]
 
-**From 28nm to 5nm:**
-From 28nm to 16nm, 7nm, 5nm, and 3nm, TSMC maintained technology leadership at each generation, consolidating its position in the high-end market.
+## Business Ideas and Management Philosophy
 
-**The Apple milestone:**
-The partnership with Apple — particularly manufacturing processors for iPhone and iPad — became a landmark milestone in TSMC's history, significantly boosting revenue and market position.
+### Commitment to Technological Innovation
 
-## Business Philosophy and Management
-
-### Commitment to Technical Innovation
-
-**Valuing R&D investment:**
-Chang consistently emphasized the importance of technical innovation. TSMC invested a significant portion of annual revenue in R&D to maintain technological leadership — a key long-term ingredient of the company's success.
-
-**Pursuing Moore's Law:**
-As Moore's Law faced challenges, Chang led TSMC to continue advancing process technology, sustaining the law's vitality and contributing significantly to the development of the entire semiconductor industry.
+**Emphasis on R&D investment:**
+Chang consistently emphasized the importance of technological innovation. TSMC invests around 8% of annual revenue in R&D to ensure that it does not fall behind competitors.[^3] In an era when Moore's Law faces physical limits, Chang led TSMC through successive breakthroughs in 7-nanometer, 5-nanometer, and 3-nanometer processes, providing manufacturing capability for the development of the entire semiconductor industry.
 
 **Balancing technology and market:**
-Chang was adept at finding the balance between technology leadership and market demand — maintaining competitive advantage while ensuring technologies had commercial value, avoiding the trap of running too far ahead.
+Chang was skilled at finding the balance between technological leadership and market demand. He sought to preserve technical advantage while ensuring commercial value, avoiding excessive technological overreach that would drive costs too high.
 
-### Talent and Corporate Culture
+### Talent Development and Corporate Culture
 
-**Integrity as the cultural core:**
-Chang built a corporate culture centered on integrity and honesty at TSMC. He championed core values of "Integrity, Commitment, Innovation, and Customer Trust," which became the cultural foundation of the company.
+**A corporate culture of integrity:**
+Chang built a corporate culture at TSMC centered on integrity. He emphasized the core values of "integrity, commitment, innovation, and customer trust," which became the foundation of TSMC's culture.
 
-**Investment in talent:**
-Chang placed extraordinary emphasis on talent development, building a comprehensive training system. He believed talent is a company's most important asset — only excellent people sustain long-term growth.
+**Emphasis on talent development:**
+Chang placed great importance on cultivating talent and established a systematic engineer training and promotion system at TSMC. He believed talent was the core competitiveness of an enterprise. While TSMC's turnover rate remained far below the industry average, it also developed core team members such as Mark Liu and C. C. Wei, who later led the company.
 
-**International management style:**
-Chang brought the efficiency and transparency of American management to TSMC, establishing modern corporate governance, while simultaneously incorporating the wisdom of Chinese cultural traditions to create a unique company culture.
+**An international management style:**
+Chang brought the efficiency and transparency of American management into TSMC and established a modern corporate governance structure. At the same time, he incorporated the wisdom of Chinese culture, creating a distinctive corporate culture.
 
 ### Strategic Thinking and Execution
 
-**Long-term strategy:**
-Chang possessed exceptional strategic thinking — the ability to discern industry trends and formulate long-range development plans. TSMC's "technology leadership" strategy is a direct expression of that foresight.
+**Formulating long-term strategy:**
+Chang possessed exceptional strategic thinking. He could discern industry trends and set long-term development strategies. TSMC's "technology leadership" strategy was a clear expression of that strategic vision.
 
-**Prioritizing execution:**
-Beyond strategy, Chang placed great emphasis on execution. He built comprehensive management systems to ensure strategies were effectively implemented — a critical factor in TSMC's sustained growth.
+**Emphasis on execution:**
+Beyond strategy formulation, Chang also placed great importance on execution. He built a precise management system that carried technology roadmaps from decision-making to fab implementation. This was a key reason TSMC could keep pace with each process generation.
 
-**Crisis management wisdom:**
-In facing various crises and challenges, Chang demonstrated exceptional leadership and the wisdom to navigate adversity, guiding TSMC through difficult periods and maintaining stable development.
+**Wisdom in crisis response:**
+When facing various crises and challenges, Chang demonstrated outstanding leadership and crisis-management judgment, leading TSMC through multiple difficult periods while maintaining stable corporate development.
 
-## Retirement and Legacy
+## Retirement and Succession
 
-### First Retirement in 2005
+### The First Retirement in 2005
 
-**Initiating the succession plan:**
-In 2005, at 74, Chang announced his retirement and handed the CEO role to Rick Tsai. This was part of a carefully prepared succession plan reflecting his commitment to corporate sustainability.
+**Launching the succession plan:**
+In 2005, at age 74, Chang announced his retirement and handed the CEO role to Rick Tsai. This was part of a carefully prepared succession plan and reflected his sense of responsibility for the company's sustainable development.
 
 **Retaining the chairmanship:**
-Although stepping down as CEO, Chang retained the chairmanship, continuing to participate in major strategic decisions and providing guidance and support to the succession team.
+Although he stepped down as CEO, Chang retained the chairmanship and continued to participate in major strategic decisions, providing guidance and support for the succession team.
 
-**Life after retirement:**
-Chang did not completely withdraw from business activity after retirement. He actively participated in forums and conferences, sharing his experience and insights, contributing his wisdom to industry development.
+**Arrangements in retirement:**
+After retiring, Chang did not fully leave business activity. He attended international forums such as APEC as Taiwan's representative and shared his views on geopolitics and the future of semiconductors in numerous speeches.
 
-### The Comeback of 2009
+### The 2009 Return
 
 **The challenge of the financial crisis:**
-The 2008 global financial crisis severely impacted TSMC, creating the twin pressures of falling revenue and intensifying competition. At this critical moment, Chang decided to return.
+The 2008 global financial crisis had a major impact on TSMC, and the company faced the dual challenges of declining performance and intensifying competition. At this critical moment, Chang decided to return.
 
-**Returning as CEO:**
-In 2009, at 78, Chang resumed the role of TSMC CEO, personally leading the company through the difficult period. His return stabilized market confidence and provided the leadership needed for recovery.
+**Serving again as CEO:**
+In 2009, at age 78, Chang again became CEO of TSMC and personally led the company through a difficult period. His return stabilized market confidence and provided leadership for the company's recovery.
 
-**Cultivating Liu Te-yin and Wei Che-chia:**
-During his second term, Chang focused on developing Liu Te-yin and Wei Che-chia as successor candidates, preparing the talent base for the company's future.
+**Cultivating Mark Liu and C. C. Wei:**
+During his second term, Chang focused on cultivating successors such as Mark Liu and C. C. Wei, preparing the talent base for the company's future development.
 
 ### Formal Retirement in 2018
 
-**Completing the legacy:**
-In June 2018, at 87, Morris Chang formally retired, ending his 31-year legendary career at TSMC. He handed the chairmanship to Liu Te-yin and the CEO role to Wei Che-chia.
+**Completing the succession plan:**
+In June 2018, at age 87, Chang formally retired, ending his legendary 31-year career at TSMC. He handed the chairmanship to Mark Liu and the CEO position to C. C. Wei.
 
-**Establishing co-leadership:**
-Chang instituted a "co-leadership" model — Liu Te-yin as Chairman handling external matters, Wei Che-chia as CEO managing operations — an arrangement designed to support stable development.
+**Establishing a dual-leadership system:**
+Chang established a "dual-leadership system," with Mark Liu serving as chairman and handling external affairs, while C. C. Wei served as CEO and handled internal operations. This institutional arrangement helped support stable development.
 
-**A model retirement:**
-Chang's retirement is regarded as a benchmark for corporate succession: exiting at the right moment, giving the next generation of leaders ample room to perform, while ensuring a stable transition.
+**A model of retiring at the height of achievement:**
+Chang's retirement is regarded as a model of corporate succession. He exited at the right time, giving the next generation of leaders sufficient room to act while ensuring a stable transition for the company.
 
 ## Impact on the Global Semiconductor Industry
 
-### Business Model Innovation
+### Innovation in Business Models
 
-**Popularizing the foundry model:**
-The pure-play foundry model Chang created has become one of the standard business models in the semiconductor industry. Hundreds of fabless semiconductor companies worldwide depend on foundry services — a model that dramatically accelerated industry development.
+**The spread of the dedicated foundry model:**
+The dedicated foundry model created by Chang has become one of the standard business models of the semiconductor industry. Hundreds of fabless semiconductor companies around the world rely on foundry services, and this model has greatly promoted the industry's development.
 
 **Reshaping the industrial ecosystem:**
-The foundry model reshaped the semiconductor industry's ecosystem, promoted professional specialization, raised industry efficiency, and lowered the threshold for innovation — enabling more companies to participate in chip design.
+The dedicated foundry model reshaped the semiconductor ecosystem, promoted specialized division of labor, improved industrial efficiency, and lowered the threshold for innovation, allowing more companies to participate in chip design.
 
 **Building a global supply chain:**
-TSMC became a critical node in the global semiconductor supply chain, providing manufacturing services to technology companies around the world — a truly globalized semiconductor supply chain.
+TSMC became a critical node in the global semiconductor supply chain, providing manufacturing services to technology companies around the world and helping establish a genuinely globalized semiconductor supply chain.
 
 ### Driving Technological Progress
 
-**Maintaining process leadership:**
-Under Chang's leadership, TSMC maintained global leadership in process technology, driving technological progress across the entire semiconductor industry and sustaining Moore's Law's vitality.
+**Leadership in process technology:**
+Under Chang's leadership, TSMC maintained global leadership in process technology, driving technological progress across the semiconductor industry and extending the vitality of Moore's Law.
 
-**Democratizing advanced nodes:**
-TSMC's advanced process services allowed small companies to access the latest technology — a "democratization" of advanced manufacturing that fueled a boom in innovation.
+**Democratizing advanced processes:**
+TSMC's advanced process services allowed smaller design companies to use the latest technologies, achieving a "democratization" of advanced processes: a fabless start-up with only a few dozen people could have TSMC mass-produce 7-nanometer chips.
 
-**Opening new technology domains:**
-From traditional digital chips to AI chips, from consumer electronics to automotive electronics, TSMC provided manufacturing support across emerging technology domains, driving the application of technological innovation.
+**Opening new technological fields:**
+TSMC's manufacturing capability spans digital chips, AI accelerators, automotive semiconductors, and other application areas, providing a manufacturing foundation for a wide range of emerging technologies.
 
-## Taiwan's Meaning: Founding Father of the Silicon Island
+## Meaning for Taiwan: Founder of the Technology Island
 
-### Technology Industry Development
+### Development of the Technology Industry
 
-**Building the Silicon Shield:**
-TSMC is called Taiwan's "Silicon Shield" — not only for its enormous economic value but for its critical position in the global technology supply chain. Chang created a vital strategic asset for Taiwan.
+**Building the sacred mountain protecting the nation:**
+TSMC is called Taiwan's "sacred mountain protecting the nation," not only because of its enormous economic value, but also because of its critical position in the global technology supply chain. Chang built for Taiwan a strategic asset that is harder to replace than almost anything outside national defense.
 
 **Cultivating technology talent:**
-TSMC's development cultivated a vast pool of semiconductor professionals. These people support not only TSMC's growth but provide the talent foundation for Taiwan's entire technology industry.
+TSMC's development trained a large number of semiconductor professionals. These people not only supported TSMC's growth but also provided the talent base for Taiwan's broader technology industry.
 
-**Forming an industry cluster:**
-With TSMC at the center, Taiwan developed a complete semiconductor industry cluster — including equipment suppliers, materials suppliers, and packaging and testing companies — creating enormous industrial value.
+**Formation of an industrial cluster:**
+Centered on TSMC, Taiwan formed a semiconductor industrial cluster covering equipment suppliers, materials suppliers, and packaging and testing companies, creating enormous industrial value.
 
-### Contribution to Economic Development
+### Contributions to Economic Development
 
-**A major GDP contributor:**
-TSMC has become Taiwan's largest company, making critical contributions to GDP. The company's success has driven related industries and created abundant employment opportunities.
+**A major contribution to GDP:**
+TSMC has become Taiwan's largest enterprise and makes a very important contribution to Taiwan's GDP. Its success has also driven the development of related industries and created substantial employment.
 
 **A pillar of export trade:**
-Semiconductors have become Taiwan's most important export commodity. TSMC's success has substantially elevated Taiwan's position in global trade and strengthened the competitiveness of the Taiwanese economy.
+Semiconductors account for roughly one-third of Taiwan's total exports. TSMC's success has greatly enhanced Taiwan's position in global trade and strengthened the competitiveness of Taiwan's economy.[^5]
 
 **Improving the investment environment:**
-TSMC's success story attracted more international investment, improved Taiwan's investment climate, and elevated Taiwan's standing in the eyes of global investors.
+TSMC's success attracted more international investment, improved Taiwan's investment environment, and elevated Taiwan's standing among global investors.
 
-### Geopolitical Influence
+### Geopolitical Impact
 
-**The importance of technology sovereignty:**
-In the current geopolitical environment, the importance of semiconductor technology is increasingly evident. TSMC's existence enhances Taiwan's importance and voice in the international community.
+**The importance of technological sovereignty:**
+In the current geopolitical environment, semiconductor technology has become a central bargaining chip in great-power competition. TSMC's command of the world's most advanced processes gives Taiwan a strategic position in the international community that is difficult to replace.
 
-**A bargaining chip in international relations:**
-TSMC's critical position in the global technology supply chain has become an important asset in Taiwan's international relations and has strengthened Taiwan's global influence.
+**Leverage in international relations:**
+TSMC's critical role in the global technology supply chain gives Taiwan a voice on semiconductor issues that major powers must take seriously. The United States, the European Union, and Japan have successively invited TSMC to build fabs through subsidies, demonstrating the real weight of this position.
 
 **Security strategy considerations:**
-Various countries' attention to semiconductor technology also presents Taiwan with new security challenges and opportunities. How to balance competing interests while maintaining TSMC's competitive advantage is a critical strategic consideration.
+The importance that countries attach to semiconductor technology also brings Taiwan new security challenges and opportunities. How to balance the interests of different parties while preserving TSMC's competitive advantage is one of the core issues in Taiwan's diplomacy and security policy.
 
 ## Personal Qualities and Leadership Style
 
-### Vision and Execution Combined
+### Combining Vision and Execution
 
-**Extraordinary strategic foresight:**
-Chang's greatest quality was exceptional strategic vision — the ability to discern industry trends and foresee the direction of future development. This foresight was the key factor in TSMC's success.
+**Exceptional strategic vision:**
+Chang's greatest quality is his exceptional strategic vision. He can discern industry trends and foresee future directions. This foresight was a key factor in TSMC's success.
 
-**Practical execution:**
-Beyond vision, Chang possessed outstanding execution capability. He could translate strategic concepts into concrete action plans and ensure their effective implementation — a combination of strategic thinking and execution that is exceedingly rare.
+**Pragmatic execution:**
+In addition to vision, Chang has outstanding execution ability. He can turn strategic concepts into concrete action plans and track every implementation detail. This combination of strategic thinking and execution is quite rare in the business world.
 
-**Lifelong learning:**
-Even in his later years, Chang maintained a spirit of continuous learning, staying attuned to the latest industry developments. This learning attitude allowed him to maintain sharp thinking and accurate judgment.
+**A lifelong learning attitude:**
+Even at an advanced age, Chang maintained the habit of broad reading and attention to industry development. He has publicly stated that he continues to study literature and philosophy, an attitude that kept his thinking sharp in later life.
 
-### Leadership Characteristics
+### Characteristics of His Leadership Style
 
 **Charismatic leadership:**
-Chang possessed strong personal charisma and persuasiveness, capable of inspiring teams to strive toward shared goals. His speeches and writings consistently communicated complex concepts with clarity, earning deep respect from employees and industry peers.
+Chang possesses strong personal charisma and persuasive power, enabling him to motivate teams to work toward common goals. His speeches and essays consistently express complex concepts clearly, earning him deep respect from employees and industry figures.
 
-**Rational decision-making:**
-Facing major decisions, Chang consistently insisted on rational analysis — making judgments based on facts and data, avoiding emotional or political considerations that might compromise the correctness of decisions.
+**Commitment to rational decision-making:**
+When facing major decisions, Chang consistently insisted on rational analysis and made judgments based on facts and data, avoiding decisions distorted by emotion or political considerations.
 
-**Long-term thinking:**
-Chang consistently adhered to long-term thinking, refusing to be swayed by short-term difficulties or gains. This long-range perspective enabled TSMC to maintain sustained competitive advantage in the fiercely competitive semiconductor industry.
+**Practicing long-term thinking:**
+Chang consistently adhered to long-term thinking and was not swayed by short-term difficulties or benefits. At the deepest point of the 2008 financial crisis, he still approved R&D budgets for advanced processes. This long-term perspective allowed TSMC to widen the gap with competitors after the crisis.
 
 ## Honors and Recognition
 
-### International Awards
+### International Awards and Recognition
 
-**IEEE Honors:**
-Chang received multiple honorary medals from the Institute of Electrical and Electronics Engineers (IEEE), recognizing his contributions to the development of semiconductor technology.
+**IEEE Medal of Honor:**
+Chang received multiple honors from the Institute of Electrical and Electronics Engineers (IEEE), important recognition of his contributions to the development of semiconductor technology.
 
-**Honorary doctorates:**
-Stanford University, MIT, National Tsing Hua University, and other prominent institutions awarded Chang honorary doctoral degrees, commending his contributions to the technology industry and education.
+**Honorary doctorates from multiple countries:**
+Several leading universities, including Stanford University, MIT, and National Tsing Hua University, awarded Chang honorary doctorates in recognition of his contributions to the technology industry and education.
 
-**Business magazine rankings:**
-Chang was repeatedly named one of the world's most influential business leaders by _Fortune_, _BusinessWeek_, and other international business magazines, establishing his place in global business.
+**Recognition by business magazines:**
+Chang has repeatedly been named by international business magazines such as Fortune and BusinessWeek as one of the leading technology industry leaders of his time, establishing his position in the global business community.
 
 ### Recognition in Taiwan
 
 **Government decorations:**
-The Taiwan government awarded Chang multiple important honors, recognizing his outstanding contributions to Taiwan's economic development and technological progress.
+Taiwan's government awarded Chang several important decorations in recognition of his outstanding contributions to Taiwan's economic development and technological progress.
 
-**Industry veneration:**
-Chang is venerated by Taiwan's industry as the "Father of Semiconductors." His experience and wisdom serve as a model for the next generation of entrepreneurs.
+**Respect from industry:**
+Taiwan's industrial community honors Chang as the "father of semiconductors." His experience and wisdom have become a model for later entrepreneurs.
 
-**Recognized social influence:**
-Beyond his business achievements, Chang's social influence has been widely recognized, with his contributions to Taiwan's social development highly valued across all sectors.
+**Recognition of social influence:**
+Beyond commercial achievements, Chang's social influence has also been widely recognized. His contributions to Taiwan's social development have received high praise from many sectors.
 
-## Philosophy and Life Wisdom
+## Philosophical Reflections and Life Wisdom
 
 ### Understanding Success
 
-**The combination of ability and opportunity:**
-Chang believed success requires both ability and opportunity — ability is the foundation, but timing matters too. He emphasized the importance of preparation: opportunities favor the prepared.
+**The combination of capability and opportunity:**
+Chang believes success requires the combination of capability and opportunity. Capability is the foundation, but one must also seize the moment. He emphasizes the importance of preparation: opportunities always favor those who are prepared.
 
-**The value of long-term perseverance:**
-He stressed the importance of long-term persistence, believing that true success requires accumulated time — there are no shortcuts. TSMC's success is the result of sustained perseverance.
+**The value of long-term persistence:**
+He emphasizes the importance of long-term persistence, believing that true success requires the accumulation of time and cannot be rushed. TSMC's success is the result of long-term persistence.
 
-**The necessity of continuous innovation:**
-Chang believed that in the technology industry, continuous innovation is a prerequisite for survival. Companies must constantly invest in innovation to maintain competitiveness.
+**The necessity of innovation:**
+Chang believes innovation is a condition for survival in the technology industry. TSMC's history shows that once a company stops breaking through in process technology, competitors will fill the gap.
 
 ### Reflections on Life
 
-**Work-life balance:**
-Despite tremendous professional success, Chang emphasized the importance of work-life balance. He enjoyed reading and music — these interests nourished him spiritually.
+**Balance between work and life:**
+Although his career has been highly successful, Chang also emphasizes the importance of work-life balance. He enjoys reading and listening to music, interests that provide him with spiritual nourishment.
 
-**Social responsibility:**
-Chang believed successful entrepreneurs have a responsibility to give back to society. He actively participated in education and philanthropic work, contributing to social development.
+**Bearing social responsibility:**
+Chang believes successful entrepreneurs have a responsibility to give back to society. He has donated to academic institutions such as National Tsing Hua University, participated in discussions on education policy, and offered concrete recommendations for reforming Taiwan's higher education.[^4]
 
-**The importance of legacy:**
-He placed great importance on the transmission of knowledge and experience — not only cultivating successors within the company but sharing his experience and wisdom through various channels.
+**The importance of succession:**
+He places great importance on passing on knowledge and experience, not only by cultivating successors within the company but also by sharing his experience and wisdom through many channels.
 
-## The Legend Continues
+## Historical Evaluation
 
-Morris Chang's story is a legend of vision, perseverance, and innovation. From a boy in a time of war, to a high-ranking executive in American corporations, to the founder of TSMC — his life trajectory witnessed the transformation of an era and created history. He built not only a great enterprise; more importantly, he changed the trajectory of an entire industry and influenced the lives of countless people.
+When Morris Chang retired in 2018, TSMC's market capitalization had surpassed Intel's, making it the world's most valuable semiconductor company.[^5] In 31 years, he proved a counterintuitive proposition: a foundry that designs no chips of its own can become the manufacturing foundation of the entire digital age.
 
-TSMC is called the "Silicon Shield," but Morris Chang himself is no less a "national treasure" of Taiwan. His success belongs not only to Taiwan — it belongs to the entire world. In today's era of rapid technological development, the business model and corporate culture he established continue to play an important role, shaping the next generation of entrepreneurs and engineers.
+From Ningbo, Zhejiang, to Harvard and MIT, and from senior executive at Texas Instruments to giving up a comfortable American life at age 54 to return to Taiwan, each of his turns was not the mainstream choice. Yet every outcome pointed in the same direction. TSMC's position today is both the result of competition in semiconductor technology and the result of the bet he placed in 1987 on a business model that few people believed in.
 
-The Morris Chang legend continues. Though he has retired, the enterprise he built and the intellectual legacy he left will continue to influence the world. In an era of rapidly developing AI, 5G, and IoT, semiconductors are more important than ever — and TSMC, as the global leader in semiconductor manufacturing, will continue to play a critical role in driving technological progress.
-
-This is the Morris Chang legend — a story of dreams made real, a story of how one person changed the world.
+In 2024, TSMC's market capitalization exceeded NT$10 trillion, making it one of Asia's most valuable technology companies. This scale would have been difficult to imagine when he made that bet in 1987, and it is the clearest annotation to his life's work.
 
 ---
 
+[^1]: Sun Yun-suan (1913-2006) served as general manager of Taiwan Power Company, minister of economic affairs, and premier of the Executive Yuan (1978-1984). During his tenure, he strongly advocated the development of semiconductors and technology industries and is regarded as an important driver of Taiwan's high-technology industrial development. See: Wikipedia entry "Sun Yun-suan" <https://zh.wikipedia.org/wiki/%E5%AD%AB%E9%81%8B%E7%92%87>
+
+[^2]: TSMC's founding date and initial capital. See: TSMC Annual Report 1987. TSMC. <https://investor.tsmc.com/english/annual-reports>
+
+[^3]: Morris Chang received a PhD in electrical engineering from Stanford University in 1964. See: Morris Chang Autobiography, Volume II, Global Views Commonwealth Publishing, 2019. <https://www.books.com.tw/products/0011005569>
+
+[^4]: By 2018, TSMC's market capitalization had surpassed Intel's, making it one of the world's most valuable semiconductor companies. See: Wikipedia entry "Taiwan Semiconductor Manufacturing Company" <https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0>
+
+[^5]: Morris Chang formally retired on June 5, 2018, ending his 31-year career at TSMC. See: Wikipedia entry "Morris Chang" <https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80>
+
 _References:_
 
-- [Morris Chang Autobiography (Volumes 1 & 2)](https://www.books.com.tw/products/0010784799)
-- [TSMC Annual Reports and Official Information](https://investor.tsmc.com/english/annual-reports)
+- [Morris Chang Autobiography, Volumes I and II](https://www.books.com.tw/products/0010784799)
+- [TSMC annual reports and official materials](https://investor.tsmc.com/english/annual-reports)
 - [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/)
-- [Wikipedia: Morris Chang](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80)
-- [National Tsing Hua University — Morris Chang Resources](https://www.nthu.edu.tw/)
+- [Wikipedia entry "Morris Chang"](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80)
+- [National Tsing Hua University materials related to Morris Chang](https://www.nthu.edu.tw/)

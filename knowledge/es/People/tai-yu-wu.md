@@ -1,17 +1,17 @@
 ---
-title: 'Tai Yu Wu'
+title: 'Tai Yu Wu: el presidente de la Academia Sinica que recomendó a Yang Chen-Ning y Lee Tsung-Dao para estudiar en EE. UU., y los once años de cimentación de la investigación científica taiwanesa'
 description: 'Físico teórico y presidente de la Academia Sinica, mentor de Yang Chen-Ning y Lee Tsung-Dao, dos premios Nobel, y maestro fundacional de la ciencia taiwanesa'
 date: 2026-03-19
 tags: [Personaje, Científico, Física, Educación, Academia Sinica]
 subcategory: '科學與學術'
-lastVerified: 2026-04-04
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 featured: true
 translatedFrom: People/吳大猷.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:341c2f3308bef4d0'
-sourceBodyHash: 'sha256:b758182bc81d64b1'
-translatedAt: 2026-05-01T22:19:10+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:ea84edf10c10d1a4'
+sourceBodyHash: 'sha256:54cafe2c5032e30e'
+translatedAt: '2026-05-17T06:00:00Z'
 category: People
 ---
 
@@ -25,7 +25,7 @@ Tai Yu Wu nació en 1907 en Gaoyao, provincia de Guangdong, y de niño se trasla
 
 Sus principales contribuciones académicas se centraron en la espectroscopia molecular y la investigación teórica en mecánica cuántica. La estructura cuántica del ion molecular de hidrógeno, el cálculo de los espectros vibracionales y rotacionales de moléculas poliatómicas —problemas que en las décadas de 1930 y 1940 se encontraban en la vanguardia de la física— constituyeron sus áreas centrales de investigación. Este tipo de trabajo no era material para titulares de periódico, pero fue precisamente esa labor teórica paciente la que permitió a la física abordar, en las décadas siguientes, sistemas moleculares cada vez más complejos.
 
-📝 El estilo académico de Tai Yu Wu era del tipo "trabajo lento, resultado minucioso": no se trataba de hacer un descubrimiento sensacional, sino de construir la plataforma sobre la cual otros pudieran avanzar. Este estilo se pasa por alto fácilmente en épocas que exigen rapidez, pero la lista de talentos que formó es la mejor prueba de su valor.
+📝 El estilo académico de Tai Yu Wu era del tipo "trabajo lento, resultado minucioso": el eje de su trabajo no era hacer un descubrimiento sensacional, sino construir la plataforma sobre la cual otros pudieran avanzar. Este estilo se pasa por alto fácilmente en épocas que exigen rapidez, pero la lista de talentos que formó es la mejor prueba de su valor.
 
 A partir de 1934, Tai Yu Wu enseñó en la Universidad de Míchigan, combinando investigación y docencia hasta 1946. Durante ese período fue desarrollando un estilo de enseñanza riguroso y abierto: exigía precisión, pero no sofocaba la intuición de sus estudiantes.
 
@@ -33,13 +33,13 @@ A partir de 1934, Tai Yu Wu enseñó en la Universidad de Míchigan, combinando 
 
 En 1946, Tai Wu recibió del gobierno chino un cupo de becas para estudiar en Estados Unidos. Seleccionó a dos estudiantes —Yang Chen-Ning y Lee Tsung-Dao— y los recomendó para continuar sus estudios en ese país. Yang Chen-Ning fue a la Universidad de Chicago, donde investigó bajo la dirección de Enrico Fermi; Lee Tsung-Dao ingresó en la misma universidad y posteriormente se orientó hacia la física teórica[^3].
 
-Yang Chen-Ning recordó más tarde: "Lo que el profesor Wu me enseñó no fue cómo resolver problemas, sino cómo encontrar problemas que mereciera la pena resolver." Lee Tsung-Dao también dijo que Tai Yu Wu nunca le indicaba qué debía investigar, solo le enseñaba a distinguir si un problema era verdaderamente importante[^4].
+Yang Chen-Ning recordó más tarde que lo que el profesor Wu le enseñó, en esencia, era «cómo encontrar problemas que mereciera la pena resolver». Lee Tsung-Dao también dijo que Tai Yu Wu nunca le indicaba qué debía investigar, solo le enseñaba a distinguir si un problema era verdaderamente importante[^4].
 
 > "El valor de la ciencia no está en las respuestas, sino en la forma de hacer las preguntas." — Tai Yu Wu
 
 En 1957, Yang Chen-Ning y Lee Tsung-Dao recibieron conjuntamente el Premio Nobel de Física por su trabajo teórico sobre la violación de la paridad, convirtiéndose en los primeros científicos de origen chino en obtener un premio Nobel científico[^5]. La expresión de Tai Yu Wu al leer la noticia —esa confirmación— se debía a que ese era exactamente el tipo de pensamiento que él había enseñado: cuestionar lo que otros dan por sentado, y preguntarse si realmente es así.
 
-📝 El núcleo de la violación de la paridad consiste en cuestionar una simetría que la comunidad física consideraba "evidente". Dos estudiantes chinos, usando el método que su maestro les había enseñado, derribaron una "ley" aceptada. Tai Yu Wu no confirmaba el resultado: confirmaba el método.
+📝 El núcleo de la violación de la paridad consiste en cuestionar una simetría que la comunidad física consideraba "evidente". Dos estudiantes chinos, usando el método que su maestro les había enseñado, derribaron una "ley" aceptada — y lo que Tai Yu Wu confirmaba era, precisamente, que ese método realmente funcionaba.
 
 ## Once años en la Academia Sinica
 
@@ -55,7 +55,7 @@ A Tai Yu Wu se le suele llamar "padre de la física china", pero ese título res
 
 Su carrera como investigador en la Universidad de Míchigan, la formación de Yang Chen-Ning y Lee Tsung-Dao, y sus once años en la Academia Sinica conforman juntos una herencia científica que abarca China continental, Estados Unidos y Taiwán. Su trabajo no pertenece a un solo lugar, pero Taiwán fue donde echó sus raíces definitivas.
 
-En enero de 2000, Tai Yu Wu falleció en San Francisco a la edad de 93 años[^7]. Yang Chen-Ning escribió en su panegírico: "La importancia del profesor Wu es difícil de medir con los indicadores académicos estándar —lo que enseñó a las personas no fue solo física, sino cómo ser un verdadero científico." Ese tipo de influencia, efectivamente, no cabe en ningún índice de citas ni en el número de publicaciones.
+En enero de 2000, Tai Yu Wu falleció en San Francisco a la edad de 93 años[^7]. Yang Chen-Ning escribió en su panegírico: "La importancia del profesor Wu es difícil de medir con los indicadores académicos estándar — lo que enseñó a las personas fue cómo ser un verdadero científico; la física solo era una parte de eso." Ese tipo de influencia, efectivamente, no cabe en ningún índice de citas ni en el número de publicaciones.
 
 ---
 

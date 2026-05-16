@@ -13,13 +13,13 @@ tags:
     'Literatura plural',
   ]
 readingTime: 8
-lastVerified: 2026-04-27
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 translatedFrom: Art/解嚴後台灣文學.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:493c1722ce576d1b'
-sourceBodyHash: 'sha256:5be7a14368f53828'
-translatedAt: 2026-05-01T20:54:23+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:d63a9c8cf3a5c81d'
+sourceBodyHash: 'sha256:6a8a1eb6e7b9f8f5'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 # La literatura taiwanesa tras la ley marcial
@@ -76,7 +76,7 @@ Antes del fin de la ley marcial, escribir en taiyu (la lengua hoklo taiwanesa) e
 
 **Song Zelai** fue un impulsor clave del renacimiento de la literatura en taiyu. Su novela _La aldea de Daniunan_ (_Da Niu Nan Cun_) fue escrita en caracteres chinos adaptados al taiyu y describe los cambios en la sociedad rural. Song Zelai se dedicó tanto a escribir en taiyu como a establecer las bases teóricas de esta literatura, consolidando su estatus académico para un género largamente marginado.
 
-**Li Qiao**, por su parte, abordó la literatura en hakka. Aunque su _Trilogía de la noche fría_ (_Han Ye San Bu Qu_) fue escrita en chino, conserva una gran cantidad de sensibilidad lingüística y contenido cultural hakka. Él dijo una vez: "La lengua no es solo una herramienta de comunicación, sino también un vehículo cultural. Debemos contar nuestras propias historias en nuestra propia lengua".
+**Li Qiao**, por su parte, abordó la literatura en hakka. Aunque su _Trilogía de la noche fría_ (_Han Ye San Bu Qu_) fue escrita en chino, conserva una gran cantidad de sensibilidad lingüística y contenido cultural hakka. Durante años ha defendido que la lengua es el vehículo de la cultura y que los escritores taiwaneses deben contar sus propias historias en su propia lengua.
 
 ### El despertar de la literatura indígena
 
@@ -185,7 +185,7 @@ Tras el nuevo milenio, el escenario pasó a nuevas voces como Wu Mingyi, Lin Yih
 
 [^2]: [Prólogo: Las N formas de censura — Museo Virtual de Literatura Taiwanesa](https://www.tlvm.com.tw/zh/Theme/ExhibitionArticleCont?Exbid=302) — Basado en los recuerdos de editores como Peng Ruijin, recopila las múltiples formas de censura literaria durante el período de ley marcial (listas de libros controlados, prohibición de publicación, confiscación de derechos de autor, etc.), y constituye una fuente fundamental para comprender el ecosistema literario previo al fin de la ley marcial.
 
-[^3]: [Memorias de un hombre salvaje — Portal Cultural de Taiwán](https://toolkit.culture.tw/literatureinfo_155_40.html) — Incluye el contexto de escritura de _Memorias de un hombre salvaje_ de Zhu Tianwen, el registro de su victoria en el primer Premio de Novela de un Millón de Dólares de la Época Literaria, así como su posición y evaluación en la historia de la literatura queer taiwanesa.
+[^3]: [Reseña en vocus: _Memorias de un hombre salvaje_ de Zhu Tianwen (1994)](https://vocus.cc/article/680dbb98fd89780001b2d3f8) — Reseña detallada que registra que _Memorias de un hombre salvaje_ de Zhu Tianwen se terminó el 23 de febrero de 1994, obtuvo ese mismo año el primer premio de la primera edición del Premio de Novela de un Millón de Dólares del China Times, su temática de homosexualidad masculina y su posición en la historia de la literatura queer taiwanesa.
 
 [^4]: [Memorias de un hombre salvaje — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%8D%92%E4%BA%BA%E6%89%8B%E8%A8%98) — La entrada detalla la estructura narrativa de _Memorias de un hombre salvaje_, su estilo lingüístico que fusiona la estética clásica con la decadencia urbana, y su posición en la historia de la escritura de género en la literatura taiwanesa.
 

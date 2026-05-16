@@ -26,10 +26,10 @@ readingTime: 12
 lastVerified: 2026-04-07
 lastHumanReview: true
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: '55adefac'
-sourceContentHash: 'sha256:6563f57d9c93f464'
-sourceBodyHash: 'sha256:bff59abbbb3fe6a1'
-translatedAt: '2026-05-01T13:44:02+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:a21c857b64fd8e71'
+sourceBodyHash: 'sha256:090ff0c53b31ba5d'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 > **30-Second Overview:** Crowd Lu (盧廣仲), born 1985 in Rende, Tainan, had his leg crushed by a bus during his freshman year of college and self-taught guitar during his hospital stay. He debuted in 2008 and won Best New Artist at the 2009 Golden Melody Awards (金曲獎), followed by an eight-year desert of zero nominations. In 2017, he stunned the industry with a seven-minute single-take eulogy scene in _The Wonderful Boy_ (花甲男孩轉大人, part of the 植劇場 drama production platform — zh only); he won two Golden Bell Awards that year. In 2020, "Your Name Engraved Herein" claimed the Golden Horse Best Original Film Song — at 35, he became the youngest Triple Crown winner in Taiwan's history. His 2026 concert tickets sold out in one minute, with scalpers asking sixty thousand NT dollars a ticket.

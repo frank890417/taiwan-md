@@ -1,19 +1,19 @@
 ---
 title: 'Lee Ju-eun'
 description: "De la folie « déesse de l'IA » à un engagement total à Taïwan, sa trajectoire a redéfini l'imaginaire des pom-pom girls coréennes en CPBL."
-date: 2026-04-14
+date: 2026-05-13
 tags: [流行人物, 李珠珢, 韓國, 啦啦隊, 富邦悍將, Fubon Angels, 中華職棒]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 10
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 category: People
 translatedFrom: People/李珠珢.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:1a5ec966d15fc75f'
-sourceBodyHash: 'sha256:286ea06e2dfa5442'
-translatedAt: 2026-05-01T22:19:06+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:c87fa614c30922e7'
+sourceBodyHash: 'sha256:c0d649ed19f7f301'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 > **Aperçu en 30 secondes :** Lee Ju-eun a signé un contrat d'exclusivité complète avec les Fubon Braves en 2025, puis a clairement recentré sa carrière à Taïwan en 2026. Son importance ne réside pas uniquement dans sa forte visibilité : elle a fait évoluer le parcours des pom-pom girls coréennes (韓援) d'un modèle « aller-retour bilatéral » vers une « installation durable à Taïwan ».
@@ -21,6 +21,8 @@ translatedAt: 2026-05-01T22:19:06+08:00
 Après avoir suscité un engouement en Corée du Sud, elle ne s'est pas contentée d'une coopération à court terme, mais s'est orientée directement vers une intégration plus profonde au sein d'une agence de gestion. Cette démarche la distingue nettement des pom-pom girls coréennes venues pour de simples « apparitions ponctuelles » à Taïwan.
 
 Les signaux de reconduction avant et après la saison 2026 ont concrétisé cette trajectoire : elle ne s'est pas contentée de passer par Taïwan — elle l'a intégré au cœur de sa carrière.
+
+L'édition numérique du *United Daily News* / *UDN News* rapporte, dans son article de mars 2026 sur la conférence de presse d'ouverture des Fubon Angels, que Lee Ju-eun, reconduite chez les Fubon Braves, a été émue jusqu'aux larmes en saluant les supporters en chinois ; le même article mentionne aussi des détails sur l'événement, comme la présence de Park Seong-eun portant un cache-œil à cause d'un orgelet — autant d'éléments utiles pour saisir le climat médiatique de cette période. [Source : United Daily News / UDN News][^6]
 
 ## De la viralité à l'ancrage à long terme
 
@@ -57,8 +59,11 @@ Ce changement de paradigme est probablement l'une des évolutions les plus impor
 
 ## Références / Sources
 
-Source 1 : https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
-Source 2 : https://m.mirrormedia.mg/story/20260223edi054
-Source 3 : https://stage.newtalk.tw/news/view/2026-02-23/1021071
-Source 4 : https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html
-Source 5 : https://news.pchome.com.tw/entertainment/crwant/20260330/index-77484543045734316006.html
+[^6]: *United Daily News* / *UDN News* (journaliste Yeh Pei-yu), « CPBL / Les cinq renforts coréennes des Fubon Braves apparaissent ensemble — Lee Ju-eun, “je vous ai trop manqués”, fond en larmes d'émotion », 2026-03-25, https://udn.com/news/story/7002/9402487
+
+Autres sources vérifiables :
+
+- Wikipédia (présentation biographique) : https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
+- Mirror Media (récapitulatif biographique / matchs) : https://m.mirrormedia.mg/story/20260223edi054
+- Newtalk News, « Lee Ju-eun annonce officiellement son maintien à Taïwan ! Deuxième année chez les Fubon, une grande nouvelle dévoilée », 2026-02-23, https://www.newtalk.tw/news/view/2026-02-23/1021071
+- Yahoo News (récapitulatif calendrier / saison) : https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html

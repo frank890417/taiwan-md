@@ -1,5 +1,5 @@
 ---
-title: 'Chen Shu-chu'
+title: 'Chen Shu-chu: la vendedora de verduras de Taitung que donó decenas de millones a lo largo de cincuenta años con el dinero de su puesto'
 description: 'Una vendedora de verduras de Taitung que donó decenas de millones a lo largo de cincuenta años con el dinero de su puesto, y aun así decía de sí misma: "Solo soy una vendedora de verduras"'
 date: 2026-03-19
 tags:
@@ -13,13 +13,13 @@ tags:
     donaciones educativas,
   ]
 subcategory: '慈善與社會'
-lastVerified: 2026-04-03
+lastVerified: 2026-05-16
 lastHumanReview: 2026-04-03
 translatedFrom: People/陳樹菊.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:323b34d523a17107'
-sourceBodyHash: 'sha256:cf7f5778e87ab86e'
-translatedAt: 2026-05-01T22:19:10+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:d1c0a6dbeec92a83'
+sourceBodyHash: 'sha256:af4f6ea50e9c1ec1'
+translatedAt: '2026-05-17T06:00:00Z'
 category: People
 ---
 
@@ -39,7 +39,7 @@ El puesto de Chen Shu-chu está en el Mercado Central de Taitung. Cada día comi
 
 El puesto no es grande, pero tiene buena ubicación: cuando el mercado se inauguró y se sortearan las ubicaciones, a su familia le tocó un buen lugar. Con el tiempo desarrolló un modelo de negocio: suministraba verduras a las tropas estacionadas en la isla de Lüdao, ya que enviarlas directamente desde Taitung resultaba más barato que transportarlas desde otras partes.[^4] Esto le dio ingresos estables, pero seguían siendo los ingresos de una vendedora de verduras.
 
-Su dinero no se ganó de una vez, sino que se ahorró verdura tras verdura. Casi no gasta en sí misma: no come fuera, no compra ropa nueva y vive en una casa vieja cerca del mercado. Lo que ahorra tiene otro destino.
+Su dinero se ahorró verdura tras verdura, sin ningún golpe de fortuna ni atajo. Casi no gasta en sí misma: no come fuera, no compra ropa nueva y vive en una casa vieja cerca del mercado. Lo que ahorra tiene otro destino.
 
 ## Cronología de donaciones
 
@@ -88,6 +88,12 @@ La respuesta es decenas de millones.
 La pregunta más profunda es: ¿por qué una vendedora de verduras haría esto? Su respuesta nunca ha cambiado: porque a los 13 años su madre murió camino al hospital y ella no pudo hacer nada. Cincuenta años después, por fin tenía la capacidad de asegurarse de que la madre de otros no sufriera el mismo destino.[^11]
 
 En 2025, la Universidad de Taitung le otorgó un doctorado honorario. Al subir al estrado a dar su discurso de agradecimiento, dijo: "Gracias a todos por no despreciarme por ser una vendedora de puesto callejero."[^13]
+
+## Lecturas complementarias
+
+- [Mercado Central de Taitung](/lifestyle/台東市集) — Sede del puesto de verduras donde Chen Shu-chu trabajó durante cincuenta años; espacio representativo de la economía popular de Taitung
+- [Cultura filantrópica taiwanesa](/society/台灣慈善文化) — Desde Tzu Chi de la maestra Cheng Yen hasta la vendedora Chen Shu-chu: dos modelos de filantropía civil en Taiwán
+- [Educación en zonas remotas de Taiwán](/society/台灣偏鄉教育) — Principales destinatarios de las donaciones de Chen Shu-chu a lo largo de los años: bibliotecas, escuelas y orfanatos, con un seguimiento sostenido en el tiempo
 
 ## Referencias
 

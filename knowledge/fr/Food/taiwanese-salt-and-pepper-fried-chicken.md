@@ -5,28 +5,23 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '飲食場景'
-tags:
-  [
-    'poulet frit au sel et poivre',
-    'culture de la collation nocturne',
-    'friture',
-    'basilic tropical',
-    'marché nocturne',
-  ]
+tags: ['poulet frit au sel et poivre', 'culture de la collation nocturne', 'friture', 'basilic tropical', 'marché nocturne']
 readingTime: 7
-lastVerified: 2026-03-19
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 featured: true
 translatedFrom: 'Food/台灣鹹酥雞.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:f78e66c21a3386f0'
-sourceBodyHash: 'sha256:f601237f7e38aaea'
-translatedAt: '2026-05-01T22:19:06+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:19740acf787fc53e'
+sourceBodyHash: 'sha256:eaf89ac01bb318f9'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # Le poulet frit taïwanais au sel et poivre
 
-Lorsque la nuit tombe, les rues et ruelles de Taïwan se remplissent progressivement de l'arôme de la friture. Les longues files d'attente devant les stands de poulet frit au sel et poivre constituent le paysage le plus familier de la vie nocturne taïwanaise. Ce poulet frit en apparence simple recèle en réalité un code socioculturel complexe. Depuis son développement dans les années 1970, il est devenu le symbole de l'esthétique de la collation nocturne taïwanaise.[^1]
+> **En 30 secondes :** Le poulet frit au sel et poivre est le symbole de l'esthétique de la collation nocturne taïwanaise. En 1975, la marque « Taiwan Di Yi Jia » du quartier Ximending à Taipei l'a fait passer du chariot de rue à l'ère de la franchise[^1]. Sa préparation est singulière : choix libre des ingrédients dans la vitrine vitrée, friture rapide à température moyennement élevée, basilic tropical frais ajouté à la sortie de la friteuse pour libérer son arôme. Là où le karaage japonais cherche la pureté du produit, le poulet frit taïwanais est une expérience globale d'assaisonnement et d'épices, et un vecteur concret de la culture des heures supplémentaires et du « rituel de récompense » à Taïwan.
+
+Lorsque la nuit tombe, les rues et ruelles de Taïwan se remplissent progressivement de l'arôme de la friture. Les longues files d'attente devant les stands de poulet frit au sel et poivre constituent le paysage le plus familier de la vie nocturne taïwanaise. Ce poulet frit en apparence simple recèle en réalité un code socioculturel complexe. Depuis son développement dans les années 1970, il est devenu le symbole de l'esthétique de la collation nocturne taïwanaise[^1].
 
 ## La sociologie des stands de poulet frit
 
@@ -44,7 +39,7 @@ L'assaisonnement final constitue le point culminant de tout le processus. Poivre
 
 ## Le basilic tropical : l'âme de la friture taïwanaise
 
-Le basilic tropical (九層塔, _Ocimum basilicum_ var. _thyrsiflorum_) joue un rôle essentiel dans la cuisine taïwanaise, et il est tout simplement incontournable dans le poulet frit. Cette plante aromatique, originaire de l'Inde, est arrivée à Taïwan avec les immigrants et s'est progressivement intégrée à la culture culinaire locale.
+Le basilic tropical (九層塔, _Ocimum basilicum_ var. _thyrsiflorum_) est omniprésent dans la cuisine taïwanaise, et le poulet frit au sel et poivre ne s'en passe jamais. Cette plante aromatique, originaire de l'Inde, est arrivée à Taïwan avec les immigrants et s'est progressivement intégrée à la culture culinaire locale.
 
 Le basilic tropical taïwanais possède un arôme distinctif, plus intense que celui du basilic italien. Lorsque les feuilles fraîches rencontrent l'huile brûlante des fritures sortant de la friteuse, une réaction chimique se produit, libérant des composés aromatiques complexes. Ce parfum allie la fraîcheur herbacée à une légère note épicée, contrebalançant efficacement le caractère gras des aliments frits.
 

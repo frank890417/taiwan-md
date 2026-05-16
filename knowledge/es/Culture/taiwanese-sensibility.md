@@ -17,14 +17,14 @@ tags:
     'Rostro de casas antiguas',
   ]
 readingTime: '14'
-lastVerified: '2026-04-08'
+lastVerified: '2026-05-16'
 lastHumanReview: 'true'
 featured: 'true'
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: '5db9f136'
-sourceContentHash: 'sha256:785a3e1b4966025f'
-sourceBodyHash: 'sha256:3803abbb5597e9da'
-translatedAt: '2026-05-02T01:17:17+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:413833a72961c88e'
+sourceBodyHash: 'sha256:9858a809538deaaf'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # La sensibilidad taiwanesa: la estética taiwanesa a través de los ojos coreanos
@@ -37,7 +37,7 @@ translatedAt: '2026-05-02T01:17:17+08:00'
 
 En 2013, Xin Yongsheng y Yang Chaojing se plantearon en Tainan «una ambición desmedida»[^1]: querían descubrir cuántos tipos de rejas de hierro ornamentales existían en la ciudad.
 
-Xin estudió diseño de interiores e Yang ingeniería informática. Ambos, originarios de Kaohsiung, se conocieron en 2011 en el Festival de Arte en Contenedores de Kaohsiung y descubrieron que sus cámaras apuntaban instintivamente hacia las casas antiguas. Fundaron el estudio «Rostro de Casas Antiguas» (_Lao Wu Yan_) y recorrieron callejón tras callejón. En menos de medio año fotografiaron más de dos mil diseños distintos: desde patrones geométricos hasta flores, pájaros, peces e insectos. Cada ventana era la expresión estética y la memoria de una familia.
+Xin estudió diseño de interiores e Yang ingeniería informática. Ambos, originarios de Kaohsiung, se conocieron en 2011 en el Festival de Arte en Contenedores de Kaohsiung y descubrieron que sus cámaras apuntaban instintivamente hacia las casas antiguas. Fundaron el estudio «Rostro de Casas Antiguas» (_Lao Wu Yan_) y recorrieron callejón tras callejón. En menos de medio año fotografiaron más de dos mil diseños distintos: líneas geométricas, flores, pájaros, peces e insectos, símbolos tradicionales. Cada ventana era la expresión estética y la memoria de una familia.
 
 «¡Luego nos dimos cuenta de que esto era un abismo sin fondo!», dijo Yang Chaojing[^1].
 
@@ -52,7 +52,7 @@ Cuando un taiwanés ve una reja ornamental de hierro, piensa en cambiarla por un
 
 ## De un video musical a un millón de personas
 
-El término «대만감성» surgió alrededor de 2019 en las comunidades coreanas de fotografía y viajes. Ese año, el cantante independiente coreano Car, the garden grabó en Taiwán el video musical de 〈Tree〉, con imágenes de vías de tren, motocicletas y naves industriales: la cotidianidad que un taiwanés apenas miraría[^3].
+El término «대만감성» surgió alrededor de 2019 en las comunidades coreanas de fotografía y viajes. Ese año, el cantante independiente coreano Car, the garden grabó en Taiwán el video musical de 〈Tree〉, con imágenes de vías de tren, motocicletas y naves industriales, toda la cotidianidad que un taiwanés apenas miraría[^3].
 
 La verdadera explosión llegó en 2024. En marzo, ILLIT, el nuevo grupo femenino de HYBE, viajó a Taipéi para las fotos conceptuales de su álbum debut _Super Real Me_: estaciones de metro, edificios de apartamentos y tiendas de conveniencia entraron en cuadro[^4]. En mayo, NewJeans lanzó el video musical de 〈How Sweet〉, con la pasarela circular del complejo residencial Huajiang en Wanhua, las calles del distrito Minsheng, los arrozales y el paso a nivel de Jiaoxi en Yilan. Cada escena fue identificada y visitada por fans coreanos uno por uno[^5].
 
@@ -89,7 +89,7 @@ Yendo más profundo, también está el legado del Nuevo Cine Taiwanés. Los plan
 
 ## Mapa de peregrinación y su sombra
 
-Los lugares que se popularizaron gracias a la sensibilidad taiwanesa no son puntos turísticos tradicionales, sino escenas cotidianas con vida propia: el complejo residencial Huajiang en Wanhua (video de NewJeans), las fachadas barrocas de Dihua Street en Dadaocheng, las calles arboladas del distrito Minsheng, Shennong Street en Tainan y el paso a nivel de Jiaoxi en Yilan.
+Los lugares que se popularizaron gracias a la sensibilidad taiwanesa esquivan los puntos turísticos tradicionales y caen en escenas cotidianas con vida propia: el complejo residencial Huajiang en Wanhua (video de NewJeans), las fachadas barrocas de Dihua Street en Dadaocheng, las calles arboladas del distrito Minsheng, Shennong Street en Tainan y el paso a nivel de Jiaoxi en Yilan.
 
 Pero cuando «la cotidianidad imperfecta» se convierte en producto turístico, surge la tensión.
 
@@ -114,7 +114,7 @@ El diseñador Fang Xu-Zhong opina de forma similar: «Esto no debería recaer so
 
 El escritor Lu Hongjin escribió una observación precisa: «La sensibilidad taiwanesa, para los taiwaneses, es tan cotidiana como respirar, un gen ya integrado en la sangre»[^14]. No notas que estás respirando hasta que alguien dice que tu respiración suena bien.
 
-La curaduría de la Feria del Libro de Seúl 2025 también buscó promover una comprensión más profunda. Seis zonas temáticas —literatura, vida cotidiana, imagen, viaje por la tierra, gastronomía y entretenimiento, sensibilidad histórica— no solo mostraban la belleza visual de Taiwán, sino que desplegaban el tejido cultural detrás de esa belleza[^8]. El ministro de Cultura, Li Yuan, dijo en la inauguración que la sensibilidad de Taiwán proviene de la «resiliencia e inclusividad» de una pequeña isla, que al absorber influencias externas ha desarrollado una profundidad cultural única[^15].
+La curaduría de la Feria del Libro de Seúl 2025 también buscó promover una comprensión más profunda. Seis zonas temáticas —literatura, vida cotidiana, imagen, viaje por la tierra, gastronomía y entretenimiento, sensibilidad histórica— concentraron el eje curatorial en el tejido cultural que está detrás de esa belleza[^8]. El ministro de Cultura, Li Yuan, dijo en la inauguración que la sensibilidad de Taiwán proviene de la «resiliencia e inclusividad» de una pequeña isla, que al absorber influencias externas ha desarrollado una profundidad cultural única[^15].
 
 Yang Chaojing, tras visitar innumerables casas antiguas, dijo una vez: «Las casas son como recipientes; cada familia prepara una bebida diferente, dependiendo del sentimiento que le inyecte»[^1].
 

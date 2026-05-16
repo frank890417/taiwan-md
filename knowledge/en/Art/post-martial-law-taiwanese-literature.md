@@ -11,15 +11,15 @@ tags:
   ]
 subcategory: '文學'
 date: 2026-03-18
-lastVerified: 2026-04-27
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 readingTime: 8
 description: Thirty-eight years of repression lifted in a single night, and literature erupted — but freedom is not the same as liberation from constraint, and new challenges quietly arrived
 translatedFrom: Art/解嚴後台灣文學.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:493c1722ce576d1b'
-sourceBodyHash: 'sha256:5be7a14368f53828'
-translatedAt: '2026-05-01T01:46:13+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:5365049c5ef601b0'
+sourceBodyHash: 'sha256:c355aaf2378be217'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 # Post-Martial-Law Taiwanese Literature
@@ -76,7 +76,7 @@ Before the lifting of martial law, creating in Hokkien was nearly impossible. Af
 
 **Sung Tse-lai** was a key figure in the Hokkien literary renaissance. His novel _Da Niu Nan Village_ uses Hokkien Chinese characters, depicting the transformation of rural society. Sung Tse-lai wrote in Hokkien while simultaneously building the theoretical foundations of Hokkien literature, establishing academic standing for a long-marginalized genre.
 
-**Li Chiao** approached from the perspective of Hakka literature. His _Cold Night Trilogy_, though written in Mandarin, preserves a strong sense of Hakka linguistic feeling and cultural content. He once said: "Language is not just a communication tool — it is the vessel of culture. We must tell our own stories in our own language."
+**Li Chiao** approached from the perspective of Hakka literature. His _Cold Night Trilogy_, though written in Mandarin, preserves a strong sense of Hakka linguistic feeling and cultural content. He has long maintained that language is the vessel of culture, and that Taiwanese writers must tell their own stories in their own languages.
 
 ### The Awakening of Indigenous Literature
 
@@ -185,7 +185,7 @@ After the millennium, the stage passed to a new generation of voices: Wu Ming-yi
 
 [^2]: [Preface: The N Ways of Banning — Taiwan Literature Virtual Museum](https://www.tlvm.com.tw/zh/Theme/ExhibitionArticleCont?Exbid=302) — Drawing on the recollections of editors including Peng Jui-jin, compiles the multiple means of literary censorship during the martial law period (title lists, publication bans, copyright seizures, etc.); essential material for understanding the pre-martial-law literary ecology.
 
-[^3]: [Notes of a Desolate Man — Taiwan Culture Portal](https://toolkit.culture.tw/literatureinfo_155_40.html) — Records the writing background of Chu Tien-wen's _Notes of a Desolate Man_, the inaugural China Times Literature Prize of One Million Dollars win, and the work's place in Taiwan's history of queer literature.
+[^3]: [vocus book review: Chu Tien-wen's _Notes of a Desolate Man_ (1994)](https://vocus.cc/article/680dbb98fd89780001b2d3f8) — Detailed book review noting that Chu Tien-wen's _Notes of a Desolate Man_ was completed on 23 February 1994, won the first China Times Literature Prize of One Million Dollars the same year, treats gay male subject matter, and holds a defining position in Taiwan's history of queer literature.
 
 [^4]: [Notes of a Desolate Man — Wikipedia (zh)](https://zh.wikipedia.org/zh-tw/%E8%8D%92%E4%BA%BA%E6%89%8B%E8%A8%98) — Detailed entry on the narrative structure, classical aesthetics fused with urban decadence, and the work's position in Taiwan's literary history of gender writing.
 

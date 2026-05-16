@@ -1,6 +1,6 @@
 ---
-title: 'Chen Shu-chu'
-description: 'Une marchande de légumes de Taïdong qui a donné des dizaines de millions de dollars sur cinquante ans, et qui dit simplement : « Je ne suis qu'une vendeuse de légumes. »'
+title: "Chen Shu-chu : une marchande de légumes de Taïdong qui a fait don de dizaines de millions accumulés en cinquante ans de petit commerce"
+description: "Une marchande de légumes de Taïdong qui a donné des dizaines de millions de dollars sur cinquante ans, et qui dit simplement : « Je ne suis qu'une vendeuse de légumes. »"
 date: 2026-03-19
 tags: [personnalité, philanthropie, Taïdong, marchande, TIME Magazine, Prix Magsaysay, dons à l'éducation]
 subcategory: 'Philanthropie et société'
@@ -9,11 +9,11 @@ author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
 translatedFrom: "People/陳樹菊.md"
-lastVerified: 2026-04-03
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:323b34d523a17107'
-sourceBodyHash: 'sha256:cf7f5778e87ab86e'
-translatedAt: "2026-04-14T19:19:36+08:00"
+lastVerified: 2026-05-16
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:360441c78c4500d7'
+sourceBodyHash: 'sha256:547ef7dbb8323b13'
+translatedAt: "2026-05-17T06:15:00Z"
 ---
 
 > **En 30 secondes :** Chen Shu-chu, née en 1950, tient un étal de légumes au marché central de Taïdong. À 13 ans, elle quitte l'école pour vendre des légumes après le décès de sa mère lors d'un accouchement difficile. Durant plus de cinquante ans, elle a fait don de plusieurs dizaines de millions de dollars à des écoles, des orphelinats et des hôpitaux. En 2010, le magazine TIME la classe parmi les 100 personnalités les plus influentes du monde — le réalisateur Ang Lee rédige lui-même sa présentation. Venue à New York pour recevoir son prix, elle déclare aux journalistes : « Je ne suis qu'une vendeuse de légumes. »[^1]
@@ -32,7 +32,7 @@ L'étal de Chen Shu-chu se trouve au marché central de Taïdong. Elle est la pr
 
 L'emplacement n'est pas grand, mais il est bien situé — tiré au sort lors de l'ouverture du marché, son père était tombé sur une bonne place. Elle a développé au fil du temps un modèle commercial original : approvisionner en légumes la garnison militaire de Green Island, car livrer depuis Taïdong revient moins cher que de faire venir la marchandise de l'extérieur.[^4] Ses revenus restaient stables, mais ceux d'une vendeuse de légumes.
 
-Son argent n'est pas venu d'un coup — il s'est accumulé botte par botte, pendant des décennies. Elle ne dépense presque rien pour elle-même : pas de restaurant, pas de vêtements neufs, une vieille maison près du marché. Ce qu'elle économise, elle le réserve à autre chose.
+Son argent s'est accumulé botte par botte, sans aucun coup de pouce ni gain exceptionnel. Elle ne dépense presque rien pour elle-même : pas de restaurant, pas de vêtements neufs, une vieille maison près du marché. Ce qu'elle économise, elle le réserve à autre chose.
 
 ## Une vie de dons, année après année
 
@@ -81,6 +81,12 @@ La réponse : plusieurs dizaines de millions.
 La question plus profonde est : pourquoi une vendeuse de légumes ferait-elle cela ? Sa réponse n'a jamais changé. Parce qu'à 13 ans, sa mère est morte sur le chemin de l'hôpital, et elle ne pouvait rien faire. Cinquante ans plus tard, elle avait enfin les moyens de s'assurer que la mère de quelqu'un d'autre ne connaîtrait pas le même sort.[^11]
 
 En 2025, l'Université nationale de Taïdong lui décerne un doctorat honoris causa. Dans son discours, elle dit : « Merci de ne pas m'avoir méprisée parce que je vendais des légumes sur le bord de la route. »[^13]
+
+## Pour aller plus loin
+
+- [Marché central de Taïdong](/lifestyle/台東市集) — Lieu où s'est tenu l'étal de Chen Shu-chu pendant cinquante ans, scène représentative de l'économie populaire de Taïdong
+- [Culture de la philanthropie à Taïwan](/society/台灣慈善文化) — De la maître Cheng Yen et Tzu Chi à Chen Shu-chu, deux modèles de philanthropie civile taïwanaise
+- [Éducation dans les zones rurales de Taïwan](/society/台灣偏鄉教育) — Les principaux destinataires des dons de Chen Shu-chu au fil des années : bibliothèques, écoles et orphelinats, et le contexte de leur soutien à long terme
 
 ## Références
 

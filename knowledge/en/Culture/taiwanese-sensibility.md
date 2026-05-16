@@ -19,13 +19,13 @@ author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 14
 featured: true
-lastVerified: 2026-04-08
+lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: '5db9f136'
-sourceContentHash: 'sha256:785a3e1b4966025f'
-sourceBodyHash: 'sha256:3803abbb5597e9da'
-translatedAt: '2026-05-01T12:53:58+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:413833a72961c88e'
+sourceBodyHash: 'sha256:9858a809538deaaf'
+translatedAt: '2026-05-17T05:58:00Z'
 ---
 
 # Taiwanese Sensibility: How Korea Fell in Love with Taiwan's Streets

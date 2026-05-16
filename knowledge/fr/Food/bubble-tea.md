@@ -13,10 +13,10 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.j
 imageAlt: 'Bubble tea classique'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: "Food/珍珠奶茶.md"
-sourceCommitSha: "a05d2431"
-sourceContentHash: "sha256:95857cbd0268032d"
-sourceBodyHash: 'sha256:23c2ac3cebaa2348'
-translatedAt: "2026-04-14T12:29:04+08:00"
+sourceCommitSha: "d6e87d07"
+sourceContentHash: "sha256:cdebc1978d57fc65"
+sourceBodyHash: 'sha256:451d43de815e54d2'
+translatedAt: "2026-05-17T06:15:00Z"
 ---
 
 # Le bubble tea

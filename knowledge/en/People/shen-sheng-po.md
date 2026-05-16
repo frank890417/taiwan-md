@@ -16,13 +16,13 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:ba33a2f2652e311d'
-sourceBodyHash: 'sha256:c37a25a71c1fa8db'
-translatedAt: '2026-05-01T14:11:02+08:00'
+category: 'People'
 subcategory: '藝術與設計'
-category: People
+translatedFrom: 'People/沈聖博.md'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:694eb339d3f6dd17'
+sourceBodyHash: 'sha256:894085004abdb3f1'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 # Shen Sheng-Po

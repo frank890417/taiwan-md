@@ -1,7 +1,7 @@
 ---
 title: 'Jin-enoki'
 description: "En accumulant une influence à travers des récits de vie à Taïwan, elle a transformé « les Coréens à Taïwan » d'un titre de journal en un type de contenu regardable au quotidien."
-date: 2026-04-14
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: People
 subcategory: '流行人物'
@@ -16,20 +16,20 @@ tags:
     'Taïwan',
   ]
 readingTime: 9
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/金針菇.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c7df79384a3f8e53'
-sourceBodyHash: 'sha256:ee002af28b6f5f29'
-translatedAt: '2026-05-01T22:19:06+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:a4d0a0070adaa30d'
+sourceBodyHash: 'sha256:4b10f11517195560'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 > **En 30 secondes :** Jin (金針菇) n'est pas une pom-pom girl coréenne sur un terrain de baseball, mais une créatrice de longue distance sur les plateformes numériques. Elle documente sa vie à Taïwan en mandarin, faisant de « les Coréens à Taïwan » un type de contenu pouvant être suivi sur la durée, dont l'influence dépasse le cadre d'une vidéo ou d'un événement unique.
 
 Contrairement aux pom-pom girls coréennes du baseball professionnel, son terrain de jeu n'est pas les gradins, mais YouTube et les réseaux sociaux. Elle transforme l'apprentissage des langues, les habitudes de vie, la culture alimentaire et les interactions humaines en récits pouvant être mis à jour de façon continue.
 
-C'est pourquoi elle se distingue parmi les « Coréens actifs à Taïwan » : elle ne dépend ni d'un système d'équipe sportive ni d'un système de management, mais s'appuie sur une marque personnelle pour produire du contenu de manière stable.
+C'est pourquoi elle se distingue parmi les « Coréens actifs à Taïwan » : elle ne dépend ni d'un système d'équipe sportive ni d'un système de management, mais s'appuie sur une marque personnelle pour produire du contenu de manière stable. Pour les données biographiques et la chronologie de la chaîne publiquement vérifiables, on se reportera à l'entrée Wikipédia « Jin-enoki »[^2] ; ces dernières années, ses vidéos restent publiées en priorité sur sa chaîne YouTube officielle[^3].
 
 ## Trajectoire éditoriale : la vie comme sujet
 
@@ -43,7 +43,7 @@ Elle crée en mandarin depuis longtemps, ce qui constitue un avantage clair de l
 
 De plus, son image est relativement stable, avec peu de changements radicaux de persona. Cette constance lui permet de maintenir une fidélité de visionnage prévisible malgré les évolutions des algorithmes et la concurrence entre plateformes.
 
-> **📝 Note du curateur**
+> **📝 Note du commissaire**
 > Le point contre-intuitif concernant Jin est que son œuvre la plus importante n'est pas « une vidéo virale en particulier », mais tout un projet d'ingénierie de contenu quotidien durable.
 
 ## Rôle public et débat social
@@ -51,6 +51,12 @@ De plus, son image est relativement stable, avec peu de changements radicaux de 
 Lorsqu'une créatrice étrangère discute longuement de la vie à Taïwan, elle est naturellement intégrée dans des enjeux sociétaux plus larges, incluant les stéréotypes culturels, le travail transfrontalier et les limites de l'opinion publique en ligne. Jin a également fait face à des controverses et des critiques à différentes périodes, reflétant les risques structurels auxquels sont exposés les créateurs à forte visibilité.
 
 Ces épisodes nous rappellent que les créateurs ne font pas que « raconter des histoires », mais assument aussi la responsabilité et le coût inhérents à une figure publique.
+
+## 2026 : le single « A Jin-jia » et le récit du « guide de survie à Taïwan »
+
+Fin avril 2026, Jin sort un nouveau morceau dansant, « A Jin-jia » ; la rubrique divertissement du *Liberty Times* rapporte qu'elle s'est entourée du producteur Oliver Kim, dans la continuité de la ligne rythmique des tubes du groupe Energy. Le titre joue sur une homophonie en coréen oral, et les paroles découpent en saynètes les « micro-effondrements » de la vie à Taïwan (feux rouges interminables, tickets de loto perdants, demandes spéciales aux restaurants, etc.) ; le clip retourne dans la rue et au boui-boui de petit-déjeuner pour prolonger son langage visuel de vlogueuse.[^1]
+
+Cet album poursuit sa démarche : transformer le « quotidien à Taïwan » en texte chantable. Là où *Taipei Love* relevait d'une mobilisation émotionnelle proche de la déclaration, *A Jin-jia* inscrit plus directement les frictions interculturelles dans le hook d'un morceau dansant, en facilitant ainsi le remontage en formats courts et la diffusion sur les réseaux sociaux.[^1]
 
 ## Pourquoi elle est une figure populaire
 
@@ -60,8 +66,8 @@ Pour Taiwan.md, elle offre un autre modèle d'activité des Coréens à Taïwan 
 
 ## Références / Sources
 
-Source 1 : https://zh.wikipedia.org/wiki/%E9%87%91%E9%87%9D%E8%8F%87
-Source 2 : https://www.youtube.com/@Jin_tingu
-Source 3 : https://today.line.me/tw/v2/article/VxKxwyq
-Source 4 : https://www.setn.com/News.aspx?NewsID=1657679
-Source 5 : https://tw.news.yahoo.com/%E5%95%A6%E5%95%A6%E9%9A%8A%E9%9F%93%E5%9C%8B%E5%A5%B3%E7%A5%9E%E5%A4%A9%E8%8F%9C%E8%8F%9C%E5%96%AE-%E9%81%AD%E8%99%A7%E7%A0%B4%E7%AB%A5%E8%B2%9E-31%E8%90%AC%E4%BA%BA%E5%9A%87%E7%88%92-045617079.html
+[^1]: Liberty Times Entertainment, « Jin-enoki lance son "guide de survie à Taïwan" : le nouveau morceau "A Jin-jia" co-signé par le producteur derrière Energy », 2026-04-29, https://ent.ltn.com.tw/news/breakingnews/5420000
+
+[^2]: Wikipédia (chinois), entrée « Jin-enoki » (présentation générale du personnage et de la chaîne), https://zh.wikipedia.org/wiki/%E9%87%91%E9%87%9D%E8%8F%87
+
+[^3]: Chaîne YouTube officielle « 韓勾ㄟ金針菇 », https://www.youtube.com/@Jin_tingu

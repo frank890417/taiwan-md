@@ -19,10 +19,10 @@ readingTime: 15
 lastVerified: '2026-03-24'
 lastHumanReview: false
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:16a0f8bff9cea010'
 sourceBodyHash: 'sha256:4bfda7146e522cab'
-translatedAt: '2026-05-01T18:09:43+08:00'
+translatedAt: '2026-05-17T06:35:00Z'
 lifeTree:
   protagonist: '侯孝賢'
   birthYear: 1947

@@ -1,7 +1,7 @@
 ---
 title: '이호정: 푸방 복귀와 높은 출석·인지도'
 description: '한국 치어를 대만에서 ‘게스트 자리’에서 ‘고정 로스터’로 옮기는 상징.'
-date: 2026-04-14
+date: 2026-05-13
 category: People
 subcategory: '팝 문화'
 tags:
@@ -16,13 +16,13 @@ tags:
   ]
 author: 'Taiwan.md Translation Team'
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-05-13
 translatedFrom: 'People/李晧禎.md'
 readingTime: 8
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:23d7ff4a25548dd1'
-sourceBodyHash: 'sha256:7920b3c19edb9fba'
-translatedAt: '2026-04-16T13:53:14+09:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:fe236b66343104a0'
+sourceBodyHash: 'sha256:fa5aded8dae3b311'
+translatedAt: '2026-05-17T06:30:00Z'
 ---
 
 > **30초 요약:** 이호정의 2026년 푸방 복귀는 로스터 깊이만이 아니다——익숙한 리듬을 되돌린다. 그녀의 표식은 높은 출석률과 안정성으로, 한국 서포트를 짧은 프로모 창에서 여러 시즌 콘텐츠 기획으로 옮긴다.
@@ -30,6 +30,8 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 그녀는 한국 치어에서 오래 일했고 대만에서는 ‘높은 가용성·높은 안정성’ 역할에 빨리 배치됐다——강한 상호작용이나 촘촘한 테마 편성이 필요한 경기에서 자주 볼 수 있다.
 
 팬 반응은 ‘돌아왔다’뿐 아니라 ‘그 익숙한 홈 감각이 돌아왔다’는 면도 포함한다.
+
+《연합보》 디지털판/연합뉴스망의 2026년 2월 보도에 따르면, 푸방 가디언스는 이호정이 2026년 시즌에 Fubon Angels 일원으로 푸방 응원에 합류한다고 발표했다.[출처: 연합보/연합뉴스망][^2] 같은 해 3월 시즌 개막 미디어 발표회 보도 역시 그녀가 신좡 홈구장 복귀를 ‘집에 돌아온 것’으로 표현했다고 인용했다.[출처: 연합보/연합뉴스망][^3]
 
 ## 복귀가 의미하는 것
 
@@ -59,8 +61,10 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 
 ## 참고 자료 / 출처
 
-1. https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%A7%E7%A6%8E
-2. https://www.nownews.com/news/6679202
-3. https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8F%A0%E7%8F%A2%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%BA%8C%E4%BA%BA%E5%86%8D%E5%90%8C%E9%9A%8A-075710153.html
-4. https://news.pchome.com.tw/entertainment/crwant/20260330/index-77484543045734316006.html
-5. https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
+[^2]: 연합보/연합뉴스망 (종합보도), 〈중직/확정! Fubon Angels ‘큰형’ 이호정 이번 시즌 푸방 응원 합류〉, 2026-02-26, https://udn.com/news/story/7002/9346859
+
+[^3]: 연합보/연합뉴스망 (기자 예페이위), 〈중직/푸방 5명 한국 출신 동반 등장 이주은 “너무 오랜만에 만나” 긴장하며 눈물〉, 2026-03-25, https://udn.com/news/story/7002/9402487
+
+그 외 검증 가능한 출처:
+
+- 위키백과(인물 개관): https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%A7%E7%A6%8E

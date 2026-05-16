@@ -2,8 +2,10 @@
 title: 'Bubble Tea'
 description: 'A casual act at a staff meeting in Taichung in 1987 led to a drink that conquered the world. The origin dispute, cultural politics, and the 500-calorie health debate behind bubble tea.'
 date: '2026-03-30'
+category: 'Food'
 tags: ['美食', '珍珠奶茶', '手搖飲', '全球化', '軟實力', '文化外交']
 subcategory: '飲品文化'
+author: 'Taiwan.md'
 featured: true
 lastVerified: '2026-03-30'
 lastHumanReview: false
@@ -11,11 +13,10 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.j
 imageAlt: '珍珠奶茶'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/珍珠奶茶.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:95857cbd0268032d'
-sourceBodyHash: 'sha256:23c2ac3cebaa2348'
-translatedAt: '2026-05-01T20:54:09+08:00'
-category: Food
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:0cf880e658e73d67'
+sourceBodyHash: 'sha256:9bc13bf8c8054628'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 # Bubble Tea

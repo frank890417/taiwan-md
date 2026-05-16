@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T15:09:20.943Z",
+  "lastUpdated": "2026-05-16T22:12:24.586Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 67,
-        "articlesLast30Days": 313,
-        "totalArticles": 697
+        "articlesLast7Days": 73,
+        "articlesLast30Days": 319,
+        "totalArticles": 702
       }
     },
     {
@@ -21,13 +21,13 @@
       "nameZh": "免疫系統",
       "metaphor": "品質防禦",
       "emoji": "🛡️",
-      "score": 22,
+      "score": 23,
       "trend": "stable",
       "version": "v1",
       "metrics": {
-        "humanReviewedCount": 154,
-        "totalArticles": 697,
-        "humanReviewedPercent": 22.1
+        "humanReviewedCount": 164,
+        "totalArticles": 702,
+        "humanReviewedPercent": 23.4
       }
     },
     {
@@ -103,12 +103,12 @@
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 697,
-          "en": 717,
-          "ja": 707,
-          "ko": 702,
-          "es": 698,
-          "fr": 718
+          "zh-TW": 702,
+          "en": 723,
+          "ja": 713,
+          "ko": 708,
+          "es": 704,
+          "fr": 724
         },
         "translationPct": 93,
         "langHealthDetails": {
@@ -127,7 +127,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 717,
+              "count": 723,
               "pct": 103
             },
             "score": 100
@@ -147,10 +147,10 @@
               "pct": 0
             },
             "articles": {
-              "count": 707,
-              "pct": 101
+              "count": 713,
+              "pct": 102
             },
-            "score": 80
+            "score": 81
           },
           "ko": {
             "ui": {
@@ -167,7 +167,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 702,
+              "count": 708,
               "pct": 101
             },
             "score": 100
@@ -187,7 +187,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 698,
+              "count": 704,
               "pct": 100
             },
             "score": 100
@@ -207,7 +207,7 @@
               "pct": 25
             },
             "articles": {
-              "count": 718,
+              "count": 724,
               "pct": 103
             },
             "score": 86

@@ -10,8 +10,8 @@ readingTime: 12
 featured: false
 translatedFrom: 'People/施振榮.md'
 sourceCommitSha: '3e53281a'
-sourceContentHash: 'sha256:92cf9b04314eac9b'
-sourceBodyHash: 'sha256:dce1b037c6c4a498'
+sourceContentHash: 'sha256:487d1e61a16e9b30'
+sourceBodyHash: 'sha256:bea7bd5b0ffc4d42'
 translatedAt: '2026-05-10T12:00:00Z'
 ---
 

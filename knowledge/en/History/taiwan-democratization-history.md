@@ -17,10 +17,10 @@ featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'History/民主化.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:5c4c48886e261a1e'
 sourceBodyHash: 'sha256:1ac64c77bbabb1d3'
-translatedAt: '2026-05-13T01:07:52Z'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 # Democratization

@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:51b6f9aa87c5e972'
-sourceBodyHash: 'sha256:ef03963755b1efd7'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:bbca77501c197a81'
+sourceBodyHash: 'sha256:76487fd0d26564e6'
+translatedAt: '2026-05-17T05:51:00Z'
 category: Nature
 ---
 
@@ -55,7 +55,7 @@ They are **indicator species for foothill ecosystems**. When leopard cats thrive
 
 The deeper significance: leopard cats don't live in untouched wilderness—they live in humanity's backyard. Protecting leopard cats is like asking a question nobody wants to answer—**are we willing to leave space in our own neighborhood for other species?**
 
-Taiwan has already lost its clouded leopards. Leopard cats are the last chance, and the final test.
+The leopard cat's habitat is exactly where human development pressure concentrates most; its situation is the most severe test for conservation work in Taiwan.
 
 ---
 
@@ -93,7 +93,7 @@ Headlights shine, leopard cat eyes reflect, and then—
 
 WUO WUO's roadkill special report used a heartbreaking title: "Splat! And Then I Became Jerky."
 
-From 2017 to 2023, recorded leopard cat roadkills exceeded 130 individuals. Nobody knows how many went undiscovered.
+From 2017 to 2023, recorded leopard cat roadkills exceeded 130 individuals.[^2] Nobody knows how many went undiscovered.
 
 Leopard cat researcher Lin Yu-hsiu tracked a cat named "Little Grass"—it was hit by cars **twice** and survived both times. Lin said: "Little Grass managed to save itself twice through car accidents. If we still don't do something for leopard cats, we're really wasting its self-rescue efforts."
 
@@ -131,7 +131,7 @@ Additionally, mountain snare traps—though completely banned in 2020—still se
 
 "Don't catch my chickens and I won't poison you"—this logic is clear, but you can't expect leopard cats to understand human language. So the government tried a different approach: **pay farmers**.
 
-Starting in 2021, the Ministry of Agriculture launched the "Leopard Cat Ecological Payment Program." Farmers adopting wildlife-friendly practices (no poison bait, no snare traps) in leopard cat habitat areas can receive up to NT$20,000 per hectare in subsidies. If camera traps capture leopard cats on your farmland, you get an additional NT$10,000.
+Starting in 2021, the Ministry of Agriculture launched the "Leopard Cat Ecological Payment Program."[^3] Farmers adopting wildlife-friendly practices (no poison bait, no snare traps) in leopard cat habitat areas can receive up to NT$20,000 per hectare in subsidies. If camera traps capture leopard cats on your farmland, you get an additional NT$10,000.
 
 This isn't charity. This is **making farmers allies of conservation rather than enemies**.
 
@@ -149,7 +149,7 @@ Conservation needs stories, and stories need protagonists.
 
 **Jibao**—a leopard cat rescued by Taichung Houli Animal Shelter, became a conservation education star due to its human-friendly personality. It introduced many people who never cared about leopard cats to Taiwan's native species.
 
-**Ahu**—a leopard cat at the Endemic Species Research Institute, participated in artificial breeding programs. Every birth of artificially bred leopard cat cubs becomes news.
+**Ahu**—a leopard cat at the Ministry of Agriculture's Taiwan Biodiversity Research Institute (TBRI), participated in artificial breeding programs.[^4] Every birth of artificially bred leopard cat cubs becomes news.
 
 These celebrity leopard cats' existence is contradictory—they're close to humans because they can no longer survive in the wild.
 
@@ -169,7 +169,7 @@ These reasons sound reasonable, but translated into plain language: leopard cats
 
 Miaoli's streets are covered with leopard cat images—bus stops, garbage trucks, tourism brochures. Leopard cats are Miaoli's mascots, but they can't be Miaoli's neighbors.
 
-Finally, under public pressure, Miaoli succeeded on its third attempt in 2020, passing Taiwan's first leopard cat conservation autonomy ordinance. But the process itself has become a classic case of the huge gap between Taiwan's "lip service conservation" and "actual action."
+Finally, under public pressure, on December 10, 2019, Miaoli County passed Taiwan's first leopard cat conservation autonomy ordinance on its third reading.[^1] But the process itself has become a classic case of the huge gap between Taiwan's "lip service conservation" and "actual action."
 
 ---
 
@@ -182,7 +182,7 @@ Finally, under public pressure, Miaoli succeeded on its third attempt in 2020, p
 - 💰 Under the leopard cat ecological payment program, farmers' "reward photos" of leopard cats have unexpectedly become popular social media content
 - 🐕 In dog-attack cases, the attackers are mostly **feral dog packs** (3 or more dogs), not solo strays
 - 🗳️ Miaoli's leopard cat conservation autonomy ordinance was rejected **twice** by the county council before passing on the third attempt—while Miaoli simultaneously uses leopard cats as tourism mascots
-- 📸 The Endemic Species Research Institute's camera trap network is the most important tool for tracking leopard cat numbers—but coverage still reaches less than half of leopard cat habitat
+- 📸 The Ministry of Agriculture's Taiwan Biodiversity Research Institute (TBRI) camera trap network is the most systematic tool for tracking leopard cat numbers—but coverage still reaches less than half of leopard cat habitat
 
 ---
 
@@ -202,11 +202,16 @@ Taiwanese people like to say "prayers bring protection." But leopard cats don't 
 
 ---
 
-## Further Reading
+## References
 
-- [WUO WUO: Before Extinction—Taiwan Leopard Cat Special Report](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat)
-- [WUO WUO: The Underestimated Threat—Dogs Killing Leopard Cats](https://wuo-wuo.com/topics/widlife/dogkill)
-- [WUO WUO: Splat! And Then I Became Jerky—Roadkill Special Report](https://wuo-wuo.com/topics/widlife/94-road-killing-topic)
-- [Endemic Species Research Institute](https://www.tbri.gov.tw/)
-- [Ministry of Agriculture Leopard Cat Ecological Payment Program](https://www.moa.gov.tw/)
-- [Leopard Cat Conservation Ambassador—Ahu Family](https://www.facebook.com/LeopardCatTaiwan/)
+[^1]: [Miaoli Leopard Cat Conservation Autonomy Ordinance - Environmental Information Center](https://e-info.org.tw/node/221882) — Confirms Miaoli County's leopard cat conservation autonomy ordinance passed third reading on December 10, 2019.
+[^2]: [WUO WUO: Splat! And Then I Became Jerky—Roadkill Special Report](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — 2017–2023 leopard cat roadkill records and statistics.
+[^3]: [Ministry of Agriculture Leopard Cat Ecological Payment Program](https://www.moa.gov.tw/) — Description of the leopard-cat-friendly farming subsidy program.
+[^4]: [Ministry of Agriculture Taiwan Biodiversity Research Institute (TBRI)](https://www.tbri.gov.tw/) — Leopard cat artificial breeding program and conservation research.
+[^5]: [WUO WUO: Before Extinction—Taiwan Leopard Cat Special Report](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Comprehensive report on the current state of leopard cat conservation in Taiwan.
+
+Further reading:
+
+- [WUO WUO: The Underestimated Threat—Dogs Killing Leopard Cats](https://wuo-wuo.com/topics/widlife/dogkill) — Record of dog attack cases on leopard cats.
+- [Ministry of Agriculture Forestry and Nature Conservation Agency](https://www.forest.gov.tw/) — Leopard cat habitat conservation policy.
+- [Leopard Cat Conservation Ambassador—Ahu Family](https://www.facebook.com/LeopardCatTaiwan/) — TBRI leopard cat artificial breeding updates.

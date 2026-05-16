@@ -19,10 +19,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Economy/台灣農業現代化發展.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:ade41d6905a5412b'
-sourceBodyHash: 'sha256:45d5485b56395378'
-translatedAt: '2026-05-15T13:52:05+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:4c373a2375756989'
+sourceBodyHash: 'sha256:87938e62aa76368d'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 # Taiwan's Agricultural Modernization
@@ -57,7 +57,7 @@ The foundations of modern agricultural development in Taiwan can be traced back 
 
 **Varietal improvement and technology introduction**: During the Japanese colonial period in the 1920s, Japonica-style ponlai rice was introduced, sugarcane varieties were improved, and agricultural experiment institutions were established, laying the foundations for later agricultural technology development.
 
-**Establishment of farmers' associations**: The farmers' association system provided farmers with services such as technical guidance, financial support, and product sales. This system remains in use today.
+**Establishment of farmers' associations**: The farmers' association system provided farmers with services such as technical guidance, financial support, and product sales. This system remains in use today. Taiwan's farmers' association system is organized in three tiers — township/district-level associations, county/city-level associations, and the National Agricultural Cooperative Federation — with 288 grassroots farmers' associations across the country. They take on agricultural extension and education, joint purchasing and marketing, rural finance and crop insurance, serving as the main channel through which modern agricultural knowledge reaches the countryside and as a critical pillar of collective bargaining and market access for farmers.
 
 ### Early Postwar Land Reform
 

@@ -1,7 +1,7 @@
 ---
 title: 'Lee Ho-jung'
 description: "Returning to Fubon with high attendance and high recognition, she embodies Korean cheerleaders in Taiwan shifting from 'guest spot' to 'fixed roster.'"
-date: 2026-04-14
+date: 2026-05-13
 tags:
   [
     'popular figure',
@@ -15,14 +15,14 @@ tags:
 subcategory: 'Popular Figures'
 author: 'Taiwan.md Contributors'
 readingTime: 8
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 category: 'People'
 translatedFrom: 'People/李晧禎.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:23d7ff4a25548dd1'
-sourceBodyHash: 'sha256:7920b3c19edb9fba'
-translatedAt: '2026-05-01T13:19:11+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:fe236b66343104a0'
+sourceBodyHash: 'sha256:fa5aded8dae3b311'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 > **30-second overview:** Lee Ho-jung's return to Fubon in 2026 was not merely roster reinforcement — it brought back a familiar rhythm. Her representativeness lies in high attendance and high stability, which moved Korean cheerleaders in Taiwan from short-term promotions to cross-season content deployment.
@@ -30,6 +30,8 @@ translatedAt: '2026-05-01T13:19:11+08:00'
 She has a background of long-term performances in Korea's cheerleading world, and after coming to Taiwan was quickly placed in a "high-availability, high-stability" role, frequently appearing in sessions requiring strong interaction or those with a high density of themed events.
 
 So fans' reaction to her return was not simply "she's back," but "that familiar home-game feel is back."
+
+According to United Daily News digital edition / UDN, in February 2026, the Fubon Guardians announced that Lee Ho-jung would continue to cheer for the Guardians as a Fubon Angels member during the 2026 season. [Source: United Daily News / UDN][^2] Coverage of the season-opening press conference in March of the same year also quoted her describing her return to Xinzhuang home field as "coming home." [Source: United Daily News / UDN][^3]
 
 ## The Significance of Returning to Fubon
 
@@ -60,8 +62,10 @@ She is one of the representative cases of this stage. Through her, one can under
 
 ## References / Sources
 
-Source 1: https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%A7%E7%A6%8E
-Source 2: https://www.nownews.com/news/6679202
-Source 3: https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8F%A0%E7%8F%A2%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%BA%8C%E4%BA%BA%E5%86%8D%E5%90%8C%E9%9A%8A-075710153.html
-Source 4: https://news.pchome.com.tw/entertainment/crwant/20260330/index-77484543045734316006.html
-Source 5: https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
+[^2]: United Daily News / UDN (general report), "CPBL / Confirmed! Fubon Angels' 'big sister' Lee Ho-jung joins Guardians' cheer squad this season," 2026-02-26, https://udn.com/news/story/7002/9346859
+
+[^3]: United Daily News / UDN (reporter Yeh Pei-yu), "CPBL / Guardians' five Korean imports appear together; Lee Ju-eun cries with nerves, 'haven't seen everyone for so long,'" 2026-03-25, https://udn.com/news/story/7002/9402487
+
+Other verifiable sources:
+
+- Wikipedia (biographical overview): https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%A7%E7%A6%8E

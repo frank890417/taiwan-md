@@ -13,13 +13,13 @@ subcategory: '戰後與威權'
 category: 'History'
 author: 'Taiwan.md'
 featured: true
-lastVerified: 2026-04-04
+lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'History/戒嚴時期.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:87b991cbce460289'
-sourceBodyHash: 'sha256:c2f0ee19422b9dcf'
-translatedAt: '2026-05-02T11:00:00+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:c8b50f1d09b2fa84'
+sourceBodyHash: 'sha256:028c0bee94ad5d00'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # La période de la loi martiale
@@ -29,11 +29,9 @@ translatedAt: '2026-05-02T11:00:00+08:00'
 > **📝 Note du curateur**
 > Pour de nombreuses familles, la période de la loi martiale n'est jamais lointaine — les histoires des 140 000 familles de victimes existent vivantes, et n'ont à ce jour pas été pleinement racontées.
 
-## La nuit où Lei Zhen fut emprisonné
+## Les onze années d'emprisonnement de Lei Zhen
 
-Aux petites heures du 28 avril 1960, des agents de la sécurité ont frappé à la porte de Lei Zhen[^1]. Ce politologue qui s'était porté candidat à la présidence en l'an 49 de la République fut arrêté pour « hébergement d'agents communistes ». Son épouse Zhao Ruying pleurait à la porte ; Lei Zhen se retourna vers elle et lui dit : « Ne pleure pas, je reviendrai. »
-
-Il n'est pas revenu. Lei Zhen est resté en prison pendant 11 ans, jusqu'à sa libération en 1970. Pendant ces 11 années, Taïwan vivait sous loi martiale.
+Le 4 septembre 1960, le Commandement général de la garnison arrête Lei Zhen sous l'accusation d'« hébergement d'agents communistes » et de « connaissance d'agents communistes non dénoncés »[^1]. Ce politologue, alors engagé dans la fondation d'un « Parti démocrate chinois » destiné à concurrencer le Kuomintang, restera en prison pendant onze ans, jusqu'à sa libération en 1970. Pendant ces 11 années, Taïwan vivait sous loi martiale.
 
 > **✦** « Un BBS purement textuel d'il y a 30 ans influence encore aujourd'hui la politique taïwanaise ». La période de la loi martiale est la clé pour comprendre le développement politique du Taïwan moderne, mais peu de gens posent la question : pourquoi la loi martiale a-t-elle pu durer 38 ans ?
 
@@ -54,9 +52,9 @@ Cette décision plongea Taïwan dans l'une des périodes de loi martiale les plu
 
 La période de la loi martiale s'accompagna d'une grave persécution politique, appelée « Terreur blanche ». Au nom de l'anticommunisme, le gouvernement procéda à des arrestations massives, des procès, des emprisonnements et des exécutions de dissidents politiques.
 
-Selon les données officielles du Ministère de la Justice, pendant les 38 ans de loi martiale, les organes militaires ont rendu 29 407 jugements pénaux concernant des civils[^4]. Les statistiques civiles indiquent qu'environ 140 000 personnes furent impliquées dans des affaires politiques, avec une estimation d'environ 4 500 exécutions.
+Selon les données officielles du Ministère de la Justice, pendant les 38 ans de loi martiale, les organes militaires ont rendu 29 407 jugements pénaux concernant des civils[^4]. Les statistiques civiles indiquent qu'environ 140 000 personnes furent impliquées dans des affaires politiques, avec une estimation d'environ 4 500 exécutions — c'est le plafond estimé des « exécutions liées à des affaires politiques ».
 
-L'Association taïwanaise pour la vérité et la promotion estime à 1 061 le nombre de condamnés à mort pendant la période de la loi martiale (au 31 décembre 2013)[^5].
+L'Association taïwanaise pour la vérité et la promotion adopte de son côté la base « peines de mort prononcées par la justice militaire confirmées » : au 31 décembre 2013, elle dénombre 1 061 condamnés à mort durant la période de la loi martiale[^5]. Les deux chiffres coexistent : 4 500 est une estimation, 1 061 est vérifié ; l'écart reflète l'incomplétude des archives de l'ère autoritaire.
 
 > **📊 Source de données**
 > Le Ministère de la Justice recense 29 407 affaires de jugement militaire pendant la période de la loi martiale ; les statistiques civiles font état d'environ 140 000 victimes, avec un nombre d'exécutions allant de 1 061 à 4 500.
@@ -100,9 +98,9 @@ Derniers prisonniers politiques : décembre 1984, Lin Shu-yang et Li Jin-mu sort
 
 L'héritage politique laissé par la période de la loi martiale continue d'influencer Taïwan. Pensée autoritaire, polarisation, questions complexes d'identité. Tout cela est l'héritage de la période de la loi martiale.
 
-La justice transitionnelle est devenue l'effort pour faire face à cette histoire : enquête sur les violations des droits humains pendant la période autoritaire, indemnisation des victimes politiques, conservation des témoignages historiques de la période de la loi martiale.
+Le chantier de la justice transitionnelle, de l'enquête à la législation, aura pris trente ans. En décembre 2017, le Yuan législatif adopte la « Loi de promotion de la justice transitionnelle » ; en mai 2018, l'Exécutif Yuan institue la « Commission de promotion de la justice transitionnelle » ; après la dissolution de cet organe de mission en mai 2022, les missions sont transférées au Musée national des droits humains, au ministère de la Justice et au Conseil national de développement, qui poursuivent l'effort[^9]. Les sites du Musée national des droits humains à Jingmei et Green Island ont ouvert progressivement au public ; en 2026, les questions liées à la réserve législative en matière d'indemnisation des victimes et de conservation des sites d'injustice ne sont pas encore entièrement réglées.
 
-L'expérience de la loi martiale est devenue une référence importante pour le développement démocratique de Taïwan : importance accordée aux droits humains fondamentaux, attachement à l'administration selon la loi, participation active de la société civile.
+La loi martiale lègue à la démocratie taïwanaise trois réflexes du quotidien : l'attachement aux droits humains fondamentaux, l'exigence d'une administration selon la loi, et une société civile active.
 
 > **📝 Note du curateur**
 > La période de la loi martiale est un chapitre sombre de l'histoire taïwanaise, mais aussi un catalyseur de l'éveil de la conscience démocratique. Se souvenir de cette histoire, c'est s'assurer que des tragédies similaires ne se reproduisent pas.
@@ -119,21 +117,23 @@ Si en 2050 quelqu'un veut savoir ce qui préoccupait les Taïwanais en 1987, peu
 
 ## Références
 
-[^1]: [Lei Zhen — Wikipédia](https://zh.wikipedia.org/zh-hant/%E9%9B%B7%E9%9C%87) — Lei Zhen est un politologue qui s'est porté candidat à la présidence en l'an 49 de la République ; emprisonné 11 ans pour « hébergement d'agents communistes ».
+[^1]: [Lei Zhen — Wikipédia](https://zh.wikipedia.org/zh-hant/%E9%9B%B7%E9%9C%87) — En 1960, alors qu'il fondait le « Parti démocrate chinois », Lei Zhen est arrêté le 4 septembre par le Commandement général de la garnison sous l'accusation d'« hébergement d'agents communistes » et de « connaissance d'agents communistes non dénoncés », et emprisonné pendant 11 ans.
 
 [^2]: [Loi martiale de la province de Taïwan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4) — Loi martiale promulguée le 19 mai 1949, entrée en vigueur à 0 h le 20 mai.
 
-[^3]: [Loi sur la loi martiale — Wikipédia](https://zh.wikipedia.org/wiki/%E6%88%92%E5%9A%B4%E6%B3%95) — Loi disposant qu'en période de loi martiale, le commandant suprême de la zone soumise à la loi martiale prend en charge les affaires administratives et judiciaires.
+[^3]: [Base de données nationale des lois et règlements : Loi sur la loi martiale](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=F0070002) — Texte intégral de la « Loi sur la loi martiale » publié par le ministère de la Justice, disposant qu'en période de loi martiale, le commandant suprême de la zone soumise à la loi martiale prend en charge les affaires administratives et judiciaires.
 
 [^4]: [Période de Terreur blanche taïwanaise — Ministère de la Justice](https://www.moj.gov.tw/) — Le Ministère de la Justice recense 29 407 affaires de jugement militaire pendant la période de la loi martiale.
 
 [^5]: [Association taïwanaise pour la vérité et la réconciliation civiles](https://www.taiwantrc.org/) — Recense 1 061 condamnés à mort pendant la période de la loi martiale (au 31 décembre 2013).
 
-[^6]: [Système de cautionnement collectif — Wikipédia](https://zh.wikipedia.org/zh-hant/%E9%80%94%E5%BA%A7%E4%BF%9D%E8%AD%98%E5%88%B6%E5%BA%A6) — Système de contrôle politique mis en place à partir de juillet 1949.
+[^6]: [Plateforme numérique d'archives civiles 1937-1949 : Des histoires familiales que vous ignorez sur les registres d'état civil — Gouvernance policière et système de cautionnement collectif](https://www.19371949.org.tw/archives/1750) — Article documentant le système de cautionnement collectif mis en place à Taïwan à partir de juillet 1949, et son rôle dans la gestion de l'état civil et le filtrage politique.
 
 [^7]: [Levée de la loi martiale — Wikipédia](https://zh.wikipedia.org/zh-hant/%E8%A7%A3%E5%9A%B4) — Décret présidentiel du 14 juillet 1987 annonçant la levée de la loi martiale dans la région de Taïwan.
 
-[^8]: [Levée de la loi martiale dans les régions de Kinmen et Matsu — Wikipédia](https://zh.wikipedia.org/zh-hant/%E9%87%91%E9%A6%AC%E5%9C%B0%E5%8D%80%E8%A7%A3%E5%9A%B4) — Les régions de Kinmen et Matsu n'ont vu la loi martiale levée que le 7 novembre 1992.
+[^8]: [Wikipédia : Administration militarisée en zone de combat](https://zh.wikipedia.org/zh-tw/%E6%88%B0%E5%9C%B0%E6%94%BF%E5%8B%99) — Entrée complète de Wikipédia chinoise sur l'« administration militarisée en zone de combat », documentant Kinmen à partir de 1956 et Matsu à partir du 16 juillet 1956, jusqu'à la levée simultanée de l'administration militarisée et de la loi martiale le 7 novembre 1992.
+
+[^9]: [Wikipédia : Commission de promotion de la justice transitionnelle](https://zh.wikipedia.org/zh-tw/%E4%BF%83%E9%80%B2%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E5%A7%94%E5%93%A1%E6%9C%83) — Entrée Wikipédia chinoise « Commission de promotion de la justice transitionnelle » documentant l'adoption de la « Loi de promotion de la justice transitionnelle » en décembre 2017, l'institution de la commission par l'Exécutif Yuan le 31 mai 2018, sa dissolution le 30 mai 2022 et le transfert de ses missions au Musée national des droits humains, au ministère de la Justice et au Conseil national de développement.
 
 **Pour aller plus loin** :
 

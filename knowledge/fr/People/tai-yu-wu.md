@@ -1,18 +1,18 @@
 ---
-title: 'Wu Da-You'
+title: "Wu Da-You : président de l'Academia Sinica qui recommanda Yang Chen-Ning et Lee Tsung-Dao aux États-Unis, et ses onze années fondatrices pour la recherche scientifique taïwanaise"
 description: "Physicien théoricien, président de l'Academia Sinica, mentor de Yang Chen-Ning et Lee Tsung-Dao, deux lauréats du prix Nobel, figure fondatrice de la science taïwanaise"
 date: 2026-03-19
 tags:
   ['Personnalité', 'Scientifique', 'Physique', 'Éducation', 'Academia Sinica']
 subcategory: '科學與學術'
-lastVerified: 2026-04-04
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 featured: true
 translatedFrom: People/吳大猷.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:341c2f3308bef4d0'
-sourceBodyHash: 'sha256:b758182bc81d64b1'
-translatedAt: 2026-05-01T22:19:06+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:2e290891c1c4a80e'
+sourceBodyHash: 'sha256:7dc3520a4b6d40a4'
+translatedAt: '2026-05-17T06:15:00Z'
 category: People
 ---
 
@@ -26,7 +26,7 @@ Wu Da-You naquit en 1907 à Gaoyao, dans le Guangdong, et déménagea à Tianjin
 
 Ses principales contributions académiques portèrent sur la spectroscopie moléculaire (_molecular spectroscopy_) et la recherche théorique en mécanique quantique. La structure quantique de l'ion moléculaire d'hydrogène, le calcul des spectres de vibration-rotation des molécules polyatomiques — ces questions, à la pointe de la physique dans les années 1930 et 1940, constituaient son domaine de recherche central. Ce type de travail ne faisait pas les gros titres des journaux, mais c'est précisément cette recherche théorique patiente qui permit à la physique, dans les décennies suivantes, de traiter des systèmes moléculaires de plus en plus complexes.
 
-📝 Le style académique de Wu Da-You relevait du « travail lent mais soigné » — non pas une découverte fracassante, mais la construction d'une plateforme sur laquelle les générations futures pourraient s'appuyer. Ce style pouvait facilement être ignoré dans une époque qui valorisait la rapidité, mais la liste des talents qu'il forma constitue elle-même la meilleure preuve de sa valeur.
+📝 Le style académique de Wu Da-You relevait du « travail lent mais soigné » : son centre de gravité n'était pas une découverte fracassante, mais la construction d'une plateforme sur laquelle les générations futures pourraient s'appuyer. Ce style pouvait facilement être ignoré dans une époque qui valorisait la rapidité, mais la liste des talents qu'il forma constitue elle-même la meilleure preuve de sa valeur.
 
 À partir de 1934, Wu Da-You enseigna à l'université du Michigan tout en poursuivant ses recherches, jusqu'en 1946. Durant cette période, il développa progressivement un style pédagogique à la fois rigoureux et ouvert : exigeant en matière de précision, mais sans étouffer l'intuition de ses étudiants.
 
@@ -34,13 +34,13 @@ Ses principales contributions académiques portèrent sur la spectroscopie molé
 
 En 1946, Wu Da-You obtint du gouvernement chinois un quota de bourses pour des études aux États-Unis. Il choisit deux étudiants — Yang Chen-Ning et Lee Tsung-Dao — et les recommanda pour poursuivre leurs études en Amérique. Yang Chen-Ning se rendit à l'université de Chicago pour travailler sous la direction d'Enrico Fermi ; Lee Tsung-Dao intégra la même université avant de se tourner vers la physique théorique[^3].
 
-Yang Chen-Ning se souviendrait plus tard : « Ce que le professeur Wu m'a enseigné, ce n'est pas comment résoudre des problèmes, mais comment trouver des problèmes qui méritent d'être résolus. » Lee Tsung-Dao déclara également que Wu Da-You ne lui disait jamais quoi étudier, mais lui apprenait seulement à distinguer si un problème était véritablement important[^4].
+Yang Chen-Ning se souviendrait plus tard que le cœur de ce que le professeur Wu lui avait transmis était « comment trouver des problèmes qui méritent d'être résolus ». Lee Tsung-Dao déclara également que Wu Da-You ne lui disait jamais quoi étudier, mais lui apprenait seulement à distinguer si un problème était véritablement important[^4].
 
 > « La valeur de la science ne réside pas dans les réponses, mais dans la manière de poser les questions. » — Wu Da-You
 
 En 1957, Yang Chen-Ning et Lee Tsung-Dao reçurent conjointement le prix Nobel de physique pour leurs travaux théoriques sur la violation de la parité (_parity violation_), devenant les premiers scientifiques d'origine chinoise à obtenir un prix Nobel scientifique[^5]. L'expression de Wu Da-You lorsqu'il lut la nouvelle — cette confirmation — tenait à ce que c'était précisément la manière de penser qu'il avait enseignée : questionner ce que les autres tenaient pour acquis, et se demander si c'était vraiment le cas.
 
-📝 Le cœur de la violation de la parité résidait dans la mise en doute d'une symétrie que la communauté physique considérait comme « allant de soi ». Deux étudiants chinois, appliquant la méthode enseignée par leur professeur, renversèrent une « loi » — Wu Da-You ne confirmait pas le résultat, mais la méthode.
+📝 Le cœur de la violation de la parité résidait dans la mise en doute d'une symétrie que la communauté physique considérait comme « allant de soi ». Deux étudiants chinois, appliquant la méthode enseignée par leur professeur, renversèrent une « loi » — et ce que Wu Da-You confirmait alors, c'était que cette méthode elle-même fonctionnait vraiment.
 
 ## Onze ans à l'Academia Sinica
 
@@ -56,7 +56,7 @@ Wu Da-You est souvent surnommé « père de la physique chinoise », mais ce tit
 
 Sa carrière de chercheur à l'université du Michigan, la formation de Yang Chen-Ning et Lee Tsung-Dao, ses onze années à l'Academia Sinica — le tout constitue une transmission scientifique traversant la Chine continentale, les États-Unis et Taïwan. Son travail n'appartient à aucun lieu unique, mais Taïwan est l'endroit où il finit par s'enraciner.
 
-En janvier 2000, Wu Da-You décéda à San Francisco, à l'âge de 93 ans[^7]. Dans son éloge funèbre, Yang Chen-Ning écrivit : « L'importance du professeur Wu est difficile à mesurer avec les critères académiques habituels — ce qu'il a transmis aux gens, ce n'est pas seulement de la physique, mais comment être un véritable scientifique. » Ce type d'influence ne peut effectivement se réduire à un indice de citations ou à un nombre d'articles.
+En janvier 2000, Wu Da-You décéda à San Francisco, à l'âge de 93 ans[^7]. Dans son éloge funèbre, Yang Chen-Ning écrivit : « L'importance du professeur Wu est difficile à mesurer avec les critères académiques habituels — ce qu'il a transmis aux gens, c'est comment être un véritable scientifique, la physique n'en étant qu'une partie. » Ce type d'influence ne peut effectivement se réduire à un indice de citations ou à un nombre d'articles.
 
 ---
 

@@ -5,27 +5,16 @@ date: 2026-03-17
 author: 'Taiwan.md'
 category: 'History'
 subcategory: '殖民與帝國'
-tags:
-  [
-    'Historia',
-    'Compañía Neerlandesa de las Indias Orientales',
-    'España',
-    'Ming-Zheng',
-    'Zheng Chenggong',
-    'Zheng Jing',
-    'Shi Lang',
-    'Reino de Tungning',
-    'Fuerte Zeelandia',
-  ]
+tags: ['Historia', 'Compañía Neerlandesa de las Indias Orientales', 'España', 'Ming-Zheng', 'Zheng Chenggong', 'Zheng Jing', 'Shi Lang', 'Reino de Tungning', 'Fuerte Zeelandia']
 readingTime: 10
-lastVerified: 2026-04-05
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 featured: false
 translatedFrom: 'History/荷西明鄭時期.md'
-sourceCommitSha: '01d9d0e73'
-sourceContentHash: 'sha256:e5a3bfeaee77a9cf'
-sourceBodyHash: 'sha256:184255d8cbd17846'
-translatedAt: '2026-05-12T11:51:05+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:63ac1f41561d9b5f'
+sourceBodyHash: 'sha256:b9a9258412d16bc5'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 # Período neerlandés, español y Ming-Zheng
@@ -103,7 +92,7 @@ Ese mapa fue la primera ocasión en que Taiwán apareció en los estantes de las
 
 Los sesenta años del período neerlandés, español y Ming-Zheng sentaron las bases de Taiwán como **sociedad migratoria**: los han se trasladaron en gran número, y la población creció de unas 100.000 personas en el período neerlandés a unas 200.000 durante el período Ming-Zheng, transformando por completo la estructura demográfica de la isla.[^5]
 
-En el plano institucional, las concepciones administrativas neerlandesas y la tradición cultural confuciana de los Ming-Zheng se superpusieron a las sociedades indígenas autónomas, formando una estructura de múltiples capas en la cultura política taiwanesa. La tradición del comercio internacional hizo que Taiwán tuviera desde el inicio un carácter marítimo: no era una isla aislada, sino un nodo.
+En el plano institucional, las concepciones administrativas neerlandesas y la tradición cultural confuciana de los Ming-Zheng se superpusieron a las sociedades indígenas autónomas, formando una estructura de múltiples capas en la cultura política taiwanesa. La tradición del comercio internacional hizo que Taiwán tuviera desde el inicio un carácter marítimo: geográficamente es una isla, pero en lo económico y político es un nodo.
 
 En el plano material, los bienes y hábitos culturales que circularon hacia la isla en el siglo XVII, tras ser absorbidos y transformados por la población local, pasaron a formar parte del sustrato de la cultura taiwanesa actual: barras japonesas de cobre _saodong_ recuperadas del puerto de Magong, en Penghu, importadas a mediados del siglo XVII y usadas para acuñar moneda y fabricar armas de fuego; vasijas cerámicas “Anping” del norte de Fujian, empleadas por los han para encurtir alimentos y por los indígenas siraya para rendir culto a los espíritus ancestrales y contener el “agua orientada” que permitía comunicarse con ellos; y aquellos anclajes de muro que todavía permanecen fijados en los hastiales de antiguos templos de Tainan.[^4]
 

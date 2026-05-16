@@ -7,13 +7,13 @@ subcategory: '戰後與威權'
 category: 'History'
 author: 'Taiwan.md'
 readingTime: 12
-lastVerified: 2026-04-04
+lastVerified: 2026-05-16
 lastHumanReview: false
 translatedFrom: 'History/戒嚴時期.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:87b991cbce460289'
-sourceBodyHash: 'sha256:c2f0ee19422b9dcf'
-translatedAt: '2026-05-02T11:00:00+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:c8b50f1d09b2fa84'
+sourceBodyHash: 'sha256:028c0bee94ad5d00'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # El periodo de la ley marcial
@@ -23,11 +23,9 @@ translatedAt: '2026-05-02T11:00:00+08:00'
 > **📝 Nota del comisariado**
 > Para muchas familias, la ley marcial no se ha ido nunca: las historias de las 140.000 familias afectadas siguen vivas y aún no se han contado del todo.
 
-## La noche en que Lei Chen ingresó en prisión
+## Los once años de prisión de Lei Chen
 
-En la madrugada del 28 de abril de 1960, los agentes llamaron a la puerta de Lei Chen[^1]. Aquel politólogo, que en 1960 (año 49 de la República) se había presentado a las elecciones presidenciales, fue detenido bajo la acusación de "encubrir a espías comunistas". Su esposa Chao Ju-ying lloraba en el umbral; Lei Chen se volvió hacia ella y le dijo: "No llores, voy a volver".
-
-No volvió. Lei Chen pasó once años en la cárcel y no fue liberado hasta 1970. Durante esos once años, Taiwán estuvo bajo ley marcial.
+El 4 de septiembre de 1960, el Mando General de la Guarnición detuvo a Lei Chen bajo las acusaciones de «encubrir a espías comunistas» y «conocimiento de espías comunistas sin denuncia»[^1]. Aquel politólogo, que estaba precisamente organizando el «Partido Democrático de China» para competir con el KMT, pasaría a partir de entonces once años en prisión y no fue liberado hasta 1970. Durante esos once años, Taiwán estuvo bajo ley marcial.
 
 > **✦** "Un BBS de pura texto de hace 30 años todavía influye hoy en la política taiwanesa". El periodo de la ley marcial es la clave para entender el desarrollo político del Taiwán contemporáneo, pero pocas veces se hace la pregunta de fondo: ¿por qué pudo durar 38 años?
 
@@ -48,9 +46,9 @@ Aquella decisión introdujo a Taiwán en uno de los periodos de ley marcial más
 
 La ley marcial vino acompañada de una persecución política grave conocida como "Terror Blanco". Bajo el lema del anticomunismo, el gobierno emprendió detenciones, juicios, encarcelamientos y ejecuciones masivos contra disidentes políticos.
 
-Según datos oficiales del Ministerio de Justicia, durante los 38 años de ley marcial los tribunales militares dictaron 29.407 causas penales contra civiles (no militares en activo)[^4]. Las estadísticas civiles indican que las causas de naturaleza política afectaron a unas 140.000 personas, y se estima que las ejecuciones rondaron las 4.500.
+Según datos oficiales del Ministerio de Justicia, durante los 38 años de ley marcial los tribunales militares dictaron 29.407 causas penales contra civiles (no militares en activo)[^4]. Las estadísticas civiles indican que las causas de naturaleza política afectaron a unas 140.000 personas, y se estima que las ejecuciones rondaron las 4.500: este es el techo de la estimación de «ejecuciones vinculadas a causas políticas».
 
-La Asociación Civil para la Verdad y la Reconciliación de Taiwán contabilizaba 1.061 condenados a muerte durante el periodo de la ley marcial (a fecha de 2013)[^5].
+La Asociación Civil para la Verdad y la Reconciliación de Taiwán, adoptando el criterio de «condenas a muerte por tribunales militares confirmadas», contabilizaba 1.061 condenados a muerte durante el periodo de la ley marcial a fecha de 2013[^5]. Las dos cifras coexisten: 4.500 es una estimación; 1.061 es lo verificado, y la diferencia refleja la falta de integridad de los archivos del periodo autoritario.
 
 > **📊 Fuente de los datos**
 > El Ministerio de Justicia contabiliza 29.407 causas militares durante la ley marcial; las estadísticas civiles hablan de unas 140.000 personas afectadas y entre 1.061 y 4.500 ejecuciones.
@@ -94,9 +92,9 @@ Duración de la ley marcial: 38 años y 56 días en la isla principal de Taiwán
 
 El legado político del periodo de la ley marcial sigue influyendo en Taiwán hoy: la mentalidad autoritaria, la polarización y la complejidad de la cuestión identitaria. Todo eso forma parte de su herencia.
 
-La justicia transicional se ha convertido en el esfuerzo por enfrentarse a esta historia: investigar las violaciones de derechos humanos del periodo autoritario, reparar a las víctimas políticas y conservar los testimonios históricos de la ley marcial.
+El trabajo de la justicia transicional, desde la investigación hasta la legislación, ha llevado tres décadas. En diciembre de 2017 el Yuan Legislativo aprobó la Ley para la Promoción de la Justicia Transicional; en mayo de 2018 el Yuan Ejecutivo estableció el «Comité de Promoción de la Justicia Transicional»; tras la disolución del órgano de funciones temporales en mayo de 2022, las tareas pasaron al Museo Nacional de los Derechos Humanos, al Ministerio de Justicia y al Consejo Nacional de Desarrollo, que las continúan.[^9] Los recintos de Jingmei y Lyudao del Museo Nacional de los Derechos Humanos se han ido abriendo al público; en 2026 todavía no está completamente cerrado el debate jurídico sobre la indemnización a las víctimas y la conservación de los lugares de la injusticia.
 
-La experiencia de la ley marcial es una referencia fundamental para el desarrollo democrático taiwanés: la atención a los derechos humanos básicos, la insistencia en la administración conforme a la ley y una sociedad civil activa.
+La ley marcial dejó a la democracia taiwanesa tres instintos cotidianos: la atención a los derechos humanos básicos, la insistencia en la administración conforme a la ley y una sociedad civil activa.
 
 > **📝 Nota del comisariado**
 > El periodo de la ley marcial es un capítulo oscuro de la historia de Taiwán y, a la vez, fue el catalizador del despertar de la conciencia democrática. Recordar esta historia sirve para asegurarnos de que tragedias semejantes no vuelvan a repetirse.
@@ -113,21 +111,23 @@ Si en 2050 alguien quiere saber qué les importaba a los taiwaneses de 1987, qui
 
 ## Referencias
 
-[^1]: [雷震 - 維基百科](https://zh.wikipedia.org/zh-hant/%E9%9B%B7%E9%9C%87) — Lei Chen, politólogo y candidato presidencial en 1960 (año 49 de la República), pasó 11 años en prisión bajo la acusación de "encubrir a espías comunistas".
+[^1]: [雷震 - 維基百科](https://zh.wikipedia.org/zh-hant/%E9%9B%B7%E9%9C%87) — Lei Chen, durante el proceso de organización del «Partido Democrático de China» en 1960, fue detenido por el Mando General de la Guarnición el 4 de septiembre bajo las acusaciones de «encubrir a espías comunistas» y «conocimiento de espías comunistas sin denuncia», y pasó 11 años en prisión.
 
 [^2]: [台灣省戒嚴令 - 維基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4) — Decreto de ley marcial promulgado el 19 de mayo de 1949 y en vigor a las 0:00 del 20 de mayo.
 
-[^3]: [戒嚴法 - 維基百科](https://zh.wikipedia.org/wiki/%E6%88%92%E5%9A%B4%E6%B3%95) — Norma según la cual, durante la ley marcial, el comandante supremo del territorio asume las competencias administrativas y judiciales.
+[^3]: [Base de Datos Jurídica Nacional: Ley de la Ley Marcial](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=F0070002) — Texto íntegro de la _Ley de la Ley Marcial_ en la Base de Datos Jurídica Nacional del Ministerio de Justicia, que establece que durante la ley marcial el comandante supremo del territorio asume las competencias administrativas y judiciales.
 
 [^4]: [台灣白色恐怖時代 - 法務部](https://www.moj.gov.tw/) — El Ministerio de Justicia contabiliza 29.407 causas militares durante el periodo de la ley marcial.
 
 [^5]: [台灣民間真相與和解促進會](https://www.taiwantrc.org/) — Cifra 1.061 condenados a muerte durante la ley marcial (a fecha de 2013).
 
-[^6]: [連坐保證制度 - 維基百科](https://zh.wikipedia.org/zh-hant/%E9%80%94%E5%BA%A7%E4%BF%9D%E8%AD%98%E5%88%B6%E5%BA%A6) — Sistema de control político implantado a partir de julio de 1949.
+[^6]: [Plataforma digital de fuentes históricas civiles 1937-1949: hay historias familiares que no conoces en los datos del registro civil — gobernanza policial y sistema de responsabilidad colectiva](https://www.19371949.org.tw/archives/1750) — Artículo que documenta el sistema de responsabilidad colectiva implantado en la Taiwán de posguerra a partir de julio de 1949 y su papel en la gobernanza del registro civil y la inspección política.
 
 [^7]: [解嚴 - 維基百科](https://zh.wikipedia.org/zh-hant/%E8%A7%A3%E5%9A%B4) — Decreto presidencial del 14 de julio de 1987 que declara levantada la ley marcial en el área de Taiwán.
 
-[^8]: [金馬地區解嚴 - 維基百科](https://zh.wikipedia.org/zh-hant/%E9%87%91%E9%A6%AC%E5%9C%B0%E5%8D%80%E8%A7%A3%E5%9A%B4) — En Kinmen y Matsu la ley marcial no se levantó hasta el 7 de noviembre de 1992.
+[^8]: [Wikipedia: Administración del Territorio en Guerra](https://zh.wikipedia.org/zh-tw/%E6%88%B0%E5%9C%B0%E6%94%BF%E5%8B%99) — Entrada completa de la Wikipedia china «Administración del Territorio en Guerra», que documenta cómo Kinmen aplicó este régimen desde 1956 y Matsu desde el 16 de julio de 1956, hasta que el 7 de noviembre de 1992 cesó simultáneamente la administración del territorio en guerra y se levantó la ley marcial.
+
+[^9]: [Wikipedia: Comité de Promoción de la Justicia Transicional](https://zh.wikipedia.org/zh-tw/%E4%BF%83%E9%80%B2%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E5%A7%94%E5%93%A1%E6%9C%83) — Entrada completa de la Wikipedia china «Comité de Promoción de la Justicia Transicional», que recoge la aprobación de la Ley para la Promoción de la Justicia Transicional en diciembre de 2017, la creación del órgano de funciones temporales por el Yuan Ejecutivo el 31 de mayo de 2018, su disolución el 30 de mayo de 2022 y la transferencia de sus tareas al Museo Nacional de los Derechos Humanos, al Ministerio de Justicia y al Consejo Nacional de Desarrollo.
 
 **Lecturas complementarias**:
 

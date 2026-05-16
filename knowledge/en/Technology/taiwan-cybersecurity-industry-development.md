@@ -18,10 +18,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/台灣資安產業發展.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:dc22005598fbcdc9'
-sourceBodyHash: 'sha256:2bf84ae30b1dad29'
-translatedAt: '2026-05-15T14:23:13+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:2d7d8b8a52c2b0ff'
+sourceBodyHash: 'sha256:11c4d3b5ca02c812'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 # Development of Taiwan’s Cybersecurity Industry
@@ -125,9 +125,11 @@ CyCraft uses machine learning to analyze anomalous behavior and detect threats, 
 
 **Changing Information Technology**
 
-- Focuses on identity authentication and access control
-- Leading provider of PKI public-key infrastructure
-- Market leader in digital certificate services
+Founded in 1993, Changing Information Technology is one of the earliest Taiwan-based vendors to enter the information-security business. Built on PKI public-key infrastructure as its core technology, it has delivered the government's Certificate Authority (GRCA/GCA) build-out programs and provides digital identity-authentication services including Citizen Digital Certificates and Industrial/Commercial Certificates, making it the core architect of Taiwan's e-Government trust infrastructure. In digital signatures, encrypted communications, and access control, Changing has accumulated more than thirty years of technical depth and continues to hold the leading market position in public-sector digital certificates.
+
+**TWCERT/CC**
+
+Established in 1998 and now under the National Institute of Cyber Security (NICS), the Taiwan Computer Emergency Response Team / Coordination Center (TWCERT/CC) is Taiwan's official platform for cybersecurity incident reporting and coordination. Its core functions cover domestic cybersecurity incident intake and coordinated response, vulnerability disclosure and reporting, and threat-warning publication, and it represents Taiwan in international cooperation networks such as FIRST (Forum of Incident Response and Security Teams) and APCERT (Asia Pacific Computer Emergency Response Team).
 
 **Systex**
 
@@ -266,17 +268,17 @@ Shortages of cybersecurity talent, insufficient investment in basic research, an
 
 [^1]: [Administration for Cyber Security, Ministry of Digital Affairs (ACS)](https://moda.gov.tw/ACS/) — Official materials on national cybersecurity policy and regulations
 
-[^2]: National Institute of Cyber Security (NICS) research reports — Taiwan’s cybersecurity research outcomes
+[^2]: [National Institute of Cyber Security (NICS)](https://www.nics.nat.gov.tw/) — Taiwan's cybersecurity research outcomes and policy reports
 
 [^3]: [CYBERSEC Taiwan Cybersecurity Conference](https://cybersec.ithome.com.tw/) — Historical agenda and participation-scale data since 2015
 
 [^4]: [Trend Micro official website](https://www.trendmicro.com/zh_tw/about.html) — Official materials on Trend Micro, CyCraft (cycraft.com), CHT Security, and other major Taiwanese cybersecurity companies, including corporate histories and technical explanations
 
-[^5]: Executive Yuan National Information and Communication Security Taskforce policy documents — History of its establishment in 2001 and cybersecurity strategies across different periods
+[^5]: [Executive Yuan National Information and Communication Security Taskforce](https://nicst.ey.gov.tw/) — Established in 2001; cybersecurity policy documents and meeting resolutions across different periods
 
 [^6]: [Cyber Security Management Act and related regulations](https://moda.gov.tw/ACS/laws/549) — Promulgated and implemented in 2018, establishing the national cybersecurity management framework
 
-[^7]: Ministry of Economic Affairs cybersecurity industry development reports — Taiwan cybersecurity industry scale and market statistics
+[^7]: [Industrial Development Administration, MOEA](https://www.moea.gov.tw/) — Cybersecurity industry development reports; Taiwan cybersecurity industry scale and market statistics
 
 [^8]: [iThome cybersecurity news coverage](https://www.ithome.com.tw/security) — News on Taiwan cybersecurity industry developments
 

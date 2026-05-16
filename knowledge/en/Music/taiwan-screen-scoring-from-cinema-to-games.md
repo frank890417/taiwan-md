@@ -1,8 +1,8 @@
 ---
 translatedFrom: 'Music/台灣影視配樂.md'
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:5b87d248aee8d7df'
-sourceBodyHash: 'sha256:75efb37138b63abf'
+sourceContentHash: 'sha256:acab3be703b32826'
+sourceBodyHash: 'sha256:f981cb738e4f962d'
 translatedAt: '2026-05-09T06:28:04Z'
 title: 'Taiwan Screen Scoring: The Sound Aesthetics from Cinema to Game Music'
 description: "Exploring the development of Taiwan's screen scoring, from Hou Hsiao-hsien and Lim Giong's collaboration to Wei Te-sheng and Fan Tsung-pei's epic scores, to Rayark Games' innovation in game music — how Taiwan built its own cinematic sound language"

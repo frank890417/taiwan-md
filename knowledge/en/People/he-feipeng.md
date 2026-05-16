@@ -2,15 +2,17 @@
 title: 'He Feipeng (何飛鵬)'
 description: 'Founder of Cite Media Group and a key architect of Taiwan’s publishing industry—how He Feipeng guided print culture into the digital age'
 date: 2026-03-19
+category: People
 tags: [publishing, media, digital-transformation, management]
 subcategory: 'Digital & Media'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/何飛鵬.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:bf01513bbf161991'
-sourceBodyHash: 'sha256:e52de2fc0db288f5'
-translatedAt: '2026-04-14T12:25:09+08:00'
-category: People
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:c6c5b08befa8584a'
+sourceBodyHash: 'sha256:65be42b8cac6c9ca'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 # He Feipeng — Steering Taiwan’s Publishing Industry into the Digital Era

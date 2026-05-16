@@ -7,16 +7,16 @@ subcategory: '電影與戲劇'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: People/桂綸鎂.md
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:abc35bc4aee48bac'
-sourceBodyHash: 'sha256:df4e818396c5d890'
-translatedAt: 2026-05-01T22:19:10+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:266bd954eeb032d3'
+sourceBodyHash: 'sha256:c06a0cb5b90069e3'
+translatedAt: '2026-05-17T06:00:00Z'
 category: People
 ---
 
 # Gwei Lun-mei: una actriz de talento discreto y tenaz
 
-Gwei Lun-mei es una de las actrices más talentosas de la nueva generación de Taiwán, reconocida por su interpretación natural y sincera, así como por su estilo personal discreto. En 2007 alcanzó la fama gracias a _Secret_, dirigida por [Jay Chou](/es/people/jay-chou/), y posteriormente demostró su depurada actuación en obras como _Blue Gate Crossing_ y _Girlfriend, Boyfriend_. Es una presencia habitual en festivales internacionales de cine, ha sido nominada en múltiples ocasiones a los Premios Golden Horse y está considerada un activo invaluable del cine taiwanés.
+Reconocida por su interpretación natural y sincera y por su estilo personal discreto, Gwei Lun-mei es uno de los rostros de la nueva generación de actores de Taiwán con mayor presencia en festivales internacionales. _Blue Gate Crossing_ (2002) fue su película de debut; en 2007 _Secret_, dirigida por [Jay Chou](/es/people/jay-chou/), la dio a conocer al gran público, y después obras como _Girlfriend, Boyfriend_ siguieron sumándole reconocimientos de los Premios Golden Horse.[^2]
 
 ## La niña del _juancun_ y su despertar artístico
 
@@ -46,7 +46,7 @@ _Secret_ cosechó un enorme éxito comercial y Gwei Lun-mei se convirtió en una
 
 Gwei Lun-mei recibió la orientación y el afecto del fallecido director 楊德昌 (Yang Te-chang), cuya influencia fue determinante en su desarrollo actoral. Aunque nunca llegaron a colaborar formalmente en una película, las ideas cinematográficas de Yang Te-chang calaron hondo en su concepción de la actuación.
 
-Yang Te-chang consideraba que Gwei Lun-mei poseía el potencial para convertirse en una gran actriz y la animó a centrarse en el perfeccionamiento de su oficio, sin dejarse tentar por la fama exterior. Sus enseñanzas se convirtieron en una guía fundamental en su trayectoria artística.
+Yang Te-chang consideraba que Gwei Lun-mei poseía el potencial para convertirse en una gran actriz y la animó a centrarse en el perfeccionamiento de su oficio, sin dejarse tentar por la fama exterior. Esas enseñanzas influyeron profundamente en su posterior actitud a la hora de seleccionar proyectos.
 
 Gwei Lun-mei ha expresado en numerosas entrevistas su agradecimiento y nostalgia por Yang Te-chang, a quien considera un maestro esencial en su camino actoral. Esta relación maestro-discípodo se ha convertido en una anécdota célebre en el mundo del cine taiwanés.
 
@@ -88,13 +88,13 @@ Gwei Lun-mei es una de las representantes más destacadas de la nueva generació
 
 Su estilo interpretativo, natural y sincero, encarna las cualidades de la nueva generación de actores taiwaneses. Este enfoque difiere de la actuación teatral tradicional y se acerca más a la realidad de la vida cotidiana.
 
-Muchas actrices jóvenes toman a Gwei Lun-mei como modelo a seguir, convirtiéndola en un referente importante del panorama artístico taiwanés. Su trayectoria también ofrece una guía valiosa para las nuevas generaciones.
+Muchas actrices jóvenes toman a Gwei Lun-mei como modelo a seguir; sus criterios de selección de proyectos y su método interpretativo ofrecen a las nuevas generaciones una vía de referencia concreta.
 
 ## Colaboraciones profundas con directores
 
 Gwei Lun-mei sabe establecer relaciones creativas profundas con los directores: debate con detalle la concepción del personaje y la dirección de la actuación. Este modelo de colaboración hace que sus interpretaciones sean más precisas y matizadas.
 
-Sus múltiples colaboraciones con el director Chung Mong-hong han sido especialmente fructíferas, incluyendo títulos como _Soul_ y _The Great Buddha +_. Estas películas demuestran su capacidad de adaptación a géneros muy diversos.
+Su colaboración con el director Chung Mong-hong ha sido especialmente fructífera; _Soul_ (2013) es una de sus obras representativas.[^1] La película demuestra su capacidad de adaptación al género del thriller.
 
 Gwei Lun-mei considera que actor y director son compañeros de creación que necesitan confianza y coordinación mutuas. Siempre se entrega plenamente a las necesidades creativas del director, al tiempo que aporta sus propias ideas.
 
@@ -129,3 +129,9 @@ Gwei Lun-mei ha demostrado con su carrera qué significa ser una actriz de verda
 - [Gwei Lun-mei — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12789) — Filmografía de la actriz
 - [Listas históricas de ganadores y nominados de los Premios Golden Horse](https://www.goldenhorse.org.tw/) — Historial de premios
 - [Desarrollo internacional de actores taiwaneses — Bureau of Audiovisual and Music Industry Development, Ministerio de Cultura](https://www.bamid.gov.tw/) — Datos sobre cooperación internacional
+
+[^1]: Wikipedia, entrada «Soul»: _Soul_ (2013), dirigida por Chung Mong-hong, protagonizada por Gwei Lun-mei y Joseph Chang. https://zh.wikipedia.org/wiki/失魂
+[^2]: Wikipedia, entrada «Gwei Lun-mei», con registros de obras como _Blue Gate Crossing_, _Secret_ y _Girlfriend, Boyfriend_. https://zh.wikipedia.org/wiki/桂綸鎂
+[^3]: _Blue Gate Crossing_ (2002), dirigida por Yee Chih-yen, protagonizada por Gwei Lun-mei y Chen Bo-lin, seleccionada en varios festivales internacionales. Ficha en Taiwan Cinema: <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
+[^4]: _Girlfriend, Boyfriend_ (2012), dirigida por Yang Ya-che, nominada a Mejor Actriz en la 49.ª edición de los Premios Golden Horse. Sitio oficial de los Golden Horse: https://www.goldenhorse.org.tw/
+[^5]: _Our Time Will Come_ (2017), dirigida por Ann Hui, con participación de Gwei Lun-mei, ejemplo de colaboración interregional. Archivo de la Filmoteca de Hong Kong: <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>

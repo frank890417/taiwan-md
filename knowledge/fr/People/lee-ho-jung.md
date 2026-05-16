@@ -1,7 +1,7 @@
 ---
 title: 'Lee Ho-jung'
 description: "Son retour chez les Fubon en 2026, marqué par une forte présence et une grande reconnaissance, illustre l'évolution des pom-pom girls coréennes à Taïwan, passées du statut d'invitées à celui de membres permanents."
-date: 2026-04-14
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: People
 subcategory: '流行人物'
@@ -16,13 +16,13 @@ tags:
     'CPBL',
   ]
 readingTime: 8
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/李晧禎.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:23d7ff4a25548dd1'
-sourceBodyHash: 'sha256:7920b3c19edb9fba'
-translatedAt: '2026-05-01T22:19:06+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:426f967eae727d3c'
+sourceBodyHash: 'sha256:736da4e4885bbe7c'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 > **En 30 secondes :** Le retour de Lee Ho-jung chez les Fubon en 2026 ne se résume pas à un renforcement d'effectif : c'est le retour d'un rythme familier. Sa valeur réside dans sa présence régulière et sa constance, illustrant comment les pom-pom girls coréennes à Taïwan sont passées de prestations ponctuelles à une intégration plurisaisonnière.
@@ -30,6 +30,8 @@ translatedAt: '2026-05-01T22:19:06+08:00'
 Elle possède une longue expérience dans le milieu du cheerleading en Corée du Sud. Après son arrivée à Taïwan, elle a rapidement été positionnée comme une fiable et stable, souvent sollicitée pour les matchs nécessitant une forte interaction ou une densité élevée d'événements thématiques.
 
 Ainsi, la réaction des supporters à son retour ne se limite pas à « elle est de retour », mais plutôt à « cette ambiance familière au stade est revenue ».
+
+Selon l'édition numérique du *United Daily News* / *UDN News* de février 2026, les Fubon Braves ont annoncé que Lee Ho-jung allait poursuivre son rôle d'animation chez le club en tant que membre des Fubon Angels pour la saison 2026. [Source : United Daily News / UDN News][^2] Un autre reportage de mars de la même année, à l'occasion de la conférence de presse d'ouverture, la cite décrivant son retour au stade de Xinzhuang comme « rentrer à la maison ». [Source : United Daily News / UDN News][^3]
 
 ## La signification de son retour chez les Fubon
 
@@ -60,8 +62,10 @@ Elle est l'un des cas représentatifs de cette étape. À travers elle, on compr
 
 ## Références / Sources
 
-Source 1 : https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%A7%E7%A6%8E
-Source 2 : https://www.nownews.com/news/6679202
-Source 3 : https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8F%A0%E7%8F%A2%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%BA%8C%E4%BA%BA%E5%86%8D%E5%90%8C%E9%9A%8A-075710153.html
-Source 4 : https://news.pchome.com.tw/entertainment/crwant/20260330/index-77484543045734316006.html
-Source 5 : https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
+[^2]: *United Daily News* / *UDN News* (synthèse), « CPBL / C'est confirmé ! La “grande sœur” des Fubon Angels, Lee Ho-jung, rejoindra l'animation des Fubon Braves cette saison », 2026-02-26, https://udn.com/news/story/7002/9346859
+
+[^3]: *United Daily News* / *UDN News* (journaliste Yeh Pei-yu), « CPBL / Les cinq renforts coréennes des Fubon Braves apparaissent ensemble — Lee Ju-eun, “je vous ai trop manqués”, fond en larmes d'émotion », 2026-03-25, https://udn.com/news/story/7002/9402487
+
+Autres sources vérifiables :
+
+- Wikipédia (présentation biographique) : https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%99%A7%E7%A6%8E

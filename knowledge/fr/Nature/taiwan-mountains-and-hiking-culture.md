@@ -2,28 +2,19 @@
 title: 'Montagnes de Taïwan et culture de la randonnée'
 description: '268 sommets dépassant les trois mille mètres entassés sur une île — et pourtant, les Taïwanais ont attendu un demi-siècle avant de pouvoir grimper librement leurs propres montagnes'
 date: 2026-03-18
-tags:
-  [
-    montagnes,
-    culture de la randonnée,
-    cent sommets,
-    lac Jiaming,
-    accidents en montagne,
-    ouverture des forêts,
-    Mori Ushinosuke,
-    Lin Wen-an,
-  ]
+tags: [montagnes, culture de la randonnée, cent sommets, lac Jiaming, accidents en montagne, ouverture des forêts, Mori Ushinosuke, Lin Wen-an]
 subcategory: 'Montagnes et randonnée'
 category: 'Nature'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Nature/台灣山岳與登山文化.md'
-lastVerified: 2026-04-05
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:a4d9919368dc9dcf'
-sourceBodyHash: 'sha256:431f7ebbea017095'
-translatedAt: '2026-04-14T19:22:26+08:00'
+lastVerified: 2026-05-16
+lastHumanReview: true
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:e81dd2e1a4ff1dc3'
+sourceBodyHash: 'sha256:571a99d15e048f22'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # Montagnes de Taïwan et culture de la randonnée
@@ -81,7 +72,7 @@ Le 27 février 2011, Zhang Bowei, étudiant à l'Université médicale de Chungs
 Les parents de Zhang Bowei engagent une action en réparation contre l'État. En première instance, le service d'incendie est condamné à verser 2,67 millions de dollars taïwanais. En appel, la Haute Cour renverse le jugement : « Les citoyens n'ont pas le droit à une montagne sans risque zéro », et l'État est exonéré[^9]. Le verdict fait débat, mais ce qui importe davantage, c'est le changement systémique qu'a déclenché cette affaire : elle a mis en lumière l'inadéquation des services de secours face aux opérations en montagne, et fait émerger la réalité que « pompier » ne signifie pas « expert en sauvetage alpin ».
 
 > **📝 Note de curation**
-> L'héritage de l'affaire Zhang Bowei n'est pas un verdict juridique, c'est une question : dans quelle mesure l'État doit-il protéger les citoyens qui s'engagent en montagne ? Cette question reste, à ce jour, sans consensus.
+> L'héritage réel de l'affaire Zhang Bowei est une question encore sans réponse : dans quelle mesure l'État doit-il protéger les citoyens qui s'engagent en montagne ? Cette question reste, à ce jour, sans consensus.
 
 ## Les larmes de l'ange et les limites de la capacité d'accueil
 
@@ -89,7 +80,7 @@ Les parents de Zhang Bowei engagent une action en réparation contre l'État. En
 
 Son origine fait elle-même l'objet d'un débat scientifique. En 2003, le professeur Chi Shih-chang de l'Université nationale de Kaohsiung identifie sur le terrain des éléments caractéristiques d'un cirque glaciaire — verrous rocheux, moraines frontales, stries de glissement — et conclut à une origine glaciaire. D'autres chercheurs avancent l'hypothèse d'un impact météoritique. En 2015, Yang Jianfu et ses collègues suggèrent qu'un météorite d'environ dix mètres de diamètre aurait pu créer ce cratère il y a cent mille ans[^10]. Cependant, Zhu Xiaozu, du Service central de géologie, ne trouve sur les berges aucune trace de coésite ni de stishovite — minéraux révélateurs d'un impact — et estime la probabilité de l'origine météoritique à moins de 2 %.
 
-L'origine reste incertaine ; la beauté du lieu, elle, ne l'est pas. Le refuge de Xiangyang et le refuge du lac Jiaming offrent chacun 70 couchages, auxquels s'ajoutent des emplacements de camping pour une capacité totale d'environ 176 personnes. L'accès se fait par tirage au sort mensuel, avec un taux de succès très faible. Ce système n'existe pas pour décourager les randonneurs, mais parce que la capacité de cette prairie alpine est réellement limitée. Le lac ne contient pas de poissons (l'altitude est trop élevée) ; les abords abritent des espèces menacées comme l'Isoetes taiwanensis. Un pas de travers peut suffire à faire disparaître une espèce.
+L'origine reste incertaine ; la beauté du lieu, elle, ne l'est pas. Le refuge de Xiangyang et le refuge du lac Jiaming offrent chacun 70 couchages, auxquels s'ajoutent des emplacements de camping pour une capacité totale d'environ 176 personnes. L'accès se fait par tirage au sort mensuel, avec un taux de succès très faible. Ce système traduit le plafond de capacité de cette prairie d'altitude — ce plafond, par nature, n'est pas plus grand que cela. Le lac ne contient pas de poissons (l'altitude est trop élevée) ; les abords abritent des espèces menacées comme l'Isoetes taiwanensis. Un pas de travers peut suffire à faire disparaître une espèce.
 
 ## La montagne comme miroir
 
@@ -99,7 +90,7 @@ Le changement climatique fait remonter la limite des neiges et multiplie les év
 
 Lin Wen-an est décédé en 1975, sans voir l'essor que connaîtra la culture des Cent Sommets. Mori Ushinosuke a disparu en 1926 à bord du navire qui le ramenait au Japon — on pense qu'il s'est jeté à la mer. Ce qu'il aimait par-dessus tout, jusqu'à la fin, c'étaient les montagnes de Taïwan[^11].
 
-Cent ans plus tard, les montagnes sont toujours là, immuables. Ce qui a changé, c'est ce qui vit à leurs pieds : de la restriction à la liberté, de la crainte à la fièvre, de la conquête à un apprentissage, encore en cours, de la coexistence.
+Cent ans plus tard, les montagnes sont toujours là, immuables. Ce qui a changé, c'est ce qui vit à leurs pieds : un parcours passant d'abord par la restriction et l'ouverture, par la crainte et la fièvre, avant de commencer lentement à apprendre à coexister avec la montagne.
 
 La surface du lac Jiaming reflète le ciel, qu'il y ait ou non quelqu'un pour la contempler.
 

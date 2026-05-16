@@ -14,14 +14,14 @@ tags:
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 10
-lastVerified: 2026-04-14
+lastVerified: 2026-05-16
 lastHumanReview: false
 category: 'People'
 translatedFrom: 'People/李珠珢.md'
-sourceCommitSha: '967e77ab'
-sourceContentHash: 'sha256:1a5ec966d15fc75f'
-sourceBodyHash: 'sha256:286ea06e2dfa5442'
-translatedAt: '2026-05-01T13:44:02+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:c87fa614c30922e7'
+sourceBodyHash: 'sha256:c0d649ed19f7f301'
+translatedAt: '2026-05-17T06:08:00Z'
 ---
 
 > **30-second overview:** Lee Ju-eun signed a full management contract with Fubon in 2025 and in 2026 shifted her professional focus more explicitly to Taiwan. Her significance lies not just in her high-traffic visibility, but in the way she has pushed the Korean cheer member (韓援) model from "bilateral back-and-forth" into "long-term residency in Taiwan."

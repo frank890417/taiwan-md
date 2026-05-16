@@ -1,8 +1,8 @@
 ---
 translatedFrom: 'Music/交工樂隊.md'
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:912e5f2bd004672b'
-sourceBodyHash: 'sha256:f78b7564231803ab'
+sourceContentHash: 'sha256:c3347c2a085cddc9'
+sourceBodyHash: 'sha256:8f0c4cf2e72a96b9'
 translatedAt: '2026-05-09T06:34:07Z'
 title: '交工樂隊（こうこうがくたい）：客家八音がグローバル化に対抗したロックバンド'
 description: '1998年秋、林生祥（りんせいしょう）は淡水の口座残高57元で故郷の美濃に戻り、詩人の鍾永豊（しょうえいほう）とともにダム反対運動のための歌を書いた。1999年から2003年、交工樂隊は客家八音と現代ロックを融合させ、二枚のアルバムで農村がグローバル化の中で生き抜こうとする姿を刻んだ——スオナ（嗩吶）が初めて台湾ロックの舞台の中心に立った瞬間だった。'

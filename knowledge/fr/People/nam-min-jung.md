@@ -1,7 +1,7 @@
 ---
 title: 'Nam Min-jung'
 description: "Représentante sud-coréenne reconduite d'une saison à l'autre au sein du système Fubon, elle a transformé la « popularité éphémère » en un modèle professionnel de soutien en tribune à la présence prévisible."
-date: 2026-04-14
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: People
 subcategory: '流行人物'
@@ -16,13 +16,13 @@ tags:
     'CPBL',
   ]
 readingTime: 8
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/南珉貞.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:000d5a7dca77f804'
-sourceBodyHash: 'sha256:08bb733df9b2880d'
-translatedAt: '2026-05-01T22:19:06+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:5cd75519d073b597'
+sourceBodyHash: 'sha256:8ff8485aabd4c50c'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 > **Aperçu en 30 secondes :** Le mot-clé associé à Nam Min-jung n'est pas « viralité », c'est « reconduction ». Elle occupe de manière continue des positions à forte visibilité chez Fubon, transformant la présence de cheerleaders sud-coréennes à Taïwan d'un phénomène ponctuel en une routine professionnelle prévisible.
@@ -30,6 +30,8 @@ translatedAt: '2026-05-01T22:19:06+08:00'
 Elle possède une solide expérience scénique dans le milieu du cheerleading sud-coréen et, après son arrivée à Taïwan, s'est rapidement intégrée au rythme des matchs à domicile et des événements de la CPBL. Contrairement aux cas reposant sur un unique moment de buzz, elle se comporte davantage comme une artiste qui doit « rendre sa copie chaque jour à l'heure ».
 
 En 2026, lorsque Fubon a maintenu sa configuration centrale de cheerleaders sud-coréennes, Nam Min-jung figurait toujours dans l'alignement principal. Cela signifie que son rôle a été institutionnalisé, et qu'il ne s'agit plus d'une simple expérimentation commerciale de court terme.
+
+En mars 2026, dans son article sur la conférence de presse d'ouverture des Fubon Angels, l'édition numérique du *United Daily News* / *UDN News* rapporte que plusieurs membres coréennes, dont Nam Min-jung, ont salué les supporters en chinois, et mentionne notamment qu'elle s'est présentée en taïwanais — autant de détails d'interaction relevés sur place. [Source : United Daily News / UDN News][^6]
 
 ## Positionnement chez Fubon : un noyau stable
 
@@ -60,8 +62,9 @@ Si la première vague de cheerleaders sud-coréennes relevait de la « nouveaut�
 
 ## Références / Sources
 
-Source 1 : https://zh.wikipedia.org/wiki/%E5%8D%97%E7%8F%89%E8%B2%9E
-Source 2 : https://www.ftnn.com.tw/news/418797
-Source 3 : https://www.nownews.com/news/6679202
-Source 4 : https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
-Source 5 : https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8F%A0%E7%8F%A2%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%BA%8C%E4%BA%BA%E5%86%8D%E5%90%8C%E9%9A%8A-075710153.html
+[^6]: *United Daily News* / *UDN News*, « CPBL / Les cinq renforts coréennes des Fubon Braves apparaissent ensemble — Lee Ju-eun, “je vous ai trop manqués”, fond en larmes d'émotion », 2026-03-25, https://udn.com/news/story/7002/9402487
+
+Autres sources vérifiables :
+
+- Wikipédia (présentation biographique) : https://zh.wikipedia.org/wiki/%E5%8D%97%E7%8F%89%E8%B2%9E
+- NOWnews (index des reportages stade / renforts coréennes) : https://www.nownews.com/news/6679202

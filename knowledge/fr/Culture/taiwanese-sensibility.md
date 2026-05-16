@@ -5,26 +5,16 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '區域特色'
-tags:
-  [
-    'Sensibilité taïwanaise',
-    '대만감성',
-    'Corée',
-    'Esthétique',
-    'Paysage urbain',
-    'Rayonnement culturel',
-    'Grilles en fer forgé',
-    'Vieux visages de maisons',
-  ]
+tags: ['Sensibilité taïwanaise', '대만감성', 'Corée', 'Esthétique', 'Paysage urbain', 'Rayonnement culturel', 'Grilles en fer forgé', 'Vieux visages de maisons']
 readingTime: 14
-lastVerified: 2026-04-08
+lastVerified: 2026-05-16
 lastHumanReview: true
 featured: true
 translatedFrom: 'Culture/台灣感性.md'
-sourceCommitSha: '5db9f136'
-sourceContentHash: 'sha256:785a3e1b4966025f'
-sourceBodyHash: 'sha256:3803abbb5597e9da'
-translatedAt: '2026-05-01T20:54:17+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:413833a72961c88e'
+sourceBodyHash: 'sha256:9858a809538deaaf'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # La sensibilité taïwanaise : l'esthétique taiwanoise vue par les Coréens
@@ -35,9 +25,9 @@ translatedAt: '2026-05-01T20:54:17+08:00'
 
 ## Deux mille motifs de grilles en fer forgé
 
-En 2013, Hsin Yong-sheng et Yang Chao-ching se sont lancé à Tainan un « idéal présomptueux » [^1] : ils voulaient déterminer combien de motifs de grilles en fer forgé existaient dans la ville.
+En 2013, Hsin Yong-sheng et Yang Chao-ching se sont lancé à Tainan un « idéal présomptueux »[^1] : ils voulaient déterminer combien de motifs de grilles en fer forgé existaient dans la ville.
 
-Hsin étudiait le design d'intérieur, Yang l'ingénierie informatique. Ces deux habitants de Kaohsiung s'étaient rencontrés en 2011 au Kaohsiung Container Arts Festival et avaient découvert que leurs objectifs photographiques convergeaient spontanément vers les vieilles maisons. Ils ont fondé l'atelier « Vieux visages de maisons » (老屋顏) et sillonné les rues, rue après rue. En six mois, ils ont photographié plus de deux mille motifs différents — des lignes géométriques aux fleurs, oiseaux, poissons et insectes — chaque grille portant l'esthétique et la mémoire d'une famille.
+Hsin étudiait le design d'intérieur, Yang l'ingénierie informatique. Ces deux habitants de Kaohsiung s'étaient rencontrés en 2011 au Kaohsiung Container Arts Festival et avaient découvert que leurs objectifs photographiques convergeaient spontanément vers les vieilles maisons. Ils ont fondé l'atelier « Vieux visages de maisons » (老屋顏) et sillonné les rues, rue après rue. En six mois, ils ont photographié plus de deux mille motifs différents : lignes géométriques, fleurs, oiseaux, poissons et insectes, symboles traditionnels — chaque grille portant l'esthétique et la mémoire d'une famille.
 
 « On a fini par réaliser qu'on tombait dans un gouffre sans fond ! » a déclaré Yang [^1].
 
@@ -52,7 +42,7 @@ Quand les Taïwanais voient une grille en fer forgé, ils pensent à la remplace
 
 ## D'un clip musical à un million de personnes
 
-Le terme « 대만감성 » est apparu vers 2019 dans les communautés coréennes de photographie et de voyage. Cette année-là, le chanteur indépendant coréen Car, the garden est venu à Taïwan tourner le clip de 〈Tree〉, avec des images de voies ferrées, de scooters et de bâtiments en tôle ondulée — tout ce que les Taïwanais ne regardent même pas au quotidien [^3].
+Le terme « 대만감성 » est apparu vers 2019 dans les communautés coréennes de photographie et de voyage. Cette année-là, le chanteur indépendant coréen Car, the garden est venu à Taïwan tourner le clip de 〈Tree〉, avec des images de voies ferrées, de scooters et de bâtiments en tôle ondulée, tout ce que les Taïwanais ne regardent même pas au quotidien[^3].
 
 La véritable explosion a eu lieu en 2024. En mars, le nouveau groupe féminin d'HYBE, ILLIT, est venu à Taipei photographier les visuels conceptuels de son album de début _Super Real Me_ — stations de métro, immeubles résidentiels, supérettes, tout y est passé [^4]. En mai, NewJeans a sorti le clip de 〈How Sweet〉, filmé au pont circulaire du complexe résidentiel Huajiang à Wanhua, dans les rues du quartier Minsheng, et dans les rizières et passages à niveau de Jiaoxi, dans le Yilan. Chaque lieu a été identifié un par un par les fans coréens, qui s'y sont rendus en pèlerinage [^5].
 
@@ -89,7 +79,7 @@ En creusant plus profondément, il faut aussi mentionner le terrain préparé pa
 
 ## Carte de pèlerinage et ses ombres
 
-Les lieux rendus célèbres par la sensibilité taïwanaise ne sont pas des sites touristiques traditionnels, mais des scènes du quotidien empreintes de vie : le complexe résidentiel Huajiang à Wanhua (clip de NewJeans), les façades baroques de la rue Dihua à Dadaocheng, les rues arborées du quartier Minsheng, la rue Shennong à Tainan, le passage à niveau de Jiaoxi dans le Yilan.
+Les lieux rendus célèbres par la sensibilité taïwanaise contournent les sites touristiques traditionnels et s'inscrivent dans des scènes du quotidien empreintes de vie : le complexe résidentiel Huajiang à Wanhua (clip de NewJeans), les façades baroques de la rue Dihua à Dadaocheng, les rues arborées du quartier Minsheng, la rue Shennong à Tainan, le passage à niveau de Jiaoxi dans le Yilan.
 
 Mais quand le « quotidien imparfait » devient un argument commercial touristique, des tensions apparaissent.
 
@@ -114,7 +104,7 @@ Le designer Fang Shu-chung partage un point de vue similaire : « Cette tâche n
 
 L'écrivain Lu Hong-jin a formulé une observation juste : « La sensibilité taïwanaise, pour les Taïwanais, est un quotidien aussi naturel que respirer, un gène déjà intégré dans le sang. » [^14] On ne remarque pas sa propre respiration jusqu'à ce que quelqu'un dise que le son de votre respiration est agréable.
 
-La programmation du Salon du livre de Séoul 2025 a aussi cherché à approfondir la compréhension. Six grandes sections thématiques — littérature, vie quotidienne, image, voyage et terroir, gastronomie et divertissement, sensibilité historique — ne se contentaient pas de présenter l'esthétique visuelle de Taïwan, mais déployaient les textures culturelles qui se cachent derrière ces beautés [^8]. Le ministre de la Culture Li Yuan a déclaré lors de l'ouverture du salon que la sensibilité de Taïwan naît de la « résilience et de l'inclusivité » d'une petite île, qui, en absorbant les influences extérieures, a développé une profondeur culturelle unique [^15].
+La programmation du Salon du livre de Séoul 2025 a aussi cherché à approfondir la compréhension. Six grandes sections thématiques — littérature, vie quotidienne, image, voyage et terroir, gastronomie et divertissement, sensibilité historique — plaçaient le centre de gravité curatoriale sur les textures culturelles qui se cachent derrière ces beautés[^8]. Le ministre de la Culture Li Yuan a déclaré lors de l'ouverture du salon que la sensibilité de Taïwan naît de la « résilience et de l'inclusivité » d'une petite île, qui, en absorbant les influences extérieures, a développé une profondeur culturelle unique [^15].
 
 Yang Chao-ching, après avoir visité d'innombrables vieilles maisons, a dit une phrase : « Une maison est comme un récipient : chaque foyer y prépare une boisson différente, selon les émotions qu'on y verse. » [^1]
 

@@ -1,67 +1,50 @@
 ---
 title: 'Ahn Ji-hyun'
-description: 'De la animación profesional en Corea del Sur a la reubicación en Kaohsiung, ella transformó «actuar en Taiwán» en «vivir en Taiwán», trazando un nuevo camino para las animadoras coreanas.'
-date: 2026-04-14
+description: 'De la animación profesional en Corea del Sur a refuerzo extranjero principal de las Wing Stars de Tsgri, llevó su experiencia transnacional al estadio de Kaohsiung; la temporada de 2026 en el Taipei Dome también se convirtió en un punto público para observar sus ajustes por lesión y su papel desde la banda.'
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
-category: People
+category: 'People'
 subcategory: '流行人物'
-tags:
-  [
-    '流行人物',
-    '安芝儇',
-    'Corea del Sur',
-    'animación deportiva',
-    'Tsgri Eagles',
-    'Wing Stars',
-    'Kaohsiung',
-  ]
+tags: ['流行人物', '安芝儇', '韓國', '啦啦隊', '台鋼雄鷹', 'Wing Stars', '高雄']
+featured: false
 readingTime: 9
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/安芝儇.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5c8ae9f4892807a5'
-sourceBodyHash: 'sha256:727da6d1403587b0'
-translatedAt: '2026-05-02T02:50:57+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:b13816d98f58f322'
+sourceBodyHash: 'sha256:56208a71719992d2'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
-> **Resumen en 30 segundos:** En 2023, cuando Tsgri Eagles acababa de ingresar a la Liga Profesional de Béisbol de Taiwán (CPBL), Ahn Ji-hyun se unió a Wing Stars. En 2026, seguía en la lista principal del equipo. Lo más representativo de ella no es un momento viral, sino cómo convirtió paso a paso «trabajar en Taiwán» en «vivir en Taiwán».
+> **Resumen en 30 segundos:** En 2023, Tsgri ingresó a la Liga Profesional de Béisbol de Taiwán (CPBL) y Ahn Ji-hyun entró al sistema de las Wing Stars, donde se ha mantenido durante mucho tiempo al frente. En mayo de 2026, durante el traslado de Tsgri al Taipei Dome, los medios cubrieron su ajuste con narrativas de lesión como una «luxación del hombro derecho» para describir sus presentaciones desde la banda y después del partido, mostrando que incluso un refuerzo extranjero de alta popularidad debe enfrentar riesgos físicos y la presión del calendario.
 
-Cuando Tsgri Eagles aún estaba construyendo su primera identidad como equipo local, Ahn Ji-hyun ya estaba al frente. No fue una aparición temporal a mitad de temporada, sino que creció con todo el sistema, desde los eventos previos a la temporada hasta los partidos regulares.
+Cuando los Tsgri Eagles aún estaban construyendo su primera identidad como equipo local, Ahn Ji-hyun ya estaba al frente. No fue una aparición temporal a mitad de temporada, sino que creció junto con el sistema del equipo, desde los eventos previos a la temporada hasta los partidos regulares.
 
-Esto hace su historia más completa que la de la mayoría de animadoras coreanas: primero consolidó su lugar en el escenario, luego trasladó su vida. Posteriormente, al mencionar públicamente su reubicación en Kaohsiung, esta trayectoria se volvió aún más clara.
+Según la cobertura de la rueda de prensa de formación de Wing Stars realizada por *ETtoday Sports Cloud*, cuando el club anunció la composición de sus refuerzos coreanos, también mencionó el papel de liderazgo de Ahn Ji-hyun dentro de la formación (la cobertura describe la distribución de funciones del grupo con títulos como «directora de animación»). [Fuente: Eastern Broadcasting New Media / ETtoday Sports Cloud][^1]
 
-## Su papel dentro del sistema de Tsgri Eagles
+## Mayo de 2026: la temporada en el Taipei Dome y los ajustes por lesión
 
-El rol de Ahn Ji-hyun no se limita a las actuaciones en el escenario. Según información disponible públicamente, también asume funciones de referencia y estándar de desempeño, influyendo en la forma en que el equipo se presenta en eventos de apertura, interpretaciones de temas musicales y coreografías grupales.
+Según un reporte de *SETN* del 1 de mayo de 2026, los Tsgri Eagles realizaron una serie temática en el Taipei Dome; el reporte indica que la integrante coreana de Wing Stars, Ahn Ji-hyun, no pudo animar en el formato habitual debido a una luxación del hombro derecho y describe cómo ajustó sus actuaciones cantando desde la banda y después del partido. [Fuente: SETN][^2]
 
-En marzo de 2026, durante el evento promocional previo a la temporada de Tsgri, ella participó junto con otros miembros en recorridos por la ciudad y calentamientos de escenario, lo que refleja que sigue ocupando una posición central en el equipo. Durante la semana de inauguración de local en abril, también continuó participando en grandes actuaciones en el estadio.
-
-> **📝 Nota del curador**
-> Mucha gente ve que «Ahn Ji-hyun es muy popular», pero para el equipo, su significado más práctico es que introdujo procesos profesionales de animación de alta exigencia en las operaciones diarias de un equipo nuevo.
+La importancia de este tipo de cobertura no está en convertir la lesión en chisme, sino en señalar que, durante calendarios intensivos, el estado físico de las animadoras reescribe directamente «la actuación que se puede captar en cámara». Para quien quiera entender la mercantilización del béisbol profesional taiwanés, esta es una realidad estructural más digna de registrar que los pasos de baile.
 
 ## De «trabajo transnacional» a «vida local»
 
-Uno de los momentos más comentados de Ahn Ji-hyun en Taiwán fue cuando ella y sus compañeras mencionaron públicamente su reubicación en Kaohsiung. La importancia de este hecho radica en que separa la «animación itinerante» y las «apariciones comerciales breves» de una integración más profunda en la comunidad local.
-
-Reubicarse implica no solo logística de transporte, sino también aprendizaje del idioma, adaptación a la vida cotidiana, interacción social y sentido de pertenencia a la ciudad. Cuando una miembro coreana no solo actúa en el escenario, sino que establece su vida en Taiwán, la percepción de los aficionados pasa de «estrella» a «miembro de la comunidad local».
+Ahn Ji-hyun y sus compañeras han sido asociadas por los medios con narrativas locales como «reubicarse en Kaohsiung». Para Taiwan.md, la importancia de este camino radica en que, cuando una miembro coreana establece sus coordenadas vitales en una ciudad taiwanesa, la percepción de los aficionados pasa de «estrella» a «miembro de la comunidad local».
 
 ## Popularidad, presión y escrutinio público
 
-Dentro de una estructura de alta visibilidad, Ahn Ji-hyun, al igual que otras animadoras coreanas, enfrenta constantemente un alto volumen de discusión en línea. Esto incluye la frecuencia de sus asignaciones, distribución de cámaras, contenido en redes sociales y noticias sobre su vida privada, todo amplificado casi en tiempo real.
-
-Esta situación otorga al trabajo de animación una doble naturaleza: por un lado, es una actuación escénica; por otro, es un trabajo mediático continuo y público. Para la persona, mantener el ritmo mental y físico es una tarea más difícil que los movimientos de baile que el público ve.
+Bajo una estructura de alta visibilidad, los calendarios, los planos de cámara, el contenido en redes sociales y las noticias sobre la vida privada pueden amplificarse en tiempo real. El «trabajo de animación» es, por tanto, al mismo tiempo una actuación escénica y un trabajo mediático continuo y público.
 
 ## Su significado en el contexto de figuras populares en Taiwán
 
-La representatividad de Ahn Ji-hyun no radica en ser «la primera» o «la única», sino en que encarna un modelo viable a largo plazo para animadoras coreanas en Taiwán: estadio fijo, ciudad fija, comunidad fija, manteniendo alta asistencia y alta reconocibilidad entre múltiples eventos.
-
-Para Taiwan.md, su valor es un punto de observación. A través de ella, se puede ver cómo el béisbol profesional taiwanés absorbe la cultura de entretenimiento coreana, y cómo las animadoras coreanas son redefinidas por los aficionados taiwaneses y las ciudades locales.
+La representatividad de Ahn Ji-hyun radica en que encarna un modelo viable a largo plazo para las animadoras coreanas en Taiwán: estadio fijo, marca fija y ritmo de exposición fijo, asumiendo el correspondiente costo físico cuando aumenta la densidad de partidos.
 
 ## Referencias / Fuentes
 
-Fuente 1: https://zh.wikipedia.org/wiki/%E5%AE%89%E8%8A%9D%E5%84%87
-Fuente 2: https://www.knews.com.tw/news/C4D915A365F1C8E3C8D3D168B376C105
-Fuente 3: https://tw.news.yahoo.com/wing-stars%E5%8F%B0%E9%8B%BC%E9%9B%84%E9%B7%B9%E9%96%8B%E5%A0%B4%E8%88%9E%E5%86%8D%E5%8D%87%E7%B4%9A-26%E4%BD%8D%E5%A5%B3%E5%AD%A9%E5%85%A8%E5%93%A1%E5%88%B0%E9%BD%8A%E5%A4%A7%E7%A7%80%E5%AE%8C%E7%BE%8E%E8%B5%B0%E4%BD%8D-022048590.html
-Fuente 4: https://star.ebc.net.tw/buzz/495289
-Fuente 5: https://sports.ltn.com.tw/news/paper/1697978
+[^1]: ETtoday Sports Cloud (Eastern Broadcasting New Media), «Otro refuerzo poderoso para las animadoras de Tsgri: Mingo promete demostrar que es el techo» (incluye contexto de la rueda de prensa de Wing Stars), https://sports.ettoday.net/news/2664696
+
+[^2]: SETN, «CPBL / Sticker para felicitar los 100 jonrones de Wang Po-jung: Ahn Ji-hyun revela "visto y sin responder", lo disculpa diciendo que puede estar muy ocupado», 2026-05-01, https://www.setn.com/News.aspx?NewsID=1832147
+
+Wikipedia (resumen biográfico): https://zh.wikipedia.org/wiki/%E5%AE%89%E8%8A%9D%E5%84%87

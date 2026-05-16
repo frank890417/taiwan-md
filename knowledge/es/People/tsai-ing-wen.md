@@ -1,5 +1,5 @@
 ---
-title: 'Tsai Ing-wen'
+title: 'Tsai Ing-wen: la primera presidenta, de una derrota por 800 000 votos a una reelección con 8,17 millones'
 description: 'Primera presidenta de Taiwán (2016-2024), especialista en derecho internacional comercial. Durante su mandato se promulgó la primera ley de matrimonio homosexual de Asia, representó al gobierno en una disculpa oficial a los pueblos indígenas y es de ascendencia paiwan.'
 date: 2026-03-17
 category: 'People'
@@ -16,24 +16,22 @@ tags:
 subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-04-04
+lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '790cd351'
-sourceContentHash: 'sha256:c83fd3ce9c9d29bb'
-sourceBodyHash: 'sha256:a99640d8582ca9af'
-translatedAt: '2026-05-13T01:08:31Z'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:d4925ffaac58660e'
+sourceBodyHash: 'sha256:c49502db85e74424'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # Tsai Ing-wen
 
+> **Resumen en 30 segundos:** Tsai Ing-wen nació en 1956 en Taipéi y es de ascendencia paiwan[^3]. Se licenció en Derecho por la Universidad Nacional de Taiwán, obtuvo un máster en Derecho por la Universidad de Cornell y se doctoró en la London School of Economics and Political Science. Antes de entrar en política, fue especialista en derecho del comercio internacional y representante en las negociaciones de la OMC. Ejerció la presidencia entre 2016 y 2024, periodo en el que se promulgó la primera ley de matrimonio homosexual de Asia[^4], representó al gobierno en una disculpa oficial a los pueblos indígenas[^5], impulsó la reforma de las pensiones y dirigió la respuesta inicial de Taiwán a la COVID-19. En 2020 fue reelegida con 8,17 millones de votos, la cifra más alta de la historia de las elecciones presidenciales en Taiwán[^6].
+
 El 14 de enero de 2012, Tsai Ing-wen perdió las elecciones presidenciales por ochocientos mil votos. Aquella noche de derrota, se dirigió a sus seguidores desde el estrado y dijo: «Pueden llorar, pero no se desanimen. Pueden estar tristes, pero no se rindan.»[^1]
 
 Cuatro años después, con seis millones ochocientos noventa y cuatro mil votos —un 56,1 % del total— se convirtió en la decimocuarta presidenta de la República de China y en la primera mujer jefa de Estado de Taiwán[^2].
-
-## Panorama en 30 segundos
-
-Tsai Ing-wen nació en 1956 en Taipéi y es de ascendencia paiwan[^3]. Se licenció en Derecho por la Universidad Nacional de Taiwán, obtuvo un máster en Derecho por la Universidad de Cornell y se doctoró en la London School of Economics and Political Science. Antes de entrar en política, fue especialista en derecho del comercio internacional y representante en las negociaciones de la OMC. Ejerció la presidencia entre 2016 y 2024, periodo en el que se promulgó la primera ley de matrimonio homosexual de Asia[^4], representó al gobierno en una disculpa oficial a los pueblos indígenas[^5], impulsó la reforma de las pensiones y dirigió la respuesta inicial de Taiwán a la COVID-19. En 2020 fue reelegida con ocho millones ciento setenta mil votos, la cifra más alta de la historia de las elecciones presidenciales en Taiwán[^6].
 
 ## La menor de once hermanos
 
@@ -91,17 +89,17 @@ Durante los ocho años de gobierno de Tsai, la presión militar en el estrecho d
 
 En agosto de 2022, la presidenta de la Cámara de Representantes de Estados Unidos, Nancy Pelosi, visitó Taiwán[^11]. La respuesta de China fue un ejercicio militar alrededor de la isla: el Ejército Popular de Liberación lanzó once misiles balísticos, cinco de los cuales cayeron en la zona económica exclusiva de Japón. Solo en 2022, el EPL cruzó la línea media del estrecho de Taiwán quinientas sesenta y cuatro veces, veinticuatro veces la suma de todos los años anteriores[^9].
 
-La estrategia de Tsai fue no provocar y no ceder. No declaró la independencia ni aceptó el consenso de 1992. Compró armas, reforzó la movilización de la reserva y fortaleció las relaciones informales con Estados Unidos y Japón. Era un estado sin nombre: ni unificación ni independencia, sino la persistencia de Taiwán en la grieta.
+La estrategia de Tsai fue no provocar y no ceder. No declaró la independencia ni aceptó el consenso de 1992. Compró armas, reforzó la movilización de la reserva y fortaleció las relaciones informales con Estados Unidos y Japón. Era un estado sin nombre: entre la unificación y la independencia, dejar un espacio para que Taiwán siguiera existiendo.
 
 ## Al irse
 
 El 20 de mayo de 2024, Tsai Ing-wen dejó el cargo. Su vicepresidente, Lai Ching-te, había ganado las elecciones de enero de ese mismo año: era la primera vez que el Partido Democrático Progresista ganaba tres elecciones presidenciales consecutivas, un hecho sin precedentes en la historia democrática de Taiwán[^12].
 
-Fue incluida dos veces en la lista de las cien personas más influyentes de la revista _TIME_ (2016 y 2020)[^13]. Tras dejar el cargo, realizó visitas como ciudadana particular a Lituania, Dinamarca y el Reino Unido.
+Fue incluida dos veces en la lista de las cien personas más influyentes de la revista _TIME_ (2016 y 2020)[^13]. Tras dejar el cargo, no se retiró realmente: en octubre de 2024 visitó como ciudadana particular Chequia, Lituania y el Reino Unido, y su discurso dentro del Parlamento Europeo la convirtió en la primera expresidenta taiwanesa en intervenir en el Parlamento Europeo[^16]. Ese mismo año regresó también a Japón para una conferencia pública en la Universidad de Waseda.
 
-Tuvo dos gatos: Tsai Xiangxiang (un atigrado gris rescatado tras un tifón en 2012) y Tsai Acai (un gato naranja encontrado en Taitung en 2015)[^14]. No se casó nunca. Durante la campaña electoral de 2016, la agencia de noticias Xinhua de China publicó un comentario insinuando que «las mujeres solteras son emocionalmente inestables», lo que fue ampliamente condenado como discriminación de género[^14].
+Tuvo dos gatos: Tsai Xiangxiang es un atigrado gris y blanco rescatado por la diputada Hsiao Bi-khim en la estación de Heping, Hualien, tras el tifón Saola en 2012; Tsai Acai es un gato naranja adoptado en 2015 en un campo de piña de la comunidad de Pasikau, en Taitung[^14]. No se casó nunca. Tras su victoria en mayo de 2016, el _International Herald Leader_, dependiente de la agencia china Xinhua, publicó el artículo «Investigando a Tsai Ing-wen», que vinculaba su condición de «mujer política soltera» con un supuesto «comportamiento extremo», lo que diversos medios extranjeros criticaron como discriminación de género[^15].
 
-Tsai Ing-wen demostró en ocho años que una política de perfil académico, poco dada a los discursos brillantes, a los apretones de manos y a la televisión, puede gobernar un país con la fuerza de la ley y las instituciones en una era de populismo global. No solo dejó políticas: dejó una prueba de que el silencio también puede ser un estilo de liderazgo.
+Tsai Ing-wen demostró en ocho años que una política de perfil académico, poco dada a los discursos brillantes, a los apretones de manos y a la televisión, puede gobernar un país con la fuerza de la ley y las instituciones en una era de populismo global. Más allá de las políticas que dejó, también dejó una prueba más difícil de replicar: el silencio también puede ser un estilo de liderazgo.
 
 **Lecturas complementarias**:
 
@@ -111,7 +109,7 @@ Tsai Ing-wen demostró en ocho años que una política de perfil académico, poc
 - [Historia de los pueblos indígenas de Taiwán y movimiento de reconocimiento](/history/台灣原住民族歷史與正名運動) — De «compatriotas de la montaña» a «pueblos indígenas»: una lucha por el reconocimiento
 - [Movimiento del Girasol](/society/太陽花學運) — El movimiento social de 2014 que transformó el mapa político de Taiwán
 - [Chou Tzu-yu](/people/周子瑜) — Aquel vídeo de disculpa de noventa segundos la noche antes de las elecciones de 2016 fue el detonante del discurso de victoria de Tsai: «Nadie tiene que disculparse por su identidad»
-- [Chia Yong-chieh](/people/賈永婕) — Al otro lado de aquella llamada de la «belleza al 120 %» en junio de 2021; la recaudación de fondos para HFNC fue una sincronización inusual entre la movilización civil y el sistema de la Presidencia
+- [Foro Thinking Taiwan](/society/想想論壇) — Plataforma de opinión bajo la Fundación Educativa Thinking Taiwan creada por Tsai Ing-wen tras su derrota de 2012; relanzada con un rediseño en octubre de 2025, cinco meses después de dejar el cargo
 
 ## Referencias
 
@@ -133,12 +131,16 @@ Tsai Ing-wen demostró en ocho años que una política de perfil académico, poc
 
 [^9]: [CSIS: Cross-Strait Relations Under Tsai](https://www.csis.org/) — Análisis del Center for Strategic and International Studies sobre la evolución de las relaciones entre las dos orillas durante el mandato de Tsai, incluyendo los datos de las 564 incursiones del EPL a través de la línea media en 2022.
 
-[^10]: [NPR: How Taiwan Battled Covid-19](https://www.npr.org/sections/goatsandsoda/2020/07/15/887616529/) — Reportaje sobre las medidas iniciales de control de la COVID-19 en Taiwán (sistema de mascarillas con nombre real, rastreo de contactos), denominadas «modelo taiwanés».
+[^10]: [Nature Immunology: Taiwan's experience in fighting COVID-19](https://www.nature.com/articles/s41590-021-00908-2) — Artículo académico de Nature Immunology que documenta los cuatro principios del modelo taiwanés (medidas rápidas, despliegue temprano, acción prudente, transparencia y apertura), incluyendo el sistema de mascarillas con nombre real y el mecanismo integrado del CECC.
 
-[^11]: [CNN: Pelosi's Taiwan Visit](https://edition.cnn.com/2022/08/02/politics/nancy-pelosi-taiwan/) — Reportaje sobre la visita de Pelosi a Taiwán en agosto de 2022 y los posteriores ejercicios militares chinos alrededor de la isla, incluyendo los datos de los once misiles balísticos.
+[^11]: [Wikipedia: visita de Nancy Pelosi a Taiwán en 2022](https://zh.wikipedia.org/zh-tw/2022%E5%B9%B4%E5%8D%97%E8%A5%BF%C2%B7%E8%A3%B4%E6%B4%9B%E8%A5%BF%E8%A8%AA%E5%95%8F%E5%8F%B0%E7%81%A3) — Recoge en detalle la agenda de la visita de Pelosi a Taiwán del 2 de agosto de 2022 y los ejercicios militares chinos de los cuatro días posteriores alrededor de la isla, con once misiles Dongfeng (cuatro de los cuales sobrevolaron Taiwán y cinco cayeron en la ZEE de Japón).
 
 [^12]: [Focus Taiwan: Lai Ching-te wins 2024 presidential election](https://focustaiwan.tw/politics/202401130014) — Reportaje en inglés de la agencia CNA sobre los resultados de las elecciones de 2024, primera victoria consecutiva de tres mandatos del Partido Democrático Progresista.
 
-[^13]: [TIME: The 100 Most Influential People](https://time.com/collection/100-most-influential-people-2020/5888228/tsai-ing-wen/) — Tsai Ing-wen fue incluida en la lista de las cien personas más influyentes de 2020, con un texto de presentación de Ted Cruz.
+[^13]: [TIME: The 100 Most Influential People of 2020 — Tsai Ing-wen](https://time.com/collection/100-most-influential-people-2020/5888307/tsai-ing-wen/) — Tsai Ing-wen fue incluida en la lista de las cien personas más influyentes de 2020, con un texto de presentación del senador estadounidense Ted Cruz que reconoce su gestión de la pandemia y su liderazgo democrático.
 
-[^14]: [Reuters: Taiwan's cat-loving president](https://www.reuters.com/article/us-taiwan-president-cats-idUSKCN0Z005V) — Reportaje sobre los dos gatos de Tsai Ing-wen (Tsai Xiangxiang y Tsai Acai) y el incidente del ataque sexista de la agencia Xinhua.
+[^14]: [Mirror Media: la Tsai Ing-wen que no conoces — cuando Xiangxiang y Acai se enfadan, la presidenta amante de los gatos sufre](https://www.mirrormedia.mg/story/20180417inv031) — Reportaje en profundidad de Mirror Media sobre los dos gatos de Tsai Ing-wen, «Tsai Xiangxiang» (atigrado gris y blanco rescatado por Hsiao Bi-khim en la estación de Heping, Hualien, tras el tifón Saola de 2012) y «Tsai Acai» (gato naranja adoptado en 2015 en un campo de piña de la comunidad de Pasikau, en Taitung), con sus historias de adopción y su vida cotidiana.
+
+[^15]: [The News Lens: medios oficiales chinos «Investigando a Tsai Ing-wen» atacan su soltería y varios medios extranjeros lo califican de «discriminación de género»](https://www.thenewslens.com/article/40537) — Reportaje sobre el artículo «Investigando a Tsai Ing-wen» de Wang Weixing, publicado en mayo de 2016 en el _International Herald Leader_ dependiente de Xinhua, que vinculaba la condición de «mujer política soltera» de Tsai con un supuesto «comportamiento extremo», y que la BBC, la CNN, *The Guardian* y otros medios extranjeros calificaron de discriminación de género.
+
+[^16]: [Focus Taiwan: visita histórica de Tsai Ing-wen al Parlamento Europeo](https://focustaiwan.tw/cross-strait/202410100009) — Reportaje sobre la visita de Tsai Ing-wen en octubre de 2024 como ciudadana particular a Chequia, Lituania y el Reino Unido, convirtiéndose en la primera expresidenta taiwanesa en intervenir públicamente dentro del Parlamento Europeo.

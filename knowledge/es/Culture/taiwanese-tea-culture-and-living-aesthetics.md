@@ -19,10 +19,10 @@ lastVerified: 2026-03-24
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/台灣茶文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:ad0986e868656595'
-sourceBodyHash: 'sha256:cb22720e75609696'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:f6c2c8e0c6b6e9d3'
+sourceBodyHash: 'sha256:e3f5b88e1d9e2a72'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 # El eco de una era dorada: evolución y artesanía de la cultura del té taiwanés
@@ -113,7 +113,7 @@ El tostado con carbón del Dingding Oolong requiere de 6 a 8 horas de cocción l
 
 Cuando Dodd embarcó el primer Formosa Oolong en 1869, no podía imaginar que 157 años después, la gente de esta isla pondría el té en vasos de plástico, le insertaría una pajita gruesa y haría cola durante 30 minutos para comprar una taza. Pero el té sigue siendo té. Solo ha cambiado la forma de beberlo y quién lo bebe.
 
-En Taiwán, el té no es un ritual, es el día a día. Pueden ser las primeras yemas recogidas al alba, a las cuatro de la mañana, entre la niebla matutina de Alishan por los agricultores de té (茶農), o esa taza de medio azúcar y poco hielo que compras a las tres de la tanda frente a tu oficina. Entre ambas cosas hay una distancia de altitud, artesanía, precio y toda una cadena de valor —pero ese primer sorbo es, en ambos casos, el sabor de esta isla.
+En Taiwán, el té no es un ritual, es el día a día. Pueden ser las primeras yemas recogidas al alba, a las cuatro de la mañana, entre la niebla matutina de Alishan por los agricultores de té, o esa taza de medio azúcar y poco hielo que compras a las tres de la tanda frente a tu oficina. Entre ambas cosas hay una distancia de altitud, artesanía, precio y toda una cadena de valor —pero ese primer sorbo es, en ambos casos, el sabor de esta isla.
 
 ## Referencias
 

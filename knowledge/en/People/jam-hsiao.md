@@ -12,14 +12,16 @@ tags:
     'Rain God',
   ]
 subcategory: 'Music & Performance'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: 'People/蕭敬騰.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:4623d2d2492d155b'
-sourceBodyHash: 'sha256:be34f4048a4b8d45'
-translatedAt: '2026-05-01T17:09:56+08:00'
-category: People
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:fb71e3bcf0475f2e'
+sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
+translatedAt: '2026-05-16T21:50:00Z'
+category: 'People'
 ---
 
 # Jam Hsiao: Taiwan's Most Unpredictable Musical Voice

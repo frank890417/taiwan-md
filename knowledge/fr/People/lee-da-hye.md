@@ -1,7 +1,7 @@
 ---
 title: 'Lee Da-hye'
 description: "De la pom-pom girls coréennes à l'une des figures de proue du cheerleading en Ligue professionnelle de baseball taïwanaise, elle a transformé la « popularité d'invitée » en un nouveau modèle de présence coréenne durable sur place."
-date: 2026-04-14
+date: 2026-05-13
 tags:
   [
     personnalités-populaires,
@@ -15,14 +15,14 @@ tags:
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 10
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 category: People
 translatedFrom: People/李多慧.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c3e61e6efd81f405'
-sourceBodyHash: 'sha256:e2519e7a562b02a9'
-translatedAt: 2026-05-01T22:19:06+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:9ab124feffc6f577'
+sourceBodyHash: 'sha256:5c6c355679d7ca08'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 > **En 30 secondes :** En 2023, elle fait ses débuts officiels dans les stades taïwanais ; en 2024, elle rejoint les WeiChuan Dragons ; en 2026, elle est reconduite comme capitaine des Dragon Beauties. Lee Da-hye n'est pas simplement une pom-pom girl coréenne très populaire : elle est le signe d'une époque où les pom-pom girls coréennes à Taïwan passent du « passage éphémère » à l'« implantation durable ».
@@ -48,6 +48,10 @@ En 2026, lorsque les Dragon Beauties annoncent leur nouvelle composition pour la
 
 Parallèlement, les attentes des supporters taïwanais à son égard ont évolué : on est passé de « quelle chanson va-t-elle danser cette fois ? » à « où va-t-elle mener l'équipe cette saison ? ».
 
+## 2026 : créneau d'échange avec la KBO et identité visuelle de l'équipe
+
+Lors de la conférence de presse d'ouverture de la saison 2026, les WeiChuan Dragons ont annoncé un partenariat stratégique avec les LG TWINS de la Ligue coréenne de baseball professionnel (KBO). Selon l'édition numérique du *United Daily News* / *UDN News*, les Dragon Beauties dévoilent un tout nouvel uniforme d'inspiration qipao, dessiné par Lee Da-hye ; les représentantes des pom-pom girls des LG TWINS, présentes à la conférence, ont également présenté le programme d'échange entre les deux équipes, annonçant qu'une journée thématique d'animation conjointe entre les WeiChuan Dragons et les LG Twins aurait lieu les 26 et 27 mai au Taipei Dome. [Source : United Daily News / UDN News][^5]
+
 ## Son influence sur le développement à Taïwan
 
 L'impact de Lee Da-hye s'exerce sur au moins trois niveaux. Le premier est le niveau de la performance, en relevant le seuil d'exigence du public quant à la qualité des spectacles de cheerleading. Le deuxième est le niveau industriel, en incitant davantage de franchises à investir dans des talents de cheerleading internationaux. Le troisième est le niveau culturel, en faisant entrer la vague coréenne (Hallyu) non seulement dans les concerts, mais aussi dans le quotidien des matchs de baseball taïwanais.
@@ -70,8 +74,10 @@ C'est aussi pourquoi Lee Da-hye mérite d'être inscrite dans le récit des pers
 
 ## Références / Sources
 
-Source 1 : https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%9A%E6%85%A7_(%E5%95%A6%E5%95%A6%E9%9A%8A)
-Source 2 : https://gobaseball.gogoal.com.tw/archives/69038
-Source 3 : https://news.tvbs.com.tw/entertainment/3126261
-Source 4 : https://www.chinatimes.com/realtimenews/20260403001614-260404
-Source 5 : https://vip.udn.com/vip/story/121585/9420050
+[^5]: *United Daily News* / *UDN News* (journaliste Chen Wan-ching), « CPBL / Le nouvel uniforme dessiné par Lee Da-hye dévoilé pour la première fois — journée thématique conjointe avec les LG TWINS en mai au Taipei Dome », 2026-03-23, https://udn.com/news/story/7002/9397592
+
+Autres sources vérifiables :
+
+- Wikipédia (présentation biographique) : https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%9A%E6%85%A7_(%E5%95%A6%E5%95%A6%E9%9A%8A)
+- TVBS News (récapitulatifs biographiques / matchs) : https://news.tvbs.com.tw/entertainment/3126261
+- China Times News (actualités en temps réel) : https://www.chinatimes.com/realtimenews/20260403001614-260404

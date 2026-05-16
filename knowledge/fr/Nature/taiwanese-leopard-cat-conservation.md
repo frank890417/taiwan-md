@@ -10,10 +10,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-30
 translatedFrom: "Nature/台灣石虎保育.md"
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:51b6f9aa87c5e972'
-sourceBodyHash: 'sha256:ef03963755b1efd7'
-translatedAt: "2026-04-14T19:22:44+08:00"
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:bbca77501c197a81'
+sourceBodyHash: 'sha256:76487fd0d26564e6'
+translatedAt: "2026-05-17T05:33:00Z"
 ---
 
 # Conservation du chat-léopard de Taïwan
@@ -44,7 +44,7 @@ Il y a une dimension plus profonde : le chat-léopard n'habite pas une nature vi
 
 Nos décisions quotidiennes — la conception d'une route de village, le mode de culture d'un champ — ont une incidence directe sur sa survie.
 
-Taïwan a déjà perdu le léopard nébuleux. Le chat-léopard est la dernière chance, et la dernière épreuve.
+L'habitat du chat-léopard se trouve précisément là où la pression du développement humain est la plus concentrée ; sa situation est l'épreuve la plus sévère de la conservation à Taïwan.
 
 ---
 
@@ -76,7 +76,7 @@ Les phares s'allument, les yeux du chat reflètent la lumière, et puis —
 
 Le média _Wuo Wuo_, spécialisé dans le bien-être animal, a titré un de ses dossiers sur la mort routière avec une formule déchirante : « _Scroutch !_ Et je suis devenu du jerky. »
 
-Entre 2017 et 2023, plus de 130 chats-léopards ont été tués sur les routes de manière documentée. Combien d'autres ne l'ont jamais été ? On ne sait pas.
+Entre 2017 et 2023, plus de 130 chats-léopards ont été tués sur les routes de manière documentée.[^2] Combien d'autres ne l'ont jamais été ? On ne sait pas.
 
 La chercheuse Lin Yu-hsiu, qui a suivi un chat-léopard baptisé « Xiao Cao », raconte que cet individu a été percuté par un véhicule **deux fois**, et a survécu chaque fois. Elle confie : « Xiao Cao a réussi à s'en tirer après deux accidents. Si nous ne faisons rien pour le chat-léopard, alors son courage n'aura servi à rien. »
 
@@ -114,7 +114,7 @@ Par ailleurs, les pièges en acier — officiellement interdits depuis 2020 — 
 
 « Arrête de t'en prendre à mes poules, sinon je t'empoisonne » — la logique est limpide, mais on ne peut pas expliquer cela à un chat-léopard. Alors le gouvernement a changé d'approche : **payer les agriculteurs**.
 
-Depuis 2021, le ministère de l'Agriculture a mis en place un dispositif de « paiement écologique pour le chat-léopard ». Tout agriculteur dont les terres se trouvent dans l'aire de répartition du chat-léopard et qui adopte des pratiques agricoles respectueuses — sans appâts empoisonnés ni pièges — peut recevoir une subvention allant jusqu'à 20 000 NT$ par hectare. Si un piège photographique installé sur son terrain capture une image de chat-léopard, 10 000 NT$ supplémentaires sont versés.
+Depuis 2021, le ministère de l'Agriculture a mis en place un dispositif de « paiement écologique pour le chat-léopard ».[^3] Tout agriculteur dont les terres se trouvent dans l'aire de répartition du chat-léopard et qui adopte des pratiques agricoles respectueuses — sans appâts empoisonnés ni pièges — peut recevoir une subvention allant jusqu'à 20 000 NT$ par hectare. Si un piège photographique installé sur son terrain capture une image de chat-léopard, 10 000 NT$ supplémentaires sont versés.
 
 Ce n'est pas de la charité. C'est **faire des agriculteurs des alliés de la conservation plutôt que des adversaires**.
 
@@ -130,7 +130,7 @@ Ces aménagements sont-ils efficaces ? Les pièges photographiques ont bien capt
 
 La conservation a besoin d'histoires et de visages. **Jibao**, un chat-léopard recueilli et soigné au refuge animalier de Houli à Taichung, est devenu une star de l'éducation à la conservation grâce à son caractère apprivoisé. Il a permis à de nombreuses personnes qui ignoraient jusqu'à l'existence du chat-léopard à Taïwan de découvrir cet animal.
 
-**Ahu**, un chat-léopard du Centre de recherche et de conservation de la biodiversité (TBRI), participe à un programme de reproduction en captivité. Chaque naissance de chaton est un événement médiatique.
+**Ahu**, un chat-léopard de l'Institut de recherche sur la biodiversité (TBRI) du ministère de l'Agriculture, participe à un programme de reproduction en captivité.[^4] Chaque naissance de chaton est un événement médiatique.
 
 Ces chats-léopards vedettes portent en eux une ironie tragique : s'ils se trouvent près des humains, c'est précisément parce qu'ils n'ont pas pu survivre à l'état sauvage.
 
@@ -148,7 +148,7 @@ Ces arguments semblent recevables. En clair, ils signifient : le chat-léopard n
 
 Dans les rues de Miaoli, l'image du chat-léopard est omniprésente — abribus, camions-poubelles, brochures touristiques. Il est la mascotte du comté. Mais il ne peut pas en être le voisin.
 
-Finalement, sous la pression de l'opinion publique, Miaoli a tenté une troisième fois et réussi en 2020 : le premier règlement autonome de conservation du chat-léopard de Taïwan a été adopté. Mais ce parcours du combattant est devenu un exemple emblématique du fossé béant qui sépare le discours de conservation de la réalité des actes à Taïwan.
+Finalement, sous la pression de l'opinion publique, Miaoli a fait adopter en troisième lecture, le 10 décembre 2019, le premier règlement autonome de conservation du chat-léopard de Taïwan.[^1] Mais ce parcours du combattant est devenu un exemple emblématique du fossé béant qui sépare le discours de conservation de la réalité des actes à Taïwan.
 
 ---
 
@@ -170,7 +170,7 @@ Ces détails semblent anecdotiques, mais chacun d'eux pointe vers la même réal
 
 🗳️ Le règlement de conservation de Miaoli a été rejeté **deux fois** avant d'être finalement adopté à la troisième tentative — pendant que le comté continuait d'utiliser le chat-léopard comme mascotte touristique.
 
-📸 Le réseau de pièges photographiques du Centre de recherche et de conservation de la biodiversité (TBRI) est actuellement le moyen le plus systématique de suivre la dynamique des populations — mais sa couverture reste inférieure à la moitié de l'aire d'habitat connue.
+📸 Le réseau de pièges photographiques de l'Institut de recherche sur la biodiversité (TBRI) du ministère de l'Agriculture est actuellement le moyen le plus systématique de suivre la dynamique des populations — mais sa couverture reste inférieure à la moitié de l'aire d'habitat connue.
 
 ---
 
@@ -186,17 +186,16 @@ Les Taïwanais aiment dire : « Qui prie, sera exaucé. » Mais le chat-léopard
 
 ---
 
-## Pour aller plus loin
+## Références
 
-Pour des reportages approfondis et des sources documentées, les dossiers thématiques de _Wuo Wuo_ constituent un excellent point de départ.
+[^1]: [Règlement autonome de conservation du chat-léopard de Miaoli - Environmental Information Center](https://e-info.org.tw/node/221882) — Confirme l'adoption en troisième lecture du règlement autonome de conservation du chat-léopard du comté de Miaoli, le 10 décembre 2019.
+[^2]: [Wuo Wuo : _Scroutch !_ — dossier sur les collisions routières](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistiques des collisions routières mortelles pour le chat-léopard, 2017-2023.
+[^3]: [Programme de paiement écologique du ministère de l'Agriculture](https://www.moa.gov.tw/) — Présentation du programme de paiement pour l'agriculture respectueuse du chat-léopard.
+[^4]: [Institut de recherche sur la biodiversité (TBRI), ministère de l'Agriculture](https://www.tbri.gov.tw/) — Programme de reproduction en captivité et recherche sur la conservation du chat-léopard.
+[^5]: [Wuo Wuo : Avant l'extinction — dossier chat-léopard de Taïwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Panorama complet de la conservation du chat-léopard à Taïwan.
 
-Pour suivre l'actualité officielle, le Centre de recherche et de conservation de la biodiversité (TBRI) et le ministère de l'Agriculture publient régulièrement des mises à jour sur la situation et les politiques en cours.
+Pour aller plus loin :
 
-Liens de référence :
-
-- [Wuo Wuo : Avant l'extinction — dossier chat-léopard de Taïwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat)
-- [Wuo Wuo : La menace sous-estimée — les chiens qui tuent les chats-léopards](https://wuo-wuo.com/topics/widlife/dogkill)
-- [Wuo Wuo : _Scroutch !_ — dossier sur les collisions routières](https://wuo-wuo.com/topics/widlife/94-road-killing-topic)
-- [Centre de recherche et de conservation de la biodiversité (TBRI)](https://www.tbri.gov.tw/)
-- [Programme de paiement écologique du ministère de l'Agriculture](https://www.moa.gov.tw/)
-- [Ambassadeurs de la conservation — la famille Ahu](https://www.facebook.com/LeopardCatTaiwan/)
+- [Wuo Wuo : La menace sous-estimée — les chiens qui tuent les chats-léopards](https://wuo-wuo.com/topics/widlife/dogkill) — Documentation des cas d'attaques par les chiens.
+- [Agence forestière et de la conservation de la nature, ministère de l'Agriculture](https://www.forest.gov.tw/) — Politique de conservation des habitats du chat-léopard.
+- [Ambassadeurs de la conservation — la famille Ahu](https://www.facebook.com/LeopardCatTaiwan/) — Actualités du programme de reproduction du TBRI.

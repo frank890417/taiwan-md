@@ -18,10 +18,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/台灣資安產業發展.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:dc22005598fbcdc9'
-sourceBodyHash: 'sha256:2bf84ae30b1dad29'
-translatedAt: '2026-05-15T14:23:14+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:fb3097bbad3b8cb6'
+sourceBodyHash: 'sha256:3d18fbee9dd221ad'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 # Développement de l’industrie de la cybersécurité à Taïwan
@@ -125,9 +125,11 @@ CyCraft utilise l’apprentissage automatique pour analyser les comportements an
 
 **Acer Cyber Security**
 
-- Spécialisation dans l’authentification d’identité et le contrôle d’accès
-- Acteur de premier plan des infrastructures à clés publiques PKI
-- Leader du marché des services de certificats numériques
+Fondée en 1993, Acer Cyber Security est l’un des premiers acteurs locaux de Taïwan à s’être lancés dans la cybersécurité. Avec l’infrastructure à clés publiques (PKI) comme technologie centrale, elle a porté la mise en place du Government Root Certification Authority (GRCA/GCA) et fournit des services d’authentification numérique tels que les certificats d’identité naturelle et les certificats commerciaux ; elle constitue le pilier architectural des infrastructures de confiance du gouvernement électronique taïwanais. Forte de plus de trente ans d’expertise dans les domaines de la signature numérique, des communications chiffrées et du contrôle d’accès, l’entreprise conserve sa position de leader du marché des certificats numériques dans le secteur public.
+
+**TWCERT/CC**
+
+Créé en 1998 et désormais rattaché au National Institute of Cyber Security (NICS), le Taiwan Computer Emergency Response Team / Coordination Center (TWCERT/CC) est la plateforme officielle taïwanaise de notification et de coordination des incidents de cybersécurité. Ses missions principales couvrent la réception et la coordination du traitement des incidents nationaux, la divulgation et la notification des vulnérabilités, l’émission d’alertes de menaces, ainsi que la représentation de Taïwan au sein de réseaux internationaux comme FIRST (Forum of Incident Response and Security Teams) et APCERT (Asia Pacific Computer Emergency Response Team).
 
 **Systex**
 
@@ -266,17 +268,17 @@ La pénurie de talents en cybersécurité, l’insuffisance des investissements 
 
 [^1]: [Administration de la cybersécurité du ministère des Affaires numériques (ACS)](https://moda.gov.tw/ACS/) — Documents officiels sur les politiques et réglementations nationales de cybersécurité
 
-[^2]: Rapports de recherche du National Institute of Cyber Security (NICS) — Résultats de la recherche taïwanaise en cybersécurité
+[^2]: [National Institute of Cyber Security (NICS)](https://www.nics.nat.gov.tw/) — Résultats de la recherche et rapports de politique en cybersécurité de Taïwan
 
 [^3]: [CYBERSEC, conférence taïwanaise de cybersécurité](https://cybersec.ithome.com.tw/) — Données sur les programmes annuels et l’ampleur de la participation depuis 2015
 
 [^4]: [Site officiel de Trend Micro](https://www.trendmicro.com/zh_tw/about.html) — Données officielles sur les principales entreprises taïwanaises de cybersécurité, dont Trend Micro, CyCraft (cycraft.com) et CHT Security, parcours d’entreprise et descriptions techniques
 
-[^5]: Documents de politique de la Conférence nationale sur la sécurité de l’information et des communications du Yuan exécutif — Historique de la création en 2001 et stratégies successives de cybersécurité
+[^5]: [Conférence nationale sur la sécurité de l’information et des communications du Yuan exécutif](https://nicst.ey.gov.tw/) — Créée en 2001, documents de politique et résolutions successives en matière de cybersécurité
 
 [^6]: [Loi sur la gestion de la sécurité de l’information et des communications et réglementations connexes](https://moda.gov.tw/ACS/laws/549) — Promulguée et entrée en vigueur en 2018, elle établit le cadre national de gestion de la cybersécurité
 
-[^7]: Rapport du ministère des Affaires économiques sur le développement de l’industrie de la cybersécurité — Taille de l’industrie taïwanaise de la cybersécurité et statistiques de marché
+[^7]: [Administration du développement industriel du ministère des Affaires économiques](https://www.moea.gov.tw/) — Rapport sur le développement de l’industrie de la cybersécurité, taille du marché et statistiques sectorielles
 
 [^8]: [Articles d’iThome sur la cybersécurité](https://www.ithome.com.tw/security) — Actualités sur la dynamique de l’industrie taïwanaise de la cybersécurité
 

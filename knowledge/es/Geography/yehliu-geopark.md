@@ -11,8 +11,8 @@ lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: 'Geography/野柳.md'
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:c3a5e07241222609'
-sourceBodyHash: 'sha256:f144a1eb91bb190f'
+sourceContentHash: 'sha256:061c7b5484113eed'
+sourceBodyHash: 'sha256:e080c9e068d13667'
 translatedAt: '2026-05-09T06:27:14Z'
 ---
 

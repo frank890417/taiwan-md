@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Culture/台灣茶文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:ad0986e868656595'
-sourceBodyHash: 'sha256:cb22720e75609696'
-translatedAt: '2026-04-14T12:34:01+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:cbce2034c543a47a'
+sourceBodyHash: 'sha256:52933e6cc40f3244'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 # Les échos d'un âge d'or : l'évolution et le savoir-faire de la culture du thé à Taïwan

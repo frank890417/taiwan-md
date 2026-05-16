@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T15:09:20.943Z",
+  "lastUpdated": "2026-05-16T22:12:24.586Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,72 +10,72 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 697,
+      "total": 702,
       "percentage": 100,
-      "fresh": 697,
+      "fresh": 702,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
-      "total": 698,
-      "percentage": 99.9,
-      "fresh": 524,
-      "metadataStale": 2,
-      "stale": 172,
-      "missing": 1,
+      "total": 704,
+      "percentage": 100,
+      "fresh": 592,
+      "metadataStale": 0,
+      "stale": 112,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 75,
-      "bodyFreshPct": 75.3
+      "deficit": 0,
+      "freshPct": 84.1,
+      "bodyFreshPct": 84.1
     },
     "ja": {
-      "total": 698,
-      "percentage": 99.9,
-      "fresh": 519,
-      "metadataStale": 2,
-      "stale": 177,
-      "missing": 1,
+      "total": 704,
+      "percentage": 100,
+      "fresh": 561,
+      "metadataStale": 0,
+      "stale": 143,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 74.2,
-      "bodyFreshPct": 74.5
+      "deficit": 0,
+      "freshPct": 79.7,
+      "bodyFreshPct": 79.7
     },
     "ko": {
-      "total": 698,
-      "percentage": 99.9,
-      "fresh": 523,
-      "metadataStale": 2,
-      "stale": 173,
-      "missing": 1,
+      "total": 704,
+      "percentage": 100,
+      "fresh": 565,
+      "metadataStale": 0,
+      "stale": 139,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 74.8,
-      "bodyFreshPct": 75.1
+      "deficit": 0,
+      "freshPct": 80.3,
+      "bodyFreshPct": 80.3
     },
     "es": {
-      "total": 698,
+      "total": 703,
       "percentage": 99.9,
-      "fresh": 522,
-      "metadataStale": 2,
-      "stale": 174,
+      "fresh": 572,
+      "metadataStale": 0,
+      "stale": 131,
       "missing": 1,
       "orphan": 0,
       "deficit": 1,
-      "freshPct": 74.7,
-      "bodyFreshPct": 75
+      "freshPct": 81.3,
+      "bodyFreshPct": 81.3
     },
     "fr": {
-      "total": 698,
-      "percentage": 99.9,
-      "fresh": 520,
-      "metadataStale": 2,
-      "stale": 176,
-      "missing": 1,
+      "total": 704,
+      "percentage": 100,
+      "fresh": 558,
+      "metadataStale": 0,
+      "stale": 146,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 74.4,
-      "bodyFreshPct": 74.7
+      "deficit": 0,
+      "freshPct": 79.3,
+      "bodyFreshPct": 79.3
     }
   },
   "matrix": {
@@ -118,77 +118,77 @@
       }
     },
     "art": {
-      "zh-TW": 31,
+      "zh-TW": 33,
       "en": {
-        "count": 31,
-        "fresh": 25,
-        "stale": 6,
+        "count": 33,
+        "fresh": 29,
+        "stale": 4,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 31,
-        "fresh": 25,
-        "stale": 6,
+        "count": 33,
+        "fresh": 28,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 31,
-        "fresh": 25,
-        "stale": 6,
+        "count": 33,
+        "fresh": 28,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 31,
-        "fresh": 24,
-        "stale": 7,
+        "count": 33,
+        "fresh": 27,
+        "stale": 6,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 31,
-        "fresh": 25,
-        "stale": 6,
+        "count": 33,
+        "fresh": 28,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       }
     },
     "culture": {
-      "zh-TW": 59,
+      "zh-TW": 60,
       "en": {
-        "count": 59,
-        "fresh": 46,
-        "stale": 13,
+        "count": 60,
+        "fresh": 50,
+        "stale": 10,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 59,
-        "fresh": 46,
-        "stale": 13,
+        "count": 60,
+        "fresh": 48,
+        "stale": 12,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 59,
-        "fresh": 46,
-        "stale": 13,
+        "count": 60,
+        "fresh": 49,
+        "stale": 11,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 59,
-        "fresh": 46,
-        "stale": 13,
+        "count": 60,
+        "fresh": 50,
+        "stale": 10,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 59,
-        "fresh": 46,
-        "stale": 13,
+        "count": 60,
+        "fresh": 49,
+        "stale": 11,
         "missing": 0,
         "deficit": 0
       }
@@ -197,36 +197,36 @@
       "zh-TW": 51,
       "en": {
         "count": 51,
-        "fresh": 43,
-        "stale": 8,
+        "fresh": 45,
+        "stale": 6,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 51,
-        "fresh": 42,
-        "stale": 9,
+        "fresh": 43,
+        "stale": 8,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 51,
-        "fresh": 42,
-        "stale": 9,
+        "fresh": 43,
+        "stale": 8,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 51,
-        "fresh": 43,
-        "stale": 8,
+        "fresh": 44,
+        "stale": 7,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 51,
-        "fresh": 43,
-        "stale": 8,
+        "fresh": 44,
+        "stale": 7,
         "missing": 0,
         "deficit": 0
       }
@@ -235,36 +235,36 @@
       "zh-TW": 52,
       "en": {
         "count": 52,
-        "fresh": 42,
-        "stale": 10,
+        "fresh": 45,
+        "stale": 7,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 52,
-        "fresh": 43,
-        "stale": 9,
+        "fresh": 45,
+        "stale": 7,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 52,
-        "fresh": 43,
-        "stale": 9,
+        "fresh": 45,
+        "stale": 7,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 52,
-        "fresh": 43,
-        "stale": 9,
+        "fresh": 45,
+        "stale": 7,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 52,
-        "fresh": 43,
-        "stale": 9,
+        "fresh": 44,
+        "stale": 8,
         "missing": 0,
         "deficit": 0
       }
@@ -272,54 +272,54 @@
     "geography": {
       "zh-TW": 27,
       "en": {
-        "count": 26,
-        "fresh": 16,
-        "stale": 10,
-        "missing": 1,
-        "deficit": 1
+        "count": 27,
+        "fresh": 20,
+        "stale": 7,
+        "missing": 0,
+        "deficit": 0
       },
       "ja": {
-        "count": 26,
-        "fresh": 16,
-        "stale": 10,
-        "missing": 1,
-        "deficit": 1
+        "count": 27,
+        "fresh": 19,
+        "stale": 8,
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
-        "count": 26,
-        "fresh": 16,
-        "stale": 10,
-        "missing": 1,
-        "deficit": 1
+        "count": 27,
+        "fresh": 19,
+        "stale": 8,
+        "missing": 0,
+        "deficit": 0
       },
       "es": {
-        "count": 26,
-        "fresh": 16,
-        "stale": 10,
-        "missing": 1,
-        "deficit": 1
+        "count": 27,
+        "fresh": 19,
+        "stale": 8,
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
-        "count": 26,
-        "fresh": 16,
-        "stale": 10,
-        "missing": 1,
-        "deficit": 1
+        "count": 27,
+        "fresh": 19,
+        "stale": 8,
+        "missing": 0,
+        "deficit": 0
       }
     },
     "history": {
       "zh-TW": 40,
       "en": {
         "count": 40,
-        "fresh": 34,
-        "stale": 6,
+        "fresh": 35,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 40,
-        "fresh": 33,
-        "stale": 7,
+        "fresh": 34,
+        "stale": 6,
         "missing": 0,
         "deficit": 0
       },
@@ -332,15 +332,15 @@
       },
       "es": {
         "count": 40,
-        "fresh": 33,
-        "stale": 7,
+        "fresh": 34,
+        "stale": 6,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 40,
-        "fresh": 33,
-        "stale": 7,
+        "fresh": 32,
+        "stale": 8,
         "missing": 0,
         "deficit": 0
       }
@@ -349,15 +349,15 @@
       "zh-TW": 28,
       "en": {
         "count": 28,
-        "fresh": 24,
-        "stale": 4,
+        "fresh": 26,
+        "stale": 2,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 28,
-        "fresh": 25,
-        "stale": 3,
+        "fresh": 26,
+        "stale": 2,
         "missing": 0,
         "deficit": 0
       },
@@ -370,8 +370,8 @@
       },
       "es": {
         "count": 28,
-        "fresh": 25,
-        "stale": 3,
+        "fresh": 26,
+        "stale": 2,
         "missing": 0,
         "deficit": 0
       },
@@ -387,36 +387,36 @@
       "zh-TW": 31,
       "en": {
         "count": 31,
-        "fresh": 15,
-        "stale": 16,
+        "fresh": 22,
+        "stale": 9,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 31,
-        "fresh": 15,
-        "stale": 16,
+        "fresh": 20,
+        "stale": 11,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 31,
-        "fresh": 15,
-        "stale": 16,
+        "fresh": 20,
+        "stale": 11,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 31,
-        "fresh": 15,
-        "stale": 16,
-        "missing": 0,
-        "deficit": 0
+        "count": 30,
+        "fresh": 20,
+        "stale": 10,
+        "missing": 1,
+        "deficit": 1
       },
       "fr": {
         "count": 31,
-        "fresh": 15,
-        "stale": 16,
+        "fresh": 21,
+        "stale": 10,
         "missing": 0,
         "deficit": 0
       }
@@ -425,74 +425,74 @@
       "zh-TW": 37,
       "en": {
         "count": 37,
-        "fresh": 27,
-        "stale": 10,
+        "fresh": 31,
+        "stale": 6,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 37,
-        "fresh": 27,
-        "stale": 10,
+        "fresh": 32,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 37,
-        "fresh": 27,
-        "stale": 10,
+        "fresh": 32,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 37,
-        "fresh": 27,
-        "stale": 10,
+        "fresh": 32,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 37,
-        "fresh": 27,
-        "stale": 10,
+        "fresh": 32,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       }
     },
     "people": {
-      "zh-TW": 216,
+      "zh-TW": 218,
       "en": {
-        "count": 216,
-        "fresh": 156,
-        "stale": 60,
+        "count": 218,
+        "fresh": 181,
+        "stale": 37,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 216,
-        "fresh": 153,
-        "stale": 63,
+        "count": 218,
+        "fresh": 167,
+        "stale": 51,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 216,
-        "fresh": 155,
-        "stale": 61,
+        "count": 218,
+        "fresh": 170,
+        "stale": 48,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 216,
-        "fresh": 155,
-        "stale": 61,
+        "count": 218,
+        "fresh": 175,
+        "stale": 43,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 216,
-        "fresh": 152,
-        "stale": 64,
+        "count": 218,
+        "fresh": 164,
+        "stale": 54,
         "missing": 0,
         "deficit": 0
       }
@@ -501,36 +501,36 @@
       "zh-TW": 73,
       "en": {
         "count": 73,
-        "fresh": 53,
-        "stale": 20,
+        "fresh": 62,
+        "stale": 11,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 73,
-        "fresh": 51,
-        "stale": 22,
+        "fresh": 54,
+        "stale": 19,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 73,
-        "fresh": 53,
-        "stale": 20,
+        "fresh": 56,
+        "stale": 17,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 73,
-        "fresh": 52,
-        "stale": 21,
+        "fresh": 55,
+        "stale": 18,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 73,
-        "fresh": 52,
-        "stale": 21,
+        "fresh": 55,
+        "stale": 18,
         "missing": 0,
         "deficit": 0
       }
@@ -538,58 +538,48 @@
     "technology": {
       "zh-TW": 46,
       "en": {
-        "count": 44,
-        "fresh": 35,
-        "stale": 9,
+        "count": 46,
+        "fresh": 38,
+        "stale": 8,
         "missing": 0,
-        "deficit": 2
+        "deficit": 0
       },
       "ja": {
-        "count": 44,
-        "fresh": 35,
+        "count": 46,
+        "fresh": 37,
         "stale": 9,
         "missing": 0,
-        "deficit": 2
+        "deficit": 0
       },
       "ko": {
-        "count": 44,
-        "fresh": 35,
+        "count": 46,
+        "fresh": 37,
         "stale": 9,
         "missing": 0,
-        "deficit": 2
+        "deficit": 0
       },
       "es": {
-        "count": 44,
-        "fresh": 35,
+        "count": 46,
+        "fresh": 37,
         "stale": 9,
         "missing": 0,
-        "deficit": 2
+        "deficit": 0
       },
       "fr": {
-        "count": 44,
-        "fresh": 35,
+        "count": 46,
+        "fresh": 37,
         "stale": 9,
         "missing": 0,
-        "deficit": 2
+        "deficit": 0
       }
     }
   },
   "missing": {
     "en": [
-      "Geography/擎天崗：草原、碉堡與水牛的百年拉鋸.md",
       "Technology/半導體產業.md"
     ],
-    "ja": [
-      "Geography/擎天崗：草原、碉堡與水牛的百年拉鋸.md"
-    ],
-    "ko": [
-      "Geography/擎天崗：草原、碉堡與水牛的百年拉鋸.md"
-    ],
     "es": [
-      "Geography/擎天崗：草原、碉堡與水牛的百年拉鋸.md"
-    ],
-    "fr": [
-      "Geography/擎天崗：草原、碉堡與水牛的百年拉鋸.md"
+      "Music/台灣台語歌曲演進：從阿伯歌到文青新寵的身份翻轉.md"
     ]
   },
   "statusSource": "translation-status.json",

@@ -18,13 +18,13 @@ category: 'History'
 author: 'Taiwan.md'
 readingTime: 18
 featured: true
-lastVerified: 2026-04-04
+lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: History/國民政府遷台與戰後重建.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:74f0993c4f31ed7d'
-sourceBodyHash: 'sha256:0192d7f4368e5ad1'
-translatedAt: 2026-05-01T20:54:23+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:4e071d84893835c3'
+sourceBodyHash: 'sha256:fdd1a6127fff34df'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # El traslado del Gobierno Nacionalista a Taiwán y la reconstrucción de posguerra
@@ -40,7 +40,7 @@ Yan Jiagan, nacido en 1905, se desempeñó como director de la oficina de finanz
 
 > **«No tenía capacidad de decisión; eso lo decidían los terratenientes.»** — Campesino arrendatario taiwanés (citado en _Entrevistas sobre la vida y obra del presidente Yan Jiagan_)
 
-Esta frase se registró en el campo taiwanés en 1949. En ese momento se estaba implementando la política de reducción de rentas al 37,5%, según la cual los arrendatarios solo debían entregar el 37,5% de la cosecha a los terratenientes. No se trataba únicamente de una política económica, sino de una transformación fundamental de la estructura social taiwanesa: de la relación terrateniente-arrendatario a una sociedad de agricultores propietarios[^2].
+Esta frase se registró en el campo taiwanés en 1949. En ese momento se estaba implementando la política de reducción de rentas al 37,5%, según la cual los arrendatarios solo debían entregar el 37,5% de la cosecha a los terratenientes. Esta política puso en marcha una transformación fundamental de la estructura social taiwanesa: de la relación terrateniente-arrendatario a una sociedad de agricultores propietarios[^2].
 
 Yan Jiagan afirmó: «Era una necesidad histórica y, al mismo tiempo, una inevitabilidad de la época.» Esta fue su valoración sobre el traslado del gobierno en 1949, y también un comentario sobre toda aquella era[^3].
 
@@ -87,7 +87,7 @@ Se expropiaron de forma obligatoria las tierras agrícolas de los terratenientes
 La reforma agraria eliminó con éxito la clase de los grandes terratenientes y materializó el ideal de "la tierra para quien la trabaja". Aproximadamente 194.000 hogares de arrendatarios obtuvieron tierras, y la estructura social rural experimentó un cambio fundamental. Los antiguos terratenientes recibieron bonos de tierra y acciones de empresas públicas como compensación; muchos de ellos redirigieron sus inversiones hacia la industria y el comercio, proporcionando capital para el posterior desarrollo industrial de Taiwán.
 
 > **📝 Nota del curador**
-> La reforma agraria no fue solo una política económica, sino una revolución social. Transformó la estructura de clases de Taiwán: los campesinos se convirtieron en terratenientes y los terratenientes en capitalistas. Fue la clave de la transición de Taiwán de una sociedad agrícola a una sociedad industrial.
+> La reforma agraria fue una revolución social. Transformó la estructura de clases de Taiwán: los campesinos se convirtieron en terratenientes y los terratenientes en capitalistas. Fue la clave de la transición de Taiwán de una sociedad agrícola a una sociedad industrial.
 
 ## Reconstrucción económica y ayuda estadounidense
 
@@ -126,17 +126,17 @@ En 1971, las Naciones Unidas aprobaron una resolución que reconocía a la Repú
 
 El 5 de abril de 1975 falleció Chiang Kai-shek. De acuerdo con la Constitución, el entonces vicepresidente Yan Jiagan asumió la presidencia[^15]. En 1978, Yan Jiagan completó su mandato y cedió el poder al entonces primer ministro Chiang Ching-kuo.
 
-Chiang Ching-kuo impulsó una serie de reformas durante su mandato, incluyendo el levantamiento de la ley marcial (1987), la legalización de partidos políticos (1987), la libertad de prensa (1988) y la autorización de visitas familiares al continente (1987). Estas reformas sentaron las bases para la democratización de Taiwán.
+Chiang Ching-kuo impulsó una serie de reformas durante su mandato, incluyendo el levantamiento de la ley marcial (1987), la legalización de partidos políticos (1987), la libertad de prensa (1988) y la autorización de visitas familiares al continente (1987). Estas reformas pusieron en marcha el proceso concreto de democratización en Taiwán.
 
 > **✦** «Era una necesidad histórica y, al mismo tiempo, una inevitabilidad de la época.» — Yan Jiagan
 
-Esta frase aparece en los registros de entrevistas del Academia Nacional de Historia. Es tanto la valoración de Yan Jiagan sobre el traslado del gobierno en 1949 como un comentario sobre toda aquella era. Del autoritarismo a la democracia, la transición taiwanesa no fue pacífica ni violenta, sino una "inevitable necesidad histórica".
+Esta frase aparece en los registros de entrevistas de la Academia Histórica Nacional. Es tanto la valoración de Yan Jiagan sobre el traslado del gobierno en 1949 como un comentario sobre toda aquella era. Del autoritarismo a la democracia, la transición taiwanesa no tuvo una transferencia pacífica ni una revolución sangrienta: fue una lenta erosión de tipo «inevitable necesidad histórica».
 
 ## El eco de la historia
 
 El 15 de julio de 1987, a medianoche, Chiang Ching-kuo levantó la ley marcial. Esa noche, no hubo fuegos artificiales ni celebraciones en las calles de Taiwán; solo innumerables familias observaban en silencio las noticias frente al televisor. Una era terminó, como dijo Yan Jiagan: «Era una necesidad histórica y, al mismo tiempo, una inevitabilidad de la época.»
 
-Hoy, aproximadamente el 15% de la población taiwanesa son descendientes de inmigrantes de China continental. Sus nombres, sus recuerdos y su idioma ya forman parte de Taiwán. La historia del traslado del Gobierno Nacionalista y la reconstrucción de posguerra no es la historia de un "régimen externo", sino la historia de una "comunidad de inmigrantes".
+Hoy, aproximadamente el 15% de la población taiwanesa son descendientes de inmigrantes de China continental. Sus nombres, sus recuerdos y su idioma ya forman parte de Taiwán. La historia del traslado del Gobierno Nacionalista y la reconstrucción de posguerra ha pasado del marco único de «régimen externo» a entenderse poco a poco como una historia de entrelazamiento y reorganización entre una «comunidad de inmigrantes» y la sociedad local.
 
 Si en 2050 alguien quiere saber qué les importaba a los taiwaneses en 1949, quizás lo que encuentre sean estos archivos Markdown.
 

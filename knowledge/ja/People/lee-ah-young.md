@@ -1,7 +1,7 @@
 ---
 title: '李雅英'
 description: '韓援「長留型」の代表的存在の一人。富邦体制の中で高い注目度を高い安定性に変え、球場と商業コンテンツの両方の核となった。'
-date: 2026-04-14
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: People
 subcategory: '流行人物'
@@ -16,13 +16,13 @@ tags:
     '中華職棒',
   ]
 readingTime: 9
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/李雅英.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:83e0dbb3cbec1753'
-sourceBodyHash: 'sha256:68f630723c181a47'
-translatedAt: '2026-05-01T18:02:56+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:6bdb5826bc17deb5'
+sourceBodyHash: 'sha256:84fcb9c8756f970a'
+translatedAt: '2026-05-17T06:35:00Z'
 ---
 
 > **30 秒でわかる概要：** 李雅英が台湾で注目されたのは「一気にブレイクした」ケースではなく、「ずっとそこにいた」ケースです。富邦でシーズンを跨いで在籍し続け、高い出演率と高い認知度を維持したことで、韓援（韓国出身の応援団員）は一時的な話題の人物から、球場コンテンツの確かな柱へと変わりました。
@@ -36,6 +36,8 @@ translatedAt: '2026-05-01T18:02:56+08:00'
 富邦悍将は近年、ホームゲームのエンターテインメントコンテンツを「試合 × パフォーマンス」のハイブリッドなプロダクトとして磨き上げてきました。李雅英はこのプロダクトの重要な顔であり、他の韓援とともに高い認知度を備えた布陣を形成し、Fubon Angels のブランドイメージをより明確なものにしています。
 
 2026 年シーズン前後、富邦は韓援五本柱を開幕戦のストーリーの一つとして継続的に打ち出しました。李雅英がその中に存在することは、彼女の価値が制度化され、一時的な注目度に依存しないものであることを意味します。
+
+2026 年 3 月の富邦悍將「Fubon Angels 開幕発表会」では、複数の韓籍メンバーが同時に登場したことが報道の主軸となりました。『聯合報』デジタル版／聯合新聞網は現場のやり取りを整理する中で、李雅英が中国語で自己紹介し、富邦の「国際組」における自身の役割分担について語ったことにも触れています。［出典：聯合報／聯合新聞網］[^6]
 
 ## パフォーマンスの特徴とファンとの関係
 
@@ -60,8 +62,10 @@ translatedAt: '2026-05-01T18:02:56+08:00'
 
 ## 参考資料 / Sources
 
-來源 1：https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%9B%85%E8%8B%B1
-來源 2：https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
-來源 3：https://www.nownews.com/news/6679202
-來源 4：https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8F%A0%E7%8F%A2%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%BA%8C%E4%BA%BA%E5%86%8D%E5%90%8C%E9%9A%8A-075710153.html
-來源 5：https://www.chinatimes.com/realtimenews/20260321002084-260404
+[^6]: 聯合報／聯合新聞網、〈中職／悍將5韓援同台亮相 李珠珢「太久沒見大家」緊張落淚〉（開幕発表会現場まとめを含む）、2026-03-25、https://udn.com/news/story/7002/9402487
+
+その他の検証可能な情報源：
+
+- ウィキペディア（人物概要）：https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%9B%85%E8%8B%B1
+- 今日新聞 NOWnews（球場／韓援関連報道インデックス）：https://www.nownews.com/news/6679202
+- 中時新聞網（速報）：https://www.chinatimes.com/realtimenews/20260321002084-260404

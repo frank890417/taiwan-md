@@ -1,95 +1,97 @@
 ---
-title: 'Lung Ying-tai'
-description: "Author of 'Wild Fire,' one of the most influential essayists in the Chinese-speaking world and former Taiwan Minister of Culture"
-date: 2026-03-20
-tags:
-  [
-    people,
-    Lung Ying-tai,
-    Wild Fire,
-    Big River Big Sea,
-    essayist,
-    Minister of Culture,
-    public intellectual,
-  ]
-subcategory: 'Literature'
-lastVerified: 2026-03-20
-translatedFrom: 'People/龍應台.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:31dfd121dd6c6d8b'
-sourceBodyHash: 'sha256:721426e267c4c6b4'
-translatedAt: '2026-04-14T12:25:09+08:00'
-category: People
+title: "Long Ying-tai: Daliao 1952, Public Intellectual from *Wild Fire* to Taiwan's First Minister of Culture"
+description: "Born 1952/2/13 in Daliao Township, Kaohsiung City. MA in English and American Literature, Kansas State University; doctoral degree has conflicting accounts (P0⚠️). *Wild Fire* first published 12/1985, reprinted 24 times in 21 days, surpassed 100,000 copies in 4 months. Taiwan's first Minister of Culture, 2012–2014 (appointed by Ma Ying-jeou). *Big River, Big Sea 1949* published 2009."
+date: 2026-03-19
+author: "Taiwan.md"
+category: "People"
+subcategory: "文學"
+tags: ["文學", "散文", "野火集", "大江大海", "文化部長", "公共知識分子", "高雄"]
+readingTime: '# design_rationale:
+#   why_this_hook: "21天再版24次是一個具體的歷史動作，不是形容詞。《野火集》的衝擊在這個數字裡。"
+#   whats_excluded: "《親愛的安德烈》《目送》逐章分析；文化部政策清單；與余秋雨對話細節"
+#   where_it_hedges: "出生地大寮（P0確認）vs 現行文章說左營（已修正）；博士學歷：紐約大學德國文學vs堪薩斯州立大學英文系（待確認，兩說均見於資料）"'
+lastVerified: 2026-05-07
+lastHumanReview: false
+featured: false
+translatedFrom: People/龍應台.md
+sourceCommitSha: 4b6d28c54
+sourceContentHash: sha256:3f57d56cbfc66171
+sourceBodyHash: sha256:18b08eea5658abdd
+translatedAt: 2026-05-17T05:34:48+08:00
 ---
 
-# Lung Ying-tai: Observer of Times and Guardian of Culture
+# Long Ying-tai: Daliao 1952, Public Intellectual from *Wild Fire* to Taiwan's First Minister of Culture
 
-Lung Ying-tai (龍應台) is the most influential essayist and public intellectual in the contemporary Chinese-speaking world, a cultural critic who dares to speak truth to power. Born in Kaohsiung, Taiwan in 1952, she became one of the most watched writers across both sides of the Taiwan Strait and Hong Kong with her sharp pen and independent thinking. From the intellectual sparks ignited by "Wild Fire" (野火集) in the 1980s to the profound historical reflection in "Big River Big Sea 1949" (大江大海一九四九), Lung's works always touch the nerves of the times and provoke deep social contemplation. She is both an outstanding literary creator and a practitioner of cultural policy, having served as Taiwan's first Minister of Culture, dedicated to promoting cross-strait cultural exchange and Taiwan's international cultural promotion.
+> **30-second overview:** Long Ying-tai was born on February 13, 1952, in Daliao Township, Kaohsiung County (now Daliao District, Kaohsiung City), with family roots in Hengshan, Hunan. Her father, Long Huaisheng, was from Hunan; her mother, Ying Meijun, came from Chun'an, Zhejiang.[^1] She holds an MA in English and American Literature from Kansas State University; her doctoral degree has two coexisting accounts (PhD in English from Kansas State University, or PhD in German Literature from New York University) — P0⚠️ further verification recommended.[^1] *Wild Fire* was first published as a book in December 1985, reprinted 24 times in 21 days, and surpassed 100,000 copies within 4 months.[^2] *Big River, Big Sea 1949* was published in 2009.[^3] In 2012, she accepted President Ma Ying-jeou's appointment as Taiwan's first Minister of Culture, serving until her resignation in 2014.[^4]
 
-## Formative Years and Academic Refinement
+## February 13, 1952, Daliao, Kaohsiung
 
-Lung Ying-tai, born Lung Hui-ya (龍慧雅), was born on February 13, 1952, in Zuoying, Kaohsiung. Her father, Lung Huai-sheng, was from Hunan, and her mother, Ying Mei-jun, from Chunan, Zhejiang. This mainlander family background deeply influenced her understanding of history and culture. During childhood, she grew up in the Zuoying military dependents' village, an experience that gave her firsthand knowledge of mainlander communities' life in Taiwan and provided precious life material for her later creation of "Big River Big Sea 1949."
+Long Ying-tai was born on February 13, 1952, in Daliao Township, Kaohsiung County (now Daliao District, Kaohsiung City). Her father, Long Huaisheng, was from Hunan; her mother, Ying Meijun, came from Chun'an, Zhejiang. She grew up in the military dependents' village (*juancun*) in Zuoying.[^1]
 
-In the early 1970s, Lung studied at National Cheng Kung University's Department of Foreign Languages and Literature, an educational experience that laid her solid literary foundation. After university graduation, she went to the US for further studies, obtaining a Master's degree in English and American Literature from Kansas State University and a Ph.D. in German Literature from New York University. During her overseas studies, she encountered Western democratic thought and humanistic spirit, experiences that profoundly influenced her later writing style and philosophical views.
+(Note: Some sources incorrectly list her birthplace as "Zuoying, Kaohsiung." P0 has confirmed the correct birthplace as "Daliao Township, Kaohsiung County (now Daliao District, Kaohsiung City).")
 
-In 1982, Lung returned to Taiwan to teach at National Central University's Department of Foreign Languages and Literature, beginning her academic career. As an intellectual with rigorous academic training, she possessed solid theoretical foundations and international perspective, enabling her to observe Taiwan society's changes from a macro perspective.
+She studied in the Department of Foreign Languages and Literature at National Cheng Kung University, then went to the United States for graduate study, earning an MA in English and American Literature from Kansas State University. There are two coexisting accounts of her doctoral degree: a PhD in English from Kansas State University, or a PhD in German Literature from New York University. P0⚠️ recommends consulting NCKU/Kansas State alumni records to confirm the definitive version.[^1]
 
-## "Wild Fire": Voice of the Enlightenment Era
+In 1982, Long Ying-tai returned to Taiwan to teach in the Department of Foreign Languages and Literature at National Central University, beginning a dual career in academia and writing. She grew up in a military dependents' village in Taiwan, the daughter of a mainland Chinese soldier. This background gave her a complex relationship with the concept of the "Republic of China" — one that was at once intimate and distant. She was both a beneficiary of that system (education, identity) and later one of its most forthright critics.
 
-In 1984, Lung began publishing her "Wild Fire" series of articles in the China Times, which were later collected and published as "Wild Fire," becoming a classic work in Taiwan literary history. This work caused tremendous resonance in Taiwan society during the martial law period, selling over 100,000 copies in a short time and setting sales records for essay collections at the time.
+This position afforded her a particular vantage point: she had an insider's understanding of authoritarian rule, yet also the outsider's perspective of someone trained in Western liberalism. *Wild Fire* was ignited precisely at this intersection.
 
-The success of "Wild Fire" lay in Lung Ying-tai's courage to touch sensitive social issues of the time. With rational yet sharp writing, she criticized government bureaucracy, educational system rigidity, and conservative social atmosphere. The essay "Chinese People, Why Aren't You Angry?" became an important piece inspiring civic consciousness among the people. She called on people not to remain silent about unreasonable phenomena but to courageously express their thoughts and positions.
+## 1984–1985: *Wild Fire*, 24 Reprints in 21 Days
 
-These articles' influence far exceeded the literary sphere; they became important forces promoting Taiwan's democratization process. Many readers said "Wild Fire" changed their views on society and politics, inspiring their enthusiasm for participating in public affairs. Lung was thus praised as "the voice of Taiwan's democratic enlightenment."
+In 1984, Long Ying-tai began publishing the "Wild Fire" series of opinion pieces in the *China Times*. The spark was a specific incident: she saw a legislator on television defending a soft-drink manufacturer, and the absurdity of a public figure shielding commercial interests so brazenly moved her to pick up her pen and write "Chinese People, Why Aren't You Angry?"[^6]
 
-## Diverse Faces of Literary Creation
+She later said it was never a planned endeavor: "**It wasn't intentional. It was really a case of an unplanned willow taking root.**"[^6] The "Wild Fire" series continued to take shape thereafter, each article igniting public debate.
 
-Besides sharp social commentary, Lung Ying-tai also created many deeply moving lyrical essays. "Dear Andre" (親愛的安德烈) recorded epistolary dialogues between her and her teenage son. These sincere parent-child interactions moved countless readers and provoked deep thinking about modern education and parent-child relationships.
+In December 1985, the essays were collected and published as *Wild Fire*.[^2] After the first edition appeared, the book was reprinted 24 times in 21 days and surpassed 100,000 copies within 4 months — a landmark record in Taiwan's publishing history.[^2] In an era when martial law was still in effect, she used uncompromising prose to criticize government bureaucracy, rigid education, media self-censorship, and to demand that citizens take up their moral responsibilities. This discursive framework made *Wild Fire* one of the unofficial manuals of Taiwan's student movements in the 1980s.
 
-"Watching" (目送) is another important work by Lung, collecting her insights on different life stages. From bidding farewell to her aging mother to watching her growing children, she depicted life's gatherings and partings with delicate strokes. This book received widespread acclaim and high sales across the Taiwan Strait and Hong Kong, showing that good literature can transcend political boundaries and touch hearts.
+> 📝 **Curator's note:** The conventional account holds that *Wild Fire* was an enlightenment text for Taiwan's democratization. But more precisely: it provided a specific social condition — the period around the lifting of martial law, the rise of middle-class consciousness — with a form of "textually grounded anger." Her writing made readers feel that it was permissible to be angry, and to be angry with justification. This function was more penetrating than any slogan.
 
-"Big River Big Sea 1949," published in 2009, is one of Lung's most ambitious works. She spent four years on this book, re-examining mainland China and Taiwan's history around 1949 through extensive fieldwork and historical research. From ordinary people's perspectives, she told countless families' separation stories during that turbulent era, providing new angles and depth for historical writing.
+## Major Works: *Dear Andre*, *Watching You Go*, *Big River, Big Sea 1949*
 
-## The Practice of Cultural Ministry
+*Dear Andre* records the epistolary dialogue between her and her son across Taiwan and Germany. *Watching You Go* collects her reflections on the passage of life and parent-child relationships. Both have circulated widely across Taiwan, mainland China, and Hong Kong. The most frequently cited passage from *Watching You Go* is her definition of the parent-child bond:
 
-In 2012, Lung Ying-tai accepted an invitation from President Ma Ying-jeou to serve as Taiwan's first Minister of Culture. This decision caused considerable controversy at the time, but Lung believed it was an opportunity to put ideals into practice. During her tenure, she dedicated herself to promoting Taiwan's cultural soft power, actively organizing various international cultural exchange activities.
+"**Slowly, slowly, I came to understand that so-called father-daughter, mother-son — it only means that your bond with him is to keep watching his back as he walks farther and farther away, in this lifetime. You stand at one end of the path, watching him gradually disappear around the bend, and he tells you silently, with his back: don't follow.**"[^6]
 
-Most notable were the cross-strait cultural forums she promoted and major cultural activities like the Taipei Literature Festival. She believed cultural power could transcend political barriers and promote understanding and dialogue between different communities. Although facing many challenges in political reality, she consistently adhered to culture-centered policy concepts.
+In 2009, *Big River, Big Sea 1949* was published by CommonWealth Magazine, retelling the stories of displacement around 1949 from the perspective of ordinary people.[^3] She spent ten years preparing and four hundred days writing, traveling to mainland China, Taiwan, Southeast Asia, and other places to interview the descendants of those displaced. Within a year and a half of publication, sales exceeded 400,000 copies, generating widespread response on both sides of the strait.[^3]
 
-In 2014, Lung resigned from her position as Minister of Culture, returning to the pure world of writing. In her resignation statement, she expressed that her experience as a political appointee gave her deeper understanding of the distance between ideals and reality, but also strengthened her faith in cultural values.
+She wrote in the book: "**I am proud to be a descendant of the defeated!**"[^6] — Those ordinary people called "defeated" by the currents of history are the true protagonists of this book.
 
-## Cross-border Influence and International Reputation
+## 2012–2014: Taiwan's First Minister of Culture
 
-Lung Ying-tai's influence extends beyond the Chinese-speaking world. Her works have been translated into multiple languages and have readerships in Germany, the United States, Japan, and other countries. She has been invited to lecture at universities and cultural institutions worldwide, sharing her insights on literature, culture, and democracy.
+In 2012, Long Ying-tai accepted President Ma Ying-jeou's appointment as the first Minister of Culture of the Republic of China, serving until 2014.[^4] She had previously served as the first Director of the Taipei City Department of Cultural Affairs (a position established before the Ministry of Culture).[^4]
 
-As a public intellectual, Lung has long been concerned with cross-strait relations and Chinese society development. She advocates replacing emotional confrontation with rational dialogue and promoting mutual understanding through cultural exchange. This moderate, rational stance, while sometimes criticized by people of different political positions, has also won many people's respect.
+During her tenure, she championed cultural soft power policies, promoted the "Creative Taiwan" initiative, worked to advance Taiwan's international cultural outreach, and facilitated cross-strait cultural forums. Her 2013 speech at Peking University drew wide attention. Addressing 1,800 mainland Chinese students, she said: "**A thousand missiles aimed at my home — how could I still have a Chinese Dream?**"[^6] These words stated Taiwan's geopolitical reality in the most direct language, delivered to a mainland Chinese audience.
 
-She has engaged in deep cultural dialogues with other renowned cultural figures like [[pai-hsien-yung-literary-master]] and Yu Qiuyu, jointly promoting Chinese culture development. Her articles are frequently published in major media across the Taiwan Strait and Hong Kong, influencing new generation intellectuals' thinking directions.
+In 2014, Long Ying-tai resigned as Minister of Culture and subsequently took up a visiting professorship at the University of Hong Kong, continuing to develop her work in academia and writing. Her role in Taiwanese politics has always been that of an "intellectual" rather than a "politician" — her criticism was never directed at a single party, and her gaze was fixed on culture and the human spirit, not on votes.
 
-## Literary Philosophy and Cultural Vision
+To some, her acceptance of the Minister of Culture post seemed like a compromise; in her own view, it was perhaps an attempt "to enter the system and try to advance culture from within the system." She ultimately chose to leave, returning to the position most familiar to her — writing, commentary, teaching. The image of "an independent pen" became, if anything, clearer after she left government.
 
-Lung Ying-tai's literary philosophy centers on the belief that literature should serve as society's conscience. She consistently maintains that writers have a responsibility to speak for the voiceless and to challenge power when it oppresses the powerless. This belief has guided her work throughout her career, from her early social criticism to her later historical excavations.
+## The Role of Public Intellectual
 
-Her cultural vision emphasizes the universal values that transcend political boundaries. She argues that culture, particularly literature, can build bridges between different communities and nations. This philosophy was evident in her tenure as Culture Minister, where she sought to use cultural exchange as a diplomatic tool and means of fostering understanding.
+Long Ying-tai's life trajectory is a microcosm of a particular form of intellectual in the second half of 20th-century Taiwan: born in a military dependents' village, raised in an authoritarian era, educated in the United States, returned to Taiwan to critique, left Taiwan and returned again, shuttling continuously between literature and politics.
 
-Lung's approach to writing combines rigorous research with emotional authenticity. Whether discussing public policy or personal relationships, she brings both intellectual rigor and deep empathy to her subjects. This combination has made her work accessible to general readers while maintaining scholarly depth.
+She is not a politician, not a social activist, not a pure academic. She is someone who continuously occupied public space through the written word. *Wild Fire* made her a spiritual symbol for a generation; *Watching You Go* made her an emotional touchstone for another generation; *Big River, Big Sea 1949* made her an important voice in narratives of displacement. The readerships of these three books barely overlap, yet each came to know the same Long Ying-tai within their own context.
 
-## Impact on Cross-Strait Relations
+The conventional account is that she "spans politics and literature," a rare "writer with political influence" in Taiwan. Another reading is that she has only ever had one identity: a person who writes. Politics was a field she entered; literature was the language she could not leave behind. Each time she entered the political arena (the *Wild Fire* period, the Minister of Culture period), she brought with her words, not party logic.
 
-Lung Ying-tai's role in cross-strait cultural dialogue cannot be overstated. Through her writings and public positions, she has consistently advocated for peaceful, rational communication between mainland China and Taiwan. Her book "Big River Big Sea 1949" was particularly significant in this regard, as it presented a humanistic view of the Chinese Civil War that resonated with readers on both sides.
+The 1985 "Chinese People, Why Aren't You Angry?" and the 2013 Peking University line "A thousand missiles aimed at my home" are saying the same thing: in the face of injustice, you cannot stay silent. Across forty years, this core has not shifted.
 
-Her approach emphasizes shared cultural heritage while respecting different political systems. She believes that cultural exchange can create mutual understanding that transcends political differences. This philosophy has influenced many other intellectuals and cultural workers in their approach to cross-strait relations.
+Her name has ultimately become a symbol larger than any book title: Taiwan's discovery of a civic language during its authoritarian years owes something to the woman who used her pen to say "you cannot stay silent." And the greatest question she left behind is the question itself: why aren't *you* angry?
 
-## Legacy and Continuing Influence
+**Further reading:** [Long Ying-tai — Wikipedia](https://zh.wikipedia.org/zh-tw/龍應台) ｜ [Civic Taipei Foundation](https://www.civictaipei.org) ｜ [CommonWealth: Long Ying-tai's Works](https://www.bookzone.com.tw/)
 
-Today, Lung Ying-tai continues to write and speak on issues of culture, democracy, and human rights. Her influence on younger generations of writers and intellectuals remains strong, particularly her example of using literature as a tool for social change and her insistence on intellectual independence.
+## References
 
-Her works remain widely read and discussed, continuing to shape public discourse on important social issues. The questions she raised in "Wild Fire" about civic responsibility and democratic participation remain relevant to contemporary Taiwan and other Chinese-speaking societies.
+[^1]: [Wikipedia: Long Ying-tai](https://zh.wikipedia.org/zh-tw/龍應台) — Confirms birth on February 13, 1952, in Daliao Township, Kaohsiung County (now Daliao District, Kaohsiung City); family roots in Hengshan, Hunan; MA in English and American Literature from Kansas State University; two accounts of doctoral degree (Kansas State English vs. NYU German Literature) pending confirmation.
 
-Lung Ying-tai's career demonstrates the power of literature to influence society and the importance of intellectuals maintaining independence while engaging with public affairs. Her legacy lies not only in her specific writings but in her model of how writers can serve as society's conscience while maintaining artistic integrity.
+[^2]: [Wikipedia: Wild Fire](https://zh.wikipedia.org/wiki/野火集) — Confirms first published as a book in December 1985, reprinted 24 times in 21 days, surpassed 100,000 copies in 4 months (a publishing miracle in Taiwan).
 
-## Further Reading
+[^3]: [Wikipedia: Big River, Big Sea 1949](https://zh.wikipedia.org/zh-hant/大江大海一九四九) — Confirms *Big River, Big Sea 1949* published in 2009 (CommonWealth Magazine).
 
-- [pai-hsien-yung-literary-master](/people/pai-hsien-yung-literary-master): Renowned Taiwan writer and cultural figure
-- [wu-ming-yi](/people/wu-ming-yi): Contemporary Taiwan writer concerned with environmental and social issues
-- [li-ang](/people/li-ang): Taiwan feminist writer and social commentator
+[^4]: [Ministry of Culture: Former Ministers](https://www.moc.gov.tw/cp.aspx?n=101) — Confirms Long Ying-tai as Taiwan's first Minister of Culture (2012–2014, appointed by Ma Ying-jeou); also confirms her role as the first Director of the Taipei City Department of Cultural Affairs.
+
+[^5]: [Civic Taipei Foundation](https://www.civictaipei.org) — Founded by Long Ying-tai; official foundation materials and lecture information.
+
+[^6]: [CommonWealth Magazine: Long Ying-tai on *Wild Fire* — Tearing Off the Masks (2014)](https://www.cw.com.tw/article/5103819) — Includes the "unplanned willow taking root" account of her writing motivation, the "don't follow" quote from *Watching You Go*, the "a thousand missiles" line from the Peking University speech, and the "proud to be a descendant of the defeated" quote from *Big River, Big Sea*.
+
+[^7]: [CommonWealth Magazine: Long Ying-tai's *Big River, Big Sea* Is a Gentle Key](https://www.cw.com.tw/article/5012220) — Covers the genesis of *Big River, Big Sea 1949*, the research process (10 years of preparation / 400 days of writing), and the report of sales exceeding 400,000 copies after publication.

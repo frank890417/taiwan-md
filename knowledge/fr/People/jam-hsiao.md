@@ -18,10 +18,10 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-23
 translatedFrom: 'People/蕭敬騰.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:4623d2d2492d155b'
-sourceBodyHash: 'sha256:be34f4048a4b8d45'
-translatedAt: '2026-04-14T19:17:00+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:4de8130a7075a11c'
+sourceBodyHash: 'sha256:e790a5ecaa535e1f'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 # Jam Hsiao : la voix la plus imprévisible de Taïwan

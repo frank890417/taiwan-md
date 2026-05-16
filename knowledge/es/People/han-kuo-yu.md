@@ -2,6 +2,7 @@
 title: "Han Kuo-yu"
 description: "The first directly-elected mayor in history to be recalled, he became the Speaker of the Legislative Yuan four years later. What kind of political trajectory is this?"
 date: 2026-04-11
+category: 'People'
 tags: ["political figure", "Kuomintang", "Speaker of the Legislative Yuan", "Han Wave", "Kaohsiung", "2018", "2020", "2024"]
 subcategory: "Political Figure"
 author: "Taiwan.md"
@@ -10,10 +11,20 @@ readingTime: 12
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+sporeLinks:
+  - platform: 'threads'
+    date: '2026-04-13'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXDpQqyETkf'
+    views: 8533
+  - platform: 'x'
+    date: '2026-04-13'
+    url: 'https://x.com/taiwandotmd/status/2043538858886017091'
+    views: 332
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: '2d0c126f'
-sourceContentHash: 'sha256:54ed5a3aeb9252e6'
-translatedAt: '2026-05-04T00:56:32+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:ba3d63773d52f3e6'
+sourceBodyHash: 'sha256:dba6a2c8bce85b0d'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 # Han Kuo-yu
@@ -161,6 +172,7 @@ The truth likely lies between the two. And Han Kuo-yu himself may be the quietes
 - [Liu Su-yen](/people/盧秀燕) — The other pole of the 2018 Han Wave; the Mayor of Taichung who flipped from blue to blue in the same year as Han Kuo-yu.
 - [Hsu Chiao-hsin](/people/徐巧芯) — The main proponent of the 800 billion version of the 2026 military procurement controversy; a key presence in the negotiations of Speaker of the Legislative Yuan Han Kuo-yu.
 - [Chi Lin-lien](/people/季麟連) — The Vice Chairman who threatened to "expel from party membership those who sell the party for glory" at the Central Executive Committee meeting on 2026-04-29; the target truly impacted by those words was Han Kuo-yu.
+- [Tseng Po-jen](/people/曾博恩) — In December 2019 Han Kuo-yu appeared on Season 3 of *The Night Night Show with Hello*, with the single condition that no jokes be made about his hair; Tseng called him "the most familiar stranger".
 
 ## References
 

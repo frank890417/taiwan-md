@@ -1,7 +1,7 @@
 ---
 title: 'Nam Min-jung'
 description: 'Representante surcoreana que renovó su contrato en el sistema Fubon por varias temporadas, transformando el «hype efímero» en un modelo profesional de animación con apariciones previsibles.'
-date: '2026-04-14'
+date: '2026-05-13'
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '流行人物'
@@ -16,13 +16,13 @@ tags:
     'Liga Profesional de Béisbol de China',
   ]
 readingTime: 8
-lastVerified: '2026-04-14'
+lastVerified: '2026-05-13'
 lastHumanReview: false
 translatedFrom: 'People/南珉貞.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:000d5a7dca77f804'
-sourceBodyHash: 'sha256:08bb733df9b2880d'
-translatedAt: '2026-05-01T22:19:10+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:6b588911c485c4d9'
+sourceBodyHash: 'sha256:3582a490ea4120f2'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 > **Resumen en 30 segundos:** Las palabras clave de Nam Min-jung no son «fama repentina», sino «permanencia». Ha ocupado posiciones de alta visibilidad de forma consecutiva en Fubon, permitiendo que las animadoras surcoreanas en Taiwán pasen de ser temas de un solo uso a convertirse en una rutina profesional previsible.
@@ -30,6 +30,8 @@ translatedAt: '2026-05-01T22:19:10+08:00'
 Cuenta con una base escénica sólida en el círculo de animación surcoreano, y tras llegar a Taiwán se adaptó rápidamente al ritmo de los estadios y eventos de la Liga Profesional de Béisbol de China (CPBL). En comparación con casos que dependen solo de picos de popularidad efímeros, ella se asemeja más a una artista que «entrega su trabajo a tiempo todos los días».
 
 En 2026, cuando Fubon mantuvo su configuración central de animadoras surcoreanas, Nam Min-jung siguió formando parte del equipo principal. Esto indica que su función se ha institucionalizado, y no es solo un experimento de mercado a corto plazo.
+
+En su cobertura de marzo de 2026 de la rueda de prensa de inicio de temporada de las Fubon Angels, la edición digital de *United Daily News* / UDN describe a varias integrantes coreanas —entre ellas Nam Min-jung— saludando a los aficionados en chino, y recoge detalles del acto como su presentación personal en taiwanés. [Fuente: United Daily News / UDN][^6]
 
 ## Posicionamiento en Fubon: núcleo estable
 
@@ -60,8 +62,9 @@ Si la primera ola de animadoras surcoreanas fue sinónimo de «novedad», la ola
 
 ## Referencias / Fuentes
 
-Fuente 1: https://zh.wikipedia.org/wiki/%E5%8D%97%E7%8F%89%E8%B2%9E
-Fuente 2: https://www.ftnn.com.tw/news/418797
-Fuente 3: https://www.nownews.com/news/6679202
-Fuente 4: https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
-Fuente 5: https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8F%A0%E7%8F%A2%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%BA%8C%E4%BA%BA%E5%86%8D%E5%90%8C%E9%9A%8A-075710153.html
+[^6]: *United Daily News* / UDN, «CPBL / Cinco refuerzos coreanas de los Guardians comparten escenario; Lee Ju-eun rompe en lágrimas: "Hacía tanto que no os veía"», 25-03-2026, https://udn.com/news/story/7002/9402487
+
+Otras fuentes verificables:
+
+- Wikipedia (perfil personal): https://zh.wikipedia.org/wiki/%E5%8D%97%E7%8F%89%E8%B2%9E
+- NOWnews Today News (índice de reportajes sobre estadios / refuerzos coreanos): https://www.nownews.com/news/6679202

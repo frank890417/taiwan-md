@@ -1,365 +1,357 @@
 ---
-title: 'Chanteurs-compositeurs autochtones contemporains de Taïwan'
-description: 'De A-Mei (aMEI) à Suming et Sangpuy, comment les artistes autochtones de Taïwan transmettent une âme ancestrale dans la musique moderne, créant un paysage sonore autochtone contemporain absolument singulier'
+title: 'Auteurs-compositeurs-interprètes autochtones contemporains'
+description: "De Chang Hui-mei à Suming et Sangpuy, comment les chanteurs autochtones de Taïwan transmettent une âme ancienne dans la musique moderne et créent un paysage musical autochtone contemporain singulier"
 date: 2026-03-18
-tags:
-  [
-    'chanteurs autochtones',
-    'musique pop',
-    'fusion culturelle',
-    'Golden Melody Awards',
-    'création contemporaine',
-  ]
-subcategory: 'Musique autochtone contemporaine'
-author: 'Taiwan.md Translation Team'
-difficulty: 'beginner'
-readingTime: 10
-featured: true
+author: 'Taiwan.md'
 category: 'Music'
+subcategory: '當代原住民音樂'
+tags: ['chanteurs autochtones', 'musique pop', 'fusion culturelle', 'Golden Melody Awards', 'création contemporaine']
+readingTime: 10
 lastVerified: 2026-03-19
-lastHumanReview: false
+lastHumanReview: true
+featured: true
 translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5f9911af7563336d'
-sourceBodyHash: 'sha256:7f98ff539639dcef'
-translatedAt: '2026-04-15T17:33:06+08:00'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:63a03cba4dec8d7b'
+sourceBodyHash: 'sha256:709d0c8ef67f0111'
+translatedAt: '2026-05-17T05:34:56+08:00'
 ---
 
-# Chanteurs-compositeurs autochtones contemporains de Taïwan
+# Auteurs-compositeurs-interprètes autochtones contemporains
 
-Sur la carte musicale de Taïwan, les artistes autochtones ne se contentent pas de conquérir le public par leurs voix d'une beauté céleste : ils insufflent au monde de la chanson en langue chinoise une vitalité singulière, portée par une culture profonde et un langage musical résolument novateur. De l'irruption fracassante d'A-Mei (aMEI) dans les années 1990 à l'émergence, à partir des années 2000, d'une nouvelle génération incarnée par Suming, Sangpuy et leurs pairs, la musique autochtone de Taïwan a trouvé un équilibre parfait entre tradition et modernité, s'imposant comme l'une des forces musicales les plus identifiables de l'île sur la scène internationale.
+Dans la cartographie musicale de Taïwan, les chanteurs autochtones, forts d’un profond substrat culturel et d’un vocabulaire musical innovant, ont insufflé une vitalité singulière à la scène de la musique sinophone. Depuis l’irruption de Chang Hui-mei dans les années 1990 jusqu’à l’essor, après les années 2000, d’une nouvelle génération représentée par Suming et Sangpuy, la musique autochtone taïwanaise a trouvé un point d’équilibre remarquable entre tradition et modernité, devenant l’une des forces musicales de Taïwan les plus reconnaissables à l’échelle internationale.
 
-## Panorama en 30 secondes
+## Aperçu en 30 secondes
 
-Les chanteurs-compositeurs autochtones contemporains de Taïwan occupent une place de premier plan dans la musique populaire, grâce à leurs dons musicaux hors du commun et à la richesse de leur bagage culturel. Parmi les figures emblématiques, on compte A-Mei (aMEI), surnommée « la reine de l'Asie », Chen Jian-nian, « le poète de la folk », Suming (Suming), « le roi d'une nouvelle génération », ou encore Sangpuy Katatepan Mavaliyw (dit Sangpuy), « le chanteur de l'âme ». Au-delà du succès commercial, leur œuvre commune est avant tout un acte de transmission culturelle : à travers leur musique, ces artistes perpétuent l'héritage des peuples autochtones et forgent une « sonorité autochtone » unique dans le paysage musical taïwanais.
+Les chanteurs autochtones contemporains de Taïwan se sont imposés dans la musique populaire grâce à leurs talents musicaux singuliers et à leurs arrière-plans culturels. Parmi les figures représentatives figurent Chang Hui-mei, « diva d’Asie », Chen Chien-nien, « poète folk », Suming, « nouveau roi de la chanson », et Sangpuy, « chanteur de l’âme ».
 
-**Mots-clés :** A-Mei, Chen Jian-nian, Suming, Sangpuy, Golden Melody Awards, création en langue maternelle, transmission culturelle
+Tout en obtenant des succès commerciaux, ils transmettent aussi les cultures autochtones par la musique et ont créé pour la musique taïwanaise une « sonorité autochtone » distinctive. Depuis la création, en 2005, du prix du « meilleur album en langue autochtone » aux Golden Melody Awards, la musique en langues autochtones bénéficie d’une reconnaissance institutionnelle.
 
----
+Ces chanteurs couvrent trois générations : de la percée commerciale des années 1990 au retour culturel des années 2000, puis aux expérimentations plurielles sur les plateformes numériques actuelles. Ensemble, ils écrivent l’histoire moderne de la musique autochtone taïwanaise.
 
-## Un voyage musical des villages ancestraux vers le monde
-
-Le développement contemporain de la musique autochtone de Taïwan reflète les mutations culturelles de la société taïwanaise et l'éveil d'une conscience identitaire partagée. Ces artistes ne sont pas seulement des interprètes : ils sont passeurs de culture et observateurs avisés du monde social. Leurs œuvres rendent hommage à la tradition tout en proposant une réflexion lucide sur la vie moderne.
-
-### Un héritage musical inscrit dans les gènes
-
-Le talent musical naturel des peuples autochtones puise ses racines dans des strates profondes de l'identité culturelle. Dans la société villageoise traditionnelle, la musique est indissociable du quotidien : des berceuses aux chants cérémoniels, les enfants baignent dans cet univers sonore dès leur plus jeune âge. Ce terreau culturel exceptionnel développe chez beaucoup d'artistes autochtones une oreille fine, un sens du rythme affûté et une capacité d'expression émotionnelle d'une rare intensité.
-
-### L'urbanisation comme tremplin musical
-
-À partir des années 1960, le mouvement d'urbanisation entraîne de nombreux jeunes autochtones vers les villes en quête d'opportunités. Loin de leurs communautés d'origine, ils trouvent dans les industries du divertissement urbain un nouveau terrain d'expression pour leur talent musical. Du chant dans les restaurants aux performances en cabaret, leur chemin les mène progressivement vers la scène musicale principale.
+**Mots-clés :** Chang Hui-mei, Chen Chien-nien, Suming, Sangpuy, Golden Melody Awards, création en langue maternelle, transmission culturelle
 
 ---
 
-## Première génération : l'ère des pionniers (1990–2000)
+## Un voyage musical des villages vers le monde
 
-### A-Mei (aMEI) (1972–) : la voix Puyuma d'une reine d'Asie
+Le développement contemporain de la musique autochtone taïwanaise reflète les transformations culturelles de la société taïwanaise et l’éveil d’une conscience ethnique. [^1] Ces chanteurs sont à la fois des transmetteurs culturels et des observateurs sociaux : leurs œuvres rendent hommage à la tradition tout en réfléchissant aux conditions de la vie moderne.
 
-**Peuple :** Puyuma (ou Beinan)
-**Débuts :** Album _姊妹_ (Sisters), 1996
-**Œuvres majeures :** _Sisters_, _Listen to the Sea_, _Hand in Hand_, _Can I Hold You_
+### Des qualités musicales innées
 
-L'apparition d'A-Mei (aMEI) a transformé de fond en comble le paysage de la pop en langue chinoise. Grâce à ses capacités vocales époustouflantes et à son charisme scénique irrésistible, elle s'impose comme la chanteuse la plus influente de la fin des années 1990 et du début des années 2000, faisant découvrir au monde entier le génie musical des peuples autochtones de Taïwan.
+Le talent musical des peuples autochtones possède de profondes racines culturelles. [^2] Dans les sociétés villageoises, la musique fait partie de la vie quotidienne : des berceuses aux chants rituels, les membres des communautés baignent dès l’enfance dans un environnement musical. Ce contexte culturel a formé chez de nombreux chanteurs autochtones une oreille, un sens du rythme et une capacité d’expression émotionnelle singuliers.
+
+### Les occasions musicales de l’urbanisation
+
+La vague d’urbanisation amorcée dans les années 1960 a conduit de nombreux jeunes autochtones à se rendre en ville pour y chercher des possibilités de développement. Même éloignés de leurs villages, leur talent musical leur a permis de trouver de nouvelles scènes dans les industries urbaines du divertissement, depuis les résidences musicales dans les restaurants et les spectacles en night-clubs jusqu’à l’entrée dans les circuits musicaux dominants.
+
+---
+
+## Première génération : l’époque des pionniers (1990-2000)
+
+### Chang Hui-mei (1972-) : la voix puyuma de la diva d’Asie
+
+**Groupe ethnique :** Puyuma  
+**Débuts :** album *姊妹* en 1996  
+**Œuvres représentatives :** 〈姊妹〉, 〈聽海〉, 〈牽手〉, 〈我可以抱你嗎〉
+
+L’apparition de Chang Hui-mei (aMEI) a transformé l’écologie de la musique pop sinophone. [^5] Grâce à une puissance vocale et à un charisme scénique impressionnants, elle est devenue non seulement l’une des chanteuses sinophones les plus influentes de la fin des années 1990 au début des années 2000, mais elle a aussi donné au monde l’occasion de découvrir le talent musical des Autochtones de Taïwan.
 
 **Caractéristiques musicales :**
 
-- Une tessiture extraordinaire, couvrant plus de trois octaves
-- Une voix d'une puissance expressive remarquable
-- Une palette stylistique mêlant R&B, rock et pop
-- Des prestations scéniques imprégnées de la liberté et de l'élan vital propres aux cultures autochtones
+- Une large tessiture, supérieure à trois octaves
+- Une voix d’une grande puissance explosive
+- Une fusion de nombreux éléments, dont le R&B, le rock et la pop
+- Des performances scéniques imprégnées de l’esprit libre et débridé des cultures autochtones
 
-**Portée culturelle :**
-Le succès d'A-Mei (aMEI) a brisé les stéréotypes qui enfermaient les artistes autochtones dans le seul registre des chants traditionnels, démontrant qu'ils pouvaient rayonner pleinement dans la musique populaire moderne. Son exemple a inspiré d'innombrables artistes de la génération suivante et ouvert la voie à la musique autochtone sur le marché grand public.
+**Signification culturelle :**
+Le succès de Chang Hui-mei a brisé les stéréotypes de la musique dominante à l’égard des Autochtones, en prouvant que les chanteurs autochtones ne pouvaient pas seulement interpréter des chants traditionnels, mais aussi rayonner dans la musique pop moderne. Sa présence a inspiré d’innombrables artistes plus jeunes et ouvert une voie au développement de la musique autochtone sur le marché dominant.
 
-### Power Station (le groupe Power Station) : l'incarnation de la puissance vocale
+### Power Station : représentants d’un chant puissant
 
-**Membres :** Yan Zhi-lin (peuple Paiwan), You Qiu-xing (peuple Amis)
-**Débuts :** 1997
-**Œuvres majeures :** _Dang_, _Walking Zhongxiao East Road Nine Times_
+**Membres :** Yen Chih-lin (Paiwan), Yu Chiu-hsing (Paiwan) [^3]  
+**Débuts :** 1997  
+**Œuvres représentatives :** 〈當〉, 〈忠孝東路走九遍〉
 
-Power Station (le groupe Power Station) se distingue par des harmonies vocales riches et puissantes, où les deux voix se complètent avec une précision remarquable — un modèle pour les duos masculins. Leur style oscille vers le rock lyrique, avec une texture vocale profonde et robuste, marque distinctive des artistes autochtones.
+Power Station est réputé pour ses harmonies épaisses et puissantes. Les deux voix se complètent avec une grande force, faisant du duo un exemple classique de groupe masculin. Leur style musical penche vers le rock lyrique, et leurs voix portent une texture ample caractéristique des chanteurs autochtones.
 
 ---
 
-## Deuxième génération : retour aux sources et renouveau (2000–2010)
+## Deuxième génération : retour culturel et innovation (2000-2010)
 
-### Chen Jian-nian (1967–) : les complaintes Puyuma d'un poète de l'océan
+### Chen Chien-nien (1967-) : le chant puyuma du poète de l’océan
 
-**Peuple :** Puyuma (ou Beinan)
-**Débuts :** Album _Ocean_, 1999
-**Œuvres majeures :** _Ocean_, _Love in Orchid Island_, _Hometown Puyuma_
+**Groupe ethnique :** Puyuma  
+**Débuts :** album *海洋* en 1999  
+**Œuvres représentatives :** 〈海洋〉, 〈蘭嶼之戀〉, 〈故鄉普悠瑪〉
 
-Salué comme le « père de la folk autochtone », Chen Jian-nian propose une musique d'une chaleur intérieure et d'une retenue qui lui sont propres, une voix qui porte à la fois la profondeur de l'océan et la sérénité des forêts de montagne. L'album _Ocean_ remporte lors de la 11e cérémonie des Golden Melody Awards les prix du Meilleur album de musique pop et du Meilleur interprète de musique pop, inaugurant ainsi une ère glorieuse pour la musique autochtone dans cette compétition.
+Chen Chien-nien est considéré comme le « père du folk autochtone ». Son style musical est chaleureux et intériorisé, sa voix portant la profondeur de l’océan et la quiétude des montagnes et des forêts. L’album *海洋* a reçu le prix du meilleur chanteur masculin en mandarin lors de la 11e édition des Golden Melody Awards [^4], inaugurant la place importante de la musique autochtone dans cette récompense.
 
 **Caractéristiques musicales :**
 
-- Un style folk dépouillé, d'une simplicité assumée
-- Un recours généreux à la langue Puyuma
-- Un accompagnement essentiellement à la guitare
-- Des textes empreints d'un attachement profond à la terre natale et à la culture d'origine
+- Un style folk dépouillé
+- Un usage abondant de la langue puyuma dans le chant
+- Un accompagnement principalement fondé sur la guitare
+- Des paroles empreintes d’un profond attachement au pays natal et à la culture
 
-### Ji Xiao-jun : une voix d'une pureté angélique
+### Samingad : une voix pure et transparente
 
-**Peuple :** Puyuma (ou Beinan)
-**Œuvres majeures :** _Wild Fire, Spring Breeze_, _Solo Flight_
+**Groupe ethnique :** Puyuma  
+**Œuvres représentatives :** 〈野火春風〉, 〈單飛〉
 
-Ji Xiao-jun possède une voix d'une limpidité et d'une transparence saisissantes. Son style d'interprétation se situe à mi-chemin entre tradition et modernité : il conserve l'esthétique brute et originelle de la musique autochtone tout en lui conférant la finesse et le raffinement de la musique contemporaine.
+Samingad possède une voix d’une grande pureté et transparence. Son style d’interprétation se situe entre tradition et modernité : il conserve la beauté originelle de la musique autochtone tout en ayant le raffinement de la musique moderne.
 
-### Wang Hong-en : l'exploration plurielle d'un créateur de talent
+### Biung Wang : l’exploration plurielle d’un talent créatif
 
-**Peuple :** Amis
-**Œuvres majeures :** _Moonlight_, _Beautiful Folk Ballad_
+**Groupe ethnique :** Amis  
+**Œuvres représentatives :** 〈月光〉, 〈美麗心民謠〉
 
-Wang Hong-en n'est pas seulement un interprète de talent : c'est aussi un auteur-compositeur d'une grande inventivité. Sa palette musicale est vaste — folk, rock, traditions autochtones, pop contemporaine —, témoignant de la force créatrice des musiciens autochtones.
+Biung Wang est un auteur-compositeur-interprète extrêmement talentueux. Sa musique traverse le folk, le rock, ainsi que divers espaces entre traditions autochtones et pop moderne, manifestant la puissance créative des musiciens autochtones.
 
 ---
 
-## Troisième génération : l'innovation culturelle de la nouvelle vague (2010–aujourd'hui)
+## Troisième génération : l’innovation culturelle de la nouvelle génération (2010-aujourd’hui)
 
-### Suming (Suming) (1978–) : le nouveau roi du village de Dulan
+### Suming (1978-) : le nouveau roi de la chanson du village de Dulan
 
-**Vrai nom :** Jiang Sheng-min
-**Peuple :** Amis (village de Dulan)
-**Débuts :** Album _Suming_, 2010
-**Œuvres majeures :** _Don't Give Up_, _Beautiful Rice Ears_, _Ina_
+**Nom civil :** Chiang Sheng-min  
+**Groupe ethnique :** Amis (village de Dulan)  
+**Débuts :** album *Suming* en 2010  
+**Œuvres représentatives :** 〈不要放棄〉, 〈美麗的稻穗〉, 〈Ina〉
 
-Suming (Suming) est l'un des chanteurs-compositeurs autochtones contemporains les plus représentatifs de sa génération. Sa musique fusionne les traditions Amis, le rock moderne et la musique électronique, créant une « sonorité de Dulan » qui lui est entièrement personnelle.
+Suming est l’un des auteurs-compositeurs-interprètes autochtones contemporains les plus représentatifs. Sa musique fusionne les traditions amis, le rock moderne, la musique électronique et d’autres éléments, créant une « sonorité de Dulan » singulière.
 
 **Style musical :**
 
-- Création simultanément en langue Amis et en mandarin
-- Fusion des chants traditionnels et des arrangements modernes
-- Usage généreux des interjections rituelles Amis (_hai yan_)
-- Mélange harmonieux de rock, d'électronique et de world music
+- Création bilingue en amis et en mandarin
+- Fusion de chants traditionnels et d’arrangements modernes
+- Usage abondant des particules vocales amis (*hai yan*)
+- Présence équilibrée d’éléments rock, électroniques et de musiques du monde
 
 **Contributions culturelles :**
 
-- Fondation du studio de musique « BaLiwakes » pour la promotion de la musique autochtone
-- Organisation du festival de musique « Amis Gakeng »
-- Utilisation de la musique comme vecteur d'échanges culturels autochtones à l'échelle internationale
+- Fondation du « BaLiwakes Music Studio » pour promouvoir la musique autochtone
+- Organisation du festival musical « Amis 旮亙樂團 »
+- Mise en relation, par la musique, des échanges culturels autochtones internationaux
 
-### Sangpuy Katatepan Mavaliyw (dit Sangpuy) (1971–) : les poèmes Puyuma d'un chanteur de l'âme
+**Chronologie des principaux albums :**
 
-**Vrai nom :** Shen Huai-yi
-**Peuple :** Puyuma (ou Beinan)
-**Débuts :** Album _Yaogan_, 2008
-**Œuvres majeures :** _Yaogan_, _Lahan_, _Myth_
+- ***Suming* (2010)** : premier album, rock moderne chanté en amis ; 〈不要放棄〉 s’est largement diffusée
+- ***東西* (2012)** : exploration des conflits entre culture villageoise et vie moderne ; usage plus mûr de la particule amis *hai-yan*
+- ***海。我在這裡等你* (2015)** : intégration, dans les arrangements, de sons naturels enregistrés sur le littoral de Dulan ; retour au thème du village
+- ***I am Suming* (2017)** : style mêlant musiques du monde et éléments électroniques ; nomination au prix du meilleur album en langue autochtone lors de la 28e édition des Golden Melody Awards
+- ***愛* (2019)** : orientation vers une écriture émotionnelle plus personnelle, tout en conservant un cœur linguistique autochtone
 
-La musique de Sangpuy est traversée d'une spiritualité intense. Sa voix grave et profondément communicative porte des textes aux accents philosophiques, questionnant l'identité culturelle avec une exigence rare. Souvent comparé au « Bob Dylan de Taïwan », son univers musical est résolument à part.
+En langue amis, le nom de Suming signifie « vent du nord ». Ce nom est aussi devenu une note explicative de son style musical : il porte à la fois un sens de l’orientation et une part de sauvagerie. En exploitant durablement un studio musical à Dulan, il a fait du village un espace culturel vivant de création continue.
+
+### Sangpuy (1971-) : les poèmes puyuma du chanteur de l’âme
+
+**Nom civil :** Shen Huai-yi  
+**Groupe ethnique :** Puyuma  
+**Débuts :** album *椏幹* en 2008  
+**Œuvres représentatives :** 〈[椏幹](https://www.youtube.com/watch?v=ealNSQUDAaU)〉, 〈拉罕〉, 〈神話〉
+
+La musique de Sangpuy possède une forte dimension spirituelle. [^6] Sa voix est profonde et d’une grande force d’émotion ; ses paroles portent souvent une réflexion philosophique et culturelle. Il est qualifié de « Bob Dylan de Taïwan » et son style musical est profondément original.
 
 **Caractéristiques musicales :**
 
-- Une écriture poétique d'une grande richesse
-- Un regard lucide et engagé sur la société
-- Des arrangements épurés, mais d'une force saisissante
-- Un usage alterné de la langue Puyuma et du mandarin
+- Une écriture poétique des paroles
+- Une observation sociale profonde
+- Des arrangements sobres et puissants
+- Un usage conjoint du puyuma et du mandarin
 
-### Ado Kaliting Pacidal : les voix plurielles d'une nouvelle génération
+**Chronologie des principaux albums :**
 
-**Peuple :** Amis
-**Style musical :** Fusion de hip-hop, rock, électro et autres courants contemporains
+- ***椏幹* (2008)** : prix du meilleur album en langue autochtone lors de la 20e édition des Golden Melody Awards ; interprétation en puyuma du lien entre terre et âme
+- ***旮亙 Kagayan* (2013)** : titre issu d’un chant traditionnel puyuma ; inclut des œuvres poétiques comme 〈拉罕〉, avec des instruments sobres tels que le xylophone et l’harmonica
+- ***神話* (2017)** : entrée dans une phase de création plus posée, consacrée aux mythes villageois et à la mémoire des ancêtres
+- ***斯頌 Sising* (2020)** : exploration, en pur puyuma, des thèmes de la vie, de la mort et de l’attente
 
-Ado Kaliting Pacidal incarne l'esprit d'innovation de la nouvelle génération d'artistes autochtones. Sans s'enfermer dans les formes traditionnelles, il explore avec audace toutes les esthétiques musicales, révélant l'horizon infini de la musique autochtone contemporaine.
+Les prestations scéniques de Sangpuy sont réputées pour leur extrême dépouillement : une guitare, un micro, et pourtant une voix qui semble provenir des profondeurs de la terre. Il a dit qu’il ne faisait que redire aux jeunes, dans un contexte moderne, ce que les anciens puyuma chantaient depuis longtemps.
 
----
+### Ado Kaliting Pacidal : les voix plurielles de la nouvelle génération
 
-## Un panorama contemporain riche et diversifié
+**Groupe ethnique :** Amis  
+**Style musical :** fusion d’éléments modernes tels que le hip-hop, le rock et la musique électronique
 
-### La montée en puissance des femmes artistes
+Ado incarne l’esprit d’innovation de la nouvelle génération de chanteurs autochtones. Il ne s’enferme pas dans les formes traditionnelles, expérimente audacieusement divers styles musicaux et montre les possibilités illimitées de la musique autochtone.
 
-#### Panai Kusui (1969–) : une voix sociale de protestation
+### ABAO : la passeuse mondiale de la langue puyuma
 
-**Peuple :** Puyuma (ou Beinan)
-**Œuvres majeures :** _Journal of Wandering_, _Maybe One Day_
+**Groupe ethnique :** Puyuma (village de Nanwang)
+**Nom civil :** Chung Lan-chi
+**Œuvres représentatives :** 〈kinakaian 母親的舌頭〉, 〈我〉, 〈Fly away〉
 
-Panai Kusui est reconnue pour ses créations profondément engagées. Sa voix porte une conscience sociale acérée et une humanité vibrante ; elle prend régulièrement position pour les droits des peuples autochtones et interpelle la société sur ses contradictions.
+ABAO est l’une des auteures-compositrices-interprètes autochtones taïwanaises contemporaines les plus remarquées à l’international. Sa musique fusionne le R&B, la musique électronique et les chants traditionnels puyuma ; ses paroles circulent avec souplesse entre langue autochtone et chinois, brisant le stéréotype selon lequel la musique autochtone ne pourrait être « que traditionnelle ».
 
-#### Ilid Kaolo : la gardienne de la mémoire des anciens chants
+**Prix et jalons importants :**
 
-**Peuple :** Amis
-**Spécialité :** Réinterprétation contemporaine des chants traditionnels Amis
+- Prix du meilleur album en taïwanais lors de la 30e édition des Golden Melody Awards (2019, *kinakaian 母親的舌頭*)
+- Prix de la meilleure chanteuse en langue autochtone lors de la 31e édition des Golden Melody Awards (2020)
+- Sélectionnée en couverture de l’édition asiatique du magazine *TIME* (2021)
 
-Ilid Kaolo consacre son œuvre à donner une nouvelle vie aux anciens chants du peuple Amis. Sa musique préserve l'esprit fondamental de la tradition tout en l'enrichissant d'un langage musical contemporain.
+L’influence musicale d’ABAO dépasse l’île de Taïwan : elle est devenue l’une des voix représentatives les plus visibles de la culture autochtone taïwanaise dans le monde. En enveloppant les chants en langue autochtone dans des standards de production modernes, elle prouve que les langues autochtones peuvent dialoguer directement avec les auditeurs mondiaux à l’ère du streaming, sans nécessiter d’intermédiaire traductif.
 
-🎵 **La beauté de la musique autochtone** : [Hu De-fu (Kimbo) — _Vent du Pacifique_](https://www.youtube.com/watch?v=1orwkijmkIU) | [Œuvres d'ABAO (阿爆)](https://www.youtube.com/@abao_888) | [Écoute de l'album _Yaogan_ de Sangpuy](https://www.youtube.com/watch?v=ealNSQUDAaU)
+**Traits du style musical :**
 
-### L'innovation par les formations en groupe
-
-#### Totem (le groupe Totem) : la voix tribale du rock
-
-**Fondé en :** 1999
-**Membres :** Principalement issus des peuples Amis et Puyuma
-**Style musical :** Rock autochtone, folk rock
-
-#### Shenzun Yuetuan : l'exploration de la musique expérimentale
-
-Ce collectif fusionne éléments autochtones et musique expérimentale, incarnant la soif de renouveau musical de la jeune génération.
-
-### Collaborations interdisciplinaires et échanges internationaux
-
-Les artistes autochtones contemporains s'engagent de plus en plus dans des projets transversaux :
-
-- Collaborations avec des musiciens internationaux
-- Participation à des festivals de world music
-- Composition de musiques de films et de créations théâtrales
-- Performances avec des orchestres symphoniques
+- Usage principal du puyuma, avec parfois le chinois comme transition émotionnelle d’appoint
+- Superposition de rythmes électroniques et de chants traditionnels
+- Production visuelle raffinée ; les clips juxtaposent souvent rituels villageois et paysages urbains modernes
 
 ---
 
-## Les Golden Melody Awards et les consécrations musicales
+## Un paysage contemporain au développement pluriel
 
-Depuis la création, en 2003, de la catégorie « Meilleur album en langue autochtone » aux Golden Melody Awards, la musique autochtone bénéficie d'une visibilité et d'une reconnaissance accrues dans le paysage musical taïwanais.
+### L’essor des voix féminines
 
-### Lauréats marquants
+#### Panai (1969-) : la voix sociale d’une chanteuse protestataire
 
-| Artiste                    | Œuvre récompensée            | Distinction                                         |
-| -------------------------- | ---------------------------- | --------------------------------------------------- |
-| Chen Jian-nian             | _Ocean_                      | 11e cérémonie — Meilleur interprète de musique pop  |
-| Suming (Suming)            | _Suming_                     | 22e cérémonie — Meilleur album en langue autochtone |
-| Sangpuy Katatepan Mavaliyw | _Yaogan_                     | 20e cérémonie — Meilleur album en langue autochtone |
-| Ilid Kaolo                 | _Lumière dans le brouillard_ | 30e cérémonie — Meilleur album en langue autochtone |
+**Groupe ethnique :** Puyuma  
+**Œuvres représentatives :** 〈流浪記〉, 〈也許有一天〉
 
-### La portée culturelle du prix
+Panai est connue pour ses créations à forte conscience sociale. Sa voix porte un puissant esprit critique et une sollicitude humaniste ; elle prend fréquemment la parole en faveur des droits autochtones et de questions sociales.
 
-La création d'une catégorie dédiée à l'album en langue autochtone aux Golden Melody Awards est bien plus qu'une reconnaissance artistique : c'est une incitation à la création dans la langue maternelle et à la transmission culturelle, un encouragement concret pour que de jeunes artistes autochtones s'engagent dans la création musicale.
+#### Ilid Kaolo : une passeuse des chants anciens réinterprétés
 
----
+**Groupe ethnique :** Amis  
+**Particularité :** travail centré sur l’interprétation moderne des chants anciens amis
 
-## Les enjeux culturels à l'œuvre dans la musique
+Ilid Kaolo s’attache à réinterpréter les anciens chants amis. Sa musique conserve le noyau spirituel de la tradition tout en y injectant un vocabulaire musical moderne.
 
-### La revitalisation des langues
+🎵 **La beauté de la musique autochtone** : [Hu Te-fu, *太平洋的風*](https://www.youtube.com/watch?v=1orwkijmkIU) ｜ [Œuvres d’ABAO](https://www.youtube.com/@abao_888) ｜ [Écoute de l’album *椏幹* de Sangpuy](https://www.youtube.com/watch?v=ealNSQUDAaU)
 
-Les artistes autochtones contemporains jouent un rôle moteur dans la revitalisation linguistique par la création musicale :
+### L’innovation par la forme du groupe
 
-- **Création en langue maternelle :** ils choisissent de chanter dans leur langue d'origine, lui redonnant vie dans le contexte de la musique moderne
-- **Bilinguisme assumé :** en associant habilement langue autochtone et mandarin, ils élargissent le rayonnement de leur musique
-- **Anciens mots, nouvelles mélodies :** ils tissent des mots et des formules de la langue traditionnelle dans des compositions résolument contemporaines
+#### Totem Band : la voix villageoise de l’esprit rock
 
-### La construction de l'identité
+**Fondation :** 1999  
+**Membres :** principalement des membres amis et puyuma  
+**Style musical :** rock autochtone, folk rock
 
-Les créations des artistes autochtones sont souvent le reflet d'une quête identitaire profonde :
+#### ZenKwun : l’exploration d’une musique expérimentale
 
-- **L'expérience de l'autochtone urbain :** description des sentiments complexes qui accompagnent la vie en ville, loin du village natal
-- **Le retour aux sources :** la musique comme fil qui renoue avec la culture traditionnelle
-- **La tension de la modernité :** une réflexion sur les conflits et les métissages entre culture ancestrale et vie contemporaine
+Le groupe fusionne des éléments autochtones et de la musique expérimentale, manifestant le désir d’innovation musicale de la jeune génération.
 
-### La justice foncière
+### Collaborations transdisciplinaires et échanges internationaux
 
-Nombre d'artistes autochtones portent dans leur œuvre la question des droits territoriaux :
-
-- Ils utilisent leur voix pour défendre les droits fonciers de leurs communautés
-- Ils participent aux mobilisations sociales, faisant de la musique un vecteur de protestation
-- Ils sensibilisent la société à la situation des peuples autochtones
+Le champ des collaborations transdisciplinaires des chanteurs autochtones contemporains est désormais très vaste : projets avec des musiciens internationaux, prestations dans des festivals de musiques du monde, musiques de films et de séries, ainsi que concerts avec orchestres symphoniques.
 
 ---
 
-## L'impact sur l'industrie musicale
+## Golden Melody Awards et accomplissements musicaux
 
-### La diversification du marché musical
+Depuis la création, en 2005 lors de la 16e édition des Golden Melody Awards, du prix du « meilleur album en langue autochtone », la musique autochtone bénéficie de davantage d’attention et de reconnaissance dans le monde musical taïwanais. [^7] La naissance de ce prix marque la reconnaissance officielle, par l’industrie musicale taïwanaise, du statut artistique de la musique en langues autochtones, et non plus seulement comme présentation culturelle marginale.
 
-Le succès des artistes autochtones a rendu le marché musical taïwanais plus riche et plus varié :
+### Lauréats importants au fil des éditions
 
-- Ils ont ouvert un segment de world music jusqu'alors peu développé
-- Ils ont démontré le potentiel commercial des musiques en langues non dominantes
-- Ils ont contribué à l'internationalisation de la musique taïwanaise
+Dès 2000, lors de la 11e édition, *海洋* de Chen Chien-nien avait brisé le silence des prix dominants à l’égard des Autochtones en remportant le prix du « meilleur interprète de musique populaire » ; *Suming* de Suming a reçu le prix du meilleur album en langue autochtone lors de la 22e édition.
 
-### L'innovation dans la production musicale
+- **Sangpuy** : *椏幹* (meilleur album en langue autochtone, 20e édition)
+- **Ilid Kaolo** : *迷霧中的靈光* (meilleur album en langue autochtone, 30e édition)
+- **ABAO** : *kinakaian 母親的舌頭* (meilleur album en taïwanais, 30e édition) ; meilleure chanteuse en langue autochtone, 31e édition
+- **Suming** : plusieurs nominations au prix du meilleur album en langue autochtone, dont *I am Suming* (28e édition)
+- **Nabu Husungan Istanda** : important auteur-compositeur-interprète amis des années 2010, régulièrement présent aux Golden Melody Awards
+- **Elisa Huang** : Atayal, distinguée dans plusieurs éditions des catégories en langues autochtones pour ses chants en langue autochtone
+- **Matzka** : fusion du reggae et d’éléments en langues autochtones ; entrée auprès des jeunes publics grâce à un style léger ; prix du meilleur nouvel artiste aux Golden Melody Awards
 
-L'intégration des éléments de la musique autochtone a stimulé la créativité en matière de production :
+Ces lauréats couvrent trois décennies et plusieurs peuples, dont les Puyuma, les Amis et les Atayal, reflétant la diversité et la prospérité des prix en langues autochtones depuis leur création aux Golden Melody Awards.
 
-- Usage contemporain des instruments traditionnels
-- Esthétique sonore et prosodique des langues autochtones
-- Réinterprétations modernes des musiques cérémonielles
+### Signification culturelle des prix
 
----
-
-## Rayonnement international et échanges
-
-### Sur la scène de la world music
-
-Les artistes autochtones de Taïwan suscitent un intérêt international croissant :
-
-- Participations à des festivals de musique internationaux
-- Échanges et collaborations avec des musiciens autochtones d'autres pays
-- Distinctions obtenues dans des compétitions musicales internationales
-
-### La musique autochtone comme diplomatie culturelle
-
-La musique autochtone est devenue un pilier de la diplomatie culturelle de Taïwan :
-
-- Elle met en lumière la diversité culturelle de Taïwan
-- Elle favorise la compréhension internationale de la culture autochtone taïwanaise
-- Elle contribue à forger une identité culturelle proprement taïwanaise
+La création du prix du meilleur album en langue autochtone aux Golden Melody Awards constitue à la fois une reconnaissance de la valeur artistique de la musique autochtone et un encouragement réel à la création en langue maternelle et à la transmission culturelle, stimulant l’engagement de davantage de jeunes Autochtones dans la création musicale.
 
 ---
 
-## Perspectives pour la nouvelle génération
+## Questions culturelles dans la musique
 
-### Les opportunités de l'ère numérique
+### Revitalisation linguistique
 
-Les nouveaux médias et les plateformes numériques multiplient les possibilités pour la musique autochtone :
+Les chanteurs autochtones contemporains jouent, par la création musicale, un rôle concret dans la revitalisation des langues autochtones. Le maintien du chant en langue maternelle redonne vie aux langues autochtones dans la musique moderne ; la stratégie bilingue, associant langues autochtones et mandarin, élargit la diffusion de la musique ; d’anciens vocabulaires autochtones réapparaissent dans les enregistrements avec de nouveaux rythmes, permettant aux jeunes générations d’y accéder.
 
-- YouTube, Spotify et leurs équivalents abaissent les barrières à la distribution
-- Les réseaux sociaux facilitent la promotion musicale et la relation avec le public
-- L'enseignement en ligne facilite la transmission des traditions musicales
+### Identité
 
-### Un renouveau stylistique constant
+L’identité est un enjeu central de nombreuses créations autochtones. Les Autochtones urbains qui ont quitté les villages pour la ville enregistrent dans leurs chansons des sentiments complexes d’entre-deux ; d’autres chanteurs tentent, en remontant aux langues autochtones et aux mélodies traditionnelles, de renouer avec des racines culturelles rompues. Les conflits introduits par la modernité, entre normes traditionnelles et rythmes de vie urbains, laissent également des traces nettes dans les paroles.
 
-La jeune génération de musiciens autochtones s'aventure dans des territoires musicaux toujours plus variés :
+### Justice foncière
 
-- Croisements entre musique électronique et traditions ancestrales
-- Expérimentation avec le hip-hop, le rap et d'autres formes émergentes
-- Collaborations musicales transculturelles en augmentation
-
-### De nouveaux modèles de transmission culturelle
-
-Les artistes autochtones contemporains inventent de nouvelles formes de transmission :
-
-- Utiliser la musique moderne pour attirer les jeunes vers la culture traditionnelle
-- Créer des studios musicaux pour former la relève
-- Organiser des festivals pour promouvoir la culture autochtone auprès du grand public
+Les questions foncières occupent elles aussi une place dans la musique autochtone. Des chanteurs comme Panai prêtent leur voix aux droits territoriaux des villages ; en participant à des mouvements sociaux, ils emploient aussi la musique comme moyen de rassemblement et de protestation, faisant entendre à une société plus large les difficultés auxquelles les Autochtones sont confrontés.
 
 ---
 
-## Guide d'écoute
+## Influence sur l’industrie musicale
 
-Pour entrer dans l'univers de la musique autochtone contemporaine de Taïwan, voici quelques portes d'entrée recommandées.
+Après s’être solidement établis sur le marché dominant, les chanteurs autochtones ont également produit des effets visibles sur l’industrie musicale taïwanaise, tant dans la structure du marché que dans les méthodes de production discographique.
 
-### Albums incontournables
+### Diversification du marché musical
 
-- Chen Jian-nian — _Ocean_
-- Suming (Suming) — _Suming_
-- Sangpuy Katatepan Mavaliyw — _Yaogan_
-- A-Mei (aMEI) — _A-mei_
-- Ilid Kaolo — _Lumière dans le brouillard_
+Le succès des chanteurs autochtones a donné au marché musical taïwanais une physionomie plus diverse. Ils ont ouvert un espace pour les musiques du monde (*World Music*), démontré le potentiel commercial de la musique en langues autochtones et contribué à la visibilité de la musique taïwanaise sur la scène internationale.
 
-### Festivals et événements
+### Innovation dans la production musicale
 
-- Festival de musique Amis Gakeng (Dulan, Taitung)
-- Festival de musique des peuples autochtones
-- Fêtes des récoltes de chaque peuple (_Fengnian_ / Harvest festivals)
-
-### Ressources en ligne
-
-- Base de données culturelles du Conseil des peuples autochtones
-- Émissions musicales de la Télévision autochtone (PTS TITV)
-- Sélections de musique autochtone sur les grandes plateformes de streaming
+L’intégration d’éléments musicaux autochtones a entraîné une innovation des méthodes de production musicale. Les instruments traditionnels ont trouvé de nouvelles places dans les arrangements modernes ; la structure phonique des paroles en langues autochtones a aussi formé une esthétique singulière ; les musiques rituelles villageoises ont été adaptées en produits de studio, permettant aux sonorités rituelles de se prolonger dans les enregistrements.
 
 ---
 
-L'histoire des artistes autochtones contemporains de Taïwan est une histoire de transmission et d'innovation, d'enracinement et d'envol. Par leur chant, ils ont bâti un pont entre une culture millénaire et le monde d'aujourd'hui, permettant à la sagesse ancienne des forêts et de l'océan de rayonner dans la musique contemporaine avec un éclat renouvelé. Ces artistes ne sont pas seulement des interprètes : ils sont les gardiens et les réinventeurs d'une culture vivante. Par leur voix, le monde entend battre le cœur le plus profond, le plus émouvant de Taïwan.
+## Influence et échanges internationaux
+
+La présence internationale de la musique autochtone taïwanaise ne se limite plus aux performances de type exposition culturelle : elle participe progressivement au dialogue musical mondial dans une position artistique d’égal à égal.
+
+### Scène des musiques du monde
+
+La visibilité des chanteurs autochtones taïwanais sur les scènes internationales s’est nettement accrue. Ils sont invités à se produire dans des festivals internationaux, échangent et collaborent avec des musiciens autochtones d’autres pays, et reçoivent une reconnaissance dans des prix musicaux internationaux.
+
+### Fonction de diplomatie culturelle
+
+La musique autochtone joue un rôle substantiel dans la diplomatie culturelle de Taïwan. Elle montre la pluralité de la culture taïwanaise, permet au public international de se faire une idée plus concrète des cultures autochtones de Taïwan et établit une identité culturelle qui distingue Taïwan d’autres régions.
+
+---
+
+## Perspectives d’avenir de la nouvelle génération
+
+### Les possibilités de l’ère numérique
+
+Les nouveaux médias et les plateformes numériques ont ouvert de nouveaux canaux de diffusion pour la musique autochtone. Des plateformes de streaming comme YouTube et Spotify abaissent le seuil de publication, permettant aussi aux musiciens autochtones indépendants d’être exposés à des auditeurs du monde entier ; les réseaux sociaux permettent aux musiciens d’entrer directement en relation avec leurs fans ; la généralisation de l’enseignement en ligne fait également que la transmission des chants traditionnels n’est plus limitée par la géographie des villages.
+
+### Exploration musicale de la nouvelle génération
+
+Les jeunes musiciens autochtones manifestent une grande diversité d’explorations musicales. La combinaison de musique électronique et de chants traditionnels n’est plus rare ; certains expérimentent aussi le hip-hop et le rap, tandis que les cas de collaborations musicales interculturelles se multiplient.
+
+### Nouveaux modèles de transmission culturelle
+
+Les chanteurs autochtones contemporains créent aussi de nouveaux modèles de transmission culturelle. Ils enveloppent les matériaux traditionnels dans la musique moderne afin d’attirer les jeunes vers la connaissance de leur propre culture ; Suming a fondé à Dulan un studio musical pour former de nouveaux talents ; les festivals musicaux organisés par différents peuples donnent aux cultures villageoises des occasions régulières de présentation au public extérieur.
+
+---
+
+## Guide d’écoute
+
+Pour découvrir la musique autochtone contemporaine de Taïwan, le moyen le plus direct consiste à commencer par quelques albums représentatifs : *海洋* de Chen Chien-nien est le point de départ folk au style le plus pur ; *Suming* de Suming montre l’énergie du rock amis contemporain ; *椏幹* de Sangpuy porte une forte coloration spirituelle. *A-mei* de Chang Hui-mei et *迷霧中的靈光* d’Ilid Kaolo représentent respectivement deux voies distinctes : celle du grand public commercial et celle de la transmission des chants anciens.
+
+### Concerts et événements
+
+Le festival musical Amis 旮亙樂團, organisé chaque année à Dulan, dans le comté de Taitung, est l’un des meilleurs lieux pour faire l’expérience de la musique amis contemporaine ; les fêtes des moissons des différents peuples permettent quant à elles d’entrer directement en contact avec le contexte originel des chants rituels. Les programmes musicaux de la chaîne Taiwan Indigenous Television (TITV) et les bases de données culturelles en ligne du Conseil des peuples autochtones sont également des ressources importantes pour découvrir de manière systématique les musiques des différents peuples.
+
+---
+
+Le chemin parcouru par les chanteurs autochtones contemporains de Taïwan est un processus où transmission et innovation adviennent simultanément. Ils inscrivent les langues autochtones dans les disques modernes, font résonner les rythmes villageois dans les festivals internationaux et permettent aux mémoires des montagnes, des forêts et de l’océan de demeurer dans le son. Ces chanteurs sont des gardiens culturels, mais ils redéfinissent aussi, en tant que créateurs, ce qu’est la voix de Taïwan.
 
 ---
 
 ## Références
 
-- Lü Yuxiu, _Histoire de la musique taïwanaise_, Wunan Culture, 2003. [Books.com.tw](https://www.books.com.tw/products/0010906148)
+- Lu Yu-hsiu, *Histoire de la musique taïwanaise*, Wunan Culture, 2003. [Books.com.tw](https://www.books.com.tw/products/0010906148)
 - [Site officiel du Conseil des peuples autochtones](https://www.cip.gov.tw/)
-- [Palmarès historique des Golden Melody Awards](https://gma.tavis.tw/)
-- [Télévision autochtone (PTS TITV)](https://titv.ipcf.org.tw/)
-- [Archives du Musée national de la musique taïwanaise](https://musiciantw.ncfta.gov.tw/)
-- [Playlist Apple Music « Œuvres emblématiques de la musique autochtone de Taïwan »](https://music.apple.com/tw/playlist/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%9F%B3%E6%A8%82%E4%BB%A3%E8%A1%A8%E4%BD%9C%E5%93%81/pl.2f0621e681f94e1a942389cc65eeb393)
-- [A-Mei (aMEI) — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%83%A0%E5%A6%B9)
-- [Suming — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%88%92%E7%B1%B3%E6%81%A9)
-- [Sangpuy — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A)
-- Divers dossiers spéciaux sur la musique autochtone publiés dans les médias musicaux
+- [Liste des lauréats des Golden Melody Awards](https://gma.tavis.tw/)
+- [Taiwan Indigenous Television, Public Television Service](https://titv.ipcf.org.tw/)
+- [Archives du Taiwan Music Institute](https://musiciantw.ncfta.gov.tw/)
+- [Playlist Apple Music « Œuvres représentatives de la musique autochtone taïwanaise »](https://music.apple.com/tw/playlist/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%9F%B3%E6%A8%82%E4%BB%A3%E8%A1%A8%E4%BD%9C%E5%93%81/pl.2f0621e681f94e1a942389cc65eeb393)
+- [Chang Hui-mei, Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%83%A0%E5%A6%B9)
+- [Suming, Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%88%92%E7%B1%B3%E6%81%A9)
+- [Sangpuy, Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A)
+
+[^1]: [Lu Yu-hsiu, *Histoire de la musique taïwanaise*, Wunan Culture, 2003](https://www.books.com.tw/products/0010906148) — Histoire académique générale du développement des musiques autochtones taïwanaises ; le premier chapitre détaille les caractéristiques musicales de chaque peuple
+[^2]: [Site officiel du Conseil des peuples autochtones](https://www.cip.gov.tw/) — Plateforme gouvernementale officielle consacrée aux politiques autochtones de Taïwan, aux ressources culturelles et à la présentation des peuples
+[^3]: [Power Station — Wikipédia](https://zh.wikipedia.org/zh-tw/動力火車) — Yen Chih-lin et Yu Chiu-hsing appartiennent tous deux au peuple paiwan ; les informations ethniques correspondantes sont consignées dans cet article
+[^4]: [Liste des lauréats des Golden Melody Awards](https://gma.tavis.tw/) — *海洋* de Chen Chien-nien a reçu le prix du meilleur chanteur masculin de musique populaire lors de la 11e édition (2000), première victoire d’un Autochtone dans une catégorie majeure des Golden Melody Awards
+[^5]: [Chang Hui-mei — Wikipédia](https://zh.wikipedia.org/zh-tw/張惠妹) — Chanteuse puyuma ; notice complète sur sa vie, sa discographie et son statut de diva d’Asie
+[^6]: [Sangpuy — Wikipédia](https://zh.wikipedia.org/zh-tw/桑布伊) — Auteur-compositeur-interprète puyuma ; style de poèmes spirituels et palmarès aux Golden Melody Awards
+[^7]: [Liste des lauréats des Golden Melody Awards](https://gma.tavis.tw/) — Le prix du meilleur album en langue autochtone a été créé à partir de la 16e édition (2005) ; les données complètes des lauréats de chaque édition y sont recensées

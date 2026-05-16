@@ -1,7 +1,7 @@
 ---
 title: '남민정: 푸방에서 시즌을 넘겨 남은 한국 멤버'
 description: '‘단기 열기’를 프로 치어로 ‘예측 가능한 출연’으로 바꾼다.'
-date: 2026-04-14
+date: 2026-05-13
 category: People
 subcategory: '팝 문화'
 tags:
@@ -16,13 +16,13 @@ tags:
   ]
 author: 'Taiwan.md Translation Team'
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-05-13
 translatedFrom: 'People/南珉貞.md'
 readingTime: 8
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:000d5a7dca77f804'
-sourceBodyHash: 'sha256:08bb733df9b2880d'
-translatedAt: '2026-04-16T13:53:14+09:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:5cd75519d073b597'
+sourceBodyHash: 'sha256:8ff8485aabd4c50c'
+translatedAt: '2026-05-17T06:30:00Z'
 ---
 
 > **30초 요약:** 남민정의 키워드는 ‘바이럴 스파이크’가 아니라 ‘머물렀다’다. 그녀는 푸방에서 시즌을 넘겨 높은 가시 슬롯을 지켰고, 대만 한국 서포트를 일회성 버즈에서 예측 가능한 프로 루틴으로 바꿨다.
@@ -30,6 +30,8 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 그녀는 한국 치어의 전체 기반을 대만에 가져와 CPBL 홈·이벤트 리듬에 빨리 맞췄다. 원히트 사례와 비교하면 그녀는 매일 ‘숙제를 제시간에 낸다’에 가까운 퍼포머다.
 
 2026년에도 푸방이 한국 핵심을 이어갔을 때 남민정은 주력 라인에 남았다——그녀의 역할은 단기 시장 테스트가 아니라 제도화다.
+
+2026년 3월 《연합보》 디지털판/연합뉴스망은 ‘Fubon Angels 시즌 개막 발표회’ 보도에서, 남민정을 포함한 다수의 한국 출신 멤버가 중국어로 팬들에게 인사한 장면을 묘사했고, 그녀가 타이완어로 자기소개를 하는 등 현장 상호작용 디테일도 함께 전했다.[출처: 연합보/연합뉴스망][^6]
 
 ## 푸방에서의 역할: 안정된 핵
 
@@ -59,8 +61,9 @@ Taiwan.md에게 그녀는 대만 팝 문화가 어떻게 바뀌는지 사례 연
 
 ## 참고 자료 / 출처
 
-1. https://zh.wikipedia.org/wiki/%E5%8D%97%E7%8F%89%E8%B2%9E
-2. https://www.ftnn.com.tw/news/418797
-3. https://www.nownews.com/news/6679202
-4. https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
-5. https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8F%A0%E7%8F%A2%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%BA%8C%E4%BA%BA%E5%86%8D%E5%90%8C%E9%9A%8A-075710153.html
+[^6]: 연합보/연합뉴스망, 〈중직/푸방 5명 한국 출신 동반 등장 이주은 “너무 오랜만에 만나” 긴장하며 눈물〉, 2026-03-25, https://udn.com/news/story/7002/9402487
+
+그 외 검증 가능한 출처:
+
+- 위키백과(인물 개관): https://zh.wikipedia.org/wiki/%E5%8D%97%E7%8F%89%E8%B2%9E
+- 진르신문(NOWnews) (구장/한국 출신 관련 보도 색인): https://www.nownews.com/news/6679202

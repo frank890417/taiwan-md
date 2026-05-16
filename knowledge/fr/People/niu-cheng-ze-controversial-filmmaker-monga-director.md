@@ -10,15 +10,15 @@ readingTime: 10
 featured: false
 translatedFrom: "People/鈕承澤.md"
 lastVerified: 2026-03-19
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:c412539523fe8a6a'
-sourceBodyHash: 'sha256:542c1db901d15440'
-translatedAt: "2026-04-14T19:19:21+08:00"
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:39b05590f5e57019'
+sourceBodyHash: 'sha256:1bc7cbaf656a75a6'
+translatedAt: "2026-05-17T06:15:00Z"
 ---
 
 # Doze Niu : le cinéaste entre génie et controverse
 
-Doze Niu est l'un des noms les plus marquants du cinéma taïwanais — et l'un des plus controversés. Réalisateur de _Monga_ et _Paradise in Service_, il a construit sa carrière sur une vision sans concession de la société taïwanaise, explorant ses zones d'ombre avec une intensité singulière. Mais en 2018, son arrestation pour agression sexuelle a tout remis en question : l'homme, l'œuvre, et ce que le milieu du cinéma préférait ne pas regarder en face.
+De _Monga_ à _Paradise in Service_, Doze Niu s'est imposé dans le paysage du cinéma taïwanais par un style singulier, abordant souvent les sujets sensibles de la société. En 2018, les accusations d'agression sexuelle puis la condamnation qui s'ensuivit ont définitivement lié son nom à la vague #MeToo taïwanaise — et mis un terme brutal à sa carrière.
 
 ## Enfance dans les villages militaires
 
@@ -66,7 +66,7 @@ Doze Niu est connu pour sa capacité à révéler de nouveaux talents. Dans _Mon
 
 En 2018, Doze Niu est mis en cause pour agression sexuelle sur une collaboratrice de tournage. L'affaire fait immédiatement les manchettes — et au fil des semaines, d'autres victimes prennent la parole.
 
-En 2021, le tribunal de district de Taipei le déclare coupable et le condamne à quatre ans d'emprisonnement. Sa carrière s'arrête brutalement.
+En première instance, le tribunal de district de Taipei le déclare coupable en avril 2020 et le condamne à quatre ans d'emprisonnement ; en décembre 2020, la Haute Cour de Taïwan confirme le jugement en appel ; en septembre 2021, la Cour suprême rejette le pourvoi et rend la décision définitive[^1]. Sa carrière s'arrête brutalement.
 
 ## Un catalyseur pour le mouvement #MeToo à Taïwan
 
@@ -94,6 +94,9 @@ L'héritage cinématographique de Doze Niu est réel. Mais il est désormais ind
 
 ## Références
 
-- [Jugement dans l'affaire Niu Chen-Tzer — Système de recherche juridique du Pouvoir judiciaire](https://judgment.judicial.gov.tw/) — documents judiciaires officiels
-- [Égalité de genre dans l'industrie audiovisuelle taïwanaise — Ministère de la Culture](https://www.moc.gov.tw/) — politiques et mesures sectorielles
-- [Le mouvement #MeToo à Taïwan — Fondation des nouvelles femmes](https://www.awakening.org.tw/) — ressources sur le mouvement social
+[^1]: Taro News, « Affaire d'agression sexuelle Doze Niu : la Cour suprême rend la décision définitive — quatre ans d'emprisonnement », https://taronews.tw/, septembre 2021
+[^2]: Système de recherche juridique du Pouvoir judiciaire, jugement dans l'affaire Doze Niu pour agression sexuelle, https://judgment.judicial.gov.tw/
+[^3]: Central News Agency, « Doze Niu accusé d'agression sexuelle : le tribunal de district de Taipei le déclare coupable en première instance et le condamne à quatre ans », https://www.cna.com.tw/, avril 2020
+[^4]: Ministère de la Culture, politique d'égalité de genre dans l'industrie audiovisuelle taïwanaise, https://www.moc.gov.tw/
+[^5]: Fondation des nouvelles femmes (Awakening Foundation), ressources de plaidoyer sur le mouvement #MeToo dans la société taïwanaise, https://www.awakening.org.tw/
+[^6]: Wikipédia, entrée « Doze Niu », https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4

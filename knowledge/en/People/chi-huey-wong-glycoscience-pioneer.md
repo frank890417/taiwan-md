@@ -13,12 +13,13 @@ tags:
   ]
 subcategory: 'Science & Academia'
 lastVerified: 2026-03-20
+category: 'People'
+author: 'Taiwan.md'
 translatedFrom: 'People/翁啟惠.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:7c77f160ad3abb8a'
-sourceBodyHash: 'sha256:0b4394709e1c1e82'
-translatedAt: '2026-04-14T12:25:09+08:00'
-category: People
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:f146cb8f7ab6981c'
+sourceBodyHash: 'sha256:09bc6150b717d885'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 # Chi-Huey Wong: International Authority in Glycoscience

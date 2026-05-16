@@ -18,10 +18,10 @@ featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 translatedFrom: 'History/台海危機與兩岸關係發展.md'
-sourceCommitSha: '5db9f136'
-sourceContentHash: 'sha256:cff96f2b8cf87a1f'
-sourceBodyHash: 'sha256:762c08c4709bfc5b'
-translatedAt: '2026-05-01T12:21:52+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:4d73543d701e9901'
+sourceBodyHash: 'sha256:222dfa780f14dee2'
+translatedAt: '2026-05-17T05:40:00Z'
 category: History
 ---
 
@@ -41,13 +41,13 @@ This was the most ironic moment in seventy years of cross-strait relations: mili
 
 Four decades earlier. At seven in the morning on January 18, 1955, on a small island called Yijiangshan off the coast of Zhejiang, Colonel Wang Sheng-ming was preparing to face the last day of his life.
 
-The PLA committed 4,000 to 5,000 troops, 186 naval vessels, and more than 180 aircraft against this island. The defenders numbered only 1,030 — six assault battalions of the Anti-Communist National Salvation Army. The force ratio was roughly one to four. When Peng Dehuai laid out the battle plan, he said: "People say don't use a butcher's knife to kill a chicken, but this time we're using the cattle knife to slaughter the chicken." This was the PLA's first-ever joint land-sea-air operation; Beijing could not afford to lose.
+The PLA committed 4,000 to 5,000 troops, 186 naval vessels, and more than 180 aircraft against this island. The defenders numbered around 1,030–1,086 (including the Anti-Communist National Salvation Army); accounts differ on the force ratio, with estimates ranging from roughly one to four to one to seven. When Peng Dehuai laid out the battle plan, he said: "People say don't use a butcher's knife to kill a chicken, but this time we're using the cattle knife to slaughter the chicken." This was the PLA's first-ever joint land-sea-air operation; Beijing could not afford to lose.
 
 The battle lasted less than two days. By 2 a.m. on January 19, the island had changed hands. Wang Sheng-ming was killed in action; his deputy, Wang Fu-bi, was taken prisoner. PLA sources claimed 393 killed and 1,027 wounded on their side. The ROC military reported 720 killed among the defenders.
 
 Yijiangshan Island was tiny, but it was the gateway to Dachen Island. After losing Yijiangshan, Chiang Kai-shek decided to abandon the entire Taizhou Archipelago. In February 1955, under the escort of the U.S. Seventh Fleet, all military and civilian personnel were evacuated from Dachen Island. Chiang Ching-kuo was dispatched to communicate with the residents and accompanied them out together. Three days later, the PLA occupied all the islands off the eastern Zhejiang coast.
 
-The impact of this small battle far exceeded what anyone predicted. It directly gave birth to the Mutual Defense Treaty between the United States and the Republic of China in December 1954, formalizing the U.S.-Taiwan military alliance. At the same time, the nuclear threats America issued during the crisis convinced Beijing to commit to developing its own nuclear weapons. The fall of a one-thousand-man island unexpectedly reshaped the entire strategic landscape of East Asia.
+The impact of this small battle far exceeded what anyone predicted.[^3] It directly gave birth to the Mutual Defense Treaty between the United States and the Republic of China in December 1954, formalizing the U.S.-Taiwan military alliance. At the same time, the nuclear threats America issued during the crisis convinced Beijing to commit to developing its own nuclear weapons. The fall of a one-thousand-man island unexpectedly reshaped the entire strategic landscape of East Asia.
 
 ## Forty-Four Days, 470,000 Artillery Shells
 
@@ -55,15 +55,15 @@ August 23, 1958. Summer on Kinmen suddenly became hell.
 
 That afternoon, 569 PLA artillery pieces opened fire simultaneously. Kinmen Island spans approximately 150 square kilometers in total; over the following forty-four days, it absorbed more than 470,000 artillery shells — one of the highest recorded densities of artillery bombardment per unit area in military history.
 
-The first day of the bombardment was catastrophic. Three deputy commanders of the ROC Kinmen Defense Command were all killed: Ji Xing-wen, Zhao Jia-xiang, and Zhang Jie. Defense Commander Hu Lien and visiting Defense Minister Yu Da-wei were both wounded by shrapnel. Ji Xing-wen was the legendary soldier who fired the first shot of resistance against Japan at the Marco Polo Bridge — he died beside a dining table on Kinmen.
+The first day of the bombardment was catastrophic. At the ROC Kinmen Defense Command, Zhao Jia-xiang and Zhang Jie were killed instantly; Ji Xing-wen was gravely wounded and died of peritonitis three days later. Defense Commander Hu Lien and visiting Defense Minister Yu Da-wei were both wounded by shrapnel. Ji Xing-wen was the legendary soldier who fired the first shot of resistance against Japan at the Marco Polo Bridge — he died beside a dining table on Kinmen.
 
-Life for Kinmen's residents was utterly transformed. Of the island's 9,053 structures, all were destroyed or heavily damaged; 618 military and civilians were killed and 2,610 injured. Residents were forced to move into underground tunnels. Kinmen entered a thirty-six-year period of wartime administration (1956–1992): military control over the entire island regulated residents' daily movement, communications, and economic activities. There was a nighttime curfew; fishermen needed permits to go to sea; mail was subject to censorship.
+Life for Kinmen's residents was utterly transformed. Thousands of buildings were destroyed or damaged; 618 military and civilians were killed and 2,610 injured. Residents were forced to move into underground tunnels. Kinmen entered a thirty-six-year period of wartime administration (1956–1992): military control over the entire island regulated residents' daily movement, communications, and economic activities. There was a nighttime curfew; fishermen needed permits to go to sea; mail was subject to censorship.
 
 The aerial battles during the artillery war were equally fierce. The United States provided the ROC Air Force with the then-state-of-the-art Sidewinder missiles, creating air superiority. The U.S. Seventh Fleet helped break the naval blockade and maintain supply lines.
 
 On October 6, Beijing issued a "Message to Compatriots in Taiwan" in the name of Defense Minister Peng Dehuai, announcing a one-week ceasefire on "humanitarian grounds." This was then modified to "shell on odd days, cease on even days" — a bombardment on odd-numbered calendar days, a halt on even-numbered ones. This absurd rhythm continued until January 1, 1979, the day the United States and the People's Republic of China established diplomatic relations, when Beijing formally announced it would cease the bombardment.
 
-The peculiarity of the 823 Artillery Bombardment lay in the fact that, from the beginning, its goal was never to occupy Kinmen. Mao Zedong wanted to test America's resolve to defend Taiwan's offshore islands, and to demonstrate to the international community Beijing's position on "liberating Taiwan." The shells were political signals; the homes of Kinmen's people were the price.
+The peculiarity of the 823 Artillery Bombardment lay in the fact that, from the beginning, its goal was never to occupy Kinmen.[^4] Mao Zedong wanted to test America's resolve to defend Taiwan's offshore islands, and to demonstrate to the international community Beijing's position on "liberating Taiwan." The shells were political signals; the homes of Kinmen's people were the price.
 
 A BBC Chinese report once cited a widely circulated view: after this artillery war ended, a military reconquest of the mainland became virtually impossible, and the Taiwan government turned toward pursuing democracy and freedom. In this sense, 823 was a "Battle for Taiwan's Defense." The long peace that followed across the strait maintained the de facto division of the two sides, which in turn made the subsequent economic miracle and democratization possible.
 
@@ -75,7 +75,7 @@ That year, Lee Teng-hui was returning from a South American trip and his plane s
 
 This humiliation set off a chain reaction in Washington. Pro-Taiwan legislators began working the phones; lobbying firm Cassidy & Associates intervened to push the issue. In May 1995, the U.S. House of Representatives passed a resolution by 396 to 0, and the Senate by 97 to 1, calling on the State Department to allow Lee Teng-hui to visit the United States. The State Department relented.
 
-On June 9 and 10, 1995, Lee Teng-hui returned to his alma mater Cornell University as an alumnus and delivered a lecture titled "Taiwan's Experience with Democracy." In that speech, he uttered the sentence that sent Beijing into fury: "Taiwan is a country with independent sovereignty." Beijing's response was four characters of classical Chinese: "This cannot be tolerated."
+On June 9 and 10, 1995, Lee Teng-hui returned to his alma mater Cornell University as an alumnus and delivered a lecture titled "Taiwan's Experience with Democracy."[^5] In that speech, he uttered the sentence that sent Beijing into fury: "Taiwan is a country with independent sovereignty." Beijing's response was four characters of classical Chinese: "This cannot be tolerated."
 
 In July, Xinhua announced that the PLA would conduct missile tests. But through a secret back channel, Beijing sent a message to Lee Teng-hui's national policy adviser Tseng Yung-hsien: "Our ballistic missiles will be fired in Taiwan's direction in a few weeks, but you don't need to worry." Tseng Yung-hsien had met Yang Shangkun as Lee Teng-hui's secret envoy in 1992. This back channel let both sides know where the red lines were.
 
@@ -101,7 +101,7 @@ The Ma Ying-jeou years from 2008 to 2016 saw the two sides sign twenty-three agr
 
 But the 2014 Sunflower Movement changed everything. Students occupied the Legislative Yuan for twenty-three days, protesting the Cross-Strait Service Trade Agreement. On the surface it was concern about economic opening; at a deeper level, the anxiety was: will Taiwan lose its political autonomy through economic integration?
 
-After the Sunflower Movement, Taiwanese society's attitude toward cross-strait relations showed a generational split. Long-term polling by the Election Study Center at National Chengchi University shows that those who identify as "Taiwanese" has risen continuously from 17.6% in 1992 to more than 60% in the 2020s, while those who identify as "Chinese" has dropped below 3%. Those who favor "maintaining the status quo" have consistently been the largest group, but the definition of "status quo" changes by generation. For young people, the status quo is that Taiwan is already a de facto independent state.
+After the Sunflower Movement, Taiwanese society's attitude toward cross-strait relations showed a generational split. Long-term polling by the Election Study Center at National Chengchi University shows[^6] that those who identify as "Taiwanese" has risen continuously from 17.6% in 1992 to more than 60% in the 2020s, while those who identify as "Chinese" has dropped below 3%. Those who favor "maintaining the status quo" have consistently been the largest group, but the definition of "status quo" changes by generation. For young people, the status quo is that Taiwan is already a de facto independent state.
 
 ## Pelosi Came; Taiwanese Were Playing Basketball
 
@@ -137,7 +137,7 @@ After the Small Three Links opened in 2001, Kinmen residents could take a boat t
 
 In August 2022, when the PLA fired missiles in exercises around Taiwan, several landed in Japan's exclusive economic zone. Daily life on Kinmen showed no obvious change. The stone lion Wind Lion Gods on the island still stood at their usual intersections; the duty-free shops operated as normal. For seventy years, the people of Kinmen have understood war more intimately than anyone else, and have become more skilled than anyone else at living with threat.
 
-The shrapnel from those artillery shells in the granite tunnels was later taken by Kinmen's blacksmiths and forged into kitchen cleavers. "Kinmen cleavers" became a famous tourist product — good steel, said to be sharper and more durable than ordinary knives. Artillery shells turned into tools for cutting vegetables. This is probably the most precise metaphor for seventy years in the Taiwan Strait.
+The shrapnel from those artillery shells in the granite tunnels was later taken by Kinmen's blacksmiths and forged into kitchen cleavers. "Kinmen cleavers" became a famous tourist product — good steel, said to be sharper and more durable than ordinary knives. Artillery shells turned into tools for cutting vegetables.
 
 **Further Reading:**
 
@@ -149,13 +149,12 @@ The shrapnel from those artillery shells in the granite tunnels was later taken 
 
 ## References
 
-1. BBC Chinese (2022). "Looking Back at Taiwan Strait Crises: From the Battle of Yijiangshan Island and the Kinmen Artillery Bombardment to the Missile Crisis." [https://www.bbc.com/zhongwen/trad/chinese-news-53834569](https://www.bbc.com/zhongwen/trad/chinese-news-53834569)
-2. BBC Chinese (2022). "Observations on Pelosi's Taiwan Visit: Why Aren't Taiwanese Worried as Cross-Strait Tensions Rise?" [https://www.bbc.com/zhongwen/trad/chinese-news-62402927](https://www.bbc.com/zhongwen/trad/chinese-news-62402927)
-3. Wikipedia. "Battle of Yijiangshan Island." [https://zh.wikipedia.org/wiki/一江山島戰役](https://zh.wikipedia.org/wiki/%E4%B8%80%E6%B1%9F%E5%B1%B1%E5%B3%B6%E6%88%B0%E5%BD%B9)
-4. Wikipedia. "Kinmen Artillery Bombardment." [https://zh.wikipedia.org/wiki/金門砲戰](https://zh.wikipedia.org/wiki/%E9%87%91%E9%96%80%E7%A0%B2%E6%88%B0)
-5. Wikipedia. "Third Taiwan Strait Crisis." [https://en.wikipedia.org/wiki/Third_Taiwan_Strait_Crisis](https://en.wikipedia.org/wiki/Third_Taiwan_Strait_Crisis)
-6. Election Study Center, National Chengchi University. "Trend Distribution of Taiwanese/Chinese Identity Among Taiwan Residents." [https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6960](https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6960)
-7. CommonWealth Magazine (2022). "Witness to the 1996 Taiwan Strait Crisis Chang Jung-feng: China's Exercises This Time Are 'Closest Yet.'" [https://www.cw.com.tw/article/5122255](https://www.cw.com.tw/article/5122255)
-8. CNN (2022). "TSMC Chairman Mark Liu Interview." [https://edition.cnn.com/videos/tv/2022/07/31/exp-731-taiwan-tech-mark-liu-tsmc.cnn](https://edition.cnn.com/videos/tv/2022/07/31/exp-731-taiwan-tech-mark-liu-tsmc.cnn)
-9. Su Chi (2014). Twenty Years of Cross-Strait Turbulence: A Factual Record. Commonwealth Publishing. [https://www.books.com.tw/products/0010831375](https://www.books.com.tw/products/0010831375)
-10. Sankei Shimbun (2019). "Secret Records on Lee Teng-hui" series, on the Tseng Yung-hsien back channel and secret communications before the missile crisis.
+[^1]: BBC Chinese (2022), "Looking Back at Taiwan Strait Crises," https://www.bbc.com/zhongwen/trad/chinese-news-53834569
+[^2]: BBC Chinese (2022), "Observations on Pelosi's Taiwan Visit: Why Aren't Taiwanese Worried as Cross-Strait Tensions Rise?", https://www.bbc.com/zhongwen/trad/chinese-news-62402927
+[^3]: Wikipedia, "Battle of Yijiangshan Island," https://zh.wikipedia.org/wiki/%E4%B8%80%E6%B1%9F%E5%B1%B1%E5%B3%B6%E6%88%B0%E5%BD%B9
+[^4]: Wikipedia, "Kinmen Artillery Bombardment," https://zh.wikipedia.org/wiki/%E9%87%91%E9%96%80%E7%A0%B2%E6%88%B0
+[^5]: Wikipedia, "Third Taiwan Strait Crisis," https://en.wikipedia.org/wiki/Third_Taiwan_Strait_Crisis
+[^6]: Election Study Center, National Chengchi University, "Trend Distribution of Taiwanese/Chinese Identity Among Taiwan Residents," https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6960
+[^7]: CommonWealth Magazine (2022), "Witness to the 1996 Taiwan Strait Crisis Chang Jung-feng," https://www.cw.com.tw/article/5122255
+[^8]: CNN (2022), "TSMC Chairman Mark Liu Interview," https://edition.cnn.com/videos/tv/2022/07/31/exp-731-taiwan-tech-mark-liu-tsmc.cnn
+[^9]: Su Chi (2014), Twenty Years of Cross-Strait Turbulence: A Factual Record, Commonwealth Publishing, https://www.books.com.tw/products/0010831375

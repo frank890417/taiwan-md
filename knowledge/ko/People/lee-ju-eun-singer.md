@@ -1,7 +1,7 @@
 ---
 title: '이주은: ‘AI 여신’ 버즈에서 대만 커리어 구축까지'
 description: 'CPBL에서 한국 치어 멤버가 얼마나 오래 머물 수 있는지 상상을 바꾼다.'
-date: 2026-04-14
+date: 2026-05-13
 category: People
 subcategory: '팝 문화'
 tags:
@@ -16,13 +16,13 @@ tags:
   ]
 author: 'Taiwan.md Translation Team'
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-05-13
 translatedFrom: 'People/李珠珢.md'
 readingTime: 10
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:1a5ec966d15fc75f'
-sourceBodyHash: 'sha256:286ea06e2dfa5442'
-translatedAt: '2026-04-16T13:53:14+09:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:451da618ddccb297'
+sourceBodyHash: 'sha256:4b9c8f80e4d299c5'
+translatedAt: '2026-05-17T06:30:00Z'
 ---
 
 > **30초 요약:** 2025년 이주은은 푸방과 풀 매니지먼트 계약을 맺었다. 2026년에는 일을 대만에 더 분명히 두었다. 의미는 트래픽만이 아니다——한국 서포트를 ‘양쪽 셔틀’에서 ‘장기 체류’로 밀어가는 것이다.
@@ -30,6 +30,8 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 한국에서 뜬 뒤 단기 협력에서 멈추지 않고——더 깊은 에이전시 통합으로 나아가 전형적인 ‘대만 게스트’ 한국 멤버와 뚜렷이 다르다.
 
 2026 시즌 전후 신호는 경로를 보강했다: 대만을 ‘방문’만 한 것이 아니라——커리어 주축에 대만을 두었다.
+
+《연합보》 디지털판/연합뉴스망은 2026년 3월 ‘Fubon Angels 시즌 개막 기자회견’ 보도에서, 이주은이 푸방 잔류와 함께 중국어로 팬들에게 인사하면서 감정이 격해진 장면을 묘사했다. 같은 행사 보도는 박성은이 다래끼로 안대를 착용한 채 참석한 현장 디테일도 함께 전했고, 이는 당시 공개 여론의 분위기를 이해하는 1차 정리로 참고할 만하다.[출처: 연합보/연합뉴스망][^6]
 
 ## 바이럴에서 장기 배치로
 
@@ -47,7 +49,7 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 
 ## 대만에 머무는 문화적 의미
 
-보도가 ‘대만 치어에 올인’으로 틀 짓았을 때 팬은 관계 업그레이드를 보았다——짧은 초대 런에서 공유된 지속 작업으로.
+보도가 ‘대만 치어에 올인’으로 틀 짓었을 때 팬은 관계 업그레이드를 보았다——짧은 초대 런에서 공유된 지속 작업으로.
 
 대만 팝 문화에서 구장은 한류를 수동적으로 받기만 하지 않는다——콘텐츠와 화제를 공동 생산한다.
 
@@ -65,8 +67,11 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 
 ## 참고 자료 / 출처
 
-1. https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
-2. https://m.mirrormedia.mg/story/20260223edi054
-3. https://stage.newtalk.tw/news/view/2026-02-23/1021071
-4. https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html
-5. https://news.pchome.com.tw/entertainment/crwant/20260330/index-77484543045734316006.html
+[^6]: 연합보/연합뉴스망 (기자 예페이위), 〈중직/푸방 5명 한국 출신 동반 등장 이주은 “너무 오랜만에 만나” 긴장하며 눈물〉, 2026-03-25, https://udn.com/news/story/7002/9402487
+
+그 외 검증 가능한 출처:
+
+- 위키백과(인물 개관): https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
+- 거울주간(인물/경기 정리): https://m.mirrormedia.mg/story/20260223edi054
+- Newtalk 뉴스, 〈이주은 충격 발표 “대만 잔류”! 푸방 합류 2년차 “중대 경사 공개”〉, 2026-02-23, https://www.newtalk.tw/news/view/2026-02-23/1021071
+- Yahoo奇摩 뉴스(스케줄/일정 관련 정리): https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html

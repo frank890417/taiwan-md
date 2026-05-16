@@ -1,7 +1,7 @@
 ---
 title: '南珉貞'
 description: '富邦体制においてシーズンをまたいで在籍し続けた韓国籍の代表的存在。「短期的な話題性」を「安定した出場が期待できる」職業的応援の模範に変えた人物です。'
-date: 2026-04-14
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: People
 subcategory: '流行人物'
@@ -16,13 +16,13 @@ tags:
     '中華プロ野球',
   ]
 readingTime: 8
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: People/南珉貞.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:000d5a7dca77f804'
-sourceBodyHash: 'sha256:08bb733df9b2880d'
-translatedAt: 2026-05-01T18:02:56+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:5cd75519d073b597'
+sourceBodyHash: 'sha256:8ff8485aabd4c50c'
+translatedAt: '2026-05-17T06:35:00Z'
 ---
 
 > **30 秒概要：** 南珉貞のキーワードは「爆紅（バズ）」ではなく「續留（継続在籍）」です。彼女は富邦において継続的に高い可視性のポジションに立ち、台湾における韓国籍応援メンバーを一過性の話題から、安定して期待できる職業的日常へと成長させました。
@@ -30,6 +30,8 @@ translatedAt: 2026-05-01T18:02:56+08:00
 彼女は韓国の応援界において豊富なステージ経験を持っており、台湾に進出した後、すぐに中華プロ野球（CPBL）のホームゲームやイベントのテンポに適応しました。単発的な話題性に依存するケースと比較すると、彼女は「毎日確実に成果を出す」パフォーマーと言えます。
 
 2026年、富邦が韓国籍応援メンバーのコア体制を継続する中、南珉貞は依然としてメインラインアップに名を連ねています。これは、彼女の役割が制度化されており、短期的な市場試験ではないことを意味します。
+
+2026 年 3 月、『聯合報』デジタル版／聯合新聞網は「Fubon Angels 開幕発表会」の報道で、南珉貞を含む複数の韓籍メンバーが中国語でファンに挨拶した様子を伝え、彼女が台湾語で自己紹介するなど現場での交流の細部にも触れています。［出典：聯合報／聯合新聞網］[^6]
 
 ## 富邦におけるポジション：安定したコア
 
@@ -60,8 +62,9 @@ translatedAt: 2026-05-01T18:02:56+08:00
 
 ## 参考資料 / Sources
 
-出典 1：https://zh.wikipedia.org/wiki/%E5%8D%97%E7%8F%89%E8%B2%9E
-出典 2：https://www.ftnn.com.tw/news/418797
-出典 3：https://www.nownews.com/news/6679202
-出典 4：https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
-出典 5：https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8F%A0%E7%8F%A2%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%BA%8C%E4%BA%BA%E5%86%8D%E5%90%88%E9%9A%8A-075710153.html
+[^6]: 聯合報／聯合新聞網、〈中職／悍將5韓援同台亮相 李珠珢「太久沒見大家」緊張落淚〉、2026-03-25、https://udn.com/news/story/7002/9402487
+
+その他の検証可能な情報源：
+
+- ウィキペディア（人物概要）：https://zh.wikipedia.org/wiki/%E5%8D%97%E7%8F%89%E8%B2%9E
+- 今日新聞 NOWnews（球場／韓援関連報道インデックス）：https://www.nownews.com/news/6679202

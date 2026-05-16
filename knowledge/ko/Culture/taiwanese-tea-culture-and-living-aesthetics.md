@@ -10,10 +10,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 translatedFrom: 'Culture/台灣茶文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:ad0986e868656595'
-sourceBodyHash: 'sha256:cb22720e75609696'
-translatedAt: '2026-04-14T07:46:34+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:cbce2034c543a47a'
+sourceBodyHash: 'sha256:52933e6cc40f3244'
+translatedAt: '2026-05-17T06:30:00Z'
 ---
 
 # 황금시대의 여운: 대만 차 문화의 변천과 공예

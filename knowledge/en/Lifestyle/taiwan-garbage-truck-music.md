@@ -16,12 +16,12 @@ readingTime: 7
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-translatedFrom: Lifestyle/台灣垃圾車音樂.md
-sourceCommitSha: c71f1568
-sourceContentHash: sha256:7d76547cf6787938
-sourceBodyHash: 'sha256:ef5fcbe573c213a1'
-translatedAt: 2026-05-02T02:50:54+08:00
-category: Lifestyle
+translatedFrom: 'Lifestyle/台灣垃圾車音樂.md'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:e97d739884de9be4'
+sourceBodyHash: 'sha256:2afb135f1c4dd795'
+translatedAt: '2026-05-16T21:50:00Z'
+category: 'Lifestyle'
 ---
 
 # When Classical Music Became a Garbage Truck Jingle: Taiwan's Most Romantic Environmental Revolution

@@ -13,19 +13,21 @@ author: 'Taiwan.md'
 readingTime: 8
 featured: false
 category: 'Food'
-lastVerified: 2026-03-19
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 image: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Taiwanese_vegetarian_sign.jpg'
 imageAlt: 'Taiwan vegetarian sign'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣素食文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:24a4870b5a8b1b34'
-sourceBodyHash: 'sha256:82910774988d36fc'
-translatedAt: '2026-05-01T08:56:11+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:b6884a554f5b7c89'
+sourceBodyHash: 'sha256:6d448c8add3f1fbd'
+translatedAt: '2026-05-17T06:05:00Z'
 ---
 
 # Taiwan's Vegetarian Culture
+
+> **30-second overview:** Taiwan's vegetarian population is around 13–14% (over 3 million people), one of the highest proportions in the world[^1]. Buddhist compassion precepts (including "pure vegetarian" abstention from the five pungent vegetables) form the base; monks who arrived after 1949 reinforced the practice, and the Tzu Chi Foundation promoted it widely, anchoring the religious motivation. In recent years, health and environmental awareness have extended vegetarianism into younger generations. Taiwan's vegetarian ecosystem now combines roughly 6,000 vegetarian restaurants, "lifelike meat-analog" technology exported to China and Southeast Asia, and Michelin Guide recommendations for multiple vegetarian restaurants.
 
 Taiwan is one of the regions with the highest proportion of vegetarian population in the world — approximately 13–14% of the population, or more than 3 million people, eat vegetarian. This proportion ranks among the top globally; CNN Travel has named Taipei one of the "World's Top Ten Vegetarian-Friendly Cities."[^1] From the deep influence of Buddhist compassion to the push of modern health consciousness, Taiwan's vegetarian culture presents a unique profile in which religious tradition and modern life have blended seamlessly. A dense network of vegetarian restaurants and innovative meat-analog technology have also made Taiwan a significant hub of global vegetarian culture.
 

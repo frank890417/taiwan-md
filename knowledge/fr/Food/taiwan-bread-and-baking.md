@@ -5,30 +5,29 @@ date: 2026-03-19
 tags: ['pain', 'pâtisserie', 'Wu Pao-chun', 'boulangerie taïwanaise', '85°C']
 subcategory: 'Boulangerie et pâtisserie'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
-readingTime: 8
+author: 'Taiwan.md Contributors'
 featured: false
 translatedFrom: 'Food/台灣麵包與烘焙.md'
 lastVerified: 2026-03-19
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b2065fed8f03e46b'
-sourceBodyHash: 'sha256:61a9d0ad7fe3cd11'
-translatedAt: '2026-04-14T12:29:25+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:e4c169783e32f5c2'
+sourceBodyHash: 'sha256:79036ef58165be78'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # Le pain et la pâtisserie à Taïwan
 
-La culture boulangère de Taïwan incarne une synthèse remarquable entre Orient et Occident. Des techniques héritées de l'ère coloniale japonaise aux influences américaines de l'après-guerre, jusqu'à la vague européenne des dernières décennies, l'industrie de la boulangerie taïwanaise a su tracer sa propre voie. Le sacre mondial de Wu Pao-chun en 2010 — une victoire retentissante sur la scène internationale — a mis en lumière le génie créatif de ce pays et prouvé que l'innovation taïwanaise n'a pas de limites.
+La culture boulangère de Taïwan incarne une synthèse remarquable entre Orient et Occident. Des techniques héritées de l'ère coloniale japonaise aux influences américaines de l'après-guerre, jusqu'à la vague européenne des dernières décennies, l'industrie de la boulangerie taïwanaise a su tracer sa propre voie. En 2010, [[Wu Pao-chun]] remporte à Paris le titre individuel du Mondial du Pain, plaçant durablement la boulangerie taïwanaise sur la scène internationale.[^1]
 
 ## Le phénomène Wu Pao-chun et la conquête du titre mondial
 
-En mars 2010, lors de la Coupe du Monde de la Boulangerie organisée à Paris, Wu Pao-chun — originaire de Pingtung, dans le sud de Taïwan — remporte le titre individuel avec son pain « Litchi et Rose ». Une victoire qui stupéfie le monde entier. Ce n'est pas seulement une page d'histoire pour la boulangerie taïwanaise : c'est une démonstration éclatante du soft power de l'île.
+En mars 2010, dans le cadre du salon Europain à Paris, le Mondial du Pain (Coupe du monde organisée par le Groupe Lesaffre) consacre Wu Pao-chun — originaire de Pingtung, dans le sud de Taïwan — vainqueur du titre individuel avec son pain « Mi Niang Li Xiang » (litchi, rose et levain au vin rouge de la distillerie Puli), provoquant la stupéfaction du monde entier.[^1] C'est un jalon de l'histoire de la boulangerie taïwanaise. Précisons que ce concours est le Mondial du Pain, à ne pas confondre avec la Coupe du Monde de la Boulangerie (cette dernière étant une compétition par équipes).
 
 Derrière ce triomphe se cache un parcours humain émouvant. Issu d'une famille modeste, Wu Pao-chun entre en apprentissage dans une boulangerie dès la fin du collège, débutant par les tâches les plus élémentaires — le nettoyage, la préparation du matériel. À cette époque, aucune école ne dispensait encore de formation en boulangerie ; la transmission orale et gestuelle du maître à l'élève était la seule voie d'apprentissage. C'est par la passion du pain et une persévérance sans faille qu'il a progressivement affiné son art.
 
-L'idée du « Pain Litchi-Rose » est née d'une exploration des ingrédients locaux taïwanais. Le litchi évoque la générosité tropicale de l'île ; les pétales de rose apportent une élégance florale et parfumée. Leur alliance crée une stratification aromatique inédite. Cette démarche — intégrer des éléments taïwanais dans les techniques de boulangerie occidentale — est depuis devenue l'une des signatures distinctives du pain taïwanais.
+L'idée du « Mi Niang Li Xiang » est née d'une exploration des ingrédients locaux taïwanais : la douceur tropicale du litchi, le parfum floral de la rose, et un levain fermenté avec du vin rouge de la distillerie Puli, créant une stratification aromatique inédite. Cette démarche — intégrer des éléments taïwanais dans les techniques de boulangerie occidentale — est depuis devenue l'une des signatures distinctives du pain taïwanais.
 
-Le succès de Wu Pao-chun a entraîné une véritable transformation de l'ensemble de la filière. De nombreux jeunes ont choisi la boulangerie comme vocation ; l'enseignement professionnel a gagné en prestige ; des compétitions internationales ont commencé à se tenir sur le sol taïwanais. Son histoire démontre que la créativité et l'opiniâtreté taïwanaises peuvent atteindre le sommet mondial dans n'importe quel domaine.
+Le sacre de Wu Pao-chun n'est pas le terminus pour Taïwan dans ce concours. Wu Tzu-ching en 2015, Chen Yao-hsun en 2017 et Wang Peng-chieh en 2022 ont successivement remporté la catégorie individuelle du Mondial du Pain, faisant de Taïwan l'un des pays les plus titrés de l'histoire de cette compétition.[^2]
 
 ## L'esthétique singulière du pain taïwanais
 
@@ -38,7 +37,7 @@ Le pain à la ciboulette verte (cong hua mianb ao) en est l'exemple le plus embl
 
 Le pain à la viande séchée effilochée (rou song) est une autre création emblématique. Ce condiment traditionnel taïwanais, à la texture filamenteuse et fondante, s'associe au pain occidental pour offrir une expérience gustative unique : la couche de viande effilochée en surface délivre une saveur umami et une mâche prononcée, tandis que la mie intérieure conserve toute sa légèreté sucrée — un contraste aussi surprenant que séduisant.
 
-Le « polo bao » (菠蘿包) — littéralement « pain à l'ananas » — est quant à lui un souvenir partagé entre Taïwan et Hong Kong. En dépit de son nom, il ne contient pas d'ananas : c'est la croûte dorée qui, par ses craquelures, évoque la texture d'un ananas. La version taïwanaise est généralement plus sucrée et plus épaisse que son homologue hongkongais, reflétant le goût prononcé des Taïwanais pour la douceur.
+Le « polo bao » (菠蘿包) — littéralement « pain à l'ananas » — vient à l'origine de Hong Kong et a développé sa propre version après son arrivée à Taïwan. En dépit de son nom, il ne contient pas d'ananas : c'est la croûte dorée qui, par ses craquelures, évoque la texture d'un ananas. La version taïwanaise est généralement plus sucrée et plus épaisse que son homologue hongkongais, reflétant le goût prononcé des Taïwanais pour la douceur.
 
 ## Pain européen contre pain taïwanais : le dialogue de deux philosophies
 
@@ -52,7 +51,7 @@ Ce qui est remarquable, c'est que ces deux styles ne s'excluent pas à Taïwan :
 
 ## L'épopée internationale de 85°C
 
-Si Wu Pao-chun incarne l'excellence technique de la boulangerie taïwanaise, 85°C en représente la réussite commerciale. Fondée en 2003, cette enseigne est passée en quelques années d'une modeste chaîne de cafés-boulangeries taïwanais à une entreprise de restauration internationale.
+Si Wu Pao-chun incarne l'excellence technique de la boulangerie taïwanaise, 85°C en représente la réussite commerciale. Fondée en 2003, cette enseigne est passée d'une modeste chaîne de cafés-boulangeries taïwanais à une entreprise de restauration internationale : entrée sur le marché chinois en 2008, expansion aux États-Unis en 2016.[^3]
 
 Le secret de 85°C réside dans son positionnement « luxe accessible ». Des gâteaux et des pains de qualité hôtel cinq étoiles, à des prix comparables à ceux d'un café ordinaire — une stratégie qui a touché juste en répondant à une aspiration profonde des consommateurs : celle de se faire plaisir sans se ruiner.
 
@@ -80,13 +79,17 @@ La montée en puissance de la conscience santé a également propulsé la mutati
 
 L'innovation technologique constitue un autre axe de transformation majeur. L'automatisation améliore la productivité, les techniques de congélation prolongent la durée de conservation, les nouvelles méthodes de cuisson ouvrent un champ infini de possibilités. Ces avancées améliorent la qualité des produits tout en réduisant la dépendance à la main-d'œuvre.
 
-L'histoire de la boulangerie taïwanaise est celle d'une créativité en perpétuel mouvement, nourrie par les rencontres et les hybridations. Du titre mondial de Wu Pao-chun au rayonnement international de 85°C, en passant par les percées audacieuses d'une nouvelle génération de boulangers, Taïwan écrit, pétrin après pétrin, sa propre légende de la boulangerie mondiale.
+La trajectoire du pain et de la pâtisserie taïwanais se lit clairement : du sacre inaugural de Wu Pao-chun en 2010 aux trois titres successifs au Mondial du Pain en 2015, 2017 et 2022, en passant par l'expansion de 85°C sur les marchés européen, américain et asiatique, la compétitivité internationale accumulée par la filière taïwanaise est désormais étayée par des résultats concrets : il ne s'agit pas seulement d'une montée en gamme technique, mais d'une évolution complète, de la production à la marque.[^4]
 
 ## Références
 
-- 《台灣烘焙發展史》，李安勝著，國立高雄餐旅大學出版社，2020年
-- 〈吳寶春的麵包哲學〉，《商業週刊》第1456期，2018年
-- 《85度C營運模式分析》，王志強著，經濟日報出版，2019年
-- "Taiwan's Baking Industry: Innovation and Tradition", Food Business Magazine, 2021年秋季號
-- 中華穀類食品工業技術研究所官網：https://www.cgprdi.org.tw/
-- 《台灣麵包文化研究》，陳美芳著，聯經出版，2022年
+[^1]: [Site officiel de Wu Pao-chun Bakery](https://www.wu-pao-chun.com/) — Présentation de la création « Mi Niang Li Xiang » et récit du sacre au Mondial du Pain 2010.
+[^2]: [Site officiel du Mondial du Pain](https://www.mondialdupain.com/) — Palmarès des champions individuels, incluant les quatre titres taïwanais en 2010, 2015, 2017 et 2022.
+[^3]: [Relations investisseurs de 85°C](https://www.85cafe.com/) — Historique de la marque 85°C et données d'expansion à l'étranger.
+[^4]: [Institut taïwanais de recherche sur les céréales (CGPRDI)](https://www.cgprdi.org.tw/) — Centre de recherche en techniques boulangères, formation aux concours et soutien technique.
+[^5]: [Fédération nationale des associations professionnelles de la boulangerie de la République de Chine](https://www.twbakery.org.tw/) — Syndicat professionnel de la boulangerie, statistiques sectorielles et informations sur les concours internationaux.
+
+## Pour aller plus loin
+
+- [Wu Pao-chun Bakery](https://www.wu-pao-chun.com/) — Boutique phare de Wu Pao-chun à Tainan, où l'on trouve le pain qui lui a valu son titre
+- [Institut taïwanais de recherche sur les céréales (CGPRDI)](https://www.cgprdi.org.tw/) — Centre de recherche technique pour le secteur boulanger

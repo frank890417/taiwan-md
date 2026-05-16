@@ -1,7 +1,7 @@
 ---
 title: 'Ahn Ji-hyun'
-description: 'From Korean pro cheer to life in Kaohsiung—she pushes the Korean cheer path in Taiwan from “fly-in gig” toward “living here.”'
-date: 2026-04-14
+description: 'From Korean pro cheer to lead foreign performer of TSG Wing Stars—she brings cross-border performance experience to the Kaohsiung home park; the 2026 Taipei Dome series also became a public node for observing her injury adjustments and sideline role.'
+date: 2026-05-13
 tags:
   [
     'pop culture',
@@ -16,51 +16,43 @@ subcategory: 'Pop Culture'
 author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-05-13
 translatedFrom: 'People/安芝儇.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5c8ae9f4892807a5'
-sourceBodyHash: 'sha256:727da6d1403587b0'
-translatedAt: '2026-05-01T13:19:11+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:b13816d98f58f322'
+sourceBodyHash: 'sha256:56208a71719992d2'
+translatedAt: '2026-05-17T05:35:00Z'
 category: People
 ---
 
-> **30-second overview:** When TSG entered CPBL in 2023, Ahn Ji-hyun joined the Wing Stars; in 2026 she remains on the main roster. Her story is less a single viral spike than a steady arc: turning “work in Taiwan” step by step into “life in Taiwan.”
+> **30-second overview:** When TSG entered CPBL in 2023, Ahn Ji-hyun joined the Wing Stars system and has long held a front-row spot. In May 2026, while TSG played a series at the Taipei Dome, media reported on her "right-shoulder dislocation" injury narrative and her adjustments to sideline and post-game performance—showing that high-popularity foreign cheer members also face physical risk and schedule pressure.
 
-While the Hawks were still building a first home identity, Ahn Ji-hyun was already up front—not a mid-season cameo but season-long presence from preseason through regular play, growing with the whole system.
+While the Hawks were still building a first home identity, Ahn Ji-hyun was already up front—not a mid-season cameo but season-long presence, growing from preseason events through regular play alongside the team's system.
 
-That makes her narrative fuller than many Korean members: stabilize the stage first, then move life over. She later spoke publicly about relocating to Kaohsiung, clarifying the path.
+According to ETtoday Sports Cloud's coverage of the Wing Stars launch press conference, when the club announced its Korean foreign-member lineup, it also described Ahn Ji-hyun's leadership-type role in the formation (the report uses titles like "cheer director" for formation roles). [Source: EBC New Media / ETtoday Sports Cloud][^1]
 
-## Her role in the TSG system
+## May 2026: Taipei Dome series and injury adjustments
 
-Her position is not only on-field performance. Public information suggests she also helps import performance standards and demonstration effects—how the team presents theme songs, group formations, and overall polish in preseason events and home shows.
+According to SETN News on May 1, 2026, the TSG Hawks held a themed series at the Taipei Dome; the report noted that Wing Stars Korean member Ahn Ji-hyun, due to a right-shoulder dislocation, could not cheer in the established format, and described how she adjusted by singing and other approaches on the sideline and after games. [Source: SETN News][^2]
 
-At March 2026 preseason events she joined city walkabouts and stage warm-ups with teammates, showing she remains central. Opening week in April continued with large home productions.
-
-> **Curator’s note:** Many see “Ahn Ji-hyun is popular,” but for the club the practical value is importing high-pressure pro-cheer workflows into a new team’s daily operations.
+The point of such reports is not to tabloid-ize injury but to flag a structural reality: during dense schedules, a cheer performer's physical condition directly rewrites "what gets photographed on stage." For anyone reading Taiwan's pro-baseball entertainment-ization, that is worth recording more than the choreography itself.
 
 ## From cross-border work to local life
 
-A turning point in her Taiwan visibility came when she and teammates spoke about moving to Kaohsiung. That separates “flying cheer” and short commercial stops from deeper localization.
-
-Relocation is not only travel logistics—it is language, daily adaptation, community interaction, and city identity. When Korean members anchor life in Taiwan, fan understanding shifts from “star” toward “member of a local community.”
+Ahn Ji-hyun and teammates have been linked by media to localizing narratives like "moving to Kaohsiung." For Taiwan.md, the meaning of that path is: when Korean members anchor life in a Taiwanese city, fan understanding shifts from "star" toward "member of a local community."
 
 ## Popularity, pressure, and public scrutiny
 
-Under high popularity, Ahn Ji-hyun faces dense online discussion like other Korean members—schedule share, camera time, social posts, and private rumors are amplified in real time.
-
-Cheer work becomes dual: stage performance plus ongoing media labor. Maintaining mental and physical rhythm is harder work than the choreography viewers see.
+Under a high-popularity structure, schedule share, camera time, social posts, and private rumors can all be amplified in real time. "Cheer work" therefore becomes simultaneously stage performance and ongoing public media labor.
 
 ## Meaning in Taiwanese pop culture
 
-Her significance is not “number one” or “only”—she models a long-term path for Korean cheer in Taiwan: stable ballpark, stable city, stable community, and high attendance across seasons.
-
-For Taiwan.md she is an observation point: how CPBL absorbs Korean performance culture, and how Korean members are redefined by Taiwanese fans and cities.
+Her significance is that she models a long-term path viable for Korean cheer performers in Taiwan: stable ballpark, stable brand, stable exposure cadence—while bearing the corresponding physical cost as match density rises.
 
 ## References / Sources
 
-1. https://zh.wikipedia.org/wiki/%E5%AE%89%E8%8A%9D%E5%84%87
-2. https://www.knews.com.tw/news/C4D915A365F1C8E3C8D3D168B376C105
-3. https://tw.news.yahoo.com/wing-stars%E5%8F%B0%E9%8B%BC%E9%9B%84%E9%B7%B9%E9%96%8B%E5%A0%B4%E8%88%9E%E5%86%8D%E5%8D%87%E7%B4%9A-26%E4%BD%8D%E5%A5%B3%E5%AD%A9%E5%85%A8%E5%93%A1%E5%88%B0%E9%BD%90%E5%A4%A7%E7%A7%80%E5%AE%8C%E7%BE%8E%E8%B5%B0%E4%BD%8D-022048590.html
-4. https://star.ebc.net.tw/buzz/495289
-5. https://sports.ltn.com.tw/news/paper/1697978
+[^1]: ETtoday Sports Cloud (EBC New Media), "TSG cheer adds another top foreign member; Mingo's big talk: proving I'm the ceiling" (includes Wing Stars press-conference context), https://sports.ettoday.net/news/2664696
+
+[^2]: SETN News, "CPBL / Sticker congratulating Wang Po-jung's 100th HR; Ahn Ji-hyun 'left on read'! She says he might be busy," 2026-05-01, https://www.setn.com/News.aspx?NewsID=1832147
+
+Wikipedia (biographical overview): https://zh.wikipedia.org/wiki/%E5%AE%89%E8%8A%9D%E5%84%87

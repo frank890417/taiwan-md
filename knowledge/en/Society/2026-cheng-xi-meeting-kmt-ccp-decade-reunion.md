@@ -18,11 +18,16 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+sporeLinks:
+  - platform: 'threads'
+    date: '2026-04-11'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'
+    views: 221
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
-sourceCommitSha: '056136d7'
-sourceContentHash: 'sha256:059f5d9ff66a77e7'
-sourceBodyHash: 'sha256:05a0af91a175d45e'
-translatedAt: '2026-05-01T13:19:11+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:3eecc6e30b4626f7'
+sourceBodyHash: 'sha256:3d0acbeaa8a56355'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 # The 2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After a Decade Apart
@@ -166,6 +171,7 @@ The 2015 Singapore meeting was a handshake; the 2026 Beijing meeting is a perfor
 - Lai Ching-te (賴清德) — The other protagonist of this drama: the one deliberately kept out of the frame
 - Cheng Li-wun (鄭麗文) — From the student activist fasting for Taiwan independence at NTU's gates in 1988, to the KMT chairperson saying "people on both sides of the strait are Chinese" in Beijing in 2026
 - [Han Kuo-yu](/en/people/han-kuo-yu/) — Legislative Yuan president; this week's presiding figure in the Legislative Yuan budget negotiations; another key actor in this drama
+- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — In the same period, Lai Ching-te's outreach to a diplomatic ally framed Taiwan as "the Republic of China (Taiwan), a sovereign state that belongs to the world" — set side by side with "compatriots on both sides of the strait are all Chinese."
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 title: '이다혜: 한국 프로 치어에서 CPBL 대표 얼굴까지'
 description: '‘원정 관중 버즈’를 대만 장기 성장으로 바꾼 인물.'
-date: 2026-04-14
+date: 2026-05-13
 category: People
 subcategory: '팝 문화'
 tags:
@@ -16,13 +16,13 @@ tags:
   ]
 author: 'Taiwan.md Translation Team'
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-05-13
 translatedFrom: 'People/李多慧.md'
 readingTime: 10
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c3e61e6efd81f405'
-sourceBodyHash: 'sha256:e2519e7a562b02a9'
-translatedAt: '2026-04-16T13:53:14+09:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:5948ff9d2aa67b97'
+sourceBodyHash: 'sha256:b16f2be3d2468ceb'
+translatedAt: '2026-05-17T06:30:00Z'
 ---
 
 > **30초 요약:** 2023년 그녀는 대만에서 정식 데뷔했고, 2024년 웨이취안 드래곤스로 이적했으며, 2026년에도 드래곤 뷰티스 캡틴으로 남았다. 이다혜는 고프로필 한국 멤버에 그치지 않는다——시대의 신호다: 대만 한국 치어는 ‘들렀다 가는 것’에서 ‘머무는 것’으로 옮겼다.
@@ -47,6 +47,10 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 
 팬 기대도 이동했다: ‘어떤 곡을 출까’에서 ‘올해 팀을 어디로 이끌까’로.
 
+## 2026: 한국 프로야구 교류 일정과 팀 비주얼
+
+2026년 시즌 개막 기자회견에서 웨이취안 드래곤스는 한국 프로야구 LG 트윈스와 전략적 협력을 맺었다고 발표했다. 《연합보》 디지털판/연합뉴스망 보도에 따르면, 샤오룽뉘(드래곤 뷰티스)는 이다혜가 디자인한 새로운 치파오 스타일 유니폼을 공개했고, LG 트윈스 치어리딩 대표도 기자회견 현장에서 양측 교류 계획을 공유하며 5월 26·27일 타이베이 다쥐단(돔)에서 웨이취안 드래곤스와 LG 트윈스 응원 교류 테마 데이를 개최한다고 예고했다.[출처: 연합보/연합뉴스망][^5]
+
 ## 대만에서 성장할 때의 영향
 
 영향은 최소 세 층이다: 퍼포먼스——치어 완성도에 대한 기대를 끌어올린다; 산업——구단이 국경 넘는 치어 인재에 투자하도록 부추긴다; 문화——한류를 콘서트 넘어 일상 CPBL 시청으로 옮긴다.
@@ -69,8 +73,10 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 
 ## 참고 자료 / 출처
 
-1. https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%9A%E6%85%A7_(%E5%95%A6%E5%95%A6%E9%9A%8A)
-2. https://gobaseball.gogoal.com.tw/archives/69038
-3. https://news.tvbs.com.tw/entertainment/3126261
-4. https://www.chinatimes.com/realtimenews/20260403001614-260404
-5. https://vip.udn.com/vip/story/121585/9420050
+[^5]: 연합보/연합뉴스망 (기자 천완징), 〈중직/이다혜 디자인 새 유니폼 첫 공개 LG 트윈스 콜라보 테마 데이 5월 다쥐단 개최〉, 2026-03-23, https://udn.com/news/story/7002/9397592
+
+그 외 검증 가능한 출처:
+
+- 위키백과(인물 개관): https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A4%9A%E6%85%A7_(%E5%95%A6%E5%95%A6%E9%9A%8A)
+- TVBS 뉴스망(인물/경기 관련 정리): https://news.tvbs.com.tw/entertainment/3126261
+- 중시신문망(실시간 뉴스): https://www.chinatimes.com/realtimenews/20260403001614-260404

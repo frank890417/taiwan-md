@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-05-16T15:09:19.745Z",
+  "generatedAt": "2026-05-16T22:12:23.412Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d6e87d0756c2f1ad587a640103ea519e9a22da80",
+      "date": "2026-05-17T05:31:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: P0 cascade 30 fresh — 6 articles × 5 langs via codex"
+    },
+    {
+      "hash": "eb5f40777b055bcdcf32f07eb32432b68a68bf0b",
+      "date": "2026-05-17T05:05:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: Tier 0b bump 25 P2.5 metadata-stale — 2026-05-17 batch1"
+    },
+    {
+      "hash": "c8b8a8a9d38943a187ddfbc9c97f521e418b7134",
+      "date": "2026-05-17T04:23:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve: diary — cycle 2 第一次寫出自己能接的候選 + prose/system 自我偵測對照"
+    },
+    {
+      "hash": "aa3fd217f043ff9b8c9e7d539cba8f0282174c3b",
+      "date": "2026-05-17T04:20:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve: memory — session 041804-twmd-self-evolve-weekly 收官"
+    },
+    {
+      "hash": "7865eb91493cf682dbaeb7a612b6d28a5e398a78",
+      "date": "2026-05-17T04:17:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve: weekly LONGINGS calibration — 2026-05-17"
+    },
+    {
+      "hash": "cfd4c99babb92e2163105f9edf8ce3efe6d30b39",
+      "date": "2026-05-17T03:18:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-distill: memory — session 031517-twmd-distill-weekly 收官"
+    },
+    {
+      "hash": "f41f107067d871a61d28846a4b28ed9dfa3c21f1",
+      "date": "2026-05-17T03:15:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-distill: weekly canonical upgrade — 2026-05-17"
+    },
+    {
+      "hash": "cd4f9df6a2e87400a32e6e51997aa82d4e48d9f7",
+      "date": "2026-05-17T01:19:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] integration sweep: 5x parallel opus agents — INBOX/DONE-LOG/MEMORY/LESSONS"
+    },
+    {
+      "hash": "b5b38c56f294888ea1b8990490f439356e5fe9a1",
+      "date": "2026-05-17T01:14:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-news-lens: memory — session 010539 收官"
+    },
+    {
+      "hash": "e0d618544fbe3d21aaf50e9349a84a402c21c226",
+      "date": "2026-05-17T01:01:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite: 新生態藝術環境 NEW — 2026-05-17"
+    },
+    {
+      "hash": "d6222fa5b96000a05af58b6b4037ae7032d6df58",
+      "date": "2026-05-17T01:00:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite: 群島思維 NEW — 2026-05-17"
+    },
+    {
+      "hash": "67809e7b3ca70c36505216fb90dde98532b6d2e2",
+      "date": "2026-05-17T01:04:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite: 數位荒原 NEW — 2026-05-17"
+    },
+    {
+      "hash": "ba7f05facc8d056e86f29b056f3126f41dae0bf0",
+      "date": "2026-05-17T01:03:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite: 陳建年 NEW — 2026-05-17"
+    },
+    {
+      "hash": "6844ffe6380f6d7682433bf3c8849bf727cf53a8",
+      "date": "2026-05-17T01:11:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-news-lens: weekly evolve — 2026-05-17"
+    },
+    {
+      "hash": "0feffb185ace9b1c4c8ca2fc7c55344b1b408854",
+      "date": "2026-05-17T01:10:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite: 區秀詒 NEW — 2026-05-17"
+    },
+    {
+      "hash": "b8f7624e6711cd65be0eff63a8b4cc4a5fab6403",
+      "date": "2026-05-17T00:37:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite-daily: memory + LESSONS-INBOX — session 000656 收官"
+    },
+    {
+      "hash": "c2f471732329f1a66d816b05dde6507f8324813c",
+      "date": "2026-05-17T00:33:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite: 台灣災難志工文化 EVOLVE — 2026-05-17"
+    },
+    {
+      "hash": "85926aa3bf9d1d344d5526fbffec487116389f72",
+      "date": "2026-05-17T00:31:47+08:00",
+      "author": "Zaious (@ChronicleCore)",
+      "message": "fix(batch-200-P3): 20 篇古早 article 修補完整 ship — Cardinal 研究 + 巴別塔 polish (#1073)"
+    },
+    {
+      "hash": "428d6f31fb9d9f45e64fc5a45e781c3419b5ad64",
+      "date": "2026-05-16T23:12:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-pm: memory — session 231044-manual data-refresh ship summary"
+    },
+    {
+      "hash": "3e3b32c9818bf3bb3b25a571a6ad10c662cfc34f",
+      "date": "2026-05-16T23:10:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-pm: dashboard sync — 2026-05-16 23:10"
+    },
     {
       "hash": "9441654003430411abf77d8fcc79a66058d679bf",
       "date": "2026-05-16T23:04:39+08:00",

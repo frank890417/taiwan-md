@@ -2,17 +2,18 @@
 title: "Taiwan's Climate"
 description: "Annual rainfall 2.5 times the global average, yet ranked among the world's top 20 water-stressed nations — Taiwan's climate is never what you expect"
 date: 2026-03-31
+category: 'Geography'
 tags: ['geography', 'climate', 'typhoon', 'plum rain', 'climate change']
 subcategory: '氣候與溫泉'
+author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: false
 translatedFrom: 'Geography/氣候.md'
-sourceCommitSha: '8b302342'
-sourceContentHash: 'sha256:a5e1f79ea8f1e346'
-sourceBodyHash: 'sha256:71817ce461cbb1bd'
-translatedAt: '2026-05-01T13:44:02+08:00'
-category: Geography
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:cce87bf72e0fbd92'
+sourceBodyHash: 'sha256:563a5cbaf28a35c9'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 # Taiwan's Climate

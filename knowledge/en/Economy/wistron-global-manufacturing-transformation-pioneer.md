@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: Economy/台灣企業：緯創資通.md
-sourceCommitSha: 24efd20f3
-sourceContentHash: sha256:214beb76f2ef137d
-sourceBodyHash: sha256:28f6e5617d50cf4d
-translatedAt: 2026-05-15T14:23:13+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:78dfeac488fc250e'
+sourceBodyHash: 'sha256:46c302dd4e4644ee'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 > **30-Second Overview**
@@ -126,7 +126,7 @@ Facing rising manufacturing costs and evolving client demands, Wistron embarked 
 **Key Breakthroughs**:
 
 - **2017**: Began manufacturing iPhones for Apple in India
-- **2019**: Established Wistron Medical, entering smart healthcare
+- **2019**: Established Wistron Medical, entering smart healthcare. Wistron Medical focuses on telemedicine systems, wearable physiological monitoring devices, medical imaging, and rehabilitation aids, taking the long-term needs of Asia-Pacific's aging societies as its core market — and becoming a key pillar of the group's diversification
 - **2020**: During COVID-19, its flexible capacity allocation capabilities were highly recognized by clients
 
 ### Sustainable Development (2020–Present): The ESG-Oriented New Phase

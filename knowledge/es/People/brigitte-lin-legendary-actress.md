@@ -11,27 +11,29 @@ tags:
     'cine chino',
   ]
 subcategory: '電影與戲劇'
+category: 'People'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: People/林青霞.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:2eacc434230880ee
-sourceBodyHash: 'sha256:d26764e2c2a5eff6'
-translatedAt: 2026-05-01T22:19:10+08:00
-category: People
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:436708c2b3c2dc27'
+sourceBodyHash: 'sha256:12badc0094297f08'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # Brigitte Lin: De diosa romántica a leyenda de artes marciales
 
-Brigitte Lin (林青霞) es la actriz más legendaria del cine en lengua china, cuya trayectoria abarca dos épocas: las películas románticas de Qiong Yao y las películas de artes marciales wuxia de Tsui Hark. En la década de 1970 se convirtió en la diosa por excelencia del cine de Qiong Yao gracias a su imagen de pureza, y a finales de la década de 1980 logró una exitosa transición al crear un personaje revolucionario en _Dongfang Bubai_. Su carrera artística fue testigo de la era dorada del cine chino, y se la conoce como "la diosa eterna del cine chino".
+Brigitte Lin (林青霞), cuya trayectoria abarca dos épocas —las películas románticas de Qiong Yao y las películas wuxia de Tsui Hark—, es una de las actrices más representativas del cine en lengua china. En la década de 1970 se convirtió en figura central del cine de Qiong Yao gracias a su imagen de pureza, y a finales de la década de 1980 logró una exitosa transición al crear un personaje revolucionario en _Dongfang Bubai_. Su carrera artística fue testigo de la era dorada del cine chino.
 
 ## De hija de militar a estrella
 
 Brigitte Lin nació el 3 de noviembre de 1954 en Taipéi, con ascendencia en la provincia de Shandong. Su padre, Lin Weiliang, era militar, y su madre, Luo Xiunyun, era ama de hogar. Creció en un _juancun_ (barrio militar), donde desde pequeña mostró un rostro delicado y un temperamento sereno.
 
-Estudió en la escuela secundaria Jinling Girls' High School, donde fue una alumna destacada tanto en lo académico como en lo disciplinario, con un profundo interés por la literatura y las artes. En 1972 fue descubierta por el cazatalentos Song Cunshou en Ximending, cuando se preparaba para el examen de ingreso a la universidad y no tenía ninguna intención de dedicarse a la actuación.
+Estudió en la escuela secundaria Jinling Girls' High School, donde fue una alumna destacada tanto en lo académico como en lo disciplinario, con un profundo interés por la literatura y las artes. En 1972 fue escogida en Ximending por el director Song Cunshou, quien la invitó a protagonizar _Outside the Window_, cuando se preparaba para el examen de ingreso a la universidad y no tenía ninguna intención de dedicarse a la actuación.[^1]
 
-Con el apoyo de su madre, Brigitte Lin decidió probar suerte en el cine. Su primera película, _Outside the Window_, adaptada de una novela de Qiong Yao y coprotagonizada por Qin Han, consolidó su posición en el cine romántico.
+Con el apoyo de su madre, Brigitte Lin decidió probar suerte en el cine. Su primera película, _Outside the Window_ (1973), adaptada de una novela de Qiong Yao y coprotagonizada por Qin Han, consolidó su posición en el cine romántico.[^2]
 
 ## La era de las películas de Qiong Yao: diosa del cine romántico
 
@@ -43,7 +45,7 @@ En esta etapa, Brigitte Lin se convirtió en el ídolo de innumerables jóvenes.
 
 ## Diversificación en el cine romántico
 
-Además de las películas de Qiong Yao, Brigitte Lin exploró otros géneros dentro del cine romántico. En 1979 colaboró con el director Li Xing (李行) en _Ode to the Sea_, donde demostró una actuación más madura.
+Además de las películas de Qiong Yao, Brigitte Lin exploró otros géneros dentro del cine romántico. En 1979 colaboró con el director Li Xing en _Ode to the Sea_, donde demostró una actuación más madura.
 
 En 1981, _I Am a Cloud_ se convirtió en una de sus obras representativas dentro del cine de Qiong Yao, con escenas junto a Qin Han que conmovieron profundamente al público. Esta película evidenció su dominio en las escenas emocionales.
 
@@ -53,7 +55,7 @@ A principios de la década de 1980, Brigitte Lin comenzó a plantearse una trans
 
 A mediados de la década de 1980, Brigitte Lin dio el salto al cine de Hong Kong, una decisión que transformó radicalmente su carrera. El entorno más diversificado y comercial del cine de Hong Kong le ofreció un mayor margen de crecimiento.
 
-Estableció colaboraciones con directores de la Nueva Ola de Hong Kong y experimentó con distintos tipos de personajes. Estas experiencias maduraron su arte interpretativo y sentaron las bases para sus posteriores papeles en películas wuxia.
+Estableció colaboraciones con directores de la Nueva Ola de Hong Kong y experimentó con distintos tipos de personajes. Estas experiencias maduraron su arte interpretativo y la prepararon para aceptar las películas wuxia de Tsui Hark.
 
 Durante su etapa en Hong Kong, Brigitte Lin mantuvo una presencia activa tanto en Taiwán como en Hong Kong, convirtiéndose en una de las pocas estrellas capaces de trascender ambos mercados. Su éxito sirvió de modelo para los actores taiwaneses que posteriormente incursionaron en Hong Kong.
 
@@ -107,9 +109,9 @@ También ha participado en festivales de cine y ceremonias de premios, y cada ap
 
 ## Una influencia que trasciende las épocas
 
-La influencia de Brigitte Lin trasciende el ámbito puramente cinematográfico para convertirse en un símbolo cultural del mundo sinófono. De la diosa inocente de la era Qiong Yao a la heroína marcial de la época wuxia, fue testigo de la evolución del cine chino.
+La influencia de Brigitte Lin trasciende el ámbito puramente cinematográfico. De la imagen inocente de la era Qiong Yao a la heroína marcial de la época wuxia, su trayectoria interpretativa acompaña tres décadas de transformaciones del cine chino.
 
-Su belleza y elegancia se convirtieron en un estándar eterno, y las nuevas generaciones de actrices han sido comparadas con ella una y otra vez. La "belleza al estilo Brigitte Lin" se convirtió en un arquetipo clásico del cine chino.
+Su belleza y elegancia gozan de gran admiración, y las nuevas generaciones de actrices han sido comparadas con ella una y otra vez. La "belleza al estilo Brigitte Lin" se ha convertido en un referente habitual de comparación dentro de la industria.
 
 Directores de la talla de Wong Kar-wai han expresado su admiración por Brigitte Lin, y sus obras son objeto de estudio por parte de críticos y académicos del cine.
 
@@ -133,12 +135,12 @@ Los historiadores del cine consideran que la carrera de Brigitte Lin refleja la 
 
 Incluso tras años de retiro, Brigitte Lin ocupa un lugar de honor en el corazón de los cinéfilos. Sus imágenes icónicas y sus interpretaciones memorables constituyen un patrimonio invaluable del cine chino.
 
-Las nuevas generaciones descubren su carisma al revisitar sus obras clásicas, lo que demuestra que una estrella auténtica posee un encanto que trasciende el tiempo. La leyenda de Brigitte Lin brillará para siempre en la historia del cine chino.
-
-No fue solo una actriz excepcional, sino un símbolo cultural del cine en lengua china. El nombre de Brigitte Lin se ha convertido en sinónimo de belleza, elegancia y talento, e inspira a cada nueva generación de cineastas.
+Las nuevas generaciones descubren su carisma al revisitar sus obras clásicas, lo que demuestra que los intérpretes excelentes pueden trascender el tiempo. Brigitte Lin es un símbolo cultural del cine en lengua china, e inspira a cada nueva generación de cineastas.
 
 ## Referencias
 
-- [Brigitte Lin — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Filmografía de la actriz
-- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Datos sobre su etapa en Hong Kong
-- [Dongfang Bubai — Hong Kong Film Awards Association](https://www.hkfaa.com/) — Evaluación de la obra clásica
+[^1]: Entrada de Wikipedia «Brigitte Lin»: Song Cunshou era director y la invitó a protagonizar _Outside the Window_ (1973). https://zh.wikipedia.org/wiki/林青霞
+[^2]: _Outside the Window_ (1973), dirigida por Song Cunshou y protagonizada por Brigitte Lin en su primer papel, adaptada de la novela homónima de Qiong Yao. Ficha en Taiwan Cinema: https://taiwancinema.bamid.gov.tw/
+[^3]: Brigitte Lin se retiró del mundo del espectáculo tras casarse con el empresario hongkonés Michael Ying (邢李原) el 29 de junio de 1994; coberturas relacionadas en la entrada de Wikipedia «Brigitte Lin» <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+[^4]: _Swordsman II: Dongfang Bubai_ (1992), dirigida por Tsui Hark, con Brigitte Lin en el papel de Dongfang Bubai; conservada por el Hong Kong Film Archive. https://www.filmarchive.gov.hk/
+[^5]: Brigitte Lin, _Inside and Outside the Window_, Cosmos Books, 2011. Es su principal colección de ensayos y fue recibida positivamente por el ámbito literario. <https://www.books.com.tw/products/0010512315>

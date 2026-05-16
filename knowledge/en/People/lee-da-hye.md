@@ -16,12 +16,12 @@ subcategory: 'Pop Culture'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-05-16
 translatedFrom: 'People/李多慧.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c3e61e6efd81f405'
-sourceBodyHash: 'sha256:e2519e7a562b02a9'
-translatedAt: '2026-05-01T13:19:11+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:5948ff9d2aa67b97'
+sourceBodyHash: 'sha256:b16f2be3d2468ceb'
+translatedAt: '2026-05-17T06:07:00Z'
 category: People
 ---
 

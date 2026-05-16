@@ -1,7 +1,7 @@
 ---
 title: '李珠珢'
 description: '「AI 女神」ブームから台湾での本格活動へ。彼女の歩みは、韓籍チアリーダーが台湾プロ野球で長期滞在する可能性を塗り替えました。'
-date: 2026-04-14
+date: 2026-05-13
 tags:
   [
     '流行人物',
@@ -15,14 +15,14 @@ tags:
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 10
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 category: People
 translatedFrom: People/李珠珢.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:1a5ec966d15fc75f'
-sourceBodyHash: 'sha256:286ea06e2dfa5442'
-translatedAt: 2026-05-01T18:02:56+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:451da618ddccb297'
+sourceBodyHash: 'sha256:4b9c8f80e4d299c5'
+translatedAt: '2026-05-17T06:35:00Z'
 ---
 
 > **30 秒でわかる概要：** 李珠珢は 2025 年に富邦とマネジメント契約を結び、2026 年には活動の重心をより明確に台湾に置きました。彼女の意義は高い注目度だけではなく、韓籍チアリーダーの在り方を「日韓往復」から「台湾での長期滞在」へと推し進めた点にあります。
@@ -30,6 +30,8 @@ translatedAt: 2026-05-01T18:02:56+08:00
 韓国で話題が高まる中、彼女は短期的な合作に留まらず、より深いマネジメント統合へと踏み出しました。この一歩により、彼女は「台湾にゲスト出演する」だけの一般的な韓籍チアリーダーとは明確に一線を画しています。
 
 2026 年シーズン前後の継続滞在の兆しは、この道をさらに確かなものにしました。彼女は単に台湾を訪れただけではなく、台湾をキャリアの主軸に据えたのです。
+
+『聯合報』デジタル版／聯合新聞網は 2026 年 3 月の「Fubon Angels 開幕発表会」報道で、李珠珢が悍將との継続契約を発表し、中国語でファンに挨拶した際に感情を抑えきれなかった様子を伝えました。同じ記事では、朴星垠がものもらいのために眼帯姿で出席したといった現場の細部にも触れており、この時期の世論の空気を理解するための一次的な整理として参照できます。［出典：聯合報／聯合新聞網］[^6]
 
 ## ブームから長期配置へ
 
@@ -66,8 +68,11 @@ translatedAt: 2026-05-01T18:02:56+08:00
 
 ## 参考文献 / Sources
 
-出典 1：https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
-出典 2：https://m.mirrormedia.mg/story/20260223edi054
-出典 3：https://stage.newtalk.tw/news/view/2026-02-23/1021071
-出典 4：https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html
-出典 5：https://news.pchome.com.tw/entertainment/crwant/20260330/index-77484543045734316006.html
+[^6]: 聯合報／聯合新聞網（葉姵妤記者）、〈中職／悍將5韓援同台亮相 李珠珢「太久沒見大家」緊張落淚〉、2026-03-25、https://udn.com/news/story/7002/9402487
+
+その他の検証可能な情報源：
+
+- ウィキペディア（人物概要）：https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
+- 鏡週刊（人物／試合まとめ）：https://m.mirrormedia.mg/story/20260223edi054
+- Newtalk 新聞、〈李珠珢震撼宣布「續留台湾」！加盟富邦第2年「重磅喜事曝光了」〉、2026-02-23、https://www.newtalk.tw/news/view/2026-02-23/1021071
+- Yahoo奇摩ニュース（スケジュール／試合関連の整理）：https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html

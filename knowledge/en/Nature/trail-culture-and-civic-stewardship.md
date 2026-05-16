@@ -8,10 +8,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Nature/台灣步道文化與公民守護.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c5189b4648b42385'
-sourceBodyHash: 'sha256:c7dab5f5270d5967'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:6a877621bb6ceb6f'
+sourceBodyHash: 'sha256:855af6d5f189b0bd'
+translatedAt: '2026-05-17T05:46:00Z'
 category: Nature
 ---
 
@@ -19,19 +19,19 @@ category: Nature
 
 At 5:30 a.m. on a mountain path in Jianshi Township, Hsinchu, volunteers squat quietly beside the trail, clearing fallen stones from the night before. They are not a government maintenance crew. They are members of the Thousand Miles Trail Association (千里步道協會)—and this scene repeats across Taiwan, weekend after weekend.
 
-Taiwan is a small island (36,000 km²) with an outsized vertical landscape: over 268 peaks above 3,000 meters. Trails here are more than recreational routes. They are cultural memory, ecological corridors, and civic infrastructure. From Indigenous hunting paths to Japanese-era mountain roads, and now the modern national trail system, each path carries the island’s layered history.
+Taiwan is a small island (36,000 km²) with an unusually high concentration of vertical landscape: over 268 peaks above 3,000 meters—a density rarely seen anywhere in the world. Trails here are recreational routes and also a record of cultural meaning and ecological value. From Indigenous hunting paths to Japanese-era mountain roads, and now the modern national trail system, each path carries the island’s layered history.
 
 ## The rise of trail stewardship
 
 ### The Thousand Miles Trail Association
 
-Founded in 2006, the Thousand Miles Trail Association proposed a bold vision: a green network that links Taiwan’s circumference, allowing people to walk the island and meet the land on its own terms. In 2012 it launched the “Double-Zero Policy”—**zero loss of natural trails, zero growth of concrete trails**—a statement born from dissatisfaction with the 1990s trend of replacing soil and stone paths with cement staircases.
+The Thousand Miles Trail movement was formally launched on April 23, 2006; the association was incorporated as a legal entity on June 8, 2011.[^1] It proposed a bold vision: a green network that links Taiwan’s circumference, allowing people to walk the island and meet the land on its own terms.
 
-The association’s founder, Huang Wu-hsiung, put it simply: “Trails should not be built to conquer mountains, but to learn how to live alongside them.”
+In 2012 it launched the “Double-Zero Policy”—**zero loss of natural trails, zero growth of concrete trails**—a statement born from dissatisfaction with the 1990s trend of replacing soil and stone paths with cement staircases. The association’s founder, Huang Wu-hsiung, has emphasized that trail protection should aim at living in harmony with nature rather than conquering the mountains.[^2]
 
 ### From protection to participation: citizen science
 
-In 2024, the iTrail platform went live. By combining GPS and photo uploads, it turns every hiker into a trail observer. A fallen tree, illegal construction, or a trapped animal can be reported in real time. In its first year, iTrail collected more than 15,000 reports—data that now informs policy and restoration priorities.
+In 2024, the iTrail platform went live. By combining GPS and photo uploads, it turns every hiker into a trail observer.[^3] A fallen tree, illegal construction, or a trapped animal can be reported in real time. In its first year, iTrail collected more than 15,000 reports—data that now informs policy and restoration priorities.
 
 ## Taiwan Trail Month: a national civic ritual
 
@@ -41,7 +41,7 @@ In 2023 alone, over 3,000 volunteers surveyed nearly 500 trails—an amount of d
 
 ### The value of ten-year comparisons
 
-Taipei, New Taipei, and Taichung have completed “ten-year surface audits.” Comparing 2010 to 2020, the share of concrete trails rose from 35% to 52%, while natural surfaces fell from 48% to 31%. These figures became scientific evidence supporting the Double-Zero Policy.
+Taipei, New Taipei, and Taichung have completed “ten-year surface audits.” Comparing 2010 to 2020, the share of concrete trails rose from 35% to 52%, while natural surfaces fell from 48% to 31%. These figures pushed local governments to incorporate the Double-Zero Policy into their trail-construction direction.
 
 ## Taiwan’s diverse trail systems
 
@@ -59,7 +59,13 @@ For most citizens, trails like Xiangshan, Hushan, and Jiantan Mountain form the 
 
 ### Historic routes: footprints of migration and memory
 
-Taiwan’s **Tamsui–Kavalan Trail (淡蘭古道)** reconnects Taipei and Yilan through three main routes—official, civilian, and tea roads—reviving trade and migration history. **Raknus Selu Trail (樟之細路)** traces the old camphor economy and links Hakka, Indigenous, and Han settlement histories across western foothills. The **Shan-Hai-Zan National Greenway (山海圳國家綠道)** runs from Yushan to Taijiang National Park, crossing a full spectrum of ecosystems in a single journey.
+Taiwan’s historic trails record the hardships of early settlement and preserve traces of exchange between different peoples.
+
+The **Tamsui–Kavalan Trail (淡蘭古道)** reconnects Taipei and Yilan through three main routes—official, civilian, and tea roads—reviving trade and migration history.[^4] In recent years, the New Taipei City government has worked with civic groups to restore the trail in sections, allowing more people to experience the paths once walked by earlier generations.
+
+**Raknus Selu Trail (樟之細路)** traces the old camphor economy and links Hakka, Indigenous, and Han settlement histories across western foothills. Raknus Selu functions as a cultural corridor connecting Hakka heritage, Indigenous culture, and Han settlement history.
+
+The **Shan-Hai-Zan National Greenway (山海圳國家綠道)** runs from Yushan to Taijiang National Park, crossing a full spectrum of ecosystems in a single journey.
 
 ## The culture of trail volunteers
 
@@ -83,14 +89,26 @@ Extreme weather events are increasing, leading to more landslides, trail erosion
 
 ### Generational renewal
 
-Many experienced volunteers are now over sixty. Sustaining the movement depends on bringing younger people in—who often contribute skills in digital outreach, social media, and technology. The task is to connect tradition and innovation without losing depth.
+Many experienced volunteers are now over sixty. Sustaining the movement depends on bringing younger people in—who often contribute skills in digital outreach, social media, and technology. The next-phase challenge is combining the older generation's mountain experience with the younger generation's digital tools.
 
 ### International exchange
 
-Taiwan has begun collaborating with Japan’s Michinoku Coastal Trail and South Korea’s Jeju Olle Trail, sharing management strategies and ecological ethics. These partnerships position Taiwan as a regional leader in trail culture.
+Taiwan has begun collaborating with Japan’s Michinoku Coastal Trail and South Korea’s Jeju Olle Trail, sharing management strategies and ecological ethics. Taiwan's trail management experience is gradually drawing attention within the Asia-Pacific trail community.
 
 ## Conclusion: trails as an ethic of place
 
 Taiwan’s trail culture expresses core values: respect for nature, civic participation, professional care, and community collaboration. From the Double-Zero Policy to iTrail citizen reporting, Taiwan’s trails are not just paths—they are collective promises.
 
-“ We are not conquering mountains,” the Thousand Miles Trail Association reminds us. “We are learning to live with them.” In a world where people increasingly drift from the land, Taiwan’s trails offer a living model of reconnection—and a reminder that stewardship belongs to everyone.
+Every trail is a story, every footprint a commitment. When we walk these paths, we are not only moving our bodies—we are extending a cultural tradition and practicing an environmental responsibility.
+
+Taiwan's trail culture shows one thing: environmental protection can be carried out by every person who loves this land, without waiting for government or experts. In an era when people are increasingly distant from nature, trails offer an opportunity to reconnect, and preserve precious natural assets for future generations.
+
+The Thousand Miles Trail Association emphasizes that trail stewardship aims at learning to coexist with the mountains—this is perhaps the most core spirit of Taiwan's trail culture.
+
+## References
+
+[^1]: [Thousand Miles Trail Association milestones - iTrail](https://itrail.tw/aboutus/important-events) — Confirms the Thousand Miles Trail movement was launched April 23, 2006, and the association incorporated June 8, 2011.
+[^2]: [Thousand Miles Trail Association official site](https://www.tmitrail.org.tw/) — Association mission, Double-Zero Policy, and Huang Wu-hsiung's trail stewardship philosophy.
+[^3]: [iTrail smart trail platform](https://itrail.tw/) — Trail status reporting platform, launched 2024, receiving over 15,000 reports in its first year.
+[^4]: [New Taipei City Tamsui–Kavalan Trail - New Taipei City Government](https://trails.ntpc.gov.tw/) — Introduction to the three (northern/central/southern) routes of the Tamsui–Kavalan Trail and the restoration program.
+[^5]: [Thousand Miles Trail at 20: The Birth of a Path - Smile Taiwan](https://smiletaiwan.cw.com.tw/article/9059) — Coverage of two decades of the Thousand Miles Trail Association's work.

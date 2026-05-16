@@ -9,8 +9,8 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 translatedFrom: 'Food/肉圓.md'
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:22ebfc00834f45b9'
-sourceBodyHash: 'sha256:9aeb87e8879e5d29'
+sourceContentHash: 'sha256:6de8df7e037bf580'
+sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
 translatedAt: '2026-05-09T06:34:07Z'
 ---
 

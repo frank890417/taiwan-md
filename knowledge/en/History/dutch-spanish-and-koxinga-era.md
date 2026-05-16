@@ -18,14 +18,14 @@ tags:
     'Fort Zeelandia',
   ]
 readingTime: 10
-lastVerified: 2026-04-05
+lastVerified: 2026-05-16
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/荷西明鄭時期.md'
-sourceCommitSha: '01d9d0e73'
-sourceContentHash: 'sha256:e5a3bfeaee77a9cf'
-sourceBodyHash: 'sha256:184255d8cbd17846'
-translatedAt: '2026-05-12T11:51:04+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:63ac1f41561d9b5f'
+sourceBodyHash: 'sha256:b9a9258412d16bc5'
+translatedAt: '2026-05-17T06:08:00Z'
 ---
 
 # The Dutch, Spanish, and Ming-Zheng Period

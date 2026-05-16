@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:51b6f9aa87c5e972'
-sourceBodyHash: 'sha256:ef03963755b1efd7'
-translatedAt: '2026-05-02T01:17:17+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:bbca77501c197a81'
+sourceBodyHash: 'sha256:76487fd0d26564e6'
+translatedAt: '2026-05-17T05:33:00Z'
 category: Nature
 ---
 
@@ -54,7 +54,7 @@ En un sentido más profundo, el leopardo de Formosa no habita tierras vírgenes 
 
 Nuestras decisiones cotidianas afectan directamente su supervivencia, desde el diseño de las carreteras locales hasta los métodos de cultivo de las tierras agrícolas.
 
-Taiwán ya perdió al leopardo nublado. El leopardo de Formosa es la última oportunidad y la última prueba.
+El hábitat del leopardo de Formosa coincide exactamente con las zonas de mayor presión de desarrollo humano; su situación es la prueba más severa para la conservación en Taiwán.
 
 ---
 
@@ -86,7 +86,7 @@ Cuando los faros se encienden, los ojos del leopardo de Formosa reflejan la luz,
 
 La serie especializada de Wuo Wuo utilizó un título desgarrador: "¡Plum! Y luego me convertí en carne seca".
 
-Entre 2017 y 2023, se registraron más de 130 atropellos de leopardos de Formosa. Cuántos no fueron descubiertos, nadie lo sabe.
+Entre 2017 y 2023, se registraron más de 130 atropellos de leopardos de Formosa.[^2] Cuántos no fueron descubiertos, nadie lo sabe.
 
 La investigadora de leopardos de Formosa Lin Yuxiu rastreó a uno llamado "Xiaocao". Este ejemplar fue atropellado **dos veces** y sobrevivió en ambas ocasiones. Lin Yuxiu dijo: "Xiaocao logró salvarse solo tras dos accidentes de tráfico. Si todavía no hacemos nada por el leopardo de Formosa, realmente estaríamos sacrificando su capacidad de autosalvamento."
 
@@ -124,7 +124,7 @@ Además, las trampas para animales en las zonas montañosas, aunque oficialmente
 
 "No te metas con mis pollos y yo no te enveneno" — la lógica es clara, pero no puedes hacer que el leopardo de Formosa entienda el lenguaje humano. Así que el gobierno cambió de enfoque: **pagar a los agricultores**.
 
-Desde 2021, el Ministerio de Agricultura impulsa el "Programa de Pagos por Servicios Ecosistémicos del Leopardo de Formosa". Los agricultores que adopten prácticas de cultivo amigables con el medio (sin veneno, sin trampas) dentro del hábitat del leopardo de Formosa pueden recibir subsidios de hasta 20 000 dólares taiwaneses por hectárea. Si una cámara trampa capta un leopardo de Formosa en tu terreno, recibes 10 000 adicionales.
+Desde 2021, el Ministerio de Agricultura impulsa el "Programa de Pagos por Servicios Ecosistémicos del Leopardo de Formosa".[^3] Los agricultores que adopten prácticas de cultivo amigables con el medio (sin veneno, sin trampas) dentro del hábitat del leopardo de Formosa pueden recibir subsidios de hasta 20 000 dólares taiwaneses por hectárea. Si una cámara trampa capta un leopardo de Formosa en tu terreno, recibes 10 000 adicionales.
 
 Esto no es caridad. Es **convertir a los agricultores en aliados de la conservación, no en sus enemigos**.
 
@@ -140,7 +140,7 @@ Para abordar el problema de los atropellos, algunos tramos de carretera en Miaol
 
 La conservación necesita historias y también protagonistas. **Jibao**, un leopardo de Formosa rescatado por el centro de animales de Houli en Taichung, se convirtió en una estrella de la educación para la conservación gracias a su temperamento dócil. Hizo que muchas personas que nunca se habían interesado por la especie descubrieran que este animal existe en Taiwán.
 
-**Ahú**, un leopardo de Formosa del Centro de Investigación y Conservación de Especies Endémicas, participó en un programa de reproducción en cautividad. Cada cría de leopardo de Formosa nacida en cautiverio es noticia.
+**Ahú**, un leopardo de Formosa del Instituto de Investigación de Biodiversidad del Ministerio de Agricultura (TBRI), participó en un programa de reproducción en cautividad.[^4] Cada cría de leopardo de Formosa nacida en cautiverio es noticia.
 
 La existencia de estos leopardos célebres es contradictoria: están cerca de los seres humanos precisamente porque ya no pueden sobrevivir en estado silvestre.
 
@@ -156,7 +156,7 @@ Estas razones suenan razonables, pero traducidas al lenguaje llano significan: e
 
 Las calles de Miaoli están llenas de imágenes del leopardo de Formosa: en marquesinas de autobuses, en camiones de basura, en folletos turísticos. El leopardo de Formosa es la mascota de Miaoli, pero no puede ser su vecino.
 
-Finalmente, bajo la presión de la opinión pública, Miaoli logró aprobar el reglamento en su tercer intento en 2020, convirtiéndose en el primer reglamento de conservación del leopardo de Formosa en toda la isla. Pero el proceso en sí mismo se ha convertido en un caso paradigmático de la enorme brecha entre la "conservación de palabra" y la "acción real" en Taiwán.
+Finalmente, bajo la presión de la opinión pública, Miaoli aprobó en tercera lectura el primer reglamento autonómico de conservación del leopardo de Formosa de toda la isla el 10 de diciembre de 2019.[^1] Pero el proceso en sí mismo se ha convertido en un caso paradigmático de la enorme brecha entre la "conservación de palabra" y la "acción real" en Taiwán.
 
 ---
 
@@ -166,7 +166,7 @@ Estos detalles pueden parecer trivialidades, pero cada uno apunta a la misma rea
 
 🐆 El nombre científico formal del leopardo de Formosa es **gato leopardo** (_Leopard Cat_), pero no tiene ninguna relación de parentesco con el leopardo. 👀 La capacidad nocturna del leopardo de Formosa es **6 veces superior** a la humana, razón por la cual queda especialmente "paralizado" por los faros de los vehículos en las carreteras nocturnas. 🏠 El rango de actividad de un macho puede abarcar **5–10 kilómetros cuadrados**, equivalente a toda la zona de Da'an en Taipéi.
 
-☠️ Taiwán tuvo alguna vez al leopardo nublado (_Neofelis nebulosa_), pero fue declarado **extinto en estado silvestre** en 2013. 💰 Las fotografías "premio" de agricultores que captan leopardos de Formosa en el marco del programa de pagos ecosistémicos se han convertido inesperadamente en contenido popular en redes sociales. 🐕 En los casos de ataques de perros al leopardo de Formosa, los atacantes son en su mayoría **jaurías de perros vagabundos** (3 o más), no perros callejeros solitarios. 🗳️ El reglamento de conservación del leopardo de Formosa en Miaoli fue rechazado **dos veces** por el consejo del condado antes de ser aprobado en la tercera ocasión, mientras Miaoli simultáneamente utilizaba al leopardo de Formosa como mascota turística. 📸 La red de cámaras trampa del Centro de Investigación y Conservación de Especies Endémicas es actualmente el método más sistemático para monitorear la dinámica poblacional del leopardo de Formosa, pero su cobertura aún no alcanza la mitad de su hábitat.
+☠️ Taiwán tuvo alguna vez al leopardo nublado (_Neofelis nebulosa_), pero fue declarado **extinto en estado silvestre** en 2013. 💰 Las fotografías "premio" de agricultores que captan leopardos de Formosa en el marco del programa de pagos ecosistémicos se han convertido inesperadamente en contenido popular en redes sociales. 🐕 En los casos de ataques de perros al leopardo de Formosa, los atacantes son en su mayoría **jaurías de perros vagabundos** (3 o más), no perros callejeros solitarios. 🗳️ El reglamento de conservación del leopardo de Formosa en Miaoli fue rechazado **dos veces** por el consejo del condado antes de ser aprobado en la tercera ocasión, mientras Miaoli simultáneamente utilizaba al leopardo de Formosa como mascota turística. 📸 La red de cámaras trampa del Instituto de Investigación de Biodiversidad (TBRI) del Ministerio de Agricultura es actualmente el método más sistemático para monitorear la dinámica poblacional del leopardo de Formosa, pero su cobertura aún no alcanza la mitad de su hábitat.
 
 ---
 
@@ -184,15 +184,14 @@ A los taiwaneses les gusta decir "si rezas, se te protege". Pero el leopardo de 
 
 ## Referencias
 
-Si deseas consultar reportajes y fuentes más completos, puedes comenzar por las series especiales de Wuo Wuo.
+[^1]: [Reglamento autonómico de conservación del leopardo de Formosa en Miaoli - Environmental Information Center](https://e-info.org.tw/node/221882) — Confirma que la Asamblea del Condado de Miaoli aprobó en tercera lectura el reglamento autonómico de conservación del leopardo de Formosa el 10 de diciembre de 2019.
+[^2]: [Wuo Wuo: ¡Plum! Y luego me convertí en carne seca — Reportaje sobre atropellos](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Estadísticas de atropellos de leopardos de Formosa entre 2017 y 2023.
+[^3]: [Programa de Pagos por Servicios Ecosistémicos del Leopardo de Formosa del Ministerio de Agricultura](https://www.moa.gov.tw/) — Descripción del programa de subsidios a la agricultura amigable con el leopardo de Formosa.
+[^4]: [Instituto de Investigación de Biodiversidad (TBRI) del Ministerio de Agricultura](https://www.tbri.gov.tw/) — Programa de reproducción en cautividad del leopardo de Formosa e investigación de conservación.
+[^5]: [Wuo Wuo: Antes de la extinción — Reportaje especial sobre el leopardo de Formosa en Taiwán](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Reportaje completo sobre el estado actual de la conservación del leopardo de Formosa en Taiwán.
 
-Para información oficial actualizada, las páginas del Centro de Investigación y Conservación de Especies Endémicas y del Ministerio de Agricultura también recopilan numerosos datos sobre el estado actual y las políticas.
+Lecturas complementarias:
 
-Los siguientes enlaces ofrecen lecturas complementarias:
-
-- [Wuo Wuo: Antes de la extinción — Reportaje especial sobre el leopardo de Formosa en Taiwán](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat)
-- [Wuo Wuo: Una amenaza subestimada — Ataques de perros al leopardo de Formosa](https://wuo-wuo.com/topics/widlife/dogkill)
-- [Wuo Wuo: ¡Plum! Y luego me convertí en carne seca — Reportaje sobre atropellos](https://wuo-wuo.com/topics/widlife/94-road-killing-topic)
-- [Centro de Investigación y Conservación de Especies Endémicas](https://www.tbri.gov.tw/)
-- [Programa de Pagos por Servicios Ecosistémicos del Leopardo de Formosa del Ministerio de Agricultura](https://www.moa.gov.tw/)
-- [Embajadores de la conservación del leopardo de Formosa — Familia Ahú](https://www.facebook.com/LeopardCatTaiwan/)
+- [Wuo Wuo: Una amenaza subestimada — Ataques de perros al leopardo de Formosa](https://wuo-wuo.com/topics/widlife/dogkill) — Registro de casos de ataques caninos al leopardo de Formosa.
+- [Agencia Forestal y de Conservación Natural del Ministerio de Agricultura](https://www.forest.gov.tw/) — Política de conservación del hábitat del leopardo de Formosa.
+- [Embajadores de la conservación del leopardo de Formosa — Familia Ahú](https://www.facebook.com/LeopardCatTaiwan/) — Actualización del programa de reproducción en cautividad del TBRI.

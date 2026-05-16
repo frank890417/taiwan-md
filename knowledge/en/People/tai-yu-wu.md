@@ -1,17 +1,17 @@
 ---
-title: 'Wu Ta-you'
+title: "Wu Ta-you: The Academia Sinica President Who Recommended Yang and Lee to the US, and His Eleven Years Laying Taiwan's Scientific Foundations"
 description: "Theoretical physicist and president of Academia Sinica; mentor to Nobel laureates Yang Chen-ning and Lee Tsung-dao; the foundational figure who built Taiwan's scientific enterprise"
 date: 2026-03-19
 tags: ['people', 'scientists', 'physics', 'education', 'Academia Sinica']
 subcategory: '科學與學術'
-lastVerified: 2026-04-04
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 featured: true
 translatedFrom: 'People/吳大猷.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:341c2f3308bef4d0'
-sourceBodyHash: 'sha256:b758182bc81d64b1'
-translatedAt: '2026-05-01T12:21:52+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:ea84edf10c10d1a4'
+sourceBodyHash: 'sha256:54cafe2c5032e30e'
+translatedAt: '2026-05-16T21:50:00Z'
 category: People
 ---
 
@@ -25,7 +25,7 @@ Wu Ta-you was born in 1907 in Gaoyao, Guangdong, and as a child moved with his f
 
 His main academic contributions were concentrated in molecular spectroscopy and theoretical research in quantum mechanics. The quantum structure of the hydrogen molecular ion, calculations of vibrational-rotational spectra in polyatomic molecules — these were frontier questions in physics in the 1930s and 1940s, and they were his core research domain. This kind of research doesn't make newspaper front pages, but it was precisely this kind of patient theoretical work that enabled physics to handle increasingly complex molecular systems in the decades that followed.
 
-Note: Wu Ta-you's academic style was of the "slow and meticulous" type — not making a breathtaking discovery, but laying a foundational platform for those who came after to stand on. This kind of work is easily overlooked in an era that prizes speed, but the list of talent he cultivated is itself the best proof.
+Note: Wu Ta-you's academic style was of the "slow and meticulous" type: the focus of his work was not making a breathtaking discovery, but laying a foundational platform for those who came after to stand on. This kind of work is easily overlooked in an era that prizes speed, but the list of talent he cultivated is itself the best proof.
 
 From 1934, Wu Ta-you taught at the University of Michigan, conducting research while teaching, until 1946. During this period, he gradually developed a rigorous yet open teaching style: demanding precision, while never suppressing students' intuitions.
 
@@ -33,13 +33,13 @@ From 1934, Wu Ta-you taught at the University of Michigan, conducting research w
 
 In 1946, Wu Ta-you received a batch of U.S. study abroad spots from the Chinese government. He selected two students — Yang Chen-ning and Lee Tsung-dao — and recommended them for advanced study in the United States. Yang Chen-ning went to the University of Chicago to do research with Enrico Fermi; Lee Tsung-dao entered the same university and later turned toward theoretical physics.[^3]
 
-Yang Chen-ning later recalled: "What Professor Wu taught me was not how to solve problems, but how to find problems worth solving." Lee Tsung-dao also said that Wu Ta-you never told him what to research, only taught him how to distinguish whether a question was truly important.[^4]
+Yang Chen-ning later recalled that the core of what Professor Wu taught him was "how to find problems worth solving." Lee Tsung-dao also said that Wu Ta-you never told him what to research, only taught him how to distinguish whether a question was truly important.[^4]
 
 > "The value of science lies not in the answer, but in the way the question is asked." — Wu Ta-you
 
 In 1957, Yang Chen-ning and Lee Tsung-dao jointly received the Nobel Prize in Physics for their theoretical work on parity violation, becoming the first Chinese scientists to receive a Nobel Prize in science.[^5] The expression on Wu Ta-you's face when he read the news — that sense of confirmation — was because this was precisely the kind of thinking he had taught: take something everyone assumes to be true, and ask — is it really?
 
-Note: The core of parity violation was questioning a symmetry that the physics world had assumed was "of course" true. Two Chinese students used their teacher's method to overturn a "law" — what Wu Ta-you confirmed was not the result, but the method.
+Note: The core of parity violation was questioning a symmetry that the physics world had assumed was "of course" true. Two Chinese students used their teacher's method to overturn a "law" — what Wu Ta-you confirmed was that the method itself really worked.
 
 ## Eleven Years at Academia Sinica
 
@@ -55,7 +55,7 @@ Wu Ta-you is often called "the father of Chinese physics," but this title sits s
 
 His career at the University of Michigan, his mentorship of Yang Chen-ning and Lee Tsung-dao, his eleven years at Academia Sinica — taken together, these constitute a scientific inheritance spanning the mainland, the United States, and Taiwan. His work does not belong to any single place, but Taiwan was where he put down his final roots.
 
-In January 2000, Wu Ta-you passed away in San Francisco at the age of ninety-three.[^7] In his memorial essay, Yang Chen-ning wrote: "Professor Wu's importance is very difficult to measure by standard academic assessments — what he taught was not only physics, but how to be a true scientist." This kind of influence is indeed very hard to capture in any citation index or paper count.
+In January 2000, Wu Ta-you passed away in San Francisco at the age of ninety-three.[^7] In his memorial essay, Yang Chen-ning wrote: "Professor Wu's importance is very difficult to measure by standard academic assessments — what he taught people was how to be a true scientist; physics was only one part of it." This kind of influence is indeed very hard to capture in any citation index or paper count.
 
 ---
 

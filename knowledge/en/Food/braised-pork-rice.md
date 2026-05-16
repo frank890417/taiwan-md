@@ -15,19 +15,21 @@ author: 'Taiwan.md'
 readingTime: 8
 featured: true
 category: 'Food'
-lastVerified: 2026-03-19
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 image: '/images/food/braised-pork-rice.jpg'
 imageAlt: 'Taichung-style braised pork rice'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣滷肉飯.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:d6df6399bab845eb'
-sourceBodyHash: 'sha256:e9ea9cd2c7bc6b3d'
-translatedAt: '2026-04-30T22:33:56+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:a48bbcb702fb632d'
+sourceBodyHash: 'sha256:41cfdb3eed2dcde1'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 # Braised Pork Rice (滷肉飯)
+
+> **30-second overview:** Braised pork rice is a core vessel of everyday Taiwanese food memory, born in the kitchens of military dependents' villages after 1949. The north calls it 滷肉飯 (lǔròu fàn); the south, 肉燥飯 (ròuzào fàn). The cuts, knife work, and seasoning all differ—a north-south naming war that masks a culinary divergence. In 2011, the English edition of the Michelin Guide mistranslated it as "Shandong-style," sparking a nationwide naming-correction movement; since then, "braised pork rice is an authentic, ordinary Taiwanese dish" has become the international consensus.
 
 ![Braised Pork Rice in Taichung](/images/food/braised-pork-rice.jpg)
 _Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Braised_pork_rice_in_Taichung.jpg) | CC BY-SA | photographer unknown_
@@ -80,7 +82,13 @@ The microwaveable braised pork rice in convenience stores is itself a portrait o
 
 The most interesting development is the "hipster" version of braised pork rice. Some new-wave restaurants repackage the dish with refined plating and literary-café decor to attract younger crowds. Critics call this "pretentious," but it has also injected fresh energy into a traditional dish.
 
-The story of braised pork rice continues. On Taiwanese soil, every bowl carries a different memory and feeling — from a village grandma's homesick taste, to an office worker's healing lunch, to a tourist's first Taiwanese experience. This seemingly simple dish is, in fact, a microcosm of Taiwan's social transformation, and a vessel for cultural identity.
+From a village grandmother's homesick taste, to an office worker's healing lunch, to a tourist's first Taiwanese experience — every bowl of braised pork rice carries a different memory. This seemingly simple dish is, in fact, a microcosm of Taiwan's social transformation, and a concrete vessel for cultural identity.
+
+## Further Reading
+
+- [Beef Noodle Soup](/food/牛肉麵) — Another national dish brought to Taiwan by 1949 mainlander immigrants; shares its military-dependents'-village lineage with braised pork rice
+- [Taiwanese Breakfast Culture](/food/台灣早餐文化) — From shaobing and youtiao to burgers and rice balls, another facet of Taiwan's culinary fusion
+- [The KMT's Relocation to Taiwan and Postwar Reconstruction](/history/國民政府遷台與戰後重建) — The historical backdrop for braised pork rice's birth: 1.2 million troops and civilians arriving and reshaping the foodscape
 
 ## References
 

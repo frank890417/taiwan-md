@@ -1,27 +1,25 @@
 ---
-title: 'Tsai Ing-wen'
+title: 'Tsai Ing-wen: From an 800,000-Vote Defeat to an 8.17 Million-Vote Re-election as Taiwan’s First Female President'
 description: "Taiwan's first female president (2016–2024), a scholar of international trade law by training, who oversaw Asia's first same-sex marriage legislation, formally apologized to Indigenous peoples on behalf the government, and is of Paiwan descent"
 date: 2026-03-17
 tags: [人物, 蔡英文, 總統, 女性領袖, 民主, 政治, 原住民族]
 subcategory: '政治與民主'
-lastVerified: 2026-04-04
+lastVerified: 2026-05-16
 lastHumanReview: 2026-04-04
 translatedFrom: People/蔡英文.md
-sourceCommitSha: '790cd351'
-sourceContentHash: 'sha256:c83fd3ce9c9d29bb'
-sourceBodyHash: 'sha256:a99640d8582ca9af'
-translatedAt: '2026-05-13T01:07:52Z'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:d4925ffaac58660e'
+sourceBodyHash: 'sha256:c49502db85e74424'
+translatedAt: '2026-05-17T05:38:00Z'
 ---
 
 # Tsai Ing-wen
 
+> **30-second overview:** Tsai Ing-wen was born in Taipei in 1956 and is of Paiwan descent.[^3] She graduated from National Taiwan University's law department, earned an LL.M. from Cornell University, and completed her Ph.D. in law at the London School of Economics and Political Science. Before entering politics, she was a scholar of international trade law and a WTO negotiator. She served as president from 2016 to 2024, during which time she oversaw Asia's first same-sex marriage legislation,[^4] formally apologized to Indigenous peoples on behalf of the government,[^5] pushed through pension reform, and led Taiwan through the initial phase of COVID-19. In 2020, she was re-elected with 8.17 million votes—the highest vote total in the history of Taiwan's directly elected presidents.[^6]
+
 On the evening of January 14, 2012, Tsai Ing-wen lost the presidential election by eight hundred thousand votes. On election night, she stood before her supporters and said: "You may weep, but do not lose heart. You may grieve, but do not give up."[^1]
 
 Four years later, she won 6.89 million votes, a 56.1 percent share, becoming the fourteenth president of the Republic of China and Taiwan's first female head of state.[^2]
-
-## 30-Second Overview
-
-Tsai Ing-wen was born in Taipei in 1956 and is of Paiwan descent.[^3] She graduated from National Taiwan University's law department, earned an LL.M. from Cornell University, and completed her Ph.D. in law at the London School of Economics and Political Science. Before entering politics, she was a scholar of international trade law and a WTO negotiator. She served as president from 2016 to 2024, during which time she oversaw Asia's first same-sex marriage legislation,[^4] formally apologized to Indigenous peoples on behalf of the government,[^5] pushed through pension reform, and led Taiwan through the initial phase of COVID-19. In 2020, she was re-elected with 8.17 million votes—the highest vote total in the history of Taiwan's presidential elections.[^6]
 
 ## The Youngest of Eleven
 
@@ -79,17 +77,17 @@ During Tsai Ing-wen's eight years in office, military pressure across the Taiwan
 
 In August 2022, U.S. House Speaker Nancy Pelosi visited Taiwan.[^11] China's response was military exercises encircling Taiwan—the PLA launched eleven ballistic missiles, five of which fell within Japan's exclusive economic zone. For all of 2022, PLA aircraft crossed the Taiwan Strait median line 564 times, twenty-four times the total of all previous years combined.[^9]
 
-Tsai's strategy was to neither provoke nor concede. She did not declare independence, nor did she accept the 1992 Consensus. She bought weapons, strengthened reserve mobilization, and deepened unofficial ties with the United States and Japan. It was a status without a name—neither unification nor independence, but an existence sustained in the cracks.
+Tsai's strategy was to neither provoke nor concede. She did not declare independence, nor did she accept the 1992 Consensus. She bought weapons, strengthened reserve mobilization, and deepened unofficial ties with the United States and Japan. It was a status without a name: between unification and independence, leaving a space where Taiwan could continue to exist.
 
 ## The Departure
 
 On May 20, 2024, Tsai Ing-wen left office. Her vice president, Lai Ching-te, had won the presidential election the previous January—marking the first time the DPP won three consecutive presidential elections, unprecedented in Taiwan's democratic history.[^12]
 
-She was named to the _TIME_ 100 Most Influential People twice (2016 and 2020).[^13] After leaving office, she visited Lithuania, Denmark, and the United Kingdom in a private capacity.
+She was named to the _TIME_ 100 Most Influential People twice (2016 and 2020).[^13] After leaving office, she did not really retire from public life: in October 2024, in a private capacity, she visited the Czech Republic, Lithuania, and the United Kingdom, and her speech inside the European Parliament made her the first former Taiwanese president to address the chamber from within.[^16] The same year she also returned to Japan, giving a public lecture at Waseda University.
 
-She kept two cats—Tsai Xiang-xiang (a gray tabby rescued after a typhoon in 2012) and Tsai A-cai (an orange cat found in Taitung in 2015).[^14] She never married. During the 2016 campaign, China's Xinhua News Agency published a commentary implying that "unmarried women are emotionally unstable," which was widely condemned as sexist.[^14]
+She kept two cats—Tsai Xiang-xiang, a gray-and-white tabby rescued by legislator Hsiao Bi-khim at Heping Station in Hualien after Typhoon Soula in 2012; and Tsai A-cai, an orange cat adopted from a pineapple field in the Pasikau community in Taitung in 2015.[^14] She never married. After her election victory in May 2016, _International Herald Leader_, under China's Xinhua News Agency, published an article titled "Profile of Tsai Ing-wen," linking her status as "an unmarried female politician" to "extremist behavior," which was condemned as sexist by multiple foreign outlets.[^15]
 
-Tsai Ing-wen spent eight years proving one thing: a scholar-type politician who is not good at giving speeches, does not enjoy handshakes, and does not like appearing on television can, in an age of global populism, govern a country through the power of law and institutions. What she left behind is not just policy—it is evidence that quietness can be a form of leadership.
+Tsai Ing-wen spent eight years proving one thing: a scholar-type politician who is not good at giving speeches, does not enjoy handshakes, and does not like appearing on television can, in an age of global populism, govern a country through the power of law and institutions. Beyond the policies she left behind, there is an even harder-to-replicate piece of evidence: quietness can also be a form of leadership.
 
 **Further Reading**:
 
@@ -99,10 +97,7 @@ Tsai Ing-wen spent eight years proving one thing: a scholar-type politician who 
 - [History and Name Rectification Movement of Taiwan's Indigenous Peoples](/history/台灣原住民族歷史與正名運動) — The struggle from "mountain compatriots" to "Indigenous peoples"
 - [Sunflower Student Movement](/society/太陽花學運) — The 2014 social movement that reshaped Taiwan's political landscape
 - [Chou Tzu-yu](/people/周子瑜) — The 90-second apology video on the eve of the 2016 election that prompted Tsai's victory speech line, "No one should have to apologize for their identity"
-- [Jenna Chiu](/people/賈永婕) — On the other end of that "120% beautiful girl" phone call in June 2021; the HFNC fundraising drive was a rare instance of synchronization between civil mobilization and the Presidential Office
-- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — Tsai's two visits to Eswatini (2018 + 2023), corresponding to the two phases of Taiwan-Eswatini diplomatic relations, the 55th anniversary commemoration, and the signing of the women's entrepreneurship microloan revolving fund
 - [Thinking Taiwan](/society/想想論壇) — The commentary platform under the Hsiao-Ying Education Foundation established by Tsai after her 2012 defeat; relaunched in October 2025, five months after her retirement
-- [Aaron Nieh (聶永真)](/people/聶永真) — The designer who created the main visuals for Tsai's 2016 "Light Up Taiwan" and 2020 presidential campaigns and inauguration ceremonies; another chapter in Taiwan's political design history
 
 ## References
 
@@ -124,12 +119,16 @@ Tsai Ing-wen spent eight years proving one thing: a scholar-type politician who 
 
 [^9]: [CSIS: Cross-Strait Relations Under Tsai](https://www.csis.org/) — Center for Strategic and International Studies analysis of cross-strait relations during Tsai's tenure, including the figure of 564 PLA median-line crossings in 2022.
 
-[^10]: [NPR: How Taiwan Battled Covid-19](https://www.npr.org/sections/goatsandsoda/2020/07/15/887616529/) — Reports on Taiwan's early COVID-19 response measures (mask rationing, contact tracing) dubbed the "Taiwan model."
+[^10]: [Nature Immunology: Taiwan's experience in fighting COVID-19](https://www.nature.com/articles/s41590-021-00908-2) — Nature Immunology peer-reviewed article documenting the four principles of the "Taiwan model" (prompt action, early deployment, careful action, and transparency), including the mask-rationing system and CECC integration mechanism.
 
-[^11]: [CNN: Pelosi's Taiwan Visit](https://edition.cnn.com/2022/08/02/politics/nancy-pelosi-taiwan/) — Reports on Nancy Pelosi's August 2022 visit to Taiwan and China's subsequent military exercises encircling the island, including the figure of 11 ballistic missiles.
+[^11]: [Wikipedia: 2022 Nancy Pelosi Visit to Taiwan](https://zh.wikipedia.org/zh-tw/2022%E5%B9%B4%E5%8D%97%E8%A5%BF%C2%B7%E8%A3%B4%E6%B4%9B%E8%A5%BF%E8%A8%AA%E5%95%8F%E5%8F%B0%E7%81%A3) — Full record of Pelosi's August 2, 2022 visit and China's subsequent four-day military exercises encircling Taiwan, with 11 Dongfeng missiles (4 of which passed over Taiwan, 5 falling within Japan's EEZ).
 
 [^12]: [Focus Taiwan: Lai Ching-te wins 2024 presidential election](https://focustaiwan.tw/politics/202401130014) — CNA English-language report on the 2024 election results, the DPP's first three consecutive presidential victories.
 
-[^13]: [TIME: The 100 Most Influential People](https://time.com/collection/100-most-influential-people-2020/5888228/tsai-ing-wen/) — Tsai Ing-wen's 2020 inclusion in the TIME 100, with a profile written by Ted Cruz.
+[^13]: [TIME: The 100 Most Influential People of 2020 — Tsai Ing-wen](https://time.com/collection/100-most-influential-people-2020/5888307/tsai-ing-wen/) — Tsai's 2020 selection for the TIME 100, with a profile written by U.S. Senator Ted Cruz, affirming her pandemic response and democratic leadership.
 
-[^14]: [Reuters: Taiwan's cat-loving president](https://www.reuters.com/article/us-taiwan-president-cats-idUSKCN0Z005V) — Reports on Tsai's two cats (Tsai Xiang-xiang and Tsai A-cai) and the Xinhua sexism controversy.
+[^14]: [Mirror Media: The Tsai You Don't Know — Xiang-xiang and A-cai Throwing Tantrums, A Cat-Owner President Has Headaches](https://www.mirrormedia.mg/story/20180417inv031) — Mirror Media in-depth coverage of Tsai's two cats, "Tsai Xiang-xiang" (a gray-and-white tabby rescued by Hsiao Bi-khim at Heping Station in Hualien after Typhoon Soula in 2012) and "Tsai A-cai" (an orange cat adopted from a pineapple field in the Pasikau community in Taitung in 2015), with adoption stories and daily life.
+
+[^15]: [The News Lens: Chinese State Media's "Profile of Tsai Ing-wen" Cites Single Status; Multiple Foreign Outlets Call It "Sexist"](https://www.thenewslens.com/article/40537) — Coverage of how in May 2016, _International Herald Leader_, under China's Xinhua News Agency, published Wang Weixing's "Profile of Tsai Ing-wen," linking her status as "an unmarried female politician" to "extremist behavior"; BBC, CNN, the Guardian and other foreign outlets criticized it as sexist.
+
+[^16]: [Focus Taiwan: Tsai Ing-wen's Historic Visit to the European Parliament](https://focustaiwan.tw/cross-strait/202410100009) — Report on Tsai's October 2024 visit to the Czech Republic, Lithuania, and the United Kingdom in a private capacity, and her becoming the first former Taiwanese president to speak inside the European Parliament chamber.

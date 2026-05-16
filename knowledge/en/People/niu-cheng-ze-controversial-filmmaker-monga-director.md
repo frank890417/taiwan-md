@@ -6,16 +6,16 @@ tags: ['Niu Cheng-Ze', 'Director', 'Actor', 'Monga', 'Controversy']
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-19
 translatedFrom: 'People/鈕承澤.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:c412539523fe8a6a'
-sourceBodyHash: 'sha256:542c1db901d15440'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:03252333a42bc60e'
+sourceBodyHash: 'sha256:decf157a216cec86'
+translatedAt: '2026-05-16T21:50:00Z'
 category: People
 ---
 
 # Niu Cheng-Ze: Talent and Controversy in Taiwan Cinema
 
-Niu Cheng-Ze (鈕承澤) is a well-known Taiwan director and actor, renowned for directing films such as "Monga" and "Paradise in Service." From child star origins to directorial transformation, his works frequently touched upon sensitive issues in Taiwanese society with a strong personal style. However, following a 2018 prosecution for sexual assault, his career and artistic evaluation became overshadowed, making him a controversial figure in Taiwan's film industry.
+From "Monga" to "Paradise in Service," Niu Cheng-Ze established his standing in cinema with a powerful personal style, his works frequently touching on sensitive issues in Taiwanese society. In 2018, accusations of sexual assault and the subsequent guilty verdict tied his name to Taiwan's #MeToo wave, abruptly ending his career.
 
 ## Child Star Beginnings
 
@@ -31,7 +31,7 @@ As an adult, Niu continued his acting career, appearing in films like "Old Mo's 
 
 Under Hou's guidance, he learned the essence of cinematic art, profoundly influencing his later creative style. He began contemplating film's deeper meanings beyond commercial entertainment.
 
-His 1980s acting experience allowed Niu to accumulate rich performance skills while developing comprehensive understanding of filmmaking, laying groundwork for his directorial transition.
+His 1980s acting experience gave Niu a solid foundation in performance technique; more importantly, it built his first-hand understanding of the entire film production process.
 
 ## Successful Television Transition
 
@@ -87,7 +87,7 @@ In 2018, Niu was accused of sexually assaulting female staff members, generating
 
 During case proceedings, more victims came forward with accusations, revealing the problem's severity. These allegations caused devastating damage to his reputation and career.
 
-In 2021, Taipei District Court found Niu guilty, sentencing him to 4 years imprisonment. This verdict confirmed his criminal behavior and ended his entertainment career.
+At first instance, the Taipei District Court found Niu guilty in April 2020 and sentenced him to 4 years' imprisonment; the Taiwan High Court upheld the verdict on appeal in December 2020; and the Supreme Court dismissed the final appeal in September 2021, making the judgment final[^1]. This final verdict confirmed his criminal behavior and ended his entertainment career.
 
 ## Impact on Taiwan's Film Industry
 
@@ -111,7 +111,7 @@ Niu's case demonstrated Taiwan's judicial system's handling of sexual violence c
 
 While the verdict provided victims with some degree of justice, it also sparked discussion about whether the sentence was appropriate.
 
-This case became an important example for Taiwan's legal education, reminding people that power cannot override law.
+The case prompted deep public discussion in Taiwan over the relationship between "talent" and "character," and became a reference case for subsequent workplace gender-safety education among film and television practitioners.
 
 ## Lessons for Taiwan's Film Industry
 
@@ -125,6 +125,9 @@ Niu Cheng-Ze's case represents an important turning point for Taiwan's film and 
 
 ## References
 
-- [Niu Cheng-Ze Sexual Assault Case Verdict — Judicial Yuan Legal Database](https://judgment.judicial.gov.tw/) — Court judgment documents
-- [Gender Equality in Taiwan's Film Industry — Ministry of Culture](https://www.moc.gov.tw/) — Policies and measures
-- [MeToo Movement in Taiwan — Awakening Foundation](https://www.awakening.org.tw/) — Social movement archives
+[^1]: Taro News, "Niu Cheng-Ze sexual assault case final verdict at Supreme Court: 4 years' imprisonment," https://taronews.tw/, September 2021
+[^2]: Judicial Yuan Legal Database, Niu Cheng-Ze sexual assault case judgment documents, https://judgment.judicial.gov.tw/
+[^3]: Central News Agency, "Niu Cheng-Ze sexual assault case: Taipei District Court first-instance guilty verdict, 4 years," https://www.cna.com.tw/, April 2020
+[^4]: Ministry of Culture, Gender Equality Policy for Taiwan's Film and Television Industry, https://www.moc.gov.tw/
+[^5]: Awakening Foundation, advocacy materials on the MeToo movement in Taiwanese society, https://www.awakening.org.tw/
+[^6]: Wikipedia "Niu Cheng-Ze" entry, https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4

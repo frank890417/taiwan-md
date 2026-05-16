@@ -4,17 +4,17 @@ description: 'Un buque de carga de segunda mano con 15 años de antigüedad, que
 date: '2026-03-24'
 author: 'Taiwan.md'
 subcategory: '企業列傳'
-tags: [Economía, Empresas, Industria naviera, Logística, Comercio internacional]
+category: 'Economy'
+tags: ['Economía', 'Empresas', 'Industria naviera', 'Logística', 'Comercio internacional']
 readingTime: 9
 lastVerified: '2026-03-24'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：長榮海運.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:568e51f4fe252bc3'
-sourceBodyHash: 'sha256:31112da08c38be6e'
-translatedAt: '2026-05-01T22:19:10+08:00'
-category: Economy
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:1c4a36ed4e1a92ab'
+sourceBodyHash: 'sha256:ca85e8a4f1c5db73'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 > **Resumen en 30 segundos**
@@ -33,7 +33,7 @@ Dos intentos de emprender en sociedad terminaron en fracaso. El 1 de septiembre 
 
 ## Apostando todo a la contenedorización
 
-En la década de 1970, el transporte marítimo global estaba experimentando una revolución: 貨櫃化（台灣交通運輸網路）. Las mercancías a granel se empezaron a meter en cajas de hierro estándar, el papel de los estibadores fue sustituido por grúas y los barcos se construían cada vez más grandes. La mayoría de las navieras asiáticas seguían esperando, pero Chang Yung-fa ya se había puesto en marcha.
+En la década de 1970, el transporte marítimo global estaba experimentando una revolución: la contenedorización. Las mercancías a granel se empezaron a meter en cajas de hierro estándar, el papel de los estibadores fue sustituido por grúas y los barcos se construían cada vez más grandes. La mayoría de las navieras asiáticas seguían esperando, pero Chang Yung-fa ya se había puesto en marcha.
 
 Invirtió dos años y un millón de dólares en investigación de mercado para obtener el apoyo financiero de la trading company japonesa Marubeni (cita de un reportaje de la revista CommonWealth titulado «Chang Yung-fa de Evergreen Marine: la estrategia del líder»). En 1975, Evergreen abrió una ruta regular de contenedores completos desde el Lejano Oriente hasta la costa este de Estados Unidos, convirtiéndose en la primera naviera taiwanesa en hacerlo.
 

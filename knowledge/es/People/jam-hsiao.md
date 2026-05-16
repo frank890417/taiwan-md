@@ -11,15 +11,17 @@ tags:
     'Premios Golden Melody',
     'Dios de la Lluvia',
   ]
+category: 'People'
 subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: People/蕭敬騰.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:4623d2d2492d155b
-sourceBodyHash: 'sha256:be34f4048a4b8d45'
-translatedAt: 2026-05-02T02:09:57+08:00
-category: People
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:e2c4ed735d6b95d6'
+sourceBodyHash: 'sha256:c7c3b5e2d3b2bfa1'
+translatedAt: '2026-05-17T06:00:00Z'
 ---
 
 # Jam Hsiao: la leyenda de la voz más impredecible de Taiwán
@@ -40,7 +42,7 @@ En 2007, Hsiao originalmente quería participar en la segunda temporada de _Supe
 > El formato de retadores invitados estaba diseñado para añadir tensión al programa, pero la aparición de Hsiao transformó ese segmento en el plato fuerte.
 > Demostró que, a veces, las historias más fascinantes vienen de quienes estaban "fuera del plan".
 
-**En su primer reto, Hsiao ganó. En el segundo, volvió a ganar y la audiencia se disparó al 4,06 %.** Aunque perdió en el tercer enfrentamiento, esos tres episodios bastaron para convertir a aquel "concursante no oficial" en una sensación mediática, colocándolo como la tercera persona más buscada en las noticias de Yahoo! Taiwán en 2007 y en el segundo lugar del ranking de celebridades de Google.
+**En su primer reto, Hsiao ganó. En el segundo, volvió a ganar y la audiencia se disparó al 4,06 %.** Aunque perdió en el tercer enfrentamiento, esos tres episodios bastaron para convertir a aquel "concursante no oficial" en una sensación mediática, colocándolo como la tercera persona más buscada en las noticias de Yahoo！ Taiwán en 2007 y en el segundo lugar del ranking de celebridades de Google.
 
 Más importante aún, su duelo con Aska Yang hizo que _Traición_ (_背叛_), de Gary Cao, se convirtiera en un éxito masivo en Taiwán. **Un retador invitado no solo cambió su propio destino, sino que también resucitó una canción clásica.**
 

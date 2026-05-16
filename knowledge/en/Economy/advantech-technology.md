@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:a8a721f10cbcd9e7'
-sourceBodyHash: 'sha256:03acf2baf95f172e'
-translatedAt: '2026-05-15T13:52:05+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:112d5462cd729b62'
+sourceBodyHash: 'sha256:b5a4691fec4a12e4'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 > **30-Second Overview**
@@ -63,7 +63,7 @@ Advantech is the global leader in the industrial computer market and also a lead
 
 In 1983, three former Hewlett-Packard (HP) engineers, K.C. Liu, Yu-Min Huang, and Yung-Shun Chuang, founded Advantech in Taiwan based on their sharp insight into the industrial computer market. Personal computers were emerging at the time, but the industrial sector still lacked stable and reliable computing equipment. This group of engineers identified that market gap.
 
-Founder K.C. Liu graduated from the Department of Communication Engineering at National Chiao Tung University[^1]. His experience as a sales engineer[^2] in Hewlett-Packard Taiwan’s instruments division gave him a deep understanding of the real needs of industrial customers. In its early years, the company focused on producing industrial computers that could operate reliably in harsh environments, providing technical support for the transformation and upgrading of Taiwan’s manufacturing sector.
+Founder K.C. Liu graduated from the Department of Communication Engineering at National Chiao Tung University[^1]. His experience as a sales engineer[^2] in Hewlett-Packard Taiwan’s instruments division gave him a deep understanding of the real needs of industrial customers. In its early years, the company focused on producing industrial computers that could operate reliably in harsh environments, providing technical support for the transformation and upgrading of Taiwan’s manufacturing sector. Advantech's earliest products were IBM PC-compatible industrial computers, specially hardened for industrial use so they could run reliably under high temperatures, vibration, and dust. This "rugged reliability first" design philosophy, combined with a focus on industrial vertical markets rather than chasing consumer PCs, gave Advantech a clear point of differentiation among Taiwan's many electronics makers. Key early products included industrial passive-backplane systems, industrial-grade motherboards (IPC), and single-board computers (SBC) — the latter widely used in factory-automation instruments, machine controllers, and measurement systems, becoming foundational components for the digitalization of Taiwan's small and mid-sized manufacturers.
 
 ### Establishing a Foothold (1990-2000)
 
@@ -79,7 +79,7 @@ At this stage, Advantech was not only a hardware manufacturer but also began to 
 
 ### IoT Transformation (2010-2020)
 
-After the Internet of Things concept took off, Advantech transformed from a traditional industrial computer manufacturer into an IoT solutions provider. This transformation was built on many years of accumulation in industrial automation. The company combined its existing hardware products with cloud technologies and big data analytics to launch complete AIoT (Artificial Intelligence of Things) solutions.
+After the Internet of Things concept took off, Advantech transformed from a traditional industrial computer manufacturer into an IoT solutions provider. This transformation was built on many years of accumulation in industrial automation. The company combined its existing hardware products with cloud technologies and big data analytics to launch complete AIoT (Artificial Intelligence of Things) solutions. The flagship outcome of this phase was the WISE-PaaS industrial IoT cloud platform, which bundles modules for device connectivity, data collection, analytics and visualization, and an application marketplace (WISE-Marketplace). Through WISE-PaaS, Advantech sells not only hardware but also subscription-based services, and it has drawn outside developers to build vertical-industry applications on the platform — gradually shaping an industrial IoT ecosystem centered on Advantech itself.
 
 ### The Edge Computing Era (2020-Present)
 

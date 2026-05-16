@@ -11,8 +11,8 @@ featured: false
 lastHumanReview: false
 translatedFrom: Lifestyle/尪仔標.md
 sourceCommitSha: 'eb7c1efb'
-sourceContentHash: 'sha256:ba5e9d32f7d28511'
-sourceBodyHash: 'sha256:cac04e52e2b818d6'
+sourceContentHash: 'sha256:20a6968836a636ac'
+sourceBodyHash: 'sha256:b413f755105bbf3c'
 translatedAt: '2026-05-09T06:27:06Z'
 ---
 

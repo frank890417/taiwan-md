@@ -1,7 +1,7 @@
 ---
 title: '이아영: 푸방 시스템의 ‘장기 체류형’ 한국 치어 대표'
 description: '푸방 계열에서 높은 가시성을 장기적 안정성으로 바꾼 한국 치어 — 구장과 상업 콘텐츠의 이중 축으로 자리 잡았다.'
-date: 2026-04-14
+date: 2026-05-13
 category: People
 subcategory: '팝 문화'
 tags:
@@ -16,13 +16,13 @@ tags:
   ]
 author: 'Taiwan.md Translation Team'
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-05-13
 translatedFrom: 'People/李雅英.md'
 readingTime: 9
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:83e0dbb3cbec1753'
-sourceBodyHash: 'sha256:68f630723c181a47'
-translatedAt: '2026-04-16T13:53:14+09:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:1893791073a1e549'
+sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
+translatedAt: '2026-05-17T06:30:00Z'
 ---
 
 > **30초 요약:** 대만에서 이아영은 ‘한 번 뜨고 사라지는’ 이야기가 아니라 ‘항상 그 자리에 있는’ 이야기다. 푸방에서 시즌을 넘겨 활동하며 높은 출석과 인지도를 유지했고, 한국 치어 인재를 ‘화제’에서 구장 콘텐츠의 고정 축으로 바꿨다.
@@ -36,6 +36,8 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 최근 몇 년간 푸방 가디언스는 홈 엔터테인먼트를 ‘경기×쇼’의 하이브리드에 가깝게 밀어가 왔고, 이아영은 그 제품의 중요한 얼굴이다. 다른 한국 멤버들과 함께 높은 식별도를 가진 라인업을 이루며 푸방 엔젤스 브랜드 언어를 날카롭게 한다.
 
 2026 시즌 전후, 푸방은 개막 서사 속에서 한국 ‘다섯 기둥’을 계속 강조했다. 그 라인업에 이아영이 포함된다는 것은 그녀의 가치가 단기 버즈가 아니라 제도화되었음을 보여준다.
+
+2026년 3월 푸방 가디언스 ‘Fubon Angels 시즌 개막 발표회’에서, 미디어는 여러 명의 한국 출신 멤버가 함께 등장한 장면을 보도의 중심으로 다뤘다. 《연합보》 디지털판/연합뉴스망은 현장 상호작용을 정리하며, 이아영이 중국어로 자기소개를 하고 푸방 ‘국제팀’에서의 역할 분담을 언급한 점도 함께 전했다.[출처: 연합보/연합뉴스망][^6]
 
 ## 퍼포먼스 특성과 팬 관계
 
@@ -59,8 +61,10 @@ translatedAt: '2026-04-16T13:53:14+09:00'
 
 ## 참고 자료 / 출처
 
-1. https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%9B%85%E8%8B%B1
-2. https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
-3. https://www.nownews.com/news/6679202
-4. https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8F%A0%E7%8F%A2%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%BA%8C%E4%BA%BA%E5%86%8D%E5%90%8C%E9%9A%8A-075710153.html
-5. https://www.chinatimes.com/realtimenews/20260321002084-260404
+[^6]: 연합보/연합뉴스망, 〈중직/푸방 5명 한국 출신 동반 등장 이주은 “너무 오랜만에 만나” 긴장하며 눈물〉(시즌 개막 발표회 현장 정리 포함), 2026-03-25, https://udn.com/news/story/7002/9402487
+
+그 외 검증 가능한 출처:
+
+- 위키백과(인물 개관): https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%9B%85%E8%8B%B1
+- 진르신문(NOWnews) (구장/한국 출신 관련 보도 색인): https://www.nownews.com/news/6679202
+- 중시신문망(실시간 뉴스): https://www.chinatimes.com/realtimenews/20260321002084-260404

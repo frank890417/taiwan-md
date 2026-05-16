@@ -1,128 +1,141 @@
 ---
-title: 'Le thé de Sanxia : de la spirale du « Chin-shin ganzai » à la valorisation estivale du thé au miel'
-description: 'Sanxia est la région de production de thé vert sauté la plus représentative de Taïwan. Son parcours industriel constitue une longue expérience d'« adaptation ». De la découverte par John Dodd sous le règne de Tongzhi (dynastie Qing) à la répression de l'exportation du thé vert sous l'occupation japonaise, puis à la dénomination officielle du Biluochun à la fin des années 1990, les cultivateurs de Sanxia ont défini, entre les contraintes d'une variété endémique et l'exploitation foncière, une norme locale pour le thé vert taïwanais.'
+title: 'Thé de Sanxia : de l’inflexion spiralée du « Qingxin Ganzai » à la montée en valeur miellée du thé d’été'
+description: "Sanxia est la région de production de thé vert sauté la plus représentative de Taïwan ; sa trajectoire industrielle constitue une longue expérience d’« adaptation ». Depuis la découverte de John Dodd sous l’ère Tongzhi des Qing, en passant par la répression des exportations de thé vert durant la période japonaise, jusqu’à la dénomination officielle du Biluochun à la fin des années 1990, les producteurs de thé de Sanxia ont dessiné, entre variété locale spécifique et pression de l’aménagement foncier, un standard taïwanais du thé vert."
 date: 2026-04-26
 author: 'Taiwan.md'
-category: Culture
-subcategory: LocalSpecialty
-tags: [Sanxia, Biluochun, Thé au miel, Chin-shin ganzai, Huang Wenxiong, Tianfang Tea Shop, Tribu Daba, Éducation agroalimentaire, Études de Sanxia, Jiaozijiao]
+category: 'Food'
+subcategory: 'LocalSpecialty'
+tags:
+  [
+    'Sanxia',
+    'Biluochun',
+    'thé noir au parfum de miel',
+    'Qingxin Ganzai',
+    'Huang Wenxiong',
+    'Maison de thé Tianfang',
+    'communauté de Dabao',
+    'éducation alimentaire et agricole',
+    'études de Sanxia',
+    'Taozijiao',
+  ]
 readingTime: 45
 lastVerified: 2026-04-26
 lastHumanReview: false
-translatedFrom: Food/三峽茶.md
-sourceCommitSha: 52127981
-sourceContentHash: sha256:059df39e6d896d6c
-sourceBodyHash: 'sha256:9e5c1e0488429791'
-translatedAt: 2026-05-02T01:17:16+08:00
+featured: false
+translatedFrom: 'Food/三峽茶.md'
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:39992ba044ff9cc4'
+sourceBodyHash: 'sha256:4a3a23738f45e5d9'
+translatedAt: '2026-05-17T05:34:56+08:00'
 ---
 
-> **En 30 secondes :**
-> Sanxia est la région de production de thé vert sauté la plus représentative de Taïwan. Son parcours industriel constitue une longue expérience d'« adaptation ». Autrefois, le thé Longjing nécessitait un investissement supplémentaire dans des machines de façonnage ; les cultivateurs ont donc choisi le procédé du « Biluochun », compatible avec l'équipement existant pour le thé Paochong. Après 2007, la chambre d'agriculture et le centre de recherche sur le thé ont promu un programme de valorisation de la récolte estivale, utilisant les piqûres de la cicadelle verte pour transformer le thé d'été, autrefois amer, en un thé noir au miel naturel. C'est l'histoire d'une collaboration entre artisans, organisme agricole et nature, en constante transformation au sein de plantations centenaires.
+> **Aperçu en 30 secondes :**
+> Sanxia est la région de production de thé vert sauté la plus représentative de Taïwan ; sa trajectoire industrielle constitue une longue expérience d’« adaptation ». Dans les premières années, comme le thé Longjing exigeait un investissement supplémentaire dans des machines de façonnage, les producteurs choisirent le procédé du « Biluochun », compatible avec les équipements existants du thé Baozhong ; après 2007, l’association agricole et la station d’amélioration du thé promurent un programme de revalorisation du thé d’été, utilisant les piqûres de la petite cicadelle verte pour transformer un thé d’été initialement amer et astringent en thé noir doté d’un parfum naturel de miel. C’est l’histoire d’une transformation continue, menée dans des plantations centenaires par la coopération entre artisans, association agricole et nature.
 
-Dans les années 1860, le marchand britannique John Dodd découvrit dans les collines de Sanxia (anciennement Sānjiǎyǒng) des terres propices à la culture du thé. À l'époque, les feuilles fraîches de Sanxia étaient transportées par le fleuve Tamsui vers Dadaocheng pour y être transformées, participant ainsi à la légende de l'exportation du thé oolong de Formose[^7]. Cette histoire de la culture du thé, vieille de plus de 250 ans, connut une tentative d'exportation de thé vert sous l'occupation japonaise (à partir de 1919), mais les autorités coloniales, craignant que le thé vert taïwan ne menace l'industrie japonaise, imposèrent de nombreuses restrictions, limitant fortement les volumes exportés[^19].
+Dans les années 1860, le marchand britannique John Dodd découvrit, dans les montagnes de Sanxia, alors appelée Sanjiaoyong, des collines propices à la culture du thé. À l’époque, les feuilles fraîches de Sanxia étaient transportées par la rivière Tamsui jusqu’à Dadaocheng pour y être transformées, devenant une partie de la légende d’exportation du thé oolong de Formose[^7]. Cette histoire de plus de 250 ans de culture du thé connut, durant la période japonaise, à partir de 1919, une tentative d’exportation de thé vert ; mais les autorités japonaises, craignant que le thé vert taïwanais ne menace l’industrie de l’archipel, imposèrent de nombreuses restrictions, si bien que les volumes exportés restèrent extrêmement faibles[^19].
 
-Après 1945, l'arrivée de populations continentales fit naître une demande intérieure pour le thé vert, nourrie par la nostalgie du Longjing et du Biluochun. Cependant, l'apparence aplatie et en lame d'épée caractéristique du thé Longjing nécessitait un façonnage par des machines spécialisées. Pour les cultivateurs de Sanxia, déjà équipés pour le roulage du thé Paochon, l'apparence en filaments spiralés du Biluochun correspondait bien mieux à leur logique de production existante. Ce choix technique « en accord avec les moyens disponibles » fut officialisé en 1998 par la chambre d'agriculture du district de Sanxia sous le nom de « Biluochun de Sanxia », établissant ainsi une norme locale pour le thé vert taïwanais[^2].
+Après 1945, avec l’arrivée à Taïwan de militaires et civils venus de Chine continentale, la nostalgie du thé vert stimula la demande intérieure de Longjing et de Biluochun. Or l’apparence plate, en lame d’épée, propre au Longjing nécessitait un pressage à l’aide de machines de façonnage spécialisées. Pour les producteurs de Sanxia, qui possédaient alors généralement des équipements de roulage destinés au thé Baozhong, l’apparence en brins torsadés et spiralés du Biluochun correspondait manifestement mieux à la logique de production existante. Cette manière de « suivre la pente » sur le plan technique fut officiellement nommée « Biluochun de Sanxia » par l’association agricole du district de Sanxia en 1998, établissant dès lors un standard local du thé vert taïwanais[^2].
 
-### Le « Chin-shin ganzai », unique survivant, et le microclimat
+### L’unique « Qingxin Ganzai » préservé et son microclimat
 
-Si Sanxia est devenue le berceau du thé vert à Taïwan, c'est grâce à une variété endémique surnommée « Ganzai ». Cette variété, dont les feuilles ressemblent à celles de l'agrume, aux bords profondément dentelés et recourbés vers le haut, est principalement cultivée à Sanxia et constitue une variété locale emblématique de Taïwan[^3].
+Si Sanxia a pu devenir le berceau du thé vert taïwanais, c’est grâce à une variété spécifique de théier communément appelée « Ganzai ». Les feuilles de cette variété ressemblent à des feuilles d’agrume ; leurs bords sont profondément dentelés et recourbés vers le haut. Principalement cultivée à Sanxia, elle constitue une variété locale emblématique de Taïwan[^3].
 
-La zone théicole de Sanxia se répartit autour de Hengxi, Chengfu, Ankong et Zhulun. Bien que l'altitude n'y dépasse guère 200 mètres, la confluence des rivières Dahan, Sanxia et Hengxi a formé un delta fertile, et les brumes montagneuses, combinées à une humidité modérée, créent un microclimat exceptionnel. En particulier, la zone de transition entre sols rouges et sols jaunes autour de Chengfu et Ankong, à la fois fertile et bien drainée, confère au Chin-shin ganzai une capacité de germination précoce remarquable : la récolte peut débuter dès fin février. Toutefois, cette variété présente aussi des faiblesses biologiques — sensibilité aux maladies et aux ravageurs, faible résistance à la sécheresse — ce qui fait de la culture biologique et de l'irrigation de précision des enjeux majeurs pour les cultivateurs contemporains[^20].
+La zone théicole de Sanxia se répartit principalement autour de Hengxi, Chengfu, Ankeng et Zhulun. L’altitude n’y est que d’environ 200 mètres, mais la région bénéficie du fertile delta alluvial formé par la confluence de la rivière Dahan, de la rivière Sanxia et de la rivière Hengxi. À cela s’ajoutent les brumes enveloppant les montagnes et une humidité modérée, créant un microclimat remarquable. En particulier, à la jonction des sols rouges et jaunes dans les secteurs de Chengfu et d’Ankeng, les terres sont fertiles et bien drainées, ce qui confère au Qingxin Ganzai une très forte précocité : la récolte peut commencer dès la fin février chaque année. Cependant, le Qingxin Ganzai présente aussi une faible résistance aux maladies et aux ravageurs ainsi qu’une faible tolérance à la sécheresse ; ces caractéristiques biologiques font de la culture biologique et de l’irrigation de précision des enjeux majeurs pour les producteurs contemporains[^20].
 
-### Le sang et la sueur de l'histoire : de la tribu Daba au thé Nittō
+### La sueur et le sang de l’histoire : de la communauté de Dabao au thé noir Nitto
 
-La répartition des plantations de Sanxia est en réalité le reflet d'une histoire d'exploitation douloureuse. Sous l'occupation japonaise, le gouvernement colonial mena une politique de « pacification des aborigènes » visant à s'emparer des ressources forestières, ce qui provoqua de violents conflits avec la tribu Atayal de Daba.
+La répartition des plantations de thé de Sanxia est en réalité le produit d’une lourde histoire de mise en valeur des terres. Durant la période japonaise, le gouvernement général de Taïwan mit en œuvre une « politique d’administration des Aborigènes » ; afin de s’emparer des ressources forestières, il entra dans un conflit violent avec la communauté atayal de Dabao.
 
-Après la reddition de la tribu Daba en 1907, la Mitsui Gōmei Kaisha s'implanta dans les zones de Chajiao et Zhulun pour y développer de vastes plantations, établissant l'« usine de thé de Daba » (aujourd'hui le complexe forestier et thermal de Daban Gen) ainsi que l'« usine de thé de Daliao »[^8]. Le « thé Nittō » (Nippon), produit grâce à des techniques modernes de thé noir et exporté vers l'Europe et les Amériques, posa les bases du statut de Sanxia comme région théicole majeure de Taïwan. Cependant, cette histoire d'exploitation s'accompagna d'une catastrophe écologique due à la déforestation massive pour l'extraction de l'essence de camphre.
+Après la reddition de la communauté de Dabao en 1907, la société Mitsui Gomei Kaisha pénétra aussitôt dans les secteurs de Chajiao et de Zhulun pour y développer de vastes plantations de thé, et établit la « fabrique de thé de Dabao », aujourd’hui The Great Roots Forestry Spa Resort, ainsi que la « fabrique de thé de Daliao »[^8]. Le « thé noir Nitto », alors produit grâce à l’introduction de techniques modernes de fabrication du thé noir, fut exporté jusqu’en Europe et aux États-Unis, posant les bases du rôle de Sanxia comme importante région théicole de Taïwan. Cette histoire de développement s’accompagna toutefois d’une catastrophe écologique provoquée par l’abattage massif des forêts et la production de camphre.
 
-📝 Note du commissaire : Dans le cadre des efforts actuels de justice transitionnelle, les membres de la tribu Daba maintiennent leur revendication de « retour sur les terres ancestrales de Sanxia », donnant à chaque gorgée de thé le poids de l'histoire.
+📝 Note du curateur : dans le mouvement actuel de justice transitionnelle, les descendants de Dabao maintiennent toujours leur revendication de « retour à la terre ancestrale de Sanxia », ce qui donne à chaque gorgée de thé le poids de l’histoire.
 
-### Artisans et jeunes agriculteurs : le virage professionnel de familles centenaires
+### Artisans et jeunes agriculteurs : la reconversion professionnelle de familles centenaires
 
-Dans la zone de Hengxi à Sanxia, la « Tianfang Tea Shop », transmise sur cinq générations, est un témoin vivant de cette histoire. Elle est aujourd'hui gérée conjointement par Huang Zhengzhong, cinquième génération, et Huang Yaokuan, sixième génération. Huang Yaokuan perdit temporairement son toucher de maître-tea-maker à la suite d'une lésion cérébrale, mais grâce aux notes laissées par son père et à sa mémoire de la terre, il retrouva ses capacités et remporta l'ensemble des concours de fabrication du thé[^9]. Son épouse, Lin Mengyu, diplômée en gestion, est elle-même une maître-tea-maker professionnelle, plusieurs fois primée par le prix d'« excellence » lors des évaluations du Biluochun[^10].
+Dans le secteur de Hengxi à Sanxia, la « maison de thé Tianfang », transmise depuis cinq générations, est un témoin vivant de cette histoire. Elle est aujourd’hui gérée conjointement par Huang Zhengzhong, cinquième génération, et Huang Yaokuan, sixième génération. Huang Yaokuan perdit brièvement, à la suite d’une lésion cérébrale, le sens tactile nécessaire à la fabrication du thé ; mais grâce aux notes laissées par son père et à sa mémoire de la terre, il parvint à reconquérir le grand chelem des concours de thé[^9]. Son épouse Lin Mengyu, qui possède une formation en gestion commerciale, est également une professionnelle de la fabrication du thé ayant remporté à plusieurs reprises le « prix spécial » lors des évaluations de Biluochun[^10].
 
-Outre la Tianfang Tea Shop, de nombreuses familles de Sanxia pratiquent une agriculture respectueuse de l'environnement, comme Zhou Ziyao de la Risheng Tea Shop, plusieurs fois primé en thé au miel et engagé dans la culture biologique et écologique. Dans le village d'Ankong, certains cultivateurs se sont tournés vers la culture biologique, permettant le retour des lucioles disparues depuis longtemps et produisant un « thé luciole » (thé blanc) porteur d'une valeur écologique symbolique.
+Outre la maison de thé Tianfang, Sanxia compte de nombreuses familles attachées à une culture respectueuse de l’environnement. Zhou Ziyao, de la maison de thé Risheng, a remporté à plusieurs reprises le prix spécial du thé noir au parfum de miel et met l’accent sur des pratiques biologiques et favorables à l’environnement. À Ankeng, certains producteurs se sont tournés vers la culture biologique, permettant le retour de lucioles disparues depuis longtemps et produisant le « thé Huojingu », un thé blanc doté d’une signification d’indicateur écologique.
 
-### Valorisation : la transformation par les insectes
+### Montée en valeur : la transformation miellée née des piqûres d’insectes
 
-Si le Biluochun est le printemps de Sanxia, le thé au miel en est l'été brûlant. Il s'agit d'une « transformation de valeur » planifiée.
+Si le Biluochun est le printemps de Sanxia, alors le thé noir au parfum de miel en est le plein été. Il s’agit d’une « transformation de valeur » planifiée.
 
-À partir de 2007, la chambre d'agriculture du district de Sanxia et le centre de recherche sur le thé ont systématiquement promu l'utilisation du mécanisme de défense végétale déclenché par les piqûres de la cicadelle verte (_Jacobiasca formosana_), conférant au thé une douceur naturelle de miel[^4]. Ce changement de paradigme a doublé la valeur du thé d'été, autrefois amer et peu coûteux. Le concours de thé au miel organisé depuis 2010 a définitivement établi ce thé comme un produit haut de gamme sur le marché[^5].
+À partir de 2007, l’association agricole du district de Sanxia et la station d’amélioration du thé commencèrent à promouvoir systématiquement l’utilisation de la petite cicadelle verte, Jacobiasca formosana, dont les piqûres déclenchent un mécanisme de défense végétal donnant aux feuilles de thé un parfum naturel, doux et miellé[^4]. Ce changement de perspective permit de doubler la valeur du thé d’été, auparavant amer, astringent et peu cher. Le concours de thé noir au parfum de miel, organisé à partir de 2010, établit plus officiellement encore le statut haut de gamme de ce thé sur le marché[^5].
 
-### Les « Études de Sanxia » à tous les niveaux : de l'éveil écologique à la transition académique
+### Les « études de Sanxia » à tous les niveaux : de l’éveil écologique à la transformation académique
 
-La transmission de la culture du thé de Sanxia s'est structurée en une chaîne éducative complète, allant de l'école primaire à l'université, permettant à l'arôme du thé de s'enraciner à travers les générations.
+La transmission de la culture du thé de Sanxia a désormais formé une « chaîne éducative » complète, de l’école primaire au collège, au lycée et à l’université, permettant à l’arôme du thé de s’enraciner entre les générations.
 
-- **Au primaire — éveil écologique et sensoriel** :
-  - **École primaire de Chengfu** : À travers le programme « Voyage lent au pays du thé », les élèves utilisent la photographie et la réalité virtuelle pour documenter l'écosystème des plantations[^11].
-  - **École primaire forestière expérimentale de Chajiao** : Les élèves plantent eux-mêmes des jeunes pousses de thé et découvrent le cycle de vie[^12].
-  - **Écoles primaires de Longpu et Beida** : Par l'éducation agroalimentaire, les enfants des « nouveaux Sanxia » créent un lien avec l'industrie locale.
-- **Au collège — exploration historique et culturelle** :
-  - **Collèges de Sanxia et d'Anxi** intègrent activement l'industrie locale dans l'éducation à l'orientation professionnelle. Le collège de Sanxia initie les élèves à la fabrication manuelle du Longjing[^15] ; le collège d'Anxi, en lien avec l'histoire migratoire que reflète son nom, aide les élèves à comprendre le lien entre les croyances d'origine et l'industrie du thé[^16].
-  - **École-collège de Jiaozijiao** : Son programme « Thé, teinture et céramique — l'harmonie de Jiaozijiao » a reçu la médaille d'or de l'excellence pédagogique. Ce programme intègre les trois éléments « teinture, céramique et thé », les élèves s'inspirant de la culture céramique de Yingge pour explorer la synergie « thé-céramique »[^18].
-- **Au lycée — approfondissement historique et culturel** :
-  - **Lycées de Beida et de Mingde** ont inscrit les « Études de Sanxia » comme programme pédagogique distinctif. Au lycée Mingde, des enseignants de géographie et de langue chinoise ont élaboré ensemble des supports pédagogiques interdisciplinaires[^13]. Le **lycée Beida**, à travers le programme « La vie au mont Yuan », a créé le « salon de thé Juxing », permettant aux élèves de passer de la compréhension culturelle à l'expérience pratique[^14].
-- **À l'université — transition académique** :
-  - **Université nationale de Taipei** : À travers le « Centre de recherche en études Haishan » et le programme USR (Responsabilité sociale des universités), les enseignants et étudiants systématisent la documentation sur l'industrie du thé et organisent le « Festival du thé vert de Sanxia ». Lors de l'édition 2026, des étudiants et jeunes agriculteurs ont collaboré pour transformer la culture traditionnelle du thé en supports de marketing numérique[^6].
+- **Éveil écologique et sensoriel à l’école primaire** :
+  - **École primaire de Chengfu** : à travers le cours « voyage lent au parfum du thé », l’école utilise la photographie et la réalité virtuelle pour documenter l’écologie des plantations[^11].
+  - **École primaire expérimentale forestière de Chajiao** : les élèves plantent eux-mêmes de jeunes théiers et font l’expérience du cycle de vie[^12].
+  - **Écoles primaires de Longpu et de Beida** : grâce à l’éducation alimentaire et agricole, les enfants des « nouveaux habitants de Sanxia » établissent un lien avec les industries locales.
+- **Exploration historique et culturelle au collège** :
+  - **Collège de Sanxia** et **collège d’Anxi** intègrent activement les industries locales à l’éducation à l’orientation professionnelle. Le collège de Sanxia guide les élèves dans l’apprentissage de la fabrication artisanale du Longjing[^15] ; le collège d’Anxi associe quant à lui son nom à l’histoire migratoire qui le sous-tend, permettant aux élèves de comprendre le lien entre les croyances du pays d’origine et l’industrie du thé[^16].
+  - **École primaire et collège de Taozijiao** : son programme « thé, teinture, rythme et céramique à Taozijiao » a reçu le prix d’or d’excellence pédagogique. Le cours associe trois grands éléments, « teinture, céramique, thé » ; les élèves, en lien avec la culture céramique de Yingge, apprennent l’articulation entre « thé et céramique »[^18].
+- **Approfondissement historique et culturel au lycée** :
+  - **Lycée Beida** et **lycée Mingde** ont fait des « études de Sanxia » un cours distinctif propre à leur établissement. Au lycée Mingde, des enseignants de géographie et de chinois ont développé des supports pédagogiques interdisciplinaires[^13]. **Le lycée Beida**, quant à lui, a mis en place, dans le cadre du projet « apprendre la vie au pied du mont Yuan », un « salon de thé Juxing » permettant aux élèves de passer de la compréhension culturelle à l’expérience pratique[^14].
+- **Transformation académique à l’université** :
+  - **Université nationale de Taipei** : à travers le « Centre de recherche Haishan » et le programme USR, enseignants et étudiants organisent systématiquement la documentation relative à l’industrie du thé et tiennent la « Saison du thé vert de Sanxia ». Lors de l’édition 2026, des étudiants universitaires et de jeunes agriculteurs ont collaboré pour transformer la culture traditionnelle du thé en matériaux de marketing numérique[^6].
 
-### Foi et thé : les prières des cultivateurs sous le temple du Zushi
+### Croyance et thé : les prières des producteurs sous le temple Zushi
 
-Le développement de l'industrie du thé de Sanxia est étroitement lié aux croyances locales. Le temple du Zushi de Sanxia (temple du maître Qingshui) n'est pas seulement un « palais de l'art oriental », mais aussi le pilier spirituel des cultivateurs. Le maître Qingshui est réputé pour ses « prières de pluie » ; pour une industrie du thé qui dépend entièrement des précipitations, la protection du Zushi est essentielle[^17]. Les premiers immigrants d'Anxi apportèrent à Sanxia à la fois les techniques de culture du thé de leur région d'origine et la dévotion au maître Qingshui. Avant chaque saison de récolte, les cultivateurs se rendaient souvent au temple pour prier pour des conditions climatiques favorables.
+Le développement de l’industrie du thé de Sanxia est étroitement lié aux croyances locales. Le temple Zushi de Sanxia, consacré à Qingshui Zushi, n’est pas seulement un « palais de l’art oriental » ; il est aussi le pilier spirituel des producteurs de thé. Qingshui Zushi est réputé pour « demander la pluie » ; pour une industrie du thé extrêmement dépendante des précipitations, la protection de Zushiye est cruciale[^17]. Les premiers migrants venus d’Anxi introduisirent à Sanxia à la fois les techniques de culture du thé de leur région d’origine et la croyance en Qingshui Zushi. Avant chaque début de saison de récolte, les producteurs se rendaient souvent au temple Zushi pour prier afin d’obtenir des pluies et des vents favorables.
 
-### Analyse scientifique : le secret des catéchines et du parfum de haricot vert
+### Analyse scientifique : le secret des catéchines et du parfum de haricot mungo
 
-D'un point de vue scientifique, le « parfum frais de haricot vert » caractéristique du Biluochun de Sanxia provient de la teneur très élevée en catéchines de la variété Chin-shin ganzai. Dans un processus de fabrication « non fermenté », les feuilles subissent une « flétrissage intérieur » modéré, la perte lente d'eau induisant la transformation de composés aromatiques spécifiques. Cela confère au thé vert de Sanxia une richesse de paliers gustatifs et une valeur nutritionnelle supérieures.
+D’un point de vue scientifique, le « parfum frais de haricot mungo » propre au Biluochun de Sanxia provient de la teneur extrêmement élevée en catéchines de la variété Qingxin Ganzai. Dans le procédé « non fermenté », les feuilles de thé subissent une « mise au repos en intérieur », ou flétrissage, modérée ; l’eau s’en échappe lentement, déclenchant la transformation de certaines substances aromatiques. Cela confère au thé vert de Sanxia une plus grande complexité de saveurs et une valeur nutritionnelle plus riche.
 
-### 2026 : quand l'arôme du thé entre dans le verre et la technologie
+### 2026 : quand l’arôme du thé entre dans le verre et la technologie
 
-La vitalité du thé de Sanxia s'étend désormais à de nouveaux domaines. Lors du Festival du thé vert de Sanxia 2026, une collaboration avec la distillerie de Shulin a donné naissance au cocktail de Biluochun « Vin étoilé en spirale », illustrant également les résultats de la gestion technologique des plantations[^6]. Les jeunes agriculteurs contemporains introduisent des lampes solaires de lutte physique contre les ravageurs ou utilisent des capteurs numériques pour surveiller le microclimat des plantations, maîtrisant ainsi avec précision le moment optimal de la récolte.
+La vitalité du thé de Sanxia s’étend aujourd’hui à différents domaines. La Saison du thé vert de Sanxia 2026 ne s’est pas seulement associée à la distillerie de Shulin pour lancer un cocktail au Biluochun, le « Xingxuanjiu » ; elle a aussi montré les résultats de la gestion des plantations par des moyens technologiques[^6]. Les jeunes agriculteurs contemporains introduisent des lampes solaires de lutte physique contre les ravageurs afin de réduire les infestations, ou surveillent le microclimat des plantations au moyen de capteurs numériques pour maîtriser avec précision le moment de la récolte.
 
-### Défi : une culture qui court contre la disparition
+### Défi : une culture qui fait la course contre la disparition
 
-L'avenir du thé de Sanxia fait face à des réalités difficiles. Avec le développement de la zone spéciale de l'Université de Taipei et la construction de la ligne de métro Sanying (dont l'entrée en service est prévue pour mi-2026), la valeur foncière de Sanxia a flambé[^21]. Pour les jeunes générations, la pénibilité et les revenus liés à l'héritage d'une plantation de thé peinent à rivaliser avec les profits de la vente des terres.
+L’avenir du thé de Sanxia affronte une épreuve concrète. Avec le développement du quartier spécial de l’Université de Taipei et la construction de la ligne de métro Sanying, dont l’ouverture est prévue à la mi-2026, la valeur foncière de Sanxia a fortement augmenté[^21]. Pour la jeune génération, la pénibilité et les revenus liés à l’héritage d’une plantation de thé sont souvent difficiles à comparer avec le profit tiré de la vente des terres.
 
-« Ce que nous défendons, ce n'est pas seulement le thé, c'est l'odeur de cette terre. » C'est ce qu'a déclaré un jeune agriculteur lors d'un marché. La valeur du thé de Sanxia est en train de passer du statut de « produit agricole » à celui de « patrimoine culturel ».
+« Ce que nous préservons, ce n’est pas seulement le thé, c’est l’odeur de cette terre. » Ce sont les mots d’un jeune agriculteur entendus sur un marché. La valeur du thé de Sanxia est en train de passer de celle d’un « produit agricole » à celle d’un « patrimoine culturel ».
 
-📝 Note du commissaire : Lorsqu'une industrie commence à être qualifiée de « culture », cela signifie généralement qu'elle court contre la disparition.
+📝 Note du curateur : lorsqu’une industrie commence à être appelée « culture », cela signifie généralement qu’elle fait la course contre sa disparition.
 
-[^1]: [Dans la vie du maître-tea-maker national Huang Wenxiong](https://smiletaiwan.cw.com.tw/article/7141) — Entretien de Smile Taiwan avec Huang Wenxiong, maître-tea-maker national de Sanxia, sur son parcours de vie dédié au thé
+[^1]: [Entrer dans la vie du maître national de la fabrication du thé Huang Wenxiong](https://smiletaiwan.cw.com.tw/article/7141) — Entretien de Smile Taiwan avec Huang Wenxiong, maître national de Sanxia, sur son parcours dans la fabrication du thé
 
-[^2]: [La transition technique entre le Biluochun et le Longjing à Sanxia](https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=54187) — Analyse du contexte historique du passage du Longjing au Biluochun pour le thé vert de Sanxia, par le portail de connaissances agricoles
+[^2]: [Transformation technique du Biluochun et du Longjing de Sanxia](https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri_life&id=54187) — Le Portail du savoir agricole analyse le contexte historique du passage du thé vert de Sanxia du Longjing au Biluochun
 
-[^3]: [Étude des caractéristiques de la variété Chin-shin ganzai](https://www.moa.gov.tw/ws.php?id=2504568) — Analyse scientifique de la variété endémique de Sanxia, le Chin-shin ganzai, par le centre de recherche sur le thé
+[^3]: [Recherche sur les caractéristiques de la variété Qingxin Ganzai](https://www.moa.gov.tw/ws.php?id=2504568) — Analyse scientifique de la station d’amélioration du thé sur le Qingxin Ganzai, variété spécifique de Sanxia
 
-[^4]: [L'origine du thé au miel de Sanxia](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=560243) — Documentation de l'histoire et des caractéristiques du développement du thé au miel de Sanxia, par la Mémoire culturelle nationale
+[^4]: [Origine du thé noir au parfum de miel de Sanxia](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=560243) — La Banque nationale de la mémoire culturelle documente l’histoire du développement et les caractéristiques du thé noir au parfum de miel de Sanxia
 
-[^5]: [Le thé noir taïwanais populaire dont la valeur a doublé après avoir été piqué par des insectes](https://www.wedear.com.tw/blog/%E8%A2%AB%E8%9F%B2%E5%92%AC%E9%81%8E%E5%BE%8C%E8%BA%AB%E5%83%B9%E7%BF%BB%E5%80%8D%E7%9A%84%E5%8F%B0%E7%81%A3%E7%86%B1%E9%96%80%E7%B4%85%E8%8C%B6) — Analyse du principe scientifique par lequel les piqûres de la cicadelle verte génèrent le parfum de miel
+[^5]: [Le thé noir populaire taïwanais dont la valeur double après les piqûres d’insectes](https://www.wedear.com.tw/blog/%E8%A2%AB%E8%9F%B2%E5%92%AC%E9%81%8E%E5%BE%8C%E8%BA%AB%E5%83%B9%E7%BF%BB%E5%80%8D%E7%9A%84%E5%8F%B0%E7%81%A3%E7%86%B1%E9%96%80%E7%B4%85%E8%8C%B6) — Analyse du principe scientifique par lequel les piqûres de petite cicadelle verte produisent un parfum de miel
 
-[^6]: [Festival du thé vert de Sanxia 2026 : une expérience de renversement de l'industrie traditionnelle](https://www.storm.mg/article/11116268) — Reportage de Storm Media sur les tentatives innovantes de collaborations intersectorielles lors du Festival du thé vert de Sanxia
+[^6]: [Saison du thé vert de Sanxia 2026 : une expérimentation pour transformer une industrie traditionnelle](https://www.storm.mg/article/11116268) — The Storm Media rapporte les tentatives innovantes de la Saison du thé vert de Sanxia et ses collaborations intersectorielles
 
-[^7]: [Promenade numérique dans le pays du thé de Hengxi, Sanxia](https://dguidedwalks.tw/zh-hant/%E6%95%B8%E4%BD%8D%E8%B5%B0%E8%AE%80%E5%9C%B0%E5%9C%96/%E5%8C%97%E9%83%A8%E6%99%AF%E9%BB%9E/%E4%B8%89%E5%B3%BD%E6%A9%AB%E6%BA%AA%E8%8C%B6%E9%84%89%E6%95%B8%E4%BD%8D%E8%B5%B0%E8%AE%80) — Carte de promenade numérique détaillant l'histoire de l'exploitation et de l'exportation du thé de Sanxia
+[^7]: [Parcours numérique dans le pays du thé de Hengxi à Sanxia](https://dguidedwalks.tw/zh-hant/%E6%95%B8%E4%BD%8D%E8%B5%B0%E8%AE%80%E5%9C%B0%E5%9C%96/%E5%8C%97%E9%83%A8%E6%99%AF%E9%BB%9E/%E4%B8%89%E5%B3%BD%E6%A9%AB%E6%BA%AA%E8%8C%B6%E9%84%89%E6%95%B8%E4%BD%8D%E8%B5%B0%E8%AE%80) — Cette carte de parcours numérique détaille l’histoire du défrichement et des exportations du thé de Sanxia
 
-[^8]: [La revendication de retour des aborigènes du groupe Daba à Sanxia et ses répercussions](https://ws.th.gov.tw/002/TH/tjpdf20241015/var/www/html/new_site/05publish/03publishquery/02journal/tj/401073403.pdf) — Étude de la Bibliothèque de littérature taïwanaise de l'Institut national d'histoire sur l'incident de la tribu Daba et l'histoire du développement par la Mitsui Gōmei Kaisha
+[^8]: [Revendication et échos du retour des Autochtones du groupe Dabao à Sanxia après-guerre](https://ws.th.gov.tw/002/TH/tjpdf20241015/var/www/html/new_site/05publish/03publishquery/02journal/tj/401073403.pdf) — L’Academia Historica, Institut de documentation taïwanaise, étudie l’incident de la communauté de Dabao et l’histoire du développement par Mitsui Gomei Kaisha
 
-[^9]: [Un maître-tea-maker de génie perd la mémoire après une lésion cérébrale ; son fils récupère le grand slam grâce à ses notes](https://www.mirrormedia.mg/story/20240828bus004) — Entretien de Mirror Media avec la famille Huang de la Tianfang Tea Shop sur l'histoire de leur transmission
+[^9]: [Après une lésion cérébrale, un génie de la fabrication du thé échoue trois ans avant que son fils, grâce à ses notes, ne reconquière le grand chelem](https://www.mirrormedia.mg/story/20240828bus004) — Mirror Media interroge la famille Huang Yaokuan de la maison de thé Tianfang sur son histoire de transmission
 
-[^10]: [Lin Mengyu, belle-fille aînée de la sixième génération de la Tianfang Tea Shop, titulaire d'un master en gestion, devient promotrice de l'éducation agroalimentaire](https://vip.udn.com/vip/story/122878/8739447) — Reportage du United Daily News sur la transformation de la Tianfang Tea Shop par l'éducation agroalimentaire
+[^10]: [Lin Mengyu, belle-fille aînée de la sixième génération d’une maison de thé de Sanxia et titulaire d’un master en gestion, devient promotrice de l’éducation alimentaire et agricole](https://vip.udn.com/vip/story/122878/8739447) — United Daily News rapporte comment la maison de thé Tianfang se transforme grâce à l’éducation alimentaire et agricole
 
-[^11]: [Xie Jihuang, directeur des études à l'école primaire de Chengfu, documente les cours locaux sur le thé par la photographie et la réalité virtuelle](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=3F7FC65BA46A2D9E) — Reportage du blog des éducateurs du ministère de l'Éducation sur l'intégration de la photographie et de la réalité virtuelle dans l'enseignement de la culture du thé à l'école primaire de Chengfu
+[^11]: [Xie Jihuang, directeur des études de l’école primaire de Chengfu, documente les cours locaux sur le thé par la photographie et la réalité virtuelle](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=3F7FC65BA46A2D9E) — Le blog des éducateurs du ministère de l’Éducation rapporte comment l’école primaire de Chengfu intègre photographie et réalité virtuelle à l’enseignement de la culture du thé
 
-[^12]: [L'expérience de petits cultivateurs de thé à l'école primaire forestière expérimentale de Chajiao](https://www.facebook.com/TianFangTea/videos/1856124118443184/) — La Tianfang Tea Shop documente la pratique d'éducation agroalimentaire où les élèves de l'école primaire de Chajiao plantent des jeunes pousses de thé dans les plantations
+[^12]: [L’expérience des petits producteurs de thé à l’école primaire expérimentale forestière de Chajiao](https://www.facebook.com/TianFangTea/videos/1856124118443184/) — La maison de thé Tianfang documente la pratique d’éducation alimentaire et agricole d’élèves de l’école primaire de Chajiao entrant dans les plantations pour planter de jeunes théiers
 
-[^13]: [Programme pédagogique distinctif du lycée Mingde : Études de Sanxia — Apprendre Sanxia](https://expo.efroip.tw/ischool/publish_page/18/) — Présentation par le lycée municipal Mingde de New Taipei de l'enseignement interdisciplinaire visant à renforcer le sentiment d'appartenance locale des élèves
+[^13]: [Cours distinctif du lycée Mingde : études de Sanxia - apprendre Sanxia](https://expo.efroip.tw/ischool/publish_page/18/) — Le lycée municipal Mingde de Nouveau Taipei présente comment l’enseignement interdisciplinaire consolide le sentiment d’appartenance locale des élèves
 
-[^14]: [Mise en œuvre du programme pédagogique du lycée Beida : Voyage au mont Yuan](https://www.yphs.tp.edu.tw/wp-content/uploads/doc/yp1966/%E6%A0%A1%E8%A8%88%E8%AA%B2%E7%A8%8B%E7%9A%84%E5%AF%A6%E8%B8%90-%E9%B3%B6%E5%B1%B1%E5%B3%BD%E5%AE%A2%E8%A1%8C-%E6%9F%93%E7%B9%AA%E7%A2%A7%E8%8C%B6%E9%84%89%E7%9A%84%E5%89%B5%E7%94%9F%E5%82%B3%E5%A5%87.pdf) — Partage par le lycée Beida de la manière dont il combine thé et teinture pour promouvoir la revitalisation locale et les échanges internationaux
+[^14]: [Mise en pratique du programme scolaire propre au lycée Beida : voyage à Sanxia sous le mont Yuan](https://www.yphs.tp.edu.tw/wp-content/uploads/doc/yp1966/%E6%A0%A1%E8%A8%82%E8%AA%B2%E7%A8%8B%E7%9A%84%E5%AF%A6%E8%B8%90-%E9%B3%B6%E5%B1%B1%E5%B3%BD%E5%AE%A2%E8%A1%8C-%E6%9F%93%E7%B9%AA%E7%A2%A7%E8%8C%B6%E9%84%89%E7%9A%84%E5%89%B5%E7%94%9F%E5%82%B3%E5%A5%87.pdf) — Le lycée Beida partage la manière dont il associe les deux thèmes du thé et de la teinture pour promouvoir la revitalisation locale et les échanges internationaux
 
-[^15]: [Cours de voyage-lecture du collège de Sanxia : expérience de fabrication manuelle du Longjing](https://cci.ntpc.edu.tw/cht/index.php?code=list&ids=25&class_id=17020) — Documentation par l'université communautaire de Sanying de New Taipei de la participation d'élèves du collège de Sanxia à la fabrication manuelle du Longjing et à des promenades historiques et culturelles
+[^15]: [Programme de lecture-voyage San-Ying du collège de Sanxia : expérience de fabrication artisanale du Longjing](https://cci.ntpc.edu.tw/cht/index.php?code=list&ids=25&class_id=17020) — L’université communautaire San-Ying de Nouveau Taipei documente la participation d’élèves du collège de Sanxia à la fabrication artisanale du Longjing et à des parcours d’histoire locale
 
-[^16]: [Éducation à l'orientation professionnelle au collège d'Anxi : lien entre histoire locale et industries traditionnelles](https://today.line.me/tw/v2/amp/article/EVYGBP) — Reportage de LINE TODAY sur la manière dont le collège d'Anxi initie les élèves à l'industrie du thé de Sanxia par l'éducation à l'orientation professionnelle
+[^16]: [Éducation à l’orientation professionnelle au collège d’Anxi : relier histoire locale et industries traditionnelles](https://today.line.me/tw/v2/amp/article/EVYGBP) — LINE TODAY rapporte comment le collège d’Anxi guide ses élèves dans la découverte de l’industrie du thé de Sanxia par l’éducation à l’orientation professionnelle
 
-[^17]: [Le lien entre le temple du Zushi de Sanxia et la foi des cultivateurs de thé](https://shenghongflower.com/flower26012402165uts/) — Exploration du rôle central du temple du Zushi de Sanxia dans la vie locale et la culture rituelle des cultivateurs de thé
+[^17]: [Le temple Zushi de Sanxia et son lien avec les croyances des producteurs de thé](https://shenghongflower.com/flower26012402165uts/) — Analyse du rôle central du temple Zushi de Sanxia dans la vie locale et la culture rituelle des producteurs de thé
 
-[^18]: [L'école-collège de Jiaozijiao reçoit la médaille d'or de l'excellence pédagogique pour « Thé, teinture et céramique — l'harmonie de Jiaozijiao »](https://news.ltn.com.tw/news/life/breakingnews/3303780) — Reportage du Liberty Times sur la manière dont l'école-collège de Jiaozijiao a conçu un programme interdisciplinaire distinctif intégrant teinture, céramique et thé
+[^18]: [L’école primaire et collège de Taozijiao reçoit le prix d’or d’excellence pédagogique pour « thé, teinture, rythme et céramique à Taozijiao »](https://news.ltn.com.tw/news/life/breakingnews/3303780) — Liberty Times rapporte comment l’école primaire et collège de Taozijiao intègre teinture, céramique et thé pour concevoir un programme interdisciplinaire distinctif
 
-[^19]: [L'histoire du thé vert à Taïwan](https://trittea.com/taiwan-greentea-history/) — Analyse par Trittea du contexte historique de la répression de l'exportation du thé vert taïwan sous l'occupation japonaise
+[^19]: [Histoire du thé vert taïwanais](https://trittea.com/taiwan-greentea-history/) — Cha Sanyuan analyse le contexte historique de la répression des exportations de thé vert taïwanais durant la période japonaise
 
-[^20]: [Les théiers de Taïwan : le Chin-shin ganzai](https://www.hanyitea.tw/single-post/chin-shin-ganzai/) — Analyse détaillée par Hanyi Tea des caractéristiques variétales et des faiblesses biologiques du Chin-shin ganzai
+[^20]: [Les théiers de Taïwan : Qingxin Ganzai](https://www.hanyitea.tw/single-post/chin-shin-ganzai/) — Hanyitea analyse en détail les caractéristiques variétales et les faiblesses biologiques du Qingxin Ganzai
 
-[^21]: [La ligne de métro Sanying inaugure l'année de la mise en service : réévaluation de la valeur immobilière de Sanxia et de la zone de Beida](https://www.facebook.com/cthouse.sanying/posts/1389152756557293/) — Analyse immobilière de l'impact de la mise en service de la ligne de métro Sanying sur la valeur foncière de Sanxia
+[^21]: [La ligne de métro Sanying entre dans son année d’ouverture et réévalue la valeur immobilière de Sanxia et du quartier spécial de Beida](https://www.facebook.com/cthouse.sanying/posts/1389152756557293/) — Analyse immobilière sur l’impact de l’ouverture de la ligne de métro Sanying sur la valeur foncière de Sanxia

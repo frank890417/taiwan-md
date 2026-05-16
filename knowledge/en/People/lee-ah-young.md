@@ -1,7 +1,7 @@
 ---
 title: 'Lee Ah-young'
 description: "One of the defining representatives of Korean cheer squad 'long-stay' performers in Taiwan, she converted high visibility into high stability within the Fubon system — becoming a dual core of both ballpark performance and commercial content."
-date: 2026-04-14
+date: 2026-05-13
 tags:
   [
     'popular figures',
@@ -15,14 +15,14 @@ tags:
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
 readingTime: 9
-lastVerified: 2026-04-14
+lastVerified: 2026-05-13
 lastHumanReview: false
 category: 'People'
 translatedFrom: 'People/李雅英.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:83e0dbb3cbec1753'
-sourceBodyHash: 'sha256:68f630723c181a47'
-translatedAt: '2026-05-01T13:44:02+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:1893791073a1e549'
+sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
+translatedAt: '2026-05-16T21:50:00Z'
 ---
 
 > **30-Second Overview:** Lee Ah-young's rise in Taiwan is not a case of sudden overnight fame but of "consistently being there." Her multi-season continuation with Fubon, her high attendance rate, and her high recognizability have transformed the Korean cheer squad presence from a trending novelty into a fixed structural element of ballpark content.
@@ -36,6 +36,8 @@ Within the Fubon system, Lee Ah-young is frequently positioned to "anchor the at
 In recent years, Fubon Guardians has developed its home game entertainment content to look more like a hybrid product of "sporting event meets performance show," and Lee Ah-young is an important face of that product. Together with other Korean performers she forms a high-recognizability lineup that has also sharpened the brand language of the Fubon Angels.
 
 Around the 2026 season, Fubon continued to feature the Korean performers' five-pillar lineup as one of its key opening-season narratives. Lee Ah-young's presence within this signals that her value has been institutionalized — not sustained by a momentary burst of popularity.
+
+At the Fubon Guardians "Fubon Angels season-opening press conference" in March 2026, media coverage centered on multiple Korean members appearing together; in its on-site recap, United Daily News digital edition / UDN also noted that Lee Ah-young introduced herself in Mandarin and discussed her role within Fubon's "international group." [Source: United Daily News / UDN][^6]
 
 ## Performance Characteristics and Fan Relationships
 
@@ -60,12 +62,10 @@ The significance of this phase lies in the fact that Korean performers are no lo
 
 ## References / Sources
 
-Source 1: https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%9B%85%E8%8B%B1
+[^6]: United Daily News / UDN, "CPBL / Guardians' five Korean imports appear together; Lee Ju-eun cries with nerves, 'haven't seen everyone for so long'" (includes season-opening press conference recap), 2026-03-25, https://udn.com/news/story/7002/9402487
 
-Source 2: https://www.knews.com.tw/news/DB4BEA78C0805BE8DFF7E8EB5FB6EE9A
+Other verifiable sources:
 
-Source 3: https://www.nownews.com/news/6679202
-
-Source 4: https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87-%E6%9C%B4%E6%98%9F%E5%9E%A0%E9%95%B7%E9%87%9D%E7%9C%BC%E5%8F%B3%E7%9C%BC%E6%88%B4%E7%9C%BC%E7%BD%A9-%E6%9D%8E%E7%8C%BB%E7%8F%A0%E9%96%8B%E5%BF%83%E4%BB%8A%E5%B9%B4%E4%B8%8D%E4%BA%BA%E5%86%8D%E5%90%8C%E9%9A%8A-075710153.html
-
-Source 5: https://www.chinatimes.com/realtimenews/20260321002084-260404
+- Wikipedia (biographical overview): https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%9B%85%E8%8B%B1
+- NOWnews (ballpark / Korean cheerleader coverage index): https://www.nownews.com/news/6679202
+- China Times Real-time News: https://www.chinatimes.com/realtimenews/20260321002084-260404

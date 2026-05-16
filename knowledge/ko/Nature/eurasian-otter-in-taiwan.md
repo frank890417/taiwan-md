@@ -20,8 +20,8 @@ lastVerified: 2026-04-25
 lastHumanReview: false
 translatedFrom: Nature/水獺.md
 sourceCommitSha: '3e53281a'
-sourceContentHash: 'sha256:321d097dbb83cd33'
-sourceBodyHash: 'sha256:248f2fda20ea4369'
+sourceContentHash: 'sha256:06078f29307a4c77'
+sourceBodyHash: 'sha256:cd4c66affdcc4144'
 translatedAt: '2026-05-10T12:00:00Z'
 ---
 

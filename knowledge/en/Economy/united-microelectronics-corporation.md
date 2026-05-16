@@ -12,10 +12,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:6e69b29aadaf91b0'
-sourceBodyHash: 'sha256:2ebc0672df69676c'
-translatedAt: '2026-05-15T13:52:05+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:7dc608e4a8f911bc'
+sourceBodyHash: 'sha256:6e00035d9e8abf90'
+translatedAt: '2026-05-17T06:10:00Z'
 ---
 
 > **30-Second Overview**
@@ -32,7 +32,7 @@ Today, when we speak of Taiwan's "sacred mountains protecting the nation," a com
 
 ## Company Overview: A Legend from Zero to Global Number Three
 
-United Microelectronics Corporation (UMC) was established on May 22, 1980[^1], and is headquartered in Hsinchu Science Park. The company specializes in wafer foundry services, providing semiconductor manufacturing services for global customers across a range of process technologies from 180nm to 14nm.
+United Microelectronics Corporation (UMC) was established on May 22, 1980[^1], and is headquartered in Hsinchu Science Park. The company specializes in wafer foundry services, providing semiconductor manufacturing services for global customers across a range of process technologies from 180nm to 14nm, holding roughly 7% global market share in the mature-node foundry market.
 
 **Core Business Structure**:
 

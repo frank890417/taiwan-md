@@ -15,13 +15,13 @@ tags:
   ]
 subcategory: '山岳與登山'
 category: Nature
-lastVerified: 2026-04-05
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 translatedFrom: Nature/台灣山岳與登山文化.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:a4d9919368dc9dcf'
-sourceBodyHash: 'sha256:431f7ebbea017095'
-translatedAt: 2026-05-01T20:54:23+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:e81dd2e1a4ff1dc3'
+sourceBodyHash: 'sha256:571a99d15e048f22'
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # Las montañas de Taiwán y la cultura del montañismo
@@ -79,7 +79,7 @@ El 27 de febrero de 2011, Zhang Bowei, estudiante de la Universidad Médica Chun
 Los padres de Zhang Bowei interpusieron una demanda de indemnización estatal. En primera instancia, el tribunal falló en contra del cuerpo de bomberos y ordenó una indemnización de 2,67 millones de dólares taiwaneses. Pero en segunda instancia se revirtió: el tribunal superior dictaminó que «los ciudadanos no tienen derecho a exigir riesgo cero en montañismo», y la sentencia definitiva fue la exoneración[^9]. El resultado del veredicto es discutible, pero lo que este caso cambió realmente fue el propio sistema de rescate: impulsó el debate sobre la profesionalización del rescate en montaña y puso sobre la mesa un hecho incómodo: «un bombero no es automáticamente un experto en rescate de montaña».
 
 > **📝 Nota del curador**
-> El legado del caso Zhang Bowei no es la sentencia legal, sino una pregunta: ¿hasta qué punto el Estado tiene la obligación de proteger a los ciudadanos que se adentran en la montaña? Esta pregunta sigue sin consenso a día de hoy.
+> El verdadero legado del caso Zhang Bowei es una pregunta sin resolver: ¿hasta qué punto el Estado tiene la obligación de proteger a los ciudadanos que se adentran en la montaña? Esta pregunta sigue sin consenso a día de hoy.
 
 ## Las lágrimas del ángel y el límite de la capacidad de carga
 
@@ -87,7 +87,7 @@ A 3.310 metros de altitud, entre el Xiangyang Shan y el Sancha Shan, el Lago Chi
 
 Su origen es en sí mismo un debate científico. En 2003, el profesor Qí Shīzhēng del Departamento de Geografía de la Universidad Normal de Gaoxiong, basándose en morrenas frontales, bloques terminales y estrías glaciares hallados in situ, determinó que se trataba de un circo glaciar remanente de la era del hielo. Pero otros académicos propusieron la hipótesis del impacto de un meteorito. En 2015, Yang Jianfu y otros investigadores sugirieron que un meteorito de unos diez metros de diámetro podría haber creado esta depresión hace cien mil años[^10]. Sin embargo, Zhu Xiàozu del Servicio Geológico Central no encontró coesita ni stishovita —minerales que deberían estar presentes en un impacto de meteorito— junto al lago, y estimó la probabilidad de un origen meteorítico en apenas un 2 %.
 
-El origen es discutido, pero la belleza no se cuestiona. El albergue de montaña Xiangyang y el albergue de montaña Chiaming ofrecen 70 plazas cada uno, y sumando las zonas de acampada se puede albergar a unas 176 personas. Los albergues funcionan por sorteo, con solicitudes abiertas mensualmente y una tasa de adjudicación extremadamente baja. Este sistema de control no existe para poner trabas a los montañistas, sino porque la capacidad de carga de esta pradera alpina es así de reducida. En el lago no hay peces (la altitud es demasiado elevada), y en sus alrededores crecen especies en peligro como _Isoetes taiwanensis_; un solo pisoteo podría destruir una especie entera.
+El origen es discutido, pero la belleza no se cuestiona. El albergue de montaña Xiangyang y el albergue de montaña Chiaming ofrecen 70 plazas cada uno, y sumando las zonas de acampada se puede albergar a unas 176 personas. Los albergues funcionan por sorteo, con solicitudes abiertas mensualmente y una tasa de adjudicación extremadamente baja. Este sistema de control refleja el límite máximo de la capacidad de carga de esta pradera alpina, que no es mayor que esto. En el lago no hay peces (la altitud es demasiado elevada), y en sus alrededores crecen especies en peligro como _Isoetes taiwanensis_; un solo pisoteo podría destruir una especie entera.
 
 ## La montaña como espejo
 
@@ -97,7 +97,7 @@ El cambio climático desplaza la línea de nieve hacia arriba y multiplica los f
 
 Lin Wen-an murió en 1975, sin poder presenciar el posterior auge de la cultura de las Cien Cumbres. Torii Ushinosuke desapareció en 1926 a bordo de un barco de regreso a Japón; se cree que se arrojó al mar. Lo que más amó en su vida fueron siempre las montañas de Taiwán[^11].
 
-Cien años después, las montañas siguen en su sitio. Lo que ha cambiado es la gente al pie de ellas: de la restricción a la apertura, del miedo a la fiebre, de la conquista a aprender a coexistir.
+Cien años después, las montañas siguen en su sitio. Lo que ha cambiado es la gente al pie de ellas: primero pasaron por la restricción y la apertura, por el miedo y la fiebre, y solo después aprendieron poco a poco a coexistir con la montaña.
 
 La superficie del Lago Chiaming refleja el cielo, con o sin espectadores.
 

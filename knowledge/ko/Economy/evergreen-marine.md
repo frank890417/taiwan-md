@@ -2,18 +2,18 @@
 title: '대만 기업: 에버그린해운(長榮海運)'
 description: '선령 15년짜리 중고 화물선 한 척, 17년 만에 세계 1위에 오르다 - 그리고 창업자의 유언이 제국을 찢어놓다'
 date: 2026-03-24
-tags: [Economy, 기업, 해운업, 물류, 국제 무역]
-subcategory: '기업 열전'
 category: 'Economy'
+tags: ['Economy', '기업', '해운업', '물류', '국제 무역']
+subcategory: '기업 열전'
 author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-24
 translatedFrom: 'Economy/台灣企業：長榮海運.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:568e51f4fe252bc3'
-sourceBodyHash: 'sha256:31112da08c38be6e'
-translatedAt: '2026-04-14T09:08:10+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:0b8fd999b43c3e29'
+sourceBodyHash: 'sha256:a69b6caf6af869d0'
+translatedAt: '2026-05-17T06:30:00Z'
 ---
 
 > **30초 요약**

@@ -20,10 +20,10 @@ lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: People/韓國瑜.md
-sourceCommitSha: '5db9f136'
-sourceContentHash: 'sha256:ee41f08167c2c2aa'
-sourceBodyHash: 'sha256:73cf0e41be5a3b9e'
-translatedAt: 2026-05-03T23:14:07+08:00
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:b248c358d4ff171a'
+sourceBodyHash: 'sha256:34912fb2edaeaf10'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 # Han Kuo-yu
@@ -171,6 +171,7 @@ La vérité se situe probablement entre les deux. Et Han Kuo-yu lui-même est pe
 - [Lu Shiow-yen](/people/盧秀燕) — L'autre pôle de la vague Han de 2018, maire de Taichung élue la même année que Han Kuo-yu, ayant fait basculer un bastion vert vers le bleu
 - [Hsu Chiao-hsin](/people/徐巧芯) — Principale promotrice de la version 80 milliards de la controverse sur les achats militaires de 2026, figure clé présente lors des négociations du président du Parlement Han Kuo-yu
 - [Chi Lin-lian](/people/季麟連) — Vice-président du Kuomintang qui a menacé lors d'un comité central du 29 avril 2026 d'« exclure pour trahison envers le parti », une déclaration visant en réalité Han Kuo-yu
+- [Brian Tseng](/people/曾博恩) — En décembre 2019, Han Kuo-yu participe à la troisième saison de _The Night Night Show with Brian Tseng_ ; sa seule exigence est « ne pas plaisanter sur la coiffure », et Tseng le qualifie de « l'inconnu le plus familier »
 
 ## Références
 

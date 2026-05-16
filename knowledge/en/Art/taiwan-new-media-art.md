@@ -24,8 +24,8 @@ lastHumanReview: true
 featured: true
 translatedFrom: Art/台灣新媒體藝術.md
 sourceCommitSha: '3e53281a'
-sourceContentHash: 'sha256:9bd3fb8545ca6bf8'
-sourceBodyHash: 'sha256:6bb7848c2fabe7e4'
+sourceContentHash: 'sha256:b4e7864454993486'
+sourceBodyHash: 'sha256:21f788b62f33ab8a'
 translatedAt: '2026-05-10T18:00:00Z'
 ---
 

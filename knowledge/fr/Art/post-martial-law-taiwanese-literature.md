@@ -13,13 +13,13 @@ tags:
     'Littérature plurielle',
   ]
 readingTime: 8
-lastVerified: 2026-04-27
-lastHumanReview: false
+lastVerified: 2026-05-16
+lastHumanReview: true
 translatedFrom: 'Art/解嚴後台灣文學.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:493c1722ce576d1b'
-sourceBodyHash: 'sha256:5be7a14368f53828'
-translatedAt: '2026-05-01T20:54:17+08:00'
+sourceCommitSha: 'd6e87d07'
+sourceContentHash: 'sha256:230bdd26e7e50503'
+sourceBodyHash: 'sha256:91ddc5a57c03e56e'
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 # La littérature taïwanaise après la levée de la loi martiale
@@ -76,7 +76,7 @@ Avant la levée de la loi martiale, écrire en taïwanais (hokkien) était quasi
 
 **Song Zelai** est un acteur majeur de ce renouveau. Son roman _Le Village de Daniun_ (打牛湳村) est écrit en caractères chinois adaptés au taïwanais et décrit les mutations de la société rurale. Song Zelai œuvre à la fois comme écrivain en taïwanais et comme théoricien, posant les bases académiques d'une littérature longtemps marginalisée.
 
-**Li Qiao**, quant à lui, aborde la question sous l'angle de la littérature en hakka. Sa trilogie _La Nuit froide_ (寒夜三部曲), bien qu'écrite en mandarin, conserve une grande partie de la sensibilité linguistique et du contenu culturel hakka. Il a déclaré : « La langue n'est pas qu'un outil de communication, c'est aussi un vecteur culturel. Nous devons raconter nos propres histoires dans notre propre langue. »
+**Li Qiao**, quant à lui, aborde la question sous l'angle de la littérature en hakka. Sa trilogie _La Nuit froide_ (寒夜三部曲), bien qu'écrite en mandarin, conserve une grande partie de la sensibilité linguistique et du contenu culturel hakka. Il défend de longue date l'idée que la langue est un vecteur culturel et que les écrivains taïwanais doivent raconter leurs propres histoires dans leur propre langue.
 
 ### L'éveil de la littérature autochtone
 
@@ -185,7 +185,7 @@ Après le millénaire, la scène passe à une nouvelle génération de voix : Wu
 
 [^2]: [Préface : Les N formes de censure — Musée virtuel de la littérature taïwanaise](https://www.tlvm.com.tw/zh/Theme/ExhibitionArticleCont?Exbid=302) — Basé sur les souvenirs d'éditeurs comme Peng Ruijin, recense les multiples moyens de censure littéraire sous la loi martiale (listes de livres interdits, interdictions de publication, saisie de droits d'auteur, etc.), une source essentielle pour comprendre l'écosystème littéraire d'avant la levée.
 
-[^3]: [Le Journal d'un homme désolé — Portail culturel taïwanais](https://toolkit.culture.tw/literatureinfo_155_40.html) — Documente le contexte d'écriture du _Journal d'un homme désolé_ de Zhu Tianwen, son palmarès au premier Million-Dollar Literary Award de China Times, ainsi que sa position et son évaluation dans l'histoire de la littérature gay taïwanaise.
+[^3]: [vocus, critique : Zhu Tianwen, _Le Journal d'un homme désolé_ (1994)](https://vocus.cc/article/680dbb98fd89780001b2d3f8) — Critique détaillée mentionnant l'achèvement du roman le 23 février 1994, son premier prix au premier Million-Dollar Literary Award de China Times la même année, le thème de l'homosexualité masculine et sa position dans l'histoire de la littérature gay taïwanaise.
 
 [^4]: [Le Journal d'un homme désolé — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%8D%92%E4%BA%BA%E6%89%8B%E8%A8%98) — L'article détaille la structure narrative du _Journal d'un homme désolé_, son style linguistique fusionnant esthétique classique et décadence urbaine, ainsi que sa place dans l'histoire de l'écriture du genre en littérature taïwanaise.
 
