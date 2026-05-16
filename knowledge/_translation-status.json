@@ -1,46 +1,46 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-16T10:21:05+08:00",
-    "zhCommitHead": "f712b7242",
+    "lastUpdated": "2026-05-16T11:12:47+08:00",
+    "zhCommitHead": "ba92c9d0f",
     "totalZh": 698,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 698,
-        "fresh": 525,
-        "stale": 171,
+        "fresh": 524,
+        "stale": 172,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 698,
-        "fresh": 520,
-        "stale": 176,
+        "fresh": 519,
+        "stale": 177,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 698,
-        "fresh": 524,
-        "stale": 172,
+        "fresh": 523,
+        "stale": 173,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 698,
-        "fresh": 524,
-        "stale": 172,
+        "fresh": 523,
+        "stale": 173,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 698,
-        "fresh": 521,
-        "stale": 175,
+        "fresh": 520,
+        "stale": 176,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
@@ -7021,8 +7021,8 @@
     },
     "Technology/台灣太空產業發展.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
+        "lastCommit": "dff5fd72",
+        "lastModified": "2026-05-16T10:21:48+08:00",
         "contentHash": "sha256:bce66d0a209761dc",
         "bodyHash": "sha256:a7427d47ab9372d5"
       },
@@ -7037,8 +7037,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Technology/taiwan-space-industry-development.md",
@@ -7050,8 +7052,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Technology/taiwan-space-industry-development.md",
@@ -7063,8 +7067,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Technology/taiwan-space-industry-development.md",
@@ -7076,8 +7082,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Technology/taiwan-space-industry-development.md",
@@ -7089,8 +7097,10 @@
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
