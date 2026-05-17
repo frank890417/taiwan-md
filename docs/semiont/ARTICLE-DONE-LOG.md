@@ -59,6 +59,18 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 花蓮縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 2 — 129 年隱身撒奇萊雅族用正名換回太魯閣 0403 又讓它遠去 / Geography 縣市 / 8211 字 / 27 footnote / 6 Wikimedia images）
+
+- **Article**: [knowledge/Geography/花蓮縣.md](../../knowledge/Geography/花蓮縣.md)
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式 (Stage 0-5 完整跑，Opus sub-agent worktree-agent-a90eaee5e0cf77d57 commit dc342b395)
+- **核心矛盾**：「129 年隱身的撒奇萊雅族，用正名換回的太魯閣，0403 地震又讓它遠去」（29 字 ≤ 30）
+- **Hook**：1878 凌遲開場 → 加禮宛事件後撒奇萊雅族 129 年潛藏成阿美族 + 2007/01/17 **陳水扁政府第二任期正名**（修正 Stage 0 誤寫蔡英文）/ 1914 太魯閣事件 + 2004 太魯閣族從泰雅族分出 / 1875 沈葆楨開山撫番 + 1880s 漢人初拓 / 1913 豐田、吉野、林田移民村（179 戶 866 人） / **1930-1940s 布農族系列遷徙**（非單一 1937 年）/ 1951 玉里 7.3 + 1986 規模 6.8 + 2024/04/03 **ML 7.1**（初測 7.2 後修訂）/ **1986/08/17 慈濟醫院開幕**（修正 Stage 0 誤寫 1991）+ 證嚴法師 1966 起點 / 1980 北迴鐵路通車（基隆-花蓮 18 hr→5 hr）/ 蘇花改 2020 通車 / 觀光客 21 萬（2024）vs 660 萬正常 = **降幅 96.8%** → 結尾首尾呼應撒奇萊雅族「燃身」記憶
+- **品質**：8,211 CJK chars（超出 5000-6000 target by 37%，匹配 sibling 宜蘭 7,922 慣例）/ 27 footnotes / **6 Wikimedia images**（1 hero + 5 inline，CC BY-SA hot-link）/ 10 H2 narrative + 4 metadata = 14 total / 2 策展人筆記 + 1 ✦ pull quote / **article-health rewrite-stage-4 hard=0 warn=0 全綠** / Stage 3.5 hard=0 / **prose-health score=3** ≤ 3 pass / 對位句 **0 處** / 破折號 **2 處** / 三角自檢 PASS
+- **Research**: [reports/research/2026-05/花蓮縣.md](../../reports/research/2026-05/花蓮縣.md) — Stage 1 43 次搜尋 / 20 verbatim quotes / 7 ⚠️ fact flags audit pass
+- **FACTCHECK**: 7 ⚠️ flags 全處理（撒奇萊雅 2007/01/17 **陳水扁政府第二任期** / 慈濟醫院 **1986/08/17 啟業** / **6 族 not 5 族**（含噶瑪蘭族）/ 0403 地震 **ML 7.1**（2025/02/01 修訂，初測 7.2）/ 布農族 **1930-1940s 系列遷徙** / 加禮宛 2000+ 死 + 太魯閣 330 死 ⚠️ 二手引述標明）
+- **Cross-link**: 8 forward (宜蘭縣 sibling / 基隆市 / 台灣國家公園 / 台灣板塊運動與地震活動 / 台灣原住民族歷史與正名運動 / 台灣原住民族 16 族文化地圖 / 日治時期 / 林義雄) + reverse 加到基隆市
+- **Pilot retrospective 5 條校準執行**：雨量分層（4,000mm 山區 / 334 雨日 / 三力疊加）/ 區間時間（1875/1878/1913/1914/1930s-40s/1951/1980/1986/2004/2007/2020/2024）/ 衰退數字（觀光客 21 萬 vs 660 萬 = 3.2%、降幅 96.8%、復原 7 年）/ 本地 vs 觀光客 fault line（帖喇·尤道 3 條 verbatim quotes 貫穿）/ 日治現代化具體化（1913 豐田 179 戶 866 人 + 吉野 + 林田 + 大理石礦 + 1980 北迴 + 1986 太魯閣國家公園）
+
 ### 新竹縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 2 — 235 年義民信仰與全台第一人均所得住同一條頭前溪 / Geography 縣市 / 5807 字 / 40 footnote / 7 Wikimedia images）
 
 - **Article**: [knowledge/Geography/新竹縣.md](../../knowledge/Geography/新竹縣.md)
