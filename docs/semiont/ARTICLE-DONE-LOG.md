@@ -59,6 +59,18 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 宜蘭縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 1 — 兩次選擇了自己的命運蘭陽平原從此沒回頭 / Geography 縣市 / 7922 字 / 32 footnote / 7 Wikimedia images + 1 video）
+
+- **Article**: [knowledge/Geography/宜蘭縣.md](../../knowledge/Geography/宜蘭縣.md)
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式 (Stage 0-5 完整跑，Opus sub-agent worktree-agent-a61ef417396524272 commit 440802f50)
+- **核心矛盾**：「兩次選擇了自己的命運，蘭陽平原從此沒回頭」（22 字 ≤ 30）
+- **Hook**：開場三星田埂 vs 礁溪溫泉飯店對位 → 1796 吳沙烏石港登陸 + 1812 噶瑪蘭廳 + 1875 改宜蘭縣 + 1830s 噶瑪蘭族南遷花蓮 / 1915 太平山林業開發 + 1924/12/01 宜蘭線鐵路全通（102 橋 19 隧道 1263 萬圓 + 草嶺隧道 2,166.52m）/ 1980/02/28 林宅滅門血案（**台北信義路三段 31 巷 16 號** — 物理現場非宜蘭）+ 林義雄五結出身 + 1991 慈林教育基金會 + 1994 慈林新館回宜蘭 / 1981-1989 陳定南任縣長「45 萬個縣民老闆」+ 1987 反六輕 + 1987-12-13 華視「反六輕辯論：陳定南大戰王永慶」/ 噶瑪蘭族 2002 分裂正名（花蓮獲認 1,500 人 vs 宜蘭境內後裔多數未獲認）/ 1991 雪隧開工 / 2006/06/16 雪隧通車 12.9km（北宜高 600 億 vs 雪隧本體 185 億區分）/ 6,137 棟農舍 + 1,900 公頃流失 + 35% 全台農舍建照 + 460,486→448,763 人口 / 1996 童玩節 + 2007-2009 暫停 + 2010 復辦 / 結尾龜山島首尾呼應「等到我們這一輩都老了」
+- **品質**：7,922 CJK chars (176% of 4500，超出 5000-6000 target by 32% 但 justified per pilot retrospective「篇幅跟核心矛盾對齊」)/ 32 footnotes / **7 Wikimedia images + 1 video**（1987-12-13 華視「反六輕辯論」一手影像）/ article-health rewrite-stage-4 **hard=0 warn=0 全綠** / Stage 3.5 hard=0 / **prose-health score=2** ≤ 3 pass / 對位句 2 處（皆 verbatim 黃春明引語，保留）/ 破折號 0 處 / 10 narrative H2 + 4 appendix H2 = 14 total / 2 策展人筆記 + 2 ✦ pull quote / 三角自檢 PASS
+- **Research**: [reports/research/2026-05/宜蘭縣.md](../../reports/research/2026-05/宜蘭縣.md) — Stage 0 §觀點成型 (Opus main) + Stage 1 (Sonnet sub-agent) 47 次搜尋 / 20 verbatim quotes / 8 ⚠️ fact flags audit pass
+- **FACTCHECK**: 8 ⚠️ flags 全處理（雪隧費用「600 億北宜高全線 vs 185 億雪隧本體」明確區分 / 通車前車程「2 vs 3 小時」依出發點區分 / 蘇貞昌通車典禮原文 verbatim 找不到用 paraphrase + 標 ⚠️ / 太平山林業「1982 伐木終止 vs 1989 遊樂區成立」明確區分 / 噶瑪蘭族「2002 分裂正名」深挖 / 吳沙烏石港進入路徑標 ⚠️ 一手史料未直接確認 / 農舍六成非農用改用中文官方統計 / **🔴 林宅血案物理現場是台北信義路三段 31 巷 16 號非宜蘭** Stage 0 錯誤已修正）
+- **Cross-link**: 6 forward (台灣行政區劃 / 台灣海岸地形與海洋地景 / 台灣農業地景與產業分布 / 台灣都市發展與城鄉差距 / 台灣溫泉地景 / 基隆市 22 縣市 sibling) + 反向 cross-link 加到基隆市
+- **Pilot retrospective 5 條校準執行**：雨量分層（平原 2,500-3,000mm / 山區 5,500mm / 雨日 200+ 天 / 「乾季也是濕的」明確 layer）/ 區間時間（雪隧 1991 開工→1993 主坑→2006 通車 / 陳定南 1981-1989 / 噶瑪蘭族 1830s 南遷）/ 衰退數字（6,137 棟農舍 / 1,900 公頃流失 / 35% 全台農舍建照）/ 本地 vs 觀光客 fault line（三星田埂 vs 礁溪溫泉飯店全篇 weaving）/ 日治現代化具體化（宜蘭線 1924/12/01 全通 102 橋 19 隧道 / 草嶺隧道 2,166.52m / 太平山 1915 開發 / 礁溪溫泉 1915 公共浴場 1 萬圓）
+
 ### 嘉義市 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 1 — 被皇帝賜名嘉義卻成了最容易被略過的省轄市 / Geography 縣市 / 5902 字 / 32 footnote / 6 Wikimedia images）
 
 - **Article**: [knowledge/Geography/嘉義市.md](../../knowledge/Geography/嘉義市.md)
