@@ -59,6 +59,18 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 屏東縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 2 — 國家命運轉折發生在這裡台北從來沒怎麼記得 / Geography 縣市 / 6989 字 / 27 footnote / 6 Wikimedia images）
+
+- **Article**: [knowledge/Geography/屏東縣.md](../../knowledge/Geography/屏東縣.md)
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式 (Stage 0-5 完整跑，Opus sub-agent worktree-agent-a8facfc965ef9d273 commit d99f5ed47)
+- **核心矛盾**：「國家命運轉折發生在這裡，台北從來沒怎麼記得」（21 字 ≤ 30）
+- **Hook**：五點半東港黑鮪魚拍賣開場 → 1721 朱一貴之亂 + 客家六堆義民組織起源 / 1861 萬金聖母聖殿建立（西班牙道明會 + 比 1882 牛津學堂早 21 年）/ 1871 琉球漂民事件 54 名遭殺 + 1874 牡丹社事件 5/8 日軍登陸 + 5/22 石門戰役 + 阿祿古父子身亡（改變台灣國際地位）/ 1875 沈葆楨設恆春縣 + 1883 鵝鑾鼻燈塔（修正 Stage 0 寫 1882 為 1881 開工 / 1883 完工）/ 1939 屏東車站 + 屏東糖廠 + 糖業鐵道 226 公里 / 2009/8/8 88 風災林邊溪潰堤 30 分鐘 + 全台 681 死 + 屏東損失 30 億 - 近百億 + 山區排灣族部落（瑪家、霧台、泰武）滅村 / 2024 牡丹社事件 150 週年 macacukes 重新命名 → 結尾「五點半的東港，黑鮪魚在等」首尾呼應
+- **品質**：6,989 CJK / 27 footnotes / **6 Wikimedia images** (1 hero + 5 inline) / 9 narrative H2 + 3 utility = 12 total / **article-health rewrite-stage-4 hard=0 warn=0 全綠** / Stage 3.5 hard=0 / **prose-health score=1**（極優）/ 對位句 **0 處** / 破折號 **11 處** ≤ 15
+- **Research**: [reports/research/2026-05/屏東縣.md](../../reports/research/2026-05/屏東縣.md) — Stage 1 44 次搜尋 / 17 verbatim quotes / 4 ⚠️ fact flags audit pass
+- **FACTCHECK**: 4 ⚠️ flags 全處理（鵝鑾鼻燈塔 **1881 開工 / 1883 完工** 修正 Stage 0 寫 1882 / 牡丹社 **5/8 Wikipedia** vs 5/22 戰役分清 / 萬金「**比 1882 牛津學堂早 21 年**」明確獨立段落 / 5 族同住具體寫排灣 49,643 + 魯凱 2,100 + 馬卡道 + 卑南阿美少數）
+- **Cross-link**: 9 forward + reverse 加到 基隆市 + 連江縣 (sibling)。DEFERRED reverse cross-link 到李仙得（pre-existing hard fail，per Stage 5.3 SOP DEFER）
+- **Pilot retrospective 5 條校準執行**：雨量分層（莫拉克尾寮山 1,403mm + 新瑪家 1,897mm + 泰武 1,145mm 三測站）/ 區間時間軸（1721/1861/1874/1875/1883/1939/2009/2024）/ 88 風災具體數字（潰堤 30 分鐘 / 全台 681 死 / 屏東損失 30 億 - 近百億）/ 本地 vs 觀光客 fault line（東港 4-6 月鮪魚 vs 春吶觀光）/ 日治現代化具體化（屏東糖廠 1908 / 糖業鐵道 226 公里 / 屏東車站 1939）
+
 ### 台東縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 2 — 兩個離島一個關了三十六年政治犯一個存了四十二年核廢料 / Geography 縣市 / 7196 字 / 41 footnote / 6 Wikimedia images）
 
 - **Article**: [knowledge/Geography/台東縣.md](../../knowledge/Geography/台東縣.md)
