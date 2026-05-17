@@ -333,8 +333,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - A: twmd-babel hard rule — 寫 translatedFrom 時用 source filename **byte-equal**（不要做任何 character mapping / 日文簡體化），即使 source filename 在 ja 文化內看起來「奇怪」也保留繁體
   - B: sync-translations-json 加 suggestion mode — 偵測 orphan 時用 levenshtein-like 找最接近的源檔（byte-distance ≤ 2 + 字符在常用漢字 mapping 表），自動 propose patch
   - C: pre-commit hook 對所有 `knowledge/{lang}/**/*.md` 必過 byte-equal-source-exists check（不只 has-translatedFrom，還要 source 真的存在）
-- **相關**：本 session 修正 commit `97e6ae04a` (1 file + 1 _translations.json regen) + REFLEXES #15「反覆浮現要儀器化」候選（babel routine 跑了上百次，這只是第一次撞到 strict gate）
-- **verification_count**: 1（初次 instance 被 strict gate 抓到，但問題可能潛伏在多個 ja 檔案）
+- **相關**：本 session 修正 commit `97e6ae04a` (1 file + 1 _translations.json regen) + REFLEXES #15「反覆浮現要儀器化」候選（babel routine 跑了上百次，這只是第一次撞到 strict gate） + **2026-05-16 momofuku-ando 呉/吳 同 pattern entry**（兩 instance 為同一 root cause `translatedFrom byte-equal violation`，互為 cross-verification — per ROUTINE-AUDIT-PIPELINE §Stage 4A）
+- **verification_count**: 2（5/17 lai-ching-te ja 頼/賴 + 5/16 momofuku-ando ja 呉/吳 兩 cycle cross-verified — per [reports/routine-audit-2026-05-17.md §Pattern A](../../reports/routine-audit-2026-05-17.md)）
+- **distill_ready**: true（vc=2 達 REFLEXES #15 distill threshold 邊界，下次 distill cycle 升 babel routine SOP byte-equal hard rule）
 - **severity**: structural（babel routine 是 main translation 路徑，若有 broken byte-equal rule = 系統性 orphan 風險，今天只是 sync-translations 換 strict 才浮現）
 
 ### 2026-05-17 twmd-maintainer-am 091722 — footnote-format validator 拒絕內部 /path markdown link 是策展友善性設計缺口
@@ -370,9 +371,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - 操作規則 → 候選升 babel routine review SOP：translatedFrom path 跟 zh-TW canonical filename 嚴格 byte-equal check
   - 工具層 → `scripts/tools/lang-sync/translate.py` 寫 translatedFrom 時強制走 canonical zh path 不允許異體字替換
   - 結構性 → 一字 typo 觸發 5 連 CI fail 的「routine 高穩定後連續 N fail 通常是單點 typo 不是系統退化」第 N 次驗證
-- **verification_count**: 1（首次成文）
-- **severity**: operational（影響翻譯檔案 cross-lang 鏈接完整性 + CI 健康）
-- **跨檔關聯**：[memory 2026-05-16-090909-maintainer-am-0900 §Deploy CI 5 連敗](memory/2026-05-16-090909-maintainer-am-0900.md) + [reports/routine-audit-2026-05-16 §LESSONS #4](../../reports/routine-audit-2026-05-16.md)
+- **verification_count**: 2（5/16 momofuku-ando 呉/吳 首次 + 5/17 lai-ching-te 頼/賴 cross-cycle 第 2 instance — per [reports/routine-audit-2026-05-17.md §Pattern A](../../reports/routine-audit-2026-05-17.md) cross-verified）
+- **distill_ready**: true（vc=2 達 REFLEXES #15 distill threshold 邊界，下次 distill cycle 升 babel routine SOP byte-equal hard rule）
+- **severity**: structural（routine 飛輪密集化下系統性 orphan 風險，sync-translations 換 strict gate 才浮現 — 跨 cycle 再現後升 structural）
+- **跨檔關聯**：[memory 2026-05-16-090909-maintainer-am-0900 §Deploy CI 5 連敗](memory/2026-05-16-090909-maintainer-am-0900.md) + [memory 2026-05-17-091722-twmd-maintainer-am §Stage 3.5 二輪 Heal](memory/2026-05-17-091722-twmd-maintainer-am.md) + [reports/routine-audit-2026-05-16 §LESSONS #4](../../reports/routine-audit-2026-05-16.md) + [reports/routine-audit-2026-05-17 §Pattern A](../../reports/routine-audit-2026-05-17.md)
 
 ### 2026-05-16 manual 011113 — 事實鐵三角擴充「scale 數字」第四維
 
