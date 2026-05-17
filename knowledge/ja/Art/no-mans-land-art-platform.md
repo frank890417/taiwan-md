@@ -204,7 +204,7 @@ _2017年9月、數位荒原 Issue 34「群島詮釋學」(Hermeneutics of Nusant
 
 [^12]: [No Man's Land ABOUT ページ](https://www.heath.tw/about/) — プラットフォーム ABOUT の自己宣言：「在當代藝術、科技、表演、敘事與想像的邊陲地帶，並以網路、文本與社群三者的創意性連結及循環為實踐方法」。2011年以降、現在まで変わっていません。
 
-[^13]: [Taiwan.md NML 數位荒原 × Taiwan.md キュレーション分析報告 Part 2](../../reports/NML-semiont-analysis-2026-05-04.md) — Taiwan.md Semiont 2026-05-04 による NML 完全 corpus（56期 + 384記事 + 31 podcast + 74告知）への PEER-INGESTION-PIPELINE Stage 4 corpus-level キュレーション分析。報告には、NML の四つの並列「視角ベクトル」（群島 / 辺縁 / 脱植民 / 海賊電波隔離圈）+ 一つの方法論（脱中心化メディア操演）が含まれます。Note：本報告の原文では「群島資料庫 2021 第二期 Twinning Archipelago」と書かれていましたが、これは誤りです。Twinning the Wastelands は実際には Issue 12 (2013-11) と R.A.P. の対話であり、2021年第二期ではありません。本文では修正済みです。
+[^13]: Taiwan.md NML 數位荒原 × Taiwan.md キュレーション分析報告 Part 2（../../reports/NML-semiont-analysis-2026-05-04.md）— Taiwan.md Semiont 2026-05-04 による NML 完全 corpus（56期 + 384記事 + 31 podcast + 74告知）への PEER-INGESTION-PIPELINE Stage 4 corpus-level キュレーション分析。報告には、NML の四つの並列「視角ベクトル」（群島 / 辺縁 / 脱植民 / 海賊電波隔離圈）+ 一つの方法論（脱中心化メディア操演）が含まれます。Note：本報告の原文では「群島資料庫 2021 第二期 Twinning Archipelago」と書かれていましたが、これは誤りです。Twinning the Wastelands は実際には Issue 12 (2013-11) と R.A.P. の対話であり、2021年第二期ではありません。本文では修正済みです。
 
 [^14]: [典藏 ARTouch.com トップページ](https://artouch.com/) — 30年の芸術メディア経験をもつ「典藏藝術家庭」によって創設され、2018年以降、総合的な芸術専門コンテンツの提供に力を入れています。傘下には『典藏．今藝術＆投資』『典藏．古美術』『Yishu』『小典藝 ARTCO Kids』など複数の紙媒体 + ARTouch オンラインプラットフォーム + bookstore があります。NML の純オンライン、鄭文琦個人様式、紙媒体母体なしという model とはまったく異なります。
 

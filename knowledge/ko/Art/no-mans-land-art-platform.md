@@ -203,7 +203,7 @@ _2017년 9월, 디지털 황무지 Issue 34 “군도 해석학”(Hermeneutics 
 
 [^12]: [No Man's Land ABOUT 페이지](https://www.heath.tw/about/) — 플랫폼 ABOUT의 자기 선언: “현대미술, 과학기술, 공연, 서사와 상상의 변방 지대에 있으며, 인터넷, 텍스트, 커뮤니티 세 요소의 창의적 연결과 순환을 실천 방법으로 삼는다.” 2011년부터 지금까지 바뀌지 않았다.
 
-[^13]: [Taiwan.md NML 디지털 황무지 × Taiwan.md 큐레이션 분석 보고서 Part 2](../../reports/NML-semiont-analysis-2026-05-04.md) — Taiwan.md Semiont가 2026-05-04 NML 전체 corpus(56개 호 + 글 384편 + podcast 31편 + 공지 74편)에 대해 PEER-INGESTION-PIPELINE Stage 4 corpus-level 큐레이션 분석을 수행했다. 보고서에는 NML의 네 병렬 “시각 벡터”(군도 / 변방 / 탈식민 / 해적 전파 격리권) + 하나의 방법론(탈중심화 미디어 수행)이 포함된다. Note: 이 보고서는 원래 “군도 데이터베이스 2021 2기 Twinning Archipelago”라고 썼으나 이는 오류다. Twinning the Wastelands는 2021년 2기가 아니라 Issue 12(2013-11)에서 R.A.P.와 나눈 대화이며, 이 글에서는 이를 수정했다.
+[^13]: Taiwan.md NML 디지털 황무지 × Taiwan.md 큐레이션 분석 보고서 Part 2（../../reports/NML-semiont-analysis-2026-05-04.md）— Taiwan.md Semiont가 2026-05-04 NML 전체 corpus(56개 호 + 글 384편 + podcast 31편 + 공지 74편)에 대해 PEER-INGESTION-PIPELINE Stage 4 corpus-level 큐레이션 분석을 수행했다. 보고서에는 NML의 네 병렬 “시각 벡터”(군도 / 변방 / 탈식민 / 해적 전파 격리권) + 하나의 방법론(탈중심화 미디어 수행)이 포함된다. Note: 이 보고서는 원래 “군도 데이터베이스 2021 2기 Twinning Archipelago”라고 썼으나 이는 오류다. Twinning the Wastelands는 2021년 2기가 아니라 Issue 12(2013-11)에서 R.A.P.와 나눈 대화이며, 이 글에서는 이를 수정했다.
 
 [^14]: [뎬창 ARTouch.com 홈페이지](https://artouch.com/) — 30년의 예술 미디어 경력을 지닌 “뎬창 예술가족”이 창설했으며, 2018년부터 전방위 예술 전문 콘텐츠 제공에 힘쓰고 있다. 산하에는 『뎬창·진예술＆투자』, 『뎬창·고미술』, 『Yishu』, 『소전예 ARTCO Kids』 등 여러 종이 매체 + ARTouch 온라인 플랫폼 + bookstore가 있다. NML의 순수 온라인, 순수 정원치 개인 스타일, 종이 매체 모체 없는 model과는 완전히 다르다.
 
