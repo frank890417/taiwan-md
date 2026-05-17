@@ -59,6 +59,22 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 彰化縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 3 — 打敗過杜邦留不住年輕人的農業大縣 / Geography 縣市 / 6440 字 / 24 footnote / 6 Wikimedia images）
+
+- **Article**: [knowledge/Geography/彰化縣.md](../../knowledge/Geography/彰化縣.md)
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式 (Stage 0-5 完整跑，Opus sub-agent worktree-agent-a167121fad3f77c10 commit 732d49d05)
+- **核心矛盾**：「打敗過杜邦，留不住年輕人的農業大縣」（19 字）
+- **Hook**：1986 反杜邦運動鹿港勝利 → 1723 雍正元年彰化縣設立 + 1709 八堡圳 + 1717 鹿港始見諸羅縣志地圖 + 1728 米倉 16 間 + 1786 林爽文之役 + **1788 新祖宮（敕建天后宮）**（修正 Stage 0 混淆鹿港天后宮）+ 1922 扇形車庫 + 1925 二林事件 + 1934 鹿港港務縮減 + 1961 八卦山大佛 22m / 田尾花園 4,000 萬支菊花 / 鹿港 1,730 萬人次觀光 / 1986 反杜邦 30 萬人連署
+- **品質**：6,440 CJK / 24 footnotes / **6 Wikimedia images** (1 hero + 5 inline) / 8 H2 narrative / 2 策展人筆記 + 1 ✦ pull quote / **Stage 4 hard=0 warn=0 全綠** / Stage 3.5 hard=0 / **prose-health score=2** ≤ 3 pass / 對位句 **0 處** / 破折號 **4 處** ≤ 15
+- **Research**: [reports/research/2026-05/彰化縣.md](../../reports/research/2026-05/彰化縣.md) — Stage 1 44 次搜尋 / 4 ⚠️ CRITICAL fact flags 全處理
+- **FACTCHECK 🔴 4 條 CRITICAL Stage 0 corrections 全 resolved**：
+  - **人口 120.6 萬**（2026/4 戶政司）非 Stage 0 寫 124 萬
+  - **彰化平原非台灣第二大平原**（屏東 1,210 km² 才是第二大）— 改用「西部重要沖積平原」
+  - **1788 新祖宮（敕建天后宮）** vs 明代鹿港天后宮 分清楚（兩座不同廟，策展人筆記專段釐清）
+  - **日治 3 郡**（彰化、員林、北斗）非 4 郡（避開二林郡的錯誤 claim）
+- **Cross-link**: 7 forward (台灣老街文化 / 河川系統 / 農業地景 / 行政區劃 / 社會運動 / 環保永續 / 糕餅文化 / 台糖) + 2 sibling (基隆市 pilot / 新竹縣 batch 2)
+- **Pilot retrospective 5 條校準執行**：雨量 N/A / 區間時間（1709-2026 完整 anchor 列）/ 衰退轉型 frame 數字（120.6 萬 + 21,400 公頃灌溉 + 4,000 萬支菊花 + 1,730 萬鹿港人次 + 399.5 億高架化）/ 本地 vs 觀光客 fault line（田尾菊花夜 vs 鹿港老街白天 + 反杜邦 / 鹿港囝仔 / 二水跑水節）/ 日治現代化（1922 扇形車庫 + 1925 二林事件 + 1934 鹿港縮減 + 1908 縱貫鐵路繞過鹿港）
+
 ### 屏東縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 2 — 國家命運轉折發生在這裡台北從來沒怎麼記得 / Geography 縣市 / 6989 字 / 27 footnote / 6 Wikimedia images）
 
 - **Article**: [knowledge/Geography/屏東縣.md](../../knowledge/Geography/屏東縣.md)
