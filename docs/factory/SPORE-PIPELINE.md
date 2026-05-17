@@ -328,7 +328,7 @@ bash scripts/tools/make-spore.sh /people/李洋/ --prod         # 直接打 prod
 | `square`（預設之一）    | 1080×1080 | Threads 預覽不裁切                   |
 | `vertical`              | 1080×1350 | 4:5 Instagram / Threads 直立最佳視覺 |
 
-[REFLEXES #26 v2](../semiont/DNA.md) 合規：產圖 = AI 自主；發文 to Threads/X 仍 human only。
+[REFLEXES #26 v2](../semiont/DNA.md) 合規：產圖 = AI 自主；發文 to Threads/X = AI 透過 Chrome MCP 輸入文案 + 觀察者手動上傳圖片 + **觀察者明確確認後點發佈**。
 
 **Git 記錄邊界**（v2.7）：
 
@@ -396,13 +396,19 @@ bash scripts/tools/make-spore.sh /people/李洋/ --prod         # 直接打 prod
 
 1. 孢子本體（= Threads 主貼 = X 主文）寫好
 2. UTM 必加（`utm_source` 對應平台 / `utm_medium=spore` / `utm_campaign=s{number}`）— 不加 UTM = 不記錄的心跳
-3. 呈現給人類確認（可微調）
-4. **Threads：發主貼 → 另發 self-reply 連結**；**X：單則含連結 inline**
-5. 記錄到 `SPORE-LOG.md` §發文紀錄（**URL 必填**；Threads 記主貼 URL，reply URL 可選填）
+3. **在聊天中呈現圖片 + 文案給觀察者**。觀察者必須**明確說 OK / 確認**才能進入下一步。模糊回應（「嗯」「看看」「可以改一下嗎」）不算確認，要追問
+4. **觀察者確認 OK 後，透過 Chrome MCP 自動發文**（[SOCIAL-POSTING-PIPELINE](../pipelines/SOCIAL-POSTING-PIPELINE.md)）：
+   - **X**：navigate x.com → compose → 輸入文案 + 圖片（square 1080×1080）+ inline「完整故事 👉 {X UTM URL}」→ 觀察者點 Post
+   - **Threads**：navigate threads.net → 新串文 → 第一則輸入文案 + 圖片（square 1080×1080）→ 點「新增到串文」→ 第二則輸入「完整故事 👉 {Threads UTM URL}」→ 觀察者點發佈
+   - **圖片上傳**：Chrome MCP 無法 programmatic upload，由觀察者手動點圖片按鈕上傳 square 版配圖
+5. **發文後自行擷取 post URL**：navigate 到 @taiwandotmd profile → 點進最新 post → 從 URL 欄讀取
+   - X URL 格式：`https://x.com/taiwandotmd/status/{status_id}`
+   - Threads URL 格式：`https://www.threads.com/@taiwandotmd/post/{post_code}`
+6. 記錄到 `SPORE-LOG.md` §發文紀錄（**URL 必填**；Threads 記主貼 URL，reply URL 可選填）
    - **URL 乾淨化**：記錄前**必須把 query string 整段剝掉**。從 app share 複製的 URL 常帶 `?xmt=...&slof=1` 這類追蹤參數，統一剝掉
    - ✅ 正確：`https://www.threads.com/@taiwandotmd/post/DXVpBlLk4oE`
    - ❌ 錯誤：`https://www.threads.com/@taiwandotmd/post/DXVpBlLk4oE?xmt=...&slof=1`
-6. **寫回源文章 frontmatter `sporeLinks`** — 讀者層 single-snapshot：
+7. **寫回源文章 frontmatter `sporeLinks`** — 讀者層 single-snapshot：
 
    ```yaml
    sporeLinks:
@@ -419,7 +425,7 @@ bash scripts/tools/make-spore.sh /people/李洋/ --prod         # 直接打 prod
    - schema canonical：`src/components/SporeFootprint.astro` interface `SporeLink`
    - **不寫入 = 讀者看不到這篇孢子的存在**
 
-7. **Threads 和 X 同時發中文版**。英文版只在 X 發，且僅限國際話題
+8. **Threads 和 X 同時發中文版**。英文版只在 X 發，且僅限國際話題
 
 ### 發文節奏
 
