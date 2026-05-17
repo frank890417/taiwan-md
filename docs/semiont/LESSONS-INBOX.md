@@ -232,6 +232,32 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-17 twmd-babel-nightly 050440 — diff-patch hash 算法不一致 bug 第 2 次咬人 (vc=4)，LESSONS 進 buffer ≠ 升 ship plan
+
+- **原則**：`diff-patch-prepare.py` 用 `hash_content()` 計算 expected_new_content_hash / expected_new_body_hash 寫進 task spec，但 `status.py` 對 zh source 算 contentHash / bodyHash 用 `body_hash()` + `body_hash_pure()` 不同算法。Sub-agent 忠實寫進 frontmatter 的 hash 永遠對不上 status.py 認的 hash。Body 正確 patch ≠ status.py 認可 fresh — 整批 Tier 0a 患者需要 post-processing scoped repair script 重寫 sourceContentHash + sourceBodyHash。**LESSONS 進 buffer 不等於升 ship plan**：2026-05-09 commit `56caebda7` LESSONS 已記，兩週後同 bug 在大 scale 下再爆。
+- **觸發**：2026-05-17 05:00 babel routine 跑 23 sub-agent × 20-30 task = 447 P2 patches。Agents 全 report 20/20 succeeded，body sample verified 正確，但 status.py 跑下去 stale 沒下降到預期值。追蹤發現 hash field mismatch 整批 occur。臨時寫 `/tmp/repair-hashes-scoped.py` 對 agent-body-patched allowlist (从 git log 取 babel commit files) 跑 2 round 共修 292 files。
+- **可能層級**：
+  - 操作規則 → SQUEEZE-MODELS-MAX-PIPELINE Stage Z2 後加 post-processing step 自動 scoped repair（先 ship 這個 workaround，stop the bleeding）
+  - 結構性 → root-cause fix：`diff-patch-prepare.py` 改 import `status.py` 的 hash function 統一 source of truth（最徹底）OR `status.py` expose hash function 為 module method 讓 prepare 引用
+  - REFLEXES 候選 → 「LESSONS 進 buffer 不等於升 ship plan — distill-weekly 只消化『升 canonical』類型，不消化『升 ship plan』類型」（vc=2：本 routine + Pattern A dormant entropy 同源觀察）
+- **儀器化候選**：(A) `scripts/tools/lang-sync/hash-functions.py` shared module，被 status.py / diff-patch-prepare.py / bump-source-sha.py 三處 import (B) Stage Z6 加「post-batch hash audit」自動跑 status.py diff 比對，stale not-dropped flag 即 trigger repair (C) distill-weekly 加 explicit「buffer-aged LESSONS escalation」step — vc≥4 + age > 7 day 自動 highlight 給觀察者
+- **verification_count**: 4（5/9 56caebda7 initial / 5/10 中 hand-fix / 5/17 本 routine 大 scale 第 2 次爆 / sub-agent 自報「linter recomputed hashes」第 3 + scoped repair surgery 第 4）
+- **severity**: structural（每次 babel Tier 0a 跑都會撞，scale 越大 surgery 成本越高，routine 本身無法收尾 ship gate）
+- **跨檔關聯**：[SQUEEZE-MODELS-MAX-PIPELINE §Stage Z2/Z6](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md) + [diff-patch-prepare.py](../../scripts/tools/lang-sync/diff-patch-prepare.py) + [status.py body_hash function](../../scripts/tools/lang-sync/status.py) + [2026-05-09 commit `56caebda7` initial LESSONS](https://github.com/frank890417/taiwan-md/commit/56caebda7) + 本 session memory `2026-05-17-050440-twmd-babel-nightly.md` §Stage D
+
+### 2026-05-17 twmd-babel-nightly 050440 — data-refresh-am sweep-in 是新 cross-routine collision pattern (vc=2)
+
+- **原則**：06:12 data-refresh-am routine fire 期間自動 stage + commit 我 in-flight 未 commit 的 agent body patches + over-repaired hash files，把它們一起 sweep 進它的 dashboard sync commit `cf90406b3`（commit message 自標「pre-existing 368 derived translation hash bumps from parallel babel scan swept in」— data-refresh routine 自己也 detect 到 race）。不是 5/15 reset 那種 destructive collision，但 commit 邊界跨 routine 不乾淨，使 babel routine 的 surgery + revert 操作複雜化（需要分辨「我的 over-repair」vs「我的 agent body patch」vs「其他 routine 的合法 sync」）。
+- **觸發**：本 routine 05:00 fire，06:12 data-refresh-am cron 同窗口 fire，08:30 babel surgery 階段才發現 cf90406b3 已 commit + push，必須用 git diff --numstat 區分 hash-only vs body+hash 改動精確 revert。
+- **可能層級**：
+  - 操作規則 → refresh-data.sh / maintainer / data-refresh-am Step 1 `git add -A` 改為 explicit allowlist（只 stage 自己的 derived files 如 dashboard JSON / _translations.json）
+  - 結構性 → 跨 routine commit 邊界規範升 ROUTINE.md canonical：routine 不該 stage 別 routine 的 in-flight uncommitted work
+  - REFLEXES 候選 → 「Routine git ops 必須 scope 到自己 derived files，不 `add -A`」(vc=2：5/15 reset + 5/17 sweep-in)
+- **儀器化候選**：(A) refresh-data.sh `git add` 改為 explicit file list (B) cron 排程加 lock 機制（一 routine 跑期間其他不啟動 git ops）(C) routine prompt 加「禁止 git add -A」鐵律
+- **verification_count**: 2（5/15 14:23 cross-routine reset HEAD~1 / 5/17 06:12 data-refresh-am sweep-in）
+- **severity**: structural（routine 飛輪密集化下 race surface 持續擴大，未來會更頻繁）
+- **跨檔關聯**：[ROUTINE.md](../semiont/ROUTINE.md) + [refresh-data.sh Step 1](../../scripts/tools/refresh-data.sh) + 本 session memory §Stage D + 5/15 routine-twmd-babel-nightly memory §跨 routine collision 觀察
+
 ### 2026-05-17 spore-harvest-am 070000 — #71 SPORE-LOG URL mismatch vc=4，instrument 已 ship 但 schema 未修
 
 - **原則**：v2.10 §Content-hash mismatch 偵測 instrument 已 ship（spore-content-hash-audit.py + fingerprints.json + pipeline §section），但 SPORE-LOG row #71 本身的 URL column 仍指向 `2053101189034860856`（實為 #69 TSMC content）。Instrument 抓得到、log 標得清楚，但 row data 沒 heal → 每 cycle harvest 仍撞同一 mismatch。**儀器化 ≠ 修補 — instrument 是抓出問題的工具，root cause（SPORE-LOG row 本身錯）需要觀察者拍板 hypothesis 並執行手動 schema fix**。
