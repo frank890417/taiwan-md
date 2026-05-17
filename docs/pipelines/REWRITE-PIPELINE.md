@@ -665,6 +665,8 @@ Stage 1 spawn 研究 agent 時，**必須先判斷需不需要直接落檔**：
 
 **跟 footnote 的分工**：inline 外連走「邊讀邊聽／邊讀邊看」的閱讀體驗；footnote 走「來源驗證 + 補充資料」。同一首歌的官方 MV 可以同時放 footnote（給研究者）+ 文中第一次提及加 inline link（給讀者）。
 
+**跟 Step 4.3.6 iframe embed 的分工**（2026-05-17 新增）：Music / People 條目可以**升級** inline link 到 iframe embed，提高閱讀的多重感受。判準：3-5 首代表作 → iframe（直接內嵌、視覺呼吸），其餘提及作品 → inline link。同篇可並存。詳見 [Step 4.3.6 影片 iframe 嵌入](#step-436-影片-iframe-嵌入music--people--nature-條目升級)。
+
 **強制動作**：研究 agent 額外蒐集「文章預期會提到的所有公開作品」的官方連結，列入研究筆記獨立一節 §inline 外連 manifest。找不到官方版本 → 標 `[no official URL found]`，**Stage 2 寫作時不附 link 也不掰連結**。
 
 #### Step 1.9.2: 圖片素材（hero + inline 圖）+ 授權矩陣
@@ -1426,6 +1428,50 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{slug}.md --check=i
 - ✅ 所有圖全部有完整 metadata（攝影者 / license / source URL）
 
 **不通過 → 不進 Stage 5。**
+
+#### Step 4.3.6: 影片 iframe 嵌入（Music / People / Nature 條目升級）
+
+**觸發時機**：題材含**公開影像作品**且 inline link 不足以承載敘事張力時 — Music 條目（代表作 MV）、Nature 條目（生態直播 / 影像紀錄）、Documentary 條目（紀錄片預告）、Performance 條目（演出片段）。
+
+**為什麼從 inline link 升 iframe**（哲宇 2026-05-17 directive）：「提高閱讀的多重感受」。Inline link 是「邊讀邊聽」option，iframe 是「閱讀流裡內建多媒體感官層」default。Music 條目尤其受惠 — 文字描述歌曲 vs 直接聽到歌曲是完全不同的閱讀體驗。
+
+**URL 來源優先序**（同 Step 1.9.1）：
+1. 官方頻道（藝人 / 廠牌 / 節目方 / 導演）— 角頭音樂 / 公視 / 滾石等 official YT
+2. 國際串流官方（YouTube Music / Vevo official artist channel）
+3. 主辦 / 策展單位官方頁
+
+**不接受**：UGC 翻唱、二手轉貼、搜尋結果頁、Topic auto-generated channel（YouTube 自動生成的 "Provided to YouTube by..." 假頻道）。
+
+**密度建議**：每篇 **3-5 個 iframe 最理想**。少於 3 → 升級成本不划算（留 inline link）；多於 5 → 視覺擁擠打斷敘事。Hub 頁不放 iframe。
+
+**位置原則**（呼應 Step 4.3.1 三段敘事節奏）：
+- iframe 放在「該段 prose 結尾」，不是段首 — 讓讀者先讀完文字段，再有 option 聽 / 看
+- 沿文章時間軸 / narrative arc 放，不是按重要性堆在開頭
+- 每個 iframe 配 italic caption 標明 (1) 官方來源頻道 (2) 跟文章 narrative 的呼應
+
+**標準格式**（黃魚鴞 / 陳建年 pattern）：
+
+```html
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/{VIDEO_ID}" title="{原始繁中標題}" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_{source channel} 官方 MV：{跟文章 narrative 呼應的一句話描述}。_
+```
+
+**Verify 步驟**（強制）：
+1. 每個 video ID 走 WebFetch 確認「Official Music Video」或「官方完整版 MV」標記（不憑 search title 推斷）
+2. preview_eval 跑 `document.querySelectorAll('iframe[src*="youtube.com/embed"]').length` 確認 N 個 iframe render
+3. preview_eval 列 `[...iframes].map(f => f.src.split('/embed/')[1])` 比對 video ID 跟原稿一致
+
+**跟 Step 1.9.1 inline 外連的分工**：
+- Step 1.9.1 inline link：3-8 個，作品名第一次出現處 hyperlink，預設都加（成本低）
+- Step 4.3.6 iframe embed：3-5 個，沿 narrative arc 放代表作（高 value、高呈現成本）
+- 同篇條目可以**並存** — inline link 給「邊讀邊聽 option」，iframe 給「代表作必看」
+
+**範例參考**：
+- Music 條目：[knowledge/People/陳建年.md](../../knowledge/People/陳建年.md) — 4 iframe 沿 1999 → 2000 → 2025 時間軸
+- Nature 條目：[knowledge/Nature/黃魚鴞.md](../../knowledge/Nature/黃魚鴞.md) — 2 iframe (公視報導 + 雪霸育雛直播)，敘事密度型
 
 ### Stage 4 Step 4.3 邊界與例外
 
