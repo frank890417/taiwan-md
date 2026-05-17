@@ -59,6 +59,18 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 南投縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 3 — 唯一不靠海的縣 921 震央就在它的中心 / Geography 縣市 / 6533 字 / 24 footnote / 6 Wikimedia images）
+
+- **Article**: [knowledge/Geography/南投縣.md](../../knowledge/Geography/南投縣.md)
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式 (Stage 0-5 完整跑，Opus sub-agent worktree-agent-a7960950eb5ae337d commit a300ad986)
+- **核心矛盾**：「台灣最深的傷口都在這裡，震央在集集，賽德克的血在霧社，省政府的形在中興新村」（28 字）
+- **Hook**：開場「凌晨一點四十七分那 102 秒」→ 1709 八堡圳施世榜 + 林先生傳說（標明民間傳說轉述）/ 1930/10/27 霧社事件莫那魯道 + 賽德克族 6 社 + 1931/04/25 第二次霧社（保護蕃收容所被親日蕃襲擊）+ **2008/04/23 賽德克族正名第 14 族** / 1934 武界壩 + 大觀電廠 + 日月潭發電系統 / 1957 中興新村台灣省政府臨時辦公處 + 1998/12 精省 / 1999/09/21 01:47:15.9 集集大地震規模 7.3 深 8km / 全台死亡 **2,415**（內政部消防署，註 2,454 含後續傷重不治）+ 失蹤 29 + 受傷 11,305 + 全倒 51,711 + 半倒 53,768 / 南投受創最鉅 死 886 + 重傷 678 + 全倒 23,127 + 半倒 16,792 / 中寮全鄉 90% 受損 154 死 / 九份二山 180 公頃崩塌 41 人活埋 / 2001/08/08 邵族正名第 10 族 / **玉山國家公園跨 4 縣市**（南投信義 + 高雄桃源 + 嘉義阿里山 + 花蓮卓溪，修正 Stage 0 寫 3 縣市）/ 2015 廬山遷村拆除 + 2016 業者完全歇業 / 結尾「三個族名在 26 年裡長回來」+ 「八堡圳 1709 / 霧社 1930 / 武界壩 1934 / 921 1999」四層海拔疊壓
+- **品質**：6,533 CJK / 24 footnotes / **6 Wikimedia images** (1 hero + 5 inline，全 URL 200 verified + aspect ratio 0.91-2.35) / 8 H2 narrative + 3 utility scene-led / **3 策展人筆記 + 3 ✦ pull quotes**（略多於 1-2 目標但合理）/ **article-health rewrite-stage-4 hard=0 warn=0 全綠** / Stage 3.5 hard=0 / **prose-health score=3** ≤ 3 pass / 對位句 **0 處** / 破折號 **0 處**（從初稿 27 個破折號 + 1 對位句砍到 0）/ 17 個 checks 全綠
+- **Research**: [reports/research/2026-05/南投縣.md](../../reports/research/2026-05/南投縣.md) — Stage 1 54 次搜尋 / 17 verbatim quotes / 7 ⚠️ fact flags audit pass
+- **FACTCHECK**: 7 ⚠️ flags 全處理（921 死亡 **2,415**（內政部消防署）+ 註 2,454 / 霧社日方死亡 134 + 2 著日服漢人計算 / 精省 1998/12 不指明具體日 / **玉山國家公園跨 4 縣市**（含花蓮卓溪）/ 邵族人口約 800 多人 / 廬山 2015 遷村拆除 + 2016 業者歇業 / 林先生傳說標「民間傳說轉述」非一手文獻）
+- **Cross-link**: 9 forward + sibling 加到 基隆市 + 苗栗縣（內陸縣 sibling）
+- **Pilot retrospective 5 條校準執行**：雨量分層（南投山區 vs 平地 vs 日月潭）/ 區間時間（1709 / 1930 / 1934 / 1957 / 1998 / 1999 / 2001 / 2008 / 2015）/ 衰退/災難 frame 具體數字（921 死亡 2,415 + 南投死 886 + 全倒 23,127 + 中寮 90% + 九份二山 180 公頃 41 人活埋 + 九份二山降低 400m）/ 本地 vs 觀光客 fault line（日月潭觀光客 vs 邵族傳說 vs 霧社賽德克族記憶 vs 中寮鄉重建現場）/ 日治現代化具體化（1934 武界壩 + 大觀電廠 + 日月潭發電 + 霧社事件背景）
+
 ### 金門縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 3 — 1949 那 56 小時決定金門 75 年命運也決定了台灣 / Geography 縣市 / 6504 字 / 27 footnote / 7 Wikimedia images）
 
 - **Article**: [knowledge/Geography/金門縣.md](../../knowledge/Geography/金門縣.md)
