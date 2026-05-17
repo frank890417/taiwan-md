@@ -286,16 +286,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 <!-- 20. 澎湖縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
 
-### 21. 金門縣 NEW
-
-- **Type**: `NEW`
-- **Category**: Geography
-- **Priority**: `P0`
-- **Source**: 哲宇 directive 2026-05-17 230616-manual
-- **Hook 候選**：戰地觀光的轉型 — 八二三砲戰 + 金門高粱 + 風獅爺，14 萬人在福建省管廈門對望
-- **Notes**: 14 萬 / 6 鄉鎮 / 福建省金門縣（行政上福建省，per 既有 History 條目 cross-link）/ 八二三砲戰 1958（per History）/ 金門高粱酒（國營金門酒廠）/ 風獅爺 / 模範街 / 翟山坑道 / 太武山軍事遺跡 / 廈門對望 / 小三通 2001 開放 / 莒光樓 / 文台寶塔 / 燒餅 / 政治派系（楊家 / 陳家）
-- **Reference**: 金門縣政府 / 維基〈金門縣〉/ 金門國家公園
-- **預估時間**：~180 min（戰地敘事 + 兩岸敏感 framing）
+<!-- 21. 金門縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
 
 <!-- 22. 連江縣（馬祖）已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
 

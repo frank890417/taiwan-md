@@ -59,6 +59,19 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 金門縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 3 — 1949 那 56 小時決定金門 75 年命運也決定了台灣 / Geography 縣市 / 6504 字 / 27 footnote / 7 Wikimedia images）
+
+- **Article**: [knowledge/Geography/金門縣.md](../../knowledge/Geography/金門縣.md)
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式 (Stage 0-5 完整跑，Opus sub-agent worktree-agent-a3332cccf0b27497a commit bca0b08f9)
+- **核心矛盾**：「1949 年那 56 小時，決定了金門 75 年的命運——也決定了台灣」（25 字）
+- **Hook**：1.8km vs 358km 開場 → 1387 周德興建金門所城「固若金湯，雄鎮海門」/ 1646 鄭成功金門廈門起兵 / 1949/10/25-27 古寧頭 56 小時激戰殲俘 15,000+（共軍登陸 9,086 邏輯衝突 ⚠️）/ 1952 金門酒廠胡璉收編九龍江 + **葉華成釀酒師強徵爭議** + 曾孫葉偉仁 2019 公開控訴（軍管暴力被經濟成功遮蔽 fault line）/ 1956-1992 戰地政務 36 年 + 金門宵禁 **10 點**（馬祖 9 點）+ 國軍 5-10 萬 vs 居民 5-7 萬 / 1958/08/23-10/05 八二三 44 天 474,910 發砲彈 + 3,132/km² 砲彈密度 + 21 年單打雙不打到 1979/01/01 中美建交 / 1961-1965 翟山坑道 + 烈嶼九宮 780m / **烏坵說莆仙語**（金門閩南 + 馬祖福州話以外第三種）/ 設籍 14.5 萬 vs 常住落差 + 金酒配股福利 / 2001/01/01 小三通開放 / 結尾「1.8 公里海面下，是 75 年命運疊在 45 分鐘航程裡」首尾呼應
+- **品質**：6,504 CJK / 27 footnotes / **7 Wikimedia images** (1 hero + 6 inline，全 URL 200 verified) / 8 H2 narrative scene-led + 3 metadata / 對位句 **3 處** at limit / 破折號 **10 處** ≤ 15 / **article-health rewrite-stage-4 hard=0 warn=0 全綠** / Stage 3.5 hard=0 / 算術鐵三角 474,910 ÷ 151.6 = 3,132 ✓
+- **Research**: [reports/research/2026-05/金門縣.md](../../reports/research/2026-05/金門縣.md) — Stage 1 44 次搜尋 / 17 verbatim quotes / 10 ⚠️ fact flags audit pass
+- **FACTCHECK**: 10 ⚠️ flags 全處理（古寧頭登陸 9,086 vs 殲俘 15,000+ 算術衝突明標 / 砲彈 474,910 + 3,132/km² 密度 / **葉華成強徵爭議**寫入 reverse-explanation callout / 宵禁 10 點 vs 馬祖 9 點對照 / 翟山坑道 1961-1965 注明 / 烏坵莆仙語第三種語言 / 設籍 14.5 萬 vs 常住落差 / 1.8km「約」彈性 / 358km / 1387「固若金湯」）
+- **Cross-link**: 10 forward (連江縣 sibling / 基隆市 pilot / 澎湖縣 / 鄭成功 / 蔣中正 / 戒嚴時期 / 台海危機 / 國防軍事現代化 / 島嶼地理 / 媽祖大道公) + 2 reverse 加到 連江縣 + 基隆市
+- **跟連江縣（馬祖）區隔**: 閩南同安腔 vs 閩東福州話 / 距廈門 1.8km vs 距福州 50km / 古寧頭+八二三兩場決定性戰役 vs 馬祖無同規模陸戰 / 14.5 萬設籍 vs 馬祖 1.3 萬（10 倍）/ 宵禁 10 點 vs 9 點 / 金門大學 1997 vs 馬祖無大學
+- **Pilot retrospective 5 條校準執行**：「砲彈密度分層」474,910/44/151.6 km² = 3,132 per km² / 區間時間 1387-1646-1949-1952-1956-1958-1979-1992-2001-2024 / 戰地 frame 具體數字（56 小時殲俘 15,000+ / 44 天 474,910 發 / 21 年單打雙不打 / 國軍 vs 居民比）/ 本地 vs 觀光客 fault line（在地人記得宵禁 10 點 + 葉華成強徵 vs 觀光客划獨木舟過翟山坑道）/ 日治差異化（金門 1937-1945 短暫日佔 vs 台灣本島 50 年，模範街 1924 是「華僑時間」非「日治時間」）
+
 ### 雲林縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 3 — 宜蘭選擇不要的雲林用三十年的肺換下來 / Geography 縣市 / 7988 字 / 29 footnote / 5 Wikimedia images）
 
 - **Article**: [knowledge/Geography/雲林縣.md](../../knowledge/Geography/雲林縣.md)
