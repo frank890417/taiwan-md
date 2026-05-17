@@ -59,6 +59,18 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 澎湖縣 NEW — 2026-05-18 2026-05-18-004535-manual（22 縣市系列 batch 1 — 兩次拒絕賭場菊島選擇的不是清貧 / Geography 縣市 / 5994 字 / 40 footnote / 6 Wikimedia images）
+
+- **Article**: [knowledge/Geography/澎湖縣.md](../../knowledge/Geography/澎湖縣.md)
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式 (Stage 0-5 完整跑，Opus sub-agent worktree-agent-a755e6e7a3cf2e8d6 commit 72c68a8aa)
+- **核心矛盾**：「兩次拒博弈，澎湖選擇的不是清貧，是主張自己要成為什麼」（28 字 ≤ 30）
+- **Hook**：凌晨四點馬公中央街沒有人開場 → 1604 沈有容諭退荷蘭人碑（萬曆 32 年）/ 1622 荷蘭佔風櫃尾 + 1624 退去台南 / 1885 中法戰爭法軍 3-6 月孤拔病死馬公 / 1895 日軍從澎湖登陸接收台灣 / 1740-820 萬年玄武岩 90 座島 89 座玄武岩 + 1 花嶼安山岩 / 跨海大橋 1970 一代 + 1996 二代 2,494m 縫六鄉市成一個澎湖 / 2002 華航 611 空難 + 2003 第一場花火節 / 19 座有人居 + 東吉嶼 3,000→20 人 / 2009 反對 56.44% + 2016 反對 81.07% / 釋昭慧「小蝦米打敗大財團」 / 望安綠蠵龜 2014 僅 1 隻 → 2024 5 月首隻回巢 → 結尾「冬天的菜宅」石牆背風處作物
+- **品質**：5,994 CJK chars (133% of 4500) / 40 footnotes / **6 Wikimedia Commons images**（hero 跨海大橋 + 開臺天后宮 / 桶盤玄武岩柱 / 二崁聚落屋頂 / 七美雙心石滬 + 1 公視我們的島 + 1 望安綠蠵龜 video）/ article-health rewrite-stage-4 **hard=0 warn=0 全綠** / Stage 3.5 hard=0 / prose-health score=3 ≤ 3 pass / 對位句 3 處 at limit (deliberate 結構性 anchor) / 破折號 0 處 / 三角自檢 PASS
+- **Research**: [reports/research/2026-05/澎湖縣.md](../../reports/research/2026-05/澎湖縣.md) — Stage 0 §觀點成型 (Opus main) + Stage 1 (Sonnet sub-agent) 46 次搜尋 / 18 verbatim quotes / 6 ⚠️ fact flags audit pass
+- **FACTCHECK**: 6 ⚠️ flags 全處理（開臺天后宮用 1604 verbatim 非 1593 / 跨海大橋二橋 2,494m verbatim / 雙心石滬「574 座以上 / 吉貝周遭 109 座」分層 / 第二次博弈公投 81.07% 選委會官方 / 綠蠵龜 2014 僅 1 / 2022 3 隻 6 窩 / 2024 5 月首隻 / 人口戶籍 10.8 萬 vs 常住 8.2 萬內政部 + 2020 普查分層）
+- **Cross-link**: 7 forward (澎湖民俗文化 / 離島與海洋文化 / 台灣島嶼地理特色與形成 / 媽祖與大道公的傳說 / 台灣行政區劃 / 清法戰爭 / 荷西明鄭時期) + 2 reverse 加到澎湖民俗文化 + 離島與海洋文化
+- **Pilot retrospective 5 條校準執行**：雨量分層（年雨量 1,000mm 全台最低）/ 區間時間（1622-1624 荷蘭 / 1885 法軍 / 1895 日軍）/ 衰退數字（漁獲 40 億→20 億 / 戶籍 10.8 萬→常住 8.2 萬 / 老化指數 194% / 東吉嶼 3,000→20）/ 本地 vs 觀光客 fault line（夏天觀光客 vs 澎湖人冬天才是真澎湖）/ 日治現代化具體化（1920 媽宮改名馬公 / 漁翁島燈塔 1875 / 1895 田中綱常設行政廳）
+
 ### 基隆市 NEW — 2026-05-18 2026-05-17-230616-manual + cron twmd-rewrite-daily polish 0000（22 縣市系列 PILOT — 離台北最近的港口最被台北看不見 / Geography 縣市 / 5171 字 / 32 footnote / 3 Wikimedia images）
 
 - **Article**: [knowledge/Geography/基隆市.md](../../knowledge/Geography/基隆市.md)
