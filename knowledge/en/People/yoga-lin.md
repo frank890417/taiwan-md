@@ -17,7 +17,7 @@ subcategory: '流行音樂'
 author: 'Taiwan.md Contributors'
 date: 2026-04-20
 readingTime: 10
-lastVerified: 2026-04-20
+lastVerified: 2026-05-18
 lastHumanReview: false
 researchReport: reports/research/2026-04/林宥嘉.md
 translatedFrom: 'People/林宥嘉.md'
@@ -128,7 +128,7 @@ The letter of resignation his body wrote — he answered it in the end with an a
 
 ## References
 
-[^1]: [Apple Daily: Yoga Lin Is a Third-Generation Tycoon, Grandfather Gave 50 Million Property to Daughter-in-Law (2020-12-03)](https://tw.appledaily.com/property/20201203/XNHTJ7XXWJHQ7BR7DD3EUZBWAY/) — The Lin family of Chaozhou, Pingtung, ran a building materials business before moving into real estate; explains Yoga Lin's background as a large landowner family.
+[^1]: [Mirror Media: Yoga Lin's wealthy family background revealed — "landowner grandfather" gifted daughter-in-law a home worth tens of millions (2020-12-03)](https://mirrormedia.mg/story/20201203ent010) — The Lin family of Chaozhou, Pingtung, ran a building materials business before moving into real estate; explains Yoga Lin's background as a large landowner family. (Original Apple Daily URL is defunct; cites same-day Mirror Media report.)
 
 [^2]: [Wikipedia: Yoga Lin](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E5%AE%A5%E5%98%89) — Contains the complete records of the 2007-07-06 Star Champion Finals "Creep" + "Last Order" perfect 25 points, 11 perfect scores, Tao Jing-ying's 2007-03-09 PK round naming of "hypnotic," yearly album producers lists, and marriage timeline.
 

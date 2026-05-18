@@ -17,7 +17,7 @@ tags:
   - '製作人'
   - '屏東'
 readingTime: 10
-lastVerified: 2026-04-20
+lastVerified: 2026-05-18
 lastHumanReview: false
 translatedFrom: People/林宥嘉.md
 sourceCommitSha: '4b6d28c5'
@@ -127,7 +127,7 @@ Aquella carta de renuncia escrita por su cuerpo, al final la recibió con un ál
 
 ## Referencias
 
-[^1]: [Apple Daily: Yoga Lin es heredero de terrenos, su abuelo terrateniente regala una propiedad de 50 millones a su nuera (2020-12-03)](https://tw.appledaily.com/property/20201203/XNHTJ7XXWJHQ7BR7DD3EUZBWAY/) — La familia Lin de Chaozhou, Pingtung, operó originalmente en el negocio de materiales de construcción y luego se dedicó al sector inmobiliario; describe el trasfondo terrateniente de Yoga Lin.
+[^1]: [Mirror Media: Se revela el origen adinerado de Yoga Lin — el «abuelo terrateniente» regala una vivienda millonaria a su nuera (2020-12-03)](https://mirrormedia.mg/story/20201203ent010) — La familia Lin de Chaozhou, Pingtung, operó originalmente en el negocio de materiales de construcción y luego se dedicó al sector inmobiliario; describe el trasfondo terrateniente de Yoga Lin. (El enlace original de Apple Daily ya no funciona; se cita el reportaje del mismo día en Mirror Media.)
 
 [^2]: [Wikipedia: Yoga Lin](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E5%AE%A5%E5%98%89) — Incluye el puntaje perfecto de 25 puntos en la final de <em>Super Star</em> el 2007-07-06 con <em>Creep</em> + <em>Last Order</em>, 11 puntajes perfectos, la denominación «psicodélico» por Sandy Wu en el duelo de eliminación del 2007-03-09, la lista completa de productores de álbumes y la cronología matrimonial.
 

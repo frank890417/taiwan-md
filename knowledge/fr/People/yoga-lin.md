@@ -17,7 +17,7 @@ tags:
   - '製作人'
   - '屏東'
 readingTime: 10
-lastVerified: 2026-04-20
+lastVerified: 2026-05-18
 lastHumanReview: false
 translatedFrom: People/林宥嘉.md
 sourceCommitSha: '4b6d28c5'
@@ -127,7 +127,7 @@ Cette lettre de démission écrite par son corps, il l'a finalement reçue avec 
 
 ## Références
 
-[^1]: [Apple Daily : Yoga Lin est un riche héritier, son grand-père propriétaire foncier lui offre un bien immobilier de 50 millions (2020-12-03)](https://tw.appledaily.com/property/20201203/XNHTJ7XXWJHQ7BR7DD3EUZBWAY/) — La famille Lin de Chaozhou, Pingtung, a d'abord fait fortune dans les matériaux de construction avant de se tourner vers l'immobilier ; détails sur l'origine de Yoga Lin au sein d'une famille de grands propriétaires fonciers.
+[^1]: [Mirror Media : L'origine aisée de Yoga Lin révélée — le « grand-père propriétaire foncier » offre un logement de plusieurs dizaines de millions à sa belle-fille (2020-12-03)](https://mirrormedia.mg/story/20201203ent010) — La famille Lin de Chaozhou, Pingtung, a d'abord fait fortune dans les matériaux de construction avant de se tourner vers l'immobilier ; détails sur l'origine de Yoga Lin au sein d'une famille de grands propriétaires fonciers. (L'URL Apple Daily d'origine est hors service ; renvoie au reportage du même jour dans Mirror Media.)
 
 [^2]: [Wikipedia : Yoga Lin](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E5%AE%A5%E5%98%89) — Contient les données complètes sur le 25/25 parfait lors de la finale du 6 juillet 2007 avec « Creep » + « Last Order », les 11 notes parfaites, la qualification « psychédélique » par Tsao Jingying lors du PK du 9 mars 2007, les listes de producteurs de chaque album, et la chronologie du mariage.
 
