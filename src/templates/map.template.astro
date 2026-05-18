@@ -134,22 +134,78 @@ const routesData = getMapRoutes(t);
           <div class="map-canvas">
             <svg id="taiwanMap" viewBox="0 0 800 1000" class="taiwan-svg">
               <defs>
-                <linearGradient
-                  id="taiwanGradient"
-                  x1="0%"
-                  y1="0%"
-                  x2="0%"
-                  y2="100%"
-                >
+                <!-- 海洋漸層背景 -->
+                <linearGradient id="seaGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                  <stop offset="0%" stop-color="#e0f2fe"></stop>
+                  <stop offset="50%" stop-color="#bae6fd"></stop>
+                  <stop offset="100%" stop-color="#7dd3fc"></stop>
+                </linearGradient>
+                <!-- 五區色彩 palette（north / central / south / east / islands）-->
+                <linearGradient id="regionNorth" x1="0%" y1="0%" x2="0%" y2="100%">
+                  <stop offset="0%" stop-color="#fef3c7"></stop>
+                  <stop offset="100%" stop-color="#fde68a"></stop>
+                </linearGradient>
+                <linearGradient id="regionCentral" x1="0%" y1="0%" x2="0%" y2="100%">
+                  <stop offset="0%" stop-color="#fed7aa"></stop>
+                  <stop offset="100%" stop-color="#fdba74"></stop>
+                </linearGradient>
+                <linearGradient id="regionSouth" x1="0%" y1="0%" x2="0%" y2="100%">
+                  <stop offset="0%" stop-color="#a7f3d0"></stop>
+                  <stop offset="100%" stop-color="#6ee7b7"></stop>
+                </linearGradient>
+                <linearGradient id="regionEast" x1="0%" y1="0%" x2="0%" y2="100%">
+                  <stop offset="0%" stop-color="#bbf7d0"></stop>
+                  <stop offset="100%" stop-color="#86efac"></stop>
+                </linearGradient>
+                <linearGradient id="regionIslands" x1="0%" y1="0%" x2="0%" y2="100%">
+                  <stop offset="0%" stop-color="#ddd6fe"></stop>
+                  <stop offset="100%" stop-color="#c4b5fd"></stop>
+                </linearGradient>
+                <!-- Legacy fallback gradient -->
+                <linearGradient id="taiwanGradient" x1="0%" y1="0%" x2="0%" y2="100%">
                   <stop offset="0%" stop-color="#dcfce7"></stop>
                   <stop offset="50%" stop-color="#bbf7d0"></stop>
                   <stop offset="100%" stop-color="#86efac"></stop>
                 </linearGradient>
+                <!-- 紙感 drop shadow -->
+                <filter id="countyShadow" x="-10%" y="-10%" width="120%" height="120%">
+                  <feGaussianBlur in="SourceAlpha" stdDeviation="2"></feGaussianBlur>
+                  <feOffset dx="0" dy="2" result="offsetblur"></feOffset>
+                  <feComponentTransfer>
+                    <feFuncA type="linear" slope="0.18"></feFuncA>
+                  </feComponentTransfer>
+                  <feMerge>
+                    <feMergeNode></feMergeNode>
+                    <feMergeNode in="SourceGraphic"></feMergeNode>
+                  </feMerge>
+                </filter>
+                <!-- 海浪 pattern（淺紋）-->
+                <pattern id="wavePattern" x="0" y="0" width="40" height="20" patternUnits="userSpaceOnUse">
+                  <path d="M0 10 Q 10 0, 20 10 T 40 10" stroke="rgba(56,189,248,0.18)" stroke-width="1" fill="none"></path>
+                </pattern>
               </defs>
+
+              <!-- Sea background full canvas -->
+              <rect width="800" height="1000" fill="url(#seaGradient)"></rect>
+              <rect width="800" height="1000" fill="url(#wavePattern)"></rect>
+
               <!-- zoom group wraps both counties and markers -->
               <g id="zoomGroup">
-                <g id="taiwanCounties"></g>
+                <g id="taiwanCounties" filter="url(#countyShadow)"></g>
                 <g id="markers"></g>
+              </g>
+
+              <!-- Decorative compass rose top-right -->
+              <g class="map-compass" transform="translate(740, 60)" aria-hidden="true">
+                <circle r="22" fill="white" fill-opacity="0.7" stroke="#cbd5e1" stroke-width="1"></circle>
+                <path d="M0,-16 L4,0 L0,16 L-4,0 Z" fill="#0ea5e9"></path>
+                <text y="-22" text-anchor="middle" font-size="10" fill="#0369a1" font-weight="700">N</text>
+              </g>
+
+              <!-- Decorative title bottom-left -->
+              <g class="map-title-overlay" transform="translate(40, 950)" aria-hidden="true">
+                <text font-size="28" font-weight="900" fill="#1e3a8a" font-family="-apple-system, 'Noto Serif TC', serif">台灣 TAIWAN</text>
+                <text y="20" font-size="11" fill="#0369a1" letter-spacing="2">22 COUNTIES · 16 INDIGENOUS GROUPS</text>
               </g>
             </svg>
 
@@ -361,18 +417,23 @@ const routesData = getMapRoutes(t);
 
   .map-canvas {
     position: relative;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 16px;
-    padding: 1.5rem;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 50%, #f0fdfa 100%);
+    border: 1px solid #cbd5e1;
+    border-radius: 20px;
+    padding: 1rem;
+    box-shadow:
+      0 10px 30px rgba(15, 23, 42, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.6);
     width: 100%;
     height: 100%;
+    overflow: hidden;
   }
   .taiwan-svg {
     width: 100%;
     height: 100%;
     cursor: grab;
+    border-radius: 14px;
+    overflow: visible;
   }
   .taiwan-svg:active {
     cursor: grabbing;
@@ -410,13 +471,15 @@ const routesData = getMapRoutes(t);
   }
 
   :global(.county) {
-    fill: #bbf7d0;
-    stroke: #4ade80;
-    stroke-width: 0.8;
-    transition: fill 0.2s;
+    /* fill / stroke 由 SVG attribute 控制（region palette）— CSS 不覆寫 */
+    transition:
+      opacity 0.2s,
+      transform 0.2s;
+    transform-origin: center;
+    transform-box: fill-box;
   }
   :global(.county:hover) {
-    fill: #86efac;
+    opacity: 0.85;
   }
 
   :global(.marker) {
@@ -1297,17 +1360,26 @@ const routesData = getMapRoutes(t);
           (m) => m.city && countyName.includes(m.city.replace('台', '臺')),
         ).length;
 
-        // 熱力圖：marker 越多顏色越深
-        const intensity = Math.min(markerCount / 15, 1); // 15 markers = 最深
-        const green = Math.round(247 - intensity * 100);
-        path.setAttribute(
-          'fill',
-          `rgb(${187 - intensity * 80}, ${green}, ${208 - intensity * 80})`,
-        );
-
-        path.setAttribute('stroke', '#4ade80');
-        path.setAttribute('stroke-width', '0.8');
+        // 五區色彩：每區用自己的 gradient（north 暖黃 / central 沙橙 / south 薄荷 / east 翠綠 / islands 薰衣草）
+        const REGION_FILL = {
+          north: 'url(#regionNorth)',
+          central: 'url(#regionCentral)',
+          south: 'url(#regionSouth)',
+          east: 'url(#regionEast)',
+          islands: 'url(#regionIslands)',
+        };
+        const REGION_STROKE = {
+          north: '#f59e0b',
+          central: '#ea580c',
+          south: '#10b981',
+          east: '#22c55e',
+          islands: '#8b5cf6',
+        };
+        path.setAttribute('fill', REGION_FILL[region] || 'url(#taiwanGradient)');
+        path.setAttribute('stroke', REGION_STROKE[region] || '#4ade80');
+        path.setAttribute('stroke-width', '1.1');
         path.setAttribute('data-county', countyName);
+        path.setAttribute('data-region', region);
         path.setAttribute('data-count', markerCount);
 
         // Hover 效果（22 縣市深度文章升級版：顯示核心矛盾）
@@ -1350,21 +1422,30 @@ const routesData = getMapRoutes(t);
       const markersGroup = document.getElementById('markers');
       markersData.forEach((m) => {
         const [x, y] = projection([m.lng, m.lat]);
-        const circle = document.createElementNS(
-          'http://www.w3.org/2000/svg',
-          'circle',
-        );
-        circle.setAttribute('cx', String(x));
-        circle.setAttribute('cy', String(y));
-        circle.setAttribute('r', '5');
-        circle.setAttribute('class', 'marker');
-        circle.setAttribute('fill', categoryColors[m.category] || '#16a34a');
-        circle.setAttribute('data-region', m.region);
-        circle.setAttribute('data-category', m.category);
-        circle.setAttribute('data-title', m.title);
-        circle.setAttribute('data-link', m.link);
-        circle.setAttribute('data-desc', m.desc);
-        markersGroup.appendChild(circle);
+        const color = categoryColors[m.category] || '#16a34a';
+        // 升級 marker：白色 outer ring + 彩色 inner，類似 pin 視覺
+        const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+        g.setAttribute('class', 'marker');
+        g.setAttribute('data-region', m.region);
+        g.setAttribute('data-category', m.category);
+        g.setAttribute('data-title', m.title);
+        g.setAttribute('data-link', m.link);
+        g.setAttribute('data-desc', m.desc);
+        g.setAttribute('transform', `translate(${x}, ${y})`);
+
+        const outer = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+        outer.setAttribute('r', '6.5');
+        outer.setAttribute('fill', 'white');
+        outer.setAttribute('stroke', color);
+        outer.setAttribute('stroke-width', '1.5');
+        g.appendChild(outer);
+
+        const inner = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+        inner.setAttribute('r', '3.5');
+        inner.setAttribute('fill', color);
+        g.appendChild(inner);
+
+        markersGroup.appendChild(g);
       });
 
       // D3 zoom
@@ -1794,13 +1875,25 @@ const routesData = getMapRoutes(t);
         path.style.stroke = '#16a34a';
         path.style.strokeWidth = '2';
       } else {
-        // 重置其他縣市
-        const markerCount = parseInt(path.getAttribute('data-count') || 0);
-        const intensity = Math.min(markerCount / 15, 1);
-        const green = Math.round(247 - intensity * 100);
-        path.style.fill = `rgb(${187 - intensity * 80}, ${green}, ${208 - intensity * 80})`;
-        path.style.stroke = '#4ade80';
-        path.style.strokeWidth = '0.8';
+        // 重置其他縣市 → 回歸 region-based palette
+        const region = path.getAttribute('data-region');
+        const REGION_FILL = {
+          north: 'url(#regionNorth)',
+          central: 'url(#regionCentral)',
+          south: 'url(#regionSouth)',
+          east: 'url(#regionEast)',
+          islands: 'url(#regionIslands)',
+        };
+        const REGION_STROKE = {
+          north: '#f59e0b',
+          central: '#ea580c',
+          south: '#10b981',
+          east: '#22c55e',
+          islands: '#8b5cf6',
+        };
+        path.style.fill = REGION_FILL[region] || 'url(#taiwanGradient)';
+        path.style.stroke = REGION_STROKE[region] || '#4ade80';
+        path.style.strokeWidth = '1.1';
       }
     });
 

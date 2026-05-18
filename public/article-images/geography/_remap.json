@@ -1,0 +1,123 @@
+{
+  "基隆市": [
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2020_Zhengbin_Fishing_Port.jpg/1280px-2020_Zhengbin_Fishing_Port.jpg",
+      "new": "/article-images/geography/keelung-hero.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2022_Hoping_Island_Keelung_TAIWAN_i.jpg/1280px-2022_Hoping_Island_Keelung_TAIWAN_i.jpg",
+      "new": "/article-images/geography/keelung-01.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2017_Port_of_Keelung.jpg/1280px-2017_Port_of_Keelung.jpg",
+      "new": "/article-images/geography/keelung-03.jpg"
+    }
+  ],
+  "嘉義市": [],
+  "連江縣": [],
+  "澎湖縣": [],
+  "宜蘭縣": [],
+  "苗栗縣": [],
+  "新竹縣": [],
+  "嘉義縣": [],
+  "屏東縣": [
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Eluanbi_Lighthouse_02.jpg/1280px-Eluanbi_Lighthouse_02.jpg",
+      "new": "/article-images/geography/pingtung-hero.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E6%8E%92%E7%81%A3%E6%97%8F%E7%89%A1%E4%B8%B9%E7%A4%BE%E7%84%A1%E8%A2%96%E7%9F%AD%E4%B8%8A%E8%A1%A3.jpg/1280px-%E6%8E%92%E7%81%A3%E6%97%8F%E7%89%A1%E4%B8%B9%E7%A4%BE%E7%84%A1%E8%A2%96%E7%9F%AD%E4%B8%8A%E8%A1%A3.jpg",
+      "new": "/article-images/geography/pingtung-01.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%E8%90%AC%E9%87%91%E5%A4%A9%E4%B8%BB%E6%95%99%E5%A0%82%EF%BC%88%E8%90%AC%E9%87%91%E8%81%96%E6%AF%8D%E8%81%96%E6%AE%BF%EF%BC%89.jpg/1280px-%E8%90%AC%E9%87%91%E5%A4%A9%E4%B8%BB%E6%95%99%E5%A0%82%EF%BC%88%E8%90%AC%E9%87%91%E8%81%96%E6%AF%8D%E8%81%96%E6%AE%BF%EF%BC%89.jpg",
+      "new": "/article-images/geography/pingtung-02.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%E6%81%86%E6%98%A5%E5%8F%A4%E5%9F%8E%E6%9D%B1%E9%96%80%E5%9F%8E%E5%9E%9B.JPG/1280px-%E6%81%86%E6%98%A5%E5%8F%A4%E5%9F%8E%E6%9D%B1%E9%96%80%E5%9F%8E%E5%9E%9B.JPG",
+      "new": "/article-images/geography/pingtung-03.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pingtung_Train_Station.jpg/1280px-Pingtung_Train_Station.jpg",
+      "new": "/article-images/geography/pingtung-04.jpg"
+    }
+  ],
+  "花蓮縣": [
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_LiWu_River.JPG",
+      "new": "/article-images/geography/hualien-01.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/2/24/20170924-%E7%81%AB%E7%A5%9E%E7%A5%AD%E9%96%8B%E5%B7%A5%E7%A5%AD%E7%A5%80_%2819%29.jpg",
+      "new": "/article-images/geography/hualien-02.jpg"
+    }
+  ],
+  "台東縣": [
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Lanyu_landscape_-_Taiwan.jpg/1280px-Lanyu_landscape_-_Taiwan.jpg",
+      "new": "/article-images/geography/taitung-03.jpg"
+    }
+  ],
+  "彰化縣": [],
+  "雲林縣": [],
+  "金門縣": [
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kinmen_Montage.png/1280px-Kinmen_Montage.png",
+      "new": "/article-images/geography/kinmen-hero.png"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Juguang_Tower%2C_Kinmen%2C_Taiwan.JPG/1280px-Juguang_Tower%2C_Kinmen%2C_Taiwan.JPG",
+      "new": "/article-images/geography/kinmen-01.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jhaishan_Tunnel%2C_Kinmen%2C_Taiwan.JPG/1280px-Jhaishan_Tunnel%2C_Kinmen%2C_Taiwan.JPG",
+      "new": "/article-images/geography/kinmen-02.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Kinmen_cultural_village%2C_Kinmen%2C_Taiwan.JPG/1280px-The_Kinmen_cultural_village%2C_Kinmen%2C_Taiwan.JPG",
+      "new": "/article-images/geography/kinmen-03.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mo_fan_Street%2C_Kinmen%2C_Taiwan.JPG/1280px-Mo_fan_Street%2C_Kinmen%2C_Taiwan.JPG",
+      "new": "/article-images/geography/kinmen-04.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wind_Lion_God_in_Kimmen_DSC_3309.jpg/1280px-Wind_Lion_God_in_Kimmen_DSC_3309.jpg",
+      "new": "/article-images/geography/kinmen-05.jpg"
+    }
+  ],
+  "南投縣": [
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hehuanshan_Cuesta.JPG",
+      "new": "/article-images/geography/nantou-01.jpg"
+    }
+  ],
+  "新竹市": [],
+  "桃園市": [],
+  "台南市": [],
+  "高雄市": [
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Port_of_kaohsiung_first_harbor_commercial_area_2021.jpg/1280px-Port_of_kaohsiung_first_harbor_commercial_area_2021.jpg",
+      "new": "/article-images/geography/kaohsiung-01.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dome_of_Light_at_Formosa_Boulevard_Station_20240919.jpg/1280px-Dome_of_Light_at_Formosa_Boulevard_Station_20240919.jpg",
+      "new": "/article-images/geography/kaohsiung-02.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cijin_Island%2C_Kaohsiung_%2852831825604%29.jpg/1280px-Cijin_Island%2C_Kaohsiung_%2852831825604%29.jpg",
+      "new": "/article-images/geography/kaohsiung-03.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kaohsiung-Love-River.jpg/1280px-Kaohsiung-Love-River.jpg",
+      "new": "/article-images/geography/kaohsiung-04.jpg"
+    },
+    {
+      "old": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Wei-Wu-Ying_Center_for_the_Arts_01.jpg/1280px-Wei-Wu-Ying_Center_for_the_Arts_01.jpg",
+      "new": "/article-images/geography/kaohsiung-05.jpg"
+    }
+  ],
+  "台北市": [],
+  "台中市": [],
+  "新北市": []
+}
