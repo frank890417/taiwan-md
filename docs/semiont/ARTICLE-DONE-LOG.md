@@ -59,6 +59,19 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 台灣人工智慧學校 NEW — 2026-05-18 2026-05-18-145200-twmd-rewrite（陳昇瑋創辦的 AIA 人物 × 制度雙層深度文 / Technology / 5,181 字 / 33 footnote / 3 inline + 1 hero = 4 圖）
+
+- **Article**: [knowledge/Technology/台灣人工智慧學校.md](../../knowledge/Technology/台灣人工智慧學校.md)
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式（main session Opus Stage 0 觀點成型 + general-purpose sub-agent Stage 1 28 WebSearch + 14 WebFetch / 主 session Stage 2-5 自寫 + polish）
+- **核心矛盾**（A+B 雙層）：A 制度斷層 vs 民間自救（1.8 億 vs 160 億並置）+ B 學術 elite 路徑 vs 應用 missionary 路徑（陳昇瑋從中研院 PI 下凡 1,000+ 天無休 44 歲過勞早逝）。B 是 A 的人格化解答 → 結構性悲劇（制度斷層必須有人個人扛代價）
+- **Hook**：2020-03-27 陳昇瑋打電話給天下雜誌主編「想做一件事」想開全民免費程式課 → 兩天後直排輪場跌倒 → 13 天後不治 44 歲 → 2013 半夜對妻子何家榛說「台灣有沒有一個場域讓工作者像學生」→ 2014 台灣資料科學年會（1,800 人）+ 2016 台灣資料科學協會 → 2017 跟孔祥重廖俊智訪宏遠興業等十家工廠 → 2017-08 陳良基「AI 小國大戰略」5 年 160 億 vs 同期陳昇瑋找台塑/奇美/英業達/義隆/聯發科/友達光電各 3,000 萬 × 6 = 1.8 億民間募資 → 2018-01-27 中研院跨領域大樓 7 樓 530 人開學典禮 → 陳彥欽 AT071039「AI 的軍校」逐字心得 → 2018-02 玉山金第一位科技長 → 2019-07 寫《人工智慧在台灣》 → 2020-04-21 阿宅動畫追思 → 2020-08-31 蔡明順接任代理執行長 → 2021-10-08 陳昇瑋紀念講座（簡立峰首場）→ 2024-05 校友破 10,000 人 → 2024 LLM-A 短班 NT$17,000 / 3 日 21 小時 → 結尾閉環回那通沒打完的電話
+- **品質**：5,181 CJK / 33 footnotes / 3 inline + 1 hero = 4 圖 / 8 narrative H2 / Stage 4 hard=0 warn=0 ✅ / Stage 3.5 hard=0 warn=0 ✅ / prose-health score=1 pass / 對位句 3 處（callout 觀點對比 + AIA「不是跳槽工具是進修管道」+ AI 戰略「不是台灣主體是民間主體」皆 §11.1 三題判準合法保留）/ 破折號從 35 polish 後降到約 12 處
+- **Research**: [reports/research/2026-05/taiwan-ai-academy.md](../../reports/research/2026-05/taiwan-ai-academy.md) — Stage 0 觀點成型 + Stage 1 取材（28 search + 14 fetch / 20 facts / 18 verbatim quotes / 5 故事素材 / 47 sources 含 15 一手 + 8 英文）+ 媒體授權矩陣三表
+- **FACTCHECK**: 主 session verify agent claims 通過 — Stage 1 agent 自校 4 個關鍵 hypothesis（過世日期 2020-08-11 ❌→2020-04-11 ✅ / 1700 天 hypothesis → 1100 天 / 出事前兩天電話新發現升為開場 anchor / 六大金主 names verified 台塑+奇美+英業達+義隆+聯發科+友達不是原 hypothesis 的和碩/廣達）
+- **媒體**: 3 張 fair use editorial commentary 圖 — 陳昇瑋 portrait 2018 hero AIA 官方 841×617 (aspect 1.36) / 陳昇瑋演講 2018 inline AIA 官方 876×876 (aspect 1.00) / 陳昇瑋 GVM 專訪 2020 inline 張智傑攝遠見雜誌 792×555 (aspect 1.43)；全 check-aspect.sh PASS / 全 cache 在 public/article-images/technology/；YouTube 影片 OddYM6aq-zM 無字幕 → transcript N/A
+- **Cross-link**: 3 forward (AI發展 / 台灣AI日常 / 半導體產業) + 3 reverse 補進 sibling 延伸閱讀 — sibling format-structure 預檢：半導體產業 PASS / AI發展 + 台灣AI日常 各 1 warn（pre-existing 缺 30 秒概覽 blockquote，與本次 reverse cross-link 補做無關，per Step 5.3 WARNING tier 可接受 commit）
+- **Notes**: 觀察者拍板 A+B 混合核心矛盾後完整跑 Stage 0-5 pipeline。Stage 0.6 觀點成型 6 核心問題完整答完 + 反直覺核心句 anchor 整篇貫穿（description / 開場 / 中段 / 結尾首尾呼應）。爭議段（PTT Soft_Job name0625 校友負評具體 6 條）明白編進文章，不掩飾分校體系跟總校品質落差
+
 ### 台灣美食總覽 NEW — 2026-05-18 2026-05-18-135830-manual（Food 全景深度文 — 從原住民石板烤山豬到米其林 419 家、從 1949 眷村牛肉麵到 1986 春水堂珍奶 / Food 美食總覽 / 7234 字 / 69 footnote / 10 inline + 1 hero = 11 Wikimedia images）
 
 - **Article**: [knowledge/Food/台灣美食總覽.md](../../knowledge/Food/台灣美食總覽.md)
