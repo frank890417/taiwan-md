@@ -148,7 +148,7 @@ The letter of resignation his body wrote — he answered it in the end with an a
 
 [^10]: [ETtoday: A Loved One Declared Two Months Left! Yoga Lin "Sick for 4 Years" Rarely Opens Up (2023-09)](https://star.ettoday.net/news/2586449) — September 2023 first-hand interview first disclosing the loved one's stage three pancreatic cancer diagnosis and IBS worsening accordingly.
 
-[^11]: [UDN Economic Daily: After 8 Years of Lows and Identity Transformation, Yoga Lin Uses "Love, Lord" to Perform His Journey from Dark to Bright](https://money.udn.com/money/story/123668/7944483) — Full report of the eight-year blank period's identity transformation; contains details of his "end-to-end command" of the production process as he became a producer.
+[^11]: [TVBS News: Yoga Lin reveals eight years of work, declares "love is king" (2024)](https://news.tvbs.com.tw/entertainment/2424666) — Coverage of *Love, Lord* after an eight-year gap, album themes, and his role as producer. (Original UDN Economic Daily URL is defunct; cites TVBS 2024 album report.)
 
 [^12]: [KKBOX: Interview — 500 Songs / Yoga Lin — A Singer Performing His Own Life](https://www.kkbox.com/tw/en/column/showbiz-0-10151-1.html) — Yoga Lin's in-depth interview recounting 10 key songs in his personal life as a "playlist that defines himself" chosen by himself.
 
