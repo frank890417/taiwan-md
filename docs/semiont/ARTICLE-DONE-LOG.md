@@ -59,6 +59,30 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 歷史街區 Taipei batch 1 — 大稻埕 + 艋舺 + 西門町 NEW — 2026-05-21 2026-05-21-215830-manual（Wave 1 batch — 3 Opus agents 平行 ship + 主 session 整合 retrospective / Geography 歷史街區系列 P0 / 6539+6900+7137 = 20576 字 / 24+32+33 = 89 footnote / 5+6+5 = 16 圖）
+
+- **Articles**:
+  - [knowledge/Geography/大稻埕.md](../../knowledge/Geography/大稻埕.md) — 「800 公尺三個世紀，從 Formosa Tea 到二二八第一槍」
+  - [knowledge/Geography/艋舺.md](../../knowledge/Geography/艋舺.md) — 「清領台北最熱鬧的地方，現在是台北平均年齡最老的區」
+  - [knowledge/Geography/西門町.md](../../knowledge/Geography/西門町.md) — 「日本人 1896 蓋的娛樂街，130 年後還是台北最年輕的街」
+- **Pipeline**: REWRITE-PIPELINE v6.0 — Fresh 模式 × 3，共通模板 7 H2（凌晨四點時刻 / 名字考據 / 街成形時刻 / 軸線 / 物質層 / 在地人 3 個地方 / 收尾）
+- **Orchestration**: 3 Opus agents 平行跑（isolation: worktree），每 agent 完整 BECOME Full mode + Stage 0-5。Agent 1 大稻埕 + Agent 3 西門町 cleanly in worktree branches → cherry-pick 收網；Agent 2 艋舺 worktree isolation 跳出（promp 提及絕對路徑導致用 main path），直接 commit 到 main
+- **品質**: 3 篇 Stage 3.5 + Stage 4 plugin 全部 hard=0 warn=0（footnote-format / footnote-density / frontmatter / format-structure / wikilink-target / link-target / cjk-punct / chronicle-lead / word-count / image-health）
+- **Research reports**:
+  - [reports/research/2026-05/dadaocheng.md](../../reports/research/2026-05/dadaocheng.md)
+  - [reports/research/2026-05/wanhua.md](../../reports/research/2026-05/wanhua.md)
+  - [reports/research/2026-05/ximending.md](../../reports/research/2026-05/ximending.md)
+- **Cross-link**: 3 篇之間 bidirectional sibling（大稻埕↔艋舺↔西門町）+ 各自指 台北市 panorama + 老街文化 catalog
+- **🚨 Wave 1 retrospective 4 大發現**:
+  1. **Agent 1 (大稻埕) 幻覺出全部 5 個 Wikimedia URL** — 5/5 file 在 Commons 不存在。Stage 4 image-health plugin 只檢查 URL well-formed 不檢查 fetch verify → silent leak through gate。**已修補**：主 session 用 Wikimedia API 重找 5 個真 URL（霞海城隍廟 / 陳天來故居 / 屈臣氏大藥房 / 年貨大街 / 空拍 Dihua）+ wiki-fetch.py 下載到 local cache + edit article §圖片來源
+  2. **Wikimedia 2026-03-05 phased rate limit 嚴重** — 真實 image fetch hit 429 多次。Build [`scripts/tools/wiki-fetch.py`](../../scripts/tools/wiki-fetch.py)（Referer header + Firefox UA + thumb size variants 1280→960→500→330 + /thumb.php endpoint + Wayback CDX fallback + 跨 process /tmp lock + Retry-After 尊重）— 8/10 success rate，剩 2 個直接 curl + Referer fetch 成功
+  3. **Worktree isolation escape** — Agent 2 因 prompt 提絕對路徑 `/Users/cheyuwu/Projects/taiwan-md/` 跳出 worktree CWD 直接寫 main。Wave 2 prompt 已校準（不提絕對路徑，relative path only）
+  4. **`.husky/pre-commit` 不可執行 since 2026-05-09** — 3 個 agent commit 全部靜默 bypass hook（git 顯示「hook was ignored because it's not set as executable」hint 但不 fail）。REFLEXES #52「Immune system 沒在 fail loud」第 N 次驗證。**已修補**：`chmod +x .husky/pre-commit`
+- **Wave 1 image fix (主 session 收網)**: 大稻埕 5 fake URL → 5 verified real (Aerial Dihua / Xia-Hai City God Temple / Chen Tian-lai Residence / 屈臣氏大藥房 / Lunar New Year)；艋舺 5 hot-link → 5 local cache (Longshan Temple / Bopiliao / Chin S Temple / Bangka Qingshan Temple / Huaxi Street Night Market)。西門町 agent 3 已自行 local cache（5 圖）
+- **Wave 1 surplus images（未用，留 reserve）**: dadaocheng-tamsui-river-1920s.jpg / dadaocheng-historic-facades-2017.jpg / dadaocheng-wharf-main-gate-2010.jpg
+- **Wave 2 prompt 校準**: (1) Mandate Wikimedia API URL existence verify hard gate (2) Mandate scripts/tools/wiki-fetch.py for local cache (3) Worktree isolation 嚴禁絕對路徑 (4) image-health plugin 加 URL liveness check 進 LESSONS-INBOX 升 routine 候選
+- **Wave 2 候選**: 中山北路條通/林森北路 P0-4 + 永康街 P1-5 + 公館 P1-6 + 寶藏巖 P1-7 + 北投溫泉街 P1-8 = 5 條，校準 prompt ready 後 dispatch
+
 ### 台灣前 50 大企業 NEW — 2026-05-20 2026-05-20-000836-cron-rewrite-daily（autonomous routine — 護國神山撐起一張表，也撐起一個單點故障的國家 / Economy 結構性策展 / 4942 字 / 31 footnote / 3 圖）
 
 - **Article**: [knowledge/Economy/台灣前50大企業.md](../../knowledge/Economy/台灣前50大企業.md)
@@ -592,7 +616,7 @@ read_strategy: 'on-demand'
 - **核心矛盾**：「沒商業模式的策展平台怎麼撐 12 年」
 - **Title 三明治**：「數位荒原：一個沒商業模式的網路藝評平台怎麼活了 12 年」
 - **品質**：4,599 CJK chars (102%) / 26 footnotes / 3 images (NML issue covers letterboxed to 1600×900 hero / inline 2.0 aspect / fair use editorial commentary) / article-health rewrite-stage-4 hard=0 warn=0 ✓ / 對位句型 0 / 破折號 0.22 per 1500 chars
-- **NML local sources 用法**：README + manifest.json + articles-meta.json (88% 集中度 + 2011-2023 產出曲線) + issues/INDEX.md (56 期) + trial-issue 全文 (三家 partner ET@T/DAF/Project Glocal) + twinning-the-wastelands.md (Issue 12 / 2013-11 / R.A.P.) 
+- **NML local sources 用法**：README + manifest.json + articles-meta.json (88% 集中度 + 2011-2023 產出曲線) + issues/INDEX.md (56 期) + trial-issue 全文 (三家 partner ET@T/DAF/Project Glocal) + twinning-the-wastelands.md (Issue 12 / 2013-11 / R.A.P.)
 - **大事實修正**：peer-ingestion 報告寫「2021 第二期 Twinning Archipelago」實際 Issue 12 2013-11。本文修正並標 footnote
 - **WebSearch 14 次** canonical 證據：國藝會檔案庫補助金額（第一年 35 萬 2017 / 第二年 40 萬 2018）+ DAF 2008-09-18 成立 + ET@T 1995 + DAC 2009 + NML vs 典藏 ARTouch / 非常廟 VT 2023 解散 / etat archive 萎縮 三條件「無紙媒 + 無實體空間 + 個人主編」孤例
 - **Peer-bias 補位**：cite 王柏偉、高森信男、印卡、蔡長璜、區秀詒避免單一鄭文琦視角

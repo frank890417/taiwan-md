@@ -235,6 +235,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 > 5. 授權允許「轉寫」，**不解除跨源驗證鐵律**
 >
 > **MOU §2.2 footnote 標註義務**：每篇使用 PanSci 授權內容的文章 footnote 必須包含：
+>
 > - PanSci 原文 URL（https://pansci.asia/archives/{wp_id}）
 > - PanSci 名稱（中文：泛科學 / 英文：PanSci）
 > - 原文作者（PanSci 編輯部 / 胡中行 / 顯微觀點 等）
@@ -274,12 +275,14 @@ BECOME_TAIWANMD.md Step 5 新增：
 > **第一批 batch**：台北 12 條（P0×4 / P1×4 / P2×4，本批次寫入）。其他縣市 ~70-110 條等台北 pilot 完才 populate（per 哲宇 2026-05-21 directive）。
 >
 > **Scope 邊界**（per 哲宇 2026-05-21 拍板，寬鬆版）：
+>
 > - ✅ 清領以前成形（艋舺 / 大稻埕 / 大龍峒）
 > - ✅ 日治規劃成形（西門町 / 永康街昭和町 / 中山北路敕使街道 / 北投溫泉街）
 > - ✅ 戰後特定時代標誌（眷村四四南村 / 條通文化 / 牯嶺街舊書街 / 寶藏巖違建轉藝術村）
 > - ❌ 2000 年後純商業重劃區（信義計畫區 / 內湖科技園 — 留給「新興街區」另一個 spec 的系列）
 >
 > **共通 research caveats**（每篇都要注意，per reports §4）：
+>
 > - 街成形 vs 建築 vs 政治事件年份三源驗證（per REFLEXES #16）
 > - 地名變更跨時代分清楚（萬華 vs 艋舺 / 大稻埕 vs 大同區）
 > - 凱達格蘭等原住民先住歷史不被漢人開拓敘事覆蓋
@@ -290,56 +293,12 @@ BECOME_TAIWANMD.md Step 5 新增：
 > - cross-link：縣市 panorama / 老街主檔（雙向）/ ≥ 2 同期事件 article / ≥ 1 sibling 街區
 >
 > **跟既有檔案的關係**：
+>
 > - [Geography/台北市.md](../../knowledge/Geography/台北市.md) 12 區 panorama 保留，新系列補 sub-unit
 > - [Culture/台灣老街文化與商業街區.md](../../knowledge/Culture/台灣老街文化與商業街區.md) catalog 保留，新系列補 deep dive（雙向 cross-link）
 > - 22 縣市系列（已 ship）panorama / 街區系列 deep dive — 兩者垂直互補
 >
 > **Pilot 候選**：大稻埕（最 obvious P0 + thick history test）。pilot 完跑 retrospective 校準共通 caveats 再啟動其他 11 條。
-
-### P0-1 大稻埕 / 迪化街 NEW
-
-- **Type**: `NEW`
-- **Category**: Geography（subcategory: 歷史街區 / 台北市大同區）
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Source**: 哲宇 directive 2026-05-21 historic-districts series batch 1
-- **核心矛盾候選** ≤ 30 字：「茶葉做生意的街、辦過西學堂、又是二二八第一槍，800 公尺裝三個世紀」
-- **Hook anchor**：清晨五點半的迪化街，1860 年代陳天來的錦記茶行洋樓還站在原位置
-- **時間軸 anchor**：1851 商業出現 → 1853 頂下郊拼後同安人遷入 → 1860 淡水開港 → 1869 Formosa Tea 出口紐約 → 1885 劉銘傳設西學堂 → 1891 大稻埕火車站 → 1920 三市街合一 → 1947 天馬茶房第一槍 → 2010s 迪化街 207 文創復興
-- **必驗事實**：1851 vs 1853 街成形起點 / Formosa Tea 1869 首船細節 / 天馬茶房地址（南京西路 189 號 vs 其他源說法）/ 1885 西學堂位置 / 李春生「茶葉之父」稱呼源 / 陳天來錦記茶行 1891 創立 vs 1920-23 洋樓建年
-- **政治敏感性**：中（二二八第一槍敘事 + 1853 頂下郊拼族群械鬥需小心 framing）
-- **Cross-link**：[台北市](../../knowledge/Geography/台北市.md) / [老街主檔](../../knowledge/Culture/台灣老街文化與商業街區.md)（雙向）/ [台灣茶文化](../../knowledge/Culture/台灣茶文化.md) / 二二八相關 / 艋舺 sibling
-- **預估時間**：~3-4 hr（pilot scale，含 Stage 1 research ~40 search + Stage 2-5 寫作 + Stage 6 ship）
-
-### P0-2 艋舺 / 剝皮寮 NEW
-
-- **Type**: `NEW`
-- **Category**: Geography（subcategory: 歷史街區 / 台北市萬華區）
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Source**: 哲宇 directive 2026-05-21 historic-districts series batch 1
-- **核心矛盾候選** ≤ 30 字：「清領台北最熱鬧的地方，現在是台北平均年齡最老的區」
-- **Hook anchor**：清晨六點龍山寺廟埕的第一炷香，老人家從 1738 拜到 2026
-- **時間軸 anchor**：凱達格蘭語 Manka → 1709 陳賴章墾號 → 1738 龍山寺建 →「一府二鹿三艋舺」清領全盛 → 1853 頂下郊拼（三邑 vs 同安） → 1884 中法戰爭龍山寺為義軍指揮所 → 日治剝皮寮老街保存 → 1990 萬華區改名 → 2010《艋舺》電影
-- **必驗事實**：龍山寺 1738 建年（清乾隆三年）/ 剝皮寮地名來源（剝杉皮 vs 剝樹皮各源說法）/ 頂下郊拼 1853 具體年份 + 三邑安溪同安族群 / 1884 中法戰爭龍山寺角色 /「一府二鹿三艋舺」俗諺最早出處 / 2010《艋舺》電影鈕承澤拍攝細節
-- **政治敏感性**：低-中（族群械鬥史 + 電影對黑道美化爭議）
-- **Cross-link**：[台北市](../../knowledge/Geography/台北市.md) / [老街主檔](../../knowledge/Culture/台灣老街文化與商業街區.md) / [台灣宗教與寺廟文化](../../knowledge/Culture/台灣宗教與寺廟文化.md) / 大稻埕 / 西門町 sibling
-- **預估時間**：~2.5 hr（template 已熟）
-
-### P0-3 西門町 NEW
-
-- **Type**: `NEW`
-- **Category**: Geography（subcategory: 歷史街區 / 台北市萬華區）
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Source**: 哲宇 directive 2026-05-21 historic-districts series batch 1
-- **核心矛盾候選** ≤ 30 字：「日本人 1896 蓋的娛樂區，130 年後還是台北最年輕的街」
-- **Hook anchor**：週六傍晚六點的西門紅樓前，扮裝攝影、刺青店、Cosplay 同框
-- **時間軸 anchor**：1896 日人在艋舺西邊規劃娛樂區 → 1908 西門紅樓建 → 1922 改正名西門町 → 戰後 1950s-80s「青少年文化首都」→ 1961-1992 中華商場時期 → 戒嚴期 MTV 影城 + 流行音樂出道地 → 1990s 後次文化、Cosplay、刺青、潮牌 → 2026
-- **必驗事實**：西門紅樓 1908 八卦堂 + 1908 十字樓兩棟具體建年 / 中華商場 1961.4 啟用 vs 1992-11-30 拆除 / 西門町指涉範圍精確（成都路、漢中街、武昌街、峨眉街）/ 萬年大樓、誠品 116 等戰後地標年表
-- **政治敏感性**：低（次文化敘事相對中性）
-- **Cross-link**：[台北市](../../knowledge/Geography/台北市.md) / [台灣動漫文化](../../knowledge/Culture/台灣動漫文化.md) / [台灣街頭藝術與塗鴉文化](../../knowledge/Culture/台灣街頭藝術與塗鴉文化.md) / 大稻埕 / 艋舺 sibling
-- **預估時間**：~2.5 hr
 
 ### P0-4 中山北路條通 / 林森北路 NEW
 
