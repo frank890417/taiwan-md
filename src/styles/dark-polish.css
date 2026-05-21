@@ -328,6 +328,25 @@
   color: var(--color-ink);
 }
 
+/* TOC active state — TableOfContents.astro hard-codes light-mode teal
+ * (#006d77 border + rgba(0,109,119,0.06) bg + #006d77 text) in arbitrary
+ * Tailwind variants `[&.active]:...`. These wash out against the dark
+ * (#050505) page background — the active chapter becomes indistinguishable
+ * from inactive ones. Override the three properties with accent-derived
+ * tints that read clearly on dark. */
+:root[data-theme='dark'] .toc-link.active {
+  border-left-color: var(--color-accent) !important;
+  background-color: color-mix(
+    in srgb,
+    var(--color-accent) 14%,
+    transparent
+  ) !important;
+  color: var(--color-accent) !important;
+}
+:root[data-theme='dark'] .toc-link.active span {
+  color: var(--color-accent) !important;
+}
+
 /* ──────────────────────────────────────────────────────────────────
  * Category hub overrides (main.category-page).
  *

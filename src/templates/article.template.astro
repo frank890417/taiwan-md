@@ -249,10 +249,25 @@ function processFootnotes(md: string): string {
   return body;
 }
 
-const fullHtml = marked.parse(processFootnotes(resolveWikilinks(content)), {
-  renderer,
-  breaks: true,
-}) as string;
+// Strip a leading `# Title` heading when it duplicates the frontmatter title
+// — ArticleHero already renders the title as the H1 of the page, and ~40%
+// of zh-TW articles still include `# {Title}` as the first body line. The
+// duplicate visually competes with the hero title. Operate on raw markdown
+// (before footnote / wikilink processing) so the regex only sees `# Title`,
+// not an HTML element with id attributes injected by marked.
+const _titleEsc = String(title).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const bodyMarkdown = content.replace(
+  new RegExp(`^\\s*#\\s+${_titleEsc}\\s*\\n+`),
+  '',
+);
+
+const fullHtml = marked.parse(
+  processFootnotes(resolveWikilinks(bodyMarkdown)),
+  {
+    renderer,
+    breaks: true,
+  },
+) as string;
 
 // Split content before 延伸閱讀/Further Reading to insert SSODT sections
 // 2026-05-03 fix: bold paragraph format `**延伸閱讀**：` was silently broken
@@ -352,6 +367,8 @@ const encodedTitle = encodeURIComponent(title);
       category={category}
       categoryName={categoryInfo.name}
       categoryColor={categoryInfo.color}
+      subcategory={frontmatter.subcategory}
+      status={frontmatter.status}
       coverImage={frontmatter.image ? '' : categoryInfo.cover}
       slug={slug}
       lang={lang}
@@ -377,42 +394,6 @@ const encodedTitle = encodeURIComponent(title);
 
       <!-- Center: Article content -->
       <article class="min-w-0 [grid-area:body]" data-pagefind-body>
-        <!-- Status / subcategory strip -->
-        <div
-          class="mb-10 flex flex-wrap items-center gap-3 border-b border-[rgba(26,60,52,0.08)] pb-8"
-        >
-          {
-            frontmatter.status && (
-              <span
-                class="rounded-full px-3 py-1 font-['Inter',system-ui,sans-serif] text-[0.72rem] font-semibold uppercase tracking-[0.12em]"
-                style={`background:${categoryInfo.colorLight}; color:${categoryInfo.color};`}
-              >
-                {frontmatter.status}
-              </span>
-            )
-          }
-          <a
-            href={`/${category}`}
-            class="font-['Inter',system-ui,sans-serif] text-[0.82rem] font-semibold no-underline transition-opacity duration-150 hover:opacity-70"
-            style={`color:${categoryInfo.color};`}
-          >
-            {categoryInfo.name}
-          </a>
-          {
-            frontmatter.subcategory && (
-              <>
-                <span class="text-[0.85rem] text-[#b0bdb4]">›</span>
-                <span
-                  class="rounded-full px-[0.7rem] py-[0.2rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] font-medium"
-                  style={`color:${categoryInfo.color}; background:${categoryInfo.colorLight};`}
-                >
-                  {frontmatter.subcategory}
-                </span>
-              </>
-            )
-          }
-        </div>
-
         <!-- LifeTree CTA banner (experimental feature, links to standalone page) -->
         {
           frontmatter.lifeTree && (
