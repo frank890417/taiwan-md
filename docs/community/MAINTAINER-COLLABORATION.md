@@ -199,6 +199,42 @@ Expert 交付時必須:
 
 ---
 
+## 實際工作流: 多 AI agent 分層協作示範
+
+batch-200 的工作流不是「一個人改 200 篇」，是把 200 篇拆給不同專業的 AI agent 分工。哲宇在 #851 Comment 8 描述這份示範為「開源社群裡 AI agent 怎麼分層協作」— 對 Taiwan.md 未來跟其他用 AI 寫作的 contributor 互動有參考價值。
+
+### 3 個 AI agent 角色
+
+**架構師 (audit lead)** — 以 Claude Opus 為主
+- dossier audit / URL liveness 檢查
+- 寫工單 (per 紀律 B 操作分類 + acceptance test 內建)
+- Verify 階段 100% iterate (per 紀律 C 不 sampling)
+- SSOT cross-reference (避免 audit 抓錯方向被 cascade 放大)
+- 不寫 prose (不到 Taiwan.md voice)
+
+**語言學家 (prose lead)** — 以 Claude Sonnet 為主
+- prose work / editorial polish (per EDITORIAL.md 全檔紀律)
+- 對位句型禁忌 + 破折號連用偵測 (per EDITORIAL §六)
+- 把 bullet 轉 prose 不丟內容 (per 紀律 G CJK 守恆)
+- 不做 web research (sub-agent WebSearch 權限受限環境，fallback 用 self-checklist mode)
+
+**首席情報官 (intel lead)** — 以 Claude Opus + WebSearch heavy 為主
+- 高知名度人物 (政治家 / 學者 / 公眾人物) 背景補驗
+- audit reverse cross-check — 在架構師寫工單前驗證 audit 沒抓錯方向 (避免「該補 vs 該刪」誤判)
+- 私有 SSOT 觀察者拍板協助 (per [REWRITE-PIPELINE Step 1.6](../pipelines/REWRITE-PIPELINE.md))
+
+### 分工原則
+
+- **Dossier 交接**: 架構師寫 dossier → 語言學家寫 prose → 架構師 verify。跨 agent 透過 dossier 對接，**事實只查一次**，不重複爬蟲
+- **High-profile audit reverse**: 政治家 / 學者類 article 的 audit findings 先經首席情報官 cross-check 才寫進 dossier，避免 audit reverse (audit 自己抓錯方向) 整條工作流被誤導
+- **Sub-agent fallback chain**: spawn sub-agent fail / hallucinated / WebSearch denied → fallback 到 main session 用 self-checklist mode (per 紀律 I-bis sanity-check)
+
+### 跟 contributor 的關係
+
+紀律 F-J + A-D 是工作流邏輯，**不限定特定平台或 AI agent setup**。其他 contributor 用 Claude / GPT / Cursor / 任何 AI agent 編排平台 spawn 自己的 agent 都可以套同樣紀律。重點不是「用哪個 model」而是「分層協作 + verify-not-sampling + acceptance test 內建」的工作流邏輯。
+
+---
+
 ## 跟既有 doc 的關係
 
 - **REWRITE-PIPELINE Step 1.4.5** perspective scan — Stage 1 加入 cross-陣營對立掃描
@@ -209,3 +245,5 @@ Expert 交付時必須:
 ---
 
 _— Lv.3 Maintainer @Zaious 從 batch-200 (古早 200 篇 P0-P3 修補) 實戰整理 / 2026-05-23 ship_
+
+_本工作流由 ChronicleCore (個人 AI agent 編排系統) 跑出來。三個 agent 角色內部代號: 樞機師 (架構師) / 巴別塔 (語言學家) / 天機星 (首席情報官)。⚙️_
