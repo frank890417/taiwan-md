@@ -66,8 +66,12 @@ def _parse_frontmatter_minimal(yaml_text: str) -> dict[str, Any]:
         pass
 
     out: dict[str, Any] = {}
-    for raw_line in yaml_text.splitlines():
+    lines = yaml_text.splitlines()
+    i = 0
+    while i < len(lines):
+        raw_line = lines[i]
         line = raw_line.rstrip()
+        i += 1
         if not line or line.startswith("#"):
             continue
         m = re.match(r"^([A-Za-z][\w-]*):\s*(.*)$", line)
@@ -75,7 +79,29 @@ def _parse_frontmatter_minimal(yaml_text: str) -> dict[str, Any]:
             continue
         key, val = m.group(1), m.group(2).strip()
         if not val:
-            out[key] = ""
+            # Empty top-level value — peek ahead for nested mapping (1 level)
+            # or block scalar (`|`/`>`). For nested mapping: indented `child: value`.
+            nested: dict[str, Any] = {}
+            while i < len(lines):
+                peek = lines[i]
+                peek_stripped = peek.rstrip()
+                if not peek_stripped:
+                    i += 1
+                    continue
+                child_m = re.match(
+                    r"^\s+([A-Za-z_][\w-]*):\s*(.*)$", peek_stripped
+                )
+                if not child_m:
+                    break
+                ckey = child_m.group(1)
+                cval = child_m.group(2).strip()
+                if (cval.startswith("'") and cval.endswith("'")) or (
+                    cval.startswith('"') and cval.endswith('"')
+                ):
+                    cval = cval[1:-1]
+                nested[ckey] = cval
+                i += 1
+            out[key] = nested if nested else ""
             continue
         # List: [a, b, c] or ['a', 'b']
         if val.startswith("[") and val.endswith("]"):

@@ -687,6 +687,16 @@ abstraction 蓋過細節是 AI 寫作最普遍的指紋。每段沒有 anchor no
 
 **密度規則**：≥ 1500 字長文，「不是 X 是 Y」+ 變種（不只 / 不僅 / 並非 / 不是 X 而是 Y）總數 ≤ 3 處。
 
+#### 對位句型禁忌的 legitimate 替代出口
+
+需要表達「我考慮過 Y 才選 Z」的取捨思考時，**寫進 frontmatter 的 `rationale.whats_excluded`，不要寫進 prose**。
+
+對位句型禁忌的根本問題是「prose 在做 metadata 該做的事」— 作者想表達取捨思考但沒 legitimate 替代出口，所以塞進 prose 形成「不是 X，是 Y」「不只是 A，更是 B」這種 fabricated strawman pattern。
+
+`rationale.whats_excluded` 提供 legitimate 替代出口。對位句型禁令從此有「禁了還能寫哪」的回答 — 不再是「禁了又沒地方寫」的怨念。
+
+詳細 schema: [RATIONALE-SPEC.md](RATIONALE-SPEC.md)。perspective scan SOP: [REWRITE-PIPELINE Step 1.4.5](../pipelines/REWRITE-PIPELINE.md)。
+
 #### 破折號 `——` 連用
 
 密度過高 = AI 在補充而非陳述。每隔幾行一個破折號 = 語氣急促、結構鬆散、缺乏句子之間的呼吸。1500 字長文 ≤ 15 處。

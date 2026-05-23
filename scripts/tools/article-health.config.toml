@@ -3,12 +3,21 @@
 # 設計提案：reports/article-health-ssot-design-2026-05-04.md
 # Canonical 寫作品質規則：docs/editorial/EDITORIAL.md
 #
-# Phases 1-7 shipped 2026-05-04. Initial 13 plugins; 18 plugins as of 2026-05-16:
+# Phases 1-7 shipped 2026-05-04. Initial 13 plugins; 19 plugins as of 2026-05-23:
 #   cjk-punct / cross-reference / footnote-density / footnote-format /
 #   footnote-url / format-structure / frontmatter-format /
 #   frontmatter-title / image-health / link-target / prose-health /
 #   terminology / wikilink-target / chronicle-lead / word-count /
-#   spore-writing / image-alt (NEW 2026-05-16) / seo-meta (NEW 2026-05-16)
+#   spore-writing / image-alt (NEW 2026-05-16) / seo-meta (NEW 2026-05-16) /
+#   rationale-presence (NEW 2026-05-23, per issue #851 No2+No3 Build 3)
+#
+# rationale-presence added 2026-05-23 — issue #851 No2+No3 Phase 5 ship.
+# Checks frontmatter rationale block has 4 required keys (why_this_hook /
+# whats_excluded / where_it_hedges / whos_pushing_back) + 1 optional
+# (which_framing). WARN for strict categories (People/History/Society/Politics);
+# INFO for advisory categories (Music/Food/Nature/etc). HARD for typo'd key
+# names. Plugin only checks key presence, NOT content depth (簡填 OK per
+# 主人 awareness 哲學). Canonical spec: docs/editorial/RATIONALE-SPEC.md.
 #
 # image-alt + seo-meta added 2026-05-16 215434-manual session — Phase 4-5 of
 # immune-score-redesign. P0 缺口 from TOOL-INVENTORY §🕳️. Both default WARN

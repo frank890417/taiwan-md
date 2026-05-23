@@ -551,6 +551,65 @@ grep -r "主題關鍵詞" knowledge/{Category}/
 
 **v2.14 觸發背景**：2026-04-10 session α 國防現代化重寫的教訓——沒有李喜明那句苦笑，整篇會變回豪豬戰略勝利敘事。
 
+### Step 1.4.5: Perspective scan — 跨陣營對立 spectrum 覆蓋 🧭
+
+Step 1.4 收斂的是文章內部 thesis 矛盾。Step 1.4.5 找的是**跨陣營對立 spectrum** — 哪些陣營對本文 framing 會質疑、是否該引述對立論述、排除哪些理由。perspective scan 結果**必須**落地到 frontmatter `rationale.whats_excluded` (per [RATIONALE-SPEC.md](../editorial/RATIONALE-SPEC.md))。
+
+**兩種做法擇一**：
+
+| 做法 | 適用 | 觸發 |
+|------|------|------|
+| **A. spawn 反方 agent** | 爭議題目 (政治 / 史觀 / 政策 / identity) | sub-agent WebSearch 可用時 |
+| **B. 作者自問 checklist** | 非爭議題目 OR sub-agent WebSearch 不可用 OR retrofit 場景 | 永遠可用作 fallback |
+
+#### 做法 A — sub-agent prompt (含防呆三條)
+
+```
+你是 [topic] 議題的反方代表 / 質疑者 / 批評者。
+從反對立場找 5-10 個有實質論述的 sources。
+
+防呆三條:
+1. 每條對立論述必附 source URL — 拿不出 URL 就不算數
+2. 列 5-10 條;論述不夠就明確標「對立陣營論述薄弱」+ 為什麼,不要硬湊
+3. 顯式排除「情緒攻擊類 / 無實質論點」(範例: 人身攻擊 / 沒事實依據的 ad hominem / 純口號 chants)
+
+回覆格式: { url, position summary, strongest argument, source quality grade (A/B/C) }
+```
+
+**設計目的**：寧可 agent 回「對立論述不夠」也不要 hallucinated 假反方觀點。前者作者還能判斷，後者會誤導作者把假論述當真論述處理。
+
+#### 做法 B — 作者 self-checklist 5 題
+
+寫文章前作者自問：
+
+1. 這個主題的主要爭議陣營是誰？
+2. 我引用的 sources 涵蓋了哪些陣營？
+3. 我沒引的陣營有沒有實質論述存在於網路上？
+4. 如果有，我為什麼沒引？
+5. **對立論述如果存在但作者選擇不引 — 是因為 (a) 論述薄弱 (b) 篇幅限制 (c) 不在範疇？三選一寫進 `whats_excluded`**
+
+**為什麼第 5 題強制三選一**：含糊帶過會變成「我有想過」的偷吃步 — 只有逼作者選一個具體原因，這個思考才真的留下來給後人。
+
+#### 處理策略 3 選 1
+
+對 sub-agent 結果或 self-checklist 結論，作者決定每個對立論述的處理：
+
+| 策略 | 動作 | 落地位置 |
+|------|------|---------|
+| **引用** | 把論述帶進文章作 counterpoint | 文章內 + 補新 `[^N]` |
+| **排除 + 理由** | 不帶進文章，理由寫進 metadata | `rationale.whats_excluded` |
+| **不在範圍 + 理由** | 對立論述跟本文焦點不同 | `rationale.whats_excluded` |
+
+→ 跟 RATIONALE-SPEC.md hard coupled — perspective scan 結果**必須**落到 metadata。
+
+#### 不做的事
+
+- ❌ 不強制平衡 (總有平衡不完)
+- ❌ 不取代 Step 1.4 找矛盾 (perspective scan 是 1.4 的延伸)
+- ❌ 不 retroactive 200 篇 (per #851 Build 3 「retrofit 太重」)
+
+**觸發背景**：2026-04-30 issue #851 哲宇提 No2「20 個 source 是數量檢查，沒有觀點檢查」。5/22-23 Phase 3 統獨光譜 + Phase 4 蔡英文 retrofit 兩篇 dogfood 後 ship canonical。完整脈絡見 [RATIONALE-SPEC.md](../editorial/RATIONALE-SPEC.md)。
+
 ### Step 1.5: 問觀察者要一手素材 🫧
 
 Stage 1 結束前，**主動問觀察者一句**：
