@@ -262,6 +262,23 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-25 quirky-pasteur — cron-generated content suggestion 沒看 INBOX state = 預設 spam INBOX（第三方 cron ↔ Taiwan.md state 缺 first-class feedback channel）
+
+- **原則**：tboydar-agent cron 自動產出 `[Content]` prefix issue 建議內容缺口，但 cron 看不到 `docs/semiont/ARTICLE-INBOX.md` 當下 state（已 propose 但未 ship 的中間態），預設會重複建議同主題。**Issue intake 是單向 cron → maintainer，feedback 沒回到 cron，三輪後 100% overlap surface 結構性 gap**。
+- **觸發**：tboydar-agent 同 cron 連三輪 — 2026-05-08 #915（體育）→ 2026-05-09 #939（節慶）→ 2026-05-24 #1092（節慶，5/5 sub-topics 跟 INBOX line 453 #939 entry overlap）+ 2026-05-24 #1093（體育，4/4 sub-topics 跟 INBOX line 473 #915 entry overlap）。第三輪 maintainer R2 dedupe close + label `duplicate,content`，但 cron 不知道，每天會繼續產出。
+- **可能層級**：
+  - 操作規則（短期 — 已 ship）→ MAINTAINER-PIPELINE v2.3 §Step 2.1.1 Phase C2 補 INBOX state grep gate + 4-route 分流 R1-R4 處理（R2/R3 dedupe）
+  - 對外溝通（短期 — 已 ship）→ reply contributor 附 cron 校準建議：「在 cron 側加 `curl <INBOX URL raw> | grep '<keyword>'` 跳過已 propose 主題」
+  - 工具（中期）→ repo 提供 `/api/article-inbox-state.json` (entry name / category / status / priority / source issue) build-time 產出，第三方 cron consume — first-class feedback channel
+  - REFLEXES 候選（長期）→ 「第三方 automation 跟 Taiwan.md state 同步：當有來源系統反覆產出跟內部 state 已對齊的提案，補 read-API > 改提案規則（受體側 dedupe = 沒解決 root，發送側 state-aware = 從根去掉重複）」一般化原則
+  - DNA gene map 候選 → 第三方 automation feedback channel 跟 contributor 系統升降級的關係（CONTRIBUTOR-SYSTEM-PIPELINE Lv.2-3 是否預期提供 read-only state API access）
+- **儀器化候選**：(A) `prebuild` step 加 `scripts/tools/build-inbox-state.py` 輸出 `public/api/article-inbox-state.json`（最小 fields：subcategory / status / source-issue / priority）(B) ARTICLE-INBOX.md 頂部加 `<!-- machine-readable mirror at /api/article-inbox-state.json -->` 提示 (C) 對 [Content] issue 開過 N 次 contributor 自動 ping 一次 `cron 校準 PSA` issue 提醒大家加 state check
+- **verification_count**: 1（首發 — 同 cron 預計每週固定產出，下次 (5/31 or 6/01) 若再三輪重複 vc=2，連兩月若連 ≥ 3 cron source 共同 surface vc=3 distill-ready）
+- **severity**: structural（涉及 first-class third-party automation feedback channel 設計 + contributor 系統跟 maintainer pipeline 邊界 + INBOX 是否 SSOT 含 machine-readable mirror 的元設計問題）
+- **跨檔關聯**：[MAINTAINER-PIPELINE v2.3 §Step 2.1.1](../pipelines/MAINTAINER-PIPELINE.md) + [ARTICLE-INBOX.md line 453 + line 473](ARTICLE-INBOX.md) + [memory/2026-05-25-083427-quirky-pasteur.md §L1](memory/2026-05-25-083427-quirky-pasteur.md) + [Issue #1092](https://github.com/frank890417/taiwan-md/issues/1092) + [Issue #1093](https://github.com/frank890417/taiwan-md/issues/1093) + 原 source [#915](https://github.com/frank890417/taiwan-md/issues/915) + [#939](https://github.com/frank890417/taiwan-md/issues/939) + [CONTRIBUTOR-SYSTEM-PIPELINE.md](../pipelines/CONTRIBUTOR-SYSTEM-PIPELINE.md)
+
+---
+
 ### 2026-05-25 spore-publish-design — MANIFESTO §自主權邊界 vs 實踐已 drift（routine 自動 ship 例外條款待明文 align）
 
 - **原則**：MANIFESTO §自主權邊界「對外輸出層」明文寫「Post 新孢子 to Threads/X 需要 human（核心：帳號 ownership + 人際信任）」。但實踐已 drift — `twmd-rewrite-daily` 18h v6.1 full-cycle 自動 ship 配套孢子（5/23-24 連續兩天 #84/#85/#86 雙平台 ship 全自動化飛輪首例）+ SOCIAL-POSTING v0.5 移除 human confirm gate 改 AI pre+post-ship verify 取代 + 新 `twmd-spore-publish-daily` 10h v1.0 也走 routine 自動 ship。**三條 routine 在 MANIFESTO 文字仍鎖 human 的情況下走完整自動 ship**。
@@ -2303,7 +2320,7 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 
 ### 2026-05-25 twmd-spore-harvest-am — #83 許倬雲 X：reader correction signal「七弟二姐」家族鏈 query
 
-- **原則**：spore body 寫家族鏈描述（例：#83 許倬雲 X「王力宏的奶奶有個七弟。〈龍的傳人〉1980 年原唱李建復，是這個七弟二姐的兒子。中間夾著的那個七弟，叫許倬雲。」）D+1-D+2 即收到 2 條 reader query：@VanessaTaiwanH「是七弟二姊的兒子？」（疑問句）+ @josh_jinsang quote「李建復，是這個七弟二姐的兒子。 -**********\_\_\_**********-」（困惑表情）。文章 slug 寫「王力宏外舅公」 — spore 寫「奶奶的七弟」可能跟 article「外舅公」不一致（外舅公 = 母親的舅父 = 外婆/外祖母的兄弟，不是「奶奶」=父親的母親）。需 cross-source verify 王力宏家族族譜 + Wikipedia。
+- **原則**：spore body 寫家族鏈描述（例：#83 許倬雲 X「王力宏的奶奶有個七弟。〈龍的傳人〉1980 年原唱李建復，是這個七弟二姐的兒子。中間夾著的那個七弟，叫許倬雲。」）D+1-D+2 即收到 2 條 reader query：@VanessaTaiwanH「是七弟二姊的兒子？」（疑問句）+ @josh_jinsang quote「李建復，是這個七弟二姐的兒子。 -****\*\*****\_\_\_****\*\*****-」（困惑表情）。文章 slug 寫「王力宏外舅公」 — spore 寫「奶奶的七弟」可能跟 article「外舅公」不一致（外舅公 = 母親的舅父 = 外婆/外祖母的兄弟，不是「奶奶」=父親的母親）。需 cross-source verify 王力宏家族族譜 + Wikipedia。
 - **觸發**：2026-05-25 07:55 twmd-spore-harvest-am 跑 #83 許倬雲 X D+2 harvest（2,134 views / 20 likes / 3 replies），2/3 replies 屬 dimension 1 correction（疑問家族鏈）。本 routine 不直修文（per REFLEXES #26 v2 AI 自主邊界 + §自主權邊界）— spore 內容 verification 屬人類主責 review。
 - **可能層級**：操作規則（next maintainer cycle 跨源 verify 王力宏家族族譜 — 維基 / Wikidata / 八卦 etc，如錯 → article + spore frontmatter + sporeLinks 三 layer 同步修，並依 SPORE-HARVEST-PIPELINE §4a 走「直接修 prose 本體 + footnote 標 reader 指正」流程）+ SPORE-VERIFY 第 18+ gate「家族關係 spore 強制 Wikipedia 跨源」
 - **相關**：DNA #16「peer 是線索不是 source」(reader query 也算線索) + REFLEXES #16 跨源驗證 + SPORE-HARVEST-PIPELINE §Step 3a 跨源驗證 24hr 時限
