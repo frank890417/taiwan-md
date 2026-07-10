@@ -22,20 +22,20 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年�
 rationale:
   why_this_hook: 'Start from Tainan and Taiwanese Hokkien rap, avoiding a version that reduces Dwagie to political messaging alone.'
   whats_excluded: 'Does not expand into a full awards table, recent subsidy controversies, or every album track; those are left for later research.'
-  where_it_hedges: 'Birth year, the NBA arena appearance, and the “first all-rap album in the Sinophone market” claim are softened or left in the research note.'
+  where_it_hedges: 'Birth year, the NBA arena appearance, and the all-rap album positioning of Lotus from the Tongue are softened or left in the research note.'
   whos_pushing_back: 'Readers who disagree with Dwagie’s political stances or public comments may expect a fuller controversy timeline.'
 ---
 
 # Dwagie: The Taiwanese Rap Schoolmaster Who Built a Training Room in Tainan
 
-> **30-second overview:** Dwagie (大支), born Tseng Kuan-jung (曾冠榕), is a Taiwanese rapper from Tainan and the founder of Kung-Fu Entertainment (人人有功練音樂工作室). In the late 1990s, he met MC HotDog on the Master U message board, moving from underground demos and club performances into Magic Stone Records’ Great Circus music studio. His 2002 debut album _Lotus from the Tongue_ (舌粲蓮花, sometimes written 舌燦蓮花) is often treated as the first all-rap album in the Sinophone market, while “Taiwan Song” (台灣SONG) turned Taiwanese Hokkien accent into a sonic marker of Taiwan-centered identity. After 2003, he returned to Tainan and built Kung-Fu Entertainment, turning a recording and practice space into a southern hip-hop base. In 2011, _The People_ (人) brought together Deserts Chang, Freddy Lim, Wen Hsia, the 14th Dalai Lama, and others, pushing human rights, religion, animal rights, and political concern into the vocabulary of Taiwanese rap. By the time of _The Rappers_ (大嘻哈時代), he had become a judge and “schoolmaster,” handing the experience of Taiwan’s early underground scene to a new generation.[^1][^2][^3][^4]
+> **30-second overview:** Dwagie (大支), born Tseng Kuan-jung (曾冠榕), is a Taiwanese rapper from Tainan and the founder of Kung-Fu Entertainment (人人有功練音樂工作室). In the late 1990s, he met MC HotDog on the Master U message board, moving from underground demos and club performances into Magic Stone Records’ Great Circus music studio. When _Lotus from the Tongue_ (舌粲蓮花, sometimes written 舌燦蓮花) appeared in 2002, it was discussed in the context of early full-length rap albums in the Sinophone market, while “Taiwan Song” (台灣SONG) turned Taiwanese Hokkien accent into a sonic marker of Taiwan-centered identity. After 2003, he returned to Tainan and built Kung-Fu Entertainment, turning a recording and practice space into a southern hip-hop base. In 2011, _The People_ (人) brought together Deserts Chang, Freddy Lim, Wen Hsia, the 14th Dalai Lama, and others, pushing human rights, religion, animal rights, and political concern into the vocabulary of Taiwanese rap. By the time of _The Rappers_ (大嘻哈時代), he had become a judge and “schoolmaster,” handing the experience of Taiwan’s early underground scene to a new generation.[^1][^2][^3][^4]
 
 ![Dwagie hosting a 2017 New Year event, holding a microphone in black-rimmed glasses, with stage lights behind him.](/article-images/music/dwagie-portrait-2019.webp)
 _Dwagie hosting the 2017 “National Chiayi Three-Day New Year Festival.” Photo: Chiayi City Government, attribution license via Wikimedia Commons._
 
 ## The Underground Years That Began on Master U
 
-The first places where Taiwan’s hip-hop scene recognized Dwagie were message boards, record shops, and the subcultural corners of Tainan.
+Taiwan’s hip-hop scene began recognizing Dwagie through message boards, record shops, and the subcultural corners of Tainan.
 
 In a CNA interview, he recalled encountering West Coast U.S. hip-hop such as Snoop Dogg’s _Doggystyle_ in record stores. In Tainan, places like POP Artist Shop and East Assassin let him see how subculture could gather. Later, while studying in Taipei, he met MC HotDog on the Master U message board. Through meetups, basketball games, parties, and exchanging work, the two gradually became part of the core of Taiwan’s early underground rap scene.[^1][^2]
 
@@ -44,7 +44,7 @@ Taiwanese hip-hop did not yet have a mature industry. A Roomie excerpt from _Hip
 ![MC HotDog performing onstage in 2012, holding an adidas microphone in profile, wearing a cap and focused expression.](/article-images/music/mc-hotdog-mic-2012.webp)
 _MC HotDog performing in 2012. Dwagie and HotDog crossed paths in the Master U and Magic Stone era; their underground years form a key memory from before Taiwanese rap entered the mainstream market. Photo: Chiu Yu-feng, CC BY-SA 4.0 via Wikimedia Commons._
 
-In August 2002, Dwagie released his debut album _Lotus from the Tongue_. Roomie places it in Magic Stone’s final stage: the album was registered at the end of Magic Stone’s catalog list, and its promotional language called it “the first all-rap album in the Sinophone market.”[^2] The details of that claim vary across sources, but the historical position is clear: when Taiwan’s mainstream market still did not fully understand rap, Dwagie used a full album to put Taiwanese Hokkien, Mandarin, skits, rhyme experiments, local consciousness, and international hip-hop form together.
+In August 2002, Dwagie released _Lotus from the Tongue_. Roomie places it in Magic Stone’s final stage: the album was registered at the end of Magic Stone’s catalog list, and its promotional language framed it as a starting-point work for full-length rap albums in the Sinophone market.[^2] Rather than treating that promotional phrase as an unchecked ranking, the more durable point is the album’s historical position: when Taiwan’s mainstream market still did not fully understand rap, Dwagie used a full album to put Taiwanese Hokkien, Mandarin, skits, rhyme experiments, local consciousness, and international hip-hop form together.
 
 ## The Sound of “Taiwan Song”
 
@@ -62,7 +62,7 @@ In 2017, he was invited to perform “Taiwan Song” at the Brooklyn Nets’ “
 
 ## Returning to Tainan to Open a Training Room
 
-After his debut album, Dwagie did not simply follow the Taipei entertainment market. He returned to Tainan and built Kung-Fu Entertainment.
+After _Lotus from the Tongue_, Dwagie did not simply follow the Taipei entertainment market. He returned to Tainan and built Kung-Fu Entertainment.
 
 In the CNA interview, he said Kung-Fu Entertainment did not begin as a grand cultural plan. It was more like a place where people who liked hip-hop could record, practice, and learn rap. After 2003, this gathering and teaching space slowly grew into a southern hip-hop base. Summer rap classes, a recording room, events, and member networks made Tainan another production base for Taiwanese rap.[^1]
 
