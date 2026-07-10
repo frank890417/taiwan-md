@@ -1,148 +1,178 @@
 ---
-title: 'Taiwan Island Historiography: How an Island Repeatedly Ruled Invented Its Own Subjectivity'
-description: "Taiwan is not the final piece in a continental empire's puzzle, but the first cornerstone of a Pacific maritime network. Beginning from Ts'ao Yung-ho's idea of 'taking place as the frame for history,' this article rethinks the vitality of this island."
-date: 2026-03-27
-author: 'Taiwan.md'
+title: 'Taiwan Island Historiography: How a Repeatedly Ruled Island Reclaimed Its Own Subjectivity'
+description: 'Taiwan island historiography takes Taiwan out of the timeline of outside regimes and asks how people on this island lived, migrated, were ruled, survived, and rebuilt memory. It does not turn Taiwan into a naturally exceptional island; it reminds us that identity can also grow from shared life, shared wounds, and shared responsibility.'
+date: 2026-07-10
+author: 'Taiwan.md Translation Team'
 category: 'History'
-subcategory: '史觀與方法論'
-tags: ['History', 'Island', 'Historiography', "Ts'ao Yung-ho", 'Ocean']
-lastVerified: 2026-03-27
-lastHumanReview: true
+subcategory: 'Historiography and Method'
+tags: ['History', 'Island', 'Historiography', "Ts'ao Yung-ho", 'Ocean', 'Taiwan History']
+lastVerified: 2026-07-10
+lastHumanReview: false
 featured: true
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: '01d9d0e73'
-sourceContentHash: 'sha256:a449ffee99fa24a3'
-sourceBodyHash: 'sha256:ba46b21b9cb6be40'
-translatedAt: '2026-05-12T11:51:04+08:00'
+sourceCommitSha: '00b41fe9e'
+translatedAt: '2026-07-11T01:18:05+08:00'
+image: '/article-images/history/formosa-dutch-map-1640.webp'
+imageCredit: 'Dutch cartographer / Wikimedia Commons'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg'
+rationale:
+  why_this_hook: 'The article begins with the shift from "who ruled Taiwan" to "what happened in Taiwan," helping readers understand the problem this historiographical turn solves before entering Tsao Yung-ho and the academic context.'
+  whats_excluded: 'It does not attempt a full Taiwan history timeline, nor does it retroactively explain semiconductors, democratization, or contemporary politics as islandness itself; those appear only as possible contemporary extensions.'
+  where_it_hedges: 'Everyday examples are treated as interpretive bridges into public feeling; the Cheng Nan-jung phrase about a small mountainous country is not quoted because a stable source was not verified.'
+  whos_pushing_back: 'Readers expecting a full academic history, readers worried island historiography may flatten internal differences, and readers who believe Taiwan history should remain within Chinese history or imperial history frameworks.'
 ---
 
-> **30-second overview:** For a long time, Taiwan's history was treated as a "record of regime change" or as the periphery of some continental empire. The "Taiwan island historiography" proposed by historian Ts'ao Yung-ho completely reversed this perspective: he argued that the subject of Taiwan's history is "Taiwan island" itself. Regimes appear one after another like actors, but the island is the stage that has always remained. This is an island that changed rulers eight times within 400 years. In the cracks between multiple regimes, its people developed world-class resilience and adaptability, transformed foreign institutions into their own nourishment, and ultimately, at a maritime point of convergence, invented an island time and democracy of their own.
+> **30-second overview:** If we only ask "who ruled Taiwan," Taiwan history turns into a handover table: the Dutch, the Spanish, the Zheng regime, the Qing Empire, the Japanese Empire, and the Republic of China all take turns on stage. Taiwan island historiography changes the question: amid all these regimes coming and going, what happened to the people on this island? How did they migrate, trade, get governed, resist, love, suffer disasters, rebuild, and turn foreign institutions and layered memories into their own lives? In 1990, historian Ts'ao Yung-ho proposed the concept of "Taiwan island history." Later scholars, museums, education, and public culture turned it into a more everyday intuition: identity does not come only from bloodline or a mother country. It can also come from the experience of living and surviving together on the same island.[^1][^2]
 
-In 1990, Ts'ao Yung-ho, a scholarly genius who had never attended university and who taught himself more than ten languages while working at the National Taiwan University Library, published a paper that shook the field of history: "Another Approach to the Study of Taiwan Island History." He argued that we should no longer begin from "who ruled Taiwan," but from "this land called Taiwan" itself.
+![A 1640 Dutch map of Formosa (Taiwan), placing the island at the center of East Asian waters.](/article-images/history/formosa-dutch-map-1640.webp)
+_A 1640 Dutch map of Formosa. Once Taiwan is placed within a maritime network, it is no longer merely someone's periphery. Photo: Wikimedia Commons, public domain._
 
-What this article asks readers to find surprising is this: **the most unusual feature of Taiwan's history is not that it was "ruled," but that it was able to retain a part of itself from each episode of rule, and to weave a fractured history into an organic subject.**
+For a long time, Taiwan history looked like a form filled out by someone else.
 
-> **✦** "The subject of Taiwan's history is 'Taiwan island' itself. History is the interaction among people, time, and space. Regimes are merely actors appearing one after another, while the island is the stage that has always remained." (Attributed to Ts'ao Yung-ho, 1990)
+On the left was the year; on the right was the ruler. In 1624, the Dutch arrived at Tayouan. In 1626, the Spanish arrived in northern Taiwan. In 1662, the Zheng regime replaced the Dutch. In 1683, the Qing Empire took control. In 1895, the Japanese Empire colonized Taiwan. In 1945, the Republic of China government came to Taiwan. This way of writing history is not wrong. Regime change is genuinely important to Taiwan history. But if Taiwan history is reduced to this table, the people on the island easily become background. The protagonists are the regimes. Taiwan becomes merely the place being received, governed, ceded, recovered, or represented.
 
-## I. Taking Place as the Frame for History: Returning the Stage to the Island
+The most important move in Taiwan island historiography is to flip that table over.
 
-Influenced by Fernand Braudel of the French Annales School, Ts'ao Yung-ho emphasized the decisive role of geographical space in history's long-term development. Under this "island historiography," Taiwan is no longer the "periphery" of the Eurasian continent, but the "center" and "crossroads" of East Asian maritime trade routes.
+It does not begin by asking "who does Taiwan belong to?" It asks "what happened in Taiwan?" It does not begin by asking which regime was legitimate. It asks how different groups of people lived, conflicted, exchanged, were wounded, and left things behind on this island. That shift means Taiwan is no longer merely an episode inside Chinese history, Japanese history, Dutch East India Company history, or Cold War history. It becomes a historical stage that can be understood from its own position.
 
-If Taiwan is treated as a "small island," much of its history becomes passive suffering; if Taiwan is treated as a "node in sea routes," history becomes a matter of active choice. This shift in perspective turns Taiwan history from a "history of imperial reclamation" into a "history of maritime civilization."
+## I. A Lost Subjectivity
 
-| Within 400 years           | 8 regimes                                                                |
-| -------------------------- | ------------------------------------------------------------------------ |
-| Frequency of regime change | On average, institutional rupture and reconstruction once every 50 years |
+For Taiwanese people, historical narrative has never been only an academic question.
 
-> **📝 Curator's note**
-> Ts'ao Yung-ho's greatness lies in how, through his study of seventeenth-century Dutch and Spanish sources, he rescued Taiwan history from the shadow of continental historiography and returned it to the island itself.
+Who is legitimate? Who does Taiwan belong to? Is Taiwan a Chinese frontier, a colony of the Japanese Empire, a Cold War anti-communist front line, or a community in the Pacific? These questions do not appear only in textbooks. They also appear in family memories, language use, election slogans, international news, and everyday self-introductions.
 
-Related reading: [Taiwan's Maritime Trade History](/en/History/taiwan-maritime-trade-history/), [Prehistoric Era and Indigenous Peoples](/en/History/prehistoric-era-and-indigenous-peoples/)
+Seen from Chinese history, Taiwan is easily written as frontier history, local history, or the history of migrant reclamation. Seen from Japanese imperial history, it becomes a case of colonial rule and colonial modernity. Seen through a Cold War lens, it becomes a "base for national recovery" or "Free China." Each perspective has something worth studying, but they share the same problem: the lived experience of Taiwanese people is often placed beneath someone else's historical purpose.
 
-## II. The Maritime Genes of the Austronesians: Islandness as Worldliness
+Taiwan island historiography tries to address precisely this loss of subjectivity.
 
-The starting point of Taiwan history long predates 1624. Around six thousand years ago, Taiwan became the cradle of Austronesian civilization. These courageous maritime peoples set out from Taiwan, crossed the Pacific and Indian Oceans in canoes, and established the most widely dispersed language-family empire on Earth (Britannica).
+It does not deny the force of outside regimes, nor does it pretend Taiwan can be separated from China, Japan, Southeast Asia, the United States, and world history. What it does is shift the standpoint: away from rulers, mother countries, and empires, and toward the island itself; away from "who ruled here" and toward "how did people survive here?"
 
-This proves that Taiwan's "maritime character" was not externally imposed, but innate. When we speak of island historiography, we are speaking of a civilizational technology of "making the island home," one fundamentally different from the agricultural logic of continental civilization. Islandness does not mean isolation; on the contrary, it means infinite possibilities for reaching the world.
+> **📝 Curator's note:** The first step of Taiwan island historiography is refusing to let Taiwan remain forever an appendix in someone else's history.
 
-Related reading: [History of Taiwan's Indigenous Peoples and the Name Rectification Movement](/en/History/indigenous-peoples-history-and-naming-movement/)
+## II. Ts'ao Yung-ho Put the Island Back at the Center of History
 
-## III. The First Collision of Empires: The Kingdom of Middag and Global Trade
+In 1990, Ts'ao Yung-ho proposed the term "Taiwan island history" in his essay "Another Approach to the Study of Taiwan Island History: The Concept of 'Taiwan Island History.'" Looking back later, Chen Wei-chih argued that this concept both summarized Ts'ao's long study of seventeenth-century Taiwan, the Dutch-Spanish period, and East Asian maritime history, and responded to the democratizing era's demand to rethink how Taiwan history should be understood.[^2]
 
-In the early seventeenth century, the Dutch (1624) and Spanish (1626) successively established footholds in Taiwan. Traditional narratives often emphasize the colonizers' "discovery," but island historiography directs your attention toward the local polity that already existed at the time: the **Kingdom of Middag**.
+Ts'ao's importance was not simply that he declared "Taiwan matters." It was that he offered a method. He treated history as the result of interaction among people, time, and space. Taiwan was no longer merely a passive site that received one regime after another. It became a historical stage with its own geography, maritime position, human mobility, and social structures.[^1][^2]
 
-This was a cross-ethnic kingdom composed of Indigenous peoples, and it endured in central Taiwan for two centuries. It proves that before the large-scale entry of European and Han Chinese regimes, Taiwan already possessed the capacity to evolve autonomous forms of rule. The Dutch did not "discover" Taiwan; they merely joined a vast East Asian theater already interwoven by Japanese, Han Chinese maritime merchants, and local Indigenous peoples.
+That idea may sound intuitive today, but it faced a very concrete older problem. Taiwan history had long tended to emphasize Han migration, regime change, and political history, while Taiwan was often placed inside frameworks of Chinese local history or ruler-centered history. Ts'ao's proposal of "Taiwan island history" put "place" at the center of historical interpretation. Besides asking which people brought which institutions, it also asks how the island's mountains, seas, plains, harbors, monsoons, shipping routes, and social boundaries shaped history.
 
-> **💡 Did you know?**
-> In the seventeenth century, Taiwanese deerskin was an essential material for Japanese samurai armor. The anonymous deerskin traders of the time were the real figures who drew Taiwan into the tide of the global economy, directly linking the island of Taiwan with Kyoto's military equipment.
+Ts'ao's personal story is compelling: he did not hold a university degree, worked for years at the National Taiwan University Library, taught himself multiple languages, later became an Academician of Academia Sinica, and earned international recognition for his work on Dutch East India Company sources.[^3] But that legend should not overshadow his historiographical role. He gave a name to a Taiwan history consciousness that was already taking shape, and that name could be taken up by later scholars.
 
-Related reading: [Dutch, Spanish, and Koxinga Era](/en/History/dutch-spanish-and-koxinga-era/)
+## III. An Island History in the Ocean
 
-## IV. The Frontier of Migration: Han Chinese Immigrants and Institutional Transplantation
+![An 1880 Stanford map of Taiwan (Formosa).](/article-images/history/taiwan-formosa-map-1880-loc.webp)
+_Taiwan on an 1880 Stanford map. From the Dutch period to the late Qing, the island was repeatedly mapped, marked, and contested by different maritime powers. Photo: Library of Congress, public domain._
 
-In 1662, Koxinga expelled the Dutch; in 1683, Qing forces took control. During this period, Taiwan became a "frontier of migration and cultivation." Island historiography emphasizes that this process of Han-ization was not simply cultural expansion, but a survival choice on a geographical frontier.
+The word "island" is easily misunderstood as closure.
 
-People arrived on the island with agricultural knowledge and lineage organizations, but in order to survive in a frequently changing environment, they learned a more flexible and more pragmatic social contract than that of the continental motherland. Taiwan's "Han Chinese society" carried, from the beginning, a certain gene of instability and risk-taking, visible in the frequent uprisings of the Qing period, as in the saying "a minor rebellion every three years, a major disturbance every five."
+But in Taiwan island historiography, the island is not an isolated little world. It has a coastline, so it has boundaries. Because it is surrounded by sea, it also has sea routes, ports, migrants, trade, missions, military activity, smuggling, colonization, war, and flight. Taiwan is not the end of the continent, nor a blank point in the Pacific. It has been repeatedly touched by different forces in East Asian waters.
 
-Related reading: [Qing Dynasty Rule](/en/History/qing-dynasty-rule/), [Taiwan Economic Miracle: From Agriculture to Asian Tiger](/en/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger/)
+This is why Austronesian peoples, the Dutch-Spanish period, Han migration, Japanese colonization, and the Cold War order cannot be treated as events external to island history. Each entered Taiwan in different ways and altered relations among peoples, land systems, language order, religious life, and international position.
 
-## V. 1895: The Double-Edged Blade of Colonial Modernity
+The maritime quality of Taiwan island historiography does not mean romantically claiming that "Taiwan naturally faces the world." More precisely, it means Taiwan can never be explained through a single mother country alone. At many historical moments, Taiwan was drawn into larger networks: East Asian maritime trade, Dutch and Spanish colonial competition, Qing frontier governance, Japanese imperial expansion toward the south, the postwar U.S. Cold War system, and today's global supply chains. These forces were not the backdrop of Taiwan history. They changed life on the island.
 
-After the Treaty of Shimonoseki in 1895, Japan carried out the largest modernization experiment in Asia in Taiwan. The construction of railways, electricity, education, and medical systems did not arise from goodwill, but from the demands of administrative efficiency. Yet these transplanted institutions ultimately became an indelible foundation of Taiwanese society.
+## IV. Change the Question, and History Changes
 
-Island historiography does not deny colonial oppression, but it does acknowledge this: a large part of Taiwan's modernity was built amid such contradictory ruptures. This was a form of "imposed modernization," yet the people of the island internalized it as their own strength.
+The power of a historiographical perspective lies less in its answers than in how it changes the questions.
 
-> **⚠️ Contested view**
-> Colonial modernity is the most difficult part of Taiwan history to handle. How can we remember both the pain of oppression and the progress brought by institutions? This is precisely the tension that island historiography attempts to weave together: we accepted the institutions, but we refused assimilation.
+If we ask "when did Han people develop Taiwan?" Indigenous peoples easily become the background before Han arrival. If we ask "how did different peoples build lifeworlds on this island?" Indigenous peoples become one of the long-duration subjects of Taiwan history. Taiwan history no longer begins only in 1624 or 1662. It has to return to earlier movements of people, archaeological evidence, linguistic distribution, and mountain-and-sea lifeways.
 
-Related reading: [Japanese Colonial Era](/en/History/japanese-colonial-era/), [Taiwan Railway History](/en/History/taiwan-railway-history/)
+If we ask "where did the Dutch and Spanish come ashore?" the Dutch-Spanish period is only a brief European episode. If we ask "how did Taiwan enter the seventeenth-century East Asian maritime world?" Tayouan, Keelung, Tamsui, deerskin, sugar, missionary activity, military force, and local society all surface together. When the Dutch entered Taiwan, they encountered a field where Indigenous peoples, Han maritime merchants, Japanese trade, and regional powers were already interacting.
 
-## VI. The Strata of Authoritarianism and Memory
+If we ask "when did the Qing Empire incorporate Taiwan into its territory?" the Qing period becomes one chapter of imperial governance. If we ask "how did a migrant society form on the island?" we see restrictions on crossing the sea, armed conflicts among settler groups, the classification of "cooked" and "raw" Indigenous peoples, local temples, reclamation contracts, irrigation works, port markets, and mountain-frontier boundaries. Taiwan becomes a site where a migrant society kept reorganizing under frontier rule.
 
-In 1945, with the end of World War II, Taiwan once again faced a transfer of regime. The 228 Incident of 1947 and the subsequent 38 years of martial law constitute the deepest trauma in Taiwan's history. This was not merely a political event, but a "large-scale rupture" in the island's memory.
+If we ask "what modernity did Japanese colonization bring?" the Japanese period is easily forced into a binary of progress or oppression. If we ask "how did colonial institutions alter life on the island?" railways, household registration, education, police, public health, land surveys, the sugar industry, Japanization, and wartime mobilization all have to appear at once. Modernity was not a gift, and oppression cannot summarize every result. People on the island slowly learned how to use what had been brought in, amid institutions, violence, and the needs of daily life.
 
-From the perspective of island historiography, however, this period was also the moment when the "strata of memory" accumulated most heavily. Military dependents' villages, Green Island Prison, classrooms where local languages were forbidden, silent living rooms: these seemingly fractured memories erupted after the lifting of martial law in 1987 into nourishment for Taiwan's multiculturalism. Island historiography views this history as a kind of "compressed eruption," the final crucible of Taiwan's subjective identity.
+If we ask "was 1945 retrocession?" the postwar period appears as the return of a regime. If we ask "how did a new regime enter island society?" the 228 Incident, the White Terror, martial law, language policy, military dependents' villages, the Cold War, party-state education, and democratization all enter the frame. Island historiography does not let the word "retrocession" stamp the entire postwar experience shut, nor does it leave suffering only as victimhood. It asks how trauma was suppressed, and how it returned to public memory after democratization.
 
-Related reading: [228 Incident](/en/History/228-incident/), [Martial Law Era](/en/History/martial-law-era/), [Taiwan White Terror](/en/History/taiwan-white-terror/), Kaohsiung Incident: the night that changed Taiwan's fate
+> **📝 Curator's note:** Change the question, and the protagonist changes. Taiwan island historiography rearranges who is allowed to stand at the center of history.
 
-## VII. The Four Core Claims of Island Historiography
+## V. From Academia to Public Intuition
 
-Ts'ao Yung-ho's theory provides four pillars for looking history in the eye:
+After Ts'ao proposed the concept, Taiwan island historiography did not remain inside a single essay.
 
-1.  **Taking Place as the Frame for History (Stage-Centric History)**:
-    Taiwan island is treated as the stage that has always existed. Regimes are only actors that come and go; the continuity of island life is the true subject.
+Chou Wan-yao's _An Illustrated History of Taiwan_ and her discussions of "mountains, seas, and plains" placed Taiwan history on more concrete spatial scales: mountains, oceans, and plains are all stages of human activity, and different spaces carry different historical experiences.[^4] Scholars such as Chang Lung-chih have understood changes in Taiwan historical research since the 1980s through the frames of a "Taiwan-centered perspective" and the "democratization of historical knowledge": Taiwan history entered academia, while also opening the question of who gets to write history and how historical knowledge circulates.[^2][^5]
 
-2.  **Maritime Hub and Global Context (Maritime Hub & Global Context)**:
-    Taiwan is not the end of a continent, but the center of the ocean. Taiwan history must be examined within the context of "world history."
+Institutions changed as well. The Institute of Taiwan History at Academia Sinica traces its establishment to the Taiwan history field research project planned in 1986 by Kwang-chih Chang and others. In 1988, the "Taiwan History Field Research Office" was established. In 1993, a preparatory office for the Institute of Taiwan History was approved. In 2004, the institute was formally established. This shows Taiwan history gradually moving from local history, source collection, and the work of individual scholars into an academic field supported by institutions, journals, archives, oral histories, and research groups.[^6]
 
-3.  **Multi-ethnic Subjectivity (Multi-ethnic Subjectivity)**:
-    It rejects "Han Chinese centrism" and recognizes all groups that have lived here as subjects of Taiwan history.
+Farther into the public sphere, the National Museum of Taiwan History turned this historiographical framework into exhibition space. The museum's online permanent exhibition "Taiwan, an Island of Encounters" opens by describing Taiwan as a story of different peoples colliding, exploring, and sharing the same land. Its section "The Road to Democracy" places postwar takeover, the 228 Incident, martial law, local elections, the lifting of martial law, and direct presidential elections within the lived experience of care and plural dialogue across two or three generations of Taiwanese people.[^7] This is a crucial step for island historiography: it is no longer only a theory read by history students, but a method through which a national museum tells Taiwan history to general visitors.
 
-4.  **"Professionalism in Being Ruled" and Resilient Evolution (Resilience of the Ruled)**:
-    Frequent regime change cultivated extraordinary adaptability and the ability to survive in the cracks. This is the most invisible cornerstone of Taiwan's democratic transition.
+![Exterior of the National Museum of Taiwan History.](/article-images/history/nmth-taiwan-history-museum.webp)
+_The National Museum of Taiwan History. Taiwan island historiography moved from an essay into a way a national museum tells Taiwan's story to general audiences. Photo: Pbdragonwang, CC BY-SA 3.0 via Wikimedia Commons._
 
-> **📊 Comparison of historiographical shifts**
-> | Dimension | Continental Historiography | Taiwan Island Historiography |
-> |---|---|---|
-> | **Geographical role** | Periphery, final puzzle piece | Hub, first cornerstone |
-> | **Narrative center** | Regime change, legitimacy | Island subject, continuity of life |
-> | **Historical driving force** | Land reclamation, agricultural expansion | Maritime trade, cultural circulation |
-> | **Basis of identity** | Bloodline, motherland order | Land, institutional adaptability |
+Over time, many people may not say the words "Taiwan island historiography," but they are already using its intuition. In local history work, museums, documentaries, public history writing, community building, history curriculum debates, and social movements, one can often see the same turn: do not ask only who ruled Taiwan. Ask how the people who lived together on this land collectively made it what it is today.
 
-## VIII. Islandness in the Twenty-first Century: From Silicon Island to Coordinates in the World
+## VI. How "One Island, One Fate" Becomes Felt
 
-Contemporary Taiwan, within the context of "island historiography," is undergoing its fourth critical turning point. We are no longer merely a "safe harbor" or "relay station," but the core of the global digital supply chain.
+For an academic concept to survive, it eventually has to leave the paper.
 
-The idea of the Silicon Shield is, in essence, the digitization of the maritime trade hub. Taiwan's semiconductor industry is an extension of island subjectivity: we use globally circulating capital and technology to create a form of "hardware sovereignty" that the entire world cannot ignore. Island historiography reminds us that this is not a miracle that appeared out of nowhere, but the highest-level adaptive technology that the island has honed through 400 years of survival in the cracks.
+Taiwan island historiography is understandable to general readers not only because it explains the Dutch-Spanish, Qing, Japanese, and postwar periods. At a deeper level, it gives language to something many Taiwanese people have already felt in daily life but may not have known how to describe: identity does not come only from bloodline, a mother country, or ancestral origin. It also comes from the experience of living on the same island.
 
-## IX. Democracy as Technology: From "Professionalism in Being Ruled" to "Governing Ourselves"
+This has to be handled carefully. Not everyone has the same Taiwan experience, and not every feeling can be explained by island historiography. But certain moments in public culture do show how Taiwanese people come to feel an abstract country as a concrete terrain.
 
-In 1996, Taiwan held its first direct presidential election. This is often called a "democratic miracle," but under island historiography, it is in fact the "maturation of a technology."
+Chi Po-lin's documentary _Beyond Beauty: Taiwan from Above_ is one example. Released in 2013, the aerial documentary filmed mountain ranges, rivers, coastlines, farmland, industrial zones, and environmental damage from above, and won Best Documentary at the 50th Golden Horse Awards.[^8] The feeling it produced was not only "Taiwan is beautiful," but also "the place where we live together is being wounded." Seeing Taiwan from the air made the country no longer only a flag, a regime, or a legal concept. It became an island with height, river courses, coastline, and scars.
 
-Eight regimes in 400 years taught Taiwanese people not to regard any ruler as eternal. This "professionalism in being ruled" cultivated an exceptionally strong political resilience: we learned how to repeatedly rebuild our own lives atop the ruins of institutions. When rulers departed, the institutions and technologies they left behind were taken up by us and redefined as "democracy."
+Disaster memory has a similar force. Earthquakes, typhoons, landslides, broken roads, and post-disaster reconstruction often tell people more directly than textbooks that they live on the same island. Events such as the 921 Earthquake and Typhoon Morakot were not only natural disasters. They also revealed how mountains, plains, rivers, Indigenous communities, cities, rescue systems, and state governance are connected. Shared life is not a romantic phrase. Sometimes it means facing wind and rain together, and bearing loss together.
 
-## IX. Conclusion: Writing Ourselves into History
+Island historiography also appears in ordinary life. The mixed languages of night markets, Japanese-era street houses beside temple plazas, military dependents' village noodles next to Taiwanese-language songs, Hakka villages, Indigenous homelands, ports, industrial zones, and MRT stations all preserve traces of different times. These things do not need to be organized into a single bloodline story. They are more like historical strata: some people came earlier, others later; some were forced to move, some were assimilated, some preserved themselves, some changed others, and were changed by others in return.
 
-The endpoint of island historiography is subjectivity. Taiwan's history has been written many times by empires, colonizers, and dictators. But Ts'ao Yung-ho tells us that what truly determines the island's future is how the people on the island rearrange these foreign narratives and write them into their own story.
+This does not prove that every detail of daily life comes directly from Taiwan island historiography. A more cautious reading is that island historiography gives us a language for making sense of the mixedness already present in everyday life. The neighborhood temple, a Japanese-era irrigation canal, food brought by postwar migrants, and land memories Indigenous peoples are still fighting for all existed in their own right. The historiographical frame lets them avoid being forced into a single orthodox story, and instead be seen as traces left by different times on the same island.
 
-On the map of the world, Taiwan is a small island; in the density of history, it is like a piece of metal hammered again and again. Every episode of rule has left traces, but it has also forced the island to invent a new order of time. Taiwan is not an appendix of the periphery, but a human island that continually rewrites itself.
+So if "one island, one fate" is to mean anything, it cannot be merely an election slogan or emotional mobilization. It has to acknowledge that we are not together because we are all the same. Different peoples on the same land are bound by the same institutions, disasters, languages, roads, schools, rivers, and coastline. Island historiography turns that entanglement into a historical question.
+
+## VII. It Must Not Become Island Determinism
+
+Taiwan island historiography is powerful, and for that reason it can be overused.
+
+If every Taiwanese achievement is explained as the natural result of "islandness," historiography becomes mythology. Semiconductors, democratization, social movements, and cultural pluralism can all be illuminated by island historiography, but they cannot be simplified into "Taiwan is an island, so this naturally happened." Behind each of these developments are concrete institutions, global capital, international conditions, social movements, education, technology, and human choices.
+
+In his essay commemorating Ts'ao Yung-ho, Chen Wei-chih also reminds readers that the proposal of Taiwan island history has limits. It resists overly politicized, nationalist, and state-centered historical narratives, but it may also understate the role of the state, nationalism, capitalism, and different historical actors at key moments. It emphasizes circulation, transportation, and space, yet may not handle relations of production, class difference, and different groups' plural experiences of time with enough precision.[^2]
+
+This reminder matters. Mature island historiography does not compress everyone into a single story of "the Taiwanese people." Indigenous peoples, Han migrants, postwar Mainlander communities, Hakka communities, new immigrants, migrant workers, people of different genders, classes, and regions do not necessarily share the same historical experience even when they live on the same island. Shared fate cannot erase difference. It only holds when those differences remain entangled.
+
+> **⚠️ Limits of use**
+> Island historiography is not a master key. It helps us move beyond continent-centered and regime-centered perspectives, but it cannot provide one answer to every historical question. When it begins to make difference look too tidy, we need to return to concrete people, places, and institutions.
+
+## VIII. Writing Taiwan Back into Taiwan
+
+The endpoint of Taiwan island historiography is not to turn Taiwan into an island that was naturally exceptional from the start.
+
+What it really does is change the viewing position. It moves from "who does Taiwan belong to?" to "who lives in Taiwan?" From "which regimes came here?" to "what did these regimes and peoples leave on the island?" From "what did the mother country give?" to "how did people on the island rearrange foreign institutions, languages, and memories?"
+
+When we say "we, on this island," that is not a bloodline myth, nor a single national story. It is closer to a historical recognition: different peoples were ruled, survived, conflicted, cooperated, were wounded, and left things behind on the same land, while also sharing responsibility for the island's future.
+
+This is what makes Taiwan island historiography useful to general readers. It does not require everyone to read a full theory of historiography before they are allowed to understand Taiwan. It simply asks us, when looking at history, to place our feet back on this island first. From there, regimes still matter, but they no longer occupy the whole stage. The people, routes, wounds, and everyday life on the land begin to have historical positions of their own.
 
 **Further Reading**:
 
-- [Formosa](/history/福爾摩沙) — From Psalmanazar's hoax to its recovery by the National Museum of Taiwan History: the deconstruction and reversal of four centuries of Western "discovery" narratives
-- [National Museum of Taiwan History](/society/國立臺灣歷史博物館) — A national third-level institution opened in 2011, it turned Ts'ao Yung-ho's 1990 paper into the physical exhibition "Our Land, Our People: The Story of Taiwan," serving as the institutional instantiation of Taiwan island historiography
+- [Formosa](/en/history/formosa-historical-name/) — From Western "discovery" narratives back to how Taiwan was named, imagined, and reinterpreted.
+- [Dutch, Spanish, and Koxinga Era](/en/history/dutch-spanish-and-koxinga-era/) — How seventeenth-century Taiwan entered East Asian waters, European colonial competition, and local social interaction.
+- [228 Incident](/en/history/228-incident/) — How postwar regime transfer became one of the deepest fractures in Taiwan's layers of memory.
+- [National Museum of Taiwan History](/en/society/national-museum-of-taiwan-history/) — How a national museum turns Taiwan island historiography into a public exhibition space.
+- [Archipelago Thinking](/en/culture/archipelago-thinking/) — Looking outward from a single island to understand Taiwan's relationship with surrounding islands and the maritime world.
+
+## 圖片來源 (Image Sources)
+
+- Hero: 1640 Dutch map of Formosa, Wikimedia Commons, public domain. Original file: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
+- 1880 map of Taiwan: Stanford's / Library of Congress, Wikimedia Commons, public domain. Original file: [Map of Taiwan (Formosa) in 1880 (LOC)](https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg).
+- Exterior of the National Museum of Taiwan History: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Original file: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## References
 
-- Ts'ao Yung-ho, "Another Approach to the Study of Taiwan Island History: The Concept of 'Taiwan Island History,'" _Taiwan Historical Research_, no. 10, 1990.
-- Chou Wan-yao, _An Illustrated History of Taiwan: From Prehistory to 1945_, Linking Publishing, 1997.
-- Weng Chia-yin and Huang Yen, _Decoding Taiwan History: 1550-1724_, Yuan-Liou Publishing, 2017.
-- Blussé, Leonard. _Around and About Dutch Formosa: Essays in Honor of Ts'ao Yung-ho_. Ts'ao Yung-ho Foundation for Culture and Education, 2003. (English)
-- _Taipei Times_. "History of a Taiwan historian." August 10, 2003. (English)
-- [Taiwan.gov.tw — HISTORY](https://www.taiwan.gov.tw/content_3.php)
-- [Britannica — Taiwan](https://www.britannica.com/place/Taiwan)
-- [Britannica — Austronesian languages](https://www.britannica.com/topic/Austronesian-languages)
-- [Wikipedia — History of Taiwan](https://en.wikipedia.org/wiki/History_of_Taiwan)
-- [Wikipedia — Martial law in Taiwan](https://en.wikipedia.org/wiki/Martial_law_in_Taiwan)
-- [Wikipedia — Kingdom of Middag](https://en.wikipedia.org/wiki/Kingdom_of_Middag)
-- [National Museum of Taiwan History (國立臺灣歷史博物館） — Exhibition Discourse](https://www.nmth.gov.tw/)
+[^1]: [Taiwan island historiography, Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%B3%B6%E5%8F%B2%E8%A7%80) — The entry summarizes Ts'ao Yung-ho's 1990 proposal of "Taiwan island history," the people-time-space framework, and related bibliographic leads; used here as a source index and baseline definition.
+
+[^2]: [Chen Wei-chih, "Rethinking Taiwan Island History Twenty Years Later: In Memory of Professor Ts'ao Yung-ho"](https://www.thinkingtaiwan.net/content/3116) — A 2014 Thinking Taiwan essay that places Taiwan island history in the context of democratization, people's perspectives, spatialized history, and the limits of the historiographical frame.
+
+[^3]: [Ts'ao Yung-ho, Wikipedia](https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B0%B8%E5%92%8C) — The entry summarizes Ts'ao's self-education in multiple languages, his research on the Dutch-Spanish period and East Asian maritime history, his proposal of Taiwan island historiography, and his academic honors.
+
+[^4]: [Chou Wan-yao, Wikipedia](https://zh.wikipedia.org/wiki/%E5%91%A8%E5%A9%89%E7%AA%88) — The entry lists Chou's _An Illustrated History of Taiwan_, her "mountains, seas, and plains" approach, and related works; used here to trace later scholarly development.
+
+[^5]: [History of Taiwanese historiography, Wikipedia](https://en.wikipedia.org/wiki/History_of_Taiwanese_historiography) — The English-language entry includes a section on Ts'ao Yung-ho's scholarship, explaining how he treated Taiwan as an "independent historical stage" rather than only from a Han-centered or regime-centered perspective, and summarizes the academic significance of Taiwan historiography in East Asian and world-historical contexts.
+
+[^6]: [Institute of Taiwan History, Academia Sinica, "About the Institute"](https://www.ith.sinica.edu.tw/about.php?l=c&no=15) — The official institute page records the 1986 Taiwan history field research project, the 1988 field research office, the 1993 preparatory office, and the institute's formal establishment in 2004.
+
+[^7]: [National Museum of Taiwan History, "Taiwan History in Clicks" permanent exhibition](https://the.nmth.gov.tw/nmth/zh-TW/Home/PermanentExhibition) — The museum's official online permanent exhibition presents units such as "Taiwan, an Island of Encounters," framing different peoples as sharing the same land and presenting postwar democratization as lived experience and plural dialogue.
+
+[^8]: [_Beyond Beauty: Taiwan from Above_, Wikipedia](https://zh.wikipedia.org/wiki/%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3) — The entry summarizes Chi Po-lin's 2013 aerial documentary, its production background, environmental themes, Golden Horse documentary award, and public impact; used here as a source index for the everyday public-feeling example.
