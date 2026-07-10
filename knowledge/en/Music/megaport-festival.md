@@ -10,12 +10,16 @@ featured: false
 canonical-order: 999
 lastVerified: 2026-07-10
 lastHumanReview: false
+researchReport: 'reports/research/2026-07/大港開唱-outline.md'
+image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
+imageCredit: 'Xi.you 1010.2008 / Wikimedia Commons'
+imageLicense: 'CC BY 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
 translatedFrom: 'Music/大港開唱.md'
 sourceCommitSha: ''
 sourceContentHash: ''
 sourceBodyHash: ''
 translatedAt: ''
-researchReport: 'reports/research/2026-07/大港開唱-outline.md'
 rationale:
   why_this_hook: 'Starts from the harbor-side field and Taiwan’s live-band culture, avoiding a version that makes Megaport merely an appendix to Freddy Lim or Chthonic.'
   whats_excluded: 'Full annual lineup tables, ticketing controversy details, and the full financial context of every pause and relaunch are left for later deeper work.'
@@ -24,6 +28,9 @@ rationale:
 ---
 
 # Megaport Festival: The Taiwanese Music Festival That Grew Out of Kaohsiung Harbor
+
+![The Southern Overlord stage at Megaport Festival in 2025, with lights and a crowd facing a large harbor-side stage.](https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)
+_The Southern Overlord stage at Megaport Festival in 2025. Photo: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
 
 > **30-second overview:** Megaport Festival (大港開唱) is a large outdoor music festival founded beside Kaohsiung Harbor in 2006. It grew out of the experience of the Formoz Festival team. In its early years, it was pushed forward by Freddy Lim, Doris Yeh, and the TRA Music team; later Doris, Dani Wang, and others carried the work forward. Megaport puts southern Taiwanese bands, harbor-side landscapes, Taiwanese Hokkien live stages, international lineups, Taiwan pop-memory acts, and an NGO issue village together, turning two days of performances into a way for a city to reimagine itself through sound.
 
@@ -51,6 +58,9 @@ That transition matters. Megaport was worked into a long-term system by band mem
 
 Because the people steering the festival are performers themselves, Megaport early on adopted the idea that “artists are also customers of the organizer.” Dani argued that a good backstage area lets performers relax and play harder onstage. Doris, meanwhile, noted that Megaport is constrained by its harbor-side geography and has to configure itself along the conditions of the site. Megaport’s internationalization therefore appears not only in foreign band lineups, but also in the way it takes live-site experience from overseas festivals, breaks it down, and slowly adds it back into Taiwan’s performance ecology beside Kaohsiung Harbor.[^5]
 
+![The band 1976 performing at Megaport Festival in 2016, with stage lights across the full band.](https://upload.wikimedia.org/wikipedia/commons/e/ea/1976bandatMegaport2016.jpg)
+_The band 1976 at Megaport Festival in 2016. Photo: Po Sing Tew / Wikimedia Commons, CC BY 2.0._
+
 ## A Festival of Life
 
 Megaport’s most recognizable curation is not limited to indie bands.
@@ -58,6 +68,9 @@ Megaport’s most recognizable curation is not limited to indie bands.
 After the 2015 relaunch, Doris and Dani invited Ho Yi-hang to perform a “Megaport cabaret show” with LTK Commune. Later, Shen Wen-cheng, Lotus Wang, Tsai Kui, Huang Hsi-tien, Jeannie Hsieh, and Tsai Chiu-feng, among others from different generations of Taiwanese Hokkien or pop memory, were also brought onto Megaport stages. These arrangements expanded Megaport outward from a festival for live-band kids into a site that could hold underground rock, Taiwanese Hokkien cabaret, idols, hip-hop, heavy metal, folk, and cross-genre collaborations at the same time.[^3][^6]
 
 The official ABOUT page calls Megaport “a festival of life.” This is not an abstract slogan; it corresponds to a curatorial method: placing different life stages, generational memories, languages, and musical tastes together beside the harbor. Younger fans may come for Flesh Juicer or Sunset Rollercoaster, but see Huang Hsi-tien or Shen Wen-cheng in the same weekend. Taiwanese Hokkien songs familiar to older generations are also placed into a loud festival system and heard again.[^2]
+
+![Enno Cheng performing at Megaport Festival in 2018, holding a guitar and singing into a microphone.](https://upload.wikimedia.org/wikipedia/commons/b/bc/Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)
+_Enno Cheng at Megaport Festival in 2018. Photo: Ken26729264 / Wikimedia Commons, CC BY-SA 4.0._
 
 ## The NGO Issue Village and Public Space
 
@@ -80,6 +93,14 @@ Megaport deserves to stand as its own entry not only because it is large, ticket
 Some festivals are like a program sheet. Megaport is more like a temporary city. For two days, the warehouses, piers, lawns, and venues beside the harbor are renamed by sound. When the lights go off and the stages come down, many people return the next year as if going back to a hometown that appears only in March.
 
 **Further reading:** Freddy Lim, Chthonic, Taiwan music-festival culture, Taiwanese indie music, Fire EX.
+
+## 圖片來源
+
+This article uses 3 Wikimedia Commons images under Creative Commons licenses:
+
+- **Southern Overlord stage at Megaport Festival in 2025** (hero) — Photo by Xi.you 1010.2008 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)), 2025. License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **The band 1976 at Megaport Festival** (scene-mid 1) — Photo by Po Sing Tew ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1976bandatMegaport2016.jpg)), 2016. License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- **Enno Cheng at Megaport Festival** (scene-mid 2) — Photo by Ken26729264 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)), 2018. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## References
 

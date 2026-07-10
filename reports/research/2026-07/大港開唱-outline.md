@@ -45,6 +45,16 @@ related:
 - 歷年卡司不展開成列表，避免百科化。
 - 不使用官方照片作為文章圖片，授權未查清前先不放 hero image。
 
+## 2026-07-10 媒體補強
+
+後續檢查發現文章主軸已可成立，但沒有任何媒體，現場感不足。改採 Wikimedia Commons 中可查授權的大港開唱相關照片補強：
+
+- hero 使用 2025 年「南霸天」舞台照，來源為 Wikimedia Commons，作者 Xi.you 1010.2008，授權 CC BY 4.0。
+- 內文使用 1976 樂團 2016 年大港演出照，作者 Po Sing Tew，授權 CC BY 2.0，用於補強「策展團隊／現場制度」段落的舞台感。
+- 內文使用鄭宜農 2018 年大港演出照，作者 Ken26729264，授權 CC BY-SA 4.0，用於補強「人生的音樂祭」段落的跨世代、跨類型策展感。
+
+圖片 caption 不放可點 Commons 連結，避免 percent-encoded CJK URL 在 italic caption 中被 formatter 破壞；可點來源與授權統一放在文末「圖片來源」。
+
 ## 主要來源
 
 1. 大港開唱官方 ABOUT。
@@ -52,6 +62,7 @@ related:
 3. VERSE 上篇：掌舵手的音樂祭海派人生。
 4. VERSE 下篇：台灣音樂祭歷史的文化總和。
 5. 中央社 2019 年大港開唱爭議報導。
+6. Wikimedia Commons: Megaport Music Festival category and selected CC-licensed files.
 
 ## 待補
 
