@@ -9,11 +9,43 @@ RED='\033[0;31m'; YEL='\033[0;33m'; GRN='\033[0;32m'
 BLU='\033[0;34m'; DIM='\033[0;90m'; RST='\033[0m'
 
 VALID_CATS=("About" "History" "Geography" "Culture" "Food" "Art" "Music" "Technology" "Nature" "People" "Society" "Economy" "Lifestyle")
+LOCALES=("en" "es" "ja" "ko" "fr" "de" "vi" "pt" "th" "id" "ar")
 SIMP_PAT='关|为|国|会|发|时|过|来|说|经|间|现|业|务|样|门|问|产|从|进|设|张|总|给|应|数|开|场|变|团|员|电|话|传|统|级|项|节|历'
 
 TOTAL=0; L0=0; L1=0; L2=0; L3=0
 STATUS="PASS"
 REPORT=""
+
+is_locale() {
+  local part="$1"
+  for v in "${LOCALES[@]}"; do
+    [[ "$part" == "$v" ]] && return 0
+  done
+  return 1
+}
+
+is_translation_path() {
+  local f="$1"
+  [[ "$f" =~ ^(knowledge|src/content)/([^/]+)/ ]] || return 1
+  is_locale "${BASH_REMATCH[2]}"
+}
+
+category_from_path() {
+  local f="$1"
+  local first="" second=""
+
+  if [[ "$f" =~ ^knowledge/([^/]+)/([^/]+)/ ]]; then
+    first="${BASH_REMATCH[1]}"
+    second="${BASH_REMATCH[2]}"
+    if is_locale "$first"; then
+      echo "$second"
+    else
+      echo "$first"
+    fi
+  elif [[ "$f" =~ ^knowledge/([^/]+)/ ]]; then
+    echo "${BASH_REMATCH[1]}"
+  fi
+}
 
 # ════════════════════════════════════════
 # Layer 0 — 安全隔離
@@ -65,11 +97,11 @@ layer1() {
     echo "$fm" | grep -q '^date:' || err+=("缺 date")
     echo "$fm" | grep -q '^tags:' || err+=("缺 tags")
     # featured: true rule — only enforced on ZH SSOT; translations mirror source
-    if echo "$f" | grep -qvE '/(en|ja|ko|es|fr)/'; then
+    if ! is_translation_path "$f"; then
       echo "$fm" | grep -q '^featured: true' && err+=("featured 不可 true")
     fi
     # category from path
-    local cd; cd=$(echo "$f" | sed -n 's|^knowledge/\([^/]*\)/.*|\1|p')
+    local cd; cd=$(category_from_path "$f")
     if [[ -n "$cd" ]]; then
       local ok=false
       for v in "${VALID_CATS[@]}"; do [[ "$cd" == "$v" ]] && ok=true && break; done
@@ -125,7 +157,8 @@ layer2() {
   (( ds > 4 )) && ((hs++))
 
   # quality: 教科書開場
-  echo "$body" | head -1 | grep -qE '^(台灣的|作為台灣|在台灣的)' 2>/dev/null && ((hs++))
+  local first_line; first_line=$(head -n 1 <<< "$body")
+  [[ "$first_line" =~ ^(台灣的|作為台灣|在台灣的) ]] && ((hs++))
 
   # quality: 總之結尾
   echo "$body" | tail -5 | grep -qE '總之|展望未來|綜上所述' 2>/dev/null && ((hs++))
@@ -170,7 +203,8 @@ layer3() {
   local body; body=$(awk '/^---$/{n++; next} n>=2 && NF{print}' "$f" 2>/dev/null)
 
   # 教科書開場
-  echo "$body" | head -1 | grep -qE '^(台灣的|作為|在台灣)' 2>/dev/null && wrn+=("教科書開場")
+  local first_line; first_line=$(head -n 1 <<< "$body")
+  [[ "$first_line" =~ ^(台灣的|作為|在台灣) ]] && wrn+=("教科書開場")
 
   # 引語
   grep -q '「' "$f" 2>/dev/null || wrn+=("缺引語")

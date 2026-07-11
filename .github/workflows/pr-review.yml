@@ -162,6 +162,7 @@ jobs:
 
       - name: Comment review result
         if: steps.files.outputs.pr_type == 'content' || steps.files.outputs.pr_type == 'mixed'
+        continue-on-error: true
         uses: actions/github-script@v8
         with:
           script: |
@@ -232,3 +233,9 @@ jobs:
               issue_number: context.issue.number,
               labels: [labels[status]],
             });
+
+      - name: Fail on review failure
+        if: (steps.files.outputs.pr_type == 'content' || steps.files.outputs.pr_type == 'mixed') && steps.review.outputs.status == 'fail'
+        run: |
+          echo "Content review failed. See the Run content review log for details."
+          exit 1
