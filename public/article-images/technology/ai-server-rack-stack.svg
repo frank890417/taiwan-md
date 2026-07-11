@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="880" viewBox="0 0 1400 880" role="img" aria-labelledby="title desc">
+  <title id="title">AI server supply chain stack</title>
+  <desc id="desc">A layered diagram showing how GPU boards, power, cooling, networking, servers, racks and data centers stack into AI infrastructure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f8fb"/>
+      <stop offset="1" stop-color="#e9f0f3"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1f2937" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="880" fill="url(#bg)"/>
+  <text x="92" y="92" font-family="Noto Sans TC, Arial, sans-serif" font-size="42" font-weight="700" fill="#1f2937">AI 伺服器分層圖：從晶片到機櫃</text>
+  <text x="94" y="138" font-family="Noto Sans TC, Arial, sans-serif" font-size="22" fill="#52616f">GPU 只是起點，台灣供應鏈把它接成一座可以上線的資料中心硬體。</text>
+  <g filter="url(#shadow)">
+    <rect x="110" y="205" width="1180" height="560" rx="28" fill="#ffffff"/>
+  </g>
+  <g font-family="Noto Sans TC, Arial, sans-serif">
+    <g transform="translate(180 255)">
+      <rect width="1040" height="72" rx="16" fill="#dceef3"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#214756">晶片與加速器</text>
+      <text x="330" y="45" font-size="21" fill="#45616c">GPU / CPU / HBM / 高速 I/O 是算力的核心。</text>
+    </g>
+    <g transform="translate(180 348)">
+      <rect width="1040" height="72" rx="16" fill="#e5edf7"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#283f63">板卡與主機板</text>
+      <text x="330" y="45" font-size="21" fill="#4e6178">把晶片、電源、訊號與記憶體接成可運作的系統。</text>
+    </g>
+    <g transform="translate(180 441)">
+      <rect width="1040" height="72" rx="16" fill="#e9f2e6"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#31553a">電源與散熱</text>
+      <text x="330" y="45" font-size="21" fill="#526a55">高功耗機器需要穩定供電、液冷、風扇與熱管理。</text>
+    </g>
+    <g transform="translate(180 534)">
+      <rect width="1040" height="72" rx="16" fill="#f4ead8"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#65491d">伺服器與機櫃</text>
+      <text x="330" y="45" font-size="21" fill="#715d3f">ODM / EMS 把零組件整合成可交付、可維修的整機。</text>
+    </g>
+    <g transform="translate(180 627)">
+      <rect width="1040" height="72" rx="16" fill="#eee7f3"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#4f3f63">資料中心</text>
+      <text x="330" y="45" font-size="21" fill="#695d75">機櫃進入機房後，才真正變成雲端服務背後的身體。</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#6b8791" stroke-width="4" stroke-linecap="round">
+    <path d="M700 330v14"/>
+    <path d="M700 423v14"/>
+    <path d="M700 516v14"/>
+    <path d="M700 609v14"/>
+  </g>
+  <g font-family="Noto Sans TC, Arial, sans-serif" font-size="18" fill="#6b7280">
+    <text x="176" y="804">Taiwan.md Contributors 自製示意圖。用於說明供應鏈層次，不代表完整公司地圖或市占率。</text>
+  </g>
+</svg>

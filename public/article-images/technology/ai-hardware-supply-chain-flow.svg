@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">AI 硬體供應鏈：台灣把雲端變成機器的地方</title>
+  <desc id="desc">流程圖顯示 AI 需求如何從晶片設計開始，經過先進製程、先進封裝、HBM 與基板、散熱與電源、主機板、ODM/EMS、AI 機櫃，最後進入資料中心。圖中以霧藍色帶標示台灣高度集中的製造、封裝、電熱、板卡、組裝與機櫃整合節點。</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8fbfc"/>
+      <stop offset="58%" stop-color="#eef6f8"/>
+      <stop offset="100%" stop-color="#eaf2f4"/>
+    </linearGradient>
+    <linearGradient id="taiwanBand" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#e7f5f7"/>
+      <stop offset="100%" stop-color="#d9eef2"/>
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-15%" width="120%" height="135%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#0f2f3a" flood-opacity="0.10"/>
+    </filter>
+    <marker id="arrow" markerWidth="13" markerHeight="13" refX="10" refY="6.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2.2 L10.5,6.5 L2,10.8 Z" fill="#51747d"/>
+    </marker>
+    <style>
+      .bg { fill: url(#paper); }
+      .frame { fill: rgba(255,255,255,0.72); stroke: #d5e4e8; stroke-width: 1.5; }
+      .title { font: 700 38px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #14313a; }
+      .subtitle { font: 400 20px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #47646b; }
+      .eyebrow { font: 700 14px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #5f7f87; letter-spacing: 1.5px; }
+      .band-title { font: 700 20px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #1f4c57; }
+      .band-note { font: 400 15px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #54727a; }
+      .node-title { font: 700 19px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #17343c; }
+      .node-note { font: 400 14.5px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #547078; }
+      .node-num { font: 700 12px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #ffffff; }
+      .section-label { font: 700 15px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #385b63; }
+      .small { font: 400 14px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #668087; }
+      .flow { fill: none; stroke: #6f8f96; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrow); }
+      .branch { fill: none; stroke: #9bb4ba; stroke-width: 1.7; stroke-linecap: round; stroke-dasharray: 5 8; }
+      .node { fill: #ffffff; stroke: #c7dbe0; stroke-width: 1.4; filter: url(#softShadow); }
+      .node-tw { fill: #f8fdfd; stroke: #79aeb8; stroke-width: 2; filter: url(#softShadow); }
+      .node-global { fill: #fbfdfd; stroke: #d4e1e4; stroke-width: 1.4; filter: url(#softShadow); }
+      .node-final { fill: #f7fbfc; stroke: #94b3ba; stroke-width: 1.8; filter: url(#softShadow); }
+      .pill { fill: #2d6f7d; }
+      .pill-soft { fill: #e1f1f4; stroke: #b8d4da; stroke-width: 1; }
+      .band { fill: url(#taiwanBand); stroke: #8dbcc5; stroke-width: 1.6; }
+      .divider { stroke: #d7e5e8; stroke-width: 1.4; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1400" height="900"/>
+  <rect class="frame" x="44" y="42" width="1312" height="812" rx="34"/>
+
+  <text class="eyebrow" x="86" y="94">TAIWAN.MD SUPPLY CHAIN MAP</text>
+  <text class="title" x="86" y="138">AI 硬體供應鏈：從算力需求到資料中心</text>
+  <text class="subtitle" x="86" y="174">一個 AI 服務要上線，必須穿過晶片、封裝、記憶體、電與熱、板卡、整機與機櫃。</text>
+
+  <g transform="translate(90 220)">
+    <rect class="band" x="360" y="0" width="660" height="426" rx="30"/>
+    <text class="band-title" x="690" y="42" text-anchor="middle">台灣高度集中的工程關口</text>
+    <text class="band-note" x="690" y="68" text-anchor="middle">製程、封裝、電熱、板卡、整機組裝與機櫃整合彼此靠近，形成反應速度。</text>
+
+    <text class="section-label" x="5" y="24">需求與設計</text>
+    <line class="divider" x1="0" y1="46" x2="290" y2="46"/>
+    <text class="section-label" x="1130" y="24" text-anchor="end">部署端</text>
+    <line class="divider" x1="1050" y1="46" x2="1220" y2="46"/>
+
+    <path class="flow" d="M190 170 H238"/>
+    <path class="flow" d="M440 170 H488"/>
+    <path class="flow" d="M690 170 H738"/>
+    <path class="flow" d="M940 170 H988"/>
+    <path class="flow" d="M1090 255 V283"/>
+    <path class="flow" d="M988 370 H942"/>
+    <path class="flow" d="M738 370 H692"/>
+    <path class="flow" d="M488 370 H442"/>
+    <path class="flow" d="M238 370 H192"/>
+
+    <path class="branch" d="M1110 172 C1160 172 1190 202 1190 254 C1190 306 1168 338 1138 364"/>
+    <path class="branch" d="M620 225 C615 264 635 296 675 316"/>
+    <path class="branch" d="M875 228 C915 256 934 286 922 320"/>
+
+    <g transform="translate(0 95)">
+      <rect class="node-global" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">01</text>
+      <text class="node-title" x="30" y="70">AI 需求</text>
+      <text class="node-note" x="30" y="101">模型訓練、推論</text>
+      <text class="node-note" x="30" y="124">雲端客戶拉動算力</text>
+    </g>
+
+    <g transform="translate(250 95)">
+      <rect class="node-global" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">02</text>
+      <text class="node-title" x="30" y="70">晶片設計</text>
+      <text class="node-note" x="30" y="101">GPU、ASIC、平台</text>
+      <text class="node-note" x="30" y="124">多由美系大廠主導</text>
+    </g>
+
+    <g transform="translate(500 95)">
+      <rect class="node-tw" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">03</text>
+      <text class="node-title" x="30" y="70">先進製程</text>
+      <text class="node-note" x="30" y="101">晶圓代工、良率</text>
+      <text class="node-note" x="30" y="124">設計圖變成晶片</text>
+    </g>
+
+    <g transform="translate(750 95)">
+      <rect class="node-tw" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">04</text>
+      <text class="node-title" x="30" y="70">先進封裝</text>
+      <text class="node-note" x="30" y="101">CoWoS、SoIC、InFO</text>
+      <text class="node-note" x="30" y="124">晶粒與記憶體靠近</text>
+    </g>
+
+    <g transform="translate(1000 95)">
+      <rect class="node" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">05</text>
+      <text class="node-title" x="30" y="70">HBM / 基板</text>
+      <text class="node-note" x="30" y="101">記憶體頻寬</text>
+      <text class="node-note" x="30" y="124">ABF、PCB、訊號路徑</text>
+    </g>
+
+    <g transform="translate(1000 295)">
+      <rect class="node-tw" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">06</text>
+      <text class="node-title" x="30" y="70">散熱 / 電源</text>
+      <text class="node-note" x="30" y="101">液冷、風扇、電源</text>
+      <text class="node-note" x="30" y="124">高功耗先變成熱</text>
+    </g>
+
+    <g transform="translate(750 295)">
+      <rect class="node-tw" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">07</text>
+      <text class="node-title" x="30" y="70">主機板</text>
+      <text class="node-note" x="30" y="101">高速訊號、連接</text>
+      <text class="node-note" x="30" y="124">零件變成系統</text>
+    </g>
+
+    <g transform="translate(500 295)">
+      <rect class="node-tw" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">08</text>
+      <text class="node-title" x="30" y="70">ODM / EMS</text>
+      <text class="node-note" x="30" y="101">整機組裝、測試</text>
+      <text class="node-note" x="30" y="124">量產、交期、維修</text>
+    </g>
+
+    <g transform="translate(250 295)">
+      <rect class="node-tw" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">09</text>
+      <text class="node-title" x="30" y="70">AI 機櫃</text>
+      <text class="node-note" x="30" y="101">伺服器叢集</text>
+      <text class="node-note" x="30" y="124">電力、網路、冷卻</text>
+    </g>
+
+    <g transform="translate(0 295)">
+      <rect class="node-final" width="180" height="150" rx="22"/>
+      <circle class="pill" cx="34" cy="34" r="15"/>
+      <text class="node-num" x="34" y="39" text-anchor="middle">10</text>
+      <text class="node-title" x="30" y="70">資料中心</text>
+      <text class="node-note" x="30" y="101">雲端服務上線</text>
+      <text class="node-note" x="30" y="124">使用者看到答案</text>
+    </g>
+  </g>
+
+  <g transform="translate(90 705)">
+    <rect class="pill-soft" x="0" y="0" width="1220" height="86" rx="22"/>
+    <text class="band-title" x="34" y="36">讀圖重點</text>
+    <text class="band-note" x="34" y="62">台灣不是每一段都獨占；它的關鍵在於多個製造與整合節點距離很近，能快速把晶片、電、熱、板卡與機櫃接成可出貨的系統。</text>
+  </g>
+
+  <text class="small" x="90" y="836">Taiwan.md 自製示意圖，2026。圖像用於說明流程關係，不代表單一公司、市占率或完整供應商清單；具體事實以正文與腳註為準。</text>
+</svg>
