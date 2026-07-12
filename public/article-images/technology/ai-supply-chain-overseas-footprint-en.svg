@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">AI Supply Chain Overseas Manufacturing Roadmap</title>
+  <desc id="desc">A diagram showing how Taiwan's AI hardware supply chain extends from domestic core capabilities toward the United States, Japan, Europe, Mexico, Southeast Asia, India, and data-center markets.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7fbfc"/>
+      <stop offset="1" stop-color="#edf3f4"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2 2 L10 6 L2 10 Z" fill="#527174"/>
+    </marker>
+    <style>
+      .title { font: 700 34px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif; fill: #20393c; }
+      .subtitle { font: 400 17px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif; fill: #607275; }
+      .label { font: 700 21px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif; fill: #20393c; }
+      .small { font: 400 15px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif; fill: #4d6366; }
+      .tiny { font: 400 13px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif; fill: #607275; }
+      .node { fill: #ffffff; stroke: #c7d9dc; stroke-width: 2; rx: 20; }
+      .core { fill: #123f46; stroke: #123f46; }
+      .coreText { fill: #ffffff; }
+      .chip { fill: #d7ebe9; stroke: #84adae; stroke-width: 1.5; rx: 10; }
+      .line { fill: none; stroke: #527174; stroke-width: 3; marker-end: url(#arrow); }
+      .softLine { fill: none; stroke: #9eb9bb; stroke-width: 2; stroke-dasharray: 8 8; marker-end: url(#arrow); }
+      .band { fill: #e4eff0; stroke: #c4d8da; stroke-width: 1.5; rx: 16; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <text class="title" x="72" y="68">Taiwan's AI Supply Chain Goes Abroad by Many Routes</text>
+  <text class="subtitle" x="72" y="101">Fabs, packaging, servers, power, cooling, and facilities know-how are pulled to different places by customers and governments.</text>
+
+  <rect class="node core" x="450" y="256" width="300" height="194" rx="24"/>
+  <text class="label coreText" x="600" y="304" text-anchor="middle">Taiwan Core</text>
+  <text class="small coreText" x="600" y="338" text-anchor="middle">Process yield / packaging know-how</text>
+  <text class="small coreText" x="600" y="366" text-anchor="middle">Supplier density / engineering teamwork</text>
+  <text class="small coreText" x="600" y="394" text-anchor="middle">Fast problem-solving / customer trust</text>
+
+  <rect class="node" x="66" y="168" width="270" height="146" rx="20"/>
+  <text class="label" x="201" y="211" text-anchor="middle">United States</text>
+  <text class="small" x="201" y="244" text-anchor="middle">AI chips, servers, racks</text>
+  <text class="small" x="201" y="271" text-anchor="middle">Near cloud and security markets</text>
+
+  <rect class="node" x="64" y="420" width="274" height="146" rx="20"/>
+  <text class="label" x="201" y="463" text-anchor="middle">Mexico / SE Asia / India</text>
+  <text class="small" x="201" y="496" text-anchor="middle">Assembly, parts, backup capacity</text>
+  <text class="small" x="201" y="523" text-anchor="middle">Tariff and single-point risk hedging</text>
+
+  <rect class="node" x="864" y="168" width="270" height="146" rx="20"/>
+  <text class="label" x="999" y="211" text-anchor="middle">Japan / Europe</text>
+  <text class="small" x="999" y="244" text-anchor="middle">Auto, industrial, materials, tools</text>
+  <text class="small" x="999" y="271" text-anchor="middle">Reconnect supply to allied markets</text>
+
+  <rect class="node" x="862" y="420" width="274" height="146" rx="20"/>
+  <text class="label" x="999" y="463" text-anchor="middle">Data-Center Markets</text>
+  <text class="small" x="999" y="496" text-anchor="middle">Power, cooling, networking, ops</text>
+  <text class="small" x="999" y="523" text-anchor="middle">Hardware finally enters the cloud</text>
+
+  <path class="line" d="M450 318 C380 285 360 244 336 232"/>
+  <path class="line" d="M450 401 C374 435 364 489 338 493"/>
+  <path class="line" d="M750 318 C821 282 835 244 864 232"/>
+  <path class="line" d="M750 401 C824 433 836 489 862 493"/>
+
+  <rect class="band" x="402" y="528" width="396" height="98" rx="16"/>
+  <text class="label" x="600" y="565" text-anchor="middle">One Question, Four Pulls</text>
+  <text class="tiny" x="600" y="594" text-anchor="middle">Firms want orders, governments want security, local communities want jobs, and customers want controllable backups.</text>
+
+  <path class="softLine" d="M600 450 L600 528"/>
+
+  <rect class="chip" x="472" y="168" width="118" height="44" rx="10"/>
+  <text class="tiny" x="531" y="196" text-anchor="middle">Advanced nodes</text>
+  <rect class="chip" x="610" y="168" width="118" height="44" rx="10"/>
+  <text class="tiny" x="669" y="196" text-anchor="middle">Adv. packaging</text>
+  <rect class="chip" x="472" y="478" width="118" height="44" rx="10"/>
+  <text class="tiny" x="531" y="506" text-anchor="middle">AI servers</text>
+  <rect class="chip" x="610" y="478" width="118" height="44" rx="10"/>
+  <text class="tiny" x="669" y="506" text-anchor="middle">Power / cooling</text>
+
+  <text class="tiny" x="72" y="670">Taiwan.md Contributors self-made diagram. Arrows show capability and manufacturing-pressure directions, not complete company distribution or capacity share.</text>
+</svg>

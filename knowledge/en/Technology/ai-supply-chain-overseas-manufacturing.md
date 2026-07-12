@@ -74,7 +74,7 @@ _TSMC Fab 21 under construction in Phoenix, Arizona. Overseas manufacturing even
 
 OpenAI and Foxconn later announced a partnership to design and manufacture AI data-center racks in the United States, including cabling, networking, and power systems. AP reported that Foxconn would use US facilities in Wisconsin, Ohio, Texas, and elsewhere.[^2] This makes overseas manufacturing more than chip production; the entire AI data-center hardware system is being pulled into domestic manufacturing.
 
-![AI supply-chain overseas manufacturing roadmap: Taiwan’s domestic core capabilities extend toward the United States, Japan, Europe, Mexico, Southeast Asia, India, and data-center markets, showing four pulls from companies, governments, local societies, and customers](/article-images/technology/ai-supply-chain-overseas-footprint.svg)
+![AI supply-chain overseas manufacturing roadmap: Taiwan’s domestic core capabilities extend toward the United States, Japan, Europe, Mexico, Southeast Asia, India, and data-center markets, showing four pulls from companies, governments, local societies, and customers](/article-images/technology/ai-supply-chain-overseas-footprint-en.svg)
 
 _Taiwan’s AI supply chain does not move abroad along one route. Different segments are pulled by different markets: chips and packaging are pulled by national security and cloud customers; servers, racks, power, and cooling move with data centers, tariffs, and delivery needs. A Taiwan.md Contributors self-made diagram._
 
@@ -197,7 +197,7 @@ That is the most important question in AI supply-chain overseas manufacturing: a
 
 - **Aerial view of TSMC Arizona Fab 21 under construction (hero / inline)**: [231105-1 TSMC Fab 21 construction](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg) — Photo: Hunter Trick, 2023-11-05, Wikimedia Commons, CC BY-SA 4.0. This article uses the cached version at `public/article-images/economy/tsmc-fab21-arizona-2023.webp`.
 - **TSMC fabs in Hsinchu Science Park**: [TSMC fabs in Hsinchu 01](https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg) — Photo: Tseng Cheng-Hsun, 2020-01-02, Wikimedia Commons, CC BY 2.0. This article uses the cached version at `public/article-images/economy/tsmc-fabs-hsinchu-2020.webp`.
-- **AI supply-chain overseas manufacturing roadmap**: A Taiwan.md Contributors self-made SVG diagram, CC BY-SA 4.0, stored at `public/article-images/technology/ai-supply-chain-overseas-footprint.svg`. It explains the multiple routes and stakeholder pulls behind Taiwan’s AI hardware supply chain going abroad, and does not represent complete company distribution or capacity share.
+- **AI supply-chain overseas manufacturing roadmap**: A Taiwan.md Contributors self-made SVG diagram, CC BY-SA 4.0, stored at `public/article-images/technology/ai-supply-chain-overseas-footprint-en.svg`. It explains the multiple routes and stakeholder pulls behind Taiwan’s AI hardware supply chain going abroad, and does not represent complete company distribution or capacity share.
 
 ## References
 

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="880" viewBox="0 0 1400 880" role="img" aria-labelledby="title desc">
+  <title id="title">AI server supply chain stack</title>
+  <desc id="desc">A layered diagram showing how GPU boards, power, cooling, networking, servers, racks and data centers stack into AI infrastructure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f8fb"/>
+      <stop offset="1" stop-color="#e9f0f3"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1f2937" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="880" fill="url(#bg)"/>
+  <text x="92" y="92" font-family="Noto Sans TC, Arial, sans-serif" font-size="42" font-weight="700" fill="#1f2937">AI Server Stack: From Chips to Racks</text>
+  <text x="94" y="138" font-family="Noto Sans TC, Arial, sans-serif" font-size="22" fill="#52616f">A GPU is only the starting point; Taiwan's supply chain turns it into deployable data-center hardware.</text>
+  <g filter="url(#shadow)">
+    <rect x="110" y="205" width="1180" height="560" rx="28" fill="#ffffff"/>
+  </g>
+  <g font-family="Noto Sans TC, Arial, sans-serif">
+    <g transform="translate(180 255)">
+      <rect width="1040" height="72" rx="16" fill="#dceef3"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#214756">Chips and Accelerators</text>
+      <text x="430" y="45" font-size="21" fill="#45616c">GPU / CPU / HBM / high-speed I/O form the compute core.</text>
+    </g>
+    <g transform="translate(180 348)">
+      <rect width="1040" height="72" rx="16" fill="#e5edf7"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#283f63">Boards and Motherboards</text>
+      <text x="430" y="45" font-size="21" fill="#4e6178">Connect chips, power, signals, and memory into a working system.</text>
+    </g>
+    <g transform="translate(180 441)">
+      <rect width="1040" height="72" rx="16" fill="#e9f2e6"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#31553a">Power and Cooling</text>
+      <text x="430" y="45" font-size="21" fill="#526a55">High-power machines need stable power, liquid cooling, fans, and heat control.</text>
+    </g>
+    <g transform="translate(180 534)">
+      <rect width="1040" height="72" rx="16" fill="#f4ead8"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#65491d">Servers and Racks</text>
+      <text x="430" y="45" font-size="21" fill="#715d3f">ODM / EMS teams integrate parts into deliverable, serviceable systems.</text>
+    </g>
+    <g transform="translate(180 627)">
+      <rect width="1040" height="72" rx="16" fill="#eee7f3"/>
+      <text x="32" y="45" font-size="26" font-weight="700" fill="#4f3f63">Data Centers</text>
+      <text x="430" y="45" font-size="21" fill="#695d75">Only inside the machine room do racks become the body behind cloud services.</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#6b8791" stroke-width="4" stroke-linecap="round">
+    <path d="M700 330v14"/>
+    <path d="M700 423v14"/>
+    <path d="M700 516v14"/>
+    <path d="M700 609v14"/>
+  </g>
+  <g font-family="Noto Sans TC, Arial, sans-serif" font-size="18" fill="#6b7280">
+    <text x="176" y="804">Taiwan.md Contributors self-made diagram. This explains supply-chain layers, not a complete company map or market share.</text>
+  </g>
+</svg>

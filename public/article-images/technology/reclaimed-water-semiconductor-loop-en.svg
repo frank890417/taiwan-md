@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Reclaimed water and semiconductor manufacturing loop</title>
+  <desc id="desc">A diagram showing how reservoir water, urban wastewater, reclaimed water plants, fabs and wastewater treatment form a water governance loop.</desc>
+  <rect width="1400" height="900" fill="#f4f8fa"/>
+  <text x="88" y="92" font-family="Noto Sans TC, Arial, sans-serif" font-size="42" font-weight="700" fill="#1f2937">Reclaimed Water Links Fabs Back to the City Water Loop</text>
+  <text x="90" y="138" font-family="Noto Sans TC, Arial, sans-serif" font-size="22" fill="#52616f">Semiconductor water use is not one pipe; it is a loop of reservoirs, urban sewage, reclaimed-water plants, fabs, and local governance.</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#4f7f9a"/>
+    </marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#1f2937" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <g font-family="Noto Sans TC, Arial, sans-serif" filter="url(#shadow)">
+    <rect x="135" y="250" width="260" height="132" rx="22" fill="#d9ecf4"/>
+    <text x="181" y="307" font-size="28" font-weight="700" fill="#23495a">Reservoirs / Rivers</text>
+    <text x="178" y="345" font-size="19" fill="#52616f">Rain, drought, dispatch</text>
+    <rect x="570" y="215" width="260" height="132" rx="22" fill="#e6f0df"/>
+    <text x="622" y="272" font-size="28" font-weight="700" fill="#3d5b2e">Urban Sewage</text>
+    <text x="617" y="310" font-size="19" fill="#52616f">Sewers and treatment</text>
+    <rect x="1005" y="250" width="260" height="132" rx="22" fill="#dbe7f6"/>
+    <text x="1042" y="307" font-size="28" font-weight="700" fill="#284366">Reclaimed-Water Plants</text>
+    <text x="1038" y="345" font-size="19" fill="#52616f">Stable quality and pipelines</text>
+    <rect x="786" y="562" width="300" height="142" rx="24" fill="#f2e7d5"/>
+    <text x="842" y="624" font-size="28" font-weight="700" fill="#63491f">Fabs</text>
+    <text x="833" y="665" font-size="19" fill="#52616f">Ultrapure, reuse, wastewater</text>
+    <rect x="280" y="562" width="300" height="142" rx="24" fill="#eadfee"/>
+    <text x="330" y="624" font-size="28" font-weight="700" fill="#564063">Local Governance</text>
+    <text x="325" y="665" font-size="19" fill="#52616f">Data, contracts, drought response</text>
+  </g>
+  <g fill="none" stroke="#4f7f9a" stroke-width="6" marker-end="url(#arrow)">
+    <path d="M395 310 C465 260, 500 260, 570 280"/>
+    <path d="M830 280 C905 260, 935 270, 1005 310"/>
+    <path d="M1130 382 C1120 490, 1050 540, 1000 562"/>
+    <path d="M786 637 C690 660, 660 660, 580 638"/>
+    <path d="M426 562 C352 505, 305 448, 270 382"/>
+  </g>
+  <text x="88" y="820" font-family="Noto Sans TC, Arial, sans-serif" font-size="18" fill="#6b7280">Taiwan.md Contributors self-made diagram. This explains a water-governance loop, not a specific fab-site engineering plan.</text>
+</svg>

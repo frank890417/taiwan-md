@@ -104,7 +104,7 @@ Third, reclaimed water forces data to become more transparent. To earn local tru
 
 Reclaimed water is therefore not a “patch” for semiconductor water shortage. It is more like an institutional test: can Taiwan combine municipal sewage, industrial demand, local trust, and climate risk into a water-resource system that can operate over the long term?
 
-![Diagram of reclaimed water and semiconductor manufacturing water loop: reservoirs and rivers, municipal sewage, reclaimed-water plants, fabs, and local governance form a water-resource loop](/article-images/technology/reclaimed-water-semiconductor-loop.svg)
+![Diagram of reclaimed water and semiconductor manufacturing water loop: reservoirs and rivers, municipal sewage, reclaimed-water plants, fabs, and local governance form a water-resource loop](/article-images/technology/reclaimed-water-semiconductor-loop-en.svg)
 
 _A Taiwan.md self-made diagram. Reclaimed water connects municipal sewage, industrial demand, local trust, and drought response into a system, turning semiconductor water use into a public-infrastructure question._
 
@@ -171,7 +171,7 @@ That is why semiconductor water use is worth understanding: it turns the most ab
 
 - **TSMC Fab 18 and fields at Southern Taiwan Science Park (hero / inline)**: [TSMC Fab 18 and fields May 2025](https://commons.wikimedia.org/wiki/File:TSMC_Fab_18_and_fields_May_2025.jpg) — Photo: 4300streetcar, Wikimedia Commons, CC BY 4.0. This article uses the cached version at `public/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp`.
 - **Flooding in Minxiong, Chiayi, after Typhoon Morakot**: [2009-08-09 at a village under the Typhoon Morakot, in Minxiong, Chiayi](https://commons.wikimedia.org/wiki/File:2009-08-09_at_a_village_under_the_Typhoon_Morakot,_in_Minxiong,_Chiayi.jpg) — Photo: zilupe, Wikimedia Commons, CC BY 2.0. This article uses the cached version at `public/article-images/nature/morakot-minxiong-flood-2009.webp`.
-- **Reclaimed water and semiconductor manufacturing water-loop diagram**: A Taiwan.md Contributors self-made SVG diagram, CC BY-SA 4.0, stored at `public/article-images/technology/reclaimed-water-semiconductor-loop.svg`. It explains the relationship among reservoirs, municipal sewage, reclaimed-water plants, fabs, and local governance, and is not an engineering drawing of a specific site.
+- **Reclaimed water and semiconductor manufacturing water-loop diagram**: A Taiwan.md Contributors self-made SVG diagram, CC BY-SA 4.0, stored at `public/article-images/technology/reclaimed-water-semiconductor-loop-en.svg`. It explains the relationship among reservoirs, municipal sewage, reclaimed-water plants, fabs, and local governance, and is not an engineering drawing of a specific site.
 
 ## References
 

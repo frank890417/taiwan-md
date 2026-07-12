@@ -15,7 +15,7 @@ rationale:
   whats_excluded: 'Does not attempt a complete industry encyclopedia or list every Taiwanese semiconductor, server, and component company.'
   where_it_hedges: 'Places Taiwan’s supply-chain value alongside power, water, carbon, income distribution, overseas manufacturing, and geopolitical risk.'
   whos_pushing_back: 'Global customers and allies need Taiwan, but they also use overseas manufacturing to reduce single-point dependence around the Taiwan Strait.'
-image: '/article-images/technology/ai-hardware-supply-chain-flow.svg'
+image: '/article-images/technology/ai-hardware-supply-chain-flow-en.svg'
 imageCredit: 'Taiwan.md Contributors'
 imageLicense: 'CC BY-SA 4.0'
 translatedFrom: 'Technology/AI硬體供應鏈.md'
@@ -60,7 +60,7 @@ Taiwan’s place is at many of the important workstations in that kitchen.
 
 An AI hardware supply chain often begins with a very ordinary demand: a cloud company, model company, or large enterprise needs more compute. That sounds like buying a cloud service, but it quickly becomes a string of physical questions: what chip should be designed? Where can it be manufactured? How does memory get close enough to it? How is heat removed? How is power delivered? And who turns those expensive parts into a machine that can be shipped, maintained, and placed in a data center?
 
-![AI hardware supply-chain flowchart showing AI demand moving through chip design, advanced nodes, advanced packaging, HBM and substrates, cooling and power, motherboards, ODM / EMS, AI racks, and finally data centers; the chart highlights manufacturing, packaging, electrical and thermal, board, assembly, and rack-integration checkpoints highly concentrated in Taiwan](/article-images/technology/ai-hardware-supply-chain-flow.svg)
+![AI hardware supply-chain flowchart showing AI demand moving through chip design, advanced nodes, advanced packaging, HBM and substrates, cooling and power, motherboards, ODM / EMS, AI racks, and finally data centers; the chart highlights manufacturing, packaging, electrical and thermal, board, assembly, and rack-integration checkpoints highly concentrated in Taiwan](/article-images/technology/ai-hardware-supply-chain-flow-en.svg)
 
 _A Taiwan.md self-made diagram. This is not a market-share chart or a complete company map; it shows one core path: how AI demand becomes machines that can be powered, cooled, and shipped._
 
@@ -70,7 +70,7 @@ But making the chip does not mean AI can go online. AI chips need to sit close t
 
 Further downstream, the supply chain looks less and less like a straight line. HBM, or high-bandwidth memory, is mainly led by Korean companies. Equipment, materials, and design software involve suppliers from the United States, the Netherlands, Japan, and Europe. Cloud platforms and model services are mostly in the United States. Taiwan does not monopolize every segment, and it does not capture the largest profit in every segment. Its special feature is that wafer foundry, packaging, testing, substrates, power, cooling, motherboards, and system assembly are close to one another and have long been used to solving engineering problems together.
 
-![AI server stack diagram showing chips and accelerators, boards and motherboards, power and cooling, servers and racks, and data centers stacked in sequence, explaining how a GPU becomes deployable AI infrastructure](/article-images/technology/ai-server-rack-stack.svg)
+![AI server stack diagram showing chips and accelerators, boards and motherboards, power and cooling, servers and racks, and data centers stacked in sequence, explaining how a GPU becomes deployable AI infrastructure](/article-images/technology/ai-server-rack-stack-en.svg)
 
 _A Taiwan.md self-made diagram. The GPU is only one core of an AI server; it still has to connect to boards, power, cooling, systems, racks, and data centers._
 
@@ -178,8 +178,8 @@ That is one of Taiwan’s clearest positions right now, and one that needs to be
 
 ## Image Sources
 
-- **AI hardware supply-chain flowchart**: A Taiwan.md Contributors self-made SVG diagram, CC BY-SA 4.0, stored at `public/article-images/technology/ai-hardware-supply-chain-flow.svg`. The nodes are organized from this article and its references to explain how AI demand moves through chip design, advanced nodes, advanced packaging, HBM / substrates, cooling / power, motherboards, ODM / EMS, and AI racks before entering data centers. It is not a market-share chart and does not represent a complete company map.
-- **AI server stack diagram**: A Taiwan.md Contributors self-made SVG diagram, CC BY-SA 4.0, stored at `public/article-images/technology/ai-server-rack-stack.svg`. It explains the system layers from chip to data center, and does not represent a complete company map or market share.
+- **AI hardware supply-chain flowchart**: A Taiwan.md Contributors self-made SVG diagram, CC BY-SA 4.0, stored at `public/article-images/technology/ai-hardware-supply-chain-flow-en.svg`. The nodes are organized from this article and its references to explain how AI demand moves through chip design, advanced nodes, advanced packaging, HBM / substrates, cooling / power, motherboards, ODM / EMS, and AI racks before entering data centers. It is not a market-share chart and does not represent a complete company map.
+- **AI server stack diagram**: A Taiwan.md Contributors self-made SVG diagram, CC BY-SA 4.0, stored at `public/article-images/technology/ai-server-rack-stack-en.svg`. It explains the system layers from chip to data center, and does not represent a complete company map or market share.
 - **Jensen Huang showing an RTX Blackwell GPU**: [Jensen Huang holding RTX Blackwell at CES 2025](<https://commons.wikimedia.org/wiki/File:Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_(3).jpg>) — Photo: Pronoia, Wikimedia Commons, CC0. This article uses the cached version at `public/article-images/technology/jensen-huang-ces-2025-blackwell.webp`.
 - **Computex Nangang exhibition floor**: [Computex Taipei at Taipei Nangang Exhibition Center](https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20150602.jpg) — Photo: NVIDIA Taiwan, Wikimedia Commons, CC BY 2.0. This article uses the cached version at `public/article-images/technology/computex-nangang-floor-2015.webp`.
 
