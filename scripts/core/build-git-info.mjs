@@ -59,6 +59,10 @@ function contributorKey(value) {
   return value.toLowerCase().replace(/[\s._-]+/g, '');
 }
 
+function isGitHubLogin(value) {
+  return /^[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?$/.test(value);
+}
+
 function getContributorProfiles() {
   if (contributorProfiles) return contributorProfiles;
   contributorProfiles = new Map();
@@ -86,14 +90,14 @@ function resolveContributor(authorName, authorEmail) {
   const profile =
     getContributorProfiles().get(contributorKey(githubLogin || '')) ||
     getContributorProfiles().get(contributorKey(authorName));
-  const login = githubLogin || profile?.login || authorName;
+  const login = githubLogin || profile?.login || '';
   const isAuthorNameLogin =
     profile && contributorKey(authorName) === contributorKey(profile.login);
   return {
     name: isAuthorNameLogin
       ? profile.name
       : authorName || profile?.name || login,
-    login,
+    login: isGitHubLogin(login) ? login : '',
   };
 }
 
@@ -204,7 +208,11 @@ function main() {
       entry.revisionCount += 1;
       if (
         currentContributor &&
-        !entry.contributors.some((c) => c.login === currentContributor.login)
+        !entry.contributors.some(
+          (c) =>
+            contributorKey(c.login || c.name) ===
+            contributorKey(currentContributor.login || currentContributor.name),
+        )
       ) {
         entry.contributors.push(currentContributor);
       }

@@ -106,11 +106,22 @@ const shareLINELabel = t('article.sidebar.shareLine');
 
 const contentLanguageName = languages[lang] ?? String(lang);
 
-const normalizedContributors = contributors.map((contributor) =>
-  typeof contributor === 'string'
-    ? { name: contributor, login: contributor }
-    : contributor,
-);
+function isGitHubLogin(value: string): boolean {
+  return /^[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?$/.test(value);
+}
+
+const normalizedContributors = contributors.map((contributor) => {
+  const normalized =
+    typeof contributor === 'string'
+      ? { name: contributor, login: contributor }
+      : contributor;
+  return {
+    ...normalized,
+    profileUrl: isGitHubLogin(normalized.login)
+      ? `https://github.com/${normalized.login}`
+      : '',
+  };
+});
 ---
 
 <!--
@@ -405,16 +416,22 @@ const normalizedContributors = contributors.map((contributor) =>
           {contributorsHeading}
         </p>
         <div class="flex flex-wrap gap-[0.4rem]">
-          {normalizedContributors.map((contributor) => (
-            <a
-              href={`https://github.com/${contributor.login}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="rounded-full border border-[rgba(0,109,119,0.15)] bg-[rgba(0,109,119,0.07)] px-[0.6rem] py-[0.22rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] text-[#006d77] no-underline transition-colors duration-150 hover:bg-[rgba(0,109,119,0.14)]"
-            >
-              {contributor.name}
-            </a>
-          ))}
+          {normalizedContributors.map((contributor) =>
+            contributor.profileUrl ? (
+              <a
+                href={contributor.profileUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="rounded-full border border-[rgba(0,109,119,0.15)] bg-[rgba(0,109,119,0.07)] px-[0.6rem] py-[0.22rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] text-[#006d77] no-underline transition-colors duration-150 hover:bg-[rgba(0,109,119,0.14)]"
+              >
+                {contributor.name}
+              </a>
+            ) : (
+              <span class="rounded-full border border-[rgba(0,109,119,0.15)] bg-[rgba(0,109,119,0.07)] px-[0.6rem] py-[0.22rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] text-[#006d77]">
+                {contributor.name}
+              </span>
+            ),
+          )}
         </div>
       </div>
     )
