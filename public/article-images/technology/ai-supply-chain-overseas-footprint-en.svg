@@ -15,6 +15,7 @@
       .label { font: 700 21px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif; fill: #20393c; }
       .small { font: 400 15px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif; fill: #4d6366; }
       .tiny { font: 400 13px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif; fill: #607275; }
+      .caption { font: 400 12px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif; fill: #607275; }
       .node { fill: #ffffff; stroke: #c7d9dc; stroke-width: 2; rx: 20; }
       .core { fill: #123f46; stroke: #123f46; }
       .coreText { fill: #ffffff; }
@@ -26,8 +27,9 @@
   </defs>
 
   <rect width="1200" height="720" fill="url(#bg)"/>
-  <text class="title" x="72" y="68">Taiwan's AI Supply Chain Goes Abroad by Many Routes</text>
-  <text class="subtitle" x="72" y="101">Fabs, packaging, servers, power, cooling, and facilities know-how are pulled to different places by customers and governments.</text>
+  <text class="title" x="72" y="68">Taiwan's AI Supply Chain Abroad</text>
+  <text class="subtitle" x="72" y="101">Fabs, packaging, servers, power, cooling, and facilities know-how</text>
+  <text class="subtitle" x="72" y="126">are pulled to different places by customers and governments.</text>
 
   <rect class="node core" x="450" y="256" width="300" height="194" rx="24"/>
   <text class="label coreText" x="600" y="304" text-anchor="middle">Taiwan Core</text>
@@ -60,9 +62,10 @@
   <path class="line" d="M750 318 C821 282 835 244 864 232"/>
   <path class="line" d="M750 401 C824 433 836 489 862 493"/>
 
-  <rect class="band" x="402" y="528" width="396" height="98" rx="16"/>
-  <text class="label" x="600" y="565" text-anchor="middle">One Question, Four Pulls</text>
-  <text class="tiny" x="600" y="594" text-anchor="middle">Firms want orders, governments want security, local communities want jobs, and customers want controllable backups.</text>
+  <rect class="band" x="386" y="526" width="428" height="112" rx="16"/>
+  <text class="label" x="600" y="562" text-anchor="middle">One Question, Four Pulls</text>
+  <text class="tiny" x="600" y="590" text-anchor="middle">Firms want orders; governments want security.</text>
+  <text class="tiny" x="600" y="612" text-anchor="middle">Communities want jobs; customers want backup capacity.</text>
 
   <path class="softLine" d="M600 450 L600 528"/>
 
@@ -75,5 +78,6 @@
   <rect class="chip" x="610" y="478" width="118" height="44" rx="10"/>
   <text class="tiny" x="669" y="506" text-anchor="middle">Power / cooling</text>
 
-  <text class="tiny" x="72" y="670">Taiwan.md Contributors self-made diagram. Arrows show capability and manufacturing-pressure directions, not complete company distribution or capacity share.</text>
+  <text class="caption" x="72" y="670">Taiwan.md Contributors self-made diagram. Arrows show capability and manufacturing-pressure directions,</text>
+  <text class="caption" x="72" y="688">not complete company distribution or capacity share.</text>
 </svg>

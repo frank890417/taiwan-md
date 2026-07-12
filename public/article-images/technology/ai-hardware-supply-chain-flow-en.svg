@@ -20,7 +20,7 @@
     <style>
       .bg { fill: url(#paper); }
       .frame { fill: rgba(255,255,255,0.72); stroke: #d5e4e8; stroke-width: 1.5; }
-      .title { font: 700 38px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #14313a; }
+      .title { font: 700 36px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #14313a; }
       .subtitle { font: 400 20px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #47646b; }
       .eyebrow { font: 700 14px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #5f7f87; letter-spacing: 1.5px; }
       .band-title { font: 700 20px -apple-system, BlinkMacSystemFont, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif; fill: #1f4c57; }
@@ -105,7 +105,7 @@
       <rect class="node-tw" width="180" height="150" rx="22"/>
       <circle class="pill" cx="34" cy="34" r="15"/>
       <text class="node-num" x="34" y="39" text-anchor="middle">04</text>
-      <text class="node-title" x="30" y="70">Advanced Packaging</text>
+      <text class="node-title" x="30" y="70">Adv. Packaging</text>
       <text class="node-note" x="30" y="101">CoWoS, SoIC, InFO</text>
       <text class="node-note" x="30" y="124">Dies meet memory</text>
     </g>
@@ -168,8 +168,10 @@
   <g transform="translate(90 705)">
     <rect class="pill-soft" x="0" y="0" width="1220" height="86" rx="22"/>
     <text class="band-title" x="34" y="36">How to Read This Map</text>
-    <text class="band-note" x="34" y="62">Taiwan does not own every segment; its leverage comes from nearby manufacturing and integration nodes that turn chips, power, heat, boards, and racks into shippable systems.</text>
+    <text class="band-note" x="34" y="58">Taiwan does not own every segment; its leverage comes from nearby manufacturing and integration nodes</text>
+    <text class="band-note" x="34" y="78">that turn chips, power, heat, boards, and racks into shippable systems.</text>
   </g>
 
-  <text class="small" x="90" y="836">Taiwan.md self-made diagram, 2026. This explains process relationships, not a single company, market share, or full supplier list; see article sources for specific facts.</text>
+  <text class="small" x="90" y="836">Taiwan.md self-made diagram, 2026. This explains process relationships, not a single company, market share,</text>
+  <text class="small" x="90" y="856">or full supplier list; see article sources for specific facts.</text>
 </svg>
