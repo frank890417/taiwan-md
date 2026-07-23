@@ -16,6 +16,7 @@ import re
 from pathlib import Path
 from typing import Any, Iterator
 
+from ..langs import TRANSLATION_LANGS
 from ..types import FileTarget, Severity, Violation
 
 
@@ -28,7 +29,8 @@ APPLIES_TO = ["zh-TW"]
 _RE_WIKILINK = re.compile(r"\[\[([^\]|\n]+?)(?:\|[^\]\n]+)?\]\]")
 _RE_MD_LINK_INTERNAL = re.compile(r"\]\(/([a-z]+)/([^)\n]+?)\)")
 
-_LANG_DIRS_SKIP = {"en", "ja", "ko", "es", "fr"}
+# 語言清單吃 langs.py SSOT，不寫死（2026-07-24：原本停在出生戰役前的五語）。
+_LANG_DIRS_SKIP = set(TRANSLATION_LANGS)
 _KNOWLEDGE_ROOT = Path("knowledge")
 
 

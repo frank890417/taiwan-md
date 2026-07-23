@@ -9,7 +9,8 @@ Dimensions:
   3. external hot-link detection — http/https URLs not under
      `/article-images/` or `https://upload.wikimedia.org/...`
      (canonical CC sources allowed)
-  4. ## 圖片來源 section presence (when CC images used)
+  4. ## 圖片來源 section presence (when CC images used) — 各語言說法皆可，
+     見 `_RE_IMAGE_SOURCES_H2`
   5. **image count gate (added 2026-05-11 kind-mirzakhani per 哲宇 callout)** —
      depth article 理想 hero + 1-2 scene-mid = 2-3 張，min_images=3 預設
      soft-launch WARN（legacy heal），rewrite-stage-4 profile severity_override
@@ -27,6 +28,7 @@ import re
 from pathlib import Path
 from typing import Any, Iterator
 
+from ..langs import TRANSLATION_LANGS
 from ..types import FileTarget, Severity, Violation
 
 
@@ -60,7 +62,47 @@ _RE_IFRAME = re.compile(r"<iframe[\s>]", re.IGNORECASE)
 # 「圖+影片+視覺模組 ≈ 1 媒體 / 500–800 字（含 hero 與 tw-* 模組）」；paragraph_rhythm 的
 # density 已這樣數，本 gate 漏了 → 大罷免 dogfood F7 儀器漂移 (REFLEXES #56)。
 _RE_VIZ_MODULE = re.compile(r"^```tw-[a-z]+", re.MULTILINE)
-_RE_IMAGE_SOURCES_H2 = re.compile(r"^##\s*圖片來源", re.MULTILINE)
+# §3 的圖片出處小標 —— 各語言各自的說法，不是只有中文。
+#
+# 2026-07-24：原本寫死 `^##\s*圖片來源`，於是每一篇 frontmatter 有 imageCredit 的
+# 非中文譯文都必噴 warn —— 全 corpus 1,022 筆裡有 759 筆是這樣來的假陽性
+# （en/ja/ko/es/fr 各約 150 筆），真正缺出處區塊的只有 263 篇。假陽性佔 74%，
+# 等於這條 warn 對譯文完全失去訊號。
+#
+# 樣式（不是逐字清單）比對，因為既有語料本身就有變體：en 有 Image Sources ×119 /
+# Image Credits ×23、es 有 Fuentes de imágenes ×73 / Fuentes de las imágenes ×39 /
+# Créditos de imágenes ×18、fr 有 Sources des images ×130 / Crédits photographiques ×10。
+# 逐字表會漏長尾（Fuentes imágenes、Crédits images、画像と動画の出典…）。
+#
+# 聯集比對、不看檔案本身的 lang：中文標題殘留在譯文裡（ja ×8、en ×4）確實是
+# 沒翻到底，但它「是」出處區塊，這條 check 要問的是有沒有 cite，不是翻得夠不夠徹底。
+# vi/id/pt/hi 目前沒有任何一篇有 imageCredit，那四行樣式是照該語言常用詞先擺著、
+# 尚無語料佐證，標記為 provisional；猜錯的代價是一筆 warn，不擋 CI。
+_RE_IMAGE_SOURCES_H2 = re.compile(
+    r"^##[ \t]*(?:"
+    # zh-TW（SSOT）── 圖片／影片／照片 … 來源／出處
+    r"[^\n]*(?:圖片|图片|影片|照片)[^\n]*(?:來源|来源|出處|出处)"
+    # ja ── 画像／写真／動画／映像 … 出典／クレジット
+    r"|[^\n]*(?:画像|写真|動画|映像)[^\n]*(?:出典|出處|來源|来源|クレジット)"
+    # ko ── 이미지／사진／영상 … 출처／크레딧
+    r"|[^\n]*(?:이미지|사진|영상)[^\n]*(?:출처|크레딧)"
+    # en ── Image／Photo／Video／Media … Source(s)／Credit(s)
+    r"|(?i:[^\n]*\b(?:image|photo|video|media)\w*\b[^\n]*\b(?:sources?|credits?)\b)"
+    # es ── Fuentes／Créditos … imagen(es)／foto(s)／vídeo(s)
+    r"|(?i:[^\n]*\b(?:fuentes?|cr[ée]ditos?)\b[^\n]*\b(?:im[áa]genes?|imagen|fotos?|v[ií]deos?)\b)"
+    # fr ── Sources／Crédits … images／photographiques／vidéos
+    r"|(?i:[^\n]*\b(?:sources?|cr[ée]dits?)\b[^\n]*\b(?:images?|photographiques?|photos?|vid[ée]os?)\b)"
+    # pt（provisional，尚無語料）── Fontes／Créditos … imagem(ns)／foto(s)
+    r"|(?i:[^\n]*\b(?:fontes?|cr[ée]ditos?)\b[^\n]*\b(?:imagens?|imagem|fotos?|v[ií]deos?)\b)"
+    # id（provisional，尚無語料）── Sumber … gambar／foto
+    r"|(?i:[^\n]*\bsumber\b[^\n]*\b(?:gambar|foto|video)\w*\b)"
+    # vi（provisional，尚無語料）── Nguồn … ảnh／hình
+    r"|(?i:[^\n]*\bngu[ồo]n\b[^\n]*(?:ảnh|hình|video))"
+    # hi（provisional，尚無語料）── छवि／चित्र／तस्वीर … स्रोत／साभार
+    r"|[^\n]*(?:छवि|चित्र|तस्वीर)[^\n]*(?:स्रोत|साभार)"
+    r")[ \t]*$",
+    re.MULTILINE,
+)
 _RE_CJK = re.compile(r"[一-鿿㐀-䶿]")
 # length-scaling 用 prose-CJK (strip 參考資料 footnote 段) — footnotes 可 inflate CJK ~25%
 # → 過度要求媒體。對齊 paragraph_rhythm density 的 prose 基準 (校準保留 設研院/天下/黃魚鴞)。
@@ -96,8 +138,12 @@ def _is_excluded_from_count_gate(path_str: str) -> bool:
     p = path_str.replace("\\", "/")
     if not p.endswith(".md"):
         return True
-    # Translation files (knowledge/en|ja|ko|es|fr/...)
-    for lang in ("en", "ja", "ko", "es", "fr"):
+    # Translation files (knowledge/{lang}/...) — 語言清單吃 langs.py SSOT。
+    # 2026-07-24：原本寫死 ("en","ja","ko","es","fr") 停在出生戰役前的五語世界，
+    # vi/id/pt/hi 因此漏出這道排除，被套上只對 zh-TW SSOT 有意義的媒體數量門檻 ——
+    # 四語各 35 篇（共 140 筆）誤報，其中 136 筆是「0 媒體」。譯文不自備圖，
+    # 媒體是 zh 原文的責任，本來就該整條 skip。
+    for lang in TRANSLATION_LANGS:
         if f"knowledge/{lang}/" in p:
             return True
     # Hub pages — knowledge/{Category}/_X.md
@@ -212,7 +258,9 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             severity=Severity.WARN,
             message=(
                 "frontmatter 有 imageCredit/imageLicense/imageSource 但缺 "
-                "`## 圖片來源` section (CC 圖片需 cite 來源)"
+                "`## 圖片來源` section (CC 圖片需 cite 來源)；譯文用該語言的說法即可"
+                "（Image Sources／画像出典／이미지 출처／Fuentes de imágenes／"
+                "Sources des images…）"
             ),
             editorial_ref=EDITORIAL_REF,
         )

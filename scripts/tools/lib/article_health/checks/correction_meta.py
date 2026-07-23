@@ -33,6 +33,7 @@ import os
 import re
 from typing import Any, Iterator
 
+from ..langs import TRANSLATION_LANGS
 from ..types import FileTarget, Severity, Violation
 
 
@@ -78,7 +79,8 @@ _PATTERNS: list[tuple[re.Pattern[str], str]] = [
 
 def _is_excluded_path(path: str) -> bool:
     p = str(path)
-    if any(f"/knowledge/{lg}/" in p for lg in ("en", "ja", "ko", "es", "fr")):
+    # 語言清單吃 langs.py SSOT，不寫死（2026-07-24：原本停在出生戰役前的五語）。
+    if any(f"/knowledge/{lg}/" in p for lg in TRANSLATION_LANGS):
         return True
     if os.path.basename(p).startswith("_") and p.endswith(".md"):
         return True

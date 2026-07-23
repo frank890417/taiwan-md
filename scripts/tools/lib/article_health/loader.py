@@ -14,6 +14,7 @@ import re
 from pathlib import Path
 from typing import Any
 
+from .langs import TRANSLATION_LANGS
 from .types import FileTarget
 
 
@@ -22,16 +23,13 @@ from .types import FileTarget
 # 語言清單從註冊表 SSOT derive，不寫死（2026-07-18：pt 出生時此處寫死漏掉，
 # knowledge/pt/ 被當成 zh-TW → cjk-punct 對葡文半形冒號報 31 hard，pre-commit 卡死；
 # 「新語言出生感知系統不會自動更新」在 article-health loader 的復發）。
-def _load_lang_dirs() -> set[str]:
-    try:
-        _reg = Path(__file__).resolve().parents[3] / "src" / "config" / "languages.mjs"
-        codes = re.findall(r"code:\s*'([\w-]+)'", _reg.read_text(encoding="utf-8"))
-        return {c for c in codes if c != "zh-TW"}
-    except Exception:  # noqa: BLE001 — fallback 保底，永不讓 loader 因 registry 讀取失敗而崩
-        return {"en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"}
-
-
-_LANG_DIRS = _load_lang_dirs()
+#
+# 2026-07-24：原本 loader 自己有一份 `_load_lang_dirs()`，但 `parents[3]` 指到
+# `scripts/src/config/languages.mjs`（少算一層，該路徑不存在），`except` 又把
+# FileNotFoundError 吞掉 → registry 從來沒被讀到，一路靠寫死的保底清單在跑。
+# 保底清單剛好是出生戰役當下的九語，所以看起來會動；第十個語言出生時一樣瞎。
+# 現在改吃 langs.py 這個 SSOT bridge（路徑修正 + fail-loud selftest）。
+_LANG_DIRS = TRANSLATION_LANGS
 
 # Protected region patterns
 _RE_FENCED_CODE = re.compile(r"```[\s\S]*?```", re.MULTILINE)

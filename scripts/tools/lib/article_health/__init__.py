@@ -6,6 +6,7 @@ Public API:
 設計提案：reports/article-health-ssot-design-2026-05-04.md
 """
 
+from .langs import ALL_LANGS, TRANSLATION_LANGS
 from .types import (
     FileTarget,
     Severity,
@@ -34,6 +35,8 @@ __all__ = [
     "list_checks",
     "load_config",
     "run_checks",
+    "ALL_LANGS",
+    "TRANSLATION_LANGS",
 ]
 
 __version__ = "0.1.0-phase1"

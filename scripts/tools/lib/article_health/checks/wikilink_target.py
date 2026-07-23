@@ -13,6 +13,7 @@ import re
 from pathlib import Path
 from typing import Any, Iterator
 
+from ..langs import TRANSLATION_LANGS
 from ..types import FileTarget, Severity, Violation
 
 
@@ -28,8 +29,10 @@ _RE_WIKILINK_FULL = re.compile(
 )
 
 # Directories to scan for valid article slugs (zh-TW only — translations
-# share the source slug, not target).
-_LANG_DIRS_SKIP = {"en", "ja", "ko", "es", "fr"}
+# share the source slug, not target). 語言清單吃 langs.py SSOT，不寫死
+# （2026-07-24：原本停在五語，vi/id/pt/hi 沒被 skip。今天無實害 —— 那四個目錄
+# 底下沒有直屬 .md，`entry.glob("*.md")` 掃不到東西 —— 但同一類寫死照樣要收）。
+_LANG_DIRS_SKIP = set(TRANSLATION_LANGS)
 _KNOWLEDGE_ROOT = Path("knowledge")
 
 

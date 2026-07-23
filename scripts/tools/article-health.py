@@ -37,6 +37,7 @@ from lib.article_health import (  # noqa: E402
     load_config,
     load_target,
     list_checks,
+    TRANSLATION_LANGS,
     run_checks,
 )
 from lib.article_health.config import Config, ProfileConfig  # noqa: E402
@@ -72,7 +73,9 @@ def _get_all_zh() -> list[Path]:
         return []
     files = []
     for cat in root.iterdir():
-        if not cat.is_dir() or cat.name in ("en", "ja", "ko", "es", "fr"):
+        # 語言清單吃 langs.py SSOT，不寫死（2026-07-24：原本停在出生戰役前的五語，
+        # `--all` 會把 knowledge/{vi,id,pt,hi}/ 當成 zh-TW 分類目錄掃進來）。
+        if not cat.is_dir() or cat.name in TRANSLATION_LANGS:
             continue
         for md in cat.glob("*.md"):
             if not md.name.startswith("_"):

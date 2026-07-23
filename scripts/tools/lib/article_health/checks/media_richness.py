@@ -38,6 +38,7 @@ import os
 import re
 from typing import Any, Iterator
 
+from ..langs import TRANSLATION_LANGS
 from ..types import FileTarget, Severity, Violation
 
 
@@ -73,7 +74,8 @@ def _is_excluded_path(path_str: str) -> bool:
     p = path_str.replace("\\", "/")
     if not p.endswith(".md"):
         return True
-    for lang in ("en", "ja", "ko", "es", "fr"):
+    # 語言清單吃 langs.py SSOT，不寫死（2026-07-24：原本停在出生戰役前的五語）。
+    for lang in TRANSLATION_LANGS:
         if f"knowledge/{lang}/" in p:
             return True
     if os.path.basename(p).startswith("_"):

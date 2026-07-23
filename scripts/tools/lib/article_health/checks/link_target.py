@@ -36,6 +36,7 @@ from pathlib import Path
 from typing import Any, Iterator
 from urllib.parse import unquote
 
+from ..langs import ALL_LANGS, TRANSLATION_LANGS
 from ..types import FileTarget, Severity, Violation
 
 
@@ -49,8 +50,17 @@ DEFAULT_SEVERITY = Severity.HARD
 EDITORIAL_REF = "src/pages/{lang}/[category]/[slug].astro CATEGORY_MAPPING (lowercase routing) + knowledge/{lang}/{Category}/*.md (existence)"
 APPLIES_TO = ["*"]
 
-_LANGS = {"en", "ja", "ko", "fr", "es", "zh-TW"}
-_TRANSLATION_LANGS = {"en", "ja", "ko", "fr", "es"}
+# 語言清單吃 langs.py SSOT，不寫死。2026-07-24：原本兩個集合都停在出生戰役前的
+# 五語，後果有二 ——
+#   (1) `_existing_link_targets()` 走 else 分支把 knowledge/{vi,id,pt,hi}/ 當成
+#       zh-TW 分類目錄，那 263 篇的 `/{lang}/{cat}/{slug}` 一條都沒進索引，
+#       任何指過去的連結都會被判定「目標不存在」。
+#   (2) Phase 1 的大小寫 HARD gate 由 `_LANGS` 組正則，四個新語言完全不在守備
+#       範圍 —— `](/pt/Technology/foo)` 這種該擋的大寫分類擋不到。
+# 目前 corpus 還沒有任何一條連結指向這四語，所以是潛伏而非正在誤報；但這道 gate
+# 存在的意義就是第一條連結寫錯時要當場接住。
+_LANGS = set(ALL_LANGS)
+_TRANSLATION_LANGS = set(TRANSLATION_LANGS)
 _KNOWLEDGE_ROOT = Path("knowledge")
 
 # High-confidence fuzzy auto-heal threshold (unique top match only).
