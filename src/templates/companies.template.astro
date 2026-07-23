@@ -365,10 +365,24 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
         .attr('dominant-baseline', 'central')
         .attr('fill', '#fff')
         .attr('font-weight', '600')
-        .attr('pointer-events', 'none')
-        .each(function (d) {
-          const r = getRadius(d);
+        .attr('pointer-events', 'none');
+
+      function metricUnit() {
+        if (currentMode === 'employees') return lang === 'zh-TW' ? ' 人' : '';
+        return lang === 'zh-TW' ? ' 億' : 'B';
+      }
+
+      // Redraw each label from the CURRENT mode/sector. Labels used to be
+      // drawn once at init, so switching the size metric (市值/營收/員工數)
+      // or a sector left the old market-cap number frozen on a resized
+      // bubble, so the value stopped matching the bubble it sat on (#1223).
+      function renderLabels() {
+        labels.each(function (d) {
           const el = d3.select(this);
+          el.selectAll('tspan').remove();
+          el.text(null);
+          if (currentSector !== 'all' && d.sector !== currentSector) return;
+          const r = getRadius(d);
           const shortName = d.name.split(' ')[0];
           if (r > 40) {
             el.append('tspan')
@@ -381,13 +395,16 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
               .attr('dy', '1.2em')
               .attr('font-size', `${Math.min(10, r / 5)}px`)
               .attr('fill-opacity', 0.8)
-              .text(d.marketCap.toLocaleString());
+              .text(getValue(d).toLocaleString() + metricUnit());
           } else if (r > 20) {
             el.attr('font-size', `${Math.min(10, r / 3)}px`).text(shortName);
           } else {
             el.attr('font-size', '8px').text(shortName.slice(0, 2));
           }
         });
+      }
+
+      renderLabels();
 
       const tooltipData = {
         marketCap: lang === 'zh-TW' ? '市值' : 'Market Cap',
@@ -481,13 +498,9 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
             return 0.82;
           });
 
-        labels
-          .transition()
-          .duration(600)
-          .attr('fill-opacity', (d) => {
-            if (currentSector !== 'all' && d.sector !== currentSector) return 0;
-            return 1;
-          });
+        // Re-render labels so the number inside each bubble matches the
+        // active size metric and the current sector filter (#1223).
+        renderLabels();
 
         simulation
           .force(
