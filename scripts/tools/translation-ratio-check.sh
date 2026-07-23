@@ -11,9 +11,9 @@
 #   識別「摘要式翻譯」（AI 工具的預設行為）造成的內容截斷。
 #
 # 健全 ratio 範圍（2026-04-11 實測基準）：
-#   zh → en:  0.80-1.30  (<0.65 = TRUNCATED)
-#   zh → ja:  0.70-1.10  (<0.55 = TRUNCATED)
-#   zh → ko:  0.80-1.10  (<0.65 = TRUNCATED)
+#   zh → en:  2.20-3.50  (<1.50 = TRUNCATED)
+#   zh → ja:  1.10-1.50  (<0.80 = TRUNCATED)
+#   zh → ko:  1.20-1.65  (<0.85 = TRUNCATED)
 #   zh → es/fr/de: 2.0-4.0  (<1.5 = TRUNCATED)
 #
 # 來源：2026-04-11 session α 審核 27 個翻譯 PR 的實戰經驗
@@ -80,9 +80,9 @@ def detect_lang(path):
 
 # Healthy ratio ranges
 RANGES = {
-    'en':    (0.65, 0.80, 1.30),   # (truncated_below, healthy_min, healthy_max)
-    'ja':    (0.55, 0.70, 1.10),
-    'ko':    (0.65, 0.80, 1.10),
+    'en':    (1.50, 2.20, 3.50),   # (truncated_below, healthy_min, healthy_max)
+    'ja':    (0.80, 1.10, 1.50),
+    'ko':    (0.85, 1.20, 1.65),
     'es':    (1.50, 2.00, 4.00),
     'fr':    (1.50, 2.00, 4.00),
     'de':    (1.50, 2.00, 4.00),
@@ -162,6 +162,9 @@ for f in files:
     elif ratio < healthy_min:
         verdict = 'THIN'
         WARN += 1
+    elif ratio > healthy_max:
+        verdict = 'LONG'
+        WARN += 1
     elif zh_urls >= 3 and tr_urls == 0:
         verdict = 'NO_URLS'
         WARN += 1
@@ -189,7 +192,7 @@ for f, verdict, zh_rel, ratio, info in results:
     color = ''
     if verdict == 'OK':
         color = '\033[0;32m'  # green
-    elif verdict in ('THIN', 'URL_LOSS', 'NO_URLS') or 'MISSING_SECTIONS' in verdict:
+    elif verdict in ('THIN', 'LONG', 'URL_LOSS', 'NO_URLS') or 'MISSING_SECTIONS' in verdict:
         color = '\033[0;33m'  # yellow
     else:
         color = '\033[0;31m'  # red
