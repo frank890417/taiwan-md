@@ -71,7 +71,10 @@ def collect_from_frontmatter() -> tuple[dict, list, list]:
             fm = parse_frontmatter(content)
             tf = fm.get("translatedFrom")
 
-            rel_path = str(md_file.relative_to(KNOWLEDGE))
+            # as_posix()：key 必須永遠是正斜線。str() 在 Windows 會產出
+            # `ja\Music\foo.md`，讓整份 _translations.json 被改寫成反斜線 key，
+            # 下游 audit-quality.py / sourceCommitSha 拼路徑全部對不上。
+            rel_path = md_file.relative_to(KNOWLEDGE).as_posix()
 
             if not tf:
                 missing_tf.append(rel_path)
