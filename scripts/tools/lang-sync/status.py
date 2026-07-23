@@ -89,9 +89,15 @@ def _build_git_history_cache():
     global _GIT_HISTORY_CACHE
     if _GIT_HISTORY_CACHE is not None:
         return _GIT_HISTORY_CACHE
+    # core.quotepath=false + explicit utf-8 decode: knowledge paths are CJK, and
+    # git octal-escapes non-ASCII paths by default while text=True decodes with
+    # the locale codec (cp950 on Windows), either of which corrupts the cache key
+    # so every CJK-named article lookup misses.
     out = subprocess.run(
-        ["git", "log", "--name-only", "--format=__COMMIT__|%H|%aI", "HEAD"],
-        cwd=REPO, capture_output=True, text=True, check=False,
+        ["git", "-c", "core.quotepath=false", "log", "--name-only",
+         "--format=__COMMIT__|%H|%aI", "HEAD"],
+        cwd=REPO, capture_output=True, encoding="utf-8", errors="replace",
+        check=False,
     ).stdout
     history = {}  # rel_path → list of (sha8, sha40, iso_date)
     cur_sha = None
@@ -110,7 +116,10 @@ def _build_git_history_cache():
 
 def git_last_commit(file_path: Path) -> tuple[str, str]:
     """Returns (sha8, iso8601 date) of the last commit that touched file."""
-    rel = str(file_path.relative_to(REPO))
+    # as_posix(): git log --name-only always emits forward slashes, so the
+    # cache key must too. str() yields `knowledge\...` on Windows and never
+    # matches, leaving every article with an empty sha/date.
+    rel = file_path.relative_to(REPO).as_posix()
     cache = _build_git_history_cache()
     hist = cache.get(rel)
     if hist:
@@ -121,7 +130,7 @@ def git_last_commit(file_path: Path) -> tuple[str, str]:
 
 def git_commits_between(sha: str, file_path: Path) -> int:
     """Count commits touching file since sha (exclusive). Returns -1 if sha not found."""
-    rel = str(file_path.relative_to(REPO))
+    rel = file_path.relative_to(REPO).as_posix()
     cache = _build_git_history_cache()
     hist = cache.get(rel)
     if not hist:
@@ -138,7 +147,7 @@ def git_commits_between(sha: str, file_path: Path) -> int:
 
 def git_diff_summary(sha: str, file_path: Path) -> str:
     """Returns +N -M summary since sha."""
-    rel = str(file_path.relative_to(REPO))
+    rel = file_path.relative_to(REPO).as_posix()
     out = git("diff", "--shortstat", f"{sha}..HEAD", "--", rel)
     # e.g. " 1 file changed, 12 insertions(+), 3 deletions(-)"
     ins = re.search(r"(\d+) insertion", out)
@@ -228,7 +237,9 @@ def scan_zh() -> dict:
         # Skip _Home.md / _* files
         if md.name.startswith("_"):
             continue
-        rel = str(md.relative_to(KNOWLEDGE))
+        # as_posix(): keys must match the forward-slash translatedFrom paths
+        # from frontmatter (and stay stable across OSes in the derived cache).
+        rel = md.relative_to(KNOWLEDGE).as_posix()
         content = md.read_text(encoding="utf-8")
         sha, date = git_last_commit(md)
         result[rel] = {
@@ -264,7 +275,7 @@ def scan_translations(lang: str) -> dict:
         sha, date = git_last_commit(md)
         result[tf] = {
             "lang": lang,
-            "path": str(md.relative_to(KNOWLEDGE)),
+            "path": md.relative_to(KNOWLEDGE).as_posix(),
             "translatedFrom": tf,
             "sourceCommitSha": fm.get("sourceCommitSha", ""),
             "sourceContentHash": fm.get("sourceContentHash", ""),

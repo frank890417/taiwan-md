@@ -32,9 +32,15 @@ def _build_git_history_cache():
     global _GIT_HISTORY_CACHE
     if _GIT_HISTORY_CACHE is not None:
         return _GIT_HISTORY_CACHE
+    # core.quotepath=false + explicit utf-8 decode: knowledge paths are CJK, and
+    # git octal-escapes non-ASCII paths by default while text=True decodes with
+    # the locale codec (cp950 on Windows), so every CJK-named article misses the
+    # cache and silently falls back to the current HEAD sha (mirror of status.py).
     out = subprocess.run(
-        ["git", "log", "--name-only", "--format=__COMMIT__|%H|%aI", "HEAD"],
-        cwd=REPO, capture_output=True, text=True, check=False,
+        ["git", "-c", "core.quotepath=false", "log", "--name-only",
+         "--format=__COMMIT__|%H|%aI", "HEAD"],
+        cwd=REPO, capture_output=True, encoding="utf-8", errors="replace",
+        check=False,
     ).stdout
     history = {}
     cur_sha = cur_date = None
