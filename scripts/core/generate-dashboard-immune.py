@@ -348,9 +348,10 @@ def compute_drift_velocity(articles: list[dict]) -> tuple[float, dict]:
     # Use git log to find articles added/modified in last 7d
     try:
         result = subprocess.run(
-            ["git", "log", "--since=7 days ago", "--name-only",
-             "--pretty=format:", "--diff-filter=A"],
-            capture_output=True, text=True, cwd=REPO_ROOT, timeout=30,
+            ["git", "-c", "core.quotepath=false", "log", "--since=7 days ago",
+             "--name-only", "--pretty=format:", "--diff-filter=A"],
+            capture_output=True, encoding="utf-8", errors="replace",
+            cwd=REPO_ROOT, timeout=30,
         )
         added_files = set(
             line for line in result.stdout.splitlines()
@@ -416,10 +417,10 @@ def compute_external_rulers(articles: list[dict]) -> tuple[float, dict]:
     # 點修，批次 heal/feature 掃過幾十篇不構成「這篇被外部尺量過」。
     try:
         out = subprocess.run(
-            ["git", "log", "--since=90 days ago", "--name-only",
-             "--grep=勘誤", "--grep=errata", "--grep=fact-fix",
+            ["git", "-c", "core.quotepath=false", "log", "--since=90 days ago",
+             "--name-only", "--grep=勘誤", "--grep=errata", "--grep=fact-fix",
              "--pretty=format:@@COMMIT@@"],
-            capture_output=True, text=True, timeout=60,
+            capture_output=True, encoding="utf-8", errors="replace", timeout=60,
         ).stdout
         for block in out.split("@@COMMIT@@"):
             zh_files = [

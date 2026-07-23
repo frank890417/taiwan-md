@@ -69,11 +69,17 @@ def git_date(path):
     if _git_dates is None:
         _git_dates = {}
         try:
+            # core.quotepath=false + utf-8: knowledge paths are CJK, and git
+            # octal-escapes non-ASCII paths by default while text=True decodes
+            # with the locale codec (cp950 on Windows), so CJK articles never
+            # match the cache and art_date() silently falls back to filesystem
+            # mtime, which is unreliable in worktree/CI checkouts.
             out = subprocess.run(
-                ["git", "-C", ROOT, "log", "--since=6.months", "--format=\x01%aI", "--name-only",
+                ["git", "-C", ROOT, "-c", "core.quotepath=false", "log",
+                 "--since=6.months", "--format=\x01%aI", "--name-only",
                  "--", "reports/article-projection", "reports/editorial-room",
                  "reports/article-evolve", "reports/research", "knowledge"],
-                capture_output=True, text=True, timeout=60,
+                capture_output=True, encoding="utf-8", errors="replace", timeout=60,
             ).stdout
             cur = None
             for line in out.split("\n"):
@@ -118,7 +124,9 @@ def mtime_iso(path):
 
 
 def rel(path):
-    return os.path.relpath(path, ROOT)
+    # Forward slashes: git log --name-only always emits them, so a backslash
+    # key from os.path.relpath on Windows would never match the git_date cache.
+    return os.path.relpath(path, ROOT).replace(os.sep, "/")
 
 
 warnings = []
