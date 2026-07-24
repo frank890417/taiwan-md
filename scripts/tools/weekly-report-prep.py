@@ -30,10 +30,19 @@ TZ_TPE = timezone(timedelta(hours=8))
 
 
 def sh(cmd: list[str], cwd: Path | None = None) -> str:
-    """Run shell command, return stdout. Errors return empty string (caller decides)."""
+    """Run shell command, return stdout. Errors return empty string (caller decides).
+
+    core.quotepath=false + explicit utf-8 decode: knowledge paths are CJK, and
+    git octal-escapes non-ASCII paths by default while text=True decodes with
+    the locale codec (cp950 on Windows), either of which corrupts path output
+    so every CJK-named article gets dropped downstream.
+    """
+    if cmd and cmd[0] == "git":
+        cmd = [cmd[0], "-c", "core.quotepath=false", *cmd[1:]]
     try:
         r = subprocess.run(
-            cmd, cwd=cwd or REPO_ROOT, capture_output=True, text=True, timeout=60
+            cmd, cwd=cwd or REPO_ROOT, capture_output=True,
+            encoding="utf-8", errors="replace", timeout=60,
         )
         return r.stdout
     except Exception:
