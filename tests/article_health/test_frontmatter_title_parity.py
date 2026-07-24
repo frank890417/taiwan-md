@@ -85,11 +85,16 @@ def _check_via_js(title: str, category: str, tmp_path: Path) -> tuple[int, int]:
     cat_dir = knowledge / category
     cat_dir.mkdir(exist_ok=True)
     test_md = cat_dir / "js-fixture.md"
+    # Precompute the escaped title outside the f-string: a backslash inside an
+    # f-string expression is a SyntaxError before Python 3.12 (PEP 701), which
+    # broke `pytest` collection of this whole module on 3.11. Behaviour is
+    # identical — this is purely moving the `.replace()` out of the `{...}`.
+    escaped_title = title.replace("'", "\\'")
     test_md.write_text(
         textwrap.dedent(
             f"""\
             ---
-            title: '{title.replace("'", "\\'")}'
+            title: '{escaped_title}'
             description: 'fixture description with anchor 2026 and number 100'
             date: 2026-05-04
             tags: ['test']
