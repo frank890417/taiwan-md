@@ -36,9 +36,14 @@ ACTIVE_LANGS = ["en", "ja", "ko"]  # from src/config/languages.ts active list
 
 def get_changed_zh_articles(since="1 day ago"):
     """Return list of zh article paths changed since given ref."""
+    # core.quotepath=false + explicit utf-8 decode: knowledge paths are CJK, and
+    # git octal-escapes non-ASCII paths by default while text=True decodes with
+    # the locale codec (cp950 on Windows), either of which corrupts the path
+    # so every CJK-named article lookup misses.
     result = subprocess.run(
-        ["git", "log", f"--since={since}", "--name-only", "--pretty=format:", "--", "knowledge/"],
-        cwd=REPO, capture_output=True, text=True
+        ["git", "-c", "core.quotepath=false", "log", f"--since={since}", "--name-only",
+         "--pretty=format:", "--", "knowledge/"],
+        cwd=REPO, capture_output=True, encoding="utf-8", errors="replace"
     )
     paths = set()
     for line in result.stdout.splitlines():
@@ -57,7 +62,7 @@ def get_changed_zh_articles(since="1 day ago"):
 
 def get_translations_for_zh(zh_path, langs):
     """Return {lang: {status, en_path}} for given zh article."""
-    data = json.load(open(KNOWLEDGE / "_translation-status.json"))
+    data = json.load(open(KNOWLEDGE / "_translation-status.json", encoding="utf-8"))
     arts = data["byArticle"]
     info = arts.get(zh_path)
     if not info:
@@ -128,7 +133,7 @@ def main():
         # Write a list file the prepare-batch.py --input can consume
         out = Path(args.output_manifest)
         out.parent.mkdir(parents=True, exist_ok=True)
-        with open(out, "w") as f:
+        with open(out, "w", encoding="utf-8") as f:
             for item in needs_refresh[args.lang]:
                 f.write(item["zh_path"] + "\n")
         print(f"\n✅ Wrote {len(needs_refresh[args.lang])} paths to {out}")
