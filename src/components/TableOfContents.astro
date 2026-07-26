@@ -4,6 +4,8 @@
  * Parses h2/h3 headings from HTML content string, builds nested list.
  * Highlights active section on scroll via IntersectionObserver.
  */
+import { useTranslations, getLangFromUrl } from '../i18n/utils';
+
 interface Heading {
   id: string;
   text: string;
@@ -15,6 +17,14 @@ interface Props {
 }
 
 const { content } = Astro.props;
+
+// 2026-07-26: the heading and the nav's accessible name were hardcoded zh-TW,
+// so all 11 non-zh languages rendered 目錄 / aria-label="文章目錄" (6,026 pages
+// in dist). `article.toc` already existed in ui.ts, translated for all 12
+// languages -- the component simply never used it. Lang comes from the URL, the
+// same way Footer.astro and Header.astro do it, so no call site has to change.
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 
 // Extract h2 / h3 headings from HTML
 function extractHeadings(html: string): Heading[] {
@@ -61,11 +71,11 @@ const headings = extractHeadings(content);
   headings.length > 1 && (
     <nav
       class="sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto py-6 [scrollbar-color:rgba(26,60,52,0.15)_transparent] [scrollbar-width:thin]"
-      aria-label="文章目錄"
+      aria-label={t('article.toc')}
       id="toc"
     >
       <p class="mb-5 px-1 font-['Inter',system-ui,sans-serif] text-[0.68rem] font-bold uppercase tracking-[0.2em] text-[#9aa89e]">
-        目錄
+        {t('article.toc')}
       </p>
       <ol class="m-0 flex list-none flex-col gap-[0.1rem] p-0">
         {/* 2026-07-25 (OBSERVER-QUEUE #12 (a) 到期預設「hairline 極簡版」，

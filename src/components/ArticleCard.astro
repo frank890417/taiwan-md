@@ -39,6 +39,8 @@
  *   route 站點繼承本元件 base + 附加 stop-number 視覺
  */
 
+import { useTranslations, getLangFromUrl } from '../i18n/utils';
+
 export interface Props {
   /** Article URL — wraps card in <a> when present. */
   href?: string;
@@ -99,6 +101,16 @@ const {
   extraClass = '',
   dataAttrs = {},
 } = Astro.props;
+
+// 2026-07-26: the citation-count tooltip was a hardcoded zh-TW「引用」, so every
+// non-zh page showed Chinese on hover. `category.citations` already existed for
+// all 12 languages and carries the count, so the tooltip also stops being a
+// bare noun ("12 citations" instead of "citations").
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const citationsLabel = footnotes
+  ? t('category.citations').replace('{n}', String(footnotes))
+  : undefined;
 
 const target = openIn === 'new-tab' ? '_blank' : '_self';
 const rel = openIn === 'new-tab' ? 'noopener noreferrer' : undefined;
@@ -251,7 +263,7 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
             {(!!footnotes || !!readingTime) && (
               <span class="article-card-stats">
                 {!!footnotes && (
-                  <span class="article-card-stat" title="引用">
+                  <span class="article-card-stat" title={citationsLabel}>
                     <svg
                       width="13"
                       height="13"
@@ -297,7 +309,7 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
     density === 'row' && (footnotes || readingTime || date) && (
       <span class="article-card-rowmeta">
         {!!footnotes && (
-          <span class="article-card-stat" title="引用">
+          <span class="article-card-stat" title={citationsLabel}>
             <svg
               width="13"
               height="13"

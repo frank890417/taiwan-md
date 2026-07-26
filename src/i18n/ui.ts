@@ -2483,7 +2483,12 @@ export const ui = {
     'categoryConfig.politics.description':
       '30-річний експеримент островної демократії — як формуються інституції, як структурована влада, чому демократична інфраструктура — це не лише голосування',
     // Article page
-    'article.toc': 'Зміст',
+    // 2026-07-26: was 'Зміст', which is Ukrainian, not Russian. Fixed here
+    // because this change is what makes the string visible on 316 ru pages
+    // (they previously rendered a hardcoded 目錄), and trading one wrong
+    // language for another is not a fix. Wider issue reported in the PR body:
+    // 55 of the 193 ru keys carry the Ukrainian-only letters і/ї/є/ґ.
+    'article.toc': 'Содержание',
     'article.sources': 'Джерела',
     'article.imageCredit': 'Фото',
     'article.imageSource': 'Першоджерело',
