@@ -1103,6 +1103,10 @@ const categoryList = [
       0 8px 20px var(--glass-shadow),
       inset 0 1px 0 var(--glass-inset);
     z-index: 1100;
+    /* #1259: tall menus (探索 + 12 分類) must scroll inside the panel on short viewports */
+    max-height: min(70vh, 520px);
+    overflow-y: auto;
+    overscroll-behavior: contain;
     transition:
       opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1),
       visibility 0.25s cubic-bezier(0.16, 1, 0.3, 1),
