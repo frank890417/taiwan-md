@@ -63,12 +63,24 @@
 }
 :root[data-theme='dark'] .prose blockquote:not(.tw-quote-text) {
   color: var(--color-ink-soft);
-  border-left-color: var(--color-accent);
+  /* Logical, to stay paired with the base rule's `border-inline-start` in
+   * article.template.astro — a physical override here would have quietly
+   * stopped colouring the rail in *both* themes. */
+  border-inline-start-color: var(--color-accent);
   /* The light-mode rule paints `rgba(26,60,52,0.04)` over cream — readable.
    * On #050505 a 4% wash literally vanishes. Lift to ~6-8% ink with a
    * subtle horizontal fade so the quote reads as a distinct surface. */
   background: linear-gradient(
     to right,
+    color-mix(in srgb, var(--color-ink) 8%, transparent),
+    color-mix(in srgb, var(--color-ink) 2%, transparent)
+  );
+}
+/* Same reason as the light-mode rule: gradients take no logical direction.
+ * `dir` and `data-theme` both live on <html>, hence the compound selector. */
+:root[data-theme='dark'][dir='rtl'] .prose blockquote:not(.tw-quote-text) {
+  background: linear-gradient(
+    to left,
     color-mix(in srgb, var(--color-ink) 8%, transparent),
     color-mix(in srgb, var(--color-ink) 2%, transparent)
   );
@@ -290,8 +302,11 @@
 :root[data-theme='dark'] main.article-page [class*='text-[#006d77]'] {
   color: var(--color-accent);
 }
-:root[data-theme='dark'] main.article-page [class*='border-l-[#006d77]'] {
-  border-left-color: var(--color-accent);
+/* Matches the class *string*, so it had to follow TableOfContents.astro's
+ * `border-l-[#006d77]` → `border-s-[#006d77]` rename or it would silently
+ * stop matching anything. */
+:root[data-theme='dark'] main.article-page [class*='border-s-[#006d77]'] {
+  border-inline-start-color: var(--color-accent);
 }
 :root[data-theme='dark'] main.article-page [class*='bg-[rgba(0,109,119'] {
   background-color: color-mix(in srgb, var(--color-accent) 15%, transparent);
@@ -337,13 +352,14 @@
  *
  * v2 (2026-07-06): the first pass (accent 14% bg + 2px border) was still
  * too low-contrast to spot the current section at a glance. Strengthen:
- *   - border-left → 3px, full accent (a clear left rail marks position)
+ *   - inline-start border → 3px, full accent (a clear rail marks position)
  *   - background → accent 22% (a distinct-but-calm block, not a wash)
  *   - text → accent + weight 600 so the label itself reads as "current"
  * Light theme is untouched (this whole file is gated on data-theme=dark). */
 :root[data-theme='dark'] .toc-link.active {
-  border-left-width: 3px !important;
-  border-left-color: var(--color-accent) !important;
+  /* Logical, paired with TableOfContents.astro's `border-s-2`. */
+  border-inline-start-width: 3px !important;
+  border-inline-start-color: var(--color-accent) !important;
   background-color: color-mix(
     in srgb,
     var(--color-accent) 22%,
@@ -644,15 +660,20 @@
   background: color-mix(in srgb, var(--color-accent) 22%, transparent);
   border-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
 }
+/* Logical, paired with home.template.astro's `border-inline-start`. */
 :root[data-theme='dark'] .home-page .pick-card {
   background: color-mix(in srgb, var(--color-ink) 6%, transparent);
   border-color: var(--color-border);
-  border-left-color: color-mix(in srgb, var(--color-accent) 55%, transparent);
+  border-inline-start-color: color-mix(
+    in srgb,
+    var(--color-accent) 55%,
+    transparent
+  );
 }
 :root[data-theme='dark'] .home-page .pick-card:hover {
   background: color-mix(in srgb, var(--color-accent) 10%, transparent);
   border-color: color-mix(in srgb, var(--color-accent) 30%, transparent);
-  border-left-color: var(--color-accent);
+  border-inline-start-color: var(--color-accent);
 }
 :root[data-theme='dark'] .home-page .pick-title {
   color: var(--color-ink);

@@ -30,8 +30,10 @@ const FALLBACK_CHAIN: Record<string, readonly Lang[]> = {
   id: ['id', 'en', 'zh-TW'] as Lang[],
   pt: ['pt', 'es', 'en', 'zh-TW'] as Lang[],
   hi: ['hi', 'en', 'zh-TW'] as Lang[],
-  // 2026-07-25 route scaffold (ar/ru enabled: false，本次僅接路由 + RTL；
-  // UI 字串 bundle 尚未落地）：缺 key 時同樣英文比中文可讀。
+  // 2026-07-25 出生日建的 route scaffold。當時註記「enabled: false / UI 字串
+  // bundle 尚未落地」兩件事都已經過期：languages.mjs 兩語都 enabled: true，
+  // ui.ts 的 ar / ru bundle 也各補到 193 key（與 en 同數）。fallback chain 留著
+  // 是為了將來新增 key 的空窗期：缺 key 時同樣英文比中文可讀。
   ar: ['ar', 'en', 'zh-TW'] as Lang[],
   ru: ['ru', 'en', 'zh-TW'] as Lang[],
   'zh-TW': ['zh-TW'] as Lang[],

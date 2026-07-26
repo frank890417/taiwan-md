@@ -411,7 +411,7 @@ const otherCategories = categories
             >{categoryInfo.description}</span
           >
           <span
-            class="ml-auto rounded-[12px] bg-[var(--color-bg-soft)] px-2 py-[0.15rem] text-[0.78rem] text-[var(--color-ink-soft)]"
+            class="ms-auto rounded-[12px] bg-[var(--color-bg-soft)] px-2 py-[0.15rem] text-[0.78rem] text-[var(--color-ink-soft)]"
             >{
               t('category.articleCount').replace('{n}', String(articles.length))
             }</span
@@ -472,7 +472,7 @@ const otherCategories = categories
                     <a
                       href={`#sub-${group.key}`}
                       data-sub-link={group.key}
-                      class="subcat-nav-link flex items-center justify-between rounded border-l-2 border-transparent px-2 py-[0.35rem] text-[0.82rem] text-[var(--color-ink-soft)] no-underline transition-all duration-150 hover:bg-[rgba(45,80,22,0.06)] hover:text-[var(--categoryColor,#2d5016)] max-[768px]:rounded-2xl max-[768px]:border max-[768px]:border-[var(--color-border)] max-[768px]:bg-[var(--color-bg-soft)] max-[768px]:px-[0.6rem] max-[768px]:py-1 max-[768px]:text-[0.78rem]"
+                      class="subcat-nav-link flex items-center justify-between rounded border-s-2 border-transparent px-2 py-[0.35rem] text-[0.82rem] text-[var(--color-ink-soft)] no-underline transition-all duration-150 hover:bg-[rgba(45,80,22,0.06)] hover:text-[var(--categoryColor,#2d5016)] max-[768px]:rounded-2xl max-[768px]:border max-[768px]:border-[var(--color-border)] max-[768px]:bg-[var(--color-bg-soft)] max-[768px]:px-[0.6rem] max-[768px]:py-1 max-[768px]:text-[0.78rem]"
                     >
                       {groupLabel(group.key)}
                       <span class="min-w-[1.2rem] rounded-lg bg-[var(--color-bg-soft)] px-[0.35rem] py-[0.1rem] text-center text-[0.7rem] text-[var(--color-ink-soft)]">
@@ -972,7 +972,8 @@ const otherCategories = categories
      可保證命中（且 categoryColor 已透過 define:vars 暴露）。 */
   .subcat-nav-link.active {
     background-color: rgba(45, 80, 22, 0.08);
-    border-left-color: var(--categoryColor, #2d5016);
+    /* Logical, paired with the `border-s-2` utility on the link itself. */
+    border-inline-start-color: var(--categoryColor, #2d5016);
     color: var(--categoryColor, #2d5016);
     font-weight: 600;
   }
@@ -1041,7 +1042,7 @@ const otherCategories = categories
      layout. */
   .crumb-list li:not(:last-child)::after {
     content: '›';
-    margin-left: 0.5rem;
+    margin-inline-start: 0.5rem;
     color: var(--color-ink-soft);
     font-weight: 400;
   }
@@ -1049,7 +1050,7 @@ const otherCategories = categories
   /* Essay reading-time hint appended after the header hook's "read guide"
      link (2026-07-10). */
   .hook-minutes {
-    margin-left: 0.6rem;
+    margin-inline-start: 0.6rem;
     font-size: 0.78rem;
     color: var(--color-ink-soft);
   }
@@ -1072,24 +1073,43 @@ const otherCategories = categories
   .hub-prose :global(h1:first-child) {
     display: none;
   }
+  /* linear-gradient() takes no logical direction keyword, and this prose block
+     has five callout variants that all fade away from the rail. One flippable
+     custom property beats five [dir='rtl'] overrides. */
+  .hub-prose {
+    --hub-fade-to: right;
+  }
+  :global([dir='rtl']) .hub-prose {
+    --hub-fade-to: left;
+  }
   .hub-prose :global(blockquote:first-child) {
     font-size: 1.15rem;
     font-style: normal;
     font-weight: 600;
-    border-left: 4px solid #4a7c28;
+    border-inline-start: 4px solid #4a7c28;
     padding: 1rem 1.5rem;
     margin: 0 0 2rem 0;
     background: #f0f7ee;
-    border-radius: 0 8px 8px 0;
+    border-start-start-radius: 0;
+    border-start-end-radius: 8px;
+    border-end-end-radius: 8px;
+    border-end-start-radius: 0;
     color: #2d5016;
     line-height: 1.9;
   }
   .hub-prose :global(blockquote) {
-    border-left: 4px solid #4a7c28;
-    background: linear-gradient(to right, rgba(26, 60, 52, 0.04), transparent);
+    border-inline-start: 4px solid #4a7c28;
+    background: linear-gradient(
+      to var(--hub-fade-to),
+      rgba(26, 60, 52, 0.04),
+      transparent
+    );
     margin: 2.5rem 0;
     padding: 1.5rem 1.75rem;
-    border-radius: 0 12px 12px 0;
+    border-start-start-radius: 0;
+    border-start-end-radius: 12px;
+    border-end-end-radius: 12px;
+    border-end-start-radius: 0;
     font-style: italic;
     color: #3a4f44;
     font-size: 1.05rem;
@@ -1100,36 +1120,36 @@ const otherCategories = categories
 
   /* Callout blockquotes */
   .hub-prose :global(blockquote.callout-note) {
-    border-left-color: #3b82f6;
+    border-inline-start-color: #3b82f6;
     background: linear-gradient(
-      to right,
+      to var(--hub-fade-to),
       rgba(59, 130, 246, 0.06),
       transparent
     );
     font-style: normal;
   }
   .hub-prose :global(blockquote.callout-warning) {
-    border-left-color: #f59e0b;
+    border-inline-start-color: #f59e0b;
     background: linear-gradient(
-      to right,
+      to var(--hub-fade-to),
       rgba(245, 158, 11, 0.06),
       transparent
     );
     font-style: normal;
   }
   .hub-prose :global(blockquote.callout-tip) {
-    border-left-color: #10b981;
+    border-inline-start-color: #10b981;
     background: linear-gradient(
-      to right,
+      to var(--hub-fade-to),
       rgba(16, 185, 129, 0.06),
       transparent
     );
     font-style: normal;
   }
   .hub-prose :global(blockquote.callout-data) {
-    border-left-color: #8b5cf6;
+    border-inline-start-color: #8b5cf6;
     background: linear-gradient(
-      to right,
+      to var(--hub-fade-to),
       rgba(139, 92, 246, 0.06),
       transparent
     );
@@ -1138,7 +1158,7 @@ const otherCategories = categories
 
   /* Pull quote */
   .hub-prose :global(blockquote.pull-quote) {
-    border-left: none;
+    border-inline-start: none;
     background: none;
     text-align: center;
     font-size: 1.35rem;
@@ -1197,12 +1217,12 @@ const otherCategories = categories
   }
   .hub-prose :global(ul) {
     list-style: disc;
-    padding-left: 1.5rem;
+    padding-inline-start: 1.5rem;
     margin-bottom: 1.1rem;
   }
   .hub-prose :global(ol) {
     list-style: decimal;
-    padding-left: 1.5rem;
+    padding-inline-start: 1.5rem;
     margin-bottom: 1.1rem;
   }
   .hub-prose :global(li) {
@@ -1298,7 +1318,7 @@ const otherCategories = categories
     background: rgba(26, 60, 52, 0.05);
     color: #1a3c34;
     font-weight: 600;
-    text-align: left;
+    text-align: start;
     padding: 0.75rem 1rem;
     border-bottom: 2px solid rgba(26, 60, 52, 0.12);
   }
@@ -1441,7 +1461,9 @@ const otherCategories = categories
   #filterClear {
     position: absolute;
     top: 50%;
-    right: 0.35rem;
+    /* inset-inline-end: the clear button belongs at the trailing edge of the
+       input, which is the left edge in RTL (ar). */
+    inset-inline-end: 0.35rem;
     transform: translateY(-50%);
     border: none;
     background: none;

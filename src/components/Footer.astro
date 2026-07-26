@@ -241,7 +241,7 @@ const label = {
 // Shared class chains (kept as consts so the four nav columns stay identical
 // and the file reads as a site map, not four copies of the same Tailwind wall).
 const COL_CLASS =
-  "flex flex-col gap-[0.4rem] [&>a]:relative [&>a]:py-1 [&>a]:text-[0.85rem] [&>a]:text-[#94a3b8] [&>a]:no-underline [&>a]:transition-all [&>a]:duration-200 [&>a]:ease [&>a:hover]:text-[#e2e8f0] [&>a:hover]:after:absolute [&>a:hover]:after:bottom-0 [&>a:hover]:after:left-0 [&>a:hover]:after:right-0 [&>a:hover]:after:h-px [&>a:hover]:after:bg-[#a7c7a7] [&>a:hover]:after:opacity-70 [&>a:hover]:after:content-['']";
+  "flex flex-col gap-[0.4rem] [&>a]:relative [&>a]:py-1 [&>a]:text-[0.85rem] [&>a]:text-[#94a3b8] [&>a]:no-underline [&>a]:transition-all [&>a]:duration-200 [&>a]:ease [&>a:hover]:text-[#e2e8f0] [&>a:hover]:after:absolute [&>a:hover]:after:bottom-0 [&>a:hover]:after:inset-x-0 [&>a:hover]:after:h-px [&>a:hover]:after:bg-[#a7c7a7] [&>a:hover]:after:opacity-70 [&>a:hover]:after:content-['']";
 const HEAD_CLASS = 'mb-1 text-[0.85rem] uppercase tracking-[0.05em] text-white';
 ---
 
@@ -285,7 +285,7 @@ const HEAD_CLASS = 'mb-1 text-[0.85rem] uppercase tracking-[0.05em] text-white';
               height="16"
               viewBox="0 0 496 512"
               fill="currentColor"
-              class="mr-1.5"
+              class="me-1.5"
             >
               <path
                 d="M245.83 214.87l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0l-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31.04 15.5c-6.17 11.51-25.69 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.6-77.06 30.71-.01 52.58 11.95 65.55 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"

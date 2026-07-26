@@ -385,7 +385,7 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
       background 0.16s;
     text-decoration: none;
     color: inherit;
-    text-align: left;
+    text-align: start;
     font-family: inherit;
     width: 100%;
     box-sizing: border-box;
@@ -813,12 +813,12 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
   }
 
   /* === category-hub.template.astro 客製化延伸：hub-row-featured ===
-   * Subtle left accent for featured articles in the hub list rows —
-   * 2px categoryColor border, with matching padding-left reduction
+   * Subtle leading-edge accent for featured articles in the hub list rows —
+   * 2px categoryColor border, with matching inline-start padding reduction
    * (row density's base padding is 12px) so the text column doesn't
-   * visually shift right relative to non-featured rows. */
+   * visually shift relative to non-featured rows. */
   .article-card.hub-row-featured {
-    border-left: 2px solid var(--categoryColor, #2d5016);
-    padding-left: 10px;
+    border-inline-start: 2px solid var(--categoryColor, #2d5016);
+    padding-inline-start: 10px;
   }
 </style>

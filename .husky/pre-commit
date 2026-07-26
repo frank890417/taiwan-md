@@ -169,6 +169,21 @@ if [ -n "$staged_lang_files" ]; then
   fi
 fi
 
+# ═══ RTL-safe CSS detector（2026-07-26 ar RTL 排版工程新增）═══
+# ar 是站上第一個 RTL 語言（2026-07-25 出生）。`dir="rtl"` 只翻文字流向與
+# grid/flex 主軸，physical 方向屬性（margin-left / border-left /
+# text-align: left / left: / Tailwind pl- ml- border-l text-left）不會鏡像。
+# 症狀只在 /ar/ 現形（色軌跑到行尾、清單兩邊都縮排、進度條反向長），
+# LTR 頁面看起來完全正常 → 肉眼 review 抓不到，必須靠這道 gate。
+# 受守護清單是該 script 的 SURFACE array，清乾淨一個檔就加進去。
+# 找到 = exit 1，需明確處理才能 commit
+if ! bash scripts/tools/check-rtl-safe-css.sh --staged; then
+  echo ""
+  echo "💡 對應 reports/language-birth-2026-07-25.md §RTL findings"
+  echo "  跳過此檢查（緊急修復）：git commit --no-verify"
+  exit 1
+fi
+
 # ═══ Narrative scope pollution detector（2026-04-11 session α）═══
 # 同一個 commit 理論上只該動一個 narrative domain。多 domain 通常表示
 # 並行 agent 互相污染。警告模式（不擋），要求 commit message 聲明。

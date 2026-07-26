@@ -95,8 +95,10 @@ export const LANGUAGES = [
     displayName: 'العربية',
     hreflang: 'ar',
     enabled: true,
-    // dir: 'rtl' — mirrors LanguageEntry.dir in languages.ts. First RTL language;
-    // not yet wired into Layout.astro's <html lang> block (Stage 4 scope).
+    // dir: 'rtl' — mirrors LanguageEntry.dir in languages.ts. First RTL language.
+    // Wired into Layout.astro's <html lang dir> block since 2026-07-26; the CSS
+    // side (physical → logical properties across the localized reader surface)
+    // landed with scripts/tools/check-rtl-safe-css.sh guarding the regression.
     dir: 'rtl',
     notes:
       '2026-07-25 creator-directed birth (哲宇 directive, folded into 100% sync goal). Sovereignty rationale: 400M+ speakers whose Taiwan coverage flows mostly through PRC-funded Arabic outlets. Report: reports/language-birth-2026-07-25.md',

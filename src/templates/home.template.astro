@@ -949,7 +949,7 @@ const readingPathFooterItems = [
     flex-direction: column;
     gap: 0.4rem;
     margin: -0.25rem 0 2.5rem 0;
-    padding-left: 0.25rem;
+    padding-inline-start: 0.25rem;
   }
   :global(.pick-card) {
     display: flex;
@@ -958,17 +958,26 @@ const readingPathFooterItems = [
     padding: 0.55rem 0.85rem;
     background: #fafdf7;
     border: 1px solid rgba(45, 80, 22, 0.12);
-    border-left: 3px solid rgba(45, 80, 22, 0.35);
-    border-radius: 0 6px 6px 0;
+    border-inline-start: 3px solid rgba(45, 80, 22, 0.35);
+    /* Flat side stays glued to the rail in both directions. */
+    border-start-start-radius: 0;
+    border-start-end-radius: 6px;
+    border-end-end-radius: 6px;
+    border-end-start-radius: 0;
     text-decoration: none;
     transition: all 0.25s ease;
   }
   :global(.pick-card:hover) {
     background: rgba(45, 80, 22, 0.06);
     border-color: rgba(45, 80, 22, 0.25);
-    border-left-color: rgba(45, 80, 22, 0.6);
+    border-inline-start-color: rgba(45, 80, 22, 0.6);
     transform: translateX(2px);
     box-shadow: 0 1px 4px rgba(45, 80, 22, 0.08);
+  }
+  /* translateX() has no logical form — in RTL the hover nudge must lean away
+     from the rail, not into it. */
+  :global([dir='rtl'] .pick-card:hover) {
+    transform: translateX(-2px);
   }
   :global(.pick-head) {
     display: flex;

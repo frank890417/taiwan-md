@@ -220,7 +220,7 @@ const categoryList = [
 ];
 ---
 
-<div id="header-container" class="fixed left-0 right-0 top-0 z-[1001] w-full">
+<div id="header-container" class="fixed inset-x-0 top-0 z-[1001] w-full">
   <div class="flex flex-col items-stretch">
     <Banner />
     <header
@@ -1009,7 +1009,9 @@ const categoryList = [
   .nav-desktop {
     display: flex;
     gap: 0.15rem;
-    margin-left: auto;
+    /* auto margin on the inline-start side, so the nav still gets pushed away
+       from the brand instead of onto it when dir=rtl (ar). */
+    margin-inline-start: auto;
     align-items: center;
   }
 
@@ -1081,7 +1083,7 @@ const categoryList = [
     transition:
       color 0.25s,
       transform 0.25s;
-    margin-left: 1px;
+    margin-inline-start: 1px;
   }
   /* Dropdown — transparent state: dark glass */
   .dropdown-menu {
@@ -1408,7 +1410,7 @@ const categoryList = [
   .mobile-sub-toggle {
     background: none;
     border: none;
-    border-left: 1px solid rgba(255, 255, 255, 0.08);
+    border-inline-start: 1px solid rgba(255, 255, 255, 0.08);
     color: rgba(255, 255, 255, 0.55);
     font-size: 0.95rem;
     width: 48px;
@@ -1432,7 +1434,7 @@ const categoryList = [
   }
   .scrolled .mobile-sub-toggle {
     color: rgba(0, 0, 0, 0.4);
-    border-left-color: rgba(0, 0, 0, 0.06);
+    border-inline-start-color: rgba(0, 0, 0, 0.06);
   }
   .scrolled .mobile-sub-toggle:hover,
   .scrolled .mobile-sub-toggle.open {
@@ -1452,21 +1454,22 @@ const categoryList = [
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    padding-left: 0.9rem;
+    padding-inline-start: 0.9rem;
   }
-  /* 子連結：44px 觸控 + 左側導引線標示層級 */
+  /* 子連結：44px 觸控 + 行首導引線標示層級 */
   .mobile-sub-links .nav-sub-link {
     font-size: 0.88em;
     opacity: 0.78;
     min-height: 44px;
     display: flex;
     align-items: center;
-    padding: 0 0 0 0.85rem;
-    border-left: 2px solid rgba(255, 255, 255, 0.12);
+    padding-block: 0;
+    padding-inline: 0.85rem 0;
+    border-inline-start: 2px solid rgba(255, 255, 255, 0.12);
     border-bottom: none !important;
   }
   .scrolled .mobile-sub-links .nav-sub-link {
-    border-left-color: rgba(0, 0, 0, 0.1);
+    border-inline-start-color: rgba(0, 0, 0, 0.1);
   }
   .mobile-sub-links .nav-sub-link:last-child {
     margin-bottom: 0.35rem;
@@ -1627,7 +1630,7 @@ const categoryList = [
       order: 4;
     }
     :global(.brand-mark) {
-      margin-right: auto;
+      margin-inline-end: auto;
     }
     .search-toggle {
       order: 2;
@@ -1648,8 +1651,7 @@ const categoryList = [
     .nav-mobile {
       position: absolute;
       top: 100%;
-      left: 0.75rem;
-      right: 0.75rem;
+      inset-inline: 0.75rem;
       margin-top: 0.35rem;
       background: rgba(0, 28, 22, 1);
       backdrop-filter: blur(40px) saturate(1.6);
@@ -1706,11 +1708,12 @@ const categoryList = [
       height: 52px !important;
     }
     /* BrandMark renders `.brand-mark` (scoped to its own component), so we
-       reach it via :global(). margin-right: auto is what pushes the search
-       + hamburger cluster to the right edge on mobile. */
+       reach it via :global(). margin-inline-end: auto is what pushes the search
+       + hamburger cluster to the trailing edge on mobile — the left edge when
+       dir=rtl (ar). */
     :global(.brand-mark) {
       --brand-size: 1.1rem;
-      margin-right: auto;
+      margin-inline-end: auto;
     }
     .nav-desktop {
       display: none;
@@ -1771,8 +1774,7 @@ const categoryList = [
     .nav-mobile {
       position: absolute;
       top: 100%;
-      left: 0.75rem;
-      right: 0.75rem;
+      inset-inline: 0.75rem;
       margin-top: 0.35rem;
       background: rgba(0, 28, 22, 1);
       backdrop-filter: blur(40px) saturate(1.6);
@@ -1830,8 +1832,7 @@ const categoryList = [
       font-weight: 600;
       background: rgba(79, 209, 176, 0.15);
       margin: 0 -1rem;
-      padding-left: 1rem;
-      padding-right: 1rem;
+      padding-inline: 1rem;
       border-radius: 8px;
     }
     .scrolled .nav-mobile .nav-link.active {

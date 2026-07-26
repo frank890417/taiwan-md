@@ -75,11 +75,11 @@ const headings = extractHeadings(content);
             first:border-t-0 讓第一項上面不掛線。 */}
         {headings.map((h, i) => (
           <li
-            class={`${h.level === 3 ? 'pl-2' : 'border-t border-[var(--color-border)] pt-[0.1rem] first:border-t-0 first:pt-0'}`}
+            class={`${h.level === 3 ? 'ps-2' : 'border-t border-[var(--color-border)] pt-[0.1rem] first:border-t-0 first:pt-0'}`}
           >
             <a
               href={`#${h.id}`}
-              class="toc-link flex items-baseline gap-[0.6rem] rounded-md border-l-2 border-transparent px-[0.6rem] py-[0.42rem] no-underline transition-[background-color,color] duration-150 hover:bg-[rgba(26,60,52,0.05)] hover:text-[#1a3c34] [&.active]:border-l-[#006d77] [&.active]:bg-[rgba(0,109,119,0.06)] [&.active]:text-[#006d77]"
+              class="toc-link flex items-baseline gap-[0.6rem] rounded-md border-s-2 border-transparent px-[0.6rem] py-[0.42rem] no-underline transition-[background-color,color] duration-150 hover:bg-[rgba(26,60,52,0.05)] hover:text-[#1a3c34] [&.active]:border-s-[#006d77] [&.active]:bg-[rgba(0,109,119,0.06)] [&.active]:text-[#006d77]"
               data-toc-id={h.id}
             >
               <span class="w-[1.6rem] flex-shrink-0 font-['Inter',system-ui,sans-serif] text-[0.65rem] [font-variant-numeric:tabular-nums] text-[#b8c4be]">

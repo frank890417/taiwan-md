@@ -55,14 +55,14 @@ const source =
   <div class="flex flex-col gap-6">
     {
       perspectives.map((p) => (
-        <div class="border-l-2 border-[#c4b8a4] py-1 pl-5 max-[768px]:pl-4">
+        <div class="border-s-2 border-[#c4b8a4] py-1 ps-5 max-[768px]:ps-4">
           <p class="m-0 whitespace-pre-line font-['Georgia','Noto_Serif_TC',serif] text-[0.95rem] leading-[1.85] text-[#3d3530]">
             {p.text}
           </p>
           <p class="m-0 mt-2 text-[0.8rem] text-[#9a8e80]">
             — {p.author}
             {p.dimension && (
-              <span class="ml-2 rounded border border-[#ddd5c8] px-1.5 py-0.5 text-[0.7rem] text-[#a09484]">
+              <span class="ms-2 rounded border border-[#ddd5c8] px-1.5 py-0.5 text-[0.7rem] text-[#a09484]">
                 {p.dimension}
               </span>
             )}

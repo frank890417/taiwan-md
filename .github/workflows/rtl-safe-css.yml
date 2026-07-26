@@ -1,0 +1,49 @@
+name: RTL-safe CSS
+
+# physical directional CSS 漂移偵測器（ar / RTL 排版免疫層）。
+#
+# 防的 bug class：在 localized reader surface 寫 physical 方向屬性
+# （margin-left / border-left / text-align: left / left: / border-radius 四角 /
+# Tailwind pl- ml- border-l text-left）。`dir="rtl"` 只翻文字流向與 grid/flex
+# 主軸，physical property 不會跟著鏡像 → /ar/ 的色軌、縮排、圓角、進度條
+# 全部留在錯的一邊，而 LTR 頁面看起來完全正常，所以 review 時肉眼抓不到。
+#
+# 觸發背景：2026-07-25 ar 出生 = 站上第一個 RTL 語言。Layout 的
+# `<html lang dir>` 接線同日完成（ce31f2f4），但全站 CSS 當時是純 physical。
+# 詳見 reports/language-birth-2026-07-25.md §RTL findings。
+#
+# 這裡只跑純 grep：不需 node，不需 npm ci，不需 build。刻意不併進
+# i18n-smoke-test.yml —— 那支會跑整站 build（7,000+ 篇），把 src/styles/**
+# 掛上它的 paths 等於讓每次改樣式都付一次全站 build 的 CI 代價。
+# 體例照 instrumentation-audit.yml（同樣是單一 gate + 窄 paths + 無 build）。
+#
+# 觸發：任何動受守護表面或本 gate 自己的 PR。
+# 受守護清單是 scripts/tools/check-rtl-safe-css.sh 的 SURFACE array（正本），
+# 下面的 paths 要跟它一起長。
+
+on:
+  pull_request:
+    paths:
+      - 'src/templates/article.template.astro'
+      - 'src/templates/category-hub.template.astro'
+      - 'src/templates/home.template.astro'
+      - 'src/layouts/Layout.astro'
+      - 'src/components/Header.astro'
+      - 'src/components/Footer.astro'
+      - 'src/components/ArticleHero.astro'
+      - 'src/components/ArticleSidebar.astro'
+      - 'src/components/TableOfContents.astro'
+      - 'src/components/ArticleCard.astro'
+      - 'src/components/Perspectives.astro'
+      - 'src/styles/global.css'
+      - 'src/styles/dark-polish.css'
+      - 'scripts/tools/check-rtl-safe-css.sh'
+
+jobs:
+  rtl-safe-css:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check RTL-safe CSS (logical properties on localized surface)
+        run: bash scripts/tools/check-rtl-safe-css.sh --ci
