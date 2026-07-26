@@ -1,32 +1,47 @@
 #!/usr/bin/env python3
 """生成 i18n 翻譯進度 JSON"""
-import os, json, glob
+import json
+import os
+from pathlib import Path
 
 # Repo root (3 levels up from scripts/utils/i18n-status.py)
-repo_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-knowledge_dir = os.path.join(repo_root, 'knowledge')
+repo_root = Path(__file__).resolve().parents[2]
+knowledge_dir = repo_root / "knowledge"
+
+
+def rel_posix(root: Path, base: Path) -> str:
+    rel = os.path.relpath(root, base)
+    if rel == ".":
+        return ""
+    return Path(rel).as_posix()
+
 
 # 掃描中文文章
-zh_articles = set()
+zh_articles: set[str] = set()
 for root, dirs, files in os.walk(knowledge_dir):
-    # 排除 en/, about/, _開頭
-    rel = os.path.relpath(root, knowledge_dir)
-    if rel.startswith('en') or rel.startswith('about') or rel.startswith('_'):
+    root_path = Path(root)
+    rel = rel_posix(root_path, knowledge_dir)
+    if rel.startswith("en") or rel.startswith("about") or rel.startswith("_"):
         continue
-    dirs[:] = [d for d in dirs if not d.startswith('_') and d != 'en' and d != 'about']
+    dirs[:] = [
+        d
+        for d in dirs
+        if not d.startswith("_") and d not in ("en", "about")
+    ]
     for f in files:
-        if f.endswith('.md') and not f.startswith('_'):
-            zh_articles.add(os.path.join(rel, f) if rel != '.' else f)
+        if f.endswith(".md") and not f.startswith("_"):
+            zh_articles.add(f"{rel}/{f}" if rel else f)
 
 # 掃描英文文章
-en_dir = os.path.join(knowledge_dir, 'en')
-en_articles = set()
-if os.path.isdir(en_dir):
+en_dir = knowledge_dir / "en"
+en_articles: set[str] = set()
+if en_dir.is_dir():
     for root, dirs, files in os.walk(en_dir):
-        dirs[:] = [d for d in dirs if not d.startswith('_')]
+        dirs[:] = [d for d in dirs if not d.startswith("_")]
+        rel = rel_posix(Path(root), en_dir)
         for f in files:
-            if f.endswith('.md') and not f.startswith('_'):
-                en_articles.add(os.path.join(os.path.relpath(root, en_dir), f) if os.path.relpath(root, en_dir) != '.' else f)
+            if f.endswith(".md") and not f.startswith("_"):
+                en_articles.add(f"{rel}/{f}" if rel else f)
 
 # 按分類統計
 categories = {}
@@ -53,8 +68,7 @@ progress = {
 print(json.dumps(progress, ensure_ascii=False, indent=2))
 
 # 也寫入檔案
-out = os.path.join(repo_root, 'src', 'data', 'i18n-progress.json')
-os.makedirs(os.path.dirname(out), exist_ok=True)
-with open(out, 'w') as f:
-    json.dump(progress, f, ensure_ascii=False, indent=2)
-print(f"\n✅ Written to {out}")
+out = repo_root / "src" / "data" / "i18n-progress.json"
+out.parent.mkdir(parents=True, exist_ok=True)
+out.write_text(json.dumps(progress, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+print(f"\nWritten to {out}")
