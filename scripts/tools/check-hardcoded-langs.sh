@@ -28,8 +28,16 @@ LANGCODES="en|ja|ko|es|fr|vi|id|pt|hi|ar|ru|de|th"
 # 當初觸發它誕生的那個形狀。`new Set(['en','es','ja','ko','resources'])` 三條全
 # 不中——那正是 cli/src/lib/knowledge.js 從四月漏到七月的那一行。改成「任意三個
 # 相鄰的已知語言碼字串」，順序、引號、Set(...) 包裝都不影響命中。
+# v3（2026-07-26）：v2 把「開頭必須是 en,ja,ko」放寬成「任意三個相鄰語言碼」，但
+# pattern 仍假設**逗號分隔的 array literal**。TypeScript 的 type union 用 `|` 分隔，
+# 所以 `Record<'zh-TW' | 'en' | 'ja' | 'ko' | 'es' | 'fr', T>` 這個形狀一路隱形。
+# 代價實測：src/utils/article-render.ts 的 VIZ_STRINGS 正是這個形狀，查找又是
+# `?? VIZ_STRINGS['zh-TW']`，於是 vi/id/pt/hi/ar/ru 六語的 renderer UI 字串全退回
+# 中文：dist 上這六語共 43,045 個中文 aria-label，阿拉伯文 / 印地文 / 俄文讀者的
+# 螢幕閱讀器每個腳註都唸中文。加第二條 pattern 抓 union 形狀。
 PATTERNS=(
   "\\[\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]"
+  "['\"]($LANGCODES)['\"]\\s*\\|\\s*['\"]($LANGCODES)['\"]\\s*\\|\\s*['\"]($LANGCODES)['\"]"
 )
 
 # 允許清單（這些檔案的 hardcoded 語言清單是 SSOT 本體或合理的歷史 mirror）
@@ -43,12 +51,40 @@ ALLOWLIST=(
   "src/i18n/utils.ts"
 )
 
-# ── 已知債：空的（2026-07-26 當天開單、當天結清）──────────────────────────
-# 擴網當天三個檔案現形（儀表板 registry / next-steps、地圖產生器），先掛號是
-# 因為主樹正在跑巴別塔批次、架新紅燈會擋住別人；同日稍晚全部改成從語言註冊表
-# 推導，掛號隨即撤掉。這個區塊留著當格式：掛號要附行號與日期，還清就刪乾淨，
-# 不要讓豁免在清單裡過夜變成「這裡本來就這樣」。
+# ── 已知債（掛號要附行號與日期，還清就刪乾淨）────────────────────────────────
+# 前一輪（2026-07-26 擴網當天）三個檔案當天開單當天結清：儀表板 registry /
+# next-steps、地圖產生器，全部改成從語言註冊表推導，掛號隨即撤掉。
 # 脈絡：reports/design-taiwanmd-node-app-distribution-2026-07-26.md §九.2
+#
+# v3 的 union pattern 讓三個**頁面內容表**現形。它們與上面那批不同性質：那批是
+# 語言清單，可以直接從 registry 推導；這三個是「每語一份的編輯內容」，補齊等於
+# 要寫六個語言的整頁文案，不是機械替換，所以掛號而不是硬轉。
+#
+# 這三處目前的實際後果（build 出來的 dist 量測，非推論）：
+#   /ar/opendata 內文有 6,051 個漢字、/ar/mcp 有 1,082 個：六個新語言的讀者拿到的
+#   是整頁中文，而路由確實存在（dist/ar/opendata/、dist/ar/mcp/ 都有）。
+# 還清方式二選一：補六語文案，或讓這些路由在缺該語文案時不要產生頁面。
+#
+# 格式：<path>:<line>|<掛號日>|<理由>
+DEBT=(
+  "src/data/opendata-content.ts:13|2026-07-26|OpendataLang：策展文案每語一份，補齊要寫六語整頁內容；/ar/opendata 現在是 6,051 漢字的中文頁"
+  "src/data/mcp-content.ts:19|2026-07-26|McpLang：同上；/ar/mcp 現在是 1,082 漢字的中文頁"
+  "src/templates/elections-2026.template.astro:122|2026-07-26|electionCopy：選舉專頁文案每語一份，同上"
+)
+
+DEBT_SEEN=""
+is_debt() {
+  local f="$1" ln="$2"
+  for entry in "${DEBT[@]}"; do
+    if [[ "${entry%%|*}" == "$f:$ln" ]]; then
+      local rest="${entry#*|}"
+      # ${ln} 要加大括號：變數後面直接接全形字元時，bash 會把全形字元讀進變數名。
+      DEBT_SEEN+="\n  $f:${ln}（${rest%%|*} 掛號）${rest#*|}"
+      return 0
+    fi
+  done
+  return 1
+}
 
 # 收集要掃描的檔案
 if [[ "$MODE" == "--staged" ]]; then
@@ -95,12 +131,40 @@ for f in $FILES; do
       || true)
     if [[ -n "$matches" ]]; then
       while IFS= read -r line; do
+        # 掛號過的（檔案 + 行號都對上）不計為違反，但一定印出來
+        if is_debt "$f" "${line%%:*}"; then
+          continue
+        fi
         VIOLATIONS=$((VIOLATIONS + 1))
         VIOLATION_LIST+="\n  $f:$line"
       done <<< "$matches"
     fi
   done
 done
+
+if [[ -n "$DEBT_SEEN" ]]; then
+  echo "📌 已掛號的已知債（不擋，但每次都提醒）："
+  echo -e "$DEBT_SEEN"
+  echo ""
+fi
+
+# 掛號但已經不再命中 = 債還清了，或者行號漂了。兩種都要處理，不能讓豁免留著。
+# 只在全掃時判定：--staged 只看得到這次 commit 的檔案，掛號的檔案沒進 staging
+# 就會全部誤判成「沒命中」，每次 commit 都噴一次假清單。
+STALE=""
+if [[ "$MODE" != "--staged" ]]; then
+  for entry in "${DEBT[@]}"; do
+    target="${entry%%|*}"
+    if [[ "$DEBT_SEEN" != *"$target"* ]]; then
+      STALE+="\n  $target"
+    fi
+  done
+fi
+if [[ -n "$STALE" ]]; then
+  echo "🧹 DEBT 有掛號沒命中，請確認是還清了（刪掉這幾行）還是行號漂了（更新行號）："
+  echo -e "$STALE"
+  echo ""
+fi
 
 if [[ $VIOLATIONS -gt 0 ]]; then
   echo "🚨 發現 $VIOLATIONS 個 hardcoded language array："

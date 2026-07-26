@@ -22,8 +22,9 @@
  * 裡的文字）不受影響，那是 babel 翻譯的範圍，不是這層的責任。
  */
 import { marked } from 'marked';
+import type { Lang } from '../config/languages';
 
-// ── VIZ_STRINGS：renderer 自產 UI 字串的六語對照表（非作者資料，是 renderer 輸出）──
+// ── VIZ_STRINGS：renderer 自產 UI 字串的全語對照表（非作者資料，是 renderer 輸出）──
 // 「資料來源：」「席次」欄名等改由這裡查表，不再寫死中文。冒號標點直接烤進字串
 // （zh/ja 全形「：」無空格；en/ko/es/fr 半形「: 」有空格）——這是各語言的標點慣例，
 // 不是需要 runtime 判斷的邏輯，存成常數比每次呼叫都判斷 lang 決定標點更直接。
@@ -39,10 +40,19 @@ interface VizStrings {
   fnSection: string; // 腳註區塊 <section> aria-label
   majority: string; // tw-arc 過半線標籤字首（後接席次數）
 }
-const VIZ_STRINGS: Record<
-  'zh-TW' | 'en' | 'ja' | 'ko' | 'es' | 'fr',
-  VizStrings
-> = {
+// 2026-07-26: 原本型別寫死 `'zh-TW' | 'en' | 'ja' | 'ko' | 'es' | 'fr'`，而查找是
+// `VIZ_STRINGS[lang] ?? VIZ_STRINGS['zh-TW']`，於是 2026-07 出生的 vi / id / pt /
+// hi / ar / ru 六語全部靜靜退回中文。實測 build 出來的 dist，這六語 2,052 個頁面上
+// 共有 43,045 個中文 aria-label：`腳註 N` 25,060 個、`返回引用 N` 16,759 個、
+// 腳註區塊 `腳註` 1,226 個。這是實質 a11y 問題：阿拉伯文 / 印地文 / 俄文讀者的螢幕
+// 閱讀器在每一個腳註連結上都唸出中文。
+// 重跑方式：build 後數這六語 dist 裡 `aria-label="<該語 fnAria> N"` 的個數
+//（同一批文章、同一批腳註，所以本地化後的個數就等於原本是中文的個數）。
+//
+// 改成 `Record<Lang, VizStrings>`：Lang 由 LANGUAGES registry 推導（見
+// config/languages.ts:143），所以下次有新語言出生，這裡會是**型別錯誤**而不是
+// 又一次無聲的中文 fallback。不需要維護第二份語言清單，也比任何 grep gate 早一步。
+const VIZ_STRINGS: Record<Lang, VizStrings> = {
   'zh-TW': {
     srcPrefix: '資料來源：',
     county: '縣市',
@@ -115,6 +125,86 @@ const VIZ_STRINGS: Record<
     fnBackAria: 'Retour à la référence',
     fnSection: 'Notes',
     majority: 'Majorité',
+  },
+  // ── 以下六語 2026-07-26 補上（出生時漏補，一路退回中文）───────────────────
+  // `county` 一律沿用站上既有 bundle 已審過的行政區用詞，不自己另創譯名：
+  //   vi/id/pt/hi/ar/ru 的「縣市」取自 src/i18n/data.ts 的
+  //   `data.svg.card4.description`（各語都已翻譯「縣市界」），
+  //   語感再對照 src/i18n/map.ts 的 `map.controls.region.*`。
+  vi: {
+    srcPrefix: 'Nguồn: ',
+    county: 'Huyện/thành phố',
+    value: 'Giá trị',
+    unmatched: 'Huyện/thành phố không khớp: ',
+    tilesAria: 'Bản đồ dữ liệu huyện, thành phố Đài Loan',
+    waffleAria: 'Biểu đồ ô vuông',
+    fnAria: 'Chú thích',
+    fnBackAria: 'Quay lại phần tham chiếu',
+    fnSection: 'Chú thích',
+    majority: 'Quá bán',
+  },
+  id: {
+    srcPrefix: 'Sumber: ',
+    county: 'Kabupaten/kota',
+    value: 'Nilai',
+    unmatched: 'Kabupaten/kota tidak cocok: ',
+    tilesAria: 'Peta data kabupaten dan kota Taiwan',
+    waffleAria: 'Diagram wafel',
+    fnAria: 'Catatan kaki',
+    fnBackAria: 'Kembali ke rujukan',
+    fnSection: 'Catatan kaki',
+    majority: 'Mayoritas',
+  },
+  pt: {
+    srcPrefix: 'Fonte: ',
+    county: 'Condado ou cidade',
+    value: 'Valor',
+    unmatched: 'Condados sem correspondência: ',
+    tilesAria: 'Mapa de dados dos condados de Taiwan',
+    waffleAria: 'Gráfico de waffle',
+    fnAria: 'Nota',
+    fnBackAria: 'Voltar à referência',
+    fnSection: 'Notas',
+    majority: 'Maioria',
+  },
+  hi: {
+    srcPrefix: 'स्रोत: ',
+    county: 'काउंटी/शहर',
+    value: 'मान',
+    unmatched: 'बेमेल काउंटी: ',
+    tilesAria: 'ताइवान काउंटी डेटा मानचित्र',
+    waffleAria: 'वफ़ल चार्ट',
+    fnAria: 'पाद-टिप्पणी',
+    fnBackAria: 'संदर्भ पर वापस जाएँ',
+    fnSection: 'पाद-टिप्पणियाँ',
+    majority: 'बहुमत',
+  },
+  ar: {
+    srcPrefix: 'المصدر: ',
+    county: 'المنطقة أو المدينة',
+    value: 'القيمة',
+    unmatched: 'مناطق غير مطابقة: ',
+    tilesAria: 'خريطة بيانات مناطق تايوان',
+    waffleAria: 'مخطط المربعات',
+    fnAria: 'حاشية',
+    fnBackAria: 'العودة إلى المرجع',
+    fnSection: 'الحواشي',
+    majority: 'الأغلبية',
+  },
+  ru: {
+    // 俄文，不是烏克蘭文。ui.ts 的 ru bundle 有 55 / 193 個 key 混進烏克蘭文
+    // （含俄文字母表沒有的 і/ї/є/ґ），所以這一區刻意不從那裡取詞；本 PR 附了
+    // 機器判定指令。這 10 條全部只用俄文字母。
+    srcPrefix: 'Источник: ',
+    county: 'Уезд или город',
+    value: 'Значение',
+    unmatched: 'Несопоставленные уезды: ',
+    tilesAria: 'Карта данных по уездам Тайваня',
+    waffleAria: 'Вафельная диаграмма',
+    fnAria: 'Сноска',
+    fnBackAria: 'Вернуться к ссылке',
+    fnSection: 'Сноски',
+    majority: 'Большинство',
   },
 };
 // module scope：整個 build 只有一份，renderArticleHtml 每次呼叫開頭覆寫。
