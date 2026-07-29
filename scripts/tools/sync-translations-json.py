@@ -110,28 +110,28 @@ def main():
 
     mapping, missing_tf, orphans = collect_from_frontmatter()
 
-    print(f"📊 Scanned: {len(mapping) + len(missing_tf)} translation files")
+    print(f"Scanned: {len(mapping) + len(missing_tf)} translation files")
     print(f"   With translatedFrom:    {len(mapping)}")
     print(f"   Missing translatedFrom: {len(missing_tf)}")
     print(f"   Orphans (source gone):  {len(orphans)}")
 
     if missing_tf:
-        print(f"\n⚠️  Files missing translatedFrom (showing 10):")
+        print(f"\nWARN: Files missing translatedFrom (showing 10):")
         for f in missing_tf[:10]:
             print(f"   - {f}")
         if len(missing_tf) > 10:
             print(f"   ... and {len(missing_tf) - 10} more")
 
     if orphans:
-        print(f"\n🔴 Orphan translations (source file deleted):")
+        print(f"\nFAIL: Orphan translations (source file deleted):")
         for trans, src in orphans[:10]:
-            print(f"   - {trans} → {src} (source missing)")
+            print(f"   - {trans} -> {src} (source missing)")
         if len(orphans) > 10:
             print(f"   ... and {len(orphans) - 10} more")
 
     if args.check:
         # Compare with existing JSON
-        existing = json.loads(TRANSLATIONS.read_text())
+        existing = json.loads(TRANSLATIONS.read_text(encoding="utf-8"))
         existing_keys = set(existing.keys())
         new_keys = set(mapping.keys())
 
@@ -140,11 +140,11 @@ def main():
         changed = {k for k in new_keys & existing_keys if existing[k] != mapping[k]}
 
         if added or removed or changed:
-            print(f"\n❌ _translations.json out of sync with frontmatter:")
+            print(f"\nFAIL: _translations.json out of sync with frontmatter:")
             if added:
                 print(f"   Would add ({len(added)}):")
                 for k in list(added)[:5]:
-                    print(f"     + {k} → {mapping[k]}")
+                    print(f"     + {k} -> {mapping[k]}")
             if removed:
                 print(f"   Would remove ({len(removed)}):")
                 for k in list(removed)[:5]:
@@ -152,25 +152,25 @@ def main():
             if changed:
                 print(f"   Would update ({len(changed)}):")
                 for k in list(changed)[:5]:
-                    print(f"     ~ {k}: {existing[k]} → {mapping[k]}")
-            print(f"\n💡 Run without --check to update _translations.json")
+                    print(f"     ~ {k}: {existing[k]} -> {mapping[k]}")
+            print(f"\nHint: Run without --check to update _translations.json")
             sys.exit(1)
         else:
-            print(f"\n✅ _translations.json is in sync with frontmatter")
+            print(f"\nOK: _translations.json is in sync with frontmatter")
             sys.exit(2 if orphans else 0)
 
     # Sort for stable output
     sorted_mapping = dict(sorted(mapping.items()))
 
     if args.dry_run:
-        print(f"\n🔍 DRY RUN — would write {len(sorted_mapping)} entries")
+        print(f"\nDRY RUN: would write {len(sorted_mapping)} entries")
         sys.exit(0)
 
     TRANSLATIONS.write_text(
         json.dumps(sorted_mapping, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    print(f"\n✅ Wrote {TRANSLATIONS} ({len(sorted_mapping)} entries)")
+    print(f"\nWrote {TRANSLATIONS} ({len(sorted_mapping)} entries)")
     sys.exit(2 if orphans else 0)
 
 
