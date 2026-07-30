@@ -35,7 +35,7 @@ def main():
     args = ap.parse_args()
 
     manifest_path = Path(args.manifest) if args.manifest else REPO / ".lang-sync-tasks/en/_batch-manifest.json"
-    manifest = json.load(open(manifest_path))
+    manifest = json.load(open(manifest_path, encoding="utf-8"))
     articles = manifest["articles"]
     lang = manifest["lang"]
     en_paths = [a["en_path"] for a in articles]
@@ -56,7 +56,7 @@ def main():
                 p.unlink()
                 purged.append(a["en_path"])
             else:
-                errors.append(f"❌ 0-byte file (use --purge-empty to delete): {a['en_path']}")
+                errors.append(f"FAIL: 0-byte file (use --purge-empty to delete): {a['en_path']}")
     if purged:
         log(f"   Purged {len(purged)} 0-byte file(s):")
         for p in purged:
@@ -72,7 +72,7 @@ def main():
         if not p.exists():
             missing_files.append(a["zh_path"])
             continue
-        text = p.read_text()
+        text = p.read_text(encoding="utf-8")
         for key in ["translatedFrom", "sourceCommitSha", "sourceContentHash", "translatedAt"]:
             if not re.search(rf"^{key}:\s*['\"]?[^'\"\s]", text, re.M):
                 if not re.search(rf"^{key}:", text, re.M):
@@ -90,17 +90,17 @@ def main():
                     f"{a['en_path']}: translatedFrom='{actual_tf}' ≠ zh_path='{expected_tf}'"
                 )
     if missing_files:
-        log(f"   ❌ {len(missing_files)} file(s) not written:")
+        log(f"   FAIL: {len(missing_files)} file(s) not written:")
         for f in missing_files:
             log(f"      {f}")
             errors.append(f"missing: {f}")
     if bad_frontmatter:
-        log(f"   ❌ {len(bad_frontmatter)} frontmatter issue(s):")
+        log(f"   FAIL: {len(bad_frontmatter)} frontmatter issue(s):")
         for b in bad_frontmatter[:10]:
             log(f"      {b}")
             errors.append(b)
     if translated_from_mismatch:
-        log(f"   ❌ {len(translated_from_mismatch)} translatedFrom value mismatch (LLM regression risk):")
+        log(f"   FAIL: {len(translated_from_mismatch)} translatedFrom value mismatch (LLM regression risk):")
         for m in translated_from_mismatch[:10]:
             log(f"      {m}")
             errors.append(m)
@@ -114,7 +114,7 @@ def main():
         full = REPO / p
         if not full.exists():
             continue
-        text = full.read_text()
+        text = full.read_text(encoding="utf-8")
         if not text.startswith("---"):
             continue
         end = text.find("---", 3)
@@ -184,12 +184,12 @@ def main():
         zh_full = REPO / "knowledge" / a["zh_path"]
         if not en_full.exists() or not zh_full.exists():
             continue
-        src_fns = len(fn_def_re.findall(zh_full.read_text()))
-        out_fns = len(fn_def_re.findall(en_full.read_text()))
+        src_fns = len(fn_def_re.findall(zh_full.read_text(encoding="utf-8")))
+        out_fns = len(fn_def_re.findall(en_full.read_text(encoding="utf-8")))
         if src_fns > 0 and out_fns < src_fns:
             fn_losses.append((a["en_path"], src_fns, out_fns))
     if fn_losses:
-        log(f"   ❌ {len(fn_losses)} translation(s) with footnote loss (likely truncated):")
+        log(f"   FAIL: {len(fn_losses)} translation(s) with footnote loss (likely truncated):")
         for p, s, o in fn_losses[:10]:
             log(f"      {p}: {s}→{o} footnote defs")
             errors.append(f"footnote loss: {p} ({s}→{o} defs)")
@@ -203,7 +203,7 @@ def main():
         full = REPO / p
         if not full.exists():
             continue
-        text = full.read_text()
+        text = full.read_text(encoding="utf-8")
         wls = re.findall(r"\[\[([^\]]+)\]\]", text)
         if wls:
             residue += len(wls)
@@ -217,7 +217,7 @@ def main():
         full = REPO / p
         if not full.exists():
             continue
-        text = full.read_text()
+        text = full.read_text(encoding="utf-8")
         # 2026-07-27 盲區修復：原 regex 是 `\]\((/{lang}/...)\)`，**只檢查已經帶
         # 語言前綴的連結**。而譯文最常見的壞連結恰恰是沒有前綴的
         # `[大罷免](/history/大罷免)`（模型照著 zh 源原樣保留），它完全不在
@@ -255,7 +255,7 @@ def main():
                     broken.append((p, match + "  ← 目標不存在"))
     if broken:
         for src, link in broken[:5]:
-            log(f"   ❌ {src}: → {link}")
+            log(f"   FAIL: {src}: → {link}")
             warnings.append(f"broken cross-link: {src} → {link}")
     log(f"   {ok} OK, {len(broken)} broken")
 

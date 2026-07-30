@@ -98,8 +98,8 @@ def main():
         print(f"No zh articles changed in '{args.since}'")
         return
 
-    print(f"📋 Changed zh articles: {len(articles)}")
-    print(f"📋 Active langs to check: {', '.join(langs)}\n")
+    print(f"Changed zh articles: {len(articles)}")
+    print(f"Active langs to check: {', '.join(langs)}\n")
 
     needs_refresh = {lang: [] for lang in langs}
     for zh in articles:
@@ -119,7 +119,7 @@ def main():
         print(f"  {lang}: {len(items)} need refresh")
         if not args.summary_only:
             for item in items[:10]:
-                marker = "🆕" if item["status"] == "missing" else "🔄"
+                marker = "[NEW]" if item["status"] == "missing" else "[STALE]"
                 print(f"    {marker} {item['zh_path']} ({item['status']})")
             if len(items) > 10:
                 print(f"    ... +{len(items)-10} more")
@@ -128,7 +128,7 @@ def main():
     # Write mini-manifest if requested
     if args.output_manifest:
         if not args.lang:
-            print("⚠️ --output-manifest requires --lang", file=sys.stderr)
+            print("WARN: --output-manifest requires --lang", file=sys.stderr)
             sys.exit(1)
         # Write a list file the prepare-batch.py --input can consume
         out = Path(args.output_manifest)
@@ -136,7 +136,7 @@ def main():
         with open(out, "w", encoding="utf-8") as f:
             for item in needs_refresh[args.lang]:
                 f.write(item["zh_path"] + "\n")
-        print(f"\n✅ Wrote {len(needs_refresh[args.lang])} paths to {out}")
+        print(f"\nOK: Wrote {len(needs_refresh[args.lang])} paths to {out}")
         print(f"   Next: python3 scripts/tools/lang-sync/prepare-batch.py --lang {args.lang} --input {out} --groups 5")
 
 

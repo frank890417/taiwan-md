@@ -426,7 +426,7 @@ def build_status(active_langs: list[str]) -> dict:
 # ---------- output formatting ----------
 
 def print_summary_table(status: dict, lang_filter: str | None):
-    print(f"\n📊 Translation status @ {status['_meta']['zhCommitHead']}")
+    print(f"\nTranslation status @ {status['_meta']['zhCommitHead']}")
     print(f"   zh-TW canonical articles: {status['_meta']['totalZh']}")
     print(f"   Updated: {status['_meta']['lastUpdated']}\n")
 
@@ -473,7 +473,7 @@ def print_article_list(status: dict, lang: str, status_filter: set[str], top: in
         print(f"   (no articles match filter)")
         return
 
-    print(f"\n📋 {len(rows)} articles ({', '.join(status_filter)}) for [{lang}]")
+    print(f"\n{len(rows)} articles ({', '.join(status_filter)}) for [{lang}]")
     print(f"{'Status':<10} {'Behind':>7} {'Diff':<14} {'zh-TW article'}")
     print("-" * 80)
     for rel, t in rows:
@@ -498,7 +498,7 @@ def main():
 
     active = LANG_DIRS if not args.lang else [args.lang]
     if args.lang and args.lang not in LANG_DIRS:
-        print(f"❌ Unknown lang: {args.lang}. Available: {LANG_DIRS}", file=sys.stderr)
+        print(f"FAIL: Unknown lang: {args.lang}. Available: {LANG_DIRS}", file=sys.stderr)
         sys.exit(1)
 
     # Always scan all 5 langs for the JSON cache; --lang filter is for display only
@@ -518,7 +518,7 @@ def main():
 
     if args.list or args.status:
         if not args.lang:
-            print("⚠️  --list / --status needs --lang to be useful. Showing 'en' by default.")
+            print("WARN: --list / --status needs --lang to be useful. Showing 'en' by default.")
             args.lang = "en"
         sf = set(args.status.split(",")) if args.status else {"stale", "missing"}
         print_article_list(status, args.lang, sf, args.top)

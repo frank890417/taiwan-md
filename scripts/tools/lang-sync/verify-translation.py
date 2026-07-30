@@ -191,15 +191,15 @@ def check(checks: list[dict], json_out: bool):
         }, ensure_ascii=False, indent=2))
     else:
         for c in checks:
-            icon = {"PASS": "✅", "WARN": "⚠️ ", "FAIL": "❌"}[c["level"]]
+            icon = {"PASS": "[OK]", "WARN": "[WARN]", "FAIL": "[FAIL]"}[c["level"]]
             print(f"  {icon} {c['name']}: {c['detail']}")
         print(f"\n{'='*60}")
         if hard_fail:
-            print(f"❌ FAIL: {hard_fail} hard / {warns} warn / {passed} pass")
+            print(f"FAIL: {hard_fail} hard / {warns} warn / {passed} pass")
         elif warns:
-            print(f"⚠️  WARN: {warns} warn / {passed} pass (no hard fail)")
+            print(f"WARN: {warns} warn / {passed} pass (no hard fail)")
         else:
-            print(f"✅ ALL PASS: {passed}/{len(checks)}")
+            print(f"ALL PASS: {passed}/{len(checks)}")
     return hard_fail
 
 
