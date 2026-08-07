@@ -95,7 +95,9 @@ fi
 # If fix() actually modifies a file, we re-stage it so the commit reflects
 # the canonical version. Contributors see one harmless re-staging step
 # instead of fighting bulk repair conflicts later.
-staged_md=$(git diff --cached --name-only --diff-filter=ACM | grep '^knowledge/.*\.md$' | grep -vE '^knowledge/(en|ja|ko|es|fr)/' || true)
+# core.quotepath=false：git 預設會把 CJK 檔名 octal-escape 並加雙引號，
+# zh-TW 文章 867/903 是 CJK 檔名，不加這個旗標整條 grep 全 miss，gate 靜默不跑。
+staged_md=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACM | grep '^knowledge/.*\.md$' | grep -vE '^knowledge/(en|ja|ko|es|fr)/' || true)
 if [ -n "$staged_md" ]; then
   fix_output=$(python3 scripts/tools/article-health.py --staged --check=frontmatter-format --fix 2>&1)
   fixed_count=$(echo "$fix_output" | grep -oE 'Modified [0-9]+ file' | grep -oE '[0-9]+' | head -1 || echo "0")
@@ -188,7 +190,7 @@ fi
 # 同一個 commit 理論上只該動一個 narrative domain。多 domain 通常表示
 # 並行 agent 互相污染。警告模式（不擋），要求 commit message 聲明。
 # 詳見 docs/semiont/SESSION-SCOPE.md
-staged_for_scope=$(git diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
+staged_for_scope=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
 if [ -n "$staged_for_scope" ]; then
   domains_touched=""
   while IFS= read -r f; do
@@ -243,7 +245,7 @@ fi
 # ═══ 憑證外洩防護（2026-04-11 session α）═══════
 # 掃描 staged 檔案的 credential pattern。這是 .gitignore 之外的第二層防護——
 # 即使 .gitignore 漏設或有人 git add -f，這裡會擋下
-staged_any=$(git diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
+staged_any=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
 if [ -n "$staged_any" ]; then
   cred_fail=0
   for f in $staged_any; do
