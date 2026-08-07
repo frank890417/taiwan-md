@@ -39,6 +39,9 @@ fi
 # MEMORY.md / DIARY.md 最新 index row 長度 gate（只 enforce 最新列，歷史層不回頭改）
 # per MEMORY-PIPELINE §Index row 寫法 + DIARY-PIPELINE Stage 5 gate
 staged_files=$(git diff --cached --name-only)
+# staged_any 在下面的 language registry sync check（第一個消費者）之前就要有值；
+# 原本只在檔案末段的憑證掃描前才賦值，那個 check 因此永遠拿到空字串。
+staged_any=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
 if echo "$staged_files" | grep -q "^docs/semiont/MEMORY.md$"; then
   python3 scripts/tools/memory-index-lint.py || exit 1
 fi
@@ -245,7 +248,6 @@ fi
 # ═══ 憑證外洩防護（2026-04-11 session α）═══════
 # 掃描 staged 檔案的 credential pattern。這是 .gitignore 之外的第二層防護——
 # 即使 .gitignore 漏設或有人 git add -f，這裡會擋下
-staged_any=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
 if [ -n "$staged_any" ]; then
   cred_fail=0
   for f in $staged_any; do
