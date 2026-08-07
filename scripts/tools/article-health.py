@@ -25,6 +25,11 @@ import subprocess
 import sys
 from pathlib import Path
 
+# Windows cp950 console 強制 UTF-8（不影響 Linux/macOS）
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 # Make `lib.article_health` importable when running this file directly.
 _THIS = Path(__file__).resolve()
 _TOOLS_DIR = _THIS.parent

@@ -20,6 +20,11 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
+# Windows cp950 console 強制 UTF-8（不影響 Linux/macOS）
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 ROOT = Path(__file__).resolve().parents[2]
 CHECK_LANGS = {"ja", "ko", "es", "fr"}
 

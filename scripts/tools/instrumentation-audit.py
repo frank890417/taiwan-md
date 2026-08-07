@@ -31,6 +31,11 @@ import re
 import sys
 from pathlib import Path
 
+# Windows cp950 console 強制 UTF-8（不影響 Linux/macOS）
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 # Re-exec in venv if present (so --live 的 google import 能用)。CI 沒 venv → 留在 system
 # python 跑 --static（純 stdlib）。必須在 google import 前，且只在直接執行時。
 VENV_DIR = Path.home() / ".config" / "taiwan-md" / "venv"
@@ -121,7 +126,7 @@ def parse_fired_events(files):
         if not f.exists():
             print(f"⚠️  tracker not found: {f}", file=sys.stderr)
             continue
-        text = f.read_text()
+        text = f.read_text(encoding="utf-8")
         injected.update(inject_re.findall(text))
         for m in call_re.finditer(text):
             call_start = m.start()
@@ -160,7 +165,7 @@ def load_live_dims():
 
     cred_dir = Path.home() / ".config" / "taiwan-md" / "credentials"
     pid = None
-    for line in (cred_dir / ".env").read_text().splitlines():
+    for line in (cred_dir / ".env").read_text(encoding="utf-8").splitlines():
         if line.startswith("GA4_PROPERTY_ID="):
             pid = line.split("=", 1)[1].strip().strip("\"'")
     creds = service_account.Credentials.from_service_account_file(
