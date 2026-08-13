@@ -57,7 +57,8 @@ fi
 #   - 不需要查中央表 = self-documentation
 # core.quotepath=false 必帶：譯文檔名跟中文原文同名（knowledge/ja/鬍鬚張.md），
 # 不帶的話 git 會把路徑加引號轉義，^knowledge/ 這個錨永遠對不上 → 這道 gate 靜默全跳
-staged_translations=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=AMR | grep -E '^knowledge/(en|ja|ko|es|fr)/.*\.md$' || true)
+translation_lang_pattern=$(node --input-type=module -e "import { ALL_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ALL_LANGUAGE_CODES.filter((code) => code !== 'zh-TW').join('|'))")
+staged_translations=$(git -c core.quotepath=false diff --cached --name-only --diff-filter=AMR | grep -E "^knowledge/($translation_lang_pattern)/.*\.md$" || true)
 if [ -n "$staged_translations" ]; then
   tf_fail=0
   for f in $staged_translations; do

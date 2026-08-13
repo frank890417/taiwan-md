@@ -27,9 +27,10 @@
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { resolve, join, basename } from 'node:path';
 import matter from 'gray-matter';
+import { ENABLED_LANGUAGE_CODES } from '../../src/config/languages.mjs';
 
 const ROOT = process.cwd();
-const LANGS = ['zh-TW', 'en', 'ja', 'ko', 'fr', 'es'];
+const LANGS = ENABLED_LANGUAGE_CODES;
 const PER_LANG = 30;
 
 // category slug (lowercase, matches URL + content-dates key) → knowledge/ folder

@@ -16,6 +16,7 @@
 import { readdir, readFile } from 'node:fs/promises';
 import { resolve, join, basename } from 'node:path';
 import matter from 'gray-matter';
+import { ALL_LANGUAGE_CODES } from '../../src/config/languages.mjs';
 
 const KNOWLEDGE = resolve(process.cwd(), 'knowledge');
 const CATEGORIES = [
@@ -34,10 +35,7 @@ const CATEGORIES = [
   'Economy',
   'Lifestyle',
 ];
-// NOTE: 'fr' deliberately excluded until the 119-file apostrophe frontmatter
-// heal lands (project_babel_frontmatter_apostrophe, dedicated session spawned
-// 2026-06-04) — adding it now would hard-fail CI on known pre-existing damage.
-const LANGS = ['', 'en', 'es', 'ja', 'ko']; // '' = zh-TW root
+const LANGS = ALL_LANGUAGE_CODES.map((code) => (code === 'zh-TW' ? '' : code));
 
 const STRICT = process.argv.includes('--strict');
 const CI_MODE = process.argv.includes('--ci');
@@ -198,12 +196,21 @@ for (const lang of LANGS) {
       // per user request — missing subcategory breaks knowledge-graph
       // clustering + Hub navigation, so block instead of grandfather）
       // - zh-TW（default lang）: 強制必填 → 用 docs/taxonomy/SUBCATEGORY.md 對應分類
-      // - 翻譯檔（en/ja/ko/fr/es）：跳過（subcategory 在原文 SSOT 已定義）
+      // - 翻譯檔：跳過（subcategory 在原文 SSOT 已定義）
       // - About 分類：免（沒有 subcategory 概念）
       // - _Hub.md / _ 開頭檔案：filter 已排除，不會到這
       if (!lang && cat !== 'About' && !fm.subcategory) {
         errors.push(
           `${label}: missing 'subcategory' (見 docs/taxonomy/SUBCATEGORY.md 對應 ${cat} 子分類表)`,
+        );
+      }
+
+      if (
+        lang &&
+        (!fm.translatedFrom || typeof fm.translatedFrom !== 'string')
+      ) {
+        errors.push(
+          `${label}: missing or invalid 'translatedFrom' (例如 'Music/原中文檔名.md')`,
         );
       }
 

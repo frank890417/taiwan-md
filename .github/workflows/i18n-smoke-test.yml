@@ -22,8 +22,16 @@ on:
       - 'src/pages/ko/**'
       - 'src/pages/fr/**'
       - 'src/pages/es/**'
+      - 'src/pages/vi/**'
+      - 'src/pages/id/**'
+      - 'src/pages/pt/**'
+      - 'src/pages/hi/**'
+      - 'src/pages/ar/**'
+      - 'src/pages/ru/**'
       - 'src/pages/404.astro'
       - 'scripts/tools/check-hardcoded-langs.sh'
+      - 'scripts/tools/check-language-registry-sync.sh'
+      - 'scripts/tools/compare-language-registries.mjs'
       - 'scripts/tools/i18n-coverage-audit.sh'
 
 jobs:
@@ -34,7 +42,7 @@ jobs:
 
       - uses: actions/setup-node@v5
         with:
-          node-version: '22'
+          node-version-file: '.nvmrc'
           cache: 'npm'
 
       - name: Install dependencies
@@ -84,20 +92,21 @@ jobs:
       - name: Cascade prevention test (B1 regression)
         run: |
           echo "::group::Cascade URLs check on /fr/people"
+          LANG_PATTERN=$(node --input-type=module -e "import { ENABLED_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ENABLED_LANGUAGE_CODES.filter((code) => code !== 'zh-TW').join('|'))")
           F="dist/fr/people/index.html"
           if [ ! -f "$F" ]; then
             echo "❌ Missing $F"
             exit 1
           fi
           # Look for cascade URL patterns: /ja/fr/, /ko/fr/, etc.
-          BAD=$(grep -oE 'href="/(en|ja|ko|fr|es)/(en|ja|ko|fr|es)/' "$F" || true)
+          BAD=$(grep -oE "href=\"/($LANG_PATTERN)/($LANG_PATTERN)/" "$F" || true)
           if [ -n "$BAD" ]; then
             echo "❌ Cascade URLs found:"
             echo "$BAD"
             exit 1
           fi
           # Verify lang dropdown contains expected URLs
-          DROPDOWN=$(grep -oE '"/(en|ja|ko|fr|es)/people"' "$F" | sort -u)
+          DROPDOWN=$(grep -oE "\"/($LANG_PATTERN)/people\"" "$F" | sort -u)
           echo "Lang dropdown URLs from /fr/people:"
           echo "$DROPDOWN"
           # Should have at least 3 langs (en/ja/ko at minimum)
@@ -127,9 +136,10 @@ jobs:
 
       - name: Structural alignment check (B3 regression)
         run: |
-          echo "::group::5 langs all contain core homepage components"
-          for L in '' en ja ko fr es; do
-            if [ -z "$L" ]; then F="dist/index.html"; LANG="zh-TW"; else F="dist/$L/index.html"; LANG="$L"; fi
+          LANGS=$(node --input-type=module -e "import { ENABLED_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ENABLED_LANGUAGE_CODES.join(' '))")
+          echo "::group::Enabled languages all contain core homepage components"
+          for LANG in $LANGS; do
+            if [ "$LANG" = "zh-TW" ]; then F="dist/index.html"; else F="dist/$LANG/index.html"; fi
             if [ ! -f "$F" ]; then
               echo "❌ Missing $F"
               exit 1

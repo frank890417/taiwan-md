@@ -17,6 +17,7 @@ from lib.article_health.checks import (
     cross_reference,
     image_health,
     link_target,
+    paragraph_rhythm,
     wikilink_target,
 )
 from lib.article_health import langs as langs_mod
@@ -184,3 +185,11 @@ def test_translations_skip_the_media_count_gate():
     assert not image_health._is_excluded_from_count_gate(
         "knowledge/Technology/台積電.md"
     )
+
+
+def test_translations_skip_paragraph_rhythm():
+    for lang in TRANSLATION_LANGS:
+        assert not paragraph_rhythm._is_applicable_path(
+            f"knowledge/{lang}/Technology/tsmc.md"
+        )
+    assert paragraph_rhythm._is_applicable_path("knowledge/Technology/台積電.md")

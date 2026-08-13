@@ -1,15 +1,21 @@
 #!/usr/bin/env bash
 # review-pr.sh v1.1 — Taiwan.md PR 自動審核（五層免疫系統）
-# 用法: bash scripts/review-pr.sh file1.md file2.md ...
-# 或:   bash scripts/review-pr.sh --pr 123
+# 用法: bash scripts/tools/review-pr.sh file1.md file2.md ...
+# 或:   bash scripts/tools/review-pr.sh --pr 123
 set -uo pipefail
 cd "$(dirname "$0")/../.."
 
 RED='\033[0;31m'; YEL='\033[0;33m'; GRN='\033[0;32m'
 BLU='\033[0;34m'; DIM='\033[0;90m'; RST='\033[0m'
 
-VALID_CATS=("About" "History" "Geography" "Culture" "Food" "Art" "Music" "Technology" "Nature" "People" "Society" "Economy" "Lifestyle")
-LOCALES=("en" "es" "ja" "ko" "fr" "de" "vi" "pt" "th" "id" "ar")
+VALID_CATS=()
+for category_dir in knowledge/[A-Z]*; do
+  [[ -d "$category_dir" ]] && VALID_CATS+=("${category_dir##*/}")
+done
+LOCALE_PATTERN=$(node --input-type=module -e "import { ALL_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ALL_LANGUAGE_CODES.filter((code) => code !== 'zh-TW').join('|'))") || {
+  echo "❌ 無法從 src/config/languages.mjs 讀取語言清單" >&2
+  exit 1
+}
 SIMP_PAT='关|为|国|会|发|时|过|来|说|经|间|现|业|务|样|门|问|产|从|进|设|张|总|给|应|数|开|场|变|团|员|电|话|传|统|级|项|节|历'
 
 TOTAL=0; L0=0; L1=0; L2=0; L3=0
@@ -18,10 +24,7 @@ REPORT=""
 
 is_locale() {
   local part="$1"
-  for v in "${LOCALES[@]}"; do
-    [[ "$part" == "$v" ]] && return 0
-  done
-  return 1
+  [[ "$part" =~ ^($LOCALE_PATTERN)$ ]]
 }
 
 is_translation_path() {
@@ -97,7 +100,9 @@ layer1() {
     echo "$fm" | grep -q '^date:' || err+=("缺 date")
     echo "$fm" | grep -q '^tags:' || err+=("缺 tags")
     # featured: true rule — only enforced on ZH SSOT; translations mirror source
-    if ! is_translation_path "$f"; then
+    if is_translation_path "$f"; then
+      echo "$fm" | grep -q '^translatedFrom:' || err+=("缺 translatedFrom")
+    else
       echo "$fm" | grep -q '^featured: true' && err+=("featured 不可 true")
     fi
     # category from path

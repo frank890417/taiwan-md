@@ -44,12 +44,17 @@ if $JSON_OUT; then
 fi
 
 # Use python for analysis (more readable than bash)
-python3 - "$PRS_JSON" "$FILTER_AUTHOR" <<'PYEOF'
+LANG_CODES_JSON=$(node --input-type=module -e "import { ALL_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(JSON.stringify(ALL_LANGUAGE_CODES.filter((code) => code !== 'zh-TW')))") || {
+  echo "❌ 無法從 src/config/languages.mjs 讀取語言清單" >&2
+  exit 1
+}
+python3 - "$PRS_JSON" "$FILTER_AUTHOR" "$LANG_CODES_JSON" <<'PYEOF'
 import json, sys, re
 from collections import defaultdict
 
 prs = json.loads(sys.argv[1])
 filter_author = sys.argv[2] if len(sys.argv) > 2 else ""
+registered_langs = set(json.loads(sys.argv[3]))
 
 if filter_author:
     prs = [p for p in prs if p['author']['login'] == filter_author]
@@ -69,30 +74,21 @@ def detect_type(p):
     files = [f['path'] for f in p.get('files', [])]
     if any(re.match(r'(translate|add \w+ translation)', title) or 'translation' in title for _ in [1]):
         return 'translation'
-    if any(f.startswith('knowledge/') and '/' in f[10:] for f in files):
-        # Check if it's adding to knowledge/<Lang>/
-        first_seg = files[0][10:].split('/')[0] if files else ''
-        if first_seg in ('en', 'ja', 'ko', 'es', 'fr'):
-            return 'translation'
-        if first_seg in ('History','Geography','Culture','Food','Art','Music','Technology','Nature','People','Society','Economy','Lifestyle','About'):
-            return 'content'
+    knowledge_parts = [f.split('/') for f in files if f.startswith('knowledge/')]
+    if any(len(parts) >= 3 and parts[1] in registered_langs for parts in knowledge_parts):
+        return 'translation'
+    if any(len(parts) >= 3 and parts[1] and parts[1][0].isupper() for parts in knowledge_parts):
+        return 'content'
     return 'other'
 
 # === Language extraction ===
 def extract_lang_cat(p):
-    """Return (lang, category) from translation PR title or files."""
-    title = p['title']
-    m = re.search(r'Add (\w+) translations?: (\w+)', title)
-    if m:
-        lang_name = m.group(1)
-        lang_map = {'Korean':'ko','Japanese':'ja','English':'en','Spanish':'es','French':'fr','German':'de'}
-        return lang_map.get(lang_name, lang_name.lower()[:2]), m.group(2)
-    # Fallback: look at files
+    """Return (lang, category) from changed translation paths."""
     for f in p.get('files', []):
         path = f['path']
-        m = re.match(r'knowledge/(en|ja|ko|es|fr)/([A-Z][a-z]+)/', path)
-        if m:
-            return m.group(1), m.group(2)
+        parts = path.split('/')
+        if len(parts) >= 4 and parts[0] == 'knowledge' and parts[1] in registered_langs:
+            return parts[1], parts[2]
     return None, None
 
 # === Mergeability ===

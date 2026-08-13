@@ -66,6 +66,7 @@ def main() -> int:
         # call the plugin's fix() directly.
         sys.path.insert(0, str(Path(__file__).resolve().parent))
         from lib.article_health import load_target  # noqa: E402
+        from lib.article_health.langs import TRANSLATION_LANGS  # noqa: E402
         from lib.article_health.checks import cjk_punct  # noqa: E402
 
         files: list[Path] = []
@@ -85,9 +86,9 @@ def main() -> int:
             for line in out.splitlines():
                 if not line.startswith("knowledge/"):
                     continue
-                if line.startswith(
-                    ("knowledge/en/", "knowledge/ja/", "knowledge/ko/",
-                     "knowledge/es/", "knowledge/fr/")
+                if any(
+                    line.startswith(f"knowledge/{lang}/")
+                    for lang in TRANSLATION_LANGS
                 ):
                     continue
                 if not line.endswith(".md"):
@@ -98,7 +99,7 @@ def main() -> int:
         elif args.all:
             root = Path("knowledge")
             for cat in root.iterdir():
-                if not cat.is_dir() or cat.name in ("en", "ja", "ko", "es", "fr"):
+                if not cat.is_dir() or cat.name in TRANSLATION_LANGS:
                     continue
                 for md in cat.glob("*.md"):
                     if not md.name.startswith("_"):

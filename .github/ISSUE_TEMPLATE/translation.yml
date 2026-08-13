@@ -1,6 +1,6 @@
 name: 🌐 翻譯投稿 Translation Submission
 description: 提交翻譯好的文章（不會 Git 也能貢獻！）
-title: "translate({語言代碼}): {中文文章名} → {英文檔名}"
+title: "translate({語言代碼}): {中文文章名} → {slug}"
 labels: ["translation"]
 body:
   - type: markdown
@@ -8,9 +8,9 @@ body:
       value: |
         ## 🌐 翻譯投稿
 
-        感謝你用 AI 幫台灣說故事！把翻譯好的文章貼在下面，維護者會幫你轉成 PR。
+        感謝你幫忙把台灣的故事帶給更多讀者。把完整譯文貼在下面，維護者會協助整理成 PR。
 
-        > 💡 如果你會 Git，推薦直接開 PR — 更快被 merge！
+        > 💡 如果你熟悉 Git，也可以直接開 PR，維護者會更容易逐行檢視變更。
 
   - type: dropdown
     id: language
@@ -18,15 +18,16 @@ body:
       label: 翻譯語言 Target Language
       options:
         - 🇬🇧 English (en)
-        - 🇪🇸 Español (es)
         - 🇯🇵 日本語 (ja)
         - 🇰🇷 한국어 (ko)
+        - 🇪🇸 Español (es)
         - 🇫🇷 Français (fr)
-        - 🇩🇪 Deutsch (de)
         - 🇻🇳 Tiếng Việt (vi)
-        - 🇵🇹 Português (pt)
-        - 🇹🇭 ไทย (th)
         - 🇮🇩 Bahasa Indonesia (id)
+        - 🇵🇹 Português (pt)
+        - 🇮🇳 हिन्दी (hi)
+        - 🇸🇦 العربية (ar)
+        - 🇷🇺 Русский (ru)
         - Other（請在下方說明）
     validations:
       required: true
@@ -35,8 +36,8 @@ body:
     id: source-article
     attributes:
       label: 原文文章 Source Article
-      description: 你翻譯的是哪篇中文文章？
-      placeholder: "例：珍珠奶茶、半導體產業、台灣民主化"
+      description: 你翻譯的是哪篇中文文章？請填寫相對於 knowledge/ 的路徑，這會成為 translatedFrom。
+      placeholder: "例：Food/珍珠奶茶.md"
     validations:
       required: true
 
@@ -64,6 +65,7 @@ body:
         tags: [food, bubble-tea]
         category: Food
         author: 'Taiwan.md Translation Team'
+        translatedFrom: 'Food/珍珠奶茶.md'
         ---
 
         # Bubble Tea

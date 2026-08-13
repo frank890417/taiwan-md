@@ -28,10 +28,11 @@ Usage:
 """
 import argparse, json, subprocess, sys
 from pathlib import Path
+from langs import ENABLED_TRANSLATION_LANGS
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
-ACTIVE_LANGS = ["en", "ja", "ko"]  # from src/config/languages.ts active list
+ACTIVE_LANGS = ENABLED_TRANSLATION_LANGS
 
 
 def get_changed_zh_articles(since="1 day ago"):
@@ -52,7 +53,7 @@ def get_changed_zh_articles(since="1 day ago"):
             continue
         # Filter to zh articles (knowledge/Category/X.md, not knowledge/en/...)
         if line.startswith("knowledge/") and not any(
-            line.startswith(f"knowledge/{lang}/") for lang in ACTIVE_LANGS + ["es", "fr"]
+            line.startswith(f"knowledge/{lang}/") for lang in ACTIVE_LANGS
         ):
             zh_path = line[len("knowledge/"):]
             if zh_path.endswith(".md") and "/" in zh_path:

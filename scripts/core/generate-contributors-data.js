@@ -41,6 +41,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import https from 'node:https';
+import { ALL_LANGUAGE_CODES } from '../../src/config/languages.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -48,6 +49,14 @@ const PROJECT_ROOT = path.resolve(__dirname, '../..');
 const OUTPUT_PATH = path.join(PROJECT_ROOT, 'public/api/contributors.json');
 const REPO = 'frank890417/taiwan-md';
 const GH_TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || '';
+const TRANSLATION_LANGUAGE_CODES = new Set(
+  ALL_LANGUAGE_CODES.filter((code) => code !== 'zh-TW'),
+);
+
+function isTranslationPath(filePath) {
+  const [root, language] = filePath.split('/');
+  return root === 'knowledge' && TRANSLATION_LANGUAGE_CODES.has(language);
+}
 
 // ─── Step 1: GitHub API contributors ─────────────────────────────────────────
 
@@ -153,13 +162,7 @@ function parseGitLog() {
         f === '.gitignore',
     );
     const hasTranslation = files.some(
-      (f) =>
-        f.startsWith('knowledge/en/') ||
-        f.startsWith('knowledge/ja/') ||
-        f.startsWith('knowledge/ko/') ||
-        f.startsWith('knowledge/es/') ||
-        f.startsWith('knowledge/fr/') ||
-        f.startsWith('src/i18n/'),
+      (f) => isTranslationPath(f) || f.startsWith('src/i18n/'),
     );
 
     if (hasTranslation) entry.translationCommits += 1;

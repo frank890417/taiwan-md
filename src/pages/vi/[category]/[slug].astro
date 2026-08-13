@@ -84,7 +84,7 @@ export async function getStaticPaths() {
     } catch {}
   }
   if (paths.length === 0) {
-    throw new Error('[es getStaticPaths] Generated 0 paths.');
+    throw new Error('[vi getStaticPaths] Generated 0 paths.');
   }
   return paths;
 }

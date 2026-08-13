@@ -57,6 +57,9 @@ from importlib import import_module
 fc = import_module("fetch-cloudflare")
 
 REPO = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(REPO / "scripts/tools/lang-sync"))
+from langs import ENABLED_TRANSLATION_LANGS  # noqa: E402
+
 KNOWLEDGE_DIR = REPO / "knowledge"
 LANG_SWITCH_MAP_PATH = REPO / "public/api/lang-switch-map.json"
 STATE_DIR = REPO / "reports/404-monitor"
@@ -67,7 +70,7 @@ MAX_STATE_DAYS = 60
 TOP_PATHS_LIMIT = 300
 CF_ROW_LIMIT = 10000
 
-LANGS = ["en", "ja", "ko", "es", "fr"]
+LANGS = list(ENABLED_TRANSLATION_LANGS)
 
 # 抄自 scripts/core/generate-lang-switch-map.mjs 的 CATEGORY_FOLDER_TO_SLUG
 # （同一份對照表，不可跟原檔 drift）。
@@ -81,6 +84,7 @@ CATEGORY_FOLDER_TO_SLUG = {
     "Technology": "technology",
     "Nature": "nature",
     "People": "people",
+    "Politics": "politics",
     "Society": "society",
     "Economy": "economy",
     "Lifestyle": "lifestyle",
@@ -105,7 +109,8 @@ MISSING_ASSET_RE = re.compile(r"^/(assets|images|img|fonts)/")
 MD_EXT_RE = re.compile(r"\.md$")
 WELLKNOWN_RE = re.compile(r"^/(cdn-cgi|\.well-known)/")
 BAD_PCT_RE = re.compile(r"%(?![0-9A-Fa-f]{2})")
-LANG_PREFIX_RE = re.compile(r"^/(en|ja|ko|es|fr)(/.*)?$")
+_LANG_PREFIXES = "|".join(re.escape(lang) for lang in LANGS)
+LANG_PREFIX_RE = re.compile(rf"^/({_LANG_PREFIXES})(/.*)?$")
 BOT_UA_RE = re.compile(
     r"bot|crawl|spider|curl|python|scan|go-http|java|okhttp", re.IGNORECASE
 )

@@ -27,6 +27,7 @@ dashboard changes.
 from __future__ import annotations
 
 import json
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -34,6 +35,8 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[2]
 CACHE = Path.home() / ".config" / "taiwan-md" / "cache"
 TARGET = REPO_ROOT / "public" / "api" / "dashboard-analytics.json"
+sys.path.insert(0, str(REPO_ROOT / "scripts" / "tools" / "lang-sync"))
+from langs import ENABLED_TRANSLATION_LANGS  # noqa: E402
 
 
 def load_json(path: Path):
@@ -85,12 +88,10 @@ def clean_title(title: str) -> str:
     return (title or "").replace(" | Taiwan.md", "").strip()
 
 
-# Language detection from URL path prefix.
-# zh-TW = no prefix (default); en/ja/ko/es/fr = explicit prefix.
-import re as _re
-
-LANG_PREFIX_PATTERN = _re.compile(r"^/(en|ja|ko|es|fr)(/|$)")
-ALL_LANGS = ("zh-TW", "en", "ja", "ko", "es", "fr")
+# Language detection from URL path prefix. zh-TW has no prefix.
+ALL_LANGS = ("zh-TW", *ENABLED_TRANSLATION_LANGS)
+_PREFIXES = "|".join(re.escape(lang) for lang in ENABLED_TRANSLATION_LANGS)
+LANG_PREFIX_PATTERN = re.compile(rf"^/({_PREFIXES})(/|$)")
 
 
 def derive_lang_from_path(path: str) -> str:
@@ -113,7 +114,7 @@ def aggregate_by_lang(rows):
 
     Returns:
         dict: {lang: {views, users, sessions, avgEngagementSeconds, pageCount}}
-        Always includes all 6 langs (zh-TW + 5 translation langs), with 0 for
+        Always includes every enabled language, with 0 for
         unobserved langs so dashboard can render consistent shape.
     """
     buckets = {

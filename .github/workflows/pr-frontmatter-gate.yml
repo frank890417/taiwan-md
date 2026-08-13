@@ -65,7 +65,7 @@ jobs:
       - name: Setup Node (with npm cache)
         uses: actions/setup-node@v5
         with:
-          node-version: 22
+          node-version-file: '.nvmrc'
           cache: npm
 
       - name: Install dependencies (gray-matter for test-frontmatter)
@@ -96,7 +96,7 @@ jobs:
             FILES=$(git -c core.quotePath=false diff --name-only --diff-filter=ACMR HEAD^1...HEAD^2)
           fi
 
-          # 全語系 knowledge/*.md（給 test-frontmatter，它自己驗 en/es/ja/ko 結構）
+          # 全語系 knowledge/*.md（給 test-frontmatter，它自己驗翻譯檔結構）
           ALL_KN=""
           # 只 zh-TW root knowledge/<Category>/*.md（給 article-health --profile=pre-commit，
           # 該 profile 是 zh-TW 導向；翻譯檔交給 test-frontmatter）

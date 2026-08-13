@@ -7,6 +7,7 @@ Taiwan.md 用語全站修正：A 類中國用語 → 台灣用語
 
 import os
 import re
+import sys
 from pathlib import Path
 from collections import defaultdict
 
@@ -16,6 +17,8 @@ from collections import defaultdict
 
 # BASE_DIR derives from script location (was hardcoded, fixed 2026-05-04 audit O5).
 BASE_DIR = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(BASE_DIR / "scripts" / "tools"))
+from lib.article_health.langs import TRANSLATION_LANGS  # noqa: E402
 
 SCAN_DIRS = [
     BASE_DIR / "knowledge",
@@ -31,7 +34,7 @@ EXCLUDE_PATHS = {
 }
 
 # 排除翻譯目錄（在 knowledge/ 底下）
-EXCLUDE_SUBDIRS = {"en", "es", "ja"}
+EXCLUDE_SUBDIRS = set(TRANSLATION_LANGS)
 
 # ──────────────────────────────────────────────
 # A 類替換：直接替換，無語境判斷
@@ -88,7 +91,7 @@ def is_excluded(path: Path) -> bool:
 
 
 def is_in_translation_subdir(path: Path) -> bool:
-    """檢查是否在 en/es/ja 翻譯子目錄"""
+    """檢查是否在已註冊的翻譯子目錄。"""
     parts = path.parts
     for excl in EXCLUDE_SUBDIRS:
         if excl in parts:

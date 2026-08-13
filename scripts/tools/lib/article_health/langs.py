@@ -32,7 +32,7 @@ _REGISTRY = REPO / "src" / "config" / "languages.mjs"
 
 #: registry 讀不到時的保底清單（2026-07-18 出生戰役當下的既知語言）。
 #: 只有在 checkout 不完整之類的情況才會用到，且會 warn 一次，不靜默。
-_FALLBACK = ("en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi")
+_FALLBACK = ("en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru")
 
 #: registry 讀得到卻 parse 出比這更少 → 格式改了，當場叫，不靜默沿用舊清單
 #: （對齊 lang-sync/langs.py 的 fail-loud selftest，REFLEXES #65 儀器自身要 cross-verify）。

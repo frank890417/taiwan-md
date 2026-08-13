@@ -52,7 +52,7 @@ Rules:
 
 Skipped paths:
   - Hub pages (knowledge/{Category}/_*.md)
-  - Translation files (knowledge/{en,ja,ko,es,fr}/)
+  - Translation files (`knowledge/{registered language}/`)
   - Spore artifacts (docs/factory/SPORE-*)
   - Reports / memory / diary
 
@@ -68,6 +68,7 @@ import re
 from statistics import median
 from typing import Any, Iterator
 
+from ..langs import is_translation_path
 from ..types import FileTarget, Severity, Violation
 
 
@@ -149,7 +150,7 @@ def _is_applicable_path(path: str) -> bool:
     if base.startswith("_"):
         return False
     # Translation files (under knowledge/{lang}/)
-    if re.search(r"(?:^|/)knowledge/(en|ja|ko|es|fr)/", p):
+    if is_translation_path(p):
         return False
     # Only knowledge/ articles (relative or absolute)
     if not re.search(r"(?:^|/)knowledge/", p):
@@ -218,7 +219,7 @@ def _split_paragraphs(section_body: str) -> list[str]:
     Skip:
       - empty lines (used as paragraph delimiters)
       - blockquote-only paragraphs (start with `>` — usually callout meta)
-      - bullet-list paragraphs (start with `- ` or `* ` or `\d.`)
+      - bullet-list paragraphs (start with `- ` or `* ` or `\\d.`)
       - HTML-only paragraphs (iframe div wrappers)
       - heading-like lines (`##`, `###`)
       - italic caption lines `_..._`

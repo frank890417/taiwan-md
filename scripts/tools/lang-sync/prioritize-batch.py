@@ -41,9 +41,10 @@ import re
 import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
+from langs import ALL_TRANSLATION_LANGS
 
 REPO = Path(__file__).resolve().parents[3]
-LANGS = ["en", "ja", "ko", "es", "fr"]
+LANGS = ALL_TRANSLATION_LANGS
 
 # PRC-sensitive keyword pattern (title / category / tags hit → escalate)
 SENSITIVE_KEYWORDS = re.compile(

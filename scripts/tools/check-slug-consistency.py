@@ -5,7 +5,7 @@
 98 檔 slug 漂移，成為 hreflang / 語言切換器死鏈家族的土壤（歷史清償見
 unify-translation-slugs.py）。本 gate 讓漂移在 commit 時就被擋下。
 
-規則：knowledge/{ja,ko,es,fr}/{Cat}/{slug}.md 若其 translatedFrom 對應
+規則：knowledge/{registered non-en language}/{Cat}/{slug}.md 若其 translatedFrom 對應
 的 en 版存在，basename 必須與 en 版相同。en 是 canonical，不受檢。
 
 用法：
@@ -26,7 +26,10 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
     sys.stderr.reconfigure(encoding="utf-8")
 
 ROOT = Path(__file__).resolve().parents[2]
-CHECK_LANGS = {"ja", "ko", "es", "fr"}
+sys.path.insert(0, str(ROOT / "scripts" / "tools" / "lang-sync"))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+
+CHECK_LANGS = set(ALL_TRANSLATION_LANGS) - {"en"}
 
 # unify-translation-slugs.py 2026-07-17 review 保留的歷史漂移（zh path）。
 # 清償一案就從這裡刪一行；新檔案不得加入。

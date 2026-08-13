@@ -8,19 +8,28 @@ on:
       - 'knowledge/ja/**'
       - 'knowledge/ko/**'
       - 'knowledge/fr/**'
-      - 'knowledge/de/**'
       - 'knowledge/vi/**'
+      - 'knowledge/id/**'
+      - 'knowledge/pt/**'
+      - 'knowledge/hi/**'
+      - 'knowledge/ar/**'
+      - 'knowledge/ru/**'
 
 jobs:
   check-translation:
     runs-on: ubuntu-latest
     permissions:
+      contents: read
       pull-requests: write
       issues: write
     steps:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: '.nvmrc'
 
       - name: Auto-label translation PR
         if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
@@ -47,9 +56,10 @@ jobs:
           echo "🔍 Checking translation files..."
           
           ERRORS=0
+          ACTIVE_LANGS=$(node --input-type=module -e "import { ENABLED_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ENABLED_LANGUAGE_CODES.filter((code) => code !== 'zh-TW').join('|'))")
           
-          # Get changed translation files
-          FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} -- 'knowledge/en/' 'knowledge/es/' 'knowledge/ja/' 'knowledge/ko/' 'knowledge/fr/' 'knowledge/de/' 'knowledge/vi/' 2>/dev/null || echo "")
+          # Get changed files under enabled translation directories.
+          FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} -- 'knowledge/' 2>/dev/null | grep -E "^knowledge/($ACTIVE_LANGS)/" || true)
           
           if [ -z "$FILES" ]; then
             echo "No translation files changed."
@@ -70,9 +80,11 @@ jobs:
               echo "  ❌ Missing frontmatter (must start with ---)"
               ERRORS=$((ERRORS + 1))
             fi
+
+            FRONTMATTER=$(awk '/^---$/{n++; next} n==1{print} n>=2{exit}' "$FILE")
             
-            # Check title in frontmatter
-            if ! grep -q "^title:" "$FILE"; then
+            # Check required frontmatter fields
+            if ! printf '%s\n' "$FRONTMATTER" | grep -q "^title:"; then
               echo "  ❌ Missing title in frontmatter"
               ERRORS=$((ERRORS + 1))
             else
@@ -80,18 +92,24 @@ jobs:
             fi
             
             # Check description in frontmatter
-            if ! grep -q "^description:" "$FILE"; then
+            if ! printf '%s\n' "$FRONTMATTER" | grep -q "^description:"; then
               echo "  ⚠️ Missing description (recommended)"
             else
               echo "  ✅ Has description"
             fi
             
             # Check category in frontmatter
-            if ! grep -q "^category:" "$FILE"; then
+            if ! printf '%s\n' "$FRONTMATTER" | grep -q "^category:"; then
               echo "  ⚠️ Missing category (recommended)"
             fi
+
+            if ! printf '%s\n' "$FRONTMATTER" | grep -q "^translatedFrom:"; then
+              echo "  ❌ Missing translatedFrom in frontmatter"
+              echo "     Add the zh-TW source path, for example: translatedFrom: 'Food/珍珠奶茶.md'"
+              ERRORS=$((ERRORS + 1))
+            fi
             
-            # Check minimum content length (at least 50 lines for real article)
+            # Check minimum content length (at least 20 lines for a reviewable article)
             LINES=$(wc -l < "$FILE")
             if [ "$LINES" -lt 20 ]; then
               echo "  ❌ Too short ($LINES lines, minimum 20)"
@@ -102,8 +120,8 @@ jobs:
             
             # Check file is in correct directory structure
             LANG=$(echo "$FILE" | sed 's|knowledge/\([^/]*\)/.*|\1|')
-            if ! echo "$LANG" | grep -qE '^(en|es|ja|ko|fr|de|vi|pt|th|id|ar)$'; then
-              echo "  ❌ Unknown language directory: $LANG"
+            if ! echo "$LANG" | grep -qE "^($ACTIVE_LANGS)$"; then
+              echo "  ❌ $LANG is not an enabled language in src/config/languages.mjs"
               ERRORS=$((ERRORS + 1))
             else
               echo "  ✅ Language: $LANG"
@@ -137,8 +155,8 @@ jobs:
           echo ""
           echo "━━━━━━━━━━━━━━━━━━━━"
           if [ $ERRORS -gt 0 ]; then
-            echo "❌ Found $ERRORS error(s). Please fix before merge."
+            echo "❌ Found $ERRORS error(s). Fix the items above, then push the updated files."
             exit 1
           else
-            echo "✅ All translation checks passed!"
+            echo "✅ All translation checks passed."
           fi

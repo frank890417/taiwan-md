@@ -64,15 +64,17 @@ jobs:
           TRANSLATION_ONLY=true
           HAS_CONTENT=false
           HAS_ENGINEERING=false
+          TRANSLATION_LANG_PATTERN=$(node --input-type=module -e "import { ALL_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ALL_LANGUAGE_CODES.filter((code) => code !== 'zh-TW').join('|'))")
+          KNOWLEDGE_TRANSLATION_RE="^knowledge/($TRANSLATION_LANG_PATTERN)/"
+          CONTENT_TRANSLATION_RE="^src/content/($TRANSLATION_LANG_PATTERN)/"
 
           while IFS= read -r f; do
             [[ -z "$f" ]] && continue
             if [[ "$f" =~ ^knowledge/.*\.md$ ]] || [[ "$f" =~ ^src/content/.*\.md$ ]]; then
               HAS_CONTENT=true
               # Translation locale segment (knowledge/<lang>/… or src/content/<lang>/…)
-              # Keep locales in sync with .github/workflows/translation-check.yml (+ pt/th/id/ar from its validator)
-              if [[ "$f" =~ ^knowledge/(en|es|ja|ko|fr|de|vi|pt|th|id|ar)/ ]] || \
-                 [[ "$f" =~ ^src/content/(en|es|ja|ko|fr|de|vi|pt|th|id|ar)/ ]]; then
+              if [[ "$f" =~ $KNOWLEDGE_TRANSLATION_RE ]] || \
+                 [[ "$f" =~ $CONTENT_TRANSLATION_RE ]]; then
                 :
               else
                 TRANSLATION_ONLY=false

@@ -32,38 +32,67 @@ FORKS=$(python3 -c "import json;print(json.load(open('public/api/dashboard-vital
 # 2026-06-13: was .all-contributorsrc (manual, a month stale at 57). contributors.json
 # .totals.contributors is the live committer count; fall back to the rc file → 30.
 CONTRIBUTORS=$(python3 -c "import json;print(json.load(open('public/api/contributors.json'))['totals']['contributors'])" 2>/dev/null || grep -c '"login"' .all-contributorsrc 2>/dev/null || echo 30)
-# 各語言精確文章數（zh = 大寫分類目錄無 lang prefix；其他 = knowledge/{lang}/）。
+# 各語言精確文章數（zh = 大寫分類目錄無 lang prefix；其他從 language registry 迭代）。
 # 舊版 ZH_PAGES 用 `! -path '*/en/*'` 把 ja/ko/es/fr 全算進 zh（3977 假數）— 修正。
 ZH_PAGES=$(find knowledge -maxdepth 2 -name '*.md' ! -name '_*' -regex 'knowledge/[A-Z][a-zA-Z]*/.*' | wc -l | tr -d ' ')
-EN_PAGES=$(find knowledge/en -name '*.md' ! -name '_*' 2>/dev/null | wc -l | tr -d ' ')
-JA_PAGES=$(find knowledge/ja -name '*.md' ! -name '_*' 2>/dev/null | wc -l | tr -d ' ')
-KO_PAGES=$(find knowledge/ko -name '*.md' ! -name '_*' 2>/dev/null | wc -l | tr -d ' ')
-ES_PAGES=$(find knowledge/es -name '*.md' ! -name '_*' 2>/dev/null | wc -l | tr -d ' ')
-FR_PAGES=$(find knowledge/fr -name '*.md' ! -name '_*' 2>/dev/null | wc -l | tr -d ' ')
+CAT_COUNT=$(find knowledge -maxdepth 1 -type d -regex 'knowledge/[A-Z][a-zA-Z]*' | wc -l | tr -d ' ')
+LANGUAGE_STATS_JSON=$(node --input-type=module <<'NODEEOF'
+import fs from 'node:fs';
+import path from 'node:path';
+import { LANGUAGES } from './src/config/languages.mjs';
+
+function countArticles(root) {
+  if (!fs.existsSync(root)) return 0;
+  let count = 0;
+  for (const entry of fs.readdirSync(root, { withFileTypes: true })) {
+    const child = path.join(root, entry.name);
+    if (entry.isDirectory()) count += countArticles(child);
+    else if (entry.name.endsWith('.md') && !entry.name.startsWith('_')) count += 1;
+  }
+  return count;
+}
+
+const rows = LANGUAGES
+  .filter((language) => language.enabled && !language.isDefault)
+  .map(({ code, displayName }) => ({
+    code,
+    displayName,
+    count: countArticles(path.join('knowledge', code)),
+  }));
+process.stdout.write(JSON.stringify(rows));
+NODEEOF
+)
 TOTAL_PAGES=$ZH_PAGES
 # 近 7/30 天新文章：dashboard-vitals.json（routine 算好），fallback 0
 D7=$(python3 -c "import json;print(json.load(open('public/api/dashboard-vitals.json')).get('articlesLast7Days',0))" 2>/dev/null || echo 0)
 D30=$(python3 -c "import json;print(json.load(open('public/api/dashboard-vitals.json')).get('articlesLast30Days',0))" 2>/dev/null || echo 0)
 
 echo "Stars: $STARS | Forks: $FORKS | Contributors: $CONTRIBUTORS"
-echo "zh:$ZH_PAGES en:$EN_PAGES ja:$JA_PAGES ko:$KO_PAGES es:$ES_PAGES fr:$FR_PAGES | 7d:$D7 30d:$D30"
+echo "zh-TW:$ZH_PAGES translations:$LANGUAGE_STATS_JSON | 7d:$D7 30d:$D30"
 
 # 2. Regenerate README stats table between STATS:START/END markers.
 # 2026-06-13: full-block regen replaces the old per-row sed, which had drifted
 # off README's row names (only Contributors still matched → whole table sat
 # stale). Markers make it row-name-agnostic — robust against future renames.
-python3 - "$ZH_PAGES" "$EN_PAGES" "$JA_PAGES" "$KO_PAGES" "$ES_PAGES" "$FR_PAGES" "$CONTRIBUTORS" "$STARS" "$FORKS" "$D7" "$D30" <<'PYEOF'
-import sys, re
-zh, en, ja, ko, es, fr, contrib, stars, forks, d7, d30 = sys.argv[1:12]
+python3 - "$ZH_PAGES" "$LANGUAGE_STATS_JSON" "$CAT_COUNT" "$CONTRIBUTORS" "$STARS" "$FORKS" "$D7" "$D30" <<'PYEOF'
+import json
+import re
+import sys
+
+zh, language_stats_json, cats, contrib, stars, forks, d7, d30 = sys.argv[1:9]
+language_stats = json.loads(language_stats_json)
+flags = {
+    "en": "🇺🇸", "ja": "🇯🇵", "ko": "🇰🇷", "es": "🇪🇸", "fr": "🇫🇷",
+    "vi": "🇻🇳", "id": "🇮🇩", "pt": "🇵🇹", "hi": "🇮🇳", "ar": "🇸🇦", "ru": "🇷🇺",
+}
 rows = [
     ("📄 Total articles (zh-TW SSOT)", zh),
     ("🇹🇼 Chinese (zh-TW)", zh),
-    ("🇺🇸 English (en)", en),
-    ("🇯🇵 日本語 (ja)", ja),
-    ("🇰🇷 한국어 (ko)", ko),
-    ("🇪🇸 Español (es)", es),
-    ("🇫🇷 Français (fr)", fr),
-    ("📂 Categories", "14"),
+    *[
+        (f"{flags.get(item['code'], '🌐')} {item['displayName']} ({item['code']})", item["count"])
+        for item in language_stats
+    ],
+    ("📂 Categories", cats),
     ("🕸️ Knowledge graph nodes", "220+"),
     ("🔗 Resource websites", "146+"),
     ("👥 Contributors", contrib),
@@ -153,9 +182,7 @@ sedi "s/'about.stats.contributors.number': '[^']*'/'about.stats.contributors.num
 # README Features 行曾停在 793、SEO.astro 752、home.ts 750（實際 828）——這些
 # marketing prose 不在 STATS 標記內，從未被本 script 接管。root cure = 接管，
 # 不是一次性改數字（改完還是會腐）。counts-drift-lint.py 對賬這些位置。
-LANG_DIRS=$(find knowledge -maxdepth 1 -type d -regex 'knowledge/[a-z][a-z]' | wc -l | tr -d ' ')
-LANG_COUNT=$((LANG_DIRS + 1)) # + zh-TW SSOT
-CAT_COUNT=$(find knowledge -maxdepth 1 -type d -regex 'knowledge/[A-Z][a-zA-Z]*' | wc -l | tr -d ' ')
+LANG_COUNT=$(node --input-type=module -e "import { ENABLED_LANGUAGE_CODES } from './src/config/languages.mjs'; console.log(ENABLED_LANGUAGE_CODES.length)")
 PROJECTED=$((TOTAL_PAGES * LANG_COUNT))
 python3 - "$TOTAL_PAGES" "$CAT_COUNT" "$LANG_COUNT" "$PROJECTED" <<'PYEOF'
 import re, sys
@@ -193,8 +220,12 @@ PYEOF
 # 4. Merge GitHub stats into public/api/stats.json (preserve existing fields!)
 # stats.json is primarily generated by generate-content-stats.js with rich data
 # (categories, tags, etc). We only update the GitHub-sourced fields here.
-python3 << PYEOF
-import json, os
+python3 - "$STARS" "$FORKS" "$CONTRIBUTORS" "$ZH_PAGES" "$TOTAL_PAGES" "$LANGUAGE_STATS_JSON" <<'PYEOF'
+import json
+import os
+import sys
+
+stars, forks, contributors, zh_pages, total_pages, language_stats_json = sys.argv[1:7]
 stats_path = 'public/api/stats.json'
 if os.path.exists(stats_path):
     with open(stats_path) as f:
@@ -202,12 +233,15 @@ if os.path.exists(stats_path):
 else:
     stats = {}
 # Only update GitHub-sourced fields, preserve everything else
-stats['stars'] = $STARS
-stats['forks'] = $FORKS
-stats['estimatedContributors'] = $CONTRIBUTORS
-stats['zhPages'] = $ZH_PAGES
-stats['enPages'] = $EN_PAGES
-stats['totalPages'] = $TOTAL_PAGES
+stats['stars'] = int(stars)
+stats['forks'] = int(forks)
+stats['estimatedContributors'] = int(contributors)
+stats['zhPages'] = int(zh_pages)
+language_stats = json.loads(language_stats_json)
+language_pages = {'zh-TW': int(zh_pages), **{row['code']: row['count'] for row in language_stats}}
+stats['languagePages'] = language_pages
+stats['enPages'] = language_pages.get('en', 0)
+stats['totalPages'] = int(total_pages)
 with open(stats_path, 'w') as f:
     json.dump(stats, f, indent=2, ensure_ascii=False)
 print("✅ stats.json merged (preserved existing fields)")

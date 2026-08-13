@@ -27,7 +27,7 @@ APPLIES_TO 設計：
     zh-TW articles 在 knowledge/{Category}/ 路徑下。
     Skip:
       - Hub pages (`_*.md`) — index pages 用 timeline 結構合法
-      - Translation files (knowledge/en|ja|ko|es|fr/) — 非中文 prose
+      - Translation files (`knowledge/{registered language}/`) — 非中文 prose
       - SPORE blueprints / harvests — handled by spore_writing.py
       - Memory / diary — timeline templates legit
       - reports/research/ — research notes 用日期合法
@@ -47,6 +47,7 @@ from __future__ import annotations
 import re
 from typing import Any, Iterator
 
+from ..langs import is_translation_path
 from ..types import FileTarget, Severity, Violation
 
 
@@ -101,9 +102,7 @@ def _is_excluded_path(path: str) -> bool:
     import os
     p = str(path)
     # Translation files
-    if "/knowledge/en/" in p or "/knowledge/ja/" in p or "/knowledge/ko/" in p:
-        return True
-    if "/knowledge/es/" in p or "/knowledge/fr/" in p:
+    if is_translation_path(p):
         return True
     # Hub pages — knowledge/{Category}/_X.md hub pattern
     if os.path.basename(p).startswith("_") and p.endswith(".md"):
