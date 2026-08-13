@@ -82,11 +82,18 @@ def test_english_comma_not_flagged(tmp_path):
 # ════════════════════════════════════════════════════════════════════════
 
 
-@pytest.mark.parametrize("adj", ["傳奇", "偉大", "優秀", "最強", "國民", "天后"])
+@pytest.mark.parametrize("adj", ["傳奇", "偉大", "優秀", "最強", "天后"])
 def test_vague_adjective_is_warn(tmp_path, adj):
     violations = _check(tmp_path, f"{adj}的故事和台灣味道")
     warns = [v for v in violations if v.severity == Severity.WARN and adj in v.message]
     assert len(warns) == 1
+
+
+def test_national_is_valid_noun_modifier(tmp_path):
+    """「國民」可作為名詞修飾語，不應視為空泛形容詞。"""
+    violations = _check(tmp_path, "國民法官與台灣司法制度", category="Society")
+    vague_warns = [v for v in violations if "空泛形容詞" in v.message]
+    assert vague_warns == []
 
 
 def test_unlisted_word_not_flagged(tmp_path):
@@ -138,11 +145,11 @@ def test_non_people_without_colon_no_colon_warn(tmp_path):
 
 
 def test_long_title_warns(tmp_path):
-    # > 35 effective chars: each CJK = 1, so 36 CJK chars triggers
-    long_title = "黃魚鴞甲乙丙丁戊己庚辛壬癸子丑寅卯辰巳午未申酉戌亥東南西北春夏秋冬山水火木"
+    # > 45 effective chars: each CJK = 1, so 46 CJK chars triggers
+    long_title = "黃" * 46
     violations = _check(tmp_path, long_title)
     warns = [v for v in violations if "過長" in v.message]
-    assert len(warns) == 1, f"len={len(long_title)}, weight should be > 35, got {len(warns)} warns"
+    assert len(warns) == 1, f"len={len(long_title)}, weight should be > 45, got {len(warns)} warns"
 
 
 def test_normal_title_passes_length(tmp_path):

@@ -50,6 +50,7 @@
     "image-ingest": "node scripts/tools/image-ingest.mjs",
     "article-health:all": "python3 scripts/tools/article-health.py --all --profile=dashboard --output=json",
     "article-health:test": "python3 -m pytest tests/article_health -q",
+    "test:python": "python3 -m pytest tests -q",
     "feedback:triage": "node scripts/feedback/triage.mjs",
     "feedback:test": "node --test scripts/feedback/*.test.mjs",
     "feedback:uxtest": "node tests/feedback/widget.uxtest.mjs",

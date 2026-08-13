@@ -44,13 +44,7 @@ FIXTURES = [
         "people-good-colon-sandwich",
     ),
     ("周杰倫：歌手", "People", 0, 1, "people-short-subtitle"),
-    (
-        "黃魚鴞甲乙丙丁戊己庚辛壬癸子丑寅卯辰巳午未申酉戌亥東南西北春夏秋冬山水火木",
-        "Nature",
-        0,
-        1,
-        "title-too-long",
-    ),
+    ("黃" * 46, "Nature", 0, 1, "title-too-long"),
 ]
 
 

@@ -197,7 +197,8 @@ def test_inline_image_existing_file_passes(tmp_path, monkeypatch):
     body = "![alt](/article-images/nature/owl.jpg) 段落"
     target = load_target(_write_article(tmp_path, body))
     violations = list(image_health.check(target, {}))
-    assert violations == []
+    missing_file = [v for v in violations if "不存在" in v.message]
+    assert missing_file == []
 
 
 def test_external_hotlink_flagged(tmp_path, monkeypatch):

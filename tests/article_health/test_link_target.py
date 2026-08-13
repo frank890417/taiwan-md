@@ -169,8 +169,8 @@ def test_fix_lowercases_category(tmp_path, fake_knowledge):
     body = "See [Qing](/en/History/qing-dynasty/) and [Fire](/en/Music/fire-ex/).\n"
     f = _write_tmp(tmp_path, body)
     target = load_target(f)
-    changed = link_target.fix(target, {})
-    assert changed is True
+    changes = link_target.fix(target, {})
+    assert changes == 2
     new_text = f.read_text(encoding="utf-8")
     assert "/en/history/qing-dynasty/" in new_text
     assert "/en/music/fire-ex/" in new_text
@@ -182,8 +182,8 @@ def test_fix_does_not_touch_existence(tmp_path, fake_knowledge):
     body = "See [missing](/en/history/no-such-slug/).\n"
     f = _write_tmp(tmp_path, body)
     target = load_target(f)
-    changed = link_target.fix(target, {})
-    assert changed is False  # casing was already lowercase, nothing to fix
+    changes = link_target.fix(target, {})
+    assert changes == 0  # casing was already lowercase, nothing to fix
 
 
 def test_frontmatter_preserved_after_fix(tmp_path, fake_knowledge):
