@@ -313,3 +313,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-06 | 031648-twmd-distill-weekly | 10 條 structural 全量消化：6 fold 進 REFLEXES + 1 MEMORY 新增 + 1 補 ROUTINE.md 暫停 SOP + 1 housekeeping-done | 兩則鏡像變體同折進 #85；housekeeping-done 得逐一驗證現狀宣稱 | [→](memory/2026-09-06-031648-twmd-distill-weekly.md) |
 | 2026-09-06 | 041909-twmd-self-evolve-weekly | 腳註描述查證補進 REWRITE 3.6.1（regex 化 300 篇 dogfood 28.7% 假陽性後改走 verifier prompt）；五條暫停 routine 補解除條件與到期日 | 能寫成 regex 不等於該寫，先問規則對不對 | [→](memory/2026-09-06-041909-twmd-self-evolve-weekly.md) |
 | 2026-09-06 | 053751-twmd-embeddings-nightly | 13 語重建 9,990 向量 0 fail 全綠；本機端點直連免 fallback；de 首次入索引，below-threshold 警告是新語言預期樣子非故障 | canonical config 驅動語言清單，新物種出生後自動被既有 routine 接住 | [→](memory/2026-09-06-053751-twmd-embeddings-nightly.md) |
+| 2026-09-06 | 061650-twmd-data-refresh-am | 14 步全綠零 stale 第六天；scheduler live-state rider 照跑，18 條任務正常刷新 | 連續全綠是穩態的正確樣子，不必為了顯得有產出去找事做 | [→](memory/2026-09-06-061650-twmd-data-refresh-am.md) |
