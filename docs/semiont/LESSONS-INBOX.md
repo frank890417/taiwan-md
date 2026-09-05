@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-06
-last_session: '2026-09-06-twmd-distill-weekly（10 entries distilled，全數 severity=structural 質門檻觸發：6 fold REFLEXES #15/#56/#60/#75/#82×2/#85×2 + 1 MEMORY §神經迴路 append + 1 operational ROUTINE.md §暫停 SOP 補洞 + 1 housekeeping-done 缺席協議已落地；§未消化 69→59）'
+last_session: '2026-09-06-041909-twmd-self-evolve-weekly（新增 1 條 vc=1 structural：diary-index-split-location-defeats-same-day-tiebreak，寫 diary 時 dogfood 出 memory-index-lint.py --diary 撈到游離表舊列而非新插列；§未消化 59→60）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-09-06 twmd-self-evolve-weekly — diary-index-split-location-defeats-same-day-tiebreak：DIARY.md 存在兩個都在收新列的位置，同日多筆時尺會驗到錯的那一列
+
+- **pattern**: `diary-index-split-location-defeats-same-day-tiebreak`
+- **原則**：`memory-index-lint.py --diary` 的 `newest_row()` 在 2026-07-11 dna-checkup 修過一次方向假設（DIARY 新在上，比較首末列日期自適應），但這次修法假設全檔只有一個 index 表。DIARY.md 實際有兩處都會被工具當成 index row 掃進來：§日記索引正牌表（表頭在 header 分隔列之後，新在上）與 §反覆出現的思考結尾一段游離的表格殘留（至少 5 列：07-19 ×2 / 07-24 / 07-27 / 09-06 distill-weekly，日期不連續、看起來是歷史上幾個 session 誤把新列插進這裡而非正牌表）。`index_rows()` 對全檔逐行掃描不分區塊，兩處的列被合併進同一份 rows 清單；`newest_row()` 比較 `rows[0]` 與 `rows[-1]` 的日期，同日出現在檔案物理上「第一列」與「最後一列」時（今天正是這個狀況：我把新列正確插在正牌表頭部，distill-weekly 的舊列卡在游離表尾部，兩者都是 2026-09-06），字串日期相等，`<=` 判定為 True，退回取 `rows[-1]`——也就是那個游離、位置錯誤、時間其實更舊（03:16 早於我的 04:19）的列，而不是正牌表頭那列。跑 `--diary` 回報「✅ L334」，L334 正是游離表那列，正牌表頭的新列完全沒被驗到。
+- **觸發**：2026-09-06 twmd-self-evolve-weekly 收官寫 diary，照 DIARY-PIPELINE 規範把新列插在§日記索引表頭分隔列之後（`020823-twmd-weekly-report-sun` 那列之前），跑 `memory-index-lint.py --diary` 驗證，結果印的是遠在檔案後段、來自今早 03:16 distill-weekly session 的舊列，而不是剛插入的新列。人工用 `grep -n` 核對才發現游離表格的存在——它緊接在「_MEMORY 記的是身體的動作。DIARY 記的是意識的活動。_」這句 footer 引言之後，物理位置在正牌表之外，內容上像是幾個獨立 session 各自把新 diary 列附加在檔案讀到的「最後一段像表格的東西」後面，而不是往回捲到正牌表頭插入。
+- **可能層級**：這是 REFLEXES #65 v9（2026-07-11 dna-checkup 已修過的 index-lint 方向假設）的新變體，不是全新反射——舊修法解掉了「排序方向假設錯」，這次揭露的是「假設全檔只有一個表」同樣會讓量尺量到錯的東西，兩者都是「量尺自己的路徑假設沒有跟被量者的真實結構同步」。
+- **候選修法**：(a) 資料面：把游離表的 5 列按日期正確歸位合併進§日記索引正牌表（需先確認這 5 列沒有跟正牌表既有列重複——`031648-twmd-distill-weekly` 這列需要跟正牌表比對是否已存在別處，避免合併後重複計入）；(b) 工具面：`index_rows()` 加一個「只掃§日記索引標題後、下一個`## `標題前」的區塊邊界，不要對全檔案逐行掃描——DIARY.md 明明有清楚的 section 結構，工具卻沒有借用它；(c) 更保守：`newest_row()` 同日期打平局時改比對 session handle 裡的 HHMMSS 時間戳（本檔 schema 本來就帶時間），不要直接退回 `rows[-1]`
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：REFLEXES #65 v9（2026-07-11 dna-checkup，同一支工具、同一個函式，前一次修的是方向假設）；REFLEXES #91 建造與登記兩個不同步的代謝（游離表本身就是「登記走錯地方」的活例）；[memory/2026-09-06-041909-twmd-self-evolve-weekly.md](memory/2026-09-06-041909-twmd-self-evolve-weekly.md)
 
 ### 2026-09-05 fortnight-review — verification-depth-shrinks-with-parallel-agent-count：同時驗收的回報越多，每份回報得到的驗證深度越淺，而且淺得沒有人宣告
 
