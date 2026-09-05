@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-3-VERIFY'
 description: 'REWRITE v9 stage contract — Stage 3：事實鐵三角 / FACTCHECK / story atom / spine sync / 成品總驗三關（原子重驗 fan-out）/ 大驗證輪編排 / Step 3.8 定稿站'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.6'
-last_updated: 2026-08-19
-last_session: '2026-08-19-154834-algorithmic-art-evolve（v9.6：Step 3.6.2 順稿席加英式短句開場殘留判準，指定冷讀席而非主 session；prose-health §8e v3 計分＋HARD 門檻同步）'
+current_version: 'v9.7'
+last_updated: 2026-09-06
+last_session: '2026-09-06-041909-twmd-self-evolve-weekly（v9.7：3.6.1 adversarial verifier prompt 加「footnote 描述本身也當一個 atom 查」——REFLEXES #75(f) 連結-描述錯位原只掛 MAINTAINER 外部 PR review 紅旗 11，自產深度文的 fetch-verify 從沒問過腳註描述句是否忠於來源；曾嘗試機械化為 regex plugin 但 300 篇 dogfood 命中 86 篇全係正常摘要語氣的假陽性，判定此驗證需要真的 fetch 來源頁才做得到，改走 verifier prompt 擴充）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -37,7 +37,13 @@ upstream_canonical:
 只讀：{ARTICLE_PATH} 的第 {N} 段～第 {M} 段＋該範圍 footnote 指向的來源 URL。
 逐原子（引語／數字／日期／歸屬／獎項屆次／詮釋 gloss）開原頁驗證：
 引語逐字 diff；詮釋 gloss 當獨立 atom 查（同位語最會藏錯——寶哥＝宋岳庭教訓）；
-footnote-claim 綁定反查（腳註真的支撐它掛著的句子嗎）。官方一手 > 媒體轉述。
+footnote-claim 綁定反查（腳註真的支撐它掛著的句子嗎）；
+footnote 描述本身也當一個 atom 查（`[^n]: [Title](URL) — 描述` 的「描述」句
+是否為來源頁真的有的內容，不是寫作者「希望來源說什麼」的目錄式概括——
+描述寫「含 X、Y、Z」時，X/Y/Z 要在來源頁真的看得到，不是只在正文找得到就算
+過；連結-描述錯位跟 claim-citation 錯位是兩種不同的漂移，MAINTAINER 外部
+PR review 紅旗 11 已抓前者，這裡把同一檢查延伸進自產深度文的 fetch-verify）。
+官方一手 > 媒體轉述。
 輸出：逐條 {atom｜來源｜verdict: ✅/⚠️/❌｜證據}。禁改文章。
 ```
 

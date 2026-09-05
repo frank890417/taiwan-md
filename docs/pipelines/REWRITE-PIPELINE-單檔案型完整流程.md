@@ -7,7 +7,7 @@ current_version: 'v9.8-single'
 last_updated: 2026-09-05
 last_session: '2026-09-05-154128-fortnight-review（v9.8 小衛生修補：跨檔案職責分工表 `REWRITE-STAGE-*.md × 10` 份數漂移——實際 11 檔／派發表去重後也是 11 列，改成不寫死數字、pointer 到 §Stage contract 派發表當份數 SSOT；counts-drift-lint.py 加對應 check）'
 generated_from:
-  - 'REWRITE-PIPELINE.md@59a57c944'
+  - 'REWRITE-PIPELINE.md@99d43cc21'
   - 'REWRITE-STAGE-0-VIEWPOINT.md@8a7af3788'
   - 'REWRITE-STAGE-1A-RESEARCH.md@8d3e0ccbc'
   - 'REWRITE-STAGE-1B-MEDIA.md@70e08c91d'
@@ -19,7 +19,7 @@ generated_from:
   - 'REWRITE-STAGE-3-VERIFY.md@36d5c8e32'
   - 'REWRITE-STAGE-4-FORMAT.md@5ad44270b'
   - 'REWRITE-STAGE-5-CROSSLINK.md@70e08c91d'
-generated_at: '2026-09-05T17:54:24+08:00'
+generated_at: '2026-09-06T04:20:40+08:00'
 ---
 
 # REWRITE-PIPELINE 單檔案型完整流程
@@ -2145,7 +2145,13 @@ grep -E "^## 圖片來源|^## 媒體授權|^## 圖片授權" knowledge/{Category
 只讀：{ARTICLE_PATH} 的第 {N} 段～第 {M} 段＋該範圍 footnote 指向的來源 URL。
 逐原子（引語／數字／日期／歸屬／獎項屆次／詮釋 gloss）開原頁驗證：
 引語逐字 diff；詮釋 gloss 當獨立 atom 查（同位語最會藏錯——寶哥＝宋岳庭教訓）；
-footnote-claim 綁定反查（腳註真的支撐它掛著的句子嗎）。官方一手 > 媒體轉述。
+footnote-claim 綁定反查（腳註真的支撐它掛著的句子嗎）；
+footnote 描述本身也當一個 atom 查（`[^n]: [Title](URL) — 描述` 的「描述」句
+是否為來源頁真的有的內容，不是寫作者「希望來源說什麼」的目錄式概括——
+描述寫「含 X、Y、Z」時，X/Y/Z 要在來源頁真的看得到，不是只在正文找得到就算
+過；連結-描述錯位跟 claim-citation 錯位是兩種不同的漂移，MAINTAINER 外部
+PR review 紅旗 11 已抓前者，這裡把同一檢查延伸進自產深度文的 fetch-verify）。
+官方一手 > 媒體轉述。
 輸出：逐條 {atom｜來源｜verdict: ✅/⚠️/❌｜證據}。禁改文章。
 ```
 
