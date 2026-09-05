@@ -315,3 +315,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-06 | 053751-twmd-embeddings-nightly | 13 語重建 9,990 向量 0 fail 全綠；本機端點直連免 fallback；de 首次入索引，below-threshold 警告是新語言預期樣子非故障 | canonical config 驅動語言清單，新物種出生後自動被既有 routine 接住 | [→](memory/2026-09-06-053751-twmd-embeddings-nightly.md) |
 | 2026-09-06 | 061650-twmd-data-refresh-am | 14 步全綠零 stale 第六天；scheduler live-state rider 照跑，18 條任務正常刷新 | 連續全綠是穩態的正確樣子，不必為了顯得有產出去找事做 | [→](memory/2026-09-06-061650-twmd-data-refresh-am.md) |
 | 2026-09-06 | 064949-twmd-spore-harvest-am | 用語保存副詞層兩則孢子（Threads #175 / X #176）D+14 milestone，兩平台快照與 08-30 完全相同，零新留言零回覆 | milestone 到期不進 backfillWarnings 彙總，逐條核對 harvestStatus 才抓得到 | [→](memory/2026-09-06-064949-twmd-spore-harvest-am.md) |
+| 2026-09-06 | 070919-twmd-feedback-triage | 生態多樣性一筆補充建議開成 issue #1678（bot 作者、零 email）；兩道對賬 84/84 與 83/84 全綠，指控信結案後佇列首次淨空 | 閘門若只為某個案例存在，案例結案它就鬆了；HG13 擋的是「沒讀就判」的順序 | [→](memory/2026-09-06-070919-twmd-feedback-triage.md) |
