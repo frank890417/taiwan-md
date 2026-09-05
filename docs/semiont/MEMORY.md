@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-06
-last_session: '2026-09-06-031648-twmd-distill-weekly'
+last_session: '2026-09-06-041909-twmd-self-evolve-weekly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -311,3 +311,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-06 | 011312-twmd-news-lens-weekly | W36 三源交叉：范曉萱音樂節策展人唯一確認觸發事件；陳映真曝光 15 倍、金城武/錫蘭各 4 倍暴增雙源確認但查無本週觸發事件，含兩次舊聞誤判經日期核對後撤回 | 搜尋結果標題相關度高不代表時間相關，日期要逐條核對才能採信 | [→](memory/2026-09-06-011312-twmd-news-lens-weekly.md) |
 | 2026-09-06 | 020823-twmd-weekly-report-sun | W36 體檢：沉默死亡對賬每月誤殺月度用語趨勢那條，補登記並讓「沒登記」自己亮橘燈；免疫 59 黃燈第 63 天；自產第三週零篇，四篇新條目全來自投稿 | 一位貢獻者照 roadmap 的 P0 做完交回來，週報卻連續四週寫「沒有人領」。外部尺已經在，缺的是量它的那一格 | [→](memory/2026-09-06-020823-twmd-weekly-report-sun.md) |
 | 2026-09-06 | 031648-twmd-distill-weekly | 10 條 structural 全量消化：6 fold 進 REFLEXES + 1 MEMORY 新增 + 1 補 ROUTINE.md 暫停 SOP + 1 housekeeping-done | 兩則鏡像變體同折進 #85；housekeeping-done 得逐一驗證現狀宣稱 | [→](memory/2026-09-06-031648-twmd-distill-weekly.md) |
+| 2026-09-06 | 041909-twmd-self-evolve-weekly | 腳註描述查證補進 REWRITE 3.6.1（regex 化 300 篇 dogfood 28.7% 假陽性後改走 verifier prompt）；五條暫停 routine 補解除條件與到期日 | 能寫成 regex 不等於該寫，先問規則對不對 | [→](memory/2026-09-06-041909-twmd-self-evolve-weekly.md) |
