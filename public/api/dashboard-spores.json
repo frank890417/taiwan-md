@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T22:13:48.942661Z",
+  "lastUpdated": "2026-09-05T22:49:03.750706Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 166,
@@ -1940,8 +1940,8 @@
       "publishDate": "2026-08-23",
       "daysSincePublish": 14,
       "withinHarvestWindow": false,
-      "harvestCount": 4,
-      "lastHarvest": "2026-08-30 06:49"
+      "harvestCount": 5,
+      "lastHarvest": "2026-09-06 06:48"
     },
     {
       "n": 176,
@@ -1950,8 +1950,8 @@
       "publishDate": "2026-08-23",
       "daysSincePublish": 14,
       "withinHarvestWindow": false,
-      "harvestCount": 4,
-      "lastHarvest": "2026-08-30 06:49"
+      "harvestCount": 5,
+      "lastHarvest": "2026-09-06 06:48"
     }
   ]
 }
