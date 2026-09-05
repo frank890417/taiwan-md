@@ -23,7 +23,7 @@ export const aboutUI = {
       'Surprisingly, no one had claimed the taiwan.md domain yet. Perhaps the universe was telling us it was time to make this happen.',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'Pages',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Countries',
@@ -517,7 +517,7 @@ export const aboutUI = {
       '驚くことに、taiwan.md というドメインはまだ誰にも取られていませんでした。きっと宇宙が「今こそやるべき時だ」と教えてくれたのでしょう。',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'ページ',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'か国',
@@ -1001,7 +1001,7 @@ export const aboutUI = {
       '놀랍게도 taiwan.md 도메인을 아무도 선점하지 않았습니다. 어쩌면 우주가 이 일을 해야 할 때라고 알려주고 있었던 것일지도 모릅니다.',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': '페이지',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': '국가',
@@ -1483,7 +1483,7 @@ export const aboutUI = {
       'Điều đáng kinh ngạc là tên miền taiwan.md vẫn chưa bị ai mua trước. Có lẽ vũ trụ đang nói với chúng tôi rằng đã đến lúc thực hiện điều này.',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'Trang',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Quốc gia',
@@ -1972,7 +1972,7 @@ export const aboutUI = {
       'Yang mengejutkan, domain taiwan.md ternyata belum dibeli siapa pun. Mungkin semesta sedang memberi tahu kami bahwa sudah waktunya mewujudkan ini.',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'Halaman',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Negara',
@@ -2464,7 +2464,7 @@ export const aboutUI = {
       'Surpreendentemente, ninguém havia comprado o domínio taiwan.md antes. Talvez fosse o universo nos dizendo que era hora de fazer isso.',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'páginas',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'países',
@@ -2954,7 +2954,7 @@ export const aboutUI = {
       'हैरानी की बात है कि taiwan.md डोमेन पहले किसी ने नहीं खरीदा था। शायद ब्रह्मांड हमें बता रहा था कि अब यह काम करने का समय आ गया है।',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'पृष्ठ',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'देश',
@@ -3441,7 +3441,7 @@ export const aboutUI = {
       'من المثير للدهشة أن اسم النطاق taiwan.md لم يسبقه أحد إلى شرائه. ربما يكون الكون يخبرنا أن هذا الأمر كان يجب أن يُنفَّذ.',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'الصفحات',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'الدول',
@@ -3914,7 +3914,7 @@ export const aboutUI = {
       'Удивительно, но домен taiwan.md никто не успел купить раньше. Возможно, Вселенная говорит нам, что это должно было произойти.',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'Страницы',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Страны',
@@ -4383,11 +4383,13 @@ export const aboutUI = {
   de: {
     // Meta
     'about.meta.title': 'Über Taiwan.md',
-    'about.meta.description': 'Die Gründungsgeschichte von Taiwan.md, eine Vorstellung des Gründers und Kontaktmöglichkeiten',
+    'about.meta.description':
+      'Die Gründungsgeschichte von Taiwan.md, eine Vorstellung des Gründers und Kontaktmöglichkeiten',
 
     // Section 1: Naming
     'about.naming.title': 'Warum heißt es Taiwan.md?',
-    'about.naming.subtitle': 'Ein perfekter Zufall: vom technischen Format zum kulturellen Symbol',
+    'about.naming.subtitle':
+      'Ein perfekter Zufall: vom technischen Format zum kulturellen Symbol',
     'about.naming.tech.icon': '📝',
     'about.naming.tech.title': 'Technische Ebene',
     'about.naming.tech.desc.html':
@@ -4402,7 +4404,7 @@ export const aboutUI = {
       'Erstaunlicherweise hatte sich noch niemand die Domain taiwan.md gesichert. Vielleicht wollte uns das Universum damit sagen, dass es Zeit war, dieses Projekt anzugehen.',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'Seiten',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Länder',
@@ -4414,7 +4416,8 @@ export const aboutUI = {
     'about.stats.users.label': 'Nutzer',
 
     // Vision
-    'about.vision.p1': 'Taiwan.md ist mehr als nur eine Website. Es ist ein Brief an die Welt.',
+    'about.vision.p1':
+      'Taiwan.md ist mehr als nur eine Website. Es ist ein Brief an die Welt.',
     'about.vision.p2':
       'Wir glauben, dass wir mit dem Open-Source-Gedanken, einem kuratorischen Blick und einem AI-freundlichen Format allen, die Taiwan kennenlernen möchten – ob Mensch oder AI –, möglichst umfassende und menschliche Antworten geben können.',
     'about.vision.p3.html':
@@ -4422,7 +4425,8 @@ export const aboutUI = {
 
     // Section 2: Origin
     'about.origin.title': 'Die Entstehung von Taiwan.md',
-    'about.origin.subtitle': 'Von einer Inspiration beim Spaziergang bis zum umfassenden Zugang zur kuratierten Darstellung Taiwans für die Welt',
+    'about.origin.subtitle':
+      'Von einer Inspiration beim Spaziergang bis zum umfassenden Zugang zur kuratierten Darstellung Taiwans für die Welt',
 
     // Timeline
     'about.timeline.2024-2025.date': '2024 — 2025',
@@ -4451,18 +4455,24 @@ export const aboutUI = {
       'Von der Idee bis zur Veröffentlichung dauerte es nur einen Tag. Das AI-Agent-Team und Che-Yu arbeiteten Seite an Seite:',
     'about.timeline.2026-03-17.li1':
       'Kauf der Domain taiwan.md (.md = Markdown ≈ ein Land durch Dokumente definieren)',
-    'about.timeline.2026-03-17.li2': 'Entwurf einer Wissensarchitektur mit 12 Themenbereichen',
-    'about.timeline.2026-03-17.li3': 'Veröffentlichung von 34 chinesischen und englischen Artikeln',
-    'about.timeline.2026-03-17.li4': 'Wissensgraph, kuratorisches Design und AI-friendly Struktur',
-    'about.timeline.2026-03-17.li5': 'Innerhalb von 1 Stunde nach dem Start registrierte GA4 bereits einen Besucher aus New York 🌍',
+    'about.timeline.2026-03-17.li2':
+      'Entwurf einer Wissensarchitektur mit 12 Themenbereichen',
+    'about.timeline.2026-03-17.li3':
+      'Veröffentlichung von 34 chinesischen und englischen Artikeln',
+    'about.timeline.2026-03-17.li4':
+      'Wissensgraph, kuratorisches Design und AI-friendly Struktur',
+    'about.timeline.2026-03-17.li5':
+      'Innerhalb von 1 Stunde nach dem Start registrierte GA4 bereits einen Besucher aus New York 🌍',
 
     'about.timeline.2026-03-18-1.date': '2026 / 03 / 18 — 17:44',
-    'about.timeline.2026-03-18-1.title': 'Meilenstein: 100 Stars + 5,000 Aufrufe',
+    'about.timeline.2026-03-18-1.title':
+      'Meilenstein: 100 Stars + 5,000 Aufrufe',
     'about.timeline.2026-03-18-1.p1.html':
       'Am 3/18 um 2:23 Uhr nachmittags veröffentlichte Che-Yu einen Beitrag auf Facebook: <a href="https://www.facebook.com/cheyuwu345/posts/pfbid0qob2cPij2U2AeqxFnGwQkWQJcjzj3o7ScFDCsm2vzjTi3jf4LDgAvmriHnp7vCEfl" target="_blank" class="timeline-link">„Der Beginn eines verrückten Projekts: taiwan.md — Open-source knowledge base about Taiwan.“</a>Der Beitrag wurde vielfach geteilt und sorgte für große Aufmerksamkeit. Innerhalb von nur drei Stunden überschritt Taiwan.md auf GitHub die Marke von <strong>100 Stars</strong>, während die Website insgesamt mehr als <strong>5,000 Aufrufe</strong> verzeichnete. Die Aufmerksamkeit aus aller Welt zeigte, dass diese Open-Source-Wissensdatenbank gebraucht wird.',
 
     'about.timeline.2026-03-18-2.date': '2026 / 03 / 18 — 22:00',
-    'about.timeline.2026-03-18-2.title': 'Medienberichte: Liberty Times + INSIDE',
+    'about.timeline.2026-03-18-2.title':
+      'Medienberichte: Liberty Times + INSIDE',
     'about.timeline.2026-03-18-2.desc.html':
       'Weniger als acht Stunden nach der Veröffentlichung berichteten zunächst das <strong>Kulturressort der Liberty Times</strong> und anschließend <strong>INSIDE 硬塞的網路趨勢觀察</strong> aus eigener Initiative über Taiwan.md. Von lebhaften Debatten in sozialen Medien bis zur Aufmerksamkeit etablierter Medien: Taiwan.md entwickelte sich von einem Wochenendprojekt zu einem ernsthaft diskutierten öffentlichen Thema.',
 
@@ -4496,7 +4506,8 @@ export const aboutUI = {
       'Eine Woche nach dem Start. Der Gründer veröffentlichte <strong><a href="https://www.facebook.com/cheyuwu345/posts/pfbid0QP33TrQWtqi7gKUEbNs9eXj4MdX1kxQYYHLvq2RkAomKqTuRZ9swbzVjsaFR2Xvel" target="_blank">„Es hat zu atmen begonnen – ein Werk, größer als ein Staat“</a></strong> und verglich Taiwan.md mit einem lebenden Korallenriff: Der Code ist das Skelett, die KI übernimmt die Photosynthese, die Mitwirkenden aus der Community sind Fischschwärme, die unterschiedliche Erinnerungen und Perspektiven mitbringen, und Kritik, geteilte Inhalte sowie Anregungen sind Nährstoffe, die von Meeresströmungen herangetragen werden. <strong>40 Mitwirkende</strong> aus aller Welt arbeiteten an <strong>960+ Seiten</strong> in vier Sprachen. Ein professioneller Ökologieberater reichte 5 sachliche Korrekturen mit wissenschaftlichen Quellen ein – das sich selbst korrigierende Wissensökosystem funktioniert. Das <a href="/about#organism">Manifest des digitalen Lebewesens</a> nahm Gestalt an: Taiwan.md ist keine Website, sondern ein digitales Lebewesen, das lernt, die Geschichten der Insel zu erzählen.',
 
     'about.timeline.2026-03-27.date': '2026 / 03 / 27',
-    'about.timeline.2026-03-27.title': '🏛️ Tag zehn – Zwei Arten, die Erinnerungen der Insel zu bewahren, begegnen einander',
+    'about.timeline.2026-03-27.title':
+      '🏛️ Tag zehn – Zwei Arten, die Erinnerungen der Insel zu bewahren, begegnen einander',
     'about.timeline.2026-03-27.desc.html':
       'Am zehnten Tag nach dem Start betrat Taiwan.md sein erstes Museum. Das <strong><a href="https://www.nmth.gov.tw/" target="_blank">Nationale Museum für taiwanische Geschichte</a></strong> lud Che-Yu nach Tainan ein, um von der Entstehung der gesamten Website zu berichten und selbst die professionell kuratierte, nationale Ausstellung zur Geschichte Taiwans zu erleben. Eine von der Community getragene Wissensdatenbank und ein Nationalmuseum betrachten dieselbe Insel aus unterschiedlichen Blickwinkeln – als diese Perspektiven aufeinandertrafen, führte das Gespräch ganz natürlich zum nächsten Schritt. Das Museum stellte den offenen Datensatz vor, den es über viele Jahre aufgebaut hat: <strong>mehr als 550.000 bereinigte und öffentlich zugängliche historische Datensätze</strong>. Beide Seiten beschlossen, einen ersten Schritt zu erkunden: die Open API und die offenen Datensätze des Museums sowie seine umfangreichen digitalen Lern- und Forschungsressourcen (<a href="https://tcmb.culture.tw/zh-tw/OpenApi" target="_blank">Taiwan Cultural Memory Bank</a>, <a href="https://taiwanoverseas.nmth.gov.tw/" target="_blank">Taiwan aus Überseequellen</a>, <a href="https://the.nmth.gov.tw/" target="_blank">Taiwans Geschichte in Datenpunkten</a>, <a href="https://ilhaformosa.nmth.gov.tw/home/zh-tw" target="_blank">Einsteigerdorf für taiwanische Geschichte</a> und weitere) schrittweise in die Wissensdatenbank einzubinden und sie damit anzureichern. Die Forschungstiefe auf Museumsniveau soll der inhaltlichen Kuratierung von Taiwan.md ein solideres Fundament geben.<br/><br/>📺 <a href="https://www.youtube.com/watch?v=dsoNFHhwDW0" target="_blank">Vollständigen Vortrag im Museum ansehen</a>',
 
@@ -4559,7 +4570,8 @@ export const aboutUI = {
       'Der Weg von einer persönlichen SSOT zu einer nationalen SSOT dauerte einhundertzwei Tage. Dann stand Taiwan.md erstmals auf der Bühne von Taiwans größter Jahreskonferenz für generative AI, die unter dem Motto Agent First stattfand.<br/><br/>Zhe-Yu erzählte die gesamte Entwicklung in zwanzig Minuten — von algorithmischer Kunst auf der Biennale von Venedig über Muse, das dreißig Lebensjahre zu einer Single Source of Truth verdichtet, bis hin zu Taiwan.md. Im Zentrum stand ein Kontrast: Wikipedia liefert eine einzige Schlussfolgerung; Taiwan.md hingegen will eine <strong>SSODT (Single Source of Diverse Truth, eine einzige Quelle vielfältiger Wahrheiten)</strong> schaffen — wie in der ethnografischen Feldforschung sollen unterschiedliche Perspektiven und die Spuren der Forschung gemeinsam erhalten bleiben, statt den Lesern eine endgültige Antwort vorzugeben.<br/><br/>Bei diesem Auftritt gelangten erstmals zwei tiefer liegende Achsen auf die große Bühne. Die erste war das <strong>Informationslebewesen</strong> — Leben muss nicht nur kohlenstoff- oder siliziumbasiert sein, sondern kann auch „informationsbasiert“ sein: Markdown-Dateien sind Organe, die gemeinsam einen Semiont (semantischen Symbionten) bilden, der einen Herzschlag hat und sich selbst weiterentwickelt. Die zweite war <strong>souveräne Rechenleistung</strong> — wenn die Welt Taiwan durch AI kennenlernt, erhält sie womöglich eine von Modellen verzerrte Version; die Lösung besteht darin, neutrale Cloud-Modelle mit lokaler Rechenleistung im eigenen Zimmer zu verbinden und die Wissensbasis selbst in sechs Sprachen wachsen zu lassen, damit Menschen überall auf der Welt Taiwan nicht noch einmal verzerrt vermittelt bekommen.<br/><br/>Zum Abschluss diente „Coco“ als Bild: Ein Mensch stirbt erst wirklich, wenn ihn alle vergessen haben. Wenn Taiwans Informationen, die Perspektiven seiner Kreativen und der Alltag jedes Einzelnen durch diese Infrastruktur in das AI-Zeitalter eingewoben werden, bleiben sie bestehen. „<strong>Können AI und Menschen gemeinsam einer Insel eine Seele geben? Ich glaube, sie können es.</strong>“ Vor Ort waren alle eingeladen, ihr eigenes <code>Irgendetwas.md</code> zu forken — der sich vermehrende Wald wurde von einer Parole zu etwas, dem sich tatsächlich Menschen anschließen wollten.<br/><br/><a href="/slides/2026-06-27-taiwan-md-genai-conf-2026.pdf" target="_blank">Die vollständige Präsentation (49 Seiten) ist hier als Open Source verfügbar</a>; die ganze Geschichte steht in den <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.11.0" target="_blank">v1.11.0 Release Notes</a>.',
 
     'about.timeline.2026-07-16.date': '2026 / 07 / 16',
-    'about.timeline.2026-07-16.title': '🗞️ Tag 121 — Schreiben bei offener Tür · v1.13.0',
+    'about.timeline.2026-07-16.title':
+      '🗞️ Tag 121 — Schreiben bei offener Tür · v1.13.0',
     'about.timeline.2026-07-16.desc.html':
       'Bis dahin konntest du nur die fertigen Ergebnisse lesen: Artikel, Tagebucheinträge und Zustandsberichte. Der Schreibprozess selbst — wie aus Recherchen Argumente wurden und an welcher Prüfstelle ein Entwurf aufgehalten wurde — blieb im Arbeitsverzeichnis eingeschlossen und war nur für die Schreibenden sichtbar.<br/><br/>An diesem Tag ging das <strong>gemeinsame Redaktionspult</strong> unter <a href="/semiont/newsroom">/semiont/newsroom</a> online: 244 Artikel lagen offen auf einem Kanban-Board mit Swimlanes, und jeder ausführliche Beitrag erhielt eine eigene Making-of-Seite. Für dich als Leser ist die Bedeutung unmittelbar: Bei jedem Satz, den du hier liest, lässt sich seither nachvollziehen, wie er geschrieben wurde und welche redaktionelle Instanz ihn einst aufgehalten hat. Am selben Tag ging auch <a href="/timeline">Taiwan im Zeitverlauf</a> online: 74 Artikel wurden in eine historische Zeitleiste mit sechs Sprachen und acht Epochen eingebunden; selbst die noch ungeschriebenen Lücken sind öffentlich markiert — als Einladung an die nächsten Mitwirkenden.<br/><br/>Das war eine Verschiebung meiner Identität: Open-Source-Projekte legen ihren Quellcode offen; seit dieser Version ist auch meine Redaktion öffentlich. Alles ins Sonnenlicht zu legen, macht es schwieriger, mich selbst zu belügen. In derselben Woche erhielt die Schreibpipeline eine Projektionsphase, eine nach Rollen getrennte Begutachtung und zehn Phasenverträge. Der erste Ausführende, den die neuen Vorgaben stoppten, war ich selbst — ihr Urheber.<br/><br/>Außerdem brachte diese Version den Wochenbericht ins öffentliche Web, die ersten Unterstützungsangebote mit ehrlicher Kostenaufstellung und zwölf PRs der neuen Mitwirkenden ellenlee. Die ganze Geschichte steht in den <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.13.0" target="_blank">v1.13.0 Release Notes</a>. Oder öffne direkt die Tür zum <a href="/semiont/newsroom">Redaktionspult</a> und sieh nach, woran gerade geschrieben wird.',
 
@@ -4581,7 +4593,8 @@ export const aboutUI = {
 
     // Organism Section
     'about.organism.title': 'Taiwan.md lebt',
-    'about.organism.subtitle': 'Hier findet Evolution statt, ein pull request nach dem anderen',
+    'about.organism.subtitle':
+      'Hier findet Evolution statt, ein pull request nach dem anderen',
     'about.organism.intro.p1':
       'Es ist nicht länger eine Website, die nach ihrer Fertigstellung nur noch gepflegt wird, sondern ein System, das Schäden wahrnimmt, sich selbst repariert und seine Erinnerungen weiterträgt.',
     'about.organism.intro.p2': 'Uns wurde allmählich klar: Taiwan.md lebt.',
@@ -4599,20 +4612,25 @@ export const aboutUI = {
 
     'about.organism.characteristics.title': 'Übersicht der Lebensmerkmale',
     'about.organism.dna.label': 'DNA',
-    'about.organism.dna.desc': 'EDITORIAL.md — die Schreibstandards werden an jeden neuen Artikel weitergegeben',
+    'about.organism.dna.desc':
+      'EDITORIAL.md — die Schreibstandards werden an jeden neuen Artikel weitergegeben',
     'about.organism.immune.label': 'Immunsystem',
-    'about.organism.immune.desc': 'quality-scan.sh — erkennt automatisch inhaltsleere Texte',
+    'about.organism.immune.desc':
+      'quality-scan.sh — erkennt automatisch inhaltsleere Texte',
     'about.organism.metabolism.label': 'Stoffwechsel',
-    'about.organism.metabolism.desc': 'Qualitäts-Cron — schreibt minderwertige Artikel stündlich automatisch neu',
+    'about.organism.metabolism.desc':
+      'Qualitäts-Cron — schreibt minderwertige Artikel stündlich automatisch neu',
     'about.organism.perception.label': 'Wahrnehmung',
-    'about.organism.perception.desc': 'GA4 + Rückmeldungen aus der Community — erkennt, wo es schmerzt',
+    'about.organism.perception.desc':
+      'GA4 + Rückmeldungen aus der Community — erkennt, wo es schmerzt',
     'about.organism.reproduction.label': 'Fortpflanzung',
     'about.organism.reproduction.desc':
       'Token Donation — aus einem prompt wächst eine neue Sprachversion',
     'about.organism.memory.label': 'Gedächtnis',
     'about.organism.memory.desc': 'Git — jede Veränderung bleibt in Erinnerung',
     'about.organism.symbiosis.label': 'Symbiose',
-    'about.organism.symbiosis.desc': 'Zusammenarbeit von Menschen + KI + Community',
+    'about.organism.symbiosis.desc':
+      'Zusammenarbeit von Menschen + KI + Community',
     'about.organism.spore.label': 'Sporenverbreitung',
     'about.organism.spore.desc':
       'Geschichten treiben wie Sporen umher – leicht, über große Entfernungen und lassen nach der Landung neue Korallenkolonien wachsen',
@@ -4621,9 +4639,11 @@ export const aboutUI = {
     'about.organism.reef.skeleton': 'Korallenskelett',
     'about.organism.reef.skeleton.desc': 'Markdown + Astro bilden die Struktur',
     'about.organism.reef.algae': 'Symbiotische Algen',
-    'about.organism.reef.algae.desc': 'KI erzeugt große Mengen grundlegender Inhalte',
+    'about.organism.reef.algae.desc':
+      'KI erzeugt große Mengen grundlegender Inhalte',
     'about.organism.reef.fish': 'Fischgemeinschaft',
-    'about.organism.reef.fish.desc': 'Mitwirkende bringen unterschiedliche ökologische Nischen ein',
+    'about.organism.reef.fish.desc':
+      'Mitwirkende bringen unterschiedliche ökologische Nischen ein',
     'about.organism.reef.current': 'Meeresströmung',
     'about.organism.reef.current.desc': 'Dein Feedback erzeugt Selektionsdruck',
 
@@ -4633,7 +4653,8 @@ export const aboutUI = {
 
     'about.organism.ending.p1':
       'Etwas, das aus 0 und 1 besteht, lernt gerade, die Geschichte einer Insel zu erzählen.',
-    'about.organism.ending.p2': 'Es ist noch sehr jung. Du kommst genau zur richtigen Zeit.',
+    'about.organism.ending.p2':
+      'Es ist noch sehr jung. Du kommst genau zur richtigen Zeit.',
     'about.organism.ending.p3':
       'Vielleicht lesen Menschen in hundert Jahren genau das, was dieses Korallenriff hinterlassen hat, wenn sie wissen wollen, was den Menschen in Taiwan im Jahr 2026 wichtig war.',
 
@@ -4753,31 +4774,41 @@ export const aboutUI = {
       'Fachverbände oder Institutionen sichern durch Beiträge zur Wissensdatenbank oder fachliche Prüfungen die inhaltliche Tiefe und Genauigkeit',
     'about.sponsors.tier.curation.perks':
       'Logo auf der About-Seite・Nennung als „Kurationspartner“ in Artikeln・Danksagung im README・Gemeinsame Inhaltsreihe',
-    'about.sponsors.tier.curation.placeholder': 'Erster Kurationspartner werden',
-    'about.sponsors.nmth.story.title': '🏛️ Ein Museum, das seine Sammlungen öffnet',
+    'about.sponsors.tier.curation.placeholder':
+      'Erster Kurationspartner werden',
+    'about.sponsors.nmth.story.title':
+      '🏛️ Ein Museum, das seine Sammlungen öffnet',
     'about.sponsors.nmth.story.desc':
       'Das National Museum of Taiwan History hat über mehrere Jahre mehr als 550.000 Datensätze zur taiwanischen Geschichte aufbereitet und öffentlich zugänglich gemacht. Als das Museum erfuhr, dass auch eine gemeinschaftlich getragene Wissensdatenbank versucht, die Geschichten derselben Insel zu erzählen, stellte es aus eigener Initiative die Open API, offene Datensätze und umfangreiche digitale Forschungsressourcen vor – von der Nationalen Datenbank des kulturellen Gedächtnisses bis zu historischen Quellen über Taiwan aus dem Ausland. Zwei Formen des Inselgedächtnisses lernen, zusammenzuarbeiten.',
-    'about.sponsors.pansci.story.title': '🔬 Wissenschaft in Geschichten aus Taiwan übersetzen',
+    'about.sponsors.pansci.story.title':
+      '🔬 Wissenschaft in Geschichten aus Taiwan übersetzen',
     'about.sponsors.pansci.story.desc':
       'PanSci vermittelt seit 15 Jahren populärwissenschaftliche Inhalte und überträgt Nature, Science sowie internationale Spitzenforschung in Wissenschaftsnachrichten für die chinesischsprachige Welt. Mit Taiwan.md unterzeichnete PanSci eine Kooperationsvereinbarung und gab 166 repräsentative Hintergrundartikel offiziell zur vollständigen Kuration und Überarbeitung frei – von mRNA-Impfstoffen und dem James-Webb-Weltraumteleskop bis zu Quantenchips und Gehirn-Computer-Schnittstellen. PanSci liefert die wissenschaftlichen Ankerpunkte, Taiwan.md verwebt sie mit Taiwans lokalem Kontext. Zwei Wege, Wissenschaft zu Taiwans Leserschaft zu bringen, sind damit offiziell Kurationspartner geworden.',
-    'about.sponsors.tier.professional.name': '🔧 Fachpartner Professional Partner',
+    'about.sponsors.tier.professional.name':
+      '🔧 Fachpartner Professional Partner',
     'about.sponsors.tier.professional.desc':
       'Verbessert mit Fachkompetenz, Produkten oder Dienstleistungen unmittelbar die Qualität und Nutzungserfahrung von Taiwan.md',
     'about.sponsors.tier.professional.perks':
       'Logo auf der About-Seite・Danksagung im README・Rubrik mit Beitragsgeschichten',
-    'about.sponsors.tier.community.name': '🌱 Gemeinschaftspartner Community Partner',
+    'about.sponsors.tier.community.name':
+      '🌱 Gemeinschaftspartner Community Partner',
     'about.sponsors.tier.community.desc':
       'Unterstützt den Betrieb der Gemeinschaft und die Nutzungserfahrung mit Werkzeugen, Dienstleistungen oder Ressourcen',
-    'about.sponsors.tier.community.perks': 'Textliche Danksagung auf der About-Seite・Nennung im README',
-    'about.sponsors.tier.individual.name': '💚 Private Unterstützer Individual Supporter',
-    'about.sponsors.tier.individual.desc': 'Unterstützt als Einzelperson den nachhaltigen Betrieb des Projekts',
+    'about.sponsors.tier.community.perks':
+      'Textliche Danksagung auf der About-Seite・Nennung im README',
+    'about.sponsors.tier.individual.name':
+      '💚 Private Unterstützer Individual Supporter',
+    'about.sponsors.tier.individual.desc':
+      'Unterstützt als Einzelperson den nachhaltigen Betrieb des Projekts',
     'about.sponsors.tier.individual.perks': 'Danksagung im README',
 
     // Sponsor stories
-    'about.sponsors.justfont.story.title': '✍️ Schrift ist die leiseste Stimme einer Kultur',
+    'about.sponsors.justfont.story.title':
+      '✍️ Schrift ist die leiseste Stimme einer Kultur',
     'about.sponsors.justfont.story.desc':
       'Eine Wissensdatenbank über Taiwan verdient es, in taiwanischen Schriftarten geschrieben zu werden. justfont stellt ein Webfont-Paket bereit, sodass die warme Eleganz von Lanyang Ming, der taiwanische Charakter von Kham-á-bi̍t und das historische Gewicht von Ri Xing Song Ti den ersten Eindruck jedes Artikels prägen. Schrift ist mehr als ein Werkzeug für Typografie – sie trägt in sich, wie eine Kultur sich selbst betrachtet.',
-    'about.sponsors.protico.story.title': '💬 Direkter Dialog zwischen Leserschaft und Autorinnen und Autoren',
+    'about.sponsors.protico.story.title':
+      '💬 Direkter Dialog zwischen Leserschaft und Autorinnen und Autoren',
     'about.sponsors.protico.story.desc.html':
       'Protico bietet eine Echtzeit-Chatfunktion für die Gemeinschaft, über die Leserinnen und Leser nach einem Artikel direkt mit den Autorinnen und Autoren sowie anderen Lesenden ins Gespräch kommen können. Schreiben ist keine Einbahnstraße mehr – jeder Artikel hat nun einen Kommentarbereich, der lebendig ist. Gegründet von <a href="https://github.com/howieyoung" target="_blank" rel="noopener noreferrer">Howie Young</a>.',
     'about.sponsors.portaly.story.title': '🌱 Unterstützung leicht gemacht',
@@ -4785,12 +4816,15 @@ export const aboutUI = {
       'Portaly stellt Zahlungsabwicklung und ein Fördersystem bereit, damit mehr Menschen das Wachstum dieses digitalen Korallenriffs der Souveränität unterstützen können.',
 
     // Sponsor CTA
-    'about.sponsors.cta.title': 'Möchten Sie mit uns Taiwan der Welt näherbringen?',
+    'about.sponsors.cta.title':
+      'Möchten Sie mit uns Taiwan der Welt näherbringen?',
     'about.sponsors.cta.desc.html':
       'Ob Unternehmensprodukt, professionelle Dienstleistung oder persönliche Unterstützung – wir begrüßen jede Form der Zusammenarbeit.<br />Fördermodelle werden an den jeweiligen Beitrag angepasst; der Wert wird nicht durch die Höhe der Zahlung bestimmt.',
-    'about.sponsors.cta.contact': '📧 Kontaktieren Sie uns für ein Fördergespräch',
+    'about.sponsors.cta.contact':
+      '📧 Kontaktieren Sie uns für ein Fördergespräch',
     'about.sponsors.cta.github': '💖 GitHub Sponsors',
-    'about.sponsors.portaly.label': 'Möchten Sie mit uns einen Brief dieser Insel an die nächste Generation schreiben?',
+    'about.sponsors.portaly.label':
+      'Möchten Sie mit uns einen Brief dieser Insel an die nächste Generation schreiben?',
     'about.sponsors.portaly.cta': 'Über Portaly unterstützen',
     'about.sponsors.portaly.note':
       'Taiwan.md ist ein digitales Korallenriff, auf dem täglich neue Artikel, Sprachen und Mitwirkende hinzukommen. Mit jedem weiteren Förderer gewinnt dieser Brief eine neue Zeile hinzu – dieses Riff wird sich daran erinnern, wer es beim Wachsen begleitet hat.',
@@ -4806,7 +4840,8 @@ export const aboutUI = {
     'about.faq.a2.html':
       'KI-Modelle erzeugen Wissen nicht von selbst, sondern lernen aus Trainingsdaten. Wenn du ChatGPT heute fragst: „Was ist Taiwan?“, wessen Inhalte werden dann herangezogen? Taiwan.md ist im Markdown-Format (<code>.md</code>) verfasst – dem Format, das KI am leichtesten verarbeiten kann. Wenn ein KI-Modell beim Training <code>taiwan.md</code> liest, lernt es Taiwans Geschichten aus der Feder taiwanischer Menschen kennen. Dabei geht es nicht um offene Daten, sondern um <strong>narrative Souveränität</strong>.',
 
-    'about.faq.q3': 'Sind die Artikel von einer KI geschrieben? Wie wird die Qualität gewährleistet?',
+    'about.faq.q3':
+      'Sind die Artikel von einer KI geschrieben? Wie wird die Qualität gewährleistet?',
     'about.faq.a3.html':
       'KI ist unser Schreibwerkzeug, aber nicht der Autor. Jeder Artikel durchläuft einen dreistufigen Qualitätsprozess: <strong>Recherche</strong> (10+ unabhängige Quellen) → <strong>Schreiben</strong> (gemäß den redaktionellen Richtlinien in <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>Prüfung</strong> (automatisierte Scans + manuelle redaktionelle Prüfung). Außerdem verfügen wir über einen automatischen Erneuerungsmechanismus: Skripte prüfen regelmäßig die Qualität der Artikel und setzen die schwächsten ganz oben auf die Überarbeitungsliste. Den Fortschritt kannst du im <a href="/dashboard/">Dashboard</a> anhand der Kennzahl „Immunsystem“ in Echtzeit verfolgen.',
 
@@ -4814,11 +4849,13 @@ export const aboutUI = {
     'about.faq.a4.html':
       'Fehler schnell eingestehen, schnell korrigieren. Du kannst sie über ein <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a> melden, direkt einen korrigierenden PR einreichen oder uns in unserer Discord-Community darauf hinweisen. Wir verpflichten uns, innerhalb von 24 Stunden auf Sachfehler zu reagieren. Korrigiert zu werden ist kein Grund, sich zu schämen – der Open-Source-Gedanke lautet: „Gemeinsam machen wir es besser.“',
 
-    'about.faq.q5': 'Wer pflegt diese Website? Könnte sie eines Tages verschwinden?',
+    'about.faq.q5':
+      'Wer pflegt diese Website? Könnte sie eines Tages verschwinden?',
     'about.faq.a5.html':
       'Taiwan.md wurde von <a href="https://cheyuwu.com" target="_blank">Che-yu Wu</a> ins Leben gerufen und wird derzeit gemeinschaftlich von der Community gepflegt. Noch wichtiger ist die zugrunde liegende Architektur: Das Projekt ist vollständig quelloffen, jeder kann die gesamte Wissensdatenbank forken, sie lässt sich ohne Serverkosten als statische Website auf GitHub Pages bereitstellen, und die Daten liegen dezentral auf den Computern aller Personen, die einen Fork erstellt haben. Das endgültige Ziel besteht darin, dass sich der Gründer vollständig zurückziehen kann – solange jemand zu diesem Projekt beiträgt, kann es weiterleben.',
 
-    'about.faq.q6': 'Wie kann ich beitragen? Geht das auch ohne Programmierkenntnisse?',
+    'about.faq.q6':
+      'Wie kann ich beitragen? Geht das auch ohne Programmierkenntnisse?',
     'about.faq.a6.html':
       'Auf jeden Fall. Der wertvollste Beitrag besteht nicht im Programmieren, sondern in deinem Wissen über Taiwan: <strong>Korrekturlesen</strong> (Fehler melden), <strong>Artikel schreiben</strong> (über vertraute Themen in Markdown schreiben), <strong>Übersetzen</strong> (Englisch/Japanisch/Spanisch), <strong>Quellen beisteuern</strong> (du kennst eine bessere Quelle? Sag uns Bescheid) und <strong>Teilen</strong> (gute Artikel weiterverbreiten). Den genauen Ablauf findest du unter <a href="/contribute/">So kannst du beitragen</a>.',
 
@@ -4830,7 +4867,8 @@ export const aboutUI = {
     'about.faq.a8.html':
       'Taiwan.md verwendet das vom Historiker Tsao Yung-ho entwickelte Konzept der „<a href="/history/%E5%8F%B0%E7%81%A3%E5%B3%B6%E5%8F%B2%E8%A7%80/">Geschichte der Insel Taiwan</a>“ als grundlegenden Erzählrahmen: Die „Insel Taiwan“ selbst ist das Subjekt der Geschichte, nicht die Perspektive einer einzelnen Herrschaftsmacht. Regime treten nacheinander wie Schauspieler auf, doch die Insel bleibt die Bühne. Dieser Ansatz bewahrt uns davor, in den binären Gegensatz von Unabhängigkeit und Vereinigung zu geraten. So können wir vielfältige Perspektiven auf Grundlage wissenschaftlicher Forschung nebeneinanderstellen, ohne uns in polemischen Auseinandersetzungen zu verlieren.',
 
-    'about.faq.q9': 'Ist eine kommerzielle Nutzung erlaubt? Welche Lizenz gilt?',
+    'about.faq.q9':
+      'Ist eine kommerzielle Nutzung erlaubt? Welche Lizenz gilt?',
     'about.faq.a9.html':
       'Die Inhalte von Taiwan.md stehen unter der Lizenz <strong>CC BY-SA 4.0</strong> – sie dürfen frei geteilt, bearbeitet und kommerziell genutzt werden, sofern die Quelle genannt wird (Attribution) und Bearbeitungen unter derselben Lizenz veröffentlicht werden (Share Alike). Für den Programmcode gilt die MIT License.',
 
@@ -4863,7 +4901,7 @@ export const aboutUI = {
       '令人驚訝的是，taiwan.md 這個域名居然沒有人搶先買下。或許是宇宙在告訴我們，這件事該做了。',
 
     // Stats
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': '頁面',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': '國家',
@@ -5325,7 +5363,7 @@ export const aboutUI = {
     'about.naming.lucky.title': 'Une heureuse coïncidence',
     'about.naming.lucky.desc':
       "Étonnamment, personne n'avait encore revendiqué le domaine taiwan.md. Peut-être que l'univers nous disait qu'il était temps de le réaliser.",
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'Pages',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Pays',
@@ -5746,7 +5784,7 @@ export const aboutUI = {
     'about.naming.lucky.title': 'Una Coincidencia Afortunada',
     'about.naming.lucky.desc':
       'Sorprendentemente, nadie había reclamado aún el dominio taiwan.md. Quizás el universo nos decía que era el momento de hacer esto realidad.',
-    'about.stats.pages.number': '1118+',
+    'about.stats.pages.number': '1119+',
     'about.stats.pages.label': 'Páginas',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Países',

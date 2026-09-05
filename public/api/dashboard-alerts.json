@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-05T18:13:37.383Z",
+  "lastUpdated": "2026-09-05T22:14:12.816Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 2,
+  "count": 1,
   "alerts": [
     {
       "id": "immune-status",
@@ -11,14 +11,6 @@
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
-    },
-    {
-      "id": "memory-index-rows",
-      "severity": "yellow",
-      "message": "MEMORY.md 索引 inline 90 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
-      "source": "MEMORY.md",
-      "owner": "twmd-distill-weekly",
-      "firstSeen": "2026-09-04"
     }
   ]
 }

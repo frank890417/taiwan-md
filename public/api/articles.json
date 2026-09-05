@@ -2722,7 +2722,7 @@
       "城市發展"
     ],
     "url": "https://taiwan.md/economy/%E4%B8%AD%E5%A3%A2",
-    "readingTime": 44,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-08-21",
     "path": "Economy/中壢.md"
@@ -3910,7 +3910,7 @@
     "category": "Culture",
     "tags": [],
     "url": "https://taiwan.md/culture/%E5%85%89%E8%8F%AF%E9%9B%9C%E8%AA%8C",
-    "readingTime": 28,
+    "readingTime": 31,
     "featured": false,
     "date": "2026-08-27",
     "path": "Culture/光華雜誌.md"
@@ -4034,7 +4034,7 @@
       "藝術"
     ],
     "url": "https://taiwan.md/art/%E5%8F%B0%E4%B8%AD%E5%9C%8B%E5%AE%B6%E6%AD%8C%E5%8A%87%E9%99%A2",
-    "readingTime": 28,
+    "readingTime": 29,
     "featured": false,
     "date": "2026-08-17",
     "path": "Art/台中國家歌劇院.md"
@@ -7893,7 +7893,7 @@
       "雄獅旅遊"
     ],
     "url": "https://taiwan.md/lifestyle/%E5%8F%B0%E9%90%B5%E9%B3%B4%E6%97%A5%E8%99%9F",
-    "readingTime": 16,
+    "readingTime": 17,
     "featured": false,
     "date": "2026-08-17",
     "path": "Lifestyle/台鐵鳴日號.md"
@@ -8148,6 +8148,24 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "Nature/台灣山岳與登山文化.md"
+  },
+  {
+    "title": "台灣不在籍投票：返鄉成本看得見，信任成本更難算",
+    "description": "台灣多數選民仍須回戶籍地投票，但選務人員已有有限工作地投票，2026 年地方選舉也將實施原住民投票新制。從九合一選舉預估 8,896 種選舉票，到郵寄、移轉與提前投票的不同風險，這篇拆解不在籍投票如何降低返鄉門檻，又為何必須重新建立選票保管、秘密投票與公開開票的信任，並比較一條可公開驗證的漸進路線。",
+    "category": "Politics",
+    "tags": [
+      "不在籍投票",
+      "移轉投票",
+      "選舉制度",
+      "投票權",
+      "中選會",
+      "原住民族"
+    ],
+    "url": "https://taiwan.md/politics/%E5%8F%B0%E7%81%A3%E4%B8%8D%E5%9C%A8%E7%B1%8D%E6%8A%95%E7%A5%A8",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-09-01",
+    "path": "Politics/台灣不在籍投票.md"
   },
   {
     "title": "台灣中小企業與隱形冠軍：171萬家平凡無奇企業撐起的經濟奇蹟",
@@ -8999,20 +9017,9 @@
     "title": "台灣吉祥物：從大同寶寶的贈品，到地方角色的全域出場",
     "description": "從 1969 年大同寶寶、喔熊與熊讚，到高雄捷運、貓裏喵、Tiger Duck、堤蒙與菜奇鴨，台灣吉祥物如何承載地方記憶、交通場景、校園認同、足球情緒與企業 IP；一隻角色真正的考題，是能否離開立牌，進入人的生活。",
     "category": "Lifestyle",
-    "tags": [
-      "吉祥物",
-      "喔熊",
-      "熊讚",
-      "菜奇鴨",
-      "夜奇鴨",
-      "高雄捷運",
-      "貓裏喵",
-      "Tiger Duck",
-      "堤蒙",
-      "魚頭君"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/lifestyle/%E5%90%89%E7%A5%A5%E7%89%A9",
-    "readingTime": 37,
+    "readingTime": 39,
     "featured": false,
     "date": "2026-04-21",
     "path": "Lifestyle/吉祥物.md"
@@ -10377,7 +10384,7 @@
       "素食餐廳"
     ],
     "url": "https://taiwan.md/food/%E5%8F%B0%E7%81%A3%E7%B4%A0%E9%A3%9F%E6%96%87%E5%8C%96",
-    "readingTime": 12,
+    "readingTime": 13,
     "featured": false,
     "date": "2026-03-19",
     "path": "Food/台灣素食文化.md"
@@ -10414,7 +10421,7 @@
       "珍珠奶茶"
     ],
     "url": "https://taiwan.md/food/%E8%8C%B6%E6%96%87%E5%8C%96",
-    "readingTime": 11,
+    "readingTime": 12,
     "featured": false,
     "date": "2026-03-23",
     "path": "Food/茶文化.md"
@@ -11072,7 +11079,7 @@
       "微生物"
     ],
     "url": "https://taiwan.md/food/%E5%8F%B0%E7%81%A3%E7%99%BC%E9%85%B5%E9%A3%9F%E5%93%81%E8%88%87%E9%86%83%E8%A3%BD%E6%96%87%E5%8C%96",
-    "readingTime": 15,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-18",
     "path": "Food/台灣發酵食品與醃製文化.md"
@@ -11407,7 +11414,7 @@
       "社區韌性"
     ],
     "url": "https://taiwan.md/society/%E7%BE%A9%E6%B6%88",
-    "readingTime": 29,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-08-21",
     "path": "Society/義消.md"
@@ -14440,17 +14447,9 @@
     "title": "吳鳳傳說：一個地方故事如何被寫成帝國的教科書",
     "description": "1855 年《海音詩》留下目前所見最早的吳鳳書面記錄，但那還不是後來課本裡的完美義人。日治時期，總督府把嘉義沿山的地方傳說改寫、立碑、編入教科書，吳鳳才成為跨地域的道德英雄；故事被放大的同時，鄒族也被固定成等待教化的「他者」。",
     "category": "History",
-    "tags": [
-      "History",
-      "吳鳳",
-      "阿里山",
-      "鄒族",
-      "日治時期",
-      "殖民教育",
-      "原住民族運動"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/history/%E5%90%B3%E9%B3%B3%E5%82%B3%E8%AA%AA",
-    "readingTime": 28,
+    "readingTime": 29,
     "featured": false,
     "date": "2026-08-16",
     "path": "History/吳鳳傳說.md"
@@ -15391,7 +15390,7 @@
       "飲食文化"
     ],
     "url": "https://taiwan.md/food/%E8%B1%86%E8%8A%B1",
-    "readingTime": 25,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-08-16",
     "path": "Food/豆花.md"
@@ -17306,7 +17305,7 @@
       "文化空間"
     ],
     "url": "https://taiwan.md/art/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-22",
     "path": "Art/金馬賓館當代美術館.md"
@@ -18080,17 +18079,7 @@
     "title": "洪倪：從芳苑圖書館到哈哈台街頭，三個名字共用一支筆",
     "description": "1996 年生於彰化海線、在芳苑長大的洪婕倪，平日以「傑尼」在哈哈台做街訪，寫作時以「洪倪」整理家庭、北漂、麵包學徒與成長。從〈西瓜甜不甜〉到《賣瓜的人》，三個名字之間藏著一位創作者把公共工作與私密文字放在同一張生活地圖上的方法。",
     "category": "People",
-    "tags": [
-      "洪倪",
-      "洪婕倪",
-      "傑尼",
-      "洪媽倪",
-      "哈哈台",
-      "散文",
-      "彰化海線",
-      "林榮三文學獎",
-      "出版與媒體"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/people/%E6%B4%AA%E5%A9%95%E5%80%AA",
     "readingTime": 21,
     "featured": false,
@@ -18453,19 +18442,7 @@
     "title": "苗栗縣：客家硬頸的縣，用八年選出讓縣庫翻倍負債的縣長",
     "description": "日治苗栗樟腦佔全台 95%，三義用煉樟樹頭起家做木雕。2002 年公館北河村辦了第一次桐花祭。2008 年劉政鴻接下 202 億負債的縣，2014 年離任時帳面 676 億。中間發生過朱馮敏喝農藥、張藥房強拆、客家圓樓 1.2 億蓋成蚊子館。今天 53 萬人住在這個 62.5% 客家比例全台第二高的縣裡。",
     "category": "Geography",
-    "tags": [
-      "苗栗",
-      "苗栗縣",
-      "客家",
-      "客家文化",
-      "大埔事件",
-      "三義木雕",
-      "油桐花",
-      "賽夏族",
-      "矮靈祭",
-      "劉政鴻",
-      "22縣市系列"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/geography/%E8%8B%97%E6%A0%97%E7%B8%A3",
     "readingTime": 61,
     "featured": false,
@@ -19189,20 +19166,7 @@
     "title": "桃園市：台灣的進出口、最多的客家人、最多的移工，全在這塊台地上",
     "description": "1977 年 11 月 19 日傍晚，上萬民眾包圍中壢分局，警方開槍打死中央大學學生江文國跟 19 歲張治平，許信良以 23 萬比 14 萬高票當選桃園縣長。一年三個月後，1979 年 2 月 26 日中正國際機場啟用，台灣的對外大門從基隆港搬到這片台地。2014 年 12 月 25 日，桃園升格成第六都，是六都裡最後一個。今天 235 萬人住在這 1,221 平方公里的台地上，客家逾八十萬全國最多，移工 13 萬 2,158 人也全國最多。桃園是台灣最多元的邊界。",
     "category": "Geography",
-    "tags": [
-      "桃園",
-      "桃園市",
-      "北部",
-      "機場",
-      "客家",
-      "中壢事件",
-      "石門水庫",
-      "大溪老街",
-      "埤塘",
-      "移工",
-      "泰雅族",
-      "22縣市系列"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/geography/%E6%A1%83%E5%9C%92%E5%B8%82",
     "readingTime": 57,
     "featured": false,
@@ -19239,7 +19203,7 @@
       "生態"
     ],
     "url": "https://taiwan.md/geography/%E6%A1%83%E5%9C%92%E5%9F%A4%E5%A1%98",
-    "readingTime": 24,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-08-23",
     "path": "Geography/桃園埤塘.md"
@@ -19592,7 +19556,7 @@
       "食品安全"
     ],
     "url": "https://taiwan.md/food/%E8%8C%B6%E8%91%89%E8%9B%8B",
-    "readingTime": 21,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-08-24",
     "path": "Food/茶葉蛋.md"
@@ -19877,23 +19841,7 @@
     "title": "高雄市：1979 升格直轄市那一年，台北的監獄裡關著八個高雄人",
     "description": "1979 年 7 月 1 日高雄升格為台灣第二個直轄市，12 月 10 日世界人權日，美麗島雜誌社在大港埔圓環的演講變成催淚瓦斯下的衝突。八人被判刑，1980 年 2 月 28 日林義雄台北信義路的家裡傳出血案。同一個 1979 年，高雄拿到了行政光榮，也吞下了戰後台灣最重的政治壓制。271 萬人散在 38 區裡，旗津沙洲、那瑪夏布農族部落、中鋼煙囪、衛武營鋁合金屋頂同住一個市，這座城市花了 45 年把傷口縫成自己的形狀。",
     "category": "Geography",
-    "tags": [
-      "高雄",
-      "高雄市",
-      "南部",
-      "直轄市",
-      "高雄港",
-      "美麗島事件",
-      "愛河",
-      "中鋼",
-      "衛武營",
-      "六合夜市",
-      "光之穹頂",
-      "美濃",
-      "那瑪夏",
-      "88風災",
-      "22縣市系列"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/geography/%E9%AB%98%E9%9B%84%E5%B8%82",
     "readingTime": 72,
     "featured": false,
@@ -21268,18 +21216,9 @@
     "title": "這群人：一起成名的七個人，怎麼走到必須分開的那一天",
     "description": "2011 年，展榮、展瑞與五位夥伴把表演默契搬上 YouTube。從《超瞎翻唱》到 357 萬訂閱，他們把日常拍成共同記憶，也把頻道做成一間需要分工、分潤與管理的小公司。2023 年宣布停更後，錢、疲累、平台轉向與個人發展終於同時浮上檯面。這是一段關於共同創作如何長成職業，又如何需要重新拆分的台灣網路史。",
     "category": "People",
-    "tags": [
-      "這群人",
-      "TGOP",
-      "YouTuber",
-      "網紅團體",
-      "YouTube",
-      "短影音",
-      "自媒體",
-      "創作者經濟"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/people/%E9%80%99%E7%BE%A4%E4%BA%BA",
-    "readingTime": 24,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-08-17",
     "path": "People/這群人.md"
@@ -23092,22 +23031,7 @@
     "title": "雲林縣：宜蘭選擇不要的，雲林用三十年的肺換下來",
     "description": "1987 年 12 月 13 日陳定南在華視棚內把六輕擋出宜蘭，1991 年 6 月 26 日行政院核定六輕轉到雲林麥寮外海，1994 年 7 月正式動工，1998 年一期開爐，至今填海 2,255 公頃。2011 年台大公衛詹長權團隊發現六輕周邊 10 公里居民癌症發生率是全台 1.29 倍。但同一個縣裡，1694 年清康熙 33 年北港朝天宮已經拜了 332 年的媽祖，1953 年 1 月 28 日美援鋼材撐起 1,939 公尺的西螺大橋。一座縣同時是台灣最古老媽祖廟之一、最重要米倉、最大石化王國。",
     "category": "Geography",
-    "tags": [
-      "雲林",
-      "雲林縣",
-      "六輕",
-      "麥寮",
-      "北港朝天宮",
-      "媽祖",
-      "西螺大橋",
-      "西螺米",
-      "虎尾糖廠",
-      "古坑咖啡",
-      "陳定南",
-      "王永慶",
-      "濁水溪",
-      "22縣市系列"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/geography/%E9%9B%B2%E6%9E%97%E7%B8%A3",
     "readingTime": 64,
     "featured": false,
@@ -23769,22 +23693,7 @@
     "title": "新北市：包圍台北的環狀都會，401 萬人撐起首都的通勤、工業跟記憶",
     "description": "淡水紅毛城從 1628 年西班牙人砌下第一塊磚開始，已經 398 年。比 1875 年沈葆楨設台北府早 247 年。今天新北市 29 區包圍台北市 12 區，401 萬人住在這座全台最大的直轄市裡，39 萬人跨縣市通勤到台北上班。但這座「環狀都會」不是台北的睡眠城——它有 1853 年板橋林家、1869 年從淡水出去的烏龍茶賣到紐約、1890 年代亞洲第一金礦九份金瓜石、1929 年運煤的平溪鐵路、1947 年李梅樹開始的三峽祖師廟雕刻、烏來泰雅族德拉楠部落。新北是台灣 400 年的縮影，剛好不在台北市裡。",
     "category": "Geography",
-    "tags": [
-      "新北",
-      "新北市",
-      "北部",
-      "板橋",
-      "淡水",
-      "九份",
-      "金瓜石",
-      "三峽",
-      "鶯歌",
-      "烏來",
-      "平溪",
-      "貢寮",
-      "環狀都會",
-      "22縣市系列"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/geography/%E6%96%B0%E5%8C%97%E5%B8%82",
     "readingTime": 86,
     "featured": false,
@@ -23870,24 +23779,7 @@
     "title": "新竹市：1733 年種竹為城的竹塹，1980 年長出台積電的搖籃",
     "description": "1733 年雍正十一年，淡水同知徐治民在四週遍植莿竹，圍出 1408 公尺的圓形土城。1829 年磚石城落成，東門迎曦門至今還站在護城河旁。247 年後，1980 年 12 月 15 日，蔣經國在距離迎曦門 5 公里的地方剪下台灣第一座科學園區的紅綵。1953 到 1974 年之間，黑蝙蝠中隊 148 人從這座風城起飛去偵察中國大陸，再也沒回來。45 萬人住的省轄市，撐起冷戰前線、北部最早建城、兩所頂尖大學、跟全球半導體 90% 高階晶片的起點。風城這個綽號很文學，但這座城裡所有產業都跟風有關。",
     "category": "Geography",
-    "tags": [
-      "新竹",
-      "新竹市",
-      "北部",
-      "風城",
-      "竹塹城",
-      "迎曦門",
-      "黑蝙蝠中隊",
-      "新竹科學園區",
-      "台積電",
-      "城隍廟",
-      "米粉",
-      "貢丸",
-      "玻璃工藝",
-      "清華大學",
-      "陽明交通大學",
-      "22縣市系列"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/geography/%E6%96%B0%E7%AB%B9%E5%B8%82",
     "readingTime": 56,
     "featured": false,
@@ -23945,7 +23837,7 @@
       "文化資產"
     ],
     "url": "https://taiwan.md/culture/%E6%96%B0%E7%AB%B9%E9%83%BD%E5%9F%8E%E9%9A%8D%E5%BB%9F",
-    "readingTime": 29,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-08-24",
     "path": "Culture/新竹都城隍廟.md"
@@ -24167,7 +24059,7 @@
       "阿美族"
     ],
     "url": "https://taiwan.md/people/%E6%A5%8A%E5%82%B3%E5%BB%A3",
-    "readingTime": 17,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-19",
     "path": "People/楊傳廣.md"
@@ -26290,17 +26182,9 @@
     "title": "蔡黑皮：那個背著捷運站名長大的男孩，把台灣裝進了 26 萬人的訂閱",
     "description": "2002 年出生的蔡覲安，從高中自學拍「捷運冷知識」起家，十二年後站上被稱為「交通界奧斯卡」的金路獎頒獎台。他改名、停更、再出發，一手包辦資料、地圖與剪輯，是台灣知識型創作者長期主義的樣本。",
     "category": "People",
-    "tags": [
-      "YouTuber",
-      "交通",
-      "知識型創作者",
-      "蔡覲安",
-      "金路獎",
-      "台灣地理",
-      "鐵道"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/people/%E8%94%A1%E9%BB%91%E7%9A%AE",
-    "readingTime": 47,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-08-19",
     "path": "People/蔡黑皮.md"
@@ -26933,7 +26817,7 @@
       "蝦湯"
     ],
     "url": "https://taiwan.md/food/%E6%93%94%E4%BB%94%E9%BA%B5",
-    "readingTime": 16,
+    "readingTime": 17,
     "featured": false,
     "date": "2026-08-18",
     "path": "Food/擔仔麵.md"
@@ -34889,13 +34773,7 @@
     "title": "Chen Cheng-po",
     "description": "Er eroberte mit Ölgemälden die Kaiserliche Kunstausstellung in Tokio – und wurde vor dem Bahnhof von Chiayi erschossen. Und was die Welt von ihm wissen ließ, war oft der Tod, nicht die Bilder.",
     "category": "de",
-    "tags": [
-      "Kunst",
-      "Malerei",
-      "228-Zwischenfall",
-      "Chiayi",
-      "Japanische Kolonialzeit"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/de/people/chen-cheng-po",
     "readingTime": 74,
     "featured": false,
@@ -52169,15 +52047,7 @@
     "title": "Jensen Huang",
     "description": "Von einem Internat in Kentucky zum Fünf-Billionen-Dollar-Imperium – wie ein Junge aus Tainan, der Toiletten putzte, auf eine Zukunft setzte, die erst zehn Jahre später eintreffen würde.",
     "category": "de",
-    "tags": [
-      "Jensen Huang",
-      "NVIDIA",
-      "KI",
-      "Halbleiter",
-      "Technologie",
-      "Tainan",
-      "GPU"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/de/people/jensen-huang",
     "readingTime": 107,
     "featured": true,
@@ -60851,13 +60721,7 @@
     "title": "Lim Giong: Vom Bahnsteig von „Vorwärts“ zu den Goldenen Pferden – dreißig Jahre Flucht des taiwanesischen Rockrebellen",
     "description": "Am 7. Dezember 1990 verwandelte der 26-jährige Lin Chih-feng aus Changhua mit „Vorwärts“ (向前走) den taiwanesischsprachigen Song vom Klageton in Rock; drei Jahre später sang er fast nicht mehr. Von „Goodbye South, Goodbye“ bis „Der Killer“ (刺客聶隱娘): vier Goldene Pferde, ein Cannes-Soundtrack-Preis, der Nationale Kunstpreis 2018 – in dreißig Jahren faltete er seine Star-Identität zusammen und wurde zu dem Mann hinter Hou Hsiao-hsien und Jia Zhangke, der an den Synthesizern sitzt.",
     "category": "de",
-    "tags": [
-      "Musik",
-      "Elektronische Musik",
-      "Filmmusik",
-      "Klangkunst",
-      "Taiwanesisch"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/de/people/lim-giong",
     "readingTime": 64,
     "featured": false,
@@ -87753,7 +87617,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/yang-chuan-kwang-asian-iron-man",
-    "readingTime": 58,
+    "readingTime": 59,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/yang-chuan-kwang-asian-iron-man.md"

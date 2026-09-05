@@ -843,3 +843,8 @@
 {"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "write", "status": "staged", "source": "observed"}
 {"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "verify", "status": "done", "source": "observed"}
 {"ts": "2026-09-02T22:14:48Z", "slug": "台灣行動支付", "stage": "ship", "status": "done", "source": "observed", "sha": "a04b3d0c846f"}
+{"ts": "2026-09-05T22:14:13Z", "slug": "居住正義", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-09-05T22:14:13Z", "slug": "陳士駿", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-09-05T22:14:13Z", "slug": "台灣便利商店文化", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-09-05T22:14:13Z", "slug": "台灣高鐵", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-09-05T22:14:13Z", "slug": "inbox:/exams/ 學測專題 feature — merge #1453 後補站台區", "stage": "inbox", "status": "pending", "source": "observed"}

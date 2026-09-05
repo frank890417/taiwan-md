@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T22:13:58.052Z",
+  "lastUpdated": "2026-09-05T22:14:09.435Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,12 @@
       "score": 70,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 7,
-        "articlesLast30Days": 254,
-        "totalArticles": 1118
+        "articlesLast7Days": 9,
+        "articlesLast30Days": 256,
+        "totalArticles": 1119,
+        "selfProducedLast7Days": 0,
+        "selfProducedLast30Days": 5,
+        "contributedLast7Days": 9
       }
     },
     {
@@ -26,14 +29,14 @@
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 202,
-        "totalArticles": 1118,
+        "totalArticles": 1119,
         "humanReviewedPercent": 18.1,
         "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
           "review_coverage": 19.2,
           "plugin_pass_rate": 70.1,
           "plugin_health": 100,
-          "citation_density": 93.6,
+          "citation_density": 93.7,
           "tool_freshness": 60,
           "drift_velocity": 90,
           "external_rulers": 2.2
@@ -46,10 +49,10 @@
       "nameZh": "遺傳密碼",
       "metaphor": "品質基因",
       "emoji": "🧬",
-      "score": 80,
+      "score": 95,
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-08-27T05:54:38.000Z"
+        "editorialLastModified": "2026-09-05T09:28:09.000Z"
       }
     },
     {
@@ -71,7 +74,7 @@
       "score": 85,
       "trend": "stable",
       "metrics": {
-        "workflowCount": 11
+        "workflowCount": 12
       }
     },
     {
@@ -109,11 +112,11 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 83,
+      "score": 81,
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 1118,
+          "zh-TW": 1119,
           "en": 889,
           "ja": 886,
           "ko": 883,
@@ -127,7 +130,7 @@
           "ru": 784,
           "de": 84
         },
-        "translationPct": 83,
+        "translationPct": 81,
         "langHealthDetails": {
           "en": {
             "ui": {
@@ -145,7 +148,7 @@
             },
             "articles": {
               "count": 889,
-              "pct": 80
+              "pct": 79
             },
             "score": 92
           },
@@ -351,23 +354,23 @@
           },
           "de": {
             "ui": {
-              "pct": 0
+              "pct": 100
             },
             "pages": {
-              "filled": 0,
+              "filled": 8,
               "total": 8,
-              "pct": 0
+              "pct": 100
             },
             "hubs": {
-              "filled": 0,
+              "filled": 13,
               "total": 12,
-              "pct": 0
+              "pct": 108
             },
             "articles": {
               "count": 84,
               "pct": 8
             },
-            "score": 3
+            "score": 65
           }
         }
       }

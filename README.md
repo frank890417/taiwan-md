@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **1118 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 13,416 article-versions
+- 📖 **1119 curated articles** (zh-TW SSOT) across 14 categories — projected to **13 languages** = 14,547 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский + Deutsch — 13 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL；2026-09-05 de 出生)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,8 +95,8 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 1118  |
-| 🇹🇼 Chinese (zh-TW)             | 1118  |
+| 📄 Total articles (zh-TW SSOT) | 1119  |
+| 🇹🇼 Chinese (zh-TW)             | 1119  |
 | 🇺🇸 English (en)                | 891   |
 | 🇯🇵 日本語 (ja)                 | 888   |
 | 🇰🇷 한국어 (ko)                 | 885   |
@@ -108,14 +108,15 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🇮🇳 हिन्दी (hi)                 | 674   |
 | 🇸🇦 العربية (ar)                | 756   |
 | 🇷🇺 Русский (ru)                | 786   |
+| 🌐 Deutsch (de)                | 84    |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
-| ⭐ GitHub Stars                | 1166  |
+| ⭐ GitHub Stars                | 1167  |
 | 🍴 Forks                       | 185   |
-| 📅 Articles last 7 days        | 7     |
-| 📅 Articles last 30 days       | 254   |
+| 📅 Articles last 7 days        | 9     |
+| 📅 Articles last 30 days       | 256   |
 
 <!-- STATS:END -->
 

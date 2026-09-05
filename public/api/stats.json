@@ -1,8 +1,8 @@
 {
-  "totalArticles": 10104,
+  "totalArticles": 10105,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7203,
+  "totalTags": 7129,
   "categories": [
     {
       "name": "es",
@@ -54,7 +54,7 @@
     },
     {
       "name": "Politics",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Society",
@@ -132,10 +132,14 @@
     },
     {
       "name": "YouTuber",
-      "count": 32
+      "count": 30
     },
     {
       "name": "民主化",
+      "count": 29
+    },
+    {
+      "name": "原住民族",
       "count": 29
     },
     {
@@ -147,10 +151,6 @@
       "count": 29
     },
     {
-      "name": "原住民族",
-      "count": 28
-    },
-    {
       "name": "AI",
       "count": 26
     },
@@ -160,10 +160,6 @@
     },
     {
       "name": "文化",
-      "count": 25
-    },
-    {
-      "name": "客家",
       "count": 25
     },
     {
@@ -193,18 +189,22 @@
     {
       "name": "音樂",
       "count": 23
+    },
+    {
+      "name": "客家",
+      "count": 23
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10104,
+    "zh-TW": 10105,
     "en": 0
   },
-  "lastUpdated": "2026-09-04T22:13:41.650Z",
-  "stars": 1166,
+  "lastUpdated": "2026-09-05T22:13:52.137Z",
+  "stars": 1167,
   "forks": 185,
-  "zhPages": 1118,
+  "zhPages": 1119,
   "languagePages": {
-    "zh-TW": 1118,
+    "zh-TW": 1119,
     "en": 891,
     "ja": 888,
     "ko": 885,
@@ -215,8 +215,9 @@
     "pt": 850,
     "hi": 674,
     "ar": 756,
-    "ru": 786
+    "ru": 786,
+    "de": 84
   },
   "enPages": 891,
-  "totalPages": 1118
+  "totalPages": 1119
 }

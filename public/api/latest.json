@@ -1,8 +1,35 @@
 {
-  "_generated": "2026-09-04T22:14:10.961Z",
+  "_generated": "2026-09-05T22:14:22.355Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "楊傳廣：台東部落、羅馬銀牌，9121分世界紀錄的亞洲鐵人",
+        "desc": "1933年7月10日生於台東馬蘭阿美族部落，楊傳廣是台灣第一位奧運獎牌得主。1960年羅馬奧運十項全能以8334分奪銀，1963年以9121分刷新世界紀錄、撐竿跳4.83米迫使國際田聯修改計分標準。2007年1月27日於美國加州中風過世，享壽73歲。2025年4月，文化部列為國寶。",
+        "category": "people",
+        "href": "/people/%E6%A5%8A%E5%82%B3%E5%BB%A3",
+        "date": "2026-09-05T17:56:15+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "台灣棒球文化",
+        "desc": "從紅葉少棒的傳奇到中華職棒的淚與汗——棒球如何成為台灣的「國球」",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E6%96%87%E5%8C%96",
+        "date": "2026-09-05T17:28:09+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "台灣吉祥物：從大同寶寶的贈品，到地方角色的全域出場",
+        "desc": "從 1969 年大同寶寶、喔熊與熊讚，到高雄捷運、貓裏喵、Tiger Duck、堤蒙與菜奇鴨，台灣吉祥物如何承載地方記憶、交通場景、校園認同、足球情緒與企業 IP；一隻角色真正的考題，是能否離開立牌，進入人的生活。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%90%89%E7%A5%A5%E7%89%A9",
+        "date": "2026-09-05T17:28:09+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
       {
         "title": "陳思宏：從永靖逃到柏林，卻一直被故鄉追上的作家",
         "desc": "他用二十多年逃離彰化永靖，卻在柏林與世界的距離裡，寫回家庭、性別、身體與那些不肯消失的故鄉。",
@@ -29,6 +56,15 @@
         "date": "2026-09-02T00:58:27+08:00",
         "readingTime": null,
         "image": "/article-images/technology/taiwan-mobile-payments-merchant-2026.webp"
+      },
+      {
+        "title": "台灣不在籍投票：返鄉成本看得見，信任成本更難算",
+        "desc": "台灣多數選民仍須回戶籍地投票，但選務人員已有有限工作地投票，2026 年地方選舉也將實施原住民投票新制。從九合一選舉預估 8,896 種選舉票，到郵寄、移轉與提前投票的不同風險，這篇拆解不在籍投票如何降低返鄉門檻，又為何必須重新建立選票保管、秘密投票與公開開票的信任，並比較一條可公開驗證的漸進路線。",
+        "category": "politics",
+        "href": "/politics/%E5%8F%B0%E7%81%A3%E4%B8%8D%E5%9C%A8%E7%B1%8D%E6%8A%95%E7%A5%A8",
+        "date": "2026-09-01T16:32:55+08:00",
+        "readingTime": 12,
+        "image": ""
       },
       {
         "title": "張忠謀",
@@ -64,7 +100,7 @@
         "href": "/geography/%E5%8D%97%E6%8A%95%E7%B8%A3",
         "date": "2026-08-27T13:44:07+08:00",
         "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG"
+        "image": "/article-images/geography/sun-moon-lake-twilight.webp"
       },
       {
         "title": "台東縣：兩個離島，一個關了三十六年政治犯，一個存了四十二年核廢料",
@@ -73,7 +109,7 @@
         "href": "/geography/%E5%8F%B0%E6%9D%B1%E7%B8%A3",
         "date": "2026-08-27T13:44:07+08:00",
         "readingTime": 15,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Taitung_County_Montage.png/800px-Taitung_County_Montage.png"
+        "image": "/article-images/geography/taitung-county-montage.webp"
       },
       {
         "title": "嘉義市：被皇帝賜名嘉義，卻成了最容易被略過的省轄市",
@@ -109,7 +145,7 @@
         "href": "/geography/%E8%8A%B1%E8%93%AE%E7%B8%A3",
         "date": "2026-08-27T13:44:07+08:00",
         "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg"
+        "image": "/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp"
       },
       {
         "title": "蛋撻：從澳門修道院到台灣「一窩蜂」的集體記憶",
@@ -172,7 +208,7 @@
         "href": "/geography/%E7%8E%89%E5%B1%B1%E6%B0%A3%E8%B1%A1%E7%AB%99",
         "date": "2026-08-27T12:08:11+08:00",
         "readingTime": 20,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Yushan_Weather_Station.jpg"
+        "image": "/article-images/geography/yushan-weather-station.webp"
       },
       {
         "title": "國家圖書館：一座圖書館如何把島嶼的出版物保存成國家的記憶",
@@ -181,7 +217,7 @@
         "href": "/culture/%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8",
         "date": "2026-08-27T12:08:11+08:00",
         "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ROC_National_Central_Library_headquarters_20090801.jpg/1280px-ROC_National_Central_Library_headquarters_20090801.jpg"
+        "image": "/article-images/culture/roc-national-central-library-building-2009.webp"
       },
       {
         "title": "蒼藍鴿：把白袍的距離搬到鏡頭前",
@@ -235,46 +271,55 @@
         "href": "/food/%E8%8C%B6%E8%91%89%E8%9B%8B",
         "date": "2026-08-27T11:35:39+08:00",
         "readingTime": 10,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tea_egg%2C_Taiwan.JPG"
+        "image": "/article-images/food/tea-egg-taiwan.webp"
+      }
+    ],
+    "en": [
+      {
+        "title": "Yang Chuan-kwang: Taitung Tribal Community, Rome Silver Medal, and the Asian Iron Man Who Forced the IAAF to Rewrite Its Rules",
+        "desc": "Born July 10, 1933, in the Malan Amis tribal community of Taitung, Yang Chuan-kwang was Taiwan's first Olympic medalist. He won silver in the decathlon at the 1960 Rome Olympics with 8,334 points. In 1963 he broke the world record with 9,121 points, and his pole vault of 4.83 meters forced the International Amateur Athletic Federation (IAAF) to revise its scoring standards. He died of a stroke in California, United States, on January 27, 2007, at age 73. In April 2025, he was designated a national treasure by the Ministry of Culture.",
+        "category": "people",
+        "href": "/en/people/yang-chuan-kwang-asian-iron-man",
+        "date": "2026-09-05T17:56:15+08:00",
+        "readingTime": 7,
+        "image": ""
       },
       {
-        "title": "樂生療養院：一座被隔離的家，如何變成台灣醫療人權的現場",
-        "desc": "1930 年成立的樂生療養院，曾是台灣唯一的公立漢生病隔離醫院。從強制隔離、院民自立生活，到捷運機廠開發引發的保存運動，這座山坡上的聚落見證公共衛生、疾病污名、居住權與文化資產如何交纏。文章梳理日治到戰後的醫療政策、院民如何把隔離空間生活化，以及保存運動為何不只是老建築拆不拆的爭論。",
-        "category": "geography",
-        "href": "/geography/%E6%A8%82%E7%94%9F%E7%99%82%E9%A4%8A%E9%99%A2",
-        "date": "2026-08-27T11:35:31+08:00",
+        "title": "Taiwan Baseball Culture",
+        "desc": "From the Legend of the Red Leaf Little League to the Tears and Sweat of the CPBL — How Baseball Became Taiwan's \"National Sport\"",
+        "category": "culture",
+        "href": "/en/culture/taiwan-baseball-culture",
+        "date": "2026-09-05T17:28:09+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "Chou Tien-chen: Taiwan’s Badminton Pioneer and World No. 2 Veteran",
+        "desc": "Overcoming a 10-match losing streak, appendicitis, and cancer, Chou Tien-chen reached world No. 2, elevating Taiwanese badminton through unmatched rally discipline.",
+        "category": "people",
+        "href": "/en/people/chou-tien-chen-badminton",
+        "date": "2026-09-05T17:28:09+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "Wang Chi-lin and Lee Yang (The Lin-Yang Duo)",
+        "desc": "From middle school classmates to Olympic gold: The Lin-Yang Duo defeated China in straight sets within 34 minutes, winning Taiwan's first-ever Olympic gold medal in badminton",
+        "category": "people",
+        "href": "/en/people/lin-yang-duo-taiwan-badminton-champions",
+        "date": "2026-09-05T17:28:09+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "桃園埤塘：一座台地如何把雨水變成生活",
-        "desc": "從斷頭河、紅土台地到桃園大圳與石門水庫，這篇文章帶你理解桃園埤塘如何成為分散式蓄水系統，也如何在灌溉現代化、農地重劃、都市開發、生態保育與地方記憶之間持續轉型。文章整理桃園台地的自然條件、埤塘與水圳的空間關係、歷史數量變化，以及今日保存與再利用所面對的實際選擇。",
-        "category": "geography",
-        "href": "/geography/%E6%A1%83%E5%9C%92%E5%9F%A4%E5%A1%98",
-        "date": "2026-08-27T11:35:24+08:00",
-        "readingTime": 10,
-        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2021%20Xiaoli%20Pond%20in%20Bade%20District%20Taoyuan%20ii.jpg"
-      },
-      {
-        "title": "館長：一間健身房如何長成一支政治麥克風",
-        "desc": "陳之漢以成吉思汗健身俱樂部創辦人「館長」成名，再用長時間直播把健身、商業與政治揉成同一個個人品牌。從早期反紅媒動員，到 2025 年以和平大使身分赴中直播，這條路線如何被描述，仍需要把人物自述、媒體報導、官方說法與觀眾解讀分開保存。",
-        "category": "people",
-        "href": "/people/%E9%A4%A8%E9%95%B7%E9%99%B3%E4%B9%8B%E6%BC%A2",
-        "date": "2026-08-27T11:35:07+08:00",
+        "title": "Bowling: From US Military Clubs to Six Gold Medals at the Bangkok Asian Games—The Rise, Fall, and Afterglow of Taiwan's UFO Ball",
+        "desc": "In the 1990s, bowling was Taiwan's most craze-inducing national sport. Using the self-invented \"UFO Ball\" technique, Taiwan swept six gold medals at the 1998 Bangkok Asian Games, with bowling alleys across Taiwan once exceeding 600 locations and daily revenues reaching 300,000 TWD.",
+        "category": "lifestyle",
+        "href": "/en/lifestyle/bowling",
+        "date": "2026-09-05T17:28:09+08:00",
         "readingTime": 10,
         "image": ""
       },
-      {
-        "title": "不是蓋幾棟房子而已：台灣社會住宅如何把居住正義變成長期公共制度",
-        "desc": "台灣的居住正義不只是房價高低，也包括租屋者能否取得穩定、可負擔、可近用且不受歧視的住所。本文回顧社會住宅從住宅法制、八年二十萬戶，到百萬租屋家庭支持計畫的制度演變，分析直接興建、包租代管與租金補貼三軌政策如何互補，以及租金分級、弱勢配額、地方執行、空屋活化、社區服務與資訊透明所面臨的治理課題。",
-        "category": "society",
-        "href": "/society/%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
-        "date": "2026-08-27T11:33:00+08:00",
-        "readingTime": 18,
-        "image": "/article-images/society/guang-jheng-social-housing-2025.webp"
-      }
-    ],
-    "en": [
       {
         "title": "Morris Chang",
         "desc": "The semiconductor godfather and founder of TSMC, a legendary entrepreneur who transformed the global technology industry with the foundry model.",
@@ -318,15 +363,6 @@
         "href": "/en/people/brigitte-lin-legendary-actress",
         "date": "2026-08-27T11:50:48+08:00",
         "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Chou Tien-chen: Taiwan’s Badminton Pioneer and World No. 2 Veteran",
-        "desc": "Overcoming a 10-match losing streak, appendicitis, and cancer, Chou Tien-chen reached world No. 2, elevating Taiwanese badminton through unmatched rally discipline.",
-        "category": "people",
-        "href": "/en/people/chou-tien-chen-badminton",
-        "date": "2026-08-27T11:50:48+08:00",
-        "readingTime": 14,
         "image": ""
       },
       {
@@ -508,42 +544,6 @@
         "date": "2026-07-30T23:35:43+08:00",
         "readingTime": 18,
         "image": "/article-images/society/yang-chuan-kwang-1960.webp"
-      },
-      {
-        "title": "The Reporter: Ten Years of Turning Investigative Journalism from a Line of Business into a Public Good",
-        "desc": "From 4 recurring donors to 8,000 each month, from the Blood-Stained Fishing Grounds trilogy to the 2026 united-front special report, the costs The Reporter has burned through over a decade--eight months undercover, reporting across three countries, comparing years of violation records--are exactly the things people least want to pay to read in the algorithmic age. Taiwan's civil society, through monthly deductions from strangers' accounts, has rescued investigative journalism from a line of business in commercial media and turned it into a public good that is constantly being sustained, even as it burns through resources ever faster.",
-        "category": "society",
-        "href": "/en/society/the-reporter-investigative-journalism",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/the-reporter-brand-logo.webp"
-      },
-      {
-        "title": "Taiwan's Top 50 Companies: The Sacred Mountain That Holds Up One Table, and Also Holds Up a Single-Point-of-Failure State",
-        "desc": "On May 19, 2026, TSMC alone accounted for 31.51% of the Taiwan Capitalization Weighted Stock Index and roughly 40% of the total market capitalization of Taiwan stocks; the top 50 companies together sustain an economy the size of one GDP, but one company among them has hijacked that GDP's fate. Electronics account for 36%, finance 25%, and traditional industries 10%; the so-called tripartite balance of electronics, finance, and traditional industries is in fact half a body held up by one electronics leg. From the night Jensen Huang and Morris Chang took a photo together at Ningxia Night Market, to the 32 lives lost on Kaixuan 3rd Road before dawn, this ranking is both Taiwan's irreplaceable spine and its most fragile single point of failure.",
-        "category": "economy",
-        "href": "/en/economy/top-50-companies-taiwan",
-        "date": "2026-07-30T23:35:43+08:00",
-        "readingTime": 18,
-        "image": "/article-images/economy/tsmc-factory-hsinchu-2009.webp"
-      },
-      {
-        "title": "Taiwan Healthcare and National Health Insurance: A World Number One Where 99.6% Rests on 12.61%",
-        "desc": "The National Health Insurance card used on March 1, 1995, was rushed out under extreme pressure: six days earlier, the cards had not even been printed. Thirty years later, the right to medical care for 23 million people rests on a 5.17% premium rate, a nursing turnover rate at a 10-year high of 12.61%, and a political taboo no one has dared touch for 30 years.",
-        "category": "lifestyle",
-        "href": "/en/lifestyle/taiwan-healthcare-and-national-health-insurance",
-        "date": "2026-07-30T09:46:44+09:00",
-        "readingTime": 22,
-        "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
-      },
-      {
-        "title": "Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years",
-        "desc": "During the Japanese period, Miaoli accounted for 95% of Taiwan's camphor output, and Sanyi built its woodcarving industry from the roots left after camphor refining. In 2002, Beihe Village in Gongguan held the first Tung Blossom Festival. In 2008, Liu Cheng-hung took over a county with NT$20.2 billion in debt; by the time he left office in 2014, the books showed NT$67.6 billion. In between came Zhu Feng-min drinking pesticide, the forced demolition of Chang Pharmacy, and the NT$120 million Hakka Round House becoming a mosquito hall. Today, 530,000 people live in this county, whose 62.5% Hakka population share is Taiwan's second highest.",
-        "category": "geography",
-        "href": "/en/geography/miaoli-county",
-        "date": "2026-07-30T04:02:34+08:00",
-        "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg"
       }
     ],
     "ja": [
@@ -2724,6 +2724,15 @@
     ],
     "ar": [
       {
+        "title": "موسوعة تايوان الكبرى: حلم المعرفة الوطني بخمسمئة مليون",
+        "desc": "في عام 2004، أطلقت تايوان أكبر مشروع معرفي في تاريخها «موسوعة تايوان الكبرى». انتقلت هذه الخطة من المخطط الكبير الأولي لوانغ رونغ-ون البالغ 1.4 مليار، إلى التنفيذ الفعلي بـ 520 مليون، مرت بثلاث مراحل تكرار للنظام وتطور في آليات الترخيص، وأُغلق الموقع المستقل نهائيًا في 2014. لم يكن هذا مجرد تاريخ للتحول التقني، بل كان تحولًا جذريًا في دور الدولة في العصر الرقمي: من «محددة النسخة الموثوقة» إلى «موفرة المواد المفتوحة».",
+        "category": "society",
+        "href": "/ar/society/encyclopedia-of-taiwan",
+        "date": "2026-09-05T20:34:30+08:00",
+        "readingTime": 20,
+        "image": ""
+      },
+      {
         "title": "طريق القوس: من المقاومة الشاركية إلى كوكب «وي وي».. الحب والحقوق",
         "desc": "في عام 2017، أمر محكمة القضاء رقم 748 حول تفسير قانون المدنية، فتفتح طريق التوحيد القانوني للشتات ذوات الجنس نفسه. من معركة جيش وي الوحيدة، إلى تربيات يي يونج تشي للتماثل الجنسي، إلى يوميات الحب واللينة للزوجين «وي وي»، كيف وصلت مجموعات LGBTQ+ في تايوان إلى كتابة فصل جديد من الحقوق والمساواة في آسيا؟",
         "category": "society",
@@ -2983,18 +2992,18 @@
         "date": "2026-07-31T00:55:37+08:00",
         "readingTime": 14,
         "image": "/article-images/people/lindgren-emu-2014.webp"
-      },
-      {
-        "title": "ستان شيه: من كشك بيض البط في لوكانغ، إلى علامة تجارية تسمى تايوان",
-        "desc": "في معرض إلكتروني في سان فرانسيسكو عام 1981، حاسوب صغير بغلاف بلاستيكي يُطوى مثل كتاب، جذب حوالي 20 موزعًا أمريكيًا للاستفسار عن حقوق التوزيع — كانت تلك المرة الأولى التي يلمس فيها العديد من التايوانيين \"حاسوبًا صُنع في تايوان\". صانع هذا الحاسوب، توفي والده بإرهاق العمل حين كان في الثالثة من عمره، وتربى على يد والدته التي باعت بيض البط، والقرطاسية، واليانصيب الوطني. جعل من أيسر (Acer) واحدة من أكبر خمس علامات تجارية للحاسوب الشخصي عالميًا، ورسم \"منحنى الابتسامة\" الذي دُرس في الكتب الأكاديمية، وهو من القلة في عالم التكنولوجيا التايوانية الذين وقفوا أمام الكاميرات ليقولوا: \"أنا أكبر الخاسرين\".",
-        "category": "people",
-        "href": "/ar/people/stan-shih",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/stanshih-taipei-2014.webp"
       }
     ],
     "ru": [
+      {
+        "title": "Энциклопедия Тайваня: национальный проект на 500 миллионов рублей",
+        "desc": "В 2004 году Тайвань запустил самый масштабный научный проект истории — «Энциклопедия Тайваня». Этот проект, начавшийся с первоначального грандиозного плана Рона Вонгмана на 1,4 миллиарда юаней, дошедший до фактических 520 миллионов юаней на исполнение, прошёл три этапа системной итерации и эволюции лицензий, в итоге был закрыт в 2014 году как независимый сайт. Это не только история технологической трансформации, но и глубокий переход нации в цифровую эпоху от «авторитетного издания» к «поставщику открытых материалов».",
+        "category": "society",
+        "href": "/ru/society/encyclopedia-of-taiwan",
+        "date": "2026-09-05T20:34:30+08:00",
+        "readingTime": 20,
+        "image": ""
+      },
       {
         "title": "Сакура-коу-су: путь домой ледникового наследия, от исчезновения к комплексной охране бассейна Тайваня — чудо",
         "desc": "1917 год, японский ученый Одама Масамити обнаружил в Тайване ледниковое наследие «Сакура-коу-су», тайя называют его «Mnbang». После разрушения среды обитания и резкого сокращения популяции до 200 особей в 1995 году, благодаря разрушению плотин, искусственному восстановлению и инновационной технологии «безводного транспортирования» к 2023 году число достигло 18 000 особей, в последние годы хотя и колеблется, но стабильно держится выше 15 000, став успешным примером комплексной охраны бассейна Тайваня.",
@@ -3255,15 +3264,278 @@
         "date": "2026-07-31T00:55:37+08:00",
         "readingTime": 8,
         "image": "/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp"
+      }
+    ],
+    "de": [
+      {
+        "title": "Chen Cheng-po",
+        "desc": "Er eroberte mit Ölgemälden die Kaiserliche Kunstausstellung in Tokio – und wurde vor dem Bahnhof von Chiayi erschossen. Und was die Welt von ihm wissen ließ, war oft der Tod, nicht die Bilder.",
+        "category": "people",
+        "href": "/de/people/chen-cheng-po",
+        "date": "2026-09-05T22:00:01+08:00",
+        "readingTime": null,
+        "image": ""
       },
       {
-        "title": "Cicada: шестнадцать лет полевых записей — от тайфуна «Моракот» 2009 года до переполюсных ледников 2025 года",
-        "desc": "Инструментальная независимая группа Cicada, основанная в Тайбэе в 2009 году, создаёт музыку без вокала. Основательница, пианистка Цзян Чжицзе (магистр истории искусства ТНУА), написала первые композиции под впечатлением от новостей о тайфуне «Моракот». В течение шестнадцати лет коллектив превратил исчезающие побережья Тайваня, морские экосистемы и горные русла в серию альбомов без единого слова — от западного побережья («Исчезающие границы», 2013) и тихоокеанского восточного берега («Взгляд на уровень моря», 2015) до источников Центрального хребта («Обитающие над руслами», 2022, 15 дней, 120 км экспедиции). Написали музыку к японскому фильму «Тот самый мужчина», получив премию Японской киноакадемии за лучшую музыку. В 2025 году альбом «Взгляд на белые границы» впервые вывел полевую работу за пределы Тайваня, следуя по ледникам через Гренландию, Исландию, Новую Зеландию и обратно к снежным горам в поисках следов древних ледников.",
+        "title": "Jensen Huang",
+        "desc": "Von einem Internat in Kentucky zum Fünf-Billionen-Dollar-Imperium – wie ein Junge aus Tainan, der Toiletten putzte, auf eine Zukunft setzte, die erst zehn Jahre später eintreffen würde.",
         "category": "people",
-        "href": "/ru/people/cicada-band",
-        "date": "2026-07-31T00:55:37+08:00",
-        "readingTime": 24,
-        "image": "/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp"
+        "href": "/de/people/jensen-huang",
+        "date": "2026-09-05T22:00:01+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/computex-jensen-huang-2016.webp"
+      },
+      {
+        "title": "Lim Giong: Vom Bahnsteig von „Vorwärts“ zu den Goldenen Pferden – dreißig Jahre Flucht des taiwanesischen Rockrebellen",
+        "desc": "Am 7. Dezember 1990 verwandelte der 26-jährige Lin Chih-feng aus Changhua mit „Vorwärts“ (向前走) den taiwanesischsprachigen Song vom Klageton in Rock; drei Jahre später sang er fast nicht mehr. Von „Goodbye South, Goodbye“ bis „Der Killer“ (刺客聶隱娘): vier Goldene Pferde, ein Cannes-Soundtrack-Preis, der Nationale Kunstpreis 2018 – in dreißig Jahren faltete er seine Star-Identität zusammen und wurde zu dem Mann hinter Hou Hsiao-hsien und Jia Zhangke, der an den Synthesizern sitzt.",
+        "category": "people",
+        "href": "/de/people/lim-giong",
+        "date": "2026-09-05T22:00:01+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Wu Ta-yu: Der Academia-Sinica-Präsident, der Yang Chen-ning und Lee Tsung-dao zum Studium in die USA schickte – elf Jahre, die Taiwans Forschung legten",
+        "desc": "Theoretischer Physiker und Präsident der Academia Sinica; er förderte die beiden Nobelpreisträger Yang Chen-ning und Lee Tsung-dao und legte als Lehrer einer Generation das Fundament der taiwanesischen Wissenschaft.",
+        "category": "people",
+        "href": "/de/people/tai-yu-wu",
+        "date": "2026-09-05T22:00:01+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "He Feipeng",
+        "desc": "Ein Medienprofi, der dem Markt acht Jahre voraus war, sieben Jahre in Folge Verluste machte und schließlich Taiwans größten Verlags- und Mediengruppenkonzern aufbaute.",
+        "category": "people",
+        "href": "/de/people/he-feipeng",
+        "date": "2026-09-03T14:52:40+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Yeh Bing-cheng",
+        "desc": "Professor für Elektrotechnik an der National Taiwan University (NTU), der aus Unzufriedenheit mit dem Auswendiglernen die gamifizierte Lernplattform PaGamO schuf und 2014 einen globalen Preis für Bildungsinnovation gewann.",
+        "category": "people",
+        "href": "/de/people/yeh-ping-cheng-education-innovator",
+        "date": "2026-09-03T14:47:27+08:00",
+        "readingTime": 5,
+        "image": ""
+      },
+      {
+        "title": "Taiwans Forstgeschichte: Vom Rohstoffraubbau zur Landessicherung – eine Wende über ein Jahrhundert",
+        "desc": "Vom Kampferrauch der späten Qing-Zeit über das Klingen der Stahlschienen in der japanischen Kolonialzeit bis zur großen Abholzungsära, die nach dem Krieg die Bergtäler erschütterte. Dieser Beitrag ordnet die globale geopolitische Logik hinter Taiwans Forstpolitik und klärt anhand von Daten, was in hundert Jahren Forstwirtschaft wirklich geschah.",
+        "category": "history",
+        "href": "/de/history/taiwan-forestry-history",
+        "date": "2026-08-29T22:19:01+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "Hsieh Su-wei: Hsinchu 1986, Taiwans erste Grand-Slam-Siegerin und sieben Frauen-Doppel-Trophäen",
+        "desc": "Geboren am 4. Januar 1986 in Hsinchu. Vater Hsieh Tzu-long (Busfahrer bei der Taiwan Motor Transport) starb im Oktober 2023. Karrierehöchste WTA-Einzelplatzierung: Nr. 23 (2013). Sieben Grand-Slam-Titel im Frauen-Doppel (2013 Wimbledon / 2014 French Open / 2019 Wimbledon / 2021 Wimbledon / 2023 French Open / 2023 Wimbledon / 2024 Australian Open). Erste Taiwanerin im Grand-Slam-Einzelhalbfinale (2021 Australian Open). 2025/7 Zweite im Wimbledon-Frauen-Doppel.",
+        "category": "people",
+        "href": "/de/people/su-wei-hsieh-wimbledon-champion",
+        "date": "2026-08-23T19:31:52+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Hsu Shu-ching: Lunbei 1991, Taiwans erste Doppel-Olympiasiegerin im Gewichtheben der 53-kg-Klasse",
+        "desc": "Geboren am 9. Mai 1991 in eine Hakka-Familie in der Gemeinde Lunbei im Landkreis Yunlin; 159 cm groß. Bei den Olympischen Spielen 2012 in London in der Frauenklasse bis 53 kg erreichte sie 219 kg (96 + 123) und gewann Silber; nachdem die Goldmedaillengewinnerin Zhao Changling (Kasachstan) die Doping-Nachkontrolle nicht bestand, wurde sie im Dezember 2020 zur Goldmedaillengewinnerin aufgewertet. 2016 in Rio gewann sie mit 212 kg (100 + 112) direkt Gold. Taiwans erste Doppel-Olympiasiegerin. Rücktritt am 3. Juni 2018. 2019 wegen einer Dopingprobe von 2017 für drei Jahre gesperrt (berührt die beiden Olympiasiege nicht).",
+        "category": "people",
+        "href": "/de/people/hsu-shu-ching-olympic-weightlifting-champion",
+        "date": "2026-08-23T19:26:08+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Wei Te-sheng: Yongkang 1969 – vom Rekord-Einspielergebnis von „Cape No. 7“ zum taiwanesischen Epen-Regisseur im Hauptwettbewerb von Venedig",
+        "desc": "Geboren am 16. August 1969 in Yongkang, Landkreis Tainan (heute Bezirk Yongkang, Tainan). Abschluss in Elektrotechnik an der Fern-East-Fachhochschule. 2008 „Cape No. 7“ mit 530 Mio. NT$ Einspielergebnis (taiwanesischer Filmrekord). 2011 im Hauptwettbewerb der 68. Filmfestspiele von Venedig um den Goldenen Löwen; „Seediq Bale“ gewann den Golden Horse Award für den besten Spielfilm (48. Ausgabe). Derzeit in Vorbereitung: das Epen-Projekt „Taiwan-Trilogie“.",
+        "category": "people",
+        "href": "/de/people/wei-te-sheng-taiwanese-epic-filmmaker",
+        "date": "2026-08-23T16:22:50+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Terry Gou: Banqiao 1950, Hon Hai Plastics 1974 und der Gründer eines Auftragsfertigungs-Imperiums",
+        "desc": "Geboren am 18. Oktober 1950 in Banqiao im Landkreis Taipeh. 1974 gründete er die Hon-Hai-Plastics-Gesellschaft (10 Mitarbeiter). 1981 stieg er in PC-Steckverbinder ein, 1982 wurde die Firma in Hon Hai Precision umbenannt. 2019/6 übergab er den Vorsitz an Young Liu. 2021 kooperierten die Yonglin-Stiftung, TSMC und Hon Hai bei der Spende von BNT-Impfstoffen. 2023 zog er sich drei Stunden vor der Registrierung aus einer unabhängigen Präsidentschaftskandidatur zurück. 2024 Platz 32 der Fortune 500, 2026 Taiwans reichster Mann (15,3 Mrd. US-Dollar).",
+        "category": "people",
+        "href": "/de/people/terry-gou",
+        "date": "2026-08-20T19:12:29+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Wang Yung-ching: Vom Reisladen zur zwanzigjährigen Schlacht um die Sechste Naphtha-Spaltanlage und zum Erbstreit nach dem Tod",
+        "desc": "Geboren am 18. Januar 1917 in Xindian, Taipeh; mit 15 brach Wang Yung-ching die Schule ab und eröffnete mit geliehenem Geld einen Reisladen. 1954 gründete er die Formosa Plastics. 1973 schlug er der Regierung die Sechste Naphtha-Spaltanlage vor; erst nach fast zwanzig Jahren Kampf wurde sie genehmigt, 1998 begann die Massenproduktion in Mailiao, Yunlin. Am 15. Oktober 2008 starb er in den USA im Alter von 92 Jahren – zurück blieb ein Familienstreit um das Erbe, der sich über zehn Jahre hinzog.",
+        "category": "people",
+        "href": "/de/people/yung-ching-wang-formosa-plastics-founder",
+        "date": "2026-08-19T18:11:12+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Ming Hwa Yuan: 1929 in Tainan gegründet – das Taiwan-Opern-Imperium der Familie Chen über vier Generationen",
+        "desc": "1929 von Chen Ming-chi in Tainan gegründet, 1962 nach Chaozhou, Pingtung, verlegt. Die zweite Generation mit Chen Sheng-fu führte moderne Bühnentechnik ein und brachte die Taiwan-Oper (Koa-á-hì) ins Nationaltheater. Acht Unterensembles (Himmel, Erde, Mystik, Gelb, Sonne, Mond, Sterne, Drachen). Mit „Das Ende des Spiels“ (2024) in die vierte Aufführungsserie zur Feier des 95. Gründungsjahres.",
+        "category": "people",
+        "href": "/de/people/ming-hua-yuan",
+        "date": "2026-08-19T05:04:16+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Wu Pao-chun: Ein Versprechen an die Kinder der Paiwan",
+        "desc": "Sohn einer Bauernfamilie aus Pingtung, mit Mittelschulabschluss, ohne Französischkenntnisse. Mit einem Litschi-Rosmarin-Brot gewann er in Paris die erste Goldmedaille für einen Brotmeister der Welt – und in dem Brot steckte ein Versprechen, das er vor zehn Jahren den Kindern der indigenen Völker gegeben hatte.",
+        "category": "people",
+        "href": "/de/people/wu-bao-chun",
+        "date": "2026-08-19T05:04:16+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Chen Shu-chu: Eine Gemüseverkäuferin aus Taitung, die mit fünfzig Jahren Einnahmen aus dem Gemüseverkauf zig Millionen NT$ spendete",
+        "desc": "Eine Gemüseverkäuferin aus Taitung hat mit fünfzig Jahren Einnahmen aus dem Gemüseverkauf zig Millionen NT$ gespendet und sagt dennoch: „Ich bin eben nur eine Gemüseverkäuferin.“",
+        "category": "people",
+        "href": "/de/people/chen-shu-chu-vegetable-vendor-philanthropist",
+        "date": "2026-08-19T04:49:48+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Chu Tien-wen: Taipeh 1956 – vom „San-San-Journal“ zum Goldenen Löwen von Venedig für „Die Stadt der Trauer“",
+        "desc": "1956 in Taipeh geboren, Vater Chu Hsi-ning. Gründete 1977 mit Hu Lan-cheng u. a. das „San-San-Journal“. Langjährige Drehbuchautorin von Hou Hsiao-hsien; ihr repräsentatives Drehbuch „Die Stadt der Trauer“ gewann 1989 den Goldenen Löwen von Venedig. 1994 gewann „Aufzeichnungen der Verzweifelten“ den ersten Preis des China-Times-Literaturpreises. Zu ihren Drehbüchern gehören auch „Good Men, Good Women“ und „Goodbye South, Goodbye“.",
+        "category": "people",
+        "href": "/de/people/chu-tien-wen",
+        "date": "2026-08-19T04:49:48+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Li Ang: Lugang 1952 – mit „Der Frauenmörder“ die Wegbereiterin der taiwanesischen feministischen Literatur",
+        "desc": "1952 in Lugang, Changhua, geboren; bürgerlicher Name Shih Shu-tuan. 1983 erschien „Der Frauenmörder“ (殺夫) als Fortsetzungsroman in der Tageszeitung United Daily News und erschütterte die taiwanesische Literaturszene mit dem Thema häusliche Gewalt. 1991 folgte „Der Irrgarten“ (迷園). 2004 wurde sie zum Ritter des französischen Ordens für Kunst und Literatur ernannt. Ihre Werke wurden ins Englische, Französische, Deutsche und Japanische übersetzt – sie ist eine der international am stärksten beachteten taiwanesischen Schriftstellerinnen.",
+        "category": "people",
+        "href": "/de/people/li-ang",
+        "date": "2026-08-19T04:49:48+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Tsai Ming-liang",
+        "desc": "Gewinner des Goldenen Löwen von Venedig, ethnischer Chinese aus Malaysia, Meister der Slow-Cinema-Ästhetik",
+        "category": "people",
+        "href": "/de/people/tsai-ming-liang",
+        "date": "2026-08-19T03:57:22+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Wu Bai: Von Suantou-Dorf, Liujiao-Gemeinde, taiwanesischer Rock ohne Abschläge über dreißig Jahre",
+        "desc": "Bürgerlich Wu Chun-lin, 1968 im Dorf Suantou der Gemeinde Liujiao im Landkreis Chiayi geboren. 1992 gründete er „Wu Bai & China Blue“, 1995 setzte „Der Wald von Norwegen“ den taiwanesischen Rockstil. 2016 erschien „Nelkensamen“, 2017 gewann er den Golden Melody Award für das beste taiwanesische Album. 2025 erschien das neue Album „Der weiße Ausgangspunkt“, die ROCK STAR 2 Tour führte über beide Meerengen.",
+        "category": "people",
+        "href": "/de/people/wu-bai",
+        "date": "2026-08-19T03:57:22+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Li Mei-shu",
+        "desc": "Ein Maler, der 36 Jahre lang einen Tempel baute und die akademische Ästhetik in die Volksreligion trug",
+        "category": "people",
+        "href": "/de/people/li-mei-shu",
+        "date": "2026-08-19T03:48:17+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Zhong Lihe: Zwischen Blut und Papier – der Chronist des heimatlichen Bodens",
+        "desc": "Der Hakka-Schriftsteller aus Meinung, Kaohsiung (1915–1960). Mit „Lishan-Farm“ (Langroman), „Heimatmensch“ (Kurzgeschichte, 1959) und „Armes Ehepaar“ schuf er realistische Bilder des Hakka-Dorfs und gilt als „Vater der taiwanesischen Heimatliteratur“ (umstrittener Titel). Er starb 1960 beim Korrigieren seiner Manuskripte an Blutsturz – der „im Blut niedergesunkene Schreibende“.",
+        "category": "people",
+        "href": "/de/people/zhong-lihe-nativeland-eternal-seeker",
+        "date": "2026-08-19T03:48:17+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Hung Sing-fu: Der zu früh verglühte Stern der Heimatliteratur",
+        "desc": "1949 in eine arme Bauernfamilie in Erlin, Changhua, geboren, veröffentlichte Hung Sing-fu mit 18 seine erste Erzählung; bevor er mit 33 bei einem Autounfall starb, schuf er als Grundschullehrer Heimatliteratur und schrieb in nur 15 Jahren Klassiker wie „Schwarzgesicht Qing-tsai“, „Mein Boden“ und „Das Spiel endet“ – ein wahres Abbild des Übergangs des taiwanesischen Dorfes von der Landwirtschaft zur Industrie-Gesellschaft. Von Schriftstellerfreunden scherzhaft „Hung Sing-fuski“ genannt, wurde er eine unauslöschliche Stimme des Dorfes in der taiwanesischen Nachkriegsliteratur.",
+        "category": "people",
+        "href": "/de/people/hung-hsing-fu",
+        "date": "2026-08-19T03:37:22+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "André Chiang: Er wartete nie, bis eine Definition sich festsetzte, bevor er sich abwandte",
+        "desc": "1997 lud ein junger Chefkoch eines französischen Restaurants im Westin-Hotel zwei französische Drei-Sterne-Köche zu einer zehntägigen Zusammenarbeit nach Taiwan ein und kaufte dann ein Flugticket, um ihnen nach Frankreich zu folgen. Vom zwei Jahre langen Kartoffelschälen in Südfrankreich über das Hochschieben seines Singapur-Restaurants auf Platz 14 der Weltrangliste – das er im Folgejahr freiwillig schloss – bis zum schwer zu buchenden RAW in Taipeh, von dem er sich im zehnten Jahr abwandte: André Chiangs unersetzlichster Zug ist es, das Licht auszuschalten und die nächste Frage zu stellen, sobald ihn ein Titel zu definieren droht: Was genau ist der Geschmack Taiwans?",
+        "category": "people",
+        "href": "/de/people/andre-chiang-taiwanese-culinary-innovator",
+        "date": "2026-08-19T02:57:18+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/andre-chiang-archi-2025.webp"
+      },
+      {
+        "title": "Tsai Ing-wen: Von der Nacht der Niederlage zu 8,17 Millionen Stimmen – acht Jahre Präsidentschaft in Zurückhaltung",
+        "desc": "Am 14. Januar 2012 verlor Tsai Ing-wen die Präsidentschaftswahl mit einem Rückstand von 797.561 Stimmen; acht Jahre später gewann sie mit 8.170.231 Stimmen und stellte damit den höchsten Stimmenrekord in Taiwans Geschichte der direkten Präsidentschaftswahl auf. Von der Gelehrten für internationales Handelsrecht zur ersten Präsidentin hinterließ sie Errungenschaften mit der Entschuldigung gegenüber den indigenen Völkern, dem Sondergesetz zur gleichgeschlechtlichen Ehe, der Rentenreform und der Aufrechterhaltung des Status quo – und ließ zugleich unerledigte Fragen zu Justiz, Wohnen, Energie und den Beziehungen über die Taiwanstraße zurück. Es waren acht Jahre, in denen ruhige Führung zur Institution wurde und die Institution ihre eigenen Lücken hinterließ.",
+        "category": "people",
+        "href": "/de/people/tsai-ing-wen",
+        "date": "2026-08-19T02:26:11+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/tsai-2016-campaign.webp"
+      },
+      {
+        "title": "Chiang Wei-shui: Der Arzt, der mit einer „Klinischen Vorlesung“ den Erreger der Kolonie diagnostizierte",
+        "desc": "1921 veröffentlichte der Arzt Chiang Wei-shui seine „Klinische Vorlesung“ (臨床講義), in der er Taiwan als „Schwachkopf der Weltkultur“ personifizierte und die Krankheitsursache als geistige Unterernährung diagnostizierte. Er gründete den Taiwanesischen Kulturverein und mit der Taiwanesischen Volkspartei die erste legale Partei; sein Leben verbrachte er mit über einem Dutzend Gefängnisaufenthalten und webte zwischen dem Da'an-Krankenhaus und dem „Chunfengdeyi“-Klubhaus ein Netz des Erwachens. Sein praktischer Nachlass lautet: „Landsleute, schließt euch zusammen; vereint sind wir wahrhaft stark.“",
+        "category": "people",
+        "href": "/de/people/chiang-wei-shui",
+        "date": "2026-08-19T01:21:23+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "Xiao Qing-yang",
+        "desc": "Gewinner der Grammy-Auszeichnung für die beste Albumverpackung; nach sieben Nominierungen gewann er schließlich in der Zusammenarbeit Vater–Tochter – der Repräsentant, der taiwanesisches Design auf die Weltbühne brachte.",
+        "category": "people",
+        "href": "/de/people/xiao-qing-yang-grammy-designer",
+        "date": "2026-08-19T01:21:23+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Lieber ausbrennen als verrosten: Mackay und sein geliebtes Formosa",
+        "desc": "Vom Ziehen von 20.000 Zähnen bis zur Gründung einer Mädchenschule: wie der kanadische Missionar Mackay zum „waschechten Taiwaner“ wurde und mit dreißig Lebensjahren die Geschichte von Medizin, Bildung und naturwissenschaftlicher Erforschung Nordtaiwans umschrieb.",
+        "category": "people",
+        "href": "/de/people/george-leslie-mackay",
+        "date": "2026-08-19T00:11:35+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Yoichi Hatta: Von der Wasserbau-Legende zum „beißenden Kanal“ – der Kolonialabdruck eines Technokraten",
+        "desc": "In den 1920er-Jahren errichtete der japanische Ingenieur Yoichi Hatta auf der Chianan-Ebene Taiwans den Wushantou-Stausee und den Chianan-Kanal. Dieses Weltklasse-Projekt brachte landwirtschaftliche Rekordernten, doch zugleich nannten es zahlreiche Bauern wegen seiner kolonial-ausbeuterischen Natur und der schweren Last für die Bauern den „beißenden Kanal“. Dieser Artikel untersucht eingehend Hattas Verdienste und Fehler, die Zweiseitigkeit seiner Management-Philosophie und den komplexen Abdruck, den diese Geschichte in der taiwanesischen Gesellschaft hinterlassen hat.",
+        "category": "people",
+        "href": "/de/people/hatta-yoichi",
+        "date": "2026-08-19T00:11:35+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "Lai Ching-te: Vom Sohn einer Bergmannsfamilie zum öffentlichen Gesundheitsarzt im Präsidentenpalast",
+        "desc": "Der 16. Präsident der Republik China (Taiwan) und der erste Politiker in der Verfassungsgeschichte, der als Vizepräsident für das Präsidentenamt kandidierte und die Wahl gewann",
+        "category": "people",
+        "href": "/de/people/lai-ching-te",
+        "date": "2026-08-18T23:37:29+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Die zwei Seiten der Shengli-Straße: Von der Panzerbataillon-Putschversuch bis zum „großen Parkplatz“ in Hukou",
+        "desc": "An der Shengli-Straße in Hsinchu-Hukou steht auf der einen Seite der Militärzaun für Panzer und politische Stürme, auf der anderen Seite für Wohnviertel, Versorgungseinrichtungen und das verschwundene Kino. Es ist eine lokale Geschichte über Nachbarschaft, Zufall und soziale Gerechtigkeit.",
+        "category": "history",
+        "href": "/de/history/hukou-camp-shengli-road-memory",
+        "date": "2026-08-18T23:02:42+08:00",
+        "readingTime": 12,
+        "image": ""
       }
     ]
   }

@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-09-05 06:14
+last_generated: 2026-09-06 06:14
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-09-05 06:14** · 頂層 \*.md 共 **272** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-09-06 06:14** · 頂層 \*.md 共 **280** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -21,31 +21,31 @@ type: auto-index
 | `research/`             |   519 | 29.5 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `editorial-room/`       |    96 | 760.3 KB | —                                                    |
 | `article-evolve/`       |    38 | 1.5 MB   | —                                                    |
+| `weekly/`               |    36 | 6.8 MB   | Self-evolve weekly digest                            |
 | `article-projection/`   |    35 | 637.8 KB | —                                                    |
-| `weekly/`               |    34 | 6.6 MB   | Self-evolve weekly digest                            |
 | `archive/`              |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
-| `routine-prompt-drift/` |    23 | 56.6 KB  | —                                                    |
+| `routine-prompt-drift/` |    28 | 83.2 KB  | —                                                    |
 | `maintainer/`           |    16 | 308.9 KB | —                                                    |
+| `babel/`                |     9 | 8.3 MB   | —                                                    |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
-| `babel/`                |     8 | 8.2 MB   | —                                                    |
+| `news-lens/`            |     9 | 190.3 KB | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
-| `news-lens/`            |     8 | 171.2 KB | —                                                    |
 | `babel-quarantine/`     |     7 | 268.0 KB | —                                                    |
 | `probe/`                |     6 | 69.8 KB  | BECOME §Step 7 探測器報告                            |
 | `babel-jobs/`           |     5 | 246.4 KB | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB   | —                                                    |
+| `terminology-review/`   |     5 | 1.8 MB   | —                                                    |
 | `translation-research/` |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
-| `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 155.1 KB | —                                                    |
+| `404-monitor/`          |     2 | 151.6 KB | —                                                    |
 | `article-staging/`      |     2 | 104.9 KB | —                                                    |
 | `fork-census/`          |     2 | 39.3 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`             |     2 | 105.8 KB | —                                                    |
+| `newsroom/`             |     2 | 106.5 KB | —                                                    |
+| `terminology-trends/`   |     2 | 30.0 KB  | —                                                    |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
 | `orphan-rescue/`        |     1 | 52.5 KB  | —                                                    |
-| `terminology-trends/`   |     1 | 18.3 KB  | —                                                    |
 | `visual/`               |     1 | 5.7 KB   | Visual smoke test 基線 (partial gitignored)          |
 
 ## 🏷️ By type (頂層 \*.md only)
@@ -238,8 +238,16 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (113)
+### ops (121)
 
+- `2026-09-05` [design-co-editing-rules-2026-09-05](design-co-editing-rules-2026-09-05.md) — Design: 共編規則——對外貢獻規則與對內進化 gate 分流
+- `2026-09-05` [design-review-stock-2026-09-05](design-review-stock-2026-09-05.md) — Design: 審閱庫存 routine + 讀者複核頁
+- `2026-09-05` [design-routine-thin-shell-v2-2026-09-05](design-routine-thin-shell-v2-2026-09-05.md) — Routine prompt mirror 厚殼裁決 v2：Skill-invoke 取代 Read-pointer 的薄殼設計
+- `2026-09-05` [design-terminology-syntax-type-2026-09-05](design-terminology-syntax-type-2026-09-05.md) — Design: 用語詞庫句構型別 schema 與 per-term 頁專屬渲染
+- `2026-09-05` [fortnight-deep-review-2026-09-05](fortnight-deep-review-2026-09-05.md) — Fortnight deep review 2026-09-05
+- `2026-09-05` [internal-links-top50-2026-09-05](internal-links-top50-2026-09-05.md)
+- `2026-09-05` [mouhouse-blackout-root-cause-2026-09-05](mouhouse-blackout-root-cause-2026-09-05.md) — mouhouse 四天空窗根因 2026-09-05
+- `2026-09-05` [muse-dashboard-optimization-2026-09-05](muse-dashboard-optimization-2026-09-05.md) — 給 Muse 的現況鏡優化建議：兩週營運實證下的八個盲點與三期改法
 - `2026-08-28` [design-footnote-source-cards-2026-08-28](design-footnote-source-cards-2026-08-28.md)
 - `2026-08-23` [design-search-results-page-2026-08-23](design-search-results-page-2026-08-23.md)
 - `2026-08-18` [design-budget-page-v2-2026-08-18](design-budget-page-v2-2026-08-18.md) — design-budget-page-v2-2026-08-18
@@ -361,6 +369,18 @@ type: auto-index
 - Type breakdown: ops: 2
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
+
+### 2026-09 (8 files)
+
+- Type breakdown: ops: 8
+  - `2026-09-05` [design-co-editing-rules-2026-09-05](design-co-editing-rules-2026-09-05.md)
+  - `2026-09-05` [design-review-stock-2026-09-05](design-review-stock-2026-09-05.md)
+  - `2026-09-05` [design-routine-thin-shell-v2-2026-09-05](design-routine-thin-shell-v2-2026-09-05.md)
+  - `2026-09-05` [design-terminology-syntax-type-2026-09-05](design-terminology-syntax-type-2026-09-05.md)
+  - `2026-09-05` [fortnight-deep-review-2026-09-05](fortnight-deep-review-2026-09-05.md)
+  - `2026-09-05` [internal-links-top50-2026-09-05](internal-links-top50-2026-09-05.md)
+  - `2026-09-05` [mouhouse-blackout-root-cause-2026-09-05](mouhouse-blackout-root-cause-2026-09-05.md)
+  - `2026-09-05` [muse-dashboard-optimization-2026-09-05](muse-dashboard-optimization-2026-09-05.md)
 
 ### 2026-08 (23 files)
 
