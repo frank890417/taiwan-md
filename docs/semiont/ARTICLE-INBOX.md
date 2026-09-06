@@ -174,6 +174,28 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 生態多樣性 EVOLVE — 三月薄文補遊蕩犬貓威脅，接住讀者 issue #1678
+
+- **Type**: `EVOLVE`
+- **Category**: Nature
+- **Path**: knowledge/Nature/生態多樣性.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-06 by 讀者蕭宇哲 via issue #1678（from-feedback）／maintainer-am 分流
+- **Notes**:
+  - 一句話核心張力：讀者說這篇沒寫遊蕩犬貓的威脅，而站上其實寫得很完整——寫在 `台灣石虎保育.md` §三犬殺，引的還是讀者附的同一個窩窩來源。缺的不是知識，是這篇三月概覽沒有任何一條路通到那裡
+  - 本輪 maintainer 已做的部分（commit 見下）：石虎段補一條內文連結指向 `台灣石虎保育`，補上整篇缺席的 `## 延伸閱讀`（七條深度條目）。**正文站內連結 0 → 1**
+  - 本輪**沒做**的部分，因為它是 zh SSOT 實質內容改動，屬 REWRITE 不屬 maintainer heal：外來種段目前只有小花蔓澤蘭／福壽螺／紅火蟻這類植物與無脊椎，**沒有遊蕩犬貓**，而遊蕩犬貓是台灣當前最被討論的威脅之一；石虎段把路殺全歸因於棲地破碎化，漏掉疾病這條因果
+  - **研究已做完，接手的人不用從零開始**（跨源已驗，per REFLEXES #16）：
+    - 陳貞志（屏科大野生動物保育研究所）2015–2016 研究：路殺石虎 13 隻中 11 隻驗出犬小病毒；另一組數字為 17 隻路殺個體 82.4% 陽性，含 CPV-2A/2B/2C 與貓小病毒四型，基因序列與家犬家貓身上的一致
+    - **關鍵因果**：「感染小病毒的石虎，路殺機會高於未感染個體的 25 倍」——這句直接翻修本篇現有那段「路殺顯示棲地破碎化」的單一歸因
+    - 收容所遊蕩動物約 90% 小病毒篩檢陽性，是保毒來源
+    - 犬殺已記錄於石虎、穿山甲、山羌；壽山山羌族群銳減九成
+    - 來源：[窩窩石虎專題](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat/903-zeczec-3182)（讀者提供）、[環境資訊中心 node/211400](https://e-info.org.tw/node/211400)（25 倍數字）、[報導者〈野外棲地誰的家〉](https://www.twreporter.org/a/6-years-after-no-kill-policy-adopted-conflict-with-wildlife)、[公視新聞 640284](https://news.pts.org.tw/article/640284)
+  - 順帶要處理的既有債：全篇 0 腳註、2091 字（depth 門檻 4500）、description 28 字、prose-health score 9（塑膠句 1 + 對位句型 2），frontmatter 掛著 `lastHumanReview: true` 卻是三月零腳註薄文
+  - 這篇不在 `reports/internal-links-top50-2026-09-05.md` 補鏈工單裡（該工單依 GA4 流量取前 50，本篇在切線以下），但讀者實際絆倒的位置就在這裡
+- **Reference**: [Issue #1678](https://github.com/frank890417/taiwan-md/issues/1678)、knowledge/Nature/台灣石虎保育.md、[OBSERVER-QUEUE.md §39](OBSERVER-QUEUE.md)
+
 ### 居住正義 EVOLVE — 覆蓋 3/18 百科式舊文〈社會住宅與居住正義〉，十語譯本轉址
 
 - **Type**: `EVOLVE`
