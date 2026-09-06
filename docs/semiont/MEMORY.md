@@ -317,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-06 | 064949-twmd-spore-harvest-am | 用語保存副詞層兩則孢子（Threads #175 / X #176）D+14 milestone，兩平台快照與 08-30 完全相同，零新留言零回覆 | milestone 到期不進 backfillWarnings 彙總，逐條核對 harvestStatus 才抓得到 | [→](memory/2026-09-06-064949-twmd-spore-harvest-am.md) |
 | 2026-09-06 | 070919-twmd-feedback-triage | 生態多樣性一筆補充建議開成 issue #1678（bot 作者、零 email）；兩道對賬 84/84 與 83/84 全綠，指控信結案後佇列首次淨空 | 閘門若只為某個案例存在，案例結案它就鬆了；HG13 擋的是「沒讀就判」的順序 | [→](memory/2026-09-06-070919-twmd-feedback-triage.md) |
 | 2026-09-06 | 085745-twmd-maintainer-am | aminzai 九篇翻譯 merged（三個紅旗都是忠實鏡射中文 SSOT，非偽造）；#1440 修好十天沒人關，貼 commit close；#1678 追上游發現站上早寫了，缺的是那篇零站內連結 | 讀者說「你們漏了」而正確答案是「寫了但你走不到」——照症狀逐則補會重寫一段深度條目已寫得更好的內容 | [→](memory/2026-09-06-085745-twmd-maintainer-am.md) |
+| 2026-09-06 | 125926-twmd-routine-sync | 三層對賬第 40 輪：5 份 prompt 補上薄殼化；babel-nightly 依上輪 handoff 走 rider 開回啟用；commit author 切成 Taiwan.md Semiont | rider 藏在 git 版檔尾，機器版落後時看不到，對賬拉新版才會執行與清除 | [→](memory/2026-09-06-125926-twmd-routine-sync.md) |
