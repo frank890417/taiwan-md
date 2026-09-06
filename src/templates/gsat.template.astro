@@ -1,0 +1,2282 @@
+---
+/**
+ * 學測專題（大學學科能力測驗 GSAT）— Taiwan.md Exams 系列
+ *
+ * 頁面 URL: /exams/gsat/
+ * 資料層：本檔內 inline copy（zh-TW canonical，en/ja/ko/fr/es 簡化版）
+ * 格式比照 src/templates/elections-2026.template.astro：
+ *   1. Layout import + getLangFromUrl
+ *   2. TypeScript copy type
+ *   3. 多語 copy 物件 Record<'zh-TW'|'en'|'ja'|'ko'|'fr'|'es', GsatCopy>
+ *   4. build-time 運算（下一場學測日期、倒數）
+ *   5. Layout → Hero / 考什麼 / 規模數據 / 走過考場的人 / 沿革 /
+ *      策展層(related) / 資料來源(resources) / verify footer
+ *
+ * 策展精神（參照百度百科「高考知識專題」的「名人高考那些事兒」骨架，
+ * 轉譯為 Taiwan.md 元件語彙）：
+ *   - 考場上的人不只分數：滿分者、高分者、轉軌者、失利者、掌舵者
+ *   - 制度是活的：聯考 → 學測 → 108課綱自由選考
+ *   - 每張卡片都連回知識庫文章或站內人物頁（Taiwan.md 策展層）
+ */
+import Layout from '../layouts/Layout.astro';
+import { getLangFromUrl } from '../i18n/utils';
+
+type GsatCopy = {
+  meta: { title: string; description: string };
+  hero: {
+    eyebrow: string;
+    titlePrefix: string;
+    titleEmphasis: string;
+    titleSuffix: string;
+    subtitle: string;
+    countdownLabel: string;
+    dayUnit: string;
+    dateLabel: string;
+    recentTitle: string;
+    recentSubtitle: string;
+    dateEmphasis: string;
+  };
+  role: {
+    title: string;
+    p1: string;
+    p2: string;
+    p3: string;
+    p4: string;
+    primaryCta: string;
+  };
+  subjects: {
+    title: string;
+    intro: string;
+    sourceNote: string;
+    items: {
+      name: string;
+      spec: string;
+      desc: string;
+    }[];
+  };
+  numbers: {
+    title: string;
+    intro: string;
+    stats: { value: string; label: string; note: string }[];
+    chartTitle: string;
+    chartSource: string;
+    bars: { label: string; value: number; note: string; highlight?: boolean }[];
+  };
+  people: {
+    title: string;
+    intro: string;
+    groups: {
+      group: string;
+      items: {
+        name: string;
+        badge: string;
+        desc: string;
+        href: string;
+        linkLabel?: string;
+      }[];
+    }[];
+    quote: { text: string; who: string };
+  };
+  curation: {
+    title: string;
+    intro: string;
+    overviewTitle: string;
+    overviewBody: string;
+    fairnessTitle: string;
+    fairnessBody: string;
+    fairnessQuote: { text: string; who: string };
+    articleLink: { href: string; label: string };
+  };
+  pipelines: {
+    title: string;
+    intro: string;
+    items: {
+      name: string;
+      spec: string;
+      desc: string;
+      accent: string;
+    }[];
+    sourceNote: string;
+  };
+  history: {
+    title: string;
+    intro: string;
+    items: { year: string; title: string; note: string }[];
+  };
+  related: {
+    title: string;
+    intro: string;
+    articles: {
+      href: string;
+      title: string;
+      desc: string;
+      badge: string;
+    }[];
+  };
+  resources: {
+    title: string;
+    intro: string;
+    items: { name: string; url: string; desc: string; icon: string }[];
+  };
+  verify: {
+    title: string;
+    domainPrefix: string;
+    domainSuffix: string;
+    gitLog: string;
+    attribution: string;
+    mvp: string;
+    roadmap: string;
+    footerPrefix: string;
+    footerEmphasis: string;
+  };
+};
+
+// CEEC 視覺語彙：學測卡酒紅 #9d3d45 為主色；輔以英語聽力卡藍 #2196d0、分科卡靛紫 #5b4aa0；導覽列深栗 #6d3226；連結 hover 紅 #cf4747
+const accents = ['#9d3d45', '#2196d0', '#5b4aa0', '#ba451a'];
+
+const gsatCopy: Record<'zh-TW' | 'en' | 'ja' | 'ko' | 'fr' | 'es', GsatCopy> = {
+  'zh-TW': {
+    meta: {
+      title: '學測 · 大學學科能力測驗 · Taiwan.md',
+      description:
+        '每年一月，全台灣約十二萬名高三生同時走進考場。三十年前的學測為了拆掉聯考而誕生，三十年後它在自由選考與全考的拉鋸中尋找新的平衡——Taiwan.md 記錄這套制度怎麼長，以及走過考場的人。',
+    },
+    hero: {
+      eyebrow: '📝 大學學科能力測驗 · General Scholastic Ability Test',
+      titlePrefix: '學',
+      titleEmphasis: '測',
+      titleSuffix: '專題',
+      subtitle:
+        '2026/1/17–01/19，約 12.1 萬名考生同時走進考場；下一場學測 2027/1/22–24',
+      countdownLabel: '距下一場學測',
+      dayUnit: '天',
+      dateLabel: '116學年度 · 2027/1/22（四）– 1/24（六）',
+      recentTitle: '115學年度學測已落幕',
+      recentSubtitle: '放榜日期 2026/2/25，六科全考人數占 46.09%',
+      dateEmphasis: '2027/1/22–24',
+    },
+    role: {
+      title: 'Taiwan.md 為什麼做學測專題',
+      p1: '學測（GSAT）不是新聞事件，而是一年一會的社會儀式：每年一月，約十二萬名考生、兩千多個考場、六十科以上的試卷同時啟動，整個社會暫停一個週末。',
+      p2: 'Taiwan.md 不做放榜速報、不做滿級分名額表、不背書任何升學策略。我們做的是：把這場年度儀式放回制度的三十年演化裡看——學測為什麼誕生、108課綱為什麼改成自由選考、申請入學為什麼佔名額一半以上、城鄉差距與補習生態在考卷背後做了什麼。',
+      p3: '考場上的人也一樣重要：拿滿級分的牛淳賦、考70級分後創辦為台灣而教的劉安婷、聯考失利後填錯志願進歷史系卻成了最紅歷史名師的呂捷、從沒走進大學考場卻成為制度批判最鋒利聲音的嚴長壽——九張臉孔，九條路。',
+      p4: '這個專區會持續記錄制度怎麼演進、數據怎麼長、誰走過考場。',
+      primaryCta: '閱讀既有文章：學測 →',
+    },
+    curation: {
+      title: '策展總章：這場考試的三個真相',
+      intro:
+        '本站既有文章《學測》的完整考證，濃縮為三個真相——制度是拆掉考試的考試、規模是少子化時代的反常擴張、分數背後是結構性差距。',
+      overviewTitle: '真相一：學測是為了「拆掉考試」而誕生的考試',
+      overviewBody:
+        '1994 年首次辦理的學測，以五科必考、每科 0–15 級分取代聯考的「一試定終身」；繁星推薦與個人申請兩條管道皆以學測為第一道門檻，合計占大學招生名額逾半。2018 年 108 課綱上路是分水嶺：五科總級分走入歷史，學生自由選考，校系最多採計 4 科；111 學年起數學分流為數 A／數 B，學測正式進入六科自由選考的現在式。改制邏輯是大考中心選才電子報的官方分析：取消總級分讓「偏才」不再與理想校系失之交臂——但現實是，115 學年度六科全考人數高達 5 萬 6,021 人、占 46.09% 且連三年增加，學生用「保留所有選項」的理性計算對抗分流設計。',
+      fairnessTitle: '真相二：考卷背後，是結構性的資源差距',
+      fairnessBody:
+        '學測的公平性爭議從來不只是考題難易。北大社會學系陳婉琪團隊串接 2014–2020 年全國考招資料發現：申請入學第一階段中，中低收入戶學生的通過率低於一般家戶——學測分數較低本身就反映家庭資源的劣勢；但同一份研究打破流行迷思：在級分相同條件下，經濟弱勢學生的二階正取機會反而較高，書審與面試並未如想像般偏袒富裕家庭。疫情則放大另一層落差：偏鄉學生缺的不是線上課，是一支穩定的鏡頭、一位能陪讀的家長；學測以高一高二必修為範圍，意味著高中前兩年的所有學習資源都計入這張考卷。',
+      fairnessQuote: {
+        text: '「無論教育制度如何改變，只要社會價值過度單一進而激烈競爭，就會誘導人使用錯誤的方法，扭曲真實自我、抹煞學習熱情。」',
+        who: '—— 陳婉琪（北大人文與社會科學高等研究院副院長）',
+      },
+      articleLink: {
+        href: '/society/%E5%AD%B8%E6%B8%AC/',
+        label: '閱讀既有文章：學測（制度沿革、分科測驗與重考路徑）→',
+      },
+    },
+    subjects: {
+      title: '考什麼：六科自由選考',
+      intro:
+        '108課綱上路後，學測從五科必考改為自由選考；111學年度起數學分流為數 A／數 B，共六科。考生依目標校系的檢定與採計科目自行組合，同一張考卷，十二萬人有十二萬種組合。',
+      sourceNote: '考科配置依大考中心 116 學年度考試簡章（2026-08-04 公告）',
+      items: [
+        {
+          name: '國文',
+          spec: '選擇題＋作答題＋作文',
+          desc: '選考人數占比超過 99%，實質上的必考科；108課綱後納入混合題與多文本閱讀',
+        },
+        {
+          name: '英文',
+          spec: '選擇題＋翻譯＋作文',
+          desc: '選考人數占比同樣超過 99%；申請入學絕大多數校系檢定或採計英文',
+        },
+        {
+          name: '數學 A',
+          spec: '自然組門檻',
+          desc: '理工醫農校系的主流檢定科；2026 年選考約 9.2 萬人',
+        },
+        {
+          name: '數學 B',
+          spec: '文組門檻',
+          desc: '文法商社科系的主流檢定科；內容範圍較數 A 窄；選考約 10.1 萬人',
+        },
+        {
+          name: '社會',
+          spec: '史地公民合卷',
+          desc: '115學年度選考約 10.2 萬人、連續三年增加；部分醫學系參採帶動選考',
+        },
+        {
+          name: '自然',
+          spec: '物化生地科合卷',
+          desc: '歷來最少人選考的一科（115學年度約 8.1 萬人）；醫藥衛生系檢定主力',
+        },
+      ],
+    },
+    numbers: {
+      title: '規模數據：少子化之下的反直覺增長',
+      intro:
+        '台灣出生人口連年下滑，學測報考人數卻在 111 學年度探底後連續回升——重考與多重申請的策略理性，壓過了母數的萎縮。',
+      stats: [
+        {
+          value: '121,535',
+          label: '115學年度報考人數',
+          note: '連續四年回升；111學年度 116,465 人為近十年谷底',
+        },
+        {
+          value: '75',
+          label: '級分上限',
+          note: '每科 0–15 級分、五科（或六科）合計；繁星與申請校系最多採計 4 科',
+        },
+        {
+          value: '46.09%',
+          label: '六科全考占比',
+          note: '56,021 人，人數與占比連三年增加；與 108 課綱「適性分流」初衷拉鋸',
+        },
+        {
+          value: '50,450',
+          label: '115申請入學名額',
+          note: '64 校 2,206 系組；報名人數 78,280、獲分發率約 56%',
+        },
+      ],
+      chartTitle: '學測報考人數：2010年代後半至今（109–115學年度）',
+      chartSource: '大學招生委員會聯合會／大考中心統計',
+      bars: [
+        { label: '109學年度', value: 133438, note: '疫情前高點' },
+        { label: '110學年度', value: 128600, note: '疫情首年' },
+        {
+          label: '111學年度',
+          value: 116465,
+          note: '近十年谷底',
+          highlight: true,
+        },
+        { label: '112學年度', value: 118551, note: '回升起點' },
+        { label: '113學年度', value: 120172, note: '' },
+        { label: '114學年度', value: 121181, note: '' },
+        { label: '115學年度', value: 121535, note: '連續四年回升' },
+      ],
+    },
+    people: {
+      title: '走過考場的人',
+      intro:
+        '比照「名人高考那些事兒」的策展思路，這裡收錄九張與考場高度糾纏的台灣面孔：滿分者、高分者、轉軌者、失利者、掌舵者——橋是同一座，對岸的路卻各不相同。',
+      groups: [
+        {
+          group: '滿分與高分',
+          items: [
+            {
+              name: '牛淳賦',
+              badge: '115學測滿級分',
+              desc: '五科 75 級分滿分；一家四兄妹全考滿分、大哥二哥已任外交官',
+              href: 'https://udn.com/news/story/6925/9345041',
+              linkLabel: '聯合報報導',
+            },
+            {
+              name: '劉安婷',
+              badge: '2008學測 70 級分',
+              desc: '雙錄取台大、獲普林斯頓錄取；23 歲回台創辦為台灣而教',
+              href: '/people/%E5%8A%89%E5%AE%89%E5%A9%B7',
+              linkLabel: '人物頁',
+            },
+          ],
+        },
+        {
+          group: '轉軌者',
+          items: [
+            {
+              name: '呂冠緯',
+              badge: '台大醫學系',
+              desc: '以優異成績讀完醫科，放下白袍創辦均一教育平台對抗升學落差',
+              href: '/people/%E5%91%82%E5%86%A0%E7%B7%AF/',
+              linkLabel: '人物頁',
+            },
+            {
+              name: '黃少雍',
+              badge: '台大生化碩士',
+              desc: '考試院長之子；放棄博士班轉身做電音製作，融合原民語奪金曲',
+              href: '/people/%E9%BB%83%E5%B0%91%E9%9B%B8',
+              linkLabel: '人物頁',
+            },
+            {
+              name: '壞特?te',
+              badge: '醫學系九年',
+              desc: '國防醫學院醫學系讀九年、通過兩階段國考後轉身音樂，金曲最佳新人',
+              href: '/people/%E5%A3%9E%E7%89%B9/',
+              linkLabel: '人物頁',
+            },
+            {
+              name: '曾博恩',
+              badge: '建中→台大',
+              desc: '「學測會考測不到極限」——博士班申請前夕轉身投入單口喜劇',
+              href: '/people/%E6%9B%BE%E5%8D%9A%E6%81%A9/',
+              linkLabel: '人物頁',
+            },
+          ],
+        },
+        {
+          group: '失利者與批判者',
+          items: [
+            {
+              name: '呂捷',
+              badge: '聯考重考生',
+              desc: '聯考失利暫停升學、重考填錯志願進歷史系，成台灣最紅歷史補教名師',
+              href: '/people/%E5%91%82%E6%8D%B7/',
+              linkLabel: '人物頁',
+            },
+            {
+              name: '嚴長壽',
+              badge: '高中學歷',
+              desc: '從未走進大學考場；「考前一天背會的東西，一看到考卷就忘光了」',
+              href: '/people/%E5%9A%B4%E9%95%B7%E5%A3%BD',
+              linkLabel: '人物頁',
+            },
+          ],
+        },
+        {
+          group: '掌舵者',
+          items: [
+            {
+              name: '張新仁',
+              badge: '大考中心主任',
+              desc: '「考生選考科目傾向，仍要回歸各大學訂定參考科目」',
+              href: 'https://www.ceec.edu.tw/xmdoc?xsmsid=0J018604485538810196',
+              linkLabel: '大考中心',
+            },
+            {
+              name: '陳婉琪',
+              badge: '社會學教授',
+              desc: '用全國考招資料回答「多元入學公平嗎」：一階門檻對弱勢不利，二階甄試反而更公平',
+              href: '/society/%E5%AD%B8%E6%B8%AC/',
+              linkLabel: '既有〈學測〉文章',
+            },
+          ],
+        },
+      ],
+      quote: {
+        text: '「學測是所有人共同走過的獨木橋，但橋的對岸通往的路，每個人都不一樣。」',
+        who: '—— 策展人筆記',
+      },
+    },
+    pipelines: {
+      title: '學測之外：入學的多條路',
+      intro:
+        '學測只是入學地圖的其中一條幹道。申請入學靠它、繁星推薦看它、分發入學拿它當檢定門檻；而統測、分科測驗、特殊選才與身心障礙考生單獨考試，則把地圖補成了完整的網格。',
+      items: [
+        {
+          name: '繁星推薦',
+          spec: '高一高二成績＋學測',
+          desc: '由高中推薦、限在地報考，把學測成績與在校成績加權後分發；偏鄉高中學生進頂大比例最高的管道，也是學測「檢定」功能最典型的體現',
+          accent: accents[0],
+        },
+        {
+          name: '個人申請',
+          spec: '學測＋書審＋二階甄試',
+          desc: '佔大學招生名額一半以上的最大管道；一階依學測檢定與篩選，二階為備審資料與面試；115學年度 64 校 2,206 系組、名額 50,450',
+          accent: accents[1],
+        },
+        {
+          name: '考試分發',
+          spec: '分科測驗（前身為指定科目考試）',
+          desc: '以分科測驗成績直接分發；考科以自然組／文組核心科目為主，適合學測未報名或想靠分科翻盤的考生；大考中心辦理',
+          accent: accents[2],
+        },
+        {
+          name: '四技二專統一入學測驗',
+          spec: '統測／技專校院入學',
+          desc: '技職體系的「學測」——四技二專、二技入學共通測驗，由技專校院入學測驗中心辦理；職校生主流管道，與大學學測互不重疊',
+          accent: accents[3],
+        },
+        {
+          name: '特殊選才',
+          spec: '不採學測的獨立管道',
+          desc: '針對特殊專長（競技、發明、創作）的招生，多不採計學測成績；107學年起成為正式年度管道，每年 12 月招生',
+          accent: accents[0],
+        },
+        {
+          name: '身心障礙考生',
+          spec: '延長時鐘的考場',
+          desc: '大考中心與技專測驗中心均提供身心障礙考生延長考試時間、特殊座位與輔具等應試服務；視障生另有點字卷、放大卷等特殊試題與特殊答題卷',
+          accent: accents[1],
+        },
+      ],
+      sourceNote:
+        '管道說明依大考中心與技專校院入學測驗中心簡章；申請／繁星名額依大學招生委員會聯合會',
+    },
+    history: {
+      title: '沿革：從聯考到自由選考',
+      intro:
+        '大學入學考試中心 1954 年起以聯考為主導（各年度輪辦），1994 年學測首度辦理、開啟多元入學時代；三十年間每一次改制，都是「大學適性選才」與「學生適性準備」的重新校準。',
+      items: [
+        {
+          year: '1954–1993',
+          title: '大學聯考時代',
+          note: '每年由不同大學輪流承辦統一入學考試',
+        },
+        {
+          year: '1992–1993',
+          title: '多元入學方案提案',
+          note: '教育部推動改革，大考中心開始研發學測',
+        },
+        {
+          year: '1994',
+          title: '學測首度辦理',
+          note: '與推薦甄試同步啟動，聯考體制開始鬆動',
+        },
+        {
+          year: '1999',
+          title: '多元入學新方案',
+          note: '推薦甄試、申請入學、考試分發三管道確立',
+        },
+        {
+          year: '2002',
+          title: '聯考走入歷史',
+          note: '指定科目考試（指考）取代聯考',
+        },
+        {
+          year: '2007',
+          title: '繁星推薦上路',
+          note: '以學測成績＋高中推薦提高偏鄉學生入學機會',
+        },
+        {
+          year: '2011',
+          title: '英語聽力測驗試辦',
+          note: '學測英文聽力測驗首次辦理',
+        },
+        {
+          year: '2019',
+          title: '108課綱改制',
+          note: '學測五科總級分走入歷史，改為依校系要求選考；最多採計 4 科',
+        },
+        {
+          year: '2022',
+          title: '數 A／數 B 分流',
+          note: '數學自由選考改為分流，共 6 科自由選考',
+        },
+        {
+          year: '2026–2027',
+          title: '116學年度',
+          note: '2026/8/4 簡章公告；學測 2027/1/22–24，六科維持自由選考',
+        },
+      ],
+    },
+    related: {
+      title: 'Taiwan.md 的策展層',
+      intro:
+        '從這幾篇讀起，你會理解學測為什麼這樣考、為什麼這樣選 —— 而不只是「今年誰考滿級分」。',
+      articles: [
+        {
+          href: '/society/%E5%AD%B8%E6%B8%AC/',
+          title: '學測',
+          desc: '既有總章：制度沿革、考科選擇、分科測驗與重考路徑',
+          badge: 'Featured',
+        },
+        {
+          href: '/people/%E5%8A%89%E5%AE%89%E5%A9%B7',
+          title: '劉安婷',
+          desc: '從學測 70 級分到偏鄉教室：為台灣而教的十年',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E5%91%82%E6%8D%B7/',
+          title: '呂捷',
+          desc: '從一個被迴避的二二八提問，到二十八堂臺灣史',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E5%91%82%E5%86%A0%E7%B7%AF/',
+          title: '呂冠緯',
+          desc: '均一教育平台創辦人：從醫科賽道轉向教育科技',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E6%9B%BE%E5%8D%9A%E6%81%A9/',
+          title: '曾博恩',
+          desc: '算得出笑點，算不準社會——「學測會考測不到極限」',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E5%9A%B4%E9%95%B7%E5%A3%BD',
+          title: '嚴長壽',
+          desc: '沒進過大學考場的人，成了考試制度最鋒利的批判者',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E5%A3%9E%E7%89%B9/',
+          title: '壞特?te',
+          desc: '醫學系讀九年的優等生，按下暫停鍵的那場休學',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E9%BB%83%E5%B0%91%E9%9B%B8',
+          title: '黃少雍',
+          desc: '30 歲棄生化博班，轉行搞音樂奪金曲',
+          badge: 'People',
+        },
+        {
+          href: '/timeline/',
+          title: '台灣時間軸',
+          desc: '學測放在台灣制度演化的完整座標裡',
+          badge: 'Hub',
+        },
+      ],
+    },
+    resources: {
+      title: '官方資料 & 外部工具',
+      intro:
+        'Taiwan.md 不重做工具。下面是學測制度的一手資料來源與升學資訊平台、公民監督工具，想查證任何數字或選校，從這裡開始。',
+      items: [
+        {
+          name: '大考中心（CEEC）',
+          url: 'https://www.ceec.edu.tw/',
+          desc: '法定考務機關——簡章、統計報表、成績證明、選才電子報',
+          icon: '🏛️',
+        },
+        {
+          name: 'ColleGo！大學選才與高中育才輔助系統',
+          url: 'https://collego.edu.tw/',
+          desc: '全國 1,700+ 校系師長親自填寫的選才資訊——學系課程、備審與面試準備資源、生涯探索工具',
+          icon: '🎓',
+        },
+        {
+          name: '大學問（升大學找大學問）',
+          url: 'https://www.unews.com.tw/',
+          desc: '全台最大升學資訊平台——升學策略、多元入學解讀、教育趨勢報導',
+          icon: '📰',
+        },
+        {
+          name: '大學多元入學升學網（教育部）',
+          url: 'https://nsdua.moe.edu.tw/',
+          desc: '教育部——繁星推薦與申請入學的官方報名、密碼設定與錄取查詢入口',
+          icon: '🏫',
+        },
+        {
+          name: '大學招生委員會聯合會',
+          url: 'https://www.jbcrc.edu.tw/',
+          desc: '申請入學名額、報名人數、分發率等全國考招統計',
+          icon: '📊',
+        },
+        {
+          name: '大學甄選入學委員會',
+          url: 'https://www.cac.edu.tw/',
+          desc: '繁星推薦與個人申請的簡章、登記與放榜作業',
+          icon: '📋',
+        },
+        {
+          name: '甄戰情報（reallygood）',
+          url: 'https://www.reallygood.com.tw/',
+          desc: '公民團隊整理的申請入學時程與考情數據視覺化',
+          icon: '🔍',
+        },
+        {
+          name: '台灣事實查核中心',
+          url: 'https://www.tfc.org.tw/',
+          desc: '放榜季滿天飛的「錄取率」「級分」訊息，先查再轉發',
+          icon: '✅',
+        },
+      ],
+    },
+    verify: {
+      title: '如何驗證 Taiwan.md 訊息？',
+      domainPrefix: '認準 domain：',
+      domainSuffix:
+        '。其他相似網址（taiwand.md / taiwan-md.com 等）不是 Taiwan.md。',
+      gitLog: '每篇文章都有公開 git log + footnote primary source。',
+      attribution:
+        '所有外部資料（大考中心／招聯會／甄選入學委員會）都附 source attribution + last-fetched timestamp。',
+      mvp: '本專題於 2026-08-19 上線，後續內容持續補齊。',
+      roadmap: '完整考招制度史、城鄉差距專題子頁與多視角文章持續上線中。',
+      footerPrefix: '🧬 Taiwan.md ——',
+      footerEmphasis: '不報導放榜速報，記錄制度怎麼長、誰走過考場',
+    },
+  },
+  en: {
+    meta: {
+      title: 'GSAT · Taiwan.md',
+      description:
+        'Every January, around 120,000 Taiwanese high-school seniors walk into exam halls at the same time. Taiwan.md documents how the system grew over thirty years — and the people who walked the bridge.',
+    },
+    hero: {
+      eyebrow: '📝 General Scholastic Ability Test · GSAT',
+      titlePrefix: 'GSAT',
+      titleEmphasis: '專題',
+      titleSuffix: '',
+      subtitle:
+        'Jan 17–19, 2026: ~121,000 examinees; next GSAT Jan 22–24, 2027',
+      countdownLabel: 'Days until next GSAT',
+      dayUnit: 'days',
+      dateLabel: 'Academic year 116 · 2027/1/22 (Thu) – 1/24 (Sat)',
+      recentTitle: 'AY115 GSAT has concluded',
+      recentSubtitle: 'Scores released 2026/2/25; 46.09% took all six subjects',
+      dateEmphasis: '2027/1/22–24',
+    },
+    role: {
+      title: 'Why Taiwan.md runs a GSAT section',
+      p1: 'The GSAT is not a news event but an annual social ritual: every January, roughly 120,000 examinees, 2,000+ exam venues and 60+ subject papers start at once.',
+      p2: 'We do not publish release-day leaderboards or endorse admission strategies. We document how the system evolved: why GSAT was born, why the 108 curriculum made subjects elective, and what the shadow of cram schools and urban–rural gaps looks like behind the paper.',
+      p3: 'The people who walked the exam hall matter just as much: top scorers, 70-grade founders of Teach for Taiwan, re-sitters turned famous tutors, and the sharpest critics of the whole system.',
+      p4: 'This section keeps documenting how the system evolves, how the numbers grow, and who walks the bridge.',
+      primaryCta: 'Read the full curation: GSAT →',
+    },
+    curation: {
+      title: 'The curation layer: three truths about this exam',
+      intro:
+        'The full findings of our knowledge-base article “The GSAT” — distilled into three truths: the system is an exam born to dismantle exams; its scale grows counter-intuitively under demographic decline; and scores map structural gaps, not just ability.',
+      overviewTitle:
+        'Truth 1: GSAT was born to dismantle a single national exam',
+      overviewBody:
+        'Debuting in 1994 with five compulsory subjects graded 0–15, GSAT replaced the joint entrance exam\u2019s one-shot verdict. The Star Program and personal application — together over half of all university seats — both start from GSAT. The 2018 curriculum reform retired the five-subject total grade and opened free subject choice (departments count up to 4); AY111 split math into A/B, formalizing six freely elective subjects. Officially, the change was meant to let “specialists” find their fit. In practice, 56,021 AY115 examinees (46.09%, a record three years running) took all six subjects — a rational strategy to keep every option open.',
+      fairnessTitle:
+        'Truth 2: behind the scores lies a structural resource gap',
+      fairnessBody:
+        'The fairness debate was never just about question difficulty. Chen Wan-chi\u2019s team linked 2014–2020 national admission data: at stage one, low-income students pass at lower rates — because GSAT scores themselves reflect family resources. The same study debunks a popular myth: at equal scores, disadvantaged students are admitted at higher rates in stage-two portfolio reviews, showing interviews do not skew toward the rich as assumed. The pandemic deepened another layer — rural students lacked a stable camera and an accompanying parent, not online classes; since GSAT covers grade-10 and 11 curricula, two full years of schooling resources are scored on one paper.',
+      fairnessQuote: {
+        text: '\u201cNo matter how education policy changes, so long as society rewards a single path of success through cutthroat competition, people will be induced into the wrong methods, distorting their true selves and extinguishing love of learning.\u201d',
+        who: '— Chen Wan-chi, Deputy Dean, Institute for Advanced Studies in Humanities and Social Sciences, Peking University',
+      },
+      articleLink: {
+        href: '/society/%E5%AD%B8%E6%B8%AC/',
+        label:
+          'Read the existing GSAT article: history, pathways, and retaking →',
+      },
+    },
+    subjects: {
+      title: 'What is tested: six elective subjects',
+      intro:
+        'Under the 108 curriculum, GSAT subjects became freely elective; since AY111, mathematics splits into Math A and Math B. Students combine subjects per each department\u2019s requirements.',
+      sourceNote:
+        'Subject structure per CEEC AY116 exam bulletin (announced 2026-08-04)',
+      items: [
+        {
+          name: 'Chinese',
+          spec: 'MCQ + constructed-response + essay',
+          desc: 'De facto compulsory; over 99% of examinees',
+        },
+        {
+          name: 'English',
+          spec: 'MCQ + translation + essay',
+          desc: 'Over 99% of examinees; core requirement for most departments',
+        },
+        {
+          name: 'Math A',
+          spec: 'STEM track',
+          desc: 'Core check subject for STEM departments; ~92,000 takers in 2026',
+        },
+        {
+          name: 'Math B',
+          spec: 'Liberal-arts track',
+          desc: 'Narrower scope than Math A; ~101,000 takers',
+        },
+        {
+          name: 'Social Studies',
+          spec: 'History–Geo–Civics combined',
+          desc: '~102,000 takers in AY115, rising three years running',
+        },
+        {
+          name: 'Natural Sciences',
+          spec: 'Physics–Chem–Bio–Earth combined',
+          desc: 'Historically the least-taken paper (~81,000 in AY115)',
+        },
+      ],
+    },
+    numbers: {
+      title: 'Scale: counter-intuitive growth under demographic decline',
+      intro:
+        'Births keep falling, yet GSAT registrations have rebounded for four straight years since the AY111 trough — re-sitting and multi-track applications outpaced the shrinking cohort.',
+      stats: [
+        {
+          value: '121,535',
+          label: 'AY115 registrations',
+          note: 'Four straight years of rebound; AY111 (116,465) was the decade\u2019s low',
+        },
+        {
+          value: '75',
+          label: 'Maximum grades',
+          note: 'Each subject is graded 0–15; departments typically count up to 4 subjects',
+        },
+        {
+          value: '46.09%',
+          label: 'Took all six subjects',
+          note: '56,021 students; rising three years running',
+        },
+        {
+          value: '50,450',
+          label: 'AY115 application-track seats',
+          note: '64 universities, 2,206 departments; ~56% placement rate',
+        },
+      ],
+      chartTitle: 'GSAT registrations, AY109–AY115',
+      chartSource: 'Joint Admission Council / CEEC statistics',
+      bars: [
+        { label: 'AY109', value: 133438, note: '' },
+        { label: 'AY110', value: 128600, note: '' },
+        { label: 'AY111', value: 116465, note: 'Decade low', highlight: true },
+        { label: 'AY112', value: 118551, note: '' },
+        { label: 'AY113', value: 120172, note: '' },
+        { label: 'AY114', value: 121181, note: '' },
+        { label: 'AY115', value: 121535, note: 'Fourth rebound year' },
+      ],
+    },
+    people: {
+      title: 'People who walked the exam hall',
+      intro:
+        'Nine faces deeply entangled with the exam hall: top scorers, high scorers, track-changers, losers, and system helms — the same bridge, nine different roads on the other side.',
+      groups: [
+        {
+          group: 'Top & high scorers',
+          items: [
+            {
+              name: 'Niu Chun-fu 牛淳賦',
+              badge: 'AY115 perfect 75',
+              desc: 'All four siblings in the family scored a perfect 75',
+              href: 'https://udn.com/news/story/6925/9345041',
+            },
+            {
+              name: 'Liu An-ting 劉安婷',
+              badge: '70 grades in 2008',
+              desc: 'Admitted to NTU and Princeton; founded Teach for Taiwan at 23',
+              href: '/people/%E5%8A%89%E5%AE%89%E5%A9%B7',
+            },
+          ],
+        },
+        {
+          group: 'Track-changers',
+          items: [
+            {
+              name: 'Lyu Kuan-wei 呂冠緯',
+              badge: 'NTU Medicine',
+              desc: 'Traded the white coat for an edtech platform fighting the admissions gap',
+              href: '/people/%E5%91%82%E5%86%A0%E7%B7%AF/',
+            },
+            {
+              name: 'Sam Huang 黃少雍',
+              badge: 'NTU Biochem MSc',
+              desc: 'Abandoned a PhD for electro-pop; fused Indigenous languages into Golden Melody-winning music',
+              href: '/people/%E9%BB%83%E5%B0%91%E9%9B%B8',
+            },
+            {
+              name: '?te 壞特',
+              badge: '9 years in medical school',
+              desc: 'Passed both medical license stages, then turned to music; Golden Melody Best New Artist',
+              href: '/people/%E5%A3%9E%E7%89%B9/',
+            },
+            {
+              name: 'Tseng Po-en 曾博恩',
+              badge: 'Jian-Ming High → NTU',
+              desc: '\u201cGSAT and EOC cannot measure one\u2019s limits\u201d — left a PhD track for stand-up comedy',
+              href: '/people/%E6%9B%BE%E5%8D%9A%E6%81%A9/',
+            },
+          ],
+        },
+        {
+          group: 'Losers & critics',
+          items: [
+            {
+              name: 'Lyu Jie 呂捷',
+              badge: 'Re-sitter',
+              desc: 'Failed the joint exam, re-sat, and landed in a history department — now Taiwan\u2019s most famous history cram tutor',
+              href: '/people/%E5%91%82%E6%8D%B7/',
+            },
+            {
+              name: 'Peter Yen 嚴長壽',
+              badge: 'High-school degree',
+              desc: 'Never entered a university exam hall; the system\u2019s sharpest critic',
+              href: '/people/%E5%9A%B4%E9%95%B7%E5%A3%BD',
+            },
+          ],
+        },
+        {
+          group: 'System helms',
+          items: [
+            {
+              name: 'Chang Hsin-jen 張新仁',
+              badge: 'CEEC Director',
+              desc: '\u201cStudents\u2019 subject choices still hinge on what universities designate as reference subjects\u201d',
+              href: 'https://www.ceec.edu.tw/xmdoc?xsmsid=0J018604485538810196',
+            },
+            {
+              name: 'Chen Wan-chi 陳婉琪',
+              badge: 'Sociology professor',
+              desc: 'Uses national exam data to answer \u201cis multi-track admission fair?\u201d',
+              href: '/society/%E5%AD%B8%E6%B8%AC/',
+            },
+          ],
+        },
+      ],
+      quote: {
+        text: '\u201cThe GSAT is a bridge everyone walks together, but the roads beyond it are different for everyone.\u201d',
+        who: '— Curator\u2019s note',
+      },
+    },
+    pipelines: {
+      title: 'Beyond GSAT: the other routes',
+      intro:
+        'GSAT is just one trunk road on the admissions map. The Star Program rides it, personal applications lean on it, and subject-based distribution uses it as a threshold; UST examinations, the Subject Test, Special Talents Admission, and separate exams for disabled students complete the grid.',
+      items: [
+        {
+          name: 'Star Program 繁星推薦',
+          spec: 'HS record + GSAT',
+          desc: 'High-school recommendation limited to local applicants; the route with the highest share of rural students at top universities',
+          accent: accents[0],
+        },
+        {
+          name: 'Personal Application 個人申請',
+          spec: 'GSAT + portfolio + second-stage interview',
+          desc: 'The largest channel, over half of all university seats; AY115: 64 universities, 2,206 departments, 50,450 seats',
+          accent: accents[1],
+        },
+        {
+          name: 'Distribution 考試分發',
+          spec: 'Subject Test (ex-JEE)',
+          desc: 'Direct placement by Subject Test scores, run by CEEC; core STEM / humanities papers',
+          accent: accents[2],
+        },
+        {
+          name: 'UST Examination 統測',
+          spec: 'For 4-yr & 2-yr vocational colleges',
+          desc: 'The \u201cGSAT\u201d of the vocational track, run by the Technology & Vocational Education College Admission Center',
+          accent: accents[3],
+        },
+        {
+          name: 'Special Talents Admission 特殊選才',
+          spec: 'Independent channel',
+          desc: 'For athletes, inventors and creators; usually does not count GSAT scores; annual December intake since AY107',
+          accent: accents[0],
+        },
+        {
+          name: 'Disabled examinees 身心障礙考生',
+          spec: 'Extended-clock exam halls',
+          desc: 'Both CEEC and TVAC provide extended time, special seating and aids; Braille and enlarged papers for visually impaired students',
+          accent: accents[1],
+        },
+      ],
+      sourceNote:
+        'Per CEEC / TVAC exam bulletins; application & Star Program seats per the Joint Admission Council',
+    },
+    history: {
+      title: 'From the Joint Entrance Exam to free elective subjects',
+      intro:
+        'CEEC\u2019s predecessor rotated the Joint Entrance Exam among universities from 1954; GSAT debuted in 1994 and opened the multi-track era. Every reform re-calibrated \u201cuniversities choosing talents\u201d against \u201cstudents preparing fit\u201d.',
+      items: [
+        {
+          year: '1954–1993',
+          title: 'Joint Entrance Exam era',
+          note: 'Rotating host universities ran the single national exam',
+        },
+        {
+          year: '1992–1993',
+          title: 'Multi-track proposal',
+          note: 'MOE pushed reform; CEEC began developing GSAT',
+        },
+        {
+          year: '1994',
+          title: 'First GSAT',
+          note: 'Launched alongside recommendation admission; the joint exam began to loosen',
+        },
+        {
+          year: '1999',
+          title: 'New multi-track scheme',
+          note: 'Recommendation, application and distribution channels formalized',
+        },
+        {
+          year: '2002',
+          title: 'Joint exam retires',
+          note: 'Designated Subject Examination (JEE) replaced it',
+        },
+        {
+          year: '2007',
+          title: 'Star Program',
+          note: 'GSAT + HS recommendation to lift rural access to top universities',
+        },
+        {
+          year: '2011',
+          title: 'Listening test pilot',
+          note: 'First GSAT English listening administration',
+        },
+        {
+          year: '2019',
+          title: '108 curriculum reform',
+          note: 'Five-subject total grades retired; free subject choice, departments count up to 4',
+        },
+        {
+          year: '2022',
+          title: 'Math A / Math B split',
+          note: 'Six freely elective subjects in total',
+        },
+        {
+          year: '2026–2027',
+          title: 'Academic year 116',
+          note: 'Bulletin announced 2026/8/4; GSAT 2027/1/22–24, six electives maintained',
+        },
+      ],
+    },
+    related: {
+      title: 'Taiwan.md\u2019s curation layer',
+      intro:
+        'Start with these to understand why GSAT tests this way and admits this way — not just who scored perfect this year.',
+      articles: [
+        {
+          href: '/society/%E5%AD%B8%E6%B8%AC/',
+          title: 'The GSAT',
+          desc: 'Existing core article: history, subject choices, pathways, and retaking',
+          badge: 'Featured',
+        },
+        {
+          href: '/people/%E5%8A%89%E5%AE%89%E5%A9%B7',
+          title: 'Liu An-ting',
+          desc: 'From 70 grades to rural classrooms',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E5%91%82%E6%8D%B7/',
+          title: 'Lyu Jie',
+          desc: 'From an avoided 228 question to 28 Taiwan-history lessons',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E5%91%82%E5%86%A0%E7%B7%AF/',
+          title: 'Lyu Kuan-wei',
+          desc: 'From medical school to the Junyi education platform',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E6%9B%BE%E5%8D%9A%E6%81%A9/',
+          title: 'Tseng Po-en',
+          desc: '\u201cGSAT and EOC cannot measure one\u2019s limits\u201d',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E5%9A%B4%E9%95%B7%E5%A3%BD',
+          title: 'Peter Yen',
+          desc: 'The sharpest critic of the exam system, who never took it',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E5%A3%9E%E7%89%B9/',
+          title: '?te',
+          desc: 'Nine years in medical school, then the Golden Melody',
+          badge: 'People',
+        },
+        {
+          href: '/people/%E9%BB%83%E5%B0%91%E9%9B%B8',
+          title: 'Sam Huang',
+          desc: 'From biochem PhD track to Golden Melody-winning electro-pop',
+          badge: 'People',
+        },
+        {
+          href: '/timeline/',
+          title: 'Taiwan Timeline',
+          desc: 'GSAT inside Taiwan\u2019s full institutional coordinates',
+          badge: 'Hub',
+        },
+      ],
+    },
+    resources: {
+      title: 'Official data & tools',
+      intro:
+        'Taiwan.md does not rebuild tools. These are the primary sources of the GSAT system and the civic platforms every applicant should know.',
+      items: [
+        {
+          name: 'CEEC',
+          url: 'https://www.ceec.edu.tw/',
+          desc: 'Legal exam body — bulletins, statistics, score certificates',
+          icon: '🏛️',
+        },
+        {
+          name: 'ColleGo!',
+          url: 'https://collego.edu.tw/',
+          desc: 'MOE-run platform with 1,700+ departments\u2019 own admission information',
+          icon: '🎓',
+        },
+        {
+          name: 'unews 大學問',
+          url: 'https://www.unews.com.tw/',
+          desc: 'Taiwan\u2019s largest admission-news platform',
+          icon: '📰',
+        },
+        {
+          name: 'MOE Admissions Portal',
+          url: 'https://nsdua.moe.edu.tw/',
+          desc: 'Official registration for Star Program & personal application',
+          icon: '🏫',
+        },
+        {
+          name: 'Joint Admission Council',
+          url: 'https://www.jbcrc.edu.tw/',
+          desc: 'National seat, applicant and placement statistics',
+          icon: '📊',
+        },
+        {
+          name: 'CAC 甄選入學委員會',
+          url: 'https://www.cac.edu.tw/',
+          desc: 'Star Program & application registration and release',
+          icon: '📋',
+        },
+        {
+          name: 'reallygood 甄戰情報',
+          url: 'https://www.reallygood.com.tw/',
+          desc: 'Civic-team visualization of application-track data',
+          icon: '🔍',
+        },
+        {
+          name: 'TFC 事實查核中心',
+          url: 'https://www.tfc.org.tw/',
+          desc: 'IFCN-certified fact-checking for release-season rumors',
+          icon: '✅',
+        },
+      ],
+    },
+    verify: {
+      title: 'How do you verify Taiwan.md?',
+      domainPrefix: 'Check the domain: ',
+      domainSuffix:
+        '. Similar domains (taiwand.md / taiwan-md.com etc.) are not Taiwan.md.',
+      gitLog: 'Every article has a public git log + footnote primary source.',
+      attribution:
+        'All external data (CEEC / JAC / CAC) carries source attribution + last-fetched timestamps.',
+      mvp: 'This section launched 2026-08-19; content keeps being filled in.',
+      roadmap:
+        'A full admissions-institution history, an urban–rural gap subpage and multi-perspective articles are coming.',
+      footerPrefix: '🧬 Taiwan.md ——',
+      footerEmphasis:
+        'No release-day leaderboards; we document how the system grew and who walked the bridge',
+    },
+  },
+};
+
+const lang = getLangFromUrl(Astro.url);
+const copy = gsatCopy[lang] ?? gsatCopy['zh-TW'];
+const pageTitle = copy.meta.title;
+const pageDescription = copy.meta.description;
+
+// ===== build-time countdown to the next GSAT (116 academic year: 2027-01-22) =====
+const nextExamDate = new Date('2027-01-22T08:30:00+08:00');
+const nowBuild = new Date();
+const msPerDay = 86_400_000;
+const daysUntil = Math.max(
+  0,
+  Math.ceil((nextExamDate.getTime() - nowBuild.getTime()) / msPerDay),
+);
+
+// chart geometry
+const bars = copy.numbers.bars;
+const maxVal = Math.max(...bars.map((b) => b.value));
+
+const subjectCardIcons = ['國', '英', 'A', 'B', '社', '自'];
+
+// ===== 實用準備清單：明確區分「當年度簡章規定」與「行前建議」 =====
+const examDay =
+  lang === 'en'
+    ? {
+        title: 'Before the bell: a practical GSAT checklist',
+        intro:
+          'Pack with the current CEEC brochure open. This is a preparation aid—not a substitute for the annual rules, venue notice, or your admission information.',
+        packingTitle: 'Pack before leaving home',
+        packing: [
+          'Original valid identity document required by the current brochure (a student ID is not a valid test-day identity document).',
+          'Black 2B pencils, a clean eraser, black-ink pen, and a transparent writing pad; check the current brochure for subject-specific rules.',
+          'A transparent stationery pouch with no printed text or symbols, if you need to carry stationery together.',
+          'A route plan, venue and seat information, plus enough time for entrance checks and unexpected transport delays.',
+          'Warm or rain gear and personally required medication; ask CEEC in advance if a medical item needs test-day accommodation.',
+        ],
+        avoidTitle: 'Do not bring these to your seat',
+        avoid: [
+          'Mobile phones, smart watches, smart glasses, wristbands, earphones, or other electronic wearable devices.',
+          'Unapproved electronic equipment, notes, books, calculators, or stationery that does not meet the current brochure rules.',
+          'Any item you are unsure about: leave it outside the test seat or confirm with the test center before the session begins.',
+        ],
+        flowTitle: 'The day before → the day of the exam',
+        flow: [
+          {
+            time: 'The day before',
+            text: 'Check the CEEC venue/seating notice, test subjects and timetable; walk or map the route and prepare two transport options.',
+          },
+          {
+            time: 'Before departure',
+            text: 'Recheck your original identity document and permitted stationery. Turn off devices and keep them out of the test seat.',
+          },
+          {
+            time: 'At the venue',
+            text: 'Follow the test center’s admission time and staff directions. Confirm your room and seat calmly; do not rely on a screenshot alone.',
+          },
+          {
+            time: 'During the session',
+            text: 'Read the answer-sheet and booklet instructions first. If you are unwell or have a test-site problem, raise your hand and ask a proctor rather than handling it alone.',
+          },
+        ],
+        supportTitle: 'Need an accommodation?',
+        support:
+          'Candidates with disabilities or major illnesses should apply through the CEEC’s annual accommodation process within the published registration window. Services may include accessible seating, assistive devices, a separate or lower-floor room, extra testing time, enlarged or braille papers, and other case-based arrangements.',
+        supportLink: 'CEEC accommodation application information',
+        brochureLink: 'AY116 CEEC exam brochure (official PDF)',
+        notice:
+          'Rules, permitted items and schedules can change each year. The current CEEC brochure and test-center notice always control.',
+      }
+    : {
+        title: '考前一晚到入場前：學測應試準備清單',
+        intro:
+          '把本區當作行前檢查表，不當成簡章的替代品。考場規定、有效證件與可攜物品應以當年度大考中心簡章、試場分配表與考區公告為準。',
+        packingTitle: '出門前，逐項勾選',
+        packing: [
+          '當年度簡章規定的應試有效證件正本；學生證不是應試有效證件，請勿只帶學生證。',
+          '黑色 2B 軟心鉛筆、乾淨橡皮擦、黑色墨水筆與透明墊板；各考科細節仍須依當年度簡章確認。',
+          '如需攜帶文具，使用無文字符號的透明文具袋（盒），避免帶入無法辨識或不符規範的用品。',
+          '考區、試場與座位資訊；預留進場查驗與交通延誤時間，並準備至少一個備用交通方案。',
+          '保暖衣物、雨具與個人必要藥物；醫療用品若可能影響應試，請提早向大考中心確認是否需要申請服務。',
+        ],
+        avoidTitle: '不要帶進座位',
+        avoid: [
+          '行動電話、智慧手錶、智慧眼鏡、智慧手環、耳機等電子穿戴式裝置。',
+          '未獲允許的電子設備、筆記、書籍、計算機或不符合當年度簡章規範的文具。',
+          '任何拿不準的物品：不放在座位周邊，於考試前向考區人員確認。',
+        ],
+        flowTitle: '前一日 → 考試當日',
+        flow: [
+          {
+            time: '考前一日',
+            text: '查大考中心試場分配與座位資訊，核對自己報考的科目與節次；先走一次或在地圖上確認路線，至少備妥兩種交通方案。',
+          },
+          {
+            time: '出門前',
+            text: '再確認有效證件正本與合規文具；所有電子裝置關機、不帶進座位。',
+          },
+          {
+            time: '抵達考區',
+            text: '依考區開放時間與試務人員指示入場；冷靜確認試場與座位，不只依賴手機截圖。',
+          },
+          {
+            time: '考試進行中',
+            text: '先讀答案卡與試題本說明；身體不適或遇到試務問題時舉手請監試人員協助，不要自行處理。',
+          },
+        ],
+        supportTitle: '需要特殊應考服務？',
+        support:
+          '身心障礙或重大傷病考生，應在大考中心公告的報名期限內，依年度規定提出應考服務申請。服務可能包括便於應試的座位、低樓層或特殊試場、輔具、延長考試時間、放大或點字試題等，均依個案與審查結果辦理。',
+        supportLink: '大考中心：身心障礙及重大傷病考生應考服務',
+        brochureLink: '116 學年度考試簡章（大考中心 PDF）',
+        notice:
+          '考試日期、可攜物品、違規處理與服務申請均可能逐年更新；最後決定以當年度簡章及考區公告為準。',
+      };
+---
+
+<Layout lang={lang} title={pageTitle} description={pageDescription}>
+  <main class="gsat main" style="padding: 0;">
+    {/* ============ HERO ============ */}
+    <section class="gsat-hero">
+      <div class="section-inner">
+        <p class="eyebrow">{copy.hero.eyebrow}</p>
+        <h1 class="hero-title">
+          <span>{copy.hero.titlePrefix}</span>
+          <span class="em">{copy.hero.titleEmphasis}</span>
+          {copy.hero.titleSuffix && <span>{copy.hero.titleSuffix}</span>}
+        </h1>
+        <p class="hero-subtitle">{copy.hero.subtitle}</p>
+        <div class="hero-meta-row">
+          <div class="countdown-chip">
+            <span class="chip-label">{copy.hero.countdownLabel}</span>
+            <span class="chip-value">
+              {daysUntil}
+              <span class="chip-unit">{copy.hero.dayUnit}</span>
+            </span>
+          </div>
+          <div class="date-chip">{copy.hero.dateLabel}</div>
+        </div>
+        <div class="hero-status">
+          <strong>{copy.hero.recentTitle}</strong>
+          <span>{copy.hero.recentSubtitle}</span>
+        </div>
+      </div>
+    </section>
+
+    {/* ============ ROLE ============ */}
+    <section class="gsat-role">
+      <div class="section-inner">
+        <h2>{copy.role.title}</h2>
+        <div class="role-grid">
+          <p class="role-p role-p1">{copy.role.p1}</p>
+          <p class="role-p role-p2">{copy.role.p2}</p>
+          <p class="role-p role-p3">{copy.role.p3}</p>
+          <p class="role-p role-p4">{copy.role.p4}</p>
+        </div>
+        <a
+          class="cta-primary"
+          href={copy.related.articles[0]?.href ?? '/exams/gsat/'}
+        >
+          {copy.role.primaryCta}
+        </a>
+      </div>
+    </section>
+
+    {/* ============ CURATION (文章整合) ============ */}
+    <section class="gsat-curation">
+      <div class="section-inner">
+        <h2>{copy.curation.title}</h2>
+        <p class="section-intro">{copy.curation.intro}</p>
+        <div class="curation-grid">
+          <div class="truth-card">
+            <h3>{copy.curation.overviewTitle}</h3>
+            <p>{copy.curation.overviewBody}</p>
+          </div>
+          <div class="truth-card">
+            <h3>{copy.curation.fairnessTitle}</h3>
+            <p>{copy.curation.fairnessBody}</p>
+          </div>
+        </div>
+        <blockquote class="curation-quote">
+          <p>{copy.curation.fairnessQuote.text}</p>
+          <cite>{copy.curation.fairnessQuote.who}</cite>
+        </blockquote>
+        <a
+          class="cta-primary cta-article"
+          href={copy.curation.articleLink.href}
+        >
+          {copy.curation.articleLink.label}
+        </a>
+      </div>
+    </section>
+
+    {/* ============ SUBJECTS ============ */}
+    <section class="gsat-subjects">
+      <div class="section-inner">
+        <h2>{copy.subjects.title}</h2>
+        <p class="section-intro">{copy.subjects.intro}</p>
+        <div class="subject-grid">
+          {
+            copy.subjects.items.map((s, i) => (
+              <div class="card subject-card">
+                <div class="card-icon">{subjectCardIcons[i]}</div>
+                <h3>{s.name}</h3>
+                <p class="card-spec">{s.spec}</p>
+                <p class="card-desc">{s.desc}</p>
+              </div>
+            ))
+          }
+        </div>
+        {
+          copy.subjects.sourceNote && (
+            <p class="source-note">📌 {copy.subjects.sourceNote}</p>
+          )
+        }
+      </div>
+    </section>
+
+    {/* ============ NUMBERS ============ */}
+    <section class="gsat-numbers">
+      <div class="section-inner">
+        <h2>{copy.numbers.title}</h2>
+        <p class="section-intro">{copy.numbers.intro}</p>
+        <div class="stat-grid">
+          {
+            copy.numbers.stats.map((s) => (
+              <div class="stat-card">
+                <div class="stat-value">{s.value}</div>
+                <div class="stat-label">{s.label}</div>
+                <div class="stat-note">{s.note}</div>
+              </div>
+            ))
+          }
+        </div>
+        <div class="chart-panel">
+          <h3>{copy.numbers.chartTitle}</h3>
+          <div class="tw-bars" id="tw-bars-gsat">
+            {
+              bars.map((b) => (
+                <div class="tw-bar">
+                  <div
+                    class="tw-bar-inner"
+                    style={`width: ${Math.round((b.value / maxVal) * 100)}%`}
+                  >
+                    <span class="tw-bar-val">{b.value.toLocaleString()}</span>
+                  </div>
+                  <div class="tw-bar-label">
+                    <span class="tw-bar-year">{b.label}</span>
+                    {b.note && <span class="tw-bar-note">{b.note}</span>}
+                  </div>
+                </div>
+              ))
+            }
+          </div>
+          <p class="source-note">📌 {copy.numbers.chartSource}</p>
+        </div>
+      </div>
+    </section>
+
+    {/* ============ PEOPLE ============ */}
+    <section class="gsat-people">
+      <div class="section-inner">
+        <h2>{copy.people.title}</h2>
+        <p class="section-intro">{copy.people.intro}</p>
+        <div class="people-groups">
+          {
+            copy.people.groups.map((g) => (
+              <div class="people-group">
+                <h3 class="group-title">{g.group}</h3>
+                <div class="people-grid">
+                  {g.items.map((p) => (
+                    <a class="card person-card" href={p.href}>
+                      <div
+                        class="person-badge"
+                        style={`background:${accents[0]}`}
+                      >
+                        {p.badge}
+                      </div>
+                      <h4>{p.name}</h4>
+                      <p>{p.desc}</p>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            ))
+          }
+        </div>
+        <blockquote class="people-quote">
+          <p>{copy.people.quote.text}</p>
+          <cite>{copy.people.quote.who}</cite>
+        </blockquote>
+      </div>
+    </section>
+
+    {/* ============ PIPELINES ============ */}
+    <section class="gsat-pipelines">
+      <div class="section-inner">
+        <h2>{copy.pipelines.title}</h2>
+        <p class="section-intro">{copy.pipelines.intro}</p>
+        <div class="pipeline-grid">
+          {
+            copy.pipelines.items.map((p) => (
+              <div class="card pipeline-card">
+                <div class="pipeline-accent" style={`background:${p.accent}`} />
+                <h3>{p.name}</h3>
+                <p class="card-spec">{p.spec}</p>
+                <p class="card-desc">{p.desc}</p>
+              </div>
+            ))
+          }
+        </div>
+        <p class="source-note">📌 {copy.pipelines.sourceNote}</p>
+      </div>
+    </section>
+
+    {/* ============ EXAM-DAY READINESS ============ */}
+    <section class="gsat-exam-day" aria-labelledby="gsat-exam-day-title">
+      <div class="section-inner">
+        <p class="section-kicker">EXAM-DAY FIELD NOTE</p>
+        <h2 id="gsat-exam-day-title">{examDay.title}</h2>
+        <p class="section-intro">{examDay.intro}</p>
+        <div class="exam-prep-grid">
+          <article class="exam-panel packing-panel">
+            <h3>✓ {examDay.packingTitle}</h3>
+            <div class="packing-list">
+              {
+                examDay.packing.map((item) => (
+                  <label class="pack-item">
+                    <input type="checkbox" />
+                    <span class="pack-text">{item}</span>
+                  </label>
+                ))
+              }
+            </div>
+          </article>
+          <article class="exam-panel avoid-panel">
+            <h3>× {examDay.avoidTitle}</h3>
+            <ul>{examDay.avoid.map((item) => <li>{item}</li>)}</ul>
+          </article>
+        </div>
+        <div class="exam-flow">
+          <h3>{examDay.flowTitle}</h3>
+          <ol>
+            {
+              examDay.flow.map((step, index) => (
+                <li>
+                  <>
+                    <span class="flow-number">0{index + 1}</span>
+                    <div>
+                      <>
+                        <strong>{step.time}</strong>
+                        <p>{step.text}</p>
+                      </>
+                    </div>
+                  </>
+                </li>
+              ))
+            }
+          </ol>
+        </div>
+        <aside class="exam-support">
+          <div>
+            <p class="support-label">ACCESS & ACCOMMODATION</p>
+            <h3>{examDay.supportTitle}</h3>
+            <p>{examDay.support}</p>
+          </div>
+          <div class="exam-links">
+            <a
+              href="https://www.ceec.edu.tw/xmfile?xsmsid=0J052605494129871538"
+              target="_blank"
+              rel="noopener"
+              >{examDay.supportLink} <span aria-hidden="true">↗</span></a
+            >
+            <a
+              href="https://www.ceec.edu.tw/files/file_pool/1/0q215601929252011195/116%E5%AD%B8%E5%B9%B4%E5%BA%A6%E7%B0%A1%E7%AB%A0.pdf"
+              target="_blank"
+              rel="noopener"
+              >{examDay.brochureLink} <span aria-hidden="true">↗</span></a
+            >
+          </div>
+        </aside>
+        <p class="exam-day-notice">⚠ {examDay.notice}</p>
+      </div>
+    </section>
+
+    {/* ============ HISTORY ============ */}
+    <section class="gsat-history">
+      <div class="section-inner">
+        <h2>{copy.history.title}</h2>
+        <p class="section-intro">{copy.history.intro}</p>
+        <ol class="tw-timeline" id="tw-timeline-gsat">
+          {
+            copy.history.items.map((h) => (
+              <li>
+                <time>{h.year}</time>
+                <h3>{h.title}</h3>
+                <p>{h.note}</p>
+              </li>
+            ))
+          }
+        </ol>
+      </div>
+    </section>
+
+    {/* ============ RELATED ============ */}
+    <section class="gsat-related">
+      <div class="section-inner">
+        <h2>{copy.related.title}</h2>
+        <p class="section-intro">{copy.related.intro}</p>
+        <div class="article-grid">
+          {
+            copy.related.articles.map((a) => (
+              <a class="card article-card" href={a.href}>
+                <span
+                  class="article-badge"
+                  style={`background:${a.badge === 'Featured' ? accents[0] : a.badge === 'Hub' ? accents[2] : accents[1]}`}
+                >
+                  {a.badge}
+                </span>
+                <h3>{a.title}</h3>
+                <p>{a.desc}</p>
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    {/* ============ RESOURCES ============ */}
+    <section class="gsat-resources">
+      <div class="section-inner">
+        <h2>{copy.resources.title}</h2>
+        <p class="section-intro">{copy.resources.intro}</p>
+        <div class="resource-grid">
+          {
+            copy.resources.items.map((r) => (
+              <a
+                class="card resource-card"
+                href={r.url}
+                target="_blank"
+                rel="noopener"
+              >
+                <span class="resource-icon">{r.icon}</span>
+                <h3>{r.name}</h3>
+                <p>{r.desc}</p>
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    {/* ============ VERIFY FOOTER ============ */}
+    <section class="gsat-verify">
+      <div class="section-inner">
+        <h2>{copy.verify.title}</h2>
+        <p>
+          {copy.verify.domainPrefix}
+          <strong>taiwan.md</strong>{copy.verify.domainSuffix}
+        </p>
+        <ul class="verify-list">
+          <li>✅ {copy.verify.gitLog}</li>
+          <li>📎 {copy.verify.attribution}</li>
+          <li>🧭 {copy.verify.mvp}</li>
+          <li>🚧 {copy.verify.roadmap}</li>
+        </ul>
+        <p class="verify-footer">
+          {copy.verify.footerPrefix}
+          <strong>{copy.verify.footerEmphasis}</strong>
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <style>
+    /* ===== GSAT 專題樣式（CEEC 學測卡酒紅色系）===== */
+    .gsat {
+      --gsat-accent: #9d3d45;
+      --gsat-navy: #6d3226;
+      --gsat-bg: #eeecea;
+      --gsat-soft: #fdf3ec;
+      --gsat-border: #e0d9cf;
+      --gsat-link: #cf4747;
+      --gsat-text: #505050;
+      background: var(--gsat-bg);
+    }
+    .gsat .section-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 56px 20px;
+    }
+    .gsat h2 {
+      font-size: 1.75rem;
+      color: var(--gsat-navy);
+      border-left: 5px solid var(--gsat-accent);
+      padding-left: 14px;
+      margin-bottom: 12px;
+    }
+    .gsat .section-intro {
+      color: var(--gsat-text);
+      max-width: 780px;
+      margin-bottom: 28px;
+    }
+
+    /* Hero */
+    .gsat-hero {
+      background: linear-gradient(
+        160deg,
+        #eeecea 0%,
+        #fdf3ec 45%,
+        #ffffff 100%
+      );
+      border-bottom: 3px solid var(--gsat-accent);
+    }
+    .gsat-hero .eyebrow {
+      font-size: 0.9rem;
+      letter-spacing: 0.12em;
+      color: var(--gsat-accent);
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+    .gsat-hero .hero-title {
+      font-size: 3.4rem;
+      line-height: 1.1;
+      color: var(--gsat-navy);
+      margin-bottom: 16px;
+    }
+    .gsat-hero .hero-title .em {
+      color: var(--gsat-accent);
+      position: relative;
+    }
+    .gsat-hero .hero-title .em::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: 2px;
+      width: 100%;
+      height: 8px;
+      background: rgba(157, 61, 69, 0.18);
+      z-index: -1;
+    }
+    .gsat-hero .hero-subtitle {
+      font-size: 1.15rem;
+      color: var(--gsat-text);
+      max-width: 720px;
+      margin-bottom: 24px;
+    }
+    .gsat-hero .hero-meta-row {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    .gsat-hero .countdown-chip,
+    .gsat-hero .date-chip {
+      background: var(--gsat-accent);
+      color: #fff;
+      padding: 10px 18px;
+      border-radius: 24px;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .gsat-hero .date-chip {
+      background: var(--gsat-navy);
+    }
+    .gsat-hero .chip-unit {
+      font-size: 0.85em;
+      font-weight: 400;
+    }
+    .gsat-hero .hero-status {
+      background: #fff;
+      border: 1px solid var(--gsat-border);
+      border-left: 5px solid #ba451a;
+      padding: 14px 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      max-width: 720px;
+      color: var(--gsat-text);
+    }
+
+    /* Role */
+    .gsat-role {
+      background: #fff;
+    }
+    .gsat-role .role-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 24px 0;
+    }
+    .gsat-role .role-p {
+      color: var(--gsat-text);
+      padding: 18px;
+      background: var(--gsat-soft);
+      border: 1px solid var(--gsat-border);
+      border-radius: 8px;
+    }
+    .gsat-role .role-p1 {
+      grid-column: 1 / -1;
+      background: #fff;
+      border: 2px solid var(--gsat-accent);
+      font-size: 1.05rem;
+    }
+    .cta-primary {
+      display: inline-block;
+      background: var(--gsat-accent);
+      color: #fff !important;
+      padding: 12px 26px;
+      border-radius: 26px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .cta-primary:hover {
+      background: var(--gsat-navy);
+    }
+
+    /* Curation (文章整合) */
+    .gsat-curation {
+      background: #fff;
+      border-top: 1px solid var(--gsat-border);
+    }
+    .curation-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 24px 0;
+    }
+    .truth-card {
+      background: var(--gsat-soft);
+      border: 1px solid var(--gsat-border);
+      border-top: 4px solid var(--gsat-accent);
+      border-radius: 10px;
+      padding: 24px;
+    }
+    .truth-card h3 {
+      color: var(--gsat-navy);
+      font-size: 1.15rem;
+      margin-bottom: 12px;
+    }
+    .truth-card p {
+      color: var(--gsat-text);
+      font-size: 0.98rem;
+      line-height: 1.75;
+    }
+    .curation-quote {
+      background: #fff;
+      border-left: 5px solid var(--gsat-accent);
+      padding: 22px 26px;
+      margin: 8px 0 26px;
+      font-size: 1.08rem;
+      color: var(--gsat-navy);
+    }
+    .curation-quote cite {
+      display: block;
+      margin-top: 10px;
+      font-size: 0.9rem;
+      font-style: normal;
+      color: var(--gsat-text);
+    }
+    .cta-article {
+      margin-bottom: 8px;
+    }
+
+    /* Cards */
+    .gsat .card {
+      background: #fff;
+      border: 1px solid var(--gsat-border);
+      border-radius: 10px;
+      padding: 22px;
+      transition:
+        transform 0.2s,
+        border-color 0.2s;
+    }
+    .gsat .card:hover {
+      transform: translateY(-3px);
+      border-color: var(--gsat-accent);
+    }
+    .gsat .card-spec {
+      font-size: 0.85rem;
+      color: var(--gsat-accent);
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .gsat .card-desc {
+      color: var(--gsat-text);
+      font-size: 0.95rem;
+    }
+
+    /* Subjects */
+    .gsat-subjects .subject-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+    }
+    .subject-card {
+      text-align: center;
+    }
+    .subject-card .card-icon {
+      width: 52px;
+      height: 52px;
+      margin: 0 auto 12px;
+      border-radius: 50%;
+      background: var(--gsat-accent);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+      font-weight: 700;
+    }
+
+    /* Numbers */
+    .gsat-numbers {
+      background: #fff;
+    }
+    .gsat-numbers .stat-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    .stat-card {
+      background: var(--gsat-soft);
+      border: 1px solid var(--gsat-border);
+      border-radius: 10px;
+      padding: 20px 16px;
+      text-align: center;
+    }
+    .stat-card .stat-value {
+      font-size: 2rem;
+      font-weight: 800;
+      color: var(--gsat-accent);
+    }
+    .stat-card .stat-label {
+      font-weight: 700;
+      margin: 6px 0;
+      color: var(--gsat-navy);
+    }
+    .stat-card .stat-note {
+      font-size: 0.8rem;
+      color: var(--gsat-text);
+    }
+    .chart-panel {
+      background: var(--gsat-bg);
+      border: 1px solid var(--gsat-border);
+      border-radius: 12px;
+      padding: 24px;
+    }
+    .chart-panel h3 {
+      color: var(--gsat-navy);
+      margin-bottom: 18px;
+    }
+    .tw-bars {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .tw-bar {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .tw-bar-inner {
+      background: linear-gradient(90deg, var(--gsat-accent), #ba451a);
+      height: 30px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      padding-right: 10px;
+      color: #fff;
+      font-size: 0.85rem;
+      font-weight: 700;
+      min-width: 60px;
+    }
+    .tw-bar-inner .tw-bar-val {
+      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    }
+    .tw-bar.highlight .tw-bar-inner {
+      background: linear-gradient(90deg, #5b4aa0, #9d3d45);
+    }
+    .tw-bar-label {
+      display: flex;
+      gap: 12px;
+      font-size: 0.85rem;
+      color: var(--gsat-text);
+    }
+    .tw-bar-year {
+      font-weight: 700;
+      color: var(--gsat-navy);
+    }
+    .tw-bar-note {
+      color: var(--gsat-link);
+      font-weight: 700;
+    }
+
+    /* People */
+    .gsat-people {
+      background: var(--gsat-soft);
+    }
+    .people-groups {
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+    }
+    .group-title {
+      font-size: 1.2rem;
+      color: var(--gsat-accent);
+      border-bottom: 2px dashed var(--gsat-border);
+      padding-bottom: 8px;
+      margin-bottom: 16px;
+    }
+    .people-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+    }
+    .person-card {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+    .person-badge {
+      display: inline-block;
+      color: #fff;
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 4px 10px;
+      border-radius: 12px;
+      margin-bottom: 10px;
+    }
+    .person-card h4 {
+      color: var(--gsat-navy);
+      margin-bottom: 6px;
+    }
+    .person-card p {
+      font-size: 0.9rem;
+      color: var(--gsat-text);
+    }
+    .people-quote {
+      margin-top: 36px;
+      background: #fff;
+      border-left: 5px solid var(--gsat-accent);
+      padding: 22px 26px;
+      font-size: 1.1rem;
+      color: var(--gsat-navy);
+    }
+    .people-quote cite {
+      display: block;
+      margin-top: 10px;
+      font-size: 0.9rem;
+      font-style: normal;
+      color: var(--gsat-text);
+    }
+
+    /* Pipelines */
+    .gsat-pipelines .pipeline-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+    }
+    .pipeline-card {
+      padding-top: 16px;
+    }
+    .pipeline-accent {
+      width: 46px;
+      height: 6px;
+      border-radius: 3px;
+      margin-bottom: 12px;
+    }
+    .source-note {
+      margin-top: 18px;
+      font-size: 0.85rem;
+      color: var(--gsat-text);
+    }
+
+    /* Exam-day readiness: CEEC-style field notes / no imagery required */
+    .gsat-exam-day {
+      background: #f4eee8;
+    }
+    .section-kicker {
+      margin: 0 0 8px;
+      color: var(--gsat-accent);
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.72rem;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+    }
+    .exam-prep-grid {
+      display: grid;
+      grid-template-columns: 1.28fr 0.72fr;
+      gap: 18px;
+      margin-top: 26px;
+    }
+    .exam-panel {
+      padding: 24px;
+      border: 1px solid var(--gsat-border);
+      background: #fff;
+    }
+    .exam-panel h3,
+    .exam-flow h3,
+    .exam-support h3 {
+      margin: 0 0 16px;
+      color: var(--gsat-navy);
+      font-size: 1.1rem;
+    }
+    .packing-panel {
+      border-top: 5px solid var(--gsat-accent);
+    }
+    .avoid-panel {
+      border-top: 5px solid #ba451a;
+    }
+    .packing-list {
+      display: grid;
+      gap: 11px;
+    }
+    .pack-item {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      cursor: pointer;
+      color: var(--gsat-text);
+      line-height: 1.55;
+    }
+    .pack-item input {
+      width: 18px;
+      height: 18px;
+      margin: 3px 0 0;
+      flex: 0 0 auto;
+      accent-color: var(--gsat-accent);
+    }
+    .pack-item input:checked + .pack-text {
+      color: #777;
+      text-decoration: line-through;
+    }
+    .avoid-panel ul {
+      margin: 0;
+      padding-left: 1.15rem;
+      color: var(--gsat-text);
+    }
+    .avoid-panel li {
+      margin: 0 0 13px;
+      line-height: 1.55;
+    }
+    .exam-flow {
+      margin-top: 18px;
+      padding: 24px;
+      background: var(--gsat-navy);
+    }
+    .exam-flow h3 {
+      color: #fff;
+    }
+    .exam-flow ol {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .exam-flow li {
+      display: flex;
+      gap: 10px;
+      color: #f3ece6;
+    }
+    .flow-number {
+      color: #eab676;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-weight: 800;
+      font-size: 0.78rem;
+    }
+    .exam-flow strong {
+      display: block;
+      color: #fff;
+      font-size: 0.92rem;
+    }
+    .exam-flow p {
+      margin: 5px 0 0;
+      font-size: 0.84rem;
+      line-height: 1.55;
+    }
+    .exam-support {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 24px;
+      align-items: center;
+      margin-top: 18px;
+      padding: 24px;
+      border: 1px solid var(--gsat-border);
+      background: #fffdf9;
+    }
+    .exam-support p {
+      margin: 0;
+      color: var(--gsat-text);
+      line-height: 1.65;
+    }
+    .support-label {
+      color: var(--gsat-accent) !important;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.7rem;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+    }
+    .exam-links {
+      display: grid;
+      gap: 8px;
+      min-width: 255px;
+    }
+    .exam-links a {
+      color: var(--gsat-accent);
+      font-size: 0.88rem;
+      font-weight: 700;
+      text-decoration: none;
+      border-bottom: 1px solid var(--gsat-border);
+      padding: 7px 0;
+    }
+    .exam-links a:hover {
+      color: #cf4747;
+    }
+    .exam-day-notice {
+      margin: 16px 0 0;
+      color: #765447;
+      font-size: 0.82rem;
+      line-height: 1.55;
+    }
+    @media (max-width: 900px) {
+      .exam-prep-grid,
+      .exam-support {
+        grid-template-columns: 1fr;
+      }
+      .exam-flow ol {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+    @media (max-width: 600px) {
+      .exam-flow ol {
+        grid-template-columns: 1fr;
+      }
+      .exam-panel,
+      .exam-flow,
+      .exam-support {
+        padding: 18px;
+      }
+    }
+
+    /* History */
+    .gsat-history {
+      background: #fff;
+    }
+    .gsat .tw-timeline {
+      list-style: none;
+      padding: 0;
+      border-left: 3px solid var(--gsat-accent);
+      margin: 24px 0 0 8px;
+    }
+    .gsat .tw-timeline li {
+      padding: 14px 0 14px 24px;
+      position: relative;
+      border-bottom: 1px dashed var(--gsat-border);
+    }
+    .gsat .tw-timeline li:last-child {
+      border-bottom: none;
+    }
+    .gsat .tw-timeline li::before {
+      content: '';
+      position: absolute;
+      left: -10px;
+      top: 20px;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--gsat-accent);
+      border: 3px solid #fff;
+      box-shadow: 0 0 0 2px var(--gsat-border);
+    }
+    .gsat .tw-timeline time {
+      display: inline-block;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: #fff;
+      background: var(--gsat-navy);
+      padding: 3px 10px;
+      border-radius: 10px;
+      margin-bottom: 6px;
+    }
+    .gsat .tw-timeline h3 {
+      color: var(--gsat-navy);
+      margin: 4px 0;
+    }
+    .gsat .tw-timeline p {
+      color: var(--gsat-text);
+      font-size: 0.95rem;
+      margin: 0;
+    }
+
+    /* Related / Resources */
+    .gsat-related {
+      background: var(--gsat-bg);
+    }
+    .gsat-related .article-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+    .article-card {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      position: relative;
+      padding-top: 30px;
+    }
+    .article-badge {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      color: #fff;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 10px;
+    }
+    .article-card h3 {
+      color: var(--gsat-navy);
+      margin-bottom: 6px;
+    }
+    .article-card p {
+      font-size: 0.9rem;
+      color: var(--gsat-text);
+    }
+
+    .gsat-resources .resource-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+    }
+    .resource-card {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      text-align: center;
+    }
+    .resource-icon {
+      font-size: 1.8rem;
+      display: block;
+      margin-bottom: 8px;
+    }
+    .resource-card h3 {
+      color: var(--gsat-accent);
+      font-size: 1rem;
+      margin-bottom: 6px;
+    }
+    .resource-card p {
+      font-size: 0.85rem;
+      color: var(--gsat-text);
+    }
+
+    /* Verify footer */
+    .gsat-verify {
+      background: var(--gsat-navy);
+      color: #f3ece6;
+    }
+    .gsat-verify h2 {
+      color: #fff;
+      border-left-color: #cf4747;
+    }
+    .gsat-verify .section-intro {
+      color: #e8ddd4;
+    }
+    .gsat-verify p {
+      color: #f3ece6;
+      max-width: 800px;
+    }
+    .gsat-verify .verify-list {
+      list-style: none;
+      padding: 0;
+      margin: 18px 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    .gsat-verify .verify-list li {
+      background: rgba(255, 255, 255, 0.07);
+      border-radius: 8px;
+      padding: 12px 16px;
+    }
+    .gsat-verify .verify-footer {
+      margin-top: 24px;
+      font-size: 1.1rem;
+      color: #fff;
+    }
+
+    @media (max-width: 900px) {
+      .gsat .curation-grid,
+      .gsat .role-grid,
+      .gsat .stat-grid,
+      .people-grid,
+      .gsat-related .article-grid,
+      .gsat-resources .resource-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+      .gsat-subjects .subject-grid,
+      .gsat-pipelines .pipeline-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+      .gsat-hero .hero-title {
+        font-size: 2.4rem;
+      }
+      .gsat-verify .verify-list {
+        grid-template-columns: 1fr;
+      }
+    }
+    @media (max-width: 600px) {
+      .gsat .curation-grid,
+      .gsat .role-grid,
+      .gsat .stat-grid,
+      .people-grid,
+      .gsat-subjects .subject-grid,
+      .gsat-pipelines .pipeline-grid,
+      .gsat-related .article-grid,
+      .gsat-resources .resource-grid {
+        grid-template-columns: 1fr;
+      }
+      .gsat-hero .hero-title {
+        font-size: 2rem;
+      }
+    }
+  </style>
+</Layout>
