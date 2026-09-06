@@ -332,6 +332,23 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-06 twmd-routine-audit-weekly — named-check-blind-spot-recurs-across-three-routines-in-one-week：三條不同 routine 各自撞見「閘門只看得見自己點名的東西」，沒有一條知道別條也撞見了
+
+- **pattern**: `named-check-blind-spot-cross-routine-density`
+- **原則**：單一 routine 的 Beat 4 收官只看得到自己那一次心跳撞見的 instance，看不到姊妹 routine 同一週撞見的另一個 instance——這正是 ROUTINE-AUDIT-PIPELINE 存在的理由（cross-routine pattern 是飛輪覆蓋不到的 meta-layer）。本條記的不是任何單一 instance，是「同一個家族的變體本週密度」本身：REFLEXES #82 proxy-signal 家族的三種不同載體（named-scope／ratio-gate／snapshot-staleness）在同一個 7 天窗口內，橫跨三條互不知情的 routine 連續現形。
+- **觸發**（本次審計 Stage 3 交叉比對出的五個 instance）：
+  1. `scaffold-window-has-no-qa`（08-30 twmd-maintainer-am）— 語言 QA 檢查用硬編碼語言清單，de scaffold 空窗期零檢查
+  2. `named-healthcheck-cannot-see-what-it-does-not-name`（09-03 twmd-maintainer-am）— CI 健檢點名兩條 workflow，第三條紅了四天沒人看到
+  3. `sibling-fallback-reads-as-coverage-for-the-gate-next-door`（09-04 twmd-maintainer-am）— 一道 CSS 閘門的 fallback 被誤讀成隔壁沒有出口的閘門的保險，本條自陳與 #2「同族」
+  4. `detector-reports-unmeasured-as-dead`（09-06 twmd-weekly-report-sun）— 沉默死亡對賬把月度 terminology-trends routine 的「本週非排程日」誤判成「死亡」，已於本輪 twmd-distill-weekly（03:16）折進 REFLEXES #85
+  5. **本次審計自己撞見的第五例**：`routine-sync-check.py` 讀的 `routine-live-state.json` 是 git 提交快照，只在每日 06:00 `twmd-data-refresh-am` 更新一次。本次審計執行時（09-06 21:09）距 `twmd-babel-nightly` 中午 12:59 的 live 重新啟用已過 8 小時，快照仍停在修復前的 06:15 版本，工具因此印出一條 `LIVE_ENABLED_DRIFT`（ssot='每天 00:30' / live='enabled=False'）。直接查 `scheduled-tasks` MCP 驗證：live 實際 `enabled: true`，`nextRunAt` 今晚 00:33 準時觸發——這條「漂移」是快照過期造出來的假訊號，不是真的漂移。
+- **可能層級**：全部歸屬既有 REFLEXES #82（proxy signal）家族的不同變體，不需要新編號；值得記的是**密度**——同一週內三條不同 routine（maintainer-am／weekly-report-sun／routine-audit-weekly 自己）各撞見一次，沒有一條在寫下自己的 instance 時看得到另外兩條。
+- **候選處置**：(a) REFLEXES #82 補一句「本反射的變體密度是系統健康的溫度計，同週出現 ≥3 個不同載體時，比任何單一變體更值得優先處理」；(b) `routine-sync-check.py` 的三層比對加一個「本地快照 age」欄位，drift 報告區分「已確認漂移」與「快照過期造成的疑似漂移」，避免下一次審計或觀察者把假訊號當真訊號處理——**本條的第五個 instance 正是這個修法會直接擋下的那種誤判**
+- **verification_count**: 5（跨三條不同 routine，5 個獨立 instance；#1-3 仍各自留在本清單原處，本條是它們的 cross-routine 橫向索引，不重複計入）
+- **severity**: structural
+- **distill_ready**: true
+- **相關**：[REFLEXES #82](REFLEXES.md)（proxy signal 主家族）、[REFLEXES #85](REFLEXES.md)（#4 今晨已折入）、LESSONS `scaffold-window-has-no-qa` / `named-healthcheck-cannot-see-what-it-does-not-name` / `sibling-fallback-reads-as-coverage-for-the-gate-next-door`（#1-3，仍在本清單）
+
 ### 2026-09-06 twmd-maintainer-am — fix-queue-ranked-by-traffic-misses-where-readers-actually-trip：補鏈工單依流量取前 50，而第一個因為缺鏈而回報的讀者落在切線以下
 
 - **pattern**: `fix-queue-ranked-by-traffic-misses-where-readers-actually-trip`
