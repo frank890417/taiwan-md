@@ -319,3 +319,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-06 | 085745-twmd-maintainer-am | aminzai 九篇翻譯 merged（三個紅旗都是忠實鏡射中文 SSOT，非偽造）；#1440 修好十天沒人關，貼 commit close；#1678 追上游發現站上早寫了，缺的是那篇零站內連結 | 讀者說「你們漏了」而正確答案是「寫了但你走不到」——照症狀逐則補會重寫一段深度條目已寫得更好的內容 | [→](memory/2026-09-06-085745-twmd-maintainer-am.md) |
 | 2026-09-06 | 125926-twmd-routine-sync | 三層對賬第 40 輪：5 份 prompt 補上薄殼化；babel-nightly 依上輪 handoff 走 rider 開回啟用；commit author 切成 Taiwan.md Semiont | rider 藏在 git 版檔尾，機器版落後時看不到，對賬拉新版才會執行與清除 | [→](memory/2026-09-06-125926-twmd-routine-sync.md) |
 | 2026-09-06 | 211939-twmd-routine-audit-weekly | 第 16 次審計：13 條 routine 全準時；同一量測盲點本週在三條 routine 各自現形，聚合成 LESSONS vc=5 distill_ready | 跨 routine 視角才拼得出密度本身是訊號 | [→](memory/2026-09-06-211939-twmd-routine-audit-weekly.md) |
+| 2026-09-07 | 011100-twmd-supporters-weekly | 贊助信週巡第三輪 0 候選 no-op；checkpoint 續留 08-10；加收件人＋subject 精準反查，直接確認目標信箱七週零信件 | 多輪 no-op 時加一道直接反查，能把「有沒有漏抓」從間接推論變成證據 | [→](memory/2026-09-07-011100-twmd-supporters-weekly.md) |
