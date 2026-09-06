@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-06T06:13:46+08:00",
-    "zhCommitHead": "7865569dd",
+    "lastUpdated": "2026-09-07T02:04:02+08:00",
+    "zhCommitHead": "951a7589d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -21,79 +21,79 @@
       "en": {
         "total_zh": 1121,
         "fresh": 765,
-        "stale": 91,
+        "stale": 92,
         "metadata_stale": 28,
-        "missing": 237,
+        "missing": 236,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 773,
-        "stale": 85,
+        "fresh": 772,
+        "stale": 86,
         "metadata_stale": 30,
         "missing": 233,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 772,
+        "fresh": 773,
         "stale": 84,
         "metadata_stale": 29,
-        "missing": 236,
+        "missing": 235,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 765,
+        "fresh": 766,
         "stale": 88,
         "metadata_stale": 30,
-        "missing": 238,
+        "missing": 237,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 766,
+        "fresh": 767,
         "stale": 89,
         "metadata_stale": 29,
-        "missing": 237,
+        "missing": 236,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 623,
-        "stale": 94,
-        "metadata_stale": 86,
-        "missing": 318,
+        "fresh": 624,
+        "stale": 95,
+        "metadata_stale": 85,
+        "missing": 317,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 536,
-        "stale": 48,
+        "fresh": 539,
+        "stale": 49,
         "metadata_stale": 15,
-        "missing": 522,
+        "missing": 518,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
         "fresh": 752,
-        "stale": 76,
+        "stale": 77,
         "metadata_stale": 22,
-        "missing": 271,
+        "missing": 270,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 618,
-        "stale": 43,
+        "fresh": 619,
+        "stale": 44,
         "metadata_stale": 13,
-        "missing": 447,
+        "missing": 445,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 688,
-        "stale": 51,
+        "fresh": 687,
+        "stale": 52,
         "metadata_stale": 17,
         "missing": 365,
         "orphan": 0
@@ -101,17 +101,17 @@
       "ru": {
         "total_zh": 1121,
         "fresh": 712,
-        "stale": 57,
+        "stale": 58,
         "metadata_stale": 17,
-        "missing": 335,
+        "missing": 334,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 79,
+        "fresh": 81,
         "stale": 5,
-        "metadata_stale": 0,
-        "missing": 1037,
+        "metadata_stale": 1,
+        "missing": 1034,
         "orphan": 0
       }
     },
@@ -3412,7 +3412,18 @@
           "diffSummary": "+1 -3"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/bunun-pasibutbut-eight-part-polyphony.md",
+          "translatedFrom": "Music/八部合音.md",
+          "sourceCommitSha": "e974b4c9edb6",
+          "sourceContentHash": "sha256:4d6aac349587bd75",
+          "sourceBodyHash": "sha256:43f231d59e183f8e",
+          "translatedAt": "2026-09-06T04:09:46+08:00",
+          "translationLastCommit": "342d468e",
+          "translationLastModified": "2026-09-06T04:12:31+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -12765,7 +12776,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-sugar.md",
+          "translatedFrom": "Economy/台糖.md",
+          "sourceCommitSha": "4b6d28c54367",
+          "sourceContentHash": "sha256:fe604aece0c5731f",
+          "sourceBodyHash": "sha256:9631152a90e28115",
+          "translatedAt": "2026-09-06T04:09:46+08:00",
+          "translationLastCommit": "3e9aa537",
+          "translationLastModified": "2026-09-06T04:13:05+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-sugar.md",
@@ -25015,7 +25037,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/national-cultural-memory-bank.md",
+          "translatedFrom": "Technology/國家文化記憶庫.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6f90dbf2e1df699d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-06T05:16:23+08:00",
+          "translationLastCommit": "334e0acb",
+          "translationLastModified": "2026-09-06T05:18:56+08:00",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/national-cultural-memory-bank.md",
@@ -29741,7 +29774,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/contemporary-indigenous-art-taiwan.md",
+          "translatedFrom": "Art/台灣原住民當代藝術.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:8e3303199d60c0c9",
+          "sourceBodyHash": "sha256:83f9f1bad3cb5feb",
+          "translatedAt": "2026-09-05T22:24:17+08:00",
+          "translationLastCommit": "d74bb233",
+          "translationLastModified": "2026-09-05T22:24:44+08:00",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -61767,10 +61811,10 @@
     },
     "Nature/生態多樣性.md": {
       "zh": {
-        "lastCommit": "69b3afd9",
-        "lastModified": "2026-08-04T10:19:04+08:00",
-        "contentHash": "sha256:7c8e2ae7ead043fa",
-        "bodyHash": "sha256:337a7730efae1092"
+        "lastCommit": "d8646a2a",
+        "lastModified": "2026-09-06T08:50:33+08:00",
+        "contentHash": "sha256:768855c64ea407af",
+        "bodyHash": "sha256:2f867df28cee4278"
       },
       "translations": {
         "en": {
@@ -61784,8 +61828,10 @@
           "translationLastModified": "2026-08-04T15:22:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "ja": {
           "path": "ja/Nature/biodiversity.md",
@@ -61798,8 +61844,10 @@
           "translationLastModified": "2026-08-04T15:50:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "ko": {
           "path": "ko/Nature/biodiversity.md",
@@ -61812,8 +61860,10 @@
           "translationLastModified": "2026-08-04T15:27:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "es": {
           "path": "es/Nature/biodiversity.md",
@@ -61826,8 +61876,10 @@
           "translationLastModified": "2026-08-04T15:23:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "fr": {
           "path": "fr/Nature/biodiversity.md",
@@ -61840,8 +61892,10 @@
           "translationLastModified": "2026-08-04T15:23:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "vi": {
           "path": "vi/Nature/biodiversity.md",
@@ -61854,10 +61908,10 @@
           "translationLastModified": "2026-07-26T23:22:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+15 -2"
         },
         "id": {
           "path": "id/Nature/biodiversity.md",
@@ -61870,8 +61924,10 @@
           "translationLastModified": "2026-08-04T17:29:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "pt": {
           "path": "pt/Nature/biodiversity.md",
@@ -61884,8 +61940,10 @@
           "translationLastModified": "2026-08-04T14:56:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "hi": {
           "path": "hi/Nature/biodiversity.md",
@@ -61898,8 +61956,10 @@
           "translationLastModified": "2026-08-04T15:55:53+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "ar": {
           "path": "ar/Nature/biodiversity.md",
@@ -61912,8 +61972,10 @@
           "translationLastModified": "2026-08-04T15:54:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "ru": {
           "path": "ru/Nature/biodiversity.md",
@@ -61926,8 +61988,10 @@
           "translationLastModified": "2026-08-04T19:15:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -1"
         },
         "de": {
           "status": "missing"
@@ -74971,28 +75035,105 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/tsai-heipi.md",
+          "translatedFrom": "People/蔡黑皮.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceBodyHash": "sha256:1cde30bd00a46d49",
+          "translatedAt": "2026-09-07T01:00:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/tsai-heipi.md",
+          "translatedFrom": "People/蔡黑皮.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceBodyHash": "sha256:1cde30bd00a46d49",
+          "translatedAt": "2026-09-07T01:00:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/tsai-heipi.md",
+          "translatedFrom": "People/蔡黑皮.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceBodyHash": "sha256:1cde30bd00a46d49",
+          "translatedAt": "2026-09-07T01:00:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/tsai-heipi.md",
+          "translatedFrom": "People/蔡黑皮.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceBodyHash": "sha256:1cde30bd00a46d49",
+          "translatedAt": "2026-09-07T01:00:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/tsai-heipi.md",
+          "translatedFrom": "People/蔡黑皮.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceBodyHash": "sha256:1cde30bd00a46d49",
+          "translatedAt": "2026-09-07T01:00:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tsai-heipi.md",
+          "translatedFrom": "People/蔡黑皮.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceBodyHash": "sha256:1cde30bd00a46d49",
+          "translatedAt": "2026-09-07T01:00:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/tsai-heipi.md",
+          "translatedFrom": "People/蔡黑皮.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceBodyHash": "sha256:1cde30bd00a46d49",
+          "translatedAt": "2026-09-07T01:00:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -82249,50 +82390,44 @@
         "ko": {
           "path": "ko/People/freddy-lim.md",
           "translatedFrom": "People/林昶佐.md",
-          "sourceCommitSha": "f28a9528",
-          "sourceContentHash": "sha256:42745728f5eb5c1a",
-          "sourceBodyHash": "sha256:b26e0a7ce99faf37",
-          "translatedAt": "2026-07-23T18:00:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:685b3a0c30829488",
+          "sourceBodyHash": "sha256:dfd669296348affb",
+          "translatedAt": "2026-09-06T17:02:47.982871+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/freddy-lim.md",
           "translatedFrom": "People/林昶佐.md",
-          "sourceCommitSha": "f28a9528",
-          "sourceContentHash": "sha256:42745728f5eb5c1a",
-          "sourceBodyHash": "sha256:b26e0a7ce99faf37",
-          "translatedAt": "2026-07-23T23:40:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:685b3a0c30829488",
+          "sourceBodyHash": "sha256:dfd669296348affb",
+          "translatedAt": "2026-09-06T17:03:49.937409+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/freddy-lim.md",
           "translatedFrom": "People/林昶佐.md",
-          "sourceCommitSha": "f28a9528",
-          "sourceContentHash": "sha256:42745728f5eb5c1a",
-          "sourceBodyHash": "sha256:b26e0a7ce99faf37",
-          "translatedAt": "2026-07-24T03:20:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:685b3a0c30829488",
+          "sourceBodyHash": "sha256:dfd669296348affb",
+          "translatedAt": "2026-09-06T17:04:51.920185+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/freddy-lim.md",
@@ -106662,7 +106797,18 @@
           "diffSummary": "+1 -3"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/ah-po-iron-eggs.md",
+          "translatedFrom": "Food/阿婆鐵蛋.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f215fbcb32524845",
+          "sourceBodyHash": "sha256:f4c6330bca417165",
+          "translatedAt": "2026-09-05T22:16:59+08:00",
+          "translationLastCommit": "53e07bfa",
+          "translationLastModified": "2026-09-05T22:17:50+08:00",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -108435,7 +108581,18 @@
           "diffSummary": "+2 -3"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/taiwan-sauces-and-seasonings.md",
+          "translatedFrom": "Food/台灣醬料與調味.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-06T05:12:41+08:00",
+          "translationLastCommit": "80095b6b",
+          "translationLastModified": "2026-09-06T05:17:43+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -113930,7 +114087,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/pork-heart-vermicelli.md",
+          "translatedFrom": "Food/豬心冬粉.md",
+          "sourceCommitSha": "03b3aaae8f21",
+          "sourceContentHash": "sha256:e420cc4599300aa5",
+          "sourceBodyHash": "sha256:c3fe90467aad669d",
+          "translatedAt": "2026-09-06T04:09:46+08:00",
+          "translationLastCommit": "dab96dbb",
+          "translationLastModified": "2026-09-06T04:11:48+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "metadata-stale",
+          "reason": "sha-lost-body-match"
         }
       }
     },
@@ -126012,7 +126180,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/black-bat-squadron.md",
+          "translatedFrom": "History/黑蝙蝠中隊.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:9c407c7793816591",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-06T05:15:08+08:00",
+          "translationLastCommit": "c76772fc",
+          "translationLastModified": "2026-09-06T05:18:18+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/black-bat-squadron.md",
@@ -138285,7 +138464,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/water-running-uphill.md",
+          "translatedFrom": "Geography/水往上流.md",
+          "sourceCommitSha": "211401fe4",
+          "sourceContentHash": "sha256:c6dd24e6a4e09fdc",
+          "sourceBodyHash": "sha256:009e89e5797639ab",
+          "translatedAt": "2026-09-05T22:20:37+08:00",
+          "translationLastCommit": "8de15216",
+          "translationLastModified": "2026-09-05T22:20:51+08:00",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/water-running-uphill.md",

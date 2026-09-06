@@ -1,37 +1,26 @@
 ---
-translatedFrom: 'People/林昶佐.md'
-sourceCommitSha: 'f28a9528'
-sourceContentHash: 'sha256:42745728f5eb5c1a'
-sourceBodyHash: 'sha256:b26e0a7ce99faf37'
-translatedAt: '2026-07-23T18:00:00+08:00'
-lang: 'ko'
 title: '린창쭤(林昶佐): CHTHONIC의 보컬에서 국회의 현장으로, 대만사를 공공의 목소리로 만든 사람'
 description: '린창쭤는 CHTHONIC의 보컬 Freddy로서 2·28, 백색테러, 우서 사건, 대만 신화, 대만어 메탈을 공적인 기억으로 써 넣었고, 동료들과 함께 다강카이창을 남부의 문화적인 장으로 키웠다. 음악, 대만 의식, 문화적인 실천, 제도 정치, 가족으로서의 삶의 경험, 그리고 퇴임 후의 공적인 역할이 그의 위에서 서로 얽히며, 무대에서 사회로, 국회로, 그리고 국제적인 현장으로 향하는 하나의 길을 이루고 있다.'
 date: 2026-07-10
 category: 'People'
-tags:
-  - '인물'
-  - '음악'
-  - '헤비메탈'
-  - '정치'
-  - '사회운동'
-  - '閃靈'
+tags: ['인물', '음악', '헤비메탈', '정치', '사회운동', '閃靈']
 subcategory: '음악과 공적 인물'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg'
+image: '/article-images/people/freddy-lim-chthonic-founder.webp'
 imageCredit: 'Hyw83516 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg'
 difficulty: 'intermediate'
 readingTime: 14
-rationale:
-  why_this_hook: '여러 신분이 동시에 한 사람에게 밀어 넣어져 있는 충돌에서 시작해, 거기서 가장 깊은 신분의 핵심인 CHTHONIC의 보컬로 돌아온다.'
-  whats_excluded: 'CHTHONIC의 완전한 밴드사, 앨범별 심층 분석, 다강카이창의 완전한 운영사, 시대역량의 정당사는 독립된 주제로 남기고, 여기서는 린창쭤를 이해하는 데 족한 주선만 취한다.'
-  where_it_hedges: '커원저의 2014년 선거전은 린창쭤 개인의 정계 입문 계기로 채택하지 않고, 주핀란드의 직함은 "주핀란드 대표"를 쓰며, 리콜의 세부는 맥락의 제시에 그치고, 검증되지 않은 재임 중의 성과는 쓰지 않는다.'
-  whos_pushing_back: '그의 지역 서비스나 정당 노선을 비판하는 사람, CHTHONIC의 정치성이 너무 강하다고 여기는 사람, 예술가의 정치로의 월경을 낭만화해서는 안 된다고 여기는 사람이다.'
+rationale: "{'why_this_hook': '以多重身份同時擠在同一個人身上的衝突開場，再回到閃靈主唱作為最深的身份核心。', 'whats_excluded': '閃靈完整團史、逐張專輯深度解析、大港開唱完整營運史與時代力量政黨史保留給獨立主題；此處只取足以理解林昶佐的主線。', 'where_it_hedges': '柯文哲 2014 選戰暫不採信為林昶佐個人從政契機；駐芬蘭職稱採「駐芬蘭代表」，罷免細節只作脈絡提示，不寫未完成查證的任內成果。', 'whos_pushing_back': '批評其地方服務與政黨路線者、認為閃靈政治性過強者、認為藝術人跨界政治不應浪漫化者。'}"
+translatedFrom: 'People/林昶佐.md'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:685b3a0c30829488'
+sourceBodyHash: 'sha256:dfd669296348affb'
+translatedAt: '2026-09-06T17:02:47.982871+00:00'
 ---
 
 > **30초 개요:** 린창쭤는 CHTHONIC의 보컬 Freddy이자, 다강카이창(大港開唱) 초창기의 발기인 가운데 한 사람이며, 한때 국제앰네스티 대만 지부의 이사장을 지냈고, 그리고 해바라기 학생운동 이후에 제3세력으로 국회에 들어간 대표적인 인물이기도 하다. CHTHONIC은 2·28 사건, 대만 백색테러, 우서 사건, 대만의 신화, 망령의 서사를 블랙메탈에 써 넣어, 대만사를 읽히는 것만이 아니라 들리고 외쳐질 수 있는 것으로 만들었다. 그 뒤 그는 시대역량(時代力量)의 창당에 참여하고 입법위원에 당선되었으며, 탈당과 리콜 투표를 경험한다. 퇴임 후에는 주핀란드 대표라는 자리로 다시 국제적인 일과 이어졌다. 정치는 그에게 하나의 모험이었지만, CHTHONIC은 지금도 그의 본체다.
@@ -65,24 +54,24 @@ CHTHONIC은 1995년 타이베이에서 결성되었고, 처음부터 북유럽 �
 
 _CHTHONIC 공식 영상: 〈모침무덕전(暮沉武德殿)〉의 포크 버전. 메탈의 소리 벽을 어쿠스틱 버전으로 해체해도, 린창쭤의 목소리와 대만어의 선율과 역사의 감촉은 전경에 남는다._
 
-## 블랙메탈 속의 역사와 망령
+## 블랙 메탈 속의 역사와 망령
 
-CHTHONIC의 가장 중요한 창작의 방법은, 대만사를 되풀이해 돌아오는 망령의 우주로 쓰는 것이다.
+閃靈(CHTHONIC)의 가장 중요한 창작 방식은 타이완 역사를 반복해서 돌아오는 망령 우주로 쓰는 것이다.
 
-《세디크 발레》는 우서 사건을 다룬다. 《십전》은 2·28 사건을 지옥과 심판의 상상력 안에 놓는다. 《다카사고군》은 태평양전쟁에서 일본 제국에 징집된 대만 원주민족의 청년들을 돌아본다. 《무덕》은 근대성과 무도관과 식민지의 기억을 얽는다. 《정치》는 전후 대만의 폭력과 저항을 직접 표면으로 밀어냈다.
+《賽德克巴萊》는 무샤 사건을 다룬다. 《十殿》은 228 사건을 지옥과 심판의 상상 속에 배치한다. 《高砂軍》은 태평양 전쟁 중 일본 제국에 징집된 타이완 원주민 청년들을 회고한다. 《武德》는 현대성, 무도관, 식민 기억을 엮는다. 그리고 《政治》은 전후 타이완의 폭력과 저항을 정면으로 드러낸다.
 
-이 앨범들은 "역사를 소개한다"는 기능을 넘어서 있다. 그것들은 오히려 이렇게 묻고 있다 — 수난자가 정말로 기억되지 않은 채라면, 그들은 계속 돌아오지 않겠는가.
+이 앨범들은 단순히 '역사를 소개'하는 기능을 넘어선다. 그것들은 "피해자들이 진정으로 기억되지 않았다면, 그들은 계속 돌아오지 않을까?"라고 묻는 것과 같다.
 
-《정치》 또한 대문자의 국민적인 주제에서만 태어난 것이 아니다. 호스피스 재단의 인터뷰에서 린창쭤는 2017년에 아버지가 심근경색으로 급사해 임종을 지키지 못한 일을 이야기한다. 같은 해에 딸이 태어났고, 삶과 죽음이 아주 짧은 기간에 동시에 그를 덮쳤다. 아버지의 죽음은 사랑하는 사람을 소중히 하고 감정에 돌이킬 수 없는 상처를 남기지 않도록 해야 한다고 깨닫게 했다고 그는 말한다. 죽음과 부모 자식과 화해를 둘러싼 그 감각은 2018년의 《정치》에도 놓였다.[^7]
+《政治》 역시 거대한 국가적 의제에서만 비롯된 것이 아니다. 안닝 돌봄 재단(安寧照顧基金會)과의 인터뷰에서 린창쭤는 2017년 아버지의 심근경색 사망, 그리고 자신이 마지막을 함께하지 못했던 일을 언급했다. 같은 해 딸이 태어났고, 생사와 죽음이 짧은 시간 안에 그를 짓눌렀다. 그는 아버지의 죽음을 통해 사랑하는 사람들을 소중히 여겨야 하며, 감정이 돌이킬 수 없는 상처를 남기지 않도록 해야 한다는 것을 깨달았다고 말했다. 이러한 죽음, 부모와 자식, 그리고 화해에 대한 감정은 2018년의 《政治》에도 담겼다.[^7]
 
-퇴임 후의 긴 인터뷰에서 린창쭤는, 외조부 일가의 이야기를 알게 된 뒤 CHTHONIC이 오랜 세월 백색테러와 2·28의 수난자와 윤회와 재생을 써 온 그 방식을 다시 이해하게 되었다고 말한다. CHTHONIC이라는 이 이야기를 어떻게 끝내면 좋을지 원래 자기는 몰랐다고 그는 말한다. 허구의 등장인물이 현실의 일가의 역사에 접속되었을 때, 그 음악의 우주는 겨우 현실의 세계와 이어진 것 같았다고.
+임기가 끝난 후의 장 인터뷰에서 린창쭤는 외할아버지 가문의 이야기를 발견한 후, 閃靈이 수년간 써왔던 백색 공포, 228 피해자 및 윤회에 대한 서사를 새롭게 이해하게 되었다고 말했다. 그는 자신이 원래 이 음악 우주가 어떻게 끝날지 몰랐다고 했다. 허구적 인물들이 실제 가문사에 도달했을 때, 그 음악 우주는 마침내 현실 세계와 연결된 것 같았다.
 
-CHTHONIC이 오랜 세월 해 온 일의 핵심은 "메탈에 대만의 소재를 더한다"는 외관에 있는 것이 아니다. 대만 사람에게 아주 익숙하면서도 자주 입에 담을 수 없는 감각을 메탈로 다루는 데에 있다 — 역사는 정말로는 지나가지 않았고, 일가 안에는 다 말해지지 않은 이야기가 숨어 있을지 모른다는 감각이다.
+閃靈이 오랫동안 해온 일의 핵심은 '메탈 + 타이완 소재'라는 외형에 있는 것이 아니라, 메탈을 통해 타이완 사람들이 매우 익숙하지만 종종 말하지 못하는 감정—역사는 진정으로 과거가 아니며, 가문 속에는 아직 다 말해지지 않은 이야기가 숨겨져 있을지도 모른다는 느낌—을 처리하는 데 있다.
 
-사회에 대한 관심은 이런 음악의 일 속에서 자랐다. 수난자와 조령과 소거된 사람들이 무대 위에서 목소리를 얻었을 때, 다음 물음도 떠오른다 — 이 목소리들은 사회 안에서 들릴 수 있는가.
+사회적 관심은 이러한 음악 작업 속에서 피어났다. 피해자, 조상신, 그리고 침묵당한 이들이 무대 위에서 목소리를 낼 때, 다음 질문이 떠오른다. "이러한 목소리들이 사회 속에서 들릴 수 있을까?"
 
-![린창쭤가 무대 위에서 마이크를 손에 들고 티베트의 깃발을 들어 올린 채 대형 무대 구조물 앞에 서 있다.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg)
-_2012년, 린창쭤는 무대 위에서 티베트의 깃발을 들어 올렸다. 이 한 장은 Freddy라는 보컬의 신분, 인권에 대한 관심, 그리고 대만의 국제적인 상황을 같은 하나의 현장에 놓고 있다. Photo: Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg)([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
+![린창쭤가 무대에서 마이크를 들고 티베트 국기를 흔들며 대형 무대 구조물 앞에 서 있는 모습.](/article-images/people/freddy-lim-chthonic-founder.webp)
+_2012년, 린창쭤는 무대 위에서 티베트 국기를 들어 올렸다. 이 사진은 프레디의 메인 보컬 정체성, 인권 관심, 그리고 타이완의 국제적 상황을 한 장면에 담고 있다. Photo: Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
 
 ## 다강카이창 — 소리를 장(場)으로 바꾸다
 
@@ -186,43 +175,43 @@ CHTHONIC(閃靈): 밴드의 우주, 앨범의 맥락, 국제적인 영향력, �
 
 ## 주석
 
-[^1]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — GQ 2016년의 인물 보도. 린창쭤가 CHTHONIC의 보컬로서 대만어와 전통 악기와 함께 국제적인 메탈과 정치의 시야로 들어간 것을 그리고 있다.
+[^1]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — GQ 2016년 인물 보도, 린 창좌가 閃靈(Shining)의 보컬로 활동하며 대만어와 전통 악기를 통해 국제적인 메탈 및 정치 영역에 진출한 것을 설명함.
 
-[^2]: [大港開唱 공식 사이트](https://megaportfest.com/) — 공식 이벤트 사이트. 다강카이창의 가오슝의 음악 페스티벌로서의 현재의 위치를 확인하기 위해 사용. 연혁은 위키백과로 교차 확인하고 있다.
+[^2]: [大港開唱官方網站](https://megaportfest.com/) — 공식 행사 웹사이트로, 가오슝 음악 축제로서의 '대항개창(Dagang Open Stage)'의 현시대적 위치를 확인하는 데 사용됨. 역사적 연혁은 위키피디아에서 교차 검증함.
 
-[^3]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — 같은 GQ의 기사. 2016년에 국제 미디어가 "메탈의 보컬이 국회로"를 어떻게 이해했는지의 맥락을 제공하고 있다.
+[^3]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — 동일 GQ 보도로, 2016년 국제 미디어가 '메탈 보컬이 국회에 진출하는 것'을 어떻게 이해했는지 제공함.
 
-[^4]: ['We want a fairer society': Freddy Lim, Taiwan's metalhead MP](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — The Guardian 2020년의 보도. 재선 전후의 국제 미디어에 의한 그의 공적인 역할의 관찰을 보완하고 있다.
+[^4]: ['We want a fairer society': Freddy Lim, Taiwan's metalhead MP](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — 가디언(The Guardian) 2020년 보도로, 린 창좌의 재선 전후 국제 미디어의 그의 공적 역할에 대한 관찰을 보충함.
 
-[^5]: [從搖滾明星到立法委員，台灣人林昶佐的信念](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — 《뉴욕 타임스》 중국어판 2017년의 보도. 린창쭤가 언더그라운드 음악 신에서 국회로 들어가 대만의 국제적인 가시성과 사회적 의제를 밀고 나간 초기의 정치 단계를 기록하고 있다.
+[^5]: [從搖滾明星到立法委員，台灣人林昶佐的信念](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — 뉴욕타임스(The New York Times) 중국어판 2017년 보도로, 지하 음악계에서 국회로 진출하여 대만의 국제적 위상과 사회적 의제를 추진한 린 창좌의 초기 정치 단계를 기록함.
 
-[^6]: [Metal-Sänger und Politiker Freddy Lim: „Wir waren nie ,das freie China' – wir sind Taiwan"](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — Der Tagesspiegel 2022년의 인터뷰. 계엄령 아래의 교육, 대만어, 대만의 정체성, 국제적인 서사에 대한 린창쭤의 회고를 제공하고 있다.
+[^6]: [Metal-Sänger und Politiker Freddy Lim: „Wir waren nie ,das freie China‘ – wir sind Taiwan“](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — 데어 타게스슈피겔(Der Tagesspiegel) 2022년 심층 인터뷰로, 계엄 교육, 대만어, 대만 정체성 및 국제적 서사에 대한 린 창좌의 회고를 제공함.
 
-[^7]: [從人子、人夫到人父 林昶佐：讓愛用另外一種方式延續](https://www.hospice.org.tw/content/3435) — 호스피스 재단의 인터뷰. 아버지의 급사, 딸의 탄생, 완화 의료, 그리고 앨범 《정치》 사이에 있는 린창쭤의 삶의 경험을 보완하고 있다.
+[^7]: [從人子、人夫到人父 林昶佐：讓愛用另外一種方式延續](https://www.hospice.org.tw/content/3435) — 안녕 돌봄 재단(安寧照顧基金會) 심층 인터뷰로, 아버지의 갑작스러운 죽음, 딸의 탄생, 완화 치료 및 앨범 《정치》 사이의 생애 경험을 보충함.
 
-[^8]: [蓄長髮、畫屍妝…林昶佐7年前以樂團主唱之姿、打敗國民黨軍系老將，寫素人參政傳奇](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — 今周刊 2022년의 보도. 리콜 투표 전후의 정치적인 맥락, 동성혼 등의 진보적인 의제, 리콜의 요건의 분석을 정리하고 있다.
+[^8]: [蓄長髮、畫屍妝…林昶佐7年前以樂團主唱之姿、打敗國民黨軍系老將，寫素人參政傳奇](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — 금주간(今周刊) 2022년 보도로, 린 창좌의 탄핵안 전후의 정치적 맥락, 동성 결혼과 같은 진보적 의제 및 탄핵 문턱 분석을 정리함.
 
-[^9]: [「大港開唱」前世今生（上）：掌舵手的音樂祭海派人生](https://www.verse.com.tw/article/megaport-festival-01) — VERSE 2022년의 보도. 2006년의 가오슝 항구에서의 초창기부터, 2016년 이후의 Doris와 Dani에 의한 인수인계, NGO 의제촌까지의 맥락을 정리하고 있다.
+[^9]: [「大港開唱」前世今生（上）：掌舵手的音樂祭海派人生](https://www.verse.com.tw/article/megaport-festival-01) — VERSE 2022년 보도로, '대항개창'이 2006년 가오슝 항구변에서 시작되어 2016년 이후 도리스(Doris), 다니(Dani)가 인계받고 NGO 의제 마을 등으로 발전한 맥락을 정리함.
 
-[^10]: [「大港開唱」前世今生（下）：豈止16年，而是台灣音樂祭歷史的文化總和](https://www.verse.com.tw/article/megaport-festival-02) — VERSE 2022년의 보도. 예타이카이창, 멀티 스테이지의 국제화, 수익자 부담, 아티스트의 백스테이지, 대만의 밴드 감상 문화의 향상이라는 긴 선을 보완하고 있다.
+[^10]: [「大港開唱」前世今生（下）：豈止16年，而是台灣音樂祭歷史的文化總和](https://www.verse.com.tw/article/megaport-festival-02) — VERSE 2022년 보도로, 야대 개창(野台開唱), 다중 무대 국제화, 사용자 유료화, 아티스트 백스테이지 및 대만 청취 문화의 성장을 장기적으로 설명함.
 
-[^11]: [INTERVIEW: Freddy Lim unfolds New Power Party platform](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — Taipei Times 2015년의 인터뷰. CHTHONIC의 보컬, 인권의 제언자, 시대역량의 창당자라는 입장에서 선거에 임한 맥락을 제공하고 있다.
+[^11]: [INTERVIEW: Freddy Lim unfolds New Power Party platform](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — 타이베이 타임즈(Taipei Times) 2015년 심층 인터뷰로, 린 창좌가 閃靈 보컬, 인권 운동가, 시대력(時代力量) 창당자로서 선거에 참여한 맥락을 제공함.
 
-[^12]: [Lim to leave NPP, back Tsai re-election bid](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — Taipei Times 2019년의 보도. 린창쭤가 시대역량을 떠나 무소속으로 재선을 노리고 차이잉원의 재선을 지지한 것을 확인하고 있다.
+[^12]: [Lim to leave NPP, back Tsai re-election bid](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — 타이베이 타임즈 2019년 보도로, 린 창좌가 시대력에서 탈퇴하고 무소속으로 재선에 도전하며 차이잉원(蔡英文)의 재선을 지지했음을 확인함.
 
-[^13]: [Independent Legislator Freddy Lim survives recall vote](https://focustaiwan.tw/politics/202201090008) — Focus Taiwan/CNA 2022년의 보도. 리콜 투표가 찬성표의 요건 미달로 불성립이 된 것을 확인하고 있다.
+[^13]: [Independent Legislator Freddy Lim survives recall vote](https://focustaiwan.tw/politics/202201090008) — 포커스 타이완/CNA 2022년 보도로, 린 창좌의 탄핵안이 동의표 부족으로 통과되지 않았음을 확인함.
 
-[^14]: [Freddy Lim to retire from politics, look after family](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — Taipei Times 2023년의 보도. 희소 질환을 지닌 가족의 간병을 이유로 재선을 노리지 않겠다고 표명한 것을 기록하고 있다.
+[^14]: [Freddy Lim to retire from politics, look after family](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — 타이베이 타임즈 2023년 보도로, 린 창좌가 희귀병을 앓는 가족을 돌보기 위해 재선에 출마하지 않겠다고 발표한 것을 기록함.
 
-[^15]: [Independent lawmaker Freddy Lim applies to join DPP](https://focustaiwan.tw/politics/202311270019) — Focus Taiwan/CNA 2023년의 보도. 민주진보당으로의 입당 신청과, 2024년의 선거를 지원할 준비를 확인하고 있다.
+[^15]: [Independent lawmaker Freddy Lim applies to join DPP](https://focustaiwan.tw/politics/202311270019) — 포커스 타이완/CNA 2023년 보도로, 린 창좌가 민진당(民進黨)에 가입 신청하고 2024년 선거를 지원할 준비를 했음을 확인함.
 
-[^16]: [Rock star-turned-politician named Taiwan's representative to Finland](https://focustaiwan.tw/politics/202505190024) — Focus Taiwan/CNA 2025년의 보도. 총통부가 린창쭤의 주핀란드 대표 취임을 발표한 것을 확인하고 있다.
+[^16]: [Rock star-turned-politician named Taiwan's representative to Finland](https://focustaiwan.tw/politics/202505190024) — 포커스 타이완/CNA 2025년 보도로, 대통령실이 린 창좌가 대만 핀란드 대표로 임명되었음을 발표했음을 확인함.
 
-[^17]: [Chthonic put spin on Taiwan's past](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — Taipei Times 2003년의 인터뷰. CHTHONIC의 초기 밴드사, 얼후, 린터우제, 금곡상 최우수 밴드상, 그리고 린창쭤가 블랙메탈의 모체 문화에 대한 의식을 대만사와 민간 전승으로 어떻게 되돌렸는지를 기록하고 있다.
+[^17]: [Chthonic put spin on Taiwan's past](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — 타이베이 타임즈 2003년 심층 인터뷰로, 閃靈의 초기 그룹 역사, 얼후(二胡), 린 투저(林投姊), 가요상 최우수 밴드 수상 경력, 그리고 린 창좌가 블랙 메탈 문화 의식을 대만 역사 및 민간 전설로 되돌린 과정을 기록함.
 
-[^18]: [ChthoniC promotes Taiwan's UN bid in interview with NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — Taipei Times 2007년의 보도. 오즈페스트 투어 기간에 CHTHONIC이 영어로 미국의 관객에게 대만의 국제 참여가 가로막힌 상황을 설명하고 〈UNlimited Taiwan〉을 부른 맥락을 정리하고 있다.
+[^18]: [ChthoniC promotes Taiwan's UN bid in interview with NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — 타이베이 타임즈 2007년 보도로, 閃靈이 Ozzfest 투어 기간 동안 영어로 미국 청중에게 대만의 국제적 참여가 제약받고 있음을 설명하고 〈UNlimited Taiwan〉을 공연한 맥락을 정리함.
 
-[^19]: [閃靈新歌「護國山」 創作靈感自政治受難者家屬](https://www.cna.com.tw/news/amov/202303010226.aspx) — 중앙통신사 2023년의 보도. 〈호국산〉의 창작의 착상, 백색테러 수난자의 유족, 가오이성 일가의 기억을 전하며, CHTHONIC의 최근 작품이 역사적 기억이라는 주제를 어떻게 이어받고 있는지를 보완하고 있다.
+[^19]: [閃靈新歌「護國山」 創作靈感自政治受難者家屬](https://www.cna.com.tw/news/amov/202303010226.aspx) — 중앙시보(中央社) 2023년 보도로, 〈호국산〉의 창작 영감인 백색 공포 피해자 가족과 고이성(高一生) 가문의 기억을 보충하며, 閃靈의 최근 작품들이 역사적 기억 주제를 어떻게 계승했는지 설명함.
 
 ## 참고 자료
 
