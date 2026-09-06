@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-06 twmd-maintainer-am — fix-queue-ranked-by-traffic-misses-where-readers-actually-trip：補鏈工單依流量取前 50，而第一個因為缺鏈而回報的讀者落在切線以下
+
+- **pattern**: `fix-queue-ranked-by-traffic-misses-where-readers-actually-trip`
+- **原則**：`body-internal-links` plugin 9/5 上線，全站量出 958 篇（85.5%）正文零站內連結，接著照 OBSERVER-QUEUE #39 拍板 A 產出 `reports/internal-links-top50-2026-09-05.md`——**依 GA4 28 天 pageviews 排序取前 50 篇**當補鏈工單。工單上線隔天（9/6），讀者蕭宇哲回報 issue #1678 說〈生態多樣性〉沒寫遊蕩犬貓對野生動物的威脅。追下去發現站上寫了，寫在 `台灣石虎保育.md` §三〈犬殺：最被低估的威脅〉，腳註引的正是讀者自己附的那個窩窩專題——**缺的不是知識，是那篇三月概覽整篇零站內連結，讀者從那裡走不到這裡**。而〈生態多樣性〉不在 top 50 工單裡，因為它的流量在切線以下。量測層看得到它（INFO 級印「零連結——讀者在正文裡點不到任何相關文章」），修補層的排序看不到它。**pageviews 是「哪裡缺鏈」的良好代理，卻是「哪裡的缺鏈真的讓讀者撞牆」的差代理**——高流量文章的讀者多半是搜尋進來拿一個答案就走，而會為了一個沒被滿足的疑問去填回報表單的讀者，本來就是少數頁面上的少數人。
+- **觸發**：2026-09-06 twmd-maintainer-am 處理 issue #1678。工單 9/5 產出、9/6 就出現一個落在切線外的真實 instance，間隔一天。證據：`reports/internal-links-top50-2026-09-05.md`（grep「生態多樣性」零命中）、[issue #1678](https://github.com/frank890417/taiwan-md/issues/1678)、commit `d8646a2a9`（本輪補鏈，正文站內連結 0 → 1）
+- **第二層觀察**：`body-internal-links` 目前是 **INFO 級，不是 warn 也不是 hard**——它只在跑 `article-health` 時印一行，不擋任何東西、不進任何 gate。所以 958 篇零連結完全依賴「有人主動去讀那份工單並照著做」。這跟 REFLEXES #15「memory 是自律，canonical SOP 才是閘門」是同一句話落在儀器層：**量出來了但沒有閘門，等於把執行時機交給下一個剛好有空的人**。
+- **可能層級**：REFLEXES #82（proxy signal）的排序層變體。既有的 #82 變體都在講「偵測層選錯要量的東西」（比例閘門盲區、top-N 截斷遮蔽家族、裁切消音偵測器）；本條的偵測層是對的（958 篇都量到了），**選錯代理的是修補佇列的排序鍵**。是同祖先的下一層，不確定該 fold 進 #82 還是獨立——留給 distill 判。
+- **候選修法**：(a) 補鏈工單的排序鍵從單一 pageviews 改成複合，把「該篇是否曾有讀者回報」與「該篇被其他文章提及卻不回連的次數」加進去；(b) 讀者回報進來時，順手查那篇在不在 top-50 工單裡，不在就是這條 pattern 的下一個 instance（低成本的持續量測）；(c) `body-internal-links` 從 INFO 升 warn，至少讓零連結的文章在有人碰到它時會叫一聲——但要先確認 958 篇的量體不會讓 warn 變成背景噪音（per REFLEXES #66 閾值要用真實產出 dogfood 校準）
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：[REFLEXES #82](REFLEXES.md)（proxy signal，尤其比例閘門盲區與 top-N 截斷兩個變體）、[REFLEXES #15](REFLEXES.md)（量出來沒閘門＝靠自律）、[OBSERVER-QUEUE §39](OBSERVER-QUEUE.md)、`reports/internal-links-top50-2026-09-05.md`
+
 ### 2026-09-06 twmd-self-evolve-weekly — diary-index-split-location-defeats-same-day-tiebreak：DIARY.md 存在兩個都在收新列的位置，同日多筆時尺會驗到錯的那一列
 
 - **pattern**: `diary-index-split-location-defeats-same-day-tiebreak`
