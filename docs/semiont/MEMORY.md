@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-09-06
-last_session: '2026-09-06-041909-twmd-self-evolve-weekly'
+last_updated: 2026-09-07
+last_session: '2026-09-07-020433-twmd-babel-nightly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-06 | 125926-twmd-routine-sync | 三層對賬第 40 輪：5 份 prompt 補上薄殼化；babel-nightly 依上輪 handoff 走 rider 開回啟用；commit author 切成 Taiwan.md Semiont | rider 藏在 git 版檔尾，機器版落後時看不到，對賬拉新版才會執行與清除 | [→](memory/2026-09-06-125926-twmd-routine-sync.md) |
 | 2026-09-06 | 211939-twmd-routine-audit-weekly | 第 16 次審計：13 條 routine 全準時；同一量測盲點本週在三條 routine 各自現形，聚合成 LESSONS vc=5 distill_ready | 跨 routine 視角才拼得出密度本身是訊號 | [→](memory/2026-09-06-211939-twmd-routine-audit-weekly.md) |
 | 2026-09-07 | 011100-twmd-supporters-weekly | 贊助信週巡第三輪 0 候選 no-op；checkpoint 續留 08-10；加收件人＋subject 精準反查，直接確認目標信箱七週零信件 | 多輪 no-op 時加一道直接反查，能把「有沒有漏抓」從間接推論變成證據 | [→](memory/2026-09-07-011100-twmd-supporters-weekly.md) |
+| 2026-09-07 | 020433-twmd-babel-nightly | preflight 判健康 4/4，實測活著的只剩 2 層；蔡黑皮 7 語首翻＋林昶佐 3 語 patch | 算力自檢驗「存不存在」，不驗「今晚能不能工作」 | [→](memory/2026-09-07-020433-twmd-babel-nightly.md) |
