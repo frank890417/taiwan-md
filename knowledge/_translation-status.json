@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T06:32:35+08:00",
-    "zhCommitHead": "d710b3838",
+    "lastUpdated": "2026-09-10T07:10:38+08:00",
+    "zhCommitHead": "122dcac92",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 145,
+        "fresh": 146,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 969,
+        "missing": 968,
         "orphan": 0
       }
     },
@@ -8420,8 +8420,8 @@
           "sourceContentHash": "sha256:dadf1d689c0dbe2c",
           "sourceBodyHash": "sha256:2a507ef221850519",
           "translatedAt": "2026-09-10T03:36:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "44c1de5e",
+          "translationLastModified": "2026-09-10T06:32:36+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -131586,8 +131586,8 @@
           "sourceContentHash": "sha256:7893a2743008a706",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T22:15:50.992060+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "44c1de5e",
+          "translationLastModified": "2026-09-10T06:32:36+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -149992,7 +149992,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/divine-pig-festival.md",
+          "translatedFrom": "Culture/神豬.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4e7bd6002d83c43b",
+          "sourceBodyHash": "sha256:0f6781254171f7ba",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
