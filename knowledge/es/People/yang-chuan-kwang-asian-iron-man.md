@@ -2,9 +2,7 @@
 title: 'Yang Chuan-kwang: la tribu de Taitung, la plata en Roma y el récord mundial de 9121 puntos del Hombre de Hierro Asiático'
 description: 'Nacido el 10 de julio de 1933 en la tribu amis de Malan, Taitung, Yang Chuan-kwang fue el primer medallista olímpico de Taiwán. En el decatlón de los Juegos Olímpicos de Roma 1960 obtuvo la plata con 8334 puntos, y en 1963 batió el récord mundial con 9121 puntos y un salto con garrocha de 4,83 metros que obligó a la IAAF a modificar las tablas de puntuación. Falleció el 27 de enero de 2007 en California, Estados Unidos, a los 73 años, tras sufrir un derrame cerebral. En abril de 2025, el Ministerio de Cultura lo declaró tesoro nacional.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     'Deportes',
@@ -14,19 +12,17 @@ tags:
     'Pueblos indígenas',
     'Pueblo amis',
   ]
-readingTime: 7
-# design_rationale:
-#   why_this_hook: "從「計分標準被一個人逼著改」切入——9121分不只是個人最佳，而是逼使IAAF修規則。這比『台灣第一面奧運獎牌』更能定義楊傳廣的高度。"
-#   whats_excluded: "各項單科成績細節；1956墨爾本以前的青少年賽事；退役後的教職逐年記錄"
-#   where_it_hedges: "投毒事件（楊傳廣本人指控，無第三方完整核實）；1964東京奧運參賽狀況（P0未提供source）"
-lastVerified: 2026-05-07
-lastHumanReview: true
+subcategory: '體育'
+author: 'Taiwan.md'
 featured: false
-translatedFrom: People/楊傳廣.md
-sourceCommitSha: 0f8fae0a
-sourceContentHash: sha256:f8a43ac4f3c5c945
-sourceBodyHash: sha256:564dbfac81e16aa7
-translatedAt: 2026-05-26T21:07:27Z
+lastVerified: 2026-09-05
+lastHumanReview: true
+readingTime: 7
+translatedFrom: 'People/楊傳廣.md'
+sourceCommitSha: '8d0c4a70d'
+sourceContentHash: 'sha256:3f102f565e503ad8'
+sourceBodyHash: 'sha256:b14c332dbd93a4eb'
+translatedAt: '2026-09-09T05:45:43.143921+00:00'
 ---
 
 # Yang Chuan-kwang: la tribu de Taitung, la plata en Roma y el récord mundial de 9121 puntos del Hombre de Hierro Asiático
@@ -53,17 +49,17 @@ La importancia de la UCLA para Yang Chuan-kwang no se limitó al entrenamiento t
 
 Johnson recordó más tarde la relación entre ambos: "**Éramos muy buenos amigos, pero yo sabía, él sabía y el entrenador sabía que al final tendríamos que decidir quién ganaba en la pista.**"[^4] Esta relación de "hermandad fuera de la pista, rivalidad dentro de ella" alcanzó su punto culminante junto a la línea de meta de los Juegos Olímpicos de Roma 1960: la imagen de Johnson, exhausto, apoyado en el hombro de Yang Chuan-kwang, se convirtió en una de las fotografías más célebres de la historia del deporte.
 
-## Roma 1960: la plata de 8334 puntos y la primera medalla olímpica de Taiwán
+## Roma 1960: la medalla de plata de 8334 puntos y la primera medalla olímpica de Taiwán
 
-En los Juegos Olímpicos de Roma 1960, Yang Chuan-kwang libró una batalla de puntuación contra Rafer Johnson durante dos días completos en el decatlón.[^1] Desde los 100 metros lisos, salto de longitud, lanzamiento de bala, salto de altura y 400 metros, hasta los 110 metros vallas, lanzamiento de disco, salto con garrocha, lanzamiento de jabalina y, finalmente, los 1500 metros; diez pruebas con un marcador extraordinariamente ajustado.
+En los Juegos Olímpicos de Roma 1960, Yang Chuan-kwang se enfrentó a Rafer Johnson en una intensa competición de puntuaciones durante dos días en la prueba de decatlón.[^1] Desde los 100 metros planos, el salto de longitud, el lanzamiento de peso y el salto de altura, hasta los 400 metros, los 110 metros con vallas, el lanzamiento de disco, el salto de pértiga y el lanzamiento de jabalina, y finalmente los 1500 metros; diez pruebas en total, con puntuaciones muy rejustadas.
 
-Al final, Yang Chuan-kwang obtuvo la plata con 8334 puntos, mientras Johnson se llevó el oro con 8392 puntos.[^1] La diferencia fue de apenas 58 puntos. Esa medalla de plata lo convirtió en el primer medallista olímpico de Taiwán y en el primer atleta asiático en ganar una medalla olímpica en una prueba de atletismo.
+Finalmente, Yang Chuan-kwang obtuvo la medalla de plata con 8334 puntos, mientras que Johnson se llevó el oro con 8392 puntos.[^1] La diferencia fue de solo 58 puntos. Esta medalla de plata lo convirtió en el primer atleta de Taiwán en ganar una medalla olímpica, y también en el primer atleta asiático en ganar una medalla olímpica en atletismo.
 
-> 📝 **Nota del curador:** Una diferencia de 58 puntos puede parecer pequeña, pero en el marco del decatlón significa que en alguna prueba faltaron apenas unos centímetros o unas décimas de segundo. La ventaja de Yang Chuan-kwang en el salto con garrocha fue la prueba clave donde sumó puntos, pero las diferencias acumuladas en las demás pruebas hicieron que finalmente quedaran esos 58 puntos de por medio. No perdió por capacidad física, sino por la distribución del rendimiento a lo largo de las diez pruebas. En 1963 superó con 9121 puntos el nivel alcanzado en la temporada de Roma, lo que demuestra que los 8334 puntos de 1960 no eran su techo.
+> 📝 **Nota del curador**: una diferencia de 58 puntos parece pequeña, pero en el contexto del decatlón significa que en una sola prueba solo se diferían unos pocos centímetros o segundos. El salto de pértiga fue la prueba en la que Yang Chuan-kwang tenía una ventaja crucial para ganar puntos, pero las pequeñas diferencias acumuladas en otras pruebas finalmente le costaron esos 58 puntos. No perdió por falta de resistencia física, sino por la suma total de las puntuaciones en diez pruebas. En 1963, con 9121 puntos, superó ampliamente el nivel de Roma, demostrando que los 8334 puntos de 1960 no eran su límite máxo.
 
-En aquella época, Taiwán atravesaba un período de aislamiento diplomático internacional. La noticia de la medalla de Yang Chuan-kwang desató una ola de entusiasmo en toda la isla: desfiles, los cines proyectaban una y otra vez las imágenes de la hazaña, y el presidente Chiang Kai-shek lo recibió oficialmente. El peso de aquella medalla de plata en aquel momento trascendía con mucho el ámbito deportivo.
+En aquella época, Taiwán estaba sumido en una aislamiento diplomático internacional. Cuando se supo que Yang Chuan-kwang había ganado la medalla, se desató una ola de entusiasmo en toda la isla: manifestaciones, salas de cine reproduciendo repetidamente los videos de la victoria, e incluso una audiencia con el presidente Chiang Ching-kuo. En ese momento, el peso de esa medalla de plata trascendía ampliamente el ámbito de un resultado deportivo.
 
-En 1960, Taiwán compitió bajo el nombre de "Taipéi Chino" (en medio de disputas aún más complejas sobre la bandera y la denominación). Una isla políticamente marginada en el ámbito internacional encontró, gracias al rendimiento decatlónico de un joven amis, una presencia inequívoca en el mayor escenario competitivo del mundo. Aquella diferencia de 58 puntos no tiene cálculo posible en el plano político.
+En 1960, Taiwán participó bajo el nombre de «Formosa», y durante la ceremonia de apertura, la delegación ingresó ondeando una pancarta blanca con escrito «UNDER PROTEST» (bajo protesta), protestando contra el nombre forzado bajo el cual tenían que competir.[^6] Una isla marginada en el ámbito político internacional encontró, a través de la hazaña atlética de un atleta amuzgo, un lugar seguro y reconocido en el mayor escenario deportivo del mundo. Esos 58 puntos de diferencia, en el plano político, no tienen precio alguno.
 
 ## El récord mundial de 9121 puntos: obligando a la IAAF a recalibrar la puntuación
 
@@ -117,12 +113,14 @@ En 1933 partió de la tribu de Taitung, dio la vuelta al mundo y, con su cuerpo,
 
 ## Referencias
 
-[^1]: [CNA: Reportaje sobre la medalla olímpica de plata de Yang Chuan-kwang (2024-07-10)](https://www.cna.com.tw/news/aspt/202407103002.aspx) — Confirma la medalla de plata de decatlón en los Juegos Olímpicos de Roma 1960 con 8334 puntos (oro para Rafer Johnson con 8392 puntos) y el contexto de entrenamiento en la UCLA.
+[^1]: [Central News Agency: Yang Chuan-hsiung silver medal in Olympics (2024-07-10)](https://www.cna.com.tw/news/aspt/202407103002.aspx) — Confirma la medalla de plata en los Juegos Olímpicos de Roma 1960 en el decatlón con 8334 puntos (el oro fue Rafer Johnson con 8392 puntos) y su formación en UCLA.
 
-[^2]: [People News: El récord mundial de 1963 de Yang Chuan-kwang y su designación como tesoro nacional](https://www.peoplenews.tw/news/4c674583-7369-47aa-86a1-73b044fe9df2) — Incluye el récord mundial de 9121 puntos de 1963, el salto con garrocha de 4,83 metros que obligó a la IAAF a revisar las tablas de puntuación, y la designación como tesoro nacional por el Ministerio de Cultura en abril de 2025.
+[^2]: [Min Bao: Yang Chuan-hsiung world record of 1963 and Ministry of Culture treasure](https://www.peoplenews.tw/news/4c674583-7369-47aa-86a1-73b044fe9df2) — Incluye el récord mundial de 1963 con 9121 puntos, el salto de pértiga de 4.83 metros que forzó a la IAAF a revisar las normas de puntuación, y que en abril de 2025 el Ministerio de Cultura lo declaró como tesoro cultural.
 
-[^3]: [Epoch Times: Reportaje sobre el fallecimiento de Yang Chuan-kwang (2007-01-28)](https://www.epochtimes.com/b5/7/1/28/n1605792.htm) — Confirma el fallecimiento el 27 de enero de 2007 en California, Estados Unidos, a los 73 años, tras sufrir un derrame cerebral.
+[^3]: [Epoch Times: Death of Yang Chuan-hsiung (2007-01-28)](https://www.epochtimes.com/b5/7/1/28/n1605792.htm) — Confirma que falleció el 27 de enero de 2007 en California, Estados Unidos, debido a un ataque cerebral, a la edad de 73 años.
 
-[^4]: [CNA: Fallece la leyenda estadounidense del deporte Johnson, su clásico duelo con Yang Chuan-kwang perdura](https://www.cna.com.tw/news/aspt/202012030054.aspx) — Incluye la cita de Rafer Johnson: "Éramos muy buenos amigos, pero yo sabía, él sabía y el entrenador sabía que al final tendríamos que decidir quién ganaba en la pista", y el registro de la amistad competitiva entre ambos desde la etapa en la UCLA hasta los Juegos Olímpicos de Roma 1960.
+[^4]: [Central News Agency: Passing of American sports figure Johnson, classic match against Yang Chuan-hsiung preserved](https://www.cna.com.tw/news/aspt/202012030054.aspx) — Incluye la cita de Rafer Johnson: "Éramos muy buenos amigos, pero sabemos todos —yo, él y el entrenador— que algún día tendríamos que enfrentarnos en la pista", y registra la competición de amistad entre ambos durante su tiempo en UCLA hasta los Juegos Olímpicos de Roma 1960.
 
-[^5]: [Epoch Weekly: Leyenda y gloria, Yang Chuan-kwang habla sin rodeos sobre el envenenamiento](https://www.epochweekly.com/b5/006/2655.htm) — Incluye la declaración del propio Yang Chuan-kwang sobre el incidente del envenenamiento; se trata de una acusación personal cuyos detalles no han sido verificados de forma independiente por terceros.
+[^5]: [Epoch Times Weekly: Legend and glory, Yang Chuan-hsiung speaks out about being drugged](https://www.epochweekly.com/b5/006/2655.htm) — Incluye las declaraciones de Yang Chuan-hsiung sobre el incidente de envenenamiento, las cuales son acusaciones personales y los detalles no han sido verificados independientemente por terceros.
+
+[^6]: [Chinese Taipei Olympic Committee: 1960 XVII Rome Olympics](https://www.tpenoc.net/game/rome-1960/) — Registro histórico oficial del comité olímpico, que confirma que en 1960 la delegación de Taiwán participó bajo el nombre de "FORMOSA" según una resolución del COI, y documenta el acto de abrir el telón durante la ceremonia de inauguración con una pancarta blanca que decía "UNDER PROTEST".

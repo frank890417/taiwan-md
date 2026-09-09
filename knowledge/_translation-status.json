@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T16:53:21+08:00",
-    "zhCommitHead": "3f8d4d057",
+    "lastUpdated": "2026-09-09T17:46:18+08:00",
+    "zhCommitHead": "0dded64c3",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,17 +36,17 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 801,
+        "fresh": 802,
         "stale": 77,
-        "metadata_stale": 20,
+        "metadata_stale": 19,
         "missing": 223,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 791,
+        "fresh": 792,
         "stale": 80,
-        "metadata_stale": 23,
+        "metadata_stale": 22,
         "missing": 227,
         "orphan": 0
       },
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 660,
+        "fresh": 662,
         "stale": 85,
         "metadata_stale": 79,
-        "missing": 297,
+        "missing": 295,
         "orphan": 0
       },
       "id": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 129,
+        "fresh": 130,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 984,
+        "missing": 983,
         "orphan": 0
       }
     },
@@ -3250,8 +3250,8 @@
           "sourceContentHash": "sha256:ded0e72872765bab",
           "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
           "translatedAt": "2026-09-09T06:24:42.182989+00:00",
-          "translationLastCommit": "e8265091",
-          "translationLastModified": "2026-08-09T11:18:44+08:00",
+          "translationLastCommit": "0dded64c",
+          "translationLastModified": "2026-09-09T16:53:22+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -12559,8 +12559,8 @@
           "sourceContentHash": "sha256:fd10cef889ef4781",
           "sourceBodyHash": "sha256:3df603cf09cf4177",
           "translatedAt": "2026-09-09T11:45:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dded64c",
+          "translationLastModified": "2026-09-09T16:53:22+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -18461,8 +18461,8 @@
           "sourceContentHash": "sha256:8cc121a9cccbf90a",
           "sourceBodyHash": "sha256:98feb4bab36f053f",
           "translatedAt": "2026-09-09T11:45:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dded64c",
+          "translationLastModified": "2026-09-09T16:53:22+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -19561,7 +19561,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/tamsui-river-bridge.md",
+          "translatedFrom": "Technology/淡江大橋.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:58ac62b3c0ac9558",
+          "sourceBodyHash": "sha256:2f938b13f0ca156c",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/tamsui-river-bridge.md",
@@ -23123,8 +23134,8 @@
           "sourceContentHash": "sha256:041d66a77659bdef",
           "sourceBodyHash": "sha256:d2c0d3b4dad31bc9",
           "translatedAt": "2026-09-09T11:45:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dded64c",
+          "translationLastModified": "2026-09-09T16:53:22+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -44267,7 +44278,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/earthquakes-in-taiwan.md",
+          "translatedFrom": "Society/地震.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eb48495c8ad7ee41",
+          "sourceBodyHash": "sha256:58b5b912b5042f24",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/earthquakes-in-taiwan.md",
@@ -47514,8 +47536,8 @@
           "sourceContentHash": "sha256:0a9d7b4b73be1372",
           "sourceBodyHash": "sha256:50ce5b41a494b70c",
           "translatedAt": "2026-09-09T11:45:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dded64c",
+          "translationLastModified": "2026-09-09T16:53:22+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -48654,7 +48676,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-marriage-equality-lgbtq-rights.md",
+          "translatedFrom": "Society/台灣同婚與性別平權.md",
+          "sourceCommitSha": "a05d24314",
+          "sourceContentHash": "sha256:369f015f40df17bd",
+          "sourceBodyHash": "sha256:87466d8232d3f86e",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -62224,18 +62257,16 @@
         "ko": {
           "path": "ko/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:00:18+08:00",
+          "translatedAt": "2026-09-09T11:45:51+08:00",
           "translationLastCommit": "6631c004",
           "translationLastModified": "2026-08-04T15:27:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/bird-window-collision-taiwan.md",
@@ -62986,8 +63017,8 @@
           "sourceContentHash": "sha256:76692c261ac4ee59",
           "sourceBodyHash": "sha256:7ec5f5cc7b44e03c",
           "translatedAt": "2026-09-09T11:45:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dded64c",
+          "translationLastModified": "2026-09-09T16:53:22+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -138727,18 +138758,16 @@
         "es": {
           "path": "es/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-26T03:41:21+08:00",
+          "translatedAt": "2026-09-09T11:45:52+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/taichung-city.md",
