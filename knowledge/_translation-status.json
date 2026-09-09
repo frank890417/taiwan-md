@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T01:01:46+08:00",
-    "zhCommitHead": "3fd8a74c4",
+    "lastUpdated": "2026-09-10T01:47:53+08:00",
+    "zhCommitHead": "b0adcbfa3",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 793,
+        "fresh": 794,
         "stale": 81,
-        "metadata_stale": 23,
+        "metadata_stale": 22,
         "missing": 224,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 678,
+        "fresh": 679,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 282,
+        "missing": 281,
         "orphan": 0
       },
       "id": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 749,
+        "fresh": 751,
         "stale": 42,
         "metadata_stale": 12,
-        "missing": 318,
+        "missing": 316,
         "orphan": 0
       },
       "de": {
@@ -98053,7 +98053,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tsai-pei-huo.md",
+          "translatedFrom": "People/蔡培火.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:834d66de28d359a5",
+          "sourceBodyHash": "sha256:45ab5eeee03419d3",
+          "translatedAt": "2026-09-09T11:46:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/tsai-pei-huo.md",
@@ -110172,18 +110183,16 @@
         "fr": {
           "path": "fr/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-04-14T12:29:25+08:00",
+          "translatedAt": "2026-09-09T11:45:53+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-sauces-and-seasonings.md",
@@ -130166,7 +130175,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/taoyuan-ponds.md",
@@ -133297,8 +133317,8 @@
           "sourceContentHash": "sha256:309501697091bfd3",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b0adcbfa",
+          "translationLastModified": "2026-09-10T01:01:47+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -138687,7 +138707,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/taipei-city.md",
+          "translatedFrom": "Geography/台北市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:6b1de66c12b3c38a",
+          "sourceBodyHash": "sha256:c557c6ff09961dc3",
+          "translatedAt": "2026-09-09T11:46:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Geography/taipei-city.md",
@@ -138696,8 +138727,8 @@
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b0adcbfa",
+          "translationLastModified": "2026-09-10T01:01:47+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
