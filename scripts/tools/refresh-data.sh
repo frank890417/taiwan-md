@@ -274,18 +274,23 @@ echo ""
 # sense cache 最終留在檔內。若 prebuild / parallel actor 把內容覆回舊快照，當場重生。
 echo -e "${GRN}[11/14]${RST} verify dashboard freshness..."
 TODAY=$(date +%Y-%m-%d)
+# lastUpdated 由 generate-dashboard-analytics.py 寫成 UTC ISO timestamp（+00:00）；
+# 拿它跟本地 $TODAY 比較會在 UTC/本地跨日窗口（本地清晨、UTC 仍是前一天）誤報 stale。
+# 2026-09-08 / 2026-09-09 / 2026-09-10 連三個 cycle 撞見同一假警報（vc=3），
+# 依 pipeline 自身「catch ≠ fix」鐵律，本次改用 UTC 日期比較根治，不再只現查繞開。
+TODAY_UTC=$(date -u +%Y-%m-%d)
 STALE_COUNT=0
 STALE_LIST=""
 
 ANALYTICS_FILE="public/api/dashboard-analytics.json"
 ANALYTICS_DATE=$(python3 -c 'import json,sys; print((json.load(open(sys.argv[1])).get("lastUpdated") or "")[:10])' "$ANALYTICS_FILE" 2>/dev/null || true)
-if [ "$ANALYTICS_DATE" != "$TODAY" ]; then
-  echo -e "${YEL}⚠️  dashboard-analytics content stale ($ANALYTICS_DATE) — rerun sense-cache merge${RST}"
+if [ "$ANALYTICS_DATE" != "$TODAY_UTC" ]; then
+  echo -e "${YEL}⚠️  dashboard-analytics content stale ($ANALYTICS_DATE, UTC today=$TODAY_UTC) — rerun sense-cache merge${RST}"
   python3 scripts/tools/generate-dashboard-analytics.py >/tmp/dashboard-analytics-step11.log 2>&1 || true
   ANALYTICS_DATE=$(python3 -c 'import json,sys; print((json.load(open(sys.argv[1])).get("lastUpdated") or "")[:10])' "$ANALYTICS_FILE" 2>/dev/null || true)
-  if [ "$ANALYTICS_DATE" != "$TODAY" ]; then
+  if [ "$ANALYTICS_DATE" != "$TODAY_UTC" ]; then
     STALE_COUNT=$((STALE_COUNT + 1))
-    STALE_LIST="$STALE_LIST   ❌ dashboard-analytics.json — lastUpdated ${ANALYTICS_DATE:-missing}\n"
+    STALE_LIST="$STALE_LIST   ❌ dashboard-analytics.json — lastUpdated ${ANALYTICS_DATE:-missing} (UTC today=$TODAY_UTC)\n"
   else
     echo -e "${DIM}   ✓ dashboard-analytics 已從 fresh sense cache 重生${RST}"
   fi

@@ -1,24 +1,24 @@
 {
-  "totalArticles": 10264,
+  "totalArticles": 10391,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7202,
+  "totalTags": 7241,
   "categories": [
     {
       "name": "es",
-      "count": 892
+      "count": 895
     },
     {
       "name": "ko",
-      "count": 896
+      "count": 899
     },
     {
       "name": "fr",
-      "count": 894
+      "count": 897
     },
     {
       "name": "en",
-      "count": 901
+      "count": 905
     },
     {
       "name": "ja",
@@ -26,15 +26,15 @@
     },
     {
       "name": "vi",
-      "count": 818
+      "count": 844
     },
     {
       "name": "hi",
-      "count": 689
+      "count": 703
     },
     {
       "name": "ru",
-      "count": 802
+      "count": 806
     },
     {
       "name": "Technology",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 617
+      "count": 638
     },
     {
       "name": "ar",
-      "count": 766
+      "count": 775
     },
     {
       "name": "Politics",
@@ -62,7 +62,7 @@
     },
     {
       "name": "pt",
-      "count": 861
+      "count": 868
     },
     {
       "name": "Food",
@@ -106,7 +106,7 @@
     },
     {
       "name": "de",
-      "count": 119
+      "count": 152
     },
     {
       "name": "resources",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10264,
+    "zh-TW": 10391,
     "en": 0
   },
-  "lastUpdated": "2026-09-08T22:13:53.312Z",
-  "stars": 1170,
+  "lastUpdated": "2026-09-09T22:14:58.667Z",
+  "stars": 1171,
   "forks": 185,
   "zhPages": 1119,
   "languagePages": {
     "zh-TW": 1119,
-    "en": 901,
+    "en": 905,
     "ja": 888,
-    "ko": 896,
-    "es": 892,
-    "fr": 894,
-    "vi": 818,
-    "id": 617,
-    "pt": 861,
-    "hi": 689,
-    "ar": 766,
-    "ru": 802,
-    "de": 119
+    "ko": 899,
+    "es": 895,
+    "fr": 897,
+    "vi": 844,
+    "id": 638,
+    "pt": 868,
+    "hi": 703,
+    "ar": 775,
+    "ru": 806,
+    "de": 152
   },
-  "enPages": 901,
+  "enPages": 905,
   "totalPages": 1119
 }

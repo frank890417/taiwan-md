@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-08T22:14:19.558Z",
+  "lastUpdated": "2026-09-09T22:15:20.944Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 3,
+  "count": 1,
   "alerts": [
     {
       "id": "immune-status",
@@ -11,22 +11,6 @@
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
-    },
-    {
-      "id": "routine-silent-twmd-babel-nightly",
-      "severity": "yellow",
-      "message": "routine twmd-babel-nightly 沉默死亡：2026-09-07T16:33 fire 後 29.7h 零 git 痕跡（fire≠完成，收屍看 working tree）",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-babel-nightly",
-      "firstSeen": "2026-09-08"
-    },
-    {
-      "id": "routine-silent-twmd-spore-harvest-am",
-      "severity": "yellow",
-      "message": "routine twmd-spore-harvest-am 沉默死亡：2026-09-06T22:34 fire 後 47.7h 零 git 痕跡（fire≠完成，收屍看 working tree）",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-spore-harvest-am",
-      "firstSeen": "2026-09-08"
     }
   ]
 }

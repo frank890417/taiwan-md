@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T22:14:49.958Z",
+  "generated_at": "2026-09-09T22:15:51.368Z",
   "status": "ok",
   "summary": {
     "latest_build_seconds": 1506,
     "avg_build_seconds_7d": 1027,
     "avg_build_seconds_30d": 1027,
     "current_page_count": 13270,
-    "coverage_days": 2,
+    "coverage_days": 3,
     "ms_per_page_latest": 113,
     "flag_slow": true
   },

@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-09-08T22:14:33.461Z",
+  "_generated": "2026-09-09T22:15:32.317Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -3268,6 +3268,42 @@
     ],
     "de": [
       {
+        "title": "Lo Ta-yu: Der Mann, der Taiwans Entwurzelung besang, neunzehnmal umzog und immer noch nach dem Weg sucht",
+        "desc": "In den 1970er-Jahren versteckte sich ein Radiologiestudent im Seziersaal einer Medizinhochschule in Taichung und übte heimlich Gesang, denn „dort war das Echo sehr gut, und niemand würde wissen, dass ich singe“. Später schrieb er „Lukang, die kleine Stadt“, „Das Waisenkind Asiens“ und „Die Perle des Ostens“ und stellte für eine ganze Generation die Frage „Wer bin ich?“. Doch dieser Mann, der so viel Entwurzelung besang, zog selbst von Taipeh nach New York, Hongkong und Peking – in 29 Jahren neunzehnmal um. Mit siebzig sagte er über sich selbst nur: ein „bemerkenswerter Überlebender“.",
+        "category": "people",
+        "href": "/de/people/luo-dayou",
+        "date": "2026-09-08T19:23:41+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/lo-ta-yu-2011.webp"
+      },
+      {
+        "title": "Morris Chang",
+        "desc": "Der Pate der Halbleiter und Gründer von TSMC: Der legendäre Unternehmer, der mit dem reinen Foundry-Modell die globale Technologiebranche veränderte.",
+        "category": "people",
+        "href": "/de/people/tsmc-morris-chang",
+        "date": "2026-09-08T18:43:50+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Sanmao: Die Frau, die das Weglaufen als Freiheit schrieb",
+        "desc": "Geboren 1943 als Chen Ping in Chongqing, zog sie 1948 mit ihrer Familie nach Taiwan. Wegen einer öffentlichen Demütigung durch einen Lehrer brach sie die Mittelschule ab und begann nach sieben Jahren der Abschottung wieder zu schreiben. 1973 heiratete sie José in Spanisch-Sahara; ihre Essays wurden zum Bestseller und zum Fenster, durch das die Taiwaner in der Kriegsrechtszeit sich die Ferne vorstellten. 1979 starb José bei einem Tauchunfall. 1990 schrieb sie das einzige Drehbuch für Red Dust, das acht Goldene-Horse-Preise gewann. Am 4. Januar 1991 erhängte sie sich im Taipei Veterans General Hospital im Alter von siebenundvierzig Jahren.",
+        "category": "people",
+        "href": "/de/people/san-mao",
+        "date": "2026-09-08T17:18:11+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Lin Hsien-tang: Aus einem Familienstudierzimmer einen öffentlichen Eingang für die Taiwaner machen",
+        "desc": "1881 in die Wufeng-Lin-Familie geboren, entschied sich Lin Hsien-tang für den nicht bewaffneten Widerstand und führte die Bewegung der Petitionen für ein Taiwan-Parlament (1921–1934). Seine 378-tägige Weltreise wurde zu einer Unterrichtsstunde über Selbstregierung. Was er hinterließ, war nicht nur ein Familienname, sondern eine Methode, die Bildung, Kultur und Selbstverwaltung miteinander verband.",
+        "category": "people",
+        "href": "/de/people/lin-hsien-tang",
+        "date": "2026-09-08T14:38:02+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
         "title": "Sun Yun-suan: Der Ingenieur-Premier, der Taiwan aus der Dunkelheit ins Licht führte",
         "desc": "Vom Fünf-Monats-Wunder der Stromwiederherstellung in den Trümmern der Nachkriegszeit bis zur umstrittenen Wette auf die Halbleiterindustrie: Sun Yun-suan legte mit ingenieurhafter Pragmatik und beispielloser Integrität das Fundament für Taiwans Modernisierung.",
         "category": "people",
@@ -3499,42 +3535,6 @@
         "href": "/de/people/chiang-wei-shui",
         "date": "2026-08-19T01:21:23+08:00",
         "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Xiao Qing-yang",
-        "desc": "Gewinner der Grammy-Auszeichnung für die beste Albumverpackung; nach sieben Nominierungen gewann er schließlich in der Zusammenarbeit Vater–Tochter – der Repräsentant, der taiwanesisches Design auf die Weltbühne brachte.",
-        "category": "people",
-        "href": "/de/people/xiao-qing-yang-grammy-designer",
-        "date": "2026-08-19T01:21:23+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Lieber ausbrennen als verrosten: Mackay und sein geliebtes Formosa",
-        "desc": "Vom Ziehen von 20.000 Zähnen bis zur Gründung einer Mädchenschule: wie der kanadische Missionar Mackay zum „waschechten Taiwaner“ wurde und mit dreißig Lebensjahren die Geschichte von Medizin, Bildung und naturwissenschaftlicher Erforschung Nordtaiwans umschrieb.",
-        "category": "people",
-        "href": "/de/people/george-leslie-mackay",
-        "date": "2026-08-19T00:11:35+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Yoichi Hatta: Von der Wasserbau-Legende zum „beißenden Kanal“ – der Kolonialabdruck eines Technokraten",
-        "desc": "In den 1920er-Jahren errichtete der japanische Ingenieur Yoichi Hatta auf der Chianan-Ebene Taiwans den Wushantou-Stausee und den Chianan-Kanal. Dieses Weltklasse-Projekt brachte landwirtschaftliche Rekordernten, doch zugleich nannten es zahlreiche Bauern wegen seiner kolonial-ausbeuterischen Natur und der schweren Last für die Bauern den „beißenden Kanal“. Dieser Artikel untersucht eingehend Hattas Verdienste und Fehler, die Zweiseitigkeit seiner Management-Philosophie und den komplexen Abdruck, den diese Geschichte in der taiwanesischen Gesellschaft hinterlassen hat.",
-        "category": "people",
-        "href": "/de/people/hatta-yoichi",
-        "date": "2026-08-19T00:11:35+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Lai Ching-te: Vom Sohn einer Bergmannsfamilie zum öffentlichen Gesundheitsarzt im Präsidentenpalast",
-        "desc": "Der 16. Präsident der Republik China (Taiwan) und der erste Politiker in der Verfassungsgeschichte, der als Vizepräsident für das Präsidentenamt kandidierte und die Wahl gewann",
-        "category": "people",
-        "href": "/de/people/lai-ching-te",
-        "date": "2026-08-18T23:37:29+08:00",
-        "readingTime": 12,
         "image": ""
       }
     ]

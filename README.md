@@ -97,26 +97,26 @@ a human — that boundary is the design, not a limitation. The full contract is
 | ------------------------------ | ----- |
 | 📄 Total articles (zh-TW SSOT) | 1119  |
 | 🇹🇼 Chinese (zh-TW)             | 1119  |
-| 🇺🇸 English (en)                | 901   |
+| 🇺🇸 English (en)                | 905   |
 | 🇯🇵 日本語 (ja)                 | 888   |
-| 🇰🇷 한국어 (ko)                 | 896   |
-| 🇪🇸 Español (es)                | 892   |
-| 🇫🇷 Français (fr)               | 894   |
-| 🇻🇳 Tiếng Việt (vi)             | 818   |
-| 🇮🇩 Bahasa Indonesia (id)       | 617   |
-| 🇵🇹 Português (pt)              | 861   |
-| 🇮🇳 हिन्दी (hi)                 | 689   |
-| 🇸🇦 العربية (ar)                | 766   |
-| 🇷🇺 Русский (ru)                | 802   |
-| 🌐 Deutsch (de)                | 119   |
+| 🇰🇷 한국어 (ko)                 | 899   |
+| 🇪🇸 Español (es)                | 895   |
+| 🇫🇷 Français (fr)               | 897   |
+| 🇻🇳 Tiếng Việt (vi)             | 844   |
+| 🇮🇩 Bahasa Indonesia (id)       | 638   |
+| 🇵🇹 Português (pt)              | 868   |
+| 🇮🇳 हिन्दी (hi)                 | 703   |
+| 🇸🇦 العربية (ar)                | 775   |
+| 🇷🇺 Русский (ru)                | 806   |
+| 🌐 Deutsch (de)                | 152   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
-| ⭐ GitHub Stars                | 1170  |
+| ⭐ GitHub Stars                | 1171  |
 | 🍴 Forks                       | 185   |
-| 📅 Articles last 7 days        | 21    |
-| 📅 Articles last 30 days       | 262   |
+| 📅 Articles last 7 days        | 18    |
+| 📅 Articles last 30 days       | 256   |
 
 <!-- STATS:END -->
 
@@ -581,8 +581,8 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/frank890417"><img src="https://avatars.githubusercontent.com/u/4727572?v=4" width="100px;" alt=""/><br /><sub><b>Che-Yu Wu</b></sub></a><br />💻 🖋️ 🎨 🤔 🌍 📖 📆</td>
     <td align="center"><a href="https://github.com/idlccp1984"><img src="https://avatars.githubusercontent.com/u/271929436?v=4" width="100px;" alt=""/><br /><sub><b>idlccp1984</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
-    <td align="center"><a href="https://github.com/Link1515"><img src="https://avatars.githubusercontent.com/u/88765055?v=4" width="100px;" alt=""/><br /><sub><b>Link1515</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/aminzai"><img src="https://avatars.githubusercontent.com/u/71848?v=4" width="100px;" alt=""/><br /><sub><b>aminzai</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/Link1515"><img src="https://avatars.githubusercontent.com/u/88765055?v=4" width="100px;" alt=""/><br /><sub><b>Link1515</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/dreamline2"><img src="https://avatars.githubusercontent.com/u/4657845?v=4" width="100px;" alt=""/><br /><sub><b>Wilson Chen</b></sub></a><br />💻 🖋️ 🌍 🚇</td>
     <td align="center"><a href="https://github.com/YenTingWu"><img src="https://avatars.githubusercontent.com/u/57777349?v=4" width="100px;" alt=""/><br /><sub><b>YenTing Wu</b></sub></a><br />💻 🤔 🌍 🔧 📖 🚇</td>
     <td align="center"><a href="https://github.com/Zaious"><img src="https://avatars.githubusercontent.com/u/128442444?v=4" width="100px;" alt=""/><br /><sub><b>Zaious (@ChronicleCore)</b></sub></a><br />💻 🖋️ 🌍</td>
