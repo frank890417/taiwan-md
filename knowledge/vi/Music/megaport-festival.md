@@ -19,34 +19,30 @@ canonical-order: 999
 lastVerified: 2026-07-10
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/大港開唱-outline.md'
-image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
+image: '/article-images/music/megaport-festival-2025-namba-stage.webp'
 imageCredit: 'Xi.you 1010.2008 / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
+rationale: "{'why_this_hook': '以高雄港邊的場域與台灣聽團文化切入，避免寫成林昶佐或閃靈的附屬段落。', 'whats_excluded': '完整歷年卡司表、售票爭議細節、所有停辦與復辦年份的財務脈絡，留待後續深稿補強。', 'where_it_hedges': '售票紀錄與停辦爭議採媒體與官方可查來源；未完整交叉驗證的細節不寫入正文主軸。', 'whos_pushing_back': '把大港視為政治色彩過重者、只把它當大型娛樂活動者、期待完整音樂產業營運分析的讀者。'}"
 translatedFrom: 'Music/大港開唱.md'
-sourceCommitSha: '717a640b3'
-sourceContentHash: 'sha256:2cde586b88469ed9'
-sourceBodyHash: 'sha256:db05dfd8f23d6ee9'
-translatedAt: '2026-08-09T10:41:15+08:00'
-rationale:
-  why_this_hook: 'Sử dụng cảng Cao Hùng làm cảnh và ngành nghe nhạc Đài Loan để bắt đầu, tránh viết thành đoạn phụ của Lâm Xương Tác hoặc Nhạp Linh.'
-  whats_excluded: 'Danh sách đầy đủ dàn nghệ sĩ qua các năm, chi tiết tranh chấp vé, tất cả năm tạm dừng và phục hồi với bối cảnh tài chính, để dành cho các bài viết sâu sau này.'
-  where_it_hedges: 'Ghi chép về vé và tranh chấp dừng sử dụng nguồn từ truyền thông và chính thức có thể tra cứu; những chi tiết chưa được xác minh chéo hoàn toàn không được viết vào trục chính của bài.'
-  whos_pushing_back: 'Những người coi Megaport là màu sắc chính trị quá nặng, những người chỉ xem nó như hoạt động giải trí quy mô lớn, độc giả kỳ vọng phân tích đầy đủ về vận hành kinh doanh ngành âm nhạc.'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:ded0e72872765bab'
+sourceBodyHash: 'sha256:1dd7ff6902b5f09f'
+translatedAt: '2026-09-09T06:24:42.182989+00:00'
 ---
 
-# Megaport Festival: Lễ hội âm nhạc Đài Loan tại cảng Cao Hùng
+# Đại Cảng Khai Xướng: Lễ hội âm nhạc Đài Loan sinh ra bên cảng Cao Hùng
 
-![Sân khấu Nam Bá Thiên tại Megaport Festival 2025, đèn và đám đông nhìn về phía sân khấu lớn bên cầu Cao Hùng.](https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)
-_Sân khấu Nam Bá Thiên tại Megaport Festival 2025. Photo: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
+![Sân khấu Namba Thiên của Đại Cảng Khai Xướng năm 2025, sân khấu lớn hướng về phía cảng Cao Hùng với ánh đèn và đám đông.](/article-images/music/megaport-festival-2025-namba-stage.webp)
+_Sân khấu Namba Thiên của Đại Cảng Khai Xướng năm 2025. Ảnh: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
 
-> **Tổng quan 30 giây:** Megaport Festival là lễ hội âm nhạc ngoài trời quy mô lớn được thành lập năm 2006 tại cảng Cao Hùng. Nó phát triển từ kinh nghiệm của đội ngũ Yêtai Open Singing; những năm đầu được thúc đẩy bởi Lâm Xương Tác, Doris Yeh và nhóm TRA Music, sau đó được Doris và Dani Vương Tử Xiáng tiếp tục phát triển. Megaport tập hợp các nhạc sĩ Nam Đài Loan, cảnh quan cảng biển, tiếng nói Đài Loan, các nghệ sĩ quốc tế, Đài Loan những ký ức thời đại và làng vấn đề NGO vào một chỗ, biến hai ngày biểu diễn thành một cách mà thành phố dùng tiếng nói để tưởng tượng lại về chính nó.
+> **Tóm tắt 30 giây:** Đại Cảng Khai Xướng (Megaport Festival) là lễ hội âm nhạc ngoài trời quy mô lớn được thành lập bên cảng Cao Hùng vào năm 2006. Nó phát triển từ kinh nghiệm của nhóm Wild Stage, ban đầu do Lâm Sảng Tọa, Dư Lệ Tương Nghi và đội ngũ TRA Music thúc đẩy, sau này được tiếp nối bởi Doris và đội ngũ Uông Tử Cẩu. Đại Cảng tập hợp các ban nhạc Nam Đài Loan, bối cảnh bên cảng, tiếng Đài ngữ trực tiếp, dàn khách mời quốc tế, ký ức thịnh hành của Đài Loan và các vấn đề NGO, biến hai ngày biểu diễn thành cách một thành phố tự tái tưởng tượng mình bằng âm thanh.
 
 ---
 
-Năm 2006, khu Phục Nhị tại Cao Hùng vừa chuyển đổi từ kho hàng cảng thành khu đặc biệt nghệ thuật, tàu điện ngầm và tàu điện nhẹ vẫn chưa kết nối cảng biển vào cuộc sống hàng ngày của thành phố.
+Năm 2006, Bảo Tự Cao Hùng vừa chuyển đổi từ kho bãi cảng thành khu nghệ thuật đặc biệt, và hệ thống tàu điện ngầm cùng xe điện nhẹ vẫn chưa tích hợp khu vực cảng vào nhịp sống thường nhật của thành phố.
 
-Megaport Festival khai mạc vào mùa thu năm đó tại mole 11 và 12 của cảng Cao Hùng. Trang HISTORY chính thức nhìn lại lần đầu tiên và viết rằng lúc đó chỉ có ba sân khấu: "Nam Bá Thiên", "Vương Long", "Phong Dâng"; danh sách biểu diễn có Điều Mê Hào, Trần Tỳ Trinh, Tạ Kim Yến, Nhạc sĩ Tuyệt Lửa Hộp (滅火器樂團), Bạc Hà Lá, Tizzy Bac, cũng như các nhạc sĩ Nhật Bản như envy và YURA YURA TEIKOKU. Danh sách chương trình này tập hợp các nhạc sĩ độc lập Đài Loan, tiếng nói ngầm Nhật Bản, ký ức thời đại tiếng Đài Loan phổ biến và cảng Cao Hùng trong một cuối tuần. [^1]
+Đại Cảng Khai Xướng đã ra mắt vào mùa thu năm đó, bên cầu cảng số 11 và 12 của Cao Hùng. Trang Lịch sử chính thức hồi tưởng về lần đầu tiên cho biết, lúc đó chỉ có ba sân khấu là "Nam Bá Thiên", "Hải Long Vương" và "Phong Dũng"; danh sách biểu diễn bao gồm các nghệ sĩ như Điềm Mai Hào, Trần Khê Trinh, Tạ Kim Yến, Miệt Hỏa Khí, Bạc Hà Diệp, Tizzy Bac, cùng với các nhóm nhạc Nhật Bản là envy và YURA YURA TEIKOKU. Chương trình này đã đặt các ban nhạc độc lập Đài Loan, âm thanh underground Nhật Bản, ký ức thịnh hành tiếng Đài ngữ và khu vực cảng Cao Hùng vào cùng một cuối tuần. [^1]
 
 ## Nam phương không phải đồ trang trí
 
