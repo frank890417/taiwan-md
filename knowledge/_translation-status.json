@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T18:59:25+08:00",
-    "zhCommitHead": "487853a5b",
+    "lastUpdated": "2026-09-09T19:48:25+08:00",
+    "zhCommitHead": "8d12acc2f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 793,
+        "fresh": 794,
         "stale": 80,
-        "metadata_stale": 21,
+        "metadata_stale": 20,
         "missing": 227,
         "orphan": 0
       },
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 667,
+        "fresh": 668,
         "stale": 85,
         "metadata_stale": 79,
-        "missing": 290,
+        "missing": 289,
         "orphan": 0
       },
       "id": {
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 780,
-        "stale": 70,
+        "fresh": 781,
+        "stale": 69,
         "metadata_stale": 16,
         "missing": 255,
         "orphan": 0
@@ -19343,18 +19343,16 @@
         "pt": {
           "path": "pt/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:ea05ddc3465f02eb",
-          "sourceBodyHash": "sha256:c1a908bbd971d40d",
-          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
+          "sourceBodyHash": "sha256:50acff1d4627c3c4",
+          "translatedAt": "2026-09-09T11:22:17.322454+00:00",
           "translationLastCommit": "5abb2e5e",
           "translationLastModified": "2026-08-02T18:36:52+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/artificial-intelligence-development-strategy.md",
@@ -19928,7 +19926,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/instagram-in-taiwan.md",
+          "translatedFrom": "Technology/IG.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a7ab7951cc810aea",
+          "sourceBodyHash": "sha256:584e7ee9d0c2d903",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -48748,8 +48757,8 @@
           "sourceContentHash": "sha256:369f015f40df17bd",
           "sourceBodyHash": "sha256:87466d8232d3f86e",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d12acc2",
+          "translationLastModified": "2026-09-09T18:59:25+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -82570,8 +82579,8 @@
           "sourceContentHash": "sha256:984fef279b1af05b",
           "sourceBodyHash": "sha256:8e4d8fb8704570d2",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d12acc2",
+          "translationLastModified": "2026-09-09T18:59:25+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -84042,8 +84051,8 @@
           "sourceContentHash": "sha256:eecabb61bafa58a4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T09:32:31.853699+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d12acc2",
+          "translationLastModified": "2026-09-09T18:59:25+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "status": "fresh",
@@ -106475,8 +106484,8 @@
           "sourceContentHash": "sha256:fb71e3bcf0475f2e",
           "sourceBodyHash": "sha256:6b96e9e6687dd8c3",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8d12acc2",
+          "translationLastModified": "2026-09-09T18:59:25+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -134441,18 +134450,16 @@
         "es": {
           "path": "es/Geography/changhua-county.md",
           "translatedFrom": "Geography/彰化縣.md",
-          "sourceCommitSha": "31a05c44",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:53588f1af78c53bd",
           "sourceBodyHash": "sha256:83c1d8ae2ebcca91",
-          "translatedAt": "2026-06-16T17:05:07Z",
+          "translatedAt": "2026-09-09T11:45:52+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/changhua-county.md",
