@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T05:05:00+08:00",
-    "zhCommitHead": "2c3fc670e",
+    "lastUpdated": "2026-09-10T06:15:18+08:00",
+    "zhCommitHead": "f68daf3d4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 795,
+        "fresh": 796,
         "stale": 79,
         "metadata_stale": 20,
-        "missing": 227,
+        "missing": 226,
         "orphan": 0
       },
       "fr": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 680,
+        "fresh": 682,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 280,
+        "missing": 278,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 577,
+        "fresh": 578,
         "stale": 49,
         "metadata_stale": 11,
-        "missing": 484,
+        "missing": 483,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 142,
+        "fresh": 145,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 972,
+        "missing": 969,
         "orphan": 0
       }
     },
@@ -6174,7 +6174,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/mega-financial-holding-global-banking-network.md",
+          "translatedFrom": "Economy/台灣企業：兆豐金控.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:727a76c702d55980",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T21:20:05.288914+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -39652,7 +39663,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:692645244e391abd",
+          "sourceBodyHash": "sha256:28f054608fa81e22",
+          "translatedAt": "2026-09-10T03:36:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/tra-mingri-express.md",
@@ -69371,7 +69393,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chiang-kai-shek.md",
+          "translatedFrom": "People/蔣中正.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ad64f216ed170575",
+          "sourceBodyHash": "sha256:447dc5d1bea38591",
+          "translatedAt": "2026-09-10T03:36:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chiang-kai-shek.md",
@@ -122885,8 +122918,8 @@
           "sourceContentHash": "sha256:d742f8951718669a",
           "sourceBodyHash": "sha256:c8f9abbde98738f2",
           "translatedAt": "2026-09-10T03:36:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa4c9fa2",
+          "translationLastModified": "2026-09-10T05:05:01+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -131980,7 +132013,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/geography-and-geology.md",
+          "translatedFrom": "Geography/台灣島嶼地理特色與形成.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:fd5b44b607710000",
+          "sourceBodyHash": "sha256:b019853dd2be5b1d",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/geography-and-geology.md",
@@ -139669,8 +139713,8 @@
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa4c9fa2",
+          "translationLastModified": "2026-09-10T05:05:01+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -142117,7 +142161,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/penghu-folk-culture.md",
+          "translatedFrom": "Culture/澎湖民俗文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e71b837d32f8708d",
+          "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -145427,7 +145482,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/loanwords-and-language-contact-in-taiwan.md",
+          "translatedFrom": "Culture/台灣外來語與語言接觸.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eec4f271a84a1f94",
+          "sourceBodyHash": "sha256:8e1b986c4cf0a1f3",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -150464,7 +150530,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-funeral-culture-and-death-views.md",
+          "translatedFrom": "Culture/台灣殯葬文化與生死觀.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c4dd3375c0cfa0a5",
+          "sourceBodyHash": "sha256:a20df4f3c36414b3",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
