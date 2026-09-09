@@ -1,179 +1,255 @@
 ---
-title: "Des mascottes : de l'ours noir taïwanais au salut par les jeux de mots, une curation culturelle"
-description: "En 2013, la naissance d'« OhBear » a inauguré l'ère des Royaumes combattants des mascottes à Taïwan. De la prolifération des ours noirs à travers l'île, au « Gamin du lait de mer » (虱目魚小子) devenu si laid qu'il a débarqué dans un talk-show américain, en passant par le « Fulibear » (福利熊) générant des centaines de millions de revenus annuels et le « Bravo » (熊讚) auditionné au conseil municipal, les mascottes taïwanaises évoluent d'outils de communication gouvernementaux vers des symboles culturels dotés d'une âme et d'une résonance sociale."
+title: 'Les mascottes de Taïwan : du cadeau de Datong Baby au personnage local à portée mondiale'
+description: "De Datong Baby en 1969, à Oh Bear et Xiongzan, jusqu'à Kaohsiung MRT, Maolimiao, Tiger Duck, Timon et Caiqi Duck, comment les mascottes de Taïwan portent la mémoire locale, le paysage des transports, l'identité scolaire, l'émotion du football et le capital intellectuel d'entreprise ; le véritable test d'un personnage est s'il peut quitter son socle pour entrer dans la vie des gens."
+date: 2026-04-21
 category: 'Lifestyle'
 tags:
   [
-    mascottes,
-    ours noir taïwanais,
-    OhBear,
-    mignon laid,
-    Pigeon Pabo,
-    Canard Caichy,
-    Fulibear,
-    Bravo,
-    Hongfu,
-    Conseil municipal de Taipei,
+    'mascotte',
+    'Oh Bear',
+    'Xiongzan',
+    'Caiqi Duck',
+    'Yeqi Duck',
+    'Kaohsiung MRT',
+    'Maolimiao',
+    'Tiger Duck',
+    'Timon',
+    'Yu Tou Jun',
   ]
+subcategory: '城市生活'
 author: 'Taiwan.md Contributors'
-date: 2026-04-21
-readingTime: 15
-lastVerified: 2026-04-21
-lastHumanReview: false
-translatedFrom: Lifestyle/吉祥物.md
-sourceCommitSha: '88b3abd8'
-sourceContentHash: 'sha256:7453fc91529be112'
-sourceBodyHash: 'sha256:0280d05fe808358b'
-translatedAt: 2026-05-01T20:54:17+08:00
 featured: false
+lastVerified: 2026-09-05
+lastHumanReview: false
+readingTime: 18
+curation: 'incubating'
+translatedFrom: 'Lifestyle/吉祥物.md'
+sourceCommitSha: '25b97c085'
+sourceContentHash: 'sha256:cfeed87bcc86a207'
+sourceBodyHash: 'sha256:761ccd3c7cd0d390'
+translatedAt: '2026-09-08T15:54:42+08:00'
 ---
 
-> **Aperçu en 30 secondes :** Taïwan a connu une fascination collective pour l'ours noir, avec des dizaines de mascottes d'apparence quasi identique coexistant simultanément sur l'île. Cependant, entre le « Gamin du lait de mer » devenu si laid qu'il a débarqué dans un talk-show américain, le « Pigeon Pabo » des Postes chinoises qui a conquis le public grâce à sa douceur, et le miracle commercial du « Fulibear » générant des centaines de millions de revenus annuels, les mascottes taïwanaises connaissent une transformation qualitative, passant d'outils « mignons » à des marques de caractère.
+> **Aperçu en 30 secondes :** L'évolution des mascottes de Taïwan ne se limite pas au passage du sérieux à la mignonnerie. En 1969, Datong Baby a transformé une entreprise en un personnage qu'on peut ramener chez soi ; après 2013, Oh Bear, Xiongzan, Yu Tou Jun, Maolimiao, Tiger Duck, Timon et Caiqi Duck ont mis la promotion touristique, la gouvernance urbaine, les transports, le milieu scolaire, le sport et l'alimentation locale sur une même ligne. Le véritable test est de savoir si un personnage peut quitter son socle pour entrer dans la vie des gens ; c'est passer du « qui il représente » à « quelle mission il accomplit ». [^1] [^2] [^3]
 
-Le 3 décembre 2013, un ours noir portant un V blanc sur la poitrine et une cape orange naissait discrètement dans le monde numérique. Six mois plus tard, il était officiellement nommé chef de la « Super Mission Team » de l'Administration du tourisme du ministère des Transports, sous le nom d'« OhBear » (喔熊)[^1]. Ce n'était pas simplement l'entrée en fonction d'une mascotte gouvernementale : c'était le signal que Taïwan entrait officiellement dans l'ère des Royaumes combattants des mascottes.
+En 1969, Datong Company a lancé Datong Baby. Le 3 décembre 2013, Oh Bear est apparu sur les autocollants de l'Agence de Promotion du Tourisme (Ministère des Transports). En 2024, la ville de Tainan a utilisé Caiqi Duck pour animer 59 marchés publics. Ces trois années et ces trois contextes dessinent le parcours des mascottes de Taïwan : d'un cadeau d'entreprise à une promotion gouvernementale, jusqu'à un personnage culturel capable de guider localement, d'accueillir les systèmes de transport ou d'expliquer l'identité scolaire. [^1] [^2] [^3]
 
-### Profondeur historique : du « Tongda Baby » à la première année du baseball professionnel
+L'histoire des mascottes est aussi celle de « comment une institution abstraite devient parlante ». Les entreprises, les agences touristiques, les gouvernements urbains, les compagnies de métro, les écoles et les équipes de football communiquaient initialement par le biais de systèmes, de logos et de documents officiels. Le personnage a transformé ces institutions en objets nommés, animés, pouvant être photographiés et mémorisés. Cette traduction n'est pas toujours réussie, mais elle offre un point d'entrée accessible. [^1] [^2] [^4] [^8]
 
-La culture des mascottes à Taïwan n'est pas née de nulle part. Dès 1969, la société Tongda, pour promouvoir ses téléviseurs couleur, a créé la mascotte la plus emblématique de l'histoire des entreprises taïwanaises : le « Tongda Baby » (大同宝宝)[^2]. Cette figurine portant un casque et serrant un ballon de football américain n'était pas seulement un symbole d'identification d'entreprise, mais aussi un symbole de la prospérité des familles taïwanaises dans les années 1970.
+![Caiqi Duck et Yeqi Duck, mascottes officielles du marché de Tainan](https://upload.wikimedia.org/wikipedia/commons/d/dd/%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg)
 
-En 1990, l'inauguration de la première année du baseball professionnel taïwanais a vu les quatre équipes — les Brothers Elephants, les Mercenaries Tigers, les Uni-President Lions et les Wei-Chuan Dragons — entrer en scène accompagnées de leurs mascottes respectives, inaugurant ainsi l'ère des mascottes sportives[^3]. Cependant, les premières mascottes servaient principalement de « cadeaux promotionnels » ou d'« ornements », dépourvues d'univers narratif complet et de construction de monde cohérente.
+_Mascottes officielles du marché de Tainan : Yeqi Duck à gauche, Caiqi Duck à droite. Photo : Ye Min-hsuan / Bureau des nouvelles et des relations internationales de la ville de Tainan ; utilisé avec l'annonce d'information ouverte du site web gouvernemental de Tainan, en citant la source « Ville de Tainan»._[^4]
 
-### L'ours ou la mort : la fascination taïwanaise pour l'ours noir
+## Parlons d'un vrai ours
 
-À Taïwan, si vous ne savez pas quelle mascotte concevoir, choisissez un ours noir : vous ne pouvez pas vous tromper. Selon les statistiques, des dizaines de mascottes d'ours noir sans lien de parenté ont été créées simultanément dans tous les secteurs d'activité à Taïwan[^4]. Du « Bravo » (熊讚) des Jeux universitaires de Taipei au « Kaohsiung Bear » (高雄熊) de la ville de Kaohsiung, du « V-Bear » (威熊) de V Air au « Ningxia Bear » (寧夏熊) du marché nocturne de Ningxia (夜市, marché de nuit), l'ours noir est devenu un totem de la conscience collective taïwanaise.
+Le grizzli asiatique (Taiwan black bear) est une sous-espèce endémique de Taïwan et un animal sauvage menacé mentionné dans les documents du parc national de Yushan. Les marques en forme de V sur la poitrine sont facilement reconnaissables, ce qui lui a valu d'être à la fois un objet de conservation et un vocabulaire de conception : les designers peuvent utiliser le corps noir, les oreilles rondes et le plastron en V pour faire immédiatement penser au « Taïwan » du public. [^5]
 
-Cependant, cette « fascination collective » a engendré une crise d'identité visuelle. Lors du concours national de mascottes de 2016, la seule ville de Kaohsiung a envoyé trois ours différents, laissant le public incapable de distinguer le « Kaoru Bear » (高高熊) du « Kaohsiung Bear » (高雄熊)[^4].
+Les documents du parc national de Yushan indiquent que le grizzli asiatique possède des marques pectorales en forme de V ou de croissant blanc-jaunâtre. Le registre officiel des espèces sauvages protégées l'a également classé comme espèce sauvage terrestre protégée. Ces caractéristiques biologiques confèrent au grizzli une grande identifiabilité visuelle, mais « facile à dessiner » et « déjà bien expliqué la conservation » sont deux choses différentes. [^5] [^6]
 
-📝 Note du curateur : Lorsque chaque ours ressemble à un « ours taïwanais » générique, ils perdent tous leur singularité de marque et deviennent de simples outils de promotion éphémères.
+Il y a ici une distance souvent négligée. Dans la nature, l'ours est confronté à son habitat, aux conflits homme-faune et au risque de chasse. Dans les mascottes, l'ours fait face à l'identifiabilité, à l'autorisation, à la participation aux événements et à l'interaction sociale. Transformer un animal réel en personnage apporte une proximité, mais peut aussi aplatir le sujet de la conservation en un simple symbole mignon. Face au motif du grizzli, il est préférable d'y penser non seulement comme un modèle de conception, mais aussi en gardant à l'esprit son statut biologique. [^5] [^6]
 
-### Miracles commerciaux : le « Fulibear » et « Open-Chan » générant des centaines de millions
+> 📝 **Note du curateur :** Un vrai ours n'a pas besoin de gérer une personnalité tous les jours ; une mascotte, elle, dépend d'une personnalité pour que l'on veuille la regarder une fois de plus. Plus difficile encore, le contexte réel de son prototype ne doit pas disparaître après avoir été vu.
 
-La capacité d'une mascotte à « générer des revenus » constitue un indicateur concret de sa valeur de marque. Le « Fulibear » (福利熊) de Pxmart et « Open-Chan » (Open 將) de 7-Eleven ont tous deux été créés par le génie du marketing Liu Hongzheng (劉鴻徵)[^5].
+## 1969 : Datong Baby transforme l'entreprise en humain
 
-À son apogée, « Open-Chan » a rapporté au groupe Uni-President des revenus annuels dépassant le milliard de dollars taïwanais, avec des licences s'étendant même à des voitures en édition spéciale et à des parcs à thème[^5]. Quant au « Fulibear », grâce à sa chanson entêtante « Fulibear, Xiong Fuli » et à la gestion de son univers narratif « L'équipe d'exploration des fruits », il contribue chaque année pour environ 200 à 300 millions de dollars taïwanais au chiffre d'affaires de Pxmart[^6].
+Le point clé de Datong Baby n'est pas le classement facile à simplifier comme « le premier de Taïwan », mais le fait qu'il a très tôt transformé une identité d'entreprise en un objet doté d'un corps, d'une posture et qui peut être collectionné. Le premier personnage, apparu en 1969, porte un casque, tient un ballon de football et arbore les marques de Datong. En entrant dans les foyers comme cadeau, la marque ne reste pas seulement sur le boîtier des appareils électroménagers. [^1] [^7]
 
-Liu Hongzheng souligne que la clé de la gestion d'une propriété intellectuelle réside dans la construction d'un « univers narratif ». Par exemple, Fulibear est caractérisé comme un garçon curieux rêvant de devenir un employé modèle, et son groupe sanguin est de type A, comme le logo de Pxmart[^5].
+Les documents officiels de Datong Company indiquent qu'à partir de 1969 (Année 58 de la République), l'achat d'un appareil ménager Datong pour plus de dix mille dollars donnait droit à un Datong Baby. Le casque rouge, le ballon de football et le matériau en plastique n'étaient pas seulement des choix esthétiques ; ils intégraient dans cette poupée les images de coopération, de ténacité et de service client que l'entreprise souhaitait transmettre à l'époque. [^1]
 
-### Vie politique : « Bravo » auditionné au conseil municipal
+Ce détail a modifié la distance entre la marque et l'humain. La télévision, le réfrigérateur ou l'appareil électroménager sont des produits utilisés dans la maison ; Datong Baby est un objet que la famille peut manipuler, exposer et conserver. L'identité d'entreprise est passée de « voir le logo » à « en avoir un chez soi ». [^1]
 
-Lorsqu'une mascotte entre dans le secteur public, elle cesse d'être une simple peluche adorable pour devenir un « être politique » soumis au contrôle de l'efficacité des dépenses publiques. La mascotte de la municipalité de Taipei, « Bravo » (熊讚), en est l'exemple le plus emblématique.
+Les chiffres sur la poitrine de Datong Baby, le trou monétaire au sommet de sa tête, ses pieds et son ballon de football ont également été dotés d'un sens interne par l'entreprise : les chiffres représentent l'ancienneté de fondation de Datong, le trou monétaire est lié à l'esprit d'économie, les pieds symbolisent la solidité, et le ballon de football correspond à l'image du service client sans fatigue. Ces explications ne correspondent pas nécessairement à la perception réelle de chaque consommateur, mais elles témoignent de la manière dont l'entreprise a construit une biographie pour son personnage. [^1]
 
-En 2018, le Bureau du tourisme et de la communication de la municipalité de Taipei a dépensé 1,13 million de dollars taïwanais pour une « micro-chirurgie esthétique » de l'ancien « Golden Medal Bravo » (金牌熊讚), le transformant en « Ocean Bravo » (海洋熊讚), afin d'obtenir un enregistrement de marque. Cette opération a déclenché des questions virulentes au conseil municipal. Un conseiller a qualifié cette « chirurgie esthétique » de pratique bureaucratique déplorable, ajoutant même avec ironie : « Comment as-tu pu devenir si laid ? »[^7][^8].
+Cette approche a été adoptée par de nombreuses entreprises et institutions publiques : confier une entreprise, une ville ou un événement abstrait à un personnage qui peut accueillir en entrant, apparaître sur des autocollants et être emporté par les enfants. Ainsi, la mascotte possède deux échelles de temps : elle se concentre à court terme sur l'événement, et elle accumule une familiarité à long terme. [^1] [^7]
 
-De plus, le ratio budget/revenus de Bravo est régulièrement scruté. En 2024, un conseiller a souligné que Bravo disposait d'un budget annuel de marketing et d'entretien dépassant les 11 millions de dollars taïwanais, alors que les revenus annuels provenant des droits de licence et des honoraires de représentation n'atteignaient que 400 000 dollars taïwanais, le surnommant « investissement déficitaire »[^9][^10].
+> 📝 **Note du curateur :** La première compétition des mascottes d'entreprise ne portait pas sur qui était le plus mignon, mais sur qui pouvait occuper un petit espace dans le salon en premier.
 
-📝 Note du curateur : La tragédie des mascottes du secteur public réside dans leur obligation de naviguer entre « image municipale » et « rentabilité budgétaire ». Lorsqu'une mascotte a un « salaire mensuel » (budget annualisé) supérieur à celui d'un fonctionnaire municipal, sa mignonnitude devient un péché politique.
+## 2013-2017 : Xiongzan sort de la marque pour devenir un personnage urbain
 
-### Hongfu : le messager centenaire du Red House de Ximending
+Le concept d'Oh Bear ressemble à un exercice de traduction du langage bureaucratique en langage de personnage. La page officielle de l'Agence de Promotion du Tourisme a décrit Oh Bear comme le « chef d'équipe super mission », listant son parcours, tel que son apparition sur les autocollants le 3 décembre 2013 et sa prise de fonction le 3 juin 2014. Le col en V blanc, la cape orange et l'inscription de l'agence ont lié le prototype du grizzli de Taïwan à une mission touristique. [^2]
 
-Contrairement à la pression politique qui pèse sur les mascottes gouvernementales, « Hongfu » (紅福) du Red House de Ximending (西門紅樓) illustre comment transformer l'histoire en un actif culturel adorable. Dévoilé pour la première fois en 2024, « Hongfu » est un renard roux portant la bande décorative horizontale du bâtiment du Red House et doté d'un regard vif[^11].
+Le personnage d'Oh Bear inclut également des informations sur son anniversaire, sa fonction, sa personnalité, ses vêtements et ses activités quotidiennes. Ces données semblent légères, mais elles transforment en un personnage parlant l'institution « Agence de Promotion du Tourisme ». Lorsque le contenu officiel passe des termes politiques au ton « Où vais-je aujourd'hui », le lecteur ne reçoit plus seulement le nom de l'agence, mais un guide avec un itinéraire. [^2]
 
-La conception de « Hongfu » n'est pas le fruit de l'imagination pure : elle trouve son origine dans le « sanctuaire Inari de Taipei » (台北稻荷神社), situé à côté du marché de Ximending (aujourd'hui le Red House) durant la période de domination japonaise[^12]. Le renard, messager de la divinité Inari, a été transformé en « directeur de l'accueil » du Red House. La bande blanche horizontale qu'il porte fait écho aux motifs caractéristiques en pierre lavée rouge et blanc du bâtiment[^13].
+Le parcours de Xiongzan est plus proche d'un événement urbain. Les documents officiels du gouvernement de Taipei enregistrent que Xiongzan a servi d'ambassadeur promotionnel lors des Jeux Asiatiques de Taipei 2017 et continue à gagner en fans et en demande de produits après la fin des jeux. Le 20 septembre 2017, le gouvernement de Taipei a officiellement invité Xiongzan à devenir la mascotte municipale. [^3]
 
-📝 Note du curateur : Le succès de Hongfu réside dans la « recherche documentaire ». Ce n'est pas un simple renfox : c'est le vecteur de l'histoire centenaire du Red House. Grâce aux thèmes de « transformation du destin » et de « durabilité », il a réussi à relier un monument historique à la création culturelle contemporaine.
+![Xiongzan avec les visiteurs du parc national de Yangmingshan](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg/500px-Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg)
 
-### Plus c'est laid, plus on aime : la revanche du « mignon laid » des sites touristiques de second rang
+_Xiongzan et les visiteurs du parc national de Yangmingshan en janvier 2016, lors des Jeux Asiatiques de Taipei 2017. Photo : Chi-Hung Lin / Flickr ; CC BY-SA 2.0._[^8]
 
-Dans le courant dominant de la recherche de la mignonnité, un groupe de mascottes a choisi de prendre le contre-pied, se frayant un chemin grâce au « bizarre » et au « mignon laid ». L'exemple le plus célèbre est le « Gamin du lait de mer » (虱目魚小子) de Beimen, dans le sud de Taïwan, dont les pupilles noires et le sourire étrange ont été qualifiés par les internautes de « cauchemardesque », au point d'être invité dans le talk-show américain _Last Week Tonight_[^14][^15].
+Le tournant le plus narratif pour Xiongzan est sa candidature envoyée au centre d'emploi de Xinyi la veille de la fin des jeux. Ce n'est pas seulement rendre l'ours plus humain, c'est poser une question concrète à un événement ponctuel : que fait-on après la cérémonie de clôture ? La municipalité a ensuite décerné le "Grand Prix TPE" et organisé un bureau dédié, faisant passer Xiongzan du rôle d'événementiel à celui d'image publique pour les activités municipales et touristiques. [^3]
 
-L'archipel de Penghu est également un bastion des mascottes « mignon laides », de la « Perle Enfant » (珍珠小童) au « Coque fraîche de Chengqian » (城前鮮蚵), en passant par le « Poisson-clown en bikini » (比基尼小丑魚). Ces monuments kitsch, au design plastique et aux formes étranges, bien que vivement critiqués à leur apparition, ont suscité de manière inattendue une vague de selfies touristiques[^15].
+Ceci montre également que « il y a beaucoup d'ours » ne signifie pas nécessairement « une conception paresseuse ». Le même prototype peut servir différentes missions : Oh Bear vend l'imaginaire du tourisme de Taïwan, tandis que Xiongzan gère les événements urbains et l'image publique ; la différence doit être établie par l'histoire, le ton et le contexte d'utilisation. Le problème est que le personnage n'a qu'un costume noir sans vie propre. [^2] [^3]
 
-### SABABOY : l'esthétique de la « coupe transversale » qui a conquis le Japon
+## Pourquoi le grizzli réapparaît-il ?
 
-La mascotte touristique de Tainan, « SABABOY » (魚頭君), illustre comment le « bizarre » peut mener à la scène internationale. Conçue par l'illustrateur Marco Chen Yuren (陳裕仁), cette mascotte présente un sourire adorable de face, mais une vue en coupe extrêmement réaliste d'une tête de poisson de dos[^16].
+La réponse n'est pas seulement la mignonnerie. Le grizzli possède trois avantages de conception : il est fortement associé à l'endémisme de Taïwan, son V pectoral permet une reconnaissance rapide, et son visage rond et sa silhouette robuste facilitent la transformation en peluche, marionnette gonflable ou autocollant. Ce sont des gains d'efficacité visuelle, mais cela ne signifie pas que la marque est établie. Les deux premiers points peuvent être soutenus par les caractéristiques biologiques du grizzli et le concept d'Oh Bear ; le dernier relève de l'analyse de conception et ne doit pas être présenté comme une statistique officielle. [^2] [^5]
 
-En juin 2024, un utilisateur japonais a partagé sur X (anciennement Twitter) la photo du dos de SABABOY, attirant plus de 5 millions de consultations[^17]. Cette « mignonnité contrastée, audacieuse et visuellement percutante » a propulsé SABABOY au rang de phénomène viral au Japon, devenant un atout inattendu pour le tourisme de Tainan sur les réseaux sociaux internationaux.
+| Niveau de conception         | Ce que le lecteur voit en premier                   | Ce qui nécessite un complément                                                 |
+| :--------------------------- | :-------------------------------------------------- | :----------------------------------------------------------------------------- |
+| Prototype biologique         | Corps noir, plastron en V, grizzli de Taïwan        | Contexte de conservation et habitat réel [^5] [^6]                             |
+| Identification du personnage | Nom, slogan, vêtements, mouvements                  | Cohérence à travers différents médias [^2]                                     |
+| Mission publique             | Tourisme, événements sportifs, activités urbaines   | Existence d'une vie après la fin de la mission [^3]                            |
+| Gestion de l'IP              | Produits, collaborations, licences, réseaux sociaux | Les revenus doivent être calculés séparément des bénéfices publics [^15] [^16] |
 
-### Pigeon Pabo : la renaissance douce d'une institution publique historique
+📝 **Note du curateur :** Le prototype permet d'identifier « quelle catégorie », le personnage permet de se souvenir « lequel ».
 
-Contrairement à la voie du bizarre, « Pigeon Pabo » (波波鴿) des Postes chinoises (中華郵政) illustre comment une stratégie de marque précise peut insuffler une nouvelle vie à une institution publique historique. Né vers 2015, Pigeon Pabo, avec sa silhouette ronde et son signe astrologique des Poissons « détestant qu'on le trouve gros », a rapidement conquis les réseaux sociaux[^18][^19].
+## Comment les systèmes de transport mettent en route la mascotte
 
-En 2024, la boîte-cadeau « Pigeon Pabo × Yilan Stamp », une collaboration entre les Postes chinoises et le pâtissier Yilan, a été entièrement vendue en seulement 10 minutes[^20]. Le succès de Pigeon Pabo réside dans son détachement de l'image rigide de « bébé postal » traditionnel, au profit d'une « douceur » et d'une « authenticité quotidienne ».
+Happy/HAPPI et U!FU de Kaohsiung MRT offrent un autre exemple de personnage urbain : ils n'attendent pas d'être vus dans des brochures touristiques, mais sont placés aux stations de tramway léger et aux carrefours urbains. Le communiqué de presse officiel de Kaohsiung MRT en 2015 indique que HAPPI et U!FU ont fait campagne lors du premier concours de mascottes de la ville de Kaohsiung. La mascotte est ainsi devenue un support d'interaction entre le système de transport et les citoyens. [^9]
 
-### De la mort d'« Along » au salut par les jeux de mots du « Canard Caichy »
+![Mascottes Happy et U!FU de Kaohsiung MRT](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg/960px-%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg)
 
-La vitalité d'une mascotte provient souvent de son « authenticité ». En mai 2024, la mascotte « Along » (阿龍) du Musée national de littérature taïwanaise a été impliquée dans une controverse de plagiat, se concluant par des excuses du musée et des poursuites contre le sous-traitant[^21][^22]. Cette « mort d'Along » a servi de leçon douloureuse aux institutions publiques taïwanaises : une mascotte ne peut pas être une simple coque sous-traitée ; elle doit posséder une âme juridique et créative.
+_Les mascottes de Kaohsiung MRT, Happy (jaune) et U!FU (bleu), lors du combat des mascottes urbaines de Kaohsiung. Photo : Tze Chiang Hao ; CC BY-SA 4.0._[^10]
 
-À l'inverse, la mascotte des marchés de Tainan, « Canard Caichy » (菜奇鴨), apparue dès 2021 mais devenue virale fin 2024, a emprunté une autre voie. Ce canard portant un tablier et une feuille sur la tête tire son nom d'un jeu de mots en taïwanais (台語) sur « marché » (菜市場, _chhài-tiûⁿ-tshī_)[^23].
+La zone dédiée aux personnages actuels de Kaohsiung MRT liste également la famille Yinfu, incluant Xiong Baba Yinfu, Xiong Mama Baozhu, Xiong Jiejie Pingping, Xiong Didi Anan et le raton laveur Happy. Cette même section conserve « La jeune fille de Kaohsiung » et les séries de personnages ultérieures. Cela montre que le personnage lié au transport n'est pas une décoration éphémère, mais qu'il peut se transformer en fonction du thème opérationnel, du public et du média. [^4]
 
-« Je ne suis ni une pomme de terre ni un kiwi : je suis le Canard Caichy. » Cette présentation naïve, combinée à l'attachement taïwanais aux jeux de mots, a propulsé ce canard autrefois inconnu sur les réseaux sociaux comme Threads[^24].
+Ce cas nous rappelle que la fonction d'une mascotte n'est pas toujours de « vendre la ville ». Elle peut aussi réduire le sentiment de distance des installations de transport, donnant aux stations, au tramway léger et aux événements publics un visage qui peut être photographié, voté et mémorisé. Le personnage ne remplace pas l'information de transport, mais il ajoute une dimension émotionnelle au système de transport. [^4] [^9]
 
-### Données et situation actuelle : l'économie des mascottes
+Le rôle du système de transport a également une limite à ne pas franchir : la mignonnerie ne peut remplacer la précision. Les horaires, les tarifs, les informations de correspondance et de sécurité nécessitent toujours des textes et des symboles clairs. La meilleure place pour le personnage est celle qui incite à lire les règles, et non celle qui masque les règles par la décoration. C'est une différence importante entre un rôle de service public et un rôle purement commercial. [^4]
 
-| Mascotte      | Année de naissance | Organisation                 | Valeur commerciale / Impact                                                              |
-| :------------ | :----------------- | :--------------------------- | :--------------------------------------------------------------------------------------- |
-| Open-Chan     | 2004               | 7-Eleven / Uni-President     | Revenus annuels dépassant le milliard de TWD à l'apogée [^5]                             |
-| Fulibear      | 2014               | Pxmart                       | Contribution annuelle d'environ 200-300 millions de TWD [^6]                             |
-| Bravo         | 2016               | Municipalité de Taipei       | Budget marketing annuel > 11 millions TWD, revenus de licence ~400 000 TWD [^9]          |
-| Hongfu        | 2024               | Red House de Ximending       | Combinaison ESG et technologie numérique, transformation d'un monument centenaire [^11]  |
-| SABABOY       | 2018               | Office du tourisme de Tainan | Publication unique sur X ayant attiré plus de 5 millions de consultations au Japon [^17] |
-| Canard Caichy | 2021               | Bureau des marchés de Tainan | Impulsion de la modernisation touristique des marchés traditionnels de Tainan [^25]      |
+## Une ville, un tigre de pierre, un jeu de mots
 
-### Défis et perspectives : refuser de devenir un « figurant »
+Le gouvernement du comté de Miaoli a utilisé le tigre de pierre (Stone Cat) comme prototype pour Maolimiao, en lui donnant une image accessible avec des yeux ronds, un corps rond, une barbe et une couleur jaune vif. Les nouvelles officielles ont également rapporté que Maolimiao interagissait avec les citoyens lors d'élections locales pour obtenir leur soutien. Il n'est donc pas seulement le personnage conçu par la préfecture, mais aussi un objet de vote auquel la communauté participe localement. [^11]
 
-L'industrie japonaise des mascottes, confrontée à une saturation extrême, a vu émerger le « Grand Éliminateur de Mascottes », où seuls les personnages dotés de points mémorables marquants ont survécu[^4]. Taïwan fait face à un défi similaire : de nombreuses institutions publiques investissent des budgets consacrés dans des conceptions ponctuelles, sans stratégie de marque à long terme.
+![Mascotte Miaolimiao du comté de Miaoli à la gare TAIWAN High Speed Rail Miaoli](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Miaolimiao_at_THSR_Miaoli_Station.jpg/960px-Miaolimiao_at_THSR_Miaoli_Station.jpg)
 
-« Pour qu'une mascotte réussisse, l'essentiel n'est pas la mignonnité, mais l'« authenticité ». » souligne Lin Chengyi (林承毅), designer de services. Une mascotte devrait être un élément d'identification essentiel de la marque, et non un simple outil de communication[^4].
+_La mascotte Miaolimiao du comté de Miaoli, située dans le hall de la gare TAIWAN High Speed Rail Miaoli. Photo : Foxy1219 ; CC BY-SA 4.0._[^12]
 
-Les futures mascottes taïwanaises n'auront peut-être pas besoin de davantage d'ours noirs, mais plutôt de davantage de personnages comme le « Canard Caichy » ou « Pigeon Pabo », capables de faire sourire les passants lors d'une rencontre fortuite et de leur donner envie de dire à leurs amis : « Hé, regarde celui-là : il est tellement taïwanais ! »
+Le design de Maolimiao superpose trois significations : l'association phonétique du nom ancien de Miaoli, l'écologie locale du tigre de pierre et l'espace public fréquenté par les voyageurs comme la gare TAIWAN High Speed Rail. Contrairement à Xiongzan, il ne prend pas pour point de départ un grand événement international. Il ressemble davantage à un guide local qui lie le nom du comté, l'animal et les itinéraires touristiques. [^11] [^12]
 
----
+Le jeu de mots ici n'est pas une simple blague. Lorsque « Maoli » devient « Maolimiao », le nom du comté est transformé en un personnage capable de saluer, d'exprimer des émotions et de participer à un vote. Le tigre de pierre relie également le nom du lieu à la conservation écologique, maintenant un lien traçable entre l'identification touristique et l'environnement local. [^11]
 
-## Pour aller plus loin
+## Mascottes scolaires : transformer le blason en personnage
 
-- **[Émissions de variétés taïwanaises](/culture/台灣綜藝節目)** — Conception des personnages et mécanismes d'interaction avec le public dans l'industrie du divertissement
-- **[Mèmes taïwanais](/fr/culture/taiwan-meme-culture)** — Comment les jeux de mots, le mignon laid et le charme contrasté se propagent sur Internet à Taïwan
-- **[Pxmart](/fr/economy/pxmart-supermarket)** — Stratégie de marque et gestion de propriété intellectuelle derrière Fulibear
-- **[Ours noir taïwanais](/fr/nature/taiwanese-black-bear)** — Le prototype biologique et les enjeux de conservation en tant que totem culturel
+Tiger Duck, de l'Université des Sciences et Technologies de Taïwan (National Taiwan University of Science and Technology), est composé de Benjamin (Taurusaka) et Rossie (Duck). L'université explique que le nom provient de la clé à molette et du boulon du blason, représentant l'esprit pratique. Tiger Duck est également censé augmenter la reconnaissance de l'école et rapprocher l'établissement des citoyens. [^13]
+
+![Mascotte scolaire de l'Université des Sciences et Technologies de Taïwan, Tiger Duck](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg/960px-%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E5%A4%A7_%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+
+_Image de la mascotte scolaire de l'Université des Sciences et Technologies de Taïwan. Photo : Taiming2003 ; CC BY-SA 4.0._[^14]
+
+La mission d'un personnage scolaire n'est pas exactement celle d'un personnage urbain. Il n'a pas besoin de représenter tout Taïwan, ni de transformer chaque visiteur en touriste. Sa première tâche est de fournir aux étudiants, anciens élèves et membres du personnel une image commune plus parlante, photographiable et participative au-delà du blason. La clé à molette et le boulon transformés en tigre et canard sont un exemple de traduction du langage institutionnel dans le quotidien scolaire. [^13]
+
+Tiger Duck gère également un problème spécifique et quelque peu embarrassant : la confusion entre l'Université des Sciences et Technologies de Taïwan et l'Université des Sciences et Technologies de Taipei, l'université ayant même utilisé « Nous sommes sur la rue Keelung » dans le contenu d'un autocollant. La mascotte ne se contente donc pas de construire une image ; elle fournit un point commun pour les adresses scolaires, les surnoms en ligne et la vie scolaire. [^13]
+
+## Le personnage n'est pas seulement dans son costume
+
+Les mascottes quittent également le costume pour apparaître sur les escaliers des écoles, dans les halls de gare, les vitrines de magasins et sur les murs de quartier. L'escalier 3D peint par Jianzhong Xiao à Miaoli, en collaboration avec Wei Rongxin et Xiao Zhang, représente le tigre de pierre, la gare de Shangxing, le pont Longteng Duan, et le Darma en bois. Ce n'est pas une poupée officielle unique, mais cela montre comment les personnages locaux et les symboles des sites entrent dans l'espace public, permettant aux gens de traverser un récit local avec leur corps. [^15]
+
+![Escalier 3D de Jianzhong Xiao à Miaoli avec le personnage du tigre de pierre](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg/500px-%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E9%9A%8E%E6%A2%AF.jpg)
+
+_L'escalier 3D de Jianzhong Xiao à Miaoli, représentant le tigre de pierre, la gare de Shangxing, le pont Longteng Duan et le Darma en bois. Photo : Paddy.hsiao ; CC BY 4.0. C'est un exemple d'art public local et de symbole de personnage, ne doit pas être confondu avec une mascotte officielle de l'école._[^15]
+
+Par conséquent, juger si un personnage local est réussi ne peut pas se limiter à savoir s'il a une poupée. Il faut aussi demander s'il peut devenir un itinéraire, un point photo, une entrée scolaire ou un code visuel qui incite les gens à s'arrêter pour comprendre le lieu. Un personnage dans l'espace public n'a pas nécessairement une personnalité complète, mais il doit être lié à une expérience locale que l'on peut parcourir. [^15]
+
+## Au-delà du logo de l'équipe nationale : Timon TYMON
+
+Timon TYMON est la mascotte des équipes nationales de football (représentant Taïwan sous le nom de Taipei chinois). Par rapport aux mascottes scolaires ou de transport, les mascottes d'équipes nationales gèrent la mobilisation des fans, l'ambiance du match et la cohésion émotionnelle de l'équipe. Elle n'a pas besoin d'expliquer toutes les règles du football, mais elle doit offrir un point d'entrée plus expressif que le logo lors des apparitions des joueurs, des photos avec les fans et des produits dérivés. [^16]
+
+![Mascotte nationale de football de Taïwan, Timon TYMON](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TYMON.jpg/500px-TYMON.jpg)
+
+_La mascotte nationale de toutes les équipes nationales de football de Taïwan, Timon TYMON. Photo : Dai Yuliang ; CC BY-SA 4.0._[^16]
+
+On peut voir à travers Timon que les mascottes ne sont pas réservées uniquement aux gouvernements locaux. Lorsqu'une équipe veut transformer la « représentation » en quelque chose d'accessible sur le terrain, le personnage ajoute des mouvements, une forme et une possibilité d'interaction au logo. Son cycle de vie peut également évoluer avec l'équipe et la communauté des fans ; il doit donc apparaître régulièrement dans les vrais matchs, et ne pas seulement rester un élément graphique. [^16]
+
+Cependant, les données disponibles permettent principalement de confirmer le statut du personnage et les droits d'image ; nous n'étendons pas ici à la naissance complète, au concepteur, au concept du personnage ou aux performances opérationnelles. Cette retenue n'est pas une lacune des données, mais une manière d'éviter de déformer une simple photo en un ensemble officiel inexistant. [^16]
+
+## Le point de bascule de l'IP du personnage : du motif à la vie quotidienne
+
+Les mascottes d'entreprise illustrent le mieux ce point de bascule. Selon _The World Economic Journal_, Open disposait, durant son apogée, d'une équipe marketing dédiée aux personnages, organisant des boutiques thématiques, des collaborations cinématographiques et musicales, des voitures spéciales et des centres d'exposition en partenariat, atteignant un pic commercial avec 1 milliard de dollars de revenus pour 7-Eleven en 2014. Le point ici n'est pas le chiffre d'affaires impressionnant, mais le fait que le personnage est devenu un actif de contenu nécessitant une planification, un développement et une maintenance à long terme. [^17]
+
+Le même article situe la naissance de Welfare Bear (Fuli Xiong) en 2014 et indique qu'il a accumulé des ventes grâce à l'échange de cadeaux, au packaging frais et aux produits d'alliance stratégique. L'article cite un opérateur disant que les ventes avec le changement d'emballage des fruits « ont également atteint 1 milliard ». Cette approche englobe différents produits et activités de vente ; elle ne peut pas être considérée comme uniquement des revenus de licence, ni comparée directement aux revenus de participation des mascottes publiques. [^17]
+
+Le véritable seuil du capital intellectuel d'entreprise est la capacité à maintenir la personnalité du personnage dans différents contextes. La boutique thématique est un espace, le produit en partenariat est un objet, la collaboration cinématographique et musicale est un contenu, et la voiture spéciale est un média mobile. Si ces arrangements ne laissent que le logo, le personnage redevient une marque. Ce n'est que lorsque chaque média fait reconnaître au lecteur « c'est le même personnage qui fait différentes choses » que l'IP prend vie. [^17]
+
+Les produits en collaboration entre Taiwan Post et Yimei ont intégré la mascotte postale Papo Pigeon dans les emballages, transformant le service postal d'une institution de service en un objet quotidien à collectionner, échanger et offrir. La signification culturelle de cette coopération réside au-delà du « facteur, boîte aux lettres, timbre », ajoutant une entrée de personnage expressif. [^18]
+
+| Personnage   | Signaux de gestion vérifiables                                                       | Ce qui ne peut pas être déduit directement                                                             |
+| :----------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
+| Open         | Équipe de personnages, boutiques thématiques, collaborations et centres d'exposition | Le revenu d'une activité unique est le droit de licence du personnage [^17]                            |
+| Welfare Bear | Échange de cadeaux, emballage frais, alliances stratégiques                          | Les 1 milliard mentionnés dans l'article équivalent au bénéfice net annuel [^17]                       |
+| Papo Pigeon  | Intégration dans les emballages postaux et alimentaires                              | Une collaboration unique signifie un succès de marque à long terme [^18]                               |
+| Caiqi Duck   | Activité de collecte liée aux 59 marchés publics                                     | Le nombre de participants équivaut nécessairement à la croissance du chiffre d'affaires du marché [^3] |
+| Tiger Duck   | Image du blason, identité scolaire et nom du personnage                              | Une photo scolaire suffit pour prouver la popularité du personnage [^13] [^14]                         |
+| Timon        | Équipe nationale, fans et événements de match                                        | L'exposition du personnage équivaut au résultat sportif de l'équipe [^16]                              |
+
+## Quand la mignonnerie ne suffit pas : Yu Tou Jun et Caiqi Duck
+
+L'agence de tourisme de Tainan a une description directe pour Yu Tou Jun : c'est un poisson-chat (milkfish) né dans les fermes côtières de Qiansping, avec le nom anglais Sababoy. Sa mission est de faire connaître Taïwan au monde entier. Le choix du « chef de poisson » plutôt que du corps complet a transformé le poisson-chat d'un ingrédient de table en un ambassadeur touristique qui voyage et présente la ville. [^19]
+
+La page officielle précise également que Yu Tou Jun montre une coupe transversale de son chef, se distinguant ainsi des mascottes uniquement axées sur la mignonnerie. Cette conception est proche de l'humour culinaire local : on vous fait d'abord penser qu'il est rond, mignon et amical, puis un dos légèrement étrange vous rappelle que ce poisson a ses origines. C'est une analyse éditoriale des données du personnage officiel, sans confondre l'humour avec la citation directe du concepteur. [^19]
+
+D'autres communiqués de presse de la ville de Tainan indiquent qu'en 2018, Yu Tou Jun a fait ses débuts lors d'une conférence de presse sur les produits de la mer à Qixu, et qu'il est apparu par la suite dans des échanges internationaux, des promotions touristiques, des stades et des salons. En 2023, la ville a organisé une exposition thématique intitulée « Le parc de jeux de Yu Tou Jun ». Ces contextes font de Yu Tou Jun non seulement un symbole alimentaire, mais aussi un ambassadeur touristique capable d'introduire le lieu. [^20]
+
+Caiqi Duck suit une autre voie. Un communiqué de presse de la ville de Tainan en 2024 indique que la mascotte du marché « Caiqi Duck » est devenue populaire, et qu'elle a lancé l'activité « Cai Shi Zai, Kuan Wu Zai Lan Bu Zhu Ni Ji Dian Ya ». Les citoyens peuvent visiter les 59 marchés publics pour réapprendre le marché en scannant des codes, en faisant des achats, en postant des photos et en échangeant des produits dérivés. [^3]
+
+La valeur de ce cas ne réside pas seulement dans le jeu de mots. Une fois intégrée au flux du marché, la mascotte devient une interface de guidage : elle indique où aller, quoi faire, et comment transformer un achat unique en une expérience partageable. Le « goût local » du personnage a donc des comportements observables, et pas seulement un slogan publicitaire. [^3]
+
+> 📝 **Note du curateur :** Yu Tou Jun transforme l'ingrédient en personnage, Caiqi Duck transforme le marché en mission ; lorsque la sensation locale prend corps, la mascotte vous indique où aller ensuite.
+
+## Le budget public donne aussi une note aux mascottes
+
+Lorsque les personnages d'entreprise ne se vendent pas bien, l'entreprise change de stratégie. Lorsque les personnages publics utilisent des fonds publics, le problème est plus complexe. En 2018, Xiongzan a coûté 1,13 million de dollars pour la modification du logo et du design, ce qui a suscité des questions de la part des élus au parlement. Ce litige ne concerne pas seulement l'apparence de l'ours, mais aussi si les institutions publiques expliquent clairement : pourquoi le changement, quel problème cela résout-il, et comment évaluer son efficacité après le changement. [^21]
+
+Par conséquent, pour évaluer une mascotte publique, il ne faut pas seulement regarder les revenus de licence ou les frais d'apparition uniques. Il faut au moins examiner trois aspects simultanément : si le personnage améliore la transmission de l'information, s'il facilite l'engagement des citoyens dans les activités urbaines, et si les coûts de conception et d'entretien peuvent être expliqués publiquement. Les chiffres de revenus peuvent donner des indices, mais ils ne peuvent pas représenter seuls l'efficacité culturelle. Ces trois aspects sont le cadre d'analyse proposé par cet article, et non un indicateur statistique officiel. [^3] [^21]
+
+Le même principe s'applique au capital intellectuel d'entreprise. Les revenus mentionnés dans l'article, les ventes de produits, le nombre d'échanges, le suivi sur les réseaux sociaux et la collaboration en licence répondent à des questions différentes. Leur addition ne donne pas automatiquement un « succès du personnage ». Le bénéfice commercial, le bénéfice public, la mémoire culturelle et la communication environnementale du personnage doivent être enregistrés séparément pour expliquer comment ils s'influencent mutuellement. [^5] [^17] [^18]
+
+## Réécrire la « mignonnerie » en une méthode
+
+De Datong Baby à Oh Bear, de Xiongzan à Kaohsiung MRT, Maolimiao, Tiger Duck, Timon, Yu Tou Jun et Caiqi Duck, le parcours commun des mascottes de Taïwan est la traduction d'une institution en langage humain. Datong Baby a donné aux entreprises un corps qu'on peut ramener chez soi. Oh Bear a donné un ton de personnage à une mission touristique. Kaohsiung MRT a intégré les mascottes dans le paysage des transports. Maolimiao a mis la conservation du tigre et le nom du comté dans la gare ; Tiger Duck a transformé le blason en partenaire scolaire ; Timon a rendu l'équipe nationale un objet avec lequel les fans peuvent se taper la main ; Yu Tou Jun a propulsé l'ingrédient local sur la scène touristique ; Caiqi Duck a transformé la visite du marché en un jeu urbain avec une mission. [^1] [^2] [^3] [^4] [^9] [^11] [^13] [^16] [^19]
+
+Ce chemin soulève également plusieurs questions pratiques. Le prototype est-il trop centré sur le grizzli ? Les revenus de licence, les ventes de produits et les bénéfices publics sont-ils mélangés dans un seul tableau ? Les fichiers graphiques, les œuvres photographiques et les produits dérivés des personnages officiels sont-ils clairement étiquetés en termes de limites de droits ? Si ces questions n'ont pas de réponse, même le personnage le plus mignon risque de rester une simple mise en scène éphémère. [^5] [^17] [^21]
+
+Les droits à l'image ne peuvent être ignorés par le mot « officiel ». Les images conservées sur Wikimedia Commons sont étiquetées avec les conditions CC BY, CC BY-SA ou d'utilisation des données ouvertes gouvernementales ; la licence des photos n'équivaut pas à une marque de personnage, un dessin officiel ou un produit dérivé qui peuvent être utilisés librement. L'article peut présenter le personnage, mais lors du dépôt ou de la reproduction, il faut vérifier point par point le photographe, les conditions de licence, la marque et l'annonce des données ouvertes gouvernementales. [^4] [^8] [^10] [^12] [^14] [^15] [^16]
+
+Pour le lecteur, lors de sa prochaine rencontre avec une mascotte dans la rue, il peut poser une question supplémentaire : qui représente-t-elle et quelle mission accomplit-elle ? Si la réponse renvoie à un marché, un aliment, une gare, une école, un événement sportif ou un souvenir de conservation, alors le personnage a une chance de vivre. C'est seulement alors que la mascotte n'est pas qu'une personne en costume, mais une manière pour Taïwan de se présenter au monde. [^3] [^4] [^5]
+
+## Lectures complémentaires
+
+- [**Mèmes de Taïwan**](/fr/culture/taiwan-meme-culture) — Comment le jeu de mots, la mignonnerie et le contraste circulent sur les réseaux sociaux
+- [**Welfare Center Chuanlin (Open)**](/fr/economy/pxmart-supermarket) — La gestion quotidienne du Welfare Bear et du capital intellectuel d'entreprise
+- [**Marché de Tainan**](/lifestyle/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%A0%B4) — Le marché, la nourriture et la vie urbaine liés à Caiqi Duck et Yeqi Duck
 
 ## Références
 
-[^1]: [L'ours ambassadeur du tourisme taïwanais — Bureau d'enquête du ministère de la Justice](https://www.mjib.gov.tw/FileUploads/eBooks/56089fdb1ae74777a1fec51b3e709ffe/Section_file/b264b7d3783b41c6967752c57c1d35a9.pdf) — Livre électronique du Bureau d'enquête du ministère de la Justice, présentant le contexte de la naissance d'OhBear en 2013
+[^1]: [Datong Company : Datong Baby](https://www.tatung.com/tw/info/about-mascot) — Voir les informations complémentaires du texte original
 
-[^2]: [Étude des symboles et traces de transplantation à travers l'image du « mannequin d'entreprise » : le cas du Tongda Baby — Zheng Xiuru](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%91%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — Article académique explorant la signification symbolique de la naissance du Tongda Baby en 1969 en tant que mascotte d'entreprise
+[^2]: [Agence de Promotion du Tourisme : À propos d'Oh Bear](https://www.taiwan.net.tw/m1.aspx?sno=0040078) — Voir les informations complémentaires du texte original
 
-[^3]: [Témoigner de l'histoire et revisiter les moments importants de Taïwan : la première année du baseball professionnel en 1990 — United Daily News](https://udn70.udn.com/story/1990) — Chronique de l'inauguration de la première année du baseball professionnel taïwanais en 1990, avec l'apparition des mascottes des quatre équipes
+[^3]: [Ville de Tainan : Cai Shi Zai, Kuan Wu Zai Lan Bu Zhu Ni Ji Dian Ya](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8704341) — Voir les informations complémentaires du texte original
 
-[^4]: [La science du succès des mascottes (II) : la fascination taïwanaise pour l'« ours noir » — The News Lens](https://www.thenewslens.com/article/80404) — Point de vue du designer de services Lin Chengyi, analysant le phénomène de saturation des mascottes d'ours noir et la crise d'identité de marque
+[^4]: [Wikimedia Commons : Caiqi Duck Tshài-tshī-á.jpg](https://commons.wikimedia.org/wiki/File:%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg) — Voir les informations complémentaires du texte original
 
-[^5]: [L'homme qui a créé Open-Chan et Fulibear : le génie du marketing Liu Hongzheng révèle les 4 étapes du succès d'une PI — CommonWealth Magazine](https://www.cw.com.tw/article/5137665) — Entretien avec Liu Hongzheng : revenus annuels d'Open-Chan dépassant le milliard de TWD à l'apogée, méthodologie de construction d'un univers narratif de PI
+[^5]: [Parc National de Yushan : Informations sur le grizzli asiatique](https://www.ysnp.gov.tw/En/StaticPage/ScienceEn) — Voir les informations complémentaires du texte original
 
-[^6]: [Le père de Fulibear dévoile les secrets de la PI : contribution annuelle d'environ 200 à 300 millions de TWD — Yahoo News](https://tw.news.yahoo.com/%E5%85%A8%E8%81%AF-%E6%94%AF%E6%8F%B4%E6%94%B6%E9%8A%80-%E6%93%816-2%E8%90%AC%E4%BA%BA%E8%B7%A8%E5%B9%B4%E8%81%B2%E5%8B%A2-%E7%A6%8F%E5%88%A9%E7%86%8A%E3%80%81Open%E5%B0%87%E7%88%B6%E8%A7%A3%E5%AF%86IP%E7%A7%98%E8%A8%A3-064125739.html) — Fulibear contribuant annuellement pour environ 200 à 300 millions de TWD au chiffre d'affaires de Pxmart
+[^6]: [Parc National de Yushan : Registre des espèces sauvages protégées](https://www.ysnp.gov.tw/StaticPage/Directory) — Voir les informations complémentaires du texte original
 
-[^7]: [Bravo apparaît au conseil municipal après chirurgie esthétique : un conseiller ironise : « Comment as-tu pu devenir si laid ? » — Liberty Times](https://news.ltn.com.tw/news/politics/breakingnews/2411188) — Audition au conseil municipal concernant la « chirurgie esthétique » de Bravo pour 1,13 million de TWD
+[^7]: [Étude sur Datong Baby : Étude des symboles et traces d'移植 à partir de l'image de personnage d'entreprise](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%91%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — Voir les informations complémentaires du texte original
 
-[^8]: [Double controverse de relooking : 20 conseillers municipaux de Taipei soutiennent conjointement le Golden Medal Bravo — NTD Television](https://www.ntdtv.com.tw/b5/20180503/video/220628.html) — 20 conseillers municipaux de Taipei s'opposant conjointement au relooking de Bravo
+[^8]: [Wikimedia Commons : Bravo and visitors in Yangmingshan National Park](https://commons.wikimedia.org/wiki/File:Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg) — Voir les informations complémentaires du texte original
 
-[^9]: [Bravo rapporte 360 000 TWD par an et devient un investissement déficitaire ? Le Bureau du tourisme de Taipei évalue la non-perception de droits de licence — LINE TODAY](https://today.line.me/tw/v3/article/60W8k1a) — Controverse entre les revenus annuels de Bravo (360 000 TWD) et son budget marketing de plus de 10 millions de TWD
+[^9]: [Kaohsiung MRT : Happy et U!FU font campagne dans les stations de tramway léger](https://www.krtc.com.tw/Information/news_more?id=b696995bfaf9465fbe63a8e2e048d9bb) — Voir les informations complémentaires du texte original
 
-[^10]: [Les dépenses de marketing de Bravo ont atteint près de 16 millions de TWD en trois ans — Facebook de Xu Xiaoqin](https://www.facebook.com/HsuChiaoHsin/posts/2107418992692689/) — La conseillère Xu Xiaoqin révélant que les dépenses de marketing de Bravo sur trois ans ont atteint près de 16 millions de TWD
+[^10]: [Wikimedia Commons : Mascotte Kaohsiung MRT IMG 0907.jpg](https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg) — Voir les informations complémentaires du texte original
 
-[^11]: [Le « directeur de l'accueil » du Red House de Ximending, « Hongfu », dévoilé pour la première fois — Yahoo Finance](https://tw.stock.yahoo.com/news/%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E6%8E%A5%E5%BE%85%E9%83%A8%E9%95%B7-%E7%B4%85%E7%A6%8F-%E9%A6%96%E5%BA%A6%E4%BA%AE%E7%9B%B8-%E6%94%9C%E6%89%8B%E5%B7%A5%E8%97%9D%E4%B8%AD%E5%BF%83%E5%B1%95%E9%96%80%E6%B0%B8%E7%BA%8C%E8%A1%8C%E5%8B%95-064125170.html) — Reportage sur la première apparition de « Hongfu » du Red House de Ximending en 2024
+[^11]: [Gouvernement du comté de Miaoli : Remerciements aux citoyens pour le soutien à Maolimiao](https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=196769) — Voir les informations complémentaires du texte original
 
-[^12]: [Pourquoi avoir choisi un renard comme mascotte ? L'origine remonte au sanctuaire Inari de Taipei — M1DOKU](https://m1doku.com/theredhouseesg/) — Explication de l'inspiration de la conception de Hongfu, issue du sanctuaire Inari de Taipei durant la période de domination japonaise
+[^12]: [Wikimedia Commons : Miaolimiao at THSR Miaoli Station](https://commons.wikimedia.org/wiki/File:Miaolimiao_at_THSR_Miaoli_Station.jpg) — Voir les informations complémentaires du texte original
 
-[^13]: [Le personnage original du Red House de Ximending, « Hongfu », fait son apparition — Tanukii_don X](https://x.com/Tanukii_don/status/1820409634022437272) — Détails de la conception de Hongfu (bande décorative du Red House, motifs en pierre lavée rouge et blanc)
+[^13]: [Université des Sciences et Technologies de Taïwan : Tiger Duck ! L'université a créé sa mascotte scolaire dédiée](https://www.ntust.edu.tw/p/404-1000-54016.php?Lang=zh-tw) — Voir les informations complémentaires du texte original
 
-[^14]: [L'origine du Gamin du lait de mer ! Le laid est-il intentionnel ? — Interview de rue de Hahatai](https://www.youtube.com/watch?v=Qx6zPGaiNSo) — Le créateur du Gamin du lait de mer explique dans une interview YouTube de rue que « le laid est intentionnel »
+[^14]: [Wikimedia Commons : Zeng Taiming Mascotte Université des Sciences et Technologies de Taïwan](https://commons.wikimedia.org/wiki/File:%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg) — Voir les informations complémentaires du texte original
 
-[^15]: [Les « 9 mascottes les plus laides » de Taïwan font rire les internautes — Up Media](https://www.upmedia.mg/tw/focus/comprehensive/171257) — Liste des 9 mascottes les plus laides de Taïwan, incluant la Perle Enfant de Penghu, la Coque fraîche de Chengqian, etc.
+[^15]: [Wikimedia Commons : Escalier 3D de Jianzhong Xiao à Miaoli](https://commons.wikimedia.org/wiki/File:%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg) — Voir les informations complémentaires du texte original
 
-[^16]: [Qui est SABABOY ? Révélant l'identité réelle de la mascotte virale de Tainan et de divers experts — Uptogo](https://uptogo.com.tw/%E5%A8%9B%E6%A8%82/%E5%90%8D%E4%BA%BA/%E9%AD%9A%E9%A0%AD%E6%98%AF%E8%AA%B0%EF%BC%9F/) — Présentation de l'identité du créateur de SABABOY, Chen Yuren (Marco)
+[^16]: [Wikimedia Commons : TYMON.jpg](https://commons.wikimedia.org/wiki/File:TYMON.jpg) — Voir les informations complémentaires du texte original
 
-[^17]: [C'est viral ! La vue en coupe « bizarre » de SABABOY de Tainan attire 5 millions de consultations japonaises — Yahoo News](https://tw.news.yahoo.com/%E7%B4%85%E4%BA%86-%E5%8F%B0%E5%8D%97-%E9%AD%9A%E9%A0%AD%E5%90%9B-%E7%8D%B5%E5%A5%87%E5%89%96%E9%9D%A2%E5%9C%96-%E5%90%B8500%E8%90%AC%E6%97%A5%E4%BA%BA%E6%9C%9D%E8%81%96-072400851.html) — Un utilisateur japonais partageant la vue en coupe de SABABOY sur X, attirant plus de 5 millions de consultations
+[^17]: [The World Economic Journal : L'homme qui a créé Open et Welfare Bear](https://www.cw.com.tw/article/5137665) — Voir les informations complémentaires du texte original
 
-[^18]: [Pigeon Pabo est Poissons ! Il déteste qu'on le trouve gros — Facebook des Postes chinoises](https://www.facebook.com/shenhuihung/posts/771283382300866/) — Publication Facebook des Postes chinoises : Pigeon Pabo est Poissons et « déteste qu'on le trouve gros »
+[^18]: [Taiwan Post : Boîte cadeau de collaboration postale 130e anniversaire](https://www.post.gov.tw/post/internet/Group/index.jsp?ID=150101&news_no=73607&news_cat=11&group_name=&control_type=page) — Voir les informations complémentaires du texte original
 
-[^19]: [Pigeon Pabo semble avoir une certaine sensibilité sur ce sujet — Threads](https://www.threads.com/@chanskym/post/DHfJdXVSv2J/) — Discussion complémentaire d'un utilisateur de Threads sur Pigeon Pabo
+[^19]: [Agence de tourisme de Tainan : Zone d'introduction de Yu Tou Jun](https://www.twtainan.net/zh-tw/event/newsdetail/4155/) — Voir les informations complémentaires du texte original
 
-[^20]: [La boîte-cadeau « mini-choux » mignonne des Postes devient virale ! Vendue en 10 minutes — MSN](https://www.msn.com/zh-tw/news/other/%E9%83%B5%E5%B1%80%E8%90%8C%E7%B3%BB%E5%B0%8F%E6%B3%A1%E8%8A%99%E7%A6%AE%E7%9B%92%E7%88%86%E7%B4%85-%E8%A9%90%E9%A8%99%E8%B6%81%E7%86%B1%E4%B8%8A%E7%B7%9A-%E4%B8%AD%E8%8F%AF%E9%83%B5%E6%94%BF%E6%80%A5%E7%A4%BA%E8%AD%A6/ar-AA20dW8Y) — La boîte-cadeau « Pigeon Pabo × Yilan Stamp » vendue en 10 minutes
+[^20]: [Ville de Tainan : 5e anniversaire de Yu Tou Jun, « Le parc de jeux de Yu Tou Jun »](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8603620) — Voir les informations complémentaires du texte original
 
-[^21]: [Controverse de plagiat de la mascotte du Musée national de littérature taïwanaise — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%96%87%E5%AD%B8%E9%A4%A8%E5%90%89%E7%A5%A5%E7%89%A9%E6%8A%84%E8%A5%B2%E4%BA%8B%E4%BB%B6) — Article Wikipédia : controverse de plagiat de la mascotte « Along » du Musée national de littérature taïwanaise (mai 2024)
-
-[^22]: [L'affaire de plagiat d'« Along » du Musée national de littérature taïwanaise : le parquet de Taipei ne poursuit pas le dessinateur chinois — Yahoo News](https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E5%8F%B0%E6%96%87%E9%A4%A8-%E9%98%BF%E9%BE%8D-%E6%8A%84%E8%A5%B2%E4%BA%8B%E4%BB%B6%E5%8C%97%E6%AA%A2%E4%B8%8D%E8%B5%B7%E8%A8%B4-%E4%B8%AD%E5%9C%8B%E7%B9%AA%E5%B8%AB-223507967.html) — Suite de l'affaire de plagiat d'« Along » : le parquet de Taipei ne poursuit pas le dessinateur chinois
-
-[^23]: [Impossible de se passer des jeux de mots ! Le « Canard Caichy » de Tainan devient viral et attire des milliers de pèlerins — Yahoo News](https://tw.news.yahoo.com/%E4%B8%8D%E8%83%BD%E6%B2%92%E6%9C%89%E8%AB%A7%E9%9F%B3%E5%93%8F-%E5%8F%B0%E5%8D%97-%E8%8F%9C%E5%A5%87%E9%B4%A8-%E6%9A%B4%E7%B4%85%E5%BC%95%E8%90%AC%E4%BA%BA%E6%9C%9D%E8%81%96-055730860.html) — Reportage sur le jeu de mots du « Canard Caichy » et la viralité de la mascotte des marchés de Tainan
-
-[^24]: [Les jeux de mots n'ont pas de limites ! La mascotte de marché « Canard Caichy » devient virale — SET News](https://www.setn.com/News.aspx?NewsID=1536731) — Reportage de SET News sur le phénomène de diffusion du « Canard Caichy » sur les réseaux sociaux
-
-[^25]: [La adorable mascotte de Tainan, le « Canard Caichy », contribue à la modernisation touristique des marchés — Threads](https://www.threads.com/@loveagrogirl/post/DVgePDBksKJ/) — Publication Threads : le tourisme des marchés de Tainan et l'effet « Canard Caichy »
+[^21]: [Liberty Times : Xiongzan coûte 1,13 million de dollars pour la modification de modèle](https://news.ltn.com.tw/news/politics/breakingnews/2412456) — Article du Liberty Times

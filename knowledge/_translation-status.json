@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T09:08:30+08:00",
-    "zhCommitHead": "1e47caab5",
+    "lastUpdated": "2026-09-09T09:53:57+08:00",
+    "zhCommitHead": "9e1988362",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 785,
+        "fresh": 786,
         "stale": 83,
-        "metadata_stale": 27,
+        "metadata_stale": 26,
         "missing": 226,
         "orphan": 0
       },
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 558,
+        "fresh": 560,
         "stale": 50,
-        "metadata_stale": 12,
-        "missing": 501,
+        "metadata_stale": 11,
+        "missing": 500,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 639,
-        "stale": 41,
+        "fresh": 641,
+        "stale": 40,
         "metadata_stale": 11,
-        "missing": 430,
+        "missing": 429,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 703,
+        "fresh": 704,
         "stale": 49,
         "metadata_stale": 15,
-        "missing": 354,
+        "missing": 353,
         "orphan": 0
       },
       "ru": {
@@ -2196,7 +2196,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/contemporary-indigenous-singer-songwriters.md",
+          "translatedFrom": "Music/當代原住民創作歌手.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:5f5c57d9d0a5af84",
+          "sourceBodyHash": "sha256:6ab99bf50b216a39",
+          "translatedAt": "2026-09-08T15:54:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/contemporary-indigenous-singer-songwriters.md",
@@ -3922,18 +3933,16 @@
         "id": {
           "path": "id/Music/chthonic.md",
           "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fae",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translatedAt": "2026-09-08T15:54:46+08:00",
           "translationLastCommit": "3d3b12ab",
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/chthonic.md",
@@ -39050,8 +39059,8 @@
           "sourceContentHash": "sha256:cfeed87bcc86a207",
           "sourceBodyHash": "sha256:761ccd3c7cd0d390",
           "translatedAt": "2026-09-08T15:54:39+08:00",
-          "translationLastCommit": "75479a4e",
-          "translationLastModified": "2026-08-14T10:41:04+08:00",
+          "translationLastCommit": "fb8d74d0",
+          "translationLastModified": "2026-09-09T09:08:30+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -39435,7 +39444,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:692645244e391abd",
+          "sourceBodyHash": "sha256:28f054608fa81e22",
+          "translatedAt": "2026-09-08T15:54:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/tra-mingri-express.md",
@@ -87980,16 +88000,16 @@
         "hi": {
           "path": "hi/People/yang-chuan-kwang-asian-iron-man.md",
           "translatedFrom": "People/楊傳廣.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:f8a43ac4f3c5c945",
-          "sourceBodyHash": "sha256:564dbfac81e16aa7",
-          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "sourceCommitSha": "8d0c4a70d",
+          "sourceContentHash": "sha256:3f102f565e503ad8",
+          "sourceBodyHash": "sha256:b14c332dbd93a4eb",
+          "translatedAt": "2026-09-09T01:45:33.772515+00:00",
           "translationLastCommit": "a2c4bc7c",
           "translationLastModified": "2026-08-04T11:12:31+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (6→5)"
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/yang-chuan-kwang-asian-iron-man.md",
@@ -92122,7 +92142,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/hung-chieh-ni.md",
+          "translatedFrom": "People/洪婕倪.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8351d05a79dba790",
+          "sourceBodyHash": "sha256:f76990887dfd2b78",
+          "translatedAt": "2026-09-08T15:54:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/hung-chieh-ni.md",
@@ -102527,8 +102558,8 @@
           "sourceContentHash": "sha256:be170ef9f4f5cc61",
           "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
           "translatedAt": "2026-09-08T15:54:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fb8d74d0",
+          "translationLastModified": "2026-09-09T09:08:30+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -117562,18 +117593,16 @@
         "fr": {
           "path": "fr/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "21298a7a",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:065bf6354c8e6e97",
           "sourceBodyHash": "sha256:c6f4891abde841e9",
-          "translatedAt": "2026-05-16T05:07:56+08:00",
+          "translatedAt": "2026-09-08T15:54:42+08:00",
           "translationLastCommit": "e137dda5",
           "translationLastModified": "2026-07-31T00:55:37+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/military-dependents-village-cuisine.md",
@@ -132519,8 +132548,8 @@
           "sourceContentHash": "sha256:309501697091bfd3",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-08T15:54:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fb8d74d0",
+          "translationLastModified": "2026-09-09T09:08:30+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",

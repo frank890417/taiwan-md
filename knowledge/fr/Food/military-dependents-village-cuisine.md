@@ -1,122 +1,121 @@
 ---
-title: 'La cuisine des villages de militaires à Taïwan'
-description: '« Les saveurs provinciales apportées par la Grande Migration de 1949, des cuisines derrière les clôtures de bambou à la préservation gustative après la démolition des villages militaires »'
+title: "La cuisine des quartiers d'officiers taïwanais"
+description: "Les saveurs de la grande migration de 1949, des cuisines à l'intérieur des clôtures de bambou aux saveurs préservées après l'expansion urbaine"
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '族群飲食'
 tags:
   [
-    'cuisine des villages militaires',
-    'cuisine des provinciaux',
-    'soupe de nouilles au bœuf',
-    'Grande Migration',
-    'clôture de bambou',
+    "cuisine des quartiers d'officiers",
+    'cuisine chinoise extérieure',
+    'nouilles à la soupe au bœuf',
+    'grande migration',
+    'clôtures de bambou',
   ]
-readingTime: 8
+subcategory: '族群飲食'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+readingTime: 8
+imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:065bf6354c8e6e97'
 sourceBodyHash: 'sha256:c6f4891abde841e9'
-translatedAt: '2026-05-16T05:07:56+08:00'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_pancake_2013.JPG/960px-Spring_onion_pancake_2013.JPG'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedAt: '2026-09-08T15:54:42+08:00'
 ---
 
-# La cuisine des villages de militaires à Taïwan
+# La cuisine des quartiers d'officiers taïwanais
 
-> **En 30 secondes :** La Grande Migration de 1949 a amené environ 1,2 million de militaires et de civils à Taïwan. Leurs saveurs régionales ont pris racine dans les villages militaires (眷村, _juancun_) délimités par des clôtures de bambou. Les galettes à la ciboule du Shandong, la pâte de fèves fermentées du Sichuan, les raviolis vapeur du Jiangnan-Zhejiang, les légumes salés du Hunan — les cuisines de toutes les provinces se sont heurtées et fondues au sein d'une même communauté, créant une nouvelle saveur que seule la culture culinaire taïwanaise peut revendiquer.
+> **Résumé en 30 secondes :** La grande migration de 1949 a apporté environ 1,2 million de militaires et de civils, dont les saveurs locales ont pris racine dans les quartiers d'officiers entourés de clôtures de bambou. Les crêpes aux oignons du Shandong, la pâte de soja du Sichuan, les petites bouilles du Jiangsu, le kimchi du Hunan — toutes ces cuisines provenant de différentes provinces se sont croisées et fusionnées au sein d'une même communauté, créant des saveurs nouvelles qui ne peuvent être attribuées à une seule province dans la culture culinaire taïwanaise.
 
-La Grande Migration de 1949 n'a pas seulement transformé le paysage politique de Taïwan ; elle a aussi insufflé dans la culture alimentaire les saveurs régionales de toutes les provinces chinoises. Un million de militaires et de civils ont reconstruit leur vie dans les villages de Taïwan. Dans le petit monde clos par des clôtures de bambou, les galettes du Shandong, le piment du Sichuan, la douceur du Jiangnan-Zhejiang, les légumes salés du Hunan — les cuisines provinciales se sont frottées, fondues et transformées dans un espace limité, formant une culture culinaire des villages militaires qu'aucune province ne peut à elle seule revendiquer.[^1]
+La grande migration de 1949 n'a pas seulement changé la configuration politique de Taïwan, mais a également injecté des saveurs locales provenant de toutes les provinces de Chine dans la culture alimentaire. Un million de militaires et de civils ont reconstruit leur vie dans les quartiers d'officiers de Taïwan, où, entourés de clôtures de bambou, les grands gâteaux du Shandong, les piments du Sichuan, les saveurs sucrées du Jiangnan, les plats salés du Hunan se sont heurtés, fusionnés et évolués, formant une culture alimentaire des quartiers d'officiers qui ne peut être attribuée à une seule province. [^1]
 
-## La Grande Migration gustative de 1949
+## La migration gustative de 1949
 
-En 1949, avec le gouvernement nationaliste s'installant à Taïwan, on estime qu'environ 1,2 million de militaires et de civils sont arrivés de Chine continentale (les démographes débordent encore sur ce chiffre). Ces personnes venaient des quatre coins du pays, avec des accents, des coutumes différents, et surtout des souvenirs gustatifs de leur région d'origine qu'ils avaient le plus de mal à abandonner.
+En 1949, avec le départ du gouvernement nationaliste, environ 1,2 million de militaires et de civils sont arrivés à Taïwan depuis la Chine continentale (les spécialistes des statistiques démographiques ont des estimations variables sur ce chiffre). Ces personnes, venues de tous les horizons, portaient des accents différents, des coutumes variées, et surtout, des souvenirs gustatifs de leurs régions natales qu'elles ne pouvaient laisser derrière elles.
 
-En ces temps troublés, le goût de la terre natale devenait une consolation pour l'âme. Les Shandongais regrettaient la ciboule trempée dans la sauce de leur région, les Sichuanais la viande revenue au piment, les habitants du Jiangnan le poulet blanc tranché. Ces souvenirs gustatifs se sont recomposés sur une terre étrangère, formant une culture alimentaire particulière des villages militaires.
+À cette époque troublante, les saveurs du pays d'origine devenaient un réconfort pour l'esprit. Les gens du Shandong manquaient le piquant à la sauce d'oignon, les gens du Sichuan manquaient la saveur épicée du pork belly, les gens du Jiangnan manquaient le poulet blanc léger. Ces souvenirs gustatifs, réunis dans un sol étranger, se sont recomposés pour former une culture alimentaire spécifique aux quartiers d'officiers.
 
-Les provinciaux nouvellement arrivés faisaient face à des difficultés linguistiques et économiques. Dans les cuisines modestes des villages, ils recréaient les saveurs de leur région avec des ingrédients limités. En raison de la pénurie, les ingrédients d'origine étaient remplacés par des substituts abordables, et les méthodes de cuisson étaient adaptées aux conditions locales, créant involontairement de nombreuses variations culinaires nouvelles.
+Les nouveaux arrivants, confrontés à des difficultés linguistiques et économiques, ont tenté de recréer les saveurs de leur terre natale dans des cuisines simples des quartiers d'officiers. En raison du manque de ressources, les ingrédients traditionnels ont été remplacés par des alternatives moins coûteuses, et les méthodes de cuisson ont été adaptées localement, créant ainsi de nombreuses variations nouvelles sans le vouloir.
 
-## Des deux côtés de la clôture de bambou : perspectives croisées entre communautés
+## À côté des clôtures de bambou : chevauchement des perspectives ethniques
 
-L'histoire de la cuisine des villages militaires ne peut se raconter uniquement du point de vue des provinciaux. Après 1949, les relations entre Taïwanais de souche et provinciaux étaient tendues : les blessures du 228 n'étaient pas cicatrisées, les barrières linguistiques, les différences de répartition des ressources et les conflits de modes de vie créaient des fossés. Pourtant, la nourriture était souvent la première chose à franchir les frontières.[^2]
+L'histoire de la cuisine des quartiers d'officiers ne peut pas être racontée uniquement du point de vue des migrants. Après 1949, les relations entre les résidents locaux et les migrants étaient tendues : les cicatrices de l'événement des 228 n'étaient pas encore guerrries, les barrières linguistiques, les différences économiques et les conflits de coutumes de vie créaient des distances. Cependant, la nourriture est souvent le premier élément à traverser ces frontières. [^2]
 
-Les mères des villages apportaient des raviolis à leurs voisins taïwanais de souche, les fermiers locaux partageaient des ananas avec les villages militaires — la faim quotidienne et la générosité adoucissaient en silence la distance des deux côtés de la clôture. Les femmes taïwanaises apportaient leur connaissance des ingrédients locaux (où trouver les feuilles de patate douce les plus tendres, quel poisson acheter à quelle saison), tandis que les mères provinciales transmettaient les techniques de pâtisserie et les secrets d'assaisonnement de chaque province. Cette diplomatie des cuisines est à la racine de la nature bidirectionnelle de la cuisine des villages militaires.
+Les mamans des quartiers d'officiers apportaient des dumplings pour rendre visite aux voisins locaux, tandis que les agriculteurs locaux partageaient leurs ananas avec les résidents des quartiers d'officiers. La faim et la générosité quotidiennes ont doucement adouci les distances entre les deux côtés des clôtures. Les femmes locales ont apporté des connaissances sur les ingrédients locaux (quelle est la plus tendre des feuilles d'igname, quel poisson acheter à quelle saison), tandis que les mamans migrantes ont transmis des techniques de pâtes et des secrets d'épices de différentes provinces. Cette diplomatie culinaire est à l'origine de la double direction du flux de la cuisine des quartiers d'officiers.
 
-La « taïwanisation » de cette cuisine est en grande partie le fruit de ces échanges réciproques. La galette à la ciboule a pris le parfum du basilic taïwanais (_jiu ceng ta_, 九層塔), le porc braisé a intégré la sauce soja pâteuse propre à Taïwan — les cuisines provinciales, sous l'influence des ingrédients locaux, ont pris un visage impossible à reproduire dans les régions d'origine.
+La « taïwanisation » de la cuisine des quartiers d'officiers est en grande partie le fruit de cet échange bilatéral. La pâte des crêpes aux oignons porte désormais l'arôme du basilic taïwanais, la viande braisée a intégré la sauce soja typique de Taïwan, et les cuisines de différentes provinces, sous l'influence des ingrédients taïwanais, ont pris une forme qui ne peut être reproduite dans leur terre natale.
 
-## La sagesse culinaire derrière la clôture de bambou
+## La sagesse culinaire à l'intérieur des clôtures de bambou
 
-L'espace de vie dans les villages militaires était restreint : plusieurs personnes s'entassaient dans des logements d'une dizaine de mètres carrés, et la cuisine ne disposait souvent que d'un seul réchaud. Dans ces conditions limitées, les mères des villages ont développé des méthodes de cuisson uniques.
+L'espace de vie dans les quartiers d'officiers était très restreint, une famille de plusieurs générations s'entassait dans une pièce d'une dizaine de carrés de pieds, et la cuisine ne comportait souvent qu'un seul réchaud. Dans ces conditions limitées, les mamans des quartiers d'officiers ont développé des méthodes de cuisson uniques.
 
-« Tout dans une seule marmite » était le principe fondamental de la cuisine des villages. Avec un seul réchaud, tous les plats devaient être préparés dans la même casserole, ou cuits successivement en utilisant la chaleur résiduelle. Cette contrainte a stimulé la créativité : de nombreux plats classiques des villages militaires sont nés dans ces conditions. L'attitude de ne rien gaspiller était également centrale : les os servaient à faire du bouillon, les feuilles à sauter les légumes, le riz restant à préparer du riz frit — cette frugalité a engendré de nombreux plats qui, aujourd'hui, semblent pleins d'ingéniosité.
+« Tout cuire dans une marmite » est le principe fondamental de la cuisine des quartiers d'officiers. En raison de la présence d'un seul réchaud, tous les plats devaient être cuits dans la même marmite, ou cuisinés successivement en utilisant la chaleur résiduelle. Ces contraintes ont stimulé la créativité, et de nombreux plats classiques des quartiers d'officiers sont nés dans ces conditions. L'attitude de « ne rien gaspiller » est également centrale : les os doivent être faits bouillir pour le bouillon, les feuilles de légumes doivent être sautées, les restes de riz doivent être transformés en riz sauté, et cette économie a donné naissance à de nombreuses recettes ingénieuses.
 
-L'« entraide entre voisins » était une autre caractéristique de la cuisine des villages. La grande sœur du Shandong partageait sa recette de galette à la ciboule, la tante du Sichuan transmettait le secret de la viande revenue — dans la petite communauté délimitée par la clôture de bambou, les techniques culinaires de chaque province se mélangeaient naturellement.
+« L'entraide entre voisins » est une autre particularité de la cuisine des quartiers d'officiers. La voisine du Shandong partageait sa recette de crêpes aux oignons, la voisine du Sichuan transmettait le secret de son pork belly, et dans les petites communautés entourées de clôtures de bambou, les techniques culinaires de différentes provinces s'échangeaient naturellement et se mélangeaient.
 
-## L'origine villageoise de la soupe de nouilles au bœuf braisé : Gangshan à Kaohsiung et la pâte de fèves Mingde
+## L'origine des quartiers d'officiers des nouilles à la soupe au bœuf : l'air station de Gangshan à Kaohsiung et la pâte de soja de Mingde
 
-Lorsqu'on parle de la cuisine des villages militaires, on ne peut passer sous silence la [soupe de nouilles au bœuf](/fr/food/beef-noodle-soup/). Bien que ce plat soit désormais considéré comme un plat national taïwanais, son origine remonte effectivement à la culture des villages militaires, et plus précisément au **village militaire de l'armée de l'air de Gangshan à Kaohsiung dans les années 1950**.[^7]
+En parlant de la cuisine des quartiers d'officiers, on ne peut pas omettre les [nouilles à la soupe au bœuf](/fr/food/beef-noodle-soup/). Bien que les nouilles à la soupe au bœuf soient aujourd'hui considérées comme un plat national de Taïwan, leur origine remonte en fait à la culture des quartiers d'officiers, plus précisément aux **quartiers d'officiers de l'air à Gangshan à Kaohsiung dans les années 1950**. [^7]
 
-Le point de départ est le sergent de l'armée de l'air **Liu Mingde (劉明德)**. Arrivé à Taïwan avec l'armée en 1948, il est démobilisé en 1950 et s'installe dans le village de Gangshan. Pour gagner sa vie, il se souvient de l'art de la fabrication de la pâte de fèves fermentées appris pendant ses campagnes militaires et, avec ses maigres économies, achète des matières premières pour commencer à produire de la pâte de fèves fermentées pimentée et de la pâte sucrée dans le goût de sa région. La **« pâte de fèves Mingde » (明德豆瓣醬)** devient un condiment emblématique à l'intérieur et à l'extérieur du village de Gangshan, fournissant involontairement la base aromatique la plus cruciale de la soupe de nouilles au bœuf braisé au goût du Sichuan.[^6]
+L'histoire commence par l'officier de l'air **Liu Mingde**. Il est arrivé à Taïwan en 1948, a quitté l'armée en 1950, et s'est installé dans les quartiers d'officiers de Gangshan. Pour gagner sa vie, il s'est rappelé les techniques de fabrication de la pâte de soja apprises en marchant, a acheté des ingrédients avec ses dernières économies, et a commencé à produire de la pâte de soja épicée et de la sauce aux nouilles rappelant les saveurs de sa terre natale. **La pâte de soja de Mingde est devenue l'ingrédient emblématique des quartiers d'officiers de Gangshan et alentours, et a fourni la base aromatique essentielle pour les nouilles à la soupe au bœuf épicées de style sichuan**. [^6]
 
-Les militaires originaires du Sichuan et du Hunan, combinant la pâte de fèves Mingde de Gangshan avec le bœuf local et les techniques de nouilles de Taïwan, ont progressivement ajusté un plat nouveau, différent de la version originale du Sichuan mais portant une forte mémoire de la saveur sichuanaise. **Le plus ancien restaurant de soupe de nouilles au bœuf au goût du Sichuan documenté à Taïwan est le « Park Pig's Trotters Noodles / Beef Noodles » (公園豬腳麵／牛肉麵), ouvert à Gangshan, Kaohsiung, en 1962.** Cette date est postérieure de plus de dix ans à l'apparition de l'ingrédient de base (la pâte de fèves Mingde), ce qui correspond à la logique d'évolution « d'abord le condiment, puis les nouilles ».[^7]
+Les soldats originaires du Sichuan et du Hunan, combinant la pâte de soja de Mingde de Gangshan, la viande de bœuf locale de Taïwan et les techniques de pâtes, ont progressivement ajusté la recette pour créer un plat qui n'était pas identique aux saveurs sichuanes d'origine, mais qui portait une forte mémoire gustative sichuane. **Le plus ancien restaurant de nouilles à la soupe au bœuf épicées de style sichuan connu est le « Pied de cochon du parc / Nouilles à la soupe au bœuf » ouvert en 1962 à Gangshan à Kaohsiung**. Ce délai est postérieur de plus de dix ans à la création de l'ingrédient (la pâte de soja de Mingde), ce qui correspond à la logique évolutive de « d'abord l'ingrédient, ensuite le plat ». [^7]
 
-Le bouillon de la soupe de nouilles au bœuf des villages était riche, car la viande était précieuse. Les mères des villages faisaient mijoter les os de bœuf très longtemps, donnant au bouillon une texture gélatineuse et parfumée. Ce bouillon concentré augmentait non seulement la satiété, mais rendait aussi de simples nouilles savoureuses. De la cuisine familiale de Gangshan aux restaurants de soupe de nouilles au bœuf répartis dans tout Taïwan, la trajectoire de développement de ce plat témoigne de l'influence de la culture des villages militaires et montre que la « saveur sichuanaise taïwanaise » est en réalité un produit métissé _made in Taiwan_.
+Le bouillon des nouilles à la soupe au bœuf des quartiers d'officiers est riche et onctueux, car la viande est précieuse. Les mamans des quartiers d'officiers font bouillir les os de bœuf longtemps pour obtenir un bouillon riche en collagène et parfumé. Ce fond riche non seulement augmente la satiété, mais rend également les nouilles simples plus savoureuses. Du moment où cette recette est passée d'une cuisine familiale à Gangshan à la multiplication des restaurants de nouilles à la soupe au bœuf à travers Taïwan, témoignant de l'influence de la culture des quartiers d'officiers, et montrant que le « style sichuane taïwanais » est en réalité un produit métissé fait en Taïwan.
 
-## La fusion des cuisines provinciales
+## La fusion des cuisines de différentes provinces
 
-L'environnement particulier des villages militaires a favorisé une fusion culinaire sans précédent. Des familles de différentes provinces vivaient côte à côte, et les cultures alimentaires provinciales évoluaient naturellement au fil des échanges quotidiens.
+L'environnement particulier des quartiers d'officiers a favorisé une fusion culinaire sans précédent. Des familles venues de provinces différentes ont vécu côte à côte, et leurs cultures alimentaires se sont naturellement évoluées à travers des échanges quotidiens.
 
-La générosité de la cuisine du Shandong rencontrant la finesse de celle du Jiangnan-Zhejiang a produit de nouvelles variations. La galette à la ciboule des Shandongais a emprunté les techniques délicates du Jiangnan, tandis que les raviolis vapeur des Jiangnan ont absorbé le sens des portions des Shandongais. Le piquant du Sichuan et le relevé du Hunan ont aussi engendré de nouvelles combinaisons dans les villages : comme les assaisonnements authentiques du Sichuan n'étaient pas disponibles à Taïwan à l'époque, les cuisiniers ont créé des solutions de substitution avec les piments et épices locaux, formant involontairement une saveur unique de cuisine sichuanaise taïwanaise.
+La générosité des plats du Shandong a rencontré la finesse des plats du Jiangnan, créant de nouvelles variations. Les crêpes aux oignons des gens du Shandong ont emprunté des techniques délicates du Jiangnan, tandis que les petites bouilles des gens du Jiangnan ont intégré la générosité des portions du Shandong. Le piquant du Sichuan et le piquant du Hunan se sont également combinés dans les quartiers d'officiers, formant de nouvelles associations : en raison de l'absence de véritables épices sichuanes à l'époque, les cuisiniiers ont utilisé des piments et des épices locaux de Taïwan pour créer des alternatives, formant ainsi un style sichuane taïwanais unique.
 
-La légèreté de la cuisine cantonaise et la richesse de la cuisine du Nord ont également trouvé un point d'équilibre dans les villages. De nombreux plats des villages présentent une fusion Nord-Sud, conservant les saveurs de la région d'origine tout en s'adaptant au climat et aux ingrédients de Taïwan.
+La légèreté de la cuisine du Guangdong et la richesse de la cuisine du nord ont également trouvé un équilibre dans les quartiers d'officiers. De nombreux plats des quartiers d'officiers présentent une caractéristique de fusion nord-sud, conservant les saveurs originales tout en s'adaptant au climat et aux ingrédients de Taïwan.
 
-## Démolition des villages, préservation et parcs culturels des villages militaires
+## Les quartiers d'officiers, la préservation et les parcs à quartiers d'officiers
 
-En 1996, la _Loi sur la rénovation des anciens villages militaires de l'armée nationale_ (國軍老舊眷村改建條例) a été adoptée, et les terrains des villages ont progressivement été reconvertis en zones de réaménagement ou en logements sociaux, accélérant la disparition des bâtiments anciens.[^4] Cependant, certains villages ont été préservés grâce aux appels à la sauvegarde culturelle.
+En 1996, la « Loi sur la rénovation des anciens quartiers d'officiers militaires » a été adoptée, et les terrains des quartiers d'officiers ont progressivement été transformés en zones de réaménagement ou en terrains pour logements publics, et les bâtiments physiques des anciens quartiers d'officiers ont disparu rapidement. [^4] Cependant, certains quartiers d'officiers ont été conservés en raison des appels à la préservation culturelle.
 
-Le village Si-Si-Nan (四四南村) dans le district de Xinyi à Taipei est le cas de préservation de village le plus connu de Taïwan. Le complexe architectural d'origine a été transformé en musée de la culture des villages en 2003, devenant un lieu d'implantation pour des marques alimentaires comme « Good Cho's » (好丘), permettant à la cuisine des villages de se présenter dans un nouveau contexte. Taoyuan, qui compte le plus grand nombre de villages de tout Taïwan, abrite un musée de la culture des villages et organise un festival annuel de la culture des villages, formant un pôle de tourisme culturel centré sur la gastronomie.[^5] Près des anciens remparts de la dynastie Qing à Zuoying, Kaohsiung, plusieurs villages classés sont également préservés.
+Le quartier d'officiers de Sisiliu à Xinyi à Taipei est l'exemple le plus connu de conservation des quartiers d'officiers. L'ancien groupe de bâtiments a été transformé en musée culturel des quartiers d'officiers en 2003, devenant le lieu d'accueil de marques alimentaires telles que « Good Cho's », permettant à la cuisine des quartiers d'officiers de se présenter dans un nouveau contexte. Taoyuan, qui a le plus grand nombre de quartiers d'officiers à Taïwan, dispose d'un musée culturel des quartiers d'officiers et d'un festival culturel annuel des quartiers d'officiers, formant des points de tourisme culturel centrés sur la nourriture. [^5] Près de l'ancienne cité de l'époque Qing à Zuoying à Kaohsiung, plusieurs anciens quartiers d'officiers classés sont également conservés.
 
-Ces espaces de villages préservés donnent à la transmission de la cuisine des villages des repères physiques concrets et permettent aux générations suivantes de voir, au-delà du goût, la forme tangible de cette histoire migratoire.
+Ces espaces de quartiers d'officiers préservés ont fourni des repères physiques pour la transmission de la cuisine des quartiers d'officiers, et ont permis aux générations futures de voir concrètement la forme de cette histoire migratoire au-delà des saveurs.
 
-## Perspective double : point de vue taïwanais de souche et identité de la deuxième génération des villages
+## Deux perspectives : la perspective des résidents locaux et l'identité de la deuxième génération des quartiers d'officiers
 
-La cuisine des villages militaires a longtemps été racontée principalement comme « les mères provinciales transmettant les saveurs de leur région », mais ce n'est que la moitié de l'histoire. Du **point de vue des Taïwanais de souche**, les villages étaient des « nouveaux voisins étrangers » apparus à la fin de l'ère coloniale japonaise et après-guerre : les communautés rurales taïwanaises, qui parlaient le taïwanais, cultivaient la terre et vénéraient le Dieu de la Terre, ont soudain vu s'installer des familles militaires parlant le mandarin et cuisinant avec des épices étranges. La relation initiale n'était pas une harmonie idyllique — l'expropriation des terres, les barrières linguistiques et les écarts de classe politique créaient des tensions structurelles entre l'intérieur et l'extérieur des villages. L'acceptation progressive de la cuisine des villages par les Taïwanais de souche est le résultat de décennies de cohabitation.
+La cuisine des quartiers d'officiers a longtemps été racontée principalement comme « la transmission par les mamans migrantes de leurs saveurs locales », mais cela ne représente qu'une moitié de l'histoire. Du point de vue des **résidents locaux**, les quartiers d'officiers sont apparus après la fin de l'ère Qing comme des « nouveaux voisins étranges ». Les communautés rurales locales, qui parlaient le taiwanais, cultivaient et vénéraient les esprits locaux, ont soudainement vu des familles militaires arriver, parlant mandarin et cuisinant des plats épicés étranges. Les relations initiales n'étaient pas idylliques, et les expropriations de terres, les barrières linguistiques et les différences de statut politique ont créé des tensions structurelles entre l'intérieur et l'extérieur des quartiers d'officiers. Les résidents locaux ont progressivement accepté la cuisine des quartiers d'officiers après plusieurs décennies de coexistence, et c'est ainsi que la culture s'est progressivement diffusée.
 
-**L'évolution identitaire de la deuxième génération des villages** est également une dimension sous-estimée. La « première génération des villages », arrivée en 1949, vivait majoritairement dans l'esprit temporaire du « contre-attaque sur le continent », avec une nostalgie intense pour la cuisine des villages. Mais la deuxième génération, née après les années 1960, a grandi en parlant le mandarin, en mangeant la cuisine des villages taïwanaisée, et en grandissant avec des camarades taïwanais de souche — la binaire « provincial / taïwanais de souche » s'est progressivement assouplie. Après les années 1990, la troisième génération des villages s'identifie davantage comme « Taïwanaise », et la cuisine des villages n'est plus pour elles un vecteur de nostalgie : ces plats sont les saveurs de leur mémoire d'enfance. Ce glissement identitaire s'est produit en parallèle avec le processus global de localisation de Taïwan.
+**L'évolution de l'identité de la deuxième génération des quartiers d'officiers** est une dimension souvent sous-estimée. La première génération des quartiers d'officiers, arrivée en 1949, avait pour la plupart une attitude de « retour temporaire sur le continent », et étaient très attachés aux saveurs locales de leurs régions d'origine. Cependant, la deuxième génération des quartiers d'officiers, née après les années 1960, a grandi en parlant chinois, en mangeant la cuisine des quartiers d'officiers taïwanaise, et en grandissant avec des camarades locaux. La distinction binaire entre « migrants » et « résidents locaux » s'est progressivement assombrie. À partir des années 1990, la troisième génération des quartiers d'officiers s'identifie davantage à soi comme « Taïwanais », et pour eux, la cuisine des quartiers d'officiers n'est plus un support de nostalgie. Ces plats sont simplement les goûters de leur enfance. Ce glissement d'identité s'est produit en même temps que l'ensemble du processus de taiwanisation de Taïwan.
 
-Pour comprendre l'image complète de la cuisine des villages militaires, il faut voir simultanément **les trois strates narratives** — la nostalgie des militaires et civils installés à Taïwan, le processus d'acceptation par la société taïwanaise de souche, et l'assouplissement identitaire de la deuxième génération — plutôt qu'un unique paradigme de « saveur provinciale ».
+Comprendre pleinement l'image de la cuisine des quartiers d'officiers nécessite de voir simultanément **la nostalgie des migrants militaires, le processus d'acceptation par la société locale, et l'évolution de l'identité de la deuxième génération**, plutôt que d'adopter un modèle unidirectionnel de « saveurs migrantes ».
 
-## La transmission de la cuisine des villages aujourd'hui
+## La transmission de la cuisine des quartiers d'officiers moderne
 
-Aujourd'hui à Taïwan, les villages militaires ont largement disparu physiquement, mais l'influence de leur cuisine reste visible. De nombreux plats familiers des Taïwanais portent l'empreinte de la cuisine des villages. Ces préparations se sont intégrées dans la culture alimentaire taïwanaise, en devenant une partie indissociable.
+Aujourd'hui, dans la Taïwan moderne, les quartiers d'officiers ont disparu physiquement, mais leur influence culinaire persiste. Les plats quotidiens de nombreux Taïwanais portent le sillage des quartiers d'officiers. Ces recettes se sont intégrées à la culture alimentaire de Taïwan et sont devenues inseparables.
 
-Une nouvelle génération de chefs commence à réinterpréter la cuisine des villages, préservant les fondements traditionnels tout en utilisant des techniques et des ingrédients modernes. Plusieurs écrivains culinaires taïwanais ont aussi constitué des archives écrites de cette cuisine par leurs ouvrages — _Les saveurs de Taïwan_ (台灣味道) de Jiao Tong (焦桐, éd. Eryu, 2009) est l'une des œuvres fondatrices en la matière, permettant aux souvenirs gustatifs de survivre au-delà des recettes.[^3]
+Les nouveaux générations de cuisiniiers commencent à réinterpréter la cuisine des quartiers d'officiers, conservant la profondeur traditionnelle tout en utilisant des techniques et des ingrédients modernes. Plusieurs auteurs culinaires taïwanais ont également documenté la cuisine des quartiers d'officiers par l'écrit, et l'ouvrage représentatif précoce de Jiao Tong, _Saveurs de Taïwan_ (édité par Ershui en 2009), est l'un de ces exemples, permettant aux souvenirs gustatifs de transcender les recueils de recettes. [^3]
 
-## Crédits des images
+## Sources des images
 
-- Galette à la ciboule : Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+- Crêpes aux oignons : Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Références
 
-[^1]: [Centre de préservation de la culture des villages militaires — Ministère de la Défense](https://mvac.mnd.gov.tw/) — Contexte historique des villages militaires et données démographiques sur les migrants.
+[^1]: [Centre national de préservation culturelle des quartiers d'officiers militaires](https://mvac.mnd.gov.tw/) — contexte historique des quartiers d'officiers et données démographiques des migrants.
 
-[^2]: [Revue de Taïwan — « Transformation et préservation de la culture alimentaire des villages militaires »](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Vol. 71, n°4 (2020), échanges alimentaires entre Taïwanais de souche et provinciaux.
+[^2]: [Document taïwanais « Évolution et préservation de la culture alimentaire des quartiers d'officiers »](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — volume 71, numéro 4 (2020), échanges alimentaires entre résidents locaux et migrants.
 
-[^3]: [Jiao Tong, _Les saveurs de Taïwan_ — Éditions Eryu](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirmation de l'origine villageoise de la soupe de nouilles au bœuf et du processus de localisation de la cuisine du Sichuan.
+[^3]: [Jiao Tong, _Saveurs de Taïwan_ — Éditions Ershui](https://www.taaze.tw/usedBook.html?oid=11100873870) — confirmation de l'origine des quartiers d'officiers des nouilles à la soupe au bœuf et du processus de localisation du style sichuane.
 
-[^4]: [Base de données juridique nationale — Loi sur la rénovation des anciens villages militaires de l'armée nationale](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Confirmation de l'adoption en 1996, chronologie du réaménagement foncier et de la rénovation.
+[^4]: [Base de données juridique nationale : Loi sur la rénovation des anciens quartiers d'officiers militaires](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — confirmation de l'adoption en 1996, ordre des délais de réaménagement et de rénovation.
 
-[^5]: [Musée de la culture des villages de Taoyuan](https://www.taoyuan.gov.tw/) — Espaces de préservation des villages de Taoyuan et informations sur le festival annuel de la culture des villages.
+[^5]: [Musée culturel des quartiers d'officiers de Taoyuan](https://www.taoyuan.gov.tw/) — informations sur l'espace de préservation des quartiers d'officiers de Taoyuan et le festival culturel annuel.
 
-[^6]: [Liberty Times — « Tout est dans la sauce ! La raison du goût de la pâte de fèves de Gangshan »](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Chronologie complète de l'arrivée de Liu Mingde à Taïwan en 1948, sa démobilisation en 1950 et la production de la pâte de fèves Mingde dans le village de Gangshan.
+[^6]: [Liberté quotidienne : « En fait, c'est la sauce ! » La raison de la saveur délicieuse de la pâte de soja de Gangshan](https://news.ltn.com.tw/news/life/breakingnews/2269537) — contexte complet de Liu Mingde, arrivé en 1948, démissionné en 1950, puis a produit la pâte de soja de Mingde dans les quartiers d'officiers de Gangshan.
 
-[^7]: [Soupe de nouilles au bœuf — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Origine de la soupe de nouilles au taïwanaise dans le village militaire de l'armée de l'air de Gangshan, Kaohsiung, et première trace documentée du restaurant « Park Pig's Trotters Noodles / Beef Noodles » en 1962.
+[^7]: [Nouilles à la soupe au bœuf — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — les nouilles à la soupe au bœuf de Taïwan proviennent des quartiers d'officiers de l'air de Gangshan à Kaohsiung, le plus ancien restaurant connu étant le « Pied de cochon du parc / Nouilles à la soupe au bœuf » de 1962.
 
-## Pour aller plus loin
+## Lecture complémentaire
 
-- [Centre de préservation de la culture des villages militaires — Ministère de la Défense](https://mvac.mnd.gov.tw/) — Plateforme intégrée d'information sur la préservation des villages militaires à l'échelle nationale
-- [Banque nationale de la mémoire culturelle — Dossier sur les villages militaires](https://memory.culture.tw/) — Histoires orales et collections d'objets liés aux villages militaires
+- [Centre national de préservation culturelle des quartiers d'officiers militaires](https://mvac.mnd.gov.tw/) — plateforme intégrée d'informations de préservation des quartiers d'officiers à travers le pays
+- [Base nationale de mémoire culturelle — thème des quartiers d'officiers](https://memory.culture.tw/) — témoignages oraux et collections d'objets culturels des quartiers d'officiers
