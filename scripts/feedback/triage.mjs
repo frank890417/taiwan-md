@@ -133,6 +133,47 @@ export function formatForShow(row) {
   return `${'='.repeat(72)}\n${meta}\n${quote}\n  --- 回報全文 ---\n${row.body ?? ''}\n`;
 }
 
+/**
+ * 佇列空的那一輪,把「最近一筆回報是什麼時候」印成流程給的一行。
+ *
+ * `fetched 0` 同時是「讀者沒話說」跟「讀者送不進來」的長相,而整條線的閘門與對賬
+ * 全長在讀取端之後,沒有一道在問「該進來的有沒有進得來」(LESSONS
+ * `empty-intake-cannot-distinguish-quiet-from-broken`)。這一行不做判斷、不設閾值——
+ * 只把當班本來要手寫一段 Supabase 查詢才看得到的事實擺到報表上,跟 `--show` 當初
+ * 補的是同一種洞:必經的動作要有入口,不能靠當班自覺。
+ *
+ * 但書:任何 status 的新列都會排在這個排序最上面,所以它證明的是「讀取端沒在漏接」;
+ * 寫入端今天送一筆會不會成功,這一行看不到,那要從寫入端戳才知道。
+ */
+export function formatIntakeAge(latest, now = new Date()) {
+  if (latest === null)
+    return '[triage] 最近一筆回報：查不到（未對賬,不等於沒有）';
+  if (latest === undefined || !latest.created_at)
+    return '[triage] 最近一筆回報：這張表一筆都沒有';
+  const days = (now - new Date(latest.created_at)) / 86400000;
+  return `[triage] 最近一筆回報：${latest.created_at.slice(0, 10)}（距今 ${days.toFixed(1)} 天,status=${latest.status}）· 讀取端沒在漏接;寫入端是否通暢本行看不到`;
+}
+
+async function fetchLatestFeedback() {
+  loadEnvFile();
+  const url = process.env.SUPABASE_URL;
+  const key = process.env.SUPABASE_SERVICE_KEY;
+  if (!url || !key) return null;
+  try {
+    const endpoint = `${url}/rest/v1/feedback?select=id,created_at,status,type&order=created_at.desc&limit=1`;
+    const res = await fetch(endpoint, {
+      headers: { apikey: key, Authorization: `Bearer ${key}` },
+    });
+    if (!res.ok) return null;
+    const rows = await res.json();
+    // 抓不到回 null、真的空表回 undefined —— 兩種根因不共用一個長相
+    // (同 HG12c `fetchIssueComments()` 的紀律)。
+    return rows.length ? rows[0] : undefined;
+  } catch {
+    return null;
+  }
+}
+
 // ── data source ───────────────────────────────────────────────────────────────
 function loadEnvFile() {
   // 讀 ~/.taiwanmd-feedback.env（KEY=VALUE 一行一條）進 process.env(不覆蓋已存在)。
@@ -401,6 +442,8 @@ async function main() {
   } else {
     rows = await fetchNewFeedback(args.limit);
     console.log(`[triage] fetched ${rows.length} new feedback · mode=${mode}`);
+    if (rows.length === 0)
+      console.log(formatIntakeAge(await fetchLatestFeedback()));
   }
 
   // --show：唯讀印全文就收工。HG13 要求讀完內容才准動手,這是那道動作的入口;

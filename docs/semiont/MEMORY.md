@@ -344,3 +344,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-10 | 053747-twmd-routine-sync | 第 44 輪對賬 18/18 in-sync 零漂移；同一 dispatcher（PID 52743）續跑近 53h，本地 ahead51/behind86 首次真分岔非單純落後，判讀為預期副作用繞開不動 | 落後與分岔的安全繞開動作相同，但狀態不同，要靠工具輸出分辨不能預設一樣 | [→](memory/2026-09-10-053747-twmd-routine-sync.md) |
 | 2026-09-10 | 061907-twmd-data-refresh-am | Step 1 因 dispatcher ACTOR_BUSY 跳過，Step 2-14 全綠；Step 11 UTC/本地時區假警報連三天後 vc=3 真修，改用 UTC 對 UTC 比對 | 同一假警報現查兩次後第三次該真修，不是繼續繞開 | [→](memory/2026-09-10-061907-twmd-data-refresh-am.md) |
 | 2026-09-10 | 064000-twmd-spore-harvest-am | 0 OVERDUE 純發布空窗第三天；Browser pane 三度現查 #172/#175 metrics 與留言逐字比對前兩天全數不變，真 plateau；登入態與 2 則 Bucket D 續等哲宇 | 三次不同天一致的現查結果，才把「這是穩態」從單次猜測變成有證據強度的陳述 | [→](memory/2026-09-10-064000-twmd-spore-harvest-am.md) |
+| 2026-09-10 | 071109-twmd-feedback-triage | 第四輪零回報照樣跑完 --commit，兩道對賬 84/84 與 83/84 全綠；昨天寫下的修法今天落地：`fetched 0` 時加印最近一筆回報日期與距今天數，pipeline 升 v1.9 | 修法昨天寫好、今天甦醒讀到，仍是第二次手寫同一段查詢才動手 | [→](memory/2026-09-10-071109-twmd-feedback-triage.md) |

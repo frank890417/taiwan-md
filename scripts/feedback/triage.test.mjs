@@ -32,6 +32,7 @@ import {
   partitionExcluded,
   selectForShow,
   formatForShow,
+  formatIntakeAge,
 } from './triage.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -603,4 +604,34 @@ test('formatForShow: 全文一字不刪地印出來,含讀者選取的原文', (
   assert.match(out, /龍龍和大可愛從不曾是薩泰爾藝人/);
   assert.match(out, /薩泰爾旗下藝人/);
   assert.match(out, /milesism/);
+});
+
+test('formatIntakeAge: 佇列空時印出最近一筆的日期與距今天數', () => {
+  // 「0 筆新回報」單獨看時,讀者沒話說與讀者送不進來逐字相同
+  // (LESSONS `empty-intake-cannot-distinguish-quiet-from-broken`)。
+  const out = formatIntakeAge(
+    { created_at: '2026-09-05T01:55:05.382119+00:00', status: 'filed' },
+    new Date('2026-09-10T01:55:05Z'),
+  );
+  assert.match(out, /2026-09-05/);
+  assert.match(out, /5\.0 天/);
+  assert.match(out, /status=filed/);
+});
+
+test('formatIntakeAge: 抓不到跟空表不共用一個長相', () => {
+  // null = 查不到（未對賬）,undefined = 真的一筆都沒有。
+  // 同 HG12b unavailable / HG12c null 的紀律:不准把「沒查到」讀成「沒事」。
+  assert.match(formatIntakeAge(null), /查不到/);
+  assert.match(formatIntakeAge(null), /不等於沒有/);
+  assert.match(formatIntakeAge(undefined), /一筆都沒有/);
+});
+
+test('formatIntakeAge: 不替當班下判斷,只擺事實（不印警示號）', () => {
+  // 閾值判斷屬 threshold 調整,BECOME §行動鐵律 10 要 Full mode + 人類 gate,
+  // 本行刻意只給事實不給裁決。
+  const out = formatIntakeAge(
+    { created_at: '2026-01-01T00:00:00+00:00', status: 'filed' },
+    new Date('2026-09-10T00:00:00Z'),
+  );
+  assert.ok(!out.includes('\u26a0'));
 });

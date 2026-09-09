@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.8'
-last_updated: 2026-09-01
-last_session: '2026-09-01-twmd-feedback-triage（--whoami 的 repositories 行改印真實安裝範圍，不再把缺席印成 (all)）'
+current_version: 'v1.9'
+last_updated: 2026-09-10
+last_session: '2026-09-10-twmd-feedback-triage（佇列空的那一輪印出最近一筆回報的日期與距今天數，讓「沒人送」跟「送不進來」不再共用一個長相）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -133,6 +133,29 @@ Supabase REST 查詢即興補上（LESSONS `mandatory-read-step-has-no-tool`）�
 （per §自主權邊界「敏感素材決定 — AI 準備 blueprint，人類 final call」）。
 偵測器要不要長出來（判準校準屬高風險，BECOME §行動鐵律 10 強制 Full mode）仍在 OBSERVER-QUEUE #28。
 案例：[reports/feedback-third-party-allegation-hold-2026-08-14.md](../../reports/feedback-third-party-allegation-hold-2026-08-14.md)。
+
+### 佇列空的那一輪（2026-09-10 v1.9 新增）
+
+`fetched 0` 同時是「讀者沒話說」跟「讀者送不進來」兩種相反事實的長相，而這條線的閘門與對賬
+全部長在讀取端之後（HG12b 數該有幾份紀錄、HG12c 數該有幾則留言），沒有一道在問
+**該進來的有沒有進得來**（LESSONS `empty-intake-cannot-distinguish-quiet-from-broken`）。
+`fetched 0` 時 `triage.mjs` 現在自動多印一行：
+
+```
+[triage] 最近一筆回報：2026-09-05（距今 4.9 天,status=filed）· 讀取端沒在漏接;寫入端是否通暢本行看不到
+```
+
+任何 status 的新列都會排在那個排序最上面，所以這行證明的是**讀取端沒在漏接**。
+`formatIntakeAge()` 純函式 + 3 unit test，「查不到」跟「一筆都沒有」不共用一個長相
+（同 HG12b `unavailable` / HG12c `null` 的紀律）。
+
+**這行刻意不下判斷、不設閾值、不印 ⚠️**：閾值屬 threshold 調整，per BECOME §行動鐵律 10
+要 Full mode + 人類 gate。它只把當班本來要手寫一段 Supabase 查詢才看得到的事實擺上報表，
+跟 `--show` 補的是同一種洞——**必經的動作要有入口，不能靠當班自覺**。
+
+**它蓋不到的**：寫入端今天送一筆會不會成功。RLS 或匿名金鑰失效會長成一模一樣的樣子，
+要蓋掉只能從公開路徑戳一筆，那會在讀者可見的資料表與主權層 archive 留下假回報，代價未定，
+仍在 LESSONS 候選 (c)。
 
 env（`~/.taiwanmd-feedback.env`,**不在 repo**）：`SUPABASE_URL` + `SUPABASE_SERVICE_KEY`。
 
@@ -311,6 +334,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.9 | 2026-09-10 twmd-feedback-triage routine — **佇列空的那一輪印出最近一筆回報的日期**。`fetched 0` 是這條線每輪的第一行輸出，而它同時是「讀者沒話說」跟「讀者送不進來」的長相，處置完全相反（LESSONS `empty-intake-cannot-distinguish-quiet-from-broken`，[REFLEXES #38](../semiont/REFLEXES.md) 混維度在「零」這個數字上的形狀 / [#82](../semiont/REFLEXES.md) 拿讀取結果當投遞成功的替身）。9/09 那輪靠三個即興手寫的查詢才把兩種根因分開並記下修法，今天第四輪零回報、第二次要手寫同一段查詢時才落地——`deferred-fix-lands-on-recurrence-not-on-reading` 在同一條 routine 上的第三次現形（`--exclude` 8/15、`--show` 8/31、本行 9/10，三個都是絆到第二次才動手）。`formatIntakeAge()` 純函式 + 3 unit test，「查不到」回 `null`、真的空表回 `undefined`，兩者不共用長相。**刻意只給事實不給裁決**：閾值判斷（超過 N 天印 ⚠️）屬 threshold 調整，per BECOME §行動鐵律 10 要 Full mode + 人類 gate，留在 LESSONS 候選 (b)。寫入端探針（候選 c）會在主權層留下假回報，仍未做——所以這行證明的是讀取端沒在漏接，不是今天送得進來。_
 _v1.8 | 2026-09-01 twmd-feedback-triage routine — **`--whoami` 的 `repositories` 行改印真實安裝範圍**。HG11 的判讀掛在這行輸出上，而建 token 的回應平常不帶 `repositories` 欄位，舊版 `or "(all)"` 把這個缺席印成「覆蓋全部庫」——跟一個權限真的開到全部庫的 token 逐字相同，看到的人無從分辨是哪一種。實際安裝範圍是`frank890417/taiwan-md` 一個庫（`/installation/repositories` 回 `total_count: 1`），canonical 敘述一直是對的，說謊的是那行報表。修法：缺欄位時去問 `/installation/repositories` 這個權威來源（[REFLEXES #69](../semiont/REFLEXES.md) 外部尺），查不到印「查不到——不等於覆蓋全部庫」，不讓「沒查到」跟「範圍很大」共用同一個長相。誕生：8/30 這條 routine 自己的 cycle 記下這個對不上並寫進 handoff，連傳三個 cycle 沒人動手；今天在同一行輸出前第四次讀到它才收掉（LESSONS `deferred-fix-lands-on-recurrence-not-on-reading` 的同型再現）。_
 _v1.7 | 2026-08-31 twmd-feedback-triage routine — **`--show <id>`：HG13 那道必經動作終於有入口**。HG13 寫「當班要自己讀完內容再動手」，但整條線上沒有任何指令能讀到 body——dry-run 報表只印標題／類型／id，而被攔的那筆從未 filed，`docs/feedback/archive/` 裡也沒有它。十四輪下來每一輪都得自己 source 一次 `~/.taiwanmd-feedback.env`、手寫一段 Supabase REST 查詢，閘門的可靠度因此掛在「當班願不願意多做一件流程沒給的事」上，而它保護的是一名具名私人的姓名（8/30 已記成 LESSONS `mandatory-read-step-has-no-tool`，本輪同一筆第十四次出現時再次撞上，vc=2）。`selectForShow()` / `formatForShow()` 純函式 + 6 unit test，唯讀路徑放在所有副作用之前直接 return；打錯的 id 印 `⚠️ 根本沒查到這筆`，不讓「沒查到」跟「內容沒問題」共用同一個長相（REFLEXES #38 混維度）。這跟 8/15 的 `--exclude` 是同一條線的兩半：那個解「攔下來之後流程還跑不跑得完」，這個解「攔之前看不看得到」——兩個都是純操作面閘門，不碰判準、不對外開口，所以可以自己補。OBSERVER-QUEUE #28 的 (a) 偵測器與「要不要回覆這位回報者」仍 🔒 等哲宇。_
 _v1.6 | 2026-08-15 twmd-feedback-triage routine — **`--exclude <id>`：攔一筆不再需要整條停擺**。8/14 攔下的第三人指控那筆（`status` 維持 `new`）今天原樣再出現一次，而 `triage.mjs` 沒有單筆排除參數，「不開這個 issue」的唯一走法是整條 `--commit` 不跑——留言 sync 與兩道對賬跟著轉錄那半一起消失（LESSONS `zero-input-cycle-drops-the-reconciliation` 第 3 個 instance，vc=3）。8/14 當班用純函式手動補跑對賬，本次把它變成流程給的：`parseArgs` 收 `--exclude`（可重複／逗號串）、`partitionExcluded()` 純函式 + 5 unit test，排除與**打錯的 id** 都印在報表上（silent default = silent failure，REFLEXES #60）；`main()` 改成只有被當指令跑才執行，讓純函式可被 test import。這是 OBSERVER-QUEUE #28 三選項裡的 (b)——純操作面閘門，不碰判準；(a) 偵測器與「要不要回覆這位回報者」仍 🔒 等哲宇。_
