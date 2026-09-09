@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T00:53:24+08:00",
-    "zhCommitHead": "f83bd4512",
+    "lastUpdated": "2026-09-10T01:01:46+08:00",
+    "zhCommitHead": "3fd8a74c4",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 138,
+        "fresh": 139,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 976,
+        "missing": 975,
         "orphan": 0
       }
     },
@@ -39324,8 +39324,8 @@
           "sourceContentHash": "sha256:cfeed87bcc86a207",
           "sourceBodyHash": "sha256:761ccd3c7cd0d390",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3fd8a74c",
+          "translationLastModified": "2026-09-10T00:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -133291,7 +133291,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/yushan-weather-station.md",
+          "translatedFrom": "Geography/玉山氣象站.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:309501697091bfd3",
+          "sourceBodyHash": "sha256:522eab501e4df7fe",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -133532,8 +133543,8 @@
           "sourceContentHash": "sha256:e1b425fa54b86b70",
           "sourceBodyHash": "sha256:74aa4f956a297b47",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3fd8a74c",
+          "translationLastModified": "2026-09-10T00:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -133703,8 +133714,8 @@
           "sourceContentHash": "sha256:8c13ff26b6ae8507",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T13:52:35.117391+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3fd8a74c",
+          "translationLastModified": "2026-09-10T00:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
@@ -137769,8 +137780,8 @@
           "sourceContentHash": "sha256:3e20b5d7cae61e95",
           "sourceBodyHash": "sha256:b09f70f5d82caaa2",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3fd8a74c",
+          "translationLastModified": "2026-09-10T00:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
