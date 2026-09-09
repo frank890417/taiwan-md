@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T11:45:28+08:00",
-    "zhCommitHead": "8578c255b",
+    "lastUpdated": "2026-09-09T13:04:10+08:00",
+    "zhCommitHead": "757966d3f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 792,
-        "stale": 82,
+        "fresh": 793,
+        "stale": 81,
         "metadata_stale": 22,
         "missing": 225,
         "orphan": 0
@@ -52,50 +52,50 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 787,
+        "fresh": 788,
         "stale": 83,
-        "metadata_stale": 25,
+        "metadata_stale": 24,
         "missing": 226,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 651,
-        "stale": 87,
+        "fresh": 652,
+        "stale": 86,
         "metadata_stale": 80,
         "missing": 303,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 560,
+        "fresh": 562,
         "stale": 50,
         "metadata_stale": 11,
-        "missing": 500,
+        "missing": 498,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 775,
+        "fresh": 777,
         "stale": 70,
         "metadata_stale": 17,
-        "missing": 259,
+        "missing": 257,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 641,
-        "stale": 40,
+        "fresh": 642,
+        "stale": 39,
         "metadata_stale": 11,
         "missing": 429,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 705,
+        "fresh": 706,
         "stale": 48,
         "metadata_stale": 15,
-        "missing": 353,
+        "missing": 352,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 120,
+        "fresh": 121,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 993,
+        "missing": 992,
         "orphan": 0
       }
     },
@@ -2202,8 +2202,8 @@
           "sourceContentHash": "sha256:5f5c57d9d0a5af84",
           "sourceBodyHash": "sha256:6ab99bf50b216a39",
           "translatedAt": "2026-09-08T15:54:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "757966d3",
+          "translationLastModified": "2026-09-09T11:45:29+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -17370,16 +17370,16 @@
         "en": {
           "path": "en/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b344ec326785b46d",
-          "sourceBodyHash": "sha256:a5b8490e2fd9be42",
-          "translatedAt": "2026-05-24T05:06:32+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bbdb130f551a69e8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T03:46:12.894049+00:00",
           "translationLastCommit": "3d8d5e7e",
           "translationLastModified": "2026-05-24T08:42:27+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (55→0)"
+          "footnoteDefs": 55,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/threads-in-taiwan.md",
@@ -17440,16 +17440,16 @@
         "vi": {
           "path": "vi/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b344ec326785b46d",
-          "sourceBodyHash": "sha256:a5b8490e2fd9be42",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bbdb130f551a69e8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T03:46:17.427888+00:00",
           "translationLastCommit": "83909701",
           "translationLastModified": "2026-08-09T12:04:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (55→0)"
+          "footnoteDefs": 55,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/threads-in-taiwan.md",
@@ -39123,18 +39123,16 @@
         "hi": {
           "path": "hi/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "88b3abd88",
-          "sourceContentHash": "sha256:7453fc91529be112",
-          "sourceBodyHash": "sha256:0280d05fe808358b",
-          "translatedAt": "2026-07-29T02:35:15+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:cfeed87bcc86a207",
+          "sourceBodyHash": "sha256:761ccd3c7cd0d390",
+          "translatedAt": "2026-09-09T11:45:59+08:00",
           "translationLastCommit": "f5e46ef8",
           "translationLastModified": "2026-07-29T03:35:40+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+170 -91"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/mascot-culture-in-taiwan.md",
@@ -62413,7 +62411,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/the-ornithology-of-formosa.md",
+          "translatedFrom": "Nature/福爾摩沙鳥類學.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:d1293bcf641ce299",
+          "sourceBodyHash": "sha256:44c9000276437d2c",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -79224,7 +79233,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-09T11:45:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -88011,8 +88031,8 @@
           "sourceContentHash": "sha256:3f102f565e503ad8",
           "sourceBodyHash": "sha256:b14c332dbd93a4eb",
           "translatedAt": "2026-09-09T01:45:33.772515+00:00",
-          "translationLastCommit": "a2c4bc7c",
-          "translationLastModified": "2026-08-04T11:12:31+08:00",
+          "translationLastCommit": "757966d3",
+          "translationLastModified": "2026-09-09T11:45:29+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -97537,7 +97557,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tsai-pei-huo.md",
+          "translatedFrom": "People/蔡培火.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:834d66de28d359a5",
+          "sourceBodyHash": "sha256:45ab5eeee03419d3",
+          "translatedAt": "2026-09-09T11:46:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -108394,18 +108425,16 @@
         "fr": {
           "path": "fr/Food/taiwan-michelin-fine-dining.md",
           "translatedFrom": "Food/台灣米其林與精緻餐飲.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:5dc9bb02298749c4",
           "sourceBodyHash": "sha256:3ca2a02845451f2c",
-          "translatedAt": "2026-04-14T12:29:25+08:00",
+          "translatedAt": "2026-09-09T11:45:53+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-michelin-fine-dining.md",
@@ -122227,7 +122256,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/wu-feng-legend.md",
+          "translatedFrom": "History/吳鳳傳說.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d742f8951718669a",
+          "sourceBodyHash": "sha256:c8f9abbde98738f2",
+          "translatedAt": "2026-09-09T11:45:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/wu-feng-legend.md",
@@ -132569,7 +132609,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/yushan-weather-station.md",
+          "translatedFrom": "Geography/玉山氣象站.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:309501697091bfd3",
+          "sourceBodyHash": "sha256:522eab501e4df7fe",
+          "translatedAt": "2026-09-09T11:45:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/yushan-weather-station.md",
@@ -147631,7 +147682,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-panorama-magazine.md",
+          "translatedFrom": "Culture/光華雜誌.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:76f9feb9b62dd8a1",
+          "sourceBodyHash": "sha256:b0016f60e7fc31e0",
+          "translatedAt": "2026-09-09T11:45:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-panorama-magazine.md",
