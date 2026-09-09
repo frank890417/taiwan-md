@@ -1,180 +1,257 @@
 ---
-title: 'Biểu tượng hoạt hình: Từ tình yêu thịnh hành với nai đen đến cứu vãn nhờ ngôn ngữ đồng âm trong bối cảnh văn hóa'
-description: 'Năm 2013, "OhBear" ra đời khai sinh cuộc chiến thế giới các biểu tượng hoạt hình của Đài Loan. Từ những cuộc chiến nai đen lan tràn khắp quốc gia, những "đồ thị" như "Anh bé cá hồi" lên sàn phim humor Mỹ, đến gấu phúc lợi thu nhập hàng trăm triệu đô la và "Bear Bravo" thả thíết kế tại hội đồng thành phố Đài Bắc, các biểu tượng hoạt hình của Đài Loan đang trải qua quá trình chuyển mình từ công cụ quảng bá chính phủ thành những biểu tượng văn hóa gắn tâm linh và phản ánh tương lai xã hội.'
+title: 'Linh vật Đài Loan: Từ quà tặng của Đại Đồng đến nhân vật địa phương vươn ra toàn cầu'
+description: 'Từ Bào Bảo (Đại Đồng) năm 1969, Oh Bear và Xiongzan, đến Ga Tàu điện ngầm Cao Hùng, Maolihao, Tiger Duck, Timon và Caiqi Duck, các linh vật Đài Loan đã mang theo ký ức địa phương, bối cảnh giao thông, bản sắc trường học, cảm xúc bóng đá và IP doanh nghiệp; bài kiểm tra thực sự của một nhân vật là liệu nó có thể rời khỏi giá đỡ để bước vào cuộc sống con người hay không.'
 date: 2026-04-21
 category: 'Lifestyle'
 tags:
   [
-    'biểu tượng hoạt hình',
-    'nai đen Đài Loan',
-    'OhBear',
-    'xấu đáng yêu',
-    'Bó Bó Gấc',
-    'Duck Càu Chi',
-    'Gấu phúc lợi',
-    'Bear Bravo',
-    'Đỏ Phúc',
-    'hội đồng thành phố Đài Bắc',
+    'Linh vật',
+    'Oh Bear',
+    'Xiongzan',
+    'Caiqi Duck',
+    'Yeqi Duck',
+    'Ga Tàu điện ngầm Cao Hùng',
+    'Maolihao',
+    'Tiger Duck',
+    'Timon',
+    'Fish Head Boy',
   ]
 subcategory: '城市生活'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-04-21
+lastVerified: 2026-09-05
 lastHumanReview: false
-readingTime: 15
+readingTime: 18
+curation: 'incubating'
 translatedFrom: 'Lifestyle/吉祥物.md'
-sourceCommitSha: '88b3abd88'
-sourceContentHash: 'sha256:7453fc91529be112'
-sourceBodyHash: 'sha256:0280d05fe808358b'
-translatedAt: '2026-07-28T07:06:36+08:00'
+sourceCommitSha: '25b97c085'
+sourceContentHash: 'sha256:cfeed87bcc86a207'
+sourceBodyHash: 'sha256:761ccd3c7cd0d390'
+translatedAt: '2026-09-09T11:45:55+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Đài Loan từng trải qua giai đoạn "không có nai không được" với tình yêu thịnh hành tập thung, quốc gia này từng sở hữu số lượng lớn các nai đen giống nhau. Tuy nhiên, khi "Anh bé cá hồi" bị xấu đến xuất hiện trên phim humor Mỹ, "Bó Bó Gấc" của Bưu chính Trung Hoa tái lên với hình dáng mềm mại, và gấu phúc lợi có doanh thu hàng trăm triệu đô la, các biểu tượng hoạt hình của Đài Loan đang trải qua quá trình chuyển mình từ công cụ thân thiện thành thương hiệu cá nhân.
+> **Tóm tắt 30 giây:** Sự thay đổi của linh vật Đài Loan không chỉ là việc chuyển từ nghiêm túc sang dễ thương. Bào Bảo (Đại Đồng) năm 1969 đã biến một doanh nghiệp thành một nhân vật có thể được mang về nhà; sau năm 2013, Oh Bear, Xiongzan, Fish Head Boy, Maolihao, Tiger Duck, Timon và Caiqi Duck lại gắn kết du lịch, quản lý đô thị, giao thông, trường học, thể thao và ẩm thực địa phương trên cùng một trục. Bài kiểm tra thực sự là liệu nhân vật có thể rời khỏi giá đỡ để bước vào cuộc sống con người hay không; tức là từ việc "đại diện cho ai" tiến tới việc "hoàn thành nhiệm vụ gì cho ai".[^1] [^2] [^3]
 
-Vào ngày 3 tháng 12 năm 2013, một con nai đen với chiếc váy trắng hình chữ V trên ngực và chiếc khăn màu cam xuất hiện lạ thầm trong thế giới mạng. Hai tháng sau, con nai này chính thức được bổ nhiệm làm trưởng bộ phận "Super Task Force" của Bộ Du lịch và Thương mại Trung Hoa Dân Quốc (Đài Loan), được đặt tên là "OhBear" (OhBear)[^1]. Đây không chỉ là kỷ niệm việc một biểu tượng hoạt hình công quyền được bổ nhiệm, mà còn là dấu mốc chính thức cho thế kỷ mới của các biểu tượng hoạt hình của Đài Loan.
+Năm 1969, Công ty Đại Đồng giới thiệu Bào Bảo. Ngày 3 tháng 12 năm 2013, sticker Oh Bear của Cục Du lịch Bộ Giao thông vận tải được tung ra thị trường. Năm 2024, Thành phố Đài Nam đã sử dụng Caiqi Duck để kết nối 59 khu chợ bán lẻ công cộng. Ba năm, ba bối cảnh này đã phơi bày con đường của linh vật Đài Loan: từ quà tặng doanh nghiệp, tuyên truyền chính phủ, đến các nhân vật văn hóa có thể hướng dẫn địa phương, chào đón hệ thống giao thông, và đại diện cho trường học.[^1] [^2] [^3]
 
-### Sâu lịch sử: Từ "Bé trai đồng đều" đến năm năm đầu của bóng đá
+Lịch sử của linh vật cũng là lịch sử về việc "các tổ chức trừu tượng được nhân cách hóa". Các công ty, cơ quan du lịch, chính quyền thành phố, công ty tàu điện ngầm, trường học, đội tuyển bóng đá và chợ ban đầu đều nói bằng hệ thống, biểu tượng và văn bản hành chính. Nhân vật đã biến những tổ chức này thành các đối tượng có tên gọi, hành động, có thể được chụp ảnh và ghi nhớ. Sự chuyển dịch này không phải lúc nào cũng thành công, nhưng nó cung cấp một điểm vào để mọi người tiếp cận.[^1] [^2] [^4] [^8]
 
-Văn hóa biểu tượng hoạt hình của Đài Loan không bắt nguồn từ không. Vào năm 1969, Công ty Đồng đồng (Dongfang) để quảng bá các máy tính xanh, đã sinh ra biểu tượng hoạt hình đại diện nhất của lịch sử doanh nghiệp Đài Loan: "Bé trai đồng đều" (Big Brother)[^2]. Đối tượng nhỏ này với mũ bảo đầu, tay cầm bóng, không chỉ là biểu tượng nhận diện doanh nghiệp, mà còn trở thành biểu tượng của sự thịnh vượng gia đình thế kỷ 1970 của Đài Loan.
+![Caiqi Duck và Yeqi Duck, linh vật chính thức của chợ Thành phố Đài Nam](https://upload.wikimedia.org/wikipedia/commons/d/dd/%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg)
 
-Đến năm 1990, khi bóng đá quốc gia Đài Loan khai trương, bốn đội bóng Brother, Sanxia Leopard, United, và Chow Tai Seng đã xuất hiện cùng các biểu tượng hoạt hình của mình, khai sinh trường các biểu tượng hoạt hình thể thao[^3]. Tuy nhiên, các biểu tượng hoạt hình sớm thành kể cảnh "quà tặng" hay "tươi thêm", thiếu câu chuyện hoàn thiện và thế giới riêng.
+_Linh vật chính thức của chợ Thành phố Đài Nam: bên trái là Yeqi Duck, bên phải là Caiqi Duck. Ảnh: Yeh Minxuan/Văn phòng Tin tức và Quan hệ Quốc tế Thành phố Đài Nam; sử dụng theo thông báo công khai trang web Chính quyền Thành phố Đài Nam._[^4]
 
-### Không có nai không được: Tình yêu thịnh hành riêng của Đài Loan với nai đen
+## Bắt đầu với một chú gấu thật sự
 
-Nếu bạn không biết thiết kế gì cho biểu tượng hoạt hình, chọn nai đen chắc chắn không sai. Theo thống kê, các ngành nghề khác nhau của Đài Loan đã tạo ra số lượng lớn các con nai đen không có quan hệ huyết thống nhưng đồng thời tồn tại trên cùng một đất đất[^4]. Từ "Bear Bravo" của Hội đồng thành phố Đài Bắc, "Nai Đài" của Thành phố Kinh, "威熊" của Wei Aviation, đến "Nai Ka" của đêm thị trất Ninhphát, nai đen đã trở thành biểu tượng của tâm lý tập thể Đài Loan.
+Gấu đen Đài Loan là phân loài Gấu đen châu Á đặc hữu của Đài Loan, cũng là động vật hoang dã có nguy cơ tuyệt chủng được ghi trong tài liệu tiếng Anh của Vườn quốc gia Ngọc Sơn. Các vệt chữ V trên ngực dễ dàng nhận biết, vì vậy nó vừa là đối tượng bảo tồn vừa là một từ vựng thiết kế: các nhà thiết kế có thể mượn thân hình màu đen, đôi tai tròn và ngực chữ V để nhanh chóng gợi lên hình ảnh "Đài Loan".[^5]
 
-Tuy nhiên, "tình yêu thịnh hành tập thung" này cũng mang lại nguy cơ mất khả năng phân biệt. Vào năm 2016, trong cuộc thi "PK" các biểu tượng hoạt hình của toàn quốc, chỉ riêng Kinh đô đã ra mắt ba con nai khác nhau, khiến người dân hiện diện khó phân biệt giữa "Gao Gao Nai" và "Nai Kinh"[^4].
+Tài liệu của Vườn quốc gia Ngọc Sơn chỉ ra rằng Gấu đen Đài Loan có vết đốm chữ V hoặc hình trăng lưỡi liềm màu trắng vàng trên ngực. Sổ đăng ký động vật hoang dã thuộc danh mục bảo tồn chính thức cũng liệt kê Gấu đen Đài Loan là loài hoang dã được bảo vệ trên cạn. Những đặc điểm sinh học này giúp gấu có khả năng nhận diện thị giác cao, nhưng "dễ vẽ" và "đã giải thích rõ về việc bảo tồn" là hai vấn đề khác nhau.[^5] [^6]
 
-📝 Ghi chú của nhà bố trí: Khi mọi con nai đều trông giống "Nai Đài" nhau, chúng sẽ mất tính riêng biệt của thương hiệu, trở thành công cụ bán hàng một lần.
+Ở đây có một khoảng cách dễ bị bỏ qua. Gấu trong tự nhiên đối mặt với môi trường sống, xung đột người-thú và nguy cơ săn bắt. Còn gấu trong linh vật lại đối mặt với khả năng nhận diện, cấp phép, tham gia sự kiện và tương tác cộng đồng. Việc biến động vật thật thành nhân vật mang lại cảm giác gần gũi, nhưng cũng có thể làm phẳng vấn đề bảo tồn thành một biểu tượng dễ thương. Khi nhìn thấy hình ảnh Gấu đen, tốt nhất nên nhớ đến thân phận sinh học của nó, chứ không chỉ coi nó như một mẫu thiết kế.[^5] [^6]
 
-### Kỷ lục kinh doanh: "Gấu phúc lợi" với doanh thu hàng trăm triệu đô la và "Open Zhang"
+> 📝 **Ghi chú người biên tập:** Một con gấu thật sự không cần phải quản lý nhân vật mỗi ngày; nhưng một linh vật lại cần dựa vào nhân vật để khiến người ta muốn nhìn nó thêm một lần nữa. Điều khó hơn là, sau khi được nhìn thấy, hoàn cảnh thực tế của nguyên mẫu không thể biến mất.
 
-Khả năng "thu hút tiền" của biểu tượng hoạt hình là chỉ số cứng để đo lường giá trị thương hiệu. "Gấu phúc lợi" của Công ty Thương mại Tân Thịnh và "Open Zhang" của 7-Eleven, đều có sự hỗ trợ từ các nhà tiếp thị tài năng Liu Hongzheng[^5].
+## 1969: Đại Đồng biến doanh nghiệp thành con người
 
-"Open Zhang" trong thời đỉnh cao đã mang lại hơn 1 tỷ đô la doanh thu cho các cửa hàng của United, phạm vi cấp phép thậm chí bao gồm xe hơi thương hiệu riêng và công viên chủ đề[^5]. Còn "Gấu phúc lợi" thì thông qua bài hát "Gấu phúc lợi, phúc lợi gấu" và các chương trình khuyến nghị IP, hàng năm góp phần khoảng 2 đến 3 tỷ đô la doanh thu cho Tân Thịnh[^6].
+Điểm mấu chốt của Bào Bảo (Đại Đồng) không nằm ở thứ hạng dễ bị đơn giản hóa như "sớm nhất tại Đài Loan", mà là nó đã sớm biến nhận diện doanh nghiệp thành một vật thể có hình dáng, tư thế và có thể được sưu tầm. Nhân vật thế hệ đầu tiên ra mắt năm 1969, đội mũ bảo hiểm, ôm quả bóng bầu dục, trên người còn mang ký hiệu thương hiệu Đại Đồng. Nó đi vào gia đình như một món quà tặng, và thương hiệu không chỉ dừng lại ở vỏ thiết bị điện.[^1] [^7]
 
-Liu Hongzheng cho biết, chìa khóa để phát triển IP là xây dựng "thế giới". Ví dụ, gấu phúc lợi được thiết lập là bé trai tò mò, mơ ước trở thành nhân viên cửa hàng mẫu mún, kiểu máu lại giống với biểu tượng Logo của Tân Thịnh A loãng[^5].
+Tài liệu chính thức của Công ty Đại Đồng ghi rõ, kể từ năm 1969 (Minh Quốc thứ 58), khách hàng mua sản phẩm điện gia dụng của Đại Đồng với giá trên mười nghìn Đài tệ sẽ được tặng một Bào Bảo. Mũ bảo hiểm màu đỏ, quả bóng bầu dục và chất liệu nhựa không chỉ là lựa chọn thiết kế, mà còn gói gọn hình ảnh về sự hợp tác, độ bền và phục vụ khách hàng mà doanh nghiệp muốn truyền tải vào con búp bê.[^1]
 
-### Sống kéo dài trong chính phủ: "Bear Bravo" tại hội đồng thành phố
+Chi tiết này đã thay đổi khoảng cách giữa thương hiệu và con người. TV, tủ lạnh hay các thiết bị điện là sản phẩm gia đình đang sử dụng, còn Bào Bảo là vật thể mà gia đình có thể chơi đùa, trưng bày và lưu giữ. Nhận diện doanh nghiệp đã chuyển từ "nhìn thấy logo" thành "trong nhà có nó".[^1]
 
-Khi các biểu tượng hoạt hình vào bên trong chính phủ, chúng không còn đơn thuần là những con vật thân thiện, mà phải đối mặt với kiểm tra hiệu quả chi tiêu của ngân sách. "Bear Bravo" của Hội đồng Thành phố Đài Bắc chính là trường hợp tiêu biểu.
+Các con số trên ngực của Bào Bảo, lỗ tiền trên đầu, hai chân và việc ôm quả bóng bầu dục cũng được chính thức gán cho ý nghĩa nội bộ của doanh nghiệp: các con số trên ngực đại diện cho số năm thành lập Đại Đồng, lỗ tiền trên đầu liên kết với tinh thần tiết kiệm, hai chân tượng trưng cho sự vững chắc, còn quả bóng bầu dục tương ứng với hình ảnh làm việc tận tụy để phục vụ khách hàng. Những giải thích này chưa chắc đã phản ánh cảm nhận thực tế của mỗi người tiêu dùng, nhưng nó vẫn là bằng chứng về cách doanh nghiệp xây dựng tiểu sử cho nhân vật.[^1]
 
-Vào năm 2018, Bộ Thông tin và Truyền thông của Hội đồng Thành phố Đài Bắc đã chi 113 triệu đô la để chỉnh sửa "Bear Bravo vàng" thành "Bear Bravo biển", nhưng lại gây ra tranh cãi mạnh mẽ tại hội đồng. Các nghị sĩ cho rằng việc chỉnh sửa là "thói quen nghiền ngạt" của chính phủ, thậm chir còn chỉ trích: "Bạn làm sao đẹp đến vậy?"[^7][^8].
+Cách tiếp cận này sau đó được nhiều công ty và cơ quan công cộng áp dụng: giao phó một công ty, thành phố hay sự kiện trừu tượng cho một nhân vật có thể đứng ở cửa chào đón, xuất hiện trên nhãn dán và cũng có thể được trẻ em ôm đi. Do đó, linh vật mang hai thang thời gian: ngắn hạn tập trung vào sự kiện, dài hạn tích lũy cảm giác quen thuộc.[^1] [^7]
 
-Ngoài ra, ngân sách và doanh thu của Bear Bravo cũng thường là điểm nóng. Vào năm 2024, các nghị sĩ cho rằng Bear Bravo đề xuất hơn 11 triệu đô la cho chi tiêu quảng bá và nuôi dưỡng, nhưng hoa hồng và chi phí tham dự chỉ khoảng 40 nghìn đô la, bị xem là " hàng bán lẻ mất tiền"[^9][^10].
+> 📝 **Ghi chú người biên tập:** Cuộc cạnh tranh sớm nhất của linh vật doanh nghiệp không phải là ai dễ thương hơn, mà là ai giành được một vị trí nhỏ trong phòng khách trước.
 
-📝 Ghi chú của nhà bố trí: Bi kịch của các biểu tượng hoạt hình công quyền là khi chúng phải đấu tranh giữa "hình ảnh thành phố" và "hiệu quả ngân sách". Khi lương tháng của một biểu tượng hoạt hình (tính theo ngân sách) cao hơn lương của các cán bộ thành phố, sự thân thiện của nó sẽ trở thành " tội lỗi chính trị".
+## 2013–2017: Gấu đen rời khỏi thương hiệu, trở thành nhân vật đô thị
 
-### Đỏ Phúc: Người hướng dẫn của Kinh Đỏ, người bảo trễ kéo dài một thế kỷ
+Thiết lập của Oh Bear giống như một bài tập dịch ngôn ngữ công vụ sang ngôn ngữ nhân vật. Trang web chính thức của Cục Du lịch Bộ Giao thông vận tải mô tả nó là "trưởng nhóm nhiệm vụ siêu cấp", liệt kê quá trình ra mắt sticker vào ngày 3 tháng 12 năm 2013 và tuyên thệ nhậm chức vào ngày 3 tháng 6 năm 2014. Cổ chữ V màu trắng, chiếc áo choàng màu cam và dòng chữ của Cục Du lịch đã gắn nguyên mẫu Gấu đen Đài Loan với nhiệm vụ du lịch.[^2]
 
-So với áp lực chính trị của các biểu tượng hoạt hình công quyền, Kinh Đỏ thì thể hiện cách biến lịch sử thành tài sản văn hóa sinh động. Vào năm 2024, "Đỏ Phúc" lần đầu xuất hiện, là một con cáo đỏ với trang phục biểu tượng của Kinh Đỏ và ánh mắt sáng suốt[^11].
+Thiết lập nhân vật Oh Bear còn bao gồm sinh nhật, chức vụ, tính cách, trang phục và các hoạt động hàng ngày. Những tài liệu này thoạt nhìn có vẻ nhẹ nhàng, nhưng thực chất là biến cơ quan hành chính "Cục Du lịch" thành một nhân vật có thể nói bằng ngôi thứ nhất. Khi nội dung chính thức chuyển từ thuật ngữ chính sách sang giọng điệu "hôm nay tôi đi đâu", người đọc không chỉ tiếp nhận tên cơ quan mà còn là một hướng dẫn viên có lịch trình.[^2]
 
-thiết kế "Đỏ Phúc" không phải là sáng tạo từ không, bối cảnh sinh ra từ tượng đồng thời Kinh Đỏ gần "Đền Lúa Hạ" giai đoạn ngày xuân (hiện tại Kinh Đỏ)[^12]. Cáo được chuyển hóa thành "người hướng dẫn" của Kinh Đỏ. Trên thân thể của nó, chiếc váy trắng chữ Hán, chính là lời nhắc nhở về bề mặt đá tảo đỏ trắng của Kiến trúc Kinh Đỏ[^13].
+Con đường của Xiongzan gần với các sự kiện đô thị hơn. Tài liệu chính thức của Chính quyền Thành phố Đài Bắc ghi lại rằng Xiongzan đã đóng vai trò đại sứ quảng bá trong Thế vận hội Châu Á Đài Bắc năm 2017, và vẫn thu hút người hâm mộ cùng nhu cầu sản phẩm sau khi cuộc thi kết thúc. Ngày 20 tháng 9 năm 2017, Chính quyền Thành phố Đài Bắc chính thức mời Xiongzan làm linh vật của thành phố.[^3]
 
-📝 Ghi chú của nhà bố trí: Thành công của "Đỏ Phúc" nằm ở chỗ "nghiên cứu". Nó không chỉ là một con cáo, mà còn là người mang truyền thống kéo dài một thế kỷ của Kinh Đỏ. Thông qua thiết lập "chuyển giao" và "bền vững", nó đã thành công kết nối công trình lịch sử với nghệ thuật hiện đại.
+![Xiongzan và du khách tại Vườn quốc gia Dương Minh Sơn](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg/500px-Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg)
 
-### Yêu thích sự xấu đáng yêu: "Kẻ thị" của các điểm đến B cấp
+_Xiongzan và du khách tại Vườn quốc gia Dương Minh Sơn vào tháng 1 năm 2016, Thế vận hội Châu Á Đài Bắc 2017. Ảnh: Chi-Hung Lin/Flickr; CC BY-SA 2.0._[^8]
 
-Trong làn sóng chạy theo sự thân thiện, có một nhóm biểu tượng hoạt hình phản động, dựa trên sự kỳ lạc và "xấu đáng yêu" để chiếm lĩnh con đường khác. Trường hợp nổi bật nhất chính là "Anh bé cá hồi" của chợ Bắc Nga, Tainan, với mắt đen và nụ cười kỳ lạ được người dùng đánh giá là "cấp độ ám ảnh", thậm chir còn xuất hiện trên phim humor Mỹ[^14][^15].
+Bước ngoặt có tính câu chuyện nhất của Xiongzan là việc nộp đơn xin việc tại trung tâm dịch vụ việc làm ở Xin Nghi vào ngày hôm sau khi cuộc thi kết thúc. Đây không chỉ là việc vẽ gấu giống người hơn, mà còn đặt ra một vấn đề thực tế cho một sự kiện dùng một lần: Sau khi lễ bế mạc kết thúc, nhân vật có thể làm gì? Chính quyền thành phố sau đó đã trao huy chương vàng "TPE", sắp xếp văn phòng riêng, giúp Xiongzan chuyển từ vai trò nhân vật sự kiện sang hình ảnh công chúng của các hoạt động đô thị và du lịch.[^3]
 
-Quần Đảo Penghu lại là quê hương của các biểu tượng hoạt hình "xấu đáng yêu", từ "Cô bé hạt dẻ", "Móc biển trước chợ", đến "Clown Cá Zíp", những hình dáng như nhựa, kiểu con vật kỳ lạ dù ban đầu chịu phản biện mạnh mẽ, nhưng lại ngẫu nhiên kích thích sóng xuất hiện bằng chứng sống giác trải qua nhiều năm[^15].
+Điều này cũng cho thấy "có nhiều gấu" không nhất thiết đồng nghĩa với "thiết kế lười biếng". Các nguyên mẫu giống nhau có thể mang những nhiệm vụ khác nhau: Oh Bear bán tưởng tượng du lịch Đài Loan, còn Xiongzan tiếp nhận các hoạt động đô thị và hình ảnh công chúng; sự khác biệt giữa hai bên phải được tạo ra bằng câu chuyện, giọng điệu và bối cảnh sử dụng. Vấn đề là nhân vật chỉ có một bộ da màu đen mà không có cuộc sống riêng.[^2] [^3]
 
-### Người bạn cá: "Kẻ thị" đỏ của Nhật Bản qua "bán thành" thẩm mỹ
+## Tại sao Gấu đen lại xuất hiện liên tục?
 
-Biểu tượng hoạt hình du lịch của Tainan "Anh bạn cá" (SABABOY) thì minh chứng cho cách biến tấu bằng cách dùng "kỳ lạc" đến nước ngoài. Con vật này do họa sĩ Marco Chen Yuren thiết kế, mặt trước là nụ cười thân thiện, mặt sau lại là hình vẽ cắt ghép của đầu cá rất chính xác[^16].
+Câu trả lời không chỉ nằm ở sự dễ thương. Gấu đen có ba ưu điểm thiết kế: nó gợi lên mối liên hệ mạnh mẽ với loài đặc hữu của Đài Loan, chữ V trên ngực giúp nhận diện nhanh chóng, và khuôn mặt tròn cùng thân hình đồ sộ lại thuận tiện để chuyển thành thú nhồi bông, mô hình bơm hơi và sticker. Đây đều là những hiệu quả về mặt thị giác, nhưng không đồng nghĩa với việc thương hiệu đã được thiết lập. Hai điểm đầu tiên có thể được hỗ trợ bởi đặc điểm sinh học của gấu đen và thiết lập của Oh Bear, còn điểm cuối cùng thuộc về phân tích thiết kế, không nên bị coi là thống kê chính thức.[^2] [^5]
 
-Vào tháng 6 năm 2024, một người dùng Nhật Bản trên X (trước đây là Twitter) chia sẻ bức ảnh mặt sau của Anh bạn cá, khiến hơn 5 triệu lần truy cập[^17]. Sự "dám dặm và sát thương trực quan ngược đoảng" này đã khiến Anh bạn cá nổi tiếng ở Nhật Bản, trở thành tài sản du lịch của Tainan trên mạng xã hội quốc tế.
+| Cấp độ Thiết kế     | Người đọc nhìn thấy gì trước                        | Nội dung cần bổ sung                                             |
+| :------------------ | :-------------------------------------------------- | :--------------------------------------------------------------- |
+| Nguyên mẫu Sinh học | Thân hình đen, ngực chữ V, Gấu đen Đài Loan         | Bối cảnh bảo tồn và môi trường sống thực tế[^5] [^6]             |
+| Nhận diện Nhân vật  | Tên gọi, câu cửa miệng, trang phục, hành động       | Khả năng duy trì sự nhất quán trên các phương tiện khác nhau[^2] |
+| Nhiệm vụ Công cộng  | Du lịch, sự kiện, hoạt động đô thị                  | Liệu có bối cảnh sống sau khi nhiệm vụ kết thúc không[^3]        |
+| Vận hành IP         | Sản phẩm, liên kết thương hiệu, cấp phép, cộng đồng | Cần tách biệt thu nhập và lợi ích công cộng[^15] [^16]           |
 
-### Bó Bó Gấc: "Kẻ thị" công quyền cũ với phong cách mềm mại tái sinh
+📝 **Ghi chú người biên tập:** Nguyên mẫu chỉ giúp người ta nhận ra "là loại nào", còn nhân vật mới khiến người ta nhớ "là con nào".
 
-So với lối đi kỳ lạc, Bó Bó Gấc của Bưu chính Trung Hoa thì minh chứng cho cách biến tấu bằng cách dùng chính xác quản lý thương hiệu, khiến bề mặt công quyền cũ tái sinh với phong cách mới. Bó Bó Gấc ra đời khoảng năm 2015, hình dáng tròn trịa và thiết lập "không thích bị cho là béo" với vị trí hai cá, đã nhanh chóng xuất sắc trên các nền tảng xã hội[^18][^19].
+## Hệ thống giao thông đưa linh vật lên đường như thế nào?
 
-Vào năm 2024, bộ quà tặng "Bó Bó Gấc - Hộp hoa hồng" hợp tác với Yumi đã bị khách hàng nhanh chóng chiếm hết trong vòng 10 phút[^20]. Thành công của Bó Bó Gấc, nằm ở chỗ nó thoát khỏi hình ảnh cứng nhắc của "bé trai bưu chính" truyền thống, chuyển sang theo đuổi một phong cách "mềm mại" và "gần gũi cuộc sống".
+Happy/HAPPI và U!FU của Ga Tàu điện ngầm Cao Hùng cung cấp một mẫu nhân vật đô thị khác: chúng không chờ được nhìn thấy trong tờ rơi du lịch, mà được mang đến các ga tàu điện nhẹ và giao lộ giao thông trong thành phố. Thông cáo báo chí chính thức năm 2015 của Ga Tàu điện ngầm Cao Hùng ghi lại rằng HAPPI và U!FU đã vận động cử tri tại bối cảnh giao thông trong cuộc thi linh vật đầu tiên của Thành phố Đài Nam. Linh vật do đó trở thành phương tiện tương tác giữa hệ thống giao thông và người dân.[^9]
 
-### Từ "Long" chết đến "Duck Càu Chi" cứu vãn bằng ngôn ngữ đồng âm
+![Linh vật Ga Tàu điện ngầm Cao Hùng Happy và U!FU](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg/960px-%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg)
 
-Sức sống của biểu tượng hoạt hình thường xuất phát từ "tính xác thực". Vào tháng 5 năm 2024, biểu tượng hoạt hình của Thư viện Văn học Đài Loan "Long" bị cáo buộc sao chép, cuối cùng kết thúc với việc Thư viện xin lỗi và người dùng bên ngoài bị tố cáo[^21][^22]. Vụ việc "Chết của Long" đã đưa ra một bài học nặng nề cho các biểu tượng hoạt hình công quyền: chúng không thể chỉ là lớp vỏ được sản xuất bởi bên ngoài, cần có tính pháp lý và tinh thần sáng tạo.
+_Linh vật Ga Tàu điện ngầm Cao Hùng Happy (vàng) và U!FU (xanh lam) trong cuộc thi linh vật thành phố Đài Nam. Ảnh: Tze Chiang Hao; CC BY-SA 4.0._[^10]
 
-Ngược lại, Duck Càu Chi của chợ Tainan, ra đời vào năm 2021 nhưng chỉ nổi tiếng vào cuối năm 2024, thì đã thoát khỏi con đường khác. Con vật này là một con vịt với áo khoác và lá cây trên đầu, tên được lấy từ âm đồng âm của "chợ cá" trong ngôn ngữ địa phương[^23].
+Khu vực nhân vật hiện tại của Ga Tàu điện ngầm Cao Hùng cũng liệt kê gia đình Yongfu, bao gồm Gấu Ba Yongfu, Mẹ Báu Châu, Chị Bình Bình, Em An An và Sóc Happy. Cùng một khu vực lưu giữ "Cô gái Cao Tàu" và các dòng nhân vật sau này. Điều này cho thấy vai trò của giao thông không phải là trang trí nhất thời, mà có thể biến đổi liên tục theo chủ đề vận hành, đối tượng và phương tiện.[^4]
 
-"Cô không phải khoai tây, cũng không phải dứa, tôi là Duck Càu Chi." Câu giới thiệu bẩn thỉn này, kết hợp với sự tôn trọng của người Đài Loan đối với âm đồng âm, khiến con vịt này từng im lặng trở nên nổi tiếng trên các nền tảng xã hội như Threads[^24].
+Trường hợp này nhắc nhở chúng ta rằng chức năng của linh vật không nhất thiết là "bán thành phố". Nó cũng có thể giảm cảm giác xa cách của cơ sở giao thông, mang lại một khuôn mặt để chụp ảnh, bỏ phiếu và ghi nhớ cho nhà ga, tàu điện nhẹ và các hoạt động công cộng. Nhân vật không thay thế thông tin giao thông, nhưng nó đã thêm vào một lối vào cảm xúc cho hệ thống giao thông.[^4] [^9]
 
-### Dữ liệu và hiện trạng: Kinh tế học của biểu tượng hoạt hình
+Vai trò của hệ thống giao thông còn có một ranh giới không thể vượt qua: sự dễ thương không thể thay thế tính chính xác. Lịch trình, giá vé, chuyển tuyến và thông tin an toàn vẫn cần được hiển thị rõ ràng bằng văn bản và ký hiệu. Vị trí tốt nhất của nhân vật là khiến người ta dừng lại đọc quy tắc, chứ không phải dùng trang trí để che giấu quy tắc. Đây là sự khác biệt quan trọng giữa vai trò dịch vụ công và vai trò thương mại thuần túy.[^4]
 
-| Biểu tượng hoạt hình | Năm sinh | Đơn vị                       | Giá trị thương hiệu / ảnh hưởng                                                    |
-| :------------------- | :------- | :--------------------------- | :--------------------------------------------------------------------------------- |
-| Open Zhang           | 2004     | Các cửa hàng 7-Eleven        | Trong thời đỉnh cao, doanh thu hàng năm vượt 1 tỷ đô la [^5]                       |
-| Gấu phúc lợi         | 2014     | Công ty Thương mại Tân Thịnh | Hàng năm góp khoảng 2-3 tỷ đô la doanh thu [^6]                                    |
-| Bear Bravo (Bravo)   | 2016     | Hội đồng Thành phố Đài Bắc   | Hàng năm chi tiêu hơn 1 triệu đô la, hoa hồng chỉ khoảng 40 nghìn [^9]             |
-| Đỏ Phúc              | 2024     | Kinh Đỏ                      | Kết hợp ESG và công nghệ kỹ thuật số, thúc đẩy chuyển đổi công trình lịch sử [^11] |
-| Anh bạn cá           | 2018     | Bộ du lịch Tainan            | Bài đăng X một lần của Nhật Bản vượt 5 triệu lượt truy cập [^17]                   |
-| Duck Càu Chi         | 2021     | Chợ đô thị Tainan            | Thúc đẩy du lịch thị trấn truyền thống Tainan[^25]                                 |
+## Một huyện, một con báo hoa mai, một từ đồng âm
 
-### Thách thức và tương lai: Từ chối trở thành " người lạ A"
+Chính quyền Huyện Miêu Lật đã lấy báo hoa mai (thú bảo tồn) làm nguyên mẫu cho Maolihao, sử dụng đôi mắt tròn, thân hình tròn, râu và màu sắc vàng tươi để tạo ra một hình ảnh linh vật địa phương dễ gần. Các thông cáo báo chí chính thức cũng ghi lại rằng Maolihao đã tương tác với người dân trong thời gian bầu cử, tìm kiếm sự ủng hộ. Điều này khiến nó không chỉ là nhân vật do chính quyền huyện thiết kế, mà còn trở thành đối tượng bỏ phiếu được cộng đồng địa phương tham gia.[^11]
 
-Lĩnh vực biểu tượng hoạt hình Nhật Bản từng bị ngập đổ vì quá đều, dẫn đến sự ra đời của "bụy hội chương trình diệt chủng" chỉ còn những vai chức có điểm nhớ mạnh mẽ mới có thể tồn tại[^4]. Đài Loan hiện cũng đang đối mặt với thách thức tương tự: nhiều ngân sách công quyền bỏ vào thiết kế một lần, nhưng thiếu việc quản lý thương hiệu lâu dài.
+![Linh vật Huyện Miêu Lật Maolihao tại Ga Cao tốc Đài Loan Miêu Lật](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Miaolimiao_at_THSR_Miaoli_Station.jpg/960px-Miaolimiao_at_THSR_Miaoli_Station.jpg)
 
-"Biểu tượng hoạt hình thành công, điểm chính không phải là tính thân thiện, mà là tính 'xác thực'." Người thiết kế dịch vụ Linh Thànhnh cho biết, biểu tượng hoạt hình nên là yếu tố nhận diện quan trọng của thương hiệu, chứ không phải là công cụ quảng bá đơn thuần[^4].
+_Linh vật Huyện Miêu Lật Maolihao tại Ga Cao tốc Đài Loan Miêu Lật. Ảnh: Foxy1219; CC BY-SA 4.0._[^12]
 
-Tương lai của các biểu tượng hoạt hình Đài Loan, có lẽ không cần thiết nhiều hơn các con nai đen, mà cần nhiều hơn những người như Duck Càu Chi hoặc Bó Bó Gấc - có thể khiến người ta cười thầm khi ngặm gặp trên đường phố và nghĩ: "Ối, đó là con vật thật của ta, siêu Đài Loan!"
+Thiết kế của Maolihao chồng ba tầng ý nghĩa: sự liên tưởng ngữ âm từ tên cũ "Maolih" của Miêu Lật, hệ sinh thái bảo tồn báo hoa mai địa phương, và không gian công cộng mà du khách đi qua như ga cao tốc. Nó khác với Xiongzan ở chỗ không bắt đầu từ một giải đấu quốc tế lớn. Nó giống như một hướng dẫn viên địa phương gắn kết tên huyện, động vật và tuyến đường du lịch.[^11] [^12]
 
----
+Sự đồng âm ở đây không chỉ là trò đùa đơn thuần. Khi "Maolih" trở thành "Maolihao", tên huyện đã được chuyển thành một nhân vật có thể chào hỏi, biểu cảm và tham gia bỏ phiếu. Báo hoa mai lại gắn địa danh với bảo tồn sinh thái, giữ lại một con đường để truy vết giữa nhận diện du lịch và môi trường địa phương.[^11]
+
+## Linh vật trường học: Biến huy hiệu thành nhân vật
+
+Tiger Duck của Đại học Khoa học Công nghệ Quốc lập Đài Loan được tạo thành bởi Benjamin (Hổ) và Rossie (Vịt). Nhà trường giải thích rằng cái tên bắt nguồn từ cờ lê và ốc vít trong huy hiệu của Đại học, đại diện cho tinh thần thực dụng. Tiger Duck cũng được kỳ vọng sẽ tăng cường nhận diện thương hiệu nhà trường và thu hẹp khoảng cách giữa nhà trường và người dân.[^13]
+
+![Linh vật trường học Đại học Khoa học Công nghệ Quốc lập Đài Loan Tiger Duck](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg/960px-%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E5%A4%A7_%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+
+_Hình ảnh linh vật trường học Đại học Khoa học Công nghệ Quốc lập Đài Loan. Ảnh: Taiming2003; CC BY-SA 4.0._[^14]
+
+Nhiệm vụ của nhân vật trường học không hoàn toàn giống với nhân vật đô thị. Nó không cần đại diện cho toàn bộ Đài Loan, cũng không cần biến mỗi du khách thành một khách du lịch. Trước hết, nó phải giúp sinh viên, cựu sinh viên và giảng viên tìm thấy một hình ảnh chung có thể nói chuyện hơn, chụp ảnh được và tham gia hoạt động bên ngoài huy hiệu của trường. Việc chuyển đổi cờ lê và ốc vít thành hổ và vịt chính là ví dụ về việc dịch ngôn ngữ hệ thống thành cuộc sống thường nhật của trường học.[^13]
+
+Tiger Duck còn giải quyết một vấn đề cụ thể và hơi ngượng nghịu: Đại học Khoa học Công nghệ Đài Loan và Đại học Khoa học Công nghệ Đài Bắc dễ bị nhầm lẫn, nhà trường thậm chí đã dùng "chúng tôi ở đường Keelung" làm nội dung sticker. Do đó, linh vật không chỉ chịu trách nhiệm xây dựng hình ảnh, mà còn mang lại điểm chung để cười về địa chỉ, biệt danh trên mạng và cuộc sống học đường của trường.[^13]
+
+## Nhân vật không chỉ đứng trong trang phục thú nhồi bông
+
+Linh vật cũng rời khỏi bộ đồ thú nhồi bông, đi vào cầu thang trường học, sảnh ga tàu, tủ kính cửa hàng và tường khu phố. Cầu thang 3D vẽ tranh tại Trường Tiểu học Jianzhong ở Miêu Lật được hoàn thành bởi Wei Rongxin và Xiao Zhang, với hình ảnh báo hoa mai, Ga Changxing, Cầu Longteng và tượng Phật bằng gỗ. Nó không phải là một linh vật chính thức đơn lẻ, nhưng nó thể hiện cách các nhân vật địa phương và biểu tượng điểm tham quan đi vào không gian công cộng, cho phép mọi người trải nghiệm một câu chuyện địa phương bằng cơ thể.[^15]
+
+![Cầu thang 3D vẽ tranh tại Trường Tiểu học Jianzhong với linh vật báo hoa mai](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg/500px-%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E9%9A%8E%E6%A2%AF.jpg)
+
+_Cầu thang 3D vẽ tranh tại Trường Tiểu học Jianzhong, với hình ảnh báo hoa mai, Ga Changxing, Cầu Longteng và tượng Phật bằng gỗ. Ảnh: Paddy.hsiao; CC BY 4.0. Đây là trường hợp nghệ thuật công cộng địa phương và biểu tượng nhân vật, không nên nhầm lẫn là linh vật của nhà trường._[^15]
+
+Vì vậy, để đánh giá một nhân vật địa phương có thành công hay không, không chỉ cần hỏi nó có thú nhồi bông hay không. Mà còn phải hỏi nó có thể trở thành một tuyến đường, một điểm chụp ảnh, một lối vào trường học, hoặc một mật mã thị giác khiến người ta muốn dừng lại để hiểu về địa phương hay không. Nhân vật trong không gian công cộng chưa chắc đã có hồ sơ hoàn chỉnh, nhưng nó phải liên quan đến một trải nghiệm địa phương có thể được đi qua.[^15]
+
+## Ngoài huy hiệu đội tuyển quốc gia: Timon TYMON
+
+Timon TYMON là linh vật của các đội tuyển bóng đá cấp quốc gia Đài Loan (dưới danh nghĩa Đài Bắc Trung Hoa). So với nhân vật trường học hay hệ thống giao thông, linh vật đội tuyển quốc gia phải xử lý việc huy động người hâm mộ, bối cảnh trận đấu và sự gắn kết cảm xúc của đội. Nó không cần giải thích hết các quy tắc bóng đá, nhưng lại cung cấp một lối vào giàu biểu cảm hơn so với huy hiệu khi cầu thủ ra sân, fan chụp ảnh chung và hàng hóa liên quan.[^16]
+
+![Linh vật đội tuyển bóng đá quốc gia Đài Loan Timon TYMON](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TYMON.jpg/500px-TYMON.jpg)
+
+_Linh vật đội tuyển bóng đá quốc gia Đài Loan Timon TYMON. Ảnh: Dai Yuliang; CC BY-SA 4.0._[^16]
+
+Từ Timon ta thấy, linh vật không chỉ cần thiết cho chính quyền địa phương. Khi một đội muốn biến "sự đại diện" thành cảm giác gần gũi trên sân vận động, nhân vật sẽ bổ sung hành động, hình dáng và khả năng tương tác cho huy hiệu. Vòng đời của nó cũng có thể thay đổi cùng với các trận đấu và cộng đồng người hâm mộ, do đó nó phải liên tục xuất hiện trong bối cảnh thi đấu thực tế, chứ không chỉ dừng lại ở nhận diện phẳng.[^16]
+
+Tuy nhiên, tài liệu hiện có chủ yếu xác nhận thân phận nhân vật và cấp phép hình ảnh của Timon, còn về bối cảnh ra đời hoàn chỉnh, nhà thiết kế, thiết lập nhân vật và hiệu quả vận hành, bài viết này không suy đoán thêm. Việc giữ lại này không phải là thiếu sót dữ liệu, mà là tránh việc nhầm lẫn một bức ảnh thành một bộ thiết lập chính thức không tồn tại.[^16]
+
+## Bước ngoặt của IP nhân vật: Từ hình ảnh đến cuộc sống thường nhật
+
+Linh vật doanh nghiệp thể hiện rõ nhất bước ngoặt này. Tạp chí Thiên Hạ báo cáo rằng Open đã có đội ngũ tiếp thị vận hành nhân vật trong thời kỳ hoàng kim, thực hiện các cửa hàng chủ đề, phim ảnh, hợp tác ban nhạc, xe đặc biệt và phòng trưng bày theo thương hiệu, và đạt đỉnh cao thương mại vào năm 2014 khi mang lại doanh thu 1 tỷ Đài tệ cho 7-Eleven. Trọng tâm ở đây không phải là một con số doanh thu đẹp, mà là nhân vật đã được coi là tài sản nội dung cần được lên lịch trình, phát triển và bảo trì lâu dài.[^17]
+
+Bài báo cùng nguồn đưa sự ra đời của Phúc Lợi Xiong (Fuli Bear) vào năm 2014, và chỉ ra rằng nó tích lũy doanh số thông qua việc đổi quà tặng, bao bì thực phẩm tươi sống và các sản phẩm liên kết chiến lược. Bài báo trích lời người điều hành nói rằng doanh số bán hàng "cũng đạt mức 1 tỷ" khi thay đổi bao bì trái cây. Cách diễn đạt này bao gồm nhiều loại sản phẩm và hoạt động bán hàng khác nhau, không thể trực tiếp coi là phí cấp phép thuần túy, cũng không nên so sánh với thu nhập sự kiện của linh vật công cộng.[^17]
+
+Ngưỡng thực sự của IP doanh nghiệp là khả năng duy trì tính cách nhân vật trong các bối cảnh khác nhau. Cửa hàng chủ đề là không gian, sản phẩm liên kết là vật thể, phim ảnh và hợp tác ban nhạc là nội dung, xe đặc biệt là phương tiện di chuyển. Nếu tất cả những sắp xếp này chỉ để lại logo, nhân vật sẽ trở về thương hiệu. Chỉ khi mọi phương tiện truyền thông đều khiến người đọc nhận ra "đây là cùng một nhân vật đang làm những việc khác nhau", IP mới bắt đầu có cuộc sống.[^17]
+
+Sản phẩm liên kết giữa Bưu điện Trung Hoa và Yimei đã đưa linh vật bồ câu của bưu điện vào bao bì, biến dịch vụ bưu chính từ cơ quan cung cấp dịch vụ thành một vật dụng hàng ngày có thể sưu tầm, trao đổi và tặng. Ý nghĩa văn hóa của sự hợp tác này nằm ngoài "người đưa thư, hòm thư, tem", mà còn thêm vào một lối vào nhân vật có biểu cảm.[^18]
+
+| Nhân vật        | Tín hiệu vận hành có thể kiểm chứng                            | Điều không thể suy luận trực tiếp                                                |
+| :-------------- | :------------------------------------------------------------- | :------------------------------------------------------------------------------- |
+| Open (Thiên Hạ) | Đội ngũ nhân vật, cửa hàng chủ đề, liên kết và phòng trưng bày | Doanh thu của một hoạt động đơn lẻ là phí cấp phép nhân vật[^17]                 |
+| Phúc Lợi Xiong  | Đổi quà tặng, bao bì thực phẩm tươi sống, liên kết chiến lược  | 1 tỷ Đài tệ được báo cáo tương đương lợi nhuận ròng hàng năm[^17]                |
+| Bồ Câu          | Xuất hiện trong bao bì liên kết với bưu chính và thực phẩm     | Một lần hợp tác đại diện cho thành công thương hiệu lâu dài[^18]                 |
+| Caiqi Duck      | Hoạt động thu thập tại 59 khu chợ bán lẻ công cộng             | Số lượt tham gia nhất định bằng sự tăng trưởng doanh thu của thị trường[^3]      |
+| Tiger Duck      | Ý nghĩa huy hiệu, nhận diện trường học và đặt tên nhân vật     | Một bức ảnh trường học có thể chứng minh mức độ phổ biến của nhân vật[^13] [^14] |
+| Timon           | Đội tuyển quốc gia, người hâm mộ và bối cảnh trận đấu          | Sự xuất hiện của nhân vật tương đương thành tích thi đấu của đội[^16]            |
+
+## Khi sự dễ thương là chưa đủ: Fish Head Boy và Caiqi Duck
+
+Cục Du lịch Đài Nam có thiết lập trực tiếp về Fish Head Boy: nó là cá rô phi sinh ra ở các ao nuôi ven biển Đài Nam, tên tiếng Anh là Sababoy, sứ mệnh là giúp thế giới biết đến Đài Nam. Việc lựa chọn "đầu cá" thay vì toàn bộ con cá cũng biến cá rô phi từ nguyên liệu trên bàn ăn thành một đại sứ du lịch có thể đi khắp nơi và giới thiệu thành phố.[^19]
+
+Trang web chính thức còn cố tình ghi rõ rằng Fish Head Boy sẽ để lộ mặt cắt ngang đầu cá, qua đó tạo sự khác biệt với những linh vật chỉ theo đuổi sự dễ thương. Thiết kế này rất gần với sự hài hước của ẩm thực địa phương Đài Loan: trước tiên khiến bạn cảm thấy tròn trịa, đáng yêu và thân thiện, sau đó dùng một phần lưng hơi kỳ quặc để nhắc nhở bạn rằng con cá này có nguồn gốc riêng. Đây là phân tích biên tập tài liệu chính thức, không nên hiểu sự hài hước thành lời trích dẫn trực tiếp của nhà thiết kế.[^19]
+
+Chính quyền Thành phố Đài Nam cũng có thông cáo báo chí cho biết Fish Head Boy đã ra mắt lần đầu tại buổi họp báo Lễ hội Hải sản Qixu vào năm 2018, sau đó xuất hiện trong các hoạt động giao lưu quốc tế, quảng bá du lịch, sân vận động và triển lãm du lịch. Năm 2023, thành phố lại tổ chức một sự kiện trưng bày chủ đề "Sân chơi của Fish Head Boy". Những bối cảnh này đã biến Fish Head Boy không chỉ là hình ảnh nguyên liệu, mà còn là đại sứ du lịch có thể giới thiệu địa phương.[^20]
+
+Caiqi Duck đi trên một con đường khác. Thông cáo báo chí năm 2024 của Thành phố Đài Nam cho biết linh vật chợ "Caiqi Duck" đã trở nên nổi tiếng, và nó được sử dụng trong hoạt động "Chợ rau củ, giỏ hàng không thể chứa bạn - Caiqi Duck". Người dân có thể ghé thăm 59 khu chợ bán lẻ công cộng, thông qua việc quét mã, mua sắm, check-in và đổi quà để tái nhận diện thị trường.[^3]
+
+Giá trị của trường hợp này không chỉ nằm ở sự đồng âm. Sau khi linh vật được đặt vào luồng di chuyển của chợ, nó trở thành một giao diện hướng dẫn: nó cho bạn biết đi đâu, làm gì, và cách biến một lần mua sắm thành một trải nghiệm có thể chia sẻ. "Hương vị Đài Loan" của nhân vật do đó có hành vi có thể quan sát được, chứ không chỉ là một khẩu hiệu quảng cáo.[^3]
+
+> 📝 **Ghi chú người biên tập:** Fish Head Boy biến nguyên liệu thành nhân vật, Caiqi Duck biến chợ thành nhiệm vụ; khi cảm giác địa phương thực sự hiện hữu, linh vật sẽ chỉ cho bạn bước tiếp theo cần đi đâu.
+
+## Ngân sách công cũng đánh giá linh vật
+
+Khi các nhân vật doanh nghiệp bán không tốt, doanh nghiệp có thể thay đổi chiến lược. Khi các nhân vật cơ quan công sử dụng tiền thuế của người dân, vấn đề lại tăng thêm một lớp. Năm 2018, Xiongzan đã gây ra sự chất vấn từ nghị sĩ tại hội trường vì chi phí thay đổi thương hiệu và thiết kế là 1,13 triệu Đài tệ. Tranh cãi này không chỉ liên quan đến việc con gấu có đẹp hay không, mà còn liên quan đến việc cơ quan công có giải thích rõ ràng: tại sao phải thay đổi, đã thay đổi để giải quyết vấn đề gì, và làm thế nào để đánh giá hiệu quả sau khi thay đổi.[^21]
+
+Do đó, việc đánh giá linh vật cơ quan công không chỉ nên nhìn vào phí cấp phép hoặc chi phí tham dự một lần. Ít nhất cần xem xét ba khía cạnh: nhân vật có nâng cao khả năng truyền đạt thông tin hay không, có giúp người dân dễ dàng tham gia các hoạt động đô thị hơn không, và chi phí thiết kế và bảo trì có được công khai giải thích hay không. Con số doanh thu có thể cung cấp manh mối, nhưng không thể đại diện cho lợi ích văn hóa một cách đơn lẻ. Ba khía cạnh này là khung phân tích mà bài viết đề xuất, chứ không phải chỉ số thống kê chính thức.[^3] [^21]
+
+Nguyên tắc tương tự cũng áp dụng cho IP doanh nghiệp. Doanh thu được báo cáo, doanh số bán hàng, số lượng đổi quà, theo dõi mạng xã hội và hợp tác cấp phép trong bài báo đều trả lời các câu hỏi khác nhau. Cộng tất cả chúng lại không thể tự động đạt được "thành công của nhân vật". Lợi ích thương mại, lợi ích công cộng, ký ức văn hóa và truyền thông bảo tồn của nhân vật nên được ghi chép riêng biệt, sau đó giải thích cách chúng tương tác với nhau.[^5] [^17] [^18]
+
+## Viết lại "sự dễ thương" thành một phương pháp
+
+Từ Bào Bảo (Đại Đồng) đến Oh Bear, từ Xiongzan đến Ga Tàu điện ngầm Cao Hùng, Maolihao, Tiger Duck, Timon, Fish Head Boy và Caiqi Duck, quỹ đạo chung của linh vật Đài Loan là việc dịch các tổ chức thành ngôn ngữ con người. Bào Bảo (Đại Đồng) mang lại cho doanh nghiệp một hình hài có thể được mang về nhà. Oh Bear mang lại giọng điệu nhân vật cho nhiệm vụ du lịch. Ga Tàu điện ngầm Cao Hùng đưa linh vật vào bối cảnh giao thông. Maolihao đặt bảo tồn báo hoa mai và tên huyện vào ga tàu; Tiger Duck biến huy hiệu thành bạn đồng hành trường học; Timon biến đội tuyển thành đối tượng mà người hâm mộ có thể bắt tay; Fish Head Boy đẩy nguyên liệu địa phương lên sân khấu du lịch; còn Caiqi Duck biến chuyến tham quan chợ thành một trò chơi đô thị có nhiệm vụ.[^1] [^2] [^3] [^4] [^9] [^11] [^13] [^16] [^19]
+
+Con đường này cũng để lại một số vấn đề thực tế. Nguyên mẫu nhân vật có quá tập trung vào gấu đen không? Thu nhập cấp phép, doanh số bán hàng và lợi ích công cộng có bị trộn lẫn trong cùng một bảng tính không? Các tệp hình ảnh, tác phẩm nhiếp ảnh và sản phẩm phái sinh của nhân vật chính thức có được đánh dấu ranh giới quyền lợi rõ ràng hay không? Nếu những câu hỏi này không có câu trả lời, ngay cả nhân vật dễ thương cũng chỉ dừng lại ở bối cảnh dùng một lần.[^5] [^17] [^21]
+
+Quyền hình ảnh đặc biệt không thể bị bỏ qua bởi từ "chính thức". Các hình ảnh được lưu trữ trên Wikimedia Commons mà bài viết này giữ lại đều ghi rõ điều kiện sử dụng CC BY, CC BY-SA hoặc dữ liệu mở của chính phủ; giấy phép của bức ảnh không đồng nghĩa với việc thương hiệu nhân vật, bản vẽ chính thức hay sản phẩm phái sinh có thể bị sử dụng tùy ý. Bài báo có thể trưng bày nhân vật, nhưng khi đăng tải hoặc tái tạo vẫn cần kiểm tra từng mục về nhiếp ảnh gia, điều khoản cấp phép, nhãn hiệu và thông báo dữ liệu mở của chính phủ.[^4] [^8] [^10] [^12] [^14] [^15] [^16]
+
+Đối với người đọc, lần tới khi gặp linh vật trên phố, có thể hỏi thêm một câu: nó đại diện cho ai và hoàn thành nhiệm vụ gì cho ai? Nếu câu trả lời có thể quay về một khu chợ, một loại thực phẩm, một nhà ga, một ngôi trường, một trận đấu hoặc một ký ức bảo tồn, nhân vật sẽ có cơ hội sống sót. Khi đó, linh vật không chỉ là người mặc đồ thú nhồi bông, mà là một cách để Đài Loan tự giới thiệu mình với người khác.[^3] [^4] [^5]
 
 ## Đọc thêm
 
-- **[Liên hoạt giải trí Đài Loan](/culture/台灣綜藝)** — Vai trò thiết kế và cơ chế tương tác của khán giả trong ngành giải trí
-- **[Biểu tượng hoạt hình Đài Loan](/culture/台灣迷因)** — Ngôn ngữ đồng âm, xấu đáng yêu, ngược đoảng sinh động như thế nào lan truyền trên mạng
-- **[Công ty Thương mại Tân Thịnh](/economy/全聯福利中心)** — Chiến lược thương hiệu và IP sau nền tảng của gấu phúc lợi
-- **[Nai đen Đài Loan](/nature/台灣黑熊)** — Nguyên mẫu sinh học làm biểu tượng văn hóa và vấn đề bảo tồn
+- [**Meme Đài Loan**](/culture/台灣迷因) — Sự đồng âm, sự xấu dễ thương và sự tương phản lưu hành trong cộng đồng
+
+- [**Tân Lợi Phúc Tâm Trung tâm**](/economy/全聯福利中心) — Vận hành hàng ngày của Phúc Lợi Xiong và IP doanh nghiệp
+
+- [**Chợ Đài Nam**](/lifestyle/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%A0%B4) — Thị trường, thực phẩm và cuộc sống đô thị được liên kết với Caiqi Duck và Yeqi Duck
 
 ## Tài liệu tham khảo
 
-[^1]: [Nhân vật hoạt hình đại diện du lịch Đài Loan - Sách điện tử Cơ quan Tư vấn Pháp luật](https://www.mjib.gov.tw/FileUploads/eBooks/56089fdb1ae74777a1fec51b3e709ffe/Section_file/b264b7d3783b41c6967752c57c1d35a9.pdf) — Sách điện tử Cơ quan Tư vấn Pháp luật, giới thiệu nền tảng sinh ra OhBear năm 2013 của Bộ Du lịch và Thương mại Trung Hoa Dân Quốc (Đài Loan)
+[^1]: [Công ty Đại Đồng: Bào Bảo](https://www.tatung.com/tw/info/about-mascot) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^2]: [Khám phá dấu vết biểu tượng và chuyển giao: Từ "Bé trai đồng đều" làm ví dụ - Cheng Hsiu-yu](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%97%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — Bài luận học thuật, phân tích ý nghĩa biểu tượng "Bé trai đồng đều" 1969 làm biểu tượng doanh nghiệp
+[^2]: [Cục Du lịch Bộ Giao thông vận tải: Về Oh Bear](https://www.taiwan.net.tw/m1.aspx?sno=0040078) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^3]: [Chứng kiến lịch sử phát triển quan trọng của Đài Loan: Năm ngoài 1990 bóng đá quốc gia - UDN70](https://udn70.udn.com/story/1990) — Ghi chép năm 1990 khai trương bóng đá quốc gia Đài Loan, bốn đội Brother, Sanxia Leopard, United, Chow Tai Seng xuất hiện cùng các biểu tượng hoạt hình
+[^3]: [Chính quyền Thành phố Đài Nam: Cai Thị Tử, Giỏ Hàng Không Thể Chứa Bạn - Caiqi Duck](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8704341) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^4]: [Học thuyết thành công biểu tượng hoạt hình (2): Tình yêu thịnh hành riêng của Đài Loan với nai đen - Báo cáo quan trọng](https://www.thenewslens.com/article/80404) — Quan điểm của nhà thiết kế dịch vụ Linh Thànhnh, phân tích hiện tượng đầy đặp nai đen và khủng hoảng khả năng nhận diện thương hiệu
+[^4]: [Wikimedia Commons: Caiqi Duck Tshài-tshī-á.jpg](https://commons.wikimedia.org/wiki/File:%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^5]: [Xây dựng Open Zhang, gấu phúc lợi: Người đàn ông tài năng Liu Hongzheng dạy bày IP thành công 4 bước - Tạp chí Kinh tế](https://www.cw.com.tw/article/5137665) — Phỏng vấn Liu Hongzheng, doanh thu hàng năm Open Zhang vượt 1 tỷ đô la, phương pháp xây dựng thế giới IP
+[^5]: [Vườn quốc gia Ngọc Sơn: Thông tin Gấu đen Đài Loan](https://www.ysnp.gov.tw/En/StaticPage/ScienceEn) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^6]: [Bí mật IP của gấu phúc lợi: Hàng năm góp khoảng 2-3 tỷ đô la doanh thu cho Tân Thịnh - Yahoo tin tức](https://tw.news.yahoo.com/%E5%85%A8%E8%81%AF-%E6%94%AF%E6%8F%B4%E6%94%B6%E9%8A%80-%E6%93%816-2%E8%90%AC%E4%BA%BA%E8%B7%A8%E5%B9%B4%E8%81%B2%E5%8B%A2-%E7%A6%8F%E5%88%A9%E7%86%8A%E3%80%81Open%E5%B0%8B%E7%88%B6%E8%A7%A3%E5%AF%86IP%E7%A7%98%E8%A8%A3-060430739.html) — Gấu phúc lợi hàng năm góp khoảng 2-3 tỷ đô la doanh thu cho Tân Thịnh
+[^6]: [Vườn quốc gia Ngọc Sơn: Danh mục động vật hoang dã được bảo vệ](https://www.ysnp.gov.tw/StaticPage/Directory) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^7]: [Bear Bravo biến hình trên sân khấu hội đồng, nghị sĩ chỉ trích: Bạn làm sao đẹp đến vậy? - Báo Tự do](https://news.ltn.com.tw/news/politics/breakingnews/2411188) — Vụ việc Bear Bravo chi 113 triệu đô la chỉnh hình trên hội đồng
+[^7]: [Nghiên cứu Bào Bảo (Đại Đồng): Nghiên cứu về biểu tượng và dấu vết chuyển giao từ hình ảnh nhân vật doanh nghiệp](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%91%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^8]: [Liên bang 20 nghị sĩ Thành phố Đài Bắc kêu gọi bảo vệ Bear Bravo vàng - Truyền hình Đài Tây](https://www.ntdtv.com.tw/b5/20180503/video/220628.html) — 20 nghị sĩ Thành phố Đài Bắc kêu gọi bảo vệ Bear Bravo vàng
+[^8]: [Wikimedia Commons: Bravo và du khách tại Vườn quốc gia Dương Minh Sơn](https://commons.wikimedia.org/wiki/File:Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^9]: [Bear Bravo thu nhập 36 triệu đô la có phải là hàng bán lẻ mất tiền? Hội đồng Thành phố Đài Bắc: Không thu hồi hoa hồng - LINE TODAY](https://today.line.me/tw/v3/article/60W8k1a) — Bối cảnh thu nhập Bear Bravo 36 triệu đô la vs chi tiêu hàng trăm triệu đô la
+[^9]: [Ga Tàu điện ngầm Cao Hùng: Vận động cử tri với linh vật U!FU và HAPPI](https://www.krtc.com.tw/Information/news_more?id=b696995bfaf9465fbe63a8e2e048d9bb) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^10]: [Bear Bravo đã chi tiêu hơn 16 triệu đô la trong vòng 3 năm cho quảng bá - Facebook của徐巧芯](https://www.facebook.com/HsuChiaoHsin/posts/2107418992692689/) —徐巧芯 nghị sĩ tiết lộ chi tiêu Bear Bravo gần 16 triệu đô la trong vòng 3 năm
+[^10]: [Wikimedia Commons: Linh vật Ga Tàu điện ngầm Cao Hùng IMG 0907.jpg](https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^11]: [Bear Bravo "Đỏ Phúc" lần đầu xuất hiện tại Kinh Đỏ - Yahoo chứng khoán](https://tw.stock.yahoo.com/news/%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%97%E6%8E%A5%E5%BE%85%E9%83%A8%E9%95%B7-%E7%B4%85%E7%A6%8F-%E9%A6%96%E5%BA%A6%E4%BA%AE%E7%9B%B8-%E6%94%9C%E6%89%8B%E5%B7%A5%E8%97%9D%E4%B8%AD%E5%BF%83%E5%B1%95%E9%96%8B%E6%B0%B8%E7%BA%8C%E8%A1%8C%E5%8B%95-064125170.html) — Báo cáo lần đầu xuất hiện "Đỏ Phúc" năm 2024 tại Kinh Đỏ
+[^11]: [Chính quyền Huyện Miêu Lật: Cảm ơn sự ủng hộ của người dân đối với Maolihao](https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=196769) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^12]: [Tại sao chọn cáo làm biểu tượng hoạt hình? Nguồn gốc từ Đền Lúa Hạ Kinh Đai - M1DOKU](https://m1doku.com/theredhouseesg/) — Giải thích nguồn gốc thiết kế "Đỏ Phúc" từ Đền Lúa Hạ Kinh Đai giai đoạn ngày xuân
+[^12]: [Wikimedia Commons: Miaolimiao tại Ga Cao tốc Đài Loan Miêu Lật](https://commons.wikimedia.org/wiki/File:Miaolimiao_at_THSR_Miaoli_Station.jpg) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^13]: [Biểu tượng hoạt hình gốc đất "Đỏ Phúc" của Kinh Đỏ xuất hiện - Tanukii_don X](https://x.com/Tanukii_don/status/1820409634022437272) — Chi tiết thiết kế hình dáng "Đỏ Phúc" (váy biểu tượng Kinh Đỏ, màu đỏ trắng đá tảo)
+[^13]: [Đại học Khoa học Công nghệ Quốc lập Đài Loan: Tiger Duck! Đại học Khoa học Công nghệ xây dựng linh vật trường học độc quyền](https://www.ntust.edu.tw/p/404-1000-54016.php?Lang=zh-tw) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^14]: [Nguồn gốc "Anh bé cá hồi"! Xấu đáng yêu có phải chính xác sao? - YouTube phỏng vấn đường phố](https://www.youtube.com/watch?v=Qx6zPGaiNSo) — Phỏng vấn đường phố của người thiết kế "Anh bé cá hồi" tự kể về việc xấu đáng yêu có phải chính xác sao
+[^14]: [Wikimedia Commons: Tăng Thái Minh Linh vật Đại học Khoa học Công nghệ Quốc lập](https://commons.wikimedia.org/wiki/File:%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^15]: [Danh sách 9 biểu tượng hoạt hình "xấu đáng yêu" khắp Đài Loan khiến người dùng cười - Báo Up Media](https://www.upmedia.mg/tw/focus/comprehensive/171257) — Danh sách 9 biểu tượng hoạt hình "xấu đáng yêu" nổi bật, bao gồm Cô bé hạt dẻ, Móc biển trước chợ của Quần Đảo Penghu
+[^15]: [Wikimedia Commons: Cầu thang 3D vẽ tranh tại Trường Tiểu học Jianzhong](https://commons.wikimedia.org/wiki/File:%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^16]: [Ai là "Anh bạn cá"? Khám phá bí mật của biểu tượng hoạt hình bối cảnh quốc tế và danh sách các chuyên gia - Uptogo](https://uptogo.com.tw/%E5%A8%9B%E6%A8%81/%E5%90%8D%E4%BA%BA/%E9%AD%9A%E9%A0%AD%E6%98%AF%E8%AA%B0%EF%BC%9F/) — Giới thiệu danh tính của Marco Chen Yuren, người thiết kế "Anh bạn cá" (SABABOY)
+[^16]: [Wikimedia Commons: TYMON.jpg](https://commons.wikimedia.org/wiki/File:TYMON.jpg) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^17]: [Đỏ rực! "Anh bạn cá" của Tainan bằng cách biến mặt sau kéo 5 triệu lượt truy cập của Nhật Bản - Yahoo tin tức](https://tw.news.yahoo.com/%E7%B4%85%E4%BA%86-%E5%8F%B0%E5%8D%97-%E9%AD%9A%E9%A0%AD%E5%90%92%E5%89%96%E9%9D%A2%E5%9C%96-%E5%90%B8500%E8%90%AC%E6%97%A5%E4%BA%BA%E6%9C%9D%E8%81%96-072400851.html) — Bài đăng X một lần của người dùng Nhật Bản về mặt sau "Anh bạn cá" vượt 5 triệu lượt truy cập
+[^17]: [Tạp chí Thiên Hạ: Người tạo ra Open và Phúc Lợi Xiong](https://www.cw.com.tw/article/5137665) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^18]: [Bó Bó Gấc có hai cá! Tại sao không thích bị cho là béo - Bưu chính Trung Hoa Facebook](https://www.facebook.com/shenhuihung/posts/771283382300866/) — Bài đăng Facebook của Bưu chính Trung Hoa, giới thiệu vị trí hai cá và thiết lập "không thích bị cho là béo" của Bó Bó Gấc
+[^18]: [Bưu điện Trung Hoa: Hộp quà hợp tác 130 năm bưu chính nhỏ xinh](https://www.post.gov.tw/post/internet/Group/index.jsp?ID=150101&news_no=73607&news_cat=11&group_name=&control_type=page) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^19]: [Bó Bó Gấc có vẻ hơi thiếu vững mạng - Threads](https://www.threads.com/@chanskym/post/DHfJdXVSv2J/) — Thảo luận mở rộng trên nền tảng xã hội Threads về Bó Bó Gấc
+[^19]: [Cục Du lịch Đài Nam: Khu vực giới thiệu Fish Head Boy](https://www.twtainan.net/zh-tw/event/newsdetail/4155/) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^20]: [Hộp quà tặng "Bó Bó Gấc - Hoa hồng" hợp tác với Yumi bị khách hàng chiếm hết trong vòng 10 phút - MSN](https://www.msn.com/zh-tw/news/other/%E9%83%B5%E5%B1%80%E8%90%8C%E7%B3%BB%E5%B0%8F%E6%B3%A1%E8%8A%99%E7%A6%AE%E7%9B%92%E7%88%86%E7%B4%85-%E8%A9%90%E9%A8%99%E8%B6%81%E7%86%B1%E4%B8%8A%E7%B7%9A-%E4%B8%AD%E8%8F%AF%E9%83%B7%E6%94%BF%E6%80%A5%E7%A4%BA%E8%AD%A6/ar-AA20dW8Y) — Bộ quà tặng "Bó Bó Gấc - Hoa hồng" hợp tác với Yumi bị khách hàng nhanh chóng chiếm hết trong vòng 10 phút
+[^20]: [Chính quyền Thành phố Đài Nam: Lễ kỷ niệm 5 năm của Fish Head Boy "Sân chơi của Fish Head Boy"](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8603620) — Xem bổ sung tài liệu trong liên kết gốc
 
-[^21]: [Sự kiện sao chép biểu tượng hoạt hình của Thư viện Văn học Đài Loan - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%96%87%E5%AD%B8%E9%A4%A8%E5%90%89%E7%A5%A5%E7%89%A9%E6%8A%84%E8%A5%B2%E4%BA%8B%E4%BB%B6) — Bài viết Wikipedia: Sự kiện sao chép biểu tượng hoạt hình "Long" của Thư viện Văn học Đài Loan (tháng 5/2024)
-
-[^22]: [Sau vụ việc sao chép "Long", người dùng Trung Quốc không bị tố cáo - Yahoo tin tức](https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E5%8F%B0%E6%96%87%E9%A4%A8-%E9%98%BF%E9%BE%8D-%E6%8A%84%E8%A5%B2%E4%BA%8B%E4%BB%B6%E5%8C%97%E6%AA%A2%E4%B8%8D%E8%B5%B7%E8%A8%B4-%E4%B8%AD%E5%9C%8B%E7%B9%AA%E5%B8%AB-223507967.html) — Báo cáo sau vụ việc sao chép "Long"
-
-[^23]: [Không có ngôn ngữ đồng âm không được! "Duck Càu Chi" của chợ Tainan nổi tiếng kéo dài - Yahoo tin tức](https://tw.news.yahoo.com/%E4%B8%8D%E8%83%BD%E6%B2%92%E6%9C%89%E8%AB%A7%E9%9F%B3%E5%93%8F-%E5%8F%B0%E5%8D%97-%E8%8F%9C%E5%A5%87%E9%B4%A8-%E6%9A%B4%E7%B4%85%E5%BC%91%E8%90%AE%E4%BA%BA%E6%9C%9D%E8%81%96-055730860.html) — Báo cáo về "Duck Càu Chi" và ngôn ngữ đồng âm kéo dài của chợ Tainan
-
-[^24]: [Ngôn ngữ đồng âm vô hạn! "Duck Càu Chi" của chợ đô thị nổi tiếng - Báo Tainan mới](https://www.setn.com/News.aspx?NewsID=1536731) — Báo cáo hiện tượng lan truyền xã hội của "Duck Càu Chi" trên nền tảng mạng xã hội
-
-[^25]: [Chợ đô thị "Duck Càu Chi" thúc đẩy du lịch Tainan lên tầm cao mới - Threads](https://www.threads.com/@loveagrogirl/post/DVgePDBksKJ/) — Bài đăng Threads: Du lịch chợ đô thị và hiệu ứng "Duck Càu Chi"
+[^21]: [Tự Do Thời Báo: Xiongzan chi 1,13 triệu Đài tệ để thay đổi](https://news.ltn.com.tw/news/politics/breakingnews/2412456) — Tin tức từ Tự Do Thời Báo
