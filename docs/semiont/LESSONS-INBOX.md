@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-09-06
-last_session: '2026-09-06-041909-twmd-self-evolve-weekly（新增 1 條 vc=1 structural：diary-index-split-location-defeats-same-day-tiebreak，寫 diary 時 dogfood 出 memory-index-lint.py --diary 撈到游離表舊列而非新插列；§未消化 59→60）'
+last_updated: 2026-09-10
+last_session: '2026-09-10-003700-twmd-babel-nightly（新增 1 條 vc=2：babel-dispatcher-outlives-cron-window，同一 dispatcher PID 連續第 2 晚跨過 00:30 cron 窗口仍未收工；§未消化 66→67）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -1917,3 +1917,13 @@ _- **LESSONS-INBOX（本檔）= 新教訓 buffer（待 distill 升級到 canonic
 - **影響範圍**：僅限本詞庫的誤判翻案類別，不影響其他分類（真實分歧／新興觀察詞／爭議中）
 - **相關**：REFLEXES #16「Peer / probe 是線索不是 source」的 sovereignty 特化段（模型預設中國語料當基準）談的是查證方法，這條談的是**查證結果的分布本身**，兩者互補但不是同一條
 - **verification_count**: 1（本 session 首次注意到，尚未跨 session 獨立驗證，需下一輪 terminology-trends 或 distill 判斷是否升 canonical）
+
+### babel-nightly 的 00:30 cron 窗口跟 dispatcher 實際續跑時長已經脫節（2026-09-09 起連續第 2 晚，vc=2）
+
+- **pattern**: babel-dispatcher-outlives-cron-window
+- **原則**：`babel-dispatch.py --rounds 200` 這種大 rounds 數的長跑批次，一輪要清完 12 語言的 stale + missing 存量，實測續跑時長已經超過 24 小時（本輪從 2026-09-08 00:42 跑到 2026-09-10 00:37 仍在產出，橫跨兩個完整的 00:30 cron 窗口）。「每晚 00:30 觸發一次新 dispatcher」的排程假設，建立在「一輪幾小時內收工」的舊工作量規模上；語言數從 5 語長到 12 語之後，這個假設沒有跟著重新校準。
+- **觸發**：2026-09-09 00:37 twmd-babel-nightly 第一次撞見（[→memory](memory/2026-09-09-003736-twmd-babel-nightly.md)），2026-09-10 00:37 同一個 PID（52743）**還是同一輪**還沒收工，第二次撞見。兩晚的正確處置相同：三重巡檢（存活／生產／第二訊號源）確認真活著非假象後讓場，不重複派發第二個 dispatcher 搶同一批 `knowledge/` 檔案與 fleet worker 額度。
+- **連帶發現（本輪新增）**：`babel-preflight.py` 同時報出跟正在跑的 dispatcher 完全對得上的弱適配警訊——`gemma31`（`google/gemma-4-31b-it:free`）對 ar/de/en/es/fr/hi 六語言近兩日通過率全 <15%（de/es 0%），建議切軌換模型而非加大重試。這條本身有既有的凍結機制（freezes.jsonl）在處理，但如果 dispatcher 這樣連續跑數天不重啟，弱適配 worker 在 --order reverse 下可能反覆被同一批語言撞到又被凍結又解凍，值得下一次重啟 dispatcher 時檢視 worker 清單是否該直接排除。
+- **可能處置（候選，未拍板）**：(a) dispatcher 自身加 idempotent lock：cron 觸發時偵測到已有活動進程直接 no-op 退出，不需要每晚讓當班 session 臨場判斷三重巡檢 (b) dashboard 加一道「dispatcher 存活超過 N 小時未收工」的 chronic 警訊，讓排程模型跟實際節奏的落差變成看得見的訊號而非每次撞見才發現 (c) 若判定「一輪要跑數天」本來就是預期行為（工作量夠大時的正常形態），改造 babel-nightly 這條 routine 的定位：從「每晚啟動一輪新 dispatcher」改成「每晚檢查 + 續命既有 dispatcher（沒有才啟動）」，讓 routine 語意跟實際運作對齊
+- **相關**：REFLEXES #57（routine 入口必須 detect parallel-actor）、REFLEXES #76（multi-cycle trend window > single-cycle delta，本條 vc=2 尚未達 REFLEXES 慣例的 ≥3 門檻，下一晚若第三次撞見同一形狀才升 canonical）
+- **verification_count**: 2（2026-09-09、2026-09-10 連續兩晚同一 PID 同一輪，跨 session 獨立驗證）
