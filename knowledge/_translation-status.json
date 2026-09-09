@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T17:55:35+08:00",
-    "zhCommitHead": "f4b5af0be",
+    "lastUpdated": "2026-09-09T17:57:25+08:00",
+    "zhCommitHead": "3f9c87191",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 779,
+        "fresh": 780,
         "stale": 70,
-        "metadata_stale": 17,
+        "metadata_stale": 16,
         "missing": 255,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 647,
+        "fresh": 648,
         "stale": 39,
         "metadata_stale": 11,
-        "missing": 424,
+        "missing": 423,
         "orphan": 0
       },
       "ar": {
@@ -51359,7 +51359,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/mainlanders-in-taiwan.md",
+          "translatedFrom": "Society/外省人.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:11472ed85277289a",
+          "sourceBodyHash": "sha256:78aa4d7a1743dd44",
+          "translatedAt": "2026-09-09T11:45:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/mainlanders-in-taiwan.md",
@@ -88248,8 +88259,8 @@
           "sourceContentHash": "sha256:3f102f565e503ad8",
           "sourceBodyHash": "sha256:b14c332dbd93a4eb",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3f9c8719",
+          "translationLastModified": "2026-09-09T17:55:36+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -109981,18 +109992,16 @@
         "pt": {
           "path": "pt/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-07-25T05:00:10+08:00",
+          "translatedAt": "2026-09-09T11:45:58+08:00",
           "translationLastCommit": "21693299",
           "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-sauces-and-seasonings.md",
@@ -113574,8 +113583,8 @@
           "sourceContentHash": "sha256:37e6bdeac5fb1d7c",
           "sourceBodyHash": "sha256:3db5773500588245",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3f9c8719",
+          "translationLastModified": "2026-09-09T17:55:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
