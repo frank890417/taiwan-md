@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T09:53:57+08:00",
-    "zhCommitHead": "9e1988362",
+    "lastUpdated": "2026-09-09T10:14:52+08:00",
+    "zhCommitHead": "82574fe84",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 788,
-        "stale": 82,
+        "fresh": 789,
+        "stale": 81,
         "metadata_stale": 24,
         "missing": 227,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 773,
-        "stale": 71,
+        "fresh": 774,
+        "stale": 70,
         "metadata_stale": 18,
         "missing": 259,
         "orphan": 0
@@ -12437,8 +12437,8 @@
           "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
           "sourceBodyHash": "sha256:e4265d915ae6599c",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "82574fe8",
+          "translationLastModified": "2026-09-09T09:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -39073,8 +39073,8 @@
           "sourceContentHash": "sha256:cfeed87bcc86a207",
           "sourceBodyHash": "sha256:761ccd3c7cd0d390",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "82574fe8",
+          "translationLastModified": "2026-09-09T09:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -117597,8 +117597,8 @@
           "sourceContentHash": "sha256:065bf6354c8e6e97",
           "sourceBodyHash": "sha256:c6f4891abde841e9",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "82574fe8",
+          "translationLastModified": "2026-09-09T09:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -132932,18 +132932,16 @@
         "es": {
           "path": "es/Geography/taitung-county.md",
           "translatedFrom": "Geography/台東縣.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:a245e10d3b26ade5",
-          "sourceBodyHash": "sha256:78f221a15e8e14f3",
-          "translatedAt": "2026-06-16T17:05:07Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:b917cf15071e0f45",
+          "sourceBodyHash": "sha256:36a7ca9dd00ad7f0",
+          "translatedAt": "2026-09-09T02:08:52.997928+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/taitung-county.md",
@@ -137048,18 +137046,16 @@
         "pt": {
           "path": "pt/Geography/nantou-county.md",
           "translatedFrom": "Geography/南投縣.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:c80f3accc7342bb8",
-          "sourceBodyHash": "sha256:9116715a2d516221",
-          "translatedAt": "2026-07-29T07:32:34+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3e20b5d7cae61e95",
+          "sourceBodyHash": "sha256:b09f70f5d82caaa2",
+          "translatedAt": "2026-09-09T02:14:25.196619+00:00",
           "translationLastCommit": "889deb6c",
           "translationLastModified": "2026-07-29T12:33:45+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+7 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
