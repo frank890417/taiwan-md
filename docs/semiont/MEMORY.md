@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-10
-last_session: '2026-09-10-053747-twmd-routine-sync'
+last_session: '2026-09-10-064000-twmd-spore-harvest-am'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -343,3 +343,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-10 | 003700-twmd-babel-nightly | 同一 PID 的 dispatcher 第二晚仍未收工（近 48h），三重巡檢確認真活著後再次讓場；gemma31 六語言弱適配警訊 + 該訊號寫進 LESSONS-INBOX vc=2 | 同一訊號連續出現不代表已處理，只代表還沒到升級門檻；vc=2 進 buffer，vc≥3 才升 canonical | [→](memory/2026-09-10-003700-twmd-babel-nightly.md) |
 | 2026-09-10 | 053747-twmd-routine-sync | 第 44 輪對賬 18/18 in-sync 零漂移；同一 dispatcher（PID 52743）續跑近 53h，本地 ahead51/behind86 首次真分岔非單純落後，判讀為預期副作用繞開不動 | 落後與分岔的安全繞開動作相同，但狀態不同，要靠工具輸出分辨不能預設一樣 | [→](memory/2026-09-10-053747-twmd-routine-sync.md) |
 | 2026-09-10 | 061907-twmd-data-refresh-am | Step 1 因 dispatcher ACTOR_BUSY 跳過，Step 2-14 全綠；Step 11 UTC/本地時區假警報連三天後 vc=3 真修，改用 UTC 對 UTC 比對 | 同一假警報現查兩次後第三次該真修，不是繼續繞開 | [→](memory/2026-09-10-061907-twmd-data-refresh-am.md) |
+| 2026-09-10 | 064000-twmd-spore-harvest-am | 0 OVERDUE 純發布空窗第三天；Browser pane 三度現查 #172/#175 metrics 與留言逐字比對前兩天全數不變，真 plateau；登入態與 2 則 Bucket D 續等哲宇 | 三次不同天一致的現查結果，才把「這是穩態」從單次猜測變成有證據強度的陳述 | [→](memory/2026-09-10-064000-twmd-spore-harvest-am.md) |
