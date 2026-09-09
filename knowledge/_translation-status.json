@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T10:49:42+08:00",
-    "zhCommitHead": "1a76d8fdc",
+    "lastUpdated": "2026-09-09T11:02:26+08:00",
+    "zhCommitHead": "766e984ec",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 650,
-        "stale": 88,
+        "fresh": 651,
+        "stale": 87,
         "metadata_stale": 80,
         "missing": 303,
         "orphan": 0
@@ -19251,18 +19251,16 @@
         "vi": {
           "path": "vi/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:ea05ddc3465f02eb",
-          "sourceBodyHash": "sha256:c1a908bbd971d40d",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
+          "sourceBodyHash": "sha256:50acff1d4627c3c4",
+          "translatedAt": "2026-09-09T03:01:55.488096+00:00",
           "translationLastCommit": "772100f2",
           "translationLastModified": "2026-08-09T11:01:36+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -39145,8 +39143,8 @@
           "sourceContentHash": "sha256:cfeed87bcc86a207",
           "sourceBodyHash": "sha256:761ccd3c7cd0d390",
           "translatedAt": "2026-09-08T15:54:52+08:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "766e984e",
+          "translationLastModified": "2026-09-09T10:49:42+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -39459,8 +39457,8 @@
           "sourceContentHash": "sha256:692645244e391abd",
           "sourceBodyHash": "sha256:28f054608fa81e22",
           "translatedAt": "2026-09-08T15:54:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "766e984e",
+          "translationLastModified": "2026-09-09T10:49:42+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -133009,8 +133007,8 @@
           "sourceContentHash": "sha256:b917cf15071e0f45",
           "sourceBodyHash": "sha256:36a7ca9dd00ad7f0",
           "translatedAt": "2026-09-09T02:49:12.803840+00:00",
-          "translationLastCommit": "f2ca2b0f",
-          "translationLastModified": "2026-07-30T06:52:21+08:00",
+          "translationLastCommit": "766e984e",
+          "translationLastModified": "2026-09-09T10:49:42+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",

@@ -14,7 +14,7 @@ tags:
     'AlphaFold',
   ]
 subcategory: '人工智慧'
-author: 'Taiwan.md 編輯組'
+author: 'Taiwan.md'
 difficulty: 'advanced'
 readingTime: 18
 featured: true
@@ -25,10 +25,10 @@ imageCredit: 'BQUB25-UPoch (own work, AlphaFold + PyMOL)'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png'
 translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:ea05ddc3465f02eb'
-sourceBodyHash: 'sha256:c1a908bbd971d40d'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:15e7aa6f99cf7a84'
+sourceBodyHash: 'sha256:50acff1d4627c3c4'
+translatedAt: '2026-09-09T03:01:55.488096+00:00'
 ---
 
 # Phát triển trí tuệ nhân tạo của Đài Loan và chiến lược tương lai: Tấm vé phần cứng đã lấy, trận chiến kế tiếp sẽ ở đâu
@@ -37,24 +37,22 @@ translatedAt: '2026-08-09T10:41:15+08:00'
 
 ---
 
-## Bốn mươi hai năm được công nhận: Giải Nobel năm 2024 được trao liên tiếp hai ngày
+## 42 năm khẳng định: Hai giải Nobel năm 2024 liên tiếp trao
 
-Sáng ngày 8 tháng 10 năm 2024, Stockholm. Viện Hàn lâm Khoa học Hoàng gia Thụy Điển công bố rằng Giải Nobel Vật lý năm đó sẽ được trao cho hai nhà khoa học AI: Giáo sư Danh dự Princeton John J. Hopfield 91 tuổi, và Geoffrey Hinton 76 tuổi, người vừa rời khỏi Google năm tháng trước. Tiền thưởng 11 triệu crown Thụy Điển, chia đều cho hai người[^1].
+Sáng ngày 8 tháng 10 năm 2024, tại Stockholm. Viện Hàn lâm Khoa học Hoàng gia Thụy Điển đã công bố trao Giải Nobel Vật lý cho hai nhà khoa học AI: Giáo sư danh dự John J. Hopfield (91 tuổi) của Đại học Princeton, và Geoffrey Hinton (76 tuổi), người vừa rời Google cách đây năm tháng[^N1]. Với số tiền thưởng 11 triệu Krona Thụy Điển, cả hai được chia đều[^N1].
 
-Lý do từ Ủy ban tuyên bố là "các phát hiện và phát minh nền tảng giúp kích hoạt học máy với các mạng nơ-ron nhân tạo"[^1]. Đây là lần đầu tiên trong lịch sử Giải Nobel Vật lý trực tiếp đặt giải thưởng vào lĩnh vực mạng nơ-ron.
+Ủy ban xét duyệt lý giải rằng: "Vì những khám phá và phát minh nền tảng thúc đẩy học máy bằng mạng nơ-ron nhân tạo" (for foundational discoveries and inventions that enable machine learning with artificial neural networks)[^N1]. Đây là lần đầu tiên trong lịch sử Giải Nobel Vật lý trực tiếp trao giải cho lĩnh vực mạng thần kinh.
 
-Ngày hôm sau, 9 tháng 10, là Giải Nobel Hóa học. Ba giải thưởng nhận được: David Baker từ Đại học Washington, cộng với hai người từ DeepMind, Demis Hassabis và John Jumper. Baker nhận một nửa tiền thưởng, Hassabis và Jumper chia sẻ nửa còn lại[^2]. Lý do trao giải được chia thành hai phần, phần trước cho công việc của Baker về "thiết kế protein tính toán", phần sau cho công việc của Hassabis và Jumper về "dự đoán cấu trúc protein".
+Ngày hôm sau, ngày 9 tháng 10, là Giải Hóa học. Ba người đoạt giải: David Baker từ Đại học Washington, cùng với hai thành viên của DeepMind là Demis Hassabis và John Jumper. Ông Baker nhận một nửa số tiền thưởng, còn Hassabis và Jumper chia sẻ phần còn lại[^N2]. Lý do trao giải được chia làm hai phần: phần đầu dành cho ông Baker về "thiết kế protein bằng máy tính", và phần sau dành cho Hassabis và Jumper về "dự đoán cấu trúc protein".
 
-Hai ngày, hai giải Nobel, toàn bộ liên quan đến AI. Điều này không có tiền lệ trong lịch sử Giải Nobel.
+Hai ngày, hai giải Nobel, đều liên quan đến AI. Điều này chưa từng có tiền lệ trong lịch sử Giải Nobel.
 
-Hãy so sánh dòng thời gian: Khi Hopfield xuất bản bài báo mang tên "Neural networks and physical systems with emergent collective computational abilities" (Các mạng nơ-ron và hệ thống vật lý có khả năng tính toán tập hợp xuất hiện) trên Tuyên bố Viện Hàn lâm Khoa học Quốc gia Mỹ (PNAS) năm 1982, ông vừa chuyển từ vật lý trạng thái đặc hữu sang thần kinh khoa học[^3]. Từ 1982 đến 2024, chính xác bốn mươi hai năm. Bài báo năm 1986 của Hinton và Rumelhart về thuật toán backpropagation[^4], từ khi công bố đến khi đoạt giải cũng là ba mươi tám năm. AlphaFold từ lần đầu tiên xuất hiện ở CASP13 năm 2018 đến khi đoạt giải Nobel năm 2024, chỉ mất sáu năm.
+Hãy đối chiếu dòng thời gian: Khi Hopfield công bố bài báo mang tên _Neural networks and physical systems with emergent collective computational abilities_ trên Tạp chí Khoa học Quốc gia Hoa Kỳ (PNAS) vào năm 1982, ông vừa chuyển từ vật lý trạng thái rắn sang khoa học thần kinh[^N3]. Từ năm 1982 đến 2024 là trọn vẹn 42 năm. Bài báo năm 1986 của Hinton và Rumelhart về thuật toán lan truyền ngược (backpropagation)[^N4], từ khi công bố đến khi được trao giải cũng mất 38 năm. Còn AlphaFold, chỉ mất 6 năm để từ lần ra mắt đầu tiên tại CASP13 vào năm 2018 cho đến khi nhận Nobel vào năm 2024.
 
-Nói cùng một lúc, hai Giải Nobel được trao vào hai ngày này không phải cho ChatGPT, mà cho một vài bài báo ba, bốn mươi năm trước mà không ai hiểu được. Sự chênh lệch thời gian giữa nghiên cứu cơ bản và ứng dụng công nghiệp luôn là như vậy.
+Rốt cuộc, những người đoạt giải trong hai ngày này không phải là ChatGPT, mà là những bài báo khó hiểu cách đây ba bốn mươi năm. Sự chênh lệch thời gian giữa nghiên cứu cơ bản và ứng dụng công nghiệp vẫn luôn tồn tại như vậy.
 
-![Geoffrey E. Hinton phiên bản chính thức được chụp vào ngày 8 tháng 12 năm 2024 tại Tuần lễ Nobel Stockholm, mặc áo vest đen, tóc trắng, biểu cảm yên tĩnh khi nhìn vào ống kính](/article-images/technology/hinton-nobel-2024.webp)
-_Geoffrey Hinton, Người đoạt Giải Nobel Vật lý 2024, Tuần lễ Nobel Stockholm. Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped).jpg>).\*
-
----
+![Ảnh chân dung chính thức của Geoffrey E. Hinton tại tuần lễ Nobel ở Stockholm vào ngày 8 tháng 12 năm 2024, mặc vest tối màu, tóc bạc, nhìn thẳng vào máy ảnh với vẻ mặt điềm tĩnh](/article-images/technology/hinton-nobel-2024.webp)
+_Geoffrey Hinton, người đoạt Giải Nobel Vật lý năm 2024, tại tuần lễ Nobel ở Stockholm. Ảnh: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Geoffrey%5FE.%5FHinton,%5F2024%5FNobel%5FPrize%5FLaureate%5Fin%5FPhysics%5F(3x4%5Fcropped).jpg>)._
 
 ## Bữa ăn triệu đô tại chợ đêm Ninh Hạ
 
@@ -91,26 +89,24 @@ Vấn đề là: sau khi phần cứng lấy được tấm vé, trận chiến 
 
 ---
 
-## Hopfield 1982: Mô hình bộ nhớ được viết bởi nhà vật lý
+## Hopfield năm 1982: Mô hình trí nhớ do nhà vật lý viết
 
-Năm 1982, nhà vật lý vật lý trạng thái ở Princeton John Hopfield viết một bài báo chỉ có 12 trang với tiêu đề dài: "Neural networks and physical systems with emergent collective computational abilities" (Các mạng nơ-ron và hệ thống vật lý có khả năng tính toán tập hợp xuất hiện), xuất bản trên Tuyên bố Viện Hàn lâm Khoa học Quốc gia Mỹ[^N3].
+Năm 1982, John Hopfield, một nhà vật lý chất rắn tại Princeton, đã viết một bài báo chỉ dày 12 trang với tựa đề dài: 《Neural networks and physical systems with emergent collective computational abilities》[^N3], được công bố trên _Proceedings of the National Academy of Sciences_ (Tạp chí Khoa học Quốc gia Hoa Kỳ) [^N3].
 
-Những gì ông làm, về bản chất, là dịch "bộ nhớ" thành vật lý.
+Điều ông làm về cơ bản là "dịch" khái niệm "trí nhớ" thành vật lý.
 
-Trong vật lý có một thứ gọi là spin glass (kính quay): một đống nguyên tử từ tính mỗi cái có hướng quay, giữa chúng có tương tác lẫn nhau, toàn bộ hệ thống tự phát tìm được một điểm năng lượng thấp nhất. Hopfield đã chuyển khái niệm này sang nơ-ron: hãy tưởng tượng nơ-ron như quay, tưởng tượng cường độ kết nối như tương tác lẫn nhau, toàn bộ mạng sẽ tự phát hội tụ đến trạng thái ổn định "năng lượng thấp nhất"[^N3]. Mỗi "năng lượng thấp nhất" là một bộ nhớ được lưu trữ.
+Trong vật lý có một thứ gọi là spin glass (thủy tinh spin): một tập hợp các nguyên tử từ tính, mỗi nguyên tử có hướng spin riêng và tương tác với nhau, khiến toàn bộ hệ thống tự phát tìm ra điểm năng lượng thấp nhất. Hopfield đã áp dụng khái niệm này vào tế bào thần kinh: coi các tế bào thần kinh như các spin, coi cường độ kết nối như sự tương tác, và toàn bộ mạng lưới sẽ tự thu hội về một trạng thái ổn định tại "giá trị năng lượng cực tiểu" (energy minimum) [^N3]. Mỗi giá trị năng lượng cực tiểu chính là một ký ức được lưu trữ.
 
-Sự tao nhã của mô hình này là nó làm cho bộ nhớ trở thành điều có thể được mô tả bằng ngôn ngữ vật lý. Cho trước một dòng manh mối không hoàn chỉnh, mạng lưới sẽ tự tìm được điểm năng lượng thấp nhất gần nhất, hoàn thành lại toàn bộ bộ nhớ. Đây là tổ tiên toán học của những gì AI tạo sinh đang làm.
+Sự tinh tế của mô hình này nằm ở chỗ nó biến trí nhớ thành thứ có thể được mô tả bằng ngôn ngữ vật lý. Khi được cung cấp các manh mối chưa hoàn chỉnh, mạng lưới sẽ tự tìm ra điểm năng lượng thấp nhất gần nhất để bổ sung lại toàn bộ ký ức đó. Đây chính là tổ tiên toán học của những gì Trí tuệ nhân tạo sinh thành (Generative AI) đang làm ngày nay.
 
-Năm 1982 đó, sự kiện ở Đài Loan là ngành điện tử mới khởi động, TSMC chưa được thành lập. Morris Chang phải đợi đến 1987 mới thành lập công ty sau này sẽ trở thành "núi bảo vệ đất nước" trong 42 năm. Số lần trích dẫn bài báo của Hopfield trên Google Scholar đến năm 2026 đã tích lũy lên hơn hai mươi bảy nghìn lần[^N6].
+Vào năm 1982, Đài Loan vẫn còn ở giai đoạn sơ khai của ngành điện tử và TSMC chưa được thành lập. Ông Trương Trung Mô phải đợi đến năm 1987 mới sáng lập công ty sẽ trở thành "ngọn núi hộ quốc" sau 42 năm. Số lần trích dẫn bài báo của Hopfield trên Google Scholar đã tích lũy hơn hai mươi bảy nghìn lần tính đến năm 2026 [^N6].
 
-Điều thú vị hơn là một câu nói của Hopfield sau này. Ông làm vật lý trạng thái đặc hữu suốt một đời ở Princeton, bước vào khoa học thần kinh được xem là "chơi trội" bởi những đồng nghiệp thời bấy giờ. Cho đến khi danh sách Giải Nobel năm 2024 được công bố, tuổi 91, Viện Hàn lâm Khoa học Hoàng gia Thụy Điển hỏi cảm xúc của ông khi được giải thưởng trong cuộc phỏng vấn qua điện thoại, ông nói mình cảm thấy bất an về "không ai hiểu hoặc kiểm soát hướng đi của AI"[^N7].
+Điều thú vị hơn là lời ông nói sau này. Ông dành cả đời nghiên cứu vật lý chất rắn tại Princeton, và việc chuyển sang khoa học thần kinh bị các đồng nghiệp thời đó coi là "trò giải trí". Cho đến khi danh sách Nobel năm 2024 được công bố, ở tuổi 91, trong một cuộc phỏng vấn qua điện thoại với Viện Hàn lâm Khoa học Hoàng gia Thụy Điển, ông bày tỏ sự lo lắng về "hướng đi của AI mà không ai hiểu hoặc kiểm soát được" [^N7].
 
-Người đã viết nên nền tảng toán học của toàn bộ AI hiện đại, vào ngày lấy cúp, đã nhắc nhở mọi người hãy cẩn thận một chút.
+Người đã viết nên nền tảng toán học cho toàn bộ Trí tuệ nhân tạo hiện đại lại nhắc nhở mọi người cẩn thận vào ngày nhận giải.
 
-![Người chân dung John J. Hopfield vào ngày 8 tháng 12 năm 2024 tại Tuần lễ Nobel Stockholm, mặc áo vest đen, tóc trắng, biểu cảm ổn định](/article-images/technology/hopfield-nobel-2024.webp)
-_John J. Hopfield, Người đoạt Giải Nobel Vật lý 2024, Tuần lễ Nobel Stockholm. Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg).\_
-
----
+![John J. Hopfield 2024 年 12 月 8 日於斯德哥爾摩諾貝爾週受訪人像，深色西裝、白髮、神情沉穩](/article-images/technology/hopfield-nobel-2024.webp)
+_John J. Hopfield, người đoạt giải Nobel Vật lý năm 2024, Tuần lễ Nobel ở Stockholm. Ảnh: Arthur Petron, ngày 08/12/2024. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg).\_
 
 ## Hinton: Bài báo 1986 năm đó, và cảnh báo khi rời Google năm 2023
 
@@ -260,14 +256,12 @@ Bữa ăn chợ đêm Ninh Hạ, là vị trí Đài Loan tích lũy được sa
 
 ## Nguồn hình ảnh
 
-Bài viết này sử dụng 4 bức ảnh thuộc phạm vi công cộng / CC có giấy phép, toàn bộ cache tại `public/article-images/technology/` để tránh hot-link nguồn máy chủ:
+Bài viết sử dụng 4 hình ảnh thuộc phạm vi công cộng / cấp phép CC, tất cả đều được lưu trữ trong `public/article-images/technology/` để tránh liên kết nóng đến máy chủ nguồn:
 
-- [Estructura tridimensional de la proteïna CBLN1 per AlphaFold amb codificació rainbow](https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png) — chủ đề, cấu trúc protein CBLN1 được AlphaFold dự đoán, mã màu cầu vồng từ đầu N→C. Photo: BQUB25-UPoch (own work, AlphaFold + PyMOL), 2025-11-15, CC BY 4.0.
-- [Geoffrey E. Hinton, 2024 Nobel Prize Laureate in Physics (3x4 cropped)](<https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped).jpg>) — inline, chân dung chính thức Hinton tại Tuần lễ Nobel 2024. Photo: Arthur Petron, 2024-12-08, CC BY-SA 4.0.
-- [John J. Hopfield, 2024 Nobel Prize Laureate in Physics 1 (cropped)](<https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg>) — inline, chân dung chính thức Hopfield tại Tuần lễ Nobel 2024. Photo: Arthur Petron, 2024-12-08, CC BY-SA 4.0.
-- [TSMC Fab 5](https://commons.wikimedia.org/wiki/File:TSMC_Fab_5.jpg) — inline, nhà máy Fab 5 TSMC ở Tân Trúc, bối cảnh vật lý của gia công chip AI. Photo: Wikimedia Commons (existing cache).
-
----
+- [Estructura tridimensional de la proteïna CBLN1 per AlphaFold amb codificació rainbow](https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png) — ảnh chính, cấu trúc dự đoán protein CBLN1 của AlphaFold, mã hóa màu rainbow từ đầu N đến C. Ảnh: BQUB25-UPoch (tác phẩm riêng, AlphaFold + PyMOL), 15/11/2025, CC BY 4.0.
+- [Geoffrey E. Hinton, 2024 Nobel Prize Laureate in Physics (3x4 cropped)](<https://commons.wikimedia.org/wiki/File:Geoffrey%5FE.%5FHinton,%5F2024%5FNobel%5FPrize%5FLaureate%5Fin%5FPhysics%5F(3x4%5Fcropped).jpg>) — ảnh nội dung, chân dung chính thức của Geoffrey E. Hinton trong tuần trao giải Nobel 2024. Ảnh: Arthur Petron, 08/12/2024, CC BY-SA 4.0.
+- [John J. Hopfield, 2024 Nobel Prize Laureate in Physics 1 (cropped)](<https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg>) — ảnh nội dung, chân dung chính thức của John J. Hopfield trong tuần trao giải Nobel 2024. Ảnh: Arthur Petron, 08/12/2024, CC BY-SA 4.0.
+- [TSMC Fab 5](https://commons.wikimedia.org/wiki/File:TSMC_Fab_5.jpg) — ảnh nội dung, nhà máy TSMC Fab 5 tại Tân Trúc, hiện trường sản xuất chip AI. Ảnh: Wikimedia Commons (bản sao lưu sẵn có).
 
 ## Tham khảo
 
