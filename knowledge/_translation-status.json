@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T14:03:13+08:00",
-    "zhCommitHead": "3c7df3b0d",
+    "lastUpdated": "2026-09-09T14:27:12+08:00",
+    "zhCommitHead": "0cf9fc3d0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 654,
-        "stale": 86,
+        "fresh": 655,
+        "stale": 85,
         "metadata_stale": 79,
         "missing": 302,
         "orphan": 0
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 777,
+        "fresh": 778,
         "stale": 70,
         "metadata_stale": 17,
-        "missing": 257,
+        "missing": 256,
         "orphan": 0
       },
       "hi": {
@@ -3246,18 +3246,16 @@
         "vi": {
           "path": "vi/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b3",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-09T06:24:42.182989+00:00",
           "translationLastCommit": "e8265091",
           "translationLastModified": "2026-08-09T11:18:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -79276,8 +79274,8 @@
           "sourceContentHash": "sha256:18c213bcb30e6393",
           "sourceBodyHash": "sha256:8f9570ec5e03bedf",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0cf9fc3d",
+          "translationLastModified": "2026-09-09T14:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -132710,8 +132708,8 @@
           "sourceContentHash": "sha256:309501697091bfd3",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0cf9fc3d",
+          "translationLastModified": "2026-09-09T14:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -141312,7 +141310,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/penghu-folk-culture.md",
+          "translatedFrom": "Culture/澎湖民俗文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e71b837d32f8708d",
+          "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
+          "translatedAt": "2026-09-09T11:45:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/penghu-folk-culture.md",
@@ -142868,8 +142877,8 @@
           "sourceContentHash": "sha256:810c670a0d955eec",
           "sourceBodyHash": "sha256:772e1869525f702d",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0cf9fc3d",
+          "translationLastModified": "2026-09-09T14:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -147803,8 +147812,8 @@
           "sourceContentHash": "sha256:76f9feb9b62dd8a1",
           "sourceBodyHash": "sha256:b0016f60e7fc31e0",
           "translatedAt": "2026-09-09T11:45:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0cf9fc3d",
+          "translationLastModified": "2026-09-09T14:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
