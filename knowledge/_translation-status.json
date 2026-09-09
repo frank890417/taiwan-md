@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T03:35:49+08:00",
-    "zhCommitHead": "3485d2114",
+    "lastUpdated": "2026-09-10T04:57:19+08:00",
+    "zhCommitHead": "5aa69bd8c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 797,
+        "fresh": 798,
         "stale": 80,
-        "metadata_stale": 22,
+        "metadata_stale": 21,
         "missing": 222,
         "orphan": 0
       },
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 679,
+        "fresh": 680,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 281,
+        "missing": 280,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 784,
+        "fresh": 785,
         "stale": 67,
         "metadata_stale": 16,
-        "missing": 254,
+        "missing": 253,
         "orphan": 0
       },
       "hi": {
@@ -92,26 +92,26 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 713,
+        "fresh": 714,
         "stale": 46,
         "metadata_stale": 15,
-        "missing": 347,
+        "missing": 346,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 751,
+        "fresh": 752,
         "stale": 42,
         "metadata_stale": 12,
-        "missing": 316,
+        "missing": 315,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 141,
+        "fresh": 142,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 973,
+        "missing": 972,
         "orphan": 0
       }
     },
@@ -8383,7 +8383,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/pinkoi.md",
+          "translatedFrom": "Economy/Pinkoi.md",
+          "sourceCommitSha": "bd1fd7a91",
+          "sourceContentHash": "sha256:dadf1d689c0dbe2c",
+          "sourceBodyHash": "sha256:2a507ef221850519",
+          "translatedAt": "2026-09-10T03:36:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -8392,7 +8403,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/pinkoi.md",
+          "translatedFrom": "Economy/Pinkoi.md",
+          "sourceCommitSha": "bd1fd7a91",
+          "sourceContentHash": "sha256:dadf1d689c0dbe2c",
+          "sourceBodyHash": "sha256:2a507ef221850519",
+          "translatedAt": "2026-09-10T03:36:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -36380,7 +36402,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-hairstyles.md",
+          "translatedFrom": "Lifestyle/台灣髮型介紹.md",
+          "sourceCommitSha": "490742919",
+          "sourceContentHash": "sha256:f7d7ed191773a287",
+          "sourceBodyHash": "sha256:2b50ba6e77e00416",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -71451,7 +71484,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/lai-ching-te.md",
+          "translatedFrom": "People/賴清德.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:e9ba487782481314",
+          "sourceBodyHash": "sha256:7455a72c92fc69c9",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/lai-ching-te.md",
@@ -79648,7 +79692,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-10T03:36:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/tgop.md",
@@ -98075,8 +98130,8 @@
           "sourceContentHash": "sha256:834d66de28d359a5",
           "sourceBodyHash": "sha256:45ab5eeee03419d3",
           "translatedAt": "2026-09-09T11:46:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5aa69bd8",
+          "translationLastModified": "2026-09-10T03:35:49+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -131379,18 +131434,16 @@
         "en": {
           "path": "en/Geography/new-taipei-city.md",
           "translatedFrom": "Geography/新北市.md",
-          "sourceCommitSha": "4aa49c873",
-          "sourceContentHash": "sha256:112ba1c658fb3b9a",
-          "sourceBodyHash": "sha256:8f043620c961da1e",
-          "translatedAt": "2026-05-19T05:08:06+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7893a2743008a706",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T19:36:57.724782+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+18 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/new-taipei-city.md",
@@ -138751,8 +138804,8 @@
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
           "translatedAt": "2026-09-09T11:46:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5aa69bd8",
+          "translationLastModified": "2026-09-10T03:35:49+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
