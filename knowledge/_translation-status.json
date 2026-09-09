@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T13:04:10+08:00",
-    "zhCommitHead": "757966d3f",
+    "lastUpdated": "2026-09-09T13:48:50+08:00",
+    "zhCommitHead": "8b62536f6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 757,
-        "stale": 97,
+        "fresh": 758,
+        "stale": 96,
         "metadata_stale": 34,
         "missing": 233,
         "orphan": 0
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 789,
-        "stale": 81,
+        "fresh": 790,
+        "stale": 80,
         "metadata_stale": 24,
         "missing": 227,
         "orphan": 0
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 652,
+        "fresh": 654,
         "stale": 86,
-        "metadata_stale": 80,
-        "missing": 303,
+        "metadata_stale": 79,
+        "missing": 302,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 562,
+        "fresh": 563,
         "stale": 50,
         "metadata_stale": 11,
-        "missing": 498,
+        "missing": 497,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 642,
+        "fresh": 643,
         "stale": 39,
         "metadata_stale": 11,
-        "missing": 429,
+        "missing": 428,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 706,
-        "stale": 48,
+        "fresh": 709,
+        "stale": 47,
         "metadata_stale": 15,
-        "missing": 352,
+        "missing": 350,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 121,
+        "fresh": 125,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 992,
+        "missing": 988,
         "orphan": 0
       }
     },
@@ -2732,8 +2732,8 @@
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
           "translatedAt": "2026-09-08T15:54:42+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "8b62536f",
+          "translationLastModified": "2026-09-09T13:04:10+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -16261,7 +16261,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-machine-tool-industry.md",
+          "translatedFrom": "Economy/台灣機械工具產業.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:74fc634acab51c40",
+          "sourceBodyHash": "sha256:f5ecba58cc661bc1",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -20942,7 +20953,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/chuanqi-net-and-taiwan-online-gaming.md",
+          "translatedFrom": "Technology/傳奇網路與台灣線上遊戲出海.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:fc8499d85802cbbd",
+          "sourceBodyHash": "sha256:04d95f993c4d6e33",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/chuanqi-net-and-taiwan-online-gaming.md",
@@ -52692,18 +52714,16 @@
         "ja": {
           "path": "ja/Society/taiwan-yuelao-matchmaker-map.md",
           "translatedFrom": "Society/台灣月老地圖.md",
-          "sourceCommitSha": "35f2a4dfb",
-          "sourceContentHash": "sha256:21d6ff8612c673fa",
-          "sourceBodyHash": "sha256:dcf98783ab9b2c72",
-          "translatedAt": "2026-05-26T05:10:57+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:0bd3cef2eb38faed",
+          "sourceBodyHash": "sha256:b139705eca5e1f54",
+          "translatedAt": "2026-09-09T11:45:50+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+34 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-yuelao-matchmaker-map.md",
@@ -71939,7 +71959,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/hsiao-bi-khim.md",
+          "translatedFrom": "People/蕭美琴.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:f272f267160332e7",
+          "sourceBodyHash": "sha256:3d2acfec22ab6d95",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -77480,18 +77511,16 @@
         "ar": {
           "path": "ar/People/zun.md",
           "translatedFrom": "People/尊.md",
-          "sourceCommitSha": "16c428cd9",
-          "sourceContentHash": "sha256:94b77718dfa4da62",
-          "sourceBodyHash": "sha256:5579d8d02a3f58ac",
-          "translatedAt": "2026-07-27T04:27:41+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:6c850ed56b9fd45a",
+          "sourceBodyHash": "sha256:f9ebc993a34e1749",
+          "translatedAt": "2026-09-09T05:26:49.479943+00:00",
           "translationLastCommit": "17592081",
           "translationLastModified": "2026-07-27T04:56:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/zun.md",
@@ -79267,7 +79296,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -87968,16 +88008,16 @@
         "es": {
           "path": "es/People/yang-chuan-kwang-asian-iron-man.md",
           "translatedFrom": "People/楊傳廣.md",
-          "sourceCommitSha": "0f8fae0a",
-          "sourceContentHash": "sha256:f8a43ac4f3c5c945",
-          "sourceBodyHash": "sha256:564dbfac81e16aa7",
-          "translatedAt": "2026-05-26T21:07:27Z",
+          "sourceCommitSha": "8d0c4a70d",
+          "sourceContentHash": "sha256:3f102f565e503ad8",
+          "sourceBodyHash": "sha256:b14c332dbd93a4eb",
+          "translatedAt": "2026-09-09T05:45:43.143921+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (6→5)"
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/yang-chuan-kwang-asian-iron-man.md",
@@ -108429,8 +108469,8 @@
           "sourceContentHash": "sha256:5dc9bb02298749c4",
           "sourceBodyHash": "sha256:3ca2a02845451f2c",
           "translatedAt": "2026-09-09T11:45:53+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "8b62536f",
+          "translationLastModified": "2026-09-09T13:04:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -122284,7 +122324,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/wu-feng-legend.md",
+          "translatedFrom": "History/吳鳳傳說.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d742f8951718669a",
+          "sourceBodyHash": "sha256:c8f9abbde98738f2",
+          "translatedAt": "2026-09-09T11:46:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/wu-feng-legend.md",
@@ -129621,7 +129672,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-09T11:46:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/taoyuan-ponds.md",
@@ -129638,7 +129700,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -132637,7 +132710,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/yushan-weather-station.md",
+          "translatedFrom": "Geography/玉山氣象站.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:309501697091bfd3",
+          "sourceBodyHash": "sha256:522eab501e4df7fe",
+          "translatedAt": "2026-09-09T11:45:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -141191,18 +141275,16 @@
         "vi": {
           "path": "vi/Culture/penghu-folk-culture.md",
           "translatedFrom": "Culture/澎湖民俗文化.md",
-          "sourceCommitSha": "e004fac37",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:e71b837d32f8708d",
           "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
-          "translatedAt": "2026-08-09T08:07:25+08:00",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
           "translationLastCommit": "68ff840a",
           "translationLastModified": "2026-08-09T08:59:47+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -142758,7 +142840,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/hsinchu-city-god-temple.md",
+          "translatedFrom": "Culture/新竹都城隍廟.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:810c670a0d955eec",
+          "sourceBodyHash": "sha256:772e1869525f702d",
+          "translatedAt": "2026-09-09T11:45:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/hsinchu-city-god-temple.md",
