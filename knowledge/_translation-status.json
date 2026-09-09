@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T07:10:38+08:00",
-    "zhCommitHead": "122dcac92",
+    "lastUpdated": "2026-09-10T07:12:42+08:00",
+    "zhCommitHead": "e7db2157b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 682,
+        "fresh": 683,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 278,
+        "missing": 277,
         "orphan": 0
       },
       "id": {
@@ -75762,7 +75762,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/stan-lai-theater-innovation-master.md",
+          "translatedFrom": "People/賴聲川.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:171a521ab055d1cf",
+          "sourceBodyHash": "sha256:eb36a190f4b7ada8",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -142178,8 +142189,8 @@
           "sourceContentHash": "sha256:e71b837d32f8708d",
           "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e7db2157",
+          "translationLastModified": "2026-09-10T07:10:38+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -145499,8 +145510,8 @@
           "sourceContentHash": "sha256:eec4f271a84a1f94",
           "sourceBodyHash": "sha256:8e1b986c4cf0a1f3",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e7db2157",
+          "translationLastModified": "2026-09-10T07:10:38+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -149998,8 +150009,8 @@
           "sourceContentHash": "sha256:4e7bd6002d83c43b",
           "sourceBodyHash": "sha256:0f6781254171f7ba",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e7db2157",
+          "translationLastModified": "2026-09-10T07:10:38+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -150558,8 +150569,8 @@
           "sourceContentHash": "sha256:c4dd3375c0cfa0a5",
           "sourceBodyHash": "sha256:a20df4f3c36414b3",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e7db2157",
+          "translationLastModified": "2026-09-10T07:10:38+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
