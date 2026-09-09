@@ -25,6 +25,8 @@
 
 結論：真 plateau，非漏檢的假 plateau——三個連續 cycle（09-08 / 09-09 / 09-10）的 `backfillWarnings` 空陣列訊號跟逐條現查結果一致，沒有分歧。Bucket B 兩則已 draft 好的回覆（lochichi77「行」/ liasnic「乾貨」）仍卡在登入態，未 ship，無需重新分類。
 
+**本班收割總計**：0 spores harvested（既有 176 筆皆已越過 D+1-D+7 窗口，非新孢子）；bucket breakdown 延續前次無變動（A/C 0、B 2 draft-not-shipped、D 2 pending-哲宇、E/F 多則不需逐條回覆）；factual fixes 0（無新 Bucket A/C callout）；reply ship 嘗試 0 次（登入不可用，Pitfall 6 duplicate-ship retry 計數 = 0/N/A，不適用本班）。
+
 ## 收官 checklist
 
 | 檢查項                       | 狀態                                                                   |
