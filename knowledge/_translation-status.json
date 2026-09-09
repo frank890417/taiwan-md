@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T18:43:27+08:00",
-    "zhCommitHead": "cb1e76ef2",
+    "lastUpdated": "2026-09-09T18:59:25+08:00",
+    "zhCommitHead": "487853a5b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 794,
+        "fresh": 795,
         "stale": 80,
         "metadata_stale": 22,
-        "missing": 225,
+        "missing": 224,
         "orphan": 0
       },
       "ja": {
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 788,
+        "fresh": 789,
         "stale": 83,
-        "metadata_stale": 24,
+        "metadata_stale": 23,
         "missing": 226,
         "orphan": 0
       },
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 568,
+        "fresh": 569,
         "stale": 50,
         "metadata_stale": 11,
-        "missing": 492,
+        "missing": 491,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 132,
+        "fresh": 133,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 981,
+        "missing": 980,
         "orphan": 0
       }
     },
@@ -12437,7 +12437,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-09T11:45:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -62327,8 +62338,8 @@
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
           "translatedAt": "2026-09-09T11:45:51+08:00",
-          "translationLastCommit": "6631c004",
-          "translationLastModified": "2026-08-04T15:27:38+08:00",
+          "translationLastCommit": "487853a5",
+          "translationLastModified": "2026-09-09T18:43:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -82553,7 +82564,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chi-huey-wong-glycoscience-pioneer.md",
+          "translatedFrom": "People/翁啟惠.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:984fef279b1af05b",
+          "sourceBodyHash": "sha256:8e4d8fb8704570d2",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -120701,7 +120723,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/rover-incident-and-tauketok.md",
+          "translatedFrom": "History/羅發號事件與卓杞篤.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4e90be2fbc74d7ed",
+          "sourceBodyHash": "sha256:38c21c047f01bdbf",
+          "translatedAt": "2026-09-09T11:45:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/rover-incident-and-tauketok.md",
@@ -128256,8 +128289,8 @@
           "sourceContentHash": "sha256:1b50bc175ecf61ab",
           "sourceBodyHash": "sha256:e725ecac1936b5cf",
           "translatedAt": "2026-09-09T11:45:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "487853a5",
+          "translationLastModified": "2026-09-09T18:43:28+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -138883,18 +138916,16 @@
         "fr": {
           "path": "fr/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-26T03:41:21+08:00",
+          "translatedAt": "2026-09-09T11:45:53+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/taichung-city.md",
