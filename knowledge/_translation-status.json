@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T07:12:42+08:00",
-    "zhCommitHead": "e7db2157b",
+    "lastUpdated": "2026-09-10T07:51:53+08:00",
+    "zhCommitHead": "afed9e4bd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 683,
+        "fresh": 685,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 277,
+        "missing": 275,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 578,
+        "fresh": 579,
         "stale": 49,
         "metadata_stale": 11,
-        "missing": 483,
+        "missing": 482,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 146,
+        "fresh": 149,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 968,
+        "missing": 965,
         "orphan": 0
       }
     },
@@ -6180,8 +6180,8 @@
           "sourceContentHash": "sha256:727a76c702d55980",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T21:20:05.288914+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "075478e6",
+          "translationLastModified": "2026-09-10T07:12:42+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -11925,7 +11925,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/taiwan-cement-taipower-green-transformation.md",
+          "translatedFrom": "Economy/台灣企業：台泥.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:d4462b5c55abd9d2",
+          "sourceBodyHash": "sha256:144f62335cbc632a",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -40194,7 +40205,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/breakfast-shops-and-community-intelligence-network.md",
+          "translatedFrom": "Society/早餐店阿姨與社區情報網.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:8f83fb416bf59624",
+          "sourceBodyHash": "sha256:0bb238f02b9daa64",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/breakfast-shops-and-community-intelligence-network.md",
@@ -71523,8 +71545,8 @@
           "sourceContentHash": "sha256:e9ba487782481314",
           "sourceBodyHash": "sha256:7455a72c92fc69c9",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "075478e6",
+          "translationLastModified": "2026-09-10T07:12:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -75768,8 +75790,8 @@
           "sourceContentHash": "sha256:171a521ab055d1cf",
           "sourceBodyHash": "sha256:eb36a190f4b7ada8",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "075478e6",
+          "translationLastModified": "2026-09-10T07:12:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -79077,7 +79099,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/momofuku-ando-instant-noodle-inventor.md",
+          "translatedFrom": "People/吳百福.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1b59d09fec786013",
+          "sourceBodyHash": "sha256:3e07cf6a17af5d88",
+          "translatedAt": "2026-09-10T03:36:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/momofuku-ando-instant-noodle-inventor.md",
@@ -132041,8 +132074,8 @@
           "sourceContentHash": "sha256:fd5b44b607710000",
           "sourceBodyHash": "sha256:b019853dd2be5b1d",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "075478e6",
+          "translationLastModified": "2026-09-10T07:12:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -146534,7 +146567,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/indigenous-language-revitalization-movement.md",
+          "translatedFrom": "Culture/台灣原住民語言復振運動.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9c408bfc603af1d1",
+          "sourceBodyHash": "sha256:f60b7a2b3f864e75",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -149456,7 +149500,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-mandarin-evolution.md",
+          "translatedFrom": "Culture/台灣華語的演化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2b37211d946c848c",
+          "sourceBodyHash": "sha256:0b62bbb2f4c7cd6b",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -153907,7 +153962,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/jiutian-xuannu-belief.md",
+          "translatedFrom": "Culture/九天玄女信仰.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1910ee0829efda65",
+          "sourceBodyHash": "sha256:def52197e717a6f7",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
