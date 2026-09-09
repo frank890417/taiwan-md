@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T16:26:54+08:00",
-    "zhCommitHead": "4603fab90",
+    "lastUpdated": "2026-09-09T16:38:54+08:00",
+    "zhCommitHead": "2559320aa",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 710,
+        "fresh": 711,
         "stale": 47,
         "metadata_stale": 15,
-        "missing": 349,
+        "missing": 348,
         "orphan": 0
       },
       "ru": {
@@ -79309,8 +79309,8 @@
           "sourceContentHash": "sha256:36208e14ce1c380c",
           "sourceBodyHash": "sha256:5eb269f5e4d722c4",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2559320a",
+          "translationLastModified": "2026-09-09T16:26:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -82106,8 +82106,8 @@
           "sourceContentHash": "sha256:890dbecd669ee83c",
           "sourceBodyHash": "sha256:480fe5c7e2becbe9",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2559320a",
+          "translationLastModified": "2026-09-09T16:26:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -83871,7 +83871,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/mona-rudao.md",
+          "translatedFrom": "People/莫那·魯道.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T08:22:05.975465+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/mona-rudao.md",
@@ -92415,8 +92426,8 @@
           "sourceContentHash": "sha256:8351d05a79dba790",
           "sourceBodyHash": "sha256:f76990887dfd2b78",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2559320a",
+          "translationLastModified": "2026-09-09T16:26:54+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
