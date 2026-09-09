@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T10:26:21+08:00",
-    "zhCommitHead": "98448fe09",
+    "lastUpdated": "2026-09-09T10:31:34+08:00",
+    "zhCommitHead": "b4a3d2c04",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 119,
+        "fresh": 120,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 994,
+        "missing": 993,
         "orphan": 0
       }
     },
@@ -25421,7 +25421,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/mini-taiwan-pulse-civic-tech.md",
+          "translatedFrom": "Technology/mini-taiwan-pulse.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:7704f0ba39f9bad2",
+          "sourceBodyHash": "sha256:953746868edc36a0",
+          "translatedAt": "2026-09-08T15:54:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -127821,8 +127832,8 @@
           "sourceContentHash": "sha256:1b50bc175ecf61ab",
           "sourceBodyHash": "sha256:e725ecac1936b5cf",
           "translatedAt": "2026-09-08T15:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b4a3d2c0",
+          "translationLastModified": "2026-09-09T10:26:21+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -133362,8 +133373,8 @@
           "sourceContentHash": "sha256:5b1e9a773d6dbaca",
           "sourceBodyHash": "sha256:c9f1ea2022062b04",
           "translatedAt": "2026-09-08T15:54:33+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "b4a3d2c0",
+          "translationLastModified": "2026-09-09T10:26:21+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
