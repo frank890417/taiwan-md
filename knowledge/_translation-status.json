@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T22:04:22+08:00",
-    "zhCommitHead": "3b118896d",
+    "lastUpdated": "2026-09-09T22:07:10+08:00",
+    "zhCommitHead": "ad702cdb8",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 136,
+        "fresh": 137,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 978,
+        "missing": 977,
         "orphan": 0
       }
     },
@@ -43634,8 +43634,8 @@
           "sourceContentHash": "sha256:c4441b48a65d0629",
           "sourceBodyHash": "sha256:8f8b961fdb887c42",
           "translatedAt": "2026-09-09T11:45:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ad702cdb",
+          "translationLastModified": "2026-09-09T22:04:23+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -139116,8 +139116,8 @@
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
           "translatedAt": "2026-09-09T11:45:59+08:00",
-          "translationLastCommit": "75479a4e",
-          "translationLastModified": "2026-08-14T10:41:04+08:00",
+          "translationLastCommit": "ad702cdb",
+          "translationLastModified": "2026-09-09T22:04:23+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -139154,7 +139154,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taichung-city.md",
+          "translatedFrom": "Geography/台中市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e6912f140d4ddcf3",
+          "sourceBodyHash": "sha256:3039a7c79e8554d9",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -139436,8 +139447,8 @@
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
           "translatedAt": "2026-09-09T11:45:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ad702cdb",
+          "translationLastModified": "2026-09-09T22:04:23+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",

@@ -3,16 +3,25 @@ title: 'Chen Shu-chu: Eine Gemüseverkäuferin aus Taitung, die mit fünfzig Jah
 description: 'Eine Gemüseverkäuferin aus Taitung hat mit fünfzig Jahren Einnahmen aus dem Gemüseverkauf zig Millionen NT$ gespendet und sagt dennoch: „Ich bin eben nur eine Gemüseverkäuferin.“'
 date: 2026-03-19
 category: 'People'
+tags:
+  [
+    'Wohltätigkeit',
+    'Taitung',
+    'Gemüseverkäuferin',
+    'TIME Magazine',
+    'Ramon-Magsaysay-Preis',
+    'Bildungsspenden',
+  ]
 subcategory: '慈善與社會'
-tags: ['Wohltätigkeit', 'Taitung', 'Gemüseverkäuferin', 'TIME Magazine', 'Ramon-Magsaysay-Preis', 'Bildungsspenden']
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:360441c78c4500d7'
-translatedAt: '2026-08-19T04:30:30+08:00'
+sourceCommitSha: '2344309a0'
+sourceContentHash: 'sha256:2acd1adc35abda8a'
+sourceBodyHash: 'sha256:0e9eced4546d8cba'
+translatedAt: '2026-09-09T12:53:13.128443+00:00'
 ---
 
 # Chen Shu-chu: Eine Gemüseverkäuferin aus Taitung, die mit fünfzig Jahren Einnahmen aus dem Gemüseverkauf zig Millionen NT$ spendete
@@ -83,11 +92,11 @@ Die tiefere Frage lautet: Warum tut eine Gemüseverkäuferin das? Ihre Antwort h
 
 2025 verlieh ihr die National Taitung University die Ehrendoktorwürde. Sie trat ans Rednerpult und sagte: „Danke, dass ihr es nicht verschmäht habt, dass ich am Straßenrand am Marktstand Gemüse verkaufe.“[^13]
 
-## Weiterführende Lektüre
+## Weiterführende Lesestoffe
 
-- [Zentralmarkt Taitung](/lifestyle/台東市集) — der Ort von Chen Shu-chus fünfzigjährigem Gemüsestand, ein repräsentatives Feld der Alltagsökonomie Taitungs
-- [Taiwanesische Wohltätigkeitskultur](/society/台灣慈善文化) — vom Tzu-Chi von Meisterin Cheng Yen bis zur Gemüseverkäuferin Chen Shu-chu: zwei Muster der privaten Wohltätigkeit Taiwans
-- [Bildung im ländlichen Taiwan](/society/台灣偏鄉教育) — die Hauptflüsse von Chen Shu-chus Spenden über die Jahre: Bibliotheken, Schulen, Waisenhäuser als langfristige Unterstützung
+- [Taiwanische Markt-, Kultur- und Traditionsmärkte](/lifestyle/台灣市場文化與傳統市場) — Chen Shu-chu, die seit fünfzig Jahren auf dem Markt steht, lebt in diesem Ökosystem der traditionellen Märkte.
+- [Ehrenamtliche Kultur und gemeinnützige Beteiligung in Taiwan](/society/台灣志工文化與公益參與) — Von Tzu Chi unter Meister Cheng Yen bis zu Chen Shu-chu am Gemüsemarkt: Zwei Proben des bürgerschaftlichen Engagements in Taiwan.
+- [Bildung in ländlichen Gebieten Taiwans](/society/台灣偏鄉教育) — Die Hauptempfänger der Spenden von Chen Shu-chu über die Jahre: Der langfristige Unterstützungsfaden für Bibliotheken, Schulen und Waisenhäuser.
 
 ## Referenzen
 
