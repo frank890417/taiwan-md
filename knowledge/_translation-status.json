@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T01:47:53+08:00",
-    "zhCommitHead": "b0adcbfa3",
+    "lastUpdated": "2026-09-10T02:51:47+08:00",
+    "zhCommitHead": "5e7550857",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 796,
+        "fresh": 797,
         "stale": 80,
         "metadata_stale": 22,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "ja": {
@@ -44,17 +44,17 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 794,
-        "stale": 80,
+        "fresh": 795,
+        "stale": 79,
         "metadata_stale": 20,
         "missing": 227,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 794,
+        "fresh": 795,
         "stale": 81,
-        "metadata_stale": 22,
+        "metadata_stale": 21,
         "missing": 224,
         "orphan": 0
       },
@@ -68,16 +68,16 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 575,
+        "fresh": 576,
         "stale": 49,
         "metadata_stale": 11,
-        "missing": 486,
+        "missing": 485,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 783,
-        "stale": 68,
+        "fresh": 784,
+        "stale": 67,
         "metadata_stale": 16,
         "missing": 254,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 139,
+        "fresh": 141,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 975,
+        "missing": 973,
         "orphan": 0
       }
     },
@@ -3285,18 +3285,16 @@
         "pt": {
           "path": "pt/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b3",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
-          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-09T18:51:18.273176+00:00",
           "translationLastCommit": "fff70d37",
           "translationLastModified": "2026-08-02T01:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/megaport-festival.md",
@@ -18809,18 +18807,16 @@
         "es": {
           "path": "es/Technology/taiwan-bim-construction-tech.md",
           "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:5500ed1d9d4e0f85",
-          "sourceBodyHash": "sha256:6207b1decb9dcfc4",
-          "translatedAt": "2026-06-16T16:54:57Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:f8b3c2310e7fb840",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T17:45:49.715842+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+15 -15"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/taiwan-bim-construction-tech.md",
@@ -53062,8 +53058,8 @@
           "sourceContentHash": "sha256:0bd3cef2eb38faed",
           "sourceBodyHash": "sha256:b139705eca5e1f54",
           "translatedAt": "2026-09-09T11:45:53+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "5e755085",
+          "translationLastModified": "2026-09-10T01:47:53+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -83695,7 +83691,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/freddy-lim.md",
+          "translatedFrom": "People/林昶佐.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:685b3a0c30829488",
+          "sourceBodyHash": "sha256:dfd669296348affb",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -84071,18 +84078,16 @@
         "fr": {
           "path": "fr/People/mona-rudao.md",
           "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "d5ca846b6",
-          "sourceContentHash": "sha256:a925dd382d90f176",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-07-27T06:47:50+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T18:21:24.237376+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/mona-rudao.md",
@@ -103063,7 +103068,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/chang-chung-jen-chung-i-twins.md",
+          "translatedFrom": "People/張忠仁與張忠義.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:be170ef9f4f5cc61",
+          "sourceBodyHash": "sha256:d6a7dab1ca8fcb0c",
+          "translatedAt": "2026-09-09T11:45:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -110187,8 +110203,8 @@
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
           "translatedAt": "2026-09-09T11:45:53+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "5e755085",
+          "translationLastModified": "2026-09-10T01:47:53+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -128457,8 +128473,8 @@
           "sourceContentHash": "sha256:1b50bc175ecf61ab",
           "sourceBodyHash": "sha256:e725ecac1936b5cf",
           "translatedAt": "2026-09-09T11:45:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e755085",
+          "translationLastModified": "2026-09-10T01:47:53+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -133241,8 +133257,8 @@
           "sourceContentHash": "sha256:309501697091bfd3",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-09T11:45:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e755085",
+          "translationLastModified": "2026-09-10T01:47:53+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -137853,7 +137869,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/nantou-county.md",
+          "translatedFrom": "Geography/南投縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3e20b5d7cae61e95",
+          "sourceBodyHash": "sha256:b09f70f5d82caaa2",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -139561,7 +139588,18 @@
           "diffSummary": "+1 -4"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/tainan-city.md",
+          "translatedFrom": "Geography/台南市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:a92ec79c444536b4",
+          "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
+          "translatedAt": "2026-09-09T11:45:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/tainan-city.md",

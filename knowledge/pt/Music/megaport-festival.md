@@ -20,28 +20,30 @@ canonical-order: 999
 lastVerified: 2026-07-10
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/大港開唱-outline.md'
-image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
+image: '/article-images/music/megaport-festival-2025-namba-stage.webp'
 imageCredit: 'Xi.you 1010.2008 / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
 rationale: "{'why_this_hook': '以高雄港邊的場域與台灣聽團文化切入，避免寫成林昶佐或閃靈的附屬段落。', 'whats_excluded': '完整歷年卡司表、售票爭議細節、所有停辦與復辦年份的財務脈絡，留待後續深稿補強。', 'where_it_hedges': '售票紀錄與停辦爭議採媒體與官方可查來源；未完整交叉驗證的細節不寫入正文主軸。', 'whos_pushing_back': '把大港視為政治色彩過重者、只把它當大型娛樂活動者、期待完整音樂產業營運分析的讀者。'}"
 translatedFrom: 'Music/大港開唱.md'
-sourceCommitSha: '717a640b3'
-sourceContentHash: 'sha256:2cde586b88469ed9'
-sourceBodyHash: 'sha256:db05dfd8f23d6ee9'
-translatedAt: '2026-08-01T23:08:39+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:ded0e72872765bab'
+sourceBodyHash: 'sha256:1dd7ff6902b5f09f'
+translatedAt: '2026-09-09T18:51:18.273176+00:00'
 ---
 
-![Palco Nanbaitian do Megaport Festival 2025, luzes e multidão voltados para o grande palco à beira do porto de Kaohsiung.](https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)
-_Palco Nanbaitian do Megaport Festival 2025. Foto: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
+# Megaport Festival: O festival de música taiwanês que nasceu no porto de Kaohsiung
 
-> **Resumo em 30 segundos:** O Megaport Festival é um grande festival de música ao ar livre fundado em 2006 à beira do porto de Kaohsiung. Surgiu da experiência da equipa do Formoz Festival, impulsionado inicialmente por Freddy Lim, Doris Yeh e a equipa da TRA Music, e depois passado para as equipas de Doris e Dani Wang. O Megaport reúne bandas do sul de Taiwan, a paisagem portuária, apresentações em taiwanês, atrações internacionais, a memória pop de Taiwan e a aldeia de ONGs, transformando dois dias de espetáculos na forma de uma cidade se reimaginar através do som.
+![Palco do Megaport Festival Namba em 2025, um grande palco com luzes e multidão voltado para o porto de Kaohsiung.](/article-images/music/megaport-festival-2025-namba-stage.webp)
+_Palco do Megaport Festival Namba em 2025. Foto: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
+
+> **Visão geral de 30 segundos:** O Megaport Festival é um grande festival de música ao ar livre fundado no porto de Kaohsiung em 2006. Ele se desenvolveu a partir da experiência do grupo Wild Stage (野台開唱), inicialmente impulsionado por Lin Chang-chua, Doris Yeh e o grupo TRA Music, e posteriormente assumido por grupos como Doris e Dani Wang-tsai. O Megaport reúne bandas do sul de Taiwan, paisagens portuárias, dialeto taiwanês ao vivo, artistas internacionais, memórias pop de Taiwan e temas de ONGs, transformando dois dias de apresentações em uma forma de a cidade se reimaginar através do som.
 
 ---
 
-Em 2006, o Pier-2 de Kaohsiung acabara de se transformar de armazéns portuários em distrito de arte; nem o metro nem o metro ligeiro ainda ligavam a beira do porto ao quotidiano da cidade.
+Em 2006, o Pier Park de Kaohsiung estava apenas passando da transformação de armazéns portuários para uma área artística, e nem o metrô nem o trem leve haviam integrado a área portuária ao cotidiano urbano.
 
-O Megaport Festival estreou naquele outono, nos cais 11 e 12 do porto de Kaohsiung. A página oficial HISTORY recorda que a primeira edição tinha apenas três palcos: "Nanbaitian", "Hailongwang" e "Fengyong"; o alinhamento incluía Sweetme, Cheer Chen, Jeannie Hsieh, Fire EX., Mint, Tizzy Bac, e do Japão, envy e YURA YURA TEIKOKU. Esse cartaz colocou bandas independentes de Taiwan, sons underground japoneses, a memória pop em taiwanês e a beira do porto de Kaohsiung no mesmo fim de semana.[^1]
+O Megaport Festival estreou em Outono daquele ano, na doca 11 e 12 do porto de Kaohsiung. A página oficial HISTORY recorda que, na primeira edição, havia apenas três palcos: "Namba Tian", "Hai Long Wang" e "Feng Yong"; a lista de apresentações incluía Sweetmeihao (甜梅號), Chen Qizhen, Hsieh Jin-yen, Fire Extinguisher, Mint Leaf, Tizzy Bac, além das bandas japonesas envy e YURA YURA TEIKOKU. Este cardápio reuniu bandas independentes de Taiwan, sons underground do Japão, memórias pop em dialeto taiwanês e a área portuária de Kaohsiung no mesmo fim de semana.[^1]
 
 ## O sul não é decoração
 
