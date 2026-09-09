@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T14:56:17+08:00",
-    "zhCommitHead": "63610dd13",
+    "lastUpdated": "2026-09-09T16:13:37+08:00",
+    "zhCommitHead": "e7295ebab",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 790,
+        "fresh": 791,
         "stale": 80,
-        "metadata_stale": 24,
+        "metadata_stale": 23,
         "missing": 227,
         "orphan": 0
       },
@@ -60,34 +60,34 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 656,
+        "fresh": 659,
         "stale": 85,
         "metadata_stale": 79,
-        "missing": 301,
+        "missing": 298,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 565,
+        "fresh": 566,
         "stale": 50,
         "metadata_stale": 11,
-        "missing": 495,
+        "missing": 494,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 778,
+        "fresh": 779,
         "stale": 70,
         "metadata_stale": 17,
-        "missing": 256,
+        "missing": 255,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 644,
+        "fresh": 646,
         "stale": 39,
         "metadata_stale": 11,
-        "missing": 427,
+        "missing": 425,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 127,
+        "fresh": 128,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 986,
+        "missing": 985,
         "orphan": 0
       }
     },
@@ -4768,7 +4768,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/taiwan-music-festival-culture.md",
+          "translatedFrom": "Music/台灣音樂祭文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:05a94f16d833d02e",
+          "sourceBodyHash": "sha256:7c772c535d0e1d4c",
+          "translatedAt": "2026-09-09T11:45:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/taiwan-music-festival-culture.md",
@@ -12542,7 +12553,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/imei-foods-corporation.md",
+          "translatedFrom": "Economy/台灣企業：義美食品.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:fd10cef889ef4781",
+          "sourceBodyHash": "sha256:3df603cf09cf4177",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/imei-foods-corporation.md",
@@ -18433,7 +18455,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/taiwan-open-source-spirit.md",
+          "translatedFrom": "Technology/台灣開源精神.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8cc121a9cccbf90a",
+          "sourceBodyHash": "sha256:98feb4bab36f053f",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -23084,7 +23117,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/wikipedia-in-taiwan.md",
+          "translatedFrom": "Technology/維基百科.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:041d66a77659bdef",
+          "sourceBodyHash": "sha256:d2c0d3b4dad31bc9",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/wikipedia-in-taiwan.md",
@@ -39158,8 +39202,8 @@
           "sourceContentHash": "sha256:cfeed87bcc86a207",
           "sourceBodyHash": "sha256:761ccd3c7cd0d390",
           "translatedAt": "2026-09-09T11:45:59+08:00",
-          "translationLastCommit": "f5e46ef8",
-          "translationLastModified": "2026-07-29T03:35:40+08:00",
+          "translationLastCommit": "e7295eba",
+          "translationLastModified": "2026-09-09T14:56:18+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -39463,7 +39507,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/tra-mingri-express.md",
+          "translatedFrom": "Lifestyle/台鐵鳴日號.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:692645244e391abd",
+          "sourceBodyHash": "sha256:28f054608fa81e22",
+          "translatedAt": "2026-09-09T11:45:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/tra-mingri-express.md",
@@ -79248,7 +79303,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/shen-sheng-po.md",
+          "translatedFrom": "People/沈聖博.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:36208e14ce1c380c",
+          "sourceBodyHash": "sha256:5eb269f5e4d722c4",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -106347,7 +106413,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/charles-le-gendre.md",
+          "translatedFrom": "People/李仙得.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b35bf2bd112055a5",
+          "sourceBodyHash": "sha256:bbb48d4bf913e4a0",
+          "translatedAt": "2026-09-09T11:45:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/charles-le-gendre.md",
@@ -129739,8 +129816,8 @@
           "sourceContentHash": "sha256:7397e54a88091d6e",
           "sourceBodyHash": "sha256:3f4ab58302003b2a",
           "translatedAt": "2026-09-09T11:45:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e7295eba",
+          "translationLastModified": "2026-09-09T14:56:18+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -132791,8 +132868,8 @@
           "sourceContentHash": "sha256:309501697091bfd3",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-09T11:45:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e7295eba",
+          "translationLastModified": "2026-09-09T14:56:18+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -138943,18 +139020,16 @@
         "es": {
           "path": "es/Geography/tainan-city.md",
           "translatedFrom": "Geography/台南市.md",
-          "sourceCommitSha": "925aca59e",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "translatedAt": "2026-09-09T11:45:52+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/tainan-city.md",
@@ -141362,7 +141437,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/penghu-folk-culture.md",
+          "translatedFrom": "Culture/澎湖民俗文化.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e71b837d32f8708d",
+          "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
+          "translatedAt": "2026-09-09T11:45:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/penghu-folk-culture.md",
