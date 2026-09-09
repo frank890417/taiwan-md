@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T19:48:25+08:00",
-    "zhCommitHead": "8d12acc2f",
+    "lastUpdated": "2026-09-09T19:54:42+08:00",
+    "zhCommitHead": "42075216c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 781,
-        "stale": 69,
+        "fresh": 782,
+        "stale": 68,
         "metadata_stale": 16,
         "missing": 255,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 648,
+        "fresh": 649,
         "stale": 39,
         "metadata_stale": 11,
-        "missing": 423,
+        "missing": 422,
         "orphan": 0
       },
       "ar": {
@@ -67458,7 +67458,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/henry-lee-forensic.md",
+          "translatedFrom": "People/李昌鈺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d64c72cf7c6361d3",
+          "sourceBodyHash": "sha256:6f5a343122533934",
+          "translatedAt": "2026-09-09T11:45:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/henry-lee-forensic.md",
@@ -133986,18 +133997,16 @@
         "pt": {
           "path": "pt/Geography/hsinchu-city.md",
           "translatedFrom": "Geography/新竹市.md",
-          "sourceCommitSha": "85634f83b",
-          "sourceContentHash": "sha256:7e6b8ee6fb86d020",
-          "sourceBodyHash": "sha256:be043e8d5036e0e2",
-          "translatedAt": "2026-07-26T18:31:08+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5b1e9a773d6dbaca",
+          "sourceBodyHash": "sha256:c9f1ea2022062b04",
+          "translatedAt": "2026-09-09T11:53:34.155298+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+26 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/hsinchu-city.md",
@@ -134454,8 +134463,8 @@
           "sourceContentHash": "sha256:53588f1af78c53bd",
           "sourceBodyHash": "sha256:83c1d8ae2ebcca91",
           "translatedAt": "2026-09-09T11:45:52+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "42075216",
+          "translationLastModified": "2026-09-09T19:48:26+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -138382,8 +138391,8 @@
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
           "translatedAt": "2026-09-09T11:45:52+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "42075216",
+          "translationLastModified": "2026-09-09T19:48:26+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
