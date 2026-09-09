@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T13:48:50+08:00",
-    "zhCommitHead": "8b62536f6",
+    "lastUpdated": "2026-09-09T14:03:13+08:00",
+    "zhCommitHead": "3c7df3b0d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 563,
+        "fresh": 564,
         "stale": 50,
         "metadata_stale": 11,
-        "missing": 497,
+        "missing": 496,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 709,
+        "fresh": 710,
         "stale": 47,
         "metadata_stale": 15,
-        "missing": 350,
+        "missing": 349,
         "orphan": 0
       },
       "ru": {
@@ -17455,8 +17455,8 @@
           "sourceContentHash": "sha256:bbdb130f551a69e8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T03:46:17.427888+00:00",
-          "translationLastCommit": "83909701",
-          "translationLastModified": "2026-08-09T12:04:05+08:00",
+          "translationLastCommit": "3c7df3b0",
+          "translationLastModified": "2026-09-09T13:48:51+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "status": "fresh",
@@ -20959,8 +20959,8 @@
           "sourceContentHash": "sha256:fc8499d85802cbbd",
           "sourceBodyHash": "sha256:04d95f993c4d6e33",
           "translatedAt": "2026-09-09T11:45:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c7df3b0",
+          "translationLastModified": "2026-09-09T13:48:51+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -36586,7 +36586,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/history-of-taiwan-mrt-development.md",
+          "translatedFrom": "Lifestyle/台灣捷運發展史.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:e56d1b31b0a7bae6",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T05:36:40.601781+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -79259,7 +79270,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-09T11:45:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tgop.md",
@@ -141279,8 +141301,8 @@
           "sourceContentHash": "sha256:e71b837d32f8708d",
           "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
           "translatedAt": "2026-09-09T11:45:55+08:00",
-          "translationLastCommit": "68ff840a",
-          "translationLastModified": "2026-08-09T08:59:47+08:00",
+          "translationLastCommit": "3c7df3b0",
+          "translationLastModified": "2026-09-09T13:48:51+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
