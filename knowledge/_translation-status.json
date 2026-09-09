@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T20:07:00+08:00",
-    "zhCommitHead": "82eca76e6",
+    "lastUpdated": "2026-09-09T20:18:52+08:00",
+    "zhCommitHead": "9ed760aee",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 789,
-        "stale": 83,
+        "fresh": 790,
+        "stale": 82,
         "metadata_stale": 23,
         "missing": 226,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 668,
+        "fresh": 669,
         "stale": 85,
         "metadata_stale": 79,
-        "missing": 289,
+        "missing": 288,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 649,
+        "fresh": 650,
         "stale": 39,
         "metadata_stale": 11,
-        "missing": 422,
+        "missing": 421,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 133,
+        "fresh": 134,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 980,
+        "missing": 979,
         "orphan": 0
       }
     },
@@ -4004,8 +4004,8 @@
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
           "translatedAt": "2026-09-09T11:46:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ed760ae",
+          "translationLastModified": "2026-09-09T20:07:00+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -23948,7 +23948,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-game-jam-community.md",
+          "translatedFrom": "Technology/台灣Game-Jam社群.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:f932c57f5b497190",
+          "sourceBodyHash": "sha256:09023ab1d3d01f3b",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -43584,7 +43595,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/mingjian-incinerator.md",
+          "translatedFrom": "Society/名間焚化爐.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c4441b48a65d0629",
+          "sourceBodyHash": "sha256:8f8b961fdb887c42",
+          "translatedAt": "2026-09-09T11:45:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/mingjian-incinerator.md",
@@ -47783,7 +47805,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/taiwan-tv-content-rating-system.md",
+          "translatedFrom": "Society/台灣電視分級制度.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d915e5527fc773c5",
+          "sourceBodyHash": "sha256:5588123f25ed059d",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-tv-content-rating-system.md",
@@ -83583,8 +83616,8 @@
           "sourceContentHash": "sha256:685b3a0c30829488",
           "sourceBodyHash": "sha256:dfd669296348affb",
           "translatedAt": "2026-09-09T10:35:48.039108+00:00",
-          "translationLastCommit": "05f23d10",
-          "translationLastModified": "2026-07-28T03:07:27+08:00",
+          "translationLastCommit": "9ed760ae",
+          "translationLastModified": "2026-09-09T20:07:00+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -133975,18 +134008,16 @@
         "fr": {
           "path": "fr/Geography/hsinchu-city.md",
           "translatedFrom": "Geography/新竹市.md",
-          "sourceCommitSha": "85634f83b",
-          "sourceContentHash": "sha256:7e6b8ee6fb86d020",
-          "sourceBodyHash": "sha256:be043e8d5036e0e2",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5b1e9a773d6dbaca",
+          "sourceBodyHash": "sha256:c9f1ea2022062b04",
+          "translatedAt": "2026-09-09T11:45:53+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+26 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/hsinchu-city.md",
@@ -136142,8 +136173,8 @@
           "sourceContentHash": "sha256:2038e5c6672647ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T09:33:33.399932+00:00",
-          "translationLastCommit": "420bbe71",
-          "translationLastModified": "2026-08-04T08:48:14+08:00",
+          "translationLastCommit": "9ed760ae",
+          "translationLastModified": "2026-09-09T20:07:00+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "status": "fresh",
