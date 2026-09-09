@@ -3,16 +3,26 @@ title: 'Chen Shu-chu: Pedagang Sayur Taitung yang Menyumbangkan Puluhan Juta dar
 description: 'Seorang pedagang sayur dari Taitung yang menyumbangkan puluhan juta dolar Taiwan dari uang hasil berjualan sayur selama lima puluh tahun, namun tetap menyebut dirinya "hanya seorang penjual sayur"'
 date: 2026-03-19
 category: 'People'
-tags: ['Tokoh', 'Filantropi', 'Taitung', 'Pedagang Sayur', 'Majalah TIME', 'Penghargaan Ramon Magsaysay', 'Donasi Pendidikan']
+tags:
+  [
+    'Tokoh',
+    'Filantropi',
+    'Taitung',
+    'Pedagang Sayur',
+    'Majalah TIME',
+    'Penghargaan Ramon Magsaysay',
+    'Donasi Pendidikan',
+  ]
 subcategory: '慈善與社會'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:884e3106e00c3ed4'
-translatedAt: '2026-09-09T05:22:47+08:00'
+sourceCommitSha: '2344309a0'
+sourceContentHash: 'sha256:2acd1adc35abda8a'
+sourceBodyHash: 'sha256:0e9eced4546d8cba'
+translatedAt: '2026-09-09T12:33:28.492319+00:00'
 ---
 
 > **Ringkasan 30 detik:** Chen Shu-chu, lahir tahun 1950, adalah pedagang sayur di Pasar Sentral Taitung. Pada usia 13 tahun ia berhenti sekolah untuk berjualan sayur setelah ibunya meninggal saat melahirkan. Sejak itu, selama lebih dari lima puluh tahun, ia telah menyumbangkan puluhan juta NT dolar kepada sekolah, panti asuhan, dan rumah sakit. Pada tahun 2010 ia masuk dalam daftar 100 Orang Paling Berpengaruh di Dunia versi majalah _TIME_; sutradara Ang Lee sendiri yang menulis profil pencalonannya. Ketika ia pergi ke New York untuk menerima penghargaan, ia berkata: "Saya cuma seorang penjual sayur."[^1]
@@ -83,9 +93,9 @@ Tahun 2025, Universitas Nasional Taitung menganugerahinya gelar doktor kehormata
 
 ## Bacaan Lanjutan
 
-- [Pasar Sentral Taitung](/lifestyle/台東市集) — lokasi lapak sayur Chen Shu-chu selama lima puluh tahun, representasi ekonomi rakyat kecil di Taitung
-- [Budaya Filantropi Taiwan](/society/台灣慈善文化) — dari Master Cheng Yen dan Yayasan Tzu Chi hingga Chen Shu-chu si pedagang sayur: dua contoh filantropi rakyat Taiwan
-- [Pendidikan di Daerah Terpencil Taiwan](/society/台灣偏鄉教育) — arah utama donasi Chen Shu-chu selama bertahun-tahun: dukungan jangka panjang untuk perpustakaan, sekolah, dan panti asuhan
+- [Budaya Pasar Tradisional Taiwan](/id/lifestyle/taiwan-traditional-markets-and-market-culture) — Chen Shu-chu yang berjualan di pasar Taitung Central selama lima puluh tahun hidup di tengah ekosistem pasar tradisional ini
+- [Budaya Sukarelawan dan Partisipasi Kebaikan di Taiwan](/id/society/volunteering-and-civic-charity-in-taiwan) — Dari Tzu Chi di bawah pengawasan Master Cheng Yen hingga gerai sayur Chen Shu-chu, dua contoh filantropis warga di Taiwan
+- [Pendidikan Terpencil di Taiwan](/id/society/taiwan-rural-education) — Riwayat kontribusi Chen Shu-chu selama bertahun-tahun: dukungan jangka panjang untuk perpustakaan, sekolah, dan panti asuhan
 
 ## Daftar Pustaka
 
@@ -114,4 +124,3 @@ Tahun 2025, Universitas Nasional Taitung menganugerahinya gelar doktor kehormata
 [^12]: "48 Heroes of Philanthropy," _Forbes Asia_, 2010.
 
 [^13]: "Terima Gelar Doktor Kehormatan dari Universitas Nasional Taitung, Chen Shu-chu: Terima Kasih Semua Sudah Tidak Memandang Rendah Lapak Pinggir Jalan Saya," _United Daily News_, 2025-06-08. https://udn.com/news/story/6928/8791319
-
