@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T06:15:18+08:00",
-    "zhCommitHead": "f68daf3d4",
+    "lastUpdated": "2026-09-10T06:32:35+08:00",
+    "zhCommitHead": "d710b3838",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 752,
+        "fresh": 753,
         "stale": 42,
         "metadata_stale": 12,
-        "missing": 315,
+        "missing": 314,
         "orphan": 0
       },
       "de": {
@@ -18844,8 +18844,8 @@
           "sourceContentHash": "sha256:f8b3c2310e7fb840",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T17:45:49.715842+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "89e5cb0d",
+          "translationLastModified": "2026-09-10T06:15:18+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "status": "fresh",
@@ -39669,8 +39669,8 @@
           "sourceContentHash": "sha256:692645244e391abd",
           "sourceBodyHash": "sha256:28f054608fa81e22",
           "translatedAt": "2026-09-10T03:36:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "89e5cb0d",
+          "translationLastModified": "2026-09-10T06:15:18+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -131580,7 +131580,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/new-taipei-city.md",
+          "translatedFrom": "Geography/新北市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7893a2743008a706",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T22:15:50.992060+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
