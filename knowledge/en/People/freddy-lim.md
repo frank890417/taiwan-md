@@ -10,7 +10,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg'
+image: '/article-images/people/freddy-lim-chthonic-founder.webp'
 imageCredit: 'Hyw83516 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg'
@@ -18,10 +18,10 @@ difficulty: 'intermediate'
 readingTime: 14
 rationale: "{'why_this_hook': '以多重身份同時擠在同一個人身上的衝突開場，再回到閃靈主唱作為最深的身份核心。', 'whats_excluded': '閃靈完整團史、逐張專輯深度解析、大港開唱完整營運史與時代力量政黨史保留給獨立主題；此處只取足以理解林昶佐的主線。', 'where_it_hedges': '柯文哲 2014 選戰暫不採信為林昶佐個人從政契機；駐芬蘭職稱採「駐芬蘭代表」，罷免細節只作脈絡提示，不寫未完成查證的任內成果。', 'whos_pushing_back': '批評其地方服務與政黨路線者、認為閃靈政治性過強者、認為藝術人跨界政治不應浪漫化者。'}"
 translatedFrom: 'People/林昶佐.md'
-sourceCommitSha: 'f28a9528a'
-sourceContentHash: 'sha256:42745728f5eb5c1a'
-sourceBodyHash: 'sha256:b26e0a7ce99faf37'
-translatedAt: '2026-07-31T08:23:53+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:685b3a0c30829488'
+sourceBodyHash: 'sha256:dfd669296348affb'
+translatedAt: '2026-09-09T10:37:20.505568+00:00'
 ---
 
 > **30-Second Overview:** Freddy Lim is the frontman of Chthonic, one of the founding organizers of the Da Gang Open Air Concert, former chairman of Amnesty International Taiwan, and a representative of the "third force" entering the legislature after the Sunflower Movement. Chthonic incorporates the [2/28 Incident](/en/history/228-incident/), [Taiwan White Terror](/en/history/taiwan-white-terror/), the Musha Incident, Taiwanese mythology, and narratives of the dead into black metal, ensuring Taiwan’s history is not only read but heard and screamed. He later co-founded the New Power Party, served as a Legislative Yuan member, experienced party withdrawal and a recall attempt, and after leaving office, took up international work as Taiwan’s Representative to Finland. Politics was his adventure; Chthonic remains his core identity.
@@ -57,22 +57,22 @@ _Chthonic Official Video: "Mu Chen Wu De Dian" (Folk Version). After deconstruct
 
 ## History and Spirits in Black Metal
 
-Chthonic’s most important creative method is writing Taiwan’s history into a universe of returning spirits.
+Chthonic's most important creative method is to write Taiwan's history as a universe of spirits that return again and again.
 
-_Seediq Bale_ deals with the Musha Incident. _Ten Halls of Hell_ places the 2/28 Incident into the imagination of hell and judgment. _Takasago Army_ looks back at the Taiwanese indigenous youth conscripted by the Japanese Empire during the Pacific War. _Wu De_ intertwines modernity, the martial arts hall, and colonial memory. _Politics_ pushes the post-war Taiwan’s violence and resistance directly onto the table.
+_Seediq Bale_ deals with the Wushe Incident. _Mirror of Retribution_ places the 228 Incident into an imagination of hell and judgment. _Takasago Army_ looks back at the Indigenous Taiwanese youth conscripted by the Japanese Empire in the Pacific War. _Bu-Tik_ weaves together modernity, the Budokan, and colonial memory. _Politics_ directly brings postwar Taiwan's violence and resistance to the surface.
 
-These albums go beyond the function of "introducing history." They are more like asking: If the victims are not truly remembered, will they keep coming back?
+These albums exceed the function of "introducing history." They are more like asking: if the victims are not truly remembered, will they not keep coming back?
 
-_Politics_ also does not come solely from the capitalized issue of nationalism. In an interview with the Palliative Care Foundation, Freddy Lim discussed his father’s sudden death from a heart attack in 2017, and that he missed seeing him for the last time. In the same year, his daughter was born; life and death pressed upon him simultaneously in a short time. He said his father’s death made him realize the need to cherish loved ones and not let emotions leave irreversible harm. That feeling toward death, parent-child relations, and reconciliation was also placed into his 2018 album _Politics_. [^7]
+_Politics_ also does not only come from macro-level national issues. In an interview with the Hospice Foundation, Freddy Lim spoke of his father's sudden death from a heart attack in 2017, and not making it in time to see him one last time. The same year his daughter was born; life and death pressed upon him simultaneously in a very short span. He said his father's death made him realize to cherish loved ones, not to let emotions leave irreparable wounds. That feeling toward death, parent-child relationships, and reconciliation was also placed into 2018's _Politics_.[^7]
 
-In post-office long-form interviews, Freddy Lim discussed how, after discovering his maternal grandfather’s family story, he re-understood Chthonic’s way of writing about White Terror, 2/28 victims, and reincarnation/rebirth for years. He said he originally did not know how Chthonic’s story would end. When fictional characters encountered real family history, that musical universe seemed to finally connect with the real world.
+In a long interview after leaving office, Freddy Lim spoke of discovering his maternal grandfather's family stories, and re-understanding how Chthonic had for years written about White Terror, 228 victims, and reincarnation. He said he originally didn't know how Chthonic's story would end. When fictional characters connected with real family history, that musical universe seemed to finally connect with the real world.
 
-What Chthonic has done for years is not core to the appearance of "metal plus Taiwanese themes," but to use metal to process a feeling familiar to Taiwanese people but often unspeakable: history has not truly passed; families may hide stories that were never told.
+The core of what Chthonic has long done lies not in the appearance of "metal plus Taiwan subject matter," but in using metal to handle a feeling very familiar to Taiwanese people yet often inexpressible: history has not truly passed, and families may hide stories not fully told.
 
-Social concern grew out of this musical work. When victims, ancestral spirits, and silenced people had voices on stage, the next question emerged: Can these voices be heard in society?
+Social concern grew out of this music work. When victims, ancestral spirits, and the silenced gained voices on stage, the next question also emerged: can these voices be heard in society?
 
-![Freddy Lim holding a microphone on stage and raising a Tibetan flag, standing in front of a large stage structure.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg)
-_In 2012, Freddy Lim raised a Tibetan flag on stage. This image places Freddy’s frontman identity, human rights concern, and Taiwan’s international situation in the same scene. Photo: Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
+![Freddy Lim on stage holding a microphone and raising the Tibetan flag, standing before a large stage structure.](/article-images/people/freddy-lim-chthonic-founder.webp)
+_2012, Freddy Lim raises the Tibetan flag on stage. This image places Freddy's identity as frontman, human rights concern, and Taiwan's international predicament in the same moment. Photo: Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
 
 ## Da Gang Open Air Concert: Turning Sound into a Space
 
@@ -174,45 +174,45 @@ Those roles do not cancel each other out. Chthonic leaves the album universe, Ta
 - [New Power Party Legislator Candidate Freddy Lim 03](https://commons.wikimedia.org/wiki/File:%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E7%AB%8B%E5%A7%94%E5%80%99%E9%81%B8%E4%BA%BA%E6%9E%97%E6%98%B6%E4%BD%90_03.JPG) — Photo: Legislative Yuan无双, Wikimedia Commons, CC BY-SA 4.0.
 - [Chthonic & Genkai - Mu Chen Wu De Dian (Folk Version)](https://www.youtube.com/watch?v=kta4ZAwI6rY) — Chthonic Official YouTube Video, used to present Freddy Lim’s voice as frontman and the acoustic version interpretation.
 
-## Notes
+## References
 
-[^1]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — GQ 2016 profile, describing Freddy Lim entering international metal and political vision as Chthonic frontman, with Taiwanese language and traditional instruments.
+[^1]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — GQ 2016 profile piece describing how Freddy Lim, as Chthonic's lead singer, brought Taiwanese language and traditional instruments into the international metal and political spotlight.
 
-[^2]: [Da Gang Open Air Concert Official Website](https://megaportfest.com/) — Official event website, used to confirm Da Gang Open Air Concert’s contemporary position as a Kaohsiung music festival; historical evolution cross-checked with Wikipedia.
+[^2]: [Megaport Festival Official Website](https://megaportfest.com/) — Official event website used to confirm Megaport Festival's contemporary status as a Kaohsiung music festival; historical development cross-checked with Wikipedia.
 
-[^3]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — Same GQ report, providing 2016 context of how international media understood "metal frontman enters legislature."
+[^3]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — Same GQ report, providing context on how international media understood the 'metal singer enters parliament' narrative in 2016.
 
-[^4]: ['We want a fairer society': Freddy Lim, Taiwan's metalhead MP](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — The Guardian 2020 report, supplementing international media observations of Freddy Lim’s public role around re-election.
+[^4]: ['We want a fairer society': Freddy Lim, Taiwan's metalhead MP](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — The Guardian 2020 report, supplementing observations by international media on Freddy Lim's public role before and after his re-election.
 
-[^5]: [From Rock Star to Legislator, Taiwanese Freddy Lim’s Beliefs](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — _The New York Times_ Chinese Network 2017 report, recording Freddy Lim’s early political stage of entering legislature from underground music scene, promoting Taiwan’s international visibility and social issues.
+[^5]: [From Rock Star to Legislator: The Convictions of Taiwan's Freddy Lim](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — New York Times Chinese 2017 report documenting Freddy Lim's early political phase from underground music scene to parliament, promoting Taiwan's international visibility and social issues.
 
-[^6]: [Metal-Sänger und Politiker Freddy Lim: „Wir waren nie ,das freie China‘ – wir sind Taiwan“](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — Der Tagesspiegel 2022 interview, providing Freddy Lim’s review of martial law education, Taiwanese language, Taiwanese identity, and international narrative.
+[^6]: [Metal Singer and Politician Freddy Lim: 'We were never 'Free China' – we are Taiwan'](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — Der Tagesspiegel 2022 interview providing Freddy Lim's reflections on martial law education, Taiwanese language, Taiwanese identity, and international narratives.
 
-[^7]: [From Son, Husband to Father Freddy Lim: Let Love Continue in Another Way](https://www.hospice.org.tw/content/3435) — Palliative Care Foundation interview, supplementing Freddy Lim’s life experience between father’s sudden death, daughter’s birth, palliative care, and the _Politics_ album.
+[^7]: [From Son, Husband to Father: Freddy Lim: Letting Love Continue in Another Way](https://www.hospice.org.tw/content/3435) — Hospice Foundation interview supplementing Freddy Lim's life experiences between his father's sudden death, daughter's birth, hospice care, and the album 'Politics'.
 
-[^8]: [Growing Long Hair, Painting Corpse Makeup... Freddy Lim 7 Years Ago as Band Frontman, Defeated KMT Military Veteran, Writing Amateur Political Legend](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — _The News Week_ 2022 report, organizing political context around Freddy Lim’s recall, progressive issues like same-sex marriage, and recall threshold analysis.
+[^8]: [Long Hair, Corpse Paint... Freddy Lim as Band Vocalist Defeats KMT Military Veteran 7 Years Ago, Writing Legend of Citizen Politician](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — Business Weekly 2022 report organizing political context before and after Freddy Lim's recall vote, progressive issues like same-sex marriage, and analysis of recall threshold.
 
-[^9]: [Da Gang Open Air Concert Past and Present (Part 1): The Helmsman’s Music Festival Sea-Style Life](https://www.verse.com.tw/article/megaport-festival-01) — VERSE 2022 report, organizing Da Gang Open Air Concert from 2006 Kaohsiung harbor founding, to Doris and Dani taking over after 2016, NGO issue village, etc.
+[^9]: [The Past and Present of 'Megaport Festival' (Part 1): The Festival Director's Cosmopolitan Life](https://www.verse.com.tw/article/megaport-festival-01) — VERSE 2022 report tracing Megaport Festival from its 2006 grassroots beginnings at Kaohsiung Harbor to the 2016 handover to Doris and Dani and the NGO Issue Village.
 
-[^10]: [Da Gang Open Air Concert Past and Present (Part 2): Not Just 16 Years, But the Cultural Sum of Taiwan Music Festival History](https://www.verse.com.tw/article/megaport-festival-02) — VERSE 2022 report, supplementing Wild Stage, multi-stage internationalization, user-pays, artist backstage, and long-term upgrade of Taiwan audience culture.
+[^10]: [The Past and Present of 'Megaport Festival' (Part 2): Not Just 16 Years, but a Cultural Summation of Taiwan's Music Festival History](https://www.verse.com.tw/article/megaport-festival-02) — VERSE 2022 report supplementing the long-term development of Wild Stage, multi-stage internationalization, user-pay model, artist backstage, and the upgrading of Taiwan's concert-going culture.
 
-[^11]: [INTERVIEW: Freddy Lim unfolds New Power Party platform](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — Taipei Times 2015 interview, providing context of Freddy Lim entering election as Chthonic frontman, human rights advocate, and NPP founder.
+[^11]: [INTERVIEW: Freddy Lim unfolds New Power Party platform](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — Taipei Times 2015 interview providing context on Freddy Lim entering elections as Chthonic frontman, human rights advocate, and New Power Party founder.
 
-[^12]: [Lim to leave NPP, back Tsai re-election bid](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — Taipei Times 2019 report, confirming Freddy Lim’s withdrawal from NPP, seeking re-election as independent, and supporting Tsai Ing-wen’s re-election.
+[^12]: [Lim to leave NPP, back Tsai re-election bid](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — Taipei Times 2019 report confirming Freddy Lim's departure from NPP, running as independent for re-election and supporting Tsai Ing-wen's re-election.
 
-[^13]: [Independent Legislator Freddy Lim survives recall vote](https://focustaiwan.tw/politics/202201090008) — Focus Taiwan/CNA 2022 report, confirming Freddy Lim’s recall failed because yes votes did not reach threshold.
+[^13]: [Independent Legislator Freddy Lim survives recall vote](https://focustaiwan.tw/politics/202201090008) — Focus Taiwan/CNA 2022 report confirming Freddy Lim's recall vote failed due to insufficient approval votes.
 
-[^14]: [Freddy Lim to retire from politics, look after family](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — Taipei Times 2023 report, recording Freddy Lim’s announcement not to run for re-election, citing care for family with rare disease.
+[^14]: [Freddy Lim to retire from politics, look after family](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — Taipei Times 2023 report documenting Freddy Lim's announcement not to seek re-election, citing need to care for family member with rare disease.
 
-[^15]: [Independent lawmaker Freddy Lim applies to join DPP](https://focustaiwan.tw/politics/202311270019) — Focus Taiwan/CNA 2023 report, confirming Freddy Lim’s application to join DPP and prepare to assist 2024 election.
+[^15]: [Independent lawmaker Freddy Lim applies to join DPP](https://focustaiwan.tw/politics/202311270019) — Focus Taiwan/CNA 2023 report confirming Freddy Lim's application to join DPP and preparation to assist in 2024 elections.
 
-[^16]: [Rock star-turned-politician named Taiwan's representative to Finland](https://focustaiwan.tw/politics/202505190024) — Focus Taiwan/CNA 2025 report, confirming Presidential Office announcement of Freddy Lim as Taiwan’s Representative to Finland.
+[^16]: [Rock star-turned-politician named Taiwan's representative to Finland](https://focustaiwan.tw/politics/202505190024) — Focus Taiwan/CNA 2025 report confirming Presidential Office announcement of Freddy Lim as Taiwan's representative to Finland.
 
-[^17]: [Chthonic put spin on Taiwan's past](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — Taipei Times 2003 interview, recording Chthonic’s early band history, erhu, Lin Tou Sister, Golden Melody Award Best Band, and how Freddy Lim turned black metal mother culture consciousness back to Taiwanese history and folklore.
+[^17]: [Chthonic put spin on Taiwan's past](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — Taipei Times 2003 interview documenting Chthonic's early band history, erhu, Lin Tou-jie, Golden Melody Award for Best Band, and how Freddy Lim transformed black metal cultural consciousness back to Taiwanese history and folklore.
 
-[^18]: [ChthoniC promotes Taiwan's UN bid in interview with NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — Taipei Times 2007 report, organizing Chthonic explaining to US audiences during Ozzfest tour that Taiwan’s international participation is obstructed, and performing "UNlimited Taiwan."
+[^18]: [ChthoniC promotes Taiwan's UN bid in interview with NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — Taipei Times 2007 report summarizing Chthonic's explanation to US audiences during Ozzfest tour about Taiwan's blocked international participation, and performance of 'UNlimited Taiwan'.
 
-[^19]: [Chthonic New Song "Pattonkan" Creative Inspiration from Political Victim Family](https://www.cna.com.tw/news/amov/202303010226.aspx) — CNA 2023 report on "Pattonkan" creative inspiration, White Terror victim families, and Gao Yisheng family memory, supplementing how Chthonic’s recent works continue historical memory themes.
+[^19]: [Chthonic's New Song 'Guardian Mountain' Inspired by Families of Political Victims](https://www.cna.com.tw/news/amov/202303010226.aspx) — CNA 2023 report on the creative inspiration behind 'Guardian Mountain', families of White Terror victims, and the Kao Yi-sheng family memory, supplementing how Chthonic's recent works continue historical memory themes.
 
 ## References
 

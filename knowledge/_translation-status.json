@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T17:57:25+08:00",
-    "zhCommitHead": "3f9c87191",
+    "lastUpdated": "2026-09-09T18:37:49+08:00",
+    "zhCommitHead": "988299cc8",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 793,
-        "stale": 81,
+        "fresh": 794,
+        "stale": 80,
         "metadata_stale": 22,
         "missing": 225,
         "orphan": 0
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 792,
+        "fresh": 793,
         "stale": 80,
-        "metadata_stale": 22,
+        "metadata_stale": 21,
         "missing": 227,
         "orphan": 0
       },
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 663,
+        "fresh": 666,
         "stale": 85,
         "metadata_stale": 79,
-        "missing": 294,
+        "missing": 291,
         "orphan": 0
       },
       "id": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 746,
-        "stale": 44,
+        "fresh": 748,
+        "stale": 42,
         "metadata_stale": 12,
         "missing": 319,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 130,
+        "fresh": 132,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 983,
+        "missing": 981,
         "orphan": 0
       }
     },
@@ -700,7 +700,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Music/sorry-youth-band.md",
+          "translatedFrom": "Music/拍謝少年.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6a2b0dda2e1882cf",
+          "sourceBodyHash": "sha256:07737a8d590520a4",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/sorry-youth-band.md",
@@ -22614,7 +22625,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/tale-of-wuxia-pre-sequel.md",
+          "translatedFrom": "Technology/活俠傳.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5d8fd5b2e9fb7126",
+          "sourceBodyHash": "sha256:05a2488db4c17ec6",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/tale-of-wuxia-pre-sequel.md",
@@ -39535,8 +39557,8 @@
           "sourceContentHash": "sha256:692645244e391abd",
           "sourceBodyHash": "sha256:28f054608fa81e22",
           "translatedAt": "2026-09-09T11:45:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "988299cc",
+          "translationLastModified": "2026-09-09T17:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -43489,7 +43511,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/mingjian-incinerator.md",
+          "translatedFrom": "Society/名間焚化爐.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c4441b48a65d0629",
+          "sourceBodyHash": "sha256:8f8b961fdb887c42",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -83373,18 +83406,16 @@
         "en": {
           "path": "en/People/freddy-lim.md",
           "translatedFrom": "People/林昶佐.md",
-          "sourceCommitSha": "f28a9528a",
-          "sourceContentHash": "sha256:42745728f5eb5c1a",
-          "sourceBodyHash": "sha256:b26e0a7ce99faf37",
-          "translatedAt": "2026-07-31T08:23:53+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:685b3a0c30829488",
+          "sourceBodyHash": "sha256:dfd669296348affb",
+          "translatedAt": "2026-09-09T10:37:20.505568+00:00",
           "translationLastCommit": "5c374f8e",
           "translationLastModified": "2026-07-31T10:31:07+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/freddy-lim.md",
@@ -83484,18 +83515,16 @@
         "ru": {
           "path": "ru/People/freddy-lim.md",
           "translatedFrom": "People/林昶佐.md",
-          "sourceCommitSha": "f28a9528a",
-          "sourceContentHash": "sha256:42745728f5eb5c1a",
-          "sourceBodyHash": "sha256:b26e0a7ce99faf37",
-          "translatedAt": "2026-07-27T22:12:18+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:685b3a0c30829488",
+          "sourceBodyHash": "sha256:dfd669296348affb",
+          "translatedAt": "2026-09-09T10:35:48.039108+00:00",
           "translationLastCommit": "05f23d10",
           "translationLastModified": "2026-07-28T03:07:27+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -83974,7 +84003,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/mona-rudao.md",
+          "translatedFrom": "People/莫那·魯道.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T09:32:31.853699+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -106396,7 +106436,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/jam-hsiao.md",
+          "translatedFrom": "People/蕭敬騰.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:fb71e3bcf0475f2e",
+          "sourceBodyHash": "sha256:6b96e9e6687dd8c3",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -109996,8 +110047,8 @@
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
           "translatedAt": "2026-09-09T11:45:58+08:00",
-          "translationLastCommit": "21693299",
-          "translationLastModified": "2026-07-25T05:39:56+08:00",
+          "translationLastCommit": "988299cc",
+          "translationLastModified": "2026-09-09T17:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -135994,18 +136045,16 @@
         "ru": {
           "path": "ru/Geography/lienchiang-county.md",
           "translatedFrom": "Geography/連江縣.md",
-          "sourceCommitSha": "2f3bfdbf7",
-          "sourceContentHash": "sha256:8ae350615e660491",
-          "sourceBodyHash": "sha256:2da5583381fa39ad",
-          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2038e5c6672647ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T09:33:33.399932+00:00",
           "translationLastCommit": "420bbe71",
           "translationLastModified": "2026-08-04T08:48:14+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+24 -9"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -138267,18 +138316,16 @@
         "es": {
           "path": "es/Geography/taipei-city.md",
           "translatedFrom": "Geography/台北市.md",
-          "sourceCommitSha": "1fbb3adf1",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "translatedAt": "2026-09-09T11:45:52+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/taipei-city.md",
