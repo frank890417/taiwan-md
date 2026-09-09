@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T11:02:26+08:00",
-    "zhCommitHead": "766e984ec",
+    "lastUpdated": "2026-09-09T11:44:27+08:00",
+    "zhCommitHead": "32ac7fd42",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,9 +76,9 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 774,
+        "fresh": 775,
         "stale": 70,
-        "metadata_stale": 18,
+        "metadata_stale": 17,
         "missing": 259,
         "orphan": 0
       },
@@ -19255,8 +19255,8 @@
           "sourceContentHash": "sha256:15e7aa6f99cf7a84",
           "sourceBodyHash": "sha256:50acff1d4627c3c4",
           "translatedAt": "2026-09-09T03:01:55.488096+00:00",
-          "translationLastCommit": "772100f2",
-          "translationLastModified": "2026-08-09T11:01:36+08:00",
+          "translationLastCommit": "32ac7fd4",
+          "translationLastModified": "2026-09-09T11:02:26+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -47731,8 +47731,8 @@
           "sourceContentHash": "sha256:a1c5d1e234e46093",
           "sourceBodyHash": "sha256:b982084e2fb1e6c4",
           "translatedAt": "2026-09-08T15:54:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "32ac7fd4",
+          "translationLastModified": "2026-09-09T11:02:26+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -138784,18 +138784,16 @@
         "pt": {
           "path": "pt/Geography/tainan-city.md",
           "translatedFrom": "Geography/台南市.md",
-          "sourceCommitSha": "925aca59e",
-          "sourceContentHash": "sha256:a92ec79c444536b4",
-          "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
-          "translatedAt": "2026-07-29T12:59:27+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:4da0630edaa8897d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-09T02:14:22.034421+00:00",
           "translationLastCommit": "3fcb6b42",
           "translationLastModified": "2026-07-30T05:53:52+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
