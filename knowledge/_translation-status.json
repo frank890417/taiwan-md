@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T02:51:47+08:00",
-    "zhCommitHead": "5e7550857",
+    "lastUpdated": "2026-09-10T02:54:31+08:00",
+    "zhCommitHead": "84edc8ae9",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 653,
+        "fresh": 654,
         "stale": 39,
         "metadata_stale": 10,
-        "missing": 419,
+        "missing": 418,
         "orphan": 0
       },
       "ar": {
@@ -3289,8 +3289,8 @@
           "sourceContentHash": "sha256:ded0e72872765bab",
           "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
           "translatedAt": "2026-09-09T18:51:18.273176+00:00",
-          "translationLastCommit": "fff70d37",
-          "translationLastModified": "2026-08-02T01:13:33+08:00",
+          "translationLastCommit": "84edc8ae",
+          "translationLastModified": "2026-09-10T02:51:47+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -12517,8 +12517,8 @@
           "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
           "sourceBodyHash": "sha256:e4265d915ae6599c",
           "translatedAt": "2026-09-09T11:45:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "84edc8ae",
+          "translationLastModified": "2026-09-10T02:51:47+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -19376,8 +19376,8 @@
           "sourceContentHash": "sha256:15e7aa6f99cf7a84",
           "sourceBodyHash": "sha256:50acff1d4627c3c4",
           "translatedAt": "2026-09-09T11:22:17.322454+00:00",
-          "translationLastCommit": "5abb2e5e",
-          "translationLastModified": "2026-08-02T18:36:52+08:00",
+          "translationLastCommit": "84edc8ae",
+          "translationLastModified": "2026-09-10T02:51:47+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -31813,7 +31813,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/national-taichung-theater.md",
+          "translatedFrom": "Art/台中國家歌劇院.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f4906969467717b0",
+          "sourceBodyHash": "sha256:672a8871e0fcfa50",
+          "translatedAt": "2026-09-09T11:45:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/national-taichung-theater.md",
@@ -134245,8 +134256,8 @@
           "sourceContentHash": "sha256:5b1e9a773d6dbaca",
           "sourceBodyHash": "sha256:c9f1ea2022062b04",
           "translatedAt": "2026-09-09T11:53:34.155298+00:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "84edc8ae",
+          "translationLastModified": "2026-09-10T02:51:47+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
