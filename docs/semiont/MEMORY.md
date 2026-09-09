@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-10
-last_session: '2026-09-10-003700-twmd-babel-nightly'
+last_session: '2026-09-10-053747-twmd-routine-sync'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -341,3 +341,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-09 | 070920-twmd-feedback-triage | 連三輪零回報仍跑完 --commit，兩道對賬 84/84 與 83/84 全綠；兌現昨天 handoff 反查寫入端，最新一列 09-05、線上 widget 仍在 supabase 模式，沉默在讀者那側 | 報表第一行的「0 筆」同時是沒人送與送不進來的長相 | [→](memory/2026-09-09-070920-twmd-feedback-triage.md) |
 | 2026-09-09 | 090531-twmd-maintainer-am | 8 ready PR 強制升 full，7 篇翻譯全綠 merged；修掉紅了一夜的 CI（wrangler 帶進 sharp 舊版）；追上游量出十語 1,557 篇譯文帶未翻中文 | 那道閘門寫進 pipeline 卻從沒被產線呼叫過，暫時的未接線跟永久的長得一樣 | [→](memory/2026-09-09-090531-twmd-maintainer-am.md) |
 | 2026-09-10 | 003700-twmd-babel-nightly | 同一 PID 的 dispatcher 第二晚仍未收工（近 48h），三重巡檢確認真活著後再次讓場；gemma31 六語言弱適配警訊 + 該訊號寫進 LESSONS-INBOX vc=2 | 同一訊號連續出現不代表已處理，只代表還沒到升級門檻；vc=2 進 buffer，vc≥3 才升 canonical | [→](memory/2026-09-10-003700-twmd-babel-nightly.md) |
+| 2026-09-10 | 053747-twmd-routine-sync | 第 44 輪對賬 18/18 in-sync 零漂移；同一 dispatcher（PID 52743）續跑近 53h，本地 ahead51/behind86 首次真分岔非單純落後，判讀為預期副作用繞開不動 | 落後與分岔的安全繞開動作相同，但狀態不同，要靠工具輸出分辨不能預設一樣 | [→](memory/2026-09-10-053747-twmd-routine-sync.md) |
