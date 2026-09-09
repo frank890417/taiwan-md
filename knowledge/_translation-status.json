@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T20:18:52+08:00",
-    "zhCommitHead": "9ed760aee",
+    "lastUpdated": "2026-09-09T20:33:49+08:00",
+    "zhCommitHead": "dfdf88e1e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 795,
+        "fresh": 796,
         "stale": 80,
         "metadata_stale": 22,
-        "missing": 224,
+        "missing": 223,
         "orphan": 0
       },
       "ja": {
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 570,
-        "stale": 50,
+        "fresh": 571,
+        "stale": 49,
         "metadata_stale": 11,
         "missing": 490,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 782,
+        "fresh": 783,
         "stale": 68,
         "metadata_stale": 16,
-        "missing": 255,
+        "missing": 254,
         "orphan": 0
       },
       "hi": {
@@ -12502,7 +12502,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-09T11:45:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -86374,18 +86385,16 @@
         "id": {
           "path": "id/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
           "translatedFrom": "People/陳樹菊.md",
-          "sourceCommitSha": "85926aa3b",
-          "sourceContentHash": "sha256:884e3106e00c3ed4",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-09T05:22:47+08:00",
+          "sourceCommitSha": "2344309a0",
+          "sourceContentHash": "sha256:2acd1adc35abda8a",
+          "sourceBodyHash": "sha256:0e9eced4546d8cba",
+          "translatedAt": "2026-09-09T12:33:28.492319+00:00",
           "translationLastCommit": "7d93c826",
           "translationLastModified": "2026-09-09T05:28:46+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
@@ -134012,8 +134021,8 @@
           "sourceContentHash": "sha256:5b1e9a773d6dbaca",
           "sourceBodyHash": "sha256:c9f1ea2022062b04",
           "translatedAt": "2026-09-09T11:45:53+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "dfdf88e1",
+          "translationLastModified": "2026-09-09T20:18:52+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -138989,8 +138998,8 @@
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
           "translatedAt": "2026-09-09T11:45:53+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "dfdf88e1",
+          "translationLastModified": "2026-09-09T20:18:52+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -148180,7 +148189,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/taiwan-panorama-magazine.md",
+          "translatedFrom": "Culture/光華雜誌.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:76f9feb9b62dd8a1",
+          "sourceBodyHash": "sha256:b0016f60e7fc31e0",
+          "translatedAt": "2026-09-09T11:45:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
