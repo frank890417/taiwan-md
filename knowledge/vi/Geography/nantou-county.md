@@ -27,17 +27,17 @@ featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
 readingTime: 16
-researchReport: reports/research/2026-05/南投縣.md
-series: '22 Quận Thành Phố (Batch 3)'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG
-imageCredit: Wikimedia Commons contributor
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG
+researchReport: 'reports/research/2026-05/南投縣.md'
+series: '22 縣市系列（batch 3）'
+image: '/article-images/geography/sun-moon-lake-twilight.webp'
+imageCredit: 'Tommy.In / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG'
 translatedFrom: 'Geography/南投縣.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:c80f3accc7342bb8'
-sourceBodyHash: 'sha256:9116715a2d516221'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:3e20b5d7cae61e95'
+sourceBodyHash: 'sha256:b09f70f5d82caaa2'
+translatedAt: '2026-09-09T13:57:23.695135+00:00'
 ---
 
 # Nam Đầu: Quận duy nhất không giáp biển, tâm chấn 921 nằm ở trung tâm của nó
@@ -64,25 +64,25 @@ Các nhà báo sau đó theo dõi tổng thiệt hại: "**Thiệt hại 921 kho
 
 Tết Trung Thu là 4 ngày sau 921. Mặt trăng chiếu sáng thành phố núi không điện.
 
-## Duy Nhất Không Giáp Biển, Leo Từ 100 Mét Lên 3.952 Mét
+## Duy Nhất Không Bờ Biển, Từ 100 Mét Lên Tới 3.952 Mét
 
-![Hồ Nhật Nguyệt lúc hoàng hôn. Năm 1934 sau khi đập Wujie dâng cao 18,18 mét, tạo thành hồ nhân tạo, nhấn chìm thôn cũ Shiyinof của người Thao và đất nông nghiệp xung quanh đảo Lalu. Mặt hồ mà du khách nhìn thấy hôm nay là một "thiên nhiên" được kỹ thuật viên sửa đổi.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG)
-_Hồ Nhật Nguyệt hoàng hôn. Photo: Wikimedia Commons contributor, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG)._
+![Hoàng hôn đại chảo Nhật Nguyệt. Năm 1934, thủy lũy Wujie nâng mực nước lên 18,18 mét, tạo thành hồ nhân tạo, ngập lũ làng chủ đềng của người Shao, cũng như các cánh đồng nông nghiệp quanh đảo Lalu. Ngày nay, du khách tham quan nhìn thấy mặt nước hồ — một "thiên nhiên" đã bị kỹ thuật cải tạo hoàn toàn.](/article-images/geography/sun-moon-lake-twilight.webp)
+_Hoàng hôn đại chảo Nhật Nguyệt. Photo: Tommy.In / Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG)._
 
-Nam Đầu là quận **duy nhất không giáp biển** trên đảo chính Đài Loan của 22 quận thành phố.
+Nan Trú là **tỉnh duy nhất ở bán đảo Đài Loan không giáp biển** trong 22 tỉnh thành.
 
-Từ ranh giới phía tây tỉnh Chương Hóa đến ranh giới phía đông tỉnh Hoa Liên, Nam Đầu dài 95 km từ bắc đến nam, rộng 72 km từ đông sang tây, diện tích 4.106 km², là quận thứ hai lớn nhất Đài Loan, chỉ kém tỉnh Hoa Liên[^7]. Độ cao từ thành phố Nam Đầu khoảng 100 đến 150 mét, leo lên tới núi Ngọc Sơn 3.952 mét. Đất dốc chiếm 83% diện tích quận, bằng phẳng rất ít. Trong 13 huyện thị, huyện Tín Nghĩa và huyện Nhân Ái là huyện miền núi, huyện Cá Trì là huyện bản địa bằng phẳng.
+Từ biên giới tỉnh Chương Hóa ở phía tây tới biên giới tỉnh Hoa Ninh ở phía đông, Nan Trú kéo dài 95 km theo chiều Bắc-Nam, rộng 72 km theo chiều Đông-Tây, diện tích 4.106 km², là tỉnh lớn thứ hai ở Đài Loan, chỉ sau Hoa Ninh[^7]。 Độ cao từ khu vực trung tâm thành phố Nan Trú khoảng 100–150 mét, dần lên tới đỉnh Tam Bảo 3.952 mét. Đất đồi chiếm 83% toàn tỉnh, đất bằng rất ít. Trong 13 thị trấn, Xã Tín Nghĩa và Xã Nhân Nghĩa là vùng miền núi, Xã Hồ Nhật Nguyệt là vùng gốc bản địa dân cư.
 
-Sông Đục Thủy là sông dài nhất Đài Loan, 186,4 km, phát nguồn từ "Saddle Sagami" giữa đỉnh núi Hợp Huân chính và đỉnh phụ (độ cao 3.220 mét), chảy xuống qua 8 huyện Nam Đầu[^7]. Quốc lộ 14A leo lên phần yên ngựa 3.275 mét giữa đỉnh chính và đỉnh phụ của núi Hợp Huân, gọi là Wuling, là điểm cao nhất của đường bộ Đài Loan.
+Sông Chương Hóa là con sông dài nhất cả nước, dài 186,4 km, nguồn gốc từ "Vùng nách Suối Kagura" (độ cao 3.220 mét) giữa đỉnh Hoa Ninh và đỉnh Đông Bắc, chảy xuống qua 8 thị trấn của Nan Trú[^7]。 Tuyến đường 14A leo lên "Vùng nách Suối Kagura" (độ cao 3.275 mét) giữa đỉnh Hoa Ninh và đỉnh Đông Bắc, gọi là Lâm Hồ, là điểm cao nhất trên toàn mạng lưới quốc gia Đài Loan.
 
-470.000 người sống trong quận này (con số 2025)[^7]. Tỷ lệ dân số từ 65 tuổi trở lên là 22,51%, là quận cao tuổi thứ 3 từ cuối cùng của Đài Loan. Người trẻ ở khu vực núi đã di cư ra ngoài lâu dài.
+470.000 người sinh sống trong tỉnh này (số liệu năm 2025)[^7]。 Tỷ lệ dân số từ 65 tuổi trở lên là 22,51%, xếp hạng thứ ba trong số các tỉnh độ tuổi cao nhất cả nước. Người trẻ ở vùng núi xu hướng dân chuyển ra ngoài lâu dài.
 
-> **📝 Ghi chú Curation:** "Không giáp biển" nghe có vẻ như một điểm yếu. Nhưng năm 1957 chính quyền Quốc dân chọn làng Zhongxing làm địa điểm văn phòng tạm thời của chính quyền tỉnh, một lý do là nó **nằm khá sâu trong đất liền**: nếu chiến tranh hai bờ ảnh hưởng tới Đài Bắc, chính quyền tỉnh sẽ không bị phá hủy cùng với trung ương. Nằm sâu trong đất liền là dự phòng, là an toàn. Rồi năm 1999 ngày 21 tháng 9 lúc 1 giờ 47 phút, vết thương sâu nhất của Đài Loan sau chiến tranh bất ngờ nổ ra từ trung tâm của quận "đất liền nhất" này. Ý nghĩa vật lý của đất liền được định nghĩa lại trong 102 giây: bạn nghĩ rằng nằm xa khỏi chiến tranh là nằm xa khỏi thảm họa, nhưng đứt gãy Chelungpu không chọn bên nào.
+> **📝 Ghi chú biên tập viên:** "Không giáp biển" nghe có vẻ như một nhược điểm. Nhưng năm 1957, Chính phủ Quốc Dân đã chọn làng Sinh Lên mới làm trung tâm tạm thời của tỉnh lệ, một phần lý do là vì nó **đủ nội địa**: nếu chiến tranh giữa hai bờ có lan tỏa tới Bắc Đài, trung tâm tỉnh sẽ không bị đồng thời với trung tâm quốc gia. Nội địa là kế phòng, là sự an toàn. Sau đó, vào lúc 1h47 sáng ngày 21 tháng 9 năm 1999, vết thương sâu nhất kể từ sau chiến tranh làng ra từ trung tâm của "tỉnh nội địa nhất" này. Ý nghĩa vật lý của nội địa đã bị định nghĩa lại trong vòng 102 giây: bạn nghĩ xa rời chiến tranh là xa rời thảm họa, nhưng vòng đạn phá hoại Car Lô không phân biệt.
 
-Lịch sử của quận này được sắp xếp theo độ cao. Trên bằng phẳng là kênh Bát Bảo, trên sườn núi là Wushe, dưới mặt nước là đảo Lalu, trên đỉnh 3.952 mét là núi Ngọc Sơn, mỗi tầng cao độ đều áp một câu chuyện.
+Lịch sử của tỉnh này được sắp xếp theo độ cao. Những con kênh Bát Bảo ở đồng bằng, Wushe ở triền đồi, Lalu ở dưới mặt nước hồ, Tam Bảo ở 3.952 mét — mỗi tầng độ cao đều chứa đựng một câu chuyện.
 
-![Cảnh quan cao nguyên ở vùng đỉnh núi Hợp Huân, độ cao 3.275 mét Wuling nằm ở yên ngựa giữa đỉnh chính và đỉnh phụ của núi Hợp Huân. Điểm này trên Quốc lộ 14A là đỉnh cao nhất của đường bộ Đài Loan, mỗi mùa đông tuyết rơi là một trong những nơi ít ỏi trên đảo chính Đài Loan có thể ngắm tuyết.](/article-images/geography/nantou-01.webp)
-_Cảnh quan núi Hợp Huân. Photo: Chewy3326，CC BY 2.5。[via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG)._
+![Cảnh quan cao nguyên Hoa Ninh, Lâm Hồ ở độ cao 3.275 mét nằm giữa đỉnh Hoa Ninh và đỉnh Đông Bắc. Đây là điểm cao nhất trên tuyến 14A, vào mùa đông hàng năm là nơi chơi tuyết hiếm hoi trên bán đảo Đài Loan.](/article-images/geography/nantou-01.webp)
+_Cảnh quan Hoa Ninh. Photo: Chewy3326，CC BY 2.5。[qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hehuanshan_Cuesta.JPG)._
 
 ## Nước Kênh Bát Bảo Chảy Từ Năm Khang Hy Tới Huyện Danh Gian
 
@@ -130,34 +130,34 @@ Năm 2011 "Seediq Bale" được đạo diễn Magadelic Wei công chiếu, doan
 
 Nhưng hôm nay đi tới Wushe, thấy được là một khu vực du lịch: Công viên tưởng niệm Mona Rudao, Tượng đài kháng chiến sự kiện Wushe, bộ lạc Thanh Lưu. Vết thương của tộc Seediq được đổi thành một dòng phong cảnh được chụp ảnh.
 
-## Đập Wujie Dâng Cao 18,18 Mét, Đảo Lalu Của Người Thao Thành Hòn Đảo Cô Lập 30 Mét
+## Thùng bờ thủy điện Wujie tăng lên 18,18 mét, đảo Lalu của người Thao biến thành hòn đảo đơn lẻ 30 mét
 
-Ngày 3 tháng 6 năm 1934, nhà máy điện thứ nhất hồ Nhật Nguyệt (hôm nay là nhà máy Guankan thứ nhất) khánh thành. Công suất phát điện 143.500 kilowatt, "**lúc đó là cơ sở thủy điện lớn nhất châu Á, lớn thứ bảy thế giới**"[^13].
+Ngày 3 tháng 6 năm 1934, nhà máy thủy điện Nhật Nguyệt đầu tiên (nay là nhà máy lớn Nhật Nguyệt nhà máy Nhất) hoạt động. Công suất 143.500 kW, "lúc bấy giờ là nhà máy thủy điện lớn nhất châu Á và thứ 7 trên thế giới"[^13].
 
-Từ khi Công ty điện lực Đài Loan được thành lập năm 1919, liệt dự án thuỷ điện hồ Nhật Nguyệt là kế hoạch ưu tiên hàng đầu, tới năm 1923 trận động đất Kanto làm quỹ tăng lên và dự án dừng, năm 1931 khôi phục lại và sửa kế hoạch, tại Wujie trên sông Đục Thủy thượng nguồn Nhân Ái xây dựng đập trọng lực bê-tông (đập Wujie, cao 57,6 mét, dài 90,91 mét, 6 cửa xả), sau đó khai thác đường ống dẫn nước đưa nước vào hồ Nhật Nguyệt[^13]. Dự án kỹ thuật thuỷ lợi lớn nhất thời Nhật trị mất 15 năm.
+Từ năm 1919 khi công ty Điện Năng Đài Loan thành lập và đưa dự án thủy điện Nhật Nguyệt lên làm mục tiêu hàng đầu, đến năm 1923 khi động đất vùng Đông Bắc làm ngân sách tăng gấp nhiều lần khiến dự án tạm dừng, năm 1931 tái khởi công điều chỉnh kế hoạch, trên sông Tương Thủy ở khu vực thiện nghĩa của vùng Wujie xây dựng thùng bờ đá trọng lực (thùng bờ Wujie, chiều cao 57,6 mét, chiều dài 90,91 mét, lắp đặt 6 cửa sông), sau đó đào đường hầm dẫn nước để đưa nước vào Nhật Nguyệt[^13]. Dự án thủy lợi lớn nhất trong thời kỳ thuộc địa Nhật Bản mất 15 năm.
 
-Tháng 9 năm 1934 đạo dẫn nước Wujie bắt đầu xả nước, **mực nước hồ Nhật Nguyệt dâng cao 18,18 mét**[^13].
+Tháng 9 năm 1934, kênh dẫn nước Wujie bắt đầu chảy nước, "mực nước Nhật Nguyệt tăng lên 18,18 mét"[^13].
 
-Diện tích hồ mở rộng từ 4,55 km² tới 7,73 km². Trang web du lịch hồ Nhật Nguyệt ghi lại từng chữ tác động này đối với người Thao: "**Mực nước dâng cao đã nhấn chìm các thôn cũ truyền thống và đất canh tác của người Thao, người Nhật di dân người Thao tới xã Đức Hóa, mỗi người chỉ được phân chia 0,2 ha đất, dân số người Thao cũng dần dần giảm.**"[^14]
+Diện tích mặt nước từ 4,55 km² mở rộng thành 7,73 km². Trang lịch sử du lịch Nhật Nguyệt ghi chép chi tiết tác động này đến đối với người Thao: "Mực nước tăng lên đã ngập lụt các bản làng truyền thống và đất canh tác của người Thao, người Nhật đưa người Thao đến sinh sống tại xã Đức Hóa, mỗi hộ gia đình chỉ được chia 2 phần đất, dân số người Thao cũng dần giảm đi."[^14]
 
-Người Thao ban đầu sống ở thôn cũ Shiyinof phía đông hồ Nhật Nguyệt, đất canh tác phân bổ xung quanh hồ. **Năm mực nước dâng cao, nhà của họ bị nhấn chìm**.
+Người Thao ban đầu sinh sống ở phía đông của Nhật Nguyệt tại bản làng Thạch Ấn, đất canh tác phân bố quanh hồ. "Năm mực nước tăng, nhà cửa của họ bị ngập lụt"[^13].
 
-Đảo Lalu (Lalu) là một hòn đảo nhỏ ở trung tâm hồ Nhật Nguyệt, nơi thiêng liêng nhất của tổ tiên người Thao. Lalu trong ngôn ngữ Thao có nghĩa là "**đảo thiêng liêng trong tim**"[^15]. Lúc Nhật trị gọi là "đảo Ngọc", sau chiến tranh năm 1949 Quốc Dân Đảng đổi tên "Quang Hóa Đảo" (lấy ý "phát huy Trung Hoa"). Từ đất canh tác hàng chục ha nguyên bản sụp xuống thành đảo cô lập đường kính 30 mét sau công trình hồ chứa. **Từ đảo thiêng liêng thành một hòn đảo bị tàu du lịch quanh quanh chụp ảnh, mất 15 năm**.
+Đảo Lalu (Lalu) là hòn đảo nhỏ ở giữa Nhật Nguyệt, nơi thiêng liêng nhất của người Thao. Lalu trong tiếng Thao có nghĩa là "hòn đảo thiêng liêng trong lòng"[^15]. Trong thời kỳ thuộc địa Nhật được gọi là "đảo Ngọc", sau chiến tranh năm 1949 Chính phủ Quốc Dân Đảng đổi tên thành "đảo Quang Hoa" (có nghĩa là "rực rỡ Trung Hoa"). Từ ban đầu là đất canh tác rộng lớn của cộng đồng Bách Thái, sau khi xây dựng hồ chứa thủy điện trở thành hòn đảo đơn lẻ với đường kính 30 mét. "Từ hòn đảo thiêng liêng thành một hòn đảo nhỏ chỉ để du khách chụp ảnh quanh năm" mất 15 năm.
 
-![Đảo Lalu, tháng 8 năm 2013. Hòn đảo nhỏ ở trung tâm hồ Nhật Nguyệt, nơi thiêng liêng nhất của tổ tiên người Thao Lalu "đảo thiêng liêng trong tim". Trước khi đập Wujie dâng cao 18,18 mét năm 1934, đây là đất canh tác hàng chục ha của người Thao; hôm nay sụp xuống thành đảo cô lập đường kính 30 mét, bị tàu du lịch quanh quanh chụp ảnh. Năm 2000 từ "Quang Hóa Đảo" lấy lại tên chính thức Lalu.](/article-images/geography/nantou-01.webp)
-_Đảo Lalu, 2013-08-19. Photo: Ckbun，CC BY-SA 3.0。[via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG)._
+![Đảo Lalu, hòn đảo nhỏ ở giữa Nhật Nguyệt, nơi thiêng liêng nhất của người Thao Lalu "hòn đảo thiêng liêng trong lòng". Trước khi thùng bờ Wujie tăng mực nước 18,18 mét, ban đầu là đất canh tác của người Thao. Nay thu nhỏ thành hòn đảo đơn lẻ 30 mét, được du thuyền quanh năm. Năm 2000 đổi tên từ "Quang Hoa" trở lại Lalu.](/article-images/geography/nantou-lalu-island-2013.webp)
+_Lalu, ngày 19 tháng 8 năm 2013. Ảnh: Ckbubutp, CC BY-SA 3.0. [qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013年8月19日拉魯島.JPG)._
 
-Tới năm 2000, người Thao tranh thủ đổi tên "Quang Hóa Đảo" thành "Đảo Lalu"[^15]. Năm sau 2001 ngày 8 tháng 8, người Thao từ dân tộc bản địa bằng phẳng được công nhận chính thức là **dân tộc bản địa thứ 10**. ⚠️ Con số dân số người Thao khác nhau tùy theo năm: Cục Hộ chính Bộ Nội vụ thống kê năm 2017 là 776 người, các thống kê khác khoảng 885 người, bài viết này sử dụng "**khoảng 800 nhiều người**", là dân tộc bản địa Đài Loan số 16 dân tộc có số dân tư lập thứ 3[^16].
+Đến năm 2000, người Thao đấu tranh để đổi tên "Quang Hoa" trở lại thành "Lalu"[^15]. Năm 2001, ngày 8 tháng 8, người Thao chính thức trở thành "dân tộc bản địa thứ 10". ⚠️ Số dân người Thao khác nhau tùy theo năm thống kê: theo số liệu của Bộ Nội Vụ Năm 2017 là 776 người, các số liệu khác khoảng 885 người, bài viết này sử dụng "khoảng 800 người", là dân tộc bản địa thứ 3 trong tổng số 16 dân tộc của Đài Loan về quy mô dân số nhỏ nhất[^16].
 
-> **✦** "**Mực nước dâng cao đã nhấn chìm các thôn cũ truyền thống và đất canh tác của người Thao, người Nhật di dân người Thao tới xã Đức Hóa, mỗi người chỉ được phân chia 0,2 ha đất.**" (Trang web du lịch hồ Nhật Nguyệt lịch sử[^14])
+> **✦** "Mực nước tăng lên đã ngập lụt các bản làng truyền thống và đất canh tác của người Thao, người Nhật đưa người Thao đến sinh sống tại xã Đức Hóa, mỗi hộ gia đình chỉ được chia 2 phần đất." (trang lịch sử du lịch Nhật Nguyệt[^14])
 
-Mặt hồ Nhật Nguyệt mà du khách nhìn thấy hôm nay, là một "thiên nhiên" được kỹ thuật viên **nâng cao 18,18 mét** sửa đổi. Cái gọi là "tàu du lịch hồ Nhật Nguyệt", quanh quanh được chở là 91 năm trước đất canh tác của người Thao bị nhấn chìm.
+Hôm nay, những gì du khách thấy ở mặt nước Nhật Nguyệt, là một "thiên nhiên" đã bị kỹ thuật thay đổi "lên tới 18,18 mét". Những chiếc thuyền du lạc Nhật Nguyệt thực chất đang lạch trường quanh những mảnh đất đã bị ngập lụt của người Thao cách đây 91 năm.
 
-Người Bunun sống ở bên kia Nam Đầu: huyện Tín Nghĩa. Dọc theo lưu vực suối Trần Hữu Lan phân bổ năm nhóm xã Caoshe, Kashe, Danshe, Luanshe, Junshe[^17]. Nhóm Caoshe sống làng Caomei (phía bắc nhất huyện Tín Nghĩa), nhóm Kashe ở Địa Lợi song Long, nhóm Danshe ở làng Địa Lợi suối Trần Hữu Lan thượng nguồn, nhóm Luanshe ở Phong Khúc vọng hương tân hương, nhóm Junshe ở Đông Bộ Luo Na. Pasibutbut (tám phần hài hòa) "**chỉ truyền lại ở nhóm Luanshe và nhóm Junshe của tộc Bunun**", nhóm Danshe, Kashe, Caoshe đều không hát[^17]. ⚠️ Quảng cáo du lịch phổ biến thường coi "tám phần hài hòa" là biểu tượng của toàn bộ tộc Bunun, nhưng thực tế chỉ có hai nhóm xã hát. Bộ lạc Minh Đức (nhóm Luanshe và nhóm Junshe hỗn cư) là bộ lạc hiện nay có khả năng hát pasibutbut và gần nhất với quê hương ban đầu của tổ tiên Bunun.
+Người Bunun sinh sống ở phía bên kia của Nam Tây: khu vực Tín Nghĩa. Dọc theo lưu vực sông Thạch Quang có năm cộng đồng: Trực Xã, Thẻ Xã, Đan Xã, Quyên Xã, Quân Xã[^17]. Cộng đồng Trực Xã sinh sống tại làng Mỹ Mỹ (phía bắc nhất của Tín Nghĩa), cộng đồng Thẻ Xã tại chỗ Lợi Thăng Long, cộng đồng Đan Xã tại làng Lợi của sông Thạch Quang, cộng đồng Quyên Xã tại khu đô thị Phong Hương, cộng đồng Quân Xã tại Đông Bắc La Na. Pasibutbut (tám phần hợp âm) "chỉ được truyền lại ở cộng đồng Quyên Xã và Quân Xã của người Bunun", trong khi Đan Xã, Thẻ Xã, Trực Xã đều không hát[^17]. ⚠️ Thường xuyên trong quảng bá du lịch sẽ nhầm lẫn "tám phần hợp âm" như là biểu tượng của toàn thể người Bunun, nhưng thực ra chỉ hai cộng đồng mới biết hát. Bộ lạc Minh Đức (kết hợp cộng đồng Quyên Xã và Quân Xã) là nơi có thể biểu diễn pasibutbut hiện nay và gần nhất với đất nguyên thủy của tổ tiên Bunun.
 
-Phía đông huyện Tín Nghĩa còn có lãnh thổ truyền thống của tộc Tsou, công viên quốc gia Ngọc Sơn nằm ở vùng này. **Công viên quốc gia Ngọc Sơn vượt qua bốn quận thành phố**: huyện Tín Nghĩa Nam Đầu, huyện A Lý Sơn Chiayi, quận Đào Nguyên Cao Hùng, **huyện Tác Khê Hoa Liên**[^18]. ⚠️ Các tường thuật thông thường thường bỏ qua phần huyện Tác Khê, Hoa Liên, nhưng phạm vi công viên thực tế ngang qua phía đông nam Hoa Liên. Được thành lập ngày 10 tháng 4 năm 1985, diện tích 105.490 ha, là công viên quốc gia có diện tích lớn nhất Đài Loan.
+Phía đông của Tín Nghĩa còn là lãnh thổ truyền thống của dân tộc Cây: Vườn Quốc Gia Yushan nằm ngay tại đây. "Vườn Quốc Gia Yushan trải rộng trên bốn tỉnh thành: Tỉnh Nam Tây Tín Nghĩa, Tỉnh Chè Núi A Li Sơn, Thành phố Kaohsiung khu Peach Source, và tỉnh Hoa Ninh Trúc Tỉnh"[^18]. ⚠️ Thường lúc kể lại thường bỏ qua phần của tỉnh Hoa Ninh Trúc Tỉnh, nhưng thực sự khu vực vườn nằm rải khắp phía đông nam của Hoa Ninh. Ngày 10 tháng 4 năm 1985 thành lập, diện tích 105.490 hecta, là công viên quốc gia lớn nhất của Đài Loan.
 
-Ở quận nội địa duy nhất không giáp biển của Nam Đầu, sống 4 dân tộc bản địa Seediq, Bunun, Thao, Tsou, cộng với người Hán Mân khách. Huyện miền núi chiếm 2 trên 13 huyện thành phố, nhưng diện tích của 2 huyện này vượt xa hơn hợp của 11 huyện kia.
+Trong tỉnh Nam Tây — nơi duy nhất không bờ biển — sống cùng nhau là bốn dân tộc bản định là người Sedek, người Bunun, người Thao và người Cây, cùng với người Hán và người Minh Kẻ. Trong số 13 đơn vị hành chính, chỉ có 2 nơi là vùng núi, nhưng diện tích của 2 nơi này vượt quá tổng số diện tích của 11 nơi còn lại.
 
 ## Đại Lộ Dừa Của Làng Zhongxing Vẫn Còn Đó
 
