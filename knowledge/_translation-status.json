@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T19:54:42+08:00",
-    "zhCommitHead": "42075216c",
+    "lastUpdated": "2026-09-09T20:07:00+08:00",
+    "zhCommitHead": "82eca76e6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 569,
+        "fresh": 570,
         "stale": 50,
         "metadata_stale": 11,
-        "missing": 491,
+        "missing": 490,
         "orphan": 0
       },
       "pt": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 748,
+        "fresh": 749,
         "stale": 42,
         "metadata_stale": 12,
-        "missing": 319,
+        "missing": 318,
         "orphan": 0
       },
       "de": {
@@ -3998,7 +3998,18 @@
           "diffSummary": "+1 -1"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/chthonic.md",
+          "translatedFrom": "Music/閃靈.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:428539ef61aee065",
+          "sourceBodyHash": "sha256:ca8382bb6533d023",
+          "translatedAt": "2026-09-09T11:46:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Music/chthonic.md",
@@ -51429,8 +51440,8 @@
           "sourceContentHash": "sha256:11472ed85277289a",
           "sourceBodyHash": "sha256:78aa4d7a1743dd44",
           "translatedAt": "2026-09-09T11:45:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "82eca76e",
+          "translationLastModified": "2026-09-09T19:54:42+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -67464,8 +67475,8 @@
           "sourceContentHash": "sha256:d64c72cf7c6361d3",
           "sourceBodyHash": "sha256:6f5a343122533934",
           "translatedAt": "2026-09-09T11:45:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "82eca76e",
+          "translationLastModified": "2026-09-09T19:54:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -96834,7 +96845,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/vh-band.md",
+          "translatedFrom": "People/VH.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:12627c86b39f3cf2",
+          "sourceBodyHash": "sha256:cac852a1ab84bcac",
+          "translatedAt": "2026-09-09T11:45:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/vh-band.md",
