@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-09T14:37:46+08:00",
-    "zhCommitHead": "17725eab9",
+    "lastUpdated": "2026-09-09T14:56:17+08:00",
+    "zhCommitHead": "63610dd13",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 655,
+        "fresh": 656,
         "stale": 85,
         "metadata_stale": 79,
-        "missing": 302,
+        "missing": 301,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 564,
+        "fresh": 565,
         "stale": 50,
         "metadata_stale": 11,
-        "missing": 496,
+        "missing": 495,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 643,
+        "fresh": 644,
         "stale": 39,
         "metadata_stale": 11,
-        "missing": 428,
+        "missing": 427,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 126,
+        "fresh": 127,
         "stale": 7,
         "metadata_stale": 1,
-        "missing": 987,
+        "missing": 986,
         "orphan": 0
       }
     },
@@ -16265,8 +16265,8 @@
           "sourceContentHash": "sha256:74fc634acab51c40",
           "sourceBodyHash": "sha256:f5ecba58cc661bc1",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63610dd1",
+          "translationLastModified": "2026-09-09T14:37:47+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -47453,7 +47453,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/taiwan-teacher-discipline-dilemma.md",
+          "translatedFrom": "Society/台灣教師的管教困境.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0a9d7b4b73be1372",
+          "sourceBodyHash": "sha256:50ce5b41a494b70c",
+          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-teacher-discipline-dilemma.md",
@@ -56482,8 +56493,8 @@
           "sourceContentHash": "sha256:73ee4c24e755afd6",
           "sourceBodyHash": "sha256:7e5da6fad0f6882b",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63610dd1",
+          "translationLastModified": "2026-09-09T14:37:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -62457,8 +62468,8 @@
           "sourceContentHash": "sha256:d1293bcf641ce299",
           "sourceBodyHash": "sha256:44c9000276437d2c",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63610dd1",
+          "translationLastModified": "2026-09-09T14:37:47+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -71985,8 +71996,8 @@
           "sourceContentHash": "sha256:f272f267160332e7",
           "sourceBodyHash": "sha256:3d2acfec22ab6d95",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63610dd1",
+          "translationLastModified": "2026-09-09T14:37:47+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -79333,8 +79344,8 @@
           "sourceContentHash": "sha256:18c213bcb30e6393",
           "sourceBodyHash": "sha256:8f9570ec5e03bedf",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63610dd1",
+          "translationLastModified": "2026-09-09T14:37:47+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -92310,7 +92321,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/hung-chieh-ni.md",
+          "translatedFrom": "People/洪婕倪.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8351d05a79dba790",
+          "sourceBodyHash": "sha256:f76990887dfd2b78",
+          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -121459,7 +121481,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/withdrawal-from-united-nations.md",
+          "translatedFrom": "History/退出聯合國.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:84c16f78fb1c8afd",
+          "sourceBodyHash": "sha256:e02dfcaef9951112",
+          "translatedAt": "2026-09-09T11:45:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/withdrawal-from-united-nations.md",
@@ -129700,7 +129733,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taoyuan-ponds.md",
+          "translatedFrom": "Geography/桃園埤塘.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7397e54a88091d6e",
+          "sourceBodyHash": "sha256:3f4ab58302003b2a",
+          "translatedAt": "2026-09-09T11:45:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taoyuan-ponds.md",
@@ -129737,8 +129781,8 @@
           "sourceContentHash": "sha256:7397e54a88091d6e",
           "sourceBodyHash": "sha256:3f4ab58302003b2a",
           "translatedAt": "2026-09-09T11:46:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63610dd1",
+          "translationLastModified": "2026-09-09T14:37:47+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
