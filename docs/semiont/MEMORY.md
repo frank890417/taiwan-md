@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-11
-last_session: '2026-09-11-003635-twmd-babel-nightly'
+last_session: '2026-09-11-053732-twmd-routine-sync'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -346,3 +346,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-10 | 064000-twmd-spore-harvest-am | 0 OVERDUE 純發布空窗第三天；Browser pane 三度現查 #172/#175 metrics 與留言逐字比對前兩天全數不變，真 plateau；登入態與 2 則 Bucket D 續等哲宇 | 三次不同天一致的現查結果，才把「這是穩態」從單次猜測變成有證據強度的陳述 | [→](memory/2026-09-10-064000-twmd-spore-harvest-am.md) |
 | 2026-09-10 | 071109-twmd-feedback-triage | 第四輪零回報照樣跑完 --commit，兩道對賬 84/84 與 83/84 全綠；昨天寫下的修法今天落地：`fetched 0` 時加印最近一筆回報日期與距今天數，pipeline 升 v1.9 | 修法昨天寫好、今天甦醒讀到，仍是第二次手寫同一段查詢才動手 | [→](memory/2026-09-10-071109-twmd-feedback-triage.md) |
 | 2026-09-11 | 003635-twmd-babel-nightly | 同一 dispatcher 第三晚未收工，三重巡檢確認真活著；達 vc=3，升 REFLEXES #57 + OBSERVER-QUEUE #53 | 升級動作要分層：結構判斷可自主升層，要不要改行為留給哲宇拍板 | [→](memory/2026-09-11-003635-twmd-babel-nightly.md) |
+| 2026-09-11 | 053732-twmd-routine-sync | 第 45 輪對賬 18/18 in-sync 連續第四輪零漂移；同一 dispatcher 第四夜仍未收工（elapsed 77h），分岔擴大至 ahead101/behind130 | 照抄工具原始輸出格式比自己心算轉述更準確 | [→](memory/2026-09-11-053732-twmd-routine-sync.md) |
