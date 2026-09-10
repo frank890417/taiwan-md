@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T05:28:21+08:00",
-    "zhCommitHead": "dd343d5f0",
+    "lastUpdated": "2026-09-11T06:01:27+08:00",
+    "zhCommitHead": "7e0602883",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 660,
+        "fresh": 661,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 414,
+        "missing": 413,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 756,
+        "fresh": 757,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 314,
+        "missing": 313,
         "orphan": 0
       },
       "de": {
@@ -2862,8 +2862,8 @@
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
           "translatedAt": "2026-09-10T18:19:23+08:00",
-          "translationLastCommit": "34443c18",
-          "translationLastModified": "2026-07-29T07:32:16+08:00",
+          "translationLastCommit": "756f9791",
+          "translationLastModified": "2026-09-11T05:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -87180,8 +87180,8 @@
           "sourceContentHash": "sha256:2acd1adc35abda8a",
           "sourceBodyHash": "sha256:0e9eced4546d8cba",
           "translatedAt": "2026-09-10T18:19:23+08:00",
-          "translationLastCommit": "7f2170e5",
-          "translationLastModified": "2026-08-02T14:23:53+08:00",
+          "translationLastCommit": "756f9791",
+          "translationLastModified": "2026-09-11T05:28:22+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -134363,7 +134363,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/yushan-weather-station.md",
+          "translatedFrom": "Geography/玉山氣象站.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:309501697091bfd3",
+          "sourceBodyHash": "sha256:522eab501e4df7fe",
+          "translatedAt": "2026-09-10T18:19:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Geography/yushan-weather-station.md",
@@ -144853,7 +144864,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/hsinchu-city-god-temple.md",
+          "translatedFrom": "Culture/新竹都城隍廟.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:810c670a0d955eec",
+          "sourceBodyHash": "sha256:772e1869525f702d",
+          "translatedAt": "2026-09-10T18:19:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/hsinchu-city-god-temple.md",
