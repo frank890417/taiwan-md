@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T04:13:00+08:00",
-    "zhCommitHead": "e9c96d80c",
+    "lastUpdated": "2026-09-11T05:28:21+08:00",
+    "zhCommitHead": "dd343d5f0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 608,
-        "stale": 49,
+        "fresh": 610,
+        "stale": 48,
         "metadata_stale": 9,
-        "missing": 455,
+        "missing": 454,
         "orphan": 0
       },
       "pt": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 755,
+        "fresh": 756,
         "stale": 41,
-        "metadata_stale": 11,
+        "metadata_stale": 10,
         "missing": 314,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 179,
+        "fresh": 182,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 935,
+        "missing": 932,
         "orphan": 0
       }
     },
@@ -2214,16 +2214,16 @@
         "id": {
           "path": "id/Music/contemporary-indigenous-singer-songwriters.md",
           "translatedFrom": "Music/當代原住民創作歌手.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:9dc0db555b0aecb7",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-05T18:31:10.295241+00:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:5f5c57d9d0a5af84",
+          "sourceBodyHash": "sha256:6ab99bf50b216a39",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
           "translationLastCommit": "92d547c8",
           "translationLastModified": "2026-08-06T02:51:02+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (21→7)"
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/contemporary-indigenous-singer-songwriters.md",
@@ -2804,8 +2804,8 @@
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd343d5f",
+          "translationLastModified": "2026-09-11T04:13:00+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -12614,8 +12614,8 @@
           "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
           "sourceBodyHash": "sha256:e4265d915ae6599c",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd343d5f",
+          "translationLastModified": "2026-09-11T04:13:00+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -22072,7 +22072,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-5g-digital-transformation.md",
+          "translatedFrom": "Technology/台灣5G網路建設與數位轉型.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:1e757976bc4f33e4",
+          "sourceBodyHash": "sha256:122e66655dc1f0bf",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-5g-digital-transformation.md",
@@ -53481,7 +53492,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-yuelao-matchmaker-map.md",
+          "translatedFrom": "Society/台灣月老地圖.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:0bd3cef2eb38faed",
+          "sourceBodyHash": "sha256:b139705eca5e1f54",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -84273,8 +84295,8 @@
           "sourceContentHash": "sha256:685b3a0c30829488",
           "sourceBodyHash": "sha256:dfd669296348affb",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd343d5f",
+          "translationLastModified": "2026-09-11T04:13:00+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -87154,18 +87176,16 @@
         "ru": {
           "path": "ru/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
           "translatedFrom": "People/陳樹菊.md",
-          "sourceCommitSha": "85926aa3b",
-          "sourceContentHash": "sha256:884e3106e00c3ed4",
+          "sourceCommitSha": "2344309a0",
+          "sourceContentHash": "sha256:2acd1adc35abda8a",
           "sourceBodyHash": "sha256:0e9eced4546d8cba",
-          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translatedAt": "2026-09-10T18:19:23+08:00",
           "translationLastCommit": "7f2170e5",
           "translationLastModified": "2026-08-02T14:23:53+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
@@ -108231,8 +108251,8 @@
           "sourceContentHash": "sha256:0a577177f15f5897",
           "sourceBodyHash": "sha256:269ea0687b8a4a49",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dd343d5f",
+          "translationLastModified": "2026-09-11T04:13:00+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -111060,8 +111080,8 @@
           "sourceContentHash": "sha256:2aabcc7bbabb4a16",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T18:49:21.026114+00:00",
-          "translationLastCommit": "01bf696c",
-          "translationLastModified": "2026-07-25T08:39:49+08:00",
+          "translationLastCommit": "dd343d5f",
+          "translationLastModified": "2026-09-11T04:13:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -122909,7 +122929,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/withdrawal-from-united-nations.md",
+          "translatedFrom": "History/退出聯合國.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:84c16f78fb1c8afd",
+          "sourceBodyHash": "sha256:e02dfcaef9951112",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -136032,7 +136063,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taiwan-reservoirs-and-water-resource-management.md",
+          "translatedFrom": "Geography/台灣水庫與水資源管理.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:58cfc27dba0ac67b",
+          "sourceBodyHash": "sha256:4e6245b3f0401bec",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
