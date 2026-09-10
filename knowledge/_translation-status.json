@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T21:39:20+08:00",
-    "zhCommitHead": "3c3db8462",
+    "lastUpdated": "2026-09-10T22:08:56+08:00",
+    "zhCommitHead": "65f01e2d1",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 803,
+        "fresh": 804,
         "stale": 80,
-        "metadata_stale": 18,
+        "metadata_stale": 17,
         "missing": 220,
         "orphan": 0
       },
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 710,
+        "fresh": 713,
         "stale": 82,
         "metadata_stale": 77,
-        "missing": 252,
+        "missing": 249,
         "orphan": 0
       },
       "id": {
@@ -66241,7 +66241,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chen-chien-jen.md",
+          "translatedFrom": "People/陳建仁.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:436d6f6b6586a312",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T13:55:53.458730+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/chen-chien-jen.md",
@@ -76303,8 +76314,8 @@
           "sourceContentHash": "sha256:e292cad27370cab5",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T12:07:53.184848+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65f01e2d",
+          "translationLastModified": "2026-09-10T21:39:21+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
@@ -84722,7 +84733,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/su-wei-hsieh-wimbledon-champion.md",
+          "translatedFrom": "People/謝淑薇.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:e699feede1257135",
+          "sourceBodyHash": "sha256:86d8a4b7771c32c4",
+          "translatedAt": "2026-09-10T18:19:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/su-wei-hsieh-wimbledon-champion.md",
@@ -86827,16 +86849,16 @@
         "en": {
           "path": "en/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
           "translatedFrom": "People/陳樹菊.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:884e3106e00c3ed4",
+          "sourceCommitSha": "2344309a0",
+          "sourceContentHash": "sha256:2acd1adc35abda8a",
           "sourceBodyHash": "sha256:0e9eced4546d8cba",
-          "translatedAt": "2026-05-16T21:50:00Z",
+          "translatedAt": "2026-09-10T18:19:02+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "metadata-stale",
-          "reason": "sha-lost-body-match"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
@@ -109954,7 +109976,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/taiwan-apple-bread.md",
+          "translatedFrom": "Food/蘋果麵包.md",
+          "sourceCommitSha": "a0314c6e3",
+          "sourceContentHash": "sha256:1a92c24eb1a7d8cf",
+          "sourceBodyHash": "sha256:4f26d4508afc31e5",
+          "translatedAt": "2026-09-10T18:19:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/taiwan-apple-bread.md",
@@ -120173,8 +120206,8 @@
           "sourceContentHash": "sha256:ed10e8c11ed48896",
           "sourceBodyHash": "sha256:4ef8874799781420",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65f01e2d",
+          "translationLastModified": "2026-09-10T21:39:21+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -130124,8 +130157,8 @@
           "sourceContentHash": "sha256:e26ca70cc051b743",
           "sourceBodyHash": "sha256:6ea24f40d826e7d7",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65f01e2d",
+          "translationLastModified": "2026-09-10T21:39:21+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -139344,8 +139377,8 @@
           "sourceContentHash": "sha256:2b98bb25fe4e7d4a",
           "sourceBodyHash": "sha256:d565775868e89ffc",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65f01e2d",
+          "translationLastModified": "2026-09-10T21:39:21+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -141087,8 +141120,8 @@
           "sourceContentHash": "sha256:38e87349431f9040",
           "sourceBodyHash": "sha256:6436714823ccf368",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65f01e2d",
+          "translationLastModified": "2026-09-10T21:39:21+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -141265,8 +141298,8 @@
           "sourceContentHash": "sha256:098044cbe17d84d6",
           "sourceBodyHash": "sha256:0dee5d4db7ae7893",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65f01e2d",
+          "translationLastModified": "2026-09-10T21:39:21+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -141998,8 +142031,8 @@
           "sourceContentHash": "sha256:5501454d0b0366dd",
           "sourceBodyHash": "sha256:7e3bd7915270078d",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "65f01e2d",
+          "translationLastModified": "2026-09-10T21:39:21+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
