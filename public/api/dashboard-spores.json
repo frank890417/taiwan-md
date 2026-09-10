@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T22:13:43.186562Z",
+  "lastUpdated": "2026-09-10T22:39:55.730740Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 166,
@@ -33,10 +33,10 @@
       "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
       "url": "https://x.com/taiwandotmd/status/2091212353874678264",
       "highlight": "同 #175 內容，X 單則 inline 連結",
-      "views_7d": 24800,
-      "views_latest": 24800,
-      "engagements_7d": 770,
-      "rate_7d": 3.1,
+      "views_7d": 25000,
+      "views_latest": 25000,
+      "engagements_7d": 769,
+      "rate_7d": 3.08,
       "backfilled": true
     },
     {
@@ -49,10 +49,10 @@
       "template": "B (冷知識型 — 認知衝突 reveal，meta 公告變體)",
       "url": "https://www.threads.com/@taiwandotmd/post/DcWa9mnI4vJ",
       "highlight": "一串被點名的支語，十一個裡有十個在教育部辭典查得到；本輪新收 15 條詞條，詞庫 2,409",
-      "views_7d": null,
-      "views_latest": null,
-      "engagements_7d": 2297,
-      "rate_7d": null,
+      "views_7d": 3981,
+      "views_latest": 3981,
+      "engagements_7d": 2327,
+      "rate_7d": 58.45,
       "backfilled": true
     },
     {
@@ -81,10 +81,10 @@
       "template": "C 短版（214 字，同角度）",
       "url": "https://x.com/taiwandotmd/status/2089561276938666168",
       "highlight": "/budget 孢子 X 版 — 同角度短版 + inline UTM s173",
-      "views_7d": 10400,
-      "views_latest": 10400,
+      "views_7d": 10000,
+      "views_latest": 10000,
       "engagements_7d": 804,
-      "rate_7d": 7.73,
+      "rate_7d": 8.04,
       "backfilled": true
     },
     {
@@ -97,10 +97,10 @@
       "template": "C 完整版（哲宇視角：看不懂立院預算攻防→攤開十一年主計總處原表；Taiwan.md 特別企劃）",
       "url": "https://www.threads.com/@taiwandotmd/post/DcKsP3Co9jm",
       "highlight": "/budget 總預算十年策展頁孢子（非文章頁）— 國防 5,614 億 vs 文化部 273 億差二十倍、教科文四大支出唯一占比下滑＋成長最慢 +46%、媒宣費 4,738 萬連兩年全刪、115 年度 8/14 三讀史上最晚；配圖 budget-decade-01..10（page-shots.mjs）；UTM s172",
-      "views_7d": null,
-      "views_latest": null,
+      "views_7d": 5105,
+      "views_latest": 5105,
       "engagements_7d": 444,
-      "rate_7d": null,
+      "rate_7d": 8.7,
       "backfilled": true
     }
   ],
@@ -205,17 +205,17 @@
   "amplification": [],
   "platformComparison": {
     "threads": {
-      "count": 62,
-      "avgViews": 30775,
+      "count": 64,
+      "avgViews": 29957,
       "maxViews": 430000,
-      "avgRate": 5.71,
-      "maxRate": 16.75
+      "avgRate": 6.98,
+      "maxRate": 58.45
     },
     "x": {
       "count": 74,
-      "avgViews": 14154,
+      "avgViews": 14165,
       "maxViews": 136474,
-      "avgRate": 3.45,
+      "avgRate": 3.46,
       "maxRate": 9.09
     }
   },
@@ -284,12 +284,12 @@
     {
       "week": "2026-W33",
       "published": 2,
-      "avgViews": 12674
+      "avgViews": 13225
     },
     {
       "week": "2026-W34",
       "published": 5,
-      "avgViews": 17600
+      "avgViews": 11022
     }
   ],
   "harvestStatus": [
@@ -1880,8 +1880,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 38,
       "withinHarvestWindow": false,
-      "harvestCount": 4,
-      "lastHarvest": "2026-09-08 06:30"
+      "harvestCount": 5,
+      "lastHarvest": "2026-09-11 06:39"
     },
     {
       "n": 170,
@@ -1890,8 +1890,8 @@
       "publishDate": "2026-08-11",
       "daysSincePublish": 31,
       "withinHarvestWindow": false,
-      "harvestCount": 7,
-      "lastHarvest": "2026-08-18 06:40"
+      "harvestCount": 8,
+      "lastHarvest": "2026-09-11 06:39"
     },
     {
       "n": 171,
@@ -1900,8 +1900,8 @@
       "publishDate": "2026-08-11",
       "daysSincePublish": 31,
       "withinHarvestWindow": false,
-      "harvestCount": 7,
-      "lastHarvest": "2026-08-18 06:40"
+      "harvestCount": 8,
+      "lastHarvest": "2026-09-11 06:39"
     },
     {
       "n": 172,
@@ -1910,8 +1910,8 @@
       "publishDate": "2026-08-18",
       "daysSincePublish": 24,
       "withinHarvestWindow": false,
-      "harvestCount": 7,
-      "lastHarvest": "2026-09-08 06:30"
+      "harvestCount": 8,
+      "lastHarvest": "2026-09-11 06:39"
     },
     {
       "n": 173,
@@ -1920,8 +1920,8 @@
       "publishDate": "2026-08-18",
       "daysSincePublish": 24,
       "withinHarvestWindow": false,
-      "harvestCount": 7,
-      "lastHarvest": "2026-09-08 06:30"
+      "harvestCount": 8,
+      "lastHarvest": "2026-09-11 06:39"
     },
     {
       "n": 174,
@@ -1930,8 +1930,8 @@
       "publishDate": "2026-08-18",
       "daysSincePublish": 24,
       "withinHarvestWindow": false,
-      "harvestCount": 6,
-      "lastHarvest": "2026-09-08 06:30"
+      "harvestCount": 7,
+      "lastHarvest": "2026-09-11 06:39"
     },
     {
       "n": 175,
@@ -1940,8 +1940,8 @@
       "publishDate": "2026-08-23",
       "daysSincePublish": 19,
       "withinHarvestWindow": false,
-      "harvestCount": 6,
-      "lastHarvest": "2026-09-08 06:30"
+      "harvestCount": 7,
+      "lastHarvest": "2026-09-11 06:39"
     },
     {
       "n": 176,
@@ -1950,8 +1950,8 @@
       "publishDate": "2026-08-23",
       "daysSincePublish": 19,
       "withinHarvestWindow": false,
-      "harvestCount": 6,
-      "lastHarvest": "2026-09-08 06:30"
+      "harvestCount": 7,
+      "lastHarvest": "2026-09-11 06:39"
     }
   ]
 }
