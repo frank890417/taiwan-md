@@ -1,87 +1,93 @@
 ---
-title: 'Pasibutbut: Fosil Hidup yang Menantang Pandangan Sejarah Musik Barat'
-description: 'Pada 1943, musikolog Jepang Kurosawa Takatomo merekam Pasibutbut suku Bunun di pegunungan Taitung. Sembilan tahun kemudian rekaman itu sampai ke UNESCO dan mengguncang dunia musikologi internasional—sebuah "bangsa tanpa aksara" menyanyikan paduan suara polifonik yang menurut Barat hanya bisa lahir dari peradaban tingkat tinggi.'
+title: 'Paduan Suara Delapan Bagian: Fosil Hidup yang Menantang Pandangan Sejarah Musik Barat'
+description: 'Pada 1943, sarjana musik Jepang Takemura Takatomo merekam Pasibutbut suku Bunun di pegunungan dalam Taitung. Sembilan tahun kemudian rekaman itu dikirim ke UNESCO, mengejutkan komunitas musikologi internasional—sebuah "bangsa tanpa sistem tulisan" menyanyikan paduan suara polifoni yang Barat yakini hanya dapat dihasilkan oleh peradaban tinggi.'
 date: 2026-04-01
 category: 'Music'
-tags: ['Suku Bunun', 'Musik Pribumi', 'Masyarakat Pribumi', 'Nada Harmonik', 'Warisan Budaya Takbenda', 'Budaya Taiwan']
+tags:
+  [
+    'Suku Bunun',
+    'Musik Masyarakat Asli',
+    'Masyarakat Asli',
+    'Overtone',
+    'Warisan Budaya Takbenda',
+    'Budaya Taiwan',
+  ]
 subcategory: '傳統與民族音樂'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-01
-lastHumanReview: false
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutbut.jpg/1280px-Bunun_pasibutbut.jpg'
-imageAlt: 'Orang Bunun menyanyikan Pasibutbut'
-imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: true
+imageNote: '原 Wikimedia 圖檔已從 Commons 下架（404 Not Found），卡片圖暫缺，待補圖'
 translatedFrom: 'Music/八部合音.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:3c2872e562b3f229'
 sourceBodyHash: 'sha256:43f231d59e183f8e'
-translatedAt: '2026-08-31T22:40:00+08:00'
+translatedAt: '2026-09-10T03:36:19+08:00'
 ---
 
-> **Sekilas dalam 30 detik:** Pada 1943, musikolog Jepang Kurosawa Takatomo membawa peralatan rekaman masuk jauh ke perkampungan Kanding 崁頂 di Taitung dan merekam Pasibutbut, nyanyian suku Bunun untuk memohon panen millet yang melimpah. Sembilan tahun kemudian rekaman itu dikirim ke UNESCO, dan para musikolog yang hadir tercengang—teori Barat menganggap paduan suara polifonik sebagai produk peradaban tingkat tinggi, tetapi orang Bunun mencapainya di pegunungan terpencil, tanpa aksara dan tanpa alat musik, hanya dengan resonansi suara manusia. Suara surgawi yang dikenal sebagai "delapan suara harmoni" (八部合音) ini sampai hari ini tetap menjadi bunyi Taiwan yang paling mudah dikenali di dunia.
+> **Ringkasan 30 Detik:** Pada 1943, sarjana musik Jepang Takemura Takatomo membawa peralatan rekam ke dalam suku Kanating di Taitung, merekam lagu doa panen millet Pasibutbut suku Bunun. Sembilan tahun kemudian rekaman itu dikirim ke UNESCO, para musikolog yang hadir semuanya terkejut—teori Barat berpendapat paduan suara polifoni adalah produk peradaban tinggi, tetapi orang Bunun di pegunungan dalam tanpa tulisan dan tanpa alat musik, hanya dengan resonansi suara manusia saja berhasil melakukannya. Segmen suara surgawi yang disebut "paduan suara delapan bagian" ini hingga kini tetap menjadi suara Taiwan dengan pengenalan internasional paling kuat.
 
-Pada 1943, di penghujung Perang Dunia II, musikolog Jepang **Kurosawa Takatomo** (黑澤隆朝) mendapat penugasan dari Kantor Gubernur Jenderal Taiwan dan membawa perangkat rekaman yang berat masuk ke perkampungan Kanding di Kecamatan Haiduan, Kabupaten Taitung[^1]. Dibantu polisi setempat dan seorang pemuda Bunun bernama "Ado", ia mengatasi pasokan listrik yang tidak stabil dan akses jalan yang sulit, lalu merekam suara yang kelak mengubah sejarah musik.
+Pada 1943, akhir Perang Dunia II, sarjana musik Jepang **Takemura Takatomo** menerima tugas dari Gubernur Jenderal Taiwan, membawa peralatan rekam yang berat ke dalam suku Kanating di Kecamatan Haiduan, Kabupaten Taitung[^1]. Dengan bantuan polisi setempat dan seorang pemuda Bunun bernama "Ado", dia mengatasi ketidakstabilan listrik dan kesulitan transportasi, merekam sebuah suara yang mengubah sejarah musik.
 
-Belakangan Kurosawa menulis: "Ini adalah harmoni alami paling sempurna yang pernah saya dengar seumur hidup."[^2]
+Takemura Takatomo kemudian menulis: "Ini adalah harmoni alami paling sempurna yang pernah kudengar seumur hidupku."[^2]
 
-Pada 1952, ia mengirimkan rekaman itu ke International Folk Music Council yang bernaung di bawah UNESCO. Pandangan arus utama teori musik Barat saat itu adalah bahwa musik manusia berkembang dari nada tunggal menuju polifoni, lalu menuju harmoni yang kompleks—sebuah jalur linear "evolusi peradaban". Kemunculan Pasibutbut meledakkan garis itu[^3]. Sebuah bangsa tanpa sistem aksara menyanyikan sesuatu yang menurut orang Eropa hanya bisa lahir dari peradaban tingkat tinggi.
+Pada 1952, dia mengirimkan rekaman ini ke Persatuan Musik Rakyat Internasional milik UNESCO. Saat itu pandangan utama teori musik Barat adalah: musik manusia berevolusi dari monofoni ke polifoni, lalu ke harmoni kompleks—ini adalah jalur "evolusi peradaban" yang linier. Kemunculan Pasibutbut memutus jalur itu[^3]. Sebangsa tanpa sistem tulisan, menyanyikan sesuatu yang orang Eropa yakini hanya peradaban tinggi yang bisa hasilkan.
 
-## Bukan delapan suara, tetapi lebih misterius daripada delapan
+## Bukan Delapan Bagian, Tapi Lebih Mistis dari Delapan Bagian
 
-Nama "delapan suara harmoni" sebenarnya adalah kesalahpahaman yang indah.
+Nama "paduan suara delapan bagian" sebenarnya adalah sebuah kesalahpahaman yang indah.
 
-Dari sudut analisis musik, Pasibutbut sebenarnya hanya memiliki empat bagian suara (kadang lima): suara rendah Mahalngal, suara tengah Manda, suara tinggi Bondada, serta suara tertinggi yang masuk di bagian penutup[^4]. Namun ketika orang Bunun menyanyikannya dengan teknik resonansi yang sangat presisi, bunyi itu memunculkan gejala fisika berupa "nada harmonik" (overtone) di antara tubuh manusia dan ruang sekitarnya—tangga nada berfrekuensi lebih tinggi bertumpuk di atas melodi utama, sehingga pendengar seolah mendengar delapan bagian suara atau bahkan lebih berbunyi bersamaan[^5].
+Dilihat dari analisis musik, Pasibutbut sebenarnya hanya memiliki empat bagian suara (kadang lima): bass Mahalngal, tenor Manda, sopran Bondada, serta bagian paling tinggi yang ditambahkan di akhir[^4]. Tetapi ketika orang Bunun menyanyikan dengan teknik resonansi yang sangat presisi, suara di antara tubuh manusia dan ruang menghasilkan fenomena fisika "overtone"—di atas melodi utama tersusun tangga nada frekuensi lebih tinggi, membuat pendengar seolah mendengar delapan, bahkan lebih banyak bagian suara berbunyi bersamaan[^5].
 
-> **📝 Sudut pandang kurator:** Teknik menghasilkan nada harmonik secara kolektif ini punya kemiripan dengan khoomei (呼麥) dari Mongolia. Bedanya, khoomei adalah keterampilan seorang penyanyi tunggal, sedangkan orang Bunun mencapainya lewat nyanyian bersama—tingkat kesulitannya sama sekali berbeda.
+> **📝 Pandangan Kurator:** Teknik kolektif menghasilkan overtone ini mirip dengan "khoomei" Mongolia. Tetapi khoomei adalah keterampilan penyanyi solo, sedangkan suku Bunun mencapainya dengan paduan suara kolektif—tingkat kesulitannya sama sekali berbeda.
 
-| Bagian suara | Nama dalam bahasa Bunun | Fungsi                                                      |
-| ------------ | ----------------------- | ----------------------------------------------------------- |
-| Suara rendah | Mahalngal               | Nada dasar, seperti getaran bumi, menyediakan alas resonansi |
-| Suara tengah | Manda                   | Mengisi ruang, membuat harmoni tebal dan penuh               |
-| Suara tinggi | Bondada                 | Melodi utama yang memanjat ke atas, melambangkan millet yang tumbuh |
-| Nada harmonik | (Overtone)             | Bagian suara semu yang lahir dari resonansi fisik            |
+| Bagian Suara | Nama Bahasa Suku | Fungsi                                                              |
+| ------------ | ---------------- | ------------------------------------------------------------------- |
+| Bass         | Mahalngal        | Nada dasar, seperti getaran bumi, menyediakan landasan resonansi    |
+| Tenor        | Manda            | Mengisi ruang, membuat harmoni tebal dan penuh                      |
+| Sopran       | Bondada          | Melodi utama yang meluncur ke atas, melambangkan pertumbuhan millet |
+| Overtone     | (Overtones)      | Bagian suara virtual yang dihasilkan resonansi fisik                |
 
-Di hutan pegunungan yang terpencil dari dunia luar, orang Bunun mewariskan teknik ini dari generasi ke generasi selama ribuan tahun melalui peniruan bunyi air terjun, lebah, dan angin[^6].
+Orang Bunun di hutan terpencil, melalui peniruan suara air terjun, lebah, angin, menurunkan keterampilan ini secara turun-temurun selama ribuan tahun[^6].
 
-## Doa yang memanjat ke atas
+## Doa yang Meluncur ke Atas
 
-Bagi orang Bunun, Pasibutbut bukan pertunjukan, melainkan ritual. Nyanyian ini dibawakan setelah upacara Malahtangia (打耳祭, "upacara menembak telinga") dan sebelum upacara penaburan benih, dengan tujuan memohon kepada dewa langit Dehanin agar panen millet berlimpah[^7].
+Bagi orang Bunun, Pasibutbut bukan pertunjukan, melainkan upacara. Lagu ini dinyanyikan setelah Festa Telinga (Malahtangia), sebelum Festa Menyemai (Pasibutbut), bertujuan memohon perlindungan dewa Dehanin agar panen millet melimpah[^7].
 
-Cara membawakannya diatur dengan ketat:
+Penyanyian memiliki aturan ketat:
 
-Suara harus memanjat perlahan dari rendah ke tinggi, melambangkan millet yang tumbuh subur. **Jika nada jatuh atau melenceng di tengah jalan, itu dianggap pertanda buruk yang meramalkan kemungkinan bencana kelaparan pada tahun tersebut.** Orang Bunun percaya bahwa suara yang kurang selaras menandakan hati warga tidak murni atau ada perpecahan di dalam komunitas, sehingga dewa langit tidak akan memberikan panen yang berlimpah[^7].
+Suara harus meluncur perlahan dari rendah ke tinggi, melambangkan millet tumbuh subur. **Jika nada turun atau meleset di tengah jalan, dianggap pertanda buruk, meramalkan kemungkinan kelaparan tahun itu.** Orang suku percaya, suara tidak cukup harmonis berarti jiwa orang suku tidak suci atau internal tidak bersatu, dewa tidak akan mengurniakan panen melimpah[^7].
 
-Saat menyanyi, warga berdiri membentuk lingkaran dengan tangan disandarkan ke punggung orang di sebelahnya, merasakan getaran rongga dada satu sama lain. Ini bukan pameran kemahiran pribadi, melainkan percakapan antara kehendak kolektif dan dewa langit. Secara tradisional hanya laki-laki yang boleh menyanyikannya, dan sebelum menyanyi harus dilakukan ritual penyucian[^7].
+Saat menyanyikan, orang suku berdiri lingkaran, tangan diletakkan di punggung tetangga, merasakan getaran rongga dada satu sama lain. Ini bukan pameran keterampilan individu, melainkan dialog kehendak kolektif dengan dewa. Secara tradisional hanya laki-laki yang menyanyikan, sebelum menyanyikan harus menjalani upacara penyucian[^7].
 
-> **📝 Sudut pandang kurator:** Mekanisme "kendali mutu" pada Pasibutbut sangat ketat—melenceng dari nada bukan sekadar salah menyanyi, melainkan penghinaan terhadap dewa langit dan pertanda buruk bagi seluruh suku. Pertunjukan sempurna di bawah tekanan seperti itu barangkali justru alasan teknik ini bisa terasah selama ribuan tahun.
+> **📝 Pandangan Kurator:** Mekanisme "kontrol kualitas" Pasibutbut sangat ketat—melestet bukan hanya salah nyanyi, melainkan menginsafi dewa, pertanda celaka bagi seluruh suku. Tekanan di bawah kesempurnaan pertunjukan ini, mungkin justru sebab keterampilan ini bisa disempurnakan selama ribuan tahun.
 
-## Suaranya sedang mengecil
+## Suara Sedang Menyusut
 
-Pada 2009, Kementerian Kebudayaan mencatatkan "delapan suara harmoni suku Bunun" sebagai seni tradisional penting tingkat nasional dan menetapkan sejumlah perkampungan sebagai kelompok pelestari[^8]. Namun kecepatan pencatatan dan perlindungan itu mungkin tidak mampu mengejar kecepatan kehilangannya.
+Pada 2009, Kementerian Kebudayaan mendaftarkan "Paduan Suara Delapan Bagian Suku Bunun" sebagai Seni Tradisional Penting Nasional, menunjuk beberapa suku sebagai kelompok pelestari[^8]. Tetapi kecepatan perlindungan pendaftaran, mungkin tidak bisa mengejar kecepatan kehilangan.
 
-Generasi muda meninggalkan perkampungan, dan tingkat keterlibatan dalam ritual tradisional menurun. Demi memenuhi selera penonton, pertunjukan wisata kadang menyederhanakan alur nyanyian dan mengabaikan pantangan ritual. Persoalan yang lebih mendasar adalah bahasa—memudarnya bahasa Bunun membuat makna budaya yang dalam di balik liriknya sulit dipahami oleh generasi berikutnya.
+Generasi muda meninggalkan suku, partisipasi upacara tradisional menurun. Pertunjukan pariwisata untuk memuaskan penonton, kadang menyederhanakan alur penyanyian, mengabaikan larangan upacara. Masalah lebih fundamental adalah bahasa—kehilangan bahasa Bunun, membuat makna budaya mendalam di balik lirik sulit dipahami generasi mendatang.
 
-> "Kami bukan sedang belajar menyanyi, kami sedang belajar bagaimana bercakap-cakap dengan alam dan dengan roh leluhur."
+> "Bukan belajar nyanyi, tapi belajar bagaimana berdialog dengan alam, dengan roh leluhur."
 
-Di perkampungan Bunun di Nantou, Hualien, dan Taitung, masih ada tetua yang mengajari anak muda mengendalikan otot tenggorokan dan mendengar nada harmonik di udara. Yang mereka wariskan bukan hanya teknik, melainkan satu cara utuh memahami dunia—bunyi bukanlah buatan manusia, ia tumbuh dari bumi, dan manusia hanya membiarkannya lewat.
+Di suku-suku Bunun di Nantou, Hualien, Taitung, masih ada tetua mengajar anak muda mengontrol otot tenggorokan, mendengar overtone di udara. Yang mereka wariskan bukan sekadar teknik, melainkan seluruh cara memahami dunia—suara bukan buatan manusia, tumbuh dari bumi, manusia hanya membiarkannya lewat.
 
-Pada detik Kurosawa Takatomo menekan tombol rekam di tahun 1943, mungkin ia tidak menyangka bahwa delapan puluh tahun kemudian suara itu masih menjadi ekspor budaya Taiwan yang paling bertenaga. Bukan karena ia tua, melainkan karena dengan cara paling sederhana—beberapa tenggorokan manusia—ia membuktikan satu hal: kedalaman seni tidak pernah ditentukan oleh majunya teknologi.
+Momen 1943 Takemura Takatomo menekan tombol rekam, dia besar kemungkinan tidak menyangka, delapan puluh tahun kemudian suara ini tetap menjadi ekspor budaya paling berdaya Taiwan. Bukan karena kuno, tapi karena dengan cara paling sederhana—beberapa tenggorokan manusia—membuktikan satu hal: kedalaman seni, dari dulu tidak pernah bergantung pada perkembangan teknologi.
 
 ## Referensi
 
-[^1]: [Mendengar Tanah Jajahan: Kurosawa Takatomo dan Survei Musik Taiwan di Masa Perang (1943)](https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclresource&s=id=%22SA10000019079%22.&searchmode=basic&tcihsspage=tcisearch_opt1_search) — keterangan lengkap lihat isi tautan aslinya; Perpustakaan Universitas Nasional Taiwan, 2008
+[^1]: [Mendengar Jajahan: Takemura Takatomo dan Survei Musik Taiwan Masa Perang (1943)](https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclresource&s=id=%22SA10000019079%22.&searchmode=basic&tcihsspage=tcisearch_opt1_search) — Lihat rincian data asli di tautan asli〉，Perpustakaan Universitas Taiwan, 2008
 
-[^2]: [Musik Suku Takasago Taiwan](https://www.books.com.tw/products/0010430882) — Kurosawa Takatomo, Victor Records, 1974
+[^2]: [Musik Suku Tinggi Taiwan](https://www.books.com.tw/products/0010430882) — Takemura Takatomo，《》，Pemenang Rekaman, 1974
 
-[^3]: [Survei Kurosawa Takatomo atas Musik Masyarakat Pribumi Taiwan](https://www.ntl.edu.tw/public/Attachment/9102615522190.pdf) — Cabang Taiwan Perpustakaan Pusat Nasional; Institut Musikologi Universitas Nasional Taiwan, 2008
+[^3]: [Survei Musik Masyarakat Asli Taiwan oleh Takemura Takatomo](https://www.ntl.edu.tw/public/Attachment/9102615522190.pdf) — Cabang Taiwan Perpustakaan Nasional Pusat〉，Pascasarjana Musikologi Universitas Taiwan, 2008
 
-[^4]: [Pasibutbut Suku Bunun, Nyanyian Doa Panen Millet — Jaringan Warisan Budaya Nasional](https://nchdb.boch.gov.tw/assets/overview/traditionalPerformingart/20160317000001) — keterangan lengkap lihat isi tautan aslinya
+[^4]: [Lagu Doa Panen Millet Pasibutbut Suku Bunun——Jaringan Aset Budaya Nasional](https://nchdb.boch.gov.tw/assets/overview/traditionalPerformingart/20160317000001) — Lihat rincian data asli di tautan asli
 
-[^5]: [Biling Melihat Orang Bunun Menyanyikan Pasibutbut Menjadi Bisosilin](https://www.airitilibrary.com/Article/Detail/U0118-0807200916272865) — keterangan lengkap lihat isi tautan aslinya; tesis magister Asia University, 2008
+[^5]: [Biling Menonton Orang Bunun Menyanyikan Pasibutbut Menjadi Bisosilin](https://www.airitilibrary.com/Article/Detail/U0118-0807200916272865) — Lihat rincian data asli di tautan asli〉，Tesis Magister Universitas Asia, 2008
 
-[^6]: [Studi Kasus Seni Musik Pribumi Taiwan "Delapan Suara Harmoni Suku Bunun"](https://cge.knu.edu.tw/var/file/22/1022/img/124/874464490.pdf) — keterangan lengkap lihat isi tautan aslinya; seminar akademik Chin-Yi University of Technology, 2003
+[^6]: [Studi Kasus Seni Musik Masyarakat Asli Taiwan "Paduan Suara Delapan Bagian Suku Bunun"](https://cge.knu.edu.tw/var/file/22/1022/img/124/874464490.pdf) — Lihat rincian data asli di tautan asli〉，Seminar Akademik Universitas Teknologi Chin-Yi, 2003
 
-[^7]: [Beberapa Pemikiran tentang Pementasan Nyanyian Ritual Pasibutbut — Museum Prasejarah Nasional Taiwan](https://icloud.nmp.gov.tw/Library/EPaperContent?a=212&id=169&nid=638) — keterangan lengkap lihat isi tautan aslinya
+[^7]: [Beberapa Refleksi tentang Pertunjukan Lagu Upacara Pasibutbut——Museum Budaya Prasejarah Nasional Taiwan](https://icloud.nmp.gov.tw/Library/EPaperContent?a=212&id=169&nid=638) — Lihat rincian data asli di tautan asli
 
-[^8]: [Data Pencatatan "Delapan Suara Harmoni Suku Bunun" — Biro Warisan Budaya, Kementerian Kebudayaan](https://twh.boch.gov.tw/non_material/intro.aspx?id=743) — keterangan lengkap lihat isi tautan aslinya
+[^8]: [Data Pendaftaran "Paduan Suara Delapan Bagian Suku Bunun"——Biro Aset Budaya Kementerian Kebudayaan](https://twh.boch.gov.tw/non_material/intro.aspx?id=743) — Lihat rincian data asli di tautan asli

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T12:20:05+08:00",
-    "zhCommitHead": "59bc5a1c0",
+    "lastUpdated": "2026-09-10T14:05:26+08:00",
+    "zhCommitHead": "56ac12993",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 700,
+        "fresh": 703,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 260,
+        "missing": 257,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 585,
+        "fresh": 587,
         "stale": 49,
         "metadata_stale": 10,
-        "missing": 477,
+        "missing": 475,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 656,
+        "fresh": 658,
         "stale": 39,
         "metadata_stale": 10,
-        "missing": 416,
+        "missing": 414,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 158,
+        "fresh": 159,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 956,
+        "missing": 955,
         "orphan": 0
       }
     },
@@ -3973,7 +3973,18 @@
           "diffSummary": "+1 -1"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/chthonic.md",
+          "translatedFrom": "Music/閃靈.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:428539ef61aee065",
+          "sourceBodyHash": "sha256:ca8382bb6533d023",
+          "translatedAt": "2026-09-10T03:36:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/chthonic.md",
@@ -12565,7 +12576,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-10T03:36:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -30294,8 +30316,8 @@
           "sourceContentHash": "sha256:cff95ee8efddcd2b",
           "sourceBodyHash": "sha256:33541e305c90768c",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56ac1299",
+          "translationLastModified": "2026-09-10T12:20:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -34178,7 +34200,18 @@
           "reason": "sha-lost-hash-mismatch"
         },
         "id": {
-          "status": "missing"
+          "path": "id/resources/mini-taiwan-pulse.md",
+          "translatedFrom": "resources/mini-taiwan-pulse.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:409b7d5c9d0f3bbd",
+          "sourceBodyHash": "sha256:215016d553b05404",
+          "translatedAt": "2026-09-10T03:36:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/resources/mini-taiwan-pulse.md",
@@ -54715,8 +54748,8 @@
           "sourceContentHash": "sha256:5aa5d3ad7e4d012f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T02:39:58.042430+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56ac1299",
+          "translationLastModified": "2026-09-10T12:20:05+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -60148,8 +60181,8 @@
           "sourceContentHash": "sha256:fa8568c6d129180a",
           "sourceBodyHash": "sha256:7c0ff1bf77404541",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56ac1299",
+          "translationLastModified": "2026-09-10T12:20:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -66946,7 +66979,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/yang-you-ren-shoes-for-hope-taiwan-youth-hero.md",
+          "translatedFrom": "People/楊右任.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:e2ade2405e5fac3e",
+          "sourceBodyHash": "sha256:aeccc38efb53dc79",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/yang-you-ren-shoes-for-hope-taiwan-youth-hero.md",
@@ -69656,8 +69700,8 @@
           "sourceContentHash": "sha256:81d60bf0143f4da3",
           "sourceBodyHash": "sha256:a8a07476ede69bdb",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56ac1299",
+          "translationLastModified": "2026-09-10T12:20:05+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -72269,7 +72313,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chen-chun-liang-design-poet.md",
+          "translatedFrom": "People/陳俊良.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:e8fd773cb48092fd",
+          "sourceBodyHash": "sha256:7b3ecc631545bac9",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -86698,8 +86753,8 @@
           "sourceContentHash": "sha256:2acd1adc35abda8a",
           "sourceBodyHash": "sha256:0e9eced4546d8cba",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56ac1299",
+          "translationLastModified": "2026-09-10T12:20:05+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -94101,8 +94156,8 @@
           "sourceContentHash": "sha256:2dda34fc81c78056",
           "sourceBodyHash": "sha256:fb05d9869b96635c",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56ac1299",
+          "translationLastModified": "2026-09-10T12:20:05+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -98803,8 +98858,8 @@
           "sourceContentHash": "sha256:bdd54d293989cf15",
           "sourceBodyHash": "sha256:9a3851545dcaaf3c",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56ac1299",
+          "translationLastModified": "2026-09-10T12:20:05+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -100211,8 +100266,8 @@
           "sourceContentHash": "sha256:ea84edf10c10d1a4",
           "sourceBodyHash": "sha256:54cafe2c5032e30e",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "56ac1299",
+          "translationLastModified": "2026-09-10T12:20:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -133684,7 +133739,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/yushan-weather-station.md",
+          "translatedFrom": "Geography/玉山氣象站.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:309501697091bfd3",
+          "sourceBodyHash": "sha256:522eab501e4df7fe",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/yushan-weather-station.md",
@@ -137875,7 +137941,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/penghu-county.md",
+          "translatedFrom": "Geography/澎湖縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T05:46:00.849981+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/penghu-county.md",
@@ -153218,7 +153295,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/plurk-taiwan-microblog.md",
+          "translatedFrom": "Culture/噗浪Plurk.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:96026947f084b369",
+          "sourceBodyHash": "sha256:147f1c5986f4274b",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
