@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T14:09:29+08:00",
-    "zhCommitHead": "7b83133f5",
+    "lastUpdated": "2026-09-10T14:22:35+08:00",
+    "zhCommitHead": "09cf75624",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 704,
+        "fresh": 705,
         "stale": 82,
         "metadata_stale": 78,
-        "missing": 257,
+        "missing": 256,
         "orphan": 0
       },
       "id": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 159,
+        "fresh": 160,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 955,
+        "missing": 954,
         "orphan": 0
       }
     },
@@ -3933,8 +3933,8 @@
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "930125ae",
-          "translationLastModified": "2026-08-09T10:09:37+08:00",
+          "translationLastCommit": "09cf7562",
+          "translationLastModified": "2026-09-10T14:09:29+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -12594,7 +12594,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -66983,8 +66994,8 @@
           "sourceContentHash": "sha256:e2ade2405e5fac3e",
           "sourceBodyHash": "sha256:aeccc38efb53dc79",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "09cf7562",
+          "translationLastModified": "2026-09-10T14:09:29+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -72317,8 +72328,8 @@
           "sourceContentHash": "sha256:e8fd773cb48092fd",
           "sourceBodyHash": "sha256:7b3ecc631545bac9",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "09cf7562",
+          "translationLastModified": "2026-09-10T14:09:29+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -133743,8 +133754,8 @@
           "sourceContentHash": "sha256:309501697091bfd3",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-10T03:36:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "09cf7562",
+          "translationLastModified": "2026-09-10T14:09:29+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -149115,7 +149126,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/taiwan-panorama-magazine.md",
+          "translatedFrom": "Culture/光華雜誌.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:76f9feb9b62dd8a1",
+          "sourceBodyHash": "sha256:b0016f60e7fc31e0",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-panorama-magazine.md",
