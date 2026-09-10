@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T22:35:07+08:00",
-    "zhCommitHead": "1bf85e9ae",
+    "lastUpdated": "2026-09-11T00:36:34+08:00",
+    "zhCommitHead": "fa80fb7a0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 804,
+        "fresh": 805,
         "stale": 80,
-        "metadata_stale": 17,
+        "metadata_stale": 16,
         "missing": 220,
         "orphan": 0
       },
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 714,
+        "fresh": 716,
         "stale": 82,
         "metadata_stale": 77,
-        "missing": 248,
+        "missing": 246,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 596,
+        "fresh": 597,
         "stale": 49,
         "metadata_stale": 10,
-        "missing": 466,
+        "missing": 465,
         "orphan": 0
       },
       "pt": {
@@ -84,9 +84,9 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 659,
+        "fresh": 660,
         "stale": 38,
-        "metadata_stale": 10,
+        "metadata_stale": 9,
         "missing": 414,
         "orphan": 0
       },
@@ -100,9 +100,9 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 754,
+        "fresh": 755,
         "stale": 41,
-        "metadata_stale": 12,
+        "metadata_stale": 11,
         "missing": 314,
         "orphan": 0
       },
@@ -2836,18 +2836,16 @@
         "ru": {
           "path": "ru/Music/little-tigers-taiwan-boy-band.md",
           "translatedFrom": "Music/小虎隊.md",
-          "sourceCommitSha": "ac1d187af",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
-          "translatedAt": "2026-07-29T06:33:12+08:00",
+          "translatedAt": "2026-09-10T18:19:23+08:00",
           "translationLastCommit": "34443c18",
           "translationLastModified": "2026-07-29T07:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Music/little-tigers-taiwan-boy-band.md",
@@ -57872,7 +57870,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md",
+          "translatedFrom": "Nature/台灣國家公園.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:c51eb1a165d6a2f5",
+          "sourceBodyHash": "sha256:99620fa1348fdcfe",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md",
@@ -66247,8 +66256,8 @@
           "sourceContentHash": "sha256:436d6f6b6586a312",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T13:55:53.458730+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa80fb7a",
+          "translationLastModified": "2026-09-10T22:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -68033,8 +68042,8 @@
           "sourceContentHash": "sha256:9cd24907e804d8a5",
           "sourceBodyHash": "sha256:3bfd8aa37bf0451b",
           "translatedAt": "2026-09-10T18:19:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa80fb7a",
+          "translationLastModified": "2026-09-10T22:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -74789,7 +74798,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/fang-yi-sheu-body-storyteller.md",
+          "translatedFrom": "People/許芳宜.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:a31b5339a894147e",
+          "sourceBodyHash": "sha256:e2e71f85bef4ed48",
+          "translatedAt": "2026-09-10T18:19:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/fang-yi-sheu-body-storyteller.md",
@@ -76742,8 +76762,8 @@
           "sourceContentHash": "sha256:ec85f3e1d7f5d977",
           "sourceBodyHash": "sha256:5932775fa82a34d0",
           "translatedAt": "2026-09-10T18:19:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa80fb7a",
+          "translationLastModified": "2026-09-10T22:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -84750,8 +84770,8 @@
           "sourceContentHash": "sha256:e699feede1257135",
           "sourceBodyHash": "sha256:86d8a4b7771c32c4",
           "translatedAt": "2026-09-10T18:19:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa80fb7a",
+          "translationLastModified": "2026-09-10T22:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -90697,7 +90717,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/zhong-lihe-nativeland-eternal-seeker.md",
+          "translatedFrom": "People/鍾理和.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:cddbfe1c856d1966",
+          "sourceBodyHash": "sha256:59814996cd0ea2c6",
+          "translatedAt": "2026-09-10T18:19:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/zhong-lihe-nativeland-eternal-seeker.md",
@@ -109993,8 +110024,8 @@
           "sourceContentHash": "sha256:1a92c24eb1a7d8cf",
           "sourceBodyHash": "sha256:4f26d4508afc31e5",
           "translatedAt": "2026-09-10T18:19:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa80fb7a",
+          "translationLastModified": "2026-09-10T22:35:07+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -110894,18 +110925,16 @@
         "hi": {
           "path": "hi/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "69b3afd9",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-09-01T22:50:00+08:00",
+          "translatedAt": "2026-09-10T18:19:19+08:00",
           "translationLastCommit": "0b50c535",
           "translationLastModified": "2026-09-01T22:27:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwan-sauces-and-seasonings.md",
@@ -138155,18 +138184,16 @@
         "en": {
           "path": "en/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "dd6cd0156",
-          "sourceContentHash": "sha256:e10092be60773ede",
-          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
-          "translatedAt": "2026-05-18T05:08:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T14:41:08.076616+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/penghu-county.md",
