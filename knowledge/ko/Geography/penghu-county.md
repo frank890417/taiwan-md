@@ -1,304 +1,302 @@
 ---
-title: 'Penghu County: Two Rejections of Casinos, the Chrysanthemum Island Chose Not Poverty'
-description: "On September 26, 2009, Ma announced the results: 17,359 votes against, the casino lost by 3,962 votes. Seven years later in 2016, they voted again, with 81.07% against. An island county with only 1,000 mm of annual rainfall, a registered population of 108,000 but only 80,000 residents, held the nation's first local gambling referendum, and then held it again. The same waters saw Shen Yourong repel the Dutch in 1604, the Dutch move from Fengchuiwei to Tainan in 1622, and French Admiral Courbet die of illness in Magong Harbor in 1885. The 17.4-million-year-old basalt columns remain; 89 islands are black volcanic rock, 1 is older andesite. In the winter vegetable garden stone walls, crops grow in the lee."
+title: '펑후현: 두 차례의 카지노 거부, 쥐섬이 선택한 것은 가난하지 않음'
+description: '2009년 9월 26일, 마공 선거에서 반대 17,359표, 카지노는 3,962표를 잃었다. 7년 후인 2016년에 다시 투표했는데, 반대 81.07%였다. 연 강수량이 1,000mm에 불과하고 등록 인구 10만 8천 명 중 실제 거주자는 8만 명뿐인 이 도서는 전국 최초의 지역 도박 공론화를 실시했고, 다시 한번 투표했다. 같은 해역에서 1604년 심유용이 네덜란드인을 퇴각시켰고, 1622년 네덜란드인은 풍궤위에서 타이난으로 이동했으며, 1885년 프랑스 군 사령관 고파가 마궁항에서 병사했다. 1,740만 년 된 현무암 기둥은 여전히 남아 있고, 89개의 섬은 검은 화산암이며, 1개는 더 오래된 안산암이다. 겨울철 채소밭 돌담에는 바람을 등지고 작물이 자라고 있다.'
 date: 2026-05-18
+category: 'Geography'
 tags:
   [
-    'Penghu',
-    'Penghu County',
-    'Offshore Islands',
-    'Magong',
-    'Chrysanthemum Island',
-    'Basalt',
-    'Double-Heart Stone Fishery',
-    'Cross-Sea Bridge',
-    'Erkan Settlement',
-    'Kaitai Tianhou Temple',
-    'Gambling Referendum',
-    'Southern Four Islands',
-    '22 Counties Series',
+    '펑후',
+    '펑후현',
+    '도서',
+    '마공',
+    '쥐섬',
+    '현무암',
+    '쌍심석호',
+    '해상대교',
+    '얼칸취락',
+    '개태천후궁',
+    '도박공론화',
+    '남방사도',
+    '22시군연재극',
   ]
-subcategory: 'Counties'
+subcategory: '현과 시'
 author: 'Taiwan.md Contributors'
-category: 'Geography'
-readingTime: 15
+featured: false
 lastVerified: 2026-05-18
 lastHumanReview: false
+readingTime: 15
+researchReport: 'reports/research/2026-05/澎湖縣.md'
+series: '22 縣市系列'
+imageNote: '原圖 Commons 原生解析度僅 291×136（自另一張圖裁切而來），太小且比例超出 hero 0.9–2.0 上限，不適合當卡片圖，待另覓圖源'
 translatedFrom: 'Geography/澎湖縣.md'
-sourceCommitSha: 'dd6cd0156'
-sourceContentHash: 'sha256:45c3c3aac3c42d62'
-sourceBodyHash: 'sha256:d8c2fdecefda4ce7'
-translatedAt: '2026-06-09T03:15:09+08:00'
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bridge_across_the_Houmen_Channel.jpg/1280px-Bridge_across_the_Houmen_Channel.jpg
-imageCredit: Wing1990hk
-imageLicense: CC BY-SA 3.0
-imageSource: https://commons.wikimedia.org/wiki/File:Bridge_across_the_Houmen_Channel.jpg
-featured: false
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:45cce9092926094b'
+translatedAt: '2026-09-10T01:02:42.731212+00:00'
 ---
 
-# Penghu County: Two Rejections of Casinos, the Chrysanthemum Island Chose Not Poverty
+# 펑후현: 두 차례의 카지노 거부, 국화도(菊島)가 선택한 것은 가난하지 않음
 
-> **30-Second Overview:** On September 26, 2009, Penghu held its first gambling referendum; 56.44% voted against, with the opposition leading by 3,962 votes, marking the first local gambling referendum in national history. Seven years later, on October 15, 2016, they voted again; 81.07% voted against, a 25 percentage point increase from the first time. Nothing happened in those seven years to suddenly make Penghu wealthy. An island county with only about 1,000 mm of annual rainfall, a registered population of 108,000 but only about 80,000 residents, and the second-lowest registered population in the country, rejected the resort casino in two referendums. This article argues that the object of the two "NO"s was not the casino, but the right to choose "what Penghu should become."
+> **30초 요약:** 2009년 9월 26일 펑후에서 처음으로 열린 도박 공론화 투표에서는 반대 의견이 56.44%를 차지했으며, 반대 측은 3,962표로 전국 최초의 지역 도박 공론화였다. 7년 후인 2016년 10월 15일에 다시 실시된 투표에서는 반대 의견이 81.07%에 달해 첫 번째보다 25%포인트 더 높았다. 이 7년 동안 펑후가 갑자기 부자가 되게 만든 일은 없었다. 연강수량은 약 1,000mm에 불과하고, 등록 인구는 10만 8천 명이지만 실제 거주 인구는 약 8만 명 수준인 전국에서 두 번째로 적은 외딴 섬인데도 불구하고, 두 번의 공론화 투표 모두 휴양지 카지노를 부결시켰다. 이 글이 말하고자 하는 것은: 두 번 '아니오'라고 말한 대상은 카지노가 아니라 "펑후가 무엇이 될 것인가"에 대한 선택권이다.
 
-At 4 AM, Central Street in Magong is empty.
+새벽 네 시의 마공 중앙가는 아무도 없다.
 
-Central Street is one of the oldest Han Chinese streets still existing in Taiwan.[^1] At the northern end, the "Four-Eye Well" is traditionally believed to be a well where residents have drawn water together since the Ming Dynasty, now designated as a county-level historic site.[^2] Walking south for another 200 meters brings you to the Kaitai Tianhou Temple. In 1919 (Taisho 8), during temple renovations, a granite stele was unearthed bearing nine characters: "Shen Yourong Ordered the Retreat of the Red-Haired Barbarians, Van Warwijck, et al."[^3] The year on this stele is the 32nd year of Wanli, 1604 AD.
+중앙가는 현존하는 가장 오래된 한족 거리 중 하나이다[^1]. 북쪽 끝에 있는 '사안정(四眼井)'은 명나라 때부터 주민들이 공동으로 물을 길었던 우물로 전해지며, 현재는 현 지정 문화재이다[^2]. 남쪽으로 200미터 더 가면 개대천후궁(開臺天后宮)이 있다. 1919년 대정 8년에 사당 측에서 보수 공사를 하던 중 화강암 비석 하나를 발견했는데, 이 비석에는 "심유용 유퇴홍모번위마랑 등"이라는 아홉 글자가 새겨져 있다[^3]. 이 비석의 연도는 만력 32년, 즉 서기 1604년이다.
 
-At 4 AM, the temple doors are closed; the stele sits in a glass case in the Qingfeng Pavilion Cultural Museum. The people of Penghu are sleeping. Tourists will arrive on the 7:30 AM flight tomorrow. The winter Northeast Monsoon blows from the northwest over the old street's Langgu stone walls, blowing into the alleys. Penghu experiences this wind for two-thirds of the year.
+새벽 네 시, 사당 문은 닫혀 있고, 그 비석은 풍풍각(清風閣) 문화재관의 유리 진열장 안에 있다. 펑후 사람들은 잠을 잔다. 관광객들은 내일 아침 7시 반 비행기를 타고 들어올 것이다. 겨울철 북동 계절풍이 서북쪽에서 낡은 거리의 돌담을 스치며 골목 안으로 불어온다. 펑후는 일 년의 3분의 2가 이런 바람에 시달린다.
 
-This archipelago of 141 square kilometers was the first place in Taiwan that European powers coveted over the last four centuries. The Portuguese called it Pescadores (Islands of Fishermen) in the 16th century. The Dutch came for the first time in 1604, and for the second time in 1622. The French came in 1885. The Japanese landed here in 1895 to take possession of all of Taiwan. In every instance, Penghu was the entry point. **The main island of Taiwan was always the one that arrived late.**
+면적 141제곱킬로미터에 달하는 이 군도는 타이완이 유럽 열강에게 처음 주목받은 지 가장 오래된 곳이다. 포르투갈인들은 16세기에 이곳을 Pescadores(어부들의 섬)라고 불렀다. 네덜란드인들이 1604년 처음 왔고, 1622년에 두 번째로 왔다. 프랑스인들은 1885년에 방문했다. 일본인들은 1895년에 이곳에 상륙하여 타이완 전체를 접수했다. 펑후는 언제나 입구였다. **타이완 본토는 항상 뒤늦게 도착하는 곳이었다.**
 
-## The 1604 Stele: Shen Yourong Ordered the Retreat of Van Warwijck
+## 1604년의 그 비석: 심유용이 위마랑을 꾸짖다
 
-![In front of the Kaitai Tianhou Temple, 2014. The consensus among historians is that the temple existed since the 32nd year of the Ming Wanli era (1604); the Shen Yourong Stele unearthed by the temple during renovations in 1919 is the earliest existing physical evidence. Photo: Outlookxp.](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Penghu_Tianhou_Temple_02.jpg/1280px-Penghu_Tianhou_Temple_02.jpg)
-_Kaitai Tianhou Temple, 2014. Photo: Outlookxp via Wikimedia Commons, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Penghu_Tianhou_Temple_02.jpg)._
+![개태천후궁 전경, 2014년. 사찰 건립 시기인 '명나라 만력 32년(1604)에 이미 존재했다'는 것은 학계의 최소한의 공통 인식이며, 1919년에 사당에서 발굴된 심유용 비석이 현존하는 가장 오래된 유물이다. 사진: Outlookxp.](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Penghu_Tianhou_Temple_02.jpg/1280px-Penghu_Tianhou_Temple_02.jpg)
+_개태천후궁, 2014년. 사진: Wikimedia Commons의 Outlookxp를 통해 제공됨, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Penghu_Tianhou_Temple_02.jpg)._
 
-There is controversy over the founding date of the Tianhou Temple. The compilation by the Penghu Cultural History Network (penghu.info) states: "The exact founding time has never been concluded. However, it is certain that it existed by the 32nd year of the Ming Wanli era (1604)."[^4] Academic circles propose five years: 1563, 1592, 1597, 1604, and 1622. Only the year 1604 has physical evidence to verify it: that Shen Yourong Stele.
+천후궁의 건립 시기에 대해서는 논란이 있다. 펑후 문사 작업망 penghu.info의 정리 내용은 다음과 같다. "언제 세워졌는지는 여전히 정설이 없다. 다만, 명나라 만력 32년(1604)에는 이미 존재했다는 것은 확실하다."[^4] 학계에는 1563년, 1592년, 1597년, 1604년, 1622년이라는 다섯 가지 연설이 있으며, 유일하게 실물로 확인할 수 있는 해가 바로 1604년이고, 그 증거가 심유용 비석이다.
 
-What happened in 1604?
+1604년에 무슨 일이 있었을까?
 
-In that year, Wybrand van Warwijck, commander of the Dutch East India Company, led two ships into Penghu and sent envoys to Fujian to request trade. The Ming court dispatched Admiral Shen Yourong with 50 warships to negotiate. Van Warwijck assessed the commercial prospects and the military balance; on December 15, 1604, he withdrew from Penghu.[^5] No battle was fought. A stone stele recorded this event, inscribed by Ming officials at the time, unearthed from the temple's foundation 315 years later. In March 2022, the Ministry of Culture designated this stele as a National Treasure.[^6]
+그해 네덜란드 동인도회사 사령관 위마랑(Wybrand van Warwijck)이 배 두 척을 이끌고 펑후에 들어와 푸젠성(福建省)에 통상을 요청하기 위해 사람을 보냈다. 명나라 조정에서 파견된 도사 심유용은 군대를 이끌고 배 오십 척으로 협상하러 왔다. 위마랑은 상업적 전망과 병력 대비를 평가한 후, 1604년 12월 15일에 펑후를 떠났다[^5]. 전쟁은 일어나지 않았다. 이 사건을 기록한 돌비석이 있었는데, 비문은 당시 명나라 관원이 새긴 것이며, 315년 후에 사당의 기초 밑에서 발굴되었다. 2022년 3월 문화부는 이 비석을 국보로 지정했다[^6].
 
-> **📝 Curator's Note:** Middle school textbooks introducing early Taiwanese history usually start with the Dutch building Fort Zeelandia in Tainan in 1624. But 1624 was the Dutch "Plan B": they originally intended to occupy Penghu. When they came for the second time in 1622, they had already built a fortress at Fengchuiwei (now Snakehead Mountain at the southern tip of the Fengchui Peninsula in Magong; ruins still exist). In 1624, the Ming court reinforced troops in Penghu, forcing the Dutch to retreat to Tainan. **The Dutch era on the main island of Taiwan began only after the people of Penghu drove them away.** The Shen Yourong Stele of 1604 is the record of the first round of this 20-year offensive and defensive struggle. In the eyes of the Dutch, Penghu was "the island we wanted to occupy," and the main island of Taiwan was "the place we went to after failing to occupy Penghu."
+> **📝 기획자 노트:** 중학교 교과서는 보통 네덜란드인이 1624년에 타이난에 열란차성(熱蘭遮城)을 건설하면서 대만 초기사를 설명한다. 하지만 1624년은 네덜란드인들의 '플랜 B'였다. 그들은 본래 펑후를 점령하려 했으며, 두 번째로 왔던 1622년에는 이미 풍계미(風櫃尾)에 '펑후 풍계미 네덜란드 성(澎湖風櫃尾荷蘭城堡)'이라는 성을 쌓아 놓았다 (현재 마공 풍계미 사두산에 있으며 유적이 남아 있다). 1624년에 명나라 조정이 펑후에 군대를 증파하자, 네덜란드인들은 타이난으로 밀려나게 되었다. **대만 본토의 네덜란드 시대는 펑후가 사람들을 몰아낸 후에야 시작된 것이다.** 1604년의 심유용 비석은 이 20년에 걸친 공방전의 첫 번째 기록이다. 네덜란드인들에게 펑후는 '우리가 점령하려 했던 섬'이었고, 대만 본토는 '펑후가 점령하지 못하고 가야 했던 곳'이었다.
 
-The year the stele was unearthed was 1919. The Japanese had already ruled Taiwan for 24 years. In 1920 (Taisho 9), during local system reforms, "Magong was renamed Magong (Ma Gong), a usage that continues to this day. 'Magong' is the Japanese abbreviation for 'Magong' (Maggong)."[^7] The same temple changed names three times over three centuries: Magong → Tianfei Palace → Tianhou Temple. The stele was buried in the foundation at the moment the temple was built, not found until 1919.
+비석이 발굴된 해는 1919년이었다. 일본은 이미 타이완을 24년간 지배하고 있었다. 1920년 다이쇼 9년 지방 제도 개혁 시, '마궁(媽宮)'은 '마공(馬公)'으로 이름이 바뀌어 현재까지 사용되고 있다. '마공'이라는 두 글자는 일본인이 '마궁'을 줄여 쓴 것이다[^7]. 같은 사당은 삼백 년 동안 세 번의 이름을 거쳤다: 마궁 → 천비궁 → 천후궁. 이 비석은 사당이 지어질 때 기초 밑에 묻혔고, 1919년에야 발견되었다.
 
-## Houses of Basalt, Fisheries of Basalt
+## 현무암의 집, 현무암의 낚시터
 
-![Columnar basalt on Tongpan Island, 2008. Formed by the cooling and contraction of volcanic magma 15 million years ago, creating five- to six-sided columnar joints, Tongpan is known as the "Marine Yellowstone Park." Photo: Carrie Kellenberger (globetrotter).](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Columnar_Igneous_Rocks_on_Tongpan_island_in_Taiwan.jpg/1280px-Columnar_Igneous_Rocks_on_Tongpan_island_in_Taiwan.jpg)
-_Columnar Basalt on Tongpan Island, 2008-07-12. Photo: Carrie Kellenberger / globetrotter via Wikimedia Commons, [CC BY 2.0](https://commons.wikimedia.org/wiki/File:Columnar_Igneous_Rocks_on_Tongpan_island_in_Taiwan.jpg)._
+![통판도(桶盤嶼)의 주상절리 현무암, 2008년. 약 1,500만 년 전 화산 용암이 냉각 수축하면서 오각형에서 육각형인 기둥 모양으로 갈라진 통판도는 '바다 위의 여수'로 불린다. 사진: Carrie Kellenberger (globetrotter).](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Columnar_Igneous_Rocks_on_Tongpan_island_in_Taiwan.jpg/1280px-Columnar_Igneous_Rocks_on_Tongpan_island_in_Taiwan.jpg)
+_통판도 주상절리 현무암, 2008년 7월 12일. 사진: Carrie Kellenberger / globetrotter via Wikimedia Commons, [CC BY 2.0](https://commons.wikimedia.org/wiki/File:Columnar_Igneous_Rocks_on_Tongpan_island_in_Taiwan.jpg)._
 
-The Penghu County Cultural Bureau produced an online teaching material titled "World Wonders: Penghu's Basalt." The first paragraph reads: "Approximately 17.4 to 8.2 million years ago, after several discontinuous eruptions, magma surged from surface fissures..."[^8]
+펑후현 문화국은 「세계의 경이: 펑후의 현무암」이라는 온라인 교재를 제작했다. 첫 단락에는 다음과 같이 서술되어 있다. "약 1,740만 년에서 820만 년 전까지, 여러 차례 불연속적인 분출을 거치며 지표 균열에서 솟아 나온"[^8].
 
-The oldest basalt is on Wang'an Island, erupted approximately 17.4 million years ago. The youngest is on Dongshiping Island, 8.2 million years ago. Over the intervening nine million years, magma continuously surged from underwater fissures, cooling, contracting, and cracking into pentagonal or hexagonal columnar joints. Ninety islands were piled up this way.
+가장 오래된 현무암은 왕안도(望安島)에 있으며 약 1,740만 년 전에 분출했다. 가장 젊은 것은 동서평도(東嶼坪嶼)에 있으며 820만 년 전이다. 그 사이 900만 년 동안 해저 균열에서 끊임없이 용암이 솟아나 냉각되고 수축하면서 오각형이나 육각형의 주상절리를 형성했다. 이로 인해 90여 개의 섬들이 만들어졌다.
 
-Only one island is an exception. The Penghu County Government geology page states: "The geology of the Penghu Islands is the result of Pliocene volcanic activity. Its composition, except for Huayu which is an andesitic igneous rock, is mostly basaltic igneous rock."[^9] Huayu is the westernmost point; its geology is older andesite. The island has nearly a hundred native plant species, hence the name Huayu (Flower Island). Among the 89 black rocks lies an older, gray-white island.
+90개 중 단 한 개만이 예외이다. 펑후현 정부 지질 자료에는 "펑후 군도의 지질은 신생대 화산 활동에 기인하며, 구성 성분은 화서(花嶼)의 안산암질 화성암을 제외하고는 대부분 현무암질 화성암이다"[^9]라고 되어 있다. 화서는 가장 서쪽 지점으로, 지질이 더 오래된 안산암이며 섬에는 거의 100종의 토착 식물이 있어 '화서'라 불린다. 89개의 검은 돌들 사이에는 더 오래된 회백색 섬 하나가 숨어 있다.
 
-Basalt is Penghu's building material. Traditional settlements used basalt mixed with Langgu stone (coral reef calcium fossils) to build walls; the Erkan Settlement in Xiyu Township was built this way. The Chen Family Ancient House was designated as a Third-Class Historic Site in 1988 (now a County-Level Historic Site), becoming Taiwan's first traditional settlement preservation area.[^10] Thick stone slabs press down on the roofs, designed for the Northeast Monsoon. Penghu's annual rainfall is only about 1,000 mm (the lowest band along the western coast), but the wind is strong. From October to March, the Northeast Monsoon lasts for half a year; if tiles are not weighted down, they will be blown away.[^11]
+현무암은 펑후의 건축 자재이다. 전통 마을에서는 현무암을 산호초 석회석과 섞어 벽을 쌓았는데, 서서향(西嶼鄉)의 이칸(二崁) 마을이 그러한 방식으로 지어졌기 때문이다. 진씨 고택(陳家古厝)은 1988년에 제3급 문화재(현 현 지정 문화재)로 등재되었으며, 이는 타이완 최초의 전통 마을 보존 지구이다[^10]. 지붕 위에는 두꺼운 석판들이 얹혀 있는데, 이는 동북 계절풍에 대비하기 위함이다. 펑후는 연 강우량이 약 1,000mm(서부 해안 최저 지역)에 불과하지만 바람이 세기 때문에 매년 10월부터 3월까지 반년 동안 동북 계절풍이 지속되며, 기와를 단단히 고정하지 않으면 날아갈 수 있다[^11].
 
-![The roof of the Erkan Settlement, 2024. Traditional Minnan-style red tiles are weighted with basalt stones to resist the Northeast Monsoon; Erkan in Xiyu Township is Taiwan's first traditional settlement preservation area. Photo: Perryn1258.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%E4%BA%8C%E5%B4%81%E8%81%9A%E8%90%BD%E5%8F%A4%E5%8E%9D%E7%9A%84%E5%B1%8B%E9%A0%82.jpg/1280px-%E4%BA%8C%E5%B4%81%E8%81%9A%E8%90%BD%E5%8F%A4%E5%8E%9D%E7%9A%84%E5%B1%8B%E9%A0%82.jpg)
-_Erkan Settlement Roof, 2011-07-09. Photo: Perryn1258 via Wikimedia Commons, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:%E4%BA%8C%E5%B4%81%E8%81%9A%E8%90%BD%E5%8F%A4%E5%8E%9D%E7%9A%84%E5%B1%8B%E9%A0%82.jpg)._
+![이칸 마을의 지붕, 2024년. 전통 민남식 붉은 기와 위에 현무암 석재가 얹혀 동북 계절풍에 저항하고 있으며, 서서향 이칸은 타이완 최초의 전통 마을 보존 지구이다. 사진: Perryn1258.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%E4%BA%8C%E5%B4%81%E8%81%9A%E8%90%BD%E5%8F%A4%E5%8E%9D%E7%9A%84%E5%B1%8B%E9%A0%82.jpg/1280px-%E4%BA%8C%E5%B4%81%E8%81%9A%E8%90%BD%E5%8F%A4%E5%8E%9D%E7%9A%84%E5%B1%8B%E9%A0%82.jpg)
+_이칸 마을 지붕, 2011년 7월 9일. 사진: Perryn1258 via Wikimedia Commons, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:%E4%BA%8C%E5%B4%81%E8%81%9A%E8%90%BD%E5%8F%A4%E5%8E%9D%E7%9A%84%E5%B1%8B%E9%A0%82.jpg)._
 
-Something grows inside the walls. Penghu's "Vegetable Gardens" (Cai Zhai) are the solution for winter farmland. The Wikipedia entry for Penghu Vegetable Gardens states: "Penghu's 'Vegetable Gardens,' also known as 'Zhai Nei,' are exquisite farmlands with stone walls built on all four sides to block the strong Northeast Monsoon, allowing delicate crops to grow smoothly in winter... The north wall is the highest, approximately 1.6 to 2.5 meters... Stone walls are usually built using local materials such as Langgu stone or basalt."[^12] From the air, hundreds of vegetable gardens connect together, resembling a honeycomb. In winter, outside is the wind howling through the Houmen Channel; inside the walls are cauliflower, Chinese cabbage, ginger, and sweet potatoes.
+벽 속에는 무언가가 길게 존재한다. 펑후의 '채택(菜宅)'은 겨울 농경지의 해결책이다. 펑후 채택 위키피디아 항목에 따르면, "펑후의 '채택'은 '재택(宅內)'이라고도 불리며, 강한 동북 계절풍을 막고 연약한 작물이 겨울에도 순조롭게 자랄 수 있도록 만든 정교한 농지이다. ... 북쪽 벽이 가장 높으며, 약 1.6미터에서 2.5미터에 달한다... 석벽은 보통 산호석이나 현무암 같은 지역 재료로 쌓아 올린다."[^12] 위에서 내려다보면 수백 개의 채택들이 모여 벌집처럼 보인다. 겨울에는 바깥쪽에서 호문수도(吼門水道)를 통해 불어오는 바람을 막고, 벽 안에서는 콜리플라워, 배추, 생강, 고구마가 자란다.
 
-The same stones go into the sea. "There are fewer than 600 stone fisheries in the world; Penghu County currently has more than 574 stone fisheries, of which at least 109 are around Jibei Island, making it the highest density in the world."[^13] Fishermen pile basalt and coral reefs into arc-shaped walls in the intertidal zone. When the tide rises, fish swim in; when it recedes, they are trapped inside. The _Taiwan Prefecture Gazetteer_ of the 35th year of the Qing Kangxi era (1696) already recorded Penghu stone fisheries; by the 1950s, stone fishery catches accounted for nearly 80% of the county's total fishery output value.[^14] Today, most stone fisheries remain only as cultural landscapes, but one of the most complete, the Double-Heart Stone Fishery, remains under the cliff face north of Dingxi in Donghu Village, Qimei Township, rebuilt in 1937 by Jibei master Ba Le Shi.[^15]
+같은 돌들은 바다로 내려간다. "전 세계의 석호(石滬)는 600개 미만이지만, 펑후현에는 현재 574개 이상의 석호가 있으며, 그중 지베이도(吉貝嶼) 주변에만 최소 109개가 있어 세계 최고 밀도를 자랑한다."[^13] 어부들은 현무암과 산호초를 쌓아 반원형 방벽을 조수 간만의 차에 설치하고, 만조 때 물고기가 들어오면 썰물 때 그 안에 가두어 놓는다. 청나라 강희제(康熙) 35년(1696년)의 《타이완부지(台灣府誌)》에도 펑후 석호가 기록되어 있으며, 1950년대까지 석호 어획량은 현 전체 총 어획량의 약 80%를 차지했다[^14]. 오늘날 대부분의 석호는 문화 경관으로 남아 있지만, 치메이(七美)향 동호촌(東湖村) 정계북면 해안 절벽 아래에는 가장 온전한 쌍심석호(雙心石滬)가 있으며, 1937년에 지베이 장인 바러사(芭樂師)에 의해 재건되었다[^15].
 
-> **✦** "**There are fewer than 600 stone fisheries in the world; Penghu County currently has more than 574 stone fisheries, of which at least 109 are around Jibei Island, making it the highest density in the world.**" (Ministry of Culture Taiwan World Heritage Potential Sites [Penghu Stone Fishery Group][^13])
+> **✦** "세계의 석호는 600개 미만이며, 펑후현에는 현재 574개 이상의 석호가 있고, 그중 지베이도 주변에만 최소 109개가 있어 세계 최고 밀도를 자랑한다." (문화부 타이완 세계유산 잠재력점 [펑후 석호군][^13])
 
-The Ministry of Culture listed both Penghu Basalt and the Penghu Stone Fishery Group as Taiwan's World Heritage Potential Sites. But Taiwan is not a member of UNESCO; the list is written for Taiwan to see.
+문화부는 펑후의 현무암과 펑후 석호군 두 가지를 모두 타이완 세계유산 잠재력점으로 등재했다. 그러나 타이완은 유엔 교육과학문화기구(UNESCO) 회원국이 아니므로, 명단에 올렸어도 제출할 수 없다. 이 목록은 타이완 스스로를 위해 작성한 리스트이다.
 
-![Qimei Double-Heart Stone Fishery, 2017. Located under the cliff face north of Dingxi in Donghu Village, Qimei Township, rebuilt in 1937, registered as a cultural landscape by the Penghu County Government in 2006. The double-heart shape is the visual effect of the stone walls emerging from the water after low tide. Photo: Zhang Yalun.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%E4%B8%83%E7%BE%8E%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC%E6%96%87%E5%8C%96%E6%99%AF%E8%A7%80.jpg/1280px-%E4%B8%83%E7%BE%8E%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC%E6%96%87%E5%8C%96%E6%99%AF%E8%A7%80.jpg)
-_Qimei Double-Heart Stone Fishery Cultural Landscape, 2017-09-24. Photo: Zhang Yalun via Wikimedia Commons, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:%E4%B8%83%E7%BE%8E%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC%E6%96%87%E5%8C%96%E6%99%80.jpg)._
+![치메이 쌍심석호, 2017년. 치메이향 동호촌 정계북면 해안 절벽 아래에 위치하며, 1937년에 재건되었고 2006년 펑후현 정부가 문화 경관으로 등록했다. 쌍심 모양은 썰물 때 석벽이 수면에 드러난 시각적 효과이다. 사진: 張雅倫.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%E4%B8%83%E7%BE%8E%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC%E6%96%87%E5%8C%96%E6%99%AF%E8%A7%80.jpg/1280px-%E4%B8%83%E7%BE%8E%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC%E6%96%87%E5%8C%96%E6%99%AF%E8%A7%80.jpg)
+_치메이 쌍심석호 문화 경관, 2017년 9월 24일. 사진: 張雅倫 via Wikimedia Commons, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:%E4%B8%83%E7%BE%8E%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC%E6%96%87%E5%8C%96%E6%99%80.jpg)._
 
-## 1622 Fengchuiwei: The Dutch's Stepping Stone
+## 1622 풍궤웨이, 네덜란드인의 발판
 
-Back to the second round after 1604.
+1604년 이후 두 번째 막으로 돌아간다.
 
-On the morning of July 1, 1622, Dutch commander Rijk van Goesteren led a fleet of 12 ships and 1,024 troops to invade Magong Harbor. The Penghu County Government history page states: "On the morning of July 1, 1622 (2nd year of Tianqi, Ming Xizong), Dutch commander Rijk van Goesteren led 12 ships and 1,024 troops to invade Magong Harbor."[^16] This time, the Dutch learned their lesson and did not request trade. They directly built a fortress at Fengchuiwei (now Snakehead Mountain at the southernmost tip of the Fengchui Peninsula in Magong).
+1622년 7월 1일 새벽, 네덜란드 장군 레이어스(Reilens)가 함선 12척과 병력 1,024명을 이끌고 마궁항을 침입했다. 펑후현 정부 역사 연혁 웹페이지에는 "명희종 천계 2년(서기 1622년) 7월 1일 새벽 네덜란드 장군 레이어스가 함선 12척, 병력 1024명을 이끌고 마궁항을 침입했다"라고 기록되어 있다[^16]. 이번에 네덜란드인들은 배운 듯 상업적 교역을 요구하지 않았다. 그들은 곧바로 풍궤웨이(현재 마공풍궤반도의 최남단 사두산)에 성을 쌓았다.
 
-The Ming court reacted slowly. Two years later, in 1624, Nan Juyi took office as Governor of Fujian, reinforcing troops in Penghu to surround the Dutch. Unable to hold out, the Dutch negotiated with the Ming court. The Wikipedia entry for the Dutch Period states: "The Dutch and the Ming Dynasty reached an agreement, agreeing to destroy the fortress and batteries at Fengchuiwei and advance to Taiwan, which was not part of the Ming Dynasty's territory. The Ming Dynasty would not interfere with the Dutch occupation of Taiwan. On August 26, 1624, Dutch troops withdrew from Penghu and moved to Taiwan."[^17]
+명나라의 반응은 느렸다. 2년 후인 1624년, 남거익이 복건 순무를 맡아 병력을 증강하여 펑후를 포위했다. 네덜란드인들은 버티지 못하고 명나라 조정과 담판을 벌였다. 네덜란드 시기 위키피디아 항목에는 "네덜란드와 대명은 협정을 맺고 풍궤웨이의 요새와 포대를 파괴하기로 합의했으며, 대만(대명 영토가 아닌 곳)으로 진출하는 것에 동의했다. 명나라도 네덜란드의 대만 점령에 간섭하지 않기로 했다. 1624년 8월 26일, 네덜란드군은 펑후에서 철수하여 대만으로 향했다"고 기록되어 있다[^17].
 
-This Dutch force, withdrawn from Fengchuiwei in Penghu, later built Fort Zeelandia on Anping's One-Kun-Sha in Tainan. The 40-year Dutch era on the main island of Taiwan began.
+펑후 풍궤웨이에서 철수한 이 네덜란드 부대는 나중에 타이난 안핑의 일군암(一鯤鯓)에 열란차성(熱蘭遮城)을 쌓았다. 타이완 본섬의 40년 네덜란드 시대는 여기서 시작되었다.
 
-Next, this island changed hands between Eurasian maritime powers. In 1683, Shi Lang attacked Penghu; Penghu entered the Qing era along with the main island of Taiwan; 1684-1895 Qing rule lasted 212 years. On March 29, 1885, the Sino-French War reached Penghu; French Admiral Amédée Courbet led a fleet to occupy Penghu. Another battle on the main island of Taiwan was still ongoing: that same year, French troops landed in Keelung and were repelled by Liu Mingchuan and plague.[^18] Penghu fared no better. After the French occupied Penghu, cholera broke out. Admiral Courbet himself died of heatstroke on June 8, 1885, after attending a subordinate's funeral, and died on the flagship _Bayard_ in Magong Harbor on the 11th.[^19] That same month, the _Treaty of Tientsin_ was signed in Tianjin, and French troops withdrew.
+그 후 이 섬은 유라시아 해권 사이에서 주인이 바뀌었다. 1683년 시랑이 펑후를 공격했고, 펑후는 타이완 본섬과 함께 청나라 지배하에 들어갔다. 이는 1684년부터 1895년까지의 212년을 의미한다. 1885년 3월 29일 중프 전쟁이 펑후까지 도달했고, 프랑스군 사령관 코르베(Amédée Courbet)가 함대를 이끌고 펑후를 점령했다. 타이완 본섬에서는 또 다른 전투가 진행 중이었다: 같은 해 프랑스군은 기륭에 상륙했으나 유명전과 전염병에 의해 양쪽에서 격퇴당했다[^18]. 펑후 쪽도 그리 좋지 않았다. 프랑스군이 펑후를 점령한 후 콜레라가 발생했고, 코르베 자신은 1885년 6월 8일 부하의 장례식에 참석하다 일사병으로 쓰러졌으며, 11일 마궁항의 기함인 바야드(Bayard)호에서 병사했다[^19]. 같은 달 《중프 신약》이 톈진에서 체결되면서 프랑스군은 철수했다.
 
-Ten years later, in 1895, the Japanese arrived. From where? Penghu. The Penghu County Government history page states: "On April 17, 1895 (21st year of Guangxu), Li Hongzhang and Ito Hirobumi signed the Treaty of Shimonoseki, formally ceding Taiwan and Penghu to Japan."[^20] However, Japanese troops had already occupied Penghu from March 23 to 25, three weeks before the Treaty of Shimonoseki was signed. On March 26, 1895, Japan established the "Penghu Islands Administrative Office" in Magong, with Rear Admiral Tanaka Tsunenao as the first director. By the time the treaty was signed on April 17, Japanese troops landed on the main island of Taiwan on June 17.
+10년 후인 1895년, 일본인이 왔다. 어디서 왔을까? 펑후다. 펑후현 정부 역사 연혁 웹페이지에는 "광서 21년(서기 1895년) 4월 17일 리훙장과 이토 히로부미가 마관 조약을 체결하고 타이완과 펑후를 일본에 정식으로 할양했다"고 기록되어 있다[^20]. 하지만 실제로는 일군이 마관 조약 체결보다 3주 앞선 3월 23일부터 25일에 이미 펑후를 점령한 상태였다. 1895년 3월 26일 일본은 마공에 '펑후 군도 행정청'을 설치했고, 해군 중장 다나카 츠네가 첫 번째 청장으로 임명되었다. 4월 17일에 조약이 체결된 후에야 6월 17일에 타이완 본섬에 상륙했다.
 
-Strategically, the logic has always been the same: **Occupy Penghu first, then enter Taiwan.** The Dutch tried this in 1622 but failed. The Japanese achieved it in 1895.
+전략은 항상 동일한 논리였다: **먼저 펑후를 점령하고, 그다음 타이완으로 진격한다**. 네덜란드인들은 1622년에 이를 시도했지만 성공하지 못했다. 일본인들은 1895년에 성공했다.
 
-## The Cross-Sea Bridge Sews Six Townships into One Penghu
+# 해협 대교가 6개 향촌을 하나의 펑후로 꿰뚫다
 
-![The Penghu Cross-Sea Bridge spans the Houmen Channel between Baisha and Xiyu, 2015. The first generation opened in 1970, then the longest deep-sea bridge in Southeast Asia; the current second generation was completed in 1996, with a total length of 2,494 meters. Photo: Wing1990hk.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bridge_across_the_Houmen_Channel.jpg/1280px-Bridge_across_the_Houmen_Channel.jpg)
-_Penghu Cross-Sea Bridge spans the Houmen Channel, 2015-06-30. Photo: Wing1990hk via Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Bridge_across_the_Houmen_Channel.jpg)._
+![펑후 해협 대교가 바이샤와 시유 사이의 후먼 수로를 가로지르는 모습, 2015년. 1세대 교량은 1970년에 개통했으며 당시 동남아에서 가장 긴 심해 대교였고, 현재 운행 중인 2세대는 1996년에 완공되었으며 총 길이는 2,494미터이다. 사진: Wing1990hk.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bridge_across_the_Houmen_Channel.jpg/1280px-Bridge_across_the_Houmen_Channel.jpg)
+_펑후 해협 대교가 후먼 수로를 가로지르는 모습, 2015년 6월 30일. 사진: Wing1990hk via Wikimedia Commons, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Bridge_across_the_Houmen_Channel.jpg)._
 
-The Penghu County Government began building the Cross-Sea Bridge in 1965. The Penghu National Scenic Area website states: "Construction of the Cross-Sea Bridge began in 1965, completed and opened in 1970."[^21] The first-generation bridge was 2,478 meters long, then the longest deep-sea bridge in Southeast Asia.
+펑후현 정부는 1965년에 해협 대교 건설을 시작했다. 펑후 국가경관구 공식 웹사이트에는 "해협 대교를 1965년에 착공하여 1970년에 완공 및 개통했다"고 기록되어 있다[^21]. 1세대 교량은 총 길이 2,478미터였으며, 당시 동남아에서 가장 긴 심해 대교였다.
 
-The bridge connects the Houmen Channel between Baisha and Xiyu townships, where the water is deep and the current swift. Before this, Xiyu was only accessible by boat. After the bridge was built, the four townships of Magong City, Huxi Township, Baisha Township, and Xiyu Township were connected by land. The remaining two townships (Wang'an and Qimei) are still in the center of the South China Sea, accessible only by boat or plane.
+이 다리는 후먼 수로를 가로지르는데, 이 수로는 물 깊이가 깊고 물살이 빠르다. 이전에는 시유(西嶼)에 가려면 배를 타야 했다. 다리가 건설된 후, 마공시, 후서향, 바이샤향, 시유향 네 개의 향촌이 육로로 연결되었다. 나머지 두 향촌(왕안, 치메이)은 여전히 남해 중앙에 있어 배나 비행기로 가야 했다.
 
-In 1984, the bridge body began to corrode severely because it was submerged in saltwater and strong winds daily. The second-generation bridge was completed and opened in 1996, "the Penghu Cross-Sea Bridge has a total length of 2,494 meters."[^22] Two lanes, bridge deck width 13 meters. From 1996 until the Kinmen Bridge opened in 2022, for 26 years, it was Taiwan's longest cross-sea bridge.
+1984년에는 다리 구조물이 염수와 강풍 때문에 심하게 부식되기 시작했다. 1996년에 2세대 교량이 완공 및 개통되었으며, "펑후 해협 대교의 총 길이는 2,494미터이다"[^22]. 이 다리는 양방향 차선으로, 다리 폭은 13미터이다. 1996년부터 2022년까지 금문대교가 개통하기 전까지 26년간 이 다리는 타이완에서 가장 긴 해협 대교였다.
 
-> **✦** The physical meaning of the Cross-Sea Bridge is not "connecting two places," but "sewing six townships into one Penghu."
+> **✦** 해협 대교의 물리적 의미는 '두 장소를 연결하는 것'이 아니라, '여섯 개의 향촌을 하나의 펑후로 꿰뚫은 것'이다.
 
-What was sewn together was not just roads. Before 1970, if you asked a Penghu person "Where are you from?", they might say "I am from Xiyu" or "I am from Wang'an." After 1970, the self-identity of "Penghu person" gained a concrete physical carrier. The townships remain, but the people within them share the same identity.
+꿰뚫린 것은 길뿐만이 아니다. 1970년 이전에는 펑후 사람에게 "당신은 어느 지역 출신입니까?"라고 물으면 "저는 시유 출신입니다", "저는 왕안 출신입니다"와 같이 대답할 수 있었다. 하지만 1970년 이후에야 비로소 '펑후 사람'이라는 정체성이 구체적인 물리적 기반을 갖게 되었다. 향촌은 여전히 존재하지만, 그 향촌에 사는 사람들은 동일한 정체성을 공유하게 된 것이다.
 
-## The 2002 Crashed Flight, the 2003 First Fireworks
+## 2002년 해체한 항공기, 2003년 첫 불꽃놀이
 
-On May 25, 2002, at 3:28 PM, China Airlines Flight 611 took off from Songshan Airport (then Zhongzheng International Airport), destination Hong Kong Kai Tak. 15 minutes later, it disintegrated and crashed at 34,900 feet altitude, 23 nautical miles northeast of Magong, Penghu. All 225 people perished. The final accident investigation pointed to improper repairs from a tail scrape in the 1980s.[^23]
+2002년 5월 25일 오후 3시 28분, 중화항공(中華航空) 611편은 중정국제공항에서 출발하여 홍콩 쾌탁으로 향했다. 15분 후, 펑후 마공 동쪽 해상 23해리 상공, 고도 34,900피트에서 기체가 분해되어 추락했으며, 탑승객 225명 전원이 사망했다. 사고 조사는 최종적으로 1980년대의 꼬리 부분 충돌 수리가 부실했던 것을 지목했다[^23].
 
-Penghu's summer tourism industry was completely shattered. The following year, China Airlines held a "Ten Million Romance in the Chrysanthemum Island" event on the Lunar Qixi Festival as compensation for Penghu's tourism industry. In 2003, the Penghu County Government took over, hosting the first Penghu Marine Fireworks Festival. The Wikipedia entry for the Penghu Fireworks Festival states: "China Airlines, to compensate for the tourism impact this air disaster brought to Penghu, held the 'Ten Million Romance in the Chrysanthemum Island' event on the Lunar Qixi Festival that year. The following year (2003), the County Government held the first 2003 Penghu Marine Fireworks Festival again."[^24]
+이 사고로 펑후 여름 관광업계 전체가 타격을 입었다. 중화항공은 다음 해 음력 칠석에 펑후 관광업에 대한 보상으로 '천만풍정재국도(千萬風情在菊島)' 행사를 개최했다. 2003년 펑후현 정부는 첫 번째 펑후해상불꽃축제를 개최했다. 펑후 불꽃놀이 축제 위키피디아 항목에는 "중화항공은 이 항공 사고로 펑후에 미친 관광적 충격을 보상하기 위해 해당 연도 음력 칠석에 '천만풍정재국도' 행사를 열었다. 다음 해(2003년) 현 정부가 첫 번째 2003년 펑후해상불꽃축제를 개최했다"고 기록되어 있다[^24].
 
-From this year on, Penghu had a representative summer event. In 2019, the fireworks festival held 22 sessions, with approximately 420,000 tourist visits, the highest in history. COVID brought it back to zero; it restarted in 2022, with tourism revenue exceeding 322 million NTD during the period.
+이 시점부터 펑후에는 여름을 대표하는 행사가 생겨났다. 2019년 불꽃놀이는 총 22회 열렸으며, 관광객 수는 약 42만 명으로 역대 최고치를 기록했다. 코로나19로 인해 제로(zero)가 되었던 축제는 2022년에 재개되었고, 이 기간 동안의 관광 수입은 3억 2,200만 위안을 초과했다.
 
-But the fireworks festival has a structural problem: it is only held in summer. Penghu tourism industry practitioners in a _The Reporter_ interview: "**Summer work, winter rest, is the common pattern of Penghu tourism operators**"[^25]. April to September is the peak season; October to March is the off-season. Flights in the off-season are easily canceled due to the Northeast Monsoon; restaurants and homestays are mostly empty. _The Reporter_ wrote a more precise sentence: "**Every other year, another homestay changes operators**."
+하지만 불꽃놀이 축제에는 구조적인 문제가 있었다. 그것은 여름에만 열린다는 점이다. 펑후 관광업계 종사자 인터뷰에 따르면 "여름에 일하고 겨울에 쉬는 것이 일반적인 펑후 관광업의 형태"라고 한다[^25]. 매년 4월부터 9월까지가 성수기이고, 10월부터 3월까지가 비수기이다. 비수기에는 동북계절풍의 영향으로 항공편이 취소되기 쉬우며, 식당과 민박 대부분이 텅 빈 상태로 남는다. 한 기자가 더 정확하게 표현한 바는 "매년 다른 민박집 주인이 바뀐다"였다.
 
-Outsiders see Penghu: blue sky and blue sea in summer. Penghu people see Penghu: summer is when you work, winter is the real Penghu. Winter vegetable gardens still grow crops. The winter Northeast Monsoon keeps blowing. Winter nights on Magong Central Street have no tourists, only locals. **Penghu's two times overlap on those 141 square kilometers.**
+외부인의 눈에 비친 펑후: 여름의 푸른 하늘과 바다. 펑후 사람들의 눈에 비친 펑후: 여름은 일하는 시기이며, 진정한 펑후는 겨울이다. 겨울에는 채소 재배를 하는 '채택(菜宅)'이 여전히 작물을 키우고 있다. 겨울에는 동북계절풍이 계속 분다. 겨울밤 마공 중앙거리에는 관광객 대신 현지 주민들만 있다. **펑후의 두 가지 시간은 141제곱킬로미터 위에 중첩되어 있다.**
 
-## 19 Islands, 80,000 People, Dongji Island Has Only 20 Left
+## 19개 섬, 8만 명, 동지서에는 20명 남음
 
-The Penghu County Government commissioned National Kaohsiung University of Applied Sciences to conduct an island-wide census in 2005, confirming the total number of islands is 90. Before this, the number from the Japanese colonial era survey, 64, was used. The distribution of the 90 islands is as follows: Magong City 7, Huxi Township 10, Baisha Township 37, Xiyu Township 3, Wang'an Township 32, Qimei Township 1[^26].
+펑후현 정부는 2005년 국립가오슝응용과학대학에 의뢰하여 전 섬 조사를 실시했고, 총 섬의 수가 90개임을 확인했다. 그 이전까지 사용되던 것은 일제강점기 조사 자료인 64개였다. 90개 섬의 분포는 다음과 같다: 마공시 7개, 후서향 10개, 바이샤향 37개, 시서향 3개, 왕안향 32개, 치메이향 1개[^26].
 
-Of the 90 islands, only 19 are inhabited. The Penghu National Scenic Area children's version list is: Penghu Main Island, Tongpan Island, Hujing Island, Mudou Island, Jibei Island, Niao Island, Yuanbei Island, Baisha Island, Dacang Island, Zhongtun Island, Yuweng Island, Xiaomen Island, Jiangjun'ao Island, Wang'an Island, Huayu, Xishiping Island, Dongshiping Island, Dongji Island, Qimei Island[^27]. The other 71 are uninhabited, with a total area of only 3.02 square kilometers, smaller than a single community in Magong City.
+90개의 섬 중 사람이 거주하는 곳은 19곳뿐이다. 펑후국가경관구의 어린이용 목록에는 다음과 같은 섬들이 있다: 펑후본도, 통판서(桶盤嶼), 호정서(虎井嶼), 목두서(目斗嶼), 지베이서(吉貝嶼), 조서(鳥嶼), 원배서(員貝嶼), 바이샤도(白沙島), 다창서(大倉嶼), 중둔서(中屯島), 어옹서(漁翁島), 샤오먼서(小門嶼), 장군아오서(將軍澳嶼), 왕안도(望安島), 화서(花嶼), 시서핑서(西嶼坪嶼), 동지핑서(東嶼坪嶼), 동지서(東吉嶼), 치메이서(七美嶼)[^27]. 나머지 71개 섬은 사람이 살지 않으며, 총면적을 합쳐도 3.02 제곱킬로미터로 마공시의 한 마을보다 작다.
 
-Dongji Island is a case study. It is the largest island among the Southern Four Islands. The KKday blog record states: "Dongji Island is the largest island among the Southern Four Islands. At its peak, residents numbered over 3,000, known as the 'Little Shanghai.' Currently, only about 10-20 people live there."[^28] Why did it go from 3,000 to 20? Before the war, Dongji Island was a relay station between the main island of Taiwan and Xiamen; sailors, traders, and brothel owners gathered on this island. After the war, cross-strait isolation cut off trade routes, the island lost its economic foundation, and people moved away in batches.
+동지서는 그 사례 중 하나이다. 이곳은 남방 4도(南方四島) 중에서 면적이 가장 크다. KKday 블로그 기록에는 "동지서는 남방 4도 중 면적이 가장 큰 섬으로, 전성기에는 3천여 명이 거주했으며 '작은 상하이'로 불렸으나 현재는 약 10~20명만 거주한다"고 되어 있다[^28]. 왜 3천 명에서 20명으로 줄었을까? 전쟁 이전 동지서는 타이완 본토와 샤먼 사이의 중계 지점이었으며, 배를 운항하고 무역을 하거나 주점을 운영하는 사람들이 이 섬에 모여 살았다. 전후 양안(兩岸)이 단절되고 무역로가 끊기면서 섬은 경제적 기반을 잃었고, 사람들은 하나둘 떠나갔다.
 
-In 2014, the Penghu Southern Four Islands National Park was officially announced. Wikipedia entry: "The Penghu Southern Four Islands National Park is the ninth National Park of the Republic of China, and also the second marine-type national park in Taiwan's history... Officially announced and implemented on June 8, 2014."[^29] The scope includes Dongji, Xiji, Dongshiping, and Xishiping islands and surrounding waters, 35,843.62 hectares. The Marine National Park Management Office specially recorded that Xishiping Island "has a coral coverage rate of over 50%, the highest among the Southern Four Islands."[^30] When people left, the coral grew back.
+2014년 펑후 남방 4도 국가공원이 정식으로 공표되었다. 위키피디아 항목에는 "펑후 남방 4도 국가공원은 중화민국 제9호 국가공원이며, 타이완 역사상 두 번째 해양형 국가공원이다. ... 2014년 6월 8일에 공식적으로 시행되었다"고 되어 있다[^29]. 이 구역은 동지, 서지, 동지핑, 서지핑 네 섬과 주변 해역 약 35,843.62 헥타르를 포함한다. 해양국가공원관리소는 특히 서지핑서의 "산호 피복률이 50% 이상으로 남방 4도 중 최고"라고 기록했다[^30]. 사람들이 떠난 후 오히려 산호가 되살아나고 있는 것이다.
 
-The population structure of the entire Penghu County is also moving in this direction. As of the end of 2023, the registered population was 108,000, second to last in the country. But the 2020 census resident population was only 82,000, 77% of the registered population. The aging index is about 194%; those over 65 account for 18.97%, those under 15 only 9.76%. Magong City concentrates 60% of the population (about 64,000); Qimei Township has only 3,937 people[^31].
+펑후현 전체의 인구 구조도 비슷한 양상이다. 2023년 말 호적 인구는 10만 8천 명으로 전국에서 두 번째로 적은 수준이었다. 하지만 2020년 인구조사 상주 인구는 8만 2천 명에 불과하여 호적 인구의 77%에 그쳤다. 고령화 지수는 약 194%이며, 65세 이상이 18.97%, 15세 미만이 9.76%를 차지한다. 마공시가 인구의 60%(약 6만 4천 명)를 집중하고 있으며, 치메이향에는 단 3,937명만 거주한다[^31].
 
-Fisheries are also shrinking. CNA report on April 20, 2024: "**Fishery output has declined by 3/4 in the past 20 years, annual value changing from 4 billion NTD to 2 billion NTD**"[^32]. Reasons include climate change, overfishing, and coral habitat degradation. Now, aquaculture fisheries (sea bass, grouper, etc., cage farming) have an annual value of about 1.53 billion, supporting two-thirds of the total fishery output value. Nearshore fishery catches have shrunk to only 730 million. In the 1950s, Penghu stone fisheries contributed 80% of fishery catches; now they serve only a cultural landscape function.
+어업 역시 위축되었다. 중앙사는 2024년 4월 20일 보도에서 "최근 20년간 어획량이 3/4 감소했으며, 연간 생산액이 신대만 달러 4억 위안에서 2억 위안으로 줄었다"고 전했다[^32]. 원인은 기후 변화, 과도한 남획, 산호 서식지 열화 때문이다. 현재 양식 어업(상어, 도미 등의 통발 양식)이 연간 약 15억 3천만 달러를 생산하며 전체 어업 생산액의 3분의 2를 지탱하고 있다. 근해 어획량은 7억 3천만 달러 수준으로 줄었다. 1950년대 펑후 석호(石滬)가 과거 어획량의 8할을 차지했으나, 지금은 문화 경관으로서의 기능만 남아있다.
 
-The green sea turtles of Wang'an Township also illustrate the same thing. The "Penghu County Wang'an Island Green Sea Turtle Spawning Habitat Protection Area" was established in 1995, currently Taiwan's only relatively stable green sea turtle spawning ground. But the conservation situation is severe: the number of spawning female turtles decreased year by year from a high of 19; in 2014, only one female turtle came ashore to spawn; in 2022, it rebounded to 3 females laying 6 clutches; in May 2024, the first female turtle came ashore[^33]. Thirty years of conservation, the numbers still fluctuate in single digits.
+왕안향의 녹색바다거북 역시 같은 이야기를 보여준다. 1995년 "펑후현 왕안도 녹색바다거북 산란 서식지 보호구역"이 지정된 것은 타이완에 현존하는 비교적 안정적인 녹색바다거북 산란지이다. 그러나 보존 상황은 심각하다: 산란 암컷 거북의 수는 최고치였던 19마리에서 매년 감소했으며, 2014년에는 단 한 마리의 암컷만이 상륙하여 알을 낳았고, 2022년에는 3마리가 돌아와 6군데에 알을 낳았으며, 2024년 5월에는 첫 번째 암컷이 상륙했다[^33]. 30년간의 보존 노력에도 불구하고 수치는 여전히 한 자릿수에서 요동치고 있다.
 
-## 81.07%: Saying NO a Second Time
+## 81.07%: 두 번째 '아니오'를 외쳤을 때
 
-Back to the beginning.
+처음으로 돌아간다.
 
-On September 26, 2009, the nation's first local gambling referendum. Question: "Should Penghu set up an International Resort Area with an attached casino?" Results:
+2009년 9월 26일, 전국 최초의 지역 도박 공론화가 있었다. 안건은 "펑후에 국제 관광 리조트 및 부속 관광 카지노를 설치할 것인가"였다. 결과는 다음과 같다:
 
-- Agree: 13,397 votes (43.56%)
-- Disagree: 17,359 votes (56.44%)
-- Voter turnout: 42.16%
-- Opposition led by 3,962 votes[^34]
+- 찬성 13,397표 (43.56%)
+- 반대 17,359표 (56.44%)
+- 투표율 42.16%
+- 반대 측이 3,962표 앞섰다[^34].
 
-This was the second local referendum after the passage of the Referendum Act. The law's design originally required gambling casinos to pass local referendums to be legalized. Penghu was selected because it met the conditions: offshore island, small population, tourism-oriented, has hinterland. The consortium bet. The coordinator of the Penghu County Anti-Gambling Alliance, Shi Zhaohui (Buddhist scholar), said after the vote counting a quote cited to this day: "**The shrimp defeated the large consortium; the people of Penghu used their votes to save Penghu, and also save Taiwan**"[^35].
+이는 《시민투표법》 통과 후 두 번째 지역 공론화였다. 법의 설계상 도박장을 합법화하려면 먼저 지역 공론화를 통과해야 했다. 펑후가 선정된 이유는 조건을 충족했기 때문이다: 외딴 섬, 적은 인구, 관광 지향적이며 내륙(腹地)이 있기 때문이었다. 재벌들이 베팅했다. 펑후 반도박 연맹 조직원인 시자오후이(佛教學者)는 개표 후 지금까지 인용되는 한 마디를 남겼다: "작은 물고기가 거대 자본을 이겼고, 펑후 주민들은 투표로 펑후와 타이완을 구했다"[^35].
 
-In the next two years, the tourism industry actually picked up. Data from _The Reporter_'s follow-up tracking: "**Two years after the 2009 anti-gambling referendum, Penghu's tourist visits increased by 15% by 2011**"[^25]. Without a casino, tourism grew. But this frame is too thin—the people of Penghu actually do not live by the narrative of "referendum brings tourism growth."
+그 후 2년 동안 관광업은 오히려 성장했다. 기자들이 추적한 데이터는 다음과 같다: "펑후는 2009년 반도박 공론화 이후 2년간, 즉 2011년까지 관광객 수가 15% 증가했다"[^25]. 도박장이 없어도 관광은 성장했다. 하지만 이 프레임은 너무 피상적이다—펑후 주민들은 실제로 '공론화로 인한 관광 성장'이라는 서사만으로 살아가는 것이 아니었다.
 
-Seven years later, on October 15, 2016, they voted again. Same question, different numbers:
+7년 후인 2016년 10월 15일, 다시 투표를 실시했다. 동일한 안건이었으나 숫자는 달랐다:
 
-- Agree: 6,210 votes (18.93%)
-- Disagree: 26,598 votes (81.07%)
-- Support in each township did not exceed 31%[^36]
+- 찬성 6,210표 (18.93%)
+- 반대 26,598표 (81.07%)
+- 각 현의 찬성률은 31% 미만이었다[^36].
 
-What happened in those seven years? Nothing. No sudden wealth, no solution to the winter off-season problem, no solution to youth outmigration, no solution to fishery shrinkage. The people of Penghu simply increased their opposition votes by 25 percentage points, saying NO a second time.
+그 사이에 무슨 일이 있었을까? 특별한 것은 없었다. 큰 부를 축적하지도 않았고, 겨울 비수기 문제를 해결하지도 않았으며, 청년층 유출 문제를 해결하지도 않았고, 어업 쇠퇴 문제를 해결하지도 않았다. 펑후 주민들은 반대표가 25%p 증가하며 두 번째로 '아니오'라고 답했다.
 
-> **📝 Curator's Note:** The common online narrative is "The people of Penghu rejected the casino because they feared security issues." But this statement reverses cause and effect. The core of the people of Penghu's anti-gambling stance is hidden in Shi Zhaohui's words in 2009: "The people of Penghu used their votes to save Penghu." The subtext of the word "save" is that Penghu was originally going to be turned into something else, and the people of Penghu themselves chose not to have that thing. An airport service staff member said in a _The Reporter_ interview: "**Those are money games played by consortia; they provide no substantial help to us locally in Penghu**"[^37]. A local specialty industry practitioner said more specifically: "**Casinos emphasize that eating, drinking, and entertainment are all in the casino; tourists coming to the casino are trapped by the casino's facilities and services; who else will come out to stroll on the streets? We simply cannot make money after setting up the casino**"[^38]. **The object of the two NOs was not the casino, but the right to choose "who defines Penghu".** When outsiders decide for you what you should become, you say no. Even if you don't see how to move forward next, you still say no first.
+> **📝 기획자 노트:** 통용되는 인터넷 서사는 "펑후 주민들이 치안 문제 때문에 도박장을 원치 않는다"는 것이다. 그러나 이 설명은 인과관계를 뒤집었다. 펑후 주민들이 반도박을 선택한 진정한 핵심은 2009년 시자오후이의 말 속에 담겨 있다: "펑후 주민들은 투표로 펑후를 구했다". '구원'이라는 단어의 숨겨진 의미는, 펑후가 원래 다른 무언가로 변모할 운명이었고, 펑후 주민들이 그 무언가를 거부했다는 것이다. 한 공항 서비스직원은 기자와의 인터뷰에서 이렇게 말했다: "그것은 모두 재벌들이 하는 돈놀이일 뿐이며, 우리 펑후 지역에는 실질적인 도움이 전혀 없다"[^37]. 한 현지 특산물업자는 더 구체적으로 말했다: "도박장은 먹고 마시고 즐기는 모든 것이 도박장 안에 갇혀 있는 것을 강조하는데, 도박장에 오는 '관광객'들은 도박장의 시설과 서비스에 갇히게 되고, 누가 거리를 돌아다니며 다닐 수 있겠습니까? 우리는 도박장이 생긴 후에도 돈을 벌 수 없습니다"[^38]. **두 번의 '아니오'는 도박장 자체가 아니라, "펑후가 누구에 의해 정의될 것인가"라는 선택권에 대한 저항이었다.** 외부 사람들이 당신이 무엇이 되어야 한다고 정해줄 때, 그것을 거부하는 것이다. 다음 단계를 알지 못하더라도 일단은 '아니오'라고 말하는 것이다.
 
-_Common Wealth Magazine_ interviewed several second-generation Penghu people who returned home. What they are doing is deep tourism, eco-tourism, environmentally friendly tourism—after rejecting the casino tourism imagination, they want to grow something else in the blank space. One of the most quoted sentences is: "**Pursuing deep tourism and environmentally friendly practices is the value they identify with**"[^39].
+천하잡지는 귀향한 펑후 2세들을 인터뷰했다. 그들이 하는 일은 심층 관광, 생태 관광, 친환경 관광이다—도박장이라는 관광 상상력을 거부한 후, 빈자리를 다른 것으로 채우려는 노력이다. 이들 중 가장 많이 인용된 말은 "심층 관광과 친환경을 추구하는 것이 그들이 인정하는 가치"라는 것이다[^39].
 
-In another in-depth interview by _The Reporter_, Liu Yiyang of the Penghu Youth Front said a sentence closer to the core: "**Actually, every Penghu child is looking for a way to go home**"[^40]. Every child who left Penghu to study or work on the main island of Taiwan has a version of what Penghu should look like in their mind. The voters are the accumulated decision of these versions.
+다른 심층 인터뷰에서 펑후 청년 진영의 리우이양(劉翊暘)은 더 핵심에 가까운 말을 했다: "사실, 모든 펑후 아이들은 돌아갈 방법을 찾고 있다"[^40]. 펑후를 떠나 타이완 본토로 유학하거나 일하러 가는 아이들 모두 마음속에 '어떤 모습의 펑후가 되어야 하는가'라는 버전을 가지고 있다. 투표하는 사람들은 바로 이 버전들이 쌓여 만들어낸 결정이었다.
 
-## Winter Vegetable Gardens, the Northeast Monsoon Blows Outside
+## 겨울의 채택, 바깥에서는 북동풍이 분다
 
-Back to the opening scene.
+시작 장면으로 돌아간다.
 
-4 AM on Magong Central Street. There is water in the Four-Eye Well, although it is no longer daily drinking water. The doors of the Kaitai Tianhou Temple are closed; the 1604 Shen Yourong Stele sits quietly in the glass case of the Qingfeng Pavilion. The Northeast Monsoon blows from the northwest into the alleys, blowing over the Langgu stone and basalt walls.
+새벽 네 시의 마공 중앙 거리. 사안정(四眼井)에는 물이 있었지만, 이미 일상적인 식수는 아니었다. 개대천후궁(開臺天后宮)의 사당 문은 닫혀 있었고, 1604년의 심유용 비석은 청풍각(清風閣)의 유리 진열장 안에 조용히 놓여 있었다. 북동풍이 서북쪽에서 골목으로 불어 들어와 돌담과 현무암으로 쌓인 벽을 스치고 지나갔다.
 
-Two hundred meters away, the Guanyin Pavilion seaside, the fireworks festival stage is empty in winter. Twelve kilometers away, Snakehead Mountain at Fengchuiwei, the fortress built by the Dutch in 1622 remains only as ruins. Thirty kilometers away, the Baisha Cross-Sea Bridge has no cars. A bit further is Jibei Island, 109 stone fisheries revealing heart and arc shapes at low tide. Further still is Qimei Island, the two hearts of the Double-Heart Stone Fishery clearly floating on the sea surface at low tide.
+200미터 떨어진 관음정 해변에는 여름의 폭죽 축제 무대가 겨울에 멈춰 있었다. 12km 떨어진 풍계미(風櫃尾)의 사두산(蛇頭山)에는 1622년 네덜란드인이 지은 성의 유적만 남아 있었다. 30km 밖 백사장 해협대교 위에는 차가 없었다. 조금 더 나가면 기래도(吉貝嶼)가 있었고, 109개의 돌하우스(石滬)가 썰물 때 하트 모양과 호형을 드러냈다. 그 너머는 칠미도(七美嶼)였는데, 두 개의 하트 모양 돌하우스의 두 하트가 썰물 때 바다 위에 선명하게 떠 있었다.
 
-Further south are the Southern Four Islands. On Dongji Island, 10 to 20 people are sleeping. The coral on Xishiping Island is still growing. In the entire 35,843-hectare marine national park scope, few people, many corals.
+더 남쪽으로는 남방사도(南方四島)가 있다. 동기래도(東吉嶼)에는 10~20명이 잠들어 있다. 서수평도(西嶼坪嶼)의 산호는 여전히 자라고 있다. 전체 35,843㎢에 달하는 해양 국립공원 범위 내에는 사람이 적고 산호가 많다.
 
-The stone walls of every vegetable garden were built later than that Dutch fortress. Every vegetable garden has also been used longer than that Dutch fortress.
+각 채택의 돌담은 그 네덜란드 성보다 더 나중에 지어졌으며, 각 채택 역시 그 네덜란드 성보다 더 오래 사용되었다.
 
-The Northeast Monsoon blows outside. The people of Penghu learned this when they were young: **You cannot stop the wind, but you can decide in what kind of walls to grow crops.** In 1604, Shen Yourong made the Dutch retreat. In 1622, the Dutch moved to Tainan. In 1885, the French admiral died in Magong Harbor. In 1895, the Japanese started taking possession of Taiwan from Penghu. In 2002, China Airlines 611 crashed; in 2003, the fireworks festival began. In 2009, opposed the casino 56%; in 2016, opposed 81%. Penghu has always been chosen by others as an entry point, stepping stone, bargaining chip, resort area, casino backup plan. **Every time Penghu says: What you think doesn't count, I think for myself.**
+바깥에서는 북동풍이 분다. 펑후 사람들은 어린 시절부터 이 사실을 배웠다: **바람을 멈출 수는 없지만, 어떤 벽 안에서 작물을 키울지는 결정할 수 있다.** 1604년 심유용은 네덜란드인들을 물러가게 했다. 1622년 네덜란드인들은 타이난으로 이동했다. 1885년 프랑스 군 사령관이 마궁항에서 사망했다. 1895년 일본인이 펑후를 통해 타이완을 수용하기 시작했다. 2002년 대한항공 611편이 추락했고, 2003년에 폭죽 축제가 열렸다. 2009년 도박 반대 여론은 56%였고, 2016년에는 81%였다. 펑후는 끊임없이 다른 이들에 의해 입구, 발판, 칩, 휴양지, 도박장 후보지로 선택되어 왔다. **펑후는 매번 말한다: 당신의 생각은 통하지 않는다, 나 스스로 생각하겠다.**
 
-Winter. Inside the wall of a vegetable garden, a cauliflower grows slowly in the lee. Outside is the Houmen Channel, 17.4-million-year-old volcanic rock, 19 inhabited islands and 71 uninhabited islands, 80,000 resident population, two referendums.
+겨울이다. 한 채택의 벽 안에서 콜리플라워 한 포기가 바람을 등지고 천천히 자라고 있다. 바깥에는 호문 수로가 있고, 1740만 년 전의 화산암이 있으며, 사람이 사는 섬 19개와 사람이 살지 않는 섬 71개가 있고, 상주 인구는 8만 명이며, 두 번의 주민투표가 있었다.
 
-It takes only 50 minutes to fly from Taipei to Magong. Next time you go to Penghu, don't just go in summer. Go again in winter, look at those stone walls. Look at what grows inside the walls.
+타이베이에서 비마공까지 단 50분 거리에 있다. 다음에 펑후에 갈 때는 여름에만 가지 말라. 겨울에도 한 번 더 가서 저 돌담들을 보라. 벽 안에서 자라고 있는 것들을 보라.
 
-## Further Reading
+## 심화 읽기
 
-- [Penghu Folk Culture](/culture/Penghu Folk Culture) — Complete local folk records of Kaitai Tianhou Temple, Mazu faith, Erkan Baige, and Wangchuan rituals
-- [Offshore Islands and Marine Culture](/geography/Offshore Islands and Marine Culture) — Taiwan's offshore island marine culture system composed of Penghu, Kinmen, Matsu, Lanyu, and Green Island
-- [Geographical Features and Formation of Taiwan Islands](/geography/Geographical Features and Formation of Taiwan Islands) — Geological differences between the Penghu basalt archipelago and the main island of Taiwan's orogenic movement
-- [Legends of Mazu and Lord Da Dao](/culture/Legends of Mazu and Lord Da Dao) — Cross-sea origins of Mazu faith in the location of Kaitai Tianhou Temple
-- [Taiwan Administrative Divisions](/geography/Taiwan Administrative Divisions) — Context of the 1920 local system reform where Magong was renamed Magong
-- [Sino-French War](/history/Sino-French War) — 1885 French occupation of Penghu, Admiral Courbet's death in Magong Harbor, the Taiwan-Penghu battlefield panorama of the _Treaty of Tientsin_
-- [Dutch-Spanish Ming Zheng Period](/history/Dutch-Spanish Ming Zheng Period) — The key turning point of the Dutch withdrawing from Fengchuiwei in Penghu to Tainan Da'er 1622-1624
+- [펑후 민속 문화](/ko/culture/penghu-folk-culture) — 개태천후궁, 마조 신앙, 이칸 포가, 왕선 제의에 대한 완벽한 현지 민속 기록
+- [도서와 해양 문화](/ko/geography/offshore-islands-and-maritime-culture) — 펑후, 김문, 마조, 난유, 녹도 등으로 구성된 타이완 도서 해양 문화 체계
+- [타이완 섬의 지리적 특성과 형성](/ko/geography/geography-and-geology) — 펑후 현무암 군도와 타이완 본섬 조산 운동의 지질학적 차이
+- [마조와 대도공의 전설](/ko/culture/mazu-dadaogong-legend) — 개태천후궁 소재지의 마조 신앙 해상 기원
+- [타이완 행정 구역](/ko/geography/administrative-divisions-of-taiwan) — 1920년 마궁(媽宮) 명칭 변경과 마공 지역 제도 개혁의 맥락
+- [청프 전쟁](/ko/history/sino-french-war-in-taiwan) — 1885년 프랑스군이 펑후를 점령하고 고발(孤拔)에서 병사한 마궁항, 《중프신약》의 타이펑 전장 전경
+- [네덜란드-스페인-고씨 시기](/ko/history/dutch-spanish-and-koxinga-era) — 1622~1624년 네덜란드가 펑후 풍궤미(風櫃尾)에서 타이난 대원(大員)으로 철수한 결정적 전환점
 
-## Image Sources
+## 이미지 출처
 
-This article uses 5 Wikimedia Commons licensed images:
+본문은 Wikimedia Commons에서 라이선스를 부여한 5개의 이미지를 사용하였다:
 
-- **Hero (frontmatter)**: [Bridge across the Houmen Channel](https://commons.wikimedia.org/wiki/File:Bridge_across_the_Houmen_Channel.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)) — Panoramic view of the Penghu Cross-Sea Bridge, Photo: Wing1990hk, 2015-06-30.
-- **Scene §1604 Stele**: [Penghu Tianhou Temple 02](https://commons.wikimedia.org/wiki/File:Penghu_Tianhou_Temple_02.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) — In front of Kaitai Tianhou Temple, Photo: Outlookxp.
-- **Scene §Basalt Columns**: [Columnar Igneous Rocks on Tongpan island in Taiwan](https://commons.wikimedia.org/wiki/File:Columnar_Igneous_Rocks_on_Tongpan_island_in_Taiwan.jpg) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) — Columnar basalt on Tongpan Island, Photo: Carrie Kellenberger, 2008-07-12.
-- **Scene §Erkan Roof**: [Erkan Settlement Ancient House Roof](https://commons.wikimedia.org/wiki/File:%E4%BA%8C%E5%B4%81%E8%81%9A%E8%90%BD%E5%8F%A4%E5%8E%9D%E7%9A%84%E5%B1%8B%E9%A0%82.jpg) ([CC BY-SA 4.0](https://commons.wikimedia.org/licenses/by-sa/4.0/)) — Erkan Settlement red tiles weighted with stone slabs, Photo: Perryn1258, 2011-07-09.
-- **Scene §Double-Heart Stone Fishery**: [Qimei Double-Heart Stone Fishery Cultural Landscape](https://commons.wikimedia.org/wiki/File:%E4%B8%83%E7%BE%8E%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC%E6%96%87%E5%8C%96%E6%99%AF%E8%A7%80.jpg) ([CC BY-SA 4.0](https://commons.wikimedia.org/licenses/by-sa/4.0/)) — Aerial view of Qimei Double-Heart Stone Fishery, Photo: Zhang Yalun, 2017-09-24.
+- **Hero (frontmatter)**: [허먼 해협 다리](https://commons.wikimedia.org/wiki/File:Bridge_across_the_Houmen_Channel.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)) — 펑후 해협 대교 전경, 촬영: Wing1990hk, 2015-06-30.
+- **Scene §1604 그 비석**: [펑후 천후궁 02](https://commons.wikimedia.org/wiki/File:Penghu_Tianhou_Temple_02.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) — 개태천후궁 전경, 촬영: Outlookxp.
+- **Scene §현무암 기둥**: [타이완 통판섬의 주상절리](https://commons.wikimedia.org/wiki/File:Columnar_Igneous_Rocks_on_Tongpan_island_in_Taiwan.jpg) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) — 통판섬 주상절리, 촬영: Carrie Kellenberger, 2008-07-12.
+- **Scene §얼칸 지붕**: [이칸 마을의 전통 가옥 지붕](https://commons.wikimedia.org/wiki/File:%E4%BA%8C%E5%B4%81%E8%81%9A%E8%90%BD%E5%8F%A4%E5%8E%9D%E7%9A%84%E5%B1%8B%E9%A0%82.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) — 이칸 마을의 기와 지붕, 촬영: Perryn1258, 2011-07-09.
+- **Scene §쌍심 석호**: [치메이 쌍심 석호 문화 경관](https://commons.wikimedia.org/wiki/File:%E4%B8%83%E7%BE%8E%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC%E6%96%87%E5%8C%96%E6%99%80.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) — 치메이 쌍심 석호 항공 촬영, 촬영: 장야륜, 2017-09-24.
 
-Extended Video:
+확장 영상 자료:
 
-- PTS _Our Island_ [Penghu Basalt Protection Area Series](https://ourisland.pts.org.tw/) — Geological documentaries of the 1992 Penghu Basalt Natural Reserve and the 2008 Penghu South China Sea Basalt Natural Reserve.
-- PTS _Our Island_ [Wang'an Green Sea Turtle Protection Special](https://ourisland.pts.org.tw/) — On-site observation of the Wang'an Island Green Sea Turtle Spawning Habitat Protection Area established in 1995.
+- 공영방송 《우리의 섬》 [펑후 현무암 보호구역 시리즈](https://ourisland.pts.org.tw/) — 1992년 펑후 현무암 자연보호구역, 2008년 펑후 남해 현무암 자연보호구역의 지질 다큐멘터리.
+- 공영방송 《우리의 섬》 [왕안 바다거북 보호 특집](https://ourisland.pts.org.tw/) — 1995년에 설립된 왕안도 녹색바다거북 산란 서식지 보호구역 현장 관찰.
 
-## References
+## 참고 자료
 
-[^1]: [Magong Central Street — Magong City Office of Culture and Tourism](https://www.mkcity.gov.tw/) — Magong Central Street is one of the oldest Han Chinese streets still existing in Taiwan, the block formed during the Ming and Qing dynasties, the southern end is Kaitai Tianhou Temple, the northern end is the Four-Eye Well.
+[^1]: [마공 중앙가 — 마공시 공소 문화관광](https://www.mkcity.gov.tw/) — 마공 중앙가는 현존하는 가장 오래된 한인 거리 중 하나로, 명청 시대에 형성되었으며 남쪽 끝에는 개대천후궁이, 북쪽 끝에는 사안정이 있습니다.
 
-[^2]: [Four-Eye Well — Penghu County Cultural Bureau](https://www.phhcc.gov.tw/) — County-level historic site, located at the northern end of Magong Central Street, originally a large well, covered with six granite strips forming four water intake mouths, a well where residents drew water together since the Ming Dynasty, designated as a historic site in 1985.
+[^2]: [사안정 — 펑후현 문화국](https://www.phhcc.gov.tw/) — 현 지정 고적이며 마공 중앙가 북쪽에 위치하고 있으며, 원래 큰 우물이었으나 여섯 개의 화강암 조각으로 덮여 네 개의 취수구를 형성했으며 명대부터 주민들이 공동으로 물을 길었던 곳으로 1985년에 고적으로 지정되었습니다.
 
-[^3]: [Penghu Tianhou Temple — Wikipedia](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E5%A4%A9%E5%90%8E%E5%AE%AE) — 1919 (Taisho 8) temple renovation unearthed the Ming Wanli 32nd year (1604) "Shen Yourong Ordered the Retreat of the Red-Haired Barbarians, Van Warwijck, et al." stele complete archaeological record.
+[^3]: [펑후 천후궁 — 위키피디아](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E5%A4%A9%E5%90%8E%E5%AE%AE) — 1919년(다이쇼 8년) 사당 정비 시 명나라 만력 32년(1604)의 '심유용 유퇴홍모번위마랑 등' 석비에 대한 완전한 고고학적 기록이 발굴되었습니다.
 
-[^4]: [Penghu Tianhou Temple — Penghu Knowledge Service Platform penghu.info](https://penghu.info/OB30CF0CA89D555D16FB) — Original text: "The exact founding time has never been concluded. However, it is certain that it existed by the 32nd year of the Ming Wanli era (1604). There are claims for the 42nd year of Ming Jiajing (1563), 20th year of Wanli (1592), 25th year of Wanli (1597), 32nd year of Wanli (1604), 2nd year of Tianqi (1622)" complete founding year verification.
+[^4]: [펑후 천후궁 — 펑후 지식 서비스 플랫폼 penghu.info](https://penghu.info/OB30CF0CA89D555D16FB) — 원문: '건축 시기는 여전히 논란의 여지가 있으나, 명나라 만력 32년(1604)에는 이미 존재했음은 확실하다. 명나라 가경 42년(1563), 만력 20년(1592), 만력 25년(1597), 만력 32년(1604), 천계 2년(1622) 등의 건묘 연도가 기록되어 있습니다.'
 
-[^5]: [Shen Yourong — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B2%88%E6%9C%89%E5%AE%B9) — Ming Wanli 32nd year (1604) Admiral Shen Yourong led 50 warships to Penghu, December 15 Van Warwijck withdrawal event process.
+[^5]: [심유용 — 위키피디아](https://zh.wikipedia.org/wiki/%E6%B2%88%E6%9C%89%E5%AE%B9) — 명나라 만력 32년(1604)에 도사 심유용이 배 50척을 이끌고 펑후로 갔으며, 12월 15일에 위마랑이 퇴각한 사건의 경과입니다.
 
-[^6]: [Shen Yourong Ordered the Retreat of the Red-Haired Barbarians, Van Warwijck, et al. — Ministry of Culture National Cultural Heritage Network](https://nchdb.boch.gov.tw/) — March 2022 Ministry of Culture officially designated as National Treasure official announcement, stele is granite, 200 cm high, 28 cm wide, 14 cm thick.
+[^6]: [심유용 유퇴홍모번위마랑 등 — 문화부 국가문화자산망](https://nchdb.boch.gov.tw/) — 2022년 3월 문화부가 정식으로 국보로 지정한 공식 공고이며, 석비는 화강암 재질이고 높이 200cm, 너비 28cm, 두께 14cm입니다.
 
-[^7]: [Magong History — Magong City Office](https://www.mkcity.gov.tw/) — Original text: "Taisho 9th year (1920) implemented local autonomy, Penghu changed to county system, Magong renamed Magong (Ma Gong) usage continues to this day. 'Magong' two characters are Japanese abbreviation for 'Magong' (Maggong)."
+[^7]: [마공 역사 전개 — 마공시 공소](https://www.mkcity.gov.tw/) — 원문: '다이쇼 9년(1920)에 지방 자치가 시행되면서 펑후는 군제로 바뀌었고, 마궁은 현재까지 사용되는 마공으로 개칭되었습니다. '마공' 두 글자는 일본인이 '마궁'을 줄여 쓴 것입니다.'
 
-[^8]: [World Wonders—Penghu's Basalt — Penghu County Cultural Bureau Online Teaching Material](https://basalt.phhcc.gov.tw/b/b03_01.asp) — Penghu County Cultural Bureau Basalt Topic Website, original text: "Approximately 17.4 to 8.2 million years ago, after several discontinuous eruptions, magma surged from surface fissures."
+[^8]: [세계적 경이 — 펑후의 현무암 — 펑후현 문화국 온라인 교재](https://basalt.phhcc.gov.tw/b/b03_01.asp) — 펑후현 문화국의 현무암 전문 웹사이트로, 원문: '약 1,740만 년~820만 년 전, 여러 차례 단속적인 분출을 거치며 지표면 균열에서 분출되었습니다.'
 
-[^9]: [Penghu Geology — Penghu County Government](https://www.penghu.gov.tw/ch/home.jsp?id=10009) — Original text: "The geology of the Penghu Islands is the result of Pliocene volcanic activity. Its composition, except for Huayu which is an andesitic igneous rock, is mostly basaltic igneous rock" official geology record.
+[^9]: [펑후 지질 — 펑후현 정부](https://www.penghu.gov.tw/ch/home.jsp?id=10009) — 원문: '펑후 군도의 지질은 신생대 화산 활동에 의한 것이며, 화호(花嶼)를 제외하고는 안산암질의 화성암 외에 대부분 현무암질의 화성암으로 구성되어 있습니다.'라는 공식 지질 기록입니다.
 
-[^10]: [Erkan Settlement — Penghu County Cultural Bureau](https://www.phhcc.gov.tw/) — Xiyu Township Erkan Chen Family Ancient House 1988 designated as Third-Class Historic Site (now County-Level Historic Site), Taiwan's first traditional settlement preservation area official record.
+[^10]: [얼칸 취락 — 펑후현 문화국](https://www.phhcc.gov.tw/) — 서수향 얼칸 진가 고택이 1988년에 3급 고적(현재는 현 지정 고적)으로 등록되었으며, 대만 최초의 전통 마을 보존 지구에 대한 공식 기록입니다.
 
-[^11]: [Penghu County Climate Characteristics — Central Weather Bureau](https://www.cwa.gov.tw/) — Penghu station average annual rainfall about 1,000 mm, less than half of the main island of Taiwan average; 10-3 month Northeast Monsoon lasts half a year climate characteristic record.
+[^11]: [펑후현 기후 특성 — 중앙기상청](https://www.cwa.gov.tw/) — 펑후 관측소의 연평균 강수량은 약 1,000mm로 대만 본토 평균의 절반 이하이며, 10월부터 3월까지 북동 계절풍이 반년간 지속되는 기후 특성 기록입니다.
 
-[^12]: [Penghu Vegetable Gardens — Wikipedia](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E8%9C%9C%E5%AE%85) — Original text: "Penghu's 'Vegetable Gardens,' also known as 'Zhai Nei,' are exquisite farmlands with stone walls built on all four sides to block the strong Northeast Monsoon, allowing delicate crops to grow smoothly in winter... The north wall is the highest, approximately 1.6 to 2.5 meters... Stone walls are usually built using local materials such as Langgu stone or basalt" complete architectural record.
+[^12]: [펑후 채택(菜宅) — 위키피디아](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E8%8F%9C%E5%AE%85) — 원문: '펑후의 '채택'은 '택내'라고도 불리며, 강한 북동 계절풍을 막기 위해 네 면이 돌로 쌓인 정교한 농지로, 겨울에도 연약한 작물이 순조롭게 자랄 수 있게 합니다. ...북쪽 벽이 가장 높으며 약 1.6미터에서 2.5미터에 달합니다...돌담은 보통 석회암이나 현무암 같은 현지 재료로 쌓아 올립니다.'라는 완전한 건축 기록입니다.
 
-[^13]: [Taiwan World Heritage Potential Sites: Penghu Stone Fishery Group — Ministry of Culture Cultural Assets Bureau](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13) — Original text: "There are fewer than 600 stone fisheries in the world; Penghu County currently has more than 574 stone fisheries, of which at least 109 are around Jibei Island, making it the highest density in the world" official statistics.
+[^13]: [대만 세계유산 잠재력: 펑후 돌하우스 군집 — 문화부 문화자산국](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13) — 원문: '전 세계의 돌하우스는 600개 미만이 존재하는데, 펑후현에는 현재 574개 이상의 돌하우스가 있으며, 그중 지베이도 주변에만 최소 109개가 있어 세계적으로 밀도가 가장 높습니다.'라는 공식 통계입니다.
 
-[^14]: [Penghu Stone Fishery Culture — Penghu County Cultural Bureau](https://www.phhcc.gov.tw/) — Qing Kangxi 35th year (1696) _Taiwan Prefecture Gazetteer_ recorded Penghu stone fisheries, 1950s stone fishery catches accounted for nearly 80% of the county's total fishery output value historical record.
+[^14]: [펑후 돌하우스 문화 — 펑후현 문화국](https://www.phhcc.gov.tw/) — 청나라 강희 35년(1696)의 『대만부지』에는 펑후 돌하우스가 기록되어 있으며, 1950년대 돌하우스 어획량이 현 전체 총어획량의 약 80%를 차지했다는 역사적 기록입니다.
 
-[^15]: [Double-Heart Stone Fishery — Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC) — Qimei Township Donghu Village Dingxi north cliff face, 1937 rebuilt by Jibei master Ba Le Shi, 2006 Penghu County Government registered as cultural landscape complete record.
+[^15]: [쌍심 돌하우스 — 위키피디아](https://zh.wikipedia.org/wiki/%E9%9B%99%E5%BF%83%E7%9F%B3%E6%BB%AC) — 치메이향 동호촌 정상 북쪽 해안 절벽 아래에 위치하며, 1937년 지베이 장인 바레 장인이 재건하고 2006년에 펑후현 정부가 문화 경관으로 등록한 완전한 기록입니다.
 
-[^16]: [Penghu County History — Penghu County Government](https://www.penghu.gov.tw/ch/home.jsp?id=10160) — Original text: "Ming Xizong Tianqi 2nd year (1622 AD) July 1 morning Dutch commander Rijk van Goesteren led 12 ships, 1024 troops invaded Magong Harbor" complete Dutch invasion record.
+[^16]: [펑후현 역사 연혁 — 펑후현 정부](https://www.penghu.gov.tw/ch/home.jsp?id=10160) — 원문: '명희종 천계 2년(서기 1622년) 7월 1일 아침, 허하가 레이르 생이 지휘하는 함선 12척과 병력 1024명이 마궁항을 침입한'에 대한 완전한 네덜란드 침공 기록.
 
-[^17]: [Taiwan Dutch Rule Period — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%8D%B7%E8%98%AD%E7%B5%B1%E6%B2%BB%E6%99%82%E6%9C%9F) — Original text: "The Dutch and the Ming Dynasty reached an agreement, agreeing to destroy the fortress and batteries at Fengchuiwei and advance to Taiwan, which was not part of the Ming Dynasty's territory. The Ming Dynasty would not interfere with the Dutch occupation of Taiwan. On August 26, 1624, Dutch troops withdrew from Penghu and moved to Taiwan" official withdrawal date.
+[^17]: [대만 네덜란드 통치 시기 — 위키피디아](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%8D%B7%E8%98%AD%E7%B5%B1%E6%B2%BB%E6%99%82%E6%9C%9F) — 원문: '네덜란드인과 대명은 협정을 맺고 풍궤미의 요새와 포대를 파괴하는 데 동의했으며, 대명의 영토가 아닌 대만으로 진군했고, 대명 역시 네덜란드의 대만 점령에 간섭하지 않았다. 1624년 8월 26일, 네덜란드군은 펑후에서 철수하여 대만으로 향했다'는 공식 철수 날짜.
 
-[^18]: [Keelung Battle — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%9F%BA%E9%9A%86%E6%88%B0%E5%BD%B9) — 1884 Sino-French War Keelung Battle complete timeline, 1884 November broke out cholera and typhus, December 23 83 French soldiers died of illness, total 700+ casualties, Courbet arrived in Penghu in 1885.
+[^18]: [기륭 전투 — 위키피디아](https://zh.wikipedia.org/zh-tw/%E5%9F%BA%E9%9A%86%E6%88%B0%E5%BD%B9) — 1884년 중프 전쟁의 기륭 전투 전체 타임라인. 1884년 11월 콜레라와 장티푸스가 발생했고, 12월 23일에 프랑스군 83명이 사망했으며, 총 700여 명이 전사하여 1885년에 또다시 펑후에 고립됨.
 
-[^19]: [Amédée Courbet — English Wikipedia](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Courbet) — French Admiral Courbet March 29, 1885 led fleet to occupy Penghu, June 8 attended subordinate's funeral heatstroke, 11th died on Magong Harbor flagship _Bayard_ (cholera) military biography.
+[^19]: [아메데 쿠르베 — 영문 위키피디아](https://en.wikipedia.org/wiki/Am%C3%A9d%C3%A9e_Courbet) — 프랑스군 사령관 구바가 1885년 3월 29일에 함선으로 펑후를 점령하고, 6월 8일 부하의 장례식에서 일사병에 걸렸으며, 11일 마궁항의 기함 바야르호에서 사망한(콜레라) 군사 전기.
 
-[^20]: [Penghu County History — Penghu County Government](https://www.penghu.gov.tw/ch/home.jsp?id=10160) — Original text: "Guangxu 21st year (1895 AD) April 17 Li Hongzhang and Ito Hirobumi signed Treaty of Shimonoseki, formally ceding Taiwan and Penghu to Japan", Japanese troops March 23-25 occupied Penghu, March 26 established "Penghu Islands Administrative Office" with Rear Admiral Tanaka Tsunenao as first director military record.
+[^20]: [펑후현 역사 연혁 — 펑후현 정부](https://www.penghu.gov.tw/ch/home.jsp?id=10160) — 원문: '광서 21년(서기 1895년) 4월 17일, 이홍장과 이토 히로부미가 마관 조약을 체결하여 대만과 펑후를 일본에 정식으로 할양했다.' 해군 소장 다나카 츠네노가 군 지휘관으로 3월 23일부터 25일까지 펑후를 점령하고, 3월 26일에 '펑후 제도 행정청'을 설치한 군사 기록.
 
-[^21]: [Penghu Cross-Sea Bridge — Penghu National Scenic Area Management Office](https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=bcd530cb-32e6-4b7a-ae23-9c30a6877edd&Language=1028) — Original text: "Construction of Cross-Sea Bridge began in 1965, completed and opened in 1970" official engineering history record.
+[^21]: [펑후 해협 대교 — 펑후 국가경관구 관리소](https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=bcd530cb-32e6-4b7a-ae23-9c30a6877edd&Language=1028) — 원문: '1965년에 건설이 시작되었고, 1970년에 완공되어 개통되었다'는 공식 공사 역사 기록.
 
-[^22]: [Penghu Cross-Sea Bridge — Penghu National Scenic Area Management Office](https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=bcd530cb-32e6-4b7a-ae23-9c30a6877edd&Language=1028) — Second-generation Cross-Sea Bridge 1984 began widening, 1996 completed and opened engineering record, original text: "Penghu Cross-Sea Bridge total length 2,494 meters", two lanes, bridge deck width 13 meters.
+[^22]: [펑후 해협 대교 — 펑후 국가경관구 관리소](https://www.penghu-nsa.gov.tw/TravelInformationSceneryDetailC001200.aspx?Cond=bcd530cb-32e6-4b7a-ae23-9c30a6877edd&Language=1028) — 제2세대 해협 대교가 1984년에 확장되기 시작하여 1996년에 완공 및 개통된 공사 기록. 원문: '펑후 해협 대교의 전체 길이는 총 2,494미터'이며, 양방향 차선에 교량 폭은 13미터임.
 
-[^23]: [China Airlines Flight 611 Disaster — Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA611%E8%99%9F%E7%8F%AD%E6%A9%9F%E7%A9%BA%E9%9B%A3) — May 25, 2002 3:28 PM takeoff, 15 minutes later disintegrated at 34,900 feet altitude 23 nautical miles northeast of Magong, Penghu, 225 people perished, accident investigation pointed to 1980s tail scrape improper repair complete accident report.
+[^23]: [중화항공 611편 추락 사고 — 위키피디아](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA611%E8%99%9F%E7%8F%AD%E6%A9%9F%E7%A9%BA%E9%9B%A3) — 2002년 5월 25일 오후 3시 28분에 이륙하여 15분 후 펑후 마공 동쪽 해상 23해리 상공 34,900피트에서 기체가 분해되었고, 225명 전원 사망. 사고 조사는 1980년대 기체 꼬리 충돌 수리가 부적절했음을 가리키는 완전한 사고 보고서.
 
-[^24]: [Penghu Marine Fireworks Festival — Wikipedia](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E6%B5%B7%E4%B8%8A%E8%8A%B1%E7%81%AB%E7%AF%80) — Original text: "China Airlines, to compensate for the tourism impact this air disaster brought to Penghu, held the 'Ten Million Romance in the Chrysanthemum Island' event on the Lunar Qixi Festival that year. The following year (2003), the County Government held the first 2003 Penghu Marine Fireworks Festival again", 2019 22 sessions, tourist visits about 420,000, 2022 period tourism revenue over 322 million historical record.
+[^24]: [펑후 해상 불꽃놀이 축제 — 위키피디아](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E6%B5%B7%E4%B8%8A%E8%8A%B1%E7%81%AB%E7%AF%80) — 원문: '중화항공은 이번 추락 사고로 펑후에 미친 관광 충격을 보상하기 위해 해당 연도 음력 칠석에 '천만 풍정 재국도' 행사를 개최했다. 다음 해(2003년) 현 정부는 제1회 2003년 펑후 해상 불꽃놀이 축제를 다시 개최했다.' 2019년 22회, 관광객 약 42만 명, 2022년 기간 동안 관광 수입 3억 2,200만 위안을 넘긴 연도별 기록.
 
-[^25]: [After the Gambling Referendum, Penghu Youth's New Nostalgia — The Reporter](https://www.twreporter.org/a/penghu-gambling-referendum-tourism) — Original text: "Summer work, winter rest, is the common pattern of Penghu tourism operators", "Every other year, another homestay changes operators", "Penghu's tourist visits increased by 15% by 2011, two years after the 2009 anti-gambling referendum" three key quote complete sources.
+[^25]: [투표 후 국도의 청년들의 새로운 향수 — 기자](https://www.twreporter.org/a/penghu-gambling-referendum-tourism) — 원문: '여름에 일하고 겨울에 쉬는 것이 일반적인 펑후 관광업자의 유형이다', '매년 다른 민박을 운영한다', '펑후는 2009년 반대 투표 후 2년간 2011년까지 관광객 수가 15% 증가했다' 세 가지 핵심 인용문의 완전한 출처.
 
-[^26]: [Penghu County Total 90 Islands — Epoch Times](https://www.epochtimes.com/b5/5/12/16/n1156636.htm) — 2005 Penghu County Government commissioned National Kaohsiung University of Applied Sciences island census results, Magong City 7 + Huxi Township 10 + Baisha Township 37 + Xiyu Township 3 + Wang'an Township 32 + Qimei Township 1 = 90 islands specific distribution.
+[^26]: [펑후 현 경계 내 총 90개의 섬 — 대기원](https://www.epochtimes.com/b5/5/12/16/n1156636.htm) — 2005년 펑후현 정부가 국립 가오슝 응용과학대학에 의뢰한 섬 개수 조사 결과. 마공시 7개 + 후서향 10개 + 바이샤향 37개 + 시수향 3개 + 왕안향 32개 + 치메이향 1개 = 총 90개의 구체적인 분포.
 
-[^27]: [Penghu Island Distribution — Penghu National Scenic Area Management Office Children's Version](https://www.penghu-nsa.gov.tw/) — 19 inhabited islands complete list: Penghu Main Island, Tongpan Island, Hujing Island, Mudou Island, Jibei Island, Niao Island, Yuanbei Island, Baisha Island, Dacang Island, Zhongtun Island, Yuweng Island, Xiaomen Island, Jiangjun'ao Island, Wang'an Island, Huayu, Xishiping Island, Dongshiping Island, Dongji Island, Qimei Island.
+[^27]: [펑후 섬 분포 — 펑후 국가경관구 관리소 아동용판](https://www.penghu-nsa.gov.tw/) — 거주하는 섬 19곳의 전체 명단: 펑후 본섬, 통반도, 후정도, 목두도, 지베이도, 비조도, 위안베이도, 바이샤도, 다쿠안도, 중둔도, 어옹도, 샤오먼도, 장쥔아오도, 왕안도, 화도, 시수핑도, 동수핑도, 동지도, 치메이도.
 
-[^28]: [Penghu Southern Four Islands Dongji Island Little Shanghai — KKday Blog](https://www.kkday.com/zh-tw/blog/) — Original text: "Dongji Island is the largest island among the Southern Four Islands. At its peak, residents numbered over 3,000, known as the 'Little Shanghai.' Currently, only about 10-20 people live there" population change record.
+[^28]: [펑후 남방 4도 동지도의 작은 상하이 — KKday 블로그](https://www.kkday.com/zh-tw/blog/) — 원문: '동지도는 남방 4도 중 면적이 가장 큰 섬으로, 전성기에는 주민이 3천여 명이었으며 '작은 상하이'라고 불렸으나 현재는 약 10~20명만 거주한다'는 인구 변화 기록.
 
-[^29]: [Penghu Southern Four Islands National Park — Wikipedia](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E5%8D%97%E6%96%B9%E5%9B%9B%E5%B3%B6%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92) — Original text: "The Penghu Southern Four Islands National Park is the ninth National Park of the Republic of China, and also the second marine-type national park in Taiwan's history... Officially announced and implemented on June 8, 2014", sea area 35,473.33 hectares, land area 370.29 hectares, total area 35,843.62 hectares official record.
+[^29]: [펑후 남방 4도 국가공원 — 위키피디아](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E5%8D%97%E6%96%B9%E5%9B%9B%E5%B3%B6%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92) — 원문: '펑후 남방 4도 국가공원은 중화민국 제9번째 국가공원이자 대만 역사상 두 번째 해양형 국가공원이다. ... 2014년 6월 8일에 정식으로 공표 시행되었으며', 해역 면적 35,473.33 헥타르, 육지 면적 370.29 헥타르, 전체 면적 35,843.62 헥타르의 공식 기록.
 
-[^30]: [Xishiping Island Coral Ecology — Marine National Park Management Office](https://marine.cpami.gov.tw/) — Original text: "Xishiping Island has a coral coverage rate of over 50%, the highest among the Southern Four Islands, underwater can see large branches or table-shaped Acropora coral dense growth, extremely high conservation value" marine national park official record.
+[^30]: [시수핑도 산호 생태 — 해양국가공원관리소](https://marine.cpami.gov.tw/) — 원문: '시수핑도의 산호 피복률은 50% 이상으로 남방 4도 중 최고이며, 바다 밑에는 큰 분지형 또는 테이블형의 축생 산호가 밀집하여 자라고 있어 보존 가치가 매우 높다'는 해양 국가공원 공식 기록.
 
-[^31]: [Penghu County Population Statistics — Penghu County Government Civil Affairs Office](https://www.penghu.gov.tw/civil/) — End of 2023 registered population 108,000 (second to last in the country), 2020 census resident population about 82,000 (77% of registered population), aging index 194%, Magong City about 64,000, Qimei Township 3,937 official statistics.
+[^31]: [페농호현 인구 통계 - 페농호현정부 민정처](https://www.penghu.gov.tw/civil/) — 2023년 말 호적 인구 10만 8천 명(전국 2위), 2020년 인구 조사 상주 인구 약 8만 2천 명(호적 인구의 77%), 고령화 지수 194%, 마공시 약 6만 4천 명, 치메이향 3,937명의 공식 통계.
 
-[^32]: [Penghu Fisheries 20 Years Decline — CNA](https://www.cna.com.tw/news/ahel/202404200036.aspx) — April 20, 2024 report original text: "Fishery output has declined by 3/4 in the past 20 years, annual value changing from 4 billion NTD to 2 billion NTD", aquaculture fishery value 1.53 billion, nearshore coastal fishery 730 million structural transformation data.
+[^32]: [페농호 어업 20년 쇠퇴 - 중앙사](https://www.cna.com.tw/news/ahel/202404200036.aspx) — 2024년 4월 20일 보도 원문: '최근 20년간 어획량 3/4 감소, 연간 생산액 신대만 달러 4억에서 2억으로', 양식어업 생산액 15.3억, 근해 연안 어획 7.3억의 구조 변화 데이터.
 
-[^33]: [Wang'an Island Green Sea Turtle Spawning Habitat Protection Area — Penghu National Scenic Area](https://www.penghu-nsa.gov.tw/) — January 17, 1995 established, area 23.3 hectares, May-October each year spawning season, spawning female turtle numbers decreased from highest 19 to 2014 only 1, 2022 rebounded 3 laying 6 clutches, May 2024 first female turtle came ashore conservation status.
+[^33]: [왕안도 녹색바다거북 산란 서식지 보호구역 - 페농호 국가경관구역](https://www.penghu-nsa.gov.tw/) — 1995년 1월 17일 설립, 면적 23.3헥타르, 매년 5~10월이 산란기, 산란 암컷 거북 수는 최고 19마리에서 2014년 단 1마리로 감소했다가 2022년에 3마리가 6번 알을 낳았고 2024년 5월 첫 암컷이 상륙한 보존 현황.
 
-[^34]: [Penghu Gambling Referendum — Wikipedia](https://zh.wikipedia.org/wiki/2009%E5%B9%B4%E6%BE%8E%E6%B9%96%E5%8D%9A%E5%BD%A9%E5%85%AC%E6%8A%95) — September 26, 2009 first gambling referendum complete vote count: Agree 13,397 (43.56%), Disagree 17,359 (56.44%), valid votes 30,756 (99.04%), voter turnout 42.16%, opposition led by 3,962 votes election data.
+[^34]: [페농호 도박 주민투표 - 위키피디아](https://zh.wikipedia.org/wiki/2009%E5%B9%B4%E6%BE%8E%E6%B9%96%E5%8D%9A%E5%BD%A9%E5%85%AC%E6%8A%95) — 2009년 9월 26일 첫 번째 도박 주민투표 전체 투표 수: 찬성 13,397명(43.56%), 반대 17,359명(56.44%), 유효표 30,756명(99.04%), 투표율 42.16%, 반대가 3,962표 앞선 선거 자료.
 
-[^35]: [Shi Zhaohui Anti-Gambling Alliance Coordinator — Wikipedia 2009 Gambling Referendum Entry](https://zh.wikipedia.org/wiki/2009%E5%B9%B4%E6%BE%8E%E6%B9%96%E5%8D%9A%E5%BD%A9%E5%85%AC%E6%8A%95) — Original text: "The shrimp defeated the large consortium; the people of Penghu used their votes to save Penghu, and also save Taiwan" anti-gambling alliance coordinator Shi Zhaohui post-vote quote record.
+[^35]: [시 작혜 反도박 연맹 소집가 - 위키피디아 2009 도박 주민투표 항목](https://zh.wikipedia.org/wiki/2009%E5%B9%B4%E6%BE%8E%E6%B9%96%E5%8D%9A%E5%BD%A9%E5%85%AC%E6%8A%95) — 원문: '작은 물고기가 대기업을 이겼고, 페농호 주민들은 투표로 페농호를 구하고 대만도 구했다' 反도박 연맹 소집가 시 작혜의 개표 후 발언 기록.
 
-[^36]: [2016 Penghu Gambling Referendum — Wikipedia](https://zh.wikipedia.org/wiki/2016%E5%B9%B4%E6%BE%8E%E6%B9%96%E5%8D%9A%E5%BD%A9%E5%85%AC%E6%8A%95) — October 15, 2016 second gambling referendum complete vote count: Agree 6,210 (18.93%), Disagree 26,598 (81.07%), valid votes 32,808, support in each township below 31%, Baisha Township support 30.70% highest election data.
+[^36]: [2016년 페농호 도박 주민투표 - 위키피디아](https://zh.wikipedia.org/wiki/2016%E5%B9%B4%E6%BE%8E%E6%B9%96%E5%8D%9A%E5%BD%A9%E5%85%AC%E6%8A%95) — 2016년 10월 15일 두 번째 도박 주민투표 전체 투표 수: 찬성 6,210명(18.93%), 반대 26,598명(81.07%), 유효표 32,808명, 각 향시의 찬성률이 모두 31% 미만이었으며 바이샤향은 30.70%로 가장 높았던 선거 자료.
 
-[^37]: [Penghu Airport Service Staff Anti-Gambling Quote — The Reporter](https://www.twreporter.org/a/penghu-kinmen-district-of-gambling) — Original text: "Those are money games played by consortia; they provide no substantial help to us locally in Penghu" airport service staff interview record.
+[^37]: [페농호 공항 서비스직원 反도박 발언 - 기자](https://www.twreporter.org/a/penghu-kinmen-district-of-gambling) — 원문: '그것들은 모두 재벌들이 하는 돈놀이일 뿐, 우리 페농호 지역에는 실질적인 도움이 전혀 없다' 공항 서비스직원 인터뷰 기록.
 
-[^38]: [Penghu Local Specialty Industry Practitioner Anti-Gambling Quote — The Reporter](https://www.twreporter.org/a/penghu-kinmen-district-of-gambling) — Original text: "Casinos emphasize that eating, drinking, and entertainment are all in the casino; tourists coming to the casino are trapped by the casino's facilities and services; who else will come out to stroll on the streets? We simply cannot make money after setting up the casino" local specialty industry practitioner interview record.
+[^38]: [페농호 현지 특산물업자 反도박 발언 - 기자](https://www.twreporter.org/a/penghu-kinmen-district-of-gambling) — 원문: '카지노는 먹고 마시고 즐기는 모든 것이 카지노 안에 있다고 강조하지만, 카지노에 온 '손님'들은 카지노 시설과 서비스에 갇혀버려 길거리를 돌아다니며 장사할 수가 없으니 우리는 도박장 이후의 돈을 벌 수 없다' 현지 특산물업자 인터뷰 기록.
 
-[^39]: [Referendum Results Revealed Why Penghu People Firmly Opposed Gambling with 80% — Common Wealth Magazine](https://www.cw.com.tw/article/5078873) — Original text: "Pursuing deep tourism and environmentally friendly practices is the value they identify with" Penghu second-generation returnees core value record.
+[^39]: [주민투표 결과 공개, 왜 페농호 주민들은 80%에 달하는 비율로 단호하게 반대했는가 - 천하잡지](https://www.cw.com.tw/article/5078873) — 원문: '깊이 있는 관광과 친환경을 추구하는 것이 그들이 인정하는 가치' 페농호 2세대 귀향자의 핵심 가치 기록.
 
-[^40]: [Penghu Youth Front Liu Yiyang — The Reporter](https://www.twreporter.org/a/penghu-gambling-referendum-tourism) — Original text: "Actually, every Penghu child is looking for a way to go home" Penghu Youth Front member Liu Yiyang interview quote.
+[^40]: [페농호 청년진영 리우 이양 - 기자](https://www.twreporter.org/a/penghu-gambling-referendum-tourism) — 원문: '사실, 모든 페농호 아이들은 돌아갈 방법을 찾고 있다' 페농호 청년진영 멤버 리우 이양의 인터뷰 원문.
