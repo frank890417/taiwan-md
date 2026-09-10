@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T22:14:59.126Z",
+  "lastUpdated": "2026-09-10T22:13:52.071Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9156,
+      "commits": 9190,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -21,7 +21,7 @@
     },
     {
       "login": "idlccp1984",
-      "commits": 473,
+      "commits": 474,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
@@ -35,7 +35,7 @@
     },
     {
       "login": "tboydar",
-      "commits": 77,
+      "commits": 85,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
@@ -540,13 +540,6 @@
       "types": ["💻"]
     },
     {
-      "login": "ycku",
-      "name": "ycku",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20721473?v=4",
-      "profileUrl": "https://github.com/ycku",
-      "types": ["🖋️"]
-    },
-    {
       "login": "expectingshadowland-maker",
       "name": "expectingshadowland-maker",
       "avatarUrl": "https://avatars.githubusercontent.com/u/276374199?v=4",
@@ -643,6 +636,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6036508?v=4",
       "profileUrl": "https://github.com/x1001000",
       "types": ["💻", "🖋️"]
+    },
+    {
+      "login": "ycku",
+      "name": "ycku",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20721473?v=4",
+      "profileUrl": "https://github.com/ycku",
+      "types": ["🖋️"]
     },
     {
       "login": "simanglam",
@@ -816,7 +816,7 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 473,
+      "commits": 474,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
@@ -888,7 +888,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9156,
+      "commits": 9190,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -960,7 +960,7 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 77,
+      "commits": 85,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
@@ -1029,7 +1029,7 @@
       }
     }
   ],
-  "weeklyActive": 3,
+  "weeklyActive": 2,
   "monthlyActive": 9,
   "recentlyJoined": [
     {

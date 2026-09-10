@@ -1,99 +1,99 @@
 {
-  "total_zh": 9486,
-  "total_en": 905,
-  "coverage_en": 9.5,
+  "total_zh": 9605,
+  "total_en": 907,
+  "coverage_en": 9.4,
   "categories": {
-    "fr": {
-      "zh": 897,
-      "en": 0
-    },
-    "pt": {
-      "zh": 868,
-      "en": 0
-    },
-    "ru": {
-      "zh": 806,
-      "en": 0
-    },
     "ja": {
       "zh": 888,
       "en": 0
     },
-    "hi": {
-      "zh": 703,
-      "en": 0
-    },
     "vi": {
-      "zh": 844,
+      "zh": 883,
       "en": 0
-    },
-    "People": {
-      "zh": 290,
-      "en": 249
     },
     "Economy": {
       "zh": 77,
       "en": 66
     },
-    "History": {
-      "zh": 87,
-      "en": 54
-    },
-    "id": {
-      "zh": 638,
+    "ru": {
+      "zh": 808,
       "en": 0
     },
-    "es": {
-      "zh": 895,
+    "hi": {
+      "zh": 708,
       "en": 0
-    },
-    "Geography": {
-      "zh": 82,
-      "en": 66
-    },
-    "Music": {
-      "zh": 37,
-      "en": 37
     },
     "ko": {
       "zh": 899,
       "en": 0
     },
-    "ar": {
-      "zh": 775,
+    "es": {
+      "zh": 897,
       "en": 0
     },
+    "pt": {
+      "zh": 869,
+      "en": 0
+    },
+    "id": {
+      "zh": 667,
+      "en": 0
+    },
+    "fr": {
+      "zh": 898,
+      "en": 0
+    },
+    "ar": {
+      "zh": 778,
+      "en": 0
+    },
+    "People": {
+      "zh": 290,
+      "en": 250
+    },
+    "Geography": {
+      "zh": 82,
+      "en": 67
+    },
+    "Society": {
+      "zh": 116,
+      "en": 95
+    },
+    "History": {
+      "zh": 87,
+      "en": 54
+    },
+    "Technology": {
+      "zh": 68,
+      "en": 59
+    },
     "de": {
-      "zh": 152,
+      "zh": 189,
       "en": 0
     },
     "Culture": {
       "zh": 113,
       "en": 76
     },
-    "Nature": {
-      "zh": 41,
-      "en": 38
-    },
-    "Society": {
-      "zh": 116,
-      "en": 95
-    },
     "Lifestyle": {
       "zh": 46,
       "en": 32
+    },
+    "Music": {
+      "zh": 37,
+      "en": 37
+    },
+    "Art": {
+      "zh": 48,
+      "en": 44
     },
     "About": {
       "zh": 9,
       "en": 9
     },
-    "Technology": {
-      "zh": 68,
-      "en": 59
-    },
-    "Art": {
-      "zh": 48,
-      "en": 44
+    "Nature": {
+      "zh": 41,
+      "en": 38
     },
     "Food": {
       "zh": 89,
@@ -108,5 +108,5 @@
       "en": 2
     }
   },
-  "updated": "2026-09-10"
+  "updated": "2026-09-11"
 }

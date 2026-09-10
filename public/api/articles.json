@@ -4791,6 +4791,17 @@
     "path": "ja/Economy/delta-electronics-taiwan-power-giant.md"
   },
   {
+    "title": "台湾伝統芸術",
+    "description": "21世紀最大の文化産業の奇跡：年産額千億の霹靂布袋戯帝国、いかにして郷間の謝神小戯から世界を征服する文化的ソフトパワーへと変貌したか？",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/art/traditional-arts-of-taiwan",
+    "readingTime": 28,
+    "featured": true,
+    "date": "2026-03-24",
+    "path": "ja/Art/traditional-arts-of-taiwan.md"
+  },
+  {
     "title": "台湾先住民神話：洪水から創世までの口承叙事詩",
     "description": "台湾先住民の神話は、単なる古い物語ではなく、民族の記憶と文化継承の生きた化石であり、自然と共存する知恵と生命観を担っています。",
     "category": "ja",
@@ -5392,6 +5403,17 @@
     "featured": true,
     "date": "2026-03-22",
     "path": "ja/History/taiwan-military-dependents-villages-history.md"
+  },
+  {
+    "title": "台湾野球文化",
+    "description": "赤葉少年野球の伝説から中華職棒の涙と汗まで──野球が台湾の「国球」となった道のり",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/culture/taiwan-baseball-culture",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ja/Culture/taiwan-baseball-culture.md"
   },
   {
     "title": "台湾黒熊",
@@ -6225,17 +6247,6 @@
     "path": "ja/Culture/traditional-crafts-intangible-cultural-heritage.md"
   },
   {
-    "title": "台湾の伝統芸術",
-    "description": "21世紀最大の文化産業奇跡：年間売上高千億円規模の霹靂布袋戯帝国が、どのように田舎の神事用の小さな芝居から世界を征服する文化ソフトパワーへと成長したのか？",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/art/traditional-arts-of-taiwan",
-    "readingTime": 30,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "ja/Art/traditional-arts-of-taiwan.md"
-  },
-  {
     "title": "台湾の全世代共融旅行と生活文化：人情味が最強のバリアフリー設備になるとき",
     "description": "家族の視点から、台湾社会が人情味と共融施設を通じて、超高齢社会への道のりで「家族みんなで旅行する」という意味をどう再定義しているかを観察する。",
     "category": "ja",
@@ -6876,17 +6887,6 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Society/stray-animal-culture.md"
-  },
-  {
-    "title": "台湾の野球文化",
-    "description": "紅葉少棒の伝説から中華プロ野球の涙と汗へ――野球はいかにして台湾の「国球」となったのか",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/culture/taiwan-baseball-culture",
-    "readingTime": 23,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ja/Culture/taiwan-baseball-culture.md"
   },
   {
     "title": "台湾の鳥類窓衝突問題：見えない都市の殺し手",
@@ -20225,12 +20225,12 @@
     "path": "Society/婦女新知.md"
   },
   {
-    "title": "寄付の永久機関：FAB DAO と百岳計画の社会実験",
-    "description": "一人の離職医師が一枚の「圧線球国旗」を用いて、台湾の Web3 公益に全く新しい想像力を開いた経緯。FAB DAO と百岳計画が寄付の本質を再定義：収集即ち寄付、芸術即ち社会行動。",
+    "title": "寄付の永続的な原動力：FAB DAOと百岳プロジェクトによる社会実験",
+    "description": "退職した医師が、一枚の「圧線球国旗」を用いて台湾のWeb3公益に新たな想像力を開花させた経緯。FAB DAOと百岳プロジェクトは、寄付の本質を再定義しました。「収集することが寄付であり、芸術が社会的行動である」という概念です。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/art/fab-dao",
-    "readingTime": 19,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-24",
     "path": "ja/Art/fab-dao.md"
@@ -30762,6 +30762,17 @@
     "path": "vi/Culture/elder-greeting-images.md"
   },
   {
+    "title": "Anh em họ Hoàng: Sự thật và dịu dàng bị ép phơi bày đằng sau nhãn mác \"trong sáng\"",
+    "description": "Bắt đầu từ một video tổng thể năm 2017, anh em họ Hoàng đã nổi lên với hình ảnh \"trong sáng, tích cực\" trên YouTube. Tuy nhiên, một vụ báo chí buộc công khai vào năm 2020 đã buộc cặp anh em này phải tự bóc trần đời tư trước ống kính, nhưng cũng vô tình phác họa nên phản ứng tập thể dịu dàng nhất của xã hội Đài Loan đối với bình đẳng giới.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/huang-brothers-youtubers",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-06-01",
+    "path": "vi/People/huang-brothers-youtubers.md"
+  },
+  {
     "title": "Animação terceirizada de Taiwan",
     "description": "Taiwan foi um importante centro global de terceirização de animação, com a Wang Film Productions a produzir clássicos de Hollywood; no auge, a sua produção representava um terço do mercado mundial.",
     "category": "pt",
@@ -31693,6 +31704,17 @@
     "path": "vi/Society/encyclopedia-of-taiwan.md"
   },
   {
+    "title": "Bạch Tiên Dũng: 《Người Taipei》1971, đến phiên bản thanh xuân 《Mộc Đan Đình》 hai mươi năm lưu diễn",
+    "description": "Sinh năm 1937 tại Quế Lâm, Quảng Tây, con trai của Bạch Trùng Hy. Năm 1956 khoa Ngoại văn Đại học Đài Loan, cùng Vương Văn Hưng và những người khác sáng lập 《Văn học hiện đại》。Năm 1971 《Người Taipei》 14 truyện ngắn. Năm 1983 《Nghiệt tử》。Năm 2003 khởi động phiên bản thanh xuân 《Mộc Đan Đình》, tháng 4 năm 2004 công diễn lần đầu, năm 2024 đón nhận 20 năm. Năm 2003 nhận Giải thưởng Văn nghệ Quốc gia.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/pai-hsien-yung-literary-master",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/pai-hsien-yung-literary-master.md"
+  },
+  {
     "title": "Bagaimana Sebuah Artikel Lahir: Jalur Produksi Enah Tahap Taiwan.md yang Menangkal Insting Penulisan AI (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)",
     "description": "Setiap artikel Taiwan.md yang Anda baca, yang bernuansa, berlatar, dan dapat diverifikasi, di belakangnya ada 6 tahap, lebih dari 20 gerbang yang tidak boleh dilewati, dan sebuah redaksi AI yang tidak menulis naskah secara mandiri. Alasan tunggal keberadaan mesin ini adalah kesalahan-kesalahan yang paling sering dibuat oleh penulisan AI: mengurutkan fakta berdasarkan waktu begitu ditemukan, menghasilkan kalimat plastik tanpa informasi, menerjemahkan balik ringkasan bahasa Inggris menjadi kutipan palsu, dan terinfeksi kebiasaan buruk artikel lama yang dibaca. Artikel ini membongkar jalur produksi tersebut, dan artikel ini sendiri juga dihasilkan oleh jalur produksi tersebut.",
     "category": "id",
@@ -32069,6 +32091,17 @@
     "path": "vi/Food/rice-ball.md"
   },
   {
+    "title": "Bánh Mì Táo: Ảo Ảnh Hiện Đại Hóa Trên Đảo Không Có Táo",
+    "description": "Đây không chỉ là một chiếc bánh mì, mà còn là một thí nghiệm hiện đại hóa của Đài Loan thập niên 1960, được dệt nên từ bột mì, biểu tượng và sức sống kiên cường. Thiếu tá nghỉ hưu Lưu Triết Cơ đã biến lương khô quân sự vốn đơn điệu thành ký ức dân tộc vượt qua nhiều thế hệ bằng ẩn dụ xa xỉ \"quả táo\" và công nghệ sấy khô của Nhật Bản, hé lộ cách xã hội Đài Loan hậu chiến lấp đầy khoảng trống thực tế bằng các sản phẩm thay thế.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/food/taiwan-apple-bread",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-05-30",
+    "path": "vi/Food/taiwan-apple-bread.md"
+  },
+  {
     "title": "Bánh quan tài: từ cái tên chứa xui xẻo đến đặc sản lai Tây của Đài Nam",
     "description": "Vào cuối những năm 1940, khu chợ Sakali Pa ở Đài Nam xuất hiện một món ăn nhẹ tên là \"bảng gan gà\", bị dùi chọc tại vì hình dáng độc đáo với tên gọi \"bánh quan tài\". Công thức này do ông Hứa Lục Nhất sáng tạo, với bánh mì lạnh được chiên giòn bao bọc gan gà và nước sốt bơ. Không chỉ là thực phẩm dinh dưỡng quý báu trong thời kỳ thiếu vật chất sau chiến tranh, bánh quan tài còn từng được CNN đưa tin, trở thành lá cờ quốc tế của nền ẩm thực \"lai Tây\" của Đài Nam.",
     "category": "vi",
@@ -32346,6 +32379,17 @@
     "featured": false,
     "date": "2026-05-11",
     "path": "vi/People/hatta-yoichi.md"
+  },
+  {
+    "title": "Batas Antara Pendidikan dan Bahasa Pribumi Taiwan: Sekolah Dasar Terjaga, Sekolah Menengah Gagal Meneruskan",
+    "description": "Pada tahun 2012, guru Pargwan (Paiwan) dari SD Taiwu berhasil mengumpulkan lagu-lagu kuno melalui rekaman kakek-nenek untuk memenangkan penghargaan musik tradisional. Pada tahun 2017, UU Pengembangan Bahasa Pribumi menaikkan status bahasa suku menjadi bahasa nasional. Namun, setelah jenjang sekolah menengah, sistem ini runtuh: hanya ada 6 SMA pribumi di seluruh Taiwan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/taiwan-indigenous-education-and-language-revival",
+    "readingTime": 149,
+    "featured": true,
+    "date": "2026-04-11",
+    "path": "id/Society/taiwan-indigenous-education-and-language-revival.md"
   },
   {
     "title": "Bẹ lắm: Từ trái cây thánh thiện đến chất gây ung thư, một trái cây phản ánh lớp tầng và đất đai",
@@ -33864,6 +33908,17 @@
     "path": "vi/Nature/formosan-landlocked-salmon.md"
   },
   {
+    "title": "Cá voi và cá heo của Đài Loan",
+    "description": "Môi trường sống của một phần ba số loài cá voi, cá heo toàn cầu—Từ việc săn bắt truyền thống đến du lịch ngắm cá voi ngày nay, Đài Loan đã chuyển mình thành trung tâm nghiên cứu sinh thái biển như thế nào?",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/nature/cetaceans-of-taiwan",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/Nature/cetaceans-of-taiwan.md"
+  },
+  {
     "title": "Câbles sous-marins : visibles au sommet du bouclier de silicium, invisibles sous la ligne de vie",
     "description": "En février 2023, deux câbles sous-marins reliant le comté de Lianjiang (Matsu) à l'île principale de Taïwan se sont coupés à six jours d'intervalle[^1]. Le comté a plongé dans une « période sombre » numérique d'environ 50 jours. Li Wen, président du comité du Parti démocrate progressiste (DPP) du comté de Lianjiang, a décrit la situation : « Un simple message texte sur Line mettait 15 à 20 minutes à être transmis. » Quatre-vingt-dix-neuf pour cent du trafic réseau international de Taïwan repose sur 14 câbles enfouis au fond de la mer, et tous les câbles sous-marins internationaux convergent vers quatre stations d'atterrissage sur l'île principale. Les salles blanches de TSMC sont les images héroïques au sommet du bouclier de silicium ; les câbles sous-marins sont le récit d'ingénieur que personne ne photographie en dessous — ils peuvent déconnecter 23 millions de personnes du monde sans qu'un seul coup de feu ne soit tiré.",
     "category": "fr",
@@ -33906,6 +33961,17 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "vi/Culture/taiwan-variety-shows.md"
+  },
+  {
+    "title": "Các Công Viên Giải Trí Biến Mất: Từ \"Thiên Đường Số Một\" Đến Truyền Thuyết Ma Quái, Những Tuổi Thơ Bị Quy Hoạch Đô Thị Thu Giữ",
+    "description": "\"Đại Đồng Thủy Lạc Viên\", công viên chủ đề đầu tiên của toàn quốc mở cửa năm 1972, đã khởi xướng \"Thời đại Đại Lạc Viên\" kéo dài hai mươi năm tại Đài Loan. Từ sự thịnh hành do Trần Chiêu Bỉnh tự mình điều hành, đến những lời đồn về đường ray bị ngắt ở công viên Cardoli, sự biến mất tập thể của các công viên này không chỉ đơn thuần là do cơ sở vật chất cũ kỹ, mà còn là hình ảnh thu nhỏ của quá trình mở rộng đô thị và chuyển đổi ngành giải trí tại Đài Loan.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/history/taiwan-defunct-amusement-parks",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-06-01",
+    "path": "vi/History/taiwan-defunct-amusement-parks.md"
   },
   {
     "title": "Các dân tộc (Mân Nam, Khách Gia, người bản địa, người ngoại tỉnh, người nhập cư mới)",
@@ -34694,12 +34760,12 @@
     "path": "de/People/chang-yu-sheng-singer.md"
   },
   {
-    "title": "Changhua County: The Agricultural Giant That Beat Dupont but Can't Keep Its Young People",
-    "description": "In 1709, Shi Shibang channeled water from the Zhuoshui River to create Taiwan's first large-scale irrigation system — 211 years before Hatta Yoichi's Chianan Canal. In 1723, the first year of the Yongzheng era, the county was carved out from Zhuluo County, bounded by the Huwei River to the north and the Dajia River to the south — this was the origin of Changhua's establishment. In 1786, Lin Shuangwen's forces besieged Changhua city, but Lukang held. In 1788, the Qianlong Emperor ordered the construction of an official-funded Mazu temple (Xinzu Gong) in Lukang. In 1922, the Changhua Roundhouse opened. In 1986, Lukang residents drove out American firm Dupont — Taiwan's first environmental movement. In April 2026, Changhua County's population stood at 1,206,458, falling below the threshold for special municipality upgrade.",
+    "title": "Changhua County: The Agricultural Giant That Defeated DuPont But Cannot Retain Its Youth",
+    "description": "In 1709, Shi Shih-bang diverted the Luochuan River to irrigate over 19,000 hectares, predating the Jianan Dazhen by 211 years. Established in 1723 after being carved out of Zhulu County, Changhua's history includes the Lin Shuangwen incident (where Lukang was spared), the construction of the Mazu temple in 1788, the activation of the Fanxing Roundhouse in 1922, and the first environmental movement against DuPont in 1986. As of April 2026, Changhua's population is 1.206 million, falling short of the threshold for becoming a direct-level municipality (1.25 million).",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/geography/changhua-county",
-    "readingTime": 165,
+    "readingTime": 167,
     "featured": false,
     "date": "2026-05-18",
     "path": "en/Geography/changhua-county.md"
@@ -34835,6 +34901,17 @@
     "featured": true,
     "date": "2026-04-14",
     "path": "vi/People/tzuyu.md"
+  },
+  {
+    "title": "Chế độ dân chủ: Từ dỡ bỏ luật quân sự năm 1987 đến Lai Thanh Đức năm 2024, tọa độ ba mươi bảy năm dân chủ của Đài Loan",
+    "description": "Đài Loan từ khi áp dụng luật quân sự năm 1949 bắt đầu 38 năm thống trị độc tài, ngày 15 tháng 7 năm 1987 dỡ bỏ luật quân sự, năm 1996 lần đầu tiên bầu tổng thống trực tiếp (Lý Đăng Huỳ), năm 2000 lần đầu tiên luân phiên đảng phái (Trần Thủy Biên). Ngày 17 tháng 5 năm 2019 trở thành khu vực đầu tiên tại Á hợp pháp hóa hôn nhân đồng tính. Ngày 13 tháng 1 năm 2024 Lai Thanh Đức với 40,05%, 5,58 triệu phiếu bầu trúng cử tổng thống nhiệm kỳ thứ 16, Đảng Dân tiến lần đầu tiên thắng ba lần liên tiếp; Quốc dân đảng giành lại vị trí đảng lớn nhất tại Viện Lập pháp (52 ghế), Đảng Dân tiến 51 ghế, Đảng Dân chúng 8 ghế, ba đảng đều không đạt quá bán.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/democratic-system",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "vi/Society/democratic-system.md"
   },
   {
     "title": "Che-Yu Wu: De la máquina de canicas a los muros blancos de Venecia, un relojero que se acerca al alma con 0 y 1",
@@ -35359,6 +35436,17 @@
     "path": "pt/Music/hsien-ching-chen.md"
   },
   {
+    "title": "Chen Jun-liang: Penerjemah Modern Estetika Timur dan Penyair Desain",
+    "description": "Chen Jun-liang, yang lahir di Tainan pada tahun 1958, mendirikan \"Freeimage Design\" pada usia 29 tahun dan dijuluki \"Penyair Desain\". Ia menafsirkan ulang bahasa desain modern melalui kaligrafi, ruang kosong (negative space), dan citra Timur. Karyanya mencakup penerbitan buku, identitas korporat, dan perayaan nasional. Pada tahun 2005, rangkaian peralatan makan \"Tian Yuan Di Fang\" memenangkan penghargaan juri di Pameran Desain Macau ke-6. Ia adalah salah satu desainer grafis paling berpengaruh di Taiwan pasca-1980-an.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/chen-chun-liang-design-poet",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "id/People/chen-chun-liang-design-poet.md"
+  },
+  {
     "title": "Chen Sheng: Dari Changhua, Album Perdana 1988, Tiga Puluh Tahun Konser Malam Tahun Baru Adalah Kartu Nama Jangannya",
     "description": "Lahir 29 Oktober 1958 di Hsi-chou, Kabupaten Changhua, Chen Sheng adalah penyanyi kreator paling berkarakter dalam musik independen Taiwan. Tahun 1988 merilis album perdana 《Surga yang Penuh Sesak》, sejak 1994 menggelar konser malam tahun baru berturut-turut, menjadi ritual tahunan malam terakhir industri musik Taiwan. Tahun 2020 pasca operasi kanker mulut kembali ke panggung, 2025 ke-31 \"Gelombang Besar\" tetap hadir.",
     "category": "id",
@@ -35403,23 +35491,23 @@
     "path": "id/People/steve-chen-youtube-cofounder.md"
   },
   {
-    "title": "Chen Shu-chu : une marchande de légumes de Taïdong qui a fait don de dizaines de millions accumulés en cinquante ans de petit commerce",
-    "description": "Une marchande de légumes de Taïdong qui a donné des dizaines de millions de dollars sur cinquante ans, et qui dit simplement : « Je ne suis qu'une vendeuse de légumes. »",
+    "title": "Chen Shu-chu : une vendeuse de légumes de Taidong, dont la vie caritative a généré des dizaines de millions en cinquante ans",
+    "description": "Une vendeuse de légumes de Taidong qui a donné des dizaines de millions avec l'argent de ses légumes pendant cinquante ans, mais qui se décrit comme « juste une vendeuse ».",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/chen-shu-chu-vegetable-vendor-philanthropist",
-    "readingTime": 38,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
   },
   {
-    "title": "Chen Shu-chu: A Taitung Vegetable Vendor's Charitable Life — Tens of Millions Donated From Fifty Years of Vegetable Money",
-    "description": "A vegetable vendor from Taitung who donated tens of millions over fifty years of vegetable sales — and still calls herself 'just a vegetable seller.'",
+    "title": "Chen Shu-chu: A Taitung Vegetable Vendor Who Donated Tens of Millions from Fifty Years of Market Earnings",
+    "description": "A Taitung vegetable vendor who donated tens of millions from fifty years of market earnings, yet said \"I''m just a vegetable seller\"",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/chen-shu-chu-vegetable-vendor-philanthropist",
-    "readingTime": 39,
+    "readingTime": 38,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
@@ -35522,6 +35610,17 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "pt/People/chen-shui-bian-controversial-president.md"
+  },
+  {
+    "title": "Chen Sư Tú: Một thương lượng thị trường ở Tây Đài, dành nửa thế kỷ cúng góp hàng triệu đồng cho từ thiện",
+    "description": "Một thương lượng thị trường ở Tây Đài, dành nửa thế kỷ cúng góp hàng triệu đồng, nhưng vẫn nói: \"Tôi chỉ là người bán rau thôi.\"",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/chen-shu-chu-vegetable-vendor-philanthropist",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
   },
   {
     "title": "Chen Tzu-chien (Retina) — Construindo um arranha-céu de sátira sobre as ruínas da mídia oficial e desmontando-o com as próprias mãos no auge",
@@ -35649,6 +35748,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/chen-yingzhen.md"
+  },
+  {
+    "title": "Chen Yingzhen: Dari Zhunan ke Peking, Seorang Sastrawan Pro-Indonesia yang Kontroversial",
+    "description": "Chen Yingzhen (1937–2016), nama asli Chen Yongshan, lahir di Zhunan, Miaoli, dan tumbuh di Yingge, Taipei. Pada 1964, karyanya \"Keluarga Jender\" mendapat pengakuan dengan kisah tragis seorang mantan prajurit dari Tiongkok darisana dan seorang gadis muda dari Taiwan. Pada 1968, ia ditangkap dalam kasus \"Ikatan Demokrasi Taiwan\" dan dihukum 10 tahun (dibiayai karena pengampunan pasca-meninggalnya Chiang Kai-shek pada 1975). Pada 1985, ia mendirikan majalah \"Manusia\" yang membuka jalan bagi sastra laporan Taiwan. Pada 1988, ia mendirikan \"Ikatan Persatuan China\" dan menjadi ketuanya pertama. Setelah menderita serangan saraf pada 2006, ia pindah ke Beijing dan meninggal di sana pada 2016. Ia adalah salah satu penulis pro-Indonesia paling kontroversial dalam sejarah sastra Taiwan pasca-perang.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/chen-yingzhen",
+    "readingTime": 73,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "id/People/chen-yingzhen.md"
   },
   {
     "title": "Chen Yingzhen: de Chu-nan a Pequim, a consciência literária da facção pró-unificação",
@@ -36782,6 +36892,17 @@
     "path": "en/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md"
   },
   {
+    "title": "Chimei Industrial: Kerajaan Akrilik Xu Wen-long dan Mimpi Museum",
+    "description": "Dari pabrik kecil Ren’de di Tainan pada 1960, Xu Wen-long menggunakan seumur hidupnya untuk membangun kerajaan material ABS terbesar di Asia, dan juga mendirikan Museum Chimei untuk memberi kembali kepada masyarakat. Hal ini membuktikan bahwa perusahaan Taiwan bisa mencapai kesuksesan komersial sekaligus memiliki kepedulian humaniter.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/economy/chimei-corporation-plastics-empire-and-museum-dreams",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "id/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md"
+  },
+  {
     "title": "China Motor Veryca: la camioneta de prosperidad que sostiene la economía de Taiwán",
     "description": "Desde la Varica, desarrollada de forma autónoma en 1988, hasta la Veryca, que dominó durante dos décadas el mercado de vehículos comerciales ligeros, ¿cómo localizó China Motor el Minicab japonés hasta convertirlo en el pilar económico más familiar de las calles y callejones de Taiwán?",
     "category": "es",
@@ -37199,6 +37320,17 @@
     "path": "fr/People/tzuyu.md"
   },
   {
+    "title": "Christentum in Taiwan: Vom „Augen- und Herz-Entnahmen“-Gerücht zur Erklärung einer neuen, unabhängigen Nation",
+    "description": "1865 eröffnete James Laidlaw Maxwell in Tainan eine Klinik am Weststrasse, die nur 23 Tage später aufgrund des „Augen- und Herz-Entnahmen“-Gerüchts schließen musste. Diese Geschichte von medizinischen Missverständnissen, 21.000 gezogenen Zähnen, Konflikten mit der japanischen Schreinveranstaltung und der US-Hilfe „Mehl-Evangelisation“ dokumentiert, wie Christentum von einer fremden „rote Barbaren“-Religion zur treibenden Kraft der taiwanesischen demokratischen Bewegung wurde.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/christianity-in-taiwan",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-04-29",
+    "path": "de/Culture/christianity-in-taiwan.md"
+  },
+  {
     "title": "Christianity in Taiwan: From 'Eye-Gouging' Rumors to a Declaration for a New and Independent Nation",
     "description": "In June 1865, Scottish doctor James Laidlaw Maxwell rented a house on Kansi Street in Tainan to open a clinic — and was forced to close after just 23 days when 'eye-gouging' rumors swept the city. This history — from medical misunderstanding and 21,000 pulled teeth, through conflicts with Japanese-era Shinto shrines, to the US-aid 'flour church' years — records how Christianity transformed from a foreign 'red barbarian' religion into a pivotal force behind Taiwan's own democratic movement.",
     "category": "en",
@@ -37232,17 +37364,6 @@
     "path": "pt/Music/chthonic.md"
   },
   {
-    "title": "Chthonic: Ban nhạc đưa lịch sử Đài Loan vào black metal",
-    "description": "Chthonic là ban nhạc heavy metal Đài Loan thành lập năm 1995 ở Đài Bắc, nổi tiếng với black metal, đàn hai huyền, tiếng Đài, thần thoại Đài Loan, kể chuyện linh hồn và những chấn thương lịch sử, đưa câu chuyện về nàng Lâm Đầu, sự kiện Võ Xã, sự kiện 228, đội quân Cao Bằng, Khủng bố Trắng và vấn đề chủ quyền Đài Loan lên sân khấu metal quốc tế. Đây không phải nền tảng cho sự nghiệp chính trị của Lâm Tường Triết trước khi ông vào chính trường, mà là một tập thể sáng tạo được các thành viên Freddy, Doris, Jesse, Dani, CJ cùng nhau duy trì.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/music/chthonic",
-    "readingTime": 112,
-    "featured": false,
-    "date": "2026-07-10",
-    "path": "vi/Music/chthonic.md"
-  },
-  {
     "title": "CHTHONIC: Band yang Menyanyikan Sejarah Taiwan dalam Musik Black Metal",
     "description": "CHTHONIC adalah band heavy metal Taiwan yang dibentuk pada tahun 1995, berpusat pada black metal, erhu, bahasa Taiwan (Taiwanese Hokkien), mitologi Taiwan, narasi roh jahat, trauma sejarah, dan isu kedaulatan Taiwan. Mereka membawa kisah Lin Toujie, Insiden Wenshe, Peristiwa Haiyang (228), Pasukan Sukarelawan Takasago, Teror Putih, dan isu kedaulatan Taiwan ke panggung metal internasional. Band ini bukan sekadar latar belakang politik sebelum Lin Changzu berpolitik, melainkan sebuah entitas kreatif yang dipertahankan oleh anggota seperti Freddy, Doris, Jesse, Dani, dan CJ.",
     "category": "id",
@@ -37274,6 +37395,17 @@
     "featured": false,
     "date": "2026-07-10",
     "path": "es/Music/chthonic.md"
+  },
+  {
+    "title": "CHTHONIC: Nhóm nhạc kéo lịch sử Đài Loan vào kim loại đen",
+    "description": "CHTHONIC là nhóm nhạc kim loại nặng thành lập tại Đài Bắc năm 1995, lấy đen kim loại, nhạc cụ dân gian, tiếng Hokkien, truyền thuyết Đài Loan và những vết thương lịch sử làm trọng tâm, đưa các vấn đề như sự kiện Tháng Hai 228, bạo loạn Thái Nguyên, quân đội Takasago, thời kỳ Kỷ nguyên Trắng và câu hỏi chủ quyền Đài Loan lên sân khấu quốc tế. Đây không chỉ là nền tảng nhạc trước khi Lin Chia-cheng (Freddy Lim) vào chính trị, mà là một thể thái sáng tạo do các thành viên Freddy, Doris, Jesse, Dani, CJ cùng xây dựng.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/music/chthonic",
+    "readingTime": 112,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "vi/Music/chthonic.md"
   },
   {
     "title": "CHTHONIC: The Band That Sings Taiwanese History into Black Metal",
@@ -37461,6 +37593,17 @@
     "path": "vi/Culture/bamboo-hat-craft.md"
   },
   {
+    "title": "Chu Thiên Văn: 1956 Đài Bắc, từ 《Tam Tam Tập Khán》 đến 《Bi Tình Thành Phố》 Giải Vàng Venice",
+    "description": "Sinh năm 1956 tại Đài Bắc, con trai của Chu Tây Ninh. Năm 1977 cùng Hồ Lan Thành và các bạn sáng lập 《Tam Tam Tập Khán》。Làm biên kịch thường xuyên cho Hầu Hiếu Hiền, tác phẩm đại diện 《Bi Tình Thành Phố》 giành Giải Vàng Venice năm 1989. Năm 1994 tiểu thuyết 《Hoang Nhân Thư Ký》 giành Giải Nhất Văn học Thời Báo. Các tác phẩm biên kịch bao gồm 《Hảo Nam Hảo Nữ》《Nam Quốc Tái Thấy Nam Quốc》。",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/chu-tien-wen",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/chu-tien-wen.md"
+  },
+  {
     "title": "Chu Tianwen: 1956 Taipei, de «San San Jikan» a «Ciudad Triste» León de Oro de Venecia",
     "description": "Nacida en 1956 en Taipei, hija de Zhu Xining. En 1977 cofundó «San San Jikan». Fue guionista habitual de Hou Hsiao-hsien, cuya obra representativa «Ciudad Triste» ganó el León de Oro en Venecia en 1989. En 1994 su novela «Crónicas del hombre salvaje» obtuvo el Primer Premio de la categoría de novela larga del Premio Literario del Times. Entre sus guiones destacan «Buenos hombres, buenas mujeres» y «Adiós al sur, adiós al sur».",
     "category": "es",
@@ -37539,6 +37682,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "de/People/chu-tien-wen.md"
+  },
+  {
+    "title": "Chu Tĩnh Vũ: Nghiên cứu thành công siêu dẫn 93K năm 1987, người phát hiện chung",
+    "description": "Sinh năm 1941 tại Hương Khê, là nhà vật lý người Mỹ gốc Đài Loan. Năm 1987, cùng với Lý Hoạt Khôn, phát hiện ra hợp chất YBCO có Tc bằng 93K, vượt qua ngưỡng nhiệt độ nitơ lỏng, khai mở kỷ nguyên siêu dẫn cao nhiệt độ. Từ 2001 đến 2009, giữ chức Hiệu trưởng Đại học Khoa học và Công nghệ Hồng Kông. Năm 2026, công bố kết quả Tc đạt 151K trên PNAS, vẫn đang nghiên cứu tích cực ở độ tuổi 85.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/chu-ching-wu",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/chu-ching-wu.md"
   },
   {
     "title": "Chu Tsung-ching",
@@ -37712,6 +37866,17 @@
     "path": "vi/Technology/digital-id-and-digital-government.md"
   },
   {
+    "title": "Chung Hwa (CMC) vành xe: Cỗ máy làm giàu nuôi dưỡng kinh tế Đài Loan",
+    "description": "Từ \"Varica\" tự nghiên cứu năm 1988 đến \"Lingli\" thống trị thị trường xe thương mại hai mươi năm, hãng xe Trung Hoa đã bản địa hóa chiếc Minicab của Nhật Bản và biến nó thành trụ cột kinh tế quen thuộc trên đường phố Đài Loan như thế nào?",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/economy/china-motor-veryca",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-06-01",
+    "path": "vi/Economy/china-motor-veryca.md"
+  },
+  {
     "title": "Chung Li-ho: 1915, o escritor que caiu no sangue derramado, de Bei-nong",
     "description": "Nascido em 15 de dezembro de 1915 na família Hakka de Bei-nong, em Kaohsiung. Em 1938, partiu para o Nordeste da China continental, retornando a Taiwan em 1946. Obras representativas: \"Fazenda Li Shan\" (longa), \"Homem Original\" (curta, escrita em 1959), \"Casal Pobre\". Conhecido como \"escritor que caiu no sangue derramado\", frequentemente homenageado como \"pai da literatura rural de Taiwan\" (o título é controverso; Lai Ching-te é reconhecido como pai da nova literatura de Taiwan). Faleceu em 4 de agosto de 1960, aos 44 anos, enquanto revisava manuscritos.",
     "category": "pt",
@@ -37732,6 +37897,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "id/People/zhong-lihe-nativeland-eternal-seeker.md"
+  },
+  {
+    "title": "Chung Lĩnh Hòa: Mỹ Nông 1915, người sĩ thực giấc mê ngã xuống vết máu",
+    "description": "Sinh năm 1915 tháng 12 ngày 15 tại gia đình Hakka của Mỹ Nông, Kaohsiung. Năm 1938 đi làm việc ở Đông Bắc Trung Quốc, năm 1946 trở lại Đài Loan. Tác phẩm đại diện: \"Nhà Nông Lãnh\" (truyện dài), \"Người Bản Địa\" (truyện ngắn, viết năm 1959), \"Cặp Vợ Chồng Nghèo Khó\". Được gọi là \"người sĩ thực giấc mê ngã xuống vết máu\", thường được vinh danh là \"cha của văn học miền quê Đài Loan\" (danh hiệu này gây tranh cãi). Ngày 4 tháng 8 năm 1960, chết vì hôn mê, 44 tuổi.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/zhong-lihe-nativeland-eternal-seeker",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/zhong-lihe-nativeland-eternal-seeker.md"
   },
   {
     "title": "Chuỗi cung cấp phần cứng AI: Nơi Đài Loan biến đám mây thành máy móc",
@@ -40491,6 +40667,17 @@
     "path": "vi/Art/taiwanese-curators-and-artistic-cultural-construction.md"
   },
   {
+    "title": "Đài Loan Cement: Huyền thoại chuyển đổi xanh của công ty niêm yết đầu tiên tại Đài Loan",
+    "description": "Ra đời cùng Sở Giao dịch Chứng khoán Đài Loan năm 1962, mã cổ phiếu 1101 là biểu tượng khởi nguồn của thị trường chứng khoán Đài Loan. Sau 76 năm được ba thế hệ gia tộc họ Cố điều hành, Đài Loan Cement đã chuyển đổi thành công thành doanh nghiệp xanh, mở ra con đường mới trong kỷ nguyên trung hòa carbon dưới áp lực giảm phát thải toàn cầu.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/economy/taiwan-cement-taipower-green-transformation",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "vi/Economy/taiwan-cement-taipower-green-transformation.md"
+  },
+  {
     "title": "Đài Loan chứng kiến \"Đám đại chef Hàn\" Netflix: 16 tháng, 7 ngành hàng tiếp xúc, đề án kiểm tra áp lực vị giác",
     "description": "Vào tháng 9/2024, khi Netflix phát sóng tập đầu tiên của \"Cooking Class Wars: Black vs White Chef\", chương trình đã nhanh chóng chiếm ngôi vị số 1 trong doanh số xem phiên bản không bằng tiếng Anh tại Đài Loan. Trong vòng 16 tháng, 9 đầu bếp Hàn trong chương trình đã mở rộng tác động đến 7 lĩnh vực tiêu dùng khác nhau như kênh bán lẻ, đồ uống nhanh, nhà hàng nhanh, buffet khách sạn 5 sao, nền tảng giao hàng, chuỗi nhà hàng Hàn, thậm chí cả Galaxy Z Fold7. Trong đó, thương hiệu \"Thập Tứ\" do Anh Tài Xíng (Kim Tae-star) tư vấn bị ngưng hoạt động vào ngày 26/12/2025, đánh dấu lần đầu tiên Đài Loan kiểm tra ngược lại tác động của chef Hàn trên sản phẩm tiêu dùng.",
     "category": "vi",
@@ -40890,6 +41077,17 @@
     "path": "vi/People/teresa-teng.md"
   },
   {
+    "title": "Đằng Vũ Diên: Nhà sáng lập bài ca Đài Loan — Ba mươi chín năm của \"Tứ phương tháng Tư\"",
+    "description": "Sinh năm 1906 ngày 21 tháng 7 tại vùng Hoa Giác (Đài Bắc), gia đình Hoa Giác tại Long Đoàn. Tên thật là Đằng Bình Diên. Tốt trường trường Bình Đẳng, năm 1933 được công ty Columbia thu âm thuê làm nhà soạn nhạc độc quyền. Bốn tác phẩm đại diện nổi tiếng \"Tứ phương tháng Tư\" (Tứ mùa hồng / Nguyệt đêm bi lụy / Chuyển gió xuân / Hoa đêm mưa) vẫn được người ta hát đến ngày nay. Năm 1939 dạy ở trường phổ thông Tương Lâm (Tân Châu), ngày 11 tháng 6 năm 1944 qua đời tại bệnh viện Đông Trù, tuổi 39.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/teng-yu-hsien",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/teng-yu-hsien.md"
+  },
+  {
     "title": "Danh sách mô-đun hình ảnh hoá: mười chín cách nhìn thấy dữ liệu Đài Loan",
     "description": "Ví dụ sống động của hệ thống mô-đun hình ảnh hoá bài viết Taiwan.md — sử dụng dữ liệu thực về nhà ở, dân số, chăm sóc y tế và quốc hội Đài Loan, mỗi mô-đun tw-* được render một lần, cùng với cú pháp và nguyên tắc thiết kế từ graph.md.",
     "category": "vi",
@@ -41044,6 +41242,17 @@
     "path": "id/People/nymphia-wind-drag-queen.md"
   },
   {
+    "title": "Das \"Göttliche Schwein\": Ein Jahrhundert des Ringen zwischen taiwanischem Glauben und Tierschutz",
+    "description": "Die Kultur des Göttlichen Schweins ist ein spezifisches rituelles Brauchtum der Min- und Hakka-Bevölkerung Taiwans, dessen Kern die Opferung riesiger Schweine an Gottheiten ist. Ursprünglich aus dem Volksglauben der Qing-Dynastie stammend, entwickelte es sich während der japanischen Kolonialzeit zu einem Wettbewerb; heute führt die Haltung in engen Ställen und das erzwungene Füttern zu Tierschutzdebatten. Lokale Feste wandeln sich hin zu \"ökologischen Göttlichen Schweinen\" oder nutzen Nudelprodukte, um ein Gleichgewicht zwischen Glauben und Lebenswürde zu finden.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/divine-pig-festival",
+    "readingTime": 62,
+    "featured": false,
+    "date": "2026-04-20",
+    "path": "de/Culture/divine-pig-festival.md"
+  },
+  {
     "title": "Das Stadtkronen-Tempel in Hsinchu: Zuerst kam der Gott, dann die Verwaltung",
     "description": "Der 1748 fertiggestellte Stadtkronen-Tempel in Hsinchu wurde der 1756 vollendeten Verwaltung in Tamsui voraus. Er bewahrt nicht nur ein historisches Gebäude, sondern legt Verwaltung, Fest, Handwerk und die städtische Erinnerung der Hsinchu-Einwohner in einem Tempel übereinander.",
     "category": "de",
@@ -41059,6 +41268,17 @@
     "featured": false,
     "date": "2026-08-24",
     "path": "de/Culture/hsinchu-city-god-temple.md"
+  },
+  {
+    "title": "Das System der Nationalen Landschaftsschutzgebiete in Taiwan",
+    "description": "Ein touristisch geprägtes Experiment unter dem Label „National“: Wie 13 Gebiete zwischen Naturschutz und Entwicklung balancieren",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/national-scenic-area-system",
+    "readingTime": 52,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "de/Geography/national-scenic-area-system.md"
   },
   {
     "title": "Đất nước vô hình: Một đạo diễn Mỹ bấm nút máy ảnh suốt bảy năm để quay một hòn đảo mà thế giới quyết định không nhìn thấy",
@@ -41166,6 +41386,17 @@
     "featured": false,
     "date": "2026-04-05",
     "path": "ar/Culture/dcard-taiwan-social-platform.md"
+  },
+  {
+    "title": "Dcard",
+    "description": "Ein in einem NTU-Wohnheim von einem Tainaner geschriebenes Portal, um leichter Freunde zu finden, wurde zur einflussreichsten Community-Plattform für Taiwans Jugend – und wächst weiter, während die Frage „Geht Dcard unter?“ immer wiederkehrt.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/dcard-taiwan-social-platform",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-04-05",
+    "path": "de/Culture/dcard-taiwan-social-platform.md"
   },
   {
     "title": "Dcard",
@@ -41576,6 +41807,28 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "fr/Technology/taiwan-5g-digital-transformation.md"
+  },
+  {
+    "title": "Der Austritt aus den Vereinten Nationen: Die 17 Minuten von 1971, in denen Taiwan von „China“ zum internationalen Waisenkind wurde",
+    "description": "Am 25. Oktober 1971 trat der taiwanesische Außenminister Chou Shou-kuai vom Podium der UN-Generalversammlung ab. Mit diesem Schritt verwandelte sich die Republik China von einem der Gründungsmitglieder der Vereinten Nationen in einen Beobachterstatus, der bis heute andauert. Fünfzig Jahre später ist diese Entscheidung, die als „die Chinesen können nicht zusammenexistieren“ bezeichnet wird, weiterhin umstritten – ein US-Gesetz von 2025 erinnert erneut daran, dass Resolution 2758 niemals die Vertretungsbefugnis Taiwans behandelt hat.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/withdrawal-from-united-nations",
+    "readingTime": 93,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "de/History/withdrawal-from-united-nations.md"
+  },
+  {
+    "title": "Der Rover-Vorfall: Ein Kampf, den 181 Männer nicht gewinnen konnten; Zhuo Qidu verhandelte ihn in 45 Minuten",
+    "description": "Im Jahr 1867 wurden 181 US-Soldaten im Dschungel der Hengchun-Halbinsel von den Paiwan angegriffen und zurückgedrängt, wobei ein Kommandeur starb. Drei Monate später schloss Zhuo Qidu mit dem US-Konsul Li Xiande einen Vertrag am Kap, der die Clans vor Ausrottung bewahrte. Die andere Partei, Li Xiande, wechselte sieben Jahre später zum japanischen Kaiserreich und half bei der Planung des Einsatzes von 1874.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/rover-incident-and-tauketok",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-04-27",
+    "path": "de/History/rover-incident-and-tauketok.md"
   },
   {
     "title": "Derechos humanos y igualdad de género",
@@ -42091,6 +42344,17 @@
     "path": "fr/Geography/taiwan-urban-development-and-rural-urban-divide.md"
   },
   {
+    "title": "Dì A ở quán ăn sáng và mạng lưới tình báo cộng đồng",
+    "description": "Tôi đã nghĩ dì ấy chỉ gọi người ta là \"trai đẹp\", bài viết này kể về cách một dì bán đồ ăn sáng trở thành trung tâm thông tin của cả khu phố.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "vi/Society/breakfast-shops-and-community-intelligence-network.md"
+  },
+  {
     "title": "Đi trên cảng đã được lấp: Năm món ăn đường phố của khu Trung Tây, Đài Nam",
     "description": "Dưới lòng phố Quốc Hoa và đường Hải An là di tích các dòng sông của Ngũ Điều Cảng thời Thanh; canh bò, cháo cá phụng, mì ý cá chình, bột khoai môn tim heo, thời gian, vị trí và nguyên liệu của mỗi món ăn nhỏ đều là hóa thạch do logic sinh tồn của công nhân bến cảng bốn trăm năm trước để lại.",
     "category": "vi",
@@ -42146,6 +42410,61 @@
     "path": "vi/Society/taipei-rat-problem.md"
   },
   {
+    "title": "Die 19 Kühe von Qingtengang: Vom Yuanxing-Rind zum Tainan Beef Soup – Ein Durchbruch der Fleischrinderhaltung auf einer Insel",
+    "description": "Taiwan hat nur eine Selbstversorgungsquote für Rindfleisch von 4,6 %, doch im Jahr 2024 wurde die erste privat zertifizierte lokale Rasse geboren. Die Geschichte des Yuanxing-Rindes ist ein industrieller Durchbruch, erzählt durch einen 94-jährigen Mann, 19 wilde schwarze Kühe und eine Schüssel morgendlicher Brühe.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/yuan-xing-cattle-beef-soup-history",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "de/History/yuan-xing-cattle-beef-soup-history.md"
+  },
+  {
+    "title": "Die Entwicklung des Taiwan-Chinesischen: Die geologische Schichtung einer Sprache über vierhundert Jahre",
+    "description": "Wie viele historische Epochen sind in einem Bento zu finden? Eine Reise durch die Sprachen, die auf dieser Insel natürlich gewachsen sind.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/taiwan-mandarin-evolution",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "de/Culture/taiwan-mandarin-evolution.md"
+  },
+  {
+    "title": "Die Geschichte der taiwanesischen Militärstätten (Jīndiàn)",
+    "description": "Von der einzelnen Einheit in Burma zum Bamboo-Village-Reich: Wie 1,2 Millionen Menschen eine große Migration und die Neudeﬁnition von ‚Zuhause‘",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/taiwan-military-dependents-villages-history",
+    "readingTime": 75,
+    "featured": true,
+    "date": "2026-03-22",
+    "path": "de/History/taiwan-military-dependents-villages-history.md"
+  },
+  {
+    "title": "Die Kaffee-Kultur Taiwans: Die Insel, die jährlich 600 Millionen Tassen verkauft",
+    "description": "Von der ersten Kaffeepflanze in den Kolonialzeiten bis zur modernen Stadtlandschaft mit Cafés alle fünfzig Meter: Der Geschmack von Taiwan ist mehr als nur Kaffee.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/food/taiwan-coffee-culture",
+    "readingTime": 60,
+    "featured": false,
+    "date": "2026-04-06",
+    "path": "de/Food/taiwan-coffee-culture.md"
+  },
+  {
+    "title": "Die Neunhimmlische Xuan Nü (Jiutian Xuannu): Von der Militärberaterin des Kaiser Huang bis zum Schutzgeist junger Menschen in Taiwan",
+    "description": "Ein Tempelgruppenleiter, der nach dem Abitur gedemütigt wurde, erlangte nach 11 Jahren einen Doktortitel, um zu beweisen, dass das Trommeln von Schulabbrechern auch Kunst sein kann. Hinter ihm steht eine Göttin, die vor vier Jahrtausenden Kaiser Huang beim Krieg lehrte.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/jiutian-xuannu-belief",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "de/Culture/jiutian-xuannu-belief.md"
+  },
+  {
     "title": "Die Pí-táng von Taoyuan: Wie ein Hügelwasserwerk Regenwasser in Lebensgrundlage umwandelt",
     "description": "Von den abgebrochenen Flüssen und der Rotbodenhochebene bis zu den großen Bewässerungssystemen von Taoyuan und dem Shimen-Stausee – dieser Artikel erklärt, wie die Pí-táng ein dezentrales Wasserspeichersystem wurden und wie sie sich zwischen moderner Bewässerung, Landumbau, Stadtentwicklung, Ökologie und lokaler Erinnerung kontinuierlich wandeln.",
     "category": "de",
@@ -42188,6 +42507,17 @@
     "featured": true,
     "date": "2026-04-11",
     "path": "de/Economy/taiwan-machine-tool-industry.md"
+  },
+  {
+    "title": "Die Wiederbelebung der indigenen Sprachen Taiwans",
+    "description": "Mit nur vier muttersprachlichen Sprechern verbleibt die thao-Sprache, doch Taiwan hat begonnen, eine der dichtesten Sprachwiederbelebungsinitiativen weltweit zu schaffen. Von der Sprachentwicklungsgesetzgebung von 2017 bis zu digitalen Plattformen beschleunigt sich eine stille Rettungsaktion.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/indigenous-language-revitalization-movement",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "de/Culture/indigenous-language-revitalization-movement.md"
   },
   {
     "title": "Die zwei Seiten der Shengli-Straße: Von der Panzerbataillon-Putschversuch bis zum „großen Parkplatz“ in Hukou",
@@ -42863,6 +43193,17 @@
     "path": "vi/People/tung-tzu-hsien-tech-humanist.md"
   },
   {
+    "title": "Động vật trong chương trình biểu diễn và đạo đức động vật",
+    "description": "Từ những chiếc lò cài sắt của voi đến bức tường san hô của Xpark — Đài Loan đang định nghĩa lại mối quan hệ giữa con người và những con vật bị trưng bày",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/zoo-and-exhibition-animal-ethics",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "vi/Society/zoo-and-exhibition-animal-ethics.md"
+  },
+  {
     "title": "Douli : près du collège de Longdu, ce couple tresse soixante ans de bambou makino dans un chapeau",
     "description": "En 2017, à Meinong, Kaohsiung, Lin Rongchun taillait encore des lamelles de bambou à plus de quatre-vingts ans ; en 2014, à Longqi, Tainan, la grand-mère Chen Lianqin, âgée de quatre-vingt-six ans, fabriquait un chapeau en une heure ; à Fuli, Hualien, Xu Guizhu ne vendait en 2016 un chapeau que 150 dollars taïwanais ; dans le documentaire Chuan, chuan de la Hakka Public Communication Foundation en 2022, Wu Jinyun et Xu Baomei, à Miaoli, en fabriquaient depuis cinquante ans. À l’apogée de Qionglin, Hsinchu, chaque foyer empilait du bambou makino ; à Hangzi, Luzhu, Taoyuan, trente foyers produisaient cent chapeaux par jour. Aujourd’hui, dans toute l’île, la plupart des maîtres capables de fabriquer des douli de gros œuvre ont plus de soixante-dix ans, et depuis que l’indemnisation pour l’interdiction d’abattage sur les terres réservées aux Autochtones a été portée en 2024 à 60 000 dollars taïwanais par hectare, même l’approvisionnement en bambou makino se rompt. Le douli n’a pas disparu des champs ; ce qui disparaît, ce sont les mains capables de glisser des feuilles de bambou dans une ossature de lamelles, puis de les fixer cercle après cercle avec du fil de coton.",
     "category": "fr",
@@ -43187,6 +43528,17 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "vi/Technology/hsuehshan-tunnel.md"
+  },
+  {
+    "title": "Dương Hữu Nhiệm",
+    "description": "Người sáng lập Hội Chăm Sóc Cơ Đốc Quốc Tế Cứu Mạng Bằng Giày Cũ, Top 10 Thanh Niên Xuất Sắc 2017, huy động gần mười vạn đôi giày cũ qua một tấm poster để hỗ trợ trẻ em Đông Phi",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/yang-you-ren-shoes-for-hope-taiwan-youth-hero",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "vi/People/yang-you-ren-shoes-for-hope-taiwan-youth-hero.md"
   },
   {
     "title": "Đường sắt Đài Loan Minh Nhật Hào: Từ thảm họa thẩm mỹ đường sắt đến điện đài năm sao di động",
@@ -44239,6 +44591,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Music/taiwan-campus-folk-song-movement.md"
+  },
+  {
+    "title": "El movimiento de mujeres en Taiwán: de una revista en la época de la ley marcial a la reescritura de las leyes familiares y escolares",
+    "description": "En 1971, Lü Hsiu-lien propuso el nuevo feminismo; en 1982, Lee Yuan-chen y otras fundaron la revista \"Conocimiento de la Mujer\"; en 1996, tras el asesinato de Peng Wan-ru, se organizaron marchas nocturnas. Todo ello condujo a la Ley de Educación en Igualdad de Género, la Ley de Prevención de la Violencia Doméstica y la Ley de Igualdad en el Trabajo. La historia del movimiento de mujeres en Taiwán no solo buscó cuotas femeninas, sino que transformó uno a uno los daños, cuidados y trabajos antes llamados \"asuntos domésticos\" en problemas públicos, dotando a las mujeres de un lenguaje institucional para denunciar en el trabajo, la familia y la escuela.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/history/taiwan-womens-movement",
+    "readingTime": 126,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "es/History/taiwan-womens-movement.md"
   },
   {
     "title": "El movimiento de revitalización de las lenguas indígenas de Taiwán",
@@ -46227,6 +46590,17 @@
     "path": "en/People/fang-hsu-chung.md"
   },
   {
+    "title": "Fang Hsu-chung: Sang \"Tukang\" Visual yang Mengubah Desa Militer di Pingtung menjadi Memori Taiwan",
+    "description": "Mengenal Fang Hsu-chung, pendiri Joe Fang Studio (究方社), yang lahir di New Village Donggang, Pingtung pada tahun 1978. Ia terlibat dalam desain visual utama untuk tiga penghargaan besar—Golden Melody, Golden Bell, dan Golden Horse—sejak 2016, dan telah tujuh kali masuk nominasi untuk Desain Sampul Terbaik Grammy.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/fang-hsu-chung",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "id/People/fang-hsu-chung.md"
+  },
+  {
     "title": "Fang-Yi Sheu : Yilan 1971, de la troupe Martha Graham à la chorégraphie de l'identité visuelle du Festival Golden Horse 2024",
     "description": "Née en 1971 à Yilan. Diplômée du département de danse de l'Université nationale des arts de Taipei, elle part aux États-Unis en 1995 et rejoint la Martha Graham Dance Company, dont elle devient danseuse principale en 1999. De retour à Taïwan en 2007, elle fonde LAFA (dissous en 2010). Documentaire *Salute* (2020). En 2024, elle conçoit la chorégraphie de l'identité visuelle du Festival Golden Horse. En 2025, elle accorde des entretiens sur le vieillissement du corps.",
     "category": "fr",
@@ -46749,6 +47123,17 @@
     "featured": false,
     "date": "2026-08-08",
     "path": "en/Food/formosa-chang.md"
+  },
+  {
+    "title": "Formosa: Bagaimana Orang Barat \"Menemukan\" Pulau yang Sudah Dihuni",
+    "description": "Pada tahun 1704, seorang Prancis yang belum pernah ke Asia berbicara di Royal Society London menggunakan sistem tulisan dan agama ciptaannya sendiri untuk meyakinkan para sarjana bahwa ia adalah \"penduduk asli Formosa\". Penipuan ini berlangsung selama sepuluh tahun. Namun masalah yang lebih besar adalah: ketika orang Eropa mengatakan telah \"menemukan Formosa\", suku Austronesia di pulau itu telah mendiami tempat itu selama enam ribu tahun. Narasi siapa yang \"menemukan\"?",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/history/formosa-historical-name",
+    "readingTime": 59,
+    "featured": true,
+    "date": "2026-04-12",
+    "path": "id/History/formosa-historical-name.md"
   },
   {
     "title": "Formosa: cómo los occidentales «descubrieron» una isla que ya estaba habitada",
@@ -47333,6 +47718,17 @@
     "featured": false,
     "date": "2026-03-29",
     "path": "id/Society/taiwan-slash-generation-multi-job-economy.md"
+  },
+  {
+    "title": "Generationen-Bilder: Die digitale Zärtlichkeit und das Informationskriegsfeld hinter der Lotusblume und dem Buddha",
+    "description": "Generationsbilder sind nicht nur ein Beweis dafür, wie ältere Menschen in Taiwan die digitale Kluft überwinden, sondern auch ein Träger emotionaler Interaktion auf sozialen Plattformen; ihre einzigartige Form ist jedoch auch Brutstätte für Falschinformationen und hat sich bei jungen Generationen zu einer spezifischen Meme-Kultur entwickelt.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/elder-greeting-images",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-04-18",
+    "path": "de/Culture/elder-greeting-images.md"
   },
   {
     "title": "Geografi dan Pembentukan Pulau Taiwan",
@@ -48368,6 +48764,17 @@
     "path": "en/Food/handmade-taiwanese-cuisine.md"
   },
   {
+    "title": "Handpuppenspiel: Vom Tempelvorplatz-Verbot bis zu \"Thunderbolt Fantasy\" – ein Universum in der Hand",
+    "description": "Am 2. März 1970 ließ Huang Junxiongs Shi Yanwen ganz Taiwans Fabriken stillstehen und Schüler die Schule schwänzen, was eine Einschaltquote von 97 % erzielte; vier Jahre später verbot die Regierung die Ausstrahlung mit der Begründung, sie störe den \"normalen Arbeitsrhythmus von Landwirten und Arbeitern\". Diese Handpuppenkunst, die in Taiwan kolonialer Unterdrückung, Fernsehverboten und der Videokassetten-Revolution trotzte, eröffnete schließlich mit \"Thunderbolt Fantasy\" den globalen Anime-Markt.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/taiwanese-glove-puppetry-budaixi",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "de/Culture/taiwanese-glove-puppetry-budaixi.md"
+  },
+  {
     "title": "Hatta Yoichi : de la légende hydraulique au « grand canal qui mord », l’empreinte coloniale d’un technocrate",
     "description": "Dans les années 1920, l’ingénieur japonais Hatta Yoichi construisit le réservoir de Wushantou et le grand canal de Jianan dans la plaine de Jianan, à Taïwan. Cet ouvrage de rang mondial apporta d’abondantes récoltes agricoles, mais, en raison de sa nature d’exploitation coloniale et du lourd fardeau imposé aux paysans, certains d’entre eux le qualifièrent de « grand canal qui mord ». Cet article examine en profondeur les mérites et les torts de Hatta Yoichi, la double face de sa philosophie de gestion, ainsi que l’empreinte complexe laissée par cette histoire dans la société taïwanaise.",
     "category": "fr",
@@ -48772,6 +49179,17 @@
     "featured": false,
     "date": "2026-03-29",
     "path": "es/People/henry-lee-forensic.md"
+  },
+  {
+    "title": "Henry Lee",
+    "description": "Membangun legenda forensik lewat sekeping tulang hancur, namun justru satu \"noda darah\" di handuk membuat dua orang menjalani 30 tahun penjara yang salah",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/henry-lee-forensic",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "id/People/henry-lee-forensic.md"
   },
   {
     "title": "Henry Lee",
@@ -50265,6 +50683,17 @@
     "path": "de/People/su-wei-hsieh-wimbledon-champion.md"
   },
   {
+    "title": "Hsieh Su-wei: Nhân sinh 1986 tại Hsinchu, nhà vô địch Grand Slam đầu tiên của Đài Loan và bảy tấm cúp vàng đôi nữ",
+    "description": "Sinh năm 1986 tại Hsinchu, cha là Hsieh Tzu-lung (tài xế xe buýt của Taiwan Bus, mất vào tháng 10 năm 2023). Thứ hạng cao nhất trên WTA đơn nữ là hạng 23 (2013). Bảy lần vô địch Grand Slam đôi nữ (2013 Wimbledon / 2014 French Open / 2019 Wimbledon / 2021 Wimbledon / 2023 French Open / 2023 Wimbledon / 2024 Australian Open). Năm 2021, Australian Open, lần đầu tiên một cầu thủ nữ Đài Loan vào tới bán kết Grand Slam đơn. Năm 2025 tháng 7, Wimbledon đôi nữ, á quân.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/su-wei-hsieh-wimbledon-champion",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/su-wei-hsieh-wimbledon-champion.md"
+  },
+  {
     "title": "Hsien Ching Chen: Tahun Ia Meraih 'Pendatang Baru Terbaik' di Golden Melody, Ia Telah Berkarya Selama Delapan Tahun",
     "description": "Lagu 〈Qingqing〉 telah melampaui empat juta penayangan tujuh tahun lalu, dan akun Instagram resmi Gucci muncul empat tahun sebelum album pertamanya. Saat ia dianugerahi Pendatang Baru Terbaik pada Golden Melody 37 di tahun 2026, ia berusia 27 tahun dan telah berkarya selama delapan tahun—dari mikrofon di komunitas musik mahasiswa hingga ''menjawab'' baris-baris penyair Xia Yu ke dalam rap, semuanya tanpa label rekaman. Oleh karena itu, protes \"tidak mengerti\" dari penonton malam itu bukanlah masalah artikulasi bicaranya, melainkan sebuah jalan yang belum terbiasa didengar. Yang baru bukanlah dirinya, melainkan jalan yang ia tempuh.",
     "category": "id",
@@ -50618,6 +51047,17 @@
     "path": "de/People/hsu-shu-ching-olympic-weightlifting-champion.md"
   },
   {
+    "title": "Hsu Shujing: Atlet Angkat Besi dari Lunbei, Taiwan, yang Meraih Dua Medali Emas Olimpiade Pertama di Kelas 53 kg",
+    "description": "Lahir pada 9 Mei 1991 di desa Lunbei, Kabupaten Yunlin, dalam keluarga Hakka dengan tinggi 159 cm. Ia meraih perak di Olimpiade London 2012 (219 kg), kemudian dikonfirmasi sebagai emas pada Desember 2020 setelah atlet pemenang medali emas dari Kazakhstan, Zhao Changling, gagal dalam uji doping. Pada Olimpiade Rio 2016, ia langsung meraih emas dengan total 212 kg. Ia adalah peraih dua medali emas Olimpiade pertama dari Taiwan. Pensiun pada 3 Juni 2018. Pada tahun 2019, ia menjalani skorsing tiga tahun karena tes doping tahun 2017 (tidak memengaruhi kedua medali emas Olimpiade).",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/hsu-shu-ching-olympic-weightlifting-champion",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "id/People/hsu-shu-ching-olympic-weightlifting-champion.md"
+  },
+  {
     "title": "Hsu Wen-lung: Tainan 1928, Chi Mei Corporation 1959 ao Fundador do Museu com a Maior Coleção de Violinos do Mundo",
     "description": "Nasceu em 25/2/1928 em Tainan, faleceu em 18/11/2023 (95 anos). Fundou a Chi Mei Corporation em 10/1959 (capital de 2 milhões). Adquiriu violinos sistematicamente a partir de 1990, totalizando 1.362 (maior coleção privada do mundo). O Chimei Museum abriu oficialmente em 1/1/2015 (Parque Metropolitano de Tainan). Apaixonado por violino, o Chimei Museum com entrada gratuita (política atual P0⚠️ verificar).",
     "category": "pt",
@@ -50792,6 +51232,35 @@
     "path": "ja/Economy/htc-android-pioneer-vr-transformation.md"
   },
   {
+    "title": "Hứa Phương Nghi: Giê Lan 1971, từ vũ công chính Đoàn nhảy Martha Graham đến vũ công thiết kế hình ảnh chính Liên hoan phim Kim Mã 2024",
+    "description": "Sinh năm 1971 tại Giê Lan. Tốt nghiệp hệ Nhảy Đại học Nghệ thuật Đài Bắc, năm 1995 sang Mỹ, gia nhập Đoàn nhảy Martha Graham, năm 1999 thăng cấp vũ công chính. Năm 2007 về Đài Loan thành lập LAFA (kết thúc 2010). Phim tài liệu \"Ta tâm ta hành\" (2020). Năm 2024 thiết kế vũ đạo hình ảnh chính cho Liên hoan phim Kim Mã. Năm 2025 nhận phỏng vấn bàn về vấn đề lão hóa cơ thể.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/fang-yi-sheu-body-storyteller",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/fang-yi-sheu-body-storyteller.md"
+  },
+  {
+    "title": "Hứa Thục Tĩnh: Lâm Bồ 1991, cầu thủ nâng 53kg đầu tiên của Đài Loan giành hai huy chương vàng Olympic",
+    "description": "Sinh ngày 9 tháng 5 năm 1991 tại huyện Lâm Bồ, tỉnh Đông Dương, gia đình Hoa Kiều, chiều cao 159cm. Năm 2012, Olympic London 53kg nữ, 219kg (96+123) huy chương bạc; sau đó do huy chương vàng của Zhao Changlin (Kazakhstan) không qua kiểm tra chất thải, tháng 12 năm 2020 chính thức thay thế làm huy chương vàng. Năm 2016, Olympic Rio 212kg (100+112) trực tiếp giành huy chương vàng. Đài Loan nữ cầu thủ nâng đầu tiên giành hai huy chương vàng Olympic. Ngày 3 tháng 6 năm 2018 chính thức giải nghệ. Năm 2019, do kiểm tra chất thải năm 2017 cấm thi đấu ba năm (không ảnh hưởng tới huy chương vàng Olympic).",
+    "category": "vi",
+    "tags": [
+      "Thể thao",
+      "Cử tạ",
+      "Olympic",
+      "Huy chương vàng",
+      "53kg",
+      "Đông Dương"
+    ],
+    "url": "https://taiwan.md/vi/people/hsu-shu-ching-olympic-weightlifting-champion",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/hsu-shu-ching-olympic-weightlifting-champion.md"
+  },
+  {
     "title": "Hứa Tử Hoa: Từ phản đối Tử Quang đến làn sóng bãi miễn lớn, mười năm của một mã hiệu công dân vô danh",
     "description": "「Hứa Tử Hoa」không phải tên thật, mà là một mã hiệu xuất hiện tại hai thời điểm quan trọng của xã hội công dân Đài Loan—năm 2015 với tư cách là một trong「bốn hiệp sĩ」ngăn chặn vụ mua lại công nghiệp bán dẫn Tử Quang của Trung Quốc, còn năm 2025 lại trở thành「tâm điểm nạp tiền」trong làn sóng bãi miễn lớn—không tiếp xúc một đồng xu nào, nhưng điều phối hơn hai mươi triệu đô la Đài tệ từ quyên góp công dân.",
     "category": "vi",
@@ -50812,6 +51281,17 @@
     "featured": false,
     "date": "2026-05-23",
     "path": "vi/People/cho-yun-hsu-bridging-historian.md"
+  },
+  {
+    "title": "Hứa Văn Long: Sinh năm 1928 tại Đài Nam, người sáng lập bảo tàng sở hữu số lượng đàn violin lớn nhất thế giới từ Công ty Qí Mỹ (Kemei) thành lập năm 1959",
+    "description": "Sinh ngày 25/02/1928 tại Đài Nam, qua đời ngày 18/11/2023 (95 tuổi). Thành lập Công ty Qí Mỹ với vốn 2 triệu tệ vào tháng 10/1959. Từ năm 1990 bắt đầu thu mua đàn violin, tổng cộng 1362 chiếc (số lượng cá nhân lớn nhất thế giới). Bảo tàng Qí Mỹ chính thức khai trương ngày 01/01/2015 tại Công viên Đô thị Đài Nam. Ban đầu tuyên bố miễn phí tham quan (chính sách hiện hành P0⚠️ cần xác nhận theo thông báo mới nhất).",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/xu-wen-long-chimei-founder-violin-entrepreneur",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/xu-wen-long-chimei-founder-violin-entrepreneur.md"
   },
   {
     "title": "Hualien : les Sakizaya, invisibles pendant 129 ans, le Taroko, reconquis par la reconnaissance officielle, mais éloigné à nouveau par le 0403",
@@ -52497,6 +52977,17 @@
     "path": "id/Nature/bird-window-collision-taiwan.md"
   },
   {
+    "title": "Jade Mountain: Vom \"neuen Hochgebirge\" zum höchsten Punkt der taiwanesischen Seele",
+    "description": "1897 benannte ein japanischer Besiedler die Bergspitze „Neues Hochgebirge“ (Niitakayama), ein Symbol für das imperialistische Bestreben, Fuji zu übertreffen. Ein Jahrhundert später ist Jade Mountain (Yushan) weiterhin der höchste Berg Taiwans – von heiligem Schutzraum für indigene Völter, über koloniale Karten, bis hin zu einem umstrittenen Pilgerort und einem Prüfstein für Umweltethik.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/yushan-jade-mountain",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-04-27",
+    "path": "de/Geography/yushan-jade-mountain.md"
+  },
+  {
     "title": "Jam Hsiao",
     "description": "De retador invicto a Rey de la Melodía Dorada: la voz taiwanesa que creó la leyenda del 'Dios de la Lluvia'",
     "category": "es",
@@ -54027,6 +54518,17 @@
     "path": "en/Geography/kaohsiung-city.md"
   },
   {
+    "title": "Kartu Identitas Digital dan Pemerintahan Digital",
+    "description": "Satu kartu yang belum pernah dikeluarkan membutuhkan biaya ganti rugi sebesar 28 juta — kisah pemerintahan digital Taiwan adalah bukti bahwa kepercayaan jauh lebih sulit dibangun dibandingkan teknologi",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/technology/digital-id-and-digital-government",
+    "readingTime": 74,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "id/Technology/digital-id-and-digital-government.md"
+  },
+  {
     "title": "Kata Serapan Taiwan dan Fenomena Kontak Bahasa",
     "description": "Dari Bento hingga Video: Sejarah Kontak Bahasa di Pulau ini, Mengungkap Bagaimana Taiwan Menjadi Laboratorium Penggabungan Kata Serapan Terbaik di Dunia",
     "category": "id",
@@ -54207,6 +54709,17 @@
     "featured": false,
     "date": "2026-04-30",
     "path": "id/Nature/black-faced-spoonbill.md"
+  },
+  {
+    "title": "Kelompok Genggam Kerja (Jiaogong)",
+    "description": "Pada musim gugur 1998, Lin Sheng-xiang menutup rekening di Tamsui hanya dengan sisa 57 Yuan dan pulang ke Meinong, menulis lagu bersama penyair Chung Yung-feng untuk gerakan anti-bendungan. Dari tahun 1999 hingga 2003, Kelompok Genggam Kerja merekam perjuangan bertahan hidup pedesaan dalam globalisasi melalui perpaduan musik Hakka dengan rock modern—di mana *suona* (alat tiup) pertama kali menduduki pusat panggung rock Taiwan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/music/labor-exchange-band",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-04-27",
+    "path": "id/Music/labor-exchange-band.md"
   },
   {
     "title": "Kelompok Pingpu: Dari \"Formatifikasi Administratif\" hingga Kelahiran Kembali Abad ke-17 Suku Siraya",
@@ -54888,6 +55401,17 @@
     "path": "id/Society/taiwan-provincial-tensions.md"
   },
   {
+    "title": "Konflik Peradaban di Atas Papan Ketik: Seratus Tahun Evolusi Metode Input Teks Asia Timur",
+    "description": "Saat semua papan ketik di dunia terlihat sama, bagaimana peradaban berbeda memasukkan tulisan mereka ke dalam 26 huruf alfabet Latin? Dari Zhuyin Taiwan hingga Dubeolsik Korea, metode input adalah perang budaya diam yang tak terlihat.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/technology/east-asian-input-methods",
+    "readingTime": 63,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "id/Technology/east-asian-input-methods.md"
+  },
+  {
     "title": "Konservasi Kucing Batu Taiwan",
     "description": "Kurang dari 500 ekor kucing hantu tersisa di seluruh Taiwan — saat spesies kucing asli terakhir menghadapi keputusasaan",
     "category": "id",
@@ -55220,6 +55744,23 @@
     "path": "id/Culture/hsinchu-city-god-temple.md"
   },
   {
+    "title": "Kulturelle Landkarte der 16 indigenen Völker Taiwans",
+    "description": "Die Zahl „16“ ist nicht natürlich gewachsen, sondern das Ergebnis von Verhandlungen. Von den 210.000 Amis bis zu den 441 Angehörigen der Kanakanavu – die kulturelle Tiefe der indigenen Völker Taiwans geht weit über jede offizielle Namensliste hinaus.",
+    "category": "de",
+    "tags": [
+      "Indigene Völker",
+      "Kultur",
+      "Feste",
+      "Sprache",
+      "Zeitgenössische Kunst"
+    ],
+    "url": "https://taiwan.md/de/culture/indigenous-peoples-16-tribes-cultural-map",
+    "readingTime": 58,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "de/Culture/indigenous-peoples-16-tribes-cultural-map.md"
+  },
+  {
     "title": "Kuo Cheng-kuang",
     "description": "He is a senior scientist at NASA's Johnson Space Center in Houston, specializing in what astronauts eat and drink — but in the records of his homeland Taiwan, he was once listed as a 'terrorist' on a government blacklist.",
     "category": "en",
@@ -55499,6 +56040,23 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "vi/Economy/economic-miracle.md"
+  },
+  {
+    "title": "Kỷ Trịnh: Vượt 10 kỷ lục thế giới, vẫn miệt mài đấu tranh cho danh xưng \"Đài Loan\" sau năm thập niên",
+    "description": "Sinh ngày 15 tháng 3 năm 1944 tại Tân Trúc, Kỷ Trịnh là vận động viên nữ xuất sắc nhất trong lịch sử điền kinh Đài Loan. Tại Thế vận hội Mexico 1968, bà giành huy chương đồng ở nội dung vượt rào 80m với thành tích 10 giây 51, đây là huy chương điền kinh Olympic nữ đầu tiên của Đài Loan; suốt sự nghiệp, bà đã lập 10 kỷ lục thế giới. Sau khi giải nghệ, bà dấn thân vào quảng bá chạy đường trường và vẫn tích cực tham gia phong trào đòi danh xưng \"Đài Loan\" cho đến tận tuổi ngoài tám mươi.",
+    "category": "vi",
+    "tags": [
+      "Thể thao",
+      "Điền kinh",
+      "Olympic",
+      "Vượt rào",
+      "Kỷ lục thế giới"
+    ],
+    "url": "https://taiwan.md/vi/people/chi-cheng-flying-antelope",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/chi-cheng-flying-antelope.md"
   },
   {
     "title": "L’Académie Kuma : une école de défense civile qui espère ne plus avoir à exister un jour",
@@ -58305,6 +58863,17 @@
     "path": "vi/People/lai-ho-father-of-taiwanese-literature.md"
   },
   {
+    "title": "Lai Shengchuan: Jembatan Teater Lintas Selat dari Workshop Pertunjukan dan Festival Teater Wuzhen",
+    "description": "Lai Shengchuan, lahir pada 25 Oktober 1954 di Washington D.C., memiliki latar belakang internasional yang kaya. Ia mendirikan Workshop Pertunjukan dan turut mendirikan Festival Teater Wuzhen, diakui oleh BBC sebagai \"penulis drama Tionghoa terkemuka saat ini.\"",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/stan-lai-theater-innovation-master",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "id/People/stan-lai-theater-innovation-master.md"
+  },
+  {
     "title": "Lại Thanh Đức",
     "description": "Từ nhà khoa học kinh tế nông nghiệp đến nhà lãnh hạo dân chủ đầu tiên trong thế giới người Hoa",
     "category": "vi",
@@ -58330,6 +58899,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "vi/People/lai-ching-te.md"
+  },
+  {
+    "title": "Lại Thanh Xuyên: Cầu nối sân khấu hai bờ eo biển của Đoàn kịch Biểu diễn và Liên hoan Sân khấu Ngư Trấn",
+    "description": "Lại Thanh Xuyên (sinh ngày 25/10/1954 tại Washington D.C., Hoa Kỳ, cha là Lại Gia Cầu), nhận bằng Tiến sĩ Nghệ thuật Kịch từ UC Berkeley năm 1983. Ông đồng sáng lập Đoàn kịch Biểu diễn vào năm 1984 và cùng các nghệ sĩ khác tạo ra vở 《Ám Luyến Đào Hoa Nguyên》 (Tình Yêu Bí Mật Ở Miền Đào Hoa) lần đầu công diễn năm 1986, với phiên bản điện ảnh được Lâm Thanh Hà đóng chính vào năm 1992. Ông hai lần nhận Giải Văn học Quốc gia lần thứ mười một vào năm 2007. Năm 2013/5, ông cùng Trần Hướng Hồng, Hoàng Lôi và Mạnh Kinh Huy đồng sáng lập Liên hoan Sân khấu Ngư Trấn, một trong những liên hoan kịch ngữ Hoa ngữ có ảnh hưởng nhất giữa hai bờ eo biển. Nhà hát Thượng tại Thượng Hải khai trương năm 2015. Ông được BBC ca ngợi là \"nhà viết kịch tiếng Trung xuất sắc nhất hiện nay\".",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/stan-lai-theater-innovation-master",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/stan-lai-theater-innovation-master.md"
   },
   {
     "title": "Lala Hsu : de soignante à reine des Golden Melody, celle qui a transformé un concours de chant en œuvre personnelle",
@@ -58429,6 +59009,17 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "vi/People/lin-liang-childrens-literature.md"
+  },
+  {
+    "title": "Lâm Nghĩa Hùng: Từ Nghị viên tỉnh Đài Loan đến Biểu tượng đạo đức của phong trào phản hạt nhân",
+    "description": "Lâm Nghĩa Hùng, sinh năm 1941 tại Nghi Lan, là luật sư tốt nghiệp Đại học Đài Loan. Ông được bầu làm nghị viên tỉnh vào năm 1977 và tham gia phong trào tạp chí *Bỉ Lệ Đảo*. Vụ án máu trong nhà Lâm xảy ra vào ngày 28/02/1980, mẹ ông và hai con gái sinh đôi bị sát hại, vụ án vẫn chưa được phá. Sau khi mãn hạn tù năm 1984, ông sang Hoa Kỳ học tại Trường Hành chính Công nhãn Đài (Harvard) và lấy bằng Thạc sĩ MPA vào năm 1987. Ngày 07/06/1998, ông trở thành Chủ tịch nhiệm kỳ thứ tám của Đảng Dân Tiến (người đầu tiên được bầu trực tiếp), và rời Đảng Dân Tiến vào ngày 24/01/2006. Năm 2014, ông đã thúc đẩy việc ngừng hoạt động và niêm phong nhà máy hạt nhân bằng hình thức nhịn ăn vô thời hạn. Ông sáng lập Quỹ Giáo dục Từ Lâm và là một trong những nhân vật có giá trị đạo đức nhất của phong trào dân chủ Đài Loan. Tính đến năm 2026, ông vẫn khỏe mạnh ở tuổi 84.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/lin-yi-hsiung-democracy-advocate-tragedy-survivor",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/lin-yi-hsiung-democracy-advocate-tragedy-survivor.md"
   },
   {
     "title": "Lâm Nghĩa Kiệt",
@@ -59535,6 +60126,17 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "fr/Culture/taiwan-church-news.md"
+  },
+  {
+    "title": "Le temple du Dieu de la Ville de Hsinchu : d'abord les divinités, puis l'administration, le centre urbain de Tchou-khiân",
+    "description": "Le temple du Dieu de la Ville de Hsinchu, achevé en 1748, précède la construction du bureau de la préfecture de Tamsui ; il ne se contente pas de préserver un monument historique, il superpose l'administration, les rites, l'artisanat et la mémoire urbaine des habitants de Hsinchu sur un même parvis.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/culture/hsinchu-city-god-temple",
+    "readingTime": 117,
+    "featured": false,
+    "date": "2026-08-24",
+    "path": "fr/Culture/hsinchu-city-god-temple.md"
   },
   {
     "title": "Le thé de Puchung à Mingjian : le « héros anonyme » qui soutient 80 % du marché taïwanais des boissons au thé à emporter",
@@ -61736,6 +62338,24 @@
     "path": "pt/People/lin-bai-li.md"
   },
   {
+    "title": "Lin Chang-tso: Dari Vokalis Chthonic ke Arena Parlemen, Orang yang Menyanyikan Sejarah Taiwan Menjadi Suara Publik",
+    "description": "Sebagai vokalis Chthonic Freddy, Lin Chang-tso menulis kejadian 228, teror putih, kejadian Musha, mitos Taiwan, dan metal bahasa Taiwan ke dalam memori publik, dan bersama rekan-rekannya mengubah Megaport Festival menjadi ruang budaya selatan; musik, kesadaran Taiwan, praktik budaya, politik kelembagaan, pengalaman hidup keluarga, dan peran publik pasca-jabatan saling terkait di dalam dirinya, membentuk jalur dari panggung menuju masyarakat, parlemen, dan panggung internasional.",
+    "category": "id",
+    "tags": [
+      "tokoh",
+      "musik",
+      "heavy metal",
+      "politik",
+      "gerakan sosial",
+      "Chthonic"
+    ],
+    "url": "https://taiwan.md/id/people/freddy-lim",
+    "readingTime": 113,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "id/People/freddy-lim.md"
+  },
+  {
     "title": "Lin Chi-er: From Taipei to Low Earth Orbit, the Taiwan-Born Physician Who Played Bagpipes in Space",
     "description": "Born in Taipei in 1973, Lin Chi-er (Kjell N. Lindgren) is the first NASA astronaut born in Taiwan. After graduating from the Air Force Academy, a misdiagnosis of asthma derailed his pilot training. Eleven years later, a retest overturned the diagnosis. He was selected as one of nine astronauts in NASA's 20th class from 3,565 applicants, and has spent a cumulative 312 days in orbit. In April 2026, he returned to Taiwan under the 'Freedom 250' banner and told the Presidential Office: 'My NASA astronaut career began in Taiwan.'",
     "category": "en",
@@ -62519,17 +63139,6 @@
     "path": "fr/Art/postwar-taiwanese-literature.md"
   },
   {
-    "title": "Little Tigers: Bought Melodies, Their Own Youth",
-    "description": "In 1988, a CTS talent show wanted three boys to sing and dance alongside the Kitten Team. What it found was an idol group that covered Japanese songs and modeled itself on Japan's Shonentai. From selling 200,000 copies in five days, to fans chasing them all the way from Taipei to Kaohsiung, to crossing the Strait in 1991: almost every part was imported, yet Taiwan remembers them as one of the sturdiest emblems of a generation's youth. The three bodies at the height of that fame later all crossed the Strait.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/music/little-tigers-taiwan-boy-band",
-    "readingTime": 132,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "en/Music/little-tigers-taiwan-boy-band.md"
-  },
-  {
     "title": "Little Tigers: Gekaufte Melodien, gefüllt mit eigenem Jugendtraum",
     "description": "Ein 1988 auf dem taiwanesischen Fernsehen entstandenes Casting-Format suchte drei junge Männer, die der Mädchengruppe „Little Cats“ Gesellschaft leisteten – und fand stattdessen eine Band, die japanische Songs coverte und sich an japanische Jugendstars orientierte. Von 200.000 verkauften Songs in fünf Tagen über die Fans, die die Band von Taipeh nach Kaohsiung verfolgten, bis hin zum ersten Konzert 1991 über die Taiwanstraße. Die meisten Teile waren importiert, doch Taiwan feierte sie als das robusteste Jugendgefühl – und die drei Sänger verließen später alle die Straße.",
     "category": "de",
@@ -62870,6 +63479,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "es/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
+  },
+  {
+    "title": "Los condimentos y sazonadores de Taiwán",
+    "description": "La salsa de soja, la salsa sriracha (sachajang), el dulce picante y el doubanjiang son aderezos característicos de Taiwán que forman la base del sabor único de la isla, reflejando una filosofía culinaria de fusión multicultural.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/food/taiwan-sauces-and-seasonings",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "es/Food/taiwan-sauces-and-seasonings.md"
   },
   {
     "title": "Los constructores de montañas: la apuesta del siglo — una epopeya taiwanesa de los semiconductores que tuvo que lijar una palabra de su título antes de poder pronunciarlo",
@@ -64197,6 +64817,17 @@
     "path": "vi/People/mavis-fan-singer.md"
   },
   {
+    "title": "Mavis Fan: Von der „kleinen Hexe“ des „Gesundheitslieds“ zur Leadsängerin von 100%, drei Jahrzehnte, in denen sie sich weigerte, von einer Ära definiert zu werden",
+    "description": "1996 wurde die 19-jährige Mavis Fan mit dem Lied „Gesundheitslied“ zur kleinen Hexe ganz Taiwans. 1998 rasierte sie sich den Kopf, veröffentlichte „Darling“ und verkündete, „ihre eigene Musik zu machen“; 2001 wechselte sie zum Jazz mit „Peerless Diva“; 2007 gründete sie die Band 100%. 2025, mit 48 Jahren, ist „The Passerby“ das erste neue Werk der Band nach 16 Jahren – drei Jahrzehnte, in denen sie Stück für Stück die „Träume abbauete, die andere ihr gegeben hatten“.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/mavis-fan-singer",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-04-20",
+    "path": "de/People/mavis-fan-singer.md"
+  },
+  {
     "title": "Máy dán màng nước: Từ một bát canh cải cứu cấp toàn cầu trà sữa có tay",
     "description": "Năm 1984, Dương Ích Phương hoàn thành nguyên mẫu máy dán miệng toàn cầu đầu tiên, năm 1985 thành lập Ích Phương. Chiếc máy được nắm nở từ 200 chiếc bàn ủi điện cháy trong phòng khách thí nghiệm, tích hợp bốn tham số từ cốc, màng keo, nhiệt độ và áp lực, kết thúc sự rò rỉ của thức uống mang đi, cũng hỗ trợ chuỗi cung ứng trà sữa có tay Đài Loan đi tới 35 quốc gia trên toàn cầu—một phát minh vô danh hỗ trợ ngành đồ uống hàng trăm tỷ.",
     "category": "vi",
@@ -64995,6 +65626,17 @@
     "path": "vi/Politics/political-donation-transparency.md"
   },
   {
+    "title": "Minh Hoa Viên: Đế chế Hát hí kịch dân gian của dòng họ Trần qua bốn thế hệ, sáng lập năm 1929 tại Đài Nam",
+    "description": "Được thành lập bởi Trần Minh Cát vào năm 1929 tại Đài Nam và chuyển đến Triều Châu, Bình Đông vào năm 1962. Thế hệ thứ hai Trần Thắng Phúc đã đưa kỹ thuật sân khấu hiện đại vào hát hí kịch dân gian, đưa loại hình này lên tầm sân khấu quốc gia. Tám đoàn con Thiên, Địa, Huyền, Hoàng, Nhật, Nguyệt, Tinh, Thần đã thực hiện chuyến lưu diễn lần thứ tư vở 《Tán Kịch》 trong năm 2024 để kỷ niệm 95 năm thành lập.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/ming-hua-yuan",
+    "readingTime": 44,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/ming-hua-yuan.md"
+  },
+  {
     "title": "Mini Taiwan Pulse — 台湾交通リアルタイム3D可視化",
     "description": "オープンデータを通じて台湾の鼓動を感じる――航空便の光跡が空を横切り、船舶が海面を行き交い、列車が軌道を駆け抜け、23のレイヤーがこの島の息吹をリアルタイムで表示します。",
     "category": "ja",
@@ -65037,6 +65679,17 @@
     "featured": false,
     "date": "2026-06-25",
     "path": "vi/resources/mini-taiwan-pulse.md"
+  },
+  {
+    "title": "Mini Taiwan Pulse — Visualisasi 3D Real-time Transportasi Taiwan",
+    "description": "Rasakan denyut nadi Taiwan melalui data terbuka—jejak penerbangan melintasi langit, kapal berlayar di permukaan laut, kereta melaju di rel; 23 lapisan menampilkan pernapasan pulau ini secara real-time.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/resources/mini-taiwan-pulse",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "id/resources/mini-taiwan-pulse.md"
   },
   {
     "title": "Mini Taiwan Pulse — Visualisation 3D en temps réel des transports à Taïwan",
@@ -65307,12 +65960,12 @@
     "path": "pt/Culture/taiwan-indigenous-mythology.md"
   },
   {
-    "title": "Mó Na·Lũ Đạo: Anh hùng chống Nhật được khắc lên tiền xu hai mươi ngàn, và thế giới không có Trung Quốc hay Nhật Bản",
-    "description": "Năm 2001, ngân hàng trung ương Đài Loan khắc mặt anh hùng chống Nhật Mó Na·Lũ Đạo lên tiền xu hai mươi ngàn. Nhưng nhà in tiền tìm khắp tài liệu trong nước vẫn không có ảnh của ông, rồi cuối cùng mới tìm thấy trong một tạp chí tiếng Nhật. Từ sáng hôm đó của đại hội thể dục năm 1930, cho đến một bộ xương được dùng làm mẫu vật nhân học suốt khoảng bốn mươi năm, ba chế độ lần lượt cần ông. Còn thế giới mà ông thực sự bảo vệ — cái thế giới có cầu vồng, vết henna trên mặt, và Gaya — chưa bao giờ có Trung Quốc, cũng chưa bao giờ có Nhật Bản.",
+    "title": "Mô Na Lũ Đường: Anh hùng kháng Nhật được đúc lên đồng xu 20 đồng, và thế giới không có Trung Quốc cũng không có Nhật Bản",
+    "description": "Năm 2001, Ngân hàng Trung ương Đài Loan đã đúc khuôn mặt của anh hùng kháng Nhật Mô Na Lũ Đường lên đồng xu 20 đồng. Tuy nhiên, nhà đúc tiền tệ không tìm thấy bất kỳ hình ảnh nào của ông trong toàn bộ tài liệu trong nước, cuối cùng đã tìm thấy trong một tạp chí tiếng Nhật. Từ sáng sớm của cuộc thi thể thao Wushe năm 1930, cho đến một thi thể đã trở thành mẫu vật dùng khoảng bốn mươi năm, ba thể chế pháp quyền mỗi người đều cần đến ông. Nhưng thế giới mà ông thực sự bảo vệ — nơ có cây cầu màu, xăm mình và Gaya — thì từ trước đến nay không bao giờ có Trung Quốc cũng không có Nhật Bản.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/people/mona-rudao",
-    "readingTime": 245,
+    "readingTime": 263,
     "featured": false,
     "date": "2026-03-25",
     "path": "vi/People/mona-rudao.md"
@@ -66814,6 +67467,17 @@
     "path": "en/Culture/national-theater-and-concert-hall.md"
   },
   {
+    "title": "Nationales Memorial der Republik China (Taiwan): Vom autoritären Heiligtum zum demokratischen Schauplatz",
+    "description": "Es ist das größte politische Wahrzeichen im Zentrum von Taipeh und ein lebendiger Ort des Tanzens. Von einem Tempel des Autoritarismus bis zu einem Tornado der Transformationsgerechtigkeit dokumentiert dieses Bauwerk die intensivsten Erschütterungen der taiwanischen Seele.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/history/chiang-kai-shek-memorial-hall",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-04-10",
+    "path": "de/History/chiang-kai-shek-memorial-hall.md"
+  },
+  {
     "title": "Natural History of Taiwan: A Dialogue of Life between Islands and the World",
     "description": "From Pleistocene land bridge migrations to the paper mulberry genes of Austronesian peoples, Taiwan is not only a biological refuge but also an evolutionary crossroads. Through the eyes of a naturalist, rediscover how this island engages in a dialogue of life with the world.",
     "category": "en",
@@ -67118,6 +67782,17 @@
     "path": "vi/Technology/taiwan-semiconductor-industry.md"
   },
   {
+    "title": "Ngành công nghiệp game và giải trí số của Đài Loan",
+    "description": "Từ các đại lý sớm đến các nhà phát triển gốc, Đài Loan đã tìm thấy tiếng nói riêng của mình trên thị trường game toàn cầu như thế nào",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/technology/taiwan-gaming-industry",
+    "readingTime": 44,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "vi/Technology/taiwan-gaming-industry.md"
+  },
+  {
     "title": "Ngành công nghiệp hình ảnh kỹ thuật số và hoạt hình của Đài Loan",
     "description": "Từ vương quốc hoạt hình gia công toàn cầu lớn nhất đến lực lượng nội dung gốc mới, con đường thay đổi nửa thế kỷ của ngành công nghiệp hình ảnh kỹ thuật số Đài Loan",
     "category": "vi",
@@ -67239,6 +67914,22 @@
     "path": "vi/Art/contemporary-indigenous-art-taiwan.md"
   },
   {
+    "title": "Nghệ thuật đương đại Đài Loan",
+    "description": "Từ viện bảo tàng Bắc Mỹ đến Triển lãm Thượng Hải kép Đài Loan, nghệ thuật đương đại Đài Loan chiếm vị trí độc đáo trên sân đấu toàn cầu",
+    "category": "vi",
+    "tags": [
+      "nghệ thuật",
+      "đương đại",
+      "văn hóa",
+      "bảo tàng"
+    ],
+    "url": "https://taiwan.md/vi/art/contemporary-art",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "vi/Art/contemporary-art.md"
+  },
+  {
     "title": "Nghệ thuật đường phố và văn hóa graffiti Đài Loan",
     "description": "Từ graffiti dưới lòng đất đến tranh vẽ hợp pháp, những bức tường thành phố trở thành sân khấu sáng tạo của các nghệ sĩ Đài Loan",
     "category": "vi",
@@ -67353,6 +68044,17 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "vi/Geography/yushan-jade-mountain.md"
+  },
+  {
+    "title": "Ngũ Bạch: Khởi hành từ thôn Toán Đầu, xã Lục Cước; Ba mươi năm rock Đài ngữ không giảm giá",
+    "description": "Tên thật là Ngô Tuấn Lâm, sinh năm 1968 tại làng Toán Đầu, xã Lục Cước, huyện Gia Nghĩa. Năm 1992 thành lập \"Ngũ Bạch & China Blue\", và album *Rừng Tây Ban Nha* (挪威的森林) đã xác lập con đường rock Đài ngữ vào năm 1995. Album *Hoa Đinh Ba* (釘子花) được phát hành năm 2016, và đạt giải Album Đài ngữ xuất sắc nhất tại Giải thưởng Kim Khúc năm 2017. Năm 2025 ra mắt album mới *Điểm Khởi Đầu Thuần Bạch* (純白的起點), tour diễn ROCK STAR 2 vượt qua hai bờ eo biển.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/wu-bai",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/wu-bai.md"
   },
   {
     "title": "Ngũ Vị: Hòn đảo trong hòn đảo, hòn đảo quân sự bị lãng quên và bóng danh chất thải hạt nhân",
@@ -67986,6 +68688,17 @@
     "path": "fr/Culture/taiwan-new-idol-generation.md"
   },
   {
+    "title": "Nova Taipei: A metrópole anelar que cerca Taipei, sustentada por 4,01 milhões de pessoas em deslocamentos, indústria e memória",
+    "description": "Desde que os espanhóis construíram o Forte Danshui com o primeiro tijolo em 1628, passaram-se 398 anos. Isso é 247 anos antes da fundação do governo de Taipei por Shen Baozhen em 1875. Hoje, os 29 distritos de Nova Taipei cercam os 12 distritos de Taipei, e 4,01 milhões de pessoas moram nesta cidade direta mais populosa de Taiwan; 390 mil pessoas se deslocam entre cidades para trabalhar em Taipei. Mas esta \"metrópole anelar\" não é apenas uma cidade dormitório de Taipei — ela tem a família Lin em Banqiao desde 1853, o chá Oolong enviado de Danshui para Nova York em 1869, Jingguashi (Mineração de Ouro) com sua mina de ouro asiática mais antiga na década de 1890, a Ferrovia Pingxi que transportava carvão em 1929 e os templos ancestrais de Sanxia, iniciados por Li Meishu em 1947, além da tribo Daya de Wulai. Nova Taipei é um microcosmo dos 400 anos de Taiwan, mas não está dentro do município de Taipei.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/geography/new-taipei-city",
+    "readingTime": 231,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "pt/Geography/new-taipei-city.md"
+  },
+  {
     "title": "Novela das oito: um fósforo, acendendo o cult e a nostalgia das salas taiwanesas",
     "description": "Dos melodramas de Qiong Yao nos anos 1990 aos memes de Pili Huo nos anos 2000, a novela das oito não é apenas ruído de fundo nas casas de Taiwan, mas um milagre industrial de \"grava hoje, exibe amanhã\" que respira em sincronia com a realidade.",
     "category": "pt",
@@ -68023,6 +68736,17 @@
     "featured": false,
     "date": "2026-04-26",
     "path": "vi/Nature/formosan-salamander.md"
+  },
+  {
+    "title": "Nửa thế kỷ viết về Đài Loan cho thế giới: Từ Tạp chí Quang Hoa đến Trang web trực tuyến Taiwan Panorama",
+    "description": "Từ khi ra mắt năm 1976, đổi tên và xuất bản đa ngôn ngữ, đến kho dữ liệu số và trang web đa ngôn ngữ, 《Taiwan Panorama》 đã liên tục giới thiệu Đài Loan với thế giới thông qua hình ảnh, bài báo và bản dịch, đồng thời lưu giữ tư liệu để chính người dân tự nhìn lại lịch sử của mình.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/culture/taiwan-panorama-magazine",
+    "readingTime": 96,
+    "featured": false,
+    "date": "2026-08-27",
+    "path": "vi/Culture/taiwan-panorama-magazine.md"
   },
   {
     "title": "Nuevo Taipei: La metrópolis anillada que rodea a Taipéi, con 4.01 millones de personas sosteniendo el transporte, la industria y la memoria de la capital",
@@ -68700,6 +69424,17 @@
     "path": "pt/Food/oyster-omelet.md"
   },
   {
+    "title": "Ông Wu Đại Chù: Người đề xuất Yang Chân Ninh và Lý Chính Đạo đi du học ở Mỹ, chủ chốt xây dựng khoa học tại Đài Loan trong mười một năm",
+    "description": "Nhà vật lý lý thuyết, hiệu trưởng Viện Nghiên cứu Trung Ương, nuôi dưỡng hai nhà khoa học được giải Nobel, là người sáng lập khoa học tại Đài Loan",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/tai-yu-wu",
+    "readingTime": 35,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "vi/People/tai-yu-wu.md"
+  },
+  {
     "title": "Ônibus de turismo: a caixa de ferro que leva os taiwaneses montanha acima e mar abaixo há sessenta anos — por que vive se acidentando?",
     "description": "Da cobradora de 14 anos da era japonesa Yu Liu Ju-lan (余劉菊蘭) ao Jinma (金馬號) de 1959 subindo a Transversal Central, dos \"ônibus pirata\" que dominavam as autoestradas nos anos 1980 ao tombamento da Die Lian Hua (蝶戀花) em Nangang com 33 mortos em 2017, até o incêndio na Autoestrada Nacional nº 1 e a queda no vale de Shanlinxi (杉林溪) em 2025, o ônibus de turismo carregou todos os sonhos de turismo, romarias e viagens escolares do pós-guerra de Taiwan. Mas o sistema de afiliação, a concorrência por pacotes baratos e as longas jornadas transformaram esta caixa de ferro num dos meios de transporte mais perigosos da ilha. A nova regra de identificação do motorista, em vigor desde o Ano-Novo de 2026, conseguirá romper este ciclo?",
     "category": "pt",
@@ -69048,6 +69783,17 @@
     "featured": false,
     "date": "2026-07-02",
     "path": "es/Food/pork-heart-vermicelli.md"
+  },
+  {
+    "title": "Paduan Suara Delapan Bagian: Fosil Hidup yang Menantang Pandangan Sejarah Musik Barat",
+    "description": "Pada 1943, sarjana musik Jepang Takemura Takatomo merekam Pasibutbut suku Bunun di pegunungan dalam Taitung. Sembilan tahun kemudian rekaman itu dikirim ke UNESCO, mengejutkan komunitas musikologi internasional—sebuah \"bangsa tanpa sistem tulisan\" menyanyikan paduan suara polifoni yang Barat yakini hanya dapat dihasilkan oleh peradaban tinggi.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/music/bunun-pasibutbut-eight-part-polyphony",
+    "readingTime": 29,
+    "featured": true,
+    "date": "2026-04-01",
+    "path": "id/Music/bunun-pasibutbut-eight-part-polyphony.md"
   },
   {
     "title": "Paduan Suara Taiwan: Dari Rongxing ke Lima Besar Asia dalam Satu Siklus 60 Tahun",
@@ -69478,6 +70224,17 @@
     "path": "en/Art/paper-windmill-theater.md"
   },
   {
+    "title": "Papierregenschirme: Vom Regenschirm zur Kunst – ein hundertjähriges Erbe der koreanischen Kultur in Taiwan",
+    "description": "In Kaohsiung Meinong trägt ein scheinbar gewöhnlicher Papierregenschirm nicht nur die segensreichen Wünsche der koreanischen Gemeinschaft wie „früh ein Kind bekommen“ und „Vollkommenheit“, sondern hat inmitten eines Industriezusammenbruchs dank der Entschlossenheit des Handwerkers Lin Hsiung-lin und der Berichterstattung des Magazins „Hansen“ aus dem Alltag als Regenschirm in ein international beachtetes Kunstwerk verwandelt, die Geschichte der taiwanesischen traditionellen Handwerkskunst, die sich im Widderholen und in der modernen Gesellschaft neu positioniert.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/taiwan-paper-umbrella",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "de/Culture/taiwan-paper-umbrella.md"
+  },
+  {
     "title": "Para onde foi a aula de moral de Taiwan: uma disciplina cancelada e vinte anos sem ninguém assumir a responsabilidade",
     "description": "Antes de 1993, todos os alunos do ensino fundamental em Taiwan tinham aulas semanais de 'Moral e Saúde', e todos os alunos do ensino médio inferior tinham aulas semanais de 'Cidadania e Moral'. O Currículo Integrado de Nove Anos cancelou essas duas disciplinas, 'integrando' a moral em sete áreas de aprendizagem. O resultado: em quase 60 páginas de diretrizes curriculares da área de Estudos Sociais, a palavra 'moral' mal aparece; 78% dos professores dizem que a educação moral é o que mais precisa ser fortalecido, mas nenhum professor de nenhuma disciplina acha que é responsabilidade dele.",
     "category": "pt",
@@ -69850,24 +70607,6 @@
     "path": "es/Nature/national-parks.md"
   },
   {
-    "title": "Pasibutbut: Fosil Hidup yang Menantang Pandangan Sejarah Musik Barat",
-    "description": "Pada 1943, musikolog Jepang Kurosawa Takatomo merekam Pasibutbut suku Bunun di pegunungan Taitung. Sembilan tahun kemudian rekaman itu sampai ke UNESCO dan mengguncang dunia musikologi internasional—sebuah \"bangsa tanpa aksara\" menyanyikan paduan suara polifonik yang menurut Barat hanya bisa lahir dari peradaban tingkat tinggi.",
-    "category": "id",
-    "tags": [
-      "Suku Bunun",
-      "Musik Pribumi",
-      "Masyarakat Pribumi",
-      "Nada Harmonik",
-      "Warisan Budaya Takbenda",
-      "Budaya Taiwan"
-    ],
-    "url": "https://taiwan.md/id/music/bunun-pasibutbut-eight-part-polyphony",
-    "readingTime": 32,
-    "featured": true,
-    "date": "2026-04-01",
-    "path": "id/Music/bunun-pasibutbut-eight-part-polyphony.md"
-  },
-  {
     "title": "Pastel de nata: do mosteiro de Macau à «febre colectiva» de Taiwan",
     "description": "A «revolta dos pastéis de nata» de 1998, que nasceu e morreu em poucos meses, não só definiu o comportamento de consumo «em enxame» da sociedade taiwanesa, como forçou o KFC em Taiwan a transformar-se na «loja de pastéis de nata que o frango frito acabou por ofuscar».",
     "category": "pt",
@@ -70127,6 +70866,17 @@
     "path": "id/Geography/administrative-divisions-of-taiwan.md"
   },
   {
+    "title": "Pembangunan Jaringan 5G Taiwan dan Transformasi Digital",
+    "description": "Taiwan dari 4G unggul ke 5G, menjelajahi strategi nasional transformasi digital dan proses pengembangan aplikasi cerdas",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/technology/taiwan-5g-digital-transformation",
+    "readingTime": 91,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "id/Technology/taiwan-5g-digital-transformation.md"
+  },
+  {
     "title": "Pemecatan Massal: Gelombang Pemecatan Terbesar dalam Sejarah Taiwan yang 33 Kasus Gagal Total, Mengukur Setiap Skala Demokrasi",
     "description": "Malam hari 26 Juli 2025, sepertiga wilayah pemilihan di seluruh Taiwan membuka suara secara bersamaan; 25 kasus pemecatan gagal total. Dari Aksi Burung Biru hingga klaim lebih dari 1,3 juta tanda tangan, tiga gelombang pemungutan suara dengan 33 kasus nol hasil. Gelombang pemecatan terbesar dalam sejarah Taiwan ini tidak memecat seorang pun, namun untuk pertama kalinya mengukur sekaligus energi mobilisasi demokrasi, ketinggian ambang batas, dan biaya polarisasi.",
     "category": "id",
@@ -70182,6 +70932,17 @@
     "path": "id/Society/taiwan-rural-education.md"
   },
   {
+    "title": "Pengembangan Industri Perangkat Lunak Taiwan",
+    "description": "Dari pemikiran manufaktur ke inovasi perangkat lunak, bagaimana Taiwan menemukan posisi baru di era pasca-hemisfer",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/technology/taiwan-software-industry-development",
+    "readingTime": 71,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "id/Technology/taiwan-software-industry-development.md"
+  },
+  {
     "title": "Pengenalan Rambut Taiwan: Dari Larangan Rambut ke Meme sebagai Skala Sosial",
     "description": "Dari regulasi rambut pendek Kementerian Pendidikan tahun 1969, hingga Du Zhengsheng pada 2005 dengan satu kalimat \"Apakah gaya rambut bisa mewakili apakah seseorang baik atau jahat?\" yang sepenuhnya membatalkan larangan rambut, kepala pria Taiwan memantulkan sebuah transisi sosial dari disiplin otoriter menuju ekspresi diri. Meme rambut A-zhi yang meledak populer belakangan ini, hanyalah bab terbaru dalam transisi tersebut.",
     "category": "id",
@@ -70193,26 +70954,15 @@
     "path": "id/Lifestyle/taiwan-hairstyles.md"
   },
   {
-    "title": "Penghu County: Twice Rejecting Casinos, the Chrysanthemum Islands Chose More Than Frugality",
-    "description": "On September 26, 2009, votes were counted in Magong: 17,359 opposed, and the casino side lost by 3,962 votes. Seven years later, in 2016, Penghu voted again: 81.07% opposed. An outlying island county with only 1,000 millimeters of annual rainfall, 108,000 registered residents but only 80,000 usual residents, held Taiwan's first local gambling referendum and then held another one. In the same stretch of sea, Shen Yourong forced the Dutch to withdraw in 1604; in 1622 the Dutch moved from Fengguiwei to Tainan; in 1885 the French commander Courbet died of illness in Makung Harbor. The 17.4-million-year-old basalt columns are still there: 89 islands are black volcanic rock, and one is older andesite. In winter, inside the stone walls of vegetable gardens, crops grow in the lee.",
+    "title": "Penghu County: Two Rejections of Casinos, Ju-dao's Choice is Not Poverty",
+    "description": "On September 26, 2009, Ma-gong voted, with 17,359 votes against and 3,962 in favor. Seven years later, another vote in 2016 resulted in 81.07% against. This island, which has an annual rainfall of only 1,000 millimeters, a registered population of 108,000 but only 80,000 residents, conducted the nation's first local gambling referendum, and then did it again. In the same waters, Shen Yu-rong forced the Dutch to retreat in 1604; the Dutch moved from Fengguiwei to Tainan in 1622; and the French commander Gu Ba died of illness at Mamiya Port in 1885. The basalt columns dating back 17.4 million years remain, with 89 islands made of black volcanic rock and one older andesite island. Crops grow against the wind in stone walls during winter.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/geography/penghu-county",
-    "readingTime": 179,
+    "readingTime": 170,
     "featured": false,
     "date": "2026-05-18",
     "path": "en/Geography/penghu-county.md"
-  },
-  {
-    "title": "Penghu County: Two Rejections of Casinos, the Chrysanthemum Island Chose Not Poverty",
-    "description": "On September 26, 2009, Ma announced the results: 17,359 votes against, the casino lost by 3,962 votes. Seven years later in 2016, they voted again, with 81.07% against. An island county with only 1,000 mm of annual rainfall, a registered population of 108,000 but only 80,000 residents, held the nation's first local gambling referendum, and then held it again. The same waters saw Shen Yourong repel the Dutch in 1604, the Dutch move from Fengchuiwei to Tainan in 1622, and French Admiral Courbet die of illness in Magong Harbor in 1885. The 17.4-million-year-old basalt columns remain; 89 islands are black volcanic rock, 1 is older andesite. In the winter vegetable garden stone walls, crops grow in the lee.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/geography/penghu-county",
-    "readingTime": 173,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "ko/Geography/penghu-county.md"
   },
   {
     "title": "Penghu: duas recusas ao cassino, a Ilha do Crisântemo escolheu não ser apenas pobre",
@@ -70303,12 +71053,12 @@
     "path": "fr/Culture/archipelago-thinking.md"
   },
   {
-    "title": "Penyanyi Kreasi Suku Asli Kontemporer",
-    "description": "Dari A-Mei hingga Suming, Sangpuy, bagaimana penyanyi suku asli Taiwan mewariskan jiwa kuno dalam musik modern, menciptakan lanskap musik suku asli kontemporer yang unik",
+    "title": "Penyanyi Kreatif Pribumi Kontemporer",
+    "description": "Lagu \"Ocean\" karya Chen Jiannian menggunakan bahasa Binis dan Mandarin, Suming menghubungkan kreasi dengan pendidikan budaya Dulan, sementara ABAO membawa bahasa Paiwan ke produksi pop kontemporer. Artikel ini membandingkan karya berbagai musisi dan titik dengar, serta mengacu pada penghargaan album, penyanyi, dan lagu di Penghargaan Golden Melody untuk memahami bagaimana bahasa suku, pengalaman hidup, dan teknik rekaman berinteraksi tanpa menggeneralisasi banyak kelompok etnis menjadi satu suara.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/music/contemporary-indigenous-singer-songwriters",
-    "readingTime": 81,
+    "readingTime": 97,
     "featured": true,
     "date": "2026-03-18",
     "path": "id/Music/contemporary-indigenous-singer-songwriters.md"
@@ -70334,6 +71084,17 @@
     "featured": false,
     "date": "2026-07-25",
     "path": "es/Lifestyle/xiaobei-department-store.md"
+  },
+  {
+    "title": "Perang Insinerator di Mingan: Ketika \"Utang Sampah\" 300 Ribu Ton Menghantam Garis Hidup Desa Teh Miliaran",
+    "description": "Penumpukan sampah di Kabupaten Nantou melampaui 310.000 ton pada akhir tahun 2024, memicu krisis \"pengepungan sampah\". Bupati Hsu Shu-hua berencana membangun insinerator dengan kapasitas 500 ton per hari di Desa Xinmin, Mingan, yang memicu protes dari lebih dari 250 akademisi. Ini adalah perang untuk mempertahankan keberlangsungan kawasan pertanian spesifik, habitat kura-kura mati (柴棺龜), dan rantai pasokan teh manual terbesar di Taiwan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/mingjian-incinerator",
+    "readingTime": 45,
+    "featured": false,
+    "date": "2026-04-25",
+    "path": "id/Society/mingjian-incinerator.md"
   },
   {
     "title": "Perang Kapur Barus Abad ke-19: Aroma yang Diinginkan Dunia, Tersembunyi di Gunung Orang Asli",
@@ -70692,6 +71453,17 @@
     "path": "id/Economy/evergreen-marine.md"
   },
   {
+    "title": "Perusahaan Taiwan: Fubon Financial Holding",
+    "description": "Dari 10 hingga 60.000 orang: Bagaimana saudara Tsai membangun kekaisaran keuangan terbesar di Taiwan selama 60 tahun",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/economy/taiwan-enterprise-fubon-financial",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "id/Economy/taiwan-enterprise-fubon-financial.md"
+  },
+  {
     "title": "Perusahaan Taiwan: Giant Manufacturing",
     "description": "Dari budak kontrak yang ditinggalkan oleh raksasa Amerika, menjadi kerajaan tersembunyi yang menetapkan standar teknologi sepeda global",
     "category": "id",
@@ -70761,6 +71533,17 @@
     "featured": true,
     "date": "2026-05-09",
     "path": "id/Economy/tsmc.md"
+  },
+  {
+    "title": "Pescadores: Dua Penolakan Kasino, Pulau Kecil Ini Bukan Pilihan Kemiskinan",
+    "description": "Pada 26 September 2009, Ma Gong mencalonkan pemilu dan ditolak oleh 17.359 suara, sementara kasino kalah dengan 3.962 suara. Tujuh tahun kemudian pada tahun 2016, mereka memilih lagi, dengan penolakan sebesar 81,07%. Sebuah pulau terpencil dengan curah hujan tahunan hanya 1.000 mm dan populasi penduduk tetap 80.000 dari 108.000 penduduk terdaftar, menyelenggarakan pemungutan suara kasino lokal pertama di tingkat nasional, dan kemudian melakukannya lagi. Di perairan yang sama, Shen Yourong mengusir orang Belanda pada tahun 1604, orang Belanda pindah dari Fengguiwei ke Tainan pada tahun 1622, dan komandan pasukan Prancis meninggal karena sakit pada Ma Gonggang pada tahun 1885. Pilar basal berusia 17,4 juta tahun masih ada, 89 pulau terbuat dari batuan vulkanik hitam, dan satu adalah andesit yang lebih tua. Di dinding batu rumah pertanian di musim dingin, tanaman tumbuh di sisi terlindung.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/geography/penghu-county",
+    "readingTime": 184,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "id/Geography/penghu-county.md"
   },
   {
     "title": "Pescadores' Folk Culture: The Rituals of Penghu Islands",
@@ -70989,6 +71772,22 @@
     "path": "vi/Geography/guling-street.md"
   },
   {
+    "title": "Phó Mẫn Nghiên: Vòng xoáy quyền lực từ \"Vua Hoa Lân\" ở hậu sơn đến \"Tổng Triệu\" tại Quốc hội",
+    "description": "Từ \"Tiểu Phó\" trùm thị trường chứng khoán thập niên 1990, đến việc bước vào Quốc hội năm 2001 và cai trị Hoa Lân năm 2009, Phó Mẫn Nghiên đã xây dựng nên một \"triều đại họ Phó\" kéo dài hai mươi năm ở hậu sơn, một thế lực mà ngay cả trung ương cũng khó lay chuyển. Từ vụ thao túng chứng khoán dẫn đến việc bị giam giữ trong khi vẫn công tác, cho đến việc giả ly hôn để bổ nhiệm vợ làm phó huyện trưởng, và sự trở lại Quốc hội năm 2024 với tư cách Tổng Triệu của Đảng Quốc dân Đồng Minh (Kuomintang) cùng đoàn thăm Trung Quốc, ông đã thể hiện sức sống và tính gây tranh cãi cực độ của giới chính trị Đài Loan.",
+    "category": "vi",
+    "tags": [
+      "Hoa Lân",
+      "nhân vật chính trị",
+      "Đảng Quốc dân Đồng Minh",
+      "Quốc hội"
+    ],
+    "url": "https://taiwan.md/vi/people/fu-kun-chi",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-06-01",
+    "path": "vi/People/fu-kun-chi.md"
+  },
+  {
     "title": "Phòng hút thuốc ở Đài Bắc: Một chiếc hộp kính trong \"thành phố không khí sạch\"",
     "description": "Ngày 7 tháng 5 năm 2026, bên cạnh lối ra số 6 của ga tàu điện ngầm Tây Môn, một chiếc hộp kính trong suốt được lắp đặt, đó là phòng hút thuốc áp suất âm ngoài trời đầu tiên của toàn Đài Loan, sử dụng công nghệ hút gió để tạo ra áp suất khác biệt, khiến khói chỉ có thể vào không có thể ra ngoài. Đài Bắc muốn trở thành thành phố không khí sạch, nhưng lại trước tiên xây một ngôi nhà kính cho mọi người hút thuốc. Từ năm 1984 khi bác sĩ Yên Đạo cắt bỏ một thùy phổi vì hại của thuốc lá, đến hiện tại khí thải từ thuốc chỉ còn 3,2% trong nhà nhưng gần một nửa ngoài đường phố, chiếc hộp kính này chứa đựng một điếu thuốc hợp pháp, và một hợp đồng không gian công cộng của thành phố chưa được hoàn thành.",
     "category": "vi",
@@ -71191,6 +71990,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "de/Geography/tectonic-plates-and-seismic-activity.md"
+  },
+  {
+    "title": "Plurk",
+    "description": "Eine Microblogging-Plattform, die 2008 gestartet wurde und dank horizontaler „Fluss\"-Zeitleiste und algorithmusfreier Sozialisierung in den zehn Jahren zwischen Facebook und Twitter überlebte. Nachdem sie 2016 von Googles Werbenetzwerk dauerhaft blockiert wurde, stieg sie dank des kostenpflichtigen „Plurk-Coins\"-Modells von Rot nach Schwarz — taiwanesische Nutzer zahlten in New Taiwan Dollar, damit dieser nicht algorithmisch gesteuerte Fluss weiterhin fließen konnte.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/plurk-taiwan-microblog",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-04-01",
+    "path": "de/Culture/plurk-taiwan-microblog.md"
   },
   {
     "title": "Plurk",
@@ -72184,6 +72994,17 @@
     "path": "en/People/puma-shen.md"
   },
   {
+    "title": "Puncak Laut dan Gunung Pulau: Ekologi dan Lanskap Taman Nasional Taiwan",
+    "description": "Eksplorasi sistem ekologis unik dan nilai konservasi sembilan taman nasional di Taiwan, dari garis pantai subtropis hingga batas salju pegunungan yang lengkap.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes",
+    "readingTime": 52,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "id/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md"
+  },
+  {
     "title": "Puntos críticos de biodiversidad en Taiwán",
     "description": "Una isla de 36.000 km² alberga 59.000 especies: una densidad 100 veces superior a la media mundial",
     "category": "es",
@@ -72387,6 +73208,17 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "en/Geography/qingshui-cliff.md"
+  },
+  {
+    "title": "Qingshui-Klippe: Die atemberaubende Narbe der Plattenkollision und die Widerstandskraft des Lebens",
+    "description": "1874 ließ der Qing-General Lo Ta-chun (羅大春) den alten Suhua-Pfad errichten und eröffnete so die gefährliche Strecke an der Ostküste. Die Qingshui-Klippe, eine vertikale Felswand aus Marmor und Gneis, ist nicht nur ein Abbild der geologischen Entwicklung Osttaiwans, sondern auch Inspirationsquelle für endemische Pflanzen und Meeresliteratur, während sie gleichzeitig ökologischen und sicherheitstechnischen Herausforderungen gegenübersteht.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/qingshui-cliff",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-04-27",
+    "path": "de/Geography/qingshui-cliff.md"
   },
   {
     "title": "Qingtian Gang: Pradarias, Bunkers e a Luta de Cem Anos dos Búfalos",
@@ -73857,17 +74689,6 @@
     "path": "es/History/chiang-kai-shek-memorial-hall.md"
   },
   {
-    "title": "Salsas y condimentos de Taiwán",
-    "description": "Las salsas y condimentos característicos de Taiwán, como la salsa de soja espesa (jiangyou gao), la salsa satay, la salsa agridulce con chile y la salsa de frijol fermentado (douban jiang), constituyen la base del sabor único de la isla y reflejan una filosofía culinaria nacida de la fusión de múltiples culturas.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/food/taiwan-sauces-and-seasonings",
-    "readingTime": 34,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "es/Food/taiwan-sauces-and-seasonings.md"
-  },
-  {
     "title": "Samuel Yin : le prix scientifique qu'il a créé vaut plus que le Nobel",
     "description": "Le 26 mai 2026 à quatre heures vingt et une du matin, Samuel Yin, président du groupe Ruentex et fondateur du Tang Prize, s'est éteint à l'hôpital des Vétérans de Taipei (VGH Taipei), à l'âge de 76 ans. Du bagarreur adolescent dont Wang Jin-ping pansait les blessures au collège Jingde, à sa visite en 1989 à l'université de Pékin où la poussière lui montait aux chevilles, en passant par la création de la Guanghua School of Management, jusqu'au don de 3 milliards de dollars taïwanais en 2012 pour fonder le Tang Prize — dont le prix de 50 millions de dollars taïwanais par catégorie dépasse celui du Nobel. Un homme d'affaires taïwanais vient de quitter ce monde, léguant à la planète un prix plus cher que le Nobel.",
     "category": "fr",
@@ -74067,20 +74888,25 @@
   },
   {
     "title": "Saus dan Bumbu Taiwan",
-    "description": "Kecap kental, saus satay, saus manis pedas, saus tauco, dan bumbu khas Taiwan lainnya membentuk dasar rasa unik pulau ini, mencerminkan filsafat penumbukan yang memadukan beragam budaya",
+    "description": "Kecap kental, saus sa-te, saus manis pedas, pasta kacang fermentasi pedas, dan bumbu khas Taiwan lainnya membentuk dasar rasa unik pulau ini, mencerminkan falsafa penyedapan rasa yang memadukan keberagaman budaya.",
     "category": "id",
-    "tags": [
-      "Saus",
-      "Bumbu",
-      "Budaya Kuliner",
-      "Rasa Taiwan",
-      "Makanan Fermentasi"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/id/food/taiwan-sauces-and-seasonings",
-    "readingTime": 27,
+    "readingTime": 23,
     "featured": false,
     "date": "2026-03-20",
     "path": "id/Food/taiwan-sauces-and-seasonings.md"
+  },
+  {
+    "title": "Schattenspiel: Vom „Schattenspielbrennertum“ nach Mitou zur kasachischen Verschmelzung",
+    "description": "Die Wurzeln der taiwanesischen Schattenspielkunst liegen in Kaohsiung Mitou. Die Legende besagt, dass der Meister Awanshi vor dreihundert Jahren mit Koxinga nach Taiwan kam und seine Kunst in dieser kleinen Stadt hinterließ. Während der kaiserlichen chinesischen Bewegung 1937 wurde der Künstler gezwungen, auf Japanisch das japanische Volksmärchen „Yuan Xie He Zhan“ aufzuführen. Das Theater wurde dafür als „Erster Ehrgeizvereinigung“ ausgewählt und überlebte bis heute. Das Donghua Schattenspieltheater bewahrt sechs Generationen und ist das älteste noch aktive Familienmarionettenspiel Theaters in Taiwan.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/taiwanese-shadow-puppetry",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "de/Culture/taiwanese-shadow-puppetry.md"
   },
   {
     "title": "Schneegipfel-Tunnel: Vom ‚unmöglichen Projekt‘ zum taiwanesischen Ingenieurwunder aus Blut und Schweiß",
@@ -74330,6 +75156,17 @@
     "path": "pt/Technology/into-the-cellar-taiwan-game-podcast.md"
   },
   {
+    "title": "Semangat Sumber Terbuka Taiwan—Para Insinyur yang Mengubah Cinta Menjadi Energi",
+    "description": "Proyek sumber terbuka paling berpengaruh di Taiwan bukanlah perangkat lunak, melainkan sekelompok insinyur yang mengatakan kepada pemerintah dalam acara hackathon: \"Anda tidak bisa melakukannya, kami akan melakukannya.\"",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/technology/taiwan-open-source-spirit",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "id/Technology/taiwan-open-source-spirit.md"
+  },
+  {
     "title": "Semi-conducteurs : 50 ans de révolution des matériaux, de la licence RCA au nitrure de gallium et à l'emballage quantique",
     "description": "La « montagne sacrée » de Taïwan domine le monde grâce au sous-traitance avancée, mais le champ de bataille des matériaux pour les 50 prochaines années vient tout juste de s'ouvrir : nitrure de gallium dans les chargeurs rapides, CoWoS sous les puces IA, dilution cryogénique au-dessus des qubits.",
     "category": "fr",
@@ -74421,6 +75258,17 @@
     "featured": true,
     "date": "2026-03-28",
     "path": "id/Art/taiwan-new-media-art.md"
+  },
+  {
+    "title": "Seni Seni Jalanan dan Budaya Graffiti Taiwan",
+    "description": "Dari graffiti bawah tanah hingga lukisan dinding yang sah, bagaimana dinding kota menjadi panggung karya seniman Taiwan",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/culture/taiwan-street-art-and-graffiti-culture",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "id/Culture/taiwan-street-art-and-graffiti-culture.md"
   },
   {
     "title": "Seni Tradisional Taiwan",
@@ -76632,6 +77480,17 @@
     "path": "en/Food/sun-cake.md"
   },
   {
+    "title": "Sun Moon Lake: Das Herz Taiwans, das unter 18,18 Metern Wasserstand versinkt und zugleich enthüllt wird",
+    "description": "Das Sun-Moon-See im Jahr 2026 ist der größte Pufferspeicher Taiwans und zugleich ein verlorener Schutzheiligtum der Thao. Von der Wasserversenkung um 18,18 Meter im Jahr 1934 an begonnen, trägt der See seit einem Jahrhundert Geschichte der ethnischen Migration und des Stromwunders in seinen Tiefen.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/sun-moon-lake",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-04-27",
+    "path": "de/Geography/sun-moon-lake.md"
+  },
+  {
     "title": "Sun Moon Lake: Sob o Nível de Água de 18,18 Metros, o Coração de Taiwan Submerso e Visto",
     "description": "Em 2026, Sun Moon Lake é a maior bateria de bombeamento reversível do mundo e a terra ancestral perdida do povo Thao. Desde a elevação do nível da água em 18,18 metros em 1934, que transformou a paisagem, este lago carrega um século de migração étnica e milagres elétricos entre destino turístico e coração energético.",
     "category": "pt",
@@ -77190,6 +78049,17 @@
     "path": "fr/Geography/taichung-city.md"
   },
   {
+    "title": "Taichung City: Nearly the Capital in 1887, Became the Second Largest Special Municipality Only in 2010",
+    "description": "In 1887 Liu Ming-chuan petitioned to establish Taiwan as a province with the provincial capital at Qiaozaitou in Changhua County (today's Taichung urban core), planning an Eight Trigrams-shaped city; construction began in 1889. In 1894 Shao You-lian moved the capital north to Taipei, halting work on the Taichung provincial capital. The Japanese established Taichung Prefecture on 1 October 1920. Tunghai University broke ground on Dadu Mountain in 1955; Luce Memorial Chapel was completed in 1963. At 01:47 on 21 September 1999 the Chelungpu Fault ruptured from Jiji, Nantou to Dongshi, Taichung, killing 358 in Dongshi Township. On 25 December 2010 the county and city merged and upgraded to a special municipality with 29 districts. Toyo Ito's National Taichung Theater opened in Xitun District in 2016. Today 2.86 million people live in this city that waited 123 years.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/geography/taichung-city",
+    "readingTime": 224,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "en/Geography/taichung-city.md"
+  },
+  {
     "title": "Taichung: 1887 fast zur Hauptstadt geworden, 2010 erst zur zweitgrößten regierungsunmittelbaren Stadt",
     "description": "1887 beantragte Liu Mingchuan die Provinzeinrichtung, der Provinzsitz wurde in Qiaozitou im Kreis Changhua (heute Stadtzentrum von Taichung) gewählt, eine bagua-förmige Stadt geplant. 1889 Baubeginn. 1894 verlegte Shao Youlian nach Amtsantritt die Provinzhauptstadt nach Taipeh, der Bau der Provinzhauptstadt Taichung stoppte. Am 1. Oktober 1920 richteten die Japaner die Präfektur Taichung ein. 1955 begann der Bau der Tunghai-Universität am Dadu-Berg, 1963 wurde die Luce Memorial Chapel fertiggestellt. Am 21. September 1999 riss die Chelungpu-Verwerfung von Jiji in Nantou bis nach Dongshi in Taichung, in der Stadt Dongshi starben 358 Menschen. Am 25. Dezember 2010 fusionierten Kreis und Stadt zur regierungsunmittelbaren Stadt mit 29 Bezirken. 2016 eröffnete das von Toyo Ito entworfene Nationale Opernhaus im Bezirk Xitun. 2,86 Millionen Menschen leben in dieser Stadt, die 123 Jahre wartete.",
     "category": "de",
@@ -77201,17 +78071,6 @@
     "path": "de/Geography/taichung-city.md"
   },
   {
-    "title": "Taichung: A Capital That Almost Was, a Second Direct-Administered City That Took 123 Years",
-    "description": "In 1887, Liu Ming-chuan petitioned for Taiwan Province, selecting Qiaozaitou (modern Taichung) as the provincial capital with a Bagua-shaped city plan. Construction began in 1889. In 1894, Shao Youlian moved the capital north to Taipei, halting the Taichung project. On October 1, 1920, the Japanese established Taichung Prefecture. In 1955, Providence University broke ground on Dadu Mountain; the Luce Memorial Chapel was completed in 1963. On the early morning of September 21, 1999, the Chelungpu Fault tore from Jiji in Nantou to Dongshi in Taichung; 358 people died in Dongshi. On December 25, 2010, the county and city merged to become a direct-administered city with 29 districts. In 2016, the National Taichung Theater designed by Toyo Ito opened in Xitun District. 2.86 million people live in this city that waited 123 years.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/geography/taichung-city",
-    "readingTime": 212,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "en/Geography/taichung-city.md"
-  },
-  {
     "title": "Taichung: casi la capital en 1887, no se convirtió en la segunda ciudad autónoma hasta 2010",
     "description": "En 1887, Liu Ming-chuan pidió la creación de la provincia, con la capital en el puente de Zhanghua (hoy distrito de Taichung), planificando una ciudad con forma de trigrama. En 1889 comenzaron las obras de la muralla. En 1894, tras la toma de poder de Shao Yucun, la capital se trasladó oficialmente a Taipéi y las obras de la ciudad provincial se detuvieron. El 1 de octubre de 1920, los japoneses establecieron aquí el estado de Taichung. En 1955, la Universidad de Taiwán comenzó sus obras en la montaña Dadu, y en 1963 se inauguró la iglesia Luce. En la madrugada del 21 de septiembre de 1999, la falla de Chelungpu se abrió desde Jiayi hasta Taichung Dongshi, matando a 358 personas en el pueblo de Dongshi. El 25 de diciembre de 2010, la fusión de condado y ciudad elevó a Taichung a categoría de ciudad autónoma, con 29 distritos. En 2016 se inauguró el Teatro Nacional de Taichung, diseñado por Ito Tomohiro en el distrito de Xitun. 2.86 millones de personas viven en esta ciudad que esperó 123 años para pasar de ser una ciudad provincial candidata a la segunda ciudad autónoma.",
     "category": "es",
@@ -77221,28 +78080,6 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "es/Geography/taichung-city.md"
-  },
-  {
-    "title": "Taichung: por pouco não foi a capital em 1887, só se tornou o segundo maior município diretamente administrado em 2010",
-    "description": "Em 1887, Liu Ming-ch'uan solicitou a criação de uma província, com a capital provincial escolhida em Ch'iao-tzu-t'ou (atual área urbana de Taichung), no condado de Chang-hua, planeando uma cidade em forma de baguá. A construção começou em 1889. Em 1894, Shao Yu-lian assumiu e transferiu a capital provincial para norte, para Taipé, paralisando a construção da capital provincial de Taichung. Em 1 de outubro de 1920, os japoneses estabeleceram a Prefeitura de Taichung aqui. Em 1955, a Universidade Tung-hai começou a construção no Monte Ta-tu, e em 1963 a Capela Memorial Luce foi concluída. Na madrugada de 21 de setembro de 1999, a Falha de Chelungpu rompeu desde Chi-chi, em Nan-tou, até Tung-shih, em Taichung, matando 358 pessoas em Tung-shih. Em 25 de dezembro de 2010, a fusão condado-cidade elevou-a a município diretamente administrado, com 29 distritos. Em 2016, o Teatro Nacional de Taichung, projetado por Toyo Ito, inaugurou no distrito de Hsi-t'un. 2,86 milhões de pessoas vivem nesta cidade que esperou 123 anos.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/geography/taichung-city",
-    "readingTime": 241,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "pt/Geography/taichung-city.md"
-  },
-  {
-    "title": "Tainan : 261 ans de capitale, 400 ans de vestiges, des puces du XXIe siècle superposés sur une même terre",
-    "description": "En 1624, les Néerlandais commencèrent à construire Fort Zeelandia sur les dunes de Tayouan ; le 1er février 1662, Coyett signa dans cette forteresse l'acte de reddition, puis le 9 février quitta la plage avec deux mille Néerlandais. En 1665, Chen Yonghua fit construire le temple de Confucius, devenu la « première école de tout Taïwan ». En 1684, les Qing établirent la préfecture de Taïwan dans l'actuel Tainan ; en 1885, Taïwan devint province, la capitale provinciale fut déplacée vers le nord à Taipei, et 261 ans de statut de capitale prirent fin. Le 13 mars 1947 à midi, Tang Te-chang fut ligoté, hissé sur un camion à Minsheng Green Park, promené dans les rues, puis trois coups de feu retentirent. Le 25 décembre 2010, la fusion ville-comté créa 37 districts et 1,86 million d'habitants. En 2023, le chiffre d'affaires annuel du STSP atteignit 1 500 milliards de dollars taïwanais et dépassa celui du Hsinchu Science Park. Trois strates d'histoire pèsent sur un même tronçon central de la plaine de Jianan.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/geography/tainan-city",
-    "readingTime": 272,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "fr/Geography/tainan-city.md"
   },
   {
     "title": "Tainan City: A Layering of 261 Years as Capital, 400 Years of Antiquity, and 21st Century Chips on One Land",
@@ -77287,6 +78124,17 @@
     "featured": false,
     "date": "2026-06-04",
     "path": "pt/Society/chinese-taipei.md"
+  },
+  {
+    "title": "Taipé Chinesa: Quase Capital em 1887, Tornou-se a Segunda Grande Cidade Metropolitana em 2010",
+    "description": "Em 1887, Liu Ming-chuan propôs o estabelecimento de uma província com sua capital em Qiaozitou (atual Taipé), planejando uma cidade octogonal. A construção começou em 1889. Em 1º de outubro de 1920, o governo japonês estabeleceu a jurisdição de Taipé Chinesa. Em 1º de dezembro de 2010, ela foi elevada a cidade metropolitana com 29 distritos.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/geography/taichung-city",
+    "readingTime": 225,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "pt/Geography/taichung-city.md"
   },
   {
     "title": "Taipé: A fronteira mais diversa de Taiwan, com os maiores números de Hakka e trabalhadores migrantes",
@@ -77375,6 +78223,17 @@
     "featured": false,
     "date": "2026-05-04",
     "path": "en/Geography/taipei-101.md"
+  },
+  {
+    "title": "Taipei 101: Vom „Wächterhund“ zur „goldenen Schlange“, ein politisch-feng shui-getriebenes Wahrzeichen",
+    "description": "Taipei 101 ist nicht nur ein Gebäude, sondern das Ergebnis des politischen und wirtschaftlichen Spiels zwischen Chen Shui-bian und Peng Huai-nan, eines Feng-Shui-Experiments von Li Zu-yuan und der „großen Bosse“ für Alex Honnold. Die Entwicklung von 59 auf 101 Stockwerke enthüllt die Macht und das Geheimnis dieses „Schatzbeckens“.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/taipei-101",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-05-04",
+    "path": "de/Geography/taipei-101.md"
   },
   {
     "title": "Taipei City: Three Times in One City, Longshan Temple (1738) Gazing at Taipei 101 (2004)",
@@ -77491,6 +78350,17 @@
     "featured": true,
     "date": "2026-04-28",
     "path": "fr/Culture/taiwan-religion-and-temple-culture.md"
+  },
+  {
+    "title": "Taïwan : la capitale de 261 ans, les sites historiques de 400 ans et les puces du XXIe siècle, superposés sur une même terre",
+    "description": "Les Néerlandais ont commencé à construire le Fort Zeelandia sur les dunes de Tainan en 1624. Le 1er février 1662, Coyett a signé l'accord de paix avec les Zé, et 2 000 Néerlandais sont partis du rivage le 9 février. En 1665, Chen Yong-hua a construit le Temple Confucius, devenu la première école de Taïwan. En 1885, la capitale de l'ancienne province de Taïwan a déménagé à Taipei, marquant la fin du statut de capitale de 261 ans. Le 13 mars 1947, le juriste Tang Teh-chang fut ligoté et emmené en procession dans les rues avant d'être abattu par trois coups de feu. Le 25 décembre 2010, la ville est devenue une municipalité directe avec 37 districts et environ 1,86 million d'habitants. En 2023, le chiffre d'affaires du parc scientifique du sud a dépassé celui de Hsinchu de 165,5 milliards de NTD, superposant trois couches d'histoire sur la plaine de Chiayi-Nantou.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/geography/tainan-city",
+    "readingTime": 237,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "fr/Geography/tainan-city.md"
   },
   {
     "title": "Taïwan : Le chef noir et blanc, une émission sud-coréenne de Netflix, 16 mois de tests de pression gustative pour sept industries de consommation",
@@ -78691,6 +79561,17 @@
     "path": "en/Society/taiwan-judicial-reform-and-preventive-detention.md"
   },
   {
+    "title": "Taiwan Kirchenblatt: Eine Zeitung, die 140 Jahre alt ist, und der Tag ihrer Beschlagnahmung",
+    "description": "Im Jahr 1885 druckte der britische Missionar Barclay in Tainan die erste Zeitung Taiwans mit gesprochener Sprache. Diese Zeitung wurde von der japanischen Regierung eingestellt, vom KMT verboten, im Jahr 1987 wegen Berichterstattung über den 228-Vorfall beschlagnahmt. Bei jeder Unterdrückung ist sie wiederbelebt worden. Im Jahr 2025 feiert sie 140 Jahre und diskutiert in ihrem Sonderheft generative KI.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/taiwan-church-news",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-04-29",
+    "path": "de/Culture/taiwan-church-news.md"
+  },
+  {
     "title": "Taiwan KTV Culture: From Holiday and Cashbox to the Era of Private Room Socializing",
     "description": "Explore the development of Taiwan's KTV culture, from the Japanese-imported karaoke to the localized private room culture, the competitive era of Holiday and Cashbox, how song request charts became indicators of popular culture, and the post‑pandemic challenges of industry transformation.",
     "category": "en",
@@ -79227,6 +80108,28 @@
     "path": "en/Lifestyle/taiwan-youbike-and-micromobility-revolution.md"
   },
   {
+    "title": "Taiwan-Kaiserbadlandschaft",
+    "description": "Von der „Hexe-Wanne\" zum 15. weltweit führenden Thermalstaat: Wie Plattentektonik die heilende Geologie dieser Insel erzeugt",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/taiwan-hot-springs-landscape",
+    "readingTime": 80,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "de/Geography/taiwan-hot-springs-landscape.md"
+  },
+  {
+    "title": "Taiwan-Karte der Yue Lao: Vor der Partnersuche erst den Tempel wählen, denn diese Insel beherbergt mindestens zehn Yue Lao mit unterschiedlichen Zuständigkeiten",
+    "description": "In Taiwan gibt es bei der Partnersuche eine Voraussetzung, die viele nicht kennen: Es gibt nicht nur einen Yue Lao. Die vier großen Yue Lao von Tainan sind zuständig für Partnersuche, Stabilität, Trennen von Seitensprüngen und Wiederzusammenführung; der 1753 erbaute alte Tempel Legonggong in Taichung ist für Wiederzusammenführung bekannt, der Tu''er Shen im Weimingtang in Neu-Taipeh ist spezialisiert auf gleichgeschlechtliche Partnersuche; Xiahai, Longshan-Tempel und Lukang Tianhou-Tempel haben jeweils ihre Spezialgebiete. Je detaillierter Gläubige ihre \"Partnerkriterien\" aufschreiben, desto besser, denn lässt man Felder leer, findet der Yue Lao Schlupflöcher.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/taiwan-yuelao-matchmaker-map",
+    "readingTime": 107,
+    "featured": false,
+    "date": "2026-05-25",
+    "path": "de/Society/taiwan-yuelao-matchmaker-map.md"
+  },
+  {
     "title": "Taiwan-Maskottchen: Vom Geschenk des Datong-Babys zum globalen Charakter eines Ortes",
     "description": "Von dem Datong-Baby von 1969 über Oh Bear und Xiongzan bis zu Kaohsiung MRT, Maolihao, Tiger Duck, Timon und Caiqi Duck – wie tragen taiwanesische Maskottchen lokale Erinnerungen, Verkehrsszenarien, Campusidentität, Fußballemotionen und Unternehmens-IP? Die wahre Prüfung eines Charakters ist, ob er den Rahmen verlässt und in das Leben der Menschen eindringt.",
     "category": "de",
@@ -79324,6 +80227,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/Economy/circular-economy-and-resource-recycling.md"
+  },
+  {
+    "title": "Taiwan: Ein Hotspot der Biodiversität",
+    "description": "Die Insel mit 36.000 Quadratkilometern beherbergt über 59.000 Arten, eine Dichte, die dem globalen Durchschnitt um das Zehnfache entspricht.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/taiwan-biodiversity-hotspots",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "de/Geography/taiwan-biodiversity-hotspots.md"
   },
   {
     "title": "Taiwán: El «gran salón» de 870.000 trabajadores extranjeros y la lucha por la supervivencia a través del mar",
@@ -81217,6 +82131,28 @@
     "path": "pt/Society/taiwanese-overseas-and-diaspora.md"
   },
   {
+    "title": "Taiwanesische Chorprojekte: Vom Ruhm zum Sieg in Asien",
+    "description": "1957 gründeten Lu Chuan-sheng und Gu Wei-fu die Rongxing Children's Choir und arrangierten sie aus groben ländlichen Liedern zu eleganten Chorälen. Mehr als sechs Jahrzehnte später traten die Taipeh Philharmonic auf der Bühne in Ungarn mit eigener Flagge, die Baolai Middle School's Choir gewann drei Weltmeistertitel, und die Europa Chorus gewann 55 internationale Auszeichnungen. Von der Schulgemeinschaft bis zur internationalen Profi-Ebene ist diese Melodie nicht nur eine vollständige Ökologie, sondern auch eine Geschichte der Würde unter politischer Unterdrückung.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/music/choir",
+    "readingTime": 77,
+    "featured": false,
+    "date": "2026-05-07",
+    "path": "de/Music/choir.md"
+  },
+  {
+    "title": "Taiwanesische Varietésendungen im Fernsehen",
+    "description": "1962 machte „Kontaktsommer“ aus dem Konzertsaal eine Livingroom-Show: Taiwanesische Varietésendungen wurden nicht nur unterhaltsam, sondern erfanden Stars, geprägten Slang und schufen ein gemeinsames Gesprächsthema für die Familie. In der Ära des Kabelfersehens blühten sie als Vorbild für die chinesischsprachige Welt auf, und in der Streaming- und Kurzvideo-Zeit mussten sie sich von der Bühnen-Show an die vielen Plattformen anzupassen.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/taiwan-variety-shows",
+    "readingTime": 77,
+    "featured": false,
+    "date": "2026-04-19",
+    "path": "de/Culture/taiwan-variety-shows.md"
+  },
+  {
     "title": "Taiwanische Bestattungskultur und Lebensanschauung nach dem Tod",
     "description": "Von den Klagen der Söhne bis zur Baumbeisetzung in Yong'aiyuan – Taiwan wandelte sich in fünfzig Jahren von der Erdbeisetzung zur Feuerbestattung, und in zehn Jahren vom Urnengrab zum unter einem Baum ruhenden Rest.",
     "category": "de",
@@ -81259,6 +82195,23 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "de/Culture/loanwords-and-language-contact-in-taiwan.md"
+  },
+  {
+    "title": "Taiwanische Stauseen und Wassermanagement",
+    "description": "Von der Wasserknappheitskrise bis zur Sedimentation: Die Herausforderungen und die Ungleichverteilung von Taiwanischen Ressourcen",
+    "category": "de",
+    "tags": [
+      "Wassernutzung",
+      "Stausee",
+      "Dürre",
+      "Wasserbau",
+      "Klimawandel"
+    ],
+    "url": "https://taiwan.md/de/geography/taiwan-reservoirs-and-water-resource-management",
+    "readingTime": 100,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "de/Geography/taiwan-reservoirs-and-water-resource-management.md"
   },
   {
     "title": "Taiwanische Traditionelle Künste: Vom Dorftheater zum kulturellen Imperium – Die Renaissance der Volkskunst",
@@ -82839,6 +83792,17 @@
     "path": "vi/People/puma-shen.md"
   },
   {
+    "title": "Thẩm Văn Trình: Từ kỹ thuật viên máy bay Thanh Tuyền Cương đến Vua ca nhạc kép kim",
+    "description": "Thẩm Văn Trình, nghệ sĩ tài năng hai mảng âm nhạc và dẫn chương trình của Đài Loan. Từ một thợ sửa máy bay cuối thời chiến tranh Việt Nam cho đến người gắn liền với bản hit \"Tâm sự ai hay\", ông đã khắc tên mình bằng sự chân thành và hài hước tại các giải thưởng Kim Khúc và Kim Chung.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/shen-wencheng",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-05-12",
+    "path": "vi/People/shen-wencheng.md"
+  },
+  {
     "title": "Thân Bảo Phúc (Ando Bảo Phúc): Từ Chiayi Phú Thọ Đến Bàn Thờ Toàn Cầu — Truyền Thuyết Địa Chất Đài Loan Và Bao Bì Nhật Bản",
     "description": "Năm 1961, Ando Bảo Phúc mua bản quyền đăng ký bằng sáng chế của Trần Quốc Văn với 23 triệu yên. Đây không chỉ là một giao dịch thương mại, mà còn là một cuộc đấu tranh quốc tế về quyền định nghĩa phát minh. Một doanh nhân từ Chiayi Phú Thọ, ông biến linh hồn của mì gà truyền thống Đài Loan thành món ăn quốc gia của Nhật Bản, và thông qua \"Mì ăn liền Hương vị\", thay đổi hoàn toàn thói quen ăn uống toàn cầu. Bài viết sâu xa khám phá những khởi nguồn khởi nghiệp của ông trong thời kỳ thuộc địa Nhật, những suy ngẫm trong nhà tù sau chiến tranh, cũng như những xung đột về danh tính và gia đình giữa hai quốc gia.",
     "category": "vi",
@@ -83513,6 +84477,17 @@
     "path": "en/Lifestyle/taiwan-walking-green-man.md"
   },
   {
+    "title": "The Little Tigers: Imported Melodies, Filled with Their Own Youth",
+    "description": "In 1988, a TVBS variety show sought three young men to accompany the female group \"Little Cats\" in singing and dancing. The result was an idol group that covered Japanese songs and modeled themselves after Japanese boy bands. From selling 200,000 copies in five days, to being chased by fans from Taipei to Kaohsiung, to crossing the Taiwan Strait in 1991. Nearly all the parts were imported, yet Taiwan remembers them as the most enduring generation of youth. The most famous three bodies have since all crossed the strait.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/music/little-tigers-taiwan-boy-band",
+    "readingTime": 132,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "en/Music/little-tigers-taiwan-boy-band.md"
+  },
+  {
     "title": "The Maritime Trade History of Taiwan",
     "description": "Taiwan during the Age of Discovery: The rise and fall of a legend, from an international trade hub to a kingdom of pirates",
     "category": "en",
@@ -83799,6 +84774,17 @@
     "path": "fr/Culture/taiwanese-shadow-puppetry.md"
   },
   {
+    "title": "These People: The Seven Who Rose to Fame Together, and the Day They Had to Go Their Separate Ways",
+    "description": "In 2011, Showhand, Showplus, and five others brought their performance chemistry to YouTube. From _Chao Hao Fan Chao_ to 3.57 million subscribers, they turned daily life into shared memories and turned their channel into a small company requiring division of labor, revenue sharing, and management. After announcing a hiatus in 2023, money, burnout, platform shifts, and personal growth finally surfaced all at once. This is a chapter of Taiwan's internet history about how collaborative creation grows into a profession—and how it sometimes needs to be re-split apart.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/tgop",
+    "readingTime": 78,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "en/People/tgop.md"
+  },
+  {
     "title": "Thị trấn mới Lín khách: Sự chuyển đổi từ \"thị trấn ma\" sang thành phố mới nổi lên ở Bắc Đài Loan và những thách thức",
     "description": "Vào thập niên 1970, chính phủ Đài Loan xác lập thị trấn mới Lín khách trên đồng Lín khách nhằm giảm áp lực dân số từ thủ đô Đài Bắc. Sau nhiều thập kỷ phát triển, khu vực này từng được chê bai vì giao thông không thuận tiện và chức năng thiếu thốn, gọi là \"thị trấn ma\", nhưng sau khi đường sắt đường sắt sân bay mở vào năm 2017, dân số tăng nhanh chóng, công nghiệp chuyển biến, trở thành một trong những khu đô thị trẻ, năng động nhất ở Bắc Đài Loan. Tuy nhiên, tắc nghẽn giao thông và khí hậu ẩm ướt vẫn là những thách thức cần vượt qua.",
     "category": "vi",
@@ -84063,17 +85049,6 @@
     "path": "vi/Technology/threads-in-taiwan.md"
   },
   {
-    "title": "Threads ताइवान में: Twitter के विकल्प से \"कुरकुरा\" संस्कृति का मुख्य युद्धक्षेत्र",
-    "description": "जब वैश्विक उपयोगकर्ताओं का Threads के प्रति उत्साह ठंडा पड़ गया, ताइवान ने एक बिल्कुल अलग रास्ता अपनाया——35 लाख उपयोगकर्ता, वैश्विक स्तर पर दूसरा सबसे बड़ा बाज़ार, उपयोग समय में शीर्ष स्थान। यह Z पीढ़ी की वास्तविक आवाज़, राजनेताओं के \"अवतरण\", मीम्स के उन्माद का डिजिटल सार्वजनिक चौक बन गया, जिसने ताइवान के सोशल मीडिया पारिस्थितिकी को पुनर्परिभाषित किया।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/technology/threads-in-taiwan",
-    "readingTime": 65,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "hi/Technology/threads-in-taiwan.md"
-  },
-  {
     "title": "Three Foreigners Witness 1895 Taiwan: A Photographer's Album, a Reporter's Notes, a Pastor's Diary",
     "description": "In the Yi-Wei War of 1895 (乙未之役), three foreigners left behind the most important foreign-language eyewitness documents of that conflict — Japanese photographer Endo Makoto's victory album, American journalist James W. Davidson's embedded notes, and Japanese pastor Hosokawa Ryu's diary from Taiwan. The question is not what they saw, but for whom they were watching.",
     "category": "en",
@@ -84220,6 +85195,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "vi/People/xiao-qing-yang-grammy-designer.md"
+  },
+  {
+    "title": "Tiga Orang Asing Menyaksikan Perang 1895: Album Fotografer, Catatan Jurnalis, dan Buku Harian Pendeta",
+    "description": "Dalam Perang 1895 (乙未之役), tiga orang asing meninggalkan dokumen kesaksian berbahasa asing terpenting dari perang ini—album kemenangan fotografer Jepang Endo Sei, catatan perjalanan jurnalis Amerika James W. Davidson, dan buku harian pendeta Jepang Hosokawa Ryu yang mendokumentasikan masa pasca-perang di Taiwan. Pertanyaannya bukanlah apa yang mereka lihat, tetapi untuk siapa mereka melihat.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/history/three-foreigners-witness-1895-taiwan",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-04-27",
+    "path": "id/History/three-foreigners-witness-1895-taiwan.md"
   },
   {
     "title": "TikTok",
@@ -84637,6 +85623,17 @@
     "path": "fr/Geography/terrain-and-geology.md"
   },
   {
+    "title": "Topographie und Geologie: Die Insel mit 6 Millionen Jahren Geschichte, die alte Erinnerungen von 200 Millionen Jahren birgt – ein Wunder der jüngsten Gebirgsbildung und der intensivsten Plattentektonik weltweit",
+    "description": "Taiwan ist eine der jüngsten Gebirgsketten der Welt, beherbergt aber Gesteine aus vor über 200 Millionen Jahren; die Insel ist ein Mikrokosmos der intensivsten geologischen Aktivität auf der Erde.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/terrain-and-geology",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "de/Geography/terrain-and-geology.md"
+  },
+  {
     "title": "Topography and Geology",
     "description": "A 6-million-year-old island hiding 200-million-year-old memories — the miracle of the world's youngest orogenic belt meeting the most violent plate collision",
     "category": "en",
@@ -84836,6 +85833,17 @@
     "path": "en/Nature/trail-culture-and-civic-stewardship.md"
   },
   {
+    "title": "Trạm khí tượng Yuên Sơn: Người canh giữ treo thẳng 3.858 mét trên dãy cao nguyên",
+    "description": "Nằm ở đỉnh cao 3.858 mét của Yuên Sơn Bắc Đỉnh, trạm khí tượng là cơ quan khí tượng và hành chính cao nhất Đông Á. Trong bão táp và sét đánh đe dọa, nhiều thế hệ quan sát viên đã dùng sự cô đơn và quyết tâm giữ trì để khóa chặt nhịp sống khí tượng đầu tiên của Đài Loan.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/geography/yushan-weather-station",
+    "readingTime": 120,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "vi/Geography/yushan-weather-station.md"
+  },
+  {
     "title": "Trạm thu phí: Đoạn ngưng ba giây trên quốc lộ cao tốc",
     "description": "Ngày 30 tháng 7 năm 1974, trạm Thái Sơn bắt đầu hoạt động, việc trao vé lượt chỉ mất chưa đến ba giây. Hành động đó sau đó bị quốc gia đo lường chính xác, nén xuống 3,7 giây, và năm 2013 được nén hoàn toàn xuống 0 giây, gây ra một vụ kiện kéo dài 11 năm của 947 nhân viên thu phí. Ngày nay vẫn còn lại ba quán vé trên đường cao tốc, có thể xem nhưng không nên dừng lâu.",
     "category": "vi",
@@ -84913,6 +85921,17 @@
     "path": "vi/Music/hsien-ching-chen.md"
   },
   {
+    "title": "Trần Kiến Nhân: Thứ trưởng Bộ Y tế thời SARS, Phó Tổng thống, Thủ tướng thứ 31",
+    "description": "Sinh ngày 6 tháng 6 năm 1951 tại trấn Kỵ Sơn, huyện Cao Hùng, Trần Kiến Nhân là nhà dịch tễ học nổi tiếng quốc tế. Năm 2003, trong đợt dịch SARS, ông nhậm chức Thứ trưởng Bộ Y tế. Nhiệm kỳ 2016-2020 làm Phó Tổng thống thứ 14. Ngày 31 tháng 1 năm 2023 nhậm chức Thủ tướng thứ 31. Ngày 20 tháng 5 năm 2024 nghỉ chức, bàn giao cho Trác Vinh Thái.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/chen-chien-jen",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/chen-chien-jen.md"
+  },
+  {
     "title": "Trần Kiến Niên: Vương ca nhạc tại nhà chỉ huy cảnh sát, bài hát từ ngoại ông viết thành đại dương của cháu",
     "description": "Sinh ngày 1 tháng 8 năm 1967 tại bản Sakuban, huyện Bì Nam. Tốt nghiệp trường cảnh sát năm 1986, phục vụ lực lượng công an 30 năm 10 tháng. Năm 1999 tuổi 33 phát hành album sáng tác đầu tiên \"Đại dương\", năm 2000 tại Giải Tân Khúc thứ 11 đánh bại Trương Học Hữu, Dữ Trong Khánh, Đào Triệ, Vương Lực Hùng để giành nam ca sĩ Quan Thoại xuất sắc nhất, cùng kỳ \"Thần thoại\" chiến thắng Giải tác diễn tấu xuất sắc. Anh vẫn là cảnh sát khi nhận giải. Cùng năm tháng 9 xin chuyển tới Đảo Lan Tự tránh rối loạn, ở lại 17 năm tới khi nghỉ hưu. Ngoại ông Lục Sâm Bảo là tác giả \"Bông lúa xinh đẹp\", cháu mất 30 năm mới tiếp nhận và tiếp tục dòng âm nhạc đó.",
     "category": "vi",
@@ -84977,6 +85996,17 @@
     "featured": false,
     "date": "2026-04-20",
     "path": "vi/People/chen-tzu-jian.md"
+  },
+  {
+    "title": "Trần Tuấn Lương: Người chuyển dịch hiện đại của thơ thiết kế và mỹ học phương Đông",
+    "description": "Trần Tuấn Lương, sinh năm 1958 tại Đài Nam, người được giới công nhận là \"thi sĩ thiết kế\", đã thành lập \"Thiết kế Tự do Rơi\" (Freeimage Design) ở tuổi 29. Ông tái diễn giải ngôn ngữ thiết kế hiện đại thông qua thư pháp, khoảng trắng và các hình tượng phương Đông, với tác phẩm trải rộng từ bao bì xuất bản, nhận diện doanh nghiệp đến lễ hội quốc gia. Năm 2005, bộ đồ ăn tiệc nhà nước \"Thiên Viên Địa Phương\" đã đoạt giải thưởng tại Triển lãm Thiết kế Macau lần thứ sáu. Ông là một trong những nhà thiết kế đồ họa có ảnh hưởng nhất Đài Loan sau thập niên 1980.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/chen-chun-liang-design-poet",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/chen-chun-liang-design-poet.md"
   },
   {
     "title": "Trần Yân Nhi",
@@ -85429,6 +86459,28 @@
     "featured": true,
     "date": "2026-05-18",
     "path": "vi/Technology/taiwan-ai-academy.md"
+  },
+  {
+    "title": "Trương Huệ Mị: Ca sĩ tộc Puyuma, từ 《Chị em》 năm 1996 đến năm 2024 sân vận động lớn năm buổi",
+    "description": "Sinh ngày 9 tháng 8 năm 1972 tại xã Puyuma, huyện Đài Đông, Trương Huệ Mị là ca sĩ tộc Puyuma của Đài Loan, một trong những nữ ca sĩ thành công nhất trong lịch sử nhạc pop tiếng Hoa. Năm 1996, album đầu tay 《Chị em》 bán được 1,21 triệu bản tại Đài Loan, 4 triệu bản tại châu Á. Năm 2015, tour \"Utopia\" tại Đài Bắc Tiểu Cự Cúp liên tục 10 buổi. Tháng 12 năm 2024, sân vận động lớn ASMeiR MAXXX 5 buổi, chi phí sản xuất 2 tỷ, thả bóng bay nóng tại hiện trường. Tích lũy bán ra hơn 50 triệu bản trọn đời.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/a-mei",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/a-mei.md"
+  },
+  {
+    "title": "Trương Minh Chính: Xuất thân Khoa Toán Đại học Phụ Trân, bán phần mềm diệt virus ra toàn cầu",
+    "description": "Sinh năm 1954, Trương Minh Chính tốt nghiệp Khoa Toán Đại học Phụ Trân, sau du học Mỹ tại Đại học Lehigh lấy thạc sĩ Máy tính. Năm 1988, 34 tuổi, cùng Trần Nhi Hoa thành lập Trend Micro tại Los Angeles, Mỹ. Ngày 18/8/1998 niêm yết tại Sở Chứng khoán Tokyo (mã 4704) và cùng năm trên Nasdaq, trở thành công ty phần mềm Đài Loan đầu tiên niêm yết tại Nhật Bản. Năm 2007 thành lập Ru Thủy Quốc tế, 2019 thành lập Minh Nhi Quỹ, từ an ninh mạng chuyển hướng doanh nghiệp xã hội.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/steve-chang",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/steve-chang.md"
   },
   {
     "title": "Trưởng quận nguyên dân sở hữu địa hình núi đông bắc của các thành phố trực thuộc: vị trí tự trị dân cử được giữ lại trong sửa luật năm 2014",
@@ -86629,6 +87681,17 @@
     "path": "vi/Politics/central-election-commission.md"
   },
   {
+    "title": "Vấn đề ký hiệu của Đài Loan trong các tiêu chuẩn quốc tế",
+    "description": "Từ mã ISO đến phần mềm mã nguồn mở — tên gọi của Đài Loan được viết, tranh luận và sửa chữa như thế nào trong cơ sở hạ tầng số toàn cầu",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/taiwans-labeling-in-international-standards",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "vi/Society/taiwans-labeling-in-international-standards.md"
+  },
+  {
     "title": "Vận động xã hội và tham gia công dân",
     "description": "Từ Phong trào Dân chủ Hoa백 (野百合) đến Phong trào Hoa hướng dương (太陽花), cách Đài Loan thực hành dân chủ và thúc đẩy tiến bộ xã hội thông qua các phong trào xã hội",
     "category": "vi",
@@ -87108,6 +88171,22 @@
     "path": "vi/Art/taiwanese-literature-during-japanese-rule.md"
   },
   {
+    "title": "Văn học đương đại Đài Loan: Ngô Minh Ích, Lâm Dịch Hàm và cuộc khủng hoảng đọc sách thầm lặng",
+    "description": "Năm 2018, Ngô Minh Ích được đề cử giải Man Booker Quốc tế với tác phẩm 《Đơn Xe Bị Trộm》, trong khi số lượng bản in đầu tiên của sách văn học thuần túy Đài Loan đã giảm xuống dưới ba nghìn cuốn.",
+    "category": "vi",
+    "tags": [
+      "Văn học",
+      "Đương đại",
+      "Quốc tế hóa",
+      "Chuyển đổi số"
+    ],
+    "url": "https://taiwan.md/vi/art/contemporary-taiwanese-literature",
+    "readingTime": 62,
+    "featured": false,
+    "date": "2026-04-27",
+    "path": "vi/Art/contemporary-taiwanese-literature.md"
+  },
+  {
     "title": "Vân Lâm: Cái mà Nghi Lan từ chối, Vân Lâm dùng ba mươi năm phổi để lấy lại",
     "description": "Năm 1987 ngày 13 tháng 12, Trần Định Nam chặn lại Lục Nhẹ ở Nghi Lan. Năm 1991 ngày 26 tháng 6, Viện Hành pháp chấp thuận chuyển Lục Nhẹ sang ngoài khơi Mại Liêu, Vân Lâm. Năm 1994 tháng 7 động công, năm 1998 giai đoạn một khai lò, cho đến nay đã lấp biển 2.255 công hectare. Năm 2011, nhóm nghiên cứu của giáo sư Trần Trường Quyền từ đại học Đài Bắc phát hiện tỷ lệ ung thư ở cư dân trong vòng 10 km xung quanh Lục Nhẹ cao 1,29 lần so với toàn Đài Loan. Nhưng ở cùng một tỉnh, năm 1694, thời Khang Hi thứ 33 triều Thanh, Miếu Triêu Thiên ở Bắc Cảng đã thờ Ma Tổ được 332 năm, năm 1953 ngày 28 tháng 1, thép viện trợ Mỹ nâng đỡ cầu Tây La dài 1.939 mét. Một tỉnh đồng thời là một trong những miếu Ma Tổ lâu đời nhất Đài Loan, kho lúa quan trọng nhất, vương quốc hóa dầu lớn nhất.",
     "category": "vi",
@@ -87564,6 +88643,17 @@
     "path": "en/Society/volunteering-and-civic-charity-in-taiwan.md"
   },
   {
+    "title": "Von der Autorität zum kulturellen Zentrum: Die Transformation der Nationaltheater Taipeh",
+    "description": "Als 1987 eröffnet, war das Gebäude ein repräsentatives Denkmal für Chiang Ching-kuo. 2003 entfernte Direktor Chu Tsung-ching die Stacheldrahttür, 2004 wurde es Taiwans erste Verwaltungseinrichtung. Die 4.172 Pfeifen des niederländischen Flentrop-Orgels sind in den Holzwänden verborgen, sagt Kulturdirektorin Liu I-ju, man müsse \"unsichtbare Barrieren\" erkennen.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/culture/national-theater-and-concert-hall",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "de/Culture/national-theater-and-concert-hall.md"
+  },
+  {
     "title": "VTuber Đài Loan: Từ Thí Nghiệm Doanh Nghiệp Đến Sự Hợp Tác Xã Hội 'Ra Tròn' của Thế Giới Ảo và Thực",
     "description": "Năm 2017, cô gái ảo Hồ Mỹ (Tiger Mom) xuất hiện trên Yahoo TV, khai sinh ngành VTuber Đài Loan. Từ thí nghiệm công nghiệp ban đầu đến năm 2025, tổng cộng hơn 3.000 VTuber ra đời trên toàn Đài Loan, quy trình này đã biến thành hệ sinh thái văn hóa giao thoa giữa Olympics hợp tác và phục hồi ngôn ngữ địa phương. Dù lợi nhuận từ Super Chat đạt hàng triệu đô la, các nhà sáng tạo cá nhân vẫn đối mặt với chi phí cao và tỷ lệ biến động cao.",
     "category": "vi",
@@ -87771,6 +88861,17 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "es/Society/mainlanders-in-taiwan.md"
+  },
+  {
+    "title": "Walfurongbing: Die kulturelle Achse der taiwanesischen Identität – vom japanischen „Imagawa-yaki“ zum Mungobohnenkeks von Wandan",
+    "description": "Ein „Mungobohnenkekon-Streit“ im Jahr 2026 entfachte eine Debatte über die sprachliche Identität. Wie dieser teure, aus der Edo-Zeit stammende Snack nach seinem erfolgreichen Test in Mandan, Pingtung, in den 1960er Jahren vom „Imagawa-yaki“ zum alltagsnahen Symbol auf den Straßen Taiwans wurde.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/food/wheel-cakes-imagawayaki",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "de/Food/wheel-cakes-imagawayaki.md"
   },
   {
     "title": "Walking on the Filled-in Harbor: Five Street Foods of Tainan’s Central-West District",
@@ -88019,6 +89120,17 @@
     "path": "en/People/wang-shaudi.md"
   },
   {
+    "title": "Wang Vĩnh Thịnh: Từ cửa hàng gạ bán hai mươi năm chiến đấu cho dự án điện lực, cho tới tranh chấn di chúc sau khi qua đời",
+    "description": "Sinh năm 1917 ngày 18 tháng 1 năm Tân Dậu, tại Đài Bắc Tân Tiến, Wang Vĩnh Thịnh năm 15 tuổi bỏ học vay tiền mở cửa hàng gạ, năm 1954 thành lập Tập đoàn Nhựa Đài Loan. Năm 1973 đề xuất dự án Điện lực thứ sáu, sau gần hai mươi năm chiến đấu mới được chấp thuận, năm 1998 tại vùng biển Mỹ Lộc chính thức sản xuất. Ngày 15 tháng 10 năm 2008 tử trận tại Hoa Kỳ, thọ 92 tuổi, để lại một cuộc tranh chấn di chúc kéo dài hơn mười năm.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/yung-ching-wang-formosa-plastics-founder",
+    "readingTime": 56,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/People/yung-ching-wang-formosa-plastics-founder.md"
+  },
+  {
     "title": "Wang Wang : Du roi des biscuits de riz au géant médiatique, une mutation du pouvoir",
     "description": "En 1976, Cai Yanming, alors âgé de 19 ans, reprend la direction de Yilan Food, passant du statut de « fils prodigue » moqué à celui de plus grand riche du pays grâce à la technologie japonaise des biscuits. Après l'acquisition du groupe China Times en 2008, ce royaume des collations se transforme en la figure médiatique la plus controversée de Taïwan, déclenchant un mouvement sans précédent contre la monopolisation des médias.",
     "category": "fr",
@@ -88222,6 +89334,17 @@
     "featured": false,
     "date": "2026-06-29",
     "path": "en/People/wanwan-taiwan-blog-cartoonist.md"
+  },
+  {
+    "title": "Warga Taiwan di Luar Negeri: Peta Diaspora dari Mahasiswa Pengasingan hingga Insinyur Silicon Valley, Dua Juta Jiwa",
+    "description": "Taiwan belum memiliki pemungutan suara di luar negeri; dua juta warga negara di diaspora harus terbang kembali ke tempat pendaftaran mereka untuk setiap pemilihan umum. Dari pengasingan politik mahasiswa Amerika pada tahun 1960-an, organisasi lobi FAPA yang didirikan di Los Angeles pada tahun 1982, hingga efek kepulangan insinyur Silicon Valley, ini adalah kisah diaspora tentang identitas dan aksi.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/taiwanese-overseas-and-diaspora",
+    "readingTime": 60,
+    "featured": false,
+    "date": "2026-04-28",
+    "path": "id/Society/taiwanese-overseas-and-diaspora.md"
   },
   {
     "title": "Water Flows Upstream: Reading Amis Reclamation History and Brain Cognitive Boundaries through Optical Illusion",
@@ -88534,6 +89657,17 @@
     "featured": false,
     "date": "2026-04-26",
     "path": "pt/People/huai-te-indie-singer.md"
+  },
+  {
+    "title": "Wie man Taiwans Karte liest: Vier Jahrhunderte von der Süße zu den Satelliten",
+    "description": "1554: Ein portugiesischer Kartograph malt auf acht Pergamentblättern eine verschwommene Insel namens „I. Fremosa“. Er war nie dort. 470 Jahre später zeigt Google Maps Taiwan unterschiedlich je nach Land — kein technisches Problem, sondern ein politisches.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/how-to-read-the-taiwan-map",
+    "readingTime": 60,
+    "featured": false,
+    "date": "2026-04-07",
+    "path": "de/Geography/how-to-read-the-taiwan-map.md"
   },
   {
     "title": "Wikipédia à Taïwan : souveraineté numérique, pratiques culturelles et mosaïque du savoir des peuples autochtones",
@@ -88887,6 +90021,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "de/People/wu-bai.md"
+  },
+  {
+    "title": "Wu Baifu (Ando Momofuku): Legenda Global dari Dapur Taiwan ke Meja Makan Dunia, Gen Taiwan dan Pengemasan Jepang",
+    "description": "Pada tahun 1961, Ando Momofuku mengakuisisi hak paten mi instan milik Chang Kuo-wen dengan harga 23 juta Yen. Ini bukan sekadar transaksi bisnis, melainkan pertarungan lintas negara atas definisi penemuan. Wirausahawan yang berasal dari Pukoh, Chiayi, ini mengubah jiwa mie ayam tradisional Taiwan menjadi makanan pokok Jepang dan merevolusi kebiasaan makan global melalui Cup Noodles. Artikel ini mendalami awal mula usahanya di Taiwan era pendudukan Jepang, pencerahan setelah dipenjara pasca-perang, serta pergulatan identitas dan keluarga antara kedua negara tersebut.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/momofuku-ando-instant-noodle-inventor",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-04-29",
+    "path": "id/People/momofuku-ando-instant-noodle-inventor.md"
   },
   {
     "title": "Wu Baifu (Momofuku Ando) : de Puzi, Chiayi, aux tables du monde, une légende mondiale aux gènes taïwanais et à l’emballage japonais",
@@ -89379,6 +90524,17 @@
     "path": "en/Lifestyle/xiaobei-department-store.md"
   },
   {
+    "title": "Xiao Hu Dai: Melodi yang Dibeli, Diisi dengan Masa Muda Sendiri",
+    "description": "Sebuah program pencarian bakat di Taiwan pada tahun 1988 mencari tiga pria untuk menyanyi dan menari bersama Xiao Mao Dai, menghasilkan grup idola yang mengadaptasi lagu Jepang dan meniru grup idola remaja Jepang. Dari menjual dua ratus ribu kaset dalam lima hari hingga dikejar penggemar dari Taipei ke Kaohsiung, dan pernah tampil di seberang selat pada tahun 1991. Hampir semua komponennya adalah impor, namun Taiwan menganggapnya sebagai generasi masa muda yang paling kokoh, sementara ketiga anggota terpopuler kemudian pindah ke seberang selat.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/music/little-tigers-taiwan-boy-band",
+    "readingTime": 136,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "id/Music/little-tigers-taiwan-boy-band.md"
+  },
+  {
     "title": "Xiao Jing-teng: Von der „Kampf-Dämon“-Figur zum Golden Melody King – Eine taiwanesische Stimme, die Legenden schafft",
     "description": "Von einem Straßenmusiker zu einer Ikone des Popgenres: Die Geschichte von Xiao Jing-teng und dem Mythos vom „Regengott“",
     "category": "de",
@@ -89438,6 +90594,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/xiao-qing-yang-grammy-designer.md"
+  },
+  {
+    "title": "Xiao Qingyang: Membawa Desain Taiwan ke Panggung Dunia",
+    "description": "Pemenang desain paket album Grammy, yang tujuh kali dinominasikan dan akhirnya meraih gelar melalui kolaborasi ayah-anak, tokoh representatif desain Taiwan di panggung dunia",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/xiao-qing-yang-grammy-designer",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "id/People/xiao-qing-yang-grammy-designer.md"
   },
   {
     "title": "Xiaobei Department Store : Le roi de l'épicerie taïwanaise sous les lumières de la nuit, de l'étal de fruits de mer au « sauveur des parents » en trente ans",
@@ -90520,6 +91687,23 @@
     "path": "pt/Geography/yehliu-geopark.md"
   },
   {
+    "title": "Yěliǔ: Die Krönung und der Abschied einer „Königin“ am Teufelskap – Ein Wettlauf gegen die Zeit",
+    "description": "Ein Gesteinsbruch im Jahr 1962 „krönte“ den Königskopf von Yěliǔ, doch dieses Weltnaturerbe verschwindet jährlich um 2 Zentimeter. Von dem „Teufelskap“ in spanischen Augen zu einem kulturellen Wahrzeichen, das von allen beschützt wird – die Geschichte von Yěliǔ ist nicht nur ein geologisches Wunder, sondern auch der Prozess, wie die Menschen in Taiwan lernen, loszulassen zwischen Naturgesetzen und emotionaler Verbundenheit.",
+    "category": "de",
+    "tags": [
+      "Yěliǔ",
+      "Königskopf",
+      "Geopark",
+      "Wanli",
+      "Lin Tianzhen"
+    ],
+    "url": "https://taiwan.md/de/geography/yehliu-geopark",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-04-26",
+    "path": "de/Geography/yehliu-geopark.md"
+  },
+  {
     "title": "Yen Chang-shou : du garçon de bureau au parrain du tourisme, puis il a tout abandonné",
     "description": "Bachelier seulement, à 23 ans il triait le courrier chez American Express. Cinq ans plus tard, il en devenait directeur général. Cinq ans encore, et il présidait l'un des hôtels les plus réputés d'Asie, inventant un système de service capable d'accueillir un client par son nom avant même qu'il ait ouvert sa portière. 600 000 exemplaires vendus. Puis, à 62 ans, il a démissionné pour aller fonder une école dans les régions reculées de Taïwan oriental — et l'année suivante, on lui a retiré un rein. À 78 ans, il a inauguré un parc artistique au bord du Pacifique.",
     "category": "fr",
@@ -90895,6 +92079,17 @@
     "path": "en/People/yu-yong-he.md"
   },
   {
+    "title": "Yu Yonghe",
+    "description": "Pada tahun 1697, seorang sarjana dari Hangzhou secara sukarela pergi ke Taiwan untuk menambang belerang, berjalan kaki dari Tainan hingga Beitou, dan menulis karya sastra deskriptif tertua di bagian utara Taiwan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/yu-yong-he",
+    "readingTime": 57,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "id/People/yu-yong-he.md"
+  },
+  {
     "title": "Yu Yonghe — Le lettré qui traversa Taïwan pour du soufre",
     "description": "En 1697, un lettré de Hangzhou s'est porté volontaire pour traverser Taïwan du sud au nord jusqu'à Beitou, afin d'y collecter du soufre. Son récit de voyage constitue la première œuvre littéraire documentant la géographie et les peuples du nord de l'île.",
     "category": "fr",
@@ -90954,6 +92149,17 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "pt/Geography/yunlin-county.md"
+  },
+  {
+    "title": "Yushan Weather Station: The Solitary High-Mountain Sentinel at 3,858 Meters",
+    "description": "Perched atop Yushan North Peak at 3,858 meters, this weather station is the highest meteorological and administrative agency in Northeast Asia. Under extreme weather and constant lightning threats, generations of observers have held this post in solitude and resolve, securing Taiwan's first-hand pulse on the atmosphere.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/geography/yushan-weather-station",
+    "readingTime": 117,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "en/Geography/yushan-weather-station.md"
   },
   {
     "title": "Yushan: de “Niitakayama” ao ponto mais alto da alma de Taiwan",
@@ -91302,6 +92508,39 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "en/Economy/zhongli.md"
+  },
+  {
+    "title": "Zhongli: Eine andere Stadt in der Stadt Taoyuan – warum man sagt, Zhongli sei nicht Taoyuan?",
+    "description": "Administrativ ist Zhongli ein Bezirk der Stadt Taoyuan, im Alltag wird er jedoch oft als ein weiteres Stadtzentrum Süd-Taoyuans betrachtet. Von Jianzaili über die kreisfreie Stadt Zhongli im Landkreis Taoyuan bis zum Bezirk Zhongli der regierungsunmittelbaren Stadt – wer seine Geschichte, Verkehrsanbindung, Campuslandschaft, Industrie, Ethnien, den Laojie-Bach, die Esskultur und die lokale Identität versteht, begreift, dass „Zhongli ist nicht Taoyuan“ nicht bloß ein Streit ist, sondern das Ergebnis der langjährigen Überlagerung von Verwaltungsnamen, städtischen Lebenskreisen und der Regionalisierung von Nord- und Süd-Taoyuan.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/economy/zhongli",
+    "readingTime": 155,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "de/Economy/zhongli.md"
+  },
+  {
+    "title": "Zhongli: Kota Lain di Taoyuan, Mengapa Ada yang Berkata Zhongli Bukan Taoyuan?",
+    "description": "Secara administratif Zhongli adalah satu distrik dari Kota Taoyuan, namun dalam kehidupan sehari-hari sering dianggap sebagai pusat kota lain di Selatan Taoyuan. Memahami sejarah, transportasi, kampus, industri, etnis, Sungai Laojie, kuliner, dan identitas lokal secara utuh akan menjelaskan bahwa \"Zhongli berbeda dari Taoyuan\" bukan sekadar perdebatan, melainkan hasil tumpang tindih jangka panjang antara nama administratif, lingkaran kehidupan kota, dan regionalisasi Utara-Selatan Taoyuan.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/economy/zhongli",
+    "readingTime": 152,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "id/Economy/zhongli.md"
+  },
+  {
+    "title": "Zhongli: la otra ciudad dentro de Taoyuan, ¿por qué algunos dicen que Zhongli no es Taoyuan?",
+    "description": "Administrativamente, Zhongli es un distrito de la ciudad de Taoyuan, pero en la vida cotidiana suele tratarse como el núcleo urbano del sur de Taoyuan. Desde el antiguo poblado de Jianzi, pasando por la ciudad de condado de Zhongli, hasta el distrito de Zhongli de la ciudad autónoma, entender su historia, transporte, campus, industria, etnias, el río Laojie, la gastronomía y la identidad local también permite comprender que \"Zhongli es distinto de Taoyuan\" no es solo una discusión, sino el resultado de la superposición prolongada entre el nombre administrativo, el área de vida urbana y la regionalización norte-sur de Taoyuan.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/economy/zhongli",
+    "readingTime": 157,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "es/Economy/zhongli.md"
   },
   {
     "title": "Zhongli: Outra Cidade dentro da Cidade de Taoyuan, Por Que Algumas Pessoas Dizem que Zhongli Não é Taoyuan?",
@@ -94298,12 +95537,12 @@
     "path": "ru/Nature/malayan-night-heron.md"
   },
   {
-    "title": "Маленькие тигры: купленная мелодия, наполненная собственной молодостью",
-    "description": "В 1988 году шоу Хваши искало трех юношей для выступлений с группой «Маленькие кошки», в итоге отобрав состав, копировавший японскую «Сёнентай». От 200 тысяч копий за пять дней до фанатов, преследующих турне из Тайбэя в Каосюн, и перехода через пролив в 1991 году — почти все «детали» были импортированы, но Тайвань запомнил это как самое крепкое поколение юности, а три самых популярных участника позже ушли на континент.",
+    "title": "Маленькие Тигры: Мелодии, купленные и наполненные собственной молодостью",
+    "description": "В 1988 году на телешоу Hua Shi искали трех парней для танцев с группой \"Маленькие Кошки\". В итоге они выбрали группу, которая перепевала японские песни и имитировала айдол-группы из Японии. От продажи двухсот тысяч пластинок за пять дней до туров от Тайбэя до Гаосюна в 1991 году. Почти все детали были импортированы, но Тайвань воспринял их как символ самой прочной молодости поколения, а самые популярные участники позже переехали на материк.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/music/little-tigers-taiwan-boy-band",
-    "readingTime": 117,
+    "readingTime": 129,
     "featured": false,
     "date": "2026-03-24",
     "path": "ru/Music/little-tigers-taiwan-boy-band.md"
@@ -94735,6 +95974,17 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "ru/Lifestyle/nightlife-and-ktv-culture.md"
+  },
+  {
+    "title": "Нью-Пэй: кольцо вокруг Тайбея, 4 млн жителей поддерживают столичный транспорт, промышленность и память",
+    "description": "Городок Хутайн (Красный город) в Тайнбине с 1628 года, когда испанцы положили первый кирпич, уже 398 лет. Это на 247 лет раньше, чем Сунь Пэйцзинь основал Тайбэйский округ в 1875 году. Сегодня 29 районов Нью-Пэя окружают 12 районов Тайбея, в этом крупнейшем прямом управлении провинции живут 4 млн человек, 390 тыс. жителей ездят на работу в Тайбэй через границы города. Но это не спальный городок — в нём есть золотая жила Линьчжоу, открытая в 1853 году, улун-чай из Тайнбина, продававшийся в Нью-Йорке ещё в 1869 году, первая в Азии золотая жила Джингуаршань в 1890-х годах, железная дорога Пинсинь, открытая в 1929 году для перевозки угля, резьба по столбам у храма Зисань в Саньцзе, начатая Ли Мэйцзинь в 1947 году, и племя народа тайя в Дэлань в Улай. Нью-Пэй — это уменьшенная копия Тайваня за 400 лет, только не в пределах Тайбея.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/geography/new-taipei-city",
+    "readingTime": 279,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "ru/Geography/new-taipei-city.md"
   },
   {
     "title": "Ню Чэнцзэ",
@@ -96018,6 +97268,17 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "ru/Society/sport-stacking.md"
+  },
+  {
+    "title": "Станция погоды на горе Юшань: непоколебимый страж на высоте 3858 метров",
+    "description": "Расположенная на северной вершине горы Юшань на высоте 3858 метров, станция погоды является самой высокорасположенной метеорологической и административной установкой в Восточно-Тихоокеанском регионе. Несмотря на экстремальные погодные условия и угрозу гроз, несколько поколений метеорологов и техников держатся в этом месте, чтобы зафиксировать первичные метеорологические данные для Тайваня.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/geography/yushan-weather-station",
+    "readingTime": 129,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "ru/Geography/yushan-weather-station.md"
   },
   {
     "title": "Старая улица Санься: борьба властей под краснокирпичными аркадами и незавершённый эксперимент по сохранению культурного наследия",
@@ -98890,6 +100151,17 @@
     "path": "ru/People/chang-chung-jen-chung-i-twins.md"
   },
   {
+    "title": "Чанхуа: аграрный гигант, который победил DuPont, но не смог удержать молодежь",
+    "description": "В 1709 году Ши Шибан построил ирригационную систему Цзяньнань, которая старше на 211 лет, чем система Батянь-и. В 1723 году Чанхуа была выделена из уезда Чжулуо. В 1786 году жители Луган не дали американцам DuPont захватить город; в 2026 году население Чанхуа упало до 1,2 миллиона человек, ниже порога для получения статуса прямого города.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/geography/changhua-county",
+    "readingTime": 158,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "ru/Geography/changhua-county.md"
+  },
+  {
     "title": "Чань Лифэн: до прихода Google на Тайвань он уже занимался поиском на Тайване",
     "description": "Многие тайваньские аспиранты до появления Google пользовались той системой онлайн-поиска для поиска магистерских и докторских диссертаций, исследователем которой был Чань Лифэн. Из пионера китайского поиска в Академии Синьца он стал первым сотрудником Google на Тайване и за четырнадцать лет превратил офис из одного человека в НИОКР-базу более чем из двух тысяч человек. После ухода на пенсию в 2020 году он не успокоился, а стал самым беспристрастным критиком кадрового положения на Тайване: «через пять лет на Тайване не найдется талантов, через десять — потребителей».",
     "category": "ru",
@@ -98982,17 +100254,6 @@
     "featured": false,
     "date": "2026-04-20",
     "path": "ru/People/shasha77-chang-chih-chi.md"
-  },
-  {
-    "title": "Чжаньхуа: округ, победивший Дюпон, но не удерживающий молодых людей",
-    "description": "В 1709 году Шь Шьбан вёл воды реки Чжоушуйси, создав первую на Тайване крупную ирригационную систему — на 211 лет раньше канала Канань Дачжэнь Хатты Ёити. В 1723 году, в первый год правления Юнчжэна, округ был выделен из округа Чжулуо, охватывая юг до Худюя и север до Дацзя — это стало началом административно-территориального устройства Чжаньхуа. В 1786 году войска Линь Шуаньвэнь подошли к городу Чжаньхуа, но Луган не пал. В 1788 году Цяньлун указил за казённый счёт построить в Лугане храм Тяньхоу (Синьцзугун). В 1922 году начал работу веерный депо. В 1986 году жители Луганя выгнали американскую компанию Дюпон — первое экологическое движение на Тайване. В апреле 2026 года население округа Чжаньхуа составило 1 206 458 человек, опустившись ниже порога для повышения статуса до города центрального подчинения.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/geography/changhua-county",
-    "readingTime": 167,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "ru/Geography/changhua-county.md"
   },
   {
     "title": "Чжао Цзыцян: от просвещения в театре Ланьлінь до непокорной души под фартуком Бабушки Фрукт",
@@ -99208,6 +100469,17 @@
     "featured": true,
     "date": "2026-05-24",
     "path": "ru/People/cheng-chou-yu-poet.md"
+  },
+  {
+    "title": "Чжэн Шуцзю: одна тайваньская лоток с овощами, за пятьдесят лет дала в благотворительство несколько миллионов",
+    "description": "Одна тайваньская лоток с овощами, за пятьдесят лет своих доходов пожертвовала несколько миллионов, а сама говорит: «Я просто продавец овощей»",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/chen-shu-chu-vegetable-vendor-philanthropist",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ru/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
   },
   {
     "title": "Чжэнь Чэньгун",
@@ -99494,17 +100766,6 @@
     "featured": false,
     "date": "2026-04-29",
     "path": "ru/People/chen-shui-bian-controversial-president.md"
-  },
-  {
-    "title": "Чэнь Шуцзю: продавщица с рынка Тайдуна, за пятьдесят лет отдавшая на благотворительность десятки миллионов",
-    "description": "Продавщица с рынка Тайдуна, за пятьдесят лет отдавшая на благотворительность десятки миллионов, но говорящая: «Я просто продавщица»",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/people/chen-shu-chu-vegetable-vendor-philanthropist",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "ru/People/chen-shu-chu-vegetable-vendor-philanthropist.md"
   },
   {
     "title": "Чэнь Шэн: от Чжанхуа до «Великой волны» — тридцатилетний опыт переноса Нового года как визитная карточка его музыкальной вселенной",
@@ -102191,6 +103452,17 @@
     "path": "ar/Geography/taichung-city.md"
   },
   {
+    "title": "تاينان: عاصمة لـ 261 عاماً، وأثر تاريخي من 400 عام، وشرائح القرن الحادي والعشرين، متراكمة على أرض واحدة",
+    "description": "بدأت هولندا ببناء قلعة زيلانديا في كثبان دايوان عام 1624؛ وفي 9 فبراير 1662 غادر 2000 هولندي الشاطئ. تأسست أول مدرسة في تايوان عام 1665. أصبحت العاصمة الإدارية لتايوان لمدة 261 عاماً حتى 1885. يوم 13 مارس 1947، تم إعدام المحامي تونغ دزشان في حلقة مينسينغ الخضراء. في 2023، تجاوزت إيرادات منطقة نانكاو تايوان سيكو بمليار ونصف التريليون دولار.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/geography/tainan-city",
+    "readingTime": 193,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "ar/Geography/tainan-city.md"
+  },
+  {
     "title": "تايوان BIM وتكنولوجيا البناء: اثنا عشر عامًا من \"التعامل حسب الحالة\" الحكومية، أعاد كتابتها بروتوكول مدته ثمانية عشر شهرًا",
     "description": "في 23 مايو 2014، أطلقت لجنة الأشغال العامة التابعة لليوان التنفيذي \"منصة تعزيز تطبيق BIM في الأشغال العامة\"، متبنية مبدأ \"التعامل حسب الحالة، التدرج التدريجي\". بعد إحدى عشرة سنة وسبعة أشهر، رفع مطور تايواني يعمل في طوكيو مستودعًا باسم REVIT_MCP_study على GitHub، حصد أكثر من سبعين نجمة وأكثر من ثمانين فورك. في الاثني عشر عامًا الفاصلة، قطعت صناعة البناء في تايوان مسارًا طويلًا من الرسوم اليدوية والطباعة الزرقاء إلى النمذجة ثلاثية الأبعاد، ومن المحاولات الفردية إلى المعايير الوطنية، ومن ترقية الأدوات إلى إعادة تعريف المهنة.",
     "category": "ar",
@@ -102728,15 +104000,15 @@
     "path": "ar/People/chao-tzu-chiang-childrens-theater.md"
   },
   {
-    "title": "تشثونيك: الفرقة التي غنّت تاريخ تايوان في البلاك ميتال",
-    "description": "تشثونيك هي فرقة تايوانية للميتال الثقيل تأسست في تايبيه عام 1995، وتتمحور حول البلاك ميتال، والآرهو، والتايوانية، والأساطير التايوانية، وسرد الموتى، والصدمات التاريخية، مقدمةً قصص لين تو جيه، وحادثة موسها، وحادثة 228، ومتطوعي تاكاساغو، والرعب الأبيض، وقضية سيادة تايوان إلى خشبة الميتال العالمية. إنها ليست مجرد خلفية لـ لين تشانغ تزو قبل دخوله السياسة، بل كيان إبداعي يدعمه أعضاء الفرقة فريدي، دوريس، جيسي، داني، وسي جي.",
+    "title": "تشاي هايبي: الصبي الذي نشأ باسم محطة مترو الأنفاق، وحشر تايوان في اشتراك 260 ألف شخص",
+    "description": "تساي تشيانغ آن، المولود عام 2002، بدأ بتصوير \"معلومات المترو الباردة\" منذ المدرسة الثانوية، وبعد اثني عشر عامًا، وقف على منصة جائزة جينلو التي يطلق عليها \"أوسكار النقل\". غيّر اسمه، وأوقف النشر، ثم انطلق من جديد، حيث تولى بنفسه جمع البيانات والخرائط والمونتاج، ليصبح نموذجًا للمبدعين المعرفيين في تايوان.",
     "category": "ar",
     "tags": [],
-    "url": "https://taiwan.md/ar/music/chthonic",
-    "readingTime": 90,
+    "url": "https://taiwan.md/ar/people/tsai-heipi",
+    "readingTime": 116,
     "featured": false,
-    "date": "2026-07-10",
-    "path": "ar/Music/chthonic.md"
+    "date": "2026-08-19",
+    "path": "ar/People/tsai-heipi.md"
   },
   {
     "title": "تشن شوي بيان",
@@ -105027,6 +106299,17 @@
     "path": "ar/Food/sanxia-tea.md"
   },
   {
+    "title": "شثونيك (CHTHONIC): الفرقة التي تغني تاريخ تايوان في موسيقى الميتال السوداء",
+    "description": "شثونيك هي فرقة ميتال ثقيل من تايوان تأسست عام 1995، وتستخدم الميتال الأسود والكمان الصيني والتايوانية والأساطير والمآسي التاريخية لرفع قضايا الهوية الوطنية إلى المسارح الموسيقية العالمية.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/music/chthonic",
+    "readingTime": 91,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ar/Music/chthonic.md"
+  },
+  {
     "title": "شركات تايوان الخمسون الكبرى: جبل الحماية الوطني يدعم جدولاً، ويدعم أيضاً دولة ذات نقطة فشل وحيدة",
     "description": "في 19 مايو 2026، بلغت حصة شركة TSMC وحدها 31.51% من مؤشر تايوان المرجح، وحوالي 40% من إجمالي القيمة السوقية لسوق الأسهم التايواني؛ الشركات الخمسون الكبرى مجتمعة تدعم ناتجاً محلياً إجمالياً، لكن شركة واحدة تحتجز مصير هذا الناتج. القطاع الإلكتروني 36%، القطاع المالي 25%، الصناعات التقليدية 10%، ما يسمى «الثلاثي الإلكتروني-المالي-التقليدي» يقوم في الواقع على ساق إلكترونية واحدة تدعم نصف الجسد. من ليلة صورة جنسن هوانغ مع موريس تشانغ في سوق نينغشيا الليلي، إلى 32 روحاً فُقدت فجراً في طريق كايشوان الثالث، هذا الترتيب هو العمود الفقري الذي لا غنى عنه لتايوان، ونقطة فشلها الوحيدة الأكثر هشاشة.",
     "category": "ar",
@@ -107110,6 +108393,17 @@
     "featured": false,
     "date": "2026-05-05",
     "path": "ar/Society/za-share.md"
+  },
+  {
+    "title": "مدينة تاوئن: تصدير واستيراد تايوان، أكبر مجتمع من الكاكا، وأكبر عدد من العمال المهاجرين، كلها في هذه السهل",
+    "description": "في مساء 19 نوفمبر 1977، أحاط الآلاف من السكان بمكتب تشونغلي التابع لشرطة تاوئن؛ وأطلق رجال الشرطة النار على طالب جامعي من جامعة تايوان الوسطى (يانغ وين قوه) وشاب يبلغ من العمر 19 عامًا (تشانغ تشي بين)، الذي توفي. فاز شيو شين ليانغ بأكبر عدد من الأصوات بـ \"230 ألف مقابل 140 ألف\" كرئيس لمقاطعة تاوئن. بعد ثلاثة أشهر، في 26 فبراير 1979، افتُتح مطار تشونغتشينغ الدولي، ونُقل الباب الخارجي لتايوان من ميناء كيبلون إلى هذا السهل. وفي 25 ديسمبر 2014، تمت ترقية تاوئن لتصبح المدينة الإدارية السادسة، وهي الأخيرة بين المدن الستة. اليوم، يعيش 2.35 مليون شخص في مساحة 1,221 كيلومتر مربع، حيث يوجد أكثر من 800 ألف من الكاكا (أكثر عدد في البلاد)، و132,158 عامل مهاجر (وهو أكبر عدد في البلاد). تاوئن هي الحدود الأكثر تنوعًا في تايوان.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/geography/taoyuan-city",
+    "readingTime": 155,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "ar/Geography/taoyuan-city.md"
   },
   {
     "title": "مدينة شينتشو: زقزاق الخيزران الذي أصبح مدينة في عام 1733، وحضانة تايفون التي أنجبت TSMC في عام 1980",
@@ -110041,6 +111335,17 @@
     "path": "hi/Culture/ghost-festival-zhongyuan.md"
   },
   {
+    "title": "च्थोनिक: ताइवान के इतिहास को ब्लैक मेटल में गाने वाला बैंड",
+    "description": "च्थोनिक 1995 में ताइपे में बने एक ताइवानी हेवी मेटल बैंड है, जो ब्लैक मेटल, एर्हू, ताइवानी, ताइवानी पौराणिक कथाओं, भूत कथाओं और ऐतिहासिक आघात को केंद्र में रखकर लिन टौ जी, वुशे घटना, 228 घटना, तकासागो स्वयंसेवी सेना, व्हाइट टेरर और ताइवान संप्रभुता के मुद्दों को अंतरराष्ट्रीय मेटल मंच पर ले आया। यह फ्रेडी लिम के राजनीति में आने से पहले की पृष्ठभूमि मात्र नहीं, बल्कि फ्रेडी, डोरिस, जेसी, डैनी, सीजे जैसे सदस्यों द्वारा मिलकर खड़ा किया गया एक रचनात्मक समूह है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/music/chthonic",
+    "readingTime": 98,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "hi/Music/chthonic.md"
+  },
+  {
     "title": "च्यांग वेई-शुई: 〈क्लिनिकल लेक्चर〉 के माध्यम से उपनिवेशी बीमारी का निदान करने वाले चिकित्सक",
     "description": "1921 में चिकित्सक च्यांग वेई-शुई ने 〈क्लिनिकल लेक्चर〉 प्रकाशित किया, जिसमें ताइवान को \"विश्व संस्कृति का मंदबुद्धि बालक\" के रूप में व्यक्तित्व प्रदान किया गया और बीमारी का कारण \"बौद्धिक कुपोषण\" बताया गया। उन्होंने ताइवान संस्कृति संघ और पहले कानूनी राजनीतिक दल ताइवान पीपुल्स पार्टी की स्थापना की, जीवन में दस से अधिक बार जेल गए, दा-आन अस्पताल और चुनफेंग डेयी लाउ के बीच जागृति का नेटवर्क बुना, और \"सहोदरों को एकजुट होना चाहिए, एकता में वास्तव में शक्ति है\" की व्यावहारिक विरासत छोड़ी।",
     "category": "hi",
@@ -110362,6 +111667,17 @@
     "featured": true,
     "date": "2026-05-24",
     "path": "hi/People/cheng-chou-yu-poet.md"
+  },
+  {
+    "title": "झोंगली: ताओयुआन शहर के भीतर एक और शहर, लोग क्यों कहते हैं कि झोंगली ताओयुआन नहीं है?",
+    "description": "प्रशासनिक रूप से झोंगली ताओयुआन शहर का एक जिला है, लेकिन यह अक्सर दक्षिणी ताओयुआन के दूसरे शहरी केंद्र के रूप में देखा जाता है। इसके इतिहास, परिवहन, शैक्षणिक संस्थानों, उद्योग, जातीय समूहों, लाओजिए नदी, व्यंजनों और स्थानीय पहचान को पूरी तरह समझने पर ही पता चलेगा कि \"झोंगली ताओयुआन से अलग है\" केवल बहस नहीं है, बल्कि प्रशासनिक नाम, शहरी जीवन चक्र और उत्तरी-दक्षिणी ताओयुआन के दीर्घकालिक अतिव्यापीकरण का परिणाम है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/economy/zhongli",
+    "readingTime": 140,
+    "featured": false,
+    "date": "2026-08-21",
+    "path": "hi/Economy/zhongli.md"
   },
   {
     "title": "टचौकबॉल: ताइवान के 43 साल के अदृश्य विश्व चैंपियन",
@@ -111471,23 +112787,6 @@
     "path": "hi/Culture/taiwan-kuaikuai-culture.md"
   },
   {
-    "title": "ताइवान की चटनियाँ और मसाले",
-    "description": "जियांगयोउगाओ, शाचा सॉस, मीठी-तीखी चटनी और दोउबानजियांग जैसे ताइवानी मसाले द्वीप के विशिष्ट स्वाद की नींव हैं और बहुसांस्कृतिक मेल से बने स्वाद-दर्शन को दर्शाते हैं।",
-    "category": "hi",
-    "tags": [
-      "चटनी",
-      "मसाले",
-      "खानपान संस्कृति",
-      "ताइवानी स्वाद",
-      "किण्वित भोजन"
-    ],
-    "url": "https://taiwan.md/hi/food/taiwan-sauces-and-seasonings",
-    "readingTime": 23,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "hi/Food/taiwan-sauces-and-seasonings.md"
-  },
-  {
     "title": "ताइवान की चाय परंपरा और जीवन-सौंदर्य",
     "description": "एक कीट के काटने से उपजी शहद जैसी सुगंध, जापानी शैली के एक पुराने मकान में चला लोकतांत्रिक आंदोलन और एक कप बबल टी से जीता गया वैश्विक बाज़ार—औपनिवेशिक विरासत से ताइवान की चाय संस्कृति किस तरह एक विशिष्ट जीवन-सौंदर्य में विकसित हुई",
     "category": "hi",
@@ -111922,6 +113221,17 @@
     "path": "hi/Lifestyle/convenience-store-culture.md"
   },
   {
+    "title": "ताइवान की सॉस और मसाला: स्वाद का संगम",
+    "description": "सोया सॉस, साचा चटनी, स्वीट स्पाइसी सॉस और डौबानजियांग जैसे ताइवानी विशेष मसाले द्वीप के विशिष्ट स्वाद का आधार हैं, जो विविध सांस्कृतिक संलयन के पाक दर्शन को दर्शाते हैं।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/food/taiwan-sauces-and-seasonings",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "hi/Food/taiwan-sauces-and-seasonings.md"
+  },
+  {
     "title": "ताइवान की स्लैश पीढ़ी——एक व्यक्ति, अनेक नौकरियाँ: अस्तित्व और चुनाव",
     "description": "जब मास्टर डिग्री केवल ताइपे के एक स्टूडियो अपार्टमेंट का किराया दिला सके, तो स्लैश कोई विकल्प नहीं, बल्कि जीवित रहने का गणितीय सवाल है",
     "category": "hi",
@@ -112097,6 +113407,17 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "hi/Geography/taiwan-hot-springs-landscape.md"
+  },
+  {
+    "title": "ताइवान के ज़मीनी शहरों की रेाशि",
+    "description": "1949 के बड़े पलायन से लेकर पूरे चीन के विभिन्न क्षेत्रों के स्वाद ले आए, जो ज़मीनी शहरों के घरों के बादलों से लेकर ज़मीनी शहरों के बादलों तक के स्वाद के संकल्पना में बदले।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/food/military-dependents-village-cuisine",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "hi/Food/military-dependents-village-cuisine.md"
   },
   {
     "title": "ताइवान के जलाशय और जल संसाधन प्रबंधन",
@@ -113385,6 +114706,17 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "hi/People/zhu-zong-qing.md"
+  },
+  {
+    "title": "थ्रेड्स ताइवान में: 'मैं थोड़ा खाता हूँ' से मिस्र छात्र आईडी तक, एक डिजिटल दीवार कैसे बन गई डिजिटल नाइट मार्केट",
+    "description": "2025 के अंत में, मिस्र के स्फिंक्स के पास मिली एक नेशनल यूनिवर्सिटी ऑफ ताइवान स्टूडेंट आईडी थ्रेड्स पर अंतरराष्ट्रीय खोज बन गई; इसी डिजिटल दीवार पर जापानी और कोरियाई यात्रियों की भोजन तस्वीरें 'नमस्ते, मैं थोड़ा खाता हूँ' बिल्ली को आकर्षित करने लगीं। ताइवान का 'नाजुकपन' (brittleness) बेकार पोस्ट, आपसी सहायता, मीम्स और सार्वजनिक चर्चाओं को एक साथ लाता है, जिससे अजनबी क्षण भर के लिए एक ही मेज पर बैठते हैं और कहानी आगे बढ़ती जाती है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/technology/threads-in-taiwan",
+    "readingTime": 469,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "hi/Technology/threads-in-taiwan.md"
   },
   {
     "title": "दस बड़ी परियोजनाएं: दस अरब डॉलर के विदेशी मुद्रा भंडार पर दो हजार अरब का दांव",
@@ -114713,6 +116045,17 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "hi/People/lee-yuan-tseh.md"
+  },
+  {
+    "title": "युनलिन काउंटी: यिलान ने जो अस्वीकार किया, युनलिन ने तीस वर्षों के फेफड़ों से बदला",
+    "description": "13 दिसंबर 1987 को चेन डिंग-नान ने हुआशी में लिकेंग को यिलान से रोका; 26 जून 1991 को कार्यकारी परिषद ने इसे युनलिन माईलियाओ सागर में स्थानांतरित करने की पुष्टि की, जो 1994 में शुरू हुआ और आज 2,255 वर्ग किलोमीटर तक समुद्र में भर चुका है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/geography/yunlin-county",
+    "readingTime": 189,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "hi/Geography/yunlin-county.md"
   },
   {
     "title": "यू योंग-हे",
@@ -116185,6 +117528,23 @@
     "featured": false,
     "date": "2026-05-27",
     "path": "hi/Politics/indigenous-district-chief-system.md"
+  },
+  {
+    "title": "सीन चू सिटी टाउन गार्ड मंदिर: पहले देवता, फिर सरकारी कार्यालय का शहर केंद्र",
+    "description": "1748 में निर्मित सीन चू सिटी टाउन गार्ड मंदिर, तानशुई टाउन ऑफिस से पहले बनकर तैयार हुआ; यह न केवल एक प्राचीन स्मारक को संरक्षित करता है, बल्कि सरकारी प्रशासन, त्योहारों, शिल्प और सीन चू के नागरिकों की शहरी स्मृति को एक ही मंदिर प्रांगण पर संजोता है।",
+    "category": "hi",
+    "tags": [
+      "सीन चू",
+      "सिटी गार्ड",
+      "मंदिर",
+      "चूज़ान",
+      "सांस्कृतिक संपत्ति"
+    ],
+    "url": "https://taiwan.md/hi/culture/hsinchu-city-god-temple",
+    "readingTime": 104,
+    "featured": false,
+    "date": "2026-08-24",
+    "path": "hi/Culture/hsinchu-city-god-temple.md"
   },
   {
     "title": "सु बेंग: एक पकौड़े की दुकान से, चालीस साल तक ताइवान की क्रांति को पाला",
@@ -122266,12 +123626,12 @@
     "path": "ko/Art/new-taipei-city-museum-of-art.md"
   },
   {
-    "title": "신베이시: 타이베이를 둘러싼 환상형 대도시, 401만 명이 떠받치는 수도의 통근, 산업, 기억",
-    "description": "단수이 훙마오청은 1628년 스페인인이 첫 벽돌을 쌓은 때부터 이미 398년이 지났다. 1875년 선바오전이 타이베이부를 설치한 것보다 247년 앞선다. 오늘날 신베이시 29개 구는 타이베이시 12개 구를 둘러싸고 있으며, 401만 명이 타이완 최대 직할시인 이 도시에 살고, 39만 명이 현·시 경계를 넘어 타이베이로 출근한다. 그러나 이 '환상형 대도시'는 타이베이의 베드타운이 아니다. 이곳에는 1853년 반차오 린 가문, 1869년 단수이에서 출항해 뉴욕으로 팔려 간 우롱차, 1890년대 아시아 제일의 금광 지우펀·진과스, 1929년 석탄을 운반하던 핑시 철도, 1947년 리메이수가 시작한 싼샤 조사묘 조각, 우라이 타이야족 더라난 부락이 있다. 신베이는 타이완 400년의 축소판이며, 마침 타이베이시 안에 있지 않을 뿐이다.",
+    "title": "신베이시: 타이베이를 둘러싼 순환 대도시, 401만 명이 지탱하는 수도의 통근, 산업 및 기억",
+    "description": "단수 홍마오 성은 1628년 스페인인이 첫 벽돌을 쌓은 이래 398년이 되었습니다. 이는 1875년 선보정(沈葆楨)이 타이베이부를 설치한 시점보다 247년 빠릅니다. 오늘날 신베이시는 29개 구로 타이베이시 12개를 둘러싸고 있으며, 이 대도시에는 401만 명이 거주하고 있고, 39만 명은 타 지역에서 타이베이로 출퇴근합니다. 하지만 이 '순환 대도시'는 타이베이의 잠자는 도시가 아닙니다. 이곳에는 1853년 반차오(板橋) 임씨 가문, 1869년 단수에서 뉴욕까지 수출된 우롱차, 1890년대 아시아 최초의 금광인 지우펀(金瓜石), 1929년 석탄 운송 철도인 핑시(平溪) 철도, 1947년 리메이슈가 시작한 산샤(三峽) 조상 사당 조각, 그리고 우라이(烏來)의 타이아족 데라난 부족 등이 있습니다. 신베이는 타이완 400년의 축소판이며, 타이베이시 내에 있지 않습니다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/geography/new-taipei-city",
-    "readingTime": 124,
+    "readingTime": 131,
     "featured": false,
     "date": "2026-05-18",
     "path": "ko/Geography/new-taipei-city.md"
@@ -127247,6 +128607,17 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "ko/Culture/penghu-folk-culture.md"
+  },
+  {
+    "title": "펑후현: 두 차례의 카지노 거부, 쥐섬이 선택한 것은 가난하지 않음",
+    "description": "2009년 9월 26일, 마공 선거에서 반대 17,359표, 카지노는 3,962표를 잃었다. 7년 후인 2016년에 다시 투표했는데, 반대 81.07%였다. 연 강수량이 1,000mm에 불과하고 등록 인구 10만 8천 명 중 실제 거주자는 8만 명뿐인 이 도서는 전국 최초의 지역 도박 공론화를 실시했고, 다시 한번 투표했다. 같은 해역에서 1604년 심유용이 네덜란드인을 퇴각시켰고, 1622년 네덜란드인은 풍궤위에서 타이난으로 이동했으며, 1885년 프랑스 군 사령관 고파가 마궁항에서 병사했다. 1,740만 년 된 현무암 기둥은 여전히 남아 있고, 89개의 섬은 검은 화산암이며, 1개는 더 오래된 안산암이다. 겨울철 채소밭 돌담에는 바람을 등지고 작물이 자라고 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/geography/penghu-county",
+    "readingTime": 85,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "ko/Geography/penghu-county.md"
   },
   {
     "title": "페가트론(Pegatron) - 전자 위탁생산의 숨은 강자",
