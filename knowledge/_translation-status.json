@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T10:32:48+08:00",
-    "zhCommitHead": "0e00a46ea",
+    "lastUpdated": "2026-09-10T10:43:43+08:00",
+    "zhCommitHead": "9f75a8641",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 655,
+        "fresh": 656,
         "stale": 39,
         "metadata_stale": 10,
-        "missing": 417,
+        "missing": 416,
         "orphan": 0
       },
       "ar": {
@@ -33292,8 +33292,8 @@
           "sourceContentHash": "sha256:8199dcc4edeb2fce",
           "sourceBodyHash": "sha256:de7228ea44ad062e",
           "translatedAt": "2026-09-10T03:36:10+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "9f75a864",
+          "translationLastModified": "2026-09-10T10:32:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -136471,7 +136471,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/yunlin-county.md",
+          "translatedFrom": "Geography/雲林縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:189f50627b664502",
+          "sourceBodyHash": "sha256:7144cde6e4cd475f",
+          "translatedAt": "2026-09-10T03:36:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/yunlin-county.md",
@@ -148321,8 +148332,8 @@
           "sourceContentHash": "sha256:82a373ca1ee51cf4",
           "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
           "translatedAt": "2026-09-10T03:36:10+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "9f75a864",
+          "translationLastModified": "2026-09-10T10:32:49+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
