@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v5.31'
 last_updated: 2026-09-11
-last_session: '2026-09-11-003635-twmd-babel-nightly（#57 補「cron 排程窗口跟 dispatcher 實際續跑時長脫節」延伸子規則，pattern babel-dispatcher-outlives-cron-window 連續三晚獨立撞見同一 PID 52743 達 vc=3 門檻從 LESSONS-INBOX buffer 升 canonical，#N 條數維持 95，無新編號）'
+last_session: '2026-09-11-070946-twmd-feedback-triage（#91 補第 5 次驗證：memory 檔寫了但 MEMORY.md 索引沒補列，全庫 1400 份有 171 份無索引列，lint 只驗長度量不出缺席；未新增 #N、未動閘門）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -1066,7 +1066,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 - **觸發**：2026-07-26 twmd-self-evolve-weekly 全表對賬揪出 `twmd-routine-sync`／`twmd-supporters-weekly` 兩條 routine 誕生時漏登記進 ROUTINE.md 排程表（違反本檔第 50 行「新 routine 誕生必須同 commit 補表」，僥倖靠 fallback 沒現形）→ 2026-08-02 twmd-self-evolve-weekly 再指出「vc=1 只證明登記處只出現一次，不證明這件事只發生一次」——連「反覆次數」這個計數本身都是一種登記，登記不全會讓次數被低估 → 2026-08-06 goal-自我進化 diary 把三個獨立 instance 並排看出同一個債務形狀轉變：引擎造好但需求佇列不知道／新寫法長出來但型別表裝不下／臨場發明的席位沒被 canonical 收編，「建造的速度超過了命名的速度，於是知識開始在自己體內失散」→ 2026-08-16 twmd-weekly-report-sun 撞見第四例：切菜工具的「本週交付文章」章節逢空白就整節消失，因為它沒有登記「有交付但沒進本週分類」跟「真的沒交付」的差別，當場修法是永遠印該節、空的時候印警告附最後一筆日期
 - **操作**：新能力（工具／pipeline／型別／分類／臨場角色）誕生的當下，順手問一句「這個東西的登記表在哪裡，我寫進去了嗎？」。**已有機械對賬的子案例維持機械**：routine 誕生 → `routine-sync-check.py` 三層對賬（daily cron 已連續 22+ 輪零漂移）；GA4 event param → `instrumentation-audit.py` 三方對齊（CI gate）。**沒有機械對賬的子案例維持人工提問，不強行造一個通用登記檢查器**——vc=4 尚不足以支撐一個新的跨域儀器，硬造會重演 2026-05-28「儀器化也會 over-engineer」的教訓（見 MEMORY §神經迴路同日條目）
-- **驗證**：4 次（routine 登記表漏填 / self-evolve 計數簿本身的登記盲點 / 引擎+型別+席位三個並列 instance / weekly-report 交付分類登記缺口）
+- **驗證**：5 次（routine 登記表漏填 / self-evolve 計數簿本身的登記盲點 / 引擎+型別+席位三個並列 instance / weekly-report 交付分類登記缺口 / 2026-09-11 twmd-feedback-triage 撞見 memory 檔寫了但 MEMORY.md 索引沒補列——同日 07:15 的 spore-harvest 班寫完 memory 檔就收工，索引那一列沒寫，而 `memory-index-lint.py` 只驗最新一列的長度，量不出「該有一列卻沒有」；全庫對賬 1400 份 memory 檔有 171 份沒有對應索引列。本班補上今天缺的兩列，171 份的歷史清理與「要不要讓 lint 多一道缺席檢查」屬閘門設計，留 distill／self-evolve 判）
 - **元規則**：跟 #86（session-id handle fallback 讓命名跟內容脫鉤）、#88（轉錄+保管雙職責 routine 保管那半靜默消失）、#89（cron 工具清單登記漂移）是同一個「登記層」家族的四個不同載體——命名登記／保管登記／工具登記／一般性建造登記。本條是收斂這個家族的通用陳述，不重複前三條各自的操作細節。
 
 ---
