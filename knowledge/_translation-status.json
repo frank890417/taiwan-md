@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T09:46:35+08:00",
-    "zhCommitHead": "daeb024d6",
+    "lastUpdated": "2026-09-10T09:54:02+08:00",
+    "zhCommitHead": "0a45d57b2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 581,
+        "fresh": 582,
         "stale": 49,
         "metadata_stale": 11,
-        "missing": 480,
+        "missing": 479,
         "orphan": 0
       },
       "pt": {
@@ -87661,7 +87661,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/yu-yong-he.md",
+          "translatedFrom": "People/郁永河.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4070459913f1808f",
+          "sourceBodyHash": "sha256:f14cb1a2a50dc23e",
+          "translatedAt": "2026-09-10T03:36:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/yu-yong-he.md",
@@ -131621,8 +131632,8 @@
           "sourceContentHash": "sha256:7893a2743008a706",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T19:36:57.724782+00:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "0a45d57b",
+          "translationLastModified": "2026-09-10T09:46:35+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -134930,8 +134941,8 @@
           "sourceContentHash": "sha256:53588f1af78c53bd",
           "sourceBodyHash": "sha256:83c1d8ae2ebcca91",
           "translatedAt": "2026-09-10T03:36:08+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "0a45d57b",
+          "translationLastModified": "2026-09-10T09:46:35+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
