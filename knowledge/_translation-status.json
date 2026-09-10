@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T10:58:02+08:00",
-    "zhCommitHead": "c2d55c11d",
+    "lastUpdated": "2026-09-10T12:02:50+08:00",
+    "zhCommitHead": "6b461be40",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 694,
+        "fresh": 699,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 266,
+        "missing": 261,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 582,
+        "fresh": 584,
         "stale": 49,
         "metadata_stale": 11,
-        "missing": 479,
+        "missing": 477,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 715,
+        "fresh": 716,
         "stale": 46,
         "metadata_stale": 15,
-        "missing": 345,
+        "missing": 344,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 155,
+        "fresh": 157,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 959,
+        "missing": 957,
         "orphan": 0
       }
     },
@@ -30290,7 +30290,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Art/contemporary-art.md",
+          "translatedFrom": "Art/當代藝術.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:cff95ee8efddcd2b",
+          "sourceBodyHash": "sha256:33541e305c90768c",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/contemporary-art.md",
@@ -43744,7 +43755,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/mingjian-incinerator.md",
+          "translatedFrom": "Society/名間焚化爐.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c4441b48a65d0629",
+          "sourceBodyHash": "sha256:8f8b961fdb887c42",
+          "translatedAt": "2026-09-10T03:36:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/mingjian-incinerator.md",
@@ -60122,7 +60144,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Nature/cetaceans-of-taiwan.md",
+          "translatedFrom": "Nature/臺灣的鯨豚.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:fa8568c6d129180a",
+          "sourceBodyHash": "sha256:7c0ff1bf77404541",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/cetaceans-of-taiwan.md",
@@ -67680,7 +67713,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/henry-lee-forensic.md",
+          "translatedFrom": "People/李昌鈺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d64c72cf7c6361d3",
+          "sourceBodyHash": "sha256:6f5a343122533934",
+          "translatedAt": "2026-09-10T03:36:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/henry-lee-forensic.md",
@@ -86639,7 +86683,18 @@
           "reason": "sha-lost-body-match"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
+          "translatedFrom": "People/陳樹菊.md",
+          "sourceCommitSha": "2344309a0",
+          "sourceContentHash": "sha256:2acd1adc35abda8a",
+          "sourceBodyHash": "sha256:0e9eced4546d8cba",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
@@ -94031,7 +94086,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/wu-bai.md",
+          "translatedFrom": "People/伍佰.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:2dda34fc81c78056",
+          "sourceBodyHash": "sha256:fb05d9869b96635c",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/wu-bai.md",
@@ -100119,7 +100185,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/tai-yu-wu.md",
+          "translatedFrom": "People/吳大猷.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:ea84edf10c10d1a4",
+          "sourceBodyHash": "sha256:54cafe2c5032e30e",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/tai-yu-wu.md",
@@ -110458,8 +110535,8 @@
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
           "translatedAt": "2026-09-10T03:36:13+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "6b461be4",
+          "translationLastModified": "2026-09-10T10:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -128761,8 +128838,8 @@
           "sourceContentHash": "sha256:1b50bc175ecf61ab",
           "sourceBodyHash": "sha256:e725ecac1936b5cf",
           "translatedAt": "2026-09-10T03:36:13+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6b461be4",
+          "translationLastModified": "2026-09-10T10:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -133937,7 +134014,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/taoyuan-city.md",
+          "translatedFrom": "Geography/桃園市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e1b425fa54b86b70",
+          "sourceBodyHash": "sha256:74aa4f956a297b47",
+          "translatedAt": "2026-09-10T03:36:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/taoyuan-city.md",
@@ -142554,7 +142642,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-church-news.md",
+          "translatedFrom": "Culture/台灣教會公報.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:3439ffa9774025fa",
+          "sourceBodyHash": "sha256:2e121ca67feccc95",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -154746,7 +154845,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-paper-umbrella.md",
+          "translatedFrom": "Culture/紙傘.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2b63bb823fbdea45",
+          "sourceBodyHash": "sha256:6966802b8bb41d32",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
