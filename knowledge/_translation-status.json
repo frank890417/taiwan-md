@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T02:26:32+08:00",
-    "zhCommitHead": "f377310e9",
+    "lastUpdated": "2026-09-11T02:53:32+08:00",
+    "zhCommitHead": "df391870c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 603,
+        "fresh": 605,
         "stale": 49,
-        "metadata_stale": 10,
-        "missing": 459,
+        "metadata_stale": 9,
+        "missing": 458,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 177,
+        "fresh": 179,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 937,
+        "missing": 935,
         "orphan": 0
       }
     },
@@ -898,8 +898,8 @@
           "sourceContentHash": "sha256:c3347c2a085cddc9",
           "sourceBodyHash": "sha256:8f0c4cf2e72a96b9",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df391870",
+          "translationLastModified": "2026-09-11T02:26:33+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -15494,8 +15494,8 @@
           "sourceContentHash": "sha256:ae9b504389b6e4fd",
           "sourceBodyHash": "sha256:318b91e549ea3a09",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df391870",
+          "translationLastModified": "2026-09-11T02:26:33+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -69904,8 +69904,8 @@
           "sourceContentHash": "sha256:81d60bf0143f4da3",
           "sourceBodyHash": "sha256:a8a07476ede69bdb",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df391870",
+          "translationLastModified": "2026-09-11T02:26:33+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -72534,8 +72534,8 @@
           "sourceContentHash": "sha256:e8fd773cb48092fd",
           "sourceBodyHash": "sha256:7b3ecc631545bac9",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df391870",
+          "translationLastModified": "2026-09-11T02:26:33+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -76186,8 +76186,8 @@
           "sourceContentHash": "sha256:171a521ab055d1cf",
           "sourceBodyHash": "sha256:eb36a190f4b7ada8",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df391870",
+          "translationLastModified": "2026-09-11T02:26:33+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -108192,7 +108192,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/xiao-qing-yang-grammy-designer.md",
+          "translatedFrom": "People/蕭青陽.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:0a577177f15f5897",
+          "sourceBodyHash": "sha256:269ea0687b8a4a49",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/xiao-qing-yang-grammy-designer.md",
@@ -111012,18 +111023,16 @@
         "id": {
           "path": "id/Food/taiwan-sauces-and-seasonings.md",
           "translatedFrom": "Food/台灣醬料與調味.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
-          "sourceBodyHash": "sha256:165e3d5c431f4c83",
-          "translatedAt": "2026-07-25T07:55:54+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2aabcc7bbabb4a16",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T18:49:21.026114+00:00",
           "translationLastCommit": "01bf696c",
           "translationLastModified": "2026-07-25T08:39:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwan-sauces-and-seasonings.md",
@@ -118175,7 +118184,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/wheel-cakes-imagawayaki.md",
+          "translatedFrom": "Food/車輪餅.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:75886d0c9c5c9b1f",
+          "sourceBodyHash": "sha256:b1f515f692de800c",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -134940,7 +134960,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/yehliu-geopark.md",
+          "translatedFrom": "Geography/野柳.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:061c7b5484113eed",
+          "sourceBodyHash": "sha256:e080c9e068d13667",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -145939,8 +145970,8 @@
           "sourceContentHash": "sha256:9d5872fcc273adaa",
           "sourceBodyHash": "sha256:bdae339216a98cc2",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "df391870",
+          "translationLastModified": "2026-09-11T02:26:33+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
