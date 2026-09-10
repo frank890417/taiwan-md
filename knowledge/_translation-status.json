@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T02:53:32+08:00",
-    "zhCommitHead": "df391870c",
+    "lastUpdated": "2026-09-11T04:13:00+08:00",
+    "zhCommitHead": "e9c96d80c",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 605,
+        "fresh": 608,
         "stale": 49,
         "metadata_stale": 9,
-        "missing": 458,
+        "missing": 455,
         "orphan": 0
       },
       "pt": {
@@ -2798,7 +2798,18 @@
           "diffSummary": "+1 -1"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/little-tigers-taiwan-boy-band.md",
+          "translatedFrom": "Music/小虎隊.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:3550fb52e312828d",
+          "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/little-tigers-taiwan-boy-band.md",
@@ -12597,7 +12608,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/zhongli.md",
+          "translatedFrom": "Economy/中壢.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
+          "sourceBodyHash": "sha256:e4265d915ae6599c",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/zhongli.md",
@@ -84245,7 +84267,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/freddy-lim.md",
+          "translatedFrom": "People/林昶佐.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:685b3a0c30829488",
+          "sourceBodyHash": "sha256:dfd669296348affb",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/freddy-lim.md",
@@ -118190,8 +118223,8 @@
           "sourceContentHash": "sha256:75886d0c9c5c9b1f",
           "sourceBodyHash": "sha256:b1f515f692de800c",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e9c96d80",
+          "translationLastModified": "2026-09-11T02:53:33+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -121075,8 +121108,8 @@
           "sourceContentHash": "sha256:69baf41d38c3c7aa",
           "sourceBodyHash": "sha256:3ae76649f6776188",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e9c96d80",
+          "translationLastModified": "2026-09-11T02:53:33+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -134966,8 +134999,8 @@
           "sourceContentHash": "sha256:061c7b5484113eed",
           "sourceBodyHash": "sha256:e080c9e068d13667",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e9c96d80",
+          "translationLastModified": "2026-09-11T02:53:33+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -135645,8 +135678,8 @@
           "sourceContentHash": "sha256:977c64498b20b961",
           "sourceBodyHash": "sha256:71b9d132fec3feff",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e9c96d80",
+          "translationLastModified": "2026-09-11T02:53:33+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -136172,8 +136205,8 @@
           "sourceContentHash": "sha256:9369d7f73b449799",
           "sourceBodyHash": "sha256:efc3d350be263a65",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e9c96d80",
+          "translationLastModified": "2026-09-11T02:53:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -137080,8 +137113,8 @@
           "sourceContentHash": "sha256:9dea4a4cafb753d9",
           "sourceBodyHash": "sha256:4398643bac3fb675",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e9c96d80",
+          "translationLastModified": "2026-09-11T02:53:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -139998,8 +140031,8 @@
           "sourceContentHash": "sha256:1c19912f3b7cdf1b",
           "sourceBodyHash": "sha256:ff4a4e3156ba7d86",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e9c96d80",
+          "translationLastModified": "2026-09-11T02:53:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
