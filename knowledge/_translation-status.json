@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T00:36:34+08:00",
-    "zhCommitHead": "fa80fb7a0",
+    "lastUpdated": "2026-09-11T00:53:54+08:00",
+    "zhCommitHead": "bdfe1ee79",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 171,
+        "fresh": 172,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 943,
+        "missing": 942,
         "orphan": 0
       }
     },
@@ -57876,8 +57876,8 @@
           "sourceContentHash": "sha256:c51eb1a165d6a2f5",
           "sourceBodyHash": "sha256:99620fa1348fdcfe",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "64ed9b30",
+          "translationLastModified": "2026-09-11T00:36:35+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -95383,8 +95383,8 @@
           "sourceContentHash": "sha256:d4657223bb8bff5e",
           "sourceBodyHash": "sha256:5791cbc190a21f96",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "64ed9b30",
+          "translationLastModified": "2026-09-11T00:36:35+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -121035,8 +121035,8 @@
           "sourceContentHash": "sha256:dd0456fc58fe6d55",
           "sourceBodyHash": "sha256:f4c2468d7055a6c1",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "64ed9b30",
+          "translationLastModified": "2026-09-11T00:36:35+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -121659,7 +121659,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/rover-incident-and-tauketok.md",
+          "translatedFrom": "History/羅發號事件與卓杞篤.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4e90be2fbc74d7ed",
+          "sourceBodyHash": "sha256:38c21c047f01bdbf",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -124366,8 +124377,8 @@
           "sourceContentHash": "sha256:7935e86b210536e5",
           "sourceBodyHash": "sha256:dd15e8c65b7a98f1",
           "translatedAt": "2026-09-10T18:19:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "64ed9b30",
+          "translationLastModified": "2026-09-11T00:36:35+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
