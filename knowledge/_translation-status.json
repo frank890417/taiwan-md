@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T00:53:54+08:00",
-    "zhCommitHead": "bdfe1ee79",
+    "lastUpdated": "2026-09-11T01:02:03+08:00",
+    "zhCommitHead": "12eba8a84",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 716,
+        "fresh": 717,
         "stale": 82,
         "metadata_stale": 77,
-        "missing": 246,
+        "missing": 245,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 597,
+        "fresh": 598,
         "stale": 49,
         "metadata_stale": 10,
-        "missing": 465,
+        "missing": 464,
         "orphan": 0
       },
       "pt": {
@@ -15468,7 +15468,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md",
+          "translatedFrom": "Economy/台灣企業：奇美實業.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:ae9b504389b6e4fd",
+          "sourceBodyHash": "sha256:318b91e549ea3a09",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md",
@@ -85098,7 +85109,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/a-mei.md",
+          "translatedFrom": "People/張惠妹.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:aebfe56ef8181ee0",
+          "sourceBodyHash": "sha256:2548692a01191648",
+          "translatedAt": "2026-09-10T18:19:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/a-mei.md",
@@ -117886,8 +117908,8 @@
           "sourceContentHash": "sha256:547ccdf1b16e61de",
           "sourceBodyHash": "sha256:a7a3d68abd8527fd",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "12eba8a8",
+          "translationLastModified": "2026-09-11T00:53:54+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -121665,8 +121687,8 @@
           "sourceContentHash": "sha256:4e90be2fbc74d7ed",
           "sourceBodyHash": "sha256:38c21c047f01bdbf",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "12eba8a8",
+          "translationLastModified": "2026-09-11T00:53:54+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -137723,8 +137745,8 @@
           "sourceContentHash": "sha256:fac289c302ac2b36",
           "sourceBodyHash": "sha256:fa7af530be8a582c",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "12eba8a8",
+          "translationLastModified": "2026-09-11T00:53:54+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
