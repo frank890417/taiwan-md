@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T08:50:07+08:00",
-    "zhCommitHead": "e6fff518a",
+    "lastUpdated": "2026-09-10T09:01:24+08:00",
+    "zhCommitHead": "291d5740f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,9 +76,9 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 785,
+        "fresh": 786,
         "stale": 67,
-        "metadata_stale": 16,
+        "metadata_stale": 15,
         "missing": 253,
         "orphan": 0
       },
@@ -84256,8 +84256,8 @@
           "sourceContentHash": "sha256:eecabb61bafa58a4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-09T18:21:24.237376+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "291d5740",
+          "translationLastModified": "2026-09-10T08:50:08+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "status": "fresh",
@@ -139529,18 +139529,16 @@
         "pt": {
           "path": "pt/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-27T01:41:51+08:00",
+          "translatedAt": "2026-09-10T03:36:21+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/taichung-city.md",
@@ -139831,8 +139829,8 @@
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
           "translatedAt": "2026-09-10T03:36:15+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "291d5740",
+          "translationLastModified": "2026-09-10T08:50:08+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
