@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T14:22:35+08:00",
-    "zhCommitHead": "09cf75624",
+    "lastUpdated": "2026-09-10T15:40:36+08:00",
+    "zhCommitHead": "880af9539",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 705,
+        "fresh": 706,
         "stale": 82,
         "metadata_stale": 78,
-        "missing": 256,
+        "missing": 255,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 587,
+        "fresh": 588,
         "stale": 49,
         "metadata_stale": 10,
-        "missing": 475,
+        "missing": 474,
         "orphan": 0
       },
       "pt": {
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 658,
-        "stale": 39,
+        "fresh": 659,
+        "stale": 38,
         "metadata_stale": 10,
         "missing": 414,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 160,
+        "fresh": 162,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 954,
+        "missing": 952,
         "orphan": 0
       }
     },
@@ -617,7 +617,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/choir.md",
+          "translatedFrom": "Music/合唱團.md",
+          "sourceCommitSha": "9b94676e6",
+          "sourceContentHash": "sha256:7f725ed43315bb56",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T07:04:47.498069+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12600,8 +12611,8 @@
           "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
           "sourceBodyHash": "sha256:e4265d915ae6599c",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "880af953",
+          "translationLastModified": "2026-09-10T14:22:35+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -17648,16 +17659,16 @@
         "hi": {
           "path": "hi/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b344ec326785b46d",
-          "sourceBodyHash": "sha256:a5b8490e2fd9be42",
-          "translatedAt": "2026-07-26T08:50:59+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bbdb130f551a69e8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T07:26:52.731962+00:00",
           "translationLastCommit": "bbbc2b9b",
           "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (55→0)"
+          "footnoteDefs": 55,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/threads-in-taiwan.md",
@@ -43045,7 +43056,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/zoo-and-exhibition-animal-ethics.md",
+          "translatedFrom": "Society/動物園與展演動物倫理.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:942c806351e32e6f",
+          "sourceBodyHash": "sha256:d25050b0162be631",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/zoo-and-exhibition-animal-ethics.md",
@@ -46043,7 +46065,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-indigenous-education-and-language-revival.md",
+          "translatedFrom": "Society/台灣原住民族教育與語言復振的交界.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:976815861db5ed08",
+          "sourceBodyHash": "sha256:57d3b8ceecf4a7d0",
+          "translatedAt": "2026-09-10T03:36:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-indigenous-education-and-language-revival.md",
@@ -142280,8 +142313,8 @@
           "sourceContentHash": "sha256:a9ec01947f1e86fd",
           "sourceBodyHash": "sha256:5921893fd25166ac",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "880af953",
+          "translationLastModified": "2026-09-10T14:22:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -153321,8 +153354,8 @@
           "sourceContentHash": "sha256:96026947f084b369",
           "sourceBodyHash": "sha256:147f1c5986f4274b",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "880af953",
+          "translationLastModified": "2026-09-10T14:22:35+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -153877,7 +153910,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-variety-shows.md",
+          "translatedFrom": "Culture/台灣綜藝.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a2572613f79ed394",
+          "sourceBodyHash": "sha256:e10637f3a982deb1",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
