@@ -348,3 +348,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-11 | 003635-twmd-babel-nightly | 同一 dispatcher 第三晚未收工，三重巡檢確認真活著；達 vc=3，升 REFLEXES #57 + OBSERVER-QUEUE #53 | 升級動作要分層：結構判斷可自主升層，要不要改行為留給哲宇拍板 | [→](memory/2026-09-11-003635-twmd-babel-nightly.md) |
 | 2026-09-11 | 053732-twmd-routine-sync | 第 45 輪對賬 18/18 in-sync 連續第四輪零漂移；同一 dispatcher 第四夜仍未收工（elapsed 77h），分岔擴大至 ahead101/behind130 | 照抄工具原始輸出格式比自己心算轉述更準確 | [→](memory/2026-09-11-053732-twmd-routine-sync.md) |
 | 2026-09-11 | 054338-twmd-embeddings-nightly | 13 語 10,393 向量 0 fail（de 187 連四夜爬升，ground truth 核對非故障）；commit `ce6987a9b` 落地但因真分岔（ahead103/behind130）延遲 push | 字面照抄 pipeline 的 `git push origin main` 在真分岔狀態下是危險動作，不是機械步驟 | [→](memory/2026-09-11-054338-twmd-embeddings-nightly.md) |
+| 2026-09-11 | 061055-twmd-data-refresh-am | 第四個排程窗撞見同一 dispatcher，Step 1 讓場、Step 2-14 全綠零 stale；scope 驗證 37 檔乾淨 commit `bbdab8fb4` | 連續多次撞見同一訊號後，驗證步驟本身不能因為熟練而省略 | [→](memory/2026-09-11-061055-twmd-data-refresh-am.md) |
