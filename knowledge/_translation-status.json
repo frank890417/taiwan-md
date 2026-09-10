@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T22:08:56+08:00",
-    "zhCommitHead": "65f01e2d1",
+    "lastUpdated": "2026-09-10T22:35:07+08:00",
+    "zhCommitHead": "1bf85e9ae",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 797,
+        "fresh": 798,
         "stale": 81,
-        "metadata_stale": 20,
+        "metadata_stale": 19,
         "missing": 223,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 713,
+        "fresh": 714,
         "stale": 82,
         "metadata_stale": 77,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       },
       "id": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 169,
+        "fresh": 171,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 945,
+        "missing": 943,
         "orphan": 0
       }
     },
@@ -68027,7 +68027,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/huang-brothers-youtubers.md",
+          "translatedFrom": "People/黃氏兄弟.md",
+          "sourceCommitSha": "edae9fc94",
+          "sourceContentHash": "sha256:9cd24907e804d8a5",
+          "sourceBodyHash": "sha256:3bfd8aa37bf0451b",
+          "translatedAt": "2026-09-10T18:19:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -80026,8 +80037,8 @@
           "sourceContentHash": "sha256:18c213bcb30e6393",
           "sourceBodyHash": "sha256:8f9570ec5e03bedf",
           "translatedAt": "2026-09-10T18:19:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1bf85e9a",
+          "translationLastModified": "2026-09-10T22:08:56+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -86853,8 +86864,8 @@
           "sourceContentHash": "sha256:2acd1adc35abda8a",
           "sourceBodyHash": "sha256:0e9eced4546d8cba",
           "translatedAt": "2026-09-10T18:19:02+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "1bf85e9a",
+          "translationLastModified": "2026-09-10T22:08:56+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -86907,16 +86918,16 @@
         "fr": {
           "path": "fr/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
           "translatedFrom": "People/陳樹菊.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:884e3106e00c3ed4",
+          "sourceCommitSha": "2344309a0",
+          "sourceContentHash": "sha256:2acd1adc35abda8a",
           "sourceBodyHash": "sha256:0e9eced4546d8cba",
-          "translatedAt": "2026-05-17T06:15:00Z",
+          "translatedAt": "2026-09-10T18:19:10+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "metadata-stale",
-          "reason": "sha-lost-body-match"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
@@ -117840,7 +117851,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/taiwan-coffee-culture.md",
+          "translatedFrom": "Food/台灣咖啡文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:547ccdf1b16e61de",
+          "sourceBodyHash": "sha256:a7a3d68abd8527fd",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -137655,7 +137677,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/yushan-jade-mountain.md",
+          "translatedFrom": "Geography/玉山.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:fac289c302ac2b36",
+          "sourceBodyHash": "sha256:fa7af530be8a582c",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
