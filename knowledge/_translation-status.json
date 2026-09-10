@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T10:06:02+08:00",
-    "zhCommitHead": "237df1b3b",
+    "lastUpdated": "2026-09-10T10:21:21+08:00",
+    "zhCommitHead": "e3dc09986",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 691,
+        "fresh": 692,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 269,
+        "missing": 268,
         "orphan": 0
       },
       "id": {
@@ -79804,8 +79804,8 @@
           "sourceContentHash": "sha256:18c213bcb30e6393",
           "sourceBodyHash": "sha256:8f9570ec5e03bedf",
           "translatedAt": "2026-09-10T03:36:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e3dc0998",
+          "translationLastModified": "2026-09-10T10:06:02+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -101580,7 +101580,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/lin-yi-hsiung-democracy-advocate-tragedy-survivor.md",
+          "translatedFrom": "People/林義雄.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:3847058fd0c4df1f",
+          "sourceBodyHash": "sha256:d277949bee5011bb",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -139904,8 +139915,8 @@
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
           "translatedAt": "2026-09-10T03:36:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e3dc0998",
+          "translationLastModified": "2026-09-10T10:06:02+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
