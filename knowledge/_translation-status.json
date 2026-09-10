@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T09:01:24+08:00",
-    "zhCommitHead": "291d5740f",
+    "lastUpdated": "2026-09-10T09:25:38+08:00",
+    "zhCommitHead": "b1810b549",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 803,
+        "fresh": 804,
         "stale": 77,
-        "metadata_stale": 19,
+        "metadata_stale": 18,
         "missing": 222,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 152,
+        "fresh": 153,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 962,
+        "missing": 961,
         "orphan": 0
       }
     },
@@ -8400,8 +8400,8 @@
           "sourceContentHash": "sha256:dadf1d689c0dbe2c",
           "sourceBodyHash": "sha256:2a507ef221850519",
           "translatedAt": "2026-09-10T03:36:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b1810b54",
+          "translationLastModified": "2026-09-10T09:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -137651,18 +137651,16 @@
         "ko": {
           "path": "ko/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "dd6cd0156",
-          "sourceContentHash": "sha256:45c3c3aac3c42d62",
-          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
-          "translatedAt": "2026-06-09T03:15:09+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T01:02:42.731212+00:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/penghu-county.md",
@@ -139533,8 +139531,8 @@
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
           "translatedAt": "2026-09-10T03:36:21+08:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "b1810b54",
+          "translationLastModified": "2026-09-10T09:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -150015,7 +150013,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwanese-glove-puppetry-budaixi.md",
+          "translatedFrom": "Culture/布袋戲.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:90bff79aa4402b0e",
+          "sourceBodyHash": "sha256:79bbd46fe867d775",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
