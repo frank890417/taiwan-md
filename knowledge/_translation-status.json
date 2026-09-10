@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T18:18:42+08:00",
-    "zhCommitHead": "8b2bdb77f",
+    "lastUpdated": "2026-09-10T20:23:02+08:00",
+    "zhCommitHead": "b63eb5916",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 802,
+        "fresh": 803,
         "stale": 80,
         "metadata_stale": 18,
-        "missing": 221,
+        "missing": 220,
         "orphan": 0
       },
       "ja": {
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 804,
+        "fresh": 805,
         "stale": 77,
-        "metadata_stale": 18,
+        "metadata_stale": 17,
         "missing": 222,
         "orphan": 0
       },
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 706,
+        "fresh": 708,
         "stale": 82,
-        "metadata_stale": 78,
-        "missing": 255,
+        "metadata_stale": 77,
+        "missing": 254,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 588,
+        "fresh": 593,
         "stale": 49,
         "metadata_stale": 10,
-        "missing": 474,
+        "missing": 469,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 162,
+        "fresh": 165,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 952,
+        "missing": 949,
         "orphan": 0
       }
     },
@@ -623,8 +623,8 @@
           "sourceContentHash": "sha256:7f725ed43315bb56",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T07:04:47.498069+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b63eb591",
+          "translationLastModified": "2026-09-10T18:18:42+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -9077,7 +9077,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-enterprise-fubon-financial.md",
+          "translatedFrom": "Economy/台灣企業：富邦金控.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:17799d817d240ba2",
+          "sourceBodyHash": "sha256:1b85009498a2a6bb",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-enterprise-fubon-financial.md",
@@ -22981,7 +22992,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/digital-id-and-digital-government.md",
+          "translatedFrom": "Technology/數位身分證與數位政府.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:06fbc10ed01b5aa5",
+          "sourceBodyHash": "sha256:f5b7d5b360840e4c",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/digital-id-and-digital-government.md",
@@ -23137,7 +23159,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/east-asian-input-methods.md",
+          "translatedFrom": "Technology/東亞文字輸入法.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:d8c6f0fd322ce1e4",
+          "sourceBodyHash": "sha256:c009ff8e72f638e1",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/east-asian-input-methods.md",
@@ -24189,7 +24222,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-software-industry-development.md",
+          "translatedFrom": "Technology/台灣軟體產業發展.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:e6d1dafa422fe928",
+          "sourceBodyHash": "sha256:1d51e9aba96f7253",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-software-industry-development.md",
@@ -32791,7 +32835,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Art/contemporary-taiwanese-literature.md",
+          "translatedFrom": "Art/當代台灣文學.md",
+          "sourceCommitSha": "4d7fab8ee",
+          "sourceContentHash": "sha256:c4bd59992f27e4d2",
+          "sourceBodyHash": "sha256:61a341569aa8edad",
+          "translatedAt": "2026-09-10T18:19:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -68318,7 +68373,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chen-yingzhen.md",
+          "translatedFrom": "People/陳映真.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:f3b9ab94d7f541be",
+          "sourceBodyHash": "sha256:8eae051539404383",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chen-yingzhen.md",
@@ -76231,7 +76297,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/mavis-fan-singer.md",
+          "translatedFrom": "People/范曉萱.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:e292cad27370cab5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T12:07:53.184848+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -79921,7 +79998,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/tgop.md",
+          "translatedFrom": "People/這群人.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:18c213bcb30e6393",
+          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
+          "translatedAt": "2026-09-10T18:19:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -84447,18 +84535,16 @@
         "vi": {
           "path": "vi/People/mona-rudao.md",
           "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "d5ca846b6",
-          "sourceContentHash": "sha256:a925dd382d90f176",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T10:19:40.699880+00:00",
           "translationLastCommit": "92d19d6a",
           "translationLastModified": "2026-08-09T10:38:06+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/mona-rudao.md",
@@ -120048,7 +120134,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/yuan-xing-cattle-beef-soup-history.md",
+          "translatedFrom": "History/源興牛與牛肉湯的歷史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ed10e8c11ed48896",
+          "sourceBodyHash": "sha256:4ef8874799781420",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -131905,18 +132002,16 @@
         "ko": {
           "path": "ko/Geography/new-taipei-city.md",
           "translatedFrom": "Geography/新北市.md",
-          "sourceCommitSha": "4aa49c873",
-          "sourceContentHash": "sha256:112ba1c658fb3b9a",
-          "sourceBodyHash": "sha256:8f043620c961da1e",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7893a2743008a706",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T10:19:55.154849+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+18 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/new-taipei-city.md",
@@ -139166,7 +139261,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taipei-101.md",
+          "translatedFrom": "Geography/台北101.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2b98bb25fe4e7d4a",
+          "sourceBodyHash": "sha256:d565775868e89ffc",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -153947,8 +154053,8 @@
           "sourceContentHash": "sha256:a2572613f79ed394",
           "sourceBodyHash": "sha256:e10637f3a982deb1",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b63eb591",
+          "translationLastModified": "2026-09-10T18:18:42+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
