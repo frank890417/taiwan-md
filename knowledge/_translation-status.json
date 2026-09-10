@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T12:02:50+08:00",
-    "zhCommitHead": "6b461be40",
+    "lastUpdated": "2026-09-10T12:20:05+08:00",
+    "zhCommitHead": "59bc5a1c0",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,17 +60,17 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 699,
+        "fresh": 700,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 261,
+        "missing": 260,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 584,
+        "fresh": 585,
         "stale": 49,
-        "metadata_stale": 11,
+        "metadata_stale": 10,
         "missing": 477,
         "orphan": 0
       },
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 716,
+        "fresh": 717,
         "stale": 46,
         "metadata_stale": 15,
-        "missing": 344,
+        "missing": 343,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 157,
+        "fresh": 158,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 957,
+        "missing": 956,
         "orphan": 0
       }
     },
@@ -3449,18 +3449,16 @@
         "id": {
           "path": "id/Music/bunun-pasibutbut-eight-part-polyphony.md",
           "translatedFrom": "Music/八部合音.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:3c2872e562b3f229",
           "sourceBodyHash": "sha256:43f231d59e183f8e",
-          "translatedAt": "2026-08-31T22:40:00+08:00",
+          "translatedAt": "2026-09-10T03:36:19+08:00",
           "translationLastCommit": "42737f9c",
           "translationLastModified": "2026-08-31T22:23:49+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/bunun-pasibutbut-eight-part-polyphony.md",
@@ -76409,7 +76407,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tsai-heipi.md",
+          "translatedFrom": "People/蔡黑皮.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9fbd2b3b33cadf9a",
+          "sourceBodyHash": "sha256:1cde30bd00a46d49",
+          "translatedAt": "2026-09-10T03:36:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/tsai-heipi.md",
@@ -98788,7 +98797,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/shen-wencheng.md",
+          "translatedFrom": "People/沈文程.md",
+          "sourceCommitSha": "b48dde0cd",
+          "sourceContentHash": "sha256:bdd54d293989cf15",
+          "sourceBodyHash": "sha256:9a3851545dcaaf3c",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/shen-wencheng.md",
@@ -142168,7 +142188,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/elder-greeting-images.md",
+          "translatedFrom": "Culture/長輩圖.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a9ec01947f1e86fd",
+          "sourceBodyHash": "sha256:5921893fd25166ac",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -142648,8 +142679,8 @@
           "sourceContentHash": "sha256:3439ffa9774025fa",
           "sourceBodyHash": "sha256:2e121ca67feccc95",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "59bc5a1c",
+          "translationLastModified": "2026-09-10T12:02:50+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -150589,8 +150620,8 @@
           "sourceContentHash": "sha256:1b722cc963da8ad2",
           "sourceBodyHash": "sha256:b8e419f98d87f2d4",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "59bc5a1c",
+          "translationLastModified": "2026-09-10T12:02:50+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -153911,8 +153942,8 @@
           "sourceContentHash": "sha256:875b7e202aed03cb",
           "sourceBodyHash": "sha256:4b3f831fea6a96bf",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "59bc5a1c",
+          "translationLastModified": "2026-09-10T12:02:50+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -154851,8 +154882,8 @@
           "sourceContentHash": "sha256:2b63bb823fbdea45",
           "sourceBodyHash": "sha256:6966802b8bb41d32",
           "translatedAt": "2026-09-10T03:36:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "59bc5a1c",
+          "translationLastModified": "2026-09-10T12:02:50+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
