@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T10:43:43+08:00",
-    "zhCommitHead": "9f75a8641",
+    "lastUpdated": "2026-09-10T10:58:02+08:00",
+    "zhCommitHead": "c2d55c11d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 797,
+        "fresh": 798,
         "stale": 79,
         "metadata_stale": 19,
-        "missing": 226,
+        "missing": 225,
         "orphan": 0
       },
       "fr": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 692,
+        "fresh": 694,
         "stale": 82,
         "metadata_stale": 79,
-        "missing": 268,
+        "missing": 266,
         "orphan": 0
       },
       "id": {
@@ -54689,7 +54689,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/taiwans-labeling-in-international-standards.md",
+          "translatedFrom": "Society/台灣在國際標準中的標示問題.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:5aa5d3ad7e4d012f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T02:39:58.042430+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwans-labeling-in-international-standards.md",
@@ -69597,7 +69608,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/hsu-shu-ching-olympic-weightlifting-champion.md",
+          "translatedFrom": "People/許淑淨.md",
+          "sourceCommitSha": "0ea5d5d42",
+          "sourceContentHash": "sha256:81d60bf0143f4da3",
+          "sourceBodyHash": "sha256:a8a07476ede69bdb",
+          "translatedAt": "2026-09-10T03:36:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -118474,8 +118496,8 @@
           "sourceContentHash": "sha256:065bf6354c8e6e97",
           "sourceBodyHash": "sha256:c6f4891abde841e9",
           "translatedAt": "2026-09-10T03:36:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c2d55c11",
+          "translationLastModified": "2026-09-10T10:43:43+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -128733,7 +128755,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/taiwan-womens-movement.md",
+          "translatedFrom": "History/婦女運動.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:1b50bc175ecf61ab",
+          "sourceBodyHash": "sha256:e725ecac1936b5cf",
+          "translatedAt": "2026-09-10T03:36:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/taiwan-womens-movement.md",
@@ -136477,8 +136510,8 @@
           "sourceContentHash": "sha256:189f50627b664502",
           "sourceBodyHash": "sha256:7144cde6e4cd475f",
           "translatedAt": "2026-09-10T03:36:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c2d55c11",
+          "translationLastModified": "2026-09-10T10:43:43+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
