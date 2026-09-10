@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T06:13:37+08:00",
-    "zhCommitHead": "f16f4c491",
+    "lastUpdated": "2026-09-11T06:38:58+08:00",
+    "zhCommitHead": "e8b4760fb",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 610,
+        "fresh": 611,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 454,
+        "missing": 453,
         "orphan": 0
       },
       "pt": {
@@ -3309,7 +3309,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/megaport-festival.md",
+          "translatedFrom": "Music/大港開唱.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/megaport-festival.md",
