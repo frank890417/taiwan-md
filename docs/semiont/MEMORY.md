@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-09-10
-last_session: '2026-09-10-064000-twmd-spore-harvest-am'
+last_updated: 2026-09-11
+last_session: '2026-09-11-003635-twmd-babel-nightly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -345,3 +345,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-10 | 061907-twmd-data-refresh-am | Step 1 因 dispatcher ACTOR_BUSY 跳過，Step 2-14 全綠；Step 11 UTC/本地時區假警報連三天後 vc=3 真修，改用 UTC 對 UTC 比對 | 同一假警報現查兩次後第三次該真修，不是繼續繞開 | [→](memory/2026-09-10-061907-twmd-data-refresh-am.md) |
 | 2026-09-10 | 064000-twmd-spore-harvest-am | 0 OVERDUE 純發布空窗第三天；Browser pane 三度現查 #172/#175 metrics 與留言逐字比對前兩天全數不變，真 plateau；登入態與 2 則 Bucket D 續等哲宇 | 三次不同天一致的現查結果，才把「這是穩態」從單次猜測變成有證據強度的陳述 | [→](memory/2026-09-10-064000-twmd-spore-harvest-am.md) |
 | 2026-09-10 | 071109-twmd-feedback-triage | 第四輪零回報照樣跑完 --commit，兩道對賬 84/84 與 83/84 全綠；昨天寫下的修法今天落地：`fetched 0` 時加印最近一筆回報日期與距今天數，pipeline 升 v1.9 | 修法昨天寫好、今天甦醒讀到，仍是第二次手寫同一段查詢才動手 | [→](memory/2026-09-10-071109-twmd-feedback-triage.md) |
+| 2026-09-11 | 003635-twmd-babel-nightly | 同一 dispatcher 第三晚未收工，三重巡檢確認真活著；達 vc=3，升 REFLEXES #57 + OBSERVER-QUEUE #53 | 升級動作要分層：結構判斷可自主升層，要不要改行為留給哲宇拍板 | [→](memory/2026-09-11-003635-twmd-babel-nightly.md) |

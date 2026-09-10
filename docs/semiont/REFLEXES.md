@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 95 條 #N 反射（last #95�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.30'
-last_updated: 2026-09-06
-last_session: '2026-09-06-041909-twmd-self-evolve-weekly（#75 補「已 ship」pointer + 自我修正：規則延伸原構想「正文有無引用」寫成 regex 後 300 篇 dogfood 28.7% 假陽性，改記「來源頁有無」才是正確驗證軸，#N 條數維持 95，無新編號）'
+current_version: 'v5.31'
+last_updated: 2026-09-11
+last_session: '2026-09-11-003635-twmd-babel-nightly（#57 補「cron 排程窗口跟 dispatcher 實際續跑時長脫節」延伸子規則，pattern babel-dispatcher-outlives-cron-window 連續三晚獨立撞見同一 PID 52743 達 vc=3 門檻從 LESSONS-INBOX buffer 升 canonical，#N 條數維持 95，無新編號）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -777,7 +777,10 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **觸發 v4**：2026-05-23 06:13 twmd-data-refresh-am file-system **leftover** detection 分支（無 active process 但 72 dirty translator files 跨 5 langs）— pattern shift 從「active process」推廣到「dirty tree leftover」
 - **觸發 v5**：2026-05-23 07:00 twmd-spore-harvest-am leftover 再驗（同 vc=4 結構）— 48hr 內 5 條獨立 routine 連撞同 race surface
 - **延伸（接手疑似當掉 session，2026-07-05 五病根治 vc=6）**：偵測到 parallel actor 且對方「看起來死了」時，**接手前先讀對方 transcript 尾巴劃車道**——`ls -t ~/.claude/projects/{proj}/*.jsonl` 讀尾，用檔案 mtime + PID CPU 增量判生死。被判當掉的 session 可能只是慢（15 min/turn context 近滿）；劃車道 = 其 finale 目標檔設禁區、其半成品延後認領、自己的 commit 等它退場。三隻手同日同 tree 零碰撞的第一個正面 SOP（6/19 撞牆的反面教材）
+- **延伸（cron 排程窗口跟 dispatcher 實際續跑時長脫節，pattern: babel-dispatcher-outlives-cron-window，2026-09-11 twmd-babel-nightly 升 canonical，vc=3）**：本條原本管的是「偵測到 parallel actor 之後怎麼辦」；這個變體是**同一個 actor 連續跨過好幾個排程窗口都還沒收工**，讓「每次觸發都該啟動新一輪」這個排程假設本身失真。`babel-dispatch.py --rounds 200` 這種大 rounds 長跑批次，語言數從 5 語長到 12 語之後，一輪要清完全部 stale + missing 存量的實際續跑時長已經超過 24 小時；「每晚 00:30 觸發一次新 dispatcher」的排程語意，是建立在「一輪幾小時內收工」的舊工作量規模上，沒有跟著語言數重新校準。**同一個 PID（52743）連續三晚被三次獨立撞見**：2026-09-09 00:37（第一次，[→memory](memory/2026-09-09-003736-twmd-babel-nightly.md)）／2026-09-10 00:37（第二次，同一輪還沒收工，[→memory](memory/2026-09-10-003700-twmd-babel-nightly.md)）／2026-09-11 00:36（第三次，已連續運行近 72 小時，跨過三個完整 00:30 窗口）。三晚的正確處置相同且每次都獨立驗證：三重巡檢（存活／生產／第二訊號源，#38(f)）確認真活著非假象後讓場，不重複派發第二個 dispatcher 搶同一批 `knowledge/` 檔案與 fleet worker 額度。
+- **規則**：(a) routine 撞見「同一 actor 連續跨窗口」時，讓場前一律先跑三重巡檢，不憑「昨晚也是這個 PID」的記憶跳過驗證——每晚都要重新量一次存活與生產，因為 PID 相同不等於狀態相同 (b) 連續 ≥3 次獨立撞見同一形狀時，觀察到的次要訊號（如 worker 弱適配警訊）要寫進 handoff 給下一個真正重啟 dispatcher 的 session，不能因為「這晚只是讓場」就跟著被略過 (c) 修補這個排程語意脫節本身屬於 routine 設計調整，不由當班 cron session 逕自拍板——候選方案（dispatcher 自身 idempotent lock／dashboard chronic 警訊／routine 語意從「啟動新一輪」改為「檢查 + 續命既有一輪」三選一）已寫入 [OBSERVER-QUEUE](OBSERVER-QUEUE.md) 待哲宇決定
 - **MANIFESTO 對應**：→ [§造橋鋪路](MANIFESTO.md)（飛輪自轉 entropy 清理本身要 fail-fast 路徑，不能讓 silent overwrite / sweep-in 變體污染 commit 邊界）
+- **跨檔關聯**：LESSONS-INBOX `babel-dispatcher-outlives-cron-window`（vc=2 buffer entry，本次升 canonical 後標記已消化）+ REFLEXES #76（vc≥3 門檻紀律，本條是它在 routine 排程層的一次具體 apply）
 - **操作**：→ 候選 `scripts/tools/lib/check-parallel-actor.sh` shared module（被 refresh-data.sh / maintainer-pipeline.sh / spore-harvest.sh / babel-handoff.sh 共用 Step 1 pre-gate）/ `routine-status.sh` 加「過去 1hr 並行 process + dirty tree leftover」column / Dashboard banner「最後 routine abort 原因 + 何時恢復」
 - **跨檔關聯**：[ROUTINE.md](ROUTINE.md) + [DATA-REFRESH-PIPELINE.md Step 1](../pipelines/DATA-REFRESH-PIPELINE.md) + [SPORE-HARVEST-PIPELINE.md §Routine 整合](../factory/SPORE-HARVEST-PIPELINE.md) + [memory/2026-05-22-061238-twmd-data-refresh-am.md](memory/2026-05-22-061238-twmd-data-refresh-am.md) + [memory/2026-05-23-061238-routine-data-refresh-am.md](memory/) + #56 sister pattern（canonical ↔ production drift 是慢性 dormant entropy；本條是 acute race surface）
 
