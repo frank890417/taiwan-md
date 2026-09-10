@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T15:40:36+08:00",
-    "zhCommitHead": "880af9539",
+    "lastUpdated": "2026-09-10T16:15:01+08:00",
+    "zhCommitHead": "5548ce6b8",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 800,
+        "fresh": 801,
         "stale": 80,
-        "metadata_stale": 19,
+        "metadata_stale": 18,
         "missing": 222,
         "orphan": 0
       },
@@ -3988,8 +3988,8 @@
           "sourceContentHash": "sha256:428539ef61aee065",
           "sourceBodyHash": "sha256:ca8382bb6533d023",
           "translatedAt": "2026-09-10T03:36:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5548ce6b",
+          "translationLastModified": "2026-09-10T15:40:36+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -12591,8 +12591,8 @@
           "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
           "sourceBodyHash": "sha256:e4265d915ae6599c",
           "translatedAt": "2026-09-10T03:36:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5548ce6b",
+          "translationLastModified": "2026-09-10T15:40:36+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -17663,8 +17663,8 @@
           "sourceContentHash": "sha256:bbdb130f551a69e8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T07:26:52.731962+00:00",
-          "translationLastCommit": "bbbc2b9b",
-          "translationLastModified": "2026-07-26T10:51:04+08:00",
+          "translationLastCommit": "5548ce6b",
+          "translationLastModified": "2026-09-10T15:40:36+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "status": "fresh",
@@ -139710,18 +139710,16 @@
         "en": {
           "path": "en/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
+          "translatedAt": "2026-09-10T03:36:08+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/taichung-city.md",
