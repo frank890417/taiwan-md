@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T20:31:40+08:00",
-    "zhCommitHead": "c74302879",
+    "lastUpdated": "2026-09-10T21:39:20+08:00",
+    "zhCommitHead": "3c3db8462",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,26 +60,26 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 709,
+        "fresh": 710,
         "stale": 82,
         "metadata_stale": 77,
-        "missing": 253,
+        "missing": 252,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 593,
+        "fresh": 596,
         "stale": 49,
         "metadata_stale": 10,
-        "missing": 469,
+        "missing": 466,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 786,
+        "fresh": 787,
         "stale": 67,
         "metadata_stale": 15,
-        "missing": 253,
+        "missing": 252,
         "orphan": 0
       },
       "hi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 166,
+        "fresh": 169,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 948,
+        "missing": 945,
         "orphan": 0
       }
     },
@@ -32841,8 +32841,8 @@
           "sourceContentHash": "sha256:c4bd59992f27e4d2",
           "sourceBodyHash": "sha256:61a341569aa8edad",
           "translatedAt": "2026-09-10T18:19:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c3db846",
+          "translationLastModified": "2026-09-10T20:31:41+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -76714,7 +76714,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chi-cheng-flying-antelope.md",
+          "translatedFrom": "People/紀政.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ec85f3e1d7f5d977",
+          "sourceBodyHash": "sha256:5932775fa82a34d0",
+          "translatedAt": "2026-09-10T18:19:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/chi-cheng-flying-antelope.md",
@@ -84539,8 +84550,8 @@
           "sourceContentHash": "sha256:eecabb61bafa58a4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T10:19:40.699880+00:00",
-          "translationLastCommit": "92d19d6a",
-          "translationLastModified": "2026-08-09T10:38:06+08:00",
+          "translationLastCommit": "3c3db846",
+          "translationLastModified": "2026-09-10T20:31:41+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "status": "fresh",
@@ -95302,7 +95313,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/fang-hsu-chung.md",
+          "translatedFrom": "People/方序中.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:d4657223bb8bff5e",
+          "sourceBodyHash": "sha256:5791cbc190a21f96",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/fang-hsu-chung.md",
@@ -98679,8 +98701,8 @@
           "sourceContentHash": "sha256:09b83ca512f814fd",
           "sourceBodyHash": "sha256:2035945bf29ced7a",
           "translatedAt": "2026-09-10T18:19:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c3db846",
+          "translationLastModified": "2026-09-10T20:31:41+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -120923,7 +120945,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/three-foreigners-witness-1895-taiwan.md",
+          "translatedFrom": "History/三個外國人看乙未.md",
+          "sourceCommitSha": "01d9d0e73",
+          "sourceContentHash": "sha256:dd0456fc58fe6d55",
+          "sourceBodyHash": "sha256:f4c2468d7055a6c1",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/three-foreigners-witness-1895-taiwan.md",
@@ -124243,7 +124276,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/formosa-historical-name.md",
+          "translatedFrom": "History/福爾摩沙.md",
+          "sourceCommitSha": "01d9d0e73",
+          "sourceContentHash": "sha256:7935e86b210536e5",
+          "sourceBodyHash": "sha256:dd15e8c65b7a98f1",
+          "translatedAt": "2026-09-10T18:19:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/formosa-historical-name.md",
@@ -130074,7 +130118,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-military-dependents-villages-history.md",
+          "translatedFrom": "History/台灣眷村歷史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e26ca70cc051b743",
+          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -132074,7 +132129,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/new-taipei-city.md",
+          "translatedFrom": "Geography/新北市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7893a2743008a706",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T12:33:22.096255+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -141015,7 +141081,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/sun-moon-lake.md",
+          "translatedFrom": "Geography/日月潭.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:38e87349431f9040",
+          "sourceBodyHash": "sha256:6436714823ccf368",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -141182,7 +141259,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/how-to-read-the-taiwan-map.md",
+          "translatedFrom": "Geography/台灣地圖怎麼讀.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:098044cbe17d84d6",
+          "sourceBodyHash": "sha256:0dee5d4db7ae7893",
+          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
