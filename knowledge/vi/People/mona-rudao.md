@@ -1,440 +1,434 @@
 ---
-title: 'Mó Na·Lũ Đạo: Anh hùng chống Nhật được khắc lên tiền xu hai mươi ngàn, và thế giới không có Trung Quốc hay Nhật Bản'
-description: 'Năm 2001, ngân hàng trung ương Đài Loan khắc mặt anh hùng chống Nhật Mó Na·Lũ Đạo lên tiền xu hai mươi ngàn. Nhưng nhà in tiền tìm khắp tài liệu trong nước vẫn không có ảnh của ông, rồi cuối cùng mới tìm thấy trong một tạp chí tiếng Nhật. Từ sáng hôm đó của đại hội thể dục năm 1930, cho đến một bộ xương được dùng làm mẫu vật nhân học suốt khoảng bốn mươi năm, ba chế độ lần lượt cần ông. Còn thế giới mà ông thực sự bảo vệ — cái thế giới có cầu vồng, vết henna trên mặt, và Gaya — chưa bao giờ có Trung Quốc, cũng chưa bao giờ có Nhật Bản.'
+title: 'Mô Na Lũ Đường: Anh hùng kháng Nhật được đúc lên đồng xu 20 đồng, và thế giới không có Trung Quốc cũng không có Nhật Bản'
+description: 'Năm 2001, Ngân hàng Trung ương Đài Loan đã đúc khuôn mặt của anh hùng kháng Nhật Mô Na Lũ Đường lên đồng xu 20 đồng. Tuy nhiên, nhà đúc tiền tệ không tìm thấy bất kỳ hình ảnh nào của ông trong toàn bộ tài liệu trong nước, cuối cùng đã tìm thấy trong một tạp chí tiếng Nhật. Từ sáng sớm của cuộc thi thể thao Wushe năm 1930, cho đến một thi thể đã trở thành mẫu vật dùng khoảng bốn mươi năm, ba thể chế pháp quyền mỗi người đều cần đến ông. Nhưng thế giới mà ông thực sự bảo vệ — nơ có cây cầu màu, xăm mình và Gaya — thì từ trước đến nay không bao giờ có Trung Quốc cũng không có Nhật Bản.'
 date: 2026-03-25
-updated: 2026-06-10T00:00:00Z
+updated: 2026-06-10T00:00:00+00:00
 category: 'People'
 tags:
   [
-    'Seediq',
+    'Người Sedek',
     'Sự kiện Wushe',
-    'Lịch sử người bản địa Đài Loan',
-    'Thực dân Nhật',
-    'Chống Nhật ở Đài Loan',
+    'Lịch sử người bản địa',
+    'Thuộc địa Nhật Bản',
+    'Kháng Nhật Đài Loan',
     'Chính trị ký ức',
-    'Công lý chuyển tiếp',
+    'Công lý chuyển đổi',
   ]
-subcategory: '歷史人物'
-author: 'IDLCN（依 CONTRIBUTING.md 範本製作）'
+subcategory: 'Nhân vật lịch sử'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-10
 lastHumanReview: false
 difficulty: 'advanced'
 readingTime: 20
 researchReport: 'reports/research/2026-06/莫那·魯道.md'
-rationale:
-  why_this_hook: 'Tiền xu hai mươi ngàn năm 2001 là tia châm biếm ba lớp — chân dung được lấy từ tạp chí Nhật, bị từ chối lưu hành như tiền giả, ngân hàng trung ương nói là để "thúc đẩy hòa hợp các cộng đồng dân tộc" — dùng một vật chứng đương đại, cụ thể, mà mọi người đã cầm qua, để lật tẩy khung "anh hùng chống Nhật" này.'
-  whats_excluded: 'Sự kiện Thanh Sơn (1929 Mó Na dẫn đông giết người già yếu Thái Anh) chỉ xác nhận giai đoạn 1, được ghi cẩn thận trong bài là kể lại từ các trưởng lão Thái Anh và xác nhận của cố vấn phim, không mở rộng thành kết luận (thiếu tài liệu học thuật gốc); tác động định cư người Hán lên Seediq đương đại, ký ức văn học Nhật của Tsushima Yuko, lịch sử hôn nhân liên tộc họ Kondō — tất cả đều là bối cảnh, vượt ra ngoài ranh giới tiểu sử nhân vật.'
-  where_it_hedges: 'Ngày tử vong (bộ xương tìm thấy 1933, dùng "khoảng cuối tháng 11 năm 1930" và đánh dấu không chắc chắn); chiều cao 190 (giữ "dự kiến"); con số thương vong không nhất (644 với 639, 296 với 290 cùng có); cách chết của vợ (kể về những người treo cổ với cách Nhật Bản giết vợ 1936); khí độc (học viên tranh luận về bão hoà hay xả khí cay, chỉ khẳng định Bộ Quân sự cố tình giấu); "Giáo dục cao nhất" (cách báo chí nói, không có thống kê chính thức).'
-  whos_pushing_back: 'Trưởng lão Thái Anh Tô Nhạng·Uế Lang (Mó Na không phải anh hùng); Barclay sửa chữa (đập nát thần thoại hợp nhất dân tộc, Đạo Trạch Thái Lỗ Các hợp tác với Nhật); Quác Minh Chính và Lâm Tân Như (mất văn hóa Seediq trong phim); Ngô Hạc "Dư Sinh" (chính trị hóa thay vì thương tiếc); Walis Pawan (Trung Quốc chưa bao giờ đến hỏi chúng tôi); sự im lặng của hậu duệ Đạo Trạch.'
+rationale: "{'why_this_hook': '2001 年的二十元硬幣是三重反諷的物證——肖像撈自日文雜誌、流通到被當假錢拒收、央行說要「促進族群和諧」——用一個當代、具體、人人握過的物件，顛覆「抗日英雄」這個現成框架。', 'whats_excluded': '青山事件（1929 莫那率眾屠泰雅族老弱）只在 Stage 1 查證、文中謹慎歸屬為泰雅耆老口述加電影顧問證實，不展開為定論（缺學術一手）；漢人定居殖民對當代賽德克的影響、津島佑子的日本文學記憶、近藤家族跨族通婚史，均為背景，超出人物文邊界。', 'where_it_hedges': '死亡日期（遺骸 1933 才尋獲，採「約 1930 年 11 月底」並標不確定）；身高 190（保留「據說」）；死傷數字分歧（644 與 639、296 與 290 並陳不取一）；妻子死法（族人上吊說與 1936 日方殺妻說並陳）；毒氣（糜爛性與催淚學界有爭議，只斷言陸軍省刻意隱匿）；清流「教育最高」（媒體說法、無官方統計）。', 'whos_pushing_back': '泰雅耆老蘇樣·瓦浪（莫那不是英雄）；Barclay 修正主義（戳破民族團結神話、道澤太魯閣與日合作）；郭明正與林津如（賽德克巴萊文化失真）；吳鶴《餘生》（政治化而非悼念）；Walis Pawan（中國沒來問過我們）；道澤後裔的沉默。'}"
 image: '/article-images/people/mona-rudao-seediq-leaders-1931.webp'
 imageCredit: '海老原耕平《霧社討伐寫眞帖》（1931）'
 imageLicense: 'Public domain (PD-Japan-oldphoto)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Mona_Rudao_and_Seediq_tribal_leaders.jpg'
-relatedDiary:
-  - 2026-06-11-083358-莫那魯道
+relatedDiary: ['2026-06-11-083358-莫那魯道']
 translatedFrom: 'People/莫那·魯道.md'
-sourceCommitSha: 'd5ca846b6'
-sourceContentHash: 'sha256:a925dd382d90f176'
-sourceBodyHash: 'sha256:2e9a56655129cad4'
-translatedAt: '2026-08-09T09:26:48+08:00'
+sourceCommitSha: '9094012f4'
+sourceContentHash: 'sha256:eecabb61bafa58a4'
+translatedAt: '2026-09-10T10:19:40.699880+00:00'
 ---
 
-# Mó Na·Lũ Đạo: Anh hùng chống Nhật được khắc lên tiền xu hai mươi ngàn, và thế giới không có Trung Quốc hay Nhật Bản
+# Mônà Rūdào: Anh hùng kháng Nhật được đúc lên đồng xu hai mươi đồng, và thế giới không có Trung Quốc cũng không có Nhật Bản
 
-> **Tóm tắt 30 giây:** Trong ví của bạn có thể từng có một đồng xu hai mươi ngàn, mặt trước đó là mặt của người Seediq Mó Na·Lũ Đạo. Ngày 27 tháng 10 năm 1930, ông dẫn người của sáu xã trong cuộc họp thể dục tại trường tiểu học công lập Wushe, tiêu diệt hơn một trăm người Nhật, cuối cùng tự sát bằng súng trong các hang đá ở sâu trong rừng, xương cốt được tìm thấy ba năm sau. Sau đó xương này trở thành mẫu vật nhân học gần bốn mươi năm, được ba chế độ chính trị viết lại thành "bằng chứng của sự man rợ" "anh hùng chống Nhật dân tộc Trung Hoa" "tinh thần độc lập của Đài Loan". Nhưng cái ông muốn trở thành là "Seediq Bale" trong tiếng Seediq, có nghĩa là "người thực thụ". Và thế giới mà ông dùng mạng sống để bảo vệ, không có Trung Quốc, cũng không có Nhật Bản.
+> **30 giây tóm tắt:** Bạn có thể mang trong ví một đồng xu hai mươi đồng, mặt trước là khuôn mặt của trưứng tộc Sắc Đặc Mônà Rūdào. Ngày 27 tháng 10 năm 1930, ông dẫn sáu công tộc Sắc Đặc tụ bằng lễ hội thể thao ở trường mẫu giáo Sương Mù, giết hơn một trăm người Nhật, cuối cùng dùng súng tự tử trong hang động sâu trong rừng núi, xác chưa được tìm thấy cho tới ba năm sau. Sau đó, bộ xác này trở thành mẫu vật sinh học của nhà khảo học học hơn ba mươi năm, rồi ba chế quyền tiếp lĩnh lần lượt biến nó thành "bằng chứng của sự hoang dã" "anh hùng chống Nhật của chủng tộc Trung Hoa" "tinh thần bản địa của Đài Loan". Nhưng chính ông muốn trở thành là "Seediq Bale" trong tiếng Sắc Đặc, có nghĩa là "người thực sự". Và thế giới mà ông dùng đời mình bảo vệ, không có Trung Quốc, cũng không có Nhật Bản.
 
-Tháng 7 năm 2001, Ngân hàng Trung ương Đài Loan phát hành một đồng xu hai mươi ngàn mới. Hai màu, vòng ngoài vàng vòng trong bạc, mặt sau là chiếc ghe gỗ nước của người Atayal, mặt trước khắc một khuôn mặt nghiêng: lãnh đạo của sự kiện Wushe người Seediq, Mó Na·Lũ Đạo. Đây là đồng xu lưu thông đầu tiên của Đài Loan có chủ đề về người bản địa[^1].
+Tháng 7 năm 2001, Ngân hàng Trung ương Đài Loan phát hành một đồng xu hai mươi đồng mới. Hai màu, vòng ngoài vàng trong bán kính, mặt sau là thuyền gỗ ghép của tộc đảng Atayal, mặt trước khắc một hình bán hồ sơ: người lãnh đạo của sự kiện Sương Mù của tộc Sắc Đặc, Mônà Rūdào. Đây là đồng xu lưu hành đầu tiên của Đài Loan có chủ đề dân tộc bản địa[^1]。
 
-Chỉ là đồng xu này có một khởi đầu khó xử. Khi nhân viên thiết kế muốn khắc mặt Mó Na lên khuôn đúc, họ mới phát hiện ra, tìm khắp tài liệu lịch sử trong nước, hoàn toàn không có một bức ảnh của ông. Cuối cùng, họ tìm thấy trong một tạp chí tiếng Nhật, nhân viên thiết kế mới dựa vào nó, từng nét một để khắc bức chân dung lên khuôn[^2].
+Chỉ có điều là khởi điểm ngại ngùng của đồng xu này. Khi nhà thiết kế đang khắc mặt của Mônà lên khuôn mới, họ mới phát hiện ra, dù tìm khắp cả nước về tài liệu và lịch sử, không có bất kỳ tấm ảnh nào của ông. Cuối cùng, họ mới tìm thấy một tấm ảnh trong một tạp chí tiếng Nhật, và dựa trên nó, từng nét một họ mới khắc họa khuôn mặt của người này[^2]。
 
-Nói cách khác, anh hùng chống Nhật nổi tiếng nhất Đài Loan, khuôn mặt mà toàn quốc công dân nhận ra, lại được lôi ra từ ấn phẩm của người Nhật.
+Nói cách khác, anh hùng kháng Nhật nổi tiếng nhất Đài Loan, khuôn mặt mà mọi người nhận biết, là được lấy ra từ tờ tạp chí của người Nhật.
 
-Còn có cái khó xử hơn. Đồng xu này lưu hành rất ít, ít đến nỗi nhiều người suốt cuộc đời chưa bao giờ nhìn thấy. Có người mang đi mua nước chấm, mua nước uống, chủ cửa hàng xem nó là tiền giả rồi từ chối nhận[^3]. Một anh hùng được nhà nước khắc lên tiền xu, dùng để "thúc đẩy hòa hợp các cộng đồng dân tộc", nhưng chính đồng xu của ông lại không ai dám nhận.
+Thêm nữa, sự ngại ngùng còn ở phía sau. Lượng lưu hành của đồng xu này rất thấp, đến mức nhiều người suốt đời chưa từng thấy. Có người dùng để mua món nướng, mua đồ uống, chủ quán từ chối vì nghĩ là tiền giả[^3]。Một người anh hùng được nhà nước khắc lên đồng tiền, để "thúc đẩy sự hòa hợp dân tộc", nhưng chính đồng tiền của ông thì không ai dám nhận.
 
-Bài viết này muốn nói về cái gì đằng sau ba lớp khó xử này: một anh hùng chống Nhật được khắc lên tiền xu hai mươi ngàn, thế giới mà ông thực sự kháng cự không có Trung Quốc, cũng không có Nhật Bản.
+Điều mà bài viết này muốn nói, chính là những gì nằm dưới ba lớp sự ngại ngùng này: một anh hùng kháng Nhật được đúc lên đồng xu hai mươi đồng, thế giới mà ông thực sự nổi lên chống lại, không có Trung Quốc, cũng không có Nhật Bản.
 
-> 📝 **Ghi chú của người bảo tàng**
-> Chúng ta thường đặt Mó Na·Lũ Đạo vào một cấu trúc câu: "Ông dẫn dắt người bản địa anh dũng chống Nhật." Câu này không sai, nhưng nó giả định một sân khấu, trên đó đứng "Nhật Bản" và "Trung Quốc" (hoặc "dân tộc Trung Hoa"), Mó Na chọn phía chống Nhật. Vấn đề là sân khấu này do những người sau này dựng lên. Năm 1930 khi Mó Na nâng súng, thế giới trong đầu ông cần phải bảo vệ hoàn toàn khác với sân khấu này. Hiểu rõ ông đang bảo vệ cái gì, mới thấy được tại sao đồng xu này lại mỉa mai như vậy.
+> 📝 **Ghi chú của người biên tập**
+> Chúng ta thường đặt Mônà Rūdào vào một câu: "Ông dẫn dắt dân tộc bản địa can đảm kháng chiến." Câu nói này không sai, nhưng nó đặt ra một sân khấu, trên đó đứng là "Nhật Bản" và "Trung Quốc" (hoặc "chủng tộc Trung Hoa"), và Mônà chọn phản đối Nhật Bản. Vấn đề là, sân khấu này là người sau này dựng lên. Khi Mônà bắn súng vào năm 1930, thế giới mà ông muốn bảo vệ trong đầu mình, hoàn toàn khác biệt với sân khấu này. Chỉ khi hiểu được ông đang bảo vệ điều gì, chúng ta mới hiểu được tại sao đồng xu này lại kỳ lạ đến vậy.
 
-## Chiếc cầu mà ông muốn vượt qua, được gọi là cầu vồng
+## Cây cầu sắt mà ông ấy sẽ đi qua, gọi là Cây cầu mây
 
-Để hiểu Mó Na·Lũ Đạo, bạn phải rời khỏi khung "chống Nhật", đi vào vũ trụ của người Seediq.
+Để hiểu được Mona Rudao, trước tiên phải rời khỏi khung "chống Nhật" và bưỗm vào vũ trụ của người Séc Đặc.
 
-Mó Na·Lũ Đạo là thủ lĩnh của xã Maha Bô (Mehebu) trong nhóm Tgdaya (Tê Cố Đạt Dạ) của tộc Seediq, khoảng sinh năm 1880 (Wikipedia tiếng Trung Quốc và Anh), cũng có tài liệu ghi năm 1882 (Viện Nghiên cứu Giáo dục Quốc gia Bộ Giáo dục). Ông không để lại bất kỳ hồ sơ hộ khẩu nào, thậm chí ngày sinh cũng có hai lời khai song hành[^4]. Từ nhỏ đã nổi tiếng about anh dũng kế thừa vị trí thủ lĩnh, là người giàu nhất bộ tộc, giỏi chuyên môn xuống hạ. Về ngoại hình của ông, Wikipedia viết "cơ thể cao lớn bề ngoài, dự kiến chiều cao gần 190 cm", lưu ý hai chữ đó, "dự kiến". Chẳng ai bao giờ đo lường xương ông cả, chiều cao này là truyền thuyết, không phải sự thật[^5].
+Mona Rudao là trưởng làng Tgdaya (Mehebu) của pháp tích Séc Đặc, sinh khoảng năm 1880 (Wikipedia tiếng Trung và tiếng Anh), cũng có tài liệu ghi là năm 1882 (Viện Nghiên cứu Giáo dục Quốc gia Bộ Giáo dục). Ông không để lại bất kỳ hồ sơ hộ tịch nào, thậm chí năm sinh cũng là hai trường pháp song hành[^4]. Ở tuổi thiêng niên, ông đã thành công kế vị vị trưởng làng, trở thành người giàu có nhất trong bộ lạc, và rèn luyện sức khỏe. Về ngoại hình, Wikipedia ghi: "Thân hình cao lớn, được cho là gần 190 cm", hãy chú ý hai từ "được cho là". Không ai bao giờ đo đạc xương cốt của ông, chiều cao này là truyền thuyền, không phải sự thật[^5].
 
-Trong thế giới của Mó Na, có một thứ gọi là **Gaya**. Nó là đạo huấn, luật lệ, quy chuẩn xã hội và điều cấm kỵ, dự kiến do các linh tổ (Utux) quyết định, không thể thay đổi. Cùng tế lễ, cùng cơi ổn định, cùng ăn, cùng tuân thủ các điều cấm kỵ, cùng gánh chịu hình phạt, những thứ này đều là nghĩa vụ tập thể được Gaya quy định[^6].
+Trong thế giới của Mona, có một hệ thống gọi là **Gaya**. Đó là tổng hợp của dòng dõi tổ tiên, luật pháp, quy tắc xã hội và lời cấm, được cho là do linh hồn tổ tiên (Utux) soạn đặt, không thể thay đổi. Các nghi lễ chung, săn chung, ăn uống chung, giữ gìn lời cấm chung, cùng chịu trách nhiệm về hình phạt — tất cả đều là những nghĩa vụ tập thể do Gaya quy định[^6].
 
-Gaya có một điểm, sau đó trở thành chìa khóa được hiểu lầm nhất trong sự kiện Wushe: **xuống hạ** (lấy đầu, trong tiếng Seediq là mgaya). Trong mắt người Hoa và người Nhật, xuống hạ chỉ là chặt đầu man rợ. Nhưng trong bối cảnh Seediq, ý nghĩa của nó phức tạp hơn nhiều so với bạo lực, liên quan đến báo thù, phán quyết thiêng liêng (dùng thành bại của việc lấy đầu để phân xử tranh chấp), cầu mong vụ thu hoạch, tưởng nhớ tổ tiên, cũng là tiêu chuẩn trưởng thành của nam giới[^7].
+Trong Gaya có một quy tắc, sau này trở thành yếu tố then chốt nhất trong sự kiện Hương Sơn bị hiểu lầm nhất: **rử hành** (đầu người săn, tiếng Séc Đặc: mgaya). Trong mắt người Hán và người Nhật, rử hành chỉ đơn giản là giết người tù khúc. Nhưng trong bối cảnh của người Séc Đặc, nghĩa vụ này phức tạp hơn nhiều sự bạo lực, liên quan đến trả thù, phán xét thiên nhiên (dựa trên thành công hay thất bại trong săn đầu), cầu mong mùa màng bội thu, an ủi linh hồn tổ tiên, và cũng là tiêu chuẩn để chứng tỏ thanh niên trai trưởng thành[^7].
 
-Và tất cả điều này đều kết nối với một chiếc cầu. Người Seediq tin rằng, sau khi chết người phải vượt qua một **cầu vồng** (Hakaw Utux), bên kia cầu là nơi các linh tổ cư trú. Trên cầu có một linh hồn hình cua (Utux Kalan) canh gác, sẽ kiểm tra tay bạn, chính xác hơn, kiểm tra **vết henna trên mặt** (Ptasan) của bạn. Nam giới phải lấy được đầu, nữ giới phải biết dệt may, mới đủ tư cách để vết henna trên mặt (Ptasan). Những người không có vết henna, không thể vượt qua cầu vồng, không thể đến chỗ tổ tiên[^8].
+Và tất cả đều liên quan đến một cây cầu. Người Séc Đặc tin rằng khi người chết sẽ phải vượ qua một cây cầu **mây** (Hakaw Utux), phía kia cầu là nơi các linh hồn tổ tiên sinh sống. Trên cây cầu có một sinh vật hình cua (Utux Kalan) canh giữ, sẽ kiểm tra tay bạn, chính xác hơn là kiểm tra **vân mặt** của bạn. Để đàn ông phải săn được đầu người, đàn bà phải thành thạo may vải, mới đủ tư cách được xăm họa lên mặt (Ptasan). Những người không có vân mặt sẽ không thể vượt qua cây cầu mây, đến không được bên linh hồn tổ tiên[^8].
 
-![Một chiếc vòng chân ngọc trai của người Seediq xã Maha Bô, những chiếc hạt thẫm được quấn chặt thành vòng. Theo ghi chép của Bảo tàng Quốc gia Đài Loan, nó là của Mó Na·Lũ Đạo. Đối với người Seediq, những vòng hạt như vậy giống như vết henna trên mặt, đều là một phần của bản sắc "người thực thụ"](/article-images/people/mona-rudao-mahebu-anklet-1.webp)
-_Vòng chân ngọc trai của Mó Na·Lũ Đạo, hiện giữ tại Bảo tàng Quốc gia Đài Loan. Ảnh:氏子, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:賽德克族馬赫坡社貝珠踝飾.jpg)._
+![Một chiếc vòng xương trai của cộng đồng Séc Đặc Tgdaya, các viên xương nhỏ được uốn lại thành vòng tròn. Theo hồ sơ của Bảo tàng Quốc gia Đảo Đài Loan, nó thuộc sở hữu của Mona Rudao. Đối với người Séc Đặc, những vòng trang sức như thế này cũng như vân mặt, đều là một phần của "con người thực sự"](/article-images/people/mona-rudao-mahebu-anklet-1.webp)
+_Chiếc vòng xương của Mona Rudao, hiện được lưu trữ tại Bảo tàng Quốc gia Đảo Đài Loan. Photo: Thích tử, 2019. [CC BY-SA 4.0 qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:賽德克族馬赫坡社貝珠踝飾.jpg)。_
 
-Vì vậy, khi người Nhật cấm xuống hạ, cấm vết henna trên mặt, họ cắt đứt vượt quá hai phong tục. Đối với người Seediq, đó là cắt đứt tư cách được gặp gỡ tổ tiên sau khi chết, là sự sụp đổ của toàn bộ hệ thống bản sắc và ý nghĩa. Nhà nghiên cứu gốc Đài Loan Leo Ching (Kinh Tử Hương) gọi tình cảnh của người bản địa vùng thuộc địa là một loại "ràng buộc kép thuộc địa" (colonial double-bind): bị "dạy vặn" thành "nửa người văn minh", nhưng lại bị thực dân coi là man rợ mãi mãi, cả hai bên đều không chấp nhận[^9].
+Vì vậy, khi người Nhật cấm rử hành và cấm xăm họa, họ đã cắt đứt điều gì không chỉ là hai phong tục. Đối với người Séc Đặc, đó là sự cắt đứt kết nối với linh hồn tổ tiên sau khi chết, là sự sụp đổ hoàn toàn của toàn bộ hệ thống nhận dạng và ý nghĩa. Nhà nghiên cứu người Đài Loan Leo Ching (Kim Tử Huy) mô tả tình trạng của người bản địa dưới thời thuộc địa là một dạng "ràng buộc kép của sự thuộc địa hóa" (colonial double-bind): bị dạy dỗ thành "nửa người civilized", nhưng vẫn bị người thuộc địa coi như người mọm cồi, không được chấp nhận ở bất kỳ phía nào[^9].
 
-Trong tiếng Seediq có một từ, **Seediq Bale**, có nghĩa là "người thực thụ"[^10]. Mó Na·Lũ Đạo muốn trở thành cái này: một người có vết henna trên mặt, chết rồi vượt qua được cầu vồng, sống thì giữ được Gaya. Chúng ta gọi ông là anh hùng sau này, nhưng vị trí "anh hùng" này, do những người khác sắp xếp cho ông. Cái ông canh giữ suốt cuộc đời, là vị trí "người thực thụ" này.
+Trong tiếng Séc Đặc có một từ gọi là **Seediq Bale**, nghĩa là "người thực sự"[^10]. Điều mà Mona Rudao muốn trở thành chính là: một người có vân mặt, có thể vượt qua cây cầu mây sau khi chết, và sống cuộc đời trung thành với Gaya. Chúng ta sau này gọi ông là anh hùng, nhưng vị trí "anh hùng" này là do người khác đặt ra cho ông. Cả cuộc đời mình, ông chỉ canh giữ một vị trí: "người thực sự".
 
-Sau này có một bộ phim gọi là "Seediq·Bale", quay lại thế giới của Mó Na một cách hùng vĩ. Nhưng những dòng đối thoại như "tế lễ máu cho tổ tiên" trong phim thực ra là do đạo diễn phát minh, tiếng Seediq hoàn toàn không có từ tương ứng, đây là điều mà chính cố vấn văn hóa Seediq của phim sau đó công khai chỉ ra[^11]. Điều này nhắc nhở chúng ta một điều: ngay cả phiên bản mà chúng ta tưởng là "gần gũi nhất với Seediq" có thể cũng là người khác nói cho ông. Thế giới của Mó Na, từ đầu đến cuối rất khó để người ngoài có thể nói ra một cách chính xác.
+Sau đó có một bộ phim gọi là 《Seediq Bale》, đã khắc họa thế giới của Mona một cách rực rỡ. Nhưng những câu thoại như "tế tắm bằng máu cho linh hồn" trong phim thực ra là sáng tạo của đạo diễn, trong tiếng Séc Đặc không có từ tương ứng nào, và điều này cũng đã từng được cố vấn văn hóa Séc Đặc của chính bộ phim công khai chỉ ra[^11]. Điều này nhắc nhở chúng ta một điều: ngay cả những phiên bản chúng ta cho là "gần gũi nhất với Séc Đặc" cũng có thể là người nói thay họ. Thế giới của Mona, từ đầu, luôn là điều khó mà người ngoài có thể miêu tả chính xác.
 
-## Chiếc tay không sạch sẽ đó
+## Bàn tay bẩn
 
-Thập niên 1930 ở Wushe, trong mắt người Nhật là "vùng bản địa mẫu hình".
+Vào những năm 1930, Mây La với mắt của người Nhật là "một vùng bản địa mẫu mực".
 
-Sự kiểm soát của Nhật Bản đối với người bản địa Đài Loan đã đi qua một con đường từ mềm đến cứng. Đầu tiên là Cục Phát triển và Bình định, năm 1906 được chuyển do cảnh sát quản lý, từ năm 1910 đến 1915 thúc đẩy "Kế hoạch Lý bản năm năm", do Tổng đốc Tả Cửu Gian Tả Mã Đài dẫn đầu, với ngân sách khoảng 16,3 triệu yên Nhật, sử dụng quân đội và cảnh sát chinh phục. Từ năm 1915 trở đi hủy vũ khí người bản địa, tịch thu súng, sau đó bước vào giai đoạn đồng hóa, thiết lập các trường giáo dục vùng bản địa, trường tiểu học công lập, thúc đẩy tiếng Nhật, cấm xuống hạ, vết henna trên mặt, nhổ răng[^12].
+Sự cai trị của Nhật đối với bản địa Đài Loan trải qua một con đường từ mềm mỏng đến cứng rắn. Đầu tiên là Sở Khai Phá, năm 1906 chuyển sang quản lý bởi cảnh sát, từ 1910 đến 1915 thực hiện "kế hoạch năm năm bình hoá bản địa" do Tổng đốc Sakuma Samueyasu lãnh đạo, phân bổ khoảng 16,3 triệu đồng Nhật, dùng quân đội và cảnh sát để trấn giặc. Từ năm 1915, giải vũ khí của bản địa, thu hồi súng đạn, sau đó vào giai đoạn đồng hóa, thành lập trường giáo dục dân tộc, trường tiể trung học, thúc đẩy tiếng Nhật, cấm hành lễ cỏ, xăm mặt, rút răng[^12].
 
-Đến năm 1930, Wushe đã được phát triển thành một thị trấn tương đương với các thành phố Nhật Bản. Ngay cả nhà sử học sửa chữa Paul Barclay cũng phải thừa nhận, tỷ lệ người bản địa ở đây khoảng 95% có thể sử dụng tiếng Nhật đơn giản để giao tiếp với cảnh sát và giáo viên Nhật Bản[^13]. Nhưng Barclay cũng nhắc nhở, dưới bề mặt mẫu hình này thực tế là một khu lạp lạnh do những người ngoại lai chủ yếu kiểm soát, sự yên tĩnh và lòng trung thành của cư dân địa phương chỉ có thể được coi là đáng ngờ[^14]. Dưới bề mặt mẫu hình, sự phẫn nộ đang tích lũy.
+Đến năm 1930, Mây La đã được phát triển thành một khu phố sầm uất như thị trấn Nhật. Ngay cả nhà sử học chủ nghĩa chỉnh thống Paul Barclay cũng công nhận, khoảng 95% bản địa ở đây có thể giao tiếp bằng tiếng Nhật đơn giản với cảnh sát và giáo viên Nhật[^13]. Nhưng Barclay cũng nhắc nhở, dưới bề mặt mẫu mực này thực chất là một mảng lãnh thổ do người nưới ngoài điều khiển, sự im lặng và sự trung thành của người địa phương chỉ ở mức độ nghi ngờ[^14]. Dưới bề mặt mẫu mực, oán giận đang tích tụ.
 
-Sự phẫn nộ có vài nguồn. Một là lao động cưỡng bách. Từ năm 1928 đến 1930, người bản địa khu vực Wushe đã được huy động chín lần để làm việc. Năm 1928 công trình xây dựng đền thờ, không chỉ bị khấu trừ tiền mặt cơm, mà còn bị buộc phải quyên góp. Tiền lương cũng không công bằng, người bản địa mỗi ngày nhận 20 đến 30 tiền, người Hoa thì có 60 tiền[^15].
+Oân giận có nhiều nguồn gốc. Thứ nhất là lao động ép. Từ 1928 đến 1930, bản địa Mây La bị tuyển dụng 9 lần để làm việc. Công trình xây dựng đền thánh năm 1928 không chỉ bị khấu trừ tiền ăn, mà còn bị buộc phải đóng góp. Tiền lương cũng bất công, người bản địa chỉ được 20 đến 30 xu mỗi ngày, trong khi người Hán lại có 60 xu[^15].
 
-Hai là một trường hợp hôn nhân vì lợi ích chính trị để lại nỗi xấu hổ. Cảnh sát Nhật Kondō Ghi Tam Lang đã lấy em gái của Mó Na là Điềm Uế Tư·Lũ Đạo, sau đó Kondō được chuyển sang Hoa Liên, rồi người đó biến mất (một lời khai nói là chuyển công tác, một lời nói là bỏ vợ), Điềm Uế Tư bị bỏ lại, và theo Gaya, một phụ nữ bị chồng bỏ không thể quay trở về nhà[^16]. Barclay trong cuốn "Kondo the Barbarian" đã xác minh rằng "Kondō Ghi Tam Lang" này là anh em trai của một nhân vật lý bản quan trọng khác là Kondō Thắng Tam Lang[^17]. Một cuộc hôn nhân được sắp xếp cho "lý bản bằng bản địa" đã trở thành một cái gai trong gia đình Mó Na.
+Thứ hai là một cuộc hôn nhân vì lợi ích chính trị để lại nỗi nhục nhã. Cảnh sát Nhật Kondo Gisaburo đã cưới em gái của Mona là Dixu Luudao, sau này Kondo chuyển công tới Hoa Tiêu, người phụ nữ này biến mất (có người nói là chuyển công, có người nói là bỏ vợ), Dixu bị bỏ lại, và theo truyền thống Gaya, phụ nữ bị chồng bỏ không thể quay về nhà chồng[^16]. Barclay trong cuốn sách "Kondo the Barbarian" đã điều tra, "Kondo Gisaburo" này là anh trai của một nhân vật quan trọng khác trong việc bình hoá bản địa là Kondo Katsumaru[^17]. Một cuộc hôn nhân được sắp xếp để "dùng bản địa để kiềm chế bản địa", cuối cùng lại trở thành một mũi dao sâu vào gia đình Mona.
 
-Và cái thực sự châm ngòi, là một chiếc tay.
+Và cuối cùng, người thổi động cơ là một bàn tay.
 
-Ngày 7 tháng 10 năm 1930, con trai cả của Mó Na là Đạt Đa·Mó Na (Tado Mona) khi uống rượu với cảnh sát Nhật Cát Thôn Khắc Kỷ trong một bữa tiệc cưới. Đạt Đa vừa giết một con lợn, tay có máu thú. Cát Thôn nhận định "không sạch sẽ", không chỉ từ chối, mà còn dùng gậy cảnh sát đánh vào chiếc tay đang nâng chén rượu của Đạt Đa, cả hai bên xung đột với nhau, Cát Thôn bị thương[^18]. Cách Wikipedia viết như thế này:
+Ngày 7 tháng 10 năm 1930, con trai lớn của Mona là Tado Mona (Tado Mona) trong lễ cưới đã cúng rượng lễ bái đến cảnh sát Nhật Yoshimura Tadatomo. Tado vừa giết xong con lợn, tay còn dính máu thịt. Yoshimura thấy "bẩn thỉu", không chỉ từ chối, mà còn dùng gậy cảnh sát đập vào bàn tay của Tado đang cúng rượu, hai bên xảy ra đấm nhau, Yoshimura bị thương[^18]. Diễn tả của Wikipedia như sau:
 
-> Thủ lĩnh Mó Na·Lũ Đạo con trai cả Đạt Đa·Mó Na muốnnâng chén rượu cho cho Cát Thôn, nhưng bị Cát Thôn vì "ghét chiếc bàn tiệc không sạch sẽ đó⋯⋯" từ chối, và dùng gậy cảnh sát đánh vào chiếc tay đang nâng chén rượu của Đạt Đa·Mó Na, cả hai bên vì vậy xung đột với nhau[^19].
+> Chúa tộc Mona Luudao con trai lớn Tado Mona muốn cúng rượu cho Yoshimura nhưng bị Yoshimura từ chối vì "khó chịu với bữa tiệc bẩn thỉu..." và dùng gậy cảnh sát đập vào bàn tay của Tado Mona đang cúng rượu, hai bên do đó xảy ra tranh cãi[^19].
 
-Sau đó Mó Na dẫn người của ông, mang rượu đi xin lỗi, Cát Thôn không chấp nhận, còn dọa sẽ báo cáo. Theo luật Nhật, đánh bị cảnh sát là một tội nặng. Sự phẫn nộ mới cộng với sự phẫn nộ cũ, cộng thêm nỗi sợ bị thanh lý, Mó Na quyết định: Thay vì chờ bị giết sạch, không như khởi sự.
+Sau đó, Mona mang theo dân tộc và cất theo rượu đến xin lỗi, nhưng Yoshimura không chấp nhận, còn đe dọa sẽ tố cáo. Theo pháp luật Nhật, đánh đập khiến cảnh sát bị thương là tội nặng. Tích tụ từng chút một, nỗi sợ hãi trả thù, Mona đã đưa ra quyết định: thay vì chờ bị trừng trị, thì nên khởi sự.
 
-> 📝 **Ghi chú của người bảo tàng**
-> Sự kiện Wushe có ba cảnh sát Nhật, vai trò mỗi người khác nhau, đáng chú ý là phải ghi nhớ riêng: **Cát Thôn Khắc Kỷ** là người đánh Đạt Đa trong sự kiệnnâng chén; **Kondō Ghi Tam Lang** là người đã lấy em gái Mó Na rồi bỏ cô ấy; sau đó còn xuất hiện một người là **Tiểu Đảo Nguyên Trị**, là người kích động nhóm Đạo Trạch trong sự kiện Wushe lần thứ hai. Sự kiện Wushe không bao giờ là câu chuyện của một người chống một đế chế, nó là một mạng lưới được dệt từ rất nhiều người cụ thể, rất nhiều xúc phạm cụ thể. Và chiếc tay "không sạch sẽ" đó, chỉ là cọng rơm cuối cùng làm gánh lạc đơn.
+> 📝 **Ghi chú của người biên tập**
+> Trong sự kiện Mây La có ba cảnh sát Nhật với vai trò khác nhau, xứng đáng để ghi nhớ: **Yoshimura Tadatomo** là người đập vào tay của Tado trong vụ cúng rượu; **Kondo Gisaburo** là người lấy em gái của Mona rồi bỏ lại cô; sau này sẽ xuất hiện thêm một **Kojima Genji**, là người thúc đẩy Dao Zao trong sự kiện Mây La lần hai. Sự kiện Mây La chưa bao giờ là câu chuyện của một người trước một đế quốc, mà là một mạng lưới được dệt nên từ nhiều con người cụ thể, nhiều sự nhục nhã cụ thể. Và bàn tay "bẩn thỉu" ấy chỉ là sợi chỉ cuối cùng làm vỡ nỗi cân bằng của con lạc đà.
 
-## Sáng hôm đó của đại hội thể dục
+## Buổi sáng của kỳ thi đấu thể thao
 
-Ngày 27 tháng 10 năm 1930, trường tiểu học công lập Wushe sẽ tổ chức đại hội thể dục liên hợp, quân đội và cảnh sát Nhật, học sinh, gia đình sẽ tập trung ở sân thể dục. Mó Na chọn ngày này. Sáng sớm, khoảng ba trăm chiến sĩ từ sáu xã phân chia công việc, tấn công 13 nơi đóng trú cảnh sát ở khu vực Wushe, chiếm lấy súng đạn, rồi lao vào sân thể dục[^20]. Sáu xã khởi sự là Maha Bô, Tả Lạo Uần, Ba Ác Luân, Tư Khố, Hồ Cô, La Đa Phu. Xã Bà Lan có dân số nhiều nhất, thủ lĩnh là Uế Lịch Tư·Bố Nê không tham gia. Những người kích động chính là Bí Hồ·Sa Bô và Bí Hồ·Uế Lợi Tư của xã Hồ Cô[^21].
+Ngày 27 tháng 10 năm 1930, trường mẫu giáo Mộng Sĩ đã tổ chức kỳ thi đấu thể thao kết hợp, và quân chức quân đội Nhật, học sinh, cùng gia đình nhân viên đều tụ họp trên sân thể thao. Mộng Rừu Đạo đã chọn ngày này. Vào buổi sáng sớm, khoảng ba trăm thanh niên từ sáu bộ lạc lao động lao vào 13 trạm cảnh sát ở khu vực Mộng Sĩ, chiếm lĩnh vũ khí và đạn dược, rồi lao về phía sân thể thao[^20]. Sáu bộ lạc thực hiện vụ khởi nghĩa là Mã Hách Bằng, Tháp La Rơ Wan, Bạ Ao Lan, Xoàn Thù Sĩ, Hà Cổ và La Đo Phúc. Bộ lạc đông dân nhất là Bà Lan, lãnh đạo bởi Vạn Lễ Thắng Búni, thì không tham gia. Người chính là người thúc đẩy chính là hai người đàn ông từ bộ lạc Hà Cổ, Bỉ Hạ Thứ và Bỉ Hạ Vạn Lễ[^21].
 
-Hôm đó, họ đã giết 134 người Nhật, trong đó có phụ nữ và trẻ em. Ngoài ra còn nhầm giết hai người Hoa mặc áo kimono, một cô bé tên Lý Thái Vân và một chủ cửa hàng bị bắn trúng bằng hạn Lưu Tài Lương[^22]. Những người chiến sĩ thu được khoảng 180 khẩu súng và hơn hai mươi ba nghìn phát đạn[^23].
+Ngày hôm đó, họ giết chết 134 người Nhật, trong đó có cả phụ nữ và trẻ em. Ngoài ra còn vô tình giết chết hai người Hán mặc trang phục truyền thống, một là cô gái mặc váy cổ điển Lý Chải Vân, một là chủ cửa hàng bị đạn trúng Lưu Tái Lương[^22]. Các bộ lạc thu giữ khoảng 180 khẩu súng và hơn hai mươi nghìn viên đạn[^23].
 
-Tin tức truyền ra Đài Bắc, tổng đốc phủ bị chấn động. Phía Nhật điều quân đội và cảnh sát, do thiếu tướng Thơm Điền Di Huyền chỉ huy tuyến đầu (tổng đốc Thạch Tủa Anh Tàng là dân sự, tuyến đầu giao cho thiếu tướng Thơm Điền), sử dụng máy bay ném bom, pháo núi bắn phá, hành động dập tắt kéo dài khoảng năm mươi ngày, cho đến đầu tháng 12[^24].
+Tin báo đến Bắc Đài, chính phủ thuộc đảo đai rung chuyển. Phía Nhật điều quân đội và lực lượng cảnh sát, do thiếu tướng Kham Tập Nhiệp phụ trách chỉ huy trực tiếp (tổng thống đảo Kiều Trần Hoàng Tùng là người dân sự, phía trước được giao cho thiếu tướng Kham Tập), sử dụng máy bay ném bom và súng pháo đất, và cuộc ép buộc kéo dài khoảng năm mươa ngày, cho đến đầu tháng Mười Hai[^24].
 
-![Sau sự kiện Wushe năm 1930, một bức ảnh chợp nhoáng của các chỉ huy "đội trấu" và nhân viên tham mưu, những người mặc quân phục xếp hàng. Phía Nhật huy tập quân đội và cảnh sát, xuất động máy bay và pháo, mất khoảng năm mươi ngày để dập tắt sáu xã](/article-images/people/musha-punitive-force-1930.webp)
-_Các chỉ huy và nhân viên tham mưu của đội trấu sự kiện Wushe (1930). Ảnh:Kouhei Ebihara《霧社討伐寫眞帖》. [Public domain via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Commander_and_Staff_of_Musha_Punitive_force.JPG)._
+![Sau vụ việc Mộng Sĩ năm 1930, hình ảnh các chỉ huy và nhân viên của "lực lượng trừng trị" của phía Nhật, mọ người mặc đồng phục quân sự xếp hàng thẳng tắp. Phía Nhật tập hợp quân chức và cảnh sát, điều hành máy bay và súng pháo, mất khoảng năm mươa ngày để đào chiến sáu bộ lạc](/article-images/people/musha-punitive-force-1930.webp)
+_ Các chỉ huy và nhân viên của lực lượng trừng trị Mộng Sĩ (1930). Ảnh: Ebi Hara Kōhei, "Bộ sưu tập ảnh chân dung của lực lượng trừng trị Mộng Sĩ". [Public domain via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Commander_and_Staff_of_Musha_Punitive_force.JPG)._
 
 ```tw-stat
-Khoảng 300 người | Chiến sĩ của sáu xã khởi sự | 1930/10/27 sáng sớm
-134 người | Người Nhật bị giết hôm đó (gồm phụ nữ trẻ em) | + nhầm giết 2 người Hoa
-Khoảng 1,194 + 1,306 | Quân đội và cảnh sát do Nhật huy tập (mỗi nguồn có sự khác biệt nhỏ) | máy bay, pháo núi có mặt
-Khoảng 50 ngày | Thời gian dập tắt kéo dài | cho đến đầu tháng 12
-Nguồn: Wikipedia tiếng Trung Quốc/Anh, Berry《The Musha Incident: A Reader》, Taipei Times
+Khoảng 300 người | Thanh niên tham gia khởi nghĩa sáu bộ lạc | Sáng ngày 27/10/1930
+134 người | Số người Nhật bị giết trong ngày (bao gồm phụ nữ và trẻ em) | + 2 người Hán bị giết nhầm
+Khoảng 1,194 + 1,306 | Quân và cảnh sát do phía Nhật điều động (mỗi nguồn có chút khác biệt) | Máy bay, súng pháo tham gia
+Khoảng 50 ngày | Thời gian ép buộc kéo dài | Đến đầu tháng Mười Hai
+Nguồn: Wikipedia tiếng Trung, tiếng Anh, Berry "The Musha Incident: A Reader", Taipei Times
 ```
 
-Trang lịch sử khó viết nhất trong quá trình dập tắc, cũng là trang tranh cãi nhất, là khí độc. Rất nhiều tài liệu tiếng Trung nói quân đội Nhật sử dụng khí độc bão hòa (Lewis hoặc xà phòng), thậm chí còn bom phốt phát trắng. Những người thứ phía sau đó có bằng chứng "da bị phục hồi", Đảng Nhân dân Đài Loan cũng vào đầu năm 1931 gửi điện tín tới Liên hợp quốc, phản đối Nhật Bản "sử dụng khí độc để diệt chủng"[^25]. Nhưng sự việc này học viên không có kết luận chung. Nhà sử học Nhật Bản Haruyama Akito lạc quan cho rằng, quân đội Nhật thực sự sử dụng "hàng trăm phát lựu đạn gas cay, cộng với ít nhất ba phát gas đặc biệt (có chứa cyanide và thành phần gas cay)", chứ không phải gas xà phòng. Wikipedia tiếng Nhật thậm chí còn viết "cho đến nay vẫn chưa rõ ràng"[^26].
+Trang sách ghi chép khó viết nhất và gây tranh cãi nhất trong quá trình ép buộc chính là chất độc. Nhiều tài liệu tiếng Trung cho rằng quân đội Nhật đã sử dụng khói chất độc (được biết đến như Louis hoặc cải tạo), thậ rồi cả đạn trắng. Các bộ lạc sau này có những nhân chứng khẳng định "da bị thương tổn nặng", và Đảng Nhân Dân Đài Loan cũng đã gửi tài cáo qua điện tín đến Liên bang Quốc tế vào đầu năm 1931 để phản đối hành động "dùng khói độc để giết hại" của phía Nhật[^25]. Tuy nhiên, giới học thuật vẫn chưa đư ra kết luận chung. Nhà sử học Nhật Bản Haruyama Akimitsu cho rằng, thực chất quân đội Nhật chỉ sử dụng "khoảng vài trăm quả đạn nước mắt, cộng với ít nhất ba quả khí đặc biệt (chứa cyanide và thành phần gây nước mắt)", chứ không phải khói độc. Thậ tới mức Wikipedia tiếng Nhật còn ghi chú "cho đến nay vẫn chưa được làm rõ"[^26].
 
-Vì vậy bài viết này sẽ không khẳng định "quân đội Nhật sử dụng khí độc để diệt chủng", vì nó vượt quá phạm vi chứng cứ có thể hỗ trợ. Nhưng có một tài liệu, ít nhất chứng minh được một điều: Nhật Bản biết rằng bản thân họ đang làm việc gì không được ánh sáng. Vào ngày 5 tháng 11 năm 1930, Sở Quân sự phó quan gửi một bức điện mật cho Tham mưu trưởng Quân đội Đài Loan, nội dung đại loại là, sử dụng đạn độc bão hòa vì quan tâm đến quan hệ đối ngoại không thảo luận, từ đây về sau bất cứ vấn đề nào liên quan đến đạn khí phải truyền đạt bằng mật mã[^27]. Bức điện này lưu trữ trong tệp của Sở Quốc phòng Nhật Bản (JACAR, S5-2-26). Nó yêu cầu không phải dừng sử dụng khí độc, mà là đừng để khí độc lên giấy, đây chính là bằng chứng sắt của hành động giấu giếm có chủ ý[^28]. Cũng vì cuộc phản đối này, Đảng Nhân dân Đài Loan bị buộc giải tán vào tháng 2 năm 1931. Còn Nhật Bản mãi đến năm 1975 mới ký kết bản ghi nhớ Geneva cấm sử dụng khí độc[^29].
+Do đó, bài viết này sẽ không khẳng định "quân đội Nhật dùng khói độc để giết hại", vì điều đó vượ quá phạm vi bằng chứng có thể hỗ trợ. Nhưng có một tài liệu lưu trữ, ít nhất chứng minh được một điều: phía Nhật biết họ đang làm một điều không nên. Ngày 5 tháng 11 năm 1930, phụ trách bộ tư lệnh quân đội gửi một bản tin mật đến tư lệnh quân sự Đài Loan, nội dung phần lớn nói rằng, việc sử dụng đạn chất độc cần được tránh thảo luận do lo ngại về mối quan hệ quốc tế; trong tương lai, mọi vấn đề liên quan đến đạn khói cần được truyền đạt bằng mã số[^27]. Tài liệu này được lưu trữ tại kho lưu trữ của Bộ Quốc Phòng Nhật Bản (JACAR, S5-2-26). Yêu cầu của nó không phải là ngưng sử dụng khói độc, mà là không để lại bất kỳ dấu vết nào trên giấy tờ — đây chính là bằng chứng rõ nhất cho thấy hành động cố tình giấu giấm[^28]. Và cũng vì lý do này, Đảng Nhân Dân Đài Loan bị buộc giải thể vào tháng Hai năm 1931. Đến năm 1975, Nhật Bản mới ký kết Hiến ước Genève về cấm sử dụng khói độc[^29].
 
-Trong khi tiến hành dập tắc, đã xảy ra một sự kiện sau đó được viết lại nhiều lần, cũng được lãng mạn hoá nhiều lần: sự treo cổ tập thể của phụ nữ và trẻ em. Con số ghi chép có sự khác biệt, tài liệu tiếng Trung khoảng 296 người, Wikipedia tiếng Anh khoảng 290 người[^30]. Họ treo cổ dưới những cây cổ thụ lớn, vì không muốn làm gánh nặng cho những chiến sĩ vẫn còn chiến đấu, để chiến sĩ không có lo lắng về sau, có thể tiếp tục chiến đấu. Bộ phim quay cảnh này như một lễ tế vừa anh dũng. Nhưng cách mà hậu duệ của bộ tộc Thanh Lưu hiểu là, sự lựa chọn "không có lựa chọn" dưới Gaya: trong hang đá chịu rét đói, con đường sống đã bị chặn sẵn[^31].
+Trong lúc ép buộc, đã xảy ra một sự kiện sau này được viết lại và lãng mạn hóa nhiều lần: vụ tập thể tự tử của phụ nữ và trẻ em. Số liệu ghi chép có chút khác nhau, tài liệu tiếng Trung cho khoảng 296 người, Wikipedia tiếng Anh cho khoảng 290 người[^30]. Họ treo cổ dưới gốc cây lớn, để không gánh nặng cho những người đang chiến đấu, để những chiến sĩ không phải lo lắng phía sau. Phim ảnh đã chuyển hóa khoảnh khắc này thành một sự hy sinh vĩ đại. Nhưng những người còn lại của bộ lạc Gaya hiểu rằng, dưới mái nhà của Gaya, đó là "chẳng còn lựa chọn nào" — một tình huống tuyệt vọng trong hang động, nơi con người đã không còn con đường sống nào[^31].
 
-> 📝 **Ghi chú của người bảo tàng**
-> Sự khác biệt giữa hai cách đọc này, nói chung là "ai có quyền gán ý nghĩa cho người chết". "Lễ tế anh dũng" là từ mà những người ngồi khán phòng chọn cho họ; "không có lựa chọn" là cách hậu duệ hiểu trong bối cảnh của hang đá. Bài viết này chọn đứng ở phía sau đó, cũng chọn không để tái hiện từng chi tiết của sáng hôm đó, không viết phương pháp, không phóng to thi thể, chỉ ghi lại thời gian, địa điểm, và một cộng đồng dân tộc khi bị đẩy đến tuyệt vọng đã làm gì. Đây là việc của Gaya, không phải kỳ tích.
+> 📝 **Ghi chú của người biên tập**
+> Sự khác biệt giữa hai cách hiểu này thực chất là sự khác biệt về "ai có tư cách gán cho người chết một lý nghĩa". "Sự hy sinh vĩ đại" là từ do người đứng ngoài chọn cho họ; "chẳng còn lựa chọn nào" là cách mà những người con cháu sau này hiểu trong bối cảnh hang động. Bài viết này chọn đứng ở phía sau này, đồng thời chọn không tái hiện chi tiết từng khoảnh khắc của buổi sáng đó, không mô tả phương pháp, không phóng đại hình ảnh, mà chỉ ghi lại thời gian, địa điểm và những gì một bộ lạc đã làm khi bị đẩy tới bờ vực tuyệt vọng. Đây là chuyện của Gaya, không phải là một phép màu.
 
-Còn riêng Mó Na·Lũ Đạo, ngày tử vong của ông là một bí ẩn có cấu trúc. Vì bộ xương của ông mãi đến năm 1933 mới được tìm thấy, ngày tử vong về cơ bản là một phỏng đoán, những phiên bản khác nhau từ ngày 5 tháng 11, giữa tháng 11, ngày 28 tháng 11 đến ngày 1 tháng 12 đều có. Bài viết này sử dụng "khoảng cuối tháng 11 năm 1930", và đánh dấu rằng ngày này không chắc chắn[^32]. Cái có thể xác định là: ông dùng một khẩu súng ba tám thế hệ, tự sát trong hang đá bên phải sông Maha Bô.
+Về chính Mộng Rừu Đạo, cái cách ông chết là một bí ẩn cấu trúc. Bởi vì hài xác của ông chỉ được tìm thấy vào năm 1933, ngày tháng ký thực sự là phỏng đoán, và các phiên bản khác nhau từ ngày 5 tháng 11, giữa tháng 11, ngày 28 tháng 11 cho đến ngày 1 tháng 12 đều tồn tại. Bài viết này áp dụng "khoảng cuối tháng 11 năm 1930", đồng thời ghi chú rằng ngày này không chắc chắn[^32]. Điều chắc chắn là: ông dùng một khẩu súng ba tám kiểu để tự sát trong hang động bên bờ sông Mã Hách Bằng.
 
-Phim có một cảnh, là Mó Na tự tay nổ súng giết vợ của ông. Nhưng đó là sự thích ứng. Ấn phẩm của Nhật năm 1936 nói Mó Na đã giết vợ và con, nhưng những người thế hệ này biết sự kiện này sau này xác nhận, vợ của Mó Na thực ra là tự treo cổ, vì **tự sát của vợ con nó chính là vi phạm Gaya của người Seediq**[^33]. Wikipedia ghi nhận sự hiệu chỉnh này:
+Trong phim, có một cảnh, là Mộng Rừu Đạo tự tay bắn chết vợ mình. Nhưng đây là cách biên tập. Năm 1936, các tài liệu do phía Nhật xuất bản cho rằng Mộng Rừu Đạo giết chết vợ con mình, tuy nhiên những người đã trải qua sự kiện này sau này đã chứng minh rằng vợ của Mộng Rừu Đạo thực chất là treo cổ tự tử, bởi vì "giết chết vợ con" thực sự là hành vi vi phạm Gaya của bộ lạc Séc Đặc"[Gaya của người Séc Đặc][^33]. Wikipedia đã ghi nhận chỉnh sửa này:
 
-> Vì tự sát vợ con nó chính là vi phạm Gaya của người Seediq, những người thế hệ này biết sự kiện này sau này xác nhận, vợ của Mó Na Lũ Đạo thực ra là tự treo cổ[^34].
+> Vì giết chết vợ con là hành vi vi phạm Gaya của bộ lạc Séc Đặc, sau này được những người đã trải qua sự kiện xác nhận rằng vợ của Mộng Rừu Đạo thực chất là treo cổ tự tử[^34].
 
-Về con số thương vong, những nguồn khác nhau xung đột với nhau, bài này không im lặng lấy một, mà là mở ra sự khác biệt: Wikipedia tiếng Trung chia chết của sáu xã thành dao kiếm 85, bắn phá 137, pháo 34, lấy đầu 87, treo cổ 296, cộng 639 người, ngoài ra còn bị bắt 265, đầu hàng khoảng 500, những người khởi sự cộng 1.236 người. Wikipedia tiếng Anh ghi những người khởi sự khoảng 1.200 người, tử vong 644 người, treo cổ 290 người[^35]. Con số đối không lên, nhưng hướng nhất quán: sáu xã khởi sự cộng hơn một nghìn người, gần nửa chết trong sự kiện này.
+Về số lượng người chết, các nguồn khác nhau cho những con số mâu thuẫn, và chúng tôi không im lặng chọn một số liệu duy nhất, mà để lộ rõ sự chênh lệch: Wikipedia tiếng Trung chia số người chết của sáu bộ lạc thành dao bắn 85, bom 137, pháo 34, săn đầu 87, tự tử 296, tổng cộng 639 người, ngoài ra còn có 265 người bị bắt giữ và khoảng 500 người đầu hàng, tổng số người tham gia khởi nghĩa là 1,236 người. Wikipedia tiếng Anh ghi nhận khoảng 1,200 người tham gia khởi nghĩa, 644 người chết, 290 người tự tử[^35]. Những con số này không khớp nhau, nhưng xu hướng đều giống nhau: sáu bộ lạc tham gia khởi nghĩa với tổng số hơn một ngàn người, và gần một nửa số người đó đã chết trong vụ khởi nghĩa này.
 
-## Anh hùng của ai
+## Nửa cuối mà sách giáo khoa không dạy
 
-Năm 2011, đạo diễn Vũ Đức Thánh phát hành "Seediq·Bale", chia thành phần một "Lá Cờ Mặt Trời", phần hai "Cầu Vồng", tổng doanh thu tại Đài Loan khoảng 880 triệu ngàn. Nó vào được danh sách dự tuyển Liên hoan phimVenezia, đoạt giải Phim chính kịch xuất sắc Kim Mã, còn vào danh sách chín giải thưởng Phim ngoại ngữ xuất sắc Oscar[^60]. Đối với người Đài Loan sinh năm 1985 trở đi, mặt của Mó Na·Lũ Đạo từ đó là mặt của người Thái Anh tên là Lâm Khánh Đài, người giáo sĩ.
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/vD_YrB2-C4c" title="《賽德克．巴萊》戲院預告 HD" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-_Trailer của Quả Tử Phim tại rạp chiếu. Mặt trong trailer này, từ đó trở thành mặt của Mó Na·Lũ Đạo cho thế hệ sinh sau năm 1985._
-
-Phim để Mó Na được toàn bộ thế hệ biết đến, đây là công của nó. Nhưng nó cũng là phiên bản bị nhà học giả chất vấn "lãng mạn hoá" nhiều nhất.
-
-Phê bình mạnh nhất, chính là cố vấn văn hóa của chính bộ phim, hậu duệ bộ tộc Thanh Lưu, tác giả "Sự Thật·Bale" Quác Minh Chính (Dakis Pawan). Ông chỉ ra "tế lễ máu cho tổ tiên" "tự hào" những từ này là đạo diễn phát minh, tiếng Seediq không tìm được từ tương ứng; Mó Na nổ súng giết vợ vi phạm Gaya, ông đã cảnh báo Vũ Đức Thánh, Vũ Đức Thánh vẫn quay theo; xuống hạ được làm đẹp thành thành tựu nam tính cá nhân[^61]. Nhà văn bản địa Uế Lịch Tư·Nô Cán thì chỉ trích chủ nghĩa anh hùng cá nhân của phim vi phạm truyền thống quyết định tập thể: lãnh đạo truyền thống bộ tộc tuân theo quyết định tập thể, không có ai có thể tự quyết định[^62]. Nhà học Lâm Tân Như trong bài báo CLCWeb (2018), đã tổng hợp mục từ những mất mát văn hóa này[^63].
-
-Nếu "Seediq·Bale" là kỳ tích, thì phim tài liệu năm 2014 của Tương Hoa Trúc "Dư Sinh—Seediq·Bale" chính là mặt đối của nó. Phim này vào danh sách dự tuyển Giải thưởng Kim Mã lần thứ 50 Phim tài liệu xuất sắc nhất và Âm thanh xuất sắc nhất (cuối cùng không đoạt), nó theo sau hậu duệ những người sống sót, đi tìm quê hương cua linh tổ Pusu Qhuni (tảng đá Mẫu Đơn), dùng góc nhìn của những người sống sót, để đáp lại kỳ tích trên màn ảnh[^64]. Cao trào chống bạo lực ai cũng viết, nhưng "sống sót rồi thì sao" hầu như không ai viết. Nhà văn Vũ Hạc theo dòng này, anh ấy phỏng vấn hậu duệ những người sống sót, chỉ trích Lý Đăng Hui lập bia, Trần Thủy Biển phát hành tiền xu, đó là chính trị hoá Mó Na, chứ không phải thương tiếc thực sự; những người sống sót thực tế sống trong sự im lặng xấu hổ[^65].
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/OzBU5FePqJg" title="《餘生–賽德克．巴萊》預告" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-_Quả Tử Phim phát hành trailer phim tài liệu "Dư Sinh" (2014, Tương Hoa Trúc). So với kỳ tích của "Seediq·Bale", nó đưa ống kính cho những người sống sót._
-
-Bộ ghép ảnh đương đại vẫn đang tiếp tục. Ngày 23 tháng 4 năm 2008, Seediq tách khỏi Thái Anh, chính thức được đặt tên là tộc người bản địa thứ 14 của Đài Loan, chia dưới thành ba nhóm phương ngữ là Tê Cố Đạt Dạ, Đạo Trạch, Đức Lộ Cố[^66]. Ngày 1 tháng 8 năm 2016 Ngày Người Bản Địa Đài Loan, tổng thống Thái Anh Văn đại diện chính phủ xin lỗi những người bản địa:
-
-> Trong bốn trăm năm, mỗi chế độ chính quyền từng đến Đài Loan, bằng cách chinh phục quân sự, lấy cúp đất đai, đã xâm phạm nghiêm trọng những quyền hiện có của người bản địa Đài Loan[^67].
-
-Bà cũng thành lập Ủy ban Lịch sử Công lý và Công lý Chuyển tiếp Người Bản Địa Đài Loan, do bác sĩ pháp luật Seediq Thái Chí Vĩ (Awi Mona, bác sĩ pháp luật bản địa đầu tiên của Đài Loan) làm phó chủ tịch nhóm đất[^68]. Nhưng công lý không phải là xong. Năm 2017 phương pháp xác định lãnh thổ truyền thống loại bỏ đất riêng, rút gọn phạm vi có thể xác định từ 1.8 triệu héc ta còn khoảng 800.000 héc ta, gây ra cuộc đấu tranh kéo dài nhiều năm trên Kai Tao[^69].
-
-Còn câu hỏi sắc cạnh nhất lại để cho đương đại. Năm 2025, "Seediq·Bale" được chiếu lại ở Trung Quốc với tên "giải phóng 80 năm". Một hậu duệ Seediq Uế Lực Tư Bawan được phỏng vấn, đã đáp lại như thế này (dịch từ bài báo tiếng Anh):
-
-> Đây là việc của Trung Quốc và Nhật Bản. Họ dùng một bộ phim về chúng tôi, để nói cảm xúc của chúng tôi, nhưng Trung Quốc chưa bao giờ đến hỏi chúng tôi[^70].
-
-Câu nói này, hầu như có thể coi là chìa khóa của toàn bộ bài viết. Mó Na·Lũ Đạo bị ba phía tuyên bố: chủ nghĩa dân tộc người Hoa/Đài Loan, tường thuật dân tộc Trung Hoa, sự im lặng của hậu duệ Miệt Phương, ba phía với cùng một người, có ba quan hệ không thể tương thích. Và người bị chiếm dụng lặp lại, chính là ông, từ lâu không bao giờ được hỏi[^71].
-
-## Người thực thụ
-
-Quay lại bộ tộc Thanh Lưu.
-
-Những hậu duệ những người sống sót lúc đó bị buộc di cư đến Xuyên Trung Đảo, hôm nay vẫn cư trú ở đây, tên địa phương là Gluban, hành chính thuộc Huyện Nhân Ái Tỉnh Nam Đầu. Ở đây trồng một loại lúa gọi "lúa Xuyên Trung", (Đài Cương 9 hào), thời kỳ Nhật trị từng được tiến cúng Thiên hoàng; báo chí thường nói đây là "bộ tộc bản địa có trình độ giáo dục cao nhất, tập trung viên chức công vụ nhất", dù lời nói này tìm không được thống kê chính thức hỗ trợ, chỉ có thể tính là cách nói phổ biến[^72]. Trong làng lập có bia tưởng niệm dư sinh và bảo tàng kỷ niệm. Những cánh đồng lúa vàng năm sau năm kia chín rồi gặt. Cuối cùng của "Dư Sinh" của Tương Hoa Trúc, hậu duệ vẫn trong núi đi tìm tảng đá gọi Pusu Qhuni, quê hương của linh tổ[^73].
-
-![Bức tượng đồng Mó Na·Lũ Đạo ở Wushe, tỉnh Nam Đầu, Huyện Nhân Ái, phía sau là bia tưởng niệm khởi nghĩa chống Nhật ở Wushe. Đây là hình ảnh mà nhà nước lập cho ông, và giữa cái nhìn thực sự mà ông muốn trở thành là "người thực thụ" được che phủ bởi một bộ máy chính trị ký ức được viết lại nhiều lần](/article-images/people/mona-rudao-statue-monument-2012.webp)
-_Tượng đồng Mó Na·Lũ Đạo và Bia Tưởng Niệm Khởi Nghĩa Chống Nhật Wushe ở Wushe. Ảnh:徐芳蘭(fanglan), 2012. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mikata-Ban2.JPG)._
-
-Chúng ta cần anh hùng. Cần một câu chuyện sạch sẽ có thể cho vào sách giáo khoa, cần một chiếc tiền xu có thể cầm trên tay, cần một khuôn mặt có thể treo trên tường. Vì thế chúng ta khắc Mó Na·Lũ Đạo lên tiền xu hai mươi ngàn, để anh ấy viết vào "dân tộc Trung Hoa chống Nhật", quay anh ấy thành sử thi hùng vĩ.
-
-Nhưng Mó Na·Lũ Đạo muốn trở thành cái gì từ lâu không phải anh hùng. Ông muốn trở thành Seediq Bale—người thực thụ. Một người có vết henna trên mặt, giữ được Gaya, chết rồi vượt qua được cầu vồng. Trong cái thế giới đó, không có Trung Quốc, cũng không có Nhật Bản, chỉ có tổ tiên, cơi ổn định, chiếc cầu, và linh hồn hình cua đứng ở đầu cầu kiểm tra hai tay của bạn.
-
-Chiếc tiền xu đó, khuôn mặt lấy từ tạp chí Nhật Bản. Bộ xương đó, làm bốn mươi năm mẫu vật, cuối cùng cũng dùng nghi lễ người Hoa đặt xuống, kể cả quay về cũng không phải đi qua cầu vồng riêng của ông. Chúng ta cho ông mọi thứ, ngoại trừ một điều—coi ông là một người, chứ không phải một tượng đài kỷ niệm.
-
-Có lẽ bước đầu tiên để thực sự biết Mó Na·Lũ Đạo, không phải nhớ ông giết bao nhiêu người Nhật, mà là hiểu được thế giới ông dùng mạng sống bảo vệ, lại không bao giờ cần phải chúng ta chọn cạnh nào.
-
----
-
-**Mở rộng đọc**:
-
-- [Vũ Đức Thánh](/people/Vũ Đức Thánh) — Đạo diễn phim "Seediq·Bale" để Mó Na·Lũ Đạo lên màn bạc, cũng là mặt khác của "phim làm cách nào viết lại ký ức" trong bài viết này
-- [Lịch sử Người Bản Địa Đài Loan và Phong Trào Chính Danh](/history/Lịch Sử Người Bản Địa Đài Loan và Phong Trào Chính Danh) — Cách nhóm Seediq từ tộc Thái Anh độc lập, trở thành tộc người bản địa thứ 14 của Đài Loan năm 2008
-- [Thời kỳ Nhật Trị](/history/Thời Kỳ Nhật Trị) — Chính sách lý bản và Đài Loan bị thực dân năm mươi năm, bối cảnh thời đại của sự kiện Wushe
-- [Công Lý Đất Đai Người Bản Địa Đài Loan và Lãnh Thổ Truyền Thống](/society/Công Lý Đất Đai Người Bản Địa Đài Loan và Lãnh Thổ Truyền Thống) — Cơi ổn định mà Mó Na bảo vệ, mở rộng thành tranh chấp xác định lãnh thổ truyền thống hôm nay
-
-## Nguồn Hình Ảnh và Video
-
-Bài viết sử dụng 7 hình ảnh công cộng/CC, tất cả cache tại `public/article-images/people/` để tránh liên kết nóng; ngoài ra nhúng hai video chính thức của Quả Tử Phim (bình luận biên tập sử dụng hợp lý):
-
-- [Mó Na·Lũ Đạo và các thủ lĩnh tộc Seediq chụp ảnh chung](https://commons.wikimedia.org/wiki/File:Mona_Rudao_and_Seediq_tribal_leaders.jpg)(ảnh chính) — Từ "Bộ Ảnh Thảo Đạo Wushe" của Ebihara Kouhei (Công ty Giao Thương Tiến, 1931), công cộng (PD-Japan-oldphoto). Hình gốc là hình dọc, bài viết cắt thành hình vuông làm ảnh chính.
-- [Vòng chân ngọc trai của Mó Na·Lũ Đạo](https://commons.wikimedia.org/wiki/File:賽德克族馬赫坡社貝珠踝飾.jpg)(2019) — Kỷ vật sưu tập Bảo tàng Quốc gia Đài Loan, chụp ảnh: 氏子, CC BY-SA 4.0.
-- [Ảnh hiện trường sự kiện Wushe](https://commons.wikimedia.org/wiki/File:The_scene_of_the_Wushe_Incident.JPG)(1930) — Từ "Bộ Ảnh Thảo Đạo Wushe" của Nhật Bản, công cộng (PD-Japan-oldphoto).
-- [Chỉ huy và nhân viên tham mưu của đội trấu sự kiện Wushe](https://commons.wikimedia.org/wiki/File:Commander_and_Staff_of_Musha_Punitive_force.JPG)(1930) — Từ "Bộ Ảnh Thảo Đạo Wushe" của Nhật Bản, công cộng (PD-Japan-oldphoto).
-- [Đội bản địa thân Nhật](https://commons.wikimedia.org/wiki/File:Mikata-Ban2.JPG)(1931) — Từ "Bộ Ảnh Thảo Đạo Wushe" của Nhật Bản, công cộng (PD-Japan-oldphoto).
-- [Vòng chân ngọc trai của Mó Na·Lũ Đạo (góc nhìn khác)](<https://commons.wikimedia.org/wiki/File:賽德克族馬赫坡社貝珠踝飾_(2).jpg>)(2019) — Kỷ vật sưu tập Bảo tàng Quốc gia Đài Loan, chụp ảnh: 氏子, CC BY-SA 4.0.
-- [Tượng đồng Mó Na·Lũ Đạo và Bia Tưởng Niệm Khởi Nghĩa Chống Nhật Wushe](https://commons.wikimedia.org/wiki/File:Mona_Rudao_Statue_and_Wushe_Incident_Monument,taken_by_fanglan.jpg)(2012) — Chụp ảnh: Từ Phương Lan (fanglan), CC BY 2.0.
-- Video: [Trailer Phim Rạp "Seediq·Bale" HD](https://www.youtube.com/watch?v=vD_YrB2-C4c) — Kênh chính thức Quả Tử Phim (ARS Film).
-- Video: [Trailer "Dư Sinh–Seediq·Bale"](https://www.youtube.com/watch?v=OzBU5FePqJg) — Kênh chính thức Quả Tử Phim, phim tài liệu năm 2014 của Tương Hoa Trúc.
-
-## Tài Liệu Tham Khảo
-
-[^1]: [Bảo tàng Kỷ Vật Kỷ Vật Điện Tử Ngân Hàng Trung Ương: Tiền Xu Mười Ngàn Tái Mới Niên](https://museum.cbc.gov.tw/web/zh-tw/circulation/currency/62) — Trang Bảo tàng Kỷ Vật Chính Thức Ngân Hàng Trung Ương, giải thích tiền xu hai mươi ngàn màu hai được phát hành vào tháng 7 năm 2001, mặt trước là Mó Na·Lũ Đạo và Bia Tưởng Niệm Khởi Nghĩa Chống Nhật Wushe, mặt sau là tàu gỗ nước của người Atayal, là đồng xu lưu thông đầu tiên của Đài Loan với chủ đề người bản địa.
-
-[^2]: [Báo Thời Kỳ (Hệ Thống Báo Liên Hợp): Câu Chuyện Thiết Kế Tiền Xu Hai Mươi Ngàn](https://time.udn.com/udntime/story/122833/6764473) — Cột sưu tập kỹ thuật số Hệ Thống Báo Liên Hợp, ghi lại quá trình mà Nhà In Tiền Trung Ương tìm khắp tài liệu lịch sử trong nước nhưng không tìm đượcchân dung của Mó Na·Lũ Đạo, cuối cùng tìm thấy trong một tạp chí tiếng Nhật, rồi nhân viên thiết kế dựa vào ảnh để từng nét một khắc lên khuôn.
-
-[^3]: [Gương Tuần San: Tại Sao Tiền Xu Hai Mươi Ngàn Bị Lỗi Thường Bị Xem Là Tiền Giả](https://www.mirrormedia.mg/story/20220329edi014) — Gương Tuần San báo cáo hiện tượng tiền xu hai mươi ngàn vì phát hành ít, lưu thông thấp, mọi người mang đi tiêu dùng thường bị chủ cửa hàng nhầm là tiền giả từ chối nhận.
-
-[^4]: [Wikipedia: Mó Na·Lũ Đạo](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Mục Wikipedia tiếng Trung Quốc, tổng hợp cuộc đời Mó Na·Lũ Đạo là thủ lĩnh của xã Maha Bô nhóm Tê Cố Đạt Dạ tộc Seediq, sinh năm 1880 (Wikipedia tiếng Trung Quốc và Anh) hoặc 1882 (Viện Nghiên Cứu Giáo Dục Quốc Gia Bộ Giáo Dục), vì không có bản ghi hộ khẩu gốc nên không thể xác định, hai lời khai song hành.
-
-[^5]: [Wikipedia: Mó Na·Lũ Đạo (Đoạn Thân Hình)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Phần "Thân Hình" của mục mô tả Mó Na thân thể cao lớn ngoài, dự kiến chiều cao gần 190 cm, chữ "dự kiến" đánh dấu đây là truyền thuyết, không có bằng chứng đo lường xương.
-
-[^6]: [Wikipedia: Gaya (Seediq và Tào Luật)](https://zh.wikipedia.org/zh-tw/Gaya_(賽德克族與太魯閣族) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — Giải thích Gaya là đạo huấn, luật lệ, quy chuẩn xã hội và điều cấm kỵ của tộc Seediq, do linh tổ Utux quyết định, không thể thay đổi, quy định các nghĩa vụ tập thể của cùng tế lễ, cùng cơi ổn định, cùng ăn, cùng tuân thủ điều cấm kỵ, cùng gánh chịu hình phạt
-
-[^7]: [Taiwan Insight: Khám Phá Chính Trị Văn Hóa Giới Tính của "Seediq·Bale"](https://taiwaninsight.org/2019/02/21/exploring-the-gendered-cultural-politics-of-seediq-bale/) — Nền tảng Taiwan Insight của Đại học Nottingham công bố bài của nhà học Lâm Tân Như, phân tích xuống hạ (mgaya) trong văn hóa Seediq liên quan đến báo thù, phán quyết thiêng liêng, cầu mong vụ thu hoạch, tưởng nhớ tổ tiên và tiêu chuẩn trưởng thành nam giới, chứ không phải bạo lực đơn thuần.
-
-[^8]: [Wikipedia: Cầu Vồng (Tín Ngưỡng Seediq)](https://zh.wikipedia.org/zh-tw/彩虹橋_(賽德克族) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — Giải thích tín ngưỡng Seediq rằng sau khi chết người phải vượt qua cầu vồng (Hakaw Utux) để gặp gỡ tổ tiên, đầu cầu do linh hồn hình cua (Utux Kalan) canh gác kiểm tra vết henna trên mặt, nam phải lấy đầu, nữ phải biết dệt để có tư cách vết henna, mới có thể vượt qua cầu vồng
-
-[^9]: [Duke University Press: Leo Ching "Anti-Japan"](https://www.dukeupress.edu/anti-japan) — Nhà xuất bản Đại học Duke phát hành chuyên đề nghiên cứu hậu thực dân của Kinh Tử Hương (Leo Ching), đề ra khái niệm "ràng buộc kép thuộc địa" (colonial double-bind) của người bản địa vùng thuộc địa, chỉ bị "dạy vặn" thành "nửa người văn minh" nhưng lại bị thực dân coi là man rợ, cả hai bên không chấp nhận.
-
-[^10]: [Taiwan Insight: Chính Trị Văn Hóa Giới Tính của "Seediq·Bale"](https://taiwaninsight.org/2019/02/21/exploring-the-gendered-cultural-politics-of-seediq-bale/) — Bài báo giải thích Seediq Bale trong tiếng Seediq có nghĩa là "người thực thụ", là khái niệm cốt lõi của thế giới quan Seediq.
-
-[^11]: [Guava Nhân Loại Học: Quác Minh Chính nói về Tái Hiện Văn Hóa của "Seediq·Bale"](https://guavanthropology.tw/article/2150) — Blog chung nhân loại học Guava đăng, tổng hợp xác minh của cố vấn văn hóa phim Quác Minh Chính (Dakis Pawan) về từ ngữ phim và chi tiết văn hóa, chỉ ra "tế lễ máu cho tổ tiên" là do đạo diễn phát minh, tiếng Seediq không có từ tương ứng.
-
-[^12]: [Wikipedia: Chính Sách Lý Bản](https://zh.wikipedia.org/zh-tw/理蕃政策) — Mục cơ bản lý bản của Nhật Bản đối với người bản địa Đài Loan, từ Cục Phát Triển và Bình Định, năm 1906 chuyển cảnh sát quản lý, 1910–1915 "Kế Hoạch Lý Bản Năm Năm" của Tổng Đốc Tả Cửu Gian Tả Mã Đài (khoảng 16,3 triệu yên Nhật chinh phục quân sự), năm 1915 hủy vũ khí, bước vào giai đoạn đồng hóa, cấm xuống hạ, vết henna trên mặt.
-
-[^13]: [Wikipedia: Sự Kiện Wushe (Đoạn Vùng Bản Địa Mẫu Hình)](https://zh.wikipedia.org/zh-tw/霧社事件) — Đoạn "Vùng Bản Địa Mẫu Hình" của mục trích dẫn, người bản địa Wushe khoảng 95% có thể sử dụng tiếng Nhật đơn giản để giao tiếp với cảnh sát và giáo viên Nhật Bản, được xem là thành quả lý bản.
-
-[^14]: [University of California Press: Paul D. Barclay "Outcasts of Empire"](https://www.ucpress.edu/books/outcasts-of-empire/paper) — Nhà xuất bản Đại học California phát hành chuyên đề của Barclay phân tích sửa chữa lý bản Nhật Bản, mô tả Wushe là "một khu lạp lạnh do những người ngoại lai chủ yếu kiểm soát, sự yên tĩnh và lòng trung thành của cư dân địa phương chỉ có thể được coi là đáng ngờ".
-
-[^15]: [Wikipedia: Sự Kiện Wushe (Đoạn Lao Động và Đối Xử)](https://zh.wikipedia.org/zh-tw/霧社事件) — Mục ghi lại 1928–1930 người bản địa khu vực Wushe bị huy động chín lần lao động, năm 1928 công trình xây dựng đền thờ bị khấu trừ tiền mặt cơm và buộc quyên góp, tiền lương mỗi ngày 20–30 tiền, thấp hơn người Hoa 60 tiền.
-
-[^16]: [Wikipedia: Mó Na·Lũ Đạo (Đoạn Hôn Nhân Kondō)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Mục ghi Cảnh Sát Nhật Kondō Ghi Tam Lang lấy em gái Mó Na là Điềm Uế Tư·Lũ Đạo rồi bỏ cô ấy, theo Gaya phụ nữ bị chồng bỏ không thể quay về nhà, trở thành một sự phẫn nộ được tích lũy trong sự kiện Wushe.
-
-[^17]: [Taipei Times: Bài Đánh Giá Sách "Kondo the Barbarian"](https://www.taipeitimes.com/News/feat/archives/2024/01/18/2003812257) — Bài đánh giá sách Taipei Times giới thiệu "Kondo the Barbarian" của Paul Barclay, xác minh rằng "Kondō Ghi Tam Lang" là anh em trai của Kondō Thắng Tam Lang, một nhân vật lý bản quan trọng, làm rõ vai trò của gia đình Kondō ở Wushe.
-
-[^18]: [Wikipedia: Sự Kiện Wushe (Đoạn Sự Kiệnnâng chén)](https://zh.wikipedia.org/zh-tw/霧社事件) — Mục ghi 7 tháng 10 năm 1930 con trai cả Mó Na là Đạt Đa·Mó Na tại bữa tiệc cướinâng chén rượu cho cho Cảnh Sát Nhật Cát Thôn Khắc Kỷ, tay có máu thú bị coi là không sạch sẽ, Cát Thôn từ chối và dùng gậy cảnh sát đánh, hai bên xung đột, Cát Thôn bị thương, chuyện mở đầu cho sự kiện Wushe.
-
-[^19]: [Wikipedia: Sự Kiện Wushe (Mô Tả Sự Kiệnnâng chén)](https://zh.wikipedia.org/zh-tw/霧社事件) — Cùng mục ghi chép nguyên văn Cát Thôn Khắc Kỷ vì "ghét chiếc bàn tiệc không sạch sẽ đó" từ chối Đạt Đa·Mó Nanâng chén rượu cho và dùng gậy cảnh sát đánh taynâng chén rượu cho, hai bên xung đột.
-
-[^20]: [Wikipedia: Sự Kiện Wushe (Đoạn Cuộc Tấn Công Bất Ngờ)](https://zh.wikipedia.org/zh-tw/霧社事件) — Mục ghi lại 27 tháng 10 năm 1930 sáng sớm, sáu xã khoảng 300 chiến sĩ phân chia công việc, tấn công 13 nơi đóng trú cảnh sát, chiếm lấy súng đạn, sau đó lao vào sân thể dục Trường Tiểu Học Công Lập Wushe.
-
-[^21]: [Wikipedia: Sự Kiện Wushe (Đoạn Sáu Xã Khởi Sự)](https://zh.wikipedia.org/zh-tw/霧社事件) — Mục liệt kê sáu xã khởi sự là Maha Bô, Tả Lạo Uần, Ba Ác Luân, Tư Khố, Hồ Cô, La Đa Phu, ghi rõ xã Bà Lan có dân số nhiều nhất với thủ lĩnh Uế Lịch Tư·Bố Nê không tham gia, những người kích động chính là Bí Hồ·Sa Bô và Bí Hồ·Uế Lợi Tư của xã Hồ Cô.
-
-[^22]: [Taipei Times: Bắn Phá Khí Độc Sự Kiện Wushe](https://www.taipeitimes.com/News/feat/archives/2015/10/25/2003630860) — Báo cáo chuyên sâu Taipei Times, ghi lại đó giết 134 người Nhật (gồm phụ nữ trẻ em), và nhầm giết hai người Hoa mặc áo kimono (Lý Thái Vân và chủ cửa hàng Lưu Tài Lương).
-
-[^23]: [Wikipedia: Sự Kiện Wushe (Đoạn Vũ Khí Thu Được)](https://zh.wikipedia.org/zh-tw/霧社事件) — Mục ghi lại những chiến sĩ khởi sự trong cuộc tấn công bất ngờ thu được khoảng 180 khẩu súng và 23,037 phát đạn.
-
-[^24]: [Wikipedia: Sự Kiện Wushe (Đoạn Dập Tắc)](https://zh.wikipedia.org/zh-tw/霧社事件) — Mục ghi Nhật Bản huy tập quân đội và cảnh sát, tuyến đầu do Thiếu Tướng Thơm Điền Di Huyền chỉ huy (không phải Tổng Đốc Thạch Tủa Anh Tàng), sử dụng máy bay ném bom, pháo núi bắn phá, kéo dài khoảng năm mươi ngày cho đến đầu tháng 12.
-
-[^25]: [Taipei Times: Bắn Phá Khí Độc Sự Kiện Wushe](https://www.taipeitimes.com/News/feat/archives/2015/10/25/2003630860) — Báo cáo tổng hợp tranh cãi sử dụng khí độc trong cuộc dập tắc Nhật Bản, gồm bằng chứng "da bị phục hồi" từ những thứ phía sau, và bản điện tín của Đảng Nhân Dân Đài Loan đầu năm 1931 tới Liên Hợp Quốc phản đối Nhật Bản "sử dụng khí độc để diệt chủng".
-
-[^26]: [Wikipedia: Sự Kiện Wushe (Đoạn Tranh Cãi Khí Độc)](https://zh.wikipedia.org/zh-tw/霧社事件) — Mục trình bày hai phía của tranh cãi khí độc: lập trường khí độc bão hòa và ý kiến nhà sử học Nhật Bản Haruyama Akito rằng quân đội Nhật sử dụng "hàng trăm phát lựu đạn gas cay cộng ít nhất ba phát khí đặc biệt (có chứa cyanide và thành phần gas cay)", Wikipedia tiếng Nhật thậm chí viết "cho đến nay vẫn chưa rõ ràng".
-
-[^27]: [JACAR Trung Tâm Tài Liệu Lịch Sử Châu Á Nhật Bản: Tài Liệu Liên Quan Sự Kiện Wushe (S5-2-26)](https://www.jacar.archives.go.jp/das/meta/C10050152200) — Sưu tập bởi Viện Nghiên Cứu Quốc Phòng Sở Quốc Phòng Nhật Bản, số hóa bởi JACAR, chứa tài liệu liên quan sự kiện Wushe, bao gồm bức điện mật 5 tháng 11 năm 1930 từ Sở Quân Sự Phó Quan gửi cho Tham Mưu Trưởng Quân Đội Đài Loan, yêu cầu sử dụng đạn độc bão hòa vì quan tâm đến quan hệ đối ngoại không được thảo luận, các vấn đề liên quan đạn khí phải truyền đạt bằng mật mã.
-
-[^28]: [Taipei Times: Bắn Phá Khí Độc Sự Kiện Wushe](https://www.taipeitimes.com/News/feat/archives/2015/10/25/2003630860) — Báo cáo trích dẫn bức điện mật Sở Quân Sự "Đạn khí bằng mật mã", luận chứng Nhật Bản không phải từ chối sử dụng mà là cố ý không để lại bằng chứng, là chìa khóa chứng minh ý định che giấu có chủ ý.
-
-[^29]: [Wikipedia: Đảng Nhân Dân Đài Loan (Đoạn Giải Tán)](https://zh.wikipedia.org/zh-tw/臺灣民眾黨_(1927年) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — ) — )) — Mục ghi Đảng Nhân Dân Đài Loan vì hành động phản đối sự kiện Wushe v.v., bị buộc giải tán tháng 2 năm 1931; nghiên cứu sự kiện Wushe cũng chỉ ra Nhật Bản mãi năm 1975 mới ký kết bản ghi nhớ Geneva cấm khí độc
-
-[^30]: [Wikipedia: Mó Na·Lũ Đạo (Đoạn Tự Sát Treo Cổ)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Mục ghi con số tự sát treo cổ của phụ nữ và trẻ em trong sự kiện Wushe, tài liệu tiếng Trung khoảng 296 người, Wikipedia tiếng Anh khoảng 290 người, con số có sự khác biệt.
-
-[^31]: [Hong Kong 01: Chuyên Đề 90 Năm Sự Kiện Wushe](https://www.hk01.com/藝文中國/536836/) — Báo cáo Hong Kong 01 tổng hợp các quan điểm khác nhau 90 năm sự kiện Wushe, gồm cách hậu duệ bộ tộc Thanh Lưu hiểu tự sát treo cổ của phụ nữ: không phải lễ tế anh dũng mà là "không có lựa chọn" dưới Gaya của sự tuyệt vọng bị buộc.
-
-[^32]: [Wikipedia: Mó Na·Lũ Đạo (Đoạn Thời Gian Tử Vong)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Mục ghi bộ xương Mó Na tìm thấy năm 1933, ngày tử vong là phỏng đoán, có nhiều phiên bản 11 tháng 5, giữa tháng 11, 28 tháng 11, 1 tháng 12, về cơ bản không thể xác định chính xác.
-
-[^33]: [Wikipedia: Mó Na·Lũ Đạo (Đoạn Cách Chết Vợ Con)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Mục ghi ấn phẩm Nhật năm 1936 nói Mó Na giết vợ con, nhưng những người thế hệ này biết sự kiện này sau này xác nhận, vợ Mó Na thực ra tự treo cổ, vì tự sát vợ con là vi phạm Gaya tộc Seediq.
-
-[^34]: [Wikipedia: Mó Na·Lũ Đạo (Xác Minh Của Những Người Thế Hệ)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Cùng mục ghi nguyên văn "Vì tự sát vợ con là vi phạm Gaya tộc Seediq, những người thế hệ này biết sự kiện này sau này xác nhận, vợ Mó Na Lũ Đạo thực ra tự treo cổ".
-
-[^35]: [Wikipedia: Sự Kiện Wushe (Thống Kê Thương Vong)](https://zh.wikipedia.org/zh-tw/霧社事件) — Wikipedia tiếng Trung chia chết của sáu xã thành dao kiếm 85, bắn phá 137, pháo 34, lấy đầu 87, treo cổ 296, cộng 639, ngoài ra bị bắt 265, đầu hàng khoảng 500, những người khởi sự 1.236; Wikipedia tiếng Anh ghi những người khởi sự khoảng 1.200, tử vong 644, treo cổ 290, con số không đối lên nhưng hướng nhất quán.
-
-[^36]: [Bảo Tàng Lịch Sử Quốc Gia Đài Loan Sưu Tập: Ảnh Cái Đầu Sự Kiện Wushe Lần Thứ Hai](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2017.025.0192.0019) — Mạng sưu tập Bảo Tàng Lịch Sử Quốc Gia Đài Loan, ảnh lịch sử (số đăng ký 2017.025.0192.0019), ghi lại lịch sử nhóm Đạo Trạch thân Nhật tấn công trại bảo vệ bản địa, chặt 101 cái đầu sự kiện Wushe lần thứ hai.
-
-[^37]: [China Times: Sự Kiện Wushe Lần Thứ Hai](https://www.chinatimes.com/hottopic/20151021002524-260812) — Báo cáo China Times tổng hợp sự kiện Wushe lần thứ hai (25 tháng 4 năm 1931) Cảnh Sát Nhật Tiểu Đảo Nguyên Trị kích động nhóm Đạo Trạch tấn công đêm trại bảo vệ, mở ra bốn mức tiền thưởng đầu thủ lĩnh/chiến sĩ/phụ nữ/trẻ em, sau này nhóm Đạo Trạch chia được đất của sáu xã khởi sự.
-
-[^38]: [Wikipedia: Thiết Mộc·Uế Lực Tư](https://zh.wikipedia.org/zh-tw/鐵木·瓦力斯) — Mục ghi tổng thủ lĩnh nhóm Đạo Trạch Thiết Mộc·Uế Lực Tư (khoảng 1898–1930/11/11) và nhóm Tê Cố Đạt Dạ có mâu thuẫn cũ về cơi ổn định, Nhật Bản lâu nay gây xuyên tạc, Tiểu Đảo Nguyên Trị tận dụng bối cảnh này.
-
-[^39]: [Wikipedia: Thiết Mộc·Uế Lực Tư (Đoạn Phim Là Hư Cấu)](https://zh.wikipedia.org/zh-tw/鐵木·瓦力斯) — Mục trích dịch giả tiếng Seediq Iwan Pering xác minh, theo Gaya Mó Na hoàn toàn không thể xâm lấn cơi ổn định của nhóm khác, hai người thậm chí có thể có quan hệ nhân duyên, phim kéo chúng thành mâu thuẫn cá nhân không thể chung mái nhà là hư cấu.
-
-[^40]: [Wikipedia: Sự Kiện Wushe (Đoạn Đánh Giá Nhóm Đạo Trạch)](https://zh.wikipedia.org/zh-tw/鐵木·瓦力斯) — Mục chuyển tải vị trí của Quác Minh Chính (Dakis Pawan) từ chối lên án nhóm Đạo Trạch là "phản bội thân Nhật": "Đã hứa người ta, Seediq phải làm cho đến cùng, đây cũng là tinh thần Seediq Bale".
-
-[^41]: [Columbia University Press: Michael Berry Biên Tập "The Musha Incident: A Reader"](https://zh.wikipedia.org/zh-tw/霧社事件) — Nhà xuất bản Đại học Columbia năm 2022 phát hành độc giả sự kiện Wushe, gồm chương Nakao Eki Pacidal khám phá Hoa Cương Nhất Lang, Nhị Lang là "những người ở giữa" (inbetweener) được Nhật Bản dạy dỗ.
-
-[^42]: [Wikipedia: Hoa Cương Nhất Lang](https://cup.columbia.edu/book/the-musha-incident/9780231197472/) — Mục ghi Hoa Cương Nhất Lang (Đạt Kỳ Tư·Nô Tân) học qua Trung Học Đài Trung, sự kiện xảy ra trước tiên xử lý gia đình rồi tự đâm bằng dao bản, Hoa Cương Nhị Lang (Đạt Kỳ Tư·Na Uê) dẫn dân tộc treo cổ, hai người không phải anh em ruột, cùng xuất thân từ xã Hồ Cô.
-
-[^43]: [Aichi留魂錄: Lá Thư Di Chúc Tiếng Nhật Hoa Cương Nhị Lang](https://zh.wikipedia.org/zh-tw/花岡一郎) — Mạng tiếng Nhật lưu trữ nguyên văn bức thư di chúc tiếng Nhật Hoa Cương Nhị Lang 27 tháng 10 năm 1930, bắt đầu "我等は此の世を去らねばならぬ／蕃人のこうふんは出役の多い為にこんな事件になりました", giải thích gốc gác nổi loạn từ lao động quá nặng.
-
-[^44]: [Wikipedia: Hoa Cương Nhị Lang](https://ritouki-aichi.com/vot/) — Mục ghi vợ Hoa Cương Nhị Lang Cao Sơn Sơ Tử (tên Seediq Nga Tân·Tá Đạt Ô) sống sót, sau này trở thành nhân chứng quan trọng nhất của nhà văn Đặng Tương Dương trong nghiên cứu sự kiện Wushe.
-
-[^45]: [Đài Loan Phát Sóng: Vòng Lặp Bắt Đầu Và Kết Thúc Xương Mó Na·Lũ Đạo](https://zh.wikipedia.org/zh-tw/花岡二郎) — Báo cáo tổng hợp quá trình xương Mó Na, ghi con trai hoàn cảnh Hoa Cương Nhị Lang Cao Quang Hoa (Awi Dakis, 1930–2001) sau này làm trưởng huyện Nhân Ái, chính là người năm 1973 đón xương Mó Na về.
-
-[^46]: [Wikipedia: Bộ Tộc Thanh Lưu (Đoạn Di Cư Bắt Buộc Xuyên Trung Đảo)](https://www.telltaiwan.org/?p=2848) — Mục ghi 6 tháng 5 năm 1931 khoảng 298 người sống sót từ sáu xã khởi sự (tài liệu tiếng Nhật nói 278 người) bị buộc di cư tới "Xuyên Trung Đảo" (cao nguyên bao quanh bởi Sông Bắc Cảng, Sông Miên Nguyên, Sông A Bì Tư), cấm quay lại, bị xử tử 3 người cố gắng quay lại, bệnh lỵ chảy máu nước lỏng và sốt rét lây lan.
-
-[^47]: [Wikipedia: Thạch Tủa Anh Tàng](https://zh.wikipedia.org/zh-tw/清流部落) — Mục ghi sau sự kiện Wushe, Tổng Đốc Đài Loan Thạch Tủa Anh Tàng và Bộ Trưởng Tổng Vụ Nhân Kiến Thứ Lang 16 tháng 1 năm 1931 mất chức, Giám Đốc Cảnh Sát Thạch Tỉnh Bảo, Tri Sự Đài Trung Thủy Việt Hạnh Nhất cũng mất chức.
-
-[^48]: [University of California Press: Paul D. Barclay "Outcasts of Empire"](https://zh.wikipedia.org/zh-tw/石塚英藏) — Chuyên đề Barclay từ góc độ sửa chữa đập nát thần thoại "một dân tộc đoàn kết chống bạo lực" sạch sẽ, chỉ ra nhóm Đạo Trạch, Đạo Trạch hợp tác với Nhật giết những người khởi sự, dấu lửa là xấu hổ và lao động trước mặt chứ không phải kế hoạch tiêu diệt toàn tộc, nhưng cũng nhấn mạnh cách Nhật Bản đáp lại là "genocidal fury".
-
-[^49]: [Đài Loan Phát Sóng: Phát Hiện Và Xác Minh Xương Mó Na·Lũ Đạo](https://www.ucpress.edu/books/outcasts-of-empire/paper) — Báo cáo ghi 6 tháng 7 năm 1933 thợ săn xã Ba Ác Luân phát hiện xương trong hang đá bên phải Sông Maha Bô, con gái Mó Na Mã Hồng·Mó Na dựa vào vật dụng xác minh danh tính.
-
-[^50]: [oh!Sir: Bốn Mươi Năm Mẫu Vật Của Xương Mó Na·Lũ Đạo Và Chính Trị Ký Ức](https://www.telltaiwan.org/?p=2848) — Bài viết chuyên sâu tổng hợp xương Mó Na 13 tháng 6 năm 1934 triển lãm công khai tại Sở Quận Năng Cao (gần muười nghìn khách quanh co), 1 tháng 7 triển lãm trên tủ kính tại triển lãm cảnh sát ở vườn thực vật, khách quan tâm nhất là xương Mó Na.
-
-[^51]: [Phong Truyền Truyền Thông: Bốn Mươi Năm Mẫu Vật Xương Mó Na·Lũ Đạo](https://ohsir.tw/4977/) — Bài viết chuyên sâu Phong Truyền ghi xương 28 tháng 6 năm 1934 gửi tới Đại Học Đế Quốc Đài Bắc, do bài giảng Nhân Loại Học Phong Tục Idegawa Shinosuke tiếp nhận, sau đó do nhà khoa học giải phẫu Kinseki Takeo thực hiện nghiên cứu "bàn chân lớn", từ đó trở thành mẫu vật nhân học có số hiệu khoảng bốn mươi năm.
-
-[^52]: [Đài Loan Phát Sóng: Bức Thư Của Lý Dã Viên Cho Hiệu Trưởng Diễm Chấn Hưng Và Trả Lại Xương](https://www.storm.mg/lifestyle/4093871) — Báo cáo ghi 17 tháng 9 năm 1973 Lý Dã Viên Đại Diện Chủ Tịch Khoa Khảo Cổ Nhân Loại Học Đại Học Đài Loan viết thư cho Hiệu Trưởng Diễm Chấn Hưng đề xuất trả lại xương, 24 tháng 12 cùng năm Mó Na·Lũ Đạo rời Đại Học Đài Loan.
-
-[^53]: [oh!Sir: Mẫu Vật Và Bằng Chứng "Nguyên Thủy" Của Sự Mỉa Mai](https://www.telltaiwan.org/?p=2848) — Bài viết chỉ ra sự kiện Wushe ban đầu được thực dân dùng để "chứng minh" người bản địa "nguyên thủy" "man rợ", nhưng Mó Na chết rồi lại làm bốn mươi năm mẫu vật nhân học, chính là sự mỉa mai của nhân loại học.
-
-[^54]: [Phong Truyền Truyền Thông: Xương Mó Na·Lũ Đạo Và Nghi Thức Người Hoa Trong Chôn Cất](https://ohsir.tw/4977/) — Báo cáo ghi lễ chôn cất do Chủ Tịch Tổng Thống Đài Loan Tạ Đông Bản chủ trì, dùng toàn bộ nghi thức người Hoa (linh đường, vòng hoa, tiếng khóc, xe linh), bia trước mộ lập cây cổng trắng kiểu Trung Quốc.
-
-[^55]: [Columbia University Press: Giới Thiệu Sách "The Musha Incident: A Reader"](https://www.storm.mg/lifestyle/4093871) — Giới thiệu sách của Nhà Xuất Bản Đại Học Columbia, Michael Berry chỉ ra sự kiện Wushe bị ba phía chiếm dụng: người Nhật chứng minh "man rợ", chính phủ quốc dân tuyên bố là chứng cứ anh dũng người Đài Loan và đoàn kết với người Trung Quốc, những người chủ trương độc lập coi nó là mẫu mực của truyền thống văn hóa "thực thụ".
-
-[^56]: [Wikipedia: Mó Na·Lũ Đạo (Đoạn Sùng Kính Chiến Hậu)](https://cup.columbia.edu/book/the-musha-incident/9780231197472/) — Mục ghi Mó Na năm 1969 được vào Đền Thờ Liệt Sĩ (người bản địa đầu tiên), năm 1970 Viện Hành Pháp trao bằng khen (Bộ Nội Vụ Từ Khánh Tùng ký) lịch sử sùng kính chiến hậu.
-
-[^57]: [Hong Kong 01: Lịch Sử Tái Xây Dựng Bia Tưởng Niệm Wushe](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Báo cáo lịch sử thay đổi bia tưởng niệm Wushe: năm 1950 Cao Vĩnh Thanh phá hủy đền thờ thành lập "Bia Tưởng Niệm Dư Sinh", năm 1953 lập "Máu Anh Dũng Gió Anh Dũng" cánh cổng và bia tưởng niệm các nạn nhân (Chủ Tịch Tổng Thống Đài Loan Ngô Quốc Triệp ký), sau khi Ngô Quốc Triệp gặp bê bối sửa thành "Bia Tưởng Niệm Khởi Nghĩa Chống Nhật Bản Địa Wushe" (Hoàng Kiệt ký).
-
-[^58]: [Hong Kong 01: Cố Hằng Trương Luận Bia Tưởng Niệm Và Chính Trị Ký Ức](https://www.hk01.com/藝文中國/536836/) — Báo cáo trích dẫn quan điểm của nhà sử học Cố Hằng Trương bài "Ký Ức Chảy Lượn" (Tạp Chí Lịch Sử Đài Loan 29 tập 1 kỳ, 2022) chỉ ra mỗi lần chính quyền thay đổi người ký tên sẽ đổi, bia văn sẽ khắc lại, nhà nước khắc chính trị ký ức vào cùng tảng đá.
-
-[^59]: [Bảo Tàng Kỷ Vật Kỷ Vật Điện Tử Ngân Hàng Trung Ương: Mục Đích Phát Hành Tiền Xu Hai Mươi Ngàn](https://www.hk01.com/藝文中國/536836/) — Trang chính thức Ngân Hàng Trung Ương ghi lý do chính thức phát hành tiền xu hai mươi ngàn là "để tôn trọng lịch sử văn hóa người bản địa Đài Loan, thúc đẩy hòa hợp các cộng đồng dân tộc".
-
-[^60]: [Wikipedia: Seediq·Bale](https://museum.cbc.gov.tw/web/zh-tw/circulation/currency/62) — Mục ghi phim Vũ Đức Thánh năm 2011 "Seediq·Bale" (phần một "Lá Cờ Mặt Trời", phần hai "Cầu Vồng") tổng doanh thu Đài Loan khoảng 880 triệu, vào danh sách dự tuyển Liên Hoan PhimVenezia, đoạt giải Kim Mã Phim Chính Kịch Xuất Sắc, vào danh sách chín Oscar Phim Ngoại Ngữ Xuất Sắc, diễn viên thành niên Mó Na là Lâm Khánh Đài.
-
-[^61]: [Guava Nhân Loại Học: Quác Minh Chính Bình "Seediq·Bale" Mất Mát Văn Hóa](https://zh.wikipedia.org/zh-tw/賽德克·巴萊) — Guava Nhân Loại Học tổng hợp chỉ trích của cố vấn văn hóa phim Quác Minh Chính (Dakis Pawan): "tế lễ máu cho tổ tiên" "tự hào" là đạo diễn phát minh, Mó Na nổ súng giết vợ vi phạm Gaya (đã cảnh báo Vũ Đức Thánh nhưng vẫn quay), xuống hạ được làm đẹp thành thành tựu nam tính cá nhân.
-
-[^62]: [Taiwan Insight: Uế Lịch Tư·Nô Cán Chỉ Trích Chủ Nghĩa Anh Hùng Cá Nhân](https://guavanthropology.tw/article/2150) — Bài báo chuyển tải phê bình của nhà văn bản địa Uế Lịch Tư·Nô Cán về chủ nghĩa anh hùng cá nhân của phim vi phạm truyền thống: lãnh đạo truyền thống bộ tộc tuân theo quyết định tập thể, không có ai có thể tự quyết định.
-
-[^63]: [Purdue CLCWeb: Lâm Tân Như Luận Chính Trị Văn Hóa Giới Tính "Seediq·Bale"](https://taiwaninsight.org/2019/02/21/exploring-the-gendered-cultural-politics-of-seediq-bale/) — Tạp Chí So Sánh Văn Học Và Văn Hóa CLCWeb Đại Học Purdue tập 20 kỳ 5 (2018) đăng bài của Lâm Tân Như, tổng hợp mục từ vấn đề mất mát văn hóa và tái hiện giới tính của "Seediq·Bale".
-
-[^64]: [Wikipedia: Dư Sinh—Seediq·Bale](https://docs.lib.purdue.edu/clcweb/vol20/iss5/7/) — Mục ghi phim tài liệu Tương Hoa Trúc năm 2014 "Dư Sinh—Seediq·Bale" vào danh sách dự tuyển Kim Mã lần thứ 50 Phim Tài Liệu Xuất Sắc Và Âm Thanh Xuất Sắc (cuối cùng không đoạt), theo sau hậu duệ những người sống sót, đi tìm quê hương linh tổ Pusu Qhuni (tảng đá Mẫu Đơn).
-
-[^65]: [China Perspectives: Sebastian Veg Luận Vũ Hạc "Dư Sinh"](https://zh.wikipedia.org/zh-tw/餘生—賽德克·巴萊) — Bài đánh giá sách tạp chí "China Perspectives" của Pháp, phân tích tiểu thuyết Vũ Hạc "Dư Sinh" phỏng vấn hậu duệ những người sống sót, chỉ trích Lý Đăng Hui lập bia, Trần Thủy Biển phát hành tiền xu là chính trị hoá chứ không phải thương tiếc thực sự, những người sống sót sống trong im lặng xấu hổ.
-
-[^66]: [Công Khai Tối Tân: Seediq Tách Ra Từ Thái Anh Chính Danh Thành Tộc Người Bản Địa Thứ 14](https://journals.openedition.org/chinaperspectives/5831) — Tin Công Khai Tối Tân báo cáo 23 tháng 4 năm 2008 Seediq tách ra từ Thái Anh, chính thức chính danh thành tộc người bản địa thứ 14 Đài Loan, dưới bao gồm ba nhóm phương ngữ Tê Cố Đạt Dạ, Đạo Trạch, Đức Lộ Cố.
-
-[^67]: [Phủ Tổng Thống Bản Tin: Tổng Thống Đại Diện Chính Phủ Xin Lỗi Những Người Bản Địa Đài Loan](https://news.pts.org.tw/article/83194) — Bản Tin Chính Thức Phủ Tổng Thống Trung Hòa Dân Quốc, toàn bộ nội dung ghi lại Tổng Thống Thái Anh Văn Ngày Người Bản Địa Đài Loan 1 tháng 8 năm 2016 đại diện chính phủ xin lỗi "Trong bốn trăm năm, mỗi chế độ chính quyền từng đến Đài Loan, bằng cách chinh phục quân sự, lấy cúp đất đai, đã xâm phạm nghiêm trọng những quyền hiện có của người bản địa Đài Loan".
-
-[^68]: [Phủ Tổng Thống Bản Tin: Ủy Ban Lịch Sử Công Lý Và Công Lý Chuyển Tiếp Người Bản Địa Đài Loan](https://www.president.gov.tw/NEWS/20603) — Cùng bản tin ghi Tổng Thống thành lập Ủy Ban Lịch Sử Công Lý Và Công Lý Chuyển Tiếp Người Bản Địa Đài Loan, do Bác Sĩ Pháp Luật Seediq Thái Chí Vĩ (Awi Mona, bác sĩ pháp luật bản địa đầu tiên Đài Loan) làm phó chủ tịch nhóm đất.
-
-[^69]: [Hong Kong 01: Tranh Cãi Xác Định Lãnh Thổ Truyền Thống](https://www.president.gov.tw/NEWS/20603) — Báo cáo tổng hợp năm 2017 phương pháp xác định lãnh thổ truyền thống loại bỏ đất riêng, rút gọn phạm vi có thể xác định từ khoảng 1,8 triệu héc ta còn khoảng 800.000 héc ta, gây ra cuộc đấu tranh dài năm ở Kai Tao.
-
-[^70]: [Domino Theory: Đáp Lại Của Hậu Duệ Seediq Khi Trung Quốc Tái Chiếu](https://www.hk01.com/藝文中國/536836/) — Báo cáo ghi lại năm 2025 "Seediq·Bale" được chiếu lại ở Trung Quốc với tên "giải phóng 80 năm", hậu duệ Seediq Uế Lực Tư Bawan được phỏng vấn đáp lại: "Đây là việc của Trung Quốc và Nhật Bản. Họ dùng một bộ phim về chúng tôi để nói cảm xúc của chúng tôi, nhưng Trung Quốc chưa bao giờ đến hỏi chúng tôi".
-
-[^71]: [Columbia University Press: "The Musha Incident: A Reader"](https://dominotheory.com/seediq-descendents-unfazed-by-china-weaponizing-their-story/) — Độc Giả Sự Kiện Wushe của Nhà Xuất Bản Đại Học Columbia trình bày vấn đề cốt lõi: Mó Na·Lũ Đạo bị ba phía tuyên bố (dân tộc chủ nghĩa người Hoa/Đài Loan, tường thuật dân tộc Trung Hoa, im lặng của hậu duệ Miệt Phương), ba phía với cùng một người có ba quan hệ không thể tương thích, và chính người bị chiếm dụng từ lâu không bao giờ được hỏi.
-
-[^72]: [ETtoday: Bộ Tộc Thanh Lưu Và Lúa Xuyên Trung](https://cup.columbia.edu/book/the-musha-incident/9780231197472/) — Báo cáo Du Lịch ETtoday giới thiệu Bộ Tộc Thanh Lưu (Gluban, Huyện Nhân Ái Tỉnh Nam Đầu) trồng "Lúa Xuyên Trung" (Đài Cương 9 hào, thời kỳ Nhật trị từng tiến cúng Thiên Hoàng), và nhắc tới cách gọi thường thấy trên báo là "bộ tộc bản địa có trình độ giáo dục cao nhất, tập trung viên chức công vụ nhất" (không có thống kê chính thức hỗ trợ, chỉ là cách nói phổ biến).
-
-[^73]: [Đài Loan Quốc Tế Liên Hoan Phim Tài Liệu (TIDF): "Dư Sinh—Seediq·Bale"](https://travel.ettoday.net/article/599194.htm) — Giới Thiệu Tài Liệu Liên Hoan Phim Tài Liệu Quốc Tế Đài Loan về phim "Dư Sinh" của Tương Hoa Trúc, lấy hậu duệ những người sống sót đi tìm quê hương linh tổ Pusu Qhuni làm trục chính, đối mặt với tường thuật kỳ tích của "Seediq·Bale".
-
-[^74]: [Đài Loan Quốc Tế Liên Hoan Phim Tài Liệu (TIDF): "Dư Sinh—Seediq·Bale"](https://www.tidf.org.tw/zh-hant/films/246) — Tài Liệu Liên Hoan Phim Tài Liệu Quốc Tế Đài Loan giới thiệu phim "Dư Sinh" của Tương Hoa Trúc, lấy hậu duệ những người sống sót đi tìm quê hương linh tổ Pusu Qhuni (tảng đá Mẫu Đơn) làm trục chính, đối lập với tường thuật kỳ tích của "Seediq·Bale".
-
-## Nửa mà sách giáo khoa không dạy
-
-Nếu câu chuyện kết thúc ở đây, nó sẽ là một bi kịch sạch sẽ: một cộng đồng dân tộc đoàn kết chống chế độ độc tài, lễ tế anh dũng. Nhưng nửa sau của sự kiện Wushe thực sự, sách giáo khoa hầu như không dạy, vì nó hoàn toàn không sạch sẽ. Ngày 25 tháng 4 năm 1931, "Sự kiện Wushe lần thứ hai" xảy ra. Những người sống sót của sáu xã khởi sự sau khi đầu hàng, bị giam giữ trong các trại "bảo vệ bản địa" ở Tây Bảo, La Đa Phu. Cảnh sát Nhật Tiểu Đảo Nguyên Trị (chính là người được đề cập trước đó) kích động nhóm Đạo Trạch thân Nhật, lập thành khoảng hai trăm người "đội tấn công bản địa thân Nhật", tấn công trại ban đêm. Số người bị giết và tự sát cộng 216 người (những nguồn khác nhau ghi 214, 216 hoặc 218), được chặt 101 cái đầu, con số này có ảnh chụp trong sưu tập của Bảo tàng Lịch sử Quốc gia Đài Loan để chứng thực (số đăng ký 2017.025.0192.0019)[^36].
+Nếu câu chuyện kết thúc ở đây, đó sẽ là một bản trái đạo đức: một dân tộc đoàn kết chống lại ách độc tài, hy sinh vĩ vọng. Nhưng phần sau thực sự của sự kiện Hương Sơn, sách giáo khoa gần như không dạy, bởi vì nó không đạo đức chút nào. Ngày 25 tháng 4 năm 1931, đã xảy ra "Sự kiện Hương Sơn lần thứ hai". Những người sống sót của sáu xã khởi cớ sau đó bị giam giữ tại "trại bảo vệ phu" do thám tử Westphal và Rudoftime quản lý. Cảnh sát Nhật Bản Kojima Genji (chính là cái tên đã đề cập trước đó) kích động một nhóm người theo chủ nghĩa Nhật là Dōzawa nhóm, tổ chức khoảng hai trăm người gọi là "Đội tấn công phu Mikata", tấn công vào trại vào ban đêm. Tổng cộng 216 người bị giết hoặc tự sát (một số nguồn ghi là 214, 216 hoặc 218), có 101 đầu bị cắt xuống, con số này được chứng minh bằng ảnh trong bộ sưu tập của Bảo tàng Lịch sử Quốc gia Đảo Đài Loan (số đăng ký 2017.025.0192.0019)[^36]。 Nhật Bản cũng đưa ra phần thưởng: đầu lĩnh 200 yên, người trưởng lĩnh 100 yên, phụ nữ 30 yên, trẻ em 20 yên. Sau này, Dōzawa nhóm được phân bổ đất đai của sáu xã khởi cớ[^37]。
 
 ```tw-stat
-216 người | Những người bị giết và tự sát trong sự kiện Wushe lần thứ hai | 1931/4/25 đêm
-101 cái đầu | Được chặt xuống | NMTH sưu tập ảnh chứng thực
-200 / 100 / 30 / 20 yên | Tiền thưởng của thủ lĩnh/chiến sĩ/phụ nữ/trẻ em | Nhật Bản mở ra
-Nguồn: Bảo tàng Lịch sử Quốc gia Đài Loan sưu tập 2017.025.0192.0019, Wikipedia tiếng Trung Quốc, China Times
+216 người | Người bị giết hoặc tự sát trong Sự kiện Hương Sơn lần thứ hai | Đêm ngày 25/4/1931
+101 chiếc | Đầu bị cắt xuống | Được chứng minh bởi ảnh trong bộ sưu tập của Bảo tàng Lịch sử Quốc gia Đảo Đài Loan
+200 / 100 / 30 / 20 yên | Phần thưởng cho lĩnh đạo / người trưởng lĩnh / phụ nữ / trẻ em | Do Nhật Bản đưa ra
+Nguồn: Bộ sưu tập của Bảo tàng Lịch sử Quốc gia Đảo Đài Loan 2017.025.0192.0019, Wikipedia tiếng Trung, Thời báo Trung Quốc
 ```
 
-Nói cách khác, cái giết sạch lô người khởi sự Wushe cuối cùng, là một nhóm người bản địa khác. Người bản địa giết người bản địa.
+Nói cách khác, những người cuối cùng giết chết các nhà khởi cớ Hương Sơn, chính là một nhóm người da đỏ khác. Người da đỏ giết người da đỏ.
 
-![Một hàng "đội bản địa thân Nhật" do chính quyền thuộc địa Nhật tổ chức, những chiến sĩ người bản địa cầm vũ khí đi cùng cảnh sát Nhật. Cảnh sát Nhật cố ý sử dụng những mâu thuẫn cũ giữa các nhóm bản địa khác nhau để lấy cơi ổn định, để họ trong sự kiện Wushe lần thứ hai tấn công những người sống sót của cùng một tộc](/article-images/people/musha-mikata-ban-1931.webp)
-_Hàng "đội bản địa thân Nhật" (1931) do Nhật Bản huy tập. Ảnh:Kouhei Ebihara《霧社討伐寫眞帖》. [Public domain via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_scene_of_the_Wushe_Incident.JPG)._
+![Một đội quân do chính quyền Nhật Bản tổ chức gọi là "phu Mikata", gồm người da đỏ trưởng lĩnh cùng vũ khí và cảnh sát Nhật Bản. Cảnh sát Nhật Bản cố tích động các mâu thuẫn thời chiến cũ giữa các nhóm dân tộc, để họ tấn công các nhà khởi cớ cùng dòng chủng loại trong Sự kiện Hương Sơn lần thứ hai](/article-images/people/musha-mikata-ban-1931.webp)
+_Đội quân "phu Mikata" (những người da đỏ theo chủ nghĩa Nhật) do Nhật Bản điều động (1931). Photo: Ebi Hara Kōhei, "Bộ sưu tập ảnh sa trường chiến tranh Hương Sơn". [Public domain via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mikata-Ban2.JPG)。_
 
-Dẫn đầu đội, là tổng thủ lĩnh của nhóm Đạo Trạch **Thiết Mộc·Uế Lực Tư** (khoảng 1898 đến 30 tháng 11 năm 1930). Anh chính là một tấm gương của Mó Na. Giữa nhóm Đạo Trạch và nhóm Tê Cố Đạt Dạ có những mâu thuẫn cũ về cơi ổn định, Nhật Bản lâu nay gây xuyên tạc, Tiểu Đảo Nguyên Trị chính là người tận dụng lớp hận cũ này[^37]. Vợ của Mó Na từng muốn chiêu mộ Thiết Mộc để khởi sự, bị anh từ chối, anh thay vào đó che giấu Tiểu Đảo. Cuối cùng, Thiết Mộc dẫn đội tấn công để bắt đuổi những người khởi sự, bị nhóm Tê Cố Đạt Dạ khai hoạn lấy đầu ở thung lũng Hạ Bần, chết cùng với mười mấy tên tay chân[^38].
+Đứng đầu là **Tích mộc Vattis** (khoảng 1898 đến ngày 11 tháng 11 năm 1930), tổng chướng của Dōzawa nhóm. Anh hẳn là một bản sao gần đúng của Mona. Giữa Dōzawa nhóm và De Guda xã có mâu thuẫn săn tranh lâu đời, Nhật Bản lâu nay kích động, và Kojima Genji chính là người lợi dụng tình huống này[^38]。 Vợ của Mona từng muốn tuyển dụng Tích mộc tham gia khởi cớ, nhưng bị anh từ chối, anh lại giúp kín Kojima Genji. Cuối cùng, Tích mộc dẫn quân tấn công và truy đuổi các nhà khởi cớ, tử trận ở thung lũng sông Hà Băng do De Guda xã đặt bẫy săn đầu, cùng với vài chục người dưới lệnh của mình[^39]。
 
-Phim quay Mó Na và Thiết Mộc như thù tích cá nhân không thể chung mái nhà, nhưng đó là hư cấu. Dịch giả tiếng Seediq Iwan Pering chỉ ra rằng, theo Gaya, Mó Na hoàn toàn không thể xâm lấn cơi ổn định của nhóm khác, hai người thậm chí có thể có quan hệ nhân duyên[^39]. Thiết Mộc không phải phản diện, anh là một thủ lĩnh khác tuân theo cùng một bộ luật Gaya, chỉ là đứng ở phía đối diện. Lên án thành "phản bội thân Nhật", là cách tối giản của những người sau này. Cố vấn văn hóa Seediq Quác Minh Chính (Dakis Pawan) từ chối nhìn nhóm Đạo Trạch như vậy. Anh ấy nói, đã hứa người ta, Seediq phải làm cho đến cùng, cái này cũng là tinh thần của Seediq Bale[^40].
+Trong phim, Mona và Tích mộc được phỏng bảo là kẻ thù không thể hòa bình, nhưng đó là hư cấu. Người dịch tiếng Seediq Iwan Pering chỉ ra rằng theo Gaya, Mona thực sự không thể xâm nhập vào lĩnh thổ săn tranh của nhóm khác, và hai người thậm chí có thể là quan hệ hôn lễ[^40]。 Tích mộc không phải là kẻ phản diện, anh là một nhà lãnh đạo khác tuân theo cùng một logic Gaya, chỉ là đứng ở phía đối diện. Việc khinh miệt anh thành "người phản loạn theo chủ nghĩa Nhật" là sự lạm dụng của thế hệ sau. Tư vấn văn hóa Seediq Kuo Ming-cheng (Dakis Pawan) cũng từ chối nhìn nhận Dōzawa nhóm theo cách đó. Ông nói, nếu hứa với người khác, Seediq cũng phải giữ lời, đó cũng là tinh thần của "Seediq Bale"[^41]。
 
 ```tw-versus
-Mó Na·Lũ Đạo (nhóm Tê Cố Đạt Dạ) | Thiết Mộc·Uế Lực Tư (nhóm Đạo Trạch)
-Thủ lĩnh xã Maha Bô, dẫn sáu xã khởi sự chống Nhật | Tổng thủ lĩnh nhóm Đạo Trạch, dẫn đội tấn công bắt đuổi những người khởi sự
-Để bảo vệ Gaya và đất của tổ tiên nâng súng | Vì mâu thuẫn nhóm bị Nhật tận dụng, che giấu Tiểu Đảo Nguyên Trị
-Khoảng cuối tháng 11 năm 1930 tự sát trong hang | 30/11/1930 tại thung lũng Hạ Bần bị khai hoạn lấy đầu chết
-Anh hùng được khắc trên tiền xu hai mươi ngàn | Bóng tối "phản bội" được bài giảng và phim viết
-Nguồn: Wikipedia "Thiết Mộc·Uế Lực Tư", xác minh của dịch giả tiếng Seediq Iwan Pering
+Mona Lũ Đạo (De Guda xã) | Tích mộc Vattis (Dōzawa nhóm)
+Tổng chướng xã Mã Hài Bắp, dẫn dắt sáu xã khởi cớ chống Nhật | Tổng chướng Dōzawa nhóm, dẫn quân tấn công các nhà khởi cớ
+Bắn để bảo vệ Gaya và đất mẹ của tổ tiên | Bị lợi dụng do mâu thuẫn thời chiến giữa các nhóm, giúp kín Kojima Genji
+Tự sát trong hang động vào cuối tháng 11 năm 1930 | Tử trận ở thung lũng sông Hà Băng vào ngày 11/11/1930
+Là anh hùng được đúc lên đồng xu hai mươi đồng | Là nhân vật bị sách giáo khoa và phim trải nền thành "kẻ phản loạn"
+Nguồn: Wikipedia tiếng Trung "Tích mộc Vattis", chứng kiến của người dịch tiếng Seediq Iwan Pering
 ```
 
-Giữa hai cực của Mó Na và Thiết Mộc, còn kẹp thêm loại người thứ ba: **Hoa Cương Nhất Lang** và **Hoa Cương Nhị Lang**.
+Giữa hai cực đoan của Mona và Tích mộc, còn có một nhóm thứ ba: **Hoa Kōng Nhất** và **Hoa Kōng Nhị**.
 
-Hai người này không có quan hệ máu, cùng xuất thân từ xã Hồ Cô, là "mẫu hình lý bản" được Nhật Bản một tay nuôi dạy: nhận giáo dục Nhật Bản, trở thành cảnh sát Seediq tinh hoa. Nhà học Nakao Eki Pacidal gọi họ là "những người ở giữa" (inbetweener)[^41]. Khi sự kiện nổ ra, họ đã lựa chọn đau đớn nhất. Hoa Cương Nhất Lang (tên Seediq Đạt Kỳ Tư·Nô Tân, Dakis Nobing) đã học qua Trung học Đài Trung, anh trước tiên xử lý gia đình, sau đó dùng dao bản tự đâm vào thân (không phải cách cắt bụng kiểu samurai Nhật). Hoa Cương Nhị Lang (Đạt Kỳ Tư·Na Uê, Dakis Nawi) thì dẫn dân tộc treo cổ[^42]. Họ để lại một lá thư di chúc bằng tiếng Nhật, bắt đầu bằng:
+Hai người này không có quan hệ huyết thống, cùng gia đình Hago, là "mẫu gương lý tưởng" mà Nhật Bản nuôi dưỡng: được giáo dục bởi Nhật Bản, trở thành cảnh sát Seediq. Nhà nghiên cứu Nakao Eki Pacidal gọi họ là "những người ở giữa" (inbetweener)[^42]。 Khi sự kiện bùng phát, họ phải đưa ra lựa chọn đau khổ nhất. Hoa Kōng Nhất (tên Seediq là Dakis Nobing) từng học ở Trường Bình Thường Thành phố, trước tiên chăm sóc gia đình, rồi tự chém bụng tử vong (không phải kiểu tự tử của samurai Nhật Bản). Hoa Kōng Nhị (tên Seediq là Dakis Nawi) dẫn dắt người dân tộc tụt hằn trong tộc ngũ[^43]。 Họ để lại một bức thư tay bằng tiếng Nhật, mở đầu như sau:
 
-> 我等は此の世を去らねばならぬ／蕃人のこうふんは出役の多い為にこんな事件になりました（Chúng tôi phải rời khỏi thế giới này／Người bản địa nổi loạn là vì lao động quá nhiều mới gây ra sự kiện này）[^43].
+> Chúng tôi phải rời khỏi thế giới này / Sự khởi cớ của những người da đỏ là do áp lực lao động quá lớn, dẫn đến sự kiện như thế này[^44]。
 
-Vợ của Hoa Cương Nhị Lang là Cao Sơn Sơ Tử (tên Seediq Nga Tân·Tá Đạt Ô) sống sót, sau này trở thành nhân chứng quan trọng nhất mà nhà văn Đặng Tương Dương nghiên cứu sự kiện Wushe[^44]. Con trai hoàn cảnh của bà là Cao Quang Hoa (Awi Dakis, 1930 đến 2001), sau này từng làm trưởng huyện Nhân Ái, chính là người đó vào năm 1973 đón xương Mó Na về[^45]. Nhật Bản không tin tưởng họ, Seediq cũng chưa chắc tiếp nhận họ. Anh em Hoa Cương chết trong khe nứt của hai thế giới, kể cả lời để lại cuối cùng của họ, cũng được viết bằng tiếng Nhật.
+Vợ của Hoa Kōng Nhị, cao nguyên Khởi Hoa (tên Seediq là Abin Tada), sống sót và sau đó trở thành nhân chứng quan trọng nhất của nhà nghiên cứu về sự kiện Hương Sơn, Đặng Tương Dương[^45]。 Cô mang thai nghẹn và sinh ra con trai là cao nguyên Hoa (Awi Dakis, 1930–2001), sau này trở thành trưởng làng Nhân Ái, và chính là người đưa xác của Mona về vào năm 1973[^46]。 Nhật Bản không tin tưởng họ, và cộng đồng Seediq cũng chưa chắc đã chấp nhận họ. Hai anh em Hoa Kōng chết trong khoảng trống giữa hai thế giới, và thậm chí những dòng chữ cuối cùng họ để lại cũng bằng tiếng Nhật.
 
-Sau khi sự kiện kết thúc, những người sống sót phải trả giá cuối cùng. Ngày 6 tháng 5 năm 1931, khoảng 298 người sống sót từ sáu xã khởi sự (tài liệu tiếng Nhật còn nói 278 người) bị buộc di cư đến "Xuyên Trung Đảo". Tên gọi mặc dù có chữ đảo, nó thực tế là một cao nguyên bao quanh bởi sông Bắc Cảng, sông Miên Nguyên, sông A Bì Tư. Họ bị cấm quay trở về quê hương, có 4 người cố gắng quay lại, 3 người bị xử tử. Bệnh lỵ và sốt rét lây lan ở khu tập trung[^46]. Viên chức Nhật Bản cũng phải chịu trách nhiệm: tổng đốc Thạch Tủa Anh Tàng và bộ trưởng tổng vụ Nhân Kiến Thứ Lang vào ngày 16 tháng 1 năm 1931 mất chức, giám đốc cảnh sát Thạch Tỉnh Bảo, tri sự Đài Trung Thủy Việt Hạnh Nhất cũng mất chức[^47].
+Sau khi sự kiện kết thúc, những người sống sót phải trả giá đắn đỏ. Ngày 6 tháng 5 năm 1931, khoảng 298 người sống sót của sáu xã khởi cớ bị ép buộc di chuyển đến "Kawashima". Dù tên có chữ "đảo", đó thực ra là một thổ lầm giữa ba con sông: sông Kần Thông, sông Mỵ Nghiệp, và sông A Bích. Họ bị cấm quay lại quê nhà, bốn người cố gắng trở lại, ba người bị hành quyết. Bệnh tiểu đường và sốt rét lan truyền trong khu cách ly[^47]。 Nhật Bản cũng trách trách: Tổng đốc Ishizuka Hidezō và Thứ trưởng Nội các Nhân Kiến Jiro đã nộp đơn thu nghỉ vào ngày 16 tháng 1 năm 1931, Cục trưởng Cảnh sát Shii Sada và Thống đốc tỉnh Trung Sở Mizuki Hyoe cũng bị sa thải[^48]。
 
-> 📝 **Ghi chú của người bảo tàng**
-> Tại sao sách giáo khoa chỉ dạy nửa trước, không dạy nửa sau? Vì nửa trước có thể được đặt vào khung "dân tộc Trung Hoa chống Nhật" sạch sẽ, nửa sau không. Sự kiện Wushe lần thứ hai, nhóm Đạo Trạch, người bản địa giết người bản địa, những điều này một khi được mở ra, thần thoại "một dân tộc đoàn kết chống bạo lực" sẽ vỡ. Nhà sử học sửa chữa Barclay đập nát chính cái sạch sẽ này: nhóm Đạo Trạch, nhóm Thái Lỗ Các từng hợp tác với Nhật Bản lấy đầu những người khởi sự, mối dẫn của sự kiện Wushe là xấu hổ và lao động trước mặt mà không phải một kế hoạch tiêu diệt toàn tộc hệ thống[^48]. Nhưng Barclay cũng nhấn mạnh, anh ấy không phải đang giặc trắng hoá chứng chế thuộc địa, cách đáp ứng của Nhật Bản với những người khởi sự thực sự là một loại "genocidal fury" (cuồng nộ tiêu diệt chủng tộc). Anh ấy đập nát, là bộ quần áo sạch sẽ mà chủ nghĩa dân tộc mặc cho sự kiện này, không phải chính đáng của sự kiện khởi sự.
+> 📝 **Ghi chú của người biên tập**
+> Tại sao sách giáo khoa chỉ dạy phần trước, không dạy phần sau? Bởi vì phần trước có thể được đưa vào khung "chống Nhật của dân tộc Trung Hoa" một cách sạch sẽ, nhưng phần sau thì không. Sự kiện Hương Sơn lần thứ hai, Dōzawa nhóm, người da đỏ giết người da đỏ — một khi những sự kiện này được phơi bày, thần thoại "một dân tộc đoàn kết chống áp bức" sẽ sụp đổ. Nhà sử học Barclay just đang phê bình chính sự sạch sẽ này: Dōzawa nhóm và cộng đồng Taroko từng hợp tác với Nhật Bản để săn giết các nhà khởi cớ, và ngòi bức xú của sự khởi cớ Hương Sơn là sự sỉ nhục và áp lực lao động ngay trước mắt, chứ không phải một kế hoạch diệt chủng toàn diện[^49]。 Nhưng Barclay cũng nhấn mạnh, ông không đang cố để nhà nước phản bác, và cách mà Nhật Bản phản ứng với các nhà khởi cớ thực sự là một "cơn thịnh nộ mang tính diệt chủng" (genocidal fury)。 Ông đang phê bình là sự phủ định của dân tộc chủ nghĩa đang tự gán cho sự khởi cớ một chiếc áo sạch sẽ — chứ không phải tính hợp lệ của chính sự khởi cớ.
 
-## Một bộ xương đi bộ bốn mươi năm
+## Một xác xương đã đi bốn mươi năm
 
-Mó Na·Lũ Đạo chết, nhưng câu chuyện của ông vẫn chưa kết thúc. Bởi vì xương ông, tiếp theo sẽ đi một đoạn hành trình kỳ lạ kéo dài gần bốn mươi năm. Ngày 6 tháng 7 năm 1933, một thợ săn của xã Ba Ác Luân tìm thấy một bộ xương trong hang đá bên phải sông Maha Bô. Con gái của Mó Na là Mã Hồng·Mó Na dựa vào chiếc áo vải, vòng tay bạc và dao bản mà nhận ra, xác nhận đó là cha[^49].
+Mônà Rūdào đã chết, nhưng câu chuyện của ông chưa kết thúc. Bởi vì xác ông, một hành trình kỳ lạ sẽ kéo dài gần bốn mươi năm. Ngày 6 tháng 7 năm 1933, người săn người ở bản Pòa-lên đã tìm thấy một xác chết trong hang đá bên bờ sông Mạch-bang. Con gái của Mônà, Mã Hồng Mônà, dựa trên quần áo vụn, vòng tay bằng bạc và lưỡi kiếm chỉ ra, xác nhận đó là cha mình[^50].
 
-![Một tấm ảnh hiện trường của sự kiện Wushe trong bộ "寫眞帖" của Nhật Bản, những cây rừng và định cư từ xa. Người Nhật đã biến toàn bộ sự chinh phục này thành một bộ ảnh, công khai phát hành, triển lãm](/article-images/people/musha-incident-scene-1930.webp)
-_Ảnh hiện trường từ "寫眞帖" của sự kiện Wushe (1930). Biến chinh phục thành triển lãm, và biến xương Mó Na thành mẫu vật, là cùng một xung động. Ảnh:Kouhei Ebihara《霧社討伐寫眞帖》. [Public domain via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:賽德克族馬赫坡社貝珠踝飾_(2).\_
+![Ảnh hiện trường trong tuyển tập ảnh tranh thu hoạch của Nhật Bản, xa xa là rừng và làng mạc. Người Nhật đã biên soạn toàn bộ cuộc chiến tranh thành một cuốn sách ảnh, công bố và trưng chiến](/article-images/people/musha-incident-scene-1930.webp)
+_Ảnh hiện trường do tuyển tập 《霧社討伐寫眞帖》 lưại (1930). Biến cuộc chiến tranh thành trưng bày, giống hệt việc biến xác Mônà thành mẫu vật — đây là cùng một thúc đẩy. Photo: Ebi Hara Kōhei, từ 《霧社討伐寫眞帖》. [Public domain via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_scene_of_the_Wushe_Incident.JPG)。_
 
-Những gì xảy ra tiếp theo, cho đến hôm nay vẫn còn chọc thương. Ngày 13 tháng 6 năm 1934, Sở Quận Năng Cao khánh thành, xương Mó Na được trưng bày công khai, thu hút gần muười nghìn khách tham quan. Ngày 1 tháng 7 cùng năm, lại được đặt trong tủ kính triển lãm tại triển lãm cảnh sát ở vườn thực vật. Theo ghi chép, triển lãm mà khách tham quan quan tâm nhất chính là xương Mó Na[^50]. Ngày 28 tháng 7, xương được gửi tới Đại học Đế quốc Đài Bắc, do bài giảng về nhân loại học phong tục Idegawa Shinosuke tiếp nhận, sau đó lại được nhà khoa học giải phẫu Kinseki Takeo thực hiện một cái gọi là nghiên cứu "bàn chân lớn". Từ đó, Mó Na·Lũ Đạo trở thành một mẫu vật nhân học có số hiệu, một lần đặt là khoảng bốn mươi năm[^51].
+Những gì xảy ra tiếp theo, ngay cả hôm nay khi đọc lại vẫn còn đâm chồi. Ngày 13 tháng 6 năm 1934, khi nhà hành chính huyện Năng-cao đưa công trình hoàn thành, xác Mônà được trưng chiến công khai, thu hút gần mười ngàn người đến xem. Vào ngày 1 tháng 7 cùng năm, xác cũng được đưa ra triển lãm cảnh quan trưng bày của nhà thú, được đặt trong tủ kính. Theo ghi chép, món quà được khách tham quan quan tâm nhất chính là xác Mônà[^51]. Vào ngày 28 tháng 7, xác được chuyển đến Đại học Hoàng gia Bắc Đài, nơi được giáo sĩ lãnh đạo khoa Tục thường nhân học Mizuho-kun nhận về, sau đó qua người nghiên cứu giải phẫu học Kim Quan gia đình thực hiện nghiên cứu "chân lũy lớn". Từ đó, Mônà Rūdào trở thành một mẫu vật mang số hiệu, được bảo quản khoảng bốn mươi năm[^52].
 
 ```tw-timeline
-1933 | Tìm thấy trong hang | Thợ săn xã Ba Ác Luân phát hiện xương, con gái Mã Hồng·Mó Na xác nhận bằng vật dụng
-1934 | Trở thành triển lãm | Sở Quận Năng Cao khánh thành triển lãm công khai (gần muười nghìn khách quanh co), sau đó gửi Đại học Đế quốc Đài Bắc để làm mẫu vật
-1973 | Một lá thư | Đại diện chủ tịch khoa Khảo cổ nhân loại học Lý Dã Viên viết thư cho hiệu trưởng Diễm Chấn Hưng, đề xuất trả lại
-1973 | Cuối cùng quay về | Ngày 24 tháng 12 rời Đại học Đế quốc Đài Bắc, chôn cất lại ở Wushe, được trưởng huyện Nhân Ái Cao Quang Hoa đón
+1933 | Tìm thấy trong hang | Người săn người Pòa-lên tìm thấy xác, Mã Hồng Mônà nhận dạng qua đồ vật
+1934 | Trở thành trưng bày | Nhà hành chính huyện Năng-cao trưng chiến công khai, gần mười ngàn người xem, sau đó gửi Đại học Hoàng gia Bắc Đài làm mẫu vật
+1973 | Một bức thư | Chuyên gia khảo cổ học nhân loại Liễm Nghệ viết thư cho Hiến pháp viên Yến Chấn Hư, đề xuất trả lại
+1973 | Cuối cùng về nhà | Ngày 24 tháng 12 rời khỏi Đại học Quốc gia Bắc Đài, được đưa về chôn cất tại Mây La, do Trưởng xã Nhân ái Cao Quang Hoa đón tiếp
 ```
 
-Người cứu Mó Na từ tủ mẫu vật là một nhà nhân loại học. Ngày 17 tháng 9 năm 1973, Lý Dã Viên, đại diện chủ tịch khoa Khảo cổ nhân loại học Đại học Đài Loan, viết thư cho hiệu trưởng Diễm Chấn Hưng, đề xuất trả lại xương. Cùng năm ngày 24 tháng 12, Mó Na·Lũ Đạo rời Đại học Đài Loan[^52].
+Điều khiển Mônà ra khỏi ngăn kéo tủ sẵn là một nhà nhân loại học. Ngày 17 tháng 9 năm 1973, Liễm Nghệ viên, phó trưởng khoa Khảo cổ nhân loại của Đại học Quốc gia Bắc Đài, viết thư cho Hiến pháp viên Yến Chấn Hư, đề xuất trả lại xác chết. Vào ngày 24 tháng 12 cùng năm, Mônà Rūdào rời khỏi Đại học Quốc gia Bắc Đài[^53].
 
-Có một vòng khép bị chua chát ở đây: lúc đầu biến ông thành mẫu vật "cung cấp cho nghiên cứu" là nhân loại học, cuối cùng cũng là nhân loại học lôi ông ra khỏi tủ mẫu vật. Một người để không bị coi là "vật chứng của tộc người nguyên thủy" mà khởi sự, chết rồi lại đúng là mẫu vật như vậy trong bốn mươi năm, và điều này đích xác chính là cái thứ mà những kẻ thực dân dùng để "chứng minh" ban đầu: người bản địa có bao nhiêu "nguyên thủy", bao nhiêu "man rợ"[^53].
+Đây là một vòng quay đầy chua xót: ban đầu là nhà nhân loại học biến ông thành mẫu vật "để nghiên cứu", cuối cùng cũng là nhà nhân loại học đưa ông ra khỏi ngăn kéo. Một người nổi dậy vì không muốn bị xem là "bằng chứng của dân tộc nguyên thủy", sau khi chết, ông lại trở thành mẫu vật như vậy trong bốn mươi năm — chính xác là thứ mà bọn thuộc địa ban đầu dùng để "chứng minh": người bản địa bao nhiêu "nguyên thủy", bao nhiêu "dã man"[^54].
 
-Và cách ông quay về nhà, vẫn không phải dùng cách riêng của ông. Lễ chôn cất được chủ tịch Tổng thống Đài Loan Tạ Đông Bản chủ trì, dùng một bộ nghi lễ người Hoa hoàn chỉnh: linh đường, vòng hoa, tiếng khóc, xe linh, bàn thờ trước mộ còn lập một cây cổng trắng kiểu Trung Quốc, khắc "máu và gió anh dũng" "can đảm trung thành"[^54]. Kể cả quay về, cũng không phải đi qua cầu vồng riêng của ông.
+Và cách ông về nhà, vẫn không phải theo cách của chính ông. Lễ hội tái hồi do Chủ tịch Chính phủ Đài Loan Tạ Dũng Mãn tổ chức, theo trang trải đầy đủ các nghi lễ phong kiến: tạp hóa, vòng hoa, nhạc tang, xe tang, và cả một tấm bia hoa kiểu phục tại bia mộ, ghi dòng chữ "Máu xanh lãng liệm" và "Lòng dũng cảm chân thành"[^55]. Ngay cả khi về nhà, ông vẫn không đi qua cây cầu mây mà riêng ông đã xây.
 
-![Một góc nhìn khác của vòng chân ngọc trai của Mó Na·Lũ Đạo, những hạt ngọc trai sắp xếp thành hoa văn hình học. Bộ xương ông vào tủ mẫu vật đại học, những vật dụng cùng ông vào sưu tập bảo tàng](/article-images/people/mona-rudao-mahebu-anklet-2.webp)
-_Cùng một vòng chân ngọc trai ở góc nhìn khác, hiện giữ tại Bảo tàng Quốc gia Đài Loan. Một người canh giữ suốt cuộc đời Gaya, cuối cùng cả cơ thể lẫn vật dụng đều trở thành đồ trưng bày trong tủ. Ảnh:氏子, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mona_Rudao_Statue_and_Wushe_Incident_Monument,taken_by_fanglan.jpg).jpg)._
+![Góc nhìn khác của vòng xoăn bên cổ tay của Mônà, các viên ngọc được xếp thành họa tiết hình học. Xác của ông vào tủ sẵn của Đại học, đồ vật cá nhân của ông vào kho bảo tàng](/article-images/people/mona-rudao-mahebu-anklet-2.webp)
+_Góc nhìn khác của cùng một chiếc vòng xoăn bên cổ tay, hiện có tại Bảo tàng Quốc gia Đảo Đài Loan. Một người đã canh giữ một cuộc đời Gaya, cuối cùng cơ thể và đồ vật của ông cũng trở thành trưng bày trong tủ kính. Photo: Sĩ Tử, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:賽德克族馬赫坡社貝珠踝飾_(2).jpg)。\_
 
-> 📝 **Ghi chú của người bảo tàng**
-> Từ năm 1934 đến 1973, cùng một bộ xương được ba lực lượng định nghĩa lần lượt. Người Nhật coi nó là "bằng chứng của sự man rợ", làm thành mẫu vật triển lãm; chính phủ quốc dân coi nó là "anh hùng chống Nhật của dân tộc Trung Hoa", lập bia, vào đền thờ liệt sĩ, trao bằng khen; và sau khi địa phương hoá, nó lại trở thành biểu tượng của "ý thức độc lập Đài Loan". Michael Berry biên tập "The Musha Incident: A Reader" (Nhà xuất bản Đại học Columbia, 2022) giải thích quá trình này rất rõ ràng: ba chế độ, ba cách sử dụng, mỗi cách đều lưu đưa người Seediq từ vị trí chủ thể trong câu chuyện. Mó Na được khắc lên tiền xu hai mươi ngàn, thực ra là lần thứ ba bị chiếm dụng.
+> 📝 **Ghi chú của người biên tập**
+> Từ năm 1934 đến năm 1973, cùng một xác chết đã được ba lực lượng lần lượt định nghĩa. Người Nhật xem ông như "bằng chứng của sự dã man", biến thành mẫu vật trưng chiến; Chính phủ Quốc gia Dân chủ Việt Nam xem ông như "anh hùng chống Nhật của dân tộc Trung Hoa", lắp bia, nhập thờ và tặng huân chương khen thưởng; và sau khi địa phương hóa, ông trở thành biểu tượng của " ý thức Đài Loan bản địa". Cuốn sách do Michael Berry biên soạn 《The Musha Incident: A Reader》(Đại học Columbia, 2022) đã diễn tả rõ quá trình này: ba chế độ, ba cách dùng, mỗi cách đều đẩy người Séc Đặc ra khỏi vị trí trung tâm trong câu chuyện. Mônà được đồng tiền hai mươi đồng in hình, thực ra là lần thứ ba sử dụng lạ.
 
-Berry trong cuốn sách này tóm tắt ba cách sử dụng như thế này (dưới đây là dịch tiếng Việt):
+Trong sách, Berry tóm tắt ba cách dùng như sau (dịch nghĩa):
 
-> Người Nhật dùng nó để chứng minh người bản địa "man rợ"; chính phủ quốc dân trích dẫn sự kiện này, làm bằng chứng người Đài Loan anh dũng, và đoàn kết với người Trung Quốc chống Nhật; nhóm chủ trương độc lập thì coi nó như mẫu mực của truyền thống văn hóa "thực thụ"[^55].
+> Người Nhật dùng để chứng minh sự "dã man" của người bản địa; Chính phủ Quốc gia Dân chủ Việt Nam dẫn dắt cuộc khởi nghĩa này như bằng chứng cho sự can đảm và sự đoàn kết với người Trung Hoa chống Nhật; các nhóm đấu trường độc lập thì dùng như là ví dụ của "văn hóa truyền thống chân thật"[^56].
 
-Dòng chiếm dụng này kéo dài cho đến hôm nay. Năm 1969, Mó Na·Lũ Đạo được vào Đền thờ Liệt sĩ, theo ghi chép là người bản địa đầu tiên được vào. Năm 1970, Viện Hành pháp trao bằng khen, được Bộ Nội vụ Từ Khánh Tùng ký[^56]. Bia tưởng niệm ở Wushe càng được sửa một lần lại một lần: năm 1950 trước tiên Cao Vĩnh Thanh phá hủy đền thờ, lập "Bia Tưởng Niệm Dư Sinh". Năm 1953 lập lên "Máu anh dũng gió anh dũng" cổng và bia tưởng niệm các nạn nhân, được Chủ tịch Tổng thống Đài Loan Ngô Quốc Triệp ký. Sau khi Ngô Quốc Triệp gặp bê bối chính trị, bia văn lại được sửa thành "Bia Tưởng Niệm Khởi Nghĩa Chống Nhật của Bản Địa Wushe", ký tên Hoàng Kiệt[^57]. Nhà sử học Cố Hằng Trương trong bài "Ký Ức Chảy Lượn" chỉ ra, mỗi lần chính quyền thay đổi, người ký tên sẽ đổi một người, bia văn sẽ được khắc lại một lần, nhà nước chính là cách này khắc chính trị ký ức vào cùng một tảng đá[^58].
+Đường dẫn sử dụng kéo dài đến ngày nay. Năm 1969, Mônà Rūdào được nhập thờ vào viện thờ liệt liệm, được cho là người bản địa đầu tiên được nhập thờ. Năm 1970, Hội đồng hành chính quyết định tặng huân chương khen thưởng, do Bộ trưởng Nội vụ Từ Quang Nhật ký pháp[^57]. Bia ký hiệu tại Mây La cũng bị thay đổi nhiều lần: năm 1950, trước tiên là Cao Vĩnh Thanh thái sẽ sa thải đền thờ, lắp bia "Ký ức phần còn lại". Năm 1953, lắp bia "Máu xanh lãng liệm" và bia liệt liệm, do Chủ tịch Chính phủ Đài Loan Tô Quốc Nghiễm chữ ký. Khi Tô Quốc Nghiễm bị sa thải vì bê bối chính trị, bia được thay thành "Bia ký hiệu khởi nghĩa chống Nhật của anh em Mây La", đổi tên thành Huang Jiêu ký[^58]. Nhà sử học Gu Hằng Trân trong bài viết 〈Ký ức lưu lạc〉 chỉ ra, mỗi khi thay đổi quyền lực, người ký tên trên bia sẽ thay đổi, bia sẽ được đánh lại, và nhà nước sẽ khắc lịch sử ký ức chính trị vào cùng một tảng đá này[^59].
 
-Còn chiếc tiền xu hai mươi ngàn, ngân hàng trung ương nói lý do chính thức là "để tôn trọng lịch sử văn hóa người bản địa Đài Loan, thúc đẩy hòa hợp các cộng đồng dân tộc"[^59]. Lời nói hay lắm. Chỉ là khi bạn biết rằng khuôn mặt đó được lôi từ tạp chí Nhật, chiếc tiền xu đó không ai dám lấy, bộ xương đó đã làm bốn mươi năm mẫu vật, "thúc đẩy hòa hợp các cộng đồng dân tộc" sáu chữ này nghe lên là có một trọng lượng khác.
+Về phần đồng hai mươi đồng, lý do chính thức mà Ngân hàng Nhà nước đưa ra là "để tôn trọng lịch sử và văn hóa của người bản địa Đài Loan, thúc đẩy sự hòa hợp dân tộc"[^60]. Nói thế thì nghe hay lắm. Nhưng khi bạn biết rằng khuôn mặt trên đồng xu là chôn từ tạp chí tiếng Nhật, và không ai dám giữ chiếc đồng xu đó, và xác chết đã làm mẫu vật trong bốn mươi năm, thì sáu từ "thúc đẩy sự hòa hợp dân tộc" sẽ mang theo một trọng lượng hoàn toàn khác.
+
+## Chiến binh nào?
+
+Năm 2011, đạo diễn Vũ Đức Sư (Wei Tzu-Cheng) ra mắt phim 《Sác Đắc – Bạ Lai》, chia thành phần I 《Cờ Mặt Trời》 và phần II 《Cây Cầu Mây》, tổng vé bán được khoảng 880 triệu đồng. Phim được dự thi cho khu tranh chính thức tại Lễ hội Phim Venise, giành giải Kim Sư Tử cho phim lạnh giỏi nhất, và cũng lọt vào danh sách chín phim còn lại cho Oscar phim nước ngoài tốt nhất[^61]. Đối với những người sinh năm 1985 trở sau ở Đài Loan, khuôn mặt của Mônạ Rừu Đạ (Mona Rudao) từ nay về sau sẽ là khuôn mặt của linh giác giáo đường Thái Nguyên Lâm (Lin Ching-tai), người đóng vai người lớn tuổi của Mônạ.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/vD_YrB2-C4c" title="《Sác Đắc – Bạ Lai》trailer rạp chiếu HD" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Đoàn phim ARS Film (ARS Film) trailer chính thức tại rạp chiếu. Đối với thế hệ sinh năm 1985 trở sau, khuôn mặt trong trailer này từ nay về sau sẽ là khuôn mặt của Mônạ Rừu Đạ._
+
+Phim đã khiến Mônạ Rừu Đạ được cả thế hệ nhớ mãi, đó là công của nó. Nhưng đó cũng là phiên bản bị nhiều nhà nghiên cứu phê bình nhất vì "lãng mạn hóa".
+
+Người phê bình mạnh nhất chính là cố vấn văn hóa của chính bộ phim, người dòng dõi bộ lạc Sác Đắc – Bạ Lai, tác giả của 《Thật – Bạ Lai》, là Quách Minh Chính (Dakis Pawan). Ông chỉ ra rằng những từ như "hiến tế máu tổ tiên" hay "kiêu hãnh" là những từ do Vũ Đức Sư tự tạo ra, trong tiếng Sác Đắc không có từ tương ứng; Mônạ mở súng giết vợ vi phạm quy tắc Gaya, ông đã cảnh báo Vũ Đức Sư nhưng Vũ vẫn tiếp tục quay; nhân vật Trắc được lột tả thành thành tích cá nhân của nam giới[^62]. Nhà văn bản nguyên thủy Walis Nô Ghan (Walis S. Nogan) chỉ trích rằng sự anh hùng cá nhân trong phim vi phạm truyền thống ra quyết định tập thể: truyền thống lãnh đạo bộ lạc tuân thủ quyết định tập thể, không có ai có thể tự quyết định một mình[^63]. Nhà nghiên cứu Lin Tĩn Như (Lin Tzu-Yuan) trong bài báo cáo năm 2018 tại CLCWeb đã tổng hợp hệ thống những sai lệch văn hóa này[^64].
+
+Nếu nói 《Sác Đắc – Bạ Lai》 là một hiện tượng đáng chú ý thì năm 2014, bộ phim tài liệu của Thỗ Sương Trúc (Tang Shu-chi) 《Sống – Sác Đắc – Bạ Lai》 chính là bản song song của nó. Bộ phim này được dự thi cho giải Kim Sư Tử lý nhất và giải âm thanh tốt nhất tại lần thứ 50 của hội chợ Kim Sư Tử (dù cuối cùng không giành giải), nó đi cùng những người sống sót lại để tìm nguồn gốc của linh hồn Pusu Qhuni (Pusu Qhuni), dùng góc nhìn của những người còn sống để trả lời lại những gì đã được chiếu trên màn ảnh[^65]. Ai cũng viết về đỉnh cao của kháng chiến, nhưng "sau khi sống sót, cách sống tiếp theo" thì ít người viết. Tiểu thuyết gia Vũ Hồi (Wu Hui) trong cuốn 《Sống》 cũng đi theo hướng này, ông đã tiếp cận những người sống sót lại, chỉ trích việc Lý Đăng Phong dựng đồng và Chen Thuyền Bành phát hành đồng tiền, cho rằng đó là sự politic hóa của Mônạ Rừu Đạ thay vì thực sự tưứng nhớ ông; những người sống sót thực sự đang sống trong một sự im lặng xấu hổ[^66].
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/OzBU5FePqJg" title="《Sống – Sác Đắc – Bạ Lai》trailer" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Đoàn phim ARS Film phát hành chính thức trailer của 《Sống》 (2014, Thỗ Sương Trúc) tài liệu. So với sự đáng chú ý của 《Sác Đắc – Bạ Lai》, nó đưa máy quay cho những người còn sống lại._
+
+Câu đố của thời đại vẫn đang tiếp tục. Ngày 23 tháng 4 năm 2008, người Sác Đắc tách ra khỏi người Thái và được công nhận là dân tộc bản địa thứ 14 của Đài Loan, chia thành ba nhóm ngôn ngữ: Đế Quý Đạt, Đạo Tạc, Đức Lô Quý[^67]. Vào ngày 1 tháng 8 năm 2016, trong ngày của dân tộc bản địa, Tổng thống Trắc Ngữ (Tsai Ing-wen) đại diện chính phủ xin lỗi dân tộc bản địa:
+
+> Trong bốn trăm năm, mỗi quyền lực từng đến Đài Loan, thông qua sức mạnh vũ bạ, đất đai bạo lĩnh, đã nghiêm trọng xâm phạm vào quyền lợi đã có của dân tộc bản địa[^68].
+
+Bà đồng thời thành lập Ủy ban Công lý Lịch sử và Công lý Chuyển đổi của Dân tộc Bản địa, do tiến sĩ người Sác Đắc Awi Mona (Awi Mona) – người đầu tiên trở thành tiến sĩ pháp lý của dân tộc bản địa tại Đài Loan – làm trưởng nhóm đất đai[^69]. Nhưng công lý vẫn chưa hoàn toàn được giải quyết. Năm 2017, quy định về khu vực truyền thống đã loại trừ đất đai tư nhân, thu hẹp phạm vi có thể chỉ định từ 1.8 triệu km vuông xuống còn khoảng 800.000 km vuông, gây ra cuộc biểu tình kéo dài hàng năm trên phố Đại Lộ[^70].
+
+Và câu hỏi sắc bén nhất được giao cho thế hệ hiện đại. Năm 2025, 《Sác Đắc – Bạ Lai》 được chiếu lại tại Trung Quốc dưới danh nghĩa "Kỷ niệm 80 năm hoàng quyền". Khi được phỏng vấn, một người dòng dõi Sác Đắc Walis Pawan trả lời như sau (dịch từ báo tiếng Anh):
+
+> Đây là chuyện giữa Trung Quốc và Nhật Bản. Họ dùng một bộ phim về chúng tôi để nói về cảm xúc của chúng tôi, nhưng Trung Quốc chưa bao giờ hỏi chúng tôi[^71].
+
+Câu nói này gần như là chìa khóa cho toàn bài viết. Mônạ Rừu Đạ bị ba bên tuyên trùng nhau: dân tộc chủ nghĩa của người Hán/Đài Loan, câu chuyện của dân tộc Trung Hoa, và sự im lặng của người dòng dõi phản đối; ba bên có ba mối quan hệ không thể đồng thời tồn tại với cùng một người. Và chính người bị lặp lại trong này, từ trước đến nay vẫn chưa bao giờ được hỏi[^72].
+
+## Người thực sự
+
+Quay lại bộ lạc xứ Súc Trong.
+
+Những người còn lại sau khi bị ép đi chuyển đến đảo Phú Sĩ, ngày nay vẫn còn sống tại đây, nơi có tên gọi là Gluban, thuộc hành chính xã Nhân Nghĩa, huyện Nantô. Nơi này trồng một loại gạo gọi là "gạo Phú Sĩ" (mã số 9 của Đài Bắc), thời kỳ Nhật đã từng dâng lên để tế lễ hoàng đế; truyền thông thường nói đây là "bộ lạc người bản địa có trình độ giáo dục cao nhất và quy mô cán sự nhật nhất", dù cho lời nói này không có bất kỳ số liệu thống kê chính thức nào để chứng minh, chỉ là một lời nói phổ thông[^73]. Làng mạ này đứng một cây bia kỷ niệm và một viện bảo tàng kỷ niệm. Những cánh đồng lúa vàng óng từng chín vàng thu hoạch hàng năm. Cuối cùng trong tác phẩm 《Những người còn lại》 của Thái Tường Trúc, những người con cháu vẫn đang lang thang trên dãy núi tìm kiếm nguồn gốc thiên nhiên của linh hồn gọi là Pusu Qhuni[^74].
+
+![Bia đồng tượng đất của Mônạ Rūdào tại xã Nhân Nghĩa, huyện Nantô, sau đó là bia kỷ niệm khởi nghĩa kháng Nhật. Đây là hình ảnh do nhà nước tạo ra cho ông, giữa khoảng cách với những gì ông tự mong muốn trở thành "một người thực sự" — một bộ nhớ chính trị đã bị viết lại nhiều lần](/article-images/people/mona-rudao-statue-monument-2012.webp)
+_Đồng tượng đất của Mônạ Rūdào và bia kỷ niệm khởi nghĩa kháng Nhật tại đây. Ảnh: Từ Hương Lan (fanglan), 2012. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mona_Rudao_Statue_and_Wushe_Incident_Monument,taken_by_fanglan.jpg)。_
+
+Chúng ta cần những anh hùng. Cần một câu chuyện sạch sẽ có thể đưa vào sách vở, cần một đồng xu0 có thể nắm giữ trong bàn tay, cần một bức ảnh có thể treo lên trên tường. Vì vậy chúng ta đã khắc tên Mônạ Rūdào lên đồng 20 đồng, đã viết tên vào "Chống Nhật của dân tộc Trung Hoa", đã chuyển ông thành một bản thánh thoại hùng tráng.
+
+Nhưng Mônạ Rūdào từng mong muốn trở thành, chưa bao giờ là một anh hùng. Ông muốn trở thành Seediq Bale — một người thực sự. Một người có xương rồng trên mặt, có thể bảo vệ được Gaya, và sau khi chết vẫn có thể vượt qua cây cầu mây. Trong thế giới đó, không có Trung Quốc, cũng không có Nhật Bản, chỉ có linh hồn tổ tiên, mảnh rừng săn mồi, cây cầu mây, và những chú cua linh thần ở cổng cầu kiểm tra hai bàn tay của bạn.
+
+Khuôn mặt trên đồng tiền, được chân dung từ tạp chí của người Nhật. Cơ thể xác chết, trong khoảng bốn mươi năm đã trở thành mẫu vật, cuối cùng được chôn cất bằng nghi lễ của người Hán, thậm chí cả con đường về nhà cũng không phải là cây cầu mây của chính ông. Chúng ta đã tặng cho ông mọi thứ, ngoại trừ một điều — đó là không bao giờ coi ông như một con người, mà luôn coi ông như một cây bia kỷ niệm.
+
+Có lẽ bước đầu tiên để thực sự hiểu biết Mônạ Rūdào, không phải là nhớ rằng ông đã giết bao nhiêu người Nhật, mà là hiểu được thế giới mà ông đã dày công bảo vệ, thực ra không cần chúng ta phải chọn phe cho nó.
+
+---
+
+**Đọc thêm**:
+
+- [Wei Tái Thánh](/vi/people/wei-te-sheng-taiwanese-epic-filmmaker) — Đạo diễn của 《Séc Đặc – Bạ Lai》, người đưa Mônạ Rūdào lên màn ảnh, cũng là một phần khác của bài viết này về "bộ phim làm thay đổi bộ nhớ"
+- [Lịch sử và phong trào công nhận lại của dân tộc bản địa Đài Loan](/vi/history/indigenous-peoples-history-and-naming-movement) — Cách Séc Đặc tách ra từ phong trào của người Thái Lượng vào năm 2008, trở thành dân tộc thứ 14 của Đài Loan
+- [Thời kỳ thuộc địa Nhật](/vi/history/japanese-colonial-era) — Chính sách khai thác và năm mươi năm bị thuộc địa hoá của Đài Loan, bối cảnh thời đại của sự kiện Hương Sơn
+- [Công bằng đất đai và lãnh thổ truyền thống của dân tộc bản địa Đài Loan](/vi/society/indigenous-land-justice-and-traditional-territories) — Những mảnh rừng săn mồi mà Mônạ đã bảo vệ, kéo dài đến tranh cãi về lãnh thổ truyền thống ngày nay
+
+## Nguồn hình ảnh và video
+
+Bài viết sử dụng 7 hình ảnh có bản quyền công cộng / giấy phép CC, tất cả đều được lưu đệm tại `public/article-images/people/` để tránh liên kết trực tiếp; đồng thời nhúng hai video chính thức từ công ty phim trái cây (sử dụng công bằng cho mục đích bình luận biên tập):
+
+- [Mona Rudao và các nhà lãnh đạo bộ tộc Seediq](https://commons.wikimedia.org/wiki/File:Mona_Rudao_and_Seediq_tribal_leaders.jpg) (hình đầu tiên) — Nguồn từ cuốn truyện tranh của Ebi Hara Kōhei《Buku tranh khởi chiến Musha》（Công ty Chung hợp, 1931），Public domain (PD-Japan-oldphoto)。Bản gốc là hình dọc, bài viết cắt thành hình vuông để làm hình đầu tiên。
+- [Vòng cổ tay bằng hạt mỏ của Mona Rudao](https://commons.wikimedia.org/wiki/File:賽德克族馬赫坡社貝珠踝飾.jpg) (2019) — Hiện vật thuộc bộ sưu tập của Bảo tàng Quốc gia Đài Loan，chụp bởi Shi Zi，CC BY-SA 4.0。
+- [Cảnh quan hiện trường sự kiện Musha](https://commons.wikimedia.org/wiki/File:The_scene_of_the_Wushe_Incident.JPG) (1930) — Nguồn từ cuốn truyện tranh Nhật bản《Buku tranh khởi chiến Musha》，Public domain (PD-Japan-oldphoto)。
+- [Chỉ huy và nhân viên đội khởi chiến Musha](https://commons.wikimedia.org/wiki/File:Commander_and_Staff_of_Musha_Punitive_force.JPG) (1930) — Nguồn từ cuốn truyện tranh Nhật bản《Buku tranh khởi chiến Musha》，Public domain (PD-Japan-oldphoto)。
+- [Đội quân Mikata-Ban](https://commons.wikimedia.org/wiki/File:Mikata-Ban2.JPG) (1931) — Nguồn từ cuốn truyện tranh Nhật bản《Buku tranh khởi chiến Musha》，Public domain (PD-Japan-oldphoto)。
+- [Vòng cổ tay bằng hạt mỏ của Mona Rudao (góc khác)](<https://commons.wikimedia.org/wiki/File:賽德克族馬赫坡社貝珠踝飾_(2).jpg>) (2019) — Hiện vật thuộc bộ sưu tập của Bảo tàng Quốc gia Đài Loan，chụp bởi Shi Zi，CC BY-SA 4.0。
+- [Tượng đài Mona Rudao và đài khấn khởi chiến Musha](https://commons.wikimedia.org/wiki/File:Mona_Rudao_Statue_and_Wushe_Incident_Monument,taken_by_fanglan.jpg) (2012) — Chụp bởi Hsu Fanglan (fanglan)，CC BY 2.0。
+- Video: [《Seediq Bale》 - Trailer HD](https://www.youtube.com/watch?v=vD_YrB2-C4c) — Kênh YouTube chính thức của công ty phim trái cây (ARS Film)。
+- Video: [《Cuộc đời còn lại – Seediq Bale》 - Trailer](https://www.youtube.com/watch?v=OzBU5FePqJg) — Kênh YouTube chính thức của công ty phim trái cây，biên tập bởi Tang Hsiang-chu năm 2014。
+
+## Tài liệu tham khảo
+
+[^1]: [Bảo tàng Tiền tệ Số của Ngân hàng Trung ương: Đồng xu hai mươi đồng mới](https://museum.cbc.gov.tw/web/zh-tw/circulation/currency/62) — Trang bảo tàng tiền tệ số chính thức của Ngân hàng Trung ương, mô tả đồng xu hai mươi đồng chất lượng kép phát hành vào tháng 7 năm 2001, mặt trước là bức tượng đài trừ Mônạ Rừu Đạo và đồng Lĩnh Trường Bảo tại Hương Sơn, mặt sau là thuyền gỗ ghép của người Đác Tí, là đồng xu lưu hành đầu tiên tại Đài Loan lấy chủ đề dân tộc bản địa.
+
+[^2]: [Báo Thời gian (Nhãn hàng Liên hợp): Câu chuyện thiết kế đồng xu hai mươi đồng](https://time.udn.com/udntime/story/122833/6764473) — Cột mục kho lưu trữ số của nhãn hàng Liên hợp, ghi lại quá trình thiết kế đồng xu hai mươi đồng của Cơ sở In Pháp, khi các nhà thiết kế đã tìm khắp trong tài liệu lịch sử trong nước nhưng không tìm thấy bức ảnh của Mônạ Rừu Đạo, cuối cùng tìm thấy trong một tạp chí tiếng Nhật và dựa trên ảnh để khắc từng đường nét lên mẫu.
+
+[^3]: [Tạp chí Gương sáng: Tại sao đồng xu hai mươi đồng thường bị nhầm là tiền giả](https://www.mirrormedia.mg/story/20220329edi014) — Báo cáo của Tạp chí Gương sáng, cho biết do lượng phát hành thấp và tỷ lệ lưu hành kém, người dân thường bị cửa hàng nhầm là đồng xu giả và từ chối chấp nhận khi thanh toán.
+
+[^4]: [Wikipedia: Mônạ Rừu Đạo](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Bài viết Wikipedia tiếng Trung, tổng hợp tiểu sự của Mônạ Rừu Đạo với tư cách là trưởng làng của cộng đồng Đức Giác của người Séc Đặc, trong khi năm sinh có hai quan điểm là 1880 (Wikipedia tiếng Trung và tiếng Anh) và 1882 (Viện Nghiên cứu Giáo dục Quốc gia Bộ Giáo dục), do không có hồ sơ hộ tịch gốc để xác định chính xác.
+
+[^5]: [Wikipedia: Mônạ Rừu Đạ (phần Thân thể)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Đoạn 'Thân thể' trong bài viết mô tả Mônạ Rừu Đạo với câu 'theo truyền thuyết, chiều cao gần 190 cm', trong khi từ 'theo truyền thuyền' cho thấy đây là câu chuyện, không có bằng chứng xương tủy hỗ trợ.
+
+[^6]: [Wikipedia: Gaya (người Séc Đặc và người Thái Lượng)](<https://zh.wikipedia.org/zh-tw/Gaya_(賽德克族與太魯閣族)>) — Giải thích Gaya như tổng hòa của hệ thống tộc ngũ, luật pháp và quy tắc xã hội cũng như lệ thường của người Séc Đặc, do các thần tổ đặt ra và không thể thay đổi, quy định nghĩa vụ tập thể trong lễ tế, săn chung, ăn chung, giữ lời nguyện cầm tín và chịu trách nhiệm chung.
+
+[^7]: [Taiwan Insight: Khám phá chính trị văn hóa giới tính trong phim 'Séc Đặc – Bạ Lai'](https://taiwaninsight.org/2019/02/21/exploring-the-gendered-cultural-politics-of-seediq-bale/) — Bài viết của nhà nghiên cứu Linh Tinh Như trên nền tảng Taiwan Insight của Đại học Quốc gia Tây Hạ, phân tích nghĩa vụ đa chiều của từ 'Gaya' trong văn hóa Séc Đặc, bao gồm báo thù, phán xét thần thoại, cầu mong mùa màng bội thu hoạch, an ủi tổ tiên và đạt đủ điều kiện trưởng thành, không chỉ đơn thuần là bạo lực.
+
+[^8]: [Wikipedia: Cây cầu mây (niềm tin của người Séc Đặc)](<https://zh.wikipedia.org/zh-tw/彩虹橋_(賽德克族)>) — Giải thích niềm tin của người Séc Đặc rằng người chết phải vượt qua Cây Cầu Mây (Hakaw Utux) để gặp lại tổ tiên, nơi đầu cầu do thần cua Utux Kalan kiểm tra dấu vân tay, chỉ có kẻ săn lĩnh và người dệt vải mới được xác nhận dấu vân và có cơ hội vượt cầu.
+
+[^9]: [Đại học Duke: Leo Ching – 'Chống Nhật'](https://www.dukeupress.edu/anti-japan) — Tác phẩm nghiên cứu hậu thuộc địa của Leo Ching được xuất bản bởi Đại học Duke Press, đưa ra khái niệm 'ràng buộc kép của thuộc địa' (colonial double-bind), chỉ ra rằng người dân bản địa bị bán chước nhưng vẫn bị người thuần hóa cho là hoang dã, không được chấp nhận ở bất kỳ phía nào.
+
+[^10]: [Taiwan Insight: Chính trị văn hóa giới tính trong 'Séc Đặc – Bạ Lai'](https://taiwaninsight.org/2019/02/21/exploring-the-gendered-cultural-politics-of-seediq-bale/) — Bài viết nêu rằng 'Seediq Bale' trong ngôn ngữ Séc Đặc có nghĩa là 'người thực sự', là khái niệm cốt lõi trong thế giới quan của người Séc Đặc.
+
+[^11]: [AntroBus: Quan điểm của Kuo Ming-chéng về việc tái hiện văn hóa trong 'Séc Đặc – Bạ Lai'](https://guavanthropology.tw/article/2150) — Blog nghiên cứu nhân học đa tác giả 'AntroBus' đăng tải, tổng hợp kiểm chứng văn hóa và lời thoại của cố vấn văn hóa phim Kuo Ming-chéng (Dakis Pawan), chỉ ra rằng những cách gọi như 'hiến tế cho thần tổ' là sáng tạo của đạo diễn, trong khi ngôn ngữ Séc Đặc không có từ tương đương.
+
+[^12]: [Wikipedia: Chính sách tiếp cận dân tộc bản địa](https://zh.wikipedia.org/zh-tw/理蕃政策) — Bài viết phân tích sự phát triển của chính sách cai quản của Nhật đối với dân tộc bản địa trên Đài Loan, từ Văn phòng Khai thác, năm 1906 chuyển sang quản lý bởi cảnh sát, kế hoạch năm năm của Sakurada (1910–1915) với ngân ngân hàng khoảng 16,300,000 Nhật Yên cho quân đội và cảnh sát, cho đến năm 1915 bỏ vũ khí và bước vào giai đoạn hóa đơn hóa cấm ra khỏi rừng và xác nhận dấu vân.
+
+[^13]: [Wikipedia: Sự kiện Hương Sơn (phần Mẫu địa bản)](https://zh.wikipedia.org/zh-tw/霧社事件) — Đoạn 'Mẫu địa bản' trong bài viết trỏ dẫn, khu vực Hương Sơn hơn 95% dân tộc bản địa có thể giao tiếp bằng tiếng Nhật đơn giản với cảnh sát và giáo viên Nhật, được xem là mô hình thành công của chính sách tiếp cận dân tộc bản địa.
+
+[^14]: [Đại học California Press: Paul D. Barclay – 'Những người bị loại khỏi Đế quốc'](https://www.ucpress.edu/books/outcasts-of-empire/paper) — Tác phẩm của Barclay được xuất bản bởi Đại học California Press, từ góc nhìn của chủ nghĩa điều chỉnh phân tích chính sách tiếp cận dân tộc bản địa của Nhật, mô tả Hương Sơn như 'một khu vực do người nước ngoài điều khiển, sự im lặng và sự trung thành của nơi này chỉ là có thể nghi ngờ'.
+
+[^15]: [Wikipedia: Sự kiện Hương Sơn (phần Lao động và đãi xử)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bài viết ghi nhận trong giai đoạn 1928–1930, dân tộc bản địa khu vực Hương Sơn bị đi động viên lao động 9 lần, năm 1928 buộc phải đóng tiền ăn và đóng góp tự nguyện cho dự án đền thánh, với mức lương 20–30 tiền/ngày, thấp hơn 60 tiền/ngày của người Hán.
+
+[^16]: [Wikipedia: Mônà Rūdào (phần kết hôn của Kondō)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Bài viết ghi chép cảnh quảnh cảnh cảnh sát Nhật Bản Kondō Gizaburō cưới em gái của Mônà — Dixiasi Rūdào — rồi bỏ rơi cô. Theo luật Gaya, những phụ nữ bị bỏ rơi không thể quay về nhà ngoại, trở thành một phần nguyên nhân dẫn đến sự kiện Mây La. @@LINK16@@
+
+[^17]: [Taipei Times: Nhận xét sách 'Kondō the Barbarian'](https://www.taipeitimes.com/News/feat/archives/2024/01/18/2003812257) — Nhận xét của nhà báo từ Tân Hoa Thời Báo giới thiệu cuốn sách 'Kondō the Barbarian' của Paul Barclay, phân tích nhân vật Kondō Gizaburō — người đã cưới Dixiasi Rūdào — thực chất là anh em của Kondō Katsuzaburō, một nhân vật trọng chính trong cuộc kháng chiến của dân tộc bản địa.
+
+[^18]: [Wikipedia: Sự kiện Mây La (phần lễ rước rượu)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bài viết ghi chép sự kiện vào ngày 7 tháng 10 năm 1930, con trai lớn của Mônà — Dantà Mônà — đã dâng rượu tại bữa tiệc cưới của mình trước khuôn mặt cảnh sĩ Nhật Bản Yoshimura Kakuji. Khi tay cầm máu động vật, Yoshimura từ chối lời mời bằng lý do 'bẩn thỉu', sau đó dùng gậy bẩy đánh đập và dẫn đến cuộc đấm nhau ngay tại chỗ.
+
+[^19]: [Wikipedia: Sự kiện Mây La (miêu tả lễ rước rượu)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bản ghi chép chi tiết của cùng một bài viết, nêu rằng Yoshimura Kakuji đã từ chối lời rước rượu của Dantà Mônà bằng câu nói 'Tôi ghét bữa tiệc bẩn thỉu này', đánh đập tay của anh và dẫn đến cuộc ẩu đoạn giữa hai bên.
+
+[^20]: [Wikipedia: Sự kiện Mây La (phần tấn công bất ngờ)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bài viết ghi chép sự kiện vào sáng ngày 27 tháng 10 năm 1930, khoảng 300 thanh niên từ sáu bộ lạc sáng khải bất ngờ tấn công 13 trạm cảnh sĩ, chiếm lấy vũ khí, rồi lao vào trường học khu vực Mây La để tham gia lễ hội chung.
+
+[^21]: [Wikipedia: Sự kiện Mây La (phần khởi sự sáu bộ lạc)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bài viết liệt kê sáu bộ lạc khởi sự gồm: Maha Pàló, Tarawana, Pò Alun, Xức Khu, Hego và Luđơ Vĩ; đồng thời chỉ rõ bộ lạc Ba Lan — dẫn đầu bởi Vĩ Lập Bố Ninh — không tham gia, trong khi những người thúc đẩy mạnh mẽ nhất là hai người của bộ lạc Hego: Bỉ Hề Sap và Bỉ Hề Varis.
+
+[^22]: [Taipei Times: Vụ khí độc tấn công vào người Sediq](https://www.taipeitimes.com/News/feat/archives/2015/10/25/2003630860) — Báo cáo sâu của Tân Hoa Thời Báo ghi chép sự kiện Mây La, trong đó 134 người Nhật Bản (bao gồm cả phụ nữ và trẻ em) bị giết chết, đồng thời hai người Trung Hoa mặc y phục Nhật bị nhầm giết chết là Lý Thái Vân và Lưu Tái Lương.
+
+[^23]: [Wikipedia: Sự kiện Mây La (phần thu giữ vũ khí)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bài viết ghi chép số lượng vũ khí thu được trong cuộc tấn công bất ngờ: khoảng 180 khẩu súng bắn và 23.037 viên đạn.
+
+[^24]: [Wikipedia: Sự kiện Mây La (phần đàn áp)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bài viết ghi chép việc Nhật Bản tập hợp quân đội và cảnh quan để đàn áp, với chỉ huy trực tiếp từ phía trước là Thiếu tướng Kamada Yigoro (không phải Tổng trấn Ishizuka Hidemori), sử dụng máy bay ném bom và pháo phương trời để tiến hành đàn áp trong khoảng năm mươi ngày cho đến đầu tháng Mười Hai.
+
+[^25]: [Taipei Times: Vụ khí độc tấn công vào người Sediq](https://www.taipeitimes.com/News/feat/archives/2015/10/25/2003630860) — Báo cáo phân tích tranh cãi quanh việc sử dụng bom khí độc trong đàn áp, bao gồm lời khai của người dân bị da bỏng rách và tài liệu gửi từ Đảng Nhân Dân miền Nam Việt Nam năm 1931 đến Liên Hiệp Quốc để phản đối hành động 'giết chóc bằng khí độc'.
+
+[^26]: [Wikipedia: Sự kiện Mây La (phần tranh cãi khí độc)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bài viết trình bày hai quan điểm trái ngược trong tranh cãi khí độc: một bên cho rằng đây là khí độc gây bỏng rách da, trong khi nhà sử học Nhật Bản Haruyama Akihiro cho rằng đây là khoảng vài trăm viên mỡi và ít nhất ba loại khí đặc biệt (bao gồm cyanide và mỡ), và trích dẫn từ Wikipedia tiếng Nhật cho rằng vấn đề vẫn chưa được làm rõ.
+
+[^27]: [Trung tâm Lịch sử Châu Á Nhật Bản JACAR: Tài liệu liên quan đến sự kiện Mây La (S5-2-26)](https://www.jacar.archives.go.jp/das/meta/C10050152200) — Tài liệu do Bộ Quốc phòng Nhật Bản lưu trữ và JACAR số hóa, bao gồm thư điện tử ngày 5 tháng 11 năm 1930 từ phụ trách quân sự Bộ Quân giải gửi cho tổng tham mưu trưởng quân đội miền Nam Việt Nam, yêu cầu không thảo luận công khai về việc sử dụng đạn bỏng rách da, đồng thời chỉ định rằng mọi thông tin liên quan đến bom khí phải được truyền bằng mật mã.
+
+[^28]: [Taipei Times: Vụ khí độc tấn công vào người Sediq](https://www.taipeitimes.com/News/feat/archives/2015/10/25/2003630860) — Báo cáo dẫn dắt nội dung thư mật từ Bộ Quân giải ghi chú 'bom khí phải được truyền bằng mật mã', luận chứng rằng chính phủ Nhật Bản không phủ nhận việc sử dụng khí độc mà là cố tình không ghi chép lại, phản ánh rõ thái độ giấu giếm.
+
+[^29]: [Wikipedia: Đảng Nhân Dân miền Nam Việt Nam (phần giải thể)](<https://zh.wikipedia.org/zh-tw/臺灣民眾黨_(1927年)>) — Bài viết ghi chép rằng Đảng Nhân Dân miền Nam Việt Nam bị Nhật Bản buộc giải thể vào tháng Hai năm 1931 do phản đối sự kiện Mây La và các hoạt động khác; nghiên cứu liên quan cũng chỉ ra rằng Nhật Bản không ký kết Hiến lệ Geneva cấm sử dụng khí độc cho đến năm 1975.
+
+[^30]: [Wikipedia: Mônà Rūdào (phần tự sát)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Bài viết ghi chép số lượng phụ nữ và trẻ em tự sát tập thể trong sự kiện Mây La: theo nguồn tiếng Trung Việt Nam khoảng 296 người, trong khi Wikipedia tiếng Anh ghi khoảng 290 người, hai con số này có sự chênh lệch.
+
+[^31]: [Hồng Kông 01: Hội đề chuyên đề 90 năm Bực tự sự ở Musha](https://www.hk01.com/藝文中國/536836/) — Hồng Kông 01 tổng hợp nhiều quan điểm khác nhau về 90 năm kỷ niệm Bực tự sự ở Musha, bao gồm cả cách hiểu của các dòng dõi còn lại của bộ lạc Thanh Lâm về cái chết của phụ nữ: không phải là hy sinh vĩ đại, mà là không còn lựa chọn nào dưới áp lực của Gaya.
+
+[^32]: [Wikipedia: Mạt Na Lũ Đạo (phần thời gian chết)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Bài viết cho biết hài cốt của Mạt Na Lũ Đạo chỉ được tìm thấy vào năm 1933, ngày tháng năm không thể xác định chính xác, có nhiều phiên bản như ngày 5 tháng 11, giữa tháng 11, ngày 28 tháng 11, ngày 1 tháng 12, v.v.
+
+[^33]: [Wikipedia: Mạt Na Lũ Đạo (phần vợ chết)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Bài viết ghi nhận rằng vào năm 1936, các ấn phẩm Nhật Bản cho rằng Mạt Na Lũ Đạo giết chết vợ và con, nhưng những người chứng kiến sự kiện xác nhận rằng vợ ông thực sự tự treo cổ chết, vì giết chết vợ và con vi phạm Gaya của bộ lạc Seediq.
+
+[^34]: [Wikipedia: Mạt Na Lũ Đạo (phần bằng chứng từ người dân)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Bài viết trích dẫn nguyên văn: 'Vì giết chết vợ và con là vi phạm Gaya của bộ lạc Seediq, sau này được những người chứng kiến sự kiện xác nhận rằng vợ của Mạt Na Lũ Đạo thực sự tự treo cổ chết'.
+
+[^35]: [Wikipedia: Bực tự sự ở Musha (phần thống kê thương vong)](https://zh.wikipedia.org/zh-tw/霧社事件) — Wikipedia tiếng Trung cho biết số người chết ở sáu bản đầu tiên bao gồm: bị giết bằng dao súng 85 người, bị bom giết 137 người, bị đạn pháo giết 34 người, bị săn đầu 87 người, tự treo cổ chết 296 người (tổng cộng 639 người); trong khi Wikipedia tiếng Anh ghi nhận khoảng 1.200 người khởi xướng, 644 người chết, 290 người tự treo cổ chết, hai nguồn số liệu có sự chênh lệch.
+
+[^36]: [Bộ sưu tập Bảo tàng Lịch sử Quốc gia Đảo Đài Loan: Ảnh chân dung đầu tiên của Bực tự sự lần hai](https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2017.025.0192.0019) — Trang web bộ sưu tập ảnh lịch sự của Bảo tàng Lịch sự Quốc gia Đảo Đài Loan (số đăng ký 2017.025.0192.0019), ghi lại sự kiện vào năm 1931 khi nhóm Đao Dzewei tấn công trại tạm trú và cắt đầu 101 người.
+
+[^37]: [Thời báo Trung Quốc: Bực tự sự lần hai ở Musha](https://www.chinatimes.com/hottopic/20151021002524-260812) — Báo cích của Thời báo Trung Quốc tổng hợp sự kiện Bực tự sự lần hai (ngày 25 tháng 4 năm 1931), khi cảnh sát Nhật Bản Small Dzũng biên tập Đao Dzewei đêm, đưa ra mức thù lao cho lãnh đạo, thanh niên, phụ nữ và trẻ em, và sau đó các nhóm Đao Dzewei chia sẻ lại đất đai của sáu bản.
+
+[^38]: [Wikipedia: Thuyền trưởng Thuyền Thép](https://zh.wikipedia.org/zh-tw/鐵木·瓦力斯) — Bài viết mô tả Thuyền trưởng Thuyền Thép (khoảng 1898–11 tháng 11 năm 1930) của nhóm Đao Dzewei và mối thù lớn lâu dài với nhóm Thuyền Thép, cũng như nền tảng mà các lực lượng Nhật Bản kéo dài kích động và sử dụng Thuyền trưởng Thuyền Thép.
+
+[^39]: [Wikipedia: Thuyền trưởng Thuyền Thép (phần trận chiến thung lĩnh Hà Băng)](https://zh.wikipedia.org/zh-tw/鐵木·瓦力斯) — Bài viết ghi nhận rằng vợ của Mạt Na Lũ Đạo từng mời Thuyền trưởng Thuyền Thép nhưng bị từ chối, Thuyền trưởng Thuyền Thép sau đó trốn giấu Thuyền trưởng Thuyền Thép, cuối cùng dẫn đội quân tấn công và bị săn đầu bởi nhóm Thuyền Thép tại thung lĩnh Hà Băng, chết cùng với hơn mười người theo hắn.
+
+[^40]: [Wikipedia: Thuyền trưởng Thuyền Thép (phần phim hư cấu)](https://zh.wikipedia.org/zh-tw/鐵木·瓦力斯) — Bài viết trích dẫn nghiên cứu của người dịch tiếng Seediq Iwan Pering, chỉ ra rằng bộ phim đưa Mạt Na Lũ Đạo và Thuyền trưởng Thuyền Thép thành kẻ thù cá nhân là hư cấu, vì theo Gaya của Mạt Na Lũ Đạo, ông không thể xâm nhập vào khu vực săn bắn của nhóm khác, và hai người thậm chí có quan hệ hôn lễ.
+
+[^41]: [Wikipedia: Bực tự sự ở Musha (phần đánh giá về nhóm Đao Dzewei)](https://zh.wikipedia.org/zh-tw/霧社事件) — Bài viết trích dẫn quan điểm của Guo Ming Zheng (Dakis Pawan) phản đối việc gán nhãn 'phản quốc' cho nhóm Đao Dzewei: 'Nếu hứa với người khác, thì bộ lạc Seediq phải làm đến cùng, đó cũng là tinh thần của Seediq Bale'.
+
+[^42]: [Đại học Columbia: Tập sách 'Sự kiện Musha' do Michael Berry biên soạn](https://cup.columbia.edu/book/the-musha-incident/9780231197472/) — Đại học Columbia xuất bản năm 2022 cuốn sách nghiên cứu về Bực tự sự ở Musha, bao gồm chương của Nakao Eki Pacidal phân tích cách Hua Kang Ichi và Hua Kang Jiro trở thành 'người ở giữa' dưới sự giáo dục Nhật Bản.
+
+[^43]: [Wikipedia: Hua Kang Ichi](https://zh.wikipedia.org/zh-tw/花岡一郎) — Bài viết mô tả Hua Kang Ichi (Đức Sĩ Nhĩ Bản) từng học ở Trường Bình Thường Thành Đài, trong sự kiện ông trước tiên chăm sóc gia đình rồi tự đâm dao vào bụng chết, cùng với Hua Kang Jiro (Đức Sĩ Nhĩ Vị) dẫn dắt người dân tự tử, hai người không phải anh em ruột mà đều thuộc bộ lạc Hego.
+
+[^44]: [Lưu vọng ký Aichi: Di chúc tiếng Nhật của Hua Kang Jiro](https://ritouki-aichi.com/vot/) — Trang web tiếng Nhật thu thập di chúc tiếng Nhật của Hua Kang Jiro vào ngày 27 tháng 10 năm 1930, mở đầu bằng lời: 'Chúng tôi không thể rời khỏi thế giới này / Vì người Ngoại xâm quá nhiều, nên sự kiện này xảy ra', giải thích rằng bạo loạn xuất phát từ sự ép buộc cực khét khec.
+
+[^45]: [Wikipedia: Hua Kang Jiro](https://zh.wikipedia.org/zh-tw/花岡二郎) — Bài viết mô tả Hua Kang Jiro, vợ ông là Gao Shan Chu (Áp Bình Tử Tứ), đã sống sót qua sự kiện, sau đó trở thành nhân chứng quan trọng cho nhà nghiên cứu về Bực tự sự ở Musha, Deng Xiang Yang.
+
+[^46]: [Phát sóng Đài Loan: Quá trình hoàng thự của mộ bụi của Mô Nha Lũ Đạo](https://www.telltaiwan.org/?p=2848) — Báo cáo tổng hợp quá trình hoàng thự mộ bụi của Mô Nha, ghi chép lại Awi Dakis (1930–2001), người kế vị làm trưởng xã Awi tại thị trấn Hoa Giác, chịu trách nhiệm đón đưa mộ bụi của Mô Nha về vào năm 1973.
+
+[^47]: [Wikipedia: Bộ lạc Thanh Lưu (Phần về di chuyển ép buộc tại xứ đảo trung tâm)](https://zh.wikipedia.org/zh-tw/清流部落) — Bài viết ghi chép ngày 6 tháng 5 năm 1931, khoảng 298 người (một số nguồn Nhật cho là 278 người) từ sáu bản xã bị ép buộc di chuyển đến khu vực đồng bằng xung quanh sông Bắc Cảng, sông Mỡ Nguyên và sông A Bi Sát, nằm ở đảo trung tâm, với lệnh cấm trở về và hành quyết những người cố về, đại dịch tiểu đường và sốt rét lan rộng.
+
+[^48]: [Wikipedia: Thạch Thù La](https://zh.wikipedia.org/zh-tw/石塚英藏) — Bài viết ghi chép sau vụ khủng hoảng Hơi Lãnh, tổng trấn Đài Loan Thạch Thù La cùng Thủ trưởng Bộ chuyên mục Nhân viên Thân Nhân Nhật ngày 16 tháng 1 năm 1931 đệ đơn từ chức, đồng thời Giám đốc Cảnh sát Thành phố Thái Dương và Thị trấn Trung Quốc cũng bỏ chức.
+
+[^49]: [University of California Press: Paul D. Barclay - Outcasts of Empire](https://www.ucpress.edu/books/outcasts-of-empire/paper) — Cuốn sách của Barclay từ góc độ cải cách chỉ ra sự giả tạo trong câu chuyện 'một dân tộc đoàn kết chống áp bức', chỉ ra rằng các bộ lạc Đảo và Thái Lãng từng hợp tác với Nhật để truy bắn kẻ gây rối, kích động là sự hôn mỗi và lao động cưỡng bức, nhưng đồng thời nhấn mạnh phản ứng của phương Nhật thực sự là 'cơn thịch độc giết người'.
+
+[^50]: [Phát sóng Đài Loan: Tìm thấy và nhận dạng mộ bụi của Mô Nha Lũ Đạo](https://www.telltaiwan.org/?p=2848) — Báo cáo ghi chép ngày 6 tháng 7 năm 1933, thợ săn Pô A Lan tại bờ phải sông Mạc Hồ Bàng tìm thấy xác chết trong hang động, được xác nhận danh tính bởi con gái Mô Nha Lũ Đạo - Mạ Hồng Mô Nha, nhẫn bằng bạc và dao dĩ khương.
+
+[^51]: [oh!Sir: Những năm tháng của mẫu vật và chính trị ký ức của Mô Nha Lũ Đạo](https://ohsir.tw/4977/) — Bài viết tổng hợp quá trình trưng bày mộ bụi của Mô Nha vào ngày 13 tháng 6 năm 1934 tại văn phòng hành chính thị trấn Năng Cao (thu hút gần mười ngàn người xem), và ngày 1 tháng 7 cùng năm được trưng bày trong khu vườn thực vật dưới dạng tủ kính, với mẫu vật xương của Mô Nha là món quà được khán giả quan tâm nhất.
+
+[^52]: [Phong Truyền: Hành trình bốn mươi năm của mẫu vật của Mô Nha Lũ Đạ](https://www.storm.mg/lifestyle/4093871) — Bài viết của Phong Truyền ghi chép ngày 28 tháng 6 năm 1934, mộ bụi được gửi đến Đại học Hoàng gia Đài Loan, tiếp nằm ở bộ môn Văn hóa dân tộc học do di cư đến Nhật, sau đó được nghiên cứu bởi nhà khảo cổ học Kim Quan Nhân 'Đôi chân lớn', trở thành mẫu vật đánh số trong khoảng bốn mươi năm.
+
+[^53]: [Phát sóng Đài Loan: Thư của Lý Nghệ Nguyên gửi cho Yên Chân Hư và việc trả lại mộ bụi](https://www.telltaiwan.org/?p=2848) — Báo cáp ghi chép ngày 17 tháng 9 năm 1973, Lý Nghệ Nguyên - trưởng bộ môn khảo cổ học nhân loại của Đại học Đài Loan gửi thư đến hiệu trưởng Yên Chân Hư đề xuất trả lại mộ bụi, và ngày 24 tháng 12 cùng năm, mộ bụi của Mô Nha Lũ Đạo rời khỏi Đại học Đài Loan để hoàng thự tại Hơi Lãnh.
+
+[^54]: [oh!Sir: Sự mâu thuẫn giữa mẫu vật và 'bằng chứng nguyên thủy'](https://ohsir.tw/4977/) — Bài viết chỉ ra sự mâu thuẫn trong việc bị chế độ thuộc địa sử dụng để 'chứng minh' người bản địa nguyên thủy và hoang dã, trong khi Mô Nha Lũ Đ đã trở thành mẫu vật khoa học trong bốn mươi năm, và cả quá trình tạo mẫu và trả lại mộ bụi đều phản ánh sự mâu thuẫn của khoa học nhân loại học.
+
+[^55]: [Phong Truyền: Nghi lễ thờ cúng của người Hán trong lễ hoàng thự của Mô Nha Lũ Đạo](https://www.storm.mg/lifestyle/4093871) — Báo cáo ghi chép nghi lễ hoàng thự của mộ bụi do Chủ tịch Chính phủ Đài Loan Tập bang - Tạ Dũng Minh - chủ trì, áp dụng đầy đủ nghi lễ người Hán (hội trường tang, vòng hoa, nhạc tang, xe tang), với bia đá trắng màu phong cách Trung Quốc tại chân mộ ghi 'Bình máu hùng vĩ' và 'Can đảm trung thành'.
+
+[^56]: [Columbia University Press: Giới thiệu - The Musha Incident: A Reader](https://cup.columbia.edu/book/the-musha-incident/9780231197472/) — Giới thiệu sách của Đại học Columbia, Michael Berry chỉ ra vụ khủng hoảng Hơi Lãnh bị ba bên lạm dụng: Nhật dùng để chứng minh 'sự hoang dã', chính quyền quốc gia dùng làm bằng chứng cho sự dũng cảm của người Đài Loan và sự đoàn kết Trung Quốc, và những người ủng hộ độc lập dùng như 'truyền thống văn hóa thực sự'.
+
+[^57]: [Wikipedia: Mô Nha Lũ Đạo (Phần về sự tôn kính sau chiến tranh)](https://zh.wikipedia.org/zh-tw/莫那·魯道) — Bài viết ghi chép hành trình tôn kính của Mô Nha vào năm 1969 (là người bản địa đầu tiên được tôn kính trong đền thờ liệt sĩ), và năm 1970 được Bộ Nội các tặng thưởng khen (do Bộ trưởng Nội các Từ Hồng Chung ký tên).
+
+[^58]: [Hong Kong 01: Lịch sử cải tạo đài tưởng niệm Hơi Lãnh](https://www.hk01.com/藝文中國/536836/) — Báo cáo phân tích lịch sử cải tạo đài tưởng niệm Hơi Lãnh: năm 1950, Cao Vĩnh Thanh tháo dời đền thánh để lắp đặt 'đài tưởng niệm cho những người còn lại', năm 1953 lắp đặt 'bảng tượng Bình máu hùng vĩ' và đài tưởng niệm cho những người hy sinh (có chữ ký của Võ Quốc Chân), và sau skandal của Võ Quốc Chân, thay đổi thành 'đài tưởng niệm cho người dân Hơi Lãnh kháng chiến chống Nhật' (có chữ ký của Huang Jié).
+
+[^59]: [Hong Kong 01: Thuyết luận của Cố Hồng Trì về đài tưởng niệm và chính trị ký ức](https://www.hk01.com/藝文中國/536836/) — Báo cáo dẫn dắt quan điểm của nhà sử học Cố Hồng Trì trong bài viết 'Bốn vòng ký ức: Đọc lịch sử đài tưởng niệm Hơi Lãnh' (Tạp chí Nghiên cứu Lịch sử Đài Loan, tập 29, số 1, 2022), chỉ ra rằng những lần cải tạo đài tượng cho thấy sự thao túng ký ức của nhà nước.
+
+[^60]: [Bảo tàng số tiền tệ Ngân hàng Nhà nước: Mục đích phát hành đồng xu hai mươi đồng](https://museum.cbc.gov.tw/web/zh-tw/circulation/currency/62) — Trang web chính thức của Ngân hàng Nhà nước ghi rõ mục đích phát hành đồng xu hai mươi đồng là 'để tôn trọng lịch sử văn hóa của người bản địa Đài Loan và thúc đẩy hòa hợp dân tộc'.
+
+[^61]: [Wikipedia: Xêdêg Bâlai](https://zh.wikipedia.org/zh-tw/賽德克·巴萊) — Bài viết ghi nhận bộ phim của Wei Tzu-sheng năm 2011, "Xêdêg Bâlai" (tập 1: Cờ Mặt Trời, tập 2: Cây Cầu Bảng), doanh thu vé ở Đài Loan khoảng 880 triệu đồng, được đề cử thi phần tranh giải chính thức ở Lễ hội phim Venise, giành giải Phim truyện xuất sắc nhất ở giải Kim Sắc, được chọn vào danh sách sáu phim nước ngoài xuất sắc nhất Oscar, vai diễn chính của Mona được chơi bởi Lin Qing-tai.
+
+[^62]: [Bach Bài Nhân học: Guo Mingzhen đánh giá "Xêdêg Bâlai"](https://guavanthropology.tw/article/2150) — Bach Bài Nhân học tổng hợp nhận xét của cố vấn văn hóa của bộ phim, Guo Mingzhen (Dakis Pawan): các yếu tố như "hiến tế máu cho thần tổ" và "kiêu hãnh" là sản phẩm của đạo diễn; vụ sát giết vợ của Mona vi phạm Gaya (từng cảnh báo Wei Tzu-sheng); việc ra ngoài được lãng dịch thành thành tích cá nhân nam tính.
+
+[^63]: [Taiwan Insight: Walis Nogan phê bình chủ nghĩa anh hùng cá nhân](https://taiwaninsight.org/2019/02/21/exploring-the-gendered-cultural-politics-of-seediq-bale/) — Bài viết trích dẫn nhận xét của nhà văn bản nguyên thủy Walis Nogan, chỉ ra rằng chủ nghĩa anh hùng cá nhân trong bộ phim vi phạm truyền thống lãnh đạo của cộng đồng Xêdêg, theo đó mọi quyết định đều được thực hiện thông qua thảo luận tập thể, không có bất kỳ cá nhân nào tự quyết định.
+
+[^64]: [Purdue CLCWeb: Lin Jinru về chính trị giới tính và văn hóa trong "Xêdêg Bâlai"](https://docs.lib.purdue.edu/clcweb/vol20/iss5/7/) — Tạp chí So sánh văn học và văn hóa của Đại học Purdue, CLCWeb, tập 20, số 5 (2018), đăng tải bài viết của Lin Jinru, phân tích hệ thống những sai lệch trong cách bộ phim thể hiện giới tính và văn hóa.
+
+[^65]: [Wikipedia: Sống Lại — Xêdêg Bâlai](https://zh.wikipedia.org/zh-tw/餘生—賽德克·巴萊) — Bài viết ghi nhận bộ phim tài liệu của Tang Hsiang-chu năm 2014, "Sống Lại — Xêdêg Bâlai", được đề cử cho giải Phim tài liệu xuất sắc nhất và Giải âm thanh xuất sắc nhất tại Lễ hội Kim Sắc lần thứ 50 (không giành giải), khám phá hành trình của những người sống sót tìm kiếm nguồn gốc thần tổ Pusu Qhuni (Đá Sen).
+
+[^66]: [China Perspectives: Sebastian Veg về tiểu thuyết "Sống Lại" của Wu Jieh](https://journals.openedition.org/chinaperspectives/5831) — Nhận xét sách của tạp chí Pháp "China Perspectives", phân tích tiểu thuyết "Sống Lại" của Wu Jieh qua việc tiếp cận những người sống sót, chỉ trích việc Lý Đăng Hân dựng đồng và Chen Shuifen phát hành đồng tiền là sự phô biến chính trị của Mona thay vì lễ tưứng niệm thực sự, và khẳng định chủ đề về những người sống sót đang sống trong sự im lặng ngại ngùng.
+
+[^67]: [Đài Phát thanh Công cộng: Người Xêdêg chính thức trở thành dân tộc thứ 14](https://news.pts.org.tw/article/83194) — Đài Phát thanh Công cộng đư tin ngày 23 tháng 4 năm 2008, người Xêdêg chính thức tách ra khỏi dân tộc Thái Ya để trở thành dân tộc bản địa thứ 14 của Đài Loan, với ba nhóm ngôn ngữ phụ: Đế Gût Đa Ya, Đảo Zê, Đê Lô Gû.
+
+[^68]: [Văn bản của Phủ Tổng thống: Tổng thống đại diện chính phủ xin lỗi các dân tộc bản địa](https://www.president.gov.tw/NEWS/20603) — Văn bản chính thức của Phủ Tổng thống nước Đài Trung Hoa, ghi nhận toàn bộ lời xin lỗi của Tổng thống Tsai Ing-wen vào ngày 1 tháng 8 năm 2016, ngày của người Dân tộc Bản địa: "Trong bống năm nay, mỗi chế độ từng đến Đài Loan, thông qua bạo lực chiến tranh và chiếm đất, đã nghiêm trọng xâphạm quyền lợi cơ bản của người Dân tộc Bản địa."
+
+[^69]: [Văn bản của Phủ Tổng thống: Ủy ban Công lý lịch sử và Công lý chuyển đổi của người Dân tộc Bản địa](https://www.president.gov.tw/NEWS/20603) — Cùng văn bản ghi nhận việc Tổng thống thành lập Ủy ban Công lý lịch sử và Công lý chuyển đổi của người Dân tộc Bản địa, với sự tham gia của chuyên gia Xêdêg, Tsai Chih-wei (Awi Mona), làm trưởng nhóm về đất đai.
+
+[^70]: [Hong Kong 01: Tranh cãi trong việc phân chia lãnh thổ truyền thống](https://www.hk01.com/藝文中國/536836/) — Báo cáo tổng hợp quy định năm 2017 về việc phân chia lãnh thổ truyền thống, loại trừ đất tư nhân, thu hẹp diện tích có thể chỉ định từ khoảng 1,8 triệu km² xuống còn khoảng 800.000 km², gây ra tranh cãi kéo dài từ phía Cồn Dài.
+
+[^71]: [Lý thuyết Domino: Phản hồi của người Xêdêg hậu duệ trước việc chiếu lại bộ phim tại Trung Quốc](https://dominotheory.com/seediq-descendents-unfazed-by-china-weaponizing-their-story/) — Báo cáo ghi nhận phản hồi của Walis Pawan, hậu duệ của người Xêdêg, khi bộ phim "Xêdêg Bâlai" được chiếu lại tại Trung Quốc với danh nghĩa "Kỷ niệm 80 năm Nguyên chương": "Đây là chuyện của Trung Quốc và Nhật Bản. Họ dùng một bộ phim về chúng tôi để nói cảm xúc của họ, nhưng Trung Quốc chưa bao giờ hỏi chúng tôi."
+
+[^72]: [Đại học Columbia: "The Musha Incident: A Reader"](https://cup.columbia.edu/book/the-musha-incident/9780231197472/) — Những vấn đề cốt lõi được trình bày trong tuyển tập của Đại học Columbia: Mona Laibu bị các phe khác nhau — người Hán/Tây Nguyên Đài Loan, câu chuyện dân tộc Trung Hoa, và người bản địa sau này — cùng tự sáng kiếna mình là người quan hệ với ông, trong khi chính ông chưa từng được tham vấn.
+
+[^73]: [ETtoday: Bản địa Thanh Lãng và gạo miền Trung](https://travel.ettoday.net/article/599194.htm) — Báo cáo du lịch của ETtoday giới thiệu Bản địa Thanh Lãng (Gluban, xã Nhân Ái, huyện Nam Đông, Đài Loan) trồng gạo "miền Trung" (thế hệ 9 của Đài Loan, từng được tiếp thu cho hoàng đế vào thời kỳ thuộc địa Nhật), đồng thời đề cập đến cách truyền thông thường gọi nơi đây là "bản địa có trình độ giáo dục cao nhất và quy mô cán bộ hành chính dày đặc" (không có số liệu chính thức hỗ trợ, chỉ là câu nói phổ biến).
+
+[^74]: [Lễ hội Phim Tài liệu Quốc tế Đài Loan (TIDF): "Sống Lại — Xêdêg Bâlai"](https://www.tidf.org.tw/zh-hant/films/246) — Tài liệu giới thiệu của Lễ hộp Phim Tài liệu Quốc tế Đài Loan, cho biết bộ phim của Tang Hsiang-chu "Sống Lại" đặt trung tâm vào hành trình tìm kiếm nguồn gốc thần tổ Pusu Qhuni của những người sống sót, đối lập với câu chuyện kể hoành tráng của "Xêdêg Bâlai".
