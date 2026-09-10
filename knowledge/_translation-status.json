@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-10T09:54:02+08:00",
-    "zhCommitHead": "0a45d57b2",
+    "lastUpdated": "2026-09-10T10:06:02+08:00",
+    "zhCommitHead": "237df1b3b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 799,
+        "fresh": 800,
         "stale": 80,
-        "metadata_stale": 20,
+        "metadata_stale": 19,
         "missing": 222,
         "orphan": 0
       },
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 714,
+        "fresh": 715,
         "stale": 46,
         "metadata_stale": 15,
-        "missing": 346,
+        "missing": 345,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 153,
+        "fresh": 154,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 961,
+        "missing": 960,
         "orphan": 0
       }
     },
@@ -2688,18 +2688,16 @@
         "en": {
           "path": "en/Music/little-tigers-taiwan-boy-band.md",
           "translatedFrom": "Music/小虎隊.md",
-          "sourceCommitSha": "ac1d187a",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
-          "translatedAt": "2026-06-17T01:18:25+08:00",
+          "translatedAt": "2026-09-10T03:36:08+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/little-tigers-taiwan-boy-band.md",
@@ -18583,8 +18581,8 @@
           "sourceContentHash": "sha256:8cc121a9cccbf90a",
           "sourceBodyHash": "sha256:98feb4bab36f053f",
           "translatedAt": "2026-09-10T03:36:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "237df1b3",
+          "translationLastModified": "2026-09-10T09:54:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -42046,8 +42044,8 @@
           "sourceContentHash": "sha256:5ad18a83d0ab46f1",
           "sourceBodyHash": "sha256:dc26781150e83c1c",
           "translatedAt": "2026-09-10T03:36:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "237df1b3",
+          "translationLastModified": "2026-09-10T09:54:03+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -87667,8 +87665,8 @@
           "sourceContentHash": "sha256:4070459913f1808f",
           "sourceBodyHash": "sha256:f14cb1a2a50dc23e",
           "translatedAt": "2026-09-10T03:36:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "237df1b3",
+          "translationLastModified": "2026-09-10T09:54:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -139900,7 +139898,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/tainan-city.md",
+          "translatedFrom": "Geography/台南市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:a92ec79c444536b4",
+          "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
+          "translatedAt": "2026-09-10T03:36:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/tainan-city.md",
@@ -150422,7 +150431,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/national-theater-and-concert-hall.md",
+          "translatedFrom": "Culture/兩廳院.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1b722cc963da8ad2",
+          "sourceBodyHash": "sha256:b8e419f98d87f2d4",
+          "translatedAt": "2026-09-10T03:36:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
