@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T07:08:59+08:00",
-    "zhCommitHead": "e04b16b11",
+    "lastUpdated": "2026-09-11T07:52:15+08:00",
+    "zhCommitHead": "a71515e7d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 805,
-        "stale": 80,
+        "fresh": 806,
+        "stale": 79,
         "metadata_stale": 16,
         "missing": 220,
         "orphan": 0
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 798,
+        "fresh": 799,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 223,
+        "missing": 222,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 723,
+        "fresh": 724,
         "stale": 82,
         "metadata_stale": 77,
-        "missing": 239,
+        "missing": 238,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 787,
+        "fresh": 788,
         "stale": 67,
         "metadata_stale": 15,
-        "missing": 252,
+        "missing": 251,
         "orphan": 0
       },
       "hi": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 757,
+        "fresh": 758,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 313,
+        "missing": 312,
         "orphan": 0
       },
       "de": {
@@ -8433,7 +8433,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/pinkoi.md",
+          "translatedFrom": "Economy/Pinkoi.md",
+          "sourceCommitSha": "bd1fd7a91",
+          "sourceContentHash": "sha256:dadf1d689c0dbe2c",
+          "sourceBodyHash": "sha256:2a507ef221850519",
+          "translatedAt": "2026-09-11T07:09:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -20848,18 +20859,16 @@
         "en": {
           "path": "en/Technology/hsuehshan-tunnel.md",
           "translatedFrom": "Technology/雪山隧道.md",
-          "sourceCommitSha": "9ecd20d6",
-          "sourceContentHash": "sha256:9e7ddff3899aaa85",
-          "sourceBodyHash": "sha256:909022379c9cd8a0",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bafa69de0246ccbe",
+          "sourceBodyHash": "sha256:d9ab34ee59f266bc",
+          "translatedAt": "2026-09-11T07:09:20+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/hsuehshan-tunnel.md",
@@ -53509,8 +53518,8 @@
           "sourceContentHash": "sha256:0bd3cef2eb38faed",
           "sourceBodyHash": "sha256:b139705eca5e1f54",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d481fd68",
+          "translationLastModified": "2026-09-11T07:08:59+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -89926,7 +89935,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/4.md",
+          "translatedFrom": "People/木曜4超玩.md",
+          "sourceCommitSha": "1b55dfc6c",
+          "sourceContentHash": "sha256:f1e33836f112b9c8",
+          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
+          "translatedAt": "2026-09-11T07:09:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -89935,7 +89955,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/4.md",
+          "translatedFrom": "People/木曜4超玩.md",
+          "sourceCommitSha": "1b55dfc6c",
+          "sourceContentHash": "sha256:f1e33836f112b9c8",
+          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
+          "translatedAt": "2026-09-11T07:09:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -89944,7 +89975,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/4.md",
+          "translatedFrom": "People/木曜4超玩.md",
+          "sourceCommitSha": "1b55dfc6c",
+          "sourceContentHash": "sha256:f1e33836f112b9c8",
+          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
+          "translatedAt": "2026-09-11T07:09:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -122957,8 +122999,8 @@
           "sourceContentHash": "sha256:84c16f78fb1c8afd",
           "sourceBodyHash": "sha256:e02dfcaef9951112",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d481fd68",
+          "translationLastModified": "2026-09-11T07:08:59+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -136102,8 +136144,8 @@
           "sourceContentHash": "sha256:58cfc27dba0ac67b",
           "sourceBodyHash": "sha256:4e6245b3f0401bec",
           "translatedAt": "2026-09-10T18:19:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d481fd68",
+          "translationLastModified": "2026-09-11T07:08:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
