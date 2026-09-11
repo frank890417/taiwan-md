@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T10:28:18+08:00",
-    "zhCommitHead": "cb3d36b1b",
+    "lastUpdated": "2026-09-11T10:29:46+08:00",
+    "zhCommitHead": "46bbbb870",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 759,
+        "fresh": 760,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 311,
+        "missing": 310,
         "orphan": 0
       },
       "de": {
@@ -68845,8 +68845,8 @@
           "sourceContentHash": "sha256:b3b7816f9ed81e72",
           "sourceBodyHash": "sha256:fd90a845acbf3ca4",
           "translatedAt": "2026-09-11T07:09:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "46bbbb87",
+          "translationLastModified": "2026-09-11T10:28:18+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -68870,7 +68870,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/lin-hsien-tang.md",
+          "translatedFrom": "People/林獻堂.md",
+          "sourceCommitSha": "7fa2d9630",
+          "sourceContentHash": "sha256:b3b7816f9ed81e72",
+          "sourceBodyHash": "sha256:fd90a845acbf3ca4",
+          "translatedAt": "2026-09-11T07:09:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/lin-hsien-tang.md",
@@ -90065,8 +90076,8 @@
           "sourceContentHash": "sha256:f1e33836f112b9c8",
           "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
           "translatedAt": "2026-09-11T07:09:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "46bbbb87",
+          "translationLastModified": "2026-09-11T10:28:18+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
