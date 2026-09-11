@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T20:42:04+08:00",
-    "zhCommitHead": "c3792bd26",
+    "lastUpdated": "2026-09-11T21:51:12+08:00",
+    "zhCommitHead": "22628a683",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 295,
+        "fresh": 296,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 819,
+        "missing": 818,
         "orphan": 0
       }
     },
@@ -61018,7 +61018,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/trail-culture-and-civic-stewardship.md",
+          "translatedFrom": "Nature/台灣步道文化與公民守護.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:6a877621bb6ceb6f",
+          "sourceBodyHash": "sha256:855af6d5f189b0bd",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -77380,8 +77391,8 @@
           "sourceContentHash": "sha256:e292cad27370cab5",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T09:17:16.001902+00:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "22628a68",
+          "translationLastModified": "2026-09-11T20:42:04+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
