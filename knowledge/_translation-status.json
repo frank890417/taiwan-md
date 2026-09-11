@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T17:30:15+08:00",
-    "zhCommitHead": "dc9c0881f",
+    "lastUpdated": "2026-09-11T18:59:55+08:00",
+    "zhCommitHead": "623999b7d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 256,
+        "fresh": 266,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 858,
+        "missing": 848,
         "orphan": 0
       }
     },
@@ -6292,7 +6292,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/mega-financial-holding-global-banking-network.md",
+          "translatedFrom": "Economy/台灣企業：兆豐金控.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:19522eee779cb1b5",
+          "sourceBodyHash": "sha256:b25853bdf381bcc3",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -11261,7 +11272,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/delta-electronics-taiwan-power-giant.md",
+          "translatedFrom": "Economy/台灣企業：台達電子.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:731abae76b18888c",
+          "sourceBodyHash": "sha256:5afb6209c3e31868",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12243,7 +12265,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/formosa-plastics-group.md",
+          "translatedFrom": "Economy/台灣企業：台塑集團.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:542041b17da4dbbd",
+          "sourceBodyHash": "sha256:81797ae5614d2f0c",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12878,7 +12911,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/imei-foods-corporation.md",
+          "translatedFrom": "Economy/台灣企業：義美食品.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:fd10cef889ef4781",
+          "sourceBodyHash": "sha256:3df603cf09cf4177",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -13873,7 +13917,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-enterprise-cathay-financial.md",
+          "translatedFrom": "Economy/台灣企業：國泰金控.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:4749f0faadb8e7bf",
+          "sourceBodyHash": "sha256:ebc33c96c44483b0",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -14231,7 +14286,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-agriculture-and-rural-revitalization.md",
+          "translatedFrom": "Economy/台灣農業與農村再生.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:95d473c7b6d24541",
+          "sourceBodyHash": "sha256:a996bea328f05c29",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -15485,8 +15551,8 @@
           "sourceContentHash": "sha256:db91579c11c3a26e",
           "sourceBodyHash": "sha256:8c8993cc9ab020c5",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "623999b7",
+          "translationLastModified": "2026-09-11T17:30:16+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -26929,8 +26995,8 @@
           "sourceContentHash": "sha256:d882a7c06037e89c",
           "sourceBodyHash": "sha256:abaef255e91e930b",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "623999b7",
+          "translationLastModified": "2026-09-11T17:30:16+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -28373,7 +28439,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwanese-photography.md",
+          "translatedFrom": "Art/台灣攝影.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:9e4daeb9f4939ca2",
+          "sourceBodyHash": "sha256:80c79b7fd0c73431",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -34414,8 +34491,8 @@
           "sourceContentHash": "sha256:0d481ed818da82f8",
           "sourceBodyHash": "sha256:6713c8a6c615e62a",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "623999b7",
+          "translationLastModified": "2026-09-11T17:30:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -38317,8 +38394,8 @@
           "sourceContentHash": "sha256:5c053dd9110acc9b",
           "sourceBodyHash": "sha256:62212c95c5c34acf",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "623999b7",
+          "translationLastModified": "2026-09-11T17:30:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -45464,8 +45541,8 @@
           "sourceContentHash": "sha256:2513952bc4eab478",
           "sourceBodyHash": "sha256:96d147de5fc403fe",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "623999b7",
+          "translationLastModified": "2026-09-11T17:30:16+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -50522,8 +50599,8 @@
           "sourceContentHash": "sha256:062fff6d074c6e52",
           "sourceBodyHash": "sha256:6672f01b9aa7c341",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "623999b7",
+          "translationLastModified": "2026-09-11T17:30:16+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -56076,8 +56153,8 @@
           "sourceContentHash": "sha256:1ad089e1b6d004d2",
           "sourceBodyHash": "sha256:b040587ba3041a93",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "623999b7",
+          "translationLastModified": "2026-09-11T17:30:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -58441,7 +58518,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md",
+          "translatedFrom": "Nature/台灣國家公園.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:c51eb1a165d6a2f5",
+          "sourceBodyHash": "sha256:99620fa1348fdcfe",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -61907,8 +61995,8 @@
           "sourceContentHash": "sha256:34ef5e8d367bee9d",
           "sourceBodyHash": "sha256:d270d18b5c4f802e",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "623999b7",
+          "translationLastModified": "2026-09-11T17:30:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -62085,8 +62173,8 @@
           "sourceContentHash": "sha256:4e90c463d345a441",
           "sourceBodyHash": "sha256:668d74d853340086",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "623999b7",
+          "translationLastModified": "2026-09-11T17:30:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -70192,7 +70280,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/a-han.md",
+          "translatedFrom": "People/阿翰.md",
+          "sourceCommitSha": "2faa5728b",
+          "sourceContentHash": "sha256:564bd16fb31e71be",
+          "sourceBodyHash": "sha256:7dbe663cdddeba6e",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -108720,7 +108819,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chuang-chih-yuan-table-tennis-legend.md",
+          "translatedFrom": "People/莊智淵.md",
+          "sourceCommitSha": "0ea5d5d42",
+          "sourceContentHash": "sha256:8f24d65425473ad4",
+          "sourceBodyHash": "sha256:1216e697fc7e6c44",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
