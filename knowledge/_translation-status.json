@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T13:34:41+08:00",
-    "zhCommitHead": "4b08a90cc",
+    "lastUpdated": "2026-09-11T15:15:09+08:00",
+    "zhCommitHead": "01cdc0115",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 807,
-        "stale": 76,
+        "fresh": 808,
+        "stale": 75,
         "metadata_stale": 17,
         "missing": 221,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 789,
-        "stale": 67,
+        "fresh": 790,
+        "stale": 66,
         "metadata_stale": 15,
         "missing": 250,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 221,
+        "fresh": 227,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 893,
+        "missing": 887,
         "orphan": 0
       }
     },
@@ -23577,7 +23577,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/wikipedia-in-taiwan.md",
+          "translatedFrom": "Technology/維基百科.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:041d66a77659bdef",
+          "sourceBodyHash": "sha256:d2c0d3b4dad31bc9",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -26072,8 +26083,8 @@
           "sourceContentHash": "sha256:03ef929d72a03265",
           "sourceBodyHash": "sha256:dd0e3abb83d55e63",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "01cdc011",
+          "translationLastModified": "2026-09-11T13:34:41+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -37687,7 +37698,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-education-system.md",
+          "translatedFrom": "Lifestyle/台灣教育制度.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4e9ca27840e47d5f",
+          "sourceBodyHash": "sha256:0a4c39eae3411ae0",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -38866,7 +38888,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-mahjong-and-celebrity-shortage.md",
+          "translatedFrom": "Lifestyle/台灣麻將與明星三缺一.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ef208b370e332f10",
+          "sourceBodyHash": "sha256:1f3fd4501700702b",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -40258,8 +40291,8 @@
           "sourceContentHash": "sha256:e36f0dcb06bdb5d7",
           "sourceBodyHash": "sha256:45c225df72a18f73",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "01cdc011",
+          "translationLastModified": "2026-09-11T13:34:41+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -41350,7 +41383,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/tiktok-in-taiwan.md",
+          "translatedFrom": "Society/TikTok.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:dfdfbf0a5674de0a",
+          "sourceBodyHash": "sha256:6054d2cc1d83cb36",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -52367,7 +52411,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/environmental-awakening-and-net-zero-transition.md",
+          "translatedFrom": "Society/環保與永續發展.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:58130043015789fc",
+          "sourceBodyHash": "sha256:4ec983b4e284ca15",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53536,18 +53591,16 @@
         "pt": {
           "path": "pt/Society/taiwan-yuelao-matchmaker-map.md",
           "translatedFrom": "Society/台灣月老地圖.md",
-          "sourceCommitSha": "35f2a4dfb",
-          "sourceContentHash": "sha256:21d6ff8612c673fa",
-          "sourceBodyHash": "sha256:dcf98783ab9b2c72",
-          "translatedAt": "2026-07-26T21:33:24+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:0bd3cef2eb38faed",
+          "sourceBodyHash": "sha256:b139705eca5e1f54",
+          "translatedAt": "2026-09-11T12:47:16+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+34 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-yuelao-matchmaker-map.md",
@@ -62041,7 +62094,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/taiwan-hot-springs-and-geothermal-energy.md",
+          "translatedFrom": "Nature/台灣溫泉與地熱.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c950b0e6980af7aa",
+          "sourceBodyHash": "sha256:76aaf6bdf8e233fe",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -78603,18 +78667,16 @@
         "ko": {
           "path": "ko/People/zun.md",
           "translatedFrom": "People/尊.md",
-          "sourceCommitSha": "16c428cd9",
-          "sourceContentHash": "sha256:94b77718dfa4da62",
-          "sourceBodyHash": "sha256:5579d8d02a3f58ac",
-          "translatedAt": "2026-07-24T10:40:42+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:6c850ed56b9fd45a",
+          "sourceBodyHash": "sha256:f9ebc993a34e1749",
+          "translatedAt": "2026-09-11T12:47:09+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/zun.md",
@@ -102390,8 +102452,8 @@
           "sourceContentHash": "sha256:a21c857b64fd8e71",
           "sourceBodyHash": "sha256:090ff0c53b31ba5d",
           "translatedAt": "2026-09-11T07:09:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "01cdc011",
+          "translationLastModified": "2026-09-11T13:34:41+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -108514,8 +108576,8 @@
           "sourceContentHash": "sha256:b4ed377dcae75954",
           "sourceBodyHash": "sha256:5225e3163bb10fe2",
           "translatedAt": "2026-09-11T07:09:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "01cdc011",
+          "translationLastModified": "2026-09-11T13:34:41+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
