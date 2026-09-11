@@ -1,349 +1,347 @@
 ---
-title: 'Nhạc sĩ sáng tác bản địa Đài Loan đương đại'
-description: 'Từ aMEI đến Suming, Samput: các ca sĩ sáng tác bản địa Đài Loan truyền thừa linh hồn cổ xưa qua âm nhạc hiện đại, vẽ nên bộ mặt âm nhạc bản địa đương đại độc đáo'
+title: 'Nghệ sĩ sáng tạo gia truyền của người bản địa Đài Loan'
+description: '《Biển”》 của Thái Anh Văn sử dụng ngôn ngữ Paiwan và tiếng Quảng Đông; Siêu Mỹ Anh kết nối hoạt động giáo dục văn hóa trở lại với đảo Đài Trung; còn lại A-Bao mang tiếng Paiwan vào sản xuất pop đương đại. Từ Thái Vĩ Nhĩ, Vương Hồng Nguyên cho đến Sương Búi và Ilid Kaolo, bài viết so sánh các tác phẩm và điểm tiếp cận thích hợp của các nghệ sĩ khác nhau, đồng thời so sánh các giải thưởng Album, Nghệ sĩ và Bài hát của Giải Nhạc Đài Loan, để hiểu cách ngôn ngữ bản địa, kinh nghiệm sống và kỹ thuật thu âm giao thoa — mà không đưa nhiều dân tộc thành một tiếng đờn.'
 date: 2026-03-18
 category: 'Music'
 tags:
   [
-    'Nhạc sĩ bản địa',
-    'Nhạc pop hiện đại',
-    'Kết hợp văn hóa',
-    'Giải Kim Khúc',
-    'Sáng tác đương đại',
+    'Nghệ sĩ bản địa',
+    'nhạc pop',
+    'hòa quyện văn hóa',
+    'Giải Nhạc Đài Loan',
+    'sáng tạo đương đại',
   ]
 subcategory: '當代原住民音樂'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
-lastHumanReview: true
+lastHumanReview: false
 difficulty: 'beginner'
 readingTime: 10
+relatedDiary: ['2026-09-07-164559-audit-upgrade']
 translatedFrom: 'Music/當代原住民創作歌手.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:63a03cba4dec8d7b'
-sourceBodyHash: 'sha256:709d0c8ef67f0111'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:5f5c57d9d0a5af84'
+sourceBodyHash: 'sha256:6ab99bf50b216a39'
+translatedAt: '2026-09-11T07:09:27+08:00'
 ---
 
-# Nhạc sĩ sáng tác bản địa Đài Loan đương đại
+# Nghệ sĩ sáng tạo gia truyền của người bản địa Đài Loan
 
-Trên bản đồ âm nhạc Đài Loan, các nhạc sĩ bản địa với tinh hoa văn hóa sâu sắc và từ vựng âm nhạc sáng tạo đã đưa đến một sức sống độc đáo cho thị trường lưu hành tiếng Hoa. Từ sự xuất hiện đơn độc của aMEI vào thập niên 1990, cho tới sự trỗi dậy của các thế hệ mới như Suming, Samput ở thập niên 2000 trở đi, âm nhạc bản địa Đài Loan đã tìm thấy được điểm cân bằng hoàn hảo giữa truyền thống và hiện đại, trở thành một trong những sức mạnh âm nhạc có khả năng nhận biết quốc tế nhất của Đài Loan.
+Trong bản đồ âm nhạc Đài Loan, các nghệ sĩ bản địa đã thổi sức sống độc đáo vào làng nhạc Quảng Đông nhờ vào nền tảng văn hóa sâu sắc và ngôn ngữ âm nhạc đổi mới. Từ sự xuất hiện đột phá của Thái Vĩ Nhĩ vào những năm 1990, cho đến sự nổi lên của thế hệ trẻ Siêu Mỹ Anh, Sương Búi vào những năm 2000, âm nhạc bản địa Đài Loan liên tục khám phá cách biểu đạt giữa truyền thống và hiện đại.
 
-## 30 giây tổng quan
+> **Tóm tắt 30 giây**: Bài viết giới thiệu các nghệ sĩ qua các bài hát pop, album ngôn ngữ bản địa và âm nhạc giáo dục cộng đồng, đồng thời so sánh với danh sách chính thức của Giải Nhạc Đài Loan để liên kết tác phẩm với giải thưởng.
 
-Các nhạc sĩ sáng tác bản địa đương đại của Đài Loan với tài năng âm nhạc độc đáo và nền tảng văn hóa nắm chắc vị trí của họ trong thị trường nhạc pop. Những nhân vật tiêu biểu gồm có "Nữ hoàng Châu Á" aMEI, "Nhà thơ dân gian" Tần Kiến Niên, "Vương ca thế hệ mới" Suming, "Người ca sĩ linh hồn" Samput và những người khác.
+Các nghệ sĩ bản địa Đài Loan đương đại đã xây dựng vị thế của mình trong làng nhạc pop thông qua sáng tạo riêng lẻ, đào tạo biểu diễn và kinh nghiệm văn hóa. Những đại diện tiêu biểu bao gồm "Bà hoàng châu Á" Thái Vĩ Nhĩ, "Nhà thơ nhạc" Thái Anh Văn, "Vua nhạc trẻ mới" Siêu Mỹ Anh, "Người hát linh hồn" Sương Búi và nhiều người khác.
 
-Họ đạt được thành công trong âm nhạc thương mại trong khi cũng truyền thừa văn hóa bản địa qua âm nhạc, tạo ra một bộ mặt "Âm thanh bản địa" độc đáo cho âm nhạc Đài Loan. Kể từ năm 2005 khi Giải Kim Khúc thành lập "Giải thưởng album ngôn ngữ bản địa tốt nhất", âm nhạc ngôn ngữ bộ tộc đã nhận được sự công nhận có tính chế độ.
+Ngoài việc đạt được thành công trong âm nhạc thương mại, họ cũng truyền thống văn hóa bản địa qua âm nhạc, tạo ra "âm thanh bản địa Đài Loan" độc đáo cho âm nhạc Đài Loan. Giải thưởng Album Ngôn ngữ Bản địa của Giải Nhạc Đài Loan cung cấp một cửa ngõ để quan sát các đĩa ngôn ngữ bản địa.[^7]
 
-Những ca sĩ này trải dài ba thế hệ, từ sự đột phá thương mại của thập niên 1990, tới sự trở về văn hóa của thập niên 2000, cho tới thí nghiệm đa dạng trên các nền tảng kỹ thuật số ngày nay, cùng nhau viết nên lịch sử hiện đại của âm nhạc bản địa Đài Loan.
+Những hướng đi đang phát triển đồng thời này — bao gồm sản xuất thương mại tiếng Quảng Đông, nhạc dân gian ngôn ngữ bản địa và âm nhạc điện tử — không tạo nên sự thay thế thế hệ cố định. Một cùng một nghệ sĩ có thể vượt qua nhiều phong cách sáng tạo khác nhau.
 
-**Từ khóa:** aMEI, Tần Kiến Niên, Suming, Samput, Giải Kim Khúc, Sáng tác ngôn ngữ mẹ đẻ, Truyền thừa văn hóa
+**Từ khóa**: Thái Vĩ Nhĩ, Thái Anh Văn, Siêu Mỹ Anh, Sương Búi, Giải Nhạc Đài Loan, sáng tạo bằng ngôn ngữ mẹ đẻ, truyền thống văn hóa
 
-## Từ bộ tộc tới thế giới: Hành trình âm nhạc
+---
 
-Phát triển đương đại của âm nhạc bản địa Đài Loan phản ánh sự biến đổi văn hóa của xã hội Đài Loan và sự thức tỉnh của ý thức tộc người. [^1] Những ca sĩ này vừa là những người truyền thừa văn hóa vừa là những người quan sát xã hội, tác phẩm của họ vừa tôn vinh truyền thống, cũng vừa suy ngẫm về hoàn cảnh cuộc sống hiện đại.
+## Hành trình âm nhạc từ cộng đồng đến thế giới
 
-### Tài năng âm nhạc bẩm sinh
+Bài hát "Biển”" của Thái Anh Văn sử dụng đồng thời ngôn ngữ Paiwan và tiếng Quảng Đông, trình bày cách một bài hát cá nhân đi qua nhiều ngôn ngữ âm nhạc khác nhau.[^1] Những nghệ sĩ này đồng thời là người truyền thống và nhà quan sát xã hội, với tác phẩm vừa tưởng nhớ truyền thống, vừa suy ngẫm về hoàn cảnh cuộc sống hiện đại.
 
-Tài năng âm nhạc của các tộc người bản địa có nguồn gốc sâu sắc từ văn hóa. [^2] Trong xã hội bộ tộc, âm nhạc là một phần của cuộc sống hàng ngày, từ những ca khúc ru em đến những ca khúc lễ hội, mọi người trong bộ tộc từ nhỏ đã được ngâm mình trong môi trường âm nhạc. Nền tảng văn hóa này đã tạo dựng nên tài năng đặc biệt của nhiều ca sĩ bản địa: cảm nhận âm nhạc, kỹ năng nhạc lý và khả năng biểu đạt cảm xúc.
+### Kinh nghiệm âm nhạc không đồng đều
 
-### Cơ hội âm nhạc ở thành thị
+Dân tộc không thể thay thế cho sự hiểu biết về tác phẩm. Nhạc lễ hội, ca khúc gia đình, trưởng thành đô thị, hợp tác ban nhạc và kỹ thuật thu âm — tác động của chúng đến với các nghệ sĩ khác nhau là khác nhau. Việc tóm tắt tất cả nghệ sĩ bản địa thành một "sức mạnh tài năng chung" hay một "giọng nói cố định" sẽ che giấu sự khác biệt trong sáng tạo. Khi nghe, có thể phân biệt rõ ràng ngôn ngữ sử dụng, nhà soạn nhạc, cách biên tập và mối quan hệ giữa nghệ sĩ và cộng đồng.
 
-Từ những năm 1960, làn sóng đô thị hóa đã cho phép nhiều thanh niên bản địa vào thành phố tìm kiếm cơ hội phát triển. Mặc dù rời khỏi bộ tộc, nhưng tài năng âm nhạc đã giúp họ tìm thấy sân khấu mới trong công nghiệp giải trí của thành phố, từ những lần biểu diễn tại nhà hàng và quán vũ tối, trở lên vào vòng âm nhạc chính thống.
+---
 
-## Thế hệ thứ nhất: Thời kỳ những người khai phá (1990–2000)
+## Xâm nhập thị trường tiếng Quảng Đông
 
-### aMEI (1972–): Tiếng nữ hoàng Châu Á của các Puyuma
+### Thái Vĩ Nhĩ: Tiếng nói Paiwan của "Bà hoàng châu Á"
 
-**Tộc người:** Puyuma (卑南族)
-**Debut:** 1996, album 《姊妹》 (Hai chị em)
-**Tác phẩm đại diện:** 《姊妹》, 《聽海》 (Nghe biển), 《牽手》 (Nắm tay), 《我可以抱你嗎》 (Em có cho anh ôm được không)
+**Dân tộc**: Paiwan
+**Debut**: Album "Chị em" năm 1996
+**Tác phẩm đại diện**: "Chị em", "Nghe biển", "Nắm tay", "Tôi có thể ôm em không?"
 
-Sự xuất hiện của aMEI đã thay đổi sinh thái của nhạc pop tiếng Hoa. [^5] Với sức mạnh hát đáng kinh ngạc và cuốn hút sân khấu, cô không chỉ trở thành nữ ca sĩ tiếng Hoa có ảnh hưởng nhất từ cuối thập niên 1990 tới đầu thập niên 2000, mà còn để cho thế giới nhìn thấy tài năng âm nhạc của những người bản địa Đài Loan.
+Sự xuất hiện của [Thái Vĩ Nhĩ](/vi/people/a-mei/) (aMEI) đã thay đổi bản đồ âm nhạc pop Quảng Đông.[^5] Với sức mạnh ca vọng tuyệt vời và sức hút trên sân khấu, cô không chỉ trở thành nghệ sĩ nữ Quảng Đông có ảnh hưởng nhất từ cuối những năm 1990 đến đầu những năm 2000, mà còn giới thiệu thế giới với tài năng âm nhạc của người bản địa Đài Loan.
 
-**Đặc điểm âm nhạc:**
+**Đặc trưng âm nhạc**:
 
-- Âm vực rộng lớn (hơn ba bát độ)
-- Giọng hát đầy sức nổ
-- Kết hợp các yếu tố R&B, rock, pop và nhiều thể loại khác
-- Biểu diễn sân khấu đầy tinh thần tự do phóng khoáng của người bản địa
+- Chuyển đổi giữa các ca khúc trữ tình và nhịp điệu sắc nét
+- Giọng hát mạnh mẽ và rực rỡ
+- Kết hợp R&B, rock, pop và nhiều yếu tố khác
+- Trình diễn kết hợp nhảy múa và ban nhạc trên sân khấu
 
-**Ý nghĩa văn hóa:**
-Thành công của aMEI đã phá vỡ những định kiến về người bản địa trong vòng tròn nhạc chính thống, chứng minh rằng các ca sĩ bản địa không chỉ có thể hát những ca khúc truyền thống mà còn có thể tỏa sáng rạng rỡ trong âm nhạc pop hiện đại. Sự hiện diện của cô đã truyền cảm hứng cho vô số người kế tiếp, mở ra con đường cho sự phát triển của âm nhạc bản địa trong thị trường chính thống.
+**Ý nghĩa văn hóa**:
+Thành công của Thái Vĩ Nhĩ đã phá vỡ hình ảnh bóng đáy về người bản địa trong vòng tròn âm nhạc chính thống, chứng minh rằng nghệ sĩ bản địa không chỉ có thể hát các ca khúc truyền thống mà còn sáng tạo nên ánh sáng trong âm nhạc pop hiện đại. Sự hiện diện của cô đã truyền cảm hứng cho hàng ngàn người theo sau, mở ra con đường cho sự phát triển của âm nhạc bản địa trên thị trường chính thống.
 
-### Động Lực Lửa: Đại diện của tiếng hát sức mạnh
+### Động lực Hỏa xe: Đại diện cho giọng hát mạn châm
 
-**Thành viên:** Diễn Chí Lâm (排灣族 - Paiwan), Ưu Thu Hưng (排灣族 - Paiwan) [^3]
-**Debut:** 1997
-**Tác phẩm đại diện:** 《當》, 《忠孝東路走九遍》 (Đi 9 lần trên Trung Hiếu Đông)
+**Thành viên**: Nhãn Chi Linh, Doãm Thu Nhĩ[^3]
+**Debut**: Năm 1997
+**Tác phẩm đại diện**: "Khi", "Đường phố Đông Thọ đi chín lần"
 
-Động Lực Lửa nổi tiếng với tiếng hát hòa ca dày dặn và mạnh mẽ, tiếng hát của hai thành viên bổ sung cho nhau rất tốt, trở thành ví dụ điển hình của nhóm nam ca sĩ. Phong cách âm nhạc của họ hướng về rock trữ tình, giọng hát mang đặc tính quen thuộc và dày dặn của người bản địa.
+Động lực Hỏa xe nổi tiếng với giọng hát dày và mạnh mẽ, hai người có sự bổ sung cho nhau rất tốt, trở thành ví dụ kinh điển cho ban nhạc nam tính. Phong cách âm nhạc của họ hướng đến rock trữ tình, tạo nên dấu ấn nhận diện thông qua giọng hát dày đặc.
 
-## Thế hệ thứ hai: Trở về văn hóa và đổi mới sáng tạo (2000–2010)
+---
 
-### Tần Kiến Niên (1967–): Nhà thơ biển của người Puyuma
+## Nhạc dân gian và sáng tạo ngôn ngữ bản địa
 
-**Tộc người:** Puyuma (卑南族)
-**Debut:** 1999, album 《海洋》 (Biển)
-**Tác phẩm đại diện:** 《海洋》 (Biển), 《蘭嶼之戀》 (Tình yêu trên Đảo Lan), 《故鄉普悠瑪》 (Quê hương Puyuma)
+### Thái Anh Văn: Nhà thơ biển của Paiwan
 
-Tần Kiến Niên được mệnh danh là "Cha đẻ của dân gian bản địa", phong cách âm nhạc của ông ấm áp và nội tâm, giọng hát mang độ sâu của biển và yên tĩnh của rừng núi. Album 《海洋》 đã giành được giải thưởng Nam ca sĩ tiếng Hoa xuất sắc nhất tại Giải Kim Khúc lần thứ 11 [^4], mở ra vị thế quan trọng của âm nhạc bản địa trong Giải Kim Khúc.
+**Dân tộc**: Paiwan
+**Debut**: Album "Biển”" năm 1999
+**Tác phẩm đại diện**: "Biển”", "Quê hương Puyuma"
 
-**Đặc điểm âm nhạc:**
+Phong cách âm nhạc của [Thái Anh Văn](/vi/people/chen-chien-nien/) ấm áp và tĩnh lặng, với giọng hát mang chiều sâu của biển và sự thanh thản của rừng rậm. Album "Biển”" đã giành giải Nam giới xuất sắc nhất ngôn ngữ Quốc ngữ (Giải Vua) tại Giải Nhạc Đài Loan lần thứ 11,[^4] mở ra vị thế quan trọng của âm nhạc bản địa tại Giải Nhạc Đài Loan.
 
-- Phong cách dân gian đơn sơ
-- Sử dụng nhiều ca khúc bằng ngôn ngữ Puyuma
-- Khuôn mẫu kèm đàn ghi-ta chủ yếu
-- Lời ca tràn ngập tình cảm sâu sắc đối với quê hương và văn hóa
+**Đặc trưng âm nhạc**:
 
-### Tỷ Hiểu Quân: Tiếng hát trong suốt tinh khiết
+- Phong cách dân gian đơn giản
+- Sử dụng cả Paiwan và tiếng Quảng Đông để hát
+- Sự kết hợp guitar làm nền nhạc chính
+- Lời bài hát đầy cảm xúc về quê hương và văn hóa
 
-**Tộc người:** Puyuma (卑南族)
-**Tác phẩm đại diện:** 《野火春風》 (Lửa hoang dã và gió xuân), 《單飛》 (Bay riêng)
+Trang thông tin của album "Biển”" cũng nhắc nhở người nghe, người thực hiện, nhà soạn nhạc và nhà sản xuất đều có vai trò khác nhau. Danh sách sản xuất của góc trái ghi rõ nhà sản xuất là Trịnh Trắc, phần ngôn ngữ đánh dấu cả Paiwan và tiếng Quảng Đông, danh sách bài hát bao gồm "Chúng ta là anh em" và "Quê hương Puyuma". Khi tìm hiểu một đĩa ngôn ngữ bản địa, ngoài dân tộc của nghệ sĩ, cũng có thể tiếp tục đọc thông qua danh sách sản xuất và ngôn ngữ sử dụng trong từng bài hát.[^1]
 
-Tỷ Hiểu Quân sở hữu tiếng hát trong suốt tinh khiết cực kỳ hiếm, phong cách hát của cô ấy nằm giữa truyền thống và hiện đại, vừa giữ được vẻ đẹp nguyên sơ của âm nhạc bản địa, vừa có độ tinh tế của âm nhạc hiện đại.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zDjRtY0xqr0" title="Âm nhạc góc trái: video âm nhạc chính thức của Thái Anh Văn - Biển”" loading="lazy" allowfullscreen></iframe>
 
-### Vương Hồng Ân: Dũng sĩ sáng tác tìm tòi đa dạng
+Trang web album "Biển”" của góc trái cung cấp video âm nhạc chính thức, cho phép người đọc so sánh thực tế âm thanh với thông tin đĩa đã đề cập.[^1]
 
-**Tộc người:** Amis (阿美族)
-**Tác phẩm đại diện:** 《月光》 (Ánh trăng), 《美麗心民謠》 (Dân gian trái tim xinh đẹp)
+### Kỷ Hiếu Quân: Giọng nói trong suốt và minh bạch
 
-Vương Hồng Ân là một ca sĩ sáng tác tài hoa vượt trội, âm nhạc của ông ấy vượt qua dân gian và rock, cũng như những lĩnh vực khác nhau giữa truyền thống bản địa và pop hiện đại, thể hiện sức mạnh sáng tác của những người làm âm nhạc bản địa.
+**Dân tộc**: Paiwan
+**Điểm bắt đầu nghe**: "Tiếng của mặt trời, gió và cánh đồng", Kỷ Hiếu Quân giành giải Nghệ sĩ mới xuất sắc nhất tại Giải Nhạc Đài Loan lần thứ 11 với album này.[^gma11]
 
-## Thế hệ thứ ba: Đổi mới văn hóa của thế hệ mới (2010–hiện nay)
+Kỷ Hiếu Quân sở hữu giọng hát trong suốt và minh bạch, phong cách biểu diễn của cô nằm ở giữa truyền thống và hiện đại, vừa giữ gìn vẻ đẹp nguyên sơ của âm nhạc bản địa, vừa có sự tinh tế của âm nhạc hiện đại.
 
-### Suming (1978–): Vương ca mới của bộ tộc Đô Lan
+### Vương Hồng Nguyên: Nhà sáng tạo đa dạng
 
-**Tên thật:** Tương Thánh Dân (姜聖民)
-**Tộc người:** Amis (阿美族) – bộ tộc Đô Lan
-**Debut:** 2010, album 《Suming》
-**Tác phẩm đại diện:** 《不要放棄》 (Đừng bỏ cuộc), 《美麗的稻穗》 (Những đòng lúa xinh đẹp), 《Ina》 (Mẹ)
+**Dân tộc**: Bống Bống
+**Tác phẩm đại diện**: "Ánh trăng"[^wang]
 
-Suming là một trong những ca sĩ sáng tác bản địa đại diện nhất của thời đại. Âm nhạc của anh ấy kết hợp truyền thống Amis, rock hiện đại, âm nhạc điện tử và những yếu tố khác, tạo ra "Âm thanh Đô Lan" độc đáo.
+Cuộc phỏng vấn đăng trên trang web của Đại học Dược học liên kết "Ánh trăng" với ký ức gia đình của Vương Hồng Nguyên: anh kể về bà ngoại dệt vải, cũng giải thích rằng khi hát bài này, anh nhớ đến khoảnh khắc đó. Đây cung cấp một cửa ngõ cụ thể để hiểu bài hát, người nghe có thể bắt đầu từ ký ức của một người đối với gia đình để hiểu về tác phẩm, và sau đó hiểu nền văn hóa Bống Bống — mà không cần phải phân loại tất cả sáng tạo thành truyền thống hay hiện đại từ trước. [^wang]
 
-**Phong cách âm nhạc:**
+---
 
-- Sáng tác bằng ngôn ngữ Amis và tiếng Hoa song song
-- Kết hợp ca khúc truyền thống và sắp xếp hiện đại
-- Sử dụng rộng rãi những từ hư Amis (hai yan)
-- Các yếu tố rock, điện tử và âm nhạc thế giới cân bằng nhau
+## Sự giao thoa giữa ngôn ngữ bản địa và sản xuất hiện đại
 
-**Đóng góp văn hóa:**
+### Siêu Mỹ Anh: Vua nhạc trẻ mới của cộng đồng Đài Trung
 
-- Thành lập "Xưởng âm nhạc BaLiwakes" để quảng bá âm nhạc bản địa
-- Tổ chức "Lễ hội âm nhạc Amis (旮亙樂團)"
-- Kết nối sự trao đổi văn hóa bản địa quốc tế thông qua âm nhạc
+**Dân tộc**: Amis (Đài Trung, tỉnh Đông)
+**Album đầu tiên**: "Suming" năm 2010
+**Điểm bắt đầu nghe**: "Cam kết của chúng ta", "Những ngày tốt đẹp", "Đừng bỏ cuộc"[^suming][^suming-album]
 
-**Dòng thời gian album chính:**
+Siêu Mỹ Anh tham gia ban nhạc Tháp Bảo, cũng sáng tạo dưới danh nghĩa cá nhân. Từ ban nhạc đến sản phẩm cá nhân, không nên đưa ra năm của album đầu tiên làm điểm khởi đầu của toàn bộ sự nghiệp âm nhạc. Anh dành phần lớn thời gian cho giáo dục văn hóa thanh thiếu niên tại Đài Trung, đồng thời thúc đẩy "Lễ hội âm nhạc Amis", kết nối biểu diễn với đời sống hàng ngày của cộng đồng. [^suming]
 
-- **《Suming》 (2010):** Tác phẩm ra mắt đầu tiên, hát rock hiện đại bằng ngôn ngữ Amis, 《不要放棄》 được truyền rộng rãi
-- **《東西》 (2012):** Khám phá xung đột giữa văn hóa bộ tộc và cuộc sống hiện đại, sử dụng từ hư Amis hai-yan trở nên thành thạo hơn
-- **《海。我在這裡等你》 (2015):** Ghi âm trực tiếp các âm thanh tự nhiên của bờ biển Đô Lan kết hợp vào sắp xếp, trở về chủ đề bộ tộc
-- **《I am Suming》 (2017):** Phong cách kết hợp âm nhạc thế giới và yếu tố điện tử, đề cử Giải Kim Khúc lần thứ 28 cho album ngôn ngữ bản địa xuất sắc nhất
-- **《愛》 (2019):** Chuyển hướng viết lên cảm xúc cá nhân, bảo tồn cốt lõi ngôn ngữ bộ tộc
+Nhiều hồ sơ âm nhạc của buổi biểu diễn này, phần hợp thanh được thực hiện bởi thanh thiếu niên từ Đài Trung là Sonlay Vĩnh Nguyên và Hacoi Tố Châu. Hai người tham gia hoạt động giáo dục văn hóa của Siêu Mỹ Anh, từ học tập tại cộng đồng mở rộng đến sân khấu âm nhạc. Trang web biểu diễn mô tả chương trình "Trẻ em bãi biển", bao gồm khám phá đất trời, học tập kỹ năng truyền thống, guitar và lưu diễn biểu diễn. Điều này giúp truyền thống văn hóa không chỉ dừng lại ở chủ đề lời bài hát, mà còn trở thành quá trình học tập thực tế mà thanh thiếu niên có thể tham gia. [^suming]
 
-Tên Suming trong ngôn ngữ Amis có nghĩa là "Gió từ phía bắc", cái tên này cũng là chú giải của phong cách âm nhạc của anh ấy—mang tính định hướng, cũng mang tính hoang dã. Anh ấy lâu dài kinh doanh xưởng âm nhạc ở Đô Lan, biến bộ tộc thành một lĩnh vực văn hóa sáng tạo liên tục của một cuộc sống.
+"Đừng bỏ cuộc" là bài hát chủ đề của phim "Con trai của mặt trời" năm 2015, không phải là bài hát trong album đầu tiên năm 2010. Bài hát này giành giải Bài hát xuất sắc nhất tại Giải Nhạc Đài Loan lần thứ 27 năm 2016. Hành trình từ phim ảnh đến bài hát ngôn ngữ bản địa cũng minh chứng cho cách âm nhạc tham gia vào câu chuyện đất nước và cuộc sống. [^suming-song][^gma27]
 
-### Samput (1971–): Những ca khúc thơ của người ca sĩ linh hồn Puyuma
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Jhoom74-IM" title="Nhiều âm nhạc: buổi biểu diễn trực tuyến của Siêu Mỹ Anh" loading="lazy" allowfullscreen></iframe>
 
-**Tên thật:** Thần Hoài Nhất (沈懷一)
-**Tộc người:** Puyuma (卑南族)
-**Debut:** 2008, album 《椏幹》
-**Tác phẩm đại diện:** 《[椏幹](https://www.youtube.com/watch?v=ealNSQUDAaU)》, 《拉罕》 (Rahan), 《神話》 (Thần thoại)
+Video do trang web âm nhạc "Nhiều âm nhạc" cung cấp, bao gồm "Những ngày tốt đẹp", "Đại dương" và "Cam kết của chúng ta", có thể so sánh với những gì đã thảo luận trong bài viết về sáng tạo và biểu diễn. [^suming]
 
-Âm nhạc của Samput mang sắc thái linh tính mạnh mẽ. [^6] Giọng hát của anh ấy sâu sắc và toát ra sức lôi cuốn, lời ca thường mang tính suy ngẫm triết học và phản ánh văn hóa. Anh ấy được mệnh danh là "Bob Dylan của Đài Loan", phong cách âm nhạc độc lập riêng biệt.
+### Sương Búi: Những bài thơ Paiwan của linh hồn
 
-**Đặc điểm âm nhạc:**
+**Tên**: Sương Búi (Lô Quy Nhĩ)
+**Dân tộc**: Paiwan
+**Điểm bắt đầu nghe**: "Gỗ nặn", "Lấy lực lượng pulu’em"[^gma28][^sangpuy]
 
-- Sáng tác lời ca đầy thơ tính
-- Quan sát xã hội sâu sắc
-- Sắp xếp đơn sơ nhưng mạnh mẽ
-- Sử dụng ngôn ngữ Puyuma và tiếng Hoa song song
+Tác phẩm của Sương Búi tập trung vào mối quan hệ giữa con người và đất, môi trường và ký ức văn hóa. "Gỗ nặn" giành giải Album xuất sắc nhất tại Giải Nhạc Đài Loan lần thứ 28 năm 2017, Sương Búi cũng giành giải Nghệ sĩ ngôn ngữ bản địa xuất sắc nhất với album này. Album cũng giành giải Album thu âm biểu diễn xuất sắc nhất. Ba giải thưởng đánh giá các đối tượng khác nhau, không thể gộp chung thành "giải album ngôn ngữ bản địa tốt nhất". [^gma28]
 
-**Dòng thời gian album chính:**
+Năm 2020, Sương Búi ra mắt album cá nhân thứ ba "Lấy lực lượng pulu’em", với sự biên tập bao gồm âm nhạc điện tử, rock và nhạc dẫn sinh khác nhau — không phải là dạng biểu diễn guitar cố định. Album này giành giải Album xuất sắc nhất tại Giải Nhạc Đài Loan lần thứ 32, Sương Búi cũng giành giải Nghệ sĩ ngôn ngữ bản địa xuất sắc nhất. [^sangpuy][^gma32]
 
-- **《椏幹》 (2008):** Đạt giải album ngôn ngữ bản địa xuất sắc nhất tại Giải Kim Khúc lần thứ 20, diễn giải mối liên kết giữa đất đai và linh hồn bằng ngôn ngữ Puyuma
-- **《旮亙 Kagayan》 (2013):** Tên gọi được lấy từ ca khúc truyền thống Puyuma, ghi âm những tác phẩm như 《拉罕》 đầy thơ tính, sử dụng các nhạc cụ đơn sơ như xylophone, harmonica
-- **《神話》 (2017):** Bước vào giai đoạn sáng tác ổn định hơn, viết về thần thoại bộ tộc và ký ức tổ tiên
-- **《斯頌 Sising》 (2020):** Khám phá cuộc sống, cái chết và chờ đợi bằng ngôn ngữ Puyuma thuần khiết
+## Sản xuất liên ngành và khán giả mới
 
-Những buổi biểu diễn trực tiếp của Samput nổi tiếng với tính tối giản: một cây ghi-ta, một chiếc micro, nhưng giọng hát như vang lên từ sâu thẳm của trái đất. Anh ấy từng nói rằng, anh ấy chỉ lấy những cái mà những người già Puyuma đã từng hát, sắp xếp lại cho thế hệ trẻ nghe bằng bối cảnh hiện đại.
+### A-Lô (Ado Kaliting Pacidal): Âm thanh đa dạng của thế hệ mới
 
-### Alo (Ado Kaliting Pacidal): Tiếng hát đa dạng của thế hệ mới
+**Dân tộc**: Amis
+**Phong cách âm nhạc**: Kết hợp hip-hop, rock, điện tử và các yếu tố hiện đại khác
 
-**Tộc người:** Amis (阿美族)
-**Phong cách âm nhạc:** Kết hợp hip-hop, rock, âm nhạc điện tử và những yếu tố hiện đại khác
+A-Lô Kaliting Pacidal tham gia sản xuất âm nhạc liên ngành. Hồ sơ thí nghiệm âm nhạc pop AI của Hoa Hải Dương tại Bộ Văn hóa ghi lại cô biểu diễn "Bài thơ dành cho đảo" bằng cách thể hiện câu trả lời của người Amis. Đây là một ví dụ cụ thể về sự kết hợp giữa cách biểu diễn truyền thống và công nghệ mới. [^ado]
 
-Alo đại diện cho tinh thần đổi mới sáng tạo của thế hệ trẻ ca sĩ bản địa, anh ấy không bị ràng buộc bởi những hình thức truyền thống, dám dạo thử những phong cách âm nhạc khác nhau, thể hiện những khả năng vô tận của âm nhạc bản địa.
+### A-Bao ABAO: Nhịp điệu Paiwan vào sản xuất pop hiện đại
 
-### Abao (ABAO): Những người truyền bá ngôn ngữ Puyuma toàn cầu
+**Dân tộc**: Paiwan
+**Tên dân tộc**: A-Rêng Rêng
+**Điểm bắt đầu nghe**: "Người phụ nữ vavayan", "Lưỡi mẹ kinakaian"[^abao][^gma28][^gma31]
 
-**Tộc người:** Puyuma (卑南族) – Nam Vương bộ tộc
-**Tên thật:** Chung Lan Tề (鍾嵐琦)
-**Tác phẩm đại diện:** 《kinakaian 母親的舌頭》 (kinakaian: Lưỡi của mẹ), 《我》 (Tôi), 《Fly away》
+Tác phẩm của A-Bao mang tiếng Paiwan vào sản xuất pop hiện đại. "Lưỡi mẹ kinakaian" giành giải Album xuất sắc nhất và Giải Album ngôn ngữ bản địa tại Giải Nhạc Đài Loan lần thứ 31 năm 2020; bài hát "Cảm ơn" trong album giành giải Bài hát xuất sắc nhất. Nghệ sĩ giành giải Nghệ sĩ ngôn ngữ bản địa xuất sắc nhất cùng năm là Lô Tĩnh Tử, không nên nhầm lẫn giữa các đề cử và giải thưởng cùng năm. [^gma31]
 
-Abao là một trong những ca sĩ sáng tác bản địa đương đại nhận được sự chú ý quốc tế nhất của Đài Loan. Âm nhạc của cô ấy kết hợp R&B, âm nhạc điện tử và ca khúc truyền thống Puyuma, lời ca linh động di chuyển giữa ngôn ngữ bộ tộc và tiếng Trung Quốc, phá vỡ định kiến rằng "âm nhạc bản địa chỉ có thể truyền thống".
+Những tác phẩm này cho phép người nghe bắt đầu từ nhịp điệu và giọng hát để tiếp cận, sau đó hiểu nội dung thông qua lời bài hát, bản dịch và nền tảng sáng tạo. Âm nhạc có thể vượt qua rào cản ngôn ngữ để tiếp cận khán giả mới, nhưng việc hiểu văn bản ngôn ngữ bản địa vẫn cần bản dịch và bối cảnh văn hóa — không thể tóm tắt bằng cách không cần bản dịch.
 
-**Giải thưởng và cột mốc quan trọng:**
+---
 
-- Giải thưởng album tiếng Đài Loan xuất sắc nhất tại Giải Kim Khúc lần thứ 30 (2019, 《kinakaian 母親的舌頭》)
-- Giải thưởng ca sĩ ngôn ngữ bản địa xuất sắc nhất tại Giải Kim Khúc lần thứ 31 (2020)
-- Lựa chọn làm nhân vật bìa tạp chí TIME phiên bản Châu Á (2021)
+## Cảnh quan đương đại đa dạng
 
-Ảnh hưởng âm nhạc của Abao vượt ra ngoài đảo Đài Loan, đã trở thành một trong những tiếng nói có khả năng nhìn thấy toàn cầu cao nhất của văn hóa bản địa Đài Loan. Cô ấy dùng quy tắc sản xuất hiện đại để gói gọn những ca khúc ngôn ngữ bộ tộc, chứng minh rằng ngôn ngữ bộ tộc có thể trực tiếp đối thoại với những người nghe toàn cầu trong thời đại phát trực tuyến, không cần bất cứ sự trung gian nào.
+### Sức mạnh của phụ nữ
 
-**Đặc điểm phong cách âm nhạc:**
+#### Bà Na: Tiếng nói xã hội của nghệ sĩ phản đối
 
-- Ngôn ngữ Puyuma là chính, thi thoảng sử dụng tiếng Trung Quốc như quá độ cảm xúc bổ trợ
-- Nhịp điệu điện tử và sự kết hợp lớp của hát cổ truyền
-- Sản xuất hình ảnh tinh tế, MV thường thấy sự song song giữa nghi lễ bộ tộc và cảnh quan đô thị hiện đại
+**Điểm bắt đầu nghe**: "Lưu lý" trong album "Búp bê"[^panai]
 
-## Bộ mặt đương đại đa dạng phát triển
+Bà Na nổi tiếng với sáng tạo có nhận thức xã hội, với giọng hát mang tinh thần phê phán mạnh mẽ và quan tâm nhân văn, thường xuyên lên tiếng cho quyền lợi của người bản địa và các vấn đề xã hội.
 
-### Sự trỗi dậy của sức mạnh phụ nữ
+#### Ilid Kaolo: Người thừa nhận truyền thống của truyền thống cổ
 
-#### Ba Nê (1969–): Tiếng hát xã hội của ca sĩ phản kháng
+**Dân tộc**: Amis
+**Điểm bắt đầu nghe**: "Cuộc sống vui vẻ"[^ilid]
 
-**Tộc người:** Puyuma (卑南族)
-**Tác phẩm đại diện:** 《流浪記》 (Ký ức lưu lạc), 《也許有一天》 (Có lẽ có một ngày)
+Sáng tạo của Ilid Kaolo gắn liền với cuộc sống hàng ngày. "Cuộc sống vui vẻ" giành giải Album ngôn ngữ bản địa xuất sắc nhất tại Giải Nhạc Đài Loan lần thứ 23, cô cũng giành giải Nghệ sĩ ngôn ngữ bản địa xuất sắc nhất và Nghệ sĩ mới xuất sắc nhất. [^gma23]
 
-Ba Nê nổi tiếng với những sáng tác sâu sắc ý thức xã hội, giọng hát của cô ấy mang tinh thần phê phán mạnh mẽ và sự quan tâm nhân vị, thường xuyên lên tiếng cho quyền lợi bản địa và những vấn đề xã hội.
+### Ban nhạc cũng là cửa ngõ
 
-#### Dĩ Lợi·Cao Lộ (Ilid Kaolo): Những người truyền thừa hát ca cổ bằng cách mới
-
-**Tộc người:** Amis (阿美族)
-**Đặc điểm:** Tập trung vào diễn giải hiện đại những ca khúc cổ xưa của Amis
-
-Dĩ Lợi·Cao Lộ tập trung vào việc diễn giải lại những ca khúc cổ xưa của Amis, âm nhạc của cô ấy bảo tồn được cốt lõi tinh thần truyền thống, đồng thời đưa vào những từ vựng âm nhạc hiện đại.
-
-🎵 **Vẻ đẹp của âm nhạc bản địa**: [Hộ Đức Phu 《Gió trên Thái Bình Dương》](https://www.youtube.com/watch?v=1orwkijmkIU) ｜ [Tác phẩm của Abao](https://www.youtube.com/@abao_888) ｜ [Nghe thử album 《椏幹》 của Samput](https://www.youtube.com/watch?v=ealNSQUDAaU)
-
-### Đổi mới sáng tạo của các hình thức lưu thông
-
-#### Ban nhạc Totem (圖騰樂團): Tiếng hát bộ tộc của tinh thần rock
-
-**Thành lập:** 1999
-**Thành viên:** Hầu hết là những thành viên Amis, Puyuma
-**Phong cách âm nhạc:** Rock bản địa, rock dân gian
-
-#### Ban nhạc Thần Côn: Khám phá âm nhạc thử nghiệm
-
-Kết hợp những yếu tố bản địa với âm nhạc thử nghiệm, thể hiện khao khát đổi mới âm nhạc của thế hệ trẻ.
+Ban nhạc Tháp Bảo mà Siêu Mỹ Anh tham gia, cùng với giải Thành viên ban nhạc xuất sắc nhất của Giải Nhạc Đài Loan lần thứ 22 — MATZKA — cung cấp hướng nghe khác ngoài nghệ sĩ cá nhân. MATZKA năm đó giành giải Thành viên ban nhạc, không phải giải Nghệ sĩ mới. [^suming][^gma22]
 
 ### Hợp tác liên ngành và trao đổi quốc tế
 
-Hợp tác liên ngành của các ca sĩ bản địa đương đại đã rất rộng rãi, bao gồm các dự án hợp tác với những nhạc sĩ quốc tế, biểu diễn tại những lễ hội âm nhạc thế giới, những bản nhạc cho phim ảnh và kịch, cũng như những biểu diễn chung với dàn nhạc giao hưởng.
+Phạm vi hợp tác liên ngành của các nghệ sĩ bản địa Đài Loan đương đại đã rất rộng lớn, bao gồm các dự án hợp tác với nghệ sĩ quốc tế, biểu diễn tại lễ hội âm nhạc thế giới, điện ảnh và âm nhạc phim trường, cũng như hợp tác với dàn nhạc giao hưởng.
 
-## Giải Kim Khúc và những thành tích âm nhạc
+---
 
-Kể từ năm 2005 (Giải thứ 16) khi Giải Kim Khúc thành lập "Giải thưởng album ngôn ngữ bản địa xuất sắc nhất", âm nhạc bản địa đã nhận được sự chú ý và khẳng định nhiều hơn trong thế giới âm nhạc Đài Loan. [^7] Sự ra đời của giải thưởng này báo hiệu rằng công nghiệp âm nhạc Đài Loan chính thức công nhận vị thế nghệ thuật của âm nhạc ngôn ngữ bộ tộc, chứ không chỉ là trưng bày văn hóa ở biên.
+## Giải Nhạc Đài Loan và thành tích âm nhạc
 
-### Những người đạt giải quan trọng qua các năm
+Tại Giải Nhạc Đài Loan lần thứ 16, đã có giải "Album pop ngôn ngữ bản địa xuất sắc nhất", âm nhạc bản địa đã nhận được sự chú ý và công nhận nhiều hơn trong làng âm nhạc Đài Loan. [^7] Sự ra đời của giải thưởng này đánh dấu sự công nhận chính thức của công nghiệp âm nhạc Đài Loan đối với giá trị nghệ thuật của âm nhạc ngôn ngữ bản địa — không chỉ là một triển lãm văn hóa biên giới.
 
-Tần Kiến Niên 《海洋》 đã đánh bại hàng loạt thử thách với tư cách là "Chủ nhân ca sĩ nhạc pop xuất sắc nhất" vào năm 2000 (Giải thứ 11), phá vỡ sự im lặng của Giải Kim Khúc đối với người bản địa; Suming 《Suming》 vào Giải thứ 22 thu hoạch giải thưởng album ngôn ngữ bản địa xuất sắc nhất.
+### Một số điểm thưởng có thể so sánh
 
-- **Samput:** 《椏幹》 (Giải thứ 20: Album ngôn ngữ bản địa xuất sắc nhất)
-- **Dĩ Lợi·Cao Lộ:** 《迷霧中的靈光》 (Giải thứ 30: Album ngôn ngữ bản địa xuất sắc nhất)
-- **Abao:** 《kinakaian 母親的舌頭》 (Giải thứ 30: Album tiếng Đài Loan xuất sắc nhất); Giải thứ 31: Ca sĩ ngôn ngữ bản địa xuất sắc nhất
-- **Suming:** Được đề cử nhiều lần cho giải thưởng album ngôn ngữ bản địa xuất sắc nhất, 《I am Suming》 (Giải thứ 28)
-- **Na Bu (Nabu Husungan Istanda):** Ca sĩ sáng tác Amis quan trọng trong thập niên 2010, khách thường xuyên tại Giải Kim Khúc
-- **Dĩ Lợi Tả Phục (Elisa Huang):** Người Atayal (泰雅族), nhờ những ca khúc ngôn ngữ bộ tộc mà nhận được sự công nhận từ hạng mục ngôn ngữ bản địa trong nhiều giải thưởng
-- **Matzka:** Kết hợp reggae với yếu tố ngôn ngữ bộ tộc, đánh vào thế hệ trẻ với phong cách nhẹ nhàng, đạt giải Nghệ sĩ mới xuất sắc nhất Kim Khúc
+| Lần        | Nghệ sĩ/Tác phẩm                | Giải thưởng                                                                                           |
+| ---------- | ------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Lần thứ 11 | Thái Anh Văn - "Biển”"          | Giải Nam giới xuất sắc nhất ngôn ngữ Quốc ngữ[^gma11]                                                 |
+| Lần thứ 22 | "Suming"                        | Giải Album ngôn ngữ bản địa xuất sắc nhất[^gma22]                                                     |
+| Lần thứ 23 | Ilid Kaolo - "Cuộc sống vui vẻ" | Giải Album ngôn ngữ bản địa, Nghệ sĩ ngôn ngữ bản địa và Nghệ sĩ mới xuất sắc nhất[^gma23]            |
+| Lần thứ 28 | Sương Búi - "Gỗ nặn"            | Giải Album xuất sắc nhất, Nghệ sĩ ngôn ngữ bản địa và Album thu âm biểu diễn xuất sắc nhất[^gma28]    |
+| Lần thứ 31 | A-Bao - "Lưỡi mẹ kinakaian"     | Giải Album xuất sắc nhất và Album ngôn ngữ bản địa. "Cảm ơn" giành giải Bài hát xuất sắc nhất[^gma31] |
 
-Những người đạt giải này vượt qua ba mươi năm, bao gồm những người Puyuma, Amis, Atayal và những người khác, phản ánh sự đa dạng phồn thực của giải thưởng ngôn ngữ bản địa Giải Kim Khúc kể từ khi thành lập.
+Bảng này chỉ là một lựa chọn, không phải là lịch sử giải thưởng đầy đủ. Năm giải thưởng, năm phát hành album và tên gọi giải thưởng nên được đọc độc lập. Ngày đăng trên trang web cũng không nhất thiết trùng khớp với ngày lễ hội — ví dụ, trang web của Bộ Văn hóa cho danh sách giải thưởng lần thứ 16 ghi ngày 20 tháng 3 năm 2006, khi đọc tài liệu lịch sử, không nên dùng ngày trang web để đưa ra niên đại lại cho album hay giải thưởng. [^7]
+
+### Giải nghệ sĩ và giải sản xuất nhìn thấy công việc khác nhau
+
+Danh sách của lần thứ 28 phân chia "Gỗ nặn" thành Album xuất sắc nhất, Sương Búi là Nghệ sĩ ngôn ngữ bản địa, và phần thu âm của album được liệt kê riêng. Giải thưởng thu âm tách biệt các cá nhân làm việc về âm thanh, mix và băng đĩa sau, vì vậy việc viết cả ba giải thưởng như là thành tích biểu diễn cá nhân của nghệ sĩ sẽ che giấu công việc nhóm. Cách đọc tương tự với hồ sơ của A-Bao tại lần thứ 31 cũng giúp phân biệt giữa sự công nhận của toàn bộ album và một bài hát trong đó. Đây là cách đọc dữ liệu giải thưởng, không phải xếp hạng nghệ sĩ bằng số lượng giải thưởng. [^gma28][^gma31]
 
 ### Ý nghĩa văn hóa của giải thưởng
 
-Sự thành lập giải thưởng album ngôn ngữ bản địa Giải Kim Khúc, vừa là sự khẳng định giá trị nghệ thuật của âm nhạc bản địa, vừa thực sự khuyến khích những sáng tác ngôn ngữ mẹ đẻ và truyền thừa văn hóa, mang lại động lực cho nhiều thanh niên bản địa trẻ tham gia vào sáng tác âm nhạc.
+Sự thành lập của giải Album ngôn ngữ bản địa tại Giải Nhạc Đài Loan vừa là sự công nhận về giá trị nghệ thuật của âm nhạc bản địa, vừa thực sự khuyến khích sáng tạo bằng ngôn ngữ mẹ đẻ và truyền thống văn hóa, thúc đẩy nhiều giới trẻ bản địa tham gia sáng tạo âm nhạc.
 
-## Những vấn đề văn hóa trong âm nhạc
+---
+
+## Các vấn đề văn hóa trong âm nhạc
 
 ### Phục hồi ngôn ngữ
 
-Những ca sĩ sáng tác bản địa đương đại thông qua sáng tác âm nhạc, đã phát huy một vai trò cụ thể trong phục hồi ngôn ngữ bộ tộc. Kiên trì hát bằng ngôn ngữ mẹ đẻ để ngôn ngữ bộ tộc tái sinh sức sống trong âm nhạc hiện đại; chiến lược lưỡng âm của ngôn ngữ bộ tộc và tiếng Hoa song hành, mở rộng phạm vi truyền bá âm nhạc; những từ vựng cổ xưa của ngôn ngữ bộ tộc được tái hiện với những nhịp điệu mới trong bản ghi âm, để cho thế hệ trẻ có cơ hội tiếp xúc.
+Các nghệ sĩ bản địa Đài Loan đương đại đã đóng vai trò quan trọng trong việc phục hồi ngôn ngữ bản địa thông qua sáng tạo âm nhạc. Sự kiên trì hát bằng ngôn ngữ mẹ đẻ đã mang lại sức sống mới cho ngôn ngữ bản địa trong âm nhạc hiện đại. Chiến lược song ngữ giữa ngôn ngữ bản địa và tiếng Quảng Đông mở rộng phạm vi lan truyền âm nhạc. Những từ ngữ cổ xưa của ngôn ngữ bản địa xuất hiện lại trong các đĩa nhạc với nhịp điệu mới, cho phép thế hệ trẻ tiếp cận.
 
-### Nhận dạng bản thân
+### Nhận thức tính cá nhân
 
-Nhận dạng bản thân là chủ đề cốt lõi của nhiều sáng tác bản địa. Những người bản địa rời khỏi bộ tộc mà sống ở thành thị, ghi lại cảm xúc phức tạp của khoảng cách; một số ca sĩ khác lại thông qua suy ngẫm về ngôn ngữ bộ tộc và giai điệu truyền thống, cố gắng tái kết nối những nguồn gốc văn hóa bị đứt mất. Những mâu thuẫn mà hiện đại mang lại—khi quy tắc truyền thống kéo căng với nhịp độ cuộc sống thành phố—cũng để lại những dấu vết rõ ràng trong những lời ca.
+Nhận thức cá nhân là một vấn đề cốt lõi trong nhiều sáng tạo của người bản địa. Những người bản địa rời khỏi cộng đồng để sống ở đô thị ghi lại cảm xúc phức tạp thông qua bài hát. Một số nghệ sĩ khác thử nghiệm lại bằng cách quay lại ngôn ngữ bản địa và giai điệu truyền thống, cố gắng kết nối lại với nguồn gốc văn hóa bị cắt đứt. Những xung đột mang lại bởi sự hiện đại — sự căng thẳng giữa các chuẩn mực truyền thống và nhịp sống đô thị — cũng để lại dấu vết rõ rệt trong lời bài hát.
 
 ### Công lý đất đai
 
-Vấn đề đất đai cũng chiếm một chỗ trong âm nhạc bản địa. Những ca sĩ như Ba Nê bằng giọng hát lên tiếng cho quyền lợi đất đai bộ tộc, khi tham gia những phong trào xã hội, những người này cũng sử dụng âm nhạc như một phương tiện để tập hợp và phản kháng, để cho xã hội rộng lớn nghe thấy những khó khăn mà người bản địa đang phải đối mặt.
+Vấn đề đất đai cũng chiếm một vị trí quan trọng trong âm nhạc của người bản địa. Các nghệ sĩ như Bà Na dùng giọng hát để đấu tranh cho quyền lợi đất đai của cộng đồng, và trong các hoạt động phong trào xã hội, âm nhạc cũng được dùng như một công cụ để tụ họp và phản đối, giúp một phần xã hội rộng lớn hơn nghe thấy những khó khăn mà người bản địa đang phải đối mặt.
 
-## Ảnh hưởng của âm nhạc bản địa đối với công nghiệp âm nhạc
+---
 
-Sau khi những ca sĩ bản địa nắm chắc chân ở thị trường chính thống, họ cũng đã để lại ảnh hưởng rõ ràng đối với công nghiệp âm nhạc Đài Loan, dù là cấu trúc thị trường hay những cách tiếp cận trong sản xuất bản ghi đều có sự thay đổi.
+## Ảnh hưởng đến công nghiệp âm nhạc
 
-### Sự đa dạng hóa của thị trường âm nhạc
+Sau khi các nghệ sĩ bản địa vững chắc trên thị trường chính thống, họ cũng tạo ra ảnh hưởng nhìn thấy được đến công nghiệp âm nhạc Đài Loan, bao gồm cả cấu trúc thị trường và phương pháp sản xuất âm nhạc.
 
-Thành công của những ca sĩ bản địa đã để lại cho thị trường âm nhạc Đài Loan một bộ mặt rộng mở. Họ mở rộng không gian thị trường cho âm nhạc thế giới (World Music), chứng minh tiềm năng thương mại của âm nhạc ngôn ngữ bộ tộc, đồng thời thúc đẩy khả năng nhìn thấy của âm nhạc Đài Loan trên sân khấu quốc tế.
+### Đa dạng hóa thị trường âm nhạc
 
-### Đổi mới sáng tạo trong sản xuất âm nhạc
+Thành công của các nghệ sĩ bản địa đã tạo nên một diện mạo đa dạng cho thị trường âm nhạc Đài Loan. Họ đã mở rộng không gian thị trường âm nhạc thế giới (World Music), chứng minh tiềm năng thương mại của âm nhạc ngôn ngữ bản địa, đồng thời nâng cao khả năng nhận diện của âm nhạc Đài Loan trên sân khấu quốc tế.
 
-Sự đưa vào các yếu tố âm nhạc bản địa đã thúc đẩy sự đổi mới trong các phương pháp sản xuất âm nhạc. Những nhạc cụ truyền thống tìm thấy những vị trí mới trong sắp xếp hiện đại, cấu trúc âm vận của lời ca ngôn ngữ bộ tộc cũng hình thành nên một thẩm mỹ độc đáo, nhạc của những lễ hội bộ tộc được sắp xếp lại đưa vào các sản phẩm trong phòng thu, để cho những âm thanh nghi lễ tìm được sự tiếp tục trong bản ghi âm.
+### Đổi mới sản xuất âm nhạc
 
-## Ảnh hưởng quốc tế và trao đổi văn hóa
+Sự kết hợp các yếu tố âm nhạc bản địa đã thúc đẩy đổi mới trong phương pháp sản xuất âm nhạc. Các nhạc cụ truyền thống tìm thấy vị trí mới trong các bản biên tập hiện đại, cấu trúc âm thanh của lời bài hát ngôn ngữ bản địa cũng tạo ra thẩm mỹ độc đáo, và âm nhạc lễ hội cộng đồng cũng được chỉnh sửa để đưa vào sản phẩm thu âm, để âm thanh nghi lễ có thể kéo dài trong các đĩa nhạc.
 
-Sự hiện diện của âm nhạc bản địa Đài Loan trên sân khấu quốc tế, không còn chỉ giới hạn trong những buổi biểu diễn có tính trưng bày văn hóa, mà dần dần đang bước vào các cuộc đối thoại âm nhạc toàn cầu với vị thế của những nghệ sĩ bình đẳng.
+---
+
+## Ảnh hưởng và trao đổi quốc tế
+
+Sự hiện diện của âm nhạc bản địa Đài Loan trên trường quốc tế không chỉ giới hạn ở các buổi biểu diễn mang tính triển lãm văn hóa nữa, mà còn dần tham gia vào đối thoại nghệ thuật toàn cầu với tư cách bằng đẳng.
 
 ### Sân khấu âm nhạc thế giới
 
-Khả năng nhìn thấy của những ca sĩ bản địa Đài Loan trên sân khấu quốc tế đã trưng bày sự gia tăng rõ rệt. Họ được mời biểu diễn ở những lễ hội âm nhạc quốc tế, hợp tác trao đổi với những nhạc sĩ bản địa từ những quốc gia khác, đồng thời nhận được sự khẳng định tại những giải thưởng âm nhạc quốc tế.
+Sự hiện diện của các nghệ sĩ bản địa Đài Loan trên sân khấu quốc tế đã có sự gia tăng rõ rệt. Họ được mời tham gia các lễ hội âm nhạc quốc tế, trao đổi và hợp tác với các nghệ sĩ bản địa từ các quốc gia khác nhau, và cũng được công nhận tại các giải thưởng âm nhạc quốc tế.
 
-### Chức năng ngoại giao văn hóa
+### Vai trò trong ngoại giao văn hóa
 
-Âm nhạc bản địa đã đóng vai trò thực chất trong ngoại giao văn hóa Đài Loan. Nó trưng bày bộ mặt đa dạng của văn hóa Đài Loan, để những người nghe quốc tế hiểu rõ hơn về văn hóa bản địa Đài Loan, cũng xây dựng được sự nhận biết văn hóa riêng của Đài Loan khác biệt với những vùng lãnh thổ khác.
-
-## Những triển vọng tương lai của thế hệ mới
-
-### Cơ hội trong thời đại kỹ thuật số
-
-Những nền tảng mới và kỹ thuật số mở ra những kênh phát hành mới cho âm nhạc bản địa. YouTube, Spotify và những nền tảng phát trực tuyến khác hạ thấp những rào cản xuất bản, để cho những nhạc sĩ bản địa độc lập cũng có thể lộ diện trước những người nghe trên toàn thế giới; mạng xã hội cho phép những nhạc sĩ kết nối trực tiếp với người hâm mộ; sự phổ biến của những lớp học trực tuyến cũng để cho sự truyền thừa của ca khúc truyền thống không còn bị ràng buộc bởi địa lý bộ tộc nữa.
-
-### Sự khám phá phong cách âm nhạc của thế hệ mới
-
-Những nhạc sĩ bản địa trẻ tuổi trưng bày sự khám phá đa dạng trong phong cách âm nhạc, sự kết hợp của âm nhạc điện tử với ca khúc truyền thống không còn hiếm, những hình thức như hip-hop, rap cũng có người thử nghiệm, những dự án hợp tác âm nhạc xuyên văn hóa cũng từng được tăng lên.
-
-### Những mô hình mới để truyền thừa văn hóa
-
-Những ca sĩ bản địa đương đại cũng đang tạo ra những mô hình mới để truyền thừa văn hóa. Họ gói gọn những chất liệu truyền thống bằng những bao bì âm nhạc hiện đại, thu hút người trẻ tuổi quay lại hiểu biết về văn hóa của chính họ; Suming thành lập xưởng âm nhạc ở Đô Lan để đào tạo những nhân tài mới, những lễ hội âm nhạc được tổ chức bởi mỗi tộc người đã để cho văn hóa bộ tộc có được cơ hội trưng bày đối với bên ngoài một cách cố định.
-
-## Hướng dẫn lắng nghe
-
-Để biết và hiểu âm nhạc bản địa đương đại Đài Loan, cách trực tiếp nhất là bắt đầu từ một vài album đại diện: Tần Kiến Niên 《海洋》 là điểm bắt đầu phong cách dân gian tinh sạch nhất; Suming 《Suming》 trưng bày năng lượng rock đương đại của Amis; Samput 《椏幹》 lại mang theo sắc thái linh tính đầy đặc. aMEI 《A-mei》 và Dĩ Lợi·Cao Lộ 《迷霧中的靈光》 mỗi cái đại diện cho các đường đi khác nhau của ngoài thị trường thương mại hay truyền thừa ca khúc cổ.
-
-### Biểu diễn trực tiếp và sự kiện
-
-Lễ hội âm nhạc Amis (旮亙樂團) được tổ chức hàng năm ở Đô Lan, Đài Đông, là biểu diễn tốt nhất để trải nghiệm âm nhạc đương đại Amis; những lễ hội mùa hè (豐年祭) của các tộc khác nhau có thể để bạn tiếp xúc trực tiếp với bối cảnh gốc gác của ca khúc lễ hội. Đài truyền hình Dân tộc bản địa Đài Loan (TITV) những chương trình âm nhạc của cơ quan uỷ ban dân tộc bản địa Đài Loan trực tuyến thư viện tài liệu văn hóa, cũng là những nguồn tài nguyên quan trọng để biết một cách hệ thống về âm nhạc các tộc.
+Âm nhạc bản địa đóng vai trò quan trọng trong ngoại giao văn hóa của Đài Loan. Nó trình bày diện mạo đa dạng của văn hóa Đài Loan, giúp người nghe quốc tế có cái nhìn cụ thể hơn về văn hóa bản địa của Đài Loan, đồng thời xây dựng bản sắc văn hóa khác biệt so với các khu vực khác.
 
 ---
 
-Con đường mà những ca sĩ bản địa đương đại Đài Loan đã đi qua, là quá trình truyền thừa và sáng tạo đang diễn ra cùng lúc. Họ dùng ngôn ngữ bộ tộc để lại những dấu vết trong những bản ghi âm hiện đại, dùng nhịp điệu bộ tộc để phát tiếng trên những lễ hội âm nhạc quốc tế, để cho kỷ ức của rừng núi và biển khơi có thể được bảo tồn trong những tiếng hát. Những ca sĩ này là những người bảo vệ văn hóa, cũng bằng vai trò là những người sáng tác, tái định nghĩa cái gì là những tiếng hát của Đài Loan.
+## Tầm nhìn tương lai của thế hệ mới
+
+### Cơ hội trong thời đại số
+
+Các nền tảng truyền thông mới và số đã mở ra các kênh phân phối mới cho âm nhạc bản địa. Các nền tảng như YouTube, Spotify và các dịch vụ phát trực tuyến đã giảm rào cản xuất bản, cho phép các nghệ sĩ độc lập bản địa tiếp cận khán giả toàn cầu. Mạng xã hội cho phép các nghệ sĩ kết nối trực tiếp với người hâm mộ. Sự lan rộng của giảng dạy trực tuyến cũng giúp truyền thống ca khúc không bị giới hạn bởi địa lý cộng đồng.
+
+### Khám phá phong cách âm nhạc của thế hệ mới
+
+Thế hệ trẻ các nghệ sĩ bản địa cho thấy sự khám phá đa dạng trong âm nhạc. Sự kết hợp giữa âm nhạc điện tử và ca khúc truyền thống ngày càng phổ biến, cũng có những người thử nghiệm với hip-hop, rap và các dạng khác, đồng thời số lượng trường hợp hợp tác âm nhạc giao thoa cũng đang tăng lên.
+
+### Mô hình mới cho sự truyền thống
+
+Các nghệ sĩ bản địa đương đại cũng đang tạo ra mô hình mới cho sự truyền thống. Họ đóng gói các liệu tư liệu truyền thống trong âm nhạc hiện đại, thu hút thế hệ trẻ quay lại khám phá văn hóa của chính mình. Siêu Mỹ Anh đã thành lập một studio âm nhạc tại Đài Trung để đào tạo các nghệ sĩ mới, và các lễ hội âm nhạc của các dân tộc khác nhau cung cấp cơ hội để văn hóa cộng đồng được trưng bày ra bên ngoài.
 
 ---
+
+## Hướng dẫn nghe
+
+Cách trực tiếp nhất để hiểu âm nhạc bản địa Đài Loan đương đại là bắt đầu từ một vài album đại diện: "Biển”" của Thái Anh Văn là điểm khởi đầu mang tính dân gian nhất. "Suming" của Siêu Mỹ Anh trình bày sức mạnh của rock Amis hiện đại. "Gỗ nặn" của Sương Búi mang theo hơi thở linh hồn mạnh mẽ. Sau đó, nghe "Chị em" của Thái Vĩ Nhĩ và "Cuộc sống vui vẻ" của Ilid Kaolo, so sánh các mặt khác nhau giữa sản xuất pop tiếng Quảng Đông và sáng tạo ngôn ngữ bản địa. [^5][^ilid]
+
+### Địa điểm và hoạt động
+
+Lễ hội âm nhạc Amis do Siêu Mỹ Anh thúc đẩy là cửa ngõ để tiếp cận âm nhạc và văn hóa của cộng đồng Đài Trung. Ngày tổ chức thực tế nên tham khảo theo thông báo của từng năm. Khi tham quan lễ hội cộng đồng, nên tuân thủ phạm vi mở cửa và quy định chụp ảnh của cộng đồng. [^suming] Các chương trình âm nhạc của Truyền hình Bản địa (TITV) và cơ sở dữ liệu văn hóa trực tuyến của Ủy ban Bản địa cũng là nguồn tài nguyên quan trọng để hiểu sâu hơn về âm nhạc của các dân tộc khác nhau.
+
+---
+
+Hành trình mà các nghệ sĩ bản địa Đài Loan đã đi qua là sự tiến trình diễn ra đồng thời của sự truyền thống và sáng tạo. Họ để lại dấu vết của ngôn ngữ bản địa trong các đĩa nhạc hiện đại, và tiếng đất và biển trong các buổi biểu diễn âm nhạc trên sân khấu quốc tế. Những người này không chỉ là người bảo vệ văn hóa mà còn là người định nghĩa lại điều gì là "tiếng nói của Đài Loan" thông qua vai trò của họ như nhà sáng tạo.
+
+---
+
+## Đọc thêm
+
+- [Thái Vĩ Nhĩ](/vi/people/a-mei/)：Hiểu sâu hơn về hành trình âm nhạc của cô thông qua các đĩa nhạc pop và sân khấu biểu diễn.
+- [Thái Anh Văn](/vi/people/chen-chien-nien/)：Mở rộng đọc về "Biển”" và nền tảng sáng tạo.
 
 ## Tài liệu tham khảo
 
-- Lữ Dự Tú, 《Lịch sử âm nhạc Đài Loan》, Văn hóa Ngũ Nam, 2003. [Booko](https://www.books.com.tw/products/0010906148)
-- [Trang web chính thức của Uỷ ban Dân tộc bản địa Đài Loan](https://www.cip.gov.tw/)
-- [Danh sách những người đạt giải Kim Khúc qua các năm](https://gma.tavis.tw/)
-- [Đài truyền hình Dân tộc bản địa Đài Loan của Đài phát thanh công cộng](https://titv.ipcf.org.tw/)
-- [Thư viện lưu trữ âm nhạc Đài Loan](https://musiciantw.ncfta.gov.tw/)
-- [Danh sách phát "Những tác phẩm tiêu biểu của âm nhạc bản địa Đài Loan" trên Apple Music](https://music.apple.com/tw/playlist/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%9F%B3%E6%A8%82%E4%BB%A3%E8%A1%A8%E4%BD%9C%E5%93%81/pl.2f0621e681f94e1a942389cc65eeb393)
-- [aMEI — Wikipedia tiếng Việt](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%83%A0%E5%A6%B9)
-- [Suming — Wikipedia tiếng Việt](https://zh.wikipedia.org/zh-tw/%E8%88%92%E7%B1%B3%E6%81%A9)
-- [Samput — Wikipedia tiếng Việt](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A)
+[^1]: [Trang album của góc trái - "Biển”"](https://www.tcmusic.com.tw/cd/003/Default.htm) — Ngôn ngữ album, danh sách bài hát, nền tảng phát hành và lịch sử giải thưởng.
 
-[^1]: [Lữ Dự Tú 《Lịch sử âm nhạc Đài Loan》 Văn hóa Ngũ Nam 2003](https://www.books.com.tw/products/0010906148) — Một sách học thuật tổng quan về phát triển âm nhạc của các tộc người bản địa Đài Loan, chương một mô tả chi tiết những đặc tính âm nhạc của các tộc
+[^3]: [Bộ Văn hóa - Sở điện ảnh: Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 16](https://www.bamid.gov.tw/News_Content.aspx?n=3539&s=124214) — Thành viên của Động lực Hỏa xe và giới thiệu album năm 1997. Bài viết không suy luận dân tộc của từng thành viên.
 
-[^2]: [Trang web chính thức của Uỷ ban Dân tộc bản địa Đài Loan](https://www.cip.gov.tw/) — Nền tảng chính phủ chính thức để giới thiệu chính sách dân tộc bản địa, tài nguyên văn hóa và những thông tin nhóm
+[^4]: [Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 11](https://tavis.tw/gma/35th/GMA/history_11.htm) — Thái Anh Văn giành giải Nam giới xuất sắc nhất ngôn ngữ Quốc ngữ.
 
-[^3]: [Động Lực Lửa — Wikipedia](https://zh.wikipedia.org/zh-tw/動力火車) — Diễn Chí Lâm, Ưu Thu Hưng đều từ tộc Paiwan, những thông tin liên quan về tộc người được ghi lại trong bài viết này
+[^5]: [Trung tâm Tin học: Lịch sử sự kiện của Thái Vĩ Nhĩ](https://www.cna.com.tw/news/firstnews/201612135020.aspx) — Nền tảng phát hành album "Chị Em" năm 1996 và quá trình sản xuất.
 
-[^4]: [Danh sách những người đạt giải Kim Khúc qua các năm](https://gma.tavis.tw/) — Tần Kiến Niên 《海洋》 đã đạt giải Nam ca sĩ nhạc pop xuất sắc nhất lần thứ 11 (năm 2000), là lần đầu tiên một nghệ sĩ bản địa chinh phục giải thưởng chính tại Kim Khúc
+[^7]: [Bộ Văn hóa - Sở điện ảnh: Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 16](https://www.bamid.gov.tw/News_Content.aspx?n=3539&s=124214) — Tên gọi giải thưởng năm đó là "Album pop ngôn ngữ bản địa xuất sắc nhất".
 
-[^5]: [aMEI — Wikipedia](https://zh.wikipedia.org/zh-tw/張惠妹) — Ca sĩ Puyuma, ghi lại toàn bộ tiểu sử, danh mục bản ghi và vị thế "Nữ hoàng Châu Á"
+[^wang]: [Đại học Dược học: Vương Hồng Nguyên hát "Ánh trăng" mang phúc lành từ bà ngoại](https://bulletin.dyu.edu.tw/index.php?isHidden=1&msg_ID=45403&pool_ID=19) — Nền văn hóa Bống Bống và nền tảng bài hát.
 
-[^6]: [Samput — Wikipedia](https://zh.wikipedia.org/zh-tw/桑布伊) — Ca sĩ sáng tác Puyuma, phong cách thơ tính linh tính và thành tích giải thưởng Kim Khúc
+[^suming]: [Nhiều âm nhạc: Siêu Mỹ Anh - buổi biểu diễn trực tuyến](https://forgoodmusic.com.tw/live/concert/31) — Danh sách bài hát biểu diễn, kinh nghiệm ban nhạc, giáo dục tại Đài Trung và Lễ hội âm nhạc Amis.
 
-[^7]: [Danh sách những người đạt giải Kim Khúc qua các năm](https://gma.tavis.tw/) — Giải thưởng album ngôn ngữ bản địa xuất sắc nhất được thiết lập từ lần thứ 16 (năm 2005), dữ liệu những người đạt giải qua các năm được ghi lại hoàn chỉnh
+[^suming-album]: [Apple Music: Album sáng tạo cá nhân đầu tiên của Siêu Mỹ Anh](https://music.apple.com/us/album/suming-舒米恩首張個人創作專輯/1395752740) — Danh sách album và thông tin phát hành năm 2010.
+
+[^suming-song]: [Thư viện Thái Anh: Phỏng vấn Siêu Mỹ Anh](https://musictalk.blog/2016/09/20/【鐵玫瑰音樂節-x-taiwan-beats-系列專訪】舒米恩：記得從愛/) — Nền tảng sáng tạo bài hát chủ đề của phim "Con trai của mặt trời".
+
+[^gma27]: [Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 27](https://tavis.tw/gma/35th/GMA/history_27.htm) — "Đừng bỏ cuộc" giành giải Bài hát xuất sắc nhất.
+
+[^sangpuy]: [Gió Lượn âm nhạc: Sương Búi - "Lấy lực lượng pulu’em"](https://store.windmusic.com.tw/zh/CD/SKM-003) — Phát hành năm 2020, album cá nhân thứ ba và mô tả biên tập.
+
+[^gma32]: [Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 32](https://tavis.tw/gma/35th/GMA/history_32.htm) — "Lấy lực lượng" giành giải Album xuất sắc nhất và Nghệ sĩ ngôn ngữ bản địa.
+
+[^ado]: [Bộ Văn hóa: Thí nghiệm âm nhạc pop AI của Hoa Hải Dương](https://www.moc.gov.tw/News_Content.aspx?n=105&s=233673) — Sáng tạo câu trả lời của người Amis của A-Lô.
+
+[^abao]: [Bộ Văn hóa: Ca sĩ Paiwan A-Bao](https://www.moc.gov.tw/en/News_Content2.aspx?n=489&s=17847&sms=10723) — Dân tộc Paiwan và tên dân tộc A-Rêng Rêng.
+
+[^panai]: [Âm nhạc góc trái - "Búp bê"](https://www.tcmusic.com.tw/cd/008/Default.htm) — Album và danh sách bài hát của Bà Na.
+
+[^ilid]: [Báo cáo du lịch của Ủy ban Bản địa: Giới thiệu Ilid Kaolo](https://report.ndc.gov.tw/ReportFront/PageSystem/reportFileDownload/C10802297/001) — Nền văn hóa Amis và "Cuộc sống vui vẻ".
+
+[^gma11]: [Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 11](https://tavis.tw/gma/35th/GMA/history_11.htm) — Thái Anh Văn giành giải Nam giới và Kỷ Hiếu Quân giành giải Nghệ sĩ mới.
+
+[^gma22]: [Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 22](https://tavis.tw/gma/35th/GMA/history_22.htm) — Album ngôn ngữ bản địa của Siêu Mỹ Anh và hồ sơ giải Thành viên ban nhạc của MATZKA.
+
+[^gma23]: [Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 23](https://tavis.tw/gma/35th/GMA/history_23.htm) — Hồ sơ album, nghệ sĩ và giải thưởng mới của Ilid Kaolo.
+
+[^gma28]: [Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 28](https://tavis.tw/gma/35th/GMA/history_28.htm) — Ba giải thưởng của "Gỗ nặn" và hồ sơ giải Album của A-Bao.
+
+[^gma31]: [Danh sách giải thưởng Giải Nhạc Đài Loan lần thứ 31](https://tavis.tw/gma/35th/GMA/history_31.htm) — Hồ sơ album và giải thưởng bài hát của "Lưỡi mẹ kinakaian".
