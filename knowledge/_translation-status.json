@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T19:11:07+08:00",
-    "zhCommitHead": "f99340c85",
+    "lastUpdated": "2026-09-11T19:33:34+08:00",
+    "zhCommitHead": "5430a11ff",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 277,
+        "fresh": 286,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 837,
+        "missing": 828,
         "orphan": 0
       }
     },
@@ -795,7 +795,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/sorry-youth-band.md",
+          "translatedFrom": "Music/拍謝少年.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6a2b0dda2e1882cf",
+          "sourceBodyHash": "sha256:07737a8d590520a4",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -1842,8 +1853,8 @@
           "sourceContentHash": "sha256:b219ae0c22f1ce55",
           "sourceBodyHash": "sha256:943159c3ad5fba6c",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -6735,8 +6746,8 @@
           "sourceContentHash": "sha256:3400938387db0838",
           "sourceBodyHash": "sha256:486e862869561dd4",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -7561,8 +7572,8 @@
           "sourceContentHash": "sha256:52c5476d48498d3c",
           "sourceBodyHash": "sha256:908aaa826fb63ea3",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -11138,7 +11149,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwanese-companies-realtek-semiconductor.md",
+          "translatedFrom": "Economy/台灣企業：瑞昱半導體.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:bc61864ded99ef44",
+          "sourceBodyHash": "sha256:dec8acb87bfd42a2",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12148,8 +12170,8 @@
           "sourceContentHash": "sha256:d4462b5c55abd9d2",
           "sourceBodyHash": "sha256:144f62335cbc632a",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -13139,8 +13161,8 @@
           "sourceContentHash": "sha256:fe3ea825ce4c4813",
           "sourceBodyHash": "sha256:72d3ca65cff6d375",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -15784,8 +15806,8 @@
           "sourceContentHash": "sha256:ae9b504389b6e4fd",
           "sourceBodyHash": "sha256:318b91e549ea3a09",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -22358,7 +22380,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-5g-digital-transformation.md",
+          "translatedFrom": "Technology/台灣5G網路建設與數位轉型.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:1e757976bc4f33e4",
+          "sourceBodyHash": "sha256:122e66655dc1f0bf",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -22804,7 +22837,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-electric-vehicle-industry-chain.md",
+          "translatedFrom": "Technology/台灣電動車產業鏈發展.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:85f80872ad09b54c",
+          "sourceBodyHash": "sha256:3683724639161321",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -36244,8 +36288,8 @@
           "sourceContentHash": "sha256:3a356e2fbd9898dc",
           "sourceBodyHash": "sha256:5171611c1ca72679",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -55543,7 +55587,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwans-labeling-in-international-standards.md",
+          "translatedFrom": "Society/台灣在國際標準中的標示問題.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:5aa5d3ad7e4d012f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T11:13:08.858041+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -62762,8 +62817,8 @@
           "sourceContentHash": "sha256:b5dd2adc61c83c34",
           "sourceBodyHash": "sha256:85b65db93a33ed95",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -67956,7 +68011,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/yang-you-ren-shoes-for-hope-taiwan-youth-hero.md",
+          "translatedFrom": "People/楊右任.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:e2ade2405e5fac3e",
+          "sourceBodyHash": "sha256:aeccc38efb53dc79",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -72963,7 +73029,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/huang-zhen-nan-book-collector-historian.md",
+          "translatedFrom": "People/黃震南.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:e3d5f3c7c92e369d",
+          "sourceBodyHash": "sha256:0c3024d2af149e55",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -77113,8 +77190,8 @@
           "sourceContentHash": "sha256:171a521ab055d1cf",
           "sourceBodyHash": "sha256:eb36a190f4b7ada8",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -103312,8 +103389,8 @@
           "sourceContentHash": "sha256:3847058fd0c4df1f",
           "sourceBodyHash": "sha256:d277949bee5011bb",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5430a11f",
+          "translationLastModified": "2026-09-11T19:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -129660,7 +129737,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/qing-dynasty-rule.md",
+          "translatedFrom": "History/清治時期.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:dca863d69b937e0a",
+          "sourceBodyHash": "sha256:74eb6966230843b2",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -147369,7 +147457,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-street-art-and-graffiti-culture.md",
+          "translatedFrom": "Culture/台灣街頭藝術與塗鴉文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:9d5872fcc273adaa",
+          "sourceBodyHash": "sha256:bdae339216a98cc2",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
