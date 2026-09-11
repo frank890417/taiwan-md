@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T00:06:18+08:00",
-    "zhCommitHead": "7d1870fb5",
+    "lastUpdated": "2026-09-12T00:31:44+08:00",
+    "zhCommitHead": "0fda26542",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,9 +28,9 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 762,
+        "fresh": 763,
         "stale": 94,
-        "metadata_stale": 32,
+        "metadata_stale": 31,
         "missing": 233,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 326,
+        "fresh": 332,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 788,
+        "missing": 782,
         "orphan": 0
       }
     },
@@ -4426,8 +4426,8 @@
           "sourceContentHash": "sha256:c9aa499e9c84c71a",
           "sourceBodyHash": "sha256:b2e261c439c4d6f4",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -8328,8 +8328,8 @@
           "sourceContentHash": "sha256:6abff98edbff2fbe",
           "sourceBodyHash": "sha256:5dcfc71454466970",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -27369,8 +27369,8 @@
           "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
           "sourceBodyHash": "sha256:11c4d3b5ca02c812",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -30805,7 +30805,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/contemporary-indigenous-art-taiwan.md",
+          "translatedFrom": "Art/台灣原住民當代藝術.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:8e3303199d60c0c9",
+          "sourceBodyHash": "sha256:83f9f1bad3cb5feb",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -31352,7 +31363,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwanese-comics-and-illustration.md",
+          "translatedFrom": "Art/台灣漫畫.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:5275019358614716",
+          "sourceBodyHash": "sha256:dd1128570e96c06e",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -33567,7 +33589,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwanese-art-education-and-academic-development.md",
+          "translatedFrom": "Art/台灣藝術教育與學院發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:352ce3febb583c17",
+          "sourceBodyHash": "sha256:aaeb81e5f1416586",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -43850,7 +43883,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/zoo-and-exhibition-animal-ethics.md",
+          "translatedFrom": "Society/動物園與展演動物倫理.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:942c806351e32e6f",
+          "sourceBodyHash": "sha256:d25050b0162be631",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -47130,8 +47174,8 @@
           "sourceContentHash": "sha256:f55314385d9caf18",
           "sourceBodyHash": "sha256:7661cd6b847cb615",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -60605,8 +60649,8 @@
           "sourceContentHash": "sha256:3725125046bb0302",
           "sourceBodyHash": "sha256:c208c01efc93c70e",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -61299,8 +61343,8 @@
           "sourceContentHash": "sha256:fa8568c6d129180a",
           "sourceBodyHash": "sha256:7c0ff1bf77404541",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -63730,18 +63774,16 @@
         "ja": {
           "path": "ja/Nature/bird-window-collision-taiwan.md",
           "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
-          "sourceCommitSha": "69b3afd91",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:7b5c9a385e90141f",
           "sourceBodyHash": "sha256:e55bf8d3c335463a",
-          "translatedAt": "2026-08-04T14:12:35+08:00",
+          "translatedAt": "2026-09-11T20:42:25+08:00",
           "translationLastCommit": "e04e2e2f",
           "translationLastModified": "2026-08-04T15:50:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Nature/bird-window-collision-taiwan.md",
@@ -84032,7 +84074,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/hong-chih-kuo-taiwanese-left-handed-pitcher.md",
+          "translatedFrom": "People/郭泓志.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:e02695ed5dc8f6ea",
+          "sourceBodyHash": "sha256:adcefdbac44146e6",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -98788,8 +98841,8 @@
           "sourceContentHash": "sha256:3d7fccce1bbb6e47",
           "sourceBodyHash": "sha256:501cc28a481912c5",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -99559,8 +99612,8 @@
           "sourceContentHash": "sha256:940cd3ea72960eac",
           "sourceBodyHash": "sha256:4c0e104cb6fe8601",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -106550,8 +106603,8 @@
           "sourceContentHash": "sha256:03252333a42bc60e",
           "sourceBodyHash": "sha256:decf157a216cec86",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -152006,7 +152059,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/linguistic-diversity-and-mother-tongue-culture.md",
+          "translatedFrom": "Culture/語言多樣性與母語文化.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0f2cf9fae60042d8",
+          "sourceBodyHash": "sha256:62570a25d7db63f6",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -152249,8 +152313,8 @@
           "sourceContentHash": "sha256:e1fa112b66596f53",
           "sourceBodyHash": "sha256:fb4423c4414816f5",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0fda2654",
+          "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
