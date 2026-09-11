@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T04:54:26+08:00",
-    "zhCommitHead": "1438bee96",
+    "lastUpdated": "2026-09-12T06:56:18+08:00",
+    "zhCommitHead": "af54c2712",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 721,
-        "stale": 44,
+        "fresh": 722,
+        "stale": 43,
         "metadata_stale": 14,
         "missing": 342,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 362,
+        "fresh": 366,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 752,
+        "missing": 748,
         "orphan": 0
       }
     },
@@ -28562,8 +28562,8 @@
           "sourceContentHash": "sha256:9c83c84bdc39c0f8",
           "sourceBodyHash": "sha256:0539eab7900ae6ed",
           "translatedAt": "2026-09-12T00:32:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef727871",
+          "translationLastModified": "2026-09-12T04:54:27+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -32482,7 +32482,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/tehching-hsieh-performance-artist.md",
+          "translatedFrom": "Art/謝德慶.md",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:97f19e04671843c8",
+          "sourceBodyHash": "sha256:63227fedc7d1144a",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -50148,8 +50159,8 @@
           "sourceContentHash": "sha256:fe1941c4ac5aac8a",
           "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
           "translatedAt": "2026-09-12T00:32:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef727871",
+          "translationLastModified": "2026-09-12T04:54:27+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -57037,8 +57048,8 @@
           "sourceContentHash": "sha256:067149f437c5a573",
           "sourceBodyHash": "sha256:dcdc7781d0e5eb30",
           "translatedAt": "2026-09-12T00:32:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef727871",
+          "translationLastModified": "2026-09-12T04:54:27+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -77796,18 +77807,16 @@
         "ar": {
           "path": "ar/People/mavis-fan-singer.md",
           "translatedFrom": "People/范曉萱.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:be33318bbff736f0",
-          "sourceBodyHash": "sha256:972eef53b5601304",
-          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:e292cad27370cab5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T21:40:18.861593+00:00",
           "translationLastCommit": "9589c25e",
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/mavis-fan-singer.md",
@@ -84094,7 +84103,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chen-chien-chi-music-producer.md",
+          "translatedFrom": "People/陳建騏.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:96b9ab8dcbfbc70e",
+          "sourceBodyHash": "sha256:c09555aa1106e918",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -92216,7 +92236,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/jamie-lin-ai-industry-pioneer.md",
+          "translatedFrom": "People/簡立峰.md",
+          "sourceCommitSha": "717a640b3",
+          "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
+          "sourceBodyHash": "sha256:ea3e7d04bd378c51",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -96054,8 +96085,8 @@
           "sourceContentHash": "sha256:f5aebb543340d143",
           "sourceBodyHash": "sha256:2f3617098391a7c1",
           "translatedAt": "2026-09-12T00:32:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef727871",
+          "translationLastModified": "2026-09-12T04:54:27+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -97559,7 +97590,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/aljenljeng-tjaluvie-abao.md",
+          "translatedFrom": "People/阿爆.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:3152a96aee84899e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T22:49:06.656601+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -103489,8 +103531,8 @@
           "sourceContentHash": "sha256:321dcc1f48006944",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T19:24:49.436320+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef727871",
+          "translationLastModified": "2026-09-12T04:54:27+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "status": "fresh",
@@ -118814,8 +118856,8 @@
           "sourceContentHash": "sha256:843fecc188f1e99a",
           "sourceBodyHash": "sha256:e2ac1f8b1495c588",
           "translatedAt": "2026-09-12T00:32:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef727871",
+          "translationLastModified": "2026-09-12T04:54:27+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -137645,8 +137687,8 @@
           "sourceContentHash": "sha256:e34125e4b520b62c",
           "sourceBodyHash": "sha256:6490dd989b255fd9",
           "translatedAt": "2026-09-12T00:32:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef727871",
+          "translationLastModified": "2026-09-12T04:54:27+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -146121,8 +146163,8 @@
           "sourceContentHash": "sha256:bd2dad6040cda655",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T19:52:32.278314+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef727871",
+          "translationLastModified": "2026-09-12T04:54:27+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
