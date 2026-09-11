@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T15:15:09+08:00",
-    "zhCommitHead": "01cdc0115",
+    "lastUpdated": "2026-09-11T15:25:48+08:00",
+    "zhCommitHead": "0d514430e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 227,
+        "fresh": 237,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 887,
+        "missing": 877,
         "orphan": 0
       }
     },
@@ -19948,7 +19948,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/tamsui-river-bridge.md",
+          "translatedFrom": "Technology/淡江大橋.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:58ac62b3c0ac9558",
+          "sourceBodyHash": "sha256:2f938b13f0ca156c",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -23583,8 +23594,8 @@
           "sourceContentHash": "sha256:041d66a77659bdef",
           "sourceBodyHash": "sha256:d2c0d3b4dad31bc9",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d514430",
+          "translationLastModified": "2026-09-11T15:15:10+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -29774,7 +29785,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwanese-theater-and-performing-arts.md",
+          "translatedFrom": "Art/台灣劇場與表演藝術.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:cddfbcb9ade43ff2",
+          "sourceBodyHash": "sha256:0f8dee8662286dcf",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -35506,7 +35528,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/wang-a-piau-pog-cards.md",
+          "translatedFrom": "Lifestyle/尪仔標.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:20a6968836a636ac",
+          "sourceBodyHash": "sha256:b413f755105bbf3c",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -37704,8 +37737,8 @@
           "sourceContentHash": "sha256:4e9ca27840e47d5f",
           "sourceBodyHash": "sha256:0a4c39eae3411ae0",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d514430",
+          "translationLastModified": "2026-09-11T15:15:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -38894,8 +38927,8 @@
           "sourceContentHash": "sha256:ef208b370e332f10",
           "sourceBodyHash": "sha256:1f3fd4501700702b",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d514430",
+          "translationLastModified": "2026-09-11T15:15:10+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -41389,8 +41422,8 @@
           "sourceContentHash": "sha256:dfdfbf0a5674de0a",
           "sourceBodyHash": "sha256:6054d2cc1d83cb36",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d514430",
+          "translationLastModified": "2026-09-11T15:15:10+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -43061,7 +43094,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/lgbtq-in-taiwan.md",
+          "translatedFrom": "Society/LGBTQ.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2dceb8d4eac7775f",
+          "sourceBodyHash": "sha256:693cd449aa89ed1d",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -44981,7 +45025,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/earthquakes-in-taiwan.md",
+          "translatedFrom": "Society/地震.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eb48495c8ad7ee41",
+          "sourceBodyHash": "sha256:58b5b912b5042f24",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -47925,7 +47980,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-lithuania.md",
+          "translatedFrom": "Society/台灣與立陶宛.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:dc43efb5979a3c8f",
+          "sourceBodyHash": "sha256:0c2c65bdea71abe5",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -51357,7 +51423,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-cram-school-culture.md",
+          "translatedFrom": "Society/台灣補習班文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:31c0d75fa23d229b",
+          "sourceBodyHash": "sha256:2b22c43058efac00",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -52053,7 +52130,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/mainlanders-in-taiwan.md",
+          "translatedFrom": "Society/外省人.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:11472ed85277289a",
+          "sourceBodyHash": "sha256:78aa4d7a1743dd44",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -52417,8 +52505,8 @@
           "sourceContentHash": "sha256:58130043015789fc",
           "sourceBodyHash": "sha256:4ec983b4e284ca15",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d514430",
+          "translationLastModified": "2026-09-11T15:15:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -52927,7 +53015,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/falun-gong-in-taiwan.md",
+          "translatedFrom": "Society/法輪功在台灣.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0b627bb39208e94e",
+          "sourceBodyHash": "sha256:506539ee82e6b605",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -58834,7 +58933,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/eurasian-otter-in-taiwan.md",
+          "translatedFrom": "Nature/水獺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:06078f29307a4c77",
+          "sourceBodyHash": "sha256:cd4c66affdcc4144",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -62100,8 +62210,8 @@
           "sourceContentHash": "sha256:c950b0e6980af7aa",
           "sourceBodyHash": "sha256:76aaf6bdf8e233fe",
           "translatedAt": "2026-09-11T12:47:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0d514430",
+          "translationLastModified": "2026-09-11T15:15:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
