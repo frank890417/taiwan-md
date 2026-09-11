@@ -97,23 +97,23 @@ a human — that boundary is the design, not a limitation. The full contract is
 | ------------------------------ | ----- |
 | 📄 Total articles (zh-TW SSOT) | 1119  |
 | 🇹🇼 Chinese (zh-TW)             | 1119  |
-| 🇺🇸 English (en)                | 907   |
+| 🇺🇸 English (en)                | 908   |
 | 🇯🇵 日本語 (ja)                 | 888   |
-| 🇰🇷 한국어 (ko)                 | 899   |
+| 🇰🇷 한국어 (ko)                 | 900   |
 | 🇪🇸 Español (es)                | 897   |
-| 🇫🇷 Français (fr)               | 898   |
-| 🇻🇳 Tiếng Việt (vi)             | 883   |
-| 🇮🇩 Bahasa Indonesia (id)       | 667   |
-| 🇵🇹 Português (pt)              | 869   |
-| 🇮🇳 हिन्दी (hi)                 | 708   |
-| 🇸🇦 العربية (ar)                | 778   |
-| 🇷🇺 Русский (ru)                | 808   |
-| 🌐 Deutsch (de)                | 189   |
+| 🇫🇷 Français (fr)               | 899   |
+| 🇻🇳 Tiếng Việt (vi)             | 884   |
+| 🇮🇩 Bahasa Indonesia (id)       | 674   |
+| 🇵🇹 Português (pt)              | 871   |
+| 🇮🇳 हिन्दी (hi)                 | 710   |
+| 🇸🇦 العربية (ar)                | 779   |
+| 🇷🇺 Русский (ru)                | 811   |
+| 🌐 Deutsch (de)                | 371   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
-| ⭐ GitHub Stars                | 1171  |
+| ⭐ GitHub Stars                | 1170  |
 | 🍴 Forks                       | 185   |
 | 📅 Articles last 7 days        | 17    |
 | 📅 Articles last 30 days       | 256   |

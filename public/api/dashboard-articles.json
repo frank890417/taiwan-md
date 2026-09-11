@@ -8188,8 +8188,8 @@
       "ko": false,
       "es": false,
       "fr": false,
-      "vi": false,
-      "id": false,
+      "vi": true,
+      "id": true,
       "pt": true,
       "hi": false,
       "ar": false,
@@ -9617,17 +9617,17 @@
       "台灣媒體"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
-      "fr": false,
+      "fr": true,
       "vi": false,
-      "id": false,
-      "pt": false,
+      "id": true,
+      "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false,
+      "ru": true,
       "de": false
     },
     "revision": 2,
@@ -9666,15 +9666,15 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": false,
       "vi": false,
       "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
       "de": true
     },
     "revision": 2,
@@ -11855,7 +11855,7 @@
     "commitHash": "e8de5c16",
     "commitSubject": "🧬 [semiont] heal: 紅麴一文的 frontmatter 沒被包進 ---，還有兩張明天就過期的圖",
     "description": "樹林曾是全台灣唯一的紅麴製造工場，紅露酒的故鄉。2004 年酒廠走入歷史，原址成了科技園區，但紅麴以香腸、醬料與文化節的形式，繼續在樹林的街道上發酵。",
-    "healthScore": 56,
+    "healthScore": 51,
     "qualityScore": 13,
     "formatIssues": 1,
     "hasOverview": true,
@@ -13584,7 +13584,7 @@
     "commitHash": "46055e4f",
     "commitSubject": "🧬 [routine] fix: COMPUTEX 全大寫統一（Fact Check #1272）",
     "description": "2026 年 6 月，黃仁勳站上台北的舞台說「回到家真好」，背板上印的是肉粽和豬腳。同一個禮拜，三位執行長在這裡接力開講，台中的上銀首度跨界把減速機接上人形機器人的關節。德國 CeBIT、美國 COMDEX 都收攤了，這個 45 歲的台北電腦展卻越辦越大，因為它長在全世界近九成 AI 伺服器真正被組裝出來的島上。",
-    "healthScore": 60,
+    "healthScore": 55,
     "qualityScore": 0,
     "formatIssues": 0,
     "hasOverview": true,
@@ -17821,7 +17821,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": false,
       "ru": true,
       "de": true
@@ -19739,7 +19739,7 @@
     "commitHash": "e773ef6b",
     "commitSubject": "🧬 [semiont] polish: justfont與台灣字體發展.md 標點淨化（破折號 4→4、分號 25→12）",
     "description": "2015 年 9 月 8 日上午，一套以台灣茶命名的字型「金萱」在 flyingV 上線，76 分鐘衝破 150 萬門檻，最終 7,667 人集資 2,593 萬元。全民天天讀它的字，市場卻曾小到養不活任何一家造字公司。從華康的細明體、太原路上的鉛字，到畫佛像出身的林霞，這是台灣把做字的人帶到陽光下的故事。",
-    "healthScore": 60,
+    "healthScore": 55,
     "qualityScore": 5,
     "formatIssues": 0,
     "hasOverview": true,
@@ -19973,7 +19973,7 @@
     "commitHash": "82c0407f",
     "commitSubject": "🧬 [semiont] polish: 國家太空中心.md 標點淨化（破折號 19→15、分號 11→11）",
     "description": "1991 年它叫「籌備處」，沒有名字、沒有火箭、沒有自己的地。三十二年後它把 Taiwan 放回名字裡，現在新竹的操控中心 24 小時追著九顆衛星的心跳；0403 花蓮地震那天，它在震後六分鐘重設任務、三小時取像。它正在補上最後一塊零件——一枚自己的入軌火箭，還有一個已經核定、最快 2028 上路的月球任務。",
-    "healthScore": 70,
+    "healthScore": 65,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
@@ -20185,7 +20185,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "d520299b",
@@ -20703,7 +20703,7 @@
     "commitHash": "dbf93456",
     "commitSubject": "🧬 [semiont] memory: viz-evolution 收官三件套 — 日記〈簡體字躺在專門為看不見的讀者準備的角落〉+ relatedDiary 回扣 + viz 採用率 batch 進 ARTICLE-INBOX",
     "description": "Taiwan.md 的文章視覺化模組活範例——用真實的台灣居住、人口、醫療與國會數據，把每一種 tw-* 視覺模組渲染一次，搭配 graph.md 的語法與設計原則一起看。",
-    "healthScore": 58,
+    "healthScore": 53,
     "qualityScore": 0,
     "formatIssues": 0,
     "hasOverview": true,
@@ -21550,7 +21550,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -21637,7 +21637,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 14,
     "commitHash": "717a640b",
@@ -24266,7 +24266,7 @@
       "hi": true,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "c109869a",
@@ -24361,7 +24361,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "ab47ff39",
@@ -24640,7 +24640,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "ac86475b",
@@ -24727,7 +24727,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "8a230ddb",
@@ -24951,7 +24951,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "3b405f0d",
@@ -25263,7 +25263,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "108cbe80",
@@ -25441,7 +25441,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "1844f59c",
@@ -25576,7 +25576,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "49e065a4",
@@ -25673,7 +25673,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "f41a0fb8",
@@ -25722,7 +25722,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "d99a231b",
@@ -26020,7 +26020,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "edae9fc9",
@@ -26068,7 +26068,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "edae9fc9",
@@ -26155,7 +26155,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "edae9fc9",
@@ -26244,7 +26244,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "edae9fc9",
@@ -26421,7 +26421,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "a0314c6e",
@@ -26470,7 +26470,7 @@
       "hi": true,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "e03b004e",
@@ -26601,7 +26601,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 22,
     "commitHash": "5445d4c5",
@@ -26697,7 +26697,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "c5f33792",
@@ -26738,7 +26738,7 @@
       "hi": true,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "63bc1ff9",
@@ -26829,7 +26829,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "4d7fab8e",
@@ -26876,7 +26876,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "4d7fab8e",
@@ -26969,7 +26969,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "4d7fab8e",
@@ -27016,7 +27016,7 @@
       "hi": true,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 22,
     "commitHash": "7b8c0d48",
@@ -27187,7 +27187,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "073a0228",
@@ -27275,7 +27275,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "c916f28d",
@@ -27322,7 +27322,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "1d54cbe5",
@@ -28442,7 +28442,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "86db85f3",
@@ -28588,7 +28588,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "2faa5728",
@@ -28634,7 +28634,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "01d9d0e7",
@@ -28675,7 +28675,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "01d9d0e7",
@@ -28726,7 +28726,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 18,
     "commitHash": "01d9d0e7",
@@ -28909,7 +28909,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "2faa5728",
@@ -29132,7 +29132,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "5db9f136",
@@ -29222,7 +29222,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "0b2c2a33",
@@ -29630,7 +29630,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "4d0fa188",
@@ -30114,7 +30114,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "7632201f",
@@ -30161,7 +30161,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "4e3c6d90",
@@ -30290,7 +30290,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "e7c69daf",
@@ -30386,7 +30386,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "de5c259c",
@@ -30434,7 +30434,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "96c653f7",
@@ -30475,7 +30475,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "a3d4e1d2",
@@ -30929,7 +30929,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "4a42ae8d",
@@ -31023,7 +31023,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "c67109e5",
@@ -31234,7 +31234,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "21335999",
@@ -31452,7 +31452,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 18,
     "commitHash": "dd7a1d1c",
@@ -31499,7 +31499,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "21335999",
@@ -31594,7 +31594,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "03bf4282",
@@ -31635,7 +31635,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "21335999",
@@ -31724,7 +31724,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "cb0a6016",
@@ -31901,7 +31901,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "abf94a40",
@@ -31948,7 +31948,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "abf94a40",
@@ -31989,7 +31989,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "abf94a40",
@@ -32030,7 +32030,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "dc87c2a6",
@@ -32071,7 +32071,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "dc87c2a6",
@@ -32440,7 +32440,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "56fa1bf1",
@@ -32481,7 +32481,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "bb7a2ab0",
@@ -32653,7 +32653,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "5030f5d6",
@@ -32776,7 +32776,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "64abf6f8",
@@ -32920,7 +32920,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "64abf6f8",
@@ -33015,7 +33015,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "e0cf5a69",
@@ -33494,7 +33494,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "8413cde6",
@@ -33543,7 +33543,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "32e53d5b",
@@ -33584,7 +33584,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "b50810dc",
@@ -33714,7 +33714,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "52127981",
@@ -33803,7 +33803,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "6ae7e431",
@@ -33934,7 +33934,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "2adb8222",
@@ -34016,7 +34016,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "2eaba5ee",
@@ -34109,7 +34109,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 21,
     "commitHash": "3aba2ea3",
@@ -34321,7 +34321,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "37ef8f67",
@@ -34362,7 +34362,7 @@
       "hi": true,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "6097f831",
@@ -34541,7 +34541,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "2bca2bf8",
@@ -34590,7 +34590,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "1c29405e",
@@ -34687,7 +34687,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "1cdf2763",
@@ -34782,7 +34782,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "9aa15c9d",
@@ -34829,7 +34829,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 14,
     "commitHash": "4af626f4",
@@ -34960,7 +34960,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "0ed55e20",
@@ -35001,7 +35001,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "0ed55e20",
@@ -35146,7 +35146,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "5032dd64",
@@ -35494,7 +35494,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "72ec8595",
@@ -35582,7 +35582,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "0ecfa053",
@@ -35670,7 +35670,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "0ecfa053",
@@ -35963,7 +35963,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "fcfe3aef",
@@ -36045,7 +36045,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "7bcc3ce4",
@@ -36095,7 +36095,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "0d8e06fc",
@@ -36339,7 +36339,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "2d6af4d2",
@@ -36433,7 +36433,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "2d6af4d2",
@@ -36523,7 +36523,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "4351767d",
@@ -36616,7 +36616,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "fab473cc",
@@ -36657,7 +36657,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "fab473cc",
@@ -36844,7 +36844,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "fb9ddcae",
@@ -36931,7 +36931,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "6f3e4cc4",
@@ -36978,7 +36978,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "f94d76ee",
@@ -37026,7 +37026,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "79d016b9",
@@ -37072,7 +37072,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "1309f1dc",
@@ -37213,7 +37213,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 17,
     "commitHash": "ddc476ed",
@@ -37295,7 +37295,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "92f224cf",
@@ -37372,7 +37372,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": false,
@@ -37554,7 +37554,7 @@
       "hi": false,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "45b62300",
@@ -37644,7 +37644,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "ecb173b1",
@@ -37691,7 +37691,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "429d3cf0",
@@ -37825,7 +37825,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "55adefac",
@@ -38056,7 +38056,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "fb57de30",
@@ -38927,7 +38927,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "da13cc42",
@@ -39071,7 +39071,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 14,
     "commitHash": "3ffc6a53",
@@ -39584,7 +39584,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "897d485e",
@@ -39991,7 +39991,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "387977cb",
@@ -40657,7 +40657,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "61b1d393",
@@ -40847,7 +40847,7 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
+      "ru": true,
       "de": false
     },
     "revision": 12,
@@ -40897,7 +40897,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "066d5727",
@@ -41576,7 +41576,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 14,
     "commitHash": "1cbed0a6",
@@ -41626,7 +41626,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "0332733b",
@@ -41714,7 +41714,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "6d1af629",
@@ -41755,7 +41755,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "dd8cd86b",
@@ -41802,7 +41802,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "b4bebf5e",
@@ -41946,7 +41946,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "0f023926",
@@ -42270,7 +42270,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "5063db8c",
@@ -42318,7 +42318,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "5560d3ad",
@@ -42359,7 +42359,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "9cda79cd",
@@ -42449,7 +42449,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "db1f8edd",
@@ -43020,7 +43020,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "bbe8e16c",
@@ -43349,7 +43349,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "a2998a5d",
@@ -43632,7 +43632,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "29903e33",
@@ -43727,7 +43727,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "89a99b7a",
@@ -43777,7 +43777,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "89a99b7a",
@@ -43865,7 +43865,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "a2998a5d",
@@ -43961,7 +43961,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "3250713d",
@@ -44008,7 +44008,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "f0fe192c",
@@ -44102,7 +44102,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "de86194e",
@@ -44150,7 +44150,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "de86194e",
@@ -44197,7 +44197,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "de86194e",
@@ -44245,7 +44245,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "de86194e",
@@ -44291,7 +44291,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "de86194e",
@@ -44337,7 +44337,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "de86194e",
@@ -44559,7 +44559,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "1bb1eeb9",
@@ -45086,7 +45086,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "72cb02df",
@@ -45135,7 +45135,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "de5e78a1",
@@ -45183,7 +45183,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "0d693d0a",
@@ -45374,7 +45374,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "786ac8b3",
@@ -45421,7 +45421,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "52c63bf1",
@@ -45610,7 +45610,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "786ac8b3",
@@ -45800,7 +45800,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "52c63bf1",
@@ -45894,7 +45894,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "786ac8b3",
@@ -45989,7 +45989,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "786ac8b3",
@@ -46036,7 +46036,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "786ac8b3",
@@ -46130,7 +46130,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "786ac8b3",
@@ -46319,7 +46319,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "52c63bf1",
@@ -46415,7 +46415,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "786ac8b3",
@@ -46510,7 +46510,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "786ac8b3",
@@ -46653,7 +46653,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "52c63bf1",
@@ -46796,7 +46796,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "52c63bf1",
@@ -46844,7 +46844,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "786ac8b3",
@@ -46894,7 +46894,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "786ac8b3",
@@ -46942,7 +46942,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "786ac8b3",
@@ -47037,7 +47037,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "786ac8b3",
@@ -47232,7 +47232,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "84a7a00e",
@@ -47379,7 +47379,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "6c5d0f53",
@@ -47427,7 +47427,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "0827c60b",
@@ -47471,12 +47471,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "f13d7fea",
@@ -47520,12 +47520,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "f13d7fea",
@@ -47572,7 +47572,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "42d8684c",
@@ -47669,7 +47669,7 @@
       "hi": false,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "15319020",
@@ -47761,7 +47761,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "1f54481a",
@@ -47808,7 +47808,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "bce74c1f",
@@ -47902,7 +47902,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "eec1bc99",
@@ -47949,7 +47949,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "",
@@ -48143,7 +48143,7 @@
       "hi": true,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "",
@@ -48470,7 +48470,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "",
@@ -48512,12 +48512,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "",
@@ -48565,7 +48565,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "",
@@ -48612,7 +48612,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "",
@@ -48660,7 +48660,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "",
@@ -48879,7 +48879,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "",
@@ -48926,7 +48926,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "",
@@ -49090,7 +49090,7 @@
       "hi": false,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "",
@@ -49598,7 +49598,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "",
@@ -50430,7 +50430,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "",
@@ -50647,7 +50647,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "",
@@ -50688,7 +50688,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "",
@@ -50878,7 +50878,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "",
@@ -50925,7 +50925,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "",

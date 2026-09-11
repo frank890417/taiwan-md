@@ -1,8 +1,8 @@
 {
-  "totalArticles": 10512,
+  "totalArticles": 10713,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7263,
+  "totalTags": 7316,
   "categories": [
     {
       "name": "es",
@@ -10,15 +10,15 @@
     },
     {
       "name": "ko",
-      "count": 899
+      "count": 900
     },
     {
       "name": "fr",
-      "count": 898
+      "count": 899
     },
     {
       "name": "en",
-      "count": 907
+      "count": 908
     },
     {
       "name": "ja",
@@ -26,15 +26,15 @@
     },
     {
       "name": "vi",
-      "count": 883
+      "count": 884
     },
     {
       "name": "hi",
-      "count": 708
+      "count": 710
     },
     {
       "name": "ru",
-      "count": 808
+      "count": 811
     },
     {
       "name": "Technology",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 667
+      "count": 674
     },
     {
       "name": "ar",
-      "count": 778
+      "count": 779
     },
     {
       "name": "Politics",
@@ -62,7 +62,7 @@
     },
     {
       "name": "pt",
-      "count": 869
+      "count": 871
     },
     {
       "name": "Food",
@@ -106,7 +106,7 @@
     },
     {
       "name": "de",
-      "count": 189
+      "count": 371
     },
     {
       "name": "resources",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10512,
+    "zh-TW": 10713,
     "en": 0
   },
-  "lastUpdated": "2026-09-10T22:13:54.900Z",
-  "stars": 1171,
+  "lastUpdated": "2026-09-11T22:14:45.325Z",
+  "stars": 1170,
   "forks": 185,
   "zhPages": 1119,
   "languagePages": {
     "zh-TW": 1119,
-    "en": 907,
+    "en": 908,
     "ja": 888,
-    "ko": 899,
+    "ko": 900,
     "es": 897,
-    "fr": 898,
-    "vi": 883,
-    "id": 667,
-    "pt": 869,
-    "hi": 708,
-    "ar": 778,
-    "ru": 808,
-    "de": 189
+    "fr": 899,
+    "vi": 884,
+    "id": 674,
+    "pt": 871,
+    "hi": 710,
+    "ar": 779,
+    "ru": 811,
+    "de": 371
   },
-  "enPages": 907,
+  "enPages": 908,
   "totalPages": 1119
 }

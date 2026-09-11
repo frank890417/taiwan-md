@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-09-11 06:15
+last_generated: 2026-09-12 06:16
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-09-11 06:15** · 頂層 \*.md 共 **292** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-09-12 06:16** · 頂層 \*.md 共 **292** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -28,7 +28,7 @@ type: auto-index
 | `routine-prompt-drift/`          |    28 | 84.0 KB  | —                                                    |
 | `project-deep-audit-2026-09-07/` |    22 | 528.3 KB | —                                                    |
 | `maintainer/`                    |    16 | 308.9 KB | —                                                    |
-| `babel/`                         |    10 | 8.3 MB   | —                                                    |
+| `babel/`                         |    10 | 8.4 MB   | —                                                    |
 | `factcheck/`                     |     9 | 98.7 KB  | —                                                    |
 | `news-lens/`                     |     9 | 190.3 KB | —                                                    |
 | `babel-tier4/`                   |     8 | 5.5 KB   | —                                                    |
@@ -40,11 +40,11 @@ type: auto-index
 | `translation-research/`          |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `ab-tests/`                      |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
-| `404-monitor/`                   |     2 | 127.5 KB | —                                                    |
+| `404-monitor/`                   |     2 | 159.0 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `fork-census/`                   |     2 | 39.3 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 107.2 KB | —                                                    |
+| `newsroom/`                      |     2 | 107.3 KB | —                                                    |
 | `terminology-trends/`            |     2 | 30.0 KB  | —                                                    |
 | `audit/`                         |     1 | 20.7 KB  | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |
