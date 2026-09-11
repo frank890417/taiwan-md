@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T00:31:44+08:00",
-    "zhCommitHead": "0fda26542",
+    "lastUpdated": "2026-09-12T02:21:12+08:00",
+    "zhCommitHead": "052ba1fef",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 332,
+        "fresh": 334,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 782,
+        "missing": 780,
         "orphan": 0
       }
     },
@@ -2840,8 +2840,8 @@
           "sourceContentHash": "sha256:1592d113f4d245fb",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T14:30:13.520582+00:00",
-          "translationLastCommit": "9b326b94",
-          "translationLastModified": "2026-08-03T03:15:23+08:00",
+          "translationLastCommit": "d1e4e001",
+          "translationLastModified": "2026-09-12T00:31:44+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -52274,7 +52274,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/za-share.md",
+          "translatedFrom": "Society/雜學校.md",
+          "sourceCommitSha": "1844f59c5",
+          "sourceContentHash": "sha256:a2058786df46a07e",
+          "sourceBodyHash": "sha256:63cdc7eebcc0988a",
+          "translatedAt": "2026-09-12T00:32:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -62016,7 +62027,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/typhoons-in-taiwan.md",
+          "translatedFrom": "Nature/颱風.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:b0a47a120aff0621",
+          "sourceBodyHash": "sha256:b8ebcfc4e0a96ce7",
+          "translatedAt": "2026-09-12T00:32:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
