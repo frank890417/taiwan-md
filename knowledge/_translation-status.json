@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T10:29:46+08:00",
-    "zhCommitHead": "46bbbb870",
+    "lastUpdated": "2026-09-11T10:32:10+08:00",
+    "zhCommitHead": "74f8cc2da",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 613,
+        "fresh": 614,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 451,
+        "missing": 450,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 190,
+        "fresh": 191,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 924,
+        "missing": 923,
         "orphan": 0
       }
     },
@@ -14150,7 +14150,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-agriculture-and-rural-revitalization.md",
+          "translatedFrom": "Economy/台灣農業與農村再生.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:95d473c7b6d24541",
+          "sourceBodyHash": "sha256:a996bea328f05c29",
+          "translatedAt": "2026-09-11T07:09:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -17808,8 +17819,8 @@
           "sourceContentHash": "sha256:bbdb130f551a69e8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-10T23:37:24.663019+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "74f8cc2d",
+          "translationLastModified": "2026-09-11T10:29:46+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "status": "fresh",
@@ -68876,8 +68887,8 @@
           "sourceContentHash": "sha256:b3b7816f9ed81e72",
           "sourceBodyHash": "sha256:fd90a845acbf3ca4",
           "translatedAt": "2026-09-11T07:09:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "74f8cc2d",
+          "translationLastModified": "2026-09-11T10:29:46+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -88367,7 +88378,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/yu-yong-he.md",
+          "translatedFrom": "People/郁永河.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4070459913f1808f",
+          "sourceBodyHash": "sha256:f14cb1a2a50dc23e",
+          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
