@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T19:33:34+08:00",
-    "zhCommitHead": "5430a11ff",
+    "lastUpdated": "2026-09-11T20:42:04+08:00",
+    "zhCommitHead": "c3792bd26",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 286,
+        "fresh": 295,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 828,
+        "missing": 819,
         "orphan": 0
       }
     },
@@ -801,8 +801,8 @@
           "sourceContentHash": "sha256:6a2b0dda2e1882cf",
           "sourceBodyHash": "sha256:07737a8d590520a4",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -6112,7 +6112,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/giant-manufacturing-taiwan-bicycle-empire.md",
+          "translatedFrom": "Economy/台灣企業：巨大機械.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:59a5006dd9b19748",
+          "sourceBodyHash": "sha256:ba1854308daac0e3",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -6538,7 +6549,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
+          "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:9913b1fbaa8895dd",
+          "sourceBodyHash": "sha256:ec73a2d32ea085c0",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -9945,7 +9967,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/largan-precision-when-craftsmanship-meets-architectural-revolution.md",
+          "translatedFrom": "Economy/台灣企業：大立光電.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:74469a54ad5b9ae3",
+          "sourceBodyHash": "sha256:4ac8e9cdef3a165c",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -11155,8 +11188,8 @@
           "sourceContentHash": "sha256:bc61864ded99ef44",
           "sourceBodyHash": "sha256:dec8acb87bfd42a2",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -22386,8 +22419,8 @@
           "sourceContentHash": "sha256:1e757976bc4f33e4",
           "sourceBodyHash": "sha256:122e66655dc1f0bf",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -22843,8 +22876,8 @@
           "sourceContentHash": "sha256:85f80872ad09b54c",
           "sourceBodyHash": "sha256:3683724639161321",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -23395,7 +23428,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/digital-id-and-digital-government.md",
+          "translatedFrom": "Technology/數位身分證與數位政府.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:06fbc10ed01b5aa5",
+          "sourceBodyHash": "sha256:f5b7d5b360840e4c",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -23562,7 +23606,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/east-asian-input-methods.md",
+          "translatedFrom": "Technology/東亞文字輸入法.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:d8c6f0fd322ce1e4",
+          "sourceBodyHash": "sha256:c009ff8e72f638e1",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -55593,8 +55648,8 @@
           "sourceContentHash": "sha256:5aa5d3ad7e4d012f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-11T11:13:08.858041+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -59904,8 +59959,8 @@
           "sourceContentHash": "sha256:bc4a8eee501f028c",
           "sourceBodyHash": "sha256:059668decdeffa13",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -68017,8 +68072,8 @@
           "sourceContentHash": "sha256:e2ade2405e5fac3e",
           "sourceBodyHash": "sha256:aeccc38efb53dc79",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -69305,7 +69360,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chen-yingzhen.md",
+          "translatedFrom": "People/陳映真.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:f3b9ab94d7f541be",
+          "sourceBodyHash": "sha256:8eae051539404383",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -73035,8 +73101,8 @@
           "sourceContentHash": "sha256:e3d5f3c7c92e369d",
           "sourceBodyHash": "sha256:0c3024d2af149e55",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -96690,7 +96756,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/fang-hsu-chung.md",
+          "translatedFrom": "People/方序中.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:d4657223bb8bff5e",
+          "sourceBodyHash": "sha256:5791cbc190a21f96",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -122615,7 +122692,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/three-foreigners-witness-1895-taiwan.md",
+          "translatedFrom": "History/三個外國人看乙未.md",
+          "sourceCommitSha": "01d9d0e73",
+          "sourceContentHash": "sha256:dd0456fc58fe6d55",
+          "sourceBodyHash": "sha256:f4c2468d7055a6c1",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -125968,7 +126056,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/formosa-historical-name.md",
+          "translatedFrom": "History/福爾摩沙.md",
+          "sourceCommitSha": "01d9d0e73",
+          "sourceContentHash": "sha256:7935e86b210536e5",
+          "sourceBodyHash": "sha256:dd15e8c65b7a98f1",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -129743,8 +129842,8 @@
           "sourceContentHash": "sha256:dca863d69b937e0a",
           "sourceBodyHash": "sha256:74eb6966230843b2",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -147463,8 +147562,8 @@
           "sourceContentHash": "sha256:9d5872fcc273adaa",
           "sourceBodyHash": "sha256:bdae339216a98cc2",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3792bd2",
+          "translationLastModified": "2026-09-11T19:33:34+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
