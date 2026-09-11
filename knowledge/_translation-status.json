@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T12:46:46+08:00",
-    "zhCommitHead": "be0cae359",
+    "lastUpdated": "2026-09-11T13:34:41+08:00",
+    "zhCommitHead": "4b08a90cc",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 806,
-        "stale": 77,
+        "fresh": 807,
+        "stale": 76,
         "metadata_stale": 17,
         "missing": 221,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 616,
+        "fresh": 617,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 448,
+        "missing": 447,
         "orphan": 0
       },
       "pt": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 219,
+        "fresh": 221,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 895,
+        "missing": 893,
         "orphan": 0
       }
     },
@@ -25866,8 +25866,8 @@
           "sourceContentHash": "sha256:7704f0ba39f9bad2",
           "sourceBodyHash": "sha256:953746868edc36a0",
           "translatedAt": "2026-09-11T07:09:33+08:00",
-          "translationLastCommit": "9589c25e",
-          "translationLastModified": "2026-07-27T19:06:56+08:00",
+          "translationLastCommit": "4b08a90c",
+          "translationLastModified": "2026-09-11T12:46:46+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -26066,7 +26066,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-gamers-wildest-moments.md",
+          "translatedFrom": "Technology/台灣玩家的瘋狂時刻.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:03ef929d72a03265",
+          "sourceBodyHash": "sha256:dd0e3abb83d55e63",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -40241,7 +40252,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/line-app-in-taiwan.md",
+          "translatedFrom": "Lifestyle/LINE.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e36f0dcb06bdb5d7",
+          "sourceBodyHash": "sha256:45c225df72a18f73",
+          "translatedAt": "2026-09-11T12:47:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -42412,18 +42434,16 @@
         "ko": {
           "path": "ko/Society/where-did-taiwan-moral-education-go.md",
           "translatedFrom": "Society/台灣的道德課去哪了.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:9e2e35c86cfffed4",
-          "sourceBodyHash": "sha256:def0fbd84e75d95c",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:aa6de6422908baca",
+          "sourceBodyHash": "sha256:a98b8189be962f59",
+          "translatedAt": "2026-09-11T12:47:09+08:00",
           "translationLastCommit": "f59e6468",
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/where-did-taiwan-moral-education-go.md",
@@ -53550,8 +53570,8 @@
           "sourceContentHash": "sha256:0bd3cef2eb38faed",
           "sourceBodyHash": "sha256:b139705eca5e1f54",
           "translatedAt": "2026-09-11T07:09:33+08:00",
-          "translationLastCommit": "baca30f9",
-          "translationLastModified": "2026-07-31T04:51:45+08:00",
+          "translationLastCommit": "4b08a90c",
+          "translationLastModified": "2026-09-11T12:46:46+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -68928,8 +68948,8 @@
           "sourceContentHash": "sha256:b3b7816f9ed81e72",
           "sourceBodyHash": "sha256:fd90a845acbf3ca4",
           "translatedAt": "2026-09-11T07:09:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4b08a90c",
+          "translationLastModified": "2026-09-11T12:46:46+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -90254,7 +90274,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/4.md",
+          "translatedFrom": "People/木曜4超玩.md",
+          "sourceCommitSha": "1b55dfc6c",
+          "sourceContentHash": "sha256:f1e33836f112b9c8",
+          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
+          "translatedAt": "2026-09-11T12:47:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/4.md",
