@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T23:27:49+08:00",
-    "zhCommitHead": "3042415fc",
+    "lastUpdated": "2026-09-11T23:39:50+08:00",
+    "zhCommitHead": "2845c7838",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 306,
+        "fresh": 316,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 808,
+        "missing": 798,
         "orphan": 0
       }
     },
@@ -9117,7 +9117,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/united-microelectronics-corporation.md",
+          "translatedFrom": "Economy/台灣企業：聯華電子.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0d32412f5db9b8c4",
+          "sourceBodyHash": "sha256:f3ad39fefc5166a6",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -22718,8 +22729,8 @@
           "sourceContentHash": "sha256:f9e9a234cc5325c0",
           "sourceBodyHash": "sha256:88a1bb16a9339997",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -58213,7 +58224,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/About/seeing-taiwan-quotes.md",
+          "translatedFrom": "About/看見台灣引言集.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:4cbaa3c9a8d422dd",
+          "sourceBodyHash": "sha256:0d8842cfba541dc2",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -60140,7 +60162,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/taiwan-atlas-moth.md",
+          "translatedFrom": "Nature/台灣皇蛾.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:c0def8638e893fc6",
+          "sourceBodyHash": "sha256:b3b31dae4152e213",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -63059,8 +63092,8 @@
           "sourceContentHash": "sha256:b67fcedd0e7a43f6",
           "sourceBodyHash": "sha256:7e2f50f483b073fb",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -63597,8 +63630,8 @@
           "sourceContentHash": "sha256:bbca77501c197a81",
           "sourceBodyHash": "sha256:76487fd0d26564e6",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -67240,7 +67273,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chen-chien-jen.md",
+          "translatedFrom": "People/陳建仁.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:3e3c722e9fbee583",
+          "sourceBodyHash": "sha256:cd353841feafe555",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -74685,8 +74729,8 @@
           "sourceContentHash": "sha256:62dd044f9d1285a1",
           "sourceBodyHash": "sha256:b39a89251e94292a",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -76008,7 +76052,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/fang-yi-sheu-body-storyteller.md",
+          "translatedFrom": "People/許芳宜.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:a31b5339a894147e",
+          "sourceBodyHash": "sha256:e2e71f85bef4ed48",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -83405,8 +83460,8 @@
           "sourceContentHash": "sha256:11b55d270abdf3d3",
           "sourceBodyHash": "sha256:7ab58584d6fb7af7",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -96010,7 +96065,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chu-ching-wu.md",
+          "translatedFrom": "People/朱經武.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:79c87fb84a11dd9d",
+          "sourceBodyHash": "sha256:619ef92c56c46024",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -101707,7 +101773,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chen-yu-hsun-taiwan-comedy-film-magician.md",
+          "translatedFrom": "People/陳玉勳.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:bc132f506d9946e5",
+          "sourceBodyHash": "sha256:ae4d7d2f8418495d",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -102342,7 +102419,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/gwei-lun-mei-versatile-taiwanese-actress.md",
+          "translatedFrom": "People/桂綸鎂.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:266bd954eeb032d3",
+          "sourceBodyHash": "sha256:c06a0cb5b90069e3",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -108422,7 +108510,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/steve-chang.md",
+          "translatedFrom": "People/張明正.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:932e4c30cdddd3e0",
+          "sourceBodyHash": "sha256:21c31465830632be",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -108595,8 +108694,8 @@
           "sourceContentHash": "sha256:741173e056926b2c",
           "sourceBodyHash": "sha256:7f6ff2dde21c6686",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -128976,8 +129075,8 @@
           "sourceContentHash": "sha256:63ac1f41561d9b5f",
           "sourceBodyHash": "sha256:b9a9258412d16bc5",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -134512,8 +134611,8 @@
           "sourceContentHash": "sha256:fd5b44b607710000",
           "sourceBodyHash": "sha256:b019853dd2be5b1d",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -135528,7 +135627,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taiwan-agricultural-landscapes-and-industry-belts.md",
+          "translatedFrom": "Geography/台灣農業地景與產業分布.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:5fcedd0ad0dc94f7",
+          "sourceBodyHash": "sha256:92c2111bcaaae7c8",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -138387,8 +138497,8 @@
           "sourceContentHash": "sha256:b14a14cb2829b8df",
           "sourceBodyHash": "sha256:0d43b9a8dba0aa39",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -155404,8 +155514,8 @@
           "sourceContentHash": "sha256:90f09bc6a0a80e4d",
           "sourceBodyHash": "sha256:396be33a77ed6ba1",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2845c783",
+          "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
