@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T21:51:12+08:00",
-    "zhCommitHead": "22628a683",
+    "lastUpdated": "2026-09-11T23:27:49+08:00",
+    "zhCommitHead": "3042415fc",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,9 +76,9 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 791,
+        "fresh": 792,
         "stale": 65,
-        "metadata_stale": 15,
+        "metadata_stale": 14,
         "missing": 250,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 296,
+        "fresh": 306,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 818,
+        "missing": 808,
         "orphan": 0
       }
     },
@@ -2836,18 +2836,16 @@
         "pt": {
           "path": "pt/Music/little-tigers-taiwan-boy-band.md",
           "translatedFrom": "Music/小虎隊.md",
-          "sourceCommitSha": "ac1d187af",
-          "sourceContentHash": "sha256:3550fb52e312828d",
-          "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
-          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:1592d113f4d245fb",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T14:30:13.520582+00:00",
           "translationLastCommit": "9b326b94",
           "translationLastModified": "2026-08-03T03:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/little-tigers-taiwan-boy-band.md",
@@ -6118,8 +6116,8 @@
           "sourceContentHash": "sha256:59a5006dd9b19748",
           "sourceBodyHash": "sha256:ba1854308daac0e3",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -6555,8 +6553,8 @@
           "sourceContentHash": "sha256:9913b1fbaa8895dd",
           "sourceBodyHash": "sha256:ec73a2d32ea085c0",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -9973,8 +9971,8 @@
           "sourceContentHash": "sha256:74469a54ad5b9ae3",
           "sourceBodyHash": "sha256:4ac8e9cdef3a165c",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -22714,7 +22712,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/beverage-sealing-machine.md",
+          "translatedFrom": "Technology/飲料封膜機.md",
+          "sourceCommitSha": "073a02289",
+          "sourceContentHash": "sha256:f9e9a234cc5325c0",
+          "sourceBodyHash": "sha256:88a1bb16a9339997",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -23434,8 +23443,8 @@
           "sourceContentHash": "sha256:06fbc10ed01b5aa5",
           "sourceBodyHash": "sha256:f5b7d5b360840e4c",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -23612,8 +23621,8 @@
           "sourceContentHash": "sha256:d8c6f0fd322ce1e4",
           "sourceBodyHash": "sha256:c009ff8e72f638e1",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -61024,8 +61033,8 @@
           "sourceContentHash": "sha256:6a877621bb6ceb6f",
           "sourceBodyHash": "sha256:855af6d5f189b0bd",
           "translatedAt": "2026-09-11T20:42:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -63044,7 +63053,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/national-parks.md",
+          "translatedFrom": "Nature/國家公園.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:b67fcedd0e7a43f6",
+          "sourceBodyHash": "sha256:7e2f50f483b073fb",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -63571,7 +63591,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/taiwanese-leopard-cat-conservation.md",
+          "translatedFrom": "Nature/台灣石虎保育.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:bbca77501c197a81",
+          "sourceBodyHash": "sha256:76487fd0d26564e6",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -69377,8 +69408,8 @@
           "sourceContentHash": "sha256:f3b9ab94d7f541be",
           "sourceBodyHash": "sha256:8eae051539404383",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -74648,7 +74679,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/bobby-chen-indie-music-pioneer.md",
+          "translatedFrom": "People/陳昇.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:62dd044f9d1285a1",
+          "sourceBodyHash": "sha256:b39a89251e94292a",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -83357,7 +83399,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/li-guoxiu.md",
+          "translatedFrom": "People/李國修.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:11b55d270abdf3d3",
+          "sourceBodyHash": "sha256:7ab58584d6fb7af7",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -96773,8 +96826,8 @@
           "sourceContentHash": "sha256:d4657223bb8bff5e",
           "sourceBodyHash": "sha256:5791cbc190a21f96",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -108536,7 +108589,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/tung-tzu-hsien-tech-humanist.md",
+          "translatedFrom": "People/童子賢.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:741173e056926b2c",
+          "sourceBodyHash": "sha256:7f6ff2dde21c6686",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -122709,8 +122773,8 @@
           "sourceContentHash": "sha256:dd0456fc58fe6d55",
           "sourceBodyHash": "sha256:f4c2468d7055a6c1",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -126073,8 +126137,8 @@
           "sourceContentHash": "sha256:7935e86b210536e5",
           "sourceBodyHash": "sha256:dd15e8c65b7a98f1",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3042415f",
+          "translationLastModified": "2026-09-11T21:51:12+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -128906,7 +128970,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/dutch-spanish-and-koxinga-era.md",
+          "translatedFrom": "History/荷西明鄭時期.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:63ac1f41561d9b5f",
+          "sourceBodyHash": "sha256:b9a9258412d16bc5",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -134431,7 +134506,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/geography-and-geology.md",
+          "translatedFrom": "Geography/台灣島嶼地理特色與形成.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:fd5b44b607710000",
+          "sourceBodyHash": "sha256:b019853dd2be5b1d",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -138295,7 +138381,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
+          "translatedFrom": "Geography/台灣五大地形與地理結構.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:b14a14cb2829b8df",
+          "sourceBodyHash": "sha256:0d43b9a8dba0aa39",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -155301,7 +155398,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-incense-making-culture-and-heritage.md",
+          "translatedFrom": "Culture/台灣製香文化與香腳原鄉.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:90f09bc6a0a80e4d",
+          "sourceBodyHash": "sha256:396be33a77ed6ba1",
+          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
