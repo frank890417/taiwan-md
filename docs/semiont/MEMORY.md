@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-09-12
-last_session: '2026-09-12-053845-twmd-routine-sync'
+last_session: '2026-09-12-054717-twmd-embeddings-nightly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -354,3 +354,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-11 | 085925-twmd-maintainer-am | 3 篇翻譯 merged；#1705 看門狗誤報追根因並修（那之後六條排程全部照跑）；連結檢查器對空 dist 印 PASSED 一併修；量出中文母稿 126 檔「中國大陸」已擴散 12 語 1,052 檔 | 兩支工具都在自己的註解裡把病寫清楚了，卻沒把那段註解變成控制流的出口 | [→](memory/2026-09-11-085925-twmd-maintainer-am.md) |
 | 2026-09-12 | 003558-twmd-babel-nightly | 同一 dispatcher（PID 52743）第六晚跨過 00:30 窗口仍在產出，三重巡檢全綠讓場；分岔續漲至 ahead155/behind136；de 語進度 15.8%→30.2% | 升級動作做完之後，重複撞見同一訊號的正確反應是驗證＋記錄，不是重新升級 | [→](memory/2026-09-12-003558-twmd-babel-nightly.md) |
 | 2026-09-12 | 053845-twmd-routine-sync | 第 46 輪對賬 18/18 in-sync 連續第五輪零漂移；同一 dispatcher 跨進第七天，分岔 ahead161/behind136 | behind 停滯、ahead 續漲，本地欠帳只會越滾越多不會自然追平 | [→](memory/2026-09-12-053845-twmd-routine-sync.md) |
+| 2026-09-12 | 054717-twmd-embeddings-nightly | 13 語 10,592 向量 0 fail，rebuild 因 ollama GPU 排隊耗時翻倍至 28 分鐘；de 跳幅 187→365；commit 073439fcf 因真分岔（ahead163/behind136）延遲 push | process 存活不等於跑得跟平常一樣快，鄰居負載會悄悄改變速度基準 | [→](memory/2026-09-12-054717-twmd-embeddings-nightly.md) |
