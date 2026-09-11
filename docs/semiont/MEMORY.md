@@ -356,3 +356,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-12 | 053845-twmd-routine-sync | 第 46 輪對賬 18/18 in-sync 連續第五輪零漂移；同一 dispatcher 跨進第七天，分岔 ahead161/behind136 | behind 停滯、ahead 續漲，本地欠帳只會越滾越多不會自然追平 | [→](memory/2026-09-12-053845-twmd-routine-sync.md) |
 | 2026-09-12 | 054717-twmd-embeddings-nightly | 13 語 10,592 向量 0 fail，rebuild 因 ollama GPU 排隊耗時翻倍至 28 分鐘；de 跳幅 187→365；commit 073439fcf 因真分岔（ahead163/behind136）延遲 push | process 存活不等於跑得跟平常一樣快，鄰居負載會悄悄改變速度基準 | [→](memory/2026-09-12-054717-twmd-embeddings-nightly.md) |
 | 2026-09-12 | 061811-twmd-data-refresh-am | 第七個排程窗撞見同一 dispatcher，Step 1 讓場、13 步全綠零 stale；scope 驗證 37 檔乾淨 | 驗證步驟反射化後仍不能省略，撞到的輸出矛盾要記下來 | [→](memory/2026-09-12-061811-twmd-data-refresh-am.md) |
+| 2026-09-12 | 063847-twmd-spore-harvest-am | 連續第四天現查 #170-176 metrics 與留言，Δ 全落雜訊範圍（0~+8 views）；0 新留言免 ship；分岔期間無新 commit 不受影響 | 判斷「什麼時候不寫」跟「什麼時候寫」一樣需要紀律，雜訊值不進 spore-metrics.json | [→](memory/2026-09-12-063847-twmd-spore-harvest-am.md) |
