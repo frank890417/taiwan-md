@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T10:18:27+08:00",
-    "zhCommitHead": "803b11ba6",
+    "lastUpdated": "2026-09-11T10:28:18+08:00",
+    "zhCommitHead": "cb3d36b1b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 788,
+        "fresh": 789,
         "stale": 67,
         "metadata_stale": 15,
-        "missing": 251,
+        "missing": 250,
         "orphan": 0
       },
       "hi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 189,
+        "fresh": 190,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 925,
+        "missing": 924,
         "orphan": 0
       }
     },
@@ -2204,8 +2204,8 @@
           "sourceContentHash": "sha256:5f5c57d9d0a5af84",
           "sourceBodyHash": "sha256:6ab99bf50b216a39",
           "translatedAt": "2026-09-11T07:09:27+08:00",
-          "translationLastCommit": "401a385b",
-          "translationLastModified": "2026-08-09T11:52:12+08:00",
+          "translationLastCommit": "cb3d36b1",
+          "translationLastModified": "2026-09-11T10:18:27+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -8450,8 +8450,8 @@
           "sourceContentHash": "sha256:dadf1d689c0dbe2c",
           "sourceBodyHash": "sha256:2a507ef221850519",
           "translatedAt": "2026-09-11T07:09:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cb3d36b1",
+          "translationLastModified": "2026-09-11T10:18:27+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -68839,7 +68839,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/lin-hsien-tang.md",
+          "translatedFrom": "People/林獻堂.md",
+          "sourceCommitSha": "7fa2d9630",
+          "sourceContentHash": "sha256:b3b7816f9ed81e72",
+          "sourceBodyHash": "sha256:fd90a845acbf3ca4",
+          "translatedAt": "2026-09-11T07:09:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/lin-hsien-tang.md",
@@ -85612,7 +85623,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/zhu-zong-qing.md",
+          "translatedFrom": "People/朱宗慶.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0eba5bba0f89e085",
+          "sourceBodyHash": "sha256:7f55711687ee2aed",
+          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
