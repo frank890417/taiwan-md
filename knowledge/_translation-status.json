@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T07:52:15+08:00",
-    "zhCommitHead": "a71515e7d",
+    "lastUpdated": "2026-09-11T09:23:24+08:00",
+    "zhCommitHead": "8dcb70404",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1121,
-        "fresh": 761,
-        "stale": 95,
+        "fresh": 762,
+        "stale": 94,
         "metadata_stale": 32,
         "missing": 233,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 611,
+        "fresh": 613,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 453,
+        "missing": 451,
         "orphan": 0
       },
       "pt": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 758,
+        "fresh": 759,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 312,
+        "missing": 311,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 182,
+        "fresh": 187,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 932,
+        "missing": 927,
         "orphan": 0
       }
     },
@@ -6435,7 +6435,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
+          "translatedFrom": "Economy/台灣外貿與全球供應鏈.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:9913b1fbaa8895dd",
+          "sourceBodyHash": "sha256:ec73a2d32ea085c0",
+          "translatedAt": "2026-09-11T07:09:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-foreign-trade-and-global-supply-chain.md",
@@ -15376,7 +15387,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/pegatron-the-invisible-manufacturing-giant.md",
+          "translatedFrom": "Economy/台灣企業：和碩聯合.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:db91579c11c3a26e",
+          "sourceBodyHash": "sha256:8c8993cc9ab020c5",
+          "translatedAt": "2026-09-11T07:09:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/pegatron-the-invisible-manufacturing-giant.md",
@@ -17780,7 +17802,18 @@
           "reason": "footnote-loss (55→0)"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/threads-in-taiwan.md",
+          "translatedFrom": "Technology/Threads在台灣.md",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bbdb130f551a69e8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-10T23:37:24.663019+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 55,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -20873,18 +20906,16 @@
         "ja": {
           "path": "ja/Technology/hsuehshan-tunnel.md",
           "translatedFrom": "Technology/雪山隧道.md",
-          "sourceCommitSha": "9ecd20d6",
-          "sourceContentHash": "sha256:9e7ddff3899aaa85",
-          "sourceBodyHash": "sha256:909022379c9cd8a0",
-          "translatedAt": "2026-05-20T05:08:29+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bafa69de0246ccbe",
+          "sourceBodyHash": "sha256:d9ab34ee59f266bc",
+          "translatedAt": "2026-09-11T07:09:21+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/hsuehshan-tunnel.md",
@@ -74571,7 +74602,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/shasha77-chang-chih-chi.md",
+          "translatedFrom": "People/張志祺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceBodyHash": "sha256:8df8bda804d8ffe0",
+          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -79670,7 +79712,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/momofuku-ando-instant-noodle-inventor.md",
+          "translatedFrom": "People/吳百福.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1b59d09fec786013",
+          "sourceBodyHash": "sha256:3e07cf6a17af5d88",
+          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -89981,8 +90034,8 @@
           "sourceContentHash": "sha256:f1e33836f112b9c8",
           "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
           "translatedAt": "2026-09-11T07:09:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0a3601aa",
+          "translationLastModified": "2026-09-11T07:52:15+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -97166,7 +97219,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/lu-yen-hsun-tennis-champion.md",
+          "translatedFrom": "People/盧彥勳.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b7bcedce34261377",
+          "sourceBodyHash": "sha256:a95f42aeb707e55c",
+          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -114807,7 +114871,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/ma-wai-soup.md",
+          "translatedFrom": "Food/麻芛湯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:37e6bdeac5fb1d7c",
+          "sourceBodyHash": "sha256:3db5773500588245",
+          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -117459,7 +117534,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/sanxia-tea.md",
+          "translatedFrom": "Food/三峽茶.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:39992ba044ff9cc4",
+          "sourceBodyHash": "sha256:4a3a23738f45e5d9",
+          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -134433,8 +134519,8 @@
           "sourceContentHash": "sha256:309501697091bfd3",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-10T18:19:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0a3601aa",
+          "translationLastModified": "2026-09-11T07:52:15+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
