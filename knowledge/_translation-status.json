@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T07:29:22+08:00",
-    "zhCommitHead": "68ba33237",
+    "lastUpdated": "2026-09-12T07:38:55+08:00",
+    "zhCommitHead": "5c1d25ae6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 376,
+        "fresh": 386,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 738,
+        "missing": 728,
         "orphan": 0
       }
     },
@@ -300,8 +300,8 @@
           "sourceContentHash": "sha256:ca4313d4abe8702e",
           "sourceBodyHash": "sha256:8fefb63f4d82855d",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -7775,7 +7775,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/advantech-technology.md",
+          "translatedFrom": "Economy/台灣企業：研華科技.md",
+          "sourceCommitSha": "cfaa22a5d",
+          "sourceContentHash": "sha256:73894dd98c9e1eee",
+          "sourceBodyHash": "sha256:96e60be7abecd0c6",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -10705,8 +10716,8 @@
           "sourceContentHash": "sha256:4ade9d7e43f9b0c2",
           "sourceBodyHash": "sha256:07a9caf907dd16bd",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -15563,7 +15574,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/asus-computer.md",
+          "translatedFrom": "Economy/台灣企業：華碩.md",
+          "sourceCommitSha": "ccee078ef",
+          "sourceContentHash": "sha256:316e1a5e36d3a78b",
+          "sourceBodyHash": "sha256:fa3c598a1e033a14",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -16242,7 +16264,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/wistron-global-manufacturing-transformation-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：緯創資通.md",
+          "sourceCommitSha": "ccee078ef",
+          "sourceContentHash": "sha256:a7fa219e195d7594",
+          "sourceBodyHash": "sha256:ea0e1cf2dc2589bd",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -25326,8 +25359,8 @@
           "sourceContentHash": "sha256:e3dbfa5f81690467",
           "sourceBodyHash": "sha256:45c1175dae9b247b",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -39882,7 +39915,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/convenience-store-culture.md",
+          "translatedFrom": "Lifestyle/台灣便利商店文化.md",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:15b1d886569defdd",
+          "sourceBodyHash": "sha256:5c3b9cff7c172cb0",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -42741,8 +42785,8 @@
           "sourceContentHash": "sha256:fde226895a6b4ce1",
           "sourceBodyHash": "sha256:a1ad7c8705807524",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -46575,7 +46619,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/education-system-and-admissions-culture.md",
+          "translatedFrom": "Society/教育制度與升學文化.md",
+          "sourceCommitSha": "9d6716713",
+          "sourceContentHash": "sha256:b3fec964553963ea",
+          "sourceBodyHash": "sha256:605626e47ccc1b01",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -51545,7 +51600,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-political-landscape-and-electoral-system.md",
+          "translatedFrom": "Society/台灣政治環境與選舉制度.md",
+          "sourceCommitSha": "dbaf28954",
+          "sourceContentHash": "sha256:815fdbbdd8e6757e",
+          "sourceBodyHash": "sha256:c04d648a91c00bf4",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -54680,8 +54746,8 @@
           "sourceContentHash": "sha256:31022a8379acbf4e",
           "sourceBodyHash": "sha256:13d4a3545c8fc998",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -82114,8 +82180,8 @@
           "sourceContentHash": "sha256:1ae91ed26b56a7cf",
           "sourceBodyHash": "sha256:09b0e9d407cb3e56",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -88610,7 +88676,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/tsai-a-ga-youtuber.md",
+          "translatedFrom": "People/蔡阿嘎.md",
+          "sourceCommitSha": "f5975a224",
+          "sourceContentHash": "sha256:2fc7b754782e2c72",
+          "sourceBodyHash": "sha256:3835f3eeb33c205d",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -93864,8 +93941,8 @@
           "sourceContentHash": "sha256:82817fc4c48a612b",
           "sourceBodyHash": "sha256:5e2c0e25dde8c071",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -101712,8 +101789,8 @@
           "sourceContentHash": "sha256:f45251e967dc33da",
           "sourceBodyHash": "sha256:cc68e7641279a1e9",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -126128,7 +126205,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/ten-major-construction-projects.md",
+          "translatedFrom": "History/十大建設.md",
+          "sourceCommitSha": "9ecd20d61",
+          "sourceContentHash": "sha256:c56d8ded11ccacaf",
+          "sourceBodyHash": "sha256:b63c0b30d24f0d0a",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -127030,8 +127118,8 @@
           "sourceContentHash": "sha256:a9330a2eb23d9c97",
           "sourceBodyHash": "sha256:20dd14ee57321b53",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -134552,7 +134640,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/hukou-old-street.md",
+          "translatedFrom": "Geography/湖口老街.md",
+          "sourceCommitSha": "e62d901cf",
+          "sourceContentHash": "sha256:01c55f03cc9ccbf2",
+          "sourceBodyHash": "sha256:04678524469fb023",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -154247,8 +154346,8 @@
           "sourceContentHash": "sha256:e705ff8fd352624a",
           "sourceBodyHash": "sha256:993aeb722f2d750e",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c1d25ae",
+          "translationLastModified": "2026-09-12T07:29:23+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -155277,7 +155376,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-youtuber-industry.md",
+          "translatedFrom": "Culture/台灣YouTuber產業與文化.md",
+          "sourceCommitSha": "d40e50420",
+          "sourceContentHash": "sha256:d4ca70756fc2b68a",
+          "sourceBodyHash": "sha256:631049e094973d93",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
