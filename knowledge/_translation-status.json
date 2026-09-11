@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T09:25:49+08:00",
-    "zhCommitHead": "6d29d49c0",
+    "lastUpdated": "2026-09-11T10:01:19+08:00",
+    "zhCommitHead": "b752cfb6e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 805,
+        "fresh": 806,
         "stale": 77,
         "metadata_stale": 17,
-        "missing": 222,
+        "missing": 221,
         "orphan": 0
       },
       "es": {
@@ -84,16 +84,16 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 662,
+        "fresh": 663,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 412,
+        "missing": 411,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 718,
-        "stale": 46,
+        "fresh": 719,
+        "stale": 45,
         "metadata_stale": 14,
         "missing": 343,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 187,
+        "fresh": 188,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 927,
+        "missing": 926,
         "orphan": 0
       }
     },
@@ -20896,8 +20896,8 @@
           "sourceContentHash": "sha256:bafa69de0246ccbe",
           "sourceBodyHash": "sha256:d9ab34ee59f266bc",
           "translatedAt": "2026-09-11T07:09:20+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "b752cfb6",
+          "translationLastModified": "2026-09-11T09:25:49+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -25840,18 +25840,16 @@
         "ar": {
           "path": "ar/Technology/mini-taiwan-pulse-civic-tech.md",
           "translatedFrom": "Technology/mini-taiwan-pulse.md",
-          "sourceCommitSha": "da22dc5b2",
-          "sourceContentHash": "sha256:b4fa10553d998dfa",
-          "sourceBodyHash": "sha256:6475e91be41d93b4",
-          "translatedAt": "2026-07-27T01:41:54+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:7704f0ba39f9bad2",
+          "sourceBodyHash": "sha256:953746868edc36a0",
+          "translatedAt": "2026-09-11T07:09:33+08:00",
           "translationLastCommit": "9589c25e",
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -68817,7 +68815,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/lin-hsien-tang.md",
+          "translatedFrom": "People/林獻堂.md",
+          "sourceCommitSha": "7fa2d9630",
+          "sourceContentHash": "sha256:b3b7816f9ed81e72",
+          "sourceBodyHash": "sha256:fd90a845acbf3ca4",
+          "translatedAt": "2026-09-11T07:09:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -68835,7 +68844,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/lin-hsien-tang.md",
+          "translatedFrom": "People/林獻堂.md",
+          "sourceCommitSha": "7fa2d9630",
+          "sourceContentHash": "sha256:b3b7816f9ed81e72",
+          "sourceBodyHash": "sha256:fd90a845acbf3ca4",
+          "translatedAt": "2026-09-11T07:09:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -89982,8 +90002,8 @@
           "sourceContentHash": "sha256:f1e33836f112b9c8",
           "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
           "translatedAt": "2026-09-11T07:09:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b752cfb6",
+          "translationLastModified": "2026-09-11T09:25:49+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -112727,7 +112747,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/oyster-omelet.md",
+          "translatedFrom": "Food/蚵仔煎.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2d7f3f53fc22a03b",
+          "sourceBodyHash": "sha256:dfebf81490e7a3d9",
+          "translatedAt": "2026-09-11T07:09:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
