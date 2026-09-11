@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T16:37:00+08:00",
-    "zhCommitHead": "0515a04bb",
+    "lastUpdated": "2026-09-11T17:30:15+08:00",
+    "zhCommitHead": "dc9c0881f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 790,
-        "stale": 66,
+        "fresh": 791,
+        "stale": 65,
         "metadata_stale": 15,
         "missing": 250,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 255,
+        "fresh": 256,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 859,
+        "missing": 858,
         "orphan": 0
       }
     },
@@ -15479,7 +15479,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/pegatron-the-invisible-manufacturing-giant.md",
+          "translatedFrom": "Economy/台灣企業：和碩聯合.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:db91579c11c3a26e",
+          "sourceBodyHash": "sha256:8c8993cc9ab020c5",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53826,8 +53837,8 @@
           "sourceContentHash": "sha256:0bd3cef2eb38faed",
           "sourceBodyHash": "sha256:b139705eca5e1f54",
           "translatedAt": "2026-09-11T12:47:16+08:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "dc9c0881",
+          "translationLastModified": "2026-09-11T16:37:00+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -77013,18 +77024,16 @@
         "pt": {
           "path": "pt/People/mavis-fan-singer.md",
           "translatedFrom": "People/范曉萱.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:be33318bbff736f0",
-          "sourceBodyHash": "sha256:972eef53b5601304",
-          "translatedAt": "2026-07-25T07:55:57+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:e292cad27370cab5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-11T09:17:16.001902+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/mavis-fan-singer.md",
