@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-11T18:59:55+08:00",
-    "zhCommitHead": "623999b7d",
+    "lastUpdated": "2026-09-11T19:11:07+08:00",
+    "zhCommitHead": "f99340c85",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 266,
+        "fresh": 277,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 848,
+        "missing": 837,
         "orphan": 0
       }
     },
@@ -1836,7 +1836,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/taiwan-folk-music-and-songs.md",
+          "translatedFrom": "Music/台灣民謠與歌謠.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b219ae0c22f1ce55",
+          "sourceBodyHash": "sha256:943159c3ad5fba6c",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -6298,8 +6309,8 @@
           "sourceContentHash": "sha256:19522eee779cb1b5",
           "sourceBodyHash": "sha256:b25853bdf381bcc3",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -6718,7 +6729,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/esun-financial-holding-digital-banking-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：玉山金控.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:3400938387db0838",
+          "sourceBodyHash": "sha256:486e862869561dd4",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -7533,7 +7555,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-enterprise-chang-chun-petrochemical.md",
+          "translatedFrom": "Economy/台灣企業：長春石化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:52c5476d48498d3c",
+          "sourceBodyHash": "sha256:908aaa826fb63ea3",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -11278,8 +11311,8 @@
           "sourceContentHash": "sha256:731abae76b18888c",
           "sourceBodyHash": "sha256:5afb6209c3e31868",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -12109,7 +12142,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-cement-taipower-green-transformation.md",
+          "translatedFrom": "Economy/台灣企業：台泥.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:d4462b5c55abd9d2",
+          "sourceBodyHash": "sha256:144f62335cbc632a",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12271,8 +12315,8 @@
           "sourceContentHash": "sha256:542041b17da4dbbd",
           "sourceBodyHash": "sha256:81797ae5614d2f0c",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -12917,8 +12961,8 @@
           "sourceContentHash": "sha256:fd10cef889ef4781",
           "sourceBodyHash": "sha256:3df603cf09cf4177",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -13089,7 +13133,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/screw.md",
+          "translatedFrom": "Economy/螺絲.md",
+          "sourceCommitSha": "2faa5728b",
+          "sourceContentHash": "sha256:fe3ea825ce4c4813",
+          "sourceBodyHash": "sha256:72d3ca65cff6d375",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -13923,8 +13978,8 @@
           "sourceContentHash": "sha256:4749f0faadb8e7bf",
           "sourceBodyHash": "sha256:ebc33c96c44483b0",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -14292,8 +14347,8 @@
           "sourceContentHash": "sha256:95d473c7b6d24541",
           "sourceBodyHash": "sha256:a996bea328f05c29",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -15723,7 +15778,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md",
+          "translatedFrom": "Economy/台灣企業：奇美實業.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:ae9b504389b6e4fd",
+          "sourceBodyHash": "sha256:318b91e549ea3a09",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -28445,8 +28511,8 @@
           "sourceContentHash": "sha256:9e4daeb9f4939ca2",
           "sourceBodyHash": "sha256:80c79b7fd0c73431",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -36172,7 +36238,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/nightlife-and-ktv-culture.md",
+          "translatedFrom": "Lifestyle/夜生活與KTV文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:3a356e2fbd9898dc",
+          "sourceBodyHash": "sha256:5171611c1ca72679",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -58524,8 +58601,8 @@
           "sourceContentHash": "sha256:c51eb1a165d6a2f5",
           "sourceBodyHash": "sha256:99620fa1348fdcfe",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -59766,7 +59843,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/taiwan-pangolin.md",
+          "translatedFrom": "Nature/台灣穿山甲.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:bc4a8eee501f028c",
+          "sourceBodyHash": "sha256:059668decdeffa13",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -62668,7 +62756,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/endemic-species.md",
+          "translatedFrom": "Nature/特有種.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:b5dd2adc61c83c34",
+          "sourceBodyHash": "sha256:85b65db93a33ed95",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -70286,8 +70385,8 @@
           "sourceContentHash": "sha256:564bd16fb31e71be",
           "sourceBodyHash": "sha256:7dbe663cdddeba6e",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -77008,7 +77107,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/stan-lai-theater-innovation-master.md",
+          "translatedFrom": "People/賴聲川.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:171a521ab055d1cf",
+          "sourceBodyHash": "sha256:eb36a190f4b7ada8",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -103196,7 +103306,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/lin-yi-hsiung-democracy-advocate-tragedy-survivor.md",
+          "translatedFrom": "People/林義雄.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:3847058fd0c4df1f",
+          "sourceBodyHash": "sha256:d277949bee5011bb",
+          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -108825,8 +108946,8 @@
           "sourceContentHash": "sha256:8f24d65425473ad4",
           "sourceBodyHash": "sha256:1216e697fc7e6c44",
           "translatedAt": "2026-09-11T16:37:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f99340c8",
+          "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
