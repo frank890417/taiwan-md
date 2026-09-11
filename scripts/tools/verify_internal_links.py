@@ -356,7 +356,18 @@ def main():
     print(f"  Gated ratio (excl es/fr)     : {gated_ratio:.2f}%  [{gated_broken}/{gated_total}]")
     print(f"  Unique broken targets        : {len(unique_broken)}")
     print(f"  Threshold (CI gate)          : < {THRESHOLD_PERCENT}%")
-    result = "PASS" if gated_ratio < THRESHOLD_PERCENT else "FAIL"
+    # 空輸入不是通過（2026-09-11 maintainer-am 補）。
+    # 這支對 dist/ 跑，而 dist/ 是 build 產物：在沒 build 過的 worktree、被清掉的
+    # 工作樹、或 build 寫到一半的目錄上跑，它會掃到 0 頁 0 連結然後印 PASSED、
+    # exit 0。本檔頂部 THRESHOLD 註記自己就記著這個坑——「第一次（不完整 dist
+    # 抽樣 0.00%）→ 設 2.0 — 錯，量測基底是平行 build 寫到一半的 dist」——當時
+    # 那個假讀數還被寫進閾值。坑記錄了，出口沒補，所以今天在 origin/main 的乾淨
+    # worktree 上又拿到一次 0/0 PASSED。
+    # 0 筆不是健康，是沒量到，要有自己的符號（REFLEXES #85 / #24 第 8 種）。
+    if total_pages == 0 or total_internal == 0:
+        result = "NOT-MEASURED"
+    else:
+        result = "PASS" if gated_ratio < THRESHOLD_PERCENT else "FAIL"
     print(f"  Result                       : {result}")
     print()
 
@@ -455,13 +466,18 @@ def main():
 
     # ── Final verdict ────────────────────────────────────────────
     print(sep)
-    if result == "PASS":
+    if result == "NOT-MEASURED":
+        print(f"  NOT-MEASURED — 掃到 {total_pages} 頁 / {total_internal} 條連結，沒有東西可量。")
+        print(f"  這不是通過。{dist_dir}/ 是 build 產物，先跑 npm run build 再跑本檔；")
+        print("  若是在 worktree 裡跑，該 worktree 沒有自己的 dist/。")
+    elif result == "PASS":
         print(f"  PASSED — gated broken ratio {gated_ratio:.2f}% < {THRESHOLD_PERCENT}% (all-langs {broken_ratio:.2f}%)")
     else:
         print(f"  FAILED — gated broken ratio {gated_ratio:.2f}% >= {THRESHOLD_PERCENT}% (all-langs {broken_ratio:.2f}%)")
     print(sep)
 
-    sys.exit(0 if result == "PASS" else 1)
+    # NOT-MEASURED 回 2，跟 FAIL 的 1 分開：呼叫端要能區分「壞了」與「沒量到」。
+    sys.exit(0 if result == "PASS" else (2 if result == "NOT-MEASURED" else 1))
 
 
 if __name__ == "__main__":

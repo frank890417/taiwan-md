@@ -39,6 +39,31 @@ HITS=$(awk -v since="$SINCE" '($1" "$2) >= since' "$LOG" \
   | grep -v 'auth-watchdog' | tail -5 | cut -c1-200)
 HIT_N=$(printf '%s' "$HITS" | grep -c . || true)
 
+# ── 一之二、命中之後排程還活著嗎（2026-09-11 maintainer-am 補）───────────────────
+# 為什麼要多這一段：上面三個字樣不等價。`session_stale_relogin` 與 `Cannot start session`
+# 是「這個 session 被擋回去了」，`Refresh token expired` 只是「這一次 refresh 失敗」——
+# app 可能下一次就換到新 token 繼續跑。2026-09-11 01:48 只出現一筆 Refresh token expired，
+# 之後 embeddings / routine-sync / data-refresh / spore-harvest / feedback-triage /
+# maintainer 六條排程全部 Spawning 後拿到 Confirmed task run，飛輪一秒沒停，看門狗卻開了
+# 一張要人跑去實體機重新登入的 critical issue。本檔誕生自「有效的尺只有 fire 之後有沒有
+# 產出」這條教訓（reports/mouhouse-blackout-root-cause-2026-09-05.md），卻沒有對自己套用，
+# 量的是 token 事件這個替身而不是效果（REFLEXES #82），而且把兩種根因塞進同一個告警
+# （REFLEXES #38 混維度）。
+#
+# 判準保守：只有「拿到活著的正面證據」才降級，絕不因為「沒看到證據」就降級——沒有排程在
+# 這段窗口內 fire 時 CONFIRMED_AFTER 本來就是 0，那時維持 critical 是對的（REFLEXES #85：
+# 不知道要有自己的符號，不能借用沒事的那個）。
+LAST_HIT_TS=""; CONFIRMED_AFTER=0; STALE_AFTER=0
+if [ "$HIT_N" -gt 0 ]; then
+  LAST_HIT_TS=$(printf '%s\n' "$HITS" | awk '{print $1" "$2}' | sort | tail -1)
+  if [ -n "$LAST_HIT_TS" ]; then
+    CONFIRMED_AFTER=$(awk -v since="$LAST_HIT_TS" '($1" "$2) > since' "$LOG" \
+      | grep -c 'Confirmed task run' || true)
+    STALE_AFTER=$(awk -v since="$LAST_HIT_TS" '($1" "$2) > since' "$LOG" \
+      | grep -c 'Cleared stale pending dispatch' || true)
+  fi
+fi
+
 # ── 二、登入日倒數（有 LOGIN_FILE 才算；沒有就用 log 裡最近一次 ASWebAuth 成功日）──
 if [ -r "$LOGIN_FILE" ]; then LOGIN_DATE=$(cat "$LOGIN_FILE"); else
   LOGIN_DATE=$(grep -h 'ASWebAuth completed: { success: true' "$HOME"/Library/Logs/Claude/main*.log 2>/dev/null | awk '{print $1}' | sort | tail -1)
@@ -54,7 +79,11 @@ if [ "$FRESH_LOGIN" -gt 0 ]; then echo "$TODAY" > "$LOGIN_FILE"; say "偵測到�
 
 # ── 四、判定 ────────────────────────────────────────────────────────────────
 LEVEL="ok"; TITLE=""; BODY=""
-if [ "$HIT_N" -gt 0 ]; then
+if [ "$HIT_N" -gt 0 ] && [ "$CONFIRMED_AFTER" -gt 0 ] && [ "$STALE_AFTER" -eq 0 ]; then
+  # 命中了，但最後一筆之後排程仍有 Confirmed task run 且沒有 Cleared stale pending dispatch
+  # ＝ app 自己換到新 token 了，飛輪沒停。記錄供事後追，不開 issue。
+  say "命中 $HIT_N 筆但 $LAST_HIT_TS 之後有 $CONFIRMED_AFTER 筆 Confirmed task run、0 筆 stale dispatch ＝ 已自行恢復，不告警"
+elif [ "$HIT_N" -gt 0 ]; then
   LEVEL="critical"
   TITLE="mouhouse 登入過期：排程 session 起不來（看門狗自動偵測 $TODAY）"
   BODY=$(printf '近 %s 分鐘 Claude Desktop main.log 出現 %s 筆登入過期／session 起不來：\n\n```\n%s\n```\n\n這是 2026-08-23～28 四天空窗同一個病（OAuth refresh token 30 天固定壽命，`session_stale_relogin`）。排程器照 fire、lastRunAt 照更新，但每個 routine session 都被「Sign in again」擋回，在有人重新登入之前飛輪等於停轉。\n\n**修法只有一個：在 mouhouse 上打開 Claude Desktop 重新登入**（Screen Sharing 或接螢幕）。登入後本看門狗會自動記下新登入日並停止告警。\n\n證據鏈與背景：reports/mouhouse-blackout-root-cause-2026-09-05.md · OBSERVER-QUEUE #49 · 本 issue 由 `scripts/tools/mouhouse/auth-watchdog.sh` 開，不是 Claude session 寫的。🧬' "$WINDOW_MIN" "$HIT_N" "$HITS")
@@ -68,7 +97,7 @@ elif [ -n "$DAYS_SINCE" ] && [ "$DAYS_SINCE" -ge "$WARN_AT_DAYS" ]; then
   BODY=$(printf 'Claude Desktop 的登入 session 是 30 天固定壽命（2026-07-24 登入 → 08-23 過期，四天零產出）。目前登入日 %s，已 %s 天，預估 %s 天後過期。\n\n**建議這幾天在 mouhouse 重新登入一次**，登入後看門狗會自動記下新日期。\n\n背景：reports/mouhouse-blackout-root-cause-2026-09-05.md · OBSERVER-QUEUE #49。本 issue 由 `scripts/tools/mouhouse/auth-watchdog.sh` 開。🧬' "$LOGIN_DATE" "$DAYS_SINCE" "$LEFT")
 fi
 
-say "level=$LEVEL hits=$HIT_N login_date=${LOGIN_DATE:-?} days_since=${DAYS_SINCE:-?}"
+say "level=$LEVEL hits=$HIT_N confirmed_after=$CONFIRMED_AFTER stale_after=$STALE_AFTER login_date=${LOGIN_DATE:-?} days_since=${DAYS_SINCE:-?}"
 [ "$LEVEL" = "ok" ] && exit 0
 
 # ── 五、告警（去重：同 level 12 小時內只開一次；有既有 open issue 就留 comment）──

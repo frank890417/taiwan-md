@@ -332,6 +332,33 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-11 twmd-maintainer-am — sovereignty-ruler-only-declared-on-the-translation-side：主權用詞的尺全部架在譯文那側，而這次的洩漏源頭在中文母稿，母稿那側沒有立場也沒有尺
+
+- **pattern**: `sovereignty-ruler-only-declared-on-the-translation-side`
+- **原則**：Taiwan.md 的主權用詞防線目前有三層，全部長在譯文：十二份 `TRANSLATION-{lang}.md` 的 §6 PRC 編碼詞對照表、`openrouter-translate.py` 把該表嵌進 prompt 的輸入端閘門、`sovereignty-lexicon-check.py` 的輸出端盤點。三層都預設「洩漏發生在翻譯這一步」。但中文母稿本身寫下的框架，會被忠實地翻成十二個語言——**譯者翻得越準，洩漏擴散得越徹底**。母稿那一側既沒有 canonical 立場可依，也沒有任何工具在看。
+- **觸發**：2026-09-11 早班審 [PR #1707](https://github.com/frank890417/taiwan-md/pull/1707)（印尼文台灣製香文化），`sovereignty-lexicon-check.py` 報一處 medium：`Tiongkok daratan`（中國大陸）。回頭對中文母稿 `knowledge/Culture/台灣製香文化與香腳原鄉.md`，第 56 行與第 93 行寫的就是「大陸低價香品」「來自中國大陸的低價香品」。**投稿者翻得完全正確**，盤點工具報的是母稿的選擇。往外量：中文庫 126 檔 / 233 處「中國大陸」；同樣的說法在譯文側已存在 **1,052 檔 / 2,032 處**（fr 148 檔、ru 141、es 129、pt 121、ko 99、ja 88、vi 87、en 84、ar 80、id 61、de 12、hi 2）。一個未經決定的中文用詞，已經用十二種語言講出去兩千多次。
+- **為什麼不是一次 sed 能解**：抽樣讀過中文那 233 處，**相當比例是對的，改掉會讓句子變錯**。護照條目寫「前往中國大陸的入出境與停居留」用的是兩岸人民關係條例的法律語；省籍矛盾寫「1948 年在中國大陸選出的代表」是歷史地理；新台幣、蚵仔煎、鄧麗君那幾處是史實或描述 PRC 市場。真正屬於編輯聲音、換成「中國」更像 Taiwan.md 的，是「研華在中國大陸設立製造基地」「從台灣紅到中國大陸」這一類。**對錯住在語境裡，不住在字串裡**（這正是 `sovereignty-lexicon-check.py` 自己的 docstring 用全庫 2,476 筆、假陽性接近 100% 的實測寫下的結論——它對譯文成立，對母稿一樣成立）。
+- **這一層目前是空的，不是鬆的**：`grep "中國大陸" docs/editorial/ docs/semiont/MANIFESTO.md docs/taxonomy/` 零命中，`TERMINOLOGY.md` 沒有「大陸」。MANIFESTO §自稱那條處理的是「不敢寫台灣改稱這座島」的迴避，處理的是**怎麼稱呼自己**；本條是**怎麼稱呼對岸**，同一個主權面的另一半，canonical 從來沒寫過。
+- **可能層級**：哲學層（要不要有立場）＋操作規則（有了立場之後誰來守）。立場本身命中 §自主權邊界「涉及政治立場的內容」，且存量 126 檔命中「>50 檔重構」，**雙重 reserve**，已進 [OBSERVER-QUEUE](OBSERVER-QUEUE.md) 附三個選項與各自成本。
+- **候選修法**（全部等拍板後才動）：(a) 先在 `TERMINOLOGY.md` 寫下判準（法律語／史實／描述 PRC 主體 → 保留；編輯敘事聲音 → 用「中國」），有了判準才有得守；(b) 判準落地後，`sovereignty-lexicon-check.py` 增一個 zh 母稿 profile，維持盤點性質不升閘門；(c) 存量分批走 REWRITE，不做批次替換。
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：[REFLEXES #79](REFLEXES.md)（主權留哲宇 default reservation，本條照它 reserve）/ [REFLEXES #16](REFLEXES.md) sovereignty 特化延伸（主權敏感詞每條要人判，不能照套）/ LESSONS `named-healthcheck-cannot-see-what-it-does-not-name` 的 2026-09-08 instance（subcategory 閘門射程宣告只看中文、受災區全在譯文側——**本條是它的鏡像**：尺全在譯文側，源頭在中文側）/ [MANIFESTO §主權的巴別塔](MANIFESTO.md)（多語投射的目的是繞過 PRC 中介層的沉默，本條是同一座塔把母稿的框架原樣送出去）
+
+### 2026-09-11 twmd-maintainer-am — self-documented-trap-with-no-exit：檔案在自己的註解裡把病寫清楚了，然後沒有把那段註解變成一個出口
+
+- **pattern**: `self-documented-trap-with-no-exit`
+- **原則**：一支工具的註解寫下「這裡會這樣壞」，跟那支工具**有沒有在壞的時候叫**，是兩件不相干的事。寫註解的人當下確實看懂了病理，但註解是給讀的人看的，而會踩到坑的通常是沒在讀註解的那一次執行。**病理被記錄下來這件事本身，會讓下一個人以為它已經被處理了。**
+- **instances**：
+  - 2026-09-11 twmd-maintainer-am — `verify_internal_links.py` 對 `dist/` 跑。在 `origin/main` 的乾淨 worktree 上跑（沒有 build 過，沒有 `dist/`），它掃到 0 頁 0 連結，然後印 `PASSED — gated broken ratio 0.00%`、exit 0。而**這支檔案第 36 行的 THRESHOLD 註記自己就記著這個坑**：「第一次（不完整 dist 抽樣 0.00%）→ 設 2.0 — 錯，量測基底是平行 build 寫到一半的 dist」。當年那個假讀數還一路被寫進閾值，坑被記錄、出口沒補，於是今天又拿到一次 0/0 的假綠燈。已修：0 頁或 0 連結時判 `NOT-MEASURED`、exit 2（跟 FAIL 的 1 分開，呼叫端要能區分「壞了」與「沒量到」），並印出該去跑 build。真 dist 回歸測試不變（0.27% PASS / exit 0）。
+  - 2026-09-11 twmd-maintainer-am — `scripts/tools/mouhouse/auth-watchdog.sh` 在 01:48 看到一筆 `Refresh token expired` 就開了 critical issue #1705，說「在有人重新登入之前飛輪等於停轉」，要人跑去實體機。實際上那之後六條排程全部 `Spawning` 並拿到 `Confirmed task run`（含開這則 issue 的 maintainer 自己），`Cleared stale pending dispatch` 0 筆，登入日才第 14 天。**這支檔案的檔頭引的就是 `reports/mouhouse-blackout-root-cause-2026-09-05.md`**，而那份報告的結論是「有效的尺只有 fire 之後有沒有 commit」。它把那句話寫進自己的出生說明，然後量了 token 事件這個替身，沒有回頭問排程後來有沒有在跑。已修：命中後查最後一筆之後的 `Confirmed task run` 與 `Cleared stale pending dispatch`，**只有拿到活著的正面證據才降級，不因為沒看到證據而降級**（窗口內沒排程 fire 時維持 critical）。四情境實測通過，repo 與 `~/.local/bin/` 安裝副本同步。
+- **為什麼兩個同一天**：兩支都是「為了防某個病而生、或明確知道某個病」的工具，兩支都在自己該防的那個病上失手。差別在載體：一個是空輸入被當成健康，一個是替身訊號被當成效果。共同的形狀是**知識留在註解層，沒有下沉到控制流**。
+- **可能層級**：REFLEXES 既有反射的新維度。#24 第 8 種已經寫了「驗證器自身產出空 → empty-vs-empty 假 PASS」並要求「gate 自帶 self-test」；#82 已經寫了 proxy signal。本條補的不是「會這樣壞」，是**「已經知道會這樣壞」並不減少它壞的機率**，因此候選修法要落在控制流不是文件。
+- **候選修法**：任何 gate / checker / watchdog 的 review 加一問——「這支的註解裡寫了什麼失敗模式？那個失敗模式有對應的 early-exit 嗎？」沒有就補。可機械化的起點：grep `scripts/` 裡註解含「錯」「假」「坑」「不完整」「誤報」的檢查器，逐支確認有沒有對應出口。
+- **verification_count**: 2
+- **severity**: structural
+- **相關**：[REFLEXES #24](REFLEXES.md) 第 8 種（驗證器空輸出假 PASS，本條第一個 instance 是它的再驗證＋沒有 self-test 的證據）/ [REFLEXES #82](REFLEXES.md)（proxy signal，第二個 instance）/ [REFLEXES #85](REFLEXES.md)（「不知道」要有自己的符號，`NOT-MEASURED` 與保守降級判準都照它做）/ LESSONS `scaffold-window-has-no-qa`（造閘門當下能想到的邊界就是那一刻腦子裝得下的全部）/ diary 2026-09-08「我三週前寫的那段註解，把病講得比今天的我還清楚」（同一形狀的第一次浮現）
+
 ### 2026-09-09 twmd-maintainer-am — documented-gate-never-wired-to-the-line：pipeline 寫成「四道閘之一」的偵測器，產線一個月來從沒呼叫過它
 
 - **pattern**: `documented-gate-never-wired-to-the-line`

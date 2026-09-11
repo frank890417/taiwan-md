@@ -351,3 +351,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-11 | 061055-twmd-data-refresh-am | 第四個排程窗撞見同一 dispatcher，Step 1 讓場、Step 2-14 全綠零 stale；scope 驗證 37 檔乾淨 commit `bbdab8fb4` | 連續多次撞見同一訊號後，驗證步驟本身不能因為熟練而省略 | [→](memory/2026-09-11-061055-twmd-data-refresh-am.md) |
 | 2026-09-11 | 071500-twmd-spore-harvest-am | 3 天缺口後首次收割 8 孢子（#169-176）指標入庫；現存留言皆已回覆過，本輪 0 新留言免 ship | X 沿用未重驗的欄位要在 log 標記，誠實揭露信心等級 | [→](memory/2026-09-11-071500-twmd-spore-harvest-am.md) |
 | 2026-09-11 | 070946-twmd-feedback-triage | 第五輪零回報照跑完 --commit，兩道對賬 84/84 與 83/84 全綠；查到達歷史把「6 天先例上限」校正為 10 天 | 昨天寫給自己的經驗值，沿用前值得再量一次 | [→](memory/2026-09-11-070946-twmd-feedback-triage.md) |
+| 2026-09-11 | 085925-twmd-maintainer-am | 3 篇翻譯 merged；#1705 看門狗誤報追根因並修（那之後六條排程全部照跑）；連結檢查器對空 dist 印 PASSED 一併修；量出中文母稿 126 檔「中國大陸」已擴散 12 語 1,052 檔 | 兩支工具都在自己的註解裡把病寫清楚了，卻沒把那段註解變成控制流的出口 | [→](memory/2026-09-11-085925-twmd-maintainer-am.md) |
