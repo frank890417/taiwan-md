@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T10:53:01+08:00",
-    "zhCommitHead": "44819cad1",
+    "lastUpdated": "2026-09-12T12:52:08+08:00",
+    "zhCommitHead": "0b318fb3d",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 412,
+        "fresh": 418,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 702,
+        "missing": 696,
         "orphan": 0
       }
     },
@@ -1256,7 +1256,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/sodagreen.md",
+          "translatedFrom": "Music/蘇打綠.md",
+          "sourceCommitSha": "ac048ecf8",
+          "sourceContentHash": "sha256:9cf99b2480b3617d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T02:40:28.114695+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 51,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -3233,7 +3244,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/taiwan-rock-from-underground-to-mainstream.md",
+          "translatedFrom": "Music/台灣搖滾樂發展史.md",
+          "sourceCommitSha": "da9ebaab4",
+          "sourceContentHash": "sha256:f7363f72c8db19f7",
+          "sourceBodyHash": "sha256:a8ba2c74c0939b6b",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -5389,8 +5411,8 @@
           "sourceContentHash": "sha256:e4fcea6f40bc1371",
           "sourceBodyHash": "sha256:f8c06621cad90a0b",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -11956,7 +11978,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/circular-economy-and-resource-recycling.md",
+          "translatedFrom": "Economy/台灣循環經濟與資源再利用.md",
+          "sourceCommitSha": "f944f63b4",
+          "sourceContentHash": "sha256:1f3ebd8f501cc764",
+          "sourceBodyHash": "sha256:09a7619ad7b7047a",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -13612,8 +13645,8 @@
           "sourceContentHash": "sha256:65e816ddedfe54f1",
           "sourceBodyHash": "sha256:abefead0dde8fee7",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -21954,8 +21987,8 @@
           "sourceContentHash": "sha256:53da925e7fa0c8af",
           "sourceBodyHash": "sha256:4be23294d5e61459",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -54165,8 +54198,8 @@
           "sourceContentHash": "sha256:39eab6090a3c571e",
           "sourceBodyHash": "sha256:831b02af043591c7",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -112373,8 +112406,8 @@
           "sourceContentHash": "sha256:12079ecc271885a4",
           "sourceBodyHash": "sha256:0805d92de4b036d1",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -125077,7 +125110,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/bipartisan-good-policy.md",
+          "translatedFrom": "History/跨黨派的好政策.md",
+          "sourceCommitSha": "e666af3e1",
+          "sourceContentHash": "sha256:165d618ccd73fdcd",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T02:57:41.843864+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 57,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -125860,8 +125904,8 @@
           "sourceContentHash": "sha256:99bda6e7dc861382",
           "sourceBodyHash": "sha256:3ffe04bee42caf48",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -128320,8 +128364,8 @@
           "sourceContentHash": "sha256:584f286b403c0d75",
           "sourceBodyHash": "sha256:4711da6579afc037",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -131903,7 +131947,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/kmt-government-relocation-and-postwar-reconstruction.md",
+          "translatedFrom": "History/國民政府遷台與戰後重建.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:a28bcadbb01460c5",
+          "sourceBodyHash": "sha256:fdd1a6127fff34df",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -140935,8 +140990,8 @@
           "sourceContentHash": "sha256:d85bf01115410778",
           "sourceBodyHash": "sha256:be641d09ea1153ea",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -143255,8 +143310,8 @@
           "sourceContentHash": "sha256:0275e27f1a1e4e68",
           "sourceBodyHash": "sha256:c3a7643c439033af",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -145396,7 +145451,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-tea-ceremony-and-aesthetic-living.md",
+          "translatedFrom": "Culture/台灣茶道與生活美學.md",
+          "sourceCommitSha": "2948c945c",
+          "sourceContentHash": "sha256:f1b4f4bb8aa56e88",
+          "sourceBodyHash": "sha256:b5154ba7226ad9d9",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -147719,8 +147785,8 @@
           "sourceContentHash": "sha256:ee59ed48db607f3f",
           "sourceBodyHash": "sha256:26d93e9626e6b86e",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b318fb3",
+          "translationLastModified": "2026-09-12T10:53:02+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
