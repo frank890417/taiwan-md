@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T16:21:30+08:00",
-    "zhCommitHead": "412004a2b",
+    "lastUpdated": "2026-09-12T17:36:27+08:00",
+    "zhCommitHead": "723152cd2",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 445,
+        "fresh": 455,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 669,
+        "missing": 659,
         "orphan": 0
       }
     },
@@ -15343,8 +15343,8 @@
           "sourceContentHash": "sha256:19b72b95becb40d7",
           "sourceBodyHash": "sha256:966a2693a6cccc59",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "723152cd",
+          "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -22378,8 +22378,8 @@
           "sourceContentHash": "sha256:f4b0813105283dab",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T06:45:50.317912+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "723152cd",
+          "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "status": "fresh",
@@ -29505,8 +29505,8 @@
           "sourceContentHash": "sha256:f8ec8d5fb97942ca",
           "sourceBodyHash": "sha256:7bfa784449cb0cb6",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "723152cd",
+          "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -38407,7 +38407,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-recycling-and-circular-living-culture.md",
+          "translatedFrom": "Lifestyle/台灣回收與資源循環文化.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:692a1090832374e5",
+          "sourceBodyHash": "sha256:258baccfb653bebb",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -55874,7 +55885,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/join-public-policy-platform.md",
+          "translatedFrom": "Society/公共政策網路參與平臺.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:e50c6305fdf357b3",
+          "sourceBodyHash": "sha256:4fcd819359e5e6f4",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -57710,8 +57732,8 @@
           "sourceContentHash": "sha256:3a49c509011ce42d",
           "sourceBodyHash": "sha256:637002941419ff56",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "723152cd",
+          "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -101450,7 +101472,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
+          "translatedFrom": "People/曹興誠.md",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:c4ee8c6545170422",
+          "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -116128,7 +116161,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/rice-ball.md",
+          "translatedFrom": "Food/飯糰.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:c0f8cc644aeae280",
+          "sourceBodyHash": "sha256:fd7a2d45f0c2514e",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -123593,7 +123637,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/yingge-ceramics-old-street.md",
+          "translatedFrom": "History/鶯歌陶瓷老街.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:34cec313d8b4c799",
+          "sourceBodyHash": "sha256:f6adf45b092327fc",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -126337,8 +126392,8 @@
           "sourceContentHash": "sha256:91f467d8cc029b74",
           "sourceBodyHash": "sha256:1f92c860af97938e",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "723152cd",
+          "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -134860,8 +134915,8 @@
           "sourceContentHash": "sha256:58d83174a1d3bd65",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T06:46:05.635103+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "723152cd",
+          "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -137055,7 +137110,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/wuqiu.md",
+          "translatedFrom": "Geography/烏坵.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:2935ce10538c2b78",
+          "sourceBodyHash": "sha256:79946e3edca12d9c",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -148706,7 +148772,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/manyue-month-old-baby-celebration.md",
+          "translatedFrom": "Culture/滿月習俗.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:071279c0b606b84b",
+          "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -155845,7 +155922,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/schoolyard-rhymes.md",
+          "translatedFrom": "Culture/校園順口溜.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:e5fd53530b9e999c",
+          "sourceBodyHash": "sha256:201c8b949857fdd7",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -157314,7 +157402,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-meme-culture.md",
+          "translatedFrom": "Culture/台灣迷因.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:21f968d51e24c095",
+          "sourceBodyHash": "sha256:758baf07e7746d38",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -157483,7 +157582,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-bar.md",
+          "translatedFrom": "Culture/台灣吧.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:ea660a4477ab8648",
+          "sourceBodyHash": "sha256:ab22f8e268664ba4",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -158998,8 +159108,8 @@
           "sourceContentHash": "sha256:92d21a8f6666e1c2",
           "sourceBodyHash": "sha256:036fefb83f0557fd",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "723152cd",
+          "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
