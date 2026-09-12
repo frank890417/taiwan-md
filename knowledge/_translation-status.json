@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T03:09:51+08:00",
-    "zhCommitHead": "26205d14a",
+    "lastUpdated": "2026-09-13T03:13:06+08:00",
+    "zhCommitHead": "4bac76ab5",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 804,
+        "fresh": 805,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 217,
+        "missing": 216,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 621,
+        "fresh": 622,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 443,
+        "missing": 442,
         "orphan": 0
       },
       "pt": {
@@ -41784,8 +41784,8 @@
           "sourceContentHash": "sha256:e4d0887ad2be656b",
           "sourceBodyHash": "sha256:185b659b9a1b47ea",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4bac76ab",
+          "translationLastModified": "2026-09-13T03:09:52+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -71949,7 +71949,18 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/chen-szu-hung.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -93586,7 +93597,18 @@
           "diffSummary": "+1 -1"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/hur-plus-band.md",
+          "translatedFrom": "People/HUR-plus.md",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:7b6f1e2f33e3f99d",
+          "sourceBodyHash": "sha256:396a9fed148c94a2",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/hur-plus-band.md",
@@ -102827,8 +102849,8 @@
           "sourceContentHash": "sha256:695b08b5d7d2de65",
           "sourceBodyHash": "sha256:6c22ac71a15a46ba",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4bac76ab",
+          "translationLastModified": "2026-09-13T03:09:52+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -123905,8 +123927,8 @@
           "sourceContentHash": "sha256:17af96b268beb6de",
           "sourceBodyHash": "sha256:2beca8976bf8f3ea",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4bac76ab",
+          "translationLastModified": "2026-09-13T03:09:52+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -126951,8 +126973,8 @@
           "sourceContentHash": "sha256:50b4c719b7719ddb",
           "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4bac76ab",
+          "translationLastModified": "2026-09-13T03:09:52+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
