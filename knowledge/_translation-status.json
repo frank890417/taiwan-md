@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T07:38:55+08:00",
-    "zhCommitHead": "5c1d25ae6",
+    "lastUpdated": "2026-09-12T09:12:07+08:00",
+    "zhCommitHead": "f7690d334",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 725,
+        "fresh": 726,
         "stale": 81,
-        "metadata_stale": 77,
+        "metadata_stale": 76,
         "missing": 238,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 386,
+        "fresh": 391,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 728,
+        "missing": 723,
         "orphan": 0
       }
     },
@@ -2817,18 +2817,16 @@
         "vi": {
           "path": "vi/Music/little-tigers-taiwan-boy-band.md",
           "translatedFrom": "Music/小虎隊.md",
-          "sourceCommitSha": "ac1d187af",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "translatedAt": "2026-09-12T04:54:55+08:00",
           "translationLastCommit": "45a8f6dd",
           "translationLastModified": "2026-08-09T11:14:00+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/little-tigers-taiwan-boy-band.md",
@@ -7781,8 +7779,8 @@
           "sourceContentHash": "sha256:73894dd98c9e1eee",
           "sourceBodyHash": "sha256:96e60be7abecd0c6",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -15580,8 +15578,8 @@
           "sourceContentHash": "sha256:316e1a5e36d3a78b",
           "sourceBodyHash": "sha256:fa3c598a1e033a14",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -16270,8 +16268,8 @@
           "sourceContentHash": "sha256:a7fa219e195d7594",
           "sourceBodyHash": "sha256:ea0e1cf2dc2589bd",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -20766,7 +20764,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-ai-labs.md",
+          "translatedFrom": "Technology/台灣人工智慧實驗室.md",
+          "sourceCommitSha": "c8e5ac9ea",
+          "sourceContentHash": "sha256:905a736099878754",
+          "sourceBodyHash": "sha256:f134440a7453a1a5",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -33352,7 +33361,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/first-image-creative.md",
+          "translatedFrom": "Art/首映創意.md",
+          "sourceCommitSha": "088a688b2",
+          "sourceContentHash": "sha256:24d3c436839c65a5",
+          "sourceBodyHash": "sha256:952b491f965877b0",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -39921,8 +39941,8 @@
           "sourceContentHash": "sha256:15b1d886569defdd",
           "sourceBodyHash": "sha256:5c3b9cff7c172cb0",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -46625,8 +46645,8 @@
           "sourceContentHash": "sha256:b3fec964553963ea",
           "sourceBodyHash": "sha256:605626e47ccc1b01",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -51606,8 +51626,8 @@
           "sourceContentHash": "sha256:815fdbbdd8e6757e",
           "sourceBodyHash": "sha256:c04d648a91c00bf4",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -74625,7 +74645,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/hebe-tien-singer.md",
+          "translatedFrom": "People/田馥甄.md",
+          "sourceCommitSha": "380c49d7e",
+          "sourceContentHash": "sha256:9f8381739b864e8b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T00:24:21.457260+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 35,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -88682,8 +88713,8 @@
           "sourceContentHash": "sha256:2fc7b754782e2c72",
           "sourceBodyHash": "sha256:3835f3eeb33c205d",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -126211,8 +126242,8 @@
           "sourceContentHash": "sha256:c56d8ded11ccacaf",
           "sourceBodyHash": "sha256:b63c0b30d24f0d0a",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -129422,7 +129453,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/prehistoric-era-and-indigenous-peoples.md",
+          "translatedFrom": "History/史前時代與原住民.md",
+          "sourceCommitSha": "a1eb11f45",
+          "sourceContentHash": "sha256:3b733793cef0fe14",
+          "sourceBodyHash": "sha256:e6a1e14a24970623",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -133718,7 +133760,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/yongkang-street.md",
+          "translatedFrom": "Geography/永康街.md",
+          "sourceCommitSha": "fe48ea49d",
+          "sourceContentHash": "sha256:86be5fe44de05439",
+          "sourceBodyHash": "sha256:ad35178eae665c53",
+          "translatedAt": "2026-09-12T04:55:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -134646,8 +134699,8 @@
           "sourceContentHash": "sha256:01c55f03cc9ccbf2",
           "sourceBodyHash": "sha256:04678524469fb023",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -155382,8 +155435,8 @@
           "sourceContentHash": "sha256:d4ca70756fc2b68a",
           "sourceBodyHash": "sha256:631049e094973d93",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "72a4c86d",
+          "translationLastModified": "2026-09-12T07:38:55+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
