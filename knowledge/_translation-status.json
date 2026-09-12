@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T14:36:47+08:00",
-    "zhCommitHead": "be77822ea",
+    "lastUpdated": "2026-09-12T16:21:30+08:00",
+    "zhCommitHead": "412004a2b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 438,
+        "fresh": 445,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 676,
+        "missing": 669,
         "orphan": 0
       }
     },
@@ -15337,7 +15337,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/agricultural-technology-and-refined-agriculture.md",
+          "translatedFrom": "Economy/農業科技與精緻農業.md",
+          "sourceCommitSha": "369298aba",
+          "sourceContentHash": "sha256:19b72b95becb40d7",
+          "sourceBodyHash": "sha256:966a2693a6cccc59",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -17276,8 +17287,8 @@
           "sourceContentHash": "sha256:34ffbb88716e1c90",
           "sourceBodyHash": "sha256:401833a7ed0b48dd",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -22361,7 +22372,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/computex.md",
+          "translatedFrom": "Technology/Computex.md",
+          "sourceCommitSha": "46055e4f3",
+          "sourceContentHash": "sha256:f4b0813105283dab",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T06:45:50.317912+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 60,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -24645,8 +24667,8 @@
           "sourceContentHash": "sha256:739eb8c857d7b377",
           "sourceBodyHash": "sha256:814f9eb8b97792cf",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -29477,7 +29499,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/no-mans-land-art-platform.md",
+          "translatedFrom": "Art/數位荒原.md",
+          "sourceCommitSha": "a74c440b3",
+          "sourceContentHash": "sha256:f8ec8d5fb97942ca",
+          "sourceBodyHash": "sha256:7bfa784449cb0cb6",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -36634,8 +36667,8 @@
           "sourceContentHash": "sha256:f94b3bf22acf8238",
           "sourceBodyHash": "sha256:6ed1f511fb4c93bd",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -51512,8 +51545,8 @@
           "sourceContentHash": "sha256:01affe2533530c02",
           "sourceBodyHash": "sha256:21c703a5d9235d48",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -57671,7 +57704,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/About/taiwan-official-resources.md",
+          "translatedFrom": "About/台灣官方網站資源.md",
+          "sourceCommitSha": "026e5b584",
+          "sourceContentHash": "sha256:3a49c509011ce42d",
+          "sourceBodyHash": "sha256:637002941419ff56",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -108764,8 +108808,8 @@
           "sourceContentHash": "sha256:c3100aba8df85cb7",
           "sourceBodyHash": "sha256:fa74581434f67fac",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -118299,8 +118343,8 @@
           "sourceContentHash": "sha256:0b469697cef600b9",
           "sourceBodyHash": "sha256:9c9d5bf9b829829e",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -126287,7 +126331,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/mudan-incident.md",
+          "translatedFrom": "History/牡丹社事件.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:91f467d8cc029b74",
+          "sourceBodyHash": "sha256:1f92c860af97938e",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -129383,8 +129438,8 @@
           "sourceContentHash": "sha256:c532a9d95ccbcaaf",
           "sourceBodyHash": "sha256:530ea0ffb4d07e77",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -132711,8 +132766,8 @@
           "sourceContentHash": "sha256:6923220eadde819d",
           "sourceBodyHash": "sha256:4dc13793ac08242f",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -134799,7 +134854,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/yilan-county.md",
+          "translatedFrom": "Geography/宜蘭縣.md",
+          "sourceCommitSha": "7f3ddf123",
+          "sourceContentHash": "sha256:58d83174a1d3bd65",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T06:46:05.635103+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -142237,8 +142303,8 @@
           "sourceContentHash": "sha256:8df5b8e9967c9dc4",
           "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -149929,8 +149995,8 @@
           "sourceContentHash": "sha256:f2be686b40b1bfa3",
           "sourceBodyHash": "sha256:85fe560e3164601c",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "412004a2",
+          "translationLastModified": "2026-09-12T14:36:47+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -158926,7 +158992,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/ghost-festival-zhongyuan.md",
+          "translatedFrom": "Culture/中元節.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:92d21a8f6666e1c2",
+          "sourceBodyHash": "sha256:036fefb83f0557fd",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
