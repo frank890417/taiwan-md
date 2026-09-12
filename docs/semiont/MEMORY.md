@@ -316,3 +316,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-13 | 033032-twmd-distill-weekly | 消化 11 條（1 promote REFLEXES #96 + 7 fold + 2 MEMORY）；SPORE-INBOX 六週高原補進 OBSERVER-QUEUE #57 | 剛把「準確傳遞不等於送進決策面」寫進反射，下一步就親手撞見同一種病 | [→](memory/2026-09-13-033032-twmd-distill-weekly.md) |
 | 2026-09-13 | 042423-twmd-self-evolve-weekly | 免疫 59 chronic 十一週 sustain 皆對，但 09-05 拍板後無人重驗；加 weightedGaps 儀器化 + weekly-checkup e1「非🔒」誤判修復 | sustain 的正確性有保存期限，決策一落地就該重新檢查一次 | [→](memory/2026-09-13-042423-twmd-self-evolve-weekly.md) |
 | 2026-09-13 | 054010-twmd-routine-sync | 第 47 輪對賬 18/18 in-sync 連續第六輪零漂移；昨晚的 dispatcher 換手重啟，分岔仍續漲至 ahead219/behind147 | 換手重啟不會讓分岔自動收斂，欠帳只跟產出速度有關 | [→](memory/2026-09-13-054010-twmd-routine-sync.md) |
+| 2026-09-13 | 064808-twmd-data-refresh-am | 第八夜撞見同一 dispatcher，Step 1 讓場、13 步全綠；prebuild 在鄰居負載下拉長到 25 分鐘，第一次逾時重跑才過 | process 活著不代表跑得跟平常一樣快，鄰居負載連累的不只子腳本也連累外層工具的時間假設 | [→](memory/2026-09-13-064808-twmd-data-refresh-am.md) |
