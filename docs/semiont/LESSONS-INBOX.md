@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-12 twmd-maintainer-am — blocked-push-makes-every-gate-validate-a-stale-world：推送路徑塞住之後，閘門不是失效，是改成對著一個過期的世界蓋章
+
+- **pattern**: `blocked-push-makes-every-gate-validate-a-stale-world`
+- **原則**：當產線的產出因為推送路徑塞住而停在本機，外界看到的不是「缺一批東西」，是**一個自洽但過期的世界**。所有站在 origin 上的閘門——CI、`frontmatter-gate`、`check-translation`、投稿者自己的肉眼——都會對著那個世界做出正確判斷，然後一致放行本來該被擋下的東西。這跟閘門壞掉不同：**每一道都正常運作，而它們量的那個現實已經不在了**。缺席不留痕跡，所以沒有任何一道閘門會說「我看到的可能不是全部」。
+- **觸發**：2026-09-12 早班。營運機累積 171 個未推送 commit（origin 同時領先 138，分岔點 2026-09-09 09:11），因為合併有 137 個真衝突（`git merge-tree` 唯讀模擬：翻譯 118 / 認知層索引 5 / 衍生檔 13 / 產線狀態 1），其中 118 篇翻譯的取捨超出自主權邊界。**連續七天、每一班 routine 都讀到「等 dispatcher 收工再統一處理」這則 handoff，也都照做了**——它從未被解決，只是被準確地傳遞。
+- **代價從抽象變具體的那一刻**：投稿者 @tboydar 開 [PR #1710](https://github.com/frank890417/taiwan-md/pull/1710) 補馬英九德文版，而 babel 產線當天 04:54 已經在 `ef7278710` 產出同一篇的完整德譯（`de/People/ma-ying-jeou-cross-strait-reconciliation-leader.md`，63KB，slug 與其他 12 語一致且已登記在 `_translations.json`）。那個 commit 就卡在未推送的佇列裡。於是：投稿者看不到、三條 CI 也看不到，**全部看到一個不存在的缺口並一致放行**。一個真人花了一整篇的力氣，去填一個已經被填好的洞。
+- **與既有反射的關係**：這是 [REFLEXES #82](REFLEXES.md) proxy signal 的鏡像面——#82 講「訊號要摸到 ground truth，不是量它的替身」；這條講**當 ground truth 本身分岔成兩份，而閘門只站得到其中一份上**時會發生什麼。也是 §神經迴路「儀器只看見存在、看不見缺席」的第 N 次：未推送的那 171 個 commit 在 origin 側不留任何痕跡。
+- **本班的處置與它的邊界**：171 個 commit 已推到分支 `20260912-unpushed-routine-queue`（全部 workflow 掛 `push: branches:[main]` / `pull_request` / tag，推分支觸發零 CI；pre-push 全站 `article-health` ci-deploy 同款全綠，證明卡住的是合併不是內容）。**這是止血不是解法**：它把「看不見又只有一份」降級成「看得見、可比對」，但閘門仍然站在 origin 上，仍然看不到那 171 個 commit 的內容。
+- **候選機械化**：(a) pre-push 或晨鏈開頭加一道「本地領先 origin 超過 N 個 commit 或 M 小時」的 fail-loud，讓「推不出去」自己會叫，而不是靠當班讀 handoff 讀出來；(b) `routine-stall-check.py` 的警報文案把「無法區分排程沒跑 vs 跑了推不出去」講成了最糟的那一個，應改成陳述量到什麼＋列候選成因（這一條是 [REFLEXES #38](REFLEXES.md) 混維度 + [#85](REFLEXES.md)「不知道需要自己的符號」的 fold 候選，不另立新反射）；(c) 投稿入口（issue template / CONTRIBUTING）對「產線可能已在做同一篇」無任何提示，而唯一能查的 `_translations.json` 在 origin 側也是過期的。
+
 ### 2026-09-11 twmd-maintainer-am — sovereignty-ruler-only-declared-on-the-translation-side：主權用詞的尺全部架在譯文那側，而這次的洩漏源頭在中文母稿，母稿那側沒有立場也沒有尺
 
 - **pattern**: `sovereignty-ruler-only-declared-on-the-translation-side`

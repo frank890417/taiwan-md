@@ -358,3 +358,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-12 | 061811-twmd-data-refresh-am | 第七個排程窗撞見同一 dispatcher，Step 1 讓場、13 步全綠零 stale；scope 驗證 37 檔乾淨 | 驗證步驟反射化後仍不能省略，撞到的輸出矛盾要記下來 | [→](memory/2026-09-12-061811-twmd-data-refresh-am.md) |
 | 2026-09-12 | 063847-twmd-spore-harvest-am | 連續第四天現查 #170-176 metrics 與留言，Δ 全落雜訊範圍（0~+8 views）；0 新留言免 ship；分岔期間無新 commit 不受影響 | 判斷「什麼時候不寫」跟「什麼時候寫」一樣需要紀律，雜訊值不進 spore-metrics.json | [→](memory/2026-09-12-063847-twmd-spore-harvest-am.md) |
 | 2026-09-12 | 070859-twmd-feedback-triage | 第六輪零回報照跑完 --commit，兩道對賬 84/84 與 83/84 全綠；今天的 6.9 天靜默因昨天量過到達歷史（上限 10 天）而讀得出是普通數字 | 缺工具的洞絆兩次才補得起，記錯的常數只需量一次，代價是它不會出聲 | [→](memory/2026-09-12-070859-twmd-feedback-triage.md) |
+| 2026-09-12 | 085019-twmd-maintainer-am | #1709 德文版 merged；#1711 非誤報但名字錯——飛輪在轉，是 171 commit 推不出去，137 衝突中 118 篇翻譯超出自主權邊界；救援分支止血 | 推送塞住時閘門不是失效，是改成對著過期的世界蓋章，於是放行一篇早已譯好的投稿 | [→](memory/2026-09-12-085019-twmd-maintainer-am.md) |
