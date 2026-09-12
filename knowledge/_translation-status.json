@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T07:25:38+08:00",
-    "zhCommitHead": "42dbd5c71",
+    "lastUpdated": "2026-09-13T07:38:27+08:00",
+    "zhCommitHead": "791236a1b",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 818,
+        "fresh": 819,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 208,
+        "missing": 207,
         "orphan": 0
       },
       "ja": {
@@ -36,26 +36,26 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 823,
+        "fresh": 824,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 206,
+        "missing": 205,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 812,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 213,
+        "missing": 212,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 810,
+        "fresh": 811,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 211,
+        "missing": 210,
         "orphan": 0
       },
       "vi": {
@@ -75535,8 +75535,8 @@
           "sourceContentHash": "sha256:47672068ff2f222b",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42dbd5c7",
+          "translationLastModified": "2026-09-13T07:25:17+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -86680,8 +86680,8 @@
           "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
           "sourceBodyHash": "sha256:4da6179cc5f355db",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42dbd5c7",
+          "translationLastModified": "2026-09-13T07:25:17+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -106374,8 +106374,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-13T00:44:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e063f066",
+          "translationLastModified": "2026-09-13T07:25:38+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -117452,19 +117452,63 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/mullet-roe.md",
+          "translatedFrom": "Food/烏魚子.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:a3b67c4182d26ac8",
+          "sourceBodyHash": "sha256:2b263b9afd2d2815",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/mullet-roe.md",
+          "translatedFrom": "Food/烏魚子.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:a3b67c4182d26ac8",
+          "sourceBodyHash": "sha256:2b263b9afd2d2815",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/mullet-roe.md",
+          "translatedFrom": "Food/烏魚子.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:a3b67c4182d26ac8",
+          "sourceBodyHash": "sha256:2b263b9afd2d2815",
+          "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/mullet-roe.md",
+          "translatedFrom": "Food/烏魚子.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:a3b67c4182d26ac8",
+          "sourceBodyHash": "sha256:2b263b9afd2d2815",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -118935,8 +118979,8 @@
           "sourceContentHash": "sha256:9e0f798883cbe5d7",
           "sourceBodyHash": "sha256:3b14e4290a67452c",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42dbd5c7",
+          "translationLastModified": "2026-09-13T07:25:17+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -124223,8 +124267,8 @@
           "sourceContentHash": "sha256:17af96b268beb6de",
           "sourceBodyHash": "sha256:2beca8976bf8f3ea",
           "translatedAt": "2026-09-13T00:44:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e063f066",
+          "translationLastModified": "2026-09-13T07:25:38+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -139944,8 +139988,8 @@
           "sourceContentHash": "sha256:eca62ab119321799",
           "sourceBodyHash": "sha256:6e4c77ec70105e99",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "42dbd5c7",
+          "translationLastModified": "2026-09-13T07:25:17+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -139978,8 +140022,8 @@
           "sourceContentHash": "sha256:eca62ab119321799",
           "sourceBodyHash": "sha256:6e4c77ec70105e99",
           "translatedAt": "2026-09-13T00:44:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e063f066",
+          "translationLastModified": "2026-09-13T07:25:38+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -153701,8 +153745,8 @@
           "sourceContentHash": "sha256:e24d7260c5b6a2bc",
           "sourceBodyHash": "sha256:00444a759deb7a89",
           "translatedAt": "2026-09-13T00:44:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e063f066",
+          "translationLastModified": "2026-09-13T07:25:38+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
