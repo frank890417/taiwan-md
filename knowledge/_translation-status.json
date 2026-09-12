@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T02:58:07+08:00",
-    "zhCommitHead": "1b0386533",
+    "lastUpdated": "2026-09-13T03:09:51+08:00",
+    "zhCommitHead": "26205d14a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 213,
+        "missing": 212,
         "orphan": 0
       },
       "ja": {
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 815,
+        "fresh": 816,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 214,
+        "missing": 213,
         "orphan": 0
       },
       "es": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 763,
+        "fresh": 764,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 307,
+        "missing": 306,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 520,
+        "fresh": 521,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 594,
+        "missing": 593,
         "orphan": 0
       }
     },
@@ -41770,8 +41770,8 @@
           "sourceContentHash": "sha256:e4d0887ad2be656b",
           "sourceBodyHash": "sha256:185b659b9a1b47ea",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "26205d14",
+          "translationLastModified": "2026-09-13T02:58:07+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -71915,13 +71915,35 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/chen-szu-hung.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chen-szu-hung.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -71948,7 +71970,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chen-szu-hung.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -102780,8 +102813,8 @@
           "sourceContentHash": "sha256:695b08b5d7d2de65",
           "sourceBodyHash": "sha256:6c22ac71a15a46ba",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "26205d14",
+          "translationLastModified": "2026-09-13T02:58:07+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -123858,15 +123891,26 @@
           "sourceContentHash": "sha256:17af96b268beb6de",
           "sourceBodyHash": "sha256:2beca8976bf8f3ea",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "26205d14",
+          "translationLastModified": "2026-09-13T02:58:07+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taichu-prefectural-hall.md",
+          "translatedFrom": "History/台中州廳.md",
+          "sourceCommitSha": "39cb84dab",
+          "sourceContentHash": "sha256:17af96b268beb6de",
+          "sourceBodyHash": "sha256:2beca8976bf8f3ea",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/taichu-prefectural-hall.md",
@@ -126893,8 +126937,8 @@
           "sourceContentHash": "sha256:50b4c719b7719ddb",
           "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "26205d14",
+          "translationLastModified": "2026-09-13T02:58:07+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -156309,8 +156353,8 @@
           "sourceContentHash": "sha256:69f1aed62a2df405",
           "sourceBodyHash": "sha256:1bd762ed30b04b56",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "26205d14",
+          "translationLastModified": "2026-09-13T02:58:07+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
