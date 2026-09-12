@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T12:52:29+08:00",
-    "zhCommitHead": "80b671ad8",
+    "lastUpdated": "2026-09-12T14:21:14+08:00",
+    "zhCommitHead": "a11ee2911",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 418,
+        "fresh": 428,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 696,
+        "missing": 686,
         "orphan": 0
       }
     },
@@ -1262,8 +1262,8 @@
           "sourceContentHash": "sha256:9cf99b2480b3617d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T02:40:28.114695+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a11ee291",
+          "translationLastModified": "2026-09-12T12:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 51,
           "status": "fresh",
@@ -3250,8 +3250,8 @@
           "sourceContentHash": "sha256:f7363f72c8db19f7",
           "sourceBodyHash": "sha256:a8ba2c74c0939b6b",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a11ee291",
+          "translationLastModified": "2026-09-12T12:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -7160,7 +7160,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
+          "translatedFrom": "Economy/台灣產業轉型升級.md",
+          "sourceCommitSha": "d6377e82e",
+          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
+          "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -11984,8 +11995,8 @@
           "sourceContentHash": "sha256:1f3ebd8f501cc764",
           "sourceBodyHash": "sha256:09a7619ad7b7047a",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a11ee291",
+          "translationLastModified": "2026-09-12T12:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -17839,7 +17850,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/miin-music-app.md",
+          "translatedFrom": "Technology/迷音Miin.md",
+          "sourceCommitSha": "ce36d5427",
+          "sourceContentHash": "sha256:e317c3018b82f2b6",
+          "sourceBodyHash": "sha256:bbf79206e74e0a59",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -18386,7 +18408,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/ai-supply-chain-overseas-manufacturing.md",
+          "translatedFrom": "Technology/AI供應鏈海外設廠.md",
+          "sourceCommitSha": "fd01d452a",
+          "sourceContentHash": "sha256:7fa246cf8f0f5c00",
+          "sourceBodyHash": "sha256:453d3851b08255ad",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -22796,7 +22829,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/ai-hardware-supply-chain.md",
+          "translatedFrom": "Technology/AI硬體供應鏈.md",
+          "sourceCommitSha": "8f5e81ee5",
+          "sourceContentHash": "sha256:96b285db19941653",
+          "sourceBodyHash": "sha256:96ecb5a6142f55f7",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -28218,7 +28262,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/wang-lien-cheng-artist.md",
+          "translatedFrom": "Art/王連晟.md",
+          "sourceCommitSha": "6bbbf62ba",
+          "sourceContentHash": "sha256:f395cb57343c4ecf",
+          "sourceBodyHash": "sha256:3e275e3c41071f38",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -46949,7 +47004,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-generations.md",
+          "translatedFrom": "Society/台灣的年級生世代.md",
+          "sourceCommitSha": "805200859",
+          "sourceContentHash": "sha256:1b3e5e3f22f40ead",
+          "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -84264,7 +84330,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/hsu-chiao-hsin.md",
+          "translatedFrom": "People/徐巧芯.md",
+          "sourceCommitSha": "200949f47",
+          "sourceContentHash": "sha256:a962a822b6113a98",
+          "sourceBodyHash": "sha256:77a2ffda234c910d",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -94843,7 +94920,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/lin-chi-er-astronaut.md",
+          "translatedFrom": "People/林琪兒.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:a30f0de5d79e98de",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T05:35:16.130091+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -103574,7 +103662,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/dwagie.md",
+          "translatedFrom": "People/大支.md",
+          "sourceCommitSha": "498649feb",
+          "sourceContentHash": "sha256:2e7abe81d37d5763",
+          "sourceBodyHash": "sha256:42bdb5d4361f8a68",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -125116,8 +125215,8 @@
           "sourceContentHash": "sha256:165d618ccd73fdcd",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T02:57:41.843864+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a11ee291",
+          "translationLastModified": "2026-09-12T12:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 57,
           "status": "fresh",
@@ -131953,8 +132052,8 @@
           "sourceContentHash": "sha256:a28bcadbb01460c5",
           "sourceBodyHash": "sha256:fdd1a6127fff34df",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a11ee291",
+          "translationLastModified": "2026-09-12T12:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -145457,8 +145556,8 @@
           "sourceContentHash": "sha256:f1b4f4bb8aa56e88",
           "sourceBodyHash": "sha256:b5154ba7226ad9d9",
           "translatedAt": "2026-09-12T09:12:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a11ee291",
+          "translationLastModified": "2026-09-12T12:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -150731,7 +150830,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/culinary-class-wars-in-taiwan.md",
+          "translatedFrom": "Culture/黑白大廚在台灣.md",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
