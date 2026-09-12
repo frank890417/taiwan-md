@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T19:53:40+08:00",
-    "zhCommitHead": "3a4722a1f",
+    "lastUpdated": "2026-09-12T20:45:47+08:00",
+    "zhCommitHead": "94f202f66",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 799,
+        "fresh": 800,
         "stale": 79,
-        "metadata_stale": 19,
+        "metadata_stale": 18,
         "missing": 224,
         "orphan": 0
       },
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 663,
+        "fresh": 664,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 411,
+        "missing": 410,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 506,
+        "fresh": 515,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 608,
+        "missing": 599,
         "orphan": 0
       }
     },
@@ -3933,7 +3933,18 @@
           "diffSummary": "+6 -6"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/mayday-band.md",
+          "translatedFrom": "Music/五月天.md",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:d0269e2f1779f743",
+          "sourceBodyHash": "sha256:70e0b74692ddad14",
+          "translatedAt": "2026-09-12T20:32:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -6999,8 +7010,8 @@
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -7355,8 +7366,8 @@
           "sourceContentHash": "sha256:d3d2ec17aaf8187a",
           "sourceBodyHash": "sha256:187c229025183e4b",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -8700,7 +8711,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/pinkoi.md",
+          "translatedFrom": "Economy/Pinkoi.md",
+          "sourceCommitSha": "bd1fd7a91",
+          "sourceContentHash": "sha256:dadf1d689c0dbe2c",
+          "sourceBodyHash": "sha256:2a507ef221850519",
+          "translatedAt": "2026-09-12T20:32:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8862,8 +8884,8 @@
           "sourceContentHash": "sha256:cf4597f30d7e7bcc",
           "sourceBodyHash": "sha256:a8d57592acf3e770",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -9086,8 +9108,8 @@
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -11204,8 +11226,8 @@
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -11921,7 +11943,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/mercuries-group.md",
+          "translatedFrom": "Economy/三商.md",
+          "sourceCommitSha": "a923e393d",
+          "sourceContentHash": "sha256:9985c51170111ca8",
+          "sourceBodyHash": "sha256:a06f7b884fa31776",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -13944,8 +13977,8 @@
           "sourceContentHash": "sha256:8bed402beaecae31",
           "sourceBodyHash": "sha256:97f9ec5722ee27b9",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -18759,8 +18792,8 @@
           "sourceContentHash": "sha256:bc36a1af91d28cb5",
           "sourceBodyHash": "sha256:9d1ac9fec38fa5d4",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -21383,8 +21416,8 @@
           "sourceContentHash": "sha256:692543a60baf3299",
           "sourceBodyHash": "sha256:bb5064886298647d",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -32692,8 +32725,8 @@
           "sourceContentHash": "sha256:6e2227266f254dbd",
           "sourceBodyHash": "sha256:c64c3872bb69a137",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -37652,7 +37685,18 @@
           "reason": "footnote-loss (19→0)"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-garbage-truck-music.md",
+          "translatedFrom": "Lifestyle/台灣垃圾車音樂.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:02bd3943b09e813f",
+          "sourceBodyHash": "sha256:45fcf1e43c9080d6",
+          "translatedAt": "2026-09-12T20:32:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -62437,7 +62481,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/malayan-night-heron.md",
+          "translatedFrom": "Nature/黑冠麻鷺.md",
+          "sourceCommitSha": "2da8b92f2",
+          "sourceContentHash": "sha256:74ac37cae326eaa1",
+          "sourceBodyHash": "sha256:9c1e23df6047812e",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -89503,16 +89558,16 @@
         "es": {
           "path": "es/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
           "translatedFrom": "People/陳樹菊.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:884e3106e00c3ed4",
+          "sourceCommitSha": "2344309a0",
+          "sourceContentHash": "sha256:2acd1adc35abda8a",
           "sourceBodyHash": "sha256:0e9eced4546d8cba",
-          "translatedAt": "2026-05-17T06:00:00Z",
+          "translatedAt": "2026-09-12T20:32:15+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "metadata-stale",
-          "reason": "sha-lost-body-match"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
@@ -89573,7 +89628,18 @@
           "diffSummary": "+2 -2"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
+          "translatedFrom": "People/陳樹菊.md",
+          "sourceCommitSha": "2344309a0",
+          "sourceContentHash": "sha256:2acd1adc35abda8a",
+          "sourceBodyHash": "sha256:0e9eced4546d8cba",
+          "translatedAt": "2026-09-12T20:32:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chen-shu-chu-vegetable-vendor-philanthropist.md",
@@ -95248,7 +95314,18 @@
           "diffSummary": "+1 -0"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chen-shui-bian-controversial-president.md",
+          "translatedFrom": "People/陳水扁.md",
+          "sourceCommitSha": "1389f8ce7",
+          "sourceContentHash": "sha256:f51e056dbe61a84c",
+          "sourceBodyHash": "sha256:be5f4cfa04f53c22",
+          "translatedAt": "2026-09-12T20:32:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -128357,7 +128434,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/19th-century-camphor-wars.md",
+          "translatedFrom": "History/19世紀的樟腦戰爭.md",
+          "sourceCommitSha": "2da8b92f2",
+          "sourceContentHash": "sha256:04245348572d70d0",
+          "sourceBodyHash": "sha256:308ab8066ca9a9d0",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -141664,7 +141752,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/zhongshan-north-road-tiaotong.md",
+          "translatedFrom": "Geography/中山北路條通.md",
+          "sourceCommitSha": "2da8b92f2",
+          "sourceContentHash": "sha256:d645bc8708c3f0c9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-12T12:04:35.917089+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -143833,7 +143932,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/kinmen-county.md",
+          "translatedFrom": "Geography/金門縣.md",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:b7892d0e172bac48",
+          "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -148184,8 +148294,8 @@
           "sourceContentHash": "sha256:7cd741adb82e8c2f",
           "sourceBodyHash": "sha256:2e97e9085815c5e8",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f202f6",
+          "translationLastModified": "2026-09-12T19:53:40+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
