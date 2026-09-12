@@ -111,10 +111,17 @@ if (
     : /漂移|drift/i.test(immune.status)
       ? 'yellow'
       : 'yellow';
+  // 2026-09-13 self-evolve-weekly：附最大加權缺口，讓警報本身回答「該修哪
+  // 個維度」，不必每次靠人工重算 components×weight（10+ cycle 只複誦
+  // chronic 卻沒人拆過分量，見 REFLEXES #38 混維度家族）。
+  const gap = immune.topGap;
+  const gapNote = gap
+    ? `，最大缺口 ${gap.dimension}=${gap.score}（少 ${gap.pointsLost} 分）`
+    : '';
   addAlert(
     'immune-status',
     sev,
-    `免疫 v3=${immune.immuneScore}：${immune.status}`,
+    `免疫 v3=${immune.immuneScore}：${immune.status}${gapNote}`,
     'dashboard-immune.json',
   );
 }

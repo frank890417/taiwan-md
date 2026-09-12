@@ -1,32 +1,24 @@
 {
-  "lastUpdated": "2026-09-11T22:15:12.681Z",
+  "lastUpdated": "2026-09-12T20:24:15.486Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 3,
+  "count": 2,
   "alerts": [
     {
       "id": "immune-status",
       "severity": "yellow",
-      "message": "免疫 v3=59：漂移 — 多維度退化中",
+      "message": "免疫 v3=59：漂移 — 多維度退化中，最大缺口 review_coverage=19.2（少 20.2 分）",
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "memory-index-rows",
+      "id": "exp-overdue-EXP-2026-08-28-fncard",
       "severity": "yellow",
-      "message": "MEMORY.md 索引 inline 85 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
-      "source": "MEMORY.md",
-      "owner": "twmd-distill-weekly",
-      "firstSeen": "2026-09-11"
-    },
-    {
-      "id": "routine-silent-twmd-maintainer-daily",
-      "severity": "yellow",
-      "message": "routine twmd-maintainer-daily 沉默死亡：2026-09-10T00:39 fire 後 45.6h 零 git 痕跡（fire≠完成，收屍看 working tree）",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-maintainer-daily",
-      "firstSeen": "2026-09-11"
+      "message": "UNKNOWNS EXP-2026-08-28-fncard 驗證日 2026-09-11 已過期未判定",
+      "source": "UNKNOWNS.md",
+      "owner": "twmd-self-evolve-weekly",
+      "firstSeen": "2026-09-12"
     }
   ]
 }

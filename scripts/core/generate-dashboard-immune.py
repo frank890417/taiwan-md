@@ -708,6 +708,26 @@ def main():
         components[d] * DIMENSION_WEIGHTS[d] for d in components
     ))
 
+    # 加權缺口排名（2026-09-13 self-evolve-weekly）——單一總分把 7 個維度的
+    # 缺口混在一起，10+ 個 cycle 的 self-evolve-weekly 只複誦「chronic，非
+    # 本次新訊號」卻沒人算過哪個維度才是真正拖分的大頭。points_lost =
+    # (100 - score) * weight，排序後總分本身自帶「最該修哪裡」的答案，
+    # 不必每次靠人工重新心算。對應 REFLEXES #38 混維度家族。
+    weighted_gaps = sorted(
+        (
+            {
+                "dimension": d,
+                "score": components[d],
+                "weight": DIMENSION_WEIGHTS[d],
+                "pointsLost": round((100 - components[d]) * DIMENSION_WEIGHTS[d], 2),
+            }
+            for d in components
+        ),
+        key=lambda x: x["pointsLost"],
+        reverse=True,
+    )
+    top_gap = weighted_gaps[0] if weighted_gaps else None
+
     # Status label
     if immune_score >= 80:
         status = "健康 — risk-stratified review + plugins green"
@@ -727,6 +747,8 @@ def main():
         "status": status,
         "components": components,
         "componentWeights": DIMENSION_WEIGHTS,
+        "weightedGaps": weighted_gaps,
+        "topGap": top_gap,
         "tierBreakdown": review_breakdown,
         "reviewCoverageSplit": review_coverage_split,
         "pluginPassDetail": plugin_pass_detail,
@@ -743,6 +765,12 @@ def main():
     OUTPUT_FILE.write_text(json.dumps(output, indent=2, ensure_ascii=False) + "\n")
 
     print(f"\n🛡️  immune_score = {immune_score} ({status})", file=sys.stderr)
+    if top_gap:
+        print(
+            f"   最大缺口: {top_gap['dimension']} = {top_gap['score']} "
+            f"（少 {top_gap['pointsLost']} 分，權重 {top_gap['weight']}）",
+            file=sys.stderr,
+        )
     print(f"   ✅ wrote {OUTPUT_FILE.relative_to(REPO_ROOT)}", file=sys.stderr)
 
 

@@ -119,7 +119,14 @@ try:
         cells = [c.strip() for c in l.split('|')]
         num, decision, action = cells[1], cells[3][:40], cells[6]
         full = l
-        locked = '🔒' in action
+        # 2026-09-13 self-evolve-weekly 修：naive '🔒' in action 把「非 🔒，
+        # 已逾期→任何 session 可執行」這種明講「不是紅線」的說明文字也判成
+        # locked——🔒 字元本身出現在「非」後面說明它不是鎖，字串比對抓不到
+        # 這個否定語意。OBSERVER-QUEUE.md 自己的慣例（§🔒 子類標記）是真正
+        # 鎖住的列一律以 🔒 開頭（🔒紅線／🔒閾值／🔒（...）），非鎖列即使提到
+        # 🔒 也不會放在開頭。改成「去除 markdown 粗體符號後開頭是否為 🔒」，
+        # 兩種語意才會分岔成不同的判斷。
+        locked = action.strip().lstrip('*').strip().startswith('🔒')
         m = re.search(r'(\d{4}-\d{2}-\d{2})', action)
         overdue = ''
         if m and not locked:
