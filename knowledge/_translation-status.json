@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T03:19:18+08:00",
-    "zhCommitHead": "6d0c40312",
+    "lastUpdated": "2026-09-13T03:24:27+08:00",
+    "zhCommitHead": "687a2b787",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 814,
+        "fresh": 815,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 212,
+        "missing": 211,
         "orphan": 0
       },
       "ja": {
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 816,
+        "fresh": 817,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 213,
+        "missing": 212,
         "orphan": 0
       },
       "es": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 622,
+        "fresh": 623,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 442,
+        "missing": 441,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 668,
+        "fresh": 669,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 406,
+        "missing": 405,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 764,
+        "fresh": 765,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 306,
+        "missing": 305,
         "orphan": 0
       },
       "de": {
@@ -41736,8 +41736,8 @@
           "sourceContentHash": "sha256:e4d0887ad2be656b",
           "sourceBodyHash": "sha256:185b659b9a1b47ea",
           "translatedAt": "2026-09-13T00:44:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "687a2b78",
+          "translationLastModified": "2026-09-13T03:19:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -71980,8 +71980,8 @@
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
           "translatedAt": "2026-09-13T00:44:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "687a2b78",
+          "translationLastModified": "2026-09-13T03:19:18+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -72011,7 +72011,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chen-szu-hung.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/chen-szu-hung.md",
@@ -106185,13 +106196,35 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/heimao-laoshi.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/heimao-laoshi.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -123912,15 +123945,26 @@
           "sourceContentHash": "sha256:17af96b268beb6de",
           "sourceBodyHash": "sha256:2beca8976bf8f3ea",
           "translatedAt": "2026-09-13T00:44:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "687a2b78",
+          "translationLastModified": "2026-09-13T03:19:18+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taichu-prefectural-hall.md",
+          "translatedFrom": "History/台中州廳.md",
+          "sourceCommitSha": "39cb84dab",
+          "sourceContentHash": "sha256:17af96b268beb6de",
+          "sourceBodyHash": "sha256:2beca8976bf8f3ea",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/taichu-prefectural-hall.md",
@@ -123937,7 +123981,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taichu-prefectural-hall.md",
+          "translatedFrom": "History/台中州廳.md",
+          "sourceCommitSha": "39cb84dab",
+          "sourceContentHash": "sha256:17af96b268beb6de",
+          "sourceBodyHash": "sha256:2beca8976bf8f3ea",
+          "translatedAt": "2026-09-13T00:44:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taichu-prefectural-hall.md",
@@ -126947,8 +127002,8 @@
           "sourceContentHash": "sha256:50b4c719b7719ddb",
           "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
           "translatedAt": "2026-09-13T00:44:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "687a2b78",
+          "translationLastModified": "2026-09-13T03:19:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
