@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T19:46:29+08:00",
-    "zhCommitHead": "94f3fb37f",
+    "lastUpdated": "2026-09-12T19:53:40+08:00",
+    "zhCommitHead": "3a4722a1f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 495,
+        "fresh": 506,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 619,
+        "missing": 608,
         "orphan": 0
       }
     },
@@ -6993,7 +6993,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-smes-and-hidden-champions.md",
+          "translatedFrom": "Economy/台灣中小企業與隱形冠軍.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:9e85b1332b7523ce",
+          "sourceBodyHash": "sha256:aa9670656fd12067",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -7338,7 +7349,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-creator-economy.md",
+          "translatedFrom": "Economy/台灣動畫代工.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:d3d2ec17aaf8187a",
+          "sourceBodyHash": "sha256:187c229025183e4b",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8834,7 +8856,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/shopee.md",
+          "translatedFrom": "Economy/Shopee.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:cf4597f30d7e7bcc",
+          "sourceBodyHash": "sha256:a8d57592acf3e770",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -9047,7 +9080,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-enterprise-ase-semiconductor.md",
+          "translatedFrom": "Economy/台灣企業：日月光半導體.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:275d7b3ee56db82a",
+          "sourceBodyHash": "sha256:58739438cbba3247",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -10266,8 +10310,8 @@
           "sourceContentHash": "sha256:1e059fb4544621d1",
           "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -10440,7 +10484,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/want-want-group.md",
+          "translatedFrom": "Economy/旺旺.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:c96d861b28621fd7",
+          "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -11143,7 +11198,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwanese-companies-quanta-computer.md",
+          "translatedFrom": "Economy/台灣企業：廣達電腦.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:917f1503c2ff61d8",
+          "sourceBodyHash": "sha256:8336e4cef45a1444",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12197,8 +12263,8 @@
           "sourceContentHash": "sha256:dd196b4a3bebe6fe",
           "sourceBodyHash": "sha256:85923df8ecf92741",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -12865,8 +12931,8 @@
           "sourceContentHash": "sha256:d585af78b77ed183",
           "sourceBodyHash": "sha256:57ec5065ff0c2c3f",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -13872,7 +13938,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/evergreen-marine.md",
+          "translatedFrom": "Economy/台灣企業：長榮海運.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:8bed402beaecae31",
+          "sourceBodyHash": "sha256:97f9ec5722ee27b9",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -16255,8 +16332,8 @@
           "sourceContentHash": "sha256:204a3cf0ff763d30",
           "sourceBodyHash": "sha256:70cf0c01c1c3b9f1",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -18676,7 +18753,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/artificial-intelligence-industry.md",
+          "translatedFrom": "Technology/AI人工智慧產業.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:bc36a1af91d28cb5",
+          "sourceBodyHash": "sha256:9d1ac9fec38fa5d4",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -19839,8 +19927,8 @@
           "sourceContentHash": "sha256:6c1de6e7d125ff24",
           "sourceBodyHash": "sha256:fa56609bf3ed1f63",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -21289,7 +21377,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-digital-animation-industry.md",
+          "translatedFrom": "Technology/台灣數位影像與動畫產業.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:692543a60baf3299",
+          "sourceBodyHash": "sha256:bb5064886298647d",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -32413,8 +32512,8 @@
           "sourceContentHash": "sha256:9ea16a828e45af61",
           "sourceBodyHash": "sha256:b8ac47c9a8b9482f",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -32587,7 +32686,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/new-taipei-city-museum-of-art.md",
+          "translatedFrom": "Art/新北市美術館.md",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:6e2227266f254dbd",
+          "sourceBodyHash": "sha256:c64c3872bb69a137",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -50884,8 +50994,8 @@
           "sourceContentHash": "sha256:eca9dd4ad2636bc6",
           "sourceBodyHash": "sha256:bbdf3516f36f033d",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -54049,8 +54159,8 @@
           "sourceContentHash": "sha256:097cf0d80bc1fd84",
           "sourceBodyHash": "sha256:518e84b411e7ba80",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -116664,8 +116774,8 @@
           "sourceContentHash": "sha256:7c102d9a72b4f209",
           "sourceBodyHash": "sha256:5f29317bb49115c6",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -126204,8 +126314,8 @@
           "sourceContentHash": "sha256:e8a5eefcc576a838",
           "sourceBodyHash": "sha256:028c0bee94ad5d00",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a4722a1",
+          "translationLastModified": "2026-09-12T19:46:29+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -148068,7 +148178,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/mid-autumn-festival.md",
+          "translatedFrom": "Culture/中秋.md",
+          "sourceCommitSha": "5e15a7d9d",
+          "sourceContentHash": "sha256:7cd741adb82e8c2f",
+          "sourceBodyHash": "sha256:2e97e9085815c5e8",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
