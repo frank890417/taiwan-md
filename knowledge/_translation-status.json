@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T14:21:14+08:00",
-    "zhCommitHead": "a11ee2911",
+    "lastUpdated": "2026-09-12T14:36:47+08:00",
+    "zhCommitHead": "be77822ea",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 428,
+        "fresh": 438,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 686,
+        "missing": 676,
         "orphan": 0
       }
     },
@@ -7166,8 +7166,8 @@
           "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
           "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -17270,7 +17270,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/net-night-economy-tourism.md",
+          "translatedFrom": "Economy/NET.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:34ffbb88716e1c90",
+          "sourceBodyHash": "sha256:401833a7ed0b48dd",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -17856,8 +17867,8 @@
           "sourceContentHash": "sha256:e317c3018b82f2b6",
           "sourceBodyHash": "sha256:bbf79206e74e0a59",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -18414,8 +18425,8 @@
           "sourceContentHash": "sha256:7fa246cf8f0f5c00",
           "sourceBodyHash": "sha256:453d3851b08255ad",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -22835,8 +22846,8 @@
           "sourceContentHash": "sha256:96b285db19941653",
           "sourceBodyHash": "sha256:96ecb5a6142f55f7",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -24628,7 +24639,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-electricity-and-semiconductors.md",
+          "translatedFrom": "Technology/台灣的電力與半導體.md",
+          "sourceCommitSha": "250410eae",
+          "sourceContentHash": "sha256:739eb8c857d7b377",
+          "sourceBodyHash": "sha256:814f9eb8b97792cf",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -28268,8 +28290,8 @@
           "sourceContentHash": "sha256:f395cb57343c4ecf",
           "sourceBodyHash": "sha256:3e275e3c41071f38",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -36606,7 +36628,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-scooter-culture.md",
+          "translatedFrom": "Lifestyle/台灣機車文化.md",
+          "sourceCommitSha": "da8d86879",
+          "sourceContentHash": "sha256:f94b3bf22acf8238",
+          "sourceBodyHash": "sha256:6ed1f511fb4c93bd",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -47010,8 +47043,8 @@
           "sourceContentHash": "sha256:1b3e5e3f22f40ead",
           "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -51473,7 +51506,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/paraguay-taiwan.md",
+          "translatedFrom": "Society/巴拉圭與台灣.md",
+          "sourceCommitSha": "72a8b4432",
+          "sourceContentHash": "sha256:01affe2533530c02",
+          "sourceBodyHash": "sha256:21c703a5d9235d48",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -84336,8 +84380,8 @@
           "sourceContentHash": "sha256:a962a822b6113a98",
           "sourceBodyHash": "sha256:77a2ffda234c910d",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -94926,8 +94970,8 @@
           "sourceContentHash": "sha256:a30f0de5d79e98de",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T05:35:16.130091+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -103668,8 +103712,8 @@
           "sourceContentHash": "sha256:2e7abe81d37d5763",
           "sourceBodyHash": "sha256:42bdb5d4361f8a68",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -108714,7 +108758,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/cheng-wen-chi.md",
+          "translatedFrom": "People/鄭文琦.md",
+          "sourceCommitSha": "64d9ae569",
+          "sourceContentHash": "sha256:c3100aba8df85cb7",
+          "sourceBodyHash": "sha256:fa74581434f67fac",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -118238,7 +118293,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/tainan-central-west-district-street-food-culture.md",
+          "translatedFrom": "Food/台南中西區美食小吃文化.md",
+          "sourceCommitSha": "93facb6ce",
+          "sourceContentHash": "sha256:0b469697cef600b9",
+          "sourceBodyHash": "sha256:9c9d5bf9b829829e",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -129311,7 +129377,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-transitional-justice.md",
+          "translatedFrom": "History/台灣轉型正義.md",
+          "sourceCommitSha": "7c73f6a55",
+          "sourceContentHash": "sha256:c532a9d95ccbcaaf",
+          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -132628,7 +132705,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-north-korea-relations.md",
+          "translatedFrom": "History/台灣與北朝鮮關係.md",
+          "sourceCommitSha": "5af229e1e",
+          "sourceContentHash": "sha256:6923220eadde819d",
+          "sourceBodyHash": "sha256:4dc13793ac08242f",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -142143,7 +142231,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/taiwan-river-systems-and-hydrology.md",
+          "translatedFrom": "Geography/台灣河川系統與水文特色.md",
+          "sourceCommitSha": "70372d3a0",
+          "sourceContentHash": "sha256:8df5b8e9967c9dc4",
+          "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -149824,7 +149923,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/ethnic-groups.md",
+          "translatedFrom": "Culture/族群（閩南客家原住民外省新住民）.md",
+          "sourceCommitSha": "1febe45b7",
+          "sourceContentHash": "sha256:f2be686b40b1bfa3",
+          "sourceBodyHash": "sha256:85fe560e3164601c",
+          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -150836,8 +150946,8 @@
           "sourceContentHash": "sha256:158a36dc208ac1d9",
           "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
           "translatedAt": "2026-09-12T12:53:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be77822e",
+          "translationLastModified": "2026-09-12T14:21:15+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
