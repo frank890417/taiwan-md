@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T17:50:49+08:00",
-    "zhCommitHead": "e9f1d24ba",
+    "lastUpdated": "2026-09-12T17:58:56+08:00",
+    "zhCommitHead": "ea80306ff",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 465,
+        "fresh": 475,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 649,
+        "missing": 639,
         "orphan": 0
       }
     },
@@ -30160,7 +30160,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwanese-modern-poetry.md",
+          "translatedFrom": "Art/台灣現代詩.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:76772688d61c205f",
+          "sourceBodyHash": "sha256:444e69e75502ca5e",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -37208,7 +37219,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/bowling.md",
+          "translatedFrom": "Lifestyle/保齡球.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:f310a917a5ec92ad",
+          "sourceBodyHash": "sha256:9b87440ff4268438",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -39568,8 +39590,8 @@
           "sourceContentHash": "sha256:2b233a45daf622e6",
           "sourceBodyHash": "sha256:8f231aa6641c39c8",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -40877,8 +40899,8 @@
           "sourceContentHash": "sha256:93955fe44e7691af",
           "sourceBodyHash": "sha256:08eacf8247ffcb10",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -61107,8 +61129,8 @@
           "sourceContentHash": "sha256:5ce21d3d3c3acbd6",
           "sourceBodyHash": "sha256:11166779b46079e7",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -61628,7 +61650,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/orchid-island-ecosystem.md",
+          "translatedFrom": "Nature/蘭嶼生態系.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:c5b9ea1f1f0ebfd3",
+          "sourceBodyHash": "sha256:31718e0ce0828285",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -64023,7 +64056,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/taiwan-island-natural-history.md",
+          "translatedFrom": "Nature/台灣島嶼博物學.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:371da55946bd0c24",
+          "sourceBodyHash": "sha256:7e95d6d709cb27df",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -87729,8 +87773,8 @@
           "sourceContentHash": "sha256:4f2e975be9df55bf",
           "sourceBodyHash": "sha256:e2af78942d7ac0ac",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -90047,8 +90091,8 @@
           "sourceContentHash": "sha256:46faaa4a99788548",
           "sourceBodyHash": "sha256:161cfe479ea8068c",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -99065,7 +99109,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/ray-youtuber.md",
+          "translatedFrom": "People/Ray.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:7bb33d5e90715777",
+          "sourceBodyHash": "sha256:bfea2eb77a7d1c05",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -110742,7 +110797,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/kevin-lin-ultramarathon-desert-pioneer.md",
+          "translatedFrom": "People/林義傑.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:8741429d614846be",
+          "sourceBodyHash": "sha256:3713eaac6b565ca6",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -114766,7 +114832,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/eel-noodles.md",
+          "translatedFrom": "Food/鱔魚意麵.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:81213e22c8b81c39",
+          "sourceBodyHash": "sha256:7eb60f7eb1751d17",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -116759,7 +116836,18 @@
           "reason": "hash-match-sha-lost"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/beef-soup.md",
+          "translatedFrom": "Food/牛肉湯.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:1bed2e499f02597c",
+          "sourceBodyHash": "sha256:2b57fc3112c5bc59",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -121344,8 +121432,8 @@
           "sourceContentHash": "sha256:31bbf088964cc84c",
           "sourceBodyHash": "sha256:41b23df405c1e58d",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -122086,8 +122174,8 @@
           "sourceContentHash": "sha256:285a5868a3aa5597",
           "sourceBodyHash": "sha256:c3f4128a5ed93797",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -124919,8 +125007,8 @@
           "sourceContentHash": "sha256:7522efdf3a40c32a",
           "sourceBodyHash": "sha256:1acff297b5650550",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -131104,8 +131192,8 @@
           "sourceContentHash": "sha256:e04661eeed7e83a6",
           "sourceBodyHash": "sha256:11623780c733bce5",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -132038,7 +132126,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/black-bat-squadron.md",
+          "translatedFrom": "History/黑蝙蝠中隊.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:9c407c7793816591",
+          "sourceBodyHash": "sha256:7e573e2650a593fd",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -141888,8 +141987,8 @@
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea80306f",
+          "translationLastModified": "2026-09-12T17:50:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -158821,7 +158920,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/tchoukball-in-taiwan.md",
+          "translatedFrom": "Culture/巧固球.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:01a29994f0cdcf17",
+          "sourceBodyHash": "sha256:620db6741686fb51",
+          "translatedAt": "2026-09-12T16:22:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
