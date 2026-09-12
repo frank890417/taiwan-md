@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T03:16:55+08:00",
-    "zhCommitHead": "7ae0ae239",
+    "lastUpdated": "2026-09-13T03:19:18+08:00",
+    "zhCommitHead": "6d0c40312",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 729,
+        "fresh": 730,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 235,
+        "missing": 234,
         "orphan": 0
       },
       "id": {
@@ -71974,7 +71974,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chen-szu-hung.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -71986,8 +71997,8 @@
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
           "translatedAt": "2026-09-13T00:44:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6d0c4031",
+          "translationLastModified": "2026-09-13T03:16:55+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -72465,8 +72476,8 @@
           "sourceContentHash": "sha256:d22d7298dff5ac3a",
           "sourceBodyHash": "sha256:7b62e2a912ba5344",
           "translatedAt": "2026-09-13T00:44:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6d0c4031",
+          "translationLastModified": "2026-09-13T03:16:55+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -123918,8 +123929,8 @@
           "sourceContentHash": "sha256:17af96b268beb6de",
           "sourceBodyHash": "sha256:2beca8976bf8f3ea",
           "translatedAt": "2026-09-13T00:44:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6d0c4031",
+          "translationLastModified": "2026-09-13T03:16:55+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -126953,8 +126964,8 @@
           "sourceContentHash": "sha256:50b4c719b7719ddb",
           "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
           "translatedAt": "2026-09-13T00:44:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6d0c4031",
+          "translationLastModified": "2026-09-13T03:16:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
