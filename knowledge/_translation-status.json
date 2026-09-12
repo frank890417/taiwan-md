@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T09:34:17+08:00",
-    "zhCommitHead": "ab4f63d2b",
+    "lastUpdated": "2026-09-12T10:36:27+08:00",
+    "zhCommitHead": "5f66bab3e",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 392,
+        "fresh": 402,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 722,
+        "missing": 712,
         "orphan": 0
       }
     },
@@ -8533,7 +8533,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/economic-miracle.md",
+          "translatedFrom": "Economy/經濟奇蹟.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:97768e7e71587490",
+          "sourceBodyHash": "sha256:411e4d6f8779c88a",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -14291,7 +14302,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-stock-market.md",
+          "translatedFrom": "Economy/台灣股市與資本市場.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:323486e516e428ed",
+          "sourceBodyHash": "sha256:c34c5e10c2fbc812",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -20770,8 +20792,8 @@
           "sourceContentHash": "sha256:905a736099878754",
           "sourceBodyHash": "sha256:f134440a7453a1a5",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f66bab3",
+          "translationLastModified": "2026-09-12T09:34:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -29626,7 +29648,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/chi-po-hao-musician.md",
+          "translatedFrom": "Art/紀柏豪.md",
+          "sourceCommitSha": "4138a07a1",
+          "sourceContentHash": "sha256:cc5a95c84301cdb2",
+          "sourceBodyHash": "sha256:584bf91da94df29e",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -33367,8 +33400,8 @@
           "sourceContentHash": "sha256:24d3c436839c65a5",
           "sourceBodyHash": "sha256:952b491f965877b0",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f66bab3",
+          "translationLastModified": "2026-09-12T09:34:17+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -34453,7 +34486,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/new-ecological-art-environment.md",
+          "translatedFrom": "Art/新生態藝術環境.md",
+          "sourceCommitSha": "c99df6503",
+          "sourceContentHash": "sha256:89f4f7c40c7428d6",
+          "sourceBodyHash": "sha256:dde1ab9552710d18",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -44224,7 +44268,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/pansci.md",
+          "translatedFrom": "Society/泛科學.md",
+          "sourceCommitSha": "2ed57e086",
+          "sourceContentHash": "sha256:81628aa1fa2a0014",
+          "sourceBodyHash": "sha256:004993e686695dd6",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -44514,7 +44569,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/remote-area-schools-education-act.md",
+          "translatedFrom": "Society/偏遠地區學校教育發展條例全解.md",
+          "sourceCommitSha": "d7a109601",
+          "sourceContentHash": "sha256:3a5b64aac1eb2c2e",
+          "sourceBodyHash": "sha256:1640a85ec53af696",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53921,8 +53987,8 @@
           "sourceContentHash": "sha256:7ebf5415595c2d0c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T01:15:21.005741+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f66bab3",
+          "translationLastModified": "2026-09-12T09:34:17+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -74662,8 +74728,8 @@
           "sourceContentHash": "sha256:9f8381739b864e8b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T00:24:21.457260+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f66bab3",
+          "translationLastModified": "2026-09-12T09:34:17+08:00",
           "inferred": false,
           "footnoteDefs": 35,
           "status": "fresh",
@@ -81570,7 +81636,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/cheng-chou-yu-poet.md",
+          "translatedFrom": "People/鄭愁予.md",
+          "sourceCommitSha": "cce7f2522",
+          "sourceContentHash": "sha256:05733d2c54bfc625",
+          "sourceBodyHash": "sha256:77382e9a08c09f18",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -88072,7 +88149,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/waa-wei-singer.md",
+          "translatedFrom": "People/魏如萱.md",
+          "sourceCommitSha": "4a7c2bfc8",
+          "sourceContentHash": "sha256:f58a33f97c50539d",
+          "sourceBodyHash": "sha256:21b9be483a88d65c",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -106407,7 +106495,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chi-huai-hsin.md",
+          "translatedFrom": "People/紀懷新.md",
+          "sourceCommitSha": "95f42de83",
+          "sourceContentHash": "sha256:53560e337a2fa524",
+          "sourceBodyHash": "sha256:826517ecee263b74",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -129470,8 +129569,8 @@
           "sourceContentHash": "sha256:3b733793cef0fe14",
           "sourceBodyHash": "sha256:e6a1e14a24970623",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f66bab3",
+          "translationLastModified": "2026-09-12T09:34:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -133777,8 +133876,8 @@
           "sourceContentHash": "sha256:86be5fe44de05439",
           "sourceBodyHash": "sha256:ad35178eae665c53",
           "translatedAt": "2026-09-12T04:55:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f66bab3",
+          "translationLastModified": "2026-09-12T09:34:17+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -155921,7 +156020,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/archipelago-thinking.md",
+          "translatedFrom": "Culture/群島思維.md",
+          "sourceCommitSha": "0c0b16686",
+          "sourceContentHash": "sha256:69f8f034dcafc5a6",
+          "sourceBodyHash": "sha256:f5fbc7ca5aa903a2",
+          "translatedAt": "2026-09-12T09:12:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
