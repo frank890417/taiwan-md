@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T07:04:14+08:00",
-    "zhCommitHead": "0ac5e2601",
+    "lastUpdated": "2026-09-13T07:25:38+08:00",
+    "zhCommitHead": "42dbd5c71",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 625,
+        "fresh": 626,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 439,
+        "missing": 438,
         "orphan": 0
       },
       "pt": {
@@ -139972,7 +139972,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/suao-cold-spring.md",
+          "translatedFrom": "Geography/蘇澳冷泉.md",
+          "sourceCommitSha": "78d491c5d",
+          "sourceContentHash": "sha256:eca62ab119321799",
+          "sourceBodyHash": "sha256:6e4c77ec70105e99",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/suao-cold-spring.md",
