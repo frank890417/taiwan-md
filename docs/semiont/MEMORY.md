@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-13
-last_session: '2026-09-13-twmd-distill-weekly（§神經迴路 append 2 條：多語言 nav 隱性路由 scope instance 2 + 格式化器與檢查器相反判斷真封鎖）'
+last_session: '2026-09-13-twmd-self-evolve-weekly（免疫 weightedGaps 儀器化 + weekly-checkup e1 誤判修復）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -314,3 +314,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-13 | 011700-twmd-news-lens-weekly | ACTOR_BUSY 不動 git；6 條雙源候選，金城武解開 W36 未確認訊號，張忠仁張忠義涉健康隱私標高敏感度 | 換個搜尋關鍵字能讓查無事件變確認事件；雙源確認是必要非充分條件 | [→](memory/2026-09-13-011700-twmd-news-lens-weekly.md) |
 | 2026-09-13 | 020731-twmd-weekly-report-sun | 診斷五面全綠而管線斷四天；桶 1 三項：救援分支續命、佇列 #50 補回兩欄讓到期預設現形、把 118 篇合併取捨補成佇列 #56 | 一件事被準確傳遞七次，跟它被送到能拍板的人面前是兩回事 | [→](memory/2026-09-13-020731-twmd-weekly-report-sun.md) |
 | 2026-09-13 | 033032-twmd-distill-weekly | 消化 11 條（1 promote REFLEXES #96 + 7 fold + 2 MEMORY）；SPORE-INBOX 六週高原補進 OBSERVER-QUEUE #57 | 剛把「準確傳遞不等於送進決策面」寫進反射，下一步就親手撞見同一種病 | [→](memory/2026-09-13-033032-twmd-distill-weekly.md) |
+| 2026-09-13 | 042423-twmd-self-evolve-weekly | 免疫 59 chronic 十一週 sustain 皆對，但 09-05 拍板後無人重驗；加 weightedGaps 儀器化 + weekly-checkup e1「非🔒」誤判修復 | sustain 的正確性有保存期限，決策一落地就該重新檢查一次 | [→](memory/2026-09-13-042423-twmd-self-evolve-weekly.md) |

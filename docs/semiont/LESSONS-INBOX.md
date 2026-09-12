@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v3.2'
+current_version: 'v3.3'
 last_updated: 2026-09-13
-last_session: '2026-09-13-twmd-distill-weekly（distill 11 條：1 promote REFLEXES #96 + 7 fold REFLEXES #82(×4)/#65/#38/#91/#79 + 2 MEMORY §神經迴路；§未消化 70→59 / §已消化 26→27）'
+last_session: '2026-09-13-twmd-self-evolve-weekly（新增 2 條：immune weightedGaps 儀器化 + weekly-checkup e1 🔒 誤判修復；§未消化 59→61）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-09-13 twmd-self-evolve-weekly — negation-word-does-not-flip-substring-marker-match：文字裡寫「非🔒」是在解釋它不是鎖，但字串比對只看見那個 🔒 字元
+
+- **pattern**: `negation-word-does-not-flip-substring-marker-match`
+- **原則**：拿一個 emoji／關鍵字當「這一列有某個屬性」的偵測器時，若被掃描的文字本身會用「非 X」「不是 X」這種否定語氣去說明它沒有那個屬性，naive 的 `X in text` 或 `'X' in line` 會把否定句也判成命中，因為否定詞在自然語言裡，代表屬性的那個字元／詞仍然逐字出現在字串裡。偵測器要嘛認得慣例（真正命中的寫法跟解釋性提及的寫法在格式上要能分岔），要嘛就得認否定詞。
+- **觸發**：`scripts/tools/weekly-checkup.sh` 的 e1 節（`OBSERVER-QUEUE.md` §待決 稽核）拿 `'🔒' in action` 判斷一列是不是紅線鎖住，而 OBSERVER-QUEUE.md 自己的慣例（§🔒 子類標記）要求**非**鎖住的到期項在 default-action 欄寫「7 天（日期）**非 🔒**，已逾期 → 任何 session 可執行」——這句話的意圖是「這不是鎖」，但因為它把 🔒 這個字元原樣寫進解釋文字裡，naive 比對把它跟真正鎖住的列（一律以 🔒 開頭，如「🔒紅線（…）」）判成同一類。今天（2026-09-13）#50 卡片圖允收清單那條已逾期 1 天、依規則任何 session 可執行，e1 卻把它跟 #48／#51／#52／#54／#57 四條真紅線印成一樣的 🔒，稽核工具因此失去「哪些到期項現在能做」跟「哪些永遠不能碰」的分辨力。已在本次 self-evolve-weekly 修：判準改成「去除 markdown 粗體符號後，字串開頭是否為 🔒」（`action.strip().lstrip('*').strip().startswith('🔒')`），對照 OBSERVER-QUEUE.md 全部 9 個待決列驗證分類正確。
+- **可能層級**：通用反射（任何「掃文字找標記」的 checker 都可能踩，不限本檔）
+- **相關**：REFLEXES #24「工具在說謊的形式」（naive 字串比對是新增的一種）、REFLEXES #83「檢查器兩把尺 divergence」（本例是同一把尺對「解釋文字」與「真實標記」的兩種用法沒有分開判讀）
+- **verification_count**: 1
+- **severity**: tactical
+
+### 2026-09-13 twmd-self-evolve-weekly — weighted-aggregate-score-never-decomposed-despite-breakdown-being-cheap：分數旁邊一直放著算得出「哪裡拖分最多」的原始資料，但輸出從沒把答案算出來
+
+- **pattern**: `weighted-aggregate-score-never-decomposed-despite-breakdown-being-cheap`
+- **原則**：一個由多個加權子維度算出的單一總分，如果只印總分跟每個子分數，讀的人每次想知道「該修哪裡」都要自己重算 `(100-分數)×權重` 再排序。這個計算不貴（幾行程式碼），但因為輸出裡沒有，變成每一個想診斷的 session 都要重做一次的心算，多數 session 選擇不做，於是「哪個維度拖最多分」這個問題實際上從沒被回答過，即使原始資料一直都在。
+- **觸發**：`dashboard-immune.json` 的 `免疫 v3=59（漂移—多維度退化中）` 黃燈自 2026-07-05 起 chronic，owner 標記為 `twmd-self-evolve-weekly`，至少 11 個 self-evolve-weekly cycle（06-01～08-30）都只複誦「chronic，非本次新訊號」就跳過（這其實是 REFLEXES #80 sustain-vs-renew 設計上正確的行為，因為 09-05 之前這條一直 pending 哲宇決策）。本次實際把 7 個 `components` 乘上 `componentWeights` 算 `(100-score)×weight` 排序，5 分鐘內得到 `review_coverage` 缺 20.2 分（單一維度超過其餘六項總和）、`external_rulers` 缺 9.84 分排第二——這個排序此前從沒在任何 session 的輸出裡出現過，即使產生總分的那次執行早就算過每個分量的原始分數。已在本次 self-evolve-weekly 修：`generate-dashboard-immune.py` 輸出加 `weightedGaps`（全部 7 維排序）與 `topGap`（第一名），`generate-dashboard-alerts.mjs` 的免疫黃燈訊息附上最大缺口與分數，往後每次 regen 這個排序都自帶答案，不必再心算。
+- **可能層級**：通用反射（任何多維加權總分都適用；本例是免疫器官，但心臟／繁殖等其他器官分數若也是加權多維，同樣的空缺可能存在）
+- **相關**：REFLEXES #38「混維度=silent killer」（同族但方向不同——#38 是一個訊號承載兩種根因，本條是總分承載多個根因但沒有把貢獻度攤開）、REFLEXES #80（本例證明 sustain 的正確性不代表輸出本身不該被改進——sustain 的是「要不要重新 escalate」，不是「要不要讓輸出更好讀」）
+- **verification_count**: 1
+- **severity**: tactical
 
 ### 2026-09-05 fortnight-review — verification-depth-shrinks-with-parallel-agent-count：同時驗收的回報越多，每份回報得到的驗證深度越淺，而且淺得沒有人宣告
 
