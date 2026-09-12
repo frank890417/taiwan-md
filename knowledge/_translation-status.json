@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T04:52:56+08:00",
-    "zhCommitHead": "0d85b8d3d",
+    "lastUpdated": "2026-09-13T05:50:57+08:00",
+    "zhCommitHead": "a41bcc273",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 821,
+        "fresh": 822,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 208,
+        "missing": 207,
         "orphan": 0
       },
       "es": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 734,
+        "fresh": 735,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 230,
+        "missing": 229,
         "orphan": 0
       },
       "id": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 525,
+        "fresh": 526,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 589,
+        "missing": 588,
         "orphan": 0
       }
     },
@@ -72039,8 +72039,8 @@
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db40d89b",
+          "translationLastModified": "2026-09-13T04:52:57+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -75603,8 +75603,8 @@
           "sourceContentHash": "sha256:47672068ff2f222b",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db40d89b",
+          "translationLastModified": "2026-09-13T04:52:57+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -106397,8 +106397,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db40d89b",
+          "translationLastModified": "2026-09-13T04:52:57+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -119003,15 +119003,26 @@
           "sourceContentHash": "sha256:9e0f798883cbe5d7",
           "sourceBodyHash": "sha256:3b14e4290a67452c",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db40d89b",
+          "translationLastModified": "2026-09-13T04:52:57+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/cantonese-roast-meat-bento.md",
+          "translatedFrom": "Food/燒臘便當.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:9e0f798883cbe5d7",
+          "sourceBodyHash": "sha256:3b14e4290a67452c",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -131976,8 +131987,8 @@
           "sourceContentHash": "sha256:d166faa74a30d730",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db40d89b",
+          "translationLastModified": "2026-09-13T04:52:57+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -139916,7 +139927,18 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/suao-cold-spring.md",
+          "translatedFrom": "Geography/蘇澳冷泉.md",
+          "sourceCommitSha": "78d491c5d",
+          "sourceContentHash": "sha256:eca62ab119321799",
+          "sourceBodyHash": "sha256:6e4c77ec70105e99",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -139925,7 +139947,18 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/suao-cold-spring.md",
+          "translatedFrom": "Geography/蘇澳冷泉.md",
+          "sourceCommitSha": "78d491c5d",
+          "sourceContentHash": "sha256:eca62ab119321799",
+          "sourceBodyHash": "sha256:6e4c77ec70105e99",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -153658,8 +153691,8 @@
           "sourceContentHash": "sha256:e24d7260c5b6a2bc",
           "sourceBodyHash": "sha256:00444a759deb7a89",
           "translatedAt": "2026-09-13T00:44:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db40d89b",
+          "translationLastModified": "2026-09-13T04:52:57+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
