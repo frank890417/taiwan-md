@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-12T06:16:58+08:00",
-  "fetched_by": "twmd-data-refresh-am",
+  "fetched_at": "2026-09-13T02:08:27+08:00",
+  "fetched_by": "2026-09-13-020731-twmd-weekly-report-sun",
   "source": "mcp scheduled-tasks list_scheduled_tasks",
   "note": "S1 根治第一塊磚（dna-audit 2026-07-05）：live scheduler 狀態 git 可見化。只含 twmd-/taiwanmd- 任務（私人 routine 已過濾），消費者 = routine-sync-check.py v3 三層比對。",
   "enabled_count": 14,
@@ -11,16 +11,16 @@
       "description": "（每天 07:00 Asia/Taipei = 23:00 UTC）。把讀者站上回報轉成 GitHub issue 接 MAINTAINER 飛輪，並把 canonical 紀錄落進 git（主權層）。",
       "cronExpression": "0 7 * * *",
       "enabled": true,
-      "lastRunAt": "2026-09-10T23:05:59.595Z",
-      "nextRunAt": "2026-09-11T23:05:23.000Z"
+      "lastRunAt": "2026-09-11T23:06:03.887Z",
+      "nextRunAt": "2026-09-12T23:05:23.000Z"
     },
     {
       "taskId": "twmd-babel-nightly",
       "description": "TWMD babel (nightly) — 00:30 多語同步，義務跑到 stale=0；語言數以 registry 為準不寫死（v4.0 薄殼化 + Stage 0 算力自檢 + 統一調度器）",
       "cronExpression": "30 0 * * *",
       "enabled": true,
-      "lastRunAt": "2026-09-11T16:34:07.234Z",
-      "nextRunAt": "2026-09-12T16:33:27.000Z"
+      "lastRunAt": "2026-09-12T16:34:09.761Z",
+      "nextRunAt": "2026-09-13T16:33:27.000Z"
     },
     {
       "taskId": "twmd-data-refresh-am",
@@ -59,16 +59,16 @@
       "description": "TWMD maintainer (am @ 08:30) — daytime contributor PR review (v4.0 薄殼化 2026-09-05 + STRICT BECOME + 空場 ≥3 cycle LESSONS escalate, main-direct, opus)",
       "cronExpression": "30 8 * * *",
       "enabled": true,
-      "lastRunAt": "2026-09-11T00:39:07.942Z",
-      "nextRunAt": "2026-09-12T00:38:31.000Z"
+      "lastRunAt": "2026-09-12T00:39:12.013Z",
+      "nextRunAt": "2026-09-13T00:38:31.000Z"
     },
     {
       "taskId": "twmd-news-lens-weekly",
       "description": "TWMD news lens (weekly) — Sunday 01:00 三源交叉 + news-lens-spore-output 5-7 P1 candidates (v3.0 inline + STRICT BECOME, main-direct)",
       "cronExpression": "0 1 * * 0",
       "enabled": true,
-      "lastRunAt": "2026-09-05T17:05:18.289Z",
-      "nextRunAt": "2026-09-12T17:04:56.000Z"
+      "lastRunAt": "2026-09-12T17:05:38.799Z",
+      "nextRunAt": "2026-09-19T17:04:56.000Z"
     },
     {
       "taskId": "twmd-rewrite-daily",
@@ -107,8 +107,8 @@
       "description": "TWMD spore harvest (am) — daily 06:30 full-auto Chrome MCP audience flywheel cycle + Pitfall 6 max 1 retry (v3.0 inline + STRICT BECOME, main-direct, opus)",
       "cronExpression": "30 6 * * *",
       "enabled": true,
-      "lastRunAt": "2026-09-10T22:34:24.573Z",
-      "nextRunAt": "2026-09-11T22:33:48.000Z"
+      "lastRunAt": "2026-09-11T22:34:28.856Z",
+      "nextRunAt": "2026-09-12T22:33:48.000Z"
     },
     {
       "taskId": "twmd-spore-pick-daily",
@@ -147,8 +147,8 @@
       "description": "TWMD weekly 體檢 (sun) — Sunday 02:00 分析＋全身診斷五面＋修復三桶＋第一人稱反芻週報 + §11 紀律 (v4.0 inline + STRICT BECOME, main-direct, opus)",
       "cronExpression": "0 2 * * 0",
       "enabled": true,
-      "lastRunAt": "2026-09-05T18:03:44.094Z",
-      "nextRunAt": "2026-09-12T18:03:22.000Z"
+      "lastRunAt": "2026-09-12T18:04:05.831Z",
+      "nextRunAt": "2026-09-19T18:03:22.000Z"
     }
   ]
 }
