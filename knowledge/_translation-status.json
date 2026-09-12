@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T02:24:44+08:00",
-    "zhCommitHead": "09de2f5e6",
+    "lastUpdated": "2026-09-13T02:44:08+08:00",
+    "zhCommitHead": "b1bacd5fe",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 812,
+        "fresh": 813,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 214,
+        "missing": 213,
         "orphan": 0
       },
       "ja": {
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 216,
+        "missing": 215,
         "orphan": 0
       },
       "es": {
@@ -52,26 +52,26 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 802,
+        "fresh": 803,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 219,
+        "missing": 218,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 727,
+        "fresh": 728,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 237,
+        "missing": 236,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 620,
+        "fresh": 621,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 444,
+        "missing": 443,
         "orphan": 0
       },
       "pt": {
@@ -92,26 +92,26 @@
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 725,
+        "fresh": 726,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 339,
+        "missing": 338,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 762,
+        "fresh": 763,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 308,
+        "missing": 307,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 518,
+        "fresh": 519,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 596,
+        "missing": 595,
         "orphan": 0
       }
     },
@@ -39595,19 +39595,52 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/307taipeibus.md",
+          "translatedFrom": "Lifestyle/307taipeibus.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:c1027a26b2054b2e",
+          "sourceBodyHash": "sha256:48c6ab2b08ee901b",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/307taipeibus.md",
+          "translatedFrom": "Lifestyle/307taipeibus.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:c1027a26b2054b2e",
+          "sourceBodyHash": "sha256:48c6ab2b08ee901b",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/307taipeibus.md",
+          "translatedFrom": "Lifestyle/307taipeibus.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:c1027a26b2054b2e",
+          "sourceBodyHash": "sha256:48c6ab2b08ee901b",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -41650,8 +41683,8 @@
           "sourceContentHash": "sha256:e4d0887ad2be656b",
           "sourceBodyHash": "sha256:185b659b9a1b47ea",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b1bacd5f",
+          "translationLastModified": "2026-09-13T02:24:44+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -41686,7 +41719,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/leofoo-village.md",
+          "translatedFrom": "Lifestyle/六福村.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:e4d0887ad2be656b",
+          "sourceBodyHash": "sha256:185b659b9a1b47ea",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/leofoo-village.md",
@@ -41709,10 +41753,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/leofoo-village.md",
+          "translatedFrom": "Lifestyle/六福村.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:e4d0887ad2be656b",
+          "sourceBodyHash": "sha256:185b659b9a1b47ea",
+          "translatedAt": "2026-09-13T00:44:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/leofoo-village.md",
+          "translatedFrom": "Lifestyle/六福村.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:e4d0887ad2be656b",
+          "sourceBodyHash": "sha256:185b659b9a1b47ea",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -72263,8 +72329,8 @@
           "sourceContentHash": "sha256:d22d7298dff5ac3a",
           "sourceBodyHash": "sha256:7b62e2a912ba5344",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b1bacd5f",
+          "translationLastModified": "2026-09-13T02:24:44+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -93530,7 +93596,18 @@
           "diffSummary": "+1 -1"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/hur-plus-band.md",
+          "translatedFrom": "People/HUR-plus.md",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:7b6f1e2f33e3f99d",
+          "sourceBodyHash": "sha256:396a9fed148c94a2",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -102649,8 +102726,8 @@
           "sourceContentHash": "sha256:695b08b5d7d2de65",
           "sourceBodyHash": "sha256:6c22ac71a15a46ba",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b1bacd5f",
+          "translationLastModified": "2026-09-13T02:24:44+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -123671,7 +123748,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/taichu-prefectural-hall.md",
+          "translatedFrom": "History/台中州廳.md",
+          "sourceCommitSha": "39cb84dab",
+          "sourceContentHash": "sha256:17af96b268beb6de",
+          "sourceBodyHash": "sha256:2beca8976bf8f3ea",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -126630,8 +126718,8 @@
           "sourceContentHash": "sha256:50b4c719b7719ddb",
           "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b1bacd5f",
+          "translationLastModified": "2026-09-13T02:24:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -156068,8 +156156,8 @@
           "sourceContentHash": "sha256:69f1aed62a2df405",
           "sourceBodyHash": "sha256:1bd762ed30b04b56",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b1bacd5f",
+          "translationLastModified": "2026-09-13T02:24:44+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
