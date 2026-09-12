@@ -2,12 +2,12 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-09-11",
+    "last_census": "2026-09-12",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 575983,
-      "users": 328952
+      "views": 578796,
+      "users": 331192
     },
     "dev_noise": {
       "views": 12250,
@@ -135,13 +135,13 @@
       "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
-        "views": 121,
-        "users": 71
+        "views": 122,
+        "users": 72
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 113,
-        "users": 65
+        "views": 114,
+        "users": 66
       },
       "confidence": "high",
       "notes": "最徹底的 credit;自建 Russia-specific agent 層而非繼承 semiont kernel"
@@ -165,8 +165,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 151,
-        "users": 109
+        "views": 153,
+        "users": 111
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -200,8 +200,8 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 150,
-        "users": 106
+        "views": 152,
+        "users": 108
       },
       "last_seen": "2026-09",
       "first_seen": "2026-07"

@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-13T02:08:27+08:00",
-  "fetched_by": "2026-09-13-020731-twmd-weekly-report-sun",
+  "fetched_at": "2026-09-13T06:35:11+08:00",
+  "fetched_by": "twmd-data-refresh-am",
   "source": "mcp scheduled-tasks list_scheduled_tasks",
   "note": "S1 根治第一塊磚（dna-audit 2026-07-05）：live scheduler 狀態 git 可見化。只含 twmd-/taiwanmd- 任務（私人 routine 已過濾），消費者 = routine-sync-check.py v3 三層比對。",
   "enabled_count": 14,
@@ -27,24 +27,24 @@
       "description": "TWMD data refresh (am) — daytime 06:00 dashboard 14-step sync (v3.0 inline + STRICT BECOME, main-direct)",
       "cronExpression": "0 6 * * *",
       "enabled": true,
-      "lastRunAt": "2026-09-11T22:09:56.106Z",
-      "nextRunAt": "2026-09-12T22:09:15.000Z"
+      "lastRunAt": "2026-09-12T22:10:00.508Z",
+      "nextRunAt": "2026-09-13T22:09:15.000Z"
     },
     {
       "taskId": "twmd-distill-weekly",
       "description": "TWMD distill (weekly) — Sunday 03:00 LESSONS-INBOX 三層 distill (MANIFESTO/REFLEXES/MEMORY) + SPORE-INBOX 容量 audit (v3.0 inline + STRICT BECOME, main-direct, opus)",
       "cronExpression": "0 3 * * 0",
       "enabled": true,
-      "lastRunAt": "2026-09-05T19:04:35.232Z",
-      "nextRunAt": "2026-09-12T19:04:13.000Z"
+      "lastRunAt": "2026-09-12T19:04:56.974Z",
+      "nextRunAt": "2026-09-19T19:04:13.000Z"
     },
     {
       "taskId": "twmd-embeddings-nightly",
       "description": "TWMD embeddings (nightly @ 05:00) — bge-m3 semantic index rebuild → src/data/related (reader related-articles) + public/api/rag (RAG vectors). Local mac-m4max primary + fleet fallback (v1.1 2026-07-05). Sovereignty-preserving, graceful-skip if embed host down. Canonical EMBEDDING-PIPELINE, thin shell, sonnet.",
       "cronExpression": "0 5 * * *",
       "enabled": true,
-      "lastRunAt": "2026-09-11T21:06:09.739Z",
-      "nextRunAt": "2026-09-12T21:05:29.000Z"
+      "lastRunAt": "2026-09-12T21:06:15.761Z",
+      "nextRunAt": "2026-09-13T21:05:29.000Z"
     },
     {
       "taskId": "twmd-founder-lens-weekly",
@@ -91,16 +91,16 @@
       "description": "（每天 05:30 Asia/Taipei = 21:30 UTC）。讓這台機器上的 routine prompt 與排程設定，跟 git 裡的 routine SSOT 對齊；對不上就修，修不了就報。",
       "cronExpression": "30 5 * * *",
       "enabled": true,
-      "lastRunAt": "2026-09-11T21:36:16.999Z",
-      "nextRunAt": "2026-09-12T21:35:36.000Z"
+      "lastRunAt": "2026-09-12T21:36:21.050Z",
+      "nextRunAt": "2026-09-13T21:35:36.000Z"
     },
     {
       "taskId": "twmd-self-evolve-weekly",
       "description": "TWMD self-evolve (weekly) — Sunday 04:00 LONGINGS-driven 真實 ship canonical 修改 (v3.0 inline + STRICT BECOME, main-direct, opus)",
       "cronExpression": "0 4 * * 0",
       "enabled": true,
-      "lastRunAt": "2026-09-05T20:09:16.265Z",
-      "nextRunAt": "2026-09-12T20:08:54.000Z"
+      "lastRunAt": "2026-09-12T20:09:38.539Z",
+      "nextRunAt": "2026-09-19T20:08:54.000Z"
     },
     {
       "taskId": "twmd-spore-harvest-am",
@@ -108,7 +108,7 @@
       "cronExpression": "30 6 * * *",
       "enabled": true,
       "lastRunAt": "2026-09-11T22:34:28.856Z",
-      "nextRunAt": "2026-09-12T22:33:48.000Z"
+      "nextRunAt": "2026-09-13T22:33:48.000Z"
     },
     {
       "taskId": "twmd-spore-pick-daily",

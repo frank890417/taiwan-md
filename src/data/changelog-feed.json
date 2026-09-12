@@ -1,7 +1,427 @@
 {
-  "generatedAt": "2026-09-11T22:14:43.391Z",
+  "generatedAt": "2026-09-12T22:22:36.463Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "f2a632d800babe3dc0e023287b55e6bb842da976",
+      "date": "2026-09-13T06:12:48+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 6 篇（unified dispatcher, worker=lagunas+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "e4a15e53a47237226f21d669d91662a56617b3af",
+      "date": "2026-09-13T06:02:50+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "8439cec956ca4b35421732fde819f9d45668632a",
+      "date": "2026-09-13T05:55:56+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 3 篇（unified dispatcher, worker=lagunas）",
+      "articles": []
+    },
+    {
+      "hash": "19dc54af540ea7c18669ced32bdb6fbcfb66ffc6",
+      "date": "2026-09-13T05:50:57+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 6 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "a41bcc273d3d10c54c8849a260b75dc79c58ed9e",
+      "date": "2026-09-13T05:41:23+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-routine-sync: 第 47 輪對賬 18/18 in-sync，零漂移",
+      "articles": []
+    },
+    {
+      "hash": "db40d89bc1fc741422d9353fae173da82ea9dc49",
+      "date": "2026-09-13T04:52:57+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ru 批次 7 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "0d85b8d3dcb5d35189b5fe476803544093a306e4",
+      "date": "2026-09-13T04:36:39+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 6 篇（unified dispatcher, worker=macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "bd34617ddf4067ee3632b82ab1b44a817fe34bca",
+      "date": "2026-09-13T04:30:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 7 篇（unified dispatcher, worker=macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "90bdddb5f2971c1f89fa1ad754abe5017ca3d18b",
+      "date": "2026-09-13T04:30:10+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory+diary: twmd-self-evolve-weekly @ 2026-09-13 04:24 — 十一次正確的沉默，一次沒人重驗的拍板",
+      "articles": []
+    },
+    {
+      "hash": "96240cbb6142cfe4f8fd29bc2d54c7cdb7648d7b",
+      "date": "2026-09-13T04:29:46+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: 免疫黃燈加權缺口儀器化 + 佇列稽核「非🔒」誤判修復",
+      "articles": []
+    },
+    {
+      "hash": "c82133d3d2c1fdbb190aa785f8e8f29e1da6d17c",
+      "date": "2026-09-13T04:02:05+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 7 篇（unified dispatcher, worker=lagunas+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "9755251ffd143bfc723bbca788fc28c078adb59f",
+      "date": "2026-09-13T03:50:43+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "9a80f6545f3f0f4f2ac914ae048afffe0345795f",
+      "date": "2026-09-13T03:32:38+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-distill-weekly @ 2026-09-13 03:30 — distill 本身撞見了它剛記錄的病，一則六週前就該送出的決定順手真正路由出去",
+      "articles": []
+    },
+    {
+      "hash": "e64d434e47b8df8d3d6ba1ce0326320d70674eb2",
+      "date": "2026-09-13T03:29:27+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-distill-weekly: 消化 11 條教訓——新反射「已知道會壞不減少壞的機率」，還有一則六週沒被送進決策佇列的蓄水位提醒",
+      "articles": []
+    },
+    {
+      "hash": "936e60f0a2ca64ae9b84795aca7abc6fd16d6b26",
+      "date": "2026-09-13T03:24:27+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "687a2b7870b0b9ad7c62ba0f5e68959b78ef174d",
+      "date": "2026-09-13T03:19:18+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "6d0c40312445fe33a969cc755b3a30768208ab89",
+      "date": "2026-09-13T03:16:55+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 5 篇（unified dispatcher, worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "7ae0ae239d3fedf46c586c888e224e504eaf6c7b",
+      "date": "2026-09-13T03:13:11+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: fr 批次 7 篇（unified dispatcher, worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "250dfde02bad80202ab8589cb396d820c79653ab",
+      "date": "2026-09-13T03:13:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "4bac76ab5dcfdf7f4ec3e5c40fef698bf8e99c92",
+      "date": "2026-09-13T03:09:52+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ru 批次 5 篇（unified dispatcher, worker=macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "26205d14a9c85cb45aa49e6141e65b214d9cabc1",
+      "date": "2026-09-13T02:58:07+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "1b038653303e317ac38f141633fcab2464ea7da8",
+      "date": "2026-09-13T02:44:09+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "b1bacd5fefc3b92f79dc0b691f967e6b5483cceb",
+      "date": "2026-09-13T02:24:44+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 6 篇（unified dispatcher, worker=macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "09de2f5e648b642c841ff5884fcf1819f565a649",
+      "date": "2026-09-13T02:23:42+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: 兩則教訓入庫——準確的傳遞取代了送達，還有一個為了取代替身而造的尺自己也是替身",
+      "articles": []
+    },
+    {
+      "hash": "1d9a6301bd3939d226c61ec6455de4e2490d16a4",
+      "date": "2026-09-13T02:22:21+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory+diary: twmd-weekly-report-sun @ 2026-09-13 — 五面全綠而管線斷了四天，而那個決定七天沒進過決策面",
+      "articles": []
+    },
+    {
+      "hash": "d0c53e6f189f91e9cdf40d301c5941f167b27b2f",
+      "date": "2026-09-13T02:19:29+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "770f1700429c038a479b04bc9c82cc923c0b98e6",
+      "date": "2026-09-13T02:18:34+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] report: W37 週體檢——飛輪七天全勤，而它的產出從週三起就到不了讀者那一端",
+      "articles": []
+    },
+    {
+      "hash": "a9269ded74d4f2c555f681ad5a31c97d739fae48",
+      "date": "2026-09-13T02:14:18+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: 進化規劃 roll 進 W37 三項，其中一項是三把尺今天都誠實地回答了錯的問題",
+      "articles": []
+    },
+    {
+      "hash": "ec33a502f0df5deeeffd0c4e29402171cb141add",
+      "date": "2026-09-13T02:13:09+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: 把本週最貴的那個待決搬進待決佇列，它原本只活在一則 issue 留言裡",
+      "articles": []
+    },
+    {
+      "hash": "dfd83bc2026c56d3473feebd88e24d654cb05f84",
+      "date": "2026-09-13T02:12:26+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] heal: 待決佇列第 50 項的表格少了兩欄，體檢掃描因此看不見一個已經到期的預設",
+      "articles": []
+    },
+    {
+      "hash": "d73e6d7ced6a5964a626697a942415b6e4948000",
+      "date": "2026-09-13T01:19:21+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-news-lens-weekly: W37 三源交叉，6 條候選（出口關閉）— 金城武解開 W36 未確認訊號，張忠仁張忠義涉健康隱私標記高敏感度",
+      "articles": []
+    },
+    {
+      "hash": "eb3b96318b41a224fb317d83f3523d51dfcb8786",
+      "date": "2026-09-13T00:51:35+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-babel-nightly @ 2026-09-13 00:49 — 重啟卡住的巴別塔，兩個系統性洞當場補",
+      "articles": []
+    },
+    {
+      "hash": "1d57a0d5718e1b8b3582a8bc13d0856698147904",
+      "date": "2026-09-13T00:48:49+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] heal: 46 篇新中文條目補齊英文 slug，解開巴別塔全語言卡關",
+      "articles": []
+    },
+    {
+      "hash": "6241bc55157a556c70c2f0218c0ec2474a454549",
+      "date": "2026-09-12T21:26:49+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 2 篇（unified dispatcher, worker=macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "ab6305f7824f78ebe614d825f855f2327ad22fe9",
+      "date": "2026-09-12T21:26:28+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 2 篇（unified dispatcher, worker=macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "1b1b5127bfadc1c46c13aa9c390ccb0082990361",
+      "date": "2026-09-12T21:26:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 2 篇（unified dispatcher, worker=nemo）",
+      "articles": []
+    },
+    {
+      "hash": "a1b29b2b6f6aba21506ce409baf69507a0a07cc3",
+      "date": "2026-09-12T20:45:48+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "94f202f66c08fb2a2daa0714f79fb182a9d3f5f2",
+      "date": "2026-09-12T19:53:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "3a4722a1f0af4ca90cf647c5dae8e281772b858f",
+      "date": "2026-09-12T19:46:29+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "94f3fb37fe2da36cec9b0d5d40cceb45025bb346",
+      "date": "2026-09-12T19:35:46+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "8eee136e00f28d6d89bf072639d5ac1ba921e513",
+      "date": "2026-09-12T17:58:57+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "ea80306ffdd9f8ce54e050d6467b70c3244de750",
+      "date": "2026-09-12T17:50:49+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "e9f1d24ba7b695704270e92ddb86ecada7a6f394",
+      "date": "2026-09-12T17:36:27+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "723152cd2b80ff06b65f85c396adae18a1177c22",
+      "date": "2026-09-12T16:21:30+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "412004a2bab183aa94b56e231bc39ecadbb17ece",
+      "date": "2026-09-12T14:36:47+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "be77822eabc10156e7e334e8f024ebf34662ee46",
+      "date": "2026-09-12T14:21:15+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "a11ee2911526a4272ac1e2ded5b7a0709a87ff89",
+      "date": "2026-09-12T12:52:29+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "80b671ad8dcfad4352affc4f4af259dd67db93d4",
+      "date": "2026-09-12T12:52:08+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 2 篇（unified dispatcher, worker=lagunas）",
+      "articles": []
+    },
+    {
+      "hash": "0b318fb3dbdf336927a873a16dd2becb76d385c1",
+      "date": "2026-09-12T10:53:02+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "44819cad14a32d88abad3ab0b60a6467abe243c7",
+      "date": "2026-09-12T10:36:27+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "5f66bab3ee82939c93622b4c76ba728123ba2149",
+      "date": "2026-09-12T09:34:17+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 7 篇（unified dispatcher, worker=macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "ab4f63d2b9dc5a875b415b74b9b03847a9839511",
+      "date": "2026-09-12T09:12:08+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 2 篇（unified dispatcher, worker=lagunas）",
+      "articles": []
+    },
+    {
+      "hash": "f7690d334ff5140ebeba121d4889e6f17b1c82d6",
+      "date": "2026-09-12T08:53:27+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-12 08:50 — 飛輪沒停，是產出走不到世界那一端",
+      "articles": []
+    },
+    {
+      "hash": "72a4c86d99ca7e5f910a7831a9b7fae4553f9f1a",
+      "date": "2026-09-12T07:38:55+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "5c1d25ae66695b589b83f55569f47649c695b7fa",
+      "date": "2026-09-12T07:29:23+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "68ba33237dcb0eccc53e4dbdff3be4d8b03a9f88",
+      "date": "2026-09-12T07:13:14+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-feedback-triage: 佇列空的第六輪，而昨天量過的歷史讓今天的六點九天讀起來仍然普通",
+      "articles": []
+    },
+    {
+      "hash": "724c2d4db9859b769f4ff83dc07d763b20f809c3",
+      "date": "2026-09-12T06:56:18+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "af54c2712446e067a5614818ba76b7cebf945a0e",
+      "date": "2026-09-12T06:39:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-09-12 06:38 — 第四天 plateau 確認，0 新留言免 ship",
+      "articles": []
+    },
+    {
+      "hash": "7f63c6953af3817863bafdf84ad4236358a30b86",
+      "date": "2026-09-12T06:20:17+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-09-12 06:18 — 第七夜 dispatcher 讓場，13 步全綠",
+      "articles": []
+    },
+    {
+      "hash": "36214ba16e5ebf309099696acd2ea61492eb05d7",
+      "date": "2026-09-12T06:17:49+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] refresh: 每日資料刷新，13 步完成（Step 1 因平行 babel dispatcher 第七夜跳過）",
+      "articles": []
+    },
     {
       "hash": "814b15e2cf7f83a5ffcbd743c540098c1d5f2b34",
       "date": "2026-09-12T05:48:45+08:00",
@@ -83569,545 +83989,6 @@
       "date": "2026-03-22T09:26:11+08:00",
       "author": "frank890417",
       "message": "fix: 地圖 marker 匹配精度大修正 — 移除誤匹配地標 + 精確城市正則 + 分類修復（382→154 高品質 markers）",
-      "articles": []
-    },
-    {
-      "hash": "0f4bde5e402ea7576b2e3eeaa1d7e93aa51c172d",
-      "date": "2026-03-22T09:21:46+08:00",
-      "author": "frank890417",
-      "message": "feat: 地圖大升級 — 自動 marker 填充 + 縣市互動熱力圖（19→382 markers）",
-      "articles": []
-    },
-    {
-      "hash": "db6ef41024175ec5073e71537016c7e177bca319",
-      "date": "2026-03-22T09:13:20+08:00",
-      "author": "frank890417",
-      "message": "feat: add /soundscape page — Taiwan Soundscape sound library",
-      "articles": []
-    },
-    {
-      "hash": "8bd18f252243e551b891127b3c1ea3adf5c06382",
-      "date": "2026-03-22T09:06:57+08:00",
-      "author": "十百千",
-      "message": "feat: 新增南港垃圾車音樂（少女的祈禱）field recording (#138)",
-      "articles": []
-    },
-    {
-      "hash": "218cc0640d747bfa69b4ee330e170741e3cf4f75",
-      "date": "2026-03-22T08:59:02+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 台達電子 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": [
-        {
-          "url": "/economy/台灣企業：台達電子",
-          "name": "台灣企業：台達電子"
-        }
-      ]
-    },
-    {
-      "hash": "db1f8edd3bc59fdf4dbfe18b44c291e64bc4566f",
-      "date": "2026-03-22T08:01:13+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 台灣企業：巨大機械 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": [
-        {
-          "url": "/economy/台灣企業：巨大機械",
-          "name": "台灣企業：巨大機械"
-        }
-      ]
-    },
-    {
-      "hash": "9cda79cd43eeeff91d385104e8561cf08681d6b7",
-      "date": "2026-03-22T07:00:59+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 大立光電 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": [
-        {
-          "url": "/economy/台灣企業：大立光電",
-          "name": "台灣企業：大立光電"
-        }
-      ]
-    },
-    {
-      "hash": "29f7a14af8f5878d28e8bf8162b1e12ad4dc3ede",
-      "date": "2026-03-22T06:01:01+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 台灣企業：富邦金控 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": [
-        {
-          "url": "/economy/台灣企業：富邦金控",
-          "name": "台灣企業：富邦金控"
-        }
-      ]
-    },
-    {
-      "hash": "fb7623924742ecadf56641de534bcd5058ff943b",
-      "date": "2026-03-22T05:00:10+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 宗教與民間信仰 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": [
-        {
-          "url": "/lifestyle/宗教與民間信仰",
-          "name": "宗教與民間信仰"
-        }
-      ]
-    },
-    {
-      "hash": "bbe8e16c18fea79912b4662deab1a41552cfb176",
-      "date": "2026-03-22T04:00:58+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 溫泉文化 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": [
-        {
-          "url": "/lifestyle/溫泉文化",
-          "name": "溫泉文化"
-        }
-      ]
-    },
-    {
-      "hash": "bb4940f6c9f09ff144c621c191607344443cd9ad",
-      "date": "2026-03-22T02:06:07+08:00",
-      "author": "frank890417",
-      "message": "feat: 貢獻頁新增 Token Donation 完整區塊 — 翻譯 Prompt、四步驟流程、一鍵複製",
-      "articles": []
-    },
-    {
-      "hash": "b7bc442d2176c49005cc6d0d72642b291c1ec051",
-      "date": "2026-03-22T02:02:08+08:00",
-      "author": "frank890417",
-      "message": "feat: i18n 多語系翻譯框架 — STYLE.md 作為自動翻譯的語言記憶體（en/ja 先行，其餘待社群）",
-      "articles": []
-    },
-    {
-      "hash": "716c35a331d26b82e58d0d3ba2662ca0e7ef6617",
-      "date": "2026-03-22T01:56:36+08:00",
-      "author": "frank890417",
-      "message": "feat: i18n 多語系翻譯框架 — README + en/ja STYLE.md（其餘語言待社群填充）",
-      "articles": []
-    },
-    {
-      "hash": "7f6f9ef645d107b4e370249364aabefdcfff0c59",
-      "date": "2026-03-22T01:55:40+08:00",
-      "author": "frank890417",
-      "message": "roadmap: Token Donation — 用 AI 剩餘額度翻譯台灣 (Phase 4 新增)",
-      "articles": []
-    },
-    {
-      "hash": "c67f8b900a88adf56abfda8e3dba30fa263b3814",
-      "date": "2026-03-22T01:35:19+08:00",
-      "author": "frank890417",
-      "message": "feat: 文章渲染大升級 — 6 種新樣式 + 台灣字體系統",
-      "articles": [
-        {
-          "url": "/history/二二八事件",
-          "name": "二二八事件"
-        }
-      ]
-    },
-    {
-      "hash": "c4ad6cc8fffc90d389e53e32f4809c041325493c",
-      "date": "2026-03-22T01:31:13+08:00",
-      "author": "frank890417",
-      "message": "editorial v2.1: 新增「九、富文本語法指南」— Callout/PullQuote/Timeline/StatBlock/Compare/Footnote 使用規範",
-      "articles": []
-    },
-    {
-      "hash": "e68134f57c14c2a21df61f013af3ecb5cca55d6e",
-      "date": "2026-03-22T01:12:17+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 太陽花學運 — EDITORIAL v2 深度策展（15+ 來源、場景敘事、十年反思）(zh + en)",
-      "articles": [
-        {
-          "url": "/society/太陽花學運",
-          "name": "太陽花學運"
-        }
-      ]
-    },
-    {
-      "hash": "aa405774d3340e1958f28e0f4e105c88b9f2f82c",
-      "date": "2026-03-22T01:07:27+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 宗教與民間信仰 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": [
-        {
-          "url": "/lifestyle/宗教與民間信仰",
-          "name": "宗教與民間信仰"
-        }
-      ]
-    },
-    {
-      "hash": "d70a0969eb3df9d512b0cfebdf686d7a04d2afda",
-      "date": "2026-03-22T01:02:35+08:00",
-      "author": "frank890417",
-      "message": "feat: 新增 5 則社群評論 (Edward Chen, Ying-Hsin Chang, 陳韋勝, Wuddy Yang, Ang Uijin)",
-      "articles": []
-    },
-    {
-      "hash": "2d190efd5db515d679eb558923432826f07a2836",
-      "date": "2026-03-22T00:59:47+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 溫泉文化 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": []
-    },
-    {
-      "hash": "bed6d14c61866635e8c228d8aea8dc2c6a090df3",
-      "date": "2026-03-22T00:58:39+08:00",
-      "author": "frank890417",
-      "message": "feat: 人口金字塔 insight 卡片跟 slider 連動 — 拖動年份數字即時更新",
-      "articles": [
-        {
-          "url": "/lifestyle/溫泉文化",
-          "name": "溫泉文化"
-        }
-      ]
-    },
-    {
-      "hash": "e77f5d8bd2c471f17be01c5bd890f0d5ac732934",
-      "date": "2026-03-22T00:50:19+08:00",
-      "author": "frank890417",
-      "message": "fix: 時間軸間距修正 — 上下 padding 加大 + 節點框加寬 + 開放資料標題距離拉開",
-      "articles": []
-    },
-    {
-      "hash": "22744f0c612abc7d70093471e5e8083c4d503554",
-      "date": "2026-03-22T00:47:03+08:00",
-      "author": "frank890417",
-      "message": "article: 太陽花學運 — 社群投稿 by @idlccp02 (closes #136)",
-      "articles": [
-        {
-          "url": "/society/太陽花學運",
-          "name": "太陽花學運"
-        }
-      ]
-    },
-    {
-      "hash": "80a4feeec0476940c22cde00e0aef1b8b9bef516",
-      "date": "2026-03-22T00:43:10+08:00",
-      "author": "frank890417",
-      "message": "fix: 📊 emoji 紫塊修復 + 時間軸一上一下layout+白色標題 + AI對比加Opus來源 + insight卡片標題在上",
-      "articles": []
-    },
-    {
-      "hash": "89faaac96d2ece145062d8c7862159e5078c02a2",
-      "date": "2026-03-22T00:36:45+08:00",
-      "author": "frank890417",
-      "message": "fix: 時間軸預設顯示內容（移除 hover-only）+ 移除 overflow 裁切 + 深色背景配色",
-      "articles": []
-    },
-    {
-      "hash": "03bfa3e2d60a979993e176c9575752b97473b8c7",
-      "date": "2026-03-22T00:32:19+08:00",
-      "author": "frank890417",
-      "message": "data: Phase 3 — 人口金字塔互動動畫（2000→2050 slider + D3 視覺化）",
-      "articles": []
-    },
-    {
-      "hash": "dccd197a910f51e66670a047c51bc74a0b1c5b44",
-      "date": "2026-03-22T00:30:22+08:00",
-      "author": "frank890417",
-      "message": "data: Phase 2.5 精修 — Nav dropdown、橫向時間軸、section 重排、介紹文字策展化、開放資料3欄grid",
-      "articles": []
-    },
-    {
-      "hash": "507930ba34f79a0b1fc7910cc56af0c6663c7283",
-      "date": "2026-03-22T00:18:56+08:00",
-      "author": "frank890417",
-      "message": "fix: 同步 18 篇企業文章到 knowledge/ 目錄（修正文章不存在問題）+ 修正泡泡圖連結路由",
-      "articles": [
-        {
-          "url": "/economy/台灣企業：中華電信",
-          "name": "台灣企業：中華電信"
-        },
-        {
-          "url": "/economy/台灣企業：仁寶電腦",
-          "name": "台灣企業：仁寶電腦"
-        },
-        {
-          "url": "/economy/台灣企業：台塑集團",
-          "name": "台灣企業：台塑集團"
-        },
-        {
-          "url": "/economy/台灣企業：台積電",
-          "name": "台灣企業：台積電"
-        }
-      ]
-    },
-    {
-      "hash": "1aebbad479c459cee78dd9c95f5a0b7b7d333141",
-      "date": "2026-03-22T00:16:06+08:00",
-      "author": "frank890417",
-      "message": "data: Phase 2 — 台灣vs世界 infographic、數位民主時間軸、section 重構",
-      "articles": []
-    },
-    {
-      "hash": "bb117c0662a9c6b0a8142853db10f56660d2f713",
-      "date": "2026-03-22T00:13:13+08:00",
-      "author": "frank890417",
-      "message": "fix: 修正企業泡泡圖連結 — 從錯誤的 /knowledge/Economy/*.md 改為正確的 /economy/台灣企業：* 路由",
-      "articles": []
-    },
-    {
-      "hash": "5f711d8bae037c161a996febccc2be429ca1bfdd",
-      "date": "2026-03-22T00:11:21+08:00",
-      "author": "frank890417",
-      "message": "data: 替換 AI 歪台灣 SVG — 用 Opus 4.6 真實生成的扭曲版（未刻意畫壞更震撼）",
-      "articles": []
-    },
-    {
-      "hash": "9bf690f6afcd68d6486b4b2d227f40aa0efa2d8c",
-      "date": "2026-03-22T00:09:51+08:00",
-      "author": "frank890417",
-      "message": "chore: daily stats update",
-      "articles": [
-        {
-          "url": "/economy/台灣企業：巨大機械",
-          "name": "台灣企業：巨大機械"
-        }
-      ]
-    },
-    {
-      "hash": "5985dbd5b6d02c7dd9d73b3adee21294f669d062",
-      "date": "2026-03-22T00:06:54+08:00",
-      "author": "frank890417",
-      "message": "data: Phase 1 優化 — sector 中文化、移除知識圖譜、開放資料加故事、泡泡連結文章",
-      "articles": []
-    },
-    {
-      "hash": "1db644e62eb87abcf28986045554edea6e75e374",
-      "date": "2026-03-22T00:04:28+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 宗教與民間信仰 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": [
-        {
-          "url": "/lifestyle/宗教與民間信仰",
-          "name": "宗教與民間信仰"
-        }
-      ]
-    },
-    {
-      "hash": "f048ea75fb4c952ffdd47469b173738c4c715838",
-      "date": "2026-03-21T23:59:10+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 溫泉文化 — EDITORIAL v2 auto-rewrite (zh + en)",
-      "articles": [
-        {
-          "url": "/lifestyle/溫泉文化",
-          "name": "溫泉文化"
-        }
-      ]
-    },
-    {
-      "hash": "c4872e8484fbaedf7aa2ab7ea5919c99297f39a9",
-      "date": "2026-03-21T23:19:32+08:00",
-      "author": "frank890417",
-      "message": "docs: 新增 UPDATE-LOG-GUIDE.md — 更新日誌撰寫原則（反塑膠、開發日記風格）",
-      "articles": []
-    },
-    {
-      "hash": "29903e3315028f80d54d9247a4c70d3817f53898",
-      "date": "2026-03-21T23:10:44+08:00",
-      "author": "frank890417",
-      "message": "夜市經濟學: 新增「零預算行銷生態系」段落 — 網紅×Google評論×排隊文化 (zh+en)",
-      "articles": [
-        {
-          "url": "/economy/夜市經濟學",
-          "name": "夜市經濟學"
-        }
-      ]
-    },
-    {
-      "hash": "b2971f190bf0ce183b4b487ace2e0b9245a96c8e",
-      "date": "2026-03-21T22:48:03+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 夜市經濟學 — EDITORIAL v2 深度策展實驗 (zh + en)",
-      "articles": [
-        {
-          "url": "/economy/夜市經濟學",
-          "name": "夜市經濟學"
-        }
-      ]
-    },
-    {
-      "hash": "a1a59a6ea5c461964a6ec9bff034000e706d50e9",
-      "date": "2026-03-21T22:39:42+08:00",
-      "author": "frank890417",
-      "message": "editorial v2: 深度策展進化 — 反直覺核心句、開場技法庫、策展人聲音、情感弧線、挑戰編織法、研究深度標準",
-      "articles": []
-    },
-    {
-      "hash": "b81d06ef0e1d3093620a47a47414d9691513156e",
-      "date": "2026-03-21T22:28:38+08:00",
-      "author": "frank890417",
-      "message": "editorial: relax length rule — density over brevity, preserve context for quality curation",
-      "articles": []
-    },
-    {
-      "hash": "1f8bfd8221e48df023fde98d56fd244ed1241979",
-      "date": "2026-03-21T22:28:33+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #132 from p3nchan/article/ptt-bulletin-board",
-      "articles": []
-    },
-    {
-      "hash": "3064b9bfc8c1d69b966920bfead422042013f518",
-      "date": "2026-03-21T22:17:21+08:00",
-      "author": "pingu",
-      "message": "article: add PTT Bulletin Board System (zh + en)",
-      "articles": [
-        {
-          "url": "/technology/PTT批踢踢",
-          "name": "PTT批踢踢"
-        }
-      ]
-    },
-    {
-      "hash": "efa775f00a2a1bd605770cd84518a193098c5b9e",
-      "date": "2026-03-21T21:53:38+08:00",
-      "author": "frank890417",
-      "message": "docs: YenTingWu badges 補齊 — 🌍👀（i18n 抽離 + reviewer）",
-      "articles": []
-    },
-    {
-      "hash": "866a6a84801e36eddb440300023d0a961dd83272",
-      "date": "2026-03-21T21:53:14+08:00",
-      "author": "frank890417",
-      "message": "chore: CODEOWNERS fredchu 加入 knowledge/、public/images/、scripts/",
-      "articles": []
-    },
-    {
-      "hash": "7203681f3b890e06cf80bea300fd9801a783415c",
-      "date": "2026-03-21T21:52:36+08:00",
-      "author": "frank890417",
-      "message": "docs: fredchu badges 補齊 — 💻🖋🔧🌍（18 PRs, code/content/tools/i18n）",
-      "articles": []
-    },
-    {
-      "hash": "97643ef350460c7b0d6873c49044d79758f0ac27",
-      "date": "2026-03-21T21:47:45+08:00",
-      "author": "frank890417",
-      "message": "chore: CODEOWNERS 多語系加入 YenTingWu（en/es/ja）",
-      "articles": []
-    },
-    {
-      "hash": "3d70a5444e8cc8c25e5040ed3edfd74e8b65c25d",
-      "date": "2026-03-21T21:42:44+08:00",
-      "author": "frank890417",
-      "message": "chore: CODEOWNERS 加入 YenTingWu（templates, i18n, components）",
-      "articles": []
-    },
-    {
-      "hash": "7d138bee60ad59e2cf9e5f78ffdd9a0e6148db6e",
-      "date": "2026-03-21T21:31:16+08:00",
-      "author": "frank890417",
-      "message": "style: 貢獻 → ✋ 參與專案",
-      "articles": []
-    },
-    {
-      "hash": "b8ac0971f03c86495ec7d2ddb37db52440eca90e",
-      "date": "2026-03-21T21:31:06+08:00",
-      "author": "frank890417",
-      "message": "style: Nav emoji 改回前面",
-      "articles": []
-    },
-    {
-      "hash": "b416173feb0eca334ddeb4b6f28aef9e9106bfe1",
-      "date": "2026-03-21T21:30:35+08:00",
-      "author": "frank890417",
-      "message": "style: Nav emoji 統一移到文字後面 + 關於移至第一位",
-      "articles": []
-    },
-    {
-      "hash": "c272c179720ceb1017d48c45e17d177cc6fd060e",
-      "date": "2026-03-21T21:28:15+08:00",
-      "author": "frank890417",
-      "message": "docs: 幫 Bugni 加上 🐛 Bug reports badge（PR #55 修復 Lifestyle 404）",
-      "articles": []
-    },
-    {
-      "hash": "d2661ce45178de8233a834756f28201b80fe965f",
-      "date": "2026-03-21T21:18:44+08:00",
-      "author": "frank890417",
-      "message": "docs: 新增 REVIEWERS.md + branch protection",
-      "articles": []
-    },
-    {
-      "hash": "a3dd527ba54927636b722cf99eef5958fb08aadf",
-      "date": "2026-03-21T21:17:21+08:00",
-      "author": "frank890417",
-      "message": "chore: 自動更新 stats — ⭐693 👥21 📄716",
-      "articles": []
-    },
-    {
-      "hash": "dd8b0f10e77e89ba7da96b483c8ff91774b17228",
-      "date": "2026-03-21T21:15:52+08:00",
-      "author": "frank890417",
-      "message": "refactor: Nav 重新排序 — 知識圖譜合併、地理台灣加入、延伸資源更名",
-      "articles": []
-    },
-    {
-      "hash": "db924c9ed8c19b60cfb37957adfd35cca9c2ff5c",
-      "date": "2026-03-21T21:10:24+08:00",
-      "author": "YenTing Wu",
-      "message": "Refactor/data template (#119)",
-      "articles": []
-    },
-    {
-      "hash": "23bb86f7c817d903722e652d1a5f343b4ba1beaa",
-      "date": "2026-03-21T21:09:25+08:00",
-      "author": "frank890417",
-      "message": "docs: 新增 ROADMAP.md — 五階段發展藍圖（Toolkit/多語系/故事化）",
-      "articles": []
-    },
-    {
-      "hash": "0edd2e78b696d1ebd01be86aa41afb3ca6d5eeb9",
-      "date": "2026-03-21T16:52:01+08:00",
-      "author": "YenTing Wu",
-      "message": "Refactor/about template (#118)",
-      "articles": []
-    },
-    {
-      "hash": "a2998a5d3ec3d9d6090767f39223570fae467962",
-      "date": "2026-03-21T15:10:57+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 重寫台灣建築、創辦人、環保與永續發展",
-      "articles": [
-        {
-          "url": "/about/創辦人",
-          "name": "創辦人"
-        },
-        {
-          "url": "/art/台灣建築",
-          "name": "台灣建築"
-        },
-        {
-          "url": "/art/台灣攝影",
-          "name": "台灣攝影"
-        },
-        {
-          "url": "/art/台灣漫畫與插畫",
-          "name": "台灣漫畫與插畫"
-        }
-      ]
-    },
-    {
-      "hash": "f3f4efa5d5c481e01334e54b84a67aa7a8ff1169",
-      "date": "2026-03-21T14:14:35+08:00",
-      "author": "frank890417",
-      "message": "rewrite: 重寫台灣廟會與陣頭文化、台灣漫畫與插畫、台灣攝影",
-      "articles": []
-    },
-    {
-      "hash": "ab4b1b7ebb35a617b1468b073ab576258d74e68e",
-      "date": "2026-03-21T13:28:54+08:00",
-      "author": "frank890417",
-      "message": "feat(society): 新增《台灣新住民：五十萬人的跨國故事》深度文章",
-      "articles": []
-    },
-    {
-      "hash": "66bf9039dea4d222e077476984a7bce749f4532f",
-      "date": "2026-03-21T13:27:55+08:00",
-      "author": "frank890417",
-      "message": "新增 5 篇深度文章",
       "articles": []
     }
   ]

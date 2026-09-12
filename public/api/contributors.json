@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T22:14:43.519Z",
+  "lastUpdated": "2026-09-12T22:22:37.609Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9193,
+      "commits": 9198,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -35,7 +35,7 @@
     },
     {
       "login": "tboydar",
-      "commits": 85,
+      "commits": 86,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
@@ -244,6 +244,20 @@
       }
     },
     {
+      "login": "rhosiqs",
+      "commits": 8,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
+      "profileUrl": "https://github.com/rhosiqs",
+      "firstCommitAt": "2026-08-25 22:09:07 +0800",
+      "lastCommitAt": "2026-08-25 22:30:30 +0800",
+      "primaryArea": "translation",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 2
+      }
+    },
+    {
       "login": "p3nchan",
       "commits": 7,
       "avatarUrl": "https://avatars.githubusercontent.com/u/5032148?v=4",
@@ -269,20 +283,6 @@
         "content": 0,
         "system": 0,
         "translation": 0
-      }
-    },
-    {
-      "login": "audreyt",
-      "commits": 7,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20723?v=4",
-      "profileUrl": "https://github.com/audreyt",
-      "firstCommitAt": "2026-08-14 10:41:04 +0800",
-      "lastCommitAt": "2026-08-14 12:38:54 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 0,
-        "system": 5,
-        "translation": 1
       }
     }
   ],
@@ -407,6 +407,13 @@
       "types": ["💻"]
     },
     {
+      "login": "rhosiqs",
+      "name": "rhosiqs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
+      "profileUrl": "https://github.com/rhosiqs",
+      "types": ["🌍"]
+    },
+    {
       "login": "p3nchan",
       "name": "Penchan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5032148?v=4",
@@ -435,13 +442,6 @@
       "types": ["💻"]
     },
     {
-      "login": "vaiskalivuan",
-      "name": "vaiskalivuan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/270533697?v=4",
-      "profileUrl": "https://github.com/vaiskalivuan",
-      "types": ["💻", "🌍"]
-    },
-    {
       "login": "ceruleanstring",
       "name": "柒藍",
       "avatarUrl": "https://avatars.githubusercontent.com/u/265435204?v=4",
@@ -449,18 +449,18 @@
       "types": ["🌍"]
     },
     {
-      "login": "rhosiqs",
-      "name": "rhosiqs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
-      "profileUrl": "https://github.com/rhosiqs",
-      "types": ["🌍"]
+      "login": "vaiskalivuan",
+      "name": "vaiskalivuan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/270533697?v=4",
+      "profileUrl": "https://github.com/vaiskalivuan",
+      "types": ["💻", "🌍"]
     },
     {
-      "login": "Ray0907",
-      "name": "Ray Tien",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29456968?v=4",
-      "profileUrl": "https://github.com/Ray0907",
-      "types": ["💻", "🖋️"]
+      "login": "gn00295120",
+      "name": "Lucas Wang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30173341?v=4",
+      "profileUrl": "https://github.com/gn00295120",
+      "types": ["💻", "🌍"]
     },
     {
       "login": "r000tmnt",
@@ -470,11 +470,11 @@
       "types": ["💻", "🖋️"]
     },
     {
-      "login": "gn00295120",
-      "name": "Lucas Wang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30173341?v=4",
-      "profileUrl": "https://github.com/gn00295120",
-      "types": ["💻", "🌍"]
+      "login": "Ray0907",
+      "name": "Ray Tien",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29456968?v=4",
+      "profileUrl": "https://github.com/Ray0907",
+      "types": ["💻", "🖋️"]
     },
     {
       "login": "wegoliao",
@@ -888,7 +888,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9193,
+      "commits": 9198,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -960,7 +960,7 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 85,
+      "commits": 86,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
@@ -1015,37 +1015,23 @@
       }
     },
     {
-      "login": "p3nchan",
-      "commits": 7,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5032148?v=4",
-      "profileUrl": "https://github.com/p3nchan",
-      "firstCommitAt": "2026-03-29 12:51:51 +0800",
-      "lastCommitAt": "2026-04-25 20:46:01 +0800",
+      "login": "rhosiqs",
+      "commits": 8,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
+      "profileUrl": "https://github.com/rhosiqs",
+      "firstCommitAt": "2026-08-25 22:09:07 +0800",
+      "lastCommitAt": "2026-08-25 22:30:30 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 0,
         "system": 0,
-        "translation": 7
+        "translation": 2
       }
     }
   ],
   "weeklyActive": 2,
   "monthlyActive": 9,
   "recentlyJoined": [
-    {
-      "login": "ting-hong-shieh",
-      "commits": 5,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32212900?v=4",
-      "profileUrl": "https://github.com/ting-hong-shieh",
-      "firstCommitAt": "2026-08-13 12:36:02 +0800",
-      "lastCommitAt": "2026-08-14 09:38:42 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 0,
-        "system": 4,
-        "translation": 0
-      }
-    },
     {
       "login": "audreyt",
       "commits": 7,
@@ -1090,7 +1076,7 @@
     },
     {
       "login": "rhosiqs",
-      "commits": 3,
+      "commits": 8,
       "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
       "profileUrl": "https://github.com/rhosiqs",
       "firstCommitAt": "2026-08-25 22:09:07 +0800",

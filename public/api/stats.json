@@ -1,24 +1,24 @@
 {
-  "totalArticles": 10713,
+  "totalArticles": 10976,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 7316,
+  "totalTags": 7442,
   "categories": [
     {
       "name": "es",
-      "count": 897
+      "count": 908
     },
     {
       "name": "ko",
-      "count": 900
+      "count": 915
     },
     {
       "name": "fr",
-      "count": 899
+      "count": 910
     },
     {
       "name": "en",
-      "count": 908
+      "count": 919
     },
     {
       "name": "ja",
@@ -26,15 +26,15 @@
     },
     {
       "name": "vi",
-      "count": 884
+      "count": 893
     },
     {
       "name": "hi",
-      "count": 710
+      "count": 719
     },
     {
       "name": "ru",
-      "count": 811
+      "count": 821
     },
     {
       "name": "Technology",
@@ -46,11 +46,11 @@
     },
     {
       "name": "id",
-      "count": 674
+      "count": 682
     },
     {
       "name": "ar",
-      "count": 779
+      "count": 789
     },
     {
       "name": "Politics",
@@ -62,11 +62,15 @@
     },
     {
       "name": "pt",
-      "count": 871
+      "count": 877
     },
     {
       "name": "Food",
       "count": 89
+    },
+    {
+      "name": "de",
+      "count": 534
     },
     {
       "name": "Lifestyle",
@@ -103,10 +107,6 @@
     {
       "name": "Art",
       "count": 48
-    },
-    {
-      "name": "de",
-      "count": 371
     },
     {
       "name": "resources",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 10713,
+    "zh-TW": 10976,
     "en": 0
   },
-  "lastUpdated": "2026-09-11T22:14:45.325Z",
-  "stars": 1170,
+  "lastUpdated": "2026-09-12T22:23:35.543Z",
+  "stars": 1171,
   "forks": 185,
   "zhPages": 1119,
   "languagePages": {
     "zh-TW": 1119,
-    "en": 908,
+    "en": 919,
     "ja": 888,
-    "ko": 900,
-    "es": 897,
-    "fr": 899,
-    "vi": 884,
-    "id": 674,
-    "pt": 871,
-    "hi": 710,
-    "ar": 779,
-    "ru": 811,
-    "de": 371
+    "ko": 915,
+    "es": 908,
+    "fr": 910,
+    "vi": 893,
+    "id": 682,
+    "pt": 877,
+    "hi": 719,
+    "ar": 789,
+    "ru": 821,
+    "de": 534
   },
-  "enPages": 908,
+  "enPages": 919,
   "totalPages": 1119
 }

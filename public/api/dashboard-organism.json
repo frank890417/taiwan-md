@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T22:15:05.248Z",
+  "lastUpdated": "2026-09-12T22:23:39.379Z",
   "organs": [
     {
       "id": "heart",
@@ -10,12 +10,12 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 17,
-        "articlesLast30Days": 256,
+        "articlesLast7Days": 14,
+        "articlesLast30Days": 254,
         "totalArticles": 1119,
         "selfProducedLast7Days": 0,
         "selfProducedLast30Days": 4,
-        "contributedLast7Days": 17
+        "contributedLast7Days": 14
       }
     },
     {
@@ -39,7 +39,7 @@
           "citation_density": 93.7,
           "tool_freshness": 60,
           "drift_velocity": 90,
-          "external_rulers": 1.7
+          "external_rulers": 1.6
         }
       }
     },
@@ -49,7 +49,7 @@
       "nameZh": "遺傳密碼",
       "metaphor": "品質基因",
       "emoji": "🧬",
-      "score": 95,
+      "score": 80,
       "trend": "up",
       "metrics": {
         "editorialLastModified": "2026-09-05T09:28:09.000Z"
@@ -116,25 +116,25 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 80,
+      "score": 81,
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
           "zh-TW": 1119,
-          "en": 906,
-          "ja": 886,
-          "ko": 898,
-          "es": 895,
-          "fr": 897,
-          "vi": 882,
-          "id": 672,
-          "pt": 869,
-          "hi": 708,
-          "ar": 777,
-          "ru": 809,
-          "de": 369
+          "en": 917,
+          "ja": 887,
+          "ko": 913,
+          "es": 906,
+          "fr": 908,
+          "vi": 891,
+          "id": 680,
+          "pt": 875,
+          "hi": 717,
+          "ar": 787,
+          "ru": 819,
+          "de": 532
         },
-        "translationPct": 80,
+        "translationPct": 81,
         "langHealthDetails": {
           "en": {
             "ui": {
@@ -223,10 +223,10 @@
               "pct": 92
             },
             "articles": {
-              "count": 906,
-              "pct": 81
+              "count": 917,
+              "pct": 82
             },
-            "score": 89
+            "score": 90
           },
           "ja": {
             "ui": {
@@ -315,7 +315,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 886,
+              "count": 887,
               "pct": 79
             },
             "score": 70
@@ -407,8 +407,8 @@
               "pct": 92
             },
             "articles": {
-              "count": 898,
-              "pct": 80
+              "count": 913,
+              "pct": 82
             },
             "score": 89
           },
@@ -499,8 +499,8 @@
               "pct": 92
             },
             "articles": {
-              "count": 895,
-              "pct": 80
+              "count": 906,
+              "pct": 81
             },
             "score": 89
           },
@@ -591,8 +591,8 @@
               "pct": 23
             },
             "articles": {
-              "count": 897,
-              "pct": 80
+              "count": 908,
+              "pct": 81
             },
             "score": 75
           },
@@ -683,8 +683,8 @@
               "pct": 100
             },
             "articles": {
-              "count": 882,
-              "pct": 79
+              "count": 891,
+              "pct": 80
             },
             "score": 90
           },
@@ -775,8 +775,8 @@
               "pct": 100
             },
             "articles": {
-              "count": 672,
-              "pct": 60
+              "count": 680,
+              "pct": 61
             },
             "score": 82
           },
@@ -867,7 +867,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 869,
+              "count": 875,
               "pct": 78
             },
             "score": 89
@@ -959,10 +959,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 708,
-              "pct": 63
+              "count": 717,
+              "pct": 64
             },
-            "score": 83
+            "score": 84
           },
           "ar": {
             "ui": {
@@ -1051,8 +1051,8 @@
               "pct": 0
             },
             "articles": {
-              "count": 777,
-              "pct": 69
+              "count": 787,
+              "pct": 70
             },
             "score": 66
           },
@@ -1143,8 +1143,8 @@
               "pct": 0
             },
             "articles": {
-              "count": 809,
-              "pct": 72
+              "count": 819,
+              "pct": 73
             },
             "score": 67
           },
@@ -1235,10 +1235,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 369,
-              "pct": 33
+              "count": 532,
+              "pct": 48
             },
-            "score": 73
+            "score": 79
           }
         }
       }

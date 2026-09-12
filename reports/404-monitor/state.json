@@ -3867,7 +3867,86 @@
           "empty": 0
         }
       }
+    },
+    {
+      "date": "2026-09-11",
+      "total_404": 4339,
+      "truncated": false,
+      "families": {
+        "stale-asset": {
+          "count": 289,
+          "bot": 60,
+          "browser": 229,
+          "empty": 0
+        },
+        "probe-wellknown": {
+          "count": 105,
+          "bot": 0,
+          "browser": 105,
+          "empty": 0
+        },
+        "unknown": {
+          "count": 2914,
+          "bot": 1262,
+          "browser": 1652,
+          "empty": 0
+        },
+        "scanner": {
+          "count": 202,
+          "bot": 31,
+          "browser": 171,
+          "empty": 0
+        },
+        "md-extension": {
+          "count": 240,
+          "bot": 110,
+          "browser": 130,
+          "empty": 0
+        },
+        "renamed-or-truncated": {
+          "count": 26,
+          "bot": 15,
+          "browser": 11,
+          "empty": 0
+        },
+        "slug-variant": {
+          "count": 408,
+          "bot": 345,
+          "browser": 63,
+          "empty": 0
+        },
+        "bad-encoding": {
+          "count": 37,
+          "bot": 5,
+          "browser": 32,
+          "empty": 0
+        },
+        "untranslated-demand": {
+          "count": 72,
+          "bot": 65,
+          "browser": 7,
+          "empty": 0
+        },
+        "missing-asset": {
+          "count": 17,
+          "bot": 4,
+          "browser": 13,
+          "empty": 0
+        },
+        "phantom": {
+          "count": 28,
+          "bot": 19,
+          "browser": 9,
+          "empty": 0
+        },
+        "cross-lang-slug": {
+          "count": 1,
+          "bot": 1,
+          "browser": 0,
+          "empty": 0
+        }
+      }
     }
   ],
-  "updated": "2026-09-11T22:13:09.527738+00:00"
+  "updated": "2026-09-12T22:13:39.556989+00:00"
 }

@@ -30,7 +30,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -650,16 +650,16 @@
     "translations": {
       "en": false,
       "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
-      "pt": false,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 2,
     "commitHash": "8730173b",
@@ -744,18 +744,18 @@
       "鬼地方"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
       "id": false,
-      "pt": false,
-      "hi": false,
+      "pt": true,
+      "hi": true,
       "ar": false,
-      "ru": false,
-      "de": false
+      "ru": true,
+      "de": true
     },
     "revision": 3,
     "commitHash": "8730173b",
@@ -1487,16 +1487,16 @@
     "translations": {
       "en": false,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": false,
-      "vi": false,
+      "vi": true,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "78d491c5",
@@ -1580,18 +1580,18 @@
       "古蹟保存"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 3,
     "commitHash": "39cb84da",
@@ -1763,17 +1763,17 @@
       "台灣政治"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false,
-      "vi": false,
+      "fr": true,
+      "vi": true,
       "id": false,
       "pt": false,
       "hi": false,
-      "ar": false,
-      "ru": false,
+      "ar": true,
+      "ru": true,
       "de": false
     },
     "revision": 3,
@@ -1814,7 +1814,7 @@
     "translations": {
       "en": false,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": false,
       "vi": false,
@@ -1857,18 +1857,18 @@
       "歷史說書"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
       "pt": false,
-      "hi": false,
+      "hi": true,
       "ar": false,
-      "ru": false,
-      "de": false
+      "ru": true,
+      "de": true
     },
     "revision": 3,
     "commitHash": "9d93b1d9",
@@ -1946,16 +1946,16 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": false,
       "de": false
     },
@@ -2054,7 +2054,7 @@
       "hi": false,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "f89314e2",
@@ -2090,7 +2090,7 @@
       "工業設計"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -2186,7 +2186,7 @@
     ],
     "translations": {
       "en": false,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false,
@@ -2233,18 +2233,18 @@
       "飲食文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
       "id": false,
       "pt": false,
       "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 3,
     "commitHash": "f89314e2",
@@ -2554,16 +2554,16 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false,
+      "ko": true,
+      "es": true,
+      "fr": true,
       "vi": false,
-      "id": false,
-      "pt": false,
-      "hi": false,
+      "id": true,
+      "pt": true,
+      "hi": true,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "f89314e2",
@@ -2876,17 +2876,17 @@
       "漁村"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
       "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
       "de": false
     },
     "revision": 1,
@@ -3142,17 +3142,17 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false,
       "vi": false,
       "id": false,
       "pt": false,
       "hi": false,
-      "ar": false,
-      "ru": false,
+      "ar": true,
+      "ru": true,
       "de": false
     },
     "revision": 4,
@@ -3753,13 +3753,13 @@
     "translations": {
       "en": false,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false,
+      "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
-      "hi": false,
+      "hi": true,
       "ar": false,
       "ru": false,
       "de": false
@@ -3798,17 +3798,17 @@
       "動物福利"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
       "pt": false,
       "hi": false,
-      "ar": false,
-      "ru": false,
+      "ar": true,
+      "ru": true,
       "de": false
     },
     "revision": 2,
@@ -6008,18 +6008,18 @@
       "大眾文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
+      "ko": true,
+      "es": true,
+      "fr": true,
       "vi": false,
       "id": false,
       "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 2,
     "commitHash": "654ac8e9",
@@ -8194,7 +8194,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "bd1fd7a9",
@@ -9628,7 +9628,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "1b55dfc6",
@@ -10087,7 +10087,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "1389f8ce",
@@ -10790,7 +10790,7 @@
     "commitHash": "c39005c8",
     "commitSubject": "🧬 [semiont] heal: 維護者代補格式（PR #1388）",
     "description": "從1970年代的傳統代工起步，到跨世紀的A-Team競合聯盟，再到如今引領全球高端碳纖維、電動輔助自行車（e-bike）與ESG綠色製造浪潮，台灣「自行車王國」如何憑藉堅韌的供應鏈聚落再創盛世？",
-    "healthScore": 55,
+    "healthScore": 50,
     "qualityScore": 0,
     "formatIssues": 2,
     "hasOverview": false,
@@ -11068,7 +11068,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "0df538d8",
@@ -11116,7 +11116,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "0df538d8",
@@ -11485,7 +11485,7 @@
     "commitHash": "55d991e8",
     "commitSubject": "🧬 [routine] heal: 電視布袋戲補 subcategory 工藝與美學",
     "description": "從雲林虎尾街頭的傳統布袋戲班，到電視螢幕上萬人空巷的《雲州大儒俠》，再到現代特效與數位偶戲的跨界重生，黃海岱家族如何用一雙巧手撐起台灣數十年的庶民娛樂與文化記憶？",
-    "healthScore": 47,
+    "healthScore": 42,
     "qualityScore": 4,
     "formatIssues": 2,
     "hasOverview": false,
@@ -11622,7 +11622,7 @@
     "commitHash": "c0f58760",
     "commitSubject": "🧬 [routine] heal: 林郁婷補 subcategory 體育、腳註轉正，並清掉正文裡的工具截斷產物",
     "description": "2024年8月11日，巴黎羅蘭蓋洛斯球場上，林郁婷以壓倒性姿態摘下台灣奧運史上首面拳擊金牌。從鶯歌國中的地下拳館出發，她歷經東京奧運挫敗、四強賽對手的「X」手勢挑釁、國際政治博弈與全球跨國網路霸凌。本文深度解構其「魔法師」哲學、長年陪練員李承威的幕後貢獻、技術演變、性別科學、文化大學教職、社會凝聚力與拳擊四后的革命情感，並收錄 2026 年 World Boxing 正式認可其參賽資格的最新史詩進展。",
-    "healthScore": 46,
+    "healthScore": 41,
     "qualityScore": 4,
     "formatIssues": 2,
     "hasOverview": false,
@@ -11663,7 +11663,7 @@
     "commitHash": "2b7a2adc",
     "commitSubject": "🧬 [routine] heal: 沃草補 subcategory 與 featured，腳註轉正並移除授權未明的熱連結圖",
     "description": "成立於 2013 年的沃草（Watchout）是台灣公民科技與獨立媒體的先驅。從太陽花學運的資訊傳播、公民學院的思辨教育，到與國際 NGO 合作發布民防指南，沃草如何透過數位工具守護台灣民主？",
-    "healthScore": 46,
+    "healthScore": 41,
     "qualityScore": 6,
     "formatIssues": 1,
     "hasOverview": true,
@@ -11758,7 +11758,7 @@
     "commitHash": "566429f3",
     "commitSubject": "🧬 [routine] heal: 離岸風電補 subcategory 並搬到 Economy",
     "description": "2025年底台灣離岸風電裝置容量突破4.4GW，面對地質挑戰、國產化政策調整、區塊開發選商爭議與全球科技大廠的綠電飢渴，這場海上綠能實驗如何重塑島嶼的能源命脈？",
-    "healthScore": 52,
+    "healthScore": 47,
     "qualityScore": 4,
     "formatIssues": 2,
     "hasOverview": false,
@@ -11931,7 +11931,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "a923e393",
@@ -12102,7 +12102,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "29ff6f48",
@@ -12143,7 +12143,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "29ff6f48",
@@ -12190,7 +12190,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "29ff6f48",
@@ -12237,7 +12237,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "5e15a7d9",
@@ -12278,7 +12278,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "5e15a7d9",
@@ -12374,7 +12374,7 @@
       "hi": true,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "a5f19502",
@@ -12422,7 +12422,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "a5f19502",
@@ -12469,7 +12469,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "a5f19502",
@@ -12516,7 +12516,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "4a4d6662",
@@ -12565,7 +12565,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "4a4d6662",
@@ -12647,7 +12647,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "2da8b92f",
@@ -12736,7 +12736,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "2da8b92f",
@@ -12906,7 +12906,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 14,
     "commitHash": "2da8b92f",
@@ -13086,7 +13086,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 17,
     "commitHash": "6ffd92f9",
@@ -13127,7 +13127,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "6ffd92f9",
@@ -13216,7 +13216,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "17a8255e",
@@ -13401,7 +13401,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "7630a2c4",
@@ -13449,7 +13449,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "7630a2c4",
@@ -13537,7 +13537,7 @@
       "hi": true,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "7308f98e",
@@ -13578,7 +13578,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "46055e4f",
@@ -13624,7 +13624,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "18460e84",
@@ -13841,7 +13841,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "08a8c5ec",
@@ -13977,7 +13977,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "377b0ab2",
@@ -14024,7 +14024,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "71a0a678",
@@ -14075,7 +14075,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "5af229e1",
@@ -14204,7 +14204,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "44bdf716",
@@ -14429,7 +14429,7 @@
     "commitHash": "cc6f9d9b",
     "commitSubject": "🧬 [semiont] polish: 台灣電影.md 標點淨化（破折號 40→11、分號 12→12）",
     "description": "1930 年戲院裡，辯士站在銀幕旁用台語替默片即興口白；九十年後，《海角七號》讓五種語言一起回到銀幕上。台語片曾是全球第三大劇情片產國卻被掐死，新電影在威尼斯拿金獅的那些年，戲院裡的國片票房卻跌到只剩 0.36%。國片不是一條從爛到好的直線，是一部反覆被宣告死亡又活過來的歷史。",
-    "healthScore": 60,
+    "healthScore": 55,
     "qualityScore": 6,
     "formatIssues": 1,
     "hasOverview": true,
@@ -14464,7 +14464,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "a74c440b",
@@ -14511,7 +14511,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "c99df650",
@@ -14552,7 +14552,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "6bbbf62b",
@@ -14634,7 +14634,7 @@
       "hi": true,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "4138a07a",
@@ -14947,7 +14947,7 @@
       "hi": true,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "2948c945",
@@ -15043,7 +15043,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 18,
     "commitHash": "1febe45b",
@@ -15141,7 +15141,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "0c0b1668",
@@ -15182,7 +15182,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "e0fa6004",
@@ -15368,7 +15368,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "f944f63b",
@@ -15416,7 +15416,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "d6377e82",
@@ -15457,7 +15457,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "a48fafec",
@@ -15552,7 +15552,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "369298ab",
@@ -15601,7 +15601,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "93facb6c",
@@ -15780,7 +15780,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "58a56e42",
@@ -15918,7 +15918,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "70372d3a",
@@ -15965,7 +15965,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "e14a1529",
@@ -16059,7 +16059,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "2850f17b",
@@ -16100,7 +16100,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "7f3ddf12",
@@ -16203,7 +16203,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "ceeee0ae",
@@ -16326,7 +16326,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "d3d4d780",
@@ -16457,7 +16457,7 @@
       "hi": false,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 20,
     "commitHash": "936ada6c",
@@ -16505,7 +16505,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "a1c3748b",
@@ -16552,7 +16552,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "7c73f6a5",
@@ -16682,13 +16682,13 @@
       "hi": true,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "e666af3e",
     "commitSubject": "🧬 [semiont] polish: 跨黨派的好政策.md 標點淨化（破折號 10→10、分號 29→12）",
     "description": "一個讀者厭倦了藍綠飯桌上的互罵，想記得真正對台灣好的事。於是我們找了七十年裡的十一個政策，從威權強徵農地的土地改革、解嚴、全民健保，到還在吵的同婚與前瞻，刻意不用藍綠的尺量，改用民生、民主、民權、主權四把尺。結論有點反直覺：活過自己黨派出身的政策，出生那天往往是吵得最兇的那一個。",
-    "healthScore": 54,
+    "healthScore": 49,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
@@ -16814,7 +16814,7 @@
       "hi": false,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "da8d8687",
@@ -17088,7 +17088,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "da9ebaab",
@@ -17211,7 +17211,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "bc6743fd",
@@ -17334,7 +17334,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "ac048ecf",
@@ -17653,7 +17653,7 @@
       "hi": true,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "498649fe",
@@ -17735,7 +17735,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "200949f4",
@@ -17963,7 +17963,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "b54335d0",
@@ -18004,7 +18004,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "95f42de8",
@@ -18226,7 +18226,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "cce7f252",
@@ -18363,7 +18363,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "4a7c2bfc",
@@ -18631,7 +18631,7 @@
       "hi": false,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "d7a10960",
@@ -18947,7 +18947,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "287389ec",
@@ -19029,7 +19029,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "80520085",
@@ -19290,7 +19290,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "72a8b443",
@@ -19429,7 +19429,7 @@
       "hi": false,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "2ed57e08",
@@ -19470,7 +19470,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "dd82dc4a",
@@ -19643,7 +19643,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "fd01d452",
@@ -19692,7 +19692,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "8f5e81ee",
@@ -19781,7 +19781,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "8d7c23da",
@@ -19830,7 +19830,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 17,
     "commitHash": "c2412970",
@@ -19878,7 +19878,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "250410ea",
@@ -20097,7 +20097,7 @@
       "hi": false,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "ce36d542",
@@ -20321,7 +20321,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "9ecd20d6",
@@ -20367,7 +20367,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 23,
     "commitHash": "9ecd20d6",
@@ -20416,7 +20416,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "d520299b",
@@ -20786,7 +20786,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "9d671671",
@@ -20876,7 +20876,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 17,
     "commitHash": "c8e5ac9e",
@@ -20964,7 +20964,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "dbaf2895",
@@ -21005,7 +21005,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 23,
     "commitHash": "a1eb11f4",
@@ -21100,7 +21100,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "dbaf2895",
@@ -21148,7 +21148,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "dbaf2895",
@@ -21195,7 +21195,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "d40e5042",
@@ -21383,7 +21383,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "f5975a22",
@@ -21465,7 +21465,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "49728f9d",
@@ -21596,7 +21596,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "a113ef0c",
@@ -21853,7 +21853,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "cfaa22a5",
@@ -21900,7 +21900,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "ccee078e",
@@ -21947,7 +21947,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "ccee078e",
@@ -22042,7 +22042,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 17,
     "commitHash": "cfaa22a5",
@@ -22090,7 +22090,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "cfaa22a5",
@@ -22138,7 +22138,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "1a3708b1",
@@ -22186,7 +22186,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "a43cf915",
@@ -22323,7 +22323,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "3011828b",
@@ -22470,7 +22470,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "3011828b",
@@ -22511,7 +22511,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "e62d901c",
@@ -22599,7 +22599,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "a43cf915",
@@ -22648,7 +22648,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "1a3708b1",
@@ -22697,7 +22697,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "dbfc0cd3",
@@ -22888,7 +22888,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "781e1643",
@@ -22929,7 +22929,7 @@
       "hi": true,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "380c49d7",
@@ -22970,7 +22970,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "70c09b92",
@@ -23019,7 +23019,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "70c09b92",
@@ -23114,7 +23114,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "c212e14d",
@@ -23161,7 +23161,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "8f7ec7d5",
@@ -23208,7 +23208,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "bce74269",
@@ -23331,7 +23331,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "3c781dba",
@@ -23552,7 +23552,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "194696f0",
@@ -23683,7 +23683,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "db263367",
@@ -24082,7 +24082,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "088a688b",
@@ -24687,7 +24687,7 @@
     "commitHash": "21f2ddb4",
     "commitSubject": "🧬 [semiont] rewrite: 看不見的國家 EVOLVE — 影響 + 還在努力的人（哲宇 directive「更立體」）",
     "description": "2025 年 6 月台灣戲院，一部美國人拍的紀錄片賣破三千七百萬、登上紀錄片影史第三。葛靜文花七年、五次貼身專訪蔡英文，把一個被聯合國除名、邦交國從 22 掉到 12、奧運只能叫「中華台北」的島嶼推到鏡頭前。但最被質疑的，是這部要讓台灣「被看見」的片，自己讓誰留在了框外——看見從來是一個動作，不是一種地位。",
-    "healthScore": 54,
+    "healthScore": 49,
     "qualityScore": 5,
     "formatIssues": 1,
     "hasOverview": true,
@@ -25400,7 +25400,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "44238bb4",
@@ -26331,7 +26331,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "38412654",
@@ -26788,7 +26788,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "63bc1ff9",
@@ -27234,7 +27234,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "b900f18d",
@@ -28540,7 +28540,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "e10215bc",
@@ -29405,7 +29405,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 19,
     "commitHash": "ef5cba7c",
@@ -29929,7 +29929,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "f2239212",
@@ -33885,7 +33885,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "6ae7e431",
@@ -34186,12 +34186,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "6097f831",
@@ -35097,7 +35097,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "c860d150",
@@ -35922,7 +35922,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "7bcc3ce4",
@@ -36004,7 +36004,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "7bcc3ce4",
@@ -37254,7 +37254,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "eb0744ad",
@@ -38283,7 +38283,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "24546fe6",
@@ -38373,7 +38373,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "540031d7",
@@ -38414,7 +38414,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "82e98bfd",
@@ -39443,7 +39443,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "9dd24b8e",
@@ -40224,7 +40224,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "b2b2903a",
@@ -40415,7 +40415,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "0d48ce09",
@@ -40462,7 +40462,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "276593be",
@@ -40607,7 +40607,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "c71f1568",
@@ -40991,7 +40991,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "fa152db8",
@@ -41079,7 +41079,7 @@
       "hi": false,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "bc7fc6af",
@@ -41535,7 +41535,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "7239b4db",
@@ -42040,7 +42040,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "de0f1afa",
@@ -43067,7 +43067,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 14,
     "commitHash": "425cb434",
@@ -43115,7 +43115,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "0fca566b",
@@ -43584,7 +43584,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "22a9397b",
@@ -44477,7 +44477,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "de86194e",
@@ -44653,7 +44653,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "de86194e",
@@ -44700,7 +44700,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "4fa34eeb",
@@ -44749,7 +44749,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "bd50da58",
@@ -48046,7 +48046,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "",
@@ -48327,7 +48327,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "",
@@ -49131,7 +49131,7 @@
       "hi": true,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "",
@@ -49181,7 +49181,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "",
@@ -49409,7 +49409,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "",
@@ -49680,7 +49680,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "",
@@ -50831,7 +50831,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "",
