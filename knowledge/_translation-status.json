@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T06:02:50+08:00",
-    "zhCommitHead": "8439cec95",
+    "lastUpdated": "2026-09-13T06:12:48+08:00",
+    "zhCommitHead": "e4a15e53a",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 526,
+        "fresh": 527,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 588,
+        "missing": 587,
         "orphan": 0
       }
     },
@@ -75589,8 +75589,8 @@
           "sourceContentHash": "sha256:47672068ff2f222b",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4a15e53",
+          "translationLastModified": "2026-09-13T06:02:50+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -118989,8 +118989,8 @@
           "sourceContentHash": "sha256:9e0f798883cbe5d7",
           "sourceBodyHash": "sha256:3b14e4290a67452c",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4a15e53",
+          "translationLastModified": "2026-09-13T06:02:50+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -131973,8 +131973,8 @@
           "sourceContentHash": "sha256:d166faa74a30d730",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4a15e53",
+          "translationLastModified": "2026-09-13T06:02:50+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -139987,8 +139987,8 @@
           "sourceContentHash": "sha256:eca62ab119321799",
           "sourceBodyHash": "sha256:6e4c77ec70105e99",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4a15e53",
+          "translationLastModified": "2026-09-13T06:02:50+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -139998,7 +139998,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/suao-cold-spring.md",
+          "translatedFrom": "Geography/蘇澳冷泉.md",
+          "sourceCommitSha": "78d491c5d",
+          "sourceContentHash": "sha256:eca62ab119321799",
+          "sourceBodyHash": "sha256:6e4c77ec70105e99",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -153699,8 +153710,8 @@
           "sourceContentHash": "sha256:e24d7260c5b6a2bc",
           "sourceBodyHash": "sha256:00444a759deb7a89",
           "translatedAt": "2026-09-13T00:44:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4a15e53",
+          "translationLastModified": "2026-09-13T06:02:50+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
