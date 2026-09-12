@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-13 twmd-weekly-report-sun — accurate-relay-substitutes-for-routing：一個決定被七班準確地傳遞，因此沒有人覺得需要改變它躺的位置
+
+- **pattern**: `accurate-relay-substitutes-for-routing`
+- **原則**：一件事被準確地記錄下來，跟它被送到能拍板的人面前，是兩回事。當一個待決在交接之間傳遞得足夠精確——每一班都讀到、都同意它重要、都把最新數字更新上去、都交給下一班——這一連串動作看起來跟「處理它」幾乎一模一樣，只差了沒有人問過**它現在躺的位置對不對**。而傳遞越精確，越沒有人覺得需要改變那個位置：準確本身變成了盡責的證明。
+- **觸發**：2026-09-13 W37 體檢。9/12 維護班已經把合併取捨的三個選項、各自風險、推薦哪一個都寫完了（[#1711 留言](https://github.com/frank890417/taiwan-md/issues/1711#issuecomment-5642289506)），完整到今天讀它不需要補任何一個問題。但**哲宇的單一決策出口是 OBSERVER-QUEUE**，那則留言從來沒有進去過。七班之間傳遞七次，一次都沒走偏，連數字都跟著更新（171 commit → 194、137 衝突 → 143），而它一次都沒有被送到能拍板的人面前。本班補成佇列 #56（`ec33a502f`），三個選項照抄，唯一新寫的是「等待這件事在這裡不是中性的，ahead 的數字每晚隨 babel 增長」。
+- **同一早上的小號版本**：`OBSERVER-QUEUE.md` 第 50 項那一列只有 6 個欄位分隔符（正常 8），預設選項／不決策的代價／default-action 三欄被擠成一欄，`weekly-checkup.sh` 的 e1 因此掃不到它——一個 9/05 進佇列、7 天到期、**非紅線因此任何 session 都可以執行**的預設，在報告上消失了一週，原因是一個表格的欄位數（已修 `dfd83bc20`）。補完欄位重跑，它出現了，然後仍被標成 🔒：e1 給每一列都印同一個符號，它分不出紅線與可執行（進桶 2）。
+- **可能層級**：REFLEXES 既有反射的新載體。`self-documented-trap-with-no-exit` 講的是知識留在註解層沒下沉到控制流；本條的載體是**交接鏈與 issue 留言**，而缺的不是控制流是路由——決策資訊存在、完整、可讀，只是不在會被讀的那張表上。[#82](REFLEXES.md) proxy signal 的一種：拿「已寫成完整選項」當「已進入決策流程」的替身。
+- **候選機械化**：(a) 任何 routine 在 handoff 寫下「等哲宇拍板」時，同一個動作要求對應的 OBSERVER-QUEUE 編號（沒有編號就是還沒進出口，handoff lint 可查）；(b) 收官時若本輪兌現的是上一輪自己寫的 handoff，記一筆兌現延遲輪數，讓「handoff 平均要幾輪才被做掉」變成看得見的數字（這條是 REFLEXES #15 第 13 次驗證已寫下的候選，本條是它的第二個載體）；(c) e1 讀 default-action 欄再分類，非 🔒 且已逾期印「可執行」，🔒 印「保留」。
+- **verification_count**: 1
+- **severity**: structural
+- **相關**：LESSONS `self-documented-trap-with-no-exit`（同族，載體是註解）/ `documented-gate-never-wired-to-the-line`（同族，載體是 pipeline 文件）/ `blocked-push-makes-every-gate-validate-a-stale-world`（同一個分岔的另一面，那條講閘門對著過期的世界蓋章，本條講決定沒進決策面）/ [REFLEXES #15](REFLEXES.md) 第 13 次驗證（handoff 傳遞了資訊，沒有傳遞急迫性）/ [REFLEXES #82](REFLEXES.md)
+
 ### 2026-09-12 twmd-maintainer-am — blocked-push-makes-every-gate-validate-a-stale-world：推送路徑塞住之後，閘門不是失效，是改成對著一個過期的世界蓋章
 
 - **pattern**: `blocked-push-makes-every-gate-validate-a-stale-world`
@@ -339,6 +351,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-12 早班。營運機累積 171 個未推送 commit（origin 同時領先 138，分岔點 2026-09-09 09:11），因為合併有 137 個真衝突（`git merge-tree` 唯讀模擬：翻譯 118 / 認知層索引 5 / 衍生檔 13 / 產線狀態 1），其中 118 篇翻譯的取捨超出自主權邊界。**連續七天、每一班 routine 都讀到「等 dispatcher 收工再統一處理」這則 handoff，也都照做了**——它從未被解決，只是被準確地傳遞。
 - **代價從抽象變具體的那一刻**：投稿者 @tboydar 開 [PR #1710](https://github.com/frank890417/taiwan-md/pull/1710) 補馬英九德文版，而 babel 產線當天 04:54 已經在 `ef7278710` 產出同一篇的完整德譯（`de/People/ma-ying-jeou-cross-strait-reconciliation-leader.md`，63KB，slug 與其他 12 語一致且已登記在 `_translations.json`）。那個 commit 就卡在未推送的佇列裡。於是：投稿者看不到、三條 CI 也看不到，**全部看到一個不存在的缺口並一致放行**。一個真人花了一整篇的力氣，去填一個已經被填好的洞。
 - **與既有反射的關係**：這是 [REFLEXES #82](REFLEXES.md) proxy signal 的鏡像面——#82 講「訊號要摸到 ground truth，不是量它的替身」；這條講**當 ground truth 本身分岔成兩份，而閘門只站得到其中一份上**時會發生什麼。也是 §神經迴路「儀器只看見存在、看不見缺席」的第 N 次：未推送的那 171 個 commit 在 origin 側不留任何痕跡。
+- **instance 2（2026-09-13 twmd-weekly-report-sun，分岔第五天）**：本週體檢的診斷五面**全部通過**，而管線已斷四天。`routine-liveness-check.py` 報 silent-death=0 / unregistered=0，它的定義是「排程觸發之後**本地**有沒有 commit」——這支工具本來就是為了取代 `lastRunAt` 這個替身而造的（`reports/mouhouse-blackout-root-cause-2026-09-05.md` 的結論：有效的尺只有 fire 之後有沒有 commit），**而它自己也是替身**：本地有 commit 不證明產出到得了讀者，部署讀的是 `origin/main`。同一輪 pre-push 全站 `article-health` 全綠（它答的是「本地這棵樹健不健康」，也是對的）。三個綠燈都不是假警報，是**真的全綠**，只是沒有一個問過「這些東西到得了世界那一端嗎」。假警報每天被人工推翻一次，真全綠沒有人會去質疑。**候選機械化**：對賬多一個維度——traced 到的那個 commit 是不是 `origin/main` 的祖先，不是就報 `traced-but-unpublished`，跟 `traced` 用不同符號（已進 `reports/evolution-roadmap-2026-08-09.md` §六之六 桶 2 第一項）。
 - **本班的處置與它的邊界**：171 個 commit 已推到分支 `20260912-unpushed-routine-queue`（全部 workflow 掛 `push: branches:[main]` / `pull_request` / tag，推分支觸發零 CI；pre-push 全站 `article-health` ci-deploy 同款全綠，證明卡住的是合併不是內容）。**這是止血不是解法**：它把「看不見又只有一份」降級成「看得見、可比對」，但閘門仍然站在 origin 上，仍然看不到那 171 個 commit 的內容。
 - **候選機械化**：(a) pre-push 或晨鏈開頭加一道「本地領先 origin 超過 N 個 commit 或 M 小時」的 fail-loud，讓「推不出去」自己會叫，而不是靠當班讀 handoff 讀出來；(b) `routine-stall-check.py` 的警報文案把「無法區分排程沒跑 vs 跑了推不出去」講成了最糟的那一個，應改成陳述量到什麼＋列候選成因（這一條是 [REFLEXES #38](REFLEXES.md) 混維度 + [#85](REFLEXES.md)「不知道需要自己的符號」的 fold 候選，不另立新反射）；(c) 投稿入口（issue template / CONTRIBUTING）對「產線可能已在做同一篇」無任何提示，而唯一能查的 `_translations.json` 在 origin 側也是過期的。
 
