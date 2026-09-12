@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T03:24:27+08:00",
-    "zhCommitHead": "687a2b787",
+    "lastUpdated": "2026-09-13T03:50:42+08:00",
+    "zhCommitHead": "9a80f6545",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -36,42 +36,42 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 817,
+        "fresh": 818,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 212,
+        "missing": 211,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 807,
+        "fresh": 808,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 217,
+        "missing": 216,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 805,
+        "fresh": 807,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 216,
+        "missing": 214,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 730,
+        "fresh": 731,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 234,
+        "missing": 233,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 623,
+        "fresh": 624,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 441,
+        "missing": 440,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 669,
+        "fresh": 670,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 405,
+        "missing": 404,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 765,
+        "fresh": 766,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 305,
+        "missing": 304,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 521,
+        "fresh": 522,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 593,
+        "missing": 592,
         "orphan": 0
       }
     },
@@ -39652,8 +39652,8 @@
           "sourceContentHash": "sha256:c1027a26b2054b2e",
           "sourceBodyHash": "sha256:48c6ab2b08ee901b",
           "translatedAt": "2026-09-13T00:44:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "936e60f0",
+          "translationLastModified": "2026-09-13T03:24:27+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -72005,7 +72005,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chen-szu-hung.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-13T00:44:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -72501,8 +72512,8 @@
           "sourceContentHash": "sha256:d22d7298dff5ac3a",
           "sourceBodyHash": "sha256:7b62e2a912ba5344",
           "translatedAt": "2026-09-13T00:44:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "936e60f0",
+          "translationLastModified": "2026-09-13T03:24:27+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -106227,16 +106238,60 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/heimao-laoshi.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/heimao-laoshi.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/heimao-laoshi.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/heimao-laoshi.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -106248,10 +106303,32 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/heimao-laoshi.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/heimao-laoshi.md",
+          "translatedFrom": "People/黑貓老師.md",
+          "sourceCommitSha": "9d93b1d90",
+          "sourceContentHash": "sha256:098b16931924e6a4",
+          "sourceBodyHash": "sha256:d62613e467add761",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -123987,8 +124064,8 @@
           "sourceContentHash": "sha256:17af96b268beb6de",
           "sourceBodyHash": "sha256:2beca8976bf8f3ea",
           "translatedAt": "2026-09-13T00:44:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "936e60f0",
+          "translationLastModified": "2026-09-13T03:24:27+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -127033,8 +127110,8 @@
           "sourceContentHash": "sha256:50b4c719b7719ddb",
           "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
           "translatedAt": "2026-09-13T00:44:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "936e60f0",
+          "translationLastModified": "2026-09-13T03:24:27+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -131638,13 +131715,35 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/taiwan-radio-broadcasting-history.md",
+          "translatedFrom": "History/台灣廣播史.md",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:d166faa74a30d730",
+          "sourceBodyHash": "sha256:9b5ab13cba09c99e",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/taiwan-radio-broadcasting-history.md",
+          "translatedFrom": "History/台灣廣播史.md",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:d166faa74a30d730",
+          "sourceBodyHash": "sha256:9b5ab13cba09c99e",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -156449,8 +156548,8 @@
           "sourceContentHash": "sha256:69f1aed62a2df405",
           "sourceBodyHash": "sha256:1bd762ed30b04b56",
           "translatedAt": "2026-09-13T00:44:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "936e60f0",
+          "translationLastModified": "2026-09-13T03:24:27+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
