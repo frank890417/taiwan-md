@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T02:19:28+08:00",
-    "zhCommitHead": "770f17004",
+    "lastUpdated": "2026-09-13T02:24:44+08:00",
+    "zhCommitHead": "09de2f5e6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 812,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 215,
+        "missing": 214,
         "orphan": 0
       },
       "ja": {
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 812,
+        "fresh": 813,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 217,
+        "missing": 216,
         "orphan": 0
       },
       "es": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 801,
+        "fresh": 802,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 220,
+        "missing": 219,
         "orphan": 0
       },
       "vi": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 619,
+        "fresh": 620,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 445,
+        "missing": 444,
         "orphan": 0
       },
       "pt": {
@@ -41627,13 +41627,35 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/leofoo-village.md",
+          "translatedFrom": "Lifestyle/六福村.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:e4d0887ad2be656b",
+          "sourceBodyHash": "sha256:185b659b9a1b47ea",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/leofoo-village.md",
+          "translatedFrom": "Lifestyle/六福村.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:e4d0887ad2be656b",
+          "sourceBodyHash": "sha256:185b659b9a1b47ea",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/leofoo-village.md",
@@ -41642,6 +41664,20 @@
           "sourceContentHash": "sha256:e4d0887ad2be656b",
           "sourceBodyHash": "sha256:185b659b9a1b47ea",
           "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "d0c53e6f",
+          "translationLastModified": "2026-09-13T02:19:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/Lifestyle/leofoo-village.md",
+          "translatedFrom": "Lifestyle/六福村.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:e4d0887ad2be656b",
+          "sourceBodyHash": "sha256:185b659b9a1b47ea",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -41649,14 +41685,22 @@
           "status": "fresh",
           "reason": "same-commit"
         },
-        "fr": {
-          "status": "missing"
-        },
         "vi": {
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/leofoo-village.md",
+          "translatedFrom": "Lifestyle/六福村.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:e4d0887ad2be656b",
+          "sourceBodyHash": "sha256:185b659b9a1b47ea",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -72233,8 +72277,8 @@
           "sourceContentHash": "sha256:d22d7298dff5ac3a",
           "sourceBodyHash": "sha256:7b62e2a912ba5344",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d0c53e6f",
+          "translationLastModified": "2026-09-13T02:19:29+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -102619,8 +102663,8 @@
           "sourceContentHash": "sha256:695b08b5d7d2de65",
           "sourceBodyHash": "sha256:6c22ac71a15a46ba",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d0c53e6f",
+          "translationLastModified": "2026-09-13T02:19:29+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -126600,8 +126644,8 @@
           "sourceContentHash": "sha256:50b4c719b7719ddb",
           "sourceBodyHash": "sha256:5ae2ca3119e7bd26",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d0c53e6f",
+          "translationLastModified": "2026-09-13T02:19:29+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -156038,8 +156082,8 @@
           "sourceContentHash": "sha256:69f1aed62a2df405",
           "sourceBodyHash": "sha256:1bd762ed30b04b56",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d0c53e6f",
+          "translationLastModified": "2026-09-13T02:19:29+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
