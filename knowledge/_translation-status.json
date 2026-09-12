@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T04:02:05+08:00",
-    "zhCommitHead": "9755251ff",
+    "lastUpdated": "2026-09-13T04:30:40+08:00",
+    "zhCommitHead": "90bdddb5f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 816,
+        "fresh": 817,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 210,
+        "missing": 209,
         "orphan": 0
       },
       "ja": {
@@ -36,42 +36,42 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 819,
+        "fresh": 820,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 210,
+        "missing": 209,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 810,
+        "fresh": 811,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 214,
+        "missing": 213,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 808,
+        "fresh": 809,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 213,
+        "missing": 212,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 731,
+        "fresh": 732,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 233,
+        "missing": 232,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 624,
+        "fresh": 625,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 440,
+        "missing": 439,
         "orphan": 0
       },
       "pt": {
@@ -84,34 +84,34 @@
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 671,
+        "fresh": 672,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 403,
+        "missing": 402,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 728,
+        "fresh": 729,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 336,
+        "missing": 335,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 767,
+        "fresh": 768,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 303,
+        "missing": 302,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 523,
+        "fresh": 525,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 591,
+        "missing": 589,
         "orphan": 0
       }
     },
@@ -39612,8 +39612,8 @@
           "sourceContentHash": "sha256:c1027a26b2054b2e",
           "sourceBodyHash": "sha256:48c6ab2b08ee901b",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c82133d3",
+          "translationLastModified": "2026-09-13T04:02:05+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -71949,8 +71949,8 @@
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c82133d3",
+          "translationLastModified": "2026-09-13T04:02:05+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -106241,8 +106241,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c82133d3",
+          "translationLastModified": "2026-09-13T04:02:05+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -118835,19 +118835,63 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/cantonese-roast-meat-bento.md",
+          "translatedFrom": "Food/燒臘便當.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:9e0f798883cbe5d7",
+          "sourceBodyHash": "sha256:3b14e4290a67452c",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/cantonese-roast-meat-bento.md",
+          "translatedFrom": "Food/燒臘便當.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:9e0f798883cbe5d7",
+          "sourceBodyHash": "sha256:3b14e4290a67452c",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Food/cantonese-roast-meat-bento.md",
+          "translatedFrom": "Food/燒臘便當.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:9e0f798883cbe5d7",
+          "sourceBodyHash": "sha256:3b14e4290a67452c",
+          "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Food/cantonese-roast-meat-bento.md",
+          "translatedFrom": "Food/燒臘便當.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:9e0f798883cbe5d7",
+          "sourceBodyHash": "sha256:3b14e4290a67452c",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -124002,8 +124046,8 @@
           "sourceContentHash": "sha256:17af96b268beb6de",
           "sourceBodyHash": "sha256:2beca8976bf8f3ea",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c82133d3",
+          "translationLastModified": "2026-09-13T04:02:05+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -131754,8 +131798,8 @@
           "sourceContentHash": "sha256:d166faa74a30d730",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c82133d3",
+          "translationLastModified": "2026-09-13T04:02:05+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -131799,7 +131843,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-radio-broadcasting-history.md",
+          "translatedFrom": "History/台灣廣播史.md",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:d166faa74a30d730",
+          "sourceBodyHash": "sha256:9b5ab13cba09c99e",
+          "translatedAt": "2026-09-13T00:44:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taiwan-radio-broadcasting-history.md",
@@ -131830,7 +131885,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-radio-broadcasting-history.md",
+          "translatedFrom": "History/台灣廣播史.md",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:d166faa74a30d730",
+          "sourceBodyHash": "sha256:9b5ab13cba09c99e",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -153392,8 +153458,8 @@
           "sourceContentHash": "sha256:e24d7260c5b6a2bc",
           "sourceBodyHash": "sha256:00444a759deb7a89",
           "translatedAt": "2026-09-13T00:44:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c82133d3",
+          "translationLastModified": "2026-09-13T04:02:05+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -153428,10 +153494,32 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/a-kuei-animation.md",
+          "translatedFrom": "Culture/阿貴動畫.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:e24d7260c5b6a2bc",
+          "sourceBodyHash": "sha256:00444a759deb7a89",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/a-kuei-animation.md",
+          "translatedFrom": "Culture/阿貴動畫.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:e24d7260c5b6a2bc",
+          "sourceBodyHash": "sha256:00444a759deb7a89",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/a-kuei-animation.md",
@@ -153451,13 +153539,46 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/a-kuei-animation.md",
+          "translatedFrom": "Culture/阿貴動畫.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:e24d7260c5b6a2bc",
+          "sourceBodyHash": "sha256:00444a759deb7a89",
+          "translatedAt": "2026-09-13T00:44:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/a-kuei-animation.md",
+          "translatedFrom": "Culture/阿貴動畫.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:e24d7260c5b6a2bc",
+          "sourceBodyHash": "sha256:00444a759deb7a89",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/a-kuei-animation.md",
+          "translatedFrom": "Culture/阿貴動畫.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:e24d7260c5b6a2bc",
+          "sourceBodyHash": "sha256:00444a759deb7a89",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
