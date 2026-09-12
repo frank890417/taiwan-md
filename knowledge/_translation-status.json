@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T04:30:40+08:00",
-    "zhCommitHead": "90bdddb5f",
+    "lastUpdated": "2026-09-13T04:36:39+08:00",
+    "zhCommitHead": "bd34617dd",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 817,
+        "fresh": 818,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 209,
+        "missing": 208,
         "orphan": 0
       },
       "ja": {
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 732,
+        "fresh": 733,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 232,
+        "missing": 231,
         "orphan": 0
       },
       "id": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 768,
+        "fresh": 769,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 302,
+        "missing": 301,
         "orphan": 0
       },
       "de": {
@@ -71963,8 +71963,8 @@
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd34617d",
+          "translationLastModified": "2026-09-13T04:30:40+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -75512,7 +75512,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/chiang-ching-kuo.md",
+          "translatedFrom": "People/蔣經國.md",
+          "sourceCommitSha": "0d2389cec",
+          "sourceContentHash": "sha256:47672068ff2f222b",
+          "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -106255,8 +106266,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd34617d",
+          "translationLastModified": "2026-09-13T04:30:40+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -118872,8 +118883,8 @@
           "sourceContentHash": "sha256:9e0f798883cbe5d7",
           "sourceBodyHash": "sha256:3b14e4290a67452c",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd34617d",
+          "translationLastModified": "2026-09-13T04:30:40+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -118894,7 +118905,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/cantonese-roast-meat-bento.md",
+          "translatedFrom": "Food/燒臘便當.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:9e0f798883cbe5d7",
+          "sourceBodyHash": "sha256:3b14e4290a67452c",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -118909,7 +118931,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/cantonese-roast-meat-bento.md",
+          "translatedFrom": "Food/燒臘便當.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:9e0f798883cbe5d7",
+          "sourceBodyHash": "sha256:3b14e4290a67452c",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -124060,8 +124093,8 @@
           "sourceContentHash": "sha256:17af96b268beb6de",
           "sourceBodyHash": "sha256:2beca8976bf8f3ea",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd34617d",
+          "translationLastModified": "2026-09-13T04:30:40+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -131812,8 +131845,8 @@
           "sourceContentHash": "sha256:d166faa74a30d730",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd34617d",
+          "translationLastModified": "2026-09-13T04:30:40+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -153472,8 +153505,8 @@
           "sourceContentHash": "sha256:e24d7260c5b6a2bc",
           "sourceBodyHash": "sha256:00444a759deb7a89",
           "translatedAt": "2026-09-13T00:44:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bd34617d",
+          "translationLastModified": "2026-09-13T04:30:40+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
