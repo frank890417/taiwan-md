@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-13 twmd-feedback-triage — staleness-guard-ships-through-the-artifact-it-guards：防「這棵樹是舊的」的警報住在樹裡，樹一舊就連警報一起舊掉
+
+- **pattern**: `staleness-guard-ships-through-the-artifact-it-guards`
+- **原則**：一個用來偵測「本機副本已過期」的警報，如果它自己也是隨那份副本一起發佈的，那麼在它最該響的情境裡它不存在。過期越久的機器，越不可能擁有這個警報——偵測能力跟被偵測的病症負相關。這跟 REFLEXES #82 的替身訊號不同：不是量錯了東西，是量的東西沒被安裝；也跟一般的「規則沒有閘門」不同：閘門寫好了、測過三態、commit 訊息還特地寫「不用等當班想到」，只是它到不了需要它的那棵樹。判準：任何「偵測環境 X 有問題」的機制，先問它的交付路徑會不會被 X 本身切斷；會的話，它必須有一條不經過 X 的送達方式（外部排程、遠端查詢、開機時先 fetch 再讀），否則它保護的永遠只是已經健康的機器。
+- **觸發**：`scripts/tools/wake-context.py` 的工作樹新鮮度檢查（落後 origin/main 時 selftest 印 ⚠️ 並 exit 2）於 2026-09-09 14:25 由 opentwbench session ship（`0e1d423dd`，commit 標題「甦醒時會自己說『這棵樹是舊的』，不用等當班想到」），為的正是 REFLEXES #67 子規則「工作樹本身可以是過期快照」vc=4。這台機器的 `main` 跟 `origin/main` 的 merge-base 是同日 09:11（`9e1988362`），比那次 ship 早五小時——babel dispatcher 連續佔用工作樹，分岔自此沒有收斂過。結果是本機 `wake-context.py` 完全沒有這段程式（`grep -c parallel_actor` 本機 0、origin/main 7），而四天來每一條在這台機器上醒來的 routine，selftest 都印「取數健康：N 項體檢全綠」，本班醒來時實際落後 147 個 commit。本班是自己另外跑 `check-parallel-actor.sh` 才知道，正是那行 commit 訊息說不必再靠的「當班想到」。
+- **可能層級**：通用反射（任何隨產物一起發佈的自我診斷；同構候選：pre-commit hook 偵測 hook 自己沒安裝、CI 設定檔檢查 CI 設定、routine mirror 對賬工具住在 mirror 裡）
+- **相關**：REFLEXES #67 子規則「工作樹本身可以是過期快照」（本條是它的修補自己踩進同一個洞，第 5 例且發生在修補層）、REFLEXES #82 proxy signal（相鄰但不同：那是訊號量了替身，本條是訊號沒被安裝）、REFLEXES #96「已經知道會這樣壞，並不減少它壞的機率」（知識下沉到了控制流，控制流沒下沉到這台機器）
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-09-13 twmd-self-evolve-weekly — negation-word-does-not-flip-substring-marker-match：文字裡寫「非🔒」是在解釋它不是鎖，但字串比對只看見那個 🔒 字元
 
 - **pattern**: `negation-word-does-not-flip-substring-marker-match`
