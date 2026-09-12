@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-12T19:35:46+08:00",
-    "zhCommitHead": "8eee136e0",
+    "lastUpdated": "2026-09-12T19:46:29+08:00",
+    "zhCommitHead": "94f3fb37f",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 485,
+        "fresh": 495,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 629,
+        "missing": 619,
         "orphan": 0
       }
     },
@@ -10260,7 +10260,18 @@
           "diffSummary": "+8 -0"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/htc-android-pioneer-vr-transformation.md",
+          "translatedFrom": "Economy/台灣企業：宏達電.md",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:1e059fb4544621d1",
+          "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -11683,8 +11694,8 @@
           "sourceContentHash": "sha256:8e1984eacca56325",
           "sourceBodyHash": "sha256:bda6180b6fe80c7a",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -12180,7 +12191,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-companies-chunghwa-telecom.md",
+          "translatedFrom": "Economy/台灣企業：中華電信.md",
+          "sourceCommitSha": "4a4d66620",
+          "sourceContentHash": "sha256:dd196b4a3bebe6fe",
+          "sourceBodyHash": "sha256:85923df8ecf92741",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12837,7 +12859,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-international-trade-policy.md",
+          "translatedFrom": "Economy/台灣國際貿易政策.md",
+          "sourceCommitSha": "4a4d66620",
+          "sourceContentHash": "sha256:d585af78b77ed183",
+          "sourceBodyHash": "sha256:57ec5065ff0c2c3f",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -16216,7 +16249,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/books-com-tw.md",
+          "translatedFrom": "Economy/博客來.md",
+          "sourceCommitSha": "5e15a7d9d",
+          "sourceContentHash": "sha256:204a3cf0ff763d30",
+          "sourceBodyHash": "sha256:70cf0c01c1c3b9f1",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -18113,8 +18157,8 @@
           "sourceContentHash": "sha256:4412f50a29e8bcfe",
           "sourceBodyHash": "sha256:6b0ed5d3cd521366",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -19789,7 +19833,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-disaster-medicine-system.md",
+          "translatedFrom": "Technology/台灣災難醫療體系.md",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:6c1de6e7d125ff24",
+          "sourceBodyHash": "sha256:fa56609bf3ed1f63",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -24355,8 +24410,8 @@
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -32352,7 +32407,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwanese-curators-and-artistic-cultural-construction.md",
+          "translatedFrom": "Art/台灣策展人與藝術文化建構.md",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:9ea16a828e45af61",
+          "sourceBodyHash": "sha256:b8ac47c9a8b9482f",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -50812,7 +50878,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-public-health-epidemic-response.md",
+          "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
+          "sourceBodyHash": "sha256:bbdf3516f36f033d",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53966,7 +54043,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/migrant-workers-in-taiwan.md",
+          "translatedFrom": "Society/移工.md",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:097cf0d80bc1fd84",
+          "sourceBodyHash": "sha256:518e84b411e7ba80",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -56269,8 +56357,8 @@
           "sourceContentHash": "sha256:4eaade85ced1c1e6",
           "sourceBodyHash": "sha256:8fd8e7154014483c",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -59877,8 +59965,8 @@
           "sourceContentHash": "sha256:7f5ae90c4eafcd0e",
           "sourceBodyHash": "sha256:2a057438270935d7",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -65222,8 +65310,8 @@
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -80771,8 +80859,8 @@
           "sourceContentHash": "sha256:ea13c4b2a458e44f",
           "sourceBodyHash": "sha256:64a1b7182260c207",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -94689,8 +94777,8 @@
           "sourceContentHash": "sha256:e787dc16343b5dd6",
           "sourceBodyHash": "sha256:b6b66329e69543f7",
           "translatedAt": "2026-09-12T16:22:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -103139,8 +103227,8 @@
           "sourceContentHash": "sha256:b50fabfadefe035f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-12T10:04:23.603377+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "status": "fresh",
@@ -116570,7 +116658,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/chishang-bento.md",
+          "translatedFrom": "Food/池上便當.md",
+          "sourceCommitSha": "a5f19502c",
+          "sourceContentHash": "sha256:7c102d9a72b4f209",
+          "sourceBodyHash": "sha256:5f29317bb49115c6",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -126099,7 +126198,18 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/martial-law-era.md",
+          "translatedFrom": "History/戒嚴時期.md",
+          "sourceCommitSha": "217edf31a",
+          "sourceContentHash": "sha256:e8a5eefcc576a838",
+          "sourceBodyHash": "sha256:028c0bee94ad5d00",
+          "translatedAt": "2026-09-12T19:24:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -136389,8 +136499,8 @@
           "sourceContentHash": "sha256:833f85e006d23e04",
           "sourceBodyHash": "sha256:fa90458e0d20dada",
           "translatedAt": "2026-09-12T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "94f3fb37",
+          "translationLastModified": "2026-09-12T19:35:46+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
