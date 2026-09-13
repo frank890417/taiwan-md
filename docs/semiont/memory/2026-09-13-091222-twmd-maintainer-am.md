@@ -4,7 +4,7 @@
 > Session span: 08:45 → 09:3x +0800（3 PR merged + 1 PR 留置 + 2 儀器修補經 PR 上線 + 1 discussion 更正 + 1 LESSONS instance）
 > 資料來源：`gh pr view --json` / `git rev-list --left-right` / `git ls-tree origin/main` / `_translations.json` 反查 / GitHub Actions API
 
-✅ BECOME ack: mode=review（Stage 1 ready PR **4**，未達 High-stake #1「PR triage ≥ 5」門檻，維持 review 不升 full；`isDraft:false` 計 4 / draft 0）/ 8 organ 最低=🛡️ 免疫 59（即時 `consciousness-snapshot.sh`，黃燈自 2026-07-05 未解）/ Q13 anti-bias=PASS / Q14 cross-session continuity=PASS
+✅ BECOME ack: mode=review（Stage 1 ready PR **4**，未達 High-stake #1「PR triage ≥ 5」門檻，維持 review 不升 full。`isDraft:false` 計 4 / draft 0）/ 8 organ 最低=🛡️ 免疫 59（即時 `consciousness-snapshot.sh`，黃燈自 2026-07-05 未解）/ Q13 anti-bias=PASS / Q14 cross-session continuity=PASS
 
 wake-context 十項體檢全綠、讀到 `wake:END` sentinel（237,421 bytes / 11 段）。**但那份全綠帶一個已知缺口**：本機的 `wake-context.py` 沒有 9/09 才 ship 的工作樹新鮮度檢查（落後 147 commit 的機器恰好拿不到那道警報，昨天 feedback-triage 已登 LESSONS `staleness-guard-ships-through-the-artifact-it-guards`）。所以落後 147 commit 這件事是我自己跑 `check-parallel-actor.sh` 才看到的，不是甦醒告訴我的。
 
@@ -29,13 +29,13 @@ wake-context 十項體檢全綠、讀到 `wake:END` sentinel（237,421 bytes / 1
 | 項目             | 數字                                      | 備註                                                                              |
 | ---------------- | ----------------------------------------- | --------------------------------------------------------------------------------- |
 | open PR          | **4 ready / 0 draft**                     | aminzai ×3（hi/id/de 翻譯）、tboydar ×1（de 馬英九，前班留置）                    |
-| open issue       | 4                                         | #1711 本班修根因；#1678 / #1609 最新留言是維護者 → SKIP；#615 umbrella 前班剛答   |
+| open issue       | 4                                         | #1711 本班修根因、#1678 / #1609 最新留言是維護者 → SKIP、#615 umbrella 前班剛答   |
 | discussions      | 12                                        | #1704 本班**更正**前班說錯的一句（見下）                                          |
 | past 24hr commit | 10 條 routine fire                        | 晨鏈全綠，**仍全部只到本機**                                                      |
 | past 48hr commit | ~90（babel 佔絕大多數）                   | de 進度續漲，dispatcher 第八夜                                                    |
-| build / CI       | **7 條 workflow 全綠**（group-by 全表問） | Deploy 最後一次成功 9/12 17:06；`Python tests` 綠                                 |
+| build / CI       | **7 條 workflow 全綠**（group-by 全表問） | Deploy 最後一次成功 9/12 17:06、`Python tests` 綠                                 |
 | PR CI armed      | **4/4 ARMED**，UNARMED 0 / NO-WORKFLOW 0  | `pr-ci-armed.sh`                                                                  |
-| broken-link      | **gated 0.27% < 7%**（all-langs 0.24%）   | PASS，**但 dist 是 9/07 建的，數字帶六天齡**；已登 LESSONS instance（見 Stage 4） |
+| broken-link      | **gated 0.27% < 7%**（all-langs 0.24%）   | PASS，**但 dist 是 9/07 建的，數字帶六天齡**、已登 LESSONS instance（見 Stage 4） |
 | 免疫器官         | 🛡️ 59 黃燈                                | 漂移中，最大缺口 review_coverage=19.2，owner = self-evolve-weekly                 |
 
 **讀取層失真處置**：本機檢查器落後 147 commit，一律不拿它判投稿。開 `scratchpad/wt-origin` 從 `origin/main` 出發的 worktree（article-health 純 python + lib，不需 npm ci），所有閘門都在那棵樹上跑。
@@ -46,7 +46,7 @@ wake-context 十項體檢全綠、讀到 `wake:END` sentinel（237,421 bytes / 1
 
 三篇都是純新增單檔（de 鯨豚 / id 交工樂隊 / hi 擔仔麵）。紅旗十條零命中。
 
-閘門全部用 **origin/main 當前版本**的檢查器跑：`article-health --profile=ci-deploy` 三篇 hard=0 warn=0；`target-language-check` 0 fail；`person-fidelity-check` / `geo-fidelity-check` 各 0；`sovereignty-lexicon-check` 0 critical。
+閘門全部用 **origin/main 當前版本**的檢查器跑：`article-health --profile=ci-deploy` 三篇 hard=0 warn=0、`target-language-check` 0 fail、`person-fidelity-check` / `geo-fidelity-check` 各 0、`sovereignty-lexicon-check` 0 critical。
 
 結構完整度對中文母稿逐項相同：H2（9/9、9/9、7/7）、腳註（7/7、8/8、9/9）。**腳註網址集合與母稿完全一致**（7、8、16 條全中，零 relink drift，這是翻譯 PR 最該機械檢查的一項）。字元比 3.35 / 2.90 / 2.74 全落在 `ratio-bands.json` 校準區間。frontmatter 五欄（author / featured / curation / lastHumanReview / subcategory）逐欄鏡射母稿，**無需 heal**——`author: 'Taiwan.md'` 在這個脈絡是正確的繼承值，不是紅旗 #7（per LESSONS `documented-red-flag-with-no-enforcer`：那條紅旗的前提是投稿新內容，不是鏡射既有 Taiwan.md 自產文）。
 
@@ -66,17 +66,17 @@ Step 2.4 命中：前班 9/12 已留一則完整說明，無投稿者 follow-up 
 
 根因是混維度（REFLEXES #38 長在告警文案層）：尺一只問「main 上最近一筆 `[routine]` commit 多久以前」，而那個數字有兩種相反的來源——跑 routine 的機器死了，或它照常跑照常 commit 但 push 被擋住。兩種讀數相同，該做的事相反。
 
-修法用「同窗口內 main 上最近一筆**任何** commit」分開：main 還在動 → `routine-output-not-landing`，並列兩個候選與各自查法；main 整個安靜 → 維持原本 `flywheel-silent`。**嚴重度與 exit code 一個都沒變**（critical 仍 2），workflow 讀的三個 JSON 欄位也都還在，所以 `routine-stall-alert.yml` 沒動。殘餘盲點寫進 docstring：這支腳本只讀 main，已 commit 未推送的產出結構上不可見，所以兩個候選在這支尺上分不開，要到那台機器上才分得開；要真的分開需要讓它看到 main 以外的 ref（`actions/checkout` 預設只抓單一分支），那是 workflow 層改動＋會動到它「只讀 git 不依賴網路」的設計前提，**留給哲宇**。
+修法用「同窗口內 main 上最近一筆**任何** commit」分開：main 還在動 → `routine-output-not-landing`，並列兩個候選與各自查法。main 整個安靜則維持原本 `flywheel-silent`。**嚴重度與 exit code 一個都沒變**（critical 仍 2），workflow 讀的三個 JSON 欄位也都還在，所以 `routine-stall-alert.yml` 沒動。殘餘盲點寫進 docstring：這支腳本只讀 main，已 commit 未推送的產出結構上不可見，所以兩個候選在這支尺上分不開，要到那台機器上才分得開。要真的分開需要讓它看到 main 以外的 ref（`actions/checkout` 預設只抓單一分支），那是 workflow 層改動＋會動到它「只讀 git 不依賴網路」的設計前提，**留給哲宇**。
 
 4 個新測試，對未修版本全紅（`KeyError: 'diagnosis'`）——control 組真的會紅才算驗過。既有 20 個全綠。
 
-### 詞庫查證欠條 — 月度 routine 每輪必須交代（PR #1717）
+### 詞庫查證欠條 — 月度 routine 每輪必須交代（PR #1717 merged `95b620ddb`）
 
 #1609 的讀者蘇洛 8/23 用白色恐怖受難者郭淑姿的日記挑戰 `無語` 的斷代主張。前兩班（8/28、8/31）都誠實處理、把出處定位到國家人權博物館那兩冊日記，**兩班都寫「查證工作排進用語趨勢 routine」**。而 `TERMINOLOGY-TRENDS-PIPELINE` 七個 stage 全部在講新詞入庫，沒有任何一步回頭讀既有條目——9/5 的月度輪跑過了，那條欠條一個字沒被碰。承諾寫在 yaml 註解與 GitHub 留言，被指名的執行者沒有對應動作。
 
 **關鍵是不能拿既有散文當記號**：全庫 2,310 條，`grep 查證分歧誠信標註` 命中 7 條，其中 6 條（具體／挺／硫酸紙／肯定／腦子／行吧）是「查證做完了，標註記錄結論」，只有無語真的還欠著——6/7 假陽性。欠條需要自己的符號（REFLEXES #85），所以用結構化欄位 `pending_verification`（question／needs／issue／opened），工具一個字不從散文推論。
 
-新工具 `terminology-pending-verification.py`（讀不到目錄／壞檔 exit 3，不假裝綠燈）＋ pipeline Stage 1.5 REVISIT ＋ 兩條 hard gate（每條欠條月報必有一句處置，「這輪沒碰因為要調閱實體書」也算；Stage 4 誠信標註留下未決問題時同條必補欄位）。8 個新測試含兩道回歸守門。全庫 `pytest tests` **450 passed / 8 skipped**。新 yaml key 對既有消費者無害（都走 `.get()`）：`extract-china-terms.py` 正常、`terminology-charcheck.js` 2304 檔 SIMPLIFIED_LEAK 0。
+新工具 `terminology-pending-verification.py`（讀不到目錄／壞檔 exit 3，不假裝綠燈）＋ pipeline Stage 1.5 REVISIT ＋ 兩條 hard gate（每條欠條月報必有一句處置，「這輪沒碰因為要調閱實體書」也算。Stage 4 誠信標註留下未決問題時同條必補欄位）。8 個新測試含兩道回歸守門。全庫 `pytest tests` **450 passed / 8 skipped**。新 yaml key 對既有消費者無害（都走 `.get()`）：`extract-china-terms.py` 正常、`terminology-charcheck.js` 2304 檔 SIMPLIFIED_LEAK 0。
 
 **判定一個字沒動**——斷代站不站得住仍要把那兩冊翻過才知道。本 PR 只讓那件事不再隱形。
 
@@ -90,17 +90,27 @@ Step 2.4 命中：前班 9/12 已留一則完整說明，無投稿者 follow-up 
 
 | Gate                                              | 結果                                                                                             |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| open issues 都有 status label / assignee          | ✅ 4 則皆有 label；#1711 本班修根因、#1678/#1609 已登冊待 REWRITE／調閱、#615 umbrella 前班剛答  |
-| open PRs ≤ 5d age 都有 review comment             | ✅ #1713/#1714/#1715 merged 並一則批次致謝；#1710 前班已留完整說明（Step 2.4 SKIP 避免罐頭重複） |
+| open issues 都有 status label / assignee          | ✅ 4 則皆有 label、#1711 本班修根因、#1678/#1609 已登冊待 REWRITE／調閱、#615 umbrella 前班剛答  |
+| open PRs ≤ 5d age 都有 review comment             | ✅ #1713/#1714/#1715 merged 並一則批次致謝、#1710 前班已留完整說明（Step 2.4 SKIP 避免罐頭重複） |
 | broken-link gated ratio < gate（7%）              | ✅ 0.27%（all-langs 0.24%）**但輸入 dist 六天齡**，已登 LESSONS vc=2                             |
 | build green                                       | ✅ main 7 條 workflow 全綠（group-by 全表，不點名）                                              |
 | BECOME ACK 一行記憶體頂                           | ✅ 本檔頂部                                                                                      |
 | 連續空場 ≥ 3 cycle 有 LESSONS entry               | ✅ 不適用（今天有 4 ready PR + 4 issue + 1 discussion，vc=0）                                    |
-| 有 fresh issue 的 cycle，至少一件被修掉或寫明不修 | ✅ #1711 根因修掉並上線（`856f7a02d`）；另兩支儀器缺口一支修掉（#1717）一支寫明不修（dist 齡）   |
+| 有 fresh issue 的 cycle，至少一件被修掉或寫明不修 | ✅ #1711 根因修掉並上線（`856f7a02d`）、另兩支儀器缺口一支修掉（#1717）一支寫明不修（dist 齡）   |
+
+## Beat 5 反芻與 diary 判斷（DIARY-PIPELINE Stage 0）
+
+**不寫 diary**，理由照 Stage 0 三層門檻逐條記：
+
+- **0a 機械閘**：`diary-gate.py` 本機不存在（9/09 才 ship，在分岔點 `9e1988362` 之後），所以改手查同 handle 冷卻——上一篇 `twmd-maintainer-am` diary 是 `2026-09-11-085925`，距今 2 天，**未過 6 天冷卻**。這本身又是一次「本機檢查器落後 147 commit」的具體代價：連「該不該寫日記」這道閘都拿不到。
+- **0b 四個家路由**：今天最值得留下的想法是「推不出去的是本機那一條路，不是所有路——而這個假設被七班原樣繼承，沒有人花一條 `git log origin/main` 去檢查」。它的家是本檔上方 §轉念 段（四個家的第一個：memory Beat 5），已經寫在那裡。
+- **0c routine 預設 skip**：成立，本班不給自己例外。
+
+那個想法跟 REFLEXES #67「『已驗過』帶被驗時刻的時間戳，高 stake 重驗用 probe 不信舊結論」是同一條，只是載體是 handoff 的前提而不是查證結論：**繼承來的前提也有被驗時刻**，而這一條的被驗時刻是 9/09——那天它是真的。沒有另開 LESSONS entry，因為本週已有八條 routine 各自寫過這場分岔，再加一條是 REFLEXES #74 講的跨 routine 信號通膨。
 
 ## 偏離與判斷（給觀察者）
 
-1. **兩個修補走 PR 不走 main-direct**：本機 main 推不出去就是被修的那件事本身；從 `origin/main` 長出的分支是 fast-forward，推得上去。選擇讓修補真的上線，而不是躺進 234 個 commit 一起等。兩個 PR body 都寫明。
+1. **兩個修補走 PR 不走 main-direct**：本機 main 推不出去就是被修的那件事本身。從 `origin/main` 長出的分支是 fast-forward，推得上去。選擇讓修補真的上線，而不是躺進 234 個 commit 一起等。兩個 PR body 都寫明。
 2. **merge 了兩篇跟本機 babel 撞車的譯文**：取投稿者版本。理由與取捨方向見上，已寫進 handoff。
 3. **dist 齡這道守門本班不做**：它會動到一條 quality gate 的判讀語意，而本班已經動過兩支儀器，第三支同時改會讓回歸面過寬。登 LESSONS vc=2 等 distill。
 
@@ -110,7 +120,7 @@ Step 2.4 命中：前班 9/12 已留一則完整說明，無投稿者 follow-up 
 
 - [ ] pending（原樣延續）— 金城武 96 行薄殼 + SC 曝光再翻 2.8 倍，ARTICLE-INBOX P1 SEO 候選優先序上調
 - [ ] pending（原樣延續）— 張忠仁與張忠義候選需哲宇明確拍板，不自動進任何 propose 流程
-- ⏳ blocked（原樣延續）— 待決佇列 #48 / #51 / #52 / #54 / #56 / #57（皆 🔒 紅線）等哲宇；#53 / #55 default-action 到期後可執行（2026-09-25）
+- ⏳ blocked（原樣延續）— 待決佇列 #48 / #51 / #52 / #54 / #56 / #57（皆 🔒 紅線）等哲宇、#53 / #55 default-action 到期後可執行（2026-09-25）
 - [ ] pending（原樣延續）— OBSERVER-QUEUE #57 SPORE-INBOX pending 45 條連續六週未收斂，選 A/B/C
 - ⏳ blocked（更新）— 分岔 behind 147 / ahead 234+。**本班未新增本機 main commit 到 knowledge/**，但本檔與 LESSONS-INBOX 的 commit 會再加一筆。救援分支 `20260912-unpushed-routine-queue` 停在 9/12 的 171 commit，已落後本機
 - [ ] pending（原樣延續，來自 09-11 maintainer-am）— 掃 `scripts/` 裡註解含「錯／假／坑／不完整／誤報」的檢查器，逐支確認有沒有對應的早退出口
@@ -118,12 +128,12 @@ Step 2.4 命中：前班 9/12 已留一則完整說明，無投稿者 follow-up 
 本 session 新 handoff：
 
 - [ ] **#1713 / #1714 衝突取捨方向已定，不必再判斷**：`knowledge/de/Nature/cetaceans-of-taiwan.md` 與 `knowledge/id/Music/labor-exchange-band.md` 兩檔，rebase 時**採 origin（投稿者版本）**，丟掉本機 babel 那兩份。已並排比對過（同 H2、同腳註數、投稿者稍長），已在 PR #1715 留言向 aminzai 公開說明。這兩檔從此不算「需要人工判斷的 118 篇」之一。
-- ⏳ **blocked — #1717 等 CI 綠後 merge**：`sticky-viewport-gate` 跑得慢（browser gate），pytest / contracts / review / feedback-db 已全 pass。若 gate 紅且與本改動無關（本 PR 只動 python + yaml + 一份 pipeline md，不碰 `src/`），下一班可逕行 merge 並在 memory 記一筆。
+- [x] ~~retired by 本 session — #1717 已 merge（`95b620ddb`）~~：`sticky-viewport-gate` 13 分 19 秒跑完（步驟 6 是全站 13 語 Astro build，慢屬正常非卡住），五條 check 全 pass。三個 PR（#1716 / #1717 / #1718）都已落在 origin/main。
 - [ ] **看門狗告警的殘餘盲點等哲宇**：要讓 `routine-stall-check` 真的分開「機器死了」與「推不上去」，必須讓它看到 main 以外的 ref。選項與成本：
   - **A**（推薦 default）`routine-stall-alert.yml` 加一步 `git fetch --depth=600 origin '+refs/heads/*:refs/remotes/origin/*'`，尺一改掃 `--all` 並報出最新 routine commit 落在哪個 ref。成本：workflow 多一次 fetch（約數十秒）＋ 動到 `.github/workflows/`。
   - **B** 腳本改走 `git ls-remote` + `gh api` 取各分支 head 的日期。成本：打破它「只讀 git、不依賴網路與 token」的設計前提，等於換一種脆弱。
   - **C** 不做，接受兩個候選並列。成本：每次都要人到那台機器上才分得開，但訊息已經誠實，不再指向錯的 remediation。
-- [ ] **救援分支已落後**：`20260912-unpushed-routine-queue` 停在 9/12 的 171 commit，本機已 ahead 234+。下一個能安全碰 git 的 session 可把它快轉到當前 HEAD（純分支推送，不觸發任何 workflow、不碰 main），讓「三天的產出不只存在一台機器上」這個性質維持為真。
+- [x] ~~retired by 本 session — 救援分支已快轉~~：`20260912-unpushed-routine-queue` 原停在 `9a80f6545`（9/13 03:32），落後本機 23 個 commit。已驗過它是 HEAD 的祖先（`git merge-base --is-ancestor` 通過，純 fast-forward 不是改寫）後推到 `95e61cea6`，現在本機 ahead 該分支 0。今天全部產出（含本檔）都不再只存在一台機器上。純分支推送，不觸發任何 workflow、沒碰 main。
 
 （diary/2026-09-11-085925-twmd-maintainer-am.md 的承諾仍未兌現）
 _給明天的我：掃一遍 `scripts/` 裡註解含「錯／假／坑／不完整／誤報」的檢查器，逐支確認有沒有對應的早退出口。今天又驗了一次這件事——`verify_internal_links.py` 的檔頭註解自己就記著「第一次（不完整 dist）印 PASSED」那個坑，而它補的是空目錄那一軸，年齡那一軸照樣沒人守。註解把病寫清楚，不等於控制流長出出口。_
