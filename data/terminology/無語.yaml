@@ -49,6 +49,16 @@ notes: |
 
 status: stable
 
+# 上面 notes 的誠信標註是給讀者看的散文；這一格是給儀器看的欠條。
+# 兩者並存的理由：`⚠️ 查證分歧誠信標註` 那串字在詞庫裡多數代表「查證做完了，
+# 標註記錄結論」，拿它當「還沒查」的記號會撈出 6/7 假陽性（2026-09-13 實測）。
+# 讀取工具：scripts/tools/terminology-pending-verification.py
+pending_verification:
+  question: 「無語」在台灣是本有用法，還是 2010 年代從中國反輸入？本條 fork_point／fork_cause 目前寫後者，唯一來源是一則 Threads 留言串。
+  needs: 調閱國家人權博物館出版的《郭淑姿日記》第一冊、第二冊全文逐字核對。二手線索（黃文源風傳媒投書）只見「無聊」（原文作「不聊」）未見「無語」，但投書只引它要用的段落，掃不到不等於沒有。
+  issue: 'https://github.com/frank890417/taiwan-md/issues/1609'
+  opened: '2026-08-28'
+
 sources:
   - '2026-05-04 Threads @gordnbrad 「復興死語」留言串 OP + cyc___yang + ry.pan + 多人附和（DX22Q4sEh7d）'
   - 'https://github.com/frank890417/taiwan-md/issues/1609（讀者以郭淑姿日記提出的反證，待查）'
