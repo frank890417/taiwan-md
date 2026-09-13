@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-09-13
-last_session: '2026-09-13-twmd-self-evolve-weekly（免疫 weightedGaps 儀器化 + weekly-checkup e1 誤判修復）'
+last_session: '2026-09-13-twmd-embeddings-nightly（13 語 10,845 向量 0 fail，分岔延續延遲 push）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -315,6 +315,7 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-13 | 020731-twmd-weekly-report-sun | 診斷五面全綠而管線斷四天；桶 1 三項：救援分支續命、佇列 #50 補回兩欄讓到期預設現形、把 118 篇合併取捨補成佇列 #56 | 一件事被準確傳遞七次，跟它被送到能拍板的人面前是兩回事 | [→](memory/2026-09-13-020731-twmd-weekly-report-sun.md) |
 | 2026-09-13 | 033032-twmd-distill-weekly | 消化 11 條（1 promote REFLEXES #96 + 7 fold + 2 MEMORY）；SPORE-INBOX 六週高原補進 OBSERVER-QUEUE #57 | 剛把「準確傳遞不等於送進決策面」寫進反射，下一步就親手撞見同一種病 | [→](memory/2026-09-13-033032-twmd-distill-weekly.md) |
 | 2026-09-13 | 042423-twmd-self-evolve-weekly | 免疫 59 chronic 十一週 sustain 皆對，但 09-05 拍板後無人重驗；加 weightedGaps 儀器化 + weekly-checkup e1「非🔒」誤判修復 | sustain 的正確性有保存期限，決策一落地就該重新檢查一次 | [→](memory/2026-09-13-042423-twmd-self-evolve-weekly.md) |
+| 2026-09-13 | 080831-twmd-embeddings-nightly | 13 語 10,845 向量 0 fail（id 7 + ru 2 小額 fetch 失敗）；rebuild 因 GPU 排隊拉長至 ~43 分鐘；commit `f8df95903` 因真分岔（ahead233/behind147，已是 OBSERVER-QUEUE #56 案件）延遲 push | 新增的本地 commit 不擅自併入既有救援分支批次，留給哲宇裁決後統一處理 | [→](memory/2026-09-13-080831-twmd-embeddings-nightly.md) |
 | 2026-09-13 | 054010-twmd-routine-sync | 第 47 輪對賬 18/18 in-sync 連續第六輪零漂移；昨晚的 dispatcher 換手重啟，分岔仍續漲至 ahead219/behind147 | 換手重啟不會讓分岔自動收斂，欠帳只跟產出速度有關 | [→](memory/2026-09-13-054010-twmd-routine-sync.md) |
 | 2026-09-13 | 064808-twmd-data-refresh-am | 第八夜撞見同一 dispatcher，Step 1 讓場、13 步全綠；prebuild 在鄰居負載下拉長到 25 分鐘，第一次逾時重跑才過 | process 活著不代表跑得跟平常一樣快，鄰居負載連累的不只子腳本也連累外層工具的時間假設 | [→](memory/2026-09-13-064808-twmd-data-refresh-am.md) |
 | 2026-09-13 | 070306-twmd-spore-harvest-am | 連續第五天現查 #170-176 metrics 與留言，Δ 全落雜訊範圍（0~+11 views）；0 新留言免 ship；ACTOR_BUSY 分岔中不碰 git | Threads「熱門」排序預設隱藏低互動留言，切「全部」才看到 #172 留言全貌（3→7 則） | [→](memory/2026-09-13-070306-twmd-spore-harvest-am.md) |
