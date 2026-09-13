@@ -644,7 +644,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **修補候選**：(a) pre-push 的全站掃描加分支判斷——只在 push 目標是 `origin/main` 時跑全站，push 到 fork 分支時退成「只驗這次 commit 動到的檔」（這是唯一在那棵樹上有意義的問題）；(b) P1 heal 不 checkout，改用 `git worktree` 或直接構造 blob/tree 用 GitHub API 推單檔，讓本機 HEAD 永遠留在 main（順帶解掉大小寫覆蓋那層代價）；(c) 最小補丁：在 MAINTAINER §1b P1 操作速查裡明寫「推 fork 分支時帶 `TWMD_SKIP_PREPUSH_SWEEP=1`，並在 memory 記下該檔對 main 樹的 hard 數」。**推薦 (a)**：它把「這道閘門在問誰的問題」修對，(c) 只是把每天跳過閘門這件事寫成正式規定，(b) 成本較高但一併解掉大小寫那個副作用。
 - **可能層級**：工具修補（`.husky/pre-push` 分支感知）＋ 候選反射（「掃描範圍是全站的檢查，換一棵樹就換一個問題——用它之前先確認腳下這棵樹是不是它假設的那棵」）
 - **相關**：`diagnosing-from-the-contributor-tree-audits-a-past-self`（2026-08-18，同病的人類版）／REFLEXES #82（proxy signal）／REFLEXES #24（工具在說謊）／`local-fs-case-insensitivity-masks-ci-failure`（2026-08-03，大小寫那層代價的既有 instance）
-- **verification_count**: 1
+- **instances**：
+  - #1（2026-08-22 twmd-maintainer-am）全站 `article-health` 在投稿者分支上跑，量到的是那棵樹的年紀——**換的是分支**
+  - #2（2026-09-13 twmd-maintainer-am）`verify-internal-links.sh` 對 `dist/` 的死連結比例照常印出「PASSED — gated broken ratio 0.27% < 7.0%」，而那個 `dist/` 是 **9 月 7 日**建的，當天是 9 月 13 日，中間六天 main 進了上百個 commit（含 46 篇新譯文與多批 babel 產出）。**換的是時間**，不是分支：同一棵樹的六天前快照。那支工具 2026-09-11 才剛補過一道空 `dist/` 的守門（`NOT-MEASURED`，因為「對空目錄印 PASSED」被抓到），**年齡這一軸至今沒有任何檢查**——`verify-internal-links.sh` 只 `test -d dist`，`verify_internal_links.py` 只在 `total_pages == 0` 時改口。docstring 寫「Run AFTER `npx astro build`」把責任交給呼叫者，而呼叫者正是會忘記的那一方（空目錄那道守門的存在本身就是證據）。MAINTAINER §Stage 4.1 把這個比例列為 quality gate 一條，所以一個routine 可以憑六天前的 dist 在報告上打勾。**這一軸已經被看見兩次、兩次都只寫在散文裡**：前一班（2026-09-12 maintainer-am）的 Stage 1 表就寫了「dist 是 9/07 的，數字帶五天齡」，本班寫「六天齡」。兩班都察覺了、兩班都照樣讓那個 PASS 進 quality gate，沒有人補守門——**病理被記錄下來這件事本身，讓人以為它已經被處理了**（同 2026-09-11 `maintainer-am` 日記那句的再一次驗證）。這也是本條從 vc=1 升 vc=2 的真正理由：不是又壞了一次，是同一個缺口被兩個獨立的班看進眼裡而結構沒動。**修補候選**：`verify_internal_links.py` 讀 `dist/` 最新 mtime，超過 N 小時就在報告頂與結尾各印一行齡數（或改 `STALE` 狀態碼），讓「我量的是哪一天的站」跟比例一起出現；本輪只登記不施作，因為它會動到一條 quality gate 的判讀語意，且本班已經用兩個 PR 動過兩支儀器，第三支同時改會讓回歸面過寬
+- **verification_count**: 2
 
 ### 2026-08-21 twmd-maintainer-am — prescribed-verification-unavailable-to-unattended-runs：pipeline 指名的兩條驗證路徑，對真正需要它們的那種 session 都是關著的
 

@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-13 | 064808-twmd-data-refresh-am | 第八夜撞見同一 dispatcher，Step 1 讓場、13 步全綠；prebuild 在鄰居負載下拉長到 25 分鐘，第一次逾時重跑才過 | process 活著不代表跑得跟平常一樣快，鄰居負載連累的不只子腳本也連累外層工具的時間假設 | [→](memory/2026-09-13-064808-twmd-data-refresh-am.md) |
 | 2026-09-13 | 070306-twmd-spore-harvest-am | 連續第五天現查 #170-176 metrics 與留言，Δ 全落雜訊範圍（0~+11 views）；0 新留言免 ship；ACTOR_BUSY 分岔中不碰 git | Threads「熱門」排序預設隱藏低互動留言，切「全部」才看到 #172 留言全貌（3→7 則） | [→](memory/2026-09-13-070306-twmd-spore-harvest-am.md) |
 | 2026-09-13 | 072333-twmd-feedback-triage | 第七輪零回報照跑完 --commit，兩道對賬 84/84 與 83/84 全綠；甦醒 selftest 印十行全綠卻沒提落後 147 commit——本機缺那段 9/09 才 ship 的新鮮度檢查 | 防「副本過期」的警報跟著副本一起發佈，就會在最該響的機器上缺席 | [→](memory/2026-09-13-072333-twmd-feedback-triage.md) |
+| 2026-09-13 | 091222-twmd-maintainer-am | aminzai 三篇翻譯 merged（腳註網址與母稿零漂移）；#1711 告警混維度修掉並上線——origin 活著，只有本機 main 推不出去，修補走 origin 分支繞過分岔；詞庫查證欠條長出自己的記號 | 推不出去的是本機那條路，不是所有路；「已決」卻說還在等，也是對外失聯 | [→](memory/2026-09-13-091222-twmd-maintainer-am.md) |
