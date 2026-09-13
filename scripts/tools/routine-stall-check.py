@@ -14,9 +14,30 @@ GitHub Actions checkout 下來的 git 歷史與 repo 檔案，不依賴 schedule
 
 ## 兩把尺
 
-**尺一（全飛輪停轉）**：`git log` 裡最近一筆 subject 含 `[routine]` 的 commit 距今
-超過 30 小時 → CRITICAL。只認 `[routine]`——`[semiont] memory: …` 是收官/手動
-session 的標記，不是 routine 痕跡（flywheel-watch 首跑就校過這個假陽性）。
+**尺一（routine 產出有沒有落地到 main）**：`git log` 裡最近一筆 subject 含
+`[routine]` 的 commit 距今超過 30 小時 → CRITICAL。只認 `[routine]`——
+`[semiont] memory: …` 是收官/手動 session 的標記，不是 routine 痕跡
+（flywheel-watch 首跑就校過這個假陽性）。
+
+尺一超標時，**同一個讀數有兩種根因**，用「同窗口內 main 上最近一筆任何 commit」
+分開（2026-09-13 maintainer-am 補）：
+
+- `flywheel-silent`：main 上連任何 commit 都停了 → 整台排程器可能死了
+- `routine-output-not-landing`：main 有人在推，只是 routine 產出沒落地 →
+  排程器停在跑 routine 的那台，或那台在跑但 push 被擋住（非 fast-forward）
+
+誕生：2026-09-11 起營運機累積 200+ 個未推送 commit（分岔 behind 147 / ahead 234，
+合併需人工判斷 118 篇譯文取捨，OBSERVER-QUEUE #56）。飛輪每一班都照跑照 commit，
+只是推不上 origin。本尺照實報出 71.4h 停滯，但 issue #1711 的標題與收尾建議都說
+「全飛輪停轉，先查 Claude app 活著沒」——**尺量對了，病名說錯了，remediation 因此
+指向錯的地方**。這是 REFLEXES #38「混維度 = silent killer」在告警文案層的 instance：
+一個讀數承載兩種根本不同的 cause。
+
+**本尺的殘餘盲點（明寫，不假裝沒有）**：這支腳本只讀 GitHub Actions checkout 下來的
+main。已經 commit 但從沒推上來的 routine 產出，在這裡結構上不可見，所以上面 (a) (b)
+兩種根因在這支尺上**讀數完全相同**，只能並列兩個候選，分不出是哪一個。要真的分開，
+需要讓它看得到 main 以外的 ref（`actions/checkout` 預設只抓單一分支，得加 fetch
+步驟或改走 API），那是 workflow 層的改動，留給觀察者決定。
 
 **尺二（週排程 miss）**：`docs/semiont/ROUTINE.md` 排程表裡「非 ⏸️ 且 cron 帶
 day-of-week 欄位」的每條 routine（如 `0 2 * * 0`），機械算出它上一次應該 fire 的
@@ -130,15 +151,37 @@ def check_rule1(now: datetime, since_days: int) -> dict:
     # maxsplit=2：subject 本身可能含 `|`（不太可能但別假設不會），只切前兩個
     routine_lines = [l for l in lines if "[routine]" in l.split("|", 2)[-1]]
 
+    # 這條分支（repo 本身有沒有在動）是用來分開兩種根因的，見 §尺一的兩種根因。
+    # lines 已是 git log 預設的新到舊，第一筆就是窗口內最近一筆任何 commit。
+    any_commit = None
+    any_age_hours = None
+    if lines:
+        any_hash, any_ai, any_subject = lines[0].split("|", 2)
+        any_dt = datetime.strptime(any_ai, "%Y-%m-%d %H:%M:%S %z")
+        any_age_hours = round((now - any_dt).total_seconds() / 3600, 1)
+        any_commit = {"hash": any_hash, "at": any_ai, "subject": any_subject}
+
+    def diagnose(routine_stale: bool) -> str:
+        """routine 落後時，repo 自己還有沒有在動，決定該去查哪裡。"""
+        if not routine_stale:
+            return "ok"
+        if any_age_hours is not None and any_age_hours <= RULE1_THRESHOLD_HOURS:
+            # main 上有人在推，只是 routine 的產出沒落地
+            return "routine-output-not-landing"
+        return "flywheel-silent"
+
     if not routine_lines:
         return {
             "status": "critical",
+            "diagnosis": diagnose(True),
             "last_commit": None,
             "age_hours": None,
             "threshold_hours": RULE1_THRESHOLD_HOURS,
+            "last_any_commit": any_commit,
+            "last_any_age_hours": any_age_hours,
             "note": (
                 f"過去 {since_days} 天內找不到任何 subject 含 [routine] 的 commit"
-                "（下限未知，一定超過門檻——建議加大 --since-days 確認，但已視同全飛輪停轉）"
+                "（下限未知，一定超過門檻）"
             ),
         }
 
@@ -149,9 +192,12 @@ def check_rule1(now: datetime, since_days: int) -> dict:
     status = "critical" if age_hours > RULE1_THRESHOLD_HOURS else "ok"
     return {
         "status": status,
+        "diagnosis": diagnose(status == "critical"),
         "last_commit": {"hash": commit_hash, "at": commit_ai, "subject": subject},
         "age_hours": round(age_hours, 1),
         "threshold_hours": RULE1_THRESHOLD_HOURS,
+        "last_any_commit": any_commit,
+        "last_any_age_hours": any_age_hours,
     }
 
 
@@ -393,13 +439,22 @@ def human_report(result: dict) -> str:
     ]
 
     r1 = result["rule1_flywheel_commit_age"]
-    lines.append("尺一（全飛輪停轉）")
+    lines.append("尺一（routine 產出有沒有落地到 main）")
     if r1["last_commit"]:
         flag = " 🚨 超過門檻" if r1["status"] == "critical" else ""
         lines.append(f"  最近一筆 [routine] commit：{r1['age_hours']}h 前（{r1['last_commit']['at']}）{flag}")
         lines.append(f"  {r1['last_commit']['subject']}")
     else:
         lines.append(f"  🚨 {r1['note']}")
+    # 同窗口內 repo 自己有沒有在動，是分開「整台停了」與「產出沒落地」的那一格
+    if r1["status"] == "critical":
+        if r1.get("last_any_commit"):
+            lines.append(
+                f"  對照：main 最近一筆任何 commit {r1['last_any_age_hours']}h 前"
+                f"（{r1['last_any_commit']['at']}）"
+            )
+        else:
+            lines.append("  對照：窗口內 main 上連任何 commit 都沒有")
     lines.append("")
 
     r2 = result["rule2_weekly_schedule_miss"]
@@ -428,8 +483,27 @@ def human_report(result: dict) -> str:
         lines.append("✅ 綠燈")
     elif result["severity"] == "warn":
         lines.append("⚠️  有 WARN，需要人看一眼週排程是不是空場")
+    elif r1.get("diagnosis") == "routine-output-not-landing":
+        lines.append(
+            "🚨 CRITICAL — routine 產出沒落地到 main，但 main 上有人在推，"
+            "所以「整個飛輪停轉」不是唯一解釋。兩個候選都要查："
+        )
+        lines.append(
+            "   (a) 跑 routine 的那台排程器停了（查 Claude app 活著沒、額度有沒有到頂、登入過期沒）"
+        )
+        lines.append(
+            "   (b) 那台在跑也在 commit，但 push 被擋住（查它的 git 分岔："
+            "`git rev-list --left-right --count origin/main...HEAD`，非 fast-forward 會讓每一班都落在本機）"
+        )
+        lines.append(
+            "   本工具只看得到 main。已 commit 但沒推上來的 routine 產出，在這裡一律不可見，"
+            "所以 (a) 與 (b) 在這支尺上讀數相同，要到那台機器上才分得開。"
+        )
     else:
-        lines.append("🚨 CRITICAL — 全飛輪可能停轉，先查營運機 Claude app 活著沒、額度有沒有到頂")
+        lines.append(
+            "🚨 CRITICAL — main 上連任何 commit 都停了，全飛輪可能停轉，"
+            "先查營運機 Claude app 活著沒、額度有沒有到頂"
+        )
     return "\n".join(lines)
 
 

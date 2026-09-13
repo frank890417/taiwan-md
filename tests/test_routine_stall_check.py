@@ -187,6 +187,86 @@ def test_rule1_no_routine_commit_in_window_is_critical(repo):
 
 
 # ---------------------------------------------------------------------------
+# 尺一：同一個讀數的兩種根因（2026-09-13 maintainer-am）
+#
+# 尺一超標時，「整台排程器死了」跟「排程器在跑但產出推不上 origin」在這支尺上
+# 是同一個數字。用「同窗口內最近一筆任何 commit」分開，remediation 才不會指錯。
+# 誕生：issue #1711 報 71.4h 停滯並說「全飛輪停轉，先查 Claude app 活著沒」，
+# 而飛輪每一班都照跑，卡住的是 200+ 個未推送 commit（OBSERVER-QUEUE #56）。
+# ---------------------------------------------------------------------------
+
+
+def test_rule1_diagnoses_output_not_landing_when_repo_itself_is_alive(repo):
+    """routine 落後但 main 有人在推 → 不該說「全飛輪停轉」。"""
+    now = MODULE.parse_now("2026-09-13T08:55:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-10", "2026-09-10T09:19:00+08:00")
+    # 另一台機器仍在推 main：非 routine，但證明 repo 沒死
+    commit_at(repo, "🧬 [semiont] memory: 另一台機器的收官", "2026-09-13T01:06:00+08:00")
+
+    write_routine_md(repo, [])
+    write_memory_files(repo, [])
+
+    result = MODULE.build_result(now, since_days=14)
+    r1 = result["rule1_flywheel_commit_age"]
+
+    assert r1["status"] == "critical"
+    assert r1["diagnosis"] == "routine-output-not-landing"
+    assert r1["last_any_age_hours"] == pytest.approx(7.8, abs=0.2)
+    # 收尾建議必須並列兩個候選，且明說本尺看不到未推送的 commit
+    report = MODULE.human_report(result)
+    assert "整個飛輪停轉" in report and "不是唯一解釋" in report
+    assert "push 被擋住" in report
+    assert "只看得到 main" in report
+
+
+def test_rule1_diagnoses_flywheel_silent_when_nothing_is_pushed_at_all(repo):
+    """main 上連任何 commit 都停了 → 維持原本「整台可能死了」的判讀。"""
+    now = MODULE.parse_now("2026-09-13T08:55:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: 很久以前那一班", "2026-09-01T09:00:00+08:00")
+
+    write_routine_md(repo, [])
+    write_memory_files(repo, [])
+
+    result = MODULE.build_result(now, since_days=14)
+    r1 = result["rule1_flywheel_commit_age"]
+
+    assert r1["status"] == "critical"
+    assert r1["diagnosis"] == "flywheel-silent"
+    # 最近一筆任何 commit 就是那筆 routine 自己，同樣超過門檻
+    assert r1["last_any_age_hours"] > MODULE.RULE1_THRESHOLD_HOURS
+    assert "全飛輪可能停轉" in MODULE.human_report(result)
+
+
+def test_rule1_diagnosis_is_ok_while_routine_is_landing(repo):
+    """綠燈時 diagnosis 不該謊報任何一種病。"""
+    now = MODULE.parse_now("2026-09-13T08:55:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: 剛剛那一班", "2026-09-13T08:00:00+08:00")
+
+    write_routine_md(repo, [])
+    write_memory_files(repo, [])
+
+    r1 = MODULE.build_result(now, since_days=14)["rule1_flywheel_commit_age"]
+
+    assert r1["status"] == "ok"
+    assert r1["diagnosis"] == "ok"
+
+
+def test_rule1_empty_window_still_reports_a_diagnosis(repo):
+    """窗口內一筆 commit 都沒有時，diagnosis 欄位不能缺席（工作流讀得到）。"""
+    now = MODULE.parse_now("2026-09-13T08:55:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: 窗口外", "2026-08-01T09:00:00+08:00")
+
+    write_routine_md(repo, [])
+    write_memory_files(repo, [])
+
+    r1 = MODULE.build_result(now, since_days=3)["rule1_flywheel_commit_age"]
+
+    assert r1["last_commit"] is None
+    assert r1["last_any_commit"] is None
+    assert r1["diagnosis"] == "flywheel-silent"
+
+
+# ---------------------------------------------------------------------------
 # 尺二：週排程 miss
 # ---------------------------------------------------------------------------
 
