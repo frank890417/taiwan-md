@@ -272,8 +272,9 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Notes**:
   - 一句話核心張力：投稿者已經補完死碼問題（`src/pages/exams.astro` 補進來，模板不再是孤兒），技術面已經不卡；卡的是骨架背後七張人物卡目前只有維基與百度百科撐著，開站要先把地基換成台灣自己的一手來源
   - merge PR #1453 後要做：十二語 `src/pages/{lang}/exams.astro`（現況只有中文讀得到，因為 `getLangFromUrl` 靠網址前綴）、UI 字串補齊、URL 契約修正（模板註解寫 `/exams/gsat/` 但實際建出 `/exams/`）、策展骨架參照來源換成大考中心／教育部／報導者等一手來源、七張人物卡各補一則第三方報導連結（PR #1453 留言已列缺口）
+  - **站內入口（2026-09-13 maintainer-am 補登，原清單漏了這件）**：`src/components/Header.astro` 導覽列目前八項（about／explore／map／data／soundscape／resources／semiont／contribute）沒有 exams，全 repo 指向 `/exams` 的連結只有它自己的模板。頁面自 2026-09-10 02:52 起已部署且在 sitemap 裡，但**讀者要先知道網址才進得去**。沒有入口的區段在讀者那端跟沒開站幾乎沒有差別，所以這件事屬於「開站」本身，不是開完之後的加分項。放哪個位置／叫什麼名字／十三語 UI 字串，照 §自主權邊界屬資訊架構與品牌面，由本 feature session 連同上面幾項一起帶給哲宇定，不各自分開問
   - 由獨立 feature session 做，不進一般文章 REWRITE-PIPELINE 產線
-- **Reference**: [PR #1453](https://github.com/frank890417/taiwan-md/pull/1453)、[OBSERVER-QUEUE.md §36](OBSERVER-QUEUE.md)
+- **Reference**: [PR #1453](https://github.com/frank890417/taiwan-md/pull/1453)、[OBSERVER-QUEUE.md §36](OBSERVER-QUEUE.md)、[Discussion #1704](https://github.com/frank890417/taiwan-md/discussions/1704)（投稿者 idlccp1984 問「為什麼沒發佈」，真正的答案是沒有入口）
 
 ### 台灣豆漿與早餐店 EVOLVE — 跟《台灣早餐文化》併軌，決定兩篇的邊界
 
