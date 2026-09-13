@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-13T08:02:55+08:00",
-    "zhCommitHead": "9d26a86df",
+    "lastUpdated": "2026-09-13T09:23:35+08:00",
+    "zhCommitHead": "95e61cea6",
     "totalZh": 1121,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1121,
-        "fresh": 819,
+        "fresh": 822,
         "stale": 79,
         "metadata_stale": 16,
-        "missing": 207,
+        "missing": 204,
         "orphan": 0
       },
       "ja": {
@@ -36,82 +36,82 @@
       },
       "ko": {
         "total_zh": 1121,
-        "fresh": 824,
+        "fresh": 827,
         "stale": 75,
         "metadata_stale": 17,
-        "missing": 205,
+        "missing": 202,
         "orphan": 0
       },
       "es": {
         "total_zh": 1121,
-        "fresh": 812,
+        "fresh": 815,
         "stale": 79,
         "metadata_stale": 18,
-        "missing": 212,
+        "missing": 209,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1121,
-        "fresh": 811,
+        "fresh": 813,
         "stale": 81,
         "metadata_stale": 19,
-        "missing": 210,
+        "missing": 208,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1121,
-        "fresh": 736,
+        "fresh": 738,
         "stale": 81,
         "metadata_stale": 76,
-        "missing": 228,
+        "missing": 226,
         "orphan": 0
       },
       "id": {
         "total_zh": 1121,
-        "fresh": 626,
+        "fresh": 627,
         "stale": 48,
         "metadata_stale": 9,
-        "missing": 438,
+        "missing": 437,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1121,
-        "fresh": 799,
+        "fresh": 802,
         "stale": 65,
         "metadata_stale": 14,
-        "missing": 243,
+        "missing": 240,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1121,
-        "fresh": 673,
+        "fresh": 676,
         "stale": 38,
         "metadata_stale": 9,
-        "missing": 401,
+        "missing": 398,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1121,
-        "fresh": 733,
+        "fresh": 735,
         "stale": 43,
         "metadata_stale": 14,
-        "missing": 331,
+        "missing": 329,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1121,
-        "fresh": 770,
+        "fresh": 772,
         "stale": 41,
         "metadata_stale": 10,
-        "missing": 300,
+        "missing": 298,
         "orphan": 0
       },
       "de": {
         "total_zh": 1121,
-        "fresh": 528,
+        "fresh": 533,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 586,
+        "missing": 581,
         "orphan": 0
       }
     },
@@ -20165,7 +20165,18 @@
           "diffSummary": "+1 -1"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/e-commerce-and-digital-payment-ecosystem.md",
+          "translatedFrom": "Technology/電子商務與數位支付生態系.md",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:b8c4015a34b3a79e",
+          "sourceBodyHash": "sha256:9120e92d38401c8e",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -35998,7 +36009,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/roc-taiwan-passport.md",
+          "translatedFrom": "Lifestyle/中華民國台灣護照.md",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:112b7f69f9a52776",
+          "sourceBodyHash": "sha256:ee5f05761a053be1",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -39701,40 +39723,161 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/national-health-insurance-taiwan.md",
+          "translatedFrom": "Lifestyle/全民健保.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:ba22e1d88e87855f",
+          "sourceBodyHash": "sha256:398cb3fbf9ae9f6e",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -72033,8 +72176,8 @@
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
           "translatedAt": "2026-09-13T00:44:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ac21f55c",
+          "translationLastModified": "2026-09-13T08:02:56+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -86720,8 +86863,8 @@
           "sourceContentHash": "sha256:f0bfaa3e3ddeab83",
           "sourceBodyHash": "sha256:4da6179cc5f355db",
           "translatedAt": "2026-09-13T00:44:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ac21f55c",
+          "translationLastModified": "2026-09-13T08:02:56+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -106413,8 +106556,8 @@
           "sourceContentHash": "sha256:098b16931924e6a4",
           "sourceBodyHash": "sha256:d62613e467add761",
           "translatedAt": "2026-09-13T00:44:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ac21f55c",
+          "translationLastModified": "2026-09-13T08:02:56+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -114320,7 +114463,18 @@
           "diffSummary": "+19 -5"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/portuguese-egg-tart-in-taiwan.md",
+          "translatedFrom": "Food/蛋撻.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:e6a3985c0d14509b",
+          "sourceBodyHash": "sha256:2199caf3c188c46a",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -117584,7 +117738,18 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/mullet-roe.md",
+          "translatedFrom": "Food/烏魚子.md",
+          "sourceCommitSha": "f89314e27",
+          "sourceContentHash": "sha256:a3b67c4182d26ac8",
+          "sourceBodyHash": "sha256:2b263b9afd2d2815",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -128998,40 +129163,139 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-13T00:43:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-13T00:44:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-13T00:44:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-13T00:44:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-13T00:44:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taipei-first-girls-high-school.md",
+          "translatedFrom": "History/北一女.md",
+          "sourceCommitSha": "773dc2597",
+          "sourceContentHash": "sha256:de11aad3f14ac9df",
+          "sourceBodyHash": "sha256:64f1c0f569ea5a00",
+          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -132069,8 +132333,8 @@
           "sourceContentHash": "sha256:d166faa74a30d730",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
           "translatedAt": "2026-09-13T00:44:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ac21f55c",
+          "translationLastModified": "2026-09-13T08:02:56+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -147782,10 +148046,32 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-13T00:44:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-13T00:44:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "status": "missing"
@@ -147797,13 +148083,46 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-13T00:44:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-13T00:44:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/yanshui-beehive-fireworks.md",
+          "translatedFrom": "Culture/鹽水蜂炮.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:2cedbbfcbfc952b5",
+          "sourceBodyHash": "sha256:d7c1a96e25224b11",
+          "translatedAt": "2026-09-13T00:44:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
