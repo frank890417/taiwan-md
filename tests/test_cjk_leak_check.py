@@ -2,6 +2,8 @@ import importlib.util
 import sys
 from pathlib import Path
 
+import pytest
+
 
 LANG_SYNC_DIR = Path(__file__).resolve().parents[1] / "scripts" / "tools" / "lang-sync"
 MODULE_PATH = LANG_SYNC_DIR / "cjk-leak-check.py"
@@ -283,6 +285,65 @@ def test_de_body_leak_flagged(tmp_path):
         "TSMC baute seine Fabriken über Jahrzehnte auf, und"
         " 台灣半導體產業的發展歷程相當複雜 bleibt hier mitten im Satz"
         " unübersetzt.\n",
+        encoding="utf-8",
+    )
+
+    hits = MODULE.scan_file(path, lang="de")
+
+    assert any("正文 CJK leak" in h for h in hits)
+
+
+# ═══════════ de 圖片出處標題家族（#1731 follow-up，2026-09-16）═══════════
+#
+# #1731 把 de 的 Bildnachweise／Bildquellen 收進 BIBLIOGRAPHY_HEADINGS，讓
+# 照片授權行裡的正體中文攝影者署名（迷惘的人生）不再被誤報成正文 leak。
+# Copilot review 指出兩點：（1）既有 de 譯文還用了連字號複合詞 Bild-Quelle/
+# Bild-Quellen 與 Bilderquelle/Fotonachweis——image_health.py 的 de 家族收
+# bild|bilder|foto|fotos|video|medien 前綴且用 [- ]? 承接，原 regex 只收無
+# 連字號的寫法，這些標題下的署名仍會誤報；（2）該豁免沒有回歸測試，未來
+# 改動可能把這條路弄壞而整套仍然全綠。以下參數化案例同時鎖住兩者：heading
+# 變體全收（署名豁免），外加一個 body 案例確認豁免沒無限放大。
+
+
+@pytest.mark.parametrize(
+    "heading",
+    [
+        "## Bildquelle",
+        "## Bildquellen",
+        "## Bild-Quelle",
+        "## Bild-Quellen",
+        "## Bildnachweis",
+        "## Bildnachweise",
+        "## Bilderquelle",
+        "## Bilderquellen",
+        "## Fotonachweis",
+        "## Fotonachweise",
+    ],
+)
+def test_de_credit_heading_exempts_photographer_name(tmp_path, heading):
+    """每個 de 圖片出處標題變體：標題下的正體中文攝影者署名（暨 Wikimedia
+    URL）必須落在書目區、不被當成正文 leak。"""
+    path = tmp_path / "de--credit.md"
+    path.write_text(
+        f"---\ntitle: 'Beispiel'\n---\n\n"
+        f"Jimmy Liao ist vor allem als Bilderbuch-Autor bekannt.\n\n"
+        f"{heading}\n\n"
+        "- Hero: Porträt von Jimmy Liao, Fotografin 迷惘的人生, CC BY-SA 2.0,"
+        " [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:X.jpg)\n",
+        encoding="utf-8",
+    )
+
+    assert MODULE.scan_file(path, lang="de") == []
+
+
+def test_de_body_photographer_name_still_leaks_without_credit_heading(tmp_path):
+    """沒有圖片出處標題時，正體中文署名出現在正文行中間——豁免不能無限放大，
+    仍要判 leak（與 test_de_body_leak_flagged 同方向，但用署名當語料）。"""
+    path = tmp_path / "de--credit.md"
+    path.write_text(
+        "---\ntitle: 'Beispiel'\n---\n\n"
+        "Das Porträt wurde von 迷惘的人生 aufgenommen und unter CC BY-SA"
+        " 2.0 über Wikimedia Commons veröffentlicht.\n",
         encoding="utf-8",
     )
 
