@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-16 twmd-maintainer-am — unpushed-divergence-silently-redirects-volunteer-effort：分岔不只是待解的合併債，它每天在把貢獻者的工時導向已經做完的工作
+
+- **pattern**: `unpushed-divergence-silently-redirects-volunteer-effort`
+- **原則**：當本機產出因為分岔推不上 origin，外界看到的缺口圖就是**舊的**。任何照著那張圖挑工作的人——尤其是照著站上「還沒翻譯」清單挑的貢獻者——會挑到已經做完、只是還沒推上去的那些。分岔在內部帳上是「N 個檔案待裁決」，在外部是「有人正在免費重做我們已經做完的事，而且沒有人會告訴他」。兩種成本的量綱不同：前者可以等，後者每天都在燒別人的時間，而且燒掉的是這個專案最稀缺、最不可再生的資源（自願來的人的熱情）。
+- **觸發**：2026-09-16 maintainer-am 收三個 aminzai 的翻譯 PR。逐路徑對賬發現 **#1735（id/新竹都城隍廟）與 #1736（hi/桃園埤塘）落點，本機 babel 早在 09-09 就譯好了**，只是住在推不出去的 590 個 commit 那一側。往回查上一輪（09-14）已 merge 的十篇，**4/10 在本機有一份獨立譯文**（es/蔡瑞月、id/台灣開源精神、de/野柳、vi/廢棄遊樂園），內容與 origin 版不同。也就是說這位貢獻者近兩天的翻譯裡，大約有四到六成是重工。
+- **跟 OBSERVER-QUEUE #56 的關係**：#56 記的是「118 篇雙邊獨立譯文待哲宇取捨」，量的是**待裁決的檔案數**。本條指出同一個分岔還有第二個出口，而那個出口沒有被計量：**它每天新增雙邊譯文，其中一部分是貢獻者的手工**。#56 的急迫性因此不只是「檔案越積越多」，是「拖越久，越多人的義工時間被導到已完成的位置」。本輪又 +2（#1735/#1736 merge 後成立），這兩篇是有人親手翻的。
+- **為什麼閘門看不到**：`_translations.json`、lang-sync status、站上缺口圖全部只有一個真相來源，而本機與 origin 現在是兩個真相。今天做的 slug 一致性檢查兩邊都查了才發現撞車（承 09-14 `same-language-slug-collision-is-invisible-to-both-instruments` 的修法），但那是**人記得要查兩邊**，不是有東西在守。沒有任何一道檢查在問「我對外公布的缺口，跟我實際的缺口是同一份嗎」。
+- **修補（未做，命中 §自主權邊界）**：真正的解是把分岔收掉，那是 #56 等哲宇拍板的四紅線外但 >50 檔的裁決，不自主代理。可先做、成本低的兩件：(a) 對外的翻譯缺口清單改成「origin ∪ 未推送分支」的聯集，讓貢獻者至少看得到「這篇有人做了」；(b) maintainer 收翻譯 PR 時把雙邊路徑對賬變成**必跑的一步**（今天是手動想到才查），撞車時在 merge 留言裡告訴對方，別讓他下一篇又挑到同一格。
+- **另記（同輪，不另開條目）**：本輪為了量化這件事臨時寫的 MoE 辭典查詢腳本，正則沒對上頁面實際的 `找到正文<cb>N</cb>則` 標記，25 條全部靜默回 0，差一步就把「0/25」當發現寫進 PR。抓到它的不是任何閘門，是我剛好知道「簽名」不可能查不到。**cycle 內臨時造的尺不繼承 repo 既有儀器的 fail-loud 紀律**（canonical 儀器都有 selftest，臨時腳本沒有）——這是 REFLEXES #24／#38(g) 在「一次性測量」上的再驗證，不是新 pattern，記在這裡供 distill 判斷要不要給臨時測量也立一條最低自驗要求（至少對一個已知正例回歸一次）。
+- **可能層級**：折進 [REFLEXES #82](REFLEXES.md)（proxy signal——對外公布的缺口是真實缺口的替身）或 [#38](REFLEXES.md)（同一份「缺口」讀數混了兩種根因：真的沒人做 vs 做了推不上去）。
+- **相關**：OBSERVER-QUEUE #56、LESSONS `same-language-slug-collision-is-invisible-to-both-instruments`、`divergence-warning-is-tree-level-not-per-file`、REFLEXES #82、#38、#16
+- **verification_count**: 1（首次量化；分岔本身的其他病徵已在 09-14 兩條記過）
+- **severity**: structural（不報錯、不變紅；成本落在專案外部的人身上，所以內部所有儀器都不會痛）
+
 ### 2026-09-15 twmd-maintainer-am — named-entity-present-but-in-a-different-role：來源裡真的有那個名字，只是它講的是另一件事
 
 - **pattern**: `named-entity-present-but-in-a-different-role`
