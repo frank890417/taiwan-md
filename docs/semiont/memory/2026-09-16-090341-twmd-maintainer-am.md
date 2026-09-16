@@ -70,15 +70,15 @@ slug 一致性三篇都查了，而且**兩邊都查**（承 09-14 `same-languag
 
 ## 收官 checklist
 
-| Gate                                                        | 結果                                                                |
-| ----------------------------------------------------------- | ------------------------------------------------------------------- |
-| open issues 都有 status label / assignee                    | ✅ 6/6 有 label                                                     |
-| open PRs ≤ 5d age 都有 review comment                       | ✅ 4/4 merged 並留致謝                                              |
-| broken-link gated ratio < gate                              | ⏭️ 本輪未跑（本機讀取層失真 193 commit，量了也不是 origin 的真相）  |
-| build green                                                 | ✅ main 全 workflow 最新一次皆 success（group-by 全表，非點名兩條） |
-| BECOME ACK 一行記憶體頂                                     | ✅                                                                  |
-| 連續空場 ≥ 3 cycle 有 LESSONS entry                         | ✅ 不適用，本輪 4 PR + 1 issue 實修，vc 歸零                        |
-| 有 fresh issue 的 cycle，至少一件被修掉或明確寫出為什麼不修 | ✅ #1733 實修（PR #1737），血緣層明寫為何不自主代理                 |
+| Gate                                                        | 結果                                                                                          |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| open issues 都有 status label / assignee                    | ✅ 6/6 有 label                                                                               |
+| open PRs ≤ 5d age 都有 review comment                       | ✅ 4/4 merged 並留致謝                                                                        |
+| broken-link gated ratio < gate                              | ✅ 0.00% < 7%（在 `origin/main` worktree 上跑，不在失真的本機樹；三類死連結皆 0、家族清單空） |
+| build green                                                 | ✅ main 全 workflow 最新一次皆 success（group-by 全表，非點名兩條）                           |
+| BECOME ACK 一行記憶體頂                                     | ✅                                                                                            |
+| 連續空場 ≥ 3 cycle 有 LESSONS entry                         | ✅ 不適用，本輪 4 PR + 1 issue 實修，vc 歸零                                                  |
+| 有 fresh issue 的 cycle，至少一件被修掉或明確寫出為什麼不修 | ✅ #1733 實修（PR #1737），血緣層明寫為何不自主代理                                           |
 
 ## Handoff
 
@@ -89,4 +89,9 @@ slug 一致性三篇都查了，而且**兩邊都查**（承 09-14 `same-languag
   - Option B：只對「china 詞在 MoE 辭典查得到」的子集複查（抽樣推估約 180 條，成本約 A 的 1/8，漏掉辭典查不到但實際台灣在用的詞）
   - Option C：不動資料，改模板——沒有佐證（`etymology` 空 + 無 `usage` 範疇）的條目一律降級講法，不說「是中國大陸的常見說法」
   - **推薦 default：C 先做（一次改動、立即止血、不需逐條判斷），再排 B**。C 命中的是 render 層不是主權判斷，成本最低且可逆。
-- [ ] **新增**：PR #1737 本輪未合併——`Sticky viewport gate`（全站 build + 行動視窗量測，因觸及 `data/terminology/**` 而必跑）跑逾 30 分鐘仍 in_progress，歷史同工作流是 13-17 分鐘。下一班若見它仍未完成，值得單獨查是不是 build 時間已隨內容量長過 runner 預算（REFLEXES #41 同型）。PR 內容已全部驗畢，只差這道閘門。
+- [x] ~~**新增**：PR #1737 等 `Sticky viewport gate`~~ — **已合併**。附帶更正一個我自己造的假警報：
+      盯 CI 時把本機時鐘（09:08）拿去跟 UTC 時間戳（00:54Z）比，算出「跑了 45 分鐘、遠超歷史 13-17 分鐘」，
+      還準備把「build 時間長過 runner 預算（REFLEXES #41 同型）」寫成給下一班的調查項。實際 `gh pr checks` 回報 **14m52s**，
+      完全落在歷史區間內。沒有任何工具說謊，是我兩個時區的數字擺在一起相減。**下一班不必查這件事，它不存在。**
+      留著這條是因為它跟本輪另外兩個假陽性（暫存路徑、正則沒對上）是同一天的第三次：
+      三次都不是閘門壞掉，是我的量法壞掉，而三次都差一步就以「發現」的身分被寫進對外產物。
