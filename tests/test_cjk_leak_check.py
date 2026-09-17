@@ -407,3 +407,73 @@ def test_ko_body_cjk_still_leaks(tmp_path):
     hits = MODULE.scan_file(path, lang="ko")
 
     assert any("正文" in h for h in hits)
+
+
+# ═══════════ pt / vi 圖片出處標題家族（2026-09-17）═══════════════════════
+#
+# BIBLIOGRAPHY_HEADINGS 的全庫補全版在 pt/vi 兩語反而失去覆蓋：pt 的
+# `Fontes\s+(?:de(?:s)?\s+)?` 只收 de/des，接不到 corpus 實際在用的
+# `Fontes das imagens`／`Fontes das Imagens`；vi 把聲調符寫成 `[Hh]ình`，
+# 而越南文是 `hình`／`Hình`，於是 `Nguồn hình ảnh`／`Nguồn Hình Ảnh`／
+# `Nguồn ảnh` 全部匹配不到，這些標題下的正體中文攝影者署名落回正文、被
+# 誤報成正文 leak。以下案例同時鎖住修好的覆蓋（署名豁免）與沒無限放大的
+# 邊界（署名留在正文仍要報）。
+
+
+@pytest.mark.parametrize(
+    "heading",
+    [
+        "## Fontes das imagens",
+        "## Fontes das Imagens",
+    ],
+)
+def test_pt_image_heading_exempts_photographer_name(tmp_path, heading):
+    """pt 圖片出處標題變體：標題下的正體中文攝影者署名必須落在書目區。"""
+    path = tmp_path / "pt--credit.md"
+    path.write_text(
+        f"---\ntitle: 'Exemplo'\n---\n\n"
+        f"Este artigo é sobre autocarros em Taiwan.\n\n"
+        f"{heading}\n\n"
+        "- Hero: Foto de 迷惘的人生, CC BY-SA 2.0,"
+        " [Wikimedia](https://example.com)\n",
+        encoding="utf-8",
+    )
+
+    assert MODULE.scan_file(path, lang="pt") == []
+
+
+def test_pt_body_photographer_name_still_leaks(tmp_path):
+    """沒有圖片出處標題時，正體中文署名留在正文——豁免不能無限放大。"""
+    path = tmp_path / "pt--body.md"
+    path.write_text(
+        "---\ntitle: 'Exemplo'\n---\n\n"
+        "Este artigo é sobre autocarros. Foto de 迷惘的人生.\n",
+        encoding="utf-8",
+    )
+
+    hits = MODULE.scan_file(path, lang="pt")
+
+    assert any("正文" in h for h in hits)
+
+
+@pytest.mark.parametrize(
+    "heading",
+    [
+        "## Nguồn hình ảnh",
+        "## Nguồn Hình Ảnh",
+        "## Nguồn ảnh",
+    ],
+)
+def test_vi_image_heading_exempts_photographer_name(tmp_path, heading):
+    """vi 圖片出處標題變體：標題下的正體中文攝影者署名必須落在書目區。"""
+    path = tmp_path / "vi--credit.md"
+    path.write_text(
+        f"---\ntitle: 'Vi du'\n---\n\n"
+        f"Bài viết này nói về xe buýt ở Đài Loan.\n\n"
+        f"{heading}\n\n"
+        "- Hero: Ảnh của 迷惘的人生, CC BY-SA 2.0,"
+        " [Wikimedia](https://example.com)\n",
+        encoding="utf-8",
+    )
+
+    assert MODULE.scan_file(path, lang="vi") == []

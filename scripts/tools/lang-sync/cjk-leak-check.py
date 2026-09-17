@@ -283,7 +283,10 @@ BIBLIOGRAPHY_HEADINGS: dict = {
     # vi: Tài liệu tham khảo(576) Đọc thêm(189) Nguồn hình ảnh(88)
     #     Nguồn Ảnh(59) Tham khảo(67) Nguồn gốc hình ảnh(18) Mở rộng đọc(12)
     #     Các nguồn tham khảo(11) Nguồn Hình Ảnh(29)
-    "vi": r"T[àa]i\s+li[ệe]u\s+tham\s+kh[ảa]o|C[áa]c\s+ngu[ốo]n\s+tham\s+kh[ảa]o|[Đđ]ọc\s+th[êe]m|M[ỏo]\s+r[ộng]\s+[đđ]ọc|Ngu[ốo]n\s+(?:g[ốo]c\s+)?(?:[Hh]ình\s+[Aa]nh|Ảnh|H[ìi]nh\s+anh)",
+    #     2026-09-17: `[Hh]ình`（h 缺聲調）接不到越南文實際的 `hình`／`Hình`，
+    #     `Nguồn hình ảnh`(88)／`Nguồn Hình Ảnh`(25)／`Nguồn ảnh`(50) 全數落空，
+    #     這些標題下的正體中文攝影者署名被誤報成正文 leak。改 `[Hh][ìi]nh` 修聲調。
+    "vi": r"T[àa]i\s+li[ệe]u\s+tham\s+kh[ảa]o|C[áa]c\s+ngu[ồốo]n\s+tham\s+kh[ảa]o|[Đđ]ọc\s+th[êe]m|M[ỏo]\s+r[ộng]\s+[đđ]ọc|Ngu[ồốo]n\s+(?:g[ốo]c\s+)?(?:[Hh][ìi]nh\s+[ẢảA]nh|[Ảả]nh|H[ìi]nh\s+anh)",
     # id: Referensi(598) Bacaan Lanjutan(181) Sumber Gambar(114)
     #     Daftar Pustaka(15) Bacaan Lebih Lanjut(12) Sumber Referensi(7)
     #     Bacaan Lanjut(3) Materi Referensi(2)
@@ -292,7 +295,10 @@ BIBLIOGRAPHY_HEADINGS: dict = {
     #     Leituras complementares(59) Créditos das imagens(18) Fontes de Imagem(16)
     #     Fontes das Imagens(16) Leitura Adicional(11) Leituras Adicionais(8)
     #     Leituras recomendadas(7) Fontes de Referência(9)
-    "pt": r"Refer[êe]ncias|Fontes\s+(?:de(?:s)?\s+)?[Ii]magens?|Leitura(?:s)?\s+(?:complementar(?:es)?|adicional(?:es)?|recomendadas?)|Cr[ée]ditos?\s+das?\s+imagens?|Fontes?\s+de\s+Refer[êe]ncia",
+    #     2026-09-17: `Fontes\s+(?:de(?:s)?\s+)?` 只收 de/des，接不到 corpus
+    #     實際使用的 `Fontes das imagens`(165)／`Fontes das Imagens`(18)，
+    #     改 `d[ae]s?` 才涵蓋 das/das。
+    "pt": r"Refer[êe]ncias|Fontes\s+(?:d[ae]s?\s+)?[Ii]magens?|Leitura(?:s)?\s+(?:complementar(?:es)?|adicional(?:es)?|recomendadas?)|Cr[ée]ditos?\s+das?\s+imagens?|Fontes?\s+de\s+Refer[êe]ncia",
     # hi: संदर्भ सामग्री(2) + हिंदी bibliography headings 多數用 zh fallback 處理
     #     補 संदर्भ स्रोत / Sources(7), संदर्भ सामग्री / स्रोत(2)
     "hi": r"संदर्भ(?:\s+सामग्री)?(?:\s*/\s*(?:स्रोत|Sources))?|संदर्भ\s+स्रोत(?:\s*/\s*Sources)?|(?:छवि|चित्र)\s+स्रोत|विस्तारित\s*(?:पठन|अन्वेषण)|Footnotes",
@@ -306,7 +312,9 @@ BIBLIOGRAPHY_HEADINGS: dict = {
     #     Weiterführende Links(6) Quellenangaben(4) Literaturverzeichnis(3)
     #     Quellenverzeichnis(2) Bildnachweis(2) Weiterles(en)(4) Weiterführendes(1)
     #     含 #1731 連字號 Bild-Quelle / Bild-Quellen / Fotonachweis 等
-    "de": r"Referenzen|Bild[- ]?(?:er)?(?:quellen?|nachweise?)|Foto[- ]?nachweise?|(?:Foton|Videon|Medien)[- ]?(?:nachweise?|quellen?)|Weiterf[üu]hrend(?:e(?:s|n|r)?|es)?\s+(?:Lekt[üu]re|Literatur|Links)?|Quellen(?:angaben|verzeichnis)?|Literaturverzeichnis|Weiterlesen?",
+    #     2026-09-17: 補回上游 <Bild/Foto/Video/Medien>+rechte/credits 家族
+    #     （corpus 目前 0 命中，保留既有覆蓋、不製造第三種分歧）。
+    "de": r"Referenzen|Bild[- ]?(?:er)?(?:quellen?|nachweise?)|Foto[- ]?nachweise?|(?:Foton|Videon|Medien)[- ]?(?:nachweise?|quellen?)|(?:Bild(?:er)?|Fotos?|Videos?|Medien)[- ]?(?:rechte|credits?)|Weiterf[üu]hrend(?:e(?:s|n|r)?|es)?\s+(?:Lekt[üu]re|Literatur|Links)?|Quellen(?:angaben|verzeichnis)?|Literaturverzeichnis|Weiterlesen?",
 }
 # zh 原文標題沒被翻譯時的救援比對（任何目標語言都可能發生，heading 本身留原文）
 _ZH_HEADING_FALLBACK = r"參考資料|参考资料|參考文獻|参考文献|延伸閱讀|延伸阅读|圖片來源|图片来源"
