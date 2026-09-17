@@ -266,6 +266,23 @@ def main():
 
     html_files.sort()
 
+    # ── Dist absent or empty — report NO DATA, not PASS ──────────
+    # REFLEXES #85 載體修復：dist 不存在或頁數為 0 時 exit 2 + 印「NO DATA」，
+    # 不要印 PASS（沒有量到東西 = 沒通過，不是通過）。
+    # 誕生：2026-09-15 handoff「斷鏈稽核在沒有 dist 的情況下回報 PASS 而非我量不到」。
+    if not html_files:
+        sep = "=" * 72
+        reason = (f"dist/ directory not found: {dist_dir}"
+                  if not os.path.isdir(dist_dir)
+                  else f"0 HTML pages found in {dist_dir}/")
+        print(sep)
+        print(f"  INTERNAL LINK VERIFICATION REPORT")
+        print(f"  dist/ : {dist_dir}")
+        print(f"  Result                       : NO DATA")
+        print(f"  Reason                       : {reason}")
+        print(sep)
+        sys.exit(2)
+
     # Sample mode
     if SAMPLE_SIZE > 0 and SAMPLE_SIZE < len(html_files):
         random.seed(42)  # reproducible sampling

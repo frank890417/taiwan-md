@@ -256,36 +256,57 @@ WIKILINK_RE = LINK_LIKE_RES[4]               # [[wikilink]]
 MD_LINK_RE = LINK_LIKE_RES[5]                # [text](url)（完整，含 text）
 BARE_URL_RE = LINK_LIKE_RES[6]               # 裸 URL
 
-# 每個語言「參考資料／延伸閱讀／圖片來源」標題變體：2026-09-05 對
-# knowledge/<lang> 每語言抽樣 8 篇實際譯文（含腳註）grep `^## ` 標題取得，
-# 不是憑記憶列。同語言常見兩三種寫法都收（如 ja 参考資料／参考文献）。
+# 每個語言「參考資料／延伸閱讀／圖片來源」標題變體：
+# 初始抽樣 2026-09-05（每語言 8 篇）；2026-09-15 全庫 `^## ` grep 補全。
+# 數字取自 knowledge/<lang>/ 全庫實際譯文，≥ 5 篇出現的變體才收。
+# 同語言常見兩三種寫法都收（如 ja 参考資料／参考文献）。
 BIBLIOGRAPHY_HEADINGS: dict = {
-    "en": r"References|Further Reading|Image Sources",
-    "ja": r"参考資料|参考文献|画像出典|関連リンク",
-    "ko": r"참고\s*자료|참고\s*문헌|이미지\s*출처",
-    "es": r"Referencias|Lecturas complementarias|Fuentes de im[aá]genes",
-    "fr": r"R[ée]f[ée]rences|Sources des images|Lectures compl[ée]mentaires",
-    "vi": r"Tài liệu tham khảo|Đọc thêm|Nguồn Hình Ảnh",
-    "id": r"Referensi|Bacaan Lanjutan|Sumber Gambar",
-    "pt": r"Referências|Fontes das imagens|Leitura adicional",
-    "hi": r"संदर्भ(?:\s*सामग्री)?|विस्तारित\s*(?:पठन|अन्वेषण)|(?:छवि|चित्र)\s*स्रोत",
-    "ar": r"المراجع|مصادر\s*الصور|قراءة\s*موسعة",
-    # 2026-09-15: hi 與 ru 補上圖片出處／參考資料標題（跟 #1731 的 de 同一個家族）。
-    # 數字取自 origin/main 實際譯文：hi 有 44 篇 `## छवि स्रोत` + 17 篇 `## चित्र स्रोत`，
-    # ru 有 99 篇 `## Источники изображений` + 41 篇 `## Источники`，三種都不在原表裡，
-    # 於是這些區塊的 CJK（攝影者署名、原始書名、機構原名）全被當正文 leak。ru 全庫實測
-    # 正文 leak 46 → 10，剩下的 10 筆都是真的（引述 PRC 模型的拒絕答覆、校名原文、論語引文）。
+    # en: References(805) Further Reading(266) Image Sources(174)
+    #     Image Credits(22) Footnotes(6) Extended Reading(6) Sources(5)
+    "en": r"References|Further Reading|Image(?:\s+)?Sources|Image Credits|Footnotes|Extended Reading|Sources",
+    # ja: 参考資料(448) 参考文献(244) 画像出典(168) 関連記事(132) 関連リンク(22)
+    #     延伸読書(10) 関連資料(8) 関連読書(8)
+    #     參考資料/延伸閱讀/圖片來源 由 _ZH_HEADING_FALLBACK 覆蓋
+    "ja": r"参考資料|参考文献|画像出典|関連(?:記事|リンク|資料|読書)|延伸読書",
+    # ko: 참고 자료(930+7+4=941) 참고 문헌(1) 更 읽기(1469) 사진 출처(190)
+    #     참고 자료 / 출처(7) 참고 자료 / Sources(4) 참고 문헌 (References)(1)
+    "ko": r"참고\s*(?:자료|문헌)|더\s*읽기|사진\s*출처|이미지\s*출처",
+    # es: Referencias(774) Lecturas complementarias(136) Fuentes de imágenes(104)
+    #     Fuentes de las imágenes(53) Lecturas adicionales(48) Lectura complementaria(25)
+    #     Lectura adicional(19) Fuentes de imagen(18) Créditos de imágenes(12)
+    #     Lecturas relacionadas(13) Lectura extendida(10)
+    "es": r"Referencias|Lecturas?\s+(?:complementarias?|adicionales?|relacionadas?|extendida)|Fuentes\s+de(?:\s+las?)?\s+im[aá]genes?|Cr[eé]ditos?\s+de\s+im[aá]genes?",
+    # fr: Références(776) Sources des images(167) Lectures complémentaires(90)
+    #     Sources d'images(18) Sources(16) Sources et références(3)
+    #     Crédits photographiques(7) Sources des vidéos(2)
+    "fr": r"R[ée]f[ée]rences|Sources?\s+des?\s+images?|Lectures?\s+compl[ée]mentaires?|Cr[ée]dits?\s+photographiques?|Sources?\s+des\s+vid[ée]os?|Sources?\s+et\s+r[ée]f[ée]rences?",
+    # vi: Tài liệu tham khảo(576) Đọc thêm(189) Nguồn hình ảnh(88)
+    #     Nguồn Ảnh(59) Tham khảo(67) Nguồn gốc hình ảnh(18) Mở rộng đọc(12)
+    #     Các nguồn tham khảo(11) Nguồn Hình Ảnh(29)
+    "vi": r"T[àa]i\s+li[ệe]u\s+tham\s+kh[ảa]o|C[áa]c\s+ngu[ốo]n\s+tham\s+kh[ảa]o|[Đđ]ọc\s+th[êe]m|M[ỏo]\s+r[ộng]\s+[đđ]ọc|Ngu[ốo]n\s+(?:g[ốo]c\s+)?(?:[Hh]ình\s+[Aa]nh|Ảnh|H[ìi]nh\s+anh)",
+    # id: Referensi(598) Bacaan Lanjutan(181) Sumber Gambar(114)
+    #     Daftar Pustaka(15) Bacaan Lebih Lanjut(12) Sumber Referensi(7)
+    #     Bacaan Lanjut(3) Materi Referensi(2)
+    "id": r"Referensi|Bacaan\s+(?:Lanjut(?:an|)?|Lebih\s+Lanjut)|Sumber\s+(?:Gambar|Referensi)|Daftar\s+(?:Pustaka|Referensi)|Materi\s+Referensi",
+    # pt: Referências(759) Fontes das imagens(137) Leitura complementar(125)
+    #     Leituras complementares(59) Créditos das imagens(18) Fontes de Imagem(16)
+    #     Fontes das Imagens(16) Leitura Adicional(11) Leituras Adicionais(8)
+    #     Leituras recomendadas(7) Fontes de Referência(9)
+    "pt": r"Refer[êe]ncias|Fontes\s+(?:de(?:s)?\s+)?[Ii]magens?|Leitura(?:s)?\s+(?:complementar(?:es)?|adicional(?:es)?|recomendadas?)|Cr[ée]ditos?\s+das?\s+imagens?|Fontes?\s+de\s+Refer[êe]ncia",
+    # hi: संदर्भ सामग्री(2) + हिंदी bibliography headings 多數用 zh fallback 處理
+    #     補 संदर्भ स्रोत / Sources(7), संदर्भ सामग्री / स्रोत(2)
+    "hi": r"संदर्भ(?:\s+सामग्री)?(?:\s*/\s*(?:स्रोत|Sources))?|संदर्भ\s+स्रोत(?:\s*/\s*Sources)?|(?:छवि|चित्र)\s+स्रोत|विस्तारित\s*(?:पठन|अन्वेषण)|Footnotes",
+    # ar: مراجع(787) المراجع / Sources(9) المراجع / المصادر(2)
+    "ar": r"المراجع|مراجع|مصادر\s*الصور|قراءة\s*موسعة",
+    # ru: Ссылки + Справочные материалы + Дополнительное чтение + Источники (изображений)
+    #     現有 regex 已完整（來自 #1731 hi/ru 補全），不改
     "ru": r"Ссылки|Справочные материалы|Дополнительное чтение|Источники(?:\s+изображений)?",
-    "de": r"Referenzen|Quellen|Weiterführende (?:Lektüre|Literatur)|(?:Bild(?:er)?|Foto(?:s)?|Video|Medien)[- ]?(?:quellen?|nachweise?|rechte|credits?)",
-    # 2026-09-14: de 加上 Bildnachweise／Bildquellen／Bildnachweis（en 有
-    # „Image Sources"，de 缺同等的圖片出處標題變體，照片授權行裡的正體中文
-    # 攝影者署名（如 迷惘的人生）被當成正文 CJK leak 誤報——與 image_health.py
-    # 已認得的 de 圖片出處標題家族一致。
-    # 2026-09-16（#1731 follow-up）：補上連字號複合詞 Bild-Quelle／Bild-Quellen
-    # 與 Fotonachweis／Videonachweis／Bilderquelle（image_health.py 的 de 家族
-    # 收 bild|bilder|foto|fotos|video|medien 前綴，且用 [- ]? 承接——本表原先
-    # 只收無連字號的 Bildquellen/Bildnachweise，`## Bild-Quelle` 標題下的照片
-    # 授權行會被誤掃成正文 leak）。
+    # de: Referenzen(106) Bildquellen(34) Weiterführende Lektüre(24) Quellen(11)
+    #     Referenzen / Quellen(11) Weiterführende Literatur(9) Bildnachweise(7)
+    #     Weiterführende Links(6) Quellenangaben(4) Literaturverzeichnis(3)
+    #     Quellenverzeichnis(2) Bildnachweis(2) Weiterles(en)(4) Weiterführendes(1)
+    #     含 #1731 連字號 Bild-Quelle / Bild-Quellen / Fotonachweis 等
+    "de": r"Referenzen|Bild[- ]?(?:er)?(?:quellen?|nachweise?)|Foto[- ]?nachweise?|(?:Foton|Videon|Medien)[- ]?(?:nachweise?|quellen?)|Weiterf[üu]hrend(?:e(?:s|n|r)?|es)?\s+(?:Lekt[üu]re|Literatur|Links)?|Quellen(?:angaben|verzeichnis)?|Literaturverzeichnis|Weiterlesen?",
 }
 # zh 原文標題沒被翻譯時的救援比對（任何目標語言都可能發生，heading 本身留原文）
 _ZH_HEADING_FALLBACK = r"參考資料|参考资料|參考文獻|参考文献|延伸閱讀|延伸阅读|圖片來源|图片来源"
