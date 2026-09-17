@@ -368,3 +368,42 @@ def test_translate_detect_cjk_leak_flags_simplified_link_target_in_body():
     assert result is not None
     assert "正文 CJK leak" in result
     assert "维基百科" in result
+
+
+# ── ko bibliography heading tests ──────────────────────────────────
+@pytest.mark.parametrize(
+    "heading",
+    [
+        "## 더 읽기",
+        "## 사진 출처",
+        "## 참고 자료",
+        "## 참고 문헌",
+    ],
+)
+def test_ko_bibliography_heading_exempts_cjk(tmp_path, heading):
+    """ko 的 bibliography heading（더 읽기 / 사진 출처 等）下的正體中文
+    攝影者署名必須落在書目區，不被當正文 leak。"""
+    path = tmp_path / "ko--bib.md"
+    path.write_text(
+        f"---\ntitle: '테스트'\n---\n\n"
+        f"이 문서는 대만 음악에 관한 것입니다.\n\n"
+        f"{heading}\n\n"
+        "- 사진: 迷惘的人生摄, CC BY-SA 2.0, [Wikimedia](https://example.com)\n",
+        encoding="utf-8",
+    )
+
+    assert MODULE.scan_file(path, lang="ko") == []
+
+
+def test_ko_body_cjk_still_leaks(tmp_path):
+    """ko 正文裡沒有書目區保護的中文虛詞（zh-only marker）仍要報 leak。"""
+    path = tmp_path / "ko--body.md"
+    path.write_text(
+        "---\ntitle: '테스트'\n---\n\n"
+        "이 문서는 台灣음악没有没有任何 대만의 역사.\n",
+        encoding="utf-8",
+    )
+
+    hits = MODULE.scan_file(path, lang="ko")
+
+    assert any("正文" in h for h in hits)
