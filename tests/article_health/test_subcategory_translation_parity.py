@@ -3,6 +3,7 @@
 譯文的 subcategory 必須跟 `translatedFrom` 指到的 zh 原文同值——分類頁的分群
 鍵永遠是 zh 原始值，翻過的值會讓那篇自成一群、只有 1 篇時再掉進「其他」。
 """
+from __future__ import annotations
 
 from pathlib import Path
 
