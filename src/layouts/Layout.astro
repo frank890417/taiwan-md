@@ -14,7 +14,11 @@ import HeadInlineScripts from '../components/HeadInlineScripts.astro';
 import EventTracker from '../components/EventTracker.astro';
 
 import type { Lang } from '../config/languages';
-import { getLanguage } from '../config/languages';
+import {
+  ENABLED_LANGUAGE_CODES,
+  DEFAULT_LANGUAGE,
+  getLanguage,
+} from '../config/languages';
 import { useTranslations } from '../i18n/utils';
 import {
   getCategoryDirMap,
@@ -116,6 +120,17 @@ const isEn = lang === 'en';
 const categorySlug =
   propCategorySlug?.toLowerCase() || category?.toLowerCase() || '';
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
+const nonDefaultLanguagePrefixes = new Set(
+  ENABLED_LANGUAGE_CODES.filter((code) => code !== DEFAULT_LANGUAGE.code).map(
+    (code) => `/${code}`,
+  ),
+);
+const pageTypeSegments = currentPath.split('/').filter(Boolean);
+const pageTypePathSegments = nonDefaultLanguagePrefixes.has(
+  `/${pageTypeSegments[0]}`,
+)
+  ? pageTypeSegments.slice(1)
+  : pageTypeSegments;
 
 // ── page_type for the engagement tracker (EventTracker, mounted once below) ──
 // Explicit prop wins; else derived: an article sets `slug`, a category hub sets
@@ -127,11 +142,13 @@ const pageType =
     ? 'article'
     : category
       ? 'category'
-      : currentPath
-          .replace(/^\/(en|ja|ko|es|fr)(?=\/|$)/, '')
-          .split('/')
-          .filter(Boolean)[0] || 'home');
-const isHome = currentPath === '/' || currentPath === '/en';
+      : pageTypePathSegments[0] || 'home');
+const homePaths = new Set(
+  ENABLED_LANGUAGE_CODES.map((code) =>
+    code === DEFAULT_LANGUAGE.code ? '/' : `/${code}`,
+  ),
+);
+const isHome = homePaths.has(currentPath);
 // Feedback widget page-kind (v2): drives context-aware category set + inline
 // text-selection annotation on articles. Derived from page type + path.
 const fbPageKind =
