@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T22:45:34+08:00",
-    "zhCommitHead": "d0ef917d3",
+    "lastUpdated": "2026-09-25T23:04:08+08:00",
+    "zhCommitHead": "555f40920",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1111,
+        "fresh": 1112,
         "stale": 7,
         "metadata_stale": 0,
-        "missing": 6,
+        "missing": 5,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1060,
+        "fresh": 1061,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 52,
+        "missing": 51,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1082,
-        "stale": 11,
+        "fresh": 1083,
+        "stale": 10,
         "metadata_stale": 1,
         "missing": 30,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1054,
+        "fresh": 1055,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 68,
+        "missing": 67,
         "orphan": 0
       }
     },
@@ -44222,8 +44222,8 @@
           "sourceContentHash": "sha256:799ca5362c21601f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T12:48:54.692727+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "555f4092",
+          "translationLastModified": "2026-09-25T22:45:34+08:00",
           "inferred": false,
           "footnoteDefs": 48,
           "bytes": 70236,
@@ -116826,7 +116826,20 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/brigitte-lin-legendary-actress.md",
+          "translatedFrom": "People/林青霞.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:2b4a824289c241f9",
+          "sourceBodyHash": "sha256:12badc0094297f08",
+          "translatedAt": "2026-09-25T16:58:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 17183,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/brigitte-lin-legendary-actress.md",
@@ -141948,7 +141961,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/david-wong.md",
+          "translatedFrom": "People/黃大煒.md",
+          "sourceCommitSha": "5fbbcf417",
+          "sourceContentHash": "sha256:a2b8ae3e1b8f4919",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T14:40:35.990183+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 37,
+          "bytes": 46965,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -167617,18 +167643,18 @@
         "ru": {
           "path": "ru/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:3c85e554c80495b9",
-          "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-08-04T20:19:14+08:00",
+          "sourceCommitSha": "4e22e3bb9",
+          "sourceContentHash": "sha256:3d54c34f765113cd",
+          "sourceBodyHash": "sha256:fa292335dae74f0c",
+          "translatedAt": "2026-09-25T16:58:30+08:00",
           "translationLastCommit": "360bb166",
           "translationLastModified": "2026-08-04T23:18:22+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 23494,
+          "footnoteDefs": 14,
+          "bytes": 39798,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→8)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/ponlai-rice.md",
@@ -194173,11 +194199,11 @@
           "sourceContentHash": "sha256:c4a4c2010dd95827",
           "sourceBodyHash": "sha256:605dca39a0b5b5c5",
           "translatedAt": "2026-09-25T16:58:19+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "555f4092",
+          "translationLastModified": "2026-09-25T22:45:34+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 59426,
+          "bytes": 59434,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -210562,7 +210588,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/traditional-crafts-intangible-cultural-heritage.md",
+          "translatedFrom": "Culture/台灣傳統工藝與無形文化資產.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d8ceca8d969bbb7a",
+          "sourceBodyHash": "sha256:8d311f99ab1ace9b",
+          "translatedAt": "2026-09-25T16:58:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "bytes": 90834,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/traditional-crafts-intangible-cultural-heritage.md",
