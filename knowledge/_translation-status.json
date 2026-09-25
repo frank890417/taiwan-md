@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T02:53:12+08:00",
-    "zhCommitHead": "53a27bf4c",
+    "lastUpdated": "2026-09-26T03:17:35+08:00",
+    "zhCommitHead": "1b2d9dc23",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1101,
-        "stale": 12,
+        "fresh": 1102,
+        "stale": 11,
         "metadata_stale": 0,
         "missing": 11,
         "orphan": 0
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1096,
+        "fresh": 1097,
         "stale": 9,
         "metadata_stale": 0,
-        "missing": 19,
+        "missing": 18,
         "orphan": 0
       },
       "hi": {
@@ -139825,8 +139825,8 @@
           "sourceContentHash": "sha256:70721e3134a573dc",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T16:55:17.199829+00:00",
-          "translationLastCommit": "8cc6a667",
-          "translationLastModified": "2026-09-18T15:14:09+08:00",
+          "translationLastCommit": "1b2d9dc2",
+          "translationLastModified": "2026-09-26T02:53:12+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 61629,
@@ -140688,7 +140688,20 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/nieh-yung-jen.md",
+          "translatedFrom": "People/聶永真.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:54a5de1265f2b2ea",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T18:36:18.804093+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 46520,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/nieh-yung-jen.md",
@@ -167664,18 +167677,18 @@
         "en": {
           "path": "en/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:3c85e554c80495b9",
-          "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-08-04T16:11:28+08:00",
+          "sourceCommitSha": "4e22e3bb9",
+          "sourceContentHash": "sha256:3d54c34f765113cd",
+          "sourceBodyHash": "sha256:fa292335dae74f0c",
+          "translatedAt": "2026-09-25T16:58:19+08:00",
           "translationLastCommit": "9249bca5",
           "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 13851,
+          "footnoteDefs": 14,
+          "bytes": 23639,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→8)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/ponlai-rice.md",
