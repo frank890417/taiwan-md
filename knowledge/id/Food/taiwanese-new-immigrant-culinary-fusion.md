@@ -1,362 +1,365 @@
 ---
-title: 'Fusi Kuliner Pendatang Baru Taiwan'
-description: 'Ketika rasa asam pedas Thailand bertemu dengan manis gurih Taiwan, ketika pho Vietnam bertemu dengan lu Taiwan, ketika rempah Indonesia memeluk bahan lokal, sebuah revolusi rasa yang melampaui batas negara diam-diam terjadi di Taiwan. Para pendatang baru tidak hanya membawa masakan kampung halaman, tetapi juga kemungkinan baru yang memperkaya budaya kuliner Taiwan.'
+title: 'Fusi Kuliner Penduduk Asing di Taiwan'
+description: 'Ketika pedas asam Thailand bertemu manis gurih Taiwan, ketika *pho* Vietnam berpadu dengan *luwei* ala Taiwan, dan ketika bumbu Indonesia merangkul bahan lokal—sebuah revolusi rasa lintas batas sedang terjadi secara diam-diam di Taiwan. Penduduk asing tidak hanya membawa masakan dari tanah air mereka, tetapi juga kemungkinan baru yang memperkaya budaya kuliner Taiwan.'
 date: 2026-03-20
-author: 'Taiwan.md 編輯團隊'
 category: 'Food'
-subcategory: '族群飲食'
 tags:
   [
-    'Kuliner Pendatang Baru',
-    'Masakan Asia Tenggara',
-    'Fusi Budaya',
-    'Kuliner Multikultural',
-    'Budaya Migran',
+    'KulinerPendudukAsing',
+    'MasakanAsiaTenggara',
+    'FusiBudaya',
+    'DietMultikultural',
+    'BudayaImigrasi',
   ]
-readingTime: 10
+subcategory: '族群飲食'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: true
+image: '/article-images/food/pho-vietnamese-noodle-soup.webp'
+imageAlt: 'Pho Vietnam'
+imageCredit: 'Tayzar44 / Wikimedia Commons'
+readingTime: 10
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg'
 translatedFrom: 'Food/台灣新住民美食融合.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:bd8e4eaaa3e395c7'
-sourceBodyHash: 'sha256:6806ae061b784232'
-translatedAt: '2026-07-25T07:55:54+08:00'
-image: '/article-images/food/pho-vietnamese-noodle-soup.webp'
-imageCredit: 'Tayzar44 / Wikimedia Commons'
+sourceCommitSha: '9094012f4'
+sourceContentHash: 'sha256:77ab88a911a474f4'
+sourceBodyHash: 'sha256:0ecfd7b1fa40d486'
+translatedAt: '2026-09-25T13:10:49+08:00'
 ---
 
-# Fusi Kuliner Pendatang Baru Taiwan
+# Fusi Kuliner Penduduk Asing di Taiwan
 
-> 「Rasa kampung halaman tidak akan hilang, ia akan mekar menjadi bunga yang berbeda di tanah baru.」
+> "Rasa kampung halaman tidak akan hilang; ia akan mekar dengan bunga yang berbeda di tanah baru."
 >
-> —— Nguyen Thi Yun (ibu rumah tangga perkawinan Taiwan-Vietnam, 20 tahun di Taiwan)
+> — Ruan Shi-yun (Ibu rumah tangga Tionghoa Taiwan-Vietnam, telah tinggal di Taiwan selama 20 tahun)
 
-Di lorong bawah tanah Stasiun Taipei, sebuah toko kecil yang tak menonjol mengeluarkan aroma wangi serai dan santan. Pemilik toko, A-Jia, adalah pendatang baru dari Indonesia, ia membuat kare Indonesia yang otentik menggunakan bahan-bahan lokal Taiwan. «Kubis Taiwan lebih manis dibanding kubis Indonesia», katanya, «jadi kare saya lebih lembut, lebih disukai orang Taiwan.»
+Di bawah tanah stasiun Taipei, sebuah toko kecil yang tidak mencolok memancarkan aroma serai dan santan. Pemiliknya, A Jia, adalah penduduk asing dari Indonesia, yang membuat kari khas Indonesia menggunakan bahan-bahan lokal Taiwan. "Kubis Taiwan lebih manis daripada di Indonesia," katanya, "jadi rasa kariku lebih lembut, lebih disukai orang Taiwan."
 
-Penyesuaian kecil ini melambangkan ciri khas budaya kuliner pendatang baru Taiwan — bukan sekadar peniruan, melainkan fusi kreatif. Sejak 1990-an, pendatang baru dari berbagai negara Asia Tenggara berturut-turut datang ke Taiwan, mereka tidak hanya membawa tenaga kerja, tetapi juga budaya kuliner yang kaya warna. Kini, rasa-rasa asing ini sudah menyatu dalam peta kuliner Taiwan, menjadi bukti paling lezat dari multikulturalisme Taiwan.
+Penyesuaian kecil ini melambangkan ciri inti budaya kuliner penduduk asing di Taiwan—bukan sekadar replikasi, tetapi fusi yang kreatif. Sejak tahun 1990-an, penduduk asing dari berbagai negara Asia Tenggara secara bertahap datang ke Taiwan. Mereka tidak hanya membawa tenaga kerja, tetapi juga budaya kuliner yang kaya dan berwarna-warni. Kini, cita rasa asing ini telah menyatu erat dalam peta kuliner Taiwan, menjadi saksi bisu kekayaan multikultural Taiwan yang paling lezat.
 
-## Jejak Perkembangan Kuliner Pendatang Baru di Taiwan
+## Lintasan Perkembangan Kuliner Penduduk Asing di Taiwan
 
-### 1990-2000: Awal Mula Mengakar
+### 1990–2000: Awal Berakar
 
-1990-an, Taiwan mulai muncul banyak perkawinan lintas negara, wanita dari Vietnam, Indonesia, Thailand, Filipina, dan lain-lain berturut-turut datang ke Taiwan. Awalnya, mereka terutama memasak masakan kampung halaman untuk keluarga di rumah, rasa-rasa asing ini hanya beredar dalam lingkup sempit.
+Pada tahun 1990-an, pernikahan antarnegara mulai banyak terjadi di Taiwan. Wanita dari Vietnam, Indonesia, Thailand, Filipina, dan negara lain secara bertahap datang ke Taiwan. Pada awalnya, mereka terutama memasak masakan kampung halaman untuk keluarga di rumah; cita rasa asing ini hanya menyebar dalam lingkup kecil.
 
-Pada periode ini, masakan pendatang baru masih mempertahankan wujud asli yang relatif murni. Pho Vietnam, Tom Yam Thailand, Rendang Indonesia, semuanya berusaha mempertahankan rasa asli kampung halaman. Namun karena kesulitan memperoleh bahan, banyak pendatang baru belajar mengganti rempah dan sayur kampung halaman dengan bahan lokal Taiwan.
+Masakan penduduk asing pada periode ini masih mempertahankan bentuk aslinya yang relatif murni. _Pho_ (mi) Vietnam, _Tom Yam_ (sup asam pedas) Thailand, dan _Rendang_ Indonesia berusaha keras untuk mempertahankan rasa asli dari tanah air mereka. Namun, karena kesulitan mendapatkan bahan-bahan tertentu, banyak penduduk asing mulai belajar menggunakan bahan lokal Taiwan sebagai pengganti rempah-rempah dan sayuran dari kampung halaman mereka.
 
-### 2000-2010: Benih Komersialisasi
+### 2000–2010: Tunas Komersialisasi
 
-Masuk abad ke-21, seiring bertambahnya jumlah pendatang baru dan peningkatan penerimaan masyarakat Taiwan terhadap multikulturalisme, kuliner pendatang baru mulai keluar dari keluarga, memasuki pasar komersial.
+Memasuki abad ke-21, seiring meningkatnya jumlah penduduk asing dan penerimaan masyarakat Taiwan terhadap budaya multikultural, kuliner penduduk asing mulai keluar dari rumah tangga dan memasuki pasar komersial.
 
-Jalan Huaxi dan Pasar Malam Nanji Chang di Taipei mulai muncul gerobak pho Vietnam; Zhongzhen Xincun di Zhongli karena berkumpulnya banyak orang Tionghoa keturunan dari Thailand dan Myanmar, membentuk kawasan beraroma khas Yunnan-Thailand-Myanmar; sekitar Stasiun Taoyuan lalu menjadi kawasan berkumpulnya masakan Indonesia.
+Gerai _pho_ Vietnam mulai muncul di Jalan Huaxi Taipei dan Pasar Malam Nanjiagang; Desa Zhongzhen di Zhongli menjadi kawasan dengan nuansa Yunnan-Thai-Myanmar yang kental karena berkumpulnya banyak imigran Tionghoa dari Thailand dan Myanmar; sementara sekitar Stasiun Kereta Api Taoyuan menjadi pusat kuliner Indonesia.
 
-Pada periode ini, masakan pendatang baru mulai menunjukkan kecenderungan «pelokalan». Untuk menyesuaikan selera orang Taiwan, banyak masakan disesuaikan tingkat kepedasannya, keasaman, dan kemanisannya. Masakan Thailand mengurangi penggunaan ikan asin, menambah proporsi kecap; masakan Vietnam mengurangi koriander, menambah kucai yang familiar bagi orang Taiwan.
+Pada periode ini, masakan penduduk asing mulai menunjukkan tren "lokalisasi". Untuk menyesuaikan selera orang Taiwan, banyak hidangan disesuaikan dalam hal tingkat kepedasan, keasaman, dan kemanisan. Masakan Thailand mengurangi penggunaan terasi dan meningkatkan proporsi kecap asin; masakan Vietnam mengurangi daun ketumbar dan menambahkan daun bawang yang akrab di telinga orang Taiwan.
 
-### 2010-2020: Aliran Utama dan Penghalusan
+### 2010–2020: Mainstreamisasi dan Pemurnian
 
-2010-an, kuliner pendatang baru迎来 masa perkembangan pesat. Minat masyarakat Taiwan terhadap budaya Asia Tenggara semakin tinggi, ditambah promosi media internet, masakan pendatang baru mulai memasuki pasar konsumen utama.
+Pada dekade 2010-an, kuliner penduduk asing mengalami masa perkembangan pesat. Minat masyarakat Taiwan terhadap budaya Asia Tenggara semakin mendalam, ditambah dengan promosi media daring, sehingga masakan penduduk asing mulai memasuki pasar konsumen utama.
 
-Periode ini muncul banyak brand restoran pendatang baru yang dikenal. Vietnam Pho menjadikan pho Vietnam sebagai usaha rantai; Wa Cheng Thai Cuisine meski didirikan orang Taiwan, banyak merekrut koki Thailand, mempromosikan masakan Thailand yang otentik; Ye Xiang De Nanyang Cuisine fokus pada masakan Malaysia dan Singapura.
+Banyak merek restoran penduduk asing yang terkenal muncul pada periode ini. _Pho_ Vietnam telah dikembangkan menjadi bisnis waralaba; meskipun Warisan Thai adalah merek yang didirikan oleh orang Taiwan, mereka banyak merekrut koki Thailand untuk mempromosikan hidangan Thailand otentik; sementara De Nanyang Cuisine fokus pada masakan Malaysia dan Singapura.
 
-Sementara itu, kuliner pendatang baru juga mulai menunjukkan kecenderungan penghalusan. Beberapa koki pendatang baru mulai menekankan kualitas bahan dan estetika penyajian, mengangkat jajanan pinggir jalan tradisional menjadi masakan restoran mewah.
+Pada saat yang sama, kuliner penduduk asing juga mulai menunjukkan tren pemurnian (peningkatan kualitas). Beberapa koki asing mulai menekankan kualitas bahan dan estetika penyajian, mengangkat makanan jalanan tradisional menjadi hidangan restoran yang lebih halus.
 
-### 2020 hingga kini: Inovasi Fusi dan Pengakuan Budaya
+### 2020 hingga Sekarang: Inovasi Fusi dan Identitas Budaya
 
-Tahun-tahun terakhir, kuliner pendatang baru Taiwan berkembang dengan wajah yang lebih beragam dan inovatif. Generasi kedua pendatang baru (anak-anak pendatang baru) mulai berpartisipasi dalam pewarisan dan inovasi budaya kuliner, mereka menafsirkan masakan kampung halaman orang tua dengan cara yang lebih kreatif.
+Dalam beberapa tahun terakhir, kuliner penduduk asing di Taiwan telah berkembang ke arah yang lebih beragam dan inovatif. Generasi kedua penduduk asing (anak-anak dari penduduk asing) mulai terlibat dalam pewarisan dan inovasi budaya kuliner; mereka menginterpretasikan masakan kampung halaman orang tua dengan cara yang lebih kreatif.
 
-«Pho Vietnam Gaya Taiwan», «Nasi Lu Thailand», «Ayam Goreng Rasa Indonesia» dan masakan fusi lainnya mulai muncul, inovasi ini tidak lagi dianggap pengkhianatan terhadap tradisi, melainkan hasil alami fusi budaya.
+Hidangan fusi seperti "Pho Vietnam ala Taiwan", "Nasi Goreng ala Thailand", atau "Ayam Goreng rasa Indonesia" mulai muncul, dan inovasi ini tidak lagi dipandang sebagai pengkhianatan terhadap tradisi, melainkan dianggap sebagai hasil alami dari fusi budaya.
 
-## Jenis Utama Kuliner Pendatang Baru dan Ciri Khasnya
+## Jenis Utama Kuliner Penduduk Asing dan Karakteristiknya
 
-### Masakan Vietnam: Keharuan Asam Manis Khas Nanyang
+### Masakan Vietnam: Nuansa Asia Tenggara yang Segar Manis
 
-Masakan Vietnam adalah salah satu kuliner pendatang baru paling populer di Taiwan. Ciri khasnya rasa segar, keseimbangan asam manis, penggunaan besar-besaran daun-daunan segar.
+Masakan Vietnam adalah salah satu kuliner penduduk asing yang paling populer di Taiwan. Ciri khasnya adalah rasa yang segar, seimbang antara asam dan manis, serta penggunaan banyak herba segar.
 
-**Pho (河粉)** adalah perwakilan masakan Vietnam. Di Taiwan, pho Vietnam mengalami pelokalan signifikan:
+**_Pho_ (Mi)** adalah representasi masakan Vietnam. Di Taiwan, _pho_ telah mengalami modifikasi lokal yang signifikan:
 
-- **Penyesuaian kaldu**: Kaldu tulang sapi yang semula ringan, di Taiwan sering ditambah rempah, membuat rasa lebih kaya
-- **Pelokalan sayuran pendamping**: Tauge, kucai, dan sayuran Taiwan yang mudah didapat menggantikan sebagian daun-daunan asli Vietnam
-- **Pilihan daging**: Menambah pilihan daging babi yang disukai orang Taiwan, tidak terbatas pada daging sapi tradisional
+- **Penyesuaian Kaldu**: Kaldu tulang sapi yang awalnya ringan di Taiwan sering ditambahkan lebih banyak rempah untuk membuatnya lebih kaya rasa.
+- **Lokalisasi Pelengkap**: Tauge dan daun bawang—sayuran yang mudah didapat di Taiwan—menggantikan sebagian herba asli Vietnam.
+- **Pilihan Daging**: Menambah pilihan daging babi, yang disukai orang Taiwan, tidak terbatas pada daging sapi tradisional.
 
-**Lumpia Vietnam** di Taiwan juga cukup populer. Versi Taiwan biasanya:
+**Lumpia Vietnam** juga sangat populer di Taiwan. Versi Taiwan biasanya:
 
-- Meningkatkan proporsi selada dan timun kecil
-- Menggunakan udang dan daging babi cincang lokal Taiwan
-- Saus dicampur jadi rasa asam manis yang lebih lembut
+- Meningkatkan proporsi selada dan mentimun.
+- Menggunakan udang lokal dan irisan daging babi dari Taiwan.
+- Menyesuaikan saus cocolan menjadi rasa manis asam yang lebih lembut.
 
-**Restoran Perwakilan**:
+**Restoran Representatif**: (Tidak disebutkan dalam teks sumber)
 
-### Masakan Thailand: Rasa Pedas Harum Khas Tropis
+### Masakan Thailand: Rasa Tropis yang Pedas Kaya
 
-Masakan Thailand dikenal pedas harum, dalam perkembangannya di Taiwan, berangsur-angsur menyesuaikan selera orang Taiwan.
+Masakan Thailand terkenal dengan kepedasannya, dan selama perkembangannya di Taiwan, ia secara bertahap menyesuaikan diri dengan selera orang Taiwan.
 
-**Tom Yam (泰式酸辣湯)** adalah masakan Thailand paling populer:
+**_Tom Yam_ (Sup Asam Pedas)** adalah salah satu masakan Thailand favorit:
 
-- **Penyesuaian rasa asam**: Mengurangi daun jeruk purut, menambah perasan jeruk nipis, membuat rasa asam lebih lembut
-- **Kontrol tingkat pedas**: Menyediakan pilihan tingkat pedas berbeda, memuaskan kebutuhan pedas yang beragam orang Taiwan
-- **Pelokalan hidangan laut**: Menggunakan udang dan cumi lokal Taiwan, kesegaran lebih tinggi
+- **Penyesuaian Keasaman**: Mengurangi penggunaan daun jeruk purut dan menambah jus lemon agar rasa asamnya lebih lembut.
+- **Kontrol Kepedasan**: Menawarkan pilihan tingkat kepedasan yang berbeda untuk memenuhi kebutuhan orang Taiwan akan tingkat pedas.
+- **Lokalisasi Makanan Laut**: Menggunakan udang dan cumi lokal Taiwan, dengan kesegaran yang lebih tinggi.
 
-**Kare Hijau** di Taiwan juga mengalami inovasi:
+**Kari Hijau** juga telah dimodifikasi secara inovatif di Taiwan:
 
-- Menggunakan terong dan buncis lokal Taiwan
-- Konsistensi santan disesuaikan, menyesuaikan selera orang Taiwan
-- Disajikan dengan nasi Taiwan, bukan nasi wangi Thailand tradisional
+- Menggunakan terong dan kacang panjang lokal Taiwan.
+- Konsentrasi santan disesuaikan untuk memenuhi selera orang Taiwan.
+- Disajikan bersama nasi putih Taiwan, bukan beras wangi tradisional Thailand.
 
-**Mo Ping (打拋豬，泰式炒豬肉)** menjadi pilihan populer jajanan pinggir jalan:
+**_Pad Krapao_ (Daging Babi Tumis ala Thai)** adalah pilihan populer di jalanan:
 
-- Menggunakan daging babi segar Taiwan, tekstur lebih empuk
-- Daun kemangi menggantikan sebagian selasih Thailand, lebih sesuai preferensi rempah orang Taiwan
-- Tambahan sayur asin Taiwan dan telur asin sebagai pelengkap
+- Menggunakan daging babi lokal Taiwan yang lebih lembut.
+- Daun kemangi menggantikan sebagian daun kemangi Thailand, lebih sesuai dengan selera rempah orang Taiwan.
+- Pelengkapnya ditambahkan asinan dan telur rebus ala Taiwan.
 
-**Restoran Perwakilan**:
+**Restoran Representatif**: (Tidak disebutkan dalam teks sumber)
 
-### Masakan Indonesia: Kekayaan Rempah Khas Kepulauan
+### Masakan Indonesia: Rasa Kepulauan yang Kaya Rempah
 
-Masakan Indonesia ciri khasnya rempah kaya, lapisan rasa kompleks. Di Taiwan, perkembangan masakan Indonesia relatif lebih lambat, tapi tahun-tahun terakhir mulai mendapat perhatian.
+Ciri khas masakan Indonesia adalah kekayaan bumbu dan kompleksitas rasa. Di Taiwan, perkembangan masakan Indonesia relatif lebih lambat, tetapi belakangan ini semakin mendapat perhatian.
 
-**Nasi Goreng Indonesia** adalah masakan Indonesia paling mudah diterima orang Taiwan:
+**_Nasi Goreng_ (Nasi Goreng)** adalah masakan Indonesia yang paling mudah diterima oleh orang Taiwan:
 
-- Menggunakan beras panjang lokal Taiwan, tekstur lebih sesuai kebiasaan orang Taiwan
-- Bumbu cenderung manis gurih, tingkat pedas lembut
-- Tambahan sosis Taiwan dan telur asin sebagai bahan lokal
+- Menggunakan beras panjang lokal Taiwan, teksturnya lebih sesuai dengan kebiasaan orang Taiwan.
+- Bumbu cenderung manis gurih, tingkat kepedasan lembut.
+- Ditambahkan bahan lokal seperti sosis dan telur rebus ala Taiwan.
 
-**Rendang** setelah pelokalan Taiwan:
+**_Rendang_ (Kari Daging)** setelah dimodifikasi ala Taiwan:
 
-- Konsistensi santan disesuaikan, tidak terlalu kental
-- Jumlah rempah dikurangi, menyesuaikan selera orang Taiwan
-- Disajikan dengan nasi putih Taiwan, bukan nasi kelapa tradisional
+- Konsentrasi santan disesuaikan agar tidak terlalu berat.
+- Penggunaan rempah dikurangi untuk menyesuaikan selera orang Taiwan.
+- Disajikan bersama nasi putih Taiwan, bukan nasi kelapa tradisional.
 
-**Restoran Perwakilan**:
+**Restoran Representatif**: (Tidak disebutkan dalam teks sumber)
 
-### Masakan Filipina: Rasa Asam Manis Membuka Selera Khas Negara Kepulauan
+### Masakan Filipina: Nuansa Kepulauan yang Asam Manis
 
-Masakan Filipina di Taiwan relatif lebih niche, tapi tetap memiliki daya tarik unik.
+Perkembangan masakan Filipina di Taiwan relatif lebih kecil, tetapi tetap memiliki pesona unik.
 
-**Adobo (菲律賓燉肉)** adalah masakan nasional Filipina:
+**_Adobo_ (Daging Rebus ala Filipina)** adalah makanan pokok orang Filipina:
 
-- Menggunakan kecap dan cuka Taiwan, rasa lebih lembut
-- Tambahan lobak dan kentang yang disukai orang Taiwan
-- Disajikan dengan nasi putih Taiwan
+- Menggunakan kecap asin dan cuka Taiwan, rasanya menjadi lebih lembut.
+- Ditambahkan lobak dan kentang yang disukai orang Taiwan.
+- Disajikan bersama nasi putih Taiwan.
 
-**Restoran Perwakilan**:
+**Restoran Representatif**: (Tidak disebutkan dalam teks sumber)
 
-## Inovasi Pelokalan Kuliner Pendatang Baru
+## Inovasi Lokalisasi Kuliner Penduduk Asing
 
-### Penggantian Bahan Lokal
+### Substitusi Bahan Lokal
 
-Tantangan pertama yang dihadapi koki pendatang baru di Taiwan adalah pengadaan bahan. Banyak rempah dan sayur kampung halaman tidak mudah dibeli di Taiwan, atau harganya mahal. Oleh itu, mereka memancarkan kreativitas luar biasa, menciptakan kombinasi rasa baru dengan bahan lokal Taiwan.
+Tantangan pertama bagi koki penduduk asing di Taiwan adalah pengadaan bahan baku. Banyak rempah dan sayuran dari kampung halaman sulit ditemukan atau harganya mahal di Taiwan. Oleh karena itu, mereka menunjukkan kreativitas luar biasa dengan menciptakan kombinasi rasa baru menggunakan bahan lokal Taiwan.
 
-**Penggantian rempah**:
+**Substitusi Rempah**:
 
-- Menggunakan lada putih Taiwan menggantikan sebagian rempah khas Asia Tenggara
-- Menggunakan koriander Taiwan menggantikan koriander Vietnam (rasa sedikit berbeda)
-- Menggunakan cabai Taiwan menggantikan cabai rawit Thailand
+- Menggunakan bubuk merica Taiwan sebagai pengganti sebagian rempah khas Asia Tenggara.
+- Menggunakan daun ketumbar Taiwan sebagai pengganti daun ketumbar Vietnam (rasanya sedikit berbeda).
+- Menggunakan cabai Taiwan sebagai pengganti cabai _chili_ Thailand.
 
-**Penggantian sayuran**:
+**Substitusi Sayuran**:
 
-- Menggunakan selada Taiwan menggantikan selada Vietnam
-- Menggunakan kucai Taiwan menggantikan bunga kucai Thailand
-- Menggunakan terong Taiwan menggantikan terong bulat Thailand
+- Menggunakan selada Taiwan sebagai pengganti selada Vietnam.
+- Menggunakan daun bawang Taiwan sebagai pengganti bunga bawang putih Thailand.
+- Menggunakan terong Taiwan sebagai pengganti terong bulat Thailand.
 
-**Penyesuaian daging**:
+**Penyesuaian Daging**:
 
-- Menggunakan daging babi dan ayam berkualitas tinggi Taiwan
-- Menyesuaikan pilihan bagian daging sesuai preferensi orang Taiwan
+- Menggunakan daging babi dan ayam berkualitas tinggi dari Taiwan.
+- Penyesuaian pilihan bagian daging berdasarkan preferensi orang Taiwan.
 
-### Penyesuaian Rasa Gaya Taiwan
+### Penyesuaian Rasa ala Taiwan
 
-Untuk menyesuaikan selera orang Taiwan, masakan pendatang baru disesuaikan tingkat kepedasan, keasaman, dan kemanisannya.
+Untuk menyesuaikan dengan selera orang Taiwan, masakan penduduk asing telah disesuaikan dalam hal kepedasan, keasaman, dan kemanisan.
 
-**Pengaturan tingkat pedas**:
-Orang Taiwan umumnya tidak sekuat orang Asia Tenggara makan pedas, sehingga banyak masakan pendatang baru menurunkan tingkat pedas, atau menyediakan pilihan tingkat pedas berbeda.
+**Penyesuaian Kepedasan**:
+Orang Taiwan umumnya tidak sepedas orang Asia Tenggara, sehingga banyak masakan penduduk asing mengurangi tingkat kepedasannya, atau menawarkan pilihan tingkat kepedasan yang berbeda.
 
-**Peningkatan kemanisan**:
-Orang Taiwan suka manis, sehingga banyak masakan pendatang baru menambah kemanisan. Pad Thai akan tambah gula; kaldu pho Vietnam juga sedikit manis.
+**Peningkatan Rasa Manis**:
+Orang Taiwan menyukai rasa manis, sehingga banyak masakan penduduk asing menambahkan lebih banyak rasa manis. _Pad Thai_ akan ditambahkan lebih banyak gula; kaldu _pho_ Vietnam juga memiliki sedikit rasa manis.
 
-**Penyesuaian kegurihan**:
-Mengurangi penggunaan ikan asin dan bumbu beraroma laut kuat, menambah proporsi kecap yang familiar bagi orang Taiwan.
+**Penyesuaian Keasinan**:
+Mengurangi penggunaan bumbu dengan rasa laut yang kuat seperti terasi dan meningkatkan proporsi kecap asin yang akrab di telinga orang Taiwan.
 
 ### Fusi Teknik Memasak
 
-Koki pendatang baru juga memadukan teknik memasak Taiwan ke dalam masakan mereka.
+Koki penduduk asing juga mengintegrasikan teknik memasak Taiwan ke dalam masakan mereka.
 
-**Teknik tumis cepat**:
-Banyak masakan Asia Tenggara aslinya butuh waktu lama merebus, tapi di tengah kehidupan Taiwan yang cepat, koki pendatang baru belajar metode tumis cepat khas Taiwan, mempersingkat waktu memasak.
+**Teknik Tumis Cepat (_Stir-fry_)**:
+Banyak masakan Asia Tenggara awalnya membutuhkan waktu lama untuk direbus, tetapi dalam kehidupan yang serba cepat di Taiwan, koki penduduk asing belajar menggunakan metode _stir-fry_ ala Taiwan untuk mempersingkat waktu memasak.
 
-**Teknik merebus dengan bumbu (lu)**:
-Teknik lu Taiwan diterapkan ke masakan Asia Tenggara, melahirkan «Lu Thailand», «Telur Lu Vietnam» dan masakan inovatif lainnya.
+**Teknik Pengasinan/Pengawetan (_Luwei_)**:
+Teknik pengasinan khas Taiwan diterapkan pada masakan Asia Tenggara, menghasilkan hidangan inovatif seperti "Daging Babi Rebus Ala Thai" atau "Telur Rebus Ala Vietnam".
 
-**Perbaikan penggorengan**:
-Belajar teknik penggorengan pasar malam Taiwan, membuat gorengan Asia Tenggara lebih renyah.
+**Perbaikan Teknik Goreng**:
+Belajar teknik menggoreng di pasar malam Taiwan untuk membuat makanan goreng Asia Tenggara menjadi lebih renyah.
 
-## Masakan Inovatif Fusi Lintas Budaya
+## Inovasi Kuliner Lintas Budaya
 
-### Masakan Fusi Taiwan-Vietnam
+### Fusi Taiwan-Vietnam
 
-**Nasi Lu Vietnam**:
-Menggabungkan nasi lu klasik Taiwan dengan rempah Vietnam, menggunakan serai, daun mint dan daun-daunan lain sebagai bumbu, menciptakan versi nasi lu yang segar.
+**_Nasi Goreng Daging Babi ala Vietnam_**:
+Menggabungkan _Luwei_ (daging babi rebus) klasik Taiwan dengan rempah Vietnam, menggunakan herba seperti serai dan mint untuk menciptakan versi yang lebih segar.
 
-**Mie Daging Sapi Vietnam**:
-Menggunakan teknik kaldu bening pho Vietnam memasak mie daging sapi Taiwan, kaldu lebih segar, tambahan koriander Vietnam dan tauge.
+**_Mie Sapi Ala Vietnam_**:
+Memasak hidangan mie sapi Taiwan menggunakan teknik kaldu bening dari _pho_ Vietnam; kuahnya menjadi lebih ringan, ditambahkan daun ketumbar dan tauge Vietnam.
 
-### Masakan Fusi Taiwan-Thailand
+### Fusi Taiwan-Thailand
 
-**Ayam Goreng Thailand**:
-Menggabungkan ayam goreng pasar malam Taiwan dengan bumbu Thailand, marinasi menggunakan serai, daun jeruk purut dan rempah Thailand lainnya.
+**_Ayam Goreng ala Thai_**:
+Menggabungkan ayam goreng pasar malam Taiwan dengan bumbu Thailand, di mana proses pengasinan menggunakan rempah Thailand seperti serai dan daun jeruk purut.
 
-**Gua Bao Thailand**:
-Mengganti isian gua bao tradisional Taiwan dengan daging babi panggang Thailand, disajikan dengan acar mentimun Thailand.
+**_Bao Roti Ala Thai_**:
+Isian _bao_ tradisional Taiwan diganti dengan daging babi panggang ala Thailand, disajikan bersama salad mangga muda ala Thailand.
 
-### Masakan Fusi Taiwan-Indonesia
+### Fusi Taiwan-Indonesia
 
-**Tahu Goreng Rasa Indonesia**:
-Tahu goreng Taiwan dibumbui rempah Indonesia, menciptakan «tahu goreng berempah» yang unik.
+**_Tahu Busuk Berbumbu Indonesia_**:
+Menggunakan tahu busuk Taiwan yang dibumbui dengan rempah Indonesia, menciptakan "tahu busuk berrempah" yang unik.
 
-**Ayam Goreng Kare**:
-Ayam goreng Taiwan disiram saus kare khas Indonesia, masakan kreatif perpaduan timur-barat.
+**_Ayam Goreng Kari_**:
+Ayam goreng Taiwan disiram saus kari rasa Indonesia; ini adalah hidangan kreatif yang menggabungkan dua budaya.
 
-## Dampak Sosial Budaya Kuliner Pendatang Baru
+## Dampak Sosial Budaya Kuliner Penduduk Asing
 
 ### Mengubah Kebiasaan Makan Orang Taiwan
 
-Penyebaran kuliner pendatang baru, berangsur-angsur mengubah kebiasaan makan dan preferensi rasa orang Taiwan.
+Penyebaran kuliner penduduk asing secara bertahap mengubah kebiasaan makan dan selera orang Taiwan.
 
-**Peningkatan penerimaan rempah**:
-Semuanya orang Taiwan mulai menerima dan menyukai daun-daunan, serai, daun jeruk purut dan rempah Asia Tenggara lainnya.
+**Peningkatan Penerimaan Rempah**:
+Semakin banyak orang Taiwan yang mulai menerima dan menyukai rempah-rempah Asia Tenggara seperti herba, serai, dan daun jeruk purut.
 
-**Penyebaran rasa asam pedas**:
-Tom Yam Thailand, pho asam pedas Vietnam dan masakan asam pedas lainnya, menjadi kesukaan baru banyak orang Taiwan.
+**Popularitas Rasa Asam Pedas**:
+Hidangan dengan rasa asam pedas seperti _Tom Yam_ Thailand dan _Pho_ Vietnam telah menjadi favorit baru bagi banyak orang Taiwan.
 
-**Konsep makan sehat**:
-Masakan Asia Tenggara banyak menggunakan sayur segar dan daun-daunan, mendorong perhatian orang Taiwan terhadap makan sehat.
+**Kesadaran Makanan Sehat**:
+Masakan Asia Tenggara yang banyak menggunakan sayuran segar dan herba mendorong perhatian orang Taiwan terhadap pola makan sehat.
 
-### Mempromosikan Pemahaman Multikultural
+### Mendorong Pemahaman Multikultural
 
-Kuliner pendatang baru menjadi jendela penting masyarakat Taiwan memahami budaya Asia Tenggara.
+Kuliner penduduk asing menjadi jendela penting bagi masyarakat Taiwan untuk memahami budaya Asia Tenggara.
 
-**Pertukaran budaya**:
-Melalui menikmati masakan pendatang baru, orang Taiwan mendapat pemahaman dan pengenalan lebih dalam terhadap budaya Asia Tenggara.
+**Pertukaran Budaya**:
+Melalui mencicipi masakan penduduk asing, orang Taiwan memperoleh pemahaman yang lebih mendalam tentang budaya Asia Tenggara.
 
-**Menghapus prasangka**:
-Daya tarik kuliner membantu menghapus beberapa prasangka budaya, mempromosikan pemahaman dan fusi antar kelompok etnis.
+**Mengikis Prasangka**:
+Pesona kuliner membantu menghilangkan beberapa prasangka budaya dan mendorong pemahaman serta integrasi antar kelompok etnis.
 
-**Pembelajaran bahasa**:
-Banyak orang Taiwan karena suka masakan pendatang baru, mulai belajar Vietnam, Thailand sederhana.
+**Pembelajaran Bahasa**:
+Banyak orang Taiwan mulai belajar bahasa Vietnam atau Thailand sederhana karena menyukai masakan penduduk asing.
 
 ### Dampak Ekonomi
 
-Perkembangan industri kuliner pendatang baru, juga membawa dampak ekonomi penting.
+Perkembangan industri kuliner penduduk asing juga membawa dampak ekonomi yang signifikan.
 
-**Peluang kerja**:
-Restoran kuliner pendatang baru menyediakan peluang kerja penting bagi pendatang baru, juga melatih bakat industri terkait.
+**Peluang Kerja**:
+Restoran kuliner penduduk asing menyediakan peluang kerja penting bagi penduduk asing dan melatih talenta industri terkait.
 
-**Manfaat pariwisata**:
-Kuliner pendatang baru yang unik menjadi sorotan baru pariwisata Taiwan, menarik wisatawan internasional datang menikmati.
+**Manfaat Pariwisata**:
+Kuliner unik dari penduduk asing menjadi daya tarik baru pariwisata Taiwan, menarik wisatawan internasional untuk mencicipinya.
 
-**Perdagangan impor-ekspor**:
-Permintaan kuliner pendatang baru, mendorong perdagangan impor bahan dan bumbu Asia Tenggara.
+**Perdagangan Impor-Ekspor**:
+Permintaan terhadap kuliner penduduk asing mendorong perdagangan impor bahan baku dan bumbu Asia Tenggara.
 
-## Pewarisan dan Inovasi Budaya Generasi Kedua Pendatang Baru
+## Pewarisan dan Inovasi Generasi Kedua Penduduk Asing
 
-### Kompleksitas Pengakuan Budaya
+### Kompleksitas Identitas Budaya
 
-Generasi kedua pendatang baru (anak-anak pendatang baru) dalam pengakuan budaya menghadapi pilihan kompleks. Mereka既是 orang Taiwan, juga mewarisi darah budaya kampung halaman ibu. Di bidang budaya kuliner, identitas kompleks ini melahirkan banyak inovasi.
+Generasi kedua penduduk asing (anak-anak dari penduduk asing) menghadapi pilihan yang kompleks dalam identitas budaya. Mereka adalah orang Taiwan, namun juga mewarisi garis keturunan budaya dari tanah air ibu mereka. Dalam budaya kuliner, identitas yang kompleks ini melahirkan banyak inovasi.
 
-**Keunggulan bahasa**:
-Generasi kedua pendatang baru sering fasih berbahasa Mandarin dan bahasa ibu, dalam mengelola restoran pendatang baru memiliki keunggulan komunikasi unik.
+**Keunggulan Bahasa**:
+Generasi kedua sering kali mampu berbicara bahasa Mandarin dan bahasa ibu ibu mereka dengan fasih, memberikan keunggulan komunikasi unik saat mengelola restoran penduduk asing.
 
-**Pemikiran kreatif**:
-Generasi kedua yang tumbuh di lingkungan multikultural, dalam inovasi masakan sering memiliki pemikiran lebih terbuka.
+**Pemikiran Kreatif**:
+Generasi kedua yang dibesarkan dalam lingkungan multikultural cenderung memiliki pemikiran yang lebih terbuka dalam inovasi kuliner.
 
-### Generasi Baru Masakan Inovatif
+### Generasi Baru dalam Inovasi Kuliner
 
-**Restoran Fusi Vietnam-Taiwan Nyonya Lin**:
-Anak perempuan pendatang baru Vietnam, Nyonya Lin, membuka restoran fusi Vietnam-Taiwan di Taipei. Ia menggabungkan budaya pasar malam Taiwan dengan jajanan pinggir jalan Vietnam, menciptakan «Roti Babi Vietnam», «Lumpia Gaya Taiwan» dan masakan inovatif lainnya.
+**_Restoran Fusi Taiwan-Vietnam milik Nona Lin_**:
+Nona Lin, putri seorang penduduk asing Vietnam, membuka restoran fusi Taiwan-Vietnam di Taipei. Ia menggabungkan budaya pasar malam Taiwan dengan makanan jalanan Vietnam, menciptakan inovasi seperti "Roti Merica ala Vietnam" dan "Lumpia ala Taiwan".
 
-**Warung Sarapan Thailand Ah-Ming**:
-Anak laki-laki pendatang baru Thailand, Ah-Ming, menggabungkan masakan Thailand dengan budaya sarapan Taiwan, meluncurkan «Roti Telur Thailand», «Susu Kedelai Serai» dan sarapan fusi lainnya.
+**_Kedai Sarapan Ala Thai milik A Ming_**:
+A Ming, putra seorang penduduk asing Thailand, menggabungkan masakan Thailand dengan budaya sarapan Taiwan, menawarkan menu fusi seperti "Pancake Telur ala Thai" dan "Susu Kedelai Serai".
 
 ### Promosi Pendidikan Budaya
 
-Banyak generasi kedua pendatang baru mulai memikul tanggung jawab pendidikan budaya, melalui kelas masakan, kegiatan budaya dan sebagainya, mempromosikan budaya kuliner Asia Tenggara.
+Banyak generasi kedua penduduk asing mulai memikul tanggung jawab pendidikan budaya, menyebarkan budaya kuliner Asia Tenggara melalui kelas memasak dan kegiatan budaya.
 
-**Pengajaran masakan**:
-Membuka kelas masakan Asia Tenggara, mengajarkan orang Taiwan membuat masakan Asia Tenggara yang otentik.
+**Pengajaran Memasak**:
+Menyelenggarakan kursus masakan Asia Tenggara untuk mengajari orang Taiwan membuat makanan otentik dari Asia Tenggara.
 
-**Kegiatan budaya**:
+**Kegiatan Budaya**:
 Berpartisipasi dalam kegiatan multikultural sekolah dan komunitas, mempromosikan budaya kampung halaman ibu melalui pameran kuliner.
 
-## Tantangan yang Dihadapi dan Pandangan Masa Depan
+## Tantangan yang Dihadapi dan Prospek Masa Depan
 
 ### Tantangan Utama
 
-**Rantai pasok bahan**:
-Banyak bahan khas Asia Tenggara masih bergantung impor, biaya tinggi, mempengaruhi daya saing harga masakan.
+**Rantai Pasokan Bahan Baku**:
+Banyak bahan khas Asia Tenggara masih bergantung pada impor, sehingga biayanya tinggi dan mempengaruhi daya saing harga makanan.
 
-**Pewarisan keterampilan**:
-Beberapa teknik pembuatan tradisional menghadapi risiko punah, butuh mekanisme pewarisan yang sistematis.
+**Pewarisan Keterampilan**:
+Beberapa teknik pembuatan tradisional berisiko hilang, memerlukan mekanisme pewarisan yang sistematis.
 
-**Tingkat penerimaan pasar**:
-Meski kuliner pendatang baru sudah banyak disukai, di beberapa wilayah atau lapisan usia, tingkat penerimaan masih butuh ditingkatkan.
+**Penerimaan Pasar**:
+Meskipun kuliner penduduk asing populer, penerimaannya masih perlu ditingkatkan di beberapa daerah atau kelompok usia.
 
-**Tekanan komersialisasi**:
-Demi menyesuaikan permintaan pasar terlalu mengubah rasa tradisional, berisiko kehilangan ciri khas budaya asli.
+**Tekanan Komersial**:
+Mengubah rasa tradisional secara berlebihan untuk memenuhi permintaan pasar dapat menyebabkan hilangnya ciri khas budaya aslinya.
 
-### Peluang Perkembangan
+### Peluang Pengembangan
 
-**Dukungan kebijakan**:
-Kebijakan pemerintah mendukung multikulturalisme, menyediakan lingkungan baik bagi perkembangan kuliner pendatang baru.
+**Dukungan Kebijakan**:
+Kebijakan pemerintah yang mendukung multikulturalisme menyediakan lingkungan yang baik bagi perkembangan kuliner penduduk asing.
 
-**Penerimaan tinggi generasi muda**:
-Generasi muda penerimaan masakan asing lebih tinggi, menyediakan ruang pasar luas bagi kuliner pendatang baru.
+**Tingkat Penerimaan Generasi Muda**:
+Generasi muda memiliki tingkat penerimaan yang tinggi terhadap makanan asing, memberikan ruang pasar yang luas bagi kuliner penduduk asing.
 
-**Gabungan industri pariwisata**:
-Kuliner pendatang baru bisa bergabung dalam-dalam dengan industri pariwisata Taiwan, jadi konten penting pariwisata budaya.
+**Integrasi Industri Pariwisata**:
+Kuliner penduduk asing dapat diintegrasikan secara mendalam dengan industri pariwisata Taiwan, menjadi konten penting dalam wisata budaya.
 
-**Tren internasionalisasi**:
-Seiring perkembangan globalisasi, Taiwan sebagai basis fusi masakan Asia Tenggara, berpotensi diekspor ke negara lain.
+**Tren Internasionalisasi**:
+Dengan perkembangan globalisasi, Taiwan memiliki potensi untuk mengekspor sebagai basis fusi kuliner Asia Tenggara ke negara lain.
 
-### Pandangan Masa Depan
+### Prospek Masa Depan
 
-**Perkembangan profesionalisasi**:
-Masa depan akan muncul lebih banyak restoran masakan pendatang baru profesional, menyediakan layanan lebih halus dan rasa lebih otentik.
+**Pengembangan Profesional**:
+Di masa depan akan muncul lebih banyak restoran kuliner penduduk asing yang profesional, menawarkan layanan yang lebih halus dan rasa yang lebih otentik.
 
-**Pengalaman rantai**:
-Beberapa brand restoran pendatang baru sukses akan mengembangkan usaha rantai, memperluas pengaruh pasar.
+**Operasi Waralaba**:
+Beberapa merek restoran penduduk asing yang sukses akan mengembangkan waralaba untuk memperluas pengaruh pasar.
 
-**Pelokalan bahan**:
-Seiring bertambahnya permintaan, sebagian sayur dan rempah Asia Tenggara akan ditanam di Taiwan, menurunkan biaya.
+**Lokalisasi Bahan Baku**:
+Seiring meningkatnya permintaan, beberapa sayuran dan rempah Asia Tenggara akan ditanam secara lokal di Taiwan, sehingga mengurangi biaya.
 
-**Fungsi pendidikan budaya**:
-Restoran pendatang baru akan memikul lebih banyak fungsi pendidikan budaya, jadi tempat penting pertukaran multikultural.
+**Fungsi Pendidikan Budaya**:
+Restoran penduduk asing akan menjalankan lebih banyak fungsi pendidikan budaya, menjadi tempat penting untuk pertukaran multikultural.
 
-**Masakan fusi inovatif**:
-Generasi kedua pendatang baru akan menciptakan lebih banyak masakan fusi berkhasiat Taiwan, membentuk «Masakan Asia Tenggara Rasa Taiwan» yang unik.
+**Inovasi Fusi Kuliner**:
+Generasi kedua penduduk asing akan menciptakan lebih banyak hidangan fusi Asia Tenggara khas Taiwan, membentuk "Masakan Asia Tenggara Rasa Taiwan" yang unik.
 
-## Penutup: Fusi Budaya di Lidah
+## Kesimpulan: Fusi Budaya dalam Rasa
 
-Perkembangan kuliner pendatang baru Taiwan, adalah cerita menyentuh tentang fusi dan inovasi budaya. Ia memberitahu kita, pewarisan budaya bukan penyalinan statis, melainkan adaptasi kreatif di lingkungan baru.
+Perkembangan kuliner penduduk asing di Taiwan adalah kisah mengharukan tentang fusi dan inovasi budaya. Ini mengajarkan kita bahwa pewarisan budaya bukanlah replikasi statis, melainkan adaptasi kreatif dalam lingkungan baru.
 
-Ketika ibu Vietnam menggunakan kubis Taiwan membungkus lumpia yang lebih manis, ketika menantu Thailand menggunakan daging babi Taiwan membuat mo ping yang lebih lembut, ketika kakak Indonesia menggunakan cabai Taiwan menyesuaikan kare yang lebih cocok lidah lokal, mereka tidak mengkhianati tradisi kampung halaman, melainkan menciptakan tradisi baru milik Taiwan.
+Ketika ibu Vietnam membungkus lumpia yang lebih manis dengan kubis Taiwan, ketika menantu Thailand membuat _pad krapao_ yang lebih lembut dengan daging babi Taiwan, dan ketika kakak perempuan Indonesia membuat kari yang lebih cocok untuk lokal dengan cabai Taiwan—mereka tidak mengkhianati tradisi kampung halaman mereka, tetapi menciptakan tradisi baru milik Taiwan.
 
-Fusi ini adalah dua arah. Orang Taiwan dalam menerima kuliner pendatang baru, juga mengubah budaya makan sendiri. Masakan Taiwan hari ini, sudah bukan masakan Taiwan 20 tahun lalu. Ia jadi lebih beragam, lebih kaya, lebih internasional.
+Fusi ini bersifat dua arah. Saat orang Taiwan menerima kuliner penduduk asing, mereka juga mengubah budaya makan mereka sendiri. Masakan Taiwan hari ini sudah bukan masakan Taiwan 20 tahun lalu. Ia menjadi lebih beragam, lebih kaya, dan lebih internasional.
 
-Perkembangan kuliner pendatang baru di Taiwan, menunjukkan inklusivitas dan kreativitas masyarakat Taiwan. Ia membuktikan pertukaran antar budaya bukan permainan jumlah nol, tapi bisa menciptakan hasil indah «1+1>2».
+Perkembangan kuliner penduduk asing di Taiwan menunjukkan inklusivitas dan kreativitas masyarakat Taiwan. Ini membuktikan bahwa pertukaran antarbudaya bukanlah permainan zero-sum, melainkan dapat menciptakan hasil indah "1+1>2".
 
-Masa depan, seiring tumbuhnya lebih banyak generasi kedua pendatang baru dan munculnya lebih banyak masakan inovatif, budaya kuliner pendatang baru Taiwan akan terus berkembang dan berevolusi. Ia akan jadi simbol penting multikulturalisme Taiwan, juga akan menambah lebih banyak warna dan kemungkinan bagi budaya kuliner Taiwan.
+Di masa depan, seiring pertumbuhan generasi kedua penduduk asing dan munculnya lebih banyak hidangan inovatif, budaya kuliner penduduk asing di Taiwan akan terus berkembang dan berevolusi. Ia akan menjadi simbol penting dari multikulturalisme Taiwan, dan menambahkan lebih banyak warna serta kemungkinan pada budaya kuliner Taiwan.
 
-Di era globalisasi ini, cerita kuliner pendatang baru Taiwan, juga menyediakan contoh sukses fusi budaya bagi negara lain. Ia memberitahu kita, sikap terbuka dan semangat inovasi, bisa membuat budaya yang berbeda di tanah baru mekar menjadi bunga yang lebih indah.
+Di era globalisasi ini, kisah kuliner penduduk asing di Taiwan juga memberikan contoh sukses fusi budaya bagi negara lain. Ini mengajarkan kita bahwa pola pikir terbuka dan semangat inovasi dapat membuat berbagai budaya mekar dengan bunga yang lebih indah di tanah baru.
 
 ---
 
 ## Bacaan Lanjutan
 
-## Bacaan Lanjutan
-
-1. Data Statistik Pendatang Baru Kementerian Dalam Negeri
+1. Data Statistik Penduduk Asing dari Kementerian Dalam Negeri
 2. Laporan Survei Restoran Masakan Asia Tenggara Taiwan
-3. Kumpulan Tesis Penelitian Budaya Kuliner Pendatang Baru
-4. Data Wawancara Organisasi Komunitas Pendatang Baru
-5. Penelitian Pengakuan Budaya Generasi Kedua Pendatang Baru
+3. Kumpulan Makalah Penelitian Budaya Kuliner Penduduk Asing
+4. Materi Wawancara Komunitas Penduduk Asing
+5. Penelitian Identitas Budaya Generasi Kedua Penduduk Asing
+
+## Sumber Gambar
+
+- Hero: Pho Vietnam, foto Tayzar44, https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg, CC BY 4.0.
