@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T22:16:23+08:00",
-    "zhCommitHead": "37ad3e467",
+    "lastUpdated": "2026-09-25T22:45:34+08:00",
+    "zhCommitHead": "d0ef917d3",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1096,
-        "stale": 15,
+        "fresh": 1097,
+        "stale": 14,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1101,
-        "stale": 16,
+        "fresh": 1102,
+        "stale": 15,
         "metadata_stale": 0,
         "missing": 7,
         "orphan": 0
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1059,
+        "fresh": 1060,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 53,
+        "missing": 52,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1081,
+        "fresh": 1082,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 31,
+        "missing": 30,
         "orphan": 0
       },
       "de": {
@@ -54222,8 +54222,8 @@
           "sourceContentHash": "sha256:62a0444682031043",
           "sourceBodyHash": "sha256:f0ac4cd7b2bc3b4c",
           "translatedAt": "2026-09-25T16:58:24+08:00",
-          "translationLastCommit": "2fd584d5",
-          "translationLastModified": "2026-09-10T00:09:11+08:00",
+          "translationLastCommit": "d0ef917d",
+          "translationLastModified": "2026-09-25T22:16:24+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "bytes": 50939,
@@ -61501,20 +61501,18 @@
         "ko": {
           "path": "ko/Society/taiwan-higher-education-expansion-and-decline.md",
           "translatedFrom": "Society/台灣高等教育擴張與退場.md",
-          "sourceCommitSha": "3b2bfbb30",
-          "sourceContentHash": "sha256:0e32d79d3df5fb08",
-          "sourceBodyHash": "sha256:4ba5d74427c47aed",
-          "translatedAt": "2026-07-29T07:32:35+08:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:75def73de8a38979",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T13:54:34.409049+00:00",
           "translationLastCommit": "3c20aad3",
           "translationLastModified": "2026-09-22T00:49:37+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 55206,
+          "bytes": 56418,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/taiwan-higher-education-expansion-and-decline.md",
@@ -180030,7 +180028,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taiwan-minpao-newspaper.md",
+          "translatedFrom": "History/臺灣民報.md",
+          "sourceCommitSha": "1b7250789",
+          "sourceContentHash": "sha256:cfc5c04e9673e1a1",
+          "sourceBodyHash": "sha256:27b8803688951c5a",
+          "translatedAt": "2026-09-25T16:58:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 42858,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/taiwan-minpao-newspaper.md",
@@ -194158,20 +194169,18 @@
         "en": {
           "path": "en/Geography/zhongshan-north-road-tiaotong.md",
           "translatedFrom": "Geography/中山北路條通.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:c8a39341eabfac41",
-          "sourceBodyHash": "sha256:8e3e2179e3d0c9c2",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "2da8b92f2",
+          "sourceContentHash": "sha256:c4a4c2010dd95827",
+          "sourceBodyHash": "sha256:605dca39a0b5b5c5",
+          "translatedAt": "2026-09-25T16:58:19+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 62657,
+          "bytes": 59426,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/zhongshan-north-road-tiaotong.md",
@@ -209149,8 +209158,8 @@
           "sourceContentHash": "sha256:d56573864b826475",
           "sourceBodyHash": "sha256:1750eec6a44e0473",
           "translatedAt": "2026-09-25T16:58:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d0ef917d",
+          "translationLastModified": "2026-09-25T22:16:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 36813,
@@ -215961,7 +215970,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/bamboo-hat-craft.md",
+          "translatedFrom": "Culture/斗笠.md",
+          "sourceCommitSha": "172e37b14",
+          "sourceContentHash": "sha256:79bdc16e1c9ab31c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T14:06:05.213453+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "bytes": 108489,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
