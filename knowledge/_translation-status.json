@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T23:53:12+08:00",
-    "zhCommitHead": "e7c0e82ec",
+    "lastUpdated": "2026-09-26T00:11:02+08:00",
+    "zhCommitHead": "dfb764164",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1041,
+        "fresh": 1042,
         "stale": 37,
         "metadata_stale": 0,
-        "missing": 46,
+        "missing": 45,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1103,
-        "stale": 14,
+        "fresh": 1104,
+        "stale": 13,
         "metadata_stale": 0,
         "missing": 7,
         "orphan": 0
@@ -183092,7 +183092,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/taiwan-land-reform.md",
+          "translatedFrom": "History/台灣土地改革.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:6c11a4c56a329d52",
+          "sourceBodyHash": "sha256:eca7e0ea95cf835a",
+          "translatedAt": "2026-09-25T16:58:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 21156,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/taiwan-land-reform.md",
@@ -210655,11 +210668,11 @@
           "sourceContentHash": "sha256:d8ceca8d969bbb7a",
           "sourceBodyHash": "sha256:8d311f99ab1ace9b",
           "translatedAt": "2026-09-25T16:58:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dfb76416",
+          "translationLastModified": "2026-09-25T23:53:12+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "bytes": 90834,
+          "bytes": 90836,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -216076,8 +216089,8 @@
           "sourceContentHash": "sha256:79bdc16e1c9ab31c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T14:06:05.213453+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dfb76416",
+          "translationLastModified": "2026-09-25T23:53:12+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "bytes": 108489,
@@ -216732,18 +216745,18 @@
         "ko": {
           "path": "ko/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
           "translatedFrom": "Culture/台灣茶文化.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:218a1627dd56bfb5",
-          "sourceBodyHash": "sha256:ca6d9cb8b6ed52e7",
-          "translatedAt": "2026-05-17T06:30:00Z",
+          "sourceCommitSha": "4aabbe030",
+          "sourceContentHash": "sha256:8649216212301e4d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T15:25:52.145448+00:00",
           "translationLastCommit": "fbdc4940",
           "translationLastModified": "2026-07-29T01:33:17+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 15174,
+          "footnoteDefs": 32,
+          "bytes": 51275,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (32→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
