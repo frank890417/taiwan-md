@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T20:44:26+08:00",
-    "zhCommitHead": "3688e1b26",
+    "lastUpdated": "2026-09-25T20:48:01+08:00",
+    "zhCommitHead": "8003ac53c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1078,
+        "fresh": 1079,
         "stale": 13,
         "metadata_stale": 1,
-        "missing": 32,
+        "missing": 31,
         "orphan": 0
       },
       "de": {
@@ -67189,8 +67189,8 @@
           "sourceContentHash": "sha256:036e3f58784db1c4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T10:39:45.279652+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8003ac53",
+          "translationLastModified": "2026-09-25T20:44:27+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "bytes": 89223,
@@ -114738,8 +114738,8 @@
           "sourceContentHash": "sha256:4de98c280e186c57",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T11:22:26.364824+00:00",
-          "translationLastCommit": "5f8252f9",
-          "translationLastModified": "2026-09-22T01:05:42+08:00",
+          "translationLastCommit": "8003ac53",
+          "translationLastModified": "2026-09-25T20:44:27+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 68983,
@@ -209084,7 +209084,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/donggang-king-boat-festival.md",
+          "translatedFrom": "Culture/東港迎王船.md",
+          "sourceCommitSha": "3f9e184dc",
+          "sourceContentHash": "sha256:d56573864b826475",
+          "sourceBodyHash": "sha256:1750eec6a44e0473",
+          "translatedAt": "2026-09-25T16:58:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 49827,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/donggang-king-boat-festival.md",
