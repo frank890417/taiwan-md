@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T02:14:19+08:00",
-    "zhCommitHead": "88e9189c8",
+    "lastUpdated": "2026-09-26T02:35:13+08:00",
+    "zhCommitHead": "990fe5e9c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1100,
+        "fresh": 1101,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 12,
+        "missing": 11,
         "orphan": 0
       },
       "ja": {
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1107,
-        "stale": 12,
+        "fresh": 1108,
+        "stale": 11,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1098,
-        "stale": 19,
+        "fresh": 1099,
+        "stale": 18,
         "metadata_stale": 0,
         "missing": 7,
         "orphan": 0
@@ -68,24 +68,24 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1071,
-        "stale": 12,
+        "fresh": 1072,
+        "stale": 11,
         "metadata_stale": 0,
         "missing": 41,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1095,
-        "stale": 10,
+        "fresh": 1096,
+        "stale": 9,
         "metadata_stale": 0,
         "missing": 19,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1063,
-        "stale": 12,
+        "fresh": 1065,
+        "stale": 10,
         "metadata_stale": 0,
         "missing": 49,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1062,
+        "fresh": 1063,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 60,
+        "missing": 59,
         "orphan": 0
       }
     },
@@ -10326,7 +10326,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-25T16:58:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 21540,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -19036,8 +19049,8 @@
           "sourceContentHash": "sha256:24e5d0eeeb829e10",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T16:19:14.305894+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "990fe5e9",
+          "translationLastModified": "2026-09-26T02:14:19+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "bytes": 64404,
@@ -26564,20 +26577,18 @@
         "fr": {
           "path": "fr/Technology/taiwan-online-community-migration.md",
           "translatedFrom": "Technology/台灣網路社群遷徙史.md",
-          "sourceCommitSha": "d968559a8",
-          "sourceContentHash": "sha256:27a0271b143d3da5",
-          "sourceBodyHash": "sha256:51c89f4d74696613",
-          "translatedAt": "2026-07-24T10:40:42+08:00",
+          "sourceCommitSha": "56f4d6f85",
+          "sourceContentHash": "sha256:0679bda8106e31fc",
+          "sourceBodyHash": "sha256:b5c758f914dccaf4",
+          "translatedAt": "2026-09-25T18:34:57.581413+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "bytes": 52071,
+          "bytes": 52949,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/taiwan-online-community-migration.md",
@@ -26601,20 +26612,18 @@
         "pt": {
           "path": "pt/Technology/taiwan-online-community-migration.md",
           "translatedFrom": "Technology/台灣網路社群遷徙史.md",
-          "sourceCommitSha": "d968559a8",
-          "sourceContentHash": "sha256:27a0271b143d3da5",
-          "sourceBodyHash": "sha256:51c89f4d74696613",
-          "translatedAt": "2026-07-28T03:07:44+08:00",
+          "sourceCommitSha": "56f4d6f85",
+          "sourceContentHash": "sha256:0679bda8106e31fc",
+          "sourceBodyHash": "sha256:b5c758f914dccaf4",
+          "translatedAt": "2026-09-25T18:30:26.475851+00:00",
           "translationLastCommit": "26d3f390",
           "translationLastModified": "2026-09-22T00:53:27+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "bytes": 44488,
+          "bytes": 44885,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/taiwan-online-community-migration.md",
@@ -71756,7 +71765,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/shuidaotou-waterworks.md",
+          "translatedFrom": "Society/水道頭.md",
+          "sourceCommitSha": "015d1a9c9",
+          "sourceContentHash": "sha256:d584a485050631e9",
+          "sourceBodyHash": "sha256:5fb85b385727325b",
+          "translatedAt": "2026-09-25T16:58:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 25704,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/shuidaotou-waterworks.md",
@@ -176785,8 +176807,8 @@
           "sourceContentHash": "sha256:5593221450668391",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T17:55:55.015098+00:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "990fe5e9",
+          "translationLastModified": "2026-09-26T02:14:19+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "bytes": 57415,
@@ -183932,18 +183954,18 @@
         "hi": {
           "path": "hi/History/taiwan-strait-crises-and-cross-strait-relations.md",
           "translatedFrom": "History/台海危機與兩岸關係發展.md",
-          "sourceCommitSha": "dd39065b2",
-          "sourceContentHash": "sha256:fcdf343dc3efa72e",
-          "sourceBodyHash": "sha256:8952fca56720f010",
-          "translatedAt": "2026-07-30T22:54:34+08:00",
+          "sourceCommitSha": "5aa11ee92",
+          "sourceContentHash": "sha256:292f82300f3a8a11",
+          "sourceBodyHash": "sha256:dbb56e0c9c904d7c",
+          "translatedAt": "2026-09-25T16:58:27+08:00",
           "translationLastCommit": "bd996748",
           "translationLastModified": "2026-07-31T05:11:24+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 45962,
+          "footnoteDefs": 11,
+          "bytes": 50381,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taiwan-strait-crises-and-cross-strait-relations.md",
@@ -187803,18 +187825,18 @@
         "id": {
           "path": "id/Geography/tadian-mountain.md",
           "translatedFrom": "Geography/漯底山.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:2cef849f8ebc6df7",
-          "sourceBodyHash": "sha256:a56d3c9283c22ceb",
-          "translatedAt": "2026-08-04T20:19:11+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:833f85e006d23e04",
+          "sourceBodyHash": "sha256:fa90458e0d20dada",
+          "translatedAt": "2026-09-25T16:58:24+08:00",
           "translationLastCommit": "412b6c7c",
           "translationLastModified": "2026-08-04T20:49:27+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 5557,
+          "footnoteDefs": 13,
+          "bytes": 19175,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (13→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/tadian-mountain.md",
@@ -196310,18 +196332,18 @@
         "hi": {
           "path": "hi/Geography/taiwan-river-systems-and-hydrology.md",
           "translatedFrom": "Geography/台灣河川系統與水文特色.md",
-          "sourceCommitSha": "70372d3a0",
-          "sourceContentHash": "sha256:8df5b8e9967c9dc4",
-          "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "sourceCommitSha": "ff1ce7d66",
+          "sourceContentHash": "sha256:f2ac5aec701df4d2",
+          "sourceBodyHash": "sha256:4cdc3e89f08b13d3",
+          "translatedAt": "2026-09-25T16:58:27+08:00",
           "translationLastCommit": "d7b666ed",
           "translationLastModified": "2026-07-24T22:33:07+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 43577,
+          "footnoteDefs": 21,
+          "bytes": 54594,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (21→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taiwan-river-systems-and-hydrology.md",
@@ -211748,20 +211770,18 @@
         "ko": {
           "path": "ko/Culture/taiwan-baseball-culture.md",
           "translatedFrom": "Culture/台灣棒球文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:9a4380e463583d63",
-          "sourceBodyHash": "sha256:ffebfda3574ab04b",
-          "translatedAt": "2026-05-17T05:34:52+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:82a373ca1ee51cf4",
+          "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
+          "translatedAt": "2026-09-25T16:58:21+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 15877,
+          "bytes": 15521,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/taiwan-baseball-culture.md",
