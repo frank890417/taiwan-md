@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T19:13:21+08:00",
-    "zhCommitHead": "17c3b303f",
+    "lastUpdated": "2026-09-25T19:33:25+08:00",
+    "zhCommitHead": "ec319244c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1094,
-        "stale": 16,
+        "fresh": 1095,
+        "stale": 15,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1098,
+        "fresh": 1099,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "es": {
@@ -52,24 +52,24 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1094,
-        "stale": 21,
+        "fresh": 1095,
+        "stale": 20,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1108,
+        "fresh": 1109,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 8,
+        "missing": 7,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1063,
-        "stale": 16,
+        "fresh": 1064,
+        "stale": 15,
         "metadata_stale": 0,
         "missing": 45,
         "orphan": 0
@@ -6376,20 +6376,18 @@
         "id": {
           "path": "id/Music/hsien-ching-chen.md",
           "translatedFrom": "Music/陳嫺靜.md",
-          "sourceCommitSha": "b38a5daba",
-          "sourceContentHash": "sha256:0530e001b5d0938d",
-          "sourceBodyHash": "sha256:3f93c99802db78df",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:a52c8c96b2eeab05",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T11:06:40.719489+00:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "bytes": 41459,
+          "bytes": 50397,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/hsien-ching-chen.md",
@@ -8106,7 +8104,20 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/taiwan-creative-content-agency.md",
+          "translatedFrom": "Economy/文化內容策進院.md",
+          "sourceCommitSha": "d704d4e52",
+          "sourceContentHash": "sha256:1d88a269185c0f26",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T11:02:22.370427+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 72183,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -60804,20 +60815,18 @@
         "en": {
           "path": "en/Society/delivery-platform-law.md",
           "translatedFrom": "Society/外送專法.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:2226f6ae85580ba3",
-          "sourceBodyHash": "sha256:9aa85b1a3d34de72",
-          "translatedAt": "2026-07-29T19:47:13+08:00",
+          "sourceCommitSha": "83975eef3",
+          "sourceContentHash": "sha256:79a50a0770daf955",
+          "sourceBodyHash": "sha256:725b400b5a230de4",
+          "translatedAt": "2026-09-25T11:22:32.350913+00:00",
           "translationLastCommit": "8c2e0fd9",
           "translationLastModified": "2026-09-22T00:49:58+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 96083,
+          "bytes": 96609,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/delivery-platform-law.md",
@@ -67139,7 +67148,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/benzopyrene-food-safety-incident.md",
+          "translatedFrom": "Society/苯駢芘食安事件.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:036e3f58784db1c4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T10:39:45.279652+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "bytes": 89223,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/benzopyrene-food-safety-incident.md",
@@ -156803,20 +156825,18 @@
         "fr": {
           "path": "fr/Food/hand-shaken-drink-culture.md",
           "translatedFrom": "Food/台灣手搖飲文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:874c652bf8f5b63c",
-          "sourceBodyHash": "sha256:53b616e81595b8c6",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f41c9bad8a88780e",
+          "sourceBodyHash": "sha256:b1b3fe1671d31604",
+          "translatedAt": "2026-09-25T16:58:23+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 17621,
+          "bytes": 17793,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/hand-shaken-drink-culture.md",
@@ -208988,8 +209008,8 @@
           "sourceContentHash": "sha256:d56573864b826475",
           "sourceBodyHash": "sha256:1750eec6a44e0473",
           "translatedAt": "2026-09-25T16:58:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ec319244",
+          "translationLastModified": "2026-09-25T19:13:22+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 30180,
