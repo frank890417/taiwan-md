@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T00:58:57+08:00",
-    "zhCommitHead": "ddbcccbf8",
+    "lastUpdated": "2026-09-26T01:19:17+08:00",
+    "zhCommitHead": "1456fd390",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1042,
+        "fresh": 1043,
         "stale": 37,
         "metadata_stale": 0,
-        "missing": 45,
+        "missing": 44,
         "orphan": 0
       },
       "ko": {
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1093,
-        "stale": 22,
+        "fresh": 1094,
+        "stale": 21,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1068,
+        "fresh": 1069,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 43,
+        "missing": 42,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1061,
+        "fresh": 1062,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 51,
+        "missing": 50,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1084,
-        "stale": 9,
+        "fresh": 1085,
+        "stale": 8,
         "metadata_stale": 1,
         "missing": 30,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1058,
+        "fresh": 1059,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 64,
+        "missing": 63,
         "orphan": 0
       }
     },
@@ -38866,18 +38866,18 @@
         "ru": {
           "path": "ru/Art/paper-windmill-theater.md",
           "translatedFrom": "Art/紙風車劇團.md",
-          "sourceCommitSha": "088a688b2",
-          "sourceContentHash": "sha256:dac39dc01ba71011",
-          "sourceBodyHash": "sha256:dece40987a4bedea",
-          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "sourceCommitSha": "fd35815e1",
+          "sourceContentHash": "sha256:bcce97e3493eec98",
+          "sourceBodyHash": "sha256:c5eb598a94be9567",
+          "translatedAt": "2026-09-25T16:58:30+08:00",
           "translationLastCommit": "c3219c49",
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 29808,
+          "footnoteDefs": 17,
+          "bytes": 27347,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Art/paper-windmill-theater.md",
@@ -53943,7 +53943,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/tour-bus.md",
+          "translatedFrom": "Lifestyle/遊覽車.md",
+          "sourceCommitSha": "42b42a934",
+          "sourceContentHash": "sha256:f828da7d0eb39776",
+          "sourceBodyHash": "sha256:c0de350ac39dbee0",
+          "translatedAt": "2026-09-25T16:58:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "bytes": 39351,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -86249,8 +86262,8 @@
           "sourceContentHash": "sha256:585807acc89b5597",
           "sourceBodyHash": "sha256:f114fc7180bbb45a",
           "translatedAt": "2026-09-25T16:58:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1456fd39",
+          "translationLastModified": "2026-09-26T00:58:57+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 21865,
@@ -109674,7 +109687,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/tu-pan-fangke.md",
+          "translatedFrom": "People/杜潘芳格.md",
+          "sourceCommitSha": "d39f3a507",
+          "sourceContentHash": "sha256:d405136a29d9431e",
+          "sourceBodyHash": "sha256:b0195c9685eb2443",
+          "translatedAt": "2026-09-25T16:58:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 64913,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/tu-pan-fangke.md",
@@ -131146,7 +131172,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chia-yung-chieh.md",
+          "translatedFrom": "People/賈永婕.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:ef77f1a4a4a50fce",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T16:59:45.608471+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "bytes": 31973,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chia-yung-chieh.md",
@@ -139712,20 +139751,18 @@
         "es": {
           "path": "es/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
           "translatedFrom": "People/馬英九.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:7ebf03343b7d94a6",
-          "sourceBodyHash": "sha256:3ba24a255fbd26bc",
-          "translatedAt": "2026-06-16T16:54:57Z",
+          "sourceCommitSha": "8cc6a667e",
+          "sourceContentHash": "sha256:70721e3134a573dc",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T16:55:17.199829+00:00",
           "translationLastCommit": "8cc6a667",
           "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
-          "footnoteDefs": 43,
-          "bytes": 67322,
+          "footnoteDefs": 41,
+          "bytes": 61631,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+50 -54"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -183109,8 +183146,8 @@
           "sourceContentHash": "sha256:6c11a4c56a329d52",
           "sourceBodyHash": "sha256:eca7e0ea95cf835a",
           "translatedAt": "2026-09-25T16:58:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1456fd39",
+          "translationLastModified": "2026-09-26T00:58:57+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 21156,
@@ -208456,7 +208493,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/banana-baihua-secret-speech.md",
+          "translatedFrom": "Culture/香蕉白話.md",
+          "sourceCommitSha": "a769fefe2",
+          "sourceContentHash": "sha256:2c3f3cd9c2a64a31",
+          "sourceBodyHash": "sha256:9cb502435a73e76b",
+          "translatedAt": "2026-09-25T16:58:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "bytes": 20211,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/banana-baihua-secret-speech.md",

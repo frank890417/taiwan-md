@@ -2,9 +2,8 @@
 title: 'Thirty Years of Taiwan’s Online Communities: Recovering URLs, Losing Photos, and the History of Displacement'
 description: "From the Beauty Island BBS to Threads, Taiwanese people have collectively moved every few years, leaving the previous generation’s memories behind the power switch that was turned off. The thirty-year migration history appears to be a clean line of platform evolution, but at its core, it is a history of displacement over 'whose land this is'—the places with the highest stickiness have the lowest data sovereignty."
 date: 2026-03-29
-author: 'p3nchan'
+lastEvolved: 2026-06-15
 category: 'Technology'
-subcategory: '社群與數位文化'
 tags:
   [
     'BBS',
@@ -18,15 +17,25 @@ tags:
     'Cloud Feudalism',
     'Digital Sovereignty',
   ]
-readingTime: 25
+subcategory: '社群與數位文化'
+author: 'p3nchan'
+featured: true
 lastVerified: 2026-06-15
 lastHumanReview: false
-featured: true
+readingTime: 25
+researchReport: 'reports/research/2026-06/台灣網路社群遷徙史-evolve-20260614.md'
+rationale:
+  whats_excluded:
+    [
+      '演算法善惡 / AI 推薦是不是進步 — 屬獨立主題（認知作戰/演算法），本篇談遷徙與記憶歸屬不展開演算法價值判斷',
+      '無名相簿正妹文化女性物化深寫 — sibling 無名小站.md scope，本篇輕觸 + cross-link 不複寫',
+      'PTT 厭女/母豬教完整學術分析 — 作「公共領域繼承權之爭」支線帶過，完整性別分析屬獨立主題',
+    ]
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
-sourceCommitSha: 'd968559a8'
-sourceContentHash: 'sha256:27a0271b143d3da5'
-sourceBodyHash: 'sha256:51c89f4d74696613'
-translatedAt: '2026-07-24T10:40:41+08:00'
+sourceCommitSha: '56f4d6f85'
+sourceContentHash: 'sha256:0679bda8106e31fc'
+sourceBodyHash: 'sha256:b5c758f914dccaf4'
+translatedAt: '2026-09-25T16:45:11.560410+00:00'
 ---
 
 > **30-Second Overview**: Taiwan has grown its own online platforms twice—Ming Pao Personal News Channel and Wretch (Wu Ming Xiao Zhan)—the former was strangled by the 2001 internet bubble and rescued by user self-help groups, while the latter was acquired by Yahoo and had its power cut on December 26, 2013. At other times, Taiwanese people have lived on other people’s servers. Over thirty years, we moved from BBS to Wretch, squeezed from Wretch into Facebook, retreated from Facebook into LINE groups, and peeked out from LINE groups to look at Threads. Every move meant losing a batch of photos, a batch of comments, and a stretch of youth. Similarweb measured in May 2024 that Taiwanese people spent an average of 11 minutes and 31 seconds on Threads, the highest in the world—compared to 5 minutes and 12 seconds for Americans and 3 minutes and 6 seconds for Japanese[^1]. We spend the most time in the most insecure rental spaces. The thirty-year migration history is told as a clean line of evolution (BBS → Wretch → FB → LINE → Threads), but this line filters out the most critical fact: every move was a re-statement of "whose land this is," and Taiwanese people have always been tenants.
@@ -115,19 +124,19 @@ At the same time, PTT was still there. Its users were aging; a MIC 2024Q4 survey
 
 During the 2014 Sunflower Student Movement, PTT was the most immediate broadcast station for students between the site and the outside world; during the 2018 same-sex marriage referendum, the Gossip Forum was an arena for massive discourse production; during the 2020 presidential election, long posts on PTT’s Gossip Forum were treated by academia as primary material for political communication research. This wouldn’t happen in LINE groups, not because no one discusses politics in LINE groups, but because discussions in LINE groups cease to exist once they leave that 200-person group. Whether a society has citable public discussion records determines what that society’s memory looks like. Taiwan’s fossil is still alive, but it is already a unique copy.
 
-## There Will Never Be Another Hegemon Again
+## There Will Never Be Another Single Hegemon
 
-In 2011, Lin Yu-chin (林裕欽), a sophomore in the Department of Information Management at National Taiwan University, made the first version of Dcard[^37]. Initially a small tool for "drawing a card every midnight to match with a stranger," it slowly became a college student discussion board, then the social platform with the highest usage rate among Taiwan’s 18-24 year old females. In 2015, Lin Yu-chin established Dcard Inc., turning Dcard from a student project into a complete company product[^38].
+In 2011, Lin Yu-chin, a sophomore in the Computer Science department at National Taiwan University (NTU), created the first version of Dcard [^37]. It began as a small tool—"drawing a card every midnight and matching with a stranger"—but gradually evolved into a university student discussion board, and eventually became the social network with the highest usage among women aged 18-24 in Taiwan. In 2015, Lin Yu-chin established Dcard Company, transforming Dcard from a student project into a complete commercial product [^38].
 
-On July 5, 2023, Meta launched Threads. It broke 5 million users in 6 hours, 100 million in 5 days[^39], the fastest-growing internet service in history, period. Taiwan’s reaction was also fast. Similarweb measured in May 2024 showed that Taiwanese users spent an average of 11 minutes and 31 seconds on Threads, the highest in the world;同期 (same period) US was 5 minutes and 12 seconds, Japan 3 minutes and 6 seconds[^40]. A MIC 2024Q4 survey left another watershed: Threads’ usage rate in Taiwan reached 17.5%, surpassing PTT’s 17.1% for the first time[^41].
+On July 5, 2023, Meta launched Threads. With over 5 million users in six hours and over 100 million in five days [^39], it was arguably the fastest-growing online service ever. Taiwan's reaction was also swift. Data collected by Similarweb in May 2024 showed that Taiwanese users spent an average of 11 minutes and 31 seconds on Threads, ranking first globally; this compared to 5 minutes and 12 seconds in the United States and 3 minutes and 6 seconds in Japan [^40]. A MIC survey from Q4 2024 revealed another turning point: Dcard's usage reached 17.5%, surpassing PTT’s 17.1% for the first time [^41].
 
-But the headline "Threads Surpasses PTT" is not as simple as it looks. For thirty years, every major community migration in Taiwan had a single hegemon: PTT in the BBS era, Wretch in the photo album era, MSN in the instant messaging era, Facebook in the social network era, LINE in the communication era. But this time in the 2020s, platforms are dispersed: young people exist in parallel on IG, Dcard, and Threads; each platform accounts for 40-80% penetration, but none can eat up an entire generation like LINE did[^42].
+However, the headline "Dcard Surpasses PTT" is not as simple as it sounds. Over thirty years, Taiwan has had a dominant hegemon during every major social migration: PTT in the BBS era, unnamed blogs in the photo album era, MSN instant messaging, Facebook for social networking, and LINE for communication. But this generation, starting in the 2020s, is fragmented: young people exist concurrently across three platforms—IG, Dcard, and Dcard (referring to the local platform)—with each platform achieving a penetration rate of 40-80%, yet none has managed to capture an entire generation like LINE [^42].
 
-This dispersion has an ignored political significance. When your social life is dispersed across five platforms, you don’t spend ten years on any one of them; you write thoughts on Threads, put photos on IG, read gossip on Dcard, chat with family on LINE, voice chat with friends on Discord. Each platform gets your slice, not your whole self. This sounds like progress in digital sovereignty; you are no longer bound by a single platform, but it also means one thing: when the next major migration comes, no platform can take away an entire generation’s memory at once like Wretch did. Because no platform ever owned it all at once.
+This fragmentation holds an overlooked political significance. When your social life is scattered across five platforms, you do not spend ten years on any single one. You post ideas on Dcard, upload photos on IG, browse gossip on Dcard, chat with family on LINE, and voice chat with friends on Discord. Each platform receives a slice of you, not the whole self. This sounds like progress in digital sovereignty—you are no longer tied to a single platform—but it also means one thing: when the next major migration comes, no single platform can sweep up the collective memory of an entire generation, as was the case with unnamed blogs. Because no single platform has ever owned it all at once.
 
-But the cost of "no single hegemon" is that Taiwanese users cut their time into five parts, storing them separately on the servers of five foreign companies. Threads is Meta’s, IG is Meta’s, LINE is Z Holdings’, Discord is Discord Inc.’s, TikTok is ByteDance’s. Local platforms didn’t even squeeze into the battlefield this time. Dcard is considered the local choice for the 18-24 year old female community, but its scale, its discourse influence, and its international map are very similar to Plurk’s situation in the late 2010s: strong, but bypassed by crowds.
+Yet, the cost of this "lack of a single hegemon" is that Taiwanese users have divided their time into five parts, storing them on servers belonging to five different foreign companies. Dcard is Meta's; IG is Meta's; LINE is Z Holdings'; Discord is Discord Inc.'s; and TikTok belongs to ByteDance. Local platforms failed to secure a foothold in this race. While Dcard serves as a local choice for the 18-24 female social community, its scale, discursive influence, and international footprint are similar to Plurk's situation in the late 2010s: strong, but bypassed by the tide.
 
-On August 31, 2023, Xuite (Sui Yi Wo) began a three-stage closure; the blog platform that once absorbed Wretch bloggers in 2013 drove users out again[^43]. That wasn’t news; it was a too-familiar scene. Taiwanese people have moved many times. Every move, someone cries while flipping through old blogs, someone crawls through walls to find backups, someone finds halfway down that photo links are already dead. No one asks why this happens every few years.
+On August 31, 2023, Xuite casually began a three-stage shutdown of its service, a blogging platform that had once hosted unnamed blogs ten years prior, forcing users out once again [^43]. This was not news; it was an all-too-familiar scene—Taiwanese people have moved houses many times. Each move involves someone crying over old weblogs, someone using VPNs to find backups, and someone downloading only to discover the photo album link is already dead. No one asks why this happens every few years.
 
 ## Whose Power Socket Is Your Youth Plugged Into?
 
@@ -158,93 +167,93 @@ Next time someone asks you "why back up photos," "why save your own blog," "why 
 
 ## References
 
-[^1]: Similarweb May 2024 "Last Month" usage time measurement, reported by Taiwan media comparing average usage time for Threads by country: Taiwan 11 min 31 sec, US 5 min 12 sec, Japan 3 min 6 sec, Taiwan ranks first globally. [Similarweb Threads Statistics Report](https://www.similarweb.com/).
+[^1]: [Similarweb Threads Statistics Report](https://www.similarweb.com/) — Similarweb May 2024 "Last Month" usage time measurement, reported by Taiwan media comparing average usage time for Threads by country: Taiwan 11 min 31 sec, US 5 min 12 sec, Japan 3 min 6 sec, Taiwan ranks first globally.
 
-[^2]: 1992, Prof. Chen Nian-hsing at National Sun Yat-sen University set up "Beauty Island" BBS, Taiwan’s first full-Chinese Internet BBS. [Wikipedia: BBS in Taiwan](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E4%BD%88%E5%91%8A%E6%AC%84).
+[^2]: [Wikipedia: BBS in Taiwan](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E4%BD%88%E5%91%8A%E6%AC%84) — 1992, Prof. Chen Nian-hsing at National Sun Yat-sen University set up "Beauty Island" BBS, Taiwan’s first full-Chinese Internet BBS.
 
-[^3]: 1984, Ministry of Education selected National Chiao Tung University and National Sun Yat-sen University to push TANet academic network infrastructure. [TANet History, Ministry of Education Department of Information and Technology Education](https://depart.moe.edu.tw/ed2700/).
+[^3]: [TANet History, Ministry of Education Department of Information and Technology Education](https://depart.moe.edu.tw/ed2700/) — 1984, Ministry of Education selected National Chiao Tung University and National Sun Yat-sen University to push TANet academic network infrastructure.
 
-[^4]: September 14, 1995, Tu I-jin set up PTT in NTU Male Dorm 8, Room 618, using a 486DX266 / 16MB RAM machine. [PTT Official History Page](https://www.ptt.cc/index.html).
+[^4]: [PTT Official History Page](https://www.ptt.cc/index.html) — September 14, 1995, Tu I-jin set up PTT in NTU Male Dorm 8, Room 618, using a 486DX266 / 16MB RAM machine.
 
-[^5]: 2004 PTT Nightlife Forum "Good Person's Counterattack" incident, site administrator Junchoon (Huang Chien-yu) quoted Stephen Chow’s _Hail the Judge_ character Tang Jing (played by Wu Qi-hua) line "I’m just a villager coming to watch the show, only standing a bit forward," writing "Please let the watching 'villagers' step back behind the yellow line," popularizing the term "Xiangmin" as PTT users’ self-designation. [Wikipedia: Xiangmin](https://zh.wikipedia.org/wiki/%E9%84%89%E6%B0%91).
+[^5]: [Wikipedia: Xiangmin](https://zh.wikipedia.org/wiki/%E9%84%89%E6%B0%91) — 2004 PTT Nightlife Forum "Good Person's Counterattack" incident, site administrator Junchoon (Huang Chien-yu) quoted Stephen Chow’s _Hail the Judge_ character Tang Jing (played by Wu Qi-hua) line "I’m just a villager coming to watch the show, only standing a bit forward," writing "Please let the watching 'villagers' step back behind the yellow line," popularizing the term "Xiangmin" as PTT users’ self-designation.
 
-[^6]: Late 1990s TANet academic network regulations prohibited commercial use; some BBS sites were required to move out of the academic network, switching to HiNet or other commercial ISPs. [TANet Usage Regulation History Discussion, Taiwan Network Information Center](https://www.twnic.tw/).
+[^6]: [TANet Usage Regulation History Discussion, Taiwan Network Information Center](https://www.twnic.tw/) — Late 1990s TANet academic network regulations prohibited commercial use; some BBS sites were required to move out of the academic network, switching to HiNet or other commercial ISPs.
 
-[^7]: February 15, 2000, Chan Hung-chi founded Ming Pao, NT$400 million funding, hundreds of journalists, free online news. [Wikipedia: Ming Pao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1).
+[^7]: [Wikipedia: Ming Pao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1) — February 15, 2000, Chan Hung-chi founded Ming Pao, NT$400 million funding, hundreds of journalists, free online news.
 
-[^8]: April 11, 2000, Ming Pao launched "Personal News Channel" service, allowing users to open personal news sites, the earliest germination of Taiwan’s blog culture, three years before Wretch’s blog service. [Ming Pao Personal News Channel History](https://mypaper.pchome.com.tw/).
+[^8]: [Ming Pao Personal News Channel History](https://mypaper.pchome.com.tw/) — April 11, 2000, Ming Pao launched "Personal News Channel" service, allowing users to open personal news sites, the earliest germination of Taiwan’s blog culture, three years before Wretch’s blog service.
 
-[^9]: February 21, 2001, Ming Pao announced cessation; 370 days from founding to cessation, burned NT$300 million, about NT$100 million left in accounts at cessation. [Wikipedia: Ming Pao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1).
+[^9]: [Wikipedia: Ming Pao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1) — February 21, 2001, Ming Pao announced cessation; 370 days from founding to cessation, burned NT$300 million, about NT$100 million left in accounts at cessation.
 
-[^10]: After Ming Pao ceased, Personal News Channel users formed a self-help group, launched petitions, forcing the board to extend closure to March 31, finally taken over by PChome for management, still operational today. [PChome Personal News Channel Service Page](https://mypaper.pchome.com.tw/).
+[^10]: [PChome Personal News Channel Service Page](https://mypaper.pchome.com.tw/) — After Ming Pao ceased, Personal News Channel users formed a self-help group, launched petitions, forcing the board to extend closure to March 31, finally taken over by PChome for management, still operational today.
 
-[^11]: 1999, Wretch founded in NCTU Computer Science Department, founders Jian Zhi-yu and students Wu Wei-kai, Lin Hung-chuan, Chiu Chien-hsi, Chen Hsuan-yen, Pan Wei-cheng. [Wikipedia: Wretch](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99).
+[^11]: [Wikipedia: Wretch](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — 1999, Wretch founded in NCTU Computer Science Department, founders Jian Zhi-yu and students Wu Wei-kai, Lin Hung-chuan, Chiu Chien-hsi, Chen Hsuan-yen, Pan Wei-cheng.
 
-[^12]: 2003, Wretch launched three core services: blog, photo album, message board, establishing the standard form for Taiwan’s personal online content production. [Wikipedia: Wretch](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99).
+[^12]: [Wikipedia: Wretch](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — 2003, Wretch launched three core services: blog, photo album, message board, establishing the standard form for Taiwan’s personal online content production.
 
-[^13]: March 2005, Wretch moved out of NCTU, established company with NT$20 million, officially entering commercialization phase. [bnext "Wretch" Report](https://www.bnext.com.tw/).
+[^13]: [bnext "Wretch" Report](https://www.bnext.com.tw/) — March 2005, Wretch moved out of NCTU, established company with NT$20 million, officially entering commercialization phase.
 
-[^14]: _Guanghua Magazine_ September 2006 report: Wretch 2.3 million members, 500 million images, 1.2 million visits per day. [Guanghua Magazine Wretch Interview](https://www.taiwan-panorama.com/).
+[^14]: [Guanghua Magazine Wretch Interview](https://www.taiwan-panorama.com/) — _Guanghua Magazine_ September 2006 report: Wretch 2.3 million members, 500 million images, 1.2 million visits per day.
 
-[^15]: December 13, 2006, Yahoo announced acquisition of Wretch, rumored price approx. NT$700 million, but official actual transaction amount never disclosed. [Yahoo奇Mo Acquires Wretch News](https://tw.news.yahoo.com/).
+[^15]: [Yahoo奇Mo Acquires Wretch News](https://tw.news.yahoo.com/) — December 13, 2006, Yahoo announced acquisition of Wretch, rumored price approx. NT$700 million, but official actual transaction amount never disclosed.
 
-[^16]: January 8, 2007, DPP Legislator Tang Huo-sheng held press conference: "Wretch used free academic network to build database, yet treated it as private property, selling it together with Yahoo after acquisition, commercially immoral behavior." [Wikipedia: Wretch § Commercialization Controversy](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99).
+[^16]: [Wikipedia: Wretch § Commercialization Controversy](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — January 8, 2007, DPP Legislator Tang Huo-sheng held press conference: "Wretch used free academic network to build database, yet treated it as private property, selling it together with Yahoo after acquisition, commercially immoral behavior.".
 
-[^17]: Academic paper criticism: "Wretch’s success was built on abuse of public resources from academic network and dishonesty toward users. Its commercialization process severely harmed academic network’s public property rights and internet publicness." [Airitilibrary Academic Paper U0067](https://www.airitilibrary.com/).
+[^17]: [Airitilibrary Academic Paper U0067](https://www.airitilibrary.com/) — Academic paper criticism: "Wretch’s success was built on abuse of public resources from academic network and dishonesty toward users. Its commercialization process severely harmed academic network’s public property rights and internet publicness.".
 
-[^18]: December 26, 2013, Yahoo奇Mo announced Wretch and Yahoo Blog would close on the same day. [Yahoo奇Mo Wretch Closure Announcement](https://tw.news.yahoo.com/).
+[^18]: [Yahoo奇Mo Wretch Closure Announcement](https://tw.news.yahoo.com/) — December 26, 2013, Yahoo奇Mo announced Wretch and Yahoo Blog would close on the same day.
 
-[^19]: Jian Zhi-yu interview with bnext: "The thing I regret most in my life is that the Jian Zhi-yu of 2005 was not thinking with the mind of the Jian Zhi-yu of 2010. The Jian Zhi-yu of 2010 could speak English, knew how an international company operates, and had managed a larger team. If you put him in 2005, everything would be different... Although Wretch would inevitably end, at least this war would have lasted a bit longer." [bnext Article 39669](https://www.bnext.com.tw/article/39669).
+[^19]: [bnext Article 39669](https://www.bnext.com.tw/article/39669) — Jian Zhi-yu interview with bnext: "The thing I regret most in my life is that the Jian Zhi-yu of 2005 was not thinking with the mind of the Jian Zhi-yu of 2010. The Jian Zhi-yu of 2010 could speak English, knew how an international company operates, and had managed a larger team. If you put him in 2005, everything would be different... Although Wretch would inevitably end, at least this war would have lasted a bit longer.".
 
-[^20]: December 2016, ETtoday reported Wretch post-closure, users opening old blog links seeing 404 and blank pages, a generational displacement phenomenon. [ETtoday 2016/12/09 Wretch Closure 3rd Anniversary Review](https://www.ettoday.net/).
+[^20]: [ETtoday 2016/12/09 Wretch Closure 3rd Anniversary Review](https://www.ettoday.net/) — December 2016, ETtoday reported Wretch post-closure, users opening old blog links seeing 404 and blank pages, a generational displacement phenomenon.
 
-[^21]: May 12, 2008, Plurk went live, microblogging service developed by Canadian team. [Wikipedia: Plurk](https://zh.wikipedia.org/wiki/Plurk).
+[^21]: [Wikipedia: Plurk](https://zh.wikipedia.org/wiki/Plurk) — May 12, 2008, Plurk went live, microblogging service developed by Canadian team.
 
-[^22]: "Taiwanese people Plurk, don’t tweet" was the standard description in the internet observation world from 2009-2012, reflecting Plurk capturing the market before Twitter entered Taiwan. [Plurk Taiwan Usage Study, TWNIC Network Usage Survey](https://www.twnic.tw/).
+[^22]: [Plurk Taiwan Usage Study, TWNIC Network Usage Survey](https://www.twnic.tw/) — "Taiwanese people Plurk, don’t tweet" was the standard description in the internet observation world from 2009-2012, reflecting Plurk capturing the market before Twitter entered Taiwan.
 
-[^23]: Plurk Global Traffic Taiwan User Share: 2011 approx. 40.8%, 2018 rose to 74.6%. [Plurk Alexa / SimilarWeb Historical Traffic Analysis](https://www.similarweb.com/).
+[^23]: [Plurk Alexa / SimilarWeb Historical Traffic Analysis](https://www.similarweb.com/) — Plurk Global Traffic Taiwan User Share: 2011 approx. 40.8%, 2018 rose to 74.6%.
 
-[^24]: December 9, 2009, Traditional Chinese FarmVille went live, driving Taiwan Facebook users from approx. 100,000 to over 5 million, approx. 3.5 million were FarmVille players. [Wikipedia: FarmVille](https://zh.wikipedia.org/wiki/%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA).
+[^24]: [Wikipedia: FarmVille](https://zh.wikipedia.org/wiki/%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA) — December 9, 2009, Traditional Chinese FarmVille went live, driving Taiwan Facebook users from approx. 100,000 to over 5 million, approx. 3.5 million were FarmVille players.
 
-[^25]: Plurk later strategically invested in by Chinese capital, acquired by Malaysia’s SEA Group (including Garena) in 2016, still operating but scale far from peak. [Wikipedia: Plurk](https://zh.wikipedia.org/wiki/Plurk).
+[^25]: [Wikipedia: Plurk](https://zh.wikipedia.org/wiki/Plurk) — Plurk later strategically invested in by Chinese capital, acquired by Malaysia’s SEA Group (including Garena) in 2016, still operating but scale far from peak.
 
-[^26]: FarmVille era Taiwan office culture description: stealing vegetables, midnight alarm harvest, greetings changing from "Have you eaten?" to "Did you steal vegetables today?" [Apple Daily 2010 FarmVille Office Phenomenon Report](https://tw.appledaily.com/).
+[^26]: [Apple Daily 2010 FarmVille Office Phenomenon Report](https://tw.appledaily.com/) — FarmVille era Taiwan office culture description: stealing vegetables, midnight alarm harvest, greetings changing from "Have you eaten?" to "Did you steal vegetables today?".
 
-[^27]: January 8, 2013, Microsoft sent email notifying MSN would cease service March 15 (except China), actual global transfer date April 8. [BBC News 2013/01/08 Microsoft MSN Cessation Announcement](https://www.bbc.com/news/technology-20910181).
+[^27]: [BBC News 2013/01/08 Microsoft MSN Cessation Announcement](https://www.bbc.com/news/technology-20910181) — January 8, 2013, Microsoft sent email notifying MSN would cease service March 15 (except China), actual global transfer date April 8.
 
-[^28]: MSN global historical peak approx. 300 million users, active users at cessation approx. 100 million, Microsoft transferred to its own Skype service, not "300 million poured into LINE" as rumored in Taiwan. [Microsoft Skype-MSN Integration Official Explanation](https://news.microsoft.com/).
+[^28]: [Microsoft Skype-MSN Integration Official Explanation](https://news.microsoft.com/) — MSN global historical peak approx. 300 million users, active users at cessation approx. 100 million, Microsoft transferred to its own Skype service, not "300 million poured into LINE" as rumored in Taiwan.
 
-[^29]: LINE Official History Page: "In response to the anxious days spent unable to contact family and friends following the Great East Japan Earthquake, the LINE app was launched on June 23, 2011." [LINE Corp Official History](https://linecorp.com/en/company/info).
+[^29]: [LINE Corp Official History](https://linecorp.com/en/company/info) — LINE Official History Page: "In response to the anxious days spent unable to contact family and friends following the Great East Japan Earthquake, the LINE app was launched on June 23, 2011.".
 
-[^30]: February 2012, LINE launched Gigi Lai代言 ads in Taiwan, starting from phone/SMS chapter, intensive TV and MRT advertising. [Brain Magazine 2012 LINE Ad Strategy Analysis](https://www.brain.com.tw/).
+[^30]: [Brain Magazine 2012 LINE Ad Strategy Analysis](https://www.brain.com.tw/) — February 2012, LINE launched Gigi Lai代言 ads in Taiwan, starting from phone/SMS chapter, intensive TV and MRT advertising.
 
-[^31]: November 2012, LINE Taiwan users broke 10 million. [LINE Taiwan Official Announcement](https://linecorp.com/zh-hant-tw/).
+[^31]: [LINE Taiwan Official Announcement](https://linecorp.com/zh-hant-tw/) — November 2012, LINE Taiwan users broke 10 million.
 
-[^32]: June 2014, LINE Taiwan Limited officially established subsidiary in Taiwan. [Ministry of Economic Affairs Commercial Department Company Registration Data](https://gcis.nat.gov.tw/).
+[^32]: [Ministry of Economic Affairs Commercial Department Company Registration Data](https://gcis.nat.gov.tw/) — June 2014, LINE Taiwan Limited officially established subsidiary in Taiwan.
 
 [^33]: 2025 LINE Taiwan monthly active approx. 22 million, penetration rate approx. 94%, ranking high globally. [Korea Herald 2025 LINE Global Market Analysis](https://www.koreaherald.com/); [DataReportal Digital 2025 Taiwan](https://datareportal.com/reports/digital-2025-taiwan).
 
-[^34]: _The Reporter_ Investigation: "False information and controversial messages within LINE groups, through groups in communities, temples, political parties, and civil organizations, cause social division, stigmatize specific groups, and strengthen opposition." [The Reporter information-warfare-business-disinformation Series](https://www.twreporter.org/).
+[^34]: [The Reporter information-warfare-business-disinformation Series](https://www.twreporter.org/) — _The Reporter_ Investigation: "False information and controversial messages within LINE groups, through groups in communities, temples, political parties, and civil organizations, cause social division, stigmatize specific groups, and strengthen opposition.".
 
-[^35]: LINE Terms of Service Article 4.7: "Accounts for this service belong exclusively to individuals. Users’ rights to use this service cannot be transferred, lent to third parties, or inherited by third parties." [LINE Terms of Service Taiwan Version](https://terms2.line.me/LINE_Terms_of_Use_TW).
+[^35]: [LINE Terms of Service Taiwan Version](https://terms2.line.me/LINE_Terms_of_Use_TW) — LINE Terms of Service Article 4.7: "Accounts for this service belong exclusively to individuals. Users’ rights to use this service cannot be transferred, lent to third parties, or inherited by third parties.".
 
-[^36]: MIC 2024Q4 Social Media Usage Rate Survey: PTT main 35-44 (27.8%), 18-24 prefer IG (78%) / Dcard (45.9%) / Threads (44%). [MIC ITRI Industry Intelligence Institute 2024Q4 Social Media Survey](https://mic.iii.org.tw/).
+[^36]: [MIC ITRI Industry Intelligence Institute 2024Q4 Social Media Survey](https://mic.iii.org.tw/) — MIC 2024Q4 Social Media Usage Rate Survey: PTT main 35-44 (27.8%), 18-24 prefer IG (78%) / Dcard (45.9%) / Threads (44%).
 
-[^37]: 2011, Lin Yu-chin, sophomore in NTU Information Management Department, created Dcard first version, originally a "draw card every midnight to match" small tool. [Wikipedia: Dcard](https://zh.wikipedia.org/wiki/Dcard).
+[^37]: [Wikipedia: Dcard](https://zh.wikipedia.org/wiki/Dcard) — 2011, Lin Yu-chin, sophomore in NTU Information Management Department, created Dcard first version, originally a "draw card every midnight to match" small tool.
 
 [^38]: 2015, Lin Yu-chin established Dcard Technology Co., Ltd., turning Dcard from student project to formal company product. [Ministry of Economic Affairs Commercial Department Company Registration Data](https://gcis.nat.gov.tw/); [bnext Dcard Startup Interview](https://www.bnext.com.tw/).
 
-[^39]: July 5, 2023, Meta launched Threads, broke 5 million users in 6 hours, 100 million in 5 days, fastest growth record in internet service history. [Meta Official Announcement](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/).
+[^39]: [Meta Official Announcement](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/) — July 5, 2023, Meta launched Threads, broke 5 million users in 6 hours, 100 million in 5 days, fastest growth record in internet service history.
 
-[^40]: Similarweb May 2024 measurement: Taiwan Threads users average usage time 11 min 31 sec, first globally;同期 US 5 min 12 sec, Japan 3 min 6 sec. [Similarweb Threads Regional Usage Analysis Report](https://www.similarweb.com/).
+[^40]: [Similarweb Threads Regional Usage Analysis Report](https://www.similarweb.com/) — Similarweb May 2024 measurement: Taiwan Threads users average usage time 11 min 31 sec, first globally;同期 US 5 min 12 sec, Japan 3 min 6 sec.
 
-[^41]: MIC 2024Q4 Social Usage Rate Survey: YT 72.3%, FB 72.1%, IG 44.7%, Dcard 17.6%, Threads 17.5%, PTT 17.1%, Threads surpasses PTT for first time. [MIC 2024Q4 Social Media Usage Rate Survey](https://mic.iii.org.tw/).
+[^41]: [MIC 2024Q4 Social Media Usage Rate Survey](https://mic.iii.org.tw/) — MIC 2024Q4 Social Usage Rate Survey: YT 72.3%, FB 72.1%, IG 44.7%, Dcard 17.6%, Threads 17.5%, PTT 17.1%, Threads surpasses PTT for first time.
 
 [^42]: 2025 Taiwan 18-24 year old user social platform dispersion phenomenon: IG 78%, Dcard 45.9%, Threads 44%, LINE, Discord parallel use, no single hegemon. [MIC 2024Q4 Age Group Analysis](https://mic.iii.org.tw/); [DataReportal Digital 2025 Taiwan](https://datareportal.com/reports/digital-2025-taiwan).
 
-[^43]: August 31, 2023, Xuite (Sui Yi Wo) began three-stage closure, once absorbed some Wretch bloggers in 2013 Wretch closure, this time again forcing users to move. [Xuite (Sui Yi Wo) Closure Announcement](https://blog.xuite.net/).
+[^43]: [Xuite (Sui Yi Wo) Closure Announcement](https://blog.xuite.net/) — August 31, 2023, Xuite (Sui Yi Wo) began three-stage closure, once absorbed some Wretch bloggers in 2013 Wretch closure, this time again forcing users to move.
 
-[^44]: March 19, 2025, Threads user opened @wretch_1999 account, simulating Wretch interface: "★~●○● Welcome to Wretch ●○●~★ / Cumulative Visitors: 0000520 / Who Comes to My House / ♪♫ Background Music: 5566 - I’m Sad ♪♫", fan-made, not official revival. [@wretch_1999 Threads Account](https://www.threads.net/@wretch_1999).
+[^44]: [@wretch_1999 Threads Account](https://www.threads.net/@wretch_1999) — March 19, 2025, Threads user opened @wretch_1999 account, simulating Wretch interface: "★~●○● Welcome to Wretch ●○●~★ / Cumulative Visitors: 0000520 / Who Comes to My House / ♪♫ Background Music: 5566 - I’m Sad ♪♫", fan-made, not official revival.
 
 [^45]: Same as Note 1. Similarweb May 2024 Taiwan Threads average usage time 11 min 31 sec, first globally.
 
