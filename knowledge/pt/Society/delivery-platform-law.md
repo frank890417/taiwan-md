@@ -18,8 +18,8 @@ featured: false
 lastVerified: 2026-07-25
 lastHumanReview: false
 viewpoint_formed: true
-researchReport: reports/research/2026-07/外送專法.md
-projectionBlueprint: reports/article-projection/外送專法.md
+researchReport: 'reports/research/2026-07/外送專法.md'
+projectionBlueprint: 'reports/article-projection/外送專法.md'
 rationale:
   why_this_hook: '同一天、同一個外送員、兩張距離差一倍的單，報酬都是 90 元——這是整篇悖論的最小單位：官方把 45 元讀成保障，收到單的人讀成上限。用真實截圖畫面開場，比從法條或立法史開場更快讓讀者站到爭議裡面。'
   whats_excluded: 'Grab 併購 foodpanda 全案（公平會否准、終止費、3.7% 投票權）——競爭法題材，會把論點稀釋成產業近況總覽；工會內部信任危機指控（發言人被切割、派系分裂、廣告金流）——單一政治評論員來源、涉具名個人組織糾紛、與論點無關；政黨動機解讀；蔡依橙「4 萬元價差」（查證為舊實測被挪用評論新政策）；王浩宇發言（僅 PTT 轉載未核原始貼文）；「外送專法會外溢成其他零工產業樣板」（多組 query 查證台灣公開論述完全沒有這個討論，不以外國材料勉強推導）。'
@@ -31,15 +31,19 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COMEBUY_Keelung_Qidu_Store_and_Foodpanda_scooter_20200913.jpg'
 relatedDiary: ['2026-07-25-231820-外送專法', '2026-07-26-001546-順稿席']
 sporeLinks:
-  [
-    "{'id': 159, 'platform': 'threads', 'date': '2026-07-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi'}",
-    "{'id': 160, 'platform': 'x', 'date': '2026-07-25', 'url': 'https://x.com/taiwandotmd/status/2081045126898684051'}",
-  ]
+  - id: 159
+    platform: 'threads'
+    date: '2026-07-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi'
+  - id: 160
+    platform: 'x'
+    date: '2026-07-25'
+    url: 'https://x.com/taiwandotmd/status/2081045126898684051'
 translatedFrom: 'Society/外送專法.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:2226f6ae85580ba3'
-sourceBodyHash: 'sha256:9aa85b1a3d34de72'
-translatedAt: '2026-09-09T15:25:08+08:00'
+sourceCommitSha: '83975eef3'
+sourceContentHash: 'sha256:79a50a0770daf955'
+sourceBodyHash: 'sha256:725b400b5a230de4'
+translatedAt: '2026-09-25T12:44:07.350530+00:00'
 ---
 
 # A lei dos entregadores: a lei construiu o piso, mas acima dele o algoritmo continua no comando
@@ -131,44 +135,44 @@ Ainda não | Dois regulamentos do Ministério dos Transportes ainda são antepro
 Fonte: Banco de Dados de Leis e Regulamentos, Ministério do Trabalho, Yuan Legislativo, Ministério dos Transportes
 ```
 
-## A lei não disse que eles não são empregados
+## A lei não diz que eles não são empregados
 
-Antes e depois da entrada em vigor desta lei, a frase que mais circulou na internet como resumo foi "tirar a identidade, reforçar os direitos": em vez de determinar se o entregador é empregado ou prestador de serviço autônomo, a lei escreveria os direitos diretamente na norma. O verbete da Wikipédia diz isso, o comentário da Business Weekly diz o mesmo, e chegou a se estender para "Taiwan criou uma terceira categoria de trabalhador."[^22] Essa formulação é conveniente, e transforma em algo que a lei fez aquilo que ela, na verdade, não fez.
+Antes e depois de esta lei entrar em vigor, o resumo que mais circulou na internet foi «sem identidade, com direitos»: não se determina se o entregador é empregado ou contratado, simplesmente escreve-se os direitos na lei. A entrada da Wikipédia escreve assim, o comentário da _Commercial Times_ também escreve assim, e chegou-se a estender para «Taiwan criou uma terceira categoria de trabalhador».[^22] Essa说法 é conveniente, e faz o que a lei não fez parecer o que ela fez.
 
-Abra o Artigo 1.º. O § 1.º é o objetivo da lei: "Para proteger os direitos dos entregadores, consumidores e comerciantes parceiros, e para regular as plataformas de entrega, a fim de equilibrar as relações de direitos e deveres de todas as partes, fica promulgada esta lei."
+Abra o Artigo 1, o parágrafo 1 é o propósito legislativo: «Para garantir os direitos dos entregadores, consumidores e comerciantes parceiros e gerir os operadores de plataformas de entrega, de modo a equilibrar as relações de direitos e obrigações das várias partes, esta lei é especialmente formulada.»
 
-A frase seguinte, no § 2.º, é a linha mais fácil de passar os olhos por cima e, ao mesmo tempo, a mais decisiva de toda a lei.[^3]
+O parágrafo 2 que se segue contém a frase que mais facilmente passa despercebida, mas é a mais crucial desta lei.[^3]
 
 ```tw-quote
-Mas quando houver relação de emprego entre a plataforma de entrega e o entregador (…) as questões de proteção de direitos e sanções serão tratadas conforme a Lei de Normas Trabalhistas e demais leis pertinentes
-Lei de Proteção dos Direitos dos Entregadores e Gestão de Plataformas de Entrega, Artigo 1.º, § 2.º | Texto oficial literal do Banco de Dados de Leis e Regulamentos
+Mas, quando houver relação de emprego entre o operador da plataforma de entrega e o entregador⋯⋯ os assuntos relativos à garantia de direitos e penalidades serão tratados de acordo com a Lei de Normas do Trabalho e outras leis relevantes
+《Lei de Garantia de Direitos dos Entregadores e Gestão de Plataformas de Entrega》 Artigo 1, Parágrafo 2 | Banco de Dados Nacional de Leis e Regulamentos, texto oficial
 ```
 
-Depois daquele "mas", existe todo um trilho que foi deixado de pé. A lei prevê explicitamente a hipótese de "haver relação de emprego" e a remete de volta à Lei de Normas Trabalhistas.
+Atrás desse «mas», há toda uma via deixada em aberto. A lei prevê expressamente a situação de «haver relação de emprego» e a encaminha de volta para a Lei de Normas do Trabalho.
 
-A exposição de motivos oficial do projeto é ainda mais completa: ao comentar artigo por artigo o Artigo 1.º, trata em paralelo as duas situações: "quando não houver relação de emprego entre a plataforma de entrega e o entregador, as questões de proteção de direitos serão tratadas conforme esta lei (…); quando houver relação de emprego (…), as demais questões de proteção de direitos deverão ser tratadas conforme a Lei de Normas Trabalhistas, a Lei de Segurança e Saúde Ocupacional e demais leis pertinentes."[^23]
+A explicação geral oficial do projeto de lei fala de forma mais completa: ao explicar o Artigo 1 artigo por artigo, trata em paralelo duas situações: «Quando não houver relação de emprego entre o operador da plataforma de entrega e o entregador, os assuntos de garantia de direitos serão tratados conforme esta lei⋯⋯ quando houver relação de emprego⋯⋯ os demais assuntos de garantia de direitos deverão ser tratados conforme a Lei de Normas do Trabalho, a Lei de Segurança e Saúde no Trabalho e outras leis relevantes.»[^23]
 
-O Artigo 26.º, § 2.º, ao tratar da hipótese de a plataforma terceirizar suas operações, também remete diretamente à mesma ressalva: "quando houver relação de emprego entre o terceiro mencionado no parágrafo anterior e o entregador, aplica-se a ressalva do Artigo 1.º, § 2.º."[^3] Uma lei não escreve a mesma hipótese duas vezes por acidente.
+O parágrafo 2 do Artigo 26, ao tratar da situação em que a plataforma subcontrata o negócio, também remete diretamente para o mesmo «mas»: «Quando houver relação de emprego entre o terceiro referido no parágrafo anterior e o entregador, aplica-se o disposto no «mas» do parágrafo 2 do Artigo 1.»[^3] Uma lei não escreve a mesma situação duas vezes por acidente.
 
-Portanto, do início ao fim, esta lei nunca declarou que os entregadores não são empregados, nem criou qualquer novo critério para julgar a existência de relação de emprego.
+Portanto, esta lei do começo ao fim não declara que os entregadores não são empregados, nem adiciona qualquer novo critério para julgar a relação de emprego.
 
-Se um caso individual deve ou não ser reconhecido como relação de emprego continua voltando ao critério de subordinação já existente no direito do trabalho — a mesma régua usada na fiscalização de 2019. O que esta lei fez foi, à margem desse julgamento, erguer uma camada adicional de piso que existe independentemente do resultado desse julgamento.
+Se um caso individual deve ou não ser reconhecido como emprego, volta-se aos critérios de subordinação da lei trabalhista existente, a mesma régua usada na inspeção trabalhista de 2019. O que esta lei faz é, fora desse julgamento, assentar mais um piso que existe independentemente do resultado do julgamento.
 
-![Interior do plenário do Yuan Legislativo, com a mesa diretora à frente e as bancadas dos deputados dispostas em fileiras ao fundo](/article-images/society/legislative-yuan-chamber-2017.webp)
-_O plenário do Yuan Legislativo. Em 6 de janeiro de 2026, a Lei de Proteção dos Direitos dos Entregadores e Gestão de Plataformas de Entrega, com seus 28 artigos, foi aprovada aqui em terceira leitura — apenas seis dias depois de situação e oposição terem fechado o nome final do projeto em negociação. Foto: 林高志, CC BY-SA 4.0_
+![立法院議場內部，前方主席台與後方層層排列的立委席位](/article-images/society/legislative-yuan-chamber-2017.webp)
+_Plenário do Yuan Legislativo. Em 6 de janeiro de 2026, a «Lei de Garantia de Direitos dos Entregadores e Gestão de Plataformas de Entrega» de 28 artigos foi aprovada em terceira leitura aqui, apenas seis dias após a definição do nome do projeto nas negociações entre governo e oposição. Foto: 林高志, CC BY-SA 4.0_
 
-Antes que esse caminho fosse definido, houve quem defendesse que não devia haver esse desvio. O professor Li Chien-hung, do Departamento de Trabalho e Recursos Humanos da Universidade Chinesa de Cultura, disse em entrevista à PTS em julho de 2023 que, na época, o sindicato exigia a exclusão da aplicação da Lei de Normas Trabalhistas, tratando a relação como prestação de serviço autônomo — e que "criar uma lei específica também oferece proteção muito limitada aos direitos trabalhistas." Ele defendia seguir o exemplo da Espanha e da Califórnia, devolvendo a relação de trabalho dos entregadores ao reconhecimento formal de vínculo empregatício.[^24]
+Antes de esta via ser definida, houve quem defendesse que não se devia dar esta volta. Em julho de 2023, o professor Li Chien-hung do Departamento de Trabalho e Recursos Humanos da Universidade Chinesa de Cultura disse em entrevista à PTS que o sindicato na época exigia a não aplicação da «Lei de Normas do Trabalho», tratando como relação de contratação, e que «promulgar uma lei especial para a proteção dos direitos trabalhistas também é muito limitado». Ele defendia seguir o exemplo da Espanha e da Califórnia (EUA), fazendo a relação trabalhista dos entregadores voltar ao reconhecimento de emprego.[^24]
 
-O momento dessa declaração é importante. Ela foi feita dois anos e meio antes da terceira leitura, e avaliava "seguir o caminho de uma lei específica" — não os 28 artigos definidos depois.
+O momento desta fala é importante. Ela fala de dois anos e meio antes da terceira leitura, avaliando «seguir a via da lei especial», não avaliando os 28 artigos após a definição final.
 
-Na mesma reportagem, Chen Yu-an, presidente do Sindicato Nacional da Indústria de Entregas, apresentou outra consideração: "quanto à questão salarial, hoje os regulamentos municipais não conseguem tratar isso de forma eficaz. Queremos uma lei específica porque ela se parece um pouco com o modelo dos táxis, em que plataforma, governo e sindicato definem juntos, em três partes, um piso mínimo."[^24] O que o acadêmico queria era identidade; o que o sindicato queria era um piso. A versão finalmente aprovada deu o piso e deixou a identidade no lugar em que estava.
+Na mesma reportagem, o presidente do Sindicato Nacional da Indústria de Entregas, Chen Yu-an, expôs outra consideração: «A parte que nos preocupa é o salário, essas coisas atualmente nos regulamentos autônomos não conseguem ser tratadas de forma eficaz. Nós queremos uma lei especial porque ela é um pouco como o modelo dos táxis, onde plataforma, governo e sindicato definem juntos o piso mínimo.»[^24] O acadêmico queria a identidade, o sindicato queria o piso. A versão final aprovada deu o piso, deixou a identidade no lugar.
 
 > 📝 **Nota do curador**
-> Uma coisa pode ser afirmada com segurança: esse "não responder" é um projeto, não um descuido. Ao comentar artigo por artigo o Artigo 1.º, a exposição de motivos oficial coloca lado a lado as duas hipóteses — "sem relação de emprego" e "com relação de emprego" — e o Artigo 26.º volta a citar a mesma ressalva uma segunda vez. Uma lei não escreve a mesma hipótese duas vezes por acidente.
+> Uma coisa pode ser confirmada desde já: este «não responder» é desenho, não omissão. A explicação geral oficial do projeto de lei, ao tratar o Artigo 1 artigo por artigo, colocou lado a lado as duas situações «sem relação de emprego» e «com relação de emprego», e o Artigo 26 volta a citar o mesmo «mas» — uma lei não escreve uma mesma situação duas vezes por acidente.
 >
-> O que não se pode afirmar com segurança é por que ela foi projetada assim. Uma leitura pragmática é: o reconhecimento de identidade tem de ser litigado caso a caso, e depois que se litiga contra uma plataforma, ela muda a forma do contrato — foi exatamente assim que a fiscalização de 2019 acabou não indo a lugar nenhum —, então a lei primeiro acolhe as pessoas e deixa a qualificação jurídica para se acumular lentamente, caso a caso. Outra leitura é: um estado de ambiguidade favorável às plataformas foi estabilizado por uma lei. As duas leituras usam o mesmo conjunto de artigos; a diferença está em você acreditar, ou não, que ainda haverá gente disposta a continuar litigando esses casos daqui para frente. **Este artigo consegue sustentar a primeira leitura, não consegue sustentar a segunda, e não escolhe pelo leitor.**
+> O que não se pode confirmar é por que foi desenhada assim. A leitura pragmática é: o reconhecimento da identidade tem de ser feito caso a caso, terminado um processo contra uma plataforma ela muda a redação do contrato, a inspeção trabalhista de 2019 acabou assim sem resultado, então primeiro acolhe-se a pessoa, a qualificação fica para os casos irem se acumulando devagar. Outra leitura é: um estado ambíguo favorável às plataformas foi estabilizado por uma lei. As duas leituras usam os mesmos artigos, a diferença está em você acreditar se daqui para frente ainda haverá quem continue a lutar aqueles casos individuais. **Este artigo conclui pela primeira, não consegue concluir pela segunda, nem escolhe pelo leitor.**
 
-Esta é a primeira pergunta que ficou sem resposta. A segunda é mais difícil, e a forma como ela recai sobre pessoas reais já pôde ser vista na primeira semana em vigor.
+Este é o primeiro problema não respondido. O segundo é mais difícil, e a sua cara nas pessoas reais já se via na primeira semana de vigência.
 
 ## Quem corre rápido e quem corre devagar saíram com coisas opostas
 
@@ -263,51 +267,51 @@ E, dentro do escopo de verificação deste artigo, esta já é a declaração de
 
 Por que não há, não é possível descobrir. Há pelo menos duas explicações imagináveis: os comerciantes temem ser removidos da plataforma se criticarem publicamente, ou os recursos da mídia simplesmente não foram investidos nesse canto. A primeira explicação não encontra nenhum caso ou cláusula contratual que a sustente. Por isso, aqui só se registra o próprio silêncio, sem atribuir a ele um motivo.
 
-## A parte que cabia ao consumidor ainda não existia no dia em que a lei entrou em vigor
+## O lado dos consumidores, não existia no dia da entrada em vigor
 
-A única mudança já concretizada, e com número preciso, do lado do consumidor é o aumento da assinatura mensal do Uber One, de 120 para 199 dólares — um aumento de cerca de 66% — e a Uber Eats afirma oficialmente que esse ajuste não tem relação com a lei de entregadores, refletindo apenas uma atualização dos benefícios de assinante.[^39] A taxa do lado dos comerciantes é outra história: a partir de 21 de julho, a Uber Eats aumentou a taxa de serviço cobrada dos comerciantes parceiros, com 2,5 pontos percentuais adicionais para entrega de comida e 3 pontos percentuais adicionais para produtos frescos e de mercado (o [PX Mart](/pt/economy/pxmart-supermarket/), como canal de varejo de produtos frescos, também está nessa linha), mantendo o teto da taxa de serviço em 35%. A foodpanda, por sua vez, disse que "segundo a avaliação preliminar atual, o custo de cada pedido pode aumentar cerca de 30% a 50%" — essa é uma faixa de estimativa da própria plataforma, não um número que já ocorreu.[^40]
+A única mudança já ocorrida e com números precisos do lado dos consumidores foi a mensalidade do Uber One, que subiu de 120 para 199 dólares taiwaneses, um aumento de cerca de 66%; a Uber Eats afirma oficialmente que esse ajuste não tem relação com a Lei de Entregas e reflete a atualização dos benefícios de assinatura.[^39] As taxas do lado dos comerciantes são outra história: a Uber Eats aumentou a taxa de serviço para comerciantes parceiros a partir de 21 de julho, adicionando 2,5 pontos percentuais para entrega de refeições e 3 pontos percentuais para produtos frescos e mercearia (canais de varejo fresco como o [PX Mart](/pt/economy/pxmart-supermarket/) também estão nessa linha), mantendo o teto da taxa de serviço em 35%. A foodpanda, por sua vez, diz que «com base na avaliação preliminar atual, o custo por pedido pode aumentar cerca de 30% a 50%» — este é o intervalo de estimativa da própria plataforma, não um número já ocorrido.[^40]
 
-Quanto ao valor extra que o consumidor efetivamente paga por pedido, nenhuma instituição fez um teste real disso. O maior conjunto de números disponível não é um teste real, é uma estimativa de modelo de um estudo prévio da Comissão de Comércio Justo.[^41]
-
-```tw-stat
-Se as duas maiores plataformas aumentarem os preços ao consumidor em 5% (estimativa de modelo, não teste real)
-34,1% | Consumidores que deixariam de usar plataformas de entrega | Estudo de substitutibilidade da Comissão de Comércio Justo
-145 milhões de pedidos | Possível redução de pedidos num ano | Estimativa da Associação Taiwanesa de Economia de Plataformas Digitais com base na proporção acima
-46 bilhões de dólares taiwaneses | Possível valor de produção que desapareceria num ano | Idem; estimativa, não algo que já ocorreu
-Fonte: estudo de substitutibilidade da Comissão de Comércio Justo + estimativa da Associação Taiwanesa de Economia de Plataformas Digitais. Depois da entrada em vigor, nenhuma instituição ainda fez um teste real do valor efetivamente pago pelo consumidor
-```
-
-A frase que Xu Ze-yu, diretora executiva da Fundação do Consumidor de Taiwan, disse na fase de projeto de lei (16 de janeiro de 2026) é justamente sobre a informação em si: "você pode optar por não usar a entrega, ir buscar ou comer no local, mas o pré-requisito é que a informação seja clara — não se pode, de forma obscura, fazer o consumidor assumir custos sem saber."[^42]
-
-E a lista legal do consumidor não existia no dia em que a lei entrou em vigor. Em 20 de julho, no limite do prazo, o Ministério dos Transportes anteprojetou dois regulamentos: "itens que devem e não devem constar em contrato padrão de serviço de plataforma de entrega" e "normas de gestão de segurança viária para entregadores": a primeira assinatura de serviço de membro pode ser cancelada em até 7 dias, a renovação automática precisa do consentimento explícito do consumidor, e a plataforma precisa criar um mecanismo de aviso de renovação e de reembolso.[^43]
-
-Até 25 de julho, os dois ainda eram anteprojetos. A meta oficial para as normas de segurança viária é entrar em vigor o mais rápido possível até o final de agosto; o contrato padrão ainda precisa ser encaminhado ao Yuan Executivo para aprovação.[^44] As novas regras para o consumidor, amplamente divulgadas pela mídia, ainda não têm força vinculante.
-
-## O lado sem nenhum número
-
-O lado que deveria fiscalizar tem menos números ainda.
-
-A divisão de trabalho no nível central, na verdade, está escrita com bastante clareza. O Ministério do Trabalho cuida de contratos, suspensões, remuneração, reclamações, segurança ocupacional, seguros e guarda de registros; o órgão de transporte cuida da fixação da tarifa básica, da proteção ao consumidor e da segurança no trânsito; o órgão econômico cuida dos contratos de parceria e das disputas sobre taxas; o órgão de saúde e bem-estar cuida da segurança sanitária dos alimentos; e os governos municipais executam junto com o governo central.[^8]
-
-O problema surge depois dessa divisão. Quanto pessoal de fiscalização os departamentos municipais de trabalho colocaram em campo, com que frequência fazem inspeções por amostragem, se existe uma equipe dedicada, quantas multas já foram aplicadas desde a entrada em vigor — as respostas a essas quatro perguntas não se encontram em nenhum dado público.
+Nenhuma instituição fez uma medição real de quanto os consumidores pagam a mais por cada pedido na prática. O maior conjunto de números existente não é uma medição real, mas uma estimativa de modelo do estudo prévio da Comissão de Comércio Justo.[^41]
 
 ```tw-stat
-Os quatro números que realmente fariam esta lei funcionar, hoje, simplesmente não existem
-Não encontrado | Pessoal de fiscalização investido pelos departamentos municipais de trabalho | Execução conjunta central-municipal, alocação de pessoal não divulgada
-Não encontrado | Frequência e método das inspeções por amostragem | Nenhum plano de fiscalização público
-Não encontrado | Se existe equipe dedicada | Nenhum dado de estrutura organizacional disponível
-Não encontrado | Número de multas aplicadas desde a entrada em vigor | Até 25/07/2026, nenhum caso de sanção relatado
-Fonte: dados públicos dentro do escopo de verificação deste artigo (Ministério do Trabalho, departamentos municipais de trabalho). Os quatro itens são "resultado negativo" — não significam "o número é zero", significam "o número não pôde ser encontrado"
+Se as duas grandes plataformas aumentarem o preço para os consumidores em 5% (estimativa de modelo, não medição real)
+34,1% | Consumidores deixam de usar plataformas de entrega | Estudo de substitutibilidade da Comissão de Comércio Justo
+145 milhões de pedidos | Pedidos que podem diminuir em um ano | Associação de Economia de Plataformas Digitais de Taiwan estima com base na proporção acima
+46 mil milhões de dólares taiwaneses | Valor de produção que pode evaporar em um ano | Idem, estimativa, não ocorrido
+Fonte: Estudo de substitutibilidade da Comissão de Comércio Justo + estimativa da Associação de Economia de Plataformas Digitais de Taiwan. Após a entrada em vigor, nenhuma instituição fez medição real do valor efetivamente pago pelos consumidores
 ```
 
-No terceiro dia em vigor, o tom de Hung Shen-han foi, de forma rara, duro: disse que "o dever do órgão administrativo é fazer a lei valer" e enfatizou que "assim que o período de apuração terminar e se constatar que uma empresa cometeu infração, não haverá tolerância — a multa será aplicada de acordo com a lei, com certeza."[^45] Na mesma semana, entregadores relataram que a remuneração calculada pela plataforma não atingia o padrão legal; segundo um funcionário do Ministério do Trabalho, a plataforma disse que completaria a diferença em duas semanas.[^46]
+A frase que a diretora-executiva da Fundação do Consumidor, Hsu Tse-yu, disse na fase de projeto de lei (16 de janeiro de 2026) vai direto ao ponto da informação em si: «Você pode optar por não usar entrega, ir buscar ou comer no local, mas a premissa é que a informação seja clara, não se pode usar forma ambígua para fazer o consumidor arcar com custos sem saber.»[^42]
 
-> 📝 **Nota do curador**
-> O Artigo 1.º coloca entregadores, consumidores e comerciantes parceiros lado a lado, e, somando a plataforma regulada, forma o que o governo chama de "equilíbrio entre as quatro partes." Mas, ao chegar no nível dos regulamentos complementares, as especificações que as quatro partes receberam se dividiram: entregadores e consumidores têm, cada um, uma lista legal de "itens que devem e não devem constar"; os comerciantes receberam um modelo de contrato sem limite de comissão. E o lado que mais precisaria confirmar se essas cláusulas estão sendo cumpridas — a fiscalização municipal — nem tem os números básicos de pessoal disponíveis. Uma coisa é uma lei listar quantas partes existem; outra, bem diferente, é que ferramentas foram preparadas para cada uma delas.
+E a lista legal dos consumidores não existia no dia da entrada em vigor. O Ministério dos Transportes anunciou às pressas, em 20 de julho, dois projetos de regulamento: «Itens que Devem e Não Devem Constar nos Contratos de Adesão de Serviços de Plataformas de Entrega» e «Regulamentos de Gestão de Segurança no Trânsito para Entregadores»: cancelamento no prazo de 7 dias para assinatura inaugural de serviço de assinatura, renovação automática exige consentimento expresso do consumidor, a plataforma deve estabelecer mecanismo de lembrete de renovação e reembolso.[^43]
 
-Já há quem exija algo concreto. Um dia antes da entrada em vigor, a bancada do Partido Popular de Taiwan, pelo vice-líder Wang An-hsiang, apresentou cinco demandas, três delas de substância política: o Ministério do Trabalho deveria definir claramente o que é "custo operacional da plataforma" e proibir que as plataformas criem taxas disfarçadas sob nomes como "taxa de correspondência"; o Ministério dos Transportes deveria concluir o quanto antes o regulamento do contrato padrão para consumidores; e o Yuan Executivo deveria criar um "grupo de monitoramento de eficácia da lei de entregadores" reunindo os Ministérios do Trabalho, dos Transportes, dos Assuntos Digitais e a Comissão de Comércio Justo.[^47]
+Até 25 de julho, ambos ainda eram projetos de pré-anúncio: a meta oficial para os regulamentos de segurança no trânsito é entrar em vigor o mais tardar no final de agosto, e o contrato de adesão ainda precisa ser submetido ao Yuan Executivo para aprovação.[^44] As novas regras para consumidores amplamente noticiadas pela mídia ainda não têm força vinculante.
 
-Já a disputa com mais volume de voz está em outro lugar. Há apoiadores do campo verde que exigem que os legisladores do azul e do branco respondam pela situação dos entregadores, e há comentaristas de atualidades dizendo que "no final, nenhum dos lados é o verdadeiro vencedor."[^48][^49] O ponto onde se grita mais alto, coincidentemente, não é o ponto que esta lei realmente deixou sem resposta.
+## A ponta sem números
+
+A ponta que deveria fiscalizar tem ainda menos números.
+
+A divisão de competências do governo central está, na verdade, escrita de forma clara. O Ministério do Trabalho cuida de contratos, suspensão de direitos, remuneração, recursos, segurança no trabalho, seguros e preservação de registros; a autoridade de transportes cuida da definição de tarifas básicas, proteção do consumidor e segurança no trânsito rodoviário; a autoridade econômica cuida de contratos de cooperação e disputas de cobrança; a autoridade de saúde e bem-estar cuida da segurança sanitária dos alimentos; e os governos locais executam em conjunto com o governo central.[^8]
+
+O problema surge após a divisão: quantos inspetores as secretarias municipais do trabalho têm, com que frequência fazem fiscalizações aleatórias, se existem forças-tarefa dedicadas, quantas multas foram emitidas desde a entrada em vigor — as respostas para essas quatro perguntas não podem ser encontradas em nenhum dado público.
+
+```tw-stat
+Os quatro números que fariam esta lei funcionar de verdade, por ora, não existem
+Não encontrado | Efetivo de fiscalização das secretarias municipais do trabalho | Execução conjunta central-local, efetivo não divulgado
+Não encontrado | Frequência e modo de fiscalização aleatória | Nenhum plano de fiscalização público
+Não encontrado | Existência de força-tarefa dedicada | Nenhum dado de dotação orçamentária
+Não encontrado | Multas emitidas desde a entrada em vigor | Até 2026-07-25 nenhum caso de sanção noticiado
+Fonte: dados públicos verificados para este artigo (Ministério do Trabalho, secretarias municipais do trabalho). Quatro achados negativos, não "número zero" mas "número não encontrado"
+```
+
+No terceiro dia de vigência, o tom de Hong Shen-han foi inusitadamente duro: disse que "o dever dos órgãos administrativos é fazer cumprir a lei" e enfatizou que "uma vez encerrado o período de liquidação, se for constatado descumprimento por parte das empresas, absolutamente não haverá tolerância; puniremos conforme a lei".[^45] Na mesma semana, entregadores relataram que a remuneração calculada pelas plataformas não atingia o padrão legal; segundo relato de autoridade do Ministério do Trabalho, as plataformas indicaram que completariam a diferença em duas semanas.[^46]
+
+> 📝 **Nota da curadoria**
+> O Artigo 1 coloca entregadores, consumidores e estabelecimentos parceiros lado a lado, junto com as plataformas reguladas, compondo o que o governo chama de "equilíbrio entre quatro partes". Mas, no nível das normas subsidiárias, as especificações que cada parte recebe divergem: entregadores e consumidores têm cada um uma lista legal de "itens obrigatórios e vedados", enquanto os estabelecimentos recebem um modelo de contrato sem teto para a comissão. E a ponta que mais deveria ter alguém verificando se essas cláusulas estão sendo cumpridas — a fiscalização local — nem sequer tem números básicos de efetivo. Uma lei enumerar as partes envolvidas é uma coisa; equipar cada uma com as ferramentas adequadas é outra bem diferente.
+
+Já há quem exija coisas concretas. Na véspera da entrada em vigor, a bancada do Partido Popular de Taiwan (TPP), liderada pelo vice-líder Wang An-hsiang, apresentou cinco demandas, três das quais de cunho substantivo: o Ministério do Trabalho deve definir claramente o que são "custos operacionais da plataforma" e proibir que as plataformas criem taxas sob nomes como "taxa de intermediação"; o Ministério dos Transportes deve concluir o quanto antes a norma subsidiária sobre contratos de adesão do consumidor; o Yuan Executivo deve estabelecer um "Grupo de Observação da Eficácia da Lei de Entregas" composto pelo Ministério do Trabalho, Ministério dos Transportes, Ministério do Desenvolvimento Digital e Comissão de Comércio Justo.[^47]
+
+Quanto à disputa com maior repercussão, ela recai em outro lugar. Há apoiadores do campo verde exigindo que legisladores dos campos azul e branco respondam pela situação dos entregadores, e há comentaristas de atualidades afirmando que "no final, nenhuma das partes é verdadeiramente vencedora".[^48][^49] A posição onde se grita mais alto, coincidentemente, não é a posição que esta lei verdadeiramente deixa sem resposta.
 
 ## Na mesma estrada, o que os outros já fizeram dela
 
@@ -371,14 +375,15 @@ Fonte: informações públicas do Ministério dos Transportes e do Ministério d
 
 No quarto dia em vigor, o Sindicato Nacional da Indústria de Entregas perguntou exatamente o último item dessa lista: "criar uma lei específica e não aplicar sanções conforme a lei — é para ficar só de enfeite? Só para dar uma boa impressão? O Ministério do Trabalho vai continuar jogando pelas plataformas esse jogo de empurrar com a barriga?"[^61] Seis anos, duas vidas, trocados por um piso que já se pode ver. Quanto a todo aquele espaço acima do piso — o espaço que decide quanto eles ganham hoje, se poderão ficar on-line amanhã — a lei ainda não subiu até lá, e também ainda não designou quem deveria subir.
 
-## Leitura complementar
+## Leituras complementares
 
-- [A geração "slash" de Taiwan](/pt/society/taiwan-slash-generation-multi-job-economy) — a geração que abre o app de entrega depois do expediente, e por que um salário não é suficiente
-- [Panorama gastronômico de Taiwan](/pt/food/taiwan-food-overview) — o outro lado dos pedidos nas plataformas de entrega: o panorama completo do mapa alimentar taiwanês
-- [Cultura dos mercados noturnos](/pt/food/night-market-culture) — antes das plataformas, como funcionava e como se precificava a comida popular de Taiwan
-- [Cultura das bebidas com tapioca de Taiwan](/pt/food/hand-shaken-drink-culture) — das lojinhas de rua às marcas que conquistaram o mundo, também o outro lado da comissão das plataformas
-- [PX Mart](/pt/economy/pxmart-supermarket) — a rede local nessa linha da entrega de produtos frescos e de mercado
-- [O escândalo de segurança alimentar do benzopireno](/society/苯駢芘食安事件) — no mesmo mês em que a lei entrou em vigor, a marmita que o entregador deixa na porta é justamente a ponta final desta crise de segurança alimentar
+- [Geração slash de Taiwan](/pt/society/taiwan-slash-generation-multi-job-economy) — A geração que abre apps de entrega depois do expediente, e por que um salário não basta
+- [Panorama gastronômico de Taiwan](/pt/food/taiwan-food-overview) — A outra ponta dos pedidos nas plataformas de entrega: o panorama do mapa gastronômico de Taiwan
+- [Cultura de mercados noturnos](/pt/food/night-market-culture) — Antes das plataformas: como funcionava e como se precificava a alimentação popular de Taiwan
+- [Cultura do bubble tea de Taiwan](/pt/food/hand-shaken-drink-culture) — Das pequenas lojas de rua para o mundo: as marcas de bebidas agitadas à mão que estão do outro lado da comissão das plataformas
+- [PX Mart (全聯福利中心)](/pt/economy/pxmart-supermarket) — O canal local na linha de entrega de mantimentos frescos
+- [Caso dos ftalatos (DEHP)](/society/苯駢芘食安事件) — No mesmo mês em que a lei especial entrou em vigor, o marmitex que o entregador deixou na porta era justamente a ponta final dessa tempestade de segurança alimentar
+- [Quem define salário baixo](/society/誰算低薪) — A garantia de remuneração dos entregadores entrou na lei especial, mas o bônus de fim de ano não tem lei que o proteja: como o salário baixo migrou do salário-base para a coluna onde não se paga bônus
 
 ## Fontes das imagens
 
@@ -499,7 +504,7 @@ Este artigo usa 5 imagens (1 de domínio público, 4 sob licença Creative Commo
 
 [^53]: [Inside Spain's plan to fix the gig economy（Huck Magazine）](https://www.huckmag.com/article/inside-spains-failed-plan-to-fix-the-gig-economy) — Reportagem em profundidade, entrevistando vários ciclistas espanhóis e representantes sindicais, registrando as respostas diferenciadas das plataformas depois da entrada em vigor da Riders Law. Os fatos de que a Just Eat transformou todos os seus ciclistas em empregados e assinou uma convenção coletiva, a Deliveroo se retirou do país (posição oficial: a Espanha representa menos de 2% da receita global da empresa, com retorno sobre investimento incerto), e a Glovo resistiu até junho de 2025, quando converteu 14 mil ciclistas para o vínculo empregatício, foram cruzados também com a EUobserver e a The Local Spain.
 
-[^54]: [Gig economy worker rights UK guide（Connaught Law）](https://connaughtlaw.com/gig-economy-worker-rights-uk-guide/) e [UK Employment Law Reforms 2026（Ius Laboris）](https://iuslaboris.com/insights/uk-employment-law-reforms-2026/) — Orientações jurídicas de um escritório de advocacia britânico e de uma federação internacional de direito do trabalho. A direção atual da reforma no Reino Unido é simplificar as três camadas — empregado / worker / autônomo — em duas, fundindo "empregado" e "worker" numa única categoria, em vez de extinguir a categoria worker; a Lei de Direitos no Emprego aprovada em 2025 não tocou no reconhecimento de status, e a consulta correspondente, até abril de 2026, ainda não havia sido apresentada. Ambas são orientações jurídicas privadas, não anúncios oficiais do governo. **Correção específica feita durante a verificação deste artigo**: o rascunho inicial havia escrito que "o governo está considerando extinguir a categoria worker, com a justificativa de que as plataformas exploram essa zona cinzenta"; depois de conferir frase por frase, confirmou-se que essa narrativa causal não existe nas fontes citadas, e a direção é o oposto da reforma real proposta.
+[^54]: [Gig economy worker rights UK guide（Connaught Law）](https://connaughtlaw.com/gig-economy-worker-rights-uk-guide/) — e [UK Employment Law Reforms 2026（Ius Laboris）](https://iuslaboris.com/insights/uk-employment-law-reforms-2026/) — Orientações jurídicas de um escritório de advocacia britânico e de uma federação internacional de direito do trabalho. A direção atual da reforma no Reino Unido é simplificar as três camadas — empregado / worker / autônomo — em duas, fundindo "empregado" e "worker" numa única categoria, em vez de extinguir a categoria worker; a Lei de Direitos no Emprego aprovada em 2025 não tocou no reconhecimento de status, e a consulta correspondente, até abril de 2026, ainda não havia sido apresentada. Ambas são orientações jurídicas privadas, não anúncios oficiais do governo. **Correção específica feita durante a verificação deste artigo**: o rascunho inicial havia escrito que "o governo está considerando extinguir a categoria worker, com a justificativa de que as plataformas exploram essa zona cinzenta"; depois de conferir frase por frase, confirmou-se que essa narrativa causal não existe nas fontes citadas, e a direção é o oposto da reforma real proposta
 
 [^55]: [フリーランス・事業者間取引適正化等法 パンフレット（公正取引委員會、厚生労働省、中小企業庁）](https://www.jftc.go.jp/file/flpamph.pdf) — Panfleto oficial conjunto de três órgãos japoneses, explicando as sete obrigações da Lei de Freelancers, em vigor desde 1º de novembro de 2024 (explicitação das condições contratuais, prazo de pagamento da remuneração, condutas proibidas, divulgação correta de informações de recrutamento, cuidados com licença parental, sistema de prevenção de assédio, aviso prévio de 30 dias para rescisão antecipada), e afirmando explicitamente que, quando se determinar que a pessoa é, substancialmente, trabalhadora nos termos da lei trabalhista, esta lei não se aplica, aplicando-se em seu lugar a legislação de relações trabalhistas.
 
@@ -513,6 +518,6 @@ Este artigo usa 5 imagens (1 de domínio público, 4 sob licença Creative Commo
 
 [^60]: [律師批「4 類人都輸、只有立委贏」（自由時報）](https://news.ltn.com.tw/news/life/breakingnews/5514651) — Reportagem de 23 de julho de 2026, registrando literalmente a crítica do advogado Lin Chih-chun à lei de entregadores e os casos da Espanha e de Seattle que ele cita. O texto original desta reportagem é uma paráfrase do repórter em terceira pessoa ("o advogado Lin Chih-chun acredita que, depois da entrada em vigor da lei específica, consumidores, entregadores, comerciantes e plataformas todos perdem, e só os legisladores ganham"), não uma fala literal de Lin entre aspas — **correção específica feita durante a verificação deste artigo**: o rascunho inicial apresentou essa paráfrase como citação direta; foi alterada para discurso indireto. A mesma pessoa, com a mesma posição, foi republicada repetidamente por várias mídias antes e depois da entrada em vigor da lei, sendo a fonte mais concentrada de crítica no início da vigência; este artigo não contabilizou o número exato de veículos.
 
-[^62]: [Gig workers in Canada（Law of Work）](https://lawofwork.ca/gigworkerscanada/) e [Ontario courts continue to recognize intermediate category of worker（Littler）](https://www.littler.com/publication-press/publication/ontario-canada-courts-continue-recognize-intermediate-category-worker) — A emenda de 1975 à Lei de Relações Trabalhistas da província de Ontário, Canadá, já incluía o "prestador de serviço dependente (dependent contractor)" na definição de empregado, 21 anos antes da categoria worker no Reino Unido; em 2020, o Conselho de Relações Trabalhistas de Ontário decidiu diretamente que os ciclistas da Foodora se qualificavam como prestadores de serviço dependente e podiam formar sindicato. O TRADE espanhol de 2007 (Lei 20/2007) também é uma categoria intermediária de longa existência. **Correção específica feita durante a verificação deste artigo**: o rascunho inicial afirmava que o Reino Unido era o "único" país a usar por muito tempo uma categoria intermediária; depois de verificar, encontrou-se um contraexemplo claro, e o texto foi alterado para "poucos", acrescentando este precedente canadense que cai diretamente sobre o contexto da entrega.
+[^62]: [Gig workers in Canada（Law of Work）](https://lawofwork.ca/gigworkerscanada/) — e [Ontario courts continue to recognize intermediate category of worker（Littler）](https://www.littler.com/publication-press/publication/ontario-canada-courts-continue-recognize-intermediate-category-worker) — A emenda de 1975 à Lei de Relações Trabalhistas da província de Ontário, Canadá, já incluía o "prestador de serviço dependente (dependent contractor)" na definição de empregado, 21 anos antes da categoria worker no Reino Unido; em 2020, o Conselho de Relações Trabalhistas de Ontário decidiu diretamente que os ciclistas da Foodora se qualificavam como prestadores de serviço dependente e podiam formar sindicato. O TRADE espanhol de 2007 (Lei 20/2007) também é uma categoria intermediária de longa existência. **Correção específica feita durante a verificação deste artigo**: o rascunho inicial afirmava que o Reino Unido era o "único" país a usar por muito tempo uma categoria intermediária; depois de verificar, encontrou-se um contraexemplo claro, e o texto foi alterado para "poucos", acrescentando este precedente canadense que cai diretamente sobre o contexto da entrega
 
 [^61]: [工會控訴勞動部不裁罰（ETtoday）](https://www.ettoday.net/news/20260724/3206977.htm) — Reportagem de 24 de julho de 2026, quarto dia depois da entrada em vigor, registrando literalmente a declaração coletiva do Sindicato Nacional da Indústria de Entregas: "criar uma lei específica e não aplicar sanções conforme a lei — é para ficar só de enfeite? Só para dar uma boa impressão? O Ministério do Trabalho vai continuar jogando pelas plataformas esse jogo de empurrar com a barriga?"

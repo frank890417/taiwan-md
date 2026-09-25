@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T20:48:01+08:00",
-    "zhCommitHead": "8003ac53c",
+    "lastUpdated": "2026-09-25T21:28:56+08:00",
+    "zhCommitHead": "117aceb3c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1095,
+        "fresh": 1096,
         "stale": 15,
         "metadata_stale": 0,
-        "missing": 14,
+        "missing": 13,
         "orphan": 0
       },
       "ja": {
@@ -84,34 +84,34 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1058,
+        "fresh": 1059,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 54,
+        "missing": 53,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1073,
+        "fresh": 1074,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 38,
+        "missing": 37,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1079,
-        "stale": 13,
+        "fresh": 1080,
+        "stale": 12,
         "metadata_stale": 1,
         "missing": 31,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1052,
+        "fresh": 1053,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 70,
+        "missing": 69,
         "orphan": 0
       }
     },
@@ -6380,8 +6380,8 @@
           "sourceContentHash": "sha256:a52c8c96b2eeab05",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T11:06:40.719489+00:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "117aceb3",
+          "translationLastModified": "2026-09-25T20:48:01+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "bytes": 50397,
@@ -26584,7 +26584,20 @@
           "diffSummary": "+1 -1"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-online-community-migration.md",
+          "translatedFrom": "Technology/台灣網路社群遷徙史.md",
+          "sourceCommitSha": "56f4d6f85",
+          "sourceContentHash": "sha256:a4422796c61c1b2e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T12:39:08.646105+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 47,
+          "bytes": 104408,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/taiwan-online-community-migration.md",
@@ -44203,7 +44216,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Art/matsu-biennial.md",
+          "translatedFrom": "Art/馬祖國際藝術島.md",
+          "sourceCommitSha": "cb75c0402",
+          "sourceContentHash": "sha256:799ca5362c21601f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T12:48:54.692727+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 48,
+          "bytes": 70236,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/matsu-biennial.md",
@@ -124455,20 +124481,18 @@
         "ru": {
           "path": "ru/People/muyao4.md",
           "translatedFrom": "People/木曜4超玩.md",
-          "sourceCommitSha": "1b55dfc6c",
-          "sourceContentHash": "sha256:f1e33836f112b9c8",
-          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
-          "translatedAt": "2026-09-12T02:30:21+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:c545680e99f6d0ab",
+          "sourceBodyHash": "sha256:809502b72dc5c3f5",
+          "translatedAt": "2026-09-25T13:14:24.278796+00:00",
           "translationLastCommit": "04857235",
           "translationLastModified": "2026-09-12T08:27:32+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 45991,
+          "bytes": 46392,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/muyao4.md",
@@ -142763,7 +142787,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/lee-yang-badminton.md",
+          "translatedFrom": "People/李洋.md",
+          "sourceCommitSha": "fef3e1199",
+          "sourceContentHash": "sha256:d21eaa1c32fc46c9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T12:43:40.111814+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 62134,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -198625,7 +198662,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/44-south-village.md",
+          "translatedFrom": "Geography/四四南村.md",
+          "sourceCommitSha": "fe48ea49d",
+          "sourceContentHash": "sha256:016cbe65076bbcff",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T12:53:51.782674+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "bytes": 53755,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -209632,11 +209682,11 @@
           "sourceContentHash": "sha256:5bf5af7cbb7baf0f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T12:05:45.759171+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "117aceb3",
+          "translationLastModified": "2026-09-25T20:48:01+08:00",
           "inferred": false,
           "footnoteDefs": 56,
-          "bytes": 48094,
+          "bytes": 48100,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
