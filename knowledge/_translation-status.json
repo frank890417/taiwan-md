@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T09:57:47+08:00",
-    "zhCommitHead": "5677730ac",
+    "lastUpdated": "2026-09-25T10:02:36+08:00",
+    "zhCommitHead": "9bcf67a10",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1020,
-        "stale": 57,
+        "fresh": 1021,
+        "stale": 56,
         "metadata_stale": 0,
         "missing": 47,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1052,
-        "stale": 26,
+        "fresh": 1053,
+        "stale": 25,
         "metadata_stale": 0,
         "missing": 46,
         "orphan": 0
@@ -4650,20 +4650,18 @@
         "ja": {
           "path": "ja/Music/mayday-band.md",
           "translatedFrom": "Music/五月天.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:2d73cb00a5f5d254",
-          "sourceBodyHash": "sha256:7f6b080a953be003",
-          "translatedAt": "2026-05-01T19:52:32+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:d0269e2f1779f743",
+          "sourceBodyHash": "sha256:70e0b74692ddad14",
+          "translatedAt": "2026-09-25T08:55:33+08:00",
           "translationLastCommit": "d182e5d8",
           "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 13659,
+          "bytes": 15903,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/mayday-band.md",
@@ -85536,15 +85534,15 @@
           "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:371da55946bd0c24",
           "sourceBodyHash": "sha256:7e95d6d709cb27df",
-          "translatedAt": "2026-08-04T14:12:35+08:00",
+          "translatedAt": "2026-09-25T08:55:34+08:00",
           "translationLastCommit": "e502cb2b",
           "translationLastModified": "2026-08-04T19:13:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 8073,
-          "armorResidue": 1,
-          "status": "stale",
-          "reason": "armor-residue (1 個未還原佔位符)"
+          "bytes": 8218,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/taiwan-island-natural-history.md",
@@ -104685,8 +104683,8 @@
           "sourceContentHash": "sha256:1917aa69dfd8ab97",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T00:12:15.548675+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9bcf67a1",
+          "translationLastModified": "2026-09-25T09:57:48+08:00",
           "inferred": false,
           "footnoteDefs": 44,
           "bytes": 90824,
@@ -130674,8 +130672,8 @@
           "sourceContentHash": "sha256:ef77f1a4a4a50fce",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T00:29:37.817306+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9bcf67a1",
+          "translationLastModified": "2026-09-25T09:57:48+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "bytes": 68848,
@@ -189409,8 +189407,8 @@
           "sourceContentHash": "sha256:8c13ff26b6ae8507",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T00:42:02.705676+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9bcf67a1",
+          "translationLastModified": "2026-09-25T09:57:48+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 130862,
