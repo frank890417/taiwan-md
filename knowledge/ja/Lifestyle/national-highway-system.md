@@ -1,162 +1,328 @@
 ---
-title: "Highways: From the MacArthur Highway to the Xueshan Tunnel, Taiwan's 50 Years of Power and Speed"
-description: "The MacArthur Highway, opened in 1964, was only 23 kilometers long; today, Taiwan's national highway network exceeds 1,000 kilometers. From the Zhongshan Expressway approved by Chiang Ching-kuo, the 'political road' (Fu-Hsin Expressway) that was mocked, the world's most difficult-to-dig Xueshan Tunnel, to ETC changing every driver's payment habits—each stretch of asphalt records post-war Taiwan's political will, engineering limits, and civilian resistance."
+title: '高速道路：マッカーサー公路から雪山トンネルまで、台湾国道50年の権力と速度'
+description: '1978年、中山高速道路が開通した日、テープカットをしたのは蔣経国ではなかった。この道路について語り継がれてきた50年の説話は、ほとんど出典が確認できない。しかし、もう一つの筋書きは何度調べても覆せない。地政官員の王朝生が担当した中壢の独居老人、楊梅の盲目の夫婦、高雄の拷潭で3度も徴収された老農の王春発が王爺に「どうか開通しませんように」と祈ったこと。毎回「もっと速く」の裏側には、速度の代償を払う人がいる。'
 date: 2026-07-18
-tags:
-  [
-    'National Highway',
-    'Transportation Infrastructure',
-    'Ten Major Projects',
-    'Xueshan Tunnel',
-    'ETC',
-    'Post-war Taiwan',
-  ]
-author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: 'Lifestyle/Highways.md'
-readingTime: 15
+tags:
+  ['高速道路', '国道', '中山高速道路', '交通建設', '国道料金所員', '土地徴収']
+subcategory: '交通與移動'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-18
 lastHumanReview: false
-translatedFrom: 'Lifestyle/高速公路.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5a8bf0cfcaa7dbd2'
-sourceBodyHash: 'sha256:6f25b03f0ed1d8d2'
-translatedAt: '2026-05-03T21:36:22+08:00'
+readingTime: 15
 image: '/article-images/lifestyle/macarthur-thruway-opening-1964.webp'
+imageAlt: '1964年5月2日、マッカーサー公路開通式の現場。これは台湾で初めて立体交差設計を採用した道路であり、今日多くの人々が忘れている「最初の高速道路」でもある。'
 imageCredit: '台灣新生報'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:臺灣第一條高速公路—麥克阿瑟公路通車典禮_01.jpg'
-featured: false
+relatedDiary: ['2026-07-18-103939-manual', '2026-07-19-092138-標點主權閘']
+translatedFrom: 'Lifestyle/高速公路.md'
+sourceCommitSha: '79f66898d'
+sourceContentHash: 'sha256:caaea3b8ab3896dc'
+translatedAt: '2026-09-25T06:37:32.983489+00:00'
 ---
 
-> **30-Second Overview**
-> Taiwan's first "expressway" was the 23-kilometer-long MacArthur Highway, opened in 1964, which retired from its expressway role in 1977 after the Zhongshan Expressway was completed[^1]. The Zhongshan Expressway (National Highway 1), construction of which began in 1971 and was fully completed in 1978, was the first item in Chiang Ching-kuo's "Ten Major Projects" and Taiwan's first large-scale post-war engineering mobilization. Its 374 kilometers shortened the distance from Keelung to Kaohsiung to a one-day trip[^2][^3]. The Formosa Expressway (National Highway 3), launched in the 1990s, formed the backbone of the "Dual National Highways"; the Xueshan Tunnel, opened in 2006, became the world's fifth-longest highway tunnel at 12.9 kilometers, taking 15 years to dig[^4][^5]. In late 2013, ETC (Electronic Toll Collection) was fully implemented for distance-based charging, bringing the toll collector system into history, yet also leaving behind controversial chapters such as the Far Eastern Electronic Toll Collection case and the Legislative Yuan's correction case[^6][^7]. Today, Taiwan's national highway network exceeds 1,000 kilometers, making it one of the few public infrastructures on the island that everyone uses daily but few understand in terms of historical depth[^8].
+> **30秒概要：** 台湾の国道システムは、1964年のマッカーサー公路から今日の雪山トンネルと国道7号まで伸び、全台湾で毎日使われていますが、その厚みを知る人はほとんどいません。この道にまつわる通説のほとんどに、確認できる出所がありません：最初の高速道路は中山高ではない、1978年の開通式でテープカットをしたのは蔣経国（しょう・けいこく／ジャン・ジングオ）ではない、ETCについて監察院が「BOTの性質とは異なる」と認定した、伝説の戦闘機があの場所に着陸したわけではない。しかし、何度調べても覆せないもう一つの事実があります：権威主義時代に名前さえ記録されなかった独居の老人から、11年間訴訟を闘った最後の料金徴収員、そして今日、高雄の拷潭で王爺に「この道が決して開通しませんように」と祈る老農・王春発（おう・しゅんはつ／ワン・チュンファ）まで、「もっと速く」の裏側には、毎回、具体的な人々が速度の代償を払っているのです。
 
-## A Post-War History Written in Asphalt
+## 検証できる伝説、計算しきれない勘定
 
-If there is one infrastructure project that can condense post-war Taiwan, it is likely the National Highway.
+1997年12月15日午前8時、雪山トンネルの上り線の深部で、水が四方八方から流れ込んできた。十数億円の全断面掘削機が断層破砕帯にはまり込み、機電副主任の冷耀東（れい・ようとう／ロン・ヤオドン）はあることに気づいた。その機械の22.8キロボルトアンペア（KVA）の高圧主電源が切られていなかったのだ。電源が切られていなければ、現場の二、三百人の救助者がすべて感電のリスクにさらされる。彼と同僚一人が主制御室に駆け戻って電源を切り、振り返って外へ走り出した直後、後方から崩落の音が響いた[^1]。
 
-It involves more than just engineering: behind it lies the withdrawal of US aid in the 1960s, the narrative of "self-reliance" under the 1970s oil crisis and diplomatic retreat, the infrastructure race before party alternation in the 1990s, logistics upgrades after joining the WTO in the 2000s, and the public-private sector struggle surrounding an eTag sticker in the 2010s[^2][^6][^9].
+約三百人の命が、一人の男性が電源を切るという動作を思い出したかどうかにかかっていた。これは台湾の国道50年の歴史の中でも、数少ない繰り返し語り継がれる瞬間の一つだ。しかし、この物語に付随する数字、すなわち雪山トンネルの「殉職25人」という数字さえも、間違っている。
 
-Every stretch of road is a fingerprint of an era.
+私たちがほぼ毎日使っているこの道について、流布しているバージョンの多くは検証に耐えない。多くの人は台湾初の高速道路は中山高速道路（中山高）だと思っている（実際にはマッカーサー公路が14年早かったが、正式な分類は「快速公路」である）。1978年の開通式でテープカットをしたのは蔣経国（しょう・けいこく／チャン・チンクオ）だと思われている（彼は半年前に行政院長を辞任していた）。ETCはBOT事業だと思われている（監察院自ら「BOTの性質とは異なる」と述べている）。1978年にF-104戦闘機が彰化県花壇郷の国道で試験着陸したと思われている（機種も場所もすべて間違い）。50年経った今、この道にまつわる「ひとこと版」の逸話は、ほとんど一つとして成立しない[^2]。
 
-## The MacArthur Highway: The Forgotten First
+しかし、何度調べても覆せないもう一つの筋がある。「少しでも前へ、少しでも速く」の裏側には、毎回具体的な誰かがその速度の代償を払っている。中壢インターチェンジ脇に住む、名前さえ記録されなかった独居の老人。11年間訴訟を闘い、ついには金額さえ公表できない和解を勝ち取った料金収受員。高雄の拷潭（コータン）で王爺（オーヤー）に向かって国道7号が「絶対に開通しませんように」と祈った老農。この記事は二つのことを行う：流布する伝説を一つひとつ解体し検証すると同時に、これまで勘定に入れられてこなかった人々を、再び帳簿に書き戻すことだ。
 
-Taiwanese people are accustomed to saying "Zhongshan Expressway is the first highway," but strictly speaking, the "MacArthur Highway" (Taiwan Provincial Highway 5-Jia), opened in 1964 and connecting Taipei and Keelung, is truly the first. It was 23.4 kilometers long, with four lanes in both directions and a design speed of 80 km/h, representing the pinnacle of Taiwan's road engineering at the time. It was built with US aid support and named after the Korean War general MacArthur[^1][^9].
+それでは、最も古いあの道から語り始めよう。台湾人自身もほとんど忘れかけていた、最初の快速公路から。
 
-After the Keelung-to-Taipei section of the Zhongshan Expressway opened in 1977, the MacArthur Highway was incorporated into the general provincial highway system and downgraded to an "urban road." Its fate presaged one thing: in Taiwan, "highways" are eaten by higher-level "national highways"—this hierarchical game has been played for fifty years[^1][^3].
+台湾最初の高速道路、今日その名を覚える人は誰もいない
 
-## Zhongshan Expressway: The Head of the Ten Major Projects
+台湾最初の高速道路は中山高（ちゅうざんこう）ではなく、マッカーサー公路（まっかーさーこうろ／麥帥公路）と呼ばれ、1964年5月2日に開通した。中山高より14年早いことになる[^3]。台北（タイペイ）から基隆（キールン）までを結び、本線が22.65キロメートル、1キロメートル未満の支線を加え、台湾で初めて立体交差設計を採用し、すべての平面交差点を高架化または地下化した高速道路であり、両端にそれぞれ料金所が設けられていた。資金はどこから来たのか。総工費2億2700万円余りのうち、米国援助が1億2000万円余りを占め、紛れもない冷戦期のインフラ建設であった[^4]。
 
-On August 14, 1971, construction of the Zhongshan Expressway began.
+もともとはこの名前ではなく、「北基新路（ほっきしんろ／ベイジー・シンルー）」と呼ばれていた。1964年4月5日、開通の1か月も前ではない時期に、マッカーサー元帥（まっかーさーげんすい／ダグラス・マッカーサー）が死去した。政府はアメリカの援助とこの元帥への情誼を感念し、急遽この道路をマッカーサー公路と改名した[^5]。これは中英両語の史料が高度に一致する稀なケースであり、安心して引用できる偶然の一致である：「開通の際に元帥逝去の知らせが届いた」。
 
-This was the first and largest of Chiang Ching-kuo's "Ten Major Projects." Designed to run from Keelung to Kaohsiung, it was 373 kilometers long with four lanes in both directions. The completion date was politically set for October 31, 1978—Chiang Kai-shek's birthday—and named the "Zhongshan Expressway" (Chiang Zhongshan)[^2][^3][^10].
+> 💡 **ご存知ですか**
+> マッカーサー公路には、ルート選定に隠された秘密がある：あえて基隆河（キールン・ホー）北岸に新たな路線を設け、南岸の旧道を直接拡幅しなかったのだ。理由は工学的なものではなく、戦備上の考慮であった：万一戦争で一方の道路が破壊されても、もう一方が使えるようにするためだ[^6]。この「最初の高速道路」は、当初から「万一開戦したら」というロジックを帯びており、このロジックは後にも繰り返し登場することになる。
 
-The difficulty of the engineering is still staggering to look at today: at that time, Taiwan did not even have highway design standards. The engineering team translated Japanese and American standards while building, and the designs for many bridges and embankments were "from scratch"[^10]. The Zhongsha Bridge, Yangmei Slope, and Houlong mudstone section each have their own engineering stories. In the oral history special issue _The Way of the Great Road_ compiled by the National Highway Bureau, engineers from that era recalled: "We were not just building roads; we were learning how to build roads."[^10]
+マッカーサー公路の結末もまた、台湾の国道の性格をよく物語っている。1977年7月10日、中山高の基隆から内湖（ナイフー）までの区間が開通すると、マッカーサー公路の大部分区間はそのまま中山高に編入された：置き換えられたのではなく、置き換えた側の道路に飲み込まれたのである[^7]。編入されなかったわずかな区間だけが、現在の台5甲線（だいごこうせん）に格下げされた。今日、台5甲線を走る人々の多くは、足元のこの道がかつて台湾の近代化への最初の切符であったことに気づかないだろう。
 
-> **💡 Did You Know?**
-> The initial plan for the Zhongshan Expressway was a "level-crossing style" design, not a true closed system. It was only changed to the "true highway" standard of a fully closed, interchanged system during construction—meaning many sections were redesigned after construction began, an extremely rare "changing specifications while running" scenario in engineering[^4][^10].
+最初の一本の道路の来歴でさえこれほど多くの版本があるなら、この50年間で最大規模、最も多くの人が通った中山高において、その物語のどれほどが単純化されてしまったのだろうか。
 
-## From the First to the Third Generation of National Highways
+## 十二年のリレー、そして名を残せなかった二人の人々
 
-The National Highway Bureau itself divides the development of national highways into three generations[^4]:
+中山高について最も広く流布している版はこうだ：蔣経国（しょう・けいこく／ジャン・ジンジュー）の一声令下、ひとこと「今日やらねば、明日は後悔する」、十大建設の筆頭かつ最大規模の事業が、着工から竣工まで彼の一手による主導で進められた。
 
-1. **First Generation (1971–1990)** — Represented by the Zhongshan Expressway, the design philosophy was "north-south vertical, shortest connection," with routes kept straight and avoiding urban areas.
-2. **Second Generation (1990–2004)** — Represented by the Formosa Expressway (National Highway 3), it added "east-west horizontal" National Highways 6, 8, and 10, forming a grid network. Design began to consider environmental impact and integration with urban planning.
-3. **Third Generation (2004–present)** — Represented by National Highway 5 (Jiang Wei-shui Expressway), the engineering focus shifted to "overcoming terrain." The Xueshan Tunnel, Beiyi Straight Line, and Wuyang Viaduct are representative works of this generation[^4][^5].
+この版はほぼあらゆる環節で検証に耐えない。高速公路の構想は蔣経国がいかなる身分で関与するよりも早く、最初の決断も彼一人の独断ではなく、省政府主席・経済部長・交通部長の聯席会議によるものだった[^8]。真の起工式は1971年8月14日、主催者は副総統の厳家淦（げん・かかん／イェン・ジアガン）であり、蔣経国ではない。当時蔣経国は行政院副院長にすぎず、行政院長に正式就任するのは1972年だった。そして1978年10月31日の全線開通式典の日、蔣経国は同年5月20日に総統就任・行政院長辞任を済ませており、この式典を主催したのは彼ではない[^9]。あの「今日やらねば、明日は後悔する」という言葉の出典は1991年刊行の一冊の伝記であり、決策からすでに18年が経っており、後世がまとめた代表的な語句である可能性が高く、逐語録音ではない。
 
-Behind each generation lies a different political logic: the first generation was a political achievement project of an authoritarian regime; the second generation was a product of coordination between local factions and the central government during the democratization process; the third generation is an engineering project where every meter of road must be explained to the public in the "EIA era."
+もう一つよく間違えられる細節がある：全線「完成開通」（1978年10月31日）と正式に「中山高速公路と命名」（1979年4月19日）は、半年近く隔たった二つの別個の出来事であり、同一日ではない[^10]。
 
-## Fu-Hsin Expressway: The Mocked "Political Road"
+> 📝 **策展人メモ**
+> 通説は、十二年にわたり三人の交通部長を経て、蔣経国本人が三つの職名（副院長・院長・総統）を歴任したプロセスを、一人のトップダウンによる単一の瞬間に圧縮してしまう。これはまさに威権体制の記憶の運営様式であり、この道に潜むもう一つの見えない速度——権力が物語を収斂させる速度である：功績は最高指導者の一名に収斂し、プロセスにおける厳家淦、林金生（りん・きんせい／リン・ジンシェン）、黄杰（こう・けつ／ホアン・ジェ）、孫運璿（そん・うんせん／スン・ユンシュエン）ら、そして彼らが払った代償は、物語から消し去られる。そして最も徹底的に消されたのは、実はこれら部長たちではない。
 
-National Highway 3 (Formosa Expressway), planned in the 1990s, was mocked by public opinion as a "political road"—the reason being that the route wound along the foot of the mountains, bypassed many densely populated areas, and the density of interchanges was considered to "cater to local legislators"[^11][^12].
+真に消されたのは、この道に轢かれた人々だ。中山高の用地買収は高速公路工程局の「路権組」が担当し、1971年に設立され、三十数人から四十数人へ拡大した。なぜ別途専門部署を設けたのか。路権組担当者の王朝生（おう・ちょうせい／ワン・チャオシェン）の口述が明確に語る：「高速公路は十大建設の嚆矢の一つであり、蔣経国氏は期限付き着工・完成・開通を要求した。地方政府の効率が悪く、省道一路線でも地方政府が買収するのに長い時間がかかる。それでは絶対に間に合わない」[^11]。
 
-However, after the full line opened in 2004, the Fu-Hsin Expressway took on one-third of the traffic in the western corridor, forming a "Dual National Highways" diversion with the Zhongshan Expressway, becoming one of the most important double backbones of Taiwan's logistics system today. The political criticism of the past was gradually digested by time into the engineering virtue of "risk diversification."
+王朝生は中壢楊梅区間・台北市区間・楊梅から三義区間の用地取得を主管し、地籍調査・地上物査定はすべて自ら現場へ赴いた。「現地を何周したかわからない」と彼は回想する。二軒の人家を覚えている。
 
-> **📝 Curator's Note**
-> The greatest engineering significance of the Fu-Hsin Expressway lies not in the road itself, but in how it "forced" Taiwanese designers to face slope engineering: cutting through the Linkou Plateau, crossing the Bagua Mountain range, and viaducts over the Ailiao Creek valley in Pingtung—these experiences were later used in the Xueshan Tunnel and the restoration of the Southern Cross Highway.
+一軒目は中壢インターチェンジの用地上にあった。鄉道の脇に、屋根も壁もなく、二本の梁が辛うじて支えているだけの廃屋があり、そこには孤独な七十代後半、身動きの取れない老人が住んでいた。王朝生は合理的な範囲で優遇し、少し多めの補償金を出し、地方政府の社会課に安置支援を依頼し、ついには工程局の公用車で引っ越しを手伝った。「前後して多くの時間を費やし、ようやく用地を取得できた」[^12]。二軒目は楊梅インターチェンジ、小さな瓦葺きの家に盲目の夫婦が住んでいた。長男は徴兵中、次男は中学生、家に金はなく、土地は他人のもので地価補償は受けられず、地上物補償金のみ。他の数軒はすべて取り壊されたが、彼らだけが住み続けていた。王朝生は兵役課・社会課・民衆服務站に助けを求めたが無駄で、最後は地元の里長に頼み、川辺の空き地に小屋を建ててもらってようやく引っ越しさせた[^13]。
 
-## Xueshan Tunnel: The Cost of Being the World's Fifth Longest
+この二軒の人家、その名をあらゆる記録が残していない。これは忘却ではなく、最初から記録されるパイプラインがなかったのだ。あの時代には今日のような公聴会も、行政訴訟も、環境アセスメント手続きもなかった。補償基準が行き詰まれば、弱者の運命は一人の担当官吏の良心と人脈にかかっていた。「これらの基準では個別の問題を解決できないときは、自分たちで何とかするしかない。」王朝生のこの言葉は、「威権時代の代償」を最も的確に証言している：代償は確かに存在した、ただそれが個人化・非制度化され、人情に頼っていたにすぎない。
 
-If there is a "most dramatic" chapter in the national highway network, it is undoubtedly the Xueshan Tunnel.
+あの時代も輿論の独壇場ではなかった。王朝生の同僚、陳茂雄（ちん・もうゆう／チェン・マオション）は覚えている：「高速公路建設計画の際、多くの人が反対の声を上げ、高速公路は金持ちのためのものだと批判した」。当時の報道にも「ある者はこの高速公路が金持ちを厚遇していると批判する。なぜなら金持ちだけが自動車を買う能力があり、またある者は……既存の西部幹線を拡幅する方がよいと考える」と書かれていた[^14]。反対の声は常にあったが、戒厳下の報道環境では、それらが組織化され、記録され、伝承される機会を得られなかったにすぎない。
 
-Construction began in 1991, originally scheduled for completion in 1998, but was finally not put into operation until 2006—8 years longer than scheduled, with the budget increasing several times over[^5][^13]. The Xueshan Mountains are a geological "fracture zone + high groundwater pressure + hard rock sandwiching weak layers," with all three major tunnel engineering taboos present. During construction, there were multiple instances of massive water inrush and landslides, resulting in 25 worker casualties, and the TBM (Tunnel Boring Machine) was even trapped in the mountain body and could not be retrieved[^5][^13].
+この道がどう建設されたか、それ自体もまた一種の不均等な代償だった。当時台湾には高速公路の設計規範がまったくなく、アメリカのコンサルタント会社デ・ルー・キャサー（De Leuw Cather）がカリフォルニア州基準を翻訳し、手探りで進めるしかなかった。技師の許俊逸（きょ・しゅんいつ／シュー・ジュンイー）はあの給与格差を覚えている：台湾人技師の月給4千元、外国人顧問の月給40万、さらに食住・交通・運転手付き、「われわれの百倍」。だが金で買ったのは本物の技術だった：「以前は学校で習わなければ本を探したが、今では君が描いたスケッチが間違っていれば、彼が直してくれ、そこで初めて自分の間違いがわかる。」最も生々しいのは、彼らの土法煉鋼的な路面検収だった：四輪アライメントを整えた車を設計速度まで加速させ、「それからハンドルを放す。車は前へ進み、車線からはみ出さなければ施工合格」[^15]。七年のうちに、この集団は373キロメートルを建設した。
 
-In the year it opened, the 12.9-kilometer Xueshan Tunnel became the world's fifth-longest and Asia's second-longest highway tunnel at the time, remaining a benchmark in Taiwan's engineering history—and a warning: in the fault lines of Taiwan's plates, every kilometer of tunnel is not a problem that money can solve[^5][^13].
+その「373キロメートル」も一言いわねばならない：1978年、西螺サービスエリアに建てられた中沙大橋碑文には整数の「三七三キロメートル」とあるが、2015年に高雄港連絡高架道路が編入された後、現行の公式標準は374.3キロメートルだ[^7]。同じ一本の道、半世紀の間にいくつもの数字が測り出された。
 
-## ETC: A Public War Triggered by a Sticker
+中山高は基隆から高雄まで一直線に敷かれ、西部回廊の南北往来を大幅に短縮した。だがそれが次に直面するのは、一座の中央山脈だ。
 
-If the Xueshan Tunnel was a "war of engineering," then ETC was a "war of systems."
+## 雪山トンネル殉職者：13人であり、25人ではない
 
-The Highway Electronic Toll Collection System (ETC) first went online in 2006, with Far Eastern Electronic Toll Collection obtaining a 20-year franchise under a BOT (Build-Operate-Transfer) model. The initial use of OBU infrared vehicle units had a persistently low penetration rate. On December 30, 2013, the national highway fully implemented "electronic distance-based charging," and manual toll stations went out of history[^6][^14]. The eTag sticker replaced the past return tickets and toll collectors.
+冒頭で電源を切った人物に戻ろう。冷耀東（れい・ようとう／レン・ヤオドン）が救った約300人と、救えなかった殉職者たちは、同じ山の二つの顔だ。そして殉職者の数こそが、この道路について最も広く誤って記憶されている数字である。
 
-The transition period was chaotic: at the beginning of the rollout, there were repeated deductions,感应 failures, and gantry metering errors. A statement by the Far Eastern Electronic Toll Collection spokesperson, "This is the destiny that eTags must face," ignited public anger[^15]. In July 2014, the Legislative Yuan passed a correction case, criticizing the Ministry of Transportation and Communications and the National Highway Bureau for being "controlled by vendors" and having unclear contract responsibilities[^7]. However, in April of the same year, an audit committee抽查 (spot-checked) 2.8 million transactions and found only 5 errors. After the system stabilized, Taiwan's full-road distance-based ETC became one of the few successful cases internationally[^16][^17].
+現在広まっている説では「雪山トンネル施工で殉職25人」とされる。労働部（当時の労働委員会）の2006年公式ニュースリリースでは定義が明確にされている：25人は「北宜高速道路全体工事」の職業災害死亡数であり、うち雪山トンネル本体に属するのは13人、ほかに南港から坪林区間が8人、頭城から蘇澳区間が4人、13＋8＋4で25人となる[^16]。「北宜高全線」の25人をそのまま「雪山トンネル」のものとして掲げるのは、範囲の誤植である。
 
-> **⚠️ Controversial Viewpoint**
-> A 2024 report by the National Policy Foundation points out that although Taiwan's ETC is viewed internationally as a "successful first example," the BOT contract handed the core database of national highway charging to a single private vendor, leaving structural problems that are difficult to supervise in reverse—whether this "success" is a victory for the government or the vendor remains controversial[^17].
+> 💡 **ご存知ですか**
+> この25という数字の面白いところは、全く異なる二つの切り口でともに「13」が出てくることだ：工事区間で切れば雪山トンネル本体が13人、国籍で切れば25人の殉職者のうち12人が本国籍（台湾籍）、13人がタイ国籍である。この二つの13は同一グループを指していない[^17]。数字を見るときは常にまず「定義（口径）は何か」と問うべきだ。それがこの記事全体の方法でもある。
 
-## Highway Service Areas: A Taiwanese Public Space
+あの13人のタイ人移住労働者について、氏名は各報道で互いに矛盾する複数の版本が存在し、日付・死因・綴りすべてが整合せず、単一の一次資料に遡ることができない。どれか一つの版本を採用して確定させるより、正直に認めるべきだ：このトンネルのために命を捧げた一群の人々がおり、彼らの名前さえ正確に残されていない。この事実自体が、一つの代償の形なのである。
 
-Few countries make highway service areas into a "attraction" like Taiwan does.
+雪山トンネルの工事詳細（鋼鉄より硬い四稜砂岩、6つの大断層、高圧湧水、5大工法）については本サイトの別記事で詳述しているため、ここではよく誤用される用語を一つ補足する。施工期間中、雪山トンネルの掘削機（TBM）が前後して受困したのは最大26回に上る[^18]。そのうち1997年の湧水事故で被害を受けた主坑掘削機1台は、最終的に回収されず、「雪山山脈の中で天寿を全うした」[^19]。一台の機械を山中に残して記念とすることはできても、13人の命をそうすることはできない。
 
-Qingshui, Xihu, Dongshan, Hukou—these names in Taiwanese people's memories are not just "places to use the restroom," but relay stations for junior high school graduation trips, dining venues for long-distance drivers, and display fields for souvenirs. Taiwan's commercialization model for highway service areas (OT outsourcing, introducing local specialties) differs from the "pure rest" design of most countries, representing a Taiwanese public space co-created by the National Highway Bureau and private merchants[^8][^18].
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/imoRDRgNy1A" title="北宜高速公路雪山隧道全線貫通紀念專輯—TBM 施工（交通部高速公路局）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-## The Still-Growing Network
+![退役後に武荖坑景区に保存されている北宜1号トンネル掘削機（TBM）主機、当年雪山トンネルで幾度も受困した機具の一つ](/article-images/lifestyle/tbm-beiyi-no1-2025.webp)
 
-As of the end of 2024, Taiwan's national highway network consists of 10 national highways, with a total length exceeding 1,000 kilometers[^8]. New engineering is still underway: the widening of National Highway 1 from Wuku to Yangmei, the extension of National Highway 2 to Taiwan Provincial Highway 61, and the planning of National Highway 7 (Kaohsiung East Outer Ring)—these are no longer the proposition of "north-south connection," but the new generation's issues of "metropolitan area alleviation" and "passenger-freight separation"[^4][^19][^20].
+_退役後に武荖坑景区に保存されている北宜1号トンネル掘削機主機。雪山トンネル施工期間、掘削機が前後して受困したのは最大26回に上る。Photo: Outlookxp, 2025, Wikimedia Commons, CC BY 4.0。_
 
-## What a Road Can Tell You
+山は貫かれ、東西部が結ばれたが、料金の徴収方式は変わらなければならなかった。
 
-Building a highway requires not just money, but how much a society is willing to bet on the future.
+## 監察院自らが語る：これは BOT ではない
 
-The Zhongshan Expressway bet that the "western corridor would become the manufacturing heart"—it was proven correct. The Fu-Hsin Expressway bet that "dual backbones would diversify risk"—it was also proven correct. The Xueshan Tunnel bet that "east and west would finally be connected"—in the year it opened, Yilan's housing prices doubled instantly, triggering a wave of relocation. The ETC bet on "full-road distance-based fairness"—it was achieved, but at the cost of institutional trust.
+皆さんは ETC が一種の BOT だと思っています：政府が国道の料金徴収を財閥に委託し、遠通電収（FETC）が20年間の特許経営権を得た、と。しかし監察院の糾正案文は、たった一文でこの枠組みを崩しました。
 
-Next time you are stuck in traffic on the national highway, look at the milestone sign by the side of the road. That is not just a kilometer count; it is the accumulation of Taiwan's collective decisions over fifty years.
+案文には白紙黒字でこう書かれています。「遠通電収が高速公路局に代わって通行費を徴収し国庫に納めた後、高速公路局が委託業務費を遠通電収に支払う。高速公路局の法定職権は始終移転しておらず、政府調達法が規定する役務調達の性質により近く、BOT の性質とは異なる」[^20]。料金徴収に用いられる eTag チャンネルの使用権は、始終高速公路局の手にあります。これが公式の法的認定です。しかし業界、遠通自身の英文プレスリリースでさえ、依然として「BOT」という言葉を使い続けています。運用上は BOT のようでありながら、法的には公式に「異なる」と認定されたこの取り決めは、まさにこの曖昧な領域に留まっています。
 
-## Further Reading
+契約期間さえ整数で記される有様です。実際の契約期間は18年4ヶ月：2007年8月22日に調印し、2025年12月に満了するもので、「20年」ではありません[^21]。しかもその間には、圧縮されて語られない紆余曲折があります：2004年の最初の選定で、遠通の最優秀申請人資格が2006年8月3日に最高行政法院の判決で取り消され、約1年後に再選定・再調印を経てようやく決着しました[^22]。それより前には、政府は本来、中華電信を通じて自ら電子料金徴収を行うつもりでしたが、解約後に公募方式へと転換したのです。「ETC は順調に BOT で進んだ」という印象が、この二度の逆転劇を飲み込んでしまったのです。
 
-- Ten Major Projects — The largest post-war infrastructure plan to which the Zhongshan Expressway belongs
-- Xueshan Tunnel — The most arduous single structure in Taiwan's engineering history
-- ETC Electronic Toll Collection — A public-private struggle that changed payment habits
+2013年末、全国の有人料金所が一斉に消灯し、距離制電子料金徴収へと切り替わった際、移行期には少なからぬ二重徴収の事態が生じました。公式の数字では121人の車主が影響を受けました（「車主」であり、巷間で流布する「数件の取引」ではありません）[^23]。真に民怨を爆発させたのは、遠通の広報担当・周世惠（しゅう・せいけい／チョウ・シーフイ）の一言でした：「二重取引は eTag が直面せざるを得ない宿命であり、私たちの挑戦でもある」[^24]。監察院原文の語り口は、ニュース見出しによくある「業者に制約される」よりも鋭利です：用いられた言葉は「外界に護航（庇護）の疑いを抱かせ、徒らに業者の暴利を増やし……政府のイメージを深刻に損なう」というものでした。
 
-## References
+> 📝 **キュレーターノート**
+> 私たちは ETC を、すっきりした「政府 vs 財閥」の BOT 物語として語りがちですが、監察院自らがそれは BOT ではないと言います。この曖昧な領域こそが焦点なのです：一件の「成功した」技術アップグレードにおいて、法的性格が曖昧で、監督責任が不明確なまま、「これは果たして政府の勝利なのか、業者の勝利なのか」という問いが、今日まで明確な答えを持たないでいます。さらに語るべきは、この技術転換によって失われたものが、900人以上の雇用だったということです。
 
-[^1]: [MacArthur Highway](https://zh.wikipedia.org/zh-tw/%E9%BA%A5%E5%85%8B%E9%98%BF%E7%91%9F%E5%85%AC%E8%B7%AF) — Wikipedia entry, recording the 1964 opening and 1977 downgrade history
+## 11年、公開されない和解との引き換え
 
-[^2]: [Ten Major Projects](https://zh.wikipedia.org/zh-tw/%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD) — Wikipedia entry, summary of the North-South Expressway project
+2013 年 12 月 30 日、全国の有人料金所が一夜にして消灯した。約 947 名の最後の料金収受員が失職し、これは政府が採用している数字である。別の統計では 942 名とされ、うち 486 名が自主的に転職、456 名が遠通（FETC）への配置転換を選択し、両数を足すと整合する。二つの集計基準が今も並存している[^25]。被害者数さえ、関係者全員が認める単一の数字として確定できていないこと自体が、この物語の一部なのだ。
 
-[^3]: [Zhongshan Expressway](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF) — Wikipedia entry, major events from 1971 construction to 1978 completion
+![2012 年の竹田料金所。ここが最後の料金収受員たちの物語の舞台の一つとなり、1 年余り後に台湾全土の有人料金ブースが一斉に歴史へと消えた](/article-images/lifestyle/zhutian-toll-station-2012.webp)
 
-[^4]: [From First Generation to Third Generation National Highways](https://www.freeway.gov.tw/Publish.aspx?cnid=3005) — Ministry of Transportation and Communications National Highway Bureau History Section, national highway network planning and construction achievements
+_2012 年の竹田料金所。1 年余り後、台湾全土の有人料金ブースが同じ夜に消灯した。Photo: Chi-Hung Lin, 2012, Wikimedia Commons, CC BY-SA 3.0。_
 
-[^5]: [National Highway No. 5 Project](https://www.freeway.gov.tw/Publish.aspx?cnid=3009&p=8919) — Ministry of Transportation and Communications National Highway Bureau, National Highway Construction Bureau history page
+この 11 年を受け止めてきたのが、自救会会長の孫秀鑾（そん・しゅうれん／スン・シウルアン）だ。彼女が料金収受員になったのは 1997 年、2013 年に解雇されるまで 17 年間務めた（彼女の年齢と家庭状況は四度検索しても見つからなかったため、ここでは補わない）。抗争は、茫然としたある朝から始まった。「最初、雇用主は交通部だと思って交通部へ行ったが、着いても何をすればいいかわからなかった。警察官に『総統府へ行けばいい』と言われ、総統府へ向かった」[^26]
 
-[^6]: [Manual Toll Stations Close, National Highway "Pay as You Go" Distance-Based Charging Goes Online](https://www.ettoday.net/news/20131230/311377.htm) — ETtoday News Cloud, 2013-12-30
+```tw-timeline
+料金ブースから ETC ゲートへ：11 年抗争の始まりと終わり
+2013 | 有人料金所消灯 | 12/30 走行距離課金電子收費（ETC）へ移行、約 947 名の最後の料金収受員が一夜にして失職
+2014 | 国道へ、ゲートへ | 1/3 初のデモ；10/25 中壢で国道路肩を六歩一跪；11/28 メンバー 3 名が東湖 ETC 料金ゲートに登り絶食
+2016 | 30 時間の座り込みで合意 | 8/16 未明、民進党本部前で「0816 会商結論」成立、その後自救会が合意不履行を告発
+2019 | 一審敗訴、選挙本部へ | 12/19 台北高等行政法院が自救会敗訴の判決、同日午後に蔡英文（さい・えいぶん／ツァイ・インウェン）選挙本部前で抗議
+2024 | 守秘義務の下の終止符 | 12/30 再審期間中に調停成立、金額は守秘義務により非公開
+2025 | 20 卓の宴席、最後のシュプレヒコール | 2/15 高雄で宴席開催、「自救会史上最も楽しい動員」との声も
+出典：焦点事件、司法院、交通部高速公路局
+```
 
-[^7]: [Legislators Criticize "Controlled by Vendors," Ministry of Transportation and Communications and National Highway Bureau Corrected for Far Eastern Case](https://beta-www.ettoday.net/news/20140708/376347.htm) — ETtoday Political News, 2014-07-08
+抗争手段は身体の限界までエスカレートした。2014 年 10 月、彼らは中壢の国道路肩で「六歩一跪（ろっぽいっき）」を行った。1 ヶ月後、3 名の絶食者が台北東湖の ETC 料金ゲート（彼らを置き換えた機械が、最後の抗争舞台となった）に登り、200 時間の絶食の末、低体温症で自ら撤退した[^27]。孫秀鑾は交渉の場での心理的駆け引きをこう振り返る。「実は交渉の過程で、彼らも私たちを見ていた。『本当にこの 9 人のために、すべてを諦めるのか？』と」[^26]
 
-[^8]: [National Highway Map: List of Interchanges and Service Area Mileage](https://www.freeway.gov.tw/Publish.aspx?cnid=1906&p=4618) — Ministry of Transportation and Communications National Highway Bureau Driving Guide
+2016 年 8 月 16 日未明、30 時間以上の座り込みの末[^26]、自救会と政府（政務委員の林萬億（りん・まんおく／リン・ワイイー）が代表）は「0816 会商結論」に調印し、林萬億はその場で「政府と遠通の双方が、料金収受員の配置転換処置に瑕疵があったことを認める」と述べた[^28]。
 
-[^9]: [The Way of the Great Road: Oral Memories of Zhongshan Expressway Construction Personnel](https://www.freeway.gov.tw/Upload/201706/%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%EF%BC%88%E4%BB%98%E5%8D%B0%E6%AA%94%EF%BC%890526.pdf) — National Highway Bureau "Historical Memory Preservation" Commemorative Special Issue
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/U3lEX1B6Erc" title="抗争 2 年で成果 国道料金収受員と行政院が協商で合意（公視晚間新聞 2016/8/17）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-[^10]: [Zhongshan Expressway: Introduction, Number of Lanes, Major Events, Construction History](https://www.newton.com.tw/wiki/%E4%B8%AD%E5%B1%B1%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF/2218136) — Chinese Encyclopedia Entry, supplementing engineering details
+合意はしたものの、争いは終わらなかった。自救会は補償が 6〜7 割に減額され、メンバーの一部が対象から外されたと告発し、行政訴訟へと持ち込まれた。2019 年 12 月 19 日、一審で敗訴。しかし裁判所の理由は「政府が一方的に反故にした」という単純なものではなく、判決書は手続き上の瑕疵から合意が正式な行政契約を構成しないと論じた[^29]。ここで分けて考えねばならない分水嶺がある。政治的な「約束違反」（自救会の怒りは正当だ）と、法的な「行政契約の成立可否」（裁判所は成立しないと判断）は別問題であり、後者をもって前者を否定してはならない。敗訴の日午後、自救会は蔡英文選挙本部前へ抗議に向かったが、現場で取材していた記者たちが先に排除される事態となった[^30]。孫秀鑾は後に投書で、最も重い言葉を残した。「司法制度は私たちに告げた。政府と国民が白紙黒字で結んだ約束は数えない、民間契約よりも劣り、履行される必要はない、と」[^31]
 
-[^11]: [National Highway No. 2: History and Related Information](https://www.newton.com.tw/wiki/%E5%9C%8B%E9%81%93%E4%BA%8C%E8%99%9F) — Chinese Encyclopedia Entry, National Highway No. 2 network connection
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/DPlI6oA-I08" title="国道料金収受員が補償求め提訴も敗訴 卵投げ抗議（公視中晝新聞 2019/12/19）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-[^12]: [National Highway 2 Jia Extension from Taiwan Provincial Highway 15 to Taiwan Provincial Highway 61 New Construction Project](https://www.freeway.gov.tw/Publish.aspx?cnid=95&p=29639) — Ministry of Transportation and Communications National Highway Bureau Engineering Plan Page
+相手側の立場も併記しておく。高速公路局（高公局）の公式見解は、料金収受員は「年単位雇用」の雇用人員であり、雇用契約に走行距離課金電子收費導入時は雇用終了と明記されており、規定上は配置義務はないが、政府は同理心から継続的に収受員の配置転換を支援してきた、というものだ[^32]。国道工程局長の陳彥伯（ちん・げんはく／チェン・イェンボ）も試算を示している。自救会の要求を全面的に受け入れれば、政府が前収受員への補償だけで新台湾ドル 26 億元を要すると[^33]。この衝突の一方には肉体を張った怒りがあり、もう一方には行政手続きのコスト計算がある。
 
-[^13]: [Review of Key Design Points of the Beiyi Expressway Xueshan Tunnel](https://www.freeway.gov.tw/UserFiles/File/%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93%E5%B0%88%E5%8D%80/%E6%8A%80%E8%A1%93%E6%96%87%E7%8D%BB/%E5%AD%B8%E8%A1%93%E5%B0%88%E5%8D%80-%E5%9C%8B%E9%81%935%E8%99%9F%E7%A0%94%E8%A8%8E%E6%9C%83%E8%AB%96%E6%96%87%E9%9B%86/2%E5%8C%97%E5%AE%9C%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93%E8%A8%AD%E8%A8%88%E9%87%8D%E9%BB%9E%E5%9B%9E%E9%A1%A7.pdf) — Lin Zhenji (Former Beiyi High Supervision Manager at Zhongxing Engineering Consultants)
+決着は、検索しても出てこない終止符だった。2024 年 12 月 30 日、再審期間中に双方が調停を成立させ（判決ではない）、守秘義務契約を締結し、具体的な金額は永遠に公開されない。2025 年 2 月 15 日、自救会は高雄で 20 卓の宴席を開き、多くの参加者が「自救会史上最も楽しい動員だった」と笑い、これが最後のシュプレヒコールになることを願った[^34]。絶食、六歩一跪、鉄骨への登頂から食卓へ。11 年の抗争が最後に勝ち取ったのは、「いくら払ったか」すら体制側が公に説明しなくて済む和解だった。
 
-[^14]: [National Highway No. 5 Xueshan Tunnel Promotional Page — FAQ](https://www.freeway.gov.tw/Publish.aspx?cnid=610&p=126) — Ministry of Transportation and Communications National Highway Bureau Theme Promotion
+ETC に置き換えられたのは料金収受員だが、ETC がサービスを提供し続ける、まだ成長し続けている路線網のもう一方では、同じことが繰り返されている。ある人々の土地を奪うことだ。高雄大寮区拷潭村の住民たちは、間もなく自分たちの故郷を貫く国道 7 号を、自ら「国道欺号（こくどうぎごう）」と呼んでいる。
 
-[^15]: [Ministry of Transportation Goes Soft When Facing Far Eastern? eTag Malfunctions Frequently, Spokesperson: This is Destiny](https://beta-www.ettoday.net/news/20140111/315190.htm) — ETtoday News Cloud, 2014-01-11
+## 三度の徴収：王春発（おう・しゅんぱつ／ワン・チュンファ）の拷潭（こうたん）
 
-[^16]: [eTag Stabilizes, Spot-Check of 2.8 Million Transactions Shows Only 5 Errors](https://www.epochtimes.com/b5/14/4/10/n4128498.htm) — The Epoch Times, 2014-04-10
+老農の王春発（おう・しゅんぱつ／ワン・チュンファ）は代々拷潭（こうたん）に住み、農業で生計を立ててきた。これは政府が拷潭の土地を徴収して道路を建設するのが初めてではない：まず1〜3号線道路の開設、次に88快速道路、そして今回は国道7号であり、同じ一家が3度の徴収に直面している[^35]。彼は集落の信仰の中心である鎮潭宮（ちんたんきゅう）に行き、王爺（ワンイェ）に向かって呟くように祈った。
 
-[^17]: [Making Taiwan's ETC the Last Few Miles of the World's Successful First Example](https://www.npf.org.tw/3/13598) — National Policy Foundation Commentary
+> **✦** 「王爺様、どうかお守りください。拷潭村のこの国道7号が、決して開通しませんように。」「私は本来、農業で生計を立て、パイナップルや果物を作れば生きていけました。しかし国道7号が私の農地を徴収しようとしており、私は何もかも失うことになります。私の後半生をどうしろというのですか？ 子孫たちはどうなるのですか？」——王春発（おう・しゅんぱつ／ワン・チュンファ）、公視『我們的島』、2013
 
-[^18]: [ETC Accused of Poor Effectiveness, Far Eastern Electronic Toll Collection Clarifies](https://www.cna.com.tw/news/aipl/201410090356.aspx) — CNA Central News Agency, 2014-10-09
+拷潭の住民たちは神明に助けを求めるだけでなく、街頭に立ち上がった。「国7反対、怒り心頭！」とシュプレヒコールを上げながら環境保護署（環保署）前で抗議した。環境影響評価会議がすでに3回目を開催していたのに、住民はまったく知らされていなかったからだ[^36]。地政学者の徐世栄（じょ・せいえい／シュー・シーロン）はこの事の不条理を最も明確に語った。「660億を使って、わずか23キロの道路を建設する。これは道路に黄金を敷き詰めるのと同じだ！」
 
-[^19]: [Inspecting the New Highway Project from National Highway No. 2 to Taiwan Provincial Highway 15](https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=317611) — Taoyuan City Government Press Release, Aviation City External Network Planning
+王春発（おう・しゅんぱつ／ワン・チュンファ）と王朝生（おう・ちょうせい／ワン・チャオシェン）が関わったあの二世帯は、まる五十年の歳月を隔てていながら、同じ見えざるラインの上に立っている。違いは、王春発には少なくとも名前があり、一言一句の言葉が残されていることだ。王朝生が覚えているあの老紳士、あの盲目の夫婦には、名前すらない。誰の犠牲が記憶され、誰のがされないのか。このラインは威権時代から今日まで貫かれている。
 
-[^20]: [National Highway No. 2 Widening Project Business Report](https://www.freeway.gov.tw/UserFiles/File/Widening/101YEARREPORT-F/102-ch3-1-4-F.pdf) — Ministry of Transportation and Communications National Highway Bureau 101st Year Engineering Business Report
+検証可能な記録でさえこれほど詳細に残っているのなら、検証できず、ネット上で語り継がれるだけの伝説はどうなのだろうか。たとえば、あの飛行機のこと。
+
+## 戦備滑走路：あの飛行機でも、あの場所でもありません
+
+ネット上で「かっこいい」とされる説があります：1978年、F-104戦闘機が彰化・花壇（ファータン）の国道で試験着陸を行い、台湾の高速道路が戦争のために設計されたことを証明した、というものです。
+
+この説のあらゆる具体的な詳細は間違っています。1978年に蔣経国（しょう・けいこく／ジャン・ジンジュー）が視察した試験着陸は、場所が中壢（ちゅうりつ）戦備滑走路、機種が空軍幹部学校教官操縦のT-33練習機、その後にF-5戦闘機であり、F-104とも花壇とも無関係です[^37]。花壇（2019年に彰化戦備滑走路へ改称）で確認できる最古の戦備滑走路演習記録は2007年の漢光（かんこう）23号であり、この演習に出動した具体的な機種は不明ですが、確実なのは花壇の戦備滑走路の記録にF-104の姿は一度もないということです。
+
+しかし戦備滑走路自体は実在し、伝説よりももっと立体的です。台湾全土に少なくとも5本の戦備滑走路（中壢、花壇、民雄（みんゆう）、それに南部の仁德（じんとく）、麻豆（マードウ））があり、長さは約2〜3キロメートル、24〜48時間で道路から戦闘機の離着陸が可能な飛行場へ転換できます。その源流はまさに1970年代の十大建設（じゅうだいけんせつ）期の計画にあります。これは当初から設計に織り込まれた「軍民合一」なのです[^38]。マッカーサー公路があえて基隆河（きーるんか）北岸の予備回廊に選ばれたことから、今日の戦備滑走路に至るまで、この道は初日から現在に至るまで一貫して「万一開戦したら」というロジックを帯びてきました。
+
+![2019年漢光35号演習、3機種の主力戦闘機が彰化（花壇）戦備滑走路で離着陸、総統自ら視察](/article-images/lifestyle/changhua-runway-hankuang35-2019.webp)
+
+_2019年漢光35号演習、戦闘機が彰化戦備滑走路で離着陸、総統自ら視察。Photo: 総統府（撮影 Mori）、2019, Wikimedia Commons, CC BY 2.0。_
+
+軍民合一の代償は、民雄に降りかかりました。中山高（ちゅうざんこう）は1978年にすでに嘉義（かぎ）・民雄を通過していましたが、その区間が軍用の戦備滑走路であり国防に関わるため、インターチェンジ（交流道）が長らく建設できず、地元の人々は30年以上も待ち続けました。最終的に戦備滑走路区間を南へ2キロメートル移動させ、インターチェンジ用地を捻出して、ようやく2011年12月23日に開通しました[^39]。一本の道が「国防機密」と「地方発展」という二つのロジックに同時に従わなければならないとき、その代償は30年の待ち時間となりました。そして2019年漢光35号演習では、F-16V、ミラージュ2000-5、IDFの3機種の主力戦闘機が彰化戦備滑走路で離着陸に成功し、総統が自ら視察に訪れました[^40]。
+
+検証の向こう側で、この道は台湾の人々ひとりひとりの身体の記憶の中にも生き続けています。
+
+## 里程標の間に、五十年の日常
+
+帰省の南下、「一路は駐車場」、ラジオからは警察放送のリアルタイム路況情報が流れ、目は路肩にある里程標が一つずつ後ろへ下がっていくのを追う——これはおそらく台湾の人々全員が共有する、最も強い身体記憶の一つだろう。2025 年の大年初四（旧正月 4 日目）、西部の国道では単日で約 7600 万延車キロに達し、平常の約 1.6 倍となった[^41]。
+
+ここには興味深い認知のズレが潜んでいる。渋滞に巻き込まれた一般の人々が知りたいのは「渋滞は何キロ続くのか」。しかし高速公路局が交通量を測る単位は実は「延車キロ」であり、各車両が走ったキロ数をすべて足し合わせたもので、総交通量を測るものであって、列の長さを測るものではない。大衆が問うのは列の長さ、公式が計算するのは総交通量だ。
+
+サービスエリアは、台湾が休憩施設を観光スポットへと昇華させた独自の発明だ。そこは卒業旅行の中継地点であり、手土産の展示場であり、長距離ドライバーがようやく腰を落ち着けて食事できる貴重な場所でもある。この数年で最も明確なストーリーを持つのが清水サービスエリアだ：2024 年は改修で 8 ヶ月間休業したため売上が 5.87 億元に落ち込み、2 位に後退。2025 年、統一超商（ユニ・プレジデント・エンタープライズ）チームが運営を引き継ぐと、1 年で約 7 割増の 10.15 億元まで伸ばし、再び首位を奪還した。同年、台湾全土 15 か所の国道サービスエリアの総売上が初めて 60 億元を突破した[^42]。
+
+```tw-bars
+2025 年国道サービスエリア売上：清水が1年で約7割増し首位奪還（億円）
+*清水 | 10.15 | 2024年5.87億から約7割増
+関西 | 6.19
+西螺 | 6.19
+泰安 | 5.75
+東山 | 4.78
+出典：交通部高速公路局、中央社、2025年度
+```
+
+では、この道の真の中心はどこか。泰安サービスエリアの公式サイトは明確にこう謳う：「国道1号高速公路の中心点に位置する」——まさに 158.6 キロ地点[^43]、南北を行き来する長距離ドライバーの体が最も休憩を求める、あの心理的な中間地点だ。この道が完成して五十年、サービスエリアはまだ「どう愛されるか」を学び続けている。サービスエリアが莫大な利益を上げてきたこの五十年、ちょうど王朝生（ワン・チャオション／Wang Chaosheng）が覚えているあの盲目の夫婦、孫秀鑾（スン・シュイリュアン／Sun Xiuluan）が 11 年間訴訟を戦い抜いた時期と重なる。この道が稼いだ金と、それが人々に強いた代償は、かつて一度も一緒に勘定されたことはない。
+
+しかし、この勘定はまだ終わっていない。
+
+## 国道7号、この勘定はまだ終わっていない
+
+国道7号について、2013年の公視（公共電視）報道による公式工事費は600億（ニュー台湾ドル）だった[^35]。2026年5月の最新報道では、総経費は2013年の2.5倍にあたる1501.7億に達している。しかも2026年5月、この千億規模の巨大プロジェクトにおいて、2つの土木標（工区）が入札業者不在のため不調（流標）に終わった[^44]。
+
+```tw-figure
+600 億 → 1501.7 億
+国道7号総経費、2013年から2026年、13年間で経費は元の2.5倍に、2026年でも2標が流標
+自由時報、公視〈我們的島〉
+```
+
+工事は決して直線的に進むものではなく、入札が難航することもある。この千億の道は、今日までなお進行形だ。では王春発（おう・しゅんはつ／ワン・チュンファ）はどうだろうか。2013年のあの報道以降、彼は公の視野から消えた。公視が2024年末に同じ拷潭村（こうたんそん）を再訪した際（今回は急速に消えゆく菱角（ひしかく）畑と百年の古民家がテーマだった）、その報道全編を通じて彼の名は一度も出なかった[^45]。彼の農地が最終的に守られたのか、誰も知らない。拷潭は2013年の報道があったからといって開発圧力から解放されたわけではない。ただ物語の主人公が変わっただけだ。
+
+五十年前、ある地政職員が公用車を使って、名もなき老人の引っ越しを手伝ったことを覚えている。五十年後、名があり声のある老農がいたのに、彼がその後どうなったかを覚えている者はいない。この道に伝わる伝説は一つひとつ暴かれた（最初の道の名前、テープカットをした人物、殉職者の数、あの飛機）。しかし「誰かが速度の代償を払っている」という事実は、何度調べても覆らない。変わったのは、それが目撃されるか、あるいは忘却されるかの仕方だけだ。
+
+次にあなたが国道の渋滞にハマったら、路肩の里程標識（キロポスト）を一瞥してみてほしい。その標識に刻まれた数字は、台湾が五十年間積み重ねてきた「もっと速く」の累積勘定書であり、かつて勘定に入れられることのなかった人々の記録でもある。
+
+## 参考文献・関連記事
+
+- [雪山隧道](/ja/technology/hsuehshan-tunnel) — 本文でわずかに触れたあの工事史、四稜砂岩（しりょうさがん）、五大工法、TBMによる13年間の全記録がここにある。
+- [十大建設](/ja/history/ten-major-construction-projects) — 中山高速公路は十大建設の筆頭に過ぎない。この記事で威権時代のインフラ建設全体の全容と論争を知ることができる。
+- [戒厳時期](/ja/history/martial-law-era) — なぜ威権時代の収用の代償は「抗議さえ記録に残せなかった」のか。その答えはこの報道管制の歴史の中にある。
+
+## 画像出典
+
+本文ではパブリックドメイン / CC ライセンスの画像 4 枚を使用しており、すべて `public/article-images/lifestyle/` にキャッシュしてあります（ホットリンク防止）。動画はすべて公式チャンネルの YouTube 標準埋め込みです（交通部高速公路局、公視新聞網）：
+
+- [マッカーサー公路開通式典（ヒーロー画像）](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E7%AC%AC%E4%B8%80%E6%A2%9D%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E2%80%94%E9%BA%A5%E5%85%8B%E9%98%BF%E7%91%9F%E5%85%AC%E8%B7%AF%E9%80%9A%E8%BB%8A%E5%85%B8%E7%A6%AE_01.jpg) — Photo: 台湾新生報, 1964, 国家文化記憶庫, CC BY 4.0
+- [北宜 1 号トンネル掘削機（TBM）本体](https://commons.wikimedia.org/wiki/File:TBM%E5%8C%97%E5%AE%9C1%E8%99%9F%E4%B8%BB%E6%A9%9F.jpg) — Photo: Outlookxp, 2025, Wikimedia Commons, CC BY 4.0
+- [フォルモサ高速公路竹田料金所](https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E7%88%BE%E6%91%A9%E6%B2%99%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF_%E7%AB%B9%E7%94%B0%E6%94%B6%E8%B2%BB%E7%AB%99_-_panoramio.jpg) — Photo: Chi-Hung Lin, 2012, Wikimedia Commons, CC BY-SA 3.0
+- [漢光 35 号演習 彰化戦備道での戦機離着陸](<https://commons.wikimedia.org/wiki/File:05.28_%E7%B8%BD%E7%B5%B1%E8%A6%96%E5%B0%8E%E3%80%8C%E6%BC%A2%E5%85%8931%E8%99%9F%E3%80%8D%E6%BC%94%E7%BF%92%E5%BD%B0%E5%8C%96%E6%88%B0%E5%82%99%E9%81%93%E8%B5%B7%E9%99%8D%E5%AF%A6%E5%85%B5%E6%93%8D%E6%BC%94_(47947904683).jpg>) — Photo: 総統府（撮影 Mori）, 2019, Wikimedia Commons, CC BY 2.0
+
+## 参考資料
+
+[^1]: [CTWANT（2021）：血と涙の雪隧 3／トンネル内で命懸けの状況、華僑エンジニアの一つの行動が300人以上を救う](https://www.ctwant.com/article/144159/) — 記者李承値が機電副主任冷耀東に直接インタビューを行い、1997年12月15日の湧水現場で高圧電源を遮断した第一手の経緯を再現したものであり、「300人の命を奪いかねなかった」という説の最も確実な当事者口述資料である。
+
+[^2]: [交通部高速公路局：国道1号中山高速公路現行情報ページ](https://www.freeway.gov.tw/Publish.aspx?cnid=1906&p=4617) — 公式基本資料ページであり、中山高の起点・終点里程やインターチェンジ数など、本文で引用されている基礎数値の照合に用いる。
+
+[^3]: [ウィキペディア：マッカーサー公路](https://zh.wikipedia.org/zh-tw/%E9%BA%A5%E5%85%8B%E9%98%BF%E7%91%9F%E5%85%AC%E8%B7%AF) — 項目がマッカーサー公路（麥帥公路）の1964年5月2日開通、本線22.65kmと支線0.75km、省政府主席黄杰らによるテープカットなどの基本事実を逐語的に記載している。
+
+[^4]: [StoryStudio ストーリー：台湾が最初の高速公路を建設したのは、極めて先見性のある政策だったのか、それとも偶然の産物だったのか？](https://storystudio.tw/article/gushi/MacArthur-Thruway-from-1960s) — マッカーサー公路の建設費が新台湾ドル2億2,790万円、うち米国援助が1億2,695万円という資金構造を逐語的に記載しており、英文史料と照合してこの数字を裏付けている。
+
+[^5]: [国家発展委員会檔案管理局：マッカーサー公路檔案](https://www.archives.gov.tw/tw/arctw/69-2127.html) — 国立公文書機関が整理したマッカーサー公路の史料で、開通式典と改名の経緯を含み、「元は北基新路であり、マッカーサーの死去により改名された」ことの証拠となる。「1964年4月5日」の死去の正確な日付は[ウィキペディア：ダグラス・マッカーサー](https://zh.wikipedia.org/zh-tw/%E9%81%93%E6%A0%BC%E6%8B%89%E6%96%AF%C2%B7%E9%BA%A6%E5%85%8B%E9%98%BF%E7%91%9F)を参照。
+
+[^6]: [Taipei Times, "Taiwan in Time" (2024/4/28)](https://www.taipeitimes.com/News/feat/archives/2024/04/28/2003817049) — 記者Han Cheungが国立公文書を整理し、マッカーサー公路が意図的に基隆河北岸に新線を設け、南岸の旧路を拡幅しなかったのは、「戦争で一方の道路が破壊されても、もう一方が使えるようにする」ための戦備予備設計であることを逐語的に指摘している。
+
+[^7]: [ウィキペディア：中山高速公路](https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%B1%B1%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF) — 項目には現在の全長374.3km（初期は373.2km、基隆端の700m高架を除く）と記載され、2015年の高雄港連絡高架編入後の終点里程調整についても説明しており、「373対374.3」の複数の数値の相違を明確にする情報源となっている。西螺サービスエリア中沙大橋の碑文「三七三公里」の全文は、[同前註『大道之行』口述印記、許俊逸章節註6、PDF22ページ](https://www.freeway.gov.tw/Upload/201706/%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%EF%BC%88%E4%BB%98%E5%8D%B0%E6%AA%94%EF%BC%890526.pdf)を参照。
+
+[^8]: [交通部高速公路局：『大道之行——中山高速公路建設人員口述印記』附録〈国道1号大事記〉](https://www.freeway.gov.tw/Upload/201706/%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%EF%BC%88%E4%BB%98%E5%8D%B0%E6%AA%94%EF%BC%890526.pdf) — 公式大事記が逐語的に記録している「55年10月、省公路局が『西部幹線新線直達公路計画芻議』を提出し、これが中山高速公路の端緒となった」および「57年1月12日、台湾省政府主席黄杰、経済部長李国鼎、交通部長孫運璿が連席会議を開き、台北-中壢直達公路を優先建設することを決定」は、12年間の意思決定連鎖の出発点となる一次資料である。
+
+[^9]: [聯合報系「報時光」：中山高速公路全線通車 歴史上的今日](https://time.udn.com/udntime/story/122392/7540874) — 公式メディアの歴史コラムで、1971年の起工式が副総統厳家淦によって主催され、サウジアラビア交通次官が来台して開通式に出席したなどの重要な時点を記録している。また『大道之行』公式大事記と照合し、蔣経国が開通式の半年前（1978年5月20日）に行政院長を辞任し総統に就任していたことを確認し、「彼がこの式典を主催しなかった」ことを裏付けている。ネット上で流布している「交通部長林金生がテープカットを主催した」という説については、今回の検証ではいずれの検証可能な情報源にも逐語的な根拠を見つけられなかったため、本文では実名で主催者を特定していない。
+
+[^10]: [交通部高速公路局：『大道之行——中山高速公路建設人員口述印記』附録〈国道1号大事記〉](https://www.freeway.gov.tw/Upload/201706/%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%EF%BC%88%E4%BB%98%E5%8D%B0%E6%AA%94%EF%BC%890526.pdf) — 公式口述歴史専門刊で、日ごとの大事記が1971/8/14厳家淦起工、1978/10/31全線開通、1979/4/19に正式に「中山高速公路」と命名されたことを明確に記録しており、完成と命名が別の日付に属することの一次資料である。
+
+[^11]: [同前註『大道之行』口述印記、王朝生（路権組担当者）章節、PDF100-101ページ](https://www.freeway.gov.tw/Upload/201706/%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%EF%BC%88%E4%BB%98%E5%8D%B0%E6%AA%94%EF%BC%890526.pdf) — 王朝生が路権組設立の背景を口述し、「蔣経国氏が期限付きで着工、完成、開通を要求した」ことが専門用地部門設立の直接の原因であったと記録している。
+
+[^12]: [同前註『大道之行』口述印記、王朝生章節、PDF102-104ページ](https://www.freeway.gov.tw/Upload/201706/%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%EF%BC%88%E4%BB%98%E5%8D%B0%E6%AA%94%EF%BC%890526.pdf) — 王朝生が逐語的に回想する中で、中壢インターチェンジの用地に住む孤独で70代、歩行困難な独居老人が、担当官員の個人的裁量で優遇補償を受け、公用車で移転した経緯が語られている。この当事者の氏名はどの記録にも残されていない。
+
+[^13]: [同前註『大道之行』口述印記、王朝生章節、PDF104ページ](https://www.freeway.gov.tw/Upload/201706/%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%EF%BC%88%E4%BB%98%E5%8D%B0%E6%AA%94%EF%BC%890526.pdf) — 王朝生が逐語的に回想する中で、楊梅インターチェンジの両目が見えず、土地権利がなく、地上物補償金しか受け取れなかった夫婦が、里長が川辺に小屋を建ててくれたおかげで移転できた経緯が語られている。この当事者の氏名も同様にどの記録にも残されていない。
+
+[^14]: [人間福報：南北距離を縮めた中山高速公路（下）](https://www.merit-times.com.tw/NewsPage.aspx?unid=872431) — 中山高速建設期間に「少なからぬ地元住民の抗議を引き起こした」「この高速道路は金持ちを優遇していると批判する声があった」と逐語的に記録しており、『大道之行』陳茂雄章節と相互に裏付け合い、威権時代に中山高速に対する社会的疑問が確かに存在したことを示している。
+
+[^15]: [同前註『大道之行』口述印記、許俊逸章節、PDF21-22ページ](https://www.freeway.gov.tw/Upload/201706/%E5%A4%A7%E9%81%93%E4%B9%8B%E8%A1%8C%EF%BC%88%E4%BB%98%E5%8D%B0%E6%AA%94%EF%BC%890526.pdf) — エンジニア許俊逸が逐語的に口述する、外国人顧問の月給が地元エンジニアの100倍であったこと、「ハンドルを放して車を走らせる」路面検収の土法、および「7年で373.13kmを建設した」といった第一手の工事記憶。
+
+[^16]: [労働部（労働委員会）ニュースリリース（2006/6/7）：労働委員会が雪山トンネル工事の職業災害死亡数を釈明](https://www.mol.gov.tw/1607/1632/1640/14374/post) — 公式ニュースリリースで明確に区分：北宜高速道路全体工事の職業災害死亡者25人、うち雪山トンネル本体13人、南港から坪林区間8人、頭城から蘇澳区間4人、「13であって25ではない」の最も権威ある一次資料。
+
+[^17]: [ウィキペディア：北宜高速道路工事殉職者記念碑](https://zh.wikipedia.org/zh-tw/%E5%8C%97%E5%AE%9C%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%B7%A5%E7%A8%8B%E6%AE%89%E8%81%B7%E4%BA%BA%E5%93%A1%E7%B4%80%E5%BF%B5%E7%A2%91) — 項目には殉職者25人が国籍別に本国籍12人、タイ国籍13人と記載され、「工事区分別」と「国籍別」の二つの切り口でともに13人となるが、指しているのは同一グループではないことを説明するために用いられる。
+
+[^18]: [蘭陽博物館電子版ニュース：雪山トンネル紀事](https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/c5568d79-5166-11eb-b345-2760f1289ae7/) — 政府文化機関の出版物が「TBMが挟まれ埋没した回数も26回」「施工期間中に導坑と主坑の崩落が計64回」と逐語的に記録しており、ウィキペディアの数字と独立に相互検証され「26回」が確立しており、この数字の一次資料となっている。
+
+[^19]: [『経典雑誌』【特集報道】雪山の魔咒 vs. 台湾精神](https://www.rhythmsmonthly.com/?p=4357) — 「13人のトンネル作業員が志半ばで殉職（北宜高速道路全線では計25人）」およびTBMが「雪山山脈の中で寿命を全うした」と逐語的に記録しており、殉職の定義と「現地放棄は技術的限界ではなく意思決定である」という表現を裏付ける。
+
+[^20]: [監察院糾正案文（電子公報システム原本PDF）](https://cybsbox.cy.gov.tw/CYBSBoxSSL/edoc/download/49718) — 監察院の公式公文が遠通電気収費案について「政府調達法が規定する労務調達の性質に近く、BOTの性質とは異なる」と逐語的に認定し、「護航」「徒に業者の暴利を増やす」「政府のイメージを深刻に損なう」といった語句を用いており、本稿で最も重要な一次的な法的定性資料となっている。
+
+[^21]: [PRNewswire：FETCが高速道路局とのパートナーシップを延長](https://www.prnewswire.com/apac/news-releases/fetc-extends-partnership-with-freeway-bureau-for-multi-lane-free-flow-bot-contract-over-10-years-302164718.html) — 遠通電気収費の公式英文ニュースリリースで、元契約が「2025年12月に終了予定」と逐語的に確認できる。「18年4か月」および「2007年8月22日契約締結」の二つの数字の一次資料は次の監察院糾正案文にあり、両資料が相互に一致している。
+
+[^22]: [前掲監察院糾正案文、ETC招商タイムライン段落](https://cybsbox.cy.gov.tw/CYBSBoxSSL/edoc/download/49718) — 案文が2006年最高行政法院による最優申請人資格の取り消し、第二段階選考の再実施、2007年8月22日の再契約で契約期間18年4か月となるまでの全経緯を逐条記録している。
+
+[^23]: [前掲監察院糾正案文、重複引き落とし検証段落](https://cybsbox.cy.gov.tw/CYBSBoxSSL/edoc/download/49718) — 案文に2014年1月の重複引き落としが「121人の車主」に影響したとの公式数字が記載されており、世間で流れる「数件の取引」という規模感を訂正するために用いられる。
+
+[^24]: [ETtodayニュース雲（2014/1/11）：eTag相次ぐ不具合、広報担当：これは宿命](https://www.ettoday.net/news/20140111/315190.htm) — 遠通電気収費の広報担当・周世惠氏の「重複取引はeTagが直面しなければならない宿命であり、我々の挑戦だ」との原発言を逐語的に記録しており、移行期の民怨を引き起こした重要な引用の一次出所となっている。
+
+[^25]: [ウィキペディア：中華民国国道収費員解雇抗争運動](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E9%81%93%E6%94%B6%E8%B2%BB%E5%93%A1%E8%B3%87%E9%81%A3%E6%8A%97%E7%88%AD%E9%81%8B%E5%8B%95) — 収費員942人のうち486人が自主転職、456人が遠通へ転籍との合算可能な内訳を記載；公式の947人という数字は別に[交通部高速道路局：国道収費員転籍説明](https://www.freeway.gov.tw/Publish.aspx?cnid=133)（「高速道路局収費人員計947人全員が精簡」）に見られ、両内訳が併存している。
+
+[^26]: [焦点事件：決戦1219](https://eventsinfocus.org/news/3515) — 自救会会長・孫秀鑾へのインタビューで、1997年入職17年、2014年初めて街頭に立った際の戸惑い、「本当にこの9人のために全てを諦めるのか」などの重要な発言を逐語的に記録している。
+
+[^27]: 2014年10月25日、中壢国道路肩で六歩一跪（ひざまずき）抗議、詳細は[Taipei Times（2014/10/26）：収費員中壢国道抗議報道](https://www.taipeitimes.com/News/taiwan/archives/2014/10/26/2003602958)。11月28日、東湖ETC収費ゲートでの200時間絶食抗議、詳細は[焦点事件抗議年表](https://www.eventsinfocus.org/issues/1930)。
+
+[^28]: [焦点事件：〈君子協議の不履行〉](https://www.eventsinfocus.org/news/3401) — 2016年8月16日「0816会商結論」署名の場で、政務委員・林萬億氏が「政府と遠通の双方が収費員転籍処置に不備があったことを認める」と発言したことを逐語的に記録し、さらに自救会顧問による後続の不履行への指控を記録している。
+
+[^29]: [司法院：台北高等行政法院 106年度訴字第1125号判決ニュースリリース](https://www.judicial.gov.tw/tw/cp-1888-132456-df139-1.html) — 裁判所のニュースリリースが2019年12月19日の判決で自救会が敗訴した理由を逐語的に説明しており、協議手続きの瑕疵から「0816会商結論」が正式な行政契約を構成しないと論証し、孫秀鑾本人の発言を引用して裏付けている。
+
+[^30]: [苦労網（張智琦、2019/12/19）：国道収費員敗訴、蔡英文選対本部に押し入り抗議](https://www.coolloud.org.tw/node/93852) — 現場報道が警察の排除時に「最初に排除されたのが、本部内にいた2社のメディア記者だった（焦点事件記者・王子豪、苦労網特約記者・唐佐欣）」と逐語的に記録しており、両者が記者身分を明かしても強制的に連れ出されたとして、「記者が逆に先に排除された」ことの一次資料となっている。
+
+[^31]: [苦勞網：孫秀鑾投書全文](https://www.coolloud.org.tw/node/93876) — 自救会会長の孫秀鑾が実名で投書し、「司法体系が我々に政府と国民が署名した白紙黒字の約束は通用しないと言った」と逐語的に記しており、敗訴後の当事者の声としての一次資料である。
+
+[^32]: [交通部高速公路局：国道料金収受員の転置説明](https://www.freeway.gov.tw/Publish.aspx?cnid=133) — 公式ページで料金収受員が「1年ごとの雇用契約職員」であることを逐語確認し、雇用契約には距離別電子料金徴収開始後に雇用を終了する旨が明記されている。「政府には配置義務はなく、同情心から転置を支援する」という文言は官方の一貫した立場を要約・整理したもので、逐語的な引用ではない（再確認時にページ上で完全に一致する原文を特定できなかった）、反対側の視点からの一次資料である。
+
+[^33]: [Taipei Times（2015/3/17）：料金収受員が毛治国自宅を奇襲した報道](https://www.taipeitimes.com/News/front/archives/2015/03/17/2003613730) — 国道工程局長の陳彥伯が取材に対し逐語的に「the government would have to spend NT$2.6 billion compensating these former toll fee collectors alone, if it did what they wish」と述べており、「26億元」というコスト試算の一次出所である。
+
+[^34]: [焦点事件：国道料金収受員抗争の宴席報道](https://eventsinfocus.org/node/7147894) — 2024年12月30日に調停が成立、2025年2月15日に高雄で宴席20卓が開かれたこと、「自救会にとって最も楽しい動員だった」など抗争の結末の詳細が逐語的に記載されている。双方が秘密保持協定を締結し金額は非公開とした点については、別途[聯合新聞網の関連報道](https://udn.com/news/story/7321/4235852)を参照。
+
+[^35]: [公視『我們的島』第692回：国道『欺』号](https://ourisland.pts.org.tw/content/455) — 2013年1月28日の調査報道で、老農の王春發が鎮潭宮の王爺に祈り、「一無所有」になると嘆いた原話を逐語的に記録し、また拷潭住民が1-3号線、88快速道路、国道7号の3度にわたる徴収に直面しているという物語の枠組みを伝えている。報道自体にも国道7号の工事費が600億元と記載されており、この数字の一次根拠となっている。
+
+[^36]: [前掲 公視『我們的島』第692回](https://ourisland.pts.org.tw/content/455) — 同報道で、拷潭住民が環保署前で「反国七、怒りは大きい」と抗議した様子、および地政学者の徐世榮が「660億をかけて23キロの道路を建設するのは、道路に黄金を敷き詰めるのと同じだ」と批判した発言を逐語的に記録している。
+
+[^37]: [ウィキペディア：戦備滑走路](https://zh.wikipedia.org/zh-tw/%E6%88%B0%E5%82%99%E8%B7%91%E9%81%93) — 項目で、1978年に蔣経国が視察試験着陸を行った場所が中壢戦備滑走路であり、機種がT-33練習機とF-5戦闘機であったことを逐語的に記載しており、「1978年にF-104が花壇で試験着陸した」というネット上の流布版を否定する根拠となっている。
+
+[^38]: [The National Interest: Taiwanese F-16s can land on highways](https://nationalinterest.org/blog/reboot/no-runway-no-problem-taiwanese-f-16s-can-land-highways-176407) — 国防政策メディアが、台湾には約5本の戦備滑走路があり、規格は約3,000メートル、24〜48時間で飛行場に転換可能であり、その起源が1970年代の十大建設期のインフラ計画にあると報じている。
+
+[^39]: [ウィキペディア：民雄交流道](https://zh.wikipedia.org/zh-tw/%E6%B0%91%E9%9B%84%E4%BA%A4%E6%B5%81%E9%81%93) — 項目に、民雄交流道が民雄戦備滑走路上に建設され、用地取得のために戦備滑走路を南へ2キロ移設し、速やかに取り外し可能な標識と街灯を採用し、2011年12月23日に開通したと記載されている。
+
+[^40]: [公視新聞網（2019/5/28）：漢光35号演習 彰化戦備道実兵操演](https://news.pts.org.tw/article/432940) — 演習当日にF-16V、IDF経国号、ミラージュ2000が順調に離着陸したことを逐語的に報道し、「三軍統帥・蔡英文総統も現地視察した」と記載しており、演習が実際に成功裡に実施され、総統が自ら視察した一次根拠となっている（元々引用していた中央社4月28日の報道は演習1ヶ月前の予告記事であったため、演習当日の結果報道に差し替えた）。
+
+[^41]: [中央社（2025/1/24）：春節連休の輸送ピーク 国道交通管制は1月29日から5日間集中](https://www.cna.com.tw/news/ahel/202501240248.aspx) — 2025年春節について「2月1日（初四）に最大量となり、西部国道で76百万車キロに達する見込み」「平日の約1.6倍」と逐語的に報道しており、高速公路局が「延車キロ」であって「渋滞キロ数」で車流ピークを測っていることを裏付けている。
+
+[^42]: [芋傳媒 TaroNews（中央社供稿、2026/3/6）：国道サービスエリア年収益が初めて60億を突破 清水が首位](https://living.taronews.tw/2026/03/06/1153473/) — 2025年度の15か所の国道サービスエリアの総収益が61.5億元で初めて60億を突破し、清水サービスエリアが10.15億元で首位となった数値を逐語的に記載している。2024年は清水が改修で8か月間休業したため収益が2位となった（5.87億元）、統一超商チームが運営を引き継いだ。詳細は[自由時報：関西サービスエリア5.98億で国道収益首位／清水サービスエリアは昨年の改修期間8か月で収益5.87億に落ち込み2位に](https://news.ltn.com.tw/news/life/paper/1694881)を参照。
+
+[^43]: [交通部高速公路局中区養護工程分局：泰安サービスエリア紹介](https://www.freeway.gov.tw/CentralService/Taian/publish.aspx?NID=2399) — 公式ページで泰安サービスエリアが「国道1号高速道路の中心地点」、158.6キロ地点に位置すると逐語的に明記しており、「国1中心点」が公式な位置づけでありマーケティング用語ではないことを裏付けている。
+
+[^44]: [自由時報（2026/5/10）：国道7号が年内に相次いで着工 重要な2土木標案がまさかの不調](https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5432087) — 記者の洪定宏が、国道7号の全長約23キロ、総事業費1501.7億元、第5および第6標が入札不調となったことを報じており、本文中で最新の国道7号の進捗と事業費高騰の一次資料となっている。
+
+[^45]: [公視『我們的島』第1288回：急速に消える拷潭の菱角田](https://ourisland.pts.org.tw/content/11210) — 2024年12月28日に同じ拷潭村を再訪した報道で、テーマが菱角田と百年古民家の保存に移り、全篇で王春發に言及されておらず、「彼が2013年以降公の視野から消えた」という結びを裏付けている。
