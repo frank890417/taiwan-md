@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T06:35:34+08:00",
-    "zhCommitHead": "f0eee87b5",
+    "lastUpdated": "2026-09-26T07:09:23+08:00",
+    "zhCommitHead": "8824b9be3",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1064,
+        "fresh": 1065,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 58,
+        "missing": 57,
         "orphan": 0
       }
     },
@@ -121818,8 +121818,8 @@
           "sourceContentHash": "sha256:5d4d8978fc43c7cd",
           "sourceBodyHash": "sha256:02c4e1b3fececdae",
           "translatedAt": "2026-09-25T16:58:22+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "8824b9be",
+          "translationLastModified": "2026-09-26T06:35:34+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 35175,
@@ -153748,7 +153748,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/taiwan-breakfast-culture.md",
+          "translatedFrom": "Food/台灣早餐文化.md",
+          "sourceCommitSha": "ee6650052",
+          "sourceContentHash": "sha256:499276bde9de600f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T22:46:09.557973+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 64119,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -200670,8 +200683,8 @@
           "sourceContentHash": "sha256:e70a2042c1d5dde1",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T20:48:49.361570+00:00",
-          "translationLastCommit": "e89394a4",
-          "translationLastModified": "2026-07-28T09:19:57+08:00",
+          "translationLastCommit": "8824b9be",
+          "translationLastModified": "2026-09-26T06:35:34+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "bytes": 41444,
