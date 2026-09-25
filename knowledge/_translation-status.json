@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T00:11:02+08:00",
-    "zhCommitHead": "dfb764164",
+    "lastUpdated": "2026-09-26T00:29:44+08:00",
+    "zhCommitHead": "925ae8c40",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1067,
-        "stale": 14,
+        "fresh": 1068,
+        "stale": 13,
         "metadata_stale": 0,
         "missing": 43,
         "orphan": 0
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1084,
+        "fresh": 1083,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 29,
+        "missing": 30,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1056,
+        "fresh": 1057,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 66,
+        "missing": 65,
         "orphan": 0
       }
     },
@@ -46990,18 +46990,18 @@
         "id": {
           "path": "id/Lifestyle/taiwan-passport.md",
           "translatedFrom": "Lifestyle/中華民國台灣護照.md",
-          "sourceCommitSha": "a6dadd561",
-          "sourceContentHash": "sha256:e8c8c4d3f2a1b9c7",
-          "sourceBodyHash": "sha256:d5e6f7a8b9c0d1e2",
-          "translatedAt": "2026-09-10T04:02:44.035953+08:00",
+          "sourceCommitSha": "d94c908db",
+          "sourceContentHash": "sha256:112b7f69f9a52776",
+          "sourceBodyHash": "sha256:ee5f05761a053be1",
+          "translatedAt": "2026-09-25T16:58:24+08:00",
           "translationLastCommit": "3a2cee9a",
           "translationLastModified": "2026-09-10T04:30:04+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 34450,
+          "bytes": 34116,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-passport.md",
@@ -167697,8 +167697,8 @@
           "sourceContentHash": "sha256:3d54c34f765113cd",
           "sourceBodyHash": "sha256:fa292335dae74f0c",
           "translatedAt": "2026-09-25T16:58:30+08:00",
-          "translationLastCommit": "360bb166",
-          "translationLastModified": "2026-08-04T23:18:22+08:00",
+          "translationLastCommit": "925ae8c4",
+          "translationLastModified": "2026-09-26T00:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 39798,
@@ -180110,8 +180110,8 @@
           "sourceContentHash": "sha256:cfc5c04e9673e1a1",
           "sourceBodyHash": "sha256:27b8803688951c5a",
           "translatedAt": "2026-09-25T16:58:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "925ae8c4",
+          "translationLastModified": "2026-09-26T00:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 42858,
@@ -188331,20 +188331,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-25T16:58:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 38329,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "de": {
           "status": "missing"
@@ -216118,7 +216105,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/bamboo-hat-craft.md",
+          "translatedFrom": "Culture/斗笠.md",
+          "sourceCommitSha": "172e37b14",
+          "sourceContentHash": "sha256:79bdc16e1c9ab31c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T15:45:58.106526+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "bytes": 48543,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
