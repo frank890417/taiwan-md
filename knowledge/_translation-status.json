@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T16:07:37+08:00",
-    "zhCommitHead": "65135d28b",
+    "lastUpdated": "2026-09-25T16:57:51+08:00",
+    "zhCommitHead": "dd70f0ffd",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1041,
+        "fresh": 1048,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 81,
+        "missing": 74,
         "orphan": 0
       }
     },
@@ -19433,8 +19433,8 @@
           "sourceContentHash": "sha256:012f47b06c66bfb9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T07:13:11.090448+00:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "dd70f0ff",
+          "translationLastModified": "2026-09-25T16:07:37+08:00",
           "inferred": false,
           "footnoteDefs": 64,
           "bytes": 69760,
@@ -23012,7 +23012,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-vr-metaverse-rise-and-fall.md",
+          "translatedFrom": "Technology/台灣VR元宇宙興衰史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:dcdc411ac65fa741",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T08:38:16.632760+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "bytes": 31018,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -23829,8 +23842,8 @@
           "sourceContentHash": "sha256:bbdb130f551a69e8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T07:12:32.737131+00:00",
-          "translationLastCommit": "dcb7eb53",
-          "translationLastModified": "2026-09-22T01:05:35+08:00",
+          "translationLastCommit": "dd70f0ff",
+          "translationLastModified": "2026-09-25T16:07:37+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "bytes": 158587,
@@ -26435,8 +26448,8 @@
           "sourceContentHash": "sha256:0679bda8106e31fc",
           "sourceBodyHash": "sha256:b5c758f914dccaf4",
           "translatedAt": "2026-09-25T07:21:36.020627+00:00",
-          "translationLastCommit": "488bca45",
-          "translationLastModified": "2026-08-29T08:54:17+08:00",
+          "translationLastCommit": "dd70f0ff",
+          "translationLastModified": "2026-09-25T16:07:37+08:00",
           "inferred": false,
           "footnoteDefs": 47,
           "bytes": 53141,
@@ -31180,7 +31193,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/tale-of-wuxia-pre-sequel.md",
+          "translatedFrom": "Technology/活俠傳.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5d8fd5b2e9fb7126",
+          "sourceBodyHash": "sha256:05a2488db4c17ec6",
+          "translatedAt": "2026-09-25T15:42:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 13125,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -54840,8 +54866,8 @@
           "sourceContentHash": "sha256:caaea3b8ab3896dc",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T06:37:32.983489+00:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "dd70f0ff",
+          "translationLastModified": "2026-09-25T16:07:37+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "bytes": 69293,
@@ -60776,8 +60802,8 @@
           "sourceContentHash": "sha256:79a50a0770daf955",
           "sourceBodyHash": "sha256:725b400b5a230de4",
           "translatedAt": "2026-09-25T06:36:38.980134+00:00",
-          "translationLastCommit": "43cccd9b",
-          "translationLastModified": "2026-08-22T22:29:43+08:00",
+          "translationLastCommit": "dd70f0ff",
+          "translationLastModified": "2026-09-25T16:07:37+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 111388,
@@ -95644,7 +95670,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/che-yu-wu.md",
+          "translatedFrom": "People/吳哲宇.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ac5cbabad7f0e8a5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T08:36:40.937122+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 69716,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -121398,8 +121437,8 @@
           "sourceContentHash": "sha256:5d4d8978fc43c7cd",
           "sourceBodyHash": "sha256:02c4e1b3fececdae",
           "translatedAt": "2026-09-25T14:32:56+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "dd70f0ff",
+          "translationLastModified": "2026-09-25T16:07:37+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 34938,
@@ -150681,7 +150720,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/mingjian-puchung-tea.md",
+          "translatedFrom": "Food/名間埔中茶.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4ee811968726954e",
+          "sourceBodyHash": "sha256:eac4101c04e140f1",
+          "translatedAt": "2026-09-25T15:42:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "bytes": 11519,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -152856,12 +152908,12 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-23T09:13:10.339614+00:00",
+          "translatedAt": "2026-09-25T08:26:38.422371+00:00",
           "translationLastCommit": "44b841d7",
           "translationLastModified": "2026-09-23T17:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 30734,
+          "bytes": 31306,
           "armorResidue": 0,
           "status": "stale",
           "reason": "sha-lost-hash-mismatch"
@@ -152899,8 +152951,8 @@
           "sourceContentHash": "sha256:83fd36c7a8a59ff5",
           "sourceBodyHash": "sha256:a8b22a0fba5539c1",
           "translatedAt": "2026-09-25T14:32:56+08:00",
-          "translationLastCommit": "dcb7eb53",
-          "translationLastModified": "2026-09-22T01:05:35+08:00",
+          "translationLastCommit": "dd70f0ff",
+          "translationLastModified": "2026-09-25T16:07:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 11186,
@@ -186461,7 +186513,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/new-taipei-city.md",
+          "translatedFrom": "Geography/新北市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7893a2743008a706",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T08:38:26.182285+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 82252,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -187803,7 +187868,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/miaoli-county.md",
+          "translatedFrom": "Geography/苗栗縣.md",
+          "sourceCommitSha": "8d4f4b434",
+          "sourceContentHash": "sha256:3629b92a875681ab",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T08:47:19.519147+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "bytes": 61370,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -192885,7 +192963,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/yunlin-county.md",
+          "translatedFrom": "Geography/雲林縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:189f50627b664502",
+          "sourceBodyHash": "sha256:7144cde6e4cd475f",
+          "translatedAt": "2026-09-25T16:07:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "bytes": 58592,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
