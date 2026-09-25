@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T23:04:08+08:00",
-    "zhCommitHead": "555f40920",
+    "lastUpdated": "2026-09-25T23:28:14+08:00",
+    "zhCommitHead": "82512e65b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1040,
+        "fresh": 1041,
         "stale": 37,
         "metadata_stale": 0,
-        "missing": 47,
+        "missing": 46,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1102,
-        "stale": 15,
+        "fresh": 1103,
+        "stale": 14,
         "metadata_stale": 0,
         "missing": 7,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1065,
+        "fresh": 1066,
         "stale": 15,
         "metadata_stale": 0,
-        "missing": 44,
+        "missing": 43,
         "orphan": 0
       },
       "pt": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1083,
+        "fresh": 1084,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 30,
+        "missing": 29,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1055,
+        "fresh": 1056,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 67,
+        "missing": 66,
         "orphan": 0
       }
     },
@@ -18982,8 +18982,8 @@
           "sourceContentHash": "sha256:24e5d0eeeb829e10",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T13:14:56.857163+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "82512e65",
+          "translationLastModified": "2026-09-25T23:04:08+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "bytes": 58784,
@@ -26495,20 +26495,18 @@
         "ko": {
           "path": "ko/Technology/taiwan-online-community-migration.md",
           "translatedFrom": "Technology/台灣網路社群遷徙史.md",
-          "sourceCommitSha": "d968559a",
-          "sourceContentHash": "sha256:27a0271b143d3da5",
-          "sourceBodyHash": "sha256:51c89f4d74696613",
-          "translatedAt": "2026-06-16T18:18:20Z",
+          "sourceCommitSha": "56f4d6f85",
+          "sourceContentHash": "sha256:0679bda8106e31fc",
+          "sourceBodyHash": "sha256:b5c758f914dccaf4",
+          "translatedAt": "2026-09-25T15:07:10.001270+00:00",
           "translationLastCommit": "b771a201",
           "translationLastModified": "2026-07-31T14:16:41+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "bytes": 48643,
+          "bytes": 49266,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-online-community-migration.md",
@@ -61505,8 +61503,8 @@
           "sourceContentHash": "sha256:75def73de8a38979",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T13:54:34.409049+00:00",
-          "translationLastCommit": "3c20aad3",
-          "translationLastModified": "2026-09-22T00:49:37+08:00",
+          "translationLastCommit": "82512e65",
+          "translationLastModified": "2026-09-25T23:04:08+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 56418,
@@ -70377,7 +70375,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-sports-olympics.md",
+          "translatedFrom": "Society/台灣體育發展與奧運.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:a575707a54edea46",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T15:15:01.711807+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 55,
+          "bytes": 37920,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-sports-olympics.md",
@@ -86208,7 +86219,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Nature/mikado-pheasant.md",
+          "translatedFrom": "Nature/帝雉.md",
+          "sourceCommitSha": "0b38889d6",
+          "sourceContentHash": "sha256:585807acc89b5597",
+          "sourceBodyHash": "sha256:f114fc7180bbb45a",
+          "translatedAt": "2026-09-25T16:58:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "bytes": 21865,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Nature/mikado-pheasant.md",
@@ -145873,7 +145897,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/wu-ming-yi.md",
+          "translatedFrom": "People/吳明益.md",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:55029350d5152d22",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T15:03:22.085785+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 47954,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -188268,7 +188305,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-25T16:58:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 38329,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
