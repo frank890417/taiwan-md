@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T20:33:36+08:00",
-    "zhCommitHead": "da0e508ac",
+    "lastUpdated": "2026-09-25T20:44:26+08:00",
+    "zhCommitHead": "3688e1b26",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1092,
-        "stale": 23,
+        "fresh": 1093,
+        "stale": 22,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1109,
-        "stale": 8,
+        "fresh": 1110,
+        "stale": 7,
         "metadata_stale": 0,
         "missing": 7,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1093,
-        "stale": 12,
+        "fresh": 1094,
+        "stale": 11,
         "metadata_stale": 0,
         "missing": 19,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1051,
+        "fresh": 1052,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 71,
+        "missing": 70,
         "orphan": 0
       }
     },
@@ -54192,18 +54192,18 @@
         "vi": {
           "path": "vi/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "25b97c085",
-          "sourceContentHash": "sha256:cfeed87bcc86a207",
-          "sourceBodyHash": "sha256:761ccd3c7cd0d390",
-          "translatedAt": "2026-09-09T11:45:55+08:00",
+          "sourceCommitSha": "c0061c6df",
+          "sourceContentHash": "sha256:62a0444682031043",
+          "sourceBodyHash": "sha256:f0ac4cd7b2bc3b4c",
+          "translatedAt": "2026-09-25T16:58:24+08:00",
           "translationLastCommit": "2fd584d5",
           "translationLastModified": "2026-09-10T00:09:11+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 43490,
+          "footnoteDefs": 26,
+          "bytes": 50939,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (26→21)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/mascot-culture-in-taiwan.md",
@@ -60858,8 +60858,8 @@
           "sourceContentHash": "sha256:79a50a0770daf955",
           "sourceBodyHash": "sha256:725b400b5a230de4",
           "translatedAt": "2026-09-25T11:22:32.350913+00:00",
-          "translationLastCommit": "8c2e0fd9",
-          "translationLastModified": "2026-09-22T00:49:58+08:00",
+          "translationLastCommit": "3688e1b2",
+          "translationLastModified": "2026-09-25T20:33:37+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 96609,
@@ -60902,20 +60902,18 @@
         "es": {
           "path": "es/Society/delivery-platform-law.md",
           "translatedFrom": "Society/外送專法.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:2226f6ae85580ba3",
-          "sourceBodyHash": "sha256:9aa85b1a3d34de72",
-          "translatedAt": "2026-07-31T15:19:03Z",
+          "sourceCommitSha": "83975eef3",
+          "sourceContentHash": "sha256:79a50a0770daf955",
+          "sourceBodyHash": "sha256:725b400b5a230de4",
+          "translatedAt": "2026-09-25T12:34:56.596642+00:00",
           "translationLastCommit": "d4fbd82d",
           "translationLastModified": "2026-08-01T00:06:59+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 116771,
+          "bytes": 116839,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/delivery-platform-law.md",
@@ -60957,20 +60955,18 @@
         "pt": {
           "path": "pt/Society/delivery-platform-law.md",
           "translatedFrom": "Society/外送專法.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:2226f6ae85580ba3",
-          "sourceBodyHash": "sha256:9aa85b1a3d34de72",
-          "translatedAt": "2026-09-09T15:25:08+08:00",
+          "sourceCommitSha": "83975eef3",
+          "sourceContentHash": "sha256:79a50a0770daf955",
+          "sourceBodyHash": "sha256:725b400b5a230de4",
+          "translatedAt": "2026-09-25T12:44:07.350530+00:00",
           "translationLastCommit": "26d3f390",
           "translationLastModified": "2026-09-22T00:53:27+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 112382,
+          "bytes": 112136,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -142773,7 +142769,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/lee-yang-badminton.md",
+          "translatedFrom": "People/李洋.md",
+          "sourceCommitSha": "fef3e1199",
+          "sourceContentHash": "sha256:d21eaa1c32fc46c9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T12:24:05.485178+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 54343,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -153001,12 +153010,12 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-24T16:20:19.132967+00:00",
+          "translatedAt": "2026-09-25T12:20:41.695667+00:00",
           "translationLastCommit": "c203fe14",
           "translationLastModified": "2026-09-25T01:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 46415,
+          "bytes": 47142,
           "armorResidue": 0,
           "status": "stale",
           "reason": "sha-lost-hash-mismatch"
@@ -211306,8 +211315,8 @@
           "sourceContentHash": "sha256:82a373ca1ee51cf4",
           "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
           "translatedAt": "2026-09-25T16:58:19+08:00",
-          "translationLastCommit": "25b97c08",
-          "translationLastModified": "2026-09-05T17:28:09+08:00",
+          "translationLastCommit": "3688e1b2",
+          "translationLastModified": "2026-09-25T20:33:37+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 15093,
