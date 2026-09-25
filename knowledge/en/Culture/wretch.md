@@ -1,249 +1,271 @@
 ---
-title: 'Wretch: Picked‑up Computers, Sold‑off Youth, and a Disappearance No One Mourned'
-description: 'In 1999 at NCTU dorms, six computer‑science students cobbled together a BBS called “Wretch” from the department’s discarded equipment. It grew into Taiwan’s largest blog platform and the cradle of the first generation of creators; in March 2008 it even topped Yahoo to become the top site in Taiwan. Then Yahoo bought it, and on the night of 26 December 2013 it was deleted along with a generation’s photo albums; today most people can only retrieve empty, unopenable albums. It is remembered as youth, yet that youth was from the start stored on a server whose power could be turned off by someone else.'
+title: 'Nameless Station: Borrowed Computers, Sold Youth, and a Disappearance Without a Funeral'
+description: 'In 1999, in a university dormitory, six computer science students cobbled together a BBS called "Nameless" using decommissioned departmental equipment. It grew into Taiwan''s largest blog and the cradle of Taiwan''s first generation of creators, even becoming the biggest site after surpassing Yahoo in 2008. Then Yahoo bought it, and on the night of December 26, 2013, it deleted along with a generation''s photo albums. Today, most people can only recover empty albums that won''t open. It is remembered as youth, but that youth was always hosted on a server someone else could shut down.'
 date: 2026-03-23
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '網路文化'
 tags:
-  - '網路歷史'
-  - '社群媒體'
-  - 'BBS'
-  - '部落格'
-  - 'Yahoo併購'
-  - '數位保存'
+  [
+    'internet history',
+    'social media',
+    'BBS',
+    'blog',
+    'Yahoo acquisition',
+    'digital preservation',
+  ]
+subcategory: '網路文化'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-14
 lastHumanReview: false
-featured: false
-translatedFrom: 'Culture/無名小站.md'
-sourceCommitSha: 'd40e5042'
-sourceContentHash: 'sha256:1d592674c8a22f46'
-sourceBodyHash: 'sha256:74e768331f7f3a8b'
-translatedAt: '2026-06-17T01:18:25+08:00'
+researchReport: 'reports/research/2026-06/無名小站.md'
 image: '/article-images/culture/wretch-downtime-notice-2005.webp'
+imageAlt: 'A screenshot of the Nameless Station upgrade hardware shutdown announcement opened with Internet Explorer in 2005'
 imageCredit: 'Alan Sung'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Wretch_notice_(24364911).jpg'
+rationale:
+  why_this_hook: '撿來的報廢電腦 ×「電源」母題：從可隨手關的電源，到 Yahoo 替簡志宇按下開關（2013/12/26），貫穿全文並收回當代（你的 IG／FB 也插在別人的電源上）。'
+  whats_excluded: '無名相簿正妹文化的物化批評只點到為止（避免重現物化、「黑歷史」一詞會輕巧化性別暴力）；泛華語圈（香港／馬來西亞）使用未獲一手佐證且 2007 年起遭 GFW 封鎖，故不納入「華語圈共同記憶」框架；簡志宇以外五位創辦人後續人生未深寫（篇幅 scope）。'
+  where_it_hedges: '七億金額官方從未公開（媒體推算 US$2200 萬）；賈文中 49%／進帳 3 億僅遠見單一來源；「打不過就買」明標為評論而非 Yahoo 官方理由；2025 wretch_1999 標為疑似粉絲自製；2007/4/14 密碼相簿全開一手新聞存檔已佚、經維基百科轉引 PTT 討論。'
+  whos_pushing_back: '朱學恆（2006「Do No Evil 反面教材」）、立委唐火生（2007 質詢公器私用 TANet 學術網路）、數位人權視角（個資歸屬與零國家級保存）、對「青春記憶」懷舊濾鏡掩蓋密碼相簿全開與女性物化的批評。'
+sporeLinks:
+  - id: 138
+    platform: 'threads'
+    date: '2026-06-14'
+    url: 'https://www.threads.com/@taiwandotmd/post/DZjeLZgE-AY'
+  - id: 139
+    platform: 'x'
+    date: '2026-06-14'
+    url: 'https://x.com/taiwandotmd/status/2066024659238465719'
+relatedDiary: ['2026-06-14-154636-無名小卒勘誤']
+translatedFrom: 'Culture/無名小站.md'
+sourceCommitSha: 'b67b190fb'
+sourceContentHash: 'sha256:bb3880571afae296'
+translatedAt: '2026-09-25T17:08:06.024030+00:00'
 ---
 
-# Wretch: Picked‑up Computers, Sold‑off Youth, and a Disappearance No One Mourned
+# Wretch: The Computer That Was Rescued, The Youth That Was Sold, and a Disappearance With No Funeral
 
-> **30‑second overview:** Wretch was born in 1999 in a dormitory at National Chiao‑Tung University, where six computer‑science students cobbled together a BBS from the department’s discarded equipment and self‑deprecatingly named it “Wretch.” Within a decade it became Taiwan’s largest blog platform and the cradle of the island’s first creator economy; in March 2008 it even surpassed Yahoo to become the top site in Taiwan, with 2.5 million members, 1.2 million daily visits, and 500 million photos. Yet it had been bought by Yahoo back in 2007, and on the night of 26 December 2013 it was permanently deleted. Today, most people who try to retrieve their old albums via the Wayback Machine only get a grid of empty, unopenable frames. We remember it as “youth,” but we rarely recall that that youth was, from day one, stored on a server whose power could be turned off by someone else.
+> **30-Second Summary:** Wretch was born in a dormitory at National Taiwan University in 1999. Six computer science students cobbled it together using decommissioned equipment from their department, jokingly naming it "Wretch" (Nameless). Within ten years, it grew into the largest blogging platform in Taiwan and a cradle of the Taiwanese creator economy. In March 2008, it even surpassed Yahoo to become the biggest website in Taiwan, boasting 2.5 million members, 1.2 million daily visits, and 500 million photos. Yet, it was bought by Yahoo as early as 2007 and permanently deleted on the night of December 26, 2013. Today, when searching with the Wayback Machine, most people recover empty albums that cannot be opened page by page. We remember it as "youth," but we rarely recall this: that youth was placed on a server from day one that someone could shut down at any time.
 
-Wretch’s story is often told as a warm‑hearted nostalgic vignette: the youth of the “seventh‑ and eighth‑grade generation,” password‑protected photo albums and “who’s coming over?” messages, a pre‑algorithm era of innocence. That version is not wrong, but it filters out the most crucial element.
+The story of Wretch is usually told like a heartwarming nostalgic film: it was the youth of seventh and eighth graders, the era of photo album passwords and "who's coming to my house," a pure age before algorithms took hold. This version isn't wrong, but it filters out the most critical thing.
 
-This article puts that element back. It is not merely the rise and fall of a piece of hardware; it is the first time a generation handed its most private memories over to a switch it could not turn off, and that switch was eventually pressed.
+This article wants to put that thing back. It is not just the rise and fall of a machine; it is a generation entrusting their most private memories to a switch they could neither turn off nor save. And that switch was finally flipped.
 
 ```tw-figure
-5 billion → 0
-Number of photos at Wretch’s peak versus the images that can generally be recovered from the Wayback Machine after the shutdown
-Taiwan Panorama Magazine 2006 / Wayback Machine
+500 million photos → 0
+The number of photos at Wretch's peak, compared to the images generally recovered from Wayback after its closure
+Taiwan Guanghua Magazine 2006 / Wayback Machine
 ```
 
-## Picked‑up Discarded Computers and a Site Called “Wretch”
+## The Scrap Computer and a Site Called "No Name"
 
-1999, Hsinchu, National Chiao‑Tung University dormitory. Six computer‑science students—Jian‑Chih Yu, Wei‑Kai Wu, Hong‑Chuan Lin, Chien‑Hsi Chiu, Wei‑Cheng Pan, and Hsuan‑Yun Chen, all teaching assistants in the department’s computing center—set up a BBS[^1]. At the time, this was nothing extraordinary; almost every engineering department in Taiwan ran a BBS. What was special was where the hardware came from.
+In 1999, within the dormitories of National Taiwan University in Hsinchu. Six students from the Information Engineering department (Jian Chi-yu, Wu Wei-kai, Lin Hong-quan, Chiu Chien-hi, Pan Wei-cheng, and Chen Hsien-yun, all TAs from the same department's computing center) set up a BBS site [^1]. In that era, this was not an extraordinary feat; almost every science and engineering department in Taiwan had someone playing with BBS. What was truly special was where the hardware came from.
 
-> “At the time we had to cope with ever‑increasing system load, so we spent all day collecting the department’s discarded equipment and cobbled together a usable machine,” founder Jian‑Chih Yu later recalled[^2]. A reporter for _Taiwan Panorama_ described it even more bluntly: some said Wretch was founded on “picking up junk.” That may be an exaggeration, but the site was indeed built from old, decommissioned gear[^3]. The machine’s simplest characteristic was that you could turn the power off at any time. If you didn’t want to play, just pull the plug—no one objected. That detail seems trivial now, but eight years later it became the story’s axis.
+"At the time, to cope with the constantly rising system load, we spent all day collecting scrapped equipment from the department and cobbled it together into usable hardware," Jian Chi-yu later recalled [^2]. A reporter for _Taiwan Guanghua Magazine_ described this more plainly: some said No Name Site started by "picking up junk." While perhaps an exaggeration, it was indeed set up using old, discarded equipment from the department [^3]. The most basic characteristic of a machine pieced together from parts others didn't want was that you could turn off the power at any time. If they didn't want to play anymore, they just pulled the plug, and no one objected. This detail seems insignificant now, but it would become the axis of the entire story eight years later.
 
-As for the name, they self‑deprecatingly called it “Wretch,” which later became the familiar _Wretch_ site. “We were all nameless foot soldiers, with no grand ambitions at the start,” Yu said[^4]. In the late‑1990s Taiwan, doing anything on the Internet sounded suspicious. “Starting a venture was already heretical; doing it online made you a lunatic,” he later described the atmosphere[^5]. A group of self‑identified lunatics, on a salvaged computer, planted something that would later be remembered by more than twenty‑million people.
+As for the name, they jokingly called it "No Name," which is what everyone later knew as No Name Site. "We were all nobodies with no grand ambitions at first," said Jian Chi-yu [^4]. In late 20th-century Taiwan, being in the internet business sounded suspicious. "Entrepreneurship itself was unorthodox; if you did the internet, you were crazy," he described the atmosphere in interviews many years later [^5]. A group of nobodies, viewed as madmen, planted something on a salvaged computer that would later be remembered by over twenty million people.
 
-![South gate of NCTU’s Kuang‑Fu campus. Wretch was born in 1999 in a NCTU dormitory, where six computer‑science teaching assistants cobbled together a BBS from discarded equipment](/article-images/culture/nctu-kuangfu-campus-south-gate.webp)
+![South Gate Campus of National Taiwan University. No Name Site was born in the dormitories of NTU in Hsinchu in 1999, with six Information Engineering TAs piecing together a BBS from scrapped department equipment](/article-images/culture/nctu-kuangfu-campus-south-gate.webp)
 
-## “Who’s Coming Over?”: Turning “Being Seen” into Intimacy
+## Who Came to My House: Taiwanese Turned "Being Seen" into an Intimacy
 
-Wretch truly began to expand the moment it sprouted a blog function. On 28 October 2003 the blog feature officially launched[^6]. It stitched together three trendy services under one account: a personal blog (not a “personal news channel,” which was a PChome brand), password‑protected photo albums, and a comment board where everyone could decorate their own corner.
+No Name Site truly began to expand when it evolved from a BBS into a blogging platform. On October 28, 2003, the blog function was officially released[^6]. It stitched together three of the hottest trends at the time under one account: personal blogs that could write long-form content (not "personal news agency," which is PChome's brand), password-protected online photo albums, and a comment section where everyone could decorate their corner in a way unique to them.
 
-![Login screen of a Taiwanese campus BBS (image from PTT, part of the late‑1990s BBS generation). Wretch originally ran on an academic network before adding photo albums and blogs](/article-images/culture/bbs-login-screen-ptt.webp)
+![A screenshot of a Taiwanese campus BBS login screen (the image is from PTT, belonging to the late 1990s BBS generation like No Name Site). No Name Site was originally a BBS on an academic network before it developed photo albums and blogs](/article-images/culture/bbs-login-screen-ptt.webp)
 
-The most “Taiwan‑flavored” feature was “Who’s Coming Over?” It recorded every visitor to your page, leaving a trail of footprints. In the West, exposing “who has viewed my page” would likely scare privacy‑concerned users away—a surveillance anxiety that even Facebook and Instagram still avoid. In Taiwan, however, it became a form of digital intimacy: you know the crush who dropped by your album at 11 p.m., you know which old friend silently revisited your space. Being seen turned into evidence of being cared about.
+What best illustrates the Taiwanese flavor was the "Who Came to My House" feature. It recorded every person who visited your page, leaving a trail of visitor footprints. In the West, putting "Who viewed me" out in the open would likely scare away privacy-conscious users; it represented an anxiety of being monitored. Later, Facebook and Instagram were also hesitant to implement a "who viewed your page" feature because they feared this very anxiety. But in Taiwan, it became a form of digital intimacy: you knew that the crush who liked you visited your album last night at eleven o'clock, or you knew which old friend had silently checked on you. Being seen here became proof of being cared for.
 
-The same logic extended to password‑protected albums. Locking photos and privately sharing the password was a small trust ceremony: giving someone the password meant inviting them into your inner circle. For that generation, “being seen,” originally risky, was translated by Wretch into warmth. This is the most nostalgic, most amplified part of the story. Yet that very unguarded intimacy makes the next point brutally cruel: the more you hand over, the more you stand to lose.
+The same design logic extended to password-protected albums. Locking photos and giving the password privately to specific people was itself a small ritual of trust: who you gave the password to meant declaring who was in your inner circle. For that generation of Taiwanese, this matter of "being seen," which originally carried risk, was translated by No Name into a kind of warmth. This is the most charming part of No Name, and the part most easily magnified by nostalgic filters. Yet, it is precisely this unguarded intimacy that makes what follows seem particularly cruel: the more you gave away, the more you ultimately lost.
 
-> 💡 **Did you know?**  
-> “Photo‑album passwords” were the hard currency of Taiwanese online social life. Who got the password and who didn’t drew concentric circles of relationships. The hidden premise no one thought about then was that the lock was never in your own hands. The lock lived on the server, and the ultimate key was controlled by the platform. On 14 April 2007 Wretch’s password‑protected album was briefly “fully opened” due to a system glitch; all locked private photos were exposed, and the platform blamed “system maintenance”[^7]. The so‑called “private album” was never truly private.
+> 💡 **Did You Know**
+> "Password-protected albums" were a hard currency in Taiwanese online socializing back then. Who you gave the password to, and who you didn't, was equivalent to drawing concentric circles of relationships. But there was an underlying premise we never thought about: that lock was never kept solely by you. It was on the server, and the ultimate control over the key rested with the platform. On April 14, 2007, No Name’s password albums were "fully exposed" once; all locked private photos were publicly revealed due to a system anomaly, which the official explanation attributed to "system maintenance"[^7]. A so-called "private album" was never truly private.
 
-By 2006 Wretch had become Taiwan’s second‑largest website, behind Yahoo! Kimo. According to the InsightXplorer ARO non‑unique reach metric, its reach rate hit 63.81%, with over 6.5 million unique monthly visitors[^8]. Over 2.5 million registered members, 500 million photos, more than 5 000 blogs, and 1.2 million daily visits[^3]. A dorm‑room BBS had, within seven years, become the default homepage for an entire generation’s online life. The membership growth curve mirrors the collective migration of Taiwan’s youth onto the web.
+By 2006, No Name was the second-largest website in Taiwan, only behind Yahoo Kimo. According to Unique Visitors from Startup InsightXplorer ARO, its reach surged to 63.81%, with over 6.5 million unique visitors per month[^8]. With over 2.5 million registered members, 500 million photos, and more than 5,000 blogs, it attracted 1.2 million visits daily[^3]. Something that grew out of a dormitory BBS had become the default homepage for an entire generation when they came online in seven years. The growth curve of membership numbers is almost a time-lapse video of this generation collectively moving onto the internet.
 
 ```tw-stat
-200 k | Registered members | November 2004
-2.8 M | Registered members | October 2006
-3.0 M | Registered members | July 2007
+200k | Registered Members | November 2004
+2.8M | Registered Members | October 2006
+3M | Registered Members | July 2007
 ```
 
-## The Ten‑Million Investment and the Unpublicized NT$700 Million Deal
+## Jia Wenzhong's Ten Million and the Unannounced Seven Hundred Million
 
-When the platform reached that scale, the “picking up junk” romance could no longer sustain it. Yu later described the turning point clearly: “We have to take responsibility for this site; we can’t just turn the power off like before.”[^4] This was the first moment anyone sensed the weight of the power switch. From a machine you could unplug at will to a platform responsible for millions, Wretch was shifting from a student project to a business that needed money, shareholders, and accountability.
+At this scale, the romance of picking up scraps could not hold on. Jian Zhiyu later explained this turning point clearly: "We have to be responsible for this small site; we can no longer just shut down the host power like before."[^4] This was the first time in the entire story that someone realized the weight of that power switch. From a salvaged computer that could be turned off at will, No Name Site was transforming from a student project into a business that required money, shareholders, and "responsibility."
 
-The money came from angel investor Chia‑wen Chia. In 2005 he invested NT$10 million as an angel round and later led the negotiations with Yahoo. In March of that year Wretch Co., Ltd. was incorporated with a capital of NT$20 million, and the founding team retained a 51 % technical stake[^9]. _Vision_ magazine reported that Chia held 49 % and personally earned over NT$300 million, but that share‑holding figure appears only in _Vision_; other media have not corroborated it[^10].
+The money came from Jia Wenzhong, a stock market figure. In 2005, he entered as an angel investor with ten million New Taiwan Dollars and later led negotiations with Yahoo. In March of the same year, No Name Site Co., Ltd. was established with a capital of twenty million, and the founding team held a 51% stake through technical investment[^9]. According to _Yuanjian Magazine_, Jia Wenzhong held 49%, ultimately earning over three hundred million personally, but this shareholding ratio is only cited by _Yuanjian_; other media have not verified it[^10].
 
-On 14 December 2006 Yahoo! Kimo announced the acquisition of Wretch[^11]. The following year, on 29 March, the Fair Trade Commission ruled in its 803rd meeting that the merger would not be prohibited, granting Yahoo 100 % ownership[^12]. The most quoted figure for the deal is “NT$700 million,” but that number carries a question mark. Yahoo! Kimo’s managing director Tsou Kailian never confirmed the amount; TVBS reported a rumor of “US$22 million, roughly NT$7.11 billion”[^13]. English‑language outlet InfoWorld simply stated, “Terms of the deal were not disclosed.”[^14] In other words, the amount that made Wretch a landmark Taiwanese M&A has never been officially disclosed. The “NT$700 million” we remember is a media estimate, not a confirmed figure.
+On December 14, 2006, Yahoo Kimo announced the acquisition of No Name Site[^11]. On March 29 of the following year, the Fair Trade Commission ruled in its 803rd meeting that "the combination is not prohibited," and Yahoo acquired 100% of No Name's shares[^12]. The most celebrated figure from the entire deal was "seven hundred million NTD," but this number must be questioned honestly. Tsou Kai-lien, the general manager of Yahoo Kimo, never directly confirmed the amount. A TVBS report at the time stated that "the rumored acquisition price reached 22 million USD, equivalent to approximately 71.1 million NTD"[^13]. The English media outlet InfoWorld was more direct: "The parties did not disclose the terms of the transaction."[^14] In other words, the amount that made No Name Site a famous M&A case in Taiwan's internet history has never been disclosed officially to this day. The "seven hundred million" we remember is an estimation by the media, not a figure agreed upon by both parties.
 
-Why did Yahoo want to buy? The popular slogan “If you can’t beat them, buy them” is catchy but it is commentary, not Yahoo’s official rationale. Tsou Kailian gave a more nuanced answer: “By combining Yahoo’s technology, our massive traffic, and the content Wretch had already generated, the two sides can multiply each other and take the service to the next stage.”[^15] Of course, “multiply” is the polished PR line for a merger; if we translate it literally to “if you can’t beat them, buy them,” we are attributing a line to Yahoo that it never said. The truth likely lies between: Fair Trade data showed Yahoo held about 60 % of the portal market, while its own blog platform had only 1.6 % market share[^12]. Yahoo could not overtake Wretch, but it framed the move as synergy rather than surrender.
+As for why Yahoo wanted to buy it, the most popular rumor was "buy you because I can't beat you." This phrase is catchy, but it is commentary, not Yahoo's official reason. The version given by Tsou Kai-lien was multiplicative: "Utilizing Yahoo's technology, our large traffic, and the content No Name Site has already generated, how we multiply both sides to bring the service to the next stage."[^15] Of course, "multiplication" is a polished phrase for an M&A press conference; but if we translate it directly as "I buy you because I can't beat you," that is us writing a line for Yahoo that it never said. The truth is probably somewhere between the two: data from the Fair Trade Commission showed that Yahoo held a 60% market share in portals, while its own blogs only had a 1.6% market share[^12]. It was true that it could not catch up to No Name, but what it said was multiplication, not surrender.
 
-![Yahoo! Kimo Open Hack Day 2008. After the 2006 acquisition, Wretch rose to become Taiwan’s top site the following year, pushing its parent company to second place](/article-images/culture/yahoo-kimo-open-hack-day-2008.webp)
+![A scene from the 2008 Yahoo Kimo Open Hack Day. At the end of 2006, Yahoo acquired No Name Site; in 2008, No Name became Taiwan's largest website after being absorbed, pushing its parent company to second place](/article-images/culture/yahoo-kimo-open-hack-day-2008.webp)
 
-> 📝 **Curator’s note**  
-> An often‑overlooked coordinate: when Yahoo bought Wretch, it had bought GeoCities in the United States only seven years earlier, and would shut it down in 2009. In other words, when Wretch was handed to Yahoo in 2007, Yahoo already owned a platform of the same type with a “death‑record” on its hands. The same hand bought GeoCities, closed it, then bought Wretch and six years later closed it again. We only recognized this pattern in hindsight, but it was written at the moment of the contract.
+> 📝 **Curator's Note**
+> A coordinate that is easily overlooked: the Yahoo that bought No Name had just acquired GeoCities in the United States seven years prior (the site where an entire generation of Americans first got a personal webpage), and later shut it down in 2009. In other words, when No Name handed itself over to Yahoo in 2007, Yahoo already carried a "death record" of a similar platform. The same hand bought GeoCities and closed it; then bought No Name, only to close it again six years later. We only see this pattern retrospectively, but it was written the moment the contract was signed.
 
-## 2008: Wretch Climbs to the Top of Yahoo!
+## In 2008, No Name Overtook Yahoo
 
-Logic would suggest that a platform absorbed by a giant would gradually lose its edge. Wretch did the opposite.
+Normally, a platform tends to lose its edge after being acquired by a giant. However, No Name followed the opposite path.
 
-Less than a year after the acquisition, in March 2008, Wretch topped the “Top 100 Taiwan Sites” list compiled by _Digital Age_ (ARO plus Alexa weighting), overtaking Yahoo! Kimo to become the island’s number‑one site[^16]. The English‑language tech outlet _NetworkWorld_ found it amusing enough to headline “Yahoo loses top spot in Taiwan to Wretch”[^17]. A student‑run site that started in a dormitory of salvaged junk rode the very next year onto the head of the multinational that bought it.
+Less than a year after being bought by Yahoo, in March 2008, No Name Small Station appeared on the "Taiwan's Top 100 Popular Sites" list compiled by Digital Age using ARO and Alexa weighting, ranking as Taiwan's largest website and pushing its parent company, Yahoo, to second place[^16]. Even English-language tech media found this interesting; NetworkWorld's headline read, "Yahoo loses top spot in Taiwan to Wretch"[^17]. A student site that started by picking up scraps from a university dormitory managed to surpass the multinational giant that bought it the following year.
 
-What sustained that ranking was a massive creator cradle. Today we talk about “self‑media” and “KOLs,” but Taiwan’s first generation of internet‑visible amateur creators were almost all incubated on Wretch. The most representative example is _Wan‑wan_: she originally joined just to follow _Jiu‑Ba‑Dao_’s serial on the Wretch BBS, tried the blog function, and soon attracted 150 k daily views. Her 2005 book _Can’t I Just Not Work?_ sold over 100 k copies[^18]. She, _Jiu‑Ba‑Dao_, and _The Queen_ were dubbed the “Three Writer Treasures,” followed by a long list: _Yuan A‑fei_ (the “Raptor”), _Da‑Yuan_ (over 9 million fans), _Lin Yi‑hsin_ (Sarah), and _Cai Huang‑ru_ (Tofu‑girl)[^19]. Wretch’s “pretty‑girl” album culture was also part of the machine, though it later attracted criticism for objectifying women—a topic we will revisit later.
+What supported this ranking was a massive incubator of creators. Today we are accustomed to terms like "self-media" or "KOL," but almost all of Taiwan's first amateur creators who gained visibility online emerged from No Name. Wanwan is one of the most representative examples: she initially tried out the blogging function while following serializations by Jiu Ba Dao on the No Name BBS, and her text/image blog subsequently achieved 150,000 daily page views, leading to her book _Can I Not Go to Work?_ selling over 100,000 copies in 2005[^18]. She, Jiu Ba Dao, and Nüguang are collectively known as the "Three Treasures of Writers," followed by a long line of names: Yuan Aifei (Xunmenglong), Da Yuan (who reached 9 million followers), Sha La Linyi, and Cai Huangru (Douhuaimai)[^19]. The cute girl culture on No Name photo albums was also part of this ecosystem, although this aspect later sparked considerable criticism regarding the objectification of women, which will be discussed later.
 
-![2010 Yahoo! Kimo Wretch Fun Party: left, a young creator who had been uploading works for five years and amassed a large fanbase; right, a celebrity whose blog broke a million hits. Wretch was the stage for Taiwan’s first generation of amateur creators](/article-images/culture/wretch-fun-party-2010.webp)
+![Fun Party at Yahoo Kimo No Name Small Station in 2010: On the left are young creators who continuously uploaded works to No Name for five years and accumulated a large number of fans; on the right is a celebrity whose blog broke one million views. No Name was the stage for Taiwan's first generation of amateur creators](/article-images/culture/wretch-fun-party-2010.webp)
 
-A key clarification: the legend that “Wretch incubated e‑commerce sellers” is false. Brands such as _Tokyo‑Wear_ and _Lativ_ originated from Yahoo! Auctions, not Wretch. What Wretch incubated were writers, illustrators, and photographers. This distinction matters because it shows that Wretch’s most valuable asset was the content itself: over two‑million users spent years building up blogs and photos, and that seven‑year‑accumulated asset vanished entirely when the platform disappeared.
+There is an important clarification here. The legend that No Name "incubated e-commerce sellers" is untrue: brands like Tokyo Clothing and Lativ originated from Yahoo Auctions, not No Name. What No Name incubated were writers, artists, and photographers. This distinction is crucial because it points out that No Name's most precious asset was the content itself: things slowly accumulated by millions of people over several years—a blog post, a photograph. And this asset, which took seven years to accumulate, was what evaporated entirely when it finally disappeared.
 
-That was Wretch’s highest moment: perched atop Yahoo, nurturing a whole generation of creators, with 500 million photos stored on its servers. No one at that peak imagined that eight years later everything would be erased in a single night.
+This was No Name’s peak moment. Overtaking Yahoo, nurturing an entire generation of creators, with 500 million photos stored on the servers. No one at that high point imagined that eight years later, all of this would go to zero overnight.
 
-## When You’re Done, Turn the Power Off
+## When You Don't Want to Play, Just Turn Off the Power
 
-Wretch’s decline was not a single, sharp cut. It was pulled in several directions, slowly draining it.
+The decline of No Name was not a sudden event. It was slowly drained by several forces acting simultaneously.
 
-The first force was “stickiness.” In September 2009 Facebook overtook Wretch in _InsightXplorer_’s ARO survey, becoming Taiwan’s second‑largest site[^20]. Notably, Facebook didn’t win on reach: Wretch still led in “how many people have ever visited.” Facebook won on “how long people stay.” The survey showed Facebook users spent an average of 6.3 minutes per day, versus Wretch’s 3.9 minutes[^20]. The news feed kept users glued in a way photo albums and blogs could not.
+The first force was stickiness. In September 2009, Facebook surpassed No Name in an ARO survey and took the position of Taiwan's second-largest site[^20]. What is interesting is that Facebook did not win on reach: regarding "how many people visited," No Name actually still led; Facebook won on "how long people were willing to stay once they arrived." The survey that month showed that Facebook users spent an average of 6.3 minutes daily, while No Name only had 3.9 minutes[^20]. The ability of the news feed to keep people engaged was something photo albums and blogs could not provide.
 
 ```tw-versus
-Wretch | Facebook
-Average daily stay 3.9 min | Average daily stay 6.3 min
-“You set up a page, look around, and leave.” | “The news feed continuously feeds you new content, keeping you hooked.”
-Wins on “how many have visited” | Wins on “how long they stay”
+No Name | Facebook
+Daily Stay 3.9 Minutes | Daily Stay 6.3 Minutes
+You set up a page, look, and leave | The news feed constantly feeds new content, keeping you hooked
+Winning on "how many people visited" | Winning on "how long people were willing to stay"
 ```
 
-The second force was smartphones. From 2010 onward, mobile devices became the primary internet entry point, while Wretch’s layout was designed for desktop browsers. The third force came from its new owner. After Yahoo took over, account integration caused friction, and the product itself stalled.
+The second force was mobile phones. With the popularization of smartphones starting in 2010, the entry point for browsing shifted from computer screens to palms, while No Name's layout was designed for desktops. The third force came from its new owner. After Yahoo took over, account integration caused various frictions, and the product itself barely moved forward. A blog post by Business Weekly in 2013 used a scathing yet accurate description, calling No Name "an outdated celebrity with continuously declining traffic, almost no improvement in service interface design, still operating on a 2006 mindset" [^21].
 
-In 2013 _Business Weekly_ described Wretch as “a traffic‑declining star whose service interface had barely progressed since 2006, a relic of a bygone era”[^21].
-
-All three forces converged on Yahoo’s “difficult decision.” On 30 August 2013 Yahoo announced the shutdown of Wretch, citing a shift to “mobile‑first” and a refocus on core products. The official statement read: “To refocus on optimizing core products and accelerating innovative services, sometimes difficult decisions must be made.”[^22] This was followed by a four‑month countdown, each step tightening the closure[^23].
+Drained by these three forces, No Name finally waited for Yahoo's "difficult decision." On August 30, 2013, Yahoo announced the closure of No Name, citing a return to mobile-first and concentrating resources on core products. The official statement was very formal: "In order to refocus on optimizing core products and accelerating the development of innovative services, difficult decisions must sometimes be made."[^22] This was followed by a four-month countdown, from announcement to deletion, with each step closing the door tighter[^23].
 
 ```tw-timeline
-8/30 | Shutdown announced | Yahoo cites mobile‑first, simultaneously shuts down Wretch and Yahoo Blog
-9/2  | Stop registrations, open backup tools | Users offered “easy migration” to Xuite, Pixnet, Tumblr
-10/30| Read‑only mode | Site still viewable but no edits allowed
-12/26| Full deletion | Blogs and albums of over two‑million users cease to exist
+8/30 | Closure Announced | Yahoo closes No Name and Yahoo Blogs citing mobile first
+9/2 | Registration Halted, Backup Released | Tools provided for "easy migration" to Xuite Suiyiwo, PikiBang, Tumblr
+10/30 | Read-Only Mode Entered | Still viewable, but you can no longer edit or add anything
+12/26 | Complete Deletion | The blogs and photo albums of over two million people ceased to exist that day
 ```
 
-Jian‑Chih Yu’s original mantra—“If you’re done, just turn off the server’s power”—was meant as a declaration of responsibility. Yet the hidden premise was that the switch was no longer in his hands. When the contract was signed in 2007, ownership of the power button transferred to Yahoo. On the night of 26 December 2013 the power was indeed turned off—but the hand that pressed it was not the group of students who could simply unplug; it was the acquiring corporation.
+The original intent behind Chi Hsueh-heng's statement, "When you don't want to play, just turn off the power," was to declare responsibility—that he would see this platform through. However, this sentence contained a premise he did not state, or perhaps was unaware of at the time: **the power in his mouth could no longer be turned off.** The moment he signed the contract in 2007, ownership of the button transferred to Yahoo. On the night of December 26, 2013, No Name's power was indeed shut down—but it was not the students who didn't want to play and pull the plug; it was the company that bought it.
 
-## A Disappearance Without a Funeral
+## The Disappearance Without a Funeral
 
-If the story stopped at “the platform shut down, people were sad,” it would be just another obsolete website. What truly unsettles us is what happened after the shutdown.
+If the story stopped at "the platform closed, and everyone was sad," it would be no different from any obsolete website. What truly unsettled people about No Name was what happened after it shut down.
 
-A look at the Wayback Machine for wretch.cc shows a cruel fact: text, comments, and even traffic numbers remain, but photos are almost entirely gone. Most users who open their old albums see a grid of empty boxes—because the image files were hosted on an external CDN whose URLs became dead after the shutdown, leaving only empty frames[^24]. A platform that once boasted 500 million photos now leaves virtually nothing for posterity.
+When you look up wretch.cc on the Wayback Machine, you discover a cruel fact: the text is still there, the comments are still there, even the traffic numbers from back in the day are still there, but almost all the photos are gone. Most people who opened their old albums saw grids of unopenable blank boxes—because the album files were hosted on external Content Delivery Networks (CDNs), and those URLs became invalid after the site closed; thus, memories were left only as frames, empty inside[^24]. A platform that boasted "half a billion photos" left almost nothing in terms of images for posterity.
 
-International volunteers from the Archive Team crawled Wretch in two batches before and after the shutdown, rescuing roughly 45.7 GB and over 5 million pages, but they labeled the archive “Partially Rescued”[^25]. Forty‑five gigabytes is a drop in the bucket; it cannot even hold a fraction of the five‑hundred‑million photos at peak. Moreover, the rescuers were an international group with no direct ties to Taiwan; they have archived countless dying websites worldwide, and Wretch was just one entry on their list.
+Some individuals tried to rescue it. The international volunteer group Archive Team hard-crawled No Name in two batches before and after the closure, totaling about 45.7 GB and over five million pages, but they honestly marked their backup entries as Partially Rescued[^25]. What does 45.7 GB mean? It couldn't even hold a fraction of the half billion photos from No Name's peak. Moreover, those who rescued it were international volunteers with no connection to Taiwan; they had rescued many dying websites worldwide, and No Name was just one on their list.
 
-In Taiwan, no organization performed a systematic rescue: not the National Library, not the Ministry of Culture, no one. Repeated verification shows a glaring blank: Taiwan has zero state‑level preservation of its largest digital youth archive[^26]. Taiwan has robust systems for preserving ancient books, old photographs, and intangible cultural heritage, yet no mechanism to catch a website that housed the memories of over two‑million people when it shut down. In our cultural imagination, “things worth preserving by the state” still seem confined to paper and physical artifacts; digital youth is assumed disposable.
+As for Taiwan, no organization conducted a systematic rescue: not the [National Library](/en/culture/national-central-library-taiwan/), not the Ministry of Culture—no one did. I repeatedly verified this matter, and the conclusion is a glaring blank spot: Taiwan has zero national-level preservation for its greatest piece of digital youth[^26]. We have very complete systems to preserve ancient books, old photographs, and intangible cultural heritage, yet we lack any mechanism to capture a website containing the memories of over two million people when it shuts down. In our cultural imagination, "things worthy of national preservation" seem to still be confined to paper and physical objects; digital youth is presumed disposable.
 
-When placed side‑by‑side with international efforts, the gap widens.
+This blank spot is even more glaring when compared internationally.
 
-| Platform             | Nature             | Buyer / Parent | Acquisition year | Shutdown year | Rescue scale                                                                         |
-| -------------------- | ------------------ | -------------- | ---------------- | ------------- | ------------------------------------------------------------------------------------ |
-| **Wretch** (Taiwan)  | BBS → Blog + Album | Yahoo          | 2007             | 2013          | Archive Team ≈ 45.7 GB (marked “Partially Rescued”); State‑level preservation: **0** |
-| **GeoCities** (USA)  | Personal webpages  | Yahoo          | 1999             | 2009          | Archive Team ≈ 1 TB                                                                  |
-| **Skyblog** (France) | Teen blogs         | —              | —                | 2023          | Bibliothèque nationale de France rescued 12.6 million blogs, 37 TB                   |
-| **MySpace** (USA)    | Social music       | News Corp      | 2005             | Decline       | Large early‑audio loss                                                               |
+| Platform                  | Nature                               | Buyer / Parent Company | Acquisition Year | Closure Year | Rescue Scale                                                                   |
+| :------------------------ | :----------------------------------- | :--------------------- | :--------------- | :----------- | :----------------------------------------------------------------------------- |
+| **No Name Site** (Taiwan) | BBS $\rightarrow$ Blog + Photo Album | Yahoo                  | 2007             | 2013         | Archive Team, approx. 45.7 GB ("partial rescue"); National preservation: **0** |
+| **GeoCities** (USA)       | Personal Website                     | Yahoo                  | 1999             | 2009         | Archive Team, approx. 1 TB                                                     |
+| **Skyblog** (France)      | Youth Blog                           | —                      | —                | 2023         | BnF of France rescued 12.6 million blogs and 37 TB                             |
+| **MySpace** (USA)         | Social Music                         | News Corp              | 2005             | Decline      | Lost large amounts of early audio files at one point                           |
 
-The numbers speak loudly. France’s BnF rescued 37 TB for Skyblog, nearly a thousand times the 45.7 GB Archive Team saved for Wretch. That disparity reflects an unspoken attitude difference: France treated teenagers’ blogs as “our collective memory, to be preserved,” while Taiwan treated the site as a relic no one felt responsible for. The French organized a national funeral for a generation’s blogs; Taiwan let its greatest digital youth fade away in a night without a funeral.
+The numbers speak loudest for France. When Skyblog closed in 2023, the BnF of France proactively designated it as a national digital heritage, rescuing 12.6 million (still online) blogs and 37 TB of data[^27].
 
-> ⚠️ **Controversial view**  
-> Before mourning Wretch, we must reckon with its origins. Wretch’s founder used the academic TANet (the university network) to host the BBS, then turned it into a profit‑driven business. In late 2006, translator Zhu Xue‑heng criticized, “Innovation and entrepreneurship cannot be pursued by any means; they must be ‘Do No Evil’ to be worthy of encouragement. Wretch’s controversies this year make it a perfect negative example.”[^28] In January 2007 legislator Tang Huo‑sheng questioned the commercialization of academic network resources in the Legislative Yuan[^29]. Add the fully‑opened password album and the objectifying “beauty‑page” culture, and the wounds are real. Portraying Wretch solely as an innocent era erases those controversies. An honest remembrance must include them.
+```tw-figure
+37 TB vs 45.7 GB
+The amount nationally preserved by the French BnF for Skyblog vs The amount rescued by Archive Team for No Name Site
+BnF of France / Archive Team
+```
 
-## A Account with 12 Followers Waits Ten Years
+Thirty-seven TB versus 45.7 GB—a difference of nearly a thousand times. Behind this multiplier is an unsaid difference in attitude: France treated youth blogs as "our collective memory that must be preserved," while Taiwan tacitly assumed it was just an outdated website, and no one felt it was their responsibility to rescue it. The French held a state funeral for the youth's blogs; the Taiwanese allowed their greatest youth to be quietly deleted on a night with no one to mourn.
 
-The story could have ended in that empty album, but in spring 2025 it resurfaced unexpectedly.
+> ⚠️ **Controversial Viewpoint**
+> Before mourning No Name, there is an account that must be settled: its roots were inherently controversial. The No Name Site owner used public resources from TANet (the academic network) but later developed it into a commercial monopoly. At the end of 2006, Zhu Hsueh-heng, translator of _Lord of the Rings_, issued sharp criticism: "Innovation and entrepreneurship cannot be achieved by any means; innovation and entrepreneurship must be worthy of encouragement through 'Do No Evil.' Given the various controversies surrounding No Name Site this year, it is definitely a negative example."[^28] In January of the following year, Legislator Tang Huo-sheng also questioned in the Legislative Yuan, questioning No Name's exploitation of academic network resources for commercial gain[^29]. Coupled with the previously mentioned issues like open password albums and the objectification of women's bodies by certain versions, these were real wounds. To only remember No Name as an innocent era is to gloss over its controversies. A sincere mourning must remember all of this.
 
-In March, a Threads account named **@wretch_1999** began posting. Its bio copied the old branding verbatim: “★~●○● Welcome to Wretch ●○●~★ / Background music: 5566 – _I’m Sad_ / Cumulative visits: 0000520.” On 24 March it shared a screenshot of its own Instagram (only 12 followers) with a self‑deprecating caption: “When will anyone notice me? Revived.”[^30] The post struck a nerve, went viral, and its follower count surged past 17 000[^31]. The account’s nature was never officially confirmed; it appears to be a fan‑made tribute rather than an official Wretch revival.
+## An Account with 12 Followers, Waiting for Ten Years
 
-Yet the responses were more honest than any corporate announcement. Commenters asked for “account passwords,” lamented missed opportunities a decade earlier, and even wrote to the dead platform: “I’m from the future—secretly tell you not to sell to Yahoo.”[^32] The account itself asked in the post: “Do the younger Threads crowd even know who I am?”[^33] A name forgotten for twelve years finally got noticed—but only as a fan‑built shell. The body itself had long been erased, leaving no trace.
+The story was supposed to end in that empty photo album. But in the spring of 2025, it unexpectedly found an echo.
 
-And the unsettling part is not 2013; it is now.
+In March, a Threads account named @wretch_1999 began posting. Its bio perfectly replicated the code from those years: "★~●○● Welcome to No Name Site ●○●~★ / Background Music: 5566 - I Am Sad / Cumulative Visitors: 0000520." On March 24, it posted a screenshot of its own Instagram (which only had 12 followers), accompanied by the self-deprecating caption: "When will someone notice me? I'm back."[^30] This post was like a needle puncturing everyone's shared nervous memory, instantly going viral and surging to over seventeen thousand followers[^31]. The nature of this account has never been officially confirmed; it is almost certain that it is fan-made tribute, not an official revival by No Name.
 
-The salvaged computer’s simplest feature—being able to unplug it—later became a responsibility Yu learned to bear. He later realized the power switch was no longer in his hands; Yahoo pressed the button. Now it’s our turn: the Instagram Stories you post, the Facebook albums you share, the cloud‑stored birthday photos of your child—these are the same kind of thing as the five‑hundred‑million photos on Wretch. They all sit on servers whose power can be turned off by someone else, and whose contents can be lost forever. Wretch was Taiwan’s first digital lesson, teaching not nostalgia but a sentence we may still not fully understand twelve years later: you think you’re preserving memory, but you’re merely depositing it on a server whose owner can pull the plug at any moment.
+Yet, the responses it received were more honest than any official announcement. Comments flooded in—some demanding "return my password," some regretting their selves from ten years ago, and even some telling a dead platform, "I'm from the future, secretly telling you not to sell to Yahoo."[^32] The account itself asked in its posts: "Do people of today's demographic using Threads know who I am?"[^33] A name no one remembered finally found someone who noticed it after twelve years—though what was discovered was merely an empty shell constructed by a fan's memory. The original entity had long been deleted, leaving not even ash behind.
 
----
+What this event truly makes us uneasy about is not 2013, but the present.
+
+The salvaged computer’s most basic feature back then was that you could simply shut down its power. Later, Chi Hsueh-heng learned that he couldn't turn off the power and had to be responsible for it. Then, he discovered that the power wasn't in his hands; the button had been pressed by Yahoo. Now it is our turn: your Stories on Instagram, your albums on Facebook, or the photos in your cloud drive—they are essentially the same thing as the five hundred million photos from No Name Site back then. They all reside on a host that you cannot shut down or recover. No Name was Taiwan's first digital lesson; it taught not nostalgia, but a sentence we might not fully understand even twelve years later: You think you are preserving memories, but in reality, you are just entrusting your memories to a power source someone else can unplug at any time.
 
 ## Further Reading
 
-[台灣網路社群遷徙史](/en/technology/taiwan-online-community-migration/)、[PTT批踢踢](/en/technology/ptt-bulletin-board-system/)、[巴哈姆特](/en/culture/bahamut-taiwan-gaming-community/)、[Dcard](/en/culture/dcard-taiwan-social-platform/)、[噗浪Plurk](/en/culture/plurk-taiwan-microblog/)、[Facebook](/en/technology/facebook-in-taiwan/)、[台灣YouTuber產業與文化](/en/culture/taiwan-youtuber-industry/)、[台灣新偶像世代](/en/culture/taiwan-new-idol-generation/)、[黃山料](/en/people/huang-shan-liao/)、[台灣的年級生世代](/en/society/taiwan-generations/).
+[History of Taiwanese Online Communities](/en/technology/taiwan-online-community-migration/), [PTT (Pī-tī-tī)](/en/technology/ptt-bulletin-board-system/), [Bahamut](/en/culture/bahamut-taiwan-gaming-community/), [Dcard](/en/culture/dcard-taiwan-social-platform/), [Plurk](/en/culture/plurk-taiwan-microblog/), [Facebook](/en/technology/facebook-in-taiwan/), [Taiwan YouTuber Industry and Culture](/en/culture/taiwan-youtuber-industry/), [A Shen (阿神)](/en/people/red-shin-minecraft-youtuber/), [New Idol Generation in Taiwan](/en/culture/taiwan-new-idol-generation/), [Huangshan Material (黃山料)](/en/people/huang-shan-liao/), [The Student Generation in Taiwan](/en/society/taiwan-generations/).
 
-## Image Credits
+## Image Sources
 
-All five images are licensed under Creative Commons or GPL and cached in `public/article-images/culture/` to avoid hot‑linking:
+This article uses 5 images licensed from Wikimedia Commons (CC and GPL), all cached in `public/article-images/culture/` to avoid hotlinking to the source server:
 
-- Alan Sung / Wikimedia Commons – CC BY 2.0 (2005 Wretch hardware upgrade notice screenshot, hero)
-- T Gordon Cheng / Wikimedia Commons – CC BY‑SA 4.0 (South gate of NCTU Kuang‑Fu Campus, 1999 founding site)
-- T2o6n8y9 / Wikimedia Commons – GPL (Taiwan campus BBS login screen, PTT as era illustration, not Wretch)
-- Alan Sung / Wikimedia Commons – CC BY 2.0 (2008 Yahoo! Kimo Open Hack Day stage)
-- Yahoo! Blog / Wikimedia Commons – CC BY 2.0 (2010 Yahoo! Kimo Wretch Fun Party)
+- [Alan Sung / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Wretch_notice_(24364911).jpg>) — CC BY 2.0 (Screenshot of the No Name Site hardware upgrade suspension announcement in 2005, hero image)
+- [T Gordon Cheng / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:National_Chiao_Tung_University_Kuang-Fu_Campus_South_Gate.jpg) — CC BY-SA 4.0 (South Gate of National Taiwan University, the site where it was established in 1999)
+- [T2o6n8y9 / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PTT%E9%80%B2%E7%AB%99%E7%95%AB%E9%9D%A2.png) — GPL (Screen capture of a Taiwanese campus BBS login, used as an era reference to PTT, not the No Name Site itself)
+- [Alan Sung / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yahoo_Kimo_2008_Open_Hack_Day_stage_20080920.jpg) — CC BY 2.0 (Yahoo Kimo Open Hack Day in 2008)
+- [Yahoo! Blog / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yahoo_Kimo_Wretch_Fun_Party.jpg) — CC BY 2.0 (No Name Site Fun Party of Yahoo Kimo in 2010, image used in the text)
 
 ## References
 
-[^1]: [Wikipedia: Wretch](https://zh.wikipedia.org/zh-hant/無名小站) – documents the 1999 founding at NCTU and lists the six computer‑science co‑founders (Jian‑Chih Yu, Wei‑Kai Wu, Hong‑Chuan Lin, Chien‑Hsi Chiu, Wei‑Cheng Pan, Hsuan‑Yun Chen), as well as Lin Hong‑chuan’s succession as BBS admin on 12 May 2004.
+[^1]: [Wikipedia: Anonymous Little Station](https://zh.wikipedia.org/zh-hant/無名小站) — Records the list of the six co-founders (Chi-Yu Jian/Wei-Kai Wu/Hong-Quan Lin/Jian-Xi Chiu/Wei-Cheng Pan/Xuan-Yun Chen) who founded it in 1999 at National Taiwan University, and the timeline when Hong-Quan Lin took over as BBS site administrator on May 12, 2004.
 
-[^2]: _Taiwan Panorama_ “The ‘Wretch’ Miracle” – interview with Jian‑Chih Yu describing the collection of discarded equipment and cobbling them into usable hardware.
+[^2]: [Taiwan Guanghua Magazine <'Anonymous' Miracle>](https://www.taiwan-panorama.com/Articles/Details?Guid=8ccb1052-497e-4a1d-995f-907e6552673a) — The original Chinese interview transcript of Chi-Yu Jian, including the description of equipment sources: 'collecting scrapped equipment from departments and assembling it into usable hardware'.
 
-[^3]: _Taiwan Panorama_ “The ‘Wretch’ Miracle” – journalist’s description of “starting from junk,” plus 2006 scale figures: 2.5 M registered members, 500 M photos, 5 000+ blogs, 1.2 M daily visits, second‑largest site in Taiwan.
+[^3]: [Taiwan Guanghua Magazine <'Anonymous' Miracle>](https://www.taiwan-panorama.com/Articles/Details?Guid=8ccb1052-497e-4a1d-995f-907e6552673a) — A reporter's account of starting up by 'picking up junk,' and 2006 scale figures: over 2.5 million registered members, 500 million photos, over 5,000 blogs, and 1.2 million daily visitors, making it the second-largest website in Taiwan.
 
-[^4]: _Taiwan Panorama_ “The ‘Wretch’ Miracle” – quote on naming origin and the later responsibility statement about not being able to simply turn off the server power.
+[^4]: [Taiwan Guanghua Magazine <'Anonymous' Miracle>](https://www.taiwan-panorama.com/Articles/Details?Guid=8ccb1052-497e-4a1d-995f-907e6552673a) — Direct quotes regarding the naming origin: 'We are all unknown small fry, with no great ambition at first,' and corporate responsibility: 'We must be responsible for this little site; we can't just shut down the host power like before because we don't want to play anymore'.
 
-[^5]: _Digital Age_ interview with Jian‑Chih Yu (2016) – quote on the “heretical” vibe of early internet entrepreneurship in Taiwan.
+[^5]: [Digital Age <Interview with Chi-Yu Jian> 2016](https://www.bnext.com.tw/article/39669/BN-2016-05-24-015014-117) — Chi-Yu Jian's direct quote: 'But in every moment, I have been rebellious,' and the description of the internet startup atmosphere in 2005: 'Entrepreneurship itself is rebellious; if you do the internet, you are crazy'.
 
-[^6]: Merit Times “Wretch Milestones” – records the official opening of the blog function on 28 Oct 2003 and the BBS origin.
+[^6]: [Human Happiness <Chronicle of Anonymous Little Station>](https://www.merit-times.com.tw/NewsPage.aspx?unid=43520) — Records the milestone timeline of the official opening of the blog function on October 28, 2003, and the origin of the NTU CS BBS and Chi-Yu Jian's public release during his senior year.
 
-[^7]: Wikipedia: Wretch – documents the 14 Apr 2007 “full‑open” of password‑protected albums due to a system glitch, with the platform blaming a “system maintenance” plan.
+[^7]: [Wikipedia: Anonymous Little Station](https://zh.wikipedia.org/zh-hant/無名小站) — Records that on April 14, 2007, the locked albums on Anonymous Little Station were temporarily all publicly viewable, leading to discussions on the PTT gossip board, and the official announcement claiming a temporary issue due to 'performance improvement plan' (the original news archive from that year is lost; Wikipedia references the PTT discussion at the time).
 
-[^8]: InsightXplorer ARO traffic report (2006) – Wretch reach rate 63.81 %, monthly unique visitors 6 572 790, 2.8 M members.
+[^8]: [Startup InsightXplorer ARO Traffic Report (2006)](https://ccindustry.pixnet.net/blog/post/2506673) — Third-party traffic data for Anonymous Little Station in 2006: 63.81% reach, 6,572,790 monthly unique visitors, and 2.8 million members.
 
-[^9]: Wikipedia: Wretch – notes the March 2005 incorporation of Wretch Co., Ltd., NT$20 M capital, and the founding team’s 51 % technical equity.
+[^9]: [Wikipedia: Anonymous Little Station](https://zh.wikipedia.org/zh-hant/無名小站) — Records the corporate details of Anonymous Little Station Co., Ltd. being established in March 2005, with a capital of NT$20 million, and the founding team holding 51% through technical investment.
 
-[^10]: _Vision_ magazine “The Story of Wretch” – reports angel investor Chia Wen‑chung’s NT$10 M investment, 49 % stake, and personal earnings over NT$300 M; the share‑holding figure appears only in _Vision_.
+[^10]: [Yuanjian Magazine <The Story of Anonymous Little Station>](https://www.gvm.com.tw/article/11448) — Reports on Jia Wenzhong entering as an angel investor, leading negotiations with Yahoo, holding a 49% stake and earning over three hundred million, and the estimated share price of NT$223 (the ownership ratio is only from Yuanjian, and the stock listing source).
 
-[^11]: TVBS news “Yahoo! Kimo acquires Wretch” (14 Dec 2006) – first‑hand report of the acquisition announcement and interview with managing director Tsou Kailian.
+[^11]: [TVBS News <Yahoo Kimo Acquires Anonymous Little Station> 2006/12/14](https://news.tvbs.com.tw/politics/341238) — A news report on December 14, 2006, where Yahoo Kimo announced the acquisition of Anonymous Little Station, including an interview with CEO Chou Kai-Lien.
 
-[^12]: InfoWorld “Yahoo to buy Taiwan’s Wretch” (15 Dec 2006) – confirms the deal and that terms were undisclosed; also cites Fair Trade Commission 803rd meeting ruling.
+[^12]: [InfoWorld "Yahoo to buy Taiwan's Wretch" 2006/12/15](https://www.infoworld.com/article/2186584/) — The English original report confirms the key fact that 'the terms of the deal were not disclosed,' and notes NT$700 million from local reporting estimates; the Fair Trade Commission's meeting on March 29, 2007, ruled 'no prohibition to the combination,' while official meeting minutes state Yahoo held a 60% market share in portals and only 1.6% in its own blogs.
 
-[^13]: TVBS news “Yahoo! Kimo acquires Wretch” (14 Dec 2006) – reports the rumor of a US$22 M (≈ NT$7.11 B) price, noting Tsou never confirmed the figure.
+[^13]: [TVBS News <Yahoo Kimo Acquires Anonymous Little Station> 2006/12/14](https://news.tvbs.com.tw/politics/341238) — Reports that 'the rumored acquisition price was as high as US$22 million, equivalent to NT$711 million,' and notes that Chou Kai-Lien did not positively confirm the amount—meaning 'seven hundred million' is a media estimate and not an officially disclosed source.
 
-[^14]: InfoWorld “Yahoo to buy Taiwan’s Wretch” (15 Dec 2006) – original English line “Terms of the deal were not disclosed by the companies.”
+[^14]: [InfoWorld "Yahoo to buy Taiwan's Wretch" 2006/12/15](https://www.infoworld.com/article/2186584/) — The English original text 'Terms of the deal were not disclosed by the companies,' directly confirms that the acquisition amount was never officially revealed.
 
-[^15]: TVBS news “Yahoo! Kimo acquires Wretch” (14 Dec 2006) – quote from Tsou Kailian on “multiplying” Yahoo’s technology, traffic, and Wretch’s content.
+[^15]: [TVBS News <Yahoo Kimo Acquires Anonymous Little Station> 2006/12/14](https://news.tvbs.com.tw/politics/341238) — Chou Kai-Lien's direct quote: 'Using Yahoo's technology, our large traffic, and the content that Anonymous Little Station has already generated, how to multiply both sides to bring the service to the next stage,' which is Yahoo's official statement of acquisition motivation.
 
-[^16]: _Digital Age_ “Taiwan’s Top 100 Sites” (Mar 2008) – ARO + Alexa weighted list placing Wretch #1 and Yahoo #2.
+[^16]: [Digital Age: Taiwan's Top 100 Websites in the Digital Era (March 2008)](https://www.bnext.com.tw/article/9375/BN-ARTICLE-9375) — A ranking compiled using ARO from December 2007 and Alexa with a 50% weighting from January 2008, where 'No Name Site' ranked first and Yahoo ranked second, recording No Name achieving the top spot in Taiwan in March 2008.
 
-[^17]: NetworkWorld “Yahoo loses top spot in Taiwan to Wretch” (5 Mar 2008) – English article confirming the ranking.
+[^17]: [NetworkWorld "Yahoo loses top spot in Taiwan to Wretch" (March 5, 2008)](https://www.networkworld.com/article/2284092/) — The original English text states: 'Wretch.cc was ranked the top Web site in Taiwan in a top-100 list tabulated by Business Next... Yahoo Taiwan came in second.', and points out that despite its efforts, Yahoo's own blog could not catch up to No Name.
 
-[^18]: _Taiwan Panorama_ “Blogging Star: Wan‑wan” (Sept 2006) – documents Wan‑wan’s 150 k daily views and 2005 book sales over 100 k copies.
+[^18]: [Taiwan Guanghua Magazine: "Blogger Celebrity: Wanwan" (September 2006)](https://www.taiwan-panorama.com/Articles/Details?Guid=56a77c78-1d03-432d-8a42-be52ae96840b) — The original text records that Wanwan used blogging as a means to follow Jiu Ba Dao on the No Name BBS, achieving 150,000 daily page views, and her book 'Can I Not Go to Work?' sold over 100,000 copies in 2005.
 
-[^19]: PopDaily “Wretch’s 11 Popular Kings” – lists Wan‑wan, Jiu‑Ba‑Dao, The Queen, plus Yuan A‑fei, Da‑Yuan, Lin Yi‑hsin, Cai Huang‑ru, Zhou Xiaohan, Jian‑Ting‑rui.
+[^19]: [PopDaily: "Survey of the Current Status of the 11 Popular Kings on No Name Site"](https://www.popdaily.com.tw/life/778667) — A list compiling Wanwan, Jiu Ba Dao, and Queen 'The Three Treasures' from writers, along with popular photo album figures: Yuan Aifei (Xunmenglong, over 5 million fans), Da Yuan (over 9 million fans), Lin Yixin (Sarah), Cai Huangru (Douhuaimai), Zhou Xiaohan, and Jian Tingrui.
 
-[^20]: E‑Commerce Times “Facebook overtakes Wretch” (Nov 2009) – InsightXplorer ARO data: Facebook daily stay 6.3 min vs Wretch 3.9 min; reach still lower for Facebook.
+[^20]: [Electronic Commerce Times: "Facebook Surpasses No Name Site" (November 2009)](https://www.ectimes.org.tw) — First-hand data from the market creation ARO shows that in September 2009, Facebook surpassed No Name to become Taiwan's second largest site, relying on dwell time (Facebook at 6.3 minutes vs. No Name at 3.9 minutes), although its reach was still inferior to No Name.
 
-[^21]: Business Weekly blog “Wretch’s Dusk” (2013) – describes Wretch as a traffic‑declining star with an interface stuck in 2006 thinking.
+[^21]: [Business Weekly Blog: "The Twilight of No Name Site" (2013)](https://www.businessweekly.com.tw/business/blog/3725) — A commentary based on the original text, describing No Name as 'an outdated celebrity whose traffic is constantly declining and whose service interface design shows almost no improvement, still stuck in a 2006 mindset.'
 
-[^22]: Archive Team – Wretch (Chinese) – official Yahoo statement (30 Aug 2013) on refocusing on core products and “difficult decisions.”
+[^22]: [Archive Team — Wretch](https://wiki.archiveteam.org/index.php/Wretch) — Includes the Chinese version of Yahoo's official statement from August 30, 2013, stating, 'In order to refocus on optimizing core products and accelerating the development of innovative services, difficult decisions must sometimes be made,' as well as the background of closing both Yahoo Blogs and No Name citing mobile-first.
 
-[^23]: ETtoday “Yahoo Wretch shutdown three phases” (30 Aug 2013) – timeline of shutdown steps.
+[^23]: [ETtoday: "The Three Stages of Yahoo's Closure of No Name Site" (August 30, 2013)](https://www.ettoday.net/news/20130830/263966.htm) — Records the timeline of the closure: new account applications were simultaneously stopped on September 2nd, VIP sales ceased, and a backup 'Easy Move' was released to Xuite/Pikopin/Tumblr; it entered read-only mode on October 30th, and was completely deleted on December 26th.
 
-[^24]: Dappei “Can Wretch’s photo albums be retrieved?” – reports that Wayback retains text and comments but image URLs fail, leaving empty frames.
+[^24]: [Dappei: "Can the Photo Albums of No Name Site Still Be Found?"](https://dappei.com/articles/6342) — Reports that after the closure, Wayback Machine could retrieve text, comments, and popularity metrics, but photo files were largely unrecoverable due to external CDN URL failures; most people recovered 'empty frame albums.'
 
-[^25]: Archive Team – Wretch backup entry – two batches totaling ~45.7 GB and 5 00 00 0 pages, labeled “Partially Rescued.”
+[^25]: [Archive Team — Wretch Backup Entries](https://archive.org/details/archiveteam_wretch_20140102204651) — Rescue records from two batches totaling approximately 45.7 GB and over five million pages, annotated as 'Partially Rescued.'
 
-[^26]: Archive Team – GeoCities Project – comparison showing no state‑level rescue for Wretch in Taiwan.
+[^26]: [Archive Team — GeoCities Project](https://wiki.archiveteam.org/index.php/GeoCities_Project) — Compared to the rescue scale of about 1 TB for GeoCities; there is a blank in Taiwan regarding No Name—zero organization or national-level preservation, with no official or institutional rescue records found after multiple verifications.
 
-[^27]: Paris Guardian “Skyblog and BnF national preservation” – reports BnF’s rescue of 12.6 M accounts and 37 TB for Skyblog 2023 shutdown.
+[^27]: [Skyblog and BnF National Preservation Comparison Report](https://www.parisguardian.com/news/273937831/) — The French National Library (BnF) actively rescued 12.6 million accounts and 37 TB of data when Skyblog closed in 2023, designating teen blogs as national digital heritage, with supplementary preservation by INA.
 
-[^28]: Zhu Xue‑heng criticism of Wretch (Pixnet repost) – 2006 article stating “innovation must be Do No Evil; Wretch is a negative example.”
+[^28]: [Chu Hsueh-heng criticizes No Name Site (Pikopin repost)](https://crazycat1130.pixnet.net/blog/posts/1924335) — The original critique by Chu Hsueh-heng in December 2006 states: 'Innovation and entrepreneurship cannot be achieved by any means; innovation and entrepreneurship must be worthy of encouragement by Do No Evil, and the various controversies of No Name Site this year are definitely a negative example.'
 
-[^29]: Liberty Times “Legislator Tang questions Wretch” – 7 Jan 2007 Legislative Yuan questioning of Wretch’s use of TANet resources for profit.
+[^29]: [Liberty Times: "Legislator Tang Huo-sheng Questions No Name Site"](https://news.ltn.com.tw/news/life/paper/110621) — A record from the opposition side where Legislator Tang Huo-sheng questioned in the Legislative Yuan on January 2007, questioning No Name Site for turning public resources of the TANet academic network into commercial profit.
 
-[^30]: ETtoday “Wretch Threads account goes viral” (26 Mar 2025) – reports @wretch_1999 posting IG screenshot (12 followers) and self‑deprecating caption.
+[^30]: [ETtoday: "No Name Site Threads Accounts Go Viral" (March 26, 2025)](https://www.ettoday.net/news/20250326/2932091.htm) — Reports that on March 2025, a post from the @wretch_1999 Threads account showing an IG screenshot (following 12 people) and self-deprecatingly saying 'When will someone find me? I'm back' received a large number of replies; media consistently noted that the account's nature had not been officially verified and was suspected to be fan-made.
 
-[^31]: Mirror Media “Wretch revival goes viral” (27 Mar 2025) – reports follower count jumping past 17 k.
+[^31]: [Mirror Weekly: Anonymous Little Station's Revival Goes Viral](https://www.mirrormedia.mg/story/20250327edi037) — Reports that after the @wretch_1999 account went viral, its followers surged past seventeen thousand, and includes comments from netizens.
 
-[^32]: Mirror Media “Wretch revival comments” (27 Mar 2025) – includes user comments like “I’m from the future, don’t sell to Yahoo” and “Give me my account password.”
+[^32]: [Mirror Weekly: Anonymous Little Station's Revival Goes Viral](https://www.mirrormedia.mg/story/20250327edi037) — Includes firsthand responses from netizens regarding the now-closed platform, such as 'I am a time traveler secretly telling you not to sell it to Yahoo' and 'Give me back my password'.
 
-[^33]: UDN Tech “Wretch Threads account” (2025) – reports the account’s question about whether the younger “Crisp” generation even knows who it is.
+[^33]: [UDN Technology: Anonymous Little Station Threads Account](https://tech.udn.com/tech/story/123154/8635448) — Reports on account posts asking, 'Do the younger generations who use X now even know who I am?', reflecting a generational memory gap.
