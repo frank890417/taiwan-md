@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T11:32:40+08:00",
-    "zhCommitHead": "4894cc1d7",
+    "lastUpdated": "2026-09-25T12:44:55+08:00",
+    "zhCommitHead": "860435406",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1023,
-        "stale": 54,
+        "fresh": 1027,
+        "stale": 50,
         "metadata_stale": 0,
         "missing": 47,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1054,
-        "stale": 24,
+        "fresh": 1057,
+        "stale": 21,
         "metadata_stale": 0,
         "missing": 46,
         "orphan": 0
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1048,
-        "stale": 17,
+        "fresh": 1050,
+        "stale": 15,
         "metadata_stale": 0,
         "missing": 59,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1016,
+        "fresh": 1019,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 106,
+        "missing": 103,
         "orphan": 0
       }
     },
@@ -13574,17 +13574,17 @@
           "path": "id/Economy/want-want-group.md",
           "translatedFrom": "Economy/旺旺.md",
           "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:8fc0adba07db27e5",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-23T04:55:39.402752+00:00",
+          "sourceContentHash": "sha256:c96d861b28621fd7",
+          "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
+          "translatedAt": "2026-09-25T10:23:44+08:00",
           "translationLastCommit": "26e0f76e",
           "translationLastModified": "2026-09-23T14:26:05+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 9901,
+          "bytes": 10204,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "pt": {
           "path": "pt/Economy/want-want-group.md",
@@ -29128,18 +29128,18 @@
         "ja": {
           "path": "ja/Technology/taiwan-television-industry-history.md",
           "translatedFrom": "Technology/台灣電視產業史.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:f8c3d1432bd47fe6",
-          "sourceBodyHash": "sha256:48b4e5475f2d12a8",
-          "translatedAt": "2026-05-16T22:35:34Z",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:cb8e72badaad3e3c",
+          "sourceBodyHash": "sha256:2f45cbda208db1c2",
+          "translatedAt": "2026-09-25T10:23:43+08:00",
           "translationLastCommit": "68c3ec3a",
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 17583,
+          "bytes": 19292,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/taiwan-television-industry-history.md",
@@ -46264,7 +46264,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-queuing-culture.md",
+          "translatedFrom": "Lifestyle/排隊.md",
+          "sourceCommitSha": "0e24f2873",
+          "sourceContentHash": "sha256:71a07c5ea0f34a1e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T03:07:03.079703+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 71619,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -51269,7 +51282,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-street-trees.md",
+          "translatedFrom": "Lifestyle/台灣行道樹.md",
+          "sourceCommitSha": "40374bb7c",
+          "sourceContentHash": "sha256:e67ede9cedeaf7ed",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T04:11:17.851448+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "bytes": 99465,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -61392,7 +61418,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-higher-education-expansion-and-decline.md",
+          "translatedFrom": "Society/台灣高等教育擴張與退場.md",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:75def73de8a38979",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T03:52:36.010974+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 64656,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -84858,18 +84897,18 @@
         "ja": {
           "path": "ja/Nature/taiwan-hot-springs-and-geothermal-energy.md",
           "translatedFrom": "Nature/台灣溫泉與地熱.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:c950b0e6980af7aa",
           "sourceBodyHash": "sha256:76aaf6bdf8e233fe",
-          "translatedAt": "2026-05-01T18:09:43+08:00",
+          "translatedAt": "2026-09-25T10:23:43+08:00",
           "translationLastCommit": "269b9371",
           "translationLastModified": "2026-09-10T02:19:06+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 6291,
+          "bytes": 20691,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "truncated (ratio 0.47)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Nature/taiwan-hot-springs-and-geothermal-energy.md",
@@ -118250,20 +118289,18 @@
         "hi": {
           "path": "hi/People/liu-an-ting-teach-for-taiwan.md",
           "translatedFrom": "People/劉安婷.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:f5a74a02db786491",
-          "sourceBodyHash": "sha256:8514a8a697807f6e",
-          "translatedAt": "2026-07-25T15:39:20+08:00",
+          "sourceCommitSha": "75479a4ea",
+          "sourceContentHash": "sha256:3dee896f2b15c3b8",
+          "sourceBodyHash": "sha256:efca1efad60ae65f",
+          "translatedAt": "2026-09-25T12:01:28+08:00",
           "translationLastCommit": "75479a4e",
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 73847,
+          "bytes": 78553,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/liu-an-ting-teach-for-taiwan.md",
@@ -119047,18 +119084,18 @@
         "hi": {
           "path": "hi/People/pa-chiung-political-youtuber.md",
           "translatedFrom": "People/八炯.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:6599b2ad4c30bd09",
-          "sourceBodyHash": "sha256:bc866bec1fdcbd6f",
-          "translatedAt": "2026-07-25T12:45:43+08:00",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6cb3c6ef00fae4cb",
+          "sourceBodyHash": "sha256:04a00b8b001b29b2",
+          "translatedAt": "2026-09-25T10:23:45+08:00",
           "translationLastCommit": "87f270a5",
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
-          "footnoteDefs": 16,
-          "bytes": 38243,
+          "footnoteDefs": 25,
+          "bytes": 90520,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (25→16)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/pa-chiung-political-youtuber.md",
@@ -122508,18 +122545,18 @@
         "ja": {
           "path": "ja/People/yang-chuan-kwang-asian-iron-man.md",
           "translatedFrom": "People/楊傳廣.md",
-          "sourceCommitSha": "0f8fae0a",
-          "sourceContentHash": "sha256:f8a43ac4f3c5c945",
-          "sourceBodyHash": "sha256:564dbfac81e16aa7",
-          "translatedAt": "2026-05-25T21:07:04Z",
+          "sourceCommitSha": "8d0c4a70d",
+          "sourceContentHash": "sha256:3f102f565e503ad8",
+          "sourceBodyHash": "sha256:b14c332dbd93a4eb",
+          "translatedAt": "2026-09-25T12:01:27+08:00",
           "translationLastCommit": "4bc14311",
           "translationLastModified": "2026-05-26T08:08:43+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 18082,
+          "footnoteDefs": 6,
+          "bytes": 18523,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (6→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/yang-chuan-kwang-asian-iron-man.md",
@@ -140104,8 +140141,8 @@
           "sourceContentHash": "sha256:54a5de1265f2b2ea",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T01:52:55.045593+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "86043540",
+          "translationLastModified": "2026-09-25T11:32:40+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "bytes": 98437,
@@ -149332,20 +149369,18 @@
         "id": {
           "path": "id/Food/night-market-culture.md",
           "translatedFrom": "Food/夜市文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:cad0161e7864d0ae",
-          "sourceBodyHash": "sha256:ea37a51a6e2ccfcd",
-          "translatedAt": "2026-07-18T18:59:54+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86820d44ddf9a31a",
+          "sourceBodyHash": "sha256:d37208c6e0c05c9c",
+          "translatedAt": "2026-09-25T10:23:44+08:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 19655,
+          "bytes": 19293,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/night-market-culture.md",
@@ -152551,12 +152586,12 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-23T01:03:11.101505+00:00",
+          "translatedAt": "2026-09-25T03:35:02.913484+00:00",
           "translationLastCommit": "37a6e01f",
           "translationLastModified": "2026-09-23T10:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 63701,
+          "bytes": 59722,
           "armorResidue": 0,
           "status": "stale",
           "reason": "sha-lost-hash-mismatch"
@@ -158304,20 +158339,18 @@
         "id": {
           "path": "id/Food/taiwanese-street-food.md",
           "translatedFrom": "Food/台灣小吃.md",
-          "sourceCommitSha": "1facb1b9c",
-          "sourceContentHash": "sha256:d44d711c2a614f5f",
-          "sourceBodyHash": "sha256:fc8359a5a9777af0",
-          "translatedAt": "2026-07-25T21:33:45+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:da45c346079f5144",
+          "sourceBodyHash": "sha256:40a1aa98903d8e72",
+          "translatedAt": "2026-09-25T10:23:44+08:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 19156,
+          "bytes": 19980,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwanese-street-food.md",
@@ -165776,20 +165809,18 @@
         "ja": {
           "path": "ja/Food/taiwan-specialty-home-cooking.md",
           "translatedFrom": "Food/台灣手路菜.md",
-          "sourceCommitSha": "b0e441fa",
-          "sourceContentHash": "sha256:976bf813ab549fe2",
-          "sourceBodyHash": "sha256:c76694b44c893f41",
-          "translatedAt": "2026-06-10T16:41:16Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9223547d26dcdf04",
+          "sourceBodyHash": "sha256:68bfe9c03d05ae36",
+          "translatedAt": "2026-09-25T12:01:27+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 16423,
+          "bytes": 17685,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/taiwan-specialty-home-cooking.md",
