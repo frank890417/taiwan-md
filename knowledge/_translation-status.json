@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T08:41:28+08:00",
-    "zhCommitHead": "2f8f6d1b6",
+    "lastUpdated": "2026-09-25T09:28:36+08:00",
+    "zhCommitHead": "f879429ae",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1016,
-        "stale": 61,
+        "fresh": 1018,
+        "stale": 59,
         "metadata_stale": 0,
         "missing": 47,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1047,
-        "stale": 30,
+        "fresh": 1050,
+        "stale": 28,
         "metadata_stale": 0,
-        "missing": 47,
+        "missing": 46,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1046,
+        "fresh": 1047,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 61,
+        "missing": 60,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1011,
+        "fresh": 1012,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 111,
+        "missing": 110,
         "orphan": 0
       }
     },
@@ -3158,8 +3158,8 @@
           "sourceContentHash": "sha256:f008ac775b92e042",
           "sourceBodyHash": "sha256:14cffd9d61fb7eb9",
           "translatedAt": "2026-09-25T04:57:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "575e8b66",
+          "translationLastModified": "2026-09-25T08:41:28+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 17794,
@@ -8475,8 +8475,8 @@
           "sourceContentHash": "sha256:1d40bc3d04d5d44b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T21:12:40.625335+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab63f76",
+          "translationLastModified": "2026-09-25T05:26:47+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 24586,
@@ -35507,20 +35507,18 @@
         "ja": {
           "path": "ja/Technology/taiwan-robotics-industry.md",
           "translatedFrom": "Technology/台灣機器人產業.md",
-          "sourceCommitSha": "38412654",
-          "sourceContentHash": "sha256:727c897f10782c2b",
-          "sourceBodyHash": "sha256:3b63599a42d7872a",
-          "translatedAt": "2026-06-02T00:40:00+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:4702dd502f640592",
+          "sourceBodyHash": "sha256:2025d0771f75493c",
+          "translatedAt": "2026-09-25T00:55:15.241733+00:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 22946,
+          "bytes": 23256,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/taiwan-robotics-industry.md",
@@ -41442,7 +41440,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwan-new-media-art.md",
+          "translatedFrom": "Art/台灣新媒體藝術.md",
+          "sourceCommitSha": "ef8fab38e",
+          "sourceContentHash": "sha256:d196b7664449f36f",
+          "sourceBodyHash": "sha256:3affa690cf7b66dc",
+          "translatedAt": "2026-09-25T07:26:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 31840,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -99455,8 +99466,8 @@
           "sourceContentHash": "sha256:8cc10fd808c3a1ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T21:12:40.625335+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "11fffa5d",
+          "translationLastModified": "2026-09-25T05:27:42+08:00",
           "inferred": false,
           "footnoteDefs": 51,
           "bytes": 46833,
@@ -139050,7 +139061,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/ke-zhi-tang-musician.md",
+          "translatedFrom": "People/柯智棠.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:da09e4b3162c5f4c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T00:39:41.991605+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 65,
+          "bytes": 53953,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/ke-zhi-tang-musician.md",
@@ -167004,18 +167028,18 @@
         "id": {
           "path": "id/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:3c85e554c80495b9",
-          "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-08-04T20:19:11+08:00",
+          "sourceCommitSha": "4e22e3bb9",
+          "sourceContentHash": "sha256:3d54c34f765113cd",
+          "sourceBodyHash": "sha256:fa292335dae74f0c",
+          "translatedAt": "2026-09-25T07:26:05+08:00",
           "translationLastCommit": "10383fba",
           "translationLastModified": "2026-08-05T00:44:22+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 13962,
+          "footnoteDefs": 14,
+          "bytes": 24010,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→8)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/ponlai-rice.md",
@@ -168216,18 +168240,18 @@
         "id": {
           "path": "id/History/1935-hsinchu-taichung-earthquake.md",
           "translatedFrom": "History/1935新竹臺中地震.md",
-          "sourceCommitSha": "805e4249e",
-          "sourceContentHash": "sha256:b1b7df2033928d77a11dc2fdec9b5a55d93d5392c3b6dd9f92142b829b41260a",
-          "sourceBodyHash": "sha256:557bef9a7d362fd81901db4cb09205a3ed11c2caef28f5bcf4c3dc7149ec22dd",
-          "translatedAt": "2026-09-10T12:00:00+08:00",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6676da6439aa0dbf",
+          "sourceBodyHash": "sha256:7541a1d205619b0c",
+          "translatedAt": "2026-09-25T07:26:05+08:00",
           "translationLastCommit": "174a83b6",
           "translationLastModified": "2026-09-10T05:31:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 30003,
+          "bytes": 29694,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/1935-hsinchu-taichung-earthquake.md",
@@ -187662,20 +187686,18 @@
         "ja": {
           "path": "ja/Geography/gongguan.md",
           "translatedFrom": "Geography/公館.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:bcc022be65ff89b5",
-          "sourceBodyHash": "sha256:b3b5dbb9d7dd34fc",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:02c38601d122ae9f",
+          "sourceBodyHash": "sha256:2e7aefb4f30ec2e9",
+          "translatedAt": "2026-09-25T07:26:04+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "bytes": 70427,
+          "bytes": 73308,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/gongguan.md",
@@ -188944,8 +188966,8 @@
           "sourceContentHash": "sha256:a74434c8289b52c5",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T21:12:40.625335+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "38f3925d",
+          "translationLastModified": "2026-09-25T05:27:17+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 109854,
@@ -189344,7 +189366,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taitung-county.md",
+          "translatedFrom": "Geography/台東縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8c13ff26b6ae8507",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T00:42:02.705676+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 130862,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taitung-county.md",
