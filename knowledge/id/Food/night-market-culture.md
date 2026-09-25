@@ -1,193 +1,192 @@
 ---
-title: 'Budaya Pasar Malam: Gelombang Penarikan Mandat Terbesar dalam Sejarah dengan 33 Kasus yang Gagal, Mengukur Setiap Skala Demokrasi Taiwan'
-description: '164 pasar malam terdaftar, rata-rata satu pasar malam untuk setiap 38.000 penduduk di Kota Tainan, dari halaman kuil hingga destinasi wisata internasional'
-date: '2026-03-21'
-author: 'Taiwan.md'
+title: 'Budaya Pasar Malam Taiwan'
+description: '164 pasar malam terdaftar, Tainan rata-rata 3,8 juta orang memiliki satu pasar malam, dari kuil hingga destinasi wisata internasional'
+date: 2026-03-21
 category: 'Food'
-subcategory: '饮食场景'
 tags:
-  [
-    'pasar malam',
-    'makanan ringan',
-    'budaya',
-    'wisata',
-    'kehidupan rakyat kecil',
-  ]
-lastVerified: '2026-03-21'
-lastHumanReview: 'true'
+  ['pasar malam', 'kuliner kecil', 'budaya', 'pariwisata', 'kehidupan rakyat']
+subcategory: '飲食場景'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-21
+lastHumanReview: true
 image: '/article-images/food/shilin-night-market-crowd-2015.webp'
+imageAlt: 'Kerumunan pasar malam Shilin'
 imageCredit: 'Richy / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Food/夜市文化.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:cad0161e7864d0ae'
-sourceBodyHash: 'sha256:ea37a51a6e2ccfcd'
-translatedAt: '2026-07-18T18:59:54+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:86820d44ddf9a31a'
+sourceBodyHash: 'sha256:d37208c6e0c05c9c'
+translatedAt: '2026-09-25T10:23:44+08:00'
 ---
 
 # Budaya Pasar Malam Taiwan
 
-> **Ringkasan 30 detik:** Pada tahun 2023, Taiwan memiliki 164 pasar malam yang terdaftar, dengan Kota Tainan mendominasi 49 di antaranya—rata-rata satu pasar malam untuk setiap 38.000 penduduk, kepadatan tertinggi di dunia. Dari lampu minyak tanah di Dadaocheng era Qing hingga destinasi wisata internasional saat ini, pasar malam Taiwan telah melewati 150 tahun sejarah. Di balik semangkuk _omelet kerang_ seharga 50 yuan, terdapat cerminan kehidupan rakyat kecil di pulau ini, serta daya lunak yang menarik jutaan wisatawan setiap tahunnya.
+> **30 detik ikhtisar:** Pada 2023, Taiwan memiliki 164 pasar malam terdaftar, dengan 49 di kota Tainan — rata-rata setiap 3,8 juta orang memiliki satu pasar malam, kepadatan tertinggi di dunia. Dari pasar malam pelita minyak di Dadaocheng, Beijing pada masa Dinasti Qing hingga destinasi wisata internasional saat ini, pasar malam Taiwan telah melalui 150 tahun sejarah. Di balik sebuah mangkuk harga 50 yuan, terkandung makna kehidupan rakyat pulau ini, serta baktu lembut yang menarik jutaan wisatawan setiap tahun.
 
-## Dari Lampu Minyak Tanah ke Lampu Neon: 150 Tahun Sejarah
+## Dari Pelita Minyak ke Lampu Neon: 150 Tahun
 
-Di Dadaocheng, Taipei, pada tahun 1870-an, malam hari tidak selalu tenang. Karyawan perusahaan dagang menyalakan lampu minyak tanah untuk terus menghitung barang dagangan, diikuti oleh gerobak penjual _mie gan_ dan _bakso bulat_ yang juga menyalakan lampu, menyediakan makan malam hangat bagi pekerja malam dan pedagang yang lewat. Ini mungkin merupakan cikal bakal "pasar malam" tertua di Taiwan.
+Di Beijing Dadaocheng pada 1870-an, matahari terbenam tidak berarti sepi. Para pedagang menyalakan lampu minyak untuk menghitung barang, dan para penjual makanan seperti mie daging dan roti daging ikut menyalakan lampu, memberikan makan malam yang hangat bagi para pekerja yang pulang larut malam dan para pelancong yang lewat. Ini mungkin merupakan bentuk awal dari "pasar malam" Taiwan.
 
-Pasar malam yang tercatat secara dokumen pertama kali muncul pada tahun 1908. _Taiwan Daily News_ mencatat adanya pasar malam di area kosong di depan Kuil Tianhou di Qijin, Kaohsiung. Jam operasionalnya dari pukul 6 sore hingga tengah malam, menjual makanan ringan dan barang-barang dagangan. "Pesta Menikmati Kedinginan" (_Na Liang Hui_) pada masa pendudukan Jepang juga turut mendorong perkembangan ini—masyarakat berkumpul pada malam musim panas untuk menikmati hawa sejuk dan menonton pertunjukan, sehingga para pedagang stan pun berkumpul secara alami.
+Pasar malam yang tertuangkan dalam dokumen muncul pada 1908. <<Taiwan Daily News>> mencatat pasar malam di depan kuil Tianhou di Qijin, Kaohsiung, dengan jam operasional dari sore hingga tengah malam, menjual makanan kecil dan kebutuwa. "Nenek-nenek cooling" (ruang terbuka untuk bersantai) pada masa kolonial Jepang juga berperan — orang ramai berkumpul untuk bersantai dan menonton pertunjukan, dan para pedagang pun mengikuti.
 
-Era 1950-an pasca-perang adalah periode ledakan budaya pasar malam. Di era kesulitan ekonomi, usaha kecil menjadi sumber penghidupan bagi banyak orang. Area kosong di depan kuil, serta ruang setelah pasar sayur tutup, diduduki oleh para pedagang stan. Seiring dengan perkembangan urbanisasi, para pedagang stan yang tersebar di berbagai tempat ini secara bertahap terkonsentrasi, membentuk pasar malam yang kita kenal saat ini.
+Pasca-perang, 1950-an menjadi era ledakan budaya pasar malam. Pada masa-masa ekonomi sulit, usaha kecil menjadi sumber penghidupan bagi banyak orang. Ruang kosong di depan kuil, ruang pasar tradisional yang telah ditutup, semuanya dihuni oleh para pedagang. Seiring berkembangnya urbanisasi, para pedagang yang tersebar di berbagai tempat pun perlahan bersatu, membentuk pasar malam yang kita kenal hari ini.
 
-## Fakta Angka dari 164 Pasar Malam
+## Fakta Nyata dari 164 Pasar Malam
 
-Menurut statistik Kantor Wilayah Tengah Kementerian Ekonomi tahun 2023, seluruh Taiwan memiliki **164 pasar malam yang terdaftar**. Angka ini belum termasuk pasar malam kecil yang tidak terdaftar dan pedagang stan bergerak, sehingga jumlah sebenarnya mungkin melebihi 300.
+Menurut statistik Kantor Pusat Ekonomi Taiwan pada 2023, jumlah pasar malam terdaftar di seluruh pulau mencapai **164**. Angka ini belum termasuk pasar malam kecil yang tidak terdaftar dan pedagang keliling, sehingga jumlah sebenarnya mungkin melebihi 300.
 
-**Kota Tainan adalah Kerajaan Pasar Malam**, dengan 49 pasar malam yang mendominasi hampir sepertiga dari seluruh Taiwan. Jika dihitung: populasi Tainan 1,85 juta jiwa, rata-rata satu pasar malam untuk setiap 38.000 penduduk. Kepadatan seperti ini tidak ditemukan di tempat lain di dunia. Filosofi hidup orang Tainan seolah-olah adalah "malam ini mau ke pasar malam mana?"
+**Tainan adalah kerajaan pasar malam**, dengan 49 pasar malam yang menyumbang sepertiga dari seluruh pulau. Hitunglah: populasi Tainan 1,85 juta, rata-rata setiap 3,8 juta orang memiliki satu pasar malam. Kepadatan ini tidak ada duanya di dunia. Filosofi hidup orang Tainan seolah-olah adalah "Hari ini ke pasar malam mana?"
 
-Sebagai perbandingan, Kota Taipei hanya memiliki 11 pasar malam terdaftar, namun skala dan ketenarannya lebih tinggi. **Pasar Malam Shilin** dapat menampung 100.000 pengunjung pada akhir pekan, setara dengan populasi satu kota kecil yang berbondong-bondong masuk.
+Sebaliknya, hanya ada 11 pasar malam terdaftar di Beijing, tetapi skala dan popularitasnya jauh lebih tinggi. **Pasar Malam Shilin** pada akhir pekan dapat menghadirkan hingga 100.000 orang, setara dengan seluruh penduduk sebuah kota kecil.
 
-## Tiga Pasar Malam Legendaris: Masa Lalu dan Masa Kini
+## Tiga Pasar Malam Legendaris: Sebelum dan Sesudah
 
-### Pasar Malam Shilin: Dari Pasar Sayur ke Merek Internasional
+### Pasar Malam Shilin: Dari Pasar Tradisional ke Merek Internasional
 
-Cikal bakal Pasar Malam Shilin adalah Pasar Shilin yang didirikan pada tahun 1909. Pada tahun 1950-an, para pedagang stan mulai berkumpul di luar pasar, secara bertahap membentuk pasar malam. Pada tahun 1983, dibuka Jalan Makanan Bawah Tanah di Jalan Jihe, yang secara resmi menetapkan skala Pasar Malam Shilin.
+Predesesor Pasar Malam Shilin adalah Pasar Shilin yang didirikan pada 1909. Pada 1950-an, para pedagang mulai berkumpul di luar pasar, dan perlahan membentuk pasar malam. Pada 1983, Jalan Bawah Tanah Makanan Enak di Jalan Jiuge resmi dibuka, menjadi fondasi bagi skema Pasar Malam Shilin.
 
-Pasar Malam Shilin saat ini terbagi menjadi dua bagian: area atas di sekitar Teater Yangming menjual pakaian dan barang dagangan, sedangkan jalan makanan bawah tanah fokus pada makanan ringan. **Ayam Goreng Besar** adalah menu andalan (招牌) di sini—pada tahun 1988, "Hao Da Da Ji Pai" (Ayam Goreng Besar Hao Da Da) pertama mulai beroperasi, menciptakan legenda ayam goreng yang lebih besar dari wajah. Satu potong ayam goreng seharga 90 yuan terdengar mahal, tetapi antrean pelanggan tidak pernah putus.
+Hari ini, Pasar Malam Shilin terdiri dari dua bagian: lantai atas di sekitar bioskop Yangming menjual pakaian dan barang-barang kebutuhan, sementara jalan bawah tanah khusus makanan kecil. **Ayam goreng besar** adalah ikonnya — pada 1988, gerai pertama "Ayam Goreng Hao Da Da" membuka, menciptakan legenda ayam goreng yang lebih besar dari wajah. Potongan ayam seharga 90 yuan terdengar mahal, tetapi antrean tidak pernah kosong.
 
-### Pasar Malam Liuhe: Pelopor Wisata Internasional
+### Pasar Malam Lihexin: Pelopor Pariwisata Internasional
 
-Pasar Malam Liuhe bermula dari kumpulan pedagang stan di area kosong Dagangpu pada awal tahun 1950-an. Pada tahun 1987, Pemerintah Kota Kaohsiung merencanakan ruas jalan sepanjang 200 meter di Jalan Liuhe sebagai jalan khusus pejalan kaki, menjadikannya pasar malam wisata yang pertama kali direncanakan oleh pemerintah di Taiwan.
+Pasar Malam Lihexin bermula dari kumpulan pedagang di lahan kosong di Daguangpu pada awal 1950-an. Pada 1987, pemerintah kota Kaohsiung merencanakan 200 meter jalan Lihexin sebagai jalur kaki pejalan kaki, menjadikannya pasar malam pariwisata pertama yang direncanakan pemerintah di Taiwan.
 
-**Bubur Seafood** di sini menggunakan bahan yang nyata: udang, kepiting, kerang, dan daging ikan semuanya dimasukkan ke dalam panci, semangkum seharga 120 yuan, menjadi favorit wisatawan asing. CNN pernah menilai Pasar Malam Liuhe sebagai "Pasar Malam yang Wajib Dikunjungi di Dunia", terutama karena masakan seafood ini.
+**Sup seafood** di sini benar-benar istimewa: udang, kepiting, tiram, dan daging ikan semuanya dimasukkan ke dalam panci, satu mangkuk seharga 120 yuan, favorit wisatawan asing. CNN pernah menilai Lihexin sebagai "pasar malam yang harus dikunjungi di dunia", terutama karena hidangan laut di sana.
 
-### Pasar Malam Feng Chia: Laboratorium Inovasi Makanan Ringan
+### Pasar Malang Fengjia: Laborator Inovasi Makanan Kecil
 
-Pasar Malam Feng Chia berkembang pada tahun 1960-an, namun benar-benar meledak pada tahun 1990-an. Banyak mahasiswa Universitas Feng Chia dengan daya beli kuat, ditambah kecintaan kaum muda terhadap hal-hal baru, menjadikannya tempat kelahiran makanan ringan inovatif.
+Pasar Malam Fengjia mulai berkembang pada 1960-an, tetapi benar-benar meledak pada 1990-an. Banyak mahasiswa universitas Fengjia, konsumen yang kuat, dan generasi muda yang suka mencoba hal baru, membuatnya menjadi pusat inovasi makanan kecil.
 
-**Takoyaki** adalah inovasi Pasar Malam Feng Chia. Pada tahun 1990-an, stan takoyaki pertama memperkenalkan cara memasak Jepang, tetapi menambahkan mayones Taiwan dan bubuk nori, menciptakan "Takoyaki Gaya Taiwan". Sekarang, takoyaki dapat dilihat di seluruh pasar malam di Taiwan, dan sumbernya ada di Feng Chia.
+**Takoyaki** adalah kreasi Pasar Malam Fengjia. Pada 1990-an, gerai pertama takoyaki mengadopsi teknik Jepang, tetapi menambahkan mayones Taiwan dan serbuk nori, menciptakan "takoyaki ala Taiwan". Sekarang, takoyaki dapat ditemukan di pasar malam di seluruh pulau, dan asal-usulnya ada di Fengjia.
 
-## Rantai Industri di Balik Semangkum Omelet Kerang
+## Rantai Pasok di Balik Mangkuk Kuit Asap
 
-Makanan ringan pasar malam yang tampak sederhana ini sebenarnya memiliki rantai industri yang besar. Ambil contoh omelet kerang (_oyster omelet_):
+Makanan kecil yang tampak sederhana sebenarnya didukung oleh rantai pasok yang besar. Mengambil kuit asap sebagai contoh:
 
-**Kerang** terutama berasal dari peternakan di pesisir Yunlin dan Chiayi. Petani kerang di Taiwan menghasilkan sekitar 20.000 ton per tahun, dengan sepertiga masuk ke pasar malam. Satu kerang segar dari laut ke stan pasar malam, melalui proses panen, pembersihan, transportasi, dan grosir, dapat muncul di depan pelanggan dalam waktu tercepat 24 jam.
+**Kuit** terutama berasal dari perusahaan aquakultur di pesisir Yunlin dan Jiayi. Produsen kuit Taiwan menghasilkan sekitar 20.000 ton setiap tahun, dengan sepertiga masuk ke pasar malam. Dari perairan ke laci penjual, kuit segar melalui proses panen, pencucian, pengangkutan, dan eceran, dan dapat sampai ke tangan pelanggan dalam 24 jam.
 
-**Tepung ubi jalar** berasal dari ladang ubi jalar di Erlin, Changhua, dan tempat lain. Omelet kerang pasar malam tidak menggunakan tepung kanji biasa, tetapi pasta yang dibuat dari tepung ubi jalar, tepung ini memberikan tekstur kenyal yang khas pada telur goreng.
+**Tepung ubi** berasal dari sawah ubi di Yilan dan Taichung. Tepung yang digunakan di pasar malam bukan tepung beras biasa, tetapi tepung ubi yang dicampur, memberikan tekstur kenyal yang khas.
 
-**Sayuran** biasanya adalah _bok choy_ atau _chrysanthemum greens_, banyak berasal dari petani sayur Yunlin dan Changhua. Satu stan omelet kerang dapat menjual 200 porsi per hari, membutuhkan 10 jin kerang, 5 jin sayuran, dan 50 butir telur, di belakangnya terhubung dengan mata pencaharian puluhan petani dan nelayan.
+**Sayuran** biasanya berupa sawi pak choi atau bayam, banyak berasal dari petani di Yunlin dan Taichung. Setiap laci kuit asap per hari dapat menjual 200 porsi, membutuhkan 10 kg kuit, 5 kg sayuran, dan 50 butir telur, yang semuanya terhubung dengan puluhan petani dan nelayan.
 
-## Kode Inovasi Makanan Ringan Pasar Malam
+## Kode Rahasia Inovasi Makanan Kecil
 
-Yang paling hebat dari makanan ringan pasar malam Taiwan adalah "inovasi lokal". Makanan asing yang masuk ke Taiwan pasti mengalami perubahan.
+Yang paling hebat dari pasar malam Taiwan adalah "inovasi lokal". Setiap makanan asing yang masuk ke Taiwan pasti akan berubah.
 
-**Bingpi (Pie Lada Hitam)** asalnya adalah makanan ringan Fuzhou, tetapi versi Taiwan menggunakan lada hitam, menambahkan daun bawang, dengan rasa yang lebih kuat. **Baozi (Hamburger Taiwan)** dipelajari dari Fujian, tetapi Taiwan menambahkan acar sayuran, bubuk kacang tanah, dan daun ketumbar, dengan lapisan rasa yang lebih kaya.
+**Roti lada** awalnya adalah makanan kecil dari Fuzhou, tetapi versi Taiwan menggunakan lada hitam dan ditambahkan daun bawang, membuat rasanya lebih kuat. **Roti kelapa** belajar dari Fujian, tetapi Taiwan menambahkan sayuran asam, serbuk kacang tanah, dan ketumbar, membuat lapisannya lebih kaya.
 
-**Teh Mutiara** adalah inovasi murni Taiwan. Pada tahun 1980-an, Chun Shui Tang di Taichung menambahkan _tapioca pearls_ ke dalam teh susu, menciptakan minuman yang memikat seluruh dunia. Sekarang, teh mutiara di Jepang disebut "Teh Susu Taiwan", di Amerika disebut "Bubble Tea", semuanya menandakan garis keturunan Taiwan.
+**Bubble tea** adalah penemuan khas Taiwan. Pada 1980-an, Spring Water Pavilion di Taichung menambahkan bola tepung beras ke dalam teh, menciptakan minuman yang populer di seluruh dunia. Sekarang, bubble tea di Jepang disebut "teh Taiwan", di Amerika disebut "Bubble Tea", semuanya menegaskan keterkaitannya dengan Taiwan.
 
-**Chevron Cake (Wheeled Cake)** juga inovasi Taiwan. Orang Jepang membuat rasa kacang merah, orang Taiwan menemukan krim, cokelat, pasta talas, matcha, dan puluhan isian lainnya. Satu stan chevron cake dapat memiliki 20 rasa, mimpi buruk bagi penderita _choice paralysis_.
+**Roti roda** juga adalah inovasi Taiwan. Orang Jepang membuatnya dengan rasa kacang merah, tetapi orang Taiwan menciptakan puluhan rasa seperti selai mentega, coklat, ubi, dan matcha. Sejenak, sebuah laci roti roda dapat menawarkan 20 rasa, mimpi buruk bagi mereka yang sulit memilih.
 
-## Kehidupan Keliling Pasar Malam Bergerak
+## Kehidupan Berkelana dari Pasar Malam Bergerak
 
-Selain pasar malam tetap, Taiwan juga memiliki sekitar 100 "pasar malam bergerak". Pedagang stan ini membentuk armada truk, pada hari Senin di Kota A, hari Selasa ke Kota B, berkeliling 5-6 lokasi dalam seminggu.
+Selain pasar malam tetap, Taiwan juga memiliki sekitar 100 "pasar malam bergerak". Para pedagang membentuk armada, Senin di desa A, Selasa di desa B, dan seminggu mengunjungi 5-6 lokasi.
 
-**Pasar Malam Bergerak Caotun, Nantou** adalah wakilnya. 40 truk stan membentuk armada, Senin di Caotun, Selasa di Mingjian, Rabu di Zhushan, Kamis di Jiji, Jumat di Shuili. Di setiap tempat, mereka membangun stan di area kosong, membongkar setelah tengah malam, dan pindah ke kota berikutnya keesokan harinya.
+**Pasar Malam Nancai, Nanmen** adalah salah satunya. 40 mobil pedagang membentuk armada, Senin di Nancai, Selasa di Mingjian, Rabu di Zhushan, Kamis di JiJi, dan Jumat di Shuilin. Setiap kali tiba di suatu tempat, mereka akan membangun struktur sementara, dan setelah tengah malam, mereka akan membongkar dan pindah ke desa berikutnya.
 
-Model bisnis ini menyelesaikan masalah kekurangan fungsi komersial di daerah pedalaman. Bagi orang tua di desa, pasar malam bergerak bukan hanya tempat belanja, tetapi juga pertemuan sosial seminggu sekali. Pemilik stan mengenal pelanggan tetap, tahu siapa yang suka makan apa, dan apa yang terjadi di keluarga siapa baru-baru ini.
+Model bisnis ini memecahkan masalah kurangnya fasilitas di daerah terpencil. Bagi orang tua di pedesaan, pasar malam bergerak bukan hanya tempat belanja, tetapi juga pertemuan sosial seminggu sekali. Para pedagang semua mengenal pelanggan tetap, tahu siapa yang suka makan apa, dan tahu kabar apa yang terjadi di keluarga mereka.
 
-## Ekonomi Pasar Malam: Bagaimana Omelet Kerang 50 Yuan Menghasilkan Uang
+## Ekonomi Pasar Malam: Bagaimana Cara Keunti dari Kuit Asap 50 Yuan?
 
-Satu porsi omelet kerang dijual 50 yuan, struktur biayanya kira-kira sebagai berikut:
+Harga jual kuit asap 50 yuan, struktur biaya kira-kira seperti ini:
 
-- Kerang: 15 yuan (6-8 butir)
+- Kuit: 15 yuan (6-8 ekor)
 - Telur: 5 yuan (1 butir)
 - Sayuran: 3 yuan
-- Tepung ubi jalar, bumbu: 2 yuan
-- Sewa stan (dibagi): 8 yuan
+- Tepung ubi, bumbu: 2 yuan
+- Sewa laci (dibagi): 8 yuan
 - Gas, listrik: 2 yuan
-- **Total biaya sekitar 35 yuan, laba kotor 15 yuan**
+- **Total biaya sekitar 35 yuan, keuntungan kotor 15 yuan**
 
-Terlihat margin laba tipis, tetapi satu stan populer dapat menjual 200 porsi semalam, laba kotor 3.000 yuan. Setelah dikurangi biaya tenaga kerja, suami istri yang mengelola satu stan omelet kerang dapat memiliki pendapatan bulanan 50.000-80.000 yuan.
+Sepertinya keuntianya kecil, tetapi laci yang ramai dapat menjual 200 porsi dalam satu malam, keuntungan kotor 3.000 yuan. Setelah dikurangi biaya tenaga kerja, pasangan suami istri yang mengelola laci kuit asap dapat mencapai pendapatan bulanan 50.000-80.000 yuan.
 
-Tentu saja, ini adalah situasi ideal. Sebenarnya, mereka juga harus menghadapi risiko cuaca, persaingan, kenaikan harga bahan baku, dll. Pada tahun 2022, produksi kerang berkurang 30% karena anomali iklim, banyak pedagang stan terpaksa mengurangi jumlah kerang atau menaikkan harga.
+Tentu saja, ini adalah skenario ideal. Secara nyata, para pedagang juga perlu menghadapi risiko seperti cuaca, persaingan, dan kenaikan harga bahan baku. Pada 2022, produksi kuit turun 30% akibat perubahan iklim, banyak pedagang terpaksa mengurangi penggunaan kuit atau menaikkan harga.
 
-## Kartu Nama Wisata Internasional Taiwan
+## Simbol Nama Taiwan bagi Pariwisata Internasional
 
-Bagi wisatawan asing, pasar malam adalah cara paling langsung untuk mengalami Taiwan. Sebelum pandemi tahun 2019, Pasar Malam Shilin menarik lebih dari 10 juta wisatawan per tahun, dengan sepertiga di antaranya adalah orang asing.
+Bagi wisatawan asing, pasar malam adalah cara paling langsung untuk merasakan Taiwan. Sebelum pandemi pada 2019, Pasar Malam Shilin setiap tahun menarik lebih dari 10 juta wisatawan, dengan sepertiga di antaranya adalah wisatawan asing.
 
-**Program kuliner Netflix**, **dokumenter Anthony Bourdain**, **laporan wisata CNN**, semuanya memasukkan pasar malam Taiwan ke dalam daftar destinasi wajib dikunjungi. Pada tahun 2018, _Michelin Guide_ pertama kali datang ke Taiwan, juga memasukkan banyak stan pasar malam, membawa makanan ringan Taiwan ke panggung internasional.
+Program makanan Netflix, dokumenter Anthony Bourdain, laporan perjalanan CNN, semuanya menempatkan pasar malam Taiwan sebagai tempat wajib dikunjungi. Pada 2018, Panduan Michelin pertama kali datang ke Taiwan, juga mencatat banyak laci pasar malam, membawa kuliner Taiwan ke panggung internasional.
 
-Namun, internasionalisasi juga membawa tantangan. Untuk memenuhi selera wisatawan asing, beberapa stan pasar malam mulai menyesuaikan rasa, menaikkan harga, dan menambahkan menu bahasa Inggris. Hasilnya, orang asing merasa tidak otentik, orang lokal merasa terlalu mahal, menciptakan situasi yang tidak disukai kedua belah pihak.
+Namun, internasionalisasi juga membawa tantangan. Untuk menyesuaikan diri dengan wisatawan asing, beberapa laci pasar malam mulai menyesuaikan rasa, menaikkan harga, dan menambahkan menu bahasa Inggris. Akibatnya, wisatawan asing merasa tidak cukup otentik, sementara penduduk lokal merasa terlalu mahal, menciptakan situasi yang tidak memuaskan.
 
-## Tantangan Inovasi Generasi Kedua Pasar Malam
+## Tantangan Inovasi dari Generasi Kedua
 
-Pasar malam sedang menghadapi pergantian generasi. Banyak pedagang stan generasi pertama sudah lanjut usia, tetapi generasi kedua tidak selalu bersedia meneruskan.
+Pasar malam kini sedang menghadapi pergantian generasi. Banyak pedagang generasi pertama yang sudah tua, tetapi generasi kedua tidak selalu bersedia mengambil alih.
 
-**Tahu Busuk Keluarga Lin** adalah toko tua di Pasar Malam Shilin. Pemilik pertama, Lin Chunsheng, mulai menjual tahu busuk pada tahun 1975. Putranya, Lin Zhihong, setelah lulus kuliah bekerja di perusahaan teknologi, baru kembali mengambil alih stan pada tahun 2015. Ia menerapkan sistem POS, mengembangkan layanan pengiriman rumah, mengelola media sosial, dengan omzet tahunan tumbuh dari 2 juta menjadi 5 juta.
+**Tofu kotor keluarga Lin di Pasar Malam Shilin** adalah contoh. Pada 1975, Lin Chun-sheng mulai menjual tofu kotor. Putranya Lin Chih-hung lulusan universitas pernah bekerja di perusahaan teknologi, baru pada 2015 kembali untuk mengelola laci. Dia memperkenalkan sistem POS, mengembangkan layanan pengiriman, dan mengelola media sosial, dengan omzet tahunan tumbuh dari 2 juta hingga 5 juta yuan.
 
-Namun, lebih banyak generasi kedua memilih untuk pergi. Kerja pasar malam berat—menyiapkan bahan pada pukul 4 sore, menutup stan pada pukul 1 malam, hanya libur beberapa hari saat Tahun Baru Imlek. Kaum muda lebih memilih menjadi karyawan kantor daripada menjalani kehidupan seperti ini.
+Namun, lebih banyak generasi kedua yang memilih untuk pergi. Bekerja di pasar malam sangat melelahkan — siapkan bahan makan pukul 4 sore, tutup laci pukul 1 pagi, dan setahun hanya bisa berlibur saat hari raya. Generasi muda lebih memilih untuk menjadi karyawan kantoran, tidak ingin menanggung gaya hidup ini.
 
-Hasilnya adalah penuaan pedagang stan dan kurangnya inovasi. Banyak stan menu-nya tidak berubah selama 20 tahun, model bisnis masih terjebak di era transaksi tunai dan buku catatan tulisan tangan.
+Akibatnya, para pedagang semakin tua, inovasi semakin sedikit. Banyak laci yang selama 20 tahun tidak pernah mengubah menu, dan model bisnis masih tersisa di era transaksi tunai dan pencatatan manual.
 
-## Nyeri Transformasi Digital
+## Sakit Saat Transformasi Digital
 
-Pandemi mempercepat digitalisasi pasar malam. Platform pengiriman makanan masuk, pembayaran mobile menjadi umum, pemesanan makanan online berkembang, pedagang stan tradisional dipaksa belajar teknologi baru.
+Pandemi mempercepat transformasi digital pasar malam. Platform pengiriman, pembayaran seluler, dan pemesanan online semakin populer, memaksa para pedagang tradisional untuk belajar teknologi baru.
 
-**Pasar Malam Ningxia** adalah contoh transformasi. Pada tahun 2020, meluncurkan "Pemesanan Online Pasar Malam Ningxia", pelanggan dapat memesan di internet dan mengambil makanan di tempat, menghindari antrean. Pada tahun yang sama, menerapkan pembayaran digital "Taipei Tong", memungkinkan wisatawan membayar dengan kartu EasyCard atau kartu kredit.
+**Pasar Malam Nanya** adalah contoh transformasi yang baik. Pada 2020, diluncurkan "Pemesanan Online Pasar Malam Nanya", di mana pelanggan dapat memesan melalui internet dan mengambil di tempat, menghindari antrean. Di tahun yang sama, juga mengadopsi pembayaran digital "Taipei Pass", memungkinkan wisatawan untuk membayar dengan kartu atau kartu kredit.
 
-**Pasar Malam Feng Chia** bekerja sama dengan Uber Eats dan foodpanda, memungkinkan konsumen menikmati makanan pasar malam di rumah. Selama pandemi, omzet pengiriman makanan mencapai 20-30% dari total pendapatan, beberapa stan bahkan meningkatkan pendapatan karena hal ini.
+**Pasar Malam Fengjia** juga bekerja sama dengan Uber Eats dan foodpanda, memungkinkan konsumen untuk menikmati makanan pasar malam di rumah. Selama masa pandemi, omzet pengiriman mencapai 20-30% dari total pendapatan, dan beberapa laci bahkan mengalami peningkatan pendapatan.
 
-Namun, digitalisasi juga memiliki biaya. Komisi platform pengiriman makanan 25-30%, menguras margin laba secara signifikan. Pembayaran mobile membutuhkan investasi peralatan dan biaya transaksi. Bagi pedagang stan yang lebih tua, belajar teknologi baru itu sendiri sudah merupakan tantangan.
+Namun, transformasi digital juga memiliki biaya. Platform pengiriman mengambil komisi 25-30%, yang secara signifikan mengurangi keuntungan. Pembayaran seluler membutuhkan investasi peralatan dan biaya transaksi. Bagi para pedagang yang lebih tua, belajar teknologi baru saja adalah tantangan tersendiri.
 
-## Dilema Keamanan Pangan dan Lingkungan
+## Dilema Keselamatan Makanan dan Lingkungan
 
-Masalah keamanan pangan pasar malam sering terdengar. Pada tahun 2019, terjadi wabah keracunan makanan di suatu pasar malam di Changhua, lebih dari 40 orang berobat karena diare akibat konsumsi seafood yang tidak bersih. Pada tahun 2021, suatu pasar malam di Taipei ditemukan menggunakan bahan kadaluarsa.
+Masalah keselamatan makanan di pasar malam terkadang muncul. Pada 2019, sebuah pasar malam di Changhua mengalami wabah makanan, lebih dari 40 orang mengalami diare setelah mengonsumsi seafood tidak bersih. Pada 2021, sebuah pasar malam di Beijing juga ditemukan menggunakan bahan makanan kadaluarsa.
 
-Masalahnya terletak pada kesulitan pengawasan. Jumlah pedagang stan pasar malam besar, mobilitas tinggi, sumber daya manusia unit sanitasi terbatas. Ditambah dengan usaha kecil yang mengejar biaya rendah, sumber bahan baku dan kondisi penyimpanan sulit dikontrol.
+Masalahnya terletak pada kesulitan pengawasan. Jumlah pedagang pasar malam sangat banyak, mobilitas tinggi, dan sumber daya petugas kesehatan terbatas. Selain itu, usaha kecil yang mengutamakan biaya rendah membuat sulit untuk mengontrol sumber dan kondisi penyimpanan bahan makanan.
 
-Tekanan lingkungan juga meningkat. Pasar malam banyak menggunakan peralatan sekali pakai, menghasilkan sampah yang signifikan. Kota Taipei pada tahun 2020 menuntut stan pasar malam menyediakan layanan penyewaan peralatan ramah lingkungan, tetapi efektivitas implementasi terbatas—konsumen merasa repot, stan merasa menambah biaya.
+Tekanan lingkungan juga semakin meningkat. Pasar malam banyak menggunakan peralatan makan sekali pakai, menghasilkan sampah yang signifikan. Pada 2020, Beijing memaksa para pedagang pasar malam menyediakan layanan alat makan yang ramah lingkungan, tetapi efeknya terbatas — konsumen merasa tidak nyaman, dan pedagang merasa biayanya meningkat.
 
-## Wajah Baru Pasar Malam di Era Pasca-Pandemi
+## Bentuk Baru Pasar Malam di Era Pasca-Pandemi
 
-Pandemi mengubah ekosistem pasar malam. Pengaturan arus orang, sistem nama nyata, menjaga jarak sosial, membuat pasar malam yang biasanya ramai dan sesak menjadi sepi. Banyak stan tua tidak tahan terhadap pandemi dan bangkrut, ada juga darah baru yang masuk pada kesempatan ini.
+Pandemi mengubah ekosistem pasar malam. Pengendalian aliran orang, pendaftaran nama, dan menjaga jarak sosial membuat pasar malang yang dulunya ramai dan sesak menjadi sepi. Banyak pedagang lama yang tidak tahan dan bangkrut, sementara darah baru masuk.
 
-**Pemuda-an** adalah tren yang jelas. Stan baru terutama berusia 30-40 tahun, memiliki latar belakang pendidikan yang baik, pandai menggunakan media sosial untuk pemasaran. Stan mereka lebih modern, menu lebih beragam, dan harga juga lebih tinggi.
+**Generasi muda** adalah tren yang jelas. Para pedagang baru biasanya berusia 30-40 tahun, memiliki latar belakang pendidikan yang baik, dan menguasai pemasaran melalui media sosial. Desain laci mereka lebih modern, menu lebih beragam, dan harga lebih tinggi.
 
-**Boutique-ization** juga terjadi. Beberapa stan pasar malam mulai menekankan bahan organik, buatan tangan, tanpa bahan tambahan, mengambil jalur harga tinggi yang elegan. Semangkum "mie sapi premium" dapat dijual seharga 200 yuan, dengan target konsumen yang bersedia membayar untuk kualitas.
+**Produk premium** juga sedang berkembang. Beberapa laci pasar malam mulai menekankan bahan organik, pembuatan tangan, dan tanpa bahan pengawet, beralih ke jalur mewah dan berkualitas tinggi. Satu mangkuk "mie sapi premium" dapat dijual dengan harga 200 yuan, dengan konsumen yang bersedia membayar untuk kualitas.
 
-**Tematisasi** adalah tren lain. "Pasar Malam Sore" di Danshui, Taipei Baru (New Taipei) berfokus pada budaya kreatif, menggabungkan pertunjukan seni dan makanan. "Pasar Malam Dadong" di Tainan merencanakan area makanan internasional, mengimpor masakan Thailand, Jepang, dan Korea.
+**Tema** adalah tren lain. Pasar Malam Senchao di New Taipei menggabungkan seni kreatif, pertunjukan seni, dan kuliner. Pasar Malam Dongshan di Tainan merencanakan zona makanan internasional, mengundang masakan Thailand, Jepang, dan Korea.
 
-## Filosofi Hidup Alternatif Pasar Malam Tainan
+## Filosofi Hidup Alternatif dari Pasar Malam Tainan
 
-Kembali ke angka di awal: 49 pasar malam di Tainan, kepadatan tertinggi di seluruh Taiwan. Namun jika dilihat lebih detail, akan ditemukan ciri khas pasar malam Tainan—banyak yang tidak buka setiap hari.
+Kembali ke angka pembuka: 49 pasar malam di Tainan, kepadatan tertinggi di pulau. Namun, setelah diperhatikan, pasar malam Tainan memiliki ciri khas — banyak yang tidak buka setiap hari.
 
-**Pasar Malam Huayuan** buka Kamis, Sabtu, Minggu; **Pasar Malam Dadong** buka Senin, Selasa, Jumat; **Pasar Malam Wusheng** buka Rabu, Sabtu. Orang Tainan menemukan "sistem shift pasar malam", memungkinkan pedagang stan berkeliling beroperasi, dan konsumen dapat mengunjungi pasar malam setiap hari.
+**Pasar Malang Kebun** buka pada Kamis, Sabtu, dan Minggu; **Pasar Malam Dongshan** buka pada Senin, Selasa, dan Jumat; **Pasar Malang Wusheng** buka pada Rabu dan Sabtu. Orang Tainan menciptakan "sistem rotasi pasar malam", memungkinkan para pedagang untuk berkelana, dan konsumen dapat menemukan pasar malam setiap hari.
 
-Model ini mencerminkan ritme hidup orang Tainan. Tidak seperti orang Taipei yang terburu-buru, orang Tainan memiliki waktu untuk menikmati secara perlahan. Hari ini pergi ke Pasar Malam Huayuan untuk semangkum sup ikan, besok ke Pasar Malam Dadong untuk membeli pakaian, lusa ke Pasar Malam Wusheng untuk jalan-jalan, jadwal seminggu penuh tetapi tidak terburu-buru.
+Model ini mencerminkan gaya hidup orang Tainan. Berbeda dengan orang Beijing yang sibuk, orang Tainan memiliki waktu untuk menikmati secara perlahan. Hari ini pergi ke Pasar Malang Kebun untuk makan sup ikan, besok pergi ke Pasar Malang Dongshan untuk beli pakaian, lusa ke Pasar Malang Wusheng untuk berjalan-jalan, sehingga seminggu penuh aktivitas namun tidak terburu-buru.
 
-Pasar malam Tainan juga memiliki ciri khas—banyak stan hanya menjual satu hal. **Ami Fried Egg** hanya menjual telur goreng, **stan lumpia** hanya menjual lumpia, **stan nasi** hanya menjual nasi. Hasil dari spesialisasi satu hal adalah kualitas yang sangat tinggi, setiap stan memiliki pelanggan setia.
+Pasar malam Tainan juga memiliki ciri khas — banyak laci yang hanya menjual satu jenis makanan. **Telur kukus keluarga Lin** hanya menjual telur kukus, **laci kembang roll** hanya menjual kembang roll, **laci mie kering** hanya menjual mie kering. Fokus pada satu hal menghasilkan kualitas yang sangat tinggi, dan setiap laci memiliki pelanggan setia.
 
 ## Imajinasi Masa Depan Budaya Pasar Malam
 
-Pasar malam Taiwan telah mencapai titik ini, bukan hanya tempat makan, tetapi simbol budaya. Ini mewakili makanan rakyat, kehidupan rakyat kecil, dan rasa kehangatan Taiwan. Namun menghadapi perubahan zaman, pasar malam juga harus berubah.
+Hari ini, pasar malam Taiwan sudah tidak hanya sekadar tempat makan, tetapi menjadi simbol budaya. Mereka mewakili kuliner rakyat, kehidupan sehari-hari, dan kehangatan hati orang Taiwan. Namun, di tengah perubahan zaman, pasar malam juga harus berubah.
 
-**Keberlanjutan** adalah kunci. Mengurangi peralatan sekali pakai, mendukung bahan lokal, mengurangi dampak lingkungan. Beberapa pasar malam mulai mendorong program "Pasar Malam Hijau", mendorong stan menggunakan peralatan yang dapat digunakan kembali, memasang tempat daur ulang, mengurangi pemborosan makanan.
+**Berkelanjutan** adalah kunci. Mengurangi penggunaan peralatan makan sekali pakai, mendukung bahan baku lokal, dan mengurangi dampak lingkungan. Beberapa pasar malam mulai mendorong "Pasar Malam Hijau", mendorong para pedagang untuk menggunakan peralatan makan yang dapat digunakan kembali, mengatur tempat pengembalian, dan mengurangi pemborongan makanan.
 
-**Pelestarian Budaya** sama pentingnya. Pasar malam tidak boleh hanya menjadi bisnis, tetapi juga harus mempertahankan konten budaya. Mencatat kisah stan tua, mewariskan kerajinan tradisional, mempertahankan ciri khas lokal, agar pasar malam tidak menjadi pusat perbelanjaan lainnya.
+**Pelestarian budaya** juga penting. Pasar malam tidak boleh hanya tersisa sebagai pusat perbelanjaan, tetapi juga harus mempertahankan makna budaya. Mencatat kisah para pedagang tua, meneruskan keterampilan tradisional, dan mempertahankan ciri khas lokal, agar pasar malam tidak berubah menjadi pusat perbelanjaan lain.
 
-**Inovasi dan Perubahan** juga tidak boleh kurang. Menggabungkan teknologi untuk meningkatkan efisiensi, mengembangkan layanan baru, memperluas pasar internasional. Namun inovasi tidak boleh kehilangan akar—daya tarik pasar malam terletak pada interaksi hangat antar manusia, bukan mesin otomatis yang dingin.
+**Inovasi tanpa batas** juga diperlukan. Menggabungkan teknologi untuk meningkatkan efisiensi, mengembangkan model layanan baru, dan memperluas pasar internasional. Namun, inovasi tidak boleh kehilangan esensi — daya tarik pasar malam terletak pada interaksi hangat antar manusudia, bukan mesin otomatis yang dingin.
 
 ## Melihat Taiwan di Pasar Malam
 
-Setiap orang Taiwan memiliki kenangan pasar malamnya sendiri. Masa sekolah berkeliling Pasar Malam Shilin dengan teman sekelas, berkencan ke Pasar Malam Feng Chia dengan pasangan, membawa orang tua ke pasar malam lokal untuk menikmati rasa yang familiar. Pasar malam adalah bank memori bersama orang Taiwan, juga jendela bagi teman-teman asing untuk mengenal Taiwan.
+Setiap orang Taiwan memiliki kenangan pasar malam sendiri. Pada masa SMA, pergi ke Pasar Malang Shilin bersama teman-teman, pada masa pacaran pergi ke Pasar Malang Fengjia bersama pasangan, dan membawa orang tua ke pasar malang lokal untuk makan makanan yang dikenal. Pasar malam adalah gudang kenangan bersama orang Taiwan, dan juga jendela bagi teman-teman asing untuk mengenal Taiwan.
 
-Semangkum omelet kerang 50 yuan, secangkir teh mutiara 30 yuan, satu porsi ayam goreng 90 yuan, di baliknya tidak hanya membawa kenikmatan lidah, tetapi juga kecerdikan hidup, semangat inovasi, dan kehangatan manusia Taiwan. Budaya pasar malam dapat diwariskan hingga sekarang dan pergi ke dunia, tepat adalah bukti terbaik daya lunak Taiwan.
+Segelas kuit asap 50 yuan, segelas bubble tea 30 yuan, sepotong ayam goreng 90 yuan, yang terdiri tidak hanya dari kenikmatan rasa, tetapi juga dari kebijaksanaan hidup orang Taiwan, semangat inovasi, dan kehangatan kebersamaan. Budaya pasar malam yang bertahan hingga kini dan menyebar ke seluruh dunia, adalah bukti terbaik dari kekuatan lunak Taiwan.
 
-Dalam gelombang globalisasi, pasar malam membuat Taiwan mempertahankan keunikan. Di era perubahan cepat, pasar malam membuat orang mengingat keindahan hidup lambat. Di dunia digital, pasar malam memberikan kehangatan interpersonal yang nyata. Ini adalah nilai berharga budaya pasar malam Taiwan—di stan kecil, melihat jiwa sebuah pulau.
+Di tengah gelombang globalisasi, pasar malam membuat Taiwan tetap unik. Di tengah era perubahan yang cepat, pasar malam mengingatkan kita pada keindahan hidup yang perlahan. Di tengah dunia digital, pasar malang menyediakan kehangatan hubungan yang nyata. Inilah nilai berharga dari budaya pasar malam Taiwan — di laci kecil, kita dapat melihat jiwa dari sebuah pulau.
+
+## Sumber Gambar
+
+- Hero: Kerumunan Pasar Malam Shilin, fotografi oleh Richy, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg), CC BY-SA 3.0。
 
 ## Referensi
 
-- [Kantor Wilayah Tengah Kementerian Ekonomi - Peraturan Manajemen Pasar Malam](https://www.moea.gov.tw/)
-- [Kementerian Luar Negeri - Laporan Khusus Pergi ke Pasar Malam](https://nspp.mofa.gov.tw/nspp/news.php?unit=406&post=234073)
-- [Bureau Pariwisata Kementerian Transportasi - Panduan Pasar Malam Taiwan](https://www.taiwan.net.tw/)
-- [Supertaste - Paket Ringkas Jam Operasional Seluruh Taiwan](https://supertaste.tvbs.com.tw/pack/320927)
+- [Kantor Pusat Ekonomi - Aturan Pengelolaan Pasar Malam](https://www.moea.gov.tw/)
+- [Kementerian Luar Negeri - Laporan Khusus tentang Pariwisata ke Pasar Malam](https://nspp.mofa.gov.tw/nspp/news.php?unit=406&post=234073)
+- [Kementerian Pengangkutan dan Komunikasi - Panduan Pasar Malam Taiwan](https://www.taiwan.net.tw/)
+- [Sobat Kuliner - Ringkasan Lengkap Jam Operasional Pasar Malam di Seluruh Pulau](https://supertaste.tvbs.com.tw/pack/320927)

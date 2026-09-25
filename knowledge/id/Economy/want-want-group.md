@@ -1,14 +1,14 @@
 ---
-title: 'Want Want: Dari Raja Kue Beras ke Raksasa Media, Transisi Kekuasaan'
-description: 'Pada 1976, Tsai Eng-meng berusia 19 tahun mengambil alih Yilan Food, dari diejek sebagai "pemboros" hingga bangkit berkat teknologi kue beras Jepang menjadi orang terkaya. Setelah mengakuisisi China Times Group pada 2008, kerajaan camilan ini bertransformasi menjadi raksasa media paling kontroversial di Taiwan, memicu gerakan anti-monopoli media yang tak terduga sebelumnya.'
+title: 'Wang Wang: Transisi Kekuatan dari Raja Keripik hingga Raksasa Media'
+description: 'Pada tahun 1976, Tsai Yan-ming (蔡衍明) yang berusia 19 tahun mengambil alih Yilan Foods, berubah dari dicemooh sebagai "pemboros" menjadi miliarder pertama berkat teknologi keripik Jepang. Setelah mengakuisisi Chukang Group pada tahun 2008, kerajaan makanan ringan ini bertransformasi menjadi raksasa media paling kontroversial di Taiwan, memicu gerakan anti-monopoli media yang belum pernah terjadi sebelumnya.'
 date: 2026-07-24
 category: 'Economy'
 tags:
   [
-    'Grup Want Want',
-    'Tsai Eng-meng',
+    'Kelompok Wang Wang',
+    'Tsai Yan-ming',
     'Monopoli Media',
-    'Hubungan Dua Pantai',
+    'Hubungan Lintas Selat',
     'Perusahaan Taiwan',
   ]
 subcategory: '企業列傳'
@@ -20,62 +20,63 @@ readingTime: 15
 curation: 'incubating'
 translatedFrom: 'Economy/旺旺.md'
 sourceCommitSha: '03b3aaae8'
-sourceContentHash: 'sha256:8fc0adba07db27e5'
-translatedAt: '2026-09-23T04:55:39.402752+00:00'
+sourceContentHash: 'sha256:c96d861b28621fd7'
+sourceBodyHash: 'sha256:2386fbe1cd54e9dd'
+translatedAt: '2026-09-25T10:23:44+08:00'
 ---
 
-**Ringkasan 30 detik:** Kisah Want Want Group adalah salah satu transformasi paling drastis dalam sejarah bisnis Taiwan. Ia bermula dari sebuah pabrik kaleng di Yilan, berkat kolaborasi teknologi dengan Jepang untuk mengembangkan kue beras, pada 1980-an menyapu seluruh Taiwan dan berhasil memasuki pasar Tiongkok. Namun, ketika pendiri Tsai Yen-ming pada 2008 membeli _China Times_, CTV, dan CTiTV atas nama pribadi, Want Want tidak lagi sekadar brand makanan, melainkan terlibat di pusat kontroversi politik lintas selat, kebebasan pers, dan monopoli media. Artikel ini membahas bagaimana perusahaan ini berubah dari "camilan untuk anak-anak" menjadi "raksasa yang memengaruhi demokrasi".
+> **Ringkasan 30 Detik:** Kisah Kelompok Wang Wang adalah salah satu transformasi paling dramatis dalam sejarah perusahaan Taiwan. Dimulai dari pabrik kaleng di Yilan, mereka mengembangkan keripik melalui kerja sama teknologi Jepang, menyebar ke seluruh Taiwan pada tahun 1980-an dan berhasil menembus pasar Tiongkok. Namun, ketika pendiri Tsai Yan-ming mengakuisisi Chukang Group (中時集團) dengan nama pribadinya pada tahun 2008, Wang Wang tidak lagi hanya menjadi merek makanan ringan biasa; ia terseret ke pusat kontroversi politik lintas selat, kebebasan pers, dan monopoli media. Artikel ini mengkaji bagaimana perusahaan ini berubah dari "makanan ringan untuk anak-anak" menjadi "raksasa yang memengaruhi demokrasi."
 
-Tahun 1976, Tsai Yen-ming, anak kaya dari Jalan Dihua Taipei, berusia baru 19 tahun sudah menjabat Direktur Umum "Yilan Foods" yang dijalankan ayahnya. Saat itu ia tidak paham sama sekali laporan keuangan, tahun pertama saja rugi 1 miliar TWD, diejek kalangan bisnis sebagai "anak durhaka"[^1]. Untuk membersihkan nama buruknya, ia berkali-kali pergi ke Japan mengunjungi pabrik kue beras besar "Iwatsuka Seika", menunggu dengan sungguh-sungguh di depan pintu selama dua tahun, hingga akhirnya menyentuh hati pendiri Keigo Masao, mendapatkan lisensi teknologi kunci[^2]. Tahun 1983, brand "Want Want" resmi lahir, maskot "Wang Wang" yang berjalan angkuh dengan mata terbelalak, kemudian menjadi kenangan kolektif di seluruh wilayah di kedua sisi selat.
+Pada tahun 1976, Tsai Yan-ming (蔡衍明), seorang pemuda kaya dari Distrik Dihua di Taipei, mengambil posisi direktur utama "Yilan Foods" yang dijalankan oleh ayahnya pada usia baru 19 tahun. Saat itu, ia sama sekali tidak mengerti laporan keuangan dan merugi sebesar seratus juta dolar Taiwan pada tahun pertamanya, sehingga dicemooh oleh kalangan bisnis saat itu sebagai "pemboros" [^1]. Untuk membersihkan nama baiknya, ia berulang kali mengunjungi pabrik keripik Jepang, Iwatsuka Seika (岩塚製菓), menunggu di gerbang selama dua tahun sebelum akhirnya menyentuh hati pendirinya, Keigo Masao (惠後正雄), dan mendapatkan lisensi teknologi yang krusial [^2]. Pada tahun 1983, merek "Wang Wang" secara resmi lahir. Logo "Wangzai" (旺仔) yang berjalan angkuh dengan mata melotot kemudian menjadi memori kolektif di ketiga wilayah lintas selat.
 
-## Dari Anak Durhaka Kembali ke Raja Senbei Lintas Selat
+## Dari Pengembara Kembali Menjadi Raja Keripik Lintas Selat
 
-Tsai Yen-ming mengaitkan keberhasilan Want Want dengan "berkat Tuhan" dan "berani mengambil risiko". Pada 1992, ia melihat peluang reformasi dan pembukaan Tiongkok daratan, mendirikan pabrik pertama di Hunan Changsha. Saat itu ia menerapkan strategi "memberikan coba rasa gratis", memungkinkan jutaan siswa sekolah menikmati Want Want Senbei secara cuma-cuma, dan dengan cepat membuka pasar. Hingga akhir 1990-an, Want Want telah menjadi produsen senbei terbesar di Tiongkok, kekayaan Tsai Yen-ming pun melonjak, berkali-kali menempati posisi orang terkaya di Taiwan.
+Tsai Yan-ming mengaitkan kesuksesan Wang Wang pada "berkah dewa" dan "keberanian untuk maju." Pada tahun 1992, ia melihat peluang dari reformasi Tiongkok daratan dan mendirikan pabrik pertamanya di Changsha, Hunan. Saat itu, ia menerapkan strategi "pemberian sampel," memungkinkan jutaan siswa mencicipi kue kering Wang Wang secara gratis, yang dengan cepat membuka pasar. Pada akhir tahun 1990-an, Wang Wang telah menjadi produsen keripik terbesar di Tiongkok, dan kekayaan Tsai Yan-ming juga meningkat pesat, membuatnya berulang kali menduduki peringkat miliarder terkaya Taiwan.
 
-📝 **Catatan Kurator**: Kelangkaan Want Want lebih tepat disebut sebagai cerminan pengusaha Taiwan generasi pertama yang presisi menangkap "dividen Tiongkok", bukan sekadar mitos pengelolaan.
+📝 Catatan Kurator: Kebangkitan Wang Wang lebih merupakan cerminan dari perusahaan dagang generasi pertama Taiwan yang secara akurat menangkap "keuntungan Tiongkok" daripada sekadar mitos manajemen.
 
-Namun, model bisnis yang sangat bergantung pada pasar Tiongkok ini juga menanam benih kontroversi politik di kemudian hari. Keberhasilan Want Want di Tiongkok membuatnya menjalin hubungan yang dalam dengan otoritas setempat. Tahun 2009, 《Tianxia Magazine》 mengungkap bahwa sebelum mengakuisisi Grup China Times, Tsai Yen-ming pernah bertemu dengan Kepala Kantor Urusan Taiwan Wang Yi; liputan tersebut berjudul "Lapor Kepala, Kami Beli China Times", memicu kecemasan kolektif di masyarakat Taiwan terkait infiltrasi "media merah"[^3].
+Namun, model bisnis yang sangat bergantung pada pasar Tiongkok ini juga menanamkan benih kontroversi politik di kemudian hari. Keberhasilan Wang Wang di Tiongkok membuatnya menjalin hubungan mendalam dengan pihak berwenang setempat. Pada tahun 2009, _The World_ (天下雜誌) mengungkap bahwa Tsai Yan-ming telah bertemu dengan Wang Yi (王毅), direktur Kantor Urusan Negara (國台辦), sebelum mengakuisisi Chukang Group. Laporan tersebut berjudul "Melapor kepada Direktur, Kami Membeli Chukang," yang memicu kecemasan kolektif di masyarakat Taiwan mengenai penetrasi media "media pro-Tiongkok" [^3].
 
-## 2008: Akuisisi yang Mengubah Peta Media Taiwan
+## Tahun 2008: Akuisisi yang Mengubah Peta Media Taiwan
 
-Pada 4 November 2008, Tsai Yen-ming atas nama pribadi mengeluarkan dana 204 miliar TWD untuk membeli grup China Times yang mengalami krisis keuangan. Transaksi ini mengalahkan Jimmy Lai dari Next Media yang saat itu juga berminat mengakuisisi[^4]. Tsai Yen-ming pernah berkata jujur di rapat pendengarannya bahwa dia dulu senang mengelola bisnis makanan, dan membeli media adalah untuk "mempertaruhkan pertarungan pertahanan jati diri", karena tidak ingin orang salah mengira dia hanya seorang pengusaha Taiwan yang hanya tahu mencari uang[^5].
+Pada tanggal 4 November 2008, Tsai Yan-ming mengakuisisi Chukang Group (中時集團) yang sedang mengalami krisis keuangan dengan modal pribadi sebesar 20,4 miliar dolar. Transaksi ini mengalahkan Li Zhiying (黎智英) dari Yizhong Media (壹傳媒), yang juga berniat untuk mengakuisisi pada saat itu [^4]. Tsai Yan-ming pernah menyatakan dalam sidang publik bahwa ia menikmati bisnis makanan ringan dan membeli media adalah untuk "melakukan perang pembelaan pribadi," karena ia tidak ingin orang luar salah mengira dirinya sebagai perusahaan dagang Taiwan yang hanya tahu cara mencari uang [^5].
 
-Namun kenyataannya berlawanan, setelah Grup Media Want Want China Times didirikan, kebijakan beritanya sangat selaras dengan posisi pribadi Tsai Yen-ming. Pada 2012, saat Tsai Yen-ming memberikan wawancara eksklusif kepada The Washington Post, ia mengungkapkan pernyataan seperti "Saya tahu sebenarnya tidak begitu banyak orang yang mati" terkait insiden Tiananmen 4 Juni, yang memicu kontroversi besar[^6]. Kemudian, Grup Want Want semakin terpilin karena kasus akuisisi China Network Systems, yang dinilai akademisi dan organisasi masyarakat sipil akan menciptakan "media raksasa", dan memicu "Gerakan Anti-Monopoli Media" yang krusial dalam sejarah demokrasi Taiwan.
+Namun, kenyataannya berbeda. Setelah Grup Media Wang Wang-Chukang didirikan, arah berita mereka sangat selaras dengan posisi pribadi Tsai Yan-ming. Pada tahun 2012, ketika Tsai Yan-ming diwawancarai oleh _The Washington Post_, ia membuat pernyataan seperti "Saya tahu tidak ada sebanyak itu orang yang meninggal dalam peristiwa Tiananmen," yang menyebabkan kegemparan besar [^6]. Selanjutnya, Grup Wang-Chung juga dituduh oleh kalangan akademisi dan kelompok sipil membentuk "raksasa media" karena akuisisi sistem media Chung-Hia (中嘉系統台), yang kemudian memicu "gerakan anti-monopoli media" yang krusial dalam sejarah demokrasi Taiwan.
 
-📝 Catatan Kurator: Seorang penjual senbei mulai menjual opini, dan orang Taiwan menyadari, di balik rasa manis camilan mungkin tersembunyi pahitnya pengaruh terhadap operasional demokrasi.
+📝 Catatan Kurator: Ketika seseorang yang menjual permen mulai menjual pandangan, orang Taiwan menyadari bahwa di balik rasa manis makanan ringan mungkin tersimpan kepahitan yang memengaruhi jalannya demokrasi.
 
-## Surat Teguran Hukum dan Lingchi: Privatisasi Kekuasaan Media
+## Surat Pemberitahuan dan Penyiksaan: Privatisasi Kekuatan Media
 
-Tindakan paling kontroversial Want Want tidak lain adalah menjadikan media sebagai alat serangan pribadi. Pada 2009, Grup Want Want China Times mengirimkan surat teguran hukum kepada para sarjana dan wartawan yang mengkritik kasus akuisisi mereka, seperti Kuan Chung-hsiang, Cheng Hsiu-ling, Lin Hsing-fei, dan lain-lain; hal ini merupakan preseden sangat jarang dalam sejarah jurnalisme Taiwan di mana media menuntut pengkritiknya[^4]. Selain itu, anggota Legislatif saat itu, Yeh Yi-chin, karena menuntut Tsai Yen-ming menyerahkan surat kuasa di Legislatif, menjadi target serangan berita yang ditargetkan selama tiga hari berturut-turut dengan lebih dari 30 buah berita oleh media di bawah naungan Want Want China Times; Yeh Yi-chin menggambarkan hal ini sebagai "lingchi"[^7].
+Tindakan Wang Wang yang paling kontroversial adalah menggunakan media sebagai alat serangan pribadi. Pada tahun 2009, Grup Wang-Chung mengirim surat peringatan hukum kepada akademisi dan jurnalis yang mengkritik akuisisi mereka, seperti Guan Zhongxiang (管中祥), Cheng Xiuling (鄭秀玲), dan Lin Xingfei (林倖妃), sebuah preseden langka dalam sejarah pers Taiwan di mana media menuntut pengkritiknya terlebih dahulu [^4]. Selain itu, anggota legislatif Ye Yijin (葉宜津) diserang secara berulang oleh media di bawah Wang-Chung selama tiga hari dengan lebih dari 30 berita karena meminta Tsai Yan-ming menyerahkan surat otorisasi di Dewan Legislatif. Ye Yijin menggambarkan ini sebagai "penyiksaan" [^7].
 
-Gaya "siapa yang mendukungku akan berjaya, siapa yang menentangku akan binasa" ini pada akhirnya memicu meledaknya gerakan "Tolak China Times" secara menyeluruh pada 2012. Puluhan ribu mahasiswa dan massa turun ke jalan memprotes monopoli media dan sensor pidato. Tsai Yen-ming di rapat pendengarannya membela diri sebagai "anjing tenggelam", menganggap dirinya sedang menjalani "pemeriksaan pemikiran", namun yang dilihat masyarakat adalah seorang penguasa yang memegang koran dan stasiun televisi, yang justru berusaha mendefinisikan ulang profesionalisme jurnalistik Taiwan[^5].
+Sikap "mereka yang mendukung kami makmur, mereka yang menentang kami binasa" ini akhirnya menyebabkan ledakan gerakan "Menolak Chukang" pada tahun 2012. Puluhan ribu siswa dan warga turun ke jalan untuk memprotes monopoli media dan sensor ujaran. Tsai Yan-ming membela diri dalam sidang publik dengan menyebut dirinya sebagai "anjing yang jatuh ke air," mengklaim bahwa ia sedang menerima "sensor pemikiran," tetapi masyarakat melihat seorang pemegang kekuasaan surat kabar dan stasiun televisi yang berusaha mendefinisikan ulang profesionalisme berita Taiwan [^5].
 
-## Setelah Berbalik: Posisi Want Want di Taiwan Kontemporer
+## Setelah Transformasi: Posisi Wang Wang di Taiwan Kontemporer
 
-Sejak saat ini, Grup Want Want tetap merupakan raksasa makanan multinasional, namun citra sosialnya di Taiwan sudah terputus sepenuhnya dari sekadar merek camilan pada era 1980-an. Tahun 2020, CTi News karena pelanggaran berulang dan kegagalan pengendalian internal, akhirnya tidak memperoleh perpanjangan izin NCC dan dihapus dari TV kabel; hal ini dianggap sebagai penutup tertunda dari gerakan anti-monopoli media.
+Sampai hari ini, Kelompok Wang Wang masih merupakan raksasa makanan multinasional, tetapi citra sosial mereka di Taiwan telah sepenuhnya terlepas dari merek makanan ringan sederhana pada tahun 1980-an. Pada tahun 2020, Chung-Tian Television (中天新聞台) dicabut izinnya oleh NCC karena pelanggaran berulang dan kegagalan kontrol internal, yang dianggap sebagai akhir tertunda dari gerakan anti-monopoli media.
 
-Tsai Yen-ming belakangan ini mulai mengelola media mandiri 「Wan Bo Jiang Gu」, berusaha membentuk ulang citra pribadi dan perusahaan melalui cara bercerita. Sementara putra keduanya, Tsai Wang-chia, di media sosial memperoleh perhatian tidak sedikit netizen muda berkat citra humoris dan dekat dengan rakyat. Strategi PR yang mencoba 「menghilangkan politik」 ini berusaha keras menemukan titik tumpu baru di masyarakat Taiwan yang sangat terbelah.
+Dalam beberapa tahun terakhir, Tsai Yan-ming telah mengelola media sosial pribadi "Wang Bo Jiang Gu" (旺伯講古), mencoba membentuk kembali citra pribadi dan perusahaan melalui penceritaan. Sementara putra keduanya, Tsai Wangjia (蔡旺家), menarik perhatian banyak netizen muda dengan citra yang lucu dan membumi di media sosial. Strategi PR untuk "mendekonstruksi politik" ini berusaha mencari pijakan baru dalam masyarakat Taiwan yang sangat terbelah.
 
-📝 Catatan Kurator: Kita tetap memakan Want Want Senbei, tetapi kini setiap gigitan mungkin memunculkan di hati tidak hanya rasa masa kecil, melainkan juga renungan mendalam tentang struktur kekuasaan di balik si anak laki-laki memiringkan mata itu.
+📝 Catatan Kurator: Kita masih mengonsumsi permen Wang Wang, tetapi setiap gigitan mungkin tidak hanya mengingatkan pada rasa masa kecil, tetapi juga mendorong pemikiran mendalam tentang struktur kekuasaan di balik anak laki-laki bermata melotot itu.
 
 ## Referensi
 
-[^1]: [Tahukah Anda? Saat usia 19 tahun, Tsai Yen-ming mengambil alih usaha keluarga, karena tidak bisa membaca laporan keuangan, tahun pertama saja rugi 1 miliar TWD](https://www.facebook.com/FollowYourDreamsComeTrue/posts/1316460247179940/) — Posting publik Facebook
+[^1]: [Tahukah Anda? Ketika Tsai Yan-ming yang berusia 19 tahun mengambil alih bisnis keluarga, ia merugi seratus juta dolar Taiwan pada tahun pertama karena tidak mengerti laporan keuangan](https://www.facebook.com/FollowYourDreamsComeTrue/posts/1316460247179940/) — Unggahan Facebook Publik
 
-[^2]: [Perjalanan kewirausahaan legendaris Tsai Yen-ming Want Want dari Cina kembali ke Taiwan](https://www.wealth.com.tw/articles/90841180-556f-4570-8673-a35a7ec2cb8c) — Lihat tautan asli untuk detail lengkap
+[^2]: [Perjalanan Kewirausahaan Legendaris Wang Wang dari "Wang" Tiongkok ke Taiwan](https://www.wealth.com.tw/articles/90841180-556f-4570-8673-a35a7ec2cb8c) — Lihat materi tambahan dalam tautan asli
 
-[^3]: [Laporan Kepala, Kami Membeli China Times](https://www.cw.com.tw/article/article.action?id=5001838&page=5) — Lihat tautan asli untuk detail lengkap
+[^3]: [Melapor kepada Direktur, Kami Membeli Chukang](https://www.cw.com.tw/article/article.action?id=5001838&page=5) — Lihat materi tambahan dalam tautan asli
 
-[^4]: [Kasus Akuisisi Want Want terhadap China Times, CTiTV, dan CTV](https://zh.wikipedia.org/zh-hant/%E6%97%BA%E6%97%BA%E4%BD%B5%E8%B3%BC%E4%B8%AD%E6%99%82%E4%B8%AD%E5%A4%A9%E4%B8%AD%E8%A6%96%E4%BA%8B%E4%BB%B6) — Entri Wikipedia
+[^4]: [Insiden Akuisisi Chukang dan Chung-Tian oleh Wang Wang](https://zh.wikipedia.org/zh-hant/%E6%97%BA%E6%97%BA%E4%BD%B5%E8%B3%BC%E4%B8%AD%E6%99%82%E4%B8%AD%E5%A4%A9%E4%B8%AD%E8%A6%96%E4%BA%8B%E4%BB%B6) — Entri Wikipedia
 
-[^5]: [Tsai Yen-ming: Hadir Menerima 'Pemeriksaan Pemikiran'](https://news.ltn.com.tw/news/life/paper/581957) — Liputan Liberty Times
+[^5]: [Tsai Yan-ming: Menerima "Sensor Pemikiran"](https://news.ltn.com.tw/news/life/paper/581957) — Laporan Liberty Times
 
-[^6]: [Dari Taiwan: 'Pemeriksaan Pemikiran' Magnat Media](https://www.bbc.com/zhongwen/trad/taiwan_letters/2012/05/120510_twletter_byjameslin) — Liputan BBC News versi Chinese
+[^6]: [Taiwan Lai Hong: "Sensor Pemikiran" dari Magnat Media](https://www.bbc.com/zhongwen/trad/taiwan_letters/2012/05/120510_twletter_byjameslin) — Laporan BBC News Mandarin
 
-[^7]: [Want Want Group Sensor Diri Demi Keuntungan](https://www.peopo.org/news/91123) — Lihat tautan asli untuk detail lengkap
+[^7]: [Audit Diri Kelompok Wang Wang yang Mengutamakan Keuntungan](https://www.peopo.org/news/91123) — Lihat materi tambahan dalam tautan asli
 
-[^8]: [【Cerita Want Want】'Direktur Want Want Usia 19 Tahun! Asal Usul Want Want: Yilan Foods - Dimulai dari Kaleng Ikan!'](https://www.youtube.com/watch?v=Mdxcx5T1Sxs) — Rekaman video YouTube
+[^8]: [【Wang Bo Jiang Gu】"CEO Wang Berusia 19 Tahun! Yilan Foods, Pendahulu Wang Wang - Dimulai dari Kaleng Ikan!"](https://www.youtube.com/watch?v=Mdxcx5T1Sxs) — Rekaman Video YouTube
 
-[^9]: [Sejarah Perusahaan - Want Want Group](https://www.want-want.com/about/history) — Lihat tautan asli untuk detail lengkap
+[^9]: [Sejarah Perusahaan - Kelompok Wang Wang](https://www.want-want.com/about/history) — Lihat materi tambahan dalam tautan asli
 
-[^10]: [Republik China Tidak Sama dengan 'Cina' — Dialektika Hukum Terkait Pernyataan Want Want Group](https://tw.news.yahoo.com/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%B8%8D%E7%AD%89%E5%90%8C%E6%96%BC-%E4%B8%AD%E5%9C%8B-%E9%97%9C%E6%96%BC%E6%97%BA%E6%97%BA%E9%9B%86%E5%9C%98%E8%AA%AA%E6%B3%95%E7%9A%84%E6%B3%95%E5%BE%8B%E8%BE%AF%E8%AD%89-222000473.html) — Liputan Yahoo News
+[^10]: [Republik Tiongkok Tidak Sama dengan "Tiongkok" — Debat Hukum Mengenai Kelompok Wang Wang](https://tw.news.yahoo.com/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%B8%8D%E7%AD%89%E5%90%8C%E6%96%BC-%E4%B8%AD%E5%9C%8B-%E9%97%9C%E6%96%BC%E6%97%BA%E6%97%BA%E9%9B%86%E5%9C%98%E8%AA%AA%E6%B3%95%E7%9A%84%E6%B3%95%E5%BE%8B%E8%BE%AF%E8%AD%89-222000473.html) — Laporan Yahoo News
