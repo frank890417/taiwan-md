@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T15:09:34+08:00",
-    "zhCommitHead": "5d42267cb",
+    "lastUpdated": "2026-09-25T15:18:31+08:00",
+    "zhCommitHead": "8611345bb",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 41,
+        "fresh": 1037,
+        "stale": 40,
         "metadata_stale": 0,
         "missing": 47,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1027,
+        "fresh": 1029,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 95,
+        "missing": 93,
         "orphan": 0
       }
     },
@@ -23120,8 +23120,8 @@
           "sourceContentHash": "sha256:cdcf37b0b24fd05b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T06:19:59.989152+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8611345b",
+          "translationLastModified": "2026-09-25T15:09:34+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "bytes": 111010,
@@ -25696,8 +25696,8 @@
           "sourceContentHash": "sha256:f8b3c2310e7fb840",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T05:39:07.237990+00:00",
-          "translationLastCommit": "41785b0f",
-          "translationLastModified": "2026-07-25T08:22:47+08:00",
+          "translationLastCommit": "8611345b",
+          "translationLastModified": "2026-09-25T15:09:34+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "bytes": 123040,
@@ -84896,8 +84896,8 @@
           "sourceContentHash": "sha256:3b72a54becd4e249",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T05:16:02.671097+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8611345b",
+          "translationLastModified": "2026-09-25T15:09:34+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "bytes": 155196,
@@ -88322,7 +88322,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Politics/central-election-commission.md",
+          "translatedFrom": "Politics/中選會制度.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:7e5f1972948a38bd",
+          "sourceBodyHash": "sha256:a1bf64af5a7a6426",
+          "translatedAt": "2026-09-25T14:32:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 25135,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -90290,7 +90303,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Politics/taiwan-presidential-pets.md",
+          "translatedFrom": "Politics/總統的寵物.md",
+          "sourceCommitSha": "edae9fc94",
+          "sourceContentHash": "sha256:3392858fc71ecf5e",
+          "sourceBodyHash": "sha256:a651681f805672fe",
+          "translatedAt": "2026-09-25T14:32:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 14272,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -152767,20 +152793,18 @@
         "ja": {
           "path": "ja/Food/taiwan-seafood-culture.md",
           "translatedFrom": "Food/台灣海鮮文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:b19eaae2749a2675",
-          "sourceBodyHash": "sha256:0e334a19b5edfbf1",
-          "translatedAt": "2026-05-01T19:52:32+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83fd36c7a8a59ff5",
+          "sourceBodyHash": "sha256:a8b22a0fba5539c1",
+          "translatedAt": "2026-09-25T14:32:56+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 10232,
+          "bytes": 11186,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/taiwan-seafood-culture.md",
@@ -192897,11 +192921,11 @@
           "sourceContentHash": "sha256:2038e5c6672647ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T05:53:00.905764+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8611345b",
+          "translationLastModified": "2026-09-25T15:09:34+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "bytes": 130886,
+          "bytes": 130888,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
