@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T21:38:13+08:00",
-    "zhCommitHead": "b54661e57",
+    "lastUpdated": "2026-09-25T22:02:03+08:00",
+    "zhCommitHead": "63a77a6b7",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1095,
+        "fresh": 1096,
         "stale": 20,
         "metadata_stale": 0,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1110,
+        "fresh": 1111,
         "stale": 7,
         "metadata_stale": 0,
-        "missing": 7,
+        "missing": 6,
         "orphan": 0
       },
       "id": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1080,
-        "stale": 12,
+        "fresh": 1081,
+        "stale": 11,
         "metadata_stale": 1,
         "missing": 31,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1053,
+        "fresh": 1054,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 69,
+        "missing": 68,
         "orphan": 0
       }
     },
@@ -26625,8 +26625,8 @@
           "sourceContentHash": "sha256:a4422796c61c1b2e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T11:58:04.243674+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63a77a6b",
+          "translationLastModified": "2026-09-25T21:38:13+08:00",
           "inferred": false,
           "footnoteDefs": 47,
           "bytes": 51586,
@@ -99157,7 +99157,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/au-sow-yee.md",
+          "translatedFrom": "People/區秀詒.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:0756e6688779bf0a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T13:46:04.348237+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 35,
+          "bytes": 45783,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -124273,20 +124286,18 @@
         "ru": {
           "path": "ru/People/tanya-chua-singer.md",
           "translatedFrom": "People/蔡健雅.md",
-          "sourceCommitSha": "dc7865f06",
-          "sourceContentHash": "sha256:0b4776a25d38b2ed",
-          "sourceBodyHash": "sha256:126c0129a0743d8a",
-          "translatedAt": "2026-08-05T16:59:11+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:bbe9414090e28df8",
+          "sourceBodyHash": "sha256:eec2d91f1c8e6db1",
+          "translatedAt": "2026-09-25T16:58:30+08:00",
           "translationLastCommit": "872d4def",
           "translationLastModified": "2026-08-06T07:38:21+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 37105,
+          "bytes": 40704,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/tanya-chua-singer.md",
@@ -142192,7 +142203,20 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/frank-huang-psmc.md",
+          "translatedFrom": "People/黃崇仁.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:db74afff74180364",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T13:26:12.958015+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "bytes": 71593,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/frank-huang-psmc.md",
@@ -142812,8 +142836,8 @@
           "sourceContentHash": "sha256:d21eaa1c32fc46c9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T12:24:05.485178+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63a77a6b",
+          "translationLastModified": "2026-09-25T21:38:13+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 54343,
@@ -198668,8 +198692,8 @@
           "sourceContentHash": "sha256:016cbe65076bbcff",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T12:53:51.782674+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63a77a6b",
+          "translationLastModified": "2026-09-25T21:38:13+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "bytes": 53755,
@@ -209119,7 +209143,20 @@
           "status": "missing"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/donggang-king-boat-festival.md",
+          "translatedFrom": "Culture/東港迎王船.md",
+          "sourceCommitSha": "3f9e184dc",
+          "sourceContentHash": "sha256:d56573864b826475",
+          "sourceBodyHash": "sha256:1750eec6a44e0473",
+          "translatedAt": "2026-09-25T16:58:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 36813,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
