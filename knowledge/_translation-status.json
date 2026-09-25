@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T19:52:45+08:00",
-    "zhCommitHead": "e4a632e36",
+    "lastUpdated": "2026-09-25T20:12:34+08:00",
+    "zhCommitHead": "ceb1bfed8",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1091,
-        "stale": 24,
+        "fresh": 1092,
+        "stale": 23,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -68,16 +68,16 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1064,
+        "fresh": 1065,
         "stale": 15,
         "metadata_stale": 0,
-        "missing": 45,
+        "missing": 44,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1092,
-        "stale": 13,
+        "fresh": 1093,
+        "stale": 12,
         "metadata_stale": 0,
         "missing": 19,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1050,
+        "fresh": 1051,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 72,
+        "missing": 71,
         "orphan": 0
       }
     },
@@ -10249,7 +10249,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-25T16:58:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 21496,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-orchid-industry.md",
@@ -26580,7 +26593,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-online-community-migration.md",
+          "translatedFrom": "Technology/台灣網路社群遷徙史.md",
+          "sourceCommitSha": "56f4d6f85",
+          "sourceContentHash": "sha256:a4422796c61c1b2e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T11:58:04.243674+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 47,
+          "bytes": 51586,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -164218,18 +164244,18 @@
         "es": {
           "path": "es/Food/taiwan-bread-and-baking.md",
           "translatedFrom": "Food/台灣麵包與烘焙.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:e4c169783e32f5c2",
-          "sourceBodyHash": "sha256:79036ef58165be78",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:dc1169789f149357",
+          "sourceBodyHash": "sha256:86fbaa53393cb1b7",
+          "translatedAt": "2026-09-25T16:58:22+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 12780,
+          "bytes": 12970,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwan-bread-and-baking.md",
@@ -179879,8 +179905,8 @@
           "sourceContentHash": "sha256:cfc5c04e9673e1a1",
           "sourceBodyHash": "sha256:27b8803688951c5a",
           "translatedAt": "2026-09-25T16:58:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ceb1bfed",
+          "translationLastModified": "2026-09-25T19:52:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 25747,
@@ -181845,20 +181871,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-25T16:58:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 22211,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "path": "hi/History/kano-chiayi-agriculture-forestry.md",
@@ -209565,7 +209578,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwan-advertising-history.md",
+          "translatedFrom": "Culture/台灣廣告史.md",
+          "sourceCommitSha": "f7484ebea",
+          "sourceContentHash": "sha256:5bf5af7cbb7baf0f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T12:05:45.759171+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "bytes": 48094,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-advertising-history.md",
@@ -211366,20 +211392,18 @@
         "pt": {
           "path": "pt/Culture/taiwan-baseball-culture.md",
           "translatedFrom": "Culture/台灣棒球文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:9a4380e463583d63",
-          "sourceBodyHash": "sha256:ffebfda3574ab04b",
-          "translatedAt": "2026-07-26T03:58:09+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:82a373ca1ee51cf4",
+          "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
+          "translatedAt": "2026-09-25T16:58:26+08:00",
           "translationLastCommit": "4b2493f4",
           "translationLastModified": "2026-07-26T04:55:51+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 15901,
+          "bytes": 16035,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/taiwan-baseball-culture.md",
