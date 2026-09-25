@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T02:08:15+08:00",
-    "zhCommitHead": "0f1c5bc39",
+    "lastUpdated": "2026-09-26T02:14:19+08:00",
+    "zhCommitHead": "88e9189c8",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1106,
+        "fresh": 1107,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 6,
+        "missing": 5,
         "orphan": 0
       },
       "es": {
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1094,
-        "stale": 11,
+        "fresh": 1095,
+        "stale": 10,
         "metadata_stale": 0,
         "missing": 19,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1061,
+        "fresh": 1062,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 61,
+        "missing": 60,
         "orphan": 0
       }
     },
@@ -15548,8 +15548,8 @@
           "sourceContentHash": "sha256:b945d3a9f265b5de",
           "sourceBodyHash": "sha256:9cb708cf066e8c05",
           "translatedAt": "2026-09-25T16:58:30+08:00",
-          "translationLastCommit": "3bb81d05",
-          "translationLastModified": "2026-07-28T04:47:58+08:00",
+          "translationLastCommit": "88e9189c",
+          "translationLastModified": "2026-09-26T02:08:16+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 39297,
@@ -38881,8 +38881,8 @@
           "sourceContentHash": "sha256:bcce97e3493eec98",
           "sourceBodyHash": "sha256:c5eb598a94be9567",
           "translatedAt": "2026-09-25T16:58:30+08:00",
-          "translationLastCommit": "c3219c49",
-          "translationLastModified": "2026-09-10T02:34:19+08:00",
+          "translationLastCommit": "88e9189c",
+          "translationLastModified": "2026-09-26T02:08:16+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 27347,
@@ -71775,7 +71775,20 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/shuidaotou-waterworks.md",
+          "translatedFrom": "Society/水道頭.md",
+          "sourceCommitSha": "015d1a9c9",
+          "sourceContentHash": "sha256:d584a485050631e9",
+          "sourceBodyHash": "sha256:5fb85b385727325b",
+          "translatedAt": "2026-09-25T16:58:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 25885,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/shuidaotou-waterworks.md",
@@ -176768,20 +176781,18 @@
         "pt": {
           "path": "pt/History/great-recall-movement-2024.md",
           "translatedFrom": "History/大罷免.md",
-          "sourceCommitSha": "6262f8c93",
-          "sourceContentHash": "sha256:0bdd57229f623a95",
-          "sourceBodyHash": "sha256:9d022e52199911fd",
-          "translatedAt": "2026-07-18T18:57:48+08:00",
+          "sourceCommitSha": "5add39fc8",
+          "sourceContentHash": "sha256:5593221450668391",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T17:55:55.015098+00:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "bytes": 54422,
+          "bytes": 57415,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -17"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/great-recall-movement-2024.md",
@@ -182188,7 +182199,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:3dc0c353cf547397",
+          "sourceBodyHash": "sha256:01899a9de634067d",
+          "translatedAt": "2026-09-25T16:58:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 22956,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -211860,8 +211884,8 @@
           "sourceContentHash": "sha256:82a373ca1ee51cf4",
           "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
           "translatedAt": "2026-09-25T16:58:30+08:00",
-          "translationLastCommit": "2c5705e8",
-          "translationLastModified": "2026-07-26T17:17:57+08:00",
+          "translationLastCommit": "88e9189c",
+          "translationLastModified": "2026-09-26T02:08:16+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 25964,

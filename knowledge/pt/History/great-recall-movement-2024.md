@@ -1,347 +1,357 @@
 ---
-title: 'O Grande Recall: A maior onda de recall da história, com 33 casos rejeitados, mede cada graduação da democracia de Taiwan'
-description: 'Na noite de 26 de julho de 2025, um terço das circunscrições eleitorais de todo o país apuraram votos simultaneamente; 25 casos de recall foram todos rejeitados. Da Ação Pássaro Azul à petição que alegou ultrapassar 1,3 milhão de assinaturas, às três rodadas de votação com 33 casos zerados, esta maior onda de recall da história de Taiwan não destituiu ninguém, mas pela primeira vez mediu simultaneamente a energia de mobilização da democracia, a altura dos limites e o custo da polarização.'
+title: 'Grande onda de referendo: a maior onda de revogação na história de Taiwan, em que nenhuma das 33 propostas foi aprovada, revela cada marca registrada da democracia taiuanesa'
+description: "Na madrugada de 26 de julho de 2025, um terço das distritos eleitorais de todo o país abriu as urnas ao mesmo tempo. Todas as 25 propostas de revogação foram rejeitadas. Da campanha 'Pássaro Azul' às assinaturas que reivindicavam mais de 1,3 milhões de apoios, três ondas de votação com 33 propostas resultaram em zero aprovações. Esta, a maior onda de revocação da história de Taiwan, não derrubou nenhum político, mas pela primeira vez mediu simultaneamente a energia de mobilização da democracia, a altura dos requisitos e o custo da polarização."
 date: 2026-04-13
-category: 'pt'
+category: 'History'
 tags:
   [
-    'Grande Recall',
-    'Recall',
-    'Ação Pássaro Azul',
-    'Lei de Eleições e Recall',
-    'Democracia Direta',
-    'Movimento Cívico',
-    'Legislativo Pequeno, Executivo Grande',
+    'Grande onda de referendo',
+    'revocação',
+    'Pássaro Azul',
+    'lei eleitoral',
+    'democracia direta',
+    'movimento cívico',
+    'maioria silenciosa, minoria ativa',
   ]
-subcategory: 'Democracia e Governança'
+subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-07-16
 lastHumanReview: false
-readingTime: '22'
+researchReport: 'reports/research/2026-07/大罷免.md'
+difficulty: 'intermediate'
+readingTime: 22
 image: '/article-images/history/recall-bluebird-legislative-yuan-2024.webp'
 imageCredit: 'Fujifilmuser Taiwan'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg'
+rationale:
+  why_this_hook: '不用「誰輸誰贏」的藍綠框架寫政治題，改用「一次直接民主的壓力測試」當組織主軸——把 726 開票夜的「25 案全未過」當開場反差，帶讀者去量出動員能量、門檻高度、極化代價三格刻度。中立紀實、不下兩岸判斷。'
+  whats_excluded: '罷團資金結構（查無一手來源，陰謀論風險高）；跨國罷免制度比較（無權威文獻）；韓國彈劾類比（制度邏輯不同，硬比失焦）；兩岸經貿量化衝擊（無數據且涉地緣臆測）；被訴或被起底個人的私人現況（de-center，只保留公共司法事實）。'
+  where_it_hedges: '「逾 130 萬人次連署」標為宣稱值、口徑未經單一官方文件證實，全文只用一次限定語；死亡連署數字攤開多版本並標查對階段與「件／案」單位；柯建銘「一手策畫」明確標為徐巧芯答辯書的轉述指控；境外反應（國台辦／陸委會）獨立標示為境外政府表態與我方回應，不與台灣內部視角並列；罷團志工田野有報導者具名深度素材、反罷方常民聲音的公開深度素材較稀缺，正文以不同意票動機多元段落與被罷方答辯自述平衡敘事溫度。'
+  whos_pushing_back: '藍營支持者（認為結果已是民意肯定、質疑「辦藍不辦綠」）；罷團與支持者（認為是被門檻扼殺的民意）；疲憊的中間選民（在意的是極化的社會成本）；再現主權敏感的讀者（在意 AI 敘事者對兩岸議題的位置）。'
+relatedDiary: ['2026-07-16-171443-recall-workflow']
 translatedFrom: 'History/大罷免.md'
-sourceCommitSha: '6262f8c93'
-sourceContentHash: 'sha256:0bdd57229f623a95'
-sourceBodyHash: 'sha256:9d022e52199911fd'
-translatedAt: '2026-07-18T18:57:48+08:00'
+sourceCommitSha: '5add39fc8'
+sourceContentHash: 'sha256:5593221450668391'
+translatedAt: '2026-09-25T17:55:55.015098+00:00'
 ---
 
-# O Grande Recall: A maior onda de recall da história, com 33 casos rejeitados, mede cada graduação da democracia de Taiwan
+# Grande Recall: a maior onda de revogação da história, em que todos os 33 casos foram rejeetados, medindo cada escala da democracia de Taiwan
 
-> **Resumo em 30 segundos:** Em 2025, os taiwaneses fizeram algo raro no mundo: usaram o poder de recall concedido pela Constituição para lançar uma espécie de referendo de responsabilidade contra mais de um quarto dos legisladores. Nas três rodadas de votação de julho e agosto, os 33 casos de recall não foram aprovados em nenhum deles, a maior onda de recall da história não destituiu nem um único assento. Mas, ao afastar um pouco a lente: este movimento foi mais como um teste de estresse da democracia direta. Na noite de 26 de julho, a taxa de participação de 55,83% estabeleceu um recorde na história dos recalls, ao mesmo tempo em que mediu o quão alto é o limite de recall e quanto custo uma sociedade polarizada precisa pagar. O que foi destituído foi zero; o que foi medido foi muito.
+> **30 segundos de visão geral:** Em 2025, as pessoas em Taiwan fizeram algo raro no mundo: usaram o direito de revogação previsto na constituição para lançar um referendo de responsabilização contra mais de um quarto dos deputados legislativos. Em três ondas de votação, de julho a agosto, nenhum dos 33 casos de revogação foi aprovado — a maior onda de revogação da história não derrubou um único mandatário. Mas ao afastar o olhar: este movimento se assemelha mais a um teste de pressão do democracia direta. Na noite de 726, a taxa de comparecimento de 55,83% estabeleceu um novo recorde na história das revogações, ao mesmo tempo que revelou quão alta é a barra para a revogação e quanto uma sociedade polarizada precisa pagar. O que foi derrubado foi zero; o que foi medido, muito.
 
-Na noite de 26 de julho de 2025, os números da apuração começaram a chegar de todas as partes do país. Neste dia, o destino de 24 legisladores do Partido Kuomintang (KMT) e da prefeita de Hsinchu, Gao Hong-an, foi decidido de uma vez pelos eleitores através do voto — 25 casos foram votados no mesmo dia, o maior número de votações de recall simultâneas na história de Taiwan. No final da tarde, em algumas circunscrições, os votos a favor estavam na liderança, e nas transmissões ao vivo da apuração dos grupos de recall, alguém gritou. Mas, na noite avançada, à medida que os 25 boletins de resultados eram completados um a um, a conclusão foi consistente: todos foram rejeitados[^1].
+No dia 26 de julho de 2025, à noite, os números começaram a fluir de todos os cantos do país. Nesse dia, o destino de 24 deputados legislativos do Partido Nacionalista e da prefeita de Hsinchu, Gao Hong-an, foi decidido de uma só vez pelos eleitores por meio das urnas — 25 casos de revogação votados simultaneamente, o maior número de revogações realizadas ao mesmo tempo na história de Taiwan. À tarde, havia momentos em que os votos a favor lideravam na circunscrição, e alguém gritou na transmissão ao vivo da campanha de revogação. Mas, de madrugada, as 25 fichas foram sendo preenchidas uma a uma, e a conclusão foi a mesma: todos rejeetados[^1]。
 
-A taxa de participação naquela noite atingiu 55,83%, um recorde na história dos recalls de Taiwan[^2]. Uma mobilização cívica de escala histórica resultou em um "nenhum assento foi destituído". Uma noite em que nada foi destituído, mas o que foi medido preencheu todo o negativo.
+A taxa de comparecimento naquela noite chegou a 55,83%, um novo recorde na história das revogações de Taiwan[^2]。Uma mobilização cívica sem precedentes, pelo maior número de revogações, terminou com o resultado de que nenhum mandatário foi derrubado. Uma noite em que nada foi derrubado, porém, deixou marcas densas em toda a película.
 
-Este movimento foi posteriormente conhecido como o "Grande Recall". Para entender o que ele realmente mediu, precisamos primeiro entender as graduações da régua.
+Esse movimento, posteriormente conhecido como "grande recall", exige que entendamos primeiro os pontos de referência da régua.
 
-## O recall precisa passar por três portas: 1%, 10% e um quarto
+## A revogação precisa passar por três portas: 1%, 10% e um quarto
 
-Em Taiwan, para destituir um funcionário público eleito, é necessário passar sequencialmente por três limites numéricos. A primeira é a "proposta": o número de proponentes deve atingir 1% do total de eleitores da circunscrição original. A segunda é a "assinatura": o número de signatários deve atingir 10%. Apenas após ultrapassar essas duas etapas o caso é estabelecido e entra em votação. A terceira é a própria votação — os votos a favor devem superar os votos contra, e os votos a favor também devem atingir 1/4 do total de eleitores da circunscrição original para que o recall seja aprovado[^3].
+Em Taiwan, para revogar um cargo político eleito democraticamente, é preciso passar por três portas de percentuais em sequência. A primeira é a "proposta": o número de proponentes deve atingir 1% do total de eleitores do distrito original. A segunda é a "assinatura": o número de signatários deve atingir 10%. Após passar por essas duas, o caso se forma e entra para votação. A terceira porta é a votação em si — os votos a favor devem superar os contra, e ainda assim os votos a favor precisam atingir um quarto do total de eleitores do distrito original para que a revogação seja aprovada[^3].
 
-Essas três portas também determinam quem tem a oportunidade de ser colocado na plataforma do recall. Os legisladores de circunscrição nacional não proporcional são distribuídos com base na proporção de votos do partido e não possuem "circunscrição original", sendo o sistema fundamentalmente incapaz de destituí-los[^4]; é por isso que os 31 legisladores colocados para votação de recall em 2025 foram todos legisladores de circunscrição territorial. Podem votar os eleitores com idade superior a 20 anos e registrados na circunscrição há pelo menos quatro meses; estudantes do ensino médio de 18 anos não podem votar, e os cidadãos no exterior sem registro de domicílio em Taiwan também não podem votar[^5].
+Essas três portas também determinam quem tem chances de ser levado à revogação. Os deputados legislativos não distritados nacionais, cujos assentos são distribuídos proporcionalmente aos votos de partido, não têm um "distrito original" e sistematicamente não podem ser revogados[^4]. É por isso que, em 2025, os 31 deputados levados à votação de revogação eram todos deputados regionais. Podem votar eleitores com 20 anos de idade, desde que tenham residência no distrito por quatro meses. Estudantes do ensino médio de 18 anos não podem votar, e tampoco podem os taiwaneses que vivem no exterior e não possuem registro civil em Taiwan[^5].
 
-A altura da terceira porta foi ajustada para a forma atual apenas em 2016. Antes disso, o recall adotava o limite "duplo 21": a taxa de participação precisava ultrapassar 50% e os votos a favor precisavam ultrapassar 50% dos votos válidos para ser aprovado. Em 2015, a ação "Cut the Tail" para destituir o legislador Cai Zheng-yuan (Cai Cheng-yuan) teve uma taxa de participação de apenas 24,98%, nem chegando à etapa de votação, o que levou automaticamente ao fracasso do recall[^6]. Em novembro de 2016, o Legislativo aprovou a alteração do limite para "votos a favor superam votos contra e atingem 1/4 dos eleitores", removendo a exigência rígida de uma taxa de participação superior a 50%[^7]; a proposta desta emenda veio de várias versões do grupo do Partido de Poder do Tempo (Taiwan People's Party precursor/era) e dos legisladores do Partido Democrático Progressista (PDP), sendo aprovada após revisão consolidada.
+A terceira porta, elevada, foi ajustada apenas em 2016. Antes disso, a revogação seguia o "duplo 50%": a taxa de comparecimento precisava ser superior a 50%, e os votos a favor precisavam superar a metade dos votos. Em 2015, durante a campanha "cortando o caminho", o deputado Tsai Cheng-yuan teve uma taxa de comparecimento de apenas 24,98%, não chegando nem à votação, e a revogação falhou automaticamente[^6]. Em novembro de 2016, a Câmara Legislativa alterou o critério para "votos a favor superiores aos contra, e atingindo um quarto dos eleitores", eliminando o requisito de taxa de comparecimento superior a 50%[^7]. A proposta veio de várias versões do então partido Times Power e de deputados do Partido do Progresso Democrático, e foi aprovada após análise conjunta.
 
-A ironia é que um dos partidos que propuseram a redução do limite, a figura representativa do Poder do Tempo, Huang Guo-zhang, tornou-se em 2017 o primeiro legislador a ser colocado para votação de recall sob o novo sistema. Desta vez, ele recebeu 48.693 votos a favor, não ultrapassando o limite de 63.888 votos, e manteve seu assento[^8]. Aqueles que reduziram o limite tornaram-se os primeiros testados sob o novo sistema; desta vez, o limite não foi ultrapassado. Este debate institucional sobre "tornar os detentores de cargo atuais mais fáceis de desafiar" já havia sido discutido antes do Grande Recall, e também plantou a semente para o limite de 25% naquele ano de 2025 (veja também [Eleições e Política Partidária de Taiwan](/history/台灣選舉與政黨政治)).
+Irônico, o partido que propôs a redução das barreiras, representado por Huang Kuo-chang do Times Power, tornou-se o primeiro deputado a ser levado à votação de revogação após a nova legislação entrar em vigor, em 2017. Naquela ocasião, ele obteve 48.693 votos a favor, sem ultrapassar a barreira de 63.888 votos, mantendo seu assento[^8]. O que reduziu as barreiras tornou-se o primeiro a ser testado pela nova legislação. Naquela ocasião, a barreira não foi ultrapassada. O debate sistemático sobre "quão fácil deve ser para os incumbentes serem desafiados", já discutido antes da grande revogação, plantou a semente do limite de 25% em 2025 (veja mais em [Eleições e política partidária em Taiwan](/pt/history/taiwan-elections-and-party-politics)).
 
 ```tw-versus
-Antes da emenda de 2016 (Duplo 21) | Após a emenda de 2016 (Sistema Atual)
-Taxa de participação deve exceder 50% | Sem limite de taxa de participação
-Votos a favor devem exceder metade dos votos | Votos a favor devem exceder votos contra
-Limite alto, recall difícil de estabelecer | Votos a favor também devem atingir 1/4 dos eleitores
-Fonte: Lei de Eleições e Recall de Funcionários Públicos, Lawbank
+Antes da reforma de 2016 (duplo 50%) | Após a reforma de 2016 (atual)
+Taxa de comparecimento precisa ser superior a 50% | Sem limite de taxa de comparecimento
+Votos a favor precisam superar a metade dos votos | Votos a favor precisam ser mais que os contra
+Alta barreira, difícil aprovar revogação | Votos a favor também precisam atingir 1/4 dos eleitores
+Fonte: Lei de Eleições e Revogação de Cargos Públicos, base legal
 ```
 
 ```tw-note
 Explicação
-Três proporções facilmente confundidas aparecem neste artigo. "Taxa de participação" é número de votantes ÷ eleitores qualificados; "Taxa de mobilização a favor" é votos a favor ÷ eleitores qualificados, sendo este o fator determinante para a aprovação do recall, com um limite de 25%; "Proporção de votos" é determinado tipo de voto ÷ votos válidos. Os denominadores são diferentes e não podem ser intercambiados.
+Este artigo menciona três proporções fáceis de confundir. "Taxa de comparecimento" é número de eleitores que votaram dividido pelo total de eleitores elegíveis; "taxa de votos a favor" é número de votos a favor dividido pelo total de eleitores elegíveis, e é essa que determina se a revogação passa, com limite de 25%; "taxa de votos" é certa classe de votos dividida pelos votos válidos. Os denominadores são diferentes e não podem ser trocados.
 ```
 
-A régua foi estabelecida. A próxima pergunta é: por que a energia se acumulou até o ponto de usar esta régua? Isso começa com uma diferença de um assento no Legislativo.
+A régua está pronta. Agora a questão é: por que a energia se acumulou até o ponto de usar essa régua — isso começa com uma única vaga na Câmara Legislativa.
 
-## O Legislativo com uma diferença de assento
+## Um espaço de margem na câmara
 
-Nas eleições legislativas de janeiro de 2024, foi eleito um Legislativo onde nenhum partido tinha maioria isolada. O KMT conquistou 52 assentos, o PDP 51, o Partido de Poder do Tempo (TPP) 8, mais 2 assentos de independentes tendenciosamente pan-azul, totalizando 113 assentos[^9]. O KMT tinha apenas um assento a mais que o PDP, mas, graças à cooperação com o TPP, no dia 1º de fevereiro, nas eleições para presidente do Legislativo, enviou Han Kuo-yu ao cargo de presidente com 54 a 51[^10]. O Legislativo com três partidos sem maioria foi, desde o primeiro dia, uma puxada de corda.
+As eleições legislativas de janeiro de 2024 resultaram em um parlamento sem maioria absoluta para qualquer partido. O Partido Nacionalista obteve 52 assentos, o Partido do Progresso Democrático 51, o Partido do Povo de Taiwan 8, mais 2 assentos de não filiados inclinados para a coalizão azul, totalizando 113 assentos[^9]. O Partido Nacionalista liderava o Partido do Progresso Democrático por apenas um assento, mas contava com a cooperação do Partido do Povo de Taiwan na eleição de 1º de fevereiro para a presidência da câmara, onde eleito Han Zheng como presidente da câmara com 54 votos contra 51[^10]. Um parlamento com três partidos sem maioria absoluta começou desde o primeiro dia como uma disputa equilibrada.
 
-A puxada de corda rapidamente se espalhou de pessoal para legislação. Em maio de 2024, os partidos KMT e TPP promoveram a emenda da "Lei de Exercício de Poder do Legislativo", ampliando os poderes de investigação e interpelação do Legislativo e adicionando o "Crime de Desrespeito ao Legislativo". No dia da terceira leitura no final de maio, uma grande multidão se reuniu fora do Legislativo para protestar; este foi o ponto de partida da posterior "Ação Pássaro Azul". O Executivo apresentou uma revisão, que foi rejeitada pelo Legislativo em 21 de junho por 62 a 51[^11]. A controvérsia chegou ao Tribunal Constitucional, e em 25 de outubro do mesmo ano, a Decisão Constitucional nº 9 determinou que várias disposições (Crime de Desrespeito ao Legislativo, disposições parciais de interpelação e investigação) eram inconstitucionais e perdiam efeito, mas simultaneamente determinou que, embora o processo legislativo tivesse defeitos, não atingia o grau de inconstitucionalidade. Esta foi uma decisão de "inconstitucionalidade parcial", não uma revogação total[^12].
+A disputa equilibrada rapidamente se estendeu de cargos para projetos de lei. Em maio de 2024, os partidos azul e branco promoveram a emenda à Lei de Atribuições da Câmara, ampliando os poderes de investigação e questionamento do parlamento, e adicionando o crime de desrespeito à câmara. No dia em que o projeto foi aprovado em terceira votação, grandes multidões se reuniram fora da câmara para protestar, marco inicial da posterior "Operação Pombo". O gabinete apresentou recurso, mas em 21 de junho foi rejeitado pela câmara por 62 votos a 51[^11]. A controvérsia foi levada ao Tribunal Constitucional, e em 25 de outubro, o julgamento nº 9 reconheceu que vários dispositivos (crime de desrespeito à câmara, parte das regras de questionamento e investigação) eram inconstitucionais, mas ao mesmo tempo considerou que, embora o processo legislativo tivesse falhas, ainda não atingia o nível de inconstitucionalidade. Trata-se de uma decisão de "inconstitucionalidade parcial", não de anulação total[^12].
 
-O que realmente aumentou o fogo foi a noite de 20 de dezembro de 2024. KMT e TPP votaram em três leis em terceira leitura: a "Lei de Eleições e Recall" exigia que as petições de recall anexassem cópias do anverso e reverso da identidade; a "Lei do Tribunal Constitucional" elevou o limite de deliberação do Tribunal Constitucional para dez ou mais juízes; a "Lei de Distribuição Financeira" ajustou drasticamente a distribuição de receitas entre o governo central e local, e, segundo os cálculos do Ministério das Finanças, o governo central deveria liberar mais 375,3 bilhões de yuan para o local[^13][^14]. Um mês depois, em 21 de janeiro de 2025, o Legislativo também aprovou em terceira leitura a redução de 207,5 bilhões e o congelamento de 260 bilhões do orçamento geral do governo central (são ações diferentes, não podem ser somadas)[^15][^49]. Ao longo de todo o período de sessão, os combates por essas leis e orçamentos transformaram o Legislativo em uma panela de pressão.
+![Em 21 de maio de 2024, durante a batalha pela reforma das atribuições da câmara, a placa da câmara exibia uma faixa](/article-images/history/recall-legislative-chamber-2024.webp)
+_21 de maio de 2024, durante a batalha pela reforma das atribuições da câmara. Foto: QuYi96 / Wikimedia Commons, CC BY-SA 4.0._
 
-A régua ainda não começou a ler os números, mas as graduações já estavam tremendo. A pressão acumulada no recinto legislativo transbordou os muros, primeiro se tornando o Pássaro Azul fora do Legislativo, depois se transformando em petições de assinatura enviadas uma a uma para as caixas de correio.
+O fato que realmente intensificou a crise foi a noite de 20 de dezembro de 2024. Os partidos azul e branco aprovaram simultaneamente três leis: a Lei Eleitoral exigia que os documentos de recall anexassem cópias frontais e versos do documento de identidade, e aumentava a pena por falsificação de assinaturas para até cinco anos. A Lei de Ação Constitucional elevava o quórum de decisão do Tribunal Constitucional para mais de dez juízes constitucionais. A Lei de Distribuição Orçamentária ajustava significativamente a divisão de recursos entre o governo central e as entidades locais — segundo estimativas do Ministério das Finanças, o governo central precisaria liberar R$375,3 bilhões adicionais para as entidades locais[^13][^14]. Um mês depois, em 21 de janeiro de 2025, a câmara aprovou a redução de R$207,5 bilhões e o congelamento de R$260 bilhões do orçamento geral do governo central (os dois são ações distintas, não podem ser somados)[^15][^49]. Ao longo de toda a sessão legislativa, a batalha entre essas leis e o orçamento transformou a câmara em uma panela de pressão.
+
+Ainda não havia começado a contagem, mas a escala já estava tremendo. A pressão acumulada por um ano dentro da câmara estourou nas paredes externas, tornando-se primeiro os "pombos azuis" lá fora, e depois cartas de apoio enviadas um por uma para caixas de correio.
 
 ```tw-timeline
-Visão panorâmica temporal do Grande Recall (detalhes de cada segmento serão desenvolvidos posteriormente)
-2024/01 | Eleições Legislativas: Três Partidos Sem Maioria | KMT 52, PDP 51, TPP 8, Independente 2
-2024/05 | Emenda do Poder Legislativo + Ação Pássaro Azul | Grande multidão se reuniu fora do Legislativo no dia da terceira leitura
-2024/10 | Decisão Constitucional nº 9 | Várias disposições da emenda do poder parcialmente inconstitucionais
-2024/12 | Terceira Leitura de Três Leis | Lei de Eleições e Recall, Lei do Tribunal Constitucional, Lei de Distribuição Financeira aprovadas no mesmo dia
-2025/01 | Terceira Leitura de Redução/Congelamento do Orçamento Geral + Aliança de Voluntários | Reduzido 207,5 bi, Congelado 260 bi; Petições iniciaram em fevereiro
-2025/07 | Votação das Duas Primeiras Ondas | 13/07 Nantou 1 caso, 26/07 25 casos todos rejeitados
-2025/08 | Terceira Rodada de Votação | 23/08 7 casos + Referendum Nuclear 3 não aprovados
-2026/07 | Impasse Não Resolvido | Emenda do limite de recall ainda não entrou na agenda do Legislativo
-Fonte: Comissão Eleitoral Central, Legislativo, compilação do The Reporter
+Visão geral do grande recall (detalhes de cada fase serão apresentados um a um)
+2024/01 | Eleições legislativas sem maioria absoluta para três partidos | Partido Nacionalista 52, Partido do Progresso Democrático 51, Partido do Povo de Taiwan 8, não filiados 2
+2024/05 | Reforma das atribuições da câmara + operação pombo azul | Grande número de pessoas se reunindo fora da câmara no dia da terceira votação
+2024/10 | Julgamento nº 9 do Tribunal Constitucional | Parte dos dispositivos da reforma das atribuições é parcialmente inconstitucional
+2024/12 | Três leis aprovadas simultaneamente | Lei Eleitoral, Lei de Ação Constitucional e Lei de Distribuição Orçamentária aprovadas no mesmo dia
+2025/01 | Redução e congelamento do orçamento geral + formação da aliança de voluntários | Redução de R$207,5 bilhões e congelamento de R$260 bilhões; início da recolha de assinaturas em fevereiro
+2025/07 | Primeiras duas ondas de votação | 13/7: 1 caso em Nantou; 26/7: 25 casos todos rejeetados
+2025/08 | Terceira onda de votação | 23/8: 7 casos + plebiscito sobre usina nuclear 3 todos rejeetados
+2026/07 | Impasse não resolvido | Emenda da Lei de Recall ainda não submetida a debate na sessão plenária
+Fonte: Comissão Eleitoral Central, Câmara dos Deputados, agregadores de notícias
 ```
 
-## Mil e Trezentas Petições de Assinatura nas Caixas de Correio
+## As 1.300 assinaturas na caixa de correio
 
-A energia da Ação Pássaro Azul não se transformou diretamente em recall. Chen Xiao-wei, o proponente do caso de recall do legislador Niu Xu-ting em Taoyuan, é um pastor; ele lembra aquela curva: "Taoyuan começou a coletar petições de recall desde julho do ano passado, mas em quatro meses e meio, a caixa de correio recebeu apenas 9 petições de Tu Quan-ji e 11 de Niu Xu-ting. Após a Ação Pássaro Azul de inverno em dezembro, podíamos receber 100 a 400 petições por dia; no início de fevereiro deste ano, ao abrir a caixa de correio após o Ano Novo Lunar, estava transbordando com mais de 1.300 petições."[^16] O mar de luzes de celular nas ruas levou quase sete meses para sedimentar-se em petições de assinatura anexando cópias de identidade, enviadas uma a uma para as caixas de correio.
+A energia da ação garota não se transforma diretamente em revogação. Chen Hsiu-chieh, líder do caso de revogação de Taoyuan e pastor, lembra aquela curva: «Taoyuan começou a receber assinaturas de revogação no ano passado, em julho, mas em quatro meses e meio, a caixa de correio só recebeu 9 de Tu Quichi e 11 de Niu Xunting. Após a ação garota no inverno de dezembro, a caixa podia receber de 100 a 400 por dia. Em fevereiro, após o Ano Novo Lunar, abrir a caixa de correio era como ver 1.300 assinaturas transbordando.»[^16] A multidão de luzes de celular nas ruas, quase sete meses, acabaram se transformando em assinaturas, uma a uma, com cópias de documentos de identidade, postadas na caixa de correio.
 
-Em 22 de janeiro de 2025, o fundador da United Microelectronics Corporation (UMC), Tsao Hsing-cheng (Tsao Hsing-cheng), articulou a Sociedade Nanshe, a Associação de Professores de Taiwan e outros grupos para estabelecer a "Aliança de Voluntários Anti-Comunismo e Defesa de Taiwan", criando uma organização guarda-chuva para os grupos de recall espalhados localmente[^17]. Tsao Hsing-cheng desempenhou dois papéis nesta aliança: o convocador da aliança e o proponente da equipe "Remover o Black Core" do caso de recall de Xu Qiao-xin; este último era apenas um dos mais de trinta grupos de recall, não todos.
+Em 22 de janeiro de 2025, Cao Xingchen, fundador da United Microelectronics, reuniu grupos como a sociedade sul e a associação de professores de Taiwan, formando a «Aliança de Voluntários de Defesa de Taiwan contra o comunismo», criando uma estrutura de abrigo para as várias equipes de revogação espalhadas[^17]. Cao desempenhou dois papéis: líder da aliança e líder da equipe de «limpeza de espinhas» no caso de revogação de Hsu Qixi. Este último é apenas um de mais de trinta grupos de revogação, não todos.
 
-![21 de maio de 2024, o fundador da UMC Tsao Hsing-cheng discursou em um evento de protesto fora do Legislativo](/article-images/history/recall-tsao-hsing-cheng-rally-2024.webp)
-_21 de maio de 2024, Tsao Hsing-cheng discursou em um evento de protesto fora do Legislativo; oito meses depois, ele articulou os grupos de recall locais para estabelecer a Aliança de Voluntários. Foto: TMYAO / Wikimedia Commons, CC BY-SA 4.0._
+![Em 21 de maio de 2024, Cao Xingchen, fundador da United Microelectronics, discursou na manifestação em frente ao legislativo](/article-images/history/recall-tsao-hsing-cheng-rally-2024.webp)
+_Em 21 de maio de 2024, Cao Xingchen discutiu na manifestação em frente ao legislativo; oito meses depois, ele uniu as equipes de revogação em toda parte. Foto: TMYAO / Wikimedia Commons, CC BY-SA 4.0._
 
-Os voluntários que receberam esta energia pareciam diferentes dos do passado. As observações de campo do The Reporter descobriram que a proporção de voluntárias femininas em cada circunscrição atingiu 70% a 90%, enquanto nos recalls passados "no máximo 60% a 70%"[^16]. A faixa etária também mudou dos estudantes do ensino médio na ação "Cut the Tail" de 2015, aos recém-formados na sociedade no recall de Han em 2020, para a força principal de 2025: a geração de 30 e 40 anos, descrita pelos entrevistados como "quase todos gerentes de nível médio em vários campos" — da Flor do Sol à Pássaro Azul e aos grupos de recall, uma curva clara de desestudantização das gerações de rua e movimento em direção à meia-idade é visível (veja também [Movimentos Sociais e Participação Cívica](/pt/society/social-movements-and-civic-participation)). Alguns grupos de recall tornaram a revisão muito rigorosa; "Mountain Remove Wei Harm" exigia que os voluntários candidatos gravassem um vídeo dizendo pessoalmente "Xi Jinping deve sair do cargo", arquivando-o para consulta[^16].
+Os voluntários que captaram esta onda de energia eram diferentes dos anteriores. A observação de campo pelos jornalistas descobriu que a proporção de voluntárias mulheres nas equipes eleitorais chegou a sete a nove por cento, enquanto os voluntários de revogação anteriores eram «no máximo seis a sete por cento»[^16]. A faixa etária também mudou: de estudantes do ensino médio em 2015, de novos profissionais em 2020, para a força principal em 2025: pessoas na casa dos 30 e 40 anos, descritas pelos entrevistados como «praticamente todas as gerentes intermediárias de diversos campos» — do movimento da flor solar à ação garota, e então às equipes de revogação, uma curva visível de jovens que se tornam adultos (veja também [Movimento social e participação cidadã](/pt/society/social-movements-and-civic-participation)). Algumas equipes de revogação fizeram a verificação muito rigorosamente: «Eliminando o problema» exigiu que os candidatos a voluntários gravassem um vídeo dizendo «Xi Jinping deve ir embora», arquivado para referência[^16].
 
-Esta nova leva de voluntários trazia duas faces. Uma era uma cultura organizacional orientada para a eficiência. O conselheiro da aliança, Jian Jia-you, descreveu: "Antes, discutíamos com as pessoas, 'por que devemos destituir este legislador'; mas agora os grupos de recall parecem empresas, focando em pensamento de KPI." A outra era uma crença muito pessoal. A voluntária de Banqiao "Grande Delete Yuan", Bang Mang Mang, lembra que, quando disse que iria ser voluntária, seu marido perguntou inicialmente: "Não será destituído, certo? O que você pode mudar sozinha?" A imigrante de Hong Kong, Xiao Shi, vice-proponente do grupo de recall de Taoyuan, disse que participar do recall foi a terceira vez que ela se sentiu taiwanesa; a primeira frase de taiwanês que ela aprendeu foi "Recall Salva Taiwan"[^16].
+Esta nova geração de voluntários traz duas faces. Uma é a cultura organizacional orientada para a eficiência. O consultor da aliança, Jian Jiayu, disse: «Antes, discutíamos e conversávamos sobre «por que revogar este deputado»; mas agora as equipes de revogação parecem empresas, com pensamento em KPI.» A outra face é a crença pessoal. Os voluntários do «Grande Delete» em Pingde lembravam, e ela disse que quando se ofereceu para ser voluntária, seu marido inicialmente perguntou: «Vai conseguir revogar? O que uma única pessoa pode mudar?» Xiaoshi, imigrante de Hong Kong e vice-líder da equipe de revogação de Taoyuan, disse que participar da revogação foi a terceira vez que sentiu que era taiuanesa. A primeira frase em Taiwanese que ela aprendeu foi «Revogar para salvar Taiwan»[^16].
 
-O setor cultural também foi envolvido. A petição iniciada pela escritora Yang Shuang-zi (Yang Shuang-zi) cresceu de mais de 200 pessoas no início de fevereiro para 1.043 escritores, citando na declaração de petição uma frase de Brodsky: "A literatura tem o direito de interferir na política, até que a política pare de interferir na literatura"[^18].
+O setor cultural também foi envolvido. As assinaturas de Yang Shuangzi cresceram de algumas centenas em fevereiro para 1.043 escritores, e a declaração de apoio citou Brodsky: «A literatura tem o direito de interferir na política, até que a política pare de interferir na literatura»[^18].
 
-A primeira graduação da régua foi lida: a energia de mobilização era real e estabeleceu um recorde. Com muita energia, ambos os lados começaram a usar o sistema como arma contra o outro.
+O primeiro marco foi lido: a mobilização de energia é real, e quebrou recordes. Com tanta energia, ambos os lados começaram a usar o sistema como arma contra o outro.
 
-## Quem lançou o Grande Recall, as respostas dos dois lados são diferentes
+## Quem lançou o grande recall, as duas versões dão respostas diferentes
 
-A coisa mais básica deste movimento, quem realmente o lançou, tem respostas completamente diferentes dos dois lados.
+O ponto mais básico desse movimento — quem realmente o liderou — recebe respostas completamente distintas entre as duas campanhas.
 
-A narrativa dos grupos de recall é: esta é uma ação cívica espontânea, independente do PDP, com o eixo central sendo "Anti-Comunismo e Defesa de Taiwan". Esta afirmação também recebeu eco de alguns observadores externos; o blog acadêmico Taiwan Insight da Universidade de Nottingham o descreveu como um movimento "iniciado por cidadãos" (citizen-initiated), não apenas um confronto partidário[^19].
+A narrativa dos defensores do recall é a seguinte: trata-se de uma ação cidadã espontânea e independente do Partido do Progresso Democrático (DPP), com o foco em “defender Taiwan contra o comunismo”. Essa visão também encontrou eco em observadores externos; o blog acadêmico Taiwan Insight, da Universidade de Norwich, descreveu o movimento como uma iniciativa cidadã (citizen-initiated), que vai além de um mero confronto partidário[^19].
 
-A resposta do outro lado é diferente. O legislador do KMT, Xu Qiao-xin, em seu livro de defesa do recall, apontou a mão acusadora para o partido no poder, alegando que "o líder do grupo do PDP no Legislativo, Ke Jian-ming, admitiu repetidamente pessoalmente que a ação do Grande Recall foi planejada e lançada por ele", e chamou isso de "um movimento cívico falso manipulado pelo PDP"[^20].
+A versão oposta é outra. A deputada do Partido Nacionalista (KMT) Hsu Chiao-hsin, em seu discurso de defesa contra o recall, apontou o dedo para o governo, acusando o líder da bancada do DPP no Congresso, Ko Chien-min, de ter “reconhecido diversas vezes pessoalmente que o grande recall foi planejado e liderado por ele”, e classificou o movimento como uma “farsa cidadã manipulada pelo DPP”[^20].
 
-Deve-se notar que esta é uma alegação de relato de Xu Qiao-xin contra Ke Jian-ming em seu livro de defesa, pertencendo à narrativa do campo opositor. Quanto aos discursos publicamente proferidos e verificáveis de Ke Jian-ming, apenas há a frase após a votação de 24 de agosto: "O Grande Recall ainda é um grande sucesso, 1,3 milhão de petições de assinatura provam que a vontade popular já surgiu"[^21]. Os legisladores destituídos, por sua vez, responderam principalmente com defesa de realizações; Fu Kun-qei listou em seu livro de defesa "obteve uma satisfação de governança de 77,2%", "criou o único nona vitória consecutiva de cinco estrelas em todo o país"[^50]. O presidente do KMT, Zhu Li-lun, definiu o tom na noite de comício de Banqiao em 19 de julho: "Nunca houve um governante no passado de Taiwan que lançasse um Grande Recall contra o partido de oposição; em todo o mundo, não se encontra nenhum país democrático... Apenas o Presidente Lai ousa fazer isso."[^22]
+É importante notar que essa é uma acusação indireta feita por Hsu Chiao-hsin em seu discurso, ou seja, uma versão da oposição. Quanto às declarações públicas verificáveis de Ko Chien-min, há apenas uma, proferida após o encerramento da votação em 24 de agosto: “O grande recall ainda foi um grande sucesso; 1,3 milhões de petições comprovam que a opinião pública já acordou”[^21]. Os deputados que estavam sendo alvo de recall responderam predominantemente com suas trajetórias, como Fu Kun-chi, que destacou em seu discurso uma “taxa de aprovação de 77,2%” e o feito de “conquistar cinco títulos consecutivos, algo inédito em toda a ilha”[^50]. O líder do KMT, Zhu Li-qun, definiu a posição em 19 de julho, durante um grande comício em Taoyuan: “Nunca antes na história de Taiwan um governante usou o recall em massa para atacar o partido na oposição; também não há nenhum país democrático no mundo… apenas o presidente Lai ousa fazer isso.”[^22]
 
-O que pode ser confirmado são apenas os fatos estruturais: os 33 casos de recall, os proponentes legais e os líderes de todos eram cidadãos individuais; e o "recall contra recall" do KMT contra os legisladores do PDP foi uma resolução da reunião do grupo do KMT[^53]. As formas de lançamento são diferentes; quanto a isso contar como "manipulação partidária", a julgamento fica a cargo do leitor.
+O que é factualmente certo é apenas o aspecto estrutural: dos 33 casos de recall, todos os proponentes e líderes legais são cidadãos comuns. O “recall contra o recall” promovido pelo KMT contra os deputados do DPP, por sua vez, decorre de uma decisão tomada na reunião do grupo parlamentar do KMT[^53]. As formas de mobilização diferem; o juízo sobre se isso constitui “manipulação partidária” fica a cargo do leitor.
 
-O TPP ocupou sua própria posição. Eles se opuseram publicamente a esta ação que chamavam de "mau recall", mas também se recusaram a cooperar com o KMT para aumentar o limite de recall[^23]. Durante o período de votação, o presidente do partido Ko Wen-je, que estava detido no Centro de Detenção de Tucheng, recebeu um aviso de votação de recall; Huang Guo-zhang respondeu no Facebook: "Pergunto ao Presidente Lai Ching-te: que tipo de humor negro é este? Notificar Ko Wen-je que ele tem o direito de votar, mas não deixá-lo votar!"[^24]
+O Partido da Ação Popular (TPP) ocupa uma posição interna. Eles publicamente se opõem ao movimento, que chamam de “recall maldoso”, mas também recusam-se a colaborar com o KMT para elevar o limiar necessário para invalidar um recall[^23]. Durante o período de votação, o líder do partido, Ko Wen-je, preso em uma cadeia em Tucheng, recebeu o aviso de votação de recall, e Huang Guochang questionou no Facebook: “Por acaso, presidente Lai, esta é uma piada negra? Me avisam que Ko Wen-je tem direito a voto, mas eu não permito que ele vote!”[^24]
 
-A segunda graduação da régua começa a ler a partir daqui — medindo a profundidade da polarização: quando o teste estava na metade, não havia consenso sobre quem pressionou o botão de início. E o campo de batalha onde os combates foram mais ferozes foi a própria petição de assinatura.
+A segunda parte da balança mede então a profundidade da polarização: mesmo no meio do processo, não há consenso sobre quem realmente apertou o botão de início. E o campo de batalha mais acirrado é justamente a própria petição.
 
-## Mil e Setecentas e Oitenta e Quatro Petições de Assinatura Mortas, Contra Centos e Sessenta de Falsificações
+## 1.784 casos de morte de signatários, contra 160 de falsificação
 
-Vamos esclarecer primeiro uma coisa: as petições de assinatura de ambos os lados foram encontradas com problemas, mas os dois livros de contas não registram o mesmo tipo de coisa.
+Primeiro, deixe claro um ponto: ambos os lados tiveram problemas nas assinaturas, mas não estão contando a mesma coisa.
 
-Uma é a "petição de assinatura de morto": apareceram pessoas já falecidas nos livros de petição de assinatura, o problema reside na verificação e comparação dos dados do registro de domicílio, não necessariamente indicando que alguém tenha falsificado ativamente. A outra é a "falsificação": alguém usou os dados pessoais de outros, assinou falsamente para preencher a petição de assinatura, este é um ato ativo de falsificação. As naturezas legais das duas são diferentes e não podem ser confundidas.
+Um caso é o **"morte de signatários"**: aparecem pessoas já falecidas nos registros de assinaturas, um problema de verificação de dados de registro, sem necessariamente que alguém tenha falsificado ativamente. O outro caso é a **"falsificação"**: alguém usa dados pessoais de terceiros, falsifica assinaturas, um ato deliberado de falsificação. A natureza jurídica desses dois casos é diferente e não podem ser confundidos.
 
-Em abril de 2025, a Comissão Eleitoral Central remeteu 41 casos de recall envolvendo falsificação ou petições de assinatura de mortos ao Procuradoria-Geral do Tribunal Supremo para denúncia, dos quais 15 eram casos de recall contra legisladores pan-azuis, 17 contra legisladores do PDP, 8 contra legisladores pan-verdes e 1 era o caso de Gao Hong-an[^25]. Aqui há uma armadilha de critério (口徑, padrão de cálculo) que deve ser exposta: a mesma coisa, em diferentes etapas de verificação, calculada com diferentes unidades, produzirá vários números. Em termos de "número de petições", os 17 casos contra o verde, na verificação de petição de primeira etapa de abril, envolveram 1.784 petições de assinatura de mortos e 42 falsificações; os casos contra o azul tiveram 12 petições de mortos e 160 falsificações, sendo o caso de Lin Pei-xiang o maior com 116 falsificações[^26]. Mas, quando a Comissão Eleitoral Central fez a revisão formal em 21 de junho, a unidade mudou para "casos" — os casos envolvendo petições de mortos foram 16, os envolvendo falsificação foram 12[^27]. "Número de petições" e "caso" não são a mesma coisa; qualquer número deve ser marcado com qual etapa e qual unidade.
+Em abril de 2025, o Conselho Eleitoral enviou 41 casos de revogação envolvendo falsificação ou morte de signatários à Procuradoria-Geral para persecução, sendo 15 casos de revogação de deputados do bloco azul, 17 de deputados do Partido do Progresso Democrático, 8 de vereadores do bloco verde e 1 caso de Ko Hsiung-an[^25]. Aqui há uma armadilha de números que precisa ser desvendada: o mesmo fato, em diferentes estágios de verificação e calculado por diferentes órgã, pode gerar vários números distintos. Calculado por **"número de cópias"**, os 17 casos de revogação de verdes na verificação de primeira fase em abril envolviam 1.784 casos de morte de signatários e 42 de falsificação. Os casos de revogação de azuis tinham 12 casos de morte de signatários e 160 de falsificação, sendo o caso de Lin Pei-hsiang o que mais registros falsificados teve, com 116[^26]. Mas no dia 21 de junho, quando o Conselho Eleitoral oficialmente aprovou, a unidade mudou para **"caso"** — 16 casos envolviam morte de signatários e 12 envolviam falsificação[^27]. "Cópia" e "caso" não são a mesma coisa, e cada número precisa deixar claro em qual estágio e em qual unidade foi calculado.
 
-O denominador também deve ser visto juntos: dos 17 casos contra o verde, todos foram encontrados com petições de mortos; dos 35 casos contra o azul, apenas 15 casos foram envolvidos. Estes números colocados juntos permitem que o leitor julgue seu significado por conta própria; este artigo não tira uma conclusão para ele.
+O denominador também precisa ser olhado: os 17 casos de revogação de verdes todos tiveram morte de signatários detectados, enquanto dos 35 casos de revogação de azuis, 15 envolviam. Com esses números à mostra, o leitor pode julgar o significado por si mesmo, e este texto não vai tirar nenhuma conclusão.
 
-Um caso já chegou a uma condenação. O vice-presidente do Comitê Municipal do KMT em Tainan, Zhuang Zhan-kui, e outros 11 trabalhadores do partido, para reunir 3.000 petições de proposta cada para os recalls de Lin Jun-xian e Wang Ding-yu em dez dias, usaram a lista de membros do partido, preencheram dados pessoais sem consentimento e falsificaram assinaturas, totalizando 3.663 falsificações. Em 10 de julho de 2026, o Tribunal Distrital de Tainan condenou Zhuang Zhan-kui a dois anos de prisão, com pena suspensa por cinco anos, e a pagar 600.000 yuan ao tesouro público, sob a Lei de Proteção de Dados Pessoais; os outros dez receberam sentenças de seis meses a um ano e sete meses, com penas suspensas de dois a cinco anos, respectivamente. A razão da sentença aponta que tal comportamento não apenas invade a privacidade de informações dos falsificados, mas também destrói a legitimidade do sistema de recall democrático[^28]. Deve-se distinguir que o que foi processado foi o ato de falsificação; a participação normal do público nas petições não envolve responsabilidade criminal.
+Um caso já chegou à condenação. Onze funcionários do partido do Partido Nacionalista em Tainan, incluindo o vice-chefe do departamento local, Zhuang Chuang-kuang, usaram a lista de membros do partido, preencheram dados pessoais sem consentimento e falsificaram assinaturas para reunir 3.663 cópias falsificadas em apenas dez dias, com o objetivo de apresentar 3.000 propostas de revogação cada uma para Lin Chun-hsien e Wang Ting-yu. Em 10 de julho de 2026, o Tribunal Local de Tainan condenou Zhuang Chuang-kuang por violação da lei de proteção de dados pessoais, aplicando pena de prisão com possibilidade de solução alternativa de dois anos, suspensa por cinco anos, e multa de 600.000 yuan ao erário. Os outros dez receberam penas de seis meses a um ano e sete meses de prisão, com suspensão de dois a cinco anos. O julgamento destacou que essas ações não apenas violaram a privacidade dos falsificados, mas também prejudicaram a legitimidade do sistema democrático de revogação[^28]. O importante diferenciar: os acusados são os que cometeram a falsificação, e a participação normal da população nas assinaturas não envolve responsabilidade penal.
 
-O KMT questiona a Procuradoria e a Polícia "processando o azul, não o verde", apontando que a segunda etapa de petição de assinatura dos casos de recall contra legisladores do azul totalizou mais de 150.000 inscrições não qualificadas, questionando por que não foram investigadas com a mesma força[^29]. A resposta da Comissão Eleitoral Central foi: "Sempre que houver petições de mortos ou falsificação antes da assinatura, seguiremos o procedimento legal para denúncia de cargo", enfatizando "nenhum tratamento diferenciado"[^27]. Até a verificação deste artigo, os casos condenados e processados concentram-se nesta extremidade do KMT; mas isso também pode refletir que a maioria dos casos contra o verde não foi enviada para processo, resultando em uma base de amostra menor; ambas as interpretações exigem estatísticas judiciais mais completas para uma conclusão.
+O Partido Nacionalista questionou a fiscalização especializada, alegando "perseguir azuis, não verdes", apontando que os casos de revogação de deputados azuis na segunda fase tinham mais de 150.000 registros inválidos, perguntando por que não havia a mesma intensidade de investigação[^29]. A resposta do Conselho Eleitoral foi: "Sempre que houver morte de signatários ou falsificação, seguiremos o procedimento legal para denunciar", enfatizando "não haver nenhum tratamento diferenciado"[^27]. Até o momento desta investigação, os casos condenados e processados estão concentrados no lado do Partido Nacionalista. Mas isso também pode refletir que a maioria dos casos de revogação de verdes não foi formalmente apresentada, com uma base de amostras menor. Ambas as interpretações precisam de estatísticas judiciais mais completas para serem concluídas.
 
 ```tw-note
 Explicação
-"Petições de assinatura de mortos" apareceram nos relatórios com números como 1.543, 1.737, 1.784, etc. Não é falsificação de nenhuma das partes, mas o resultado de atualização contínua da mesma coisa em diferentes etapas de verificação (proposta de primeira etapa → petição de segunda etapa → denúncia formal), além do uso misto das unidades "número de petições" e "caso". Ao citar qualquer número, deve-se marcar o ponto de verificação e a unidade de cálculo.
-Fonte: Yahoo News 2025/3 (1.543), ETtoday 2025/3/14 (1.737), Liberty Times 2025/4/17 (1.784)
+"Morte de signatários" apareceu em relatórios com números como 1.543, 1.737, 1.784, não porque ninguém mentiu, mas porque é o resultado de atualizações em diferentes estágios de verificação (primeira fase de proposta → segunda fase de assinaturas → denúncia oficial), além da mistura de duas unidades: "cópia (número de assinaturas)" e "caso (número de casos)". Qualquer número citado precisa indicar claramente o momento da verificação e a unidade de cálculo.
+Fonte: relatório do Yahoo News em 2025/3 (1.543), ETtoday em 2025/3/14 (1.737), Liberdade em 2025/4/17 (1.784)
 ```
 
-A segunda graduação é completada aqui — o custo da polarização: até os números têm dois livros de contas, a confiança social se deprecia junto. Os combates duraram seis meses; no final, os que apoiavam, os que se opunham, os acusados, todos entraram na mesma seção eleitoral.
+A leitura da segunda coluna está completa aqui — o preço da polarização: até os números têm duas contas. Meio ano de batalhas, e no final, os que apoiavam, os que se opunham, os acusados, todos entram no mesmo local de votação.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe
+  <iframe
     src="https://www.youtube.com/embed/vwIsS8ESqWs"
-    title="Contagem Regressiva de 3 Dias para a Votação de Recall 726, Volumes de Voz dos Campos A Favor e Contra nas Ruas | Notícias Noturnas da PTS"
+    title="Contagem regressiva para o voto de revogação de 726 dias: campanhas nas esquinas competindo por vozes a favor e contra｜Noticiário Noturno da TV Pública"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-   ></iframe>
+  ></iframe>
 </div>
 
-_Notícias Noturnas da PTS, 23 de julho de 2025: 3 dias antes da votação 726, os campos a favor e contra se revezaram nas ruas, competindo pelo volume de voz para votos contra e a favor._
+_ noticiário noturno da TV Pública, 23 de julho de 2025: três dias antes do voto de 726, as forças opostas competem nas esquinas, mobilizando vozes a favor e contra._
 
-## Os votos a favor ultrapassaram o limite, mas ainda perderam para os votos contra
+## Os votos a favor passaram a barreira, mas ainda assim perderam para os votos contra
 
-A votação foi dividida em três ondas. A primeira foi em 13 de julho, o caso de recall do legislador do condado de Nantou, Chen Yu-ling — este foi o único caso estabelecido sob a estratégia "recall contra recall" do KMT, o alvo do recall era do campo verde, a direção era exatamente oposta às duas ondas seguintes. O resultado foi 12.160 votos a favor, 5.867 contra; os votos a favor não atingiram o limite de 1/4 dos eleitores, não foi aprovado[^30].
+A votação foi dividida em três ondas. A primeira onda foi em 13 de julho, com o caso de anulação da vereadora do Condado de Nantou, Chen Yuxin — este é o único caso que avançou sob a estratégia do Partido Nacionalista de "anular para anular", e o alvo é do Partido do Progresso Democrático, exatamente oposto às duas ondas seguintes. O resultado foi 12.160 votos a favor e 5.867 votos contra; os votos a favor não atingiram o quarto dos eleitores, então não passaram[^30].
 
-A segunda onda foi os 25 casos de 26 de julho: 24 legisladores do KMT, mais a prefeita de Hsinchu, Gao Hong-an. A taxa de participação nacional foi de 55,83%, um recorde na história dos recalls; a taxa de mobilização a favor foi de 23,75%, contra 32,08%[^2]. Os 25 casos foram todos rejeitados.
+A segunda onda foi em 26 de julho, com 25 casos: 24 deputados do Partido Nacionalista e a prefeita de Hsinchu, Gao Hong'an. A taxa de comparecimento nacional foi de 55,83%, um novo recorde na história dos recalls. A taxa de votação a favor foi de 23,75% e a contra foi de 32,08%[^2]. Todos os 25 casos foram rejeitados.
 
-As motivações para os 2,18 milhões de votos contra não eram únicas: havia o bloco básico que apoiava o seu próprio legislador de circunscrição — estas circunscrições eram originalmente onde o KMT venceu em 2024; havia a reserva em relação ao recall como ferramenta política; havia também o cansaço de querer que a vida voltasse ao normal.
+A motivação dos 2,18 milhões de votos contra não era única: havia o eleitorado básico que apoiava seus próprios deputados locais — essas áreas eram originalmente vitórias do Partido Nacionalista em 2024 — também havia a reserva sobre o uso do recall como ferramenta política, e também havia a fadiga de quem queria que a vida voltasse ao normal.
 
-Nesta onda, os votos a favor de sete casos na verdade ultrapassaram o limite de 25%, apenas os votos contra foram mais altos, salvando os assentos. Os diferenciais de votos destas sete pessoas formaram um espectro: o mais perigoso de ser salvo foi Ye Yuan-zhi em Nova Taipei, com apenas 3.560 votos a mais; a diferença mais ampla foi Zheng Zheng-qian em Hsinchu, com 29.335 votos a mais[^31]. O mesmo "ultrapassou o limite, mas não foi destituído", a diferença de destino superou oito vezes.
+Nessa onda, sete casos tiveram votos a favor que ultrapassaram a barreira dos 25%, mas os votos contra eram mais altos, mantendo as cadeiras. Esses sete tiveram uma diferença de votos que formou um espetro: o mais apertado foi Ye Yuanzhi em Nova Taipei, com apenas 3.560 votos de diferença. O mais amplo foi Zheng Zhengxian em Hsinchu, com 29.335 votos de diferença[^31]. Ambos "passaram a barreira mas não foram anulados", mas seus destinos diferiram em mais de oito vezes.
 
 ```tw-stat
-6.799.977 pessoas | Eleitores qualificados para o recall de legisladores 726 | 25 casos no total
-55,83% | Taxa de Participação | Recorde na História dos Recalls
-23,75% | Taxa de Mobilização a Favor | Votos a Favor ÷ Eleitores
-32,08% | Taxa de Mobilização Contra | Votos Contra ÷ Eleitores
-Fonte: Comissão Eleitoral Central, CNA
+6.799.977 pessoas | 726 deputados elegíveis para recall | Total das 25 casos
+55,83% | Taxa de comparecimento | Recorde histórico de recalls
+23,75% | Taxa de votação a favor | Votos a favor ÷ Eleitores
+32,08% | Taxa de votação contra | Votos contra ÷ Eleitores
+Fonte: Comissão Eleitoral Central, Agência Central
 ```
 
 ```tw-dot
-7 casos que ultrapassaram o limite mas foram rejeitados em 726: Diferença de Votos Contra (votos)
-*Ye Yuan-zhi | 3560 | Mais perigoso de ser salvo
-Wang Hong-wei | 9848
-Luo Ting-wei | 12410
-Xu Qiao-xin | 12768
-Fu Kun-qei | 16331
-Li Yan-xiu | 26609
-Zheng Zheng-qian | 29335 | Maior diferença
-Fonte: CNA
+726 sete casos que passaram a barreira mas foram rejeitados: margem de vitória dos votos contra (votos)
+*Ye Yuanzhi | 3560 | Mais apertado
+Wang Hongwei | 9848
+Luo Tingwey | 12410
+Xu Qixi | 12768
+Fu Kuncui | 16331
+Li Yenxiu | 26609
+Zheng Zhengxian | 29335 | Maior margem
+Fonte: Agência Central
 ```
 
-O caso de Gao Hong-an tinha dois relógios correndo. Ela foi condenada por corrupção no julgamento de primeira instância e, de acordo com a Lei do Sistema Local, suspensa de suas funções; durante a votação de recall, ela era uma "prefeita suspensa". Este recall teve 86.291 votos a favor, 124.360 contra, não foi aprovado[^32]. Se o recall tivesse sido aprovado, ela seria destituída diretamente e não voltaria ao cargo mesmo se o caso fosse revertido posteriormente; o fato de o recall não ter sido aprovado, na verdade, preservou para ela o espaço para esperar pelo resultado judicial — em 16 de dezembro de 2025, no julgamento de segunda instância, a parte de corrupção foi revertida para não culpada, e ela pôde solicitar a readmissão[^33]. O relógio político e o relógio judicial se cruzaram no mesmo corpo por um ano e meio.
+O caso de Gao Hong'an tinha dois relógios correndo. Ela foi condenada por corrupção em primeira instância e afastada por lei de Sistema Local; durante o recall, ela era "prefeita afastada". Nesse recall, 86.291 votos a favor e 124.360 votos contra, não passou[^32]. Se o recall tivesse passado, ela teria saído imediatamente do cargo, sem chance de reassumir mesmo se tivesse sucesso na apelação. Como o recall não passou, ela manteve o espaço para aguardar o resultado judicial — em 16 de dezembro de 2025, o tribunal de segunda instância anulou a condenação por corrupção, e ela pôde solicitar a readaptação[^33]. O relógio político e o relógio judicial se cruzaram no mesmo corpo por um ano e meio.
 
-A terceira onda foi os 7 casos de 23 de agosto, todos legisladores do KMT, votados no mesmo dia do referendum sobre a extensão da vida útil do Nuclear Three. Deve-se distinguir especialmente: em 726, houve "7 casos que ultrapassaram o limite mas foram rejeitados"; em 823, foram outras 7 pessoas, 7 casos "que nem mesmo ultrapassaram o limite", as duas rodas de 7 casos são pessoas completamente diferentes. O referendum Nuclear Three no mesmo dia teve mais de 4,34 milhões de votos a favor, representando 74,17%, muito mais que os votos contra, mas não foi aprovado porque não atingiu o limite de 1/4 dos eleitores nacionais (aproximadamente 5 milhões de votos), com uma taxa de participação de apenas 29,53%[^34].
+A terceira onda foi em 23 de agosto, com sete casos, todos deputados do Partido Nacionalista, no mesmo dia da votação sobre a manutenção do terceiro reator nuclear. É importante não confundir: em 726, há "sete casos que passaram a barreira mas foram rejeitados"; em 823, são outros sete, sete casos "que nem mesmo passaram a barreira", duas listas completamente diferentes. A votação do terceiro reator nuclear no mesmo dia teve mais de 4,34 milhões de votos a favor, representando 74,17%, muito mais que os votos contra, mas não atingiu o quarto dos eleitores nacionais (cerca de 5 milhões de votos), então não passou, com uma taxa de comparecimento de apenas 29,53%[^34].
 
-O processo de apuração naquela noite, a TVBS News fez uma [transmissão ao vivo completa](https://www.youtube.com/watch?v=nbVvhSZD1Y8). A terceira graduação da régua se revelou no dia da votação: o limite não é um número abstrato, são os 2,18 milhões de votos contra. Após o voto, as contas e os relatórios apenas começaram a chegar.
+Durante o processo de apuração noturno, a TV Tânia fez uma transmissão ao vivo de [toda a noite](https://www.youtube.com/watch?v=nbVvhSZD1Y8). A terceira marca da régua apareceu no dia da votação: a barreira não é um número abstrato, são 2,18 milhões de votos contra. Depois de votar, as contas e relatórios começaram a chegar.
 
-## O Campo de Batalha Volta ao Legislativo
+## O campo de batalha transferido para o Legislativo
 
-A votação terminou, o relatório do teste de estresse foi publicado. Este relatório tem quatro páginas: contas, impasse, leis não emendadas e a leitura externa.
+A votação terminou e o relatório do teste de resistência foi publicado. Este relatório tem quatro páginas: a conta, o impasse, a lei ainda não corrigida e a leitura externa.
 
-A primeira página é a conta. As despesas eleitorais dos 31 casos de recall de legisladores totalizaram aproximadamente 400 milhões de yuan; o referendum Nuclear Three do mesmo dia custou mais 1,14 bilhões de yuan; o caso de Gao Hong-an, cerca de 31,01 milhões de yuan, foi coberto pelo orçamento local do governo de Hsinchu[^35]. Um movimento que não destituiu ninguém, e o primeiro a chegar foi uma pilha de recibos.
+A primeira página é a conta. Os gastos eleitorais das 31 ações de recall do Legislativo totalizaram cerca de 400 milhões de dólares, enquanto o plebiscito sobre a usina nuclear 3, realizado no mesmo dia, custou mais ou menos 114 milhões de dólares. Os 31 milhões de dólares da ação de recall de Gao Hong-an foram orçamentados pelo município de Hsinchu[^35]. Uma campanha que não derrubou ninguém começou com uma pilha de contas.
 
 ```tw-figure
-Aproximadamente 400 Milhões de Yuan
-Despesas eleitorais dos 31 casos de recall de legisladores, o resultado foi zero assentos destituídos com sucesso
-Comissão Eleitoral Central, CNA
+cerca de 400 milhões de dólares
+gastos eleitorais das 31 ações de recall do Legislativo, com resultado zero de recall aprovado
+Central Election Commission, Central News Agency
 ```
 
-> 📝 **Nota do Curador**: Ler o Grande Recall como "um movimento de mobilização fracassado que não mudou nada" é a narrativa (說法) de passagem mais conveniente — o mapa não mudou, os assentos não trocaram, mas as contas foram enviadas para a mesa. No entanto, esta leitura trata o "resultado" como a única régua, perdendo exatamente o que o teste de estresse realmente estava fazendo: ele mede quanta peso uma ponte pode suportar. O resultado zero e a taxa de participação recorde coexistem, sendo esta a leitura mais honesta deste teste.
+> 📝 **Nota do curador**: ler o "grande recall" como "uma mobilização fracassada que não mudou nada" é a interpretação mais fácil — o território não mudou, os assentos não foram trocados, mas as contas chegaram cheias. No entanto, essa leitura toma o "resultado" como a única métrica, esquecendo exatamente o que o teste de resistência está fazendo: medir quanto peso uma ponte pode suportar. O fato de ter havido zero vitórias e um histórico de comparecimento recorde é a leitura mais honesta desse teste.
 
-A segunda página é o impasse. Ke Jian-ming chamou o resultado de "o Grande Recall ainda é um grande sucesso"[^21]; os críticos internos do campo verde, o presidente da Fundação de Educação Democrática de Taiwan, You Ying-long, o descreveu como uma "guerra civil democrática desastrosa", exigindo que o partido no poder pedisse desculpas à sociedade[^36]. O mapa político na verdade não mudou: Lai Ching-de anunciou "quatro ajustes"[^37]; o gabinete Zhuo Rong-tai reformou 16 membros do gabinete[^38]; Zheng Li-wen foi eleita presidente do KMT em outubro[^39]; Ke Jian-ming, sob o som de revisão, completou seu mandato e, em fevereiro de 2026, transferiu o cargo para Cai Qi-chang conforme o procedimento[^40][^51], mas a aliança de oposição ainda controlava a maioria no Legislativo. A consequência mais concreta do impasse caiu sobre a vida cotidiana: o orçamento geral do governo central de 2026 (115º ano) atravessou o ano pela primeira vez na história sem ser aprovado para pagamento, e a execução das políticas do governo ficou presa[^41].
+A segunda página é o impasse. Ko Chiang-cheng descreveu o resultado como "grande recall ainda é grande sucesso"[^21]. Os críticos internos do lado verde, Yang Shuangzi, presidente do Conselho Directivo da Fundação de Educação de Opinião Pública de Taiwan, chamou isso de "uma guerra civil democrática desastrosa", exigindo que o partido no poder peça desculpas à sociedade[^36]. O mapa político na verdade não mudou: Lai Qingde anunciou "quatro ajustes"[^37], o gabinete de Zhuo Rongtai foi reestruturado com 16 ministros[^38], Li Liwen foi eleita presidente do Partido Nacionalista em outubro[^39], Ko Chiang-cheng terminou seu mandato durante a revisão, e em fevereiro de 2026, seguindo o padrão, passou o cargo para Cai Jiuchang[^40][^51], mas a coalizão de oposição ainda mantém a maioria no Congresso. A consequência mais concreta do impasse recaiu sobre a vida cotidiana: pelo primeiro vez na história, o orçamento geral do governo central para 2026 ultrapassou o ano sem ser aprovado, e a execução das políticas governamentais ficou travada[^41].
 
-A terceira página são as leis que ainda não foram emendadas. O artigo do limite que realmente causou a maior controvérsia, como "os votos a favor do recall devem ser superiores ao número de votos eleitos", não foi tratado naquela onda de emendas de final de 2024[^42]; até a verificação deste artigo em julho de 2026, os projetos de lei relacionados ainda estavam listados na lista de pendências do Legislativo, sem entrar na agenda de deliberação plenária (審議)[^52]. O acadêmico de Brookings, Kharis Templeman, após a votação, julgou que a "caixa de Pandora" desta ferramenta seria usada com menos frequência no futuro[^23]. A caixa talvez tenha sido fechada, mas a fechadura do limite ainda não foi trocada.
+A terceira página são as leis ainda não corrigidas. A cláusula que causou a maior controvérsia — "as assinaturas de apoio ao recall devem superar o número de votos recebidos na eleição" — não foi modificada no final de 2024[^42]. Em julho de 2026, quando este texto foi verificado, o rascunho ainda estava na lista de pendências do Legislativo, sem ter sido levado à votação em plenário[^52]. O especialista do Brookings, Kharis Templeman, concluiu após a votação que "a caixa de Pandora do recall já foi fechada novamente" e que será usada com menos frequência no futuro[^23]. A caixa talvez esteja fechada, mas a chave da porta ainda não foi trocada.
 
-A quarta página é a leitura externa. A maioria das análises internacionais focou no "impasse Executivo-Legislativo": o governo estava dividido antes e depois do recall; Templeman alertou que "Taiwan não pode suportar mais 30 meses de impasse político"[^23]. Quanto às reações externas, devem ser vistas independentemente e marcadas claramente como natureza — esta é a declaração de um governo externo sobre os assuntos internos de Taiwan, não listada junto com a perspectiva interna de Taiwan. O porta-voz do Escritório de Assuntos de Taiwan da RPC, a partir de 30 de abril, várias vezes chamou o Grande Recall de criar "terror verde"[^43]; a Comissão de Assuntos Continentais (CAC) respondeu em 23 de julho, apontando que Pequim "intervém abertamente e sem disfarce"[^44]. Ao virar a última página do relatório, ainda restam algumas coisas que os números não podem medir.
+A quarta página é a leitura externa. A maioria das análises internacionais concentrou-se no "impasse entre o governo e o parlamento": o governo permaneceu dividido antes e depois do recall. Templeman alertou que "Taiwan não aguenta mais 30 meses de impasse político"[^23]. Quanto às reações externas, é preciso observar independentemente e identificar claramente a natureza — isso é a posição do governo externo sobre os assuntos internos de Taiwan, não algo a ser colocado ao lado da perspectiva interna. A porta-voz da Comissão de Relações com Taiwan da China, desde 30 de abril, repetidas vezes chamou o "grande recall" de "terror vermelho" dentro da ilha[^43]. O Conselho de Relações com Taiwan (Taiwan) respondeu em 23 de julho, acusando Pequim de "intervenção flagrante e sem esconderijos"[^44]. Após virar a última página do relatório, ainda restam algumas coisas que não dão para quantificar.
 
-## Taiwan Revelado no Negativo
+## A Taiwan revelada na película
 
-Três rodadas de votação, 33 casos, nenhum foi aprovado.
+Três ondas de votação, 33 casos, nenhum aprovado.
 
-Em termos de resultado, esta maior onda de recall da história de Taiwan foi quase vazia. Na história constitucional de Taiwan, os legisladores destituídos com sucesso até hoje ainda são apenas um — Chen Bo-wei em 2021[^45]. Calcular por "quantas pessoas foram destituídas", o limite desta ferramenta é claramente visível.
+Em termos de resultados, a maior onda de revogações na história de Taiwan foi quase um fracasso. Até hoje, apenas um único deputado federal foi efetivamente revogado na história constitucional de Taiwan — Chen Po-wei em 2021[^45]. Em termos de "quantos conseguimos derrubar", o limite dessa ferramenta está claro.
 
-Mas na mesma folha de negativo, outras coisas também se revelaram. A taxa de participação de 55,83% na noite de 726 foi um recorde na história dos recalls. O Laboratório de Democracia de Taiwan observou que, durante a mobilização, os grupos de recall gradualmente perceberam que a narrativa de "resistir à China e defender Taiwan" estava muito distante do público geral, então mudaram o foco da conversa para tópicos de vida como subsídio de aluguel, cuidados de longo prazo e educação, contactando ativamente pessoas de diferentes camadas; isso não era comum nos campos de batalha eleitorais do passado[^46]. Esta geração inteira que aprendeu a organizar e também a falar com pessoas de posições diferentes, para onde eles se dirigirão após a retirada do movimento, o The Reporter ainda o lista como um tópico de observação aberto hoje; ninguém pode escrever a resposta para eles[^47].
+Mas na mesma película, outras imagens também apareceram. A taxa de 55,83% na noite de 726 é um recorde na história das revogações. A observação do Laboratório de Democracia de Taiwan descobriu que, ao se mobilizar, os grupos de revogação perceberam gradualmente que a retórica de "defender Taiwan contra a China" estava muito distante da realidade das pessoas comuns, então desviaram o foco da conversa para questões cotidianas como subsídio de aluguel, cuidados de longa duração e educação, e começaram a procurar ativamente pessoas de diferentes camadas sociais — algo raro nos campos de batalha eleitorais anteriores[^46]. Uma geração inteira aprendeu a se organizar e também a conversar com pessoas de opiniões diferentes. O que esses cidadãos farão após o fim do movimento permanece uma pergunta em aberto até hoje, e ninguém pode antecipar a resposta por eles[^47].
 
-Os autores do Taiwan Insight emprestaram uma velha frase de mais de 170 anos atrás para resumir aquele sentimento complexo. Em 1848, o presidente dos EUA Polk (James K. Polk) descreveu a expansão territorial após a Guerra México-Americana: "Everyone was glad with it, but no one was proud of it." (Todos ficaram aliviados, mas ninguém se orgulhou disso.) Os autores disseram que esta frase se aplica igualmente a Taiwan hoje[^48].
+O autor do Taiwan Insight pegou emprestado uma frase dita há mais de 170 anos para resumir aquele sentimento complexo. Em 1848, o presidente dos EUA James K. Polk descreveu a expansão territorial após a Guerra México-Americana assim: "Everyone was glad with it, but no one was proud of it." (Todo mundo se aliviou, mas ninguém se sente orgulhoso disso.) O autor disse que essa frase se aplica perfeitamente ao Taiwan de hoje[^48].
 
-Na tela de apuração da noite, "não aprovado" acendia um a um. No dia seguinte, as tendas de petição foram desmontadas uma a uma. O que ficou para trás foi o número da taxa de participação que estabeleceu um recorde, e uma geração inteira de voluntários que aprenderam pela primeira vez como organizar estranhos. Trinta e três "não aprovados" são o resultado deste teste; o valor real do teste está em quão muito ele mediu de uma vez — a energia de mobilização, a altura do limite, o custo da polarização. O que foi medido, no final, é mais do que o que foi destituído.
+Na tela de abertura noturna, as palavras "não aprovado" foram iluminando uma após outra. No dia seguinte, as barracas de apoio foram desmontadas uma a uma. O que sobrou foi o número recorde de participação e uma geração inteira que aprendeu pela primeira vez como organizar estranhos em movimento coletivo. 33 casos não aprovados são o resultado desse teste. O verdadeiro valor do teste está justamente em ter revelado tantas coisas — energia de mobilização, altura dos requisitos, custo da polarização. No fim, o que foi mensurado foi muito mais do que o que foi derrubado.
 
-**Leitura Adicional**:
+**Leitura recomendada**:
 
-- [Eleições e Política Partidária de Taiwan](/history/台灣選舉與政黨政治) — Do Incidente de Zhongli ao tripé de três partidos, a evolução de longo prazo do sistema eleitoral e da cultura de votação de Taiwan
-- [Democratização](/pt/history/taiwan-democratization-history) — Antes do poder de recall entrar no cotidiano constitucional, a jornada desta geração da ditadura até a eleição direta
-- [Transição Democrática de Taiwan](/pt/history/taiwan-democratization) — Como a ditadura devolveu gradualmente o poder de governação ao povo
-- [Movimentos Sociais e Participação Cívica](/pt/society/social-movements-and-civic-participation) — Da Flor do Sol à Pássaro Azul, a linhagem de mobilização das gerações de rua
-- [Ambiente Político e Sistema Eleitoral de Taiwan](/society/台灣政治環境與選舉制度) — A profundidade institucional do sistema de eleição e recall e o design de limites
+- [Eleições e partidos na Taiwan](/pt/history/taiwan-elections-and-party-politics) — Da crise de Zhongli ao tripartidismo, a longa evolução do sistema eleitoral e cultura eleitoral na Taiwan
+- [Democratização](/pt/history/taiwan-democratization-history) — Antes da revogação ser escrita na vida constitucional, o caminho dessa geração da ditadura à eleição direta
+- [Transição democrática da Taiwan](/pt/history/taiwan-democratization) — Como o regime autoritário devolveu o poder ao povo passo a passo
+- [Movimentos sociais e participação cidadã](/pt/society/social-movements-and-civic-participation) — Da Marcha do Sol às pousadas noturnas, a genealogia de mobilização da geração de rua
+- [Ambiente político e sistema eleitoral da Taiwan](/pt/society/taiwan-political-landscape-and-electoral-system) — A profundidade institucional do sistema de eleições e revogações
 
-## Fontes das Imagens
+## Fonte das imagens
 
-Este artigo utiliza 3 imagens sob licença CC, todas cacheadas em `public/article-images/history/` para evitar links quentes para o servidor de origem:
+Este artigo utiliza 3 imagens sob licença CC, todas armazenadas em cache em `public/article-images/history/` para evitar hotlinking no servidor de origem:
 
-- [Multidão da Ação Pássaro Azul fora do Legislativo 2024](https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg) — Foto: Fujifilmuser Taiwan, 2024-05-28, CC BY-SA 4.0, Wikimedia Commons
-- [Interior do Legislativo 2024-05-21](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B42024-05-21T1450.jpg) — Foto: QuYi96, 2024-05-21, CC BY-SA 4.0, Wikimedia Commons
-- [Tsao Hsing-cheng Discursa na Reunião 521 2024](https://commons.wikimedia.org/wiki/File:%E6%9B%B9%E8%88%88%E8%AA%A0%E5%85%88%E7%94%9F521%E9%9B%86%E6%9C%83%E6%BC%94%E8%AA%AA.jpg) — Foto: TMYAO, 2024-05-21, CC BY-SA 4.0, Wikimedia Commons
+- [Manifestação da Juventude 2024 na frente da Câmara dos Deputados](https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg) — Photo: Fujifilmuser Taiwan，2024-05-28，CC BY-SA 4.0，Wikimedia Commons
+- [Plenário da Câmara dos Deputados 2024-05-21](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B42024-05-21T1450.jpg) — Photo: QuYi96，2024-05-21，CC BY-SA 4.0，Wikimedia Commons
+- [Discurso de Tsao Hsing-ch'en no ato de 521 de 2024](https://commons.wikimedia.org/wiki/File:%E6%9B%B9%E8%88%88%E8%AA%A0%E5%85%88%E7%94%9F521%E9%9B%86%E6%9C%83%E6%BC%94%E8%AA%AA.jpg) — Photo: TMYAO，2024-05-21，CC BY-SA 4.0，Wikimedia Commons
 
-[^1]: [Resultados de Votação de 26 Casos de Recall de Legisladores Todos Rejeitados](https://www.cna.com.tw/news/aipl/202507265011.aspx) — CNA, 2025/7/26, compilação dos resultados do dia em que 24 legisladores do KMT mais o caso de recall de Gao Hong-an foram todos rejeitados.
+[^1]: [26 casos de votação de revogação de deputados locais todos rejeetados](https://www.cna.com.tw/news/aipl/202507265011.aspx) — Agência Central de Notícias, 26/7/2025, compilado dos resultados do dia em que os 24 deputados locais do Partido Nacionalista e o caso de revogação de Ho Hsiao-An foram todos rejeetados.
 
-[^2]: [【2025 Grande Recall Apuração Chave】726 Recall Nacional Consolidado](https://www.thenewslens.com/feature/2025recall/256193) — Portal de Apuração da The News Lens, consolidação nacional 726: Eleitores 6.799.977, Taxa de Participação 55,83%, A Favor 1,614.772, Contra 2,181.474.
+[^2]: [【Ponto-chave da votação de revogação de 2025】Compilação nacional de 726](https://www.thenewslens.com/feature/2025recall/256193) — Tema de transmissão ao vivo da Crítica-chave, 726 compilação nacional: eleitores 6.799.997, taxa de votação 55,83%, concordância 1.614.772, discordância 2.181.474.
 
-[^3]: [Lei de Eleições e Recall de Funcionários Públicos Capítulo 13](https://law.moj.gov.tw/LawClass/LawParaDeatil.aspx?pcode=D0020010&bp=13) — Banco de Dados de Leis Nacionais, artigos exatos das disposições 76, 81, 90: Proposta 1%, Petição 10%, Limite de Aprovação A Favor > Contra e atinge 1/4 dos Eleitores.
+[^3]: [Capítulo 13 da Lei de Eleições e Revogação de Cargos Públicos](https://law.moj.gov.tw/LawClass/LawParaDeatil.aspx?pcode=D0020010&bp=13) — Base de dados nacional de legislação, artigos 76, 81 e 90 com texto integral: proposta 1%, assinaturas 10%, limiar de aprovação: mais concordâncias que discordâncias e 1/4 dos eleitores.
 
-[^4]: [Legisladores Não Proporcionais Podem Ser Recallados?](https://plainlaw.me/posts/recall-legislators-20240103) — Movimento de Leis em Linguagem Simples, explica que legisladores não proporcionais não têm circunscrição original, o sistema não se aplica ao recall.
+[^4]: [Pode um deputado local não eleito por distrito ser revogado?](https://plainlaw.me/posts/recall-legislators-20240103) — Movimento de Direito Popular, explica que os deputados locais não eleitos por distrito nacionalmente não se aplicam à revogação do sistema.
 
-[^5]: [Lei de Eleições e Recall de Funcionários Públicos](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Banco de Dados de Leis Nacionais, artigos 14, 15: Idade superior a 20 anos com direito de voto, residir continuamente por 4 meses ou mais como eleitor daquela circunscrição.
+[^5]: [Lei de Eleições e Revogação de Cargos Públicos](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Base de dados nacional de legislação, artigos 14 e 15: maiores de 20 anos têm direito ao voto, residentes por mais de 4 meses no distrito eleitoral.
 
-[^6]: [Recall Não Aprovado... Cut the Tail: Democracia com Lacunas](https://www.thenewslens.com/article/12936) — The News Lens, 2015, taxa de participação do caso de recall de Cai Zheng-yuan foi apenas 24,98%, não atingiu o limite antigo "duplo 21".
+[^6]: [Revogação não aprovada... Despedida: A democracia com lacunas](https://www.thenewslens.com/article/12936) — Crítica-chave, em 2015, a taxa de votação no caso de revogação de Tsai Cheng-yuan era apenas 24,98%, não atingindo o limiar antigo de 'duplo 21'.
 
-[^7]: [Legislativo Aprova Emenda da Lei de Eleições e Recall em Novembro de 2016](https://www.lawbank.com.tw/news/NewsContent.aspx?NID=139983) — Lawbank, limite de aprovação de recall muda de "duplo 21" para A Favor atinge 1/4 dos Eleitores; aprovado após revisão consolidada de várias versões do grupo do Poder do Tempo e do PDP.
+[^7]: [Modificação da Lei Eleitoral aprovada pelo plenário da Câmara em novembro de 2016](https://www.lawbank.com.tw/news/NewsContent.aspx?NID=139983) — Site Jurídico Fonte, o limiar de aprovação da revogação mudou de 'duplo 21' para 1/4 dos eleitores concordando; aprovado por versões combinadas do grupo parlamentar do Partido da Força do Tempo e do Partido do Progresso Democrático.
 
-[^8]: [Votos A Favor Não Alcançam Limite de 63.888, Recall de Huang Guo-zhang Não Aprovado](https://news.ltn.com.tw/news/politics/breakingnews/2285172) — Liberty Times, 2017, Huang Guo-zhang torna-se o primeiro legislador sob o novo sistema a enfrentar voto de recall, A Favor 48.693 não atinge 63.888, não destituído.
+[^8]: [Caso de revogação de Huang Kuo-chang não aprovado por não atingir o limite de 63.888](https://news.ltn.com.tw/news/politics/breakingnews/2285172) — Jornal Livre, em 2017, Huang Kuo-chang foi o primeiro deputado a enfrentar votação de revogação sob a nova legislação, com 48.693 votos concordando, não atingindo o limite de 63.888 votos, não sendo revogado.
 
-[^9]: [Eleições Legislativas 2024 Três Partidos Sem Maioria, KMT 52, PDP 51](https://www.cna.com.tw/news/aipl/202401130361.aspx) — CNA, 2024/1/13, distribuição de 113 assentos no Legislativo 52:51:8:2.
+[^9]: [Eleições legislativas de 2024: três partidos não atingem a maioria; Partido Nacionalista 52 assentos, Partido do Progresso Democrático 51 assentos](https://www.cna.com.tw/news/aipl/202401130361.aspx) — Agência Central de Notícias, 13/1/2024, a Câmara dos Deputados distribuiu 113 assentos como 52:51:8:2.
 
-[^10]: [Han Kuo-yu Eleito Presidente do Legislativo, Segunda Rodada 54 a 51 Vence Yu Shi-kun](https://www.cna.com.tw/news/aipl/202402015003.aspx) — CNA, 2024/2/1, apuração exata das eleições de presidente e vice-presidente do Legislativo.
+[^10]: [Eleição de Han Zheng as presidente da Câmara dos Deputados; segunda rodada: 54 a 51, vence Yu Hsiu-ning](https://www.cna.com.tw/news/aipl/202402015003.aspx) — Agência Central de Notícias, 1/2/2024, votação ao vivo para presidente e vice-presidente da Câmara dos Deputados.
 
-[^11]: [Legislativo Rejeita Pedido de Revisão do Executivo 62 a 51 Mantém Decisão Original](https://www.twreporter.org/a/legislature-votes-down-cabinets-request-to-review-controversial-reform-bills) — The Reporter, 2024/6/21, resultado da votação do pedido de revisão da emenda do poder do Legislativo.
+[^11]: [Câmara dos Deputados rejeita projeto de revisão do governo; 62 a 51 mantém a decisão original](https://www.twreporter.org/a/legislature-votes-down-cabinets-request-to-review-controversial-reform-bills) — Reporters, 21/6/2024, resultados da votação no Congresso sobre o projeto de revisão de competência.
 
-[^12]: [Resumo da Decisão do Tribunal Constitucional 113-9](https://cons.judicial.gov.tw/docdata.aspx?fid=77&id=354002) — Página Oficial do Tribunal Constitucional do Suprema Corte, proclamado em 2024/10/25, várias disposições da emenda do poder parcialmente inconstitucionais, defeito no processo legislativo não atinge grau de inconstitucionalidade.
+[^12]: [Resumo do julgamento constitucional nº 9 de 2024 do Tribunal Constitucional](https://cons.judicial.gov.tw/docdata.aspx?fid=77&id=354002) — Página oficial do Tribunal Constitucional do Poder Judiciário, 25/10/2024, declarado que várias disposições da revisão de competência são parcialmente inconstitucionais; as falhas no procedimento legislativo não atingiram o nível de inconstitucionalidade.
 
-[^13]: [KMT e TPP Aprovam em Terceira Leitura Lei de Eleições e Recall, Lei do Tribunal Constitucional, Lei de Distribuição Financeira](https://www.twreporter.org/a/kmt-tpp-lawmakers-pass-three-amendments-include-constitutional-court-procedure-act) — The Reporter, 2024/12/20, três leis aprovadas em terceira leitura, artigos exatos e declarações de campos.
+[^13]: [Lei Eleitoral, Lei de Ação Constitucional e Lei de Administração Fiscal aprovadas pelo plenário](https://www.twreporter.org/a/kmt-tpp-lawmakers-pass-three-amendments-include-constitutional-court-procedure-act) — Reporters, 20/12/2024, texto integral de três leis aprovadas pelo plenário e explicações de ambos os lados.
 
-[^14]: [Lei de Distribuição Financeira Aprovada em Terceira Leitura, Ministério das Finanças: Governo Central Liberará Mais 375,3 Bilhões](https://www.cna.com.tw/news/aipl/202412210002.aspx) — CNA, cálculo oficial do Ministério das Finanças, após a emenda, o governo central deve liberar mais 375,3 bilhões para o local.
+[^14]: [Aprovação da Lei de Administração Fiscal pelo plenário; Ministério das Finanças: o governo central liberará R$375,3 bilhões adicionais](https://www.cna.com.tw/news/aipl/202412210002.aspx) — Agência Central de Notícias, após a revisão orçamentária oficial, o governo central precisará liberar R$375,3 bilhões adicionalmente às regiões.
 
-[^15]: [Legislativo Aprova em Terceira Leitura Orçamento Geral do Governo Central de 2025](https://www.twreporter.org/a/legislature-passes-2025-government-budget) — The Reporter, processo de redução de 207,5 bi e congelamento de 260 bi, combates entre campos.
+[^15]: [Câmara dos Deputados aprova o orçamento geral do governo central para 2025](https://www.twreporter.org/a/legislature-passes-2025-government-budget) — Reporters, processo de redução de R$20,75 bilhões e congelamento de R$20,6 bilhões no orçamento geral e combates entre partidos.
 
-[^16]: [Observação da Onda de Grande Recall: Por que Voluntários Centrais são Geração 30 e Maioria Feminina?](https://www.twreporter.org/a/recall-movement-analysis) — Reportagem Profunda do The Reporter, inclui curva da caixa de correio de Chen Xiao-wei, voluntárias 7-90%, KPI de Jian Jia-you, Bang Mang Mang, citações exatas de Xiao Shi, etc.
+[^16]: [Observando a onda de recall: por que a maioria dos voluntários principais são da geração 30 e mulheres?](https://www.twreporter.org/a/recall-movement-analysis) — Reportagem aprofundada da Reporters Network, incluindo a curva de e-mails de Chen Xiaowei, 70-90% de voluntárias mulheres, KPIs de Jian Jiayou, ajuda de 'Bangbang' e citações nomeadas de Xiao Shi.
 
-[^17]: [Sociedades Locais Estabelecem Aliança de Voluntários Anti-Comunismo e Defesa de Taiwan, Apoiam Ação de Grande Recall](https://www.cna.com.tw/news/aipl/202501220087.aspx) — CNA, 2025/1/22, Tsao Hsing-cheng articula Nanshe, Associação de Professores de Taiwan, etc., para estabelecer aliança.
+[^17]: [Grupos locais formam a Aliança de Voluntários de Defesa de Taiwan contra o comunismo, apoiando a ação de recall](https://www.cna.com.tw/news/aipl/202501220087.aspx) — Central News Agency, 22 de janeiro de 2025. Cao Xingchen reúne a Sociedade Sul, a Associação de Professores de Taiwan e outros para formar a aliança.
 
-[^18]: [Entrevista com Yang Shuang-zi sobre Petição de Mil Escritores para Recall de Legisladores Inadequados](https://www.twreporter.org/a/recall-movement-yang-shuang-zi-and-a-thousand-writers-campaign) — The Reporter, petição de escritores cresce de cerca de 200 para 1.043, declaração cita frase de Brodsky.
+[^18]: [Entrevista com Yang Shuangzi sobre os 1.043 signatários de escritores a favor do recall de deputados inaptos](https://www.twreporter.org/a/recall-movement-yang-shuang-zi-and-a-thousand-writers-campaign) — Reporters Network. A assinatura de escritores cresceu de cerca de 200 pessoas para 1.043, com uma declaração citando uma frase de Brodsky.
 
-[^19]: [Stress-Testing Democracy: Taiwan's 2025 Recall](https://taiwaninsight.org/2025/08/19/stress-testing-democracy-taiwans-2025-recall-and-the-future-of-legislative-credibility/) — Taiwan Insight (Universidade de Nottingham), avalia movimento com mais de 1,2 milhão de assinaturas e independência organizacional do PDP.
+[^19]: [Testando a democracia: o recall de 2025 na Taiwan](https://taiwaninsight.org/2025/08/19/stress-testing-democracy-taiwans-2025-recall-and-the-future-of-legislative-credibility/) — Taiwan Insight (Universidade de Notre Dame), avaliando o movimento com mais de 1,2 milhão de assinaturas e organização independente do Partido da Ação Popular Progressista.
 
-[^20]: [Motivos e Livro de Defesa do Caso de Recall de Xu Qiao-xin](https://www.cna.com.tw/news/aipl/202507035007.aspx) — CNA reproduz anúncio da Comissão Eleitoral Central, incluindo "movimento cívico falso" de Xu Qiao-xin e alegação de relato contra Ke Jian-ming exatas.
+[^20]: [Texto completo das razões e defesa do recall de Hsu Qixi](https://www.cna.com.tw/news/aipl/202507035007.aspx) — Central News Agency reproduz o anúncio do Conselho Eleitoral, incluindo as acusações de Hsu Qixi sobre 'falso movimento cívico' e suas acusações indiretas contra Ko Jianming.
 
-[^21]: [Ke Jian-ming: Grande Recall Ainda é Grande Sucesso](https://newtalk.tw/news/view/2025-08-24/989621) — Newtalk News, 2025/8/24, resposta exata de Ke Jian-ming após a votação.
+[^21]: [Ko Jianming: o grande recall ainda é um grande sucesso](https://newtalk.tw/news/view/2025-08-24/989621) — Newtalk News, 24 de agosto de 2025. Declaração completa de Ko Jianming após votar.
 
-[^22]: [Zhu Li-lun Comício Banqiao: Apenas Presidente Lai ousa Fazer Isso](https://www.cna.com.tw/news/aipl/202507190188.aspx) — CNA, 2025/7/19, discurso exato de Zhu Li-lun no comício "Anti-Mau Recall, Luta contra Ditadura".
+[^22]: [Ko Jianguo no evento de mobilização em Pingtung: apenas o presidente Lai ousa fazer isso](https://www.cna.com.tw/news/aipl/202507190188.aspx) — Central News Agency, 19 de julho de 2025. Declaração completa de Ko Jianguo no evento 'Contra o mal do recall, contra o autoritarismo'.
 
-[^23]: [Taiwan after the Great Recalls: Toward a New Political Equilibrium](https://www.brookings.edu/articles/taiwan-after-the-great-recalls-toward-a-new-political-equilibrium/) — Kharis Templeman, Brookings, 2025/8/15, inclui TPP recusando cooperação com KMT para aumentar limite, "Caixa de Pandora fechada", "Taiwan não suporta mais 30 meses de impasse" exatas.
+[^23]: [Taiwan após os Grandes Recalls: Rumo a um Novo Equilíbrio Político](https://www.brookings.edu/articles/taiwan-after-the-great-recalls-toward-a-new-political-equilibrium/) — Kharis Templeman, Brookings, 15 de agosto de 2025. Inclui a recusa do Partido da Ação Popular de colaborar com o Partido Nacionalista para elevar as exigências, a frase 'a caixa de Pandora foi fechada' e 'Taiwan não pode suportar mais 30 meses de impasse' com citações completas.
 
-[^24]: [Huang Guo-zhang Critica Ko Wen-je Receber Aviso de Votação de Recall](https://udn.com/news/story/124323/8885776) — UDN News, 2025/7/21, "que tipo de humor negro" exato de Huang Guo-zhang no Facebook.
+[^24]: [Huang Guochang critica Ko Wenche ao receber notificação de votação de recall](https://udn.com/news/story/124323/8885776) — United Daily News, 21 de julho de 2025. Post no Facebook de Huang Guochang: 'Que tipo de humor negro é esse?' com declaração completa.
 
-[^25]: [Comissão Eleitoral Central: Recall Envolvendo Mortos ou Falsificação Será Denunciado conforme a Lei](https://www.cna.com.tw/news/aipl/202504160239.aspx) — CNA, 2025/4/16, distribuição de 41 casos denunciados: 15 recall azul, 17 recall verde, 8 recall verde (legisladores), 1 caso Gao Hong-an.
+[^25]: [Conselho Eleitoral: todos os casos de recall envolvendo morte de signatários ou falsificação serão processados por lei](https://www.cna.com.tw/news/aipl/202504160239.aspx) — Central News Agency, 16 de abril de 2025. Distribuição de 41 casos de processo: 15 contra deputados azuis, 17 contra deputados verdes, 8 contra vereadores verdes e 1 caso de Hao Hong'an.
 
-[^26]: [Comissão Eleitoral Central Denuncia 41 Casos de Recall, 1.784 Mortos contra Verde vs Mortos contra Azul Suspensos](https://news.ltn.com.tw/news/politics/paper/1702073) — Liberty Times, 2025/4/17, 17 casos contra verde 1.784 petições de mortos, 12 contra azul mortos + 160 falsificação, Lin Pei-xiang 116 (ponto de verificação de petição de primeira etapa).
+[^26]: [Conselho Eleitoral processa 41 casos de recall: 1.784 falsificações em casos de recall de verdes vs. 150.000 falsificações em casos de recall de azuis](https://news.ltn.com.tw/news/politics/paper/1702073) — Liberty Times, 17 de abril de 2025. 17 casos de recall de verdes com 1.784 falsificações, 12 casos de recall de azuis com 150.000 falsificações + 160 casos de falsificação; Lin Peixiang com 116 casos (momento de verificação de primeira fase de assinaturas).
 
-[^27]: [Comissão Eleitoral Central: Sem Tratamento Diferente em Falsificação de Petição, Resultado de Revisão 6/21](https://www.cna.com.tw/news/aipl/202506210111.aspx) — CNA, revisão 6/21: 16 casos envolvendo mortos, 12 envolvendo falsificação; "sem tratamento diferenciado" exato.
+[^27]: [Conselho Eleitoral: falsificação de assinaturas tratada igualmente, resultados em 21 de junho](https://www.cna.com.tw/news/aipl/202506210111.aspx) — Central News Agency, 21 de junho de 2025. Decisão: 16 casos envolvendo morte de signatários, 12 casos envolvendo falsificação; declaração completa: 'não há nenhum tratamento diferenciado'.
 
-[^28]: [Petição de Recall Envolvendo Ilegalidade, Vice-Presidente do Comitê KMT Tainan Zhuang Zhan-kui e Outros 11 Recebem Pena Suspensa em Primeira Instância](https://www.cna.com.tw/news/asoc/202607100184.aspx) — CNA, 2026/7/10, 3.663 falsificações, pena suspensa por 5 anos, 600.000 yuan ao tesouro público, razão da sentença exata.
+[^28]: [Voluntários de recall envolvidos em atividades ilegais: 11 membros do departamento do Partido Nacionalista em Tainan recebem suspensão condicional de prisão em primeira instância](https://www.cna.com.tw/news/asoc/202607100184.aspx) — Central News Agency, 10 de julho de 2026. 3.663 falsificações, suspensão de cinco anos, 600.000 taiwaneses do tesouro público e declaração completa do julgamento.
 
-[^29]: [Legisladores do Azul Controlam Petição de Recall contra Azul com 150.000 Não Qualificados, CEC Responde](https://rwnews.tw/article.php?news=21512) — RW News, grupo KMT aponta mais de 150.000 não qualificados na segunda etapa de petição contra azul, questiona "processa azul, não verde", CEC responde que petições repetidas e falsificação não estão envolvidas.
+[^29]: [Deputado azul acusa mais de 150.000 assinaturas inválidas no recall de azuis, Conselho Eleitoral responde](https://rwnews.tw/article.php?news=21512) — Lianchuang Media. O grupo do Partido Nacionalista afirma que mais de 150.000 assinaturas na segunda fase do recall de azuis são inválidas, questionando 'perseguir azuis mas não verdes'. O Conselho Eleitoral responde que não há envolvimento de falsificação ou assinaturas duplicadas.
 
-[^30]: [Nantou Legislatora do Condado Chen Yu-ling Recall Não Aprovado](https://www.cna.com.tw/news/aipl/202507130136.aspx) — CNA, 2025/7/13, caso Chen Yu-ling A Favor 12.160, Contra 5.867, votos a favor não atingem limite.
+[^30]: [Recall do vereador do condado de Nantou, Chen Yuxin, não aprovado](https://www.cna.com.tw/news/aipl/202507130136.aspx) — Central News Agency, 13 de julho de 2025. Chen Yuxin: 12.160 votos a favor, 5.867 votos contra, não atingindo a meta mínima de votos a favor.
 
-[^31]: [726 Recall 25 Casos Todos Rejeitados, 7 Casos Ultrapassam Limite mas Ainda Rejeitados](https://www.cna.com.tw/news/aipl/202507260216.aspx) — CNA, lista de 7 casos que ultrapassaram 25% mas foram rejeitados e espectro de diferença de votos (Ye Yuan-zhi 3.560 a Zheng Zheng-qian 29.335).
+[^31]: [726罷免25案全否決 7案過門檻仍被否決](https://www.cna.com.tw/news/aipl/202507260216.aspx) — Central News Agency, 7 casos superaram a barreira de 25% mas ainda foram rejeitados, com a lista de diferenças de votos variando de 3.560 (Yeh Yuan-chih) a 29.335 (Zheng Zhenghuan).
 
-[^32]: [Hsinchu Prefeita Gao Hong-an Recall Não Aprovado, Mais de 120.000 Votos Contra](https://www.cna.com.tw/news/aipl/202507260230.aspx) — CNA, caso Gao Hong-an A Favor 86.291, Contra 124.360, Taxa de Participação 58,84%, Limite 90.078.
+[^32]: [新竹市長高虹安罷免案未通過 逾12萬票不同意](https://www.cna.com.tw/news/aipl/202507260230.aspx) — Central News Agency, caso de alta da prefeita de Hsinchu, Gao Hong-an: 86.291 votos a favor, 124.360 contra, 58,84% de comparecimento, barreira de 90.078.
 
-[^33]: [Ministério do Interior: Caso de Corrupção de Gao Hong-an Revertido para Não Culpada, Readmissão conforme a Lei Após Receber Pedido](https://www.cna.com.tw/news/aipl/202512160101.aspx) — CNA, 2025/12/16, parte de corrupção revertida para não culpada em segunda instância, pode solicitar readmissão.
+[^33]: [內政部：高虹安貪污改判無罪 收到申請書後依法復職](https://www.cna.com.tw/news/aipl/202512160101.aspx) — Central News Agency, em 16/12/2025, a segunda instância absolveu Gao Hong-an do crime de corrupção, podendo solicitar readaptação.
 
-[^34]: [Referendum Nuclear Three Taxa de Participação 29,53%, Votos A Favor Ultrapassam 70% Não Atingem Limite](https://www.cna.com.tw/news/aipl/202508230199.aspx) — CNA, Nuclear Three A Favor 4,341.432 (74,17%), Contra 1.511.693, Limite 5.005.23.
+[^34]: [核三重啟公投投票率29.53% 同意票破7成未過門檻](https://www.cna.com.tw/news/aipl/202508230199.aspx) — Central News Agency, plebiscito sobre a reinicialização da usina nuclear três: 4.341.432 votos a favor (74,17%), 1.511.693 contra, barreira de 5.005.23.
 
-[^35]: [Estatísticas de Despesas Eleitorais de Grande Recall e Referendum Nuclear Three](https://www.cna.com.tw/news/aipl/202508230210.aspx) — CNA, 31 casos de recall de legisladores cerca de 400 milhões, Nuclear Three cerca de 1,14 bilhões, caso Gao Hong-an cerca de 31,01 milhões (orçamento local).
+[^35]: [大罷免、核三公投選務支出統計](https://www.cna.com.tw/news/aipl/202508230210.aspx) — Central News Agency, 31 casos de recall de deputados gastaram cerca de 400 milhões, plebiscito nuclear cerca de 114 milhões, caso de Gao Hong-an cerca de 31 milhões (orçamento local).
 
-[^36]: [You Ying-long: Guerra Civil Democrática Desastrosa, Exige Desculpas do PDP](https://udn.com/news/story/124323/8965188) — UDN News, 2025/8/27, comentário exato de You Ying-long e três exigências ao partido no poder.
+[^36]: [游盈隆：災難性民主內戰 籲民進黨道歉](https://udn.com/news/story/124323/8965188) — United Daily News, em 27/8/2025, Yu Ying-long comentou e fez três exigências ao partido no poder.
 
-[^37]: [Lai Ching-de Anuncia Quatro Ajustes](https://udn.com/news/story/124323/8958978) — UDN News, 2025/8/24, Lai Ching-de "ajustar formação / ordem de governança / interação executivo-legislativo / constituição fiscal" quatro ajustes.
+[^37]: [賴清德宣布四項調整](https://udn.com/news/story/124323/8958978) — United Daily News, em 24/8/2025, Lai Qingde anunciou quatro ajustes: reorganização da equipe, prioridades de governança, interação entre executivo e legislativo, e estrutura fiscal.
 
-[^38]: [Gabinete Zhuo Reformado com 16 Membros](https://udn.com/news/story/124579/8966250) — UDN News, Gabinete Zhuo 2.0, 16 membros do gabinete mudam, incluindo Li Yang (medalha de ouro de badminton olímpico) como Ministro do Desporto.
+[^38]: [卓內閣改組16人名單](https://udn.com/news/story/124579/8966250) — United Daily News, 16 mudanças no gabinete Zhuo 2.0, incluindo o ex-jogador de badminton olímpico Li Yang como ministro do Esporte.
 
-[^39]: [Zheng Li-wen Eleita Presidente do KMT](https://www.cna.com.tw/news/aipl/202510180182.aspx) — CNA, 2025/10/18, Zheng Li-wen eleita, Lu Hsiu-yan não concorreu.
+[^39]: [鄭麗文當選國民黨主席](https://www.cna.com.tw/news/aipl/202510180182.aspx) — Central News Agency, em 18/10/2025, Zheng Liwen eleita, e Lu Hsiu-yen não concorreu.
 
-[^40]: [PDP Revisa Grande Recall, Ke Jian-ming Torna-se Foco de Responsabilização](https://rti.org.tw/news?pid=160919&uid=3) — Radio Taiwan International, 2025/8, ondas de responsabilização interna pós-recall e controvérsia sobre a permanência de Ke Jian-ming.
+[^40]: [民進黨大罷免檢討 柯建銘成究責焦點](https://rti.org.tw/news?pid=160919&uid=3) — Broadcasting Corporation of China, em agosto de 2025, discussões internas sobre responsabilidades após o recall e controvérsias sobre a permanência de Ko Chien-ming.
 
-[^41]: [Orçamento Geral 115º Ano Atravessa Ano sem Ser Aprovado para Pagamento, Atrasa Quase 300 Dias](https://www.businesstoday.com.tw/article/category/183027/post/202512300062/) — Business Today, orçamento geral atravessa ano pela primeira vez na história sem ser aprovado para pagamento, atraso na execução de políticas.
+[^41]: [115年度總預算跨年未付委 延宕近300天](https://www.businesstoday.com.tw/article/category/183027/post/202512300062/) — This Week, pela primeira vez na história, o orçamento anual foi entregue após o Ano Novo, atrasando a execução das políticas.
 
-[^42]: [Legislativo Aumenta Rigor no Limite de Petição de Recall em Terceira Leitura](https://focustaiwan.tw/politics/202412200015) — Focus Taiwan, 2024/12/20, apenas artigos de procedimento de petição aprovados em terceira leitura, artigos de limite como "votos a favor devem exceder votos eleitos" não entraram em deliberação na época.
+[^42]: [立法院三讀收緊罷免連署門檻](https://focustaiwan.tw/politics/202412200015) — Focus Taiwan, em 20/12/2024, apenas o artigo sobre o processo de assinaturas foi aprovado em terceira discussão; dispositivos como 'votos a favor devem superar votos de eleição' não foram incluídos.
 
-[^43]: [Escritório de Assuntos de Taiwan Chama Grande Recall de Criar Terror Verde](https://www.cna.com.tw/news/acn/202504300106.aspx) — CNA, a partir de 2025/4/30, porta-voz Zhu Feng-lian da RPC várias vezes ataca com "terror verde" (declaração de governo externo, não fonte de fato).
+[^43]: [國台辦稱大罷免製造綠色恐怖](https://www.cna.com.tw/news/acn/202504300106.aspx) — Central News Agency, desde 30/4/2025, a Comissão do Quadro de Relações com Taiwan (zhujianglü) repetidamente usou o termo 'terror verde' (declaração de governo externo, não fonte factual).
 
-[^44]: [Comissão de Assuntos Continentais: Pequim Intervém Abertamente e sem Disfarce no Recall 726](https://www.voachinese.com/a/taiwan-legislature-china-recall-vote-20250723/8049501.html) — VOA Chinese, 2025/7/23, resposta exata da CAC (resposta nossa à alegação de intervenção externa).
+[^44]: [陸委會：北京赤裸裸公開介入726罷免](https://www.voachinese.com/a/taiwan-legislature-china-recall-vote-20250723/8049501.html) — Voice of America, em 23/7/2025, a Comissão de Relações com a China respondeu com declarações completas (nossa resposta às acusações de interferência externa).
 
-[^45]: [Chen Bo-wei Torna-se Primeiro Legislador Destituído com Sucesso na História](https://www.cna.com.tw/news/firstnews/202110230226.aspx) — CNA, 2021/10/23, recall de Chen Bo-wei aprovado, ainda é o único legislador destituído com sucesso na história constitucional de Taiwan até hoje.
+[^45]: [陳柏惟成史上首名被罷免立委](https://www.cna.com.tw/news/firstnews/202110230226.aspx) — Central News Agency, em 23/10/2021, Chen Bor-wei tornou-se o primeiro e até hoje único deputado federal a ser removido por recall na história constitucional de Taiwan.
 
-[^46]: [Diálogo Cívico Transcendendo Bolhas: Exploração Inicial da Comunicação Estratégica do Grande Recall 2025](https://medium.com/doublethinklab-tw/%E8%B7%A8%E5%90%8C%E6%BA%AB%E5%B1%A4%E7%9A%84%E5%85%AC%E6%B0%91%E5%B0%8D%E8%A9%B1-2025%E5%A4%A7%E7%BD%B7%E5%85%8D%E7%AD%96%E7%95%A5%E6%BA%9D%E9%80%9A%E5%88%9D%E6%8E%A2-bcf1de43378d) — Laboratório de Democracia de Taiwan, grupos de recall mudam narrativa de resistir à China para tópicos de vida como aluguel, cuidados de longo prazo, educação, contactando ativamente diferentes bolhas.
+[^46]: [Diálogo cívico entre camadas semelhantes: uma exploração inicial da estratégia de comunicação para as eleições de recall de 2025](https://medium.com/doublethinklab-tw/%E8%B7%A8%E5%90%8C%E6%BA%AB%E5%B1%A4%E7%9A%84%E5%85%AC%E6%B0%91%E5%B0%8D%E8%A9%B1-2025%E5%A4%A7%E7%BD%B7%E5%85%8D%E7%AD%96%E7%95%A5%E6%BA%9D%E9%80%9A%E5%88%9D%E6%8E%A2-bcf1de43378d) — Laboratório da Democracia da Taipé, o grupo de recall redirecionou a narrativa anti-comunista para questões de moradia, cuidados de longa duração e educação, engajando ativamente em diálogos cívicos entre diferentes grupos sociais.
 
-[^47]: [Especial 2025 Grande Recall](https://www.twreporter.org/topics/2025-recall-campaign) — Página Especial do The Reporter, lista "para onde a força cívica demonstrada pelos grupos de recall irá" como indicador de observação aberta contínua.
+[^47]: [Tema Recall 2025](https://www.twreporter.org/topics/2025-recall-campaign) — Página especial do Reporters, listando 'Para onde vai a força cívica demonstrada pelos grupos de recall' como um indicador de observação aberta em andamento.
 
-[^48]: [A Vote of Gladness, A Moment of Disquiet](https://taiwaninsight.org/2025/08/15/a-vote-of-gladness-a-moment-of-disquiet-taiwans-recall-elections-revisited/) — Taiwan Insight, 2025/8/15, artigo de revisão; "Everyone was glad with it, but no one was proud of it." é a frase de 1848 do presidente dos EUA Polk citada no artigo, autores a usam como analogia.
+[^48]: [Um Voto de Alegria, um Momento de Inquietação](https://taiwaninsight.org/2025/08/15/a-vote-of-gladness-a-moment-of-disquiet-taiwans-recall-elections-revisited/) — Taiwan Insight, artigo de revisão de 15 de agosto de 2025; 'Todo mundo estava contente com isso, mas ninguém se orgulhava disso.' é uma citação do presidente norte-americano Polk de 1848 usada pelo autor como analogia.
 
-[^49]: [Projeto de Orçamento Geral do Governo da República da China de 2025 Reduzido](https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%B8%BD%E9%A0%90%E7%AE%97%E6%A1%88%E5%88%AA%E6%B8%9B) — Wikipedia, 2025/1/21 terceira leitura: reduzido cerca de 207,5 bi, congelado cerca de 260 bi, pedido de revisão em 3/12 rejeitado.
+[^49]: [Reduções no Orçamento Geral do Governo da República da China em 2025](https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%B8%BD%E9%A0%90%E7%AE%97%E6%A1%88%E5%88%AA%E6%B8%9B) — Wikipédia, em 21 de janeiro de 2025, aprovado em terceira votação: reduções de aproximadamente 20,75 bilhões, congelamentos de aproximadamente 26 bilhões; a revisão em 12 de março foi rejeitada.
 
-[^50]: [Motivos e Livro de Defesa do Caso de Recall de Fu Kun-qei](https://www.cna.com.tw/news/aipl/202507035024.aspx) — CNA reproduz anúncio da Comissão Eleitoral Central, livro de defesa de Fu Kun-qei "77,2% de satisfação de governação", "nona vitória consecutiva de cinco estrelas" exatas.
+[^50]: [Texto integral do documento de justificação e defesa do recall de Fu Kung-chi](https://www.cna.com.tw/news/aipl/202507035024.aspx) — Central News Agency reproduziu o anúncio do Conselho Eleitoral Nacional; o documento de defesa de Fu Kung-chi inclui palavra por palavra '77,2% de satisfação com a gestão' e 'cinco estrelas consecutivas'.
 
-[^51]: [Reeleição de Quadros do Grupo do PDP no Legislativo, Cai Qi-chang Eleito Líder do Grupo](https://www.cna.com.tw/news/aipl/202602240101.aspx) — CNA, 2026/2/24, Ke Jian-ming entrega cargo, Cai Qi-chang assume líder do grupo.
+[^51]: [Eleições de executivos partidários na Câmara dos Deputados do Partido DPP](https://www.cna.com.tw/news/aipl/202602240101.aspx) — Central News Agency, em 24 de fevereiro de 2026, Ko Chien-ming deixou o cargo e Tsai Chi-chang assumiu como líder do grupo partidário.
 
-[^52]: [Progresso de Deliberação do Projeto de Emenda da Lei de Eleições e Recall de Funcionários Públicos](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6588&pid=83591) — Área de Projetos do Legislativo, projetos de emenda relacionados ao limite de recall ainda não entraram em deliberação plenária até a verificação de 2026/7.
+[^52]: [Progresso do debate do projeto de lei de eleições e recall de funcionários públicos](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6588&pid=83591) — Seção de projetos da Câmara dos Deputados, os projetos de lei relacionados ao limiar de recall ainda não foram levados ao debate em plenário até julho de 2026.
 
-[^53]: [Linha do Tempo "Recall Contra Recall"](https://www.cw.com.tw/article/5135873) — Magazine CommonWealth, processo de resolução da reunião do grupo do KMT para lançar recall contra legisladores do PDP.
+[^53]: [Linha do tempo do 'Usar o recall para combater o recall'](https://www.cw.com.tw/article/5135873) — Revista Tianxia, o processo pelo qual o grupo do Partido Nacional decidiu em reunião interna lançar um recall contrário contra os deputados do Partido DPP.
