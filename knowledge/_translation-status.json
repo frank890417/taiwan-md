@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T01:19:17+08:00",
-    "zhCommitHead": "1456fd390",
+    "lastUpdated": "2026-09-26T01:47:01+08:00",
+    "zhCommitHead": "fdcf21170",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1043,
+        "fresh": 1044,
         "stale": 37,
         "metadata_stale": 0,
-        "missing": 44,
+        "missing": 43,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1104,
-        "stale": 13,
+        "fresh": 1105,
+        "stale": 12,
         "metadata_stale": 0,
         "missing": 7,
         "orphan": 0
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1097,
+        "fresh": 1098,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 8,
+        "missing": 7,
         "orphan": 0
       },
       "vi": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1062,
+        "fresh": 1063,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 50,
+        "missing": 49,
         "orphan": 0
       },
       "ar": {
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1085,
-        "stale": 8,
+        "fresh": 1086,
+        "stale": 7,
         "metadata_stale": 1,
         "missing": 30,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1059,
+        "fresh": 1060,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 63,
+        "missing": 62,
         "orphan": 0
       }
     },
@@ -8082,11 +8082,11 @@
           "sourceContentHash": "sha256:1d88a269185c0f26",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T15:19:34.367902+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fdcf2117",
+          "translationLastModified": "2026-09-26T01:19:17+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 57887,
+          "bytes": 57889,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -8114,7 +8114,20 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/taiwan-creative-content-agency.md",
+          "translatedFrom": "Economy/文化內容策進院.md",
+          "sourceCommitSha": "d704d4e52",
+          "sourceContentHash": "sha256:1d88a269185c0f26",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T17:00:19.031874+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 67121,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/taiwan-creative-content-agency.md",
@@ -21906,20 +21919,18 @@
         "ko": {
           "path": "ko/Economy/mask-national-team.md",
           "translatedFrom": "Economy/口罩國家隊.md",
-          "sourceCommitSha": "4a95859b1",
-          "sourceContentHash": "sha256:0d5afce6607921e8",
-          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
-          "translatedAt": "2026-09-13T16:46:51+08:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:972cf4aaa92341f0",
+          "sourceBodyHash": "sha256:b76f31d5c89bcc16",
+          "translatedAt": "2026-09-25T16:58:21+08:00",
           "translationLastCommit": "65ee56e5",
           "translationLastModified": "2026-09-14T10:03:13+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 30318,
+          "bytes": 28439,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+53 -28"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/mask-national-team.md",
@@ -26491,8 +26502,8 @@
           "sourceContentHash": "sha256:0679bda8106e31fc",
           "sourceBodyHash": "sha256:b5c758f914dccaf4",
           "translatedAt": "2026-09-25T16:45:11.560410+00:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "fdcf2117",
+          "translationLastModified": "2026-09-26T01:19:17+08:00",
           "inferred": false,
           "footnoteDefs": 47,
           "bytes": 43899,
@@ -55683,7 +55694,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/learning-poverty-in-taiwan.md",
+          "translatedFrom": "Society/學習貧窮.md",
+          "sourceCommitSha": "c2191ba3a",
+          "sourceContentHash": "sha256:849f86ce2f7e41c5",
+          "sourceBodyHash": "sha256:605da09515483b90",
+          "translatedAt": "2026-09-25T16:58:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "bytes": 35836,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -67517,7 +67541,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/air-raid-shelters-taiwan.md",
+          "translatedFrom": "Society/防空避難.md",
+          "sourceCommitSha": "f72b7c411",
+          "sourceContentHash": "sha256:2864f529a23701fe",
+          "sourceBodyHash": "sha256:c8066f344d7a7cc6",
+          "translatedAt": "2026-09-25T16:58:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 18794,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/air-raid-shelters-taiwan.md",
@@ -139759,7 +139796,7 @@
           "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 61631,
+          "bytes": 61629,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -140999,7 +141036,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/wei-tsung-cheng-comic-artist.md",
+          "translatedFrom": "People/韋宗成.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:2f3feb8df34cdc45",
+          "sourceBodyHash": "sha256:3e236311319150f0",
+          "translatedAt": "2026-09-25T16:58:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 66868,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/wei-tsung-cheng-comic-artist.md",
@@ -211758,20 +211808,18 @@
         "ru": {
           "path": "ru/Culture/taiwan-baseball-culture.md",
           "translatedFrom": "Culture/台灣棒球文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:9a4380e463583d63",
-          "sourceBodyHash": "sha256:ffebfda3574ab04b",
-          "translatedAt": "2026-07-26T15:32:52+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:82a373ca1ee51cf4",
+          "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
+          "translatedAt": "2026-09-25T16:58:30+08:00",
           "translationLastCommit": "2c5705e8",
           "translationLastModified": "2026-07-26T17:17:57+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 26381,
+          "bytes": 25964,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/taiwan-baseball-culture.md",
