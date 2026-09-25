@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T01:47:01+08:00",
-    "zhCommitHead": "fdcf21170",
+    "lastUpdated": "2026-09-26T02:02:12+08:00",
+    "zhCommitHead": "fa611f693",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1099,
-        "stale": 13,
+        "fresh": 1100,
+        "stale": 12,
         "metadata_stale": 0,
         "missing": 12,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1069,
-        "stale": 13,
+        "fresh": 1070,
+        "stale": 12,
         "metadata_stale": 0,
         "missing": 42,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1074,
+        "fresh": 1075,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 37,
+        "missing": 36,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1060,
+        "fresh": 1061,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 62,
+        "missing": 61,
         "orphan": 0
       }
     },
@@ -53960,8 +53960,8 @@
           "sourceContentHash": "sha256:f828da7d0eb39776",
           "sourceBodyHash": "sha256:c0de350ac39dbee0",
           "translatedAt": "2026-09-25T16:58:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa611f69",
+          "translationLastModified": "2026-09-26T01:47:01+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "bytes": 39351,
@@ -55700,8 +55700,8 @@
           "sourceContentHash": "sha256:849f86ce2f7e41c5",
           "sourceBodyHash": "sha256:605da09515483b90",
           "translatedAt": "2026-09-25T16:58:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa611f69",
+          "translationLastModified": "2026-09-26T01:47:01+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 35836,
@@ -124548,20 +124548,18 @@
         "id": {
           "path": "id/People/muyao4.md",
           "translatedFrom": "People/木曜4超玩.md",
-          "sourceCommitSha": "1b55dfc6c",
-          "sourceContentHash": "sha256:f1e33836f112b9c8",
-          "sourceBodyHash": "sha256:fb1ea1d55d3dd211",
-          "translatedAt": "2026-09-12T11:18:05+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:c545680e99f6d0ab",
+          "sourceBodyHash": "sha256:809502b72dc5c3f5",
+          "translatedAt": "2026-09-25T17:55:44.393754+00:00",
           "translationLastCommit": "fc9211ca",
           "translationLastModified": "2026-09-12T18:25:41+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 23680,
+          "bytes": 24814,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/muyao4.md",
@@ -188426,13 +188424,39 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-25T16:58:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 32070,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-25T16:58:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 24224,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -200677,8 +200701,8 @@
           "sourceContentHash": "sha256:e70a2042c1d5dde1",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T16:38:57.811202+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa611f69",
+          "translationLastModified": "2026-09-26T01:47:01+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "bytes": 40356,
@@ -206531,20 +206555,18 @@
         "en": {
           "path": "en/Culture/wretch.md",
           "translatedFrom": "Culture/無名小站.md",
-          "sourceCommitSha": "d40e5042",
-          "sourceContentHash": "sha256:1d592674c8a22f46",
-          "sourceBodyHash": "sha256:74e768331f7f3a8b",
-          "translatedAt": "2026-06-17T01:18:25+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bb3880571afae296",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T17:08:06.024030+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 30517,
+          "bytes": 42401,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/wretch.md",
@@ -216233,8 +216255,8 @@
           "sourceContentHash": "sha256:79bdc16e1c9ab31c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T15:45:58.106526+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fa611f69",
+          "translationLastModified": "2026-09-26T01:47:01+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "bytes": 48543,
