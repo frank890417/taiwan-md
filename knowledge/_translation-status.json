@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T05:26:23+08:00",
-    "zhCommitHead": "538b49f92",
+    "lastUpdated": "2026-09-26T06:10:08+08:00",
+    "zhCommitHead": "193f60b8c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,26 +68,26 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1072,
+        "fresh": 1073,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 41,
+        "missing": 40,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1099,
+        "fresh": 1100,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 17,
+        "missing": 16,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1065,
+        "fresh": 1066,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 49,
+        "missing": 48,
         "orphan": 0
       },
       "ar": {
@@ -1396,7 +1396,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/sodagreen.md",
+          "translatedFrom": "Music/蘇打綠.md",
+          "sourceCommitSha": "ac048ecf8",
+          "sourceContentHash": "sha256:9cf99b2480b3617d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T21:28:34.485338+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 51,
+          "bytes": 72846,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/sodagreen.md",
@@ -1415,7 +1428,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/sodagreen.md",
+          "translatedFrom": "Music/蘇打綠.md",
+          "sourceCommitSha": "ac048ecf8",
+          "sourceContentHash": "sha256:9cf99b2480b3617d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T21:11:20.086589+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 51,
+          "bytes": 150095,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/sodagreen.md",
@@ -24882,8 +24908,8 @@
           "sourceContentHash": "sha256:e4e6dbc8acdd8970",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T19:23:09.615852+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "193f60b8",
+          "translationLastModified": "2026-09-26T05:26:23+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "bytes": 89640,
@@ -44425,8 +44451,8 @@
           "sourceContentHash": "sha256:799ca5362c21601f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T21:03:19.543622+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "193f60b8",
+          "translationLastModified": "2026-09-26T05:26:23+08:00",
           "inferred": false,
           "footnoteDefs": 48,
           "bytes": 75870,
@@ -209505,7 +209531,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/donggang-king-boat-festival.md",
+          "translatedFrom": "Culture/東港迎王船.md",
+          "sourceCommitSha": "3f9e184dc",
+          "sourceContentHash": "sha256:d56573864b826475",
+          "sourceBodyHash": "sha256:1750eec6a44e0473",
+          "translatedAt": "2026-09-25T16:58:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 30477,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"

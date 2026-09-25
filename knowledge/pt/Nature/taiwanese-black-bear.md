@@ -1,16 +1,16 @@
 ---
-title: 'Urso-negro-de-Taiwan'
-description: 'Registos de monitorização de 2011 a 2025 expandiram-se de 17 para 27 municípios; estimativa inicial de 2026 aponta para cerca de 1 200 indivíduos, mas ainda aguarda calibração com dados de densidade locais. O artigo aborda dieta, investigação, armadilhas, corredores de habitat e comportamento em montanha, explicando como esta subespécie endémica de Taiwan se aproximou dos humanos e como podemos manter a distância necessária. Também distingue entre estimativas populacionais, registos de deteção e identificação individual, mostrando como a conservação se estendeu da monitorização em áreas de montanha para a gestão de alimentos em comunidades e o quotidiano dos parques nacionais.'
+title: 'O urso-negro de Taiwan'
+description: 'De 2011 a 2025, os registos de observação foram de 17 para 27 concelhos; em 2026, estima-se cerca de 1.200 exemplares, mas a densidade local ainda precisa ser ajustada. O texto aborda alimentação, investigação, armadilhas, corredores ecológicos e comportamento de montanha, explicando como esta subespécie endémica de Taiwan se aproximou do ser humano e como manter distâncias saudáveis. Também distingue estimativas populacionais, registos de descoberta e identificação individual, mostrando como a conservação evoluiu de monitoramento montanhista para gestão de alimentos comunitários e rotinas de parques nacionais.'
 date: 2026-03-18
 category: 'Nature'
 tags:
   [
-    'Urso-negro-de-Taiwan',
+    'urso-negro de Taiwan',
     'conservação',
-    'espécies em perigo',
+    'espécie ameaçada',
     'Huang Mei-hsiu',
     'montanhas',
-    'povos indígenas',
+    'povos indígenenas',
     'parques nacionais',
   ]
 subcategory: '野生動物'
@@ -21,222 +21,222 @@ lastVerified: 2026-08-22
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Nature/台灣黑熊.md'
-sourceCommitSha: '998b8bdb1'
-sourceContentHash: 'sha256:49afbaec6d9c06b3'
-sourceBodyHash: 'sha256:8d8dcdbd5a50b1d1'
-translatedAt: '2026-09-21T00:58:33+08:00'
+sourceCommitSha: '68d051008'
+sourceContentHash: 'sha256:b5101d8e52c2d3e9'
+sourceBodyHash: 'sha256:4f99620b588681ad'
+translatedAt: '2026-09-25T16:58:26+08:00'
 ---
 
-# Urso-negro-de-Taiwan
+# O urso-negro de Taiwan
 
-> O V branco no peito, de uma marca de identificação a uma questão de coexistência
+> A marca em V branco no peito, de sinal de identificação a questão de convivência
 
 ## Visão geral em 30 segundos
 
-> **Visão geral em 30 segundos:** De 2011 a 2025, a Agência de Silvicultura e Conservação da Natureza compilou um total de 2 034 registos de deteção de ursos-negros-de-Taiwan em toda a ilha, abrangendo avistamentos, capturas por câmaras automáticas, comunicados de intrusão e resgates. Antes de 2018, os registos distribuíam-se por 11 cidades/condados e 17 municípios; após 2018, expandiram-se para 11 cidades/condados e 27 municípios.[^1]
+> **Visão geral em 30 segundos:** Entre 2011 e 2025, o Departamento de Silvicultura e Conservação Natural de Taiwan compilou 2.034 registos de urso-negro, incluindo avistamentos, fotos de câmaras automáticas, denúncias de invasão e resgates. Antes de 2018, os registos estavam distribuídos por 11 cidades e 17 concelhos; após 2018, expandiram-se para 11 cidades e 27 concelhos. [^1]
 >
-> Em março de 2026, a Agência de Silvicultura e Conservação da Natureza estimou preliminarmente cerca de 1 200 ursos-negros em toda a ilha com base nos dados de monitorização recentes, mas isto continua a ser uma estimativa preliminar. Este número ainda precisa de aguardar a acumulação de mais dados de densidade locais de diferentes áreas de amostragem e altitudes, prevendo-se uma versão mais precisa para o final do ano.[^4]
+> Em março de 2026, o Departamento de Silvicultura e Conservação Natural estimou preliminarmente cerca de 1.200 ursos-negros em toda a ilha, mas este é apenas um cálculo inicial. Este número ainda depende de mais dados de densidade local em diferentes zonas e altitudes, com uma versão mais precisa esperada para o final do ano. [^4]
 >
-> O urso-negro-de-Taiwan é a subespécie endémica de Taiwan do urso-negro-asiático e o único urso nativo de Taiwan. Distribui-se principalmente nas florestas da Cordilheira Central entre 1 000 e 2 500 metros de altitude, não hiberna e a sua área de atividade anual pode variar de 27 a 202 quilómetros quadrados.[^2] [^5]
+> O urso-negro de Taiwan (_Ursus thibetanus formosanus_) é uma subespécie endémica do urso-negro asiático e o único urso nativo de Taiwan. Vive principalmente em florestas entre 1.000 e 2.500 metros do Círculo Central, não hiberna e seu raio de ação anual pode variar de 27 a 202 km². [^2] [^5]
 
-## Números primeiro: três «quantidades de ursos» diferentes
+## Esclarecendo os números: três "tamanhos de população" distintos
 
-Os números do urso-negro-de-Taiwan aparecem frequentemente no mesmo parágrafo, mas o leitor não sabe que respondem a perguntas diferentes. Os 200 a 600 indivíduos são a estimativa antiga usada pela Administração do Parque Nacional de Yushan e pela página do Arquivo Digital dos Parques Nacionais. Os 1 200 indivíduos são a estimativa preliminar de março de 2026 baseada nos dados de monitorização recentes. Os 2 034 registos são as deteções, capturas, comunicados e resgates de 2011 a 2025, não equivalendo a 2 034 indivíduos diferentes.[^1] [^2] [^4] [^5]
+Os números do urso-negro costumam ser apresentados juntos, sem que o leitor saiba a que pergunta cada um responde. 200 a 600 é uma estimativa antiga usada pelo Parque Nacional de Yushan e na página de acervo digital de parques nacionais. 1.200 é uma estimativa preliminar de 2026 baseada em dados recentes de monitoramento. 2.034 são registos de descoberta entre 2011 e 2025, não necessariamente 2.034 indivíduos distintos. [^1] [^2] [^4] [^5]
 
-| Número                             | O que realmente indica                                           | O que não se pode inferir diretamente                     |
-| ---------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- |
-| 200–600 indivíduos                 | Estimativa populacional anterior de toda a ilha                  | Não representa o censo mais recente de 2026               |
-| Cerca de 1 200 indivíduos          | Estimativa preliminar anunciada em março de 2026                 | Não pode ser tratado como contagem completa já finalizada |
-| 2 034 registos                     | Registos de deteção, captura, comunicação e resgate de 2011–2025 | Não equivale a 2 034 ursos                                |
-| 11 cidades/condados, 27 municípios | Áreas administrativas com registos de ursos após 2018            | Não equivale a área de habitat fixa                       |
+| Número                   | O que realmente significa                                               | Não podemos concluir diretamente            |
+| ------------------------ | ----------------------------------------------------------------------- | ------------------------------------------- |
+| 200–600                  | Estimativa populacional mais antiga                                     | Não representa o censo mais recente de 2026 |
+| ~1.200                   | Estimativa preliminar divulgada em março de 2026                        | Não é um recenseamento final concluído      |
+| 2.034                    | Registos de avistamento, fotografia, denúncia e resgate entre 2011–2025 | Não equivale a 2.034 ursos distintos        |
+| 11 cidades, 27 concelhos | Áreas administrativas com registos de urso após 2018                    | Não equivale a habitat fixo                 |
 
 > **📝 Nota do curador**
-> O que a conservação do urso mais precisa é saber como cada número foi obtido e que perguntas pode responder, não perseguir um único número que pareça preciso. Enquanto os 1 200 indivíduos ainda podem ser revistos em alta ou em baixa, manter honestamente a incerteza é o que permite que a estimativa preliminar sirva verdadeiramente a ciência.
+> O mais importante para a conservação do urso não é perseguir um único número preciso, mas entender como cada número foi obtido e que pergunta ele responde. Enquanto 1.200 for apenas uma estimativa, manter honestamente a incerteza garante que a previsão inicial sirva a ciência.
 
-## Debaixo do V branco, esconde-se um urso que não vive em cavernas
+## Debaixo do V branco, um urso que não vive só em tocas
 
-O urso-negro-de-Taiwan (nome científico _Ursus thibetanus formosanus_) distingue-se pelo pelo preto, orelhas redondas, cauda curta e o V ou meia-lua amarelado-branco no peito, não havendo em Taiwan nenhuma outra espécie de urso com que possa ser confundido. Indivíduos adultos pesam cerca de 60 a 150 quilogramas e medem 130 a 180 centímetros de comprimento.[^2]
+O urso-negro de Taiwan (nome científico _Ursus thibetanus formosanus_) tem pelagem preta, orelhas arredondadas, cauda curta e uma marca em V ou lua crescente amarelo-clara no peito, o que o torna impossível de confundir com outro urso em Taiwan. Indivíduos adultos pesam entre 60 e 150 kg e têm entre 130 e 180 cm de comprimento. [^2]
 
-Não vive apenas num vago «profundo da montanha». Dados oficiais registam a sua presença desde 300 até 3 700 metros de altitude, embora a distribuição principal se mantenha nas florestas da Cordilheira Central entre 1 000 e 2 500 metros. Isto significa que o urso-negro-de-Taiwan precisa de florestas de montanha conectadas para se deslocar, alimentar e reproduzir. As fronteiras de uma única área protegida estão longe de ser suficientes.[^2]
+Ele não habita apenas em "montanhas profundas". Segundo dados oficiais, pode ser encontrado em altitudes de 300 a 3.700 metros, embora a maior parte da população esteja entre 1.000 e 2.500 metros no Círculo Central. Isso significa que o urso-negro de Taiwan precisa de florestas contíguas para se mover, alimentar e se reproduzir — limites de uma única área protegida nunca são suficientes. [^2]
 
-O urso-negro-de-Taiwan não hiberna, podendo estar ativo durante todo o ano. Não tem tocas fixas, é principalmente diurno, com aumento de atividade no verão e outono. No outono-inverno, com a maturação dos frutos das Fagáceas, a atividade noturna também pode aumentar. Estudos de radiotelemetria do Parque Nacional de Yushan estimam a área de atividade anual individual em cerca de 27 a 202 quilómetros quadrados.[^2] [^5]
+O urso não hiberna e pode estar ativo durante todo o ano. Não possui toca fixa, é principalmente diurno, e sua atividade aumenta no verão e outono. No outono e inverno, com a maturação das frutas do gênero _Castanopsis_, sua atividade noturna também pode aumentar. Estudos de rastreamento por rádio no Parque Nacional de Yushan estimam que o raio de ação individual varia de 27 a 202 km². [^2] [^5]
 
-### Apenas alguns filhotes por ano
+### Apenas alguns filhotes nascem por ano
 
-A época de reprodução do urso-negro-de-Taiwan ocorre aproximadamente entre junho e agosto. Após a cópula, o embrião sofre implantação atrasada; a fêmea geralmente dá à luz entre dezembro e fevereiro do ano seguinte, com ninhadas de um a três filhotes. Os filhotes acompanham a mãe até à época de reprodução seguinte, quando se separam gradualmente.[^2]
+A época de reprodução do urso-negro de Taiwan ocorre entre junho e agosto. Após o acasalamento, o embrião sofre atraso de desenvolvimento, e as fêmeas dão à luz entre dezembro e fevereiro do ano seguinte, normalmente com uma a três crías. Os filhotes ficam com a mãe até a próxima época de reprodução antes de se separarem. [^2]
 
-Devido à época de reprodução fixa da fêmea e à necessidade de os filhotes aprenderem com ela a encontrar alimento, reconhecer perigos e usar a floresta, a recuperação populacional leva tempo. Quando os dados de investigação mostram aumento de registos, os investigadores examinam simultaneamente a idade reprodutiva, a sobrevivência de filhotes e a identificação individual de diferentes gerações para determinar se o aumento reflete mais oportunidades de observação ou uma população viável a longo prazo.[^2] [^4]
+Como as fêmeas têm uma época de reprodução fixa, os filhotes precisam aprender com a mãe a encontrar alimento, reconhecer perigos e usar a floresta. Quando os dados mostram aumento nos registos, os pesquisadores analisam cuidadosamente a idade de reprodução, a sobrevivência dos filhotes e a identificação individual entre gerações para determinar se o aumento reflete mais oportunidades de observação ou uma população realmente crescente. [^2] [^4]
 
-![Urso-negro-de-Taiwan em ambiente de cativeiro, mostrando porte e marcação peitoral](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
+![Urso-negro de Taiwan em ambiente de criação artificial, mostrando morfologia e marca no peito](https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg)
 
-_Esta foto é uma imagem de Formosan black bear em ambiente artificial, servindo como referência visual de porte, garras longas e marcação peitoral, não como evidência de distribuição selvagem em Taiwan. Imagem: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Imagem integrada no projeto._
+_ Esta imagem mostra um urso-negro de Taiwan (\_Formosan black bear_) em ambiente artificial, como referência visual de morfologia, garras e marca no peito. Não serve como evidência de distribuição selvagem em Taiwan. Foto: Smartneddy, CC BY-SA 3.0, Wikimedia Commons. Imagem arquivada. \_
 
-![Ilustração de urso-negro-de-Taiwan com V branco no peito](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
+![Ilustração do urso-negro de Taiwan com marca em V branco no peito](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png)
 
-_Esta ilustração serve para sugerir o porte e a marcação peitoral do urso-negro-de-Taiwan, não sendo uma foto de indivíduo selvagem. Imagem: SilverSea Design／Lin Hui-chiu (林慧秋), CC BY 4.0, Wikimedia Commons. Imagem integrada no projeto._
+_ Esta ilustração ilustra a morfologia e a marca no peito do urso-negro de Taiwan, não sendo uma foto de indivíduo selvagem. Ilustração: SilverSea Design / Chofy Lin, CC BY 4.0, Wikimedia Commons. Imagem arquivada. _
 
-## O que come determina para onde vai
+## O que o urso come determina para onde ele vai
 
-O urso-negro-de-Taiwan é omnívoro, mas a sua dieta é maioritariamente vegetal. Na come pode comer folhas tenras, raízes e outras plantas verdes; no verão utiliza mais frutos moles e insetos; no outono-inverno desloca-se acompanhando a produção de nozes das Fagáceas. Materiais de divulgação científica do Parque Nacional de Yushan também indicam que consome mel, formigueiros, carniça e ungulados.[^2] [^5]
+O urso-negro de Taiwan é onívoro, mas a maior parte da dieta é composta por plantas. No primavera, come folhas tenras, raízes e outras plantas verdes; no verão, frutas moles e insetos são comuns; no outono e inverno, segue a disponibilidade de frutos do gênero _Castanopsis_. A literatura científica do Parque Nacional de Yushan também menciona consumo de mel, formigueiros, carniça e carne de mamíferos. [^2] [^5]
 
-Um estudo entre 1998 e 2000 cruzou observações de fezes, vestígios de alimentação e entrevistas a caçadores indígenas para estudar a dieta do urso-negro-de-Taiwan. Foram encontradas 654 amostras de fezes de outono e início de inverno; nessa época os ursos concentravam-se em áreas com carvalhos abundantes, alimentando-se principalmente de bolotas. Em 1999, ano de má produção de bolotas, aumentaram os registos de consumo de ungulados. Encontraram-se menos fezes no verão, pois os ursos dispersavam por áreas maiores à procura de alimento.[^6]
+Um estudo entre 1998 e 2000 observou a dieta do urso através de exames de excrementos, marcas de alimentação e entrevistas com caçadores indígenas. Foram encontrados 654 excrementos de outono e início de inverno, com os ursos concentrados em áreas com abundância de carvalho, alimentando-se principalmente de castanhas. Em 1999, com baixa produção de castanhas, aumentaram os registos de consumo de mamíferos. No verão, foram encontrados menos excrementos, pois os ursos se espalham por áreas maiores em busca de alimento. [^6]
 
-Esta dieta faz com que «onde vive o urso» não possa ser respondido apenas pela altitude. O alimento muda e o urso muda de rota. A frutificação anual na floresta, estradas e atividade humana alteram em conjunto o custo de deslocação dos ursos na montanha. Proteger um pedaço de floresta é importante, mas garantir a conectividade entre diferentes habitats é igualmente importante.
+Essa dieta variável significa que "onde o urso habita" não pode ser respondido apenas com altitude. A comida muda, e os ursos mudam de rota. Frutificação de florestas, estradas e atividades humanas alteram os custos do deslocamento dos ursos pela montanha. Proteger uma área florestal é importante, mas tão importante é manter a conectividade entre habitats.
 
-## Quem estuda ursos primeiro aprende a esperar na montanha
+## Os pesquisadores aprendem a esperar na montanha
 
-Em 1996, a Administração do Parque Nacional de Yushan criou o Grupo de Conservação Especializada do Urso-negro, colaborando com académicos para estabelecer dados de campo. A investigação inicial exigia capturar e libertar com emissor na Cordilheira Central, seguindo depois os indivíduos por radiotelemetria. Os investigadores não levavam os ursos para o laboratório. Entravam no tempo do urso, esperando o sinal voltar do outro lado da encosta íngreme.[^5]
+Em 1996, o gabinete do Parque Nacional de Yushan criou um grupo de conservação do urso-negro, colaborando com pesquisadores para coletar dados no campo. Nos primeiros estudos, os ursos eram capturados e marcados no Círculo Central, depois rastreados por rádio. Os pesquisadores não levavam os ursos de volta ao laboratório. Eles entravavam no tempo do urso, esperando sinais chegar do outro lado da encosta. [^5]
 
-Na investigação na área da divisória de águas de Yushan entre 1998 e 2001, capturaram e libertaram 15 ursos-negros, dos quais 8 tinham dedos ou patas amputadas. Esta proporção esconde um problema populacional que pode ser investigado, registado e que deve ser abordado pela política. As fotos mostram as feridas; os dados explicam como as armadilhas as deixaram.[^5]
+Entre 1998 e 2001, no distrito de Daxianshan do Parque Nacional de Yushan, 15 ursos foram capturados e marcados, dos quais 8 tinham membros ou patas truncados. Essa proporção reflete questões populacionais que podem e devem ser investigadas, registradas e tratadas por políticas públicas. Fotos mostram as feridas; os dados explicam como as armadilhas deixam marcas. [^5]
 
-Huang Mei-hsiu (黃美秀) tornou-se posteriormente uma impulsionadora chave da investigação e conservação de longo prazo do urso-negro-de-Taiwan. Ela e a sua equipa integraram identificação individual, radiotelemetria, análise genética de amostras de fezes, câmaras automáticas e cooperação comunitária num mesmo mapa de conservação. A investigação deixou de responder apenas «quantos ursos há» para começar a responder «por que desaparecem daqui», «o que precisa de ser conectado» e «o que os humanos devem mudar primeiro».[^5] [^9]
+Huang Mei-hsiu posteriormente se tornou uma figura central na pesquisa e conservação do urso-negro de Taiwan. Ela e sua equipe integraram identificação individual, rastreamento por rádio, análise genética de amostras de fezes, câmaras automáticas e cooperação comunitária em um único mapa de conservação. A pesquisa deixou de responder apenas "quantos ursos existem?" para também responder "por que desaparecem aqui?", "onde precisamos conectar?" e "o que precisamos mudar primeiro?". [^5] [^9]
 
-## As feridas das armadilhas mudam a forma de caminhar
+## Ferimentos de armadilhas mudam o comportamento
 
-Armadilhas e caça ilegal são há muito vistas como as principais ameaças antropogénicas ao urso-negro-de-Taiwan. O dano não acaba no momento em que o urso escapa da armadilha. Um estudo de 2024 com 15 ursos-negros do Parque Nacional de Yushan comparou 6 indivíduos feridos com 9 saudáveis, não encontrando diferença estatística na taxa de dispersão nem na área de atividade, mas sim na seleção de habitat. Ursos saudáveis preferem terrenos acidentados com vegetação mais verde; indivíduos feridos deixam de mostrar a mesma preferência e evitam mais fortemente áreas próximas de estradas e atividade humana.[^7]
+Armadilhas e caça ilegal eram consideradas as maiores ameaças humanas ao urso-negro de Taiwan. Mas o dano não termina quando o urso escapa da armadilha. Um estudo de 2024 com 15 ursos no Parque Nacional de Yushan comparou 6 indivíduos feridos com 9 saudáveis, encontrando que, embora não houvesse diferença estatística na taxa de dispersão ou no raio de ação, havia diferenças significativas na escolha de habitat. Os ursos saudáveis preferiam terrenos acidentados e vegetação densa; os feridos perderam essa preferência e evitavam fortemente áreas próximas a estradas e atividades humanas. [^7]
 
-Este resultado corrige uma intuição: ursos feridos não necessariamente «andam menos» na montanha. Podem alterar a forma de escolher habitat e, devido ao encargo energético da lesão, pagar um preço mais alto na busca de alimento e na evasão humana a longo prazo. A conservação não pode começar apenas quando se encontra um urso numa armadilha; deve garantir que o próximo não tenha de passar pelo mesmo caminho.
+Esse achado corrige uma intuição comum: um urso ferido não precariamente "se move menos". Ele pode mudar sua estratégia de habitat, ou pagar um custo energético maior entre alimentação e evasão do ser humano. A conservação não pode começar apenas quando um urso é encontrado na armadilha — precisa garantir que o próximo não precise passar pelo mesmo caminho.
 
-Estradas e desenvolvimento também fragmentam a floresta em parcelas isoladas. Para um animal com área de atividade anual de dezenas de quilómetros quadrados, uma estrada no mapa é apenas uma linha, mas para o urso pode tornar-se o custo de desvio após a interrupção da rota de alimentação. A monitorização oficial recente mostra registos de ursos a aproximarem-se de áreas de baixa montanha e planícies, tornando a conectividade de habitat e a gestão de alimentos humanos mais urgentes.[^1] [^10]
+Estradas e desenvolvimento também fragmentam a floresta em blocos isolados. Para um animal com raio de ação de dezenas de km², uma estrada é apenas uma linha no mapa, mas pode representar um desvio significativo na rota de alimentação do urso. Monitoramentos oficiais recentes mostram que os registos de urso estão se aproximando de áreas de planície e baixa altitude, tornando a conectividade do habitat e o gerenciamento de alimentos humanos mais urgentes. [^1] [^10]
 
 > **📝 Nota do curador**
-> Um urso de pata amputada faz-nos ver primeiro a ferida; a investigação lembra-nos de olhar um passo adiante: o que realmente precisa de ser reparado é o seu corpo e o ambiente que o feriu, o faz mover e o faz alimentar.
+> Uma marca de ferida em um urso truncado chama a atenção, mas a pesquisa nos lembra de olhar além: o que realmente precisa ser reparado é o corpo do urso e o ambiente que o feriu, permitiu seu movimento e alimentação.
 
-## O filhote de Nan-an: voltar para casa não é apenas abrir a porta da gaiola
+## O urso de Nan’an: voltar para casa não é só abrir a gaiola
 
-Em 2018, foi encontrado um filhote separado da mãe perto da cascata de Nan-an, em Hualien. Chamado «Mei-zai» (妹仔), foi enviado para a estação experimental de baixa altitude do Centro de Investigação e Conservação de Espécies Endémicas, iniciando mais de nove meses de cuidados e treino de reabilitação. O treino incluía reconhecer alimentos naturais, aprender a forragear e caçar, e aprender a evitar alimentos humanos e armadilhas de metal.[^8]
+Em 2018, um filhote separado da mãe foi encontrado perto da Cachoeira de Nan’an, em Hualien. Conhecido como "Nan’an Little Bear", foi levado à Estação Experimental de BaixaAltitude do Centro de Pesquisa e Conservação de Especies Endêmicas, iniciando mais de nove meses de cuidados e treinamento para a vida selvagem. O treinamento incluía reconhecimento de alimentos naturais, técnicas de caça e como evitar alimentos humanos e armadilhas de aço. [^8]
 
-Para um filhote, a reintrodução não é enviá-lo para uma «natureza» abstrata. Tem de reaprender, sem a mãe a guiar, que cheiro vale a pena aproximar e que som exige afastamento. Por isso a história do filhote de Nan-an é importante: mostra os detalhes do trabalho de conservação, do alimento ao comportamento até à monitorização pós-libertação, cada passo colocando a capacidade de vida independente do animal em primeiro lugar.[^8]
+Para um filhote, a liberdade não significa devolvê-lo a um "ambiente natural" abstrato. Ele precisa reaprender, sem a orientação da mãe, quais odores aproximam e quais sons afastam. É por isso que a história do urso de Nan’an é importante: mostra os detalhes da conservação, desde alimentação e comportamento até o monitoramento após a libertação — cada passo coloca a capacidade de vida independente do animal em primeiro lugar. [^8]
 
-![Foto de filhote de urso-negro-de-Taiwan, como referência morfológica da fase parental e de crescimento](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg)
+![Foto de filhote de urso-negro de Taiwan como referência morfológica de relação entre mãe e filhote](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg)
 
-_Esta é uma foto de licença livre do Wikimedia Commons identificada como Formosan black bear suckling cubs, usada como referência morfológica de filhote, não para provar a identidade ou local de filmagem do filhote de Nan-an. Imagem: Abu0804, CC BY-SA 3.0, Wikimedia Commons. Imagem integrada no projeto._
+_ Esta é uma foto de uso livre do Wikimedia Commons marcada como "Formosan black bear suckling cubs", usada como referência morfológica de filhotes, sem fins de comprovar a identidade ou localização do urso de Nan’an. Foto: Abu0804, CC BY-SA 3.0, Wikimedia Commons. Imagem arquivada. _
 
-## Três parques nacionais ainda não fazem uma ilha
+## Três parques nacionais ainda não são uma ilha inteira
 
-Yushan, Taroko e Shei-pa, três parques nacionais de alta montanha que atravessam o núcleo da Cordilheira Central, são habitats-chave do urso-negro-de-Taiwan. A gestão dos parques nacionais e a Agência de Silvicultura e Conservação da Natureza têm nos últimos anos integrado câmaras automáticas de infravermelhos, análise genética de amostras de fezes, corredores de habitat e cooperação comunitária no mesmo trabalho de conservação, com o objetivo de permitir que os ursos se desloquem entre diferentes áreas protegidas.[^5] [^10]
+Os parques nacionais de Yushan, Taroko e Snow Mountain atravessam o núcleo do Círculo Central, sendo habitats-chave para o urso-negro de Taiwan. Recentemente, os gestores dos parques e o Departamento de Silvicultura e Conservação Natural integraram câmaras automáticas de infravermelho, análise genética de amostras de fezes, corredores ecológicos e cooperação comunitária em um sistema unificado de conservação, visando permitir que os ursos se movam entre diferentes áreas protegidas. [^5] [^10]
 
-Esta visão de «corredores» muda o papel das áreas protegidas. O seu papel não é manter os ursos dentro das fronteiras, mas conectar áreas protegidas, estradas florestais, aldeias, terras agrícolas e zonas de baixa montanha, reduzindo os perigos de travessia. Dados da Agência de Silvicultura e Conservação da Natureza de 2011 a 2025 mostram que os registos de ursos aumentaram tanto em médias e altas altitudes como em áreas abaixo de 1 200 metros, com algumas zonas a começar a aproximar-se de baixas montanhas e planícies.[^1]
+Essa visão de "corredor" transforma o papel das áreas protegidas. Não se trata de manter os ursos dentro dos limites, mas de conectar parques, estradas florestais, vilas indígenas, terras agrícolas e áreas de baixa altitude, reduzindo os riscos de atravessar. Dados de 2011 a 2025 mostram que os registos de urso aumentaram tanto em altitudes médias e altas quanto em áreas abaixo de 1.200 metros, com algumas regiões começando a se aproximar de planícies e áreas urbanas. [^1]
 
-O diretor-geral da Agência de Silvicultura e Conservação da Natureza, Lin Hua-ching (林華慶), disse: «A coexistência pacífica entre humanos e ursos será o objetivo principal da futura política de conservação.»[^1] O foco desta frase não está no slogan, mas na mudança do objeto da política. Agora precisa de ser gerido não apenas o habitat do urso, mas também os resíduos de cozinha de abrigos de montanha, pomares, apiários, aviários, equipamento de caça e alimentos humanos nas bermas das estradas.
+O diretor do Departamento de Silvicultura e Conservação Natural, Lin Huaqing, disse: "A convivência pacífica entre humanos e ursos será o objetivo principal da política de conservação futura." [^1] A ênfase não está na frase, mas na mudança do foco da política. Agora, não apenas o habitat do urso precisa ser gerenciado, mas também resíduos de montanhas, pomares, colmeias, aviários, armas de caça e alimentos deixados à beira das estradas.
 
-![Foto da exposição de urso-negro-de-Taiwan no Centro de Visitantes de Nan-an](/article-images/nature/naan-visitor-center-black-bear-display.webp)
+![Foto de exposição do urso-negro de Taiwan no Centro de Visitantes de Nan’an](/article-images/nature/naan-visitor-center-black-bear-display.webp)
 
-_Esta foto provém do registo de exposição do Centro de Visitantes de Nan-an, servindo como referência visual de como a informação de distribuição e conservação do urso é exibida, não como evidência independente de distribuição selvagem. Imagem: Toadboat (舟集), CC BY-SA 4.0, Wikimedia Commons. Imagem integrada no projeto._
+_ Esta foto é um registro da exposição no Centro de Visitantes de Nan’an, servindo como referência visual de como informações sobre distribuição e conservação do urso são apresentadas. Não é evidência de distribuição selvagem. Foto: Toadboat, CC BY-SA 4.0, Wikimedia Commons. Imagem arquivada. _
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/AzR6GMd75dQ?start=89" title="Criação de ursos em Yushan | Vídeo oficial de conservação do urso-negro da Administração do Parque Nacional de Yushan" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/AzR6GMd75dQ?start=89" title="Criando ursos no Yushan | Vídeo oficial de conservação do urso do Parque Nacional de Yushan" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Vídeo oficial da Administração do Parque Nacional de Yushan «Criação de ursos em Yushan»: aborda habitat florestal e investigação de conservação, explicando por que os ursos precisam de florestas contínuas._
+_ Vídeo oficial do Parque Nacional de Yushan «Criando ursos no Yushan»: aborda habitats florestais e pesquisas de conservação, explicando por que o urso precisa de florestas contíguas. _
 
-## No encontro humano-urso, primeiro guarde as tentações humanas
+## Quando humanos e ursos se encontram, primeiro removemos os estímulos humanos
 
-A Administração do Parque Nacional de Yushan produziu o vídeo oficial de divulgação «Encontro com o urso Encounter a Formosan black bear», condensando hábitos ecológicos, área de distribuição e conduta perante ursos num curto vídeo adequado para ver antes de subir à montanha. Juntamente com as orientações escritas, transforma «manter distância» de princípio abstrato em preparação concreta antes de entrar na montanha.[^11]
+O vídeo oficial de divulgação do Parque Nacional de Yushan «Encontro com o urso-negro de Taiwan» resume os hábitos ecológicos, distribuição e orientações para encontrar um urso em um curta-metragem ideal para assistir antes de subir à montanha. Lido junto com textos explicativos, ele transforma "manter distância" de um princípio abstrato em uma preparação concreta para a trilha. [^11]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="Encontro com o urso Encounter a Formosan black bear | Vídeo oficial de divulgação da Administração do Parque Nacional de Yushan" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/8mif2r-2dlw" title="Encontro com o urso-negro de Taiwan｜Vídeo oficial de divulgação do Parque Nacional de Yushan" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Vídeo oficial de divulgação da Administração do Parque Nacional de Yushan: a partir dos hábitos e distribuição do urso-negro, aborda como reduzir contactos desnecessários entre humanos e ursos ao entrar em áreas de montanha._
+_ Vídeo oficial de divulgação do Parque Nacional de Yushan: aborda hábitos e distribuição do urso, ensinando como reduzir contatos desnecessários antes de entrar na montanha. _
 
-As orientações oficiais do Parque Nacional de Yushan lembram que o urso-negro-de-Taiwan costuma ser alerta e discreto, afastando-se na maioria das vezes ao detetar presença humana. Para quem faz caminhadas, a preparação mais prática é guardar bem a própria comida, não a tornando razão para o urso aproximar-se das pessoas. Ao deixar a área de montanha, lixo, resíduos de cozinha e todo o alimento devem ser levados embora.[^3]
+As orientações oficiais do Parque Nacional de Yushan lembram que o urso-negro de Taiwan costuma ser vigilente e discreto, e normalmente se afasta ao perceber a presença humana. Para montanhistas, a melhor preparação é guardar alimentos, evitando que se tornem motivo de aproximação do urso. Ao sair da montanha, todos os resíduos, restos de comida e alimentos devem ser levados de volta. [^3]
 
-Se realmente avistar um urso-negro, a administração aconselha manter a calma, afastar-se silenciosa e rapidamente; não perseguir, não alimentar, não tentar aproximar-se para fotografar é a linha de base comum a todas as orientações de encontro com ursos. Durante a caminhada pode levar sinos de urso ou apitos para produzir som, andar em grupo, e comunicar à entidade gestora ao avistar urso ou vestígios. O texto original do Parque Nacional de Yushan é direto: «Se vir um urso-negro, por favor mantenha a calma, afaste-se silenciosa e rapidamente do local.»[^3]
+Se você realmente encontrar um urso, recomenda-se manter a calma, se afastar silenciosamente; nunca perseguir, alimentar ou tentar se aproximar para fotografar. Durante a caminhada, é aconselhável carregar um sino de urso ou apito para fazer barulho, andar em grupo, e reportar avistamentos ou sinais do urso às autoridades. O texto oficial do Parque Nacional de Yushan é direto: "Se você vir um urso, mantenha a calma, afaste-se silenciosamente." [^3]
 
-Estas práticas mantêm a floresta aberta e deixam o encontro numa distância breve e recuável. O diretor-geral da Administração dos Parques Nacionais, Wang Cheng-ji (王成機), indicou que o objetivo de conservação «mudou claramente para 'prevenção e gestão em igual peso'».[^10] Gerir as fontes de alimento humanas costuma ser mais cedo e mais eficaz do que esperar o urso adquirir o hábito de revirar mochilas para depois intervir.
+Essas práticas mantêm a floresta acessível e mantêm os encontros em distâncias breves e seguras. O diretor do Parque Nacional, Wang Chengmi, afirmou que os objetivos de conservação já "se tornaram claramente preventivos e gerenciáveis". [^10] Gerenciar fontes de alimento humanas costuma ser mais eficaz do que esperar até que o urso aprenda a vasculhar mochilas.
 
-## O urso não pode ficar reduzido a um padrão bonito
+## O urso não pode ser apenas um ícone fofinho
 
-O urso-negro-de-Taiwan já entrou em exposições de parques nacionais, materiais didáticos e visuais públicos. O V no peito facilmente vira personagem bonita, mas o urso real é um animal selvagem que precisa de grande área florestal, alimento sazonal e distância tranquila. A imagem pode fazer as pessoas conhecê-lo primeiro, não pode substituir dados de habitat, população e relação humano-urso.[^5] [^9]
+O urso-negro de Taiwan já aparece em exposições de parques nacionais, materiais educativos e comunicação visual pública. A marca em V no peito é fácil de transformar em um personagem fofinho, mas o urso real é um animal selvagem que precisa de grandes áreas florestais, alimentos sazonais e distância tranquila. Imagens podem ajudar as pessoas a conhecê-lo, mas não substituem dados sobre habitats, populações e relações entre humanos e ursos. [^5] [^9]
 
-![Urso-negro-de-Taiwan do Zoo de Shoushan, como referência de imagem de cativeiro e exibição](https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg)
+![Urso-negro de Taiwan no Zoológico de Shoushan como referência de criação artificial e cenário de exhibição](https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg)
 
-_Esta foto foi tirada no Zoo de Shoushan, mostrando urso-negro-de-Taiwan em ambiente de cativeiro. Imagem: Tvpuppy, sob Anúncio de Informação Aberta do Site Governamental do Zoo de Shoushan, uso permitido com indicação de fonte. Não serve como evidência de comportamento selvagem, quantidade populacional ou distribuição de habitat. Imagem integrada no projeto._
+_ Esta foto foi tirada no Zoológico de Shoushan, mostrando um urso-negro de Taiwan em ambiente de criação artificial. Foto: Tvpuppy, conforme a "Open Information Announcement" do site oficial do Zoológico de Shoushan, uso permitido com atribuição. Não serve como evidência de comportamento selvagem, tamanho populacional ou distribuição de habitat. Imagem arquivada. _
 
-O trabalho de conservação também precisa de investigadores, entidades governamentais e comunidades locais em conjunto. O plano de ação da Associação de Conservação do Urso-negro-de-Taiwan coloca interação humano-urso, comércio ilegal, gestão de habitat, informação de investigação, comunicação educacional, desenvolvimento de capacidades e legislação política no mesmo quadro. Este arranjo mostra que o futuro do urso move a governação da montanha e também move como a vida local pode funcionar em conjunto.[^9]
+A conservação também exige a participação conjunta de pesquisadores, governos e comunidades locais. A campanha de conservação do urso-negro de Taiwan integra interações humano-urso, comércio ilegal, gestão de habitats, pesquisa, comunicação educativa, desenvolvimento de capacidades e legislação política em um único quadro. Essa estrutura mostra como o futuro do urso está ligado à governança florestal e à vida local. [^9]
 
-Quando ursos se aproximam de aldeias ou terras agrícolas, a resposta não pode parar em remover o urso. Alimentos e resíduos devem ser geridos, aviários e apiários devem ter barreiras reforçadas, comunicação e resgate devem articular-se, e a observação e conhecimento tradicional das aldeias devem ser tratados como parte dos dados de conservação. A direção oficial recente é colocar as comunidades locais na linha da frente da conservação do urso, não apenas notificá-las após o conflito.[^1] [^10]
+Quando o urso se aproxima de vilas ou terras agrícolas, a resposta não pode se limitar a removê-lo. Alimentos e resíduos precisam ser gerenciados, aviários e colmeias precisam ser protegidos, notificações e resgates precisam ser conectados, e observações e conhecimentos tradicionais das comunidades indígenas precisam ser tratados como parte dos dados de conservação. A direção oficial recente coloca comunidades locais na linha de frente da conservação do urso, e não apenas como notificantes após conflitos. [^1] [^10]
 
-### Três linhas no terreno de conservação
+### Três frentes de conservação no terreno
 
-O plano de ação de conservação do urso-negro-de-Taiwan coloca interação humano-urso, gestão de habitat, informação de investigação, educação comunicacional e legislação política no mesmo quadro. Este quadro no terreno pode organizar-se em três linhas que se influenciam mutuamente: primeiro reduzir danos diretos, depois manter florestas por onde o urso possa mover-se, por fim dar às comunidades humanas capacidade para lidar com encontros.[^9]
+A campanha de conservação do urso-negro de Taiwan integra interações humano-urso, gestão de habitats, pesquisa, comunicação educativa e legislação política em um único quadro. Implementado no terreno, esse quadro pode ser dividido em três linhas interligadas: primeiro, reduzir danos diretos; segundo, manter florestas que permitem o movimento do urso; terceiro, capacitar comunidades locais a lidar com encontros. [^9]
 
-| Linha de conservação                     | Problemas a resolver no terreno                                             | Evidências acompanháveis                                                                          |
-| ---------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Reduzir danos diretos                    | Armadilhas, caça ilegal, comércio ilegal e resgate de feridos               | Armadilhas removidas, registos de ferimentos, resgate e monitorização pós-libertação              |
-| Manter conectividade de habitat          | Estradas, caminhos florestais e desenvolvimento isolam parcelas florestais  | Câmaras automáticas, análise genética de fezes, rotas de telemetria e monitorização de corredores |
-| Criar capacidade de resposta comunitária | Resíduos de cozinha, culturas, apiários, aviários e recursos de comunicação | Velocidade de comunicação, gestão de alimentos, patrulhas locais e variação de casos de conflito  |
+| Linha de conservação            | Problemas a serem tratados no terreno                                      | Evidências rastreáveis                                                                         |
+| ------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Reduzir danos diretos           | Armadilhas, caça ilegal, comércio ilegal e resgate de feridos              | Remoção de armadilhas, registros de ferimentos, rastreamento de resgate e libertação           |
+| Manter conectividade do habitat | Estradas, estradas florestais e desenvolvimento fragmentam a floresta      | Câmaras automáticas, análise genética de fezes, rotas de rádio e monitoramento de corredores   |
+| Capacitar comunidades locais    | Resíduos, cultivos agrícolas, colmeias, aviários e recursos de notificação | Velocidade de notificação, gestão de alimentos, patrulha local e mudanças em casos de conflito |
 
-As três linhas não podem ser separadas em três planos independentes. Sem comunicação comunitária, investigadores podem saber tarde que o urso já se aproximou. Sem conectividade de habitat, indivíduos feridos mesmo resgatados podem ter de viver em espaços mais estreitos e próximos de pessoas. Sem gestão de equipamento de caça, corredores podem virar concentração de armadilhas. Por isso as entidades oficiais impulsionam em conjunto cooperação comunitária, corredores de habitat e monitorização tecnológica.[^1] [^7] [^10]
-
-> **📝 Nota do curador**
-> A conservação precisa de múltiplas entidades em conjunto. Armadilhas, estradas, resíduos e dados parecem dispersos, mas acabam por se encontrar na rota de movimento de um mesmo urso. O urso a sair da montanha para perto das pessoas pode refletir mudanças na floresta e no uso humano. Devemos perguntar simultaneamente: por que o urso veio até aqui, e os humanos conseguem guardar o que o atrai.
-
-## Próximo passo: fazer bem os números e as relações
-
-Os 1 200 indivíduos de 2026 continuam a ser uma estimativa sujeita a revisão. Este rótulo reservado marca o próximo ponto de partida da investigação do urso-negro-de-Taiwan. Futuramente serão necessários mais dados de densidade locais de diferentes altitudes, regiões e estações para que a tendência populacional não se fique apenas no aumento de registos de deteção, mas possa responder de forma mais fiável se a população é estável, se o habitat está conectado e que ameaças precisam de ser tratadas primeiro.[^4]
-
-Os resultados da conservação também não podem ser medidos apenas por um urso fotografado por câmara. Incluem quantas armadilhas a menos, se indivíduos feridos conseguem sobreviver, se filhotes aprendem a forragear na natureza, se os dois lados das estradas deixam espaço de deslocação e se as aldeias têm recursos para comunicar à primeira hora. Dados de investigação e experiência local devem encontrar-se no mesmo mapa para que o urso não seja visto apenas quando sai nas notícias.[^7] [^9] [^10]
-
-![Foto de urso-negro-de-Taiwan, como referência de aparência da espécie e leitura de habitat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG)
-
-_Esta é uma foto de licença livre do Wikimedia Commons identificada como Formosan black bear. A página do ficheiro original não fornece local de filmagem selvagem em Taiwan utilizável neste artigo, servindo apenas como referência de aparência da espécie, não como evidência de distribuição em Taiwan. Imagem: Abu0804, CC BY-SA 3.0, Wikimedia Commons. Imagem integrada no projeto._
-
-O V branco no peito do urso-negro-de-Taiwan foi primeiro uma marca de identificação, depois símbolo de conservação. Agora parece mais uma pergunta: conseguimos deixar um animal com área de atividade de dezenas de quilómetros quadrados ter caminho fora das áreas protegidas, fazer com que ao aproximar-se de pessoas não o faça por alimento humano, e fazer com que as pessoas ao encontrá-lo saibam como deixar a distância.
-
-A resposta não estará apenas na próxima estimativa populacional. Aparecerá no dia em que o abrigo de montanha levar o lixo da cozinha montanha abaixo, no caminho onde o guarda florestal remove armadilhas, e no momento em que o investigador deixa honestamente no seu lugar um dado incerto. Se o urso-negro-de-Taiwan poderá continuar a caminhar na floresta, o teste final é se nós conseguimos tornar-nos vizinhos mais confiáveis, com menos impulso de o transformar em padrão bonito e mais espaço para o seu deslocamento seguro.
-
-## Quantos tipos de dados para uma rota de urso
-
-Uma foto de câmara automática só nos diz «aqui já apareceu um urso». Não responde sozinha quantos ursos há na população, nem explica se o mesmo urso foi fotografado repetidamente em locais diferentes. A Agência de Silvicultura e Conservação da Natureza colocou avistamentos, câmaras automáticas, comunicados de intrusão e registos de resgate num mesmo conjunto de dados de longo prazo, permitindo ver a mudança dos pontos de registo após 2011.[^1]
-
-A análise genética de amostras de fezes fornece outra perspetiva. A investigação do Parque Nacional de Yushan recolheu 725 amostras de fezes entre 2010 e 2015, confirmando 139 ursos-negros após identificação individual. Este tipo de dados ajuda a distinguir indivíduos, mas ainda precisa de tempo, local e amostragem repetida; não se pode somar cada registo de fezes diretamente ao total populacional.[^5]
-
-A radiotelemetria transforma o estático «apareceu» numa rota de movimento. Investigadores podem ver como o urso usa vales, cristas e habitats junto a estradas, e comparar diferenças comportamentais entre indivíduos feridos e saudáveis. A monitorização de longo prazo tem ainda um problema de escala fácil de ignorar. Câmaras que num certo ano fotografam mais ursos pode ser por frutificação, ou apenas porque a posição das câmaras mudou. Amostras de fezes que aumentam num certo trilho podem representar concentração de indivíduos, ou apenas maior esforço de amostragem. Só registando em conjunto tempo de amostragem, local, método e identificações repetidas, os investigadores podem julgar se o aumento de registos representa expansão populacional ou se finalmente estamos a conseguir vê-los melhor.[^1] [^5] [^6]
-
-Diferentes métodos têm cada um os seus pontos cegos; juntos, bastam para sustentar decisões sobre corredores de habitat, gestão de armadilhas e coexistência humano-urso. Para o leitor geral, isto também explica por que nas notícias de conservação aparecem frequentemente «estimativa preliminar», «monitorização», «registos» — termos diferentes. Todos descrevem o urso, mas estão em posições de evidência diferentes.[^6] [^7]
+Essas três linhas não podem ser tratadas como três planos independentes. Sem notificações comunitárias, os pesquisadores podem descobrir tarde que o urso já chegou. Sem conectividade do habitat, mesmo um urso resgatado pode precisar viver em espaços mais estreitos e próximos de humanos. Sem controle de armas de caça, corredores podem se tornar novos pontos de armadilhas. É por isso que o governo promove cooperação comunitária, corredores ecológicos e monitoramento tecnológico juntos. [^1] [^7] [^10]
 
 > **📝 Nota do curador**
-> Dados de conservação são como diferentes sons vindos da montanha. A câmara vê uma silhueta, os dados genéticos identificam um indivíduo, o emissor deixa uma rota de movimento. Nenhum dado sozinho representa a montanha inteira, mas sobrepostos fazem a rota invisível do urso tomar forma lentamente.
+> A conservação exige a participação de múltiplas partes. Armadilhas, estradas, resíduos e dados parecem dispersos, mas todos convergem no mesmo caminho de um único urso. O fato de o urso se aproximar das montanhas pode refletir mudanças no uso da floresta e da vida humana. Precisamos perguntar simultaneamente: por que o urso veio até aqui? E podemos garantir que não haja mais motivos para ele se aproximar?
+
+## Próximos passos: alinhar dados e relações
+
+A estimativa de 1.200 ursos em 2026 ainda será revisada. Essa incerteza reflete o próximo ponto de partida da pesquisa do urso-negro de Taiwan. Precisamos de mais dados de densidade local em diferentes altitudes, regiões e estações para que a tendência populacional vá além do aumento de registos, respondendo de forma mais confiável se a população está estável, se o habitat está conectado e quais ameaças precisam ser tratadas primeiro. [^4]
+
+Os resultados da conservação também não podem ser medidos apenas por quantas fotos de urso forem capturadas. Incluem também a redução de armadilhas, a sobrevivência de ursos feridos, a capacidade dos filhotes de se alimentar no campo, o espaço de passagem entre as margens da estrada e os recursos comunitários para notificações rápidas. Dados científicos e experiências locais precisam se encontrar no mesmo mapa para que o urso não apareça apenas nas notícias. [^7] [^9] [^10]
+
+![Foto do urso-negro de Taiwan como referência de aparência e leitura de habitat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG)
+
+_ Esta é uma foto de uso livre do Wikimedia Commons marcada como "Formosan black bear", usada apenas como referência de aparência da espécie. A página do arquivo original não fornece informações sobre localização de fotos em Taiwan, por isso não é considerada evidência de distribuição. Foto: Abu0804, CC BY-SA 3.0, Wikimedia Commons. Imagem arquivada. _
+
+A marca em V branco no peito do urso-negro de Taiwan começou como um sinal de identificação, tornou-se um símbolo de conservação, e agora parece uma pergunta: podemos permitir que um animal com raio de ação de dezenas de km² ainda tenha caminhos para caminhar fora das áreas protegidas? Podemos garantir que, ao se aproximar dos humanos, não o faça por alimentos humanos? E quando nos encontrarmos, saberemos como manter a distância?
+
+A resposta não estará apenas na próxima estimativa populacional. Aparecerá no dia em que alguém levar resíduos da montanha, no caminho em que um guarda florestal remover uma armadilha, e também no momento em que um pesquisador mantenha honestamente os dados incertos no lugar. Se o urso-negro de Taiwan continuar a andar pela floresta, o verdadeiro teste será se podemos nos tornar vizinhos mais confiáveis — menos propenso a transformá-lo em um ícone fofinho, mais disposto a garantir espaços seguros para seu deslocamento.
+
+## Uma trilha de urso exige diferentes tipos de dados
+
+Uma foto de câmara automática apenas nos diz "um urso esteve aqui". Ela não responde sozinha quantos ursos existem, nem se o mesmo urso foi fotografado em diferentes locais. O Departamento de Silvicultura e Conservação Natural de Taiwan integra avistamentos, câmaras automáticas, notificações de invasão e registros de resgate em uma base de dados de longo prazo, permitindo observar mudanças nos pontos de registro após 2011. [^1]
+
+A análise genética de amostras de fezes oferece outra perspectiva. Entre 2010 e 2015, o Parque Nacional de Yushan coletou 725 amostras de fezes, identificando 139 ursos após análise genética. Esses dados ajudam os pesquisadores a distinguir indivíduos, mas ainda exigem tempo, localização e repetição de amostragem — não podemos simplesmente somar todas as amostras para obter o total populacional. [^5]
+
+O rastreamento por rádio transforma o estático "aparecimento" em uma rota de movimento. Os pesquisadores podem observar como o urso utiliza vales, crestas e áreas ao redor de estradas, e comparar o comportamento de ursos feridos com os saudáveis. Um problema de escala frequentemente ignorado no monitoramento de longo prazo é que mais fotos de urso em uma estação podem significar frutificação ou apenas mudança no posicionamento da câmera. Mais amostras de fezes em uma trilha podem indicar agrupamento ou simplesmente mais esforço de coleta. Apenas registrando tempo, local, método e repetição de amostragem, os pesquisadores podem determinar se o aumento de registros reflete expansão populacional ou apenas nossa melhor capacidade de observá-los. [^1] [^5] [^6]
+
+Cada método tem suas limitações, e juntos são suficientes para sustentar decisões sobre corredores ecológicos, gestão de armadilhas e convivência entre humanos e ursos. Para leitores comuns, isso também explica por que notícias sobre conservação usam frequentemente termos como "estimativa", "monitoramento" e "registro" — todos descrevem o urso, mas de perspectivas diferentes de evidências. [^6] [^7]
+
+> **📝 Nota do curador**
+> Dados de conservação são como vozes diferentes vindas da montanha. A câmera vê uma silhueta, os dados genéticos identificam um indivíduo, o rastreador registra o caminho. Nenhum tipo de dado sozinho representa toda a montanha, mas juntos constroem gradualmente a trilha invisível dos ursos.
 
 ## Fontes das imagens
 
-Este artigo usa 6 imagens de licença livre ou aberta do Wikimedia Commons, não usando as imagens como evidência de indivíduos selvagens ou distribuição geográfica em Taiwan. Licenças e fontes de cada imagem seguem abaixo.
+Este texto utiliza 6 imagens de uso livre ou sob licença aberta do Wikimedia Commons, sem utilizá-las como evidências de distribuição selvagem ou localização geográfica em Taiwan. As licenças e origens de cada imagem estão listadas abaixo.
 
-- **Formosan black bear em ambiente artificial**: [File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. Link direto: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
-- **Urso-negro-de-Taiwan do Zoo de Shoushan**: [File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, sob Anúncio de Informação Aberta do Site Governamental do Zoo de Shoushan, uso permitido com indicação de fonte. Link direto: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
-- **Ilustração de urso-negro-de-Taiwan**: [File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design／Lin Hui-chiu (林慧秋), CC BY 4.0. Link direto: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
-- **Foto de Formosan black bear**: [File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. Link direto: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
-- **Foto de Formosan black bear suckling cubs**: [File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. Link direto: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
-- **Foto da exposição de urso-negro-de-Taiwan no Centro de Visitantes de Nan-an**: [File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat (舟集), CC BY-SA 4.0. Integrada no projeto: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
+- **Urso-negro de Taiwan em ambiente artificial**：[File:Formosan Black Bear01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Smartneddy, CC BY-SA 3.0. URL direta: https://upload.wikimedia.org/wikipedia/commons/7/7a/Formosan_Black_Bear01.jpg
+- **Urso-negro de Taiwan no Zoológico de Shoushan**：[File:Formosan Black Bear in Shoushan Zoo 01.jpg](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg) — Tvpuppy, conforme a "Open Information Announcement" do site oficial do Zoológico de Shoushan, uso permitido com atribuição. URL direta: https://upload.wikimedia.org/wikipedia/commons/b/bb/Formosan_Black_Bear_in_Shoushan_Zoo_01.jpg
+- **Ilustração do urso-negro de Taiwan**：[File：臺灣黑熊3.png](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png) — SilverSea Design / Chofy Lin, CC BY 4.0. URL direta: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png/1280px-%E8%87%BA%E7%81%A3%E9%BB%91%E7%86%8A3.png
+- **Foto de urso-negro de Taiwan**：[File:19-Formosan Black Bear.JPG](https://commons.wikimedia.org/wiki/File:19-Formosan_Black_Bear.JPG) — Abu0804, CC BY-SA 3.0. URL direta: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/19-Formosan_Black_Bear.JPG/1280px-19-Formosan_Black_Bear.JPG
+- **Foto de filhotes de urso-negro de Taiwan**：[File:Formosan black bear suckling cubs.jpg](https://commons.wikimedia.org/wiki/File:Formosan_black_bear_suckling_cubs.jpg) — Abu0804, CC BY-SA 3.0. URL direta: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Formosan_black_bear_suckling_cubs.jpg/1280px-Formosan_black_bear_suckling_cubs.jpg
+- **Foto de exposição do urso-negro de Taiwan no Centro de Visitantes de Nan’an**：[File:Na'an Visitor Center (22)台灣黑熊.jpg](<https://commons.wikimedia.org/wiki/File:Na%27an_Visitor_Center_(22)%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A.jpg>) — Toadboat, CC BY-SA 4.0. Arquivada: `/article-images/nature/naan-visitor-center-black-bear-display.webp`
 
 ## Referências
 
-[^1]: [Taiwan entra na era dos ursos, empenhada na coexistência pacífica humano-urso](https://www.forest.gov.tw/news/0076122) — Agência de Silvicultura e Conservação da Natureza do Ministério da Agricultura, 2025-05-16. Fornece 2 034 registos de deteção de 2011–2025, mudança de distribuição administrativa, tendência de altitude, recuperação florestal e política de coexistência humano-urso.
+[^1]: [Taiwan entra na era do urso: comprometida com a convivência entre humanos e ursos](https://www.forest.gov.tw/news/0076122) — Departamento de Silvicultura e Conservação Natural de Taiwan, 2025-05-16. Fornece 2.034 registos de descoberta entre 2011–2025, mudanças na distribuição administrativa, tendências de altitude, recuperação florestal e políticas de convivência entre humanos e ursos.
 
-[^2]: [Divulgação científica do urso-negro-de-Taiwan](https://www.ysnp.gov.tw/StaticPage/Science) — Administração do Parque Nacional de Yushan do Ministério do Interior. Fornece classificação, aparência, altitude de distribuição, reprodução, dieta, atividade anual e área de atividade.
+[^2]: [Conhecimento científico sobre o urso-negro de Taiwan](https://www.ysnp.gov.tw/StaticPage/Science) — Gabinete do Parque Nacional de Yushan, Departamento de Parques Nacionais do Ministério do Interior. Fornece classificação, morfologia, altitude de distribuição, reprodução, dieta, atividade anual e dados de raio de ação.
 
-[^3]: [Conviver com ursos](https://www.ysnp.gov.tw/StaticPage/Coexist) — Administração do Parque Nacional de Yushan do Ministério do Interior. Fornece orientações oficiais sobre encontros com ursos, gestão de alimentos, acompanhamento, comunicação e identificação de vestígios.
+[^3]: [Convivendo com o urso](https://www.ysnp.gov.tw/StaticPage/Coexist) — Gabinete do Parque Nacional de Yushan, Departamento de Parques Nacionais do Ministério do Interior. Fornece orientações oficiais sobre encontros com ursos, gestão de alimentos, caminhadas em grupo, notificações e identificação de sinais de urso.
 
-[^4]: [Agência de Conservação estima inicialmente ursos-negros-de-Taiwan em cerca de 1 200; será criado centro de acolhimento de longo prazo](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Agência Central de Notícias, 2026-03-23. Reporta estimativa preliminar de cerca de 1 200 indivíduos, limitações de representatividade dos dados, possíveis revisões futuras e planeamento de centro de acolhimento de longo prazo.
+[^4]: [Departamento de Silvicultura e Conservação Natural estima preliminarmente 1.200 ursos-negros em Taiwan; planeja centro de recuperação de longo prazo](https://www.cna.com.tw/news/ahel/202603230129.aspx) — Agência de Notícias Centrais, 2026-03-23. Reporta a estimativa preliminar de 1.200 ursos, limitações de representatividade dos dados, possíveis revisões futuras e planejamento de centro de recuperação de longo prazo.
 
-[^5]: [Exposição especial online do Arquivo Digital dos Parques Nacionais de Taiwan](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Administração dos Parques Nacionais do Ministério do Interior. Compila ecologia do urso-negro-de-Taiwan, histórico de investigação desde 1996, inquérito de ferimentos 1998–2001, identificação individual genética e promoção de conservação.
+[^5]: [Exposição digital online dos Parques Nacionais de Taiwan](https://npda.nps.gov.tw/Exhibition2/A/A30002) — Departamento de Parques Nacionais do Ministério do Interior. Compila ecologia do urso-negro de Taiwan, histórico de pesquisas desde 1996, investigação de lesões entre 1998–2001, identificação individual genética e promoção de conservação.
 
-[^6]: [Dietas de ursos-negros-asiáticos em Taiwan, com comparações metodológicas e geográficas](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Fornece estudo de fezes, vestígios de alimentação e entrevistas a caçadores indígenas no Parque Nacional de Yushan, 1998–2000.
+[^6]: [Diets of Asiatic Black Bears in Taiwan, with Methodological and Geographical Comparisons](https://www.bearbiology.org/download/diets-of-asiatic-black-bears-in-taiwan-with-methodological-and-geographical-comparisons/) — Mei-Hsiu Hwang, David L. Garshelis, Ying Wang, _Ursus_ 13, 2002. Fornece dados de exames de fezes, marcas de alimentação e entrevistas com caçadores indígenas no Parque Nacional de Yushan entre 1998–2000.
 
-[^7]: [Impacto de ferimentos causados por armadilhas de laço no uso do espaço de ursos-negros-asiáticos em perigo em Taiwan](https://deepblue.lib.umich.edu/handle/2027.42/192880) — Fang Chen, Deep Blue da Universidade de Michigan, 2024. Compara área de atividade, movimento e seleção de habitat de 6 ursos feridos e 9 saudáveis no Parque Nacional de Yushan.
+[^7]: [Impact of Injury Caused by Snare Traps on the Space Use of Endangered Asiatic Black Bears in Taiwan](https://deepblue.lib.umich.edu/handle/2027.42/192880) — Fang Chen, Deep Blue da Universidade de Michigan, 2024. Compara raio de ação, movimento e escolha de habitat entre 6 ursos feridos e 9 saudáveis no Parque Nacional de Yushan.
 
-[^8]: [Unidade três: O caminho de volta para casa](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Museu Nacional de Ciências Naturais, 2021. Explica cuidados, treino de reabilitação e competências de vida necessárias antes do regresso à natureza do filhote de Nan-an.
+[^8]: [Unidade 3: O caminho para casa](https://web3.nmns.edu.tw/Exhibits/110/BonVoyageBuni/page3.html) — Museu Nacional de Ciências Naturais, 2021. Explica cuidados, treinamento de vida selvagem e habilidades necessárias antes da libertação do urso de Nan’an.
 
-[^9]: [Página interna de Missão e Tarefas: Plano de Ação de Conservação do Urso-negro-de-Taiwan](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Associação de Conservação do Urso-negro-de-Taiwan. Compila objetivos de conservação: interação humano-urso, comércio ilegal, gestão de habitat, investigação, educação, desenvolvimento de capacidades e legislação política.
+[^9]: [Missão e objetivos: Campanha de conservação do urso-negro de Taiwan](https://www.taiwanbear.org.tw/mission/mission_show/18/17) — Associação de Conservação do Urso-negro de Taiwan. Compila interações humano-urso, comércio ilegal, gestão de habitats, pesquisa, educação, desenvolvimento de capacidades e legislação política.
 
-[^10]: [Apenas para que ele possa caminhar livremente na floresta: 30 anos dos parques nacionais a proteger o caminho de volta do urso-negro-de-Taiwan](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Administração dos Parques Nacionais do Ministério do Interior, 2026. Explica direção integrada de três parques nacionais de alta montanha, corredores de habitat, gestão de alimentos, alerta tecnológico e participação local.
+[^10]: [Porque ele pode andar livremente pela floresta: 30 anos de parques nacionais protegendo o caminho do urso-negro de Taiwan](https://www.moi.gov.tw/News_Content.aspx?n=4&sms=9009&s=336616) — Departamento de Parques Nacionais do Ministério do Interior, 2026. Explica integração de três parques nacionais de montanha, corredores ecológicos, gestão de alimentos, alerta tecnológico e participação local.
 
-[^11]: [Vídeos de ursos](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Administração do Parque Nacional de Yushan do Ministério do Interior. Página oficial de vídeos lista «Encontro com o urso Encounter a Formosan black bear» e «Criação de ursos em Yushan», abrangendo hábitos ecológicos, área de distribuição, conduta perante ursos, habitat florestal e investigação de conservação.
+[^11]: [Vídeos sobre ursos](https://www.ysnp.gov.tw/StaticPage/BearVideo) — Gabinete do Parque Nacional de Yushan, Departamento de Parques Nacionais do Ministério do Interior. Página oficial de vídeos inclui «Encontro com o urso-negro de Taiwan» e «Criando ursos no Yushan», abrangendo hábitos ecológicos, distribuição, orientações para encontros, habitats florestais e pesquisas de conservação.
 
-## Leitura complementar
+## Leituras recomendadas
 
-- [Associação de Conservação do Urso-negro-de-Taiwan: Teses de mestrado e doutoramento](https://www.taiwanbear.org.tw/document/document/17) — Índice de investigação e teses académicas.
-- [Parque Nacional de Yushan: Comunicação de ursos](https://www.ysnp.gov.tw/BlackBearNotification/C004400) — Entrada oficial para comunicações.
-- [Urso-negro-de-Taiwan](https://www.forest.gov.tw/0008063) — Portal do plano de conservação do urso-negro da Agência de Silvicultura e Conservação da Natureza. Esta página já foi alvo de bloqueio do site; a leitura real baseia-se nas páginas de notícias oficiais acessíveis e nos dados da administração do parque.
+- [Associação de Conservação do Urso-negro de Taiwan: teses de doutorado e mestrado](https://www.taiwanbear.org.tw/document/document/17) — Índice de pesquisas e teses.
+- [Parque Nacional de Yushan: notificações de urso](https://www.ysnp.gov.tw/BlackBearNotification/C004400) — Porta de notificações oficiais.
+- [Urso-negro de Taiwan](https://www.forest.gov.tw/0008063) — Portal do plano de conservação do urso do Departamento de Silvicultura e Conservação Natural. Esta página pode ter sido bloqueada pelo site; a leitura real baseia-se em páginas oficiais acessíveis e dados do gabinete.
