@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T21:32:40+08:00",
-    "zhCommitHead": "5e473cf62",
+    "lastUpdated": "2026-09-25T21:38:13+08:00",
+    "zhCommitHead": "b54661e57",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1100,
+        "fresh": 1101,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 8,
+        "missing": 7,
         "orphan": 0
       },
       "es": {
@@ -18976,7 +18976,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/taiwan-fuel-pricing-and-cpc.md",
+          "translatedFrom": "Economy/台灣油價機制與中油.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:24e5d0eeeb829e10",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T13:14:56.857163+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 46,
+          "bytes": 58784,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -60919,8 +60932,8 @@
           "sourceContentHash": "sha256:79a50a0770daf955",
           "sourceBodyHash": "sha256:725b400b5a230de4",
           "translatedAt": "2026-09-25T12:34:56.596642+00:00",
-          "translationLastCommit": "d4fbd82d",
-          "translationLastModified": "2026-08-01T00:06:59+08:00",
+          "translationLastCommit": "b54661e5",
+          "translationLastModified": "2026-09-25T21:32:40+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 116839,
@@ -164294,8 +164307,8 @@
           "sourceContentHash": "sha256:dc1169789f149357",
           "sourceBodyHash": "sha256:86fbaa53393cb1b7",
           "translatedAt": "2026-09-25T16:58:22+08:00",
-          "translationLastCommit": "de52e731",
-          "translationLastModified": "2026-09-22T01:05:46+08:00",
+          "translationLastCommit": "b54661e5",
+          "translationLastModified": "2026-09-25T21:32:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 12970,
