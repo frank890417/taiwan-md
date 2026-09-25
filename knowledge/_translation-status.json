@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T06:10:08+08:00",
-    "zhCommitHead": "193f60b8c",
+    "lastUpdated": "2026-09-26T06:35:15+08:00",
+    "zhCommitHead": "201d32428",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1073,
-        "stale": 11,
+        "fresh": 1075,
+        "stale": 10,
         "metadata_stale": 0,
-        "missing": 40,
+        "missing": 39,
         "orphan": 0
       },
       "pt": {
@@ -88096,8 +88096,8 @@
           "sourceContentHash": "sha256:b5101d8e52c2d3e9",
           "sourceBodyHash": "sha256:4f99620b588681ad",
           "translatedAt": "2026-09-25T16:58:26+08:00",
-          "translationLastCommit": "6c83e8eb",
-          "translationLastModified": "2026-09-21T20:41:57+08:00",
+          "translationLastCommit": "201d3242",
+          "translationLastModified": "2026-09-26T06:10:09+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 35216,
@@ -96089,7 +96089,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/huai-te-indie-singer.md",
+          "translatedFrom": "People/壞特.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:67d7cdf3a4bcd692",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T21:58:04.330723+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 37,
+          "bytes": 64576,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/huai-te-indie-singer.md",
@@ -188657,20 +188670,18 @@
         "id": {
           "path": "id/Geography/gongguan.md",
           "translatedFrom": "Geography/公館.md",
-          "sourceCommitSha": "fe48ea49d",
-          "sourceContentHash": "sha256:bcc022be65ff89b5",
-          "sourceBodyHash": "sha256:b3b5dbb9d7dd34fc",
-          "translatedAt": "2026-07-29T07:32:33+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:02c38601d122ae9f",
+          "sourceBodyHash": "sha256:2e7aefb4f30ec2e9",
+          "translatedAt": "2026-09-25T16:58:24+08:00",
           "translationLastCommit": "a0de2893",
           "translationLastModified": "2026-07-29T09:36:01+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "bytes": 58506,
+          "bytes": 72769,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/gongguan.md",
@@ -209537,8 +209548,8 @@
           "sourceContentHash": "sha256:d56573864b826475",
           "sourceBodyHash": "sha256:1750eec6a44e0473",
           "translatedAt": "2026-09-25T16:58:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "201d3242",
+          "translationLastModified": "2026-09-26T06:10:09+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 30477,
