@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T23:34:51+08:00",
-    "zhCommitHead": "7c7cb84ad",
+    "lastUpdated": "2026-09-25T23:53:12+08:00",
+    "zhCommitHead": "e7c0e82ec",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1097,
+        "fresh": 1098,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 13,
+        "missing": 12,
         "orphan": 0
       },
       "ja": {
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1066,
-        "stale": 15,
+        "fresh": 1067,
+        "stale": 14,
         "metadata_stale": 0,
         "missing": 43,
         "orphan": 0
@@ -8076,7 +8076,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/taiwan-creative-content-agency.md",
+          "translatedFrom": "Economy/文化內容策進院.md",
+          "sourceCommitSha": "d704d4e52",
+          "sourceContentHash": "sha256:1d88a269185c0f26",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T15:19:34.367902+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 57887,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -142257,8 +142270,8 @@
           "sourceContentHash": "sha256:db74afff74180364",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T13:26:12.958015+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e7c0e82e",
+          "translationLastModified": "2026-09-25T23:34:51+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 71593,
@@ -200480,20 +200493,18 @@
         "id": {
           "path": "id/Culture/taiwan-religion-and-temple-culture.md",
           "translatedFrom": "Culture/台灣宗教與寺廟文化.md",
-          "sourceCommitSha": "d56c5a60e",
-          "sourceContentHash": "sha256:518362b111919aa4",
-          "sourceBodyHash": "sha256:b2ec869950288157",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:e70a2042c1d5dde1",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T15:35:43.204314+00:00",
           "translationLastCommit": "02173c59",
           "translationLastModified": "2026-07-24T20:56:13+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "bytes": 37373,
+          "bytes": 38293,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-religion-and-temple-culture.md",
