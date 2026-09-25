@@ -31,15 +31,19 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COMEBUY_Keelung_Qidu_Store_and_Foodpanda_scooter_20200913.jpg'
 relatedDiary: ['2026-07-25-231820-外送專法', '2026-07-26-001546-順稿席']
 sporeLinks:
-  [
-    "{'id': 159, 'platform': 'threads', 'date': '2026-07-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi'}",
-    "{'id': 160, 'platform': 'x', 'date': '2026-07-25', 'url': 'https://x.com/taiwandotmd/status/2081045126898684051'}",
-  ]
+  - id: 159
+    platform: 'threads'
+    date: '2026-07-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi'
+  - id: 160
+    platform: 'x'
+    date: '2026-07-25'
+    url: 'https://x.com/taiwandotmd/status/2081045126898684051'
 translatedFrom: 'Society/外送專法.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:2226f6ae85580ba3'
-sourceBodyHash: 'sha256:9aa85b1a3d34de72'
-translatedAt: '2026-07-29T19:47:13+08:00'
+sourceCommitSha: '83975eef3'
+sourceContentHash: 'sha256:79a50a0770daf955'
+sourceBodyHash: 'sha256:725b400b5a230de4'
+translatedAt: '2026-09-25T11:22:32.350913+00:00'
 ---
 
 # The Delivery-Specific Law: The Legal Floor Is Laid, But Above It Still Rules the Algorithm
@@ -131,42 +135,44 @@ Pending | Two Ministry of Transportation sub-regulations still draft stage | Con
 Source: National Law Database, Ministry of Labor, Legislative Yuan, Ministry of Transportation
 ```
 
-## The Law Does Not Say They Are Not Employees
+## The Law Did Not Say They Were Not Employees
 
-Around the time this law took effect, one summary circulating online most frequently was "de-identification, focus on rights": rather than determining whether riders are employees or contractors, it directly writes protections into legislation. Wikipedia's article states this; commercial publications echo it too; some even extend it to claim Taiwan created a "third category of workers." [^22] This phrasing is convenient, yet it misrepresents what the law did not do as if it had done it.
+Before and after this law was enacted, the most circulated summary online was "de-identifying [them] while protecting rights": without determining whether delivery riders were employees or independent contractors, it directly wrote protections into the law. Wikipedia's entry states this, and commentary in _Business Weekly_ does too; it was even extended to claim that Taiwan had created a "third category of worker."[^22] This phrasing is convenient because it makes what the law did not do sound like it did.
 
-Open Article 1. Paragraph 1 states legislative purpose: "To protect rights and interests of delivery riders, consumers, partner merchants, and manage delivery platform operators in order to balance rights and obligations among all parties, this Act is hereby enacted."
+Article 1, Paragraph 1 sets out the legislative purpose: "This Act is formulated to protect the rights and interests of delivery riders, consumers, and partner merchants, and to manage delivery platforms, in order to balance the rights and obligations of all parties."
 
-Paragraph 2 continues with the sentence most easily overlooked yet crucial for understanding this law. [^3]
+The sentence that follows in Paragraph 2 is the most easily overlooked yet critical part of this law.[^3]
 
 ```tw-quote
-However, where an employment relationship exists between a delivery platform operator and its riders... their rights protection and penalty matters shall be handled in accordance with the Labor Standards Act and other relevant laws.
-*Delivery Rider Rights Protection and Delivery Platform Management Act*, Article 1, Paragraph 2 | Official verbatim text from National Law Database
+However, where a relationship between the delivery platform operator and the delivery rider constitutes an employment relationship... matters concerning the protection of rights and penalties shall be handled according to the Labor Standards Act and other relevant laws.
+Article 1, Paragraph 2 of the Delivery Rider Rights Protection and Delivery Platform Management Act | Official Full Text from National Law Database
 ```
 
-That "however" introduces an entire track left open for future use. The law explicitly contemplates scenarios where an employment relationship exists, directing such cases back to the Labor Standards Act.
+The word "However" at the beginning marks an entire thread that was left open. The law explicitly envisioned a situation where there _was_ an employment relationship and directed it back to the Labor Standards Act.
 
-The official draft's general explanation provides even more completeness: when explaining Article 1 article-by-article, it addresses both situations simultaneously: "For those without an employment relationship between platform operators and riders, rights protection matters shall be handled per this Act... For those with an existing employment relationship... remaining rights protection matters should follow the Labor Standards Act, Occupational Safety and Health Law, and other relevant legal provisions." [^23]
+The official draft general explanation provides a more complete account, addressing both situations in Article 1 line-by-line: "For those where no employment relationship exists between the delivery platform operator and the delivery rider, matters concerning the protection of rights shall be handled according to this Act... For those who _do_ have an employment relationship... other matters concerning the protection of rights shall be handled according to the Labor Standards Act, Occupational Safety and Health Act, and other relevant laws."[^23]
 
-Article 26, Paragraph 2 also directly references back to that same proviso when addressing situations where platforms outsource business: "Where a third party mentioned in preceding paragraph has an employment relationship with delivery riders, it shall be handled according to the proviso of Article 1, Paragraph 2." [^3] A law would not accidentally write the same situation twice.
+Article 26, Paragraph 2, when addressing situations where platforms outsource work, also directly references the same proviso: "Where a third party has an employment relationship with the delivery rider, it shall be handled according to the proviso of Article 1, Paragraph 2."[^3] No law accidentally writes the same situation twice.
 
-Therefore this law never declared that riders are not employees; nor did it establish any new criteria for determining employment relationships. Whether individual cases qualify as employment still reverts to existing labor law's subordination standards—the same yardstick used in 2019 during that labor inspection. What this law does is lay an additional floor regardless of the determination outcome, operating outside that binary judgment.
+Therefore, this law never declared that delivery riders were not employees, nor did it introduce any new standards for determining an employment relationship.
 
-![Interior view of Legislative Yuan chamber with presiding podium at front and rows of legislators' seats behind](/article-images/society/legislative-yuan-chamber-2017.webp)
-_The Legislative Yuan chamber._ On January 6th, 2026, the _Delivery Rider Rights Protection and Delivery Platform Management Act_ (all 28 articles) passed its third reading here—just six days after cross-party negotiations finalized the bill name. Photo: Lin Gao-chih, CC BY-SA 4.0
+Whether an individual case is deemed an employment relationship or reverts to the subordination criteria of existing labor laws uses the same yardstick as the 2019 labor inspection. What this law does is lay down a floor—one that exists regardless of the outcome of that determination, outside of that judgment.
 
-Before this path was finalized, some argued against circumventing it this way. Professor Li Chien-hung of National Taiwan University's Department of Labor and Human Resources stated in a July 2023 PTS interview that unions at the time demanded exclusion from _Labor Standards Act_ application with contracting relationships handled separately; he noted "enacting specific legislation offers very limited protection for labor rights." He advocated following Spain and California, returning delivery rider employment relations to formal employee classification. [^24]
+![Interior of the Legislative Yuan; the speaker's stand in front and the rows of legislators behind](/article-images/society/legislative-yuan-chamber-2017.webp)
+_Legislative Yuan. On January 6, 2026, Article 28 of the Delivery Rider Rights Protection and Delivery Platform Management Act was passed on the third reading here, only six days after cross-party negotiations finalized the bill's name. Photo: Lin Kao-chi, CC BY-SA 4.0_
 
-The timing of this statement matters significantly. It evaluates "taking the path of enacting a specific law" rather than critiquing the final 28 articles after passage—this was said two and a half years before third reading.
+Before this path was settled, some argued that it should not have been so convoluted. Professor Hsing-hung Lee of the Department of Labor and Human Resources at National Culture University stated in an interview with Public Television in July 2023 that the union had demanded that the Labor Standards Act not apply, treating them as independent contractors, but that "the protection of labor rights through a specialized law was also very limited." He argued for aligning with Spain and California to reclassify delivery riders' working relationships as employment.[^24]
 
-In that same report, Chen Yu-an, chairman of the National Delivery Industry Union, offered another consideration: "Regarding wage concerns, current local autonomy ordinances cannot effectively address these issues. We want specific legislation because it somewhat resembles the taxi model where platforms, government, and unions jointly establish minimum thresholds." [^24] Scholars sought identity status; union leaders sought operational floors. The final passed version provided floors while leaving identity status unchanged.
+The timing of this passage is important. It refers to the two-and-a-half years before the third reading, not after Article 28 was passed.
+
+In the same report, Chen Yu-an, the chairman of the national delivery industry union, mentioned another consideration: "Regarding salary matters, these things cannot be effectively handled by local regulations right now. We would like a specialized law because it is somewhat similar to the taxi model, where the platform, government, and union jointly establish minimum thresholds."[^24] Scholars wanted status; unions wanted thresholds. The final version provided thresholds while leaving the status unchanged.
 
 > 📝 **Curator's Note**
-> One thing can be confirmed: this "non-answer" is intentional design, not oversight. When the official draft explained Article 1 article-by-article in its general explanation, it listed both scenarios—"without employment relationship" and "with existing employment relationship"—side by side; Article 26 references that same proviso again—a law would never accidentally write one situation twice.
+> One thing can be confirmed: this "non-answer" was intentional, not an oversight. The official draft general explanation addressed both "no employment relationship" and "employment relationship" in Article 1 line-by-line, and Article 26 referenced the same proviso again—a law does not accidentally write the same situation twice.
 >
-> What remains uncertain is why designed this way. A pragmatic interpretation: identity determination requires case-by-case litigation; after resolving disputes with one platform, contracts are rewritten differently (as happened in the 2019 labor inspection which ultimately stalled), so first secure people's basic protections while leaving qualification questions for gradual accumulation through cases. Another reading suggests a favorable ambiguous state benefiting platforms has been stabilized by legislation itself. Both interpretations use identical articles; the difference lies in whether you believe future litigation will continue on those individual cases.**This article concludes former interpretation is more plausible but cannot determine latter, nor does it choose sides for readers**.
+> What cannot be determined is why it was designed this way. One pragmatic reading is that status determination is handled case-by-case; after one platform, a different contract wording is used. The 2019 labor inspection ended like this, so they first secured people and left the classification to accumulate slowly through individual cases. Another reading is that a vague state favorable to platforms was stabilized by a law. Both readings use the same articles, differing only in whether you believe anyone will continue to fight those individual cases. **This article concludes the former but cannot conclude the latter, nor does it choose for the reader.**
 
-This was the first unanswered question. The second proves even harder, and its real-world impact becomes visible from the law's first week of implementation.
+This is the first question that was not answered. The second one is harder, and its manifestation on real people can be seen within the first week of implementation.
 
 ## Fast Runners and Slow Runners Received Opposite Outcomes
 
@@ -261,51 +267,51 @@ Within this article's verification scope, this represents the most named merchan
 
 Why this silence remains unexplained. At least two plausible explanations exist: fear of platform delisting discouraging public criticism, or media resources simply not invested in this corner. The former lacks supporting cases or contract clause evidence. Therefore only the silence itself is recorded here without attributing motives to it.
 
-## Consumer Portion Did Not Exist On Implementation Day
+## The Consumer Side, Which Didn't Exist on Launch Day
 
-The only concrete change already occurring on consumer side with precise figures: Uber One monthly fee increased from NT$120 to NT$199—a 66% hike—with official Uber Eats stating this adjustment unrelated to delivery law reflecting membership benefit upgrades. [^39] Merchant-side fees represent separate matter: starting July 21st, Uber Eats raised service fees for partner merchants by adding 2.5 percentage points for food delivery and 3 percentage points for fresh groceries ([PX Mart](/en/economy/pxmart-supermarket/) type grocery retail channels also on this line); maximum fee rate remains at 35%. foodpanda stated "based on preliminary assessment, cost per order may increase approximately 30% to 50%"—this represents platform self-estimated range not yet realized figures. [^40]
+The only change that has occurred and for which there are precise figures on the consumer side is the increase of Uber One’s monthly fee from NT$120 to NT$199, an approximate 66% rise. Uber Eats officially stated that this adjustment was unrelated to the delivery-specific law and reflected an upgrade in membership benefits.[^39] The commission rates for merchants are another matter: starting July 21st, Uber Eats increased service fees for partner merchants; food delivery rose by 2.5 percentage points, and fresh groceries rose by 3 percentage points (fresh retail channels like [FamilyMart](/en/economy/pxmart-supermarket/) are also on this track), while the maximum service fee rate remains at 35%. foodpanda, however, stated that "based on preliminary estimates, the cost per order may increase by about 30% to 50%," which is the platform's own estimated range, not an actual figure.[^40]
 
-No institution has conducted actual testing of how much extra consumers pay per order currently. Existing largest dataset comes from Fair Trade Commission's pre-study model estimates rather than field verification. [^41]
-
-```tw-stat
-If two major platforms both raise prices by 5% for consumers (model estimate, not verified)
-34.1% | Consumers stop using delivery platforms | FTC substitutability study
-145 million orders | Potential annual order reduction | Taiwan Digital Platform Economy Association extrapolated from above ratio
-NT$46 billion | Annual value loss potentially evaporating | Same source; estimated projection not actual occurrence
-Source: Fair Trade Commission substitutability study + Taiwan Digital Platform Economy Association estimates. No institution has conducted consumer-side payment verification since implementation began.
-```
-
-Xu Ze-yu, executive director of Consumer Foundation Taiwan stated during draft stage (January 16th, 2026): "You can choose not to use delivery services—opt for takeout or dine-in—but prerequisite is clear information; cannot obscurely make consumers bear costs unknowingly." [^42]
-
-The statutory consumer list did not exist on implementation day. On July 20th the Transportation Department issued last-minute drafts: _Matters Required and Prohibited in Standardized Contracts for Delivery Platform Services_ and _Delivery Rider Traffic Safety Management Rules_. First-time subscription members may cancel within seven days; automatic renewals require explicit consumer consent; platforms must establish renewal reminders and refund mechanisms. [^43]
-
-As of July 25th, both remain draft stages pending finalization. Official target for traffic safety management rules is earliest August end; standardized contracts still awaiting Executive Yuan approval. [^44] Media extensively reported many new consumer regulations currently lack binding force.
-
-## The End Without Numbers
-
-The enforcement side possesses even fewer numbers.
-
-Central government division of responsibilities actually written quite clearly: Ministry of Labor manages contracts, suspensions, remuneration, grievances, occupational safety, insurance and record retention; transportation authorities handle basic fare approval, consumer protection and road traffic safety; economic affairs ministry oversees cooperation contracts and fee disputes; health welfare authority handles food hygiene safety; local governments execute jointly with central agencies. [^8]
-
-Problems arise after this division of labor is established. How many inspection personnel do local labor bureaus have? How frequently are spot checks conducted? Is there a dedicated task force? How many fines issued since implementation began—answers to these four questions remain unfindable in public records.
+No organization has conducted a real-world measurement of how much more consumers actually pay per order. The largest set of figures available are model estimations from the Fair Trade Commission prior to implementation.[^41]
 
 ```tw-stat
-Four numbers essential for making this law effective currently don't exist
-Unverifiable | Inspection personnel deployed by local labor bureaus | Central-local joint execution; staffing allocation not publicly disclosed
-Unverifiable | Spot check frequency and methods | No published inspection plans available
-Unverifiable | Dedicated task force established? | No relevant organizational structure data found
-Unverifiable | Fines issued since implementation began | As of July 25, 2026 no penalty case reports exist.
-Source: Public records within this article's verification scope (Ministry of Labor and various local labor bureaus). All four items represent negative findings—not "zero figures" but simply unfindable data.
+If both major platforms raise consumer prices by 5% (model estimation, not actual)
+34.1% | Consumers stop using delivery platforms | Fair Trade Commission substitute study
+145 million orders | Estimated reduction in annual orders | Taiwan Digital Platform Economy Association based on the above ratio
+NT$46 billion | Estimated value lost annually | Same as above, an estimate, not an occurrence
+Source: Fair Trade Commission substitute study + Taiwan Digital Platform Economy Association estimation. No organization has conducted a real-world measurement of actual consumer payment after implementation.
 ```
 
-On day three after implementation, Hung Shen-han adopted unusually firm tone stating "administrative agencies' responsibility is to implement enforcement," emphasizing "once settlement periods expire revealing violations by operators we will not tolerate them and definitely impose fines according to law." [^45] During same week some riders reported platform-calculated remuneration fell below statutory standards; Ministry of Labor officials relayed platforms stated they would make up differences within two weeks. [^46]
+Xu Ze-yu, Executive Director of the Consumer Association, stated during the draft stage (January 16, 2026), something that perfectly described the information itself: "You can choose not to use delivery and opt for takeout or dine-in, but the premise is that the information must be clear; it cannot be vague in a way that forces consumers to bear costs without their knowledge."[^42]
+
+As for the statutory list for consumers, it did not exist on launch day. On July 20th, the Ministry of Transportation announced two draft regulations: "Standardized Contracts for Delivery Platforms" and "Traffic Safety Management Regulations for Delivery Riders," which stipulate matters that must be included or excluded from standardized contracts; these require riders to have a mechanism for cancellation within 7 days of first subscription, explicit consent for automatic renewal, and the platform must establish reminder and refund mechanisms.[^43]
+
+As of July 25th, both are still draft announcements: the official target date for the Traffic Safety Management Regulations is as early as the end of August, while the standardized contracts still need to be submitted to the Executive Yuan for approval.[^44] The new consumer rules widely reported by the media do not yet have binding force.
+
+## The Side Without Numbers
+
+On the side responsible for enforcement, there are fewer numbers.
+
+The division of labor by the central government is actually very clear. The Ministry of Labor manages contracts, suspension, remuneration, complaints, occupational safety, insurance, and record-keeping; the transportation authorities manage basic fare determination, consumer protection, and road traffic safety; the economic authorities manage cooperation agreements and fee disputes; and the health authorities manage food hygiene safety. Local governments execute in conjunction with the central government.[^8]
+
+The problem arises after the division of labor: how many inspection personnel does the local labor bureau have, how often are inspections conducted, is there a dedicated team, and how many fines have been issued since implementation—the answers to these four questions cannot be found in public records.
+
+```tw-stat
+The four numbers truly needed to make this law effective do not exist.
+Not Found | Inspection personnel deployed by local labor bureaus | Central and local joint execution; staffing is not disclosed.
+Not Found | Inspection frequency and methods | No public inspection plan.
+Not Found | Whether a dedicated team was established | No organizational data available.
+Not Found | Number of fines issued since implementation | No reports of penalties as of 2026-07-25.
+Source: Public records within the scope of this investigation (Ministry of Labor, various local labor bureaus). All four are negative findings, meaning "the numbers cannot be found," not that "the number is zero."
+```
+
+On the third day of implementation, Hung Shen-han's tone was unusually firm, stating that "the duty of administrative agencies is to implement the law" and emphasizing that "if a violation is discovered upon settlement, there will be no leniency; penalties will certainly be issued according to the law."[^45] Within the same week, delivery riders reported that the remuneration calculated by platforms did not meet legal standards. According to an official from the Ministry of Labor, the platforms stated they would supplement the difference within two weeks.[^46]
 
 > 📝 **Curator's Note**
-> Article 1 lists delivery riders, consumers, partner merchants together plus managed platforms—officially termed "four-party balance." But at sub-regulation level each receives different specifications: riders and consumers each have statutory "required & prohibited matters" documents; merchants receive a contract template without commission caps. Most crucial end—the local inspections meant to verify compliance lacks even basic personnel numbers. How many parties a law lists is one matter; what tools prepared for each party represents another entirely.
+> Article 1 lists delivery riders, consumers, partner merchants, and the managed platform as "four-party balance" in official discourse. However, at the level of subsidiary regulations, the four parties received different specifications: delivery riders and consumers each have a legally required list of "items to be stated and not stated," while merchants receive a contract template that does not set an upper limit on commissions. And the side most responsible for verifying whether these clauses are being followed—local inspection—does not even have basic personnel numbers. Listing the parties in a law is one thing; preparing the right tools for each party is another.
 
-Some are already demanding concrete actions. One day before implementation, People First Party caucus deputy spokesperson Wang An-hsiang proposed five demands including three substantive policies: Ministry of Labor should clearly define "platform operating costs" and prohibit platforms from creating fees under names like "matching charges"; Transportation Department must expedite completion of consumer standardized contract sub-regulations; Executive Yuan should establish a cross-ministry "Delivery Law Effectiveness Monitoring Group" comprising Labor, Transport, Digital Development Ministries plus Fair Trade Commission. [^47]
+Some people are already demanding specifics. The day before implementation, the Taiwan People's Party caucus submitted five demands, three of which were substantive policy issues: the Ministry of Labor should clearly define "platform operating costs" and prohibit platforms from imposing arbitrary fees under names like "coordination fees"; the Ministry of Transportation should quickly complete the subsidiary law for standardized consumer contracts; and the Executive Yuan should establish a "Delivery Law Effectiveness Monitoring Group" comprising the Ministries of Labor, Transportation, Digital Affairs, and Fair Trade.[^47]
 
-As for most vocal disputes occurring elsewhere: some Green camp supporters demanded Blue and White legislators take responsibility for riders' plight; other commentators stated "ultimately no party is true winner." [^48][^49] The loudest positions happen to be exactly where this law failed to provide answers.
+The most vocal disputes, however, are located elsewhere. Some supporters from the Green camp demand accountability from Blue and White legislators regarding the plight of delivery riders, while some current affairs commentators argue that "no party is a true winner in the end."[^48][^49] The loudest arguments are precisely not where this law truly failed to provide answers.
 
 ## Same Road, Different Paths Taken Elsewhere
 
@@ -371,12 +377,13 @@ On day four after implementation the National Delivery Industry Union asked prec
 
 ## Further Reading
 
-- [Taiwan Slash Generation](/society/taiwan-slash-generation-multi-job-economy/) — The generation opening delivery apps after work, plus why one salary isn't enough
-- [Overview of Taiwanese Cuisine](/food/taiwanese-cuisine-overview) — Other end of orders on delivery platforms: panoramic view of Taiwan's food landscape
-- [Night Market Culture](/food/night-market-culture) — Before platforms how grassroots dining operated and priced itself in Taiwan
-- [Taiwan Bubble Tea Culture](/food/taiwan-bubble-tea-culture) — Street-side shops becoming global brands also representing other end of platform commissions
-- [PX Mart Supermarket Chain](/economy/pxmart-supermarket-chain) — Local retail channel on fresh grocery delivery line
-- [Benzo[a]pyrene Food Safety Incident](/society/benzo-a-pyrene-food-safety-incident) — Same month law took effect, bento boxes delivered to doors represented downstream of this food safety storm
+- [Taiwan's Gig Economy Generation](/en/society/taiwan-slash-generation-multi-job-economy) — The generation who opens food delivery apps after work, and why their salary isn't enough.
+- [Taiwan Food Overview](/en/food/taiwan-food-overview) — The other side of the orders on food delivery platforms: a panorama of Taiwan's culinary landscape.
+- [Night Market Culture](/en/food/night-market-culture) — How local dining operated and was priced in Taiwan before the platforms.
+- [Taiwan Bubble Tea Culture](/en/food/hand-shaken-drink-culture) — From street stalls to global brands, another side of platform commissions.
+- [FamilyMart Welfare Center](/en/economy/pxmart-supermarket) — The local channel on the fresh groceries delivery line.
+- [Benzo(a)pyrene Food Safety Incident](/society/苯駢芘食安事件) — Bento boxes delivered to doorsteps a month after the specialized law took effect are downstream from this food safety storm.
+- [Who Determines Low Pay](/society/誰算低薪) — The remuneration guarantee for delivery riders is written into the specialized law, but there's no legal protection for year-end bonuses: how low pay moves from base salary to non-bonus columns.
 
 ## Image Sources
 
