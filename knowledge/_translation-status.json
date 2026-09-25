@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T05:01:29+08:00",
-    "zhCommitHead": "711475724",
+    "lastUpdated": "2026-09-26T05:26:23+08:00",
+    "zhCommitHead": "538b49f92",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1095,
-        "stale": 20,
+        "fresh": 1096,
+        "stale": 19,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1063,
+        "fresh": 1064,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 59,
+        "missing": 58,
         "orphan": 0
       }
     },
@@ -44419,7 +44419,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/matsu-biennial.md",
+          "translatedFrom": "Art/馬祖國際藝術島.md",
+          "sourceCommitSha": "cb75c0402",
+          "sourceContentHash": "sha256:799ca5362c21601f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T21:03:19.543622+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 48,
+          "bytes": 75870,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -121762,18 +121775,18 @@
         "es": {
           "path": "es/People/red-shin-minecraft-youtuber.md",
           "translatedFrom": "People/阿神.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:c0745c4b9d2ae295",
-          "sourceBodyHash": "sha256:c2f250d5a21d59eb",
-          "translatedAt": "2026-06-12T00:53:42+08:00",
+          "sourceCommitSha": "fb7f4f824",
+          "sourceContentHash": "sha256:5d4d8978fc43c7cd",
+          "sourceBodyHash": "sha256:02c4e1b3fececdae",
+          "translatedAt": "2026-09-25T16:58:22+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 11157,
+          "footnoteDefs": 18,
+          "bytes": 35175,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (18→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/red-shin-minecraft-youtuber.md",
@@ -127330,8 +127343,8 @@
           "sourceContentHash": "sha256:50a3b31b4cb61eed",
           "sourceBodyHash": "sha256:e893f57da90167f4",
           "translatedAt": "2026-09-25T16:58:19+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "538b49f9",
+          "translationLastModified": "2026-09-26T05:01:29+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 18914,
@@ -141169,8 +141182,8 @@
           "sourceContentHash": "sha256:29ee16f25cde68b4",
           "sourceBodyHash": "sha256:fa9994749dd8a224",
           "translatedAt": "2026-09-25T16:58:19+08:00",
-          "translationLastCommit": "f6054c73",
-          "translationLastModified": "2026-07-24T20:41:47+08:00",
+          "translationLastCommit": "538b49f9",
+          "translationLastModified": "2026-09-26T05:01:29+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 21353,
@@ -178911,8 +178924,8 @@
           "sourceContentHash": "sha256:226ce57f62ea8e09",
           "sourceBodyHash": "sha256:97a0f46568355878",
           "translatedAt": "2026-09-25T16:58:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "538b49f9",
+          "translationLastModified": "2026-09-26T05:01:29+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 20641,
