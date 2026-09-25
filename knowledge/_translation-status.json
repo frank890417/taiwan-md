@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T04:05:20+08:00",
-    "zhCommitHead": "b1a4e145a",
+    "lastUpdated": "2026-09-26T05:01:29+08:00",
+    "zhCommitHead": "711475724",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1104,
-        "stale": 10,
+        "fresh": 1105,
+        "stale": 9,
         "metadata_stale": 0,
         "missing": 10,
         "orphan": 0
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1094,
-        "stale": 21,
+        "fresh": 1095,
+        "stale": 20,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1100,
+        "fresh": 1101,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 7,
+        "missing": 6,
         "orphan": 0
       },
       "vi": {
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1098,
-        "stale": 9,
+        "fresh": 1099,
+        "stale": 8,
         "metadata_stale": 0,
         "missing": 17,
         "orphan": 0
@@ -26594,8 +26594,8 @@
           "sourceContentHash": "sha256:0679bda8106e31fc",
           "sourceBodyHash": "sha256:b5c758f914dccaf4",
           "translatedAt": "2026-09-25T18:34:57.581413+00:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "71147572",
+          "translationLastModified": "2026-09-26T04:05:21+08:00",
           "inferred": false,
           "footnoteDefs": 47,
           "bytes": 52949,
@@ -38603,8 +38603,8 @@
           "sourceContentHash": "sha256:f8ec8d5fb97942ca",
           "sourceBodyHash": "sha256:7bfa784449cb0cb6",
           "translatedAt": "2026-09-25T16:58:23+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "71147572",
+          "translationLastModified": "2026-09-26T04:05:21+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "bytes": 44281,
@@ -88053,20 +88053,18 @@
         "pt": {
           "path": "pt/Nature/taiwanese-black-bear.md",
           "translatedFrom": "Nature/台灣黑熊.md",
-          "sourceCommitSha": "998b8bdb1",
-          "sourceContentHash": "sha256:49afbaec6d9c06b3",
-          "sourceBodyHash": "sha256:8d8dcdbd5a50b1d1",
-          "translatedAt": "2026-09-21T00:58:33+08:00",
+          "sourceCommitSha": "68d051008",
+          "sourceContentHash": "sha256:b5101d8e52c2d3e9",
+          "sourceBodyHash": "sha256:4f99620b588681ad",
+          "translatedAt": "2026-09-25T16:58:26+08:00",
           "translationLastCommit": "6c83e8eb",
           "translationLastModified": "2026-09-21T20:41:57+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 37267,
+          "bytes": 35216,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Nature/taiwanese-black-bear.md",
@@ -141167,20 +141165,18 @@
         "en": {
           "path": "en/People/koxinga.md",
           "translatedFrom": "People/鄭成功.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:c09723b8f613b890",
-          "sourceBodyHash": "sha256:8cc0f510721f307f",
-          "translatedAt": "2026-05-02T02:50:54+08:00",
+          "sourceCommitSha": "a7cf30769",
+          "sourceContentHash": "sha256:29ee16f25cde68b4",
+          "sourceBodyHash": "sha256:fa9994749dd8a224",
+          "translatedAt": "2026-09-25T16:58:19+08:00",
           "translationLastCommit": "f6054c73",
           "translationLastModified": "2026-07-24T20:41:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 21131,
+          "bytes": 21353,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -13"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/koxinga.md",
@@ -200620,20 +200616,18 @@
         "es": {
           "path": "es/Culture/taiwan-religion-and-temple-culture.md",
           "translatedFrom": "Culture/台灣宗教與寺廟文化.md",
-          "sourceCommitSha": "d56c5a60e",
-          "sourceContentHash": "sha256:518362b111919aa4",
-          "sourceBodyHash": "sha256:b2ec869950288157",
-          "translatedAt": "2026-07-28T05:31:30+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:e70a2042c1d5dde1",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T20:48:49.361570+00:00",
           "translationLastCommit": "e89394a4",
           "translationLastModified": "2026-07-28T09:19:57+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "bytes": 43008,
+          "bytes": 41444,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/taiwan-religion-and-temple-culture.md",
@@ -209450,7 +209444,20 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/donggang-king-boat-festival.md",
+          "translatedFrom": "Culture/東港迎王船.md",
+          "sourceCommitSha": "3f9e184dc",
+          "sourceContentHash": "sha256:d56573864b826475",
+          "sourceBodyHash": "sha256:1750eec6a44e0473",
+          "translatedAt": "2026-09-25T16:58:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 31873,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/donggang-king-boat-festival.md",
