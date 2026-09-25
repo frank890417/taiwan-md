@@ -18,8 +18,8 @@ featured: false
 lastVerified: 2026-07-25
 lastHumanReview: false
 viewpoint_formed: true
-researchReport: reports/research/2026-07/外送專法.md
-projectionBlueprint: reports/article-projection/外送專法.md
+researchReport: 'reports/research/2026-07/外送專法.md'
+projectionBlueprint: 'reports/article-projection/外送專法.md'
 rationale:
   why_this_hook: '同一天、同一個外送員、兩張距離差一倍的單，報酬都是 90 元——這是整篇悖論的最小單位：官方把 45 元讀成保障，收到單的人讀成上限。用真實截圖畫面開場，比從法條或立法史開場更快讓讀者站到爭議裡面。'
   whats_excluded: 'Grab 併購 foodpanda 全案（公平會否准、終止費、3.7% 投票權）——競爭法題材，會把論點稀釋成產業近況總覽；工會內部信任危機指控（發言人被切割、派系分裂、廣告金流）——單一政治評論員來源、涉具名個人組織糾紛、與論點無關；政黨動機解讀；蔡依橙「4 萬元價差」（查證為舊實測被挪用評論新政策）；王浩宇發言（僅 PTT 轉載未核原始貼文）；「外送專法會外溢成其他零工產業樣板」（多組 query 查證台灣公開論述完全沒有這個討論，不以外國材料勉強推導）。'
@@ -29,9 +29,7 @@ image: '/article-images/society/foodpanda-rider-keelung-rain-2020.webp'
 imageCredit: 'Solomon203'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COMEBUY_Keelung_Qidu_Store_and_Foodpanda_scooter_20200913.jpg'
-relatedDiary:
-  - 2026-07-25-231820-外送專法
-  - 2026-07-26-001546-順稿席
+relatedDiary: ['2026-07-25-231820-外送專法', '2026-07-26-001546-順稿席']
 sporeLinks:
   - id: 159
     platform: 'threads'
@@ -42,10 +40,10 @@ sporeLinks:
     date: '2026-07-25'
     url: 'https://x.com/taiwandotmd/status/2081045126898684051'
 translatedFrom: 'Society/外送專法.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:2226f6ae85580ba3'
-sourceBodyHash: 'sha256:9aa85b1a3d34de72'
-translatedAt: '2026-07-31T15:19:03Z'
+sourceCommitSha: '83975eef3'
+sourceContentHash: 'sha256:79a50a0770daf955'
+sourceBodyHash: 'sha256:725b400b5a230de4'
+translatedAt: '2026-09-25T12:34:56.596642+00:00'
 ---
 
 # La ley especial de reparto: el derecho construyó el suelo, pero por encima sigue mandando el algoritmo
@@ -137,44 +135,44 @@ Pendiente | Dos normas complementarias del Ministerio de Transporte siguen en fa
 Fuente: Base de Datos de Legislación Nacional, Ministerio de Trabajo, Yuan Legislativo, Ministerio de Transporte
 ```
 
-## La ley no dice que no sean empleados
+## La ley no dice que no son empleados
 
-Antes y después de la entrada en vigor de esta ley, el resumen que más circuló en internet fue «sin definir identidad, con más énfasis en derechos»: en vez de determinar si el repartidor es empleado o contratista, la ley escribe directamente las protecciones. Así lo dice el artículo de Wikipedia, así lo dice también un comentario de Business Weekly, e incluso se llegó a extender hasta afirmar que «Taiwán creó una tercera categoría de trabajadores». [^22] Es una fórmula cómoda, pero convierte algo que la ley no hizo en algo que sí hizo.
+Antes y después de la entrada en vigor de esta ley, la frase que más circuló en internet para resumirla fue «sin definir la identidad, con más énfasis en los derechos»: no se pronuncia sobre si el repartidor está en una relación laboral o de contratación, y directamente escribe los derechos en la ley. La entrada de Wikipedia lo dice así, el comentario de _Business Weekly_ también, e incluso se ha extendido a «Taiwán creó una tercera categoría de trabajadores».[^22] Es una fórmula cómoda, y convierte en logro lo que la ley _no_ hizo.
 
-Abramos el artículo 1. El párrafo 1 es el propósito legislativo: «Para proteger los derechos e intereses de los repartidores, los consumidores y los comercios asociados, y para gestionar a los operadores de plataformas de reparto, equilibrando los derechos y obligaciones de todas las partes, se promulga esta ley.»
+Abra el artículo 1. El párrafo 1 establece el propósito legislativo: «Para garantizar los derechos de los repartidores, consumidores y comercios colaboradores, y gestionar a los operadores de plataformas de reparto, a fin de equilibrar la relación de derechos y obligaciones entre las partes, se formula la presente ley.»
 
-El párrafo 2 que sigue es la frase que más fácilmente se pasa por alto y, al mismo tiempo, la más importante. [^3]
+El párrafo 2, que sigue inmediatamente, es la frase que más fácil se pasa por alto y, sin embargo, la más crucial.[^3]
 
 ```tw-quote
-Pero cuando exista una relación de empleo entre el operador de la plataforma de reparto y el repartidor⋯⋯los asuntos relativos a la protección de sus derechos y las sanciones se tramitarán conforme a la Ley de Normas Laborales y demás leyes pertinentes
-Ley de Protección de los Derechos de los Repartidores y de Gestión de las Plataformas de Reparto, artículo 1, párrafo 2 | Texto literal oficial de la Base de Datos de Legislación Nacional
+Pero cuando exista relación laboral entre el operador de la plataforma de reparto y el repartidor… la protección de sus derechos y las sanciones correspondientes se tramitarán conforme a la Ley de Normas Laborales y demás leyes pertinentes
+《Ley de Protección de los Derechos de los Repartidores y de Gestión de las Plataformas de Reparto》 Art. 1, párr. 2 | Base de Datos de Legislación Nacional, texto oficial
 ```
 
-Detrás de ese «pero» hay toda una vía que queda abierta. La ley contempla explícitamente el caso de que exista «relación de empleo» y lo remite de vuelta a la Ley de Normas Laborales.
+Detrás de ese «pero» queda tendida una vía completa. La ley prevé expresamente la situación de «existir relación laboral» y la remite a la Ley de Normas Laborales.
 
-La exposición de motivos oficial del anteproyecto es todavía más completa: al explicar el artículo 1 punto por punto, trata en paralelo dos situaciones: «Para quienes no tengan relación de empleo entre el operador de la plataforma de reparto y el repartidor, los asuntos de protección de derechos se tramitarán conforme a esta ley⋯⋯para quienes tengan relación de empleo⋯⋯el resto de los asuntos de protección de derechos deberá tramitarse conforme a la Ley de Normas Laborales, la Ley de Seguridad y Salud Ocupacional y demás leyes pertinentes.» [^23]
+La exposición de motivos oficial del anteproyecto lo explica de forma aún más completa: al comentar el artículo 1 trata en paralelo los dos supuestos: «Cuando entre el operador de la plataforma de reparto y el repartidor no exista relación laboral, la protección de sus derechos se regirá por la presente ley… cuando exista relación laboral… las demás materias de protección de derechos deberán tramitarse conforme a la Ley de Normas Laborales, la Ley de Seguridad y Salud en el Trabajo y demás leyes pertinentes.»[^23]
 
-El artículo 26, párrafo 2, al tratar el caso de que la plataforma subcontrate su operación, remite directamente a esa misma salvedad: «Cuando el tercero mencionado en el párrafo anterior tenga una relación de empleo con el repartidor, se procederá conforme a lo dispuesto en la salvedad del artículo 1, párrafo 2.» [^3] Una ley no escribe dos veces la misma situación por accidente.
+El artículo 26, párrafo 2, al regular la subcontratación del negocio por la plataforma, vuelve a invocar exactamente ese mismo _pero_: «Cuando entre el tercero del párrafo anterior y el repartidor exista relación laboral, se aplicará lo dispuesto en el _pero_ del párrafo 2 del artículo 1.»[^3] Una ley no escribe dos veces el mismo supuesto por accidente.
 
-Así que esta ley, de principio a fin, nunca declaró que los repartidores no son empleados, ni tampoco añadió ningún criterio nuevo para determinar la relación de empleo.
+Así pues, de principio a fin esta ley no declara que los repartidores no sean empleados, ni añade ningún nuevo criterio para juzgar la existencia de relación laboral.
 
-Si un caso concreto debe calificarse o no como relación de empleo sigue dependiendo del criterio de subordinación del derecho laboral vigente, la misma vara que se usó en la inspección de 2019. Lo que hace esta ley es tender, al margen de ese juicio, un suelo adicional que existe sin importar cuál sea el resultado.
+Si un caso concreto debe o no ser calificado como relación laboral, se vuelve a los criterios de subordinación del derecho laboral vigente, la misma vara que usó la inspección laboral en 2019. Lo que hace esta ley es tender, al margen de ese juicio, un suelo que existe sea cual sea el resultado.
 
-![Interior del hemiciclo del Yuan Legislativo, con la mesa presidencial al frente y filas de escaños de legisladores detrás](/article-images/society/legislative-yuan-chamber-2017.webp)
-_El hemiciclo del Yuan Legislativo. El 6 de enero de 2026, aquí se aprobó en tercera lectura, con sus 28 artículos, la Ley de Protección de los Derechos de los Repartidores y de Gestión de las Plataformas de Reparto, apenas seis días después de que la negociación entre partidos cerrara el nombre definitivo de la ley. Foto: Lin Kao-chih, CC BY-SA 4.0_
+![Interior del hemiciclo del Yuan Legislativo, con la presidencia al frente y los escaños de los diputados en gradas traseras](/article-images/society/legislative-yuan-chamber-2017.webp)
+_Hemiciclo del Yuan Legislativo. El 6 de enero de 2026, las 28 artículos de la «Ley de Protección de los Derechos de los Repartidores y de Gestión de las Plataformas de Reparto» se aprobaron aquí en tercera lectura, solo seis días después de que la negociación entre partidos cerrara el nombre definitivo del proyecto. Foto: 林高志, CC BY-SA 4.0_
 
-Antes de que se cerrara este camino, hubo quien defendió que no había que dar este rodeo. Li Chien-hung, profesor del Departamento de Trabajo y Recursos Humanos de la Universidad de Cultura China, dijo en una entrevista con PTS en julio de 2023 que el sindicato exigía en ese momento quedar fuera de la Ley de Normas Laborales y resolverse mediante una relación de contratación, y que «legislar una ley especial ofrece una protección muy limitada para los derechos laborales». Propuso seguir el ejemplo de España y California y devolver la relación laboral de los repartidores a la calificación de empleo formal. [^24]
+Antes de que esta vía quedara fijada, hubo quien sostuvo que no debía tomarse este rodeo. En julio de 2023, el profesor Li Chien-hung, del Departamento de Trabajo y Recursos Humanos de la Universidad de la Cultura, declaró a PTS que el sindicato exigía entonces que no se aplicara la Ley de Normas Laborales y se tratara como contratación, y que «legislar una ley especial ofrece una protección limitada a los derechos laborales». Abogaba por seguir el modelo de España y del estado de California (EE. UU.), reconduciendo la relación laboral del repartidor al reconocimiento de empleo.[^24]
 
-El momento en que se dijo esto importa. Evalúa «tomar el camino de una ley especial», no los 28 artículos ya definidos: se dijo dos años y medio antes de la tercera lectura.
+El momento de esta declaración importa: está a dos años y medio de la tercera lectura, y evalúa «tomar la vía de la ley especial», no el texto definitivo de 28 artículos.
 
-En ese mismo reportaje, Chen Yu-an, presidente del Sindicato Nacional de la Industria del Reparto, ofreció otra consideración: «En cuanto al salario, hoy las ordenanzas de autonomía local no pueden resolver esto de forma efectiva. Queremos una ley especial porque se parece un poco al modelo de los taxis, donde la plataforma, el gobierno y el sindicato fijan juntos un umbral mínimo.» [^24] El académico quería identidad; el sindicato quería un umbral. La versión finalmente aprobada dio el umbral y dejó la identidad donde estaba.
+En el mismo reportaje, el presidente del Sindicato Nacional de la Industria del Reparto, Chen Yu-an, exponía otra consideración: «En la parte salarial, estas cosas actualmente no pueden tratarse eficazmente en las ordenanzas autónomas. Queremos una ley especial porque se parece un poco al modelo del taxi, donde el gobierno de la plataforma, el gobierno y el sindicato fijan juntos el umbral mínimo.»[^24] El académico pedía el estatus, el sindicato pedía el suelo. La versión final dio el suelo y dejó el estatus donde estaba.
 
-> 📝 **Nota de la curaduría**
-> Hay algo que se puede afirmar con certeza: esta «no respuesta» es un diseño, no un descuido. Cuando la exposición de motivos oficial explica el artículo 1 punto por punto, coloca una junto a otra las dos situaciones —«sin relación de empleo» y «con relación de empleo»—, y el artículo 26 vuelve a remitir a esa misma salvedad: una ley no escribe dos veces la misma situación por accidente.
+> 📝 **Nota del curador**
+> Una cosa puede darse por segura: este «no responder» es diseño, no olvido. La exposición de motivos oficial del anteproyecto, al comentar el artículo 1, pone en paralelo los dos supuestos —«sin relación laboral» y «con relación laboral»— y el artículo 26 vuelve a invocar una vez más ese mismo _pero_— una ley no escribe dos veces el mismo supuesto por accidente.
 >
-> Lo que no se puede afirmar es por qué se diseñó así. Una lectura pragmática: determinar la identidad exige litigar caso por caso, y en cuanto se resuelve con una plataforma, esta reescribe el contrato de otra forma —así quedó estancada la inspección de 2019—, así que primero se protege a las personas y la calificación se deja para que se acumule poco a poco caso por caso. Otra lectura: una ambigüedad favorable a las plataformas quedó estabilizada por la propia ley. Las dos lecturas usan los mismos artículos; la diferencia está en si uno cree que seguirá habiendo quien litigue esos casos. **Este artículo concluye que la primera lectura es más plausible, pero no puede zanjar la segunda, ni elige por el lector.**
+> Lo que no puede asegurarse es _por qué_ se diseñó así. Una lectura pragmática: el reconocimiento del estatus hay que litigarlo caso a caso; ganado un caso contra una plataforma, esta cambia la redacción del contrato, la inspección de 2019 terminó así en nada, así que primero se recoge a la gente, y la calificación se deja para que la jurisprudencia vaya acumulándose poco a poco. Otra lectura: un estado de ambigüedad favorable a la plataforma ha quedado estabilizado por una ley. Las dos lecturas usan los mismos artículos; la diferencia está en si crees que después habrá quien siga litigando esos casos. **Este artículo considera demostrada la primera, no puede demostrar la segunda, y no elige por el lector.**
 
-Esta fue la primera pregunta sin responder. La segunda es todavía más difícil, y su forma concreta ya se podía ver en la primera semana de vigencia.
+Esta es la primera pregunta sin respuesta. La segunda es más difícil, y su rostro humano se vio ya en la primera semana de vigencia.
 
 ## Quien corre rápido y quien corre despacio recibieron cosas opuestas
 
@@ -269,51 +267,51 @@ Y dentro del alcance de verificación de este artículo, esta es la declaración
 
 Por qué no lo hay es algo que no se puede averiguar. Se pueden imaginar al menos dos explicaciones: que el comercio tema ser dado de baja en la plataforma si critica en público, o que los recursos periodísticos simplemente no se hayan invertido en este rincón. La primera no cuenta con ningún caso ni cláusula contractual que la respalde. Así que aquí solo se deja constancia del silencio en sí, sin atribuirle un motivo.
 
-## La parte del consumidor todavía no existía el día de entrada en vigor
+## La parte de los consumidores, el día de la entrada en vigor aún no existía
 
-El único cambio en el lado del consumidor que ya ocurrió y con una cifra precisa es que la cuota mensual de Uber One subió de 120 a 199 dólares, un alza de cerca del 66 %, y Uber Eats declaró oficialmente que este ajuste no tiene relación con la ley especial de reparto y que responde a una mejora de los beneficios de membresía. [^39] La tarifa del lado del comercio es otro asunto: desde el 21 de julio, Uber Eats subió la tarifa de servicio a los comercios asociados, 2,5 puntos porcentuales más para reparto de comida y 3 puntos porcentuales más para productos frescos y de abarrotes (canales de venta minorista de productos frescos como [[全聯福利中心]] también están en esta línea), manteniendo el tope de la tarifa de servicio en el 35 %. foodpanda, por su parte, dijo que «según una evaluación preliminar, el costo por pedido podría aumentar entre un 30 % y un 50 %», un rango que es una estimación propia de la plataforma, no una cifra ya ocurrida. [^40]
+El único cambio que ya se ha producido en el lado de los consumidores y que tiene una cifra precisa es la cuota mensual de Uber One, que pasó de 120 a 199 dólares, un aumento de aproximadamente el 66 %; Uber Eats afirma oficialmente que este ajuste no tiene relación con la ley especial de reparto y refleja una mejora de los beneficios para socios.[^39] Lo de las tarifas para los comercios es otra historia: desde el 21 de julio Uber Eats subió la tarifa de servicio a los comercios asociados, 2,5 puntos porcentuales más para la entrega de comida y 3 puntos porcentuales más para comestibles frescos (canales de venta al por menor de productos frescos como [PX Mart](/es/economy/pxmart-supermarket/) también están en esta línea), manteniéndose el tope de la tarifa de servicio en el 35 %. Por su parte, foodpanda indicó que «según la evaluación preliminar actual, el costo por pedido podría aumentar aproximadamente entre un 30 % y un 50 %»; este es el intervalo de estimación de la propia plataforma, no una cifra ya ocurrida.[^40]
 
-Cuánto más paga en realidad el consumidor por cada pedido es algo que ninguna institución ha medido todavía. El conjunto de cifras más grande que existe hoy no es una medición real, sino una estimación de un modelo de un estudio previo de la Comisión de Comercio Justo (公平會). [^41]
-
-```tw-stat
-Si las dos grandes plataformas suben el precio al consumidor un 5 % (estimación de modelo, no medición real)
-34,1 % | Consumidores que dejarían de usar plataformas de reparto | Estudio de sustituibilidad de la Comisión de Comercio Justo
-145 millones de pedidos | Posible reducción anual de pedidos | Estimación de la Asociación Taiwanesa de Economía de Plataformas Digitales a partir del dato anterior
-46 000 millones de dólares | Valor de producción que podría evaporarse en un año | Idem; es una estimación, no algo ya ocurrido
-Fuente: estudio de sustituibilidad de la Comisión de Comercio Justo + estimaciones de la Asociación Taiwanesa de Economía de Plataformas Digitales. Tras la entrada en vigor, ninguna institución ha medido todavía el monto real que paga el consumidor
-```
-
-Hsu Tse-yu, directora ejecutiva de la Fundación de Consumidores de Taiwán, dijo en la fase de anteproyecto (16 de enero de 2026) algo que apunta justo a la información en sí: «Puedes elegir no usar el reparto, ir a buscar la comida o comer en el local, pero la condición es que la información sea clara; no se puede, de forma difusa, hacer que el consumidor cargue con el costo sin saberlo.» [^42]
-
-Y la lista legal del consumidor no existía el día de entrada en vigor. El Ministerio de Transporte, apenas el 20 de julio, publicó a última hora los anteproyectos de dos normas: «materias que deben y no deben constar en los contratos estandarizados de servicio de plataformas de reparto» y «reglamento de gestión de la seguridad vial del repartidor»: la primera suscripción de un servicio de membresía se puede cancelar dentro de los 7 días, la renovación automática requiere el consentimiento explícito del consumidor, y la plataforma debe establecer un mecanismo de recordatorio de renovación y de reembolso. [^43]
-
-Hasta el 25 de julio, ambas normas seguían siendo anteproyectos. La meta oficial para el reglamento de seguridad vial es entrar en vigor, como muy pronto, a finales de agosto; el contrato estandarizado todavía debe presentarse al Yuan Ejecutivo (行政院) para su aprobación. [^44] Buena parte de las nuevas normas para el consumidor de las que tanto hablaron los medios todavía no tienen fuerza vinculante.
-
-## El extremo sin ninguna cifra de personal
-
-El extremo que debería fiscalizar cuenta con todavía menos cifras.
-
-El reparto de funciones a nivel central está, de hecho, escrito con bastante claridad. El Ministerio de Trabajo gestiona los contratos, las suspensiones, la remuneración, las reclamaciones, la seguridad ocupacional, los seguros y la conservación de registros; la autoridad de transporte gestiona la aprobación de la tarifa básica, la protección del consumidor y la seguridad vial; la autoridad económica gestiona los contratos de colaboración y las disputas por tarifas; la autoridad de salud gestiona la seguridad alimentaria; y los gobiernos locales ejecutan de forma conjunta con el gobierno central. [^8]
-
-El problema aparece después de repartir esas funciones. Cuántos inspectores tienen las oficinas de trabajo locales, con qué frecuencia hacen inspecciones sorpresa, si existe un equipo dedicado, cuántas multas se han impuesto desde la entrada en vigor: las respuestas a estas cuatro preguntas no aparecen en ninguna fuente pública.
+Ninguna institución ha realizado una medición real de cuánto más paga realmente el consumidor por cada pedido. El mayor conjunto de datos existente no es una medición real, sino una estimación del modelo de un estudio previo de la Comisión de Comercio Justo.[^41]
 
 ```tw-stat
-Las cuatro cifras que de verdad harían efectiva esta ley hoy no existen
-No hay datos | Personal de inspección de las oficinas de trabajo locales | Ejecución conjunta central-local, sin datos públicos sobre la asignación de personal
-No hay datos | Frecuencia y método de las inspecciones sorpresa | No hay un plan de inspección publicado
-No hay datos | Si existe un equipo dedicado | No hay información sobre esa estructura organizativa
-No hay datos | Multas impuestas desde la entrada en vigor | Sin ningún caso de sanción reportado al 25-07-2026
-Fuente: información pública dentro del alcance de verificación de este artículo (Ministerio de Trabajo y oficinas de trabajo locales). Los cuatro puntos son hallazgos negativos: no es que la cifra sea cero, es que no se pudo encontrar la cifra
+Si las dos grandes plataformas suben el precio al consumidor un 5 % (estimación del modelo, no medición real)
+34,1 % | Los consumidores dejan de usar plataformas de reparto | Estudio de sustituibilidad de la Comisión de Comercio Justo
+145 millones de pedidos | Pedidos que podrían reducirse en un año | Asociación de Economía de Plataformas Digitales de Taiwán, estimación basada en la proporción anterior
+46 000 millones de dólares | Valor de producción que podría evaporarse en un año | Ídem, estimación no ocurrida
+Fuente: Estudio de sustituibilidad de la Comisión de Comercio Justo + estimación de la Asociación de Economía de Plataformas Digitales de Taiwán. Tras la entrada en vigor, ninguna institución ha hecho una medición real del monto efectivamente pagado por el consumidor
 ```
 
-Al tercer día de vigencia, el tono de Hung Shen-han se volvió inusualmente duro: dijo que «la responsabilidad del órgano administrativo es hacer cumplir la ley» y subrayó que «en cuanto termine el periodo de liquidación, si se descubre que un operador incurrió en una infracción, no habrá tolerancia y se sancionará conforme a la ley». [^45] Esa misma semana, algunos repartidores denunciaron que el cálculo de remuneración de la plataforma no llegaba al estándar legal; según lo que transmitieron funcionarios del Ministerio de Trabajo, la plataforma dijo que completaría la diferencia en un plazo de dos semanas. [^46]
+La frase que pronunció la directora ejecutiva de la Fundación de Consumidores, Hsu Tse-yu, en la fase de borrador (16 de enero de 2026), habla precisamente de la información en sí: «Puedes elegir no usar el reparto, ir a recogerlo o comer en el local, pero la premisa es que la información sea clara, no se puede usar una forma ambigua para que el consumidor asuma el coste sin saberlo.»[^42]
 
-> 📝 **Nota de la curaduría**
-> El artículo 1 pone en la misma lista al repartidor, al consumidor y al comercio asociado, más la plataforma gestionada, lo que las autoridades llaman el «equilibrio de las cuatro partes». Pero al bajar al nivel del reglamento de aplicación, lo que recibe cada parte se bifurca: el repartidor y el consumidor tienen cada uno una lista legal de «materias que deben y no deben constar»; el comercio recibe una plantilla de contrato sin tope de comisión. Y el extremo que más debería confirmar si se cumple todo esto —la inspección local— ni siquiera tiene una cifra básica de personal. Que una ley enumere a varias partes es una cosa; qué herramienta se le preparó a cada una es otra completamente distinta.
+Y esa lista legal para los consumidores, el día de la entrada en vigor no existía. El 20 de julio, al límite, el Ministerio de Transporte y Comunicaciones anunció en fase de anuncio previo dos proyectos: «Elementos que deben y no deben constar en los contratos de adhesión de los servicios de plataformas de reparto» y «Reglamento de gestión de la seguridad vial de los repartidores»: la primera suscripción a un servicio de socio puede cancelarse en 7 días, la renovación automática requiere el consentimiento expreso del consumidor, la plataforma debe establecer un mecanismo de recordatorio de renovación y reembolso.[^43]
 
-Ya hay quien exige algo concreto. Un día antes de la entrada en vigor, el grupo parlamentario del Partido Popular de Taiwán, por medio de su portavoz adjunto Wang An-hsiang, presentó cinco exigencias, tres de ellas de contenido sustantivo: que el Ministerio de Trabajo defina con claridad qué es el «costo operativo de la plataforma» y prohíba que esta invente tarifas bajo nombres como «tarifa de emparejamiento»; que el Ministerio de Transporte complete cuanto antes el reglamento de aplicación del contrato estandarizado para consumidores; y que el Yuan Ejecutivo cree un «grupo de observación de resultados de la ley especial de reparto» que incluya al Ministerio de Trabajo, al Ministerio de Transporte, al Ministerio de Asuntos Digitales y a la Comisión de Comercio Justo. [^47]
+Al 25 de julio, ambos siguen siendo proyectos en fase de anuncio previo: el objetivo oficial del Reglamento de gestión de la seguridad vial es entrar en vigor a más tardar a finales de agosto, y el contrato de adhesión aún debe someterse al Yuan Ejecutivo para su aprobación.[^44] Esas nuevas normas para consumidores que los medios han reportado profusamente, por ahora no tienen fuerza vinculante.
 
-En cuanto a la disputa más ruidosa, ocurre en otro lugar. Hay simpatizantes del campo verde que exigen que los legisladores azules y blancos respondan por la situación de los repartidores, y también hay comentaristas de actualidad que dicen que «al final ninguna de las partes es realmente la ganadora». [^48][^49] La posición que más ruido hace resulta ser, justamente, la que no toca el punto que esta ley de verdad dejó sin responder.
+## El extremo sin cifras de personal
+
+En el extremo que debería encargarse de la ejecución, las cifras son aún menores.
+
+La división de competencias del gobierno central está, de hecho, claramente definida. El Ministerio de Trabajo se encarga de contratos, suspensión de derechos, remuneración, reclamaciones, seguridad y salud laboral, seguros y conservación de registros; la autoridad de transporte competente de la tarifa básica, la protección al consumidor y la seguridad vial; la autoridad económica competente de los contratos de colaboración y las disputas sobre tarifas; la autoridad de salud y bienestar competente de la seguridad e higiene alimentaria; y los gobiernos locales ejecutan conjuntamente con el gobierno central.[^8]
+
+El problema surge tras la división: cuánto personal de inspección tienen las oficinas de trabajo locales, con qué frecuencia realizan inspecciones aleatorias, si cuentan con equipos dedicados, cuántas multas han emitido desde la entrada en vigor —las respuestas a estas cuatro preguntas no se encuentran en ninguna fuente pública.
+
+```tw-stat
+Los cuatro números que harían efectiva esta ley, por ahora no existen
+No disponible | Personal de inspección asignado por las oficinas de trabajo locales | Ejecución conjunta central-local, dotación de personal no publicada
+No disponible | Frecuencia y método de inspecciones aleatorias | No hay plan de inspecciones público
+No disponible | Si se han creado equipos dedicados | No hay datos de dotación orgánica relevantes
+No disponible | Número de multas emitidas desde la entrada en vigor | A 2026-07-25 no hay reportes de casos sancionados
+Fuente: fuentes públicas dentro del alcance de verificación de este artículo (Ministerio de Trabajo, oficinas de trabajo locales). Las cuatro son hallazgos negativos, no «cifra cero» sino «no se encuentra la cifra»
+```
+
+Al tercer día de su entrada en vigor, el tono de Hong Shen-han fue inusualmente firme: «La obligación de los órganos administrativos es hacer cumplir la ley», y subrayó: «Una vez finalizado el período de liquidación, si se constata que las empresas han incurrido en infracciones, no habrá contemplaciones; se sancionará conforme a la ley».[^45] Esa misma semana, repartidores denunciaron que la remuneración calculada por las plataformas no alcanzaba el estándar legal; según relataron funcionarios del Ministerio de Trabajo, las plataformas indicaron que completarían la diferencia en dos semanas.[^46]
+
+> 📝 **Nota de la curadora**
+> El artículo 1 pone en pie de igualdad a repartidores, consumidores y comercios colaboradores, y añade las plataformas reguladas: ese es el «equilibrio entre las cuatro partes» del discurso oficial. Pero al bajar al nivel de los reglamentos, lo que reciben las cuatro partes diverge: repartidores y consumidores tienen cada uno su lista legal de «cláusulas obligatorias y prohibidas»; los comercios reciben un modelo de contrato sin tope a la comisión. Y el extremo que debería verificar el cumplimiento de esas cláusulas —la inspección local— ni siquiera cuenta con cifras básicas de personal. Una cosa es enumerar partes en una ley; otra distinta es dotar a cada una de sus herramientas.
+
+Ya hay quien exige cosas concretas. La víspera de la entrada en vigor, el grupo parlamentario del Partido Popular de Taiwán (TPP), a través de su subconvocante Wang An-hsiang, presentó cinco demandas, tres de fondo: el Ministerio de Trabajo debe definir con precisión qué son los «costes operativos de la plataforma» y prohibir que las plataformas creen tasas encubiertas bajo conceptos como «tarifa de emparejamiento»; el Ministerio de Transporte debe completar cuanto antes el reglamento de contratos de adhesión para consumidores; el Yuan Ejecutivo debe crear un «grupo de observación de la eficacia de la ley especial de reparto» que incluya al Ministerio de Trabajo, el Ministerio de Transporte, el Ministerio de Desarrollo Digital y la Comisión de Comercio Justo.[^47]
+
+En cuanto a la disputa más ruidosa, tiene lugar en otro terreno. Hay simpatizantes del campo verde que exigen a los legisladores azul y blanco que respondan por la situación de los repartidores; también hay comentaristas de actualidad que afirman que «al final no hay ningún verdadero ganador».[^48][^49] La posición donde se grita más fuerte, casualmente, no es donde esta ley deja sin respuesta sus verdaderas interrogantes.
 
 ## El mismo camino, cómo lo recorrieron otros
 
@@ -377,14 +375,15 @@ Fuente: información pública del Ministerio de Transporte y del Ministerio de T
 
 Al cuarto día de vigencia, el Sindicato Nacional de la Industria del Reparto preguntó justo por el último punto de esa lista: «¿Legislar una ley especial y no aplicar sanciones conforme a ella es legislar solo para que esté ahí de adorno? ¿Para mirar y ya? ¿Va a seguir el Ministerio de Trabajo ayudando a las plataformas a alargar la partida?» [^61] Seis años y dos vidas se cambiaron por un suelo visible. En cuanto a todo el espacio que queda por encima de ese suelo —el espacio que decide cuánto ganan hoy y si podrán conectarse mañana— la ley todavía no ha subido hasta ahí, y tampoco ha dicho todavía quién debería hacerlo.
 
-## Lectura adicional
+## Lecturas recomendadas
 
-- [La generación slash de Taiwán](/society/台灣斜槓世代) — La generación que abre la aplicación de reparto después del trabajo, y por qué un solo sueldo no alcanza
-- [Panorama de la gastronomía taiwanesa](/food/台灣美食總覽) — El otro extremo de esos pedidos en las plataformas de reparto: un panorama de la geografía gastronómica de Taiwán
-- [Cultura de los mercados nocturnos](/food/夜市文化) — Antes de las plataformas, cómo funcionaba y cómo se fijaban los precios en la restauración popular de Taiwán
-- [Cultura del té con leche taiwanés](/food/台灣手搖飲文化) — De las tiendas de barrio a marcas globales de té con leche, también el otro extremo de la comisión de las plataformas
-- [PX Mart (全聯福利中心)](/economy/全聯福利中心) — El canal local en esta línea del reparto de productos frescos y de abarrotes
-- [El escándalo alimentario del benzopireno](/society/苯駢芘食安事件) — El mismo mes en que entró en vigor la ley especial, la comida que el repartidor deja en la puerta es justo el destino final de esta crisis de seguridad alimentaria
+- [Generación slash de Taiwán](/es/society/taiwan-slash-generation-multi-job-economy) — Esa generación que abre la app de reparto tras salir del trabajo, y por qué un sueldo no basta
+- [Panorama gastronómico de Taiwán](/es/food/taiwan-food-overview) — El otro extremo de esos pedidos en plataformas de reparto: la panorámica del mapa gastronómico de Taiwán
+- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — Antes de las plataformas: cómo operaba y fijaba precios la restauración popular de Taiwán
+- [Cultura de las bebidas agitadas a mano de Taiwán](/es/food/hand-shaken-drink-culture) — Marcas de bebidas agitadas que pasaron de puestos callejeros al mundo, y que son el otro extremo de la comisión de las plataformas
+- [PX Mart](/es/economy/pxmart-supermarket) — El canal local en la línea de reparto de productos frescos y de despensa
+- [Escándalo de los ftalatos](/es/society/benzopyrene-food-safety-incident) — El mismo mes en que entró en vigor la ley especial, los bentós que los repartidores llevaban a la puerta eran la corriente descendente de esa tormenta de seguridad alimentaria
+- [Quién define el salario bajo](/society/誰算低薪) — La garantía salarial de los repartidores se escribió en la ley especial, pero ninguna ley protege el bono de fin de año: cómo el salario bajo se coló del sueldo base a la casilla de «sin bono»
 
 ## Fuentes de las imágenes
 
@@ -505,7 +504,7 @@ Este artículo usa 5 imágenes (1 de dominio público, 4 con licencia Creative C
 
 [^53]: [Inside Spain's plan to fix the gig economy (Huck Magazine)](https://www.huckmag.com/article/inside-spains-failed-plan-to-fix-the-gig-economy) — Reportaje en profundidad que entrevistó a varios repartidores y representantes sindicales españoles y registró las distintas respuestas de las plataformas tras la entrada en vigor de la Ley Rider: Just Eat convirtió a todos sus repartidores en empleados y firmó un convenio colectivo; Deliveroo se retiró (según su versión oficial, España representa menos del 2 % de sus ingresos globales y el retorno era incierto); Glovo resistió hasta junio de 2025, cuando completó el traspaso de 14 000 repartidores a la condición de empleados. Estos hechos también se cotejaron con EUobserver y The Local Spain.
 
-[^54]: [Gig economy worker rights UK guide (Connaught Law)](https://connaughtlaw.com/gig-economy-worker-rights-uk-guide/) y [UK Employment Law Reforms 2026 (Ius Laboris)](https://iuslaboris.com/insights/uk-employment-law-reforms-2026/) — Guías legales de un bufete británico y de una alianza internacional de derecho laboral. La dirección de reforma actual en el Reino Unido simplifica el sistema de tres niveles —empleado, worker y autónomo— en dos, fusionando las categorías de «empleado» y worker, en vez de eliminar la categoría worker; la Ley de Derechos Laborales aprobada en 2025 no toca la calificación de identidad, y la consulta correspondiente todavía no se había presentado al 04-2026. Ambas son guías legales privadas, no comunicados oficiales del gobierno. **Corrección especial durante la verificación de este artículo**: el primer borrador decía que «el gobierno está considerando eliminar la categoría worker porque las plataformas se aprovechan de esa zona gris»; tras cotejar el texto frase por frase se confirmó que esa relación causal no está en las fuentes citadas y que la dirección es opuesta a la reforma real.
+[^54]: [Gig economy worker rights UK guide (Connaught Law)](https://connaughtlaw.com/gig-economy-worker-rights-uk-guide/) — y [UK Employment Law Reforms 2026 (Ius Laboris)](https://iuslaboris.com/insights/uk-employment-law-reforms-2026/) — Guías legales de un bufete británico y de una alianza internacional de derecho laboral. La dirección de reforma actual en el Reino Unido simplifica el sistema de tres niveles —empleado, worker y autónomo— en dos, fusionando las categorías de «empleado» y worker, en vez de eliminar la categoría worker; la Ley de Derechos Laborales aprobada en 2025 no toca la calificación de identidad, y la consulta correspondiente todavía no se había presentado al 04-2026. Ambas son guías legales privadas, no comunicados oficiales del gobierno. **Corrección especial durante la verificación de este artículo**: el primer borrador decía que «el gobierno está considerando eliminar la categoría worker porque las plataformas se aprovechan de esa zona gris»; tras cotejar el texto frase por frase se confirmó que esa relación causal no está en las fuentes citadas y que la dirección es opuesta a la reforma real
 
 [^55]: [Folleto de la Ley de Adecuación de las Transacciones entre Autónomos y Empresas (Comisión de Comercio Justo, Ministerio de Salud, Trabajo y Bienestar, Agencia de la Pequeña Empresa de Japón)](https://www.jftc.go.jp/file/flpamph.pdf) — Folleto oficial conjunto de tres organismos japoneses que explica las siete obligaciones de la Ley de Autónomos, vigente desde el 1 de noviembre de 2024: claridad de las condiciones del contrato, plazos de pago de la remuneración, prohibición de ciertas conductas, exactitud de la información de reclutamiento, consideración por cuidado infantil o familiar, sistema de prevención del acoso, y aviso previo de 30 días para la terminación anticipada; además declara explícitamente que quien se determine sustancialmente como trabajador conforme a la ley laboral no queda sujeto a esta ley, sino a la legislación laboral.
 
@@ -519,6 +518,6 @@ Este artículo usa 5 imágenes (1 de dominio público, 4 con licencia Creative C
 
 [^60]: [Un abogado critica: «pierden las cuatro partes, solo ganan los legisladores» (Liberty Times)](https://news.ltn.com.tw/news/life/breakingnews/5514651) — Reportaje del 23 de julio de 2026 que recoge literalmente la crítica del abogado Lin Chih-chun a la ley especial de reparto y los casos de España y Seattle que cita. El texto original es una paráfrasis en tercera persona del periodista («el abogado Lin Chih-chun considera que, tras la entrada en vigor de la ley especial, pierden el consumidor, el repartidor, el comercio y la plataforma, y que solo ganan los legisladores»), no una declaración directa entrecomillada del propio Lin Chih-chun. **Corrección especial durante la verificación de este artículo**: el primer borrador presentó esta paráfrasis como cita directa; se cambió a estilo indirecto. La misma persona, con la misma postura, se reprodujo en varios medios antes y después de la entrada en vigor, y es la fuente de crítica más concentrada de los primeros días; este artículo no contabiliza cuántos medios la reprodujeron.
 
-[^62]: [Gig workers in Canada (Law of Work)](https://lawofwork.ca/gigworkerscanada/) y [Ontario courts continue to recognize intermediate category of worker (Littler)](https://www.littler.com/publication-press/publication/ontario-canada-courts-continue-recognize-intermediate-category-worker) — La reforma de 1975 a la Ley de Relaciones Laborales de Ontario, Canadá, ya incorporó al «contratista dependiente» en la definición de empleado, 21 años antes que la categoría worker del Reino Unido; en 2020, la junta de relaciones laborales de Ontario falló que los repartidores de Foodora calificaban como contratistas dependientes y podían sindicalizarse. La categoría TRADE de España (Ley 20/2007), de 2007, también es una categoría intermedia de larga data. **Corrección especial durante la verificación de este artículo**: el primer borrador decía que el Reino Unido era el «único» país que usaba una identidad intermedia de forma prolongada; tras verificarlo se confirmaron contraejemplos claros, así que se cambió a «pocos países» y se añadió este precedente canadiense, directamente aplicable al contexto del reparto.
+[^62]: [Gig workers in Canada (Law of Work)](https://lawofwork.ca/gigworkerscanada/) — y [Ontario courts continue to recognize intermediate category of worker (Littler)](https://www.littler.com/publication-press/publication/ontario-canada-courts-continue-recognize-intermediate-category-worker) — La reforma de 1975 a la Ley de Relaciones Laborales de Ontario, Canadá, ya incorporó al «contratista dependiente» en la definición de empleado, 21 años antes que la categoría worker del Reino Unido; en 2020, la junta de relaciones laborales de Ontario falló que los repartidores de Foodora calificaban como contratistas dependientes y podían sindicalizarse. La categoría TRADE de España (Ley 20/2007), de 2007, también es una categoría intermedia de larga data. **Corrección especial durante la verificación de este artículo**: el primer borrador decía que el Reino Unido era el «único» país que usaba una identidad intermedia de forma prolongada; tras verificarlo se confirmaron contraejemplos claros, así que se cambió a «pocos países» y se añadió este precedente canadiense, directamente aplicable al contexto del reparto
 
 [^61]: [El sindicato acusa al Ministerio de Trabajo de no sancionar (ETtoday)](https://www.ettoday.net/news/20260724/3206977.htm) — Reportaje del 24 de julio de 2026, cuarto día tras la entrada en vigor, que recoge literalmente la declaración colectiva del Sindicato Nacional de la Industria del Reparto: «¿Legislar una ley especial y no aplicar sanciones conforme a ella es legislar solo para que esté ahí de adorno? ¿Para mirar y ya? ¿Va a seguir el Ministerio de Trabajo ayudando a las plataformas a alargar la partida?»
