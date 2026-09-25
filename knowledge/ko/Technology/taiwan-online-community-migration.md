@@ -1,6 +1,6 @@
 ---
-title: '대만 인터넷 커뮤니티 30년——URL은 되찾아도 사진은 못 되찾는 실토(失土)의 역사'
-description: '메이리즈다오(美麗之島) BBS에서 Threads까지, 대만인은 몇 년에 한 번씩 집단으로 이사를 거듭하며, 매번 이전 세대의 기억을 꺼진 전원 스위치 뒤편에 두고 왔다. 30년의 이주사는 깔끔한 플랫폼 진화선처럼 보이지만, 그 뼈대는 「이 땅은 누구의 것인가」를 묻는 실토의 역사이다——점착도가 가장 높은 곳이, 데이터 주권은 가장 낮았다.'
+title: '대만 인터넷 커뮤니티 30년 - 주소는 되찾았으나 사진은 찾을 수 없는 상실의 역사'
+description: "미레이지섬 BBS부터 Threads까지, 대만 사람들은 몇 년마다 집단 이사를 하고 있으며, 매번 이전 세대의 기억을 꺼진 전원 스위치 뒤에 남긴다. 30년간의 이동 역사는 플랫폼 진화선처럼 보이지만, 본질적으로는 '땅은 누구의 것인가'라는 상실의 역사이다. 가장 강하게 달라붙어 있는 곳이 데이터 주권이 가장 낮은 곳이다."
 date: 2026-03-29
 lastEvolved: 2026-06-15
 category: 'Technology'
@@ -8,7 +8,7 @@ tags:
   [
     'BBS',
     'PTT',
-    '無名小站',
+    '무명소站',
     'Facebook',
     'LINE',
     'Threads',
@@ -23,11 +23,19 @@ featured: true
 lastVerified: 2026-06-15
 lastHumanReview: false
 readingTime: 25
+researchReport: 'reports/research/2026-06/台灣網路社群遷徙史-evolve-20260614.md'
+rationale:
+  whats_excluded:
+    [
+      '演算法善惡 / AI 推薦是不是進步 — 屬獨立主題（認知作戰/演算法），本篇談遷徙與記憶歸屬不展開演算法價值判斷',
+      '無名相簿正妹文化女性物化深寫 — sibling 無名小站.md scope，本篇輕觸 + cross-link 不複寫',
+      'PTT 厭女/母豬教完整學術分析 — 作「公共領域繼承權之爭」支線帶過，完整性別分析屬獨立主題',
+    ]
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
-sourceCommitSha: 'd968559a'
-sourceContentHash: 'sha256:27a0271b143d3da5'
-sourceBodyHash: 'sha256:51c89f4d74696613'
-translatedAt: '2026-06-16T18:18:20Z'
+sourceCommitSha: '56f4d6f85'
+sourceContentHash: 'sha256:0679bda8106e31fc'
+sourceBodyHash: 'sha256:b5c758f914dccaf4'
+translatedAt: '2026-09-25T15:07:10.001270+00:00'
 ---
 
 > **30초 개요**: 대만은 자체 플랫폼을 두 번 키워냈다——밍르바오(明日報) 개인 뉴스대(個人新聞台)와 우밍샤오잔(無名小站)이다. 전자는 2001년 닷컴 거품에 목 졸렸다가 사용자 자체 구조위원회의 손에 되살아났고, 후자는 야후에 인수된 뒤 2013년 12월 26일 같은 날 전원이 끊어졌다. 그 외의 시간, 대만인들은 줄곧 남의 서버 위에서 살아왔다. 30년간 우리는 BBS에서 우밍샤오잔으로 옮겨갔고, 우밍샤오잔에서 페이스북으로 밀려났으며, 페이스북에서 LINE 그룹으로 후퇴했고, LINE 그룹에서 고개를 내밀어 Threads를 들여다봤다——이사할 때마다 사진 한 묶음, 댓글 한 묶음, 청춘의 한 조각을 버리며 떠나왔다. Similarweb은 2024년 5월, 대만인이 Threads에 머무는 평균 시간이 11분 31초로 세계 1위라 측정했다——같은 시기 미국 5분 12초, 일본 3분 6초[^1]. 우리는 가장 많은 시간을 가장 보장 없는 셋방에 쏟아 넣고 있다. 30년의 이주사는 깔끔한 진화선(BBS→우밍→FB→LINE→脆)으로 흔히 서술되지만, 그 서사는 가장 핵심적인 한 가지를 걸러낸다: 이사할 때마다 「이 땅은 누구의 것인가」를 다시 표명하는 의식이 있었고, 대만인은 줄곧 세입자였다.
@@ -116,19 +124,19 @@ LINE 이용약관 4.7조는 이 논리를 매우 노골적으로 쓰고 있다: 
 
 2014년의 해바라기 학생운동(太陽花學運) 기간, PTT는 현장 학생과 외부 세계 사이의 가장 실시간적인 방송국이었다. 2018년 동성결혼 국민투표 기간, 가십판(八卦版)은 대량의 논변이 생산되는 경기장이었다. 2020년 대선 기간, PTT 가십판의 장문 글은 정치 커뮤니케이션 연구의 1차 자료로서 학계의 인용을 받았다. 이런 일들은 LINE 단톡 안에서는 일어나지 않는다. LINE 단톡 안에서 정치 이야기를 하는 사람이 없어서가 아니라, LINE 단톡 안의 토론은 그 200명 단톡을 떠나면 존재하지 않기 때문이다. 한 사회에 인용 가능한 공공 토론 기록이 있느냐 없느냐는, 그 사회의 기억이 어떤 모습일지를 결정한다. 대만의 이 화석은 아직 살아 있지만, 그것은 유일본이다.
 
-## 다시는 다음 패자가 오지 않을 것이다
+## Es wird nie wieder einen einzigen Hegemon geben
 
-2011년, 국립대만대학 정보관리학과 2학년이던 린위친(林裕欽)이 Dcard의 첫 버전을 만들었다[^37]. 처음에는 「매일 자정에 카드 한 장을 뽑아 낯선 사람과 매칭해 주는」 작은 도구였는데, 점점 대학생 토론판이 되었고, 다시 대만 18-24세 여성의 이용률이 가장 높은 커뮤니티가 되었다. 2015년 린위친은 디카(狄卡) 회사를 설립하여 Dcard를 학생 작품에서 정식 회사 제품으로 전환시켰다[^38].
+2011 erstellte Lin Yu-chin, ein zweites Jahrstudent der Betriebswirtschaftslehre an der National Taiwan University (NTU), die erste Version von Dcard [^37]. Ursprünglich war es ein kleines Tool zum „Täglich um Mitternacht eine Karte ziehen und einen Fremden matchen“, das sich allmählich zu einer Diskussionsplattform für Studenten, dann zur beliebtesten sozialen Plattform für Frauen im Alter von 18 bis 24 in Taiwan entwickelte. Im Jahr 2015 gründete Lin Yu-chin die Dcard Company und wandelte Dcard von einem Studentenprojekt in ein vollständiges Unternehmensprodukt [^38].
 
-2023년 7월 5일, Meta가 Threads를 출시했다. 6시간 만에 500만 사용자 돌파, 5일 만에 1억 돌파[^39]——이것은 인터넷 서비스 역사상 가장 빠른 성장이며, 다른 어떤 기록도 따라오지 못한다. 대만의 반응도 매우 빨랐다. Similarweb이 2024년 5월에 측정한 수치는 다음을 보여준다: 대만 사용자의 Threads 평균 사용 시간은 11분 31초로 세계 1위, 같은 시기 미국 5분 12초, 일본 3분 6초[^40]. MIC 2024Q4 조사는 또 다른 분수령을 남겼다: 脆(Threads)의 대만 사용률이 17.5%에 달하여, 처음으로 PTT의 17.1%를 넘어섰다[^41].
+Am 5. Juli 2023 brachte Meta Threads auf den Markt. Mit über 5 Millionen Nutzern in sechs Stunden und über 100 Millionen in fünf Tagen [^39] war es der schnellste wachsende Dienst aller Zeiten, ohnegleichen. Die Reaktion in Taiwan war ebenfalls schnell. Daten von Similarweb im Mai 2024 zeigten, dass taiwanesische Nutzer durchschnittlich 11 Minuten und 31 Sekunden auf Threads verbrachten, was weltweit führend ist; im Vergleich dazu waren es 5 Minuten und 12 Sekunden in den USA und 3 Minuten und 6 Sekunden in Japan [^40]. Die Umfrage von MIC Q4 2024 lieferte einen weiteren Wendepunkt: Die Nutzung von Xuite (脆) in Taiwan erreichte 17,5 % und übertraf zum ersten Mal die 17,1 % von PTT [^41].
 
-그러나 「脆가 PTT를 넘었다」는 헤드라인은 보기만큼 단순하지 않다. 30년 동안, 대만 커뮤니티의 모든 대이주에는 독점적 패자가 있었다——BBS 시대는 PTT, 앨범 시대는 우밍, 즉시 메시지 시대는 MSN, 소셜 네트워크 시대는 페이스북, 메신저 시대는 LINE. 그러나 2020년대의 이번에는, 플랫폼이 분산돼 있다: 젊은이들은 IG, Dcard, 脆 세 곳에 병행해서 존재하고, 각 플랫폼이 40-80% 침투율을 점하지만, LINE처럼 한 세대 전체를 통째로 삼킬 수 있는 플랫폼은 없다[^42].
+Doch der Titel „Xuite übertrifft PTT“ ist nicht so einfach, wie es scheint. In den dreißig Jahren gab es bei jeder großen sozialen Migration in Taiwan einen eigenen Hegemon: BBS war PTT, das Scrapbook-Zeitalter war Wuming (無名), Instant Messaging war MSN, soziale Netzwerke waren Facebook und Kommunikation war LINE. Aber die aktuelle Ära der 2020er Jahre ist fragmentiert: Die jungen Leute existieren gleichzeitig auf IG, Dcard und Xuite, wobei jede Plattform eine Durchdringung von 40–80 % hat, aber keine kann eine ganze Generation wie LINE „erobern“ [^42].
 
-이 분산에는 간과되는 정치적 의미가 있다. 당신의 사회생활이 다섯 개 플랫폼에 분산돼 있을 때, 당신은 어느 한 플랫폼에 10년을 쓰지 않는다——당신은 脆에 생각을 쓰고, IG에 사진을 올리고, Dcard에서 가십을 보고, LINE에서 가족과 이야기하고, Discord에서 친구들과 음성 통화를 한다. 각 플랫폼이 받는 것은 당신의 한 조각일 뿐, 당신의 전부가 아니다. 이것은 디지털 주권의 진보처럼 들린다——당신은 더 이상 단일 플랫폼에 묶이지 않는다——그러나 동시에 한 가지 의미를 갖는다: 다음 번 대이주가 올 때, 어떤 플랫폼도 우밍이 그랬던 것처럼 한 세대 전체의 기억을 한꺼번에 가져갈 수 없다. 어떤 플랫폼도 한 세대 전체를 한꺼번에 소유한 적이 없기 때문이다.
+Diese Fragmentierung hat eine übersehene politische Bedeutung. Wenn Ihr soziales Leben auf fünf Plattformen verteilt ist, verbringen Sie nicht zehn Jahre auf einer einzigen; Sie schreiben Ideen auf Xuite (脆), posten Fotos auf IG, schauen Klatsch auf Dcard, chatten mit Familie auf LINE und sprechen mit Freunden per Voice-Chat auf Discord. Jede Plattform erhält einen Ausschnitt von Ihnen, nicht Ihr Ganzes. Das klingt nach einem Fortschritt der digitalen Souveränität – man ist nicht mehr an eine einzige Plattform gebunden –, aber es bedeutet auch etwas: Wenn die nächste große Migration kommt, kann keine Plattform die Erinnerung einer ganzen Generation wie Wuming auf einmal mitnehmen, weil keine Plattform jemals das je getan hat.
 
-다만 이 「독점적 패자가 없음」의 대가는, 대만 사용자가 자기 시간을 다섯 개로 잘라 다섯 개의 외국 회사 서버에 각각 보관하고 있다는 것이다. 脆는 Meta의 것, IG는 Meta의 것, LINE은 Z Holdings의 것, Discord는 Discord Inc.의 것, TikTok은 바이트댄스(ByteDance)의 것. 본토 플랫폼은 이번에는 전장에 끼지도 못했다. Dcard는 18-24세 여성 커뮤니티의 본토 선택지라 할 수 있지만, 그 규모, 그 담론 영향력, 그 국제적 판도는 2010년대 후기 Plurk의 처지와 비슷하다——강하지만, 인파에 비켜 지나쳐졌다.
+Aber der Preis dieser „fehlenden einzigen Hegemonie“ ist, dass taiwanesische Nutzer ihre Zeit in fünf Teile zerlegen und diese jeweils auf den Servern von fünf ausländischen Unternehmen speichern. Xuite (脆) gehört Meta, IG gehört Meta, LINE gehört Z Holdings, Discord gehört Discord Inc., und TikTok gehört ByteDance. Lokale Plattformen haben es dieses Mal nicht einmal in die Schlacht geschafft. Dcard ist zwar eine lokale Wahl für Frauen im Alter von 18 bis 24, aber ihre Größe, ihr Diskurs-Einfluss und ihre internationale Reichweite ähneln der Situation von Plurk am Ende der 2010er Jahre: stark, aber an der Menge vorbeigeschoben.
 
-2023년 8월 31일, Xuite 隨意窩이 3단계 폐쇄를 시작했다. 10년 전 우밍 블로거를 받아들였던 블로그 플랫폼이, 다시 한 번 사용자를 내쫓았다[^43]. 그것은 뉴스가 아니다——너무 익숙한 장면이다. 대만 사람은 이미 여러 번 이사를 해왔다. 이사할 때마다 누군가는 옛 블로그를 뒤지며 울고, 누군가는 담을 넘어 백업을 찾고, 누군가는 다운로드 도중에 앨범 링크가 오래전에 죽어 있었음을 알게 된다. 왜 이 일이 몇 년에 한 번씩 일어나는지 묻는 사람은 없다.
+Am 31. August 2023 begann Xuite (脆) mit einer dreistufigen Schließung, eine Blogplattform, die vor zehn Jahren noch den Wuming-Gründer beherbergt hatte und die Nutzer erneut vertreiben [^43]. Das war keine Neuigkeit, sondern ein allzu vertrautes Szenario; die Menschen in Taiwan sind schon oft umgezogen. Bei jedem Umzug weinen manche über alte Magazine, andere suchen Backups durch „Wanddurchbruch“ (im Sinne von VPN-Nutzung), und einige entdecken beim Herunterladen, dass der Scrapbook-Link längst tot ist. Niemand fragt, warum dieses Ereignis alle paar Jahre passiert.
 
 ## 당신의 청춘은 누구의 콘센트에 꽂혀 있는가
 
@@ -159,93 +167,93 @@ LINE 이용약관 4.7조는 이 논리를 매우 노골적으로 쓰고 있다: 
 
 ## 참고 자료
 
-[^1]: Similarweb 2024년 5월 「최근 한 달」 사용 시간 측정. 대만 미디어가 Threads의 국가별 평균 사용 시간을 비교 보도: 대만 11분 31초, 미국 5분 12초, 일본 3분 6초로 대만이 세계 1위. [Similarweb Threads 통계 보도](https://www.similarweb.com/).
+[^1]: [Similarweb Threads 통계 보도](https://www.similarweb.com/) — Similarweb 2024년 5월 「최근 한 달」 사용 시간 측정. 대만 미디어가 Threads의 국가별 평균 사용 시간을 비교 보도: 대만 11분 31초, 미국 5분 12초, 일본 3분 6초로 대만이 세계 1위.
 
-[^2]: 1992년, 국립중산대학 천녠싱(陳年興) 교수가 「美麗之島」 BBS를 구축, 대만 최초의 전중문 인터넷 BBS. [위키피디아: 대만의 BBS](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E4%BD%88%E5%91%8A%E6%AC%84).
+[^2]: [위키피디아: 대만의 BBS](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E4%BD%88%E5%91%8A%E6%AC%84) — 1992년, 국립중산대학 천녠싱(陳年興) 교수가 「美麗之島」 BBS를 구축, 대만 최초의 전중문 인터넷 BBS.
 
-[^3]: 1984년, 교육부가 자오퉁대학과 중산대학을 선정해 TANet 학술망 인프라를 추진. [TANet 연혁, 교육부 정보·과학기술 교육사](https://depart.moe.edu.tw/ed2700/).
+[^3]: [TANet 연혁, 교육부 정보·과학기술 교육사](https://depart.moe.edu.tw/ed2700/) — 1984년, 교육부가 자오퉁대학과 중산대학을 선정해 TANet 학술망 인프라를 추진.
 
-[^4]: 1995년 9월 14일, 두이진(杜奕瑾)이 대만대학 남자기숙사 8동 618호실에서 486DX266 / 16MB RAM 컴퓨터로 PTT를 구축. [PTT 공식 역사 페이지](https://www.ptt.cc/index.html).
+[^4]: [PTT 공식 역사 페이지](https://www.ptt.cc/index.html) — 1995년 9월 14일, 두이진(杜奕瑾)이 대만대학 남자기숙사 8동 618호실에서 486DX266 / 16MB RAM 컴퓨터로 PTT를 구축.
 
-[^5]: 2004년 PTT 야간생활판 「착한 사람의 역습」 사건에서, 사이트 관리인 Junchoon(황젠유 黃健祐)이 저우싱츠 『구품지마관(九品芝麻官)』의 방탕징(方唐鏡, 우치화 飾) 대사 「我是跟鄉民進來看熱鬧的，只不過是往前站了一點」을 인용하며 「請看熱鬧的『鄉民』退到黃線外面去」라고 적었고, 「鄉民」이 이로부터 PTT 사용자의 자칭으로 확산되었다. [위키피디아: 鄉民](https://zh.wikipedia.org/wiki/%E9%84%89%E6%B0%91).
+[^5]: [위키피디아: 鄉民](https://zh.wikipedia.org/wiki/%E9%84%89%E6%B0%91) — 2004년 PTT 야간생활판 「착한 사람의 역습」 사건에서, 사이트 관리인 Junchoon(황젠유 黃健祐)이 저우싱츠 『구품지마관(九品芝麻官)』의 방탕징(方唐鏡, 우치화 飾) 대사 「我是跟鄉民進來看熱鬧的，只不過是往前站了一點」을 인용하며 「請看熱鬧的『鄉民』退到黃線外面去」라고 적었고, 「鄉民」이 이로부터 PTT 사용자의 자칭으로 확산되었다.
 
-[^6]: 1990년대 후반 TANet 학술망 규정이 상업적 용도를 금지하면서, 일부 BBS 서버는 학술망 밖으로 이전을 요구받았고 HiNet 또는 기타 상용 ISP로 옮겨갔다. [TANet 사용 규범 역사 토론, 대만 인터넷 정보 센터](https://www.twnic.tw/).
+[^6]: [TANet 사용 규범 역사 토론, 대만 인터넷 정보 센터](https://www.twnic.tw/) — 1990년대 후반 TANet 학술망 규정이 상업적 용도를 금지하면서, 일부 BBS 서버는 학술망 밖으로 이전을 요구받았고 HiNet 또는 기타 상용 ISP로 옮겨갔다.
 
-[^7]: 2000년 2월 15일, 잔훙즈(詹宏志)가 밍르바오를 창간. 신타이완달러 4억의 자금, 100명 넘는 기자 편제, 전 사이트 무료 뉴스. [위키피디아: 明日報](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1).
+[^7]: [위키피디아: 明日報](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1) — 2000년 2월 15일, 잔훙즈(詹宏志)가 밍르바오를 창간. 신타이완달러 4억의 자금, 100명 넘는 기자 편제, 전 사이트 무료 뉴스.
 
-[^8]: 2000년 4월 11일, 밍르바오가 「개인 뉴스대」 서비스를 출시해 사용자가 자기 개인 뉴스 사이트를 열 수 있게 했다. 대만 블로그 문화의 가장 이른 발단이며 우밍샤오잔 블로그 서비스보다 3년 빠르다. [밍르바오 개인 뉴스대 연혁](https://mypaper.pchome.com.tw/).
+[^8]: [밍르바오 개인 뉴스대 연혁](https://mypaper.pchome.com.tw/) — 2000년 4월 11일, 밍르바오가 「개인 뉴스대」 서비스를 출시해 사용자가 자기 개인 뉴스 사이트를 열 수 있게 했다. 대만 블로그 문화의 가장 이른 발단이며 우밍샤오잔 블로그 서비스보다 3년 빠르다.
 
-[^9]: 2001년 2월 21일 밍르바오가 휴간을 선언. 창간부터 휴간까지 370일이며 그 사이 신타이완달러 3억을 태웠고 휴간 시점에도 약 1억이 장부에 남아 있었다. [위키피디아: 明日報](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1).
+[^9]: [위키피디아: 明日報](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1) — 2001년 2월 21일 밍르바오가 휴간을 선언. 창간부터 휴간까지 370일이며 그 사이 신타이완달러 3억을 태웠고 휴간 시점에도 약 1억이 장부에 남아 있었다.
 
-[^10]: 밍르바오 휴간 뒤 개인 뉴스대 사용자가 자구위원회를 조직하고 서명 운동을 발기하여 이사회가 폐쇄일을 3월 31일까지 연장하게 만들었고, 최종적으로 PChome이 이어받아 운영하여 오늘까지 가동 중이다. [PChome 개인 뉴스대 서비스 페이지](https://mypaper.pchome.com.tw/).
+[^10]: [PChome 개인 뉴스대 서비스 페이지](https://mypaper.pchome.com.tw/) — 밍르바오 휴간 뒤 개인 뉴스대 사용자가 자구위원회를 조직하고 서명 운동을 발기하여 이사회가 폐쇄일을 3월 31일까지 연장하게 만들었고, 최종적으로 PChome이 이어받아 운영하여 오늘까지 가동 중이다.
 
-[^11]: 1999년 우밍샤오잔이 자오퉁대학 정보공학과에서 창립. 창립자는 젠즈위(簡志宇)와 우웨이카이, 린훙취안, 추젠시, 천쉬안인, 판웨이청 등 학생들. [위키피디아: 無名小站](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99).
+[^11]: [위키피디아: 無名小站](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — 1999년 우밍샤오잔이 자오퉁대학 정보공학과에서 창립. 창립자는 젠즈위(簡志宇)와 우웨이카이, 린훙취안, 추젠시, 천쉬안인, 판웨이청 등 학생들.
 
-[^12]: 2003년 우밍샤오잔이 블로그, 앨범, 방명록 세 가지 핵심 서비스를 출시해 대만 개인 인터넷 콘텐츠 생산의 표준 형식을 자리잡게 했다. [위키피디아: 無名小站](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99).
+[^12]: [위키피디아: 無名小站](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — 2003년 우밍샤오잔이 블로그, 앨범, 방명록 세 가지 핵심 서비스를 출시해 대만 개인 인터넷 콘텐츠 생산의 표준 형식을 자리잡게 했다.
 
-[^13]: 2005년 3월 우밍샤오잔이 자오퉁대학을 떠나 신타이완달러 2000만으로 회사를 설립하고 정식으로 상업화 단계에 진입했다. [디지털 시대 「無名小站」 보도](https://www.bnext.com.tw/).
+[^13]: [디지털 시대 「無名小站」 보도](https://www.bnext.com.tw/) — 2005년 3월 우밍샤오잔이 자오퉁대학을 떠나 신타이완달러 2000만으로 회사를 설립하고 정식으로 상업화 단계에 진입했다.
 
-[^14]: 광화잡지 2006년 9월 보도: 우밍샤오잔 230만 회원, 5억 장의 이미지, 매일 120만 방문. [광화잡지 우밍샤오잔 특집](https://www.taiwan-panorama.com/).
+[^14]: [광화잡지 우밍샤오잔 특집](https://www.taiwan-panorama.com/) — 광화잡지 2006년 9월 보도: 우밍샤오잔 230만 회원, 5억 장의 이미지, 매일 120만 방문.
 
-[^15]: 2006년 12월 13일 야후가 우밍샤오잔 인수를 발표. 금액은 약 신타이완달러 7억으로 알려졌지만 공식적으로 실제 거래 금액이 공개된 적은 없다. [야후 키모 우밍샤오잔 인수 보도](https://tw.news.yahoo.com/).
+[^15]: [야후 키모 우밍샤오잔 인수 보도](https://tw.news.yahoo.com/) — 2006년 12월 13일 야후가 우밍샤오잔 인수를 발표. 금액은 약 신타이완달러 7억으로 알려졌지만 공식적으로 실제 거래 금액이 공개된 적은 없다.
 
-[^16]: 2007년 1월 8일 민진당 입법위원 탕훠성이 기자회견: 「우밍샤오잔은 무료 학술망을 이용해 데이터베이스를 구축했지만, 그것을 사적 재산으로 삼아 야후 합병안에서 함께 매각했으니 상업적으로 비도덕적인 행위이다.」 [위키피디아: 無名小站 §상업화 논쟁](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99).
+[^16]: [위키피디아: 無名小站 §상업화 논쟁](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — 2007년 1월 8일 민진당 입법위원 탕훠성이 기자회견: 「우밍샤오잔은 무료 학술망을 이용해 데이터베이스를 구축했지만, 그것을 사적 재산으로 삼아 야후 합병안에서 함께 매각했으니 상업적으로 비도덕적인 행위이다.」.
 
-[^17]: 학술 논문의 비판: 「우밍샤오잔의 성공은 학술망 공공 자원의 남용과 사용자에 대한 불성실 위에 세워졌다. 그 상업화 과정은 학술망의 공공 재산권과 인터넷 공공성을 심각하게 훼손했다.」 [Airitilibrary 학술 논문 U0067](https://www.airitilibrary.com/).
+[^17]: [Airitilibrary 학술 논문 U0067](https://www.airitilibrary.com/) — 학술 논문의 비판: 「우밍샤오잔의 성공은 학술망 공공 자원의 남용과 사용자에 대한 불성실 위에 세워졌다. 그 상업화 과정은 학술망의 공공 재산권과 인터넷 공공성을 심각하게 훼손했다.」.
 
-[^18]: 2013년 12월 26일 야후 키모가 우밍샤오잔과 키모 블로그의 같은 날 폐쇄를 발표. [야후 키모 우밍샤오잔 폐쇄 공지](https://tw.news.yahoo.com/).
+[^18]: [야후 키모 우밍샤오잔 폐쇄 공지](https://tw.news.yahoo.com/) — 2013년 12월 26일 야후 키모가 우밍샤오잔과 키모 블로그의 같은 날 폐쇄를 발표.
 
-[^19]: 젠즈위의 디지털 시대 인터뷰: 「인생에서 가장 후회되는 일은, 2005년의 젠즈위가 2010년의 젠즈위처럼 사고하지 못한 것이다. 2010년의 젠즈위는 영어를 할 줄 알고, 국제 기업이 어떻게 운영되는지 알고, 더 큰 팀을 관리해 본 사람이었다. 그를 2005년으로 보냈더라면 모든 것이 달라졌을 것이다……우밍샤오잔이 결국 끝나기는 했겠지만, 적어도 이 싸움은 더 오래 갈 수 있었을 것이다.」 [디지털 시대 bnext 기사 39669](https://www.bnext.com.tw/article/39669).
+[^19]: [디지털 시대 bnext 기사 39669](https://www.bnext.com.tw/article/39669) — 젠즈위의 디지털 시대 인터뷰: 「인생에서 가장 후회되는 일은, 2005년의 젠즈위가 2010년의 젠즈위처럼 사고하지 못한 것이다. 2010년의 젠즈위는 영어를 할 줄 알고, 국제 기업이 어떻게 운영되는지 알고, 더 큰 팀을 관리해 본 사람이었다. 그를 2005년으로 보냈더라면 모든 것이 달라졌을 것이다……우밍샤오잔이 결국 끝나기는 했겠지만, 적어도 이 싸움은 더 오래 갈 수 있었을 것이다.」.
 
-[^20]: 2016년 12월 ETtoday가 우밍샤오잔 폐쇄 후 사용자들이 옛 블로그 링크를 열어 404와 빈 페이지를 보게 되는 세대적 실토 현상을 보도. [ETtoday 2016/12/09 우밍샤오잔 폐쇄 3주년 회고](https://www.ettoday.net/).
+[^20]: [ETtoday 2016/12/09 우밍샤오잔 폐쇄 3주년 회고](https://www.ettoday.net/) — 2016년 12월 ETtoday가 우밍샤오잔 폐쇄 후 사용자들이 옛 블로그 링크를 열어 404와 빈 페이지를 보게 되는 세대적 실토 현상을 보도.
 
-[^21]: 2008년 5월 12일 Plurk 출시, 캐나다 팀이 개발한 마이크로블로그 서비스. [위키피디아: Plurk](https://zh.wikipedia.org/wiki/Plurk).
+[^21]: [위키피디아: Plurk](https://zh.wikipedia.org/wiki/Plurk) — 2008년 5월 12일 Plurk 출시, 캐나다 팀이 개발한 마이크로블로그 서비스.
 
-[^22]: 「대만인은 plurk하지 tweet하지 않는다」는 2009-2012년 사이 인터넷 관찰계의 표준적인 묘사로, Plurk가 트위터의 대만 진입 전에 이미 시장을 점유한 사실을 반영. [Plurk 대만 사용 연구, TWNIC 인터넷 사용 조사](https://www.twnic.tw/).
+[^22]: [Plurk 대만 사용 연구, TWNIC 인터넷 사용 조사](https://www.twnic.tw/) — 「대만인은 plurk하지 tweet하지 않는다」는 2009-2012년 사이 인터넷 관찰계의 표준적인 묘사로, Plurk가 트위터의 대만 진입 전에 이미 시장을 점유한 사실을 반영.
 
-[^23]: Plurk 글로벌 트래픽에서 대만 사용자의 비중: 2011년 약 40.8%, 2018년 74.6%로 상승. [Plurk Alexa / SimilarWeb 역대 트래픽 분석](https://www.similarweb.com/).
+[^23]: [Plurk Alexa / SimilarWeb 역대 트래픽 분석](https://www.similarweb.com/) — Plurk 글로벌 트래픽에서 대만 사용자의 비중: 2011년 약 40.8%, 2018년 74.6%로 상승.
 
-[^24]: 2009년 12월 9일 번체 중국어판 행복 농장 출시로 대만의 페이스북 사용자가 약 10만 명에서 500만 명 이상으로 급증, 그중 약 350만 명이 행복 농장 플레이어. [위키피디아: 행복 농장](https://zh.wikipedia.org/wiki/%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA).
+[^24]: [위키피디아: 행복 농장](https://zh.wikipedia.org/wiki/%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA) — 2009년 12월 9일 번체 중국어판 행복 농장 출시로 대만의 페이스북 사용자가 약 10만 명에서 500만 명 이상으로 급증, 그중 약 350만 명이 행복 농장 플레이어.
 
-[^25]: Plurk는 후속으로 중국 자본의 전략적 출자를 받았고, 2016년 말레이시아 SEA 그룹(Garena 모회사)에 인수되어 현재도 운영 중이지만 규모는 전성기에 한참 못 미친다. [위키피디아: Plurk](https://zh.wikipedia.org/wiki/Plurk).
+[^25]: [위키피디아: Plurk](https://zh.wikipedia.org/wiki/Plurk) — Plurk는 후속으로 중국 자본의 전략적 출자를 받았고, 2016년 말레이시아 SEA 그룹(Garena 모회사)에 인수되어 현재도 운영 중이지만 규모는 전성기에 한참 못 미친다.
 
-[^26]: 행복 농장 시기 대만 오피스 문화 기록: 몰래 채소를 훔치고, 한밤중 알람으로 수확하고, 인사가 「밥 먹었어?」에서 「오늘 채소 훔쳤어?」로 바뀜. [蘋果日報 2010 행복 농장 오피스 현상 보도](https://tw.appledaily.com/).
+[^26]: [蘋果日報 2010 행복 농장 오피스 현상 보도](https://tw.appledaily.com/) — 행복 농장 시기 대만 오피스 문화 기록: 몰래 채소를 훔치고, 한밤중 알람으로 수확하고, 인사가 「밥 먹었어?」에서 「오늘 채소 훔쳤어?」로 바뀜.
 
-[^27]: 2013년 1월 8일 마이크로소프트가 MSN을 3월 15일 종료(중국 제외)한다고 통지, 실제 글로벌 전환일은 4월 8일. [BBC News 2013/01/08 마이크로소프트 MSN 종료 공지](https://www.bbc.com/news/technology-20910181).
+[^27]: [BBC News 2013/01/08 마이크로소프트 MSN 종료 공지](https://www.bbc.com/news/technology-20910181) — 2013년 1월 8일 마이크로소프트가 MSN을 3월 15일 종료(중국 제외)한다고 통지, 실제 글로벌 전환일은 4월 8일.
 
-[^28]: MSN의 글로벌 역대 정점은 약 3억 사용자, 종료 시 활성 사용자는 약 1억. 마이크로소프트는 이를 자사의 Skype 서비스로 이전시켰고, 대만 항간에 떠도는 「3억이 LINE에 쏟아져 들어갔다」가 아니다. [Microsoft Skype-MSN 통합 공식 설명](https://news.microsoft.com/).
+[^28]: [Microsoft Skype-MSN 통합 공식 설명](https://news.microsoft.com/) — MSN의 글로벌 역대 정점은 약 3억 사용자, 종료 시 활성 사용자는 약 1억. 마이크로소프트는 이를 자사의 Skype 서비스로 이전시켰고, 대만 항간에 떠도는 「3억이 LINE에 쏟아져 들어갔다」가 아니다.
 
-[^29]: LINE 공식 역사 페이지: 「In response to the anxious days spent unable to contact family and friends following the Great East Japan Earthquake, the LINE app was launched on June 23, 2011.」 [LINE Corp Official History](https://linecorp.com/en/company/info).
+[^29]: [LINE Corp Official History](https://linecorp.com/en/company/info) — LINE 공식 역사 페이지: 「In response to the anxious days spent unable to contact family and friends following the Great East Japan Earthquake, the LINE app was launched on June 23, 2011.」.
 
-[^30]: 2012년 2월 LINE이 대만에서 구이룬메이 모델 광고를 출시, 전화/문자 편을 시작으로 TV와 지하철 광고를 집중 투하. [動腦 잡지 2012 LINE 광고 전략 분석](https://www.brain.com.tw/).
+[^30]: [動腦 잡지 2012 LINE 광고 전략 분석](https://www.brain.com.tw/) — 2012년 2월 LINE이 대만에서 구이룬메이 모델 광고를 출시, 전화/문자 편을 시작으로 TV와 지하철 광고를 집중 투하.
 
-[^31]: 2012년 11월 LINE 대만 사용자가 1000만 명을 돌파. [LINE Taiwan 공식 공지](https://linecorp.com/zh-hant-tw/).
+[^31]: [LINE Taiwan 공식 공지](https://linecorp.com/zh-hant-tw/) — 2012년 11월 LINE 대만 사용자가 1000만 명을 돌파.
 
-[^32]: 2014년 6월 LINE Taiwan Limited가 대만에서 자회사를 정식 설립. [경제부 상업사 회사 등기 자료](https://gcis.nat.gov.tw/).
+[^32]: [경제부 상업사 회사 등기 자료](https://gcis.nat.gov.tw/) — 2014년 6월 LINE Taiwan Limited가 대만에서 자회사를 정식 설립.
 
 [^33]: 2025년 LINE 대만 월간 활성 약 2200만, 침투율 약 94%, 글로벌 상위. [Korea Herald 2025 LINE 글로벌 시장 분석](https://www.koreaherald.com/); [DataReportal Digital 2025 Taiwan](https://datareportal.com/reports/digital-2025-taiwan).
 
-[^34]: 報導者의 조사: 「LINE 단톡 내의 허위 정보, 논쟁적 메시지는 동네, 사찰, 정당, 시민단체의 단톡을 통해, 사회의 분열, 특정 집단에 대한 낙인찍기, 대립 강화의 결과를 만들어 낸다.」 [報導者 information-warfare-business-disinformation 시리즈](https://www.twreporter.org/).
+[^34]: [報導者 information-warfare-business-disinformation 시리즈](https://www.twreporter.org/) — 報導者의 조사: 「LINE 단톡 내의 허위 정보, 논쟁적 메시지는 동네, 사찰, 정당, 시민단체의 단톡을 통해, 사회의 분열, 특정 집단에 대한 낙인찍기, 대립 강화의 결과를 만들어 낸다.」.
 
-[^35]: LINE 이용약관 제4.7조: 「본 서비스의 계정은 개인 전용이다. 이용자가 본 서비스에서 갖는 모든 사용 권리는 제3자에게 양도하거나, 대여하거나, 제3자가 상속하게 할 수 없다.」 [LINE 이용약관 대만판](https://terms2.line.me/LINE_Terms_of_Use_TW).
+[^35]: [LINE 이용약관 대만판](https://terms2.line.me/LINE_Terms_of_Use_TW) — LINE 이용약관 제4.7조: 「본 서비스의 계정은 개인 전용이다. 이용자가 본 서비스에서 갖는 모든 사용 권리는 제3자에게 양도하거나, 대여하거나, 제3자가 상속하게 할 수 없다.」.
 
-[^36]: MIC 2024Q4 소셜미디어 사용률 조사: PTT 주력 35-44세(27.8%), 18-24세는 IG(78%)/Dcard(45.9%)/脆(44%) 선호. [MIC 자책회 산업정보 연구소 2024Q4 소셜미디어 조사](https://mic.iii.org.tw/).
+[^36]: [MIC 자책회 산업정보 연구소 2024Q4 소셜미디어 조사](https://mic.iii.org.tw/) — MIC 2024Q4 소셜미디어 사용률 조사: PTT 주력 35-44세(27.8%), 18-24세는 IG(78%)/Dcard(45.9%)/脆(44%) 선호.
 
-[^37]: 2011년 대만대학 정보관리학과 2학년 린위친이 Dcard 첫 버전을 만듦, 원래는 「매일 자정에 카드를 뽑아 매칭」하는 작은 도구. [위키피디아: Dcard](https://zh.wikipedia.org/wiki/Dcard).
+[^37]: [위키피디아: Dcard](https://zh.wikipedia.org/wiki/Dcard) — 2011년 대만대학 정보관리학과 2학년 린위친이 Dcard 첫 버전을 만듦, 원래는 「매일 자정에 카드를 뽑아 매칭」하는 작은 도구.
 
 [^38]: 2015년 린위친이 디카(狄卡) 주식회사를 설립, Dcard를 학생 작품에서 정식 회사 제품으로 전환. [경제부 상업사 회사 등기 자료](https://gcis.nat.gov.tw/); [디지털 시대 Dcard 창업 인터뷰](https://www.bnext.com.tw/).
 
-[^39]: 2023년 7월 5일 Meta가 Threads 출시, 6시간 안에 500만 사용자, 5일 안에 1억 돌파, 인터넷 서비스 역사상 가장 빠른 성장 기록. [Meta 공식 공지](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/).
+[^39]: [Meta 공식 공지](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/) — 2023년 7월 5일 Meta가 Threads 출시, 6시간 안에 500만 사용자, 5일 안에 1억 돌파, 인터넷 서비스 역사상 가장 빠른 성장 기록.
 
-[^40]: Similarweb 2024년 5월 측정: 대만 Threads 사용자 평균 사용 시간 11분 31초로 세계 1위, 같은 시기 미국 5분 12초, 일본 3분 6초. [Similarweb Threads 지역 사용 분석 보도](https://www.similarweb.com/).
+[^40]: [Similarweb Threads 지역 사용 분석 보도](https://www.similarweb.com/) — Similarweb 2024년 5월 측정: 대만 Threads 사용자 평균 사용 시간 11분 31초로 세계 1위, 같은 시기 미국 5분 12초, 일본 3분 6초.
 
-[^41]: MIC 2024Q4 소셜 사용률 조사: YT 72.3%, FB 72.1%, IG 44.7%, Dcard 17.6%, 脆 17.5%, PTT 17.1%, 脆가 처음으로 PTT를 추월. [MIC 2024Q4 소셜미디어 사용률 조사](https://mic.iii.org.tw/).
+[^41]: [MIC 2024Q4 소셜미디어 사용률 조사](https://mic.iii.org.tw/) — MIC 2024Q4 소셜 사용률 조사: YT 72.3%, FB 72.1%, IG 44.7%, Dcard 17.6%, 脆 17.5%, PTT 17.1%, 脆가 처음으로 PTT를 추월.
 
 [^42]: 2025년 대만 18-24세 소셜 플랫폼 분산 현상: IG 78%, Dcard 45.9%, 脆 44%, LINE, Discord 등 병행 사용, 단일 독점 플랫폼 없음. [MIC 2024Q4 연령층 분석](https://mic.iii.org.tw/); [DataReportal Digital 2025 Taiwan](https://datareportal.com/reports/digital-2025-taiwan).
 
-[^43]: 2023년 8월 31일 Xuite 隨意窩이 3단계 폐쇄를 시작, 2013년 우밍 폐쇄 시 일부 블로거를 받아들였던 곳이지만, 이번에 다시 사용자에게 이사를 강요. [Xuite 隨意窩 폐쇄 공지](https://blog.xuite.net/).
+[^43]: [Xuite 隨意窩 폐쇄 공지](https://blog.xuite.net/) — 2023년 8월 31일 Xuite 隨意窩이 3단계 폐쇄를 시작, 2013년 우밍 폐쇄 시 일부 블로거를 받아들였던 곳이지만, 이번에 다시 사용자에게 이사를 강요.
 
-[^44]: 2025년 3월 19일 脆 사용자가 @wretch_1999 계정을 개설해 우밍샤오잔 UI를 시뮬레이션: 「★~●○● 歡迎蒞臨無名小站 ●○●~★ / 누적 방문자 수: 0000520 / 誰來我家 / ♪♫ 배경음악: 5566 - 我難過 ♪♫」, 팬 자체 제작이며 공식의 부활이 아님. [@wretch_1999 Threads 계정](https://www.threads.net/@wretch_1999).
+[^44]: [@wretch_1999 Threads 계정](https://www.threads.net/@wretch_1999) — 2025년 3월 19일 脆 사용자가 @wretch_1999 계정을 개설해 우밍샤오잔 UI를 시뮬레이션: 「★~●○● 歡迎蒞臨無名小站 ●○●~★ / 누적 방문자 수: 0000520 / 誰來我家 / ♪♫ 배경음악: 5566 - 我難過 ♪♫」, 팬 자체 제작이며 공식의 부활이 아님.
 
 [^45]: 주 1과 동일. Similarweb 2024년 5월 대만 Threads 평균 사용 시간 11분 31초, 세계 1위.
 
