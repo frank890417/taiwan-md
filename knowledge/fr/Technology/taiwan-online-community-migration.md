@@ -2,9 +2,8 @@
 title: "Trente ans de communautés en ligne à Taïwan : une histoire de terres perdues où l'on retrouve les adresses URL, mais pas les photos"
 description: "De BBS Beautiful Island à Threads, les Taïwanais déménagent collectivement tous les quelques années, laissant les souvenirs de la génération précédente derrière l'interrupteur d'alimentation éteint. Cette histoire de migrations sur trente ans ressemble à une ligne d'évolution de plateformes, mais en réalité, c'est une histoire de terres perdues sur la question « de qui est la terre » : plus la fidélité est élevée, plus la souveraineté des données est faible."
 date: 2026-03-29
-author: 'p3nchan'
+lastEvolved: 2026-06-15
 category: 'Technology'
-subcategory: 'Communautés et culture numérique'
 tags:
   [
     'BBS',
@@ -18,15 +17,25 @@ tags:
     'Féodalisme du cloud',
     'Souveraineté numérique',
   ]
-readingTime: 25
+subcategory: 'Communautés et culture numérique'
+author: 'p3nchan'
+featured: true
 lastVerified: 2026-06-15
 lastHumanReview: false
-featured: true
+readingTime: 25
+researchReport: 'reports/research/2026-06/台灣網路社群遷徙史-evolve-20260614.md'
+rationale:
+  whats_excluded:
+    [
+      '演算法善惡 / AI 推薦是不是進步 — 屬獨立主題（認知作戰/演算法），本篇談遷徙與記憶歸屬不展開演算法價值判斷',
+      '無名相簿正妹文化女性物化深寫 — sibling 無名小站.md scope，本篇輕觸 + cross-link 不複寫',
+      'PTT 厭女/母豬教完整學術分析 — 作「公共領域繼承權之爭」支線帶過，完整性別分析屬獨立主題',
+    ]
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
-sourceCommitSha: 'd968559a8'
-sourceContentHash: 'sha256:27a0271b143d3da5'
-sourceBodyHash: 'sha256:51c89f4d74696613'
-translatedAt: '2026-07-24T10:40:42+08:00'
+sourceCommitSha: '56f4d6f85'
+sourceContentHash: 'sha256:0679bda8106e31fc'
+sourceBodyHash: 'sha256:b5c758f914dccaf4'
+translatedAt: '2026-09-25T18:34:57.581413+00:00'
 ---
 
 > **En 30 secondes** : Taïwan a fait éclore deux fois ses propres plateformes en ligne — _Mingri Bao_ (Personal News Channel) et _Wretch_ (Wu Ming Xiao Zhan). La première a été étouffée par le bulle Internet de 2001 et sauvée par une auto-organisation des utilisateurs ; la seconde, rachetée par Yahoo, a vu son interrupteur d'alimentation coupé le 26 décembre 2013. Dans les autres cas, les Taïwanais ont vécu sur les serveurs des autres. Au cours de ces trente ans, nous sommes passés des BBS à Wretch, de Wretch à Facebook, de Facebook aux groupes LINE, et de LINE à Threads. À chaque déménagement, nous avons perdu un lot de photos, de commentaires et une partie de notre jeunesse. Selon Similarweb, en mai 2024, les Taïwanais passaient en moyenne 11 minutes et 31 secondes sur Threads, le premier au monde — contre 5 minutes et 12 secondes aux États-Unis et 3 minutes et 6 secondes au Japon[^1]. Nous passons le plus de temps dans les lieux de location les plus précaires. Cette histoire de migrations sur trente ans est racontée comme une ligne d'évolution propre (BBS → Wretch → FB → LINE → Threads), mais cette ligne filtre l'élément le plus crucial : chaque déménagement est une nouvelle déclaration sur « de qui est la terre ». Les Taïwanais sont restés des locataires.
@@ -115,19 +124,19 @@ En même temps, PTT était toujours là. Ses utilisateurs vieillissaient ; l'enq
 
 Pendant les manifestations de l'Affaire du tournesol en 2014, PTT était la station de radio la plus immédiate entre les étudiants sur place et l'extérieur ; pendant le référendum sur le mariage homosexuel en 2018, la section _Gossip_ était l'arène de production massive de discours ; pendant l'élection présidentielle de 2020, les longs articles de la section _Gossip_ de PTT étaient considérés par le monde académique comme des matériaux de première main pour la recherche sur la communication politique. Cela ne se produirait pas dans les groupes LINE, non pas parce que personne ne discute de politique dans les groupes LINE, mais parce que les discussions dans les groupes LINE n'existent pas en dehors de ce groupe de 200 personnes. La question de savoir si une société a des enregistrements de dialogue publics citables déterminera à quoi ressemblera la mémoire de cette société. Ce fossile de Taïwan est encore vivant, mais c'est déjà un exemplaire unique.
 
-## Il n'y aura plus jamais de prochain hegemon
+## Il n'y aura plus jamais de seul maître
 
-En 2011, Lin Yu-qin, étudiant de deuxième année du département de gestion de l'information de l'Université nationale de Taïwan, a fait la première version de Dcard[^37]. Au début, c'était un petit outil « tirer une carte chaque nuit de minuit, apparié avec un étranger », qui est devenu progressivement un forum de discussion pour étudiants, puis la communauté avec le taux d'utilisation le plus élevé chez les femmes de 18-24 ans à Taïwan. En 2015, Lin Yu-qin a créé l'entreprise Dcard, transformant Dcard d'un projet étudiant en un produit d'entreprise complet[^38].
+En 2011, Lin Yu-chin, étudiant en deuxième année du département d'informatique de l'Université nationale de Taïwan (NTU), a créé la première version de Dcard [^37]. Initialement un petit outil « tirer une carte à minuit chaque jour pour faire correspondre un étranger », il est progressivement devenu un forum d'étudiants, puis le réseau social le plus utilisé par les femmes taïwanaises âgées de 18 à 24 ans. En 2015, Lin Yu-chin a fondé la société Dcard, transformant Dcard d'un projet étudiant en un produit d'entreprise complet [^38].
 
-Le 5 juillet 2023, Meta a lancé Threads. 5 millions d'utilisateurs en 6 heures, 100 millions en 5 jours[^39], c'est le service Internet à la croissance la plus rapide de l'histoire, sans égal. La réaction à Taïwan a également été rapide. Les chiffres mesurés par Similarweb en mai 2024 montrent que les utilisateurs taïwanais passent en moyenne 11 minutes et 31 secondes sur Threads, le premier au monde ; simultanément, 5 minutes et 12 secondes aux États-Unis, 3 minutes et 6 secondes au Japon[^40]. L'enquête de MIC 2024Q4 a laissé un autre point de rupture : le taux d'utilisation de Threads à Taïwan a atteint 17,5 %, dépassant pour la première fois les 17,1 % de PTT[^41].
+Le 5 juillet 2023, Meta a lancé Threads. Avec plus de 5 millions d'utilisateurs en six heures et plus de 100 millions en cinq jours [^39], c'est le service web à la croissance la plus rapide de l'histoire, sans aucun doute. La réaction côté Taïwan a également été rapide. Les chiffres relevés par Similarweb en mai 2024 indiquent que les utilisateurs taïwanais passent en moyenne 11 minutes et 31 secondes sur Threads, ce qui est le premier au monde ; contre 5 minutes et 12 secondes aux États-Unis et 3 minutes et 6 secondes au Japon à la même période [^40]. L'enquête MIC du quatrième trimestre 2024 a révélé un autre point de bascule : l'utilisation de Dcard (ou « _cui_ ») par les Taïwanais atteint 17,5 %, dépassant pour la première fois les 17,1 % de PTT [^41].
 
-Mais le titre « Threads dépasse PTT » n'est pas aussi simple qu'il n'y paraît. Au cours de ces trente ans, chaque grande migration communautaire à Taïwan a eu un hegemon dominant : à l'ère BBS c'était PTT, à l'ère des albums c'était Wretch, pour les messages instantanés c'était MSN, pour les réseaux sociaux c'était Facebook, pour la messagerie c'était LINE. Mais lors de cette migration des années 2020, la plateforme est dispersée : les jeunes coexistent sur IG, Dcard, Threads ; chaque plateforme occupe 40-80 % du taux de pénétration, mais aucune ne peut absorber toute une génération comme LINE[^42].
+Cependant, le titre « Dcard dépasse PTT » n'est pas si simple qu'il y paraît. Au cours des trente dernières années, chaque grande migration sociale à Taïwan a été dominée par un maître unique : PTT à l'ère du BBS, _Wuming_ (sans nom) à l'ère des albums photo, MSN pour les messageries instantanées, Facebook pour les réseaux sociaux et LINE pour la communication. Mais cette vague de la décennie 2020 est fragmentée : les jeunes existent simultanément sur IG, Dcard et Dcard (_cui_), avec chaque plateforme atteignant une pénétration de 40 à 80 %, mais aucune n'a réussi à capturer toute une génération comme l'avait fait LINE [^42].
 
-Cette dispersion a une signification politique ignorée. Lorsque votre vie communautaire est dispersée sur cinq plateformes, vous ne passerez pas dix ans sur l'une d'elles ; vous écrirez des pensées sur Threads, mettrez des photos sur IG, lirez des potins sur Dcard, discuterez avec la famille sur LINE, parlerez par voix sur Discord. Chaque plateforme obtient votre tranche, pas votre totalité. Cela ressemble à un progrès de la souveraineté numérique, vous n'êtes plus lié à une seule plateforme, mais cela signifie aussi une chose : lorsque la prochaine grande migration arrivera, aucune plateforme ne pourra emporter la mémoire d'une génération entière comme Wretch l'a fait, car aucune plateforme n'a jamais possédé la totalité.
+Cette fragmentation a une signification politique qui est souvent négligée. Lorsque votre vie sociale est répartie sur cinq plateformes, vous ne passez pas dix ans sur une seule ; vous exprimez vos idées sur Dcard (_cui_), vous publiez des photos sur IG, vous lisez les potins sur Dcard, vous discutez avec votre famille sur LINE et vous parlez en vocal avec des amis sur Discord. Chaque plateforme reçoit une tranche de vous, pas votre totalité. Cela ressemble à un progrès en matière de souveraineté numérique, car on n'est plus lié à une seule plateforme, mais cela signifie aussi une chose : lorsque la prochaine grande migration arrivera, aucune plateforme ne pourra emporter la mémoire d'une génération entière comme _Wuming_ l'avait fait. Parce qu'aucune plateforme ne l'a jamais possédée en une seule fois.
 
-Mais le prix de ce « pas de hegemon dominant » est que les utilisateurs taïwanais ont découpé leur temps en cinq parts, stockées respectivement sur les serveurs de cinq entreprises étrangères. Threads est à Meta, IG est à Meta, LINE est à Z Holdings, Discord est à Discord Inc., TikTok est à ByteDance. Les plateformes locales n'ont même pas pu entrer sur le champ de bataille cette fois. Dcard est considéré comme le choix local pour la communauté des femmes de 18-24 ans, mais son échelle, son influence discursive, sa carte internationale, ressemblent beaucoup à la situation de Plurk à la fin des années 2010 : fort, mais contourné par la foule.
+Mais le prix de cette « absence de maître unique » est que les utilisateurs taïwanais ont coupé leur temps en cinq parts, stockées sur les serveurs de cinq entreprises étrangères différentes. Dcard (_cui_) appartient à Meta, IG appartient à Meta, LINE appartient à Z Holdings, Discord appartient à Discord Inc., et TikTok appartient à ByteDance. Les plateformes locales n'ont même pas réussi à se battre dans cette course. Dcard est un choix local pour les femmes de 18 à 24 ans, mais sa taille, son influence discursive et son champ international sont comparables à ceux de Plurk à la fin des années 2010 : forte, mais contournée par la foule.
 
-Le 31 août 2023, Xuite a commencé sa fermeture en trois phases ; la plateforme de blogs qui avait accueilli les blogueurs de Wretch en 2013 a chassé les utilisateurs une fois de plus[^43]. Ce n'était pas une nouvelle, c'était une scène trop familière, les Taïwanais avaient déménagé de nombreuses fois. À chaque déménagement, il y avait des gens qui pleuraient en fouillant les vieux blogs, des gens qui franchissaient les murs pour trouver des sauvegardes, des gens qui téléchargeaient à moitié et réalisaient que les liens de l'album étaient déjà morts. Personne n'a demandé pourquoi cela devait se produire tous les quelques années.
+Le 31 août 2023, Xuite Suiyuo a commencé une fermeture en trois étapes, cette plateforme de blogs qui avait hébergé _Wuming_ dix ans auparavant, expulsant à nouveau les utilisateurs [^43]. Ce n'était pas une nouvelle ; c'était un scénario trop familier. Les Taïwanais ont déménagé plusieurs fois. À chaque déménagement, quelqu'un pleurait en feuilletant d'anciens magazines web, quelqu'un cherchait des sauvegardes en contournant le blocage, et quelqu'un téléchargeait à moitié pour découvrir que le lien de l'album était déjà mort. Personne ne s'est demandé pourquoi cet événement se produisait tous les quelques années.
 
 ## Sur quelle prise d'alimentation de qui votre jeunesse est plantée
 
@@ -158,93 +167,93 @@ La prochaine fois que quelqu'un vous demande « pourquoi sauvegarder les photos 
 
 ## Références
 
-[^1]: Similarweb, mesure de mai 2024 « au cours du dernier mois » du temps d'utilisation, rapportée par les médias taïwanais comparant le temps d'utilisation moyen par pays sur Threads : Taïwan 11 min 31 s, États-Unis 5 min 12 s, Japon 3 min 6 s, Taïwan est premier au monde. [Rapport de statistiques de Similarweb sur Threads](https://www.similarweb.com/).
+[^1]: [Rapport de statistiques de Similarweb sur Threads](https://www.similarweb.com/) — Similarweb, mesure de mai 2024 « au cours du dernier mois » du temps d'utilisation, rapportée par les médias taïwanais comparant le temps d'utilisation moyen par pays sur Threads : Taïwan 11 min 31 s, États-Unis 5 min 12 s, Japon 3 min 6 s, Taïwan est premier au monde.
 
-[^2]: En 1992, le professeur Chen Nian-xing de l'Université Sun Yat-sen a monté le BBS « Beautiful Island », le premier BBS Internet entièrement en chinois à Taïwan. [Wikipédia : BBS à Taïwan](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E4%BD%88%E5%91%8A%E6%AC%84).
+[^2]: [Wikipédia : BBS à Taïwan](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E4%BD%88%E5%91%8A%E6%AC%84) — En 1992, le professeur Chen Nian-xing de l'Université Sun Yat-sen a monté le BBS « Beautiful Island », le premier BBS Internet entièrement en chinois à Taïwan.
 
-[^3]: En 1984, le Ministère de l'Éducation a choisi l'Université nationale du Jiao-Tong et l'Université Sun Yat-sen pour promouvoir l'infrastructure du réseau académique TANet. [Histoire de TANet, Département de l'information et de l'éducation technologique du Ministère de l'Éducation](https://depart.moe.edu.tw/ed2700/).
+[^3]: [Histoire de TANet, Département de l'information et de l'éducation technologique du Ministère de l'Éducation](https://depart.moe.edu.tw/ed2700/) — En 1984, le Ministère de l'Éducation a choisi l'Université nationale du Jiao-Tong et l'Université Sun Yat-sen pour promouvoir l'infrastructure du réseau académique TANet.
 
-[^4]: Le 14 septembre 1995, Du Yi-jin a monté PTT dans la chambre 618 du dortoir masculin 8 de l'Université de Taïwan avec une machine 486DX266 / 16 Mo de RAM. [Page historique officielle de PTT](https://www.ptt.cc/index.html).
+[^4]: [Page historique officielle de PTT](https://www.ptt.cc/index.html) — Le 14 septembre 1995, Du Yi-jin a monté PTT dans la chambre 618 du dortoir masculin 8 de l'Université de Taïwan avec une machine 486DX266 / 16 Mo de RAM.
 
-[^5]: En 2004, lors de l'événement « La contre-attaque des bons » sur la section _Nightlife_ de PTT, le responsable du serveur Junchoon (Huang Jian-you) a cité la réplique de Fang Tang-jing (joué par Wu Qi-hua) dans _Le Justice de l'empereur_ de Stephen Chow « Je suis venu avec les Xiangmin pour regarder le spectacle, juste un peu en avant », écrivant « Prière aux Xiangmin qui regardent le spectacle de rester derrière la ligne jaune », le terme « Xiangmin » s'est ainsi généralisé comme autodésignation des utilisateurs de PTT. [Wikipédia : Xiangmin](https://zh.wikipedia.org/wiki/%E9%84%89%E6%B0%91).
+[^5]: [Wikipédia : Xiangmin](https://zh.wikipedia.org/wiki/%E9%84%89%E6%B0%91) — En 2004, lors de l'événement « La contre-attaque des bons » sur la section _Nightlife_ de PTT, le responsable du serveur Junchoon (Huang Jian-you) a cité la réplique de Fang Tang-jing (joué par Wu Qi-hua) dans _Le Justice de l'empereur_ de Stephen Chow « Je suis venu avec les Xiangmin pour regarder le spectacle, juste un peu en avant », écrivant « Prière aux Xiangmin qui regardent le spectacle de rester derrière la ligne jaune », le terme « Xiangmin » s'est ainsi généralisé comme autodésignation des utilisateurs de PTT.
 
-[^6]: À la fin des années 1990, les normes du réseau académique TANet interdisaient les usages commerciaux ; certains serveurs BBS ont été contraints de quitter le réseau académique, passant à HiNet ou d'autres FAI commerciaux. [Discussion historique sur les normes d'utilisation de TANet, Centre d'information Internet de Taïwan](https://www.twnic.tw/).
+[^6]: [Discussion historique sur les normes d'utilisation de TANet, Centre d'information Internet de Taïwan](https://www.twnic.tw/) — À la fin des années 1990, les normes du réseau académique TANet interdisaient les usages commerciaux ; certains serveurs BBS ont été contraints de quitter le réseau académique, passant à HiNet ou d'autres FAI commerciaux.
 
-[^7]: Le 15 février 2000, Zhan Hong-zhi a fondé _Mingri Bao_, avec 400 millions de TWD de capitaux, des centaines de journalistes, actualités gratuites sur tout le réseau. [Wikipédia : Mingri Bao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1).
+[^7]: [Wikipédia : Mingri Bao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1) — Le 15 février 2000, Zhan Hong-zhi a fondé _Mingri Bao_, avec 400 millions de TWD de capitaux, des centaines de journalistes, actualités gratuites sur tout le réseau.
 
-[^8]: Le 11 avril 2000, _Mingri Bao_ a lancé le service « Personal News Channel », permettant aux utilisateurs d'ouvrir leur propre journal personnel, la première germination de la culture des blogs à Taïwan, trois ans avant le service de blog de Wretch. [Histoire du Personal News Channel de Mingri Bao](https://mypaper.pchome.com.tw/).
+[^8]: [Histoire du Personal News Channel de Mingri Bao](https://mypaper.pchome.com.tw/) — Le 11 avril 2000, _Mingri Bao_ a lancé le service « Personal News Channel », permettant aux utilisateurs d'ouvrir leur propre journal personnel, la première germination de la culture des blogs à Taïwan, trois ans avant le service de blog de Wretch.
 
-[^9]: Le 21 février 2001, _Mingri Bao_ a annoncé la cessation de publication ; de la création à la cessation, 370 jours, 300 millions de TWD brûlés, environ 100 millions restant sur le compte à la cessation. [Wikipédia : Mingri Bao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1).
+[^9]: [Wikipédia : Mingri Bao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1) — Le 21 février 2001, _Mingri Bao_ a annoncé la cessation de publication ; de la création à la cessation, 370 jours, 300 millions de TWD brûlés, environ 100 millions restant sur le compte à la cessation.
 
-[^10]: Après la cessation de _Mingri Bao_, les utilisateurs du Personal News Channel ont formé une association d'auto-secours, lancé une pétition, forçant le conseil d'administration à reporter la fermeture au 31 mars, finalement repris en gestion par PChome, toujours opérationnel aujourd'hui. [Page de service du Personal News Channel de PChome](https://mypaper.pchome.com.tw/).
+[^10]: [Page de service du Personal News Channel de PChome](https://mypaper.pchome.com.tw/) — Après la cessation de _Mingri Bao_, les utilisateurs du Personal News Channel ont formé une association d'auto-secours, lancé une pétition, forçant le conseil d'administration à reporter la fermeture au 31 mars, finalement repris en gestion par PChome, toujours opérationnel aujourd'hui.
 
-[^11]: En 1999, Wretch a été fondé dans le département de génie informatique de l'Université nationale du Jiao-Tong, fondateurs Jian Zhi-yu et étudiants Wu Wei-kai, Lin Hong-quan, Qiu Jian-xi, Chen Xuan-yan, Pan Wei-cheng. [Wikipédia : Wretch](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99).
+[^11]: [Wikipédia : Wretch](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — En 1999, Wretch a été fondé dans le département de génie informatique de l'Université nationale du Jiao-Tong, fondateurs Jian Zhi-yu et étudiants Wu Wei-kai, Lin Hong-quan, Qiu Jian-xi, Chen Xuan-yan, Pan Wei-cheng.
 
-[^12]: En 2003, Wretch a lancé trois services centraux : blog, album, mur de commentaires, établissant la forme standard de production de contenu Internet personnel à Taïwan. [Wikipédia : Wretch](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99).
+[^12]: [Wikipédia : Wretch](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — En 2003, Wretch a lancé trois services centraux : blog, album, mur de commentaires, établissant la forme standard de production de contenu Internet personnel à Taïwan.
 
-[^13]: En mars 2005, Wretch a quitté l'Université du Jiao-Tong, créé une entreprise pour 20 millions de TWD, entrant officiellement dans la phase de commercialisation. [Rapport de _Digital Times_ sur Wretch](https://www.bnext.com.tw/).
+[^13]: [Rapport de _Digital Times_ sur Wretch](https://www.bnext.com.tw/) — En mars 2005, Wretch a quitté l'Université du Jiao-Tong, créé une entreprise pour 20 millions de TWD, entrant officiellement dans la phase de commercialisation.
 
-[^14]: Rapport de _Guanghua Magazine_ en septembre 2006 : Wretch avait 2,3 millions de membres, 500 millions d'images, 1,2 million de visites par jour. [Interview exclusive de Guanghua Magazine sur Wretch](https://www.taiwan-panorama.com/).
+[^14]: [Interview exclusive de Guanghua Magazine sur Wretch](https://www.taiwan-panorama.com/) — Rapport de _Guanghua Magazine_ en septembre 2006 : Wretch avait 2,3 millions de membres, 500 millions d'images, 1,2 million de visites par jour.
 
-[^15]: Le 13 décembre 2006, Yahoo a annoncé le rachat de Wretch, les rumeurs indiquaient environ 700 millions de TWD, mais le montant réel de la transaction n'a jamais été rendu public. [Actualités du rachat de Wretch par Yahoo奇mo](https://tw.news.yahoo.com/).
+[^15]: [Actualités du rachat de Wretch par Yahoo奇mo](https://tw.news.yahoo.com/) — Le 13 décembre 2006, Yahoo a annoncé le rachat de Wretch, les rumeurs indiquaient environ 700 millions de TWD, mais le montant réel de la transaction n'a jamais été rendu public.
 
-[^16]: Le 8 janvier 2007, le député du PDP Tang Huo-sheng a tenu une conférence de presse : « Wretch a utilisé le réseau académique gratuit pour établir une base de données, mais l'a traitée comme une propriété privée, vendue avec Yahoo après le rachat, comportement immoral sur le plan commercial. » [Wikipédia : Wretch § Controverse de commercialisation](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99).
+[^16]: [Wikipédia : Wretch § Controverse de commercialisation](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — Le 8 janvier 2007, le député du PDP Tang Huo-sheng a tenu une conférence de presse : « Wretch a utilisé le réseau académique gratuit pour établir une base de données, mais l'a traitée comme une propriété privée, vendue avec Yahoo après le rachat, comportement immoral sur le plan commercial. ».
 
-[^17]: Critique académique : « Le succès de Wretch est fondé sur l'abus des ressources publiques du réseau académique et sur l'inauthenticité envers les utilisateurs. Son processus de commercialisation a gravement blessé la propriété publique du réseau académique et la sphère publique d'Internet. » [Article académique Airitilibrary U0067](https://www.airitilibrary.com/).
+[^17]: [Article académique Airitilibrary U0067](https://www.airitilibrary.com/) — Critique académique : « Le succès de Wretch est fondé sur l'abus des ressources publiques du réseau académique et sur l'inauthenticité envers les utilisateurs. Son processus de commercialisation a gravement blessé la propriété publique du réseau académique et la sphère publique d'Internet. ».
 
-[^18]: Le 26 décembre 2013, Yahoo奇mo a annoncé la fermeture de Wretch et des blogs Yahoo奇mo le même jour. [Annonce de fermeture de Wretch par Yahoo奇mo](https://tw.news.yahoo.com/).
+[^18]: [Annonce de fermeture de Wretch par Yahoo奇mo](https://tw.news.yahoo.com/) — Le 26 décembre 2013, Yahoo奇mo a annoncé la fermeture de Wretch et des blogs Yahoo奇mo le même jour.
 
-[^19]: Interview de Jian Zhi-yu par _Digital Times_ : « La chose dont je me repents le plus dans ma vie, c'est que le Jian Zhi-yu de 2005 ne pensait pas avec la tête du Jian Zhi-yu de 2010. Le Jian Zhi-yu de 2010 parlait anglais, savait comment une entreprise internationale opérait, avait géré une équipe plus grande ; si on le mettait en 2005, tout serait différent... Bien que Wretch finirait par s'achever, au moins cette guerre aurait été menée plus longtemps. » [Article 39669 de bnext _Digital Times_](https://www.bnext.com.tw/article/39669).
+[^19]: [Article 39669 de bnext _Digital Times_](https://www.bnext.com.tw/article/39669) — Interview de Jian Zhi-yu par _Digital Times_ : « La chose dont je me repents le plus dans ma vie, c'est que le Jian Zhi-yu de 2005 ne pensait pas avec la tête du Jian Zhi-yu de 2010. Le Jian Zhi-yu de 2010 parlait anglais, savait comment une entreprise internationale opérait, avait géré une équipe plus grande ; si on le mettait en 2005, tout serait différent... Bien que Wretch finirait par s'achever, au moins cette guerre aurait été menée plus longtemps. ».
 
-[^20]: En décembre 2016, _ETtoday_ a rapporté qu'après la fermeture de Wretch, les utilisateurs ouvrant les liens de vieux blogs voyaient des 404 et des pages blanches, phénomène de perte de terres générationnelle. [Retour sur le 3ème anniversaire de la fermeture de Wretch, ETtoday 2016/12/09](https://www.ettoday.net/).
+[^20]: [Retour sur le 3ème anniversaire de la fermeture de Wretch, ETtoday 2016/12/09](https://www.ettoday.net/) — En décembre 2016, _ETtoday_ a rapporté qu'après la fermeture de Wretch, les utilisateurs ouvrant les liens de vieux blogs voyaient des 404 et des pages blanches, phénomène de perte de terres générationnelle.
 
-[^21]: Le 12 mai 2008, Plurk est entré en ligne, service de microblog créé par une équipe canadienne. [Wikipédia : Plurk](https://zh.wikipedia.org/wiki/Plurk).
+[^21]: [Wikipédia : Plurk](https://zh.wikipedia.org/wiki/Plurk) — Le 12 mai 2008, Plurk est entré en ligne, service de microblog créé par une équipe canadienne.
 
-[^22]: « Les Taïwanais plurquent, ne tweettent pas » est la description standard du milieu Internet de 2009-2012, reflétant que Plurk avait pris le marché avant l'arrivée de Twitter à Taïwan. [Étude d'utilisation de Plurk à Taïwan, Enquête d'utilisation d'Internet de TWNIC](https://www.twnic.tw/).
+[^22]: [Étude d'utilisation de Plurk à Taïwan, Enquête d'utilisation d'Internet de TWNIC](https://www.twnic.tw/) — « Les Taïwanais plurquent, ne tweettent pas » est la description standard du milieu Internet de 2009-2012, reflétant que Plurk avait pris le marché avant l'arrivée de Twitter à Taïwan.
 
-[^23]: Part des utilisateurs taïwanais dans le trafic mondial de Plurk : environ 40,8 % en 2011, montée à 74,6 % en 2018. [Analyse de trafic historique d'Alexa / SimilarWeb de Plurk](https://www.similarweb.com/).
+[^23]: [Analyse de trafic historique d'Alexa / SimilarWeb de Plurk](https://www.similarweb.com/) — Part des utilisateurs taïwanais dans le trafic mondial de Plurk : environ 40,8 % en 2011, montée à 74,6 % en 2018.
 
-[^24]: Le 9 décembre 2009, la version chinoise de _Happy Farm_ est entrée en ligne, faisant passer les utilisateurs de Facebook à Taïwan d'environ 100 000 à plus de 5 millions, dont environ 3,5 millions étaient des joueurs de _Happy Farm_. [Wikipédia : Happy Farm](https://zh.wikipedia.org/wiki/%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA).
+[^24]: [Wikipédia : Happy Farm](https://zh.wikipedia.org/wiki/%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA) — Le 9 décembre 2009, la version chinoise de _Happy Farm_ est entrée en ligne, faisant passer les utilisateurs de Facebook à Taïwan d'environ 100 000 à plus de 5 millions, dont environ 3,5 millions étaient des joueurs de _Happy Farm_.
 
-[^25]: Plurk a ensuite été soutenu stratégiquement par du capital chinois, racheté en 2016 par le groupe malaisien SEA (dont Garena), toujours opérationnel mais à une échelle bien inférieure à son apogée. [Wikipédia : Plurk](https://zh.wikipedia.org/wiki/Plurk).
+[^25]: [Wikipédia : Plurk](https://zh.wikipedia.org/wiki/Plurk) — Plurk a ensuite été soutenu stratégiquement par du capital chinois, racheté en 2016 par le groupe malaisien SEA (dont Garena), toujours opérationnel mais à une échelle bien inférieure à son apogée.
 
-[^26]: Rapport de la culture de bureau à Taïwan à l'époque de _Happy Farm_ : voler des légumes, réveil au milieu de la nuit pour récolter, salutations passant de « avez-vous mangé ? » à « avez-vous volé des légumes aujourd'hui ». [Rapport du phénomène de bureau _Happy Farm_, Apple Daily 2010](https://tw.appledaily.com/).
+[^26]: [Rapport du phénomène de bureau _Happy Farm_, Apple Daily 2010](https://tw.appledaily.com/) — Rapport de la culture de bureau à Taïwan à l'époque de _Happy Farm_ : voler des légumes, réveil au milieu de la nuit pour récolter, salutations passant de « avez-vous mangé ? » à « avez-vous volé des légumes aujourd'hui ».
 
-[^27]: Le 8 janvier 2013, Microsoft a envoyé un courriel informant que MSN cesserait ses services le 15 mars (sauf en Chine), la date de transfert mondial réelle étant le 8 avril. [Annonce de cessation de MSN par Microsoft, BBC News 2013/01/08](https://www.bbc.com/news/technology-20910181).
+[^27]: [Annonce de cessation de MSN par Microsoft, BBC News 2013/01/08](https://www.bbc.com/news/technology-20910181) — Le 8 janvier 2013, Microsoft a envoyé un courriel informant que MSN cesserait ses services le 15 mars (sauf en Chine), la date de transfert mondial réelle étant le 8 avril.
 
-[^28]: Le pic historique mondial de MSN était d'environ 300 millions d'utilisateurs, les utilisateurs actifs à la cessation étaient d'environ 100 millions, Microsoft les a transférés vers son propre service Skype, et non, comme on le dit couramment à Taïwan, « 300 millions tombés dans LINE ». [Explication officielle de l'intégration Microsoft Skype-MSN](https://news.microsoft.com/).
+[^28]: [Explication officielle de l'intégration Microsoft Skype-MSN](https://news.microsoft.com/) — Le pic historique mondial de MSN était d'environ 300 millions d'utilisateurs, les utilisateurs actifs à la cessation étaient d'environ 100 millions, Microsoft les a transférés vers son propre service Skype, et non, comme on le dit couramment à Taïwan, « 300 millions tombés dans LINE ».
 
-[^29]: Page historique officielle de LINE : « En réponse aux jours anxieux passés sans pouvoir contacter famille et amis après le Grand tremblement de terre de l'Est du Japon, l'application LINE a été lancée le 23 juin 2011. » [Historique officiel de LINE Corp](https://linecorp.com/en/company/info).
+[^29]: [Historique officiel de LINE Corp](https://linecorp.com/en/company/info) — Page historique officielle de LINE : « En réponse aux jours anxieux passés sans pouvoir contacter famille et amis après le Grand tremblement de terre de l'Est du Japon, l'application LINE a été lancée le 23 juin 2011. ».
 
-[^30]: En février 2012, LINE a lancé à Taïwan des publicités avec Gu Lun-mei, commençant par la série téléphone/SMS, diffusant intensivement télévision et métro. [Analyse de stratégie publicitaire de LINE 2012, Brain Magazine](https://www.brain.com.tw/).
+[^30]: [Analyse de stratégie publicitaire de LINE 2012, Brain Magazine](https://www.brain.com.tw/) — En février 2012, LINE a lancé à Taïwan des publicités avec Gu Lun-mei, commençant par la série téléphone/SMS, diffusant intensivement télévision et métro.
 
-[^31]: En novembre 2012, les utilisateurs de LINE à Taïwan ont dépassé les 10 millions. [Annonce officielle de LINE Taiwan](https://linecorp.com/zh-hant-tw/).
+[^31]: [Annonce officielle de LINE Taiwan](https://linecorp.com/zh-hant-tw/) — En novembre 2012, les utilisateurs de LINE à Taïwan ont dépassé les 10 millions.
 
-[^32]: En juin 2014, LINE Taiwan Limited a officiellement fondé une filiale à Taïwan. [Données d'enregistrement d'entreprise du Bureau de l'industrie commerciale du Ministère de l'Économie](https://gcis.nat.gov.tw/).
+[^32]: [Données d'enregistrement d'entreprise du Bureau de l'industrie commerciale du Ministère de l'Économie](https://gcis.nat.gov.tw/) — En juin 2014, LINE Taiwan Limited a officiellement fondé une filiale à Taïwan.
 
 [^33]: En 2025, LINE avait environ 22 millions d'utilisateurs actifs mensuels à Taïwan, taux de pénétration d'environ 94 %, classé parmi les premiers au monde. [Analyse du marché mondial de LINE 2025, Korea Herald](https://www.koreaherald.com/) ; [Digital 2025 Taiwan, DataReportal](https://datareportal.com/reports/digital-2025-taiwan).
 
-[^34]: Enquête de _The Reporter_ : « Les fausses informations et les messages controversés dans les groupes LINE, à travers les groupes de communautés, de temples, de partis politiques, d'organisations civiles, ont causé la division sociale, stigmatisé certains groupes, et renforcé les résultats de l'opposition. » [Série _The Reporter_ sur la guerre de l'information et la désinformation](https://www.twreporter.org/).
+[^34]: [Série _The Reporter_ sur la guerre de l'information et la désinformation](https://www.twreporter.org/) — Enquête de _The Reporter_ : « Les fausses informations et les messages controversés dans les groupes LINE, à travers les groupes de communautés, de temples, de partis politiques, d'organisations civiles, ont causé la division sociale, stigmatisé certains groupes, et renforcé les résultats de l'opposition. ».
 
-[^35]: Clause 4.7 des conditions de service de LINE : « Les comptes de ce service appartiennent exclusivement aux individus. Tous les droits d'utilisation des utilisateurs sur ce service ne peuvent être transférés, prêtés à des tiers ou fait hériter par des tiers. » [Conditions d'utilisation de LINE version Taïwan](https://terms2.line.me/LINE_Terms_of_Use_TW).
+[^35]: [Conditions d'utilisation de LINE version Taïwan](https://terms2.line.me/LINE_Terms_of_Use_TW) — Clause 4.7 des conditions de service de LINE : « Les comptes de ce service appartiennent exclusivement aux individus. Tous les droits d'utilisation des utilisateurs sur ce service ne peuvent être transférés, prêtés à des tiers ou fait hériter par des tiers. ».
 
-[^36]: Enquête de MIC 2024Q4 sur le taux d'utilisation des médias sociaux : PTT principal 35-44 ans (27,8 %), 18-24 ans préférant IG (78 %) / Dcard (45,9 %) / Threads (44 %). [Enquête sur les médias sociaux 2024Q4 de l'Institut de l'information industrielle de MIC / ITRI](https://mic.iii.org.tw/).
+[^36]: [Enquête sur les médias sociaux 2024Q4 de l'Institut de l'information industrielle de MIC / ITRI](https://mic.iii.org.tw/) — Enquête de MIC 2024Q4 sur le taux d'utilisation des médias sociaux : PTT principal 35-44 ans (27,8 %), 18-24 ans préférant IG (78 %) / Dcard (45,9 %) / Threads (44 %).
 
-[^37]: En 2011, Lin Yu-qin, étudiant de deuxième année du département de gestion de l'information de l'Université nationale de Taïwan, a fondé la première version de Dcard, initialement un petit outil « tirer une carte chaque nuit de minuit, apparié ». [Wikipédia : Dcard](https://zh.wikipedia.org/wiki/Dcard).
+[^37]: [Wikipédia : Dcard](https://zh.wikipedia.org/wiki/Dcard) — En 2011, Lin Yu-qin, étudiant de deuxième année du département de gestion de l'information de l'Université nationale de Taïwan, a fondé la première version de Dcard, initialement un petit outil « tirer une carte chaque nuit de minuit, apparié ».
 
 [^38]: En 2015, Lin Yu-qin a créé Dcard Technology Co., Ltd., transformant Dcard d'un projet étudiant en produit d'entreprise officiel. [Données d'enregistrement d'entreprise du Bureau de l'industrie commerciale du Ministère de l'Économie](https://gcis.nat.gov.tw/) ; [Interview d'entrepreneuriat de Dcard, _Digital Times_](https://www.bnext.com.tw/).
 
-[^39]: Le 5 juillet 2023, Meta a lancé Threads, dépassant 5 millions d'utilisateurs en 6 heures, 100 millions en 5 jours, record de croissance le plus rapide de l'histoire des services Internet. [Annonce officielle de Meta](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/).
+[^39]: [Annonce officielle de Meta](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/) — Le 5 juillet 2023, Meta a lancé Threads, dépassant 5 millions d'utilisateurs en 6 heures, 100 millions en 5 jours, record de croissance le plus rapide de l'histoire des services Internet.
 
-[^40]: Similarweb, mesure de mai 2024 : temps d'utilisation moyen des utilisateurs de Threads à Taïwan 11 min 31 s, premier au monde ; simultanément, États-Unis 5 min 12 s, Japon 3 min 6 s. [Rapport de l'analyse d'utilisation régionale de Similarweb sur Threads](https://www.similarweb.com/).
+[^40]: [Rapport de l'analyse d'utilisation régionale de Similarweb sur Threads](https://www.similarweb.com/) — Similarweb, mesure de mai 2024 : temps d'utilisation moyen des utilisateurs de Threads à Taïwan 11 min 31 s, premier au monde ; simultanément, États-Unis 5 min 12 s, Japon 3 min 6 s.
 
-[^41]: Enquête de MIC 2024Q4 sur le taux d'utilisation des médias sociaux : YT 72,3 %, FB 72,1 %, IG 44,7 %, Dcard 17,6 %, Threads 17,5 %, PTT 17,1 %, Threads dépasse PTT pour la première fois. [Enquête sur le taux d'utilisation des médias sociaux 2024Q4 de MIC](https://mic.iii.org.tw/).
+[^41]: [Enquête sur le taux d'utilisation des médias sociaux 2024Q4 de MIC](https://mic.iii.org.tw/) — Enquête de MIC 2024Q4 sur le taux d'utilisation des médias sociaux : YT 72,3 %, FB 72,1 %, IG 44,7 %, Dcard 17,6 %, Threads 17,5 %, PTT 17,1 %, Threads dépasse PTT pour la première fois.
 
 [^42]: Phénomène de dispersion des plateformes communautaires des utilisateurs de 18-24 ans à Taïwan en 2025 : IG 78 %, Dcard 45,9 %, Threads 44 %, LINE, Discord, etc. utilisés parallèlement, pas de plateforme unique dominante. [Analyse par tranche d'âge de MIC 2024Q4](https://mic.iii.org.tw/) ; [Digital 2025 Taiwan, DataReportal](https://datareportal.com/reports/digital-2025-taiwan).
 
-[^43]: Le 31 août 2023, Xuite a commencé sa fermeture en trois phases, ayant accueilli certains blogueurs de Wretch en 2013, forçant à nouveau les utilisateurs à déménager cette fois. [Annonce de fermeture de Xuite](https://blog.xuite.net/).
+[^43]: [Annonce de fermeture de Xuite](https://blog.xuite.net/) — Le 31 août 2023, Xuite a commencé sa fermeture en trois phases, ayant accueilli certains blogueurs de Wretch en 2013, forçant à nouveau les utilisateurs à déménager cette fois.
 
-[^44]: Le 19 mars 2025, un utilisateur de Threads a ouvert le compte @wretch_1999, simulant l'interface de Wretch : « ★~●○● Bienvenue à Wretch ●○●~★ / Nombre de visites cumulées : 0000520 / Qui vient chez moi / ♪♫ Musique de fond : 5566 - Je suis triste ♪♫ », fait par des fans, pas une renaissance officielle. [Compte Threads @wretch_1999](https://www.threads.net/@wretch_1999).
+[^44]: [Compte Threads @wretch_1999](https://www.threads.net/@wretch_1999) — Le 19 mars 2025, un utilisateur de Threads a ouvert le compte @wretch_1999, simulant l'interface de Wretch : « ★~●○● Bienvenue à Wretch ●○●~★ / Nombre de visites cumulées : 0000520 / Qui vient chez moi / ♪♫ Musique de fond : 5566 - Je suis triste ♪♫ », fait par des fans, pas une renaissance officielle.
 
 [^45]: Même note 1. Similarweb, mai 2024, temps d'utilisation moyen de Threads à Taïwan 11 min 31 s, premier au monde.
 
