@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T09:28:36+08:00",
-    "zhCommitHead": "f879429ae",
+    "lastUpdated": "2026-09-25T09:57:47+08:00",
+    "zhCommitHead": "5677730ac",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1018,
-        "stale": 59,
+        "fresh": 1020,
+        "stale": 57,
         "metadata_stale": 0,
         "missing": 47,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1050,
-        "stale": 28,
+        "fresh": 1052,
+        "stale": 26,
         "metadata_stale": 0,
         "missing": 46,
         "orphan": 0
@@ -84,16 +84,16 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1047,
+        "fresh": 1048,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 60,
+        "missing": 59,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1066,
-        "stale": 17,
+        "fresh": 1067,
+        "stale": 16,
         "metadata_stale": 0,
         "missing": 41,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1012,
+        "fresh": 1015,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 110,
+        "missing": 107,
         "orphan": 0
       }
     },
@@ -4185,20 +4185,18 @@
         "ar": {
           "path": "ar/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b3",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
-          "translatedAt": "2026-07-28T19:24:17+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-25T08:55:36+08:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 23183,
+          "bytes": 21905,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/megaport-festival.md",
@@ -5626,8 +5624,8 @@
           "sourceContentHash": "sha256:3d345fa4696c5375",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T00:27:30.830749+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5677730a",
+          "translationLastModified": "2026-09-25T09:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 46677,
@@ -35849,11 +35847,11 @@
           "sourceContentHash": "sha256:76756fb2dd575588",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T23:52:21.973138+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5677730a",
+          "translationLastModified": "2026-09-25T09:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "bytes": 61090,
+          "bytes": 61092,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -41446,8 +41444,8 @@
           "sourceContentHash": "sha256:d196b7664449f36f",
           "sourceBodyHash": "sha256:3affa690cf7b66dc",
           "translatedAt": "2026-09-25T07:26:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5677730a",
+          "translationLastModified": "2026-09-25T09:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 31840,
@@ -49075,18 +49073,18 @@
         "ja": {
           "path": "ja/Lifestyle/taiwan-garbage-truck-music.md",
           "translatedFrom": "Lifestyle/台灣垃圾車音樂.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:e97d739884de9be4",
-          "sourceBodyHash": "sha256:2afb135f1c4dd795",
-          "translatedAt": "2026-05-16T22:19:52+00:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:02bd3943b09e813f",
+          "sourceBodyHash": "sha256:45fcf1e43c9080d6",
+          "translatedAt": "2026-09-25T08:55:33+08:00",
           "translationLastCommit": "3521fd77",
           "translationLastModified": "2026-05-17T06:34:49+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 15235,
+          "footnoteDefs": 19,
+          "bytes": 22558,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (19→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-garbage-truck-music.md",
@@ -49155,18 +49153,18 @@
         "id": {
           "path": "id/Lifestyle/taiwan-garbage-truck-music.md",
           "translatedFrom": "Lifestyle/台灣垃圾車音樂.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:e040549a241564ef",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-04T06:42:53.937407+00:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:02bd3943b09e813f",
+          "sourceBodyHash": "sha256:45fcf1e43c9080d6",
+          "translatedAt": "2026-09-25T08:55:34+08:00",
           "translationLastCommit": "7c7010f9",
           "translationLastModified": "2026-08-04T15:52:41+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 12266,
+          "footnoteDefs": 19,
+          "bytes": 20839,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (19→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-garbage-truck-music.md",
@@ -116078,7 +116076,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/cheap-youtuber.md",
+          "translatedFrom": "People/Cheap.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:0feccf50e70e790f",
+          "sourceBodyHash": "sha256:bec1cc9ae32ba029",
+          "translatedAt": "2026-09-25T08:55:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "bytes": 31229,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -140078,7 +140089,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/nieh-yung-jen.md",
+          "translatedFrom": "People/聶永真.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:54a5de1265f2b2ea",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T01:52:55.045593+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 98437,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -164857,17 +164881,17 @@
           "path": "id/Food/marble-soda.md",
           "translatedFrom": "Food/彈珠汽水.md",
           "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:94fee3f09e86ab27",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-09T09:01:47.740023+00:00",
+          "sourceContentHash": "sha256:285a5868a3aa5597",
+          "sourceBodyHash": "sha256:c3f4128a5ed93797",
+          "translatedAt": "2026-09-25T08:55:34+08:00",
           "translationLastCommit": "2f92ca8c",
           "translationLastModified": "2026-08-09T17:28:58+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 11008,
+          "bytes": 10590,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "pt": {
           "path": "pt/Food/marble-soda.md",
@@ -166948,18 +166972,18 @@
         "ja": {
           "path": "ja/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:3c85e554c80495b9",
-          "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-08-04T17:42:34+08:00",
+          "sourceCommitSha": "4e22e3bb9",
+          "sourceContentHash": "sha256:3d54c34f765113cd",
+          "sourceBodyHash": "sha256:fa292335dae74f0c",
+          "translatedAt": "2026-09-25T08:55:33+08:00",
           "translationLastCommit": "8c5d00a4",
           "translationLastModified": "2026-08-04T19:19:38+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 12995,
+          "footnoteDefs": 14,
+          "bytes": 23028,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→8)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/ponlai-rice.md",
@@ -188009,7 +188033,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/hsinchu-county.md",
+          "translatedFrom": "Geography/新竹縣.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:091b9844837415a1",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T01:12:35.038676+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 60855,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -189014,11 +189051,11 @@
           "sourceContentHash": "sha256:1aab357813ec41e3",
           "sourceBodyHash": "sha256:4f2293becc2b45da",
           "translatedAt": "2026-09-25T07:26:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5677730a",
+          "translationLastModified": "2026-09-25T09:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 52904,
+          "bytes": 52906,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -195259,7 +195296,20 @@
           "diffSummary": "+3 -3"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/chiayi-city.md",
+          "translatedFrom": "Geography/嘉義市.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:789e2bd45ea7b5f4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T01:26:08.361654+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 54579,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -209044,11 +209094,11 @@
           "sourceContentHash": "sha256:5bf5af7cbb7baf0f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T00:15:08.820170+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5677730a",
+          "translationLastModified": "2026-09-25T09:28:36+08:00",
           "inferred": false,
           "footnoteDefs": 56,
-          "bytes": 51398,
+          "bytes": 51404,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
