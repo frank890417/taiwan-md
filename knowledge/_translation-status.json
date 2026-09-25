@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T13:24:42+08:00",
-    "zhCommitHead": "17bf3b1de",
+    "lastUpdated": "2026-09-25T14:30:18+08:00",
+    "zhCommitHead": "e5a8695a2",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1030,
-        "stale": 47,
+        "fresh": 1033,
+        "stale": 44,
         "metadata_stale": 0,
         "missing": 47,
         "orphan": 0
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1053,
+        "fresh": 1056,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 59,
+        "missing": 56,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1022,
+        "fresh": 1025,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 100,
+        "missing": 97,
         "orphan": 0
       }
     },
@@ -4055,20 +4055,18 @@
         "ja": {
           "path": "ja/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b3",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
-          "translatedAt": "2026-07-14T00:51:45+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-25T13:10:48+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 15196,
+          "bytes": 19175,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/megaport-festival.md",
@@ -25666,7 +25664,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-bim-construction-tech.md",
+          "translatedFrom": "Technology/台灣BIM與營建科技.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:f8b3c2310e7fb840",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T05:39:07.237990+00:00",
+          "translationLastCommit": "41785b0f",
+          "translationLastModified": "2026-07-25T08:22:47+08:00",
+          "inferred": false,
+          "footnoteDefs": 53,
+          "bytes": 123040,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/taiwan-bim-construction-tech.md",
@@ -46270,8 +46281,8 @@
           "sourceContentHash": "sha256:71a07c5ea0f34a1e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T03:07:03.079703+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5a8695a",
+          "translationLastModified": "2026-09-25T13:24:43+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 71619,
@@ -51288,8 +51299,8 @@
           "sourceContentHash": "sha256:e67ede9cedeaf7ed",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T04:11:17.851448+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5a8695a",
+          "translationLastModified": "2026-09-25T13:24:43+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "bytes": 99465,
@@ -61424,8 +61435,8 @@
           "sourceContentHash": "sha256:75def73de8a38979",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T03:52:36.010974+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5a8695a",
+          "translationLastModified": "2026-09-25T13:24:43+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 64656,
@@ -63008,7 +63019,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/medical-care-act.md",
+          "translatedFrom": "Society/醫療法.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:a87fc88d09f6e189",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T05:17:36.288177+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "bytes": 95672,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -70191,7 +70215,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-sports-olympics.md",
+          "translatedFrom": "Society/台灣體育發展與奧運.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:a575707a54edea46",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T06:14:36.421291+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 55,
+          "bytes": 40499,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -79234,7 +79271,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/About/visualization-module-catalog.md",
+          "translatedFrom": "About/視覺化模組型錄.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:6617087ac0d0a536",
+          "sourceBodyHash": "sha256:f6a2ecc9e1606c44",
+          "translatedAt": "2026-09-25T13:10:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "bytes": 24108,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -84816,7 +84866,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Nature/taiwan-climate-change-net-zero-transition.md",
+          "translatedFrom": "Nature/台灣氣候危機與淨零轉型.md",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:3b72a54becd4e249",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T05:16:02.671097+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 45,
+          "bytes": 155196,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -107746,8 +107809,8 @@
           "sourceContentHash": "sha256:73a411edb3bee540",
           "sourceBodyHash": "sha256:4ab6cbf6e5c250a3",
           "translatedAt": "2026-09-25T12:01:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5a8695a",
+          "translationLastModified": "2026-09-25T13:24:43+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 30466,
@@ -183700,8 +183763,8 @@
           "sourceContentHash": "sha256:f212b82c110bd5ef",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T04:59:37.429433+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5a8695a",
+          "translationLastModified": "2026-09-25T13:24:43+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "bytes": 25425,
@@ -192488,20 +192551,18 @@
         "ja": {
           "path": "ja/Geography/yunlin-county.md",
           "translatedFrom": "Geography/雲林縣.md",
-          "sourceCommitSha": "036da279d",
-          "sourceContentHash": "sha256:68dcc74d52d8c737",
-          "sourceBodyHash": "sha256:24b0d8d16f592539",
-          "translatedAt": "2026-05-18T05:08:08+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:189f50627b664502",
+          "sourceBodyHash": "sha256:7144cde6e4cd475f",
+          "translatedAt": "2026-09-25T13:10:48+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "bytes": 64238,
+          "bytes": 62270,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+23 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/yunlin-county.md",
@@ -192793,7 +192854,20 @@
           "diffSummary": "+24 -9"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/lienchiang-county.md",
+          "translatedFrom": "Geography/連江縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2038e5c6672647ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T05:53:00.905764+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "bytes": 130886,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/lienchiang-county.md",
@@ -194833,20 +194907,18 @@
         "ja": {
           "path": "ja/Geography/nantou-county.md",
           "translatedFrom": "Geography/南投縣.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:c80f3accc7342bb8",
-          "sourceBodyHash": "sha256:9116715a2d516221",
-          "translatedAt": "2026-06-16T17:05:15Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3e20b5d7cae61e95",
+          "sourceBodyHash": "sha256:b09f70f5d82caaa2",
+          "translatedAt": "2026-09-25T13:10:48+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 51864,
+          "bytes": 53246,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+7 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/nantou-county.md",
@@ -199110,8 +199182,8 @@
           "sourceContentHash": "sha256:c6dd24e6a4e09fdc",
           "sourceBodyHash": "sha256:009e89e5797639ab",
           "translatedAt": "2026-09-25T12:01:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5a8695a",
+          "translationLastModified": "2026-09-25T13:24:43+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 11515,
