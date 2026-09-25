@@ -1,85 +1,159 @@
 ---
-title: 'Beras Penglai: Sebutir Beras yang Menulis Ulang Sejarah Pertanian dan Pemandangan Meja Makan Taiwan Selama Seratus Tahun'
-description: 'Dari perjalanan pemuliaan tanaman oleh Iso Eikichi dan Suenaga Jin pada masa penjajahan Jepang, hingga penyebaran Taichung 65, beras Penglai tidak hanya memecahkan krisis pangan, tetapi juga memengaruhi secara mendalam sosial-ekonomi dan identitas budaya Taiwan.'
-date: 2026-06-25
+title: 'Bonglai Mi: Bagaimana Sebutir Beras Mengubah Lanskap Pertanian dan Meja Makan Taiwan Selama Seratus Tahun'
+description: 'Dari gejolak beras Jepang pada tahun 1918, pemuliaan oleh Iso Nagichi dan Suei Nagito, hingga No. 65 Taichung, padi hasil panen pasca-perang, dan pemuliaan presisi saat ini, Bonglai Mi tidak hanya mengubah rasa nasi, tetapi juga sistem pertanian, lanskap lokal, dan memori sejarah Taiwan.'
+date: 2026-08-20
 category: 'History'
 tags:
   [
-    'Beras Penglai',
+    'Bonglai Mi',
     'Pertanian Taiwan',
-    'Masa Penjajahan Jepang',
-    'Iso Eikichi',
-    'Suenaga Jin',
-    'Taichung 65',
-    'Pangan',
+    'Periode Pemerintahan Jepang',
+    'Iso Nagichi',
+    'Suei Nagito',
+    'No. 65 Taichung',
+    'Bahan Pangan',
     'Budaya Taiwan',
   ]
 subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-06-25
+lastVerified: 2026-08-20
 lastHumanReview: false
-readingTime: 12
+readingTime: 14
 curation: 'incubating'
 translatedFrom: 'History/蓬萊米.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:3c85e554c80495b9'
-sourceBodyHash: 'sha256:39ddb75027efa4b4'
-translatedAt: '2026-08-04T20:19:11+08:00'
+sourceCommitSha: '4e22e3bb9'
+sourceContentHash: 'sha256:3d54c34f765113cd'
+sourceBodyHash: 'sha256:fa292335dae74f0c'
+translatedAt: '2026-09-25T07:26:05+08:00'
 ---
 
-> **Ringkasan 30 Detik:** Pada 1918, Krisis Beras Jepang memicu pemerintah kolonial untuk mendorong perbaikan padi di Taiwan. Di bawah usaha para ilmuwan pertanian Iso Eikichi dan Suenaga Jin selama lebih dari sepuluh tahun, berhasil dikembangkan "Beras Penglai" yang cocok dengan iklim Taiwan, terutama "Taichung 65" yang memiliki hasil panen tinggi, kualitas unggul, dan ketahanan terhadap penyakit. Hal ini tidak hanya memenuhi kebutuhan beras Jepang, tetapi juga mengubah secara fundamental pola produksi pertanian dan budaya kuliner Taiwan, menjadi fondasi penting perkembangan Taiwan selama seratus tahun. Saat ini, varietas beras utama di meja makan Taiwan hampir semuanya mengandung "darah" Taichung 65, menyaksikan dampak mendalam sebutir beras ini bagi masyarakat Taiwan.
+> **Ringkasan 30 Detik:** Gejolak beras Jepang tahun 1918 mendorong kecemasan pangan kekaisaran ke Taiwan; Iso Nagichi dan Suei Nagito, yang tiba pada tahun 1912, serta pedagang beras Li Pengyi yang bersedia mengambil risiko pasar, secara berurutan mengubah padi Jepang yang awalnya tidak cocok untuk dataran rendah Taiwan menjadi Bonglai Mi yang dapat ditanam, dipanen, dan dikonsumsi sehari-hari oleh orang Taiwan. No. 65 Taichung, yang muncul pada tahun 1929, kemudian menjadi tulang punggung bagi banyak pemuliaan padi di Taiwan. Sejarah ini adalah persimpangan antara ilmu pertanian, ekonomi kolonial, perdagangan lokal, dan selera kuliner. [^1] [^2] [^3]
 
-Pada Agustus 1918, Prefektur Toyama Jepang meledakkan "Krisis Beras" yang mengejutkan seluruh negeri[^1]. Saat itu, para perempuan nelayan turun ke jalan meminta keadilan karena harga beras melonjak dan tidak ada beras untuk dimasak, protes ini dengan cepat menyebar ke seluruh negara, dan akhirnya menyebabkan mundurnya kabinet. Gerakan sosial ini tidak hanya menonjolkan krisis pangan yang serius di dalam negeri Jepang, tetapi juga mendorong pemerintah Jepang mengarahkan pandangannya ke koloni Taiwan, berharap dapat memecahkan masalah pangan kekaisaran melalui peningkatan produksi padi di Taiwan[^1]. Namun, "Beras Asli" (秈米, padi tipe indica) yang luas ditanam di Taiwan saat itu memiliki tekstur longgar dan rasa manis rendah, sangat berbeda dengan "Beras Japonica" (粳米, padi bulat) yang dibiasakan orang Jepang, sehingga beras Taiwan sulit memenuhi kebutuhan pasar Jepang secara langsung[^2].
+![Ladang padi hijau di Luye, Taitung, menampilkan lanskap pertanian Taiwan modern](https://upload.wikimedia.org/wikipedia/commons/1/14/Green_Rice_Fields_in_Luye%2C_Taiwan_-_June_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-📝 Catatan Kurator: Sebuah gerakan sosial di negeri jauh, ternyata mampu menggerakkan transformasi nasi di meja makan Taiwan, hubungan sejarah sering kali mengejutkan. Hal ini juga mengingatkan kita, masalah pangan yang tampak sederhana, di baliknya sering menggerakkan struktur politik dan sosial yang kompleks.
+_Ladang Padi Luye, difoto oleh Jun Jie Yam (Pengguna Wikimedia Commons YJJcoolcool), CC BY 4.0; [Halaman File](https://commons.wikimedia.org/wiki/File:Green_Rice_Fields_in_Luye,_Taiwan_-_June_2023.jpg)/[Syarat Lisensi](https://creativecommons.org/licenses/by/4.0/deed.en).[^10] Gambar ini adalah lanskap pertanian modern, bukan foto sejarah dari sejarah pemuliaan Bonglai Mi._
 
-Untuk memecahkan dilema ini, pada 1912, seorang ilmuwan pertanian muda yang baru lulus dari Universitas Teikoku Tohoku, Fakultas Pertanian, Iso Eikichi (磯永吉), tiba di Taiwan, memikul tugas berat perbaikan padi[^2]. Sebelum itu, Pemerintah Jenderal Gubernur Taiwan sudah memperkenalkan 145 varietas padi "Dalam Negeri" (內地種) dari Jepang untuk dicoba tanam, tetapi semuanya gagal karena tidak cocok dengan iklim Taiwan[^2]. Iso Eikichi memanfaatkan latar belakang akademiknya untuk secara sistematis mengklasifikasikan varietas padi Taiwan, dan menetapkan bahwa "pengembangan varietas Dalam Negeri" adalah arah perkembangan perbaikan padi Taiwan[^2].
+## Mari Mulai dengan Gejolak Beras
 
-### Perjalanan Panjang Pemuliaan dari "Varietas Asli" ke "Varietas Dalam Negeri"
+Pada Agustus 1918, para wanita desa nelayan di Prefektur Toyama, Jepang, mengajukan keluhan di depan pedagang beras karena kenaikan harga beras yang drastis, sehingga pendapatan buruh tidak cukup untuk membeli beras yang dibutuhkan keluarga. Tuntutan "jangan kirim beras ke tempat lain" menyebar dari tingkat lokal menjadi gejolak beras berskala nasional di Jepang, yang akhirnya menyebabkan kabinet mengundurkan diri. Gerakan sosial ini mendorong pemerintah Jepang untuk lebih giat mencapai swasembada pangan di dalam kekaisaran dan mempercepat kebijakan peningkatan produksi serta pemuliaan padi kolonial. [^1]
 
-Kedatangan Iso Eikichi menyuntikkan harapan baru bagi perbaikan padi Taiwan. Ia menemukan bahwa varietas Jepang di Taiwan memiliki tingkat pembentukan malai rendah, utamanya karena lingkungan Taiwan yang panas dan lembab, menyebabkan waktu berbunga singkat dan tingkat penyerbukan rendah[^3]. Awalnya, percobaannya di Taipei juga berulang kali gagal, tetapi ia tidak menyerah. Pada 1914, Iso Eikichi mengusulkan metode "Pemisahan Garis Murni" berdasarkan genetika Mendel, untuk menyaring garis keturunan unggul padi Taiwan[^3]. Di saat yang sama, ia juga memperhatikan tokoh kunci lain — Suenaga Jin (末永仁).
+Ini bukanlah kisah garis lurus dari kebijakan Jepang menuju piring makan Taiwan. Orang Jepang terbiasa mengonsumsi beras yang pendek butir dan lengket. Beras lokal yang secara umum dikonsumsi oleh orang Taiwan adalah beras panjang, yang cenderung lebih lepas setelah dimasak. Pemerintah kolonial ingin Taiwan menghasilkan banyak padi, dan juga ingin beras tersebut sesuai dengan selera pasar Jepang; oleh karena itu, "meningkatkan produksi" dan "mengubah kualitas beras" menjadi dua sisi dari satu rencana pertanian. [^1] [^7]
 
-Suenaga Jin (末永仁), seorang anak petani dari Prefektur Fukuoka, Jepang, sejak 1910 sudah datang ke Perkebunan Chiayi (嘉義農場) Taiwan, bekerja di bidang perbaikan padi[^4]. Ia tiba di Taiwan lebih awal dari Iso Eikichi, dan dengan ketekunan serta keahliannya di ladang, mendapat apresiasi Iso Eikichi. Pada 1914, Suenaga Jin dipindahkan ke Perkebunan Percobaan Negara Taichung (台中州試驗農場), bertanggung jawab atas persilangan pemuliaan padi dan praktik budidaya padi Jepang. Setiap pagi ia turun ke ladang mengamati pertumbuhan bibit, bahkan saat menghadapi hambatan, ia berdiskusi bersama Iso Eikichi untuk mencari jalan keluar, keduanya bekerja sama sebagai "mitra tangan kanan", menegakkan fondasi yang kokoh bagi perbaikan budidaya padi Taiwan[^4].
+> 📝 Catatan Kurator: Sebuah gerakan sosial dari kejauhan tidak hanya memengaruhi harga pangan, tetapi juga standar "apa yang dianggap sebagai makanan enak" di pulau lain.
 
-📝 Catatan Kurator: Terobosan penelitian ilmiah, sering kali tidak hanya mengandalkan kebijaksanaan di laboratorium, tetapi juga membutuhkan keringat dan ketekunan di ambang sawah. Kolaborasi Iso Eikichi dan Suenaga Jin, persis merupakan teladan sempurna penyatuan teori dan praktik.
+## Iso Nagichi Tidak Menemukan Tanah Kosong
 
-Pada 1921, Kepala Urusan Pertanian Taipei, Hirasawa Kichiro (平澤龜一郎), menemukan padi "Nakamura-shu" (中村種) yang tumbuh subur di Chuzihu (竹子湖), Gunung Yangming[^3]. Lingkungan Chuzihu yang sejuk, lembab, dan tanah subur, mirip dengan iklim Kyushu Jepang, memberikan kondisi sangat baik bagi pertumbuhan padi Jepang. Penemuan ini menjadi titik balik besar dalam perbaikan padi[^3]. Suenaga Jin kemudian mengusulkan "Metode Tanam Bibit Muda" yang membuat sejarah, dengan memperpendek masa bibit untuk mengubah siklus pertumbuhan tanaman, berhasil memecahkan masalah padi Jepang yang berbunga terlalu dini karena iklim, sehingga "Nakamura-shu" dapat turun dari dataran tinggi gunung ke dataran rendah[^2]. Sejak itu, penyebaran Nakamura-shu di Taiwan semakin luas, menempatkan fondasi bagi Beras Penglai di kemudian hari.
+Pada tahun 1912, Iso Nagichi tiba di Taiwan dan memasuki Stasiun Percobaan Pertanian Pemerintahan Gubernur Taiwan. Sebelumnya, pemerintahan gubernur telah menguji lebih dari seratus jenis padi Jepang, tetapi padi Jepang tidak stabil dalam merespons suhu tinggi, kelembapan, dan sinar matahari Taiwan; sering kali berbunga terlalu cepat atau terlambat, sehingga sulit untuk dibudidayakan secara massal di dataran rendah. Iso Nagichi kemudian menangani perdebatan antara "memperbaiki varietas lokal yang sudah ada" dan "memperkenalkan padi Jepang" melalui klasifikasi jenis dan perbandingan varietas. [^1] [^2]
 
-### Kelahiran Beras Penglai dan Keajaiban "Taichung 65"
+Penelitian Iso Nagichi bukanlah sekadar memindahkan "beras Jepang" ke Taiwan secara utuh. Ia menemukan bahwa rendemen varietas Jepang rendah di Taiwan, yang terkait dengan waktu berbunga yang singkat dan tingkat penyerbukan yang dipengaruhi oleh suhu tinggi dan kelembapan. Pada tahun 1914, ia menyaring galur unggul padi Taiwan menggunakan genetika Mendel dan metode pemisahan murni, sambil memperluas fokus penelitian ke Stasiun Percobaan Pertanian Taichung. [^2]
 
-1926 adalah tahun yang bermakna luar biasa bagi Iso Eikichi dan Suenaga Jin. Gubernur Taiwan ke-17, Izawa Takio (伊澤多喜男), dalam "Rapat Besar Beras Jepang" (大日本米穀會) di Hotel Stasiun Kereta Api Taipei, secara resmi menamai "Nakamura-shu" yang berhasil diperbaiki sebagai "Beras Penglai" (蓬萊米)[^2]. Nama ini tidak hanya melambangkan tonggak baru pertanian Taiwan, tetapi juga menampung harapan terhadap hasil bumi yang melimpah di "Pulau Bidadari Penglai" (蓬萊仙島) ini. Namun, tantangan pasca-penamaan datang beruntun. Bulan Juli tahun yang sama, Beras Penglai diserang penyakit hawar daun (稻熱病), hasil panen suram, membuat pekerjaan penyebaran menghadapi tekanan besar[^3].
+Suei Nagito datang lebih awal dari Iso Nagichi. Teknisi yang berasal dari keluarga petani di Fukuoka, Jepang ini, telah terlibat dalam perbaikan padi di Peternakan Chiayi sejak tahun 1910. Pada tahun 1914, ia pindah ke Stasiun Percobaan Taichung untuk mengurus persilangan benih dan budidaya lapangan. Laporan PanSci menggambarkan keduanya sebagai kolaborasi "tangan terampil": Iso Nagichi menyusun teori dan varietas, sementara Suei Nagito menghabiskan waktu lama di ladang percobaan mengamati bibit dan tangkai padi. [^1]
 
-1927, "Krisis Showa" (昭和恐慌) melanda dunia, harga beras anjlok drastis, keinginan petani menanam Beras Penglai turun drastis[^2]. Saat itu, pedagang beras dari Huatan (花壇), Changhua (彰化), Li Pengyi (李鵬儀) berani maju, ia berjanji membeli seluruh hasil panen Beras Penglai petani, apa pun hasil panennya. Meskipun awalnya karena hawar daun, kekeringan, dan badai angin serta hujan, pabrik giling milik Li Pengyi menganggur hampir tiga tahun, hampir bangkrut, tetapi ia tetap menepati janji, terus mendukung petani[^3].
+## Zhuzihu: Dari Budidaya Lokal Pegunungan ke Dataran Rendah
 
-📝 Catatan Kurator: Di bawah ujian ganda sains dan ekonomi, kepercayaan dan ketekunan seorang pedagang beras, menjadi kekuatan kunci mendorong reformasi pertanian. Pandangan jauh dan rasa tanggung jawab Li Pengyi, menebarkan jalan bagi penyebaran Beras Penglai.
+Pada tahun 1921, Kepala Departemen Pertanian Prefektur Taipei, Hirazawa Kiichiro, memperhatikan bahwa padi Jepang yang tumbuh di Zhuzihu, Gunung Yangmingshan, sangat baik. Iklim dan topografi Zhuzihu yang lebih sejuk dan tertutup mirip dengan Kyushu, Jepang, sehingga cocok untuk mengisolasi varietas berbeda dan mempertahankan kemurnian galur asli. Tempat ini kemudian menjadi lokasi budidaya galur asli Bonglai Mi, menghubungkan konservasi varietas dengan pemuliaan lapangan. [^1] [^4]
 
-Di bawah usaha tak henti Iso Eikichi dan Suenaga Jin, mereka menyilangkan varietas tahan hama "Kameji" (龜治) dengan varietas hasil tinggi "Jinriki" (神力), dan pada 1929 berhasil memuliakan "Taichung 65" (台中65號) yang membuat sejarah[^4]. Varietas baru ini memiliki keunggulan hasil tinggi, kualitas baik, tahan hawar daun, adaptasi kuat, dan tidak peka terhadap fotoperiode, cocok untuk budidaya musim tanam pertama dan kedua di Taiwan[^4]. Tahun yang sama, di bawah kondisi cuaca yang mendukung, Li Pengyi memperluas area pembelian hingga 1.500甲 (sekitar 1.470 hektar), menyebabkan Beras Penglai di Dajia (大甲), Yuanlin (員林), Beidou (北斗) dan sekitarnya panen besar, hasil panen mencapai tiga kali lipat beras asli[^3]. Keberhasilan ini tidak hanya membuat Li Pengyi menebus kerugian masa lalu, yang lebih penting, ia sepenuhnya memenangkan kepercayaan petani. Tahun berikutnya, 75% sawah Taiwan beralih menanam Beras Penglai, budidaya padi Taiwan sejak itu terbalik[^3]. Hingga 1936, "Taichung 65" dengan ketahanan penyakit dan adaptasi yang lebih stabil, sudah secara masif menggantikan "Nakamura-shu", menjadi varietas utama Beras Penglai Taiwan, membuka babak baru budidaya padi Taiwan[^6].
+Pada tahun 1923, Suei Nagito mengajukan metode penanaman bibit yang mempersingkat fase bibit dari sekitar dua bulan menjadi sekitar satu bulan, sehingga mengubah siklus pertumbuhan tanaman dan mengurangi masalah padi Jepang di Taiwan karena berbunga terlalu cepat akibat sinar matahari dan iklim. Beras Nakamura tidak lagi hanya bisa berada di lingkungan pegunungan khusus, tetapi memiliki kesempatan untuk menuju dataran rendah Taiwan. [^2] [^5]
 
-### Dampak Mendalam Beras Penglai dan Kontroversi yang Belum Berakhir
+Perubahan ini menunjukkan bahwa pemuliaan bukan hanya tentang "mengubah gen" atau "memilih varietas baru". Waktu penanaman, ukuran bibit, ketinggian lahan, metode isolasi, dan apakah petani dapat mengoperasikan metodenya, semuanya dapat menentukan apakah sebutir padi dapat beralih dari ladang percobaan menjadi komoditas industri.
 
-Keberhasilan Beras Penglai, tidak hanya memenuhi kebutuhan pangan Jepang, tetapi juga secara mendalam mengubah wajah pertanian Taiwan. Ia meningkatkan produksi beras, memperbaiki penghidupan petani, dan mendorong teknologi pertanian Taiwan menuju modernisasi. Semangat pemuliaan Iso Eikichi dan Suenaga Jin, serta wawasan bisnis Li Pengyi, bersama-sama mengarang halaman gemilang dalam sejarah pertanian Taiwan. Iso Eikichi setelah perang tetap tinggal di Taiwan mengajar, terus berdedikasi untuk pertanian Taiwan, hingga 1957 baru kembali ke Jepang, dipuji sebagai "Ayah Beras Penglai", "Pahlawan Pertanian Taiwan"[^3].
+## Nama Bonglai Mi dan Kerentanan Beras Nakamura
 
-Namun, penyebaran Beras Penglai juga disertai kontroversi. Pemerintah kolonial mendorong peningkatan produksi padi, utamanya untuk memenuhi kebutuhan Jepang proper, bukan sepenuhnya mempertimbangkan kepentingan lokal Taiwan. Hal ini menyebabkan perkembangan pertanian Taiwan pada tingkat tertentu terikat pada kebijakan kolonial, juga memicu diskusi tentang masalah struktur ekonomi seperti "Beras dan Gula Saling Menghalangi" (米糖相剋)[^5]. Di bawah kebijakan kolonial "Jepang Industri, Taiwan Pertanian", produksi pertanian Taiwan diatur sangat ketat, luas tanam dan hasil panen padi serta tebu dikendalikan dengan ketat, pilihan petani dibatasi. Meskipun Beras Penglai membawa manfaat ekonomi, tetapi juga memperkuat peran Taiwan sebagai "Lumbung Pangan" Jepang, membuat struktur ekonomi Taiwan呈現 "Kedua Beras Berdampingan" (稉秈並存) dualitas, yaitu beras asli utamanya untuk konsumsi orang Taiwan, sedangkan Beras Penglai diekspor massal ke Jepang[^7]. Struktur dualitas ini mencerminkan kompleksitas dan kontradiksi perkembangan pertanian Taiwan di bawah pemerintahan kolonial.
+Pada tahun 1926, padi yang diproduksi di Taiwan dinamai "Bonglai Mi" pada pertemuan ke-19 Asosiasi Beras Jepang Raya. Nama ini diambil dari Gunung Xianlai (蓬萊), sebuah gunung mitologis, membungkus objek pertanian yang telah diperbaiki di Taiwan tetapi berasal dari pengenalan padi Jepang sebagai simbol kekayaan alam Taiwan. [^1] [^5]
 
-Penelitian terbaru lebih lanjut menemukan, gen "Taichung 65" kemungkinan tercampur gen padi gogo pegunungan Taiwan, hal ini mengisyaratkan bahwa dalam proses pemuliaan, selain usaha manusia, aliran gen alami (introgression) di alam juga memainkan peran tak terduga, menambah lebih banyak lapisan interpretasi bagi sejarah ini[^4][^8]. Temuan ini menantang pandangan tradisional yang sepenuhnya mengaitkan pemuliaan dengan operasi presisi ilmuwan, mengungkap keajaiban yang terjalin antara faktor alami dan buatan.
+Namun, penamaan tidak sama dengan kesuksesan. Pada tahun yang sama, Bonglai Mi menderita penyakit hawar beras, menyebabkan panen yang buruk. Tim penelitian terus melakukan perbaikan dalam arah luas, produktivitas tinggi, tahan garam, tahan hama, dan tahan penyakit. Padi yang tumbuh baik di ladang galur asli masih memerlukan stabilitas dan pasar agar menjadi komoditas yang bersedia ditanggung oleh petani. [^1]
 
-Kisah Beras Penglai, adalah sebuah epik tentang sains, ketekunan, bisnis, dan transformasi sosial. Ia bukan hanya kisah sebutir beras, lebih merupakan cerminan bagaimana Taiwan selama seratus tahun, dalam konteks sejarah yang kompleks, mencari kelangsungan hidup dan perkembangan. Saat ini, varietas beras utama di meja makan Taiwan, seperti Tainung 9 (台稉九號), Yuguang Mai (越光米) dll., hampir semuanya mengalirkan "darah" "Taichung 65", sebutir beras ini tidak hanya adalah fondasi keamanan pangan Taiwan, tetapi juga warisan penting modernisasi pertanian Taiwan[^6]. Saat kita menikmati nasi Beras Penglai yang wangi dan kenyal, seharusnya kita menoleh ke belakang sejarah ini yang butir-butirnya penuh kesulitan, serta para pelopor yang telah mengorbankan seumur hidup untuknya, kisah mereka, sudah lama menyatu dengan tanah dan budaya Taiwan.
+Kepanikan Showa pada tahun 1927 menyebabkan harga beras turun, mengurangi insentif bagi petani untuk menanam Bonglai Mi. Li Pengyi, pedagang beras dari Rumah Bunga Changhua, menjamin pembelian berdasarkan luas tanam, bukan hanya berdasarkan hasil panen tahun itu. Kerugian akibat hawar beras, kekeringan, dan topan secara berurutan terjadi; pabrik penggilingannya sempat kosong selama hampir tiga tahun. Baru setelah hasil panen membaik pada tahun 1929, janji komersial ini benar-benar mendapatkan kepercayaan petani terhadap Bonglai Mi. [^1]
 
-## References
+![Ladang padi dan pemukiman pegunungan di Ruisi, Hualien, yang menampilkan bagaimana pertanian terintegrasi dalam lanskap timur](https://upload.wikimedia.org/wikipedia/commons/9/9b/05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui%2C_Hualien_County%2C_Taiwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-[^1]: [Butir-Butir Beras Penuh Perjuangan, Para Pendukung di Balik Layar yang Membawa Beras Penglai ke Meja Makan — Iso Eikichi dan Suenaga Jin](https://pansci.asia/archives/362733) — PanSci 專文 2023 年
+_Ladang Padi dan Pegunungan Ruisi, Hualien, difoto oleh Marek Slusarczyk (Pengguna Wikimedia Commons Tupungato), CC BY 3.0; [Halaman File](https://commons.wikimedia.org/wiki/File:05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui,\_Hualien_County,\_Taiwan.jpg)/[Syarat Lisensi](https://creativecommons.org/licenses/by/3.0/deed.en).[^11] Gambar ini adalah tautan panas yang bebas lisensi, tidak diunduh atau di-host ulang._
 
-[^2]: [Iso Eikichi dan Suenaga Jin Berjalan di Jalan Kecil di Antara Malai Padi yang Bergoyang — Kisah Beras Penglai Taiwan](http://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/8298) — Zhang Wenliang, Majalah Bulanan Alumni NTU Edisi ke-129
+## No. 65 Taichung: Sebuah Varietas Menjadi Tulang Punggung Pemuliaan
 
-[^3]: [Ahli Pemuliaan yang Malu-Malu — Ibu Beras Penglai, Suenaga Jin](http://iso-house.agron.ntu.edu.tw/doc/%E9%9D%A6%E8%85%86%E7%9A%84%E8%82%B2%E7%A8%AE%E5%AE%B6-%E8%93%AC%E8%90%8A%E7%B1%B3%E4%B9%8B%E6%AF%8D-%E6%9C%AB%E6%B0%B8%E4%BB%81-%E8%AC%9D%E5%85%86%E6%A8%9E.pdf) — Xie Zhaoshu, PDF Rumah Iso Eikichi
+Pada tahun 1929, Iso Nagichi dan Suei Nagito menghasilkan No. 65 Taichung melalui persilangan Guizhi dan Shenli. Laporan dari Academia Sinica menunjukkan bahwa varietas ini memiliki sifat tahan hawar beras dan panen dua kali setahun, dengan kunci utamanya adalah kurangnya sensitivitas terhadap panjang hari. Berita Universitas Nasional Taiwan menyebutnya sebagai nenek moyang sekitar delapan puluh persen padi粳 (japonica) yang dibudidayakan di Taiwan. [^2] [^3]
 
-[^4]: [Menghadapi "Varietas Dalam Negeri":](https://theme.npm.edu.tw/Academic/BookDownload.ashx?bid=951) — Publikasi Akademik Museum Nasional Palace
+Berbagai sumber memiliki statistik perbedaan lebih dari 80% dan 85% mengenai proporsi keturunan, sehingga tidak pantas menulis angka tunggal sebagai persentase yang tanpa sengketa. Kesimpulan yang lebih aman adalah: No. 65 Taichung bukanlah varietas peringatan dalam sejarah Bonglai Mi, melainkan tulang punggung bagi banyak pemuliaan padi di Taiwan setelahnya.
 
-[^5]: [Dampak dan Kontribusi Seratus Tahun Penamaan Beras Penglai](https://www.agriharvest.tw/archives/135666/) — Artikel Khusus AgriMedia
+Penelitian genetik dari Academia Sinica membuat kerangka ini menjadi lebih kompleks. Selain gen Guizhi dan Shenli, No. 65 Taichung juga membawa komponen genetik dari padi darat Muteka dan Nakabo di pegunungan. Ini harus ditulis sebagai temuan penelitian, bukan kesimpulan langsung bahwa "Bonglai Mi adalah beras asli penduduk pribumi". Hal ini benar-benar menunjukkan bahwa pembentukan varietas sering kali merupakan hasil dari seleksi buatan manusia, aliran gen alamiah, dan interaksi lingkungan lokal. [^3]
 
-[^6]: [Kenangan Beras Penglai｜Beras Jepang yang Diperbaiki di Taiwan](https://ourisland.pts.org.tw/content/2580) — PTS "Pulau Kita" Topik Khusus 2017-01-02
+Ketidakpekaan terhadap fotoperiode No. 65 Taichung juga memiliki penjelasan pada tingkat molekuler. Tim penelitian menunjukkan bahwa gen Hd1 pada kromosom keenam membawa urutan tambahan yang menyebabkan gen tersebut kehilangan fungsi aslinya dalam mengatur pematangan dan pembungaan. Akibatnya, padi tidak perlu sepenuhnya mengikuti ritme hari varietas Jepang; ia dapat berbunga dan berbuah secara relatif stabil di lingkungan musim tanam pertama dan kedua di Taiwan. [^3]
 
-[^7]: [Menemukan Sejarah Berbeda dari Angka: "Beras Penglai ke Taiwan — Budidaya Padi dan Ekonomi Taiwan di Masa Penjajahan Jepang" Catatan Kuliah](https://blog.press.ntu.edu.tw/?p=3597) — Pusat Penerbitan NTU Rekaman Kuliah 2015-08-12
+## Keberhasilan Teknis Tidak Dapat Menghapus Ekonomi Kolonial
 
-[^8]: [Beras Penglai Taichung Enam Puluh Lima Versi Tionghoa](https://www.taiunsake.co.jp/%E8%93%AC%E8%90%8A%E7%B1%B3%E5%8F%B0%E4%B8%AD%E5%85%AD%E5%8D%81%E4%BA%94%E5%8F%B7%E4%B8%AD%E6%96%87) — Halaman Perkenalan Japan Taiun Sake Brewing LLC
+Bonglai Mi meningkatkan kualitas, kuantitas, dan nilai pasar, yang juga mendorong pembentukan sistem stasiun percobaan, ladang galur asli, dan manajemen varietas. Tinjauan seratus tahun dari Departemen Pertanian membagi jalur ini menjadi beberapa tahap: penanganan adaptasi lingkungan awal, penanganan stabilitas dan produktivitas tinggi pasca-perang, transisi menuju rasa dan karakteristik pada dekade 1980-an, dan penambahan ketahanan iklim, seleksi bantuan molekuler, dan budidaya berkelanjutan sejak tahun 2010-an. [^5]
+
+Pemuliaan padi pasca-perang tidak sama dengan perpanjangan periode pemerintahan Jepang. Catatan Departemen Pertanian mencatat bahwa No. 1 Guangfu, No. 242 Jianong, dan kemudian No. 67 Taifeng secara berturut-turut menanggapi masalah baru seperti ketahanan penyakit, stabilitas produksi, tahan rebah, dan panen mekanis. Pada dekade 1980-an, varietas seperti No. 9 Taichun mencerminkan tuntutan konsumen terhadap rasa dan kualitas. [^5]
+
+Namun, ilmu pertanian kolonial tidak dapat hanya ditulis sebagai "titik awal modernisasi Taiwan". Penelitian menunjukkan bahwa pemuliaan varietas, stasiun percobaan, dan pembangunan irigasi oleh pemerintah kolonial Jepang, di satu sisi meningkatkan produktivitas, namun di sisi lain memasukkan Taiwan ke dalam struktur ekonomi yang memasok pangan dan bahan mentah untuk Jepang, serta memperdalam ketidakmerataan distribusi sumber daya dan stratifikasi sosial. [^6]
+
+Penelitian lain mengingatkan bahwa perubahan preferensi rasa beras Taiwan dari padi darat pegunungan, beras lokal, hingga Bonglai Mi tidak bisa hanya dijelaskan dengan migrasi penduduk. Kebijakan kolonial, teknologi pertanian, dan standar sensorik "apa yang enak" semuanya adalah faktor yang bekerja bersama. [^7]
+
+Oleh karena itu, Bonglai Mi dapat menjadi hasil teknis sekaligus warisan kolonial. Ia memungkinkan banyak keluarga mengonsumsi nasi lengket yang lebih sesuai dengan selera arus utama pada saat itu, dan juga membuat pertanian Taiwan semakin terintegrasi dalam sistem pangan kekaisaran. Menghapus salah satu sisi akan menyisakan bukan sejarah, melainkan narasi prestasi yang searah.
+
+> 📝 Catatan Kurator: Sepiring nasi tidak harus memilih antara "kemajuan" dan "penindasan"; apa yang perlu dijelaskan adalah siapa yang mendapatkan apa darinya, dan siapa yang menanggung biayanya.
+
+## Dari Produktivitas Tinggi Pasca-Perang hingga Pemuliaan Presisi Hari Ini
+
+Kisah Bonglai Mi tidak berakhir pada tahun 1929. Peningkatan populasi pasca-perang, pembangunan irigasi, penggunaan pupuk kimia, dan migrasi tenaga kerja pedesaan menyebabkan tujuan pemuliaan secara bertahap beralih ke ketahanan penyakit, tahan rebah, produktivitas tinggi, dan kesesuaian untuk mekanisasi. Data Departemen Pertanian menyebutkan bahwa No. 67 Taifeng, yang dikembangkan pada tahun 1978, pernah menjadi varietas penting untuk produktivitas tinggi, tahan rebah, dan panen mekanis. [^5]
+
+Sejak dekade 1980-an, Taiwan tidak hanya bertanya "berapa banyak yang bisa dipanen dari satu hektar," tetapi juga "apakah rasanya enak saat dimasak." No. 9 Taichun dan varietas beras wangi serta beras khas setelahnya mencerminkan transisi padi dari komoditas keamanan pangan menjadi makanan dengan nilai tambah, merek, dan perbedaan sensorik. Setelah bergabung dengan WTO pada tahun 2002, persaingan pasar dan tekanan impor juga membuat diferensiasi varietas menjadi lebih penting. [^5]
+
+Memasuki dekade 2010-an, perubahan iklim menjadikan suhu tinggi, curah hujan ekstrem, hama penyakit, dan sumber daya air sebagai kondisi pemuliaan yang baru. Seleksi bantuan molekuler, pemupukan presisi, pemantauan drone, dan budidaya ramah lingkungan mengubah "observasi" di ladang percobaan awal menjadi pekerjaan data yang lebih canggih. Ini tidak berarti petani tidak penting, tetapi pengalaman lapangan dan data genetik, iklim, serta manajemen dimasukkan ke dalam kerangka pengambilan keputusan yang sama. [^5]
+
+### Dari "Banyak Panen" Menjadi "Memiliki Nama untuk Dimakan"
+
+No. 67 Taifeng dapat mewakili tahap transisi pertanian pasca-perang dari keamanan pangan menuju mekanisasi. Situs web pengetahuan pertanian mencatat bahwa tujuan pemuliaan setelah dekade 1960 adalah tahan rebah dan produktivitas tinggi, dengan batang yang kuat, adaptabilitas luas, dan cocok untuk panen mekanis. Antara tahun 1979 dan 1998, varietas ini pernah menjadi salah satu yang paling luas dibudidayakan di Taiwan, bahkan melebihi tujuh puluh persen pada suatu waktu. [^12]
+
+Kesuksesan varietas semacam itu memiliki perbedaan penting dari kisah No. 65 Taichung: pemuliaan awal harus membuat padi bertahan hidup di Taiwan, sementara pemuliaan pasca-perang harus memastikan panen yang stabil dalam kondisi berkurangnya tenaga kerja, meningkatnya pupuk, dan mekanisasi. Padi berubah dari objek kebijakan pangan kekaisaran menjadi masalah keamanan pangan nasional dan efisiensi produksi pertanian pasca-perang.
+
+Pada dekade 1980-an, pasar mulai menuntut hal lain: apakah nasi memiliki rasa, aroma, dan daerah asal yang lebih jelas? No. 9 Taichun dikembangkan oleh Hsu Zhishang, dan kemudian menjadi varietas beras berkualitas penting di pasar Taiwan. 《Taiwan Guanghua》 mencatat bahwa varietas seperti No. 194 Taichung dan No. 16 Tainan membawa nama varietas, rasa, dan merek ke hadapan konsumen. [^13]
+
+Perubahan ini mengubah bahasa "nasi yang enak". Sebelumnya, pertanyaannya adalah berapa banyak yang bisa dipanen per hektar; kemudian mulai ditanyakan tentang pati rantai lurus, kelengketan, aroma, kesesuaian untuk membuat bubur atau onigiri, dan apakah konsumen bersedia membayar lebih untuk varietas dan daerah asalnya. Padi tidak lagi hanya makanan pokok putih tanpa nama, tetapi mulai memiliki riwayat rasa yang dapat dikenali seperti teh dan kopi.
+
+Daftar varietas dari Pusat Pemuliaan Pertanian Distrik Tainan menunjukkan bahwa jalur ini terus berlanjut: No. 11 Tainan diluncurkan pada tahun 2004, menekankan kualitas dan kuantitas; No. 16 Tainan diselesaikan dengan seleksi bantuan molekuler yang dikerjakan bersama Universitas Nasional Taiwan pada tahun 2012; No. 19 Tainan memasukkan penghematan air, tahan penyakit, dan rendah kandungan pati putih ke dalam tujuan pemuliaan; sementara No. 21 Tainan adalah beras untuk pembuatan minuman keras yang diluncurkan pada tahun 2024. [^14]
+
+Makna seleksi bantuan molekuler bukanlah membuat pemuliaan menjadi proses yang bisa diselesaikan dengan satu tombol. 《Taiwan Guanghua》 mencatat bahwa No. 16 Tainan dikembangkan melalui persilangan materi genetik dari beras Yueguang dan No. 67 Taifeng, dan waktu pengembangan dipersingkat hingga enam tahun melalui seleksi penanda. [^13] Namun, varietas baru masih harus kembali ke ladang percobaan untuk menjalani pengujian ganda terhadap iklim, tanah, penyakit, operasi petani, dan selera pasar. Laboratorium mempercepat penyaringan, tetapi tidak menggantikan penilaian akhir di lapangan.
+
+## Memori Zhuzihu, Iso's Hut, dan Sepiring Nasi
+
+Beras Nakamura kemudian menghilang di Taiwan, namun pada tahun 2016 ia kembali ke ladang Zhuzihu melalui benih yang dikonservasi oleh Departemen Agronomi Universitas Nasional Taiwan dan Institut Genetika Nasional Jepang. Liputan televisi publik mencatat pemulihan budidaya, galur asli, dan tetua lokal, serta perubahan lanskap di mana Zhuzihu kemudian beralih ke bunga dan pertanian rekreasi. [^4]
+
+Gubuk Iso Nagichi di kampus Universitas Nasional Taiwan menyimpan memori lain. Pada tahun 2003, Liu Jianfu menemukan manuskrip dan instrumen yang ditinggalkan oleh Iso Nagichi di dalam rumah, membuat laboratorium yang hampir terlupakan kembali menjadi pintu masuk sejarah pertanian Taiwan. Liputan televisi publik pada tahun 2016 mengingatkan kita: basis penelitian untuk sepiring nasi juga dapat tertimbun oleh kehidupan sehari-hari lebih cepat daripada sepiring nasi itu sendiri. [^4] [^8] [^9]
+
+Bonglai Mi kemudian memasuki bekal, zongzi (kue kukus), onigiri, dan makanan rumahan. Tulisan kuliner yang sudah ada sering menanyakan berapa banyak beras yang dimakan orang Taiwan hari ini. Sejarah Bonglai Mi mengajukan pertanyaan lain: mengapa kita menganggap jenis beras tertentu sebagai "nasi normal"? Jawabannya tidak hanya terletak pada rasa, tetapi juga di stasiun percobaan, pasar kolonial, tanggung jawab petani, pembelian komersial, kebijakan pasca-perang, dan kebiasaan beberapa generasi.
+
+Saat ini, ketika Anda membuka panci listrik, aroma nasi tampak seperti hal biasa yang turun secara alami, padahal tidak. Itu telah melalui kegagalan para peneliti, eksperimen berulang Suei Nagito di ladang, janji pembelian Li Pengyi kepada petani, pengejaran pasca-perang oleh pemulia untuk melawan penyakit dan meningkatkan produktivitas, serta gigitan demi gigitan orang Taiwan yang mengubah padi Jepang menjadi rasa mereka sendiri.
+
+**Hal paling patut diingat dari Bonglai Mi bukanlah apakah ia murni atau tidak, melainkan karena ia menunjukkan kepada kita: cita rasa Taiwan adalah hasil dari percobaan berulang, kegagalan, penyesuaian oleh masyarakat di atas tanah baru.**
+
+## Referensi
+
+[^1]: [Setiap Butir Beras Adalah Kerja Keras, Para Penggerak Lapangan yang Membawa Bonglai Mi ke Meja Makan—Iso Nagichi dan Suei Nagito](https://pansci.asia/archives/362733) — Artikel ilmiah PanSci, mengorganisir peran gejolak beras, klasifikasi varietas, Zhuzihu, Beras Nakamura, dan Li Pengyi.
+
+[^2]: [Iso Nagichi dan Suei Nagito Berjalan di Jalan Kecil dengan Tangkai Padi yang Bergoyang—Kisah Bonglai Mi Taiwan](http://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/8298) — Artikel majalah bulanan alumni Universitas Nasional Taiwan, mencatat perjalanan kedua pemulia, stasiun percobaan, dan No. 65 Taichung.
+
+[^3]: [Padi Darat Pegunungan Sangat Penting! Memecahkan Asal Usul Bonglai Mi Taiwan, Menemukan Petunjuk Migrasi Kelompok Austronesia](https://research.sinica.edu.tw/hsing-yue-le-rice-gene-austronesian/) — Artikel khusus yang diteliti oleh Academia Sinica, menjelaskan ketahanan penyakit, fotoperiode, dan penelitian genetik No. 65 Taichung.
+
+[^4]: [Memori Bonglai Mi | Padi Jepang yang Diperbaiki di Taiwan](https://ourisland.pts.org.tw/content/2580) — Program spesial televisi publik "Pulau Kita", mencatat pemulihan budidaya Beras Nakamura di Zhuzihu, galur asli, dan gubuk Iso.
+
+[^5]: [Perjalanan Pulau Beras: Tinjauan Seratus Tahun Pemuliaan Bonglai Mi](https://theme.moa.gov.tw/showcase.php?id=32) — Tinjauan seratus tahun Departemen Pertanian, mengorganisir pemuliaan produktivitas tinggi pasca-perang, kualitas, beras khas, dan pertanian tangguh modern.
+
+[^6]: [The introduction and impact of food crops in Taiwan during the Japanese colonial period](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1724277/full) — Penelitian hasil peningkatan produktivitas dari perbaikan tanaman selama periode kolonial Jepang, serta ketidaksetaraan sumber daya dan stratifikasi sosial.
+
+[^7]: [The Taste of Colonialism? Changing Norms of Rice Production and Consumption in Modern Taiwan](https://link.springer.com/chapter/10.1007/978-3-030-96268-5_4) — Bab akademis yang menganalisis preferensi beras, kebijakan kolonial, teknologi pemuliaan, dan standar sensorik "nasi enak".
+
+[^8]: [Gubuk Iso Nagichi, 'Bapak Bonglai Mi', Situs Warisan Budaya Menggalang Dana untuk Restorasi](https://news.pts.org.tw/article/338418) — Laporan berita televisi publik mengenai kesulitan restorasi situs warisan gubuk Iso Nagichi dan signifikansi basis penelitian.
+
+[^9]: [Tracing the Roots of Taiwanese Rice](https://www.taiwan-panorama.com/en/Articles/Details?Guid=cf723995-adf6-4202-8532-1e5714c49fc0&CatId=10&postname=Tracing%20the%20Roots%20of%20Taiwanese%20Rice) — Artikel berbahasa Inggris di 《Taiwan Guanghua》, melacak gubuk Iso Nagichi, galur asli Zhuzihu, Beras Nakamura, penamaan Bonglai Mi, dan No. 65 Taichung.
+
+[^10]: [Green Rice Fields in Luye, Taiwan - June 2023.jpg](https://commons.wikimedia.org/wiki/File:Green_Rice_Fields_in_Luye,_Taiwan_-_June_2023.jpg) — Halaman File Wikimedia Commons; Jun Jie Yam, CC BY 4.0, menggunakan tautan panas gambar asli dalam teks.
+
+[^11]: [05 Countryside of Taiwan - rice fields and mountains in Ruisui, Hualien County, Taiwan.jpg](https://commons.wikimedia.org/wiki/File:05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui,_Hualien_County,_Taiwan.jpg) — Halaman File Wikimedia Commons; Marek Slusarczyk, CC BY 3.0, menggunakan tautan panas gambar asli dalam teks.
+
+[^12]: [No. 67 Taifeng](https://kmweb.moa.gov.tw/theme_data.php?theme=important_breed&id=31) — Data varietas dari Situs Web Pengetahuan Pertanian, mencatat tujuan pemuliaan No. 67 Taifeng, karakteristik panen mekanis, dan luas perluasan tahunan.
+
+[^13]: [Taste and Terroir: Taiwan’s Rice Gains Refinement](https://www.taiwan-panorama.com/en/Articles/Details?Guid=9f55739f-871f-4cad-bf79-3d4c05e95f92&CatId=10&postname=Taste%20and%20Terroir%3A%20Taiwan%E2%80%99s%20Rice%20Gains%20Refinement) — Artikel khusus 《Taiwan Guanghua》, mencatat No. 9 Taichun, No. 194 Taichung, No. 16 Tainan, merek kontrak, dan seleksi bantuan molekuler.
+
+[^14]: [Rice](https://www.tndais.gov.tw/en/ws.php?id=2886&font_size=big&print=Y) — Evolusi varietas dari Pusat Pemuliaan Pertanian Distrik Tainan, mencantumkan tahun pengembangan dan kegunaan No. 11, 16, 19, 20, dan 21 Tainan.
