@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T15:18:31+08:00",
-    "zhCommitHead": "8611345bb",
+    "lastUpdated": "2026-09-25T16:00:06+08:00",
+    "zhCommitHead": "79f0d0592",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1037,
-        "stale": 40,
+        "fresh": 1040,
+        "stale": 37,
         "metadata_stale": 0,
         "missing": 47,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1029,
+        "fresh": 1039,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 93,
+        "missing": 83,
         "orphan": 0
       }
     },
@@ -2649,7 +2649,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/taiwan-music-industry-and-the-streaming-era.md",
+          "translatedFrom": "Music/台灣音樂產業與串流時代.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:f71f072559f005b7",
+          "sourceBodyHash": "sha256:39fa5a6a860830cc",
+          "translatedAt": "2026-09-25T15:12:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 18499,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -3216,7 +3229,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/taiwanese-hokkien-song-evolution.md",
+          "translatedFrom": "Music/台灣台語歌曲演進.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:f008ac775b92e042",
+          "sourceBodyHash": "sha256:14cffd9d61fb7eb9",
+          "translatedAt": "2026-09-25T15:12:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 18406,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -4623,8 +4649,8 @@
           "sourceContentHash": "sha256:e201829436b891a1",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
           "translatedAt": "2026-09-25T14:32:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79f0d059",
+          "translationLastModified": "2026-09-25T15:18:31+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 17431,
@@ -7420,7 +7446,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/chou-hui.md",
+          "translatedFrom": "Music/周蕙.md",
+          "sourceCommitSha": "a2811a4f0",
+          "sourceContentHash": "sha256:3f3e19a3f60ba784",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T07:47:42.167943+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 60160,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -19390,18 +19429,18 @@
         "ja": {
           "path": "ja/Economy/taiwan-enterprise-uni-president.md",
           "translatedFrom": "Economy/台灣企業：統一企業.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:3fb7c059831bdebb",
-          "sourceBodyHash": "sha256:481f2cb6cfdcbd21",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "sourceCommitSha": "05ed20149",
+          "sourceContentHash": "sha256:012f47b06c66bfb9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T07:13:11.090448+00:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 10110,
+          "footnoteDefs": 64,
+          "bytes": 69760,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (64→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-enterprise-uni-president.md",
@@ -23786,18 +23825,18 @@
         "ja": {
           "path": "ja/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b344ec326785b46d",
-          "sourceBodyHash": "sha256:a5b8490e2fd9be42",
-          "translatedAt": "2026-05-24T05:06:32+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bbdb130f551a69e8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T07:12:32.737131+00:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 23147,
+          "footnoteDefs": 55,
+          "bytes": 158587,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (55→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/threads-in-taiwan.md",
@@ -26392,20 +26431,18 @@
         "ja": {
           "path": "ja/Technology/taiwan-online-community-migration.md",
           "translatedFrom": "Technology/台灣網路社群遷徙史.md",
-          "sourceCommitSha": "d968559a",
-          "sourceContentHash": "sha256:27a0271b143d3da5",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-23T08:47:33+08:00",
+          "sourceCommitSha": "56f4d6f85",
+          "sourceContentHash": "sha256:0679bda8106e31fc",
+          "sourceBodyHash": "sha256:b5c758f914dccaf4",
+          "translatedAt": "2026-09-25T07:21:36.020627+00:00",
           "translationLastCommit": "488bca45",
           "translationLastModified": "2026-08-29T08:54:17+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "bytes": 52486,
+          "bytes": 53141,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/taiwan-online-community-migration.md",
@@ -46503,7 +46540,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/mtv-rooms-taiwan.md",
+          "translatedFrom": "Lifestyle/MTV包廂.md",
+          "sourceCommitSha": "9b5cb286e",
+          "sourceContentHash": "sha256:8c1e84b77bb235ea",
+          "sourceBodyHash": "sha256:96b8f13a864b5e24",
+          "translatedAt": "2026-09-25T15:12:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "bytes": 23854,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -63049,11 +63099,11 @@
           "sourceContentHash": "sha256:a87fc88d09f6e189",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T05:17:36.288177+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79f0d059",
+          "translationLastModified": "2026-09-25T15:18:31+08:00",
           "inferred": false,
           "footnoteDefs": 62,
-          "bytes": 95672,
+          "bytes": 95676,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -65393,7 +65443,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/media-and-press-freedom-in-taiwan.md",
+          "translatedFrom": "Society/台灣媒體與新聞自由.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:2b07b58b99abcb36",
+          "sourceBodyHash": "sha256:9e2facc3bed645dd",
+          "translatedAt": "2026-09-25T15:12:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 16962,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -70245,8 +70308,8 @@
           "sourceContentHash": "sha256:a575707a54edea46",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T06:14:36.421291+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79f0d059",
+          "translationLastModified": "2026-09-25T15:18:31+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "bytes": 40499,
@@ -79301,8 +79364,8 @@
           "sourceContentHash": "sha256:6617087ac0d0a536",
           "sourceBodyHash": "sha256:f6a2ecc9e1606c44",
           "translatedAt": "2026-09-25T13:10:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79f0d059",
+          "translationLastModified": "2026-09-25T15:18:31+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 24108,
@@ -85948,7 +86011,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/taiwanese-indigenous-ecological-wisdom-conservation.md",
+          "translatedFrom": "Nature/台灣原住民生態智慧與環境保育.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d162c579da0f2b9c",
+          "sourceBodyHash": "sha256:e7b3f8c1b339cc47",
+          "translatedAt": "2026-09-25T15:42:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 23172,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -87336,7 +87412,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Nature/palakaw.md",
+          "translatedFrom": "Nature/Palakaw.md",
+          "sourceCommitSha": "4777e2548",
+          "sourceContentHash": "sha256:76692c261ac4ee59",
+          "sourceBodyHash": "sha256:7ec5f5cc7b44e03c",
+          "translatedAt": "2026-09-25T15:12:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "bytes": 13259,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -88328,11 +88417,11 @@
           "sourceContentHash": "sha256:7e5f1972948a38bd",
           "sourceBodyHash": "sha256:a1bf64af5a7a6426",
           "translatedAt": "2026-09-25T14:32:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79f0d059",
+          "translationLastModified": "2026-09-25T15:18:31+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 25135,
+          "bytes": 25137,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -90309,8 +90398,8 @@
           "sourceContentHash": "sha256:3392858fc71ecf5e",
           "sourceBodyHash": "sha256:a651681f805672fe",
           "translatedAt": "2026-09-25T14:32:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79f0d059",
+          "translationLastModified": "2026-09-25T15:18:31+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 14272,
@@ -191588,11 +191677,11 @@
           "sourceContentHash": "sha256:087fe7b9d4504fbb",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T06:36:51.724612+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79f0d059",
+          "translationLastModified": "2026-09-25T15:18:31+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 63349,
+          "bytes": 63357,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -207872,7 +207961,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/renjian-magazine.md",
+          "translatedFrom": "Culture/人間雜誌.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:2ffcb35d7f3de902",
+          "sourceBodyHash": "sha256:b931a657eacbce86",
+          "translatedAt": "2026-09-25T15:12:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 19710,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -211110,7 +211212,20 @@
           "diffSummary": "+8 -2"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-baseball-culture.md",
+          "translatedFrom": "Culture/台灣棒球文化.md",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:82a373ca1ee51cf4",
+          "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
+          "translatedAt": "2026-09-25T15:47:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "bytes": 16562,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -219481,7 +219596,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/zhuyin-phonetic-symbols.md",
+          "translatedFrom": "Culture/注音符號.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:60ed5696349fd181",
+          "sourceBodyHash": "sha256:220255acfc6a8977",
+          "translatedAt": "2026-09-25T15:12:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 14374,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
