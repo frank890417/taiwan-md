@@ -32,10 +32,10 @@ rationale:
       'PTT 厭女/母豬教完整學術分析 — 作「公共領域繼承權之爭」支線帶過，完整性別分析屬獨立主題',
     ]
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
-sourceCommitSha: 'd968559a8'
-sourceContentHash: 'sha256:27a0271b143d3da5'
-sourceBodyHash: 'sha256:51c89f4d74696613'
-translatedAt: '2026-07-28T03:07:44+08:00'
+sourceCommitSha: '56f4d6f85'
+sourceContentHash: 'sha256:0679bda8106e31fc'
+sourceBodyHash: 'sha256:b5c758f914dccaf4'
+translatedAt: '2026-09-25T18:30:26.475851+00:00'
 ---
 
 > **Resumo de 30 segundos**: Taiwan viu nascer duas vezes a sua própria plataforma de rede — a Estação de Notícias Pessoais do Ming Ri Bao, o Wuming Xiaozhan — a primeira foi sufocada pela bolha da internet de 2001, salva por um comitê de autoajuda de utilizadores; a segunda foi comprada pelo Yahoo e desligada no mesmo dia, 26 de dezembro de 2013; no resto do tempo, os taiwaneses viveram em servidores alheios. Em trinta anos, mudámo-nos do BBS para o Wuming, do Wuming para o Facebook, do Facebook para grupos do LINE, dos grupos do LINE para espreitar o Threads; a cada mudança perdia-se um lote de fotos, um lote de comentários, um pedaço de juventude. O Similarweb mediu em maio de 2024 que os taiwaneses passam em média 11 min 31 s no Threads, o primeiro do mundo — no mesmo período, americanos 5 min 12 s, japoneses 3 min 6 s[^1]. Passamos o tempo todo na pensão menos garantida. A história de migração de trinta anos é contada como uma linha evolutiva limpa (BBS→Wuming→FB→LINE→Threads), mas essa linha filtra a coisa mais crucial: cada mudança é uma reafirmação de "de quem é a terra", e os taiwaneses são sempre inquilinos.
@@ -124,19 +124,19 @@ Ao mesmo tempo, o PTT ainda lá está. Os utilizadores envelhecem; o inquérito 
 
 Durante o Movimento Estudantil Girassol de 2014, o PTT foi a rádio mais imediata entre os estudantes no local e o exterior; durante o referendo do casamento entre pessoas do mesmo sexo de 2018, o fórum Gossiping foi arena de produção massiva de argumentação; durante a eleição presidencial de 2020, os longos posts do Gossiping foram usados pela academia como corpus de primeira mão de investigação de comunicação política. Isto não acontece nos grupos LINE, não porque lá não se discuta política, mas porque a discussão nos grupos LINE sai daquele grupo de 200 pessoas e deixa de existir. Uma sociedade ter ou não registos de discussão pública citáveis decide a cara da memória dessa sociedade. Este fóssil de Taiwan ainda vive, mas já é exemplar único.
 
-## Nunca mais haverá um próximo hegemon
+## Nunca haverá mais um dominante
 
-Em 2011, Lin Yu-chin (林裕欽), aluno do 2º ano de Gestão de Informação da NTU, fez a primeira versão do Dcard[^37]. Inicialmente uma ferramenta "todas as meias-noites tira uma carta, emparelha um estranho", depois virou fórum de universitários, depois virou a rede social com maior taxa de uso entre mulheres de 18-24 anos em Taiwan. Em 2015, Lin Yu-chin fundou a Dcard Inc. (狄卡公司), transformando o Dcard de trabalho de estudante em produto de empresa completa[^38].
+Em 2011, Lin Yu-chin, estudante do segundo ano do Departamento de Ciência da Informação da Universidade Nacional de Taiwan, criou a primeira versão do Dcard [^37]. Inicialmente era uma pequena ferramenta para "sortear um cartão todos à meia-noite e parear com um estranho", mas gradualmente se tornou um fórum universitário, e depois a rede social mais usada por mulheres taiwanesas de 18 a 24 anos. Em 2015, Lin Yu-chin fundou a empresa Dcard, transformando o Dcard de um projeto estudantil em um produto corporativo completo [^38].
 
-Em 5 de julho de 2023, a Meta lançou o Threads. 6 horas 5 milhões, 5 dias 100 milhões[^39], o serviço de rede com crescimento mais rápido da história, sem concorrente. A reação de Taiwan também foi rápida. O Similarweb de maio de 2024 mostra que utilizadores de Taiwan passam em média 11 min 31 s no Threads, primeiros do mundo; no mesmo período EUA 5 min 12 s, Japão 3 min 6 s[^40]. O inquérito MIC 2024Q4 deixa outro divisor de águas: a taxa de uso do Threads em Taiwan atinge 17,5%, pela primeira vez ultrapassa os 17,1% do PTT[^41].
+Em 5 de julho de 2023, a Meta lançou o Threads. Com mais de 5 milhões de usuários em seis horas e mais de 100 milhões em cinco dias [^39], foi o serviço online com o crescimento mais rápido da história. A reação em Taiwan também foi rápida. Dados coletados pela Similarweb em maio de 2024 mostraram que os usuários de Taiwan gastaram, em média, 11 minutos e 31 segundos no Threads, sendo os primeiros do mundo; enquanto nos EUA foram 5 minutos e 12 segundos e no Japão 3 minutos e 6 segundos [^40]. A pesquisa da MIC no Q4 de 2024 revelou outro ponto de inflexão: a taxa de uso do Xuite em Taiwan atingiu 17,5%, ultrapassando pela primeira vez os 17,1% do PTT [^41].
 
-Mas "Threads ultrapassa PTT" não é tão simples como o título parece. Em trinta anos, cada grande migração de comunidades em Taiwan teve um hegemon único: era BBS o PTT, era álbum o Wuming, era mensageria instantânea o MSN, era rede social o Facebook, era comunicação o LINE. Mas nos anos 2020, desta vez, as plataformas estão dispersas: jovens no IG, Dcard, Threads três sítios em paralelo, cada plataforma com 40-80% de penetração, mas nenhuma consegue comer a geração inteira como o LINE[^42].
+Mas o título "Xuite supera PTT" não é tão simples quanto parece. Ao longo de trinta anos, cada grande migração social em Taiwan teve um dominante único: a era BBS foi o PTT, a era dos álbuns fotográficos foi Wuming (無名), mensagens instantâneas foram MSN, redes sociais foram Facebook e comunicação foi LINE. Mas esta década de 2020 é dispersa: os jovens existem simultaneamente no IG, Dcard e Xuite, com cada plataforma atingindo uma penetração de 40-80%, mas nenhuma conseguiu engolir toda a geração como o LINE [^42].
 
-Esta dispersão tem um significado político ignorado. Quando a tua vida comunitária está dispersa em cinco plataformas, não passas dez anos em nenhuma; escreves ideias no Threads, pões fotos no IG, vês fofocas no Dcard, falas com a família no LINE, falas por voz com amigos no Discord. Cada plataforma apanha uma fatia tua, não o teu todo. Isso soa a progresso da soberania digital, já não estás amarrado a uma plataforma única, mas significa também uma coisa: quando a próxima grande migração vier, nenhuma plataforma poderá levar de uma vez a memória de uma geração inteira como o Wuming. Porque nenhuma plataforma a teve toda de uma vez.
+Esta dispersão tem um significado político negligenciado. Quando sua vida social está dividida em cinco plataformas, você não passa dez anos em nenhuma delas; você escreve ideias no Xuite, posta fotos no IG, vê fofocas no Dcard, conversa com familiares no LINE e fala por voz com amigos no Discord. Cada plataforma recebe uma fatia sua, e não o seu todo. Isso parece um avanço na soberania digital, pois você não está mais preso a uma única plataforma, mas também significa uma coisa: quando a próxima grande migração acontecer, nenhuma plataforma poderá levar a memória de toda a geração de uma só vez como Wuming fez. Porque nenhuma plataforma já teve isso.
 
-Mas o custo deste "não há hegemon único" é que os utilizadores de Taiwan cortam o seu tempo em cinco, guardam cada fatia em servidores de cinco empresas estrangeiras. Threads é da Meta, IG é da Meta, LINE é da Z Holdings, Discord é da Discord Inc., TikTok é da ByteDance. Desta vez, as plataformas locais nem ao campo de batalha chegaram. O Dcard conta como escolha local para a comunidade feminina 18-24, mas a sua escala, a sua influência discursiva, a sua projeção internacional, estão muito parecidas com a do Plurk no final dos anos 2010: forte, mas contornado pela multidão.
+No entanto, o preço dessa "ausência de um dominante único" é que os usuários de Taiwan dividiram seu tempo em cinco partes, armazenadas nos servidores de cinco empresas estrangeiras. O Xuite é da Meta, o IG é da Meta, o LINE é da Z Holdings, o Discord é da Discord Inc., e o TikTok é do ByteDance. As plataformas locais nem sequer conseguiram entrar no campo de batalha desta vez. O Dcard é uma escolha local para a comunidade feminina de 18 a 24 anos, mas seu tamanho, sua influência discursiva e seu alcance internacional são semelhantes aos da Plurk no final dos anos 2010: forte, mas ultrapassado pela multidão.
 
-Em 31 de agosto de 2023, o Xuite Suibowo (隨意窩) iniciou fecho em três fases; dez anos antes tinha acolhido alguns donos de blogues do Wuming, desta vez volta a expulsar utilizadores[^43]. Isso não é notícia, é um cenário demasiado familiar; os taiwaneses já se mudaram muitas vezes. A cada mudança há quem chore a virar blogues velhos, quem escale paredes à procura de backups, quem baixe a meio e descubra que os links dos álbuns já morreram há muito. Ninguém pergunta por que é que esta coisa tem de acontecer de poucos em poucos anos.
+Em 31 de agosto de 2023, o Xuite começou um encerramento em três fases, a plataforma de blogs que já havia recebido o Wuming dez anos antes, expulsando os usuários mais uma vez [^43]. Isso não foi notícia; era uma cena muito familiar. Os taiwaneses mudaram de casa muitas vezes. Em cada mudança, alguém chorava folheando antigos blogs, alguém procurava backups "por cima do muro" (fora da censura), e alguém baixava algo apenas para descobrir que o link do álbum já estava morto. Ninguém perguntou por que isso acontecia a cada poucos anos.
 
 ## A tua juventude está espetada na corrente de quem
 
@@ -167,93 +167,93 @@ Da próxima vez que alguém te perguntar "por que fazer backup das fotos", "por 
 
 ## Referências
 
-[^1]: Medição Similarweb maio de 2024 "último mês" de tempo de uso, citada por media de Taiwan comparando tempo médio de uso do Threads por país: Taiwan 11 min 31 s, EUA 5 min 12 s, Japão 3 min 6 s, Taiwan primeiro global. [Reportagem citando estatísticas Similarweb Threads](https://www.similarweb.com/)。
+[^1]: [Reportagem citando estatísticas Similarweb Threads](https://www.similarweb.com/) — Medição Similarweb maio de 2024 "último mês" de tempo de uso, citada por media de Taiwan comparando tempo médio de uso do Threads por país: Taiwan 11 min 31 s, EUA 5 min 12 s, Japão 3 min 6 s, Taiwan primeiro global。
 
-[^2]: 1992, professor Chen Nien-hsing da Universidade Nacional Sun Yat-sen monta BBS "Meilidao", primeiro BBS Internet totalmente em chinês de Taiwan. [Wikipédia: BBS em Taiwan](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E4%BD%88%E5%91%8A%E6%AC%84)。
+[^2]: [Wikipédia: BBS em Taiwan](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E4%BD%88%E5%91%8A%E6%AC%84) — 1992, professor Chen Nien-hsing da Universidade Nacional Sun Yat-sen monta BBS "Meilidao", primeiro BBS Internet totalmente em chinês de Taiwan。
 
-[^3]: 1984, Ministério da Educação escolhe Universidade Chiao Tung e Sun Yat-sen para impulsionar infraestrutura de rede acadêmica TANet. [Histórico TANet, Departamento de Educação em Informação e Tecnologia do Ministério da Educação](https://depart.moe.edu.tw/ed2700/)。
+[^3]: [Histórico TANet, Departamento de Educação em Informação e Tecnologia do Ministério da Educação](https://depart.moe.edu.tw/ed2700/) — 1984, Ministério da Educação escolhe Universidade Chiao Tung e Sun Yat-sen para impulsionar infraestrutura de rede acadêmica TANet。
 
-[^4]: 14 de setembro de 1995, Du Yijin no quarto 618 do Dormitório Masculino 8 da NTU monta PTT com 486DX2-66 / 16 MB RAM. [Página histórica oficial do PTT](https://www.ptt.cc/index.html)。
+[^4]: [Página histórica oficial do PTT](https://www.ptt.cc/index.html) — 14 de setembro de 1995, Du Yijin no quarto 618 do Dormitório Masculino 8 da NTU monta PTT com 486DX2-66 / 16 MB RAM。
 
-[^5]: 2004, incidente "O Contra-ataque do Bom Homem" no fórum Vida Noturna do PTT; administrador Junchoon (Huang Chien-yu) cita fala de Fang Tangjing (Ng Kai-ming) em _O Justiceiro de Nove Graus_ de Stephen Chow: "Vim ver a confusão com os camponeses, só me adiantei um pouco", escreve "Peço aos 'camponeses' que estão a ver a confusão que recuem para fora da linha amarela"; termo "xiangmin" (鄉民)普及 como auto-designação de utilizadores do PTT. [Wikipédia: Xiangmin](https://zh.wikipedia.org/wiki/%E9%84%89%E6%B0%91)。
+[^5]: [Wikipédia: Xiangmin](https://zh.wikipedia.org/wiki/%E9%84%89%E6%B0%91) — 2004, incidente "O Contra-ataque do Bom Homem" no fórum Vida Noturna do PTT; administrador Junchoon (Huang Chien-yu) cita fala de Fang Tangjing (Ng Kai-ming) em _O Justiceiro de Nove Graus_ de Stephen Chow: "Vim ver a confusão com os camponeses, só me adiantei um pouco", escreve "Peço aos 'camponeses' que estão a ver a confusão que recuem para fora da linha amarela"; termo "xiangmin" (鄉民)普及 como auto-designação de utilizadores do PTT。
 
-[^6]: Final dos anos 90, normas TANet proíbem uso comercial; alguns BBS obrigados a sair da rede acadêmica, migrar para HiNet ou outros ISPs comerciais. [Discussão histórica sobre normas de uso TANet, Centro de Informação de Rede de Taiwan](https://www.twnic.tw/)。
+[^6]: [Discussão histórica sobre normas de uso TANet, Centro de Informação de Rede de Taiwan](https://www.twnic.tw/) — Final dos anos 90, normas TANet proíbem uso comercial; alguns BBS obrigados a sair da rede acadêmica, migrar para HiNet ou outros ISPs comerciais。
 
-[^7]: 15 de fevereiro de 2000, Chan Hung-chih funda Ming Ri Bao, 400 milhões NTD, centenas de jornalistas, notícias totalmente grátis 24h. [Wikipédia: Ming Ri Bao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1)。
+[^7]: [Wikipédia: Ming Ri Bao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1) — 15 de fevereiro de 2000, Chan Hung-chih funda Ming Ri Bao, 400 milhões NTD, centenas de jornalistas, notícias totalmente grátis 24h。
 
-[^8]: 11 de abril de 2000, Ming Ri Bao lança "Estações de Notícias Pessoais", utilizadores abrem as suas estações, publicam artigos; primeiro nascedouro da cultura de blogues em Taiwan, três anos antes do serviço de blogues do Wuming Xiaozhan. [Histórico Estações de Notícias Pessoais Ming Ri Bao](https://mypaper.pchome.com.tw/)。
+[^8]: [Histórico Estações de Notícias Pessoais Ming Ri Bao](https://mypaper.pchome.com.tw/) — 11 de abril de 2000, Ming Ri Bao lança "Estações de Notícias Pessoais", utilizadores abrem as suas estações, publicam artigos; primeiro nascedouro da cultura de blogues em Taiwan, três anos antes do serviço de blogues do Wuming Xiaozhan。
 
-[^9]: 21 de fevereiro de 2001, Ming Ri Bao anuncia fecho; 370 dias desde fundação, queimou 300 milhões NTD, restavam ~100 milhões na conta. [Wikipédia: Ming Ri Bao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1)。
+[^9]: [Wikipédia: Ming Ri Bao](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%97%A5%E5%A0%B1) — 21 de fevereiro de 2001, Ming Ri Bao anuncia fecho; 370 dias desde fundação, queimou 300 milhões NTD, restavam ~100 milhões na conta。
 
-[^10]: Após fecho do Ming Ri Bao, utilizadores das Estações de Notícias Pessoais formam comitê de autoajuda, petição, forçam direção a adiar fecho para 31 de março; PChome assume gestão, opera até hoje. [Página de serviço PChome Estações de Notícias Pessoais](https://mypaper.pchome.com.tw/)。
+[^10]: [Página de serviço PChome Estações de Notícias Pessoais](https://mypaper.pchome.com.tw/) — Após fecho do Ming Ri Bao, utilizadores das Estações de Notícias Pessoais formam comitê de autoajuda, petição, forçam direção a adiar fecho para 31 de março; PChome assume gestão, opera até hoje。
 
-[^11]: 1999, Wuming Xiaozhan fundado na Chiao Tung por Chien Chih-yu com Wu Wei-kai, Lin Hong-chuan, Chiu Chien-hsi, Chen Hsuan-hsun, Pan Wei-cheng. [Wikipédia: Wuming Xiaozhan](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99)。
+[^11]: [Wikipédia: Wuming Xiaozhan](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — 1999, Wuming Xiaozhan fundado na Chiao Tung por Chien Chih-yu com Wu Wei-kai, Lin Hong-chuan, Chiu Chien-hsi, Chen Hsuan-hsun, Pan Wei-cheng。
 
-[^12]: 2003, Wuming Xiaozhan lança trio blogue, álbum, quadro de mensagens, define forma padrão de produção de conteúdo pessoal na rede em Taiwan. [Wikipédia: Wuming Xiaozhan](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99)。
+[^12]: [Wikipédia: Wuming Xiaozhan](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — 2003, Wuming Xiaozhan lança trio blogue, álbum, quadro de mensagens, define forma padrão de produção de conteúdo pessoal na rede em Taiwan。
 
-[^13]: Março de 2005, Wuming Xiaozhan sai da Chiao Tung, constitui empresa com 20 milhões NTD, entra fase comercial. [Reportagem _Business Next_ "Wuming Xiaozhan"](https://www.bnext.com.tw/)。
+[^13]: [Reportagem _Business Next_ "Wuming Xiaozhan"](https://www.bnext.com.tw/) — Março de 2005, Wuming Xiaozhan sai da Chiao Tung, constitui empresa com 20 milhões NTD, entra fase comercial。
 
-[^14]: _Sinorama_ setembro de 2006: Wuming Xiaozhan 2,3 milhões de membros, 500 milhões de imagens, 1,2 milhão de visitas/dia. [Entrevista _Sinorama_ Wuming Xiaozhan](https://www.taiwan-panorama.com/)。
+[^14]: [Entrevista _Sinorama_ Wuming Xiaozhan](https://www.taiwan-panorama.com/) — _Sinorama_ setembro de 2006: Wuming Xiaozhan 2,3 milhões de membros, 500 milhões de imagens, 1,2 milhão de visitas/dia。
 
-[^15]: 13 de dezembro de 2006, Yahoo anuncia compra do Wuming Xiaozhan; rumor ~700 milhões NTD, oficial nunca divulgou valor real. [Notícia compra Yahoo Wuming Xiaozhan](https://tw.news.yahoo.com/)。
+[^15]: [Notícia compra Yahoo Wuming Xiaozhan](https://tw.news.yahoo.com/) — 13 de dezembro de 2006, Yahoo anuncia compra do Wuming Xiaozhan; rumor ~700 milhões NTD, oficial nunca divulgou valor real。
 
-[^16]: 8 de janeiro de 2007, deputado DPP Tang Huo-sheng conferência de imprensa: "Wuming Xiaozhan usou rede acadêmica gratuita para construir base de dados, vendeu-a como propriedade privada ao Yahoo, comercialmente imoral." [Wikipédia: Wuming Xiaozhan §Controvérsia comercial](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99)。
+[^16]: [Wikipédia: Wuming Xiaozhan §Controvérsia comercial](https://zh.wikipedia.org/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99) — 8 de janeiro de 2007, deputado DPP Tang Huo-sheng conferência de imprensa: "Wuming Xiaozhan usou rede acadêmica gratuita para construir base de dados, vendeu-a como propriedade privada ao Yahoo, comercialmente imoral."。
 
-[^17]: Artigo acadêmico critica: "Sucesso do Wuming Xiaozhan baseia-se em abuso de recursos públicos da rede acadêmica e falta de sinceridade para com utilizadores. Sua comercialização prejudica gravemente direitos de propriedade pública da rede acadêmica e publicidade da rede." [Artigo acadêmico Airitilibrary U0067](https://www.airitilibrary.com/)。
+[^17]: [Artigo acadêmico Airitilibrary U0067](https://www.airitilibrary.com/) — Artigo acadêmico critica: "Sucesso do Wuming Xiaozhan baseia-se em abuso de recursos públicos da rede acadêmica e falta de sinceridade para com utilizadores. Sua comercialização prejudica gravemente direitos de propriedade pública da rede acadêmica e publicidade da rede."。
 
-[^18]: 26 de dezembro de 2013, Yahoo Taiwan anuncia fecho simultâneo do Wuming Xiaozhan e Yahoo Blog. [Anúncio fecho Yahoo Wuming Xiaozhan](https://tw.news.yahoo.com/)。
+[^18]: [Anúncio fecho Yahoo Wuming Xiaozhan](https://tw.news.yahoo.com/) — 26 de dezembro de 2013, Yahoo Taiwan anuncia fecho simultâneo do Wuming Xiaozhan e Yahoo Blog。
 
-[^19]: Chien Chih-yu em entrevista ao _Business Next_: "O que mais me arrependo na vida é que o Chien Chih-yu de 2005 não pensou com a cabeça do Chien Chih-yu de 2010. O de 2010 fala inglês, sabe como uma empresa internacional gere, geriu equipa maior; se o pusesse no lugar do de 2005, tudo seria diferente… embora o Wuming Xiaozhan fatalmente acabasse, pelo menos esta guerra duraria mais." [Artigo _Business Next_ bnext 39669](https://www.bnext.com.tw/article/39669)。
+[^19]: [Artigo _Business Next_ bnext 39669](https://www.bnext.com.tw/article/39669) — Chien Chih-yu em entrevista ao _Business Next_: "O que mais me arrependo na vida é que o Chien Chih-yu de 2005 não pensou com a cabeça do Chien Chih-yu de 2010. O de 2010 fala inglês, sabe como uma empresa internacional gere, geriu equipa maior; se o pusesse no lugar do de 2005, tudo seria diferente… embora o Wuming Xiaozhan fatalmente acabasse, pelo menos esta guerra duraria mais."。
 
-[^20]: Dezembro de 2016, ETtoday reporta após fecho do Wuming Xiaozhan, utilizadores abrem links de blogues velhos e veem 404 e páginas em branco, fenômeno de perda de terra geracional. [ETtoday 2016/12/09 Retrospectiva 3 anos fecho Wuming Xiaozhan](https://www.ettoday.net/)。
+[^20]: [ETtoday 2016/12/09 Retrospectiva 3 anos fecho Wuming Xiaozhan](https://www.ettoday.net/) — Dezembro de 2016, ETtoday reporta após fecho do Wuming Xiaozhan, utilizadores abrem links de blogues velhos e veem 404 e páginas em branco, fenômeno de perda de terra geracional。
 
-[^21]: 12 de maio de 2008, Plurk lançado, microblogue desenvolvido por equipa canadiana. [Wikipédia: Plurk](https://zh.wikipedia.org/wiki/Plurk)。
+[^21]: [Wikipédia: Plurk](https://zh.wikipedia.org/wiki/Plurk) — 12 de maio de 2008, Plurk lançado, microblogue desenvolvido por equipa canadiana。
 
-[^22]: "Taiwaneses usam Plurk, não Twitter" descrição padrão do meio em 2009-2012, reflete Plurk ter apanhado mercado antes do Twitter entrar em Taiwan. [Pesquisa uso Plurk em Taiwan, inquérito uso rede TWNIC](https://www.twnic.tw/)。
+[^22]: [Pesquisa uso Plurk em Taiwan, inquérito uso rede TWNIC](https://www.twnic.tw/) — "Taiwaneses usam Plurk, não Twitter" descrição padrão do meio em 2009-2012, reflete Plurk ter apanhado mercado antes do Twitter entrar em Taiwan。
 
-[^23]: Proporção de utilizadores de Taiwan no tráfego global Plurk: 2011 ~40,8%, 2018 sobe a 74,6%. [Análise tráfego histórico Plurk Alexa / SimilarWeb](https://www.similarweb.com/)。
+[^23]: [Análise tráfego histórico Plurk Alexa / SimilarWeb](https://www.similarweb.com/) — Proporção de utilizadores de Taiwan no tráfego global Plurk: 2011 ~40,8%, 2018 sobe a 74,6%。
 
-[^24]: 9 de dezembro de 2009, versão chinês tradicional Happy Farm lançada; utilizadores Facebook Taiwan de ~100 mil para >5 milhões, ~3,5 milhões jogadores Happy Farm. [Wikipédia: Happy Farm](https://zh.wikipedia.org/wiki/%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA)。
+[^24]: [Wikipédia: Happy Farm](https://zh.wikipedia.org/wiki/%E5%BC%80%E5%BF%83%E5%86%9C%E5%9C%BA) — 9 de dezembro de 2009, versão chinês tradicional Happy Farm lançada; utilizadores Facebook Taiwan de ~100 mil para >5 milhões, ~3,5 milhões jogadores Happy Farm。
 
-[^25]: Plurk depois recebe investimento estratégico de capital chinês, 2016 comprado pelo grupo malaio SEA (dono da Garena), opera ainda mas escala longe do auge. [Wikipédia: Plurk](https://zh.wikipedia.org/wiki/Plurk)。
+[^25]: [Wikipédia: Plurk](https://zh.wikipedia.org/wiki/Plurk) — Plurk depois recebe investimento estratégico de capital chinês, 2016 comprado pelo grupo malaio SEA (dono da Garena), opera ainda mas escala longe do auge。
 
-[^26]: Cultura de escritório época Happy Farm: roubar couves às escondidas, alarme a meio da noite para colher, cumprimento muda de "já almoçaste?" para "hoje roubaste couves?". [Apple Daily 2010 reportagem fenômeno escritório Happy Farm](https://tw.appledaily.com/)。
+[^26]: [Apple Daily 2010 reportagem fenômeno escritório Happy Farm](https://tw.appledaily.com/) — Cultura de escritório época Happy Farm: roubar couves às escondidas, alarme a meio da noite para colher, cumprimento muda de "já almoçaste?" para "hoje roubaste couves?"。
 
-[^27]: 8 de janeiro de 2013, Microsoft avisa MSN encerra 15 de março (exceto China); dia real migração global 8 de abril de 2013. [BBC News 2013/01/08 anúncio fecho MSN Microsoft](https://www.bbc.com/news/technology-20910181)。
+[^27]: [BBC News 2013/01/08 anúncio fecho MSN Microsoft](https://www.bbc.com/news/technology-20910181) — 8 de janeiro de 2013, Microsoft avisa MSN encerra 15 de março (exceto China); dia real migração global 8 de abril de 2013。
 
-[^28]: Pico histórico global MSN ~300 milhões; ativos no fecho ~100 milhões; Microsoft migra para seu Skype, não "300 milhões despejados no LINE" como corre em Taiwan. [Explicação oficial integração Skype-MSN Microsoft](https://news.microsoft.com/)。
+[^28]: [Explicação oficial integração Skype-MSN Microsoft](https://news.microsoft.com/) — Pico histórico global MSN ~300 milhões; ativos no fecho ~100 milhões; Microsoft migra para seu Skype, não "300 milhões despejados no LINE" como corre em Taiwan。
 
-[^29]: Página histórica oficial LINE: "In response to the anxious days spent unable to contact family and friends following the Great East Japan Earthquake, the LINE app was launched on June 23, 2011." [Histórico oficial LINE Corp](https://linecorp.com/en/company/info)。
+[^29]: [Histórico oficial LINE Corp](https://linecorp.com/en/company/info) — Página histórica oficial LINE: "In response to the anxious days spent unable to contact family and friends following the Great East Japan Earthquake, the LINE app was launched on June 23, 2011."。
 
-[^30]: Fevereiro de 2012, LINE Taiwan lança anúncios com Kwai Lun-mei, spot chamadas/SMS, depois série cenários vida, investimento denso TV+metro. [Revista _Brain_ (動腦雜誌) 2012 análise estratégia anúncios LINE](https://www.brain.com.tw/)。
+[^30]: [Revista _Brain_ (動腦雜誌) 2012 análise estratégia anúncios LINE](https://www.brain.com.tw/) — Fevereiro de 2012, LINE Taiwan lança anúncios com Kwai Lun-mei, spot chamadas/SMS, depois série cenários vida, investimento denso TV+metro。
 
-[^31]: Novembro de 2012, utilizadores LINE Taiwan ultrapassam 10 milhões. [Anúncio oficial LINE Taiwan](https://linecorp.com/zh-hant-tw/)。
+[^31]: [Anúncio oficial LINE Taiwan](https://linecorp.com/zh-hant-tw/) — Novembro de 2012, utilizadores LINE Taiwan ultrapassam 10 milhões。
 
-[^32]: Junho de 2014, LINE Taiwan Limited constitui subsidiária formalmente em Taiwan. [Registo comercial Ministério de Assuntos Econômicos](https://gcis.nat.gov.tw/)。
+[^32]: [Registo comercial Ministério de Assuntos Econômicos](https://gcis.nat.gov.tw/) — Junho de 2014, LINE Taiwan Limited constitui subsidiária formalmente em Taiwan。
 
 [^33]: 2025, LINE Taiwan ativos mensais ~22 milhões, penetração ~94%, topo global. [Korea Herald 2025 análise mercado global LINE](https://www.koreaherald.com/); [DataReportal Digital 2025 Taiwan](https://datareportal.com/reports/digital-2025-taiwan)。
 
-[^34]: Investigação _The Reporter_: "Desinformação e mensagens controversas dentro dos grupos LINE, através de grupos de comunidades, templos, partidos, organizações civis, causam fratura social, estigmatização de grupos específicos, reforço da oposição." [Série _The Reporter_ information-warfare-business-disinformation](https://www.twreporter.org/)。
+[^34]: [Série _The Reporter_ information-warfare-business-disinformation](https://www.twreporter.org/) — Investigação _The Reporter_: "Desinformação e mensagens controversas dentro dos grupos LINE, através de grupos de comunidades, templos, partidos, organizações civis, causam fratura social, estigmatização de grupos específicos, reforço da oposição."。
 
-[^35]: Termos de Serviço LINE art. 4.7: "A conta deste serviço é exclusiva a indivíduos. Todos os direitos de uso do utilizador neste serviço não podem ser transferidos, emprestados a terceiros ou feitos herdados por terceiros." [Termos de Serviço LINE versão Taiwan](https://terms2.line.me/LINE_Terms_of_Use_TW)。
+[^35]: [Termos de Serviço LINE versão Taiwan](https://terms2.line.me/LINE_Terms_of_Use_TW) — Termos de Serviço LINE art. 4.7: "A conta deste serviço é exclusiva a indivíduos. Todos os direitos de uso do utilizador neste serviço não podem ser transferidos, emprestados a terceiros ou feitos herdados por terceiros."。
 
-[^36]: Inquérito MIC 2024Q4 uso redes sociais: núcleo PTT 35-44 anos (27,8%), 18-24 preferem IG (78%) / Dcard (45,9%) / Threads (44%). [Inquérito redes sociais 2024Q4 Instituto de Pesquisa da Indústria do Instituto para a Estratégia de Informação (MIC)](https://mic.iii.org.tw/)。
+[^36]: [Inquérito redes sociais 2024Q4 Instituto de Pesquisa da Indústria do Instituto para a Estratégia de Informação (MIC)](https://mic.iii.org.tw/) — Inquérito MIC 2024Q4 uso redes sociais: núcleo PTT 35-44 anos (27,8%), 18-24 preferem IG (78%) / Dcard (45,9%) / Threads (44%)。
 
-[^37]: 2011, Lin Yu-chin, 2º ano Gestão Informação NTU, cria primeira versão Dcard, original "tira carta à meia-noite emparelha estranho". [Wikipédia: Dcard](https://zh.wikipedia.org/wiki/Dcard)。
+[^37]: [Wikipédia: Dcard](https://zh.wikipedia.org/wiki/Dcard) — 2011, Lin Yu-chin, 2º ano Gestão Informação NTU, cria primeira versão Dcard, original "tira carta à meia-noite emparelha estranho"。
 
 [^38]: 2015, Lin Yu-chin funda Dcard Inc., transforma Dcard de trabalho de estudante em produto de empresa. [Registo comercial Ministério de Assuntos Econômicos](https://gcis.nat.gov.tw/); [Entrevista empreendedorismo Dcard _Business Next_](https://www.bnext.com.tw/)。
 
-[^39]: 5 de julho de 2023, Meta lança Threads; 6 h 5 milhões, 5 dias 100 milhões, recorde histórico de crescimento de serviço de rede. [Anúncio oficial Meta](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/)。
+[^39]: [Anúncio oficial Meta](https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/) — 5 de julho de 2023, Meta lança Threads; 6 h 5 milhões, 5 dias 100 milhões, recorde histórico de crescimento de serviço de rede。
 
-[^40]: Similarweb maio de 2024: utilizadores Taiwan Threads tempo médio 11 min 31 s, 1º global;同期 EUA 5 min 12 s, Japão 3 min 6 s. [Análise regional Similarweb Threads citada em reportagem](https://www.similarweb.com/)。
+[^40]: [Análise regional Similarweb Threads citada em reportagem](https://www.similarweb.com/) — Similarweb maio de 2024: utilizadores Taiwan Threads tempo médio 11 min 31 s, 1º global;同期 EUA 5 min 12 s, Japão 3 min 6 s。
 
-[^41]: Inquérito uso redes MIC 2024Q4: YT 72,3%, FB 72,1%, IG 44,7%, Dcard 17,6%, Threads 17,5%, PTT 17,1%, Threads pela primeira vez ultrapassa PTT. [Inquérito taxa uso redes sociais MIC 2024Q4](https://mic.iii.org.tw/)。
+[^41]: [Inquérito taxa uso redes sociais MIC 2024Q4](https://mic.iii.org.tw/) — Inquérito uso redes MIC 2024Q4: YT 72,3%, FB 72,1%, IG 44,7%, Dcard 17,6%, Threads 17,5%, PTT 17,1%, Threads pela primeira vez ultrapassa PTT。
 
 [^42]: 2025, utilizadores Taiwan 18-24 dispersos: IG 78%, Dcard 45,9%, Threads 44%, LINE, Discord etc. em paralelo, sem plataforma única hegemónica. [Análise por faixa etária MIC 2024Q4](https://mic.iii.org.tw/); [DataReportal Digital 2025 Taiwan](https://datareportal.com/reports/digital-2025-taiwan)。
 
-[^43]: 31 de agosto de 2023, Xuite Suibowo inicia fecho em três fases; 2013 acolheu alguns donos de blogues do Wuming, desta vez volta a forçar migração. [Anúncio fecho Xuite Suibowo](https://blog.xuite.net/)。
+[^43]: [Anúncio fecho Xuite Suibowo](https://blog.xuite.net/) — 31 de agosto de 2023, Xuite Suibowo inicia fecho em três fases; 2013 acolheu alguns donos de blogues do Wuming, desta vez volta a forçar migração。
 
-[^44]: 19 de março de 2025, utilizador Threads cria @wretch_1999, simula interface Wuming Xiaozhan: "★~●○● Bem-vindo ao Wuming Xiaozhan ●○●~★ / Visitas acumuladas: 0000520 / Quem veio a minha casa / ♪♫ Música de fundo: 5566 - Eu Estou Triste ♪♫", feito por fãs, não oficial. [Conta @wretch_1999 Threads](https://www.threads.net/@wretch_1999)。
+[^44]: [Conta @wretch_1999 Threads](https://www.threads.net/@wretch_1999) — 19 de março de 2025, utilizador Threads cria @wretch_1999, simula interface Wuming Xiaozhan: "★~●○● Bem-vindo ao Wuming Xiaozhan ●○●~★ / Visitas acumuladas: 0000520 / Quem veio a minha casa / ♪♫ Música de fundo: 5566 - Eu Estou Triste ♪♫", feito por fãs, não oficial。
 
 [^45]: Idem nota 1. Similarweb maio de 2024 Taiwan Threads tempo médio 11 min 31 s, 1º global.
 

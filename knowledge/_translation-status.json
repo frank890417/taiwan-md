@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T03:37:03+08:00",
-    "zhCommitHead": "44d2f220a",
+    "lastUpdated": "2026-09-26T04:01:05+08:00",
+    "zhCommitHead": "0f5da4ba1",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1103,
+        "fresh": 1104,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 11,
+        "missing": 10,
         "orphan": 0
       },
       "ja": {
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1099,
-        "stale": 18,
+        "fresh": 1100,
+        "stale": 17,
         "metadata_stale": 0,
         "missing": 7,
         "orphan": 0
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1097,
+        "fresh": 1098,
         "stale": 9,
         "metadata_stale": 0,
-        "missing": 18,
+        "missing": 17,
         "orphan": 0
       },
       "hi": {
@@ -10332,8 +10332,8 @@
           "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
           "sourceBodyHash": "sha256:f9ade260f241a953",
           "translatedAt": "2026-09-25T16:58:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0f5da4ba",
+          "translationLastModified": "2026-09-26T03:37:07+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 21540,
@@ -24876,7 +24876,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/tasa-taiwan-space-agency.md",
+          "translatedFrom": "Technology/國家太空中心.md",
+          "sourceCommitSha": "82c0407f6",
+          "sourceContentHash": "sha256:e4e6dbc8acdd8970",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T19:23:09.615852+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "bytes": 89640,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -38586,20 +38599,18 @@
         "fr": {
           "path": "fr/Art/no-mans-land-art-platform.md",
           "translatedFrom": "Art/數位荒原.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:94e9b57891092909",
-          "sourceBodyHash": "sha256:15f9472d4c0b19f9",
-          "translatedAt": "2026-06-16T16:54:51Z",
+          "sourceCommitSha": "a74c440b3",
+          "sourceContentHash": "sha256:f8ec8d5fb97942ca",
+          "sourceBodyHash": "sha256:7bfa784449cb0cb6",
+          "translatedAt": "2026-09-25T16:58:23+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 48248,
+          "bytes": 44281,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Art/no-mans-land-art-platform.md",
@@ -178898,7 +178909,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/kaohsiung-export-processing-zone.md",
+          "translatedFrom": "History/高雄加工出口區.md",
+          "sourceCommitSha": "ebfb9f7bc",
+          "sourceContentHash": "sha256:226ce57f62ea8e09",
+          "sourceBodyHash": "sha256:97a0f46568355878",
+          "translatedAt": "2026-09-25T16:58:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 20641,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/kaohsiung-export-processing-zone.md",
@@ -182238,8 +182262,8 @@
           "sourceContentHash": "sha256:3dc0c353cf547397",
           "sourceBodyHash": "sha256:01899a9de634067d",
           "translatedAt": "2026-09-25T16:58:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0f5da4ba",
+          "translationLastModified": "2026-09-26T03:37:07+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 22956,
@@ -188487,20 +188511,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-25T16:58:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 24224,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -223023,7 +223034,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-cats-eye-nephrite.md",
+          "translatedFrom": "Culture/貓眼石.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:51233924254f4114",
+          "sourceBodyHash": "sha256:3a79800811848f46",
+          "translatedAt": "2026-09-25T16:58:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 36621,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/taiwan-cats-eye-nephrite.md",
