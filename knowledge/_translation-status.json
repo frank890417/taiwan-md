@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T12:51:27+08:00",
-    "zhCommitHead": "50eed2afc",
+    "lastUpdated": "2026-09-25T13:18:54+08:00",
+    "zhCommitHead": "b617cad01",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1027,
-        "stale": 50,
+        "fresh": 1030,
+        "stale": 47,
         "metadata_stale": 0,
         "missing": 47,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1058,
-        "stale": 20,
+        "fresh": 1062,
+        "stale": 17,
         "metadata_stale": 0,
-        "missing": 46,
+        "missing": 45,
         "orphan": 0
       },
       "pt": {
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1050,
-        "stale": 15,
+        "fresh": 1053,
+        "stale": 12,
         "metadata_stale": 0,
         "missing": 59,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1019,
+        "fresh": 1022,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 103,
+        "missing": 100,
         "orphan": 0
       }
     },
@@ -1795,18 +1795,18 @@
         "hi": {
           "path": "hi/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md",
           "translatedFrom": "Music/台灣客家音樂.md",
-          "sourceCommitSha": "pre-toolkit",
-          "sourceContentHash": "sha256:c683269655bc3d87",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-06T21:30:00+08:00",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:a1abbcd1a1bce08a",
+          "sourceBodyHash": "sha256:ffa289d8ac5acb30",
+          "translatedAt": "2026-09-25T12:01:28+08:00",
           "translationLastCommit": "640c2c9a",
           "translationLastModified": "2026-09-07T07:18:14+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 27949,
+          "bytes": 26033,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "pre-toolkit"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md",
@@ -13577,8 +13577,8 @@
           "sourceContentHash": "sha256:c96d861b28621fd7",
           "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
           "translatedAt": "2026-09-25T10:23:44+08:00",
-          "translationLastCommit": "26e0f76e",
-          "translationLastModified": "2026-09-23T14:26:05+08:00",
+          "translationLastCommit": "b617cad0",
+          "translationLastModified": "2026-09-25T12:51:27+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 10204,
@@ -68026,20 +68026,18 @@
         "ja": {
           "path": "ja/Society/taiwan-public-health-epidemic-response.md",
           "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
-          "sourceCommitSha": "49728f9d",
-          "sourceContentHash": "sha256:84ffcc67e2e155cf",
-          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
-          "translatedAt": "2026-07-14T16:49:15Z",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
+          "sourceBodyHash": "sha256:bbdf3516f36f033d",
+          "translatedAt": "2026-09-25T12:01:27+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 13875,
+          "bytes": 13194,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-public-health-epidemic-response.md",
@@ -107742,7 +107740,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/fujui-wang.md",
+          "translatedFrom": "People/王福瑞.md",
+          "sourceCommitSha": "c5877264f",
+          "sourceContentHash": "sha256:73a411edb3bee540",
+          "sourceBodyHash": "sha256:4ab6cbf6e5c250a3",
+          "translatedAt": "2026-09-25T12:01:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 30466,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -111819,8 +111830,8 @@
           "sourceContentHash": "sha256:03fd31754989ad8f",
           "sourceBodyHash": "sha256:f9337f3e9a513dcd",
           "translatedAt": "2026-09-25T10:23:44+08:00",
-          "translationLastCommit": "8f8d1524",
-          "translationLastModified": "2026-08-05T03:30:21+08:00",
+          "translationLastCommit": "b617cad0",
+          "translationLastModified": "2026-09-25T12:51:27+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 19638,
@@ -135710,20 +135721,18 @@
         "id": {
           "path": "id/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
           "translatedFrom": "People/曹興誠.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:419cc607d70f325a",
-          "sourceBodyHash": "sha256:ae002bb900693bc1",
-          "translatedAt": "2026-07-25T09:23:05+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:c4ee8c6545170422",
+          "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
+          "translatedAt": "2026-09-25T12:01:28+08:00",
           "translationLastCommit": "26fe3ab0",
           "translationLastModified": "2026-07-25T10:52:49+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 18398,
+          "bytes": 20716,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
@@ -149373,8 +149382,8 @@
           "sourceContentHash": "sha256:86820d44ddf9a31a",
           "sourceBodyHash": "sha256:d37208c6e0c05c9c",
           "translatedAt": "2026-09-25T10:23:44+08:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "b617cad0",
+          "translationLastModified": "2026-09-25T12:51:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 19293,
@@ -151674,20 +151683,18 @@
         "ja": {
           "path": "ja/Food/taiwan-rice-cuisine-culture.md",
           "translatedFrom": "Food/台灣米食文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0e38833f3cafaf68",
-          "sourceBodyHash": "sha256:2354ee60853945b0",
-          "translatedAt": "2026-05-01T18:09:43+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d06ea631387761c6",
+          "sourceBodyHash": "sha256:1e5405f424ed35fc",
+          "translatedAt": "2026-09-25T12:01:27+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 8155,
+          "bytes": 16319,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/taiwan-rice-cuisine-culture.md",
@@ -156519,20 +156526,18 @@
         "id": {
           "path": "id/Food/hand-shaken-drink-culture.md",
           "translatedFrom": "Food/台灣手搖飲文化.md",
-          "sourceCommitSha": "f712b724",
-          "sourceContentHash": "sha256:874c652bf8f5b63c",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3c7799e04384eb5d",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-10T22:14:34+08:00",
+          "translatedAt": "2026-09-25T05:12:49.751161+00:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 15587,
+          "bytes": 14530,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/hand-shaken-drink-culture.md",
@@ -158343,8 +158348,8 @@
           "sourceContentHash": "sha256:da45c346079f5144",
           "sourceBodyHash": "sha256:40a1aa98903d8e72",
           "translatedAt": "2026-09-25T10:23:44+08:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "b617cad0",
+          "translationLastModified": "2026-09-25T12:51:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 19980,
@@ -159753,20 +159758,18 @@
         "id": {
           "path": "id/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:bd8e4eaaa3e395c7",
-          "sourceBodyHash": "sha256:6806ae061b784232",
-          "translatedAt": "2026-07-25T07:55:54+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:77ab88a911a474f4",
+          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
+          "translatedAt": "2026-09-25T13:10:49+08:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 19664,
+          "bytes": 21289,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -162047,20 +162050,18 @@
         "ja": {
           "path": "ja/Food/hakka-food-culture.md",
           "translatedFrom": "Food/客家飲食文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:3122286a1056f9c8",
-          "sourceBodyHash": "sha256:dacc006277fbf01a",
-          "translatedAt": "2026-05-24T05:06:32+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3b6b12dd06856da0",
+          "sourceBodyHash": "sha256:1006124334926615",
+          "translatedAt": "2026-09-25T12:01:27+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 15003,
+          "bytes": 14303,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/hakka-food-culture.md",
@@ -167133,18 +167134,18 @@
         "hi": {
           "path": "hi/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:3c85e554c80495b9",
-          "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-08-09T08:01:33+08:00",
+          "sourceCommitSha": "4e22e3bb9",
+          "sourceContentHash": "sha256:3d54c34f765113cd",
+          "sourceBodyHash": "sha256:fa292335dae74f0c",
+          "translatedAt": "2026-09-25T12:01:28+08:00",
           "translationLastCommit": "54b3d411",
           "translationLastModified": "2026-08-09T15:58:37+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 29367,
+          "footnoteDefs": 14,
+          "bytes": 49224,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→8)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/ponlai-rice.md",
@@ -183695,7 +183696,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/disney-and-taiwan.md",
+          "translatedFrom": "History/迪士尼.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:f212b82c110bd5ef",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T04:59:37.429433+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 25425,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -193324,8 +193338,8 @@
           "sourceContentHash": "sha256:981f398813aadaf3",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T04:29:13.712676+00:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "b617cad0",
+          "translationLastModified": "2026-09-25T12:51:27+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 67216,
@@ -193713,7 +193727,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/zhongshan-north-road-tiaotong.md",
+          "translatedFrom": "Geography/中山北路條通.md",
+          "sourceCommitSha": "2da8b92f2",
+          "sourceContentHash": "sha256:c4a4c2010dd95827",
+          "sourceBodyHash": "sha256:605dca39a0b5b5c5",
+          "translatedAt": "2026-09-25T12:01:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "bytes": 61223,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/zhongshan-north-road-tiaotong.md",
@@ -199079,7 +199106,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/water-running-uphill.md",
+          "translatedFrom": "Geography/水往上流.md",
+          "sourceCommitSha": "211401fe4",
+          "sourceContentHash": "sha256:c6dd24e6a4e09fdc",
+          "sourceBodyHash": "sha256:009e89e5797639ab",
+          "translatedAt": "2026-09-25T12:01:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "bytes": 11515,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -210891,20 +210931,18 @@
         "hi": {
           "path": "hi/Culture/taiwan-baseball-culture.md",
           "translatedFrom": "Culture/台灣棒球文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:9a4380e463583d63",
-          "sourceBodyHash": "sha256:ffebfda3574ab04b",
-          "translatedAt": "2026-07-26T21:33:26+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:82a373ca1ee51cf4",
+          "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
+          "translatedAt": "2026-09-25T12:01:28+08:00",
           "translationLastCommit": "e2d1aad3",
           "translationLastModified": "2026-07-27T01:30:06+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 35338,
+          "bytes": 34426,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-baseball-culture.md",
