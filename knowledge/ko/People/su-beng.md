@@ -127,7 +127,7 @@ _다큐멘터리 《혁명 진행식》(진리귀 감독)는 수벙의 일생을
 ## 이미지 출처
 
 - 히어로 사진: 총통부, Wikimedia Commons, CC BY 2.0. 원본 파일: [11.08 총통이 수벙 백세 생일회에 참석](<https://commons.wikimedia.org/wiki/File:11.08_總統出席史明百歲生日會_(38226043862).jpg>)。
-- 본문 초상: Siegfy, Wikimedia Commons, CC BY‑SA 2.0. 원본 파일: [타이완 독립 교부 수벙 노신사](<https://commons.wikimedia.org/wiki/File:台獨教父史明老先生_(3539602788).jpg>)。
+- 본문 초상: Siegfy, Wikimedia Commons, CC BY‑SA 2.0. 원본 파일: [타이완 독립 대부 수벙 노신사](<https://commons.wikimedia.org/wiki/File:台獨教父史明老先生_(3539602788).jpg>)。
 - 영상: 다큐멘터리 《혁명 진행식》(진리귀 감독), YouTube, 인라인 외부 링크만 삽입.
 
 ## 참고 자료
@@ -138,7 +138,7 @@ _다큐멘터리 《혁명 진행식》(진리귀 감독)는 수벙의 일생을
 
 [^ltn]: [수벙 103세 사망 차이잉원: 연말 식사 자리 아직 남길 자리 있다] (https://news.ltn.com.tw/news/politics/breakingnews/2922260) — 자유시보 2019년 보도, 사망 일자·향년·차이잉원 “그를 위한 자리 남길 것” 원문 인용.
 
-[^udn]: [타이완 독립 교부 수벙 별세] (https://udn.com/news/story/6656/4060553) — 연합뉴스 2019년 보도, 사망 및 말년 정치 관심 배경 교차 확인.
+[^udn]: [타이완 독립 대부 수벙 별세] (https://udn.com/news/story/6656/4060553) — 연합뉴스 2019년 보도, 사망 및 말년 정치 관심 배경 교차 확인.
 
 [^initium]: [미완성 진행식: 수벙 “타이완 민족주의”] (https://theinitium.com/article/20190921-taiwan-subeng-nationalism) — 단언미디어 2019년 논평, 수벙 “타이완 민족주의” 주장 내용 및 사상 사료.
 
