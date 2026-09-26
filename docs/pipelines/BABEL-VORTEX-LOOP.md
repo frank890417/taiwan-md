@@ -3,9 +3,9 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.60'
+current_version: 'v1.61'
 last_updated: 2026-09-26
-last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗）'
+last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
@@ -282,6 +282,20 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.61（2026-09-26 晚間第七輪）：**修一篇的殘渣時，追到一支每篇譯文都會經過的修復器在補中文**。
+  (a) 外來文字逐行尺從只量韓文擴到西里爾字母／天城文／阿拉伯文（`f3aca64f9`）：委派 agent 看見
+  自己段落冒出俄文碎片，回頭用同一把尺掃全庫，新文字零誤判、只多判兩篇（id 腳註 7 行阿拉伯文、
+  ko 一截「ीकरण」），note 改成「<文字>漂入[<代碼>]」、dispatcher 記 `foreign-script[ar]`。
+  同一支檔案裡拉丁字母詞只收到 U+024F，越南文功能詞一半比對不到——這是同日 cjk-adjacency
+  修過的同一個字元範圍，**修一把尺的字元範圍時，grep 全部工具的同一個字元範圍**。
+  (b) 修 id 那篇時發現它的 [^23]–[^47] 是中文，追下去是 footnote-format 的 safe fixer：
+  2026-07-28 接進 dispatcher 熱路徑時只看「會不會放寬閘門」，沒看它補的描述是什麼語言——
+  domain 表全是中文，十二語譯文累積 184 篇／616 處。修成譯文補目標語言的通用句（`d30123883`，
+  子程序呼叫，dispatcher 不必重啟），預設句 266 處／47 篇當輪機械換掉（`2c2e28f6c`），其餘兩族
+  超過 50 篇進 OBSERVER-QUEUE #79。**規則**：把一支 fixer 接進譯文熱路徑之前，先問它寫進檔案的
+  字是哪個語言的；cjk-leak-check 豁免腳註行，所以腳註是全套閘門的盲區，任何會寫腳註的工具
+  都要自帶語言意識。
 
 - v1.60（2026-09-26 晚間第五輪）：**修好一把尺之後回頭掃隔離區**。(a) 日文標籤閘門的 60% 門檻把地名與
   日文同形名詞當未翻，ja 缺稿一整群小篇各敗六、七次；改成只擋整組照抄（`a00555f27`）後，用
