@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T12:19:58+08:00",
-    "zhCommitHead": "3f4030c64",
+    "lastUpdated": "2026-09-26T12:25:09+08:00",
+    "zhCommitHead": "84349a971",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1059,
+        "fresh": 1060,
         "stale": 25,
         "metadata_stale": 0,
-        "missing": 40,
+        "missing": 39,
         "orphan": 0
       },
       "ko": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1081,
+        "fresh": 1082,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 30,
+        "missing": 29,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1080,
+        "fresh": 1081,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 28,
+        "missing": 27,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1070,
+        "fresh": 1071,
         "stale": 5,
         "metadata_stale": 0,
-        "missing": 49,
+        "missing": 48,
         "orphan": 0
       }
     },
@@ -6500,7 +6500,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/hsien-ching-chen.md",
+          "translatedFrom": "Music/陳嫺靜.md",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:a52c8c96b2eeab05",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:20:22.709137+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 43,
+          "bytes": 50821,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -18253,7 +18266,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/slp-taipei-startup-leadership-program.md",
+          "translatedFrom": "Economy/SLP台北創業領導計畫.md",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:9bdb791d8649c130",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:18:49.699949+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 60346,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/slp-taipei-startup-leadership-program.md",
@@ -19153,8 +19179,8 @@
           "sourceContentHash": "sha256:24e5d0eeeb829e10",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T02:44:15.765278+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "84349a97",
+          "translationLastModified": "2026-09-26T12:19:58+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "bytes": 73117,
@@ -61897,7 +61923,20 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/who-counts-as-low-wage.md",
+          "translatedFrom": "Society/誰算低薪.md",
+          "sourceCommitSha": "b10ec653b",
+          "sourceContentHash": "sha256:7abbe410b7f9a4d8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:17:34.164581+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 45748,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -99102,7 +99141,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/cang-lan-ge-doctor.md",
+          "translatedFrom": "People/蒼藍鴿.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:1a1a9598d9221fe9",
+          "sourceBodyHash": "sha256:74a863b5d0baa755",
+          "translatedAt": "2026-09-26T10:22:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "bytes": 34056,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/cang-lan-ge-doctor.md",
@@ -117176,8 +117228,8 @@
           "sourceContentHash": "sha256:0feccf50e70e790f",
           "sourceBodyHash": "sha256:bec1cc9ae32ba029",
           "translatedAt": "2026-09-26T10:22:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "84349a97",
+          "translationLastModified": "2026-09-26T12:19:58+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 40792,
