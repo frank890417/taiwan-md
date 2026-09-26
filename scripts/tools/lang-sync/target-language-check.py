@@ -37,6 +37,14 @@ target-language-check.py — 譯文到底是不是它宣稱的那個語言。
   blockquote 引文），同一把尺對假名在 9 語系各誤殺 1 篇。單字級的融合殘留
   （印地文句子裡掉一個「추진」）不在這把尺的射程，那是 cjk-residue-check 的事。
 
+  2026-09-26 逐行尺擴到西里爾字母／天城文／阿拉伯文：委派層一隻 ja agent 回報寫到
+  一半看見自己的段落冒出俄文碎片（當場改掉）。回頭用同一把尺掃全庫，韓文以外的漂移
+  也已經在站上：id 一篇的腳註描述整段是阿拉伯文、ko 一篇段落之間掉了一截天城文
+  「ीकरण」、id 一篇整篇是印地文（整篇多數票已擋，逐行尺是第二道）。這三種文字在
+  全庫零誤判——沒有任何一行合法的俄文／印地文／阿拉伯文提及被標到——所以直接納入。
+  每語跳過自己的文字（ru 不量西里爾、ko 不量韓文），ko 因此第一次有逐行尺。
+  假名仍不量，理由同上。
+
 用法：
   python3 scripts/tools/lang-sync/target-language-check.py knowledge/de/Foo/bar.md
   python3 scripts/tools/lang-sync/target-language-check.py --scan de        # 掃整個語言目錄
@@ -46,6 +54,7 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
@@ -71,6 +80,13 @@ FUNCTION_WORDS = {
     "vi": {"của", "và", "là", "các", "có", "được", "trong", "người", "những", "một", "cho", "với", "để", "không", "này", "đã", "khi", "về", "từ", "tại"},
 }
 
+# 拉丁字母詞的字元類。越南文的疊加聲調字母住在 U+1E00–1EFF（ạ ả ấ ợ ữ⋯），
+# 舊字元類只收到 U+024F，「được／của／những／với／tại」被切成碎片，vi 功能詞表
+# 有一半永遠比對不到：全庫 vi 平均分數 0.049，補上後 0.130（2026-09-26 實測，
+# 判定結果零變動——vi 只是一直在用三分之一的訊號險勝）。跟同日 cjk-adjacency-check
+# 修掉的是同一個字元範圍的病。
+LATIN_WORD = r"[a-zA-Z\u00C0-\u024F\u1E00-\u1EFF]+"
+
 LATIN_LANGS = set(FUNCTION_WORDS)
 ALL_LANGS = sorted(set(SCRIPT_RANGES) | LATIN_LANGS)
 
@@ -82,7 +98,10 @@ MIN_TOKENS = 80  # 低於這個字數的正文不判（清單體、極短文）
 
 
 def body_of(text: str) -> str:
-    """去掉 frontmatter 與程式碼區塊——它們的語言跟譯文語言無關。"""
+    """去掉 frontmatter 與程式碼區塊——它們的語言跟譯文語言無關。
+    先轉 NFC：有 32 篇 vi 以 NFD 存檔（基底字母＋組合聲調符號），不轉的話同一個
+    功能詞在兩種存法下是兩個字串。"""
+    text = unicodedata.normalize("NFC", text)
     if text.startswith("---"):
         parts = text.split("---", 2)
         if len(parts) >= 3:
@@ -102,7 +121,7 @@ def score(text: str) -> dict[str, float]:
     for lang, pat in SCRIPT_RANGES.items():
         out[lang] = len(re.findall(pat, body)) / total_chars
 
-    words = re.findall(r"[a-zA-ZÀ-ÿĀ-žА-яÀ-ɏ]+", body.lower())
+    words = re.findall(LATIN_WORD + r"|[А-я]+", body.lower())
     n = len(words)
     if n >= MIN_TOKENS:
         for lang, fw in FUNCTION_WORDS.items():
@@ -146,48 +165,64 @@ FOREIGN_STRIP = re.compile(
     r"|\"[^\"]*\"|“[^”]*”|«[^»]*»|「[^」]*」|『[^』]*』|\[\[[^\]]*\]\]|\[\^[^\]]*\]:?",
     re.S,
 )
-HANGUL = re.compile(r"[가-힣]")
-LATIN_LETTERS = r"[a-zA-ZÀ-ÿĀ-ž]"
+# 逐行要量的外來文字：本機模型長輸出漂去的方向。每語跳過自己的文字。
+FOREIGN_SCRIPTS = {
+    "ko": ("韓文", re.compile(r"[가-힣]")),
+    "ru": ("西里爾字母", re.compile(SCRIPT_RANGES["ru"])),
+    "hi": ("天城文", re.compile(SCRIPT_RANGES["hi"])),
+    "ar": ("阿拉伯文", re.compile(SCRIPT_RANGES["ar"])),
+}
+LATIN_LETTERS = r"[a-zA-Z\u00C0-\u024F\u1E00-\u1EFF]"
 OWN_SCRIPT = {
     "ru": SCRIPT_RANGES["ru"],
     "ar": SCRIPT_RANGES["ar"],
     "hi": SCRIPT_RANGES["hi"],
-    "ja": r"[぀-ゟ゠-ヿ一-鿿]",  # ja 的「自己的字」含漢字，韓文行才會是少數
+    "ko": SCRIPT_RANGES["ko"],
+    "ja": r"[぀-ゟ゠-ヿ一-鿿]",  # ja 的「自己的字」含漢字，外來文字行才會是少數
 }
-FOREIGN_MIN_CHARS = 4      # 一行至少幾個韓文字才算數（低於這個是單字融合殘留，另一把尺）
+FOREIGN_MIN_CHARS = 4      # 一行至少幾個外來字才算數（低於這個是單字融合殘留，另一把尺）
 FOREIGN_SOLO_CHARS = 20    # 單行 ≥ 這個數且目標語言字母為零 → 直接 fail
 
 
 def foreign_script_check(text: str, target: str) -> tuple[str, str]:
-    """回傳 (verdict, note)：verdict ∈ {"ok", "warn", "fail"}。target 為 ko 不查。
+    """回傳 (verdict, note)：verdict ∈ {"ok", "warn", "fail"}。
+
+    note 以「<文字>漂入[<代碼>]」開頭，babel-dispatch 靠方括號裡的代碼記
+    fail_reason（foreign-script[ar]），人讀前半段。
 
     吃原始全文而不是 body_of() 的產物：行號要對得回檔案（body_of 會把程式碼區塊
-    壓成一格，行號會漂），frontmatter 只跳過不重排。"""
-    if target == "ko":
-        return "ok", ""
+    壓成一格，行號會漂），frontmatter 只跳過不重排。NFC 不動換行，行號照樣對得上。"""
+    text = unicodedata.normalize("NFC", text)
     own = re.compile(OWN_SCRIPT.get(target, LATIN_LETTERS))
+    scripts = [(code, name, pat) for code, (name, pat) in FOREIGN_SCRIPTS.items() if code != target]
     start = 1
     m = re.match(r"^---\n.*?\n---\n", text, re.S)
     if m:
         start = text[: m.end()].count("\n") + 1
         text = text[m.end():]
-    bad: list[tuple[int, int, int, str]] = []
+    bad: list[tuple[int, str, str, int, int, str]] = []
     for i, line in enumerate(text.splitlines(), start):
         if line.lstrip().startswith(">"):
             continue
         stripped = FOREIGN_STRIP.sub(" ", line)
-        h = len(HANGUL.findall(stripped))
-        if h < FOREIGN_MIN_CHARS:
-            continue
-        o = len(own.findall(stripped))
-        if h >= o:
-            bad.append((i, h, o, line.strip()[:60]))
+        for code, name, pat in scripts:
+            h = len(pat.findall(stripped))
+            if h < FOREIGN_MIN_CHARS:
+                continue
+            o = len(own.findall(stripped))
+            if h >= o:
+                bad.append((i, code, name, h, o, line.strip()[:60]))
+                break
     if not bad:
         return "ok", ""
-    first = bad[0]
-    note = (f"韓文漂入非韓文譯文：{len(bad)} 行以韓文為主，第一處 L{first[0]}"
-            f"（韓文 {first[1]} 字 vs {target} {first[2]} 字）「{first[3]}」")
-    if len(bad) >= 2 or any(o == 0 and h >= FOREIGN_SOLO_CHARS for _, h, o, _ in bad):
+    _, code, name, h1, o1, snippet = bad[0]
+    per_script = {}
+    for b in bad:
+        per_script[b[2]] = per_script.get(b[2], 0) + 1
+    mix = "、".join(f"{n} {c} 行" for n, c in per_script.items())
+    note = (f"{name}漂入[{code}]：{len(bad)} 行以外來文字為主（{mix}），第一處 L{bad[0][0]}"
+            f"（{name} {h1} 字 vs {target} {o1} 字）「{snippet}」")
+    if len(bad) >= 2 or any(o == 0 and h >= FOREIGN_SOLO_CHARS for _, _, _, h, o, _ in bad):
         return "fail", note
     return "warn", note
 
@@ -195,7 +230,7 @@ def foreign_script_check(text: str, target: str) -> tuple[str, str]:
 def judge(path: Path, target: str) -> dict:
     text = path.read_text(encoding="utf-8", errors="replace")
     body = body_of(text)
-    words = re.findall(r"[a-zA-ZÀ-ÿĀ-žÀ-ɏ]+", body.lower())
+    words = re.findall(LATIN_WORD, body.lower())
     scores = score(text)
     ranked = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
     best, best_s = ranked[0]
@@ -214,7 +249,7 @@ def judge(path: Path, target: str) -> dict:
         verdict = "fail"
     else:
         verdict = "warn"
-    # 整篇語言錯是更根本的病，先報它；整篇沒錯才輪到局部的韓文漂入
+    # 整篇語言錯是更根本的病，先報它；整篇沒錯才輪到局部的外來文字漂入
     note = sibling or ""
     if verdict in ("ok", "skip-too-short", "warn") and not sibling:
         if foreign_verdict == "fail":

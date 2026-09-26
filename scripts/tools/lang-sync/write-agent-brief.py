@@ -346,7 +346,7 @@ def build(lang: str) -> dict:
             "6. 原稿 > 45KB 時連讀也要分節（Read 的 offset/limit）",
         ],
         "gates_before_delivery": [
-            "python3 scripts/tools/lang-sync/target-language-check.py <目標路徑>   # 必須 exit 0；印出『看起來是 en』就是翻錯語言，整篇重來；印出『韓文漂入』就是尾段換了語言（媒體說明／參考資料區／腳註描述整段韓文），那幾節重譯",
+            "python3 scripts/tools/lang-sync/target-language-check.py <目標路徑>   # 必須 exit 0；印出『看起來是 en』就是翻錯語言，整篇重來；印出『…漂入[ko]』（韓文／西里爾字母／天城文／阿拉伯文）就是有段落換了語言（常見在媒體說明／參考資料區／腳註描述），印出的行號那幾節重譯",
             "python3 scripts/tools/lang-sync/enrich-batch-targets.py --check <本派工單> <目標路徑>",
             "python3 scripts/tools/lang-sync/restore-footnote-urls.py knowledge/<zh_path> <目標路徑> --apply",
             # 站內連結在地化。產線（translate.py / structured-translate.py / patch-translate.py）
