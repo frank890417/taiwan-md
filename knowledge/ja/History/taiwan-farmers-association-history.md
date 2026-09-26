@@ -131,20 +131,20 @@ Airitiによる戦後農会の研究では、この時期を制度的遺産の�
 
 [^1]: [農業部：100歲農會的省思](https://www.moa.gov.tw/ws.php?id=2361) — 農業部知識入口網
 
-[^2]: [Airiti Library：農會的檔案與歷史－以戰後農會與合作社分合的派系紛爭為例](https://www.airitilibrary.com/Article/Detail?DocID=P20190408001-201403-201904180019-201904180019-60-73) — 詳見原始連結內文資料補充
+[^2]: [Airiti Library：農會的檔案與歷史－以戰後農會與合作社分合的派系紛爭為例](https://www.airitilibrary.com/Article/Detail?DocID=P20190408001-201403-201904180019-201904180019-60-73) — 詳細はリンク先の原文を参照
 
-[^3]: [Airiti Library：台灣農會與其信用部關係演變之研究](https://www.airitilibrary.com/Article/Detail/P20160805003-201806-201811060003-201811060003-101-132) — 詳見原始連結內文資料補充
+[^3]: [Airiti Library：台灣農會與其信用部關係演變之研究](https://www.airitilibrary.com/Article/Detail/P20160805003-201806-201811060003-201811060003-101-132) — 詳細はリンク先の原文を参照
 
-[^4]: [Airiti Library：臺灣農會檔案價值與運用](https://www.airitilibrary.com/Article/Detail?DocID=P20190408001-201303-201904190017-201904190017-28-39) — 詳見原始連結內文資料補充
+[^4]: [Airiti Library：臺灣農會檔案價值與運用](https://www.airitilibrary.com/Article/Detail?DocID=P20190408001-201303-201904190017-201904190017-28-39) — 詳細はリンク先の原文を参照
 
 [^5]: [農業部：農業金融局週年回顧與展望](https://www.moa.gov.tw/ws.php?id=8236) — 農業部知識入口網
 
-[^6]: [全國農業金庫：成立沿革](https://www.agribank.com.tw/Page?itemid=1&mid=3) — 詳見原始連結內文資料補充
+[^6]: [全國農業金庫：成立沿革](https://www.agribank.com.tw/Page?itemid=1&mid=3) — 詳細はリンク先の原文を参照
 
-[^7]: [Airiti Library：農會改進：戰後初期台灣農會體制的建構](https://www.airitilibrary.com/Article/Detail?DocID=1018189X-200903-21-1-143-188-a) — 詳見原始連結內文資料補充
+[^7]: [Airiti Library：農會改進：戰後初期台灣農會體制的建構](https://www.airitilibrary.com/Article/Detail?DocID=1018189X-200903-21-1-143-188-a) — 詳細はリンク先の原文を参照
 
-[^8]: [Airiti Library：農業金融改革對農會信用部效率影響之研究](https://www.airitilibrary.com/Article/Detail/U0023-2407200812121900) — 詳見原始連結內文資料補充
+[^8]: [Airiti Library：農業金融改革對農會信用部效率影響之研究](https://www.airitilibrary.com/Article/Detail/U0023-2407200812121900) — 詳細はリンク先の原文を参照
 
-[^9]: [Wikimedia Commons: Building of the agricultural cooperative of 棋盤厝, Rokkō, Taiwan](https://commons.wikimedia.org/wiki/File:Building_of_the_agricultural_cooperative_of_%E6%A3%8B%E7%9B%A4%E5%8E%9D,_Rokk%C5%8D,_Taiwan.png) — 詳見原始連結內文資料補充
+[^9]: [Wikimedia Commons: Building of the agricultural cooperative of 棋盤厝, Rokkō, Taiwan](https://commons.wikimedia.org/wiki/File:Building_of_the_agricultural_cooperative_of_%E6%A3%8B%E7%9B%A4%E5%8E%9D,_Rokk%C5%8D,_Taiwan.png) — 詳細はリンク先の原文を参照
 
-[^10]: [Wikimedia Commons: Tienchung Farmers Association](https://commons.wikimedia.org/wiki/File:TienchungFarmersAssociation.JPG) — 詳見原始連結內文資料補充
+[^10]: [Wikimedia Commons: Tienchung Farmers Association](https://commons.wikimedia.org/wiki/File:TienchungFarmersAssociation.JPG) — 詳細はリンク先の原文を参照
