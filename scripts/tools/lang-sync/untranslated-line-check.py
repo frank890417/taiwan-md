@@ -53,11 +53,19 @@ IMG = re.compile(r"^!\[([^\]]*)\]\([^)]*\)\s*$")
 
 # 參考／來源章節：底下的中文書目條目是真實來源的原名，保留是對的（同 [^n] 腳註）。
 # 第一版沒排除，de/en 的編號書目全被誤報。
+# 2026-09-26 補齊各語言實際在用的書目標題：法文 Références、葡文 Referências 帶重音，
+# `Referen\w*` 對不上；阿拉伯文 906 篇用帶冠詞的 المراجع；越南文 Tài liệu tham khảo、
+# 俄文 Ссылки 根本不在清單。五個語言各九百篇的書目區因此被當正文掃，ar〈八點檔〉的
+# agent 碰上七行「未翻」——全是依規定保留原名的中文來源標題，閘門等於在誘導 agent 把
+# 書目標題翻掉。清單照全庫「第一條腳註定義上方那個標題」的實際分布補。
 REF_HEADING = re.compile(
     r"^#{1,3}\s*("
-    r"參考\w*|参考\w*|Referen\w*|Bibliograf\w*|Bibliograph\w*|"
-    r"Quellen|Bildquellen|Источник\w*|참고|Fuentes|Sources?|"
-    r"مراجع|مصادر|संदर्भ|Nguồn|Sumber"
+    r"參考\w*|参考\w*|出典|脚注|R[eé]f[eé]r[eêé]n\w*|Bibliogra\w*|Footnotes|Notes|Notas\b|"
+    r"Quellen|Bildquellen|Literatur\w*|Fußnoten|Einzelnachweise|"
+    r"Источник\w*|Ссылки|Справочн\w*|Список литературы|Литература|"
+    r"참고|출처|각주|주석|Fuentes|Fontes|Sources?|"
+    r"(?:ال)?مراجع|(?:ال)?مصادر|संदर्भ|सन्दर्भ|स्रोत|"
+    r"Nguồn|(?:Tài liệu )?tham khảo|Sumber|Daftar Pustaka|Catatan Kaki"
     r")", re.I)
 # 只由 wikilink 與分隔符組成的導覽列（Hub 檔的目錄），屬 hub 在地化另一族
 NAV_ONLY = re.compile(r"^(\s*\[\[[^\]]+\]\]\s*[|、,·/]?\s*)+$")
