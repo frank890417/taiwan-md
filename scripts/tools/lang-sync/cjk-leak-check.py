@@ -469,6 +469,22 @@ def detect_lang(path: Path) -> str:
     return "unknown"
 
 
+_SOURCE_RUN_RE = re.compile(r"[一-鿿　-〿＀-￯]{2,}")
+
+
+def _drop_source_verbatim(bib_raw: str, translation_text: str) -> str:
+    """把跟 zh 原稿逐字相同的漢字串從書目區拿掉（原稿本來就這樣寫的出處標題）。"""
+    m = re.search(r"^translatedFrom:\s*['\"]?([^'\"\n]+)", translation_text, re.M)
+    if not m:
+        return bib_raw
+    src = REPO / "knowledge" / m.group(1).strip()
+    try:
+        zh_text = src.read_text(encoding="utf-8")
+    except OSError:
+        return bib_raw
+    return _SOURCE_RUN_RE.sub(lambda r: "" if r.group(0) in zh_text else r.group(0), bib_raw)
+
+
 def scan_file(path: Path, lang: str = None, verbose: bool = False):
     try:
         text = path.read_text(encoding="utf-8")
@@ -520,6 +536,10 @@ def scan_file(path: Path, lang: str = None, verbose: bool = False):
 
     # 書目區簡體殘留（兩分支共用，OBSERVER-QUEUE #23 選 A）：正體來源標題放行，
     # 簡體不放行，命中即整篇判 leak。
+    # 2026-09-26：原稿自己引的就是簡體來源時（〈許倬雲〉的「史学大师许倬云：身体残疾…
+    # - 网易」），照抄是對的，改成正體反而是竄改出處標題。所以跟 zh 原稿逐字相同的
+    # 漢字串先剝掉再檢查；原稿沒有、譯文才冒出來的簡體照擋。
+    bib_raw = _drop_source_verbatim(bib_raw, text)
     simplified = detect_simplified_residue(bib_raw, lang)
     if simplified:
         hits.append(f"書目區簡體殘留: {simplified}")

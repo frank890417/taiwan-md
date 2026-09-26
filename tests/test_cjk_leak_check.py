@@ -459,3 +459,25 @@ def test_adjacency_check_skips_cjk_script_languages():
         vi.write_text("---\ntitle: y\n---\nGiải Kim曲 năm nay rất lớn.\n", encoding="utf-8")
         assert m.scan(ja) == []
         assert m.scan(vi) != []
+
+
+def _bib_translation(tmp_path, title):
+    path = tmp_path / "ru--example.md"
+    path.write_text(
+        "---\ntitle: 'Пример'\ntranslatedFrom: 'People/許倬雲.md'\n---\n\n"
+        "Полностью русский текст.\n\n## Ссылки\n\n"
+        f"[^9]: [{title}](https://example.com/a) — описание источника.\n",
+        encoding="utf-8",
+    )
+    return path
+
+
+def test_simplified_source_title_quoted_verbatim_from_zh_is_allowed(tmp_path):
+    # zh 原稿自己引的就是簡體標題（網易），譯文照抄是對的
+    path = _bib_translation(tmp_path, "史学大师许倬云：身体残疾，爱情不将就 - 网易")
+    assert not [h for h in MODULE.scan_file(path, lang="ru") if "簡體" in h]
+
+
+def test_simplified_text_not_in_zh_source_is_still_caught(tmp_path):
+    path = _bib_translation(tmp_path, "这是模型写出来的简体残留")
+    assert [h for h in MODULE.scan_file(path, lang="ru") if "簡體" in h]
