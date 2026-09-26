@@ -43,7 +43,7 @@ Diese Definition wandelt das Problem von „Ist genug Strom da?“ in vier schwi
 
 # 815: Wie ein Ventil fast ganz Taiwan lahmlegte
 
-Der Großausfall von 815 am 15. August 2017 war ein Wendepunkt, an dem die Gesellschaft die Netzresilienz Taiwans in großem Maßstab erblickte. Die Untersuchung der Exekutive ergab, dass die Gasversorgung des Kraftwerks Datan plötzlich unterbrochen wurde, weil bei einem Austausch des Gasmessgeräte-Netzteils durch einen externen Lieferanten von Formosa Plastics (中油) eine provisorische Verbindung verwendet und diese entfernt wurde, was zu einem Ausfall der Steuerungsstromversorgung und Kommunikation führte. Die erneute Aktivierung der Steuerung schaltete das Motorventil automatisch ab, was schließlich zur vollständigen Unterbrechung der Gaszufuhr führte.[^2]
+Der Großausfall von 815 am 15. August 2017 war ein Wendepunkt, an dem die Gesellschaft die Netzresilienz Taiwans in großem Maßstab erblickte. Die Untersuchung der Exekutive ergab, dass die Gasversorgung des Kraftwerks Datan plötzlich unterbrochen wurde, weil bei einem Austausch des Gasmessgeräte-Netzteils durch einen externen Auftragnehmer von CPC (中油) eine provisorische Verbindung verwendet und diese entfernt wurde, was zu einem Ausfall der Steuerungsstromversorgung und Kommunikation führte. Die erneute Aktivierung der Steuerung schaltete das Motorventil automatisch ab, was schließlich zur vollständigen Unterbrechung der Gaszufuhr führte.[^2]
 
 Der Kern des Vorfalls lässt sich nicht allein durch „jemand hat einen Knopf falsch gedrückt“ erklären. Die Untersuchung wies ferner darauf hin, dass wichtige Motorventile gemeinsame Steuerungen nutzten, die Gasversorgung von Datan war nicht ausreichend dezentralisiert und das Risikomanagement unzureichend war, was einer lokalen Wartungsmaßnahme Konsequenzen über den unmittelbaren Ort hinaus gab. Nach der Unterbrechung der Gasversorgung schalteten die Maschinen ab, die Systemstromkapazität sank drastisch, und schließlich wurden 17 Städte und Gemeinden mit 6,68 Millionen Nutzern nacheinander vom Strom abgeschnitten.[^3]
 
@@ -157,7 +157,7 @@ Wenn Taiwan zehn Jahre und 56,45 Milliarden Taler investiert, um das Netz neu zu
 
 **Weiterführende Lektüre**:
 
-- [Taiwan Ölpreismechanismus und Formosa Plastics](/economy/台灣油價機制與中油) — Die beiden Posten von Formosa Plastics neben den 711 Milliarden Taler von Taipower in demselben sechs Billionen Taler Zusatzbudget: Ein staatliches Unternehmen, das zuerst zur Front gerufen wurde, wer zahlt am Ende?
+- [Taiwans Ölpreismechanismus und CPC](/de/economy/taiwan-fuel-pricing-and-cpc) — Im selben Nachtragshaushalt von 600 Milliarden NT$ stehen neben den 71,1 Milliarden NT$ für Taipower die zwei Posten für CPC: ein Staatsunternehmen, das als Erstes an die Front geschickt wurde – wer trägt am Ende das Geld, das es vorstreckt?
 
 ## Referenzen
 

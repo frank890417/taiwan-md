@@ -116,7 +116,7 @@ Beyond defense, an honest observation must acknowledge: Taiwan also has shadows 
 
 ### Local Cyber Armies: Lin Wei-feng, 1450, and the "47 Accounts" Blunder
 
-In 2021, pro-DPP writer Lin Wei-feng was exposed for using the account `bj26bj` on PTT to post pro-CCP articles in reverse, then using his real name on Facebook to accuse PTT of being penetrated[^30]. The Investigation Bureau received over 70 reports, and the incident burned for months. Lin Wei-feng’s spouse, Yang Min-shi, was then the Deputy Director of the DPP’s Network Community Center[^30].
+In 2021, pro-DPP writer Lin Wei-feng was exposed for using the account `bj26bj` on PTT to post pro-CCP articles in reverse, then using his real name on Facebook to accuse PTT of being penetrated[^30]. The Investigation Bureau received over 70 reports, and the incident burned for months. Lin Wei-feng’s spouse, Yang Min, was then the Deputy Director of the DPP’s Network Community Center[^30].
 
 The term "1450" refers to the DPP’s cyber army sidekick. The official version is that the Council of Agriculture allocated 14.5 million NTD for network marketing in 2019, hence the name. The opposition version directly points to the DPP’s organized cyber army operations[^31]. Another case: the DPP administration once listed 47 network accounts as Chinese "agents," only to find after verification that **most were DPP supporters**[^32].
 
@@ -126,7 +126,7 @@ The 2018 Kansai Airport incident is the most difficult but most reference-worthy
 
 On September 6 that year, Typhoon Jebi hit Kansai Airport. Subsequently, false information circulated on the Taiwanese internet claiming "the Chinese Embassy sent cars to pick up Chinese passengers," criticizing the Taiwan Representative Office in Osaka for inaction. Shen Pei-yang later traced the source, confirming the fake video first appeared on the Chinese Weibo account "Floods and Fierce Beasts baby," made into news by "Observer Network," 24 hours earlier than Taiwanese news[^33].
 
-But this was only half the story. On the Taiwanese local side, Yang Hui-ju provided internet to Cai Fu-ming, who used the PTT account `idcc` to criticize the Osaka Representative Office as "rotten to the core, remnants of the party-state state." Within one minute, he directed the cyber army via the LINE group "Kaohsiung Group" to amplify the tone[^34]. On September 14, the Director of the Taipei Representative Office in Osaka, **Su Chi-cheng**, committed suicide at his official residence. His suicide note did not directly mention pressure from fake news, only writing "did not want to be humiliated" and "unwilling to be punished, transferred, or recorded for demerits due to baseless charges"[^35]. In November 2021, Yang Hui-ju was sentenced to 6 months in the first instance[^36]. She later applied for constitutional interpretation; in March 2025, the Constitutional Court ruled the crime of insulting official duties unconstitutional, leading to Yang Hui-ju’s case being dismissed[^37].
+But this was only half the story. On the Taiwanese local side, Yang Hui-ju provided internet to Tsai Fu-ming, who used the PTT account `idcc` to criticize the Osaka Representative Office as "rotten to the core, remnants of the party-state state." Within one minute, he directed the cyber army via the LINE group "Kaohsiung Group" to amplify the tone[^34]. On September 14, the Director of the Taipei Representative Office in Osaka, **Su Chi-cheng**, committed suicide at his official residence. His suicide note did not directly mention pressure from fake news, only writing "did not want to be humiliated" and "unwilling to be punished, transferred, or recorded for demerits due to baseless charges"[^35]. In November 2021, Yang Hui-ju was sentenced to 6 months in the first instance[^36]. She later applied for constitutional interpretation; in March 2025, the Constitutional Court ruled the crime of insulting official duties unconstitutional, leading to Yang Hui-ju’s case being dismissed[^37].
 
 📝 **Curator’s Note:** The value of this case lies in laying bare the boundary between "cognitive warfare" and "local cyber armies." The same event can have both Chinese-source disinformation and relayed Taiwanese local cyber armies; any simplification is disrespectful to the deceased. Su Chi-cheng’s family has never been able to recover, and the Constitutional Court’s judgment made the legal responsibility dismissal final: justice, truth, and pain, these three lines cannot align.
 
@@ -138,7 +138,7 @@ In a long essay on Medium, UNLV Political Science Assistant Professor Austin Wan
 >
 > **"Messages transmitted by people of different colors are judged to be disinformation with different probabilities."**
 
-Wang’s stance is not to exonerate the CCP: he himself studies CCP cognitive warfare. He points out the risk of methodological double standards: academic research mostly only has access to public data, unable to access financial flows and communications. The government, acting simultaneously as the punisher and the information holder, has an agency problem. People First Party Legislator Chang Chi-lu also said something similar: "Treating all critics of the government as CCP accomplices or directed by the old CCP will only make people feel this is a green camp cognitive warfare operation."[^38]
+Wang’s stance is not to exonerate the CCP: he himself studies CCP cognitive warfare. He points out the risk of methodological double standards: academic research mostly only has access to public data, unable to access financial flows and communications. The government, acting simultaneously as the punisher and the information holder, has an agency problem. Taiwan People’s Party Legislator Chang Chi-lu also said something similar: "Treating all critics of the government as CCP accomplices or directed by the old CCP will only make people feel this is a green camp cognitive warfare operation."[^38]
 
 ### Why the Digital Intermediary Services Act Was Withdrawn
 
@@ -318,7 +318,7 @@ The ultimate battlefield of cognitive warfare is **trust relationships themselve
 
 [^37]: [Raising Cyber Army to Insult Osaka Office, Yang Hui-ju Granted Dismissal](https://www.ettoday.net/news/20250221/2912746.htm) — ETtoday, 2025-02-21, dismissal confirmed after Constitutional Court ruled insulting official duties unconstitutional
 
-[^38]: [People First Party’s Chang Chi-lu: Labeling Critics May Be Green Camp Cognitive Warfare](https://udn.com/news/story/10930/5610468) — United Daily News, 2021, People First Party stance
+[^38]: [Taiwan People’s Party’s Chang Chi-lu: Labeling Critics May Be Green Camp Cognitive Warfare](https://udn.com/news/story/10930/5610468) — United Daily News, 2021, Taiwan People’s Party stance
 
 [^39]: [Digital Intermediary Services Act Controversy](https://zh.wikipedia.org/zh-hant/%E6%95%B8%E4%BD%8D%E4%B8%AD%E4%BB%8B%E6%9C%8D%E5%8B%99%E6%B3%95%E7%88%AD%E8%AD%B0%E4%BA%8B%E4%BB%B6) — Wikipedia, complete timeline of the 2022 withdrawal of the Digital Intermediary Act
 

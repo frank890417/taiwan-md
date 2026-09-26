@@ -225,7 +225,7 @@ Vom Abschiedsbrief zur Kontroll-Yuan-Präsidentin – einundvierzig Jahre. Das i
 
 [^18]: [Exekutiv-Yuan: Kommission zur Förderung der Transitional Justice](https://www.tjc.gov.tw/) — – Unabhängige Behörde 2018–2022, zuständig für Öffnung politischer Archive, Beseitigung autoritärer Symbole, Rehabilitation justizieller Unrechtsurteile; nach Ende 2022 Übergabe der Aufgaben an die jeweiligen Ministerien
 
-[^19]: [Liberty Times: Chen Chus Gefängnis-Abschiedsbrief](https://news.ltn.com.tw/news/politics/breakingnews/1553866) — – Inhalt und Entstehungsgeschichte des Abschiedsbriefs, den Chen Chu 1980 in der Untersuchungshaft des Adjustment Bureau (調查局) schrieb, von Verteidigungsanwalt Kao Chun-ming (高俊明) heimlich herausgeschmuggelt; der Brief zitiert den Paulusbrief als Selbstermutigung und verabschiedet sich vom taiwanesischen Volk, nicht von der Familie
+[^19]: [Liberty Times: Chen Chus Gefängnis-Abschiedsbrief](https://news.ltn.com.tw/news/politics/breakingnews/1553866) — Inhalt und Entstehungsgeschichte des Abschiedsbriefs, den Chen Chu 1980 in der Haft des Ermittlungsbüros des Justizministeriums (調查局) schrieb, von Verteidigungsanwalt Kao Chun-ming (高俊明) heimlich herausgeschmuggelt; der Brief zitiert den Paulusbrief als Selbstermutigung und verabschiedet sich vom taiwanesischen Volk, nicht von der Familie
 
 [^20]: [China Change: Chiang Ching-kuo und Taiwans Demokratisierung](https://chinachange.org/2013/06/03/chiang-chang-kuo-and-the-democratization-of-taiwan-2/) — – Analyse von Chiang Ching-kuos Entscheidungsprozess in seinen letzten zwei Jahren, einschließlich der Anekdote „Verhaften löst das Problem nicht“ und Ma Ying-jeous „Blitzgefühl“-Erinnerung, basierend auf _CommonWealth Magazine_ und _Retrospect Journal_
 

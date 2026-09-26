@@ -132,7 +132,7 @@ Der Verleger Hao Ming-yi (郝明義) trat während des Protests als Berater für
 
 Die Menschen aus dem Sunflower-Protest gingen danach in völlig unterschiedliche Richtungen.
 
-Lin Fei-fan trat 2019 der DPP bei und wurde stellvertretender Sekretär, ein Teil des Systems, gegen das sie einst protestiert hatten. Chen Wei-ting blieb auf dem Weg der zivilgesellschaftlichen Bewegung, trat aber nicht in die Politik ein; Ende 2014 zog er aus dem Nachwahlkampf im Bezirk Miaoli zurück aufgrund früherer Vorwürfe sexueller Belästigung.[^18] Huang Guo-chang (黃國昌) gewann mit the Sunflower Movement (時代力量) fünf Mandate im Jahr 2016, verließ später die von ihm gegründete Partei und wurde 2024 als nicht-mandatierter Kandidat der Common Power Party (民眾黨) gewählt.[^19]
+Lin Fei-fan trat 2019 der DPP bei und wurde stellvertretender Sekretär, ein Teil des Systems, gegen das sie einst protestiert hatten. Chen Wei-ting blieb auf dem Weg der zivilgesellschaftlichen Bewegung, trat aber nicht in die Politik ein; Ende 2014 zog er aus dem Nachwahlkampf im Bezirk Miaoli zurück aufgrund früherer Vorwürfe sexueller Belästigung.[^18] Huang Kuo-chang (黃國昌) gewann 2016 mit der New Power Party (時代力量) fünf Sitze im Legislativyuan, verließ später die von ihm gegründete Partei und wurde 2024 über die Parteiliste der Taiwan People’s Party (民眾黨) gewählt.[^19]
 
 Eine Studie des Soziologiebereichs der National Taiwan University zu tausend Teilnehmern während des Protests ergab: 65 % nahmen zum ersten Mal an einem politischen Protest teil, mit einem Durchschnittsalter von 23 Jahren[^4]. Diese Menschen sind heute in ihren Dreißigern und verteilen sich in allen Ecken der taiwanesischen Gesellschaft.
 
@@ -205,7 +205,7 @@ Die dreißig Sekunden, die Chang Ching-chuan wahrscheinlich nicht ahnte, ändert
 
 [^17]: [Liberty Times: Ausländische Medien sagen, China selbst besiegt; beunruhigender Rückgang der Exportabhängigkeit Taiwans von China](https://ec.ltn.com.tw/article/breakingnews/4602029) — Internationale Medienanalysen des Trends des Rückgangs der taiwanesischen Abhängigkeit von China und des Anstiegs des Exportanteils nach USA.
 
-[^18]: [Wind Media: Sunflower 5 Jahre – Was ist mit den Menschen, die damals das Parlament besetzten?](https://www.storm.mg/article/1046957) — Die Nachverfolgung der Entwicklungen der Protestführer, einschließlich der unterschiedlichen Wege von Lin Fei-fan, Chen Wei-ting und Huang Guo-chang.
+[^18]: [Wind Media: Sunflower 5 Jahre – Was ist mit den Menschen, die damals das Parlament besetzten?](https://www.storm.mg/article/1046957) — Die Nachverfolgung der Entwicklungen der Protestführer, einschließlich der unterschiedlichen Wege von Lin Fei-fan, Chen Wei-ting und Huang Kuo-chang.
 
 [^19]: [Wikipedia: Wahlregister des Sunflower Movement (時代力量)](https://zh.wikipedia.org/zh-tw/%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E5%8F%83%E6%94%BF%E9%81%B8%E8%88%89%E5%88%97%E8%A1%A8) — Der Wahllaufbericht des Sunflower Movement, der die fünf Mandate im Jahr 2016 bis zum einzigen verbleibenden Mandat im Jahr 2024 zeigt.
 
