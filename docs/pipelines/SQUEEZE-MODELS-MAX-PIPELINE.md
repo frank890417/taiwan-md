@@ -3,9 +3,9 @@ title: 'SQUEEZE-MODELS-MAX-PIPELINE'
 description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.4 對齊 translate.py v4.3（owl-alpha 移出 default / preflight 冷凍 / audit-quality.py 已存在）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.13'
-last_updated: 2026-09-05
-last_session: '2026-09-05（OBSERVER-QUEUE #18 拍板執行：哲宇原話「tier 6 用 haiku, 7 用 gemini」——摘 gemini 免費層出 default cascade、新增 Tier 6 Haiku／Tier 7 Gemini 付費 API 兩個 backend＋babel-dispatch.py 資格限制與每夜配額機制、義務鐵律新增 cascade exhausted escalate 條款）'
+current_version: 'v4.14'
+last_updated: 2026-09-27
+last_session: '2026-09-27-031342-twmd-distill-weekly（§Tier 0b bump 必同步 passthrough）'
 production_signal: 'scripts/tools/lang-sync/translate.py §DEFAULT_CASCADE_ID docstring（本檔 cascade 描述必須鏡射它；audit 時 diff 這兩處，REFLEXES #56 rule (a)）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
@@ -23,6 +23,8 @@ upstream_canonical:
 # 榨模型MAX — 多語 batch sync 主流程 v4.13
 
 > **第一性原理**：用所有手邊免費 model 同時平行打、refusal 當作 first-class 結果記錄、最終跨批次統合補空缺，把單一 model 的天花板（rate limit / content policy / quality）拆成許多小天花板加起來逼近 100%。Tier 4 Local LLM 永不漏接 sovereignty-sensitive topics。
+>
+> v4.14（2026-09-27 twmd-distill-weekly）：§Tier 0b 補「bump 必同步 passthrough 欄位」一段（LESSONS `metadata-stale-bump-assumes-frontmatter-unchanged` → REFLEXES #38）。
 >
 > v4.13（2026-09-05）：**babel cascade 重建**（OBSERVER-QUEUE #18，哲宇拍板原話
 > 「tier 6 用 haiku, 7 用 gemini」）— (a) **gemini（訂閱版 CLI）摘出 default
@@ -902,6 +904,8 @@ python3 scripts/tools/lang-sync/bump-source-sha.py --apply
 ```
 
 零 LLM call、零 token cost、零 risk。Phase 6 + this v3 後 P2.5 = 自動清。
+
+**bump 必同步 passthrough 欄位**（v4.14，2026-09-27）：`metadata-stale` 表示「變的全在 frontmatter 與 trailer」，而 frontmatter-only 變動最常改的是卡片圖四欄（image／imageCredit／imageLicense／imageSource）與 featured。只抄三個 sha 會讓譯文停在 zh 已換掉的熱連結，從此 fresh 不再被任何路徑看見（2026-09-22 量到 261 份）。`bump-source-sha.py` 已 import `heal-frontmatter-types.sync_passthrough_fields()` 同步這五欄；lastVerified／lastHumanReview 刻意不同步（body 還沒重翻就抄，等於替沒驗過的內容蓋章）。存量用 `heal-frontmatter-types.py --sync-passthrough`。REFLEXES #38。
 
 ### v3 4-tier cascade（updated）
 

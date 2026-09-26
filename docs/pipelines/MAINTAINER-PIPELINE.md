@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.12'
-last_updated: 2026-09-19
-last_session: '2026-09-19 分岔合併（哲宇 directive：分岔修復是 maintainer 職責 → Step 1.1b + merge-divergence.py）'
+current_version: 'v2.13'
+last_updated: 2026-09-27
+last_session: '2026-09-27-031342-twmd-distill-weekly（Step 3.5 補 pre-commit profile，REFLEXES #100）'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -308,7 +308,7 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 4. **Step 2.4 重複回應檢查** — 維護者剛回過、沒新 follow-up → SKIP（避免罐頭 reply 雜訊）；**Step 3.0 動手前先 `--add-assignee @me`**，已有他人 assignee 就是別台機器在做（2026-09-18 #1746 兩台同修）
 5. **Step 3.3 §Close 前 hard gate** — close 前必問「我接手 X min 內可以修嗎」，default 是 polish 不 close
 6. **Step 3.4 §Footnote source authority audit** — 外部 PR footnote 必抽樣 WebFetch ≥ 3 URL（防 Manus AI 虛構內部 source 紅旗）
-7. **Step 3.5 article-health.py 全 plugin gate** — B 路徑 hard gate 必跑，且**必帶 `--profile=ci-deploy`**（PR-side CI 不等於 main-side deploy CI；footnote-format / image-health 只在後者跑。不帶 profile 會漏掉破折號／全形分號硬門檻，回一個 CI 不認的 hard=0）
+7. **Step 3.5 article-health.py 全 plugin gate** — B 路徑 hard gate 必跑，且**必帶 `--profile=ci-deploy`**（PR-side CI 不等於 main-side deploy CI；footnote-format / image-health 只在後者跑。不帶 profile 會漏掉破折號／全形分號硬門檻，回一個 CI 不認的 hard=0）。**commit 那一刻跑的是另一把**：pre-commit 用 `--profile=pre-commit`，兩個 profile 的檢查集合不相等（2026-09-23 九檔在 ci-deploy 全 hard=0，其中一篇在 pre-commit 是 hard=1）。heal 完兩把都跑，或直接 `--staged --profile=pre-commit` 模擬 commit 閘門（REFLEXES #100 規則 (c)）
 8. **Step 3.7 thank-you 用 `gh pr comment` 不是 `--body`** — `gh pr merge --body` 寫進 git log，貢獻者看不到
 
 ---
@@ -1082,6 +1082,8 @@ WebFetch URL → 驗證該 URL 是否真的提到 footnote 旁邊的 claim。若
 #    不帶 profile 時破折號／全形分號的硬門檻不會掛上，同一支檔會回 hard=0，
 #    但 pre-push / CI 用的是 ci-deploy 那把尺 → 照本 SOP 走會拿到 CI 不認的綠燈。
 python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --profile=ci-deploy  # 全 plugin
+#    ⚠️ commit 時 pre-commit 跑的是 --profile=pre-commit，檢查集合跟 ci-deploy 不同（2026-09-23 現形，REFLEXES #100）：
+python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --profile=pre-commit
 
 # 2. 找對應 quick-fix 工具
 python3 scripts/tools/footnote-format-fix.py <file> --apply  # 若 footnote 格式異常
@@ -1567,6 +1569,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.13**（2026-09-27 twmd-distill-weekly）— Step 3.5 補「commit 跑的是 pre-commit 那把 profile」，heal 完兩把都跑（LESSONS `prescribed-profile-is-not-the-gate-profile` → REFLEXES #100）
 - **v2.12**（2026-09-19 分岔合併）— Step 1.1b 分岔當班修（策略 B 12 步 + `merge-divergence.py`），「撞 conflict → abort」廢止
 - **v2.11**（2026-09-19 twmd-maintainer-am）— Step 3.0 動手前先認領（`--add-assignee @me`），跨機器平行偵測的第三層
 - **v2.10**（2026-09-05 fortnight-review）— 三條投稿判例：人物知名度門檻自媒體變體明文化／覆寫既有查證文第五路徑 EVOLVE 接住／About 第一人稱自述文收錄邊界

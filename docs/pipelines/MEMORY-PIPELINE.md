@@ -3,9 +3,9 @@ title: 'MEMORY-PIPELINE'
 description: 'Session memory 撰寫流程 — 凝練版結構模板 + Stage 0-5 + 5 分鐘 reading test 自檢 + finale contract + index 150字 hard gate (v2.1)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.4'
-last_updated: 2026-09-20
-last_session: '2026-09-20-twmd-self-evolve-weekly（§Handoff 交接項要帶穩定參照，配 handoff-latency.py）'
+current_version: 'v2.5'
+last_updated: 2026-09-27
+last_session: '2026-09-27-031342-twmd-distill-weekly（§Handoff 補收件席位與參照狀態，REFLEXES #97）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=memory-diary'
 sister_docs:
   - 'DIARY-PIPELINE.md'
@@ -298,6 +298,8 @@ _核心洞察：(1) ... (2) ... (3) ...{每條一句話}_
 
 > **交接項要帶穩定參照（2026-09-20 self-evolve 新增）**：每條 pending / blocked 至少帶一個改寫也不會變的身分——issue／PR `#N`、`OBSERVER-QUEUE #N`、`EXP-YYYY-MM-DD-id`、LESSONS 的 `slug-with-dashes`；retire 時 strikethrough 裡也留著它。理由：[`handoff-latency.py`](../../scripts/tools/handoff-latency.py) 量「一條交接被幾班原樣往下傳、跨幾天沒人動」，只有靠這些參照才追得住——同一件事被三班各自換句話寫，字面比對就斷了（近 45 天 2,292 條交接行裡，能追的只有帶參照的 203 件）。沒有參照的交接是寫給下一班讀的，有參照的交接才是量得到的。週體檢 dossier §八之二 印這張表。
 
+> **交接項要寫收件席位，參照要帶狀態（2026-09-27 distill 新增）**：(1) 每條 pending 寫明收件席位（哪條 routine／哪個 mode／哪個人），並寫一句「該席位動得了這個路徑嗎」。09-20～09-23 三例交接指名了一個 commit 範圍收不下那個檔的 routine，收件人讀了只能原樣往下傳，報表上跟「還沒輪到」長得一樣（REFLEXES #97 子規則）。被原樣傳三輪以上、指名席位固定的，先當權限問題看。(2) 指向佇列的參照帶狀態：`OBSERVER-QUEUE #N（已決／待決）`。09-14 起 26 個班別把一個 09-05 已拍板的決定逐字寫成「停用未拍板」，其中數條一邊貼錯標籤、一邊正確指向說相反話的註腳；帶狀態的參照至少讓複製時複製到一個可以被對賬的字。
+
 ## Beat 5 — 反芻
 
 一到兩段散文。如果反芻內容大到該寫 diary，本段只留摘要 + 指 diary pointer。
@@ -510,3 +512,7 @@ _v2.1 | 2026-05-12 backend-abstraction — Index row 150 字 hard gate：新增 
 _v2.2 | 2026-07-05 dna-audit — **§索引蒸餾 條款 + rollup 儀器 ship**：memory-index-rollup.py 週度月度彙整（distill-weekly owner）+ lint wire husky + Hard Gate 表 +1 列。觸發：S4 蒸餾債（709 rows / 1.2MB / alert 黃燈 22 天無人接）。_
 
 _v2.3 | 2026-09-05 — **Stage 4 自檢 budget 敘述同步**：memory-diary profile 從「墊高 score_budget 到 8」改成「exclude_dimensions 豁免 LIST-DUMP/THIN/citation-desert/no-url 四個文章向維度 + budget 收回 3」，Stage 4 bash 註解同步改寫。觸發：哲宇拍板 [OBSERVER-QUEUE.md](../semiont/OBSERVER-QUEUE.md) #24 選 B（2026-07-28 dogfood 揭露墊高 budget 獎勵單薄懲罰完整）。_
+
+_v2.4 | 2026-09-20 twmd-self-evolve-weekly — **§Handoff 交接項要帶穩定參照**（issue／PR `#N`、`OBSERVER-QUEUE #N`、EXP id、LESSONS slug），配 `handoff-latency.py` 與週體檢 dossier §八之二。（本行 2026-09-27 補登：v2.4 當時只改了 frontmatter。）_
+
+_v2.5 | 2026-09-27 twmd-distill-weekly — **§Handoff 補收件席位與參照狀態**：源 LESSONS `handoff-addressed-to-a-seat-that-cannot-act`（vc=3）＋`settled-decision-relabelled-as-open-in-handoff`（27 班複製），兩條 fold 進 REFLEXES #97 子規則。_
