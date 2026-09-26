@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T12:09:45+08:00",
-    "zhCommitHead": "6504bf233",
+    "lastUpdated": "2026-09-26T12:14:27+08:00",
+    "zhCommitHead": "aa684224b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1103,
-        "stale": 14,
+        "fresh": 1104,
+        "stale": 13,
         "metadata_stale": 0,
         "missing": 7,
         "orphan": 0
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1102,
+        "fresh": 1103,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 11,
+        "missing": 10,
         "orphan": 0
       },
       "hi": {
@@ -92,16 +92,16 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1079,
+        "fresh": 1080,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 29,
+        "missing": 28,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1092,
-        "stale": 7,
+        "fresh": 1093,
+        "stale": 6,
         "metadata_stale": 1,
         "missing": 24,
         "orphan": 0
@@ -8191,7 +8191,20 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-creative-content-agency.md",
+          "translatedFrom": "Economy/文化內容策進院.md",
+          "sourceCommitSha": "d704d4e52",
+          "sourceContentHash": "sha256:1d88a269185c0f26",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:07:46.242841+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 65863,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -12531,8 +12544,8 @@
           "sourceContentHash": "sha256:ab3b9104eaaaac16",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:54:54.646257+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa684224",
+          "translationLastModified": "2026-09-26T12:09:45+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "bytes": 45685,
@@ -26721,8 +26734,8 @@
           "sourceContentHash": "sha256:a4422796c61c1b2e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:29:08.446564+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa684224",
+          "translationLastModified": "2026-09-26T12:09:45+08:00",
           "inferred": false,
           "footnoteDefs": 47,
           "bytes": 49012,
@@ -51432,8 +51445,8 @@
           "sourceContentHash": "sha256:f05a2e0d9322fb19",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T02:35:39.349363+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa684224",
+          "translationLastModified": "2026-09-26T12:09:45+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "bytes": 55714,
@@ -56732,11 +56745,11 @@
           "sourceContentHash": "sha256:da418b1ee825bfe1",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T02:44:48.800708+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa684224",
+          "translationLastModified": "2026-09-26T12:09:45+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "bytes": 56678,
+          "bytes": 56680,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -71685,8 +71698,8 @@
           "sourceContentHash": "sha256:7318206b6cc4ec7b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:04:26.429390+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa684224",
+          "translationLastModified": "2026-09-26T12:09:45+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 51770,
@@ -76708,20 +76721,18 @@
         "ru": {
           "path": "ru/Society/taiwans-labeling-in-international-standards.md",
           "translatedFrom": "Society/台灣在國際標準中的標示問題.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:474db7988470495f",
-          "sourceBodyHash": "sha256:288ae1e41983889d",
-          "translatedAt": "2026-09-09T15:33:03+08:00",
+          "sourceCommitSha": "d7b843fbf",
+          "sourceContentHash": "sha256:c6d4e2074d20efa4",
+          "sourceBodyHash": "sha256:234ae4c6ee15c7e0",
+          "translatedAt": "2026-09-26T10:22:56+08:00",
           "translationLastCommit": "1c50d7d2",
           "translationLastModified": "2026-09-16T21:17:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 20390,
+          "bytes": 19282,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/taiwans-labeling-in-international-standards.md",
@@ -109906,11 +109917,11 @@
           "sourceContentHash": "sha256:ea13c4b2a458e44f",
           "sourceBodyHash": "sha256:64a1b7182260c207",
           "translatedAt": "2026-09-26T10:22:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aa684224",
+          "translationLastModified": "2026-09-26T12:09:45+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 41227,
+          "bytes": 41229,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -141309,7 +141320,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/nieh-yung-jen.md",
+          "translatedFrom": "People/聶永真.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:54a5de1265f2b2ea",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:10:05.286238+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 61899,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/nieh-yung-jen.md",
@@ -195226,20 +195250,18 @@
         "es": {
           "path": "es/Geography/zhongshan-north-road-tiaotong.md",
           "translatedFrom": "Geography/中山北路條通.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:c8a39341eabfac41",
-          "sourceBodyHash": "sha256:8e3e2179e3d0c9c2",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "2da8b92f2",
+          "sourceContentHash": "sha256:c4a4c2010dd95827",
+          "sourceBodyHash": "sha256:605dca39a0b5b5c5",
+          "translatedAt": "2026-09-26T10:22:49+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 71173,
+          "bytes": 68547,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/zhongshan-north-road-tiaotong.md",
