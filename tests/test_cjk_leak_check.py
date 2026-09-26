@@ -442,3 +442,20 @@ def test_proper_noun_containing_zh_marker_is_not_a_leak():
     spans = m.legit_spans(text)
     start = text.index("草東沒有派對")
     assert any(a <= start and start + len("草東沒有派對") <= b for a, b in spans)
+
+
+def test_adjacency_check_skips_cjk_script_languages():
+    """2026-09-26：ja 的「SLP台北」「台湾DMAT」是正常排版，不該被黏著檢查判漏譯；
+    vi 的「Giải Kim曲」仍要抓。"""
+    import importlib.util, sys, tempfile
+    from pathlib import Path
+    p = Path(__file__).resolve().parents[1] / "scripts/tools/lang-sync/cjk-adjacency-check.py"
+    spec = importlib.util.spec_from_file_location("adj_scope", p)
+    m = importlib.util.module_from_spec(spec); sys.modules["adj_scope"] = m; spec.loader.exec_module(m)
+    with tempfile.TemporaryDirectory() as d:
+        ja = Path(d) / "knowledge" / "ja" / "Economy" / "x.md"; ja.parent.mkdir(parents=True)
+        ja.write_text("---\ntitle: x\n---\nSLP台北の講座と台湾DMATの派遣。\n", encoding="utf-8")
+        vi = Path(d) / "knowledge" / "vi" / "Music" / "y.md"; vi.parent.mkdir(parents=True)
+        vi.write_text("---\ntitle: y\n---\nGiải Kim曲 năm nay rất lớn.\n", encoding="utf-8")
+        assert m.scan(ja) == []
+        assert m.scan(vi) != []

@@ -163,7 +163,45 @@ def _native_tokens(text: str, zh_text: str) -> set[str]:
     return out
 
 
+def _target_lang(path: Path) -> str | None:
+    """`knowledge/<lang>/…` 或隔離區的 `<lang>--slug.md` 推語言；推不出回 None。"""
+    parts = path.parts
+    if "knowledge" in parts:
+        i = parts.index("knowledge")
+        if i + 1 < len(parts) and re.fullmatch(r"[a-z]{2}", parts[i + 1]):
+            return parts[i + 1]
+    m = re.match(r"^([a-z]{2})--", path.name)
+    return m.group(1) if m else None
+
+
+def _in_scope(path: Path) -> bool:
+    """本支只對拉丁／非漢字文字的譯文有意義（2026-09-26 補上語言邊界）。
+
+    日文、韓文的漢字是本國文字，「SLP台北」「台湾DMAT」在日文裡是正常排版。
+    2026-09-26 委派層兩隻 agent 對同一種形狀給了相反的處置：Haiku 當成誤判留著
+    （ja 災難醫療 11 處），Sonnet 為了變綠插了 62 個半形空格（ja SLP）——閘門在
+    不該響的語言響，逼譯者自己決定要不要改內容，這正是本檔前面寫過的誘因問題。
+    語言清單向 cjk-leak-check 借（NON_CJK_SCRIPT_LANGS），不自己再列一份；推不出
+    語言或借不到清單時照舊全掃，寧可多響不漏響。"""
+    lang = _target_lang(path)
+    if lang is None:
+        return True
+    try:
+        import importlib.util
+
+        spec = importlib.util.spec_from_file_location(
+            "cjkleak_scope", Path(__file__).with_name("cjk-leak-check.py")
+        )
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return lang in mod.NON_CJK_SCRIPT_LANGS
+    except Exception:  # noqa: BLE001
+        return True
+
+
 def scan(path: Path, zh_path: Path | None = None) -> list[str]:
+    if not _in_scope(path):
+        return []
     text = path.read_text(encoding="utf-8")
     # frontmatter 不掃：translatedFrom 指向中文原稿路徑是規範要求的，
     # imageCredit 的攝影者本名也不該被改寫。
