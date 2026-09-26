@@ -132,7 +132,7 @@ author: 'Taiwan.md'
 **関連記事**：
 
 - [郭婞淳](/ja/people/kuo-hsing-chun-olympic-weightlifting-champion) — 東京オリンピック重量挙げ金メダリスト、台湾代表团の中心を担うアミ族のアスリート
-- [李洋](/ja/people/lee-yang-badminton) — 同時期に国訓中心で寮生活を送った選手、東京・巴黎連続金メダル後にスポーツ部初代部長に就任
+- [李洋](/ja/people/lee-yang-badminton) — 同時期に国訓中心で寮生活を送った選手、東京・パリ連続金メダル後にスポーツ部初代部長に就任
 - [王齊麟と李洋（麟洋ペア）](/ja/people/lin-yang-duo-taiwan-badminton-champions) — 男子ダブルス史上初の非シードによるオリンピック連覇ペア
 - [周子瑜](/ja/people/tzuyu) — 同じ世代のもう一人の、13歳で家を離れて夢に挑んだ台南の少女
 

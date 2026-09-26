@@ -1,6 +1,6 @@
 ---
 title: 'Tai Tzu-ying'
-description: 'Detentora do recorde de 214 semanas como número 1 mundial, de Kaohsiung Qianjin à prata olímpica, a rainha do badminton de Taiwan'
+description: 'Detentora do recorde de 214 semanas como número 1 mundial, de Kaohsiung Qianzhen à prata olímpica, a rainha do badminton de Taiwan'
 date: 2026-03-21
 author: 'Taiwan.md'
 category: 'People'
@@ -27,15 +27,15 @@ translatedAt: '2026-07-25T04:46:10+08:00'
 
 # Tai Tzu-ying
 
-> **Visão geral em 30 segundos:** Nascida em 1994 em Kaohsiung Qianjin, Tai Tzu-ying pegou a raquete aos 7 anos, tornou-se atleta da divisão principal aos 12 e alcançou o topo do ranking mundial pela primeira vez em 2016. Ela estabeleceu o recorde de 214 semanas consecutivas como número 1 do ranking feminino, conquistou 32 títulos do circuito mundial e ganhou a medalha de prata nos Jogos Olímpicos de Tóquio 2021, tornando-se a primeira rainha mundial do badminton de Taiwan.
+> **Visão geral em 30 segundos:** Nascida em 1994 em Kaohsiung Qianzhen, Tai Tzu-ying pegou a raquete aos 7 anos, tornou-se atleta da divisão principal aos 12 e alcançou o topo do ranking mundial pela primeira vez em 2016. Ela estabeleceu o recorde de 214 semanas acumuladas como número 1 do ranking feminino, conquistou 32 títulos do circuito mundial e ganhou a medalha de prata nos Jogos Olímpicos de Tóquio 2021, tornando-se a primeira rainha mundial do badminton de Taiwan.
 
 Na noite de 1 de agosto de 2021, no Musashino Forest Sport Plaza em Tóquio, Tai Tzu-ying, então com 27 anos, enfrentou a chinesa Chen Yufei na final olímpica de simples feminino. Ela perdeu o primeiro set por 18-21, venceu o segundo por 21-19 numa batalha intensa, mas caiu no terceiro por 18-21, ficando com a prata.
 
-Essa medalha é a maior honra da história do badminton de Taiwan, mas para Tai Tzu-ying representa apenas um capítulo de sua carreira lendária. Da menina do distrito de Qianjin em Kaohsiung à rainha mundial do badminton, ela redefiniu a posição de Taiwan no cenário esportivo internacional com seu recorde de 214 semanas no topo do ranking.
+Essa medalha é a maior honra da história do badminton de Taiwan, mas para Tai Tzu-ying representa apenas um capítulo de sua carreira lendária. Da menina do distrito de Qianzhen em Kaohsiung à rainha mundial do badminton, ela redefiniu a posição de Taiwan no cenário esportivo internacional com seu recorde de 214 semanas no topo do ranking.
 
-## A iniciação no badminton em Kaohsiung Qianjin
+## A iniciação no badminton em Kaohsiung Qianzhen
 
-Tai Tzu-ying nasceu em 20 de junho de 1994 no distrito de Qianjin, cidade de Kaohsiung. Seu pai, Tai Nan-kai, era bombeiro e também secretário-geral da Associação de Badminton de Kaohsiung; sua mãe era dona de casa. Nesse ambiente impregnado de esporte, Tai Tzu-ying demonstrou talento atlético desde cedo.
+Tai Tzu-ying nasceu em 20 de junho de 1994 no distrito de Qianzhen, cidade de Kaohsiung. Seu pai, Tai Nan-kai, era bombeiro e também secretário-geral da Associação de Badminton de Kaohsiung; sua mãe era dona de casa. Nesse ambiente impregnado de esporte, Tai Tzu-ying demonstrou talento atlético desde cedo.
 
 Aos 7 anos, começou a treinar badminton. Inicialmente era apenas lazer nas horas vagas, mas sua evolução foi impressionante e logo se destacou entre os pares. O background do pai no badminton proporcionou orientação profissional, enquanto o próprio amor de Tai Tzu-ying pelo esporte a fez dedicar longas horas de treino.
 
@@ -125,7 +125,7 @@ Mas sua postura profissional inspira confiança de que seguirá no mais alto ní
 
 Para o futuro, Tai Tzu-ying deseja contribuir mais na promoção do badminton e na formação de talentos. Planeja virar treinadora após se aposentar, transmitindo sua experiência à nova geração. Também quer ajudar a construir um sistema de desenvolvimento mais completo, para que o badminton de Taiwan prossiga seu crescimento.
 
-A história de Tai Tzu-ying é um capítulo lendário do esporte moderno. Da menina de Kaohsiung Qianjin à rainha mundial do badminton, provou com persistência e esforço a força dos atletas de Taiwan. 214 semanas no topo, 32 títulos, prata olímpica — por trás desses números estão incontáveis gotas de suor nos treinos e a busca pela perfeição.
+A história de Tai Tzu-ying é um capítulo lendário do esporte moderno. Da menina de Kaohsiung Qianzhen à rainha mundial do badminton, provou com persistência e esforço a força dos atletas de Taiwan. 214 semanas no topo, 32 títulos, prata olímpica — por trás desses números estão incontáveis gotas de suor nos treinos e a busca pela perfeição.
 
 Mais importante, seu espírito — nunca desistir, evoluir sempre, humildade e profissionalismo — continuará inspirando todos que perseguem sonhos. Ela nos ensina que, com convicção firme e esforço incansável, mesmo vindo de um lugar pequeno, é possível criar sua própria lenda no palco mundial.
 

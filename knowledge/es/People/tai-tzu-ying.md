@@ -27,7 +27,7 @@ author: 'Taiwan.md'
 
 # Tai Tzu-ying
 
-> **Resumen en 30 segundos:** Tai Tzu-ying, nacida en 1994 en el distrito de Qianzhen, Kaohsiung, comenzó a jugar bádminton a los 7 años y se convirtió en jugadora de élite a los 12. En 2016 alcanzó por primera vez el número uno del mundo. Estableció el récord de más semanas consecutivas como número uno en individuales femeninos (214 semanas), conquistó 32 títulos del World Tour y obtuvo la plata en los Juegos Olímpicos de Tokio 2021, convirtiéndose en la primera taiwanesa en alcanzar el trono mundial del bádminton.
+> **Resumen en 30 segundos:** Tai Tzu-ying, nacida en 1994 en el distrito de Qianzhen, Kaohsiung, comenzó a jugar bádminton a los 7 años y se convirtió en jugadora de élite a los 12. En 2016 alcanzó por primera vez el número uno del mundo. Estableció el récord de más semanas en total como número uno en individuales femeninos (214 semanas), conquistó 32 títulos del World Tour y obtuvo la plata en los Juegos Olímpicos de Tokio 2021, convirtiéndose en la primera taiwanesa en alcanzar el trono mundial del bádminton.
 
 La noche del 1 de agosto de 2021, en el Musashino Forest Sport Plaza de Tokio, Tai Tzu-ying, de 27 años, se enfrentó a la china Chen Yufei en la final de individuales femeninos de bádminton olímpico. Perdió el primer set 18-21, remontó en el segundo con un 21-19, pero cayó en el tercero 18-21, quedándose finalmente con la medalla de plata.
 

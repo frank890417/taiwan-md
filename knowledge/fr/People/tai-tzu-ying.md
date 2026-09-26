@@ -1,6 +1,6 @@
 ---
 title: 'Tai Tzu-ying'
-description: "Recordwoman de 214 semaines consécutives au rang mondial numéro un, la reine du badminton taïwanais, de Cianjhen à la médaille d'argent olympique"
+description: "Recordwoman avec 214 semaines au total au rang mondial numéro un, la reine du badminton taïwanais, de Cianjhen à la médaille d'argent olympique"
 date: 2026-03-21
 tags:
   [
@@ -28,7 +28,7 @@ lastHumanReview: true
 
 # Tai Tzu-ying
 
-> **En 30 secondes :** Née en 1994 à Cianjhen, Kaohsiung, Tai Tzu-ying prend sa première raquette à 7 ans et intègre la division A nationale à 12 ans. En 2016, elle atteint pour la première fois le rang numéro un mondial. Elle détient le record absolu de 214 semaines consécutives à la première place du classement féminin mondial, a remporté 32 titres sur le Circuit mondial BWF, et a décroché la médaille d'argent aux Jeux de Tokyo 2021 — une première dans l'histoire du badminton taïwanais.
+> **En 30 secondes :** Née en 1994 à Cianjhen, Kaohsiung, Tai Tzu-ying prend sa première raquette à 7 ans et intègre la division A nationale à 12 ans. En 2016, elle atteint pour la première fois le rang numéro un mondial. Elle détient le record absolu de 214 semaines cumulées à la première place du classement féminin mondial, a remporté 32 titres sur le Circuit mondial BWF, et a décroché la médaille d'argent aux Jeux de Tokyo 2021 — une première dans l'histoire du badminton taïwanais.
 
 Le 1er août 2021, au Musashino Forest Sport Plaza de Tokyo, Tai Tzu-ying, 27 ans, affronte la Chinoise Chen Yufei en finale olympique du simple dames. Elle perd le premier set 18-21, arrache le deuxième 21-19 dans un échange acharné, puis s'incline en troisième set 18-21, repartant avec la médaille d'argent.
 
