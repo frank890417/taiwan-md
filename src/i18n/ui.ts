@@ -3066,6 +3066,7 @@ export const ui = {
     'nav.map': '地圖 📍',
     'nav.contribute': '參與 ✋',
     'nav.elections': '🗳️ 2026 選舉',
+    'nav.exams': '📝 學測專題',
     'nav.resources': '資源 🔗',
     'nav.data': '資料 📊',
     'nav.semiont': '生命體 🧬',

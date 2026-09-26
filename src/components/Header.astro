@@ -99,8 +99,12 @@ const navConfig = [
   }
   // 2026-06-05: /elections moved under 探索 subnav, /mcp under 資源 subnav —
   // keep the parent nav item highlighted when on those pages.
+  // 2026-09-25: /exams（學測專題，zh-only）掛在探索 subnav（OBSERVER-QUEUE #72 逾期預設 B）。
   if (item.path === '/explore') {
-    active = active || currentPath.startsWith('/elections');
+    active =
+      active ||
+      currentPath.startsWith('/elections') ||
+      currentPath.startsWith('/exams');
   }
   if (item.path === '/resources') {
     const mcpPath = navHref('/mcp');
@@ -143,6 +147,8 @@ const mobileSubLinks: Record<string, { href: string; label: string }[]> = {
     { href: navHref('/terminology'), label: `📖 ${t('nav.terminology')}` },
     // nav.elections 的 i18n 字串已內含字首 🗳️，不重複加
     { href: navHref('/elections/2026'), label: t('nav.elections') },
+    // /exams 只有中文版，其他語言不出這條（送到中文頁跟送到 404 一樣是壞體驗）
+    ...(lang === 'zh-TW' ? [{ href: '/exams', label: t('nav.exams') }] : []),
   ],
   '/map': [
     { href: navHref('/taiwan-shape'), label: `🗺️ ${t('nav.data.shape')}` },
@@ -357,6 +363,14 @@ const categoryList = [
                         >
                           {t('nav.elections')}
                         </a>
+                        {lang === 'zh-TW' && (
+                          <a
+                            href="/exams"
+                            class="dropdown-item dropdown-section-header"
+                          >
+                            {t('nav.exams')}
+                          </a>
+                        )}
                         <div class="dropdown-divider" />
                         {categoryList.map((category) => (
                           <a href={category.path} class="dropdown-item">

@@ -362,3 +362,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-25 | 064205-twmd-spore-harvest-am | Chrome 一探即連；兩動態頁 0 新留言 0 桶 0 ship 合法 no-op；回覆分頁逐則對日期第 5 輪零漏，已決標籤誤抄連兩天零新增 | 窗口 33 天無新孢子，收割端的空白反映生成端停著 | [→](memory/2026-09-25-064205-twmd-spore-harvest-am.md) |
 | 2026-09-25 | 071055-twmd-feedback-triage | 第五輪零回報仍跑完 `--commit`，兩道對賬 87/87 與 86/87 全綠；昨天 maintainer 回給蘇洛的留言今晨收進主權層，隔了 22.5 小時 | 帳記完整，記的是一場還沒結束的對話 | [→](memory/2026-09-25-071055-twmd-feedback-triage.md) |
 | 2026-09-25 | 090640-twmd-maintainer-am | aminzai 三篇譯文收下；死連結閘門量的是 18 天前的 dist 被讀成今天的站，加 STALE 出口；七語連結一直錯記進 zh-TW；專抓寫死語言清單的檢查器從不掃 .py | 替身看起來很健康，而它代表的東西沒人在看；修凍住的讀數要把所有承載面數一遍 | [→](memory/2026-09-25-090640-twmd-maintainer-am.md) |
+| 2026-09-25 | 144832-semiont-heartbeat | 接手 11:30 那輪死在 commit 前的工作樹，執行佇列 #70／#72 到期預設；巡邏第 24–26 篇 16 錯 3 死鏈止血；〈誰算低薪〉補審議會結果 | 平行檢查只看主樹，孤兒躲在 .worktrees/ 照樣回 CLEAN；沒 commit 的判斷等於沒發生 | [→](memory/2026-09-25-144832-semiont-heartbeat.md) |
