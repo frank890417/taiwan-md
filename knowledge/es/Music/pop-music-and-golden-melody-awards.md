@@ -2,9 +2,7 @@
 title: 'Premios Golden Melody: Taiwán premia su propia música y los momentos de treinta y cinco años que quedan para toda la vida'
 description: 'En 2024, en el Taipei Arena, No Party for Cao Dong volvió a consagrarse; su mánager recibió los premios en su nombre, y todo el recinto guardó silencio por una baterista fallecida. En treinta y cinco años, los Premios Golden Melody pasaron de una carta manuscrita de Tsai Chin a una ceremonia de escala nacional: coronaron el Fantasy de Jay Chou, las 14 nominaciones de A-mei, y también otorgaron los máximos honores a canciones en taiwanés, hakka y lenguas indígenas. Es el lugar donde Taiwán premia su propia música y decide qué sonidos merecen ser recordados.'
 date: 2026-06-28
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '音樂產業與獎項'
 tags:
   [
     'Premios Golden Melody',
@@ -15,17 +13,21 @@ tags:
     'canción en taiwanés',
     'política cultural',
   ]
-readingTime: 16
+subcategory: '音樂產業與獎項'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-28
 lastHumanReview: false
-featured: false
-translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '47d78ce7'
-sourceContentHash: 'sha256:5406c0a04ed7374f'
-sourceBodyHash: 'sha256:0794328a7ed72af5'
-translatedAt: '2026-06-29T00:47:38+08:00'
+readingTime: 16
 image: '/article-images/music/golden-melody-awards-2021.webp'
 imageCredit: 'Solomon203'
+relatedDiary:
+  - 2026-06-28-080352-manual
+translatedFrom: 'Music/金曲獎.md'
+sourceCommitSha: '7701a4867'
+sourceContentHash: 'sha256:a6a639d332e8f086'
+sourceBodyHash: 'sha256:89d2f2476f597f2c'
+translatedAt: '2026-09-26T10:25:00+08:00'
 ---
 
 # Premios Golden Melody: Taiwán premia su propia música y los momentos de treinta y cinco años que quedan para toda la vida
@@ -34,7 +36,7 @@ imageCredit: 'Solomon203'
 
 El 29 de junio de 2024, en el Taipei Arena, <a href="/people/草東沒有派對" target="_blank" rel="noopener">No Party for Cao Dong</a> ganó tres grandes premios seguidos: Álbum del Año, Mejor Álbum en Mandarín y Mejor Banda. Fue algo poco común en la historia de los Golden Melody: que una misma banda arrasara por segunda vez, en una misma edición, con tres premios mayores. El público esperaba que subieran al escenario.
 
-Pero quien subió no fue la banda, sino su mánager. La baterista Tsai Yi-fan, a quien todos llamaban Fan-fan, había fallecido tres años antes, a los 26 años. El mánager habló ante el micrófono, dijo lo que tenía que decir y cerró con tres palabras: «Gracias, Fan-fan».
+Pero quien subió no fue la banda, sino su mánager. La baterista Tsai Yi-fan, a quien todos llamaban Fan-fan, había fallecido tres años antes, a los 26 años. El mánager habló ante el micrófono, dijo lo que tenía que decir y cerró con tres palabras: “Gracias, Fan-fan”.
 
 Toda la sala quedó en silencio durante unos segundos.
 
@@ -80,7 +82,7 @@ Para entender por qué un Golden Melody pesa tanto, primero hay que ver cómo se
 
 El sistema de jurado de los Golden Melody, dicho sin vueltas, consiste en un grupo de personas encerradas en una sala, escuchando seriamente todas las obras y luego votando. Suena simple. Lo difícil está en ese “seriamente” y en ese “encerradas”.
 
-El proceso tiene tres etapas. En la primera revisión, cada jurado escucha las canciones por su cuenta en un sistema en línea y puntúa de manera independiente. En la segunda revisión y en la final, se pasa a reuniones a puerta cerrada. La deliberación final, donde se toma la decisión definitiva, se programa la mañana del día de la ceremonia. Los jurados votan de forma anónima por computadora y eligen a quienes se anunciarán como ganadores esa noche.
+El proceso completo tiene tres etapas: en la primera revisión, cada jurado escucha las canciones por su cuenta en un sistema en línea y puntúa de manera independiente, mientras que en la segunda revisión y en la final ya se pasa a reuniones a puerta cerrada. La deliberación final, donde se toma la decisión definitiva, se programa la mañana del día de la ceremonia. Los jurados votan de forma anónima por computadora y eligen a quienes se anunciarán como ganadores esa noche.
 
 > 📝 **Nota curatorial:** La reacción instintiva de mucha gente ante una “evaluación a puerta cerrada” es pensar en opacidad o camarillas. Pero los Golden Melody cierran la sala precisamente para bloquear otra fuerza: el mercado. Cuando todos los jurados están aislados, no pueden mirar ventas ni recibir presiones, y lo único en que pueden apoyarse son sus propios oídos y su criterio profesional. Dicho de otro modo, esa puerta cerrada deja fuera la inercia de “quien vende más debería ganar”. La mitad de la credibilidad de un Golden Melody viene de esa puerta.
 
@@ -92,7 +94,7 @@ No es una leyenda. Cuando Chen Hsien-ching subió al escenario como ganadora en 
 
 > “¿Me gustaría comprar este disco?”
 
-La frase es fascinante. Condensa el criterio de un gran premio de la industria en el impulso más honesto de un aficionado a la música: yo, ¿pagaría por este disco? Dela también dijo algo para quienes creen que “no ganar es perder”: “Estar nominado ya es un reconocimiento, de verdad”.
+Lo fascinante de esta frase está en que condensa el criterio de un gran premio de la industria en el impulso más honesto de un aficionado a la música: yo, ¿pagaría por este disco? Dela también dijo algo para quienes creen que “no ganar es perder”: “Estar nominado ya es un reconocimiento, de verdad”.
 
 Por supuesto, no todos están conformes con este sistema. Hay quienes señalan que no existen criterios de evaluación escritos con claridad y que todo depende demasiado de la ética profesional de cada jurado; otros dicen que, cuando una misma persona compite en varias categorías, el jurado tiende a repartir los premios. Esas discusiones nunca han dejado de existir. Pero justamente porque hay gente que se preocupa y debate, lo que sucede dentro de esa sala merece ser tomado en serio.
 
@@ -154,7 +156,7 @@ En la 11.ª edición, en 2000, un policía pinuyumayan de Taitung subió al esce
 
 _Chen Chien-nien, “Ocean”. En la 11.ª edición, en 2000, este policía pinuyumayan de Taitung derrotó con Ocean a Jacky Cheung, Wang Leehom, David Tao y Harlem Yu, y ganó Mejor Intérprete Masculino en Mandarín._
 
-Si Chen Chien-nien demostró que un creador indígena podía vencer a los reyes de la industria, <a href="/people/阿爆" target="_blank" rel="noopener">ABAO</a> (Aljenljeng) demostró en la 31.ª edición, en 2020, que un álbum cantado íntegramente en una lengua indígena podía llevarse el máximo premio de toda la noche. Su kinakaian 母親的舌頭, un álbum completamente en paiwan, ganó tres premios: Mejor Álbum en Lengua Indígena, Canción del Año por “Thank You” y, al final, el premio mayor de Álbum del Año. Un disco del que quizá no entiendas ni una línea fue elegido por el jurado como el mejor álbum de Taiwán ese año.
+Si Chen Chien-nien demostró que un creador indígena podía vencer a los reyes de la industria, <a href="/people/阿爆" target="_blank" rel="noopener">ABAO</a> (Aljenljeng) demostró en la 31.ª edición, en 2020, que un álbum cantado íntegramente en una lengua indígena podía llevarse el máximo premio de toda la noche. Su kinakaian, la lengua de la madre —un álbum completamente en paiwan—, ganó tres premios: Mejor Álbum en Lengua Indígena, Canción del Año por “Thank You” y, al final, el premio mayor de Álbum del Año. Un disco del que quizá no entiendas ni una línea fue elegido por el jurado como el mejor álbum de Taiwán ese año.
 
 Cuando ABAO subió a recibir Álbum del Año, dijo una frase muy Golden Melody: “Si no sabes por qué este álbum se convirtió en Álbum del Año, ve a escucharlo una vez; si no te gusta, escúchalo una segunda vez”. También miró a la cámara y les habló a los niños indígenas: “No desperdicien su talento, y tampoco dependan de él”.
 
@@ -162,7 +164,7 @@ Cuando ABAO subió a recibir Álbum del Año, dijo una frase muy Golden Melody: 
   <iframe src="https://www.youtube.com/embed/4cAp_IdqOuM" title="阿爆〈Thank You 感謝〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_ABAO, “Thank You”, Canción del Año en la 31.ª edición de 2020. Aquella noche, el álbum íntegramente en paiwan kinakaian 母親的舌頭 ganó Mejor Álbum en Lengua Indígena, Canción del Año y Álbum del Año._
+_ABAO, “Thank You”, Canción del Año en la 31.ª edición de 2020. Aquella noche, el álbum kinakaian, la lengua de la madre, íntegramente en paiwan, ganó Mejor Álbum en Lengua Indígena, Canción del Año y Álbum del Año._
 
 > 💡 **¿Sabías que…?** Casi no existe en el mundo otro premio musical que reserve máximos honores separados para cuatro lenguas distintas dentro de su propio territorio. Puedes hacer el mejor álbum en taiwanés, hakka o una lengua indígena, y ser coronado en la misma ceremonia. Para el hakka y las lenguas indígenas, habladas por poblaciones cada vez menores, el escenario de los Golden Melody no solo ofrece honor: también da a esas voces una razón para ser escuchadas por todo el país y para que una nueva generación quiera aprenderlas.
 
@@ -244,7 +246,7 @@ Volvamos a esos segundos de silencio.
 
 En el Taipei Arena de 2024, No Party for Cao Dong volvió a consagrarse, su mánager recibió los premios y dijo: “Gracias, Fan-fan”. Fan-fan se fue, pero su batería sigue en The Servile: cada vez que alguien pulsa reproducir, ese ritmo vuelve a sonar. Una baterista ausente fue recordada por toda una industria gracias a los Golden Melody; un álbum de tres años antes volvió a ser escuchado por toda una generación gracias a ella.
 
-Eso es, probablemente, lo que hacen los Premios Golden Melody. Desde aquella primera edición sencilla de 1990 hasta la 37.ª de hoy, responden una vez al año, en nombre de Taiwán, la misma pregunta: qué sonidos de esta isla, este año, merecen ser recordados con cuidado.
+Esto es, probablemente, lo que hacen los Premios Golden Melody: desde aquella primera edición sencilla de 1990 hasta la 37.ª de hoy, responden una vez al año, en nombre de Taiwán, la misma pregunta — qué sonidos de esta isla, este año, merecen ser recordados con cuidado.
 
 Recuerdan la noche en que Jay Chou arrasó con Fantasy, la persistencia de las catorce nominaciones de A-mei, y también el mar cantado por un policía de Taitung, un álbum completo en paiwan, un cantante hakka que rechazó una estatuilla y una canción nacida en la calle. Mandarín, taiwanés, hakka, lenguas indígenas; los discos que vendieron millones y los que quizá no entendemos palabra por palabra; los reyes del momento y quienes escriben canciones en silencio: todo eso quedó en un mismo escenario.
 
@@ -259,6 +261,7 @@ Después de treinta y tantos años, los Golden Melody en realidad no están entr
 - [Tradiciones musicales de los pueblos indígenas de Taiwán](/es/music/indigenous-music-traditions) — De los cantos comunitarios a Chen Chien-nien y ABAO: raíces y contemporaneidad de la música indígena
 - [Cantautores indígenas contemporáneos](/es/music/contemporary-indigenous-singer-songwriters) — Las voces y circunstancias de una línea creativa que incluye a Samingad, Panai y ABAO
 - [Música independiente de Taiwán](/es/music/indie-music-scene) — Cómo No Party for Cao Dong y la generación StreetVoice rodearon la industria discográfica y llegaron al escenario más alto de los Golden Melody
+- [Premios Golden Bell](/es/culture/golden-bell-awards) — El más veterano de los tres grandes premios "dorados" de Taiwán: una campana forjada en 1965 para la radiodifusión, cuya lista de ganadores de sesenta y un años registra en qué manos ha estado la televisión de Taiwán
 
 ## Fuentes de imágenes
 
