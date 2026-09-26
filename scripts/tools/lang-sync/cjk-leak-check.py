@@ -103,6 +103,16 @@ LEGIT_ZH_SPANS = [
 # 放寬 marker 表會讓真漏譯一起溜過去，逐名收錄不會。
 PROPER_NOUNS_WITH_MARKERS = ["草東沒有派對"]
 LEGIT_ZH_SPANS.append(re.compile("|".join(map(re.escape, PROPER_NOUNS_WITH_MARKERS))))
+
+# 超過書名號 30 字上限的作品原名（2026-09-26）：陳嫺靜兩張專輯名各三十多字，譯文照原名
+# 留在《》裡是正確做法（讀者要靠原名找到作品），卻超出上面 30 字的書名號豁免，fr 重譯被
+# 判漏譯 ×4。30 字上限防的是「整段洩漏躲進書名號」，放寬它會連真洩漏一起放行；這裡跟
+# 上一份清單同一個原則，逐名收錄確認過的作品名，不動上限。
+KNOWN_LONG_WORK_TITLES = [
+    "如果每天都可以 happy happy 誰想要 sad:)) - 一起去度假",
+    "如果每天都可以 happy happy 誰想要 sad:＊- 合作的秘密",
+]
+LEGIT_ZH_SPANS.append(re.compile("|".join(map(re.escape, KNOWN_LONG_WORK_TITLES))))
 PAREN_GLOSS_RE = LEGIT_ZH_SPANS[0]      # 舊名保留，避免外部引用斷掉
 TITLE_BRACKET_RE = LEGIT_ZH_SPANS[1]
 
