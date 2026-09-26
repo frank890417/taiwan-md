@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T10:11:16+08:00",
-    "zhCommitHead": "9b5023d7f",
+    "lastUpdated": "2026-09-26T10:22:14+08:00",
+    "zhCommitHead": "49b771f6c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,21 +20,45 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1106,
-        "stale": 9,
+        "fresh": 1103,
+        "stale": 12,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1045,
-        "stale": 36,
+        "fresh": 1042,
+        "stale": 39,
         "metadata_stale": 0,
         "missing": 43,
         "orphan": 0
       },
       "ko": {
+        "total_zh": 1124,
+        "fresh": 1106,
+        "stale": 13,
+        "metadata_stale": 0,
+        "missing": 5,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1124,
+        "fresh": 1094,
+        "stale": 21,
+        "metadata_stale": 0,
+        "missing": 9,
+        "orphan": 0
+      },
+      "fr": {
+        "total_zh": 1124,
+        "fresh": 1099,
+        "stale": 20,
+        "metadata_stale": 0,
+        "missing": 5,
+        "orphan": 0
+      },
+      "vi": {
         "total_zh": 1124,
         "fresh": 1109,
         "stale": 10,
@@ -42,74 +66,50 @@
         "missing": 5,
         "orphan": 0
       },
-      "es": {
-        "total_zh": 1124,
-        "fresh": 1097,
-        "stale": 18,
-        "metadata_stale": 0,
-        "missing": 9,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 1124,
-        "fresh": 1101,
-        "stale": 17,
-        "metadata_stale": 0,
-        "missing": 6,
-        "orphan": 0
-      },
-      "vi": {
-        "total_zh": 1124,
-        "fresh": 1112,
-        "stale": 7,
-        "metadata_stale": 0,
-        "missing": 5,
-        "orphan": 0
-      },
       "id": {
         "total_zh": 1124,
-        "fresh": 1077,
-        "stale": 10,
+        "fresh": 1075,
+        "stale": 13,
         "metadata_stale": 0,
-        "missing": 37,
+        "missing": 36,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1100,
-        "stale": 8,
+        "fresh": 1097,
+        "stale": 11,
         "metadata_stale": 0,
         "missing": 16,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1068,
-        "stale": 10,
+        "fresh": 1065,
+        "stale": 13,
         "metadata_stale": 0,
         "missing": 46,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1074,
-        "stale": 13,
+        "fresh": 1071,
+        "stale": 16,
         "metadata_stale": 0,
         "missing": 37,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1091,
-        "stale": 6,
+        "fresh": 1088,
+        "stale": 9,
         "metadata_stale": 1,
         "missing": 26,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1066,
-        "stale": 2,
+        "fresh": 1063,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 56,
         "orphan": 0
@@ -44383,7 +44383,20 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Art/matsu-biennial.md",
+          "translatedFrom": "Art/馬祖國際藝術島.md",
+          "sourceCommitSha": "cb75c0402",
+          "sourceContentHash": "sha256:799ca5362c21601f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T01:57:55.385899+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 48,
+          "bytes": 78548,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Art/matsu-biennial.md",
@@ -59814,10 +59827,10 @@
     },
     "Society/動物園與展演動物倫理.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:942c806351e32e6f",
-        "bodyHash": "sha256:d25050b0162be631"
+        "lastCommit": "8a859629",
+        "lastModified": "2026-09-25T15:03:47+08:00",
+        "contentHash": "sha256:0ca0048f5fb189e0",
+        "bodyHash": "sha256:2b440f6d5e5bb010"
       },
       "translations": {
         "en": {
@@ -59833,8 +59846,10 @@
           "footnoteDefs": 5,
           "bytes": 17989,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "ja": {
           "path": "ja/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59849,8 +59864,10 @@
           "footnoteDefs": 5,
           "bytes": 19717,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "ko": {
           "path": "ko/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59865,8 +59882,10 @@
           "footnoteDefs": 5,
           "bytes": 18868,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "es": {
           "path": "es/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59881,8 +59900,10 @@
           "footnoteDefs": 5,
           "bytes": 20850,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "fr": {
           "path": "fr/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59897,8 +59918,10 @@
           "footnoteDefs": 5,
           "bytes": 20674,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "vi": {
           "path": "vi/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59913,8 +59936,10 @@
           "footnoteDefs": 5,
           "bytes": 23960,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "id": {
           "path": "id/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59929,8 +59954,10 @@
           "footnoteDefs": 5,
           "bytes": 17194,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "pt": {
           "path": "pt/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59945,8 +59972,10 @@
           "footnoteDefs": 5,
           "bytes": 20057,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "hi": {
           "path": "hi/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59961,8 +59990,10 @@
           "footnoteDefs": 5,
           "bytes": 39237,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "ar": {
           "path": "ar/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59977,8 +60008,10 @@
           "footnoteDefs": 5,
           "bytes": 26408,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "ru": {
           "path": "ru/Society/zoo-and-exhibition-animal-ethics.md",
@@ -59993,8 +60026,10 @@
           "footnoteDefs": 5,
           "bytes": 30894,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         },
         "de": {
           "path": "de/Society/zoo-and-exhibition-animal-ethics.md",
@@ -60009,8 +60044,10 @@
           "footnoteDefs": 5,
           "bytes": 18343,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -12"
         }
       }
     },
@@ -61556,10 +61593,10 @@
     },
     "Society/誰算低薪.md": {
       "zh": {
-        "lastCommit": "ff39af22",
-        "lastModified": "2026-09-19T10:10:09+08:00",
-        "contentHash": "sha256:d948eabfe8585d3b",
-        "bodyHash": "sha256:f2d6f8210758cac3"
+        "lastCommit": "b10ec653",
+        "lastModified": "2026-09-25T14:53:55+08:00",
+        "contentHash": "sha256:046061fd6c043f0a",
+        "bodyHash": "sha256:3232aa3ffbbe2f4d"
       },
       "translations": {
         "en": {
@@ -69836,10 +69873,10 @@
     },
     "Society/台灣政治環境與選舉制度.md": {
       "zh": {
-        "lastCommit": "dbaf2895",
-        "lastModified": "2026-07-16T21:50:54+08:00",
-        "contentHash": "sha256:815fdbbdd8e6757e",
-        "bodyHash": "sha256:c04d648a91c00bf4"
+        "lastCommit": "886779d8",
+        "lastModified": "2026-09-25T15:03:43+08:00",
+        "contentHash": "sha256:1b46bb67f21432e0",
+        "bodyHash": "sha256:688a69633785627a"
       },
       "translations": {
         "en": {
@@ -69855,8 +69892,8 @@
           "footnoteDefs": 5,
           "bytes": 13497,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "ja": {
           "path": "ja/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -69871,8 +69908,8 @@
           "footnoteDefs": 5,
           "bytes": 13028,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "ko": {
           "path": "ko/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -69887,8 +69924,8 @@
           "footnoteDefs": 5,
           "bytes": 12696,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "es": {
           "path": "es/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -69903,8 +69940,8 @@
           "footnoteDefs": 5,
           "bytes": 15543,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "fr": {
           "path": "fr/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -69919,8 +69956,8 @@
           "footnoteDefs": 5,
           "bytes": 16481,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "vi": {
           "path": "vi/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -69935,8 +69972,8 @@
           "footnoteDefs": 5,
           "bytes": 17750,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "id": {
           "path": "id/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -69951,8 +69988,8 @@
           "footnoteDefs": 5,
           "bytes": 12625,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "pt": {
           "path": "pt/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -69967,8 +70004,8 @@
           "footnoteDefs": 5,
           "bytes": 14220,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "hi": {
           "path": "hi/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -69983,8 +70020,8 @@
           "footnoteDefs": 5,
           "bytes": 30549,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "ar": {
           "path": "ar/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -69999,8 +70036,8 @@
           "footnoteDefs": 5,
           "bytes": 19842,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "ru": {
           "path": "ru/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -70015,8 +70052,8 @@
           "footnoteDefs": 5,
           "bytes": 23858,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         },
         "de": {
           "path": "de/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -70031,8 +70068,8 @@
           "footnoteDefs": 5,
           "bytes": 15174,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (6→5)"
         }
       }
     },
@@ -76127,10 +76164,10 @@
     },
     "Society/台灣在國際標準中的標示問題.md": {
       "zh": {
-        "lastCommit": "18157ab5",
-        "lastModified": "2026-05-14T11:04:30+08:00",
-        "contentHash": "sha256:474db7988470495f",
-        "bodyHash": "sha256:288ae1e41983889d"
+        "lastCommit": "d7b843fb",
+        "lastModified": "2026-09-25T15:03:45+08:00",
+        "contentHash": "sha256:c6d4e2074d20efa4",
+        "bodyHash": "sha256:234ae4c6ee15c7e0"
       },
       "translations": {
         "en": {
@@ -76146,8 +76183,10 @@
           "footnoteDefs": 6,
           "bytes": 11023,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "ja": {
           "path": "ja/Society/taiwans-labeling-in-international-standards.md",
@@ -76162,8 +76201,10 @@
           "footnoteDefs": 6,
           "bytes": 12963,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "ko": {
           "path": "ko/Society/taiwans-labeling-in-international-standards.md",
@@ -76178,8 +76219,10 @@
           "footnoteDefs": 6,
           "bytes": 11454,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "es": {
           "path": "es/Society/taiwans-labeling-in-international-standards.md",
@@ -76194,8 +76237,10 @@
           "footnoteDefs": 6,
           "bytes": 13313,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "fr": {
           "path": "fr/Society/taiwans-labeling-in-international-standards.md",
@@ -76210,8 +76255,10 @@
           "footnoteDefs": 6,
           "bytes": 13297,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "vi": {
           "path": "vi/Society/taiwans-labeling-in-international-standards.md",
@@ -76226,8 +76273,10 @@
           "footnoteDefs": 6,
           "bytes": 14042,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "id": {
           "path": "id/Society/taiwans-labeling-in-international-standards.md",
@@ -76242,8 +76291,10 @@
           "footnoteDefs": 6,
           "bytes": 11267,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "pt": {
           "path": "pt/Society/taiwans-labeling-in-international-standards.md",
@@ -76258,8 +76309,10 @@
           "footnoteDefs": 6,
           "bytes": 12020,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "hi": {
           "path": "hi/Society/taiwans-labeling-in-international-standards.md",
@@ -76274,8 +76327,10 @@
           "footnoteDefs": 6,
           "bytes": 23793,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "ar": {
           "path": "ar/Society/taiwans-labeling-in-international-standards.md",
@@ -76290,8 +76345,10 @@
           "footnoteDefs": 6,
           "bytes": 15986,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "ru": {
           "path": "ru/Society/taiwans-labeling-in-international-standards.md",
@@ -76306,8 +76363,10 @@
           "footnoteDefs": 6,
           "bytes": 20390,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         },
         "de": {
           "path": "de/Society/taiwans-labeling-in-international-standards.md",
@@ -76322,8 +76381,10 @@
           "footnoteDefs": 6,
           "bytes": 12299,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -5"
         }
       }
     },
@@ -117591,7 +117652,7 @@
           "translationLastModified": "2026-09-09T18:59:25+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "bytes": 82292,
+          "bytes": 82300,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -186081,11 +186142,11 @@
           "sourceContentHash": "sha256:b78814073b388a83",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T00:21:55.884986+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "49b771f6",
+          "translationLastModified": "2026-09-26T10:11:16+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 56582,
+          "bytes": 56586,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -217239,7 +217300,20 @@
           "diffSummary": "+10 -10"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
+          "translatedFrom": "Culture/台灣茶文化.md",
+          "sourceCommitSha": "4aabbe030",
+          "sourceContentHash": "sha256:8649216212301e4d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T01:45:23.389414+00:00",
+          "translationLastCommit": "10db0978",
+          "translationLastModified": "2026-07-25T02:15:17+08:00",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 50873,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
