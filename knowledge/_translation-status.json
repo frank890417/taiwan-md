@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T17:21:25+08:00",
-    "zhCommitHead": "77fd7451a",
+    "lastUpdated": "2026-09-26T18:07:39+08:00",
+    "zhCommitHead": "a3e7531ec",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1099,
+        "fresh": 1100,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 14,
+        "missing": 13,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1086,
+        "fresh": 1087,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 27,
+        "missing": 26,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1095,
+        "fresh": 1097,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 15,
+        "missing": 13,
         "orphan": 0
       },
       "ru": {
@@ -19283,7 +19283,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-fuel-pricing-and-cpc.md",
+          "translatedFrom": "Economy/台灣油價機制與中油.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:24e5d0eeeb829e10",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T09:22:24.610577+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 46,
+          "bytes": 90912,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -65100,7 +65113,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/poisoned-potato-cognitive-warfare-taiwan.md",
+          "translatedFrom": "Society/毒馬鈴薯認知作戰.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:9680a9c97c074b94",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T09:37:23.248442+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "bytes": 145580,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/poisoned-potato-cognitive-warfare-taiwan.md",
@@ -65141,8 +65167,8 @@
           "sourceContentHash": "sha256:9680a9c97c074b94",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T08:53:31.611297+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a3e7531e",
+          "translationLastModified": "2026-09-26T17:21:26+08:00",
           "inferred": false,
           "footnoteDefs": 58,
           "bytes": 75666,
@@ -97278,8 +97304,8 @@
           "sourceContentHash": "sha256:67d7cdf3a4bcd692",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T08:39:17.108373+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a3e7531e",
+          "translationLastModified": "2026-09-26T17:21:26+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 68810,
@@ -155139,7 +155165,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-breakfast-culture.md",
+          "translatedFrom": "Food/台灣早餐文化.md",
+          "sourceCommitSha": "ee6650052",
+          "sourceContentHash": "sha256:499276bde9de600f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T09:39:13.120764+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 86354,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwan-breakfast-culture.md",
@@ -157562,8 +157601,8 @@
           "sourceContentHash": "sha256:ddb3f321dcd88457",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T07:17:28.126727+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a3e7531e",
+          "translationLastModified": "2026-09-26T17:21:26+08:00",
           "inferred": false,
           "footnoteDefs": 70,
           "bytes": 81140,
@@ -218616,7 +218655,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwanese-childhood-english-names.md",
+          "translatedFrom": "Culture/台灣人小時候的英文名字.md",
+          "sourceCommitSha": "cfce444ae",
+          "sourceContentHash": "sha256:c124eb253c195f03",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T09:48:50.975718+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 55089,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwanese-childhood-english-names.md",
