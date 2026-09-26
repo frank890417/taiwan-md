@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T07:25:19+08:00",
-    "zhCommitHead": "e367a50b0",
+    "lastUpdated": "2026-09-26T08:36:02+08:00",
+    "zhCommitHead": "e40196664",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1076,
+        "fresh": 1077,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 38,
+        "missing": 37,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1066,
+        "fresh": 1067,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 48,
+        "missing": 47,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1087,
-        "stale": 7,
+        "fresh": 1091,
+        "stale": 6,
         "metadata_stale": 1,
-        "missing": 29,
+        "missing": 26,
         "orphan": 0
       },
       "de": {
@@ -1402,11 +1402,11 @@
           "sourceContentHash": "sha256:9cf99b2480b3617d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T21:28:34.485338+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4019666",
+          "translationLastModified": "2026-09-26T07:25:19+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "bytes": 72846,
+          "bytes": 72852,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -9518,8 +9518,8 @@
           "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
           "sourceBodyHash": "sha256:54db8d12b45ad9b3",
           "translatedAt": "2026-09-25T16:58:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4019666",
+          "translationLastModified": "2026-09-26T07:25:19+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "bytes": 60311,
@@ -26710,7 +26710,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-online-community-migration.md",
+          "translatedFrom": "Technology/台灣網路社群遷徙史.md",
+          "sourceCommitSha": "56f4d6f85",
+          "sourceContentHash": "sha256:a4422796c61c1b2e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T23:33:15.037290+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 47,
+          "bytes": 78823,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Technology/taiwan-online-community-migration.md",
@@ -62510,7 +62523,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/the-reporter-investigative-journalism.md",
+          "translatedFrom": "Society/報導者.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:a77cf5a6d3100ed9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T23:43:33.056207+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 60,
+          "bytes": 127019,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/the-reporter-investigative-journalism.md",
@@ -96121,8 +96147,8 @@
           "sourceContentHash": "sha256:67d7cdf3a4bcd692",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T21:58:04.330723+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e4019666",
+          "translationLastModified": "2026-09-26T07:25:19+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 64576,
@@ -100175,20 +100201,18 @@
         "ru": {
           "path": "ru/People/bernard-tseng.md",
           "translatedFrom": "People/曾博恩.md",
-          "sourceCommitSha": "86db85f3d",
-          "sourceContentHash": "sha256:47cec189b7c7bcfc",
-          "sourceBodyHash": "sha256:db17e32fed11eadc",
-          "translatedAt": "2026-08-03T03:16:11+08:00",
+          "sourceCommitSha": "4f72f613c",
+          "sourceContentHash": "sha256:8cc10fd808c3a1ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T23:26:50.642727+00:00",
           "translationLastCommit": "4f72f613",
           "translationLastModified": "2026-08-31T08:48:08+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "bytes": 67289,
+          "bytes": 78155,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/bernard-tseng.md",
@@ -143115,7 +143139,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/lee-yang-badminton.md",
+          "translatedFrom": "People/李洋.md",
+          "sourceCommitSha": "fef3e1199",
+          "sourceContentHash": "sha256:d21eaa1c32fc46c9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T23:45:17.900394+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 83508,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/lee-yang-badminton.md",
@@ -186029,7 +186066,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/jinguashi.md",
+          "translatedFrom": "Geography/金瓜石.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:b78814073b388a83",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T00:21:55.884986+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 56582,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/jinguashi.md",
@@ -188713,11 +188763,11 @@
           "sourceContentHash": "sha256:02c38601d122ae9f",
           "sourceBodyHash": "sha256:2e7aefb4f30ec2e9",
           "translatedAt": "2026-09-25T16:58:24+08:00",
-          "translationLastCommit": "a0de2893",
-          "translationLastModified": "2026-07-29T09:36:01+08:00",
+          "translationLastCommit": "e4019666",
+          "translationLastModified": "2026-09-26T07:25:19+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "bytes": 72769,
+          "bytes": 72775,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -188947,7 +188997,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/hsinchu-county.md",
+          "translatedFrom": "Geography/新竹縣.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:091b9844837415a1",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T22:53:25.925768+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 92034,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Geography/hsinchu-county.md",
