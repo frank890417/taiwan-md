@@ -34,6 +34,7 @@ exit 1 = 有可疑的量級。這支是**線索產生器不是裁決者**：命�
 """
 import argparse
 import json
+import math
 import re
 import sys
 from pathlib import Path
@@ -60,6 +61,8 @@ MAGNITUDE = {
 # 量級算得到。
 ZH_MAG = {"萬": 4, "万": 4, "億": 8, "亿": 8, "兆": 12, "千": 3}
 ZH_NUM = re.compile(r"([0-9][0-9,.]*)\s*([萬万億亿兆])")
+# 空白分節的長數字裡，前面那幾節（`590 100` 的 `590 `）。
+GROUP_HEAD = re.compile(r"(?:^|[^0-9.,])[0-9]{1,3}(?:[ \u00a0\u2009\u202f][0-9]{3})*[ \u00a0\u2009\u202f]$")
 
 
 def zh_figures(zh_text: str) -> list[tuple[str, float, str]]:
@@ -82,32 +85,29 @@ def zh_figures(zh_text: str) -> list[tuple[str, float, str]]:
     return out
 
 
+def zh_values(zh_text: str) -> list[float]:
+    """中文原文裡每一個量級數字的實際數值，不套辨識度門檻——用來認出巧合。"""
+    vals = []
+    for m in ZH_NUM.finditer(zh_text):
+        try:
+            vals.append(float(m.group(1).rstrip(".,").replace(",", "")) * (10 ** ZH_MAG[m.group(2)]))
+        except ValueError:
+            continue
+    return vals
+
+
 def check(zh_path: Path, out_path: Path, lang: str) -> list[str]:
     mags = MAGNITUDE.get(lang)
     if not mags:
         return []
     zh_text = zh_path.read_text(encoding="utf-8", errors="ignore")
     out_text = out_path.read_text(encoding="utf-8", errors="ignore")
+    explained = zh_values(zh_text)
     hits, seen = [], set()
     for raw, val, unit in zh_figures(zh_text):
         if raw in seen:
             continue
         for word, power in mags.items():
-            # 同一個數字串直接黏在目標語言的量級詞旁邊。
-            # **左邊界不可省**：沒有它的話 `3.3 लाख` 裡的子字串 `3 लाख` 會命中，
-            # 報出一個根本不存在的錯。這正是 2026-09-09 把檔案改壞的那個 bug——
-            # 我第一版把它原封不動寫進了檢查器（同一天第七次子字串陷阱）。
-            pat = r"(?<![0-9.,])" + re.escape(raw) + r"\s*" + re.escape(word)
-            m2 = re.search(pat, out_text, re.I)
-            if not m2:
-                continue
-            # 複合量級詞不算。越南文的「nghìn tỷ」是千個 tỷ ＝ 10¹²、西班牙文的
-            # 「mil millones」是十億——量級詞後面接著另一個量級詞時，真正的量級是
-            # 兩者相乘，本支的單一詞比對判不了。抽驗時 `1.70 nghìn tỷ`（1.7 兆，正確）
-            # 被報成錯，就是這個家族。
-            tail = out_text[m2.end():m2.end() + 24].lower()
-            if any(re.match(r"\s*" + re.escape(w2.lower()), tail) for w2 in mags):
-                continue
             written = float(raw.replace(",", "")) * (10 ** power)
             if abs(written - val) / max(val, 1) < 0.001:
                 continue  # 剛好等值（例如中文「千」對上 thousand），不是錯
@@ -115,15 +115,51 @@ def check(zh_path: Path, out_path: Path, lang: str) -> list[str]:
             # 萬↔million 差 100、億↔billion 差 10）。倍率離譜的是巧合——中文某處的
             # 「100萬」跟譯文別處的「100 billion」講的是不同的事，差 10 萬倍。
             # 本支驗不了兩個數字指的是不是同一個量，只能用倍率把巧合濾掉。
-            import math
-            ratio = written / val
-            exp = math.log10(ratio)
+            exp = math.log10(written / val)
             if abs(exp) > 3.01 or abs(exp - round(exp)) > 0.01:
                 continue
+            # 同一個數字串直接黏在目標語言的量級詞旁邊。
+            # **左邊界不可省**：沒有它的話 `3.3 लाख` 裡的子字串 `3 लाख` 會命中，
+            # 報出一個根本不存在的錯。這正是 2026-09-09 把檔案改壞的那個 bug——
+            # 我第一版把它原封不動寫進了檢查器（同一天第七次子字串陷阱）。
+            # 用空白分三位的長數字，前一節也算左邊界（2026-09-26）：NHK 的 5,901 億
+            # 日圓在西文裡正確寫成 `590 100 millones`，子字串 `100 millones` 對上了
+            # 中文別處的「100萬」。法、西、葡、俄文都這樣分節。只認真正的分節——數字
+            # 串剛好三位、前面是一到三位的一節；第一版只看「數字＋空白」，把越南文
+            # `năm 2025 2,828 tỷ`（年份後接數字，真的少換算十倍）也放掉了。
+            pat = r"(?<![0-9.,])" + re.escape(raw) + r"\s*(" + re.escape(word) + ")"
+            grouped = re.fullmatch(r"[0-9]{3}", raw) is not None
+            # 量級詞是另一個量級詞的前綴時，要看整個字（2026-09-26）：西、葡文的
+            # 「mil」是「millones／milhões」的開頭，`500 millones` 會被讀成 `500 mil`。
+            # 同一波委派裡兩隻 agent 為了繞過它，把正確的譯文改成別的寫法。
+            longer = [w for w in mags if len(w) > len(word) and w.lower().startswith(word.lower())]
+            found = 0
+            for m2 in re.finditer(pat, out_text, re.I):
+                if grouped and GROUP_HEAD.search(out_text[max(0, m2.start() - 40):m2.start()]):
+                    continue
+                here = out_text[m2.start(1):m2.start(1) + 30].lower()
+                if any(here.startswith(w.lower()) for w in longer):
+                    continue
+                # 複合量級詞不算。越南文的「nghìn tỷ」是千個 tỷ ＝ 10¹²、西班牙文的
+                # 「mil millones」是十億——量級詞後面接著另一個量級詞時，真正的量級是
+                # 兩者相乘，本支的單一詞比對判不了。抽驗時 `1.70 nghìn tỷ`（1.7 兆，正確）
+                # 被報成錯，就是這個家族。
+                tail = out_text[m2.end():m2.end() + 24].lower()
+                if any(re.match(r"\s*" + re.escape(w2.lower()), tail) for w2 in mags):
+                    continue
+                found += 1
+            # 譯文的這個量剛好等於中文另一個量級數字時，數字串相同是巧合（2026-09-26）：
+            # 中文同時有「500萬」和「5億」，譯文把後者正確寫成 `500 millones`。用次數
+            # 對帳而不是見到就放行——中文有幾處等值的量，譯文就最多有幾處能被它解釋；
+            # 多出來的才是漏換算（兩處都寫成 `500 millones` 時仍會報）。
+            twins = sum(1 for v in explained if abs(written - v) / max(v, 1) < 0.001)
+            if found <= twins:
+                continue
             correct = val / (10 ** power)
+            ratio = written / val
             hits.append(
                 f"「{raw}{unit}」= {val:,.0f}，但譯文寫成「{raw} {word}」= {written:,.0f}"
-                f"（差 {written / val:.0f} 倍）→ 應為「{correct:g} {word}」"
+                f"（差 {max(ratio, 1 / ratio):.0f} 倍）→ 應為「{correct:g} {word}」"
             )
             seen.add(raw)
             break
