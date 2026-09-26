@@ -41,9 +41,25 @@ IMAGE_SOURCE_H2 = {
 # 的數字，改它等於改分派政策——要能一眼看到、也要能一處改。
 HEAVY_FOOTNOTES = 30
 HEAVY_URLS = 40
+# 分派表的另一半：「累計失敗 ≥3 → Sonnet」（SQUEEZE §第五層，2026-08-01 定型：
+# 「5/5 收下累計敗 125 次的殘骸；換引擎救不了」）。2026-09-26 補進來——本檔
+# 2026-09-09 誕生時只實作了引用密度那一半，於是一批累計撞牆 5-10 次的中篇 stale
+# 全被標成 haiku，主 session 得自己記得去查 fail-memo 才派對（REFLEXES #56：
+# canonical 寫了兩個條件，工具只執行一個，差的那個靠人記得）。
+HEAVY_FAILS = 3
+FAIL_MEMO = REPO / "reports" / "babel" / "fail-memo.json"
 
 
-def delegation_tier(article: dict) -> dict:
+def load_fail_counts() -> dict[str, int]:
+    """讀產線的跨 run 難篇帳（`lang:zh_path` → 累計失敗次數）。讀不到回空 dict：
+    缺帳時退回只看引用密度，不讓工具因為一個儀器檔不在就整批停擺。"""
+    try:
+        return {k: int(v) for k, v in json.loads(FAIL_MEMO.read_text(encoding="utf-8")).items()}
+    except (OSError, ValueError, TypeError):
+        return {}
+
+
+def delegation_tier(article: dict, fails: int = 0) -> dict:
     """依 SQUEEZE §第五層分派表判斷這一篇該給誰。
 
     為什麼要有這支：規則 2026-08-01 就寫在 canonical 裡（「累計失敗 ≥3 或引用密集
@@ -60,12 +76,16 @@ def delegation_tier(article: dict) -> dict:
     e = article.get("expected_structure") or {}
     fn, urls = e.get("footnote_defs", 0), e.get("urls", 0)
     heavy = fn > HEAVY_FOOTNOTES or urls > HEAVY_URLS
-    return {
-        "tier": "sonnet" if heavy else "haiku",
-        "why": (f"引用密集（腳註 {fn}／網址 {urls}，門檻 >{HEAVY_FOOTNOTES}／>{HEAVY_URLS}）"
-                "——SQUEEZE §第五層：這類換引擎救不了，要換模型"
-                if heavy else f"一般篇幅（腳註 {fn}／網址 {urls}）"),
-    }
+    failed = fails >= HEAVY_FAILS
+    if heavy:
+        why = (f"引用密集（腳註 {fn}／網址 {urls}，門檻 >{HEAVY_FOOTNOTES}／>{HEAVY_URLS}）"
+               "——SQUEEZE §第五層：這類換引擎救不了，要換模型")
+    elif failed:
+        why = (f"產線累計失敗 {fails} 次（門檻 ≥{HEAVY_FAILS}，腳註 {fn}／網址 {urls}）"
+               "——SQUEEZE §第五層：撞牆多次的殘骸換引擎救不了，要換模型")
+    else:
+        why = f"一般篇幅（腳註 {fn}／網址 {urls}，產線失敗 {fails} 次）"
+    return {"tier": "sonnet" if (heavy or failed) else "haiku", "why": why}
 
 
 def guide_sections(lang: str) -> dict[str, str]:
@@ -472,18 +492,22 @@ def main() -> None:
         lang = first["articles"][0]["en_path"].split("/")[1]
 
     brief = build(lang)
+    fail_counts = load_fail_counts()
     tiers = {"haiku": 0, "sonnet": 0}
     for f in groups:
         j = json.loads(f.read_text(encoding="utf-8"))
         j["agent_brief"] = brief
         for a in j.get("articles", []):
-            d = delegation_tier(a)
+            d = delegation_tier(a, fail_counts.get(f"{lang}:{a.get('zh_path', '')}", 0))
             a["delegation_tier"] = d
             tiers[d["tier"]] += 1
         f.write_text(json.dumps(j, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"✅ agent_brief（{lang}）寫進 {len(groups)} 份派工單")
     print(f"   分派建議：haiku {tiers['haiku']} 篇 ／ sonnet {tiers['sonnet']} 篇"
-          f"（SQUEEZE §第五層：腳註 >{HEAVY_FOOTNOTES} 或網址 >{HEAVY_URLS} 走 sonnet）")
+          f"（SQUEEZE §第五層：腳註 >{HEAVY_FOOTNOTES}、網址 >{HEAVY_URLS} "
+          f"或產線累計失敗 ≥{HEAVY_FAILS} 次走 sonnet）")
+    if not fail_counts:
+        print(f"   ⚠️ 讀不到 {FAIL_MEMO.relative_to(REPO)}——這次只按引用密度分派，失敗次數那半條沒生效")
     if tiers["sonnet"]:
         print("   ⚠️ 派工前先看每篇的 delegation_tier；把 sonnet 那批派給 haiku 的實測後果是"
               "腳註整區照抄原文、URL 缺漏、翻譯比掉到 1.05")
