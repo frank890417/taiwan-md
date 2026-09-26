@@ -1,6 +1,6 @@
 ---
-title: 'Yang Chuan-hsiung: Indigenous Hero from Taitung, Rome Silver Medalist, and the Asian Ironman Who Set a 9121-Point World Record'
-description: "Born July 10, 1933, in Taitung's Maran Amis village, Yang Chuan-hsiung was Taiwan's first Olympic medalist. He won silver in the 1960 Rome decathlon with 8334 points and in 1963 broke the world record with 9121 points, his 4.83-meter pole vault performance forcing the IAAF to revise its scoring system. He died of a stroke in California on January 27, 2007, aged 73. In April 2025, the Ministry of Culture designated him a national treasure."
+title: 'Yang Chuan-kwang: Indigenous Hero from Taitung, Rome Silver Medalist, and the Asian Ironman Who Set a 9121-Point World Record'
+description: "Born July 10, 1933, in Taitung's Maran Amis village, Yang Chuan-kwang was Taiwan's first Olympic medalist. He won silver in the 1960 Rome decathlon with 8334 points and in 1963 broke the world record with 9121 points, his 4.83-meter pole vault performance forcing the IAAF to revise its scoring system. He died of a stroke in California on January 27, 2007, aged 73. In April 2025, the Ministry of Culture designated him a national treasure."
 date: 2026-03-19
 category: 'People'
 tags: ['Sports', 'Athletics', 'Olympics', 'Decathlon', 'Indigenous', 'Amis']
@@ -17,13 +17,13 @@ sourceBodyHash: 'sha256:b14c332dbd93a4eb'
 translatedAt: '2026-09-22T02:06:12+08:00'
 ---
 
-# Yang Chuan-hsiung: Indigenous Hero from Taitung, Rome Silver Medalist, and the Asian Ironman Who Set a 9121-Point World Record
+# Yang Chuan-kwang: Indigenous Hero from Taitung, Rome Silver Medalist, and the Asian Ironman Who Set a 9121-Point World Record
 
-> **30-second overview:** Yang Chuan-hsiung was born on July 10, 1933, in the Maran Amis village of Taitung, and was Taiwan's first Olympic medalist. At the 1960 Rome Olympics, he competed against American Rafer Johnson over two days in the decathlon, winning silver with 8334 points—just 58 points behind. In 1963, he broke the world record with 9121 points and cleared 4.83 meters in the pole vault, forcing the International Association of Athletics Federations (IAAF) to revise its scoring standards. He died of a stroke in California on January 27, 2007, aged 73. In April 2025, the Ministry of Culture designated him a national treasure.
+> **30-second overview:** Yang Chuan-kwang was born on July 10, 1933, in the Maran Amis village of Taitung, and was Taiwan's first Olympic medalist. At the 1960 Rome Olympics, he competed against American Rafer Johnson over two days in the decathlon, winning silver with 8334 points—just 58 points behind. In 1963, he broke the world record with 9121 points and cleared 4.83 meters in the pole vault, forcing the International Association of Athletics Federations (IAAF) to revise its scoring standards. He died of a stroke in California on January 27, 2007, aged 73. In April 2025, the Ministry of Culture designated him a national treasure.
 
 ## Born in Taitung's Maran Village: The Amis Roots of a Decathlete
 
-On July 10, 1933, Yang Chuan-hsiung was born into an Amis family in Maran Village, Taitung. [^1] Maran is the largest Amis settlement in Taitung City, and it was here that Yang's athletic talent first took root.
+On July 10, 1933, Yang Chuan-kwang was born into an Amis family in Maran Village, Taitung. [^1] Maran is the largest Amis settlement in Taitung City, and it was here that Yang's athletic talent first took root.
 
 The Amis upbringing was more than just background to Yang's track and field career. The Amis tradition of valuing physical fitness, and the endurance built through village life, left their mark on his training foundation. The decathlon—a test requiring an athlete to complete ten vastly different challenges over two days (explosive sprinting, elastic jumping, powerful throwing, and long-distance stamina)—suited him well, in part because of the environment that shaped him.
 
@@ -43,7 +43,7 @@ Johnson later reflected on their relationship: "**We were very good friends, but
 
 ## Rome 1960: Silver with 8334 Points and Taiwan's First Olympic Medal
 
-At the 1960 Rome Olympics, Yang Chuan-hsiung engaged in a two-day point battle against Rafer Johnson in the decathlon. [^1] From the 100-meter dash, long jump, shot put, high jump, and 400 meters, through the 110-meter hurdles, discus, pole vault, javelin, and finally the 1500 meters—ten events, with scores locked in a tight race.
+At the 1960 Rome Olympics, Yang Chuan-kwang engaged in a two-day point battle against Rafer Johnson in the decathlon. [^1] From the 100-meter dash, long jump, shot put, high jump, and 400 meters, through the 110-meter hurdles, discus, pole vault, javelin, and finally the 1500 meters—ten events, with scores locked in a tight race.
 
 In the end, Yang took silver with 8334 points, while Johnson claimed gold with 8392 points. [^1] The margin was just 58 points. That silver medal made him Taiwan's first Olympic medalist—and the first athlete from Asia to win an Olympic medal in track and field.
 
@@ -55,7 +55,7 @@ In 1960, Taiwan competed under the name "Formosa," and during the opening ceremo
 
 ## 9121 Points: A World Record That Forced the IAAF to Rewrite the Rules
 
-In 1963, Yang Chuan-hsiung set a new world record in the decathlon with 9121 points. [^2] The breakthrough was most dramatic in the pole vault: he cleared 4.83 meters, a height that under the scoring system at the time translated into an outsized point return so extreme that the International Association of Athletics Federations (IAAF) had no choice but to revise its scoring table. [^2]
+In 1963, Yang Chuan-kwang set a new world record in the decathlon with 9121 points. [^2] The breakthrough was most dramatic in the pole vault: he cleared 4.83 meters, a height that under the scoring system at the time translated into an outsized point return so extreme that the International Association of Athletics Federations (IAAF) had no choice but to revise its scoring table. [^2]
 
 The significance is clear: his performance was so far beyond what the existing rules could accommodate that the governing body had to change the rules. This may sound exaggerated, but it is literally true—a pole vault by an Amis man from Taitung forced the organization that sets global standards to sit down and rewrite the rulebook.
 
@@ -81,7 +81,7 @@ His place in Taiwan's sports history is that of a trailblazer: before him, there
 
 ## Death in California
 
-Yang Chuan-hsiung died of a stroke in California on January 27, 2007, at the age of 73. [^3]
+Yang Chuan-kwang died of a stroke in California on January 27, 2007, at the age of 73. [^3]
 
 His final decades in the United States were relatively quiet, away from the public eye of Taiwanese sports. Yet the silver medal he won and the world record that forced the IAAF to revise its scoring system never faded from Taiwan's sports history.
 
@@ -89,30 +89,30 @@ Spending his later years in the United States was a quiet contrast for a man who
 
 ## National Treasure: Official Recognition Sixty-Five Years Later
 
-On April 23, 2025, the Ministry of Culture's Bureau of Cultural Heritage officially designated "Yang Chuan-hsiung's 1960 Rome Olympics Decathlon Silver Medal" as a national treasure. [^2] This marked Taiwan's first national treasure in the category of sports, coming sixty-five years after his victory.
+On April 23, 2025, the Ministry of Culture's Bureau of Cultural Heritage officially designated "Yang Chuan-kwang's 1960 Rome Olympics Decathlon Silver Medal" as a national treasure. [^2] This marked Taiwan's first national treasure in the category of sports, coming sixty-five years after his victory.
 
 The designation was based on two criteria under the _Regulations for the Review of Designation and Revocation of Ancient Relics_: "representative of major historical events or notable figures" and "unique or irreplaceable." The silver medal itself is housed at the National Sports Training Center and is currently on display at the National Taiwan Museum of Prehistory.
 
 Taiwan's first sports-related national treasure is a piece of metal won on the track in 1960 over two days. It represents not just a score, but the position a single person's physical prowess secured for Taiwan on the world stage during an era of severe international pressure. Preserved in a museum, it signifies: this moment was worth remembering.
 
-From the Amis village of Maran in Taitung, to the silver medal at the 1960 Rome Olympics, to the 1963 world record that forced the IAAF to revise its scoring system, to the 2025 national treasure designation—Yang Chuan-hsiung's story took ninety-two years to be fully recognized by the Taiwanese government. The recognition came late, but the silver medal never waited.
+From the Amis village of Maran in Taitung, to the silver medal at the 1960 Rome Olympics, to the 1963 world record that forced the IAAF to revise its scoring system, to the 2025 national treasure designation—Yang Chuan-kwang's story took ninety-two years to be fully recognized by the Taiwanese government. The recognition came late, but the silver medal never waited.
 
-Few names mark turning points in Taiwan's sports history, and Yang Chuan-hsiung is among the earliest. His 1960 opened the record of what Taiwanese athletes could achieve on the Olympic stage; his 1963 showed that possibility still had room to grow at its peak. The 2025 national treasure designation is the moment this story was formally archived in Taiwan's cultural memory.
+Few names mark turning points in Taiwan's sports history, and Yang Chuan-kwang is among the earliest. His 1960 opened the record of what Taiwanese athletes could achieve on the Olympic stage; his 1963 showed that possibility still had room to grow at its peak. The 2025 national treasure designation is the moment this story was formally archived in Taiwan's cultural memory.
 
 He set out from a Taitung village in 1933, circled the globe, and etched Taiwan's first mark on the world map with his body. That mark was the 8334-point silver medal, the 9121-point world record, the handshake leaning on a shoulder after a 58-point gap, and the afternoon the IAAF sat down to rewrite the rules.
 
-**Further reading:** [Yang Chuan-hsiung — Wikipedia](https://zh.wikipedia.org/zh-tw/楊傳廣) | [Central News Agency: Yang Chuan-hsiung coverage](https://www.cna.com.tw/news/aspt/202407103002.aspx)
+**Further reading:** [Yang Chuan-kwang — Wikipedia](https://zh.wikipedia.org/zh-tw/楊傳廣) | [Central News Agency: Yang Chuan-kwang coverage](https://www.cna.com.tw/news/aspt/202407103002.aspx)
 
 ## References
 
-[^1]: [Central News Agency: Yang Chuan-hsiung Olympic silver coverage (2024-07-10)](https://www.cna.com.tw/news/aspt/202407103002.aspx) — Confirms the 8334-point silver medal at the 1960 Rome Olympics (gold medalist Rafer Johnson 8392 points) and Yang's UCLA training background.
+[^1]: [Central News Agency: Yang Chuan-kwang Olympic silver coverage (2024-07-10)](https://www.cna.com.tw/news/aspt/202407103002.aspx) — Confirms the 8334-point silver medal at the 1960 Rome Olympics (gold medalist Rafer Johnson 8392 points) and Yang's UCLA training background.
 
-[^2]: [Min Bao: Yang Chuan-hsiung's 1963 world record and Ministry of Culture national treasure designation](https://www.peoplenews.tw/news/4c674583-7369-47aa-86a1-73b044fe9df2) — Includes the 1963 9121-point world record, the 4.83-meter pole vault that forced the IAAF to revise scoring standards, and the April 2025 Ministry of Culture national treasure designation.
+[^2]: [Min Bao: Yang Chuan-kwang's 1963 world record and Ministry of Culture national treasure designation](https://www.peoplenews.tw/news/4c674583-7369-47aa-86a1-73b044fe9df2) — Includes the 1963 9121-point world record, the 4.83-meter pole vault that forced the IAAF to revise scoring standards, and the April 2025 Ministry of Culture national treasure designation.
 
-[^3]: [Epoch Times: Yang Chuan-hsiung obituary (2007-01-28)](https://www.epochtimes.com/b5/7/1/28/n1605792.htm) — Confirms Yang died of a stroke in California on January 27, 2007, at the age of 73.
+[^3]: [Epoch Times: Yang Chuan-kwang obituary (2007-01-28)](https://www.epochtimes.com/b5/7/1/28/n1605792.htm) — Confirms Yang died of a stroke in California on January 27, 2007, at the age of 73.
 
-[^4]: [Central News Agency: American track and field legend Rafer Johnson passes away, remembered for classic showdown with Yang Chuan-hsiung](https://www.cna.com.tw/news/aspt/202012030054.aspx) — Includes Rafer Johnson's quote: "We were very good friends, but I knew it, he knew it, and the coach knew it—we were going to have to beat each other on the track," and records of their competitive friendship from their UCLA days through the 1960 Rome Olympics.
+[^4]: [Central News Agency: American track and field legend Rafer Johnson passes away, remembered for classic showdown with Yang Chuan-kwang](https://www.cna.com.tw/news/aspt/202012030054.aspx) — Includes Rafer Johnson's quote: "We were very good friends, but I knew it, he knew it, and the coach knew it—we were going to have to beat each other on the track," and records of their competitive friendship from their UCLA days through the 1960 Rome Olympics.
 
-[^5]: [Epoch Times Weekly: Legends and Glory—Yang Chuan-hsiung Speaks Out About Being Poisoned](https://www.epochweekly.com/b5/006/2655.htm) — Contains Yang Chuan-hsiung's own account of the poisoning incident, a personal accusation whose details have not been independently verified by third parties.
+[^5]: [Epoch Times Weekly: Legends and Glory—Yang Chuan-kwang Speaks Out About Being Poisoned](https://www.epochweekly.com/b5/006/2655.htm) — Contains Yang Chuan-kwang's own account of the poisoning incident, a personal accusation whose details have not been independently verified by third parties.
 
 [^6]: [Chinese Olympic Committee: 1960 XVII Rome Olympics](https://www.tpenoc.net/game/rome-1960/) — Official Olympic Committee historical records confirming that in 1960, the Taiwanese delegation competed under the name "FORMOSA" as resolved by the International Olympic Committee, and documenting the incident in which the chief organizer of the opening ceremony raised a white banner reading "UNDER PROTEST" during the parade of nations.
