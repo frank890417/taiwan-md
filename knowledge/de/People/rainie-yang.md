@@ -241,7 +241,7 @@ Jede Bühne war eine Verhandlung über „wer ich bin“.
 
 ## Weiterführende Literatur
 
-- [Zhang Xuan & An Muu](/music/張懸與安溥) – Eine weitere taiwanesische Sängerin, die vom jungen Mädchen zur autorenstarken Künstlerin wurde – ein Vergleich der beiden Wege von „definiert“ zu „selbst definiert“
+- [Zhang Xuan & An Pu](/music/張懸與安溥) – Eine weitere taiwanesische Sängerin, die vom jungen Mädchen zur autorenstarken Künstlerin wurde – ein Vergleich der beiden Wege von „definiert“ zu „selbst definiert“
 - [Wei Ruxuan](/people/魏如萱) – Eine weitere Sängerin mit zwei Goldglöckchen-Musikpreisen – ein struktureller Gegenpol zu Rainie Yang: Markt vs. Akademie
 - [Taiwanesische Popmusik](/music/台灣流行音樂) – Die Geschichte der Struktur der taiwanesischen Popmusik und der Doppelrolle von Idol-Serien und Sängerinnen
 - [KTV-Kultur Taiwans](/music/台灣KTV文化) – Der gesellschaftliche Kontext, in dem „Ambiguous“ 2005 zum KTV-Hit wurde, und die Rolle von KTV als Verbreitungskanal für taiwanesische Popmusik

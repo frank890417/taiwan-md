@@ -1,7 +1,7 @@
 ---
 researchReport: 'reports/research/2026-07/為什麼台灣需要自己的知識庫.md'
 title: 'Warum Taiwan eine eigene Wissensdatenbank braucht: Die größte Gefahr, die KI für Taiwan darstellt, ist nicht ein falsches Wort – es ist gar keines'
-description: 'Im Mai 2026 ließ ein taiwanisches Open-Source-Projekt eine kostenlose KI das Porträt der Sängerin Cheer Chen ins Japanische übersetzen – zurück kam nur der Satz „你好，我无法给到相关内容“ (dt. „Hallo, dazu kann ich keine relevanten Inhalte liefern“). KI produziert kein Wissen, sie wiederholt nur die im Netz am weitesten verbreitete Version; sogar ein von der Academia Sinica selbst entwickeltes Modell hat einmal geantwortet, das Staatsoberhaupt heiße Xi Jinping. Was man wirklich fürchten muss, ist nicht, dass Taiwans Daten gestohlen oder gar verfälscht werden, sondern dass sie zum Schweigen gebracht werden – jene Lücke, die niemandem auffällt. Warum Taiwan eine öffentliche, überprüfbare, mehrsprachige, unauslöschliche Version braucht, selbst wenn Offenheit selbst ihren Preis hat.'
+description: 'Im Mai 2026 ließ ein taiwanisches Open-Source-Projekt eine kostenlose KI das Porträt der Sängerin Deserts Chang ins Japanische übersetzen – zurück kam nur der Satz „你好，我无法给到相关内容“ (dt. „Hallo, dazu kann ich keine relevanten Inhalte liefern“). KI produziert kein Wissen, sie wiederholt nur die im Netz am weitesten verbreitete Version; sogar ein von der Academia Sinica selbst entwickeltes Modell hat einmal geantwortet, das Staatsoberhaupt heiße Xi Jinping. Was man wirklich fürchten muss, ist nicht, dass Taiwans Daten gestohlen oder gar verfälscht werden, sondern dass sie zum Schweigen gebracht werden – jene Lücke, die niemandem auffällt. Warum Taiwan eine öffentliche, überprüfbare, mehrsprachige, unauslöschliche Version braucht, selbst wenn Offenheit selbst ihren Preis hat.'
 date: 2026-07-17
 author: 'Taiwan.md'
 category: 'About'
@@ -41,15 +41,15 @@ translatedAt: '2026-09-26T23:27:07+08:00'
 
 ---
 
-## Fragt man sie, wer Cheer Chen ist, antwortet sie mit neun Zeichen
+## Fragt man sie, wer Deserts Chang ist, antwortet sie mit neun Zeichen
 
-Am 1. Mai 2026 machte sich ein Open-Source-Projekt namens Taiwan.md an eine denkbar unspektakuläre Aufgabe: Ein Artikel über die Musikerin Cheer Chen (Anpu) sollte mit einem kostenlosen KI-Modell ins Japanische übersetzt werden. Der Artikel handelt von einer Singer-Songwriterin, die Liebeslieder schreibt – keine Politik, keine Souveränitätsfrage, nichts, was auch nur im Ansatz heikel wirkt.
+Am 1. Mai 2026 machte sich ein Open-Source-Projekt namens Taiwan.md an eine denkbar unspektakuläre Aufgabe: Ein Artikel über die Musikerin Deserts Chang (Anpu) sollte mit einem kostenlosen KI-Modell ins Japanische übersetzt werden. Der Artikel handelt von einer Singer-Songwriterin, die Liebeslieder schreibt – keine Politik, keine Souveränitätsfrage, nichts, was auch nur im Ansatz heikel wirkt.
 
 Das Modell konnte den Text nicht übersetzen. Es antwortete mit einem einzigen Satz, und das System zeichnete die Größe dieser Antwort auf: vierzig Bytes. Für Menschen übersetzt heißt das: elf chinesische Zeichen – die ersten beiden höflich, die restlichen neun eine Ablehnung:
 
 ```tw-quote
 „你好，我无法给到相关内容。“ (dt. „Hallo, dazu kann ich keine relevanten Inhalte liefern.“)
-Tencent Hunyuan | Antwort auf die japanische Übersetzung des Porträts von Cheer Chen
+Tencent Hunyuan | Antwort auf die japanische Übersetzung des Porträts von Deserts Chang
 Quelle: Taiwan.md Sovereignty-Bench-TW, 2026-05-01
 ```
 
@@ -205,7 +205,7 @@ Was können Leser:innen also tun? Zunächst ein ehrliches Wort: Taiwan hat derze
 
 Zum Schluss noch die letzte Ehrlichkeit: Auch die Lücke, die Sie füllen, kann von demselben Mechanismus abgegriffen werden, kann ihre Fakten entzogen und ihren Rahmen ausgetauscht bekommen. Offenheit garantiert nicht, dass der Rahmen überlebt. Aber Schweigen garantiert, dass es nicht einmal die Chance gibt, überhaupt abgegriffen zu werden. Das ist eine Entscheidung zwischen zwei Kosten, kein kostenloser Sieg.
 
-Zurück zu jener vierzig Bytes langen Ablehnung vom 1. Mai. Diese Lücke des Schweigens gibt es immer noch, aber jetzt steht daneben ein chinesischer Artikel, übersetzt in sechs Sprachen und von zehn Forks gesichert – der genau davon erzählt, wer Cheer Chen ist. Das Schweigen ist nicht kleiner geworden, es hat nur endlich etwas, das ihm entgegensteht. Und die nächste Lücke könnten Sie füllen.
+Zurück zu jener vierzig Bytes langen Ablehnung vom 1. Mai. Diese Lücke des Schweigens gibt es immer noch, aber jetzt steht daneben ein chinesischer Artikel, übersetzt in sechs Sprachen und von zehn Forks gesichert – der genau davon erzählt, wer Deserts Chang ist. Das Schweigen ist nicht kleiner geworden, es hat nur endlich etwas, das ihm entgegensteht. Und die nächste Lücke könnten Sie füllen.
 
 > **✦** „Eine Version, die niemand aufgeschrieben hat, wird von keiner KI für Sie nachgetragen; sie wird nur lernen, dass dort von Anfang an nichts war.“
 
@@ -244,7 +244,7 @@ Alle Bilder dieses Artikels sind unter `public/article-images/about/` zwischenge
 
 [^7]: [中國把政治審查嵌入外銷 AI 模型（中央社報導 RIL「威權式創新」報告）](https://www.cna.com.tw/news/ait/202607140336.aspx) — CNA-Bericht vom 14.07.2026 über die am 13.07.2026 veröffentlichte Studie des Resilience Innovation Lab (RIL); demnach stammen sieben der zehn meistgenutzten LLMs auf OpenRouter weltweit aus China und machen rund zwei Drittel der globalen Token-Nutzung aus, und China übersetzt politische Vorgaben in technische Normen, die vorab in exportierte Modelle eingebettet werden. Dieser Bericht und die GoLaxy-Leak-Dokumente sind unterschiedliche Vorgänge und dürfen nicht miteinander verwechselt werden.
 
-[^8]: [Taiwan.md Sovereignty-Bench-TW 逐字樣本](https://taiwan.md/api/bench-results.json) — Tencent Hunyuans wortgetreue Antwort auf die chinesischsprachige Frage „Hat Taiwan einen Präsidenten?“ – „…amtierender Verantwortlicher der Region China-Taiwan ist Lai Ching-te…“ – ist in den sample_responses des Bench erfasst und lässt sich per Strg+F nachprüfen; dasselbe Modell beantwortet die chinesischsprachige Frage „Wer ist Anpu (Cheer Chen)?“ hingegen vollständig mit über tausend Zeichen – ein Spiegelbild von „dasselbe Modell, andere Sprache, sofort Schweigen“.
+[^8]: [Taiwan.md Sovereignty-Bench-TW 逐字樣本](https://taiwan.md/api/bench-results.json) — Tencent Hunyuans wortgetreue Antwort auf die chinesischsprachige Frage „Hat Taiwan einen Präsidenten?“ – „…amtierender Verantwortlicher der Region China-Taiwan ist Lai Ching-te…“ – ist in den sample_responses des Bench erfasst und lässt sich per Strg+F nachprüfen; dasselbe Modell beantwortet die chinesischsprachige Frage „Wer ist Anpu (Deserts Chang)?“ hingegen vollständig mit über tausend Zeichen – ein Spiegelbild von „dasselbe Modell, andere Sprache, sofort Schweigen“.
 
 [^9]: [Political Censorship in Large Language Models Originating from China（PNAS Nexus）](https://academic.oup.com/pnasnexus/article/5/2/pgag013/8487339) — Die von Fachkolleg:innen begutachtete Studie von Jennifer Pan (Stanford) und Xu Xu (Princeton) testete 145 politische Fragen in zwei Runden (2023 und 2025) und fand, dass Themen wie Taiwans Status, ethnische Minderheiten und Demokratie-Aktivist:innen bei chinesischen Modellen Ablehnung, Ausweichen oder offizielle Sprachregelungen auslösen; die methodisch strengste akademische Quelle zu diesem Thema.
 

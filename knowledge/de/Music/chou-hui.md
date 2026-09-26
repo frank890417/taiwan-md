@@ -362,7 +362,7 @@ Wenn ein taiwanesisches Publikum das nächste Mal in ein KTV eintritt, jemand in
 
 **Weiterlesen**:
 
-- [Zhang Xuan und An Muu](/de/music/deserts-chang-and-anpu) – Ebenfalls taiwanesische Sängerinnen; An Muu antwortete mit zwei Künstlernamen auf die Frage „auf welcher Seite stehst du?“; Zhou Hueis Wahl war, sich nicht auf eine Seite zu legen.
+- [Zhang Xuan und An Pu](/de/music/deserts-chang-and-anpu) – Ebenfalls taiwanesische Sängerinnen; An Pu antwortete mit zwei Künstlernamen auf die Frage „auf welcher Seite stehst du?“; Zhou Hueis Wahl war, sich nicht auf eine Seite zu legen.
 - [KTV-Kultur in Taiwan](/de/music/ktv-culture) – Die goldene Ära der KTV von Ende der 1990er bis Anfang der 2000er war die materielle Grundlage dafür, dass „Vereinbarung“ 25 Jahre lang auf den Listen blieb.
 - [Taiwanesische Popmusik](/de/music/golden-melodies-legacy-taiwan-pop-music) – Die Entstehung und Auflösung des „vierten kleinen Sternes“ im Jahr 1999 zeigt einen Schnitt durch die Industrialisierung der mandarinsprachigen Popmusik der 1990er.
 - [Goldene Musikpreise](/de/music/pop-music-and-golden-melody-awards) – Zhou Huei hat nie den Goldenen Musikpreis als beste Sängerin gewonnen, doch ihre 25-jährige Karriere hat außerhalb des Preisverleihungssystems ein alternatives Überlebensmerkmal etabliert.

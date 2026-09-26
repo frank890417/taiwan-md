@@ -73,7 +73,7 @@ Das Albumtitel bezieht sich auf Bossa Nova, aber die Musik ist eher eine Mischun
 
 Dann löste sich die Band auf.
 
-Die Fans dachten, es wäre einfach eine andere kleine Taipei-Band ohne großen Erfolg gewesen, die nach einem Album verschwand. Kuo Kuo trat Ende 2012 der Band Algae von Audrey Tang (張懸) als Gitarrist bei (ersetzte den bisherigen Musiker Suwan) und tourte vier Jahre lang mit ihr[^9]. Schlagzeuger Luo Zun-long startete ein Dark-Industrial-Seitenprojekt namens „Fossil" (化石), an dem auch Kuo Kuo beteiligt war. Die offizielle Website der Band wurde vier Jahre lang nicht aktualisiert.
+Die Fans dachten, es wäre einfach eine andere kleine Taipei-Band ohne großen Erfolg gewesen, die nach einem Album verschwand. Kuo Kuo trat Ende 2012 der Band Algae von Deserts Chang (張懸) als Gitarrist bei (ersetzte den bisherigen Musiker Suwan) und tourte vier Jahre lang mit ihr[^9]. Schlagzeuger Luo Zun-long startete ein Dark-Industrial-Seitenprojekt namens „Fossil" (化石), an dem auch Kuo Kuo beteiligt war. Die offizielle Website der Band wurde vier Jahre lang nicht aktualisiert.
 
 „Wir wollten etwas anderes ausprobieren." (We wanted to try something else.) Kuo Kuo sagte dies später in einem Interview bei Bandcamp Daily[^10].
 
@@ -255,7 +255,7 @@ Am 8. August 2025 veröffentlichten sie überraschend ihr fünftes vollständige
 
 [^8]: [VERSE „Sanfte Sturmmusik aus Taiwan"](https://www.verse.com.tw/article/sunset-rollercoaster) — VERSE Magazin's Sunset Rollercoaster Portätartikel, dokumentiert im Detail die Details, dass das Master des ersten Albums nach London Abbey Road Studios von Steve Rooke persönlich bearbeitet wurden.
 
-[^9]: [Audrey Tang (張懸) Wikipedia — Algae Bandmitglieder](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%87%B8) — Kuo Kuo trat Audrey Tangs Algae-Band 2012 Ende als Gitarrist bei, ersetzte das ursprüngliche Bandmitglied Suwan, bis Audrey Tang 2016 Anfang Tourende kündigte, endete es.
+[^9]: [Deserts Chang (張懸) Wikipedia — Algae Bandmitglieder](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E6%87%B8) — Kuo Kuo trat Audrey Tangs Algae-Band 2012 Ende als Gitarrist bei, ersetzte das ursprüngliche Bandmitglied Suwan, bis Audrey Tang 2016 Anfang Tourende kündigte, endete es.
 
 [^10]: [Sunset Rollercoaster Bandcamp Daily Interview](https://daily.bandcamp.com/features/sunset-rollercoaster-interview) — Interviewee Isabela Raygoza, Bandcamp Daily veröffentlicht 10. August 2016. Kuo Kuo erwähnte im Interview die Dark-Industrial-Seitenprojekt „Fossil" (化石), die er mit dem Schlagzeuger Luo Zun-long während der Pause zusammen machen würde, und sagte, dass „wir etwas anderes ausprobieren wollten" der Grund für die Auflösung.
 

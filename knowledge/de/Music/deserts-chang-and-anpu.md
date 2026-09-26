@@ -504,7 +504,7 @@ Neun Monate später erschien das Album 《9522》. Sechzehn Songs, fast alle aus
 
 [〈Die beste Zeit〉](https://www.youtube.com/watch?v=hiOnDnHwwjU) war die erste Single, die Hauptmelodie entstand mit vierzehn. Sie hatte sie einst für einen Autowerbespot eingereicht, wurde aber abgelehnt. Jahre später hörte die Schauspielerin Chang Chun-ning das Demo, war von der Melodie berührt und ermutigte sie, den Song fertigzustellen. Wu Qing-feng war der Erste, der die fertige Version hörte, und sein Kommentar lautete: „In diesem Moment wird dieses Leben wert.“ Die beiden hörten sich gegenseitig ihre Alben an bis zum Morgengrauen [^23].
 
-2023 gewann 〈Die beste Zeit〉 den Goldenen-Melodie-Preis für das Lied des Jahres bei der 34. Verleihung [^24]. Die Jurybegründung: „Ein Werk, das Zeit und Epoche überdauert, ein gutes Lied, das man für immer hören kann.“ An dem Tag der Preisverleihung hieß sie nicht Cheer Chen (張懸), sondern An Pu.
+2023 gewann 〈Die beste Zeit〉 den Goldenen-Melodie-Preis für das Lied des Jahres bei der 34. Verleihung [^24]. Die Jurybegründung: „Ein Werk, das Zeit und Epoche überdauert, ein gutes Lied, das man für immer hören kann.“ An dem Tag der Preisverleihung hieß sie nicht Deserts Chang (張懸), sondern An Pu.
 
 > **💡 Wussten Sie schon:** Wenn Jiao Yuanpu weltbekannte Klaviermeister interviewt, bringt er Cheer Chens CDs als Geschenk mit. Er stellt sie so vor: „Unsere Familien-Musikerin.“ [^25]
 

@@ -155,10 +155,10 @@ _Six language versions of the same article · taiwan.md · CC BY-SA 4.0_
 And translation itself becomes the other side of the refusal test above. When free cloud models fall silent on sovereignty-sensitive topics, the system cascades down a four-stage relay: cloud free-tier models can't handle it, eventually a local model running on your own machine—21GB in size—catches it, and it has zero refusal on these topics. In a May 2026 verification, nine new articles translated into five languages, all 45 combinations completed entirely by the free tier, with zero paid tokens used. [^14] Audrey Tang also demonstrated similar logic: downloading DeepSeek to run locally offline, questions that would be silenced online can be answered. [^15]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/9hXIXtz-tmw" title="Audrey Tang demonstrates bypassing DeepSeek censorship with local offline setup (PTS News)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/9hXIXtz-tmw" title="Audrey Tang demonstrates bypassing DeepSeek censorship with local offline setup (FTV News)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Audrey Tang demonstrates downloading DeepSeek to run locally offline, answering questions that would be silenced online. Video: PTS News_
+_Audrey Tang demonstrates downloading DeepSeek to run locally offline, answering questions that would be silenced online. Video: FTV News_
 
 Filling this gap isn't just civil society. The government's TAIDE project has been training models with Traditional Chinese data since 2023, and the Ministry of Digital Affairs' "Sovereign AI Corpus" Beta launched at the end of 2025, initially gathering data from over a hundred government agencies in Traditional Chinese. [^16] But this path isn't easy—even buying licenses from media outlets and public media hit roadblocks, with Ministry of Digital Affairs Deputy Minister Hou Yi-hsiu frankly admitting: "to be honest, we don't have the budget to pay licensing fees." The absence of data infrastructure ultimately comes down to resources, not willingness.
 
@@ -225,7 +225,7 @@ All images in this article are cached at `public/article-images/about/` (avoidin
 - [Academia Sinica campus](https://commons.wikimedia.org/wiki/File:Academia_Sinica_Activity_Center_20210513.jpg) — Photo: Xuan Shih-sheng, 2021, CC0
 - [g0v hackathon (Academia Sinica)](<https://commons.wikimedia.org/wiki/File:G0v_hackathon_DSC_5027_(8237923676).jpg>) — Photo: kirby wu, 2012, CC BY-SA 2.0
 - [Philippine store on Zhongshan North Road Section 3, Taipei](https://commons.wikimedia.org/wiki/File:Bing_Go_Philippine_Goods_on_Zhong_Shan_NRdSec3_Taipei_city.JPG) — Photo: Atinncnu, 2006, public domain
-- Video: Audrey Tang demonstrates local offline bypass of DeepSeek censorship — PTS News official YouTube standard embed
+- Video: Audrey Tang demonstrates local offline bypass of DeepSeek censorship — FTV News official YouTube standard embed
 
 ## References
 

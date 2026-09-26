@@ -38,7 +38,7 @@ That was the month after the site formally launched on December 16, 2015[^8]. On
 
 Ho was 49 at the time and had just left his post as editor-at-large at CommonWealth Magazine[^10]. Going further back, in 1995 he initiated and served as the founding president of the Association of Taiwan Journalists[^11], at a time when Taiwan was still dealing with "party, government, and military withdrawal from the media" and fighting for journalists' right not to be used as propaganda tools. He had been a journalist for 20 years. After those 20 years, he chose to stake that career on the number "4."
 
-Barry Lam personally donated NT$5 million to establish The Reporter Cultural Foundation[^12]. Shih Hsin University visiting professor Weng Hsiu-chi became the first board chair, serving from September 2015 to August 2018[^13]. Ho later described the foundation's role bluntly in the official FAQ: "With the foundation as an umbrella and firewall, it can block external interference and ensure the media outlet's independent operation"[^14].
+Tung Tzu-hsien personally donated NT$5 million to establish The Reporter Cultural Foundation[^12]. Shih Hsin University visiting professor Weng Hsiu-chi became the first board chair, serving from September 2015 to August 2018[^13]. Ho later described the foundation's role bluntly in the official FAQ: "With the foundation as an umbrella and firewall, it can block external interference and ensure the media outlet's independent operation"[^14].
 
 The number 4 later became the story The Reporter itself most often told. Ten years on, in a tenth-anniversary podcast released in October 2025, Ho summarized the head-count curve in one sentence: "Recurring monthly sponsors also went from only 4 people in the first month online to now receiving the trust of 8,000 supporters each month"[^15]. In a Facebook post that same month, he wrote: "Ten years ago I often encouraged myself with 'from ruins, a flower blooms; in troubled times, protect one patch of field.' I never expected that ten years later, the original 4 donors would have bloomed into a small garden of about 8,000 recurring monthly donors"[^16].
 
@@ -67,7 +67,7 @@ Advertisers can pull ads to apply pressure | Accepts no commercial advertising
 Pageviews decide what gets written next | There is no pageview screen in the newsroom
 ```
 
-The detail that Barry Lam personally donated NT$5 million to establish the foundation is official, first-hand public information[^19]. A later market version claimed that Lam's initial donation was NT$20 million, but that number has never been officially confirmed and is closer to market rumor; the hard fact that can be confirmed is NT$5 million[^20]. What matters is the three-part design of "personal donation + foundation holding structure + no advertising"; the size of the number itself is secondary. Even after Lam later became vice chair of a Democratic Progressive Party think tank, the foundation's bylaws did not allow him to issue instructions on a single report.
+The detail that Tung Tzu-hsien personally donated NT$5 million to establish the foundation is official, first-hand public information[^19]. A later market version claimed that Lam's initial donation was NT$20 million, but that number has never been officially confirmed and is closer to market rumor; the hard fact that can be confirmed is NT$5 million[^20]. What matters is the three-part design of "personal donation + foundation holding structure + no advertising"; the size of the number itself is secondary. Even after Lam later became vice chair of a Democratic Progressive Party think tank, the foundation's bylaws did not allow him to issue instructions on a single report.
 
 The official FAQ contains another passage explaining why the outlet does not display pageviews: "We hope to move beyond the myth of pageviews, because traffic is not entirely equal to reporting value, nor is it equal to trust and impact"[^21]. In the world of online media in 2026, this has become an extremely rare discipline. Most news sites show real-time reader counts, social-share counts, and comment counts under each article, and newsrooms use those numbers to decide what to write next. The Reporter's newsroom does not have that screen.
 
@@ -130,10 +130,10 @@ MOHW public amendment timeline, 2025-2026
 But there is an important discipline here: The Reporter itself has never written that "this publication's reporting directly caused the Ministry of Health and Welfare to amend the law." It can only say that the Chokubi Phenomenon series sparked policy discussion and may have been one factor leading to amendment. The amendment resulted from interactions among the Ministry of Health and Welfare, legislators, medical groups, and medical-ethics opinion; investigative reporting was one trigger, not the sole cause. That sense of distance matters. One of the easiest ways for investigative media to die is to overclaim their own impact and eventually believe the claim themselves.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/_AdtqBm7Hk4" title="Aesthetic-medicine偷拍 storm: what is wrong with Taiwan's aesthetic-medicine regulation? How can we protect ourselves?｜The Reporter" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/_AdtqBm7Hk4" title="Aesthetic-medicine hidden-camera storm: what is wrong with Taiwan's aesthetic-medicine regulation? How can we protect ourselves?｜The Reporter" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_The Reporter's official-channel video "Aesthetic-medicine偷拍 Storm: What Is Wrong with Taiwan's Aesthetic-Medicine Regulation?" extends Chokubi Phenomenon into a broader follow-up on regulatory gaps in aesthetic medicine._
+_The Reporter's official-channel video "Aesthetic-medicine hidden-camera Storm: What Is Wrong with Taiwan's Aesthetic-Medicine Regulation?" extends Chokubi Phenomenon into a broader follow-up on regulatory gaps in aesthetic medicine._
 
 ## The Newsroom That Does Not Display Pageviews
 
@@ -223,7 +223,7 @@ If Blood-Stained Fishing Grounds in 2016 represented The Reporter's early awaren
 
 From December 4 to 7, 2025, The Reporter held its tenth-anniversary special exhibition in Hall 4A at Huashan 1914 Creative Park in Taipei[^55]. From March 19 to 22, 2026, the exhibition moved to Warehouse B6 in the Penglai Area of Pier-2 Art Center in Kaohsiung[^56]. Both were free.
 
-The exhibition laid out representative reports from the past ten years, award records, field photographs, and newsroom workflows. For a nonprofit media outlet, this was a large-scale accounting to donors. The 8,000 recurring monthly donors, plus irregular one-time donors, plus continuing individual donors such as Barry Lam, send money into this media outlet's account every month. They have never held a shareholders' meeting and have never demanded dividends. The meaning of the tenth-anniversary exhibition was to give these 8,000-plus strangers one chance to enter a physical space and see what their NT$200 or NT$300 each month had produced.
+The exhibition laid out representative reports from the past ten years, award records, field photographs, and newsroom workflows. For a nonprofit media outlet, this was a large-scale accounting to donors. The 8,000 recurring monthly donors, plus irregular one-time donors, plus continuing individual donors such as Tung Tzu-hsien, send money into this media outlet's account every month. They have never held a shareholders' meeting and have never demanded dividends. The meaning of the tenth-anniversary exhibition was to give these 8,000-plus strangers one chance to enter a physical space and see what their NT$200 or NT$300 each month had produced.
 
 Ho Jung-hsing said something in the tenth-anniversary podcast that is often overlooked: "Ten years ago, we thought surviving three years would already be impressive; ten years later, more people know The Reporter, but new challenges keep coming, and it has not gotten easier"[^57].
 
@@ -285,7 +285,7 @@ This article uses 5 official The Reporter brand assets and work images under fai
 
 Embedded videos (The Reporter's official YouTube channel):
 
-- [Aesthetic-medicine偷拍 Storm: What Is Wrong with Taiwan's Aesthetic-Medicine Regulation?](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — The Reporter
+- [Aesthetic-medicine hidden-camera Storm: What Is Wrong with Taiwan's Aesthetic-Medicine Regulation?](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — The Reporter
 - [The Reporter's Anniversary: Speak Out Loud!](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — The Reporter
 
 ## References
@@ -312,7 +312,7 @@ Embedded videos (The Reporter's official YouTube channel):
 
 [^11]: Official history of the Association of Taiwan Journalists: founded in 1995, with Ho Jung-hsing as initiator and founding president.
 
-[^12]: Barry Lam personally donated NT$5 million to establish The Reporter Cultural Foundation. Sources: The Reporter official FAQ and cross-checks with multiple reports from the time. A separate market claim says the initial donation was NT$20 million; this has not been officially confirmed.
+[^12]: Tung Tzu-hsien personally donated NT$5 million to establish The Reporter Cultural Foundation. Sources: The Reporter official FAQ and cross-checks with multiple reports from the time. A separate market claim says the initial donation was NT$20 million; this has not been officially confirmed.
 
 [^13]: Weng Hsiu-chi served as the first board chair from 2015-09 to 2018-08 and was a visiting professor at Shih Hsin University. Source: The Reporter organizational-history page.
 
@@ -326,7 +326,7 @@ Embedded videos (The Reporter's official YouTube channel):
 
 [^18]: Same as [^6] — The three noes principle, "no ownership, no intervention, no clawback," appears on The Reporter's official "About Us" donor-covenant page.
 
-[^19]: Same as [^12] — Barry Lam's personal donation of NT$5 million to establish the foundation is tied to the three-part "no ownership" design.
+[^19]: Same as [^12] — Tung Tzu-hsien's personal donation of NT$5 million to establish the foundation is tied to the three-part "no ownership" design.
 
 [^20]: Same as [^12]; NT$5 million is the official first-hand public figure, while NT$20 million is market rumor.
 
