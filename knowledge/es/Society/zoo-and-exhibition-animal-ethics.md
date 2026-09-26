@@ -1,205 +1,204 @@
 ---
-title: 'Ética de los zoológicos y de los animales de exhibición'
-description: 'Desde los elefantes en jaulas de hierro hasta el muro de medusas de Xpark: Taiwán está redefiniendo la relación entre las personas y los animales exhibidos'
+title: 'Zoológicos y ética de los animales en exhibición'
+description: 'Desde elefantes en jaulas de hierro hasta la pared de medusas de Xpark, Taiwán está redefiniendo la relación entre humanos y animales exhibidos'
 date: 2026-03-18
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '動物與倫理'
 tags:
   [
     'zoológicos',
-    'animales de exhibición',
+    'animales en exhibición',
     'bienestar animal',
     'Xpark',
     'Zoológico de Taipéi',
     'ética animal',
     'Zoológico de Hsinchu',
   ]
-readingTime: 12
+subcategory: '動物與倫理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+readingTime: 12
 translatedFrom: 'Society/動物園與展演動物倫理.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:942c806351e32e6f'
-sourceBodyHash: 'sha256:d25050b0162be631'
-translatedAt: '2026-05-17T05:34:54+08:00'
+sourceCommitSha: '8a8596298'
+sourceContentHash: 'sha256:0ca0048f5fb189e0'
+sourceBodyHash: 'sha256:2b440f6d5e5bb010'
+translatedAt: '2026-09-26T11:10:12+08:00'
 ---
 
-# Ética de los zoológicos y de los animales de exhibición
+# Zoológicos y ética de los animales en exhibición
 
-_Desde los elefantes en jaulas de hierro hasta el muro de medusas de Xpark, Taiwán está redefiniendo la relación entre las personas y los animales exhibidos_
+_Desde elefantes en jaulas de hierro hasta la pared de medusas de Xpark, Taiwán está redefiniendo la relación entre humanos y animales exhibidos_
 
-## Panorama en 30 segundos
+## 30 segundos: visión general
 
-Los zoológicos de Taiwán atraviesan la mayor revolución intelectual de su último siglo. Desde la exhibición en jaulas de hierro del Zoológico de Yuanshan durante el período colonial japonés, pasando por la remodelación pionera “sin jaulas” del Zoológico de Hsinchu en 2019, hasta el gran debate sobre bienestar animal detonado por la apertura de Xpark en 2020, todo ello nos obliga a repensar la legitimidad misma de “encerrar animales para que las personas los miren”.
+Los zoológicos de Taiwán están viviendo la mayor revolución intelectual de cien años. Desde los recintos de jaulas de hierro del Zoológico Yuanshan en la época colonial japonesa, pasando por la transformación revolucionaria del «Zoológico sin jaulas» del Zoológico de Hsinchu en 2019, hasta el debate sobre bienestar animal desatado por la apertura de Xpark en 2020, se nos impulsa a reconsiderar la legitimidad misma de «encerrar animales para que la gente los vea».
 
-Esta transformación abarca una renovación de los valores de toda la sociedad. Desde la desaparición de los tigres que saltaban a través de aros de fuego en los circos hasta las controversias sobre cafés de mascotas en redes sociales, la población taiwanesa ha comenzado a preguntarse: “¿Quién decide qué hace feliz a un animal?”
+Esta transformación abarca una actualización de los valores de toda la sociedad. Desde la desaparición de los tigres saltadores de fuego en los circos, hasta las controversias sobre cafeterías de mascotas en las redes sociales, los taiwaneses comienzan a preguntar: «¿Quién decide la felicidad del animal?»
 
-La implementación en 2017 del Reglamento de Gestión de Animales de Exhibición en Taiwán y el vencimiento de los permisos para espectáculos con cetáceos en 2026 constituyen una serie de puntos de inflexión institucionales que han llevado este debate desde la filosofía moral hacia decisiones jurídicas concretas.
+En 2016, Taiwán promulgó la _Norma de Manejo de Exhibición de Animales_; en 2026, los permisos de exhibición de cetáceos vencen: una serie de puntos de inflexión institucionales que permite que este debate pase de la filosofía moral a decisiones legales tangibles.
 
 ## Por qué importa
 
-En una isla cada vez más urbanizada, los zoológicos quizá sean el único lugar donde la mayoría de las personas puede entrar en contacto con animales silvestres. Pero cuando la educación para la conservación entra en conflicto con el bienestar animal, y cuando los intereses comerciales tironean contra los principios éticos, ¿cómo encontramos un equilibrio entre “permitir que las personas conozcan a los animales” y “permitir que los animales vivan bien”?
+En una isla cada vez más urbanizada, el zoológico podría ser el único lugar donde la mayoría de las personas pueden entrar en contacto con la vida silvestre. Pero cuando la educación sobre conservación choca con el bienestar animal, cuando los intereses comerciales tiran de los principios éticos, ¿cómo encontramos equilibrio entre «dejar que la gente conozca animales» y «dejar que los animales vivan bien»?
 
-Esta pregunta no tiene una respuesta estándar, pero el proceso de exploración de Taiwán refleja cómo una sociedad redefine la relación entre humanos y animales, y también cómo se redefine a sí misma.
+Esta pregunta no tiene una respuesta estándar, pero el proceso de exploración de Taiwán refleja cómo una sociedad redefine su relación con los animales, y también se redefine a sí misma.
 
-Desde la elaboración normativa hasta las controversias en redes sociales, la velocidad con la que Taiwán ha cambiado su actitud hacia los animales de exhibición es relativamente inusual en Asia.
+La velocidad del cambio de actitud de Taiwán hacia los animales en exhibición, desde la regulación legal hasta las controversias en las redes sociales, es relativamente rara en la región de Asia.
 
-## De las jaulas de hierro al bosque: un siglo de evolución del Zoológico de Taipéi
+## De jaulas de hierro a bosques: el cambio centenario del Zoológico de Taipéi
 
-En 1914, el gobierno colonial japonés estableció el “Zoológico de Taipéi” en Yuanshan. La filosofía de exhibición de entonces era sencilla: encerrar animales raros y exóticos en jaulas para que la gente se maravillara. Pisos de cemento, barrotes de hierro, espacios estrechos: los animales eran objetos de exhibición, no individuos vivos.
+En 1914, el gobierno colonial japonés estableció el «Zoológico de Taipéi» en Yuanshan. La filosofía de exhibición era simple: encerrar criaturas exóticas en jaulas para sorprender a la gente. Pisos de cemento, barras de hierro, espacios reducidos: los animales eran exhibiciones, no individuos con vidas propias.
 
-En 1986, el zoológico se trasladó a Muzha. El espacio se amplió y el pensamiento también comenzó a cambiar. Enriquecimiento ambiental, entrenamiento conductual, reproducción para la conservación: el Zoológico de Taipéi empezó a intentar que los animales vivieran más como animales.
+En 1986, cuando el zoológico se trasladó a Mucha, el espacio se expandió y el pensamiento también comenzó a cambiar. Enriquecimiento ambiental, entrenamiento de comportamiento, reproducción para la conservación: el Zoológico Metropolitano de Taipéi comenzó a intentar que los animales vivieran más como animales.
 
-El **efecto Yuan Zai** lo cambió todo. En 2013 nació Yuan Zai, la cría de panda gigante, y todo Taiwán enloqueció; decenas de miles de personas acudían cada día al zoológico. Pero el aura de celebridad de Yuan Zai también trajo una reflexión: ¿amamos a los animales en sí mismos o el entretenimiento que nos brindan?
+**El efecto Yuanzi** lo cambió todo. En 2013 nació la cría de oso panda Yuanzi, y toda Taiwán se enloquecia, con decenas de miles de personas inundando el zoológico cada día. Pero la fama de Yuanzi también trajo reflexión: ¿lo que amamos es el animal mismo, o el entretenimiento que nos trae?
 
-La historia de Tuan Tuan y Yuan Yuan es aún más compleja. Esta pareja de pandas gigantes fue un obsequio diplomático de China a Taiwán y portaba una carga simbólica política. Cuando Tuan Tuan murió de enfermedad en 2022, la población taiwanesa lloró a un animal, pero también a un tramo de historia. Sin embargo, detrás de la ternura siempre hubo una pregunta punzante: ¿es razonable tratar a los animales como fichas diplomáticas?
+La historia de Tuan Tuan y Yuan Yuan es más compleja. Este par de osos pandas fue un regalo diplomático de China a Taiwán, cargado de simbolismo político. Cuando Tuan Tuan murió en 2022, los taiwaneses lloraron no solo a un animal, sino también a una historia. Pero detrás de la ternura yace una pregunta incómoda: ¿es legítimo utilizar a los animales como fichas diplomáticas?
 
 ## La revolución sin jaulas: la transformación del Zoológico de Hsinchu
 
-En diciembre de 2019, el Zoológico de Hsinchu reabrió sus puertas y se declaró a sí mismo un “zoológico sin jaulas”. Esta remodelación fue igual de profunda en el plano filosófico.[^1]
+En diciembre de 2019, el Zoológico de Hsinchu reabrió sus puertas y se proclamó un «zoológico sin jaulas». Esta transformación fue igualmente profunda a nivel filosófico. [^1]
 
-El director Yang Chia-min lo expresó con franqueza: “Los animales son residentes, no artículos de exhibición”. Todo el diseño partió de las necesidades de los animales: los hipopótamos tienen pozas profundas donde pueden sumergirse y nadar, los tapires malayos tienen barro donde revolcarse, y los tigres de Bengala tienen arboledas donde ocultarse.
+El director Yang Chia-min abogaba porque los animales no debería ser herramientas de entretenimiento. Cada diseño partía de las necesidades del animal: hipopótamos con piscinas profundas para sumergirse, tapires malayos con barro para revolcarse, tigres de bengala con bosques para ocultarse.
 
-Más radical aún: el Zoológico de Hsinchu ya no persigue la diversidad de especies. Redujo la variedad de especies, se concentró en exhibiciones respetuosas de especies locales y conservó únicamente a aquellos animales que realmente pueden vivir bien en el entorno existente. “No somos el arca de Noé”, dijo Yang Chia-min. “Somos el hogar de los animales”.
+Más radicalmente aún, el Zoológico de Hsinchu dejó de perseguir la diversidad de especies. Redujo el número de especies, enfocándose en demostrar amablemente las especies locales, manteniendo solo a aquellas que realmente podían vivir bien en el ambiente existente.
 
-Esta transformación no es perfecta. Sus críticos dicen que el espacio sigue siendo demasiado pequeño y que los animales siguen estando cautivos. Pero la importancia del Zoológico de Hsinchu radica en que demostró que Taiwán tiene la capacidad de salir del marco tradicional y reimaginar la relación entre humanos y animales.
+Esta transformación no es perfecta. Los críticos dicen que el espacio sigue siendo demasiado pequeño, que los animales siguen en cautividad. Pero el significado del Zoológico de Hsinchu radica en que probó que Taiwán tiene la capacidad de salir del marco tradicional y reimaginar la relación entre humanos y animales.
 
-## La tormenta de Xpark: el gran examen ético de los acuarios urbanos
+## La tormenta de Xpark: una prueba ética para el acuario urbano
 
-En agosto de 2020, el acuario urbano de estilo japonés Xpark abrió en Gloria Outlets, en Taoyuan. Con luces deslumbrantes y un diseño vanguardista, su apertura provocó de inmediato discusiones sobre bienestar animal. Pero detrás de la belleza se ocultaba un agujero negro de bienestar animal.
+En agosto de 2020, el acuario urbano de estilo japonés Xpark abrió sus puertas en Centro Comercial Hua Tai, Taoyuan. Con luces deslumbrantes y diseño de vanguardia, su apertura inmediatamente desencadenó debates sobre bienestar animal. Pero detrás de la belleza se esconde un abismo de bienestar animal.
 
-Antes de que se cumpliera un año de su apertura, estallaron problemas uno tras otro:
+En menos de un año, los problemas surgieron uno tras otro:
 
-- **Aparecieron heridas en el cuerpo de las rayas**, presuntamente causadas por choques derivados de un espacio demasiado reducido
-- **Los pingüinos presentaron conductas anormales**, nadando repetidamente en un espacio estrecho
-- **La exposición a luces intensas** afectó el reloj biológico de animales nocturnos
-- **El ruido excesivo** sometió a animales marinos a estrés en medio del bullicio de las multitudes
+- **Rayas con heridas en el cuerpo**, sospechosamente causadas por espacios demasiado pequeños
+- **Comportamiento anómalo de pingüinos**, nadando repetitivamente en espacios reducidos
+- **Iluminación intensa** que afecta los ritmos circadianos de los animales nocturnos
+- **Ruido excesivo**, animales marinos bajo estrés en medio de multitudes ruidosas
 
-La investigación en profundidad de Wuo Wuo Media detonó el debate público.[^2] Sus defensores sostuvieron que Xpark aportaba educación para la conservación; sus críticos cuestionaron que se trataba de “maltrato animal empaquetado como entretenimiento”.
+La investigación profunda de Wuo Wuo Media encendió la discusión pública. [^2] Los defensores dicen que Xpark trae educación sobre conservación; los críticos cuestionan si esto es «abuso animal empaquetado como entretenimiento».
 
-El núcleo de la controversia de Xpark es este: **¿el modelo comercial de los acuarios urbanos es compatible en sí mismo con el bienestar animal?** Cuando el valor de entretenimiento entra en conflicto con el bienestar animal, ¿de qué lado debemos estar?
+El núcleo de la controversia de Xpark es: **¿el modelo comercial del acuario urbano es compatible con el bienestar animal?** Cuando el entretenimiento choca con el bienestar animal, ¿qué lado elegimos?
 
-Este debate aún no ha terminado, pero ya cambió la percepción de la sociedad taiwanesa sobre los animales de exhibición.
+Este debate no ha terminado, pero ya ha cambiado la percepción de Taiwán sobre los animales en exhibición.
 
-## El circo que desaparece: el ocaso de los espectáculos con animales
+## El circo desaparecido: el crepúsculo del entretenimiento con animales
 
-¿Aún recuerdas a los tigres saltando a través de aros de fuego, a los monos montando monociclos o a las focas balanceando pelotas? Esas escenas, que alguna vez fueron clásicas en los circos de Taiwán, hoy casi han desaparecido.
+¿Recuerdas tigres saltando a través de fuego, monos en monociclos, focas equilibrando pelotas? Estas fueron una vez escenas clásicas del circo taiwanés, ahora casi extintas.
 
-En la década de 1990, circos como Mulan Circus y Asia Circus realizaban giras por todo Taiwán, y los espectáculos con animales eran el programa principal. Pero a medida que creció la conciencia sobre los derechos animales, estas presentaciones fueron cada vez más cuestionadas: ¿el proceso de entrenamiento era cruel? ¿Los animales realmente “disfrutaban” actuar?
+En los años noventa, el Circo Mulan, el Circo de Asia recorrían diferentes lugares de Taiwán, siendo el entretenimiento con animales el acto estrella. Pero conforme creció la conciencia sobre derechos animal, estos espectáculos enfrentaban cada vez más cuestionamiento: ¿fue el entrenamiento cruel? ¿Los animales realmente «disfrutan» actuando?
 
-El punto de inflexión clave fue la reforma de la Ley de Protección Animal en 2017, que reforzó la regulación sobre animales de exhibición. Aunque no hubo una prohibición total, los complejos procedimientos de solicitud y los estrictos estándares de inspección hicieron que los circos tradicionales fueran difíciles de sostener.
+El punto de giro clave fue la enmienda de 2018 a la _Ley de Protección Animal_, que fortaleció las regulaciones sobre animales en exhibición. Aunque no hubo prohibición completa, los procedimientos complicados y estándares de inspección estrictos hicieron que los circos tradicionales se volvieran insostenibles.
 
-En su lugar surgieron circos sin animales. Cirque du Soleil y FOCA Formosa Circus reemplazaron las presentaciones con animales por el cuerpo y la creatividad humanos. La población taiwanesa descubrió que un circo sin animales podía ser igual de espectacular.
+En su lugar surgieron circos sin animales. El Cirque du Soleil, el Circo de Formosa (FOCA) sustituyeron el entretenimiento con animales con la creatividad y los cuerpos humanos. Los taiwaneses descubrieron que un circo sin animales podía ser igual de emocionante.
 
-## El dilema de los parques marinos
+## El dilema del parque marino
 
-Los recintos de exhibición marina de Taiwán se encuentran en una encrucijada histórica.
+Las instalaciones de exhibición marina de Taiwán se encuentran en una encrucijada histórica.
 
-Actualmente, en Taiwán solo quedan dos operadores con espectáculos de cetáceos: Farglory Ocean Park en Hualien (4 delfines nariz de botella + 1 delfín moteado tropical) y Yehliu Ocean World en Nuevo Taipéi (10 delfines nariz de botella). Los permisos de exhibición de ambos vencerán en **2026**. La cuenta regresiva para que “los espectáculos de delfines pasen a la historia” ya comenzó.
+Actualmente, Taiwán solo tiene dos empresas de exhibición de cetáceos: el Parque Marino Yuansheng de Hualien (4 delfines nariz de botella + 1 delfín con rayas) y la Mundo Marino de Yehliu en Nuevo Taipéi (10 delfines nariz de botella). Los permisos de exhibición de ambas vencen en **2026**. La cuenta atrás de «el espectáculo de delfines entra en la historia» ha comenzado.
 
-En julio de 2024, el Ministerio de Agricultura anunció la nueva versión del Reglamento de Gestión de Animales de Exhibición, incorporando formalmente los espectáculos con cetáceos a la gestión regulatoria.[^3] La Administración de Conservación Oceánica también creó el “**Grupo de Asesoramiento para la Transformación de Espectáculos con Cetáceos**”, con participación de académicos, organizaciones civiles y gobiernos locales. Su orientación central es clara: eliminar gradualmente las exhibiciones de entretenimiento y pasar a un modelo de exhibición educativa.
+En julio de 2024, el Ministerio de Agricultura anunció la nueva versión de la _Norma de Manejo de Exhibición de Animales_, incorporando formalmente la exhibición de cetáceos bajo regulación. [^3] La Administración de Conservación Marina también estableció un «**Grupo de orientación para transformación de exhibición de cetáceos**», con participación de académicos, organizaciones civiles y gobiernos locales, con una dirección clara: eliminar gradualmente las exhibiciones de entretenimiento y transformarlas en modos de exhibición educativa.
 
-La respuesta de Farglory fue transformarse en una “**base de refugio para delfines**”: ya no habrá espectáculos, pero tampoco liberación en el mar, porque los delfines cautivos durante muchos años ya no pueden regresar al océano. En su lugar, se permitirá que el público conozca a los delfines mediante exhibiciones educativas. El parque subraya: “Los delfines no van a desaparecer; la gente todavía podrá verlos”.
+La respuesta de Yuansheng es transformarse en un «**Santuario de Delfines**»: sin más espectáculos, pero tampoco liberación a la naturaleza (los delfines criados en cautiverio no pueden regresar al océano), mientras mantiene un modo de exhibición educativa para que el público conozca delfines. El parque enfatiza: «Los delfines no desaparecerán, el público aún puede verlos».
 
-Pero en Yehliu la situación estalló. En 2024, Yehliu Ocean World **reprodujo una cría de delfín** en cautiverio, chocando directamente con el consenso social de una “retirada gradual”. El cuestionamiento de las organizaciones de protección animal fue muy incisivo: **en una época en la que la sociedad ya ha comenzado a oponerse a los espectáculos de delfines, seguir permitiendo que los delfines den a luz en piscinas, ¿no equivale a condenar a más delfines a vivir en cautiverio desde el nacimiento?**
+Pero Yehliu explotó. En 2024, Mundo Marino de Yehliu **reprodujo una cría de delfín** en su ambiente de cautiverio, chocando directamente con el consenso social de «retiro gradual». La objeción de los grupos de protección animal es cortante: **¿en una época en la que la sociedad ha comenzado a oponerse a los espectáculos de delfines, continuar haciendo que los delfines den a luz crías en piscinas no es condenar a más delfines a una vida de encierro desde el nacimiento?**
 
-Debido a que la fecha de nacimiento de la cría superó el plazo autorizado para reproducción, la Administración de Conservación Oceánica multó a Yehliu conforme a la Ley de Conservación de la Vida Silvestre, pero el monto de la multa fue de apenas **10.000 dólares taiwaneses**. Esa cifra en sí misma es absurda: el precio de una vida, diez mil.
+Debido a que la fecha de nacimiento de la cría pasó el límite del permiso de reproducción, la Administración de Conservación Marina multó a Yehliu bajo la _Ley de Conservación de Vida Silvestre_, pero el monto de la multa fue solo de **10,000 dólares taiwaneses**. La cifra en sí es una absurdidad: el precio de una vida, diez mil dólares.
 
-Chou Chin-shan, subdirectora ejecutiva de la Life Conservationist Association, dijo en el grupo de transformación: “Ellos deberían haber vivido originalmente en el mar, pero fueron arrastrados a la fuerza a tierra. Entonces, los humanos deben entender qué tipo de sacrificio han hecho estos individuos cautivos por nosotros”.
+Chou Chin-shan, vicedirectora ejecutiva de la Asociación de Protección de la Vida, dijo en el grupo de transformación: «Se suponía que deberían vivir en el océano, forzosamente traídos a tierra firme. Entonces, ¿deberían comprender los humanos qué sacrificio hicieron estos individuos confinados para que los humanos los vean?»
 
-También enfatizó: “**Son vidas vivas, no materiales didácticos para el disfrute humano.**”
+También enfatizó: «**Son seres vivos, no aparatos de enseñanza para que el público los observe.**»
 
-La retirada de estos espectáculos de delfines marca un momento clave en el que la sociedad taiwanesa redefine la “relación entre los humanos y los animales marinos”.
+Esta salida del espectáculo de delfines marca un momento clave en la redefinición por parte de la sociedad taiwanesa de «la relación entre humanos y animales marinos».
 
-## Normativa y realidad: los desafíos del Reglamento de Gestión de Animales de Exhibición
+## Regulaciones y realidad: los desafíos de la Norma de Manejo de Exhibición de Animales
 
-En 2017 entró en vigor el Reglamento de Gestión de Animales de Exhibición, y Taiwán tuvo por primera vez una norma jurídica específicamente dedicada a regular a los animales de exhibición.[^4] Sus disposiciones incluyen:
+La _Norma de Manejo de Exhibición de Animales_ fue promulgada en 2016, marcando la primera vez que Taiwán tuvo regulaciones especializadas para animales en exhibición. [^4] Las regulaciones incluyen:
 
 - Los lugares de exhibición requieren licencia
-- Los entornos de cría animal deben cumplir estándares mínimos
-- Debe haber veterinarios profesionales asignados
-- Deben someterse periódicamente a inspecciones de bienestar animal
+- Los ambientes de crianza animal tienen estándares mínimos
+- Se debe asignar un veterinario profesional
+- Inspecciones periódicas de bienestar animal
 
-Pero la aplicación de la normativa enfrenta desafíos reales. En todo Taiwán hay menos de 20 inspectores de bienestar animal para supervisar cientos de lugares de exhibición. La baja frecuencia de inspección, la falta de personal especializado y las sanciones demasiado leves hacen que la normativa quede reducida a teoría sobre papel.
+Pero la ejecución de la norma enfrenta desafíos de realidad. Todo Taiwán solo tiene menos de 20 inspectores de bienestar animal para supervisar cientos de lugares de exhibición. Las inspecciones son infrecuentes, faltan personal profesional, las sanciones son ligeras, haciendo que la regulación se vuelva letra muerta.
 
-El problema más fundamental es que la normativa vigente todavía parte de la “gestión”, no de los “derechos animales”. En términos jurídicos, los animales siguen siendo “cosas”, no sujetos de derechos. Si esta definición no cambia, incluso los reglamentos más estrictos serán solo paliativos, no soluciones de fondo.
+Más fundamentalmente, las regulaciones actuales aún parten de un punto de partida de «gestión» en lugar de «derechos animal». Legalmente, los animales siguen siendo «propiedades», no titulares de derechos. A menos que cambiar esta posición, incluso el ordenamiento más estricto será solo un parche que no aborda la raíz del problema.
 
-## Nuevos desafíos en la era de las redes sociales
+## Los nuevos desafíos de la era de las redes sociales
 
-Instagram y TikTok cambiaron la ecología de la exhibición animal. Cafés de mascotas, restaurantes con animales, experiencias interactivas con capibaras: estas actividades “ligeras” de contacto con animales se han convertido en una clave de tráfico en redes sociales.
+Instagram y TikTok han transformado el ecosistema de la exhibición animal. Cafeterías de mascotas, restaurantes de animales, experiencias interactivas con carpinchos: estas actividades «ligeras» de interacción animal se han convertido en el código de flujo de las redes sociales.
 
-El **caso del restaurante de mascotas en Bali** es la alarma más reciente. A fines de 2025, se reveló que un restaurante que promocionaba “interacción con conejos” tuvo, en apenas unos meses, 6 conejos muertos y 5 enfermos.[^5] Las causas fueron el contacto humano excesivo, un entorno de cría inadecuado y la desatención de las necesidades de los animales en nombre de “salir bien en las fotos”.
+**El incidente de la cafetería de mascotas en Bali** fue la alarma más reciente. A principios de 2026, el Departamento de Protección Animal de Nueva Taipei inspeccionó una cafetería en Bali que promocionaba interacción con conejos, descubriendo numerosas muertes de conejos, múltiples infectados con sarna, con causas de muerte apuntando a cría impropia prolongada, malnutrición, enfermedades sin tratamiento veterinario. [^5]
 
-Los algoritmos de las redes sociales prefieren lo “tierno” y lo “divertido”, lo que convierte a los animales en mercancía de tráfico. Un video de una capibara bañándose en aguas termales puede obtener millones de visualizaciones, pero nadie se preocupa por si se adapta al clima de Taiwán.
+El algoritmo de las redes sociales favorece «lo lindo» e «interesante», haciendo que los animales se conviertan en mercancía de tráfico. Un video de un carpincho en agua caliente puede obtener millones de visualizaciones, pero nadie se pregunta si se adapta al clima de Taiwán.
 
-Estos “animales de exhibición en miniatura” están por todo Taiwán, pero se mueven en los márgenes de la normativa. No tienen una supervisión estricta como los zoológicos ni requieren licencias como los circos, pero enfrentan los mismos problemas de bienestar animal.
+Estos «micro-exhibitions de animales» están dispersos por todo Taiwán, pero operan en los márgenes de la regulación. No son como los zoológicos con supervisión estricta, no requieren licencia como los circos tradicionales, pero enfrentan los mismos problemas de bienestar animal.
 
-## El espectro social taiwanés ante los zoológicos
+## El espectro de zoológicos en la sociedad taiwanesa
 
-La valoración de los zoológicos en la sociedad taiwanesa nunca ha sido uniforme. Personas de distintas generaciones y con distintos niveles educativos se ubican en posiciones completamente diferentes.
+La evaluación de Taiwán sobre los zoológicos nunca ha sido unánime; personas de diferentes generaciones, con diferentes antecedentes educativos, se encuentran en posiciones completamente diferentes.
 
-La actitud de Taiwán ante la pregunta “¿deberían existir los zoológicos?” muestra claras diferencias generacionales y de valores:
+La actitud de Taiwán hacia «¿deberían existir los zoológicos?» muestra diferencias claras generacionales y de valores:
 
-**El sector tradicional de apoyo** considera que los zoológicos cumplen una función educativa, permiten que los niños urbanos conozcan animales y cultivan conciencia de conservación. “Si no vamos al zoológico, ¿cómo sabrá mi hijo cómo es un elefante?”
+**La facción tradicionalista de apoyo** cree que los zoológicos tienen función educativa, permitiendo que los niños urbanos conozcan animales y cultiven conciencia sobre la conservación. «Si no visito un zoológico, ¿cómo sabe mi hijo cómo se ve un elefante?»
 
-**El sector conservacionista moderno** apoya los zoológicos reformados y enfatiza la reproducción para la conservación, la recuperación para liberación en la naturaleza y la educación ambiental. El zoológico debería ser un “refugio de animales”, no un lugar de entretenimiento.
+**La facción moderna de conservación** apoya zoológicos reformados, enfatizando reproducción para la conservación, reintroducción al medio silvestre, educación ambiental. Los zoológicos deberían ser «refugios para animales», no lugares de entretenimiento.
 
-**El sector de derechos animales** defiende la abolición de todas las formas de cautiverio animal y sostiene que ni siquiera el mejor entorno puede reemplazar la libertad. “¿Los animales tienen derecho a elegir? ¿Aceptaron ser exhibidos?”
+**La facción de derechos animal** aboga por abolir todas las formas de cautividad animal, creyendo que ningún ambiente, sin importar cuán bueno sea, puede reemplazar la libertad. «¿Tienen elección los animales? ¿Consintieron ser exhibidos?»
 
-**El sector pragmático** reconoce las limitaciones reales y apoya reformas graduales. “El ideal perfecto es hermoso, pero los animales reales necesitan mejoras inmediatas.”
+**La facción pragmática** reconoce limitaciones de la realidad, apoyando reforma gradual. «El ideal perfecto es hermoso, pero en la realidad, los animales necesitan mejoras inmediatas».
 
-Este espectro no tiene una respuesta correcta o incorrecta, pero refleja la profundidad con la que la sociedad taiwanesa piensa la relación entre humanos y animales.
+Este espectro no tiene respuestas correctas o incorrectas, pero refleja la reflexión profunda de la sociedad taiwanesa sobre la relación entre humanos y animales.
 
 ## Datos sorprendentes
 
-El Zoológico de Taipéi tiene más de **110 años** desde su fundación en 1914, y es uno de los zoológicos más antiguos de Asia. La práctica del Zoológico de Hsinchu de reducir el número de especies y concentrarse en exhibiciones respetuosas de especies locales casi no tiene precedentes en el mundo zoológico asiático. Los espectáculos con animales de los circos tradicionales taiwaneses desaparecieron casi por completo después de la década de 2010, reemplazados por circos sin animales.
+El Zoológico Metropolitano de Taipéi ha operado durante más de **110 años** desde su fundación en 1914, siendo uno de los zoológicos con mayor historia en Asia. El enfoque del Zoológico de Hsinchu de reducir tipos de especies y enfocarse en exhibición amable de especies locales casi no tiene precedentes en los zoológicos asiáticos. Los espectáculos de circo con animales tradicionales de Taiwán prácticamente desaparecieron después de la década de 2010, siendo reemplazados por circos sin animales.
 
-En Taiwán solo quedan dos operadores de espectáculos con cetáceos, y ambos permisos de exhibición vencen en **2026**. Yehliu reprodujo ilegalmente una cría de delfín en 2024 y recibió una multa de apenas 10.000 dólares taiwaneses: esa cifra en sí misma es absurda. El Reglamento de Gestión de Animales de Exhibición entró en vigor en 2017, pero la capacidad de aplicación es gravemente insuficiente; en todo Taiwán los inspectores de bienestar animal pueden contarse con los dedos de una mano.
+Taiwán solo tiene dos operadores de exhibición de cetáceos restantes, con permisos de exhibición que vencen en **2026**. Yehliu violó las reglas y reprodujo crías de delfín en 2024, pero solo fue multada con **10,000 dólares taiwaneses**: esta cifra en sí es una absurdidad. La _Norma de Manejo de Exhibición de Animales_ se promulgó en 2016, pero el personal de ejecución es gravemente insuficiente, con inspectores de bienestar animal contados con los dedos en todo Taiwán.
 
-- 🐰 Caso de exhibición de conejos en un restaurante de mascotas de Bali a fines de 2025: **6 muertos y 5 enfermos**, lo que expuso el vacío regulatorio de las “microexhibiciones”
-- 📱 El contenido de interacción animal más popular en redes sociales suele ser también el escenario con **mayor riesgo para el bienestar animal**
-- 🌏 Taiwán es una de las pocas regiones de Asia con una ley específica para regular los animales de exhibición, pero la normativa aún define a los animales como “cosas” y no como sujetos de derechos
+- 🐰 Incidente de cafetería de conejos de Bali a principios de 2026: **grandes cantidades de muertes de conejos**, exponiendo el vacío legal de las «micro-exhibitions»
+- 📱 El contenido de interacción animal más popular en las redes sociales a menudo también es la **escena con riesgo más alto de bienestar animal**
+- 🌏 Taiwán es una de las pocas regiones de Asia con leyes especializadas que regulan animales en exhibición, pero las regulaciones aún posicionan animales como «propiedad» en lugar de titulares de derechos
 
-Aunque la normativa taiwanesa sobre exhibición animal es avanzada dentro de Asia, sigue existiendo una brecha significativa entre el diseño institucional y la aplicación efectiva.
+Aunque las regulaciones de exhibición animal de Taiwán son avanzadas en Asia, aún existe una brecha significativa entre el diseño del sistema y la ejecución real.
 
-## Futuro: redefinir la relación entre humanos y animales
+## El futuro: redefiniendo la relación entre humanos y animales
 
-La evolución de los zoológicos en Taiwán es, en realidad, un microcosmos del progreso moral de toda la sociedad. Comenzamos a comprender que los animales tienen sus propias necesidades y derechos, y que merecen respeto.
+La evolución de los zoológicos de Taiwán es en realidad un reflejo del progreso moral de toda una sociedad. Comenzamos a comprender que los animales tienen sus propias necesidades y derechos, que merecen ser respetados.
 
-**En la próxima década, Taiwán podría ver lo siguiente:**
+**En la próxima década, Taiwán podría ver:**
 
-Más zoológicos podrían transformarse en centros de conservación o refugios de vida silvestre, y la “resilvestración y liberación” podría convertirse en una de las tareas centrales de los zoológicos. La tecnología de realidad virtual quizá reemplace parte de las exhibiciones físicas de animales, para que la educación para la conservación ya no dependa de mostrar el cuerpo de los animales. Al mismo tiempo, tanto las plataformas de redes sociales como las autoridades competentes enfrentan presión para decidir si limitan los contenidos de exhibición animal.
+Es posible que más zoológicos se transformen en centros de conservación o refugios de vida silvestre, con «reintroducción a la naturaleza» esperanzadamente convirtiéndose en una tarea central de los zoológicos. La tecnología de realidad virtual podría reemplazar parte de la exhibición animal en vivo, permitiendo educación sobre conservación sin depender de la exposición física de animales. Simultáneamente, tanto las plataformas de redes sociales como las autoridades enfrentan presión para decidir si limitar contenido de exhibición animal.
 
-Pero el cambio más importante quizá sea conceptual: pasar de “los animales sirven a los humanos” a “los humanos y los animales coexisten”.
+Pero el cambio más importante podría ser conceptual: pasar de «los animales sirven a los humanos» a «humanos y animales coexisten».
 
-El camino aún es largo. Cada elección —a qué zoológico ir, qué tipo de espectáculo animal apoyar, dar “me gusta” o denunciar en redes sociales— es un voto por el bienestar animal en Taiwán.
+Este camino es aún largo. Cada elección (a qué zoológico ir, qué tipo de espectáculo animal apoyar, dar «me gusta» o reportar en redes sociales) es una votación por el bienestar animal en Taiwán.
 
 **El futuro de los zoológicos es nuestra elección.**
 
-[^1]: Zoológico Municipal de Hsinchu, “Concepto de remodelación del zoológico”, https://zoo.hccg.gov.tw/
-
-[^2]: Wuo Wuo Media, “Investigación en profundidad sobre las controversias de bienestar animal tras la apertura de Xpark”, https://wuo-wuo.com/
-
-[^3]: Ministerio de Agricultura, “Anuncio de reforma del Reglamento de Gestión de Animales de Exhibición” (julio de 2024), https://www.moa.gov.tw/
-
-[^4]: Red de Información sobre Protección Animal del Ministerio de Agricultura, “Reglamento de Gestión de Animales de Exhibición”, https://animal.moa.gov.tw/
-
-[^5]: Taiwan Animal Society Research Association, “Situación actual de la gestión de animales de microexhibición”, https://www.east.org.tw/
-
 ---
 
-**Lecturas complementarias**
+**Lecturas relacionadas**
 
-- [Controversias sobre medicamentos veterinarios en Taiwán](/es/society/taiwan-animal-drug-controversy) — Desde las controversias éticas sobre los animales de exhibición hasta las lagunas legales en los medicamentos para mascotas, son distintas caras del mismo problema: la ley taiwanesa aún no ha aprendido cómo tratar a estas vidas que “no son personas ni propiedad”
+- [Controversias sobre medicamentos para animales en Taiwán](/es/society/taiwan-animal-drug-controversy) — Desde la controversia ética de los animales en exhibición hasta el vacío legal del uso de medicamentos para mascotas, son dos aspectos del mismo problema: la ley de Taiwán aún no ha aprendido a relacionarse con «vidas que no son humanas ni propiedad»
 
 ---
 
 ## Referencias
 
-- [Wuo Wuo Media](https://wuo-wuo.com/) - El medio independiente más importante de Taiwán sobre temas animales
-- [Taiwan Animal Society Research Association](https://www.east.org.tw/) — Organización de incidencia que presta atención de largo plazo a los temas de animales de exhibición
-- [Animal Contemporary](https://www.animalcontemporary.org/) — Plataforma interdisciplinaria de discusión sobre derechos animales
-- [Zoológico Municipal de Hsinchu](https://zoo.hccg.gov.tw/) — Práctica del “zoológico sin jaulas”
-- [Zoológico de Taipéi](https://www.zoo.gov.taipei/) — El zoológico más antiguo de Taiwán
+- [Wuo Wuo Media](https://wuo-wuo.com/) — El medio independiente más importante de Taiwán sobre temas de animales
+- [Taiwan Animal Society Research Institute](https://www.east.org.tw/) — Organización de defensa que se enfoca a largo plazo en temas de animales en exhibición
+- [Zoológico Metropolitano de Hsinchu](https://zoo.hccg.gov.tw/) — Práctica del «Zoológico sin jaulas»
+- [Zoológico Metropolitano de Taipéi](https://www.zoo.gov.taipei/) — El zoológico con mayor historia de Taiwán
+
+[^1]: Zoológico Metropolitano de Hsinchu, «Filosofía de transformación del zoológico», https://zoo.hccg.gov.tw/
+
+[^2]: Wuo Wuo Media, «Investigación profunda sobre la controversia de bienestar animal después de la apertura de Xpark», https://wuo-wuo.com/
+
+[^3]: Ministerio de Agricultura, «Anuncio de enmienda de la Norma de Manejo de Exhibición de Animales» (julio 2024), https://www.moa.gov.tw/
+
+[^4]: [Base de datos de regulaciones nacionales: Norma de Manejo de Exhibición de Animales](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=M0060090) — Texto completo de regulaciones y enmiendas, promulgado el 5 de febrero de 2016, enmienda completa el 29 de julio de 2024.
+
+[^5]: [Gran cantidad de muertes de conejos en cafetería de mascotas de Bali causadas por exhibición ilegal; Departamento de Protección Animal: máxima multa de 250,000 dólares taiwaneses y referencia para investigación criminal](https://udn.com/news/story/124490/9367910) — Informe de United Daily News del 9 de marzo de 2026, resultados de inspección y reinspección del Departamento de Protección Animal de Nueva Taipei de enero.

@@ -1,10 +1,8 @@
 ---
-title: 'Zoo and Exhibition Animal Ethics'
-description: "From an Elephant in an Iron Cage to Xpark's Jellyfish Wall: Taiwan Is Redefining the Relationship Between Humans and Animals on Display"
+title: 'Zoos and the Ethics of Exhibition Animals'
+description: 'From elephants in iron cages to jellyfish walls at Xpark — Taiwan is redefining the relationship between humans and displayed animals'
 date: 2026-03-18
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '動物與倫理'
 tags:
   [
     'zoos',
@@ -15,191 +13,192 @@ tags:
     'animal ethics',
     'Hsinchu Zoo',
   ]
-readingTime: 12
+subcategory: '動物與倫理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+readingTime: 12
 translatedFrom: 'Society/動物園與展演動物倫理.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:942c806351e32e6f'
-sourceBodyHash: 'sha256:d25050b0162be631'
-translatedAt: '2026-05-17T05:34:48+08:00'
+sourceCommitSha: '8a8596298'
+sourceContentHash: 'sha256:0ca0048f5fb189e0'
+sourceBodyHash: 'sha256:2b440f6d5e5bb010'
+translatedAt: '2026-09-26T11:10:11+08:00'
 ---
 
-# Zoo and Exhibition Animal Ethics
+# Zoos and the Ethics of Exhibition Animals
 
-_From an elephant in an iron cage to Xpark's jellyfish wall, Taiwan is redefining the relationship between humans and animals on display_
+_From elephants in iron cages to jellyfish walls at Xpark, Taiwan is redefining the relationship between humans and displayed animals_
 
 ## 30-Second Overview
 
-Taiwan's zoos are undergoing their greatest intellectual revolution in a century. From the iron-cage displays of Yuanshan Zoo during the Japanese colonial period, to Hsinchu Zoo's breakthrough "cageless" renovation in 2019, and then to the major animal-welfare debate triggered by Xpark's opening in 2020, these developments have prompted us to rethink the legitimacy of "locking animals up for people to look at" in itself.
+Taiwan's zoos are undergoing the most profound ideological transformation in a century. From the iron-cage exhibits at Yuanshan Zoo during the Japanese colonial period, to the groundbreaking "cage-free" redesign of Hsinchu Zoo in 2019, to the heated debate over animal welfare sparked by Xpark's 2020 opening, we are forced to reconsider the legitimacy of "keeping animals confined for human viewing" itself.
 
-This transformation encompasses a renewal of social values as a whole. From the disappearance of tigers jumping through flaming hoops in circuses to controversies over pet cafés on social media, Taiwanese people have begun to ask: "Who gets to decide whether animals are happy?"
+This transformation encompasses society-wide value revision. From performing tigers executing fire jumps disappearing from circuses to public controversy over animal cafés on social media, Taiwanese society has begun asking: "Who gets to decide whether animals are happy?"
 
-Taiwan implemented the Regulations Governing the Management of Animal Exhibitions and Performances in 2017, and permits for cetacean exhibitions and performances expire in 2026. A series of institutional turning points has brought this debate down from moral philosophy into real legal decisions.
+The 2016 adoption of Taiwan's _Regulations for the Management of Performing Animals_, coupled with cetacean display permits expiring in 2026—a series of institutional turning points—has brought this debate from moral philosophy into the realm of tangible legal decision-making.
 
 ## Why It Matters
 
-On an increasingly urbanized island, zoos may be the only places where most people can encounter wild animals. But when conservation education conflicts with animal welfare, and when commercial interests pull against ethical principles, how do we find a balance between "helping people understand animals" and "allowing animals to live well"?
+On an increasingly urbanized island, the zoo may be the only place most people encounter wild animals. Yet when conservation education conflicts with animal welfare, when commercial interests pull against ethical principles, how do we balance "helping people get to know animals" and "allowing animals to live good lives"?
 
-There is no standard answer to this question. Yet Taiwan's process of exploration reflects how a society redefines the relationship between humans and animals, and also redefines itself.
+There is no standard answer to this question, but Taiwan's exploration process reflects how a society redefines its relationship with animals—and, in doing so, redefines itself.
 
-From the making of regulations to controversies on social media, the speed of Taiwan's shift in attitudes toward exhibition animals is relatively rare in Asia.
+From regulatory adoption to social media controversies, Taiwan's rapid shift in attitudes toward exhibition animals is relatively rare in Asia.
 
 ## From Iron Cages to Forests: A Century of Change at Taipei Zoo
 
-In 1914, the Japanese colonial government established "Taipei Zoo" in Yuanshan. The exhibition philosophy at the time was simple: put rare and exotic animals in cages and let people marvel at them. Concrete floors, iron bars, cramped spaces: animals were exhibits, not individual living beings.
+In 1914, Japan's colonial administration established a "Taiwan Zoo" at Yuanshan, where the display philosophy was straightforward: confine exotic creatures in cages so people would marvel at them. Concrete floors, iron bars, cramped spaces—animals were exhibits, not individual lives.
 
-When the zoo moved to Muzha in 1986, its space expanded, and its thinking also began to change. With environmental enrichment, behavioral training, and conservation breeding, Taipei Zoo began trying to let animals live more like animals.
+When the zoo relocated to Mucha in 1986, space expanded, and thinking began to shift. Environmental enrichment, behavioral training, conservation breeding: Taipei Zoo started attempting to let animals live more like animals.
 
-**The Yuan Zai effect** changed everything. In 2013, the giant panda cub Yuan Zai was born, and Taiwan went wild; tens of thousands of people poured into the zoo every day. But Yuan Zai's celebrity aura also brought reflection: do we love the animals themselves, or the entertainment they provide?
+**The Yuan Zai effect changed everything.** In 2013, when the giant panda cub Yuan Zai was born, all of Taiwan became obsessed. Tens of thousands of people flooded the zoo daily. But Yuan Zai's celebrity halo also prompted reflection: Do we love animals themselves, or the entertainment they provide?
 
-The story of Tuan Tuan and Yuan Yuan is even more complex. This pair of giant pandas was a diplomatic gift from China to Taiwan, carrying political symbolism. When Tuan Tuan died of illness in 2022, Taiwanese people mourned an animal, but also a period of history. Behind the warmth, however, there has always been a sharp question: is it reasonable to treat animals as diplomatic bargaining chips?
+The story of Tuan Tuan and Yuan Yuan (Tuan Tuan and Yuan Yuan) proved more complex. This pair of giant pandas was a diplomatic gift from China, carrying political symbolism. When Tuan Tuan died in 2022, Taiwanese mourned not just an animal but a chapter of history. Yet beneath the sentimentality lurked a sharp question: Is it ethical to use animals as diplomatic bargaining chips?
 
-## The Cageless Revolution: Hsinchu Zoo's Transformation
+## The Cage-Free Revolution: Hsinchu Zoo's Transformation
 
-In December 2019, Hsinchu Zoo reopened and declared itself a "zoo without cages." This renovation was equally profound at the philosophical level.[^1]
+In December 2019, Hsinchu Zoo reopened, declaring itself a "cage-free zoo." This redesign carried equally profound philosophical implications.[^1]
 
-Director Yang Chia-min put it bluntly: "Animals are residents, not display objects." Every design decision began with animal needs: hippos have deep pools for diving and swimming, Malayan tapirs have mud in which they can roll, and Bengal tigers have woods where they can hide.
+Zoo director Yang Chia-min's position is that animals should not be tools for entertainment. All design choices stem from animal needs: hippopotamuses have deep pools for swimming, tapirs have mud for wallowing, Bengal tigers have forests to hide in.
 
-More radically, Hsinchu Zoo no longer pursues species diversity. It has streamlined the number of species, focused on friendly displays of local species, and kept only those that can truly live well in the existing environment. "We are not Noah's Ark," Yang said. "We are the animals' home."
+More radical still, Hsinchu Zoo no longer pursues species diversity. It narrowed its collection, focusing on local species and native habitat-appropriate displays, retaining only animals that could truly live well in the existing environment.
 
-This transformation is not perfect. Critics say the space is still too small and the animals are still confined. But Hsinchu Zoo's significance lies in proving that Taiwan is capable of breaking out of traditional frameworks and reimagining the relationship between humans and animals.
+The transformation is imperfect. Critics argue that the space remains too confined and that animals remain imprisoned. But Hsinchu Zoo's significance lies in proving that Taiwan has the capacity to break from conventional frameworks and reimagine the human-animal relationship.
 
-## The Xpark Storm: The Ethical Test of an Urban Aquarium
+## The Xpark Storm: An Ethical Reckoning for Urban Aquariums
 
-In August 2020, the Japanese-style urban aquarium Xpark opened at Gloria Outlets in Taoyuan. With dazzling light and shadow and avant-garde design, it sparked discussion about animal welfare as soon as it opened. Yet behind the beauty lay a black hole of animal welfare.
+In August 2020, the Japanese-style urban aquarium Xpark opened at Taoyuan's Hwatai Premium Outlets. Dazzling lighting, cutting-edge design, the opening ignited discussions of animal welfare. Yet beneath its beauty lurked a black hole of animal welfare concerns.
 
-Within less than a year of opening, problems erupted one after another:
+Problems erupted within months of opening:
 
-- **Wounds appeared on stingrays**, suspected to have been caused by collisions in an overly small space
-- **Penguins showed abnormal behavior**, repeatedly swimming in cramped spaces
-- **Strong lighting** affected the biological clocks of nocturnal animals
-- **Excessive noise** placed marine animals under stress amid the clamor of crowds
+- **Stingrays showing visible wounds**, seemingly caused by impact injuries from cramped quarters
+- **Penguins displaying abnormal behavior**, swimming repetitively in confined spaces
+- **Intense lighting**, disrupting the circadian rhythms of nocturnal animals
+- **Excessive noise**, subjecting marine animals to stress from crowds
 
-An in-depth investigation by Wuo Wuo Media ignited public discussion.[^2] Supporters said Xpark brought conservation education; critics questioned whether this was "animal abuse packaged as entertainment."
+Wuo Wuo Media's in-depth investigation sparked public discourse.[^2] Supporters argued that Xpark brings conservation education, while critics questioned whether this constitutes "animal abuse marketed as entertainment."
 
-The core of the Xpark controversy is this: **does the business model of urban aquariums itself conform to animal welfare?** When entertainment value conflicts with animal welfare, which side should we choose?
+Xpark's central controversy hinges on this: **Does the business model of urban aquariums itself align with animal welfare?** When entertainment value conflicts with animal wellbeing, which should prevail?
 
-This debate has not yet ended, but it has already changed Taiwanese society's understanding of exhibition animals.
+This debate remains unresolved today, but it has already transformed how Taiwanese society views exhibition animals.
 
-## The Vanishing Circus: The Twilight of Animal Performances
+## The Vanishing Circus: The Twilight of Animal Performance
 
-Do you still remember tigers jumping through flaming hoops, monkeys riding unicycles, and seals balancing balls? These were once classic scenes in Taiwan's circuses. Today, they have almost disappeared.
+Do you remember tigers jumping through rings of fire, monkeys riding unicycles, seals balancing balls? These were once staples of Taiwan's circus tradition and have now nearly disappeared.
 
-In the 1990s, the Mulan Circus and the Asian Circus toured around Taiwan, with animal performances as headline programs. But as awareness of animal rights rose, these performances came under increasing scrutiny: was the training process cruel? Were the animals really "happy" to perform?
+During the 1990s, circuses like Mulan Circus and Asia Circus toured Taiwan, with animal acts as flagship attractions. Yet as consciousness of animal rights awakened, these performances faced mounting scrutiny: Was training cruel? Were animals truly "happy" performing?
 
-The key turning point was the 2017 amendment to the Animal Protection Act, which strengthened regulation of exhibition animals. Although it did not impose a comprehensive ban, complicated application procedures and strict inspection standards made it difficult for traditional circuses to continue.
+The pivotal turning point came in 2018, when amendments to the _Animal Protection Act_ tightened regulations on performing animals. While not a complete ban, the complex application procedures and stringent inspection standards made it difficult for traditional circuses to continue operating.
 
-They have been replaced by animal-free circuses. Cirque du Soleil and FOCA Formosa Circus have used human bodies and creativity in place of animal performances. Taiwanese people discovered that circuses without animals can be just as thrilling.
+In their place emerged animal-free circuses. Cirque du Soleil and FOCA Formosa Circus use human bodies and creativity to replace animal performance. Taiwanese audiences discovered that circuses without animals can be equally spectacular.
 
-## The Dilemma of Marine Parks
+## The Plight of Marine Parks
 
-Taiwan's marine exhibition and performance venues are standing at a historical crossroads.
+Taiwan's cetacean exhibition facilities stand at a historical crossroads.
 
-Taiwan currently has only two remaining cetacean exhibition and performance operators: Farglory Ocean Park in Hualien (four bottlenose dolphins plus one pantropical spotted dolphin) and Yehliu Ocean World in New Taipei (10 bottlenose dolphins). Both operators' exhibition and performance permits will expire in **2026**. The countdown has already begun for "dolphin shows to enter history."
+Taiwan currently has just two cetacean exhibition operators: Farglory Ocean Park in Hualien (four bottlenose dolphins and one spotted dolphin) and Yehliu Marine World in New Taipei (ten bottlenose dolphins). Both facilities' exhibition permits will expire in **2026**. The countdown to "dolphin shows entering history" has already begun.
 
-In July 2024, the Ministry of Agriculture announced a revised version of the Regulations Governing the Management of Animal Exhibitions and Performances, formally bringing cetacean exhibitions and performances under management.[^3] The Ocean Conservation Administration also established a "**Cetacean Exhibition and Performance Transformation Advisory Group**," with the participation of scholars, civil-society groups, and local governments. Its central direction is clear: gradually phase out entertainment-oriented performances and shift toward an educational display model.
+In July 2024, the Council of Agriculture announced the revised _Regulations for the Management of Performing Animals_, formally bringing cetacean displays under regulatory oversight.[^3] The Ocean Conservation Administration also established a **Cetacean Exhibition Transition Support Group**, bringing together scholars, civil society organizations, and local governments with one clear direction: gradually phase out entertainment-based displays in favor of educational presentation modes.
 
-Farglory's response is to transform into a "**dolphin sanctuary base**": no more performances, but also no release into the wild, since dolphins kept in captivity for many years can no longer return to the sea. Instead, the public will learn about dolphins through educational displays. The park emphasizes: "The dolphins will not disappear; the public will still be able to see them."
+Farglory's response was to transition to a "**dolphin sanctuary**": no more performances, but also no release into the wild (dolphins raised in captivity cannot return to the ocean), instead offering educational displays so visitors can learn about dolphins. The park emphasizes: "Dolphins won't disappear; visitors can still see them."
 
-But things exploded at Yehliu. In 2024, Yehliu Ocean World **bred a baby dolphin** in captivity, directly colliding with the social consensus on "gradual exit." Animal-protection groups raised a sharp question: **in an era when society has already begun opposing dolphin performances, does continuing to allow dolphins to give birth in pools not mean that more dolphins are destined from birth to live in cages?**
+But Yehliu marine world's situation exploded. In 2024, Yehliu Marine World **bred a calf in captivity**, colliding directly with emerging social consensus to phase out dolphin entertainment. Animal advocates pose a sharp question: **In an era when society has begun opposing dolphin performance, is breeding more dolphins to be born into captive confinement not simply condemning more lives to a lifetime in a cage?**
 
-Because the calf's date of birth had exceeded the permitted breeding period, the Ocean Conservation Administration fined Yehliu under the Wildlife Conservation Act, but the fine was only **NT$10,000**. The figure itself is a kind of absurdity: the price of a life, ten thousand dollars.
+Because the calf's birth date exceeded the breeding permit window, the Ocean Conservation Administration fined Yehliu under the _Wildlife Conservation Act_, but the penalty was merely **10,000 NT dollars**. The number itself embodied absurdity: the life price, ten thousand dollars.
 
-Chou Chin-shan, deputy executive director of the Life Conservationist Association, made a statement in the transformation group: "They were originally supposed to live in the ocean, but were forcibly pulled onto land. Humans need to understand what sacrifices these captive individuals have made for human beings."
+Chow Chin-shan, deputy executive director of the Life Conservationist Association, said during the transition group meeting: "They were supposed to live in the open ocean. Being forcibly dragged to land, people need to see what price these confined individuals have paid for human entertainment."
 
-She also emphasized: "**They are living beings, not teaching aids for people to view.**"
+She also stressed: "**They are living beings, not teaching props for human observation.**"
 
-The exit of dolphin shows marks a critical moment in which Taiwanese society is redefining the "relationship between humans and marine animals."
+This dolphin show's retirement marks a pivotal moment in Taiwan society's effort to redefine "humanity's relationship with ocean animals."
 
-## Regulations and Reality: The Challenges of Managing Animal Exhibitions and Performances
+## Regulations and Reality: The Challenges of the Performing Animals Management Regulations
 
-The Regulations Governing the Management of Animal Exhibitions and Performances took effect in 2017, giving Taiwan its first dedicated law regulating exhibition animals.[^4] The rules include:
+The _Regulations for the Management of Performing Animals_ was adopted and announced in 2016, making Taiwan's first comprehensive legal framework specifically governing exhibition animals.[^4] Requirements include:
 
-- Exhibition and performance venues must obtain permits
-- Animal-keeping environments must meet minimum standards
-- Professional veterinarians must be assigned
-- Animal-welfare inspections must be conducted regularly
+- Exhibition venues require permits
+- Animal housing environments have minimum standards
+- Professional veterinarians must be staffed
+- Regular animal welfare inspections required
 
-But enforcement faces real-world challenges. Across Taiwan, fewer than 20 animal-welfare inspectors must supervise hundreds of exhibition and performance venues. Low inspection frequency, a shortage of professional personnel, and overly light penalties have reduced the regulations to little more than theory on paper.
+But regulatory implementation faces real-world challenges. Taiwan has fewer than 20 animal welfare inspectors to oversee hundreds of exhibition venues. Low inspection frequency, insufficient professional staff, and light penalties render regulations largely symbolic.
 
-The more fundamental problem is that current regulations still begin from "management," not "animal rights." In law, animals remain "objects," not rights-bearing subjects. If this status does not change, even the strictest management rules will treat only the symptoms, not the root problem.
+More fundamentally, existing regulations start from a "management" perspective rather than "animal rights." Animals remain legally classified as "property," not rights-bearing subjects. Until this classification changes, even the strictest regulations amount to treating symptoms, not the disease.
 
-## New Challenges in the Social Media Era
+## New Challenges in the Social Media Age
 
-Instagram and TikTok have changed the ecology of animal exhibitions and performances. Pet cafés, animal restaurants, and capybara interaction experiences have become traffic formulas for social media through these "lightweight" forms of animal contact.
+Instagram and TikTok have transformed the ecology of animal exhibition. Pet cafés, animal restaurants, capybara interaction experiences—these "lightweight" forms of animal contact have become the algorithmic formula for social media virality.
 
-**The Bali pet restaurant incident** is the latest warning bell. In late 2025, a restaurant that promoted "rabbit interactions" was exposed: within just a few months, six rabbits had died and five had fallen ill.[^5] The causes were excessive human contact, improper keeping environments, and the neglect of animal needs in pursuit of "good-looking photos."
+**The Bali Pet Café incident** serves as the latest warning. In early 2026, the New Taipei City Animal Protection Department inspected a restaurant in Bali featuring rabbits as the main attraction, discovering mass rabbit deaths, multiple animals infected with mange, and cause of death traced to chronic improper husbandry, malnutrition, and lack of veterinary care.[^5]
 
-Social media algorithms favor the "cute" and the "interesting," turning animals into traffic commodities. A video of a capybara soaking in a hot spring can receive millions of views, but no one cares whether it has adapted to Taiwan's climate.
+Social media algorithms favor "cuteness" and "entertainment," making animals into commodities for engagement. A video of a capybara soaking in a hot spring can garner millions of views, but no one asks whether the animal is suited to Taiwan's climate.
 
-These "micro exhibition animals" are scattered across Taiwan, yet they hover at the margins of regulation. They do not face strict supervision like zoos, and they do not need permits like circuses, but they confront the same animal-welfare problems.
+These "micro-exhibition" venues are scattered across Taiwan but operate in regulatory gray zones. Unlike zoos with strict oversight or circuses requiring permits, they face identical animal welfare concerns yet escape scrutiny.
 
-## The Spectrum of Taiwanese Society's Views on Zoos
+## Taiwan Society's Zoo Spectrum
 
-Taiwanese society has never evaluated zoos in one unified way. People from different generations and educational backgrounds stand in entirely different positions.
+Taiwan society has never held a unified view on zoos. People from different generations and educational backgrounds occupy markedly different positions.
 
-Taiwan's attitudes toward "whether zoos should exist" show clear differences by generation and values:
+Attitudes toward "Should zoos exist?" reveal clear generational and values-based differences:
 
-**Traditional supporters** believe zoos have an educational function, allowing urban children to learn about animals and cultivate conservation awareness. "If we don't go to the zoo, how will my child know what an elephant looks like?"
+**Traditional supporters** believe zoos serve an educational function, helping urban children learn about animals and cultivate conservation awareness. "Without the zoo, how would my child know what an elephant looks like?"
 
-**Modern conservationists** support reformed zoos and emphasize conservation breeding, release and rehabilitation, and environmental education. Zoos should be "animal shelters," not entertainment venues.
+**Modern conservationists** support reformed zoos, emphasizing conservation breeding, wild release programs, and environmental education. Zoos should function as "animal shelters," not entertainment venues.
 
-**Animal-rights advocates** call for abolishing all forms of animal confinement, arguing that even the best environment cannot replace freedom. "Do animals have a right to choose? Did they agree to be displayed?"
+**Animal rights advocates** argue for abolishing all forms of animal confinement, believing that even the best environments cannot replace freedom. "Do animals have a choice? Did they consent to being displayed?"
 
-**Pragmatists** acknowledge real-world constraints and support gradual reform. "A perfect ideal is beautiful, but animals in reality need immediate improvements."
+**Pragmatists** acknowledge real constraints and support incremental reform. "Perfect ideals are beautiful, but animals in the real world need immediate improvement."
 
-There is no right or wrong on this spectrum, but it reflects Taiwanese society's deep thinking about the relationship between humans and animals.
+This spectrum has no right answer, but it reflects Taiwan society's deep thinking about the human-animal relationship.
 
-## Astonishing Facts
+## Surprising Facts
 
-Taipei Zoo has existed for more than **110 years** since its founding in 1914, making it one of the oldest zoos in Asia. Hsinchu Zoo's practice of streamlining its species and focusing on friendly displays of local species has almost no precedent in Asian zoo circles. Traditional circus animal performances in Taiwan almost completely disappeared after the 2010s, replaced by animal-free circuses.
+Taipei Zoo has operated for over **110 years** since its founding in 1914, making it one of Asia's oldest zoos. Hsinchu Zoo's approach of narrowing species diversity and focusing on local species-appropriate displays has virtually no precedent in Asia's zoo world. Taiwan's traditional circus animal performances had nearly completely vanished by the 2010s, replaced by animal-free circus.
 
-Taiwan has only two remaining cetacean exhibition and performance operators, and their permits both expire in **2026**. Yehliu illegally bred a baby dolphin in 2024 and was fined only NT$10,000: the figure itself is a kind of absurdity. The Regulations Governing the Management of Animal Exhibitions and Performances took effect in 2017, but enforcement manpower is severely insufficient; Taiwan has only a handful of animal-welfare inspectors.
+Taiwan has only two remaining cetacean exhibition operators, both with permits expiring in **2026**. Yehliu's 2024 violation of breeding regulations resulted in a fine of merely **10,000 NT dollars**—a figure that embodies absurdity itself. The _Regulations for the Management of Performing Animals_ was adopted in 2016, but law enforcement remains chronically understaffed, with animal welfare inspectors few and far between.
 
-- 🐰 The Bali pet restaurant rabbit exhibition incident in late 2025: **6 dead, 5 sick**, exposing the regulatory vacuum around "micro exhibitions"
-- 📱 The most popular animal-interaction content on social media is often also the setting with the **highest animal-welfare risk**
-- 🌏 Taiwan is one of the few places in Asia with dedicated laws regulating exhibition animals, but its regulations still position animals as "objects" rather than rights-bearing subjects
+- 🐰 Early 2026 Bali rabbit café incident: **mass rabbit deaths**, exposing the regulatory vacuum in "micro-exhibition" venues
+- 📱 The most popular animal interaction content on social media is often **where animal welfare risk is highest**
+- 🌏 Taiwan is one of Asia's few places with a dedicated law for exhibition animals, yet the law still defines animals as "property" rather than rights-bearing subjects
 
-Although Taiwan's laws on animal exhibitions and performances are advanced by Asian standards, there remains a significant gap between institutional design and actual enforcement.
+Though Taiwan's exhibition animal regulations rank advanced in Asia, significant gaps persist between regulatory design and actual enforcement.
 
-## The Future: Redefining the Relationship Between Humans and Animals
+## The Future: Redefining the Human-Animal Relationship
 
-The evolution of Taiwan's zoos is, in fact, a microcosm of society's moral progress as a whole. We are beginning to understand that animals have their own needs and rights, and deserve to be respected.
+Taiwan's evolution of its zoos is, in fact, a mirror of society's moral progress. We begin to understand that animals have their own needs and rights, deserving respect.
 
-**In the next decade, Taiwan may see:**
+**Over the next decade, Taiwan may witness:**
 
-More zoos may transform into conservation centers or wildlife shelters, and "rewilding and release" may become one of the core missions of zoos. Virtual reality technology may replace some physical animal displays, allowing conservation education to no longer depend on the display of animal bodies. At the same time, social media platforms and competent authorities both face pressure over whether to restrict animal exhibition and performance content.
+More zoos transitioning into conservation centers or wildlife shelters, with "rewilding and release" potentially becoming a central mission of zoos. Virtual reality technology may replace some live animal displays, allowing conservation education without relying on animals' physical presence. Simultaneously, both social media platforms and government agencies face pressure to restrict exhibition animal content.
 
-But the most important change may be conceptual: a shift from "animals serving humans" toward "humans and animals coexisting."
+But perhaps the most important shift is conceptual: from "animals serve humanity" to "humans and animals coexist."
 
-There is still a long road ahead. Every choice, whether which zoo to visit, what kind of animal performance to support, or whether to like or report content on social media, is a vote for Taiwan's animal welfare.
+The path ahead remains long. Every choice—which zoo to visit, which animal performances to support, which posts to like or report on social media—constitutes a vote for Taiwan's animal welfare.
 
-**The future of zoos is our choice.**
-
-[^1]: Hsinchu Zoo, "Zoo Renovation Philosophy," https://zoo.hccg.gov.tw/
-
-[^2]: Wuo Wuo Media, "In-Depth Investigation into Animal-Welfare Controversies After Xpark's Opening," https://wuo-wuo.com/
-
-[^3]: Ministry of Agriculture, "Announcement on Amendments to the Regulations Governing the Management of Animal Exhibitions and Performances" (July 2024), https://www.moa.gov.tw/
-
-[^4]: Ministry of Agriculture Animal Protection Information Network, "Regulations Governing the Management of Animal Exhibitions and Performances," https://animal.moa.gov.tw/
-
-[^5]: Environment & Animal Society of Taiwan, "Current State of Micro Exhibition Animal Management," https://www.east.org.tw/
+**The future of the zoo is our choice.**
 
 ---
 
 **Further Reading**
 
-- [Controversies over Veterinary Drugs in Taiwan](/en/society/taiwan-animal-drug-controversy) — From ethical controversies over exhibition animals to legal gaps in companion-animal medication, these are different sides of the same problem: Taiwanese law has not yet learned how to regard living beings that are "neither human nor property"
+- [Taiwan's Animal Drug Controversy](/en/society/taiwan-animal-drug-controversy) — From the ethical questions surrounding exhibition animals to the legal gaps in pet medication, both reflect the same underlying problem: Taiwan's legal system has yet to learn how to regard "beings that are neither human nor property"
 
 ---
 
 ## References
 
-- [Wuo Wuo Media](https://wuo-wuo.com/) - Taiwan's most important independent media outlet on animal issues
-- [Environment & Animal Society of Taiwan](https://www.east.org.tw/) — An advocacy organization that has long focused on exhibition animal issues
-- [Animal Contemporary](https://www.animalcontemporary.org/) — An interdisciplinary platform for discussion of animal rights
-- [Hsinchu Zoo](https://zoo.hccg.gov.tw/) — The practice of a "zoo without cages"
+- [Wuo Wuo Media](https://wuo-wuo.com/) - Taiwan's most important independent media covering animal issues
+- [Taiwan Animal Society](https://www.east.org.tw/) — A long-standing advocacy organization focused on exhibition animal issues
+- [Hsinchu City Zoo](https://zoo.hccg.gov.tw/) — The "cage-free zoo" in practice
 - [Taipei Zoo](https://www.zoo.gov.taipei/) — Taiwan's oldest zoo
+
+[^1]: Hsinchu City Zoo, "Zoo Redesign Philosophy," https://zoo.hccg.gov.tw/
+
+[^2]: Wuo Wuo Media, "In-depth Investigation of Animal Welfare Controversy Following Xpark's Opening," https://wuo-wuo.com/
+
+[^3]: Council of Agriculture, "Announcement of Revisions to the Regulations for the Management of Performing Animals" (July 2024), https://www.moa.gov.tw/
+
+[^4]: [National Laws and Regulations Database: Regulations for the Management of Performing Animals](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=M0060090) — Complete text and amendments, adopted February 5, 2016; fully revised July 29, 2024.
+
+[^5]: [Illegal Animal Exhibition at Bali Rabbit Café Results in Mass Deaths; Animal Protection Department: Maximum Fine 250,000 NT Dollars and Case Referred for Investigation](https://udn.com/news/story/124490/9367910) — United Daily News report, March 9, 2026; results of New Taipei City Animal Protection Department's January inspection and follow-up investigation.
