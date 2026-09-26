@@ -428,3 +428,17 @@ def test_named_link_rules_keep_their_identity_in_the_list():
                MODULE.HTML_TAG_RE, MODULE.FOOTNOTE_REF_RE,
                MODULE.WIKILINK_RE, MODULE.BARE_URL_RE):
         assert rx in MODULE.LINK_LIKE_RES
+
+
+def test_proper_noun_containing_zh_marker_is_not_a_leak():
+    """2026-09-26：樂團名「草東沒有派對」含 zh-only 虛詞「沒有」，ja 譯文照原名寫是
+    正確的，不該被 marker 表判成漏譯（ja〈金曲獎〉重譯被擋 ×5 的病根）。"""
+    import importlib.util, sys
+    from pathlib import Path
+    p = Path(__file__).resolve().parents[1] / "scripts/tools/lang-sync/cjk-leak-check.py"
+    spec = importlib.util.spec_from_file_location("clc_pn", p)
+    m = importlib.util.module_from_spec(spec); sys.modules["clc_pn"] = m; spec.loader.exec_module(m)
+    text = "過去の受賞者である草東沒有派對は、ネット世代の代表だ。"
+    spans = m.legit_spans(text)
+    start = text.index("草東沒有派對")
+    assert any(a <= start and start + len("草東沒有派對") <= b for a, b in spans)

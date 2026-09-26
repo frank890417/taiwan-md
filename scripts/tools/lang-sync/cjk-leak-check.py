@@ -94,6 +94,15 @@ LEGIT_ZH_SPANS = [
         r"«[^«»]{0,30}»|‹[^‹›]{0,30}›|„[^„“”]{0,30}[“”]|“[^“”]{0,30}”|”[^„“”]{0,30}”"
     ),
 ]
+
+# 名字本身就含 zh-only 虛詞的專有名詞（2026-09-26）：日文、韓文媒體寫這些名字時
+# 保留原漢字，譯文照寫是正確的，但 ja/ko 分支的 ZH_ONLY_MARKERS 會把名字裡的
+# 「沒有」當漏譯。現形：委派層 ja〈金曲獎〉重譯被「沒有 ×5」擋下，五處全是樂團名
+# 草東沒有派對；站上既有的 ja〈台灣搖滾〉〈KTV 文化〉〈影視配樂〉也因同一個名字
+# 永遠過不了這道閘，任何一次重譯都會卡死。清單刻意手工維護、只收確認過的名字：
+# 放寬 marker 表會讓真漏譯一起溜過去，逐名收錄不會。
+PROPER_NOUNS_WITH_MARKERS = ["草東沒有派對"]
+LEGIT_ZH_SPANS.append(re.compile("|".join(map(re.escape, PROPER_NOUNS_WITH_MARKERS))))
 PAREN_GLOSS_RE = LEGIT_ZH_SPANS[0]      # 舊名保留，避免外部引用斷掉
 TITLE_BRACKET_RE = LEGIT_ZH_SPANS[1]
 
