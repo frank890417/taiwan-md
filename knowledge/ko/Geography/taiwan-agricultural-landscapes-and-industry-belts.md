@@ -162,15 +162,15 @@ translatedAt: '2026-09-21T00:58:26+08:00'
 
 [^2]: [농업 정책 및 발전 정보](https://www.moa.gov.tw/) — 農業部知識入口網（農業部知識入口網）
 
-[^3]: [농업 산업 발전 관련 정보](https://www.chcg.gov.tw/) — 장화현 정부（詳見原始連結內文資料補充）
+[^3]: [농업 산업 발전 관련 정보](https://www.chcg.gov.tw/) — 장화현 정부 (자세한 내용은 링크된 원문 참조)
 
-[^4]: [원주민 농업 및 산업 발전](https://www.taitung.gov.tw/) — 타이둥현 정부（詳見原始連結內文資料補充）
+[^4]: [원주민 농업 및 산업 발전](https://www.taitung.gov.tw/) — 타이둥현 정부 (자세한 내용은 링크된 원문 참조)
 
-[^5]: [공식 웹사이트](https://www.ia.gov.tw/) — 농업부 농전수리서（詳見原始連結內文資料補充）
+[^5]: [공식 웹사이트](https://www.ia.gov.tw/) — 농업부 농전수리서 (자세한 내용은 링크된 원문 참조)
 
 [^6]: [공식 웹사이트](https://www.hl.gov.tw/) — 화롄현 정부 농업처
 
-[^7]: [〈가남대순〉](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — 농업부 농전수리서（詳見原始連結內文資料補充）
+[^7]: [〈가남대순〉](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — 농업부 농전수리서 (자세한 내용은 링크된 원문 참조)
 
 [^8]: [〈흔한 렌우 총집합〉](https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4544) — 농업부 식농 교육 정보 통합 플랫폼
 
@@ -178,4 +178,4 @@ translatedAt: '2026-09-21T00:58:26+08:00'
 
 [^10]: [〈중국 자산량 대가 폭락 농업부 타이완 봉래 시자 가공·전작 병행 권장〉](https://news.ltn.com.tw/news/life/breakingnews/5478936) — 自由時報報導, 2026-06-21 — '수출 시장 95% 중국 집중', 2021년 9월 중국 잠정 수입 중단 후 전작·가공 노선 전환.
 
-[^11]: [〈109년 농림어목업 조사 초보 통계 결과〉](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — 행정원 주계총처（詳見原始連結內文資料補充）
+[^11]: [〈109년 농림어목업 조사 초보 통계 결과〉](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — 행정원 주계총처 (자세한 내용은 링크된 원문 참조)

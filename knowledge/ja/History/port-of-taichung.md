@@ -150,22 +150,22 @@ _台中港の港区と防波堤。撮影：Mnb、Wikimedia Commons、CC BY-SA 3.
 
 [^1]: [国家発展委員会ファイル管理局、「潮起潮落五十年：台中港の夢と再生」](https://www.archives.gov.tw/tw/arctw/69.html?stage=cp&dataId=7b57d69ac24486e11c77e6927efabbe8) — 國家發展委員會檔案管理局
 
-[^2]: [台湾港務株式会社台中港務支社、「歴史沿革」](https://tc.twport.com.tw/port/Articles?a=769) — 詳見原始連結內文資料補充
+[^2]: [台湾港務株式会社台中港務支社、「歴史沿革」](https://tc.twport.com.tw/port/Articles?a=769) — 詳細はリンク先の原文を参照
 
 [^3]: [国家文化記憶庫、「台中港開港通航」](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Media&id=753952) — 國家文化記憶庫
 
 [^4]: [公共テレビ『私たちの島』、「埋め立てられた日々：台中港と台湾シロイルカ」](https://ourisland.pts.org.tw/content/11919) — 公視我們的島專題
 
-[^5]: [国史館台湾文献館、「梧棲鎮の舶来品通りを訪ねて」](https://www.th.gov.tw/Epaper_Content/238/6682/) — 詳見原始連結內文資料補充
+[^5]: [国史館台湾文献館、「梧棲鎮の舶来品通りを訪ねて」](https://www.th.gov.tw/Epaper_Content/238/6682/) — 詳細はリンク先の原文を参照
 
-[^6]: [台湾港務株式会社台中港務支社、「台中港新設埋立区海堤工事」](https://tc.twport.com.tw/opendata/Articles?a=883) — 詳見原始連結內文資料補充
+[^6]: [台湾港務株式会社台中港務支社、「台中港新設埋立区海堤工事」](https://tc.twport.com.tw/opendata/Articles?a=883) — 詳細はリンク先の原文を参照
 
-[^7]: [林受勳、李政達、李俊穎、何良勝、朱志光、「台中港遠隔外郭堤水理模型動床漂砂実験の検討」、『港湾季刊』第123号](https://www.airitilibrary.com/Article/Detail/P20160307001-N202301100008-00003) — 詳見原始連結內文資料補充
+[^7]: [林受勳、李政達、李俊穎、何良勝、朱志光、「台中港遠隔外郭堤水理模型動床漂砂実験の検討」、『港湾季刊』第123号](https://www.airitilibrary.com/Article/Detail/P20160307001-N202301100008-00003) — 詳細はリンク先の原文を参照
 
 [^8]: [蔡立宏、溫志中、周偉龍、王俊欽、「近岸漂砂メカニズムと防止研究(4/4)」、交通部運輸研究所](https://www.iot.gov.tw/uploads/asset/data/6619a2c9367376304acd5090/B1026220.pdf) — 交通部運輸研究所報告
 
-[^9]: [台湾港務株式会社台中港務支社、「台中港飛砂整治範囲の拡大、港湾区環境と生態の向上」](https://tc.twport.com.tw/news/News?A=557&Id=10902&P=1) — 詳見原始連結內文資料補充
+[^9]: [台湾港務株式会社台中港務支社、「台中港飛砂整治範囲の拡大、港湾区環境と生態の向上」](https://tc.twport.com.tw/news/News?A=557&Id=10902&P=1) — 詳細はリンク先の原文を参照
 
-[^10]: [Wikimedia Commons、「File:Taiwan Taichung Port.jpg」、撮影：Mnb、CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Taiwan_Taichung_Port.jpg) — 詳見原始連結內文資料補充
+[^10]: [Wikimedia Commons、「File:Taiwan Taichung Port.jpg」、撮影：Mnb、CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Taiwan_Taichung_Port.jpg) — 詳細はリンク先の原文を参照
 
-[^11]: [Wikimedia Commons、「File:2022 Wuqi Fishing Port xiii.jpg」、撮影：Taiwankengo、CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:2022_Wuqi_Fishing_Port_xiii.jpg) — 詳見原始連結內文資料補充
+[^11]: [Wikimedia Commons、「File:2022 Wuqi Fishing Port xiii.jpg」、撮影：Taiwankengo、CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:2022_Wuqi_Fishing_Port_xiii.jpg) — 詳細はリンク先の原文を参照

@@ -256,7 +256,7 @@ translatedAt: '2026-09-21T00:58:24+08:00'
 
 [^5]: [玉山高度說明常見問題](https://www.ysnp.gov.tw/FAQ/C007000) — 玉山国家公園管理處。
 
-[^6]: [『臺灣平原地理資料』](https://www.ehanlin.com.tw/) — 翰林雲端學院。（詳見原始連結內文資料補充）
+[^6]: [『臺灣平原地理資料』](https://www.ehanlin.com.tw/) — 翰林雲端學院。（詳細はリンク先の原文を参照）
 
 [^7]: [〈秀姑巒山〉](https://zh.wikipedia.org/zh-tw/秀姑巒山) — Wikipedia（維基百科條目）
 

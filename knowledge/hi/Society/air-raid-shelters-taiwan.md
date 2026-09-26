@@ -93,32 +93,32 @@ translatedAt: '2026-09-12T19:57:18+08:00'
 
 ## संदर्भ सामग्री
 
-[^1]: [From subway stations to shopping malls, Taiwan prepares its air-raid shelters](https://www.reuters.com/world/asia-pacific/subway-stations-shopping-malls-taiwan-prepares-its-air-raid-shelters-2022-08-02/) — 詳見原始連結內文資料補充
+[^1]: [From subway stations to shopping malls, Taiwan prepares its air-raid shelters](https://www.reuters.com/world/asia-pacific/subway-stations-shopping-malls-taiwan-prepares-its-air-raid-shelters-2022-08-02/) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^2]: [提升防空避難標示及「警政服務APP-防空避難專區」報你知！](https://www.moi.gov.tw/News_Content.aspx?n=4&s=326877) — 詳見原始連結內文資料補充
+[^2]: [提升防空避難標示及「警政服務APP-防空避難專區」報你知！](https://www.moi.gov.tw/News_Content.aspx?n=4&s=326877) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^3]: [警政統計主題專區－警政服務App在手防空避難跟我走](https://www.npa.gov.tw/ch/app/data/view?module=wg054&id=2206&serno=4c4cffb7-bd19-425f-9282-c55578599d0a) — 詳見原始連結內文資料補充
+[^3]: [警政統計主題專區－警政服務App在手防空避難跟我走](https://www.npa.gov.tw/ch/app/data/view?module=wg054&id=2206&serno=4c4cffb7-bd19-425f-9282-c55578599d0a) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^4]: [防空避難設施管理之探討](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=219793) — 詳見原始連結內文資料補充
+[^4]: [防空避難設施管理之探討](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=219793) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^5]: [Learning from Ukraine and Israel, Taiwan to issue new air-raid guidance](https://www.reuters.com/world/china/learning-ukraine-israel-taiwan-to-issue-new-air-raid-guidance-2025-06-25/) — 詳見原始連結內文資料補充
+[^5]: [Learning from Ukraine and Israel, Taiwan to issue new air-raid guidance](https://www.reuters.com/world/china/learning-ukraine-israel-taiwan-to-issue-new-air-raid-guidance-2025-06-25/) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^6]: [內政部修正建築技術規則防空避難設備規定 強化全社會防衛韌性 培養民眾防災應變意識](https://www.nlma.gov.tw/ch/titlelist/news/16985) — 詳見原始連結內文資料補充
+[^6]: [內政部修正建築技術規則防空避難設備規定 強化全社會防衛韌性 培養民眾防災應變意識](https://www.nlma.gov.tw/ch/titlelist/news/16985) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^7]: [Taiwan needs to strengthen its civil defence](https://eastasiaforum.org/2024/11/09/taiwan-needs-to-strengthen-its-civil-defence/) — 詳見原始連結內文資料補充
+[^7]: [Taiwan needs to strengthen its civil defence](https://eastasiaforum.org/2024/11/09/taiwan-needs-to-strengthen-its-civil-defence/) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^8]: [公私協力防災 共築全社會防衛韌性 內政部：從信仰中心走進百工百業與每個社區](https://www.moi.gov.tw/News_Content.aspx?n=2&s=338811) — 詳見原始連結內文資料補充
+[^8]: [公私協力防災 共築全社會防衛韌性 內政部：從信仰中心走進百工百業與每個社區](https://www.moi.gov.tw/News_Content.aspx?n=2&s=338811) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^9]: [2026城鎮韌性（防空）演習](https://adma.mnd.gov.tw/unit/100003/204) — 詳見原始連結內文資料補充
+[^9]: [2026城鎮韌性（防空）演習](https://adma.mnd.gov.tw/unit/100003/204) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^10]: [全臺扶輪社2026年首場防災士培訓！內政部：充實基層防救災能量](https://www.moi.gov.tw/News_Content.aspx?n=4&s=339305) — 詳見原始連結內文資料補充
+[^10]: [全臺扶輪社2026年首場防災士培訓！內政部：充實基層防救災能量](https://www.moi.gov.tw/News_Content.aspx?n=4&s=339305) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^11]: [關於蔡家欣建築師事務所函詢建築技術規則建築設計施工編第10章無障礙建築物之無障礙通路應否通達防空避難室事宜1案，復請查照](https://www.nlma.gov.tw/ch/titlelist/interpcomp/14092) — 詳見原始連結內文資料補充
+[^11]: [關於蔡家欣建築師事務所函詢建築技術規則建築設計施工編第10章無障礙建築物之無障礙通路應否通達防空避難室事宜1案，復請查照](https://www.nlma.gov.tw/ch/titlelist/interpcomp/14092) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^12]: [戰事必備的保命設施—防空洞](https://www.th.gov.tw/Epaper_Content/236/8665/) — 詳見原始連結內文資料補充
+[^12]: [戰事必備的保命設施—防空洞](https://www.th.gov.tw/Epaper_Content/236/8665/) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^13]: [在虛擬與真實間，體驗臺灣人的兩種空襲經驗](https://curation.culture.tw/curation/public?id=92) — 詳見原始連結內文資料補充
+[^13]: [在虛擬與真實間，體驗臺灣人的兩種空襲經驗](https://curation.culture.tw/curation/public?id=92) — विवरण के लिए मूल स्रोत का लिंक देखें
 
-[^14]: [全民聯防與防空之研究](https://www.airitilibrary.com/Article/Detail/17272432-200702-201403120012-201403120012-79-88) — 詳見原始連結內文資料補充
+[^14]: [全民聯防與防空之研究](https://www.airitilibrary.com/Article/Detail/17272432-200702-201403120012-201403120012-79-88) — विवरण के लिए मूल स्रोत का लिंक देखें
 
 [^15]: [防空警報一響你知道該往哪逃嗎？](https://news.pts.org.tw/article/679970) — 公視新聞網

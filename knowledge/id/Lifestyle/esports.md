@@ -104,7 +104,7 @@ Di masa depan, seiring dengan integrasi mendalam teknologi baru seperti 5G, AI, 
 
 [^7]: [Analisis tentang pengembangan industri e-sports negara kami](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=167277) — Yuan Legislatif:
 
-[^8]: [Taiwan juga merupakan yang pertama di dunia dalam motherboard, pangsa pasar gabungan Asus MSI Gigabyte ASRock empat perusahaan mencapai 75% global](https://www.threads.com/@tech_mkt_mama/post/DTMFWXEE5KY/) — Threads:（詳見原始連結內文資料補充）
+[^8]: [Taiwan juga merupakan yang pertama di dunia dalam motherboard, pangsa pasar gabungan Asus MSI Gigabyte ASRock empat perusahaan mencapai 75% global](https://www.threads.com/@tech_mkt_mama/post/DTMFWXEE5KY/) — Threads: (Lihat sumber asli pada tautan)
 
 [^9]: [Balik besar melalui e-sports notebook tingkat atas pabrik Taiwan mendominasi hampir setengah pangsa pasar global](https://today.line.me/tw/v3/article/xvYRDj) — LINE TODAY:
 
@@ -114,9 +114,9 @@ Di masa depan, seiring dengan integrasi mendalam teknologi baru seperti 5G, AI, 
 
 [^12]: [Dari Wugu ke Seluruh Dunia: Jalan Kebangkitan Raja E-Sports Lin Liwei](https://www.bnext.com.tw/article/78962/oil-king) — Era Digital:
 
-[^13]: [Pahlawan Taiwan yang tidak Anda ketahui Lin Liwei (Oil King) hari ini mengumumkan bergabung dengan tim e-sports Korea Selatan T1 menjadi pemain perwakilan "Street Fighter 6"](https://www.threads.com/@okok0753/post/DJJOD2so5nX/) — Threads:（詳見原始連結內文資料補充）
+[^13]: [Pahlawan Taiwan yang tidak Anda ketahui Lin Liwei (Oil King) hari ini mengumumkan bergabung dengan tim e-sports Korea Selatan T1 menjadi pemain perwakilan "Street Fighter 6"](https://www.threads.com/@okok0753/post/DJJOD2so5nX/) — Threads: (Lihat sumber asli pada tautan)
 
-[^14]: [Apakah wanita tidak memahami data? Refleksi stereotip gender dan "efek program" dari seorang host game streaming](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%A5%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — Medium:（詳見原始連結內文資料補充）
+[^14]: [Apakah wanita tidak memahami data? Refleksi stereotip gender dan "efek program" dari seorang host game streaming](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%A5%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — Medium: (Lihat sumber asli pada tautan)
 
 [^15]: [Industri Permainan・E-Sports](https://stat.moc.gov.tw/Research_Download.aspx?idno=1148) — Statistik Budaya:
 
@@ -150,6 +150,6 @@ Di masa depan, seiring dengan integrasi mendalam teknologi baru seperti 5G, AI, 
 
 [^30]: [Hongguang Falcon](https://www.instagram.com/p/DXrEvquDseH/) — Instagram:
 
-[^31]: [Laporan Pasar E-Sports Global 2026](https://www.gii.tw/report/tbrc1989619-e-sports-global-market-report.html) — 詳見原始連結內文資料補充
+[^31]: [Laporan Pasar E-Sports Global 2026](https://www.gii.tw/report/tbrc1989619-e-sports-global-market-report.html) — Lihat sumber asli pada tautan
 
 [^32]: [Industri E-Sports Bernilai Tinggi, Diperkirakan Akan Melampaui 1,2 Miliar Dolar pada 2029](https://www.youtube.com/watch?v=uXushQL7uQE) — YouTube:（YouTube 影片紀錄）

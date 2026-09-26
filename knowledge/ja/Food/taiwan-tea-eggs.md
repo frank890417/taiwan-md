@@ -143,34 +143,34 @@ _圖片說明：切り分けられた茶葉蛋に、ひび割れと滷汁が共�
 
 參考資料
 
-[^1]: [茶葉蛋為何是台灣 7-11 最初的獨家商品？背後是徐重仁的產品開發巧思](https://www.managertoday.com.tw/books/view/67354) — 詳見原始連結內文資料補充
+[^1]: [茶葉蛋為何是台灣 7-11 最初的獨家商品？背後是徐重仁的產品開發巧思](https://www.managertoday.com.tw/books/view/67354) — 詳細はリンク先の原文を参照
 
-[^2]: [Taiwan in Time: The fledgling days of 7-Eleven in Taiwan](https://www.taipeitimes.com/News/feat/archives/2018/02/04/2003687006) — 詳見原始連結內文資料補充
+[^2]: [Taiwan in Time: The fledgling days of 7-Eleven in Taiwan](https://www.taipeitimes.com/News/feat/archives/2018/02/04/2003687006) — 詳細はリンク先の原文を参照
 
 [^3]: [為何日本人踏進台灣便利商店，總會吃驚？原來有股獨特氣味](https://www.storm.mg/lifestyle/270962) — 風傳媒專文：風傳媒專文
 
-[^4]: [食品從業人員需遵守食品良好衛生規範](https://www.mohw.gov.tw/cp-16-23780-1.html) — 詳見原始連結內文資料補充
+[^4]: [食品從業人員需遵守食品良好衛生規範](https://www.mohw.gov.tw/cp-16-23780-1.html) — 詳細はリンク先の原文を参照
 
-[^5]: [散裝食品標示 Q&A](https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f636694915800127739) — 詳見原始連結內文資料補充
+[^5]: [散裝食品標示 Q&A](https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f636694915800127739) — 詳細はリンク先の原文を参照
 
-[^6]: [新北市消保官公布市售即時熟食茶葉蛋行政調查結果](https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=5e018236966319e1cb89b73bbd470037) — 詳見原始連結內文資料補充
+[^6]: [新北市消保官公布市售即時熟食茶葉蛋行政調查結果](https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=5e018236966319e1cb89b73bbd470037) — 詳細はリンク先の原文を参照
 
-[^7]: [Man told to pay NT$600 for refilling pot of tea eggs](https://www.taipeitimes.com/News/front/archives/2022/10/04/2003786405) — 詳見原始連結內文資料補充
+[^7]: [Man told to pay NT$600 for refilling pot of tea eggs](https://www.taipeitimes.com/News/front/archives/2022/10/04/2003786405) — 詳細はリンク先の原文を参照
 
-[^8]: [Taiwan's FamilyMart to raise price of tea eggs](https://www.taiwannews.com.tw/news/4755578) — 詳見原始連結內文資料補充
+[^8]: [Taiwan's FamilyMart to raise price of tea eggs](https://www.taiwannews.com.tw/news/4755578) — 詳細はリンク先の原文を参照
 
-[^9]: [Taiwan's Hi-Life to raise price of tea eggs to NT$13](https://www.taiwannews.com.tw/news/4769597) — 詳見原始連結內文資料補充
+[^9]: [Taiwan's Hi-Life to raise price of tea eggs to NT$13](https://www.taiwannews.com.tw/news/4769597) — 詳細はリンク先の原文を参照
 
-[^10]: [台灣茶葉蛋：台北的真味](https://taiwanmerch.co/zh/%E6%96%87%E5%8C%96-2/%E6%AF%8F%E6%97%A5%E5%8F%B0%E7%81%A3%E8%8C%B6%E8%91%89%E8%9B%8B-2026-06-03/) — 詳見原始連結內文資料補充
+[^10]: [台灣茶葉蛋：台北的真味](https://taiwanmerch.co/zh/%E6%96%87%E5%8C%96-2/%E6%AF%8F%E6%97%A5%E5%8F%B0%E7%81%A3%E8%8C%B6%E8%91%89%E8%9B%8B-2026-06-03/) — 詳細はリンク先の原文を参照
 
-[^11]: [企管所參訪上智關廟麵、所長茶葉蛋認識品牌行銷策略與企業經營](https://web.ksu.edu.tw/DTCHBAR/focusNews/detail/14192) — 詳見原始連結內文資料補充
+[^11]: [企管所參訪上智關廟麵、所長茶葉蛋認識品牌行銷策略與企業經營](https://web.ksu.edu.tw/DTCHBAR/focusNews/detail/14192) — 詳細はリンク先の原文を参照
 
-[^12]: [Country of origin labeling for eggs launched](https://www.taipeitimes.com/News/taiwan/archives/2023/09/28/2003806904) — 詳見原始連結內文資料補充
+[^12]: [Country of origin labeling for eggs launched](https://www.taipeitimes.com/News/taiwan/archives/2023/09/28/2003806904) — 詳細はリンク先の原文を参照
 
-[^13]: [File:Tea egg, Taiwan.JPG](https://commons.wikimedia.org/wiki/File:Tea_egg,_Taiwan.JPG) — 詳見原始連結內文資料補充
+[^13]: [File:Tea egg, Taiwan.JPG](https://commons.wikimedia.org/wiki/File:Tea_egg,_Taiwan.JPG) — 詳細はリンク先の原文を参照
 
-[^14]: [File:Tea eggs of FamilyMart Beijie Store 20190810.jpg](https://commons.wikimedia.org/wiki/File:Tea_eggs_of_FamilyMart_Beijie_Store_20190810.jpg) — 詳見原始連結內文資料補充
+[^14]: [File:Tea eggs of FamilyMart Beijie Store 20190810.jpg](https://commons.wikimedia.org/wiki/File:Tea_eggs_of_FamilyMart_Beijie_Store_20190810.jpg) — 詳細はリンク先の原文を参照
 
-[^15]: [File:Marble Tea Eggs (茶葉蛋).jpg](https://commons.wikimedia.org/wiki/File:Marble_Tea_Eggs_(%E8%8C%B6%E8%91%B6%E8%9B%8B) — 詳見原始連結內文資料補充
+[^15]: [File:Marble Tea Eggs (茶葉蛋).jpg](https://commons.wikimedia.org/wiki/File:Marble_Tea_Eggs_(%E8%8C%B6%E8%91%B6%E8%9B%8B) — 詳細はリンク先の原文を参照
 
 _本文為 Taiwan.md 策展文章，事實性敘述均以參考資料逐項核對，策展人筆記為明示觀點。_

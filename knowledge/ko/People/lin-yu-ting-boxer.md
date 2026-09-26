@@ -159,15 +159,15 @@ IOC의 여러 번의 지지가 있었음에도, 2024년 파리 올림픽 개막 
 
 [^3]: [BBC News 中文 — 林郁婷巴黎奧運奪金性別爭議中兌現對母親的承諾](https://www.bbc.com/zhongwen/trad/chinese-news-69261265) — BBC News 中文報導
 
-[^4]: [報導者 — 【奧運選手的告白】林郁婷：被當成後輩典範，也是一種壓力](https://www.twreporter.org/a/athlete-mental-health-lin-yu-ting) — 詳見原始連結內文資料補充
+[^4]: [報導者 — 【奧運選手的告白】林郁婷：被當成後輩典範，也是一種壓力](https://www.twreporter.org/a/athlete-mental-health-lin-yu-ting) — 자세한 내용은 링크된 원문 참조
 
 [^5]: [轉角國際 — 拳擊選手林郁婷遭疑「非女性」，JK羅琳也錯認的性別戰](https://global.udn.com/global_vision/story/8662/8131527) — 聯合新聞網報導
 
-[^6]: [麗台運動報 — 奧運拳擊週報》性別議題被嚴重誤導國際奧會發表聲明力挺](https://www.ltsports.com.tw/article/172262) — 詳見原始連結內文資料補充
+[^6]: [麗台運動報 — 奧運拳擊週報》性別議題被嚴重誤導國際奧會發表聲明力挺](https://www.ltsports.com.tw/article/172262) — 자세한 내용은 링크된 원문 참조
 
-[^7]: [運動筆記 — 【人物】林郁婷背起的那個男人：「我們也要成為自己的魔法師」](https://running.biji.co/index.php?q=news&act=info&id=110827) — 詳見原始連結內文資料補充
+[^7]: [運動筆記 — 【人物】林郁婷背起的那個男人：「我們也要成為自己的魔法師」](https://running.biji.co/index.php?q=news&act=info&id=110827) — 자세한 내용은 링크된 원문 참조
 
-[^8]: [VERVE — 金牌拳后林郁婷的誕生之路—曾自強教練拳擊革命](https://www.verve.com.tw/pages/coach-zengs-boxing-revolution-the-birth-of-gold-medal-boxing-queen-lin-yuting) — 詳見原始連結內文資料補充
+[^8]: [VERVE — 金牌拳后林郁婷的誕生之路—曾自強教練拳擊革命](https://www.verve.com.tw/pages/coach-zengs-boxing-revolution-the-birth-of-gold-medal-boxing-queen-lin-yuting) — 자세한 내용은 링크된 원문 참조
 
 [^9]: [聯合新聞網 — 寫下台灣拳擊史最佳成績！林郁婷闖奧運金牌戰，11個小故事](https://udn.com/news/story/121721/8148581) — 聯合新聞網報導
 

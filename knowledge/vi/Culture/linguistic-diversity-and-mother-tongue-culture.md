@@ -274,8 +274,8 @@ Sức sống của ngôn ngữ cuối cùng được quyết định bởi sự 
 
 [^2]: 原住民族委員會，《原住民族語言使用狀況調查報告》，2021，https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html；阿美族登記族群人口約21萬，但流利使用族語者遠低於此數字 Amis được đăng ký với dân số khoảng 21 vạn người, nhưng những người sử dụng thành thạo ngôn ngữ bộ lạc thấp hơn nhiều so với con số này
 
-[^3]: [《語言、社會與族群意識》](https://www.sanmin.com.tw/product/index/000219830) — 詳見原始連結內文資料補充，三民書局
+[^3]: [《語言、社會與族群意識》](https://www.sanmin.com.tw/product/index/000219830) — Xem chi tiết tại nguồn gốc được liên kết，三民書局
 
-[^4]: [《台灣南島民族的族群與遷徙》](https://www.books.com.tw/products/0010493437) — 詳見原始連結內文資料補充
+[^4]: [《台灣南島民族的族群與遷徙》](https://www.books.com.tw/products/0010493437) — Xem chi tiết tại nguồn gốc được liên kết
 
 [^5]: [國家語言發展法（2019）](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143) — xác lập tiếng Đài, tiếng Khách Gia, ngôn ngữ Nam Đảo bản địa v.v. là những ngôn ngữ quốc gia, [Ủy ban Khách Gia](https://www.hakka.gov.tw/)、[Ủy ban Tổng hợp Các dân tộc Nam Đảo bản địa](https://www.apc.gov.tw/) tài liệu liên quan

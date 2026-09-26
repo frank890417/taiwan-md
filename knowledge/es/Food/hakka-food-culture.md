@@ -147,10 +147,10 @@ Al degustar la gastronomía hakka, no solo disfrutamos de la satisfacción del p
 
 [^2]: [Wikipedia, entrada «Zongzi de flor de jengibre silvestre»,](https://zh.wikipedia.org/zh-tw/%E9%87%8E%E8%96%91%E8%8A%B1%E7%B2%BD) — 維基百科條目
 
-[^3]: [Consejo de Asuntos Hakka, «Investigación sobre la cultura alimentaria hakka» (2023),](https://www.hakka.gov.tw/File/Attach/38788/File_72807.pdf) — 詳見原始連結內文資料補充
+[^3]: [Consejo de Asuntos Hakka, «Investigación sobre la cultura alimentaria hakka» (2023),](https://www.hakka.gov.tw/File/Attach/38788/File_72807.pdf) — Véase la fuente original enlazada
 
-[^4]: [Oficina de Cultura del Gobierno del Condado de Hsinchu, «¡A comer! — Exposición temática sobre la cultura alimentaria hakka de la región de Hsinchu»,](https://www.hchcc.gov.tw/) — 詳見原始連結內文資料補充
+[^4]: [Oficina de Cultura del Gobierno del Condado de Hsinchu, «¡A comer! — Exposición temática sobre la cultura alimentaria hakka de la región de Hsinchu»,](https://www.hchcc.gov.tw/) — Véase la fuente original enlazada
 
 [^5]: [Ministerio de Agricultura, «Desarrollo de la industria de alimentos encurtidos de Taiwán» (2025),](https://www.moa.gov.tw/) — 農業部知識入口網
 
-[^6]: [Comité de Asuntos Hakka, «Plan de promoción de áreas clave de desarrollo de la cultura hakka»,](https://www.hakka.gov.tw/Content/Content?NodeID=63&PageID=38317) — 詳見原始連結內文資料補充
+[^6]: [Comité de Asuntos Hakka, «Plan de promoción de áreas clave de desarrollo de la cultura hakka»,](https://www.hakka.gov.tw/Content/Content?NodeID=63&PageID=38317) — Véase la fuente original enlazada

@@ -276,6 +276,6 @@ Perlu dicatat bahwa keberhasilan kebijakan bahasa sering membutuhkan beberapa pu
 
 [^3]: [《Bahasa, Sosial, dan Kesadaran Etnis》](https://www.sanmin.com.tw/product/index/000219830) — Huang Xuanfan, Sanmin Bookstore
 
-[^4]: [《Kelompok Nusantara Selatan di Taiwan: Etnis dan Migrasi》](https://www.books.com.tw/products/0010493437) — Li Rengui（詳見原始連結內文資料補充）
+[^4]: [《Kelompok Nusantara Selatan di Taiwan: Etnis dan Migrasi》](https://www.books.com.tw/products/0010493437) — Li Rengui (Lihat sumber asli pada tautan)
 
 [^5]: [Undang-Undang Pengembangan Bahasa Nasional (2019)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143) — Menetapkan bahasa Tionghoa, bahasa Hakka, bahasa asli, dll. sebagai bahasa nasional, publikasi terkait [Dewan Hakka](https://www.hakka.gov.tw/), [Dewan Urussan Etnis Asli](https://www.apc.gov.tw/)

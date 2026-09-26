@@ -72,7 +72,7 @@ Artikel ini menggunakan 3 gambar berlisensi CC, semua di-cache di `public/articl
 
 ## Referensi
 
-[^1]: [Seniman Graffiti Taiwan Reach, Balikan! Dari Jalanan Menuju Gaya Ciptaan Multidimensi](https://www.wowlavie.com/article/ae1902012) — WowLavie（詳見原始連結內文資料補充）
+[^1]: [Seniman Graffiti Taiwan Reach, Balikan! Dari Jalanan Menuju Gaya Ciptaan Multidimensi](https://www.wowlavie.com/article/ae1902012) — WowLavie (Lihat sumber asli pada tautan)
 
 [^3]: [Wawancara Khusus Seniman Graffiti Da Chang Wang: Isi Usus Adalah Tinja, Seni Pun Demikian.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 

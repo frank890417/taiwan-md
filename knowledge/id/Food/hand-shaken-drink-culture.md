@@ -251,12 +251,12 @@ Budaya minuman hand-shaken Taiwan bermula dari inovasi teh susu mutiara, berkemb
 
 ## Referensi
 
-[^1]: [Chun Shui Tang, 〈Sejarah Penemuan Teh Susu Mutiara〉,](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) — 詳見原始連結內文資料補充
+[^1]: [Chun Shui Tang, 〈Sejarah Penemuan Teh Susu Mutiara〉,](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) — Lihat sumber asli pada tautan
 
-[^2]: [Asosiasi Rantai dan Waralaba Taiwan,](https://www.cfatwn.org.tw/) — 詳見原始連結內文資料補充
+[^2]: [Asosiasi Rantai dan Waralaba Taiwan,](https://www.cfatwn.org.tw/) — Lihat sumber asli pada tautan
 
 [^3]: [United Daily News, 〈Teh Susu Mutiara Tanpa Sengketa Paten〉,](https://udn.com/news/story/7321/3960989) — 聯合新聞網報導
 
 [^4]: [Biro Statistik Kementerian Ekonomi, Statistik Operasi Industri Minuman,](https://www.moea.gov.tw/) — 經濟部新聞稿
 
-[^5]: [Situs Web Resmi Chun Shui Tang,](https://www.chunshuitang.com.tw/) — 詳見原始連結內文資料補充
+[^5]: [Situs Web Resmi Chun Shui Tang,](https://www.chunshuitang.com.tw/) — Lihat sumber asli pada tautan

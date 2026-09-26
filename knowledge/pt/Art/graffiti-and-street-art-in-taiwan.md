@@ -72,7 +72,7 @@ Este artigo usa 3 imagens com licença CC, todas em cache em `public/article-ima
 
 ## Referências
 
-[^1]: [Artistas de grafite taiwaneses Reach e Bleck contra-atacam! Da rua à criação multiforme](https://www.wowlavie.com/article/ae1902012) — WowLavie（詳見原始連結內文資料補充）
+[^1]: [Artistas de grafite taiwaneses Reach e Bleck contra-atacam! Da rua à criação multiforme](https://www.wowlavie.com/article/ae1902012) — WowLavie (Ver a fonte original no link)
 
 [^3]: Heaven Raven, [Entrevista exclusiva com artista de grafite Dachang Wang: O interior do intestino é fezes, a arte também.] (https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/)
 

@@ -78,15 +78,15 @@ Bài viết này sử dụng 3 hình ảnh được cấp phép CC, tất cả �
 
 ## Tài liệu tham khảo
 
-[^1]: [台灣塗鴉藝術家Reach、布雷克的逆襲！ 從街頭走向多元創作的風格](https://www.wowlavie.com/article/ae1902012) — WowLavie（詳見原始連結內文資料補充）
+[^1]: [台灣塗鴉藝術家Reach、布雷克的逆襲！ 從街頭走向多元創作的風格](https://www.wowlavie.com/article/ae1902012) — WowLavie (Xem chi tiết tại nguồn gốc được liên kết)
 
 [^3]: [專訪塗鴉藝術家大腸王：大腸的內裡是屎，藝術也是。](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
 [^4]: [街頭文化走向商業錯了嗎？台灣塗鴉先鋒Reach](https://www.beautimode.com/article/content/86906/) — BeautyMode
 
-[^5]: [糖果鳥 Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — 台灣當代藝術資料庫（詳見原始連結內文資料補充）
+[^5]: [糖果鳥 Candy Bird](https://tcaaarchive.org/Artist/Detail/69b3c7a50e2b30c545ccc22b) — 台灣當代藝術資料庫 (Xem chi tiết tại nguồn gốc được liên kết)
 
-[^6]: [亂塗鴉最高罰6000元！北市14處合法塗鴉牆一覽](https://newtalk.tw/news/view/2019-11-27/332344) — 台北市政府環保局（詳見原始連結內文資料補充）
+[^6]: [亂塗鴉最高罰6000元！北市14處合法塗鴉牆一覽](https://newtalk.tw/news/view/2019-11-27/332344) — 台北市政府環保局 (Xem chi tiết tại nguồn gốc được liên kết)
 
 [^8]: [古蹟與後現代藝術交融《藝遊未盡》帶你遨遊臺北市電影主題公園](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — 台北市政府觀光傳播局
 

@@ -102,19 +102,19 @@ In Zukunft wird die E-Sport-Industrie durch die tiefe Integration neuer Technolo
 
 [^7]: [Analyse zur Entwicklung der nationalen E-Sport-Industrie](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6590&pid=167277) — Legislative Council:
 
-[^8]: [Taiwan ist auch weltweit führend bei Motherboards; ASUS, MSI, Gigabyte und ASRock machen zusammen 75 % des weltweiten Marktanteils aus](https://www.threads.com/@tech_mkt_mama/post/DTMFWXEE5KY/) — Threads:（詳見原始連結內文資料補充）
+[^8]: [Taiwan ist auch weltweit führend bei Motherboards; ASUS, MSI, Gigabyte und ASRock machen zusammen 75 % des weltweiten Marktanteils aus](https://www.threads.com/@tech_mkt_mama/post/DTMFWXEE5KY/) — Threads: (Details in der verlinkten Originalquelle)
 
 [^9]: [Lokale Hersteller machen mit E-Sport einen großen Sprung und halten fast die Hälfte des Marktes für High-End-Laptops](https://today.line.me/tw/v3/article/xvYRDj) — LINE TODAY:
 
-[^10]: [Globaler OLED-Lieferumfang steigt 2025 um 92 %; ASUS bleibt führend, MSI belegt den dritten Platz](https://news.cnyes.com/news/id/6397507) — 詳見原始連結內文資料補充
+[^10]: [Globaler OLED-Lieferumfang steigt 2025 um 92 %; ASUS bleibt führend, MSI belegt den dritten Platz](https://news.cnyes.com/news/id/6397507) — Details in der verlinkten Originalquelle
 
 [^11]: [【GamerBee Volle Ausgabe】Smile Killer, der Legende des Inselreichs in der Street Fighter-Szene neben Yulin](https://www.mirrormedia.mg/story/20171227game_gamerbee) — Mirror Weekly:
 
 [^12]: [Von Wugu zum globalen Ruhm: Der Aufstieg des Fighting Game Kings Lin Liwei](https://www.bnext.com.tw/article/78962/oil-king) — Digital Age:
 
-[^13]: [Was du nicht wusstest: Taiwanischer Held Lin Liwei (Oil King) kündigt heute seinen Wechsel zum südkoreanischen E-Sportteam T1 als Vertreter für 'Street Fighter 6' an](https://www.threads.com/@okok0753/post/DJJOD2so5nX/) — Threads:（詳見原始連結內文資料補充）
+[^13]: [Was du nicht wusstest: Taiwanischer Held Lin Liwei (Oil King) kündigt heute seinen Wechsel zum südkoreanischen E-Sportteam T1 als Vertreter für 'Street Fighter 6' an](https://www.threads.com/@okok0753/post/DJJOD2so5nX/) — Threads: (Details in der verlinkten Originalquelle)
 
-[^14]: [Verstehen Frauen keine Daten? Eine Reflexion über Geschlechterstereotype und „Show-Effekt“ bei einer Gaming-Streamerin](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%A5%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — Medium:（詳見原始連結內文資料補充）
+[^14]: [Verstehen Frauen keine Daten? Eine Reflexion über Geschlechterstereotype und „Show-Effekt“ bei einer Gaming-Streamerin](https://vincent199145.medium.com/%E5%A5%B3%E6%80%A7%E8%81%B2%E4%B8%8D%E6%87%82%E6%95%B8%E6%93%9A-%E4%B8%80%E4%BD%8D%E9%81%8A%E6%88%B2%E5%AF%A6%E6%B3%81%E4%B8%BB%E7%9A%84%E6%80%A7%E5%88%A5%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%E8%88%87-%E7%AF%80%E7%9B%AE%E6%95%88%E6%9E%9C-%E5%8F%8D%E6%80%9D-9646d94ff09a) — Medium: (Details in der verlinkten Originalquelle)
 
 [^15]: [Spiele und E-Sports-Industrie](https://stat.moc.gov.tw/Research_Download.aspx?idno=1148) — Kulturelle Statistik:
 
@@ -148,6 +148,6 @@ In Zukunft wird die E-Sport-Industrie durch die tiefe Integration neuer Technolo
 
 [^30]: [Honggu Falcon](https://www.instagram.com/p/DXrEvquDseH/) — Instagram:
 
-[^31]: [Globales E-Sport-Marktbericht 2026](https://www.gii.tw/report/tbrc1989619-e-sports-global-market-report.html) — 詳見原始連結內文資料補充– Bietet Schätzungen der globalen E-Sport-Marktgröße.
+[^31]: [Globales E-Sport-Marktbericht 2026](https://www.gii.tw/report/tbrc1989619-e-sports-global-market-report.html) — Details in der verlinkten Originalquelle– Bietet Schätzungen der globalen E-Sport-Marktgröße.
 
 [^32]: [E-Sportindustrie mit hohem Wert wird voraussichtlich im Jahr 2029 1,2 Milliarden US-Dollar überschreiten](https://www.youtube.com/watch?v=uXushQL7uQE) — YouTube:– Bietet Schätzungen des Produktionswertes der E-Sportindustrie.

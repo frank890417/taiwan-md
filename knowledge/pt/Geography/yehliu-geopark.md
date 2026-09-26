@@ -69,9 +69,9 @@ Talvez um dia a Rainha realmente abaixe a cabeça e encerre. Mas até lá, ela p
 
 [^1]: [野柳漁夫林添禎捨己救人寫入國編館課本](https://time.udn.com/udntime/story/122833/7805077) — 報時光：聯合新聞網報時光專欄
 
-[^2]: [魔鬼岬 - 野柳地質公園官網](https://www.ylgeopark.org.tw/YehliuKnowledgeView/PuntoDiablos) — 野柳地質公園：詳見原始連結內文
+[^2]: [魔鬼岬 - 野柳地質公園官網](https://www.ylgeopark.org.tw/YehliuKnowledgeView/PuntoDiablos) — 野柳地質公園: Ver a fonte original no link
 
-[^3]: [駱駝峰步道：起底恐怖的野柳名稱由來](https://hiking.biji.co/index.php?q=review&act=info&review_id=18536) — 健行筆記：詳見原始連結內文
+[^3]: [駱駝峰步道：起底恐怖的野柳名稱由來](https://hiking.biji.co/index.php?q=review&act=info&review_id=18536) — 健行筆記: Ver a fonte original no link
 
 [^4]: [野柳風景特定區](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E6%9F%B3%E1%A2%A8%E6%99%AF%E7%89%B9%E5%AE%9A%E5%8D%80) — 維基百科：維基百科條目
 
@@ -81,6 +81,6 @@ Talvez um dia a Rainha realmente abaixe a cabeça e encerre. Mas até lá, ela p
 
 [^7]: [我國北海岸野柳地質公園之著名景點「女王頭」，幾近斷頸虞慮](https://www.cy.gov.tw/News_Content.aspx?n=125&s=12857) — 監察院新聞稿：監察院糾正報告
 
-[^8]: [野柳神明淨港 - 臺灣宗教文化地圖](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=204) — 內政部：詳見原始連結內文
+[^8]: [野柳神明淨港 - 臺灣宗教文化地圖](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=204) — 內政部: Ver a fonte original no link
 
-[^9]: [2026野柳神明淨港文化祭](https://www.ydcf.org.tw/) — 活動官網：詳見原始連結內文
+[^9]: [2026野柳神明淨港文化祭](https://www.ydcf.org.tw/) — 活動官網: Ver a fonte original no link

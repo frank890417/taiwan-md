@@ -68,54 +68,54 @@ translatedAt: '2026-07-26T08:51:00+08:00'
 
 ## المراجع
 
-[^1]: [https://www.wra.gov.tw/epaper/ArticleDetail.aspx?s=3114&n=30173](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=3114&n=30173) — 詳見原始連結內文資料補充
+[^1]: [https://www.wra.gov.tw/epaper/ArticleDetail.aspx?s=3114&n=30173](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=3114&n=30173) — انظر المصدر الأصلي في الرابط
 
-[^2]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — 詳見原始連結內文資料補充
+[^2]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — انظر المصدر الأصلي في الرابط
 
-[^3]: [https://www.siraya-nsa.gov.tw/zh-tw/attractions/detail/37](https://www.siraya-nsa.gov.tw/zh-tw/attractions/detail/37) — 詳見原始連結內文資料補充
+[^3]: [https://www.siraya-nsa.gov.tw/zh-tw/attractions/detail/37](https://www.siraya-nsa.gov.tw/zh-tw/attractions/detail/37) — انظر المصدر الأصلي في الرابط
 
-[^4]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — 詳見原始連結內文資料補充
+[^4]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — انظر المصدر الأصلي في الرابط
 
-[^5]: [https://www.siraya-nsa.gov.tw/zh-tw/attractions/detail/37](https://www.siraya-nsa.gov.tw/zh-tw/attractions/detail/37) — 詳見原始連結內文資料補充
+[^5]: [https://www.siraya-nsa.gov.tw/zh-tw/attractions/detail/37](https://www.siraya-nsa.gov.tw/zh-tw/attractions/detail/37) — انظر المصدر الأصلي في الرابط
 
-[^6]: [https://www.wra.gov.tw/epaper/ArticleDetail.aspx?s=3114&n=30173](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=3114&n=30173) — 詳見原始連結內文資料補充
+[^6]: [https://www.wra.gov.tw/epaper/ArticleDetail.aspx?s=3114&n=30173](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=3114&n=30173) — انظر المصدر الأصلي في الرابط
 
-[^7]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — 詳見原始連結內文資料補充
+[^7]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — انظر المصدر الأصلي في الرابط
 
-[^8]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — 詳見原始連結內文資料補充
+[^8]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — انظر المصدر الأصلي في الرابط
 
-[^9]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — 詳見原始連結內文資料補充
+[^9]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — انظر المصدر الأصلي في الرابط
 
-[^10]: [https://journal.ndhu.edu.tw/%E6%8A%80%E8%A1%93%E5%AE%98%E5%83%9A%E7%9A%84%E5%85%B8%E7%AF%84%EF%BC%9A…](https://journal.ndhu.edu.tw/%E6%8A%80%E8%A1%93%E5%AE%98%E5%83%9A%E7%9A%84%E5%85%B8%E7%AF%84%EF%BC%9A%E5%85%AB%E7%94%B0%E8%88%87%E4%B8%80%E2%94%80%E2%94%80%E9%99%B3%E9%B4%BB%E5%9C%96/) — 詳見原始連結內文資料補充
+[^10]: [https://journal.ndhu.edu.tw/%E6%8A%80%E8%A1%93%E5%AE%98%E5%83%9A%E7%9A%84%E5%85%B8%E7%AF%84%EF%BC%9A…](https://journal.ndhu.edu.tw/%E6%8A%80%E8%A1%93%E5%AE%98%E5%83%9A%E7%9A%84%E5%85%B8%E7%AF%84%EF%BC%9A%E5%85%AB%E7%94%B0%E8%88%87%E4%B8%80%E2%94%80%E2%94%80%E9%99%B3%E9%B4%BB%E5%9C%96/) — انظر المصدر الأصلي في الرابط
 
-[^11]: [https://www.cmmedia.com.tw/home/articles/3477](https://www.cmmedia.com.tw/home/articles/3477) — 詳見原始連結內文資料補充
+[^11]: [https://www.cmmedia.com.tw/home/articles/3477](https://www.cmmedia.com.tw/home/articles/3477) — انظر المصدر الأصلي في الرابط
 
-[^12]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — 詳見原始連結內文資料補充
+[^12]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — انظر المصدر الأصلي في الرابط
 
-[^13]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — 詳見原始連結內文資料補充
+[^13]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — انظر المصدر الأصلي في الرابط
 
-[^14]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — 詳見原始連結內文資料補充
+[^14]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — انظر المصدر الأصلي في الرابط
 
-[^15]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — 詳見原始連結內文資料補充
+[^15]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — انظر المصدر الأصلي في الرابط
 
-[^16]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — 詳見原始連結內文資料補充
+[^16]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — انظر المصدر الأصلي في الرابط
 
-[^17]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — 詳見原始連結內文資料補充
+[^17]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — انظر المصدر الأصلي في الرابط
 
-[^18]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — 詳見原始連結內文資料補充
+[^18]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — انظر المصدر الأصلي في الرابط
 
 [^19]: [https://zh.wikipedia.org/zh-tw/%E5%85%AB%E7%94%B0%E8%88%87%E4%B8%80](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E7%94%B0%E8%88%87%E4%B8%80) — 維基百科條目
 
-[^20]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — 詳見原始連結內文資料補充
+[^20]: [http://www.taiwantt.org.tw/tw/index.php?option=comcontent&task=view&id=1260&Itemid=1](http://www.taiwantt.org.tw/tw/index.php?option=com_content&task=view&id=1260&Itemid=1) — انظر المصدر الأصلي في الرابط
 
-[^21]: [https://www.president.gov.tw/News/40036](https://www.president.gov.tw/News/40036) — 詳見原始連結內文資料補充
+[^21]: [https://www.president.gov.tw/News/40036](https://www.president.gov.tw/News/40036) — انظر المصدر الأصلي في الرابط
 
-[^22]: [https://www.president.gov.tw/News/40036](https://www.president.gov.tw/News/40036) — 詳見原始連結內文資料補充
+[^22]: [https://www.president.gov.tw/News/40036](https://www.president.gov.tw/News/40036) — انظر المصدر الأصلي في الرابط
 
-[^23]: [https://www.president.gov.tw/News/40036](https://www.president.gov.tw/News/40036) — 詳見原始連結內文資料補充
+[^23]: [https://www.president.gov.tw/News/40036](https://www.president.gov.tw/News/40036) — انظر المصدر الأصلي في الرابط
 
-[^24]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — 詳見原始連結內文資料補充
+[^24]: [https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers](https://storystudio.tw/article/gushi/yoichi-hatta-and-ito-brothers) — انظر المصدر الأصلي في الرابط
 
-[^25]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — 詳見原始連結內文資料補充
+[^25]: [https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/](https://buzzorange.com/citiorange/2017/04/17/yoichi-hatta-changed-taiwan/) — انظر المصدر الأصلي في الرابط
 
-[^26]: [https://www.wra.gov.tw/epaper/ArticleDetail.aspx?s=3114&n=30173](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=3114&n=30173) — 詳見原始連結內文資料補充
+[^26]: [https://www.wra.gov.tw/epaper/ArticleDetail.aspx?s=3114&n=30173](https://www.wra.gov.tw/epaper/Article_Detail.aspx?s=3114&n=30173) — انظر المصدر الأصلي في الرابط

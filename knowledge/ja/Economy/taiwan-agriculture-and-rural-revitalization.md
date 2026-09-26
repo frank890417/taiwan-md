@@ -240,18 +240,18 @@ translatedAt: '2026-09-21T00:58:24+08:00'
 
 [^3]: [農業部の農業統計資料照会](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — 農業部知識入口網
 
-[^5]: [全国法規データベース — 農村再生条例第7条](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=M0110017&flno=7) — 詳見原始連結內文資料補充
+[^5]: [全国法規データベース — 農村再生条例第7条](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=M0110017&flno=7) — 詳細はリンク先の原文を参照
 
-[^6]: [農業部農村発展局及び水土保持署](https://www.ardswc.gov.tw/) — 詳見原始連結內文資料補充
+[^6]: [農業部農村発展局及び水土保持署](https://www.ardswc.gov.tw/) — 詳細はリンク先の原文を参照
 
-[^7]: [農糧署 — 115年8月時点の有機栽培農家数と作付面積概況](https://www.afa.gov.tw/cht/index.php?code=list&ids=563) — 詳見原始連結內文資料補充
+[^7]: [農糧署 — 115年8月時点の有機栽培農家数と作付面積概況](https://www.afa.gov.tw/cht/index.php?code=list&ids=563) — 詳細はリンク先の原文を参照
 
 [^8]: [Wikipedia — 新埔柿餅祭](https://zh.wikipedia.org/zh-tw/新埔柿餅節) — 維基百科條目
 
 [^9]: [公視新聞 — 雲林大埤酸菜廃水が年間千トンに達し、台大との協力による液肥化の計画に関する報道](https://news.pts.org.tw/article/698144) — 公視新聞網
 
-[^10]: [茂林国家風景区管理処 — 禮納里部落に関する情報](https://www.maolin-nsa.gov.tw/zh-tw/attraction/119/) — 詳見原始連結內文資料補充
+[^10]: [茂林国家風景区管理処 — 禮納里部落に関する情報](https://www.maolin-nsa.gov.tw/zh-tw/attraction/119/) — 詳細はリンク先の原文を参照
 
-[^11]: [慈心有機農業開発基金会 — 慈心についての情報](https://toaf.org.tw/about) — 詳見原始連結內文資料補充
+[^11]: [慈心有機農業開発基金会 — 慈心についての情報](https://toaf.org.tw/about) — 詳細はリンク先の原文を参照
 
-[^12]: [有機農業推進センター — 2007年から2025年までの台湾の有機認証および環境配慮型耕作面積の成長傾向に関する資料](https://www.oapc.org.tw/20260824_organic-agricultural-land/) — 詳見原始連結內文資料補充
+[^12]: [有機農業推進センター — 2007年から2025年までの台湾の有機認証および環境配慮型耕作面積の成長傾向に関する資料](https://www.oapc.org.tw/20260824_organic-agricultural-land/) — 詳細はリンク先の原文を参照

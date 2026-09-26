@@ -178,21 +178,21 @@ _鳩がレース場を離れても、自動的に公共の問題になるわけ�
 
 ## 参考文献
 
-[^1]: [曹馥年、陳曉威、江世民、李法賢，〈一場未完成的公投後，賽鴿海翔300公里長征的賽制能否開啟討論空間？〉，報導者，2025-01-06](https://www.twreporter.org/a/racing-pigeon-conservation-referendum) — 詳見原始連結內文資料補充
+[^1]: [曹馥年、陳曉威、江世民、李法賢，〈一場未完成的公投後，賽鴿海翔300公里長征的賽制能否開啟討論空間？〉，報導者，2025-01-06](https://www.twreporter.org/a/racing-pigeon-conservation-referendum) — 詳細はリンク先の原文を参照
 
-[^2]: [曹馥年、陳曉威、江世民，〈人間「鴿」劇：空戰、策略戰、心理戰，與那些被賽鴿養活的人〉，報導者，2025-01-06](https://www.twreporter.org/a/racing-pigeon-industry) — 詳見原始連結內文資料補充
+[^2]: [曹馥年、陳曉威、江世民，〈人間「鴿」劇：空戰、策略戰、心理戰，與那些被賽鴿養活的人〉，報導者，2025-01-06](https://www.twreporter.org/a/racing-pigeon-industry) — 詳細はリンク先の原文を参照
 
 [^3]: [簡妤儒、黃亞晴，〈人人有機會的「公平」世界：賽鴿公平性的社會建構與效果〉，《台灣社會學》第32期，中央研究院社會學研究所，2016](https://www.ios.sinica.edu.tw/twSociologySingle.php?id=125&listId=22) — 中央研究院
 
 [^4]: [監察院，〈調查報告／糾正案文 101財正0051〉](https://www.cy.gov.tw/CyBsBoxContent.aspx?n=133&s=3664) — 監察院糾正報告
 
-[^5]: [苗栗縣動物保護防疫所，〈有關賽鴿活動涉及動保法之相關規定〉，轉載農業部函釋](https://animal.miaoli.gov.tw/News_Content.aspx?n=2186&s=782832) — 詳見原始連結內文資料補充
+[^5]: [苗栗縣動物保護防疫所，〈有關賽鴿活動涉及動保法之相關規定〉，轉載農業部函釋](https://animal.miaoli.gov.tw/News_Content.aspx?n=2186&s=782832) — 詳細はリンク先の原文を参照
 
-[^6]: [曹馥年、陳曉威，〈賽鴿變野鴿、餵養難禁絕，衍生鳥害問題何解？〉，報導者，2025-01-06](https://www.twreporter.org/a/racing-pigeon-into-the-wild) — 詳見原始連結內文資料補充
+[^6]: [曹馥年、陳曉威，〈賽鴿變野鴿、餵養難禁絕，衍生鳥害問題何解？〉，報導者，2025-01-06](https://www.twreporter.org/a/racing-pigeon-into-the-wild) — 詳細はリンク先の原文を参照
 
-[^7]: [曹馥年、陳曉威、曹馥年，〈鴿賽另一章：擄鴿歹徒、跑鴿同盟，天降「鳥財」的離島特殊生態〉，報導者，2025-01-06](https://www.twreporter.org/a/racing-pigeon-catcher-on-liuqiu-island) — 詳見原始連結內文資料補充
+[^7]: [曹馥年、陳曉威、曹馥年，〈鴿賽另一章：擄鴿歹徒、跑鴿同盟，天降「鳥財」的離島特殊生態〉，報導者，2025-01-06](https://www.twreporter.org/a/racing-pigeon-catcher-on-liuqiu-island) — 詳細はリンク先の原文を参照
 
-[^8]: [何宗勳，〈【2024年AVOT】為何要發起反對海上賽鴿公投〉，關懷生命協會，2025-02-12](https://www.lca.org.tw/article/21064) — 詳見原始連結內文資料補充
+[^8]: [何宗勳，〈【2024年AVOT】為何要發起反對海上賽鴿公投〉，關懷生命協會，2025-02-12](https://www.lca.org.tw/article/21064) — 詳細はリンク先の原文を参照
 
 ## Image sources
 

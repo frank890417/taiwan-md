@@ -146,29 +146,29 @@ Grab は中央社に対し、取引が承認されれば 2026 年下半年に取
 
 ### 參考資料
 
-[^1]: [《報導者》：平台外送員新制後職災風險更高，當國際規範保障日趨積極，勞動部能行動嗎？](https://www.twreporter.org/a/opinion-delivery-driver-labor-employment-occupational-accident) — 詳見原始連結內文資料補充
+[^1]: [《報導者》：平台外送員新制後職災風險更高，當國際規範保障日趨積極，勞動部能行動嗎？](https://www.twreporter.org/a/opinion-delivery-driver-labor-employment-occupational-accident) — 詳細はリンク先の原文を参照
 
 [^2]: [經濟部統計處：111 年餐飲業營業額及年增率雙創歷年新高](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=9&html=1&menu_id=18808&bull_id=11322) — 經濟部新聞稿
 
-[^3]: [社會創新平台：外送員的游牧人生：青旅床鋪上，300 公分高的家](https://startup.sme.gov.tw/sitaiwan/Home/citizensSay/view/1157) — 詳見原始連結內文資料補充
+[^3]: [社會創新平台：外送員的游牧人生：青旅床鋪上，300 公分高的家](https://startup.sme.gov.tw/sitaiwan/Home/citizensSay/view/1157) — 詳細はリンク先の原文を参照
 
-[^4]: [Airiti Library：加速社會的補缺行動：臺北食物外送員研究](https://www.airitilibrary.com/Article/Detail/10196684-N202305310007-00002) — 詳見原始連結內文資料補充
+[^4]: [Airiti Library：加速社會的補缺行動：臺北食物外送員研究](https://www.airitilibrary.com/Article/Detail/10196684-N202305310007-00002) — 詳細はリンク先の原文を参照
 
-[^5]: [交通部公路局：交通部跨機關聯合查核外送平台 維護交通安全](https://www.thb.gov.tw/News_Content_table.aspx?n=87&s=63099) — 詳見原始連結內文資料補充
+[^5]: [交通部公路局：交通部跨機關聯合查核外送平台 維護交通安全](https://www.thb.gov.tw/News_Content_table.aspx?n=87&s=63099) — 詳細はリンク先の原文を参照
 
-[^6]: [台灣勞工陣線：兩個外送員之死──平台經濟的不平等](https://labor.ngo.tw/articles/labor-views/2019-32) — 詳見原始連結內文資料補充
+[^6]: [台灣勞工陣線：兩個外送員之死──平台經濟的不平等](https://labor.ngo.tw/articles/labor-views/2019-32) — 詳細はリンク先の原文を参照
 
-[^7]: [司法院：釋字第 740 號](https://cons.judicial.gov.tw/jcc/zh-tw/jep03/show?expno=740) — 詳見原始連結內文資料補充
+[^7]: [司法院：釋字第 740 號](https://cons.judicial.gov.tw/jcc/zh-tw/jep03/show?expno=740) — 詳細はリンク先の原文を参照
 
-[^8]: [我的 E 政府：外送員、自由工作者的勞動權益報您知，讓您安心工作！](https://www.gov.tw/News_Content_26_703909) — 詳見原始連結內文資料補充
+[^8]: [我的 E 政府：外送員、自由工作者的勞動權益報您知，讓您安心工作！](https://www.gov.tw/News_Content_26_703909) — 詳細はリンク先の原文を参照
 
-[^9]: [報導者觀測站：外送平台管理與外送員權益](https://lawmaker.twreporter.org/congress/topic/topic8-3-4) — 詳見原始連結內文資料補充
+[^9]: [報導者觀測站：外送平台管理與外送員權益](https://lawmaker.twreporter.org/congress/topic/topic8-3-4) — 詳細はリンク先の原文を参照
 
 [^10]: [中央社：公平會正式受理 Grab 收購台灣 foodpanda，7 月底可望有結論](https://www.cna.com.tw/news/afe/202607010226.aspx) — 中央社報導
 
-[^11]: [公平交易委員會：Grab 與 foodpanda 結合案公平會延長審議期間至 115 年 10 月 27 日](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=18469) — 詳見原始連結內文資料補充
+[^11]: [公平交易委員會：Grab 與 foodpanda 結合案公平會延長審議期間至 115 年 10 月 27 日](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=18469) — 詳細はリンク先の原文を参照
 
-[^12]: [公平交易委員會：兩大外送平台結合，公平會喊卡！](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=17952) — 詳見原始連結內文資料補充
+[^12]: [公平交易委員會：兩大外送平台結合，公平會喊卡！](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=126&docid=17952) — 詳細はリンク先の原文を参照
 
 [^13]: [中央社：收購台灣 foodpanda，Grab：已向公平會遞交申請](https://www.cna.com.tw/news/afe/202603300285.aspx) — 中央社報導
 

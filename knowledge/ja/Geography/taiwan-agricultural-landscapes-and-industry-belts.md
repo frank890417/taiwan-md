@@ -162,15 +162,15 @@ translatedAt: '2026-09-21T00:58:24+08:00'
 
 [^2]: [農業政策と発展情報](https://www.moa.gov.tw/) — 農業部知識入口網（農業部知識入口網）
 
-[^3]: [農業産業発展関連情報](https://www.chcg.gov.tw/) — 詳見原始連結內文資料補充
+[^3]: [農業産業発展関連情報](https://www.chcg.gov.tw/) — 詳細はリンク先の原文を参照
 
-[^4]: [先住民農業と産業発展](https://www.taitung.gov.tw/) — 詳見原始連結內文資料補充
+[^4]: [先住民農業と産業発展](https://www.taitung.gov.tw/) — 詳細はリンク先の原文を参照
 
-[^5]: [公式ウェブサイト](https://www.ia.gov.tw/) — 農業部農田水利署（詳見原始連結內文資料補充）
+[^5]: [公式ウェブサイト](https://www.ia.gov.tw/) — 農業部農田水利署（詳細はリンク先の原文を参照）
 
-[^6]: [公式ウェブサイト](https://www.hl.gov.tw/) — 花蓮県政府農業処（詳見原始連結內文資料補充）
+[^6]: [公式ウェブサイト](https://www.hl.gov.tw/) — 花蓮県政府農業処（詳細はリンク先の原文を参照）
 
-[^7]: [〈嘉南大圳〉](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — 農業部農田水利署（詳見原始連結內文資料補充）
+[^7]: [〈嘉南大圳〉](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — 農業部農田水利署（詳細はリンク先の原文を参照）
 
 [^8]: [〈蓮霧に関する相場情報〉](https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4544) — 農業部食農教育情報統合プラットフォーム
 
@@ -178,4 +178,4 @@ translatedAt: '2026-09-21T00:58:24+08:00'
 
 [^10]: [〈中国の自給率低下による価格暴落、農林部が台湾のパイナップルシカ加工・転作を奨励〉](https://news.ltn.com.tw/news/life/breakingnews/5478936) — 自由時報報導, 2026-06-21 — 「輸出市場の95%は中国に集中」しており、2021年9月に中国が輸入を一時停止した後、転作と加工路線へと移行しました。
 
-[^11]: [〈109年度農林漁牧業普查予備統計結果〉](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — 行政院主計総処（詳見原始連結內文資料補充）
+[^11]: [〈109年度農林漁牧業普查予備統計結果〉](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — 行政院主計総処（詳細はリンク先の原文を参照）

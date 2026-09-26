@@ -134,78 +134,78 @@ Dies ist keine Geschichte von „schlechten Menschen sind Ratten“, sondern ein
 
 ## Quellen
 
-[^1]: [Sanli News Network, „Hantavirus-Tod! Luo Yi-chun bestätigt, warum es der erste Fall seit 25 Jahren in Da'an ist“](http://star.setn.com/News/1789105>) — 詳見原始連結內文資料補充
+[^1]: [Sanli News Network, „Hantavirus-Tod! Luo Yi-chun bestätigt, warum es der erste Fall seit 25 Jahren in Da'an ist“](http://star.setn.com/News/1789105>) — Details in der verlinkten Originalquelle
 
 [^2]: [Minshi Health and Long-Term Care Network, „Erster tödlicher Hantavirus-Fall in Da'an dieses Jahr – Ausschluss einer Eichhörnchenübertragung“](https://health.ftvnews.com.tw/news/detail/2026202W0159>) — 民視新聞報導
 
-[^3]: [CNA News Network, „Raohe Nachtmarkt mit ‚Mäuse essen Reisblut‘! Touristen sind fassungslos und beobachten“](http://ctinews.com/news/items/gOnLKb85xk>) — 詳見原始連結內文資料補充
+[^3]: [CNA News Network, „Raohe Nachtmarkt mit ‚Mäuse essen Reisblut‘! Touristen sind fassungslos und beobachten“](http://ctinews.com/news/items/gOnLKb85xk>) — Details in der verlinkten Originalquelle
 
 [^4]: [Central News Agency, „Mäuse in der Lebensmittelstraße des Einkaufszentrums in Xinyi – Gesundheitsamt inspiziert“](https://www.cna.com.tw/news/ahel/202406250345.aspx>) — 中央社報導
 
 [^5]: [Central News Agency, „Mäuse werden in Imbissläden in Ximending gesehen – Gesundheitsamt: Mängel müssen behoben werden“](https://www.cna.com.tw/news/ahel/202405310095.aspx>) — 中央社報導
 
-[^6]: [Taiwan Times, „Mäuse bei Speisen in Guanghua Nachtmarkt – Gesundheitsamt verhängt Bußgeld“](https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-2c2dfb01-dde0-4571-be39-9305d2587504>) — 詳見原始連結內文資料補充
+[^6]: [Taiwan Times, „Mäuse bei Speisen in Guanghua Nachtmarkt – Gesundheitsamt verhängt Bußgeld“](https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-2c2dfb01-dde0-4571-be39-9305d2587504>) — Details in der verlinkten Originalquelle
 
-[^7]: [ETV News, „Taipei Metro intensiviert Schädlingsbekämpfung von Ratten und führt Reinigung aller Stationen und Züge durch“](https://news.ebc.net.tw/news/living/536722>) — 詳見原始連結內文資料補充
+[^7]: [ETV News, „Taipei Metro intensiviert Schädlingsbekämpfung von Ratten und führt Reinigung aller Stationen und Züge durch“](https://news.ebc.net.tw/news/living/536722>) — Details in der verlinkten Originalquelle
 
 [^8]: [National Taiwan Library, Archivmaterial zur „Geschichte der Wasserversorgung in Taiwan“ (PDF).](https://www.ntl.edu.tw/public/Attachment/9527932429.pdf>) — 國立中央圖書館台灣分館
 
-[^9]: [National Archives of Taiwan, „Die Pest trifft – Die große Seuchenepidemie in Taiwan im Jahr 1896“.](https://www.th.gov.tw/Epaper_Content/236/5621/>) — 詳見原始連結內文資料補充
+[^9]: [National Archives of Taiwan, „Die Pest trifft – Die große Seuchenepidemie in Taiwan im Jahr 1896“.](https://www.th.gov.tw/Epaper_Content/236/5621/>) — Details in der verlinkten Originalquelle
 
-[^10]: [National Public Information Library, Hsu Chien-feng, „Der Kampf gegen ‚Eindämmung‘ und ‚Epidemie‘: Infektionskrankheiten und öffentliche Gesundheit in Taiwan von 1895 bis 1945“.](https://www.nlpi.edu.tw/JournalDetailC003313.aspx?Cond=bd87b64f-7812-4788-9e0e-9f2cee13ecc3>) — 詳見原始連結內文資料補充
+[^10]: [National Public Information Library, Hsu Chien-feng, „Der Kampf gegen ‚Eindämmung‘ und ‚Epidemie‘: Infektionskrankheiten und öffentliche Gesundheit in Taiwan von 1895 bis 1945“.](https://www.nlpi.edu.tw/JournalDetailC003313.aspx?Cond=bd87b64f-7812-4788-9e0e-9f2cee13ecc3>) — Details in der verlinkten Originalquelle
 
-[^11]: [Open Museum, Ausstellung über die Pest in der japanischen Kolonialzeit in Taiwan „Die Pest ist da?!“.](https://openmuseum.tw/muse/exhibition/b0fac9da38a24167aadf73d01e0a237e>) — 詳見原始連結內文資料補充
+[^11]: [Open Museum, Ausstellung über die Pest in der japanischen Kolonialzeit in Taiwan „Die Pest ist da?!“.](https://openmuseum.tw/muse/exhibition/b0fac9da38a24167aadf73d01e0a237e>) — Details in der verlinkten Originalquelle
 
 [^12]: [Wu Tsung-min (Wirtschaftsfakultät der National Taiwan University), Vorlesungsunterlagen zu „Pest und Malaria“ (PDF).](https://homepage.ntu.edu.tw/~ntut019/te400/bm-T4A-Mortality.pdf>) — 國立臺灣大學論文
 
-[^13]: [Ministry of Environment, Agency for Chemical Substance Management, „Informationsmaterial zur Schädlingsbekämpfung in Haushalten“.](https://www.cha.gov.tw/fp-89-1471-988a9-1.html>) — 詳見原始連結內文資料補充
+[^13]: [Ministry of Environment, Agency for Chemical Substance Management, „Informationsmaterial zur Schädlingsbekämpfung in Haushalten“.](https://www.cha.gov.tw/fp-89-1471-988a9-1.html>) — Details in der verlinkten Originalquelle
 
-[^14]: [Ministry of Environment, „Bekanntmachung über Schädlinge im Haushalt – Ökologie und Bekämpfung von Ratten“.](https://topic.moenv.gov.tw/evsu/cp-272-7955-c78eb-8.html>) — 詳見原始連結內文資料補充
+[^14]: [Ministry of Environment, „Bekanntmachung über Schädlinge im Haushalt – Ökologie und Bekämpfung von Ratten“.](https://topic.moenv.gov.tw/evsu/cp-272-7955-c78eb-8.html>) — Details in der verlinkten Originalquelle
 
-[^15]: [Ministry of Health and Welfare, CDC, Ji Jin-sheng et al., „Rattenüberwachung und -analyse in Kaohsiung von 2017 bis 2020“, Epidemiologische Nachrichten 39(19), 2023.](https://www.cdc.gov.tw/EpidemicTheme/Detail/zKNFqsVWxUoUqE6fyhmBNA?archiveId=1HfRGlaB9TX-6Li73MHTiQ>) — 詳見原始連結內文資料補充
+[^15]: [Ministry of Health and Welfare, CDC, Ji Jin-sheng et al., „Rattenüberwachung und -analyse in Kaohsiung von 2017 bis 2020“, Epidemiologische Nachrichten 39(19), 2023.](https://www.cdc.gov.tw/EpidemicTheme/Detail/zKNFqsVWxUoUqE6fyhmBNA?archiveId=1HfRGlaB9TX-6Li73MHTiQ>) — Details in der verlinkten Originalquelle
 
 [^16]: [CNA Afrikaechnische Schweinepest Seite, 〈Taiwanischer Fall: Afrikanische Schweinepest in Taichung; Tierarztbericht: Halter und Beamte kommen durchkommen und verursachen Schaden〉.](https://www.cna.com.tw/news/ahel/202512310049.aspx?topic=4836>) — 中央社報導
 
 [^17]: [CNA, 〈Haushaltsabfälle ab 2026 verboten für Schweinehaltung; Müllwagen der Metropole trennen keine Küchenabfälle mehr〉, 2025-12-31.](https://www.cna.com.tw/news/ahel/202512310049.aspx?topic=4836>) — 中央社報導
 
-[^18]: [Tson Daily News, 〈Haushaltsabfälle ab 2026 verboten für Schweinehaltung; Metropole: 126 Tonnen täglich werden zu Kompost〉, 2025-12-13.](https://news.ebc.net.tw/news/living/527063>) — 詳見原始連結內文資料補充
+[^18]: [Tson Daily News, 〈Haushaltsabfälle ab 2026 verboten für Schweinehaltung; Metropole: 126 Tonnen täglich werden zu Kompost〉, 2025-12-13.](https://news.ebc.net.tw/news/living/527063>) — Details in der verlinkten Originalquelle
 
-[^19]: [CTWANT, 〈Regierung entscheidet ab 2027 Verbot der Schweinehaltung mit Küchenabfällen; Metropole wird „keine Trennung von Rot- und Blahtonne“ mehr durchführen〉, 2025-12-07.](http://www.ctwant.com/article/460855/>) — 詳見原始連結內文資料補充
+[^19]: [CTWANT, 〈Regierung entscheidet ab 2027 Verbot der Schweinehaltung mit Küchenabfällen; Metropole wird „keine Trennung von Rot- und Blahtonne“ mehr durchführen〉, 2025-12-07.](http://www.ctwant.com/article/460855/>) — Details in der verlinkten Originalquelle
 
 [^20]: [Economic Daily News, 〈Zentralverbot der Schweinehaltung mit Küchenabfällen „hat Gegenmaßnahmen“; Umweltbüro der Metropole: Kostenlose Entsorgung bis 31.12.〉.](https://money.udn.com/money/story/7307/9182525>) — 經濟日報報導
 
-[^21]: [Taipei Environmental Protection Bureau, 〈Erweiterung der kostenlosen Entsorgung von Küchenabfällen aus nicht-haushaltsnaher Schweinehaltung in Metropole zur Bekämpfung der afrikanischen Schweinepest bis 06.12.〉.](https://www.dep.gov.taipei/News_Content.aspx?n=CB6D5C560DE4D2DD&s=A82C7AAB7FA65E31>) — 詳見原始連結內文資料補充
+[^21]: [Taipei Environmental Protection Bureau, 〈Erweiterung der kostenlosen Entsorgung von Küchenabfällen aus nicht-haushaltsnaher Schweinehaltung in Metropole zur Bekämpfung der afrikanischen Schweinepest bis 06.12.〉.](https://www.dep.gov.taipei/News_Content.aspx?n=CB6D5C560DE4D2DD&s=A82C7AAB7FA65E31>) — Details in der verlinkten Originalquelle
 
-[^22]: [WoWo Media, 〈Stadtverwaltung verwendet Gifte gegen Ratten, Experten: Der Schlüssel liegt im Müllmanagement und der Verhinderung von Eindringern〉, 2026.](https://wuo-wuo.com/report/instantnews/2410-taipei-rat-poison>) — 詳見原始連結內文資料補充
+[^22]: [WoWo Media, 〈Stadtverwaltung verwendet Gifte gegen Ratten, Experten: Der Schlüssel liegt im Müllmanagement und der Verhinderung von Eindringern〉, 2026.](https://wuo-wuo.com/report/instantnews/2410-taipei-rat-poison>) — Details in der verlinkten Originalquelle
 
-[^23]: [Taipei Environmental Protection Bureau, 〈Präzise Vergiftung in Metropole stärkt die Rattenbekämpfung; Umweltbüro: Verwendung umweltkonformer Mittel unter Berücksichtigung der Sicherheit von Haustieren〉.](https://www.dep.gov.taipei/News_Content.aspx?n=CB6D5C560DE4D2DD&s=51815F685CCBF74F>) — 詳見原始連結內文資料補充
+[^23]: [Taipei Environmental Protection Bureau, 〈Präzise Vergiftung in Metropole stärkt die Rattenbekämpfung; Umweltbüro: Verwendung umweltkonformer Mittel unter Berücksichtigung der Sicherheit von Haustieren〉.](https://www.dep.gov.taipei/News_Content.aspx?n=CB6D5C560DE4D2DD&s=51815F685CCBF74F>) — Details in der verlinkten Originalquelle
 
-[^24]: [Thai News Agency, 〈Rattenbekämpfung in Metropole – Vergiftung im Straßenbereich; Ministerium für Umwelt fordert dringend „drei Nichts zur Rattenprävention“: Die Umweltsanierung sollte Priorität haben〉, 2026-05-02.](https://www.taisounds.com/news/content/93/254655>) — 詳見原始連結內文資料補充
+[^24]: [Thai News Agency, 〈Rattenbekämpfung in Metropole – Vergiftung im Straßenbereich; Ministerium für Umwelt fordert dringend „drei Nichts zur Rattenprävention“: Die Umweltsanierung sollte Priorität haben〉, 2026-05-02.](https://www.taisounds.com/news/content/93/254655>) — Details in der verlinkten Originalquelle
 
-[^25]: [Taipei Environmental Protection Bureau, 〈FAQ zur Schädlingsbekämpfung von Hausratten〉.](https://www.dep.gov.taipei/News_Content.aspx?n=ACEFA960B5A4ACD7&s=E90ABD50C5436CAF>) — 詳見原始連結內文資料補充
+[^25]: [Taipei Environmental Protection Bureau, 〈FAQ zur Schädlingsbekämpfung von Hausratten〉.](https://www.dep.gov.taipei/News_Content.aspx?n=ACEFA960B5A4ACD7&s=E90ABD50C5436CAF>) — Details in der verlinkten Originalquelle
 
-[^26]: [Hong, S-Y. _et al._ 2019. "Frequent detection of anticoagulant rodenticides in raptors sampled in Taiwan reflects government rodent control policy." _Science of the Total Environment_. <](https://roadkill.tw/academic_report/177869>) — 詳見原始連結內文資料補充
+[^26]: [Hong, S-Y. _et al._ 2019. "Frequent detection of anticoagulant rodenticides in raptors sampled in Taiwan reflects government rodent control policy." _Science of the Total Environment_. <](https://roadkill.tw/academic_report/177869>) — Details in der verlinkten Originalquelle
 
 [^27]: [CCTV News Network, 〈Pingtung University: Rattengift tötet geschützte Vögel durch die Nahrungskette〉, 2019-10.](https://news.pts.org.tw/article/451975>) — 公視新聞網
 
-[^28]: [Upstream and Downstream News, 〈Rattenbekämpfungstag wird zu einem Unglückstag für Greifvögel; Landwirtschaftsministerium hebt „Mäusebekämpfungswoche“ auf zum Schutz von Adlern〉.](https://www.newsmarket.com.tw/blog/71684/>) — 詳見原始連結內文資料補充
+[^28]: [Upstream and Downstream News, 〈Rattenbekämpfungstag wird zu einem Unglückstag für Greifvögel; Landwirtschaftsministerium hebt „Mäusebekämpfungswoche“ auf zum Schutz von Adlern〉.](https://www.newsmarket.com.tw/blog/71684/>) — Details in der verlinkten Originalquelle
 
-[^29]: [Environmental Information Center, 〈Rattenbekämpfungswoche 40 Jahre lang Geschichte – basierend auf Wissenschaft statt Emotionen; Leiter des Präventionsbüros erklärt die Herkunft〉.](https://e-info.org.tw/node/214513>) — 詳見原始連結內文資料補充
+[^29]: [Environmental Information Center, 〈Rattenbekämpfungswoche 40 Jahre lang Geschichte – basierend auf Wissenschaft statt Emotionen; Leiter des Präventionsbüros erklärt die Herkunft〉.](https://e-info.org.tw/node/214513>) — Details in der verlinkten Originalquelle
 
-[^30]: [Sanli News Network, 〈Metropole veröffentlicht „Hotspots“ für Ratten und integriert „Vergiftungsinformationen“ zur Kenntnisnahme durch die Öffentlichkeit〉, 2026-05-04.](https://www.setn.com/News.aspx?NewsID=1833410>) — 詳見原始連結內文資料補充
+[^30]: [Sanli News Network, 〈Metropole veröffentlicht „Hotspots“ für Ratten und integriert „Vergiftungsinformationen“ zur Kenntnisnahme durch die Öffentlichkeit〉, 2026-05-04.](https://www.setn.com/News.aspx?NewsID=1833410>) — Details in der verlinkten Originalquelle
 
 [^31]: [Taiwan News Agency, „Ansprüche an die Schädlingsbekämpfung in der Hauptstadt: Jiang Wan-an kündigt konkrete Maßnahmen an“](https://www.cna.com.tw/news/aloc/202605040262.aspx>) — 中央社報導
 
-[^32]: [ETtoday News, „Ratten tauchen häufig in der Hauptstadt auf; Jiang Wan-an plant allgemeine Umweltreinigung“](https://news.ebc.net.tw/news/politics/549733>) — 詳見原始連結內文資料補充
+[^32]: [ETtoday News, „Ratten tauchen häufig in der Hauptstadt auf; Jiang Wan-an plant allgemeine Umweltreinigung“](https://news.ebc.net.tw/news/politics/549733>) — Details in der verlinkten Originalquelle
 
 [^33]: [ETtoday, „Die langsame Reaktion auf die Rattenprobleme in der Hauptstadt: Hsu Shu-hua fordert ein Meeting zwischen den Behörden“](https://www.ettoday.net/news/20260504/3159967.htm>) — ETtoday 新聞雲
 
 [^34]: [ETtoday, „Shen Bo-yang warnt vor Ratten in Taipeh! 3 große Schwachstellen enthüllt: Nicht nur Gift“](https://www.ettoday.net/news/20260501/3158875.htm>) — ETtoday 新聞雲
 
-[^35]: [ETtoday News, „Exklusiv/Rattenbefall hinter der ‚Restaurantstraße‘; Sorgen um die Hygiene der Nachbarschaft“](https://news.ebc.net.tw/news/living/536155>) — 詳見原始連結內文資料補充
+[^35]: [ETtoday News, „Exklusiv/Rattenbefall hinter der ‚Restaurantstraße‘; Sorgen um die Hygiene der Nachbarschaft“](https://news.ebc.net.tw/news/living/536155>) — Details in der verlinkten Originalquelle
 
-[^36]: [Dian-Guo Gesundheitsdienstzentrum von Da'an, Taipei, „Erster Fall des Hantavirus-Syndroms in Taiwan dieses Jahr: Bürger werden aufgefordert, zu Hause sauber zu halten und Maßnahmen zur Schädlingsbekämpfung umzusetzen“](https://www.dahc.gov.taipei/News_Content.aspx?n=40D7F69BAB446E13&s=05E35CB5710E7B4E>) — 詳見原始連結內文資料補充
+[^36]: [Dian-Guo Gesundheitsdienstzentrum von Da'an, Taipei, „Erster Fall des Hantavirus-Syndroms in Taiwan dieses Jahr: Bürger werden aufgefordert, zu Hause sauber zu halten und Maßnahmen zur Schädlingsbekämpfung umzusetzen“](https://www.dahc.gov.taipei/News_Content.aspx?n=40D7F69BAB446E13&s=05E35CB5710E7B4E>) — Details in der verlinkten Originalquelle
 
-[^37]: [Sanli News Health, „Warum gibt es ‚Rattenpanik‘ in der Stadt? Experten enthüllen die Übertragungskette des Hantavirus“](https://health.setn.com/News/1792090>) — 詳見原始連結內文資料補充
+[^37]: [Sanli News Health, „Warum gibt es ‚Rattenpanik‘ in der Stadt? Experten enthüllen die Übertragungskette des Hantavirus“](https://health.setn.com/News/1792090>) — Details in der verlinkten Originalquelle
 
 [^38]: [Liberty Health Network, „Hantavirus-Ausbruch in Da'an; Ärzte widerlegen ‚Eichhörnchen-Panik‘ und rufen zu Reinigung auf, um Leben zu retten“](https://health.ltn.com.tw/article/breakingnews/5329154>) — 自由時報報導

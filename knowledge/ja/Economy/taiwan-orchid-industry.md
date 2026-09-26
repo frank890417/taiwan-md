@@ -118,4 +118,4 @@ DUSは、Distinctness（区別性）、Uniformity（均一性）、Stability（�
 
 [^8]: [農業部：臺日簽署植物品種檢定報告書合作備忘錄 開啟合作新篇章](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=9638) — 農糧署 2024 年官方新聞，說明台日互相採認植物品種檢定報告、品種權審查時間、17 件海外品種權成果與海外申請成本。
 
-[^9]: [Wikimedia Commons：蝴蝶蘭 Phalaenopsis Taisuco Kobold－台南國際蘭展](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — 詳見原始連結內文資料補充
+[^9]: [Wikimedia Commons：蝴蝶蘭 Phalaenopsis Taisuco Kobold－台南國際蘭展](https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540) — 詳細はリンク先の原文を参照

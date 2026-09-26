@@ -160,8 +160,8 @@ Gambar seluruhnya diambil dari halaman berkas Wikimedia Commons, bukan hasil men
 
 [^7]: [20點也無解了！「奇摩知識+」宣布關閉 網淚喊：時代眼淚｜風傳媒](https://www.storm.mg/article/3587910) — 風傳媒專文
 
-[^8]: [電商震撼彈：統一宣布投資Yahoo台灣7.8億元，背後有何野望？｜關鍵評論網](https://www.thenewslens.com/article/198585) — 詳見原始連結內文資料補充
+[^8]: [電商震撼彈：統一宣布投資Yahoo台灣7.8億元，背後有何野望？｜關鍵評論網](https://www.thenewslens.com/article/198585) — Lihat sumber asli pada tautan
 
-[^9]: [File:Yahoo! Kimo logo 2019.png｜Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yahoo!_Kimo_logo_2019.png) — 詳見原始連結內文資料補充
+[^9]: [File:Yahoo! Kimo logo 2019.png｜Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yahoo!_Kimo_logo_2019.png) — Lihat sumber asli pada tautan
 
-[^10]: [File:Yahoo! Mail Logo (1997-2009).svg｜Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yahoo!_Mail_Logo_%281997-2009%29.svg) — 詳見原始連結內文資料補充
+[^10]: [File:Yahoo! Mail Logo (1997-2009).svg｜Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yahoo!_Mail_Logo_%281997-2009%29.svg) — Lihat sumber asli pada tautan

@@ -72,7 +72,7 @@ Dieser Artikel verwendet 3 CC-lizensierte Bilder, die alle in `public/article-im
 
 ## Referenzen
 
-[^1]: [Rache der taiwanesischen Graffiti-Künstler Reach und Break! Vom Straßenkunst zu vielfältiger Schöpfung](https://www.wowlavie.com/article/ae1902012) — WowLavie（詳見原始連結內文資料補充）
+[^1]: [Rache der taiwanesischen Graffiti-Künstler Reach und Break! Vom Straßenkunst zu vielfältiger Schöpfung](https://www.wowlavie.com/article/ae1902012) — WowLavie (Details in der verlinkten Originalquelle)
 
 [^3]: [Interview mit dem Graffiti-Künstler Dachang Wang: Im Inneren von Dachang ist Kot, und die Kunst auch.](https://www.heavenraven.com/2021/02/18/taiwan-graffiti-artist-horumonbaby426-interview/) — Heaven Raven
 
@@ -84,4 +84,4 @@ Dieser Artikel verwendet 3 CC-lizensierte Bilder, die alle in `public/article-im
 
 [^8]: [Kulturerbe und Postmoderne verschmelzen: „Kunsttourismus nicht abgeschlossen“ führt Sie durch den Filmthemenpark Taipeh](https://www.tpedoit.gov.taipei/ct.asp?xItem=238721969&ctNode=13246&mp=112001) — Tourismusförderungsbüro Taipeh
 
-[^9]: [Dachang Wang – der Künstlerfreund von Hatsumimi, der dicke taiwanesische Note aus zerknitterten Papieren holt](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi（詳見原始連結內文資料補充）
+[^9]: [Dachang Wang – der Künstlerfreund von Hatsumimi, der dicke taiwanesische Note aus zerknitterten Papieren holt](https://hatsumimi-mag.com/2021/08/05/friendoftheartist011/) — Hatsumimi (Details in der verlinkten Originalquelle)

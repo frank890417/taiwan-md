@@ -299,13 +299,13 @@ translatedAt: '2026-09-21T00:58:26+08:00'
 
 ## 참고 자료
 
-[^1]: [《중앙 관리 성 간 하천 기본 자료》](https://www.wra.gov.tw/cp.aspx?n=3164) — 경제부 수리국（詳見原始連結內文資料補充）
+[^1]: [《중앙 관리 성 간 하천 기본 자료》](https://www.wra.gov.tw/cp.aspx?n=3164) — 경제부 수리국 (자세한 내용은 링크된 원문 참조)
 
 [^2]: [《탁수계 유역 소개》](https://www.wra.gov.tw/wra04/cp.aspx?n=10967) — 수리국 제4하천지부
 
 [^4]: [〈사라지지 않는 가뭄의 악몽: 강우가 풍부한 타이완은 왜 여전히 가뭄 위기에 처해 있는가?〉](https://climate.cwa.gov.tw/ClimatePedia/detail_page/7) — 중앙기상청 기후 백과
 
-[^7]: [《하천 구역 및 수로 관리 계획 용도 범위 공고: 하천 구역을 중앙 관리 하천, 성 간 하천 및 현(市) 관리 하천으로 공고》](https://www.wra.gov.tw/wralaw/Law_Content.aspx?n=9279&s=10108&sms=9191) — 경제부 수리국（詳見原始連結內文資料補充）
+[^7]: [《하천 구역 및 수로 관리 계획 용도 범위 공고: 하천 구역을 중앙 관리 하천, 성 간 하천 및 현(市) 관리 하천으로 공고》](https://www.wra.gov.tw/wralaw/Law_Content.aspx?n=9279&s=10108&sms=9191) — 경제부 수리국 (자세한 내용은 링크된 원문 참조)
 
 [^8]: [〈저수지 건설의 유래〉](https://web.wra.gov.tw/jiji/cp.aspx?n=8792) — 수리국 집집 저수지 관리 센터
 
@@ -313,7 +313,7 @@ translatedAt: '2026-09-21T00:58:26+08:00'
 
 [^10]: [〈고병계 저수지〉](https://www.wra.gov.tw/wrasb/cp.aspx?n=31317) — 수리국 남부 수자원 지부
 
-[^11]: [〈발원지에서 바다까지, 아이하 30년 정화 완료로 북 가오슝 수변 새 장을 열다〉](https://www.cw.com.tw/article/5138055) — 詳見原始連結內文資料補充
+[^11]: [〈발원지에서 바다까지, 아이하 30년 정화 완료로 북 가오슝 수변 새 장을 열다〉](https://www.cw.com.tw/article/5138055) — 자세한 내용은 링크된 원문 참조
 
 [^12]: [〈담수 역사 건축—홍모성〉](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=331943) — 국가 문화 기억고（國家文化記憶庫）
 
@@ -329,7 +329,7 @@ translatedAt: '2026-09-21T00:58:26+08:00'
 
 [^19]: [〈고집 세지 않은 바나나 "바나나 왕국" 이야기의 시작〉](https://www.agriharvest.tw/archives/102002/) — 農傳媒專文（農傳媒專文）
 
-[^20]: [《115년도 원주민 세시 제의 휴가 날짜》](https://www.cip.gov.tw/data/news/202511/T-01814499.pdf) — 원주민위원회（詳見原始連結內文資料補充）
+[^20]: [《115년도 원주민 세시 제의 휴가 날짜》](https://www.cip.gov.tw/data/news/202511/T-01814499.pdf) — 원주민위원회 (자세한 내용은 링크된 원문 참조)
 
 [^21]: [〈종리화 문학 연표〉](https://cws.nmtl.gov.tw/home/zh-tw/chronology/550432) — 국립 타이완 문학관
 

@@ -247,9 +247,9 @@ translatedAt: '2026-09-21T00:58:26+08:00'
 
 [^8]: [〈타이완 다섯 가지 지형〉](https://tmrc.tiec.tp.edu.tw/HTML/RSR200811191906220FM/topographytaiwan/tai01.htm) — 타이베이시 교육자원센터
 
-[^9]: [〈중앙 관통 성시 하천 기본 자료〉](https://www.wra.gov.tw/cp.aspx?n=3164) — 경제부 수리국（詳見原始連結內文資料補充）
+[^9]: [〈중앙 관통 성시 하천 기본 자료〉](https://www.wra.gov.tw/cp.aspx?n=3164) — 경제부 수리국 (자세한 내용은 링크된 원문 참조)
 
-[^10]: [〈대만 해안 상세 소개〉](https://www.wra.gov.tw/News.aspx?n=3253&sms=9088) — 경제부 수리국（詳見原始連結內文資料補充）
+[^10]: [〈대만 해안 상세 소개〉](https://www.wra.gov.tw/News.aspx?n=3253&sms=9088) — 경제부 수리국 (자세한 내용은 링크된 원문 참조)
 
 [^11]: [〈20220917 관산 지진, 0918 취상 지진 지질 조사 보고〉](https://fault.gsmma.gov.tw/Reports/More/63cc5a4b2020403d9f79d3c33a7aba0c) — 경제부 지질조사 및 광업관리센터
 

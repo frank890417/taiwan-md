@@ -245,11 +245,11 @@ translatedAt: '2026-09-21T00:58:24+08:00'
 
 [^7]: [〈台湾地理知識百科〉](https://www.3people.com.tw/) — 三民輔考 (2025)。
 
-[^8]: [〈台湾五大地形〉](https://tmrc.tiec.tp.edu.tw/HTML/RSR200811191906220FM/topographytaiwan/tai01.htm) — 台北市教育資源中心（詳見原始連結內文資料補充）
+[^8]: [〈台湾五大地形〉](https://tmrc.tiec.tp.edu.tw/HTML/RSR200811191906220FM/topographytaiwan/tai01.htm) — 台北市教育資源中心（詳細はリンク先の原文を参照）
 
-[^9]: [〈中央管跨省市河川基本資料〉](https://www.wra.gov.tw/cp.aspx?n=3164) — 経済部水利署（詳見原始連結內文資料補充）
+[^9]: [〈中央管跨省市河川基本資料〉](https://www.wra.gov.tw/cp.aspx?n=3164) — 経済部水利署（詳細はリンク先の原文を参照）
 
-[^10]: [〈台湾海岸詳介〉](https://www.wra.gov.tw/News.aspx?n=3253&sms=9088) — 経済部水利署（詳見原始連結內文資料補充）
+[^10]: [〈台湾海岸詳介〉](https://www.wra.gov.tw/News.aspx?n=3253&sms=9088) — 経済部水利署（詳細はリンク先の原文を参照）
 
 [^11]: [〈20220917 關山地震、0918 池上地震地質調査報告〉](https://fault.gsmma.gov.tw/Reports/More/63cc5a4b2020403d9f79d3c33a7aba0c) — 経済部地質調査及鉱業管理局
 

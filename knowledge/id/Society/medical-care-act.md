@@ -405,9 +405,9 @@ Artikel ini menggunakan 7 gambar berlisensi CC / domain publik, disimpan di `pub
 
 [^12]: [Ministry of Health and Welfare Press Release: Medical Law Article 82 Amendment Passed Third Reading](https://www.mohw.gov.tw/cp-3569-39064-1.html) — Passed third reading at the Legislative Yuan on December 29, 2017, and officially implemented on January 24, 2018. Ministry of Health and Welfare's official explanation of the 'Dual Key Points' principle.
 
-[^13]: [Medical Law Article 82 (Current Text)](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=L0020021&flno=82) — 詳見原始連結內文資料補充
+[^13]: [Medical Law Article 82 (Current Text)](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=L0020021&flno=82) — Lihat sumber asli pada tautan
 
-[^14]: [Taiwan Medical Association: Medical Liability Rationalization Special Zone](https://www.tma.tw/Medical_Dispute/index-MedRational01.asp) — 詳見原始連結內文資料補充
+[^14]: [Taiwan Medical Association: Medical Liability Rationalization Special Zone](https://www.tma.tw/Medical_Dispute/index-MedRational01.asp) — Lihat sumber asli pada tautan
 
 [^15]: [Taylor & Francis Online - Medical Disputes in Taiwan: A 30-Year Analysis](https://www.tandfonline.com/doi/full/10.2147/IJGM.S312640) — Analysis of Taiwan's medical dispute resolution methods over 30 years. Criminal proceedings account for 79%. Taiwan's medical litigation rate is abnormally high internationally.
 
