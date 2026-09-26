@@ -33,8 +33,33 @@ Exit code: 0 = 沒有需要還原的 / 已還原；1 = 有無法安全處理的�
 import argparse
 import re
 import sys
+from collections import Counter
+from importlib import import_module
 from pathlib import Path
 from urllib.parse import unquote
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+_verify = import_module("verify-translation")  # URL_PATTERN：跟閘門第 11 檢查同一把尺
+
+# 網址的終止字元（閘門 URL_PATTERN 的否定字元類別）與尾端句讀
+_URL_STOPS = _verify.URL_PATTERN[len("https?://[^"):-2]
+_URL_TRAIL = ".,;:!?*_\\"
+
+
+def _url_tokens(text: str) -> list[str]:
+    """跟 verify-translation.extract_urls 同樣的切法，但不做反斜線還原——
+    這裡要拿 token 回原文替換，必須是原文裡真的出現的字串。"""
+    return [u.rstrip(_URL_TRAIL) for u in re.findall(_verify.URL_PATTERN, text)]
+
+
+def _split_fm(text: str) -> tuple[str, str]:
+    """回傳 (frontmatter 連同兩條 ---, 正文)；沒有 frontmatter 時前者為空字串。"""
+    m = re.match(r"---\n.*?\n---\n", text, re.S)
+    return (m.group(0), text[m.end():]) if m else ("", text)
+
+
+# 整條網址才算命中：後面只能接尾端句讀，然後是終止字元或檔尾
+_URL_END = "(?=[" + re.escape(_URL_TRAIL) + "]*(?:[" + _URL_STOPS + "]|$))"
 
 FOOTNOTE_DEF = re.compile(r"^\[\^([^\]]+)\]:\s*(.*)$")
 # markdown target `](URL)` 與 angle-wrapped `](<URL>)` 兩種都收。
@@ -271,16 +296,32 @@ def main() -> int:
     # 判準嚴到只認「幾乎就是同一條」：網域相同、長度相同、只差 1-3 個字元，
     # 而且那條正確網址在譯文裡找不到。差得多一點就不動——那可能是另一個來源，
     # 猜錯會把讀者送到錯的地方，比留著壞連結更糟。
-    text = "".join(tr_lines)
-    all_url = re.compile(r"https?://[^\s)\]<>\"']+")
-    zh_urls_all = set(all_url.findall(zh_text))
-    tr_urls_all = set(all_url.findall(text))
+    #
+    # 比對用次數而不是集合（2026-09-27 babel-nightly）：`[網址](網址)` 這種
+    # 連結文字與 href 同一條的寫法，只壞一邊時，好的那一邊讓集合以為「譯文裡有」，
+    # 壞的那一邊永遠不被修。〈台灣火鍋〉ar/hi/ru/vi 四語就是這樣帶著一碼竄改的
+    # 網址過了兩個月。替換也改成整條網址才算數：被截短的網址是正確網址的前綴，
+    # 用 str.replace 會把正確那條的開頭也換掉。
+    #
+    # 抽網址用閘門那把尺（verify-translation 第 11 檢查的 URL_PATTERN＋尾端句讀
+    # 剝除）。本層原本自帶一條只認空白與半形括號的 regex，會把 `…jpg`，授權為`
+    # 整段中文吞進 token，再被「前 60 字相同」誤配，把原稿的中文貼進譯文。
+    # 只比對正文（閘門也只比正文）：frontmatter 的引號風格兩側不同（zh 用 `"`、
+    # 譯文用 `'`），閘門的尺不把 `'` 當終止符，掃進 frontmatter 會把
+    # `imageSource: '…jpg'` 的收尾引號當成網址竄改「修」掉，YAML 直接壞。
+    fm, text = _split_fm("".join(tr_lines))
+    zh_count = Counter(_url_tokens(_split_fm(zh_text)[1]))
+    tr_count = Counter(_url_tokens(text))
+    zh_short = zh_count - tr_count   # 原稿有、譯文不夠次數的
+    tr_extra = tr_count - zh_count   # 譯文多出來、原稿沒有這麼多次的
     mangled = 0
-    for want in zh_urls_all - tr_urls_all:
+    for want in list(zh_short):
         host = want.split("/")[2] if want.count("/") > 2 else ""
         if not host:
             continue
-        for got in tr_urls_all - zh_urls_all:
+        for got in list(tr_extra):
+            if tr_extra[got] <= 0:
+                continue
             if not got.startswith(f"{want[:8]}{host}"):
                 continue
             # 兩種等價：(a) 解碼後完全相同——模型把 `(` 寫成 `%28` 這類正規化，
@@ -304,12 +345,25 @@ def main() -> int:
                 and got[:60] == want[:60]
                 and abs(len(got) - len(want)) <= 40
             )
-            if same_after_decode or near_miss or prefix_match:
-                text = text.replace(got, want)
-                mangled += 1
-                break
+            # 第四種形狀：查詢字串被整段丟掉，只剩路徑（連結文字最常見）。
+            # 要求 got 剛好停在 `?`／`&`／`#` 前——同一條路徑、只少了參數。
+            query_dropped = (
+                len(want) > len(got)
+                and want.startswith(got)
+                and want[len(got)] in "?&#"
+            )
+            if same_after_decode or near_miss or prefix_match or query_dropped:
+                n = min(zh_short[want], tr_extra[got])
+                token = re.compile(re.escape(got) + _URL_END)
+                text, done = token.subn(lambda _m: want, text, count=n)
+                if done:
+                    zh_short[want] -= done
+                    tr_extra[got] -= done
+                    mangled += done
+                if zh_short[want] <= 0:
+                    break
     if mangled:
-        tr_lines = text.splitlines(keepends=True)
+        tr_lines = (fm + text).splitlines(keepends=True)
         if not args.quiet:
             print(f"  全文層修復 {mangled} 個被改掉字元的網址（percent-encoding 竄改）")
 
