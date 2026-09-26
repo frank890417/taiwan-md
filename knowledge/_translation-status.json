@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T12:31:37+08:00",
-    "zhCommitHead": "073580c88",
+    "lastUpdated": "2026-09-26T12:31:51+08:00",
+    "zhCommitHead": "01bc0ff29",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1081,
+        "fresh": 1082,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 27,
+        "missing": 26,
         "orphan": 0
       },
       "ru": {
@@ -19172,8 +19172,8 @@
           "sourceContentHash": "sha256:24e5d0eeeb829e10",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:47:15.850306+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "073580c8",
+          "translationLastModified": "2026-09-26T12:31:26+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "bytes": 73453,
@@ -19713,8 +19713,8 @@
           "sourceContentHash": "sha256:012f47b06c66bfb9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:25:50.298892+00:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "073580c8",
+          "translationLastModified": "2026-09-26T12:31:26+08:00",
           "inferred": false,
           "footnoteDefs": 64,
           "bytes": 73140,
@@ -46748,8 +46748,8 @@
           "sourceContentHash": "sha256:71a07c5ea0f34a1e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:37:50.133622+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "073580c8",
+          "translationLastModified": "2026-09-26T12:31:26+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 79316,
@@ -50178,7 +50178,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/toll-station.md",
+          "translatedFrom": "Lifestyle/收費站.md",
+          "sourceCommitSha": "09ffe560f",
+          "sourceContentHash": "sha256:cffdc6c150dee65c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:27:38.542576+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 62871,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -115627,8 +115640,8 @@
           "sourceContentHash": "sha256:4de98c280e186c57",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T02:54:22.333377+00:00",
-          "translationLastCommit": "677cd01d",
-          "translationLastModified": "2026-09-22T01:05:52+08:00",
+          "translationLastCommit": "073580c8",
+          "translationLastModified": "2026-09-26T12:31:26+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 79411,
@@ -221965,7 +221978,7 @@
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 53317,
+          "bytes": 53319,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
