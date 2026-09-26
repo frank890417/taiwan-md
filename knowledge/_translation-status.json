@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T12:48:45+08:00",
-    "zhCommitHead": "148309310",
+    "lastUpdated": "2026-09-26T12:55:51+08:00",
+    "zhCommitHead": "47f99b3c7",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1111,
-        "stale": 9,
+        "fresh": 1112,
+        "stale": 8,
         "metadata_stale": 0,
         "missing": 4,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1084,
+        "fresh": 1085,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 27,
+        "missing": 26,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1082,
+        "fresh": 1083,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 26,
+        "missing": 25,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1074,
+        "fresh": 1075,
         "stale": 5,
         "metadata_stale": 0,
-        "missing": 45,
+        "missing": 44,
         "orphan": 0
       }
     },
@@ -1300,7 +1300,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
+          "translatedFrom": "Music/台灣樂器製造.md",
+          "sourceCommitSha": "b4f3dab63",
+          "sourceContentHash": "sha256:384848975d3b840a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:50:42.476751+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 46,
+          "bytes": 50620,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8198,11 +8211,11 @@
           "sourceContentHash": "sha256:1d88a269185c0f26",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T04:23:19.062130+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47f99b3c",
+          "translationLastModified": "2026-09-26T12:48:46+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 66460,
+          "bytes": 66462,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -19182,8 +19195,8 @@
           "sourceContentHash": "sha256:24e5d0eeeb829e10",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T04:16:19.729366+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47f99b3c",
+          "translationLastModified": "2026-09-26T12:48:46+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "bytes": 66492,
@@ -46771,8 +46784,8 @@
           "sourceContentHash": "sha256:71a07c5ea0f34a1e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:48:03.234302+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47f99b3c",
+          "translationLastModified": "2026-09-26T12:48:46+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 72922,
@@ -55453,8 +55466,8 @@
           "sourceContentHash": "sha256:caaea3b8ab3896dc",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:37:40.376849+00:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "47f99b3c",
+          "translationLastModified": "2026-09-26T12:48:46+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "bytes": 71414,
@@ -62043,7 +62056,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/who-counts-as-low-wage.md",
+          "translatedFrom": "Society/誰算低薪.md",
+          "sourceCommitSha": "b10ec653b",
+          "sourceContentHash": "sha256:7abbe410b7f9a4d8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:48:56.986224+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 65258,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -70355,12 +70381,12 @@
           "sourceCommitSha": "886779d83",
           "sourceContentHash": "sha256:1b46bb67f21432e0",
           "sourceBodyHash": "sha256:688a69633785627a",
-          "translatedAt": "2026-09-26T11:10:11+08:00",
+          "translatedAt": "2026-09-26T10:22:48+08:00",
           "translationLastCommit": "4895b938",
           "translationLastModified": "2026-09-26T11:18:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 13592,
+          "bytes": 13485,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74577,8 +74603,8 @@
           "sourceContentHash": "sha256:718e4da0518930ba",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:13:37.346498+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47f99b3c",
+          "translationLastModified": "2026-09-26T12:48:46+08:00",
           "inferred": false,
           "footnoteDefs": 57,
           "bytes": 83840,
@@ -79377,18 +79403,18 @@
         "es": {
           "path": "es/About/why-taiwan-needs-its-own-knowledge-base.md",
           "translatedFrom": "About/為什麼台灣需要自己的知識庫.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:62ec81a90f901dec",
-          "sourceBodyHash": "sha256:352de879384e19e9",
-          "translatedAt": "2026-06-16T17:10:37Z",
+          "sourceCommitSha": "b7dd78637",
+          "sourceContentHash": "sha256:20046b0bdaf571de",
+          "sourceBodyHash": "sha256:43aaf2c0f446a093",
+          "translatedAt": "2026-09-26T10:22:49+08:00",
           "translationLastCommit": "75479a4e",
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 6678,
+          "footnoteDefs": 25,
+          "bytes": 52753,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (25→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -143221,8 +143247,8 @@
           "sourceContentHash": "sha256:db74afff74180364",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:25:41.516894+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "47f99b3c",
+          "translationLastModified": "2026-09-26T12:48:46+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 81482,
@@ -193528,7 +193554,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/data-taiwan-22-cities.md",
+          "translatedFrom": "Geography/用數據看台灣22縣市.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:446265901543dd85",
+          "sourceBodyHash": "sha256:2daf1a831ec93084",
+          "translatedAt": "2026-09-26T10:22:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 29141,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/data-taiwan-22-cities.md",
@@ -195473,11 +195512,11 @@
           "sourceContentHash": "sha256:c4a4c2010dd95827",
           "sourceBodyHash": "sha256:605dca39a0b5b5c5",
           "translatedAt": "2026-09-26T10:22:49+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "47f99b3c",
+          "translationLastModified": "2026-09-26T12:48:46+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 68547,
+          "bytes": 68555,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
