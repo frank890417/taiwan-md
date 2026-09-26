@@ -246,6 +246,36 @@ def test_extract_prose_footnote_keeps_whole_text_and_armors_links():
     assert defs[2]["prose"] and defs[2]["desc"].startswith("散見於") and defs[2]["title"] == ""
 
 
+def test_prose_footnote_with_mid_sentence_autolink_keeps_text_after_url():
+    """〈台灣新冠疫情與疫苗〉[^85]（2026-09-26）：散文註句中夾 autolink。舊的裸 URL
+    分支把前文當 title、`\\S+` 把後面的中文吃進 URL、網址後的說明整段丟掉；模型把
+    長 title 挪進 desc 後驗證器報 title empty，十一語每個模型都卡死在這一條。"""
+    body = (
+        "[^85]: 原始連結目前已失效，故正文寫「接近四十八億則」。中研院觀察筆記"
+        "（<https://ai.iias.sinica.edu.tw/sms-contact-tracing-1/>）交叉確認上線日期，"
+        "但未載累計總量。"
+    )
+
+    d = MODULE.extract_footnote_defs(body)[0]
+
+    assert d["prose"] and d["title"] == "" and d["url"] == ""
+    assert "<@@LINK0@@>" in d["desc"] and d["desc"].endswith("但未載累計總量。")
+    assert d["_link_restore"] == [("@@LINK0@@", "https://ai.iias.sinica.edu.tw/sms-contact-tracing-1/")]
+    translated = {"85": {"title": "", "desc": d["desc"].replace("但未載累計總量", "but no total")}}
+    assert MODULE.validate_footnotes([d], translated) == []
+
+
+def test_bare_citation_url_at_end_still_parses_as_title_and_url():
+    """回歸保護：「標題 網址」且網址是最後一樣東西，仍走原本的 title+url 路徑。"""
+    body = "[^4]: 行政院新聞稿 https://www.ey.gov.tw/Page/9277F759E41CCD91/abc。"
+
+    d = MODULE.extract_footnote_defs(body)[0]
+
+    assert not d["prose"]
+    assert d["title"] == "行政院新聞稿"
+    assert d["url"] == "https://www.ey.gov.tw/Page/9277F759E41CCD91/abc"
+
+
 def test_prose_footnote_roundtrip_validates_and_assembles_verbatim_shape():
     body = "[^1]: 報時光：[被周杰倫買走](https://time.udn.com/a) — 報導 TPA 奪冠。"
     defs = MODULE.extract_footnote_defs(body)

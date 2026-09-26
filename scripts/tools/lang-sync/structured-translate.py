@@ -592,7 +592,36 @@ def _protect_embedded_links(text: str) -> tuple[str, list[tuple[str, str]]]:
         return f"[{m.group(1)}]({token})"
 
     protected = EMBEDDED_LINK_RE.sub(repl, text)
+
+    # 2026-09-26：CommonMark autolink `<https://…>` 也上裝甲。散文型腳註裡這是
+    # 最常見的網址寫法（〈台灣新冠疫情與疫苗〉[^85]），而上面只認 [文字](網址)。
+    # 角括號是明確的邊界，所以只收這一種；句中裸網址的邊界（括號、標點）有歧義，
+    # 猜錯會把半截網址鎖進 token，交給下游 URL multiset 閘門比較安全。
+    def repl_auto(m: re.Match) -> str:
+        idx = len(items)
+        token = f"@@LINK{idx}@@"
+        items.append((token, m.group(1)))
+        return f"<{token}>"
+
+    protected = AUTOLINK_RE.sub(repl_auto, protected)
     return protected, items
+
+
+AUTOLINK_RE = re.compile(r"<(https?://[^<>\s]+)>")
+# 網址本體的字元：可見 ASCII，扣掉 autolink 的角括號。中文與全形標點一律視為網址結束。
+_URL_BODY_RE = re.compile(r"https?://[!-;=?-~]+")
+# 網址後面可以只剩這些收尾符號而仍算「標題 網址」型引註。
+_URL_TAIL_PUNCT = " \t>)）」』】。．.，,、；;：:!?！？"
+
+
+def _url_sits_inside_prose(rest: str, url_start: int) -> bool:
+    """網址之後還有實質文字＝它是散文的一部分，不是「標題 網址」引註。
+
+    只看網址之後：網址前面有長文是這兩種腳註共同的長相（標題本來就在前面），
+    分不出來；分得出來的是後面——引註的網址是最後一樣東西，散文的網址後面還有句子。"""
+    m = _URL_BODY_RE.match(rest, url_start)
+    end = m.end() if m else url_start
+    return bool(rest[end:].strip(_URL_TAIL_PUNCT))
 
 
 def _restore_embedded_links(text: str, items: list[tuple[str, str]]) -> str:
@@ -669,7 +698,18 @@ def extract_footnote_defs(body: str) -> list[dict]:
                 title, url, desc = "", "", rest
             else:
                 url_m = re.search(r"https?://\S+", rest)
-                if url_m:
+                if url_m and _url_sits_inside_prose(rest, url_m.start()):
+                    # 2026-09-26：散文註裡夾一個網址（〈台灣新冠疫情與疫苗〉[^85]：
+                    # 「…中研院人工智慧行動網觀察筆記（<https://…/>）交叉確認上線
+                    # 日期…」）。下面的裸 URL 分支假設「標題 網址」，於是整段前文變
+                    # title、`\S+` 一路吃進後面的中文當 URL、網址之後的整段說明直接
+                    # 丟掉；模型把長 title 挪進 desc，驗證器報 title empty，整篇
+                    # 不寫檔——同一篇十一語、每個模型都卡在同一條，付費 lane 首兩次
+                    # 呼叫就是這樣各燒掉四、五分鐘。網址後面還有句子＝它是散文的
+                    # 一部分，整條走散文路徑（URL 由 _protect_embedded_links 的
+                    # autolink 裝甲保護）。
+                    title, url, desc = "", "", rest
+                elif url_m:
                     url = url_m.group(0).rstrip(".,，。、")
                     title, desc = rest[: url_m.start()].strip(" —-"), ""
                 else:
