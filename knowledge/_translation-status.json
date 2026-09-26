@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T12:47:09+08:00",
-    "zhCommitHead": "510b38d44",
+    "lastUpdated": "2026-09-26T12:48:45+08:00",
+    "zhCommitHead": "148309310",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1104,
+        "fresh": 1105,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "hi": {
@@ -16752,8 +16752,8 @@
           "sourceContentHash": "sha256:eb1f2fbc4c3c85c3",
           "sourceBodyHash": "sha256:e4265d915ae6599c",
           "translatedAt": "2026-09-26T10:22:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "14830931",
+          "translationLastModified": "2026-09-26T12:47:09+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 40351,
@@ -61973,8 +61973,8 @@
           "sourceContentHash": "sha256:7abbe410b7f9a4d8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:13:23.403739+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "14830931",
+          "translationLastModified": "2026-09-26T12:47:09+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 44536,
@@ -62024,7 +62024,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/who-counts-as-low-wage.md",
+          "translatedFrom": "Society/誰算低薪.md",
+          "sourceCommitSha": "b10ec653b",
+          "sourceContentHash": "sha256:7abbe410b7f9a4d8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:46:03.584283+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 47477,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -99243,8 +99256,8 @@
           "sourceContentHash": "sha256:1a1a9598d9221fe9",
           "sourceBodyHash": "sha256:74a863b5d0baa755",
           "translatedAt": "2026-09-26T10:22:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "14830931",
+          "translationLastModified": "2026-09-26T12:47:09+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 34056,
@@ -138183,8 +138196,8 @@
           "sourceContentHash": "sha256:a830e3b88da8731a",
           "sourceBodyHash": "sha256:d47891ab6b5fa242",
           "translatedAt": "2026-09-26T10:22:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "14830931",
+          "translationLastModified": "2026-09-26T12:47:09+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 36285,
@@ -183787,8 +183800,8 @@
           "sourceContentHash": "sha256:0efe004ac219c7e1",
           "sourceBodyHash": "sha256:60dbc011718fc443",
           "translatedAt": "2026-09-26T10:22:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "14830931",
+          "translationLastModified": "2026-09-26T12:47:09+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 30962,
