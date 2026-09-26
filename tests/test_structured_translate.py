@@ -634,3 +634,29 @@ def test_call_json_recovers_array_broken_by_inner_quote():
     assert [x["n"] for x in data] == ["1", "2"]
     assert data[0]["title"] == "Zeitung „Zitat“"
     assert metrics["calls"][0].get("quote_repair") is True
+
+
+def test_footnote_title_brackets_normalized_before_validation():
+    """2026-09-26：Phase N 驗證失敗 131/154 次是 title contains markdown/newline——模型把
+    全形【隨筆】譯成 ASCII `[Essay]`。標點層機械轉成圓括號，不讓整篇因此不寫檔。"""
+    import json
+
+    body = "[^3]: [Chris Wang：【隨筆】英文名字（Medium, 2017）](https://chris916.medium.com/x) — 個人部落格隨筆。"
+    defs = MODULE.extract_footnote_defs(body)
+
+    class Backend:
+        name = "stub"
+
+        def translate(self, _system, user, **_kwargs):
+            payload = json.loads(user)
+            return json.dumps([{"n": p["n"], "title": "Chris Wang: [Essay] English\nnames (Medium, 2017)",
+                                "desc": "Personal blog essay."} for p in payload])
+
+    out = MODULE.translate_footnotes(defs, "de", Backend(), {"calls": []})
+
+    assert out["3"]["title"] == "Chris Wang: (Essay) English names (Medium, 2017)"
+    assert MODULE.validate_footnotes(defs, out) == []
+
+
+def test_footnote_title_with_embedded_link_is_left_for_validator():
+    assert MODULE._normalize_footnote_title("[Foo](https://x.y)") == "[Foo](https://x.y)"

@@ -996,8 +996,27 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
                 # 散文型腳註沒有 title 槽位；模型若自作主張填一個，組回去會多出
                 # 一段原文沒有的字。只收 desc。
                 title = ""
+            else:
+                title = _normalize_footnote_title(title)
             out[d["n"]] = {"title": title, "desc": desc}
     return out
+
+
+def _normalize_footnote_title(title: str) -> str:
+    """譯出的腳註標題裡的方括號換成圓括號、換行換成空白。
+
+    2026-09-26：Phase N 驗證失敗有 131／154 次是「title contains markdown/newline」，
+    09-20 起每個模型、每個語言都有，整篇因此不寫檔。追一例：〈台灣人小時候的英文名字〉
+    [^3] 原文標題「Chris Wang：【隨筆】英文名字」，模型把全形的【隨筆】譯成 `[Essay]`
+    ——譯法沒錯，只是 ASCII 方括號放進 `[標題](網址)` 的連結文字會跟連結語法打架，
+    所以驗證器擋下。這是標點層的機械轉換，不需要模型重來一次：`[Essay]` → `(Essay)`
+    意思不變、連結文字安全。
+    標題裡出現 `](` 或網址時不動它：那是模型把整條連結塞進標題（網址從沒進過 prompt，
+    它只可能是編的），讓驗證器照舊擋下。"""
+    if "](" in title or "http" in title:
+        return title
+    t = re.sub(r"\s*\n\s*", " ", title).strip()
+    return t.replace("[", "(").replace("]", ")")
 
 
 def validate_footnotes(defs: list[dict], translated: dict) -> list[str]:
