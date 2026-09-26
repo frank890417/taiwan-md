@@ -1,6 +1,6 @@
 ---
-title: 'Threads di Taiwan: Dari Makanan Pengganti Twitter hingga Medan Pertempuran Utama Budaya "Crispy"'
-description: 'Ketika antusiasme pengguna global terhadap Threads mendingin, Taiwan justru menempuh jalan yang berbeda—3,5 juta pengguna, pasar terbesar kedua di dunia, dan waktu penggunaan tertinggi. Di sini, menjadi alun-alun publik digital bagi generasi Z untuk bersuara secara nyata, politisi "turun ke dunia", dan perayaan meme, yang mendefinisikan ulang ekosistem media sosial Taiwan.'
+title: 'Threads di Taiwan: Dari "Aku Makan Sedikit" hingga Kartu Pelajar Mesir, Bagaimana Satu Dinding Dinamis Tumbuh Menjadi Pasar Malam Digital'
+description: 'Akhir 2025, sebuah kartu pelajar Universitas Taiwan yang ditemukan di dekat Sphinx Mesir diubah menjadi pencarian lintas negara di Threads; di dinding dinamis yang sama, foto makanan wisatawan Jepang dan Korea akan menarik kucing yang berkata "Halo, aku makan sedikit". "Kerapuhan" Taiwan menggabungkan postingan sampah, saling membantu, meme, dan diskusi publik menjadi satu, membiarkan orang asing duduk sebentar di meja yang sama, kemudian meneruskan cerita ke tempat yang jauh.'
 date: 2026-03-24
 category: 'Technology'
 tags:
@@ -8,371 +8,627 @@ tags:
     'Media Sosial',
     'Budaya Digital',
     'Threads',
-    'Generasi Z',
-    'Komunikasi Politik',
-    'Forum Online',
+    'Meme',
+    'Saling Membantu Online',
+    'Budaya Pemuda',
   ]
 subcategory: '社群與數位文化'
-author: 'Editorial Team'
+author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-24
+lastVerified: 2026-08-14
 lastHumanReview: false
-readingTime: 15
+readingTime: 45
+curation: 'incubating'
 translatedFrom: 'Technology/Threads在台灣.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b344ec326785b46d'
-sourceBodyHash: 'sha256:a5b8490e2fd9be42'
-translatedAt: '2026-07-26T21:33:21+08:00'
+sourceCommitSha: '9094012f4'
+sourceContentHash: 'sha256:bbdb130f551a69e8'
+translatedAt: '2026-09-26T05:28:29.922907+00:00'
 ---
 
-# Threads di Taiwan: Dari Makanan Pengganti Twitter hingga Medan Pertempuran Utama Budaya "Crispy"
+# Threads di Taiwan: Dari "Saya Makan Sedikit" hingga Kartu Pelajar di Mesir, Bagaimana Satu Dinding Dinamis Tumbuh Menjadi Pasar Malam Digital
 
-## Ritual Digital di Malam Hari
+Pada 27 Desember 2025, seorang wisatawan menemukan kartu pelajar mahasiswa Jurusan Keuangan dan Ekonomi Universitas Nasional Taiwan di dekat Sphinx Mesir. Dia meninggalkan pesan di Threads: akan segera pergi ke Bandara Kairo, bisa bertemu langsung atau membantu membawanya kembali ke Taiwan. Postingan pencarian ini telah mengumpulkan 3,8 juta kali penayangan, 179.000 suka, dan 26.300 kali dibagikan pada saat artikel ini diperiksa terakhir kali.[^1]
 
-Pukul dua pagi, seorang mahasiswa di Taipei berbaring di tempat tidur asrama, secara refleks membuka ponselnya. Bukan Instagram, bukan TikTok, melainkan Threads—atau seperti yang ia dan teman-temannya sebut, "Crispy" (脆). Ia secara sembarangan memposting: "Laporan akhir semester belum selesai, tapi suara mendengkur teman sekamar lebih membuat saya hancur." Dalam tiga menit, belasan orang asing membalas; ada yang menghibur, ada yang berbagi pengalaman serupa, ada yang sekadar ikut-ikutan.
+Postingan itu tidak menjelaskan seberapa jauh Mesir dari Taipei, juga tidak mengemas dirinya sebagai tindakan amal. Postingan itu hanya menempatkan sebuah kartu, sebuah lokasi, dan seseorang yang akan segera naik pesawat di dinding dinamis. Beberapa jam kemudian, pengguna internet Taiwan mulai membagikan ulang, menandai, dan menebak pemilik yang hilang. Sebuah kesepakatan "membantu memperluas jangkauan" yang tidak ada dalam syarat layanan apa pun tercipta dengan cara ini.
 
-Adegan malam yang tampaknya biasa ini terus berulang di seluruh Taiwan. Ketika antusiasme pengguna di tempat lain di dunia terhadap Threads mulai mendingin, Taiwan secara tidak terduga menjadi pengadopsi paling antusias dari platform ini.
+> **Ikhtisar 30 detik:** Threads di Taiwan bukan hanya medan pertempuran teks saat pemilihan, juga bukan etalase pemasaran merek yang menangkap momen viral. Threads lebih seperti pasar malam digital yang selalu buka: ada yang memposting omong kosong untuk mencoba keberuntungan, ada yang meminta orang asing membantu mencari barang hilang, ada yang meninggalkan komentar "Halo, saya makan sedikit" pada foto makanan wisatawan Jepang dan Korea. Alat iklan Meta menunjukkan Taiwan dapat menjangkau 6,65 juta pengguna Threads, tetapi ini bukan jumlah pengguna aktif; yang benar-benar perlu dipahami adalah bagaimana platform ini memasukkan obrolan bertekanan rendah, saling membantu lokal, terjemahan meme, dan pernyataan publik ke dalam satu dinding dinamis.[^2]
 
----
+## Peta Bacaan: Jangan Hanya Membaca "Threads" sebagai Satu Platform Meme
 
-## Keajaiban Taiwan yang Melawan Intuisi
+Ini bukan daftar yang menunjuk satu per satu tren populer, juga bukan nyanyian pujian tentang bagaimana orang Taiwan tiba-tiba menjadi lebih antusias. Teks ini mencoba menempatkan perilaku yang tampak tidak terkait dalam satu aliran yang sama: ada yang bertanya tentang tisu toilet, ada yang menemukan kembali kartu pelajar yang hilang di Mesir. Ada yang menggunakan tantangan katak dengan angka, ada yang menggunakan "tinggalkan untuk teman lihat" untuk meninggalkan petunjuk bagi teman; ada yang melakukan patroli merek di bagian komentar, juga ada yang baru menyadari setelah akun ditangguhkan bahwa hubungan yang mereka kumpulkan tidak bisa dipindahkan. Peta bacaan berikut menandai enam tingkat artikel; pembaca tidak perlu membaca dari awal hingga akhir, tetapi dapat memasuki dari fenomena yang paling mereka perhatikan.
 
-**Negara yang paling menyukai Threads di seluruh dunia bukanlah Amerika Serikat, melainkan Taiwan.**
+| Tingkat Bacaan                       | Pertanyaan Utama                                                                                               | Bagian yang Sesuai                                                                                      | Hal yang Paling Mudah Diabaikan saat Membaca                                                                              |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Platform dan Pintu Masuk             | Mengapa pengguna Taiwan berpindah dari Instagram, X, Facebook, PTT, Dcard, dan tempat lain ke Threads?         | Angka basis, perbandingan platform, penamaan "Threads"                                                  | Jangkauan, lalu lintas, pengguna aktif, dan populasi pengguna bukan statistik yang sama                                   |
+| Bahasa dan Meme                      | Mengapa satu kalimat, satu gambar bisa menjadi template yang ditangani banyak orang?                           | Ketidaksetujuan sekolah dimulai, kompetisi besar, katak, tinggalkan untuk teman lihat, ven, besok libur | Menangkap meme tidak sama dengan mendukung postingan asli, juga tidak sama dengan memahami sumbernya dan batasannya       |
+| Saling Membantu dengan Koneksi Lemah | Mengapa barang hilang, paspor, tisu toilet, dan pertanyaan lokal dapat dengan cepat menghubungkan orang asing? | Kartu pelajar Mesir, paspor lintas negara, permintaan sehari-hari, informasi lokal                      | Kasus sukses mudah terlihat, tetapi tidak dapat menggantikan polisi, stasiun, maskapai penerbangan, dan prosedur konsuler |
+| Kehidupan dan Konsumsi               | Bagaimana toko kecil, kreator, dan editor merek dapat terlihat di aliran?                                      | Patroli laut, penerimaan proyek, rekomendasi dan perdagangan, meme makanan                              | Interaksi tinggi adalah dapat disebarkan, bukan jaminan kualitas, harga, atau keamanan transaksi                          |
+| Diskusi Publik                       | Bagaimana politik, informasi bencana, dan identitas memasuki aliran yang sama?                                 | Platform pilihan, penggalian teks lama                                                                  | Kecepatan interaksi cepat, tidak berarti verifikasi fakta juga selesai bersamaan                                          |
+| Tata Kelola Platform                 | Bagaimana penangguhan akun, algoritma, akun palsu, dan balasan AI mengubah risiko pengguna?                    | Penangguhan, bot tentara siber, @meta.ai, penyimpanan                                                   | Yang benar-benar rapuh bukan satu postingan, tetapi akun, hubungan, dan ketertelusuran                                    |
 
-Kesimpulan ini terasa mengejutkan. Threads milik Meta diluncurkan pada Juli 2023, dipandang sebagai pesaing langsung Twitter (sekarang X). Di Amerika Serikat, ia mengalami pertumbuhan ledakan yang kemudian mendingin dengan cepat; di Eropa, peluncurannya bahkan tertunda karena masalah regulasi. Namun di Taiwan, Threads menempuh jalur yang sangat berbeda.
+Peta ini juga menjelaskan posisi dasar artikel: **Threads di Taiwan seperti pasar malam digital, bukan karena tidak memiliki aturan, tetapi karena aturan formal, urutan platform, kesepakatan pengguna, media berita, dan balasan bergurau semuanya beroperasi bersamaan.** Tidak ada satu kasus pun yang harus diambil sendiri untuk membuktikan "orang Taiwan memang seperti itu". Kasus-kasus ini lebih cocok digunakan untuk melihat bagaimana kondisi bagi orang asing untuk bergabung, bagi seorang editor untuk merespons, bagi postingan lama untuk bangkit kembali, semuanya disusun bersama.
 
-**Angka berbicara:**
+## Jangan Terburu-buru Berteriak Nomor Satu Dunia, Angka 6,65 Juta Itu Apa?
 
-- **3,5 juta pengguna**: Jumlah pengguna yang diestimasi di Taiwan, menempati pasar terbesar kedua di dunia (hanya setelah Amerika Serikat)
-- **Juara waktu penggunaan global**: Rata-rata durasi penggunaan pengguna Taiwan berada di urutan pertama dunia
-- **300 juta pengguna aktif bulanan global**: Hingga akhir 2024, pengguna aktif bulanan global Threads menembus 300 juta
-- **Unduhan tercepat 150 juta dalam sejarah**: Menurut data.ai Intelligence, menjadi aplikasi tercepat yang mencapai tonggak sejarah ini
+Threads sangat menonjol di Taiwan, namun sering digambarkan terlalu datar dengan satu kalimat "paling dicintai secara global". Meta mengumumkan pada Juni 2026 bahwa Threads telah mencapai 500 juta pengguna aktif bulanan. DataReportal, berdasarkan estimasi alat iklan Meta, memperkirakan bahwa pada akhir 2025, platform dapat menjangkau 6,65 juta pengguna di Taiwan, sekitar 28,8% dari total populasi Taiwan dan 29,8% dari pengguna internet.[^2] [^3]
 
-Yang lebih mengejutkan, netizen Taiwan menciptakan nama panggilan khusus untuk platform ini: **"Crispy"** (脆) (mengambil bunyi yang mirip dengan Threads), panggilan yang membawa keakraban lokal, menandai lokalisasi penuh platform tersebut.
+Kedua angka ini tidak dapat langsung dikurangkan, dibagi, atau disusun menjadi peringkat negara. Yang pertama adalah pengguna aktif bulanan global yang diumumkan Meta; yang kedua adalah audiens yang dapat dijangkau oleh sistem iklan. DataReportal secara khusus mengingatkan bahwa jangkauan iklan bukanlah MAU atau DAU, dan juga dapat dipengaruhi oleh beberapa akun, lokasi, dan koreksi data platform. Dengan membaca metrik dengan benar, barulah kita dapat melihat tempat yang benar-benar menarik dari fenomena Taiwan: bukan "semua orang pindah ke sini", melainkan sekelompok besar orang bersedia meninggalkan kalimat pendek di sini, merespons percakapan dengan orang asing, membiarkan konten bertemu lebih dulu daripada hubungan yang sudah ada.[^3]
 
----
+### 21% Lalu Lintas Bukan 21% Pengguna: Empat Angka Menjawab Empat Hal Berbeda
 
-## Dekonstruksi Budaya "Crispy": Mengapa Orang Taiwan Mencintai Threads?
+"Taiwan berkontribusi lebih dari seperlima lalu lintas global Threads" terdengar seperti bukti yang lebih kuat, tetapi juga perlu diurai. Semrush dalam panel lalu lintas web `threads.net` pada Juni 2026 mencantumkan Taiwan sebagai sekitar **21,24%** dari sumber lalu lintas menurut negara. Ini menunjukkan bahwa Taiwan memiliki proporsi yang sangat tinggi dalam tampilan situs yang diukur oleh alat ini, tetapi bukan jumlah akun yang diumumkan Meta, MAU Taiwan, waktu penggunaan Aplikasi, dan apalagi dapat disimpulkan sebagai "dari setiap lima pengguna Threads global, satu berada di Taiwan".[^55] Cakupan layanan analitik web, cookie, perangkat, rasio lalu lintas Aplikasi dan web semuanya akan mempengaruhi hasil. Ini adalah bukti pendukung untuk memahami intensitas penggunaan atau konsentrasi lalu lintas, bukan sensus populasi.
 
-### 1. Pelarian dari Kelelahan "Kemasan Rapi"
+```tw-stat
+6,65 juta | Audiens yang dapat dijangkau iklan Taiwan akhir 2025 | Bukan MAU/DAU
+17,5% | Pengguna media sosial yang sering menggunakan Threads | MIC, survei 2025
+44% | Pengguna media sosial berusia 18–24 tahun yang sering menggunakan Threads | Pengelompokan usia survei yang sama
+21,24% | Lalu lintas web `threads.net` berasal dari Taiwan | Semrush, Juni 2026; bukan jumlah akun atau penggunaan Aplikasi
+Sumber: DataReportal, MIC, Semrush
+```
 
-Bagi generasi Z Taiwan, Instagram telah berubah menjadi "panggung pertunjukan"—setiap foto harus sempurna, setiap _story_ harus bermakna. Facebook kemudian disandera oleh orang tua dan jejaring sosial tempat kerja, membuat kaum muda takut berbicara secara bebas.
+```tw-note
+Metodologi
+Keempat angka ini tidak dapat ditambahkan, dikurangkan, atau langsung diberi peringkat. "Jangkauan iklan" menanyakan kelompok orang yang mungkin dapat dijangkau alat iklan; "proporsi penggunaan rutin" menanyakan preferensi penggunaan dalam satu survei; "proporsi lalu lintas web" menanyakan dari mana tampilan berasal dalam alat pengukuran tertentu. Artikel ini tidak menggunakan estimasi MAU Taiwan yang tidak dapat didukung oleh Meta atau metode yang dapat diverifikasi, dan juga tidak menggunakan estimasi dari satu postingan Threads sebagai statistik resmi.[^3] [^53] [^55]
+```
 
-Threads tepat mengisi kekosongan ini: **mekanisme posting berbasis teks utama, dengan hambatan rendah**, memenuhi kebutuhan asli untuk "murmur" (Murmur). Tanpa kecemasan tata letak, tanpa tekanan _hashtag_, keluhan harian yang sembarangan justru lebih mudah mendapatkan resonansi.
+| Metrik                                             | Waktu Data               | Apa yang Dapat Dijelaskan                                                        | Apa yang Tidak Dapat Dijelaskan                                   |
+| -------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 500 juta MAU global                                | Juni 2026                | Threads telah membentuk platform percakapan global berskala besar                | Jumlah MAU Taiwan yang tepat                                      |
+| 6,65 juta jangkauan iklan Taiwan                   | Akhir 2025               | Skala akun yang dapat dijangkau alat Meta di Taiwan                              | Penggunaan harian, waktu tinggal, atau jumlah pengguna unik nyata |
+| 44% berusia 18–24 tahun sering menggunakan Threads | Survei kuartal ke-4 2024 | Kelompok usia ini memiliki preferensi penggunaan rutin Threads yang lebih tinggi | Semua pengguna Threads adalah siswa atau generasi Z               |
 
-**Catatan Kurator #1:**
+Survei perilaku komunikasi media sosial MIC membuat profil lebih jelas. Melihat semua pengguna media sosial, proporsi penggunaan rutin Threads adalah 17,5%, mendekati Dcard 17,6% dan PTT 17,1%. Namun dalam kelompok usia 18–24 tahun, proporsi penggunaan rutin Threads adalah 44%, lebih tinggi dari kelompok usia lain. Proporsi usia 25–34 tahun adalah 28,4%.[^4] Ini adalah kemiringan generasi, bukan monopoli generasi.
 
-> Materi perbandingan "IG vs Real Life" muncul dalam jumlah besar di Threads, mencerminkan refleksi kaum muda terhadap "budaya filter" media sosial. Mereka menginginkan ruang di mana mereka dapat menampilkan diri yang nyata dan tidak sempurna.
+> **Catatan Kurator:** "Anak muda semua di Threads" terlalu mudah dan juga sangat tidak akurat. Pernyataan yang lebih dekat dengan kenyataan adalah: dalam peta media sosial Taiwan yang sudah ada, Threads menjadi tempat di mana pengguna muda khususnya bersedia berhenti dan mengatakan sesuatu.
 
-### 2. "Demokratisasi" Tak Terduga dari Algoritma
+## Mengapa "Rapuh", Bukan Sekadar Twitter/X Lain?
 
-Umpan _For You_ di Threads sangat condong mendorong konten populer dari "orang yang tidak diikuti", yang di Taiwan menghasilkan efek demokratisasi yang tak terduga:
+Memahami popularitas Threads di Taiwan sebagai "orang Taiwan meninggalkan X" tidaklah akurat. Penjelasan yang lebih dekat dengan kenyataan adalah: Taiwan sejak awal tidak memiliki Twitter/X yang digunakan secara rutin oleh mayoritas orang. MIT Technology Review pada 2024 saat mewawancarai akademisi dan pengguna menunjukkan bahwa orang Taiwan yang menggunakan Twitter/X secara teratur paling banyak sekitar 1% hingga 5%. Pengecualian yang lebih jelas adalah komunitas K-pop yang menyimpan informasi idola dan komunitas LGBT yang menggunakannya sebagai tempat pertemuan subkultur.[^5] Bagi kebanyakan orang, logika teks real-time X tidak kurang menarik, melainkan tidak pernah menjadi kebiasaan hidup arus utama.
 
-- **Memecahkan gelembung filter**: Pengguna sering melihat pandangan yang sangat berbeda dari posisi mereka sendiri
-- **Keluar dari niche**: Dulu diskusi kecil di papan khusus PTT atau komunitas kecil Dcard, sekarang dapat didorong ke pandangan umum
-- **Orang biasa menjadi terkenal**: Pembagian nyata dari pengguna biasa mungkin lebih mudah mendapatkan perhatian daripada perencanaan cermat dari KOL
+Threads masuk melalui pintu lain. Ia tidak mengharuskan pengguna terlebih dahulu memahami budaya X, mengikuti jurnalis asing, atau membangun daftar di tengah aliran pesan asing dalam bahasa Inggris atau Jepang yang tidak dikenal. Pengguna dapat membuat profil pribadi menggunakan akun Instagram atau Facebook yang sudah ada, dan data pribadi serta tautan juga akan dibawa masuk.[^15] Desain "membuka satu pintu lagi dari tempat yang sudah digunakan" ini mengurangi kerumitan cold start dan membuat orang yang pertama kali memposting konten sampah tidak perlu seperti baru tiba di X, terlebih dahulu menemukan seluruh komunitas baru.
 
-Namun, ini juga membawa efek samping: **budaya "flame war" (炎上) meningkat**. Postingan dengan interaksi tinggi (balasan, retweet) diperbesar oleh algoritma, dan ucapan dengan emosi yang kuat lebih mudah meledak.
+Perbedaan platform lebih mirip pembagian kerja, bukan pemenang dan pecundang. Survei MIC Strategi Riset Informasi menunjukkan bahwa pengguna komunitas berusia 18–24 tahun sering menggunakan Instagram sebesar 78%, Threads 44%, Dcard 45,9%. Usia 35–44 tahun lebih sering menggunakan PTT, sementara persentase penggunaan rutin Facebook mencapai 79,4% pada usia 45–54 tahun.[^4] Angka-angka ini tidak berarti kelompok usia tertentu hanya dapat menggunakan satu platform, tetapi menunjukkan bahwa pengguna Taiwan selalu menangani hubungan yang berbeda di ruang yang berbeda: satu tempat untuk foto, satu tempat untuk melihat teman dekat, satu tempat untuk mengajukan pertanyaan anonim, satu tempat untuk mengikuti berita real-time, dan tempat lain untuk mengatakan kepada orang asing sesuatu yang baru saja terpikirkan.
 
-### 3. Keamanan Psikologis "Anonimitas Relatif"
+| Platform   | Kebutuhan apa yang biasanya dibawa pengguna saat masuk                              | Posisinya di peta komunitas Taiwan yang sudah ada                            | Celah yang dilengkapi Threads                                                                                            |
+| ---------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Twitter/X  | Informasi global real-time, subkultur, komunitas lintas bahasa                      | Pengguna lebih terkonsentrasi pada minat tertentu dan lingkaran subkultur    | Membawa percakapan publik berbasis teks ke skenario kehidupan Tionghoa tradisional yang lebih massal                     |
+| Facebook   | Teman dan keluarga, grup, informasi lokal dan jaringan interpersonal yang sudah ada | Cakupan lintas usia luas, tetapi hubungan dan beban sejarah juga lebih berat | Dapat dilihat oleh balasan asing tanpa harus terlebih dahulu memasuki grup teman dekat                                   |
+| Instagram  | Gambar, cerita singkat, hubungan pengikut yang sudah ada dan presentasi diri        | Fondasi media sosial visual bagi pengguna muda                               | Memperluas hubungan akun yang sama menjadi percakapan teks dengan biaya produksi lebih rendah                            |
+| Dcard, PTT | Diskusi topik, tulisan pengalaman, komunitas anonim atau berbasis papan             | Memiliki aturan papan dan subkultur yang lebih jelas                         | Dengan saluran algoritma menempatkan orang yang awalnya tidak akan memasuki papan yang sama bersama-sama untuk sementara |
+| Threads    | Bisikan kehidupan, interaksi, tanya jawab, meme dan diskusi publik                  | Di antara media sosial teman dekat dan alun-alun orang asing                 | Membuat "saya berbicara dulu, lihat siapa yang merespons" menjadi kebiasaan dengan ambang batas rendah                   |
 
-Meskipun Threads mengikat akun Instagram, dibandingkan dengan sistem nama asli Facebook, ia memberikan pengalaman sosial "semi-transparan". Pengguna memiliki identitas nyata, tetapi tidak terikat oleh hubungan tempat kerja dan keluarga seperti di Facebook.
+Oleh karena itu, kunci kesuksesan Threads di Taiwan bukan daftar fitur, melainkan situasi yang tepat cocok: hubungan sosial Facebook terlalu lengkap, layar Instagram memiliki persyaratan lebih tinggi, Dcard dan PTT masing-masing memiliki budaya papan, dan X tidak memiliki fondasi massal. Threads memungkinkan teks yang tidak diedit, satu balasan, dan satu foto yang diambil dengan tergesa-gesa, dapat melampaui lingkaran pengikut asli. Laporan MIT juga menangkap jenis penempatan berdampingan ini: posting politik dan kehidupan berdampingan, dan "konten sampah" memungkinkan pengguna mendapatkan perhatian yang awalnya sulit dibayangkan melalui hal-hal pribadi yang lucu.[^5]
 
-Desain ini menemukan posisi sempurna dalam budaya internet Taiwan—lebih bertanggung jawab daripada anonimitas penuh PTT, dan lebih bebas berekspresi daripada sistem nama asli Facebook.
+Namun "lebih mudah terlihat" bukanlah janji permanen. Hal ini tergantung pada algoritma, kebijakan, status akun, dan apakah platform masih bersedia mendorong konten ke hadapan orang asing. Memilih Threads bukan membeli alun-alun. Lebih mirip sementara menyewa meja di pasar malam yang dibangun oleh perusahaan swasta dan aturannya dapat diubah kapan saja.
 
----
+## Anime, VTuber, dan X: Beberapa Komunitas Belum Pindah dari Pelabuhan Induk Mereka
 
-## Mereformasi Komunikasi Politik Digital Taiwan
+Jika hanya melihat topik sehari-hari Taiwan, mudah salah mengira bahwa semua komunitas teks telah "pindah ke Threads". Namun komunitas anime, kreator turunan (fan creator), dan VTuber memberikan jawaban lain: **migrasi platform bukan tentang seluruh kelompok pindah dari A ke B, melainkan berbagai keperluan tetap berada di tempat yang berbeda.** Bagi banyak orang yang perlu mengikuti karya baru, mencari ilustrator, mengikuti acara fan creation, berpartisipasi dalam tag ulang tahun/debut/siaran langsung, meneruskan informasi resmi, atau terhubung dengan komunitas penggemar berbahasa Jepang dan Inggris, X (nama sekarang Twitter) sering kali tetap menjadi indeks publik dan titik kumpul harian yang lebih penting. Threads dapat menjadi perpanjangan untuk postingan kehidupan Taiwan, interaksi teks pendek, dan audiens yang berbeda, namun tidak harus menggantikan hubungan pengikut yang sudah ada, basis data tag, dan linimasa lintas negara.
 
-### Revolusi "Turun ke Dunia" Tokoh Politik
+Ini bukan kesimpulan "X lebih baik daripada Threads", juga bukan berarti penggemar anime dan VTuber tidak menggunakan Threads. Perbedaannya terletak pada alur kerja komunitas. Penelitian penggemar telah menunjukkan bahwa mekanisme tag publik, retweet, dan mention Twitter memungkinkan kolaborasi sesama penggemar, akumulasi reputasi, dan visibilitas informasi. Tag bukan sekadar hiasan, melainkan serangkaian jalur pencarian yang dalam jangka panjang dikelola bersama oleh kenalan dan orang asing.[^44] Data kerja PTS 2024 tentang komunitas VTuber juga mencatat bahwa akun terkait VTuber dikelola secara bersamaan di Discord dan X, menunjukkan bahwa siaran langsung, komunitas inti, dan promosi publik memang biasanya terbagi ke platform yang berbeda.[^45]
 
-Setelah Pemilihan Presiden dan Legislatif 2024, tokoh politik Taiwan menyadari bahwa media tradisional dan Facebook tidak dapat menjangkau pemilih muda, sehingga beralih ke "Crispy". Namun, ini bukan sekadar perpindahan platform, melainkan **perubahan mendasar dalam cara komunikasi**.
+| Kebutuhan                                              | Outlet Utama Umum Penggemar Anime/VTuber                | Posisi yang Dapat Dilengkapi Threads                                                                           | Mengapa Tidak Bisa Disederhanakan Menjadi "Semua Pindah"                                                                            |
+| ------------------------------------------------------ | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Mengikuti karya baru, mencari kreator dan fan creation | Akun X, tag, jaringan retweet, dan linimasa multibahasa | Interaksi kehidupan sehari-hari Taiwan, pembaruan kehidupan, berbicara dengan audiens Instagram yang sudah ada | Pengikut, tag, dan tautan karya yang terakumulasi selama bertahun-tahun tidak dapat bermigrasi secara otomatis                      |
+| Notifikasi siaran langsung dan pendampingan tetap      | YouTube, Twitch, Discord, komunitas anggota             | Pesan pendek, konten di balik layar, atau topik ringan di aliran lalu lintas yang lebih tinggi                 | Interaksi siaran langsung memerlukan kehadiran jangka panjang; aliran teks pendek tidak dapat menggantikan ruang obrolan dan server |
+| Acara fan creation dan topik real-time                 | Tag X, akun resmi acara, grup, dan retweet              | Membawa acara dengan nada yang lebih santai kepada audiens non-inti                                            | Kebiasaan penggunaan tag yang sama dan hubungan sesama penggemar lintas negara adalah aset komunitas, bukan tombol fungsional       |
+| Kepribadian karakter dan kreator                       | Akun publik, akun karya, akun anonim atau semi-anonim   | Postingan santai dengan tekanan lebih rendah, kehidupan sehari-hari, atau lelucon lokal Taiwan                 | Kreator harus mengelola audiens yang berbeda, batas fan creation, dan visibilitas; tidak cocok untuk dirangkum dalam satu platform  |
 
-**Berbeda dengan postingan kebijakan serius di Facebook**, tokoh politik di Threads mengambil pendekatan:
+Oleh karena itu, ketika ada yang mengatakan "penggemar anime dan VTuber masih lebih sering di Twitter", pemahaman yang lebih baik adalah: mereka mempertahankan **jalur yang sudah dapat dikenali oleh karya, tag, dan sesama penggemar lintas negara**. Terutama bagi VTuber yang baru memulai atau ilustrator independen, akun publik bukan hanya kolom promosi, melainkan riwayat karya yang dapat dicari, dapat ditandai, dan dapat dirujuk. Untuk memindahkan hubungan-hubungan ini, biayanya bukan sekadar memasang ulang aplikasi, melainkan membuat audiens tahu ke mana mencari orang, kata apa yang digunakan untuk mencari acara, bagaimana menentukan apakah akun adalah orang asli atau komunitas penggemar.
 
-- **Nada akrab**: Membahas kebijakan dengan cara percakapan sehari-hari
-- **Humor diri sendiri**: Mengakui kesalahan, bercanda tentang diri sendiri
-- **Balasan langsung**: Langsung membalas komentar warga, tidak lagi melalui staf
-- **Partisipasi dalam meme**: Secara aktif bergabung dalam diskusi meme internet
+Ini juga membuat analogi "grup LINE terbuka besar-besaran" dari budaya Threads lebih akurat. Threads sangat mahir membuat orang Taiwan langsung berbicara tentang kehidupan, berita, makanan, dan lelucon kecil di depan mata mereka. Bagi sebagian komunitas subkultur, X lebih seperti koridor lintas negara, di mana tag yang sama terus diikat oleh karya dan peristiwa. Keduanya dapat tumpang tindih, namun tidak harus saling menggantikan. Menganggap panggung utama komunitas yang berbeda sebagai peringkat kompetitif justru membuat kita tidak melihat bahwa kreator sebenarnya telah melakukan pekerjaan multibidang platform sepanjang waktu.
 
-Interaksi "turun ke dunia" ini memecah citra tokoh politik yang tinggi dan jauh yang tersisa dari era otoriter, menjadikan Threads sebagai **alun-alun publik baru yang paling aktif untuk komunikasi politik dan diskusi warga di Taiwan**.
+## Luar Aliran Utama Ada Lorong-Lorong Kecil: Dinding Dinamis Khusus, Komunitas, dan Jagat Terdesentralisasi
 
-### Desentralisasi Diskusi Politik
+Menganggap Threads hanya sebagai satu aliran utama yang ditentukan oleh algoritma sudah tidak sepenuhnya akurat lagi. Meta pada 2025 menyatakan bahwa akun publik yang membuka berbagi jagat terdesentralisasi dapat melihat konten dari layanan lain yang telah bergabung dengan jagat terdesentralisasi di Threads, dan dapat menggunakan dinding dinamis khusus serta pencarian untuk menemukan postingan publik dari layanan seperti Mastodon, Bookwyrm, WriteFreely, Ghost, Flipboard, WordPress, dan lainnya. Dinding dinamis khusus menggunakan urutan waktu.[^50] Ini adalah kemungkinan penting namun tidak boleh dilebih-lebihkan: ia memberi pengguna kesempatan untuk mengakses konten publik dari layanan berbeda di dalam Threads, tetapi harus diaktifkan melalui pengaturan akun, identitas publik, dukungan server, dan hubungan pengikutan secara bersamaan—bukan semua orang mendapatkan interoperabilitas lintas platform hanya dengan membuka aplikasi.
 
-Dulu, diskusi politik Taiwan terpusat pada papan khusus tertentu di PTT (seperti Gossiping), dengan warna etnis dan kecenderungan ideologis yang jelas. Algoritma Threads kemudian "mendesentralisasikan" diskusi politik:
+Fitur ini sangat relevan untuk dilihat dalam konteks masalah "pelestarian" budaya teks rapuh Taiwan. Saat membahas penangguhan akun dan kehadiran multipoin sebelumnya, fokusnya bukan mendorong setiap orang ke satu platform tunggal lain, melainkan membuat penulis, media, dan komunitas menyadari: percakapan publik dapat memiliki banyak pintu masuk, dan juga perlu ada jalan untuk kembali ke sumber asli. Berbagi jagat terdesentralisasi tidak akan menyelesaikan masalah keamanan akun, informasi salah atau palsu, atau perizinan konten. Namun setidaknya ia mengubah "semua hubungan harus tetap berada di satu perusahaan" dari satu-satunya nilai bawaan menjadi pilihan desain yang dapat didiskusikan.[^50]
 
-- Pandangan dari posisi yang berbeda lebih mudah bertemu
-- Berita politik tidak lagi dimonopoli hak interpretasinya oleh media atau KOL tertentu
-- Pandangan politik warga biasa mendapatkan lebih banyak kesempatan untuk terekspos
+Pada Juni 2026, Meta juga mengumumkan bahwa fitur Communities keluar dari periode pengujian, menambahkan Communities Hub, ikon identifikasi komunitas, kemajuan komunitas, dan Community Champions, serta mulai mendorong Local Communities dimulai dari label bahasa lokal di Jepang, Korea, dan Taiwan.[^51] Ini membuat "teman teks rapuh" bukan hanya sebutan longgar, tetapi juga dapat secara bertahap dipotong oleh platform menjadi kelompok minat dan wilayah yang dapat dikenali. Namun, pengumuman resmi juga menjelaskan bahwa fitur "Your Algo" memungkinkan pengguna secara pribadi menyesuaikan seberapa sering suatu topik muncul di dinding dinamis, dan gelombang pertama belum mencakup Taiwan. Menulis ulang pengumuman pembaruan fitur global secara langsung menjadi "Taiwan sekarang dapat bebas mengendalikan algoritma" akan mencampur visi platform dengan jangkauan yang benar-benar tersedia.[^51]
 
-**Catatan Kurator #2:**
+| Arah yang bercabang dari satu aliran utama      | Masalah yang diselesaikannya                                                                            | Masalah yang tidak diselesaikannya                                                                          |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Topics, Communities, dan label bahasa lokal     | Memberikan pintu masuk yang lebih jelas untuk minat, wilayah, dan topik                                 | Tidak menjamin kesehatan budaya komunitas, juga tidak menjamin semua topik lokal dipromosikan secara adil   |
+| Dinding dinamis khusus/pengikutan               | Memungkinkan orang untuk sementara beralih dari aliran populer ke akun atau topik yang mereka pedulikan | Pengguna masih perlu secara aktif mengatur sumber, tidak dapat menganggap urutan sebagai dunia yang lengkap |
+| Berbagi dan pencarian jagat terdesentralisasi   | Memungkinkan sebagian konten publik ditemukan dan berinteraksi lintas layanan                           | Akun non-publik, server yang tidak didukung, masalah perizinan dan kepercayaan tetap ada                    |
+| Situs web, RSS, buletin, dan akun multipaltform | Mengurangi risiko kehilangan koneksi saat satu akun atau satu aplikasi terganggu                        | Biaya pemeliharaan lebih tinggi, juga memerlukan verifikasi silang resmi yang jelas                         |
 
-> Desentralisasi ini juga membawa risiko: Tanpa penyuntingan media profesional, misinformasi dan ucapan ekstrem lebih mudah menyebar. Laporan Taiwan FactCheck Center 2024 menunjukkan, kecepatan penyebaran gosip politik di Threads 40% lebih cepat daripada di Facebook.
+> **Catatan Kurator:** Fitur komunitas tidak secara otomatis menghasilkan komunitas; ia hanya menyediakan pintu masuk yang dapat diberi nama. Apa yang benar-benar membuat orang tetap tinggal adalah masih ada orang yang bersedia memelihara label, menambahkan sumber, membalas pendatang baru, dan ketika diperlukan membawa percakapan kembali ke tempat yang dapat dipertanggungjawabkan.
 
----
+## "Crunchy" Bukan Terjemahan, Tapi Cara Mendorong Pintu Terbuka
 
-## Gelombang "Crispy" yang Menantang Ekosistem Forum yang Ada
+Threads awalnya tidak memiliki nama resmi dalam bahasa Indonesia. Pengguna Taiwan pernah menyebutnya "string" (串), dan ada juga yang menyebutnya "crunchy" (脆) berdasarkan pengucapan bahasa Inggris. Yang terakhir kemudian menjadi stabil dalam percakapan sehari-hari. MIT Technology Review mencatat bahwa kata ini awalnya memiliki makna "crispy" maupun "fragile", namun karena pengucapannya, mudah diingat, dan dapat diperluas menjadi ungkapan idiomatis, menjadi julukan platform yang digunakan pengguna untuk saling mengenali.[^5]
 
-### vs. Dcard: Dari Kampus Menuju Seluruh Rakyat
+Yang lebih penting adalah, "crunchy" tidak pernah menjadi nama produk yang netral. Kata ini akan berkembang menjadi "crunchy friends" (脆友), "crunchy posts" (脆文), "coast guard" (海巡), "river channel" (河道)—istilah-istilah yang sedang digunakan, dan juga mengubah penulis postingan dari sekadar "akun" menjadi seseorang yang sedang berbicara di atas "sungai". Bahasa ini bukan fitur yang dirancang Meta, namun melakukan lokalisasi paling efektif untuk platform: membuat produk global terdengar bukan seperti halaman unduhan aplikasi bahasa Inggris, melainkan seperti kalimat yang dilempar teman: "Apakah kamu sudah melihat postingan itu di crunchy?"
 
-Dcard dulu adalah platform diskusi anonim terbesar bagi mahasiswa Taiwan, tetapi Threads menawarkan alternatif yang lebih instan dan terbuka:
+Rasa ringan ini terkait dengan "waste posts" (廢文). MIT Technology Review menggambarkan waste posts di Threads sebagai lelucon berisiko rendah dan monolog kehidupan. Bisa jadi kalimat tentang teman sekamar yang mendengkur, kekalutan saat perjalanan, atau kekhawatiran kecil yang tidak perlu kesimpulan.[^5] Berbeda dengan feed pilihan Instagram, atau campuran teman dan rekan kerja di Facebook, waste posts tidak menuntut pengguna membuktikan terlebih dahulu bahwa mereka hidup dengan baik sebelum berhak dilihat.
 
-**Keterbatasan Dcard:**
+Waste posts bukan benar-benar "tanpa konten". Ini adalah cara menguji dunia dengan biaya sangat rendah apakah akan membalas. Seseorang pertama-tama melempar keluhan yang tidak berbahaya, orang asing menangkapnya, dan baru kemudian mungkin berbagi tentang pekerjaan, hubungan, penyakit, pendidikan, atau politik. Pintu masuk budaya crunchy Taiwan sering kali bukan tentang posisi, melainkan sebuah pembukaan yang tidak perlu terlalu serius.
 
-- Harus mendaftar sebagai anggota untuk melihat konten lengkap
-- Sistem papan yang berbasis sekolah relatif tertutup
-- Mekanisme anonimitas mudah menjadi saluran pelepasan emosi
+## Meme Bukan Kamus, Melainkan Sintaksis yang Dapat Diwariskan
 
-**Keunggulan Threads:**
+Hal yang paling mudah disalahpahami dalam budaya meme Taiwan adalah menganggap meme sebagai sebuah "daftar kata apa yang sedang tren hari ini". Sebenarnya lebih mirip seperti serangkaian sintaksis yang dapat diterapkan dengan cepat: pertama-tama menempatkan diri sendiri ke dalam peran yang tidak proporsional, kemudian meninggalkan ruang yang dapat dilengkapi oleh orang lain. Ada yang menulis penolakan sebelum sekolah dimulai sebagai "Saya adalah 〇〇, saya tidak setuju sekolah dimulai". Ada yang mengorganisir karya, ruangan, resume, atau tips kehidupan menjadi "Saya secara pribadi mengumumkan Kompetisi 《〇〇》 Pertama Resmi Dimulai"; ada yang sama sekali tidak mengungkapkan pendapat, hanya mengetik "tinggalkan untuk teman lihat" di bagian komentar. Kekuatan kalimat-kalimat pendek ini bukan terletak pada kosakata yang orisinal, melainkan pada fakta bahwa siapa pun tahu bagaimana cara melanjutkannya.
 
-- Buka untuk dilihat, menurunkan hambatan partisipasi
-- Pertukaran antar generasi, tidak terbatas pada kelompok mahasiswa
-- Mengikat akun IG, memberikan rasa tanggung jawab yang sesuai
+"Saya tidak setuju sekolah dimulai" adalah contoh yang sangat baik. Pada akhir musim panas 2025, dapat dilihat di Threads berbagai versi seperti "Saya adalah orang penggemar domba, saya tidak setuju sekolah dimulai", dan kemudian muncul banyak varian seiring dengan kecemasan sekolah dan penyebaran video pendek.[^27] Ini mengubah sesuatu yang tidak dapat diputuskan melalui pemungutan suara siswa menjadi prosedur publik yang seolah-olah dapat ditulis ulang dengan identitas, deklarasi, dan suara penolakan. Bagian yang lucu adalah nada "tidak setuju" sangat formal, tetapi objek penolakan hanya tentang kembali ke ruang kelas besok, sesuatu yang tidak bisa dihindari siapa pun. Ini bukan pemungutan suara politik, juga bukan advokasi nyata. Ini adalah meminjam bahasa institusional untuk menangani keputusasaan musiman.
 
-Hasilnya adalah banyak lalu lintas obrolan dan diskusi berita beralih dari Dcard ke Threads.
+"Saya secara pribadi mengumumkan Kompetisi 《〇〇》 Pertama Resmi Dimulai" mengubah kesenangan berpura-pura memiliki sistem menjadi wadah untuk menampilkan diri sendiri. Dalam analisis publik Oktober 2025, dikumpulkan berbagai versi dari kebijaksanaan hidup, desain interior, industri kecantikan, dan pengembangan permainan independen, dan menunjukkan bahwa peserta biasanya hanya perlu memposting satu gambar dan menambahkan satu kalimat penjelasan untuk memasukkan karya mereka ke dalam kompetisi yang tidak ada.[^28] Oleh karena itu, ini secara bersamaan adalah bermain meme, portofolio, dan evaluasi bersama: pembuat posting menguasai topik, penjawab menentukan siapa "pesaing" itu, dan suka-suka sementara bertindak sebagai juri.
 
-### vs. PTT: Saksi Digital Pergantian Generasi
+| Pola Sintaksis                                                             | Apa yang Dipura-purakan                                                            | Apa yang Sebenarnya Dipertukarkan Pengguna                                                 | Batas yang Harus Diingat Saat Membaca                                                                        |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| "Saya adalah 〇〇, saya tidak setuju sekolah dimulai"                      | Menolak fakta yang sudah ditentukan dengan identitas dan deklarasi                 | Keputusasaan kolektif terhadap sekolah, pekerjaan, atau ritme hidup                        | Jangan salah mengartikan penolakan bergurau sebagai pemungutan suara nyata atau survei sikap                 |
+| "Saya secara pribadi mengumumkan Kompetisi 《〇〇》 Pertama Resmi Dimulai" | Menyelenggarakan kompetisi dengan peserta, peringkat, dan juri                     | Menyerahkan karya, keahlian, atau tips kehidupan kepada orang asing untuk dilanjutkan      | Interaksi tinggi berarti dapat disebarkan, tidak sama dengan hasil evaluasi profesional                      |
+| "Tinggalkan untuk teman lihat"                                             | Menyisakan tempat untuk teman                                                      | Meninggalkan jejak interaksi di dinding aktivitas teman melalui komentar                   | Ini adalah kode berbagi, tidak sama dengan konten telah diverifikasi atau didukung                           |
+| "Percaya atau tidak, saya letakkan 〇〇 di sini"                           | Melakukan eksperimen interaksi dengan objek sewenang-wenang                        | Meniru logika pengurutan "selama ada lalu lintas, itu dianggap konten bagus"               | Banyak suka pada objek tidak dapat membuktikan postingan asli tidak memiliki nilai                           |
+| "Tantang katak"                                                            | Membiarkan gambar katak bersaing dengan postingan asli dalam hal suka dan komentar | Menggunakan gambar paling tidak berbahaya untuk menguji siapa yang mengendalikan perhatian | Ini adalah permainan interaksi, tidak boleh berubah menjadi pengeroyokan kolektif terhadap pengguna tertentu |
 
-PTT telah berhenti menerima pendaftaran pengguna baru selama bertahun-tahun, menyebabkan populasi pengguna menua. Generasi muda meskipun "naik ke PTT untuk melihat arah angin", jarang berpartisipasi aktif dalam diskusi. Threads mengisi celah ini:
+"Tinggalkan untuk teman lihat" adalah kalimat terpendek dalam rangkaian sintaksis ini, namun paling mampu menjelaskan mekanisme platform. Secara harfiah berarti "tinggalkan agar teman bisa lihat", tetapi dalam penggunaan aktual di Threads, ini mengubah komentar menjadi sejenis jejak berbagi dengan biaya rendah. DailyView menggunakan statistik data KEYPO, antara Januari 2025 dan Januari 2026 ada 54.006 diskusi terkait. Setelah mantan Presiden Tsai Ing-wen menggunakan ketiga kata ini pada Januari 2026, singkatan yang sebelumnya beredar di bagian komentar masuk ke berita publik.[^29] [^30] Yang perlu diwaspadai adalah, ini bukan kode algoritma atau teknik jangkauan universal, melainkan isyarat singkat yang diciptakan pengguna untuk "saya harap teman juga melihat ini". Ini dapat menyebarkan informasi yang berguna, tetapi juga dapat mendorong konten yang belum diverifikasi lebih jauh.
 
-**Perubahan Pola Respons Berita:**
+"Percaya atau tidak, saya letakkan 〇〇" dan "Tantang katak" mendorong logika yang sama ke ekstrem. Yang pertama sering menggunakan batu, objek kosong, atau gambar yang tidak relevan untuk meniru kelaparan algoritma terhadap interaksi: jika sesuatu yang sama sekali tanpa pesan juga bisa mendapat banyak suka, apakah semua orang sebenarnya bereaksi terhadap konten, atau bereaksi terhadap partisipasi bersama? Yang terakhir menempatkan gambar katak di komentar, mengundang pembaca untuk membiarkan interaksinya mengejar bahkan melampaui postingan asli. Dalam diskusi publik, ada pengguna yang menggambarkannya sebagai cara untuk melawan pernyataan yang tidak masuk akal, dan ada juga yang hanya menyimpannya sebagai "gambar universal yang pasti ada di ponsel orang yang bermain meme".[^31] Justru karena aturan berubah seiring dengan thread, pemahaman paling tepat bukan mengganti dengan satu cara bermain yang unik, melainkan memandangnya sebagai satu lelucon kolektif terhadap perhatian yang digitalisasi di platform.
 
-- **Dulu**: Berita terjadi → Naik ke PTT untuk melihat diskusi warga → Membentuk opini publik
-- **Sekarang**: Berita terjadi → Naik ke Crispy untuk melihat respons instan → Berpartisipasi dalam diskusi → Mempengaruhi opini publik
+## Makanan, Hiperbola, dan Pura-pura Ganas: Mengapa Kemarahan Kental Sering Terlihat seperti Kartun
 
-Perubahan ini bukan hanya perpindahan platform, melainkan **perubahan mendasar dalam mekanisme pembentukan opini publik internet Taiwan**.
+Jenis kental lain bekerja dengan pola penolakan yang hiperbolis. "Bawa sampah dapur Anda dan gulung keluar dari planet ini" biasanya bukan menggambarkan sampah dapur yang sebenarnya, juga bukan menyuruh orang pergi ke mana pun. Ini adalah memperbesar "Saya benar-benar tidak bisa menerima cara makan ini" hingga skala alam semesta. Akhir 2025, ada pengguna yang berbagi cara makan nasi daging cincang dengan susu kental di Threads, dan bagian komentar merespons dengan kalimat ini dan reaksi berantai "cara makan sekte lain". Laporan juga mencatat bahwa editor kecil dari supermarket, layanan pengiriman, produk susu, dan platform video turut bergabung dalam sindiran.[^32] Jenis reaksi ini membuat makanan bukan hanya makanan, tetapi memungkinkan orang asing untuk dengan cepat berdiri di barisan, melawan barisan, kemudian menampilkan cara makan masa kecil mereka sendiri atau kombinasi yang lebih aneh.
 
-### vs. Twitter/X: Kemenangan Lokal
+Versi "Saya akan mencari satu mobil 〇〇 untuk Anda" juga serupa. Ini dengan sengaja memecah ulang "mencari satu van penuh orang" yang awalnya mungkin terdengar seperti ancaman menjadi "satu van orang roti", kemudian membiarkan "orang roti" dapat diganti dengan Pudding Dog, berbagai karakter, atau barang-barang yang tidak berbahaya. Postingan publik dapat melihat penulisan ulang "mencari satu van orang roti".[^33] Efek kental berasal dari kesenjangan antara nada ancaman dan citra kekanak-kanakan: semakin mirip pola kalimat dengan eskalasi konflik, semakin tidak mungkin hal-hal yang dimasukkan benar-benar dapat menimbulkan konflik. Juga karena itu, jenis ucapan ini hanya cocok untuk tetap berada dalam konteks lelucon yang jelas dan pemahaman bersama. Jika digunakan berulang kali terhadap orang nyata tertentu, ditambah dengan lokasi nyata atau instruksi tindakan, itu tidak lagi menjadi kental, tetapi dapat berubah menjadi pelecehan atau ancaman.
 
-Berbagai perubahan setelah Elon Musk mengakuisisi Twitter membuat kepercayaan pengguna Taiwan terhadap platform tersebut menurun. Threads tepat pada waktu ini menawarkan alternatif yang lebih sesuai dengan kebiasaan penggunaan Taiwan:
+"Besok libur" adalah jenis kental tiga karakter lain yang terlihat sederhana, tetapi sebenarnya bergantung pada memori bersama. Selama Topan Kammuri 2024, Chiang Wan-an menulis "Besok libur!" di Threads setelah mengumumkan penutupan kelas dan kantor keesokan harinya. Ketika Topan Bavi mendekat pada 2026, pengguna menggali kembali postingan lama, pergi ke bagian komentarnya dengan harapan dia "mengatakan lagi".[^34] Ini adalah penggalian postingan lama yang khas: sebuah postingan yang bertanggung jawab untuk memberitahu pada saat itu, setelah terlepas dari konteks aslinya menjadi pemanggilan kolektif sebelum setiap topan. Risikonya juga sangat jelas: bermain kental tidak dapat menggantikan pengumuman penutupan kelas dan kantor, keputusan nyata masih harus melihat pemerintah lokal dan pesan resmi real-time.
 
-- **Dukungan bahasa Mandarin lebih lengkap**: Algoritma lebih memahami konten bahasa Mandarin Tradisional
-- **Optimasi zona waktu Taiwan**: Jam populer sinkron dengan jadwal pengguna Taiwan
-- **Ramah meme lokal**: Mendukung istilah internet dan meme budaya Taiwan
+| Pola Reaksi                                                | Apa yang Diperbesar                                        | Efek yang Ditimbulkan di Sungai                                          | Kapan Harus Berhenti Bermain Kental                                                                     |
+| ---------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| "Bawa sampah dapur Anda dan gulung keluar dari planet ini" | Kemuakan terhadap kombinasi makanan                        | Membuat perdebatan cara makan menjadi barisan komedi yang dapat diikuti  | Ketika berubah menjadi penghinaan terhadap penampilan pribadi, identitas, atau kebutuhan diet seseorang |
+| "Saya akan mencari satu mobil 〇〇 untuk Anda"             | Nada ancaman pura-pura mengumpulkan pasukan                | Menghilangkan rasa konflik dengan karakter atau objek yang tidak mungkin | Ketika 〇〇 diganti dengan kelompok manusia nyata, lokasi nyata, atau ancaman tindakan                  |
+| "Besok libur"                                              | Antisipasi terhadap hari libur topan                       | Membuat pengumuman lama menjadi memori bersama tahunan                   | Ketika informasi yang belum dikonfirmasi diteruskan sebagai informasi penutupan kelas dan kantor        |
+| "Saya ven lagi sekali"                                     | Aksen, kecepatan bicara, dan ritme percakapan toko sarapan | Membuat satu pertanyaan menjadi kental suara yang dapat diulang          | Ketika peniruan berkembang dari video tertentu menjadi penghinaan terhadap individu atau kelompok nyata |
 
----
+_Lihat lebih lanjut: [Gambar utama laporan Kota Belajar tentang sumber meme "Saya ven lagi sekali"](https://imgs.gvm.com.tw/upload/gallery/20260121/223929.jpg)_
 
-## Medan Pertempuran Baru untuk Merek dan KOL
+_Gambar: Proses penyebaran "Saya ven lagi sekali" dari video kehidupan tertentu ke kental kental, juga mengingatkan pembaca: satu kental suara yang dapat direplikasi masih dapat melibatkan garis aksen dan identitas.[^35]_
 
-### Transformasi "Realistis" Pemasaran Merek
+"Saya ven lagi sekali" khususnya mengingatkan kami bahwa kental tidak semuanya tanpa batas. Laporan Kota Belajar melacak bahwa kalimat ini berasal dari Oktober 2025 dari video pengguna Taiwan yang meniru pelanggan dari Tiongkok di toko sarapan. Di dalamnya "tanya" dengan sengaja ditulis sebagai "ven", setelah itu menjadi populer karena ritme yang dapat direplikasi, dan memicu kontroversi tentang aksen lintas selat dan identitas.[^35] Artikel tidak perlu berpura-pura bahwa kental tidak memiliki sifat menyinggung. Pendekatan yang lebih baik adalah mengakui: peniruan membuat orang merasa akrab, berirama, dapat direlai, tetapi juga dapat mengompresi fitur bahasa lawan menjadi label yang dapat ditertawakan. Memahami satu kental tidak sama dengan harus menggunakannya di semua tempat.
 
-Pemasaran media sosial tradisional menekankan visual indah dan dukungan KOL, tetapi di Threads, **"berpijak di tanah" lebih efektif daripada "tinggi dan elegan"**:
+## Kapan Meme Harus Berhenti: Dari Mengikuti Tren hingga Menjebak Orang dalam Tren
 
-**Studi Kasus Sukses:**
+Sebuah meme bisa membuat orang asing bergabung karena ia mengompresi emosi kompleks menjadi struktur kalimat yang bisa diambil alih. Bahayanya juga ada di sini. Ketika ucapan berlebihan yang awalnya ditujukan pada situasi terus ditempel ke akun orang sungguhan yang sama, toko kecil yang sama, aksen tertentu atau kelompok identitas tertentu, lelucon bisa berubah dari kreasi bersama menjadi penunjukan kolektif. Ini bukan tentang melarang sungai dari humor, melainkan mengingatkan bahwa "apakah pihak lain bisa keluar" juga merupakan bentuk literasi platform.
 
-**IKEA Taiwan**: "Yang tidak bisa dilewati dalam hidup, semua berteriak IKEA" (meme bunyi mirip bahasa Hokkien/Taiwan)
+| Titik balik dari mengikuti tren ke pelecehan | Sinyal masih dalam lelucon bersama                                                   | Sinyal harus berhenti, menghapus, atau kembali ke prosedur formal                                                                                                                                           |
+| -------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Objek                                        | Penulis postingan asli secara jelas bergabung, membalas, atau bisa bebas mengabaikan | Orang sungguhan berulang kali menyatakan ketidaknyamanan, akun ditandai untuk dikeroyok, atau meme dipindahkan ke hubungan kerja dan pribadi mereka                                                         |
+| Konten                                       | Mengisi templat benda fiktif, situasi, atau model yang dibagikan semua orang         | Mulai mengungkap informasi pribadi, alamat, tempat kerja, atau menggunakan aksen, etnis, penampilan sebagai inti penghinaan                                                                                 |
+| Skala                                        | Balasan sedikit memungkinkan orang mengidentifikasi konteks asli                     | Tangkapan layar terlepas dari teks asli, dibawa oleh akun besar, atau muncul pengejar lintas platform                                                                                                       |
+| Risiko nyata                                 | Tidak ada ancaman transaksi, kekerasan, seksual, atau menyakiti diri sendiri         | Muncul pesan seperti "bawa orang untuk mencari" atau "bawa satu mobil orang untuk mengganggu Anda" yang mungkin dipahami sebagai mobilisasi nyata, atau melibatkan anak di bawah umur dan pihak yang rentan |
 
-- Hasil: 830.000 tayangan, 41.000 suka
-- Kunci kesuksesan: Humor lokal + personifikasi merek
+Kontroversi aksen dalam "saya ven lagi sekali", ancaman pura-pura seperti "saya bawa satu mobil 〇〇 untuk mengganggu Anda", dan lelucon yang menyebut akun mencurigakan sebagai "tentara siber" semuanya cocok untuk ditinjau kembali dengan tabel ini. Kalimat bisa dipelajari sebagai teks, tetapi tidak boleh digunakan untuk membuat orang sungguhan menanggung emosi kerumunan. Jika konten melibatkan penipuan, pelecehan, dokumen, orang hilang, atau risiko keamanan yang jelas, "mengikuti tren" yang paling berguna bukan menambahkan satu emoji lagi, melainkan menyimpan bukti yang diperlukan dan menggunakan saluran formal seperti pelaporan/laporan polisi/layanan platform/layanan konsular. [^35] [^36] [^41] [^43]
 
-**Baywatch Tea (八曜和茶)**: Merek minuman di Kaohsiung memiliki jumlah pengikut di Threads 3 kali lipat dari IG
+## Ketika Tentara Siber dan Bot Juga Dijadikan Meme: Pelatihan, Keraguan, dan Verifikasi Tidak Boleh Tercampur
 
-- Strategi: Interaksi harian, membalas komentar, berpartisipasi dalam diskusi topik
-- Hasil: Lebih dari 30.000 pengikut, kecepatan pertumbuhan jauh melampaui platform lain
+_Lihat juga: [Tangkapan layar dari laporan Kebebasan Waktu yang diduga menunjukkan akun AI diuji oleh pemberi komentar dengan instruksi dalam berbagai bahasa](https://img.ltn.com.tw/Upload/news/600/2026/02/20/php0cKFO7.jpg)_
 
-### Kebangkitan KOC (Key Opinion Consumer)
+_Gambar: Peristiwa akun yang diduga AI tunggal dari laporan Kebebasan Waktu. Penjelasan gambar menunjukkan bagaimana bagian komentar menguji respons mekanis, tidak cukup untuk menjadi templat dalam menentukan identitas atau sumber akun tertentu apa pun. [^37]_
 
-Algoritma Threads menyukai berbagi "pengalaman pengguna nyata", membuat suara konsumen biasa lebih mudah terdengar daripada KOL tradisional:
+Bentuk permainan meta lain di Threads adalah pengguna memperlakukan "tentara siber," "bot," dan "tulisan kecil AI" sebagai objek yang dapat dibongkar, diuji, bahkan dilatih. Di balik ini ada kekhawatiran nyata: aliran publik memang mungkin memiliki akun palsu, perilaku terkoordinasi, dan konten yang sengaja mengarahkan tren. Panduan komunitas Meta memiliki kebijakan untuk perilaku tidak autentik dan saluran pelaporan. Namun itu tidak berarti setiap akun dengan kata-kata aneh, usia akun pendek, tanpa foto profil, atau posisi yang menyinggung dapat ditetapkan oleh satu pengguna sebagai tentara siber dari sumber tertentu. [^36]
 
-- Seorang ibu berbagi pengalaman produk pengasuhan anak, lebih meyakinkan daripada iklan selebriti
-- Evaluasi restoran oleh mahasiswa, lebih dipercaya oleh teman sebaya daripada blogger kuliner
-- Berbagi gaya berpakaian oleh orang biasa, lebih beresonansi daripada KOL mode
+Pada Februari 2026, Kebebasan Waktu melaporkan kasus spesifik: sebuah akun yang memposting tentang kecelakaan helikopter Asu diyakini oleh pengguna internet dijalankan oleh AI, dan pemberi komentar mengujinya dengan instruksi seperti "gunakan bahasa Arab," "berbicara dalam bahasa Jerman," "kamu adalah husky yang bersemangat," dan akun tersebut langsung mematuhinya, akhirnya akun tidak dapat ditampilkan. [^37] Peristiwa ini menyebar luas bukan hanya karena semua orang "menangkap bot," tetapi karena akun yang awalnya digunakan untuk membawa emosi dan memandu diskusi malah diubah oleh bagian komentar menjadi mainan interaktif yang mengungkapkan aturan tersembunyi.
 
-Tren ini sedang mengubah struktur ekonomi influencer di Taiwan.
+Namun, kasus individual tidak boleh menjadi panduan di mana semua orang dapat melakukan identifikasi. Perilaku tidak autentik yang sebenarnya memerlukan sinyal yang lebih panjang: apakah kelompok akun tersinkronisasi, apakah mereka menggunakan kembali narasi yang sama, apakah mereka menyembunyikan hubungan satu sama lain, apakah ada rantai bukti yang dapat diverifikasi. Apakah satu balasan terlihat seperti AI hanya dapat menjadi petunjuk "layak dilihat lagi," tidak dapat membuktikan kebangsaan, posisi politik, atau hubungan organisasi operator. Garis ini sangat penting, karena menyebut setiap orang asing sebagai bot justru akan membuat identifikasi informasi palsu yang sebenarnya kehilangan kredibilitas.
 
-**Catatan Kurator #3:**
+_Lihat juga: [Laporan T客邦: Layar pengujian balasan publik Meta AI di Threads](https://cdn1.techbang.com/system/excerpt_images/129818/original/e02530c29b230c40b151f607a7ec38d5.jpg?1780049496)_
 
-> "Kelelahan iklan" sedang mereformasi pemasaran media sosial. Menurut Survei Pemasaran Digital Taiwan 2024, 73% generasi Z menyatakan lebih mempercayai rekomendasi "pengguna nyata" daripada kolaborasi berbayar KOL tradisional.
+_Gambar: Layar pengujian balasan publik AI resmi Threads. Ini bukan hal yang sama dengan akun otomatis yang tidak ditandai atau perilaku terkoordinasi yang dicurigai pengguna. [^38]_
 
----
+Selain itu, di Threads memang ada partisipasi AI resmi dalam interaksi publik. Pada 2026 Meta menguji di Taiwan untuk memungkinkan pengguna memberi anotasi `@meta.ai` pada postingan atau balasan, dengan AI bergabung dalam utas dengan cara publik. Laporan terkait mengingatkan bahwa balasan yang dihasilkan mungkin tidak lengkap atau tidak akurat, dan semua pengguna dapat melihatnya. [^38] Oleh karena itu, ketika "AI mengatakan apa-apa" muncul di aliran, setidaknya mungkin ada tiga situasi yang sama sekali berbeda: pengguna sengaja memanggil AI resmi, akun umum membalas dengan alat otomatis, atau ada orang yang mencurigai perilaku tidak autentik ada. Semuanya akan disebut "bot," tetapi pemahaman dan penanganan yang harus diambil sama sekali berbeda.
 
-## Fenomena Lokal Threads di Taiwan
+| Situasi yang Terlihat                                            | Kesalahan Paling Mudah Dilakukan                                             | Cara Membaca yang Lebih Baik                                                                                                                |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Seseorang memberi anotasi `@meta.ai`                             | Salah mengira interaksi AI resmi publik sebagai tentara siber tersembunyi    | Lihat dulu penandaan akun dan konten utas, kemudian perlakukan balasan AI sebagai teks yang dihasilkan yang perlu diverifikasi lebih lanjut |
+| Balasan akun mekanis, berulang, atau dapat dibawa oleh instruksi | Langsung menyimpulkan kebangsaan, faksi, atau organisasi dari gaya penulisan | Anggap itu sebagai petunjuk mencurigakan, simpan tangkapan layar, periksa riwayat akun, dan laporkan perilaku mencurigakan                  |
+| Beberapa akun bersama-sama membawa narasi yang sama              | Hanya fokus pada satu akun, abaikan hubungan jaringan dan waktu              | Bandingkan frasa berulang, titik sinkronisasi, tautan, dan data verifikasi yang sudah dipublikasikan                                        |
+| Bagian komentar mulai "melatih bot"                              | Anggap kesenangan pengawasan sebagai verifikasi fakta lengkap                | Dapat mengidentifikasi absurditas, tetapi jangan gunakan ini untuk mengganggu orang nyata atau menyebarkan tuduhan yang tidak terbukti      |
 
-### Tempat Lahirnya Meme dan Ungkapan Populer
+Ini juga tempat paling menarik dan paling rapuh dari budaya meme: platform yang sama dapat membiarkan orang menggunakan "tinggalkan untuk teman lihat" untuk meninggalkan petunjuk bagi teman, menggunakan katak untuk menertawakan penyembahan angka, menggunakan templat kompetisi untuk menampilkan keahlian, dan juga membiarkan orang melatih akun mencurigakan menjadi husky. Humor adalah bentuk kemampuan identifikasi kolektif, tetapi bukan bukti itu sendiri. Ketika aliran membuat setiap orang menjadi komentator real-time, rasa internet yang benar-benar matang bukan tentang paling cepat memahami meme, tetapi tahu kapan harus merespons meme dan kapan harus berhenti untuk memverifikasi.
 
-Threads telah menjadi sumber penting bagi meme internet dan ungkapan populer Taiwan:
+## Sungai yang Sama, Empat Hal Berbeda
 
-**Meme Populer:**
+Keunikan Threads bukan terletak pada keunggulannya dalam salah satu hal dibanding platform lain, melainkan pada beberapa perilaku jaringan yang sebelumnya tersebar akan bertabrakan di sungai yang sama. Komentar yang tampak biasa saja, bisa sekaligus menjadi interaksi sosial, pencarian, saling membantu, referensi konsumsi, dan relai meme.
 
-- **"Crispy Friends" (脆友)**: Nama panggilan pengguna Threads, menciptakan rasa identitas komunitas
-- **"Crispy Panik/Marah" (脆急了)**: Menunjukkan konten yang dilihat di Threads yang membuat orang marah
-- **"Crispy Power Very Good" (脆力很讚)**: Digunakan untuk memuji konten Threads yang berkualitas
+| Perilaku di Sungai                            | Permukaan yang Dilihat Pembaca                         | Pekerjaan Aktual yang Diselesaikan di Komunitas                                        |
+| --------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| Obrolan santai dan keluhan sehari-hari        | Sebuah keluhan, sebuah lelucon dingin                  | Pemecah es dengan orang asing dengan ambang rendah dan pertukaran emosi                |
+| "Tolong sebarkan" dan pencarian barang hilang | Mengunggah ulang dokumen atau permintaan bantuan       | Mengubah koneksi lemah orang Taiwan menjadi jaringan relai sementara                   |
+| Komentar makanan dan meme kucing              | Bercanda tentang foto wisatawan                        | Menyapa orang asing dengan meme yang dapat direplikasi, melampaui bahasa               |
+| Tanya jawab, rekomendasi, dan uji coba        | "Apakah tempat ini enak?" "Bagaimana cara membuatnya?" | Mengubah pengalaman pribadi menjadi pencarian kehidupan tipe kerumunan                 |
+| Postingan politik dan penyebaran berita       | Berita terkini, meme, pertukaran komentar              | Menempatkan isu publik ke dalam ruang interaksi bersuhu tinggi dan berkecepatan tinggi |
 
-### Budaya Penggunaan Khusus
+Campuran semacam ini menarik bagi banyak orang, namun juga melelahkan bagi pengamat. Survei MIC Strategi Riset Informasi menunjukkan bahwa 24,2% pengguna komunitas khawatir akan melewatkan informasi penting karena tidak melihat komunitas. Untuk usia 18–24 tahun mencapai 34,9%. Survei yang sama juga menunjukkan bahwa 52,5% pengguna ingin mencoba pengalaman menarik yang dibagikan orang lain.[^4] Oleh karena itu, Threads adalah sekaligus tempat obrolan santai untuk bersantai, namun juga dapat dengan cepat menjadi sumber tekanan "apakah saya melewatkan sesuatu".
 
-**"Makan Sate" (串串樂)**: Pengguna memposting beberapa teks pendek berturut-turut di bawah tema yang sama, membentuk "rantai"
-**"Warga Papan Crispy" (脆版鄉民)**: Netizen senior yang pindah dari PTT, membawa budaya forum
-**"Pameran Tulisan Sampah" (廢文大赏)**: Kompetisi konten lucu atau nonsensik yang paling populer setiap hari
+## Kartu Pelajar Mesir, Menghubungkan Tautan Lemah Menjadi Satu Jalur
 
-Fenomena lokal ini menunjukkan, Threads bukan hanya platform sosial, tetapi juga menjadi **titik masuk terbaik untuk mengamati ungkapan populer, emosi sosial, dan subkultur pemuda Taiwan**.
+Pencarian kartu pelajar menjadi cerita yang baik bukan karena keajaiban yang bisa menggantikan polisi, manajemen museum, atau layanan barang hilang, melainkan karena cerita itu menampilkan tautan lemah platform. Postingan asli berisi informasi yang cukup spesifik: Sphinx, jurusan keuangan, bandara Kairo, akan segera terbang. Detail-detail ini memungkinkan orang yang sebelumnya tidak saling kenal untuk mengetahui apakah mereka bisa membantu, dan juga memberikan arah yang jelas untuk berbagi ulang.[^1]
 
----
+Kasus-kasus lain yang dikurasi Yahoo mencakup: pemilik toko Korea mencari paspor untuk wisatawan Taiwan, mencari topi yang hilang di dekat Museum Vatikan dan orang yang bisa membawanya kembali ke Taiwan. Postingan semacam ini di Taiwan sering ditertawakan oleh pengguna internet sebagai "misi sampingan penduduk Animal Crossing": ada yang melihat misi, ada yang menandai teman, ada yang kebetulan berada di dekat lokasi, dan bersama-sama mereka mendorong informasi ke depan.[^6]
 
-## Makna Sosial di Balik Data
+_Lihat lebih lanjut: [Grafik penggunaan Threads selama Gerakan Burung Biru dalam laporan Taiwan Pusat Verifikasi Fakta](https://tfc-taiwan.org.tw/wp-content/uploads/2025/03/104945-3-1024x768.jpg)_
 
-### Analisis Perilaku Penggunaan
+_Sumber gambar: Taiwan Pusat Verifikasi Fakta. Keterangan gambar menunjukkan lonjakan penggunaan Threads selama Gerakan Burung Biru.[^7]_
 
-Berdasarkan berbagai data survei:
+Namun, kasus-kasus sukses memiliki bias survivor yang alami: cerita yang berhasil ditemukan akan dilaporkan media, ditingkatkan oleh algoritma. Postingan yang tidak berhasil ditemukan biasanya tenggelam diam-diam. Inilah yang penting untuk dipahami tentang nuansa budaya yang rapuh. Platform dapat memberikan visibilitas besar dalam waktu singkat untuk permintaan bantuan kecil, tetapi bukan layanan publik yang dapat dijamin atau dipertanggungjawabkan. Untuk kehilangan dokumen yang benar-benar penting, masih harus diprioritaskan penghentian, pelaporan polisi, dan kontak resmi.
 
-**Profil Pengguna:**
+> **Catatan Kurator:** Orang Taiwan tidak tiba-tiba menjadi lebih berhati di Threads. Yang dilakukan platform adalah membuat "saya kebetulan bisa membantu" lebih mudah dilihat, dan juga lebih mudah untuk diambil alih oleh satu orang demi orang lainnya.
 
-- **Generasi Z mendominasi**: Pengguna usia 18-25 tahun sekitar 60%
-- **Pendidikan tinggi terkonsentrasi**: Pendidikan sarjana ke atas sekitar 70%
-- **Distribusi perkotaan**: Taipei, Taipei Baru, Taichung, Kaohsiung menyumbang 65% dari total pengguna
+## Saling Membantu Bukan Hanya Keajaiban: Dari Permintaan Tisu Toilet hingga Dokumen Pulang
 
-**Waktu Penggunaan:**
+_Lihat juga: [Berita Televisi Rakyat: Kasus Paspor yang Dibawa Keluarga ke Luar Negeri, Gambar Permintaan Bantuan Wisatawan di Threads](https://cdn.ftvnews.com.tw/summernotefiles/News/5c035d51-9046-4d1b-b390-5aa73f2dc860.jpg)_
 
-- **Puncak malam**: Pukul 23.00 hingga 02.00 pagi
-- **Waktu komuter**: Pukul 08.00-09.00 pagi, pukul 18.00-19.00 sore
-- **Perayaan akhir pekan**: Durasi penggunaan hari libur 40% lebih tinggi dari hari biasa
+_Gambar: Kasus permintaan bantuan paspor lintas negara yang dilaporkan oleh Televisi Rakyat. Ini dapat memvisualisasikan kecepatan relai saling membantu, tetapi tidak merupakan contoh keamanan untuk penyerahan paspor secara pribadi. Prosedur layanan konsular formal lihat di bawah. [^40] [^41]_
 
-**Preferensi Konten:**
+"Bahkan tanpa tisu toilet di kamar mandi juga bisa meminta bantuan di Threads" adalah lelucon yang digunakan pengguna Taiwan untuk menggambarkan Threads. LINE TODAY pernah mengutip pernyataan ini dan menyebutkan skenario seperti "makan bento tanpa sumpit", memandangnya sebagai perumpamaan grup LINE terbuka besar-besaran yang berlebihan. [^39] Mungkin tidak sesuai dengan kisah sukses pengiriman tisu yang dapat diverifikasi kasus per kasus, tetapi sangat akurat menggambarkan imajinasi saling membantu di Threads: selama kesulitan cukup spesifik dan jaraknya cukup dekat, selalu ada kemungkinan ada orang yang kebetulan berada di gedung yang sama, stasiun yang sama, atau jalan yang sama.
 
-- **Ekspresi emosional**: Menyumbang 35% dari total postingan
-- **Diskusi berita**: Menyumbang 25%
-- **Berbagi kehidupan**: Menyumbang 20%
-- **Meme lucu**: Menyumbang 15%
-- **Lainnya**: Menyumbang 5%
+Kekuatan imajinasi ini terletak pada kenyataan bahwa ia mengubah "saya membutuhkan sesuatu yang sangat kecil" menjadi pertanyaan yang dapat ditanyakan secara terbuka. Secara tradisional, tidak ada tisu toilet di kamar mandi, bento tanpa sumpit, power bank yang mati, biasanya hanya meminta bantuan kepada orang di sekitar dengan canggung. Di Threads, peminta bantuan dapat menjelaskan wilayah, waktu, dan kebutuhan, membiarkan orang asing memutuskan sendiri apakah akan membantu. Platform membuat koneksi lemah muncul ke permukaan, tetapi juga tidak dapat menjamin orang lain akan muncul, dan apalagi tidak dapat membuat orang mengungkapkan nomor rumah yang tepat, lokasi saat ini yang sedang sendirian, atau informasi sensitif lainnya untuk mendapatkan bantuan.
 
-### Dampak Mendalam terhadap Masyarakat Taiwan
+Yang benar-benar mengesankan adalah ketika kebutuhan meningkat dari sebungkus tisu toilet menjadi dokumen lintas negara. Pada Februari 2026, Televisi Rakyat melaporkan seorang wisatawan yang bersiap pergi ke Amerika Serikat menemukan paspornya dibawa oleh keluarga ke Korea, dan meminta bantuan di Threads karena waktu sangat terbatas. Dalam sekitar 30 menit ada orang yang merespons untuk membantu, laporan menyebutkan paspor ditukar secara rahasia di kamar mandi bandara Incheon, kemudian dibawa kembali ke Taiwan oleh pengguna internet. [^40] Cerita itu seperti film aksi, dan memang menunjukkan bagaimana grup terbuka besar-besaran dapat dengan cepat menemukan jalan di antara perbedaan waktu, penerbangan, dan orang asing.
 
-**1. Mendefinisikan Ulang "Diskusi Publik"**
-Threads menurunkan hambatan untuk berpartisipasi dalam diskusi isu publik, membuat lebih banyak suara terdengar. Namun, ini juga membawa tantangan: Bagaimana mempertahankan kualitas diskusi dalam teks pendek yang terfragmentasi dan emosional?
+Tetapi itu tidak boleh ditulis sebagai prosedur contoh "paspor bisa dibawa oleh teman Threads saja". Dalam laporan itu juga ada wisatawan yang diwawancarai mengingatkan bahwa menyerahkan dokumen kepada orang asing memiliki risiko. Biro Layanan Konsular Kementerian Luar Negeri dengan jelas menetapkan bahwa jika paspor hilang di luar negeri dan mendesak untuk kembali ke negara, seseorang dapat mengajukan permohonan sertifikat masuk ke kantor perwakilan di luar negeri, dan setelah paspor dilaporkan hilang, bahkan jika ditemukan kemudian juga tidak dapat digunakan lagi. [^41] Nilai paspor tidak hanya terletak pada fakta bahwa itu adalah selembar kartu, tetapi pada kenyataan bahwa itu terhubung dengan kewarganegaraan, masuk-keluar negara, dan keamanan identitas. Setiap cara membawa dokumen secara pribadi lintas batas, membagikan foto halaman dokumen secara terbuka, atau memposting data pribadi lengkap di media sosial, semuanya dapat mengubah saling membantu menjadi risiko.
 
-**2. Celah Digital Antar Generasi Meningkat**
-Partisipasi pengguna di atas 40 tahun di Threads jelas lebih rendah, yang mungkin memperlebar kesenjangan penerimaan informasi antar generasi.
+Kartu pelajar NTU yang ditemukan di Mesir menunjukkan jenis kondisi pencarian lain yang lebih sesuai untuk Threads. Akhir 2025, seorang wisatawan Taiwan menemukan kartu pelajar di dekat Sphinx di kompleks Piramida Giza, dan sebelum menuju bandara Kairo, menunjuk pemilik di Threads. Postingan dengan cepat menyebar, pemilik sendiri muncul di bagian komentar untuk mengkonfirmasi identitas, dan kedua belah pihak menyetujui untuk mengambilnya kembali setelah kembali ke Taiwan. [^42] Ini bisa berhasil, bukan hanya karena lalu lintas postingan tinggi, tetapi karena "barang, lokasi, dan komunitas yang mungkin" cukup jelas, dan pemilik sendiri dapat muncul di utas publik, kemudian memindahkan detail ke komunikasi pribadi yang dapat diverifikasi.
 
-**3. Pembawa Baru Polarisasi Politik**
-Mekanisme dorong algoritma meskipun dapat memecahkan gelembung filter, konten kontroversial dengan interaksi tinggi lebih mudah diperbesar, yang mungkin memperburuk polarisasi politik.
+| Skenario Saling Membantu                                                                                   | Yang Dapat Dilakukan Threads                                                                                                      | Yang Paling Tidak Boleh Dilakukan di Utas Publik                                                                                                  | Prinsip Penyerahan yang Lebih Aman                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tidak ada tisu toilet di kamar mandi, makanan kurang peralatan makan, dan kebutuhan mendesak kecil lainnya | Biarkan orang di dekat, di gedung yang sama, atau di lokasi yang sama melihat kebutuhan                                           | Ungkapkan nomor rumah lengkap, lokasi kamar mandi, atau status real-time seseorang yang sedang sendirian                                          | Bertemu di area publik, layanan pelanggan, atau lokasi dengan banyak orang, jangan membocorkan data pribadi untuk kebutuhan kecil                                                             |
+| Kunci, kartu pelajar, barang hilang umum                                                                   | Hubungkan pemilik dan penemu dengan fitur barang hilang, wilayah yang hilang, dan segmen waktu                                    | Ungkapkan nomor pelajar lengkap, nomor dokumen, barcode, alamat, atau semua detail barang hilang                                                  | Pemilik memberikan satu fitur yang tidak dipublikasikan untuk verifikasi, prioritas diserahkan di kantor polisi, kantor sekolah, layanan stasiun, atau tempat publik                          |
+| Kartu identitas, paspor, kartu keuangan, dan dokumen sensitif tinggi lainnya                               | Bantu meneruskan informasi barang hilang kepada pemilik atau jendela resmi                                                        | Tampilkan sisi depan dan belakang dokumen, nomor dokumen, halaman data paspor, atau minta orang asing membawa lintas batas                        | Serahkan kepada polisi, maskapai penerbangan, layanan stasiun, kantor perwakilan di luar negeri, atau lembaga penerbit; tangani sesuai dengan prosedur kehilangan dan penggantian resmi       |
+| Kebutuhan darurat lintas negara                                                                            | Dengan cepat temukan orang di penerbangan yang sama, kota yang sama, atau yang memahami prosedur lokal untuk memberikan informasi | Sembunyikan dokumen di kamar mandi, kirim ke orang asing yang tidak diverifikasi, atau koordinasikan penyerahan sensitif melalui postingan publik | Hubungi maskapai penerbangan, polisi lokal, dan kantor perwakilan di luar negeri terlebih dahulu, anggap media sosial sebagai informasi dan bantuan kontak tambahan, bukan pengganti prosedur |
 
----
+Kartu identitas dan paspor khususnya harus diperlakukan berbeda antara "menemukan" dan "dapat digunakan". Biro Kepolisian Kriminal menjelaskan bahwa kehilangan paspor Republik Tiongkok (Taiwan) di dalam negeri harus dilaporkan ke tim investigasi cabang kepolisian dengan membawa dokumen identitas, kemudian mengajukan permohonan paspor baru ke Biro Layanan Konsular. Keberadaan sistem ini adalah untuk memastikan bahwa dokumen yang hilang tidak lagi menjadi celah yang dapat disalahgunakan. [^43] Prinsip yang sama berlaku untuk kartu identitas, kartu keuangan, kartu asuransi kesehatan, dan dokumen lain yang berisi data pribadi: pencarian terbuka harus meminimalkan informasi, verifikasi identitas yang sebenarnya dan pengembalian dokumen harus diserahkan ke jendela resmi yang memiliki catatan dan dapat dilacak.
 
-## Tantangan dan Kekhawatiran
+Ini tidak akan membuat saling membantu di Threads kehilangan kehangatan, sebaliknya membuat hal itu berkelanjutan. Yang paling menarik dari saling membantu bukan karena ada orang yang menyelesaikan tugas yang mustahil untuk Anda, tetapi karena orang asing bersedia memberikan waktu, rute, informasi, atau sebungkus tisu toilet. Saling membantu komunitas yang matang tidak mengharapkan setiap orang menjadi pahlawan. Ini mengharapkan setiap orang tahu apa yang dapat dibantu, apa yang harus diserahkan ke jendela profesional, dan bagaimana tidak meninggalkan risiko baru bagi diri sendiri dan orang lain saat membantu.
 
-### Penurunan Kualitas Konten
+> **Catatan Kurator:** Sebuah kartu pelajar kembali ke tangan pemiliknya bergantung pada penyebaran; sebuah paspor kembali dengan aman ke tangan pemegangnya bergantung pada penyebaran ditambah prosedur. Threads dapat menemukan orang, tetapi tidak dapat menggantikan polisi, maskapai penerbangan, stasiun, dan sistem layanan konsular.
 
-Seiring pertumbuhan pengguna, Threads menghadapi tantangan umum semua platform sosial:
+## 「Halo, Saya Makan Sedikit」: Seekor Kucing Bagaimana Menarik Wisatawan Masuk
 
-**Penurunan Kualitas Informasi:**
+Jika pencarian barang hilang menunjukkan saling membantu, maka 「Halo, Saya Makan Sedikit」menunjukkan bagaimana pengguna internet Taiwan menghibur orang asing dengan meme. Ketika pengguna Jepang dan Korea berbagi foto makanan Taiwan di Threads, bagian komentar sering menampilkan gambar kucing memegang sumpit dengan kalimat ini. Tata bahasanya tidak sepenuhnya penting. Yang penting adalah orang yang memposting gambar menempatkan dirinya di samping meja makan wisatawan, dengan cara yang sedikit tidak sopan, tetapi cukup lucu untuk dimaafkan, berkata: saya juga ingin makan.
 
-- Penyebaran misinformasi meningkat
-- Konten yang menghasut emosi meluas
-- Diskusi profesional tenggelam dalam kebisingan
+_Lihat lebih lanjut: [Meme Kucing 「Halo, Saya Makan Sedikit」 dalam Laporan Berita Taiwan TV](https://cdn.ttv.com.tw/summernotefiles/News/e93d9fd4-6cac-4ac4-b338-bf985978f7fe.jpg)_
 
-**Tekanan Komersialisasi:**
+_Sumber gambar: Berita Taiwan TV.[^8]_
 
-- Meta mulai menguji fitur iklan Threads pada akhir 2024
-- Komersialisasi mungkin mempengaruhi logika algoritma
-- Keseimbangan antara pengalaman pengguna dan kebutuhan keuntungan
+Lelucon ini kemudian keluar dari bagian komentar. Taiwan TV melaporkan pada 2025 bahwa Kementerian Luar Negeri membuat kartu bergambar Tionghoa-Jepang terinspirasi oleh meme kucing tersebut, mengundang semua orang untuk berbagi makanan Jepang. Pengguna internet Taiwan dan Jepang juga merespons dengan foto makanan.[^8] Sebuah kalimat yang awalnya hanya berusaha mendapatkan gigitan di bawah foto makanan, menjadi bahasa lunak yang dapat digunakan oleh institusi publik.
 
-### Privasi dan Tata Kelola Data
+Ini tidak berarti satu gambar kucing dapat mewakili 「diplomasi orang Taiwan」. Ini lebih seperti kesopanan lokal yang dapat diterjemahkan dengan cepat: tidak perlu memperkenalkan negara terlebih dahulu, tidak perlu menukar identitas formal terlebih dahulu, terlebih dahulu mengakui bahwa makanan di meja pihak lain sangat lezat. Bagi wisatawan, ini adalah sekelompok orang asing yang sangat berisik. Bagi pengguna internet Taiwan, ini adalah cara untuk mengatakan 「selamat datang」 yang tidak terlihat seperti materi promosi pariwisata.
 
-Sebagai anggota keluarga Meta, Threads mewarisi kontroversi privasi Facebook dan Instagram:
+## Platform Akhirnya Mulai Mengejar Daerah
 
-- **Cakupan pengumpulan data**: Terintegrasi mendalam dengan akun IG, penggunaan data silang
-- **Transparansi algoritma**: Cara kerja kotak hitam kurang penjelasan publik
-- **Standar penapisan konten**: Mekanisme penapisan konten bahasa Mandarin masih disempurnakan
+Pengguna terlebih dahulu menciptakan budaya lokal, baru kemudian platform perlahan menyusul. Meta pada Juni 2026 mengumumkan bahwa fitur Communities di Threads keluar dari Beta, dan menempatkan Jepang, Korea Selatan, dan Taiwan sebagai pasar gelombang pertama untuk label bahasa lokal.[^2] Ini menunjukkan bahwa platform akhirnya mengakui: komunitas bukan hanya minat yang dapat direplikasi secara global seperti "fotografi," "bola basket," atau "orang tua dan anak," tetapi juga percakapan lokal yang terbentuk oleh bahasa, geografi, dan pengalaman hidup bersama.
 
-### Risiko Ketergantungan Platform
+Namun fitur bukanlah titik awal budaya. Pengguna Taiwan sudah lama menggunakan aliran untuk pencarian barang hilang, papan pesan turis asing, serta area tanya jawab sementara untuk restoran dan masalah kehidupan. Apakah label Community dapat membantu pembaca menemukan konten yang lebih berguna masih bergantung pada bagaimana platform menangani spam, aliran komersial, dan topik trending yang terus berubah. Tanpa manajemen yang baik, komunitas lokal mungkin hanya sekadar mengklasifikasikan kebisingan.
 
-Ketergantungan tinggi Taiwan pada satu platform dapat membawa risiko sistemik:
+Pengumuman Meta yang sama memperkenalkan Dear Algo dan Your Algo, yang memungkinkan pengguna meminta dengan kalimat alami untuk melihat lebih banyak atau lebih sedikit topik tertentu. Namun saat itu peluncuran gelombang pertama Your Algo tidak mencakup Taiwan.[^2] Perbedaan waktu ini sangat simbolis: budaya konten Taiwan sudah berkembang pesat, tetapi kontrol pengguna atas apa yang ingin dilihat di aliran mungkin belum sampai dengan kecepatan yang sama.
 
-- **Dampak gangguan layanan**: Kegagalan platform dapat mempengaruhi penyebaran pesan penting
-- **Dampak perubahan kebijakan**: Penyesuaian kebijakan Meta dapat tiba-tiba mengubah lingkungan penggunaan
-- **Masalah kedaulatan data**: Data diskusi sosial penting berada di tangan perusahaan Amerika
+## Semi-Publik Pohon Cerita: Bisa Curhat, Tidak Berarti Benar-benar Anonim
 
----
+Kedekatan Threads sering kali datang dari sebuah kondisi yang tampak kontradiktif: ia cukup publik, namun tidak seperti Facebook yang selalu membuat orang teringat keluarga, rekan kerja, dan teman sekolah lama. Ada yang menggunakan akun kecil untuk berbagi patah hati, keruntuhan pekerjaan, atau gesekan keluarga. Ada yang di bagian komentar menyambung satu keluhan sehari-hari menjadi percakapan panjang. Ini membuat "Threads" terlihat seperti pohon cerita yang tidak perlu bergabung dengan grup terlebih dahulu, juga tidak perlu menjelaskan latar belakang terlebih dahulu.
 
-## Prospek: Masa Depan Budaya "Crispy" Taiwan
+Namun pohon cerita bukanlah tempat tanpa orang. Penjelasan resmi Meta menunjukkan bahwa Threads adalah aplikasi percakapan publik, dan pengguna dapat menentukan jangkauan visibilitas postingan berdasarkan pengaturan privasi profil pribadi mereka. Balasan tidak hanya muncul di utas diskusi asli, tetapi juga muncul di profil pribadi pengguna sendiri. Saat membuat profil Threads, akun akan terhubung dengan akun Instagram atau Facebook yang digunakan untuk masuk, dan menggunakan data nama akun, nama pengguna, profil, tautan, dan status akun.[^15]
 
-### Perkembangan Jangka Pendek (2026-2027)
+Desain ini membawa semacam "anonimitas relatif" yang sangat familiar bagi komunitas Taiwan. Anda tidak harus menggunakan nama asli, dan tidak harus langsung terlihat oleh teman dan keluarga di kehidupan nyata. Namun pilihan kata yang Anda tinggalkan, balasan, foto, hubungan yang Anda ikuti, dan profil lintas platform masih dapat secara perlahan merangkai identitas Anda. Dengan demikian, Threads sangat cocok untuk mengatakan "saya sekarang tidak ingin teman dekat tahu, tetapi saya berharap ada yang merespons," namun tidak cocok untuk memperlakukannya sebagai kotak surat anonim yang dijamin tanpa jejak.
 
-**Periode Penyempurnaan Fitur:**
+| Interaksi yang Terlihat di Sungai                                       | Perasaan yang Dibawanya                                                   | Batas yang Perlu Dipertahankan                                                                                     |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Orang asing membalas keluhan tentang perasaan, keluarga, atau pekerjaan | Dengan cepat mendapatkan dukungan dan pengalaman berbeda                  | Pemberi komentar mungkin tidak memiliki kualifikasi profesional; detail sensitif dapat ditangkap layar atau dicari |
+| Postingan akun kecil, menggunakan nama samaran                          | Mengurangi tekanan pertunjukan saat menghadapi teman dekat                | Nama samaran tidak sama dengan tidak dapat diidentifikasi; jejak lintas platform masih dapat terhubung             |
+| Komentar panjang membentuk narasi bersama                               | Mengubah peristiwa yang menyendiri menjadi pengalaman yang dapat dipahami | Interaksi tinggi tidak sama dengan opini mayoritas, juga tidak sama dengan saran yang benar                        |
 
-- Sistem iklan resmi diluncurkan, mempengaruhi ekosistem konten
-- Integrasi fitur siaran langsung, belanja
-- Pemahaman konten bahasa Mandarin terus dioptimalkan
+Ini bukan untuk menyangkal saling membantu komunitas. Banyak kali, apa yang benar-benar dibutuhkan seseorang hanyalah ada yang berkata "saya juga pernah mengalami itu." Namun jika postingan melibatkan risiko melukai diri sendiri, kekerasan, kekerasan seksual, risiko medis atau hukum yang signifikan, bagian komentar tidak dapat menggantikan bantuan profesional dan sumber daya darurat. Dukungan terbaik dari budaya Threads adalah tidak salah mengira kehangatan sesaat sebagai sesuatu yang dapat menanggung segalanya.
 
-**Periode Kedewasaan Ekosistem:**
+## Pekerjaan Dimulai di Sungai Percakapan: Pencarian Klien, Perekrutan, dan Portofolio Pribadi
 
-- Model ekonomi pencipta konten dibangun
-- Pemerintah dan lembaga publik resmi masuk
-- Tingkat integrasi media berita meningkat
+Di Taiwan, Threads juga mulai berfungsi seperti pasar kerja sementara tanpa kolom resume formal. Ada yang mencari desainer, fotografer, editor video, penulis, atau asisten acara. Ada yang mendeskripsikan keahlian mereka dalam satu postingan singkat, menyebutkan proyek apa yang sedang mereka tangani, lalu menempatkan portofolio dan informasi kontak di profil pribadi. Daya tariknya bukan terletak pada sistem, melainkan pada kecepatan: sebuah lowongan atau kebutuhan dapat terlihat terlebih dahulu oleh kenalan, kemudian diteruskan oleh orang asing kepada "orang yang tepat".
 
-### Evolusi Jangka Menengah (2027-2030)
+Sebuah artikel pengalaman tahun 2024 yang ditulis oleh seorang penulis panduan freelance merangkum keunggulan pencocokan Threads sebagai postingan gratis, jangkauan ke orang asing, dan kemampuan mengamati karya serta jejak manajemen dari Instagram yang terhubung. Ini adalah pengamatan subjektif dari komunitas freelance, bukan statistik pasar kerja. Namun hal ini menangkap satu perubahan: di luar pengiriman resume tradisional, konten publik itu sendiri juga menjadi semacam "portofolio pribadi" yang akan ditelusuri.[^16]
 
-**Persaingan Platform Memanas:**
+Perubahan ini memiliki dua sisi. Di satu sisi, pekerja pemula dapat terlihat melalui pengenalan diri yang jelas tanpa harus menunggu mekanisme platform untuk menyetujuinya. Toko kecil dan tim mikro juga dapat menguji kebutuhan dengan biaya rendah. Di sisi lain, kemampuan kerja, kehidupan pribadi, pendapat politik, dan ekspresi emosi ditempatkan di dekat akun yang sama, dan klien, pemberi kerja, serta mitra dapat menggulir ke belakang; pengguna juga mudah mulai menyensor diri mereka sendiri untuk penonton asing di masa depan.
 
-- TikTok, YouTube meluncurkan fitur sosial teks
-- Platform lokal (seperti PTT versi baru) kembali bersaing
-- Perhatian pengguna semakin terdispersi
+| Skenario                                              | Efisiensi yang Dapat Disediakan Threads                                | Prosedur yang Tidak Dapat Digantikannya                                                                               |
+| ----------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Merekrut outsourcing jangka pendek atau asisten acara | Membuat kebutuhan menyebar cepat melampaui lingkaran pengikut yang ada | Ruang lingkup pekerjaan, tenggat waktu, kompensasi, dan hak cipta masih harus dijelaskan dengan jelas                 |
+| Menampilkan keterampilan atau karya pribadi           | Membangun kepercayaan awal melalui nada, studi kasus, dan balasan      | Interaksi postingan tidak dapat memverifikasi kemampuan profesional atau kelayakan pembayaran                         |
+| Menghubungi kolaborasi melalui pesan pribadi          | Mengurangi gesekan kontak awal                                         | Tautan yang tidak jelas, urgensi berlebihan, atau permintaan pembayaran di muka masih harus diverifikasi lebih lanjut |
 
-**Perubahan Lingkungan Regulasi:**
+Jadi, Threads lebih seperti sambutan di depan, bukan meja kontrak. Sangat pandai membuat orang bertemu, tetapi tidak akan secara otomatis menyelesaikan pemeriksaan latar belakang, negosiasi penawaran, klausul kerahasiaan, atau penanganan perselisihan. Ketika "posting dulu untuk mencoba" menjadi praktik umum, budaya komunitas yang matang tidak hanya harus tahu cara menandai teman, tetapi juga harus belajar bertanya: Apakah ini komisi formal? Siapa yang menanggung kompensasi dan tanggung jawab?
 
-- Implementasi regulasi baru seperti Undang-Undang Layanan Perantara Digital
-- Penguatan mekanisme pencegahan misinformasi
-- Pembentukan standar tata kelola data lintas platform
+## Satu Sungai, Dua Nilai Pertukaran: Rekomendasi dan Transaksi
 
-### Dampak Jangka Panjang (2030+)
+Rekomendasi kehidupan adalah salah satu perilaku yang paling mudah terjadi dalam budaya rapuh. Toko mana hari ini tidak perlu antri, headphone mana yang bagus, haruskah mengganti pekerjaan, apakah tiket pameran tertentu layak dibeli—pengguna hanya perlu menulis pertanyaan dengan cukup spesifik, mereka mungkin akan menerima serangkaian balasan pengalaman. Survei MIC Strategi Riset Informasi menunjukkan bahwa 52,5% pengguna komunitas ingin mencoba sendiri setelah melihat orang lain berbagi pengalaman menarik. Ini menunjukkan bahwa pengalaman massa mempengaruhi keputusan konsumsi dan kehidupan, dan tidak hanya ada dalam postingan bisnis.[^4]
 
-**Perubahan Struktural Sosial:**
+Namun, antara rekomendasi dan transaksi hanya ada satu tautan. Ketika sungai bergeser dari "apakah ada yang pernah menggunakan ini" menjadi "saya gratis kirim ke kamu" "toko akan tutup, clearance dengan harga super murah" "hanya bayar ongkos kirim", pengguna berubah dari peserta diskusi menjadi pembeli potensial, dan juga memasuki situasi yang paling dimanfaatkan oleh penipu: mendesak, murah, dan tampak didukung oleh orang.
 
-- Generasi baru "Crispy Natives" dewasa, mempengaruhi arah budaya internet Taiwan
-- Garis batas antara media tradisional dan media baru semakin kabur
-- Pola komunikasi politik sepenuhnya bertransformasi ke digital
+Divisi Kriminal Kepolisian Kota Kaohsiung dalam pengumuman Oktober 2025 menjelaskan bahwa sindikat penipuan akan di Threads dan komunitas lainnya menggunakan umpan pemberian gratis, clearance penutupan bisnis, atau barang pinggiran konser populer dan grup K-pop, kemudian menyediakan tautan penjualan palsu, dan kemudian membujuk transfer perbankan internet dengan alasan verifikasi identitas.[^17] Kepolisian Kota Xinbei juga menerbitkan kasus yang menarik pesan pribadi dengan poster anime gratis, terlebih dahulu mengumpulkan biaya pengiriman kecil, kemudian beralih ke layanan pelanggan LINE palsu yang terus meminta transfer.[^18]
 
-**Risiko dan Peluang Potensial:**
+| Ungkapan di Sungai                                                            | Psikologi yang Mungkin Dimanfaatkan                                  | Pendekatan yang Lebih Aman                                                                                             |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| "Gratis, hanya bayar ongkos kirim"                                            | Jumlah kecil tampak tidak berbahaya, mudah menurunkan kewaspadaan    | Jangan klik tautan transaksi yang disediakan pihak lain, ubah dengan masuk sendiri dari layanan resmi untuk verifikasi |
+| "Tinggal beberapa unit, jika tidak beli sekarang tidak ada lagi"              | Menggunakan tekanan waktu terbatas untuk menghalangi verifikasi      | Hentikan operasi, periksa waktu pembuatan akun, riwayat postingan dan komentar                                         |
+| "Pesanan abnormal, silakan tambahkan layanan pelanggan LINE untuk verifikasi" | Membawa orang keluar dari platform asli, meningkatkan ilusi otoritas | Jangan tambahkan layanan pelanggan asing, jangan berikan OTP, operasi perbankan internet, atau data pribadi            |
+| "Lihat begitu banyak orang berkomentar ingin ini"                             | Menggunakan jumlah interaksi untuk menciptakan kredibilitas          | Anggap komentar sebagai petunjuk, bukan sebagai kredit pedagang atau jaminan platform                                  |
 
-- Web3, platform sosial terdesentralisasi mungkin menggulingkan pola yang ada
-- Masalah garis batas antara konten yang dihasilkan AI dan diskusi pengguna nyata
-- Pengalaman sukses lokalisasi platform lintas negara mungkin direplikasi ke daerah lain
+Prinsip pencegahan penipuan yang kemudian disusun oleh Departemen Pengembangan Digital juga menekankan bahwa penjualan tidak akan meminta OTP, tidak boleh beralih ke layanan pelanggan LINE asing, dan harus memeriksa akun penjual, interaksi postingan, dan konten komentar.[^19] Pengingat ini sangat penting dalam budaya rapuh: interaksi tinggi dapat menjadi dasar saling membantu, tetapi juga dapat dirancang sebagai latar belakang kepercayaan. Komunitas ahli dalam menyebarkan barang bagus, tidak berarti itu secara alami cocok untuk menangani pembayaran, autentikasi, dan layanan purna jual.
 
----
+## Bertanya Arah, Bertanya Hal, Bertanya "Ada Orang yang Kebetulan Tahu Tidak": Layanan Publik Mikro Informasi Lokal
 
-## Kesimpulan: Mengendap dari Fenomena Menjadi Budaya
+Selain transaksi dan pekerjaan, banyak postingan Threads sebenarnya memberikan layanan publik yang sangat kecil. Ada yang bertanya apakah gang tertentu banjir, rumah sakit mana yang masih buka klinik malam, bagaimana cara pulang setelah pertunjukan berakhir, atau meminta orang sekitar mengonfirmasi barang hilang, kondisi lalu lintas, dan jam operasional toko. Pertanyaan semacam ini mungkin tidak akan masuk berita, namun membuat platform terasa seperti selembar catatan yang disusun dari pengalaman lokal orang-orang asing.
 
-Kesuksesan Threads di Taiwan mencerminkan pertemuan beberapa keinginan mendalam:
+Ini juga sisi praktis dari "bertanya kalau tidak tahu dengan santai": ketika pertanyaan cukup spesifik, penjawab tidak perlu mengenal pembuat postingan—mereka hanya perlu kebetulan pernah ke sana, tinggal di sana, atau mengalaminya. Hal ini mengurangi rasa canggung saat bertanya arah dan meminta saran, sekaligus memberi kesempatan detail yang hanya diketahui penduduk lokal untuk ditambahkan. Bagi orang yang sedang bepergian, baru pindah, atau menghadapi masalah kehidupan sehari-hari untuk pertama kalinya, respons dengan ambang batas rendah ini terasa lebih manusiawi daripada peringkat mesin pencari.
 
-1. **Lingkungan sosial tekanan rendah**: Melarikan diri dari tekanan sosial media yang terlalu dikemas
-2. **Diskusi publik partisipasi tinggi**: Menemukan kembali tujuan internet sebagai ruang publik
-3. **Ruang ekspresi nyata**: Menjaga kehangatan kemanusiaan di dunia digital
+Namun informasi lokal memiliki masa berlaku yang sangat singkat. Toko bisa tutup sementara, lalu lintas bisa berubah karena cuaca, dan informasi bencana tidak boleh hanya dinilai dari tangkapan layar. Threads sudah memiliki akun informasi gempa bumi dan bencana yang menggunakan platform ini bersama saluran lain seperti Aplikasi, Telegram, dan Discord. Ini menunjukkan bahwa sungai sedang menjadi salah satu simpul informasi, namun tidak berarti itu adalah sistem peringatan resmi.[^20] Untuk peristiwa yang benar-benar menyangkut keselamatan, tetap harus kembali ke pengumuman real-time dari unit pemerintah, operator transportasi, venue, atau otoritas lokal yang berwenang.
 
-Yang paling penting, **"Crispy" bukan lagi hanya sebuah platform sosial, tetapi telah menjadi jendela penting untuk memahami budaya pemuda Taiwan kontemporer, komunikasi politik, dan perubahan sosial**.
+> **Catatan Kurator:** Momen paling berguna Threads sering kali bukan ketika memberikan jawaban standar, melainkan ketika membuat orang yang "kebetulan tahu" itu muncul. Momen paling berbahaya adalah ketika kita lupa mengonfirmasi apakah jawaban yang mereka berikan masih berlaku hari ini.
 
-Ketika kami menggeser Threads di malam hari, melihat orang asing berbagi kekhawatiran dan sukacita yang paling nyata, kami mungkin sedang menyaksikan titik balik penting dalam sejarah masyarakat digital Taiwan—dari "menampilkan diri" kembali ke "ekspresi diri", dari "mencari kesempurnaan" kembali ke "merangkul kenyataan".
+## Diblokir, Baru Tahu Sungai Bukan Milik Sendiri
 
-Namun tantangannya juga jelas: Dalam teks pendek yang terfragmentasi dan emosional, bagaimana mempertahankan kualitas diskusi publik? Polarisasi yang dibawa oleh algoritma, apakah akan membuat "Crispy" berubah dari alun-alun publik menjadi medan perang?
+_Lihat juga: [Pengumuman resmi Departemen Pengembangan Digital tentang pemblokiran akun Meta yang keliru](https://moda.gov.tw/ADI/assets/img/fbshare.jpg)_
 
-Pertanyaan-pertanyaan ini tidak memiliki jawaban standar, tetapi jawabannya akan menentukan bab berikutnya dari demokrasi digital Taiwan.
+_Gambar: Gambar berbagi resmi dari pengumuman pemblokiran akun Juni 2026 Departemen Pengembangan Digital. Ini adalah penanda sumber pengumuman, bukan data grafik akun yang terpengaruh atau skala penangguhan. [^54]_
 
----
+Departemen Pengembangan Digital dalam pengumuman lanjutan tanggal 17 Juni 2026 menambahkan konteks tata kelola dari peristiwa penangguhan sebelumnya: Meta mengalami masalah teknis mekanisme verifikasi usia, yang menyebabkan akun Facebook, Instagram, dan Threads global terkena pemblokiran keliru. Departemen Pengembangan Digital menuntut Meta melakukan "deteksi proaktif, pemulihan hak proaktif", dan pada pukul 16.00 sore hari itu, hampir **90 persen** akun yang terkena pemblokiran keliru telah dipulihkan dengan cara ini. Pengumuman juga memperkirakan bahwa mereka yang terpengaruh di Taiwan mencakup lebih dari 200 lembaga media dan tokoh publik lintas partai, serta ribuan akun pengguna biasa. Namun masih ada kasus pemblokiran baru atau pemblokiran ulang setelah pemulihan. [^54]
 
-## Eksplorasi Lanjutan
+Serangkaian data lanjutan ini mengubah pemahaman artikel tentang peristiwa tersebut. Hal ini tidak dapat disederhanakan menjadi "bisa diselesaikan dengan mengajukan banding", dan juga tidak dapat langsung dianggap sebagai tingkat pemulihan untuk semua peristiwa penangguhan. Sebaliknya, hal ini menjelaskan masalah yang lebih mendasar: ketika kesalahan berasal dari sistem platform, biaya administratif dari pengguna individual yang mengajukan banding satu per satu adalah kerusakan itu sendiri. Otoritas yang berwenang menuntut platform secara proaktif menemukan orang-orang yang terpengaruh oleh kesalahan, baru saja mengubah masalah dari "penyelamatan diri pengguna" menjadi "tanggung jawab bisnis". Bagi media, kreator, dan akun biasa, cadangan tetap diperlukan, karena bahkan jika 90 persen pulih, 10 persen sisanya dan orang-orang yang berulang kali salah dihakimi masih dapat kehilangan outlet mereka pada saat-saat kritis.
 
-### Topik Terkait
+Musim panas 2026, alun-alun yang tampak mudah diakses ini tiba-tiba menunjukkan sisi lainnya. Dari malam 14 Juni hingga pagi 15 Juni, akun Threads beberapa tokoh terkenal dan media Taiwan dilaporkan diblokir. Departemen Pengembangan Digital menyatakan telah menerima pengaduan dan telah menghubungi Meta. Meta awalnya menilai kemungkinan terkait dengan masalah teknis mekanisme verifikasi usia, bukan menargetkan kelompok atau individu tertentu, dan mengatakan akan segera membuka blokir. [^21]
 
-### Sumber Penelitian
+_Lihat juga: [Gambar laporan peristiwa penangguhan Threads Taiwan tanpa pemberitahuan Juli 2026](https://img.ltn.com.tw/Upload/3c/page/2026/07/16/260716-66847-1.jpeg)_
 
-- [Taiwan FactCheck Center](https://tfc-taiwan.org.tw/) — Pusat Verifikasi Fakta Taiwan
-- [Kebijakan Tata Kelola Digital Departemen Pembangunan Digital](https://moda.gov.tw/) — Kebijakan terkait tata kelola digital pemerintah
-- [Pusat Informasi Internet Taiwan TWNIC](https://www.twnic.net.tw/) — Survei perilaku penggunaan internet Taiwan
+_Sumber gambar: Liberty Times 3C Technology. Gambar laporan peristiwa penangguhan Juli 2026. [^22]_
+
+Ini bukan cerita kecil tentang satu akun yang lupa kata sandi. Laporan Juni menunjukkan bahwa mereka yang terpengaruh termasuk tokoh terkenal dan media. Pada 16 Juli, Liberty Times melaporkan lagi bahwa beberapa pengguna dan akun resmi Kementerian Budaya terkena penangguhan tanpa pemberitahuan, beberapa orang setelah mengunggah foto selfie dan dokumen identitas sesuai permintaan sistem, sempat menerima pemberitahuan penangguhan permanen, kemudian beberapa akun pulih. [^22] Kesamaan dari dua gelombang peristiwa adalah "hilang dulu, baru dijelaskan", tetapi penyebabnya tidak dapat dicampur: Juni memiliki penjelasan Meta melalui Departemen Pengembangan Digital tentang masalah teknis verifikasi usia, Juli tidak memiliki penjelasan publik Meta tentang gelombang baru pada titik laporan tersebut.
+
+_Lihat juga: [Tangkapan layar laporan notifikasi akun pengguna dalam peristiwa penangguhan Juli 2026](https://img.ltn.com.tw/Upload/3c/page/2026/07/16/260716-66847-2.jpg)_
+
+_Sumber gambar: Liberty Times 3C Technology. Tangkapan layar notifikasi penangguhan yang ditunjukkan dalam laporan. [^22]_
+
+Penjelasan resmi Meta ditulis dengan sangat langsung: setelah profil pribadi Threads dinonaktifkan, orang lain tidak akan lagi dapat melihat akun tersebut. Jika pengguna percaya bahwa tindakan tersebut salah, mereka dapat memasukkan nama pengguna dan kata sandi di Aplikasi dan kemudian mengikuti instruksi layar untuk meminta tinjauan. Jika mencurigai akun telah diretas atau tidak dapat masuk, mereka harus menggunakan halaman keamanan akun resmi, bukan memberikan kredensial kepada pihak ketiga yang mengklaim dapat "menangani pembukaan blokir". [^23]
+
+| Apa yang terjadi pada akun                                    | Hal yang dapat dikonfirmasi terlebih dahulu                                            | Hal yang tidak boleh dilakukan karena terburu-buru                                                        |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Layar login menampilkan nonaktif atau melanggar pedoman       | Ajukan tinjauan sesuai layar Aplikasi, simpan notifikasi dan catatan waktu             | Percaya pada pembukaan blokir berbayar melalui pesan pribadi atau memberikan kata sandi                   |
+| Beberapa orang mengalami penangguhan serupa secara bersamaan  | Bandingkan pesan resmi, media, dan otoritas yang berwenang, tunggu penjelasan platform | Langsung menyatakan bahwa hal ini ditujukan pada sikap politik tertentu atau kelompok spesifik            |
+| Menerima proses yang meminta selfie, dokumen, atau verifikasi | Periksa apakah dikeluarkan oleh Aplikasi resmi/halaman web resmi                       | Memberikan informasi pribadi melalui tautan yang tidak jelas, layanan pelanggan asing, atau ruang obrolan |
+| Tidak dapat masuk dan mencurigai akun telah dibobol           | Gunakan saluran keamanan dan pemulihan akun resmi Meta                                 | Karena panik membuat akun palsu menyamar sebagai akun asli dan mengirim banyak pesan pribadi ke teman     |
+
+Peristiwa penangguhan menerangi hubungan kekuasaan yang sering diabaikan dalam budaya Threads. Orang-orang menggunakan Threads untuk menemukan kembali kartu pelajar, mendapatkan pekerjaan, bercanda dengan turis asing, dan juga menyimpan posting, pengikut, dan interaksi yang terakumulasi selama bertahun-tahun ke dalam satu akun. Tetapi akun bukanlah ruang yang dimiliki pengguna, melainkan portal identitas yang diotorisasi oleh platform untuk digunakan. Ketika ditutup, kenangan hidup, peluang kerja, dan hak berbicara publik akan menyusut bersama-sama.
+
+Inilah mengapa "bisa menyelamatkan URL tetapi tidak bisa menyelamatkan foto" bukan hanya kerinduan nostalgia. Ketika platform bermigrasi, apa yang pengguna hilangkan sering kali bukan satu posting, melainkan semua balasan, tag, dan konteks hubungan setelah posting itu. Penangguhan tidak harus berarti sensor, dan juga tidak dapat menolak platform karena satu kesalahan penilaian teknis. Tetapi hal ini mengingatkan pengguna: data penting harus memiliki cadangan, pengumuman penting harus memiliki saluran distribusi lain, dan "saya di Threads" tidak boleh pernah menjadi satu-satunya identitas dan cara menghubungi.
+
+## Media Tidak Seharusnya Hanya Punya Satu Pintu: Miin sebagai Cadangan di Tengah Badai Penangguhan
+
+_Lihat juga: [Diagram peristiwa penangguhan Threads skala besar Juni 2026 yang dilaporkan oleh Kantor Berita Pusat](https://imgcdn.cna.com.tw/www/WebPhotos/800/20260616/2000x1333_wmkn_104415330236_0.jpg)_
+
+_Gambar: Diagram pelaporan Kantor Berita Pusat tentang peristiwa penangguhan Threads Juni 2026. Meta pada saat itu memberikan penjelasan awal bahwa ini adalah kesalahan teknis dalam verifikasi usia. Gambar tidak menunjukkan bahwa semua penangguhan memiliki penyebab yang sama. [^46]_
+
+Peristiwa penangguhan Juni 2026 mengubah "cadangan" dari istilah teknis menjadi pertanyaan yang sangat intuitif: jika pembaca terbiasa mendapatkan berita real-time dari Instagram atau Threads media tertentu, apa yang terjadi ketika akun tiba-tiba hilang? Dari mana informasi harus terus mengalir? Kantor Berita Pusat melaporkan bahwa pada saat itu banyak kreator, tokoh politik, dan akun media salah diklasifikasikan sebagai berusia di bawah 13 tahun dan dinonaktifkan. Departemen Pengembangan Digital menghubungi Meta, dan Meta memberikan respons awal bahwa ini adalah masalah teknis dalam mekanisme verifikasi usia. Objek yang terkena dampak termasuk Stasiun Berita Televisi Rakyat. [^46] Ini bukan cerita tunggal tentang "posisi mana yang dikunci," melainkan kesalahan di satu platform dapat secara bersamaan mengganggu visibilitas akun dengan sifat berbeda.
+
+_Lihat juga: [Tangkapan layar Miin dalam laporan Kebebasan Waktu, menunjukkan pengumuman penangguhan Kantor Berita Pusat](https://img.ltn.com.tw/Upload/news/600/2026/06/15/phpQbCbEf.png)_
+
+_Gambar: Layar Miin yang ditampilkan ulang oleh Kebebasan Waktu, menunjukkan bahwa Kantor Berita Pusat menggunakan Miin untuk pengumuman publik ketika IG dan Threads sempat ditangguhkan. Ini adalah contoh komunikasi cadangan, bukan berarti Miin telah menggantikan saluran berita lainnya. [^47]_
+
+Dalam gelombang peristiwa ini, **Miin** adalah ejaan yang benar untuk digunakan. Kebebasan Waktu melaporkan bahwa setelah IG dan Threads Kantor Berita Pusat sempat ditangguhkan, mereka pernah memposting pengumuman di Miin, dan setelah mengajukan banding, akun dipulihkan. Alamat akun publik yang dapat ditemukan menunjukkan halaman pengguna Kantor Berita Pusat di `miin.cc/user/cna`, dan Televisi Rakyat di `miin.cc/user/ftvnews`. [^47] [^48] Namun artikel tidak dapat karena itu menyimpulkan bahwa kedua media tersebut "membuat akun pada hari yang sama saat ditangguhkan": apa yang dapat diverifikasi saat ini adalah bahwa mereka diidentifikasi oleh pembaca di Miin sebelum dan sesudah penangguhan, digunakan untuk komunikasi publik atau cadangan, dan waktu tepat akun pertama kali dibuat masih memerlukan pengumuman dari setiap media untuk ditentukan dengan akurat.
+
+Posisi Miin terhadap dirinya sendiri juga berbeda dari Threads dan X. Penjelasan Google Play-nya mengklaim sebagai platform sumber terbuka nirlaba yang didorong oleh Taiwan AI Labs & Foundation, dengan menyatakan bahwa AI membantu pengguna melihat perspektif berbeda dan mengidentifikasi manipulasi informasi. [^48] Pengenalan yang ditampilkan ulang oleh Televisi Rakyat menggambarkannya sebagai upaya ruang publik yang tidak berpusat pada perhatian iklan, dengan harapan memungkinkan kreator mendapatkan lalu lintas. [^49] Ini adalah posisi diri platform dan pendiri, bukan artikel yang memberikan jaminan untuknya. Platform baru apa pun masih harus menghadapi masalah tata kelola, privasi, moderasi, skala pengguna, dan operasi jangka panjang.
+
+| Saluran Cadangan                                | Pekerjaan Paling Cocok untuk Ditanggung                                                                                    | Masalah yang Tidak Seharusnya Diasumsikan Dapat Diselesaikan Secara Otomatis                                                                        |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Situs web sendiri, Aplikasi, Buletin email, RSS | Menyisakan konten formal yang dapat dicari, dapat disubskripsikan, dan kurang terpengaruh oleh fluktuasi akun media sosial | Lalu lintas tidak akan muncul dengan sendirinya; memerlukan pemeliharaan, proses publikasi, dan kebiasaan pembaca                                   |
+| Threads, Instagram, Facebook, X                 | Menjangkau audiens harian yang berbeda, membawa diskusi real-time dan balasan                                              | Platform tunggal apa pun dapat terpengaruh oleh algoritma, kebijakan, kesalahan, atau risiko akun                                                   |
+| Miin dan platform alternatif/baru lainnya       | Menyediakan titik pengumuman dan kontak komunitas lain, mengurangi kegagalan titik tunggal                                 | Membuka banyak akun bukan ketahanan itu sendiri; harus membuat pembaca tahu bahwa akun asli, kapan diperbarui, dan cara melakukan verifikasi silang |
+| Pernyataan publik dan banding formal            | Meninggalkan catatan yang dapat dilacak saat penangguhan, akun palsu, atau kesalahan besar                                 | Banding tidak menjamin pemulihan segera, juga tidak dapat menggantikan koneksi multi-titik yang dibangun sebelumnya                                 |
+
+Kehadiran multi-platform media, dan pembagian kerja VTuber di X, Discord, YouTube, Threads sebenarnya adalah dua versi dari hal yang sama: **hubungan tidak seharusnya hanya disimpan di belakang satu pintu.** Bagi institusi berita, ini berkaitan dengan apakah pembaca dapat terus menemukan saluran yang dapat dipercaya saat terjadi kesalahan atau penangguhan. Bagi kreator dan komunitas, ini berkaitan dengan apakah karya, file, dan kontak dapat dipertahankan ketika platform mengubah aturan. Munculnya Miin membuat masalah ini terlihat, tetapi jawaban sebenarnya bukan "pilih satu platform unik lagi," melainkan membangun kehadiran multi-titik yang dapat saling diverifikasi.
+
+```tw-versus
+Dialog publik bukan hanya memilih satu Aplikasi, melainkan memilih bagaimana hubungan disimpan
+Ketergantungan Platform Tunggal | Kehadiran Multi-Titik
+Konten, pengikut, dan interaksi hanya tersisa di akun yang sama dan saluran algoritma yang sama | Situs web, RSS, buletin email, dan akun platform berbeda saling terhubung
+Ketika akun ditangguhkan atau urutan berubah, pembaca mungkin tidak dapat menemukan saluran asli | Ketika satu saluran terputus, pintu masuk lain masih dapat mengarahkan kembali ke konten asli
+Biaya bergabung dan interaksi rendah, perhatian terpusat | Biaya pemeliharaan lebih tinggi, tetapi dapat lebih baik mempertahankan sumber, identitas, dan dapat dilacak
+Sumber: Kantor Berita Pusat, Kebebasan Waktu, Meta, penjelasan platform Miin
+```
+
+```tw-note
+Penjelasan
+Diagram hubungan ini adalah pengorganisasian struktur kualitatif dari desain platform dan kasus media yang disebutkan sebelumnya, bukan peringkat jumlah pengguna, keandalan, atau posisi politik.
+Apa yang ingin ditampilkan bukan "sisi mana yang lebih baik," melainkan bagaimana satu posting dapat memusatkan hubungan dalam satu saluran tunggal, atau tersebar di beberapa saluran yang dapat saling diverifikasi. Alasan mengapa risiko penangguhan, rekomendasi kesalahan, dan penyimpanan konten terasa tiba-tiba adalah karena pengguna biasanya tidak dapat melihat berapa banyak hubungan yang mereka berikan kepada pintu mana. [^46] [^47] [^48] [^50]
+```
+
+## Burung Biru Bukan Seluruh Sungai, Tetapi Menunjukkan Apa yang Bisa Dilakukan Sungai
+
+Politik adalah latar belakang penting bagi kebangkitan Threads Taiwan, namun seharusnya tidak menelan seluruh artikel tentang budaya rapuh. Pemilihan 2024 dan gerakan Burung Biru memang membawa banyak pengguna ke platform. Pusat Verifikasi Fakta Taiwan juga mengamati bahwa ketika peristiwa politik besar mereda, konten lalu lintas tinggi sering kali kembali ke bisikan sehari-hari dan hal-hal sepele kehidupan.[^7]
+
+Sebuah penelitian yang dirilis pada 2026 mengumpulkan 62.321 postingan Threads dan 21.572 gambar terkait gerakan Burung Biru antara Mei 2024 hingga Juni 2025 menggunakan Meta Content Library. Penelitian menunjukkan bahwa mobilisasi politik Threads tidak hanya bergantung pada penyebaran teks, tetapi juga pada citra hewan yang menggemaskan, meme, gambar AI, dan pengguna yang secara aktif membagikan ulang.[^9]
+
+Ini mengingatkan kita bahwa "ringan" dalam budaya rapuh bukan berarti tanpa politik, melainkan politik juga harus belajar melewati yang ringan. Pesan politik akan mengenakan pakaian gambar yang menggemaskan, percakapan sehari-hari, dan lelucon real-time. Ini meningkatkan aksesibilitas di luar ambang partisipasi, tetapi juga meningkatkan biaya penilaian. Pembaca harus bertanya dua hal secara bersamaan: apakah meme ini lucu? Dan apa yang ingin membuat saya percaya?
+
+## Ketika "Bian Baba" Turun Sendiri: Tokoh Politik Juga Bisa Menjadi Koautor Meme
+
+Tokoh politik di Threads tidak hanya menjadi subjek komentar, tetapi juga bisa menjadi koautor dalam percakapan meme. Pada 10 Mei 2026, akun terverifikasi Chen Shui-bian membalas sebuah postingan yang kemudian tidak lagi terlihat, menulis: "Bian 'Baba' adalah angka terakhir akun 88, tidak perlu diributkan begitu banyak!?" [^24] Kalimat ini tidak mengandung argumen kebijakan, juga bukan pernyataan resmi. Ia menarik kembali sebuah sebutan yang tampaknya diperluas oleh pengguna internet ke detail konkret—akhiran akun "88"—dan kemudian menggunakan tanda tanya balik untuk membuat penjelasan terasa seperti menerima lelucon.
+
+_Lihat lebih lanjut: [Respons Akun Threads Resmi Chen Shui-bian terhadap Sebutan "Bian Baba" dalam Bentuk Meme](https://scontent-for2-1.cdninstagram.com/v/t51.82787-15/694521324_17959605240108590_7871428376185044805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzg5NDAxOTEwNTgzODMzMjI3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTEzMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=udUD7ad-CD8Q7kNvwG8i72Z&_nc_oc=AdpnsTA-LzVPbbnuOJr5URth1ER8hDGs0yYZfJl0eeataj_OEzZVSM8D9JW9kI1kMBs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-for2-1.cdninstagram.com&_nc_gid=4HYdMr5-gN65IptN5E7F7w&_nc_ss=7a22e&oh=00_AQGp7GdG1lOGZu4QVyzltEST8AJF7ehP8y2wqH6rmjn7yQ&oe=6A84D6DE)_
+
+_Sumber gambar: Akun Threads terverifikasi Chen Shui-bian. Gambar terlampir dalam balasan "Bian Baba" pada 10 Mei 2026. [^24]_
+
+Poin penting dari kasus ini bukan menilai apakah meme itu "lucu" atau tidak, melainkan perubahan peran tokoh politik. Meme politik masa lalu biasanya merupakan adaptasi searah dari pengguna internet terhadap tokoh publik. Di Threads, pihak yang bersangkutan dapat membalas secara langsung, menambahkan keterangan, bercanda, bahkan mengunggah sendiri sebuah gambar yang sudah diantisipasi akan ditangkap layar dan disebarkan. Meme dengan demikian tidak lagi hanya menjadi bentuk ejekan, tetapi juga menjadi bahasa untuk menguji jarak emosional.
+
+Namun, jarak emosional semacam ini tidak dapat menggantikan akuntabilitas publik. Sebuah gambar meme memang dapat membuat tokoh politik terlihat lebih seperti pengguna kolom komentar, tetapi tidak dapat menggantikan data kebijakan, pertanyaan media, dan tanggung jawab institusional. Cara terbaik untuk memahami postingan seperti "Bian Baba" adalah melihat dua lapisan sekaligus: ia memang merupakan respons diri yang akrab dengan nada platform. Ia juga mengingatkan pembaca untuk tidak salah membaca interaksi yang ramah sebagai argumen publik yang lengkap.
+
+## Patroli Laut Bukan Sekadar Lewat, Tapi Mengubah Akun Resmi Menjadi Pengunjung Tetap Bagian Komentar
+
+Dalam budaya Threads, "patroli laut" bukan mengacu pada berapa banyak postingan yang dikeluarkan akun itu sendiri, melainkan akun resmi secara aktif meninggalkan halaman mereka sendiri untuk merespons di bawah postingan populer pengguna atau merek lain. Pengamatan pemasaran Yahoo/FoodNEXT menggambarkan bahwa pendekatan ini memungkinkan merek untuk bergabung dalam percakapan sebagai komentator daripada sebagai pengiklan. Mereka memberikan contoh Pabrik Minuman Keras Kinmen, FamilyMart, Hua Yuan Tiram Goreng, Susu Jianan, Hotel Fullon, dan operator pusat perbelanjaan.[^25] Ini adalah data observasional, bukan penelitian tingkat konversi, tetapi secara akurat menangkap inti dari patroli laut: merek harus belajar bertindak seperti "seseorang yang kebetulan juga ada di sana" sebelum giliran mereka sendiri untuk berbicara tiba.
+
+Secara konkret, editor FamilyMart pernah melihat pengguna menyusun kue lapis menjadi kue ulang tahun bulat, dan saat membagikan ulang merespons "kami juga menjual kue bulat asli, harap diketahui". Mereka juga pernah merespons pertanyaan tentang lekukan kotak makanan microwave superkonvenien dengan serius membuat penjelasan "minuman alur cekung, outgoing". Baiyao Hecha dipanggil oleh DailyView sebagai "raja patroli laut" Threads: merespons postingan tentang "menambahkan 'baik tidak baik' di akhir kalimat" dengan "teh susu ditambah jagung baik tidak baik", dengan paksa mengubah pola kalimat yang awalnya tidak terkait minuman menjadi promosi produk baru.[^26]
+
+| Jenis Patroli Laut            | Cara Komentar Bekerja                                                                            | Contoh Terlihat                                                                                | Efek dan Risiko untuk Merek                                                                                                                            |
+| ----------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Tipe Menangkap Meme           | Pertama-tama tangkap pola kalimat atau meme pengguna, kemudian masukkan produk                   | Baiyao Hecha merespons postingan sehari-hari dengan "teh susu ditambah jagung baik tidak baik" | Mudah disebar melalui tangkapan layar; ketika terlalu dipaksa juga akan terlihat seperti iklan yang mengganggu                                         |
+| Tipe Responsif                | Memberikan respons berkarakter terhadap kreativitas atau kesulitan pengguna yang sudah muncul    | FamilyMart merespons kue lapis yang disusun menjadi kue bulat                                  | Dapat membuat merek terlihat sedang mendengarkan; keluhan pelanggan yang sebenarnya masih memerlukan layanan bukan hanya lelucon                       |
+| Tipe Pemanggilan              | Muncul secara konsisten dalam jenis topik tertentu, membuat pengguna secara aktif menandai merek | Editor Susu Jianan sering diharapkan untuk "patroli laut"                                      | Kepribadian disukai, tetapi juga akan membuat pengguna bertanya siapa yang sebenarnya merespons                                                        |
+| Tipe Penerjemahan Pengetahuan | Memperkenalkan artefak, pameran, atau informasi publik dengan nada santai                        | Cabang Selatan Istana Nasional berinteraksi dengan artefak melalui kalimat pendek              | Dapat mengurangi jarak informasi; ketika melibatkan kesehatan, keselamatan, atau bencana harus menghindari mengganti penjelasan yang benar dengan meme |
+
+Patroli laut sangat efektif di Threads karena komentar itu sendiri menjadi konten. Ketika pengguna melihat akun resmi tiba-tiba muncul, mereka tidak hanya merespons penulis asli, tetapi juga menandai teman, mengambil tangkapan layar, dan memberi editor julukan. Satu komentar dapat menyebar menjadi postingan lain. Merek tidak lagi hanya membeli ruang iklan, tetapi juga meminjam narasi asli orang asing, menjadi karakter pendukung yang dapat dikenali dalam cerita itu.
+
+Namun "akun resmi seperti orang sungguhan" adalah daya tarik sekaligus tekanan. Peristiwa Susu Jianan telah menunjukkan: ketika pengguna jaringan memandang setiap patroli laut sebagai kerja pribadi editor tertentu, begitu tim kolaborasi, desain visual, atau pembagian kerja internal terbuka, itu akan memicu pertanyaan tentang keaslian, atribusi, dan kepemilikan tenaga kerja.[^11] Oleh karena itu, kunci kesuksesan patroli laut bukan muncul sebanyak mungkin, melainkan apakah merek dapat menjelaskan dengan jelas: siapa yang merespons, kapan harus bercanda, dan kapan harus menjawab pertanyaan dengan serius.
+
+> **Catatan Kurator:** Patroli laut terbaik bukan "merek merebut komentar", melainkan topik asli pengguna tetap lebih menyenangkan dan lebih berguna setelah merek bergabung. Jika setiap respons hanya berupa kode diskon atau produk yang dipaksa, aliran akan dengan cepat mengenalinya sebagai kebisingan.
+
+## Tiga Kasus Asli, Hanya Tiga Kios di Pasar Malam Ini
+
+Chen Shui-bian secara terbuka menjelaskan di Threads bahwa akun dikelola oleh dirinya sendiri dan secara pribadi membalas pertanyaan pengguna. "Penyunting Kambing" Jianan Goat Dairy menjadi viral karena interaksi frekuensi tinggi, kemudian dipertanyakan dalam kontroversi operasi delegasi tentang siapa sebenarnya yang berbicara.[^10] [^11] Kedua kasus ini layak dipertahankan karena mereka mengubah "rasa kemanusiaan" dari istilah merek abstrak menjadi pertanyaan yang akan langsung ditanyakan pengguna.
+
+Kategori lain adalah meme seperti jajak pendapat "politisi terburuk" empat panel. Pengguna pernah secara terbuka mempertanyakan, mengapa beberapa postingan yang terlihat seperti pemungutan suara memiliki opsi yang telah ditetapkan sebelumnya untuk menampilkan faksi tertentu, dan bagian komentar kemudian membuat opsi lain dengan "klik di sini untuk Lai Ching-te".[^12] Ini juga sangat Threads: sebuah gambar yang terlihat seperti survei, tetapi sebenarnya mungkin hanya merupakan ritual pernyataan yang tenunan dari desain pertanyaan, penambahan komentar, dan relai suka.
+
+Namun semua ini tidak boleh menjadi seluruh pemahaman tentang budaya postingan rapuh Taiwan. Alasan politisi, akun merek, dan jajak pendapat konflik tinggi mudah dilaporkan adalah karena mereka memiliki nama, memiliki dramatisitas, memiliki posisi yang jelas. Apa yang benar-benar menopang aliran sehari-hari, sering kali adalah pengguna tanpa nama: orang yang bertanya bagaimana cara memasak sayuran, orang yang mencari orang untuk teman, orang yang meninggalkan foto kucing untuk makanan wisatawan, dan orang yang di tengah malam hanya ingin mengatakan "hari ini sangat lelah".
+
+## Keramaian Bukan Jaminan Keandalan, Kenyataan Pun Bukan Tanpa Perantara
+
+Kekurangan Threads justru terletak pada kelebihannya. Algoritma mempertemukan orang asing, tetapi juga mempercepat konten yang emosional dan tajam. Interaksi tinggi dapat membantu menemukan pemilik kartu pelajar, tetapi juga membuat gambar polling tanpa metode terlihat seperti opini publik. Kebijakan Meta terhadap konten politik adalah: tidak secara aktif merekomendasikan konten politik dari akun yang tidak diikuti, tetapi pengguna masih dapat melihat postingan akun yang mereka ikuti, dan dapat menyesuaikan preferensi terkait.[^13]
+
+Pusat Verifikasi Fakta Taiwan mengingatkan bahwa komunitas termasuk Threads memiliki risiko informasi salah dan manipulasi informasi. Menghadapi tren komunitas, hal terpenting bukan menganggap semua konten sebagai palsu, juga bukan menganggap jumlah komentar sebagai kebenaran, melainkan menanyakan sumber, konteks asli, dan bukti.[^7] Kebiasaan ini berguna untuk informasi politik, sama berguna untuk rekomendasi restoran, pencarian barang hilang, pengujian produk, dan konten apa pun yang terlihat seperti "semua orang mengatakan".
+
+Risiko yang lebih mendasar adalah memori. Sungai yang ramai hari ini, postingan besok mungkin dihapus, akun ditangguhkan, atau dikubur oleh algoritma. Komunitas internet Taiwan telah berpindah dari BBS, Wretch, Facebook, dan LINE—setiap migrasi meninggalkan URL yang dapat dibuka, tetapi juga kehilangan sebagian foto, komentar, dan konteks.[^14] Threads bukan titik akhir dari sejarah ini. Ia hanya merupakan cara lain yang ditemukan orang Taiwan saat ini untuk mengumpulkan orang asing di satu meja.
+
+## Siklus Hidup Satu Postingan: Dari Terlihat hingga Diserahkan kepada Institusi
+
+Jika membayangkan Threads Taiwan sebagai sebuah pasar malam, maka satu postingan tidak selesai begitu dikirim, melainkan akan berpindah tangan di antara berbagai lapak. Postingan itu mungkin dimulai dari rekomendasi algoritma atau balasan teman, terlebih dahulu terlihat; kemudian ditangkap melalui komentar, berbagi ulang, dan "tinggalkan untuk teman lihat"; lalu diperbesar karena patroli merek, penerbitan ulang media, atau templat meme; akhirnya tidak tenggelam, melainkan kehilangan visibilitas karena informasi tidak akurat, pelanggaran hak cipta, penangguhan, atau penghapusan akun. Siklus hidup ini dapat menghubungkan kasus-kasus di bagian sebelumnya dari artikel: pencarian barang hilang dan permintaan bantuan tisu toilet memerlukan "kecepatan", kompetisi besar dan lelucon makanan memerlukan "dapat diterima", sementara kontroversi penangguhan dan akun palsu mengingatkan semua orang bahwa "kecepatan" dan "dapat diterima" juga dapat menciptakan risiko.
+
+| Tahap                | Apa yang Dilakukan Pengguna Umum                                                                            | Kasus Tipikal                                                               | Kemampuan yang Paling Perlu Ditambahkan                                                                                       |
+| -------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Terlihat             | Menemukan informasi melalui pengikut, algoritma, komentar teman, atau utas populer                          | Foto makanan wisatawan Jepang dan Korea, pertanyaan lokal, acara publik     | Pertama-tama membedakan apakah ini pengalaman pribadi, penceritaan ulang, lelucon, atau berita                                |
+| Ditangkap            | Bergabung melalui balasan, gambar, frasa lelucon, penandaan, atau berbagi ulang                             | Tinggalkan untuk teman lihat, tantangan katak, tidak setuju sekolah dimulai | Memahami konteks sebelumnya, jangan memaksa konten potongan untuk menanggung makna asli                                       |
+| Diperbesar           | Tersebar melalui patroli merek, liputan media, partisipasi tokoh terkenal, atau templat                     | Editor merek kecil, Bian Baba, besok libur                                  | Bedakan interaksi tinggi dari kredibilitas tinggi, jangan gunakan jumlah suka sebagai pengganti penilaian                     |
+| Diserahkan           | Mengalihkan informasi dari perhatian publik ke jendela yang dapat dipertanggungjawabkan                     | Pencarian kartu pelajar, kehilangan paspor, penipuan atau pelaporan         | Sembunyikan data pribadi, pertahankan bukti yang diperlukan, serahkan kepada polisi, stasiun, layanan konsular, atau platform |
+| Disimpan atau Hilang | Tangkapan layar, cadangan, penghapusan, penangguhan, atau penghapusan akun mengubah visibilitas selanjutnya | Penangguhan tanpa peringatan, penggalian teks lama, daur ulang meme         | Simpan konteks dan sumber, jangan perlakukan tangkapan layar terisolasi sebagai bukti permanen dan lengkap                    |
+
+Kerangka kerja ini juga dapat digunakan untuk menjawab "mengapa beberapa orang merasa Threads sangat ramai, namun tidak bisa meninggalkannya". Karena hal itu mengompresi apa yang sebelumnya harus dicari secara terpisah, ditanyakan kepada teman, dijelajahi di forum, dilihat di berita, dan dicari di layanan pelanggan, menjadi satu saluran yang dapat dibalas dan terlihat. Kompresi meningkatkan kebetulan dan kecepatan, namun mendorong kepercayaan, privasi, identitas, dan penilaian fakta kepada setiap peserta. Keajaiban pencarian barang hilang, kepribadian merek, lelucon politik, dan peristiwa penangguhan yang disebutkan di bagian sebelumnya dari artikel adalah hasil dari efek kompresi yang sama dalam skenario berbeda.[^16] [^22] [^23]
+
+> **Catatan Kurator:** Apa yang benar-benar layak disimpan dari budaya Threads, bukan frasa lelucon atau tangkapan layar, melainkan konteks "siapa yang menangkapnya kapan dan mengapa". Tanpa konteks, saling membantu menjadi rumor, meme menjadi tuduhan, dan gambar kehilangan posisi berbicara aslinya.
+
+## Kesimpulan: Satu Meja, Bukan Satu Konsensus
+
+Apa yang paling menarik dari budaya Threads Taiwan bukan bahwa hal itu membuat semua orang setuju, melainkan bahwa hal itu sementara menarik orang-orang yang sebelumnya tidak akan duduk bersama ke meja yang sama. Kartu pelajar dari Mesir, foto makanan wisatawan Jepang dan Korea, citra burung biru, balasan larut malam editor susu kambing, dan satu postingan sampah yang tidak memerlukan kesimpulan, semuanya dapat saling bersinggungan dalam beberapa kali gesekan.
+
+Pasar malam digital ini tentu saja ramai, dan mungkin juga terbakar. Namun selama kita masih ingat membedakan pencarian barang hilang dari layanan resmi, meme dari jajak pendapat, balasan manusia nyata dari kepribadian yang dirancang, hal itu bukan hanya platform lain yang ditelan oleh lalu lintas. Apa yang ditinggalkannya adalah latihan publik yang sangat Taiwan: terlebih dahulu menangkap satu kalimat dari orang asing, kemudian memutuskan apakah akan bersama-sama mengirimnya lebih jauh.
+
+## Bacaan Lanjutan
+
+- [Meta: Threads 500 Juta MAU dan Pembaruan Fitur Communities](https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/)
+- [Strategi Riset Informasi MIC: Survei Perilaku Komunikasi Komunitas Taiwan](https://mic.iii.org.tw/news.aspx?id=744)
+- [MIT Technology Review: Why Threads is suddenly popular in Taiwan](https://www.technologyreview.com/2024/04/02/1090518/threads-taiwan-election-politics-popular/)
+- [Pusat Verifikasi Fakta Taiwan: Influencer Membantu Menyebarkan Informasi Palsu di Era Komunitas](https://tfc-taiwan.org.tw/migration_article_104945_10857/)
 
 ## Referensi
 
-1. [Jumlah Pengguna Aktif Bulanan Global Threads Tembus 300 Juta, Menjadikan Taiwan Aplikasi Terpopuler 2024](https://www.businessyee.com/article/5165-Threads-DAU) - Business Yee
-2. [Threads Berusia 1 Tahun! Jumlah Pengguna Aktif Bulanan Tembus 175 Juta](https://www.bnext.com.tw/article/79642/threads-meta-2024-) - Era Digital
-3. [Pengguna Taiwan Threads Hingga 2 Terbesar di Dunia, Waktu Penggunaan Juara Global! Mengapa Generasi Z Pindah ke "Crispy"?](https://www.foodnext.net/column/columnist/paper/6351013795) - Shili
-4. [Generasi Z Menyukai "Threads", Taiwan Menjadi Pasar Terbesar Kedua di Dunia](https://www.cw.com.tw/article/5131823) - Majalah Global Views
-5. [Pemasaran Threads Sedang Menggulingkan Aturan Traffic? Manfaatkan Kasus dan Strategi Terbaru di Era AI](https://www.asiakol.com/article/750) - AsiaKOL
-6. [Dari PTT, Dcard ke Threads, Bagaimana Kami "Didesain" di Platform Sosial?](https://www.thenewslens.com/article/251622) - The Point
-7. [Threads Menjadi Favorit Baru Pemuda Taiwan! Analisis Alasan Kebangkitan "Crispy"](https://sonar-inc.com/what-is-threads/) - Jiangneng Digital Marketing
-8. [Pemasaran Threads: Tren Baru Strategi Media Sosial Perusahaan Taiwan](https://www.i-connectweb.com/zh-hant/blog/threads-marketing) - i-Connect
-9. [Studi Kasus Pemasaran Threads 2025](https://tobiehuang.com/2025-threads-marketing-case-study/) - Tobie Huang
-10. [Threads Bangkit dari "Tulisan Sampah"? Gelombang Crispy Ini Harus Diikuti!](http://plog.tw/2024/03/19/threads-genz/) - Partipost
-11. [Laporan Data.ai Intelligence - Threads Mencapai 150 Juta Unduhan](https://www.data.ai/) - App Market Intelligence
-12. [Laporan Tahunan 2024 Taiwan FactCheck Center](https://tfc-taiwan.org.tw/) - Pusat Verifikasi Fakta Taiwan
+[^1]: [Threads: Postingan Pencarian Kartu Pelajar NTU yang Ditemukan di Dekat Sphinx Mesir](https://www.threads.com/@therealjacobchen/post/DSxOznCDUyt) — Postingan publik Desember 2025 yang mempertahankan lokasi penemuan, tekanan waktu menuju bandara Kairo, serta skala pembagian ulang dan konteks saling membantu tingkat akar rumput.
 
----
+[^2]: [Meta: Fitur Baru untuk Merayakan 500 Juta Pengguna Aktif Bulanan di Threads](https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/) — Pengumuman resmi Meta Juni 2026 yang menjelaskan pengguna aktif bulanan global Threads, peluncuran resmi Communities, dan rencana label bahasa lokal Taiwan.
 
-_Ditulis oleh Tim Editorial melalui analisis mendalam, diperbarui terakhir: 2026-03-24_
-_Sumber data utama: Meta Platforms, Era Digital, Majalah Global Views, AsiaKOL, Taiwan FactCheck Center_
+[^3]: [DataReportal: Digital 2026: Taiwan](https://datareportal.com/reports/digital-2026-taiwan) — Kompilasi data penggunaan digital Taiwan menggunakan alat iklan Meta, dengan peringatan eksplisit bahwa perkiraan jangkauan iklan tidak boleh dilihat langsung sebagai pengguna aktif bulanan atau harian.
+
+[^4]: [MIC Strategi Riset Informasi: Generasi Muda Berkumpul di IG, Dcard, Threads](https://mic.iii.org.tw/news.aspx?id=744) — Survei perilaku komunikasi komunitas Taiwan yang dirilis 2025, menyediakan platform yang umum digunakan per kelompok usia, angka kecemasan informasi sosial, dan penjelasan metode konversi konten pengalaman.
+
+[^5]: [MIT Technology Review: Mengapa Threads Tiba-tiba Populer di Taiwan](https://www.technologyreview.com/2024/04/02/1090518/threads-taiwan-election-politics-popular/) — Laporan mendalam bahasa Inggris 2024 dengan wawancara pengguna dan peneliti Taiwan, mencatat penamaan "Cui", budaya postingan sampah, aliran kembali pasca-pemilihan, dan konteks penggunaan Twitter/X di Taiwan.
+
+[^6]: [Yahoo Kimo: Komunitas Threads Berubah Menjadi Stasiun Barang Hilang Besar-besaran Taiwan](https://tw.news.yahoo.com/threads%E7%A4%BE%E7%BE%A4%E6%AD%A3%E5%9C%A8%E8%AE%8A%E6%88%90%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%A4%B1%E7%89%A9%E6%8B%9B%E9%A0%98%E7%AB%99-%E5%AD%B8%E7%94%9F%E8%AD%89%E6%8E%89%E5%9C%A8%E5%9F%83%E5%8F%8A%E9%87%91%E5%AD%97%E5%A1%94%E4%B9%9F%E8%83%BD%E6%89%BE%E5%9B%9E%E4%BE%86%EF%BC%81-033000025.html) — Kompilasi kasus pencarian lintas negara termasuk kartu pelajar Mesir, paspor Korea, dan topi Vatikan, menampilkan narasi saling membantu yang dibentuk oleh pengguna Taiwan melalui pembagian ulang, penandaan, dan pembawaan barang.
+
+[^7]: [Pusat Verifikasi Fakta Taiwan: Influencer Membantu Menyebarkan Informasi Palsu di Era Komunitas](https://tfc-taiwan.org.tw/migration_article_104945_10857/) — Laporan lokakarya 2024 yang membahas puncak penggunaan Threads dalam gerakan Blue Bird, sifat gosip sehari-hari, dan tantangan jangka panjang manipulasi informasi sosial dan verifikasi.
+
+[^8]: [Berita Taiwan TV: Meme Kucing Kementerian Luar Negeri "Halo Saya Makan Sedikit" Mendukung Jepang](https://news.ttv.com.tw/news/11411240027400N) — Laporan 2025 mencatat pengguna Threads Taiwan merespons postingan makanan wisatawan Jepang dan Korea dengan meme kucing, dan Kementerian Luar Negeri kemudian membuat kartu gambar Cina-Jepang menggunakan meme tersebut.
+
+[^9]: [Weener dkk.: Protes Massal Pertama di Threads](https://arxiv.org/html/2602.02640v1) — Penelitian 2026 mengumpulkan 62.321 postingan dan 21.572 gambar menggunakan Meta Content Library, menganalisis visibilitas teks, gambar, dan algoritma gerakan Blue Bird di Threads.
+
+[^10]: [Berita Atas: Chen Shui-bian Membuktikan Akun Threads Dikelola Pribadi](https://www.upmedia.mg/tw/focus/politics/254228) — Laporan Maret 2026 mengompilasi pernyataan publik Chen Shui-bian tentang tidak memiliki asisten, tidak memiliki sekretaris, dan membaca serta membalas komentar sendiri.
+
+[^11]: [Manajer: Kontroversi Operasi Delegasi Susu Jianan di Threads](https://fc.bnext.com.tw/articles/view/4427) — Kompilasi Januari 2026 tentang kasus perusahaan pemasaran, respons editor domba, dan pernyataan kantor pusat, menampilkan kontroversi keaslian personalisasi merek.
+
+[^12]: [Threads: Diskusi tentang Opsi Polling Tokoh Politik dan Menambahkan Opsi di Komentar](https://www.threads.com/@mashida102/post/DXwHqROGcWE/) — Postingan publik April 2026 menampilkan keraguan pengguna tentang opsi polling politik, menambahkan opsi di area komentar, dan cara pengumpulan suka; tidak mewakili survei opini publik.
+
+[^13]: [Blog Instagram: Kebijakan Rekomendasi Konten Politik di Instagram dan Threads](https://about.instagram.com/blog/announcements/continuing-our-approach-to-political-content-on-instagram-and-threads) — Penjelasan publik Meta bahwa konten politik tidak akan direkomendasikan secara aktif kepada pengguna yang tidak mengikuti, dan mempertahankan mekanisme bagi pengguna untuk menyesuaikan preferensi rekomendasi.
+
+[^14]: [Taiwan.md: Tiga Puluh Tahun Komunitas Internet Taiwan—Sejarah Tanah Hilang Tempat Anda Bisa Menyelamatkan URL tetapi Tidak Bisa Menyelamatkan Foto](https://taiwan.md/technology/%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E7%A4%BE%E7%BE%A4%E9%81%B7%E5%BE%99%E5%8F%B2/) — Tinjauan migrasi platform Taiwan dari BBS, Wretch, Facebook, dan LINE, membahas masalah hilangnya akun, gambar, komentar, dan memori kolektif saat beralih layanan.
+
+[^15]: [Pusat Bantuan Meta: Tentang Threads](https://help.instagram.com/788669719351544/) — Penjelasan resmi Meta tentang percakapan publik Threads, visibilitas balasan, pengaturan privasi, dan cara menghubungkan data akun Threads dengan Instagram/Facebook.
+
+[^16]: [Akademi Bisnis Satu Orang: Platform Penerimaan Proyek Terbaru Ternyata \_\_\_?](https://writeuuu.com/freelance-on-threads/) — Artikel pengalaman yang dipublikasikan pada tahun 2024 oleh penulis pengajaran penerimaan proyek, menganalisis Threads dari perspektif penerima proyek termasuk posting gratis, jangkauan orang asing, dan jejak pengelolaan IG yang terhubung; merupakan data observasional, bukan statistik pasar kerja keseluruhan.
+
+[^17]: [Kepolisian Kota Besar Kaohsiung, Divisi Polisi Kriminal: Pemberian Hadiah Palsu di Platform Media Sosial Threads](https://kcpd-cic.kcg.gov.tw/News_Content.aspx?n=F1F83458BBCAB0EB&sms=73BE5B81302C4CAD&s=91A7A345F0FA8E44) — Contoh kasus pencegahan penipuan resmi yang diperbarui pada Oktober 2025, menjelaskan proses pemberian hadiah palsu, penjualan barang palsu, dan manipulasi verifikasi identitas untuk mendorong operasi perbankan online.
+
+[^18]: [Kepolisian Kota Xinbei: Poster Pemberian Hadiah Gratis Ternyata Menjadi Jebakan Penipuan](https://www.police.ntpc.gov.tw/cp-3361-132700-1.html) — Analisis kasus resmi yang mencatat bagaimana posting poster anime gratis di Threads menggunakan biaya pengiriman kecil dan layanan pelanggan LINE palsu untuk mendorong korban melakukan transfer uang berulang kali.
+
+[^19]: [Agensi Berita Pusat / Berita Klien: Departemen Produk Digital Mengungkap Metode Penipuan Media Sosial Threads](https://hakkanews.tw/2026/06/01/281411/) — Merangkum empat prinsip pencegahan penipuan dari Departemen Pengembangan Digital mengenai clearance harga ultra-rendah, penjualan barang palsu, OTP, dan layanan pelanggan LINE asing.
+
+[^20]: [Akun Threads Laporan Gempa Bumi Taiwan](https://www.threads.com/@tw.earthquake) — Pengenalan diri menunjukkan bahwa akun ini menggunakan Threads bersama dengan Aplikasi, Telegram, dan Discord untuk menerbitkan informasi gempa bumi dan bencana; merupakan simpul informasi sipil, bukan sistem peringatan resmi pemerintah.
+
+[^21]: [Jaringan Berita Bersatu: Threads Menangguhkan Akun Secara Besar-besaran, Departemen Pengembangan Digital Mengatakan Telah Meminta Bantuan Bisnis untuk Pemulihan Hak](https://udn.com/news/story/7240/9568404) — Laporan tanggal 15 Juni 2026 mencatat penjelasan awal Departemen Pengembangan Digital dan Meta tentang pemblokiran akun selebriti dan media Taiwan, serta saluran keluhan resmi.
+
+[^22]: [Kebebasan Waktu Teknologi 3C: Threads Meledak Lagi dengan Penangguhan Tanpa Peringatan](https://3c.ltn.com.tw/news/66847) — Laporan tanggal 16 Juli 2026 mencatat penangguhan akun Kementerian Budaya dan beberapa pengguna lain, dengan beberapa akun dipulihkan kemudian; artikel tidak mengkonfirmasi penyebab akhir dari insiden Juli.
+
+[^23]: [Pusat Bantuan Meta: Tentang Profil Threads yang Dinonaktifkan](https://help.instagram.com/494292066734215/) — Penjelasan resmi Meta tentang visibilitas akun yang dinonaktifkan, proses peninjauan keluhan dalam aplikasi, dan saluran keamanan resmi saat akun diretas.
+
+[^24]: [Chen Shui-bian Threads: "Baba" Bian adalah angka terakhir akun 88](https://www.threads.com/@chenshuibian88/post/DYKVb7QE_l0/media) — Posting publik yang dibalas oleh akun terverifikasi Chen Shui-bian pada 10 Mei 2026 dan gambar; posting asli yang dibalas tidak lagi terlihat, artikel ini hanya menganalisis cara self-meme berdasarkan teks balasan dan media yang dapat diakses.
+
+[^25]: [Yahoo / FoodNEXT: Mengapa Threads Menjadi Medan Pertempuran Baru untuk Editor Merek?](https://tw.news.yahoo.com/threads%E7%82%BA%E4%BD%95%E6%88%90%E7%82%BA%E5%93%81%E7%89%8C%E5%B0%8F%E7%B7%A8%E7%9A%84%E6%96%B0%E6%88%B0%E5%A0%B4-%E5%A0%B4%E5%BE%9E%E7%95%99%E8%A8%80%E5%8D%80%E7%99%BC%E5%8B%95%E7%9A%84%E6%B5%B7%E5%B7%A1%E8%A1%8C%E9%8A%B7%E9%9D%A9%E5%91%BD-051140535.html) — Pengamatan penulis yang dipublikasikan pada tahun 2026, menjelaskan pola "patroli laut" di mana merek secara aktif meninggalkan komentar di bawah posting populer pengguna dan risiko kepercayaan mereka; merupakan perspektif pemasaran, bukan penelitian tingkat konversi.
+
+[^26]: [DailyView: Jaringan Hidup, Patroli Laut, Ledakan Meme! 10 Editor Media Sosial Paling Lucu](https://dailyview.tw/daily/4542) — Kompilasi tahun 2025 dari kasus media sosial akun seperti Keluarga Lengkap, Ba Yao He Cha, dan Istana Gugong Cabang Selatan; peringkat KEYPO mereka mencerminkan volume diskusi online, bukan penilaian positif atau negatif atau efektivitas komersial.
+
+[^27]: [Threads: Apa Itu Meme Tidak Setuju Sekolah Dimulai?](https://www.threads.com/@yummyman_official/post/DN53NWIkoCG/) — Posting publik Agustus 2025 yang mempertahankan petunjuk terlihat seperti "Saya adalah orang domba beras saya tidak setuju sekolah dimulai" yang ditulis ulang sebelum sekolah dimulai; digunakan untuk menjelaskan sirkulasi pola kalimat, bukan mengklaim sumber tunggal.
+
+[^28]: [Threads: Saya Secara Pribadi Mengumumkan Kompetisi XXX Pertama Resmi Dimulai](https://www.threads.com/@tobie_talks/post/DQNxdPbk-7I/) — Posting publik Oktober 2025 yang mengumpulkan versi kompetisi yang diproklamirkan sendiri dalam kebijaksanaan hidup, desain interior, industri kecantikan, dan game independen, dan mengingatkan bahwa akun baru yang mencurigakan mungkin menggunakan meme untuk mengumpulkan interaksi; merupakan pengamatan pengguna.
+
+[^29]: [DailyView: Apa Itu Tinggalkan untuk Teman Lihat?](https://dailyview.tw/popular/detail/33000) — Penjelasan data diskusi KEYPO Januari 2026 tentang singkatan "tinggalkan untuk teman lihat", mencantumkan perubahan volume dan metode penelitian; tidak setara dengan penjelasan algoritma platform resmi.
+
+[^30]: [Tsai Ing-wen Threads: Tinggalkan untuk Teman Lihat](https://www.threads.com/@tsai_ingwen/post/DTiRTjykrs7/%E7%95%99%E5%8F%8B%E7%9C%8B) — Posting publik tiga karakter yang dipublikasikan oleh akun terverifikasi Tsai Ing-wen pada 15 Januari 2026; artikel ini hanya menggunakannya sebagai contoh bahasa slang populer yang memasuki perhatian publik, bukan menggunakan angka interaksi real-time sebagai statistik tetap.
+
+[^31]: [Threads: Mengapa Gambar Katak Meme Ini Begitu Banyak Digunakan Sekarang?](https://www.threads.com/@jackychen_0522/post/DZSCdZJidWj/) — Diskusi publik Juni 2026, komentar menunjukkan gambar katak sering digunakan untuk membantah pernyataan absurd, juga menampilkan karakteristiknya yang aturannya berubah seiring dengan perubahan utas.
+
+[^32]: [Berita Dong Sen: Cara Makan Nasi Daging Cincang Gaya Sekte Viral, Banyak Orang Berteriak Membawanya Pergi dari Planet Ini](https://news.ebc.net.tw/news/living/526271) — Laporan Desember 2025, mencatat nasi daging cincang dengan susu kental manis yang memicu reaksi "sampah dapur keluar dari planet" di Threads dan interaksi brand manager yang ikut terlibat.
+
+[^33]: [Threads: Sarankan Hapus Cari Cari, Yang Dicari Adalah Satu Mobil Orang Roti](https://www.threads.com/@yamapi.h/post/DXGSqyCmWH_/) — Postingan publik April 2026, menampilkan versi yang secara absurd mengurai ulang "satu mobil penuh orang" menjadi "satu mobil orang roti"; teks ini hanya menganalisis kontras bahasanya, tidak mendorong penggunaan bahasa mengancam.
+
+[^34]: [Berita Yahoo: Threads Chiang Wan-an Dibanjiri, Netizen Menggali Kembali Postingan Lama "Besok Libur" 3 Kata](https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89threads%E8%A2%AB%E7%81%8C%E7%88%86-%E7%B6%B2%E7%BF%BB-%E6%98%8E%E5%A4%A9%E6%94%BE-3%E5%AD%97%E8%88%8A%E6%96%87%E7%98%8B%E5%96%8A-%E4%BB%8A%E6%99%9A8%E9%BB%9E%E5%86%8D%E8%AC%9B-002700654.html) — Laporan Juli 2026, mengulas kembali postingan "Besok Libur!" dari periode Topan Kammuri 2024 yang digali kembali; informasi libur dan tutup kantor tetap harus mengikuti pengumuman resmi dari otoritas terkait.
+
+[^35]: [Kota Belajar: Apa Itu Meme "Saya Ven Lagi Sekali"?](https://city.gvm.com.tw/article/127579) — Laporan Januari 2026, melacak video peniru toko sarapan Threads tahun 2025 dan penulisan tiruan "ven" untuk "tanya", serta mencatat kontroversi aksen lintas selat.
+
+[^36]: [Meta Transparency Center: Inauthentic Behavior](https://transparency.meta.com/policies/community-standards/inauthentic-behavior/) — Kebijakan perilaku tidak autentik Meta dan penjelasan pelaporan; keberadaannya tidak berarti pengguna dapat menentukan identitas nyata atau hubungan organisasi berdasarkan fitur akun tunggal.
+
+[^37]: [Berita Kebebasan: Akun AI Tertangkap Memandu Tren, Netizen Membanjiri untuk Melatih hingga Rusak](https://news.ltn.com.tw/news/life/breakingnews/5346491) — Laporan Februari 2026 tentang kasus dugaan akun AI yang diuji oleh pemberi komentar dengan perintah bahasa dan karakter, kemudian tidak dapat ditampilkan; tidak dapat digeneralisasi ke semua akun berdasarkan ini.
+
+[^38]: [T客邦: Threads Mengintegrasikan Uji Coba Interaksi Meta AI](https://www.techbang.com/posts/129818-threads-meta-ai-test-chinese-hokkien) — Informasi pengujian Taiwan 2026, menjelaskan cara menanyakan `@meta.ai` dalam utas publik, serta peringatan bahwa konten yang dihasilkan mungkin tidak lengkap atau tidak akurat.
+
+[^39]: [LINE TODAY: Orang Taiwan Paling Suka Menggeser Threads, Netizen Bercanda Menyebutnya Grup LINE Terbuka Besar-besaran](https://today.line.me/tw/v3/article/j7gpmka) — Laporan 2025 mengutip pernyataan komunitas "minta bantuan di toilet tanpa tisu, makan kotak makan tanpa sumpit"; teks ini menganggapnya sebagai imajinasi berlebihan dari budaya saling membantu, bukan statistik kasus terverifikasi.
+
+[^40]: [Televisi Rakyat/Yahoo: Paspor Dibawa Keluarga ke Luar Negeri, Warga Mengirim Threads Minta Bantuan 30 Menit Menemukan Penyelamat](https://tw.news.yahoo.com/%E8%AD%B7%E7%85%A7%E8%A2%AB%E5%AE%B6%E4%BA%BA%E5%B8%B6%E5%87%BA%E5%9C%8B-%E6%B0%91%E7%9C%BE%E7%99%BCthreads%E6%B1%82%E6%95%9130%E5%88%86%E9%90%98%E6%89%BE%E5%88%B0%E6%95%91%E5%85%B5-092138051.html) — Laporan Februari 2026 tentang permintaan bantuan paspor lintas negara; teks juga mencatat pengingat penerima wawancara tentang risiko menyerahkan dokumen kepada orang asing, tidak dapat dijadikan prosedur operasi standar.
+
+[^41]: [Biro Urusan Konsular Kementerian Luar Negeri: Panduan Permohonan Penggantian Paspor Dalam Negeri yang Hilang dan Masih Berlaku](https://www.boca.gov.tw/np-22-1.html) — Penjelasan resmi bahwa paspor yang hilang di luar negeri dapat mengajukan surat bukti masuk negara, pelaporan kehilangan berarti paspor tidak dapat digunakan meski ditemukan kemudian, dan risiko hukum penyimpanan paspor.
+
+[^42]: [Cermin Mingguan: Kartu Pelajar Universitas Taiwan Kembali dari Mesir](https://www.mirrormedia.mg/story/20251229edi046) — Laporan 2025 tentang pencarian kartu pelajar lintas negara, mencatat proses di mana penemu mengirim postingan di dekat Piramida Giza, pemilik mengonfirmasi identitas dalam komentar dan menyepakati pengambilan kembali saat kembali ke Taiwan.
+
+[^43]: [Kementerian Dalam Negeri Biro Kepolisian Nasional Biro Polisi Kriminal: Bagaimana Cara Menangani Kehilangan Paspor Republik Tiongkok di Dalam dan Luar Negeri?](https://www.cib.npa.gov.tw/ch/app/faq/view?id=18233&module=faq&serno=03e57ba5-71ff-4b38-8301-576cc9ff71e2) — Penjelasan resmi tentang proses pelaporan polisi dan penggantian paspor yang hilang dalam negeri; dokumen sensitif tinggi harus memprioritaskan prosedur resmi yang dapat dicatat.
+
+[^44]: [Recuero, Amaral, Monteiro: Fandoms, Trending Topics and Social Capital in Twitter](https://spir.aoir.org/ojs/index.php/spir/article/download/8217/6604) — Penelitian penggemar 2013, menggunakan wawancara, observasi, dan analisis data Twitter tentang bagaimana penggemar berkolaborasi menggunakan tagar dan retweet, membangun visibilitas dan modal sosial; bukan penelitian rasio penggunaan VTuber Taiwan.
+
+[^45]: [Televisi Publik: Workgroup 5 — Audiences and Engagement](https://info-material.pts.org.tw/staff_paper/2024/2024_015_article.pdf) — Data kerja Televisi Publik 2024, menyebutkan komunitas terkait VTuber mengelola akun di Discord dan X; digunakan untuk menjelaskan contoh kasus tunggal Taiwan tentang pembagian multi-platform, tidak mewakili semua VTuber.
+
+[^46]: [Badan Berita Pusat: Threads Suspend Disaster, Digital Development Department Launches Investigation](https://www.cna.com.tw/news/ait/202606150305.aspx) — Laporan Juni 2026 mencatat banyak pembuat konten, media, dan tokoh politik yang akunnya salah diklasifikasikan sebagai di bawah 13 tahun; Meta awalnya menyebutnya sebagai masalah teknologi verifikasi usia; jangkauan dampak dan penyebab selanjutnya harus mengikuti pembaruan resmi.
+
+[^47]: [Liberty Times: Akun IG dan Threads Badan Berita Pusat Sempat Disuspend, Beralih ke Pengumuman di Miin](https://news.ltn.com.tw/news/politics/breakingnews/5472882) — Laporan Juni 2026 mencatat proses Badan Berita Pusat mengumumkan suspensi di Miin, mengajukan banding, dan pemulihan akun; tidak dapat disimpulkan dari sini bahwa semua akun Miin dibuat pada hari yang sama.
+
+[^48]: [Google Play: Miin Miyin](https://play.google.com/store/apps/details?id=tw.ailabs.miin) — Deskripsi diri platform sebagai platform sumber terbuka nirlaba yang didorong oleh Taiwan AI Labs & Foundation, dan mengklaim membantu memahami perspektif berbeda serta mengidentifikasi manipulasi informasi; entri ini adalah deskripsi diri platform.
+
+[^49]: [Formosa TV / Yahoo: Pengenalan Miin Setelah Gelombang Suspensi Meta](https://tw.news.yahoo.com/meta%E7%88%86%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%81%9C%E6%AC%8A%E6%BD%AE-ptt%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%8E%A8-%E9%80%99%E5%B9%B3%E5%8F%B0-%E6%B5%81%E9%87%8F%E9%82%84%E7%B5%A6%E5%89%B5%E4%BD%9C%E8%80%85-054305364.html) — Laporan Juni 2026 tentang pandangan Du Yi-ching terhadap ruang publik Miin dan positioning tanpa iklan; merupakan perspektif pendiri dan penyampaian media, bukan evaluasi efektivitas eksternal.
+
+[^50]: [Meta: Threads Lebih Mudah Melihat Konten dalam Fediverse](https://about.fb.com/news/2025/06/its-now-easier-see-more-fediverse-content-threads/) — Pengumuman resmi 2025 menjelaskan bahwa akun publik dengan berbagi diaktifkan dapat mengakses konten publik dari beberapa layanan lain melalui feed khusus Fediverse dan pencarian; jangkauan fitur, pengaturan akun, dan dukungan server semuanya memiliki kondisi.
+
+[^51]: [Meta: Threads Mencapai 500 Juta Pengguna Aktif Bulanan dan Meluncurkan Fitur Komunitas](https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/) — Pengumuman resmi Juni 2026 menjelaskan Communities Hub, Community Champions, dan Local Communities yang dimulai dari Taiwan dan tempat lain; dokumen yang sama juga menyatakan bahwa Your Algo di pasar pertama tidak termasuk Taiwan.
+
+[^52]: [DataReportal: Digital 2026 — Taiwan](https://datareportal.com/reports/digital-2026-taiwan) — Penjelasan audiens yang dapat dijangkau iklan Threads Taiwan dan definisi pada akhir 2025; jangkauan iklan tidak dapat dianggap sebagai pengguna aktif bulanan atau harian.
+
+[^53]: [MIC Institut Strategi Informasi: Generasi Muda Berkumpul di IG, Dcard, Threads](https://mic.iii.org.tw/research.aspx?id=744) — Survei perilaku komunikasi media sosial yang dirilis Desember 2025; pengguna media sosial secara keseluruhan yang sering menggunakan Threads adalah 17,5%, usia 18–24 tahun adalah 44%, dengan data kecemasan informasi tambahan; ini adalah survei preferensi, bukan jangkauan iklan atau MAU platform.
+
+[^54]: [Kementerian Pengembangan Digital, Direktorat Industri Digital: Meta Berkomitmen Mendeteksi dan Memulihkan Akun yang Disuspend Secara Keliru](https://moda.gov.tw/ADI/news/latest-news/19942) — Pengumuman 17 Juni 2026 mencatat masalah teknologi verifikasi usia, pemulihan hampir 90% akun yang disuspend keliru, jangkauan media dan akun publik yang terdampak, dan tindakan pemulihan proaktif selanjutnya; ini adalah pemberitahuan resmi pada hari itu, bukan statistik suspensi jangka panjang.
+
+[^55]: [Semrush: threads.net Website Traffic Overview](https://www.semrush.com/website/threads.net/overview/) — Halaman Juni 2026 menunjukkan Taiwan menyumbang sekitar 21,24% dari lalu lintas domain tersebut; merupakan estimasi lalu lintas situs web pihak ketiga, tidak dapat disimpulkan sebagai akun Taiwan, MAU Taiwan, atau proporsi penggunaan aplikasi.
