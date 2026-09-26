@@ -25,12 +25,31 @@ LOGIN_FILE="$STATE_DIR/auth-login-date"         # 最近一次登入日 YYYY-MM-
 REPO="frank890417/taiwan-md"
 WINDOW_MIN=70                                   # 每小時跑，看近 70 分鐘（含 jitter 重疊）
 COOLDOWN_SEC=$((12*3600))                       # 同一種告警 12 小時內不重複開 issue
-EXPIRY_DAYS=30; WARN_AT_DAYS=25
+# 壽命用 29 天估（2026-09-26 校準）：log 看得到的上一次登入是 2026-08-27 12:59:56，
+# 第一筆 session_stale_relogin 出在 2026-09-25 23:17:25，只撐了 29 天 10 小時；
+# 原本寫 30 天，所以 #1761 預估 09-27 過期，實際早一天半就斷了。估早比估晚安全。
+EXPIRY_DAYS=29; WARN_AT_DAYS=25
 NOW=$(date +%s); TODAY=$(date +%F)
 OUT="$HOME/Library/Logs/taiwanmd-auth-watchdog.log"
 say(){ echo "$(date '+%F %T') $*" | tee -a "$OUT" >&2; }
 
 [ -r "$LOG" ] || { say "ERR: 讀不到 $LOG（Claude Desktop 沒裝或 log 路徑變了）"; exit 3; }
+
+# ── 〇、跑的是不是 repo 那一版（2026-09-26 maintainer 補）──────────────────────────
+# launchd 跑的是 ~/.local/bin 裡的拷貝，不是 repo 的檔。09-24、09-25 兩班在 repo 修了本檔
+# （標題與內文跟著倒數走），那兩個修補從來沒裝到這台機器上：拷貝停在 09-11，而 repo 那邊
+# 看起來已經修好。每次跑先跟 origin/main 那一版比一次，不一樣就在 log 與告警內文都講出來。
+# 找不到 repo 時也要講，「沒比」不能借用「一樣」的符號（REFLEXES #85）。
+REPO_DIR="${TAIWANMD_REPO:-$HOME/Projects/taiwan-md}"
+SELF_NOTE=""
+if git -C "$REPO_DIR" rev-parse --verify -q origin/main >/dev/null 2>&1; then
+  if ! git -C "$REPO_DIR" show "origin/main:scripts/tools/mouhouse/auth-watchdog.sh" 2>/dev/null | cmp -s - "$0"; then
+    SELF_NOTE="⚠️ 這台機器跑的看門狗（$0）跟 repo origin/main 那一版不一樣，repo 裡的修補還沒裝上來。重裝：bash $REPO_DIR/scripts/tools/mouhouse/install-auth-watchdog.sh --local"
+    say "$SELF_NOTE"
+  fi
+else
+  say "無法比對自己是不是 repo 那一版（$REPO_DIR 找不到 origin/main）"
+fi
 
 # ── 一、近 WINDOW_MIN 分鐘有沒有登入過期／session 起不來 ─────────────────────────
 SINCE=$(date -v-"${WINDOW_MIN}"M '+%Y-%m-%d %H:%M:%S')
@@ -64,18 +83,45 @@ if [ "$HIT_N" -gt 0 ]; then
   fi
 fi
 
-# ── 二、登入日倒數（有 LOGIN_FILE 才算；沒有就用 log 裡最近一次 ASWebAuth 成功日）──
-if [ -r "$LOGIN_FILE" ]; then LOGIN_DATE=$(cat "$LOGIN_FILE"); else
-  LOGIN_DATE=$(grep -h 'ASWebAuth completed: { success: true' "$HOME"/Library/Logs/Claude/main*.log 2>/dev/null | awk '{print $1}' | sort | tail -1)
+# ── 二、登入日：LOGIN_FILE 與 log 裡最近一次「真的登入」取較新的（2026-09-26 改）──
+# 原本只認 `ASWebAuth completed: { success: true` 這一行，而且只看最近 70 分鐘。2026-09-26
+# 10:02 哲宇在 mouhouse 重新登入，走的是系統瀏覽器的 Google 登入，log 裡根本沒有 ASWebAuth
+# 那一行（全部 main*.log 零筆），於是登入日檔停在 08-28，看門狗繼續喊「剩 1 天」，隔天就會
+# 對一個已經續好的登入開 critical。真登入在 log 裡的形狀是：
+#   [Auth] Using system browser for: /login/...    （同一天稍早）
+#   [oauth] clearing latched session_stale_relogin failures
+# 而且同一秒緊接著的不是 `sessionKey re-inserted with known-stale value`——那是 zombie
+# re-stamp，不是登入（2026-08-26 07:37 與 13:48 各一次，當時登入其實沒恢復，停到 08-27）。
+# 掃全部 main*.log 而不是只看最近 70 分鐘：機器睡著或本檔沒跑到的那一小時，不該讓一次登入
+# 永遠被漏掉。每個檔各自掃（檔內時間是順的），取最新的日期。
+real_login_dates(){
+  awk '
+    /ASWebAuth completed: \{ success: true/ { print $1; next }
+    /\[Auth\] Using system browser for: \/login\// { bday=$1; next }
+    /\[oauth\] clearing latched session_stale_relogin failures/ {
+      if (bday == $1) { pend=$1" "$2; pday=$1 }
+      next
+    }
+    pend != "" {
+      if ($0 ~ /sessionKey re-inserted with known-stale value/) { pend=""; next }
+      if (($1" "$2) != pend) { print pday; pend="" }
+    }
+    END { if (pend != "") print pday }' "$1" 2>/dev/null
+}
+LOG_LOGIN=$(for f in "$HOME"/Library/Logs/Claude/main*.log; do real_login_dates "$f"; done | sort | tail -1)
+FILE_LOGIN=""; [ -r "$LOGIN_FILE" ] && FILE_LOGIN=$(cat "$LOGIN_FILE")
+LOGIN_DATE=$(printf '%s\n%s\n' "$FILE_LOGIN" "$LOG_LOGIN" | grep -E '^[0-9]{4}-[0-9]{2}-[0-9]{2}$' | sort | tail -1)
+if [ -n "$LOG_LOGIN" ] && [ "$LOG_LOGIN" = "$LOGIN_DATE" ] && [ "$LOG_LOGIN" != "$FILE_LOGIN" ]; then
+  if [ "$DRY" = 1 ]; then
+    say "[dry-run] log 裡有比登入日檔更新的登入（${FILE_LOGIN:-無} → $LOG_LOGIN），正式跑會回寫"
+  else
+    echo "$LOG_LOGIN" > "$LOGIN_FILE"; say "偵測到新登入，登入日由 ${FILE_LOGIN:-無} 改為 $LOG_LOGIN"
+  fi
 fi
 DAYS_SINCE=""; if [ -n "${LOGIN_DATE:-}" ]; then
   LOGIN_EPOCH=$(date -j -f '%Y-%m-%d' "$LOGIN_DATE" +%s 2>/dev/null || echo "")
   [ -n "$LOGIN_EPOCH" ] && DAYS_SINCE=$(( (NOW - LOGIN_EPOCH) / 86400 ))
 fi
-
-# ── 三、如果剛好看到成功登入，把登入日寫下來（唯一會寫的狀態檔，不碰 Claude 任何東西）──
-FRESH_LOGIN=$(awk -v since="$SINCE" '($1" "$2) >= since' "$LOG" | grep -c 'ASWebAuth completed: { success: true' || true)
-if [ "$FRESH_LOGIN" -gt 0 ]; then echo "$TODAY" > "$LOGIN_FILE"; say "偵測到新登入，登入日寫為 $TODAY"; DAYS_SINCE=0; fi
 
 # ── 四、判定 ────────────────────────────────────────────────────────────────
 LEVEL="ok"; TITLE=""; BODY=""
@@ -86,9 +132,9 @@ if [ "$HIT_N" -gt 0 ] && [ "$CONFIRMED_AFTER" -gt 0 ] && [ "$STALE_AFTER" -eq 0 
 elif [ "$HIT_N" -gt 0 ]; then
   LEVEL="critical"
   TITLE="mouhouse 登入過期：排程 session 起不來（看門狗自動偵測 $TODAY）"
-  BODY=$(printf '近 %s 分鐘 Claude Desktop main.log 出現 %s 筆登入過期／session 起不來：\n\n```\n%s\n```\n\n這是 2026-08-23～28 四天空窗同一個病（OAuth refresh token 30 天固定壽命，`session_stale_relogin`）。排程器照 fire、lastRunAt 照更新，但每個 routine session 都被「Sign in again」擋回，在有人重新登入之前飛輪等於停轉。\n\n**修法只有一個：在 mouhouse 上打開 Claude Desktop 重新登入**（Screen Sharing 或接螢幕）。登入後本看門狗會自動記下新登入日並停止告警。\n\n證據鏈與背景：reports/mouhouse-blackout-root-cause-2026-09-05.md · OBSERVER-QUEUE #49 · 本 issue 由 `scripts/tools/mouhouse/auth-watchdog.sh` 開，不是 Claude session 寫的。🧬' "$WINDOW_MIN" "$HIT_N" "$HITS")
+  BODY=$(printf '近 %s 分鐘 Claude Desktop main.log 出現 %s 筆登入過期／session 起不來：\n\n```\n%s\n```\n\n這是 2026-08-23～28 四天空窗同一個病（登入大約 29～30 天就會過期，`session_stale_relogin`）。排程器照 fire、lastRunAt 照更新，但每個 routine session 都被「Sign in again」擋回，在有人重新登入之前飛輪等於停轉。\n\n**修法只有一個：在 mouhouse 上打開 Claude Desktop 重新登入**（Screen Sharing 或接螢幕）。登入後本看門狗會自動記下新登入日並停止告警。\n\n證據鏈與背景：reports/mouhouse-blackout-root-cause-2026-09-05.md · OBSERVER-QUEUE #49 · 本 issue 由 `scripts/tools/mouhouse/auth-watchdog.sh` 開，不是 Claude session 寫的。🧬' "$WINDOW_MIN" "$HIT_N" "$HITS")
 elif [ -n "$DAYS_SINCE" ] && [ "$DAYS_SINCE" -gt "$EXPIRY_DAYS" ]; then
-  # 超過 30 天卻沒有任何 session 起不來的痕跡 → 登入日資料過時（例如重新登入沒留 ASWebAuth 行），不告警只記錄
+  # 超過估計壽命卻沒有任何 session 起不來的痕跡 → 登入日資料過時（例如某種登入流程沒被 real_login_dates 認出來），不告警只記錄
   say "登入日 ${LOGIN_DATE} 已 ${DAYS_SINCE} 天但 session 正常，登入日可能過時；請更新 $LOGIN_FILE"
 elif [ -n "$DAYS_SINCE" ] && [ "$DAYS_SINCE" -ge "$WARN_AT_DAYS" ]; then
   LEVEL="warn"
@@ -96,8 +142,11 @@ elif [ -n "$DAYS_SINCE" ] && [ "$DAYS_SINCE" -ge "$WARN_AT_DAYS" ]; then
   # 標題寫絕對日期不寫相對天數：相對天數一旦凍住就是錯的，絕對日期凍住還是對的。
   EXPIRY_DATE=$(date -j -v+"${LEFT}"d '+%Y-%m-%d' 2>/dev/null || date -d "+${LEFT} days" '+%Y-%m-%d' 2>/dev/null || echo "$TODAY+${LEFT}d")
   TITLE="mouhouse 登入預估 ${EXPIRY_DATE} 過期，剩約 ${LEFT} 天（登入日 ${LOGIN_DATE}，看門狗更新 $TODAY）"
-  BODY=$(printf 'Claude Desktop 的登入 session 是 30 天固定壽命（2026-07-24 登入 → 08-23 過期，四天零產出）。目前登入日 %s，已 %s 天，預估 %s 天後過期。\n\n**建議這幾天在 mouhouse 重新登入一次**，登入後看門狗會自動記下新日期。\n\n背景：reports/mouhouse-blackout-root-cause-2026-09-05.md · OBSERVER-QUEUE #49。本 issue 由 `scripts/tools/mouhouse/auth-watchdog.sh` 開。🧬' "$LOGIN_DATE" "$DAYS_SINCE" "$LEFT")
+  BODY=$(printf 'Claude Desktop 的登入大約 29～30 天就要重新登入一次（2026-07-24 登入 → 08-23 過期，四天零產出；2026-08-27 登入 → 09-25 過期，只撐 29 天半）。目前登入日 %s，已 %s 天，預估 %s 天後過期。\n\n**建議這幾天在 mouhouse 重新登入一次**，登入後看門狗會自動記下新日期。\n\n背景：reports/mouhouse-blackout-root-cause-2026-09-05.md · OBSERVER-QUEUE #49。本 issue 由 `scripts/tools/mouhouse/auth-watchdog.sh` 開。🧬' "$LOGIN_DATE" "$DAYS_SINCE" "$LEFT")
 fi
+
+# 本檔自己過時的話，告警內文要講出來：過時的看門狗發出的讀數本身就可能是錯的
+[ -n "$SELF_NOTE" ] && [ -n "$BODY" ] && BODY=$(printf '%s\n\n%s' "$BODY" "$SELF_NOTE")
 
 say "level=$LEVEL hits=$HIT_N confirmed_after=$CONFIRMED_AFTER stale_after=$STALE_AFTER login_date=${LOGIN_DATE:-?} days_since=${DAYS_SINCE:-?}"
 [ "$LEVEL" = "ok" ] && exit 0
