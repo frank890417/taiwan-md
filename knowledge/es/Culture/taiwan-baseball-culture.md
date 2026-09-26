@@ -1,6 +1,6 @@
 ---
 title: 'La cultura del béisbol en Taiwán'
-description: 'Desde la leyenda de los Little Leaguers de Hongye hasta las lágrimas y el sudor de la Liga Profesional de Béisbol China — cómo el béisbol se convirtió en el "deporte nacional" de Taiwán'
+description: 'Desde la leyenda del equipo infantil de Hongye hasta las lágrimas y el sudor de la Liga China de Béisbol Profesional: cómo el béisbol se convirtió en el «deporte nacional» de Taiwán'
 date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Culture'
@@ -8,163 +8,163 @@ subcategory: '運動文化'
 tags:
   [
     'béisbol',
-    'Liga Profesional de Béisbol China',
-    'Little Leaguers de Hongye',
+    'CPBL',
+    'equipo infantil Hongye',
     'deporte nacional',
     'deportes',
-    'Wang Chien-ming',
-    'efecto Ohtani',
+    'Chien-Ming Wang',
+    'efecto Shohei Ohtani',
   ]
 readingTime: 10
-lastVerified: 2026-03-19
+lastVerified: 2026-09-05
 lastHumanReview: true
 featured: false
 translatedFrom: 'Culture/台灣棒球文化.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:9a4380e463583d63'
-sourceBodyHash: 'sha256:ffebfda3574ab04b'
-translatedAt: '2026-05-17T05:34:54+08:00'
+sourceCommitSha: '25b97c085'
+sourceContentHash: 'sha256:82a373ca1ee51cf4'
+sourceBodyHash: 'sha256:fc1ffe59248c5ac1'
+translatedAt: '2026-09-26T19:10:21+08:00'
 difficulty: 'beginner'
 ---
 
 # La cultura del béisbol en Taiwán
 
-El 25 de agosto de 1968, en una pequeña escuela del municipio de Yanping, en Taitung, un grupo de niños indígenas de complexión delgada se presentaron con bates de madera hechos a mano para enfrentarse al equipo estelar de béisbol infantil procedente de Japón. Nadie esperaba que aquel encuentro, aparentemente desigual, terminara con un marcador de 7:0 que conmocionaría al mundo entero, y mucho menos que aquel fuera el comienzo de la leyenda del béisbol taiwanés.
+El 25 de agosto de 1968, en una pequeña escuela del municipio de Yanping, en el condado de Taitung, un grupo de niños indígenas de complexión menuda se presentó con bates de madera hechos a mano para enfrentarse al equipo estelar de béisbol infantil llegado de Japón. Nadie esperaba que aquel partido, en apariencia tan desigual, terminara con un marcador de 7:0 que conmocionaría al mundo entero; mucho menos que aquello fuera el comienzo de la leyenda del béisbol taiwanés.
 
-La victoria de los Little Leaguers de Hongye fue la forma en que una pequeña isla proclamó su existencia al mundo. En una época en la que Taiwán sufría reveses constantes en el ámbito político internacional, el béisbol se convirtió en un vehículo fundamental para que los taiwaneses demostraran su valía y construyeran su identidad. Desde entonces, este deporte de origen estadounidense echó raíces en aquel territorio y acabó convirtiéndose en el "deporte nacional" de Taiwán.
+La victoria del equipo infantil de Hongye fue la manera en que una pequeña isla proclamó su existencia ante el mundo. En una época en que Taiwán sufría reveses constantes en el terreno de la política internacional, el béisbol se convirtió en un vehículo fundamental para que los taiwaneses demostraran su valía y construyeran su identidad. Desde entonces, este deporte originario de Estados Unidos echó raíces en esta tierra, hasta convertirse finalmente en el «deporte nacional» de Taiwán.
 
-## El béisbol llega a Taiwán: de herencia colonial a identidad cultural
+## El béisbol llega a Taiwán: de legado colonial a identidad cultural
 
-La historia del béisbol en Taiwán se remonta al período de dominio japonés. En 1906, la Escuela Secundaria del Gobierno General de Taiwán (precursora de la Escuela Secundaria Jianguo) formó el primer equipo de béisbol de la isla. Los japoneses trajeron consigo toda una cultura beisbolística —reglas, entrenamiento disciplinado, cultivo de la fuerza mental— que trasplantaron íntegramente.
+La historia del béisbol taiwanés comienza en el periodo colonial japonés. En 1906, la Escuela Secundaria del Gobierno General de Taiwán (precursora de la actual Escuela Secundaria Chien Kuo) formó el primer equipo de béisbol de Taiwán. Lo que trajeron los japoneses fue todo un sistema cultural en torno al béisbol: reglas, entrenamiento disciplinario y formación del carácter, todo trasplantado en bloque.
 
-Resulta interesante que el béisbol, introducido originalmente como un instrumento del dominio colonial, acabara convirtiéndose en un medio fundamental para que los taiwaneses construyeran su propia identidad. Esta transformación cultural no constituye una excepción en la historia de Taiwán: los elementos externos suelen ser localizados y acaban formando parte del acervo propio.
+Resulta curioso que el béisbol, introducido originalmente como parte del engranaje del dominio colonial, acabara convirtiéndose en un medio importante para que los taiwaneses construyeran su propia identidad. Esta transformación cultural no es una excepción en la historia de Taiwán: lo foráneo suele acabar localizándose, hasta volverse parte de lo propio.
 
-La localización del béisbol en Taiwán se aprecia claramente en la composición de sus jugadores. Los deportistas indígenas han ocupado un lugar especial en la historia del béisbol taiwanés, y los niños bunong de Hongye son solo el ejemplo más conocido de ello.
+La localización del béisbol en Taiwán puede apreciarse ya en la composición de sus jugadores. Los deportistas indígenas ocupan un lugar especial en la historia del béisbol taiwanés, y los niños bunun del equipo infantil de Hongye son solo el ejemplo más conocido.
 
 ## La leyenda de Hongye: el comienzo de una era
 
-### El sueño beisbolístico de los niños de la montaña
+### El sueño beisbolero de los niños de la montaña
 
-La escuela primaria de Hongye se encuentra en el municipio de Yanping, en el condado de Taitung, y es una escuela de montaña típica. Cuando se fundó el equipo de béisbol infantil de Hongye en 1960, aquellos niños bunong jugaban con bates de madera fabricados por ellos mismos y pelotas recogidas de aquí y allá, entrenando en terrenos pedregosos.
+La Escuela Primaria de Hongye está ubicada en el municipio de Yanping, condado de Taitung, y era una escuela de montaña típica de la época. Cuando se formó el equipo infantil de Hongye en 1960, estos niños bunun entrenaban con bates de madera hechos a mano y pelotas recogidas de aquí y allá, en un descampado cubierto de piedras.
 
-En 1963, con la llegada del director Lin Chupeng, se descubrió que la asistencia escolar era muy baja y que los alumnos que acudían mostraban poco interés. Se le ocurrió una idea: crear un equipo de béisbol para que los niños disfrutaran yendo a la escuela a jugar, aprendiendo al mismo tiempo. Aquella idea, en apariencia sencilla, inauguró inesperadamente la era dorada del béisbol taiwanés.
+Cuando Lin Chu-peng (林珠鵬) asumió como director en 1963, notó que la asistencia escolar era muy baja, y que incluso quienes asistían mostraban poco interés. Se le ocurrió una solución: formar un equipo de béisbol para que a los niños les gustara ir a la escuela a jugar y, de paso, estudiar. Esta idea aparentemente sencilla abrió, sin que nadie lo esperara, la edad dorada del béisbol taiwanés.
 
 ### Una victoria que conmocionó al mundo
 
-El 25 de agosto de 1968, el equipo estelar de béisbol infantil japonés visitó Taiwán. Aquel conjunto reunía a los mejores jugadores de la región de Kansai y se esperaba que ganara con facilidad. Sin embargo, los niños de Hongye desplegaron una capacidad asombrosa: no solo vencieron por 7:0 en el primer encuentro, sino que volvieron a ganar al día siguiente.
+El 25 de agosto de 1968, el equipo estelar de béisbol infantil de Japón visitó Taiwán. Ese equipo reunía a jugadores de élite de la región de Kansai y se esperaba que ganara sin dificultad. Pero los niños de Hongye mostraron una fuerza sorprendente: no solo vencieron por completo 7:0 en el primer partido, sino que volvieron a ganar al día siguiente.
 
-El resultado sacudió a todo Taiwán. Los titulares de los periódicos le dedicaron amplios espacios, las emisoras de radio retransmitían las noticias sin cesar, y de pronto toda la isla supo que existía un lugar llamado "Hongye" donde un grupo de niños había traído gloria a Taiwán. Chiang Ching-kuo visitó Hongye en cuatro ocasiones entre 1975 y 1980, declarando que "todo el mundo sabe que en la China libre existe una escuela primaria llamada Hongye".
+El resultado conmocionó a todo Taiwán. Los periódicos lo llevaron a titulares destacados, la radio lo repitió una y otra vez, y de pronto toda la isla supo que existía un lugar llamado «Hongye» y que un grupo de niños había dado gloria a Taiwán. Chiang Ching-kuo llegó a visitar Hongye cuatro veces entre 1975 y 1980, y declaró que «todo el mundo sabe que la China Libre tiene una Escuela Primaria de Hongye».
 
-### El campeonato mundial del equipo Chinlong
+### El campeonato mundial del equipo Golden Dragon
 
-La victoria de Hongye inspiró a toda la isla. En 1969, Taiwán formó el "Equipo de Béisbol Infantil Chinlong" para participar en el Campeonato Mundial de Béisbol Infantil celebrado en Williamsport, Estados Unidos. Chinlong venció a todos sus rivales y se alzó con el título, logrando el primer campeonato mundial para Taiwán.
+La victoria de Hongye inspiró a toda la isla. En 1969, Taiwán formó el «equipo infantil Golden Dragon» para participar en el Campeonato Mundial de Béisbol Infantil, celebrado en Williamsport, Estados Unidos. El equipo Golden Dragon fue superando a todos sus rivales hasta alzarse con el título, logrando así el primer campeonato mundial para Taiwán.
 
-El significado de aquel título trascendía con mucho el ámbito deportivo. En un momento en que Taiwán acababa de abandonar las Naciones Unidas y su situación internacional era sumamente difícil, aquellos niños hicieron que el mundo entero viera a Taiwán. El béisbol se convirtió en la forma en que Taiwán hacía oír su voz en el escenario internacional, yendo mucho más allá de la mera competición deportiva.
+El significado de este campeonato trascendió con mucho el ámbito deportivo. En un momento en que Taiwán acababa de retirarse de las Naciones Unidas y atravesaba una situación internacional difícil, aquel grupo de niños hizo que el mundo entero viera a Taiwán. El béisbol se convirtió en una forma de que Taiwán se hiciera oír en el escenario internacional, mucho más allá del simple ámbito deportivo.
 
-## La era dorada del béisbol en las tres categorías juveniles
+## La edad dorada del béisbol de tres niveles
 
-El éxito de los Little Leaguers de Hongye desató una fiebre por el béisbol en toda la isla. El gobierno promovió el béisbol en tres categorías juveniles (béisbol infantil, béisbol juvenil y béisbol de adolescentes), los condados y ciudades formaron equipos representativos, y las escuelas comenzaron a desarrollar jugadores de manera sistemática.
+El éxito del equipo infantil de Hongye desató una fiebre beisbolera en toda la isla. El gobierno impulsó el béisbol de tres niveles (infantil, juvenil menor y juvenil mayor); los distintos condados y ciudades fueron formando sus propios equipos representativos, y las escuelas comenzaron a formar jugadores de béisbol de manera sistemática.
 
-Desde la década de 1970 hasta la de 1980, Taiwán obtuvo resultados sobresalientes en competiciones internacionales de béisbol juvenil, copando con frecuencia las primeras plazas. Las destacadas actuaciones de aquellos jóvenes jugadores no solo trajeron honor a Taiwán, sino que también formaron a una gran cantidad de talentos que más tarde constituyeron la base para la creación de la Liga Profesional de Béisbol China.
+Entre las décadas de 1970 y 1980, Taiwán tuvo un desempeño brillante en las competiciones internacionales de béisbol juvenil, llevándose con frecuencia el campeonato y el subcampeonato a la vez. El excelente desempeño de estos jóvenes jugadores le dio prestigio a Taiwán y formó, además, una gran cantera de talento que más tarde constituiría la base sobre la que se fundó la Liga China de Béisbol Profesional (CPBL).
 
-El desarrollo del béisbol en las tres categorías juveniles también dio lugar al singular sistema de formación beisbolística de Taiwán, en el que los equipos escolares constituyen el núcleo. Muchos de los futuros jugadores profesionales comenzaron su andadura precisamente ahí.
+El desarrollo del béisbol de tres niveles también dio lugar a un sistema de formación beisbolera propio de Taiwán, en el que los equipos escolares son el núcleo; muchos futuros jugadores profesionales dieron ahí sus primeros pasos.
 
 ## El nacimiento del béisbol profesional: el momento histórico de 1990
 
-### La llegada del primer año de béisbol profesional
+### La llegada del Año Uno del béisbol profesional
 
-El 23 de octubre de 1989 se fundó oficialmente la Liga Profesional de Béisbol China, con las empresas Wei Chuan, Uni-President, Mercuries Brothers y Brother como clubes fundadores. El 17 de marzo de 1990 se disputó el primer partido en la historia de la Liga Profesional de Béisbol China, inaugurando formalmente el "primer año del béisbol profesional".
+El 23 de octubre de 1989 se fundó formalmente la Liga China de Béisbol Profesional (CPBL); Wei Chuan, Uni-President, Mercuries y Brother, cuatro empresas, se convirtieron en los equipos fundadores. El 17 de marzo de 1990 se disputó el primer partido de la historia de la CPBL, dando paso oficialmente al «Año Uno del béisbol profesional».
 
-La creación de la liga profesional marcó un hito fundamental en la transición del béisbol taiwanés desde el ámbito amateur al profesional. Fue también un símbolo del desarrollo económico y social de Taiwán: la isla contaba por fin con la capacidad económica suficiente para sostener el deporte profesional.
+La fundación de la liga profesional marcó un hito importante en el paso del béisbol taiwanés del amateurismo a la profesionalización. Fue, además, un símbolo del desarrollo socioeconómico de Taiwán: la isla contaba por fin con la fortaleza económica necesaria para sostener un deporte profesional.
 
-### El entusiasmo inicial y los desafíos
+### El fervor y los retos de los primeros años
 
-En los primeros años de la liga profesional, el entusiasmo del público taiwanés fue asombroso. Los estadios se llenaban con regularidad, la cultura de aficionados se consolidó rápidamente y cada equipo contaba con seguidores incondicionales. La tormenta amarilla de los Brother Elephants y el ejército verde de los Uni-President Lions eran prácticamente conocidos en todos los hogares de la época.
+En los primeros años de la liga profesional, el fervor del público taiwanés fue asombroso. Los estadios se llenaban con frecuencia, la cultura de la afición se consolidó con rapidez y cada equipo tenía seguidores incondicionales. El torbellino amarillo de los Brother Elephants y el ejército verde de los Uni-President Lions eran, en aquella época, prácticamente un nombre familiar en todos los hogares.
 
-Sin embargo, la liga profesional también enfrentó desafíos graves. Los escándalos de apuestas y amaño de partidos que estallaron a finales de la década de 1990 dañaron gravemente su imagen, la asistencia al estadio cayó en picado y varios equipos se disolvieron. El béisbol profesional taiwanés entró en su período más oscuro.
+Pero la liga profesional también enfrentó retos serios. Los escándalos de apuestas y amaño de partidos que estallaron a finales de la década de 1990 dañaron gravemente la imagen del béisbol profesional: el número de espectadores cayó en picado y varios equipos se disolvieron. El béisbol profesional taiwanés entró así en su período más oscuro.
 
 ## El béisbol taiwanés en el escenario internacional
 
-### El esplendor en los Juegos Asiáticos y los Juegos Olímpicos
+### El brillo de los Juegos Asiáticos y los Juegos Olímpicos
 
-Además del béisbol profesional, el béisbol amateur de Taiwán también ha cosechado resultados notables en competiciones internacionales. En eventos importantes como los Juegos Asiáticos y los Juegos Olímpicos, el equipo de béisbol de China Taipéi ha obtenido medallas con frecuencia, aumentando la visibilidad internacional de Taiwán.
+Además del béisbol profesional, el béisbol amateur de Taiwán también ha destacado en competiciones internacionales. En citas importantes como los Juegos Asiáticos y los Juegos Olímpicos, el equipo de béisbol de Taiwán (compitiendo como Taipéi Chino) ha obtenido medallas con frecuencia, ganando visibilidad internacional para Taiwán.
 
-Competiciones clave como el Campeonato Asiático de 2003, el Clásico Mundial de 2006 y los Juegos Olímpicos de Pekín de 2008 contaron con destacadas actuaciones del béisbol taiwanés. Estos encuentros constituyeron un vehículo emocional para los taiwaneses: cada competición importante concitaba la atención de toda la isla, trascendiendo el mero nivel de la competición deportiva.
+En citas como el Campeonato Asiático de 2003, el Clásico Mundial de Béisbol de 2006 y los Juegos Olímpicos de Pekín 2008, el béisbol taiwanés ofreció actuaciones memorables. Estos partidos son un depósito emocional para los taiwaneses: cada competición importante atrae la atención de toda la isla, superando con creces el plano puramente deportivo.
 
-### El fenómeno Wang Chien-ming
+### El fenómeno de Chien-Ming Wang
 
-En 2005, Wang Chien-ming se incorporó a los New York Yankees, situando al béisbol taiwanés en el escenario de las Grandes Ligas. Este lanzador diestro, originario de Tainan, conquistó las Grandes Ligas con su sinker de dos costuras, logrando 19 victorias durante dos temporadas consecutivas y convirtiéndose en un orgullo para los taiwaneses.
+En 2005, Chien-Ming Wang se unió a los Yankees de Nueva York, lo que le dio al béisbol taiwanés un lugar en el escenario de las Grandes Ligas. Este lanzador derecho originario de Tainan conquistó las Grandes Ligas con su sinker, una recta de dos costuras de caída pronunciada, y consiguió 19 victorias en dos años consecutivos, convirtiéndose en el orgullo de los taiwaneses.
 
-El éxito de Wang Chien-ming impulsó el interés de toda la isla por el béisbol, y su influencia trascendió con creces sus logros personales. Cada vez que Wang Chien-ming abría un partido, Taiwán vivía un fenómeno de "toda la nación viendo béisbol", lo que demostraba el lugar especial que este deporte ocupa en el corazón de los taiwaneses.
+El éxito de Chien-Ming Wang despertó el interés de todo Taiwán por el béisbol; su impacto fue mucho más allá de su logro individual. Cada vez que Wang abría un partido como lanzador titular, en Taiwán se producía el fenómeno de «todo el país viendo béisbol», una prueba del lugar especial que ocupa este deporte en el corazón de los taiwaneses.
 
-## El significado cultural del béisbol como "deporte nacional"
+## El significado cultural del béisbol como «deporte nacional»
 
 ### ¿Por qué el béisbol?
 
-A partir del año 2000, el béisbol comenzó a ser denominado oficialmente "deporte nacional" en Taiwán. Detrás de esta denominación se esconden profundas connotaciones políticas y culturales.
+A partir del año 2000, el béisbol comenzó a ser llamado oficialmente el «deporte nacional» de Taiwán. Detrás de esta denominación se esconden profundas connotaciones políticas y culturales.
 
-Según las investigaciones del profesor Liu Chang-de, del Departamento de Periodismo de la Universidad Nacional de Chengchi, que el béisbol fuera llamado "deporte nacional" en Taiwán a partir del año 2000 tuvo importantes implicaciones políticas, incluyendo la construcción de la identidad nacional interna de Taiwán y una nueva imaginación de la identidad étnica-nacional.[^1]
+Según la investigación del profesor Liu Chang-te (劉昌德), del Departamento de Periodismo de la Universidad Nacional de Chengchi, que el béisbol comenzara a llamarse «deporte nacional» en Taiwán a partir de 2000 tuvo importantes implicaciones políticas, entre ellas la construcción de la identidad nacional interna de Taiwán y una nueva imaginación de la identidad étnico-nacional.[^1]
 
-La razón por la que el béisbol pudo convertirse en el deporte nacional es que carga con demasiados recuerdos compartidos de los taiwaneses: la gloria de los Little Leaguers de Hongye, la pasión de la liga profesional, la emoción de las competiciones internacionales. Este deporte ha sido testigo del recorrido de Taiwán desde el autoritarismo hasta la democracia, desde el aislamiento hasta la apertura.
+El béisbol pudo convertirse en el deporte nacional porque carga con demasiados recuerdos compartidos por los taiwaneses: la gloria del equipo infantil de Hongye, el fervor de la liga profesional, la pasión de las competiciones internacionales. Este deporte ha sido testigo del recorrido de Taiwán, del autoritarismo a la democracia, del aislamiento a la apertura.
 
 ### El béisbol y la identidad taiwanesa
 
-En el contexto político de Taiwán, el béisbol ofrece un vehículo de identidad que trasciende las divisiones partidistas. Independientemente de su postura política, los taiwaneses pueden vitorear juntos las victorias del equipo nacional y sentirse orgullosos de las actuaciones de Wang Chien-ming.
+En el contexto político de Taiwán, el béisbol ofrece un vehículo de identidad que trasciende las divisiones partidistas. Sin importar su postura política, los taiwaneses pueden celebrar por igual las victorias de la selección de Chinese Taipei y sentirse orgullosos del desempeño de Chien-Ming Wang.
 
-Esta identidad construida a través del deporte conecta con la vida cotidiana de la gente de manera más profunda que cualquier eslogan político. Cuando animamos al equipo de Taiwán, al mismo tiempo estamos confirmando nuestra propia identidad.
+Esta identidad construida a través del deporte llega a la vida de la gente común de una manera que las consignas políticas no logran igualar. Cuando animamos a la selección de Taiwán, al mismo tiempo estamos confirmando nuestra propia identidad.
 
-## Desafíos actuales y nuevas esperanzas
+## Retos actuales y nuevas esperanzas
 
 ### El renacimiento y desarrollo de la liga profesional
 
-Tras el período de crisis provocado por los escándalos de amaño de partidos, la liga profesional taiwánés dedicó varios años a reconstruir la confianza. La liga endureció la disciplina, reforzó los mecanismos contra las apuestas y mejoró la calidad de los encuentros. Nuevos clubes se incorporaron, las instalaciones de los estadios mejoraron y la cultura de aficionados maduró.
+Tras el bache provocado por los escándalos de amaño de partidos, el béisbol profesional taiwanés tardó varios años en reconstruir la confianza del público. La liga reforzó la disciplina, fortaleció los mecanismos contra las apuestas ilegales y elevó la calidad del juego. Se sumaron nuevos equipos, mejoraron las instalaciones de los estadios y la cultura de la afición maduró aún más.
 
-En los últimos años, numerosos jugadores taiwaneses han fichado por la Liga Profesional de Béisbol de Japón y las Grandes Ligas de Estados Unidos, elevando no solo su propio nivel, sino también la reputación internacional del béisbol taiwanés. Las carreras en el extranjero de jugadores como Chen Wei-yin, Tzu-Wei Lin y Wang Po-jung han continuado la tradición iniciada por Wang Chien-ming.
+En los últimos años, numerosos jugadores taiwaneses han dado el salto a la liga profesional de Japón y a las Grandes Ligas de Estados Unidos, elevando no solo su propio nivel, sino también la reputación internacional del béisbol taiwanés. Las trayectorias en el extranjero de jugadores como Chen Wei-yin, Tzu-Wei Lin y Wang Po-jung han dado continuidad a la tradición abierta por Chien-Ming Wang.
 
-### Los desafíos del béisbol de base
+### Los retos del béisbol de base
 
-Sin embargo, el béisbol taiwanés también enfrenta desafíos severos. La disminución de la tasa de natalidad, la diversificación de las opciones deportivas y el cambio de mentalidad de los padres están provocando una escasez de jugadores en el béisbol de base. Muchas escuelas tradicionalmente fuertes en béisbol ya no pueden formar equipos completos.
+Pero el béisbol taiwanés también enfrenta retos serios. El impacto de la baja tasa de natalidad, la diversificación de las opciones deportivas y el cambio de mentalidad de los padres han dejado al béisbol de base con escasez de jugadores. Muchas escuelas con tradición beisbolera ya no logran formar un equipo completo.
 
-Además, el modelo de desarrollo excesivamente elitista también ha sido cuestionado. ¿La especialización demasiado temprana puede ahogar otras posibilidades de desarrollo de los niños? Cómo lograr un equilibrio entre la formación de jugadores de élite y la popularización del deporte es una cuestión que el béisbol taiwanés debe afrontar.
+Además, se cuestiona el modelo de desarrollo excesivamente elitista. ¿Puede la especialización demasiado temprana asfixiar otras posibilidades de desarrollo del niño? Cómo equilibrar la formación de jugadores de élite con la popularización del deporte es una cuestión que el béisbol taiwanés debe resolver.
 
-### El efecto Ohtani y un nuevo paradigma
+### El efecto Shohei Ohtani y el nuevo paradigma
 
-En los últimos años, el éxito del jugador japonés Shohei Ohtani en las Grandes Ligas de Estados Unidos ha establecido un nuevo paradigma para el béisbol asiático. Su condición de "dos-way player" (jugador de doble función) representa un modo de pensar libre de marcos preestablecidos y ha revolucionado desde el punto de vista técnico las concepciones de entrenamiento del pasado.
+En los últimos años, el éxito del jugador japonés Shohei Ohtani en las Grandes Ligas de Estados Unidos ha establecido un nuevo paradigma para el béisbol asiático. Su condición de «two-way player» (jugador de doble función) representa una forma de pensar libre de moldes preestablecidos, y ha revolucionado desde el punto de vista técnico las concepciones de entrenamiento del pasado.
 
-Para el béisbol taiwanés, el éxito de Ohtani ofrece una nueva dirección de reflexión: ¿estamos demasiado aferrados a los modelos de entrenamiento tradicionales? ¿Es posible mantener las características propias de los jugadores asiáticos al tiempo que se integran más elementos innovadores?
+Para el béisbol taiwanés, el éxito de Ohtani ofrece una nueva dirección de reflexión: ¿nos aferramos demasiado a los modelos de entrenamiento tradicionales? ¿Es posible conservar las características propias de los jugadores asiáticos e incorporar, al mismo tiempo, más elementos de innovación?
 
-## Béisbol femenino y desarrollo diverso
+## El béisbol femenino y el desarrollo diverso
 
-El béisbol femenino de Taiwán ha cosechado resultados notables en el escenario internacional. El equipo femenino de béisbol de China Taipéi ha logrado repetidos éxitos en competiciones como la Copa Mundial de Béisbol Femenino, constituyendo otra línea de desarrollo del béisbol taiwanés.
+El béisbol femenino de Taiwán también ha brillado en el escenario internacional. La selección femenina de béisbol de Chinese Taipei ha cosechado buenos resultados en citas como la Copa Mundial de Béisbol Femenino, y representa otra línea de desarrollo del béisbol taiwanés.
 
-El desarrollo del béisbol femenino enfrenta desafíos concretos: la asignación de recursos, la visibilidad y las salidas profesionales son inferiores a las del béisbol masculino. No obstante, este ámbito sigue atrayendo a nuevas incorporaciones, y las fronteras de género en el campo de béisbol son más difusas que en el pasado.
+El desarrollo del béisbol femenino enfrenta retos concretos: la distribución de recursos, la visibilidad mediática y las salidas profesionales están todas por debajo de las del béisbol masculino. Pero este campo sigue sumando gente comprometida, y en el terreno de juego las fronteras de género se han vuelto más difusas que antes.
 
-La diversificación del béisbol taiwanés también incluye la promoción del béisbol para personas con discapacidad, así como la actividad de las ligas amateur de béisbol en todos los grupos de edad. Todas estas son formas en que el béisbol existe en la sociedad más allá del béisbol profesional.
+La diversificación del béisbol taiwanés también incluye la promoción del béisbol para personas con discapacidad, así como la actividad de las ligas de béisbol amateur de todas las edades. Estas son, más allá del béisbol profesional, otras formas en que el béisbol existe dentro de la sociedad.
 
 ## Conclusión: el eterno sueño del deporte nacional
 
-Los bates de madera de Hongye en 1968, el bullicio del estadio en el primer año de la liga profesional en 1990, el impacto del escándalo de amaño de partidos en 1997, el escenario de las Grandes Ligas de Wang Chien-ming en 2005: a lo largo de medio siglo, el béisbol taiwanés ha atravesado diferentes altibajos.
+Los bates de madera de Hongye en 1968, el bullicio de los estadios en el Año Uno del béisbol profesional de 1990, el impacto del escándalo de amaño de partidos de 1997, el escenario de las Grandes Ligas de Chien-Ming Wang en 2005: el béisbol taiwanés ha vivido, a lo largo de medio siglo, subidas y bajadas muy distintas.
 
-La razón por la que este deporte ha podido convertirse en el "deporte nacional" de Taiwán es que carga con demasiados sueños y emociones de los taiwaneses, yendo mucho más allá de los logros deportivos. Cada competición internacional, cada actuación de un jugador taiwanés en el extranjero, conmueve el corazón de millones de personas.
+Este deporte pudo convertirse en el «deporte nacional» de Taiwán porque carga con demasiados sueños y emociones de los taiwaneses, mucho más allá de sus logros deportivos. Cada competición internacional, cada actuación de un jugador taiwanés en el extranjero, conmueve el corazón de millones de personas.
 
-El reto actual del béisbol taiwanés consiste en mantener su ventaja técnica tradicional al tiempo que introduce métodos de entrenamiento científicos y una visión internacional más amplia. El suministro de talento en las categorías de base, el problema de la especialización prematura de los jugadores y cómo lograr la participación de grupos más diversos en el béisbol son cuestiones que requieren respuestas políticas concretas.
+El reto actual del béisbol taiwanés es mantener sus ventajas técnicas tradicionales y, al mismo tiempo, incorporar métodos de entrenamiento científico y una visión internacional más amplia. La provisión de talento de base, el problema de la especialización demasiado temprana de los jugadores y cómo lograr que participe en el béisbol una población más diversa son temas que requieren respuestas concretas de política pública.
 
-Los registros que el béisbol taiwanés ha dejado en el ámbito internacional otorgan a este deporte un peso cultural en la sociedad taiwanés que trasciende lo meramente deportivo. En cada competición internacional, el béisbol se convierte en una válvula de escape de la emoción colectiva de Taiwán, una función difícil de replicar en cualquier otro deporte.
+El historial que el béisbol taiwanés ha dejado en el ámbito internacional le ha dado a este deporte, dentro de la sociedad de Taiwán, un peso cultural que trasciende lo puramente deportivo. En cada competición internacional, el béisbol se convierte en la válvula de escape de la emoción colectiva de Taiwán, una función que es difícil de replicar en otras disciplinas deportivas.
 
 ---
 
 ## Referencias
 
-[^1]: Liu Chang-de, «La bandera del imperio ondea, la nación grita: la división internacional del trabajo beisbolístico y la transformación del discurso deportivo-nacional», _Taiwan: A Radical Quarterly in Social Studies_, n.º 70, 2008, https://www.airitilibrary.com/Publication/Information?publicationID=10219528; véanse también los resultados de investigación relacionados de Liu Chang-de, Facultad de Comunicación de la Universidad Nacional de Chengchi, https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3714
+[^1]: Liu Chang-te (劉昌德), 〈帝國搖旗，國族吶喊：棒球勞動國際分工與運動國族論述之轉變〉, 《台灣社會研究季刊》, n.º 70, 2008, https://www.airitilibrary.com/Publication/Information?publicationID=10219528; véase también la producción académica de Liu Chang-te, Facultad de Comunicación de la Universidad Nacional de Chengchi, https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3714
 
-[^2]: Wiki del Béisbol Taiwanés, entrada sobre la historia del béisbol en Taiwán, https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81
+[^2]: Wiki de Béisbol de Taiwán, entrada sobre la historia del béisbol taiwanés, https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81
 
-[^3]: Wikipedia, «Historia del béisbol en Taiwán», «Equipo de béisbol infantil de Hongye», «Liga Profesional de Béisbol China», https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E5%8F%B2
+[^3]: Wikipedia, 〈台灣棒球史〉、〈紅葉少棒隊〉、〈中華職業棒球大聯盟〉, https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E5%8F%B2
 
-[^4]: «¿Cómo se convirtió el béisbol en el deporte nacional? Partiendo de la historia de Hongye», Historia en la Tienda de la Esquina (kamatiam.org), https://kamatiam.org/棒球如何成為國球從紅葉的故事說起/
+[^4]: 〈棒球如何成為國球？從紅葉的故事說起〉, 歷史學柑仔店, https://kamatiam.org/棒球如何成為國球從紅葉的故事說起/
 
-[^5]: «El béisbol taiwanés: 30 años desde los escándalos de amaño de partidos hasta el campeonato mundial, ¿cómo ha cargado con la historia colonial y la identidad nacional?», CommonWealth Magazine, https://www.cw.com.tw/article/5132888
+[^5]: 〈台灣棒球：30年來從打假球醜聞到世界冠軍，如何承載殖民歷史與國族認同？〉, CommonWealth Magazine, https://www.cw.com.tw/article/5132888
 
-[^6]: Archivos Digitales de la Academia Sinica, exposición temática sobre un siglo de historia del béisbol, https://digitalarchives.tw/Exhibition/2445/1.html
+[^6]: Archivo Digital de Academia Sinica, exposición especial sobre un siglo de historia del béisbol, https://digitalarchives.tw/Exhibition/2445/1.html
 
-[^7]: Datos históricos del sitio web oficial de la Liga Profesional de Béisbol China, https://www.cpbl.com.tw/
+[^7]: Sitio oficial de la CPBL, materiales históricos, https://www.cpbl.com.tw/
