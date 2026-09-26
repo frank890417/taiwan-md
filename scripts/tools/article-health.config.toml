@@ -239,6 +239,21 @@ semicolon_hard_over = 12
 checks = "*"
 fail_on = "never"
 
+# ── prettier-url-stability（2026-09-27 self-evolve-weekly，REFLEXES #100 未落地那一半）──
+# 把檔案交給 commit 會跑的同一把 prettier（格式化到不動點），網址多重集合變了即 HARD。
+# 常駐一個 node 行程，每份幾毫秒，但全庫 14,605 份實測 8 分鐘——進 git 的檔案都已被
+# lint-staged 格式化過，全站再掃只會量到「不冪等」那一小類，不值得 CI 多八分鐘。
+# 所以只在 pre-commit（觸檔即查）與 release-pr（`--check=` 不帶 --profile 時的預設，委派交件、
+# 審投稿 PR 檔都走這條）開；自動全站掃的 ci-deploy／dashboard 顯性關掉。
+# 注意：曾把 release-pr 也關掉，結果不帶 profile 的單檔檢查與全庫重掃一起靜默量到 0（本 session 自己踩到）。
+# 首跑全庫：見 memory 2026-09-27 self-evolve-weekly 的清單（再被碰一兩次就把 Commons 網址改壞的檔），
+# 舊的 link-url-mangle 啟發式一篇都沒認出來。
+[profiles.ci-deploy.options_overrides.prettier-url-stability]
+enabled = false
+
+[profiles.dashboard.options_overrides.prettier-url-stability]
+enabled = false
+
 [profiles."memory-diary"]
 # memory/diary 專用 profile — 2026-07-16 新增，2026-09-05 哲宇拍板
 # OBSERVER-QUEUE #24 選 B 改版。
