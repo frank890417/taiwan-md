@@ -18,6 +18,12 @@ name-consistency-check 的規則 B 刻意只比人物頁標題（它的 docstrin
 加上連字號邊界（Lin Liang 不再吃進 Lin Liang-chun）與 ALIAS 之後 160 處／152 篇，抽樣裡真錯
 佔多數。存量處置見 OBSERVER-QUEUE #84。
 
+盲區（2026-09-27 維護班 session 提的正控制）：995ee366e 之前的 vi〈戴資穎〉整篇把她寫成
+Đinh Trí Anh 46 處，這支 0 命中——那是憑空拼出來的名字，不是表上另一個人的拼寫，不在判準內。
+反方向也試過：「zh 提到某人 ≥3 次、譯文卻沒有他任何已知拼寫」全庫 1,310 處／929 篇，越南文的
+漢越音（李登輝 → Lý Đăng Huy）與鄭成功 → Koxinga 這類合法寫法淹沒訊號，正控制也沒命中，不採用。
+發明出來的錯名只剩人物頁標題那一格（name-consistency 規則 A 的少數形）看得到。
+
 用法：
   python3 name-absence-check.py                 # 全庫盤點（en es fr pt id vi de）
   python3 name-absence-check.py <譯文...>        # 指定檔案
