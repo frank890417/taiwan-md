@@ -79,8 +79,11 @@ def yaml_self_test(content: str) -> tuple[bool, str]:
         m = re.match(r"^[a-z]+:\s*'(.+)'\s*$", line)
         if m:
             inner = m.group(1)
-            # Check for unescaped single quote inside
-            if "'" in inner:
+            # Check for unescaped single quote inside. `''` is YAML's own escape
+            # for an apostrophe in a single-quoted scalar (Taiwan''s) — valid,
+            # parses fine; only a lone `'` is the bug (2026-09-27: the old check
+            # flagged every `''`, 7/596 false positives, yaml.safe_load 7/7 OK).
+            if "'" in inner.replace("''", ""):
                 return False, f"unescaped apostrophe in single-quoted: {line[:80]}"
     # 2. Duplicate top-level keys
     keys = []
