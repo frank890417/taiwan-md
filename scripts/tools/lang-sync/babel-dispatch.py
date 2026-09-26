@@ -397,7 +397,17 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
         cwd=REPO, capture_output=True, text=True,
     )
     health_fail = "passed=False" in r3.stdout
-    ok = out1.get("fails", 1) == 0 and not leak_fail and not health_fail
+    # 幣別閘門（2026-09-26 維護班通報）：currency-identity-check 原本只接在委派層，
+    # OBSERVER-QUEUE #59 寫的「增量已擋」只對委派層成立。實測本 dispatcher 36 小時
+    # 產出 444 篇裡 133 篇帶裸 yuan／rupiah——ar〈斗笠〉十處「150 يوان」過了上面
+    # 全部閘門，讀者讀到的是人民幣。exit 1 = 有裸幣別；其他非零是工具自己壞了，不擋。
+    r4 = subprocess.run(
+        ["python3", "scripts/tools/lang-sync/currency-identity-check.py", trans_path],
+        cwd=REPO, capture_output=True, text=True,
+    )
+    currency_fail = r4.returncode == 1
+    ok = (out1.get("fails", 1) == 0 and not leak_fail and not health_fail
+          and not currency_fail)
     if ok:
         return True, None
     # 失敗原因要帶「是哪幾項」不只「有幾項」——2026-07-27 診斷 verify 類失敗時
@@ -417,6 +427,10 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
         reason = "health" + (f" [{', '.join(hnames[:4])}]" if hnames else "")
     elif leak_fail:
         reason = "leak"
+    elif currency_fail and out1.get("fails", 1) == 0:
+        # 只在 verify 本身過關時記成幣別失敗，既有的 verify 家族統計不被改標
+        n = re.search(r"(\d+) 處裸幣別", r4.stdout)
+        reason = f"currency[{n.group(1) if n else '?'}]"
     else:
         failed_names = [c.get("name", "?") for c in (out1.get("checks") or [])
                         if c.get("level") == "FAIL"]
