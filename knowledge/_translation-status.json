@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T13:53:19+08:00",
-    "zhCommitHead": "af7300ac7",
+    "lastUpdated": "2026-09-26T14:07:23+08:00",
+    "zhCommitHead": "32becbb0a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1071,
+        "fresh": 1072,
         "stale": 22,
         "metadata_stale": 0,
-        "missing": 31,
+        "missing": 30,
         "orphan": 0
       },
       "ko": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1090,
+        "fresh": 1092,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 22,
+        "missing": 20,
         "orphan": 0
       },
       "pt": {
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1083,
-        "stale": 13,
+        "fresh": 1084,
+        "stale": 12,
         "metadata_stale": 0,
         "missing": 28,
         "orphan": 0
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1097,
+        "fresh": 1098,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 20,
+        "missing": 19,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1083,
+        "fresh": 1084,
         "stale": 5,
         "metadata_stale": 0,
-        "missing": 36,
+        "missing": 35,
         "orphan": 0
       }
     },
@@ -18346,8 +18346,8 @@
           "sourceContentHash": "sha256:9bdb791d8649c130",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T04:18:49.699949+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "32becbb0",
+          "translationLastModified": "2026-09-26T13:53:23+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 60346,
@@ -50340,11 +50340,11 @@
           "sourceContentHash": "sha256:cffdc6c150dee65c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T04:27:38.542576+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "32becbb0",
+          "translationLastModified": "2026-09-26T13:53:23+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 62871,
+          "bytes": 62873,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -62257,8 +62257,8 @@
           "sourceContentHash": "sha256:7abbe410b7f9a4d8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T04:48:56.986224+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "32becbb0",
+          "translationLastModified": "2026-09-26T13:53:23+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 65258,
@@ -77131,11 +77131,11 @@
           "sourceContentHash": "sha256:c6d4e2074d20efa4",
           "sourceBodyHash": "sha256:234ae4c6ee15c7e0",
           "translatedAt": "2026-09-26T10:22:55+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "32becbb0",
+          "translationLastModified": "2026-09-26T13:53:23+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 15127,
+          "bytes": 15129,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -95546,7 +95546,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/chiuchiu-shoes-youtuber.md",
+          "translatedFrom": "People/啾啾鞋.md",
+          "sourceCommitSha": "9c63d8227",
+          "sourceContentHash": "sha256:4ae6e15b4e3eea8f",
+          "sourceBodyHash": "sha256:09d31f29d2008420",
+          "translatedAt": "2026-09-26T10:22:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 25717,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/chiuchiu-shoes-youtuber.md",
@@ -106471,7 +106484,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/puma-shen.md",
+          "translatedFrom": "People/沈伯洋.md",
+          "sourceCommitSha": "e1b5668ad",
+          "sourceContentHash": "sha256:b525186aeb276e8e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T05:53:36.791530+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 68,
+          "bytes": 122682,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/puma-shen.md",
@@ -113475,18 +113501,18 @@
         "hi": {
           "path": "hi/People/muscle-mountain.md",
           "translatedFrom": "People/肌肉山山.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:a9c781639a414788",
-          "sourceBodyHash": "sha256:d1cce1c9cb32c2ba",
-          "translatedAt": "2026-08-04T17:42:36+08:00",
+          "sourceCommitSha": "445a73ced",
+          "sourceContentHash": "sha256:03fd31754989ad8f",
+          "sourceBodyHash": "sha256:f9337f3e9a513dcd",
+          "translatedAt": "2026-09-26T10:22:53+08:00",
           "translationLastCommit": "332a3b02",
           "translationLastModified": "2026-08-04T19:07:54+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 7194,
+          "footnoteDefs": 9,
+          "bytes": 43913,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/muscle-mountain.md",
@@ -157246,7 +157272,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-food-overview.md",
+          "translatedFrom": "Food/台灣美食總覽.md",
+          "sourceCommitSha": "53dd93dd8",
+          "sourceContentHash": "sha256:ddb3f321dcd88457",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T06:01:35.804530+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 70,
+          "bytes": 76755,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwan-food-overview.md",
@@ -163911,7 +163950,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-banquet-culture.md",
+          "translatedFrom": "Food/台灣辦桌文化.md",
+          "sourceCommitSha": "26a67c779",
+          "sourceContentHash": "sha256:e2ad095276c4d00c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T05:51:09.533122+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 88603,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/taiwan-banquet-culture.md",
@@ -184570,7 +184622,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/sino-french-war-in-taiwan.md",
+          "translatedFrom": "History/清法戰爭.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0d133f631d4db985",
+          "sourceBodyHash": "sha256:f135e504997bf040",
+          "translatedAt": "2026-09-26T10:22:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "bytes": 23510,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -188306,7 +188371,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/new-taipei-city.md",
+          "translatedFrom": "Geography/新北市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7893a2743008a706",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T05:51:35.811258+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 79821,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/new-taipei-city.md",
@@ -189894,20 +189972,7 @@
           "reason": "same-commit"
         },
         "ar": {
-          "path": "ar/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-26T10:22:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 30664,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
@@ -211101,8 +211166,8 @@
           "sourceContentHash": "sha256:d56573864b826475",
           "sourceBodyHash": "sha256:1750eec6a44e0473",
           "translatedAt": "2026-09-26T10:22:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "32becbb0",
+          "translationLastModified": "2026-09-26T13:53:23+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 42238,
