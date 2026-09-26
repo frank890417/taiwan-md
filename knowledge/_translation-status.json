@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T21:11:42+08:00",
-    "zhCommitHead": "35412cc94",
+    "lastUpdated": "2026-09-26T21:21:28+08:00",
+    "zhCommitHead": "d92596331",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1093,
+        "fresh": 1095,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 21,
+        "missing": 19,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1092,
+        "fresh": 1094,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 28,
+        "missing": 26,
         "orphan": 0
       }
     },
@@ -52293,7 +52293,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-street-trees.md",
+          "translatedFrom": "Lifestyle/台灣行道樹.md",
+          "sourceCommitSha": "40374bb7c",
+          "sourceContentHash": "sha256:e67ede9cedeaf7ed",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T13:00:05.336514+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "bytes": 203554,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-street-trees.md",
@@ -61986,7 +61999,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/delivery-platform-law.md",
+          "translatedFrom": "Society/外送專法.md",
+          "sourceCommitSha": "83975eef3",
+          "sourceContentHash": "sha256:2e2432d1a718986d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T12:40:59.358670+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "bytes": 113248,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -68430,8 +68456,8 @@
           "sourceContentHash": "sha256:036e3f58784db1c4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T11:34:14.569127+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a1f8cf13",
+          "translationLastModified": "2026-09-26T21:11:43+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "bytes": 93269,
@@ -68552,7 +68578,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/benzopyrene-food-safety-incident.md",
+          "translatedFrom": "Society/苯駢芘食安事件.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:036e3f58784db1c4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T13:12:11.769339+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "bytes": 212336,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/benzopyrene-food-safety-incident.md",
@@ -68654,11 +68693,11 @@
           "sourceContentHash": "sha256:7528460cb857fc3b",
           "sourceBodyHash": "sha256:0b63d09474dfeccb",
           "translatedAt": "2026-09-26T19:10:21+08:00",
-          "translationLastCommit": "1cdbee10",
-          "translationLastModified": "2026-09-26T19:32:17+08:00",
+          "translationLastCommit": "d6e0da3d",
+          "translationLastModified": "2026-09-26T21:20:23+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 45678,
+          "bytes": 45668,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187075,7 +187114,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/hualien-county.md",
+          "translatedFrom": "Geography/花蓮縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2d40b234aa9d9849",
+          "sourceBodyHash": "sha256:dfa0735c6c25d7c4",
+          "translatedAt": "2026-09-26T19:13:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "bytes": 65576,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -225303,8 +225355,8 @@
           "sourceContentHash": "sha256:bbab8ee22f168103",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T11:58:58.983013+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a1f8cf13",
+          "translationLastModified": "2026-09-26T21:11:43+08:00",
           "inferred": false,
           "footnoteDefs": 59,
           "bytes": 59329,
