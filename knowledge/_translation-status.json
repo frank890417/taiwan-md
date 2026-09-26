@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T21:34:34+08:00",
-    "zhCommitHead": "964937b1c",
+    "lastUpdated": "2026-09-26T21:36:49+08:00",
+    "zhCommitHead": "9f7a7526d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1108,
+        "fresh": 1109,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 6,
+        "missing": 5,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1095,
+        "fresh": 1096,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 25,
+        "missing": 24,
         "orphan": 0
       }
     },
@@ -3144,7 +3144,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/taiwan-hip-hop-and-rap.md",
+          "translatedFrom": "Music/台灣嘻哈與饒舌發展.md",
+          "sourceCommitSha": "3d2adaeb8",
+          "sourceContentHash": "sha256:d3459042301dfb22",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T12:58:27.933376+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 55,
+          "bytes": 74444,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -56037,8 +56050,8 @@
           "sourceContentHash": "sha256:caaea3b8ab3896dc",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T13:25:16.671123+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ae57d725",
+          "translationLastModified": "2026-09-26T21:34:40+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "bytes": 71200,
@@ -62096,8 +62109,8 @@
           "sourceContentHash": "sha256:2e2432d1a718986d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T12:40:59.358670+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ae57d725",
+          "translationLastModified": "2026-09-26T21:34:40+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 113248,
@@ -68710,8 +68723,8 @@
           "sourceContentHash": "sha256:036e3f58784db1c4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T12:47:01.002921+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ae57d725",
+          "translationLastModified": "2026-09-26T21:34:40+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "bytes": 108505,
@@ -122641,8 +122654,8 @@
           "sourceContentHash": "sha256:f9f02c4b8eb59a3c",
           "sourceBodyHash": "sha256:08e93141b3775e8d",
           "translatedAt": "2026-09-26T19:13:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ae57d725",
+          "translationLastModified": "2026-09-26T21:34:40+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 20454,
@@ -178782,7 +178795,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/national-human-rights-museum.md",
+          "translatedFrom": "History/國家人權博物館.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:2e55e7c10932cd0a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T13:30:09.596290+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 69056,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -187237,8 +187263,8 @@
           "sourceContentHash": "sha256:2d40b234aa9d9849",
           "sourceBodyHash": "sha256:dfa0735c6c25d7c4",
           "translatedAt": "2026-09-26T19:13:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ae57d725",
+          "translationLastModified": "2026-09-26T21:34:40+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "bytes": 65576,
@@ -191011,26 +191037,26 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-26T19:13:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 32116,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
         },
         "de": {
-          "path": "de/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-26T19:13:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 24230,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
