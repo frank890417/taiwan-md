@@ -332,6 +332,27 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-26 twmd-maintainer — resume-from-snapshot-drops-later-fixes：REWRITE-PIPELINE-SINGLE 從 6/6 的快照續行，6/15 與 7/6 兩條修正沒跟回來，也不在「不帶回來」清單上
+
+- **pattern**: `resume-from-snapshot-drops-later-fixes`
+- **原則**：從舊快照續行時，快照日到續行日之間長出來的每一條修正都要逐條決定帶或不帶。只列「不帶回來的三樣」，等於把沒列到的都默認成不存在。那些修正不會吵，它們本來就是為了讓某個病不再出現；病回來要等好幾篇文章之後才看得到，到時已經沒人記得曾經修過。
+- **觸發**：Discussion #1757（kwt-klure，09-24）指出兩條，本班對照 `docs/pipelines/archive/rewrite-v9.9-2026-09-19/` 驗證成立。(1) v9.9 index L270 的 v7.4（2026-06-15，哲宇 callout「難怪最近文章都變爛」）寫手要讀完整 research report 含 §8 raw；SINGLE L214／L386 回到「只吃 fact-pack」。(2) v9.9 index L199 的 v7.6「spine 類型先於核心矛盾」；SINGLE L170／L651 仍寫「找不到矛盾＝這篇不該被重寫」。兩條都不在 SINGLE 檔頭「不長回來的三樣」裡。同一則討論另指出 SINGLE Step 2.3（開場＝一個人在一個時刻做一件事）跟 EDITORIAL §三 五種開場互斥，寫手兩份都讀。→ memory/2026-09-26-230240-twmd-maintainer.md
+- **修補候選（未做）**：產線 canonical 由哲宇決定，進 [OBSERVER-QUEUE #81](OBSERVER-QUEUE.md)。儀器版：回滾或續行類變更附一張「快照後修正清單」，逐條標 帶／不帶／理由；dna-checkup 對封存版與現行版做 diff 時，列出沒有處置的條目。
+- **可能層級**：通用反射候選（REFLEXES #15「熟了跳步」的結構版：跳過的不是一步，是一整段歷史）
+- **相關**：OBSERVER-QUEUE #81、#74；LESSONS `canonical-positive-example-fails-its-own-rules`（同一則討論的另一條線）
+- **verification_count**: 1
+- **severity**: structural（寫文產線 canonical，每一篇新文章都經過）
+
+### 2026-09-26 twmd-maintainer — alarm-opens-but-nothing-closes：兩個告警都會開 issue，問題解除時卻沒有東西去關，讀的人分不出是還沒好還是好了沒人收
+
+- **pattern**: `alarm-opens-but-nothing-closes`
+- **原則**：告警只做一半就是另一種噪音。會開 issue 的儀器，轉綠時也得自己關，關的時候附上轉綠那次的讀數當證據。否則 issue 停在「35.2h 前」、「還剩 N 天」，每個讀到的 session 都要自己重查一遍才知道它還算不算數，重查的成本最後會讓大家學會忽略它。
+- **觸發**：auth-watchdog（#1761 auth-stale）09-26 10:02 已重新登入，issue 仍開著寫快過期；routine-stall-alert（#1779）飛輪恢復後同樣不會關。兩支都補了「轉綠即關、附讀數」：auth-watchdog §四之二（624b383dd），routine-stall-alert.yml 綠燈步（同 commit）。→ memory/2026-09-26-230240-twmd-maintainer.md
+- **可能層級**：操作規則（告警類儀器的設計準則），或 REFLEXES #52（儀器壞掉不能靜默）的對偶：儀器好了也不能靜默
+- **相關**：REFLEXES #52、#85
+- **verification_count**: 1
+- **severity**: tactical
+
 ### 2026-09-25 twmd-maintainer-am — gate-measures-an-artifact-nobody-refreshes：閘門量的是 build 產物，而沒有任何流程在更新它，18 天前的站被讀成今天的站
 
 - **pattern**: `gate-measures-an-artifact-nobody-refreshes`
@@ -381,7 +402,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **候選處置**：(a) build 產出放一份 `sitemap.xml`（複製 `sitemap-index.xml`，或讓 sitemap 整合多吐一個檔名）(b) `generate-redirects.mjs` 對「帶副檔名、因此不會生成 stub」的手寫規則印 WARN，說明它在 GitHub Pages 上不會生效 (c) 產生器與手寫規則檔的檔頭改成跟 astro.config 一致的平台真相 (d) 404 類修補的驗收一律對線上 curl 一次，不是看產物有沒有那一行。
 - **可能層級**：通用反射（REFLEXES #84 的新維度）
 - **相關**：REFLEXES #84（發佈產物要對賬 ground truth。差別：#84 收的是產物內容跟真相不一致，這次是整份產物根本不被平台讀取，內容對不對都沒差）；#82（產物存在當成效果的替身）；MANIFESTO §6 註「CF 是前面的 DNS/CDN 層，部署是 GitHub Pages」2026-07-17 部署平台真相修正，那次修正沒傳到產生器檔頭
-- **verification_count**: 1
+- **instances**：
+  - 2026-09-26 twmd-maintainer：auth-watchdog 09-24、09-25 兩班都在 repo 修了登入判斷，launchd 跑的是 `~/.local/bin` 那份 09-11 的拷貝，修補從沒到過執行它的那一層，#1761 照樣誤報。補了看門狗自我比對（跟 origin/main 不同就在告警裡說）＋ `install-auth-watchdog.sh --local`（abc7f2978）→ memory/2026-09-26-230240-twmd-maintainer.md
+- **verification_count**: 2
 - **severity**: tactical
 
 ### 2026-09-25 twmd-babel-nightly — wikilink-residue-renders-as-bold-chinese：譯文留著 [[中文]]，每道閘都放行，站上印成一個點不下去的粗體中文詞
@@ -586,7 +609,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **修補候選（未做）**：(a) 最小版：把 EDITORIAL 全部 ✅ 正例抽出、去標籤、跑 `article-health.py --check=prose-health` 加一席不知道標籤的 reviewer 重判，撞規則的正例改掉或標「有意識的例外」——這是一次性的 dogfood，Full mode 或哲宇在場的 session 做；(b) 儀器版：`dna-checkup` 家族加一格「正例過自己的規則」，每次 EDITORIAL 升版自動重跑。
 - **可能層級**：反射候選（REFLEXES #65 (f) 的子形狀，或 #69 外部尺的規範文件變體）；目前一個 instance，先進 buffer
 - **相關**：REFLEXES #65 (f)、REFLEXES #69、CLAUDE.md §Bias 4（外部 critique 五桶分類；本條是「真洞見」桶抽出來的自我洞察）、[OBSERVER-QUEUE #74](OBSERVER-QUEUE.md)、LESSONS「品質閘門只在「錯」上長，從不在「悶」上長」（2026-09-19 Muse）
-- **verification_count**: 1
+- **instances**：
+  - 2026-09-26 twmd-maintainer：§九 Before/After #1 戴資穎 ✅ 正例寫明「全是可查證的事實」，其中「她用左手持拍」是錯的（右手，BWF／維基），「6 歲開始每天 6 小時」「日本媒體稱她天才少女」查無出處，「那一晚 Google 台灣搜尋量第一」實為 2021 年度快速竄升總榜唯一人物；§三 標題範例「高雄左營少女到三度世界球后」出生地錯、「三度」無據。這一次正例撞的不是寫作規則，是事實——修補候選 (a) 的盲審只看文風，也要把正例裡的具體事實送一次 FACTCHECK。已改成可查證版本並跟 #1777 一起跑 A/B → memory/2026-09-26-230240-twmd-maintainer.md
+- **verification_count**: 2
 - **severity**: structural（規範文件的校準點失準會透過 rewrite 產線放大到整個 corpus）
 
 ### 2026-09-16 twmd-spore-harvest-am — spore-log-canonical-url-silent-mismatch：孢子 #175 的 identity URL 打錯了，每次直接導航都靜默重定向回首頁，8 天的 harvest cycle 都沒人抓到
@@ -1541,10 +1566,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-22 拆 run 98122 的 health [wikilink-target] 家族（15 structured ＋ 3 whole）。
 - **instances**：
   - 2026-09-22 twmd-babel-nightly → memory/2026-09-22-003711-twmd-babel-nightly.md
+  - 2026-09-26 twmd-maintainer：幣別閘只接在委派層（verify-delegation-batch.sh／write-agent-brief.py），dispatcher 的 verify 沒有；ar〈斗笠〉帶 10 處裸 يوان 過了全部閘門。babel session 當晚補進 verify_one（1f5a02aa5；36 小時 444 篇有 133 篇帶裸幣別）→ memory/2026-09-26-230240-twmd-maintainer.md
+  - 2026-09-26 twmd-maintainer：來源雜湊的算法住在 status.py，patch-translate 照 import，structured-translate 自己重寫一份、算成整份檔含 frontmatter；1,092 篇同 commit 卻雜湊不符，被 status.py「commit ancestry 優先」蓋住。babel session 改成 import（510189b0f），存量進 OBSERVER-QUEUE #83 → memory/2026-09-26-230240-twmd-maintainer.md
 - **修補（本班已做）**：`cross_link_localizer.resolve_wikilinks()` 單一來源（從所有 zh 檔建 stem 索引、同名跨分類不猜；有譯文連結化、沒有降純文字），三引擎呼叫點全改走它。**未做的一半**：frontmatter 欄位所有權（TRANSLATED／PASSTHROUGH）也是三份手抄（09-21 handoff 已列）；整篇引擎的 imageAlt 是本夜第三次補同一個欄位（structured 09-21、patch 09-21、whole 09-22）——引擎層的共用轉換清單值得盤一次。
 - **可能層級**：REFLEXES #92 twin-artifact 的三胞胎版；#83 兩把尺；#56
 - **相關**：#92、#83、#42 v4（sub-agent 把既有問題框選 out-of-scope，這裡是引擎把解析不出的框選給 prompt）
-- **verification_count**: 1
+- **verification_count**: 3
 - **severity**: structural
 
 ### 2026-09-22 twmd-babel-nightly — fresh-status-hides-truncation：全檔剩一半以下位元組的譯文，三個 hash 對得上就永遠 fresh，沒有任何路徑會再碰它
