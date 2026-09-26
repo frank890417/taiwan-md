@@ -1,6 +1,6 @@
 ---
 title: 'The Zhongli Incident: How a Tampered Ballot Ignited the Path to Local Democracy'
-description: 'On November 19, 1977, Hsiao Bi-khim (note: source says Hsu Hsin-liang, correcting to Hsu Hsin-liang per canonical guide for 1977 context) contested the Taoyuan County Magistrate election against the KMT nominee. Starting from a disputed ballot at Zhongli Elementary School, crowds surrounded the police substation. This night spiraled out of control, later changing how ballots are witnessed and leaving behind archives and deaths still awaiting rectification. The article traces the origins of authoritarian order’s loss of persuasiveness through campaign songs, local factions, and the spatial dynamics of polling stations.'
+description: 'On November 19, 1977, Hsu Hsin-liang contested the Taoyuan County Magistrate election against the KMT nominee. Starting from a disputed ballot at Zhongli Elementary School, crowds surrounded the police substation. This night spiraled out of control, later changing how ballots are witnessed and leaving behind archives and deaths still awaiting rectification. The article traces the origins of authoritarian order’s loss of persuasiveness through campaign songs, local factions, and the spatial dynamics of polling stations.'
 date: 2026-08-19
 category: 'History'
 tags:

@@ -201,7 +201,7 @@ But beneath the grand narrative of "easy to debut, hard to sustain," some indivi
 
 HUR+'s producer Felipe.Z used a "nothing like a Korean group" strategy to keep the team alive for six years: three albums, crowdfunded performance trips to South Korea, members spanning Mongolian, British, Indonesian, and Vietnamese heritage — each new member's addition targeting a specific market.[^4]
 
-Cheng Li-wun (連穎), HUR+'s lead dancer, branched out solo, releasing her personal EP _EZ_ in 2025 in hip-hop and R&B style. Her fans crowdfunded a birthday tribute stage at Dadaocheng (大稻埕), with simultaneous support advertising across Taiwan, Japan, and Thailand.[^13] K-pop-style fan culture is being localized by Taiwanese idol fan communities.
+Lien Ying (連穎), HUR+'s lead dancer, branched out solo, releasing her personal EP _EZ_ in 2025 in hip-hop and R&B style. Her fans crowdfunded a birthday tribute stage at Dadaocheng (大稻埕), with simultaneous support advertising across Taiwan, Japan, and Thailand.[^13] K-pop-style fan culture is being localized by Taiwanese idol fan communities.
 
 GenBlue (Fantasy Blue Bear), after winning Next Girlz, actually went to South Korea and debuted in 2024. Ozone became the first new-generation male group to headline a solo show at Little Taipei Arena. F.F.O's debut album received market validation.[^10]
 
@@ -222,7 +222,7 @@ The answer hasn't arrived yet. But those still on the stage — the group where 
 ## Further Reading
 
 - HUR+ — DD52's runner-up, the only group still releasing albums six years later. "Being different from Korean groups is exactly our chance not to lose to them."
-- Cheng Li-wun (連穎) — HUR+'s lead dancer, a case study of a female idol going solo from a group
+- Lien Ying (連穎) — HUR+'s lead dancer, a case study of a female idol going solo from a group
 - Rainie Yang (楊丞琳) — DD52's lead mentor, her own twenty-five-year story of walking out of the idol system and into artistic autonomy
 - Jolin Tsai (蔡依林) — Taiwan's "dancing queen," whom Cheng Li-wun has publicly called "my goddess"
 - Taiwan Pop Music — how Taiwan secured its central place in the Mandopop universe
