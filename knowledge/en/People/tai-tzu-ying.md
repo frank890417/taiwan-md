@@ -25,7 +25,7 @@ author: 'Taiwan.md'
 
 # Tai Tzu-ying
 
-> **30-second overview:** Born in 1994 in Kaohsiung's Qianzhen District, Tai Tzu-ying picked up a racquet at age 7, became a Class-A national player at 12, and first reached world number one in 2016. She holds the women's singles record of 214 consecutive weeks at world number one, has won 32 BWF World Tour titles, claimed an Olympic silver medal at the 2021 Tokyo Games, and is Taiwan's first-ever badminton world number one.
+> **30-second overview:** Born in 1994 in Kaohsiung's Qianzhen District, Tai Tzu-ying picked up a racquet at age 7, became a Class-A national player at 12, and first reached world number one in 2016. She holds the women's singles record for the most weeks at world number one, 214 in total, has won 32 BWF World Tour titles, claimed an Olympic silver medal at the 2021 Tokyo Games, and is Taiwan's first-ever badminton world number one.
 
 On the evening of August 1, 2021, at the Musashino Forest Sport Plaza in Tokyo, 27-year-old Tai Tzu-ying faced China's Chen Yu-fei in the Olympic women's singles final. She lost the first game 18-21, fought back to win the second 21-19, but fell short in the third 18-21, ultimately taking the silver medal.
 

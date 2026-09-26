@@ -1,6 +1,6 @@
 ---
 title: 'Tai Tzu-ying'
-description: 'Pemegang rekor 214 minggu sebagai ball queen dunia, dari Kaohsiung Qianjin ke perak Olimpiade, ratu bulu tangkis Taiwan'
+description: 'Pemegang rekor 214 minggu sebagai ball queen dunia, dari Kaohsiung Qianzhen ke perak Olimpiade, ratu bulu tangkis Taiwan'
 date: 2026-03-21
 author: 'Taiwan.md'
 category: 'People'
@@ -27,15 +27,15 @@ translatedAt: '2026-07-25T09:23:05+08:00'
 
 # Tai Tzu-ying
 
-> **Ringkasan 30 detik:** Lahir 1994 di Kaohsiung Qianjin, Tai Tzu-ying mulai memegang raket usia 7 tahun, menjadi atlet bulu tangkis kelas atas usia 12 tahun, dan pertama kali menduduki peringkat dunia nomor 1 pada 2016. Ia menciptakan rekor paling lama menduduki peringkat dunia nomor 1 putri selama 214 minggu, meraih 32 gelar BWF World Tour, dan memperoleh perak di Olimpiade Tokyo 2021, menjadi ball queen bulu tangkis pertama Taiwan.
+> **Ringkasan 30 detik:** Lahir 1994 di Kaohsiung Qianzhen, Tai Tzu-ying mulai memegang raket usia 7 tahun, menjadi atlet bulu tangkis kelas atas usia 12 tahun, dan pertama kali menduduki peringkat dunia nomor 1 pada 2016. Ia menciptakan rekor paling lama menduduki peringkat dunia nomor 1 putri selama 214 minggu, meraih 32 gelar BWF World Tour, dan memperoleh perak di Olimpiade Tokyo 2021, menjadi ball queen bulu tangkis pertama Taiwan.
 
 Malam 1 Agustus 2021, di Musashino Forest Sport Plaza Tokyo, Tai Tzu-ying berusia 27 tahun berhadapan dengan pemain Tiongkok Chen Yu-fei di final bulu tangkis putri Olimpiade. Ia kehilangan game pertama 18-21, memulihkan keunggulan 21-19 di game kedua, namun kalah 18-21 di game ketiga, akhirnya meraih medali perak.
 
-Medali perak ini adalah penghargaan tertinggi dalam sejarah bulu tangkis Taiwan, namun bagi Tai Tzu-ying, ini hanyalah satu babak dalam karir legendarisnya. Dari gadis kecil di Distrik Qianjin, Kaohsiung, hingga ratu bulu tangkis dunia, ia dengan rekor 214 minggu sebagai nomor 1 dunia, mendefinisikan ulang posisi Taiwan di panggung olahraga internasional.
+Medali perak ini adalah penghargaan tertinggi dalam sejarah bulu tangkis Taiwan, namun bagi Tai Tzu-ying, ini hanyalah satu babak dalam karir legendarisnya. Dari gadis kecil di Distrik Qianzhen, Kaohsiung, hingga ratu bulu tangkis dunia, ia dengan rekor 214 minggu sebagai nomor 1 dunia, mendefinisikan ulang posisi Taiwan di panggung olahraga internasional.
 
-## Awal Mula Bulu Tangkis di Kaohsiung Qianjin
+## Awal Mula Bulu Tangkis di Kaohsiung Qianzhen
 
-Tai Tzu-ying lahir 20 Juni 1994 di Distrik Qianjin, Kota Kaohsiung. Ayahnya Tai Nan-kai adalah pemadam kebakaran sekaligus Sekretaris Jenderal Persatuan Bulu Tangkis Kota Kaohsiung, ibunya adalah ibu rumah tangga. Dalam keluarga yang kental nuansa olahraga ini, Tai Tzu-ying sejak kecil sudah menunjukkan bakat atletik.
+Tai Tzu-ying lahir 20 Juni 1994 di Distrik Qianzhen, Kota Kaohsiung. Ayahnya Tai Nan-kai adalah pemadam kebakaran sekaligus Sekretaris Jenderal Persatuan Bulu Tangkis Kota Kaohsiung, ibunya adalah ibu rumah tangga. Dalam keluarga yang kental nuansa olahraga ini, Tai Tzu-ying sejak kecil sudah menunjukkan bakat atletik.
 
 Usia 7 tahun, Tai Tzu-ying mulai berlatih bulu tangkis. Awalnya hobi isi waktu luang, tapi kemajuannya mengejutkan, cepat unggul di antara sebaya. Latar belakang bulu tangkis ayah memberikan bimbingan profesional, sementara cinta Tai Tzu-ying sendiri pada olahraga ini membuatnya rela mengorbankan banyak waktu latihan.
 
@@ -125,7 +125,7 @@ Tapi sikap profesional yang ditampilkan Tai Tzu-ying meyakinkan ia masih bisa be
 
 Soal masa depan, Tai Tzu-ying berharap kontribusi lebih di promosi bulu tangkis dan pembibitan bakat. Ia rencana pensiun jadi pelatih, mewariskan pengalaman ke generasi muda. Ia juga ingin bantu membangun sistem pembibitan bakat bulu tangkis lebih sempurna, agar bulu tangkis Taiwan berkelanjutan.
 
-Kisah Tai Tzu-ying adalah babak legendaris sejarah olahraga modern. Dari gadis kecil Distrik Qianjin, Kaohsiung, ke ratu bulu tangkis dunia, ia dengan ketekunan dan usaha membuktikan kekuatan pemain Taiwan. 214 minggu ball queen, 32 gelar juara, perak Olimpiade, angka-angka di baliknya adalah keringat latihan tak terhitung dan kejar sempurna.
+Kisah Tai Tzu-ying adalah babak legendaris sejarah olahraga modern. Dari gadis kecil Distrik Qianzhen, Kaohsiung, ke ratu bulu tangkis dunia, ia dengan ketekunan dan usaha membuktikan kekuatan pemain Taiwan. 214 minggu ball queen, 32 gelar juara, perak Olimpiade, angka-angka di baliknya adalah keringat latihan tak terhitung dan kejar sempurna.
 
 Lebih penting, semangat Tai Tzu-ying — tak pernah menyerah, terus maju, rendah hati profesional — akan terus menginspirasi setiap pengejar mimpi. Ia memberitahu kita, selama keyakinan teguh dan usaha tak henti, meski dari tempat kecil, juga bisa di panggung dunia menciptakan legendaris milik sendiri.
 
@@ -133,8 +133,8 @@ Lebih penting, semangat Tai Tzu-ying — tak pernah menyerah, terus maju, rendah
 
 - [Kuo Hsing-chun](/people/郭婞淳) — Emas angkat besi Olimpiade Tokyo, sama-sama inti continggen Taiwan atlet Amis
 - [Lee Yang](/people/李洋) — Sama-sama atlet asrama Pusat Latihan Nasional, emas ganda Tokyo/Paris jadi Menteri Olahraga pertama
-- [Wang Chi-lin dan Lee Yang (Pasangan Lin-Yang)](/people/麟洋配) — Pasangan ganda putri pertama non-bibit juara Olimpiade dua kali berturut-turut
-- [Chou Tzu-yu](/id/people/tzuyu) — Gadisan Tainan usia 13 tahun pergi jauh mengejar mimpi, ikonik generasi yang sama
+- [Wang Chi-lin dan Lee Yang (Pasangan Lin-Yang)](/people/麟洋配) — Pasangan ganda putra pertama non-unggulan yang juara Olimpiade dua kali berturut-turut
+- [Chou Tzu-yu](/id/people/tzuyu) — Gadis Tainan usia 13 tahun pergi jauh mengejar mimpi, ikonik generasi yang sama
 
 ## Referensi
 
