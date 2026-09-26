@@ -88,7 +88,7 @@ This was what made early Lo Ta-yu so compelling: he was not someone standing in 
 
 Lo did not win every encounter with the system.
 
-In 1985, a song called “Tomorrow Will Be Better” was born. It was a grand charity song, inspired by the American “We Are the World,” that brought together more than sixty singers. Lo wrote the melody, but the lyrics were co-written by seven people: Lo Ta-yu, Chang Ta-chun, Hsu Nai-sheng, Jonathan Lee Shou-chuan, Chiu Fu-sheng, Sylvia Chang, and Chan Hung-chih; the arrangement was by Chen Chih-yuan.[^10] In other words, this national hit that many assume was “written and composed by Lo Ta-yu” was actually only half his work: he was responsible for the melody.
+In 1985, a song called “Tomorrow Will Be Better” was born. It was a grand charity song, inspired by the American “We Are the World,” that brought together more than sixty singers. Lo wrote the melody, but the lyrics were co-written by seven people: Lo Ta-yu, Chang Ta-chun, Hsu Nai-sheng, Lee Shou-chuan, Chiu Fu-sheng, Sylvia Chang, and Chan Hung-chih; the arrangement was by Chen Chih-yuan.[^10] In other words, this national hit that many assume was “written and composed by Lo Ta-yu” was actually only half his work: he was responsible for the melody.
 
 What pained him more was what later happened to the song. More than one hundred characters of the original lyrics of “Tomorrow Will Be Better” were altered, and it was taken by the then-ruling Kuomintang as an election campaign song.[^10] A charity song written for society became a tool of political mobilization. According to many reports, it is one of the works Lo has been most unwilling to discuss again; he watched a creation he had participated in be appropriated and rewritten, yet was powerless to stop it.
 
@@ -210,7 +210,7 @@ This article uses three CC-licensed images, all cached in `public/article-images
 
 [^9]: [The Epoch Times: Subtitle of “Orphan of Asia” and song censorship](https://www.epochtimes.com/b5/) — Records the strategy of adding the subtitle “Red Nightmare: To the Refugees of the Indochinese Peninsula” so that “Orphan of Asia” could pass censorship, and the song’s relationship to Taiwan’s identity condition.
 
-[^10]: [Wikipedia: 明天會更好](https://zh.wikipedia.org/zh-hant/明天會更好) — Records that the melody of “Tomorrow Will Be Better” was by Lo Ta-yu; the lyrics were co-written by Lo Ta-yu, Chang Ta-chun, Hsu Nai-sheng, Jonathan Lee Shou-chuan, Chiu Fu-sheng, Sylvia Chang, and Chan Hung-chih; the arrangement was by Chen Chih-yuan; and notes the controversy over more than one hundred characters of the original lyrics being altered and the song’s appropriation by the Kuomintang as a campaign song.
+[^10]: [Wikipedia: 明天會更好](https://zh.wikipedia.org/zh-hant/明天會更好) — Records that the melody of “Tomorrow Will Be Better” was by Lo Ta-yu; the lyrics were co-written by Lo Ta-yu, Chang Ta-chun, Hsu Nai-sheng, Lee Shou-chuan, Chiu Fu-sheng, Sylvia Chang, and Chan Hung-chih; the arrangement was by Chen Chih-yuan; and notes the controversy over more than one hundred characters of the original lyrics being altered and the song’s appropriation by the Kuomintang as a campaign song.
 
 [^11]: [Fount Media: Lo Ta-yu’s trajectory of drifting](https://www.fountmedia.io/topic_article/75050) — Records the chronology of Lo’s departure for New York on March 9, 1985, and his settlement in Hong Kong in 1987, as well as the formation of his “Who am I?” theme of drifting.
 
@@ -234,7 +234,7 @@ This article uses three CC-licensed images, all cached in `public/article-images
 
 [^21]: [KKBOX: 閃亮的日子](https://www.kkbox.com/tw/tc/) — Records “The Shining Days” as written and composed by Lo Ta-yu, originally sung by Liu Wen-cheng, used as a 1977 film theme song, and released on an album in 1978.
 
-[^22]: [Mojim: 野百合也有春天](https://mojim.com/) — Records “Wild Lily Also Has Spring” as written and composed by Lo Ta-yu, sung by Michelle Pan, and released in 1983; also clarifies that “天天天藍” had lyrics by Hsieh Tsai-chun and music by Jonathan Lee Shou-chuan, and was not a Lo Ta-yu work.
+[^22]: [Mojim: 野百合也有春天](https://mojim.com/) — Records “Wild Lily Also Has Spring” as written and composed by Lo Ta-yu, sung by Michelle Pan, and released in 1983; also clarifies that “天天天藍” had lyrics by Hsieh Tsai-chun and music by Lee Shou-chuan, and was not a Lo Ta-yu work.
 
 [^23]: [Wikipedia: 似是故人來](https://zh.wikipedia.org/zh-hant/似是故人來) — Records the detailed division of creative labor for “Like an Old Friend Returning,” composed by Lo Ta-yu, with lyrics by Lin Xi, sung by Anita Mui, and released in 1991.
 
