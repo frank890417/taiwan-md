@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T09:22:02+08:00",
-    "zhCommitHead": "9864ae126",
+    "lastUpdated": "2026-09-26T10:11:16+08:00",
+    "zhCommitHead": "9b5023d7f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,32 +20,32 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1105,
+        "fresh": 1106,
         "stale": 9,
         "metadata_stale": 0,
-        "missing": 10,
+        "missing": 9,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1044,
-        "stale": 37,
+        "fresh": 1045,
+        "stale": 36,
         "metadata_stale": 0,
         "missing": 43,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1108,
-        "stale": 11,
+        "fresh": 1109,
+        "stale": 10,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1096,
-        "stale": 19,
+        "fresh": 1097,
+        "stale": 18,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -14270,20 +14270,18 @@
         "es": {
           "path": "es/Economy/taiwan-fintech-development.md",
           "translatedFrom": "Economy/台灣金融科技發展.md",
-          "sourceCommitSha": "879ed9e77",
-          "sourceContentHash": "sha256:54da57abafa311d1",
-          "sourceBodyHash": "sha256:eb1efaa0a4f468ff",
-          "translatedAt": "2026-07-25T12:45:16+08:00",
+          "sourceCommitSha": "4dd14cf66",
+          "sourceContentHash": "sha256:4a1f10aaddce056e",
+          "sourceBodyHash": "sha256:7f55fdd7f7687d07",
+          "translatedAt": "2026-09-25T16:58:22+08:00",
           "translationLastCommit": "37f62fcd",
           "translationLastModified": "2026-07-25T19:43:49+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 20590,
+          "bytes": 21030,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-fintech-development.md",
@@ -19558,18 +19556,18 @@
         "ko": {
           "path": "ko/Economy/taiwan-enterprise-uni-president.md",
           "translatedFrom": "Economy/台灣企業：統一企業.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:3fb7c059831bdebb",
-          "sourceBodyHash": "sha256:481f2cb6cfdcbd21",
-          "translatedAt": "2026-04-14T08:57:05+08:00",
+          "sourceCommitSha": "05ed20149",
+          "sourceContentHash": "sha256:012f47b06c66bfb9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T01:43:53.073948+00:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 9447,
+          "footnoteDefs": 64,
+          "bytes": 66674,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (64→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-enterprise-uni-president.md",
@@ -62529,8 +62527,8 @@
           "sourceContentHash": "sha256:a77cf5a6d3100ed9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-25T23:43:33.056207+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c8407dcd",
+          "translationLastModified": "2026-09-26T09:22:02+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "bytes": 127019,
@@ -127444,20 +127442,18 @@
         "ja": {
           "path": "ja/People/lin-chi-wei-social-innovator.md",
           "translatedFrom": "People/林啟維.md",
-          "sourceCommitSha": "cfaa22a5d",
-          "sourceContentHash": "sha256:82817fc4c48a612b",
-          "sourceBodyHash": "sha256:5e2c0e25dde8c071",
-          "translatedAt": "2026-07-07T00:38:21+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:50a3b31b4cb61eed",
+          "sourceBodyHash": "sha256:e893f57da90167f4",
+          "translatedAt": "2026-09-26T01:37:48.973895+00:00",
           "translationLastCommit": "c297b51f",
           "translationLastModified": "2026-09-22T08:43:11+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 21430,
+          "bytes": 22207,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/lin-chi-wei-social-innovator.md",
@@ -151654,7 +151650,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/hsinchu-rice-noodles.md",
+          "translatedFrom": "Food/新竹米粉.md",
+          "sourceCommitSha": "1200bee75",
+          "sourceContentHash": "sha256:64f19c58057c504d",
+          "sourceBodyHash": "sha256:0c3fe6ee6329ecfa",
+          "translatedAt": "2026-09-25T16:58:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 17086,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -199864,8 +199873,8 @@
           "sourceContentHash": "sha256:92677747f5c5aca7",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T00:52:39.482739+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c8407dcd",
+          "translationLastModified": "2026-09-26T09:22:02+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 123279,
