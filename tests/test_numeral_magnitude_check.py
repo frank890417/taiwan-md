@@ -61,3 +61,18 @@ def test_ratio_below_one_reports_the_real_factor(tmp_path):
     hits = run(tmp_path, "同時在線 150萬 人。", "Pengguna serentak 150 ribu orang.", "id")
     assert len(hits) == 1
     assert "差 10 倍" in hits[0]
+
+
+def test_chinese_numeral_twin_explains_the_coincidence(tmp_path):
+    # 「五億元」譯成 500 million 是對的；另一處「500萬劑」被它撞到數字串
+    zh = "疫苗首批 500萬 劑抵台。童子賢捐五億元。"
+    out = "The first 5 million doses arrived. Tung Tzu-hsien donated NT$500 million."
+    assert run(tmp_path, zh, out, "en") == []
+
+
+def test_chinese_numeral_parser():
+    assert MODULE._cn_int("五") == 5
+    assert MODULE._cn_int("五百") == 500
+    assert MODULE._cn_int("兩千") == 2000
+    assert MODULE._cn_int("十") == 10
+    assert MODULE._cn_int("一百二十") == 120

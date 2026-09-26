@@ -85,6 +85,25 @@ def zh_figures(zh_text: str) -> list[tuple[str, float, str]]:
     return out
 
 
+# 國字寫的量級數字（「捐五億元」「兩千萬」）也要算進孿生數字（2026-09-26）：〈台灣新冠疫情
+# 與疫苗〉的「五億元」譯成 500 million 是對的，但只認阿拉伯數字的版本看不到它，於是另一處
+# 「500萬劑」被報成換算錯，en、fr 兩隻 agent 都得手動查證一次。
+ZH_CN_NUM = re.compile(r"([零一二兩三四五六七八九十百千]+)([萬万億亿兆])")
+_CN_DIGIT = {"零": 0, "一": 1, "二": 2, "兩": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9}
+_CN_UNIT = {"十": 10, "百": 100, "千": 1000}
+
+
+def _cn_int(s: str) -> int:
+    total, cur = 0, 0
+    for ch in s:
+        if ch in _CN_DIGIT:
+            cur = _CN_DIGIT[ch]
+        else:
+            total += (cur or 1) * _CN_UNIT[ch]
+            cur = 0
+    return total + cur
+
+
 def zh_values(zh_text: str) -> list[float]:
     """中文原文裡每一個量級數字的實際數值，不套辨識度門檻——用來認出巧合。"""
     vals = []
@@ -93,6 +112,8 @@ def zh_values(zh_text: str) -> list[float]:
             vals.append(float(m.group(1).rstrip(".,").replace(",", "")) * (10 ** ZH_MAG[m.group(2)]))
         except ValueError:
             continue
+    for m in ZH_CN_NUM.finditer(zh_text):
+        vals.append(float(_cn_int(m.group(1))) * (10 ** ZH_MAG[m.group(2)]))
     return vals
 
 
