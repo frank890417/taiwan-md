@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T12:06:54+08:00",
-    "zhCommitHead": "d50a91433",
+    "lastUpdated": "2026-09-26T12:09:45+08:00",
+    "zhCommitHead": "6504bf233",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1117,
+        "fresh": 1118,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "es": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1080,
+        "fresh": 1081,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 31,
+        "missing": 30,
         "orphan": 0
       },
       "pt": {
@@ -46644,8 +46644,8 @@
           "sourceContentHash": "sha256:71a07c5ea0f34a1e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:10:17.440078+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6504bf23",
+          "translationLastModified": "2026-09-26T12:06:55+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 64620,
@@ -51714,8 +51714,8 @@
           "sourceContentHash": "sha256:e67ede9cedeaf7ed",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T02:30:27.939630+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6504bf23",
+          "translationLastModified": "2026-09-26T12:06:55+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "bytes": 91112,
@@ -55287,8 +55287,8 @@
           "sourceContentHash": "sha256:caaea3b8ab3896dc",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:01:57.849641+00:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "6504bf23",
+          "translationLastModified": "2026-09-26T12:06:55+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "bytes": 65352,
@@ -61828,8 +61828,8 @@
           "sourceContentHash": "sha256:7abbe410b7f9a4d8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T04:02:56.943623+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6504bf23",
+          "translationLastModified": "2026-09-26T12:06:55+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 43253,
@@ -61854,7 +61854,20 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/who-counts-as-low-wage.md",
+          "translatedFrom": "Society/誰算低薪.md",
+          "sourceCommitSha": "b10ec653b",
+          "sourceContentHash": "sha256:7abbe410b7f9a4d8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T04:05:00.293080+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 42348,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -74378,8 +74391,8 @@
           "sourceContentHash": "sha256:718e4da0518930ba",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T02:53:26.948364+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6504bf23",
+          "translationLastModified": "2026-09-26T12:06:55+08:00",
           "inferred": false,
           "footnoteDefs": 57,
           "bytes": 74947,
@@ -109887,7 +109900,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chen-chien-nien.md",
+          "translatedFrom": "People/陳建年.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:ea13c4b2a458e44f",
+          "sourceBodyHash": "sha256:64a1b7182260c207",
+          "translatedAt": "2026-09-26T10:22:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "bytes": 41227,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chen-chien-nien.md",
