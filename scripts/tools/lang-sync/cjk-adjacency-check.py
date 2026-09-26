@@ -37,6 +37,8 @@ import re
 import sys
 from pathlib import Path
 
+REPO = Path(__file__).resolve().parents[3]
+
 # 2026-09-26：原本寫成 À-ỹ（U+00C0–U+1EF9）一整段，中間夾著希臘、西里爾、阿拉伯、天城文
 # 等區塊，於是 hi 的句號「।」（U+0964）被當成拉丁字母，照片署名的漢字後面接句號就判黏著。
 # 改成只收真正的拉丁字母：Latin-1 補充到擴充 B，加上越南文用的擴充附加區。
@@ -204,10 +206,24 @@ def _in_scope(path: Path) -> bool:
         return True
 
 
+def _source_of(text: str) -> Path | None:
+    """譯文 frontmatter 的 translatedFrom 指向的 zh 原稿；找不到回 None。"""
+    m = re.search(r"^translatedFrom:\s*['\"]?([^'\"\n]+)", text, re.M)
+    if not m:
+        return None
+    src = REPO / "knowledge" / m.group(1).strip()
+    return src if src.exists() else None
+
+
 def scan(path: Path, zh_path: Path | None = None) -> list[str]:
     if not _in_scope(path):
         return []
     text = path.read_text(encoding="utf-8")
+    # 沒給 --zh 時自己從 translatedFrom 找原稿（2026-09-26）：派工單的閘門指令只給
+    # 譯文路徑，「原稿本來就這樣寫」的豁免從來沒在 agent 手上生效過——ru〈雷亞遊戲〉
+    # 為了過閘把作曲家的名字 VK克 改寫成 VK-Кэ，而 VK克 在原稿裡出現 11 次。
+    if zh_path is None:
+        zh_path = _source_of(text)
     # frontmatter 不掃：translatedFrom 指向中文原稿路徑是規範要求的，
     # imageCredit 的攝影者本名也不該被改寫。
     body = text.split("---", 2)[-1] if text.startswith("---") else text

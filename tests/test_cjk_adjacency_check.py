@@ -44,3 +44,11 @@ def test_vietnamese_glued_to_hanzi_is_still_flagged(tmp_path):
 def test_decomposed_vietnamese_tone_mark_glued_to_hanzi_is_still_flagged(tmp_path):
     # 分解形（NFD）：字尾是組合附加符號 U+0309，緊接漢字
     assert _scan_text(tmp_path, "Người ta trả拆 nó đi.")
+
+
+def test_mixed_name_written_that_way_in_zh_source_is_exempt_without_zh_flag(tmp_path):
+    # 〈雷亞遊戲〉的作曲家名字就叫 VK克；沒給 --zh 也要從 translatedFrom 找到原稿豁免
+    path = tmp_path / "ru--rayark.md"
+    path.write_text("---\ntitle: 'x'\ntranslatedFrom: 'Technology/雷亞遊戲.md'\n---\n\n"
+                    "Музыку написал VK克 для игры.\n", encoding="utf-8")
+    assert MODULE.scan(path) == []
