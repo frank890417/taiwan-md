@@ -3,9 +3,9 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.57'
-last_updated: 2026-09-18
-last_session: '2026-09-18-semiont-heartbeat（target-language-check 補逐行外來文字尺：尾段韓文漂移）'
+current_version: 'v1.58'
+last_updated: 2026-09-26
+last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、五個閘門家族、委派 worktree 路徑陷阱）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
@@ -271,6 +271,24 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.58（2026-09-26 哲宇「翻譯率 100% 模式」渦流）：**推送、付費產線、五個閘門家族、委派 worktree 的
+  路徑陷阱**。(a) 固定間隔的 `/loop` 用 CronCreate 常駐排程（`23 * * * *`），prompt 固定成薄殼，
+  「本輪動態」改住 session 脈絡與 memory handoff；鐵律 1 的「每回合結束前 ScheduleWakeup」由常駐
+  排程取代，喚醒鏈不再是單點。(b) 推送從 routine 拆出來：`babel-push-every.py` launchd 常駐，未推
+  譯文滿 50 篇就在共用鎖底下合併 origin 再推（登入過期讓 routine 停擺的那 25 小時，71 個 commit
+  沒上站、main 分岔）。(c) 付費 Haiku 4.5 走 OpenRouter 儲值帳戶掛進 Tier 6 受限槽，設定住 repo 外
+  `~/.config/taiwan-md/babel-extra-workers`（wrapper 讀取），刪檔即回純免費產線；Pro 方案下大量
+  委派會吃掉 routine 共用的週額度，所以大宗缺稿走付費產線、Claude 子代理接 stale 與難篇。(d) 付費
+  產線頭十次 2 過，追出整篇引擎三個跨模型家族：散文註句中夾 autolink（52 條／17 篇）、譯文沒跳脫的
+  引號打斷 JSON（09-20 起 68 次）、腳註標題的方括號（131／154 次 Phase N 驗證失敗）；修後同一產線
+  10／13。付費的失敗會有人去看原始回應，於是照亮了免費產線默默吞掉的缺陷。(e) 兩把尺的語言邊界：
+  漏譯閘門把樂團名「草東沒有派對」的「沒有」當漏譯（站上三篇日文因此永遠過不了），漢字黏著檢查
+  對日文照掃（「SLP台北」是正常排版）；前者加逐名專有名詞例外，後者只管非漢字文字的語言。
+  (f) **委派 worktree 的路徑陷阱**：子代理的 Write 工具吃絕對路徑，若 spawn 時主 session 的工作
+  目錄是主樹，agent 會把譯文寫進主樹、gate 的 `--apply` 卻改到 worktree（或反過來），兩棵樹各有
+  半份。派工 prompt 一律給**絕對目標路徑**並寫明「所有指令與寫檔都在 worktree」；收件前用
+  `sourceCommitSha` 對照派工單佔位值，確認新譯文實際落在哪棵樹。
 
 - v1.57（2026-09-18 晚間心跳）：**整篇多數票看不到尾段換語言**。handoff 留了一條
   「ar 馬英九 30 秒概覽混了一個韓文『한쪽』」的單檔小修，照 REFLEXES #24「單例不代表
