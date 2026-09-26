@@ -108,6 +108,7 @@ real_login_dates(){
     }
     END { if (pend != "") print pday }' "$1" 2>/dev/null
 }
+NEW_LOGIN=0
 LOG_LOGIN=$(for f in "$HOME"/Library/Logs/Claude/main*.log; do real_login_dates "$f"; done | sort | tail -1)
 FILE_LOGIN=""; [ -r "$LOGIN_FILE" ] && FILE_LOGIN=$(cat "$LOGIN_FILE")
 LOGIN_DATE=$(printf '%s\n%s\n' "$FILE_LOGIN" "$LOG_LOGIN" | grep -E '^[0-9]{4}-[0-9]{2}-[0-9]{2}$' | sort | tail -1)
@@ -115,7 +116,7 @@ if [ -n "$LOG_LOGIN" ] && [ "$LOG_LOGIN" = "$LOGIN_DATE" ] && [ "$LOG_LOGIN" != 
   if [ "$DRY" = 1 ]; then
     say "[dry-run] log 裡有比登入日檔更新的登入（${FILE_LOGIN:-無} → $LOG_LOGIN），正式跑會回寫"
   else
-    echo "$LOG_LOGIN" > "$LOGIN_FILE"; say "偵測到新登入，登入日由 ${FILE_LOGIN:-無} 改為 $LOG_LOGIN"
+    echo "$LOG_LOGIN" > "$LOGIN_FILE"; say "偵測到新登入，登入日由 ${FILE_LOGIN:-無} 改為 $LOG_LOGIN"; NEW_LOGIN=1
   fi
 fi
 DAYS_SINCE=""; if [ -n "${LOGIN_DATE:-}" ]; then
@@ -149,6 +150,17 @@ fi
 [ -n "$SELF_NOTE" ] && [ -n "$BODY" ] && BODY=$(printf '%s\n\n%s' "$BODY" "$SELF_NOTE")
 
 say "level=$LEVEL hits=$HIT_N confirmed_after=$CONFIRMED_AFTER stale_after=$STALE_AFTER login_date=${LOGIN_DATE:-?} days_since=${DAYS_SINCE:-?}"
+# ── 四之二、剛偵測到新登入 → 把還開著的 auth-stale issue 關掉（2026-09-26 maintainer 補）──
+# 告警會開 issue，解除卻沒有東西去關：#1761 在 09-26 登入續好之後還開著，標題寫「剩約 2 天」。
+# 只在「這一輪剛寫下新登入日」那一刻關，不在每個綠燈小時都掃一次，避免把 session 其實還
+# 起不來、只是那一小時剛好沒有排程在跑的狀態誤讀成已恢復。
+if [ "$NEW_LOGIN" = 1 ] && [ "$LEVEL" = "ok" ] && command -v gh >/dev/null; then
+  NEXT_EXPIRY=$(date -j -v+"${EXPIRY_DAYS}"d -f '%Y-%m-%d' "$LOGIN_DATE" '+%Y-%m-%d' 2>/dev/null || echo "約 ${EXPIRY_DAYS} 天後")
+  for N in $(gh issue list -R "$REPO" --label auth-stale --state open --json number --jq '.[].number' 2>/dev/null); do
+    gh issue close "$N" -R "$REPO" --comment "看門狗在 log 裡看到 ${LOGIN_DATE} 重新登入，登入日已更新，這張先關。下次預估 ${NEXT_EXPIRY} 前後過期，第 ${WARN_AT_DAYS} 天會再開一張提醒。🧬" >/dev/null 2>&1 \
+      && say "登入已續，關閉 auth-stale issue #$N"
+  done
+fi
 [ "$LEVEL" = "ok" ] && exit 0
 
 # ── 五、告警（去重：同 level 12 小時內只開一次；有既有 open issue 就留 comment）──

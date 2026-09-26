@@ -76,6 +76,29 @@ jobs:
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
+      # 告警會開 issue，轉綠卻沒有東西去關（2026-09-26 maintainer 補）：#1779 的病根是 mouhouse
+      # 登入過期，09-26 10:02 已經重新登入，飛輪一恢復這張就該關；沒有這一步，它會一直開著寫
+      # 「35.2h 前」，讀的人分不出是還沒好還是好了沒人收。這把尺量的是 routine commit 真的落到
+      # main（效果，不是替身），所以由它轉綠來關，比任何人手判斷「應該好了」都可靠。
+      - name: Green — close any open routine-stall issue, with the green reading as evidence
+        if: steps.check.outputs.exit_code == '0'
+        run: |
+          OPEN=$(gh issue list --label "$ISSUE_LABEL" --state open --json number --jq '.[].number')
+          for N in $OPEN; do
+            BODY_FILE=$(mktemp)
+            {
+              echo "✅ routine-stall-check 轉回綠燈，routine 的產出重新落到 main，這張自動關閉。"
+              echo ""
+              echo '```'
+              cat human.txt
+              echo '```'
+              echo ""
+              echo "_Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}_"
+            } > "$BODY_FILE"
+            gh issue close "$N" --comment "$(cat "$BODY_FILE")"
+            echo "綠燈，關閉 routine-stall issue #$N" >> "$GITHUB_STEP_SUMMARY"
+          done
+
       - name: WARN / CRITICAL — open or update the routine-stall issue
         if: steps.check.outputs.exit_code == '1' || steps.check.outputs.exit_code == '2'
         run: |
