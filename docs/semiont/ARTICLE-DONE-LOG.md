@@ -59,6 +59,13 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 台灣 BIM 與營建科技 英文版 metadata SEO — 2026-09-20 完成（補登，2026-09-27 twmd-news-lens-weekly 發現 INBOX entry 未收）
+
+- **Article**: [knowledge/en/Technology/taiwan-bim-construction-tech.md](../../knowledge/en/Technology/taiwan-bim-construction-tech.md)
+- **Pipeline**: EVOLVE-PIPELINE 🟠 SEO 優化型（只改 title／description，正文不動），commit `753dde91d`（2026-09-20 02:10）
+- **改了什麼**：title 從 130 字縮到 119 字並放進搜尋者打的「Building Information Modeling」「construction industry」「case study」
+- **效果追蹤**：改完一週 SC 兩條目標 query 曝光 2,208 → 795、2,252 → 762，點擊仍 0，位置 3.0〜7.7 不變；description 仍有 324 字（Google 截 ~155），第二刀可能要落在 description。兩週後再看（reports/probe/2026-09-27.md 內部訊號）
+
 ### 金鐘獎 NEW — 2026-09-18 golden-bell session 完成（一座 1965 年為廣播鑄的鐘，六十一年記下誰對全島說話）
 
 - **Article**: [knowledge/Culture/金鐘獎.md](../../knowledge/Culture/金鐘獎.md)
