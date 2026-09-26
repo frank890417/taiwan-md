@@ -562,7 +562,17 @@ def main():
         # 是整組中文標籤原樣照抄，那個訊號只存在於帶漢字的標籤裡。
         cjk_tags = [t for t in tag_list if t and has_cjk(t)]
         overlap = [t for t in cjk_tags if t in zh_tag_list] if zh_tag_list else []
-        bad_tags = overlap if cjk_tags and len(overlap) / len(cjk_tags) >= 0.6 else []
+        # 2026-09-26：日文只在「整組漢字標籤原樣照抄」時才擋。60% 門檻對日文量錯了
+        # 東西——森林、瀑布、漁業、地質這類一般名詞跟地名人名一樣，日文本來就同字。
+        # 產線隔離樣本 13 篇裡 12 篇是模型把該譯的譯了（連体嬰児、核廃棄物、
+        # 台湾食文化），剩下的剛好也是日文同字，照樣被判未翻；ja 缺稿裡一整群小篇
+        # （新竹米粉、蘇澳冷泉、太平輪）因此各敗六、七次。模型只要動過任何一個
+        # 漢字標籤，就不是 2026-07-24 那種整組沒碰的照抄。韓文標籤該是諺文，漢字
+        # 同形本身就可疑，維持 60%。
+        if lang == "ja":
+            bad_tags = overlap if cjk_tags and len(overlap) == len(cjk_tags) else []
+        else:
+            bad_tags = overlap if cjk_tags and len(overlap) / len(cjk_tags) >= 0.6 else []
         label = "tags not identical to zh"
         detail_ok = f"{len(tag_list)} tags ({len(overlap)} proper-noun overlap with zh, OK)"
         # Baseline exemption (2026-07-30): tags that are predominantly proper nouns

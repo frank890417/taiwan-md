@@ -50,7 +50,7 @@ def test_extract_urls_still_catches_real_url_changes():
 
 
 
-def _tags_check(tmp_path, ja_tags):
+def _tags_check(tmp_path, ja_tags, zh="People/林啟維.md"):
     """zh 側用庫裡真的 People/林啟維.md（tags: 創業／Portaly／PLG／AI／SaaS／創作者經濟），
     verify-translation 會把 zh 參數解析到 knowledge/ 底下，暫存目錄放不了。"""
     import json
@@ -64,7 +64,7 @@ def _tags_check(tmp_path, ja_tags):
     )
     out = subprocess.run(
         [sys.executable, str(ROOT / "scripts/tools/lang-sync/verify-translation.py"),
-         "People/林啟維.md", str(ja), "--json"],
+         zh, str(ja), "--json"],
         capture_output=True, text=True, cwd=ROOT,
     ).stdout
     checks = json.loads(out)["checks"]
@@ -79,6 +79,17 @@ def test_ja_tags_latin_brand_names_do_not_count_as_untranslated(tmp_path):
 def test_ja_tags_verbatim_chinese_copy_still_fails(tmp_path):
     ja = "['創業', 'Portaly', 'PLG', 'AI', 'SaaS', '創作者經濟']"
     assert _tags_check(tmp_path, ja) == "FAIL"
+
+
+def test_ja_tags_shared_kanji_majority_passes_when_rest_translated(tmp_path):
+    # 產線隔離樣本原形：新竹米粉／米粉／新竹日文同字，另兩個譯成日文
+    ja = "['新竹米粉', '米粉', '新竹', '台湾食文化', '食品表示']"
+    assert _tags_check(tmp_path, ja, zh="Food/新竹米粉.md") == "PASS"
+
+
+def test_ja_tags_whole_array_untouched_still_fails(tmp_path):
+    ja = "['新竹米粉', '米粉', '新竹', '台灣飲食', '食品標示']"
+    assert _tags_check(tmp_path, ja, zh="Food/新竹米粉.md") == "FAIL"
 
 
 def test_extract_urls_ignores_italic_underscore_closer():
