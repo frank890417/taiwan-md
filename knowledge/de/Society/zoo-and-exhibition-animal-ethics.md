@@ -1,17 +1,17 @@
 ---
-title: 'Zoos und die Ethik von Ausstellungstieren'
-description: 'Von Elefanten in Eisengittern bis zur Quallenwand im Xpark – Taiwan definiert das Verhältnis zwischen Menschen und ausgestellten Tieren neu'
+title: 'Zoo und die Ethik der Ausstellung von Tieren'
+description: 'Von den Käfigen des Elefanten bis zur Medusenwand von Xpark – Taiwan definiert neu, wie Menschen mit gezeigten Tieren zusammenhängen'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Zoos',
-    'Ausstellungstiere',
+    'Zoo',
+    'Tierausstellung',
     'Tierschutz',
     'Xpark',
-    'Zoo Taipeh',
-    'Tierethik',
-    'Zoo Hsinchu',
+    'Taipeher Zoo',
+    'Tierrecht',
+    'Hsinchu Zoo',
   ]
 subcategory: '動物與倫理'
 author: 'Taiwan.md Contributors'
@@ -20,186 +20,187 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Society/動物園與展演動物倫理.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:942c806351e32e6f'
-sourceBodyHash: 'sha256:d25050b0162be631'
-translatedAt: '2026-09-11T20:42:42+08:00'
+sourceCommitSha: '8a8596298'
+sourceContentHash: 'sha256:0ca0048f5fb189e0'
+sourceBodyHash: 'sha256:2b440f6d5e5bb010'
+translatedAt: '2026-09-26T10:22:57+08:00'
 ---
 
-# Zoos und die Ethik von Ausstellungstieren
+# Zoo und die Ethik der Ausstellung von Tieren
 
-_Von Elefanten in Eisengittern bis zur Quallenwand im Xpark – Taiwan definiert das Verhältnis zwischen Menschen und ausgestellten Tieren neu_
+_Von den Käfigen des Elefanten bis zur Medusenwand von Xpark – Taiwan definiert neu, wie Menschen mit gezeigten Tieren zusammenhängen_
 
 ## 30-Sekunden-Überblick
 
-Taiwans Zoos durchlaufen die größte gedankliche Revolution seit hundert Jahren. Vom Eisengitter-Ausstellungsstil des Maruyama-Zoos in der japanischen Kolonialzeit über den bahnbrechenden „käfigfreien“ Umbau des Hsinchu-Zoos 2019 bis zur Eröffnung von Xpark 2020, die eine große Tierschutzdebatte auslöste – all dies zwingt uns, die Legitimität des „Tiere einsperren, damit Menschen sie anschauen“ grundlegend zu hinterfragen.
+Die taiwanesischen Zoos durchleben die größte gedankliche Revolution ihrer Geschichte. Von der Eisenkäfig-Anzeige des Tiergartens in Yuan-shan während der japanischen Kolonialzeit bis zur bahnbrechenden "käfiglosen" Umgestaltung des Hsinchu-Tiergartens im Jahr 2019 und der großen Debatte um Tierschutz, die der Eröffnung von Xpark im Jahr 2020 entstand, wird neu über die Sinnhaftigkeit von Tieren in Gefangenschaft nachgedacht.
 
-Dieser Wandel umfasst eine Aktualisierung der gesellschaftlichen Werte insgesamt. Vom Verschwinden der feuerring-springenden Tiger im Zirkus bis zu den Kontroversen um Tiercafés in sozialen Medien – die Taiwaner beginnen zu fragen: „Wer entscheidet über das Glück der Tiere?“
+Diese Transformation umfasst eine Aktualisierung der gesellschaftlichen Werte. Von den Feuerringspringenden Tieren im Zirkus verschwunden, bis hin zu den Debatten um Haustier-Cafés in sozialen Medien, beginnen die Menschen in Taiwan zu fragen: Wer bestimmt, wie glücklich Tiere sind?
 
-2017 trat Taiwans „Verordnung zur Verwaltung von Tierausstellungen“ in Kraft, 2026 laufen die Genehmigungen für Wal- und Delphinausstellungen aus – eine Reihe institutioneller Wendepunkte, die diese Debatte von der Moralphilosophie in konkrete Rechtsentscheidungen überführt haben.
+Taiwan hat 2016 die "Verwaltungsvorschriften für die Verwaltung von Tieren in der Ausstellung" erlassen, und 2026 läuft die Lizenz für Walfisch- und Delphinausstellungen ab – eine Reihe systemischer Wendepunkte, die diese Debatte von moralischer Philosophie in konkrete rechtliche Entscheidungen führen.
 
 ## Warum das wichtig ist
 
-Auf einer zunehmend urbanisierten Insel sind Zoos für die meisten Menschen der einzige Ort, um Wildtiere zu begegnen. Doch wenn Artenschutzbildung und Tierschutz in Konflikt geraten, wenn kommerzielle Interessen und ethische Prinzipien aneinanderziehen – wie finden wir die Balance zwischen „Menschen Tiere kennen lassen“ und „Tieren ein gutes Leben ermöglichen“?
+In einer zunehmend städtischen Insel ist der Zoo möglicherweise der einzige Ort, an dem die meisten Menschen Wildtiere beobachten können. Aber wenn Naturschutzbildung und Tierschutz kollidieren, wenn kommerzielle Interessen und ethische Prinzipien sich entgegenstellen, wie finden wir das Gleichgewicht zwischen "Menschen lernen Tiere kennen" und "Tiere ein gutes Leben führen"?
 
-Auf diese Frage gibt es keine Standardantwort, doch Taiwans Suchprozess spiegelt wider, wie eine Gesellschaft das Verhältnis zwischen Mensch und Tier neu definiert – und damit auch sich selbst.
+Dieses Problem hat keine Standardlösung, aber Taiwans Erkundungsprozess spiegelt wider, wie eine Gesellschaft ihre Beziehung zu Tieren neu definiert – und sich selbst neu definiert.
 
-Von der Gesetzgebung bis zu Kontroversen in sozialen Medien: Die Geschwindigkeit, mit der sich Taiwans Haltung zu Ausstellungstieren wandelt, ist in Asien vergleichsweise selten.
+Von der Regelungserlassung bis zu den Debatten in sozialen Medien verändert Taiwans Haltung gegenüber Tieren in der Ausstellung schneller als andere asiatische Länder.
 
-## Vom Eisengitter zum Wald: Der hundertjährige Wandel des Zoos Taipeh
+## Vom Käfig zum Wald: Die Entwicklung des Taipeher Tiergartens
 
-1914 errichtete die japanische Kolonialregierung den „Maruyama-Zoo“ in Yuanshan. Damals war die Ausstellungsphilosophie simpel: Seltene Tiere in Käfige sperren, damit Menschen staunen. Zementböden, Eisengitter, beengte Räume – Tiere waren Ausstellungsstücke, keine individuellen Lebewesen.
+1914 gründete die japanische Kolonialregierung in Yuan-shan den "Taipeher Tiergarten", dessen Präsentationsphilosophie einfach war: Schöne und exotische Tiere in Käfigen, damit die Menschen staunten. Betonierte Böden, Stangen, enge Räume – Tiere waren Ausstellungsgegenstände, keine Lebewesen.
 
-1986 zog der Zoo nach Muzha um, der Raum wurde größer, und das Denken begann sich zu wandeln. Umweltbereicherung, Verhaltens Training, Artenschutzzucht – der Städtische Zoo Taipeh begann zu versuchen, Tiere mehr wie Tiere leben zu lassen.
+1986 zog der Zoo nach Mußhsein um, der Raum wurde größer und die Denkweise begann zu sich wandeln. Angereicherte Umweltbedingungen, Verhaltungstrainings, Naturschutzzucht – der Taipeher Stadtzoo begann zu versuchen, dass Tiere mehr wie Tiere leben.
 
-Der **Yuan-Zai-Effekt** veränderte alles. 2013 wurde das Große-Panda-Baby Yuan Zai geboren, ganz Taiwan war im Ausnahmezustand, täglich strömten Zehntausende in den Zoo. Doch Yuan Zais Sternenstatus brachte auch Reflexion: Lieben wir die Tiere selbst – oder die Unterhaltung, die sie bringen?
+**Der Effekt der Rolli** veränderte alles. 2013 wurde das Panda-Baby "Rolli" geboren, und das ganze Taiwanese Land ging verrückt, Tausende kamen täglich zum Zoo. Doch die Sternenrolle von Rolli brachte auch Reflexion: Lieben wir die Tiere selbst oder das Unterhaltung, die sie bieten?
 
-Die Geschichte von Tuan Tuan und Yuan Yuan ist komplexer. Dieses Panda-Paar war ein diplomatisches Geschenk Chinas an Taiwan, geladen mit politischer Symbolik. Als Tuan Tuan 2022 starb, trauerten die Taiwaner um ein Tier – und um ein Stück Geschichte. Doch hinter der Rührung bleibt eine scharfe Frage: Ist es richtig, Tiere als diplomatische Spielsteine zu benutzen?
+Die Geschichte von Rolli ist komplexer. Dieses Pandas war ein Geschenk Chinas an Taiwan, getragen von politischen Symbolen. Als Rolli 2022 starb, trauertten die Menschen in Taiwan nicht nur um ein Tier, sondern auch um eine Geschichte. Aber hinter der Warmherzigkeit bleibt eine scharfe Frage: Ist es gerechtfertigt, Tiere als diplomatische Spielstäbe zu verwenden?
 
-## Die Revolution ohne Käfige: Der Umbau des Zoos Hsinchu
+## Die Revolution ohne Käfige: Die Umgestaltung des Hsinchu Tiergartens
 
-Im Dezember 2019 eröffnete der Zoo Hsinchu neu und proklamierte sich als „Zoo ohne Käfige“. Dieser Umbau war auch philosophisch tiefgreifend.[^1]
+Im Dezember 2019 eröffnete der Hsinchu Tiergarten erneut und verkündete sich selbst als "Zoo ohne Käfige". Diese Umgestaltung war philosophisch ebenso tiefgreifend.[^1]
 
-Zoodirektor Yang Chia-min sagte es direkt: „Tiere sind Bewohner, keine Ausstellungsstücke.“ Alle Entwürfe gingen von den Bedürfnissen der Tiere aus: Flusspferde haben Tieftauchbecken, Malaien-Tapire haben Schlamm zum Wälzen, Bengalische Tiger haben Wälder zum Verstecken.
+Der Direktor Yang Jia-min hielt fest, dass Tiere nicht als Unterhaltungsmittel dienen sollten. Alle Designs wurden von den Bedürfnissen der Tiere abgeleitet: Nilpferde haben tiefe Becken zum Tauchen, Nashörner haben Lehm zum Wälzen, Bengalische Tigers haben Wälder zum Verstecken.
 
-Noch radikaler: Der Zoo Hsinchu strebt nicht mehr nach Artenvielfalt. Er reduzierte die Artenzahl, fokussierte sich auf heimische, tierfreundliche Ausstellung und behielt nur Tiere, die in der bestehenden Umgebung wirklich gut leben können. „Wir sind keine Arche Noah“, sagte Yang Chia-min, „wir sind das Zuhause der Tiere.“
+Noch radikaler war: Der Hsinchu Tiergarten verfolgt nicht mehr die Vielfalt der Arten. Die Artenvielfalt wurde reduziert, und stattdessen konzentriert man sich auf einheimische Arten und freundliche Präsentationen – nur die, die im bestehenden Umfeld wirklich ein gutes Leben führen können.
 
-Dieser Wandel ist nicht perfekt. Kritiker sagen, der Raum sei immer noch zu klein, die Tiere immer noch gefangen. Doch die Bedeutung des Zoos Hsinchu liegt darin, dass er bewies: Taiwan hat die Fähigkeit, traditionelle Rahmen zu sprengen und das Verhältnis zwischen Mensch und Tier neu zu想象.
+Diese Transformation ist nicht perfekt. Kritiker sagen, der Raum sei immer noch zu klein und die Tiere seien immer noch gefangen. Aber die Bedeutung des Hsinchu Tiergartens liegt darin, dass er beweist, dass Taiwan fähig ist, aus dem traditionellen Rahmen herauszubrechen und die Beziehung zwischen Menschen und Tieren neu vorzustellen.
 
-## Der Xpark-Sturm: Die ethische Probe für städtische Aquarien
+## Der Sturm um Xpark: Die ethische Prüfung des städtischen Aquariums
 
-Im August 2020 eröffnete das japanische Städtische Aquarium Xpark in der Hua Tai Premium Mall in Taoyuan. Licht und Schatten waren prächtig, das Design avantgardistisch, die Eröffnung löste sofort Tierschutzdiskussionen aus. Doch hinter der Schönheit verbarg sich ein Tierschutz-Schwarzes Loch.
+Im August 2020 eröffnete das japanische städtische Aquarium Xpark im Taoyuan-Hualalicentrum. Mit beeindruckenden Lichtern und futuristischem Design löste es sofort Debatten über Tierschutz aus. Doch hinter der Schönheit verbarg sich eine Füllung von Tierschutzproblemen.
 
-Weniger als ein Jahr nach Eröffnung brachen Probleme hervor:
+Innerhalb eines Jahres nach der Eröffnung folgten Problem nach Problem:
 
-- **Roochen wiesen Verletzungen auf**, vermutlich durch Kollisionen in zu kleinen Becken
-- **Pinguine zeigten Verhaltensauffälligkeiten**, wiederholtes Schwimmen in beengtem Raum
-- **Starkes Licht** beeinträchtigte den Biorhythmus nachtaktiver Tiere
-- **Übermäßiger Lärm**, Meereslebewesen litten unter Stress durch Menschenmengen
+- **Verletzungen an Rochen** durch mögliche Kollisionen aufgrund zu kleiner Räume
+- **Abweichende Verhaltensmuster bei Pinguinen**, die in engen Räumen immer wieder schwammen
+- **Starke Lichtstrahlen** beeinträchtigten den biologischen Rhythmus nachtaktiver Tiere
+- **Zu laute Geräusche** unterwarfen Meerestiere dem Stress der Menschenmassen
 
-Eine Tiefenrecherche des Medienhauses Wowo Media löste die öffentliche Diskussion aus.[^2] Befürworter sagten, Xpark bringe Artenschutzbildung, Kritiker warfen vor, dies sei „Tierquälerei, verpackt als Unterhaltung“.
+Die tiefgehende Untersuchung von Wowlai Media entzündete die öffentliche Debatte.[^2] Befürworter sagten, Xpark trage zum Schutz und zur Bildung bei, während Kritiker fragten, ob dies "Tierrecht im Gewand der Unterhaltung" sei.
 
-Der Kern der Xpark-Kontroverse lautet: **Ist das Geschäftsmodell städtischer Aquarien überhaupt mit Tierschutz vereinbar?** Wenn Unterhaltungswert und Tierschutz kollidieren, wofür entscheiden wir uns?
+Das zentrale Problem von Xpacs Debatte ist: **Ist das geschäftliche Modell des städtischen Aquariums mit dem Tierschutz vereinbar?** Wenn Unterhaltungswert und Tierschutz kollidieren, wem sollten wir dann folgen?
 
-Diese Debatte dauert bis heute an, doch sie hat das Bewusstsein der taiwanischen Gesellschaft für Ausstellungstiere bereits verändert.
+Diese Debatte ist noch nicht abgeschlossen, aber sie hat bereits die taiwanesische Gesellschaft gegenüber Tieren in der Ausstellung verändert.
 
-## Das Verschwinden der Zirkusse: Der Niedergang der Tiervorführungen
+## Das Verschwinden des Zirkus: Der Sonnenuntergang der Tieraufführung
 
-Erinnern Sie sich an die feuerring-springenden Tiger, die Einrad fahrenden Affen, die Bälle balancierenden Seehunde? Das waren einst die klassischen Bilder taiwanischer Zirkusse – heute sind sie fast verschwunden.
+Erinnerst du dich an die Feuerringspringenden Tigers, die Motorrad-fahrenden Affen und die Ball-spielenden Robben? Diese waren einst klassische Szenen der taiwanesischen Zirkusse, und heute sind sie fast ausgestorben.
 
-In den 1990er Jahren tourten der Mulan-Zirkus und der Asia-Zirkus durch Taiwan, Tiervorführungen waren das Hauptprogramm. Doch mit wachsendem Tierrechtsbewusstsein gerieten diese Vorführungen zunehmend in die Kritik: Ist der Trainingsprozess grausam? Sind die Tiere wirklich „glücklich“ beim Vorführen?
+In den 1990er Jahren zogen sich die Zirkusse wie Milan Zirkus und Asia Zirkus durch ganz Taiwan, und Tieraufführungen waren das Highlight. Aber mit dem wachsenden Bewusstsein für Tierrechte wurden diese Aufführungen zunehmend kritisch betrachtet: War die Trainingsmethode grausam? Waren die Tiere wirklich "glücklich" beim Auftritten?
 
-Der entscheidende Wendepunkt war die Novellierung des „Tierschutzgesetzes“ 2017, die die Regulierung von Ausstellungstieren verschärfte. Zwar gab es kein totales Verbot, doch die komplexen Antragsverfahren und strengen Prüfstandards machten traditionellen Zirkussen das Weiterführen schwer.
+Ein entscheidender Wendepunkt war die Reform des Tierschutzgesetzes im Jahr 2018, die stärkere Vorschriften für Tieraufführungen brachte. Obwohl kein generelles Verbot erfolgte, wurden die komplexen Anträge und strengen Kontrollstandards traditionelle Zirkusse nicht mehr weitertragen.
 
-An ihre Stelle traten tierfreie Zirkusse. Cirque du Soleil, FOCA Formosa Circus Art ersetzten Tiervorführungen durch menschliche Körperkunst und Kreativität. Die Taiwaner entdeckten: Zirkus ohne Tiere ist genauso spektakulär.
+Im Gegenzug kamen zirkusfreie Zirkusse. Das Sonnentheater und FOCA-Forschungszirkus ersetzten Tieraufführungen durch menschliche Bewegungen und Kreativität. Die Menschen in Taiwan entdeckten, dass Zirkusse ohne Tiere ebenso fesselnd sein können.
 
-## Das Dilemma der Meeresparks
+## Die Krise des Meeressäugerzentrums
 
-Taiwans Meeresausstellungsstätten stehen an einem historischen Scheideweg.
+Taiwans Meeressäugerzentren stehen an einem historischen Kreuzpunkt.
 
-Derzeit gibt es in Taiwan nur noch zwei Betreiber von Wal- und Delphinausstellungen: den Farglory Ocean Park in Hualien (4 Große Tümmler + 1 Gemeiner Delfin) und das Yehliu Ocean World in New Taipei (10 Große Tümmler). Die Ausstellungsgenehmigungen beider laufen **2026 aus**. Der Countdown für das „Ende der Delfinshows“ hat begonnen.
+Derzeit gibt es in Taiwan nur noch zwei Betreiber von Delphinausstellungen: Das Hualien-Fantasy-Meerestierzentrum (4 Flaschennasen und 1 Geprägtes Delphin) und das Yehliu-Meerestierwelt in New Taipei (10 Flaschennasen). Beide Lizenzen laufen **im Jahr 2026 ab**. Die Abrechnung mit dem "Delphinshow" hat begonnen.
 
-Im Juli 2024 kündigte das Landwirtschaftsministerium die novellierte „Verordnung zur Verwaltung von Tierausstellungen“ an, die Wal- und Delphinausstellungen offiziell in die Verwaltung einbezog.[^3] Die Ozeanerhaltungsbehörde richtete zudem eine **„Arbeitsgruppe zur Transformation der Wal- und Delphinausstellungen“** ein, an der Wissenschaftler, zivilgesellschaftliche Organisationen und Lokalregierungen beteiligt sind. Die Kernrichtung ist klar: schrittweise Abschaffung unterhaltungsorientierter Vorführungen, Hinwendung zu Bildungsausstellungen.
+Im Juli 2024 veröffentlichte das Ministerium für Landwirtschaft die neue Version der "Verwaltungsvorschriften für die Verwaltung von Tieren in der Ausstellung" und brachte offiziell Delphinausstellungen unter die Kontrolle.[^3] Das Umweltsschutzamt gründete auch eine "**Arbeitsgruppe für die Umstellung der Delphinausstellung**", an der Wissenschaftler, zivile Gesellschaften und lokale Regierungen gemeinsam teilnahmen. Die Richtung war klar: Schrittweise Abschaffung der Unterhaltungsausstellung und Umstellung auf Bildungsmodi.
 
-Farglorys Antwort ist die Transformation zur **„Delfin-Schutzbasis“**: Keine Vorführungen mehr, aber auch keine Auswilderung (nach Jahren in Gefangenschaft können die Delfine nicht ins Meer zurück), sondern Bildungsausstellungen, damit die Öffentlichkeit Delfine kennenlernt. Der Park betont: „Die Delfine werden nicht verschwinden, die Menschen können sie weiterhin sehen.“
+Das Hualien Fantasy antwortete mit der Umwandlung in eine "**Delphin-Schutzstation**": Keine Aufführung mehr, aber auch keine Freilassung (die in Gefangenschaft geborenen Delphine können nicht mehr ins Meer zurückkehren), sondern Bildung und Präsentation, damit die Menschen die Delphine kennenlernen können. Der Zoo betonte: "Die Delphine verschwinden nicht, die Menschen können sie weiterhin sehen."
 
-Bei Yehliu hingegen gab es einen Aufschrei. 2024 **züchtete das Yehliu Ocean World in Gefangenschaft ein Delfinbaby** – ein direkter Schlag gegen den gesellschaftlichen Konsens des „schrittweisen Ausstiegs“. Tierschutzorganisationen fragten scharf: **In einer Ära, in der die Gesellschaft bereits Delfinvorführungen ablehnt, weiter Delfine in Becken Nachwuchs zeugen zu lassen – bedeutet das nicht, noch mehr Delfine von Geburt an in Käfige zu verurteilen?**
+Aber die Antwort von Yehliu entzündete die Debatte. 2024 wurde in Yehliu-Meerestierwelt in Gefangenschaft eine **kleine Delphin geboren**, was direkt mit dem gesellschaftlichen Konsens der schrittweisen Rücktrittsstrategie kollidierte. Die Kritik der Tierschutzgruppen war scharf: **In einer Ära, in der die Menschen bereits begonnen haben, sich gegen Delphinaufführungen einzusetzen, ist es nicht genug, Delphine in Becken zur Welt bringen zu lassen, nur um mehr Delphine geboren zu lassen, die für immer in Käfigen gefangen sind?**
 
-Da das Geburtsdatum des Jungtiers die Zuchtgenehmigungsfrist überschritten hatte, verhängte die Ozeanerhaltungsbehörde gemäß dem „Gesetz zum Schutz der Wildtiere“ eine Strafe gegen Yehliu – doch das Bußgeld betrug lediglich **zehntausend Taiwan-Dollar**. Diese Zahl ist an sich schon absurd: Der Preis eines Lebens – zehntausend Dollar.
+Da das Geburtsdatum des Jungtieres die Zuchlerlaubnis überschritt, verhängte das Umweltsschutzamt nach dem "Gesetz zum Schutz wildlebender Tiere" eine Geldstrafe gegen Yehliu, aber der Betrag betrug nur **10.000 Yuan**. Diese Zahl ist absurd: Der Preis eines Lebens beträgt 10.000 Yuan.
 
-Chou Chin-shan, stellvertretende Generalsekretärin der Life Conservationist Association, sagte in der Transformationsarbeitsgruppe: „Sie sollten eigentlich im Meer leben, wurden aber gewaltsam an Land gezerrt – da müssen die Menschen verstehen, was diese in Gefangenschaft lebenden Individuen für die Menschen geopfert haben.“
+Jade Hsin, stellvertretende Geschäftsführerin des Tierschutzvereins, sagte in der Arbeitsgruppe: "Sie hätten im Meer leben sollen, stattdessen wurden sie hier auf die Landmasse gezogen. Wenn die Menschen diese Individuen in Käfigen betrachten wollen, was haben die Tiere dafür geopfert?"
 
-Sie betonte auch: **„Sie sind lebendige Lebewesen, keine Lehrmittel für menschliche Betrachtung.“**
+Sie betonte auch: "**Sie sind lebendige Wesen, keine Unterrichtshilfen für die Menschen.**"
 
-Der Abschied der Delfinshows markiert einen Schlüsselmoment, in dem die taiwanische Gesellschaft das „Verhältnis zwischen Mensch und Meereslebewesen“ neu definiert.
+Der Rücktritt der Delphinaufführung markiert einen entscheidenden Moment, in dem taiwanesische Gesellschaft ihre Beziehung zu Meerestieren neu definiert.
 
-## Gesetz und Realität: Die Herausforderungen der Verordnung zur Verwaltung von Tierausstellungen
+## Gesetzgebung und Realität: Die Herausforderungen der Verwaltungsvorschriften für die Verwaltung von Tieren in der Ausstellung
 
-2017 trat die „Verordnung zur Verwaltung von Tierausstellungen“ in Kraft – Taiwan hatte erstmals ein spezielles Gesetz zur Regulierung von Ausstellungstieren.[^4] Die Bestimmungen umfassten:
+Die "Verwaltungsvorschriften für die Verwaltung von Tieren in der Ausstellung" wurden 2016 veröffentlicht, und Taiwan hatte erstmals eine spezielle Vorschrift für Tieraufführungen. [^4] Die Vorschriften umfassen:
 
-- Ausstellungsorte benötigen eine Genehmigung
-- Tierhaltungsumgebungen haben Mindeststandards
-- Professionelle Tierärzte müssen vorhanden sein
-- Regelmäßige Tierschutzinspektionen sind vorgeschrieben
+- Ausstellungsstätten benötigen eine Lizenz
+- Mindeststandards für die Haltung von Tieren
+- Fachveterinär muss vorhanden sein
+- Regelmäßige Kontrollen der Tierschutzbedingungen
 
-Doch die Gesetzesvollzug steht vor realen Herausforderungen. In ganz Taiwan gibt es nur knapp 20 Tierschutzinspektoren, die hunderte Ausstellungsorte überwachen sollen. Niedrige Inspektionsfrequenz, Fachkräftemangel, milde Strafen – all das lässt die Verordnung zum Papiertiger werden.
+Aber die Durchsetzung der Vorschriften trifft auf reale Herausforderungen. In ganz Taiwan gibt es weniger als 20 Tierschutzinspektoren, um Hunderte von Ausstellungsstätten zu überwachen. Niedrige Kontrollhäufigkeit, unzureichendes Fachpersonal und milde Strafen machen die Vorschriften zu leeren Blättern.
 
-Das grundlegendere Problem: Das geltende Recht geht noch von „Verwaltung“ aus, nicht von „Tierrechten“. Tiere sind rechtlich weiterhin „Gegenstände“, keine Rechtssubjekte. Solange sich diese Position nicht ändert, bleibt auch die strengste Verwaltungsverordnung nur Symptombehandlung.
+Ein grundlegenderes Problem ist: Die bestehenden Vorschriften basieren immer noch auf "Verwaltung" statt auf "Tierrechte". Tiere sind rechtlich immer noch "Güter", keine Rechts-subjekte. Solange diese Position nicht geändert wird, kann selbst die strengste Verwaltungsvorschrift nur die Symptome, nicht die Ursache beheben.
 
-## Neue Herausforderungen im Zeitalter sozialer Medien
+## Neue Herausforderungen in sozialen Medien
 
-Instagram und TikTok haben die Ökologie der Tierausstellungen verändert. Tiercafés, Tierrestaurants, Capybara-Interaktionserlebnisse – diese „leichten“ Tierkontaktaktivitäten sind zu Traffic-Magneten in sozialen Medien geworden.
+Instagram und TikTok haben die Ökologie der Tieraufführungen verändert. Tier-Cafés, Tier-Restaurants, Interaktionen mit Wasserschweinen – diese "leichten" Tierkontakte sind zu den Traffic-Mustern sozialer Medien geworden.
 
-Der **Vorfall im Tierrestaurant Bali** ist der jüngste Alarm. Ende 2025 wurde ein als „Kaninchen-Interaktion“ beworbenes Restaurant aufgedeckt: Innerhalb weniger Monate starben 6 Kaninchen, 5 erkrankten.[^5] Ursachen: übermäßiger menschlicher Kontakt, ungeeignete Haltungsumgebung, und die Vernachlässigung tierischer Bedürfnisse für „fotogene“ Optik.
+**Das Restaurant-Rabbit in Bali** ist die neueste Warnung. Anfang 2026 führte das Department für Tierschutz in New Taipei City eine Inspektion durch und fanden, dass in einem Restaurant in Bali, das auf Interaktion mit Kaninchen basiert, Kaninchen in großer Zahl starben und mehrere Tiere Milzauge hatten. Der Todesursache war langfristige Fehlpflege, Mangelernährung und fehlende medizinische Behandlung zuzuschreiben.[^5]
 
-Die Algorithmen sozialer Medien lieben „süß“ und „lustig“ – das macht Tiere zu Traffic-Ware. Ein Video eines Capybaras im Onsen kann Millionen Aufrufe generieren, doch niemand fragt, ob es sich an Taiwans Klima angepasst hat.
+Die Algorithmen sozialer Medien mögen "niedlich" und "interessant", was Tiere zu Verkehrswerten macht. Ein Video eines Wasserschweins im Thermalbad kann Millionen Aufrufe erzielen, aber niemand fragt, ob das Tier sich an Taiwans Klima gewöhnen kann.
 
-Diese „Mikro-Ausstellungstiere“ sind überall in Taiwan, bewegen sich aber am Rande der Regulierung. Sie haben nicht die strenge Aufsicht von Zoos, brauchen nicht die Genehmigungen von Zirkussen, stehen aber vor denselben Tierschutzproblemen.
+Diese "kleinen Tieraufführungen" verbreiten sich durch ganz Taiwan und bleiben am Rande der Vorschriften. Im Gegensatz zu Zoos mit strenger Aufsicht und Zirkusse mit Lizenzanforderungen, sind sie nicht direkt kontrolliert, aber dennoch mit Tierschutzproblemen konfrontiert.
 
-## Das Spektrum der taiwanischen Gesellschaft zu Zoos
+## Das Spektrum der taiwanesischen Tierzuchtgesellschaft
 
-Die taiwanische Bewertung von Zoos war nie einheitlich – verschiedene Generationen, verschiedene Bildungshintergründe stehen an grundlegend unterschiedlichen Positionen.
+Die taiwanesische Gesellschaft hat niemals ein einheitliches Urteil über Zoos geäußert, und Menschen verschiedener Generationen und Bildungshintergründe stehen an verschiedenen Stellen.
 
-Taiwans Haltung zur Frage „Soll es Zoos geben?“ zeigt klare generations- und wertebedingte Unterschiede:
+Taiwans Haltung gegenüber "sollten Zoos existieren" zeigt deutliche Unterschiede in Generation und Werten:
 
-**Traditionelle Befürworter** sehen die Bildungsfunktion von Zoos: Stadtkinder lernen Tiere kennen, entwickeln Artenschutzbewusstsein. „Ohne Zoo – wie soll mein Kind wissen, wie ein Elefant aussieht?“
+**Traditionelle Befürworter** halten Zoos für Bildungsfunktion, damit städtische Kinder Tiere kennenlernen und Naturschutzbewusstsein entwickeln. "Wenn ich nicht zum Zoo gehe, wie soll mein Kind wissen, wie ein Elefant aussieht?"
 
-**Moderne Artenschützer** unterstützen reformierte Zoos, betonen Artenschutzzucht, Auswilderung, Umwelterziehung. Zoos sollten „Tieraufnahmestationen“ sein, keine Unterhaltungsorte.
+**Moderne Naturschützer** unterstützen reformierte Zoos und betonen Naturschutzzucht, Rückkehr in die Wildnis und Umweltbildung. Zoos sollten "Tierschutzstationen" sein, keine Unterhaltungsstätten.
 
-**Tierrechtler** fordern die Abschaffung aller Formen tierischer Gefangenschaft – noch so gute Umgebungen können Freiheit nicht ersetzen. „Haben Tiere Wahlrecht? Haben sie zugestimmt, ausgestellt zu werden?“
+**Tierrechtebefürworter** fordern das Ende aller Formen der Tiergefangenschaft und halten selbst die besten Bedingungen für nicht ausreichend. "Haben Tiere eine Wahl? Stimmen sie zu, gezeigt zu werden?"
 
-**Pragmatiker** erkennen reale Beschränkungen an, unterstützen schrittweise Reform. „Das perfekte Ideal ist schön, aber die realen Tiere brauchen sofortige Verbesserung.“
+**Pragmatiker** erkennen die realen Einschränkungen an und unterstützen schrittweise Reformen. "Ein perfektes Ideal ist schön, aber reale Tiere brauchen unverzügliche Verbesserungen."
 
-Dieses Spektrum hat kein Richtig oder Falsch, aber es spiegelt Taiwans tiefes Nachdenken über das Mensch-Tier-Verhältnis wider.
+Dieses Spektrum hat nichts mit Richtig oder Falsch zu tun, aber es spiegelt die tiefe Nachdenklichkeit der taiwanesischen Gesellschaft über die Beziehung zwischen Menschen und Tieren wider.
 
 ## Erstaunliche Fakten
 
-Der Städtische Zoo Taipeh besteht seit seiner Gründung 1914 bis heute über **110 Jahre** und gehört zu den ältesten Zoos Asiens. Dass der Zoo Hsinchu Arten reduziert und sich auf heimische, tierfreundliche Ausstellung fokussiert, ist in der asiatischen Zoolandschaft fast beispiellos. Taiwans traditionelle Zirkus-Tiervorführungen sind nach den 2010er Jahren fast vollständig verschwunden, ersetzt durch tierfreie Zirkusse.
+Der Taipeher Stadtzoo existiert seit seiner Gründung im Jahr 1914 bereits **über 110 Jahre** und zählt zu den ältesten Zoos Asiens. Die Praxis des Hsinchu Tiergartens, die Artenvielfalt zu reduzieren und sich auf einheimische Arten und freundliche Präsentationen zu konzentrieren, ist in der Zoo-Gemeinschaft Asiens nahezu einzigartig. Die traditionellen Zirkusse in Taiwan mit Tieraufführungen sind in den 2010er Jahren fast vollständig verschwunden und durch zirkusfreie Zirkusse ersetzt worden.
 
-In Taiwan gibt es nur noch zwei Wal- und Delphinaussteller, deren Genehmigungen beide **2026 auslaufen**. Yehliu züchtete 2024 vorschriftswidrig ein Delfinbaby, die Strafe betrug lediglich zehntausend Dollar – diese Zahl ist an sich schon absurd. Die „Verordnung zur Verwaltung von Tierausstellungen“ trat 2017 in Kraft, doch die Vollzugskapazitäten sind schwer unzureichend – Taiwans Tierschutzinspektoren sind an einer Hand abzuzählen.
+Es gibt in Taiwan nur noch zwei Betreiber von Delphinausstellungen, deren Lizenzen **im Jahr 2026 ablaufen**. Yehliu unterschied sich in der Regelung von Jungtieren und wurde mit einer Geldstrafe in Höhe von 10.000 Yuan belegt – diese Zahl ist absurd. Die "Verwaltungsvorschriften für die Verwaltung von Tieren in der Ausstellung" wurden 2016 erlassen, aber die Durchsetzung ist schwer unzureichend, und die Anzahl der Tierschutzinspektoren ist begrenzt.
 
-- 🐰 **Ende 2025 Vorfall im Tierrestaurant Bali – Kaninchenausstellung: 6 tot, 5 krank**, enthüllt das Regulierungsvakuum bei „Mikro-Ausstellungen“
-- 📱 Die beliebtesten Tierinteraktionsinhalte in sozialen Medien sind oft **die Szenarien mit dem höchsten Tierschutzrisiko**
-- 🌏 Taiwan gehört zu den wenigen asiatischen Regionen mit Spezialgesetz für Ausstellungstiere, doch das Gesetz positioniert Tiere weiterhin als „Gegenstände“ und nicht als Rechtssubjekte
+- 🐰 2026: Kaninchen-Restaurationsereignis in Bali: Kaninchen **starben in großer Zahl**, was die rechtliche Lücke bei "kleinen Ausstellungen" aufdeckt
+- 📱 Die beliebtesten Inhalte zu Tierinteraktionen in sozialen Medien sind oft auch **die riskantesten Szenarien für Tierschutz**
+- 🌏 Taiwan ist eines der wenigen asiatischen Gebiete mit speziellen Vorschriften für Tieraufführungen, aber die Vorschriften positionieren Tiere immer noch als "Güter" statt als Rechts-subjekte
 
-Taiwans Ausstellungsrecht für Tiere mag in Asien fortschrittlich sein, doch zwischen Systemdesign und tatsächlicher Vollzug besteht weiterhin eine deutliche Lücke.
+Taiwans Vorschriften für Tieraufführungen sind in Asien fortschrittlich, aber es besteht ein deutlicher Abstand zwischen der Gestaltung des Systems und der tatsächlichen Durchsetzung.
 
-## Zukunft: Das Mensch-Tier-Verhältnis neu definieren
+## Zukunft: Die Beziehung zwischen Menschen und Tieren neu definieren
 
-Die Evolution taiwanischer Zoos ist eigentlich ein Abbild des moralischen Fortschritts der gesamten Gesellschaft. Wir beginnen zu verstehen: Tiere haben eigene Bedürfnisse und Rechte, die Respekt verdienen.
+Die Entwicklung der taiwanesischen Zoos ist eigentlich ein Spiegelbild des moralischen Fortschritts der Gesellschaft. Wir beginnen zu verstehen, dass Tiere eigene Bedürfnisse und Rechte haben und respektiert werden sollten.
 
-**Im nächsten Jahrzehnt könnte Taiwan erleben:**
+**In den nächsten zehn Jahren könnte Taiwan Folgendes sehen:**
 
-Mehr Zoos könnten sich zu Artenschutzzentren oder Wildtieraufnahmestationen wandeln, „Auswilderung“ könnte zu einer Kernaufgabe von Zoos werden. Virtual-Reality-Technologie könnte Teile der physischen Tierausstellungen ersetzen, sodass Artenschutzbildung nicht mehr von der körperlichen Ausstellung von Tieren abhängt. Gleichzeitig stehen soziale Medienplattformen und Aufsichtsbehörden unter Druck, ob sie Tierausstellungsinhalte beschränken sollen.
+Möglicherweise werden mehr Zoos zu Naturschutzstationen oder Wildtierunterkünften umfunktioniert, und "Rückkehr in die Wildnis" könnte zu den wichtigsten Aufgaben der Zoos gehören. Virtuelle Realität könnte einen Teil der realen Tierpräsentationen ersetzen und die Naturschulung von der Körperpräsentation der Tiere entbinden. Gleichzeitig stehen sich soziale Medien und Aufsichtsbehörden unter Druck, Inhalte zu Tieraufführungen zu beschränken.
 
-Doch die wichtigste Veränderung ist vielleicht eine gedankliche: vom „Tiere dienen dem Menschen“ hin zu „Mensch und Tier koexistieren“.
+Aber die wichtigste Veränderung könnte ideell sein: Von "Tiere für Menschen" zu "Menschen und Tiere gemeinsam leben".
 
-Dieser Weg ist noch lang. Jede Entscheidung (welchen Zoo man besucht, welche Tiervorführung man unterstützt, ob man in sozialen Medien liket oder meldet) ist eine Abstimmung für Taiwans Tierschutz.
+Dieser Weg ist noch lang. Jede Entscheidung (welcher Zoo besucht wird, welche Tieraufführung unterstützt wird, ob ein Like oder eine Meldung in sozialen Medien) ist eine Stimme für den Tierschutz Taiwans.
 
-**Die Zukunft der Zoos ist unsere Wahl.**
+**Die Zukunft der Zoos ist unsere Entscheidung.**
 
-[^1]: Städtischer Zoo Hsinchu, 〈Konzept des Zooumbaus〉, https://zoo.hccg.gov.tw/
+[^1]: Hsinchu Stadtzoo, "Konzept der Zoo-Umgestaltung", https://zoo.hccg.gov.tw/
 
-[^2]: Wowo Media, 〈Tiefenrecherche zur Tierschutzkontroverse nach Xpark-Eröffnung〉, https://wuo-wuo.com/
+[^2]: Wowlai Media, "Tiefgehende Untersuchung der Tierschutzdebatte nach der Eröffnung von Xpark", https://wuo-wuo.com/
 
-[^3]: Landwirtschaftsministerium, 〈Bekanntmachung der Novellierung der Verordnung zur Verwaltung von Tierausstellungen〉 (Juli 2024), https://www.moa.gov.tw/
+[^3]: Ministerium für Landwirtschaft, "Bekanntgabe der überarbeiteten Verwaltungsvorschriften für die Verwaltung von Tieren in der Ausstellung" (Juli 2024), https://www.moa.gov.tw/
 
-[^4]: Tierschutz-Informationsnetz des Landwirtschaftsministeriums, 〈Verordnung zur Verwaltung von Tierausstellungen〉, https://animal.moa.gov.tw/
+[^4]: [Nationales Gesetzdatenbank: Verwaltungsvorschriften für die Verwaltung von Tieren in der Ausstellung](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=M0060090) — Vollständige Vorschriften und historische Entwicklung, am 5. Februar 2016 veröffentlicht, am 29. Juli 2024 überarbeitet.
 
-[^5]: Taiwan Animal Society Research Association, 〈Aktuelle Lage der Verwaltung von Mikro-Ausstellungstieren〉, https://www.east.org.tw/
+[^5]: [Kaninchen-Restaurant in Bali verursacht Todesfälle durch illegale Ausstellung, Tierschutzbehörde: Höchste Strafe 250.000 Yuan und Übermittlung an die Staatsanwaltschaft](https://udn.com/news/story/124490/9367910) — United Daily News, 9. März 2026, Ergebnisse der Inspektion und Nachprüfung im Januar durch das Department für Tierschutz in New Taipei City.
 
 ---
 
 **Weiterführende Literatur**
 
-- [Taiwan-Tiermedikamenten-Kontroverse](/society/台灣動物用藥爭議) – Von den ethischen Kontroversen um Ausstellungstiere bis zu den rechtlichen Lücken bei Haustiermedikamenten: alles verschiedene Facetten desselben Problems – Taiwans Recht hat noch nicht gelernt, mit „Leben, die weder Mensch noch Eigentum sind“ umzugehen
+- [Debatte um tierische Medikamente in Taiwan](/de/society/taiwan-animal-drug-controversy) — Von ethischen Debatten über Tieraufführungen bis zu rechtlichen Lücken bei Haustiermedikamenten, es sind verschiedene Seiten desselben Problems: Taiwans Rechtssystem hat noch nicht gelernt, wie man "nicht Mensch, nicht Eigentum" betrachtet
 
 ---
 
-## Referenzen
+## Quellen
 
-- [Wowo Media](https://wuo-wuo.com/) – Taiwans wichtigstes unabhängiges Medium für Tierthemen
-- [Taiwan Animal Society Research Association](https://www.east.org.tw/) – Langjährige Interessenvertretung zu Ausstellungstierthemen
-- [Animal Contemporary Thought](https://www.animalcontemporary.org/) – Interdisziplinäre Diskussionsplattform für Tierrechte
-- [Städtischer Zoo Hsinchu](https://zoo.hccg.gov.tw/) – Praxis des „Zoos ohne Käfige“
-- [Städtischer Zoo Taipeh](https://www.zoo.gov.taipei/) – Taiwans ältester Zoo
+- [Wowlai Media](https://wuo-wuo.com/) - Wichtigste unabhängige Medien für Tierschutzthemen in Taiwan
+- [Taiwanische Gesellschaft für Tierschutzstudien](https://www.east.org.tw/) — Langjährige Advocacy-Organisation für Tieraufführungen
+- [Hsinchu Stadtzoo](https://zoo.hccg.gov.tw/) — praktiziert "Zoo ohne Käfige"
+- [Taipeher Stadtzoo](https://www.zoo.gov.taipei/) — Taiwans ältester Zoo
+
+===END===

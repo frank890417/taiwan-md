@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T14:39:48+08:00",
-    "zhCommitHead": "3a4a9d327",
+    "lastUpdated": "2026-09-26T15:17:07+08:00",
+    "zhCommitHead": "f15ec237d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1073,
+        "fresh": 1074,
         "stale": 22,
         "metadata_stale": 0,
-        "missing": 29,
+        "missing": 28,
         "orphan": 0
       },
       "ko": {
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1095,
+        "fresh": 1097,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 17,
+        "missing": 15,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1110,
+        "fresh": 1108,
         "stale": 9,
         "metadata_stale": 0,
-        "missing": 5,
+        "missing": 7,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1090,
+        "fresh": 1091,
         "stale": 15,
         "metadata_stale": 0,
-        "missing": 19,
+        "missing": 18,
         "orphan": 0
       },
       "ru": {
@@ -10430,20 +10430,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-26T10:22:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 23180,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "path": "hi/Economy/taiwan-orchid-industry.md",
@@ -46917,7 +46904,20 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/taiwan-queuing-culture.md",
+          "translatedFrom": "Lifestyle/排隊.md",
+          "sourceCommitSha": "0e24f2873",
+          "sourceContentHash": "sha256:71a07c5ea0f34a1e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T06:42:22.643650+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 68490,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-queuing-culture.md",
@@ -54689,8 +54689,8 @@
           "sourceContentHash": "sha256:996216db6cfc762f",
           "sourceBodyHash": "sha256:f6cfe4546203aec9",
           "translatedAt": "2026-09-26T10:22:52+08:00",
-          "translationLastCommit": "46693fb2",
-          "translationLastModified": "2026-08-04T18:21:26+08:00",
+          "translationLastCommit": "f15ec237",
+          "translationLastModified": "2026-09-26T14:39:53+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 26589,
@@ -70772,8 +70772,8 @@
           "sourceContentHash": "sha256:1b46bb67f21432e0",
           "sourceBodyHash": "sha256:688a69633785627a",
           "translatedAt": "2026-09-26T10:22:52+08:00",
-          "translationLastCommit": "a9ae73c3",
-          "translationLastModified": "2026-07-28T07:46:26+08:00",
+          "translationLastCommit": "f15ec237",
+          "translationLastModified": "2026-09-26T14:39:53+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 15307,
@@ -76196,8 +76196,8 @@
           "sourceContentHash": "sha256:219fe04c84e96b20",
           "sourceBodyHash": "sha256:2e23822aef955aa4",
           "translatedAt": "2026-09-26T10:22:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f15ec237",
+          "translationLastModified": "2026-09-26T14:39:53+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "bytes": 32972,
@@ -130233,7 +130233,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/hung-chieh-ni.md",
+          "translatedFrom": "People/洪婕倪.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:8351d05a79dba790",
+          "sourceBodyHash": "sha256:f76990887dfd2b78",
+          "translatedAt": "2026-09-26T10:22:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 21705,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/hung-chieh-ni.md",
@@ -139568,7 +139581,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/stan-shih.md",
+          "translatedFrom": "People/施振榮.md",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:b50fabfadefe035f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T06:31:31.594252+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 71,
+          "bytes": 63823,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/stan-shih.md",
@@ -183676,20 +183702,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/History/kano-chiayi-agriculture-forestry.md",
-          "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-26T10:22:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 23600,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "path": "hi/History/kano-chiayi-agriculture-forestry.md",
@@ -190276,7 +190289,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/gongguan.md",
+          "translatedFrom": "Geography/公館.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:02c38601d122ae9f",
+          "sourceBodyHash": "sha256:2e7aefb4f30ec2e9",
+          "translatedAt": "2026-09-26T10:22:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 86547,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/gongguan.md",
