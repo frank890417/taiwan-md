@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T18:12:50+08:00",
-    "zhCommitHead": "022426035",
+    "lastUpdated": "2026-09-26T18:32:07+08:00",
+    "zhCommitHead": "9b7ae94e4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1097,
+        "fresh": 1098,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 13,
+        "missing": 12,
         "orphan": 0
       },
       "ru": {
@@ -8288,7 +8288,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-creative-content-agency.md",
+          "translatedFrom": "Economy/文化內容策進院.md",
+          "sourceCommitSha": "d704d4e52",
+          "sourceContentHash": "sha256:1d88a269185c0f26",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T09:54:37.768865+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 84909,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-creative-content-agency.md",
@@ -106496,8 +106509,8 @@
           "sourceContentHash": "sha256:1917aa69dfd8ab97",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T08:42:30.699870+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9b7ae94e",
+          "translationLastModified": "2026-09-26T18:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 44,
           "bytes": 50704,
@@ -213244,8 +213257,8 @@
           "sourceContentHash": "sha256:7dd4a33fd13d7c17",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T08:24:34.697080+00:00",
-          "translationLastCommit": "f11ac976",
-          "translationLastModified": "2026-09-09T18:36:50+08:00",
+          "translationLastCommit": "9b7ae94e",
+          "translationLastModified": "2026-09-26T18:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "bytes": 60838,
@@ -218674,8 +218687,8 @@
           "sourceContentHash": "sha256:c124eb253c195f03",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T09:48:50.975718+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9b7ae94e",
+          "translationLastModified": "2026-09-26T18:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 55089,
