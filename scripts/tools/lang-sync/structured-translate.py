@@ -41,7 +41,6 @@ from __future__ import annotations
 
 import argparse
 import datetime as _dt
-import hashlib
 import json
 import re
 import subprocess
@@ -78,6 +77,7 @@ PASSTHROUGH = _verify.PASSTHROUGH  # 同源 SSOT — author/date/featured/readin
 # lastVerified/lastHumanReview/category/image/imageCredit/difficulty
 
 cjkleak = _import_module("cjk-leak-check")
+_status = _import_module("status")  # provenance 雜湊的 canonical 算法（body_hash／body_hash_pure）
 
 import cross_link_localizer as _xlink  # noqa: E402 — 站內連結在地化（防新增，見 main() Phase B 前置處理）
 
@@ -619,8 +619,13 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
 
     lines.append(f"translatedFrom: {yaml_single_quote(zh_path)}")
     lines.append(f"sourceCommitSha: {yaml_single_quote(git_short_sha(zh_path))}")
-    content_hash = hashlib.sha256(zh_content.encode("utf-8")).hexdigest()[:16]
-    lines.append(f"sourceContentHash: 'sha256:{content_hash}'")
+    # 雜湊語意跟 status.py 同一套（2026-09-26 維護班通報）：舊版對整份 zh 檔（含
+    # frontmatter）取 sha256，status.py 的 body_hash 只算 frontmatter 之後，全庫
+    # 1,092 篇同 commit 卻雜湊不符；又沒寫 sourceBodyHash，zh 只改參考資料區時，這支
+    # 產出的譯文一律整篇判 stale、拿不到 metadata-stale 的豁免。patch-translate 的
+    # provenance_lines() 早就改用 status.py 的函式，這裡照做。
+    lines.append(f"sourceContentHash: {yaml_single_quote(_status.body_hash(zh_content))}")
+    lines.append(f"sourceBodyHash: {yaml_single_quote(_status.body_hash_pure(zh_content))}")
     lines.append(f"translatedAt: {yaml_single_quote(datetime.now(timezone.utc).isoformat())}")
 
     return "\n".join(lines)

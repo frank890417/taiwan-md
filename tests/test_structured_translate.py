@@ -679,3 +679,27 @@ def test_ambiguous_crossref_tokens_are_left_for_the_gate():
     zh = "見 [^3] 與 [^9]"
     out = "see @@LINK0@@ and @@LINK1@@"
     assert MODULE._restore_crossref_tokens(out, zh) == out
+
+
+def test_frontmatter_provenance_uses_status_py_hashes():
+    # 2026-09-26：舊版對整份 zh 檔（含 frontmatter）取雜湊、又不寫 sourceBodyHash，
+    # 跟 status.py 的語意不同——zh 只動參考資料區時，這支的產出一律判 stale。
+    import collections
+    import json
+
+    import yaml
+
+    zh_path = "Music/蘇打綠.md"
+    zh_content = (Path(__file__).resolve().parents[1] / "knowledge" / zh_path).read_text(encoding="utf-8")
+    zh_fm = yaml.safe_load(zh_content.split("---", 2)[1])
+
+    class FakeBackend:
+        def translate(self, system, user, max_tokens=None, timeout=None):
+            payload = json.loads(user)
+            return json.dumps({k: ([f"tag {i}" for i in range(len(v))] if isinstance(v, list)
+                                   else f"translated {k}") for k, v in payload.items()})
+
+    block = MODULE.translate_frontmatter(zh_fm, zh_content, zh_path, "en", FakeBackend(),
+                                         collections.defaultdict(int))
+    assert f"sourceContentHash: '{MODULE._status.body_hash(zh_content)}'" in block
+    assert f"sourceBodyHash: '{MODULE._status.body_hash_pure(zh_content)}'" in block
