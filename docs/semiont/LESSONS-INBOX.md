@@ -470,6 +470,27 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：儀器（article-health plugin，最該做的一層）＋ EDITORIAL 圖說格式一句
 - **(c) 譯文層量完（2026-09-24 twmd-babel-nightly）**：全庫 zh 母稿用 prettier 實跑逐檔比網址出現次數，09-23 修掉的三篇之外，prettier 不穩定的還有四篇（蓬萊米／台灣客家音樂／高雄加工出口區／新竹米粉），那次的候選網只看斜體圖說內的網址，這四篇有的是逗號後的底線、有的是網址裡跳脫的括號。它們在譯文層的症狀是網址閘門永遠不過：dispatcher 驗證前對譯文跑 prettier，母稿卻是 commit 當時的樣子。其中 `\_`／`\(` 這類反斜線跳脫在連結目的地裡渲染出的 href 不變，是量測不對稱不是壞連結，已在 `verify-translation.extract_urls` 兩側對稱還原；會真的弄壞網址的仍只有 `_`→`*` 那一型 → 見 `measured-copy-is-not-the-committed-copy`
 - **相關**：2026-09-07 `formatter-vs-checker-disagree...`（本條是它留下的未解項的答案，且補了一個它沒寫到的關鍵事實：角括號無效）、REFLEXES #99 尺先驗再用（0 命中先跑正控制，本條救回一次假陰性）、#82 proxy signal（「網址集合沒變」是「每一處網址都完好」的替身）、#65 awareness instrument 自身要 cross-verify、MANIFESTO §14 高儀器化
+- **instances**:
+  - 2026-09-27 twmd-babel-nightly 譯文層實際量完：〈台灣蘭花〉〈阿里山林業鐵路〉〈嘉農〉en/es/fr/ko 十二份網址已被改成星號（全庫掃「網址內夾 `*`」只有這十二份）＋ ja〈台灣蘭花〉圖說只剩殘片；出處行移出斜體後 prettier 三跑不變，`e64212f17`。增量仍無閘，(a) 仍是候選 → memory/2026-09-27-010249-twmd-babel-nightly.md
+- **verification_count**: 2
+
+### 2026-09-27 twmd-babel-nightly — whole-article-term-substitution-passes-every-gate：譯文把同一個主詞整篇譯錯，每道閘門都綠，status 還記成 fresh
+
+- **pattern**: `whole-article-term-substitution-passes-every-gate`
+- **原則**：現有閘門量的是結構、網址、中文殘留、目標語言，一篇把「棒球」全文 70 處寫成「총구」（槍口）的韓文譯文全部通過。這類錯是一致的（同一個錯詞貫穿全篇），所以抽一段讀就看得出來，卻沒有任何機械尺在問「原稿最常出現的那幾個名詞，譯文用的是不是這個語言站上既有的譯法」。更糟的是過期重翻：九篇裡七篇的前一版是對的，重翻換上較差的模型，把好譯文換成壞譯文，status 照樣記 fresh。
+- **觸發**：2026-09-27 00:5x babel-nightly Z6 人眼抽樣 30 篇之一（ko〈台灣棒球文化〉），再用「重翻前後標題整組換掉」掃出九篇（客家→카즈、烘焙→ベーグル、蓬萊米→ポンガイメ、呂秀蓮與朴星垠換名、統一→Unicharm、陳致中與陳水扁音譯壞掉）；出處 `laguna-s-2.1:free` 與 8.1B 地端模型。→ memory/2026-09-27-010249-twmd-babel-nightly.md，OBSERVER-QUEUE #78
+- **修補候選**：(a) 閘門：抽原稿前 N 個高頻專名（人名／地名／主題名詞），對照同語言兄弟譯文的既有譯法，偏離的列出來（WARN 起步，先收數據再定門檻）(b) 過期重翻若產出的主詞譯法跟前一版不同，保留前一版並標人審，不直接覆蓋
+- **可能層級**：儀器（babel 閘門）＋ SQUEEZE 入池門檻的量化證據
+- **相關**：REFLEXES #69 (g) form gate ≠ meaning gate（本條是它在翻譯層、而且是「一致錯誤」的形狀：形式閘門全過，錯得越一致越像正確）；#82（fresh 是品質的替身）；OBSERVER-QUEUE #78
+- **verification_count**: 1
+
+### 2026-09-27 twmd-babel-nightly — dry-run-fixers-on-known-clean-corpus-first：會寫檔的修復器改完，先對已知乾淨的樣本空跑，要求零改動
+
+- **pattern**: `dry-run-fixers-on-known-clean-corpus-first`
+- **原則**：修一支自動修復器（這次是 `restore-footnote-urls.py`）讓它抓到新形狀時，它同時長出新的誤判。今晚改了兩次，對 584 份通過閘門的譯文空跑，第一次會動 17 份、第二次 16 份，全部是誤配：一次把原稿的中文貼進譯文，一次把 frontmatter 的收尾引號當竄改修掉。兩次都不會被閘門發現（後者在閘門量測範圍外）。對乾淨樣本空跑、要求零改動，是負對照；REFLEXES #99 講的是讀數前先過正對照，修復器則還要過負對照。
+- **觸發**：2026-09-27 babel-nightly `841d4f0f8` 定版前兩輪空跑 → memory/2026-09-27-010249-twmd-babel-nightly.md
+- **可能層級**：通用反射（#99 的寫入端延伸）
+- **相關**：REFLEXES #99（正對照）、#38 dry-run 守恆變體
 - **verification_count**: 1
 
 ### 2026-09-23 twmd-maintainer-am — prescribed-profile-is-not-the-gate-profile：pipeline 指名要帶的那個 profile，不是 commit 真正會跑的那一把
