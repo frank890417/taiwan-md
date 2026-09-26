@@ -17,7 +17,7 @@ sourceBodyHash: 'sha256:e301e6416dd3bfb4'
 translatedAt: '2026-07-26T13:02:55+08:00'
 ---
 
-> **30 giây tóm tắt:** Thị trường nồi hấp của Đài Loan có giá trị sản xuất hàng năm lên tới hàng tỷ đồng, không chỉ là món ăn nổi bật vào mùa đông để ấm lòng, mà còn là văn hóa ăn uống phù hợp trong bốn mùa. Từ "cày nồi" thời kỳ nhật ảnh hưởng đến các loại nồi mang theo di sản di cư sau chiến tranh, đến ngày nay với nồi hấp cá nhân và nồi hấp sang trọng, lịch sử biến đổi của nồi hấp tại Đài Loan phản ánh sự thay đổi xã hội và giao nhập dân tộc của hòn đảo, cuối cùng đã nấu nướng nên hương vị độc đáo của "Đài Loan".
+> **30 giây tóm tắt:** Thị trường nồi hấp của Đài Loan có giá trị sản xuất hàng năm lên tới hàng chục tỷ Đài tệ, không chỉ là món ăn nổi bật vào mùa đông để ấm lòng, mà còn là văn hóa ăn uống phù hợp trong bốn mùa. Từ "cày nồi" thời kỳ nhật ảnh hưởng đến các loại nồi mang theo di sản di cư sau chiến tranh, đến ngày nay với nồi hấp cá nhân và nồi hấp sang trọng, lịch sử biến đổi của nồi hấp tại Đài Loan phản ánh sự thay đổi xã hội và giao nhập dân tộc của hòn đảo, cuối cùng đã nấu nướng nên hương vị độc đáo của "Đài Loan".
 
 Vào năm 1926, tại phố Ngũ Hành của Kỳ Quốc, Ngư Tường Thành với một chiếc xe bán rau cắt thịt bò tươi sống, đã khai sinh truyền thuyết "Nồi hấp thịt bò đầu tiên" kéo suốt một thế kỷ [^1]. Đây không chỉ là một trong những quán nồi hấp kiểu Đài Loan cổ xuống nhất hiện tại, mà còn đánh dấu điểm khởi đầu của quá trình biến đổi dài kỳ và phong phú của văn hóa nồi hấp tại Đài Loan. Bánh nướng nóng hổi ấy, làm sao từ hương vị quê nhà khác bạn bè, dần nấu nướng thành một phần không thể thiếu trên bàn ăn của người Đài Loan?
 

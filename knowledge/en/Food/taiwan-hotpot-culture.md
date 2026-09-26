@@ -16,7 +16,7 @@ translatedAt: '2026-05-01T12:53:58+08:00'
 featured: false
 ---
 
-> **30-second overview:** Taiwan's hotpot market generates annual revenue in the hundreds of billions of NT dollars. It is not only a national comfort food for warming up in winter but also a dining culture suitable for all four seasons. From the "sukiyaki" of the Japanese colonial era to the diverse pot dishes that post-war immigrants brought from across China, to today's individual small hotpots and premium pot restaurants, the evolution of Taiwan hotpot reflects the island's social changes and ethnic fusion, ultimately simmering into a "Taiwanese flavor" unlike any other.
+> **30-second overview:** Taiwan's hotpot market generates annual revenue in the tens of billions of NT dollars. It is not only a national comfort food for warming up in winter but also a dining culture suitable for all four seasons. From the "sukiyaki" of the Japanese colonial era to the diverse pot dishes that post-war immigrants brought from across China, to today's individual small hotpots and premium pot restaurants, the evolution of Taiwan hotpot reflects the island's social changes and ethnic fusion, ultimately simmering into a "Taiwanese flavor" unlike any other.
 
 In 1926, Yu Shui-Sheng in Gangshan, Kaohsiung, sold lamb dishes from a shoulder pole walking door to door, opening the century-long legend of "Da Xin Lamb Hot Pot" (大新羊肉爐).[^1] This is not only one of the oldest Taiwanese-style hotpot restaurants still operating today — it also marks the lengthy and rich starting point of Taiwan's hotpot culture. How did this bowl of steaming deliciousness evolve step by step from a foreign-originated flavor into an indispensable landscape on the Taiwanese dinner table?
 

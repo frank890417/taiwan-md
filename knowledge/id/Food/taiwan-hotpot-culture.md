@@ -17,7 +17,7 @@ sourceBodyHash: 'sha256:e301e6416dd3bfb4'
 translatedAt: '2026-07-25T06:34:15+08:00'
 ---
 
-> **Ringkasan 30 Detik:** Pasar hotpot Taiwan bernilai ratusan miliar per tahun, bukan hanya makanan nasional yang menghangatkan badan di musim dingin, melainkan budaya kuliner yang cocok untuk empat musim. Mulai dari "chúshāo" (sukiyaki) era pendudukan Jepang hingga beragam hotpot yang dibawa pengungsi pasca-perang, sampai hotpot personal dan hotpot premium masa kini, sejarah evolusi hotpot Taiwan memantulkan perubahan sosial dan perpaduan etnis pulau ini, akhirnya menghasilkan "rasa Taiwan" yang unik.
+> **Ringkasan 30 Detik:** Pasar hotpot Taiwan bernilai puluhan miliar per tahun, bukan hanya makanan nasional yang menghangatkan badan di musim dingin, melainkan budaya kuliner yang cocok untuk empat musim. Mulai dari "chúshāo" (sukiyaki) era pendudukan Jepang hingga beragam hotpot yang dibawa pengungsi pasca-perang, sampai hotpot personal dan hotpot premium masa kini, sejarah evolusi hotpot Taiwan memantulkan perubahan sosial dan perpaduan etnis pulau ini, akhirnya menghasilkan "rasa Taiwan" yang unik.
 
 1926, Yu Shui-sheng di Gangshan, Kaohsiung, menjual masakan daging kambing dengan pikulan di bahu, memulai legenda berabad-abad "Da Xin Yang Rou Lu" [^1]. Ini bukan hanya salah satu toko hotpot bergaya Taiwan tertua yang masih ada, tetapi juga menandai titik awal evolusi panjang dan kaya budaya hotpot Taiwan. Bagaimana panci mendidih penuh kelezatan ini, dari rasa tanah asing, perlahan-lahan dimasak hingga menjadi pemandangan tak tergantikan di meja makan orang Taiwan?
 
