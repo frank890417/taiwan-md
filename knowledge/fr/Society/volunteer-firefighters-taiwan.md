@@ -96,7 +96,7 @@ Ce tableau décompose le « grand nombre » de pompiers volontaires en plusieurs
 
 Beaucoup associent d'emblée les pompiers volontaires au fait de tirer sur le tuyau, forcer les portes et transporter du matériel. Mais la patrouille de sensibilisation à la prévention des incendies, mentionnée dans le magazine des pompiers, met en lumière une autre tâche : visiter chaque foyer pour vérifier l'utilisation domestique du feu, de l'électricité et du gaz, inspecter les voies d'évacuation et promouvoir les détecteurs de fumée résidentiels.
 
-La chef d'unité locale Su Xiu-luan du département des pompiers volontaires de Tainan a rejoint la patrouille de sensibilisation car son mari était un pompier volontaire retraité. Elle et ses membres ont visité des foyers pour expliquer l'efficacité des détecteurs, et elles ont rencontré dans des familles multigénérationnelles où les anciens ne voulaient pas écouter, mais où les écoliers posaient activement des questions, finissant par convaincre la famille d'acheter un détecteur. [^9]
+La chef d'unité locale Su Hsiu-luan du département des pompiers volontaires de Tainan a rejoint la patrouille de sensibilisation car son mari était un pompier volontaire retraité. Elle et ses membres ont visité des foyers pour expliquer l'efficacité des détecteurs, et elles ont rencontré dans des familles multigénérationnelles où les anciens ne voulaient pas écouter, mais où les écoliers posaient activement des questions, finissant par convaincre la famille d'acheter un détecteur. [^9]
 
 La chef d'unité moyenne Chen Yu-feng du département de pompiers volontaires de Taipei a rejoint la patrouille en 2012 (année 91) et a pris la tête de l'unité en 2011 (année 100), menant des visites dans les communautés et les foyers du district de Wenshan pour inspecter l'électricité, le gaz et les itinéraires d'évacuation. [^9]
 
@@ -191,7 +191,7 @@ Cet article utilise 1 image sous licence CC comme image principale, mise en cach
 
 [^8]: [Wu, Chang & Collins : Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://doi.org/10.17477/jcea.2015.14.2.045) — Page DOI de l'article académique en anglais, qui étudie la relation entre les chefs locaux des pompiers à Taïwan, la qualité de la communication et l'engagement civique préalable dans la mobilisation des organisations volontaires.
 
-[^9]: [Magazine des pompiers : 20 ans de sensibilisation sans relâche](https://ebook.nfa.gov.tw/10901/files/basic-html/page46.html) — Reportage sur les personnalités du Département des pompiers du Ministère de l'Intérieur, qui documente les scènes pratiques où Su Xiu-luan et Chen Yu-feng visitent les foyers pour promouvoir les détecteurs et inspecter la sécurité résidentielle.
+[^9]: [Magazine des pompiers : 20 ans de sensibilisation sans relâche](https://ebook.nfa.gov.tw/10901/files/basic-html/page46.html) — Reportage sur les personnalités du Département des pompiers du Ministère de l'Intérieur, qui documente les scènes pratiques où Su Hsiu-luan et Chen Yu-feng visitent les foyers pour promouvoir les détecteurs et inspecter la sécurité résidentielle.
 
 [^10]: [Magazine des pompiers : Mission sans relâche, en famille](https://ebook.nfa.gov.tw/10912/files/basic-html/page20.html) — Entretien avec Zheng Mei-pang du Département des pompiers, qui documente le service communautaire à long terme des bénévoles de sensibilisation et la structure organisationnelle en quatre niveaux des pompiers volontaires.
 
