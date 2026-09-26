@@ -172,6 +172,8 @@ AMBIGUOUS = {"這群人"}
 # 被當成作家三毛，派工單印出「三毛 → Sanmao」。只在「每一處都接著這些字」時才略過，
 # 同篇另有真正提到作家三毛的地方照樣列出。
 NOT_A_NAME_BEFORE = {"三毛": ("錢",)}
+# 同一族的另一個形狀：〈台灣醫療與全民健保〉「做一塊賠三毛」——前面是錢的語境。
+NOT_A_NAME_AFTER = {"三毛": ("賠", "塊", "元", "角", "虧")}
 
 
 def _marked(text: str, han: str) -> bool:
@@ -246,7 +248,9 @@ def names_for(zh_path: str, lang: str, tbl: dict) -> int:
         if han in AMBIGUOUS and not _marked(text, han):
             continue
         if han in NOT_A_NAME_BEFORE and all(
-                text[m.end():m.end() + 1] in NOT_A_NAME_BEFORE[han] for m in re.finditer(re.escape(han), text)):
+                text[m.end():m.end() + 1] in NOT_A_NAME_BEFORE[han]
+                or text[max(0, m.start() - 1):m.start()] in NOT_A_NAME_AFTER.get(han, ())
+                for m in re.finditer(re.escape(han), text)):
             continue
         if han in auth:
             rows.append((han, auth[han]["form"], "已裁決（name-authority.json）"))
