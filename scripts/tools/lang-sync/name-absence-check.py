@@ -16,7 +16,7 @@ name-consistency-check 的規則 B 刻意只比人物頁標題（它的 docstrin
   3. 譯者補充語境：原文寫「總統」，譯文補上 Tsai Ing-wen——多半正確，但原文確實沒寫
 校準（2026-09-26 全庫七個拉丁語系 7,943 篇）：原始判準 474 處／448 篇，蔣中正一族就佔 216；
 加上連字號邊界（Lin Liang 不再吃進 Lin Liang-chun）與 ALIAS 之後 160 處／152 篇，抽樣裡真錯
-佔多數。存量處置見 OBSERVER-QUEUE #81。
+佔多數。存量處置見 OBSERVER-QUEUE #84。
 
 用法：
   python3 name-absence-check.py                 # 全庫盤點（en es fr pt id vi de）
