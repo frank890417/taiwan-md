@@ -88,7 +88,7 @@ Pada 1960-1990-an, Empat Naga Asia (Taiwan, Korea Selatan, Hong Kong, Singapura)
 
 ### Dilema Kurva微笑 (Smile Curve)
 
-Kurva Smile (Smile Curve) yang dikemukakan oleh pendiri Acer, Shih Ming-teh, pada 1992 menggambarkan realitas rantai nilai manufaktur: kedua ujung kurva (kiri "Riset dan Desain", kanan "Merek dan Saluran") memiliki nilai tambah tinggi, sementara tengah "Manufaktur" memiliki nilai tambah terendah[^8]. Industri elektronik Taiwan lama terkonsentrasi di tengah kurva, melakukan kontrak kelas dunia, tetapi margin keuntungan lama tertekan di antara 3-5%. Pada puncak industri PC Taiwan, nilai produksi tahunan melampaui 100 miliar dolar AS, tetapi sebagian besar keuntungan mengalir ke hulu Intel, Microsoft dan hulu Dell, HP; keuntungan aktual yang tersisa bagi perusahaan lokal terbatas.
+Kurva Smile (Smile Curve) yang dikemukakan oleh pendiri Acer, Stan Shih, pada 1992 menggambarkan realitas rantai nilai manufaktur: kedua ujung kurva (kiri "Riset dan Desain", kanan "Merek dan Saluran") memiliki nilai tambah tinggi, sementara tengah "Manufaktur" memiliki nilai tambah terendah[^8]. Industri elektronik Taiwan lama terkonsentrasi di tengah kurva, melakukan kontrak kelas dunia, tetapi margin keuntungan lama tertekan di antara 3-5%. Pada puncak industri PC Taiwan, nilai produksi tahunan melampaui 100 miliar dolar AS, tetapi sebagian besar keuntungan mengalir ke hulu Intel, Microsoft dan hulu Dell, HP; keuntungan aktual yang tersisa bagi perusahaan lokal terbatas.
 
 Dua jalur untuk menembus Kurva Smile, masing-masing menuju hulu riset (seperti peralatan litografi EUV ASML, proses manufaktur canggih TSMC) atau merek hulu (seperti ekosistem iPhone Apple), membutuhkan akumulasi 10-20 tahun, ini adalah tantangan inti peningkatan industri Taiwan sejak 1990-an. TSMC memilih bergerak ke kiri (riset proses manufaktur ekstrem), ASUS dan HTC memilih bergerak ke kanan (merek sendiri), tetapi perusahaan Taiwan yang berhasil melintasi tengah masih minoritas; sebagian besar manufaktur UMK masih mencari jalan transformasi digital di dasar kurva.
 
@@ -220,7 +220,7 @@ MediaTek dipisahkan dari UMC pada 1997, awalnya memasuki pasar dengan chip penyi
 
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA 1976 hingga pangsa pasar global 60% pada 2024, bagaimana industri inti yang bermula dari Taman Sains Hsinchu menjadi "Gunung Dewa Pelindung"
 - [Morris Chang](/people/張忠謀) — Tokoh kunci yang mendirikan TSMC pada 1987, pendorong inti dari nol industri semikonduktor Taiwan
-- [Shih Ming-teh](/people/施振榮) — Penulis Kurva Smile: menggambar garis untuk memaksa Taiwan keluar dari tengah kontrak, namun kekayaan pribadi dipertaruhkan pada TSMC yang melakukan "manufaktur tengah"
+- [Stan Shih](/people/施振榮) — Penulis Kurva Smile: menggambar garis untuk memaksa Taiwan keluar dari tengah kontrak, namun kekayaan pribadi dipertaruhkan pada TSMC yang melakukan "manufaktur tengah"
 - [Perdagangan Luar Negeri Taiwan dan Rantai Pasok Global](/economy/台灣外貿與全球供應鏈) — Jejak jangka panjang dari devisa kawasan ekspor pemrosesan hingga kekuatan ekspor semikonduktor 2024
 - [Ekosistem Rintisan](/id/economy/taiwan-startup-ecosystem-overview) — Jalur lain dari transformasi manufaktur menjadi kekuatan inovasi: perkembangan rintisan dan semikonduktor fabless pasca-1990-an
 - [Perkembangan dan Strategi Masa Depan AI Taiwan](/technology/台灣人工智慧發展與未來策略) — Gelombang berikutnya transformasi industri pasca-2024: perluasan hegemoni perangkat keras ke strategi aplikasi AI
@@ -244,7 +244,7 @@ MediaTek dipisahkan dari UMC pada 1997, awalnya memasuki pasar dengan chip penyi
 
 [^7]: [Taiwan Semiconductor Manufacturing Company — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0) — Didirikan oleh Morris Chang pada 1987, pabrik wafer kontrak _pure-play_ pertama di dunia. Pangsa pasar manufaktur wafer global pada 2024 melebihi 60%, proses manufaktur canggih mencakup 3nm, 2nm, menjadi asal usul istilah "Gunung Dewa Pelindung".
 
-[^8]: [Kurva Smile — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BE%AE%E7%AC%91%E6%9B%B2%E7%B7%9A) — Teori rantai nilai manufaktur yang dikemukakan oleh pendiri Acer, Shih Ming-teh, pada 1992, menggambarkan kedua ujung kurva (riset dan desain, merek dan saluran) memiliki nilai tambah tinggi, tengah (manufaktur) memiliki nilai tambah terendah, menjadi alat diskursif inti peningkatan industri Taiwan sejak 1990-an.
+[^8]: [Kurva Smile — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BE%AE%E7%AC%91%E6%9B%B2%E7%B7%9A) — Teori rantai nilai manufaktur yang dikemukakan oleh pendiri Acer, Stan Shih, pada 1992, menggambarkan kedua ujung kurva (riset dan desain, merek dan saluran) memiliki nilai tambah tinggi, tengah (manufaktur) memiliki nilai tambah terendah, menjadi alat diskursif inti peningkatan industri Taiwan sejak 1990-an.
 
 [^9]: [Giant Group — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%B7%A8%E5%A4%A7%E9%9B%86%E5%9C%98) — Produsen sepeda yang didirikan oleh Liu Jinbiao pada 1972 di Da Jia, Taichung, awalnya kontrak Schwinn, menciptakan merek "Giant" sendiri pada 1986 untuk memasuki pasar AS-Eropa. Mendirikan titik luar negeri pertama di Belanda pada 1986, memasuki pasar China pada 1992, menjadi contoh representatif transformasi manufaktur Taiwan dari kontrak ke merek sendiri.
 

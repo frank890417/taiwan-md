@@ -104,7 +104,7 @@ _HTC Dream (T-Mobile G1), 2008. Foto: Marcus Sümnick, CC BY 3.0. [Licencia vía
 
 La tragedia de HTC no es un caso aislado; tiene gráficos que lo demuestran.
 
-En 1992, Shih Ming-de (Stan Shih) dibujó en _Reinventar Acer_ la «Curva de Sonrisa»: la I+D y la marca en los extremos, con el mayor valor; la fabricación en el medio, con el menor valor[^4]. Los taiwaneses dibujaron este gráfico ellos mismos, y durante los siguientes treinta años, el grueso de la tecnología taiwanesa quedó atrapado en el punto más bajo de la curva: Hon Hai (Foxconn) ensamblaba iPhones para Apple, con un margen de beneficio que durante años fue de solo un dígito. Apple se llevó la mayor parte de los beneficios de toda la industria de los teléfonos móviles; los picos de las investigaciones de mercado estiman que superan el 80%[^11].
+En 1992, Stan Shih dibujó en _Reinventar Acer_ la «Curva de Sonrisa»: la I+D y la marca en los extremos, con el mayor valor; la fabricación en el medio, con el menor valor[^4]. Los taiwaneses dibujaron este gráfico ellos mismos, y durante los siguientes treinta años, el grueso de la tecnología taiwanesa quedó atrapado en el punto más bajo de la curva: Hon Hai (Foxconn) ensamblaba iPhones para Apple, con un margen de beneficio que durante años fue de solo un dígito. Apple se llevó la mayor parte de los beneficios de toda la industria de los teléfonos móviles; los picos de las investigaciones de mercado estiman que superan el 80%[^11].
 
 [TSMC](/es/economy/tsmc/) es la excepción. Gracias a la regla de «no diseñar sus propios productos», convirtió el outsourcing en un negocio que agarra ambos extremos: los clientes no pueden prescindir de ella, y ella no necesita competir con los clientes por el culto de los consumidores. Pero este negocio se basa en la confianza B2B, no necesita contar historias al público general. La modestia de TSMC es una estrategia comercial; su efecto secundario es que el lugar que mejor fabrica chips en Taiwán es precisamente el que menos necesita practicar contar historias.
 
@@ -155,7 +155,7 @@ Así que el problema nunca ha sido el talento. El problema es que la estructura 
 ![Captura de video de la reunión de líderes económicos APEC 2021 con Morris Chang como representante de liderazgo, foto oficial de la Oficina Presidencial](/article-images/technology/morris-chang-apec-2021.webp)
 _Morris Chang asiste a la reunión de líderes económicos APEC 2021. Foto: Wang Yu Ching / Oficina Presidencial, CC BY 2.0. [Licencia vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2021-11-12_Morris_Chang_represented_Taiwan_on_APEC_Economic_Leaders%27_Meeting.jpg)._
 
-Cuando Shih Ming-de dibujó la Curva de Sonrisa, también estaba vendiendo un concepto: un concepto hizo que la filosofía de gestión de su empresa fuera citada en las escuelas de negocios de todo el mundo.
+Cuando Stan Shih dibujó la Curva de Sonrisa, también estaba vendiendo un concepto: un concepto hizo que la filosofía de gestión de su empresa fuera citada en las escuelas de negocios de todo el mundo.
 
 Huang Ren-xun nació en Tainan y se mudó a EE. UU. a los nueve años[^13]. Su Zifeng nació en Tainan y se mudó a EE. UU. a los tres años. Las dos personas que mejor cuentan historias de semiconductores en el mundo son de semilla taiwanesa y de tierra estadounidense.
 
@@ -232,7 +232,7 @@ Este artículo utiliza 5 imágenes con licencia CC, almacenadas en `public/artic
 
 [^3]: [Wikipedia — HTC Dream](https://en.wikipedia.org/wiki/HTC_Dream) — El primer teléfono Android del mundo en 2008
 
-[^4]: [Wikipedia — Curva de Sonrisa](https://zh.wikipedia.org/wiki/%E5%BE%AE%E7%AC%91%E6%9B%B2%E7%B7%9A) — Propuesta por Shih Ming-de en 1992 en _Reinventar Acer_
+[^4]: [Wikipedia — Curva de Sonrisa](https://zh.wikipedia.org/wiki/%E5%BE%AE%E7%AC%91%E6%9B%B2%E7%B7%9A) — Propuesta por Stan Shih en 1992 en _Reinventar Acer_
 
 [^4b]: [Wikipedia — MediaTek](https://zh.wikipedia.org/wiki/%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80) — Uno de los proveedores de SoC para teléfonos móviles más grandes del mundo por volumen de ventas; aproximadamente el 70% de cuota de mercado en chips para televisión
 
