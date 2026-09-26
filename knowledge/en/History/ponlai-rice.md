@@ -62,9 +62,9 @@ This turning point shows that breeding is not just about "changing genes" or "se
 
 In 1926, Japonica rice produced in Taiwan was named "Penglai Rice" at the nineteenth Japan Rice Association meeting. The name was derived from the mythical Mount Penglai, packaging an agricultural product improved in Taiwan but originating from introduced Japanese Japonica rice as a symbol of Taiwanese abundance.[^1] [^5]
 
-But naming did not equal success. In the same year, Penglai Rice suffered from brown planthoppers (rice blast), leading to poor harvests. The research team continued to improve it in directions such as wide cultivation, high yield, salt and pest resistance, and disease resistance. For rice grown well in the indigenous fields to become a crop that farmers were willing to commit to, stability and marketability were also required.[^1]
+But naming did not equal success. In the same year, Penglai Rice suffered from rice blast, leading to poor harvests. The research team continued to improve it in directions such as wide cultivation, high yield, salt and pest resistance, and disease resistance. For rice grown well in the indigenous fields to become a crop that farmers were willing to commit to, stability and marketability were also required.[^1]
 
-The Great Depression of 1927 caused rice prices to fall, reducing the incentive for farmers to plant Penglai Rice. Li Pengyi, a merchant from Changhua Flower Garden, pledged to purchase based on planted area at this time, not solely on that year's harvest quality. Losses from brown planthoppers, drought, and typhoons led his milling factory to be idle for nearly three years. It was only after the improved harvests in 1929 that this commercial commitment truly gained farmers' trust in Penglai Rice.[^1]
+The Great Depression of 1927 caused rice prices to fall, reducing the incentive for farmers to plant Penglai Rice. Li Pengyi, a merchant from Changhua Flower Garden, pledged to purchase based on planted area at this time, not solely on that year's harvest quality. Losses from rice blast, drought, and typhoons led his milling factory to be idle for nearly three years. It was only after the improved harvests in 1929 that this commercial commitment truly gained farmers' trust in Penglai Rice.[^1]
 
 ![Rice fields and mountain settlements in Ruishui, Hualien, showing how rice cultivation is embedded in the eastern landscape](https://upload.wikimedia.org/wikipedia/commons/9/9b/05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui%2C_Hualien_County%2C_Taiwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
@@ -72,7 +72,7 @@ _Ruishui Rice Fields and Mountains, photographed by Marek Slusarczyk (Wikimedia 
 
 ## Taichung No. 65: A Variety Becomes an Agricultural Framework
 
-In 1929, Iso Nagichi and Suei Nagito selected Taichung No. 65 through the cross-breeding of Kuchi and Shenli. Research reports from the Academia Sinica pointed out that it possessed resistance to brown planthoppers and a double harvest capability, with the key factor being its less sensitivity to day length. University of Taiwan news sources claimed it was an ancestor of about eighty percent of modern Taiwanese Japonica rice.[^2] [^3]
+In 1929, Iso Nagichi and Suei Nagito selected Taichung No. 65 through the cross-breeding of Kuchi and Shenli. Research reports from the Academia Sinica pointed out that it possessed resistance to rice blast and a double harvest capability, with the key factor being its less sensitivity to day length. University of Taiwan news sources claimed it was an ancestor of about eighty percent of modern Taiwanese Japonica rice.[^2] [^3]
 
 Different sources had statistical discrepancies exceeding 80% and 85% regarding descendants, so a single number should not be stated as an undisputed precise ratio. A more cautious conclusion is that Taichung No. 65 was not a commemorative variety in the history of Penglai Rice, but rather the framework for many subsequent Taiwanese Japonica breeding efforts.
 

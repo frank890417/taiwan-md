@@ -62,9 +62,9 @@ Dieser Wendepunkt zeigt, dass Züchtung nicht nur „Gene verändern“ oder „
 
 Im Jahr 1926 wurde in Taiwan produzierter Reis auf dem neunzehnten Jahrestag des Japanischen Reiskammervereins „Penglai-Reis“ genannt. Der Name leitet sich von der Vorstellung des mythischen Berges Penglai ab und verpackte ein in Taiwan verbessertes, aber aus japanischem Reis stammendes landwirtschaftliches Produkt als Symbol für die Fülle Taiwans.[^1] [^5]
 
-Aber Benennung bedeutet nicht Erfolg. Im selben Jahr litt der Penglai-Reis unter Reissickern, was zu schlechten Ernten führte. Das Forschungsteam setzte seine Verbesserungen in Richtung großflächiger, ertragreicher, salzresistenter, schädlingsresistenter und krankheitsresistenter Sorten fort. Damit ein Reis, der im Ursprungsanbau gut wuchs, für die Bauern akzeptabel wurde, brauchte er Stabilität und einen Markt.[^1]
+Aber Benennung bedeutet nicht Erfolg. Im selben Jahr litt der Penglai-Reis unter Reisbräune, was zu schlechten Ernten führte. Das Forschungsteam setzte seine Verbesserungen in Richtung großflächiger, ertragreicher, salzresistenter, schädlingsresistenter und krankheitsresistenter Sorten fort. Damit ein Reis, der im Ursprungsanbau gut wuchs, für die Bauern akzeptabel wurde, brauchte er Stabilität und einen Markt.[^1]
 
-Die Große Depression von 1927 führte zu fallenden Reispreisen, was den Anreiz für die Bauern zur Aussaat des Penglai-Reises verringerte. Der Händler Li Pengyi in Changhua garantierte zu dieser Zeit den Ankauf nach der bepflanzten Fläche und nicht nur nach dem Ernteergebnis. Reissickern, Dürren und Taifune führten zu Verlusten; seine Mühle stand fast drei Jahre leer. Erst als die Ernten im Jahr 1929 besser wurden, gewann diese kommerzielle Zusage wirklich das Vertrauen der Bauern.[^1]
+Die Große Depression von 1927 führte zu fallenden Reispreisen, was den Anreiz für die Bauern zur Aussaat des Penglai-Reises verringerte. Der Händler Li Pengyi in Changhua garantierte zu dieser Zeit den Ankauf nach der bepflanzten Fläche und nicht nur nach dem Ernteergebnis. Reisbräune, Dürren und Taifune führten zu Verlusten; seine Mühle stand fast drei Jahre leer. Erst als die Ernten im Jahr 1929 besser wurden, gewann diese kommerzielle Zusage wirklich das Vertrauen der Bauern.[^1]
 
 ![Reisfelder und Bergdörfer in Ruisi, Hualien, die zeigen, wie Reis in die östliche Landschaft eingebettet ist](https://upload.wikimedia.org/wikipedia/commons/9/9b/05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui%2C_Hualien_County%2C_Taiwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
@@ -72,7 +72,7 @@ _Reisfelder und Bergdörfer in Ruisi, Hualien. Foto von Marek Slusarczyk (Wikime
 
 ## Taichung 65: Eine Sorte wird zum Zuchtgerüst
 
-Im Jahr 1929 wählten Iso Nagichi und Suei Nagato durch die Kreuzung von Gui-zhi und Shenli den Taichung 65. Berichte des Zentralen Forschungsinstituts gaben an, dass dieser Reis resistent gegen Reissickern war und zwei Ernten pro Jahr lieferte; der Schlüssel lag auch darin, dass er weniger empfindlich auf die Länge der Sonneneinstrahlung reagierte. Die Universität Taiwan berichtete, es sei der Vorfahre von etwa acht Zehn Prozent des neu gezüchteten Langkornreises in Taiwan.[^2] [^3]
+Im Jahr 1929 wählten Iso Nagichi und Suei Nagato durch die Kreuzung von Gui-zhi und Shenli den Taichung 65. Berichte des Zentralen Forschungsinstituts gaben an, dass dieser Reis resistent gegen Reisbräune war und zwei Ernten pro Jahr lieferte; der Schlüssel lag auch darin, dass er weniger empfindlich auf die Länge der Sonneneinstrahlung reagierte. Die Universität Taiwan berichtete, es sei der Vorfahre von etwa acht Zehn Prozent des neu gezüchteten Langkornreises in Taiwan.[^2] [^3]
 
 Verschiedene Quellen gaben unterschiedliche Statistiken für die Nachkommen an (über 80 % und über 85 %), daher sollte keine einzelne Zahl als unbestrittener genauer Anteil dargestellt werden. Ein vernünftiges Fazit ist: Taichung 65 ist nicht nur eine Gedenksorte in der Penglai-Reis-Geschichte, sondern das Rückgrat vieler nachfolgender Züchtungen des taiwanischen Reises.
 
