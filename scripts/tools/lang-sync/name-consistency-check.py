@@ -175,6 +175,52 @@ def _marked(text: str, han: str) -> bool:
                (("「", "」"), ("[[", "]]"), ("《", "》"), ("『", "』")))
 
 
+# 同語言語料裡的括號對照（2026-09-26）。名字表只收有人物頁的人，演員、編劇、學者、
+# 地方人物全不在表上，派工單又說「表上沒有就音譯」，於是同一個人在同一個語言裡長出
+# 第二種寫法：en〈植劇場〉把許光漢音譯成 Hsu Kuang-han，站上另外三篇早就寫 Greg Hsu；
+# fr〈高速公路〉照著另一篇錯的寫了 Sun Xiu-luan。譯文習慣在第一次出現時附漢字，這些
+# 括號本身就是一張沒人整理過的表。只收拉丁字母語言，日韓俄印阿的譯名不是這個形狀。
+LATIN_TOKEN = r"[A-Z][A-Za-z'’.\-]*"
+HAN_NAME = r"[一-鿿]{2,4}"
+LATIN_BEFORE_HAN = re.compile(rf"((?:{LATIN_TOKEN}[ \t])+{LATIN_TOKEN})\s*[（(]({HAN_NAME})[）)]")
+HAN_BEFORE_LATIN = re.compile(rf"({HAN_NAME})\s*[（(]({LATIN_TOKEN}(?:[ \t]{LATIN_TOKEN}){{1,3}})[）)]")
+LATIN_LANGS = {"en", "es", "fr", "pt", "id", "vi", "de"}
+
+
+# 句首的大寫虛詞不是名字的一部分：「In Taipei (台北)」「According Lee (李)」。
+LEADING_NOISE = {"In", "At", "On", "The", "A", "An", "By", "For", "From", "With", "As", "And",
+                 "But", "When", "After", "Before", "While", "According", "Both", "Le", "La",
+                 "Les", "Du", "De", "Des", "El", "Los", "Las", "Der", "Die", "Das", "Em", "No",
+                 "Na", "Di", "Ke", "Dan", "Của", "Và", "Ở", "Tại"}
+
+
+def gloss_pairs(text: str) -> list[tuple[str, str]]:
+    """(漢字, 拉丁寫法)。括號前的大寫詞取最後四個以內、剝掉句首虛詞：獎項與團體名常是
+    三四個字（Golden Bell Awards、Cloud Gate Dance Theatre），只取兩個會切掉一半。"""
+    out = []
+    for m in LATIN_BEFORE_HAN.finditer(text):
+        toks = m.group(1).split()[-4:]
+        while len(toks) > 1 and toks[0] in LEADING_NOISE:
+            toks = toks[1:]
+        out.append((m.group(2), " ".join(toks)))
+    for m in HAN_BEFORE_LATIN.finditer(text):
+        out.append((m.group(1), m.group(2)))
+    return out
+
+
+def corpus_glosses(lang: str) -> dict[str, dict[str, set[str]]]:
+    """{漢字: {拉丁寫法: {出現的檔名}}}，掃 knowledge/<lang>/ 全部譯文。"""
+    idx: dict[str, dict[str, set[str]]] = {}
+    for p in (REPO / "knowledge" / lang).rglob("*.md"):
+        try:
+            text = p.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        for han, form in gloss_pairs(text):
+            idx.setdefault(han, {}).setdefault(form, set()).add(p.name)
+    return idx
+
+
 def names_for(zh_path: str, lang: str, tbl: dict) -> int:
     """派工單用：這篇 zh 原文提到的人，在別的語言已經怎麼拼。
 
@@ -209,13 +255,29 @@ def names_for(zh_path: str, lang: str, tbl: dict) -> int:
         mine = next((f for f, l2 in v["forms"].items() if lang in l2), None)
         note = f"{lang} 目前寫 {mine} ← 跟多數不一樣" if mine else f"{len(ls)} 個語言用"
         rows.append((han, form, note))
-    if not rows:
+    if rows:
+        print(f"## 人名拼寫（{len(rows)} 位，取自 name-variants.json，不要自己推導）")
+        for han, form, note in rows:
+            print(f"  {han} → {form}    # {note}")
+    else:
         print(f"（{zh_path} 沒有對照表覆蓋到的人名）")
-        return 0
-    print(f"## 人名拼寫（{len(rows)} 位，取自 name-variants.json，不要自己推導）")
-    for han, form, note in rows:
-        print(f"  {han} → {form}    # {note}")
-    print("表上沒有的人：音譯＋括號附漢字，不要拿你知道的名人填空。")
+    if lang in LATIN_LANGS:
+        covered = {han for han, _, _ in rows}
+        seen = []
+        for han, forms in corpus_glosses(lang).items():
+            if han in covered or han not in text:
+                continue
+            seen.append((text.index(han), han, forms))
+        if seen:
+            print(f"\n## 站上既有寫法（{lang} 語料裡的「拉丁名 (漢字)」括號對照，表上沒有的名字）")
+            for _, han, forms in sorted(seen)[:60]:
+                ranked = sorted(forms.items(), key=lambda kv: -len(kv[1]))
+                shown = "｜".join(f"{f}（{len(files)} 篇）" for f, files in ranked[:3])
+                warn = "    # 有分歧：照 TRANSLATION 指南挑，不要發明第 N 種" if len(ranked) > 1 else ""
+                print(f"  {han} → {shown}{warn}")
+    if lang in LATIN_LANGS:
+        print("語料寫法是盤點不是權威：跟 TRANSLATION 指南衝突時（例如台灣人名寫成拼音）照指南，並在回報裡列出。")
+    print("表上與語料都沒有的人：音譯＋括號附漢字，不要拿你知道的名人填空。")
     return 0
 
 
