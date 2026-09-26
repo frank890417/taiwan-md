@@ -66,7 +66,7 @@ When placing Taiwanese _eight o'clock dramas_ (local prime-time soap operas) on 
 
 **Further Reading**:
 
-- [Golden Bell Awards](/culture/金鐘獎) — In the era of 《Stars Know My Heart》 and 《Bao Qingtian》, the award recipients for television dramas never left TAI TV, CTV, or HTV.
+- [Golden Bell Awards](/culture/金鐘獎) — In the era of 《Stars Know My Heart》 and 《Bao Qingtian》, the award recipients for television dramas never left TTV, CTV, or CTS.
 
 ## References
 
