@@ -1,16 +1,16 @@
 ---
-title: 'Wasser fließt bergauf: Eine visuelle Täuschung enthüllt die Geschichte der Amis in Taitung und die Grenzen der kognitiven Wahrnehmung'
-description: 'Der "Wasser-fließt-bergauf"-Kanal in Taitungs Dorf Dulan hat tatsächlich eine Gefälle von etwa 0,5 Grad, doch da die angrenzende Straße steiler ist, interpretiert der Besucher-Beziehung die Kanal als bergauf fließend. Vom ursprünglichen Bewässerungskanal der Amis, über die 1980er als Touristenattraktion verpackte Kanal, bis zu seiner heutigen Bezeichnung als "schlimmster Touristenort Taiwans" – dieser weniger als halbe Meter breite Kanal ist ein Paradebeispiel für eine visuelle Referenzfehler.'
+title: 'Wasser fließt bergauf: Wie eine optische Täuschung die Rodungsgeschichte der Amis und die Grenzen unserer Wahrnehmung offenbart'
+description: 'Der Wassergraben "Wasser fließt bergauf" im Dorf Dulan in Taitung fällt in Wirklichkeit um etwa 0,5 Grad nach unten – doch weil die daneben verlaufende Straße ein noch stärkeres Gefälle hat, liest das Gehirn der Besucher das Wasser als "bergauf fließend". Von einem Bewässerungsgraben, den die Amis einst gruben, über die touristische Inszenierung als Sehenswürdigkeit in den 1980er-Jahren bis zur jüngsten Krönung zum "nutzlosesten Ausflugsziel Taiwans": Hinter diesem weniger als einen halben Meter breiten Rinnsal steckt eine Täuschung des visuellen Bezugssystems.'
 date: 2026-08-03
 category: 'Geography'
 tags:
   [
     'Taitung',
-    'Wasser-fließt-bergauf',
-    'Dulan Dorf',
+    'Wasser fließt bergauf',
+    'Dulan-Dorf',
     'Amis',
-    'visuelle Täuschung',
-    'Geschichte der taiwanesischen Landgewinnung',
+    'optische Täuschung',
+    'taiwanische Rodungsgeschichte',
   ]
 subcategory: '水文與水資源'
 author: 'Taiwan.md Contributors'
@@ -21,64 +21,63 @@ readingTime: 15
 translatedFrom: 'Geography/水往上流.md'
 sourceCommitSha: '211401fe4'
 sourceContentHash: 'sha256:c6dd24e6a4e09fdc'
-sourceBodyHash: 'sha256:009e89e5797639ab'
-translatedAt: '2026-09-25T12:01:29+08:00'
+translatedAt: '2026-09-25T21:16:17.861279+00:00'
 ---
 
-> **30-Sekunden-Überblick:** Der "Wasser-fließt-bergauf"-Kanal in der Gemeinde Dulan im Osten von Taitung ist ein Bewässerungskanal, der kaum ein halbes Meter breit ist, doch er ist einer der bekanntesten "intuitiv falschen" Sehenswürdigkeiten Taiwans. Eine Geländemessung zeigt, dass der Kanal tatsächlich um etwa 0,5 bis 0,6 Grad nach unten geneigt ist, während die angrenzende Straße steiler geneigt ist. Wenn man diese beiden Gefälle nebeneinander betrachtet, interpretiert das Gehirn die steilere Straße als horizontale Referenzierung und liest den flacheren Kanal fälschlicherweise als "bergauf fließend" – dies ist eine visuelle Referenzfehler, kein Fehlen von Schwerkraft oder Magnetismus. Dieser Kanal wurde ursprünglich von den lokalen Amis als Bewässerungskanal angelegt, wurde in den 1980er Jahren während des boomenden Innenreise-Tourismus offiziell als Sehenswürdigkeit gefeiert und ist in letzter Zeit erneut in Diskussionen geraten, nachdem er als "schlimmster Touristenort Taiwans" bezeichnet wurde.
+> **30-Sekunden-Überblick:** "Wasser fließt bergauf" im Dorf Dulan in der Gemeinde Donghe, Landkreis Taitung, ist ein Bewässerungsgraben von weniger als einem halben Meter Breite – und trotzdem eine der bekanntesten "kontraintuitiven Sehenswürdigkeiten" Taiwans. Bodenmessungen zeigen: Der Graben fällt tatsächlich um etwa 0,5 bis 0,6 Grad, während die direkt danebenliegende Straße mit 3 bis 5 Grad deutlich stärker abfällt. Betrachtet man beide Gefällelinien zusammen, nimmt das Gehirn die stärker geneigte Straße unbewusst als horizontalen Bezugspunkt – wodurch der schwächer geneigte Graben in der Wahrnehmung zum "Bergauf-Fließen" kippt. Es handelt sich um eine Täuschung des visuellen Bezugssystems, nicht um ein Versagen von Schwerkraft oder Magnetfeld. Der Graben war ursprünglich ein Bewässerungskanal der örtlichen Amis; erst nach dem Boom des Inlandstourismus in den 1980er-Jahren wurde er mit einer Gedenktafel als Sehenswürdigkeit inszeniert, und jüngst ist er als "nutzlosestes Ausflugsziel Taiwans" erneut zum Gesprächsthema geworden.
 
-In der taiwanesischen Ostküsten-Tourismuskarte ist der "Wasser-fließt-bergauf"-Kanal im Ort Dulan der Gemeinde Taitung unbestritten eine Spannung erzeugende Anwesenheit. Er ist sowohl ein "schlimmer" Touristenort in vielen Besucher-Meinungen als auch ein lebendiges Experimentierfeld für Geografie- und Psychologiewissenschaftler. Dieser nur wenige Dutzend Meter lange, weniger als halbe Meter breite Bewässerungskanal verbindet die Geschichte der ethnischen Gruppen mit einem "visuellen Fehlschluss", der durch das natürliche Gelände erzeugt wurde.
+Auf der touristischen Landkarte der taiwanischen Ostküste ist "Wasser fließt bergauf" im Dorf Dulan zweifellos ein Ort voller Spannung: für viele Besucher "das nutzloseste" Ausflugsziel überhaupt, zugleich einer der anschaulichsten Versuchsaufbauten für Geografie und Psychologie. Dieser nur einige Dutzend Meter lange, weniger als einen halben Meter breite Graben ist mit der Rodungsgeschichte einer ganzen Volksgruppe verknüpft – und mit einem "Sehfehler", den das Terrain zufällig für unser Wahrnehmungssystem konstruiert hat.
 
-## Geografie und geologischer Hintergrund
+## Geografisches Umfeld und geologischer Hintergrund
 
-Der "Wasser-fließt-bergauf"-Kanal liegt am Fuße der Küstenberge, mit Blick auf den Pazifik. Die geologische Struktur dieser Region ist komplex und besteht hauptsächlich aus vulkanischen Kiesgesteins- und Blockgesteinsformationen. Der Dulan-Berg als höchster Gipfel der südlichen Küstenberge ist nicht nur der heilige Berg der Amis und Bemin, sondern seine dramatische Geländeunterschiede schaffen auch die vielfältigen Gefälle dieser Region.
+"Wasser fließt bergauf" liegt am östlichen Fuß des Küstengebirges, mit Blick auf den Pazifik. Die Geologie der Region ist komplex und besteht hauptsächlich aus vulkanischen Brekzien und Agglomeraten. Der Berg Dulan, höchster Gipfel im südlichen Küstengebirge, ist der heilige Berg der Amis und der Puyuma; seine starken Geländeschwankungen prägten zugleich die wechselhaften Gefälleverhältnisse der Umgebung.
 
-Die lokale Erdoberfläche ist von großen Steinen übersät, die durch Landgewinnung ausgegraben wurden – dies erklärt auch den Namen des Ortes "Atolan" (Dulan), was "Steinhaufen" bedeutet. Auf diesem zersplitterten und unebene Gelände war die Leitung von Wasser eine äußerst herausfordernde Ingenieurleistung. Diese besonderen geografischen Bedingungen boten die natürliche Bühne für die spätere Entstehung des "Gefälle-Illusion"-Phänomens[^1]。
+Der Boden ist übersät mit Steinen, die beim Roden ausgegraben wurden – daher der alte Name des Dorfes, "Atolan" ("Ort der aufgeschichteten Steine"). Auf diesem zerklüfteten, unregelmäßigen Gelände war die Wasserführung eine technische Herausforderung. Genau diese Bedingungen bereiteten später die Bühne für die "Hangneigungs-Täuschung"[^1].
 
-## Überlebungstechnik der Amis: Die Herkunft eines Bewässerungskanals
+## Die Überlebenstechnik der Amis: Herkunft eines Bewässerungsgrabens
 
-Obwohl es heute als Touristenattraktion wahrgenackt wird, war dieser in der Region als "Dulan-Kanal Nummer 4" bekannte Kanal ursprünglich ein Bewässerungskanal der Amis im Dulan-Dorf[^2]。Der lokale Ortsname "Atolan" (Dulan) bedeutet wörtlich "Steinhaufen", und die Landgewinner mussten lernen, wie man Wasser von den Bergen am Fuße des Dulan-Berges zu den Feldern leitet. In einer Zeit ohne moderne Messgeräte stützten die Einheimischen auf ihre langjährige Beobachtung des Geländes und leiteten das Wasser nach dem Schwerefeld nach unten. Der Kanal musste mit einem extrem flachen Gefälle gebaut werden – zu steil würde das Wasser die Dämmer zerstören, zu flach würde es sich mit Schlamm füllen. Diese Anforderung an einen "mikroskopisch kleinen Gefälle" war die physikalische Grundlage, die später für visuelle Illusionen herangezogen wurde. Die genauen Daten und Details der Errichtung sind noch nicht durch verlässliche historische Quellen belegt, und die aktuelle Herkunftstheorie stützt sich hauptsächlich auf mündliche Überlieferungen und Reiseführer, was weitere Bestätigung durch lokale Geschichte oder mündliche Geschichte erfordert。
+Was Besucher heute als Kuriosität sehen, war ursprünglich ein Bewässerungswerk der Amis im Dorf Dulan, lokal auch "Vierter Dulan-Kanal" genannt[^2]. Wer auf einem geröllübersäten Hang Reis und Trockenfeldfrüchte anbauen wollte, musste zunächst lösen, wie man das Wasser vom Fuß des Dulan-Bergs zu den Feldern führt. Ohne moderne Messgeräte verließen sich die Bewohner auf über Generationen gesammelte Geländebeobachtung und leiteten das Wasser der Schwerkraft folgend bergab. Das Gefälle musste extrem sanft bleiben: zu steil, und die Strömung reißt die Erddämme weg; zu flach, und das Wasser staut sich. Genau dieser strenge Anspruch an ein winziges Gefälle ist die physikalische Grundlage dafür, dass der Graben später zum Lehrbeispiel für optische Täuschungen wurde. Grabungsdatum und technische Details sind bisher nicht durch überprüfbare Quellen belegt; die Herkunftsgeschichte stützt sich vor allem auf mündliche Überlieferung und touristische Texte und wartet auf weitere Klärung durch Lokalchroniken oder Oral-History-Forschung.
 
-📝 Notiz der Kuratorin: Was heute die Besucher als "Wunder" betrachten, war ursprünglich nur ein Weg, den die Vorfahren mit einer Schaufel nach dem anderen ausgegraben haben, um in einem steinigen Terrain zu überleben。
+📝 Kuratorennotiz: Was Besucher heute als "Wunder" bezeichnen, war ursprünglich nur ein Wasserweg, den die Vorfahren Spatenstich für Spatenstich aus dem steinigen Boden gruben, um dort überhaupt überleben zu können.
 
-## Das Verrat des Gehirns: Die psychologische Mechanismik der Gefälle-Illusion
+## Der Verrat des Gehirns: Der Mechanismus der Hangneigungs-Täuschung
 
-Das "Wasser-fließt-bergauf"-Phänomen wird in der Psychologie als "Gefälle-Illusion" (Slope Illusion) bezeichnet und ist eine typische Wahrnehmungsverzerrung. Bei der menschlichen Einschätzung von "horizontal" und "vertikal" spielt das vestibuläre System im Ohr nur eine Rolle – die visuellen Umweltbedingungen, die als "Referenzrahmen" dienen, haben ein stärkeres Gewicht.
+Das Phänomen wird in der Psychologie als "Hangneigungs-Täuschung" (The Slope Illusion) bezeichnet, eine klassische Wahrnehmungsverzerrung. Beurteilt das Gehirn, was "horizontal" und was "vertikal" ist, liefert das Vestibularorgan im Innenohr nur einen von mehreren Hinweisen – der visuelle Kontext wiegt oft deutlich schwerer.
 
-Eine wissenschaftliche Studie des Mittelschulen in Taitung, Pohsuan, hat die örtlichen Gegebenheiten gemessen: Der Kanal selbst hat ein Gefälle von etwa 0,5 bis 0,6 Grad, während die angrenzende Straße deutliccher geneigt ist, gemessen mit 3 bis 5 Grad[^3]。Wenn Besucher neben der Straße stehen, wird das Gehirn automatisch die steilere Straße als horizontale Referenzierung wählen. Unter dieser visuellen Beeinflussung wird der flachere Kanal fälschlicherweise als "bergauf fließend" interpretiert。
+Eine Schülerforschungsarbeit der Baosang-Mittelschule im Landkreis Taitung hat den Ort ausgemessen: Der Graben fällt um etwa 0,5 bis 0,6 Grad; die angrenzende Straße hat mit 3 bis 5 Grad ein deutlich stärkeres Gefälle[^3]. Steht ein Besucher neben der Straße, nimmt das Gehirn unbewusst die stärker geneigte Straße als horizontale Referenz. Unter diesem Hinweis kippt der Eindruck des schwächer geneigten Grabens – und wird zum "Bergauf".
 
-Dieses Phänomen enthüllt die "Referenzabhängigkeit" des visuellen Systems. Wenn die Hintergrundinformationen in der Umgebung zu dominant sind, wird das Gehirn visuelle Informationen priorisieren und dabei die wahre Wahrnehmung der Schwerkraft unterdrücken. Deshalb fühlt sich das Gehirn auch trotz rationaler Erkenntnis, dass das Wasser tatsächlich nach unten fließt, weiterhin "bergauf fließend" zu interpretieren[^4]。
+Dieses Phänomen zeigt die "Bezugsrahmen-Abhängigkeit" des visuellen Systems: Sind die Hintergrundhinweise zu stark, vertraut das Gehirn vorrangig der visuellen Information und unterdrückt die körperliche Wahrnehmung der Schwerkraft. Deshalb senden unsere Augen weiterhin die Botschaft "fließt bergauf", selbst wenn wir längst wissen, dass Wasser bergab fließt[^4].
 
-## Von landwirtschaftlicher Einrichtung zur nationalen Sehenswürdigkeit
+## Vom landwirtschaftlichen Bauwerk zur bekannten Sehenswürdigkeit
 
-Wie wurde dieser Kanal zu einer landesweit bekannten Sehenswürdigkeit? Der entscheidende Moment war die Innenreise-Boomphase der 1980er Jahre, als die taiwanesische Wirtschaft rapide wuchs.
+Wie wurde aus dem Bewässerungskanal eine landesweit bekannte Sehenswürdigkeit? Der Schlüssel liegt im Boom des Inlandstourismus nach dem taiwanischen Wirtschaftswunder der 1980er-Jahre.
 
-Die Verwaltung des Ostküsten-Nationalparks erkannte schnell das "intuitiv falsche" Potenzial dieses Ortes und errichtete einen Steinpfahl mit der Aufschrift "Wunder" neben dem Kanal. Diese offizielle Definition und Benennung verlieh dem Ort einen geheimnisvollen Charakter und hob ihn von einer einfachen landwischen Einrichtung zu einem unverzichtbaren Ziel für Touristen hervor. In einer Ära, in der Informationen noch nicht transparent waren, verbreiteten Gerüchte über "magnetische Anomalien" oder "Schwerkigkeitsstörungen" den Ort noch weiter in Legenden[^5]。
+Die damalige Verwaltungsbehörde für die Ostküsten-Landschaftszone erkannte die "kontraintuitive" Eigenart der Landschaft und stellte neben dem Graben eine Gedenktafel mit der Inschrift "Wunder" auf. Diese amtliche Deutung verlieh dem Ort eine geheimnisvolle Note und ließ ihn von einer landwirtschaftlichen Anlage zu einem Pflichthalt des Massentourismus aufsteigen. In einer Zeit weniger transparenter Information verstärkten Gerüchte über "magnetische Anomalien" oder "das Versagen der Erdanziehungskraft" die Legendenbildung zusätzlich[^5].
 
-## Reflexion der modernen Tourismus: Ästhetik der "schlechten" Sehenswürdigkeiten und echte Erfahrung
+## Zeitgenössischer Tourismus: Die Ästhetik der "nutzlosen Sehenswürdigkeit"
 
-Mit der Entwicklung sozialer Medien und der Verbreitung von Wissen haben sich die öffentlichen Meinungen über den "Wasser-fließt-bergauf"-Kanal in letzter Zeit stark gewandelt. Auf Plattformen wie Threads und PTT wird der Ort häufig als "schlimmster Touristenort Taiwans" genannt。
+Mit sozialen Netzwerken und demokratisiertem Wissen hat "Wasser fließt bergauf" zuletzt einen interessanten Meinungswandel erlebt: Auf Threads und PTT landet der Ort oft ganz oben auf der Liste "Taiwans nutzloseste Sehenswürdigkeiten".
 
-Dieser Wandel der Meinung spiegelt die Veränderung der modernen Besucher-Erwartungen an "Wunder" wider. Wenn das Geheimnis aufgehoben ist und nur noch ein Kanal übrig bleibt, fühlen sich einige Besucher enttäuscht. Eine andere Sichtweise jedoch hält diese "Enttäuschung" für eine wertvolle Reise-Erfahrung – sie zwingt uns, die Grenzen unserer Wahrnehmung zu erkennen und die Kluft zwischen touristischer Inszenierung und der wahren Landschaft zu betrachten. Diese "Ästhetik der schlechten Sehenswürdigkeiten" wird zunehmend zu einem neuen kulturellen Label und zieht Gruppen an, die auf der Suche nach nicht-typischen Reise-Erlebnissen sind[^6]。
+Dieser Wandel spiegelt eine veränderte Vorstellung von "Wunder" wider. Verschwindet das Geheimnisvolle und bleibt nur ein Graben übrig, sind manche Besucher enttäuscht. Andere sehen genau in diesem Enttäuschungsgefühl eine wertvolle Reiseerfahrung – es zwingt zur Einsicht in die Grenzen unserer Wahrnehmung und zum Nachdenken über die Kluft zwischen touristischer Inszenierung und tatsächlicher Landschaft. Diese "Ästhetik der nutzlosen Sehenswürdigkeit" wird zunehmend zu einem kulturellen Etikett, das Menschen auf der Suche nach untypischen Reiseerfahrungen anzieht[^6].
 
-## Umweltschutz und lokale Gemeinschaft
+## Umweltschutz und das Gemeinwohl vor Ort
 
-In letzter Zeit hat auch die Debatte über Landentwicklungen in der Umgebung des "Wasser-fließt-bergauf"-Kanals Aufmerksamkeit erregt. Da der Ort in der Nähe von Jiufen und dem Dulan-Dorf liegt, hat ein groß angelegtes Resort-Entwicklungsplan die Bedenken hinsichtlich der lokalen Ökologie und der traditionellen Lebensräume der indigenen Völker hervorgerufen. Dies erinnert uns daran, dass während wir die visuelle Magie genießen, die wahre Bedeutung dieses Ortes als Träger kultureller Identität der ethnischen Gruppen nicht übersehen sollten。
+Zuletzt haben auch Kontroversen um die Landerschließung rund um "Wasser fließt bergauf" gesellschaftliche Aufmerksamkeit auf sich gezogen. Da der Ort nahe der Bucht Jiamuzi und dem Dorf Dulan liegt, lösten Pläne für große Ferienanlagen wiederholt Diskussionen über Bedrohungen für die lokale Ökologie und das traditionelle Gebiet der indigenen Bevölkerung aus. Das erinnert daran: Während wir diesen visuellen Trick bewundern, sollten wir das Gewicht dieses Bodens als Träger einer Volksgruppenkultur nicht übersehen.
 
-Das, was unser Auge als "horizontal" interpretiert, ist das Ergebnis einer Verhandlung zwischen unserem Gehirn und der Umgebung – und hat nichts mit dem ursprünglichen Grund zu tun, warum dieser Kanal angelegt wurde。
+Was das Auge als "horizontal" wahrnimmt, ist das Ergebnis einer Verhandlung zwischen Gehirn und Umgebung – und hat mit dem ursprünglichen Grund, warum dieser Kanal überhaupt gegraben wurde, eigentlich nichts zu tun.
 
-**Weiterführende Literatur**: Taitung County · [Kultur-Karte der 16 taiwanesischen indigenen Völker](/de/culture/indigenous-peoples-16-tribes-cultural-map/) · [Geografie und Geologie der taiwanesischen Insel](/de/geography/geography-and-geology/)
+**Weiterführende Lektüre**: Landkreis Taitung (台東縣) · [[台灣原住民族16族文化地圖|Kulturkarte der 16 indigenen Völker Taiwans]] · [[台灣島嶼地理特色與形成|Geografische Besonderheiten und Entstehung der taiwanischen Insel]]
 
-## Referenzen
+## Quellen
 
-[^1]: [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263332](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263332) — Nationales Kulturerbe-Speichersystem. (o.J.). Dulan-Dorf
+[^1]: National Cultural Memory Bank. (o. J.). Dulan-Dorf. [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263332](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=263332)
 
-[^2]: [https://m.facebook.com/gorillaboss168/photos/a.1319712798093306/3077228615675040/](https://m.facebook.com/gorillaboss168/photos/a.1319712798093306/3077228615675040/) — Tianlang Reisen. (2020, 24. Februar). Historische Untersuchung des Dulan-Kanals Nummer 4
+[^2]: Tianlang Travel. (2020, 24. Februar). Historische Untersuchung des Vierten Dulan-Kanals. [https://m.facebook.com/gorillaboss168/photos/a.1319712798093306/3077228615675040/](https://m.facebook.com/gorillaboss168/photos/a.1319712798093306/3077228615675040/)
 
-[^3]: [https://w01.boe.ttct.edu.tw/science/files/B04%E7%9C%BC%E8%A6%8B%E4%B8%8D%E7%82%BA%E6%86%91-%E5%8F%B0%E6%9D%B1%E6%B0%B4%E5%BE%80%E4%B8%8A%E6%B5%81%E8%A6%96%E9%8C%AF%E8%A6%BA%E7%8F%BE%E8%B1%A1%E6%8E%A2%E8%A8%8E.pdf](https://w01.boe.ttct.edu.tw/science/files/B04%E7%9C%BC%E8%A6%8B%E4%B8%8D%E7%82%BA%E6%86%91-%E5%8F%B0%E6%9D%B1%E6%B0%B4%E5%BE%80%E4%B8%8A%E6%B5%81%E8%A6%96%E9%8C%AF%E8%A6%BA%E7%8F%BE%E8%B1%A1%E6%8E%A2%E8%A8%8E.pdf) — Mittelschule Pohsuan, Taitung. (2019). Untersuchung des "Wasser-fließt-bergauf"-Visus-Illusion-Phänomens: Wissenschaftlicher Bericht für den Wettbewerb
+[^3]: Baosang-Mittelschule, Landkreis Taitung. (2019). Untersuchung des Phänomens "Wasser fließt bergauf" als optische Täuschung: Forschungsbericht für den Wissenschaftswettbewerb. [https://w01.boe.ttct.edu.tw/science/files/B04%E7%9C%BC%E8%A6%8B%E4%B8%8D%E7%82%BA%E6%86%91-%E5%8F%B0%E6%9D%B1%E6%B0%B4%E5%BE%80%E4%B8%8A%E6%B5%81%E8%A6%96%E9%8C%AF%E8%A6%BA%E7%8F%BE%E8%B1%A1%E6%8E%A2%E8%A8%8E.pdf](https://w01.boe.ttct.edu.tw/science/files/B04%E7%9C%BC%E8%A6%8B%E4%B8%8D%E7%82%BA%E6%86%91-%E5%8F%B0%E6%9D%B1%E6%B0%B4%E5%BE%80%E4%B8%8A%E6%B5%81%E8%A6%96%E9%8C%AF%E8%A6%BA%E7%8F%BE%E8%B1%A1%E6%8E%A2%E8%A8%8E.pdf)
 
-[^4]: [https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=1278](https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=1278) — Tang Rixin. (2004). Trennung von Wahrnehmung und Verhalten in der visuellen Illusion-Forschung. Fortschritte der psychologischen Wissenschaft
+[^4]: Tang, Rixin. (2004). Die Trennung von Wahrnehmung und Verhalten als Nachweis in der Erforschung optischer Täuschungen. Advances in Psychological Science. [https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=1278](https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=1278)
 
-[^5]: [https://www.eastcoast-nsa.gov.tw/zh-tw/attractions/detail/33/](https://www.eastcoast-nsa.gov.tw/zh-tw/attractions/detail/33/) — Verwaltung des Ostküsten-Nationalparks. (o.J.). Vorstellung des "Wasser-fließt-bergauf"-Kanus
+[^5]: Verwaltungsbehörde des East Coast National Scenic Area. (o. J.). Vorstellung der Sehenswürdigkeit "Wasser fließt bergauf". [https://www.eastcoast-nsa.gov.tw/zh-tw/attractions/detail/33/](https://www.eastcoast-nsa.gov.tw/zh-tw/attractions/detail/33/)
 
-[^6]: [https://www.threads.com/@1319travel/post/DZ_aTBqE5PZ/](https://www.threads.com/@1319travel/post/DZ_aTBqE5PZ/) — Threads. (2026, 24. Juni). Moderne Kommentare und Debatten über "Wasser-fließt-bergauf"
+[^6]: Threads. (2026, 24. Juni). Zeitgenössische Kommentare zu "Wasser fließt bergauf" und die Diskussion um nutzlose Sehenswürdigkeiten. [https://www.threads.com/@1319travel/post/DZ_aTBqE5PZ/](https://www.threads.com/@1319travel/post/DZ_aTBqE5PZ/)
