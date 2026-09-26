@@ -1,17 +1,17 @@
 ---
-title: 'Kebun Binatang dan Etika Hewan Pameran'
-description: 'Dari gajah di kandang besi hingga dinding ubur-ubur Xpark—Taiwan sedang mendefinisikan ulang hubungan manusia dengan hewan yang dipamerkan'
+title: 'Etika Kebun Binatang dan Hewan Pertunjukan'
+description: 'Dari gajah dalam kandang besi hingga dinding ubur-ubur di Xpark—Taiwan mendefinisikan ulang hubungan antara manusia dan hewan yang dipamerkan'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Kebun Binatang',
-    'Hewan Pameran',
-    'Kesejahteraan Hewan',
+    'kebun binatang',
+    'hewan pertunjukan',
+    'kesejahteraan hewan',
     'Xpark',
-    'Kebun Binatang Taipei',
-    'Etika Hewan',
-    'Kebun Binatang Hsinchu',
+    'kebun binatang Taipei',
+    'etika hewan',
+    'kebun binatang Hsinchu',
   ]
 subcategory: '動物與倫理'
 author: 'Taiwan.md Contributors'
@@ -20,186 +20,185 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Society/動物園與展演動物倫理.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:942c806351e32e6f'
-sourceBodyHash: 'sha256:d25050b0162be631'
-translatedAt: '2026-08-06T18:32:28+08:00'
+sourceCommitSha: '8a8596298'
+sourceContentHash: 'sha256:0ca0048f5fb189e0'
+sourceBodyHash: 'sha256:2b440f6d5e5bb010'
+translatedAt: '2026-09-26T19:13:16+08:00'
 ---
 
-# Kebun Binatang dan Etika Hewan Pameran
+# Etika Kebun Binatang dan Hewan Pertunjukan
 
-_Dari gajah di kandang besi hingga dinding ubur-ubur Xpark, Taiwan sedang mendefinisikan ulang hubungan manusia dengan hewan yang dipamerkan_
+_Dari gajah dalam kandang besi hingga dinding ubur-ubur di Xpark, Taiwan mendefinisikan ulang hubungan antara manusia dan hewan yang dipamerkan_
 
-## 30 Detik Tinjauan Cepat
+## Tinjauan Singkat
 
-Kebun binatang Taiwan sedang mengalami revolusi pemikiran terbesar dalam seratus tahun terakhir. Mulai dari pameran kandang besi di Kebun Binatang Maruyama (圓山動物園) masa pendudukan Jepang, hingga pembaruan terobosan Kebun Binatang Hsinchu yang "tanpa kandang" pada 2019, serta pembukaan Xpark pada 2020 yang memicu perdebatan besar soal kesejahteraan hewan—semua ini memaksa kita memikirkan ulang keabsahan dari "mengurung hewan untuk dilihat orang" itu sendiri.
+Kebun binatang di Taiwan sedang mengalami revolusi pemikiran terbesar dalam seratus tahun. Mulai dari pameran kandang besi di Kebun Binatang Yuanshan pada masa pemerintahan Jepang, transformasi inovatif "tanpa kandang" di Kebun Binatang Hsinchu pada tahun 2019, hingga perdebatan besar mengenai kesejahteraan hewan yang dipicu oleh pembukaan Xpark pada tahun 2020, semua ini memaksa kita untuk mempertanyakan rasionalitas dari praktik "mengurung hewan untuk dilihat manusia".
 
-Transformasi ini mencakup pembaruan seluruh sistem nilai masyarakat. Mulai dari hilangnya macan lompat lingkaran api di sirkus, hingga kontroversi kafe hewan peliharaan di media sosial, orang Taiwan mulai bertanya: "Kebahagiaan hewan, siapa yang menentukannya?"
+Transformasi ini mencakup pembaruan nilai-nilai sosial secara keseluruhan. Mulai dari hilangnya harimau sirkus yang melakukan atraksi api, hingga kontroversi kafe hewan peliharaan di media sosial, masyarakat Taiwan mulai bertanya: "Siapa yang berhak menentukan kebahagiaan hewan?"
 
-Pelaksanaan _Peraturan Pengelolaan Hewan Pameran_ (動物展演管理辦法) pada 2017, serta kedaluwarsa izin pameran cetacea pada 2026—serangkaian titik balik kebijakan ini menurunkan perdebatan dari filsafat moral ke keputusan hukum nyata.
+Serangkaian titik balik institusional—seperti penetapan _Manajemen Aturan Pertunjukan Hewan_ oleh Taiwan pada tahun 2016 dan kedaluwarsa izin pertunjukan mamalia laut pada tahun 2026—telah mengubah perdebatan ini dari filsafat moral menjadi keputusan hukum yang nyata.
 
 ## Mengapa Ini Penting
 
-Di sebuah pulau yang semakin terurbanisasi, kebun binatang mungkin menjadi satu-satunya tempat bagi mayoritas orang untuk berinteraksi dengan satwa liar. Namun ketika pendidikan konservasi bertentangan dengan kesejahteraan hewan, ketika kepentingan komersial tarik-menarik dengan prinsip etika, bagaimana kita menemukan keseimbangan di antara "mengenalkan hewan kepada manusia" dan "membiarkan hewan hidup dengan baik"?
+Di sebuah pulau yang semakin urban, kebun binatang mungkin merupakan satu-satunya tempat bagi banyak orang untuk berinteraksi dengan satwa liar. Namun, ketika pendidikan konservasi bertabrakan dengan kesejahteraan hewan, dan kepentingan komersial tarik-menarik dengan prinsip etika, bagaimana kita menemukan keseimbangan antara "membuat manusia mengenal hewan" dan "membiarkan hewan hidup bahagia"?
 
-Pertanyaan ini tidak memiliki jawaban baku, namun proses eksplorasi Taiwan memantulkan bagaimana sebuah masyarakat mendefinisikan ulang hubungan manusia-hewan, dan mendefinisikan ulang diri kita sendiri.
+Masalah ini tidak memiliki jawaban standar, tetapi proses eksplorasi yang dilakukan Taiwan mencerminkan bagaimana sebuah masyarakat mendefinisikan ulang hubungan antara manusia dan hewan, sekaligus mendefinisikan ulang diri mereka sendiri.
 
-Dari penetapan regulasi hingga kontroversi di media sosial, kecepatan perubahan sikap Taiwan terhadap hewan pameran relatif langka di wilayah Asia.
+Kecepatan perubahan sikap Taiwan terhadap hewan pertunjukan—dari pembuatan peraturan hingga kontroversi media sosial—relatif jarang di kawasan Asia.
 
 ## Dari Kandang Besi ke Hutan: Evolusi Seratus Tahun Kebun Binatang Taipei
 
-Pada 1914, pemerintah kolonial Jepang mendirikan "Kebun Binatang Taipei" di Maruyama (圓山). Saat itu falsafah pamerannya sederhana: mengurung binatang langka di kandang, agar orang-orang terkesima. Lantai beton, pagar besi, ruang sempit—hewan adalah barang pameran, bukan individu hidup.
+Pada tahun 1914, pemerintah kolonial Jepang mendirikan "Kebun Binatang Taipei" di Yuanshan. Filosofi pameran pada masa itu sangat sederhana: mengurung hewan eksotis dalam kandang agar manusia terpesona. Lantai semen, pagar besi, dan ruang sempit menjadikan hewan sebagai objek pajangan, bukan individu hidup.
 
-Pada 1986 kebun binatang pindah ke Muzha (木柵), ruang lebih luas, pemikiran pun mulai berubah. Pengayaan lingkungan, pelatihan perilaku, pemuliaan konservasi—Kebun Binatang Kota Taipei mulai berusaha agar hewan hidup lebih seperti hewan.
+Pada tahun 1986, kebun binatang pindah ke Muzha, memperluas area, dan juga mengubah pola pikir. Dengan pengayaan lingkungan, pelatihan perilaku, dan pembiakan konservasi, Kebun Binatang Kota Taipei mulai mencoba membuat hewan hidup lebih seperti hewan.
 
-**Efek Yuan Zai (圓仔效應)** mengubah segalanya. Pada 2013, bayi panda raksasa Yuan Zai lahir, seluruh Taiwan gila, puluhan ribu orang banjir ke kebun binatang setiap hari. Namun aura bintang Yuan Zai juga membawa refleksi: apakah kita mencintai hewan itu sendiri, atau hiburan yang dibawanya?
+**Efek Yuanzai** mengubah segalanya. Pada tahun 2013, bayi panda raksasa Yuanzai lahir, mengguncang seluruh Taiwan; puluhan ribu orang berbondong-bondong mengunjungi kebun binatang setiap hari. Namun, sorotan bintang Yuanzai juga memicu refleksi: apakah kita mencintai hewan itu sendiri, atau hiburan yang dibawanya?
 
-Kisah Tuan Tuan dan Yuan Yuan (團團圓圓) lebih kompleks. Pasangan panda ini adalah hadiah diplomatik dari Tiongkok, memikul simbol politik. Ketika Tuan Tuan meninggal dunia pada 2022, orang Taiwan berduka atas seekor hewan, sekaligus atas segmen sejarah. Namun di balik kehangatan, selalu ada pertanyaan tajam: apakah wajar menjadikan hewan sebagai alat tarik diplomatik?
+Kisah Tuan Tuan (Tuan Tuan) lebih kompleks. Hewan ini adalah hadiah diplomatik dari Tiongkok kepada Taiwan, membawa simbolisme politik. Ketika Tuan Tuan meninggal pada tahun 2022, masyarakat Taiwan berduka bukan hanya untuk seekor hewan, tetapi juga untuk sebuah sejarah. Namun, di balik kehangatan itu, selalu ada pertanyaan tajam: apakah pantas memperlakukan hewan sebagai alat tawar-menawar diplomatik?
 
 ## Revolusi Tanpa Kandang: Transformasi Kebun Binatang Hsinchu
 
-Desember 2019, Kebun Binatang Hsinchu dibuka kembali, mengklaim diri sebagai "kebun binatang tanpa kandang". Pembaruan ini dalam dimensi filsafat sama mendalamnya. [^1]
+Pada Desember 2019, Kebun Binatang Hsinchu dibuka kembali, mendeklarasikan dirinya sebagai "kebun binatang tanpa kandang". Transformasi ini juga mendalam secara filosofis. [^1]
 
-Kepala kebun binatang Yang Chia-min (楊家民) berkata dengan lugas: "Hewan adalah penghuni, bukan barang pameran." Semua desain bermula dari kebutuhan hewan: kuda nil memiliki kolam dalam untuk menyelam, tapir Melayu memiliki lumpur untuk berguling, harimau Bengal memiliki hutan untuk bersembunyi.
+Pendiri kebun binatang, Yang Jiamin, berpendapat bahwa hewan seharusnya bukan alat hiburan. Semua desain berangkat dari kebutuhan hewan: kuda nil memiliki kolam dalam untuk berenang, tapir Malayan memiliki lumpur untuk berguling, dan harimau Bengal memiliki hutan kecil tempat berlindung.
 
-Lebih radikal lagi, Kebun Binatang Hsinchu tidak lagi mengejar keanekaragaman spesies. Memperringkas jenis spesies, fokus pada pameran ramah spesies lokal, hanya mempertahankan yang benar-benar bisa hidup baik di lingkungan existing. "Kami bukan Kapal Nabi Nuh," kata Yang Chia-min, "Kami adalah rumah hewan."
+Yang lebih radikal adalah Kebun Binatang Hsinchu tidak lagi mengejar keragaman spesies. Mereka menyederhanakan jenis spesies, fokus pada pameran yang ramah terhadap spesies lokal, hanya mempertahankan apa yang benar-benar dapat hidup dengan baik di lingkungan yang ada.
 
-Transformasi ini tidak sempurna. Pengkritik bilang, ruang masih terlalu sempit, hewan tetap terkurung. Namun makna Kebun Binatang Hsinchu terletak pada: ia membuktikan Taiwan mampu melompat keluar kerangka tradisional, membayangkan ulang hubungan manusia-hewan.
+Transformasi ini tidak sempurna. Para kritikus mengatakan bahwa ruangnya masih terlalu kecil dan hewan masih terpenjara. Namun, makna Kebun Binatang Hsinchu adalah ia membuktikan bahwa Taiwan mampu keluar dari kerangka tradisional dan membayangkan ulang hubungan antara manusia dan hewan.
 
-## Badai Xpark: Ujian Etika Akuarium Perkotaan
+## Badai Xpark: Ujian Etika Akuarium Kota
 
-Agustus 2020, akuarium perkotaan bergaya Jepang Xpark dibuka di Hua Tai Premium Outlet (華泰名品城) Taoyuan. Cahaya bayangan memukau, desain avant-garde, pembukaan langsung memicu diskusi kesejahteraan hewan. Namun di balik keindahan, tersembunyi lubang hitam kesejahteraan hewan.
+Pada Agustus 2020, akuarium kota bergaya Jepang, Xpark, dibuka di WaTai Place Taoyuan. Dengan cahaya yang gemerlap dan desain futuristik, pembukaan ini langsung memicu perdebatan kesejahteraan hewan. Namun, di balik keindahan itu, tersembunyi lubang hitam dalam kesejahteraan hewan.
 
-Kurang dari setahun, masalah meledak beruntun:
+Kurang dari setahun setelah dibuka, masalah demi masalah muncul:
 
-- **Pari timbul luka**, diduga akibat ruang terlalu sempit menimbulkan tabrakan
-- **Perilaku pinguin abnormal**, berenang berulang di ruang sempit
-- **Sinar terang terlalu kuat** mengganggu ritme biologis hewan noctural
-- **Kebisingan berlebih**, hewan laut menanggung stres di tengah keramaian kerumunan
+- **Luka pada pari**, diduga akibat tabrakan karena ruang yang terlalu sempit
+- **Perilaku penguin abnormal**, berenang berulang kali di ruang terbatas
+- **Pencahayaan kuat** memengaruhi jam biologis hewan nokturnal
+- **Kebisingan berlebihan**, hewan laut mengalami tekanan di tengah keramaian manusia
 
-Investigasi mendalam media Wowo (窩窩媒體) memicu diskusi publik. [^2] Pendukung bilang Xpark membawa pendidikan konservasi, pengkritik mempertanyakan apakah ini "penyalahgunaan hewan dikemas jadi hiburan".
+Investigasi mendalam oleh media Wowa [^2] memicu diskusi publik. Pendukung mengatakan Xpark membawa pendidikan konservasi, sementara para kritikus mempertanyakan apakah ini adalah "kekejaman hewan yang dibungkus sebagai hiburan".
 
-Inti kontroversi Xpark terletak pada: **apakah model bisnis akuarium perkotaan itu sendiri sesuai dengan kesejahteraan hewan?** Ketika nilai hiburan bertentangan dengan kesejahteraan hewan, pihak mana yang harus kita pilih?
+Inti kontroversi Xpark terletak pada: **apakah model bisnis akuarium kota itu sendiri sesuai dengan kesejahteraan hewan?** Ketika nilai hiburan bertabrakan dengan kesejahteraan hewan, pilihan mana yang harus kita ambil?
 
-Perdebatan ini belum berakhir hingga kini, namun sudah mengubah kesadaran masyarakat Taiwan terhadap hewan pameran.
+Perdebatan ini belum berakhir, tetapi telah mengubah persepsi masyarakat Taiwan terhadap hewan pertunjukan.
 
-## Sirkus yang Hilang: Senja Pameran Hewan
+## Hilangnya Sirkus: Senja Pertunjukan Hewan
 
-Masih ingat macan lompat lingkaran api, monyet sepeda roda satu, lumba-lumba jongkok bola? Dulu ini pemandangan klasik sirkus Taiwan, kini hampir punah.
+Masih ingat harimau yang melakukan atraksi api, monyet yang bersepeda roda tunggal, atau anjing laut yang melempar bola? Pemandangan-pemandangan ini dulunya adalah klasik sirkus Taiwan, namun kini hampir punah.
 
-Era 1990-an, Sirkus Mulam (木蘭馬戲團), Sirkus Asia (亞洲馬戲团) turné ke seluruh Taiwan, pameran hewan jadi andalan. Namun seiring bangkitnya kesadaran hak hewan, pameran ini semakin dikritik: apakah proses pelatihannya kejam? Apakah hewan benar-benar "senang" tampil?
+Pada tahun 1990-an, sirkus Mulan dan Asia berkeliling di berbagai tempat di Taiwan, dengan pertunjukan hewan sebagai acara utama. Namun, seiring meningkatnya kesadaran hak hewan, pertunjukan ini semakin dipertanyakan: apakah proses pelatihannya kejam? Apakah hewan benar-benar "bahagia" saat tampil?
 
-Titik balik kunci adalah amandemen _UU Perlindungan Hewan_ (動物保護法) 2017, memperkuat regulasi hewan pameran. Meski tidak melarang total, prosedur pengajuan yang rumit dan standar pemeriksaan ketat membuat sirkus tradisional sulit bertahan.
+Titik balik penting adalah amandemen _Undang-Undang Perlindungan Hewan_ pada tahun 2018, yang memperketat regulasi terhadap hewan pertunjukan. Meskipun tidak dilarang sepenuhnya, prosedur permohonan yang rumit dan standar pemeriksaan yang ketat membuat sirkus tradisional sulit untuk bertahan.
 
-Penggantinya adalah sirkus tanpa hewan. Cirque du Soleil, FOCA Formosa Circus Art (福爾摩沙馬戲團) menggunakan tubuh dan kreativitas manusia menggantikan pameran hewan. Orang Taiwan menemukan, sirkus tanpa hewan sama menakjubkannya.
+Sebagai gantinya muncul sirkus tanpa hewan. Kelompok drama Taiyang dan Sirkus FOCA Formosa menggantikan pertunjukan hewan dengan anggota tubuh dan kreativitas manusia. Masyarakat Taiwan menemukan bahwa sirkus tanpa hewan sama menyenangkannya.
 
 ## Dilema Taman Laut
 
-Taman pameran laut Taiwan saat ini berdiri di persimpangan sejarah.
+Tempat pertunjukan laut di Taiwan berdiri di persimpangan sejarah.
 
-Taiwan saat ini hanya tersisa dua industri pameran cetacea: Taman Laut Yung-hsiung Hualien (花蓮遠雄海洋公園) (4 lumba-lumba hidung botol + 1 lumba-lumba bercorak) dan Taman Laut Yehliu New Taipei (新北野柳海洋世界) (10 lumba-lumba hidung botol). Izin pameran keduanya akan **kedaluwarsa pada 2026**. Mundur hitung "pameran lumba-lumba akan menjadi sejarah" telah dimulai.
+Saat ini, hanya ada dua operator pertunjukan mamalia laut di Taiwan: Far Eastern Ocean Park Hualien (4 lumba-lumba pilton + 1 lumba-lumba spotted) dan Wild Life Marine World New Taipei (10 lumba-lumba pilton). Izin pertunjukan kedua tempat tersebut akan **kedaluwarsa pada tahun 2026**. Hitungan mundur "pertunjukan lumba-lumba memasuki sejarah" telah dimulai.
 
-Juli 2024, Kementerian Pertanian (農業部) mengumumkan versi baru _Peraturan Pengelolaan Hewan Pameran_, secara resmi memasukkan pameran cetacea ke dalam pengelolaan. [^3] Otoritas Konservasi Laut (海保署) juga membentuk "**Kelompok Pendampingan Transformasi Pameran Cetacea**", melibatkan akademisi, organisasi masyarakat sipil, dan pemerintah daerah, arah utamanya jelas: menghapuskan pameran hiburan bertahap, beralih ke model pameran edukasi.
+Pada Juli 2024, Kementerian Pertanian mengumumkan _Amandemen Manajemen Aturan Pertunjukan Hewan_ yang baru, secara resmi memasukkan pertunjukan mamalia laut ke dalam manajemen. [^3] Badan Perlindungan Satwa Liar juga membentuk "Kelompok Pendampingan Transisi Pertunjukan Mamalia Laut", melibatkan akademisi, kelompok masyarakat sipil, dan pemerintah daerah, dengan arah inti yang jelas: secara bertahap mengeliminasi pertunjukan hiburan dan beralih ke model pameran edukatif.
 
-Respons Yung-hsiung adalah transformasi jadi "**Basis Suaka Lumba-lumba**": tidak lagi tampil, tapi juga tidak dilepaskan liar (lumba-lumba yang dikurung bertahun-tahun sudah tak bisa kembali ke laut), melainkan dengan cara pameran edukasi agar masyarakat mengenal lumba-lumba. Pihak kebun binatang menegaskan: "Lumba-lumba tidak akan hilang, masyarakat tetap bisa melihat mereka."
+Far Eastern merespons dengan bertransformasi menjadi "Pusat Perlindungan Lumba-lumba": mereka tidak lagi tampil, tetapi juga tidak dilepasliarkan (lumba-lumba yang dipelihara selama bertahun-tahun tidak dapat kembali ke laut), melainkan memperkenalkan lumba-lumba kepada publik melalui pameran edukatif. Pihak taman menekankan: "Lumba-lumba tidak akan hilang; masyarakat masih bisa melihat mereka."
 
-Tapi sisi Yehliu meledak. 2024, Taman Laut Yehliu di lingkungan kurung **memuliakan bayi lumba-lumba**, langsung menabrak konsensus sosial "mundur bertahap". Kritikan organisasi perlindungan hewan sangat tajam: **di era masyarakat sudah mulai menolak pameran lumba-lumba, terus membiarkan lumba-lumba melahirkan keturunan di kolam, bukankah itu membuat lebih banyak lumba-lumba sejak lahir sudah ditakdirkan hidup di kandang?**
+Namun, Wild Life mengalami masalah besar. Pada tahun 2024, Wild Life **melahirkan bayi lumba-lumba** dalam lingkungan penangkaran, yang langsung bertabrakan dengan konsensus sosial untuk "penarikan bertahap". Pertanyaan dari kelompok advokasi hewan sangat tajam: **di era ketika masyarakat sudah mulai menentang pertunjukan lumba-lumba, bukankah membiarkan lumba-lumba melahirkan keturunan di kolam berarti mengutuk lebih banyak lumba-lumba untuk hidup dalam kurungan sejak lahir?**
 
-Karena tanggal lahir bayi lumba-lumba sudah melewati batas izin pemuliaan, Otoritas Konservasi Laut berdasarkan _UU Konservasi Satwa Liar_ (野生動物保育法) menghukum Yehliu, tapi dendanya hanya **sepuluh ribu**. Angka ini sendiri adalah ketidakadilan: harga satu nyawa, cuma sepuluh ribu.
+Karena tanggal kelahiran anak anjing telah melewati batas izin pembiakan, Badan Perlindungan Satwa Liar memberikan denda kepada Wild Life berdasarkan _Undang-Undang Konservasi Satwa Liar_, tetapi jumlah dendanya hanya **sepuluh ribu dolar**. Angka ini sendiri adalah absurditas: harga satu nyawa, sepuluh ribu.
 
-Wakil Direktur Eksekutif Perhimpunan Peduli Kehidupan (關懷生命協會) Chou Chin-shan (周瑾珊) di kelompok transformasi berkata: "Mereka seharusnya hidup di lautan, dipaksa tarik ke daratan, maka manusia harus paham individu kurungan ini, untuk manusia telah mengorbankan apa?"
+Zhou Jinshan, wakil direktur eksekutif Asosiasi Kepedulian Kehidupan, mengatakan dalam kelompok transisi: "Mereka seharusnya hidup di lautan luas, tetapi dipaksa ke daratan; apa pengorbanan yang mereka lakukan untuk manusia agar kita bisa memahaminya?"
 
-Dia juga menegaskan: **"Mereka adalah kehidupan hidup, bukan alat ajar untuk ditonton."**
+Dia juga menekankan: "**Mereka adalah makhluk hidup, bukan alat peraga untuk ditonton.**"
 
-Keluarnya pameran lumba-lumba ini, menandai momen krusial masyarakat Taiwan mendefinisikan ulang "hubungan manusia dengan hewan laut".
+Penarikan pertunjukan lumba-lumba ini menandai momen penting di mana masyarakat Taiwan mendefinisikan ulang "hubungan antara manusia dan hewan laut".
 
-## Regulasi dan Realitas: Tantangan Peraturan Pengelolaan Hewan Pameran
+## Regulasi dan Realitas: Tantangan Manajemen Aturan Pertunjukan Hewan
 
-2017 _Peraturan Pengelolaan Hewan Pameran_ berlaku, Taiwan pertama kali memiliki hukum khusus mengatur hewan pameran. [^4] Isinya meliputi:
+_Manajemen Aturan Pertunjukan Hewan_ ditetapkan pada tahun 2016, memberikan Taiwan regulasi khusus pertama untuk mengatur hewan pertunjukan. [^4] Peraturannya meliputi:
 
-- Tempat pameran memerlukan izin
+- Tempat pertunjukan memerlukan izin
 - Lingkungan pemeliharaan hewan memiliki standar minimum
-- Harus menyediakan dokter hewan profesional
-- Pemeriksaan kesejahteraan hewan berkala
+- Harus ada dokter hewan profesional
+- Pemeriksaan kesejahteraan hewan secara berkala
 
-Tapi pelaksanaan regulasi menghadapi tantangan realitas. Seluruh Taiwan hanya kurang 20 pemeriksa kesejahteraan hewan, harus mengawasi ratusan tempat pameran. Frekuensi pemeriksaan rendah, tenaga profesional kurang, sanksi ringan, membuat regulasi jadi kertas kosong.
+Namun, pelaksanaan peraturan menghadapi tantangan nyata. Di seluruh Taiwan, hanya kurang dari 20 inspektur kesejahteraan hewan, untuk mengawasi ratusan tempat pertunjukan. Frekuensi pemeriksaan yang rendah, kekurangan staf profesional, dan hukuman yang ringan membuat regulasi ini hanya menjadi pajangan di atas kertas.
 
-Masalah lebih fundamental: regulasi existing masih bermula dari "pengelolaan", bukan "hak hewan". Hewan dalam hukum tetap "barang", bukan subjek hak. Jika posisi ini tak berubah, seketat apapun peraturan pengelolaan hanya mengobati gejala, bukan akar masalah.
+Masalah yang lebih mendasar adalah: peraturan saat ini masih berangkat dari "manajemen", bukan "hak hewan". Secara hukum, hewan masih dianggap sebagai "benda", bukan subjek hak. Selama posisi ini tidak berubah, seberapa pun ketatnya manajemen, itu hanyalah mengobati gejala, bukan penyakitnya.
 
-## Tantangan Baru Era Media Sosial
+## Tantangan Era Media Sosial
 
-Instagram dan TikTok mengubah ekologi hewan pameran. Kafe hewan peliharaan, restoran hewan, pengalaman interaksi capybara, kegiatan "interaksi hewan ringan" ini jadi magnet trafik media sosial.
+Instagram dan TikTok telah mengubah ekosistem pertunjukan hewan. Kafe hewan peliharaan, restoran hewan, pengalaman interaksi kelelawar (capybara), aktivitas "ringan" ini menjadi kode lalu lintas di media sosial.
 
-**Kasus Restoran Hewan Peliharaan Bali (八里寵物餐廳事件)** adalah peringatan terbaru. Akhir 2025, sebuah restoran yang mengusung "interaksi kelinci" dibongkar, dalam beberapa bulan saja 6 ekor kelinci mati, 5 ekor sakit. [^5] Penyebabnya kontak manusia berlebihan, lingkungan pemeliharaan tidak pantas, serta demi "foto bagus" mengabaikan kebutuhan hewan.
+**Insiden Restoran Hewan Peliharaan Bālǐ** adalah peringatan terbaru. Pada awal 2026, Dinas Perlindungan Hewan Kota New Taipei menginspeksi sebuah restoran di Bālǐ yang menjual interaksi kelinci, dan menemukan bahwa banyak kelinci mati, beberapa terinfeksi kudis, dengan penyebab kematian mengarah pada pemeliharaan yang tidak tepat dalam jangka panjang, kekurangan gizi, dan sakit tanpa pengobatan. [^5]
 
-Algoritma media sosial suka "lucu" dan "seru", ini membuat hewan jadi komoditas trafik. Video seekor capybara mandi air panas bisa dapat jutaan tayangan, tapi tak ada yang peduli apakah ia cocok dengan iklim Taiwan.
+Algoritma media sosial menyukai hal-hal yang "imut" dan "menarik", menjadikan hewan sebagai komoditas lalu lintas. Video capybara berendam air panas bisa mendapatkan jutaan penonton, tetapi tidak ada yang peduli apakah mereka cocok dengan iklim Taiwan.
 
-"Hewan pameran mikro" ini merata di seluruh Taiwan, tapi berjalan di tepi regulasi. Mereka tak seperti kebun binatang punya pengawasan ketat, tak seperti sirkus butuh izin, tapi hadapi masalah kesejahteraan hewan yang sama.
+"Hewan pertunjukan mikro" semacam ini tersebar di seluruh Taiwan, namun berada di pinggiran regulasi. Mereka tidak diawasi seketat kebun binatang, dan tidak memerlukan izin seperti sirkus, tetapi mereka juga menghadapi masalah kesejahteraan hewan.
 
-## Spektrum Kebun Binatang Masyarakat Taiwan
+## Spektrum Kebun Binatang dalam Masyarakat Taiwan
 
-Penilaian masyarakat Taiwan terhadap kebun binatang dari dulu tak pernah seragam, generasi berbeda, latar pendidikan berbeda, berdiri di posisi yang jauh berbeda.
+Penilaian masyarakat Taiwan terhadap kebun binatang tidak pernah seragam; orang dari generasi yang berbeda dan latar belakang pendidikan yang berbeda menempati posisi yang sangat berbeda.
 
-Sikap Taiwan soal "haruskah kebun binatang ada" menampakkan perbedaan generasi dan nilai yang jelas:
+Sikap Taiwan terhadap "apakah kebun binatang harus ada" menunjukkan perbedaan generasi dan nilai yang jelas:
 
-**Golongan tradisional pendukung** percaya kebun binatang punya fungsi edukasi, biar anak kota kenal hewan, tumbuhkan kesadaran konservasi. "Kalau tidak ke kebun binatang, anak saya tau gajah bentuknya gimana?"
+**Pendukung Tradisional** berpendapat bahwa kebun binatang memiliki fungsi edukasi, memperkenalkan hewan kepada anak-anak kota, dan menumbuhkan kesadaran konservasi. "Bagaimana anak saya tahu seperti apa gajah tanpa mengunjungi kebun binatang?"
 
-**Golongan konservasi modern** mendukung kebun binatang yang sudah reformasi, menekankan pemuliaan konservasi, pelepasan liar, pendidikan lingkungan. Kebun binatang seharusnya "suaka hewan", bukan tempat hiburan.
+**Kelompok Konservasi Modern** mendukung kebun binatang yang direformasi, menekankan pembiakan konservasi, reintroduksi liar, dan pendidikan lingkungan. Kebun binatang seharusnya menjadi "penampungan hewan", bukan tempat hiburan.
 
-**Golongan hak hewan** mengadvokasi penghapusan semua bentuk pengurungan hewan, percaya lingkungan sebaik apapun tak bisa menggantikan kebebasan. "Hewan punya hak pilih? Mereka setuju dipamerkan?"
+**Kelompok Hak Hewan** menuntut penghapusan semua bentuk penahanan hewan, berpendapat bahwa bahkan lingkungan terbaik pun tidak dapat menggantikan kebebasan. "Apakah hewan punya pilihan? Apakah mereka setuju untuk dipamerkan?"
 
-**Golongan pragmatis** mengakui keterbatasan realitas, mendukung reformasi bertahap. "Ideal sempurna memang indah, tapi hewan realitas butuh perbaikan segera."
+**Kelompok Pragmatis** mengakui keterbatasan kenyataan dan mendukung reformasi bertahap. "Idealisme yang sempurna itu indah, tetapi hewan di dunia nyata membutuhkan perbaikan segera."
 
-Spektrum ini tak ada benar salah, tapi memantulkan pemikiran mendalam masyarakat Taiwan soal hubungan manusia-hewan.
+Spektrum ini tidak memiliki benar atau salah, tetapi mencerminkan pemikiran mendalam masyarakat Taiwan tentang hubungan antara manusia dan hewan.
 
 ## Fakta Mengejutkan
 
-Kebun Binatang Kota Taipei dari 1914 berdiri hingga kini sudah **lebih 110 tahun**, salah satu kebun binatang tertua di Asia. Praktik Kebun Binatang Hsinchu mempersempit jenis spesius, fokus pameran ramah spesies lokal, di kalangan kebun binatang Asia hampir tak ada teladan. Pameran hewan sirkus tradisional Taiwan setelah era 2010 hampir lenyap total, digantikan sirkus tanpa hewan.
+Kebun Binatang Kota Taipei telah berdiri selama lebih dari **110 tahun** sejak didirikan pada tahun 1914, menjadikannya salah satu kebun binatang tertua di Asia. Praktik Kebun Binatang Hsinchu dalam menyederhanakan jenis spesies dan fokus pada pameran yang ramah terhadap spesies lokal hampir tidak memiliki preseden di dunia kebun binatang Asia. Pertunjukan hewan sirkus tradisional Taiwan hampir sepenuhnya hilang setelah dekade 2010-an, digantikan oleh sirkus tanpa hewan.
 
-Taiwan tersisa dua industri pameran cetacea, izin pameran keduanya **kedaluwarsa 2026**. Yehliu 2024 melanggar pemuliaan bayi lumba-lumba, denda cuma sepuluh ribu—angka ini sendiri adalah ketidakadilan. _Peraturan Pengelolaan Hewan Pameran_ 2017 berlaku, tapi tenaga penegak hukum sangat kurang, pemeriksa kesejahteraan hewan seluruh Taiwan terhitung jari.
+Hanya ada dua operator pertunjukan mamalia laut di Taiwan, dan izin pertunjukan mereka akan **kedaluwarsa pada tahun 2026**. Denda untuk Wild Life yang melanggar dengan membiakkan bayi lumba-lumba pada tahun 2024 hanya sepuluh ribu dolar—angka ini sendiri adalah absurditas. _Manajemen Aturan Pertunjukan Hewan_ ditetapkan pada tahun 2016, tetapi tenaga penegak hukum sangat kurang; inspektur kesejahteraan hewan di seluruh Taiwan dapat dihitung dengan jari.
 
-- 🐰 Kasus pameran kelinci Restoran Hewan Peliharaan Bali akhir 2025: **6 mati 5 sakit**, membuka tabir kekosongan regulasi "pameran mikro"
-- 📱 Konten interaksi hewan paling populer di media sosial, sering kali justru **skenario risiko kesejahteraan hewan tertinggi**
-- 🌏 Taiwan termasuk wilayah Asia sedikit yang punya undang-undang khusus mengatur hewan pameran, tapi regulasi tetap menempatkan hewan sebagai "barang" bukan subjek hak
+- 🐰 Insiden Restoran Kelinci Bālǐ awal 2026: kelinci **mati dalam jumlah besar**, mengungkap kekosongan regulasi "pertunjukan mikro"
+- 📱 Konten interaksi hewan paling populer di media sosial sering kali merupakan skenario dengan **risiko kesejahteraan hewan tertinggi**
+- 🌏 Taiwan adalah salah satu dari sedikit wilayah di Asia yang memiliki undang-undang khusus untuk mengatur hewan pertunjukan, tetapi peraturan tersebut masih memosisikan hewan sebagai "benda" dan bukan subjek hak.
 
-Regulasi hewan pameran Taiwan meski di Asia termasuk maju, tapi dari desain sistem hingga penegakan praktis masih ada kesenjangan signifikan.
+Meskipun regulasi pertunjukan hewan Taiwan dianggap maju di Asia, masih ada kesenjangan signifikan antara desain sistem dan penegakan aktual.
 
-## Masa Depan: Mendefinisikan Ulang Hubungan Manusia-Hewan
+## Masa Depan: Mendefinisikan Ulang Hubungan Manusia dan Hewan
 
-Evolusi kebun binatang Taiwan, sebenarnya adalah cerminan kemajuan moral seluruh masyarakat. Kita mulai memahami, hewan punya kebutuhan dan hak sendiri, layak dihormati.
+Evolusi kebun binatang di Taiwan sebenarnya adalah cerminan kemajuan moral seluruh masyarakat. Kita mulai memahami bahwa hewan memiliki kebutuhan dan hak mereka sendiri, yang harus dihargai.
 
-**Sepuluh tahun depan, Taiwan mungkin akan melihat:**
+**Dalam dekade mendatang, Taiwan mungkin akan melihat:**
 
-Lebih banyak kebun binatang transformasi jadi pusat konservasi atau suaka satwa liar, "pelepasan liar" berpotensi jadi tugas inti kebun binatang. Teknologi realitas virtual mungkin menggantikan sebagian pameran hewan fisik, biar pendidikan konservasi tak lagi bergantung pada pameran tubuh hewan. Di saat yang sama, platform media sosial dan otoritas pengelola sama-sama menghadapi tekanan apakah harus membatasi konten hewan pameran.
+Lebih banyak kebun binatang bertransformasi menjadi pusat konservasi atau penampungan satwa liar; "pelepasan kembali ke alam liar" berpotensi menjadi salah satu tugas inti kebun binatang. Teknologi realitas virtual mungkin menggantikan sebagian pameran hewan fisik, sehingga pendidikan konservasi tidak lagi bergantung pada tampilan tubuh hewan. Pada saat yang sama, platform media sosial dan otoritas menghadapi tekanan untuk membatasi konten pertunjukan hewan.
 
-Tapi perubahan paling penting, mungkin di tingkat konsep: dari "hewan melayani manusia" beralih ke "manusia dan hewan hidup berdampingan".
+Tetapi perubahan terpenting mungkin adalah perubahan konsep: dari "hewan melayani manusia" menjadi "manusia hidup berdampingan dengan hewan".
 
-Jalan ini masih panjang. Setiap pilihan (ke kebun binatang mana, dukung pameran hewan mana, like atau laporkan di media sosial) semua adalah voting untuk kesejahteraan hewan Taiwan.
+Jalan masih panjang. Setiap pilihan (mengunjungi kebun binatang mana, mendukung jenis pertunjukan hewan apa, menyukai atau melaporkan di media sosial) adalah bentuk pemungutan suara untuk kesejahteraan hewan Taiwan.
 
-**Masa depan kebun binatang, adalah pilihan kita.**
+**Masa depan kebun binatang adalah pilihan kita.**
 
-[^1]: Kebun Binatang Kota Hsinchu (新竹市立動物園), 〈Konsep Pembaruan Kebun Binatang〉, https://zoo.hccg.gov.tw/
+[^1]: Kebun Binatang Kota Hsinchu, 〈Filosofi Transformasi Kebun Binatang〉, https://zoo.hccg.gov.tw/
 
-[^2]: Media Wowo (窩窩媒體), 〈Investigasi Mendalam Kontroversi Kesejahteraan Hewan Pasca Pembukaan Xpark〉, https://wuo-wuo.com/
+[^2]: Media Wowa, 〈Investigasi Mendalam Kesejahteraan Hewan Pasca Pembukaan Xpark〉, https://wuo-wuo.com/
 
-[^3]: Kementerian Pertanian (農業部), 〈Pengumuman Amandemen Peraturan Pengelolaan Hewan Pameran〉 (Juli 2024), https://www.moa.gov.tw/
+[^3]: Kementerian Pertanian, 〈Pengumuman Amandemen Manajemen Aturan Pertunjukan Hewan〉 (Juli 2024), https://www.moa.gov.tw/
 
-[^4]: Jaringan Informasi Perlindungan Hewan Kementerian Pertanian (農業部動物保護資訊網), 〈Peraturan Pengelolaan Hewan Pameran〉, https://animal.moa.gov.tw/
+[^4]: [Basis Data Hukum Nasional: Manajemen Aturan Pertunjukan Hewan](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=M0060090) — Teks lengkap dan sejarah regulasi, ditetapkan pada 5 Februari 2016, direvisi penuh pada 29 Juli 2024.
 
-[^5]: Perhimpunan Penelitian Masyarakat Hewan Taiwan (台灣動物社會研究會), 〈Kondisi Pengelolaan Hewan Pameran Mikro Saat Ini〉, https://www.east.org.tw/
+[^5]: [Restoran Kelinci Bālǐ yang Melakukan Pameran Ilegal Menyebabkan Kematian Massal Dinas Perlindungan Hewan: Denda Maksimal 250 Ribu dan Diajukan ke Penyelidikan](https://udn.com/news/story/124490/9367910) — Dilaporkan oleh United Daily News pada 9 Maret 2026, hasil inspeksi dan pemeriksaan ulang oleh Dinas Perlindungan Hewan Kota New Taipei pada Januari.
 
 ---
 
-**Baca Lanjutan**
+**Bacaan Lanjutan**
 
-- [Kontroversi Obat Hewan Taiwan](/society/台灣動物用藥爭議) — Dari kontroversi etika hewan pameran hingga celah hukum obat hewan peliharaan, semuanya sisi berbeda dari masalah yang sama: hukum Taiwan belum belajar memandang "bukan manusia tapi juga bukan harta" kehidupan ini
+- [Kontroversi Penggunaan Obat Hewan di Taiwan](/id/society/taiwan-animal-drug-controversy) — Dari kontroversi etika hewan pertunjukan hingga celah hukum dalam penggunaan obat hewan peliharaan, semuanya adalah sisi berbeda dari masalah yang sama: hukum Taiwan belum belajar bagaimana memandang kehidupan ini yang "bukan manusia dan bukan properti".
 
 ---
 
 ## Referensi
 
-- [Media Wowo](https://wuo-wuo.com/) - Media independen isu hewan terpenting Taiwan
-- [Perhimpunan Penelitian Masyarakat Hewan Taiwan](https://www.east.org.tw/) — Organisasi advokasi fokus isu hewan pameran jangka panjang
-- [Arus Pemikiran Hewan Kontemporer](https://www.animalcontemporary.org/) — Platform diskusi hak hewan lintas disiplin
-- [Kebun Binatang Kota Hsinchu](https://zoo.hccg.gov.tw/) — Praktik "Kebun Binatang Tanpa Kandang"
-- [Kebun Binatang Kota Taipei](https://www.zoo.gov.taipei/) — Kebun binatang tertua Taiwan
+- [Media Wowa](https://wuo-wuo.com/) - Media independen terkemuka mengenai isu hewan di Taiwan
+- [Asosiasi Penelitian Sosial Hewan Taiwan](https://www.east.org.tw/) — Organisasi advokasi yang secara konsisten mengamati isu hewan pertunjukan
+- [Kebun Binatang Kota Hsinchu](https://zoo.hccg.gov.tw/) — Praktik "kebun binatang tanpa kandang"
+- [Kebun Binatang Kota Taipei](https://www.zoo.gov.taipei/) — Kebun binatang tertua di Taiwan

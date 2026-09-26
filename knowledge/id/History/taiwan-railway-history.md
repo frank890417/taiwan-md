@@ -1,19 +1,19 @@
 ---
-title: 'Sejarah Kereta Api Taiwan: Jalur Kereta "Penyakit Paru-paru", "Heitou-á", dan Genealogi Nama Asing yang Hilang'
-description: 'Sebuah jalan yang dipermalukan oleh Jepang sebagai "jalur kereta penyakit paru-paru" telah berubah menjadi arteri berkecepatan tinggi yang mengangkut 200.000 orang setiap hari dalam lebih dari seratus tahun. Insinyur Jerman dan Inggris yang direkrut Liu Mingchuan kemudian dibuang dan dibangun ulang oleh Jepang; jalur vertikal Hasegawa Kin-suke kemudian diubah nama dan nomornya oleh Taiwan Railways Administration pasca-perang; setiap generasi mendorong catatan generasi sebelumnya ke catatan kaki; nama asing terus memudar, menyisakan "Heitou-á" dan "Huocheyi" dalam bahasa Hokkien, serta slogan politik "Juguang", "Ziqiang", dan "Fuxing"; akhirnya, pada generasi Puyuma dan Taroko, nama-nama penduduk asli diletakkan kembali di atas rel.'
+title: 'Sejarah Kereta Api Taiwan: Jalan Paru-paru, Kepala Hitam, dan Garis yang Kehilangan Nama Asing'
+description: 'Jalan yang dijuluki "jalan paru-paru" oleh orang Jepang bagaimana berubah menjadi aksioma hidup yang mengangkut dua ratus ribu penumpang per hari dalam seratus lebih tahun. Rekayasa Jerman-Inggris yang kemudian dibuang oleh orang Jepang, garis lintas selatan yang diganti nama dan nomor oleh kereta api Taiwan pasca-perang, setiap generasi menindih catatan generasi sebelumnya; nama asing pun luntur, tersisa "Kepala Hitam" dan "Kereta Api Kecil" dalam bahasa Tionghoa, tersisa slogan politik Ju Kang dan Zi Qi, hingga pada generasi terakhir dengan Puyuma dan Taroko, nama asli suku bangsa asli kembali dilacurkan ke rel.'
 date: 2026-03-24
 category: 'History'
 tags:
   [
-    'Kereta Api',
-    'Infrastruktur Transportasi',
-    'Pembangunan Kota',
-    'Liu Mingchuan',
-    'Jalur Vertikal',
-    'Kereta Api Berkecepatan Tinggi',
-    'TRA',
-    'Era Kolonial Jepang',
-    'Insinyur Asing',
+    'kereta api',
+    'pembangunan transportasi',
+    'pembangunan kota',
+    'Liu Mingzhuan',
+    'garis lintas',
+    'kereta api cepat',
+    'kereta api Taiwan',
+    'masa kolonial Jepang',
+    'insinyur asing',
   ]
 subcategory: '社會與日常史'
 author: 'Taiwan.md'
@@ -29,232 +29,232 @@ imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg'
 relatedDiary: ['2026-05-11-161600-twmd-rewrite-daily']
 translatedFrom: 'History/台灣鐵道史.md'
-sourceCommitSha: '0ab600a6e'
-sourceContentHash: 'sha256:4de14c72bc8f2765'
-sourceBodyHash: 'sha256:c391ed0c502effad'
-translatedAt: '2026-07-27T22:12:14+08:00'
+sourceCommitSha: '21298a7ae'
+sourceContentHash: 'sha256:711d78906f27f250'
+sourceBodyHash: 'sha256:74b314b2dea62382'
+translatedAt: '2026-09-26T19:13:16+08:00'
 ---
 
 # Sejarah Kereta Api Taiwan
 
-> **30 Detik Ringkasan:** Pada tahun 1891, Taiwan membangun jalur kereta api penumpang pertama di Tiongkok—kemudian, setelah Jepang mengambil alih, mereka menemukan bahwa jalannya rusak parah sehingga harus dibongkar dan dibangun ulang. Dari "Jalur Kereta Penyakit Paru-paru" Liu Mingchuan hingga Kereta Api Berkecepatan Tinggi (TGV) 300 km/jam pada tahun 2007, Taiwan menggunakan 136 tahun untuk menjahit sebuah pulau tanpa dataran luas menjadi satu生活圈 (lingkungan hidup sehari-hari). Pada tahun 2024, TGV mengangkut 78,25 juta penumpang dalam satu tahun, dan TRA akhirnya dikorporatisasi setelah sebuah kecelakaan yang menewaskan 49 jiwa. Rel kereta api terukir ke dalam setiap belokan pulau ini.
+> **Ringkasan 30 detik:** Pada 1891, Taiwan membangun jalur kereta api pertama di seluruh Tiongkok yang mengangkut penumpang — lalu orang Jepang mengambil alih dan menemukan betapa buruknya sehingga harus merealisasikan kembali dari awal. Dari "jalan paru-paru" Liu Mingzhuan hingnga kereta api cepat dengan kecepatan 300 km/jam pada 2007, Taiwan menyatukan pulau tanpa datar dalam 136 tahun menjadi satu lingkaran kehidupan harian. Pada 2024, kereta api cepat mengangkut 78,25 juta penumpang dalam setahun, dan kereta api Taiwan akhirnya berubah menjadi perusahaan setelah kecelakaan yang menewaskan 49 nyawa. Rel-rel ini mencatat setiap belokan pulau ini.
 
-## Petualangan Kereta Api James W. Davidson
+## Pengalaman Kereta Api Lishihsian
 
-Pada tahun 1895, wartawan Amerika James W. Davidson (禮密臣) mendarat di Taiwan, menaiki kereta api dari Keelung ke Taipei. Pemandangan yang ia lihat ia tuliskan dalam karya selanjutnya, _The Island of Formosa_: ada orang yang membeli tiket kelas dua tetapi memaksa masuk ke gerbong kelas satu, ada orang yang membawa ayam kecil, babi kecil, dan tumpukan sayuran serta daging babi ke dalam kereta; kereta berjalan beberapa mil dan mulai bergoyang: semakin cepat kecepatannya, semakin bergoyang-goyang orang dan hewan di dalam gerbong.
+Pada 1895, seorang jurnalis Amerika bernama James W. Davidson (Lishihsian) tiba di Taiwan dan naik kereta dari Keelung ke Taipei. Pemandangan yang ia lihat membuatnya menuliskannya dalam karyanya yang berjudul _The Island of Formosa_: ada orang yang membeli tiket kelas dua dan menerjang ke gerbong kelas pertama, ada orang yang menggendong ayam kecil, babi kecil, dan banyak sayur serta daging di atas kereta; setelah berjalan beberapa mil, kereta mulai bergetar kencang: kecepatan tinggi, penumpang dan binatang bergerak berselang-seling.
 
-Inilah wajah sebenarnya dari jalur kereta api Liu Mingchuan.
+Inilah realitas sebenarnya dari jalan kereta api Liu Mingzhuan.
 
-Pada tahun 1887, gubernur jenderal Taiwan pertama, Liu Mingchuan, mendirikan "Bureau Bisnis Kereta Api Seluruh Taiwan" di Dadaocheng, merekrut insinyur Jerman Becker (Becker) untuk mengukur dasar jalur, dan mulai membangun Taiwan: jalur kereta api penumpang pertama di Tiongkok. Pada tahun 1891, segmen Keelung-Taipei dibuka untuk lalu lintas, pada tahun 1893 diperpanjang ke Hsinchu, dengan panjang total sekitar 107 kilometer. Rute dari Keelung melewati Bukit Shiqiu, melalui Badu, Nangang, Xikou (Songshan), melewati Daqiaotou masuk ke Haishankou (Xinzhu), kemudian melewati Gunung Guilun ke Taoyuan, Zhongli, langsung ke Hsinchu.
+Pada 1887, Liu Mingzhuan, gubernur pertama Taiwan, mendirikan "Kantor Dagang Kereta Api Seluruh Taiwan" di Dadaocheng, merekrut seorang insinyur Jerman bernama Becker untuk melakukan survei jalur, dan memulai konstruksi Taiwan — juga seluruh Tiongkok — yang pertama: jalur kereta api pengangkut penumpang. Pada 1891, bagian dari Keelung ke Taipei beroperasi, dan pada 1893, dilanjutkan hingga Hsinchu, dengan panjang total sekitar 107 km. Jalur ini melewati bukit Liongchiu dari Keelung, melewati Beigun, Nangang, Xikou (Songshan), melewati jembatan di Bajiaqiao masuk ke lembah laut (Xinzhuang), lalu menembus bukit Guishan di Taoyuan dan Zhongli, hingga ke Hsinchu.
 
-Ter听起来 seperti titik awal modernisasi yang hebat. Masalahnya, jalan ini dibangun dengan sangat buruk.
+Terdengar seperti titik tol modern yang hebat. Tapi masalahnya, jalan ini memang tidak terlalu baik.
 
-## "Jalur Kereta Penyakit Paru-paru"
+## "Jalan Paru-paru"
 
-Setelah Perang Sino-Jepang Pertama (Perang Jia-Wu), Jepang menerima Taiwan. Pada Juni 1895, gubernur jenderal Kabayama Sukenori naik kereta api dari Keelung ke Taipei secara pribadi. Situasi di sepanjang jalan terus bermasalah: kereta bergoyang, kecepatan sangat lambat, dasar jalur longgar: tentara pengiring memberinya nama panggilan "Jalur Kereta Penyakit Paru-paru", artinya jalur kereta ini seperti pasien tuberkulosis paru-paru, berjalan dua langkah terengah-engah tiga langkah.
+Setelah Perang Sino-Jepang, Jepang menerima Taiwan. Pada Juni 1895, Gubernur Jenderal Taiso Kojima sendiri naik kereta dari Keelung ke Taipei. Di sepanjang jalan, segala macam masalah muncul: kereta bergetar, kecepatan sangat lambat, jalurnya longgar: para tentara yang menemaninya memberinya julukan "jalan paru-paru", artinya jalur ini seperti pasien tuberkulosis yang selalu batuk dan sesak.
 
-Tim insinyur profesional yang dikirim Jepang tiba di Keelung tiga bulan kemudian, hasil survei lapangan lebih tragis. Teknisi kereta api Oyama Yasumasa menemukan bahwa banyak bantalan kayu di segmen Taipei-Hsinchu dicabut, bahkan rel besi juga kekurangan. Stasiun dibangun dari rumah tanah liat, semuanya harus dibongkar dan dibangun ulang. Yang paling mematikan adalah desain rutenya sendiri: segmen dari Taipei melalui Xinzhu melewati Gunung Guilun ke Taoyuan, terlalu curam, kereta api tidak bisa mendaki.
+Tim insinyur profesional Jepang tiba di Keelung tiga bulan kemudian. Hasil inspeksi lapangan mereka justru lebih buruk. Insinyur kereta api Kiyomasa Koyama menemukan banyak kayu tempat kereta diletakkan telah hilang, bahkan relnya pun kurang. Stasiun kereta hanya terbuat dari rumah panggung kayu, semuanya harus dibongkar dan dibangun kembali. Yang paling mengancam adalah desain jalurnya sendiri: dari Taipei melalui Xinzhuang menembus bukit Guishan ke Taoyuan, kemiringannya terlalu curam sehingga kereta tidak bisa bergerak.
 
-Jepang membuat keputusan: bongkar dan bangun ulang.
+Orang Jepang membuat keputusan: mereka akan menghancurkan dan memulai dari awal.
 
-Di utara Taipei,放弃 (menyerahkan/meninggalkan) segmen terowongan Bukit Shiqiu, beralih ke arah Sankeng yang lebih datar, menembus terowongan baru ke Badu. Perubahan di selatan Taipei lebih besar: jalur lama melalui Xinzhu dan Gunung Guilun dibuang, beralih ke Banqiao, Yingge ke Taoyuan. Perubahan ini secara langsung mengubah nasib kota-kota di sepanjang jalur: Xinzhu menjadi sunyi selama puluhan tahun karena kehilangan kereta api, Banqiao mulai bangkit karena jalur baru.
+Di utara Taipei, mereka meninggalkan terowongan bukit Liongchiu, mengganti ke arah yang lebih datar di Sanfeng, dan menembus terowongan baru hingga Beigun. Perubahan di selatan Taipei jauh lebih besar: mereka menghentikan jalur lama yang melewati Xinzhuang dan bukit Guishan, menggantinya dengan jalur baru melalui Beitou, Yingge hingga Taoyuan. Perubahan ini langsung mengubah nasib kota-kota di sepanjang jalur: Xinzhuang yang kehilangan jalur kereta menjadi sunyi selama puluhan tahun, sementara Beitou yang mendapatkan jalur baru mulai bangun.
 
-Di sini tersembunyi masalah sejarah yang masih diperdebatkan hingga saat ini: siapa sebenarnya "Bapak Kereta Api Taiwan"?
+Di sini tersimpan sebuah masalah sejarah yang masih disengaja hingga kini: siapa sebenarnya "ayah dari kereta api Taiwan"?
 
-## Bagaimana Nama-Nama Asing Memudar
+## Bagaimana Nama Asli Hilang
 
-Di jalur kereta api Liu Mingchuan bukan hanya Liu Mingchuan. Pada tahun 1887, di Bureau Bisnis Kereta Api Seluruh Taiwan Dadaocheng, gelombang pertama yang direkrut adalah tim asing campuran Jerman-Inggris: orang Jerman Becker (Becker) bertanggung jawab atas desain teknik dan pengukuran dasar jalur, orang Inggris W. Watson menjabat sebagai Direktur Survei Rute, H.C. Matheson sebagai Konsultan Bisnis, di belakangnya terhubung jaringan pengadaan lintas negara Jardine Matheson dari Shanghai: perusahaan asing yang sama baru saja membangun jalur kereta api pertama di Tiongkok di Shanghai (Jalur Kerapi Wusong) pada tahun 1876 [^f1].
+Di jalan Liu Mingzhuan tidak hanya ada Liu Mingzhuan. Pada 1887, di Dadaocheng, "Kantor Dagang Kereta Api Seluruh Taiwan" merekrut sekelompok insinyur asing keturunan Jerman-Inggris: seorang Jerman bernama Becker bertanggung jawab atas desain teknis dan survei jalur, seorang Inggris bernama W. Watson menjadi kepala survei jalur, H.C. Matheson sebagai konsultan komersial, di belakangnya ada jaringan pembelian lintas nasional yang terhubung dengan perusahaan perdagangan di Shanghai: pada 1876, perusahaan yang sama baru saja membangun jalur kereta api pertama di Tiongkok di Shanghai (Jalur Wusong)[^f1].
 
-8 lokomotif uap juga campuran Jerman-Inggris. Nomor 1 "Tengyun" dan Nomor 2 "Yufeng" dipesan dari Jerman, 6 sisanya dari Inggris, bernomor 1 hingga 8, masing-masing dinamai dengan Bahasa Mandarin Qing (Jiedian, Chaochen, Shejing, dll.) [^f2]. Pada hari segmen pertama dibuka pada tahun 1891, orang di ruang kemudi ada teknisi Jerman, ada teknisi Inggris, ada murid tentara Qing, hak desain teknik di tangan orang asing, konstruksi diserahkan kepada tentara Qing yang tidak bisa membaca gambar dan buruh lokal, pemutusan ini kemudian dikonfirmasi oleh Davidson saat menaiki kereta yang bergoyang itu.
+Delapan locomotif uap juga berasal dari campuran Jerman-Inggris. Locomotif nomor 1 "Tengyun" dan nomor 2 "Yufeng" dipesan dari Jerman, sementara enam locomotif lainnya berasal dari Inggris, dengan nomor 1 hingga 8, masing-masing diberi nama dalam bahasa Mandarin Qing (Jie Dian, Chao Chen, She Jing dll)[^f2]. Pada hari pertama operasional pada 1891, di kabin pengemudi ada seorang teknisi Jerman, seorang teknisi Inggris, dan seorang prajurit Qing yang sedang belajar, dengan hak desain teknis berada di tangan orang asing, namun pekerjaan lapangan dikerjakan oleh pasukan Qing yang tidak bisa membaca gambar teknis dan para pekerja lokal — ketidakselarasan ini pun diverifikasi oleh Lishihsian saat ia naik kereta yang bergetar.
 
-Masalahnya adalah, tim asing ini tidak meninggalkan nama. Setelah Jepang mengambil alih dan membongkar serta membangun ulang, dasar jalur Becker diubah rutenya, pengukuran Watson dibatalkan, kontrak Matheson dibatalkan. Hingga hari ini, sulit menemukan nama lengkap Becker dalam sumber bahasa Tionghoa: semua sumber hanya memiliki nama belakang, bahkan papan pameran di Museum Kereta Api Taiwan hanya menyentuhnya sekilas [^f1].
+Masalahnya, tim asing ini tidak meninggalkan nama. Setelah Jepang mengambil alih dan merealisasikan kembali, jalur Becker diganti, survei Watson dibatalkan, kontrak Matheson dibatalkan. Hingga kini, sulit untuk menemukan nama lengkap Becker dalam data berbahasa Cina: semua sumber hanya mencantumkan nama belakangnya, bahkan papan panel di Museum Kereta Api Taiwan pun hanya sekilas[^f1].
 
-Jepang yang meneruskan meninggalkan nama, tetapi mengalami reset genealogi yang sama.
+Orang Jepang yang menggantikannya meninggalkan nama, namun juga mengalami reset identitas.
 
-Hasegawa Kin-suke (はせがわ きんすけ, 1855-1921) adalah insinyur utama jalur vertikal. Lahir di Yamaguchi, masa remajanya belajar bahasa Inggris di samping kakaknya yang bekerja di Percetakan Uang Osaka, kemudian menjadi penerjemah untuk teknisi asing di Biro Kereta Api Jepang, belajar survei sambil menerjemah [^f3]. Setelah 1899, Gotō Shinpei memindahkannya dari Jepang ke Taiwan, menjabat sebagai Kepala Teknisi Biro Pemasangan Kereta Api Taiwan Sementara, tinggal di sana selama sembilan tahun: jalur vertikal 404 km dari Keelung ke Fengshan, dibuka sepenuhnya pada 20 April 1908, upacara pembukaan 24 Oktober di Taman Taichung, seluruh proyek dibangunnya dari nol [^f4][^f5].
+Kanjiro Hasegawa (1855-1921) adalah insinyur utama garis lintas. Lahir dan besar di kawasan kecil di prefektur Yamaguchi, ia belajar bahasa Inggris bersama kakaknya yang bekerja di Kantor Uang Negara Osaka, kemudian bekerja sebagai penerjemah bagi insinyur asing di Jepang dan belajar survei sambil menerjemahkan[^f3]. Pada 1899, setelah ditarik pindah oleh Goto Shimpei, ia dipindahkan ke Taiwan, menjadi kepala insinyur sementara Departemen Konstruksi Kereta Api Taiwan — posisinya bertahan selama sembilan tahun: garis lintas seluruh Taiwan dari Keelung ke Fengshan sepanjang 404 km, seluruh jaringan beroperasi pada 20 April 1908, dan upacara pelaksanaan pada 24 Oktober di Taman Taichung — seluruh proyek ini dirancang dan direalisasikan olehnya dari awal[^f4][^f5].
 
-Keberadaan Hasegawa tidak hanya di atas rel. Stasiun Keelung (1912), Stasiun Hsinchu (1913) dirancang olehnya, Pavilion Merah Ximen juga kolaborasi dengan Kondo Juro [^f3]. Pada tahun 1921 ia meninggal di Jepang, patung perunggu pernah didirikan di depan Stasiun Taipei, dibongkar pasca-perang: pembongkaran patung perunggu ini adalah gerakan standar genealogi nama asing: catatan yang ditinggalkan generasi sebelumnya harus dinomori ulang oleh generasi berikutnya.
+Kehadiran Hasegawa tidak hanya terlihat pada rel. Stasiun Keelung (1912) dan Stasiun Hsinchu (1913) adalah hasil desainnya, begitu juga dengan gerbang merah barat (Ximenhong) yang ia desain bersama dengan Motosaburo Kondo[^f3]. Pada 1921, ia meninggal di Jepang, dan di depan Stasiun Taipei pernah berdiri patung tembaga untuk mengabadarkannya, namun patung itu dibongkar setelah perang: penghapusan patung ini adalah tindakan standar dalam identitas nama asing: catatan yang ditinggalkan oleh generasi sebelumnya, generasi berikutnya selalu mengganti nomornya sekali lagi.
 
-Di bawah Hasegawa ada cabang yang lebih gila. Kawai Shitaro (かわい したろう, 1865-1931) orang Nagoya, lulusan Departemen Kehutanan Universitas Imperial Tokyo, belajar kebijakan kehutanan dan manajemen hutan di Jerman-Austria pada tahun 1897: ia adalah inisiator Jalur Kereta Hutan Alishan [^f6]. Jalur ini harus mendaki dari dataran Chiayi ke ketinggian 2.274 meter, perbedaan ketinggian lebih dari 2.000 meter, empat metode teknik jalur gunung dunia (putaran, zigzag, spiral, bergantian jembatan dan terowongan) semuanya ia gunakan [^f6]. Insinyur tangan kanan Kawai, Shindo Kumenosuke, bertanggung jawab atas pengukuran segmen Zhuziqi ke Zhangnaoliao: segmen itu adalah bagian tersulit jalur gunung: setelah seluruh jalur dibuka, saat uji coba, ia mengalami kecelakaan kereta di segmen Alishan dan tewas. Insinyur asing (termasuk teknisi era kolonial Jepang ini) yang pertama berkorban di rel Taiwan adalah dia.
+Di bawahnya, Hasegawa juga memiliki satu jalur aksesoris yang lebih gila lagi. Kawai Shitaro (1865-1931), seorang warga Nagoya, lulusan Fakultas Kehutanan Universitas Tokyo, pada 1897 ia belajar di Jerman tentang kebijaksanaan hutan dan pengelolaan hutan: ia adalah pelopor Kereta Api Hutan Alishan[^f6]. Jalur ini harus naik dari dataran rendah Chiayi hingga puncak gunung Alishan di ketinggian 2.274 meter, dengan selisih ketinggian lebih dari 2.000 meter, sehingga insinyurnya menggunakan keempat metode teknis terbaik dari seluruh dunia untuk jalur gunung: spiral, belokan Z (switchback), gerbang bergulir, dan kombinasi jembatan dan terowongan. Insinyur tangannya kanan, Inuzuka Kumazaemon, bertanggung jawab atas survei dari Chujiao hingga Zhan'ao: bagian ini adalah bagian paling sulit dari jalur gunung: setelah seluruh jalur beroperasi, saat uji coba, ia tenggelam dalam terowongan Alishan dan tewas. Orang asing pertama yang mengorbankan nyawanya di rel Taiwan, adalah dirinya.
 
-Shinmoto Shikanosuke (しんもと しかのすけ, 1870-1949) orang Kagoshima, lulus Departemen Teknik Sipil Universitas Imperial Tokyo pada tahun 1894, awalnya menjabat sebagai teknisi di Biro Kereta Api Kementerian Pos dan Telekomunikasi, kemudian mengambil alih sistem kereta api Taiwan Hasegawa [^f7]. Sumber bahasa Tionghoa tentang pekerjaan spesifiknya di Taiwan jauh lebih sedikit daripada Hasegawa, ini juga fenomena umum dalam genealogi era kolonial Jepang: cerita insinyur utama generasi pertama ditulis berulang kali, nama-nama penerus perlahan mundur ke catatan kaki.
+Shinmoto Shikanosuke (1870-1949), seorang warga Kagoshima, lulusan Fakultas Teknik Sipil Universitas Tokyo pada 1894, pertama-tama bekerja di Departemen Pos dan Telekomunikasi, kemudian mengambil alih sistem kereta api Taiwan yang dikelola Hasegawa[^f7]. Catatan dalam bahasa Cina tentang pekerjaannya di Taiwan jauh lebih sedikit dibandingkan dengan Hasegawa, ini juga fenomena umum dalam identitas masa kolonial: kisah insinyur pertama sering ditulis berulang, sementara nama penggantinya perlahan-lahan tenggelam ke dalam catatan kaki.
 
-> 📝 **Perspektif Kurasi:** Dari Becker ke Hasegawa ke Shinmoto, setiap nama asing bertanggung jawab membangun segmen jalan, kemudian ditimpa sebagian saat generasi berikutnya mengambil alih. Jalur kereta Liu Mingchuan dibongkar dan dibangun ulang oleh Jepang, jalur vertikal Hasegawa diubah nama dan nomornya oleh TRA pasca-perang, jalur kehutanan Kawai berubah menjadi rute wisata setelah penebangan kayu berakhir. Rel TRA ini benar-benar hidup, benar-benar masih berjalan, tetapi harga hidup adalah catatan generasi sebelumnya mundur ke catatan kaki—sebuah jalur tunggal yang kehilangan nama asing.
+> 📝 **Pandangan kurator:** Dari Becker hingga Hasegawa hingga Shinmoto, setiap nama asing bertanggung jawab membangun sebagian jalur, lalu sebagian besar dicatat ulang ketika generasi berikutnya mengambil alih. Jalan Liu Mingzhuan direalisasikan kembali oleh orang Jepang, garis lintas Hasegawa diganti nama dan nomor oleh kereta api Taiwan pasca-perang, jalur hutan Hasegawa berubah menjadi jalur wisata setelah penebangan selesai. Rel ini benar-benar hidup, benar-benar masih berjalan, namun biaya hidupnya adalah catatan generasi sebelumnya yang tenggelam ke dalam catatan kaki — sebuah garis tunggal yang kehilangan nama asing.
 
-## Liu Mingchuan atau Hasegawa Kin-suke?
+## Liu Mingzhuan atau Hasegawa?
 
-Pada Juli 2020, Taman Museum Kereta Api Nasional Taiwan dibuka, penjelasan pameran menyebut Hasegawa Kin-suke, Kepala Biro Kereta Api Pemerintah Jenderal Era Kolonial Jepang, sebagai "Bapak Kereta Api Taiwan". Dalam satu minggu, perdebatan meledak. Mantan legislator Cai Zhengyuan mempertanyakan: orang pertama yang mendorong kereta api di Taiwan jelas Liu Mingchuan, bagaimana bisa gelar ini diberikan kepada Jepang?
+Pada Juli 2020, Kawasan Taman Sejarah Museum Taiwan membuka bagian khusus kereta api, dan panel pembedasannya menyebutkan Hasegawa sebagai "ayah dari kereta api Taiwan". Dalam seminggu, kabar ini beredar liar. Mantan anggota parlemen Tsai Cheng-wen mempertanyakan: orang pertama yang mendorong pembangunan kereta api di Taiwan adalah Liu Mingzhuan, bagaimana bisa memberi gelar ini kepada orang Jepang?
 
-Daerah abu-abu fakta ada di sini: Liu Mingchuan memang membangun jalur kereta api pertama di Taiwan, tetapi jalur itu rusak parah sehingga Jepang membongkar semuanya. Hasegawa Kin-suke tinggal di Taiwan selama sembilan tahun mulai 1899, memimpin pembangunan jalur vertikal, dari Keelung ke Kaohsiung panjangnya 404 km, dibuka sepenuhnya pada tahun 1908: ini adalah dasar sebenarnya jaringan kereta api Taiwan hari ini.
+Fakta berada di zona abu-abu: Liu Mingzhuan memang membangun jalur kereta api pertama di Taiwan, namun jalurnya begitu buruk hingga orang Jepang harus merealisasikan kembali seluruhnya. Hasegawa tinggal di Taiwan sejak 1899 selama sembilan tahun, bertanggung jawab atas konstruksi garis lintas, dari Keelung hingga Kaohsiung sepanjang 404 km, dan seluruh jaringan beroperasi pada 1908: inilah dasar sebenarnya dari jaringan rel Taiwan yang ada hari ini.
 
-Satu adalah pemimpi, satu adalah eksekutor. Siapa "Bapak", tergantung apakah Anda merasa "memulai" lebih penting, atau "menyelesaikan" lebih penting. (Konteks argumen dari [Kolumnis Mingren Udn, Jiang Binglun](https://opinion.udn.com/opinion/story/12705/4720975))
+Satu adalah seorang penemu, satu adalah seorang pelaksana. Siapa yang lebih pantas disebut "ayah", tergantung pada apakah Anda lebih menekankan pada "permulaan" atau "penyelesaian". (Dikutip dari [Lianhe Zaixian, Mingren Tang, komentar Jiang Bilun](https://opinion.udn.com/opinion/story/12705/4720975))
 
-> 📝 **Perspektif Kurasi:** Persaingan "Bapak Kereta Api" secara permukaan adalah考证 (bukti sejarah), di bawahnya adalah politik identitas yang selalu diolah masyarakat Taiwan—warisan Qing dan warisan era kolonial Jepang, mana yang "lebih milik kita"? Masalah ini tidak hanya muncul di kereta api, juga muncul di [[日治時期|Arsitektur Era Kolonial Jepang]], fasilitas irigasi, bahkan sistem medis.
+> 📝 **Pandangan kurator:** Persaingan "ayah dari kereta api" tampaknya hanya soal akurasi sejarah, namun sebenarnya berada di balik isu politik identitas yang selalu dihadapi oleh masyarakat Taiwan — warisan Tiongkok dan warisan Jepang, yang mana yang "lebih milik kita"? Pertanyaan ini tidak hanya muncul dalam kereta api, tetapi juga dalam [bangunan kolonial Jepang](/id/history/japanese-colonial-era/), fasilitas air, bahkan sistem kesehatan.
 
 ## 1908: Hari di Taman Taichung
 
-Pada 20 April 1908, jalur vertikal dibuka sepenuhnya. Pada 24 Oktober tahun yang sama, Pemerintah Jenderal Taiwan mengadakan "Upacara Pembukaan Sepenuhnya Jalur Kereta Api Vertikal" di Taman Taichung, membangun Pavilion Dua Lantai gaya perpaduan Barat-Jepang sebagai tempat istirahat tamu kerajaan: paviliun ini masih berdiri di tengah danau Taman Taichung hingga hari ini, menjadi landmark Kota Taichung.
+Pada 20 April 1908, garis lintas seluruhnya beroperasi. Pada 24 Oktober 1908, Pemerintah Kolonial Jepang mengadakan upacara "Pelaksanaan Garis Lintas" di Taman Taichung, membangun sebuah gazebo gaya campuran Barat-Timur sebagai tempat istirahat untuk tamu kerajaan: gazebo ini masih berdiri di tengah danau Taman Taichung hingga kini, menjadi landmark kota Taichung.
 
-Jalur vertikal mengubah logika ruang Taiwan. Sebelum kereta api, Taiwan adalah kumpulan pemukiman independen yang berkumpul di sepanjang pelabuhan sungai. Setelah kereta api, kota-kota di sebelah stasiun kereta seperti Taichung, Chiayi, Tainan tumbuh cepat menjadi kawasan komersial, menjadi pusat wilayah. Stasiun kereta api menentukan tempat mana yang makmur, tempat mana yang dilupakan, pola ini bertahan selama seratus tahun.
+Garis lintas mengubah logika ruang Taiwan. Sebelum adanya kereta api, Taiwan adalah sekumpel desa-desa yang tersebar di sepanjang sungai dan pelabuhan. Setelah adanya kereta api, kota-kota di sekitar stasiun kereta seperti Taichung, Chiayi, dan Tainan tumbuh pesat dan berkembang menjadi pusat wilayah. Stasiun kereta menentukan kota mana yang makmur dan kota mana yang dilupakan, pola ini bertahan selama satu abad.
 
-Jalur vertikal dibagi menjadi jalur pegunungan dan jalur pesisir. Jalur pegunungan dari Zhunan menembus Miaoli, area pegunungan Taichung ke Changhua, tingkat kesulitan teknis tinggi, Stasiun Shengxing jalur pegunungan lama memiliki ketinggian 402 meter, merupakan titik tertinggi jalur vertikal barat. Jalur pesisir mengikuti pantai barat melalui Tongxiao, Dajia, Qingshui, relatif datar tetapi banyak bukit pasir, memerlukan teknik pencegahan pasir khusus. Kedua jalur bertemu di Zhunan dan Changhua, seperti dua untai kalung.
+Garis lintas terdiri dari jalur gunung dan jalur pantai. Jalur gunung melewati Chuanbei, daerah pegunungan Taichung, hingga Changhua, dengan tingkat kesulitan teknis tinggi, stasiun Xingxing di jalur gungguan tertinggi dengan ketinggian 402 meter. Jalur pantai mengikuti pesisir barat laut, melewati Xingang, Dajia, dan Qingshui, relatif datar namun banyak pasir, membutuhkan teknik pencegahan pasir khusus. Kedua jalur ini bertemu di Chuanbei dan Changhua, seperti dua helai benang yang menenun sebuah kalung.
 
-## Jalur Kereta pada Ketinggian 2.274 Meter
+## Jalur di Ketinggian 2.274 Meter
 
-Pada tahun 1912, jalur kereta api lain yang lebih gila selesai.
+Pada 1912, sebuah jalur yang lebih gila lagi selesai.
 
-Jalur Kereta Hutan Alishan berangkat dari kawasan perkotaan Chiayi, mendaki hingga Alishan pada ketinggian 2.274 meter, panjang total 71 km, perbedaan ketinggian lebih dari 2.000 meter. Untuk mengatasi topografi ini, insinyur menggunakan keempat dari empat metode jalur gunung dunia: putaran, zigzag (switchback), spiral, dan bergantian jembatan dan terowongan. Seluruh jalur memiliki lebih dari 50 terowongan dan 77 jembatan kayu.
+Jalur Kereta Api Hutan Alishan (Alishan Forest Railway) berangkat dari pusat kota Chiayi, naik perlahan hingga puncak gunung Alishan di ketinggian 2.274 meter, dengan panjang total 71 km dan selisih ketinggian lebih dari 2.000 meter. Untuk mengatasi topografi ini, insinyur menggunakan keempat metode teknis terbaik dari seluruh dunia untuk jalur gunung: spiral, belokan Z (switchback), gerbang bergulir, dan kombinasi jembatan dan terowongan. Seluruh jalur memiliki lebih dari 50 terowongan dan 77 jembatan kayu.
 
-Jalur ini awalnya dibangun untuk mengangkut kayu cendana seribu tahun Alishan ke bawah untuk dijual. Setelah penebangan kayu berakhir, jalur kereta api ini secara tidak sengaja menjadi rute wisata terindah di Taiwan: naik kereta api kecil dari dataran ke pegunungan, jendela dari kebun pinang berubah menjadi hutan bambu, kemudian menjadi hutan konifer berkabut, setara dengan menembus ekosistem vertikal Taiwan dalam dua jam.
+Awalnya, jalur ini dibangun untuk mengangkut kayu cemara abadi yang tumbuh selama ribuan tahun di Alishan. Setelah penebangan selesai, jalur ini secara tidak terduga menjadi salah satu jalur wisata paling indah di Taiwan: naik kereta kecil dari dataran rendah ke pegunungan, melalui kebun betawi, hutan kayu, hingga ke kabut rendah di hutan konifer, seolah-olah menempuh perjalanan vertikal melintasi ekosistem Taiwan dalam dua jam.
 
-Kementerian Kebudayaan telah memasukkan Jalur Kereta Hutan Alishan sebagai salah satu dari 18 titik potensi warisan dunia Taiwan. Pada tahun 2018, Dewan Eksekutif membentuk "Badan Manajemen Warisan Budaya dan Jalur Kereta Hutan Alishan", khusus menyimpan warisan industri seratus tahun ini. ([Sumber: Kementerian Kebudayaan](https://www.moc.gov.tw/en/News_Content2.aspx?n=398&s=14062))
+Kementerian Budaya telah menempatkan Jalur Kereta Api Hutan Alishan sebagai salah satu dari 18 kandidat warisan dunia Taiwan. Pada 2018, Kabinet mengadakan "Pusat Pengelolaan Warisan Budaya dan Jalur Kereta Api Hutan Alishan" untuk mengelola warisan industri ini yang berusia seratus tahun. ( [Sumber: Kementerian Budaya](https://www.moc.gov.tw/en/News_Content2.aspx?n=398&s=14062) )
 
-## Heitou-á dan Genealogi Penamaan
+## Kepala Hitam dan Identitas Penamaan
 
-![Kumpulan lokomotif uap TRA yang disimpan di Gudang Bulat Changhua, difoto tahun 2009, bodi hitam, cerobong, ruang kemudi berbaris, merupakan sumber visual istilah "Heitou-á"](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg)
-_Kumpulan lokomotif uap TRA yang disimpan di Gudang Bulat Changhua tahun 2009. Foto: Neeson Hsu. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg)._
+![Kelompok locomotif uap yang tersimpan di Gudang Berputar Changhua pada 2009, terdiri dari beberapa unit berwarna hitam dengan cerobong asap dan kabin pengemudi yang rapi, merupakan asal usul visual istilah "Kepala Hitam"](/article-images/history/tra-changhua-roundhouse-steam-2009.webp)
+_2009, kelompok locomotif uap yang tersimpan di Gudang Berputar Changhua. Photo: Neeson Hsu. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg)._
 
-Di atas rel yang ditinggalkan insinyur asing, ada kelompok lain yang berlari. Dari akhir era kolonial Jepang hingga pasca-perang, kereta api Taiwan memiliki nama bahasa Hokkien sendiri.
+Di rel yang ditinggalkan oleh insinyur asing, ada makhluk lain yang berlari. Pada akhir masa kolonial hingga pasca-perang, kereta api Taiwan memiliki nama sendiri dalam bahasa Tionghua.
 
-**"Heitou-á" (o͘-thâu-á)** adalah sebutan umum untuk semua lokomotif uap. Alasannya cat hitam tahan kotoran dan mudah diperbaiki, pada masa perang juga mudah disembunyikan dari udara, warna pelindung ini berlanjut hingga pasca-perang [^f8]. Kepala kereta dicat hitam pekat, benda raksasa, masyarakat langsung menyebutnya berdasarkan warna. Kata "Huocheyi" (kereta api) sendiri adalah terjemahan langsung: api menghasilkan uap, uap menggerakkan roda: "Huocheyi" adalah panggilan sayang untuk lokomotif uap kecil dari era kolonial Jepang hingga pasca-perang, dua lapisan panggilan untuk benda yang sama dengan "Heitou-á" (satu menekankan warna, satu menekankan tenaga).
+**"Kepala Hitam" (o͘-thâu-á)** adalah nama umum untuk semua locomotif uap. Alasannya adalah karena cat hitam yang tahan lama dan mudah diperbaiki, serta selama perang mudah disembunyikan dari udara: warna camouflage ini bertahan hingga pasca-perang[^f8]. Kepala kereta yang diecat hitam pekat seperti makhluk besar, masyarakat langsung menyebutnya berdasarkan warnanya. Istilah "kereta api" sendiri adalah terjemahan langsung: api menghasilkan uap, uap menggerakkan roda: "Kereta Api Kecil" adalah julukan untuk kereta api kecil dari akhir masa kolonial hingga pasca-perang, dan "Kepala Hitam" adalah nama lain untuk hal yang sama (satu menekankan warna, satu menekankan sumber tenaga).
 
-Pasca-perang, TRA mengambil alih semua lokomotif uap yang diperkenalkan pada era kolonial Jepang, menomori ulang menjadi tiga seri besar CK, CT, DT. Model kereta perwakilan:
+Setelah perang, kereta api Taiwan mengambil alih semua locomotif uap yang diperkenalkan selama masa kolonial, dan mengganti nomor dengan tiga seri utama: CK, CT, DT. Jenis kendaraan utama:
 
-| Nomor | Model Sama (JNR)                    | Tahun Pembuatan | Jumlah Masuk Taiwan | Pabrik                            | Catatan                                                                                                        |
-| ----- | ----------------------------------- | --------------- | ------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| CK101 | (Tank locomotive penumpang & kargo) | 1917            | 1 (disimpan)        | Nippon Jidosha                    | 09-06-1998 kembali beroperasi di Hari Kereta Api, lokomotif uap pertama TRA yang disimpan secara dinamis [^f9] |
-| CT250 | C55                                 | 1935-37         | 9                   | Kawasaki                          | Penumpang流线型 (streamline) 4-6-2 [^f10]                                                                      |
-| DT650 | D51                                 | 1936-44         | 32                  | Kawasaki, Nippon Jidosha, Hitachi | 2-8-2 kargo utama, pada masa perang juga menjalankan penumpang [^f10]                                          |
+| Nomor | Model yang sama (JNR)                                 | Tahun produksi | Jumlah masuk   | Produsen                            | Catatan                                                                                         |
+| ----- | ----------------------------------------------------- | -------------- | -------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------- |
+| CK101 | （digunakan untuk barang dan penumpang, gaya tangki） | 1917           | 1（tersimpan） | Perusahaan Mobil Jepang             | 9 Juni 1998, beroperasi kembali pada Hari Rel, bagian pertama dari penyimpanan dinamis TAI[^f9] |
+| CT250 | C55                                                   | 1935-37        | 9              | Kawasaki Kendaraan                  | Locomotif penumpang dengan desain aerodinamis 4-6-2[^f10]                                       |
+| DT650 | D51                                                   | 1936-44        | 32             | Kawasaki, Perusahaan Mobil, Hitachi | Locomotif barang utama 2-8-2, selama perang juga mengangkut penumpang[^f10]                     |
 
-CK101 adalah lokomotif uap tank penumpang dan kargo yang dibuat oleh Nippon Jidosha pada tahun 1917, disimpan pasca-perang. Pada Hari Kereta Api 1998, ia menyala kembali di bengkel Chiayi, peluit panjang meluncur: ini adalah lokomotif uap pertama TRA yang disimpan secara dinamis [^f9]. Penyimpanan dinamis berarti ia benar-benar masih berjalan, bukan spesimen di museum.
+CK101 adalah locomotif ganda yang diproduksi oleh Perusahaan Mobil Jepang pada 1917, sempat disimpan setelah perang. Pada Hari Rel 1998, ia menyala kembali di pabrik kereta Chiayi, dengan teriakan pelipurnya bersorak: ini adalah locomotif uap pertama dari TAI yang disimpan secara dinamis[^f9]. Penyimpanan dinamis berarti ia benar-benar masih beroperasi, bukan hanya patung di museum.
 
-> 💡 **Tahukah Anda:** Aturan penomoran lokomotif uap TRA pasca-perang mempertahankan logika era kolonial Jepang—CK adalah tank locomotive (tangki di badan lokomotif), CT adalah 4-6-2 khusus penumpang (dari seri JNR C), DT adalah 2-8-2 khusus kargo (dari seri D). Hanya melihat huruf pertama nomor, penggemar kereta api bisa menebak sumbu dan tujuannya.
+> 💡 **Fakta menarik:** Aturan penomoran locomotif uap TAI pasca-perang masih mempertahankan logika masa kolonial — CK adalah gaya tangki (tank locomotive, tangki air berada di atas kereta), CT adalah 4-6-2 khusus penumpang (diambil dari seri C JNR), DT adalah 2-8-2 khusus barang (diambil dari seri D). Hanya dengan melihat huruf pertama dari nomor, para penggemar kereta api bisa menebak konfigurasi sumbu roda dan penggunaannya.
 
-Setelah era uap berakhir, TRA mulai memberi nama baru untuk kereta penumpang. Lapisan genealogi penamaan ini lebih politis daripada genealogi teknis:
+Setelah era uap berakhir, TAI mulai memberi nama baru pada kereta penumpang. Identitas penamaan ini lebih politis dibandingkan dengan identitas teknis:
 
-| Kereta  | Tahun Masuk | Asal Penamaan                                                                                                               | Model Mesin                      |
-| ------- | ----------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| Juguang | 03-02-1970  | "Jangan Lupa di Ju" — Chiang Kai-shek mengambil典故 (alusi) Tian Dan memulihkan negara                                      | R100 Diesel Listrik [^f11]       |
-| Ziqiang | 15-08-1978  | Survei 1976 → Xie Dongmin memutuskan "Hormat dan Kuat, Tidak Terkejut dalam Perubahan" — slogan setelah ROC keluar dari PBB | EMU100 EMU [^f12]                |
-| Fuxing  | 06-07-1980  | Arti "Pemulihan", "Kebangkitan", diposisikan sebagai kereta penumpang kelas tiga di bawah Juguang                           | Kereta AC buatan Tangrong [^f13] |
+| Kereta   | Tahun masuk | Asal penamaan                                                                                                       | Jenis kendara                                 |
+| -------- | ----------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Ju Kang  | 1970-02-03  | "Jangan lupa di Ju Kang" — cerita dari Tan Shuofu, Chiang Kai-shek                                                  | Locomotif diesel-elektrik R100[^f11]          |
+| Ji Qi    | 1978-08-15  | Survei opini 1976 → Syahrial menentukan "Ji Qi tangguo, chubian buding" — slogan pemerintah setelah keluar dari PBB | Kereta listrik EMU100[^f12]                   |
+| Fu Sheng | 1980-07-06  | Berarti "pemulihan" dan "pemberontaan", ditempatkan sebagai kereta kelas ketiga di bawah Ju Kang                    | Kereta berpendingin udara dari Tangrong[^f13] |
 
-Proses penamaan Ziqiang layak diperlambat. Pada tahun 1976, TRA委托 (menyuruh) Asosiasi Survei Opini Publik ROC melakukan survei acak, tiga nama kandidat yang sudah ditentukan sebelumnya adalah "Ziqiang, Shengli, Ziyou", hasil survei ketiga mendapat sepertiga suara masing-masing: seperti tidak ada konsensus. Akhirnya oleh Gubernur Provinsi Taiwan Xie Dongmin sendiri diputuskan sebagai "Ziqiang", berasal dari slogan yang beredar luas di era Chiang Ching-kuo "Hormat dan Kuat, Tidak Terkejut dalam Perubahan" [^f12]. Pada 15 Agustus 1978, EMU100 (disebut populer "British Po-po" karena bodi dibuat oleh GEC Inggris) resmi beroperasi.
+Proses penamaan Ji Qi pantas dilihat perlahan. Pada 1976, TAI mendorong survei opini acak oleh Asosiasi Survei Opini Republik Tiongkok, dengan tiga nama kandidat yang telah ditentukan sebelumnya: "Ji Qi", "Sheng Li", dan "Zi You", masing-masing mendapatkan sepertiga suara: seolah-olah tidak ada konsensus. Akhirnya, gubernur provinsi Taiwan Syahrial yang secara pribadi memutuskan untuk menamanya "Ji Qi", diambil dari slogan yang populer pada masa Chiang Ching-kuo: "Ji Qi tangguo, chubian buding"[^f12]. Pada 15 Agustus 1978, kereta listrik EMU100 (dikenal sebagai "Ibu Inggris", karena badan keretanya diproduksi oleh GEC di Inggris) mulai beroperasi.
 
-Penamaan tiga generasi kereta penumpang 1970-80 semuanya sesuai dengan slogan politik ROC (Juguang / Hormat dan Kuat / Fuxing), genealogi penamaan ini adalah kesaksian tumpang tindihnya modernisasi teknik dan modernisasi ideologi pada masa martial law: teknologi EMU benar-benar diperkenalkan, bungkus luarnya adalah retoris "Tidak Terkejut dalam Perubahan". Setelah 1990, diskusi privatisasi kereta api muncul, model kereta generasi baru menggunakan nama penduduk asli dan nama gunung: Puyuma (bahasa Paiwan "kumpul"), Taroko (Taroko): ini adalah belokan sejarah penamaan di rel yang sama, dari "Kita tidak boleh lupa" menjadi "Apa nama pulau ini pada awalnya".
+Penamaan tiga generasi kereta penumpang antara 1970 dan 1980 seluruhnya sesuai dengan slogan politik pemerintah (Ju Kang / Ji Qi tangguo / Fu Sheng), identitas penamaan ini menjadi saksi dari bertumpinya modernisasi teknis dan modernisasi ideologi selama masa karantina: teknologi kereta listrik memang berhasil diperkenalkan, namun kemasan luarnya adalah retorika "Ji Qi tangguo, chubian buding". Setelah 1990, diskusi tentang privatisasi kereta api mulai muncul, dan generasi baru kereta menggunakan nama asli suku bangsa asli dan nama gunung: Puyuma (bahasa Bunun, "berkumpul"), Taroko (suku Taroko): ini adalah perubahan identitas penamaan pada rel yang sama, dari "kita tidak boleh melupakan" menjadi "pulau ini dulu disebut apa".
 
-> ✦ Dari Becker ke Hasegawa ke Puyuma: rel tidak pernah berubah, nama terus berganti.
+> ✦ Dari Becker hingga Hasegawa hingga Puyuma: rel tidak pernah berubah, namun nama-nama selalu diganti.
 
-## Bento Lebih Terkenal dari Kereta Api
+## Makanan Lebih Terkenal Daripada Kereta Api
 
-Pada tahun 1949, TRA mulai memproduksi bento di restoran kereta api lima stasiun: Kaohsiung, Tainan, Taichung, Taipei, Songshan, memudahkan penumpang jarak jauh makan. Awalnya hanya bento nasi dan lauk biasa, perlahan berubah menjadi klasik yang membuat gigi dan mulut harum: Bento Tulang Ribs Braise. ([Sumber: Majalah Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=3cd2ae7a-f0e1-4aa2-8696-9af844ba112c&CatId=10))
+Pada 1949, TAI mulai memproduksi makanan di lima stasiun: Kaohsiung, Tainan, Taichung, Taipei, dan Songshan, untuk memudahkan penumpang jarak jauh makan. Awalnya hanyalah makanan nasi biasa, namun kemudian perlahan berubah menjadi hidangan klasik yang tak terlupakan: nasi dengan ayam goreng. ( [Sumber: Majalah Guanghua Taiwan](https://www.taiwan-panorama.com/Articles/Details?Guid=3cd2ae7a-f0e1-4aa2-8696-9af844ba112c&CatId=10) )
 
-Menjelani 2020-an, bento TRA terjual lebih dari 10 juta bungkus per tahun. Hanya Stasiun Taipei menjual puluhan ribu per hari, bento tulang ribs braise menyumbang hampir sembilan puluh persen. Ada yang mengatakan TRA adalah "toko bento yang tertipu oleh kereta api": candaan ini memiliki kepahitan yang nyata: kualitas layanan TRA dikritik panjang lebar, tetapi reputasi bento tidak pernah goyah. ([Sumber: Udn Time](https://time.udn.com/udntime/story/122390/7012703))
+Pada 2020-an, makanan TAI terjual lebih dari 10 juta porsi setahun. Di stasiun Taipei saja, setiap hari terjual lebih dari 10.000 porsi, dari mana nasi dengan ayam goreng mendominasi hampir 90%. Ada yang bercanda mengatakan TAI adalah "toko makan yang disabot oleh kereta api": leluasa dalam leluasa ini mengandung kebenaran: kualitas layanan TAI selama ini sering dikritik, namun reputasi makanannya tidak pernah goyah. ( [Sumber: Lianhe Zaixian Baojing](https://time.udn.com/udntime/story/122390/7012703) )
 
-Bento TRA tidak hanya menjual makanan. Kotak bento aluminium, tulang ribs yang direndam kuah hitam pekat, acar dan tahu kering yang disisipkan di sudut: bagi banyak orang Taiwan, ini adalah memori aroma perjalanan kereta api, adalah rasa "dalam perjalanan".
+Makanan TAI tidak hanya menjual makanan. Kotak makanan aluminium, ayam goreng yang disuburkan dengan saus gelap, serta sayuran asam dan kacang yang tersembunyi di sudut-sudutnya: bagi banyak orang Taiwan, ini adalah kenangan aroma perjalanan kereta, rasa hormat dalam "di jalan".
 
-## "Investasi Pemerintah Nol" Judi Besar
+## "Nol Investasi Pemerintah" — Taruhan Besar
 
-Pada 1990-an, transportasi utara-selatan Taiwan sudah jenuh. Zhongshan Expressway dan Beier Expressway macet total, jalur penerbangan domestik satu kursi sulit dicari. Pemerintah memutuskan membangun Kereta Api Berkecepatan Tinggi (TGV), menggunakan model BOT (Build-Operate-Transfer) untuk tender.
+Pada 1990-an, lalu lintas lalu lintas utara dan selatan Taiwan sudah mencapai batas maksimal. Jalan tol Sun Yat-sen dan Jalan Tol Utara-Selatan penuh sesak, dan penerbangan domestik sulit ditemukan. Pemerintah memutuskan untuk membangun jalan rel cepat, menggunakan model BOT (Bangun–Operasikan–Serahkan) untuk pengadaan.
 
-Pada tahun 1997, tim Taiwan TGV yang dipimpin Yin Qi mengalahkan lawan dengan janji "Investasi Pemerintah Nol", memenangkan kasus BOT terbesar dalam sejarah. Total biaya konstruksi sekitar NT$513,3 miliar, menggunakan teknologi kereta Shinkansen 700T Jepang. Januari 2007 dibuka, Taipei ke Kaohsiung tercepat 1 jam 35 menit, kecepatan 300 km/jam.
+Pada 1997, tim Taiwan High Speed Rail yang dipimpin oleh Yin Qi berhasil merebut proyek BOT terbesar dalam sejarah dengan janji "nol investasi pemerintah". Total biaya konstruksi sekitar 513,3 miliar dolar Taiwan, menggunakan teknologi kereta api baru Jepang 700T. Pada Januari 2007, mulai beroperasi, dengan kecepatan tercepat dari Taipei ke Kaohsiung hanya 1 jam 35 menit, dengan kecepatan maksimal 300 km/jam.
 
-Tapi janji "Investasi Nol" dengan cepat menjadi mimpi buruk keuangan. Jumlah penumpang awal TGV tidak sesuai harapan, beban bunga yang besar membuat perusahaan terus rugi, utang mencapai 40 miliar. Yin Qi mengundurkan diri sebagai presiden direksi pada 2009, TGV hampir bangkrut. Eksekutif saat itu Ou Jinde menolak proposal kebangkrutan,认为 (berpikir) "dibeli kembali oleh pemerintah 'tidak menguntungkan bagi masyarakat'". ([Sumber: Majalah CommonWealth](https://www.cw.com.tw/article/5063616))
+Namun, janji "nol investasi pemerintah" segera berubah menjadi mimpi buruk keuangan. Pada awalnya, jumlah penumpang tidak memenuhi ekspektasi, dan beban bunga yang besar membuat perusahaan terus-menerus mengalami kerugian, dengan total utang mencapai 40 miliar. Pada 2009, Yin Qi mengundurkan diri sebagai presiden, dan kereta api cepat hampir bangkrut. Eksekutif tahun itu, O Jin-de membelokkan usaha untuk menyelamatkan rencana kebangkrutan, meyakini bahwa pemerintah harus membeli kembali karena "tidak menguntungkan bagi masyarakat". ( [Sumber: Majalah Tianxia](https://www.cw.com.tw/article/5063616) )
 
-Pada tahun 2015 pemerintah memimpin reformasi keuangan, memperpanjang masa konsesi, menyesuaikan struktur saham. TGV akhirnya hidup kembali. Pada tahun 2024, total penumpang 78,25 juta orang, pendapatan pertama kali menembus NT$50 miliar, mencapai NT$53,19 miliar, volume harian rata-rata 214.000 orang. ([Sumber: Udn News](https://udn.com/news/story/7270/8757143))
+Pada 2015, pemerintah memimpin reformasi keuangan, memperpanjang masa kontrak, menyesuaikan struktur ekuitas. Akhirnya, kereta api cepat bangun kembali. Pada 2024, total penumpang tahunan mencapai 78,25 juta orang, pendapatan pertama kali melebihi 5 miliar dolar Taiwan, mencapai 5,319 miliar dolar Taiwan, dengan rata-rata harian 214.000 orang. ( [Sumber: Lianhe Zaixian](https://udn.com/news/story/7270/8757143) )
 
-Dari hampir bangkrut menjadi pendapatan tahunan 50 miliar, cerita TGV bukan narasi sukses murni: ini adalah pelajaran tentang konstruksi publik, modal swasta, dan permainan politik.
+Dari hampir bangkrut hingga pendapatan tahunan 5 miliar, kisah kereta api cepat bukan sekadar kisah sukses: ini adalah pelajaran tentang konstruksi publik, modal swasta, dan pertarungan politik.
 
-> 📝 **Perspektif Kurasi:** Kasus BOT TGV mengajarkan Taiwan satu hal: "Investasi Pemerintah Nol" terdengar indah, tetapi risiko konstruksi infrastruktur akhirnya harus ditanggung seseorang. Sebagian besar TGV di dunia dibangun dengan uang pemerintah, Taiwan belajar mengapa selama dua puluh tahun.
+> 📝 **Pandangan kurator:** Kasus BOT kereta api cepat mengajarkan pada Taiwan satu hal: "nol investasi pemerintah" terdengar indah, namun risiko dalam konstruksi dasar pada akhirnya harus ditanggung oleh seseorang. Di sebagian besar dunia, kereta api cepat dibangun dengan uang pemerintah, dan Taiwan butuh dua puluh tahun untuk belajar mengapa.
 
-| Angka Kunci Taiwan TGV |                            |
-| ---------------------- | -------------------------- |
-| Panjang Jalur          | 350 km (Nangang - Zuoying) |
-| Tahun Dibuka           | 2007                       |
-| Biaya Konstruksi       | Sekitar NT$513,3 miliar    |
-| Penumpang 2024         | 78,25 juta orang           |
-| Pendapatan 2024        | NT$53,19 miliar            |
-| Kecepatan Operasi Maks | 300 km/jam                 |
+| Indikator Penting Taiwan High Speed Rail |                          |
+| ---------------------------------------- | ------------------------ |
+| Panjang jalur                            | 350 km (Nangang—Zuoying) |
+| Tahun mulai beroperasi                   | 2007                     |
+| Biaya konstruksi                         | Sekitar NT$5,133 miliar  |
+| Volume penumpang 2024                    | 78,25 juta orang         |
+| Pendapatan 2024                          | NT$531,9 juta            |
+| Kecepatan operasional maksimum           | 300 km/h                 |
 
-## Reformasi yang Dibayar dengan 49 Nyawa
+## Reformasi yang Ditukar dengan 49 Nyawa
 
-Pada 2 April 2021, sebelum liburan Qingming, kereta lokal 408 Taroko Juguang menabrak kendaraan teknik yang longsor dari lereng bukit di depan Terowongan Qingshui Hualien, menyebabkan 49 orang tewas, lebih dari 200 orang terluka. Ini adalah kecelakaan terparah TRA sejak 1948.
+Pada 2 April 2021, sehari sebelum akhir pekan Hari Qingming, kereta api 408 nomor Taroko di stasiun Qingshui terbabuh karena tabrakan dengan mobil konstruksi yang meluncur dari lereng, menyebabkan 49 orang tewas dan lebih dari 200 orang terluka. Ini adalah kecelakaan paling fatal dalam sejarah TAI sejak 1948.
 
-Investasi kecelakaan mengungkapkan tidak hanya kendaraan teknik yang longsor, tetapi masalah sistemik yang terakumulasi panjang di TRA: manajemen konstruksi longgar, budaya keamanan lemah, organisasi kaku. Konsultan keamanan JR West Jepang, Abe Seiji secara langsung mengatakan, menurut standarnya, "JR West setelah reformasi 18 tahun pasca-kecelakaan Fuchuyama, hanya mendapat nilai 50; TRA yang akan dikorporatisasi, kesadaran keamanannya masih停留在 (terhenti) di JR West sebelum kecelakaan". ([Sumber: The Reporter](https://www.twreporter.org/a/taiwan-railway-3334-local-train-atp-neiwei-station))
+Temuan investigasi tidak hanya mengungkapkan mobil konstruksi yang meluncur, tetapi juga masalah sistemik yang telah terakumulasi selama bertahun-tahun di TAI: pengelolaan konstruksi longgar, budaya keselamatan lemah, dan organisasi kaku. Konsultan keselamatan JR Barat Jepang, Masaharu Anbe, dengan tegas berkata, menurut standarnya, "JR Barat setelah kecelakaan Kashiwazuka sudah berusaha keras selama 18 tahun, hanya mendapatkan 50 poin; TAI yang akan menjadi perusahaan, kesadaran keselamatannya masih berada pada tahap sebelum kecelakaan terjadi"。 ( [Sumber: Reporter](https://www.twreporter.org/a/taiwan-railway-3334-local-train-atp-neiwei-station) )
 
-Pada 1 Januari 2024, Biro Kereta Api Taiwan Kementerian Transportasi resmi diubah menjadi "Perusahaan Terbatas Kereta Api Nasional Taiwan". Presiden dan Manajer Umum pertama menandatangani "Piagam Keamanan", ditempel di pintu gedung perusahaan TRA. Dikorporatisasi dianggap sebagai titik awal untuk memecah birokrasi, memperkenalkan manajemen perusahaan: tetapi organisasi berubah, budaya berapa lama yang berubah, tidak ada yang berani menjamin.
+Pada 1 Januari 2024, Kementerian Transportasi dan Penyelenggaraan Taiwan secara resmi mengubah strukturnya menjadi "Perusahaan Terbatas Kereta Api Taiwan yang Dimiliki Negara", dan pengurus pertama dan eksekutifnya menandatangani "Piagam Keselamatan", yang terpasang di pintu gerbang gedung TAI. Transformasi menjadi perusahaan dianggap sebagai langkah awal untuk memecahkan struktur birokrasi dan memperkenalkan manajemen perusahaan: namun, meskipun organisasi berubah, budaya perlu berubah berapa lama, tidak ada yang berani memperkirakannya.
 
-## Sistem Saraf Sebuah Pulau
+## Sistem Saraf Pulau Ini
 
-![Kereta khusus kembali beroperasi 2021: Lokomotif uap DT668 didorong oleh lokomotif listrik E327 di Jalur Pesisir, adalah contoh penyimpanan dinamis kontemporer dari model sama D51 era kolonial Jepang](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg)
-_DT668 didorong oleh E327 di Jalur Pesisir TRA (contoh penyimpanan dinamis kontemporer model sama D51 akhir era kolonial Jepang). Foto: Cheng-en Cheng. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg)._
+![Pada 2021, terobosan khusus: Locomotif uap DT668 ditarik oleh lokomotif listrik E327 di jalur pantai, merupakan contoh penyimpanan dinamis dari jenis kereta api yang sama pada akhir masa kolonial](/article-images/history/tra-dt668-coast-line-2021.webp)
+_2021, DT668 ditarik oleh E327 di jalur pantai TAI (contoh penyimpanan dinamis dari jenis D51 pada akhir masa kolonial). Photo: Cheng-en Cheng. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg)._
 
-Peta kereta api Taiwan seperti sistem saraf: jalur vertikal barat adalah sumsum tulang belakang, TGV adalah jalur berkecepatan tinggi di sampingnya, jalur balik utara dan selatan timur adalah ujung saraf yang menjulur ke Huadong, Alishan dan Jalur Heping adalah kapiler.
+Peta rel Taiwan seperti sistem saraf: jalur utara-selatan adalah tulang belakang, kereta api cepat adalah saluran cepat di sampingnya, jalur timur utara dan selatan adalah ujung saraf yang menyentuh ke Timur, dan jalur Alishan dan Pingxi adalah pembuluh kecil.
 
-Sistem ini tumbuh dari "jalur kereta penyakit paru-paru" yang bergoyang-goyang dari Liu Mingchuan 1891, melalui pembongkaran dan pembangunan ulang Jepang, melalui pemboman perang dan perbaikan pasca-perang, melalui elektrifikasi dan percepatan kecepatan, melalui judi besar yang hampir membuat TGV bangkrut, melalui reformasi menyakitkan yang dibayar dengan 49 nyawa.
+Sistem ini tumbuh dari "jalan paru-paru" yang bergetar di 1891, melewati realisasi kembali oleh orang Jepang, ledakan bom dan perbaikan pasca-perang, elektrifikasi dan pembuatan jalur cepat, taruhan besar yang hampir membuat kereta api cepat bangkrut, hingga reformasi yang ditukar dengan 49 nyawa.
 
-Ketua Taman Museum Kereta Api Nasional dibuka pada 2020, papan pameran menulis Hasegawa Kin-suke adalah "Bapak Kereta Api Taiwan". Di hutan pegunungan Distrik Anle Keelung, terowongan Bukit Shiqiu Liu Mingchuan masih ada: terowongan kereta api pertama Taiwan, dinding bata ditumbuhi lumut. Untuk jalur Metro Zhonghe-Xinlu hari ini dari Daqiaotou ke Huilong, hampir mengikuti jalur kereta Liu Mingchuan 1893, hanya dari permukaan tanah masuk ke bawah tanah.
+Ketika Museum Sejarah Taiwan membuka bagian khusus kereta api pada 2020, panel pembedasannya menyebutkan Hasegawa sebagai "ayah dari kereta api Taiwan". Di antara hutan di kawasan Anhe di Keelung, terowongan Liongchiu milik Liu Mingzhuan masih ada: terowongan kereta api pertama di Taiwan, dindingnya dipenuhi lumut. Dan untuk bagian dari jalur yang sama dari Dadaocheng hingga Xiangshan di jalur MRT Hong-Nan-Si, hampir sama dengan jalur Liu Mingzhuan pada 1893, hanya saja kini berada di bawah tanah.
 
-Seratus tiga puluh tahun berlalu, jalan itu masih ada. Hanya ganti kulit.
+Tiga puluh tiga tahun telah berlalu, dan jalurnya masih ada. Hanya kulitnya yang diganti.
 
 ---
 
 ## Sumber Gambar
 
-Artikel ini menggunakan 3 gambar berlisensi CC, semua di-cache di `public/article-images/history/` untuk menghindari server sumber hotlink:
+Artikel ini menggunakan 3 gambar dengan lisensi CC, semuanya disimpan di `public/article-images/history/` untuk menghindari tautan langsung ke server sumber:
 
-- [Stoker Lokomotif Uap Jalur Taitung 1970-an](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Penyedia Foto: Zhou Yongfu, 1970-an, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
-- [Kumpulan Lokomotif Uap Gudang Bulat Changhua 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Foto: Neeson Hsu, 2009-08-30, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
-- [DT668 Didorong E327 di Jalur Pesisir 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Foto: Cheng-en Cheng, 2021-10-25, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
+- [Pekerja pembangun bara kereta api Taitung pada 1970-an](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Foto disediakan oleh Zhou Yongfu, 1970-an, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
+- [Kelompok locomotif uap di Gudang Berputar Changhua pada 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Foto: Neeson Hsu, 30 Agustus 2009, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
+- [DT668 ditarik oleh E327 di jalur pantai pada 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Foto: Cheng-en Cheng, 25 Oktober 2021, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
 
 ---
 
-## Referensi
-
-- [Taiwan Memory Expedition: 24 Oktober 1908 Upacara Pembukaan Sepenuhnya Jalur Kereta Api Vertikal Taiwan](https://www.twmemory.org/?p=7323)
-- [Ju Zhen Taiwan: 20 April 1908, Jalur Kereta Api Vertikal Dibuka Sepenuhnya](https://www.gjtaiwan.com/new/?p=28737)
-- [Vocus (Narrative Circle]: Kata Kunci Sejarah Taiwan | Jalur Kereta Liu Mingchuan](https://vocus.cc/article/62a1e88bfd89780001d18b9b)
-- [Mingren Udn: Mengapa Hasegawa Kin-suke adalah "Bapak Kereta Api", Liu Mingchuan adalah "Pembayar Kereta Api"?](https://opinion.udn.com/opinion/story/12705/4720975)
-- [Newtalk: Pandangan Guan Renjian: Cai Zhengyuan Salah! Liu Mingchuan Bukan "Bapak Kereta Api Taiwan"](https://newtalk.tw/news/view/2020-07-16/436762)
-- [StoryStudio: Kapan Bento Kereta Api Taiwan Mulai Dijual?](https://storystudio.tw/article/gushi/railway-bento)
-- [CommonWealth Magazine: Kebangkrutan, Benarkah Ini Nasib Satu-satunya Taiwan TGV?](https://www.cw.com.tw/article/5063616)
-- [The Reporter: Sopir Mengubah ATP dan Berbalik? 4 Tahun Kecelakaan Taroko](https://www.twreporter.org/a/taiwan-railway-3334-local-train-atp-neiwei-station)
-- [Udn News: Pendapatan TGV Tahun Lalu Pertama Kali Tembus 500 Miliar](https://udn.com/news/story/7270/8757143)
-- [Wikipedia: Alishan Forest Railway](https://en.wikipedia.org/wiki/Alishan_Forest_Railway)
-- [Kementerian Kebudayaan (Inggris): Alishan Forest Railway](https://www.moc.gov.tw/en/News_Content2.aspx?n=398&s=14062)
-- [Taiwan Panorama: Rasa Nostalgia --- Budaya Bento Kembali Populer](https://www.taiwan-panorama.com/Articles/Details?Guid=3cd2ae7a-f0e1-4aa2-8696-9af844ba112c&CatId=10)
-
-### Genealogi Insinyur Asing dan Lokomotif (Catatan Kaki Baru EVOLVE 2026-05-11)
-
-[^f1]: [Wikipedia: Kereta Api Taiwan (Qing)](<https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D)%3E>) — Konfigurasi insinyur asing jalur kereta Liu Mingchuan (desain teknik Becker, survei rute Watson, konsultan bisnis Matheson) dan konteks jaringan pengadaan Jardine Matheson di belakangnya.
-
-[^f2]: [Wikipedia: Sejarah Kereta Api Taiwan](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E9%81%93%E5%8F%B2) — Catatan negara pembuatan 8 lokomotif uap 1887-1891 (Tengyun, Yufeng buatan Jerman, 6 sisanya buatan Inggris) dan daftar penamaan Bahasa Mandarin Qing.
-
-[^f3]: [Wikipedia: Hasegawa Kin-suke](https://zh.wikipedia.org/zh-tw/%E9%95%B7%E8%B0%B7%E5%B7%9D%E8%AC%B9%E4%BB%8B) — Kelahiran dan kematian Prefektur Yamaguchi, timeline karir, catatan desain Stasiun Keelung, Stasiun Hsinchu dan Pavilion Merah Ximen.
-
-[^f4]: [Cai Longbao: Hasegawa Kin-suke dan Pengembangan Kereta Api Taiwan Era Kolonial Jepang (Makalah Akademik Arsip Sejarah Nasional)](https://www.drnh.gov.tw/var/file/3/1003/img/32/024.pdf) — Penelitian primer akademis tentang Gotō Shinpei menarik Hasegawa ke Taiwan, proses keputusan jalur vertikal sembilan tahun.
-
-[^f5]: [Nippon.com (Cina): Kontributor Terbesar Menyelesaikan Jalur Kereta Api Vertikal Taiwan --- Hasegawa Kin-suke](https://www.nippon.com/hk/japan-topics/g01209/) — Seri Orang Jepang yang Mengubah Taiwan, termasuk catatan pembukaan sepenuhnya 20 April 1908 dan upacara pembukaan 24 Oktober di Taman Taichung.
-
-[^f6]: [Nippon.com (Cina): Pembuka Jalur Kereta Alishan Kawai Shitaro](https://www.nippon.com/hk/japan-topics/g02087/) — Asal Nagoya Kawai Shitaro, lulusan Departemen Kehutanan Universitas Imperial Tokyo, belajar kebijakan kehutanan di Jerman-Austria 1897, konteks empat metode teknik jalur gunung desain Jalur Kereta Hutan Alishan.
-
-[^f7]: [Wikipedia: Shinmoto Shikanosuke](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%85%83%E9%B9%BF%E4%B9%8B%E5%8A%A9) — Asal Kagoshima, lulus Departemen Teknik Sipil Universitas Imperial Tokyo 1894, awal teknisi Biro Kereta Api Kementerian Pos dan Telekomunikasi.
-
-[^f8]: [Wikipedia: Lokomotif Uap TRA](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E9%90%B5%E8%92%B8%E6%B1%BD%E6%A9%9F%E8%BB%8A) — Asal usul panggilan sayang bahasa Hokkien "Heitou-á" (penampilan seragam hitam pekat: kemudahan perawatan + penyembunyian pertahanan nasional) dan penjelasan sistem penomoran CK/CT/DT.
-
-[^f9]: [Wikipedia: Lokomotif Uap TRA Nomor CK101](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E9%90%B5CK101%E8%99%9F%E8%92%B8%E6%B1%BD%E6%A9%9F%E8%BB%8A) — Dibuat Nippon Jidosha 1917, kembali beroperasi secara dinamis 09-06-1998 di Hari Kereta Api, catatan lokomotif uap pertama TRA yang disimpan secara dinamis.
-
-[^f10]: [TRA Class DT650 / CT250 — Wikidata](https://www.wikidata.org/wiki/Q15899235) — DT650 adalah model sama JNR D51 (1936-44 Kawasaki, Nippon Jidosha, Hitachi total 32 unit), CT250 adalah model sama JNR C55 (9 unit) data spesifikasi teknis.
-
-[^f11]: [Wikipedia: Kereta Juguang](https://zh.wikipedia.org/zh-tw/%E8%8E%92%E5%85%89%E8%99%9F%E5%88%97%E8%BB%8A) — Mulai beroperasi 03-02-1970 ditarik lokomotif diesel-listrik seri R100, catatan penamaan "Jangan Lupa di Ju" (alusi Tian Dan memulihkan negara).
-
-[^f12]: [Wikipedia: Kereta Ziqiang](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E8%99%9F%E5%88%97%E8%BB%8A) — Survei Asosiasi Survei Opini Publik 1976, keputusan penamaan Xie Dongmin, konteks lengkap EMU100 beroperasi 15-08-1978, termasuk alusi "Hormat dan Kuat, Tidak Terkejut dalam Perubahan".
-
-[^f13]: [Wikipedia: Kereta Fuxing](https://zh.wikipedia.org/zh-tw/%E5%BE%A9%E8%88%88%E8%99%9F%E5%88%97%E8%BB%8A) — Mulai beroperasi 06-07-1980, kereta AC buatan Tangrong, diposisikan sebagai kereta penumpang kelas tiga catatan.
-
 ## Bacaan Lanjutan
 
-- [Era Pemerintahan Qing](/history/清治時期) — Latar belakang politik Liu Mingchuan mulai meletakkan rel
-- [[日治時期|Era Kolonial Jepang]] — Konteks pemerintahan kolonial Hasegawa Kin-suke, Kawai Shitaro mengambil alih konstruksi kereta api Taiwan
-- [Perang Qing-Prancis](/history/清法戰爭) — Liu Mingchuan ditunjuk sebagai gubernur jenderal Taiwan pertama karena perang ini, segera memulai konstruksi kereta api Keelung-Hsinchu
-- [Sistem Transportasi Taiwan](/lifestyle/台灣交通系統) — Posisi kereta api pasca-perang dalam jaringan transportasi multi-modal jalan raya, bandara, metro
-- [Taiwan TGV](/lifestyle/台灣高鐵) — Sistem kereta api berkecepatan tinggi yang dibuka 2007, ekstensi kontemporer sejarah kereta api Taiwan
+- [Masa Kekaisaran Qing](/id/history/qing-dynasty-rule) — Latar belakang politik di mana Liu Mingzhuan mulai memasang rel
+- [Masa Kolonial Jepang](/id/history/japanese-colonial-era) — Konteks pemerintahan kolonial yang merekrut Hasegawa, Kawai Shitaro untuk membangun kereta api Taiwan
+- [Perang Sino-Jepang Pertama](/id/history/sino-french-war-in-taiwan) — Perang ini yang menjadikan Liu Mingzhuan sebagai gubernur pertama Taiwan, dan segera memulai konstruksi jalur kereta api dari Keelung hingga Hsinchu
+- [Sistem Transportasi Taiwan](/id/lifestyle/transportation-system) — Posisi jalur kereta api dalam jaringan transportasi yang beragam seperti jalan tol, bandara, dan MRT
+- [Kereta Api Cepat Taiwan](/id/lifestyle/taiwan-high-speed-rail) — Sistem jalur rel cepat yang mulai beroperasi pada 2007, sebagai kelanjutan sejarah kereta api Taiwan
+
+## Referensi
+
+- [Taiwan Memory Expedition Team: 24 Oktober 1908, Upacara Pelaksanaan Garis Lintas Taiwan](https://www.twmemory.org/?p=7323)
+- [Ju Zhi Taiwan: 20 April 1908, Garis Lintas Seluruhnya Beroperasi](https://www.gjtaiwan.com/new/?p=28737)
+- [Kotak Catur (Lingkaran Cerita): Kata Kunci Sejarah Taiwan | Jalur Liu Mingzhuan](https://vocus.cc/article/62a1e88bfd89780001d18b9b)
+- [Lianhe Zaixian Mingren Tang: Mengapa Hasegawa adalah "Ayah dari Kereta Api", dan Liu Mingzhuan adalah "Pembayar"?](https://opinion.udn.com/opinion/story/12705/4720975)
+- [Newtalk: Pandangan Guan Jianjian: Tsai Zheng-yuan salah! Liu Mingzhuan bukan "Ayah dari Kereta Api"](https://newtalk.tw/news/view/2020-07-16/436762)
+- [StoryStudio: Sejak kapan makanan TAI mulai dijual?](https://storystudio.tw/article/gushi/railway-bento)
+- [Majalah Tianxia: Apakah kebangkrutan benar-benar satu-satunya nasib akhir dari Taiwan High Speed Rail?](https://www.cw.com.tw/article/5063616)
+- [Reporter: Pengemudi mengubah ATP dan mundur secara paksa? Meninjau kecelakaan Taroko 4 minggu setelahnya](https://www.twreporter.org/a/taiwan-railway-3334-local-train-atp-neiwei-station)
+- [Lianhe Zaixian: Pendapatan TAI tahun lalu pertama kali melebihi 5 miliar](https://udn.com/news/story/7270/8757143)
+- [Wikipedia: Kereta Api Hutan Alishan](https://en.wikipedia.org/wiki/Alishan_Forest_Railway)
+- [Kementerian Budaya (bahasa Inggris): Kereta Api Hutan Alishan](https://www.moc.gov.tw/en/News_Content2.aspx?n=398&s=14062)
+- [Majalah Guanghua Taiwan: Rasa nostalgia — budaya makanan kembali populer](https://www.taiwan-panorama.com/Articles/Details?Guid=3cd2ae7a-f0e1-4aa2-8696-9af844ba112c&CatId=10)
+
+### Catatan Kaki: Insinyur Asing dan Identitas Locomotif (Ditambahkan pada 11 Mei 2026)
+
+[^f1]: [Wikipedia: Taiwan Railway (Qing Dynasty)](<https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D)>) — Konfigurasi insinyur asing di jalur Liu Mingzhuan (Becker bertanggung jawab atas desain teknis, Watson melakukan survei jalur, Matheson sebagai konsultan komersial) dan jaringan pembelian dari perusahaan perdagangan Jardine Matheson di belakangnya.
+
+[^f2]: [Wikipedia: Sejarah Kereta Api Taiwan](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E9%81%93%E5%8F%B2) — Rekam jejak pembuatan 8 locomotif uap antara 1887 dan 1891 (Tengyun dan Yufeng adalah produk Jerman, enam lainnya adalah produk Inggris) dan daftar nama dalam bahasa Mandarin Qing.
+
+[^f3]: [Wikipedia: Kanjiro Hasegawa](https://zh.wikipedia.org/zh-tw/%E9%95%B7%E8%B0%B7%E5%B7%9D%E8%AC%B9%E4%BB%8B) — Tempat lahir dan wafat di prefektur Yamaguchi, kronologi karier, dan rekam jejak desain Stasiun Keelung dan Stasiun Hsinchu serta gerbang merah barat (Ximenhong).
+
+[^f4]: [Chen Longsaving: Kanjiro Hasegawa dan perkembangan kereta api Taiwan pada masa kolonial (makalah akademik Museum Nasional Sejarah)](https://www.drnh.gov.tw/var/file/3/1003/img/32/024.pdf) — Penelitian primer akademis tentang proses keputusan untuk memindahkan Hasegawa ke Taiwan oleh Goto Shimpei, dan sembilan tahun pengambilan keputusan tentang garis lintas.
+
+[^f5]: [Nippon.com (bahasa Cina): Orang yang paling berjasa dalam pembangunan kereta api Taiwan — Kanjiro Hasegawa](https://www.nippon.com/hk/japan-topics/g01209/) — Seri "Orang Jepang yang mengubah Taiwan", termasuk rekam jejak 20 April 1908 pelaksanaan penuh garis lintas dan 24 Oktober 1908 upacara pelaksanaan di Taman Taichung.
+
+[^f6]: [Nippon.com (bahasa Cina): Kawai Shitaro, pelopor kereta api Alishan](https://www.nippon.com/hk/japan-topics/g02087/) — Kawai Shitaro lahir di Nagoya, lulusan Fakultas Kehutanan Universitas Tokyo, belajar di Jerman pada 1897 tentang kebijaksanaan hutan, dan konteks desain empat metode teknis untuk jalur gunung Alishan.
+
+[^f7]: [Wikipedia: Shinmoto Shikanosuke](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%85%83%E9%B9%BF%E4%B9%8B%E5%8A%A9) — Lahir di Kagoshima, lulusan Fakultas Teknik Sipil Universitas Tokyo pada 1894, dan dimulai sebagai teknisi di Departemen Pos dan Telekomunikasi.
+
+[^f8]: [Wikipedia: Locomotif uap TAI](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E9%90%B5%E8%92%B8%E6%B1%BD%E6%A9%9F%E8%BB%8A) — Asal usul julukan "Kepala Hitam" dalam bahasa Tionghoa (penampilan yang seragam hitam: mudah dipelihara + tersembunyi dari pengintai saat perang) dan penjelasan sistem penomorian CK/CT/DT.
+
+[^f9]: [Wikipedia: Locomotif uap TAI CK101](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E9%90%B5CK101%E8%99%9F%E8%92%B8%E6%B1%BD%E6%A9%9F%E8%BB%8A) — Diproduksi oleh Perusahaan Mobil Jepang pada 1917, dinamis pada 9 Juni 1998, dan merupakan locomotif uap pertama dari TAI yang disimpan secara dinamis.
+
+[^f10]: [Wikidata: TAI Class DT650 / CT250](https://www.wikidata.org/wiki/Q15899235) — DT650 adalah jenis yang sama dengan D51 JNR (32 unit diproduksi oleh Kawasaki, Perusahaan Mobil, dan Hitachi antara 1936 dan 1944), CT250 adalah jenis yang sama dengan C55 JNR (9 unit) data teknisnya.
+
+[^f11]: [Wikipedia: Kereta Ju Kang](https://zh.wikipedia.org/zh-tw/%E8%8E%92%E5%85%89%E8%99%9F%E5%88%97%E8%BB%8A) — Mulai beroperasi pada 3 Februari 1970, ditarik oleh locomotif diesel-elektrik R100, dan catatan asal usul penamaan "Jangan lupa di Ju Kang" (dari cerita Tan Shuofu).
+
+[^f12]: [Wikipedia: Kereta Ji Qi](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E8%99%9F%E5%88%97%E8%BB%8A) — Survei opini 1976, penentuan nama oleh Syahrial, dan konteks lengkapnya sejak 15 Agustus 1978 ketika EMU100 mulai beroperasi, termasuk asal usul slogan "Ji Qi tangguo, chubian buding".
+
+[^f13]: [Wikipedia: Kereta Fu Sheng](https://zh.wikipedia.org/zh-tw/%E5%BE%A9%E8%88%88%E8%99%9F%E5%88%97%E8%BB%8A) — Mulai beroperasi pada 6 Juli 1980, diproduksi oleh Tangrong dengan pendingin udara, dan rekam jejak penempatannya sebagai kereta kelas ketiga di bawah Ju Kang.

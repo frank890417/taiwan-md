@@ -1,16 +1,16 @@
 ---
-title: 'Lingkungan Politik dan Sistem Pemilihan Taiwan'
-description: 'Dari arsitektur konstitusi, mekanisme pemilihan pusat dan daerah, hingga budaya politik partai yang mendalam, analisis menyeluruh bagaimana Taiwan mempertahankan masyarakat demokratis yang penuh vitalitas dan ketat secara sistematik di tengah geopolitik yang kompleks'
+title: 'Lingkungan Politik dan Sistem Pemilu Taiwan'
+description: 'Dari kerangka konstitusi, mekanisme pemilu pusat dan lokal, hingga budaya politik partai yang mendalam, analisis komprehensif tentang bagaimana Taiwan mempertahankan masyarakat demokrasi yang dinamis dan terpusat di tengah geopolitik yang kompleks'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Sistem Politik',
-    'Sistem Pemilihan',
-    'Semi-Presidensial',
-    'Otonomi Daerah',
-    'Masyarakat Sipil',
-    'Demokrasi Digital',
+    'Sistem politik',
+    'Sistem pemilu',
+    'Semi-presidialisme',
+    'Otonomi daerah',
+    'Masyarakat sipil',
+    'Demokrasi digital',
   ]
 subcategory: '民主與政治'
 author: 'Taiwan.md Contributors'
@@ -20,78 +20,80 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣政治環境與選舉制度.md'
-sourceCommitSha: 'dbaf28954'
-sourceContentHash: 'sha256:815fdbbdd8e6757e'
-sourceBodyHash: 'sha256:c04d648a91c00bf4'
-translatedAt: '2026-07-27T06:18:39+08:00'
+sourceCommitSha: '886779d83'
+sourceContentHash: 'sha256:1b46bb67f21432e0'
+sourceBodyHash: 'sha256:688a69633785627a'
+translatedAt: '2026-09-26T19:13:16+08:00'
 ---
 
-# Lingkungan Politik dan Sistem Pemilihan Taiwan
+# Lingkungan Politik dan Sistem Pemilu Taiwan
 
-> **Ringkasan 30 Detik:** Sistem politik Taiwan adalah teladan transformasi demokratis global, dari rezim hukum darurat 1980-an, berevolusi damai menjadi salah satu negara demokratis paling bebas di Asia. Melalui arsitektur pemerintah pusat **semi-presidensial**, serta teknologi pemilihan **sistem paralel** yang menggabungkan representasi daerah dengan proporsi partai, Taiwan membangun ekologi politik dengan partisipasi warga yang aktif (partisipasi pemilu presiden konstan 70–75%, legislatif dan sembilan-in-satu lokal sekitar 60–66%). Kegagalan kerja sama Biru-Putih akhir 2023, kemenangan tiga arah Lai Ching-te pada 2024, kontroversi RUU Reformasi Legislatif 2024 dan Putusan Mahkamah Konstitusi Nomor 9, penolakan nominasi hakim konstitusi oleh DPR, serta gelombang pemecatan massal 2025, berturut-turut menguji ketahanan konstitusi.
+> **30 detik gambaran:** Sistem politik Taiwan adalah model teladan dalam transformasi demokrasi global, berkembang dari sistem kamtib yang ketat pada 1980-an menuju salah satu negara demokrasi paling bebas di Asia. Melalui struktur pemerintah pusat "semi-presidialisme", serta teknik pemilu "paralel" yang menggabungkan representasi regional dan proporsi partai, Taiwan telah mendirikan ekosistem politik yang aktif dalam partisipasi sipil (tingkat partisipasi pemilu presiden tetap 70-75% setiap tahun, sedangkan legislatur dan pemilu lokal "sembilan-gabungan" sekitar 60-66%). Pada akhir 2023 terjadi kegagalan negosiasi "Biru-Hitam", pada 2024 Lai Qingde bersaing melawan tiga kandidat dan terpilih, kontroversi undang-undang reformasi parlemen 2024, keputusan Mahkamah Konstitusi menolak nominasi Hakim Agung, dan gelombang pemecatan massal 2025, semuanya menantang ketahanan konstitusi secara berturut-turut.
 
-## I. Arsitektur Konstitusi: Pembagian Lima Kekuasaan dan Sistem Kepala Ganda
+## I. Struktur Konstitusi: Pembagian Lima Kekuatan dan Sistem Kepala Dua Orang
 
-Arsitektur pemerintahan Taiwan bersumber dari _Konstitusi Republik Tiongkok_, setelah tujuh kali perubahan _Tiao-wen_ (Ketentuan Tambahan) kunci, berevolusi menjadi **semi-presidensialisme (Semi-Presidentialism)** saat ini, juga disebut sistem kepala ganda. [^1] Presiden dipilih langsung oleh seluruh rakyat setiap empat tahun, bertanggung jawab atas pertahanan, luar negeri, dan hubungan lintas selat, serta memiliki hak penunjukan langsung Perdana Menteri Eksekutif Yuan (tanpa persetujuan Legislatif Yuan). Perdana Menteri ditunjuk Presiden, menteri kabinet ditunjuk oleh Perdana Menteri dan disahkan Presiden; Eksekutif Yuan bertanggung jawab kepada Legislatif Yuan, jika Legislatif Yuan meloloskan usulan tidak percaya, Perdana Menteri harus mundur. Legislatif Yuan adalah parlemen satu kamar, bertugas meninjau undang-undang, mengawasi anggaran, dan mengawasi pemerintah.
+Struktur pemerintah Taiwan berasal dari "Konstitusi Republik Tiongkok", setelah melalui tujuh kali perubahan konstitusional penting, berkembang menjadi sistem **semi-presidialisme** saat ini, juga dikenal sebagai sistem kepala dua orang. Presiden dipilih secara langsung oleh seluruh rakyat setiap empat tahun, bertanggung jawab atas pertahanan nasional, diplomasi, dan hubungan antar-laut, serta memiliki hak untuk menunjuk Kepala Kantor Eksekutif secara langsung (tanpa persetujuan legislatur). Kepala Kantor Eksekutif ditunjuk oleh Presiden, kepala kementerian ditunjuk oleh Kepala Kantor Eksekutif kepada Presiden; Kantor Eksekutif harus bertanggung jawab kepada legislatur, jika legislatur menerima usulan tidak percaya, Kepala Kantor Eksekutif harus mengundurkan diri. Legislatur adalah kongres tunggal, bertanggung jawab atas pemeriksaan hukum, pengawasan anggaran, dan pengawasan terhadap pemerintah.
 
-Desain konstitusi mencakup Yudikatif Yuan, Ekaminasi Yuan, dan Pengawasan Yuan, membentuk arsitektur pembagian lima kekuasaan. Namun dalam praktik operasional, Taiwan telah beralih menuju inti tiga kekuasaan eksekutif, legislatif, dan yudikatif. Keberadaan dan penyesuaian fungsi Ekaminasi dan Pengawasan Yuan adalah isu pembahasan panjang dalam amandemen konstitusi Taiwan, namun saat ini tidak ada usulan amandemen formal dalam prosedur. Akademisi terus berdebat soal "apakah semi-presidensialisme cocok untuk Taiwan" — sarjana hukum konstitusi Wu Yu-shan, Lin Chi-wen, dll., menilai bahwa kebuntuan konstitusi saat pemerintah minoritas-opsisi mayoritas adalah salah satu masalah struktural semi-presidensialisme.
+Desain konstitusi mencakup Mahkamah Konstitusi, Akademi Penguji, dan Lembaga Pengawas, membentuk struktur pembagian lima kekuatan. Namun dalam praktik, Taiwan secara bertahap beralih ke pusat tiga kekuatan: eksekutif, legislatif, dan yudikatif. Isu-isu tentang keberadaan dan penyesuaian fungsi Akademi Penguji dan Lembaga Pengawas adalah topik panjang dalam diskusi reformasi konstitusi Taiwan, namun saat ini belum ada agenda reformasi konstitusi formal dalam proses. Para ahli konstitusi seperti Wu Yu-shan dan Lin Ji-wen juga terus mendebat apakah "semi-presidialisme cocok untuk Taiwan", yang menunjukkan bahwa krisis konstitusional saat mayoritas presiden berbeda dengan mayoritas parlemen adalah salah satu masalah struktural dari sistem ini.
 
-## II. Mekanisme Pemilihan: Teknologi yang Menentukan Arah Negara
+## II. Mekanisme Pemilu: Teknologi yang Menentukan Arah Negara
 
-Frekuensi pemilihan Taiwan sangat tinggi, utamanya terbagi dua sistem besar: "Pemilihan Pejabat Pusat" dan "Pemilihan Pejabat Daerah", keduanya biasanya bergantian setiap dua tahun. [^2]
+Frekuensi pemilu di Taiwan sangat tinggi, terutama dibagi menjadi dua sistem utama: "Pemilihan Pejabat Negara Pusat" dan "Pemilihan Pejabat Daerah", biasanya bergantian setiap dua tahun. [^2]
 
-Pemilihan presiden mengadopsi "mayoritas relatif", tanpa absolut", tanpa putaran kedua, pemegang suara terbanyak terpilih. Hal ini membuat pemilihan presiden Taiwan sering menampilkan mobilisasi partai yang tinggi dan strategi mundur taktis. Legislatif Yuan共有 113 kursi, menerapkan **"Sistem Dua Suara Daerah Tunggal (Sistem Paralel)"**: 73 kursi legislatif daerah sistem daerah tunggal, memilih orang; 34 kursi legislatif non-daerah memilih partai, ambang 5%, bertujuan memasukkan representasi pakar dan kelompok minoritas; 6 kursi legislatif suku asli menerapkan "sistem daerah jamak", dibagi suku asli darat dan gunung.
+Pemilihan presiden menggunakan "mayoritas relatif", tidak ada pemungutan suara kedua, dan kandidat dengan jumlah suara terbanyak langsung terpilih. Ini membuat pemilihan presiden Taiwan seringkali menampilkan mobilitas partai yang tinggi dan strategi pemindahan dukungan. Legislatur terdiri dari 113 kursi, menggunakan sistem "satu distrik dua suara (paralel)": 73 kursi legislatur daerah menggunakan sistem satu distrik untuk memilih individu; 34 kursi legislatur netral memilih berdasarkan partai, dengan ambang batas 5%, bertujuan untuk memperkenalkan ahli dan perwakilan kelompok minoritas; 6 kursi legislatur khusus suku asli menggunakan sistem "distrik ganda", dibagi antara suku asli dataran dan pegunungan.
 
-Tingkat lokal, "Pemilihan Sembilan-in-Satu" empat tahun sekali mencakup walikota/bupati, anggota DPRD, kepala desa, dll., sembilan jabatan diganti serentak, merupakan indikator aspirasi akar rumput. Pemerintah daerah di bidang pajak, pengelolaan tanah, kesejahteraan sosial, dll., memiliki otonomi tinggi, membuat eksperimen kebijakan tiap kota/kabupaten menjadi laboratorium reformasi seluruh Taiwan.
+Di tingkat daerah, "pemilihan sembilan-gabungan" yang dilaksanakan setiap empat tahun mencakup gubernur/kepala kota, legislatur daerah, dan kepala lingkungan, sekaligus mengganti sembilan jenis jabatan, menjadi indikator untuk mengamati opini dasar. Pemerintah daerah memiliki hak otonomi yang tinggi dalam bidang perpajakan, pengelolaan tanah, dan kesejahteraan sosial, sehingga berbagai kebijakan eksperimen di setiap kabupaten/kota menjadi laboratorium reformasi di seluruh Taiwan.
 
-## III. Lingkungan Politik: Dari Konfrontasi Dual ke Arah Isu
+## III. Lingkungan Politik: Dari Konflik Bipolar ke Isu-Isu Terfokus
 
-Lingkungan politik Taiwan sangat dipengaruhi oleh tekanan ganda memori sejarah dan status internasional. Secara tradisional berlandaskan "identitas negara" dan "kebijakan lintas selat" sebagai pembatas, dengan Partai Demokrasi Progresif (Hijau) dan Kuomintang (Biru) sebagai partai utama, membentuk inersia politik "Konfrontasi Biru-Hijau". Namun, seiring pemilih muda lebih peduli perumahan, upah rendah, energi, dan isu dalam negeri lainnya, **Partai Rakyat Taiwan** (didirikan Ko Wen-je 2019, ketua partai kemudian digantikan Huang Kuo-chang) dan kekuatan ketiga lainnya mulai menantang politik dual, membuat peta politik mengalami pengenduran struktural.
+Lingkungan politik Taiwan sangat dipengaruhi oleh ingatan sejarah dan tekanan status internasional. Secara tradisional, "identitas nasional" dan "kebijakan antar-laut" menjadi garis pemisah, dengan Partai Demokrasi Progresif (hijau) dan Partai Negara China (biru) sebagai partai utama, membentuk pola konflik "Biru-Hijau". Namun, seiring generasi muda semakin peduli pada isu-isu domestik seperti perumahan, gaji rendah, dan energi, **Partai Rakyat Taiwan** (didirikan oleh Ko Wen-je pada 2019, kemudian menjadi ketua partai oleh Huang Guo-chang) dan kekuatan ketiga lainnya mulai menggoda politik bipolar, sehingga peta politik mengalami perubahan struktural.
 
-### Pelapisan Spektrum Persatuan-Kemerdekaan
+### Spektrum Netral-Independen
 
-Pembagian dual "Biru-Hijau" terlalu menyederhanakan spektrum identitas negara Taiwan. Praktiknya pelapisan lebih halus meliputi: **Pro-Persatuan** (menganjurkan persatuan lintas selat, Partai Baru, Partai Buruh sebagai representasi), **Kemerdekaan ROC** (mendukung status quo Republik Tiongkok di Taiwan, tidak mengejar penggantian nama, mayoritas aliran utama KMT), **Kemerdekaan Tionghoa** (Republik Tiongkok adalah negara merdeka, salah satu aliran utama DPP), **Kemerdekaan Taiwan** (menganjurkan normalisasi nama negara, memutus kaitan dengan Republik Tiongkok, sebagian aliran DPP dan partai kecil). Generasi muda mayoritas mengidentifikasi diri sebagai "Kemerdekaan Kodrat" atau "Orang Taiwan", berbeda signifikan dengan identitas "Orang Tionghoa" atau "Keduanya" generasi tua.
+Pembagian "Biru-Hijau" terlalu menyederhanakan spektrum identitas nasional Taiwan. Secara praktis, pembagian yang lebih halus meliputi: **pro-penuh** (mendukung penyatuan antar-laut, mewakili Partai Baru dan Partai Buruh), **independen Taiwan** (mendukung status quo Republik Tiongkok di Taiwan, tidak mencari perubahan nama, mayoritas aliran utama Partai Negara China), **netral Tionghoa-independen** (Republik Tiongkok adalah negara yang sudah mandiri, salah satu aliran utama Partai Demokrasi Progresif), **independen Taiwan penuh** (mendukung pengakuan nama dan pembentukan negara, terputus dari Republik Tiongkok, sebagian aliran Partai Demokrasi Progresif dan partai kecil). Generasi muda cenderung mengidentifikasi diri sebagai "secara alami independen" atau "orang Taiwan", dengan perbedaan yang signifikan dibandingkan dengan generasi tua yang mengidentifikasi sebagai "orang Tionghoa" atau "keduanya".
 
-### Kegagalan Kerja Sama Biru-Putih Akhir 2023
+### Kegagalan Negosiasi "Biru-Hitam" Akhir 2023
 
-**November 2023**, tim kampanye Hou Yu-ih KMT dan tim Ko Wen-je TPP sebelum Pemilu 2024 mencoba negosiasi "Kerja Sama Biru-Putih", berharap mendorong tunggal kandidat non-Hijau. Keduanya di bawah mediasi Kuo Tai-ming berunding di Hotel Taipei, namun因 "cara perbandingan survei" "penempatan calon presiden-wakil" 分歧 而在 11 月 24 日 当天 破局, 最终 各自 参选。蓝白 合 破局 是 2024 大选 结果 (赖清德 40% 三方 竞争 中 当选) 的 关键 前提。
+**November 2023**, kampanye Partai Negara China di bawah Hoo Yiu-hsi dan kampanye Partai Rakyat Taiwan di bawah Ko Wen-je mencoba bernegosiasi "Biru-Hitam" sebelum pemilihan 2024, berharap dapat mendorong satu kandidat non-hijau bersama. Pada 23 November, kedua belah pihak bertemu secara terbuka di Hotel Grand Hyatt di Taipei, dengan Guo Tai-ming juga hadir, namun karena perbedaan dalam "cara perbandingan polling" dan "konfigurasi calon wakil presiden", negosiasi berakhir dalam kegagalan. Hari berikutnya, 24 November, adalah tenggat waktu pendaftaran, dan kedua belah pihak mendaftarkan diri secara terpisah. Kegagalan negosiasi "Biru-Hitam" adalah premis kunci dari hasil pemilihan 2024 (Lai Qingde memenangkan kompetisi tiga kandidat dengan 40%).
 
-Taiwan memiliki energi pengawasan warga yang aktif. g0v Pemerintah Nol mendorong transparansi pemerintah melalui teknologi warga, membuat anggaran dan peraturan terlihat. Taiwan juga memiliki ambang pemecatan yang relatif rendah dan mekanisme referendum, membuat tokoh politik kapan pun menghadapi pengujian langsung opini publik. Alat demokrasi langsung ini dimobilisasi penuh dalam gelombang pemecatan massal 2025.
+Taiwan memiliki energi pengawasan kewargegawaian yang aktif. g0v Zero Hour Government mendorong transparansi pemerintah melalui teknologi kewargegawaian, membuat anggaran dan undang-undang dapat divisualisasikan. Taiwan juga memiliki ambang batas pemecatan yang rendah dan mekanisme referendum kewargegawaian, sehingga tokoh politik selalu menghadapi penilaian langsung dari opini publik. Alat demokrasi langsung ini digunakan secara optimal dalam gelombang pemecatan massal 2025.
 
-## IV. Pascapemilu 2024: Uji Ketahanan Konstitusi Pemerintah Minoritas-Oposisi Mayoritas
+## IV. Tantangan Konstitusional Setelah Pemilihan 2024: Mayoritas Minoritas
 
-13 Januari 2024, pemilihan presiden dan legislatif digelar serentak. Lai Ching-te DPP terpilih dengan suara 40%, menjadi kandidat pertama dalam sejarah Taiwan yang memenangkan pemilu presiden dalam kompetisi tiga arah, namun DPP di Legislatif Yuan hanya memperoleh 51 kursi, di bawah ambang mayoritas (57 kursi). [^3] KMT memperoleh 52 kursi, TPP 8 kursi, kedua partai total 60 kursi membentuk mayoritas parlemen. 20 Mei 2024, Lai Ching-te resmi menjabat Presiden ke-16, hari yang sama Han Kuo-yu menjabat Ketua Legislatif Yuan ke-11.
+Pada 13 Januari 2024, pemilihan presiden dan legislatur dilaksanakan pada hari yang sama. Partai Demokrasi Progresif Lai Qingde memenangkan kompetisi tiga kandidat dengan 40% suara (terakhir kali ada tiga kandidat kuat adalah 2000, ketika Chen Shui-bian memenangkan dengan 39.3%), namun Partai Demokrasi Progresif hanya mendapatkan 51 kursi di legislatur, di bawah ambang setengah (57 kursi). [^3] Partai Negara China mendapatkan 52 kursi, Partai Rakyat Taiwan mendapatkan 8 kursi, dan kedua partai ini bersama-sama mendapatkan 60 kursi, membentuk mayoritas di parlemen. Pada 1 Februari 2024, legislatur baru dilantik, dan Han Kuo-yu terpilih sebagai Ketua Legislatur ke-11. Pada 20 Mei, Lai Qingde dilantik sebagai Presiden ke-16.
 
-Mei–Juni 2024, mayoritas oposisi Legislatif Yuan (KMT + TPP) mendorong **"RUU Reformasi Legislatif"**, mencakup perluasan hak investigasi DPR, sistem audiensi, tanya jawab langsung laporan intelijen presiden, dll., menimbulkan kecurigaan inkonstitusionalitas pemerintah, dan memicu protes massal warga (Aksi Burung Biru). RUU akhirnya diajukan gugatan konstitusionalitas oleh Presiden Lai Ching-te dan Fraksi DPP, **25 Oktober 2024 Mahkamah Konstitusi mengeluarkan Putusan Tahun 113 Nomor 9**, menilai beberapa pasal inkonstitusional, dikenal sejarah sebagai **"113 Putusan Konstitusi 9"**.
+Pada bulan Mei-Juni 2024, mayoritas di parlemen (Partai Negara China + Partai Rakyat Taiwan) mendorong "Undang-Undang Reformasi Parlemen", yang mencakuti perluasan hak investigasi legislatur, sistem dengar, dan kebijakan "presiden harus menjawab pertanyaan segera" yang kontroversial, menimbulkan kekhawatiran tentang konstitusionalitas, dan memicu protes warga sipil massal (Aksi Burung Ungu). Akhirnya, Undang-Undang ini diajukan untuk ditinjau konstitusional oleh Presiden Lai Qingde dan fraksi Partai Demokrasi Progresif, dan **pada 25 Oktober 2024, Mahkamah Konstitusi mengeluarkan keputusan Konstitusi Tahun 113, Nomor 9**, yang menyatakan bahwa banyak ketentuan ini tidak konstitusional, dikenal sebagai "Putusan Konstitusi 113-9".
 
-Krisis kekosongan hakim konstitusi adalah tantangan konstitusi paling serius fase ini. Oktober 2024, 15 kursi hakim konstitusi Mahkamah Konstitusi **7 kursi masa jabatan berakhir** (termasuk Ketua saat itu Hsu Tsung-li dan Wakil Ketua Tsai Tsung-liang). Lai Ching-te Agustus 2024 menominasikan 7 calon pengganti, namun Legislatif Yuan dengan mayoritas Biru-Putih pada 24 Desember 2024 menolak semuanya, menyebabkan Mahkamah Konstitusi beroperasi jangka panjang dengan 8 orang. DPR kemudian mengubah _Undang-Undang Gugatan Konstitusi_ menaikkan ambang perhitungan total hakim konstitusi yang ada, lebih mempersempit ruang operasi Mahkamah Konstitusi, memicu kontroversi keberlakuan konstitusi lanjutan. [^4]
+Krisis personel Hakim Agung adalah tantangan konstitusional paling serius pada tahap ini. Pada Oktober 2024, dari 15 Hakim Agung di Mahkamah Konstitusional, **7 orang akan habis masa jabatannya** (termasuk Ketua Mahkamah Konstitusi Hsu Tsung-li dan Wakil Ketua Tsai Chuan-hsiong). Lai Qingde pada Agustus 2024 mengusulkan 7 orang pengganti, namun legislatur dengan mayoritas biru-hijau menolak semua calon tersebut pada 24 Desember 2024, sehingga Mahkamah Konstitusi beroperasi dengan 8 orang selama lama. Legislatur kemudian memodifikasi "Undang-Undang Sengketa Konstitusi" untuk meningkatkan ambang batas perhitungan jumlah total Hakim Agung yang ada, semakin membatasi ruang operasional Mahkamah Konstitusi, dan memicu kontroversi efek konstitusional selanjutnya. [^4]
 
-2025, DPP dan organisasi masyarakat sipil meluncurkan aksi pemecatan massal, menargetkan sejumlah legislatif oposisi mengajukan usulan pemecatan, dikenal sejarah sebagai "Gelombang Pemecatan Massal". Beberapa kasus pemecatan melewati ambang usulan masuk tahap pemungutan suara, menjadi aksi pemecatan serentak skala terbesar dalam sejarah demokrasi Taiwan, sekali lagi menguji desain prosedur sistem pemecatan. [^5]
+Pada 2025, Partai Demokrasi Progresif dan organisasi masyarakat sipil mengorganisir aksi pemecatan massal, mengajukan inisiatif pemecatan terhadap beberapa legislatur dari partai oposisi, dikenal sebagai "gelombang pemecatan massal". Banyak kasus pemecatan melewati ambang batas tanda tangan dan masuk ke tahap pemungutan suara, menjadi aksi pemecatan berskala nasional terbesar dalam sejarah demokrasi Taiwan, dan sekali lagi menguji desain prosedural sistem pemecatan. [^5]
 
-## V. Tantangan dan Ketahanan yang Dihadapi
+## V. Tantangan dan Ketahanan
 
-Operasi informasi adalah tekanan eksternal jangka panjang yang dihadapi demokrasi Taiwan. Terpengaruh geopolitik, Taiwan sering menjadi laboratorium serangan informasi palsu asing, memaksa pemerintah dan swasta bersama mengembangkan mekanisme verifikasi fakta, literasi media warga juga menjadi bagian kurikulum sekolah.
+Operasi informasi adalah tekanan eksternal yang telah lama dihadapi oleh demokrasi Taiwan. Akibat pengaruh geopolitik, Taiwan sering menjadi laboratorius serangan informasi palsu dari luar negeri, sehingga pemerintah dan masyarakat sipil harus berkolaborasi untuk mengembangkan mekanisme pemverivikasi fakta, dan pendidikan literasi media kewargegawaian juga menjadi bagian dari kurikulum sekolah.
 
-Kebuntuan konstitusi adalah tantangan internal sistem. Saat partai presiden dan partai mayoritas parlemen berbeda (pemerintah minoritas-opsisi mayoritas), pengawasan anggaran dan dorongan kebijakan menghadapi tarik tambang. Ambang amandemen konstitusi Taiwan sangat tinggi, referendum warga memerlukan persetujuan suara sah melebihi seperempat total pemilih, menyebabkan sebagian regulasi usang sulit menyesuaikan dengan era dengan cepat.
+Krisis konstitusional adalah tantangan internal sistem. Ketika presiden dan mayoritas parlemen berbeda partai (mayoritas minoritas), pengawasan anggaran dan promosi kebijakan semuanya menghadapi hambatan. Ambang batas reformasi konstitusi di Taiwan sangat tinggi, dan persetujuan efektif referendum kewargegawaian harus melebihi setengah dari total pemilih, [^6] sehingga beberapa undang-undang lama sulit untuk disesuaikan dengan cepat sesuai dengan zaman.
 
-Ketahanan demokrasi Taiwan, bersumber dari desain pembagian kekuasaan sistem itu sendiri, juga dari partisipasi tinggi masyarakat sipil terhadap politik. Setiap krisis konstitusi disertai berkumpulnya alun-alun warga dan mobilisasi media sosial, tekanan bottom-up ini adalah garis pertahanan penting operasi demokrasi Taiwan.
+Ketahanan demokrasi Taiwan berasal dari desain pembagian kekuasaan dalam sistem itu sendiri, juga dari partisipasi tinggi masyarakat sipil terhadap politik. Setiap krisis konstitusional diiringi oleh kumpul pengunjung di kawasan sipil dan mobilitas media sosial, tekanan dari bawah ini adalah lapisan penting dalam operasional demokrasi Taiwan.
 
 ## Referensi
 
-[^1]: [Basis Data Peraturan Nasional: Konstitusi Republik Tiongkok](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001) — Teks konstitusi dan ketentuan tambahan.
+[^1]: [Basis Data Nasional Peraturan: Konstitusi Republik Tiongkok](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001) — Teks konstitusi dan amendemen.
 
-[^2]: [Basis Data Pemilihan Tahun-tahun Komisi Pemilihan Pusat](https://db.cec.gov.tw/) — Data pemilihan dan statistik partisipasi sejak 1980-an.
+[^2]: [Basis Data Pemilihan Komisi Pemilihan Pusat](https://db.cec.gov.tw/) — Data pemilu dan statistik partisipasi pemilu sejak 1980-an.
 
-[^3]: [Komisi Pemilihan Pusat: Pemilihan Presiden-Wakil Presiden Ke-16 Tahun 2024](https://db.cec.gov.tw/histQuery.jsp?voteCode=20240101A1&type=presMain) — Konfirmasi suara Lai Ching-te 40,05% dan kursi legislatif tiap partai.
+[^3]: [Basis Data Pemilihan Komisi Pemilihan Pusat: Pemilihan Presiden dan Wakil Presiden ke-16 2024](https://db.cec.gov.tw/ElecTable/Election/ElecTickets?dataType=tickets&typeId=ELC&subjectId=P0&legisId=00&themeId=4d83db17c1707e3defae5dc4d4e9c800&dataLevel=N&prvCode=00&cityCode=000&areaCode=00&deptCode=000&liCode=0000) — Konfirmasi Lai Qingde mendapatkan 40.05% suara, serta jumlah kursi legislatur dari masing-masing partai.
 
-[^4]: [Pengumuman Mahkamah Konstitusi: Ringkasan Personel Hakim Konstitusi](https://cons.judicial.gov.tw/) — Konfirmasi 7 kursi hakim konstitusi masa jabatan berakhir Oktober 2024 dan kekosongan.
+[^4]: [Pengumuman Mahkamah Konstitusi: Gambaran Personel Hakim Agung](https://cons.judicial.gov.tw/) — Konfirmasi 7 Hakim Agung yang akan habis masa jabatannya pada Oktober 2024.
 
-[^5]: [g0v Pemerintah Nol](https://g0v.tw/) — Teknologi warga dan alat pelacakan usulan gelombang pemecatan massal 2025.
+[^5]: [g0v Zero Hour Government](https://g0v.tw/) — Teknologi kewargegawaian dan alat pelacakan tanda tangan untuk gelombang pemecatan massal 2025.
+
+[^6]: [Basis Data Nasional Peraturan: Pasal 12 Amendemen Konstitusi Republik Tiongkok](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000002&flno=12) — Rancangan undang-undang konstitusional diajukan ke legislatur, setelah pengumuman enam bulan, ditentukan oleh referendum kewargegawaian, "jika persetujuan efektif melebihi setengah dari total pemilih, maka disetujui".
 
 **Bacaan Lanjutan**
 
-- [Pertahanan dan Modernisasi Militer Taiwan](/society/台灣國防與軍事現代化) — Bagaimana pemerintah minoritas-opsisi mayoritas mempengaruhi kebijakan pertahanan secara praktis
-- [Negara Sahabat dan Diplomasi Internasional Taiwan](/id/society/taiwan-diplomatic-allies-and-international-relations) — Bagaimana perbedaan posisi partai meluas ke ayunan jalur diplomasi
-- [Pertemuan Zheng-Xi 2026: Pertemuan Sepuluh Menit Pemimpin KMT-KPK Sepuluh Tahun Kembali](/society/2026鄭習會與國共十年再會) — Debat jalur Pemilihan Ketua KMT 2025
-- [Ji Lin-lian](/id/people/ji-lin-lian) — Jenderal mayor pensiun menjabat Wakil Ketua KMT, perpecahan Komite Pusat 2026 mengungkap struktur Departemen Kuningan
-- [Pemecatan Massal](/id/society/social-movements-and-civic-participation) — 33 kasus pemecatan 2025 semuanya gagal, uji skala nasional pertama sistem pemecatan di bawah format pemerintah minoritas-opsisi mayoritas
+- [Pertahanan Nasional dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — Bagaimana mayoritas minoritas mempengaruhi kebijakan pertahanan secara praktis
+- [Negara-negara yang Bersaudara dengan Taiwan dan Diplomasi Internasional](/id/society/taiwan-diplomatic-allies-and-international-relations) — Bagaimana perbedaan posisi partai mempengaruhi fluktuasi jalur diplomasi
+- [Pertemuan Zheng-Xi 2026: Sepuluh Menit Pertemuan Kepala Partai Komunis dan Nasional dalam Sepuluh Tahun](/id/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Diskusi ideologi dalam pemilihan ketua Partai Negara China 2025
+- [季麟連](/id/people/ji-lin-lian) — Mantan jenderal angkatan udara menjadi wakil ketua Partai Negara China, insiden fragmentasi partai menunjukkan struktur internal Partai Huang Xing
+- [Pemecatan Massal](/id/history/great-recall-movement-2024) — Gelombang pemecatan 2025 di mana 33 kasus tidak lolh melewati tahap pemungutan suara, pertama kali menguji sistem pemecatan dalam skala nasional di bawah pola mayoritas minoritas
