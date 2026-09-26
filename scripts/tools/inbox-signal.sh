@@ -36,6 +36,21 @@ if [[ -f "$ARTICLE" ]]; then
   if [[ "${ARTICLE_GHOST:-0}" -gt 0 ]]; then
     echo "👻 inbox ghost | ${ARTICLE_GHOST} 條 status=done 卻沒搬走 — 跑 scripts/tools/inbox-audit.py --apply-safe 清"
   fi
+  # ⌛ 切角時效（2026-09-27 self-evolve-weekly）：Angle-expires 欄過期／7 天內到期／時效題沒寫期限。
+  # 誕生：探測器的建議登記進 INBOX 後原地過期連三週，P0 沒有期限維度，過期切角跟常青題躺同一層。
+  # graceful degrade 同 spore 那段：工具失敗就不印這行。
+  ANGLE_ESU=$(python3 scripts/tools/inbox-audit.py --angles --json 2>/dev/null | python3 -c '
+import json, sys
+try:
+    d = json.load(sys.stdin)
+    print(len(d["expired"]), len(d["soon"]), len(d["news_unmarked"]))
+except Exception:
+    print("0 0 0")
+' 2>/dev/null) || ANGLE_ESU="0 0 0"
+  read -r ANGLE_EXP ANGLE_SOON ANGLE_UNM <<< "${ANGLE_ESU:-0 0 0}"
+  if [[ "${ANGLE_EXP:-0}" -gt 0 || "${ANGLE_SOON:-0}" -gt 0 || "${ANGLE_UNM:-0}" -gt 0 ]]; then
+    echo "⌛ angles  | 切角過期 ${ANGLE_EXP:-0} / 7 天內到期 ${ANGLE_SOON:-0} / 時效題沒寫期限 ${ANGLE_UNM:-0}（跑 scripts/tools/inbox-audit.py --angles）"
+  fi
 fi
 
 # SPORE-INBOX §Pending count (2026-05-21 新增 — intake layer for 繁殖系統)

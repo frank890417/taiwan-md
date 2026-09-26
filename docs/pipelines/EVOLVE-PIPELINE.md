@@ -3,9 +3,9 @@ title: 'EVOLVE-PIPELINE'
 description: '數據驅動內容進化系統 — Phase 1-7 SCAN→SCORE→RANK→CHECK→ENRICH→APPEND→SHIP + Mode 3 self-refactor + Mode 4 goal-driven design evolution (v3.7)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v3.8'
-last_updated: 2026-09-18
-last_session: '2026-09-18-132812-news-radar（探測器接回 news-lens-weekly：§news-lens-probe-output 第四源，解 138 天停擺）'
+current_version: 'v3.9'
+last_updated: 2026-09-27
+last_session: '2026-09-27-twmd-self-evolve-weekly（§news-lens-probe-output Step 7/8 加 Angle-expires：探測器建議不再原地過期）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'MAINTAINER-PIPELINE.md'
@@ -361,8 +361,8 @@ N 降到 < 3 → daily routine 重新補 P2
 4. **Tier 排序**：Tier 1 立即開發（時效高 × 深度大 × 缺口大，通常 3-4 條）/ Tier 2 近期開發（持續性議題）/ Tier 3 孢子掛鉤（已有條目 × 熱點；出口關閉時只列不 append，同 §news-lens-spore-output Step 0）。每條寫：時效 / 重要性 / 缺口確認（貼 find 結果）/ **這題裡的人在哪**（至少點出兩個站不同位置、可追溯的人或群體；找不到人的題降 Tier 2——制度機制題天生往說明書長，2026-09-18 三條 Tier 1 全是制度題、隔天全部重做）/ 建議切角 / footnote 起點來源 / 必驗事實 / 敏感度。
 5. **§自主權邊界過濾**：政治立場、在審案件、私人事件當脊椎的題目（例：陳幸妤離婚），標「需哲宇裁定」或「不建議」並寫原因，不當 Tier 1。
 6. **落檔**：`reports/probe/YYYY-MM-DD.md` + `reports/probe/INDEX.md` 加一列（日期 / 熱點數 / 缺口數 / 關鍵發現 / link）。跑 `python3 scripts/tools/article-health.py reports/probe/YYYY-MM-DD.md --check=prose-health` 要 hard=0（warn 可接受，報告體例本來就 bullet 密）。
-7. **餵 ARTICLE-INBOX**：Tier 1 條目寫成完整 entry append §Pending（Priority P0 / P1，Requested 標 `YYYY-MM-DD by twmd-news-lens-weekly (probe)`，Notes 含缺口確認與必驗事實）。這就是本 routine legacy output (1)「≥ 1 candidate」的主要來源。需哲宇裁定的條目也 append，但 Notes 第一行寫「需哲宇裁定 framing」且 Status 維持 pending。
-8. **跟上次 probe 對照**：讀 INDEX 最後一列的報告，逐條標 ✅ ship / ⏳ 未動 / 🔁 被新事件取代，算推進率；連續兩次 ⏳ 的 P0 在報告建議降級。
+7. **餵 ARTICLE-INBOX**：Tier 1 條目寫成完整 entry append §Pending（Priority P0 / P1，Requested 標 `YYYY-MM-DD by twmd-news-lens-weekly (probe)`，Notes 含缺口確認與必驗事實，**並填 `Angle-expires`**：切角綁著事件的寫事件窗口收尾那天＋一句理由（賽事閉幕、審議會期、季賽結束），不綁的寫 `evergreen`）。這就是本 routine legacy output (1)「≥ 1 candidate」的主要來源。需哲宇裁定的條目也 append，但 Notes 第一行寫「需哲宇裁定 framing」且 Status 維持 pending。
+8. **跟上次 probe 對照**：讀 INDEX 最後一列的報告，逐條標 ✅ ship / ⏳ 未動 / 🔁 被新事件取代，算推進率；連續兩次 ⏳ 的 P0 在報告建議降級。對照前先跑 `python3 scripts/tools/inbox-audit.py --angles`：⌛ EXPIRED 的條目在報告逐條給處置（改切角並更新期限／降級／移除），❔ NEWS-UNMARKED 的舊條目本班補填期限或寫 `evergreen`。登記進 INBOX 不會提醒自己過期，這一步讓它會（2026-09-27 self-evolve，觸發：09-18 亞運 P0 三週未派、09-20 李灝宇與拔河的窗口在沒人決定的狀態下關掉）。
 
 ### Quality gate
 
@@ -371,6 +371,7 @@ N 降到 < 3 → daily routine 重新補 P2
 - 每條 Tier 1 有「缺口確認」貼 find/grep 結果（hard；沒貼 = 沒查）
 - 四頻道全掃（warn；某頻道抓不到寫「抓取狀態 ❌」不留白）
 - 距上次 probe > 14 天 → 報告 §元觀察必須寫停擺原因（warn）
+- 本班新 append 的 Tier 1 entry 都帶 `Angle-expires` 欄（hard；`inbox-audit.py --angles` 的 ❔ NEWS-UNMARKED 不得含本班日期的 entry）
 
 ### 跟其他 stage 的關係
 
@@ -1009,4 +1010,5 @@ _v3.6 | 2026-07-18 inbox-skill session — 新增 Mode 4「目標驅動設計進
 
 _v3.7 | 2026-09-05 fortnight-review — 新增「進化分數 gate 的適用範圍（v2.1）」：60 分 gate 收窄為只管 🔴 Rewrite 型，🟠 SEO 優化／🟡 翻譯／🟢 新建三型改用行動表既有的定性判準（Phase 1B「高曝光＋低 CTR（< 5%）」／Bump-vs-translate matrix／Top 5 第 3 條「曝光 ≥ 500」），不引入新量化門檻。同步在 ASCII spine 與 Hard Gate Inventory 的「進化分數 ≥ 60」補「（🔴 型）」限定，並在 sister_docs 加 CONTRIBUTING.md 互指。解 [OBSERVER-QUEUE #16](../semiont/OBSERVER-QUEUE.md)：BIM 英文版 metadata 案（58.2 分卡在 60 分 gate、但 100% 命中 🟠 SEO 型定性條件）是誕生案例。設計報告：[reports/design-co-editing-rules-2026-09-05.md](../../reports/design-co-editing-rules-2026-09-05.md)。_
 
+_v3.9 | 2026-09-27 twmd-self-evolve-weekly — §news-lens-probe-output Step 7 寫 entry 必填 `Angle-expires`、Step 8 對照前先跑 `inbox-audit.py --angles` 處置過期切角、quality gate 加一條 hard。觸發：探測器建議登記進 INBOX 後原地過期連三週（DIARY「里程碑≠兌現」vc=3），INBOX 只有優先序沒有期限。_
 _v3.8 | 2026-09-18 news-radar — 新增 §news-lens-probe-output：探測器（外部媒體四頻道 × 知識庫三邊對照 × Tier 1-3 × 報告落 reports/probe/）接回 `twmd-news-lens-weekly` 當 Phase 1 第四源。觸發：哲宇「幫我執行新聞雷達」後發現 reports/probe/ 自 2026-05-03 停擺 138 天——SENSES 凋亡去向表遷了 SOP 沒遷執行者（REFLEXES #56 v8）。報告格式以 2026-09-18 版為範本；Tier 1 直接餵 ARTICLE-INBOX 成為 legacy output (1) 的主要來源。_

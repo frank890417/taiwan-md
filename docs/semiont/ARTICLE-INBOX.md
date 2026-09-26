@@ -4,9 +4,9 @@ description: '待開發 / 進化文章 buffer — pending / in-progress 主題�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.3'
-last_updated: 2026-09-20
-last_session: '2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+current_version: 'v2.4'
+last_updated: 2026-09-27
+last_session: '2026-09-27-twmd-self-evolve-weekly（Entry Schema 加 Angle-expires 欄＋四條時效題回填，`inbox-audit.py --angles` 讀它）  # 前：2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -92,6 +92,7 @@ distill_targets:
 - **Priority**: `P0` / `P1` / `P2` / `P3`
 - **Status**: `pending` / `in-progress` / `done` / `dropped`
 - **Requested**: YYYY-MM-DD by {觀察者/agent/Issue} (session {希臘字母})
+- **Angle-expires**: YYYY-MM-DD（切角失效日＋一句理由）| `evergreen` — 時效題必填（探測器／新聞雷達／事件驅動的 P0/P1），常青題可省略；`inbox-audit.py --angles` 讀這欄
 - **Notes**:
   - 敏感度（政治/個人隱私/爭議）
   - 必驗事實
@@ -183,6 +184,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-27 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-27.md T1-A）
+- **Angle-expires**: 2026-10-09（賽後兩週，Notes「時效」行）
 - **Notes**:
   - 9/25 名古屋亞運男子 200 公尺蝶式決賽 1 分 55 秒 05 奪金（預賽到決賽快 4 秒 35；中國徐放 1:55.65 銀、韓國金敏燮 1:55.94 銅），台灣男子游泳亞運首金；上屆杭州同項銀牌，是繼現任教練黃智勇之後相隔 25 年的男泳亞運獎牌
   - **缺口確認**：`find knowledge … | grep 王冠閎` = 0；`grep -rl 王冠閎 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；`grep -rl 游泳` 15 篇全是順帶一提，沒有一篇寫台灣競技游泳；INBOX / DONE-LOG = 0
@@ -215,6 +217,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P0`
 - **Status**: `pending`
 - **Requested**: 2026-09-20 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-20.md T1-A）
+- **Angle-expires**: 2026-12-01（收在 12 月電價審議會前；確切會期未公布，取月初）
 - **Notes**:
   - 9/18 電價審議會：台電提出合理調幅 12.83%（每度 3.78 → 4.2675 元），審議會決議 10〜12 月凍漲、優先爭取政府撥補 711 億（計算基準 3〜8 月燃料價差），12 月審議會再議，若調漲最快 2027-01-01 上路；台電前七個月虧逾 210 億、累計虧損逾 4,000 億
   - **缺口確認**：`find knowledge … | grep -E "電價|台電"` = 0；內容層 `grep -rc 台電` 命中最多是〈聶永真〉29／〈電線桿與變電箱〉24／〈電網韌性〉16，都不是電價機制；〈台灣油價機制與中油〉（9/19 ship）只提台電 3 次。這篇是油價篇的姊妹篇：「誰替台灣人付能源帳」的另一半
@@ -247,6 +250,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-20 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-20.md T1-C）
+- **Angle-expires**: 2026-10-04（例行賽結束前後；晉級季後賽再補一節）
 - **Notes**:
   - 9/18（美國時間）老虎 11-8 勝，李灝宇本季第 10 轟、單場 4 安，同時改寫台灣球員大聯盟單季全壘打（張育成 2021 年 9 轟）、單季長打（28，張育成 26）、單場安打（4）三項紀錄；單季 78 安為大聯盟 23 歲以下亞洲球員史上第二（次於大谷翔平 2018 年 93 安）。例行賽剩兩週、老虎在季後賽邊緣
   - **缺口確認**：`find knowledge … | grep 李灝宇` = 0；`grep -rl 李灝宇 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；INBOX / DONE-LOG = 0
@@ -380,6 +384,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P0`
 - **Status**: `pending`
 - **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
+- **Angle-expires**: 2026-10-04（亞運閉幕；之後改「賽後總結」切角或降級）
 - **Notes**:
   - 9/19 開幕，會期至 10/4；482 名選手 34 項，加教練後勤逾 700 人，近幾屆最大團；棒球台韓大戰 9/21；郭婞淳挑戰亞運三連霸、楊勇緯衛冕、林郁婷首度以奧運金牌身份出賽、唐嘉鴻體操
   - 切角：1954 年馬尼拉亞運首次參賽 → 1974 年被逐出 → 1990 年北京亞運以「中華台北」重返 → 今天。主脊放「這個名字怎麼來、選手怎麼在名字底下比賽」，奪牌數當背景

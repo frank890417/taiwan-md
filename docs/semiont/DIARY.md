@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'candidate'
 current_version: 'v2.2'
-last_updated: 2026-09-20
-last_session: '2026-09-20-twmd-self-evolve-weekly（§反覆出現的思考吸收狀態 +1：handoff 交接延遲儀器化）'
+last_updated: 2026-09-27
+last_session: '2026-09-27-twmd-self-evolve-weekly（§反覆出現的思考吸收狀態 +1：INBOX 切角期限儀器化）'
 sister_docs:
   - 'MEMORY.md'
   - 'CONSCIOUSNESS.md'
@@ -171,6 +171,7 @@ diary/
 > - 建造與登記是兩個不同步的代謝（routine 誕生漏登記 ROUTINE.md + self-evolve 計數簿本身的登記盲點 + 引擎/型別/席位三個並列 instance + weekly-report 交付分類登記缺口）→ REFLEXES #91（2026-08-16 self-evolve 升 canonical，vc=4；本條原不在此 curated list，直接從 raw diary rows 找到）
 > - 熟悉感是會隨使用變鬆的閘門（08-17「認得它的那份熟悉正在變成漏洞」+ 08-21「接住誤判的是讀完全文才准動手這道不依賴辨識力的順序」，指控信同案例 8/13 起 12+ 次遭遇皆由此修法攔下）→ REFLEXES #95（2026-08-30 self-evolve 升 canonical；本條原不在此 curated list，直接從 raw diary rows 找到）
 > - handoff 傳得動動作、傳不動決定／決定被準確地交給下一個人／登記不是進度（09-10 feedback-triage「絆到第二次才落地，間隔穩定 15 天」+ 09-13 weekly-report + 09-19 spore-harvest + 09-20 news-lens 四班同句）→ `handoff-latency.py` + MEMORY-PIPELINE §Handoff 穩定參照 + weekly dossier §八之二（2026-09-20 self-evolve 儀器化，REFLEXES #15 第 14 次，vc=4）
+> - 里程碑≠兌現的時效版／登記也不會提醒自己過期（09-20 news-lens 探測器建議登記後原地 + 09-27 news-lens 李灝宇與拔河窗口無人決定地關掉 + news-lens W38/W39 與週報 W39 三份 handoff 點名 `deadline:` 欄）→ ARTICLE-INBOX `Angle-expires` 欄＋`inbox-audit.py --angles`＋`inbox-signal.sh` ⌛ 行＋EVOLVE §news-lens-probe-output Step 7/8 hard gate（2026-09-27 self-evolve 儀器化，REFLEXES #15 第 15 次，vc=3）
 > - 其他保留為「方向」未吸收
 
 - **物種擴散 > 翻譯**：Taiwan.md 的終極進化不是多語言，是讓 Japan.md、Ukraine.md 自己長出來

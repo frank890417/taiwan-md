@@ -44,6 +44,19 @@ canonical SOP：docs/semiont/ARTICLE-INBOX.md §Distill SOP
 不自動改檔（per 完成歸檔鐵律 + κ 5-PR 教訓：curation 不批次自決）。
 slug 比對從寬（雙向 substring + 去「台灣」前綴再比一次）：寧可多報讓人判斷，
 每筆附匹配依據（spore id / date / slug）方便一眼辨真偽。
+--angles 模式（2026-09-27 self-evolve-weekly 新增）：ARTICLE-INBOX 切角時效健檢
+  inbox-audit.py --angles             # 報告（human markdown）
+  inbox-audit.py --angles --json      # machine-readable（inbox-signal.sh 消費）
+  inbox-audit.py --angles --today YYYY-MM-DD
+誕生：探測器建議「登記進 INBOX 不是進度」連三週（09-20 news-lens 亞運切角滑走、09-27 李灝宇與
+拔河的窗口在沒人決定的狀態下關掉），DIARY §反覆出現的思考「里程碑≠兌現」vc=3。INBOX 的 P0
+只有優先序沒有期限，過期的切角跟常青題躺在同一層，沒有任何東西會叫。
+讀 entry 的 `- **Angle-expires**: YYYY-MM-DD（說明）` 欄（schema 見 ARTICLE-INBOX §Entry Schema）：
+  ⌛ EXPIRED         期限已過，還在 pending —— 改切角、降級或移除，要有人決定
+  ⏳ SOON            7 天內到期
+  ❔ NEWS-UNMARKED   P0/P1 且來源是探測器／新聞雷達（Requested 含 probe／news-radar／news-lens），
+                     卻沒有 Angle-expires 欄 —— 時效題沒寫期限，請登記的人補，或寫 `evergreen`
+report-only：過期不代表該刪，常青的切角可以改寫成 evergreen；裁決留給挑單的人。
 """
 
 from __future__ import annotations
@@ -71,6 +84,9 @@ SPORE_INBOX = ROOT / "docs/factory/SPORE-INBOX.md"
 SPORE_LOG = ROOT / "docs/factory/spore-log.json"
 SPORE_BACKPRESSURE_CAP = 40
 REACTIVE_STALE_DAYS = 21
+ANGLE_SOON_DAYS = 7
+NEWS_SOURCE_RE = re.compile(r"probe|news-radar|news-lens|探測器|新聞雷達", re.I)
+
 REACTIVE_URGENCY_MARKERS = ("趁熱", "REACTIVE", "天內", "本週內", "本週", "本月內", "reactive")
 
 
@@ -212,6 +228,8 @@ def parse_pending(text):
             "priority": field(seg, "Priority"),
             "status": field(seg, "Status"),
             "path": pm.group(0) if pm else "",
+            "requested": field(seg, "Requested"),
+            "angle_expires": field(seg, "Angle-expires"),
         })
     return entries
 
@@ -524,6 +542,55 @@ def print_spore_report(r):
               f"（{s['age_days']} 天前）｜{s['priority'] or '?'} {s['status']}｜時效：{tw}")
 
 
+def run_angle_audit(entries, today):
+    """⌛ 切角時效：Angle-expires 欄對今天。只看 status=pending/in-progress 的 entry。"""
+    expired, soon, unmarked, marked = [], [], [], 0
+    for e in entries:
+        st = (e.get("status") or "").lower()
+        if st and not st.startswith(("pending", "in-progress")):
+            continue
+        raw = (e.get("angle_expires") or "").strip()
+        row = {"heading": e["heading"], "priority": e["priority"], "status": e["status"],
+               "angle_expires": raw}
+        if raw:
+            marked += 1
+            if raw.lower().startswith("evergreen"):
+                continue
+            m = re.match(r"(\d{4}-\d{2}-\d{2})", raw)
+            d = _parse_ymd(m.group(1)) if m else None
+            if not d:
+                row["days"] = None
+                row["note"] = "無法解析日期（格式要 YYYY-MM-DD 開頭）"
+                expired.append(row)
+                continue
+            delta = (d - today).days
+            row["days"] = delta
+            if delta < 0:
+                expired.append(row)
+            elif delta <= ANGLE_SOON_DAYS:
+                soon.append(row)
+            continue
+        if e["priority"][:2] in ("P0", "P1") and NEWS_SOURCE_RE.search(e.get("requested") or ""):
+            unmarked.append(row)
+    return {"today": today.isoformat(), "marked": marked, "expired": expired,
+            "soon": soon, "news_unmarked": unmarked}
+
+
+def print_angle_report(r):
+    print(f"# ARTICLE-INBOX 切角時效 — today={r['today']}（帶 Angle-expires 欄 {r['marked']} 條）\n")
+    def line(x):
+        d = x.get("days")
+        when = (f"過期 {-d} 天" if d is not None and d < 0 else
+                f"剩 {d} 天" if d is not None else x.get("note", ""))
+        return f"- {x['heading'][4:][:56]}｜{x['priority'] or '?'}｜{x['angle_expires'][:40]}｜{when}"
+    print(f"## ⌛ EXPIRED（{len(r['expired'])}）— 改切角、降級或移除")
+    print("\n".join(line(x) for x in r["expired"]) or "（無）")
+    print(f"\n## ⏳ SOON（{len(r['soon'])}）— {ANGLE_SOON_DAYS} 天內到期")
+    print("\n".join(line(x) for x in r["soon"]) or "（無）")
+    print(f"\n## ❔ NEWS-UNMARKED（{len(r['news_unmarked'])}）— 探測器／新聞雷達來源的 P0/P1 沒寫期限")
+    print("\n".join(f"- {x['heading'][4:][:56]}｜{x['priority'] or '?'}" for x in r["news_unmarked"]) or "（無）")
+
+
 def main():
     ap = argparse.ArgumentParser(description="ARTICLE-INBOX ground-truth audit + safe distill")
     ap.add_argument("--json", action="store_true", help="machine-readable output")
@@ -533,6 +600,8 @@ def main():
     ap.add_argument("--spore", action="store_true",
                     help="switch target to SPORE-INBOX.md ground-truth audit (report-only, "
                          "no --apply-safe — 孢子裁決一律人工)")
+    ap.add_argument("--angles", action="store_true",
+                    help="ARTICLE-INBOX 切角時效健檢（Angle-expires 欄；report-only）")
     ap.add_argument("--today", default=None,
                     help="date basis YYYY-MM-DD for --spore staleness math "
                          "(default: same as `date +%%F`)")
@@ -548,6 +617,15 @@ def main():
             print(json.dumps({"mode": "spore", **result}, ensure_ascii=False, indent=2))
         else:
             print_spore_report(result)
+        return 0
+
+    if args.angles:
+        today = _parse_ymd(args.today) or date.today()
+        result = run_angle_audit(parse_pending(INBOX.read_text(encoding="utf-8")), today)
+        if args.json:
+            print(json.dumps({"mode": "angles", **result}, ensure_ascii=False, indent=2))
+        else:
+            print_angle_report(result)
         return 0
 
     text = INBOX.read_text(encoding="utf-8")
