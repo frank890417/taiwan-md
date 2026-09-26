@@ -185,6 +185,7 @@ HAN_NAME = r"[一-鿿]{2,4}"
 LATIN_BEFORE_HAN = re.compile(rf"((?:{LATIN_TOKEN}[ \t])+{LATIN_TOKEN})\s*[（(]({HAN_NAME})[）)]")
 HAN_BEFORE_LATIN = re.compile(rf"({HAN_NAME})\s*[（(]({LATIN_TOKEN}(?:[ \t]{LATIN_TOKEN}){{1,3}})[）)]")
 LATIN_LANGS = {"en", "es", "fr", "pt", "id", "vi", "de"}
+COMMON_DF = 100
 
 
 # 句首的大寫虛詞不是名字的一部分：「In Taipei (台北)」「According Lee (李)」。
@@ -268,6 +269,14 @@ def names_for(zh_path: str, lang: str, tbl: dict) -> int:
             if han in covered or han not in text:
                 continue
             seen.append((text.index(han), han, forms))
+        # 一般詞也會被括號對照收進來（pt 某篇寫過「Rise Up (起來)」，於是每篇有「起來」
+        # 的原文都印出 起來 → Rise Up）。用中文語料的文件頻率擋：人名、團體名出現在
+        # 個位數到幾十篇（許光漢 3、蔣經國 56、蔡英文 83），一般詞是幾百篇（起來 574、
+        # 台北 694、照片 240）。門檻 100 篇約全庫 9%。
+        if seen:
+            zh_texts = [q.read_text(encoding="utf-8") for q in (REPO / "knowledge").glob("*/*.md")
+                        if q.parent.name[:1].isupper()]
+            seen = [s for s in seen if sum(s[1] in z for z in zh_texts) <= COMMON_DF]
         if seen:
             print(f"\n## 站上既有寫法（{lang} 語料裡的「拉丁名 (漢字)」括號對照，表上沒有的名字）")
             for _, han, forms in sorted(seen)[:60]:
