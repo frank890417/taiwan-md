@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T21:30:00+08:00",
-    "zhCommitHead": "7323e4306",
+    "lastUpdated": "2026-09-26T21:34:34+08:00",
+    "zhCommitHead": "964937b1c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1103,
+        "fresh": 1105,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 11,
+        "missing": 9,
         "orphan": 0
       },
       "ko": {
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1121,
+        "fresh": 1122,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1113,
+        "fresh": 1114,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "id": {
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1115,
+        "fresh": 1117,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 3,
+        "missing": 1,
         "orphan": 0
       },
       "hi": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1106,
+        "fresh": 1108,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 11,
+        "missing": 9,
         "orphan": 0
       },
       "de": {
@@ -19272,7 +19272,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/taiwan-fuel-pricing-and-cpc.md",
+          "translatedFrom": "Economy/台灣油價機制與中油.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:24e5d0eeeb829e10",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T13:30:21.043420+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 46,
+          "bytes": 62173,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-fuel-pricing-and-cpc.md",
@@ -19880,11 +19893,11 @@
           "sourceContentHash": "sha256:012f47b06c66bfb9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T03:25:50.298892+00:00",
-          "translationLastCommit": "073580c8",
-          "translationLastModified": "2026-09-26T12:31:26+08:00",
+          "translationLastCommit": "5a60bac7",
+          "translationLastModified": "2026-09-26T21:30:39+08:00",
           "inferred": false,
           "footnoteDefs": 64,
-          "bytes": 73140,
+          "bytes": 73181,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -19922,7 +19935,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-enterprise-uni-president.md",
+          "translatedFrom": "Economy/台灣企業：統一企業.md",
+          "sourceCommitSha": "05ed20149",
+          "sourceContentHash": "sha256:a081d71170a5a094",
+          "sourceBodyHash": "sha256:b22e5c952fc18259",
+          "translatedAt": "2026-09-26T20:56:29+08:00",
+          "translationLastCommit": "0ace28d6",
+          "translationLastModified": "2026-09-26T21:29:28+08:00",
+          "inferred": false,
+          "footnoteDefs": 64,
+          "bytes": 71501,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-enterprise-uni-president.md",
@@ -35081,8 +35107,8 @@
           "sourceContentHash": "sha256:08a786ea48be0947",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T11:45:59.880678+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7323e430",
+          "translationLastModified": "2026-09-26T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 104988,
@@ -47020,7 +47046,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/taiwan-queuing-culture.md",
+          "translatedFrom": "Lifestyle/排隊.md",
+          "sourceCommitSha": "0e24f2873",
+          "sourceContentHash": "sha256:71a07c5ea0f34a1e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T13:26:07.541279+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 74055,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-queuing-culture.md",
@@ -47071,7 +47110,20 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/taiwan-queuing-culture.md",
+          "translatedFrom": "Lifestyle/排隊.md",
+          "sourceCommitSha": "0e24f2873",
+          "sourceContentHash": "sha256:fc40bb5045cb62d8",
+          "sourceBodyHash": "sha256:a11c88d6404dea13",
+          "translatedAt": "2026-09-26T20:56:30+08:00",
+          "translationLastCommit": "023c13e1",
+          "translationLastModified": "2026-09-26T21:27:52+08:00",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 82498,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/taiwan-queuing-culture.md",
@@ -50572,7 +50624,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/toll-station.md",
+          "translatedFrom": "Lifestyle/收費站.md",
+          "sourceCommitSha": "09ffe560f",
+          "sourceContentHash": "sha256:ef6fab2f2ae48840",
+          "sourceBodyHash": "sha256:6af77751f6cfb762",
+          "translatedAt": "2026-09-26T20:56:30+08:00",
+          "translationLastCommit": "350497a5",
+          "translationLastModified": "2026-09-26T21:30:48+08:00",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 80400,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Lifestyle/toll-station.md",
@@ -52149,7 +52214,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/ezway.md",
+          "translatedFrom": "Lifestyle/台灣海關報關制度與EZWAY.md",
+          "sourceCommitSha": "258412070",
+          "sourceContentHash": "sha256:76dffd172486f9a9",
+          "sourceBodyHash": "sha256:7abf227d191df077",
+          "translatedAt": "2026-09-26T20:56:30+08:00",
+          "translationLastCommit": "501aa87a",
+          "translationLastModified": "2026-09-26T21:29:27+08:00",
+          "inferred": false,
+          "footnoteDefs": 50,
+          "bytes": 105437,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Lifestyle/ezway.md",
@@ -52299,8 +52377,8 @@
           "sourceContentHash": "sha256:e67ede9cedeaf7ed",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T13:00:05.336514+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7323e430",
+          "translationLastModified": "2026-09-26T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "bytes": 203554,
@@ -61983,8 +62061,8 @@
           "sourceContentHash": "sha256:2e2432d1a718986d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T12:49:59.255450+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7323e430",
+          "translationLastModified": "2026-09-26T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 221934,
@@ -68597,8 +68675,8 @@
           "sourceContentHash": "sha256:036e3f58784db1c4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T13:12:11.769339+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7323e430",
+          "translationLastModified": "2026-09-26T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "bytes": 212336,
@@ -68764,7 +68842,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/i-am-from.md",
+          "translatedFrom": "Society/我是OO人.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:7528460cb857fc3b",
+          "sourceBodyHash": "sha256:0b63d09474dfeccb",
+          "translatedAt": "2026-09-26T20:56:29+08:00",
+          "translationLastCommit": "e03f8877",
+          "translationLastModified": "2026-09-26T21:20:15+08:00",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "bytes": 43104,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/i-am-from.md",
@@ -75356,7 +75447,20 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/academia-sinica.md",
+          "translatedFrom": "Society/中央研究院.md",
+          "sourceCommitSha": "6fbe01217",
+          "sourceContentHash": "sha256:b6a3b50d3d869223",
+          "sourceBodyHash": "sha256:4d2bd2c6c8f39bfa",
+          "translatedAt": "2026-09-26T20:56:29+08:00",
+          "translationLastCommit": "8707cdd6",
+          "translationLastModified": "2026-09-26T21:28:51+08:00",
+          "inferred": false,
+          "footnoteDefs": 57,
+          "bytes": 85804,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/academia-sinica.md",
@@ -75669,8 +75773,8 @@
           "sourceContentHash": "sha256:1533ad6bc4336b4a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T11:13:30.511941+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dbdc7461",
+          "translationLastModified": "2026-09-26T21:30:00+08:00",
           "inferred": false,
           "footnoteDefs": 91,
           "bytes": 138488,
@@ -107174,8 +107278,8 @@
           "sourceContentHash": "sha256:b525186aeb276e8e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T12:57:08.770974+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7323e430",
+          "translationLastModified": "2026-09-26T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 68,
           "bytes": 174681,
@@ -187893,8 +187997,8 @@
           "sourceContentHash": "sha256:533282f9f1196f7a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T12:25:38.932671+00:00",
-          "translationLastCommit": "cb957da6",
-          "translationLastModified": "2026-09-15T13:38:27+08:00",
+          "translationLastCommit": "7323e430",
+          "translationLastModified": "2026-09-26T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 76250,
@@ -189307,8 +189411,8 @@
           "sourceContentHash": "sha256:7893a2743008a706",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T13:21:43.564278+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7323e430",
+          "translationLastModified": "2026-09-26T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "bytes": 170928,
@@ -217640,8 +217744,8 @@
           "sourceContentHash": "sha256:1c51bf71c790291d",
           "sourceBodyHash": "sha256:fe2d6808b4b9fb38",
           "translatedAt": "2026-09-26T19:13:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7323e430",
+          "translationLastModified": "2026-09-26T21:29:45+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 58492,
