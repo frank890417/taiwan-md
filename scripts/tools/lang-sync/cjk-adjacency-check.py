@@ -40,7 +40,9 @@ from pathlib import Path
 # 2026-09-26：原本寫成 À-ỹ（U+00C0–U+1EF9）一整段，中間夾著希臘、西里爾、阿拉伯、天城文
 # 等區塊，於是 hi 的句號「।」（U+0964）被當成拉丁字母，照片署名的漢字後面接句號就判黏著。
 # 改成只收真正的拉丁字母：Latin-1 補充到擴充 B，加上越南文用的擴充附加區。
-LATIN = r"A-Za-z\u00C0-\u024F\u1E00-\u1EFF"
+# 組合附加符號（U+0300–U+036F）也要留：vi 語料有 32 篇用分解形（NFD）寫聲調，
+# 「trả」存成 a＋U+0309，字尾是附加符號時緊接漢字仍該抓得到。
+LATIN = r"A-Za-z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF"
 CJK = r"一-鿿"
 ADJACENT = re.compile(f"[{LATIN}][{CJK}]|[{CJK}][{LATIN}]")
 CONTEXT = re.compile(f".{{0,24}}(?:[{LATIN}][{CJK}]|[{CJK}][{LATIN}]).{{0,24}}")
@@ -148,7 +150,7 @@ def _legit_spans(text: str) -> list[tuple[int, int]]:
 #
 # 注意 `Blow吹音樂`（少了空格）仍然會被抓：原稿是 `Blow 吹音樂`，少空格是譯文
 # 自己弄壞的，正確處置是把空格補回來而不是刪掉名字。閘門在這裡指得很準。
-TOKEN_CH = r"[A-Za-z\u00C0-\u024F\u1E00-\u1EFF0-9\.\-_一-鿿]"
+TOKEN_CH = r"[A-Za-z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF0-9\.\-_一-鿿]"
 
 
 def _native_tokens(text: str, zh_text: str) -> set[str]:
