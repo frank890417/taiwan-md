@@ -314,3 +314,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-27 | 010904-twmd-news-lens-weekly | 探測器 W39：王冠閎亞運首金、勇鷹 66 架交完兩條零覆蓋入列；九合一 query 群 +1,191% 加註升 P0；BIM 幽靈歸檔；上週 Tier 1 與整週 zh 新文皆零 | 寫作端停擺時 Tier 1 在 INBOX 安靜過期；對照要查 git log 不只讀 Status | [→](memory/2026-09-27-010904-twmd-news-lens-weekly.md) |
 | 2026-09-26 | 230240-twmd-maintainer | 五個 PR 全收（aminzai 三譯勝過 babel 同篇）；登入看門狗真裝上機器；戴資穎「連續」追到 12 語與 EDITORIAL 正例；#1777 補跑 A/B 升 v6.20；babel 兩個洞當晚補上 | 綠燈量的多是替身，修法都是改量現場 | [→](memory/2026-09-26-230240-twmd-maintainer.md) |
 | 2026-09-27 | 021339-twmd-weekly-report-sun | W39 體檢：十三語文章覆蓋率封頂（1122／1122）的同一週自產 1 篇、新建 0 篇；六條 routine 沉默死亡追到登入過期；桶 1 零項、roadmap roll 第八週、佇列 #85 只問 review-stock 誰做；廣播 20 人 | 三個器官分數同時替停轉的產線發綠燈——假的不是警報是分數本身 | [→](memory/2026-09-27-021339-twmd-weekly-report-sun.md) |
+| 2026-09-27 | 031342-twmd-distill-weekly | 消化 39 條教訓（102→63），新增 #100 驗證對象要等於落地對象、#101 修補範圍照根因類別畫；索引歸檔 54 列 | 單一領域的 vc=4 放子規則不開新號；子代說找不到的段落，先重 grep 再採信 | [→](memory/2026-09-27-031342-twmd-distill-weekly.md) |
