@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T16:14:58+08:00",
-    "zhCommitHead": "27032a3b3",
+    "lastUpdated": "2026-09-26T17:21:25+08:00",
+    "zhCommitHead": "77fd7451a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1097,
-        "stale": 12,
+        "fresh": 1099,
+        "stale": 11,
         "metadata_stale": 0,
-        "missing": 15,
+        "missing": 14,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1085,
+        "fresh": 1086,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 28,
+        "missing": 27,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1091,
-        "stale": 15,
+        "fresh": 1095,
+        "stale": 14,
         "metadata_stale": 0,
-        "missing": 18,
+        "missing": 15,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1085,
+        "fresh": 1087,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 35,
+        "missing": 33,
         "orphan": 0
       }
     },
@@ -9665,20 +9665,18 @@
         "ar": {
           "path": "ar/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4a923c640",
-          "sourceContentHash": "sha256:3de7677c1cc54d07",
-          "sourceBodyHash": "sha256:1962c2279b937909",
-          "translatedAt": "2026-07-27T02:56:19+08:00",
+          "sourceCommitSha": "e80217d19",
+          "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
+          "sourceBodyHash": "sha256:54db8d12b45ad9b3",
+          "translatedAt": "2026-09-26T10:22:55+08:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 74649,
+          "bytes": 76140,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-uniform-invoice.md",
@@ -45239,12 +45237,12 @@
           "sourceCommitSha": "6b09bda3b",
           "sourceContentHash": "sha256:fa35ce866d7f44e8",
           "sourceBodyHash": "sha256:449507a2e31a92cb",
-          "translatedAt": "2026-09-26T10:25:00+08:00",
+          "translatedAt": "2026-09-26T10:22:46+08:00",
           "translationLastCommit": "85aa1d93",
           "translationLastModified": "2026-09-26T11:10:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 20870,
+          "bytes": 19398,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -46952,7 +46950,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/taiwan-queuing-culture.md",
+          "translatedFrom": "Lifestyle/排隊.md",
+          "sourceCommitSha": "0e24f2873",
+          "sourceContentHash": "sha256:71a07c5ea0f34a1e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T08:38:38.433096+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 93614,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-queuing-culture.md",
@@ -55699,7 +55710,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/national-highway-system.md",
+          "translatedFrom": "Lifestyle/高速公路.md",
+          "sourceCommitSha": "79f66898d",
+          "sourceContentHash": "sha256:caaea3b8ab3896dc",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T08:07:34.162077+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 45,
+          "bytes": 92576,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -65111,7 +65135,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/poisoned-potato-cognitive-warfare-taiwan.md",
+          "translatedFrom": "Society/毒馬鈴薯認知作戰.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:9680a9c97c074b94",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T08:53:31.611297+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "bytes": 75666,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -74961,7 +74998,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/academia-sinica.md",
+          "translatedFrom": "Society/中央研究院.md",
+          "sourceCommitSha": "6fbe01217",
+          "sourceContentHash": "sha256:718e4da0518930ba",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T08:16:25.121837+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 57,
+          "bytes": 161189,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/academia-sinica.md",
@@ -97222,7 +97272,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/huai-te-indie-singer.md",
+          "translatedFrom": "People/壞特.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:67d7cdf3a4bcd692",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T08:39:17.108373+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 37,
+          "bytes": 68810,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -106401,7 +106464,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/audrey-tang.md",
+          "translatedFrom": "People/唐鳳.md",
+          "sourceCommitSha": "e75b621d2",
+          "sourceContentHash": "sha256:1917aa69dfd8ab97",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T08:42:30.699870+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 44,
+          "bytes": 50704,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/audrey-tang.md",
@@ -130239,8 +130315,8 @@
           "sourceContentHash": "sha256:8351d05a79dba790",
           "sourceBodyHash": "sha256:f76990887dfd2b78",
           "translatedAt": "2026-09-26T10:22:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "77fd7451",
+          "translationLastModified": "2026-09-26T16:14:59+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 21705,
@@ -198480,7 +198556,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/dalongdong.md",
+          "translatedFrom": "Geography/大龍峒.md",
+          "sourceCommitSha": "fe48ea49d",
+          "sourceContentHash": "sha256:f87ff405665ac8f6",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T08:23:47.933802+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 45,
+          "bytes": 98909,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -213099,18 +213188,18 @@
         "id": {
           "path": "id/Culture/taiwan-vtuber.md",
           "translatedFrom": "Culture/台灣VTuber.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:3f59bb70f08b3142",
-          "sourceBodyHash": "sha256:6a92a5ddcde70c30",
-          "translatedAt": "2026-07-25T09:23:05+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:7dd4a33fd13d7c17",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T08:24:34.697080+00:00",
           "translationLastCommit": "f11ac976",
           "translationLastModified": "2026-09-09T18:36:50+08:00",
           "inferred": false,
-          "footnoteDefs": 15,
-          "bytes": 18837,
+          "footnoteDefs": 28,
+          "bytes": 60838,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (28→15)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwan-vtuber.md",
