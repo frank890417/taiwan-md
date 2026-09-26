@@ -154,6 +154,48 @@ def check_pool_eligibility(ollama_report: dict) -> dict:
             "note": "fleet 的 `--profile babel` 會擋下這些；`--format babel` 不會"}
 
 
+# 雲端免費池在白名單上的模型（前綴比對 OpenRouter model id）。付費 Tier 6
+# 的 anthropic/* 另有授權（OBSERVER-QUEUE #18／#79），不在這張表管。
+_CLOUD_POOL_OK = ("nvidia/nemotron-3-ultra-550b", "openai/gpt-oss-120b")
+_CLOUD_SANCTIONED = ("anthropic/",)
+
+
+def check_cloud_pool(days: int = 2) -> dict:
+    """雲端 worker 的模型對白名單。2026-09-27 誕生：上面那支只量地端 ollama，
+    於是 `poolside/laguna-s-2.1:free` 09-21 起六天落地 465 份譯文，入池門檻從沒亮過燈；
+    對讀抓到 ko〈台灣棒球文化〉整篇把棒球寫成「총구」（槍口）、ko〈客家飲食〉
+    客家寫成「카즈」，閘門全綠。量的是 report.jsonl 裡真的產出過的 backend，
+    不是設定檔寫了什麼——出現在實績裡才算在派工。"""
+    import glob
+    from collections import defaultdict
+    from datetime import datetime, timedelta
+    cut = (datetime.now().astimezone() - timedelta(days=days)).isoformat()
+    kept = defaultdict(lambda: [0, 0])   # model -> [kept, attempts]
+    for rp in glob.glob("/tmp/babel-unified-2*/report.jsonl"):
+        try:
+            for line in open(rp, encoding="utf-8"):
+                try:
+                    r = json.loads(line)
+                except Exception:
+                    continue
+                if r.get("ts", "") < cut or r.get("event") or "ok" not in r:
+                    continue
+                b = r.get("backend") or ""
+                if not b.startswith("openrouter:"):
+                    continue
+                model = b.split(":", 1)[1]
+                if model.startswith(_CLOUD_SANCTIONED):
+                    continue
+                kept[model][1] += 1
+                if r.get("ok"):
+                    kept[model][0] += 1
+        except Exception:
+            continue
+    off = [{"model": m, "kept": k, "attempts": n} for m, (k, n) in sorted(kept.items())
+           if not m.startswith(_CLOUD_POOL_OK)]
+    return {"off_whitelist": off, "whitelist": ", ".join(_CLOUD_POOL_OK)}
+
+
 def check_track_record(days: int = 2) -> dict:
     """歷史產出品質——端點活著不等於產得出可用的東西。
 
@@ -270,6 +312,7 @@ def main():
         "slug_registration": check_slug_registration(),
     }
     report["pool_eligibility"] = check_pool_eligibility(report["ollama"])
+    report["cloud_pool"] = check_cloud_pool()
     tiers_up = sum(1 for k in ("openrouter", "ollama", "fleet", "codex")
                    if report[k].get("available"))
     report["tiers_available"] = tiers_up
@@ -300,8 +343,16 @@ def main():
             print(f"   🔴 入池門檻  地端模型低於白名單級別：{names}")
             print(f"      白名單：{pe['whitelist']}（SQUEEZE §入池門檻，哲宇 2026-07-26）")
             print(f"      {pe['note']}——降級換來的產能是負債不是資產")
-        else:
+        # 原本這個 else 接在 below_threshold 上：地端模型全在白名單時會對一台
+        # ollama 健康的機器印「❌ 本機 ollama」（2026-09-27 一併改正）
+        if not ol.get("available"):
             print(f"   ❌ 本機 ollama {ol.get('hint') or ol.get('error')}")
+        cp = report["cloud_pool"]
+        if cp.get("off_whitelist"):
+            names = "、".join(f"{c['model']}（近兩日落地 {c['kept']}／嘗試 {c['attempts']}）"
+                              for c in cp["off_whitelist"])
+            print(f"   🔴 入池門檻  雲端 worker 不在白名單：{names}")
+            print(f"      雲端白名單：{cp['whitelist']}（付費 Tier 6 另計）")
         if fl.get("available"):
             print(f"   ✅ fleet 節點  {len(fl['reachable'])} 台可達："
                   f"{', '.join(fl['reachable'])}")
