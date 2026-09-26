@@ -40,10 +40,26 @@ CLOUD_WORKERS="--worker nemo=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free -
 SKIP_LANES="$("$PY" scripts/tools/lang-sync/babel-weak-lanes.py --explain $FLEET_WORKERS $CLOUD_WORKERS )"
 [ -n "$SKIP_LANES" ] && echo "wrapper: 弱適配切軌 → $SKIP_LANES" >&2
 
+# 本機加掛的 dispatcher 參數（2026-09-26 哲宇「翻譯率 100% 模式，大幅度利用
+# OpenRouter／Haiku／Sonnet」）。典型內容是付費 Tier 6 worker 與它的額度：
+#   --worker-tier6 haiku1=openrouter:anthropic/claude-haiku-4.5
+#   --tier6-nightly-cap 120
+# 放在 repo 外（~/.config/taiwan-md/）而不寫進本檔：付費 lane 花的是觀察者儲值的
+# 錢，是當下的決定，不是夜班常駐配置——寫進本檔等於每次 keepalive 重生都自動
+# 花錢，決定一變就得改 repo；放本機檔案，刪掉就回到純免費產線。
+# 格式：每行一段參數，# 開頭為註解。
+EXTRA_FILE="$HOME/.config/taiwan-md/babel-extra-workers"
+EXTRA_ARGS=""
+if [ -f "$EXTRA_FILE" ]; then
+  EXTRA_ARGS="$(grep -vE '^[[:space:]]*(#|$)' "$EXTRA_FILE" | tr '\n' ' ')"
+  [ -n "$EXTRA_ARGS" ] && echo "wrapper: 加掛本機參數（$EXTRA_FILE）→ $EXTRA_ARGS" >&2
+fi
+
 # shellcheck disable=SC2086
 exec "$PY" scripts/tools/lang-sync/babel-dispatch.py \
   $FLEET_WORKERS \
   $CLOUD_WORKERS \
   $SKIP_LANES \
+  $EXTRA_ARGS \
   --exclude-file .taiwanmd/babel-exclude.tsv \
   --order forward --rounds 200 --commit-every 10

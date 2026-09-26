@@ -156,6 +156,7 @@ src/content/de/
 .taiwanmd/babel-pulse.log
 .taiwanmd/babel-pulse.out
 .taiwanmd/babel-pulse.err
+.taiwanmd/babel-push.log
 
 # Claude Code 本機啟動設定 / cron lock（2026-04-27 β heartbeat 加入）
 # launch.json = IDE 啟動設定（單機）；scheduled_tasks.lock = cron 執行 PID lock
