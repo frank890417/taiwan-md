@@ -22,7 +22,7 @@ translatedAt: '2026-09-12T21:48:55+08:00'
 
 ![화분란 Phalaenopsis Taisuco Kobold, 타이난 국제 난전](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
 
-_사진: 아차오 HQ / [위키미디어 커먼즈 파일 페이지](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95*Taiwan_International_Orchid_Show-*(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). 이미지 열 주소 임베딩 사용, 다운로드 안됨.\_
+사진: 아차오 HQ / [위키미디어 커먼즈 파일 페이지](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). 이미지 열 주소 임베딩 사용, 다운로드 안됨.
 
 ## 꽃은 온실에서 직접 꽃집으로 날아가지 않는다
 

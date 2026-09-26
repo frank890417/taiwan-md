@@ -266,7 +266,7 @@ The ultimate battlefield of cognitive warfare is **trust relationships themselve
 
 [^11]: [IORG: Doubt-the-US Narratives and Their Origins](https://iorg.tw/_en/a/press-release-20230921) — Taiwan Information Environment Research Center, tracking study of 84 narratives
 
-[^12]: [Doublethink Lab TikTok Youth Survey 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B7%E9%80%8F-tiktok-458e3c5f7475) — Taiwan Democracy Lab, summary version of three interconnected reports
+[^12]: [Doublethink Lab TikTok Youth Survey 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B2%E9%80%8F-tiktok-458e3c5f7475) — Taiwan Democracy Lab, summary version of three interconnected reports
 
 [^13]: [Shen Pei-yang: Propaganda War 80% Has Nothing to Do with Truth or Falsehood, It Is Narrative Attacks](https://feja.org.tw/74059/) — Excellence Journalism Award Foundation, record of Shen Pei-yang’s speech
 

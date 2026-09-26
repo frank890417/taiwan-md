@@ -39,7 +39,7 @@ The operational length of this route is approximately 71.6 kilometers. The poten
 
 ![DL 36 Diesel Locomotive at Beimen Station](https://upload.wikimedia.org/wikipedia/commons/f/fd/Taiwan%2C_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
 
-_Caption: DL 36 Diesel Locomotive at Beimen Station. Author: Industrial Wales. CC BY-SA 2.0. Image page and licensing info at [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL*36%27_at_Beimen.jpg). [^10]*
+_Caption: DL 36 Diesel Locomotive at Beimen Station. Author: Industrial Wales. CC BY-SA 2.0. Image page and licensing info at [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg). [^10]\*
 
 Consequently, the "terminus" of the Alishan Forest Railway is actually multiple. For tourists, the terminus is Alishan Station. For early forestry, the terminus was where timber arrived in Chiayi to enter factories and markets. For the cultural landscape, the terminus cannot stop at the station platform; it must extend to how settlements along the line continue to live. This multiplicity of endpoints means a train journey is not just moving from low to high altitude, but moving between different eras of Taiwan.
 

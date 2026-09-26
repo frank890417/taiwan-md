@@ -39,7 +39,7 @@ La longitud operativa de esta ruta es de aproximadamente 71,6 km, mientras que e
 
 ![Locomotora diésel DL 36 en la Estación Beimen](https://upload.wikimedia.org/wikipedia/commons/f/fd/Taiwan%2C_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
 
-_Figura: Locomotora diésel DL 36 en la Estación Beimen. Autor: Industrial Wales. Licencia CC BY-SA 2.0. Página de la imagen e información de licencia en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL*36%27_at_Beimen.jpg). [^10]*
+_Figura: Locomotora diésel DL 36 en la Estación Beimen. Autor: Industrial Wales. Licencia CC BY-SA 2.0. Página de la imagen e información de licencia en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg). [^10]\*
 
 En consecuencia, el "destino final" del Ferrocarril Forestal de Alishan tiene varias interpretaciones. Para los turistas, el destino es la Estación Alishan. Para la industria forestal temprana, el destino era la madera que llegaba a Chiayi para entrar en fábricas y mercados. Para el paisaje cultural, el destino no puede limitarse a la andén de la estación, sino que debe extenderse a cómo viven los asentamientos a lo largo de la línea. Esta multiplicidad de destinos hace que un viaje en tren no sea solo un movimiento de las tierras bajas hacia las altas, sino un desplazamiento entre las distintas etapas de la historia de Taiwán.
 

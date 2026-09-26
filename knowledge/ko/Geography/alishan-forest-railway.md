@@ -31,7 +31,7 @@ _그림: 아리산 임업 철도 열차. 작가 Naplee12. CC BY-SA 3.0. 이미�
 
 ![아리산 임업 철도 DL 36 디젤 기관차가 북문역에 정차함](https://upload.wikimedia.org/wikipedia/commons/f/fd/Taiwan%2C_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
 
-_그림: DL 36 디젤 기관차가 북문역에 정차함. 작가 Industrial Wales. CC BY-SA 2.0. 이미지 페이지 및 라이선스 정보는 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL*36%27_at_Beimen.jpg)에서 확인하세요. [^10]*
+_그림: DL 36 디젤 기관차가 북문역에 정차함. 작가 Industrial Wales. CC BY-SA 2.0. 이미지 페이지 및 라이선스 정보는 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)에서 확인하세요. [^10]\*
 
 따라서 아리산 임철의 '종점'은 실제로 여러 개 있다. 승객에게 종점은 아리산역이다. 초기 임업에게 종점은 쨍나무가 지아에 도착해 공장 및 시장으로 들어가는 지점이다. 문화 경관에게 종점은 역 플랫폼에 멈출 수 없으며, 연선 마을이 어떻게 생활하고 있는지로 확장되어야 한다. 이러한 다중 종점은 한 번의 열차 여행이 단순히 낮은 곳에서 높은 곳으로 이동하는 것이 아니라, 서로 다른 시대의 대만 사이를 이동하는 것임을 의미한다.
 
@@ -142,4 +142,4 @@ _그림: 아리산 임업 철도 객차 외부에서 북문역 플랫폼을 바�
 
 [^10]: [Wikimedia Commons: File:Taiwan, Alishan Forest Railway 'DL 36' at Beimen.jpg](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg) — 작가 Industrial Wales, 라이선스는 Creative Commons 이름 표시 - 동일 방식 공유 2.0, 이미지는 원본 파일 핫링크로 삽입됨, 다운로드 또는 재호스팅되지 않음.
 
-[^11]: [Wikimedia Commons: File:Alishan Forest Railway, Beimen Station, Chiayi City (Taiwan).jpg](<https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan).jpg>) — 작가 Malcolm Koo, 라이선스는 Creative Commons 이름 표시 - 동일 방식 공유 4.0, 이미지는 원본 파일 핫링크로 삽입됨, 다운로드 또는 재호스팅되지 않음.
+[^11]: [Wikimedia Commons: File:Alishan Forest Railway, Beimen Station, Chiayi City (Taiwan).jpg](https://commons.wikimedia.org/wiki/File:Alishan_Forest_Railway,_Beimen_Station,_Chiayi_CIty_(Taiwan) — 작가 Malcolm Koo, 라이선스는 Creative Commons 이름 표시 - 동일 방식 공유 4.0, 이미지는 원본 파일 핫링크로 삽입됨, 다운로드 또는 재호스팅되지 않음.

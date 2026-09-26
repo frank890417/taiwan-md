@@ -30,7 +30,7 @@ translatedAt: '2026-09-11T15:30:49+08:00'
 
 ![Phalaenopsis Taisuco Kobold, Salon international des orchidées de Tainan](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
 
-_Image : HQ Aqiao / [Page du fichier Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95*Taiwan_International_Orchid_Show-*(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). L'image est intégrée via une URL de chargement à chaud, sans téléchargement.\_
+Image : HQ Aqiao / [Page du fichier Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). L'image est intégrée via une URL de chargement à chaud, sans téléchargement.
 
 ## La fleur ne vole pas directement de la serre à la fleuristerie
 

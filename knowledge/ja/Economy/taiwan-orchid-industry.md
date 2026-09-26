@@ -22,7 +22,7 @@ translatedAt: '2026-09-15T06:51:24+08:00'
 
 ![Phalaenopsis Taisuco Kobold，台南国際蘭展](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
 
-\_画像：阿橋 HQ／Wikimedia Commons ファイルページ.jpg>)，CC BY-SA 2.0。画像はホットリンク埋め込み、ダウンロード未実施。\_
+画像：阿橋 HQ／[Wikimedia Commons ファイルページ](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg>)，[CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)。画像はホットリンク埋め込み、ダウンロード未実施。
 
 ## 花は温室から直接花屋へ飛ぶわけではない
 

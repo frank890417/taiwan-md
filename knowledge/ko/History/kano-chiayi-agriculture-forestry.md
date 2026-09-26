@@ -21,7 +21,7 @@ translatedAt: '2026-09-13T20:06:44+08:00'
 
 ![1931년 가오슝 농림 야구팀, 갑자엔에서 준우승](https://upload.wikimedia.org/wikipedia/commons/a/a9/1931%E8%87%BA%E7%81%A3%E5%98%89%E7%BE%A9%E8%BE%B2%E6%9E%97%E6%A3%92%E7%90%83%E9%9A%8A%E8%B4%8F%E5%BE%97%E7%94%B2%E5%AD%90%E5%9C%92%E9%AB%98%E6%A0%A1%E9%87%8E%E7%90%83%E5%A4%A7%E6%9C%83%E6%BA%96%E5%84%AA%E5%8B%9D%EF%BC%88%E4%BA%9E%E8%BB%8D%EF%BC%89_KANO_Baseball_Team_of_TAIWAN_won_2nd_place_at_the_Summer_K%C5%8Dshien_%28High_School_Tournament%29.jpg)
 
-_사진: 1931년 가농 야구단 사진. 위키미디어 코먼즈, 퍼블릭 도메인. [파일 페이지](https://commons.wikimedia.org/wiki/File:1931%E8%87%BA%E7%81%A3%E5%98%89%E7%BE%A9%E8%BE%B2%E6%9E%97%E6%A3%92%E7%90%83%E9%9A%8A%E8%B4%8F%E5%BE%97%E7%94%B2%E5%AD%90%E5%9C%92%E9%AB%98%E6%A0%A1%E9%87%8E%E7%90%83%E5%A4%A7%E6%9C%83%E6%BA%96%E5%84%AA%E5%8B%9D%EF%BC%88%E4%BA%9E%E8%BB%8D%EF%BC%89_KANO_Baseball_Team_of_TAIWAN_won_2nd_place_at_the_Summer_K%C5%8Dshien_%28High*School_Tournament%29.jpg).*
+_사진: 1931년 가농 야구단 사진. 위키미디어 코먼즈, 퍼블릭 도메인. [파일 페이지](https://commons.wikimedia.org/wiki/File:1931%E8%87%BA%E7%81%A3%E5%98%89%E7%BE%A9%E8%BE%B2%E6%9E%97%E6%A3%92%E7%90%83%E9%9A%8A%E8%B4%8F%E5%BE%97%E7%94%B2%E5%AD%90%E5%9C%92%E9%AB%98%E6%A0%A1%E9%87%8E%E7%90%83%E5%A4%A7%E6%9C%83%E6%BA%96%E5%84%AA%E5%8B%9D%EF%BC%88%E4%BA%9E%E8%BB%8D%EF%BC%89_KANO_Baseball_Team_of_TAIWAN_won_2nd_place_at_the_Summer_K%C5%8Dshien_%28High_School_Tournament%29.jpg).\*
 
 1931년 7월 23일, 타이베이 위안산 야구장에는 약 15,000명의観衆이 몰려들었다. 가오슝 농림은 타이완 대표권 결정전에서 타이베이 상업학교를 11대 10으로 꺾고, 일본 갑자엔행 승선권을 거머쥐었다. 같은 날, 라디오는 경기 소리를 섬 곳곳에 전달했다. 8월 21일, 그들은 갑자엔 결승에서 아이치 상업학교에 패해 준우승을 차지했다. 이 우승을 차지하지 못한 팀은 이후 '천하가농(天下嘉農)'이라 불리게 되었다. [^1] [^2]
 

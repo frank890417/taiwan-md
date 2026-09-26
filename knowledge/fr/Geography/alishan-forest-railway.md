@@ -39,7 +39,7 @@ La longueur commerciale de cette ligne est d'environ 71,6 km, tandis que le poin
 
 ![Locomotive diesel DL 36 à quai à Beimen](https://upload.wikimedia.org/wikipedia/commons/f/fd/Taiwan%2C_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg)
 
-_Fig. : Locomotive diesel DL 36 à quai à Beimen. Auteur : Industrial Wales. Licence CC BY-SA 2.0. Page de l'image et informations d'attribution sur [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL*36%27_at_Beimen.jpg). [^10]*
+_Fig. : Locomotive diesel DL 36 à quai à Beimen. Auteur : Industrial Wales. Licence CC BY-SA 2.0. Page de l'image et informations d'attribution sur [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan,_Alishan_Forest_Railway_%27DL_36%27_at_Beimen.jpg). [^10]\*
 
 Par conséquent, l'« aboutissement » du chemin de fer forestier d'Alishan possède en réalité plusieurs significations. Pour les voyageurs, l'aboutissement est la station d'Alishan. Pour l'industrie forestière de l'époque, l'aboutissement était l'arrivée du bois à Chiayi, son entrée dans les usines et les marchés. Pour le paysage culturel, l'aboutissement ne peut pas s'arrêter au quai de la gare, mais doit s'étendre à la façon dont les villages le long de la ligne continuent de vivre. Cette multiplicité d'aboutissements fait d'un voyage en train un déplacement non seulement d'une basse altitude vers une haute altitude, mais aussi entre différentes époques de Taïwan.
 

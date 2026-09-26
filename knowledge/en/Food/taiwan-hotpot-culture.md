@@ -70,12 +70,12 @@ Taiwan's hotpot culture is an epic woven together by history, ethnicity, society
 
 [^4]: Mnitang (鳴人堂). (2020). _Was satay sauce originally an "imported product"? The past and present of Taiwan's satay sauce_. [https://opinion.udn.com/opinion/story/11664/5121026](https://opinion.udn.com/opinion/story/11664/5121026)
 
-[^5]: Taiwan Panorama Magazine. (n.d.). _Taiwan Satay — Recording the Diverse Flavors of an Immigrant Trail_. [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6)
+[^5]: Taiwan Panorama Magazine. (n.d.). _Taiwan Satay — Recording the Diverse Flavors of an Immigrant Trail_. [https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2](https://www.taiwan-panorama.com/Articles/Details?Guid=ca6f0a3d-08d7-4b1a-b293-0bc23dee7fb6&CatId=10&postname=%E5%8F%B0%E7%81%A3%E6%B2%99%E8%8C%B6%20%20%20%20-%E8%A8%98%E9%8C%84%E7%A7%BB%E6%B0%91%E8%BB%8C%E8%B7%A1%E7%9A%84%E7%B4%9B%E5%B1%95%E6%BB%8B%E5%91%B3&srsltid=AfmBOopBWGroW8_qKDKkfT4bjJMQE_DsHaYnnZz_Kn_eQF45p3nV6wu2)
 
 [^6]: Up Media. (2021). _"Emperor Hotpot" that operated for over half a century comes to an end!_. [https://www.upmedia.mg/tw/lifestyle/information/106834](https://www.upmedia.mg/tw/lifestyle/information/106834)
 
 [^7]: Every Little D. (n.d.). _In 1979, Taipei's first spicy hotpot restaurant "Ning Ji"_. [https://www.facebook.com/everylittled/posts/1278393264306029/](https://www.facebook.com/everylittled/posts/1278393264306029/)
 
-[^8]: YTower Food Network (楊桃美食網). (n.d.). _The people's specialty from Sichuan — spicy hotpot_. [https://www.ytower.com.tw/prj/prj_260/p1.asp](https://www.ytower.com.tw/prj/prj_260/p1.asp)
+[^8]: YTower Food Network (楊桃美食網). (n.d.). _The people's specialty from Sichuan — spicy hotpot_. [https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl](https://www.ytower.com.tw/prj/prj_260/p1.asp?srsltid=AfmBOoq0DSLuj4U0PCPtdSXD55XfN2NSXfn-qf6sBqpVXG9Ey2Ex-3Hl)
 
 [^9]: CParty. (2025). _Classic Late-Night Food Illustrated | Taiwan's Century of Hotpot Evolution_. [https://cparty.com.tw/archives/85863](https://cparty.com.tw/archives/85863)

@@ -72,7 +72,7 @@ translatedAt: '2026-07-25T10:53:27+08:00'
 
 [^2]: [廖鴻基 - 花蓮縣文化局](https://www.hccc.gov.tw/zh-tw/ArtHeritage/Detail/63) — انظر المصدر الأصلي في الرابط
 
-[^3]: [用一生閱讀海洋，看見渺小也看見浩瀚：專訪海洋文學作家廖鴻基 - 聯達行股份有限公司](https://www.liantat.com.tw/%E7%94%A8%E4%B8%80%E7%94%9F%E9%96%B1%E8%AE%80%E6%B5%B7%E6%B4%8B%EF%BC%8C%E7%9C%8B%E8%A6%8B%E6%B8%BA%E5%B0%8F%E4%B9%9F%E7%9C%8B%E8%A6%8B%E6%B5%B7%E7%80%9A%EF%BC%9A%E5%B0%88%E8%A8%AA%E6%B5%B7%E6%B4%8B/) — انظر المصدر الأصلي في الرابط
+[^3]: [用一生閱讀海洋，看見渺小也看見浩瀚：專訪海洋文學作家廖鴻基 - 聯達行股份有限公司](https://www.liantat.com.tw/%E7%94%A8%E4%B8%80%E7%94%9F%E9%96%B1%E8%AE%80%E6%B5%B7%E6%B4%8B%EF%BC%8C%E7%9C%8B%E8%A6%8B%E6%B8%BA%E5%B0%8F%E4%B9%9F%E7%9C%8B%E8%A6%8B%E6%B5%A9%E7%80%9A%EF%BC%9A%E5%B0%88%E8%A8%AA%E6%B5%B7%E6%B4%8B/) — انظر المصدر الأصلي في الرابط
 
 [^4]: [一念之間．改變地球 海洋文學作家廖鴻基 航向海洋、與鯨豚交心](https://topic.udn.com/event/udn5_rolex) — 聯合新聞網報導
 
@@ -88,7 +88,7 @@ translatedAt: '2026-07-25T10:53:27+08:00'
 
 [^10]: [41屆文學獎得主 - 財團法人吳三連獎基金會](https://www.wusanlien.org.tw/products_detail/85) — انظر المصدر الأصلي في الرابط
 
-[^11]: [黑潮漂流，海闊天空：黑潮101 漂流計畫| 安妮新聞 - 美感教育](https://aade.project.edu.tw/annetimes/journal/12/%E9%BB%91%E6%BD%AE%E6%BC%82%E6%B5%81%EF%BC%8C%E6%B5%B7%E9%97%8A%E5%A4%A7%E5%A4%A9%E7%A9%BA%EF%BC%9A%E9%BB%91%E6%BD%AE101-%E6%BC%82%E6%B5%81%E8%A8%88%E7%95%AB) — انظر المصدر الأصلي في الرابط
+[^11]: [黑潮漂流，海闊天空：黑潮101 漂流計畫| 安妮新聞 - 美感教育](https://aade.project.edu.tw/annetimes/journal/12/%E9%BB%91%E6%BD%AE%E6%BC%82%E6%B5%81%EF%BC%8C%E6%B5%B7%E9%97%8A%E5%A4%A9%E7%A9%BA%EF%BC%9A%E9%BB%91%E6%BD%AE101-%E6%BC%82%E6%B5%81%E8%A8%88%E7%95%AB) — انظر المصدر الأصلي في الرابط
 
 [^12]: [前進2019德國法蘭克福書展 故事之島呈現臺灣山海智慧與自然風貌](https://www.moc.gov.tw/News_Content.aspx?n=105&s=55824) — انظر المصدر الأصلي في الرابط
 

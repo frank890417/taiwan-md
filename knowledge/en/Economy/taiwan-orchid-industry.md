@@ -30,7 +30,7 @@ translatedAt: '2026-09-11T07:34:48+08:00'
 
 ![Phalaenopsis Taisuco Kobold, Tainan International Orchid Exhibition](https://upload.wikimedia.org/wikipedia/commons/0/0b/%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_%2839129452540%29.jpg)
 
-_Image: Ah Qiao HQ / [Wikimedia Commons File Page](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95*Taiwan_International_Orchid_Show-*(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Image embedded via hotlink, not downloaded.\_
+Image: Ah Qiao HQ / [Wikimedia Commons File Page](<https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg>), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Image embedded via hotlink, not downloaded.
 
 ## Flowers Do Not Fly Directly from Greenhouses to Flower Shops
 

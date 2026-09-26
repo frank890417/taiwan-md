@@ -262,7 +262,7 @@ The Li Poetry Society has not ceased publication for 60 years. Taiwan.md has jus
 This article uses 4 public domain / CC-licensed images, all cached in `public/article-images/art/` to avoid hotlinking to the source server:
 
 - [Poet Wu Sheng at the 2016 Taipei International Book Fair](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo: Rico Shen, 2016, CC BY-SA 4.0 (hero)
-- [1964 Li Poetry Society Editorial Board Group Photo](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Historical record from the founding year of the Li Poetry Society, Wikimedia Commons CC BY-SA / Public domain
+- [1964 Li Poetry Society Editorial Board Group Photo](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E5%88%8A%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Historical record from the founding year of the Li Poetry Society, Wikimedia Commons CC BY-SA / Public domain
 - [Portrait of Poet Lin Heng-tai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
 - [Chen Chien-wu’s Commendation Order](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Public government document, Public domain
 
@@ -288,7 +288,7 @@ Detailed media manifest and negative finding records are in [research report §M
 
 [^9]: [Translingual Generation Poet Lin Heng-tai Passes Away at 100 — United Daily News 2023](https://udn.com/news/story/6885/7461236/) — Lin Heng-tai retrospectively proposed the term "translingual generation poets" in 1967, describing a generation of poets "facing the loss of linguistic media," "facing the learning of Chinese again, breaking through Chinese expression capabilities."
 
-[^10]: [The Translingual Generation — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B7%A8%E8%B6%8A%E8%A8%80%E8%A8%98%E7%9A%84%E4%B8%80%E4%BB%A3) — Details that "the translingual generation" refers to local poets born in the late Japanese colonial period (roughly 1915–1928), educated and writing in Japanese during their youth, forced to relearn Chinese after the Nationalist Government abolished Japanese.
+[^10]: [The Translingual Generation — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B7%A8%E8%B6%8A%E8%AA%9E%E8%A8%80%E7%9A%84%E4%B8%80%E4%BB%A3) — Details that "the translingual generation" refers to local poets born in the late Japanese colonial period (roughly 1915–1928), educated and writing in Japanese during their youth, forced to relearn Chinese after the Nationalist Government abolished Japanese.
 
 [^11]: [Wong, "Translingual Poets in Colonial and Postcolonial Taiwan" — Polylinguality 2024 (Springer/RUDN)](https://journals.rudn.ru/polylinguality/article/view/30492/en_US) — 2026 international academic paper formally categorizes translingual generation poets into the English research category "Translingual Poets," listing members including Zhan Bing, Chen Chien-wu, Lin Heng-tai, Jin Lien, Tu Pan-fang-ko, etc.
 
