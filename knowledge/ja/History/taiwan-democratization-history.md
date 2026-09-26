@@ -1,183 +1,178 @@
 ---
-title: 'Democratization'
-description: "On March 18, 1980, at the Kaohsiung Military Court, Shi Ming-de abandoned his 60,000-word defense statement and instead demanded the judge sentence him to death. In that same trial, the young lawyers defending the defendants—Chen Shui-bian, Hsieh Chang-ting, and Su Tseng-chang—would all become President or Premier of the Executive Yuan twenty years later. A trial intended to make an example of them accidentally produced the next generation of Taiwan's political leaders."
+title: '台湾の民主化'
+description: '1980年3月18日、高雄軍事法廷で、施明德は6万字に及ぶ答弁書を放棄し、一転して裁判官に死刑を求めた。同じ裁判で被告を弁護していた若手弁護士の陳水扁、謝長廷、蘇貞昌は、20年後にそろって総統または行政院長に就任した。見せしめのはずだった裁判が、思いがけず台湾の次世代を担う政治指導者たちを生み出したのである。'
 date: 2026-03-27
-tags:
-  [
-    'History',
-    'Democratization',
-    'Politics',
-    'Formosa Incident',
-    'Wild Lily Student Movement',
-  ]
-subcategory: 'Post-War and Authoritarian'
-author: 'Taiwan.md'
 category: 'History'
-readingTime: 12
+tags: ['歴史', '民主化', '政治', '美麗島事件', '野百合学生運動']
+subcategory: '戰後與威權'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'History/民主化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5c4c48886e261a1e'
-sourceBodyHash: 'sha256:1ac64c77bbabb1d3'
-translatedAt: '2026-05-02T13:45:56+08:00'
-featured: true
+sourceCommitSha: 'dbaf28954'
+sourceContentHash: 'sha256:0f572861e1f79f7d'
+sourceBodyHash: 'sha256:b51e57f04bd06fc2'
+translatedAt: '2026-09-26T19:10:21+08:00'
 ---
 
-# Democratization
+# 台湾の民主化
 
-> **30-Second Overview:** On December 10, 1979, Chen Chu, aged 29, was dragged into a police car amidst tear gas smoke on the streets of Kaohsiung. She wrote a suicide note in prison, believing she would be executed. Forty years later, she became the President of the Control Yuan, the head of Taiwan's highest government oversight body. Taiwan's democratization was not a switch, but an experiment that took forty years: moving from the world's longest martial law (38 years and 56 days) to becoming one of Asia's most free democratic nations (Freedom House 2025 score of 93/100, ranked 6th globally). It happened without a bloody revolution or a military coup.
+> **30秒概要：** 1979年12月10日、高雄の街頭で催涙弾の煙が立ち込めるなか警察車両に連行された陳菊（ちん・きく／チェン・チュー）、29歳は、獄中で遺書をしたため、自分は銃殺されるものと覚悟していた。40年後、彼女は監察院長——台湾政府における最高監督機関のトップに就任する。台湾の民主化は一つのスイッチではなく、40年をかけた実験だった。世界最長の戒厳令（38年と56日間）から、アジアで最も自由な民主国家の一つ（フリーダムハウス2025年評点93/100、世界第6位）へ。その全過程を通じて、流血の革命はなく、軍事クーデターもなかった。
 
-On March 18, 1980, the Formosa Incident trial began in a Taiwan military court. Seated in the defendant's dock were Shi Ming-de, Huang Hsin-chieh, Chen Chu, and Lu Hsiu-lien; the gallery was packed with international journalists, and U.S. Senator Ted Kennedy entered Shi Ming-de's case into the Congressional Record.
+1980年3月18日、台湾軍事法廷で美麗島事件の審理が始まった。被告席には施明德（シー・ミンドー）、黄信介（フアン・シンジェ）、陳菊、呂秀蓮（りょ・しゅうれん／リュウ・シュウリエン）が並び、傍聴席は各国の記者で埋め尽くされた。米上院議員テッド・ケネディは、施明德の裁判の記録を米議会の議事録に残している。
 
-The Kuomintang (KMT) originally intended to hold a public trial to demonstrate judicial legitimacy. The result was counterproductive.
+国民党はもともと裁判を公開することで、司法の正当性を示そうとしていた。結果はまったくの逆効果だった。
 
-The trial provided the defendants with a national stage. Shi Ming-de had prepared a 60,000-word defense statement, but after the trial began, he learned that [[Lin Yi-hsiung]]'s mother and twin daughters had been murdered outside the prison (the [[Lin Family Massacre|Lin Family Blood Case]]). He abandoned his defense on the spot and instead demanded the judge sentence him to death. This image spread across the island via the media.
+裁判は被告たちに全国規模の舞台を与えた。施明德は6万字に及ぶ答弁書を用意していたが、開廷後、[林義雄（リン・イーシオン）](/ja/people/lin-yi-hsiung-democracy-advocate-tragedy-survivor/)の母親と双子の娘が獄外で何者かに殺害された事件（[林宅血案](/ja/history/228-incident/)）を知り、その場で答弁を放棄し、一転して裁判官に死刑を求めた。この光景はメディアを通じて島全体に伝わった。
 
-> 📝 **Curator's Note:** The most absurd consequence of the grand Formosa trial was that the young lawyers defending the defendants—[[Chen Shui-bian]], Hsieh Chang-ting, Su Tseng-chang, Chang Chun-hsiung, and Yu Ching—almost all became President, Premier, or Mayor of a special municipality within twenty years. The KMT's carefully planned trial inadvertently cultivated an entire generation of political elites for the opposition movement.
+> 📝 **キュレーター注記：** 美麗島大審のもっとも皮肉な結末は、被告を弁護した若手弁護士団——[陳水扁（ちんすいへん／チェン・シュイビェン）](/ja/people/chen-shui-bian-controversial-president/)、謝長廷（シェー・チャンティン）、蘇貞昌（スー・ジェンチャン）、張俊雄（ジャン・ジュンシオン）、尤清（ヨウ・チン）——のほぼ全員が、20年以内に台湾の総統、行政院長、あるいは直轄市長になったことだ。国民党が周到に仕組んだこの裁判は、意図せず反対運動のために一世代分の政治エリートを育て上げてしまった。
 
-## Zheng Nanrong's Seventy-One Days
+## 鄭南榕の71日間
 
-In the decade following the Formosa trial, Taiwanese society was like a pot of slowly heating water. The Non-Partisan League continued to expand, but what truly pushed the temperature to the boiling point was a Han Chinese from outside Taiwan named [[Zheng Nanrong]].
+美麗島事件の裁判から10年、台湾社会はゆっくりと熱せられていく一鍋の水のようだった。党外運動は拡大を続けていたが、その温度を沸点まで押し上げたのは、[鄭南榕（てい・なんよう／チェン・ナンロン）](/ja/people/zheng-nanrong/)という一人の外省人（1949年前後に中国大陸から渡ってきた人々）だった。
 
-On December 10, 1988, International Human Rights Day, Zheng Nanrong published the full text of a "Draft Constitution of the Republic of Taiwan" in the 254th issue of his edited weekly, _Freedom Era_. At the time, this constituted the crime of rebellion, punishable by death.
+1988年12月10日、国際人権デーに、鄭南榕は自ら編集長を務める週刊誌『自由時代』第254号に、「台湾共和国憲法草案」の全文を掲載した。当時これは反乱罪に相当し、死刑もありうる行為だった。
 
-After receiving a court summons, Zheng Nanrong locked himself in the magazine office and refused to appear in court. He spoke his final words to his wife, Ye Ju-lan:
+裁判所からの召喚状を受け取った後、鄭南榕は雑誌社に自らを閉じ込め、出廷を拒んだ。妻の葉菊蘭（イエ・ジューラン）に、彼はこう最後の言葉を残している。
 
-**"The rest is up to you."**
+**「あとは君たちに任せる。」**
 
-At 7:30 AM on April 7, 1989, nearly 200 police officers surrounded the magazine office. At 9:15 AM, Zheng Nanrong died by self-immolation at the age of 41. The back cover of his magazine forever bore the same phrase: "Strive for 100% Freedom of Speech!"
+1989年4月7日午前7時半、200人近い警察部隊が雑誌社を包囲した。9時15分、鄭南榕は焼身自殺を遂げた。享年41歳。彼の雑誌の裏表紙には、いつも同じ一文が印刷されていた。「百パーセントの言論の自由を勝ち取れ！」
 
-On May 19, tens of thousands of people followed his coffin toward the Presidential Office in the rain.
+5月19日、数万人が雨のなか彼の棺を担ぎ、総統府へと向かって歩いた。
 
-> 📝 **Curator's Note:** The commander of the SWAT team leading the raid on the magazine office was Hou Yu-ih. Thirty-five years later, in 2024, he ran for President on behalf of the KMT. The same person stood on the side of state violence in one of the most tragic moments of Taiwan's democratization, yet ran for the highest office within a democratic system. This fact itself is the absurdity and complexity of Taiwan's history.
+> 📝 **キュレーター注記：** 雑誌社への突入を指揮した警察特殊部隊（霹靂小組）の隊長は侯友宜（こう・ゆうぎ／ホウ・ヨウイー）という人物だった。35年後の2024年、彼は国民党の総統候補として選挙に出馬する。台湾民主化史上もっとも凄惨な場面の一つで国家暴力の側に立った同一人物が、民主体制のもとで最高権力の座を争う——この事実そのものが、台湾史の持つ不条理さと複雑さを物語っている。
 
-Zheng Nanrong's death directly led to the amendment of Article 100 of the Criminal Code in 1992 and the abolition of the "Suppression of Rebellion Regulations." From then on, thought was no longer a crime. April 7 was later designated as "Freedom of Speech Day."
+鄭南榕の死は、1992年の刑法第100条改正と「懲治叛乱条例」廃止を直接後押しした。これ以降、思想はもはや犯罪ではなくなった。4月7日はのちに「言論自由の日」と定められた。
 
-## Martial Law Lifting: Not a Switch
+## 戒厳令解除：スイッチ一つでは終わらない
 
-On July 14, 1987, 75-year-old [[Chiang Ching-kuo]] held a press conference at the Presidential Office, announcing that martial law would be lifted at midnight the next day. Twelve days later, on July 27, he invited twelve local elders to the Presidential Office for tea and said a quote that would be repeatedly cited later:
+1987年7月14日、75歳の蔣経国（しょうけいこく）は総統府で記者会見を開き、翌日午前零時をもって戒厳令を解除すると発表した。12日後の7月27日、彼は地元の長老12人を総統府の茶会に招き、後々まで繰り返し引用されることになる言葉を残した。
 
-**"I have lived in Taiwan for forty years; I am a Taiwanese, and therefore also a Chinese."**
+**「私は台湾に40年住んでいる。台湾人であり、当然、中国人でもある。」**
 
-This quote was later selectively cited across different political spectrums. Independence supporters took only the first half, while unificationists emphasized the second half. But in the context of 1987, its function was to bridge provincial conflicts: a Han Chinese strongman acknowledging himself as a Taiwanese, attempting to cool tensions in the face of impending political opening.
+この発言はのちに、異なる政治的立場によってそれぞれ都合よく引用されるようになった。独立派は前半だけを取り上げ、統一派は後半を強調した。しかし1987年当時の文脈では、その機能は本省人と外省人のあいだの対立感情を和らげることにあった。外省人出身の強権的指導者が自らも台湾人であると認めることで、目前に迫った政治的開放への緊張を和らげようとしたのである。
 
-Chiang Ching-kuo passed away six months later.
+蔣経国はその6か月後に病没した。
 
-But lifting martial law did not equal freedom. The government simultaneously passed the "National Security Law," Article 9 of which stipulated that judgments by military tribunals against civilians during the martial law period "shall not be appealed or protested to the competent court." In other words, victims of the White Terror were legally blocked from relief channels.
+しかし戒厳令の解除は、自由を意味しなかった。政府は同時に「国家安全法」を制定しており、その第9条は、戒厳期間中に軍事法廷が民間人に下した判決について「管轄裁判所への上訴または抗告を認めない」と規定していた。つまり、白色テロの被害者たちは、法律上、救済への道をふさがれたままだったのである。
 
-> **"Some scholars therefore argue that the true starting point of Taiwan's democratization is 1992 (amendment of Article 100 of the Criminal Code, abolition of the 'Suppression of Rebellion Regulations'), rather than the lifting of martial law in 1987."**
+> **「そのため一部の学者は、台湾の真の民主化の起点は1987年の戒厳令解除ではなく、1992年（刑法第100条改正、懲治叛乱条例廃止）にあると主張する。」**
 
-This is why some who experienced martial law did not remember July 15 as a day of ecstasy, but rather of bewilderment: Parades were allowed, but who dared to parade? Parties could be formed, but would you be arrested if you did? Democracy is not a light that turns on with the flip of a switch; it requires an entire society to relearn "how not to be afraid."
+戒厳令を経験した世代のなかに、7月15日という日の記憶が歓喜ではなく戸惑いだったという人が少なくないのは、そのためでもある。デモをしてもいいと言われても、誰が実際にデモをする勇気を持てただろうか。政党を作ってもいいと言われても、作ったら本当に捕まらないのか。民主主義とは、スイッチ一つで点灯する明かりではない。社会全体が「恐れない生き方」を一から学び直す必要があったのだ。
 
-## Six Thousand Wild Lilies vs. Tiananmen
+## 六千本の野百合 vs. 天安門
 
-On March 16, 1990, less than nine months after the Tiananmen Incident, National Taiwan University students began a sit-in at the Chiang Kai-shek Memorial Hall Square. The cause was that [[Lee Teng-hui]] was to be re-elected President, but the National Assembly voting for him was still the "[[Ten-Thousand-Year Congress]]" elected in 1947 in mainland China, consisting of over 700 un-re-elected old representatives.
+1990年3月16日、天安門事件からまだ9か月と経たない時期、台湾大学の学生たちが中正記念堂広場で座り込みを始めた。きっかけは、[李登輝（りとうき）](/ja/people/lee-teng-hui/)が総統再選を狙っていたことだったが、彼を選出する国民大会は依然として1947年に中国大陸で選出された「万年国会」——一度も改選されたことのない700人あまりの高齢代表たちで構成されていた。
 
-The students' banner read: "Fellow countrymen, can you endure the oppression of 700 emperors?"
+学生たちの垂れ幕にはこう書かれていた。「同胞たちよ、700人の皇帝による圧迫に、あなたがたは耐えられるか。」
 
-Starting with a dozen people, the number grew to nearly 6,000 within six days. Holding wild lilies (symbolizing the pure, native flower of Taiwan), they presented four demands: dissolve the National Assembly, abolish the Temporary Provisions, convene a National Affairs Conference, and establish a reform timeline.
+十数人から始まった座り込みは、6日間で6,000人近くにまで膨れ上がった。彼らは野百合（台湾原生の、純潔を象徴する花）を手に、4つの要求を掲げた。国民大会の解散、臨時条款の廃止、国是会議の招集、改革のタイムテーブルの策定である。
 
-On March 21, Lee Teng-hui met with fifty student representatives at the Presidential Office.
+3月21日、李登輝は総統府で50人の学生代表と面会した。
 
-This was the mirror-image ending of Tiananmen. Nine months prior, students in Beijing received tanks; students in Taipei received the President's promise. Lee Teng-hui later said he had ordered "no harm to students" (quoting an ETtoday 2015 report).
+これは天安門の鏡写しの結末だった。9か月前、北京の学生たちが手にしたのは戦車であり、台北の学生たちが手にしたのは総統の約束だった。李登輝はのちに、自分は「学生を傷つけてはならない」と命じたと語っている（ETtoday、2015年の報道より）。
 
-The promises were fulfilled one by one: The Temporary Provisions were abolished in May 1991, and the Ten-Thousand-Year Congress dissolved in December of the same year; the Legislative Yuan was fully re-elected in 1992; on March 23, 1996, Taiwan held its first direct presidential election.
+約束は一つずつ果たされていった。1991年5月に臨時条款が廃止され、同年12月には万年国会が解散。1992年には立法院が全面改選され、1996年3月23日、台湾は初めての総統直接選挙を実施した。
 
-> 📝 **Curator's Note:** The life trajectories of the Wild Lily Student Movement leaders themselves constitute a history of Taiwanese politics: Fan Yun became a DPP legislator, Lin Chia-lung became Foreign Minister, Luo Wen-chia became a key DPP figure, and Cheng Wen-tsan became Mayor of Taoyuan. This student movement not only changed the system but also defined the political personality of an entire generation.
+> 📝 **キュレーター注記：** 野百合学生運動の学生リーダーたちのその後の歩みは、それ自体が台湾政治史の一部となっている。范雲（はん・うん／ファン・ユン）は民進党の立法委員となり、林佳龍（りん・かりゅう／リン・ジャーロン）は外交部長を務め、羅文嘉（ら・ぶんか／ルオ・ウェンジア）は民進党の重鎮となり、鄭文燦（てい・ぶんさん／ジェン・ウェンツァン）は桃園市長に就任した。この学生運動は制度を変えただけでなく、一つの世代全体の政治的人格を定義づけた。
 
-## Voting Under Missiles
+## ミサイルの下の投票
 
-In March 1996, on the eve of Taiwan's first direct presidential election, China test-fired missiles 20 miles off Keelung and 29 miles off Kaohsiung, paralyzing 70% of commercial shipping passing through these two ports. The PLA simultaneously gathered 100,000 troops along the coast.
+1996年3月、台湾初の総統直接選挙を目前に控え、中国は基隆沖20マイルと高雄沖29マイルの海域にミサイルを試射し、この二つの港を経由する商業海運の7割を麻痺させた。人民解放軍は同時に沿岸部に10万の兵力を集結させていた。
 
-Beijing's intent was clear: to deter Taiwanese voters from voting for Lee Teng-hui.
+北京の狙いは明白だった。台湾の有権者に李登輝への投票を思いとどまらせることである。
 
-The U.S. response was to dispatch two aircraft carrier battle groups, the Nimitz and the Independence—the largest U.S. military deployment in the Pacific since the Vietnam War.
+これに対しアメリカは、「ニミッツ」と「インディペンデンス」の空母打撃群2個を派遣して応じた。ベトナム戦争以来、米軍による太平洋最大規模の軍事展開だった。
 
-On March 23, the voter turnout was 76.04%. Lee Teng-hui won 5,813,699 votes, with a vote share of 54%. China's missiles did not deter voters; instead, they may have pulled an additional 5% of votes for Lee Teng-hui, turning what was originally a relative majority into an absolute majority.
+3月23日、投票率は76.04%。李登輝は5,813,699票、得票率54%を獲得した。中国のミサイルは有権者を萎縮させるどころか、かえって李登輝に約5ポイント分の票を上乗せさせ、本来なら相対多数にとどまるはずだった得票を絶対多数へと押し上げた可能性がある。
 
-Beijing's carefully planned intimidation produced the exact result it least wanted to see.
+北京が周到に仕組んだ威嚇は、自らがもっとも望まなかった結果を生み出した。
 
-| Item                    | Data                     |
-| ----------------------- | ------------------------ |
-| Election Day            | March 23, 1996           |
-| Voter Turnout           | 76.04%                   |
-| Lee Teng-hui Vote Share | 54.00% (5,813,699 votes) |
-| Peng Ming-min (DPP)     | 21.12%                   |
-| Lin Yang-kang           | 14.90%                   |
-| Chen Lü-an              | 9.98%                    |
+| 項目                                             | データ                |
+| ------------------------------------------------ | --------------------- |
+| 投票日                                           | 1996年3月23日         |
+| 投票率                                           | 76.04%                |
+| 李登輝の得票率                                   | 54.00%（5,813,699票） |
+| 彭明敏（ほう・めいびん／ポン・ミンミン、民進党） | 21.12%                |
+| 林洋港（りん・ようこう／リン・ヤンガン）         | 14.90%                |
+| 陳履安（ちん・りあん／チェン・リュアン）         | 9.98%                 |
 
-## Three Rotations: The Character of Losers
+## 三度の政権交代：敗者の品格
 
-What truly tests democracy is not the election, but "whether the loser is willing to leave."
+民主主義を本当に試すのは選挙そのものではなく、「負けた者が退く意思を持てるかどうか」である。
 
-**2000**: Chen Shui-bian was elected with 39.3% of the vote, ending 55 years of KMT rule. This was the first time in a Chinese-speaking society that power was peacefully transferred through ballots. The KMT's split was key: Song Chu-yu ran as an independent candidate taking 37% of the vote, while Lien Chan only received 23%.
+**2000年**：陳水扁（ちんすいへん／チェン・シュイビェン）が得票率39.3%で当選し、国民党による55年間の統治を終わらせた。中華圏の社会において、投票によって政権が平和的に移行した初めての例である。国民党の分裂が鍵となった。宋楚瑜（そう・そゆ／ソン・チューユー）が離党して出馬し37%の票を奪い、連戦（れん・せん／リエン・チャン）はわずか23%しか得られなかった。
 
-**2008**: Ma Ying-jeou defeated Hsieh Chang-ting with 58.45%. The DPP peacefully handed over power, proving that "admitting defeat" is not a KMT specialty.
+**2008年**：馬英九（ばえいきゅう／マー・インチウ）が58.45%の得票率で謝長廷を破った。民進党は政権を平和的に譲り渡し、「敗北を認める」ことが国民党だけの専売特許ではないことを証明した。
 
-**2016**: Tsai Ing-wen defeated Chu Li-lun with 56.12%. The KMT peacefully stepped down again.
+**2016年**：蔡英文（さい・えいぶん／ツァイ・インウェン）が56.12%の得票率で朱立倫（しゅ・りつりん／ジュ・リールン）を破った。国民党は再び平和的に下野した。
 
-**2024**: Lai Ching-te was elected with 40.05%. The DPP governed for the first time without an absolute majority, while the legislature was controlled by the opposition. The democratic system underwent another stress test.
+**2024年**：頼清徳（らい・せいとく／ライ・チンドー）が40.05%の得票率で当選した。民進党は初めて過半数を得ないまま政権を運営することになり、議会は野党が多数を占めた。民主制度は再びストレステストにさらされた。
 
-Four party rotations over thirty years, all completed peacefully. No military coups, no refusal to hand over power, no violent protests.
+30年間で4度の政党交代があり、そのすべてが平和裏に完了した。軍事クーデターはなく、政権移譲の拒否もなく、暴力的な抗議もなかった。
 
-## Why No Bloodshed?
+## なぜ流血がなかったのか
 
-Eastern European revolutions overthrew communist parties, the Arab Spring sparked civil wars, and the Myanmar military government brutally suppressed dissent. Why did Taiwan achieve a "Nirvana Revolution"?
+東欧革命は共産党政権を打倒し、アラブの春は内戦を引き起こし、ミャンマー軍事政権は流血の弾圧を行った。なぜ台湾だけが「静かな革命」を成し遂げられたのか。
 
-Political scientist Samuel Huntington classified Taiwan in _The Third Wave_ as "transformation," an elite-led, top-down democratization, distinct from South Korea's "transplacement" or the Philippines' "replacement."
+政治学者サミュエル・ハンチントンは著書『第三の波』のなかで、台湾をエリート主導のトップダウン型民主化である「転型（transformation）」に分類し、韓国の「協調型移行（transplacement）」やフィリピンの「交代型（replacement）」とは異なるものとした。
 
-But behind the elites' choice to reform were structural reasons:
+しかし、エリート層が改革を選んだ背景には、構造的な理由があった。
 
-**The Economic Miracle created a middle class.** Between 1960 and 1990, Taiwan's per capita GDP skyrocketed from $164 to $8,111. The middle class had too much to lose; they wanted reform, not revolution.
+**経済的奇跡が中産階級を生んだ。** 1960年から1990年にかけて、台湾の一人当たりGDPは164ドルから8,111ドルへと急上昇した。中産階級には失うものがあまりにも多く、彼らが望んだのは革命ではなく改革だった。
 
-**Diplomatic isolation forced the regime to seek legitimacy.** Expulsion from the UN (1971), severing of ties with the U.S. (1979), and removal from the International Olympic Committee. The KMT could no longer use "Retaking the Mainland" as a justification for rule; it had to build a foundation of public opinion within Taiwan.
+**外交的孤立が政権に正当性を求めさせた。** 国連からの脱退（1971年）、アメリカとの断交（1979年）、国際オリンピック委員会からの除名。国民党はもはや「大陸反攻」を統治の口実にすることができず、台湾内部で民意に基づく基盤を築かざるを得なかった。
 
-**Self-restraint by the opposition.** The Formosa figures and the DPP chose institutional reform over violent struggle at critical moments. The Philippines' People Power Revolution (1986 EDSA Revolution) proved that peaceful power transfer was possible, sending a crucial signal to Taiwan's reformists.
+**反対派の自制。** 美麗島事件の関係者や民進党は、重要な局面において、暴力的な抗争ではなく体制内改革を選んだ。フィリピンの「ピープルパワー革命」（1986年のEDSA革命）は、平和的な政権移行が可能であることを証明しており、台湾の改革派にとって重要なシグナルとなった。
 
-## An Imperfect Democracy
+## 不完全な民主主義
 
-Freedom House gave Taiwan a score of 93 out of 100 in 2025, ranking 6th globally and 2nd in Asia (behind Japan's 96). The _Economist_ Democracy Index ranked Taiwan 12th globally in 2024, scoring a perfect 10 in Electoral Process and Pluralism, making it the only "Full Democracy" country in Asia.
+フリーダムハウスは2025年、台湾に100点満点中93点を与え、世界第6位、アジアでは（96点の日本に次ぐ）第2位とした。『エコノミスト』誌の民主主義指数でも、台湾は2024年に世界第12位にランクされ、選挙プロセスと多元主義の項目では満点の10点を獲得し、アジアで唯一の「完全な民主主義」国家とされている。
 
-But behind the numbers lie cracks:
+しかし、この数字の裏には亀裂がある。
 
-During the [[Taiwan White Terror|White Terror]] period, an estimated 140,000 to 200,000 people were politically persecuted, and 3,000 to 4,000 were executed. Transitional justice remains incomplete. Article 9 of the National Security Law was not declared unconstitutional by the Constitutional Court until 2019, 32 years after the lifting of martial law.
+[白色テロ](/ja/history/taiwan-white-terror/)の期間、推計14万人から20万人が政治的迫害を受け、3,000人から4,000人が処刑された。転型正義は今なお完了していない。国家安全法第9条が司法院大法官によって違憲と宣告されたのは2019年のことであり、戒厳令解除からすでに32年が経過していた。
 
-Fake news is the new battlefield. Large-scale fake news operations appeared in the 2018 local elections and the 2020 presidential election, many of which traced back to overseas sources. The Chinese government continues to attempt to influence Taiwan's policy-making, media, and democratic infrastructure (quoting the Freedom House 2025 report).
+偽情報は新たな戦場となっている。2018年の統一地方選挙と2020年の総統選挙では、いずれも大規模な偽情報工作が確認されており、その発信源の少なくない部分が国外にあった。中国政府は台湾の政策決定、メディア、民主主義の基盤に対する影響力の行使を継続的に試みている（フリーダムハウス2025年報告書より）。
 
-Blue-Green polarization has lowered the quality of policy discussions. Important bills are often shelved or forced through based on partisan stances rather than policy merits.
+藍（国民党系）と緑（民進党系）の分極化は、政策論議の質を低下させている。重要な法案が、政策そのものの是非ではなく党派的立場によって棚上げにされたり、強行採決されたりすることも少なくない。
 
-Taiwan's democracy is imperfect. But it is alive.
+台湾の民主主義は完全ではない。しかし、それは今も生きている。
 
-## Chen Chu's Suicide Note
+## 陳菊の遺書
 
-In December 1979, 29-year-old Chen Chu wrote a suicide note in prison, preparing to be executed. In the note, she bid farewell to the people of Taiwan.
+1979年12月、29歳の陳菊は獄中で遺書をしたためた。銃殺される覚悟をしていたのである。
 
-She was not executed. She served six years in prison, helped found the DPP upon her release, served two terms as Mayor of Taipei's Social Affairs Bureau, served as Minister of the Council of Labor Affairs, and served as Mayor of Kaohsiung for twelve years. In 2014, she won re-election with 990,000 votes, the highest in the country. In 2020, she was nominated as President of the Control Yuan.
+遺書のなかで、彼女は台湾の人々に別れを告げていた。
 
-From writing a suicide note to becoming President of the Control Yuan took forty-one years.
+彼女は銃殺されなかった。6年間服役し、出所後は民進党の創設に加わり、台北市社会局長を2期務め、行政院労工委員会主任委員を務め、そして12年間にわたり高雄市長を務めた。2014年の再選時には99万票を獲得し、全台湾で最高得票数だった。2020年、彼女は監察院長に指名された。
 
-The same person, on the same island. The difference lies in this: In 1979, thought was a crime; in 2020, the political prisoner of that year was supervising whether the government was committing crimes.
+遺書を書いてから監察院長になるまで、41年かかった。
 
-This is what democratization means. Not a smooth inspirational story, but a political experiment full of absurdity, contradictions, and costs. The experiment is still ongoing.
+同じ一人の人間、同じ一つの島。違うのはこの一点だけである。1979年の台湾では、思想を持つこと自体が犯罪だった。2020年の台湾では、かつての政治犯が、政府が罪を犯していないかを監督する側に立っている。
 
-## References
+これが民主化ということの意味である。滑らかな成功物語ではなく、不条理と矛盾と代償に満ちた政治的実験。その実験は、今もなお続いている。
 
-- [Central News Agency: Shi Ming-de imprisoned for political black牢s for over 25 years](https://www.cna.com.tw/news/aipl/202401150025.aspx) (Primary Source)
-- [National Human Rights Museum: Chen Chu](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3536) (Primary Source)
-- [Wikipedia: Zheng Nanrong](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%8D%97%E6%A6%95)
-- [Wikipedia: 1996 Republic of China Presidential Election](https://zh.wikipedia.org/zh-tw/1996%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89)
-- [Freedom House: Taiwan Freedom in the World 2025](https://freedomhouse.org/country/taiwan/freedom-world/2025) (Primary Source)
-- [The Economist Democracy Index 2024](https://www.eiu.com/n/campaigns/democracy-index-2024/) (Primary Source)
-- [Story Studio: The Trial on March 18, 1980 That Changed Taiwan](https://storystudio.tw/article/gushi/taiwan-calendar-of-law)
-- [Taiwan Truth and Reconciliation Commission: Article 9 of the National Security Law](https://taiwantrc.org/%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B9%9D%E6%A2%9D/)
-- [ETtoday: Lee Teng-hui Ordered No Harm to Students](https://www.ettoday.net/news/20150730/542648.htm)
-- [Washington Post: China Fails to Sway Election in Taiwan (1996)](https://www.washingtonpost.com/archive/politics/1996/03/24/china-fails-to-sway-election-in-taiwan/) (English)
-- [Samuel Huntington, _The Third Wave_, University of Oklahoma Press, 1991](https://www.jstor.org/stable/jj.7762622) (English, Academic)
+## 参考資料
 
-## Related Topics
+- [中央社：施明德坐政治黑牢逾25年](https://www.cna.com.tw/news/aipl/202401150025.aspx)（一次資料）
+- [國家人權博物館：陳菊](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3536)（一次資料）
+- [維基百科：鄭南榕](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%8D%97%E6%A6%95)
+- [維基百科：1996年中華民國總統選舉](https://zh.wikipedia.org/zh-tw/1996%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89)
+- [Freedom House: Taiwan Freedom in the World 2025](https://freedomhouse.org/country/taiwan/freedom-world/2025)（一次資料）
+- [The Economist Democracy Index 2024](https://www.eiu.com/n/campaigns/democracy-index-2024/)（一次資料）
+- [故事 StoryStudio：1980年3月18日改變台灣的審判](https://storystudio.tw/article/gushi/taiwan-calendar-of-law)
+- [台灣民間真相與和解促進會：國安法第九條](https://taiwantrc.org/%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B9%9D%E6%A2%9D/)
+- [ETtoday：李登輝曾下令不得傷學生](https://www.ettoday.net/news/20150730/542648.htm)
+- [Washington Post: China Fails to Sway Election in Taiwan (1996)](https://www.washingtonpost.com/archive/politics/1996/03/24/china-fails-to-sway-election-in-taiwan/)（英語）
+- [Samuel Huntington, _The Third Wave_, University of Oklahoma Press, 1991](https://www.jstor.org/stable/jj.7762622)（英語、学術）
 
-- [Martial Law Period](/ja/history/martial-law-era): 38 years of authoritarian rule before democratization
-- [Taiwan White Terror](/ja/history/taiwan-white-terror): History of 140,000 people politically persecuted
-- [February 28 Incident](/ja/history/228-incident): The starting point of post-war Taiwan's political trauma
-- [Taiwan Elections and Party Politics](/ja/history/taiwan-elections-and-party-politics): Evolution of the electoral system after democratization
+## 関連トピック
+
+- [戒厳令時期](/ja/history/martial-law-era)：民主化以前の38年間にわたる権威主義統治
+- [台湾白色テロ](/ja/history/taiwan-white-terror)：14万人が政治的迫害を受けた歴史
+- [二・二八事件](/ja/history/228-incident)：戦後台湾における政治的トラウマの起点
+- [台湾の選挙と政党政治](/ja/history/taiwan-elections-and-party-politics)：民主化後における選挙制度の変遷
+- [大規模リコール運動](/ja/history/great-recall-movement-2024)：2025年、史上最大規模のリコール（罷免）の波——民主化から40年を経た直接民権へのストレステスト
