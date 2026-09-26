@@ -439,6 +439,11 @@ def build(lang: str) -> dict:
         "hard_rules": [
             "前景串行執行，禁止 run_in_background 後結束回合等通知——你的環境裡背景指令完成不會通知你自己",
             "不要 git commit / git add / git push，主 session 負責落地",
+            "只在 worktree 裡讀寫：暫存檔放派工單同一個資料夾（`.lang-sync-tasks/<批次>/`，已 gitignore），"
+            "不要寫到 worktree 外、不要 `rm` worktree 外的任何路徑。越界的指令會跳出人工核准視窗，沒人按之前"
+            "你停在原地，主 session 的每小時排程也跟著停。2026-09-26 一隻 agent 為了比對 prettier 前後，把備份"
+            "寫到打錯的 `/tmp_before…`，清掉它的 `rm -f` 等了 6 小時 45 分才有人核准，那段時間渦流一輪都沒跑。"
+            "prettier 前後差多少用 `git diff` 看，不用自己備份。",
             "不要改 zh 原文",
             "完整翻譯不是摘要：不合併段落、不壓縮清單、不省略任何 H2、不省略任何腳註定義",
             "**翻譯是你自己做，不是去呼叫翻譯後端**——不要跑 translate.py／ollama／OpenRouter／"

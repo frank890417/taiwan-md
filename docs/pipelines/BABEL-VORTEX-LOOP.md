@@ -3,9 +3,9 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.58'
+current_version: 'v1.59'
 last_updated: 2026-09-26
-last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、五個閘門家族、委派 worktree 路徑陷阱）'
+last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
@@ -121,6 +121,17 @@ process 在不在），不能只讀它的回報。
 spawn prompt 因此要寫兩句而不是一句：「**全部自己前景做完，不 spawn 子代理、
 不 `run_in_background`**」。並且驗收一律查檔案在不在——今天這隻靠 `ls` 一秒
 就現形，靠讀回報則完全看不出來。
+
+**變體：越界指令卡在核准視窗（2026-09-26）**。一隻 en 委派 agent 為了比對
+prettier 前後，把備份寫到打錯的 `/tmp_before…`（worktree 外），再下 `rm -f`
+清掉它。這個越界刪除跳出人工核准視窗，從 12:07 等到 18:52 才有人按。**卡住的
+不只那一隻**：視窗等人的這 6 小時 45 分，主 session 的常駐排程一輪都沒觸發
+（13:23 到 18:23 共六輪），免費產線照跑，委派層、巡檢、推送檢查全停。前兩個
+變體在等一個不會來的通知，這個在等一個不在場的人，結構相同：子代理的某個動作
+需要主 session 以外的東西才能繼續。防法寫進派工單（`write-agent-brief.py`
+hard_rules，不靠 prompt）：只在 worktree 裡讀寫、暫存檔放派工單資料夾、
+不 `rm` worktree 外的路徑，prettier 前後差多少用 `git diff` 看。收件時看耗時：
+同批其他隻三十分鐘、它七小時，這個落差本身就是訊號。
 
 ## 鐵律集（違反任一 = 本輪不合格）
 
@@ -271,6 +282,16 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.59（2026-09-26 晚間，同一場渦流）：**核准視窗讓排程停了六輪、量級檢查的三個假陽性**。
+  (a) 一隻委派 agent 的越界 `rm` 卡在人工核准視窗 6 小時 45 分，期間常駐排程一輪都沒觸發；
+  防法寫進派工單 hard_rules（見 §派 sub agent 的鐵律 第三個變體）。(b) `numeral-magnitude-check`
+  同一波三隻 agent 撞上、兩隻為了過閘把正確的西文改寫法：西、葡文 `mil` 是 `millones／milhões`
+  的前綴；譯文的量剛好等於中文另一個量級數字（中文同時有 500萬 與 5億）；空白分節長數字的尾段
+  （`590 100 millones`）。修法是整字比對、按次數對帳的「孿生數字」放行、只認真正三位一節的分節
+  （年份後接數字仍會報，越南文 `năm 2025 2,828 tỷ` 真的少換算十倍），全庫十語 1297 → 1024、
+  新增 0（`5e6127ebc`）。(c) babel-pulse 的 launchd 常駐不在了，`babel-live.json` 停在 08-22，
+  報告第 1、3 格的資料源因此是舊的；渦流每輪先手動跑一跳 `babel-pulse.py --no-commit` 再讀。
 
 - v1.58（2026-09-26 哲宇「翻譯率 100% 模式」渦流）：**推送、付費產線、五個閘門家族、委派 worktree 的
   路徑陷阱**。(a) 固定間隔的 `/loop` 用 CronCreate 常駐排程（`23 * * * *`），prompt 固定成薄殼，
