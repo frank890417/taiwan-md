@@ -30,6 +30,8 @@ import json
 import os
 import re
 import sys
+import unicodedata
+import urllib.parse
 import urllib.request
 import urllib.error
 from datetime import datetime, timedelta, timezone
@@ -395,6 +397,43 @@ def fetch_ai_crawlers(token, zone_tag, days=7):
     }
 
 
+TOP_PATHS_N = 40
+_NON_ARTICLE_PREFIXES = ("/api/", "/_astro/", "/assets/", "/article-images/", "/pagefind/",
+                         "/og/", "/images/", "/fonts/", "/cdn-cgi/")
+
+
+def _translation_langs():
+    """languages.mjs 的譯文語言碼（經 lang-sync/langs.py 單一橋）；讀不到時退回舊的五語並警告。"""
+    try:
+        sys.path.insert(0, str(Path(__file__).resolve().parent / "lang-sync"))
+        import langs  # noqa: E402
+        codes = list(langs.ALL_TRANSLATION_LANGS)
+        if codes:
+            return codes
+    except Exception as e:  # pragma: no cover — 環境壞掉時的保險
+        print(f"⚠️  langs.py 讀不到語言清單（{e}），per-lang 退回五語", file=sys.stderr)
+    return ["en", "ja", "ko", "es", "fr"]
+
+
+def _article_path(path):
+    """把 CF clientRequestPath 正規化成文章頁路徑；不是文章頁（靜態資源、API、首頁）回 None。"""
+    if not path or not path.startswith("/") or path == "/":
+        return None
+    p = path.split("?", 1)[0]
+    if p.startswith(_NON_ARTICLE_PREFIXES):
+        return None
+    last = p.rstrip("/").split("/")[-1]
+    if "." in last:  # .xml / .json / .png / favicon.ico …
+        return None
+    try:
+        p = unicodedata.normalize("NFC", urllib.parse.unquote(p))
+    except Exception:
+        pass
+    if not p.endswith("/"):
+        p += "/"
+    # 至少兩段（/category/slug/ 或 /lang/category/slug/）才算文章；/ja/ 這種 hub 首頁不列
+    return p if p.strip("/").count("/") >= 1 else None
+
 def fetch_ai_crawlers_by_lang(token, zone_tag, days=3):
     """Per-language AI crawler read counts (audit 2026-06-10 A-9).
 
@@ -407,6 +446,14 @@ def fetch_ai_crawlers_by_lang(token, zone_tag, days=3):
     的長尾（count=1 的零星路徑）會被截斷 — 對「AI 有沒有在讀 /ja/，量級
     跟 zh 差多少」這個問題夠用；輸出帶 rowsTruncated 標記誠實標示。
     成本控制：預設 3 天窗（不跟 7 天主查詢同步）。
+
+    2026-09-27 self-evolve-weekly 兩處補強：
+    (1) 語言前綴改讀 languages.mjs（經 lang-sync/langs.py），原本寫死五語，
+        vi/id/pt/hi/ar/ru/de 七語的 AI 讀取全被記進 zh-TW。
+    (2) 同一批 row 順手聚合 per-path（全部 UA 與 AI UA 兩欄），輸出 topPaths /
+        topAiPaths。news-lens 三源交叉的 CF 那一源從 W30 起連六週記「沒有 per-path
+        明細、只能當全站背景」（vc=6），但這支查詢一直都有 clientRequestPath，只是
+        聚合時只留了語言前綴。零額外 API 呼叫。
     """
     now = datetime.now(timezone.utc)
     query = """
@@ -428,13 +475,15 @@ def fetch_ai_crawlers_by_lang(token, zone_tag, days=3):
       }
     }
     """
-    lang_prefixes = ["en", "ja", "ko", "es", "fr"]
+    lang_prefixes = _translation_langs()
     per_lang = {
         lang: {"requests": 0, "crawlerHits": {}}
         for lang in lang_prefixes + ["zh-TW", "non-article"]
     }
     truncated = False
     days_fetched = 0
+    path_all: dict[str, int] = {}
+    path_ai: dict[str, int] = {}
 
     for offset in range(days):
         day_end = now - timedelta(days=offset)
@@ -470,6 +519,12 @@ def fetch_ai_crawlers_by_lang(token, zone_tag, days=3):
                 if re.search(pattern, ua, re.IGNORECASE):
                     crawler_name = name
                     break
+
+            art = _article_path(path)
+            if art:
+                path_all[art] = path_all.get(art, 0) + count
+                if crawler_name:
+                    path_ai[art] = path_ai.get(art, 0) + count
             if not crawler_name:
                 continue
 
@@ -494,11 +549,21 @@ def fetch_ai_crawlers_by_lang(token, zone_tag, days=3):
             "requests": info["requests"],
             "topCrawlers": [{"name": n, "requests": c} for n, c in top],
         }
+    top_all = sorted(path_all.items(), key=lambda x: x[1], reverse=True)[:TOP_PATHS_N]
+    top_ai = sorted(path_ai.items(), key=lambda x: x[1], reverse=True)[:TOP_PATHS_N]
     return {
         "days": days,
         "daysFetched": days_fetched,
         "rowsTruncated": truncated,
         "byLanguage": out,
+        # per-path：全部 UA（人＋機器）與 AI UA 各一張 top 表。rowsTruncated 時長尾被截，
+        # 這兩張表的頭部不受影響（count_DESC 排序取前 10000 列）。
+        "topPaths": [
+            {"path": p, "requests": c, "aiRequests": path_ai.get(p, 0)} for p, c in top_all
+        ],
+        "topAiPaths": [
+            {"path": p, "aiRequests": c, "requests": path_all.get(p, 0)} for p, c in top_ai
+        ],
     }
 
 

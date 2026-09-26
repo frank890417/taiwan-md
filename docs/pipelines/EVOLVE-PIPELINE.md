@@ -288,7 +288,7 @@ GitHub Feedback      ──┘
 1. **讀本週熱點來源**：
    - GA top growth 7d（最近 7 天 PV 大幅上升的 article）
    - SC trending queries 7d（query impressions 大幅上升）
-   - Cloudflare 7d（AI crawler 突然關注的 path）
+   - Cloudflare per-path（AI crawler 突然關注的 path）：讀 `dashboard-analytics.json` 的 `aiCrawlers.perLanguage.topPaths`（全部 UA）與 `topAiPaths`（AI UA），窗口是 `perLanguage.days`（預設 3 天，不是 7 天，報告要照實寫）；`rowsTruncated: true` 時只信頭部。欄位 2026-09-27 才長出來（W30 起連六週記「CF 沒有 per-path 明細」），舊快取沒有這兩個鍵時寫「CF per-path 本週快取未更新」，不要再記成儀器缺口
    - 既有 article 觸及最新事件（commit log 看最近 ship article）
 
 2. **對應 knowledge/ 既有 article 找 5-7 candidates**：
@@ -1010,5 +1010,5 @@ _v3.6 | 2026-07-18 inbox-skill session — 新增 Mode 4「目標驅動設計進
 
 _v3.7 | 2026-09-05 fortnight-review — 新增「進化分數 gate 的適用範圍（v2.1）」：60 分 gate 收窄為只管 🔴 Rewrite 型，🟠 SEO 優化／🟡 翻譯／🟢 新建三型改用行動表既有的定性判準（Phase 1B「高曝光＋低 CTR（< 5%）」／Bump-vs-translate matrix／Top 5 第 3 條「曝光 ≥ 500」），不引入新量化門檻。同步在 ASCII spine 與 Hard Gate Inventory 的「進化分數 ≥ 60」補「（🔴 型）」限定，並在 sister_docs 加 CONTRIBUTING.md 互指。解 [OBSERVER-QUEUE #16](../semiont/OBSERVER-QUEUE.md)：BIM 英文版 metadata 案（58.2 分卡在 60 分 gate、但 100% 命中 🟠 SEO 型定性條件）是誕生案例。設計報告：[reports/design-co-editing-rules-2026-09-05.md](../../reports/design-co-editing-rules-2026-09-05.md)。_
 
-_v3.9 | 2026-09-27 twmd-self-evolve-weekly — §news-lens-probe-output Step 7 寫 entry 必填 `Angle-expires`、Step 8 對照前先跑 `inbox-audit.py --angles` 處置過期切角、quality gate 加一條 hard。觸發：探測器建議登記進 INBOX 後原地過期連三週（DIARY「里程碑≠兌現」vc=3），INBOX 只有優先序沒有期限。_
+_v3.9 | 2026-09-27 twmd-self-evolve-weekly — §news-lens-spore-output Step 1 的 CF 源指到新的 `topPaths`／`topAiPaths`（fetch-cloudflare 同一支查詢零額外呼叫聚合出來，解 W30 起連六週的 per-path 缺口）；§news-lens-probe-output Step 7 寫 entry 必填 `Angle-expires`、Step 8 對照前先跑 `inbox-audit.py --angles` 處置過期切角、quality gate 加一條 hard。觸發：探測器建議登記進 INBOX 後原地過期連三週（DIARY「里程碑≠兌現」vc=3），INBOX 只有優先序沒有期限。_
 _v3.8 | 2026-09-18 news-radar — 新增 §news-lens-probe-output：探測器（外部媒體四頻道 × 知識庫三邊對照 × Tier 1-3 × 報告落 reports/probe/）接回 `twmd-news-lens-weekly` 當 Phase 1 第四源。觸發：哲宇「幫我執行新聞雷達」後發現 reports/probe/ 自 2026-05-03 停擺 138 天——SENSES 凋亡去向表遷了 SOP 沒遷執行者（REFLEXES #56 v8）。報告格式以 2026-09-18 版為範本；Tier 1 直接餵 ARTICLE-INBOX 成為 legacy output (1) 的主要來源。_
