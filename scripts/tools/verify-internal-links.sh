@@ -14,8 +14,10 @@
 #
 # Exit codes（四種結局各有自己的號碼，呼叫端要能分辨）:
 #   0  PASS         gated broken ratio < threshold
-#   1  FAIL         ratio >= threshold，或 dist/ 不存在
-#   2  NOT-MEASURED 掃到 0 頁 / 0 連結——沒量到，不是通過
+#   1  FAIL         ratio >= threshold
+#   2  NOT-MEASURED dist/ 不存在，或掃到 0 頁 / 0 連結——沒量到，不是通過
+#                   （2026-09-26 maintainer：dist/ 不存在原本回 1，跟「死連結超標」共用
+#                   一個號碼，呼叫端分不出是站壞了還是根本沒量。REFLEXES #85 鏡像變體）
 #   3  STALE        量到了，但 dist/ 比 BROKEN_LINK_MAX_DIST_AGE_HOURS 還舊，
 #                   讀數描述的是舊產物那天的站，不是現在的站
 #
@@ -57,9 +59,9 @@ while [[ $# -gt 0 ]]; do
 done
 
 if [[ ! -d "$DIST_DIR" ]]; then
-  echo "ERROR: dist/ directory not found at $DIST_DIR" >&2
-  echo "Run 'npx astro build' first." >&2
-  exit 1
+  echo "NOT-MEASURED — dist/ directory not found at $DIST_DIR" >&2
+  echo "Run 'npx astro build' first. 沒有產物就沒有讀數，這不是通過也不是失敗。" >&2
+  exit 2
 fi
 
 exec python3 "$SCRIPT_DIR/verify_internal_links.py" "$DIST_DIR" "$SAMPLE_SIZE"
