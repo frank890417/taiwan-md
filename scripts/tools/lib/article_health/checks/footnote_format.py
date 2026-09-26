@@ -104,6 +104,19 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
     ff = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(ff)
 
+    # 譯文補目標語言的描述與標點；原文照舊用中文 domain 表。2026-09-26 以前這裡
+    # 不分語言，babel-dispatch／patch-translate 每篇譯文送 verify 前跑這個 fixer，
+    # 十二語譯文因此累積了 270 處「詳見原始連結內文資料補充」等中文描述
+    # （病歷見 footnote-format-fix.py FALLBACK_DESC_BY_LANG 上方）。
+    lang = target.lang if target.is_translation else "zh-TW"
+    if lang != "zh-TW" and lang not in ff.FALLBACK_DESC_BY_LANG:
+        return 0  # 沒有這個語言的通用句：寧可不修、交給 hard gate，也不補中文
+    lp, rp, colon, semi = ff.punct_for(lang)
+    see_also = ff.SEE_ALSO_BY_LANG.get(lang, "")
+
+    def desc_for(url: str) -> str:
+        return ff.desc_for_url(url, lang)
+
     # Re-read fresh from disk (skip body padding for write-back simplicity)
     text = target.path.read_text(encoding="utf-8")
     lines = text.split("\n")
@@ -158,7 +171,7 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
         m = _ANGLE.match(line)
         if m:
             prefix, title, url, desc = m.groups()
-            new_desc = desc if desc and len(desc) >= 10 else ff.desc_for_url(url)
+            new_desc = desc if desc and len(desc) >= 10 else desc_for(url)
             new_line = f"{prefix} {title}({url}) — {new_desc}"
             if new_line != line:
                 lines[i] = new_line
@@ -168,7 +181,7 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
         m = _TRAILING_PUNCT_LINK.match(line)
         if m:
             prefix, title, url = m.groups()
-            lines[i] = f"{prefix} {title}({url}) — {ff.desc_for_url(url)}"
+            lines[i] = f"{prefix} {title}({url}) — {desc_for(url)}"
             changes += 1
             continue
         # Pattern 1.75: redundant outer brackets around a complete link.
@@ -184,14 +197,14 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
             prefix, title, url, desc = m.groups()
             if desc and len(desc) >= 6:
                 continue
-            fallback = ff.desc_for_url(url)
+            fallback = desc_for(url)
             # If existing desc is just the same fallback (or trivially close),
             # don't double it. Replace with the longer fallback verbatim.
             if not desc or desc.strip() == "" or desc.strip() in fallback or fallback.startswith(desc.strip()):
                 new_desc = fallback
             else:
                 # Extend existing desc with fallback as supplement
-                new_desc = desc + "：" + fallback
+                new_desc = desc + colon + fallback
             new_line = f"{prefix} {title}({url}) — {new_desc}"
             if new_line != line:
                 lines[i] = new_line
@@ -205,12 +218,12 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
             # Compute descriptive note mentioning the secondary source(s)
             extras = []
             if title2 and url2:
-                extras.append(f"並見{title2.strip('[]')}：{url2}")
+                extras.append(f"{see_also}{title2.strip('[]')}{colon}{url2}")
             if title3 and url3:
-                extras.append(f"並見{title3.strip('[]')}：{url3}")
-            extras_text = "；".join(extras)
-            new_desc = ff.desc_for_url(url1)
-            new_desc = f"{new_desc}（{extras_text}）" if extras else new_desc
+                extras.append(f"{see_also}{title3.strip('[]')}{colon}{url3}")
+            extras_text = semi.join(extras)
+            new_desc = desc_for(url1)
+            new_desc = f"{new_desc}{lp}{extras_text}{rp}" if extras else new_desc
             new_line = f"{prefix} {title1}({url1}) — {new_desc}"
             if new_line != line:
                 lines[i] = new_line
@@ -229,8 +242,8 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
                 continue
             else:
                 # Too short — extend with fallback
-                fallback = ff.desc_for_url(url)
-                new_line = f"{prefix} {title}({url}) — {rest}（{fallback}）"
+                fallback = desc_for(url)
+                new_line = f"{prefix} {title}({url}) — {rest}{lp}{fallback}{rp}"
                 lines[i] = new_line
                 changes += 1
                 continue
@@ -260,13 +273,13 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
             if prose and len(prose) >= 6:
                 new_desc = prose
             else:
-                new_desc = ff.desc_for_url(url)
+                new_desc = desc_for(url)
             if tail and not tail.startswith(("—", "-", "[")):
                 # Append any trailing context that isn't another markdown link
                 new_desc = f"{new_desc}{tail}".strip()
             # Ensure desc is ≥ 10 chars (canonical floor)
             if len(new_desc) < 10:
-                new_desc = f"{new_desc}（{ff.desc_for_url(url)}）"
+                new_desc = f"{new_desc}{lp}{desc_for(url)}{rp}"
             new_line = f"{prefix} {title}({url}) — {new_desc}"
             if new_line != line:
                 lines[i] = new_line

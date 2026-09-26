@@ -41,10 +41,12 @@ domain → desc mapping（60+ 來源）：覆蓋台灣主流媒體、政府網�
   1 = 解析失敗 / 寫入失敗
 """
 import argparse
+import importlib.util
 import re
 import sys
 from pathlib import Path
 from typing import Optional
+from urllib.parse import urlparse
 
 
 # --- domain → desc mapping（per-source 描述模板）-----------------------
@@ -147,8 +149,81 @@ DOMAIN_DESC: dict[str, str] = {
 }
 
 
-def desc_for_url(url: str) -> str:
-    """Resolve domain → canonical desc。Longest-match wins。"""
+# --- 譯文用的通用描述（2026-09-26）----------------------------------------
+# 上面的 DOMAIN_DESC 全是中文，只適用 zh-TW 原文。但這支 fixer 從 2026-07-28 起
+# 接在 babel-dispatch 的熱路徑（article-health --check=footnote-format --fix），
+# 2026-09-21 又接進 patch-translate，每篇譯文送 verify 前都跑一次；譯文腳註缺描述
+# 時它照樣補中文。巴別塔渦流 2026-09-26 全庫盤點：十二語譯文裡有 270 處
+# 「詳見原始連結內文資料補充」、40 處「維基百科條目」、27 處「公視新聞網」⋯⋯，
+# 分布在 184 篇。cjk-leak-check 刻意豁免腳註行（書目標題依政策保留原文），所以
+# 沒有任何一道閘看得見。譯文改補目標語言的通用句。
+# 新語言出生時這張表要跟著補：tests/test_footnote_format_lang.py 會對
+# languages.mjs 逐一檢查，缺一個就紅，不讓 fixer 默默退回中文。
+FALLBACK_DESC_BY_LANG: dict[str, str] = {
+    "en": "See the linked original source for details",
+    "ja": "詳細はリンク先の原文を参照",
+    "ko": "자세한 내용은 링크된 원문 참조",
+    "es": "Véase la fuente original enlazada",
+    "fr": "Voir la source originale en lien",
+    "vi": "Xem chi tiết tại nguồn gốc được liên kết",
+    "id": "Lihat sumber asli pada tautan",
+    "pt": "Ver a fonte original no link",
+    "hi": "विवरण के लिए मूल स्रोत का लिंक देखें",
+    "ar": "انظر المصدر الأصلي في الرابط",
+    "ru": "Подробности см. в первоисточнике по ссылке",
+    "de": "Details in der verlinkten Originalquelle",
+}
+# 多連結腳註摺進描述時的連接詞與標點：中文、日文用全形，其他語言用半形。
+SEE_ALSO_BY_LANG: dict[str, str] = {
+    "zh-TW": "並見", "ja": "併せて参照：", "ko": "함께 보기: ", "en": "see also ",
+    "es": "véase también ", "fr": "voir aussi ", "vi": "xem thêm ", "id": "lihat juga ",
+    "pt": "ver também ", "hi": "यह भी देखें: ", "ar": "انظر أيضًا ", "ru": "см. также ",
+    "de": "siehe auch ",
+}
+
+
+def punct_for(lang: str) -> tuple[str, str, str, str]:
+    """(左括號, 右括號, 冒號, 分號)——全形只給中文與日文。"""
+    if lang in ("zh-TW", "ja"):
+        return "（", "）", "：", "；"
+    return " (", ")", ": ", "; "
+
+
+def lang_of_path(path: Path) -> str:
+    """knowledge/<lang>/... → <lang>；原文（分類資料夾開頭大寫）→ zh-TW。"""
+    parts = Path(path).parts
+    if "knowledge" in parts:
+        i = parts.index("knowledge")
+        if i + 1 < len(parts) and parts[i + 1] in translation_langs():
+            return parts[i + 1]
+    return "zh-TW"
+
+
+_TRANSLATION_LANGS: Optional[frozenset] = None
+
+
+def translation_langs() -> frozenset:
+    """語言清單 SSOT（src/config/languages.mjs，經 article_health/langs.py）。
+    用檔案路徑載入而不是 import article_health 套件：article-health 的
+    footnote_format plugin 會反過來載入本檔，走套件 import 會循環。"""
+    global _TRANSLATION_LANGS
+    if _TRANSLATION_LANGS is None:
+        spec = importlib.util.spec_from_file_location(
+            "_twmd_langs", Path(__file__).resolve().parent / "lib" / "article_health" / "langs.py")
+        mod = importlib.util.module_from_spec(spec)
+        assert spec and spec.loader
+        spec.loader.exec_module(mod)
+        _TRANSLATION_LANGS = mod.TRANSLATION_LANGS
+    return _TRANSLATION_LANGS
+
+
+def desc_for_url(url: str, lang: str = "zh-TW") -> str:
+    """Resolve domain → canonical desc。Longest-match wins。
+
+    譯文（lang 不是 zh-TW）一律回目標語言的通用句；表裡沒有這個語言就
+    KeyError——寧可 fixer 失敗、讓 hard gate 擋下重翻，也不補中文。"""
+    if lang != "zh-TW":
+        return FALLBACK_DESC_BY_LANG[lang]
     matches = [(d, t) for d, t in DOMAIN_DESC.items() if d != "default" and d in url]
     if not matches:
         return DOMAIN_DESC["default"]
@@ -161,7 +236,7 @@ def desc_for_url(url: str) -> str:
 FN_PREFIX = re.compile(r"^(\[\^\d+\]:)\s*(.*)$")
 
 
-def normalize_footnote(line: str) -> Optional[str]:
+def normalize_footnote(line: str, lang: str = "zh-TW") -> Optional[str]:
     """Convert any footnote format to `[^N]: [Title](URL) — desc`.
 
     Returns None if line is not a footnote definition or already canonical.
@@ -188,23 +263,23 @@ def normalize_footnote(line: str) -> Optional[str]:
             # 入口清過 URL 空白的話，這行實際上有變更，不能回報「不需改」
             return f"{prefix} [{title}]({url}) — {desc}" if url_spacing_fixed else None
         # need to add or extend desc
-        new_desc = desc_for_url(url)
+        new_desc = desc_for_url(url, lang)
         if desc and len(desc) < 10:
-            new_desc = desc + "：" + new_desc
+            new_desc = desc + punct_for(lang)[2] + new_desc
         return f"{prefix} [{title}]({url}) — {new_desc}"
 
     # 2. Angle-bracket URL: `[Title](<URL>) — desc?`
     angle = re.match(r"^\[([^\]]+)\]\(<([^>]+)>\)(?:\s+—\s+(.+))?$", rest)
     if angle:
         title, url, desc = angle.groups()
-        new_desc = desc if desc and len(desc) >= 10 else desc_for_url(url)
+        new_desc = desc if desc and len(desc) >= 10 else desc_for_url(url, lang)
         return f"{prefix} [{title}]({url}) — {new_desc}"
 
     # 3. CN-bracket: `Author，〈Title〉，URL[，desc]`
     cn = re.match(r"^([^，]+?)，〈([^〉]+)〉，(https?://[^，\s]+)(?:，(.*))?$", rest)
     if cn:
         author, title, url, _ = cn.groups()
-        new_desc = desc_for_url(url)
+        new_desc = desc_for_url(url, lang)
         return f"{prefix} [{title}]({url}) — {new_desc}（{author}）"
 
     # 4. APA-style: `Author. (date). *Title*. [Display](URL).`
@@ -217,7 +292,7 @@ def normalize_footnote(line: str) -> Optional[str]:
         title = re.sub(r"[\*_]+", "", title).strip(". ").strip()
         if len(title) > 100:
             title = title[:100] + "…"
-        new_desc = desc_for_url(url)
+        new_desc = desc_for_url(url, lang)
         return f"{prefix} [{title}]({url}) — {new_desc}"
 
     # 5. Plain URL at end: `... URL`
@@ -228,7 +303,7 @@ def normalize_footnote(line: str) -> Optional[str]:
         title_part = re.sub(r"[\*_]+", "", title_part)
         if len(title_part) > 100:
             title_part = title_part[:100] + "…"
-        new_desc = desc_for_url(url)
+        new_desc = desc_for_url(url, lang)
         return f"{prefix} [{title_part}]({url}) — {new_desc}"
 
     # No URL found — leave as-is (probably malformed, skip)
@@ -310,7 +385,7 @@ def _resolve_fn_id(list_num: str, rest: str, seq_counter: list[int]) -> str:
 
 
 def _numbered_line_to_canonical(
-    list_num: str, rest: str, seq_counter: list[int]
+    list_num: str, rest: str, seq_counter: list[int], lang: str = "zh-TW"
 ) -> Optional[str]:
     """Convert one numbered footnote body to `[^N]: [Title](URL) — desc`."""
     rest_raw = rest.strip()
@@ -331,10 +406,10 @@ def _numbered_line_to_canonical(
         title = re.sub(r"[\*_]+", "", title).strip()
         if len(title) > 100:
             title = title[:100] + "…"
-        desc = after if after and len(after) >= 6 else desc_for_url(url)
+        desc = after if after and len(after) >= 6 else desc_for_url(url, lang)
         desc = re.sub(r"\s*↩\d*\s*$", "", desc).strip()
         if len(desc) < 6:
-            desc = desc_for_url(url)
+            desc = desc_for_url(url, lang)
         return f"[^{num}]: [{title}]({url}) — {desc}"
 
     # APA / plain URL
@@ -347,13 +422,13 @@ def _numbered_line_to_canonical(
         if len(title_part) > 100:
             title_part = title_part[:100] + "…"
         if len(title_part) < 2:
-            title_part = "參考來源"
-        return f"[^{num}]: [{title_part}]({url}) — {desc_for_url(url)}"
+            title_part = "參考來源" if lang == "zh-TW" else (urlparse(url).netloc or url)
+        return f"[^{num}]: [{title_part}]({url}) — {desc_for_url(url, lang)}"
 
     return None
 
 
-def _convert_numbered_footnote_section(text: str) -> tuple[str, int]:
+def _convert_numbered_footnote_section(text: str, lang: str = "zh-TW") -> tuple[str, int]:
     """Convert GitHub/APA numbered footnote lists under 參考資料 / Footnotes.
 
     Heuristic: once we see a heading containing 參考資料/Footnotes/注釋/註腳,
@@ -373,8 +448,9 @@ def _convert_numbered_footnote_section(text: str) -> tuple[str, int]:
     for line in lines:
         if fn_zone_headers.match(line.strip()):
             in_fn_zone = True
-            # Normalize noisy headers
-            if re.match(r"^##\s*Footnotes", line, re.I) or line.strip() == "## Footnotes":
+            # Normalize noisy headers（只改原文：譯文的 Footnotes 標題換成
+            # 「參考資料」就是把中文標題寫進英文譯文）
+            if lang == "zh-TW" and (re.match(r"^##\s*Footnotes", line, re.I) or line.strip() == "## Footnotes"):
                 out.append("## 參考資料" if "參考" not in line else line)
                 changes += 1 if "Footnotes" in line else 0
                 continue
@@ -389,7 +465,7 @@ def _convert_numbered_footnote_section(text: str) -> tuple[str, int]:
             nm = _RE_NUM_FN.match(line.strip())
             if nm and ("http://" in line or "https://" in line or "](" in line):
                 converted = _numbered_line_to_canonical(
-                    nm.group(1), nm.group(2), seq_counter
+                    nm.group(1), nm.group(2), seq_counter, lang
                 )
                 if converted:
                     # Dedup identical ids (GitHub sometimes repeats backrefs)
@@ -432,6 +508,7 @@ def heal_file(path: Path, apply: bool) -> tuple[int, int]:
     """
     text = path.read_text(encoding="utf-8")
     changes = 0
+    lang = lang_of_path(path)
 
     text, c = _strip_yaml_fence(text)
     changes += c
@@ -439,7 +516,7 @@ def heal_file(path: Path, apply: bool) -> tuple[int, int]:
     text, c = _convert_gh_refs(text)
     changes += c
 
-    text, c = _convert_numbered_footnote_section(text)
+    text, c = _convert_numbered_footnote_section(text, lang)
     changes += c
 
     lines = text.split("\n")
@@ -449,7 +526,7 @@ def heal_file(path: Path, apply: bool) -> tuple[int, int]:
             # definition line only
             if re.match(r"^\[\^[0-9a-zA-Z_-]+\]:", line):
                 total += 1
-                new_line = normalize_footnote(line)
+                new_line = normalize_footnote(line, lang)
                 if new_line is not None and new_line != line:
                     lines[i] = new_line
                     changes += 1
@@ -466,8 +543,10 @@ def collect_files(args) -> list[Path]:
         if not knowledge.is_dir():
             print(f"❌ knowledge/ not found in cwd ({Path.cwd()})", file=sys.stderr)
             sys.exit(1)
-        # 跳過翻譯目錄（only zh-TW SSOT）
-        return [p for p in knowledge.rglob("*.md") if p.parts[1] not in ("en", "ja", "ko", "es", "fr")]
+        # 跳過翻譯目錄（only zh-TW SSOT）。語言清單讀 SSOT：這裡原本寫死五語，
+        # 2026-07-18 出生的 vi/id/pt/hi/ar/ru/de 七語一直被 --all 當成原文掃。
+        langs = translation_langs()
+        return [p for p in knowledge.rglob("*.md") if p.parts[1] not in langs]
     files: list[Path] = []
     if args.stdin:
         for line in sys.stdin:

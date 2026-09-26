@@ -253,3 +253,89 @@ def test_fix_prose_prefix_keeps_every_source_link(tmp_path):
     assert two in text  # 多來源：原樣保留
     assert "datareportal.com/reports/digital-2025-taiwan" in text
     assert "[^34]: [數位時代報導](https://www.bnext.com.tw/) — " in text  # 單來源：照舊改成 canonical
+
+
+# ════════════════════════════════════════════════════════════════════════
+# 譯文不補中文（2026-09-26）：fixer 在 babel-dispatch／patch-translate 熱路徑上
+# 跑每一篇譯文，舊版一律補中文 domain 描述，十二語累積 270 處「詳見原始連結內文
+# 資料補充」。
+# ════════════════════════════════════════════════════════════════════════
+
+import importlib.util as _ilu
+import re as _re
+
+_FF_PATH = Path(__file__).resolve().parents[2] / "scripts" / "tools" / "footnote-format-fix.py"
+_spec = _ilu.spec_from_file_location("_ff_for_tests", _FF_PATH)
+ff = _ilu.module_from_spec(_spec)
+_spec.loader.exec_module(ff)
+_HAN = _re.compile(r"[一-鿿]")
+
+
+def _write_lang(tmp_path: Path, lang: str, body: str) -> Path:
+    f = tmp_path / "knowledge" / lang / "Nature" / "x.md"
+    f.parent.mkdir(parents=True, exist_ok=True)
+    f.write_text(
+        f"---\ntitle: x\ndescription: y\ndate: 2026-05-04\ntags: [t]\n---\n\n{body}",
+        encoding="utf-8",
+    )
+    return f
+
+
+def test_every_translation_language_has_a_fallback_description():
+    # 新語言出生時這裡會紅：不補表，fixer 就會在那個語言 KeyError（寧可失敗也不補中文）
+    for lang in ff.translation_langs():
+        desc = ff.FALLBACK_DESC_BY_LANG[lang]
+        assert len(desc) >= 10, lang
+        assert " — " not in desc, lang  # 會跟腳註的描述分隔符混淆
+        assert lang in ff.SEE_ALSO_BY_LANG, lang
+        if lang != "ja":
+            assert not _HAN.search(desc), lang
+
+
+def test_fix_translation_missing_desc_uses_target_language(tmp_path):
+    body = "Absatz[^1]\n\n[^1]: [Quelle](https://zh.wikipedia.org/wiki/X)\n"
+    path = _write_lang(tmp_path, "de", body)
+    assert footnote_format.fix(load_target(path), {}) == 1
+    line = [l for l in path.read_text(encoding="utf-8").splitlines() if l.startswith("[^1]:")][0]
+    assert line.endswith("— " + ff.FALLBACK_DESC_BY_LANG["de"])
+    assert not _HAN.search(line)
+
+
+def test_fix_translation_multi_link_folds_without_chinese(tmp_path):
+    body = "Text[^2]\n\n[^2]: [A](https://a.example.com/x) ; [B](https://b.example.com/y)\n"
+    path = _write_lang(tmp_path, "en", body)
+    footnote_format.fix(load_target(path), {})
+    line = [l for l in path.read_text(encoding="utf-8").splitlines() if l.startswith("[^2]:")][0]
+    assert "see also B: https://b.example.com/y" in line
+    assert not _HAN.search(line)
+    assert "（" not in line and "；" not in line
+
+
+def test_fix_original_still_uses_domain_table(tmp_path):
+    body = "段落[^1]\n\n[^1]: [來源](https://zh.wikipedia.org/wiki/X)\n"
+    path = _write(tmp_path, body)
+    footnote_format.fix(load_target(path), {})
+    assert "— 維基百科條目" in path.read_text(encoding="utf-8")
+
+
+def test_standalone_fixer_keeps_translation_headings_and_descs(tmp_path):
+    body = "Text\n\n## Footnotes\n\n1. [Source](https://www.cna.com.tw/news/1)\n"
+    path = _write_lang(tmp_path, "en", body)
+    changes, _ = ff.heal_file(path, apply=True)
+    out = path.read_text(encoding="utf-8")
+    assert changes >= 1
+    assert "參考資料" not in out
+    assert "[^1]: [Source](https://www.cna.com.tw/news/1) — " + ff.FALLBACK_DESC_BY_LANG["en"] in out
+
+
+def test_standalone_fixer_all_mode_skips_every_translation_dir(tmp_path, monkeypatch):
+    for d in ["History"] + sorted(ff.translation_langs()):
+        (tmp_path / "knowledge" / d).mkdir(parents=True)
+        (tmp_path / "knowledge" / d / "a.md").write_text("x", encoding="utf-8")
+    monkeypatch.chdir(tmp_path)
+
+    class A:
+        all, stdin, files = True, False, []
+
+    got = ff.collect_files(A())
+    assert [p.parts[1] for p in got] == ["History"]
