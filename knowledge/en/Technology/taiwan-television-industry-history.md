@@ -1,202 +1,205 @@
 ---
-translatedFrom: 'Technology/台灣電視產業史.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:f8c3d1432bd47fe6'
-sourceBodyHash: 'sha256:48b4e5475f2d12a8'
-translatedAt: '2026-05-16T22:19:17Z'
-title: 'Taiwan Television Industry History: From the "Big Three" to the Gentle Revolution of Qseries'
-description: "From TTV's 1962 launch to Qseries in 2016, Taiwan's television industry traveled 54 years from party-government-military monopoly to the rise of public media. How did a platform that runs no ads tell a story everyone loved?"
+title: "A History of Taiwan's Television Industry: From the Big Three to Q Series' Gentle Revolution"
+description: "From TTV's 1962 launch to Q Series in 2016: 54 years in which Taiwan's television industry moved from 'party-state-military monopoly' to 'the rise of public media.' How did a platform that sells no advertising come to tell a story everyone loved?"
 date: 2026-03-31
+category: 'Technology'
 tags:
   [
-    'television',
-    'public television',
-    'Qseries',
+    'Television',
+    'PTS',
+    'Q Series',
     'Big Three',
-    'media reform',
-    'Taiwanese drama',
+    'Media Reform',
+    'Taiwanese Drama',
   ]
-category: 'Technology'
 subcategory: '影視與媒體'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
+translatedFrom: 'Technology/台灣電視產業史.md'
+sourceCommitSha: '6b09bda3b'
+sourceContentHash: 'sha256:cb8e72badaad3e3c'
+sourceBodyHash: 'sha256:2f45cbda208db1c2'
+translatedAt: '2026-09-26T11:45:52+08:00'
 ---
-> **30-Second Overview:** In 1962 TTV launched and Taiwan entered the television age; in 1998 PTS was established as the first non-commercial public media; in 2016 Qseries achieved a 0.5% ratings share yet took Taiwanese drama beyond the idol drama and folk opera mold. From "party-government-military monopoly" to "gentle revolution," Taiwan's television industry across 54 years is a history of who held the power to tell stories.
+
+> **30-second overview:** TTV went on air in 1962, ushering Taiwan into the television age. PTS was founded in 1998, Taiwan's first non-commercial public broadcaster. In 2016, Q Series drew ratings of just 0.5 percent, yet it pulled Taiwanese drama out of the idol-drama and rural-soap-opera mold. From "party-state-military monopoly" to "gentle revolution," the 54-year history of Taiwan's television industry is a story about who gets to tell the story.
 
 ---
 
-## From 486 Computers to Prime Time
+## From the 486 PC to Primetime
 
-On October 10, 1962, Taiwan's first television station, "TTV" (Taiwan Television), officially launched in Taipei[^1]. That year, the world was at the height of the Cold War, Taiwan was still under martial law, and televisions were a luxury — a single set cost the equivalent of two years' wages for an ordinary worker.
+On October 10, 1962, Taiwan's first television station, Taiwan Television (TTV), officially went on air in Taipei.[^1] That year, the world was at the height of the Cold War, and Taiwan was still under martial law. A television set was a luxury item, priced at roughly two years' wages for an ordinary person.
 
-But the magic of television quickly made Taiwanese people willing to borrow money to buy a "black-and-white iron box."
+But the magic of television quickly made Taiwanese people willing to borrow money just to buy one of these "black-and-white metal boxes."
 
-Three years after TTV's launch, Taiwan had only 30,000 television sets in 1965; by 1969 that number had surpassed one million. On October 31, 1969, the second broadcaster "CTV" (China Television Company) launched; on October 31, 1971, the third, "CTS" (Chinese Television System), followed[^2]. These three were known as the "Big Three" (老三台) and monopolized Taiwan's television market for a full thirty years.
+Three years after TTV's launch, in 1965, there were only 30,000 television sets nationwide; by 1969 that number had passed one million. On October 31, 1969, the second station, China Television (CTV), went on air; on October 31, 1971, the third, Chinese Television System (CTS), followed.[^2] These three stations became known as the "Big Three," and they monopolized Taiwan's television market for a full 30 years.
 
-> The Big Three's ownership structure was summed up as "party-government-military media": TTV was Taiwan Provincial Government (provincial), CTV was the Kuomintang (party), and CTS was the Ministry of National Defense and Ministry of Education (state).
+> The Big Three's ownership structure was summed up as "party, government, and military media": TTV was owned by the Taiwan Provincial Government (provincial-run), CTV was owned by the Kuomintang (party-run), and CTS was owned by the Ministry of National Defense and the Ministry of Education (state-run).
 
-Those three characters later became the slogan of Taiwan's media reform movement — "the party, government, and military must exit the media" (黨政軍退出媒體, plain text, Chinese parenthesis).
+These words later became the rallying cry of Taiwan's media reform movement: "Party, government, and military — out of the media."
 
 ---
 
 ## Nights of the Joint Broadcast Era
 
-From the 1970s through the 1980s, the Big Three operated under a special arrangement: **joint broadcasting** (聯播).
+From the 1970s through the 1980s, the Big Three operated under a distinctive system: the **joint broadcast** (聯播).
 
-During prime time (8 pm), all three stations would simultaneously air the same program. Mandarin drama serials like _The Story of a Great Era_ and _Cold Current_ broadcast simultaneously in Taipei, Taichung, and Kaohsiung. The stations rotated monthly responsibility for joint broadcast operations, creating a coexistence of cooperation and competition[^3].
+During primetime (8 p.m.), the three stations would jointly air the same program. Mandarin-language dramas such as _The Story of a Great Era_ and _Cold Current_ aired simultaneously in Taipei, Taichung, and Kaohsiung. Each month, a rotating "duty station" took charge of joint-broadcast affairs, producing a landscape where cooperation and competition coexisted.[^3]
 
-This joint broadcast mechanism later became a forerunner to public television programming.
+This joint-broadcast mechanism later became the forerunner of public television programming.
 
-In 1980, then-Premier Sun Yun-suan first advocated establishing a public television station to produce commercial-free programs with social and educational value. In 1984, the "Public Television Program Production Group" was established and used timeslots on the Big Three to air programs[^4].
+In 1980, then-Premier Sun Yun-suan first proposed establishing a public television station to produce advertising-free programs with social and educational value. In 1984, the "Public Television Program Production Team" was formed, requisitioning broadcast time slots from the Big Three to air its programs.[^4]
 
-But from advocacy to realization took 18 years.
+But it took 18 years from proposal to realization.
 
 ---
 
-## The Public Television Act: 18 Years of Waiting
+## The Public Television Act: An 18-Year Wait
 
-In 1990, the "Public Television Preparatory Working Group" was established to push for creating PTS. In 1993, the draft Public Television Act was submitted to the Legislative Yuan[^5].
+In 1990, the "Public Television Preparatory Task Force" was established to push forward the founding of PTS. In 1993, a draft of the Public Television Act was submitted to the Legislative Yuan for review.[^5]
 
-Civil society groups such as the "Public Media Catalyst Alliance" played a key role during the legislative process, ensuring PTS's independence and public-service character. In 1996, academics and cultural figures formed an alliance and combined forces from across society to push the Public Television Act through.
+Civic groups such as the "Alliance for the Founding of Public Media" played a key role in pushing the legislation forward, helping ensure PTS's independence and public character. In 1996, figures from academia and culture formed an alliance, joining forces across sectors to push for the passage of the Public Television Act.
 
-On May 31, 1997, the Legislative Yuan passed the Public Television Act on third reading. On July 1, 1998, the Foundation for Public Television Cultural Enterprise was officially established; PTS launched, becoming Taiwan's first non-commercial, non-government-controlled public media[^6].
+On May 31, 1997, the Legislative Yuan passed the Public Television Act on its third reading. On July 1, 1998, the Public Television Service Foundation was formally established, and PTS officially went on air, becoming Taiwan's first public broadcaster that was neither commercial nor under direct government control.[^6]
 
-> PTS's founding mission: serve the public interest, provide educational, cultural, and public service programs, and operate programming independently without interference.
+> PTS's founding mission: to serve the public interest by providing educational, cultural, and public-service programming, with programming operations to remain independent and free from interference.
 
-The first board chair was Wu Feng-shan; the director-general was Liao Tsang-sung. Programming covered news, documentaries, drama, and children's shows, with an emphasis on public service and cultural depth.
+Its first board chairman was Wu Feng-shan, and its first general manager was Liao Tsang-sung. Programming spanned news, documentaries, drama, and children's shows, with an emphasis on public service and cultural depth.
 
-In 2006, PTS merged with CTS (華視, plain text, Chinese parenthesis) to form the "Taiwan Broadcasting System" (TBS)[^7]. In 2007, Hakka TV and Indigenous Peoples Television joined the public broadcasting group. In 2019, PTS launched the Taiwanese (Tâi-gí) Channel, becoming Taiwan's first all-Taiwanese-language public television channel.
+In 2006, PTS merged with CTS to form the "Taiwan Broadcasting System" (TBS).[^7] In 2007, Hakka TV and Taiwan Indigenous Television joined the TBS group. In 2019, PTS launched Taigi TV (台語台), becoming Taiwan's first public television channel broadcasting entirely in Tâi-gí (Taiwanese).
 
 ---
 
 ## Wang Shaudi's Math Teacher
 
-In PTS's history, one name appears repeatedly — **Wang Shaudi** (王小棣, plain text, Chinese parenthesis).
+One name recurs again and again in the history of PTS: **Wang Shaudi**.
 
-Wang Shaudi felt from a young age that their "soul lived in the wrong gender." As a child, wearing a school uniform was not a problem, but when the family went out to eat and had to wear a skirt, Wang would cry and stomp at home. In high school, after watching a film about gender identity at a cinema near Zhongshan Hall, Wang cried alone at a juice bar: "So there's not just me in the world like this."[^8]
+From childhood, Wang Shaudi felt that "her soul lived in the wrong gender." As a child she had no choice but to wear a uniform to school, but when the family went out to eat and she was made to wear a skirt, she would cry and stomp her feet at home. In high school, she saw a film about gender identity at the Xinsheng Theater beside Zhongshan Hall, and sat alone in a shaved-ice shop crying: "So I wasn't the only person in the world like this after all."[^8]
 
-Wang smoked, skipped class, and changed elementary schools three times. Scoring single digits in math, tutors were no help. Father shook his head and asked for a transfer. While the adults were in the office discussing, Wang ran from the third floor to the first floor shouting, "Goodbye everyone, I'm transferring!" But after getting in the car, father said the math teacher had told him: Wang was actually very smart — each topic, when the teacher explained it three times, Wang understood the first time, and would then lie down to sleep. No transfer.
+She smoked and skipped school, and had already changed three schools by the end of elementary school. She scored single digits on math tests, and hiring a tutor didn't help. Her father shook his head and said she should transfer schools. While the adults were talking things over in the office, she ran from the third floor to the first, shouting as she went, "Goodbye, everyone, I'm transferring!" But after she got in the car, her father told her that the math teacher had said Wang Shaudi was actually very bright — the teacher explained every problem three times, and she understood it the first time, so she put her head down and slept. She didn't transfer after all.
 
-After that, the curriculum switched from geometry to algebra, and grades shot from the teens to 95. But when another unit came, grades plunged again. On graduation day, the qipao-wearing math teacher asked what Wang planned to do without taking the university entrance exam. Wang said, play basketball. The teacher said nothing, and Wang thought a smack was coming — but instead, the teacher's tears fell: "Wang Shaudi, what a pity. Go home."[^9]
+After that, the curriculum moved from geometry to algebra, and her grades jumped from the teens to 95. But once the unit changed again, they collapsed once more. On graduation day, her qipao-wearing math teacher asked her what she planned to do if not sitting the joint college entrance exam. She said she'd play basketball. The teacher said nothing — she thought she was about to be hit — but instead, out of nowhere, tears spilled from the teacher's eyes: "Oh, Wang Shaudi. What a shame. Go on home."[^9]
 
-That sentence changed everything. Joining Tamkang High School's basketball team, Wang played up to the provincial games and could have been enrolled in a sports program. But one day Wang suddenly remembered those words and started wondering if life held other possibilities. Entering the university entrance exam, Wang was admitted to Chinese Culture University's drama department.
+That sentence changed everything. She joined the Tamkang High School basketball team and played all the way to the provincial games, earning a spot to be admitted directly into a physical education program. But one day she suddenly remembered that sentence, and began to wonder whether life held other possibilities. She sat the joint university entrance exam and was admitted to the Department of Drama at Chinese Culture University.
 
-In 1975, Wang went to Trinity University in Texas to pursue a master's degree in theater. Upon returning to Taiwan, Wang decided to stop talking about gender and stop pretending: "If you're at ease with yourself first, others will be at ease."
-
----
-
-## From _Home Sweet Home_ to Qseries
-
-From the late 1980s through the 1990s, Wang Shaudi directed a series of "ordinary people" television dramas at CTS (華視, plain text, Chinese parenthesis): _Home Sweet Home_ (1989), _Jia Jia Fu_ (1990), _Mother Hen and Ducklings_ (1992). These works did not chase ratings miracles but pointed the camera at everyday Taiwanese families — the grandma playing mahjong, the quarreling couple, the kid sneaking cigarettes[^10].
-
-In an era when Taiwan television was still dominated by eight o'clock dramas and variety shows, these works quietly proved that television drama could have social warmth.
-
-In 1992, Wang and creative partner Huang Li-ming co-founded **Greengrass Film Studio**, from which point they produced primarily for 公視 (plain text, Chinese parenthesis)[^11].
-
-In 2000, 王小棣 (plain text, Chinese parenthesis) directed _Hospital and Doctor_ for PTS, starring Blue Lan and Marcus Chang. That year _Meteor Garden_ swept across Asia and idol drama officially became the defining term for Taiwanese television. _Hospital and Doctor_ was discussed alongside _Meteor Garden_ and hailed as "Taiwan's first-generation idol drama" — but it was simultaneously Taiwan's first true **workplace drama**.
-
-Over the following fifteen years, the Golden Bell Awards roster repeatedly featured the name "Wang Shaudi": 1999's _Nine Years Old_, 2004's _Going to the Banquet_, 2008's _Sunny Kenting_, and 2014's _Hedgehog Boy_.
-
-In 2014, Wang received the 18th National Cultural Arts Foundation Award, recognizing lifetime contributions to Taiwan's film and television.
+In 1975, she went to Trinity University in Texas to pursue a master's degree in theater. After returning to Taiwan, she decided she would no longer dwell on questions of gender, nor pretend to be anyone else: "If you're at ease with yourself first, others will be at ease with you too."
 
 ---
 
-## Qseries: The Gentle Revolution with 0.5% Ratings
+## From _Whole Family Happiness_ to Q Series
 
-In 2016, Wang Shaudi launched his most ambitious project.
+From the late 1980s through the 1990s, Wang Shaudi made a series of "ordinary people" television dramas for CTS: _Whole Family Happiness_ (1989), _A Happier Family_ (1990), and _A Hen Raising Ducklings_ (1992). These works did not chase ratings miracles; instead, they trained the camera on ordinary Taiwanese households — grandmothers playing mahjong, couples arguing, children sneaking cigarettes.[^10]
 
-Wang saw a depressed production environment in Taiwan, flat drama genres, and a lack of young actors coming through. So together with Tsai Ming-liang, Chen Yu-hsun, and six other directors, Wang co-founded "**植劇場**" (Qseries, plain text, Chinese parenthesis) — an experimental platform to nurture new actors and expand genre diversity. Four genres (romance and coming-of-age, thriller and mystery, supernatural horror, adapted from original works), eight productions, spanning an entire year[^12].
+In an era when Taiwanese television was still dominated by primetime soaps and variety shows, these works quietly proved that television drama could carry social warmth.
 
-On August 19, 2016, _Love Storm_ premiered on TTV. Overall ratings hovered between 0.45–0.76%, and while the numbers were not high, its innovative genre approach and high quality earned outstanding internet word-of-mouth and Golden Bell Award recognition[^13].
+In 1992, she and her creative partner Huang Liming co-founded **Rice Film Studio** (稻田電影工作室), and from then on produced primarily for PTS.
 
-At the 2017 Golden Bell Awards, 植劇場 (Qseries, plain text, Chinese parenthesis) earned 24 nominations and ultimately won 5 major awards. Works such as _Wake Up_, _Love Storm_, _Someday or One Day_, and _Dear Teacher, Are You Still in Love?_ took Taiwanese drama beyond the idol drama and folk opera frameworks.
+In 2000, [Wang Shaudi](/en/people/wang-shaudi/) directed _Doctors in a Big Hospital_ for PTS, starring Lan Ching-lung and Ma Chih-hsiang. That same year, _Meteor Garden_ swept across Asia, and idol dramas officially became a keyword in Taiwanese television. _Doctors in a Big Hospital_ was compared to _Meteor Garden_ and hailed as "Taiwan's first-generation idol drama" — but it was also Taiwan's first true **workplace drama**.
 
-> "Making television is a form of social movement — once the TV comes on, it enters every household, its impact is immense." — Wang Shaudi[^14]
+Over the next fifteen years, the name "Wang Shaudi" recurred again and again on Golden Bell Award lists: _The Year I Was Nine_ in 1999, _Going to the Banquet_ in 2004, _Sunny Days in Kenting_ in 2008, and _The Hedgehog Boy_ in 2014.
 
-This line from an interview explains everything. Wang came from film (Tsai Ming-liang calls Wang a cinematic inspiration), but always chose television over film. Why? Because television's power of penetration is incomparable to film's.
-
-After Qseries, Wang launched "**Budding Drama Studio**" (茁劇場) again in 2022, carrying forward the same spirit — discovering new talent, exploring genres, and treating every story seriously.
+In 2014, Wang Shaudi received the 18th National Award for Arts, recognizing her lifetime contribution to Taiwanese film and television.
 
 ---
 
-## Industry Data: NT$162.5 Billion in Output
+## Q Series: A Gentle Revolution at 0.5% Ratings
 
-In 2021, Taiwan's television industry total revenue reached **NT$162.535 billion**, with a year-on-year growth rate of 7.71%[^15]. Digital distribution and broadcasting showed the most significant growth at 26%.
+In 2016, Wang Shaudi launched her most ambitious project yet.
 
-But behind the numbers are structural challenges:
+She saw that Taiwan's production environment had deteriorated, drama genres had flattened out, and there was a generational gap in acting talent. So she joined forces with 8 directors, including Tsai Ming-liang and Chen Yu-hsun, to co-found "**[Q Series](/en/art/qseries-drama-platform/)**" (植劇場) — an experimental platform for nurturing new actors and expanding dramatic genres. 4 genres (coming-of-age romance, suspense and mystery, supernatural horror, and literary adaptation), 8 productions, spanning a full year.[^11]
 
-- Limited market scale; difficult to raise production costs
-- Impact of OTT streaming platforms compressing advertising revenue
-- Talent drain to the Chinese market
-- In the era of digital convergence, traditional broadcast subscription revenue-sharing models face challenges
+On August 19, 2016, _Love of Sandstorm_ premiered on TTV. Overall ratings hovered between about 0.45% and 0.76% — not high figures, but thanks to its innovative genre material and high production quality, the series shone in online word of mouth and at the Golden Bell Awards.[^12]
 
-In 2016, television industry export value accounted for only 0.74% of total output, with the main market still domestic[^16].
+At the 2017 Golden Bell Awards, [Q Series](/en/art/qseries-drama-platform/) received a total of 24 nominations and ultimately took home 5 major awards. Works such as _Close Your Eyes Before It's Dark_, _Love of Sandstorm_, _Life Plan A and B_ (荼蘼), and _Have You Ever Fallen in Love, Miss Jiang?_ pulled Taiwanese drama out of the idol-drama and rural-soap-opera mold.
+
+> "Making television is a form of social movement — the moment the TV turns on, it enters every household, and the impact is far greater." — Wang Shaudi[^13]
+
+That line from the interview explains everything. Wang Shaudi came up through film (Tsai Ming-liang has said she was his film mentor), yet she has always chosen television over film. Why? Because television's power to reach people is something film simply cannot match.
+
+After Q Series, she launched "**Q Series 2**" (茁劇場) again in 2022, carrying forward the same spirit — discovering new talent, exploring genres, and taking every story seriously.
+
+---
+
+## Industry Data: An Output Value of NT$162.5 Billion
+
+In 2021, Taiwan's television industry recorded total revenue of **NT$162.535 billion**, up 7.71 percent year-on-year.[^14] Digital distribution and broadcasting grew the most, at 26 percent.
+
+But behind the numbers lie structural challenges:
+
+- The market is limited in size, making it difficult to raise production budgets
+- Advertising revenue is shrinking under the impact of OTT streaming platforms
+- Talent is flowing out to the Chinese market
+- In the era of digital convergence, the traditional viewership-fee revenue-sharing model faces challenges
+
+In 2016, television industry export revenue accounted for just 0.74 percent of total output value, with the domestic market still the primary outlet.[^15]
 
 ---
 
 ## From Analog to Digital: The 2012 Turning Point
 
-On June 30, 2012, Taiwan shut down analog terrestrial television signals and fully entered the digital era[^17]. This was another key turning point for the Taiwanese television industry.
+On June 30, 2012, Taiwan shut down its analog terrestrial television signal, moving fully into the digital era.[^16] This marked another critical turning point for Taiwan's television industry.
 
-TTV's main channel upgraded to HD on December 29, 2014; 華視 (plain text, Chinese parenthesis) upgraded to HD on October 1, 2015; CTV upgraded to HD on February 15, 2016. Taiwan currently has 8 free terrestrial television channels (TTV, CTV, 華視, Formosa TV, 公視, Hakka TV, Indigenous Peoples Television, and the Legislative Channel).
+TTV's main channel upgraded to HD on December 29, 2014; CTS's main channel upgraded to HD on October 1, 2015; and CTV's main channel upgraded to HD on February 15, 2016. Taiwan currently has 8 free terrestrial television channels: TTV, CTV, CTS, FTV, PTS, Hakka TV, Taiwan Indigenous Television, and the Legislative Yuan Channel.
 
-But behind digitalization came the rise of OTT platforms. YouTube, Netflix, Hami Video, and other streaming services changed audience viewing behavior. Traditional broadcast subscription revenue-sharing models face challenges; advertising revenue is shrinking.
+But behind digitization came the rise of OTT platforms. Streaming services such as YouTube, Netflix, and Hami Video changed how audiences watched. The traditional viewership-fee revenue-sharing model has come under pressure, and advertising revenue has shrunk.
+
+---
+
+## Who Has the Power to Tell the Story?
+
+From TTV's launch in 1962, to the founding of PTS in 1998, to Q Series in 2016 — the 54-year history of Taiwan's television industry is a story about **who has the power to tell the story**.
+
+In the Big Three era, the storyteller was "party, government, and military"; in the PTS era, it was "the public interest"; in the Q Series era, it was "ordinary people."
+
+Wang Shaudi has said: "Being told no is the beginning of your growth."[^17]
+
+Q Series' gentle revolution continues to this day. In 2021, Netflix invested NT$1 billion in Taiwan's film and television industry, and many Q Series productions gained international visibility. New actors such as Greg Hsu, Sun Ke-fang, and Liu Kuan-ting emerged from Q Series to become mainstays of Taiwan's film and television industry.
+
+If someone in 2050 wants to know what Taiwan's television industry once tried to do, what they read may well be these Markdown files — the record of a platform that sold no advertising, and how it tried to tell a story everyone came to love.
 
 ---
 
-## Who Has the Power to Tell Stories?
+**Further Reading**:
 
-From TTV's 1962 launch to PTS's 1998 establishment to Qseries in 2016, Taiwan's 54 years of television industry is a history of **who had the power to tell stories**.
-
-In the Big Three era, storytellers were "the party, government, and military"; in the PTS era, storytellers were "the public interest"; in the Qseries era, storytellers were "ordinary people."
-
-Wang Shaudi said: "When someone denies you, that is the beginning of your growth."[^18]
-
-The gentle revolution of Qseries continues to this day. In 2021, Netflix invested NT$1 billion in Taiwan's film and television industry, and many Qseries productions have been seen internationally. New actors like Greg Han Hsu, Sun Ke-fang, and Liu Kuan-ting emerged from Qseries to become mainstays of Taiwan's film and television industry.
-
-If someone in 2050 wants to know what Taiwan's television industry once tried to do, what they read may well be these Markdown files — about how a platform that ran no ads tried to tell a story that everyone loved.
-
----
+- [Golden Bell Awards](/culture/金鐘獎) — The Big Three's seventeen years of exclusivity, PTS and cable channels joining the list, Netflix's entry — the winners' column for the Best Drama Series award is another record of this industry history
 
 ## References
 
-[^1]: [Taiwan Television — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96) — Wikipedia entry
+[^1]: [台灣電視 - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%9B%BB%E8%A6%96) — Wikipedia entry
 
-[^2]: [Big Three — Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0) — Wikipedia entry
+[^2]: [老三台 - Wikipedia](https://zh.wikipedia.org/wiki/%E8%80%81%E4%B8%89%E5%8F%B0) — Wikipedia entry
 
-[^3]: [Party-Government-Military Exit Media — Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94) — Wikipedia entry
+[^3]: [黨政軍退出媒體 - Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%A8%E6%94%BF%E8%BB%8D%E9%80%80%E5%87%BA%E5%AA%92%E9%AB%94) — Wikipedia entry
 
-[^4]: [PTS History — PTS Taiwan](https://about.pts.org.tw/en/?page_id=46) — PTS News
+[^4]: [公視歷史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=46) — PTS newsroom
 
-[^5]: [Public Television Act (Republic of China Year 86) — Wikisource](<https://zh.wikisource.org/wiki/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E6%B3%95_(%E6%B0%91%E5%9C%8B86%E5%B9%B4)>) — See full content at original link
+[^5]: [公共電視法 (民國 86 年） - 維基文庫](https://zh.wikisource.org/wiki/%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96%E6%B3%95_(%E6%B0%91%E5%9C%8B86%E5%B9%B4) — ) — See original link for details
 
-[^6]: [PTS History — PTS Taiwan](https://about.pts.org.tw/en/?page_id=42) — PTS News
+[^6]: [公視歷史 - PTS Taiwan](https://about.pts.org.tw/en/?page_id=42) — PTS newsroom
 
-[^7]: [PTS Annual Report 2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf) — PTS News
+[^7]: [公視年報 2015](https://about.pts.org.tw/en/wp-content/uploads/2021/09/2015-Annual-Report_0730_en_Final.pdf) — PTS newsroom
 
-[^8]: [Mirror Media](http://mirrormedia.mg/story/20171002pol001) — Wang Shaudi interview series
+[^8]: [鏡週刊 Mirror Media](http://mirrormedia.mg/story/20171002pol001) — 【一鏡到底】王小棣專訪系列
 
-[^9]: [Mirror Media](http://mirrormedia.mg/story/20171002pol003) — Making television is a form of social movement
+[^9]: [鏡週刊 Mirror Media](http://mirrormedia.mg/story/20171002pol003) — 【一鏡到底】拍電視是一種社會運動
 
-[^10]: [Qseries — Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4) — Wikipedia entry
+[^10]: [植劇場 - Wikipedia](https://zh.wikipedia.org/wiki/%E6%A4%8D%E5%8A%87%E5%A0%B4) — Wikipedia entry
 
-[^11]: [Qseries — TTV Official](https://www.ttv.com.tw/drama16/Qseries/default.asp) — Supplementary information at the original link
+[^11]: [植劇場 - 台視官網](https://www.ttv.com.tw/drama16/Qseries/default.asp) — See original link for supplementary details
 
-[^12]: [2016 Annual Taiwan Drama Rankings: Beginning to See the Possibility of a Hundred Flowers Blooming](http://punchline.asia/archives/37962) — Supplementary information at the original link
+[^12]: [2016 年度台劇榜：開始看見百花齊放的可能](http://punchline.asia/archives/37962) — See original link for supplementary details
 
-[^13]: [TVBS News](http://news.tvbs.com.tw/entertainment/781371) — Wang Shaudi interview / Making television is a form of social movement
+[^13]: [TVBS 新聞網](http://news.tvbs.com.tw/entertainment/781371) — 王小棣專訪／拍電視是一種社會運動
 
-[^14]: [Ministry of Culture 2021 Cultural Content Industry Statistics](https://www.ccpa.org.tw/article.php?block=2&id=2005) — Supplementary information at the original link
+[^14]: [文化部 2021 年文化內容產業統計](https://www.ccpa.org.tw/article.php?block=2&id=2005) — See original link for supplementary details
 
-[^15]: [Taiwan Television Industry Output Analysis](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf) — Supplementary information at the original link
+[^15]: [台灣電視產業產值分析](https://www.info.ntpc.gov.tw/wp-content/uploads/2025/08/%E5%B0%88%E9%A1%8C%E5%88%86%E6%9E%90-113%E5%B9%B4%E6%9C%89%E7%B7%9A%E9%9B%BB%E8%A6%96%E8%A8%82%E6%88%B6%E7%9A%84%E6%94%B6%E8%A6%96%E8%A1%8C%E7%82%BA%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90-1.pdf) — See original link for supplementary details
 
-[^16]: [Taiwan Media History — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — Wikipedia entry
+[^16]: [台灣媒體史 - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — Wikipedia entry
 
-[^17]: [Taiwan Media History — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — Wikipedia entry
-
-[^18]: [Womany](https://womany.net/articles/11381/) — Qseries's behind-the-scenes driver! Interview with Wang Shaudi
+[^17]: [女人迷 Womany](https://womany.net/articles/11381/) — 植劇場的幕後推手！專訪王小棣
 
 ---
 
