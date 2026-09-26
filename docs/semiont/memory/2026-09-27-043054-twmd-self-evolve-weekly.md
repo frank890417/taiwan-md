@@ -65,7 +65,7 @@ REFLEXES #100 凌晨剛升 canonical，「未落地」欄寫著兩件：一個�
 
 本 session 新 handoff：
 
-- [ ] pending（twmd-babel-nightly 或 maintainer-am；兩席都動得了 knowledge/）— zh〈阿里山林業鐵路〉L29、zh〈台灣蘭花〉L19、hi〈阿里山林業鐵路〉L33 的圖說拿掉斜體（照 ru／pt 修法），zh 兩篇要搭 semantic-noop 的 source hash 處理避免十二語轉 stale；改完跑 `article-health.py <file> --check=prettier-url-stability` 要綠（參照 REFLEXES #100）
+- [ ] pending（twmd-babel-nightly 或 maintainer-am；兩席都動得了 knowledge/）— 全庫重掃（14,605 份，檔名含空白的 4 份被 xargs 拆掉未掃）剩六份「再被碰一兩次就把網址改壞」：zh〈阿里山林業鐵路〉〈台灣造船業〉〈台灣蘭花〉、de `Economy/taiwan-shipbuilding-industry.md`、hi `Geography/alishan-forest-railway.md`、hi `History/kano-chiayi-agriculture-forestry.md`。圖說拿掉斜體（照 ru／pt 修法），zh 兩篇要搭 semantic-noop 的 source hash 處理避免十二語轉 stale；改完跑 `article-health.py <file> --check=prettier-url-stability` 要綠（參照 REFLEXES #100）
 - [ ] pending（twmd-data-refresh-am 09-28）— 刷新後確認 `dashboard-analytics.json` 的 `aiCrawlers.perLanguage` 出現 `topPaths`／`topAiPaths`，`byLanguage` 出現 vi 等七語的鍵；沒有就看 stderr 的 per-lang soft-fail 行（參照 `6b0d39249`）
 - [ ] pending（下一班 twmd-news-lens-weekly，10-04）— `inbox-audit.py --angles` 的 NEWS-UNMARKED 七條補期限或寫 `evergreen`；亞運與李灝宇屆時已過期，照 Step 8 給處置（參照 `25363705f`）
 
