@@ -1,11 +1,11 @@
 ---
 title: 'DATA-REFRESH-PIPELINE'
-description: '資料更新 pipeline — git pull + 三源感知 + prebuild + GitHub stats，Heartbeat Beat 1 前置 (v2.1)'
+description: '資料更新 pipeline — git pull + 三源感知 + prebuild + GitHub stats，Heartbeat Beat 1 前置 (v2.2)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.1'
-last_updated: 2026-07-05
-last_session: '2026-07-05-120817-dna-audit'
+current_version: 'v2.2'
+last_updated: 2026-09-27
+last_session: '2026-09-27-twmd-self-evolve-weekly（收官必跑 verify-commit-scope --head，自動清 pathspec commit 的索引殘影）'
 sister_docs:
   - 'STATS-PIPELINE.md'
   - 'DASHBOARD-PIPELINE.md'
@@ -103,6 +103,7 @@ upstream_canonical:
 | sync-spore-links 從 SSOT    | Step 13    | knowledge sporeLinks regen | `sync-spore-links.py`                 | drift = manual override      |
 | 不手寫 knowledge sporeLinks | 全程       | knowledge/\*.md            | manual                                | 會被 Step 12 覆蓋            |
 | pre-commit hook             | git commit | refresh result commit      | `.husky/pre-commit`                   | 修補後重 commit              |
+| commit 範圍＋索引殘影       | commit 後  | 每次收官（尤其 pathspec）  | `lib/verify-commit-scope.sh --head N` | 範圍錯＝停；殘影自動 reset   |
 
 ---
 
@@ -464,5 +465,7 @@ _v2.1 | 2026-07-05 2026-07-05-120817-dna-audit — 步數統一 14（script 實�
 2. **加進 refresh-data.sh** — 找一個適當的 step 號碼（對照 refresh-data.sh 現行 14 步編號）
 3. 加進 [DATA-REFRESH-PIPELINE.md §一鍵執行](#一鍵執行) 表格
 4. Step 11 verify freshness gate 會自動偵測 — 如果忘記加 generator，下次跑 pipeline 會看到 stale 警告
+
+**收官後必跑 `bash scripts/tools/lib/verify-commit-scope.sh --head <預期檔數>`**（2026-09-27 self-evolve-weekly）：用 `git commit -- <paths>` 收官能避開平行 babel 把自己的檔掃走，代價是 lint-staged 在暫存索引上改完 prettier 後，原索引留著格式化前的 blob（`git status` 呈 `MM`），下一個不帶 pathspec 的 commit 會把它帶進 git。`--head` 現在會把「工作樹 == HEAD 而索引 != HEAD」的本 commit 檔 reset 回 HEAD，工作樹不動。09-24 本 routine 與 embeddings 同一早各留一次、09-25 再一次（REFLEXES #100 (e)）。
 
 **反模式**: 寫了 generator 但只在 commit 之前手動跑一次。下次 generator 就被遺忘了。所有 dashboard JSON 必須有自動 refresh path。

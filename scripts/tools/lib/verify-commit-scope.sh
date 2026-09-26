@@ -10,6 +10,15 @@
 #   bash .../verify-commit-scope.sh --head   <expected>   # commit 後驗 HEAD（含 phantom-delete 檢查）
 #   bash .../verify-commit-scope.sh --staged              # 不給 expected → 只印清單供人眼確認
 #
+# --head 另外清「索引殘影」（2026-09-27 self-evolve-weekly，REFLEXES #100 (e)）：
+#   pathspec commit（`git commit -- <paths>`）時 lint-staged 在暫存索引上跑 prettier，
+#   HEAD 與工作樹拿到格式化後的版本，原索引卻留著格式化前的 blob → `git status` 呈 MM。
+#   下一個不帶 pathspec 的 commit（常是平行的 babel）會把那份舊 blob 帶進 git，
+#   等於把格式化倒退回去，或在範圍閘門喊「疑似跨 session 污染」。
+#   處置：只看 HEAD 這個 commit 碰過的檔，工作樹 == HEAD 而索引 != HEAD 的，
+#   `git reset -q -- <path>` 讓索引回到 HEAD。工作樹不動，不會丟任何人的內容。
+#   四次（08-10 feedback-triage、09-24 data-refresh-am＋embeddings 同一早、09-25）。
+#
 # exit: 0=scope 對 / 1=mismatch 或有 phantom delete / 2=usage
 set -uo pipefail
 cd "$(git rev-parse --show-toplevel 2>/dev/null)" || { echo "ERROR not-a-git-repo"; exit 2; }
@@ -41,5 +50,18 @@ if [ "$dels" -gt 0 ]; then
   echo "⚠️ ${dels} 個 deletion 在範圍內 — 確認不是 phantom-delete 掉 sibling 在用的檔（vc=2 根因）"
   [ "$rc" -eq 0 ] && rc=1
 fi
+if [ "$mode" = "--head" ] && [ "$count" -gt 0 ]; then
+  residue=0
+  while IFS= read -r f; do
+    [ -z "$f" ] && continue
+    [ -e "$f" ] || continue
+    if git diff --quiet HEAD -- "$f" 2>/dev/null && ! git diff --cached --quiet HEAD -- "$f" 2>/dev/null; then
+      git reset -q -- "$f" && echo "  🧹 索引殘影已清：$f（工作樹 == HEAD，索引留著格式化前的 blob）"
+      residue=$((residue + 1))
+    fi
+  done <<< "$files"
+  [ "$residue" -gt 0 ] && echo "🧹 ${residue} 檔索引殘影已清（pathspec commit 後 lint-staged 留下的舊 blob，REFLEXES #100 (e)）"
+fi
+
 [ "$rc" -eq 0 ] && echo "✅ scope OK"
 exit "$rc"
