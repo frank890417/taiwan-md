@@ -660,3 +660,22 @@ def test_footnote_title_brackets_normalized_before_validation():
 
 def test_footnote_title_with_embedded_link_is_left_for_validator():
     assert MODULE._normalize_footnote_title("[Foo](https://x.y)") == "[Foo](https://x.y)"
+
+
+def test_crossref_token_mapped_back_by_number():
+    # 模型把「（見 [^88]）」寫成 @@LINK88@@，原文 desc 有 [^88]
+    zh = "與解編前夕中央社報導的「一萬九千多人死亡」（見 [^88]）相比"
+    out = "compared with the CNA report of 19,000 deaths (see @@LINK88@@)"
+    assert MODULE._restore_crossref_tokens(out, zh) == "compared with the CNA report of 19,000 deaths (see [^88])"
+
+
+def test_single_renumbered_crossref_token_maps_to_the_only_ref():
+    zh = "正文採「已出貨」，因 [^74] 的食藥署查核證實"
+    out = "o texto adota \"já enviadas\", porque @@LINK0@@ verificação da FDA"
+    assert "[^74]" in MODULE._restore_crossref_tokens(out, zh)
+
+
+def test_ambiguous_crossref_tokens_are_left_for_the_gate():
+    zh = "見 [^3] 與 [^9]"
+    out = "see @@LINK0@@ and @@LINK1@@"
+    assert MODULE._restore_crossref_tokens(out, zh) == out

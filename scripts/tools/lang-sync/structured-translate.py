@@ -733,6 +733,34 @@ def _restore_protected_links(text: str, items: list[tuple[str, str]]) -> str:
     return _LINK_TOKEN_SCAN_RE.sub(repl, text)
 
 
+# 腳註之間的交叉引用「（見 [^88]）」（2026-09-26）。模型看了一整批 @@LINKn@@ 之後，
+# 會把同一條 desc 裡的 [^88] 也寫成 @@LINK88@@——付費產線重啟後 20 篇裡 8 篇整篇
+# 敗在這一個殘留，〈台灣新冠疫情與疫苗〉五個語言各一次。token 編號剛好是原文某個
+# 交叉引用的腳註號時直接對回；只剩一個 token、原文也只有一個交叉引用時一對一
+# （pt〈苯駢芘〉的 [^74] 被寫成 @@LINK0@@）。其餘照舊留著給下游閘門擋，不猜。
+_FN_CROSSREF_RE = re.compile(r"\[\^([^\]\s]+)\](?!:)")
+
+
+def _restore_crossref_tokens(text: str, source: str) -> str:
+    if "@@" not in text:
+        return text
+    refs = _FN_CROSSREF_RE.findall(source)
+    left = list(_LINK_TOKEN_SCAN_RE.finditer(text))
+    if not refs or not left:
+        return text
+    single = len(left) == 1 and len(set(refs)) == 1
+
+    def repl(m: "re.Match") -> str:
+        num = "".join(_NUMERAL_TO_ASCII.get(ch, ch) for ch in m.group(1))
+        if num in refs:
+            return f"[^{num}]"
+        if single:
+            return f"[^{refs[0]}]"
+        return m.group(0)
+
+    return _LINK_TOKEN_SCAN_RE.sub(repl, text)
+
+
 def extract_footnote_defs(body: str) -> list[dict]:
     """Regex 抽出所有 [^N]: ... 定義行，解析成 {n, title, url, desc}（canonical 格式
     參考 footnote-format-fix.py）。保留原始文件出現順序（賴和.md 的定義行不是照
@@ -992,6 +1020,7 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
             title = str(item.get("title", d["title"]))
             desc = str(item.get("desc", d["desc"]))
             desc = _restore_embedded_links(desc, d["_link_restore"])
+            desc = _restore_crossref_tokens(desc, d["desc"])
             if d.get("prose"):
                 # 散文型腳註沒有 title 槽位；模型若自作主張填一個，組回去會多出
                 # 一段原文沒有的字。只收 desc。
@@ -1272,7 +1301,7 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
                 last_output = ""
                 continue
             elapsed = round(time.time() - t0, 1)
-            out = _restore_protected_links(_strip_fence(raw), link_items)
+            out = _restore_crossref_tokens(_restore_protected_links(_strip_fence(raw), link_items), zh_chunk)
             issues = _validate_chunk(zh_chunk, out, zh_refs, lang, tmp_dir)
             metrics.setdefault("calls", []).append({
                 "label": f"phase-B-chunk{idx}", "attempt": attempt, "ok": not issues,
@@ -1302,7 +1331,7 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
                 try:
                     raw = backend.translate(base_system, part_send, max_tokens=6000, timeout=240)
                     elapsed = round(time.time() - t0, 1)
-                    out = _restore_protected_links(_strip_fence(raw), part_links)
+                    out = _restore_crossref_tokens(_restore_protected_links(_strip_fence(raw), part_links), part)
                     issues = _validate_chunk(part, out, part_refs, lang, tmp_dir)
                     metrics.setdefault("calls", []).append({
                         "label": f"phase-B-chunk{idx}-split{part_idx}",
