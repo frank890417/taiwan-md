@@ -599,3 +599,38 @@ def test_extract_json_loose_still_takes_last_answer_after_reasoning():
     assert MODULE._extract_json_loose(text) == [{"n": "1", "title": "T", "desc": "D"}]
     truncated = '[{"n": "1", "title": "A", "desc": "a"}, {"n": "2", "title": "B", "desc": "b"}, {"n": "3"'
     assert MODULE._extract_json_loose(truncated) == {"n": "2", "title": "B", "desc": "b"}
+
+
+def test_repair_unescaped_quotes_german_low9_and_ascii_inner_quotes():
+    """2026-09-26：譯文裡沒跳脫的引號打斷 JSON——德文 `„…"`（收引號寫成 ASCII）與
+    把「」譯成 ASCII `"…"`。舊路徑只撈得到最後一個物件（shape fail: dict keys=…）。"""
+    import json
+
+    german = '[{"n": "1", "title": "Taipei Times „More than NT$1.12 billion"", "desc": "x"}]'
+    fixed = json.loads(MODULE._repair_unescaped_quotes(german))
+    assert fixed == [{"n": "1", "title": "Taipei Times „More than NT$1.12 billion“", "desc": "x"}]
+
+    english = '[{"n": "2", "title": "The so-called "guardian" system", "desc": "He said "no""}]'
+    fixed = json.loads(MODULE._repair_unescaped_quotes(english))
+    assert fixed[0]["title"] == 'The so-called "guardian" system'
+    assert fixed[0]["desc"] == 'He said "no"'
+
+
+def test_repair_unescaped_quotes_leaves_valid_json_byte_identical():
+    valid = '[{"n": "1", "title": "A \\"quoted\\" word", "desc": "„ok“ — fine"}, {"n": "2", "title": "", "desc": "x"}]'
+    assert MODULE._repair_unescaped_quotes(valid) == valid
+
+
+def test_call_json_recovers_array_broken_by_inner_quote():
+    class Backend:
+        name = "stub"
+
+        def translate(self, _system, _user, **_kwargs):
+            return '```json\n[{"n": "1", "title": "Zeitung „Zitat"", "desc": "d"}, {"n": "2", "title": "t", "desc": "d"}]\n```'
+
+    metrics = {"calls": []}
+    data = MODULE.call_json(Backend(), "sys", "user", max_tokens=100, timeout=10, max_attempts=1,
+                            metrics=metrics, label="t", accept_data=lambda d: isinstance(d, list))
+    assert [x["n"] for x in data] == ["1", "2"]
+    assert data[0]["title"] == "Zeitung „Zitat“"
+    assert metrics["calls"][0].get("quote_repair") is True

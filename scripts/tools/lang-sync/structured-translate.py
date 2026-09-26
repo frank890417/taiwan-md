@@ -228,6 +228,71 @@ def _extract_json_loose(text: str):
     return max(outermost, key=lambda c: c[0])[2]
 
 
+# JSON 裡一個字串值結束後，下一個非空白字元只可能是這幾個。
+_JSON_AFTER_STRING = set(",:}]")
+
+
+def _repair_unescaped_quotes(text: str) -> str:
+    """把「字串值內部」沒跳脫的 ASCII 雙引號修好，其餘一字不動。
+
+    2026-09-26 付費 Haiku lane 首輪追出來的：譯文裡的引號會直接打斷 JSON。德文模型
+    開引號寫對了 `„`、收引號卻寫成 ASCII `"`（「„More than NT$1.12 billion"」），英／
+    西／阿等語把中文「」譯成 ASCII `"…"` 也是同一件事。那個 `"` 提早結束了字串，
+    整個陣列解析失敗，_extract_json_loose 只撈得到最後一個完整物件，呼叫端看到
+    `JSON shape fail: dict keys=['n', 'title', 'desc']`——09-20 起的 log 裡這個形狀
+    有 68 次、十二語都有、每個模型都有，每次燒掉一到六分鐘 worker 時間後整篇不寫檔。
+
+    判準（逐字元掃，只在字串內動手）：
+      - 前面有未收的 `„`（U+201E，德文與俄文的下引號）→ 這個 `"` 就是它的收引號，
+        換成正確的 `“`（U+201C），順便把排版修對；
+      - 否則看它後面第一個非空白字元：是 `, : } ]` 或檔尾 → 真的字串結尾，照舊；
+      - 都不是 → 字串內部的引號，補一個反斜線跳脫。
+    判不準的形狀（例如內部引號後面剛好接逗號）修完仍然解析不了，呼叫端會退回原本
+    的 _extract_json_loose 路徑——這支只會讓能救的變多，不會把原本能解析的弄壞
+    （呼叫端只在 json.loads 失敗後才用它）。"""
+    out: list[str] = []
+    in_str = esc = open_low9 = False
+    n = len(text)
+    i = 0
+    while i < n:
+        ch = text[i]
+        if not in_str:
+            out.append(ch)
+            if ch == '"':
+                in_str, open_low9 = True, False
+        elif esc:
+            out.append(ch)
+            esc = False
+        elif ch == "\\":
+            out.append(ch)
+            esc = True
+        elif ch == "„":
+            out.append(ch)
+            open_low9 = True
+        elif ch in "“”":
+            # 下引號已用正確的排版引號收掉——之後遇到的 ASCII `"` 回到一般判準。
+            # （測試抓到的：少了這條，合法的 `„ok“ — fine"` 會把字串真正的結尾誤認成收引號。）
+            out.append(ch)
+            open_low9 = False
+        elif ch == '"':
+            if open_low9:
+                out.append("“")
+                open_low9 = False
+            else:
+                j = i + 1
+                while j < n and text[j] in " \t\r\n":
+                    j += 1
+                if j >= n or text[j] in _JSON_AFTER_STRING:
+                    out.append(ch)
+                    in_str = False
+                else:
+                    out.append('\\"')
+        else:
+            out.append(ch)
+        i += 1
+    return "".join(out)
+
+
 def call_json(backend, system: str, user: str, *, max_tokens: int, timeout: int,
               max_attempts: int, metrics: dict, label: str, accept_data=None):
     """Call backend, strip fence, parse JSON. Retries on parse failure (spec:
@@ -262,19 +327,27 @@ def call_json(backend, system: str, user: str, *, max_tokens: int, timeout: int,
         try:
             data = json.loads(cleaned)
         except json.JSONDecodeError:
+            # 譯文裡沒跳脫的引號是最常見的解析失敗（見 _repair_unescaped_quotes）；
+            # 先修引號再解析，救不回來才退到撈最後一段的 loose 路徑——後者對陣列
+            # 只撈得到最後一個物件，正是 `dict keys=['n','title','desc']` 的來源。
+            repaired = _repair_unescaped_quotes(cleaned)
             try:
-                data = _extract_json_loose(cleaned)
-            except json.JSONDecodeError as e:
-                # 2026-09-23：只印例外訊息等於印一句「解析不了」——`_extract_json_loose`
-                # 自己組的 JSONDecodeError 一律報 pos=0，所以「line 1 column 1 (char 0)」
-                # 既可能是空輸出、也可能是三千字的碎念，兩者處置完全不同（一個是算力
-                # 沒回來，一個是模型話太多）。run 98122 一夜 29 次落在這一格而查不下去。
-                # 把長度與開頭原樣帶進訊息，dispatcher 收 stdout 尾 3000 字剛好讀得到。
-                last_err = (f"JSON parse fail: {e} | raw_len={len(cleaned)} "
-                            f"head={cleaned[:180]!r}")
-                call_record.update(ok=False, error=last_err, elapsed_s=elapsed)
-                metrics.setdefault("calls", []).append(call_record)
-                continue
+                data = json.loads(repaired)
+                call_record["quote_repair"] = True
+            except json.JSONDecodeError:
+                try:
+                    data = _extract_json_loose(cleaned)
+                except json.JSONDecodeError as e:
+                    # 2026-09-23：只印例外訊息等於印一句「解析不了」——`_extract_json_loose`
+                    # 自己組的 JSONDecodeError 一律報 pos=0，所以「line 1 column 1 (char 0)」
+                    # 既可能是空輸出、也可能是三千字的碎念，兩者處置完全不同（一個是算力
+                    # 沒回來，一個是模型話太多）。run 98122 一夜 29 次落在這一格而查不下去。
+                    # 把長度與開頭原樣帶進訊息，dispatcher 收 stdout 尾 3000 字剛好讀得到。
+                    last_err = (f"JSON parse fail: {e} | raw_len={len(cleaned)} "
+                                f"head={cleaned[:180]!r}")
+                    call_record.update(ok=False, error=last_err, elapsed_s=elapsed)
+                    metrics.setdefault("calls", []).append(call_record)
+                    continue
         if accept_data is not None and not accept_data(data):
             last_err = f"JSON shape fail: {type(data).__name__}"
             if isinstance(data, dict):
