@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-26T14:10:13+08:00",
-    "zhCommitHead": "d46fca28e",
+    "lastUpdated": "2026-09-26T14:21:52+08:00",
+    "zhCommitHead": "5d251c9d9",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1092,
+        "fresh": 1094,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 20,
+        "missing": 18,
         "orphan": 0
       },
       "pt": {
@@ -84,32 +84,32 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1084,
-        "stale": 12,
+        "fresh": 1085,
+        "stale": 11,
         "metadata_stale": 0,
         "missing": 28,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1087,
+        "fresh": 1088,
         "stale": 15,
         "metadata_stale": 0,
-        "missing": 22,
+        "missing": 21,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1098,
+        "fresh": 1099,
         "stale": 6,
         "metadata_stale": 1,
-        "missing": 19,
+        "missing": 18,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1084,
-        "stale": 5,
+        "fresh": 1085,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 35,
         "orphan": 0
@@ -25104,7 +25104,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/tasa-taiwan-space-agency.md",
+          "translatedFrom": "Technology/國家太空中心.md",
+          "sourceCommitSha": "82c0407f6",
+          "sourceContentHash": "sha256:e4e6dbc8acdd8970",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T06:10:24.142515+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "bytes": 123487,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/tasa-taiwan-space-agency.md",
@@ -60543,20 +60556,18 @@
         "de": {
           "path": "de/Society/zoo-and-exhibition-animal-ethics.md",
           "translatedFrom": "Society/動物園與展演動物倫理.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:942c806351e32e6f",
-          "sourceBodyHash": "sha256:d25050b0162be631",
-          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "sourceCommitSha": "8a8596298",
+          "sourceContentHash": "sha256:0ca0048f5fb189e0",
+          "sourceBodyHash": "sha256:2b440f6d5e5bb010",
+          "translatedAt": "2026-09-26T10:22:57+08:00",
           "translationLastCommit": "333a703f",
           "translationLastModified": "2026-09-12T02:21:12+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 18343,
+          "bytes": 19040,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+24 -12"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -62216,8 +62227,8 @@
           "sourceContentHash": "sha256:7abbe410b7f9a4d8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T05:00:45.279844+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5d251c9d",
+          "translationLastModified": "2026-09-26T14:10:13+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 52243,
@@ -62293,7 +62304,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/who-counts-as-low-wage.md",
+          "translatedFrom": "Society/誰算低薪.md",
+          "sourceCommitSha": "b10ec653b",
+          "sourceContentHash": "sha256:7abbe410b7f9a4d8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T06:10:49.544426+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 76630,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/who-counts-as-low-wage.md",
@@ -65020,7 +65044,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/poisoned-potato-cognitive-warfare-taiwan.md",
+          "translatedFrom": "Society/毒馬鈴薯認知作戰.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:9680a9c97c074b94",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T06:13:43.168977+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "bytes": 71370,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/poisoned-potato-cognitive-warfare-taiwan.md",
@@ -70734,18 +70771,18 @@
         "hi": {
           "path": "hi/Society/taiwan-political-landscape-and-electoral-system.md",
           "translatedFrom": "Society/台灣政治環境與選舉制度.md",
-          "sourceCommitSha": "dbaf28954",
-          "sourceContentHash": "sha256:815fdbbdd8e6757e",
-          "sourceBodyHash": "sha256:c04d648a91c00bf4",
-          "translatedAt": "2026-07-28T08:53:32+08:00",
+          "sourceCommitSha": "886779d83",
+          "sourceContentHash": "sha256:1b46bb67f21432e0",
+          "sourceBodyHash": "sha256:688a69633785627a",
+          "translatedAt": "2026-09-26T10:22:53+08:00",
           "translationLastCommit": "d22f6eea",
           "translationLastModified": "2026-07-28T10:09:39+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 30549,
+          "footnoteDefs": 6,
+          "bytes": 33415,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (6→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -74879,7 +74916,20 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/academia-sinica.md",
+          "translatedFrom": "Society/中央研究院.md",
+          "sourceCommitSha": "6fbe01217",
+          "sourceContentHash": "sha256:718e4da0518930ba",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-26T06:09:20.397326+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 57,
+          "bytes": 77256,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -165274,11 +165324,11 @@
           "sourceContentHash": "sha256:e8ef7d9d72df6a42",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-26T04:23:50.763335+00:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "5d251c9d",
+          "translationLastModified": "2026-09-26T14:10:13+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 60439,
+          "bytes": 60441,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
