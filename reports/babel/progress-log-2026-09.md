@@ -223,3 +223,40 @@ endpoint 探活：local 🟢、laptop-4090 🔴、laptop-5090 🔴、desktop-309
 endpoint 探活：local 🟢、laptop-4090 🔴、laptop-5090 🔴、desktop-3090 🔴、mac-m4max 🟢
 
 （babel-pulse 常駐儀器自動快照）
+
+## 2026-09-26T22:26:18+08:00（zh 總數 1124）
+
+| 語言 | fresh | stale | missing | 覆蓋率 | Δfresh | Δmissing |
+| ---- | ----: | ----: | ------: | -----: | -----: | -------: |
+| en   |  1123 |     1 |       0 | 100.0% |      · |        · |
+| ja   |  1111 |     9 |       4 |  99.6% |     +6 |       -5 |
+| ko   |  1123 |     1 |       0 | 100.0% |      · |        · |
+| es   |  1124 |     0 |       0 | 100.0% |     +1 |       -1 |
+| fr   |  1123 |     1 |       0 | 100.0% |      · |        · |
+| vi   |  1114 |    10 |       0 | 100.0% |      · |        · |
+| id   |  1117 |     4 |       3 |  99.7% |     +3 |       -1 |
+| pt   |  1116 |     6 |       2 |  99.8% |     -2 |       +2 |
+| hi   |  1108 |    10 |       6 |  99.5% |     +8 |       -8 |
+| ar   |  1111 |    10 |       3 |  99.7% |     +2 |       -2 |
+| ru   |  1118 |     6 |       0 | 100.0% |     +2 |       -2 |
+| de   |  1104 |     4 |      16 |  98.6% |     +7 |       -7 |
+
+總缺口（stale+missing）：**96**（▼27 vs 上一筆）
+
+**節點／worker**（ok/fail 為累計；Δ為對上一筆）
+
+| 節點             |  ok | fail | Δok | 平均秒 | 主要 fail                                                 |
+| ---------------- | --: | ---: | --: | -----: | --------------------------------------------------------- |
+| worker:?         |   0 |  113 |   · |      — | ?×113                                                     |
+| worker:haiku1    |  46 |   31 |  +3 |  292.0 | no output written by tra×12；leak×4                       |
+| worker:haiku2    |  61 |   26 |  +6 |  266.6 | no output written by tra×11；leak×4                       |
+| worker:haiku3    |  75 |   27 |  +5 |  235.6 | no output written by tra×13；leak×4                       |
+| worker:lagunas   | 458 |  502 |  +2 |  277.8 | no output written by tra×345；patch candidate rejected×45 |
+| worker:macm4max1 | 308 |  421 |  +2 |  552.8 | no output written by tra×233；verify=1 [URL count]×47     |
+| worker:macm4max2 | 327 |  403 |  +1 |  545.9 | no output written by tra×233；verify=1 [URL count]×41     |
+| worker:macm4max3 | 320 |  399 |  +1 |  548.8 | no output written by tra×222；patch candidate rejected×45 |
+| worker:nemo      | 261 |  230 |  +1 |  715.0 | no output written by tra×142；patch candidate rejected×24 |
+
+endpoint 探活：local 🟢、laptop-4090 🔴、laptop-5090 🔴、desktop-3090 🔴、mac-m4max 🟢
+
+（babel-pulse 常駐儀器自動快照）
