@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
 last_updated: 2026-09-20
-last_session: '2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
+last_session: '2026-09-27-010904-twmd-news-lens-weekly（探測器 W39：王冠閎 P1／勇鷹高教機 P1 兩條 NEW 入列；九合一總章加註建議升 P0；BIM 英文門面 entry 標 done 待歸檔）  # 前：2026-09-20-203758-semiont-heartbeat（巡邏第十八到二十篇：河川併進地理工單、農業地景併進農業工單、城市總覽新開 P2）  # 前：2026-09-20-011518-twmd-news-lens-weekly（探測器 routine 首跑：電價機制 P0／拔河 P1／李灝宇 P1 三條 NEW 入列）  # 前：2026-09-18-semiont-heartbeat 晚間（張忠謀查核後退回重寫 P0 入列）  # 前：2026-09-18-132812-news-radar（新聞雷達 9 條進 Pending：低薪／油價機制／金鐘獎三條派 Opus 走互動式 REWRITE，亞運 P0 待派；金城武／張懸／Blue UAS 升 P0；衛武營已 ship 移除）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -175,6 +175,38 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 王冠閎 NEW — 台灣男子游泳在亞運的第一面金牌
+
+- **Type**: `NEW`
+- **Category**: People
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-27 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-27.md T1-A）
+- **Notes**:
+  - 9/25 名古屋亞運男子 200 公尺蝶式決賽 1 分 55 秒 05 奪金（預賽到決賽快 4 秒 35；中國徐放 1:55.65 銀、韓國金敏燮 1:55.94 銅），台灣男子游泳亞運首金；上屆杭州同項銀牌，是繼現任教練黃智勇之後相隔 25 年的男泳亞運獎牌
+  - **缺口確認**：`find knowledge … | grep 王冠閎` = 0；`grep -rl 王冠閎 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；`grep -rl 游泳` 15 篇全是順帶一提，沒有一篇寫台灣競技游泳；INBOX / DONE-LOG = 0
+  - **人在哪**：王冠閎本人（賽後「人生最美好的比賽」）、教練黃智勇（上一個站上亞運頒獎台的台灣男泳，25 年後位置對調）、同池對手徐放與金敏燮、學生時期泳隊、游泳協會（選訓與移訓經費）
+  - 切角：從觸牆那 0.60 秒開場；往回走黃智勇那一代、杭州那面銀、這三年改了什麼；主脊放「教練是上一個站上去的人」，訓練環境當背景不當勵志素材；收在洛杉磯奧運資格線。立體群像，不寫「台灣之光」腔
+  - **必驗**：三個成績回世界泳聯官方成績；「男子首金」的精確範圍（女子是否有過亞運游泳金牌）；黃智勇獎牌屆別項目年份；杭州銀牌成績；出生年與學歷
+  - 時效：賽後兩週（10 月上旬前）
+- **Reference**: [中央社](https://www.cna.com.tw/news/aspt/202609250183.aspx) / [聯合](https://udn.com/news/story/124981/9777777) / [自由體育](https://sports.ltn.com.tw/news/breakingnews/5586208) / [華視](https://news.cts.com.tw/cts/sports/202609/202609263083123.html)
+
+### 勇鷹高教機 NEW — 66 架交完，國機國造的第二次
+
+- **Type**: `NEW`
+- **Category**: Technology
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-09-27 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-27.md T1-B）
+- **Notes**:
+  - 9/24 最後兩架（1165、1166）從台中出廠，漢翔董事長曹進平親自飛交岡山空軍官校，66 架全數交付、提前達成；首架原型機 2019-09-24 出廠，收尾正好同一天；報導稱 80% 以上從 IDF 經國號重新設計、國產化率逾 55%；量產結束後漢翔轉做全壽期後勤
+  - **缺口確認**：`find knowledge … | grep 勇鷹` = 0；`grep -rl 勇鷹 knowledge/[A-Z]*/*.md` = 0；`grep -rl "經國號\|IDF\|漢翔"` 5 篇（看不見的國家／高速公路／莫那·魯道／台灣無人機產業／國家太空中心）都只是順帶；INBOX / DONE-LOG = 0
+  - **人在哪**：曹進平（自己飛最後一架的人）、首批用勇鷹受訓的官校學員與教官、IDF 與勇鷹兩個計畫都參與過的中科院／漢翔工程師、台中與岡山的供應鏈廠商、AT-3 退役前最後一批飛它的人
+  - 切角：從曹進平降落岡山那一刻開場；往回走 AT-3 老化、2017 年定案國造、從 IDF 重新設計、55% 國產化的意思（哪 45% 還靠進口）、2019 年同一天首架出廠；主脊放「一個國家第二次自己造飛機，中間隔了三十年」；收在國造戰機接續案討論，不預測結果
+  - **必驗**：66 架、編號、2019-09-24 回漢翔與國防部原始新聞稿；80% / 55% 的口徑與出處；計畫總預算；AT-3 服役與退役時程；IDF 量產年份與架數；「提前」提前多久
+  - 敏感度低到中：寫產業與人，不寫戰力比較或兩岸對峙腔；「國機國造」當政策專有名詞引用
+- **Reference**: [中央社](https://www.cna.com.tw/news/aipl/202609240096.aspx) / [經濟日報](https://money.udn.com/money/story/5612/9775084) / [聯合](https://udn.com/news/story/10930/9775195) / [壹蘋](https://news.nextapple.com/finance/20260924/5208D31070B73CDD25E0D0323722F531)
 
 ### 台灣電價機制與台電 NEW — 電價凍漲的帳單：台電、電價審議會與 711 億撥補
 
@@ -787,23 +819,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 必驗事實：出道與新寶島康樂隊時間線、代表作年份、近況動態
 - **Reference**: public/api/dashboard-analytics.json §searchConsole7d（2026-07-18T08:17 refresh）
 
-### 台灣 BIM 與營建科技 英文版 metadata — SC 623 曝光排第 7 卻 0 點擊（evolve 雙源訊號）
-
-- **Type**: `EVOLVE`（🟠 SEO 優化 action，非 rewrite——文章本體品質合格）
-- **Category**: Technology
-- **Path**: knowledge/en/Technology/taiwan-bim-construction-tech.md（中文版 knowledge/Technology/台灣BIM與營建科技.md 的 desc 189 字亦略超標，可一併順手）
-- **Priority**: `P0`（5 分鐘可修，ROI 全站最高級；位置已在第一頁，改門面即兌現）
-- **Status**: `pending`
-- **Requested**: 2026-07-17 by twmd-evolve (session highered-evolve finale)
-- **Notes**:
-  - **雙源 pointer**：① SC 7d「bim residential housing construction taiwan case study」**623 曝光／位置 7.19／CTR ~0**、「bim building information modeling taiwan construction industry」166 曝光／位置 6.48／CTR ~0（`public/api/dashboard-analytics.json` `.searchConsole7d.opportunities`，2026-07-17T06:10 抓）② GA4 7d `/technology/台灣BIM與營建科技/` 57 views 排全站第 5（`.ga.topArticles7d`）。兩源獨立確認需求真實存在。
-  - **病灶（量測過，不是印象）**：英文版 **title 130 字**（Google SERP 截 ~60）、**description 670 字**（截 ~155，超標 4.3 倍）。SERP 上讀者看到的是被切斷的「On May 23, 2014, the Public Construction Commission of the Executive Yuan launched the "Platform for Promoting BIM in Public Works," adopting the eight-cha…」——**title 沒有承諾答案**（搜尋者要的是 "case study"），description 前 155 字全是政策機關名。命中 §神經迴路「title 先承諾答案，description 再說故事」＋ EDITORIAL §Description 四原則（預算 120-160 字）。
-  - **為什麼這篇 vs 其他**：本輪 SC opportunities 第一名（623 曝光是第二名 166 的 3.8 倍），且**位置 7.19 已在第一頁**——不需要拚排名，純門面轉換。對照組：「jolin tsai」160 曝光但位置 12.64（第二頁，要先拚排名才輪到 CTR）；「bobby chen」144 曝光位置 9；金城武（INBOX 既有 P1）是 rewrite 型（96 行薄殼要補內容，30-60 min）。本條是四種行動裡最便宜的 🟠 SEO 優化（5 min/篇）。
-  - **文章本體不動**：53 條腳註、2026-05-22 新文、內容合格。**只改 frontmatter title + description**，不碰正文。
-  - **修法方向**（給執行者，非定稿）：title 讓 "Taiwan BIM case study" 這組詞在前 60 字內出現並承諾答案；description 壓到 120-160 字，三段結構（具體場景 ~40／軌跡一句 ~40／核心張力收尾 ~40，per EDITORIAL）。REVIT_MCP 70+ stars 與「十二年因案制宜 vs 十八個月 protocol」的張力是現成的 hook，只是現在被埋在第 400 字。
-  - **⚠️ Gate 揭露（不粉飾）**：進化分數 v2.0 算出 **58.2 < 60**，技術上未過 Phase 2 gate。扣分來自「品質缺陷 20%×20」與「文章年齡 10%×15」——但這兩個維度分數低的原因正是**文章寫得好且新**，而 EVOLVE 行動表對 🟠 SEO 優化 的觸發條件白紙黑字是「高曝光＋低 CTR＋**品質 OK**」（100% 命中）。公式是 rewrite 形狀的，對 SEO 型 candidate 有結構性偏誤：ROI 最高的行動類型反而最難過 gate。**未擅自改公式**（threshold 調整命中 §自主權邊界），已升 [OBSERVER-QUEUE #16](OBSERVER-QUEUE.md) 待哲宇拍板；本條依行動表觸發條件 append，gate 分數如實揭露供 maintainer 判斷。
-- **Reference**: LONGINGS §身體渴望「我的英文版品質不輸中文版」（辨識指標：美國 CTR ≥ 1%，目前 0.39%）＋ §神經迴路「英文 metadata 改一頁的 ROI 可能 = 重寫 10 篇文章」
-
 ### 吳百福（安藤百福）EVOLVE — 本週全站流量第 5，健康分數卻是同榜最低
 
 - **Type**: `EVOLVE`（🔴 Rewrite——高流量 + 篇幅過短 + 對位句型密集，非單純 SEO 可解）
@@ -1039,6 +1054,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Path**: [`knowledge/Politics/2026 九合一選舉.md`](../../knowledge/Politics/2026 九合一選舉.md)
 - **Priority**: `P1`
 - **Status**: `pending`
+- **2026-09-27 news-lens W39 補**：SC「九合一選舉 2026」81 → 1,046（+1,191%）、「台灣選舉 2026」270 → 579、「2026選舉時間」61 → 122，外加「選什麼」與簡體／日文等數十個變體；GA `/elections/2026/` 84 → 115（+37%）。雙源確認的 intent 叢集（搜尋者問「哪天投、選什麼」），**建議升 P0 並把範圍擴成 freshness 一輪**（日期與投票時間進開頭、登記結果、九種選舉各選什麼）；〈九合一選舉是什麼〉可能才是接住這群人的那篇，分工一起看。本 routine 不自行改 Priority（reports/probe/2026-09-27.md T2-A）
 - **2026-09-18 news-radar 補**：登記 8/31〜9/4 已結束、81 人登記縣市長，文章 lastVerified 2026-07-10 §九「將發生」段已過時；9 月民調高雄柯志恩 43.8% vs 賴瑞隆 43.5%、台北蔣萬安領先但差距縮小、台中江啟臣領先 6.7 個百分點。媒體增補時一併做 freshness bump（時程表勾掉、補 81 人與各都對決名單）
 - **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 1）
 - **自主權邊界**: `[A]` 可自主

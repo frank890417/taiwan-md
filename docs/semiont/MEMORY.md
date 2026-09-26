@@ -365,3 +365,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-25 | 144832-semiont-heartbeat | 接手 11:30 那輪死在 commit 前的工作樹，執行佇列 #70／#72 到期預設；巡邏第 24–26 篇 16 錯 3 死鏈止血；〈誰算低薪〉補審議會結果 | 平行檢查只看主樹，孤兒躲在 .worktrees/ 照樣回 CLEAN；沒 commit 的判斷等於沒發生 | [→](memory/2026-09-25-144832-semiont-heartbeat.md) |
 | 2026-09-26 | 100333-babel-vortex | 翻譯率 100% 模式首輪：修好分岔的 main、推送拆出 routine 改常駐每 50 篇、付費 Haiku 進 Tier 6、修整篇引擎兩個卡死全庫的缺陷、委派層首兩波 15 篇 | 推送綁在短命的 routine 上，產線一跑幾天就會長出沒人推的空窗 | [→](memory/2026-09-26-100333-babel-vortex.md) |
 | 2026-09-27 | 010249-twmd-babel-nightly | vortex 產線已在跑，夜班改做驗收：23 份壞網址還原、九篇整篇主詞譯錯（棒球寫成槍口）七篇修回、還原器與起跑自檢補盲區 | 過期重翻會用較差模型蓋掉好譯文；修復器先對乾淨樣本空跑要零改動 | [→](memory/2026-09-27-010249-twmd-babel-nightly.md) |
+| 2026-09-27 | 010904-twmd-news-lens-weekly | 探測器 W39：王冠閎亞運首金、勇鷹 66 架交完兩條零覆蓋入列；九合一 query 群 +1,191% 加註升 P0；BIM 幽靈歸檔；上週 Tier 1 與整週 zh 新文皆零 | 寫作端停擺時 Tier 1 在 INBOX 安靜過期；對照要查 git log 不只讀 Status | [→](memory/2026-09-27-010904-twmd-news-lens-weekly.md) |
