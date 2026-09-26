@@ -237,3 +237,21 @@ P0-3 AI crawler 成功率已由本次修復接手：擷取欄位接到 dashboard
 觀察者以六篇文章提出成品退步，已完成目的性樣本對照、來源與版本追查，並先提交設計再實作可回退的 agent 工作協議。有效裁決綁定文章與審稿工件 hash；局部試跑揭露引用渲染缺陷，回退後重新複讀與驗證，另修空容器及審稿證據未綁定漏洞。見 [研究](rewrite-evolution-evidence-2026-09-07.md)與[實跑](rewrite-guide/README.md)。
 
 本次領取的是「交接與裁決可撤回」，不宣稱解決所有文章品味。下一個外部驗收應是觀察者對同題長篇的閱讀選擇與具體理由；沒有這份回饋前，不把關卡通過或文章產量當作效果，也不自動將所有 routine 切到新工具。
+
+---
+
+## 六之八、W39 週體檢 roll（2026-09-27，桶 2 進場 3 項＋一項結案）
+
+> 本檔連續第八週仍是現行版。先結一件：**P0-1 英文 metadata**——W38 桶 1 改了 BIM 的 title 與 description（`753dde91d`），一個 SC 週期過去，`bim residential housing construction` 本週 1,041 imp／0 click、`bim building information modeling taiwan` 976 imp／0 click。曝光從 2,355 降到 2,017，點擊仍是零。照 W38 寫下的規矩「若下個 SC 週期仍是零，就不該再改第二次字」，**本項改判為「非 metadata 層問題」並結案**，剩下的判讀合進下方第一項。
+>
+> 本週 roadmap 之外的大事只有一件，但它大到會改寫這份檔案的假設：**十三個語言的文章覆蓋率全部到 1122／1122**。主權的巴別塔在文章這一層封頂了。
+
+| 新 finding | 證據 | 動作 | 完成判準 |
+| --- | --- | --- | --- |
+| **語言器官四層裡只有「文章」那層到 100%，Hub 那層有三語是 0** | `dashboard-organism.json` 的 `langHealthDetails`：文章 13/13 語都是 1122（100%），但 hubs ja 0/13、ar 0/13、ru 0/13、fr 3/13。per-language 分數 de 100／vi id pt hi 98／en 97／ko es 96／**fr 83／ja ar ru 78**。語言器官總分 92 是把這四層平均掉的結果 | §神經迴路「語言器官四層結構只量一層 = 假健康」在覆蓋率封頂這一刻風險最高——「100%」現在是最容易被當成完工的數字。動作：dashboard 語言區把四層分開顯示（不只給一個 per-language 分數），並把 ja／ar／ru／fr 的 Hub 缺口列成一份可派工的清單（42 個 Hub 檔） | 語言器官的公開呈現能讓人一眼看出「文章 100%、Hub 三語 0%」；Hub 缺口有具名清單與負責的 routine 或工單 |
+| **心臟分數 90 的底下，自產是 1、投稿是 40** | `heart.metrics`：`selfProducedLast7Days: 1`／`contributedLast7Days: 40`／`selfProducedLast30Days: 5`。本週 `knowledge/` 底下新建的中文檔 **0 個**（`git log --diff-filter=A`）。ARTICLE-DONE-LOG 最後一筆實體交付停在 09-19 三篇 v2，本週唯一一筆是補登的 BIM metadata。W33 起 roadmap 追的「心臟量庫存不量產出」在 W36 被接手升級成「它會動了，只是動的理由不對」——本週是這條的最清楚讀數：**分數 90，自產 1** | 這條從「拆一格」升級成「讓分數對自產有反應」：心臟分數的主成分改用 `selfProduced`，`contributed` 另列一格。兩者同等重要但不是同一件事，混在一格會讓「投稿很旺盛而自己沒寫」永遠看不見。**注意這不是催產**：三條生成側 routine（rewrite-daily／spore-pick／spore-publish）都是哲宇拍板的 manual-by-decision，本項只要求儀表板說實話 | 心臟分數能分辨自產與投稿；連續兩週自產 ≤1 時儀表板會亮，而不是顯示 90 |
+| **繁殖分數 100 的那一週，最後一支孢子已經 35 天前** | `reproduce.metrics`：`recentSpores: 7`／`hasBlockbuster: true`／分數 100。但 `spore-log.json` 最後一筆是 **#175／#176，2026-08-23**，距今 35 天。`recentSpores` 數的是「近期窗口內的孢子紀錄」，窗口寬到把八月那批算成近期；spore-harvest 連續 11 輪 0 新留言 0 ship，它自己的 memory 寫「窗口 33 天無新孢子，收割端的空白反映生成端停著」 | 這是 REFLEXES #38「存活 ≠ 生產」在繁殖器官上的第三個載體（前兩個是 worker 健檢與心臟）。動作：`recentSpores` 的窗口收到 14 天，並把「最後一支孢子距今天數」變成獨立欄位印在儀表板與 snapshot 上。孢子要不要恢復自動發布是 OBSERVER-QUEUE #73 的事，本項只要求分數不要替停轉的產線背書 | 繁殖分數在「35 天沒發孢子」時不會是 100；snapshot 印得出「最後一支孢子距今 N 天」 |
+
+**§六之二～§六之七 既有項的領取狀態**：P0-1 英文 metadata（**本週結案改判**，見上方）／P0-2 重腳註翻譯路線驗收（未領取，連續第八週——但本週 babel 把整篇引擎的兩個卡死缺陷修掉了（`47524e751`／`0cc89dd01`），重腳註大檔實際已經在跑，這條的「驗收」比八週前便宜很多）／P0-3 AI crawler（已領取；本週 Bytespider 22% 仍是最低格、Googlebot 77%、BingBot 87%、Applebot 82%、PerplexityBot 67%）／心臟量自產 vs 投稿（**本週由上表第二項接手並給出最清楚的讀數**）／`external_rulers`（本週 **3.7**，從 1.2 回升——回升的原因是哲宇連兩天 in-session，這格量的仍不是他）／`review_coverage`（**19.0**，連續第六週凍結；分子 `lastHumanReview: true` 200 篇，`twmd-review-stock` 仍不存在。**本週照 W38 handoff 的指示不再重寫這條的動作，改成 OBSERVER-QUEUE 一列只問「誰是執行者」**）／完成登記缺機械閘門（未領取）／fire-vs-commit 補 origin 可達性維度（未領取）／SC 機會缺口「疑似非人類查詢」判讀（**部分領取**：本週 f 節已給 0 click 的三支榜首，判讀規則未儀器化）／ARTICLE-INBOX `angle-expires:`（未領取，本週亞運那條第三週未派、10-04 閉幕，切角第二次滑走）／`.git` 不可達物件與 gc.log（未領取，本週 babel writer 五個在跑，REFLEXES #35 照樣不動）。
+
+**本週體檢對既有主題的補充**：主題一（外部尺）連續第十週。這週的形狀跟前九週不同——`external_rulers` 從 1.2 回到 3.7，而回升不是因為多了一把別人寫的檢查器，是因為哲宇連兩天坐在 session 裡。那格量的東西沒變，變的是我這週剛好有人陪。主題二（假陽性消耗注意力）本週的形狀是反過來的：三個器官分數（心臟 90／繁殖 100／語言 92）同時對著停轉或封頂的產線發綠燈，**假的不是警報，是分數本身**。主題三（受眾端飛輪）本週有真回報：kwt-klure 兩個 PR 加一則帶抽樣量測的討論、aminzai 三篇譯文勝過產線同篇，讀者與貢獻者這端通了，而孢子這端 35 天沒出聲。
