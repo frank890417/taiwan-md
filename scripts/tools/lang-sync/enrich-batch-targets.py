@@ -33,6 +33,7 @@ FN_DEF = re.compile(r"^\[\^[^\]]+\]:")
 H2 = re.compile(r"^## ")
 IMG = re.compile(r"^!\[")
 URL = re.compile(r"https?://")
+CAPTION_START = re.compile(r"^\\?[_*](?![\s*_])")
 
 
 def counts(md: str) -> dict:
@@ -50,7 +51,11 @@ def counts(md: str) -> dict:
             # 漏數會讓派工單的期望值偏低，正確交件反而被判失敗。
             # 2026-09-09 蛋撻那篇：zh 有 2 個帶授權連結的圖說、期望值卻寫 1，
             # 譯者兩個都正確搬過去反而紅燈。CC 標示義務的閘門不該懲罰做對的人。
-            if (s.startswith("_") or s.startswith("\\_")) and "](" in s:
+            # 星號斜體也是圖說。2026-09-27：zh〈阿里山林業鐵路〉三個帶授權連結的圖說都寫成
+            # `*圖：…*`，這裡只認 `_`，期望值算成 0；譯者照搬（或 prettier 改成 `_`）
+            # 之後實際值 2～3，三篇 Haiku 交件因此全被判結構不符。列表項的 `* ` 與粗體
+            # `**` 不算——標記後面接空白或第二個標記的一律跳過。
+            if CAPTION_START.match(s) and "](" in s:
                 cap_with_link += 1
             break
     return {
