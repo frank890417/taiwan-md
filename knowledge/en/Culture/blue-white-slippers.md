@@ -137,7 +137,7 @@ The shoe at the beginning of the article still stands at the door of an old apar
 
 [^8]: [Wikipedia, "Blue-and-White Slippers" (Used only as a clue index, not as the sole basis for key facts in this article)](https://zh.wikipedia.org/zh-hant/%E8%97%8D%E7%99%BD%E6%8B%96) — Wikipedia entry
 
-[^9]: [National Cultural Memory Bank Online Curation Platform, "Taiwanese Essentials: Blue-and-White Slippers," Curators Hung Lo-en, Chen Pei-tseng](https://curation.culture.tw/curation/public?id=3099) — See original link content for data supplements
+[^9]: [National Cultural Memory Bank Online Curation Platform, "Taiwanese Essentials: Blue-and-White Slippers," Curators Hung Lo-en, Chen Pei-jerng](https://curation.culture.tw/curation/public?id=3099) — See original link content for data supplements
 
 ## Image Sources
 

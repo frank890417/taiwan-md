@@ -137,7 +137,7 @@ El zapato del inicio del artículo aún está estacionado frente a la puerta de 
 
 [^8]: [Wikipedia, «Chanclas azules y blancas» (solo como índice de pistas, no como única base para los hechos clave de este artículo)](https://zh.wikipedia.org/zh-hant/%E8%97%8D%E7%99%BD%E6%8B%96) — Artículo de Wikipedia
 
-[^9]: [Plataforma de Exposición en Línea del Banco de Memoria Cultural Nacional, «Imprescindible para los taiwaneses: Chanclas azules y blancas»], curadores Hong Luo-en, Chen Pei-tseng](https://curation.culture.tw/curation/public?id=3099) — Ver datos complementarios en el enlace original
+[^9]: [Plataforma de Exposición en Línea del Banco de Memoria Cultural Nacional, «Imprescindible para los taiwaneses: Chanclas azules y blancas»], curadores Hong Luo-en, Chen Pei-jerng](https://curation.culture.tw/curation/public?id=3099) — Ver datos complementarios en el enlace original
 
 ## Fuentes de imágenes
 

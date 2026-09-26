@@ -71,7 +71,7 @@ Laut der Forschung von Professor Yang Wenxiong (楊文雄) an der National Taiwa
 - Im von Yu Guangzhong (余光中) definierten „Landschaft der weiblichen Prosa“ in Zehnjahresabschnitten gibt es jeweils eine klare Vertreterin:
   - Erste Periode (1950–1960): Qi Jun, Roland, Lin Haiyin, Zhang Xiuya
   - Zweite Periode (1960–1970): Lin Wenyue (林文月)
-  - Dritte Periode (1970–1980): Zhang Xiaofeng (張曉風) (eine Schlüsselperson der Nachfolge)
+  - Dritte Periode (1970–1980): Chang Hsiao-feng (張曉風) (eine Schlüsselperson der Nachfolge)
   - Vierte Periode (1980–1990): Liao Yuhui, Chen Xinghui (陳幸蕙)
   - Fünfte Periode (1990–2000): Jian Zhen
 
@@ -81,11 +81,11 @@ Laut der Forschung von Professor Yang Wenxiong (楊文雄) an der National Taiwa
 
 ### Alltagsschreibung: Vom privaten Gedächtnis zur kollektiven Identität
 
-Das größte Merkmal der Prosa Taiwans ist die „Alltagsschreibung“ – die Anhebung alltäglicher Erfahrungen auf literarische Höhe. Diese Tradition begann mit Qi Jun und wurde durch Lin Wenyue, Zhang Xiaofeng und Jian Zhen weiterentwickelt und bildete eine einzigartige Ästhetik.
+Das größte Merkmal der Prosa Taiwans ist die „Alltagsschreibung“ – die Anhebung alltäglicher Erfahrungen auf literarische Höhe. Diese Tradition begann mit Qi Jun und wurde durch Lin Wenyue, Chang Hsiao-feng und Jian Zhen weiterentwickelt und bildete eine einzigartige Ästhetik.
 
 **Lin Wenyues _Nachmittagsbüro_ (午後書房)** (1980er Jahre) zeigte die Lebensästhetik einer gebildeten Frau. Sie schrieb über ihre Übersetzungsarbeit, Kochrezepte und ihre Begegnungen mit literarischen Freunden; ihr Schreibstil war elegant, aber nicht aufgesetzt, tiefgründig, aber ohne Angeberei. Sie bewies, dass auch Akademiker Prosa schreiben können, die Wärme ausstrahlt.
 
-**Zhang Xiaofengs Rolle als „Nachfolgerin“ ist noch wichtiger.** Ihr _Am Ende des Teppichs_ (地毯的那一端) (1966) verband die kultivierte Bildung der klassischen Literatur mit der Beobachtungsgabe moderner Frauen; sie besaß sowohl Qis Tiefe als auch ihre eigene philosophische Reflexion. Ihre Prosa entwickelte oft von kleinen Ereignissen zu kosmologischen Ansichten; in _Schlaflosigkeit ohne Vergessen_ (不朽的失眠) beschreibt sie Zhang Jies _Feiangqiao Ye Bo_ (楓橋夜泊): „Wirklich, Dichter können nicht alt werden.“
+**Chang Hsiao-fengs Rolle als „Nachfolgerin“ ist noch wichtiger.** Ihr _Am Ende des Teppichs_ (地毯的那一端) (1966) verband die kultivierte Bildung der klassischen Literatur mit der Beobachtungsgabe moderner Frauen; sie besaß sowohl Qis Tiefe als auch ihre eigene philosophische Reflexion. Ihre Prosa entwickelte oft von kleinen Ereignissen zu kosmologischen Ansichten; in _Schlaflosigkeit ohne Vergessen_ (不朽的失眠) beschreibt sie Zhang Jies _Feiangqiao Ye Bo_ (楓橋夜泊): „Wirklich, Dichter können nicht alt werden.“
 
 **Jian Zhens _Nü'erhong_** (1988) repräsentierte das Erwachen des weiblichen Bewusstseins in Taiwan in den 1980er Jahren. Ihre Sprache war freier, ihre Emotionen direkter, ihr Erzählstil experimenteller. Sie schreibt: „Ich bin Nü'erhong, begraben tief in der Zeit und warte darauf, dass jemand mich erweckt.“
 

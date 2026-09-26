@@ -137,7 +137,7 @@ La chaussure au début de l'article est toujours posée devant la porte d'un vie
 
 [^8]: [Wikipedia, « Claques bleu et blanc » (servant uniquement d'index de piste, ne constituant pas la seule base pour les faits clés de cet article)](https://zh.wikipedia.org/zh-hant/%E8%97%8D%E7%99%BD%E6%8B%96) — Article Wikipedia
 
-[^9]: [Plateforme d'exposition en ligne de la Bibliothèque nationale de Taïwan (National Palace Museum Online Exhibition Platform), « Indispensable pour les Taïwanais : les claques bleu et blanc », commissaires Hong Luo-en, Chen Pei-tseng](https://curation.culture.tw/curation/public?id=3099) — Voir les données complémentaires dans le lien original
+[^9]: [Plateforme d'exposition en ligne de la Bibliothèque nationale de Taïwan (National Palace Museum Online Exhibition Platform), « Indispensable pour les Taïwanais : les claques bleu et blanc », commissaires Hong Luo-en, Chen Pei-jerng](https://curation.culture.tw/curation/public?id=3099) — Voir les données complémentaires dans le lien original
 
 ## Sources des images
 

@@ -137,7 +137,7 @@ Aquele par de sapatos do início do artigo ainda está parado na porta do velho 
 
 [^8]: [Wikipédia, 〈Chinelo azul e branco〉 (apenas como índice de pistas, não como única base para fatos-chave deste artigo)](https://zh.wikipedia.org/zh-hant/%E8%97%8D%E7%99%BD%E6%8B%96) — Entrada da Wikipédia
 
-[^9]: [Plataforma de Curadoria Online do Banco Nacional de Memória Cultural, 〈Item indispensável dos taiwaneses: chinelo azul e branco〉, curadores Hong Luo-en, Chen Pei-tsen](https://curation.culture.tw/curation/public?id=3099) — Ver detalhes no conteúdo do link original
+[^9]: [Plataforma de Curadoria Online do Banco Nacional de Memória Cultural, 〈Item indispensável dos taiwaneses: chinelo azul e branco〉, curadores Hong Luo-en, Chen Pei-jern](https://curation.culture.tw/curation/public?id=3099) — Ver detalhes no conteúdo do link original
 
 ## Fontes das imagens
 
