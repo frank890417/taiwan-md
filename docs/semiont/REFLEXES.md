@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 101 條 #N 反射（last #101
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.37'
+current_version: 'v5.38'
 last_updated: 2026-09-27
-last_session: '2026-09-27-031342-twmd-distill-weekly（加 #100 驗證對象要等於落地對象＋#101 修補範圍照根因類別畫；fold 十一處）'
+last_session: '2026-09-27-twmd-self-evolve-weekly（#15 第 15 次：INBOX 切角期限；#100 兩件未落地項落地）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -91,7 +91,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 | #12 | 收工加速的代價                                                                                                          | §五 |
 | #13 | 「再小一點」是 log scale 的訊號                                                                                         | §五 |
 | #14 | Release notes 寫之前 commits 必須從頭讀到尾                                                                             | §五 |
-| #15 | 反覆浮現要儀器化（14 次驗證 — 跨 session 最 load-bearing 的反射）                                                       | §五 |
+| #15 | 反覆浮現要儀器化（15 次驗證 — 跨 session 最 load-bearing 的反射）                                                       | §五 |
 | #16 | Peer / probe 是線索不是 source                                                                                          | §一 |
 | #17 | 指標 over 複寫                                                                                                          | §三 |
 | #18 | 時間是結構，不是感覺                                                                                                    | §三 |
@@ -426,13 +426,14 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 - **觸發**：2026-04 起反覆浮現 → [DIARY §反覆出現的思考](DIARY.md#反覆出現的思考跨日記萃取)
 - **操作**：思考反覆 ≥ 3 次 → 升 canonical（dashboard 欄位 / cron / pre-commit hook / pipeline gate），不只記 memory/diary
-- **驗證**：14 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
+- **驗證**：15 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
   - #8（2026-04-18 δ-late）工具包升級 canonical 邊界重審 → SENSES v2 + REFLEXES #26 v2
   - #9（2026-04-18 ζ）觀察者 scaffolding 三句 → HEARTBEAT Beat 1 §0b + SPORE-LOG schema + HARVEST-PIPELINE 誕生
   - #10（2026-04-30 δ）批次任務 antipattern → TRANSLATION-PIPELINE v3.2 §平行 sub-agent SOP
   - #11（2026-05-08 intelligent-khayyam）Pipeline 結構層 meta-instance → [EVOLVE-PIPELINE Mode 3 7-stage SOP](../pipelines/EVOLVE-PIPELINE.md)
   - #12（2026-06-19 inbox-distill）Intake-buffer 完成歸檔靠自律會漂移 → `inbox-audit.py` 深查 + `inbox-signal.sh` ghost line boot 訊號雙工具（手動 distill ARTICLE-INBOX 95 entry 才發現 16 幽靈，事後儀器化）— 「完成歸檔鐵律」這條 memory 級自律首次有結構閘門
   - #13（2026-09-06 twmd-distill-weekly，源 LESSONS `deferred-fix-lands-on-recurrence-not-on-reading`，vc=2）handoff 層變體——把一個已分析清楚、下一步都寫好的修補留成 handoff，等於把執行時機交給「下一輪剛好有人覺得該做」；真正觸發它的通常不是甦醒時讀到那條 handoff（保證會讀到），是同一個缺口再次親手絆到當班一次。`FEEDBACK-TRIAGE-PIPELINE` HG13「讀完全文才准動手」缺入口的 handoff 連續三個 cycle 被讀到卻沒人動手，直到第四次在同一行輸出前停下才補上 `--show`。**memory 是自律，canonical SOP 才是閘門**在 handoff 這一層的具體形狀：handoff 傳遞了資訊，沒有傳遞急迫性。~~候選機械化：收官時若發現本輪兌現的是上一輪自己寫的 handoff，記一筆兌現延遲輪數，讓「handoff 平均要幾輪才被做掉」變成看得見的數字~~ → **已儀器化（2026-09-20 self-evolve，#14）**：[`scripts/tools/handoff-latency.py`](../../scripts/tools/handoff-latency.py) 對 memory §Handoff 做兩層追蹤（字面 2-gram 聚類＋穩定參照 issue／OBSERVER-QUEUE #N／EXP／LESSONS slug），週體檢 dossier §八之二 印表。首跑（近 45 天）：306 班 2,292 條交接行，可追參照 203 件——已收掉的 55 件中位當天收掉，仍開放的 77 件裡 16 件跨 ≥14 天，OBSERVER-QUEUE #28 被 71 班原樣帶了 31 天。分佈是雙峰：做得掉的當天做掉，做不掉的不是缺資訊，是缺一個沒人授權的決定（09-19 spore-harvest「handoff 傳得動動作、傳不動決定」的數字版）。配套：MEMORY-PIPELINE §Handoff 立「交接項要帶穩定參照」。這條的觸發鏈四班獨立寫到同一句（09-10 feedback-triage「三個修法都是絆到第二次才落地」／09-13 weekly-report「決定被七個人準確地交給下一個人」／09-19 spore-harvest／09-20 news-lens「登記不是進度」）
+  - #15（2026-09-27 self-evolve-weekly，四條同週點名給本 routine 的交接，三條 vc≥3）intake 層的時效變體——探測器的建議登記進 ARTICLE-INBOX 後，INBOX 只有優先序沒有期限，過期切角跟常青題躺同一層（DIARY「里程碑≠兌現」vc=3：09-20 七條登記原地、09-27 李灝宇與拔河窗口無人決定地關掉）→ `Angle-expires` 欄＋`inbox-audit.py --angles`＋`inbox-signal.sh` ⌛ 行＋EVOLVE §news-lens-probe-output Step 7/8 hard gate（`25363705f`）。同班另三件把「寫了但沒接上」的東西接上：#100 未落地的 `prettier-url-stability` 檢查（`6c70b17f1`）、#100 (e) 索引殘影清理進 `verify-commit-scope.sh --head`（`9842dc4e6`）、news-lens CF per-path 缺口 vc=6（同一支查詢一直有 path 維度，只是聚合時丟了，`6b0d39249`）。四件的共同形狀：儀器缺的不是資料，是最後一段聚合或接線，缺口被記錄了六週都沒人回頭看那支查詢自己回傳了什麼
 - **元規則**：pipeline 自身會 silent inflate，需 meta-pipeline 維護 — 這是 #15 對 pipeline 結構層的 self-apply
 
 **#32 批次任務 antipattern：分散探索 → 集中預處理 + 分散執行** — 平行 N 個 sub-agent 跑同一份 prompt 處理同類任務 = 重複工作 ×N 且不累積。正確設計：主 session 預處理一次（產 batch manifest 寫死 slug / target map / placeholder 模板），sub-agent 只負責執行。
@@ -1197,7 +1198,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **四個載體（2026-08-10 → 09-27，六週、三條 routine）**：(1) 產生器寫雙引號、prettier 改單引號，索引留著改寫前的 blob，同一個 session 第二次 commit 時範圍閘門喊「疑似跨 session 污染」（08-10 feedback-triage；09-24 data-refresh-am 與 embeddings 同一早兩班、09-25 再一次，pathspec 收官後 14 檔 `MM`）；(2) 斜體圖說裡的網址帶底線，prettier 把底線改成星號，角括號跳脫救不了，壞的是外層那層斜體（09-07 首見、09-23 量完母稿三篇、09-27 譯文層十二份）；(3) dispatcher 驗證前對譯文跑 prettier、母稿卻是 commit 當時的樣子，四篇 prettier 不穩定母稿的每一份譯文都被判「網址改寫」，失敗記到模型頭上（09-24、09-25 三語三模型）；委派層交件時十四道閘全綠，commit 時 prettier 把腳註 74、75 折進 73（09-24）；(4) MAINTAINER 指名 `--profile=ci-deploy` 必帶，commit 實際跑的是 `--profile=pre-commit`，九檔在前者 hard=0、其中一篇在後者 hard=1（09-23）。
 - **規則**：(a) 驗收量「會被寫進 git 的那一份」：交件前自檢的閘門清單，最後一道固定是 commit 會跑的那把格式化器（`prettier --check`）；(b) 比較型檢查（網址、腳註數、章節數）兩側過同一個正規化，或兩側都不過；(c) 指名某一把 profile 的 SOP 要寫出 commit 真正跑的那一把，或直接跑 `--staged --profile=pre-commit` 模擬 commit 閘門；(d) 修一個會被改寫的形狀時，改加害者所在的那一層（把出處移出斜體），在被害者身上加跳脫沒有用；(e) 用 pathspec 收官的 routine，commit 之後把「工作樹等於 HEAD」的路徑 reset 出索引，不留改寫前的 blob 給下一個 commit。
 - **跟鄰居的差別**：#82 講訊號量了效果的替身，本條指出替身最常見的一個來源：同一條 commit 路徑上的同一份檔案。#92 講兩個產物各自演化、中間缺對賬，本條的兩個版本相隔不到一秒，而且每次 commit 都重新分岔一次。#24 形式 10 講格式化器越權改載荷（壞的是內容），本條講驗收量錯了版本（壞的是結論）。#99 講驗不到先懷疑尺，本條指出尺最常站錯在哪一側。
-- **已落地**：`verify-translation.extract_urls` 兩側對稱還原反斜線跳脫（`aaac94be2`、`dd695c1b7`）；委派派工單閘門清單補第 15 道 `prettier --check`（`fea28f87d`）；三篇母稿與十二份譯文的出處行移出斜體（09-23、`e64212f17`）；MAINTAINER §Step 3.5 改寫成兩把 profile（2026-09-27 同 commit）。**未落地**：article-health plugin「對每檔跑一次 prettier、比網址出現次數，差異即 hard」（MANIFESTO §14 高儀器化）；pathspec 收官後 reset 索引的小工具。
+- **已落地**：`verify-translation.extract_urls` 兩側對稱還原反斜線跳脫（`aaac94be2`、`dd695c1b7`）；委派派工單閘門清單補第 15 道 `prettier --check`（`fea28f87d`）；三篇母稿與十二份譯文的出處行移出斜體（09-23、`e64212f17`）；MAINTAINER §Step 3.5 改寫成兩把 profile（2026-09-27 同 commit）。~~**未落地**：article-health plugin「對每檔跑一次 prettier、比網址出現次數，差異即 hard」（MANIFESTO §14 高儀器化）；pathspec 收官後 reset 索引的小工具。~~ → **2026-09-27 self-evolve-weekly 兩件都落地**：`prettier-url-stability` plugin（常駐 node 行程、格式化到不動點再比網址多重集合；pre-commit 與單檔檢查開、全站 profile 關；首跑抓到舊啟發式認不出的五份，`6c70b17f1`）；`verify-commit-scope.sh --head` 順手把「工作樹 == HEAD 而索引 != HEAD」的本 commit 檔 reset 回 HEAD（`9842dc4e6`）。新增的第五個載體：prettier 對 `*…*` 斜體不冪等，第一趟換成 `_…_`、第二趟才改壞網址，只量一趟的驗收會放過「下一次有人碰」的那份（zh〈阿里山林業鐵路〉〈台灣蘭花〉現在就是這個狀態）。
 - **相關**：#82／#92／#24 形式 10／#99／#83（profile 變體屬本條 (c)）／MEMORY §神經迴路「格式化器與檢查器對同一份檔案的判斷相反」（2026-09-07，本條在 Taiwan.md 的現場）
 
 **#101 修補範圍照根因的類別畫，不照症狀現形的位置畫（fix-scope-follows-symptom-not-root-class）**（2026-09-27 twmd-distill-weekly 升 canonical，同型五次＋一次同檔版，severity=structural；源 LESSONS `fix-scope-follows-symptom-not-root-class`（底層鏈 08-08／08-13／08-14／08-16／09-05），subsume `silent-abort-in-the-path-that-only-runs-when-it-matters`（08-27，家族第 5 次））— 追到真根因、也真的修好了，隔幾天同一道閘門又擋下同一批人，因為修補的範圍照著那天症狀現形的位置長，沒有照著根因所屬的類別長。根因是「某一類規則沒有對應的文件或閘門」時，只修現形的那一條，其餘同類留在原地等下一次現形。每次都是真修，每次都不夠寬；而真修會帶來「這件事處理過了」的感覺，讓人不再往旁邊看。
@@ -1210,6 +1211,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 ---
 
+_v5.38 | 2026-09-27 twmd-self-evolve-weekly — 零新編號：#15 第 15 次驗證（ARTICLE-INBOX 切角期限儀器化，DIARY「里程碑≠兌現」vc=3）；#100 兩件未落地項落地（prettier-url-stability plugin＋verify-commit-scope 索引殘影清理），並補第五載體「prettier 斜體不冪等，只量一趟會放過下一次」。_
 _v5.37 | 2026-09-27 twmd-distill-weekly — 加 #100 驗證對象要等於落地對象（四條同族 entry 合併：measured-copy vc=3＋formatter-vs-generator vc=4＋italic-span vc=2＋prescribed-profile vc=1）+ #101 修補範圍照根因的類別畫（fix-scope 同型五次＋silent-abort 同檔版）；零新編號 fold 十一處：#38 (d) 第三種根因＋metadata-stale 蓋住兩種處置 / #56 v10 守門工具掃描範圍第四次落後＋v11 快照續行漏修正 / #65 v12 正例跟規則同作者 / #67 全站閘門量腳下那棵樹 / #68 穩態稅＋commit 階段鏡像 / #82 動作謂詞閘門＋provenance 對得上就永遠 fresh / #83 一個轉換住在三條引擎裡 / #91 刪除與登記 / #92 文件描述的世界與檔案系統＋兩條歸檔 / #97 收件席位動不了手＋狀態標籤反向 / #99 (f) 修復器負對照。源 LESSONS 30 條。_
 _v5.36 | 2026-09-20 twmd-self-evolve-weekly — #15 第 14 次驗證：handoff 交接延遲儀器化（`handoff-latency.py` 兩層追蹤＋MEMORY-PIPELINE 穩定參照＋weekly dossier §八之二）；#91 第六次：免疫 `external_rulers` 來源登記沒跟上 FACTCHECK v2 落檔位置，最被外部量的一週印出歷史最低（14→29 篇、1.2→2.6）；#99 加變體 (e)「報告裡的悖論句是尺壞掉的訊號」。零新編號。_
 _v5.35 | 2026-09-20 twmd-distill-weekly — 加 #97 交接面完整性（vc=5 同 routine 五載體，subsume `mandatory-read-step-has-no-tool`）+ #98 真原子放錯槽位（vc=3：人名對角色錯／數字對年份錯／事件對場次錯，同 commit 補 FACTCHECK Phase 4「命中不等於支持」但書）+ #99 尺先驗再用（vc=5＋1＋1：檢查器站錯位置五例＋新偵測器 1,938 處抽驗只有 4 筆真＋臨時尺無 selftest）；零新編號 fold 十三處：#24 形式 14（旗子對說明錯）＋形式 4 極值窗口變體 / #38 (h) 聚合單位≠決策單位＋(f) 執行緒層＋佇列 missing 混兩態 / #41 (b) 鄰居負載 / #56 v9 兩份 canonical 先漂新閘只 WARN / #57 第三層跨機器認領 / #67 修補自己踩進過期快照的洞 / #68 認知層佇列分岔 / #69 (h) 機械可檢的外部尺格子 / #73 (f) 條文列 N 種對象只跑一種 / #75 (g) 圖說層看圖＋(h) 版型推論 / #82 程式碼存在≠需要時會跑＋對外缺口是替身 / #83 一把尺校準給一組語言 / #96 第三 instance 註解不傳話。源 LESSONS 26 條（含 4 條擱在檔尾的漂移條目）。_
