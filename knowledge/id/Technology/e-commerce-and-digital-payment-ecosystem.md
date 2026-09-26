@@ -1,6 +1,6 @@
 ---
 title: 'E-Commerce dan Pembayaran Digital Taiwan: Tiga Perang Dagang di Satu Pulau'
-description: 'Dari taruhan pengiriman 24 jam Chien Hung-chih hingga perang subsidi 30 miliar Shopee, hingga serangan roket Coupang — dua puluh tahun e-commerce Taiwan adalah sejarah siklus "inovasi lokal digoyangkan asing, lalu digoyangkan asing berikutnya".'
+description: 'Dari taruhan pengiriman 24 jam Jan Hung-tze hingga perang subsidi 30 miliar Shopee, hingga serangan roket Coupang — dua puluh tahun e-commerce Taiwan adalah sejarah siklus "inovasi lokal digoyangkan asing, lalu digoyangkan asing berikutnya".'
 date: 2026-04-06
 category: 'Technology'
 tags:
@@ -30,7 +30,7 @@ translatedAt: '2026-09-22T20:04:39.738296+00:00'
 
 # E-Commerce dan Pembayaran Digital Taiwan: Tiga Perang Dagang di Satu Pulau
 
-> **Ringkasan 30 Detik:** Tahun 2007, Chien Hung-chih bertaruh pada "pengiriman 24 jam ke seluruh Taiwan", saham PChome melonjak hingga 537 dolar Taiwan. Delapan tahun kemudian, Shopee masuk dari Singapura dengan subsidi 30 miliar, PChome mulai runtuh. Sepuluh tahun lagi, Coupang Korea Selatan datang dengan pengiriman roket yang lebih kejam. Sementara itu, dompet rakyat Taiwan diam-diam hilang — pengguna pembayaran digital tembus 34 juta, hingga warung oyster omelet di pasar malam semuanya menempelkan kode QR. Setiap perang dagang di pulau ini, menulis ulang cara orang belanja dan bayar.
+> **Ringkasan 30 Detik:** Tahun 2007, Jan Hung-tze bertaruh pada "pengiriman 24 jam ke seluruh Taiwan", saham PChome melonjak hingga 537 dolar Taiwan. Delapan tahun kemudian, Shopee masuk dari Singapura dengan subsidi 30 miliar, PChome mulai runtuh. Sepuluh tahun lagi, Coupang Korea Selatan datang dengan pengiriman roket yang lebih kejam. Sementara itu, dompet rakyat Taiwan diam-diam hilang — pengguna pembayaran digital tembus 34 juta, hingga warung oyster omelet di pasar malam semuanya menempelkan kode QR. Setiap perang dagang di pulau ini, menulis ulang cara orang belanja dan bayar.
 
 ---
 
@@ -38,7 +38,7 @@ translatedAt: '2026-09-22T20:04:39.738296+00:00'
 
 Tahun 2007, standar belanja online Taiwan adalah: pesan, tunggu tiga sampai tujuh hari, terima barang. Konsumen sudah terbiasa.
 
-Chien Hung-chih (詹宏志) tidak percaya pada alur itu. Ia lahir dari dunia penerbitan, mendirikan PChome Online pada 1996, dari majalah online ke e-commerce. Saat PChome Online Shopping diluncurkan 2000, e-commerce Taiwan masih pakai "mode serah order" — web terima pesan, supplier kirim barang, di tengah tidak ada yang urus logistik. Chien melihat masalah sederhana: kamu tidak bisa kontrol gudang orang lain, berarti tidak bisa kontrol kecepatan.[^1]
+Jan Hung-tze (詹宏志) tidak percaya pada alur itu. Ia lahir dari dunia penerbitan, mendirikan PChome Online pada 1996, dari majalah online ke e-commerce. Saat PChome Online Shopping diluncurkan 2000, e-commerce Taiwan masih pakai "mode serah order" — web terima pesan, supplier kirim barang, di tengah tidak ada yang urus logistik. Chien melihat masalah sederhana: kamu tidak bisa kontrol gudang orang lain, berarti tidak bisa kontrol kecepatan.[^1]
 
 Maka ia ambil keputusan yang saat itu terlihat gila: bangun gudang sendiri, jamin pengiriman 24 jam ke seluruh Taiwan. Bukan "maksimal upaya", tapi "jaminan" — telat bayar. Demi itu, PChome riset sendiri sistem manajemen barang, bangun pusat logistik, dari stok sampai kirim semuanya in-house.[^2]
 
@@ -56,7 +56,7 @@ Komunitas e-commerce Taiwan awalnya tidak peduli. Gratis ongkir? Tidak akan taha
 
 Mereka meremehkan kedalaman kantong Sea Group. Subsidi Shopee bukan tes air, tapi banjir total. Estimasi kasar, perang ini Shopee bakar lebih 30 miliar dolar Taiwan. Bukan untuk untung, tapi ubah perilaku konsumen — jadikan "gratis ongkir" dari kejutan jadi ekspektasi, bikin platform tanpa gratis ongkir kayak ngutang pajak.[^4]
 
-Chien Hung-chih baru paham logika itu Januari 2017. Ia nanti di seminar mengakui: "Aku mikir-mikir, ternyata tidak ada pertahanan, cuma serangan. Karena menyerang, itulah posisi lebih baik dari bertahan."[^5]
+Jan Hung-tze baru paham logika itu Januari 2017. Ia nanti di seminar mengakui: "Aku mikir-mikir, ternyata tidak ada pertahanan, cuma serangan. Karena menyerang, itulah posisi lebih baik dari bertahan."[^5]
 
 Tapi serangan PChome terlambat. Shopee pakai antarmuka bergaya game tangkap pengguna muda, fitur obrolan bikin pembeli-penjual bicara real-time, live commerce ciptakan pengalaman belanja hiburan. Itu bukan keahlian PChome. Chien sendiri akui: "Aku terlambat sadar kekuatan modal."[^6]
 
@@ -88,7 +88,7 @@ Maret 2026, Coupang di Taoyuan aktifkan pusat logistik keempat, Rocket Delivery 
 Kuartal ketiga 2025, laporan keuangan Sea Group tunjukan pendapatan pasar internasional (termasuk Taiwan) capai 1,287 miliar dolar AS, naik 32% year-on-year, tapi pertumbuhan Coupang di Taiwan tiga digit.[^11] Kim Bom-seok di rapat keuangan bilang, pola perilaku konsumen Taiwan "sangat mirip dengan lintasan awal pengembangan ritel Korea". Bahasa kerennya: di sini masih banyak daging yang bisa dimakan.
 
 > **💡 Tahukah Kamu**
-> Oktober 2024, Grup Uni-President (統一集團) umum masuk saham PChome, peroleh 30% saham, jadi pemegang saham korporasi terbesar. Dahulu raja ritel fisik, kini "mengakuisisi" mantan raja e-commerce. Chien Hung-chih di RUPS bilang: "Harga saham total ada yang mengembalikan sedikit keadilan bagi kami." Di balik kalimat itu, sembilan tahun anjlok dari 537 ke di bawah 100.
+> Oktober 2024, Grup Uni-President (統一集團) umum masuk saham PChome, peroleh 30% saham, jadi pemegang saham korporasi terbesar. Dahulu raja ritel fisik, kini "mengakuisisi" mantan raja e-commerce. Jan Hung-tze di RUPS bilang: "Harga saham total ada yang mengembalikan sedikit keadilan bagi kami." Di balik kalimat itu, sembilan tahun anjlok dari 537 ke di bawah 100.
 
 ---
 
@@ -142,15 +142,15 @@ Perang bisnis di pulau ini tidak akan berhenti. Setiap kode QR baru, setiap pusa
 
 [^1]: [Perjalanan Kewirausahaan PChome Online (Kementerian Ekonomi, Dinas UKM)](https://service.moea.gov.tw/EE514/tw/niia/290-3978.html) — Mencatat proses transformasi PChome dari majalah online ke e-commerce, termasuk latar belakang inovasi gudang mandiri dan pengiriman 24 jam.
 
-[^2]: [CEO PChome Cai Kai-wen Mundur, Chien Hung-chih Sementara Gantikan (Digital Era, 2022)](https://www.bnext.com.tw/article/65974/pchome-story) — Menelusuri sejarah pertumbuhan PChome, termasuk cerita internal bagaimana melewati masa "napas saja rugi".
+[^2]: [CEO PChome Cai Kai-wen Mundur, Jan Hung-tze Sementara Gantikan (Digital Era, 2022)](https://www.bnext.com.tw/article/65974/pchome-story) — Menelusuri sejarah pertumbuhan PChome, termasuk cerita internal bagaimana melewati masa "napas saja rugi".
 
 [^3]: [Harga Saham Wangjia Tertinggi 537, Kini Air Mata Zaman (Business Weekly, 2024)](https://www.businesstoday.com.tw/article/category/183016/post/202410250009/) — Menganalisis proses kemunduran sepuluh tahun PChome dari puncak 2015 ke 2024, mengurai faktor-faktor yang menimpa Wangjia.
 
 [^4]: [Analisis Strategi Subsidi Shopee Shopping (Island Read, 2017)](https://daodu.tech/09-28-2017-shopee-subsidy-strategy-and-pchome-transformation-dilemma) — Mengupas dalam logika strategi Shopee mengubah perilaku konsumen lewat subsidi, serta dilemma transformasi PChome.
 
-[^5]: [「Pasca 30 Miliar — Tentang Subsidi dan Perang Shopee」 Chien Hung-chih Pertama Kali Ungkap Strategi Balas (Manager Today, 2018)](https://www.managertoday.com.tw/articles/view/56213) — Rekaman pidato Chien Hung-chih pertama kali tanggapi perang dagang Shopee, termasuk kutipan asli "sama sekali tidak ada pertahanan".
+[^5]: [「Pasca 30 Miliar — Tentang Subsidi dan Perang Shopee」 Jan Hung-tze Pertama Kali Ungkap Strategi Balas (Manager Today, 2018)](https://www.managertoday.com.tw/articles/view/56213) — Rekaman pidato Jan Hung-tze pertama kali tanggapi perang dagang Shopee, termasuk kutipan asli "sama sekali tidak ada pertahanan".
 
-[^6]: [Chien Hung-chih: Aku Terlambat Sadar Kekuatan Modal (INSIDE, 2018)](https://www.inside.com.tw/article/13190-pchome-pk-shopee-2) — Wawancara terbuka Chien Hung-chih merefleksikan PChome ketinggalan dalam perang modal.
+[^6]: [Jan Hung-tze: Aku Terlambat Sadar Kekuatan Modal (INSIDE, 2018)](https://www.inside.com.tw/article/13190-pchome-pk-shopee-2) — Wawancara terbuka Jan Hung-tze merefleksikan PChome ketinggalan dalam perang modal.
 
 [^7]: [momo Bakar 14 Miliar Bangun Gudang Mandiri "Galaksi" (Digital Era, 2024)](https://www.bnext.com.tw/article/83374/momo-last-mile) — Rinci strategi tata letak momo bangun 50+ pusat logistik serta detail teknis.
 
