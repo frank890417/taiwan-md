@@ -99,7 +99,8 @@ staged_translations=$(git -c core.quotepath=false diff --cached --name-only --di
 if [ -n "$staged_translations" ]; then
   tf_fail=0
   for f in $staged_translations; do
-    [[ "$(basename "$f")" == _* ]] && continue
+    # case 而不是 [[ ]]：dash 沒有 [[，會印「[[: not found」並讓 _ 開頭的檔掉進下面的檢查
+    case "$(basename "$f")" in _*) continue ;; esac
     [ ! -f "$f" ] && continue
     # Check frontmatter for translatedFrom
     if ! awk '/^---$/{n++; next} n==1{print} n>=2{exit}' "$f" | grep -q '^translatedFrom:'; then
@@ -255,7 +256,11 @@ if [ -n "$staged_for_scope" ]; then
       *" $d "*) ;;
       *) domains_touched="$domains_touched $d" ;;
     esac
-  done <<< "$staged_for_scope"
+  # heredoc 而不是 `<<<`：husky 用 `sh -e` 跑 hook，Debian/Ubuntu 的 sh 是 dash，
+  # 不認 bash 的 here-string，整個 pre-commit 會在這一行以語法錯誤結束。
+  done <<SCOPE_EOF
+$staged_for_scope
+SCOPE_EOF
 
   # 排除 build-output 後算 domain 數
   non_auto=$(echo "$domains_touched" | tr ' ' '\n' | grep -v '^$' | grep -v '^build-output$' | sort -u)
