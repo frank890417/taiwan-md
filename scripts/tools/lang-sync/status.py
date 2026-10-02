@@ -33,6 +33,12 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+# --list / --json 會印出路徑跟標題；接 pipe 時 Windows 的 Python 走 cp950，
+# 碰到 cp950 沒有的字（瘂弦、傅崐萁、李晧禎⋯⋯）直接拋例外。
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
 STATUS_JSON = KNOWLEDGE / "_translation-status.json"
@@ -73,7 +79,8 @@ def parse_frontmatter(content: str) -> dict:
 def git(*args: str, cwd: Path = REPO) -> str:
     try:
         out = subprocess.run(
-            ["git", *args], cwd=cwd, capture_output=True, text=True, check=False
+            ["git", *args], cwd=cwd, capture_output=True, text=True,
+            encoding="utf-8", check=False
         )
         return out.stdout.strip()
     except Exception:

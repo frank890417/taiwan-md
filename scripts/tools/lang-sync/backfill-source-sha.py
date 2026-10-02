@@ -216,7 +216,7 @@ def main():
     if not args.lang and not args.files:
         ap.error("需要 --lang 或 --files 其中之一")
 
-    data = json.load(open(STATUS_JSON))
+    data = json.load(open(STATUS_JSON, encoding="utf-8"))
     by_article = data["byArticle"]
 
     if args.files:

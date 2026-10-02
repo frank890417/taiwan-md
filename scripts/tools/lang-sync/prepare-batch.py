@@ -113,7 +113,7 @@ def lookup_wikilink_target(target_zh, en_translations_idx):
 def get_top_stale_missing(lang, top, skip_paths=None):
     """Auto-fetch top N stale+missing articles by zh.lastModified desc."""
     skip = set(skip_paths or [])
-    data = json.load(open(KNOWLEDGE / "_translation-status.json"))
+    data = json.load(open(KNOWLEDGE / "_translation-status.json", encoding="utf-8"))
     arts = data["byArticle"]
     candidates = []
     for path, info in arts.items():
@@ -165,9 +165,9 @@ def main():
 
     # Step 1: get article list
     if args.input:
-        zh_paths = [line.strip() for line in open(args.input) if line.strip()]
+        zh_paths = [line.strip() for line in open(args.input, encoding="utf-8") if line.strip()]
         # need to look up status for each
-        data = json.load(open(KNOWLEDGE / "_translation-status.json"))
+        data = json.load(open(KNOWLEDGE / "_translation-status.json", encoding="utf-8"))
         arts = data["byArticle"]
         candidates = []
         for p in zh_paths:
@@ -188,10 +188,10 @@ def main():
         sys.exit(1)
 
     # Step 2: load slug map if provided
-    slug_map = json.load(open(args.slug_map)) if args.slug_map else {}
+    slug_map = json.load(open(args.slug_map, encoding="utf-8")) if args.slug_map else {}
 
     # Step 3: build en translations index for wikilink lookup
-    trans_data = json.load(open(KNOWLEDGE / "_translations.json"))
+    trans_data = json.load(open(KNOWLEDGE / "_translations.json", encoding="utf-8"))
     zh_to_en = {}
     for en_p, zh_p in trans_data.items():
         if en_p.startswith(f"{args.lang}/"):
@@ -293,14 +293,14 @@ def main():
         "model_recommendation": "sonnet",
         "articles": manifest_articles,
     }
-    with open(out_dir / "_batch-manifest.json", "w") as f:
+    with open(out_dir / "_batch-manifest.json", "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
 
     written = {}
     for i, g in enumerate(groups):
         letter = _group_label(i)
         path = out_dir / f"_group-{letter}.json"
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:
             json.dump({"agent": letter, "articles": g}, f, ensure_ascii=False, indent=2)
         written[letter] = len(g)
 
@@ -312,7 +312,7 @@ def main():
     # 寫成功，改成回頭數檔案裡的實際篇數跟 manifest 對帳。
     landed = 0
     for letter in written:
-        with open(out_dir / f"_group-{letter}.json") as f:
+        with open(out_dir / f"_group-{letter}.json", encoding="utf-8") as f:
             landed += len(json.load(f)["articles"])
     if landed != len(manifest_articles):
         raise SystemExit(

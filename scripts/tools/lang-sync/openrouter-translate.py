@@ -481,7 +481,7 @@ def run_orthogonal(zh_path, langs, model, api_key, dry_run, task_root):
         if not manifest_path.exists():
             results[lang] = (False, f"no manifest at {manifest_path}")
             continue
-        manifest = json.load(open(manifest_path))
+        manifest = json.load(open(manifest_path, encoding="utf-8"))
         article = next(
             (a for a in manifest["articles"] if a["zh_path"] == zh_path), None
         )
@@ -537,16 +537,16 @@ def main():
 
     # Load articles
     if args.group:
-        data = json.load(open(args.group))
+        data = json.load(open(args.group, encoding="utf-8"))
         articles = data["articles"]
         # Lang from parent manifest
         manifest_path = Path(args.group).parent / "_batch-manifest.json"
         if manifest_path.exists():
-            lang = json.load(open(manifest_path))["lang"]
+            lang = json.load(open(manifest_path, encoding="utf-8"))["lang"]
         else:
             lang = args.lang or "en"
     elif args.manifest:
-        manifest = json.load(open(args.manifest))
+        manifest = json.load(open(args.manifest, encoding="utf-8"))
         lang = manifest["lang"]
         if args.zh_path:
             articles = [a for a in manifest["articles"] if a["zh_path"] == args.zh_path]

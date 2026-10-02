@@ -47,7 +47,7 @@ pb = load('prepare_mod', 'prepare-batch.py')
 def build_zh_to_lang_index(lang: str) -> dict:
     """比照 `prepare-batch.py` Step 3：從 `_translations.json` 組 zh→{lang} 索引，
     供 `build_wikilink_targets()` 查 wikilink target 用。"""
-    trans_data = json.load(open(REPO / 'knowledge' / '_translations.json'))
+    trans_data = json.load(open(REPO / 'knowledge' / '_translations.json', encoding="utf-8"))
     zh_to_lang: dict = {}
     for lang_path, zh_path in trans_data.items():
         if lang_path.startswith(f'{lang}/') and zh_path not in zh_to_lang:

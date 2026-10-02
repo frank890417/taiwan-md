@@ -405,7 +405,7 @@ def main():
     if ratio_tool.exists():
         r = subprocess.run(
             ["bash", str(ratio_tool), _repo_rel(en_full)],
-            capture_output=True, text=True,
+            capture_output=True, text=True, encoding="utf-8",
         )
         # Parse the verdict out of THIS file's own table row, not out of the
         # whole stdout blob. Two reasons, both found live on 2026-08-09 when
@@ -599,7 +599,7 @@ def main():
             try:
                 head_txt = subprocess.run(
                     ["git", "-C", str(REPO), "show", f"HEAD:{en_path}"],
-                    capture_output=True, text=True, timeout=10).stdout
+                    capture_output=True, text=True, encoding="utf-8", timeout=10).stdout
                 head_fm, _ = parse_fm(head_txt) if head_txt else ({}, "")
                 head_tags = parse_tag_list(head_fm.get("tags", ""))
                 head_overlap = [t for t in head_tags if t and t in zh_tag_list]
@@ -651,7 +651,7 @@ def main():
         try:
             head_txt = subprocess.run(
                 ["git", "-C", str(REPO), "show", f"HEAD:{en_path}"],
-                capture_output=True, text=True, timeout=10).stdout
+                capture_output=True, text=True, encoding="utf-8", timeout=10).stdout
             if head_txt:
                 head_fm, _ = parse_fm(head_txt)
                 preexisting = [k for k in dropped if k not in head_fm]

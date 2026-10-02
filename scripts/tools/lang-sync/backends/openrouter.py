@@ -259,12 +259,12 @@ def _load_all_keys():
     if KEY_ROTATION_DIR.exists() and KEY_ROTATION_DIR.is_dir():
         for f in sorted(KEY_ROTATION_DIR.iterdir()):
             if f.is_file() and f.suffix == ".key" and not f.name.startswith("."):
-                key = f.read_text().strip()
+                key = f.read_text(encoding="utf-8").strip()
                 if key and _valid(key):
                     yield (f.name, key)
                 elif key:
                     print(f"⚠️  openrouter key file {f.name} 內容不是合法 key token，略過", file=sys.stderr)
     if KEY_FILE.exists():
-        key = KEY_FILE.read_text().strip()
+        key = KEY_FILE.read_text(encoding="utf-8").strip()
         if key and _valid(key):
             yield ("default", key)
