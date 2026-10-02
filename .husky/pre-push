@@ -156,15 +156,18 @@ elif command -v gh >/dev/null 2>&1; then
   # 近五次成功中位 2,348s（Build 一步就 34 分鐘），於是第 4–15 分鐘的每次 push 白等 120 秒、
   # 最後照樣取消它，真正快跑完的第 37–40 分鐘反而直接取消。現在只在「剩下的時間 ≤ MAXWAIT」
   # 時才等；等不到的就直接 push。latest-wins 取消策略（哲宇選的）不變。
+  # || true 不可省（同上面 2b 那條）：gh 有裝但沒登入（exit 4）、被限速或 API 出錯時，
+  # 賦值失敗會讓 sh -e 靜默結束整個 hook，push 被擋卻一行訊息都沒有。投稿者裝了 gh
+  # 但沒 gh auth login 是常態。
   TYPICAL="$(gh api "repos/{owner}/{repo}/actions/workflows/deploy.yml/runs?status=success&per_page=5" \
-    --jq '[.workflow_runs[] | ((.updated_at|fromdate) - (.run_started_at|fromdate))] | sort | .[(length/2|floor)] | floor' 2>/dev/null)"
+    --jq '[.workflow_runs[] | ((.updated_at|fromdate) - (.run_started_at|fromdate))] | sort | .[(length/2|floor)] | floor' 2>/dev/null || true)"
   case "$TYPICAL" in ''|*[!0-9]*) TYPICAL=350 ;; esac   # 查不到就用 06-14 的舊基準
   THRESH=$(( TYPICAL - MAXWAIT ))                     # 從這一刻起，等 MAXWAIT 有機會等到它完成
   [ "$THRESH" -lt 0 ] && THRESH=0
   WAIT_WINDOW=$(( TYPICAL + 600 ))                    # 超過典型時長十分鐘還沒完，不再當它快好了
   WAITED=0
   while :; do
-    started="$(gh run list --workflow=deploy.yml --status=in_progress --json startedAt -q '.[0].startedAt' 2>/dev/null)"
+    started="$(gh run list --workflow=deploy.yml --status=in_progress --json startedAt -q '.[0].startedAt' 2>/dev/null || true)"
     [ -z "$started" ] && break           # 無 in-flight deploy → 放行
     # -u 不可省：GitHub 回的 startedAt 是 UTC，但 macOS `date -j -f` 預設用「本機時區」
     # 解讀輸入（格式字串裡的 Z 是字面量，不是時區指示）。在 Asia/Taipei 會讓 epoch 少
