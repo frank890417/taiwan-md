@@ -79,7 +79,7 @@ def main() -> int:
                 out = subprocess.check_output(
                     ["git", "-c", "core.quotePath=false",
                      "diff", "--cached", "--name-only", "--diff-filter=ACM"],
-                    text=True,
+                    text=True, encoding="utf-8",
                 )
             except subprocess.CalledProcessError:
                 out = ""

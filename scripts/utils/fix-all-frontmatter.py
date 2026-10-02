@@ -1,6 +1,14 @@
 import os
 import re
 import glob
+import sys
+
+# sync.sh 用 `| tail -2` 接這支的輸出，又開了 pipefail。stdout 接 pipe 時
+# Windows 的 Python 走系統編碼（繁中 locale 是 cp950），印 ✅ 就拋例外，
+# sync.sh 跟著失敗——postinstall、dev、prebuild 都會在這一步停下來。
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
 
 def extract_title_from_content(content):
     """從內容中提取標題"""

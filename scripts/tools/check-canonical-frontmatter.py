@@ -190,7 +190,7 @@ def check_version_regression(filepath: Path) -> str | None:
     try:
         head_content = subprocess.run(
             ['git', 'show', f'HEAD:{rel.as_posix()}'],
-            capture_output=True, text=True, cwd=REPO_ROOT,
+            capture_output=True, text=True, encoding='utf-8', cwd=REPO_ROOT,
         )
     except Exception:
         return None
@@ -308,7 +308,10 @@ def get_staged_files() -> list[Path]:
         result = subprocess.run(
             ['git', '-c', 'core.quotePath=false',
              'diff', '--cached', '--name-only', '--diff-filter=ACM'],
-            capture_output=True, text=True, check=True, cwd=REPO_ROOT,
+            # quotePath=false 之後 git 吐的是 UTF-8 原始位元組；不指定 encoding 時
+            # text=True 走系統編碼（Windows 繁中 cp950），解中文檔名會拋例外，
+            # pre-commit 在這裡整個停下來——不只 canonical 文件，任何中文檔名都會。
+            capture_output=True, text=True, encoding='utf-8', check=True, cwd=REPO_ROOT,
         )
         return [REPO_ROOT / line for line in result.stdout.split('\n')
                 if line.strip().endswith('.md')]

@@ -23,6 +23,12 @@ import re
 import sys
 from pathlib import Path
 
+# 孤兒／--check 模式會印中文來源路徑；pre-push 用 pipe 接輸出，Windows 的 Python 這時
+# 走 cp950，碰到 cp950 沒有的字（瘂弦、傅崐萁⋯⋯）會拋例外。
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 REPO = Path(__file__).resolve().parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
 TRANSLATIONS = KNOWLEDGE / "_translations.json"

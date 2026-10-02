@@ -62,7 +62,9 @@ def _get_staged_md() -> list[Path]:
         out = subprocess.check_output(
             ["git", "-c", "core.quotePath=false",
              "diff", "--cached", "--name-only", "--diff-filter=ACMR"],
-            text=True,
+            # quotePath=false 讓 git 吐 UTF-8 原始位元組；不指定 encoding 時 text=True
+            # 走系統編碼，Windows 繁中是 cp950，解中文檔名直接拋 UnicodeDecodeError。
+            text=True, encoding="utf-8",
         )
     except subprocess.CalledProcessError:
         return []

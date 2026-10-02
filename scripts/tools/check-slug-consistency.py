@@ -76,7 +76,8 @@ def build_en_index():
 def _pr_files(pr: str):
     """投稿 PR 裡的譯文檔：(相對路徑, 內容) 清單。fetch 到 refs/twmd/prN，不 checkout。"""
     out = subprocess.run(["gh", "pr", "view", pr, "--json", "files", "-q", ".files[].path"],
-                         cwd=ROOT, capture_output=True, text=True, check=True).stdout
+                         cwd=ROOT, capture_output=True, text=True, encoding="utf-8",
+                         check=True).stdout
     ref = f"refs/twmd/pr{pr}"
     subprocess.run(["git", "fetch", "-q", "origin", f"pull/{pr}/head:{ref}", "-f"],
                    cwd=ROOT, check=True)
@@ -87,7 +88,7 @@ def _pr_files(pr: str):
         if rel.split("/")[1] not in PR_LANGS or Path(rel).name.startswith("_"):
             continue
         body = subprocess.run(["git", "show", f"{ref}:{rel}"], cwd=ROOT,
-                              capture_output=True, text=True).stdout
+                              capture_output=True, text=True, encoding="utf-8").stdout
         pairs.append((Path(rel), body))
     return pairs
 
@@ -168,7 +169,8 @@ def main():
         out = subprocess.run(
             ["git", "-c", "core.quotePath=false",
              "diff", "--cached", "--name-only", "--diff-filter=ACR"],
-            cwd=ROOT, capture_output=True, text=True).stdout
+            # quotePath=false 之後是 UTF-8 原始位元組，要明講，否則 Windows 走 cp950 解碼失敗
+            cwd=ROOT, capture_output=True, text=True, encoding="utf-8").stdout
         files = [ROOT / p for p in out.splitlines()
                  if p.startswith("knowledge/")
                  and p.split("/")[1] in CHECK_LANGS

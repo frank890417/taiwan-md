@@ -6,3 +6,8 @@ knowledge/_translations.json merge=union
 # Ensure shell scripts always keep LF endings on all platforms
 *.sh text eol=lf
 
+# Husky hooks have no extension, so the rule above misses them. With Git for
+# Windows' default core.autocrlf=true they get checked out as CRLF and `sh -e`
+# fails on the first `\r`, so every commit and push dies inside the hook.
+.husky/* text eol=lf
+

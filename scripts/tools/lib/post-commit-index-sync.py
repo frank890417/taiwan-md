@@ -26,8 +26,14 @@ import sys
 CHUNK = 400  # 一次交給 git 的路徑數，避免大批次 commit 撐爆參數長度
 
 
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
+
 def git(*args: str) -> subprocess.CompletedProcess:
-    return subprocess.run(["git", "-c", "core.quotepath=false", *args], capture_output=True, text=True)
+    # quotepath=false 讓路徑以 UTF-8 原始位元組輸出，解碼也要明講 UTF-8（Windows 預設 cp950）
+    return subprocess.run(["git", "-c", "core.quotepath=false", *args],
+                          capture_output=True, text=True, encoding="utf-8")
 
 
 def z(out: str) -> list[str]:
