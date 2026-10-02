@@ -14,6 +14,12 @@ NC='\033[0m' # No Color
 
 KNOWLEDGE_DIR="knowledge"
 
+# GNU sed（Linux）跟 BSD sed（macOS）的 -i 不相容：BSD 要 `-i ''`，GNU 會把 '' 當成
+# sed script、再把真正的 script 當成檔名（No such file or directory）。同 update-stats.sh。
+sed_inplace() {
+    if sed --version >/dev/null 2>&1; then sed -i "$@"; else sed -i '' "$@"; fi
+}
+
 # 使用說明
 usage() {
     echo -e "${BLUE}🏆 Taiwan.md Featured 文章管控工具${NC}"
@@ -45,7 +51,8 @@ list_featured() {
     grep -r "featured: true" "$KNOWLEDGE_DIR" | \
         sort | \
         while IFS=':' read -r file _; do
-            ((count++))
+            # 不用 ((count++))：set -e 底下它在 count 是 0 時回傳 1，list 印完標題就結束
+            count=$((count + 1))
             
             # 提取分類名稱
             local category=$(dirname "$file" | sed "s|$KNOWLEDGE_DIR/||" | sed 's|^en/||' | cut -d'/' -f1)
@@ -84,17 +91,17 @@ set_featured() {
     # 在 frontmatter 中加入 featured: true
     if grep -q "^---$" "$file_path"; then
         # 在第二個 --- 之前插入 featured: true
-        sed -i '' '/^---$/,/^---$/{
+        sed_inplace '/^---$/,/^---$/{
             /^---$/!{
                 /featured:/d
             }
         }' "$file_path"
-        
-        # 在第二個 --- 之前加入 featured: true
+
+        # 在第二個 --- 之前加入 featured: true。
+        # 舊版的 seen_first 在第二個 --- 才被設起來，於是插在第三個 --- 前——那是內文的
+        # 分隔線，或根本不存在（frontmatter 照樣沒有 featured，訊息卻印「已設定」）。
         awk '
-        /^---$/ && NR==1 { print; next }
-        /^---$/ && seen_first { print "featured: true"; print; next }
-        /^---$/ { seen_first=1; print; next }
+        /^---$/ { n++; if (n == 2) print "featured: true" }
         { print }
         ' "$file_path" > "${file_path}.tmp" && mv "${file_path}.tmp" "$file_path"
         
@@ -121,7 +128,7 @@ unset_featured() {
     fi
     
     # 移除 featured: true 行
-    sed -i '' '/^featured: true$/d' "$file_path"
+    sed_inplace '/^featured: true$/d' "$file_path"
     
     echo -e "${GREEN}✅ 已取消 featured: $file_path${NC}"
 }
