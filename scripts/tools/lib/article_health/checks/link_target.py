@@ -208,11 +208,37 @@ def _suggest_paths(canonical: str, valid: set[str], n: int = 3) -> list[tuple[st
     return [(c, SequenceMatcher(None, canonical, c).ratio()) for c in close]
 
 
+def _case_index(valid: set[str]) -> dict[str, str | None]:
+    """lowercased path → the one real path（兩個真實路徑只差大小寫時是 None，不猜）。
+
+    依附在 `_existing_link_targets()` 那個 set 上快取；`_reset_cache()` 換掉 set 時
+    這裡會跟著重算。
+    """
+    cached = getattr(_case_index, "_cache", None)
+    if cached is not None and cached[0] is valid:
+        return cached[1]
+    idx: dict[str, str | None] = {}
+    for p in valid:
+        k = p.lower()
+        idx[k] = None if k in idx else p
+    _case_index._cache = (valid, idx)  # type: ignore[attr-defined]
+    return idx
+
+
 def _resolve_path(path: str, valid: set[str]) -> tuple[str | None, list[tuple[str, float]], str]:
     """Resolve a raw link path against the valid set.
 
     Returns (resolved_path_or_None, suggestions, status) where status is one of:
-      ok | decode-ok | fuzzy-auto | missing
+      ok | case | decode-ok | fuzzy-auto | missing
+
+    `case`（2026-10-02）：目標存在，但連結的大小寫跟頁面不一樣——分類寫成
+    `/Society/颱風假`（頁面是 `/society/颱風假`），或 slug 寫成
+    `/technology/ai人工智慧產業`（檔名是 `AI人工智慧產業`）。macOS 檔案系統不分大小寫，
+    維護者本機預覽點得到；部署在 GitHub Pages（Linux，分大小寫）上是 404。
+    404-monitor 2026-09-30 就有 `/People/陳致中`、`/en/technology/Threads-in-Taiwan`
+    這類讀者實際撞到的紀錄。以前分類大小寫先被 `_canonicalize_path` 轉小寫才比對，
+    所以中文連結（沒有語言前綴、Phase 1 正則管不到）一律判 ok；slug 大小寫則掉進
+    fuzzy，相似度不到 0.90，只會給建議不會自動修。
     """
     # 1. raw (after strip trailing slash)
     raw = path.rstrip("/")
@@ -237,10 +263,19 @@ def _resolve_path(path: str, valid: set[str]) -> tuple[str | None, list[tuple[st
     for i, c in enumerate(ordered):
         if c in valid:
             if i == 0 and c == _canonicalize_path(raw) and "%" not in raw:
+                if c != raw:
+                    return c, [], "case"
                 return c, [], "ok"
             if "%" in raw or decoded != raw:
                 return c, [], "decode-ok"
             return c, [], "ok"
+
+    # 3b. slug 大小寫不同（分類已在上面正規化）：只在對得到唯一一個真實路徑時才算
+    idx = _case_index(valid)
+    for c in ordered:
+        hit = idx.get(c.lower())
+        if hit:
+            return hit, [], "case"
 
     # 4. fuzzy on the best canonical form (prefer decoded)
     probe = ordered[-1] if ordered else _canonicalize_path(decoded)
@@ -289,6 +324,25 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         line, col = _line_col(body, m.start())
 
         if status == "ok":
+            continue
+
+        if status == "case":
+            # WARN 而不是跟 Phase 1 一樣 HARD：2026-10-02 全庫還有 192 條（72 檔，多數在
+            # 譯文），升 HARD 會讓碰到這些檔的 babel／routine commit 在 pre-commit 卡住。
+            # 全庫用 --fix 清完之後可以跟 Phase 1 對齊成 HARD。
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=(
+                    f"link 路徑大小寫跟頁面不符：{path} → {resolved}"
+                    f"（macOS 本機點得到，部署到 GitHub Pages 會 404；--fix 可修）"
+                ),
+                line=line,
+                col=col,
+                snippet=_snippet(body, m.start(), m.end()),
+                fix_suggestion=resolved,
+                editorial_ref=EDITORIAL_REF,
+            )
             continue
 
         if status == "decode-ok":
@@ -377,7 +431,7 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
         if not _looks_like_article_path(path_stripped):
             return full
         resolved, _suggestions, status = _resolve_path(path_stripped, valid)
-        if status in ("decode-ok", "fuzzy-auto") and resolved:
+        if status in ("case", "decode-ok", "fuzzy-auto") and resolved:
             # Preserve trailing slash if original had one inside the capture
             # (capture excludes trailing slash already via rstrip in check;
             # keep path as resolved without trailing slash — site accepts both).
