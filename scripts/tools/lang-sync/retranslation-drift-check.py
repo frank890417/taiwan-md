@@ -185,9 +185,10 @@ def main() -> int:
     targets = list(args.paths)
     for z in args.zh:
         for lang in ALL_TRANSLATION_LANGS:
-            r = subprocess.run(["git", "grep", "-l", f"translatedFrom: '{z}'", "--", f"knowledge/{lang}/"],
-                               cwd=REPO, capture_output=True, text=True)
-            targets += [p for p in r.stdout.split() if p]
+            # -z：hub 檔名有空格（_Art Hub.md），用空白切會把路徑切斷
+            r = subprocess.run(["git", "grep", "-lz", f"translatedFrom: '{z}'", "--", f"knowledge/{lang}/"],
+                               cwd=REPO, capture_output=True, text=True, encoding="utf-8")
+            targets += [p for p in r.stdout.split("\0") if p]
     if not targets:
         ap.error("沒有要檢查的譯文")
     flagged = named = 0
