@@ -1,14 +1,14 @@
 ---
-title: 'Han Kuo-yu'
-description: 'The first directly-elected mayor in history to be recalled, he became the Speaker of the Legislative Yuan four years later. What kind of political trajectory is this?'
+title: 'Han Kuo-yu (韓國瑜)'
+description: 'El primer alcalde de una ciudad especial destituido mediante un referéndum en la historia, que cuatro años después se convirtió en presidente del Legislativo. ¿Cómo es este trayecto político?'
 date: 2026-04-11
 category: 'People'
 tags:
   [
-    'political figure',
+    'políticos',
     'Kuomintang',
-    'Speaker of the Legislative Yuan',
-    'Han Wave',
+    'presidente del Legislativo',
+    'Han-liu',
     'Kaohsiung',
     '2018',
     '2020',
@@ -31,175 +31,175 @@ sporeLinks:
     date: '2026-04-13'
     url: 'https://x.com/taiwandotmd/status/2043538858886017091'
 translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: ''
+sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
-translatedAt: '2026-06-10T16:45:00+00:00'
+translatedAt: '2026-10-11T01:05:43+08:00'
 ---
 
-# Han Kuo-yu
+# Han Kuo-yu (韓國瑜)
 
-## The Night of June 6, 2020
+## Aquella noche del 6 de junio de 2020
 
-At 7:25 PM on June 6, 2020, the Kaohsiung City Election Commission announced the vote count results. The number of votes in favor of recalling Han Kuo-yu was: **939,090 votes**, nearly twice the recall threshold of 570,000 votes. The number of votes against recall was 25,051. Before the vote counting was even finished, the outcome was no longer in doubt. [^1]
+A las 7:25 p. m. del 6 de junio de 2020, la Comisión Electoral de Kaohsiung anunció los resultados del escrutinio. Los votos a favor de destituir a Han Kuo-yu fueron **939.090**, casi el doble del umbral requerido de 570.000 votos. Los votos en contra fueron 25.051. Antes de que terminara el recuento, el resultado ya era inevitable. [^1]
 
-Han Kuo-yu, then 62 years old, became the **first directly-elected mayor in the constitutional history of the Republic of China (ROC) to be recalled**. His term as Mayor of Kaohsiung lasted **528 days**, making it the shortest term for a directly-elected mayor in history. [^2]
+Han Kuo-yu, de 62 años en aquel momento, se convirtió en **el primer alcalde de una ciudad especial destituido mediante referéndum en la historia constitucional de la República de China (Taiwán)**. Su mandato como alcalde de Kaohsiung fue de **528 días**, el periodo más corto para un alcalde de una ciudad especial en la historia. [^2]
 
-His political career seemed to end at that moment. In the January 2020 presidential election, he lost to Tsai Ing-wen by 2.65 million votes (5.52 million to 8.17 million). [^3] Five months later, he was recalled. Within those six months, he experienced a speed unprecedented for any political figure since Taiwan's democratization: Presidential candidate → Defeated → Mayor recalled.
+En ese instante, su carrera política parecía haber terminado. En las elecciones presidenciales de enero de 2020, perdió frente a Tsai Ing-wen, quien obtuvo 8,17 millones de votos, mientras que él alcanzó los 5,52 millones, con una diferencia de 2,65 millones de votos. [^3] Cinco meses después, fue destituido. En un lapso de seis meses, experimentó una velocidad de ascenso y caída que ningún otro político había vivido desde la democratización de Taiwán: candidato presidencial → derrota electoral → destitución como alcalde.
 
-But the story did not end.
+Pero la historia no terminó ahí.
 
-Four years later, on February 1, 2024, the same Han Kuo-yu took the oath of office as the **Speaker of the 11th Legislative Yuan** in the Legislative Yuan chamber. The highest position in the ROC legislature was held by a former mayor who had been recalled by 930,000 voters just four years prior.
+Cuatro años después, el 1 de febrero de 2024, ese mismo Han Kuo-yu juró ante el pleno del Legislativo su toma de posesión como **presidente de la 11.ª Legislatura**. El cargo más alto del parlamento de la República de China (Taiwán) fue ocupado por un exalcalde que, cuatro años atrás, había sido destituido por 930.000 votantes.
 
-Between 2020 and 2024, Han Kuo-yu did not participate in any new elections, nor did he win any new debates. The only thing he did was **wait**. He waited for the Democratic Progressive Party (DPP) to lose its absolute majority in the 2024 presidential election, waited for the Kuomintang (KMT) to become the largest party in the Legislative Yuan, and waited for Chu Li-lun to place him first on the party-list proportional representation slate. Then he returned.
+Entre 2020 y 2024, Han Kuo-yu no participó en ninguna nueva elección ni ganó ningún nuevo debate político. Solo hizo una cosa: **esperar**. Esperar a que el Partido Progresista Democrático (DPP) no lograra la mayoría absoluta en las elecciones presidenciales de 2024; esperar a que el Kuomintang (KMT) se convirtiera en la mayor fuerza del Legislativo; esperar a que Chu Li-lun lo colocara en el primer puesto de la lista de legisladores por representación proporcional. Y entonces, regresó.
 
-Between political death and political resurrection, there was only a party-list slate.
+Entre la ruina política y el renacimiento político solo hubo una lista de legisladores de lista cerrada.
 
-> **30-Second Overview**: Born in 1957 in Banqiao, Taipei, Han Kuo-yu is a second-generation immigrant from Henan Shangqiu. He graduated from the Military Academy's Special Class, the Department of English Literature at Soochow University, and the Graduate Institute of East Asian Studies at National Chengchi University. He served as a Legislator for the 2nd-4th terms and as Deputy Mayor of Zhonghe City, Taipei County. He fell into obscurity for three years after becoming General Manager of the Taipei Agricultural Wholesale Corporation (TAIWAN) in 2016. In 2018, he ran for Mayor of Kaohsiung on behalf of the KMT, igniting the "Han Wave" with slogans like "Kaohsiung, Get Rich," "Northern Drifters," and "Goods Go Out, People Come In," defeating his opponent by 150,000 votes. After becoming mayor in 2019, he announced his presidential bid four months later. In January 2020, he lost the presidential election by 2.65 million votes; in June 2020, he was recalled, becoming the first directly-elected mayor in constitutional history to be recalled. In 2024, he returned to the Legislative Yuan as the first candidate on the KMT's party-list slate and was elected Speaker of the Legislative Yuan on February 1.
+> **Resumen en 30 segundos**: Han Kuo-yu nació en 1957 en Banqiao, Taipéi; es de segunda generación de los _waishengren_ (personas que llegaron de China continental tras la guerra civil) con raíces en Shangqiu, Henan. Se formó en la Escuela de Oficiales del Ejército, en el Departamento de Inglés de la Universidad Soochow y en el Instituto de Estudios de Asia Oriental de la Universidad Nacional de Chengchi. Fue legislador durante las 2.ª, 3.ª y 4.ª legislaturas, y vicealcalde de la ciudad de Zhonghe, condado de Taipei. Tras tres años de silencio tras ser nombrado gerente general de la Compañía de Comercialización de Productos Agrícolas de Taipei (Beinong) en 2016, se presentó en 2018 como candidato del KMT a la alcaldía de Kaohsiung. Mediante eslóganes como "Kaohsiung generará grandes riquezas", "jóvenes migrantes al norte" y "las mercancías salen, la gente entra", desató el fenómeno "Han-liu" (ola Han), ganando por 150.000 votos. Cuatro meses después de ser elegido alcalde en 2019, anunció su candidatura presidencial; perdió las elecciones de enero de 2020 por 2,65 millones de votos y fue destituido el 6 de junio del mismo año, siendo el primer alcalde de una ciudad especial destituido en la historia constitucional. En 2024 regresó al Legislativo como el primer candidato de la lista cerrada del KMT y el 1 de febrero fue elegido presidente del Legislativo.
 
-## From Banqiao, Taipei to the Advance Base in Kaohsiung
+## De Banqiao, Taipéi, a la base de Kaohsiung
 
-Han Kuo-yu's family background is that of a "second-generation immigrant from Banqiao, Taipei." His father was from Shangqiu, Henan, and moved to Taiwan with the Nationalist government in 1949. His mother was also from the mainland. He grew up in a military dependents' village in Banqiao, Taipei, or in its vicinity, a typical child of a post-war first-generation immigrant family. [^4]
+El trasfondo familiar de Han Kuo-yu es el de una "segunda generación _waishengren_ de Banqiao, Taipéi". Su padre era originario de Shangqiu, Henan, y llegó a Taiwán con el gobierno nacionalista en 1949. Su madre también era de origen continental. Creció en un asentamiento militar (_juancun_) o sus alrededores en Banqiao, siendo un hijo típico de la primera generación de familias _waishengren_ de la posguerra. [^4]
 
-His educational path was a mix of military and liberal arts. His university education was at the Military Academy's Special Class—a short-term military training program, not the standard four-year Regular Officer Course. After graduating from the Special Class, he entered the Department of English Literature at Soochow University to obtain his bachelor's degree, and then entered the Graduate Institute of East Asian Studies at National Chengchi University to obtain his master's degree. The Institute of East Asian Studies is Taiwan's most famous academic institution for studying China issues, and its graduates typically work in national security, diplomatic, or cross-strait research systems.
+Su trayectoria educativa combinó lo militar con las humanidades. Su formación universitaria comenzó en la Escuela de Oficiales del Ejército (un entrenamiento militar de corta duración, no una carrera de cuatro años) y luego obtuvo su licenciatura en el Departamento de Inglés de la Universidad Soochow, para finalmente cursar un máster en el Instituto de Estudios de Asia Oriental de la Universidad Nacional de Chengchi. Este instituto es una de las instituciones académicas más prestigiosas de Taiwán para el estudio de los asuntos de China, y sus graduados suelen trabajar en los sistemas de seguridad nacional, diplomacia o estudios de relaciones a ambos lados del estrecho.
 
-These three educational stages reflect a typical "second-generation immigrant elite" path: **Military foundation + Liberal arts degree + Cross-strait studies expertise**. This is not a random combination; it is the standard formula used by the KMT system during the Cold War to cultivate its own successors. For second-generation immigrants born in the 1950s-1970s who wished to enter politics, this educational path was common.
+Esta formación refleja el camino típico de la "élite de segunda generación _waishengren_": **base militar + título en humanidades + especialización en estudios transestratégicos**. No fue una combinación aleatoria, sino la fórmula estándar que el sistema del KMT utilizó para formar a sus sucesores durante la era de la Guerra Fría. Para los nacidos entre 1950 y 1970 que deseaban entrar en la política, este tipo de trayectoria era muy común.
 
-In 1993, he was elected as a Legislator for the second term, serving three consecutive terms (2nd, 3rd, and 4th terms, 1993-2002). During his nine years in the Legislative Yuan, he was known for his "gunner" image—daring to scold, daring to charge, and daring to confront opponents head-on. The KMT of that era needed such figures because DPP legislators also used similar styles to clash.
+En 1993 fue elegido legislador por segunda vez, logrando la reelección durante tres mandatos consecutivos (2.ª, 3.ª y 4.ª legislaturas, 1993-2002). Durante sus nueve años en el Legislativo, fue conocido por su imagen de "artillero": alguien que se atrevía a criticar, a arremeter y a confrontar directamente a sus oponentes. El KMT de aquella época necesitaba este tipo de perfiles, ya que los legisladores del DPP utilizaban un estilo similar para el combate político.
 
-After 2002, Han Kuo-yu gradually faded from the political stage. He served as Deputy Mayor of Zhonghe City, Taipei County, but this was not a position that would bring him back into the spotlight. From 2013 to 2017, he served as the General Manager of the **Taipei Agricultural Wholesale Corporation** (TAIWAN)—a position managing fruit and vegetable wholesale markets, politically speaking, akin to being exiled.
+Después de 2002, Han Kuo-yu se sumió gradualmente en el silencio político. Aunque fue vicealcalde de la ciudad de Zhonghe, en el condado de Taipei, este no era un cargo que lo mantuviera bajo los focos. Entre 2013 y 2017, ocupó el cargo de gerente general de la **Compañía de Comercialización de Productos Agrícolas de Taipei** (Beinong), un puesto encargado de gestionar un mercado mayorista de frutas y verduras que, en términos políticos, se asemejaba al exilio.
 
-During this time, he almost disappeared from the public eye. Until the unexpected event of 2018.
+Durante este periodo, casi desapareció de la vista pública, hasta que ocurrió lo inesperado en 2018.
 
-## Kaohsiung, Get Rich: How a Slogan Changed a City
+## Kaohsiung generará grandes riquezas: cómo un eslogan cambió una ciudad
 
-In the 2018 Taiwan Local Elections (Nine-in-One), the KMT needed a candidate for Kaohsiung. Kaohsiung was the "Green Stronghold" where the DPP had continuously governed for twenty years since 1998; no political figure from any KMT faction wanted to go there to throw away their votes.
+En las elecciones locales de 2018, el KMT necesitaba un candidato para Kaohsiung. La ciudad era el "bastión verde" del DPP, que había gobernado ininterrumpidamente durante veinte años desde 1998; ningún político de ninguna facción del KMT quería lanzarse a una batalla perdida.
 
-Han Kuo-yu was nominated. The prevailing judgment was: He would lose anyway, so find someone with a loud voice to "run for the sake of running," create buzz, and help pull votes for the KMT in other counties. **He was a sacrifice play.**
+Han Kuo-yu fue nominado. El juicio en aquel momento fue: "De todos modos vamos a perder, busquemos a alguien con voz fuerte para que haga campaña y genere ruido, aprovechando para atraer votos para el KMT en otros condados". **Era un candidato de sacrificio.**
 
-Then the "Han Wave" happened.
+Entonces ocurrió la "Han-liu" (ola Han).
 
-His campaign language had a density never before seen in Taiwanese politics:
+Su lenguaje de campaña poseía una densidad que la política taiwanesa no había visto antes:
 
-- **"A bottle of mineral water, a bowl of braised pork rice"** — indicating he did not rely on business conglomerates and used the cheapest items for his campaign
-- **"Northern Drifters"** — naming the phenomenon of Kaohsiung people being forced to leave their hometowns to work in Taipei
-- **"Goods Go Out, People Come In, Kaohsiung, Get Rich"** — packaging economic difficulties and hope into a slogan in three sentences [^5]
+- **"Una botella de agua mineral, un cuenco de arroz con carne picada"** ── para demostrar que no dependía de los grandes conglomerados y hacía campaña con lo más básico.
+- **"Jóvenes migrantes al norte"** (_beipiao_) ── dando nombre al fenómeno de los habitantes de Kaohsiung obligados a dejar su hogar para trabajar en Taipéi.
+- **"Las mercancías salen, la gente entra, Kaohsiung generará grandes riquezas"** ── tres frases que empaquetaban la crisis económica con la esperanza en un eslogan. [^5]
 
-The common characteristic of these slogans is: **Extremely specific, extremely populist, extremely emotional**. They do not discuss policy details or governance philosophies; they directly touch the voters' most primal pain points—young people cannot stay, the economy does not grow, and hope is missing. Moreover, they can be replicated, shared, and turned into internet memes.
+El rasgo común de estos eslóganes era: **extremadamente concretos, extremadamente populares y extremadamente emocionales**. No hablaban de detalles de políticas ni de filosofía de gobierno; tocaban directamente los puntos de dolor más primarios del electorado: la incapacidad de retener a los jóvenes, el estancamiento económico y la falta de esperanza. Además, eran fáciles de replicar, compartir y convertir en memes de internet.
 
-A post-election analysis by _The Reporter_ in 2018 categorized the "Han Wave" as an **anti-narrative, anti-elite, grounded** electoral phenomenon. [^6] At the time, Taiwan's political narrative was dominated by the Tsai Ing-wen government's DPP, with language leaning towards rationality, internationalism, reform, and progress. This language was incomprehensible and inaudible to certain voters—especially those aged 40-49, who had experienced Kaohsiung's economic boom and watched it decline.
+Un análisis de _The Reporter_ tras las elecciones de 2018 clasificó la "Han-liu" como un fenómeno electoral **anti-narrativa, anti-élite y de conexión popular**. [^6] En aquel entonces, la narrativa política en Taiwán estaba dominada por el gobierno del DPP de Tsai Ing-wen, con un lenguaje orientado hacia lo racional, lo internacional, lo reformista y lo progresista. Ese lenguaje era incomprensible o ajeno para ciertos votantes, especialmente para el grupo de entre 40 y 49 años que había vivido la prosperidad económica de Kaohsiung y luego fue testigo de su declive.
 
-Han Kuo-yu's appearance gave them **something to say**.
+La aparición de Han Kuo-yu les dio **una voz**.
 
-In November 2018, Han Kuo-yu defeated his opponent, Chen Chi-mai, by **150,000 votes**, becoming the Mayor of Kaohsiung. Green land turned blue sky. This was the first time since 1998 that the DPP lost Kaohsiung.
+En noviembre de 2018, Han Kuo-yu derrotó con una victoria aplastante a su oponente Chen Chi-mai por **150.000 votos**, siendo elegido alcalde de Kaohsiung. El color verde se tornó azul. Fue la primera vez que el DPP perdía Kaohsiung desde 1998.
 
-## Four Months Later, He Decided to Run for President
+## Cuatro meses después, decidió ser candidato presidencial
 
-The problem lay ahead.
+El problema vino después.
 
-From late February to early March 2019, only four months after being elected Mayor of Kaohsiung, Han Kuo-yu began leaking rumors that he would run for the 2020 presidency. He claimed it was a "passive candidacy," waiting for KMT nomination; but in reality, his team held rallies across the country, effectively starting the presidential campaign.
+Entre finales de febrero y principios de marzo de 2019, apenas cuatro meses después de haber sido elegido alcalde de Kaohsiung, Han Kuo-yu empezó a lanzar rumores sobre su intención de postularse para la presidencia en 2020. Él decía que era una "candidatura pasiva", esperando ser convocado por el KMT; pero en realidad, su equipo organizaba mítines en todo el país, lo que equivalía a iniciar una campaña presidencial.
 
-This decision was the starting point of his political collapse.
+Esta decisión fue el punto de partida de su colapso político.
 
-Kaohsiung voters elected him hoping he would "strive for the economy and make Kaohsiung rich," not to use him as a springboard for the presidency. When he entered the presidential race, Kaohsiung's municipal administration essentially fell into a standstill—the mayor spent most of his time away from Kaohsiung, the cabinet lacked leadership, major projects were delayed, and cross-city negotiations were stalled. Chen Chi-mai later won the 2020 August by-election easily, following the line of "having a mayor who can focus on doing things." [^7]
+Los votantes de Kaohsiung lo eligieron con la esperanza de que "impulsara la economía y generara riqueza para la ciudad", no para usarlo como trampolín hacia la presidencia. Cuando se volcó en la campaña presidencial, la administración municipal de Kaohsiung entró en una parálisis de facto: el alcalde pasaba la mayor parte del tiempo fuera de la ciudad, el gabinete carecía de liderazgo, los proyectos importantes se retrasaban y las negociaciones intermunicipales se estancaron. Chen Chi-mai finalmente ganó fácilmente en las elecciones complementarias de agosto de 2020, bajo la premisa de "tener un alcalde que pueda concentrarse en trabajar". [^7]
 
-Worse still was Han Kuo-yu's performance in the presidential election. On January 11, 2020, voting took place:
+Peor aún fue el desempeño de Han Kuo-yu en las elecciones presidenciales. El día de la votación, 11 de enero de 2020:
 
-- Tsai Ing-wen / Lai Ching-te: **8,170,231 votes** (57.13%)
-- Han Kuo-yu / Chang Shan-cheng: **5,522,119 votes** (38.61%)
-- Song Chu-yu / Yu Hsiang: 1,050,600 votes (4.26%)
+- Tsai Ing-wen / Lai Ching-te: **8.170.231 votos** (57,13%)
+- Han Kuo-yu / Chang Shan-cheng: **5.522.119 votos** (38,61%)
+- Sung Chang-hsin / Yu Xiang: 1.050.600 votos (4,26%)
 
-**Han Kuo-yu lost the election by a margin of 2.65 million votes**. This vote margin was the third largest in the history of Taiwan's presidential direct elections, second only to the 2.21 million vote margin between Ma Ying-jeou and Sieh Long-tsing in 2008 and the 3.08 million vote margin between Tsai Ing-wen and Chu Li-lun in 2016.
+**Han Kuo-yu perdió la elección con una diferencia de 2,65 millones de votos**. Esta brecha fue la tercera más grande en la historia de las elecciones presidenciales directas en Taiwán, solo superada por los 2,21 millones entre Ma Ying-jeou y Frank Hsieh en 2008, y los 3,08 millones entre Tsai Ing-wen y Chu Li-lun en 2016.
 
-The Han Wave myth of 2018 turned into the collapse of the Han Wave in January 2020, 13 months later.
+El mito de la "Han-liu" de 2018 se convirtió, trece meses después, en el colapso de la ola Han en enero de 2020.
 
-## Recall: A City's Punishment
+## Destitución: el castigo de una ciudad
 
-Two weeks after the presidential election, Kaohsiung citizens initiated a recall petition. The reason was: **Han Kuo-yu used Kaohsiung as a springboard for the presidency, violating his promise to voters**.
+Dos semanas después de las elecciones presidenciales, los ciudadanos de Kaohsiung iniciaron la recogida de firmas para un referéndum de destitución. El motivo era: **Han Kuo-yu usó a Kaohsiung como trampolín presidencial, incumpliendo sus promesas ante los votantes**.
 
-The recall procedure has three stages: Proposal (1% petition), Petition (10%), and Voting (consent votes exceeding 25% of voters and greater than dissenting votes). The speed of the Kaohsiung recall petition set a record—originally estimated to take at least four months of petitioning, it was achieved in two months. [^8]
+El proceso de destitución consta de tres fases: propuesta (1% de firmas), recogida de firmas (10%) y votación (votos a favor que superen el 25% del electorado y sean mayores que los votos en contra). La velocidad de la recogida de firmas en Kaohsiung batió récords: lo que se estimaba que tardaría al menos cuatro meses, se logró en dos. [^8]
 
-Voting took place on June 6, 2020. The voter turnout was **42%**. Votes to recall: **939,090**. Votes against recall: **25,051**. [^1]
+La votación tuvo lugar el 6 de junio de 2020. La participación fue del **42%**. Votos a favor de la destitución: **939.090**. En contra: **25.051**. [^1]
 
-Looking at these two numbers together makes things clearer: **930,000 vs 25,000**. The number of people supporting the recall was **37 times** greater than those opposing it. This is not a close result—it is a city's total rejection of an individual.
+Al comparar ambas cifras, la situación es clara: **930.000 frente a 25.000**. El número de personas que apoyaban la destitución fue **37 veces mayor** que el de quienes se oponían. No fue un resultado ajustado; fue el rechazo total de una ciudad hacia un individuo.
 
-Han Kuo-yu became the **first directly-elected mayor in the constitutional history of the Republic of China to be recalled**. [^2] His 528-day term also became the shortest term for a directly-elected mayor in history.
+Han Kuo-yu se convirtió en **el primer alcalde de una ciudad especial destituido mediante referéndum en la historia constitucional de la República de China (Taiwán)**. [^2] Su mandato de 528 días también se convirtió en el más corto para un alcalde de una ciudad especial.
 
-That night, Han Kuo-yu's statement was short: "I respect the decision of the Kaohsiung citizens." No anger, no defense, no conspiracy theories. This was completely opposite to his "Kaohsiung, Get Rich" enthusiasm in 2018—but perhaps this was his true personality, a second-generation immigrant mixing military discipline with political calculation, knowing when to bow his head.
+Esa noche, la declaración de Han Kuo-yu fue breve: "Respeto la decisión de los ciudadanos de Kaohsiung". Sin ira, sin justificaciones, sin teorías conspirativas. Esto contrastaba totalmente con su entusiasmo por "generar riqueza" en 2018, pero quizás esta fuera su verdadera personalidad: un _waishengren_ de segunda generación que combinaba la disciplina militar con el cálculo político, sabiendo cuándo era momento de agachar la cabeza.
 
-## From Recalled to Speaker of the Legislative Yuan: Four Years of Waiting
+## De la destitución a la presidencia del Legislativo: cuatro años de espera
 
-From June 2020 to November 2023, Han Kuo-yu almost disappeared from the public eye. He did not run for any local positions, did not hold party posts, did not host TV programs, and did not publish books. He occasionally appeared at internal KMT events but did not lead any important debates.
+De junio de 2020 a noviembre de 2023, Han Kuo-yu casi desapareció de la vista pública. No compitió en cargos locales, no ocupó puestos en el partido, no presentó programas de televisión ni publicó libros. Aparecía ocasionalmente en eventos internos del KMT, pero no lideraba debates importantes.
 
-These three years were a calculated wait.
+Estos tres años fueron una espera meticulosa.
 
-In January 2024, Taiwan held simultaneous elections for the 16th President and Vice President and the 11th Legislative Yuan. The result was that the DPP won the presidency (Lai Ching-te and Hsiao Bi-khim with 40%) but **lost its absolute majority in the Legislative Yuan**. The distribution of seats in the Legislative Yuan:
+En enero de 2024, se celebraron simultáneamente las elecciones para la 16.ª presidencia y vicepresidencia de Taiwán y para la 11.ª Legislatura. El resultado fue que el DPP ganó la presidencia (Lai Ching-te y Hsiao Bi-khim con un 40%), pero **perdió la mayoría absoluta en el Legislativo**. La distribución de escaños fue:
 
-- KMT: **52 seats** (Largest party)
-- DPP: 51 seats
-- Taiwan People's Party: 8 seats
-- Independents: 2 seats
+- Kuomintang: **52 escaños** (mayor partido)
+- Partido Progresista Democrático: 51 escaños
+- Partido Popular de Taiwán: 8 escaños
+- Independientes: 2 escaños
 
-The KMT became the largest party in the Legislative Yuan by just one seat. By constitutional convention, it could nominate the Speaker of the Legislative Yuan.
+El KMT se convirtió en la mayor fuerza del Legislativo por solo un escaño de diferencia, lo que, según la práctica constitucional, le permitía nominar al presidente del Legislativo.
 
-Chu Li-lun (KMT Chairman) announced in late 2023 that Han Kuo-yu would be the first candidate on the KMT's party-list Legislative Yuan slate. [^9] The reasons were: Han Kuo-yu's low-key retreat after being recalled as Mayor of Kaohsiung proved he respected the democratic system; his electoral mobilization ability remained an asset for the KMT; as a candidate for Speaker of the Legislative Yuan, he had debate experience, media charm, and a foundation for cross-party negotiation.
+A finales de 2023, Chu Li-lun (presidente del KMT) anunció que Han Kuo-yu sería el primer nombre en la lista de legisladores por representación proporcional del partido para 2024. [^9] Los motivos: su perfil bajo tras ser destituido demostraba respeto al sistema democrático; su capacidad de movilización electoral seguía siendo un activo para el KMT; y como candidato a presidente del Legislativo, poseía experiencia en debate, carisma mediático y una base para la negociación entre facciones.
 
-Being first on the party-list slate meant "guaranteed election." On January 13, 2024, the votes were counted. The KMT's party-list slate allocated seats according to the vote share, and Han Kuo-yu returned to the Legislative Yuan.
+Ser el primer nombre de la lista cerrada equivale a "garantía de elección". Tras el escrutinio del 13 de enero de 2024, los escaños se asignaron según el porcentaje de votos y Han Kuo-yu regresó al Legislativo.
 
-On February 1, the first day of the session, the Blue (KMT) and White (TPP) parties cooperated to nominate Han Kuo-yu as Speaker of the Legislative Yuan. The voting result: Han Kuo-yu **54 votes** (Blue 52 + White 2), DPP nominee Yu Shi-kun 51 votes. Han Kuo-yu was elected Speaker of the Legislative Yuan.
+El 1 de febrero, en el primer día de la sesión, los partidos Azul (KMT) y Blanco (PPT) colaboraron para proponer a Han Kuo-yu como presidente del Legislativo. El resultado de la votación fue: Han Kuo-yu con **54 votos** (52 del Azul + 2 del Blanco), frente a los 51 votos de Yu Shih-kun, propuesto por el DPP. Han Kuo-yu fue elegido presidente del Legislativo.
 
-From being recalled to becoming Speaker of the Legislative Yuan took **3 years and 8 months**.
+Desde su destitución hasta la presidencia del Legislativo pasaron **3 años y 8 meses**.
 
-## Ending: A Political Figure's Two Lives
+## Conclusión: las dos vidas de un político
 
-Han Kuo-yu's story has a rarely examined layer: **He is the first political figure in Taiwan's democratic system to have experienced both recall and resurrection**.
+La historia de Han Kuo-yu tiene una dimensión que rara vez se analiza con detalle: **es el primer político en el sistema democrático de Taiwán que ha experimentado simultáneamente la destitución y el renacimiento**.
 
-From being recalled in June 2020 to sitting in the Speaker's position in February 2024, this path has no precedent in the forty years since Taiwan's democratization. Chen Shui-bian was indicted but did not resurrect; Lien Chan lost the chairmanship and retreated behind the scenes; Song Chu-yu rose and fell multiple times as Chairman of the People First Party but did not return to the central core. Han Kuo-yu is the **only one who experienced a constitutional-level recall and then sat in the highest constitutional legislative position**.
+Desde su destitución en junio de 2020 hasta su llegada a la presidencia del Legislativo en febrero de 2024, no hay precedentes en los cuarenta años de democratización de Taiwán. Chen Shui-bian no resurgió tras ser procesado; Lien Chan se retiró tras perder la presidencia del partido; Sung Chang-hsin tuvo altibajos como líder del Partido Pueblo Primero pero nunca regresó al núcleo central del poder. Han Kuo-yu es **el único que ha pasado por una destitución a nivel constitucional y luego ha ocupado el cargo parlamentario más alto de la nación**.
 
-The significance of this lies not in him personally. It lies in **what the actual effect of the recall system is**.
+El significado de esto no reside en su persona, sino en **cuál es el efecto real del sistema de destitución**.
 
-In design, recall is the ultimate punishment for incompetent officials. But from Han Kuo-yu's example, recall is actually just "losing a specific position," not "losing political life." Voters recalled him as Mayor of Kaohsiung, but they could not recall him as a Legislator, as Chairman, or as any other position. He could wait—as long as a new opportunity appeared, he could return.
+En teoría, la destitución es el castigo final de los ciudadanos para un funcionario que incumple sus deberes. Pero según el ejemplo de Han Kuo-yu, la destitución es en realidad solo "perder un cargo específico", no "perder la vida política". Que los votantes lo destituyeran como alcalde de Kaohsiung no le impedía ser legislador, presidente de un partido o cualquier otro cargo. Él pudo esperar; bastó con que apareciera una nueva oportunidad para regresar.
 
-This is an interesting feature of Taiwan's constitutional system: **Individual positions can be recalled, but individual political figures are not permanently banned**. This feature has its rationale (avoiding political persecution, preserving the people's freedom of choice), but also its cost (failed political figures can keep resurrecting).
+Esta es una característica interesante del sistema constitucional de Taiwán: **los cargos individuales pueden ser objeto de destitución, pero los individuos políticos no son expulsados de por vida**. Esta característica tiene su lógica (evitar la persecución política y preservar la libertad de elección del pueblo), pero también tiene un coste (los políticos fracasados pueden resurgir continuamente).
 
-Han Kuo-yu's return in February 2024 brought this cost to the forefront. When the person kicked out of the Kaohsiung City Government by 930,000 voters with their feet walked into the Legislative Yuan chamber four years later to take the oath as the highest position in the national legislature—what did those 930,000 votes from Kaohsiung citizens mean?
+El regreso de Han Kuo-yu en febrero de 2024 puso este coste sobre la mesa. Cuando aquel hombre que fue expulsado de la alcaldía de Kaohsiung por 930.000 votantes entra cuatro años después en el pleno del Legislativo para jurar su cargo en la máxima autoridad parlamentaria del país... ¿qué significan esos 930.000 votos de los ciudadanos de Kaohsiung?
 
-One interpretation is: Democratic institutions do not hold grudges. Recall is a decision for the present, not a verdict for eternity.
+Una interpretación es que el sistema democrático no guarda rencor. La destitución es una decisión sobre el presente, no una sentencia eterna.
 
-Another interpretation is: Recall is designed to be limited. It guarantees the right to "replace a mayor," but not the right to "never see this person again." Democratic institutions are procedures, not emotions.
+Otra interpretación es que la destitución está diseñada para ser limitada. Garantiza el derecho a "cambiar a un alcalde", pero no garantiza el derecho a "no volver a ver nunca a esa persona". El sistema democrático es un procedimiento, no una emoción.
 
-The truth likely lies between the two. And Han Kuo-yu himself may be the quietest beneficiary of this procedural loophole.
+La verdad podría estar en algún punto intermedio. Y el propio Han Kuo-yu podría ser el beneficiario más silencioso de este vacío procedimental.
 
 ---
 
-**Further Reading**:
+**Lecturas adicionales**:
 
-- [2026 KMT-CCP Meeting: Ten Minutes of Reunion Between KMT and CCP Leaders After a Decade](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — In the April 2026 Legislative Yuan budget negotiation, presided over by Han Kuo-yu; the timing of the KMT-CCP meeting and the Legislative Yuan budget special bill is in the same week.
-- [Cheng Li-wen](/es/people/cheng-li-wun) — Two of the most important figures in the KMT in 2025-2026: one is the Party Chairman, the other is the Speaker of the Legislative Yuan, representing different ecosystems within the party.
-- [Hsiao Bi-khim](/es/people/hsiao-bi-khim) — For comparative reading: Hsiao Bi-khim won a Legislative Yuan seat in Hualien after six years; Han Kuo-yu was recalled from Kaohsiung in 528 days. There are many types of time curves in democracy.
-- [Taiwan's Political Environment and Electoral System](/es/society/taiwan-political-landscape-and-electoral-system) — Why can the party-list Legislative Yuan system allow "recalled political figures" like Han Kuo-yu to resurrect? The answer lies in the electoral rules themselves.
-- [Ko Wen-je](/es/people/ko-wen-je) — Another figure who went from amateur to mayor, from mayor to presidential candidate, from presidential candidate to the center of the storm; the structure of their "rise and fall" is similar.
-- [Liu Su-yen](/es/people/lu-hsiu-yan) — The other pole of the 2018 Han Wave; the Mayor of Taichung who flipped from blue to blue in the same year as Han Kuo-yu.
-- [Hsu Chiao-hsin](/es/people/hsu-chiao-hsin) — The main proponent of the 800 billion version of the 2026 military procurement controversy; a key presence in the negotiations of Speaker of the Legislative Yuan Han Kuo-yu.
-- [Chi Lin-lien](/es/people/ji-lin-lian) — The Vice Chairman who threatened to "expel from party membership those who sell the party for glory" at the Central Executive Committee meeting on 2026-04-29; the target truly impacted by those words was Han Kuo-yu.
-- [Tseng Po-jen](/es/people/bernard-tseng) — In December 2019 Han Kuo-yu appeared on Season 3 of _The Night Night Show with Hello_, with the single condition that no jokes be made about his hair; Tseng called him "the most familiar stranger".
+- [La reunión Cheng-Xi de 2026: diez minutos que marcan el reencuentro de los líderes del KMT y la RPC](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Las negociaciones presupuestarias del Legislativo en abril de 2026, presididas por Han Kuo-yu; el momento de la reunión Cheng-Xi y la ley especial de presupuesto del Legislativo ocurrieron en la misma semana.
+- [Cheng Li-wen (鄭麗文)](/es/people/cheng-li-wun) — Dos de las figuras más importantes del KMT entre 2025 y 2026: una es la presidenta del partido y la otra es la presidenta del Legislativo, representando diferentes ecosistemas dentro de la formación.
+- [Hsiao Bi-khim (蕭美琴)](/es/people/hsiao-bi-khim) — Lectura comparativa: Hsiao Bi-khim tardó seis años en ganar un escaño legislativo en Hualien, mientras que Han Kuo-yu fue destituido en solo 528 días en Kaohsiung. En la democracia existen muchas curvas temporales.
+- [Entorno político y sistema electoral de Taiwán](/es/society/taiwan-political-landscape-and-electoral-system) — ¿Por qué el sistema de legisladores por lista cerrada permite el resurgimiento de políticos como Han Kuo-yu? La respuesta reside en las propias reglas electorales.
+- [Ko Wen-je (柯文哲)](/es/people/ko-wen-je) — Otro personaje que pasó de ciudadano común a alcalde, de alcalde a candidato presidencial y de candidato presidencial al centro de una tormenta política; su estructura de "ascenso y caída meteórica" es similar.
+- [Lu Hsui-yen (盧秀燕)](/es/people/lu-hsiu-yan) — La otra cara de la "Han-liu" de 2018; alcaldesa de Taichung que, al igual año que Han Kuo-yu, logró transformar un bastión azul en uno de color celeste.
+- [Hsu Chiao-hsin (徐巧芯)](/es/people/hsu-chiao-hsin) — Principal promotora de la versión de 800.000 millones del conflicto de compras militares de 2026; figura clave en las negociaciones de Han Kuo-yu como presidente del Legislativo.
+- [Ji Lin-lien (季麟連)](/es/people/ji-lin-lian) — Vicepresidente que en la reunión del Comité Central el 29-04-2026 amenazó con "expulsar del partido a quien busque su propio beneficio sobre el del partido"; el objetivo real de esas palabras era Han Kuo-yu.
+- [Tseng Po-en (曾博恩)](/es/people/bernard-tseng) — En diciembre de 2019, Han Kuo-yu apareció en la tercera temporada de _Po-en Nightly Show_; su única exigencia fue "no bromear con mi peinado", y Po-en lo llamó "el extraño más familiar".
 
-## References
+## Referencias
 
-[^1]: [Han Kuo-yu Becomes First Recalled Mayor in History, Consent Votes Break 930,000 - CNA](https://www.cna.com.tw/news/firstnews/202006065005.aspx) — CNA's immediate report on June 6, 2020, after the vote count, recording the final vote count for the recall of Kaohsiung Mayor Han Kuo-yu: 939,090 consent votes, 25,051 dissent votes, voter turnout of approximately 42%, and Han Kuo-yu's historical position as the first directly-elected mayor in constitutional history to be recalled.
+[^1]: [Han Kuo-yu se convierte en el primer alcalde destituido; los votos a favor superan los 930.000 - CNA](https://www.cna.com.tw/news/firstnews/202006065005.aspx) — Reportaje de última hora de la Agencia Central de Noticias (CNA) tras el escrutinio del 6 de junio de 2020, registrando los votos finales para la destitución de Han Kuo-yu: 939.090 a favor, 25.051 en contra, una participación cercana al 42%, y su posición histórica como el primer alcalde de una ciudad especial destituido.
 
-[^2]: [【Recall Han Record】Taiwan's First Local Chief Official to be Recalled - The Reporter](https://www.twreporter.org/a/kaohsiung-han-kuo-yu-recall-result) — The Reporter's 2020 in-depth report on the Recall Han case, recording Han Kuo-yu's 528-day shortest term for a directly-elected mayor in history, the speed of the recall petition, and the distribution of voter turnout, serving as a first-hand historical archive for Taiwan's democratic system's recall cases.
+[^2]: [【Registro de la destitución de Han】El primer líder local destituido en la historia de Taiwán - The Reporter](https://www.twreporter.org/a/kaohsiung-han-kuo-yu-recall-result) — Reportaje profundo de _The Reporter_ sobre el caso de destitución de 2020, registrando los 528 días de mandato (el más corto), la velocidad de la recogida de firmas y la distribución de la participación.
 
-[^3]: [Han Kuo-yu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia records the complete results of the January 11, 2020 presidential election: Tsai Ing-wen and Lai Ching-te 8.17 million votes, Han Kuo-yu and Chang Shan-cheng 5.52 million votes, Song Chu-yu and Yu Hsiang 1.05 million votes, and Han Kuo-yu's 2.65 million vote margin of defeat.
+[^3]: [Han Kuo-yu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia recoge los resultados completos de las elecciones presidenciales del 11 de enero de 2020: Tsai Ing-wen/Lai Ching-te con 8,17 millones, Han Kuo-yu/Chang Shan-cheng con 5,52 millones, Sung Chang-hsin/Yu Xiang con 1,05 millones, y la diferencia de derrota de 2,65 millones para Han.
 
-[^4]: [Han Kuo-yu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia's Han Kuo-yu entry, recording his background as a second-generation immigrant from Henan Shangqiu, born on June 17, 1957, in Banqiao, Taipei, and his educational path from Military Academy Special Class → Soochow University English Department → National Chengchi University East Asian Studies Institute.
+[^4]: [Han Kuo-yu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Entrada de Wikipedia sobre Han Kuo-yu, que detalla su origen como _waishengren_ de segunda generación nacido en Banqiao el 17 de junio de 1957 y su trayectoria educativa.
 
-[^5]: [Kaohsiung, Get Rich - Wikipedia](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%99%BC%E5%A4%A7%E8%B2%A1) — Wikipedia's dedicated "Kaohsiung, Get Rich" entry, comprehensively organizing Han Kuo-yu's core slogan combination for the 2018 Kaohsiung mayoral campaign ("A bottle of mineral water, a bowl of braised pork rice," "Northern Drifters," "Goods Go Out, People Come In"), and how these slogans formed the linguistic structure of the "Han Wave" phenomenon.
+[^5]: [Kaohsiung generará grandes riquezas - Wikipedia](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%99%BC%E5%A4%A7%E8%B2%A1) — Entrada dedicada en Wikipedia a la campaña "Kaohsiung generará grandes riquezas", detallando los eslóganes centrales de 2018 y cómo formaron el fenómeno "Han-liu".
 
-[^6]: [Anti-narrative, Anti-elite, Grounded, How Did the "Han Wave" Roll Up? - The Reporter](https://www.twreporter.org/a/2018-election-kaohsiung-han-kuo-yu) — The Reporter's 2018 post-election in-depth analysis, positioning the "Han Wave" as an anti-narrative, anti-elite, grounded electoral phenomenon, and explaining why the 40-49 year old middle-aged group in Kaohsiung became Han Kuo-yu's most solid support base.
+[^6]: [Anti-narrativa, anti-élite y conexión popular: ¿Cómo surgió la "Han-liu"? - The Reporter](https://www.twreporter.org/a/2018-election-kaohsiung-han-kuo-yu) — Análisis profundo de _The Reporter_ tras las elecciones locales de 2018, posicionando la "Han-liu" como un fenómeno contra la élite y explicando por qué el grupo demográfico de 40 a 49 años en Kaohsiung fue su base más sólida.
 
-[^7]: ["I Hate It Most When People From Outside the City Ask Me If I Got Rich" - How Was Han Kuo-yu Recalled by Kaohsiung Citizens? - Common Wealth Magazine](https://www.cw.com.tw/article/5100601) — Common Wealth Magazine's special article analyzing how Han Kuo-yu's municipal administration fell into a standstill after he entered the presidential election, and the source of political momentum for Chen Chi-mai's easy victory in the August 2020 by-election.
+[^7]: [“La persona que más odia las otras regiones te preguntará si ya eres rico”: ¿Cómo destituyeron los habitantes de Kaohsiung a Han Kuo-yu? - Commonwealth Magazine](https://www.cw.com.tw/article/5100601) — Artículo de _Commonwealth Magazine_ sobre cómo la administración municipal se paralizó tras su candidatura presidencial y el impulso político que llevó a la victoria de Chen Chi-mai en 2020.
 
-[^8]: [Han Kuo-yu Recall Case - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%A1%88) — Wikipedia fully records the legal procedures of the Recall Han case, the speed of the petition (originally estimated to take four months, shortened to two months to achieve the standard), voter turnout of 42%, and the details of vote counting in each administrative district.
+[^8]: [Caso de destitución de Han Kuo-yu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%A1%88) — Registro de Wikipedia sobre los procedimientos legales, la velocidad de las firmas (de cuatro meses estimados a dos meses reales), la participación del 42% y detalles por distrito.
 
-[^9]: [Han Kuo-yu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia records Chu Li-lun's decision background in November 2023 to announce Han Kuo-yu as the first candidate on the KMT's 2024 party-list Legislative Yuan slate, and the swearing-in process of being elected Speaker of the 11th Legislative Yuan with 54 votes on February 1, 2024.
+[^9]: [Han Kuo-yu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia registra la decisión de Chu Li-lun en noviembre de 2023 de incluir a Han Kuo-yu como primer candidato de lista cerrada para el KMT en 2024, y su proceso de toma de posesión como presidente del Legislativo el 1 de febrero de 2024.

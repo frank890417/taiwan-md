@@ -1,232 +1,232 @@
 ---
-title: "Teresa Teng : Le bandage blanc de Happy Valley, l'air dans un sac en plastique à Kinmen, le décalage horaire de cinq minutes à Chiang Mai"
-description: "Le 27 mai 1989 à Happy Valley, Hong Kong, Teresa Teng, 36 ans, porte un bandage blanc « Vive la démocratie » sur la tête et une pancarte manuscrite « Contre la loi martiale » sur la poitrine, chantant une chanson qu'elle n'a jamais interprétée auparavant : « Ma maison est de l'autre côté de la montagne ». Après ce jour, elle ne mettra plus jamais les pieds en Chine continentale. De Li Jun, née dans un village de militaires à Yunlin, à la « Chanteuse des casernes » ayant fait cinq fois le voyage pour réconforter les troupes à Kinmen, en passant par l'étrangère ayant triomphé trois fois consécutives au Japan Cable Music Awards, elle a transformé sa douceur en geste politique pendant 42 ans, avant de ne pas trouver, à Chiang Mai, le sac d'air pur qu'elle cherchait toute sa vie."
+title: 'Teresa Teng: Las cintas blancas de Happy Valley, el aire en bolsas de plástico de Kinmen y los cinco minutos de diferencia horaria en Chiang Mai'
+description: 'El 27 de mayo de 1989 en Happy Valley, Hong Kong, Teresa Teng, de 36 años, con una cinta blanca de "¡Viva la democracia" en la cabeza y un cartel de "Contra la ley marcial" en el pecho, cantó por primera vez "Mi hogar está al otro lado de la montaña". Después de ese día, no volvió a pisar China continental. Desde la pequeña Liyun en la aldea militar de Yunlin, pasando por ser la "amante de los soldados" en sus cinco visitas a Kinmen, hasta convertirse en una extranjera con tres victorias consecutivas en el Japan Cable Grand Prix; durante 42 años convirtió su ternura en una postura política, para finalmente no encontrar en Chiang Mai esa bolsa de aire limpio que buscó toda su vida.'
 date: 2026-04-20
+category: 'People'
 tags:
   [
-    Personnalité,
-    Teresa Teng,
-    Teresa Teng,
-    Chanteuse,
-    Musique pop mandarin,
-    Relations entre les deux rives,
-    Japon,
-    Chants de démocratie pour la Chine,
-    Chanteuse des casernes,
-    Guerre froide,
+    'Personajes',
+    'Teresa Teng',
+    'Teresa Teng',
+    'Cantante',
+    'Música pop en chino',
+    'Relaciones entre ambos lados del estrecho',
+    'Japón',
+    'Canto democrático para China',
+    'Amante de los soldados',
+    'Guerra Fría',
   ]
 subcategory: '音樂'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-20
 lastHumanReview: true
-featured: true
-researchReport: reports/research/2026-04/鄧麗君.md
+researchReport: 'reports/research/2026-04/鄧麗君.md'
 translatedFrom: 'People/鄧麗君.md'
-sourceCommitSha: ''
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:137ce9f0ad4e78d5'
 sourceBodyHash: 'sha256:d9aced35b5cf6b29'
-translatedAt: '2026-05-02T14:18:00+08:00'
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-10-10T20:27:04.713308+00:00'
 ---
 
 # Teresa Teng
 
-> **Aperçu en 30 secondes :** Le 27 mai 1989, lors d'un concert marathon de 12 heures à Happy Valley à Hong Kong pour collecter des fonds, Teresa Teng, 36 ans, porte un bandage blanc « Vive la démocratie » sur la tête et une pancarte manuscrite « Contre la loi martiale » sur la poitrine, chantant une chanson qu'elle n'a jamais interprétée auparavant — « Ma maison est de l'autre côté de la montagne ». Huit jours plus tard, la martialité est décrétée à Pékin ; la tournée de concerts en Chine continentale prévue pour cette année-là est annulée. Elle ne mettra plus jamais les pieds sur l'autre rive de sa vie. Cette femme, née dans un village de militaires à Yunlin et considérée comme la « Mère des chansons d'amour » du monde chinois, a en réalité toujours été sur la ligne de front de la Guerre froide pendant 42 ans : elle s'adressait à la Chine continentale depuis Kinmen, remportait le triplé du Japan Cable Music Awards à Tokyo, soutenait le 4 juin à Paris, et cherchait enfin un sac d'air pur à Chiang Mai.
+> **Resumen en 30 segundos:** El 27 de mayo de 1989, durante un concierto benéfico de maratón de 12 horas en Happy Valley, Hong Kong, Teresa Teng, de 36 años, llevaba una banda blanca con la inscripción «¡Viva la democracia!» y un cartel escrito a mano que decía «Contra la intervención militar». Esa noche cantó una canción que nunca antes había interpretado: 〈Mi hogar está al otro lado de la montaña〉. Ocho días después, Pekín impuso la ley marcial; aquel plan para una gira por China continental quedó cancelado y ella no volvió a pisar el otro lado de la vida. Esta mujer, nacida en un pueblo de familias militares en Yunlin y considerada la madrina de las canciones de amor en el mundo chino, estuvo en realidad en la primera línea de la Guerra Fría durante 42 años: enviando mensajes a China continental desde Kinmen, logrando tres victorias consecutivas en los Japan Cable Awards en Tokio, apoyando el movimiento del 4 de junio en París y, finalmente, buscando un poco de aire limpio en Chiang Mai.
 
-## Le bandage blanc de Happy Valley
+## Las cintas blancas de Happy Valley
 
-Le 27 mai 1989, sur l'hippodrome de Happy Valley à Hong Kong.
+27 de mayo de 1989, hipódromo de Happy Valley, Hong Kong.
 
-150 artistes de l'industrie du spectacle de tout Hong Kong se sont rassemblés, chantant de 10 heures du matin à 22 heures, pendant 12 heures consécutives, collectant 13 millions de dollars de HKD[^1]. Initié par Anita Mui, animé par James Wong, Chan San-kwan, Eric Tsang, avec des passages de Lo Ta-yu, Jacky Cheung, William Chau et Danny Chan. On estime que près d'un million de personnes étaient présentes dans le stade. Lorsque Teresa Teng monta sur scène, elle portait un bandage blanc écrit « Vive la démocratie » sur la tête et une pancarte manuscrite « Contre la loi martiale » sur la poitrine[^2].
+150 artistas de la industria del entretenimiento de todo Hong Kong se reunieron para cantar desde las 10:00 hasta las 22:00; durante 12 horas consecutivas, recaudaron 13 millones de dólares de Hong Kong[^1]. El evento fue impulsado por Anita Mui y presentado por James Wong, Chan Sun-kin, Chan Yan-kin y Eric Tsang, con actuaciones sucesivas de Roman Tam, Jacky Cheung, Emil Chau y Kelvin Cheng. Los periódicos estimaron que casi un millón de personas presenciaron el acto. Cuando Teresa Teng subió al escenario, llevaba una cinta blanca atada a la cabeza con la inscripción «¡Larga vida a la democracia!» y un cartel escrito a mano en el pecho que decía «Contra la administración militar»[^2].
 
-Avant de chanter [« Ma maison est de l'autre côté de la montagne »](https://www.youtube.com/watch?v=IGAmxD8cJ4s), elle dit au micro :
+Antes de interpretar [〈Mi casa está al otro lado de la montaña〉](https://www.youtube.com/watch?v=IGAmxD8cJ4s), dijo al micrófono:
 
-> **✦** « Merci beaucoup à tous d'être venus si chaleureusement à Hong Kong pour travailler ensemble pour la démocratie. Je vais répéter une chanson, celle que je n'ai jamais chantée, et je pense que peu de gens l'ont entendue. J'espère qu'après l'avoir écoutée, vous saurez ce que je veux dire dans mon cœur. »[^3]
+> **✦** «Muchas gracias a todos por reunirse con tanto entusiasmo aquí en Hong Kong para luchar juntos por la democracia. Voy a ensayar una canción; es una que nunca he cantado y creo que muy poca gente la ha escuchado. Espero que, después de oírla, todos sepan lo que hay en mi corazón».[^3]
 
-Cette chanson provient d'une chanson d'accompagnement d'un film de 1958 appelé _L'amour de Shwe Bo_. La phrase clé des paroles : « Nous devons retourner rapidement, allumer le flambeau de la démocratie, n'oubliez pas l'endroit où nous sommes nés, c'est de l'autre côté de la montagne, de l'autre côté de la montagne. »[^4]
+Esa canción proviene de una pieza musical de la película 《水擺夷之戀》 (Amor en el Reino de Shan) de 1958. Una frase clave de la letra dice: «Hay que volver cuanto antes para encender la antorcha de la democracia; no olvidéis que el lugar donde crecimos está al otro lado de la montaña, al otro lado de la montaña».[^4]
 
-Huit jours après le concert, les chars entrent sur la place Tiananmen à Pékin. Le projet de tournée de concerts en Chine continentale prévu pour cette année-là est annulé[^5]. Par la suite, elle ne mettra plus jamais les pieds en Chine continentale.
+Ocho días después del concierto, tanques entraron en la Plaza de Tiananmen, en Pekín. El plan de gira por China continental que Teresa Teng ya tenía programado para ese año quedó anulado[^5]. Desde entonces, nunca volvió a pisar China continental.
 
-Cette image ne correspond pas du tout à son image accumulée pendant trente ans en tant que « Mère des chansons d'amour » dans le monde chinois. Pourquoi une femme qui chantait _La lune représente mon cœur_ aurait-elle choisi, à l'âge de 36 ans, de monter sur la scène de Happy Valley et de porter une pancarte « Contre la loi martiale » ?
+Esta imagen no encaja en absoluto con la imagen de «madrina de las canciones de amor» que ella había construido durante treinta años en el mundo de habla china. ¿Por qué una mujer que cantaba 〈El corazón representa mi amor〉 elegiría subir al escenario de Happy Valley a los 36 años y portar un cartel de «Contra la administración militar»?
 
-Elle n'est pas sortie soudainement. Toute sa vie, elle a en fait choisi son camp.
+Ella no dio un paso al frente de repente. En realidad, toda su vida estuvo eligiendo un bando.
 
-## Li Jun dans le village de militaires
+## Lì-yún en la aldea de familias militares
 
-Le vrai nom de Teresa Teng est Deng Li-Jun. Le caractère « Jun » (筠) se prononçait initialement « Yun », mais les voisins de son village natal à Yunlin le prononçaient « Jun », homophone de « Jun » (君). Plus tard, lors de ses débuts, elle a simplement changé « Jun » en « Jun » comme nom de scène[^6]. Ce changement de nom cache la complexité de ses origines : elle est la fille de la deuxième génération des « Externes » (provenant du continent), ayant grandi dans un dortoir militaire d'un village de provinciaux.
+El nombre real de Teresa Teng era Deng Lì-yún. Originalmente, «Lì-yún» (筠) se pronunciaba como «yún» (雲), pero sus vecinos en su pueblo natal de Yunlin lo pronunciaban como «jūn» (均), que suena igual que «Jūn» (君). Por ello, cuando debutó, decidió cambiar simplemente el carácter 「筠」 por 「君」 para su nombre artístico[^6]. Este cambio de nombre oculta la complejidad de sus orígenes: era una hija de la segunda generación de los _waishengren_ (personas llegadas de China continental), pero creció en un dormitorio de familias militares en una zona rural de la provincia local.
 
-Le 29 janvier 1953, elle naît dans une famille militaire du village de Tianyang, canton de Baozhong, comté de Yunlin. Son père, Deng Shu, est originaire du district de Daming, province du Hebei, un officier de l'armée nationale qui a suivi le gouvernement nationaliste à Taïwan ; sa mère, Zhao Sogui, est originaire du district de Dongping, province du Shandong[^6]. Sur l'île de Taïwan, juste après le 28 Février, le début de la réforme agraire et l'arrivée de 1,2 million de réfugiés du continent, une famille de bas grade d'officiers « Externes » comme la famille Deng n'est pas rare ; ce qui est rare, c'est que la quatrième fille de leur famille savait chanter une chanson complète dès l'âge de 3 ans.
+El 29 de enero de 1953, nació en el seno de una familia de militares en la aldea de Tianyang, municipio de Baozhong, condado de Yunlin. Su padre, Deng Shū, era originario del condado de Daming, provincia de Hebei, y un oficial del ejército nacionalista que se trasladó a Taiwán con el Gobierno Nacionalista; su madre, Zhào Sù-guì, era de la provincia de Shandong, condado de Dongping[^6]. En una isla como Taiwán, que tras la guerra acababa de atravesar el incidente del 228, iniciaba la reforma agraria y recibía a 1,2 millones de refugiados procedentes de China continental, una familia de oficiales de bajo rango como la de Deng no era algo inusual; lo que sí era extraordinario era que la cuarta hija de la familia pudiera cantar canciones completas desde los tres años.
 
-En 1964, à 11 ans, elle remporte le premier prix du concours de chant Huangmei de Radio Zhonghua avec la chanson _Visiter Ying Tai_. En 1967, à 14 ans, elle quitte l'école pour rejoindre Universal Records, et publie son premier album en septembre : _Le Chant de Teresa Teng Vol.1 · Tambour de Fengyang_[^7]. Elle devient professionnelle dès lors. Trois ans plus tard, elle est une figure fixe des variétés télévisées taïwanaises ; cinq ans plus tard, elle chante dans les communautés chinoises d'Asie du Sud-Est ; sept ans plus tard, elle prend l'avion pour Tokyo.
+En 1964, con 11 años, ganó el primer premio en el concurso de canto de ópera Huangmei de la Radio China en Taiwán con la canción 〈Fǎng Yīng-tái〉. En 1967, a los 14 años, dejó los estudios en la Escuela Secundaria Femenina Jinling para unirse a Cosmic Records, y en septiembre lanzó su primer álbum, 《Deng Lìjūn zhī gē dì yī jí · Fèngyáng huāgǔ》[^7]. A partir de ahí, se profesionalizó. Tres años después ya era una presencia fija en los programas de variedades de la televisión taiwanesa; cinco años después, cantaba para toda la comunidad china del sudeste asiático; y siete años después, ya volaba en aviones hacia Tokio.
 
-L'année de sa naissance, Chiang Kai-shek annonce sur la ligne de front de Kinmen que la « Contre-attaque du continent » entre dans la phase de préparation militaire. L'année de sa renommée, la Révolution culturelle vient d'éclater à Pékin. Toute son enfance, toute son adolescence, toute sa carrière professionnelle, se superposent sur la fissure la plus profonde de la Guerre froide. Ce qu'elle a fait par la suite, c'est utiliser sa voix, décrite par le compositeur japonais Takashi Miki comme « n'ayant pas besoin qu'on lui dise les nuances émotionnelles, elle peut chanter trois versions à partir d'une seule ligne de paroles »[^8], pour contourner une par une ces frontières nationales.
+El año en que nació, Chiang Kai-shek anunció desde el frente de Kinmen que la «contraofensiva contra China continental» entraba en fase de preparación militar. El año en que alcanzó la fama, la Revolución Cultural acababa de estallar en Pekín. Toda su infancia, su adolescencia y su carrera profesional se desarrollaron sobre la grieta más profunda de la Guerra Fría. Lo que hizo después fue utilizar esa voz —que el compositor japonés Takashi Miki describió como una que «no necesita que le expliquen los matices emocionales, pues ella misma es capaz de cantar tres versiones distintas a partir de una sola frase de la letra»[^8]— para sortear, una a una, todas aquellas fronteras de nivel estatal.
 
-## « Quand reviendras-tu ? » interdit des deux côtés
+## 〈He ri jun zai lai〉, prohibida a ambos lados del estrecho
 
-Avant Happy Valley, elle a d'abord rendu populaires une série de chansons interdites.
+Antes de Happy Valley, ella ya se había hecho famosa con una serie de canciones prohibidas.
 
-En 1977, elle inclut [« La lune représente mon cœur »](https://www.youtube.com/watch?v=ZklEEROF_Gw) dans _Chants d'amour de l'île, Vol.4 — L'amour à Hong Kong_. Cette chanson est originellement chantée par Chen Fenlan en 1973, composée par Weng Qingxi, avec des paroles de Sun Yi[^9], mais c'est la version de Teresa Teng qui la fait devenir la première chanson de déclaration d'amour du monde chinois. L'année suivante, en 1978, elle réinterprète _Quand reviendras-tu ?_, originellement chantée par Zhou Xuan en 1937, enregistrant une version chinoise et une version japonaise. Cette chanson est interdite en Chine continentale sous le double reproche de « chanson de collaborateur » et de « musique décadente » ; à Taïwan, elle est également une fois sur la liste des chansons interdites car le titre est interprété comme « Espérant le retour du Parti communiste »[^10]. Interdite simultanément des deux côtés, écoutée secrètement des deux côtés.
+En 1977, grabó [〈The Moon Represents My Heart〉](https://www.youtube.com/watch?v=ZklEEROF_Gw) en el álbum 《Canciones de amor de las islas, vol. 4: Amor en Hong Kong》. Esta canción fue interpretada originalmente por Chen Fen-lan en 1973, con música de Weng Ching-hsi y letra de Sun Yi[^9], pero la versión que realmente la convirtió en la primera canción para declaraciones de amor del mundo chino fue la de Teresa Teng. Al año siguiente, en 1978, reinterpretó 〈He ri jun zai lai〉 (¿Cuándo volverás, mi señor?), interpretada originalmente por Zhou Xuan en 1937, grabando versiones tanto en chino como en japonés. Esta canción fue prohibida en China continental bajo el doble cargo de ser una «canción de traidores» y «música decadente»; en Taiwán también figuró en la lista de canciones prohibidas durante un tiempo porque el título se interpretó como un «deseo del regreso del Partido Comunista»[^10]. Prohibida simultáneamente a ambos lados del estrecho, pero escuchada en secreto por personas en ambos lados.
 
-En novembre 1979, PolyGram publie l'album [« Doux comme le miel »](https://www.youtube.com/watch?v=Uc7MYu0BRdg) à Hong Kong. La chanson titre est basée sur la chanson folk indonésienne _Dayung Sampan_, avec des paroles de Zhuang Nu, vendant plus d'un million d'exemplaires cette année-là[^11]. La même année, le film _Histoire d'une petite ville_, réalisé par Li Hsing, avec Lin Fengjiao et Chang Chen-tao dans les rôles principaux, remporte le meilleur film dramatique au 16e Golden Horse Awards, la chanson thème est chantée par elle[^12].
+En noviembre de 1979, PolyGram Hong Kong lanzó el álbum [〈Tian Mi Mi〉](https://www.youtube.com/watch?v=Uc7MYu0BRdg). La melodía del tema principal proviene de la canción folclórica indonesia 《Dayung Sampan》 y la letra fue escrita por Chuang Nu; las ventas superaron el millón de copias ese mismo año[^11]. Ese mismo año, la película 《Historia de una pequeña ciudad》, dirigida por Li Hang y protagonizada por Lin Feng-chiao y Chung Chun-tao, ganó el premio a la Mejor Película de Ficción en la 16.ª edición de los Golden Horse Awards, y ella interpretó el tema principal[^12].
 
-« Doux comme le miel » et « Histoire d'une petite ville » sont enregistrés à Los Angeles — parce que cette année-là, son passeport a posé problème.
+Tanto 〈Tian Mi Mi〉 como 〈Historia de una pequeña ciudad〉 se grabaron en Los Ángeles, debido a que ese año tuvo problemas con su pasaporte.
 
-## Un passeport indonésien ne peut pas enfermer une chanteuse de la Guerre froide
+## Un pasaporte indonesio no pudo contener a una cantante de la Guerra Fría
 
-Le 14 février 1979, le vol CI116 de China Airlines atterrit à l'aéroport de Haneda à Tokyo. Teresa Teng est arrêtée au guichet du contrôle des entrées. Elle utilise un passeport indonésien[^13].
+El 14 de febrero de 1979, el vuelo CI116 de China Airlines aterrizó en el aeropuerto de Haneda, Tokio, procedente de Hong Kong. Teresa Teng fue interceptada en el control de inmigración. Utilizaba un pasaporte indonesio[^13].
 
-Le Ministère de la Justice du Japon la détient pendant huit jours. Le 22 février, le résultat de l'enquête : le passeport n'est pas falsifié (le gouvernement indonésien lui a bien délivré un passeport), mais l'entrée au Japon sous nationalité indonésienne viole les règlements d'entrée. Le 24 février, l'expulsion est ordonnée, avec une interdiction d'entrée d'un an[^13]. L'événement est largement rapporté par les médias de Taïwan, Hong Kong et du Japon ; elle a alors 26 ans.
+El Ministerio de Justicia de Japón la detuvo durante ocho días. El 22 de febrero, los resultados de la investigación indicaron que el pasaporte no era falso (el gobierno de Indonesia efectivamente se lo había expedido), pero su entrada en Japón con nacionalidad indonesia violaba las normativas de inmigración. El 24 de febrero se dictaminó su expulsión y la prohibición de entrada al país durante un año[^13]. El incidente fue ampliamente cubierto por los medios de Taiwán, Hong Kong y Japón; ella tenía 26 años en aquel entonces.
 
-Pourquoi n'utilisait-elle pas le passeport de la République de Chine ?
+¿Por qué no utilizó el pasaporte de la República de China (Taiwán)?
 
-En 1972, le Japon rompt ses relations avec la République de Chine et établit des relations diplomatiques avec la République populaire de Chine. Les visas de travail pour les artistes taïwanais au Japon deviennent de plus en plus difficiles à obtenir à partir de la seconde moitié des années 1970. L'utilisation d'un passeport d'un tiers pays est une méthode courante pour les artistes chinois d'Asie de l'Est pour contourner les dilemmes diplomatiques à cette époque — elle a simplement été prise.
+En 1972, Japón rompió relaciones con la República de China (Taiwán) y estableció relaciones diplomáticas con la República Popular China. A partir de mediados y finales de la década de 1970, se volvió cada vez más difícil para los artistas taiwaneses obtener visados de trabajo en Japón. El uso de pasaportes de terceros países era un método común entre los artistas de habla china en el este de Asia para sortear las dificultades diplomáticas; la diferencia es que a ella la atraparon.
 
-Elle vole vers Los Angeles. Là-bas, elle suit des cours optionnels de biologie à l'UCLA, enregistre « Doux comme le miel », enregistre « Histoire d'une petite ville », et a une liaison de trois ans avec un Jacky Chen encore peu connu[^14]. C'est la première fois dans sa vie qu'elle est « contrainte de trouver un endroit pour respirer » — la première leçon de géographie d'une chanteuse de la Guerre froide.
+Voló a Los Ángeles. Allí cursó una asignatura optativa en el departamento de biología de la UCLA, grabó 《Tian Mi Mi》, grabó 《Historia de una pequeña ciudad》 y mantuvo una relación de tres años con un Jackie Chan que aún no era famoso en aquel entonces[^14]. Esta fue la primera vez en su vida que se vio «obligada a buscar un lugar donde respirar»: la primera lección de geografía de una cantante de la Guerra Fría.
 
-> **📝 Note du conservateur**
-> L'événement du faux passeport de 1979 est, en surface, une affaire de droit sur l'immigration, mais en profondeur, il reflète le dilemme structurel de l'identité des artistes chinois d'Asie de l'Est à cette époque : sous l'ère des deux Chiang, la République de Chine perdait du terrain sur la reconnaissance internationale, les artistes ayant de plus en plus de mal à voyager à l'étranger, faisant des passeports de tiers pays, des enregistrements de tiers pays et des spectacles de tiers pays une norme. Teresa Teng n'était ni la première ni la dernière chanteuse chinoise à utiliser une identité de tiers pays pour contourner les frontières de la Guerre froide, elle est simplement la plus célèbre.
+> **📝 Nota del curador**
+> El incidente del pasaporte falso de 1979 es, superficialmente, un caso de ley de inmigración, pero en el fondo revela la dificultad estructural de la identidad de los artistas de habla china en el este de Asia en aquella época: durante la era de los dos Chiang, la República de China (Taiwán) perdía reconocimiento internacional progresivamente, lo que dificultaba cada vez más los viajes al extranjero para los artistas. Por ello, el uso de pasaportes de terceros países, grabaciones en terceros países y actuaciones en terceros países se convirtió en la norma. Teresa Teng no fue la primera ni la última cantante de habla china en utilizar una identidad de un tercer país para sortear las fronteras de la Guerra Fría; simplemente fue la más famosa.
 
-## _Tsuganai_, _Aijin_, _Ji no Nagare ni Mi o Makase_
+## Tsugunai, Aijin y Toki no Nagare ni Mi o Makase
 
-Un an après l'interdiction, elle revient au Japon. En 1983, elle signe avec Taurus Records. Le 21 janvier 1984, elle publie [« Tsuganai (Remboursement) »](https://www.youtube.com/watch?v=ZS2_FELicGY). Paroles de Yoshihisa Araki, musique de Takashi Miki, son duo créatif de chansons de management au Japon pour les trois dernières années. En août de la même année, elle atteint la première place du classement Oricon, reste au classement pendant 41 semaines, remportant le « Japan Cable Music Awards » et le « All Japan Cable Broadcasting Awards » doublement[^15].
+Un año después de que se levantara la prohibición, regresó a Japón. En 1983 firmó con Taurus Records y el 21 de enero de 1984 lanzó [〈Tsugunai (Reparación)〉](https://www.youtube.com/watch?v=ZS2_FELicGY). Con letra de Araki Toyohisa y música de Miki Takashi, este dúo creativo se convirtió en su equipo de gestión de canciones de oro durante sus últimos tres años en Japón. En agosto de ese año, alcanzó el primer puesto en la lista Oricon y permaneció en ella durante 41 semanas, ganando tanto el 「Japan Wired Award」 como el 「All Japan Wired Broadcasting Award」[^15].
 
-L'année suivante, _Aijin_, reste premier au classement de la demande par câble pendant 14 semaines consécutives. Le 31 décembre 1985, elle monte pour la première fois sur la scène du _Kōhaku Uta Gassen_ de NHK, apparaissant dans le costume de l'impératrice Yang Guifei[^16]. L'année suivante, _Ji no Nagare ni Mi o Makase_, remporte le Prix d'Or du 28e Japan Record Awards, classé 2ème pour les demandes de karaoké au Japon en 1986[^17]. La version chinoise _Je ne m'intéresse qu'à toi_ est publiée en décembre de la même année.
+Al año siguiente, con 〈Aijin〉, ocupó el primer lugar en las listas de peticiones de radio durante 14 semanas consecutivas. El 31 de diciembre de 1985, apareció por primera vez en el NHK Kohaku Uta Gassen con un estilo inspirado en Yang Guifei[^16]. Un año más tarde, con 〈Toki no Nagare ni Mi o Makase〉, obtuvo el Gran Premio en la 28.ª Japan Record Awards y fue la segunda canción más cantada en los karaokes de Japón en 1986[^17]. La versión en chino, 〈Wo Zhi Zai Hu Ni〉 (Solo te amo), se lanzó en diciembre del mismo año.
 
-De 1984 à 1986, pendant trois années consécutives, elle remporte le triplé des deux grands prix, le « Japan Cable Music Awards » et le « All Japan Cable Broadcasting Awards », avec ces trois chansons japonaises — le premier artiste étranger de l'histoire de l'industrie musicale japonaise à y parvenir[^18].
+Durante tres años consecutivos, de 1984 a 1986, logró un triplete de los dos grandes premios, el 「Japan Wired Award」 y el 「All Japan Wired Broadcasting Award」 con estas tres canciones en japonés; fue la primera artista extranjera en lograrlo en la historia de la industria musical japonesa[^18].
 
-Le sens de ces trois chansons est la même chose : une femme cède pour l'amour, subit pour l'amour, attend pour l'amour. La tristesse japonaise est une autre voie pour contourner les frontières nationales. La même voix, chantant _Quand reviendras-tu ?_ à Taïwan est accusée de « souhaiter le communisme », écoutée comme « la sœur du quartier » à Pékin, élevée au rang de « Reine du Mandarin » à Hong Kong, remportant le Kōhaku et le Prix d'Or du Record à Tokyo. Sa carrière professionnelle est un système émotionnel qui peut basculer librement entre les langues : japonais, mandarin, cantonais, anglais, indonésien, elle a tout chanté.
+El significado lírico de estas tres canciones es el mismo: una mujer que cede por amor, que soporta por amor y que espera por amor. La melancolía de sus temas en japonés fue otra vía para trascender las fronteras nacionales. Con la misma voz, al cantar 〈He Ri Jun Zai Lai〉 en Taiwán, se decía que «anhelaba al Partido Comunista»; en Pekín, se la escuchaba como una «hermana vecina»; en Hong Kong, fue aclamada como la «Reina del Mandarín»; y en Tokio, obtuvo el Kohaku y el Gran Premio de los Japan Record Awards. Su carrera profesional fue un sistema emocional capaz de cambiar de idioma a voluntad: japonés, mandarín, cantonés, inglés e indonesio; lo cantó todo.
 
-## L'air de Kinmen peut être mis dans un sac en plastique
+## El aire de Kinmen se podría guardar en bolsas de plástico
 
-Elle a une autre identité non dite : la Chanteuse des casernes.
+Tenía otra identidad que no mencionó: la amante de los militares.
 
-Le 4 octobre 1980, elle se rend pour la première fois à Kinmen avec une troupe de réconfort des troupes pendant une journée et demie, donne deux spectacles, chante neuf chansons : _Mille mots et mille phrases_, _Histoire d'une petite ville_, _Quand reviendras-tu ?_, _Rhéa_, _Parfum de la nuit_, _Fleur sauvage au bord du chemin_, _Vin et café_, _Montagne haute et verte_, _Le ciel est noir_, animées par Tian Wenzhong et Hong Lin de TVBS[^19]. En août 1981, elle se rend dans les casernes de tout Taïwan pour un mois de réconfort des troupes, TVBS produit et diffuse le reportage spécial _Jun Qian Suo_ (La Chanteuse aux Avant-postes), visitant Guningtou, Mashan, Hujingtou, l'Hôpital Huagangshi, et l'île de Da'er Dan[^20].
+El 4 de octubre de 1980, viajó por primera vez con una delegación de apoyo a las tropas a Kinmen durante un día y medio. Realizó dos actuaciones e interpretó nueve canciones, entre ellas 〈Qian Yan Wan Yu〉, 〈Xiao Cheng Gu Shi〉, 〈He Ri Jun Zai Lai〉, 〈Hai Yun〉, 〈Ye Lai Xiang〉, 〈Lu Bian Ye Hua〉, 〈Mei Jiu Jia Ka Fei〉, 〈Gao Shan Qing〉 y 〈Tian Hei Hei〉, en un programa presentado por Tian Wen-zhong y Hong Lin de TTV[^19]. En agosto de 1981, pasó un mes visitando campamentos militares en todo Taiwán; TTV produjo el especial 《Jun Zai Qian Shao》, que recorrió lugares como Gu Ning Tou, Ma Shan, Hu Jing Tou, el Hospital de Granito y la isla de Da Er Dan[^20].
 
-Le soir du banquet sur la montagne Taiwu, elle dit aux journalistes qui l'accompagnaient :
+Aquella noche del banquete en el monte Taiwu, le dijo a los periodistas que la acompañaban:
 
-> « L'air de Kinmen est non seulement frais, mais porte aussi une saveur douce et le parfum de la terre... On a vraiment envie d'en mettre dans un sac en plastique pour le ramener à Taïwan et respirer profondément. »[^21]
+> «El aire de Kinmen no solo es fresco, sino que tiene un toque dulce y el aroma de la tierra... Realmente dan ganas de guardarlo en bolsas de plástico para llevarlo a Taiwán y respirar profundamente».[^21]
 
-Elle disait cela en plaisantant. Les soldats gardant Kinmen étaient avides de sa voix, elle aimait l'air de Kinmen. Elle n'aurait probablement pas imaginé qu'14 ans plus tard, elle mourrait en cherchant un sac d'air pur.
+Dijo esto en tono de broma. Los soldados que custodiaban Kinmen anhelaban su voz, y ella disfrutaba del aire de la isla. Probablemente nunca imaginó que, catorce años después, moriría precisamente por buscar una bolsa de aire limpio.
 
-Le 8 mars 1991, deux ans après le 4 juin, elle se rend à Kinmen pour réconforter les troupes à ses frais. Arrivant au poste d'observation de Mashan (l'avant-poste le plus avancé de Kinmen, à seulement 2,1 km de la rive de Xiamen, ce blockhaus en béton), elle dit au micro qui s'adresse à la Chine continentale :
+El 8 de marzo de 1991, dos años después del incidente de la plaza de Tiananmen, viajó a Kinmen con sus propios gastos para apoyar a las tropas. Al llegar al observatorio de Ma Shan (el fuerte de hormigón situado en la primera línea de Kinmen, a solo 2,1 km de la costa de Xiamen), habló ante los micrófonos que se utilizaban para dirigirse a China continental:
 
-> « Je suis heureuse de me tenir sur la première ligne de la patrie libre — Kinmen. J'espère que les compatriotes de la Chine continentale peuvent aussi profiter de la même démocratie et liberté que nous. »[^21]
+> «Me alegra mucho poder estar en la primera línea de nuestra patria libre: Kinmen. Espero que nuestros compatriotas en China continental también puedan disfrutar de la misma democracia y libertad que nosotros».[^21]
 
-Elle s'est rendue à Kinmen au total cinq fois pour réconforter les troupes[^22]. Le Département de défense de Kinmen a publiquement sur les médias taïwanais la qualifiée de « Chanteuse des casernes éternelle ».
+En total, visitó Kinmen para apoyar a las tropas en cinco ocasiones[^22]. El Comando de Defensa de Kinmen la llamó públicamente en los medios de comunicación de Taiwán como «la eterna amante de los militares».
 
-## Après Happy Valley, elle ne reviendra plus
+## Después de Happy Valley, nunca regresó
 
-Après le 27 mai 1989, le projet de tournée de concerts en Chine continentale prévu pour cette année-là est annulé[^5]. Les disques de Teresa Teng sont discrètement retirés de la vente en Chine continentale.
+Después del 27 de mayo de 1989, el plan de una gira de conciertos por China continental que se había organizado originalmente quedó anulado[^5]. Los discos de Teresa Teng fueron retirados silenciosamente de las tiendas en China continental.
 
-Elle ne s'est pas arrêtée.
+Pero ella no se detuvo.
 
-En 1990, à l'anniversaire du 4 juin, elle chante _La blessure de l'histoire_ lors d'un événement commémoratif à Paris, s'interrompant en sanglots. En 1992, elle chante à nouveau _Le vent taché de sang_, _Histoire d'une petite ville_, _La blessure de l'histoire_ lors de l'événement commémoratif du 4 juin à Paris, disant sur place :
+En el aniversario del 4 de junio de 1990, cantó 〈Heridas de la historia〉 (歷史的傷口) en un acto conmemorativo en París, interrumpiendo su interpretación entre lágrimas. En 1992, volvió a cantar en un evento conmemorativo del 4 de junio en París las canciones 〈El estilo teñido de sangre〉 (血染的風采), 〈Historia de una pequeña ciudad〉 (小城故事) y 〈Heridas de la historia〉 (歷史的傷口), declarando ante el público:
 
-> « Je ne me courberai jamais devant la tyrannie, je ne transigerai jamais avec la pression ! »[^23]
+> «¡Jamás me inclinaré ante la tiranía, jamás cederé ante la presión!»[^23]
 
-Le 4 juin 1993, lors de la réunion commémorative du 4 juin sur la Place des droits de l'homme à Paris, Wu'er Kaixi et d'autres militants démocratiques en exil étaient présents. Selon les souvenirs de Wu'er Kaixi, Teresa Teng leur a dit : « Ne transigez pas avec le despotisme, ne cédez pas devant la tyrannie ! »[^24]
+En la reunión conmemorativa del 4 de junio en la Plaza de los Derechos Humanos de París, el 4 de junio de 1993, estuvieron presentes activistas exiliados del movimiento democrático como Wu'er Kaixi. Según el recuerdo de Wu'er Kaixi, Teresa Teng les dijo: «¡No cedáis ante el autoritarismo, no os sometáis a la tiranía!»[^24]
 
-Cette ligne politique s'étend jusqu'à sa dernière année. Mais elle ne s'est jamais exprimée clairement sur les questions de politique intérieure taïwanaise — elle ne choisit ni le Bleu ni le Vert. Elle a choisi une vérité supérieure aux partis des deux rives : elle voulait la liberté, elle voulait la démocratie. C'est le坐标 politique qu'elle a construit pendant 42 ans en tant que fille de la deuxième génération des « Externes » issue d'un village de militaires.
+Esta línea política se extendió hasta su último año. Sin embargo, ella nunca tomó una postura explícita sobre los asuntos internos de Taiwán; no elegía entre el azul o el verde. Ella eligió un principio de justicia que estaba por encima de los partidos políticos de ambos lados del estrecho: quería libertad y quería democracia. Esta fue la coordenada política que construyó a lo largo de 42 años como hija de una familia militar de la segunda generación de los _waishengren_.
 
-## Le quinzième étage de Chiang Mai, un décalage de cinq minutes
+## Décimo quinto piso en Chiang Mai, una diferencia de cinco minutos
 
-Son asthme datait de son enfance.
+Su asma la acompañaba desde la infancia.
 
-Fin décembre 1994, son asthme s'aggrave. Elle déménage à Chiang Mai en Thaïlande pour se soigner avec son petit ami Paul (Paul Puel Stéphane Quilery, photographe français, 15 ans plus jeune qu'elle, qu'elle a rencontré en 1989 au restaurant « Nouvelle Dunhuang » à Paris[^25]). Fin avril 1995, elle est hospitalisée pour la troisième fois au Presidential Suite du 15ème étage de l'hôtel Imperial Mae Ping[^26].
+A finales de diciembre de 1994, debido a un agravamiento de su asma, se trasladó a Chiang Mai, Tailandia, para recuperarse junto a su novio Paul (Paul Puel Stéphane Quilery, fotógrafo francés, 15 años menor que ella; se conocieron en 1989 en el restaurante «New Dunhuang» de París[^25]). A finales de abril de 1995, se alojó por tercera vez en la suite presidencial del piso 15 del Imperial Mae Ping Hotel[^26].
 
-Tard dans la nuit du 7 mai, elle regarde un film avec Paul dans la chambre jusqu'au petit matin. Le 8 mai, elle se lève plus tard. À 15h30, Paul lui demande ce qu'elle veut manger, elle répond « poulet ». Paul descend pour faire les courses.
+En la madrugada del 7 de mayo, ella y Paul se quedaron viendo una película en la habitación hasta la madrugada. El 8 de mayo, ella se levantó más tarde; a las 3:30 p. m., Paul le preguntó qué quería comer y ella respondió «pollo». Paul bajó para salir a comprar.
 
-Pendant ces cinq minutes, son asthme s'est déclenché soudainement.
+En esos cinco minutos, el asma le dio un ataque repentino.
 
-Selon les rapports sur place, son inhalateur d'asthme était vide ; elle a quitté sa chambre pour demander de l'aide dans le couloir du 15ème étage, s'est effondrée devant le guichet du personnel. Le personnel l'a envoyée d'urgence à l'hôpital Ram de Chiang Mai (Chiang Mai Ram Hospital). À 17h30, heure thaïlandaise, l'hôpital a déclaré qu'elle était décédée. Âgée de 42 ans[^27].
+Según los informes de la época, su inhalador ya estaba vacío; salió de la habitación hacia el pasillo del piso 15 para pedir ayuda y se desplomó frente al mostrador de recepción. El personal la trasladó de urgencia al Chiang Mai Ram Hospital. A las 5:30 p. m., hora de Tailandia, el hospital declaró su fallecimiento. Tenía 42 años[^27].
 
-Paul a ensuite été suspecté à plusieurs reprises. Il est 15 ans plus jeune qu'elle, il a refusé l'autopsie, il est étranger — ces trois éléments se sont superposés dans l'opinion publique de Taïwan et de Hong Kong à l'époque pour créer un récit de « motif suspect ». Il a ensuite disparu presque de la vue du public. Selon des amis qui le connaissent ayant relaté en 2024, il subit encore des attaques en ligne aujourd'hui[^28].
+Paul fue objeto de constantes sospechas posteriormente. Era 15 años menor que ella, se negó a la autopsia y era extranjero; estos tres hechos se combinaron en la opinión pública de Taiwán y Hong Kong para crear una narrativa de «motivos sospechosos». Tras aquello, casi desapareció del ojo público. Según relataron varios amigos que lo conocían en 2024, sigue siendo víctima de ataques en internet debido a este suceso[^28].
 
-Le matin du 28 mai à 9 heures, les funérailles sont tenues au Premier Morgue de Taipei, Song Chu-yu, alors gouverneur de la province de Taïwan, servant de président d'honneur du comité funéraire et présidant la cérémonie. À 11h30, dix officiers des trois armées portent le cercueil, le convoi funéraire se dirige vers le « Tombeau Jun » au Mont Jinbao à Jinshan, ville de Nouvelle-Taïwan, pour l'inhumation[^29]. C'est le caractère créé avec son vrai nom « Li Jun », adossé à la montagne et face à la mer, regardant vers ce continent qu'elle n'a jamais foulé. Plus de 200 000 personnes l'ont accompagnée ce jour-là.
+El 28 de mayo a las 9:00 a. m., el funeral se celebró en el Primer Tanatorio de Taipéi; James Soong, entonces Gobernador de la Provincia de Taiwán, actuó como presidente honorario del comité funerario y dirigió el rito. A las 11:30 a. m., diez militares de las tres fuerzas armadas escoltaron su féretro hasta el cementerio «Yun Yuan» en Jinbao Shan, Jinsan, Nueva Taipéi, para su entierro[^29]. Ese era el nombre que ella misma había elegido con su nombre real, «Li-yun», orientado hacia las montañas y el mar, de cara a esa China continental que nunca llegó a pisar. Ese día, más de 200,000 personas la despidieron.
 
-Elle n'a jamais été mariée de sa vie. Dix officiers des trois armées la portent pour le dernier trajet — l'armée nationale qu'elle a adoucie par sa voix, la accompagnant dans son dernier voyage.
-
----
-
-Il circule en Chine continentale une phrase : « Le jour, on écoute le vieux Deng, la nuit, on écoute le petit Deng »[^30]. Le vieux Deng est parti en 1997, le petit Deng est parti en 1995. Les deux années intermédiaires sont la page que les livres d'histoire de la Réforme et de l'Ouverture n'écrivent pas — qui accompagnait les Chinois à s'endormir dans la nuit où le discours officiel échouait.
-
-Elle a cherché toute sa vie un sac d'air pur. La Deng de Kinmen voulait en mettre un à Taïwan, la Deng de Chiang Mai ne l'a pas trouvé.
-
-Le 8 mai 2026, c'est le 31ème anniversaire de sa mort. La suite présidentielle du 15ème étage de l'InterContinental Chiang Mai Mae Ping (anciennement Imperial Mae Ping Hotel) est toujours conservée comme sa chambre commémorative, et peut être réservée pour une nuit[^31]. Le couloir par lequel elle est sortie pour la dernière fois est le même qu'à l'époque, manquant une personne, ayant une photo d'elle en plus. Sous cette photo est gravée la phrase qu'elle a dite à 36 ans à Happy Valley :
-
-> « Ce que je veux dire dans mon cœur. »
+Nunca se casó. Diez militares de las tres fuerzas armadas la cargaron para completar su último viaje: fue el ejército de aquel país que ella había suavizado con su voz quien la acompañó en su partida.
 
 ---
 
-**Lecture complémentaire** :
+En China continental circulaba una frase: «De día escucha al Viejo Deng, de noche escucha al Pequeño Deng».[^30] El Viejo Deng partió en 1997; el Pequeño Deng se fue antes, en 1995. Los dos años intermedios representan esa página que los libros de historia de la reforma y apertura no escriben: en la profundidad de la noche, cuando el discurso oficial perdía su efecto, era ella quien acompañaba a los chinos hacia el sueño.
 
-- [Musique pop taïwanaise](/es/music/golden-melodies-legacy-taiwan-pop-music) — L'âge d'or de la musique pop mandarin et le contexte industriel dans lequel elle évoluait
-- [Mouvement de la chanson folk taïwanaise](/es/music/taiwan-campus-folk-song-movement) — Un mouvement d'éveil local dans la scène musicale taïwanaise des années 1970, de la même génération qu'elle
-- [Période de la loi martiale](/es/history/martial-law-era) — La structure politique fondamentale de la société taïwanaise avant son départ pour le Japon à 20 ans
-- [Terreur blanche à Taïwan](/es/history/taiwan-white-terror) — Le climat politique de Taïwan pendant sa période de croissance
-- [Crise du détroit de Taïwan et développement des relations entre les deux rives](/es/history/taiwan-strait-crises-and-cross-strait-relations) — La frontière de la Guerre froide qu'elle a contournée par sa voix
-- [Lin Qingxia](/es/people/brigitte-lin-legendary-actress) — Une autre superstar du cinéma et de la télévision taïwanaise de sa génération, un autre coordinateur du réseau des stars chinoises d'Asie de l'Est des années 1970-1980
+Toda su vida buscó una bolsa de aire limpio. La mujer de Kinmen decía que quería llenar una bolsa para llevarla de vuelta a Taiwán; la mujer de Chiang Mai no logró encontrarla.
 
-## Références
+El 8 de mayo de 2026 se cumplirán 31 años de su fallecimiento. La suite del piso 15 del InterContinental Chiang Mai Mae Ping se conserva hasta hoy como su habitación conmemorativa y puede reservarse para estancias[^31]. Ese pasillo por el que salió por última vez es igual al de aquel entonces; solo que falta una persona y sobra una fotografía suya. Bajo esa foto está grabada la frase que dijo en Happy Valley cuando tenía 36 años:
 
-[^1]: [Chants de démocratie pour la Chine — Wikipédia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E6%AD%8C%E8%81%B2%E7%8D%BB%E4%B8%AD%E8%8F%AF) — Informations complètes sur le concert marathon de 12 heures pour collecter des fonds à l'hippodrome de Happy Valley à Hong Kong le 27/5/1989, 150 artistes de l'industrie du spectacle de tout Hong Kong participant, collectant 13 millions de dollars de HKD, près d'un million de personnes estimées être entrées selon _Cheng Bao_.
+> «Lo que mi corazón quería decir era esto».
 
-[^2]: [Fount Media — Scène de Happy Valley de Teresa Teng en 1989](https://www.fountmedia.io/article/59870) — Enregistrement détaillé du look de Teresa Teng avec un bandage blanc « Vive la démocratie » sur la tête et une pancarte manuscrite « Contre la loi martiale » sur la poitrine, ainsi que le texte intégral de ses déclarations avant le chant.
+---
 
-[^3]: [Fount Media — Déclaration de Teresa Teng à Happy Valley](https://www.fountmedia.io/article/59870) — Transcription mot à mot des déclarations de Teresa Teng sur scène avant de chanter _Ma maison est de l'autre côté de la montagne_ le 27/5/1989, corroborée par des images en direct sur YouTube.
+**Lecturas adicionales**:
 
-[^4]: [Vidéo en direct de Chants de démocratie pour la Chine de Teresa Teng sur YouTube](https://www.youtube.com/watch?v=IGAmxD8cJ4s) — Enregistrement complet de la chanson en direct le 27/5/1989, permettant de vérifier le texte des paroles. _Ma maison est de l'autre côté de la montagne_ est une chanson d'accompagnement du film de 1958 _L'amour de Shwe Bo_, paroles de Wang Chen, musique de Zhou Lanping.
+- [Música popular de Taiwán](/es/music/golden-melodies-legacy-taiwan-pop-music) — La era dorada de la música pop en chino y el contexto de la industria en la que ella se movió.
+- [Movimiento de la canción folclórica de Taiwán](/es/music/taiwan-campus-folk-song-movement) — El movimiento de conciencia local en la escena musical taiwanesa de la década de 1970, contemporáneo a ella.
+- [Periodo de la Ley Marcial](/es/history/martial-law-era) — La estructura política básica de la sociedad taiwanesa antes de que ella partiera al Japón a los 20 años.
+- [Terror Blanco en Taiwán](/es/history/taiwan-white-terror) — El trasfondo del clima político en Taiwán durante su etapa de crecimiento.
+- [Crisis en el estrecho y desarrollo de las relaciones a ambos lados del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — La frontera de la Guerra Fría que ella esquivó con su canto.
+- [Brigitte Lin](/es/people/brigitte-lin-legendary-actress) — Estrella de cine y televisión taiwanesa de su misma generación; otro referente en la red de estrellas de habla china de Asia Oriental de las décadas de 1970 y 1980.
 
-[^5]: [Grand Epoch Times 2024/1/2 — La position politique de Teresa Teng](https://www.epochtimes.com/b5/24/1/2/n14149352.htm) — Annulation de la tournée de concerts en Chine continentale prévue après _Chants de démocratie pour la Chine_ en 1989, et compilation de la position publique de Teresa Teng : « Si je chante en Chine continentale, ce jour-là sera le jour où le Sanminisme est mis en œuvre en Chine continentale ».
+## Referencias
 
-[^6]: [Teresa Teng — Wikipédia en chinois](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B) — L'origine du vrai nom Deng Li-Jun (nommé par un officier surnommé Yang de l'armée), l'évolution de la prononciation du caractère « Jun », l'origine du père Deng Shu dans le district de Daming, province du Hebei, l'origine de la mère Zhao Sogui dans le district de Dongping, province du Shandong.
+[^1]: [Voces de la democracia para China — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E6%AD%8C%E8%81%B2%E7%8D%BB%E4%B8%AD%E8%8F%AF) — Información completa sobre el concierto benéfico maratón de 12 horas en el Hipódromo de Happy Valley, Hong Kong, el 27/5/1989; participaron 150 artistas de todo el mundo del espectáculo de Hong Kong, recaudando 13 millones de dólares de Hong Kong, con una asistencia estimada de casi un millón de personas.
 
-[^7]: [Teresa Teng — Discogs](https://www.discogs.com/artist/582823-%E9%84%A7%E9%BA%97%E5%90%9B) — Enregistrement de la publication du premier album _Le Chant de Teresa Teng Vol.1 · Tambour de Fengyang_ en septembre 1967, métadonnées complètes des disques.
+[^2]: [Fount Media — Teresa Teng en vivo en Happy Valley](https://www.fountmedia.io/article/59870) — Registro detallado de la apariencia de Teresa Teng con una banda blanca en la cabeza que decía "¡Viva la democracia" y un cartel escrito a mano que decía "Contra la intervención militar", así como la transcripción palabra por palabra de su discurso antes de cantar.
 
-[^8]: [Takashi Miki : Hommage et Teresa Teng — Nippon.com](https://www.nippon.com/hk/japan-topics/g00878/) — Souvenirs publics et critiques musicales du compositeur japonais Takashi Miki sur les techniques de chant de Teresa Teng, incluant la période de collaboration triomphale de 1984-1986.
+[^3]: [Teresa Teng § Incidente del pasaporte indonesio de 1979 — Wikipedia](https://www.fountmedia.io/article/59870) — Cronología completa: detención al ingresar en el aeropuerto de Haneda, Tokio, con el vuelo CI116 de China Airlines el 14/2/1979; confirmación de que el pasaporte indonesio no era falso el 22/2; y la orden de deportación del Ministerio de Justicia de Japón el 24/2.
 
-[^9]: [La lune représente mon cœur — Wikipédia](https://zh.wikipedia.org/wiki/%E6%9C%88%E4%BA%AE%E4%BB%A3%E8%A1%A8%E6%88%91%E7%9A%84%E5%BF%83) — Histoire complète des versions : chant original de Chen Fenlan en 1973, composition de Weng Qingxi, paroles de Sun Yi, version de reprise de Teresa Teng en 1977 définissant la version standard.
+[^4]: [Grabación en vivo de Teresa Teng: Voces de la democracia para China en YouTube](https://www.youtube.com/watch?v=IGAmxD8cJ4s) — Grabación completa de las canciones en vivo del 27/5/1989, que permite verificar el texto de las letras. "Mi casa está al otro lado de la montaña" es una canción de la película de 1958 "El amor de los Shan" (Shui Baiyi zhi lian), con letra de Wang Chen y música de Zhou Lanping.
 
-[^10]: [Quand reviendras-tu ? — Wikipédia](https://zh.wikipedia.org/wiki/%E4%BD%95%E6%97%A5%E5%90%9B%E5%86%8D%E4%BE%86) — Chant original de Zhou Xuan en 1937, musique de Liu Xue'an, paroles de Huang Jiamo, histoire des chansons interdites des deux côtés et contexte de la réenregistrement en versions chinoise et japonaise par Teresa Teng en 1978.
+[^5]: [Epoch Times 2/1/2024 — La postura política de Teresa Teng](https://www.epochtimes.com/b5/24/1/2/n14149352.htm) — Detalles sobre la cancelación de su gira previamente planeada por China continental tras el evento "Voces de la democracia para China" en 1989, y la recopilación de su postura pública: "Si fuera a cantar en China continental, ese día sería el día en que el Principio de los Tres Pueblos se implemente en China continental".
 
-[^11]: [Doux comme le miel — Wikipédia](https://zh.wikipedia.org/wiki/%E7%94%9C%E8%9C%9C%E8%9C%9C_%28%E6%AD%8C%E6%9B%B2%29) — Enregistrement de la publication de l'album _Doux comme le miel_ de PolyGram le 5/11/1979, origine de la chanson folk indonésienne _Dayung Sampan_, paroles de Zhuang Nu, ventes dépassant le million cette année-là.
+[^6]: [Teresa Teng — Wikipedia en español](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B) — Etimología de su nombre real Deng Liyun (nombrado por un oficial militar de apellido Yang), la evolución de la pronunciación del carácter "Yun", y el origen de sus padres: Deng Shu de la provincia de Hebei, condado de Daming, y Zhao Sugui de la provincia de Shandong, condado de Dongping.
 
-[^12]: [Histoire d'une petite ville — Base de données de films AtMovies](https://www.atmovies.com.tw/movie/FSTW08300127/) — Réalisé par Li Hsing en 1979, avec Lin Fengjiao et Chang Chen-tao dans les rôles principaux, meilleur film dramatique au 16e Golden Horse Awards, chanson thème chantée par Teresa Teng.
+[^7]: [Teresa Teng — Discogs](https://www.discogs.com/artist/582823-%E9%84%A7%E9%BA%97%E5%90%9B) — Registro de publicación de su primer álbum "Canciones de Teresa Teng Vol. 1: Fengyang Huagu" en septiembre de 1967 y metadatos completos del disco.
 
-[^13]: [Teresa Teng § Événement du passeport indonésien de 1979 — Wikipédia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B) — Chronologie complète : détention à l'entrée de l'aéroport de Haneda à Tokyo par le vol CI116 de China Airlines le 14/2/1979, confirmation le 22/2 que le passeport indonésien n'est pas falsifié, décision d'expulsion du Ministère de la Justice du Japon le 24/2.
+[^8]: [Takashi Miki: Conmemoración y Teresa Teng — Nippon.com](https://www.nippon.com/hk/japan-topics/g00878/) — Recuerdos públicos y críticas musicales del compositor japonés Takashi Miki sobre la técnica vocal de Teresa Teng, incluyendo su periodo de colaboración durante sus tres victorias consecutivas entre 1984 y 1986.
 
-[^14]: [China Times 2021/5/8 — Souvenirs de fin de vie de Jacky Chen sur Teresa Teng](https://www.chinatimes.com/realtimenews/20210508000006-260404) — Récit autobiographique de Jacky Chen sur leur relation de 3 ans à Los Angeles de 1979 à 1982, les raisons de la rupture, et ses excuses publiques répétées (pas de témoignage direct public de la part de Deng, source unique).
+[^9]: [The Moon Represents My Heart — Wikipedia](https://zh.wikipedia.org/wiki/%E6%9C%88%E4%BA%AE%E4%BB%A3%E8%A1%A8%E6%88%91%E7%9A%84%E5%BF%83) — Historia completa de las versiones: la original de Chen Fenlan en 1973, música de Weng Qingxi, letra de Sun Yi, y la versión definitiva interpretada por Teresa Teng en 1977.
 
-[^15]: [« Tsuganai (Remboursement) » — Wikipédia](https://zh.wikipedia.org/wiki/%E5%84%9F%E9%82%84) — Publié le 21/1/1984, premier à Oricon en août 1984, restant au classement pendant 41 semaines, double lauréat du Japan Cable Music Awards et du All Japan Cable Broadcasting Awards.
+[^10]: [When You Come Back to Me — Wikipedia](https://zh.wikipedia.org/wiki/%E4%BD%95%E6%97%A5%E5%90%9B%E5%86%8D%E4%BE%86) — La versión original de Zhou Xuan en 1937, música de Liu Xuean y letra de Huang Jiamo; historia de las canciones prohibidas en ambos lados del estrecho y el contexto de la regrabación en versiones chino y japonés por Teresa Teng en 1978.
 
-[^16]: [« Aijin » Version de Teresa Teng — Wikipédia](https://zh.wikipedia.org/wiki/%E6%84%9B%E4%BA%BA_%28%E9%84%A7%E9%BA%97%E5%90%9B%E6%AD%8C%E6%9B%B2%29) — Publié le 21/2/1985, premier au classement de la demande par câble pendant 14 semaines consécutives, première apparition au 36e Kōhaku Uta Gassen de NHK le 31/12/1985 dans le costume de Yang Guifei.
+[^11]: [Tian Mi Mi — Wikipedia](https://zh.wikipedia.org/wiki/%E7%94%9C%E8%9C%9C%E8%9C%9C_%28%E6%AD%8C%E6%9B%B2%29) — Registro de lanzamiento del álbum de PolyGram "Tian Mi Mi" el 5/11/1979, origen de la melodía original de la canción popular indonesia "Dayung Sampan", letra de Zhuang Nu y ventas superiores al millón ese año.
 
-[^17]: [« Je ne m'intéresse qu'à toi » — Wikipédia](https://zh.wikipedia.org/wiki/%E6%88%91%E5%8F%AA%E5%9C%A8%E4%B9%8E%E4%BD%A0) — Version japonaise originale _Ji no Nagare ni Mi o Makase_ publiée le 21/2/1986, Prix d'Or du 28e Japan Record Awards, 2ème pour les demandes de karaoké au Japon en 1986, ventes totales d'environ 2 millions de copies ; version chinoise publiée le 20/12/1986.
+[^12]: [Historia de una pequeña ciudad — Base de datos de películas AtMovies](https://www.atmovies.com.tw/movie/FSTW08300127/) — Película de 1979 dirigida por Li Hang y protagonizada por Lin Fengjiao y Zhong Zhentao; Ganadora del 16.º Premio Golden Horse a la Mejor Película de Ficción, con el tema principal interpretado por Teresa Teng.
 
-[^18]: [Teresa Teng — Enregistrements des prix japonais de Baidu Baike](https://baike.baidu.com/item/%E9%82%93%E4%B8%BD%E5%90%9B) — Triplé double des prix Japan Cable Music Awards et All Japan Cable Broadcasting Awards de 1984 à 1986 avec _Tsuganai_, _Aijin_ et _Ji no Nagare ni Mi o Makase_, premier artiste étranger de l'histoire de l'industrie musicale japonaise à y parvenir.
+[^13]: [Teresa Teng § Incidente del pasaporte indonesio de 1979 — Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B) — Cronología completa: detención al ingresar en el aeropuerto de Haneda, Tokio, con el vuelo CI116 de China Airlines el 14/2/1979; confirmación de que el pasaporte indonesio no era falso el 22/2; y la orden de deportación del Ministerio de Justicia de Japón el 24/2.
 
-[^19]: [Scène de réconfort des troupes de Kinmen de Teresa Teng en 1980 — YouTube](https://www.youtube.com/watch?v=pu2HwGI-Y6Q) — Vidéo en direct du réconfort des troupes à Kinmen le 4/10/1980, animée par Tian Wenzhong et Hong Lin de TVBS, enregistrement complet des 9 chansons interprétées.
+[^14]: [China Times 8/5/2021 — Recuerdos de Jackie Chan sobre los últimos años de Teresa Teng](https://www.chinatimes.com/realtimenews/20210508000006-260404) — Descripción en la autobiografía de Jackie Chan sobre su relación de tres años en Los Ángeles entre 1979 y 1982, las razones de la ruptura y sus posteriores disculpas públicas (Deng Fang no ha dado testimonio público directo, es una fuente única).
 
-[^20]: [Teresa Teng § Chanteuse des casernes — Wikipédia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B#%E8%BB%8D%E4%B8%AD%E6%83%85%E4%BA%BA) — Réconfort des troupes dans les casernes de tout Taïwan pendant un mois en août 1981, reportage spécial TVBS _Jun Qian Suo_ visitant les différents avant-postes de Kinmen (Guningtou, Mashan, Hujingtou, Hôpital Huagangshi, île de Da'er Dan).
+[^15]: [Tsugunai (Reparación) — Wikipedia](https://zh.wikipedia.org/wiki/%E5%84%9F%E9%82%84) — Lanzada el 21/1/1984, alcanzó el número uno en Oricon en agosto de 1984, permaneció 41 semanas en la lista y fue ganadora doble del Japan Music Award y el All Japan Music Award.
 
-[^21]: [Gouvernement du comté de Kinmen — Commémoration du réconfort des troupes de Kinmen de Teresa Teng](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=F266E469FC79D7D8) — Transcription mot à mot de la déclaration de Teresa Teng lors du banquet sur la montagne Taiwu (mettant de l'air dans un sac en plastique), transcription mot à mot de son appel à la Chine continentale depuis le poste d'observation de Mashan le 8/3/1991.
+[^16]: [〈Amante〉 Versión de Teresa Teng — Wikipedia](https://zh.wikipedia.org/wiki/%E6%84%9B%E4%BA%BA_%28%E9%84%A7%E9%BA%97%E5%90%9B%E6%AD%8C%E6%9B%B2%29) — Lanzada el 21/02/1985, ocupó el primer lugar en las listas de video bajo demanda durante 14 semanas; el 31/12/1985, apareció por primera vez con el estilo de Yang Guifei en la 36.ª NHK Kohaku Uta Gassen.
 
-[^22]: [Liberty Times Net Entertainment — Teresa Teng a cinq fois monté à Kinmen](https://ent.ltn.com.tw/news/breakingnews/3829826) — Rapport résumant « les cinq fois où elle a monté à Kinmen pour réconforter les troupes » et compilation du titre « Chanteuse des casernes éternelle » par le Département de défense de Kinmen.
+[^17]: [〈Solo te amo〉 — Wikipedia](https://zh.wikipedia.org/wiki/%E6%88%91%E5%8F%AA%E5%9C%A8%E4%B9%8E%E4%BD%A0) — La versión original japonesa 〈Toki no nagare ni mi o makase〉 fue lanzada el 21/02/1986, ganó el Gran Premio en la 28.ª Japan Record Awards, fue la segunda canción más cantada en karaoke en Japón en 1986 y vendió aproximadamente 2 millones de copias; la versión en chino se lanzó el 20/12/1986.
 
-[^23]: [Nippon.com — Teresa Teng et Tiananmen](https://www.nippon.com/hk/japan-topics/g00878/) — Compilation des spectacles et déclarations publiques de Teresa Teng lors des événements commémoratifs du 4 juin à Paris de 1990 à 1993, incluant la déclaration mot à mot de 1992 « Je ne me courberai jamais devant la tyrannie, je ne transigerai jamais avec la pression ».
+[^18]: [Teresa Teng — Registros de premios en Japón (Baidu Baike)](https://baike.baidu.com/item/%E9%82%93%E4%B8%BD%E5%90%9B) — Entre 1984 y 1986, con las canciones 〈Tsugunai〉, 〈Amante〉 y 〈Toki no nagare ni mi o makase〉, ganó consecutivamente durante tres años los Japan Cable Award y el All Japan Cable Broadcast Award, siendo la primera artista extranjera en la historia de la industria musical japonesa en lograr este triple récord.
 
-[^24]: [Look China 2023/5/27 — Wu'er Kaixi se souvient de Teresa Teng](https://www.secretchina.com/news/b5/2023/05/27/1036809.html) — Réunion commémorative du 4 juin sur la Place des droits de l'homme à Paris le 4/6/1993, Wu'er Kaixi se souvient des paroles de Teresa Teng adressées aux militants démocratiques en exil (source unique, témoignage de Wu'er Kaixi).
+[^19]: [Teresa Teng en vivo para las tropas de Kinmen (1980) — YouTube](https://www.youtube.com/watch?v=pu2HwGI-Y6Q) — Grabación en vivo de la visita a las tropas de Kinmen el 04/10/1980, presentada por Tian Wen-zhong y Hong Lin de TTV, con el registro completo de 9 temas interpretados.
 
-[^25]: [Teresa Teng § Histoire amoureuse — Wikipédia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B#%E6%84%9F%E6%83%85%E7%94%9F%E6%B4%BB) — Paul (Paul Puel Stéphane Quilery, né en septembre 1968) rencontré en 1989 au restaurant « Nouvelle Dunhuang » à Paris, photographe français, 15 ans plus jeune qu'elle, relation de cinq ans jusqu'à sa mort le 8/5/1995.
+[^20]: [Teresa Teng § Amante de los militares — Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B#%E8%BB%8D%E4%B8%AD%E6%83%85%E4%BA%BA) — En agosto de 1981, realizó una visita de un mes a los campamentos militares en toda Taiwán; el especial de TTV 《Jun zai qianshao》 documentó su recorrido por diversos puestos de avanzada en Kinmen (Guningtou, Mashan, Huojingtou, Hospital Huagangshi y la isla de Da'erdan).
 
-[^26]: [SCMP — 30 ans après la mort de Teresa Teng](https://www.scmp.com/lifestyle/entertainment/article/3254389/teresa-teng-30-years-after-death-why-asias-queen-pop-still-adored-china-japan-and-beyond) — Détails sur le troisième séjour au Presidential Suite du 15ème étage de l'hôtel Imperial Mae Ping à Chiang Mai en avril 1995.
+[^21]: [Gobierno del Condado de Kinmen — Conmemoración de la visita de Teresa Teng a Kinmen](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=F266E469FC79D7D8) — Transcripción íntegra del discurso de Teresa Teng en el banquete en el Monte Taiwu (bolsas de plástico con aire); transcripción íntegra del mensaje dirigido al continente desde el Observatorio de Mashan el 08/03/1991.
 
-[^27]: [VnExpress International — Mort de Teresa Teng](https://e.vnexpress.net/news/life/mysterious-death-of-asian-pop-queen-teresa-teng-4273731.html) — Chronologie de l'après-midi du 8/5/1995, inhalateur vide, demande d'aide dans le couloir du 15ème étage, enregistrement complet de la déclaration de décès à l'hôpital Ram de Chiang Mai (Chiang Mai Ram Hospital) à 17h30 heure locale.
+[^22]: [Liberty Times Entertainment — Teresa Teng visita Kinmen 5 veces](https://ent.ltn.com.tw/news/breakingnews/3829826) — Reportaje de resumen sobre sus «cinco visitas para animar a las tropas en Kinmen» y recopilación del título «Eterna amante de los militares» otorgado por el Comando de Defensa de Kinmen.
 
-[^28]: [David Frazier sur X — Situation actuelle de Paul Quilery](https://x.com/davidfrazier) — Mention en 2024 indiquant que Paul subit encore des attaques en ligne en raison de la mort subite de Teresa Teng (source unique, témoignage indirect d'amis).
+[^23]: [Nippon.com — Teresa Teng y Tiananmen](https://www.nippon.com/hk/japan-topics/g00878/) — Recopilación de las actuaciones conmemorativas de la Plaza de Tiananmen en París y declaraciones públicas de Teresa Teng entre 1990-1993, incluyendo la transcripción de su declaración de 1992: "Jamás me inclinaré ante la tiranía, jamás cederé ante la presión".
 
-[^29]: [Time UDN — Enregistrement des funérailles de Teresa Teng](https://time.udn.com/) — Déroulement des funérailles au Premier Morgue le 28/5/1995, Song Chu-yu servant de président d'honneur du comité funéraire et présidant la cérémonie, dix officiers des trois armées portant le cercueil, inhumation au « Tombeau Jun » au Mont Jinbao, plus de 200 000 personnes l'accompagnant ce jour-là.
+[^24]: [Kan Zhongguo 27/5/2023 — Szeto Wah recuerda a Teresa Teng](https://www.secretchina.com/news/b5/2023/05/27/1036809.html) — Reunión conmemorativa del 4 de junio en la Plaza de los Derechos Humanos de París el 4/6/1993; Szeto Wah recuerda las palabras que Teresa Teng dirigió a los activistas exiliados (fuente única, testimonio de la parte de Szeto Wah).
 
-[^30]: [Chine Contemporaine — Le jour, on écoute le vieux Deng, la nuit, on écoute le petit Deng](https://www.ourchinastory.com/zh/3313/%E7%99%BD%E5%A4%A9%E8%81%BD%E8%80%81%E9%84%A7%EF%BC%8C%E6%99%9A%E4%B8%8A%E8%81%BD%E5%B0%8F%E9%84%A7) — Preuve de la maxime circulant dans la Chine des années 1980 (pas de source originale unique, récit de mémoire collective).
+[^25]: [Teresa Teng § Historia sentimental — Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%A7%E9%BA%97%E5%90%9B#%E6%84%9F%E6%83%85%E7%94%9F%E6%B4%BB) — Paul (Paul Puel Stéphane Quilery, nacido en septiembre de 1968), fotógrafo francés con quien se conoció en el restaurante "Xin Dunhuang" en París en 1989; era 15 años menor que ella y mantuvieron una relación durante cinco años hasta el fallecimiento de ella el 8/5/1995.
 
-[^31]: [InterContinental Chiang Mai Mae Ping — Chambre commémorative de Teresa Teng](https://www.ihg.com/intercontinental/hotels/cn/zh/chiang-mai/cnxhd/hoteldetail) — État actuel de la chambre commémorative de Teresa Teng au 15ème étage de l'ancien Imperial Mae Ping Hotel (maintenant InterContinental Chiang Mai Mae Ping), pouvant être réservée pour une nuit.
+[^26]: [SCMP — 30 años después de la muerte de Teresa Teng](https://www.scmp.com/lifestyle/entertainment/article/3254389/teresa-teng-30-years-after-death-why-asias-queen-pop-still-adored-china-japan-and-beyond) — Detalles sobre su tercera estancia en la suite presidencial del piso 15 del Chiang Mai Imperial Mae Ping Hotel en abril de 1995.
+
+[^27]: [VnExpress International — La muerte de Teresa Teng](https://e.vnexpress.net/news/life/mysterious-death-of-asian-pop-queen-teresa-teng-4273731.html) — Registro completo de la cronología de la tarde del 8/5/1995: el inhalador de asma vacío, su pedido de ayuda en el pasillo del piso 15 y la declaración de fallecimiento en el Hospital Chiang Mai Ram a las 17:30 hora local.
+
+[^28]: [David Frazier en X — Situación actual de Paul Quilery](https://x.com/davidfrazier) — Mención en 2024 de que Paul sigue sufriendo ataques cibernéticos debido a la muerte repentina de Teresa Teng (fuente única, relato indirecto de un amigo).
+
+[^29]: [Bao Shiguang — Registro del funeral de Teresa Teng](https://time.udn.com/) — Proceso del servicio funerario en el Primer Funerario el 28/5/1995; Song Chu-yu actuó como presidente honorario del comité de funerales y oficiante principal, diez militares de las tres fuerzas custodiaron el féretro, entierro en "Junyuan" de Jin Bao-shan, y registro de más de 200,000 personas despidiéndola ese día.
+
+[^30]: [Contemporary China — Escuchar a Viejo Deng de día y a Pequeño Deng de noche](https://www.ourchinastory.com/zh/3313/%E7%99%BD%E5%A4%A9%E8%81%BD%E8%80%81%E9%84%A7%EF%BC%8C%E6%99%9A%E4%B8%8A%E8%81%BD%E5%B0%8F%E9%84%A7) — Investigación sobre la frase popular que circulaba en el ámbito civil de China durante la década de 1980 (sin una fuente original única, pertenece a la narrativa de la memoria colectiva).
+
+[^31]: [InterContinental Chiang Mai Mae Ping — Habitación conmemorativa de Teresa Teng](https://www.ihg.com/intercontinental/hotels/cn/zh/chiang-mai/cnxhd/hoteldetail) — La habitación conmemorativa de Teresa Teng en el piso 15 del antiguo Imperial Mae Ping Hotel (actualmente InterContinental Chiang Mai Mae Ping) se mantiene tal como era y está disponible para reserva.

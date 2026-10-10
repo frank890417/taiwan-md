@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T05:15:50+08:00",
-    "zhCommitHead": "2d5438305",
+    "lastUpdated": "2026-10-11T05:16:13+08:00",
+    "zhCommitHead": "781a613ae",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1126,
-        "fresh": 1120,
-        "stale": 5,
+        "fresh": 1121,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -84232,18 +84232,18 @@
         "es": {
           "path": "es/Nature/taiwan-atlas-moth.md",
           "translatedFrom": "Nature/台灣皇蛾.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:c0def8638e893fc6",
-          "sourceBodyHash": "sha256:b3b31dae4152e213",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "38a5f7e2a",
+          "sourceContentHash": "sha256:a407c4cd5d546815",
+          "sourceBodyHash": "sha256:94480d54498a46b7",
+          "translatedAt": "2026-10-11T01:05:43+08:00",
           "translationLastCommit": "0222fce3",
           "translationLastModified": "2026-10-10T23:26:12+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 15530,
+          "footnoteDefs": 10,
+          "bytes": 14569,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Nature/taiwan-atlas-moth.md",
@@ -119698,8 +119698,8 @@
           "sourceContentHash": "sha256:d90dfbfec4a44a23",
           "sourceBodyHash": "sha256:12badc0094297f08",
           "translatedAt": "2026-10-11T01:05:48+08:00",
-          "translationLastCommit": "8bf9aa01",
-          "translationLastModified": "2026-10-11T00:54:04+08:00",
+          "translationLastCommit": "781a613a",
+          "translationLastModified": "2026-10-11T05:15:51+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 12918,
