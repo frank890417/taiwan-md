@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T04:50:15+08:00",
-    "zhCommitHead": "84f3fc723",
+    "lastUpdated": "2026-10-11T05:01:23+08:00",
+    "zhCommitHead": "ee22c504b",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1126,
-        "fresh": 1111,
-        "stale": 14,
+        "fresh": 1112,
+        "stale": 13,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1126,
-        "fresh": 1116,
-        "stale": 9,
+        "fresh": 1117,
+        "stale": 8,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1126,
-        "fresh": 1119,
-        "stale": 6,
+        "fresh": 1120,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -25456,18 +25456,18 @@
         "fr": {
           "path": "fr/Technology/facebook-in-taiwan.md",
           "translatedFrom": "Technology/Facebook.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "ac86475bc",
           "sourceContentHash": "sha256:79e35442d2cf14fd",
           "sourceBodyHash": "sha256:5ed7f28c852729fe",
-          "translatedAt": "2026-06-16T17:13:36Z",
+          "translatedAt": "2026-10-11T01:05:45+08:00",
           "translationLastCommit": "ca2ceca5",
           "translationLastModified": "2026-10-10T23:40:35+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 16872,
+          "bytes": 18301,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/facebook-in-taiwan.md",
@@ -42176,18 +42176,18 @@
         "ja": {
           "path": "ja/Art/taiwan-new-media-art.md",
           "translatedFrom": "Art/台灣新媒體藝術.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "ef8fab38e",
           "sourceContentHash": "sha256:d196b7664449f36f",
           "sourceBodyHash": "sha256:3affa690cf7b66dc",
-          "translatedAt": "2026-06-12T16:38:55Z",
+          "translatedAt": "2026-10-11T01:05:40+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 29231,
+          "bytes": 34937,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/taiwan-new-media-art.md",
@@ -43796,8 +43796,8 @@
           "sourceContentHash": "sha256:97f19e04671843c8",
           "sourceBodyHash": "sha256:63227fedc7d1144a",
           "translatedAt": "2026-10-11T01:05:40+08:00",
-          "translationLastCommit": "5662fa47",
-          "translationLastModified": "2026-10-10T23:40:42+08:00",
+          "translationLastCommit": "ee22c504",
+          "translationLastModified": "2026-10-11T04:50:15+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "bytes": 34437,
@@ -69046,8 +69046,8 @@
           "sourceContentHash": "sha256:7528460cb857fc3b",
           "sourceBodyHash": "sha256:0b63d09474dfeccb",
           "translatedAt": "2026-10-11T01:05:40+08:00",
-          "translationLastCommit": "5662fa47",
-          "translationLastModified": "2026-10-10T23:40:42+08:00",
+          "translationLastCommit": "ee22c504",
+          "translationLastModified": "2026-10-11T04:50:15+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 47575,
@@ -72698,18 +72698,18 @@
         "ko": {
           "path": "ko/Society/za-share.md",
           "translatedFrom": "Society/雜學校.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "sha256:b414878c293e15ed",
+          "sourceCommitSha": "1844f59c5",
+          "sourceContentHash": "sha256:a2058786df46a07e",
           "sourceBodyHash": "sha256:63cdc7eebcc0988a",
-          "translatedAt": "2026-06-09T04:00:20+08:00",
+          "translatedAt": "2026-10-11T01:05:42+08:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 29880,
+          "bytes": 31356,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/za-share.md",
@@ -72888,8 +72888,8 @@
           "sourceContentHash": "sha256:177fea3750c80f10",
           "sourceBodyHash": "sha256:dab437d622fd59b0",
           "translatedAt": "2026-10-10T19:08:30.314655+00:00",
-          "translationLastCommit": "5662fa47",
-          "translationLastModified": "2026-10-10T23:40:42+08:00",
+          "translationLastCommit": "ee22c504",
+          "translationLastModified": "2026-10-11T04:50:15+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 60668,
@@ -104452,8 +104452,8 @@
           "sourceContentHash": "sha256:d2852cc419867a37",
           "sourceBodyHash": "sha256:0f8970c54b5cd9d2",
           "translatedAt": "2026-10-10T20:16:37.225268+00:00",
-          "translationLastCommit": "5662fa47",
-          "translationLastModified": "2026-10-10T23:40:42+08:00",
+          "translationLastCommit": "ee22c504",
+          "translationLastModified": "2026-10-11T04:50:15+08:00",
           "inferred": false,
           "footnoteDefs": 35,
           "bytes": 43891,

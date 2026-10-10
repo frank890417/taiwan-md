@@ -1,239 +1,250 @@
 ---
-title: "Taiwan's 5th to 9th Grade Generations: 30 Years of 'Strawberry' Insults Swapped Three Batches of People; What Slanted Was the Escalator Beneath Their Feet"
-description: "When the term 'Strawberry Generation' first appeared in print in 1993, it was criticizing the 5th graders who love nostalgia and Yakult the most today. Over the past thirty years, the people being criticized have changed several times, but the label has remained unchanged. What has actually moved between the 5th and 9th grade generations is the 'escalator' of 'hard work pays off': it slowed down around 2002, its entrance was raised by housing prices, and then it split into two paths—the one relying solely on salaries has nearly stopped, while the one relying on parents' capital is still moving."
+title: "타이완의 5~9학년생: '딸기족'이라는 비난은 30년 동안 대상만 바뀌었을 뿐, 정작 기울어진 것은 발밑의 에스컬레이터다"
+description: "1993년 '딸기족'이라는 용어가 처음 등장했을 때, 그 비난의 대상은 지금의 향수를 즐기는 5학년생들이었다. 30년 동안 비난받는 세대는 여러 번 바뀌었지만 낙인은 그대로다. 실제로 5~9학년 사이에서 움직이고 있는 것은 '노력하면 보상받는다'는 에스컬레이터다. 이 에스컬레이터는 2002년 전후로 느려졌고, 입구는 집값에 의해 높아졌으며, 결국 두 갈래로 갈라졌다. 월급만으로 버티는 쪽은 거의 멈췄고, 부모의 자본에 기댄 쪽은 여전히 움직이고 있다."
 date: 2026-06-08
+category: 'Society'
 tags:
   [
-    'Generations',
-    'Strawberry Generation',
-    'Low Wages',
-    'Housing Prices',
-    'Collective Memory',
-    'Natural Independence',
-    'Intergenerational Justice',
+    '학년생',
+    '세대',
+    '딸기족',
+    '저임금',
+    '집값',
+    '집단 기억',
+    '천연독(天然獨)',
+    '세대 정의',
   ]
 subcategory: '世代與社會變遷'
 author: 'Taiwan.md'
-category: 'Society'
-readingTime: 18
+featured: false
 lastVerified: 2026-06-08
 lastHumanReview: false
-translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: ''
-sourceContentHash: 'sha256:1b3e5e3f22f40ead'
-sourceBodyHash: 'sha256:d9ed6a1d6c159cbf'
-translatedAt: '2026-06-17T00:00:00Z'
+readingTime: 18
+researchReport: 'reports/research/2026-06/台灣的年級生世代.md'
 image: '/article-images/society/budaixi-puppets-2023.webp'
 imageCredit: 'Wang Yu Ching / Office of the President'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg'
-featured: false
+viewpoint_formed: true
+core_contradiction: '每代都被上一代叫草莓族，但變的不是抗壓性，是那座扶梯變陡又裂成兩條'
+rationale:
+  whats_excluded: |-
+    - 世代決定論框架（per Pew 2023 + Collins + 翁稷安）：本文用世代當入口，但結論回到階級與時期效應
+    - 草莓族高院判決字號：維基未附字號、搜尋未得，寫「經法院認定為貶抑詞」概括
+    - 個別歌詞逐字（范曉萱〈數字戀愛〉/楊丞琳〈曖昧〉/即時通之歌）：不引完整，用時代背景轉述
+    - 抖音一代「文化親中政治拒中」具體比例：質性描述為主，無大樣本隨機調查
+    - 八年級網友買房對比引語：原連結待驗，本文不採直接引語、改用統計概括
+translatedFrom: 'Society/台灣的年級生世代.md'
+sourceCommitSha: '805200859'
+sourceContentHash: 'sha256:1b3e5e3f22f40ead'
+sourceBodyHash: 'sha256:d9ed6a1d6c159cbf'
+translatedAt: '2026-10-11T01:05:42+08:00'
 ---
 
-> **30-Second Overview:** Taiwanese people use "which grade" (based on the Republic of China calendar) to identify themselves, taking the tens digit of their birth year: the 5th grade refers to those born in ROC years 50–59 (1961–1970), extending all the way to the 9th grade (2001–2010). The term "Strawberry Generation," which has been used as an insult for thirty years, was first printed in 1993, targeting the then-twenty-something, now fifty-something 5th graders[^1]; it then passed down to the 7th, 8th, and 9th grades. The people being criticized have changed several times, but the label has not changed a single character. What has actually moved between these five generations is the "escalator" beneath their feet, symbolizing "hard work pays off": it slowed down around 2002, when real wages decoupled from productivity[^2]; its entrance was simultaneously raised by housing prices, with Taipei's price-to-income ratio rising from 6.4 times in 2004 to 15.41 times in 2025[^3]; and then it split into two paths—the one relying solely on salaries has nearly stopped, while the one relying on parents' down payments is still moving. This article aims to deconstruct this label.
+> **30초 요약:** 타이완 사람들은 '몇 학년생'이라는 표현으로 자신을 분류하며, 이는 출생 민국(民國) 연도의 앞자리 숫자를 따온 것이다. 5학년은 민국 50~59년(1961–1970)생부터 시작해 9학년(2001–2010)까지 이어진다. 30년 동안 비난받아온 '딸기족'이라는 용어는 1993년 처음 등장했을 당시, 현재 50대가 된 당시의 20대 5학년생[^1]을 겨냥한 것이었다. 이후 비난은 7, 8, 9학년으로 계속 전이되었다. 비난받는 대상은 여러 세대를 거쳤지만 낙인은 단 한 글자도 바뀌지 않았다. 실제로 다섯 세대 사이에서 움직이고 있는 것은 발밑의 '노력하면 보상받는다'는 에스컬레이터다. 이 에스컬레이터는 2002년 전후로 느려졌고, 실질 임금은 생산성과 괴리되었으며[^2], 입구는 집값에 의해 높아졌다. 타이베이의 소득 대비 주택가격 비율(PIR)은 2004년 6.4배에서 2025년 15.41배로 급등했다[^3]. 결국 에스컬레이터는 두 갈래로 갈라졌다. 순수하게 월급에 의존하는 쪽은 거의 멈췄고, 부모의 계약금에 기댄 쪽은 여전히 움직이고 있다. 이 글은 그 낙인을 해체하여 살펴보고자 한다.
 
-In March 2025, an account appeared on Threads, posting, "No one else seems to notice... it seems like it's about to shut down again." This was the server of the 7th graders' youth, MySpace (WuMing XiaoZhan), which had already shut down in late 2013[^4]. Under the 10,000 likes, the comments were all "Give me back my account" and "But we've all forgotten our passwords."
+2025년 3월, Threads에 한 계정이 나타나 "아무도 내가... 곧 폐쇄될 것 같다는 걸 눈치채지 못하네"라는 글을 올렸다. 그것은 7학년생들의 청춘 서버였던 '무명소점(無名小站)'이었으며, 이미 2013년 말에 서비스를 종료했다[^4]. 만 개의 '좋아요' 아래에는 "내 계정을 돌려달라", "하지만 우리 모두 비밀번호를 잊어버렸다"라는 댓글이 가득했다.
 
-This was an entire generation liking a piece of space that only they could enter, while others could not press in. Every generation has such a place: the 5th graders' candy shops, the 7th graders' MySpace, the 9th graders' TikTok. The true boundary of generations is drawn there: not in values, but in the lack of a shared login screen.
+그것은 오직 그들만이 들어갈 수 있고 타인은 접속할 수 없는, 한 세대가 자신들의 청춘을 향해 누른 '좋아요'였다. 모든 세대에는 그런 공간이 있다. 5학년의 구멍가게, 7학년의 무명소점, 9학년의 틱톡(TikTok). 세대의 진정한 경계는 가치관이 아니라, 공유하는 로그인 화면의 유무에 의해 그려진다.
 
-Paradoxically, the word that causes the fiercest arguments between these five generations has referred to different batches of people over the past thirty years, yet the word itself has not changed a single character.
+아이러니하게도 다섯 세대 사이에서 가장 격렬하게 싸우는 그 용어는, 30년 동안 대상은 여러 번 바뀌었음에도 단 한 글자도 변하지 않았다.
 
-## One Word, Insulted for Thirty Years, Swapped Three Batches of People
+## 하나의 용어, 30년의 비난, 세 번 바뀐 대상
 
-In the early 1990s, workplace consultant Weng Jingyu wrote a book titled _Office Stories_, where the term "Strawberry Generation" was first printed. She was not criticizing today's young people, but rather the batch that had just entered the office, in their twenties at the time—those born in the 1960s, now in their fifties, who love reminiscing about Datong Puppets and Yakult in Facebook groups[^1].
+1990년대 초, 직장 컨설턴트 옹징위(翁靜玉)가 《오피스 이야기》를 집필하며 '딸기족(草莓族)'이라는 세 글자가 처음 인쇄되었다. 그녀가 당시 비난했던 대상은 오늘날의 젊은이가 아니라, 막 사무실에 입문했던 당시의 20대들이었다. 즉, 1960년대에 태어나 현재 50대가 되었으며, 페이스북 그룹에서 다이퉁(大同) 캐릭터와 야쿠르트를 그리워하는 5학년생[^1]들이었다.
 
-Wikipedia's entry records this migration line clearly: "Strawberry Generation" originally referred to Taiwanese people born in the 1960s, commonly known as the 5th graders; subsequently, the mainstream perception shifted downward, broadly referring to young people from the 7th grade onwards[^1]. A term originally used to insult a specific batch of twenty-something young people has, thirty years later, become a general term for "anyone younger than me whom I find annoying." The label is not describing a specific generation; the label is describing the act of being "young," and youth is a moving target.
+위키백과의 항목은 이 이동 경로를 명확히 기록하고 있다: "'딸기족'은 초기에 1960년대에 태어난 타이완인, 즉 소위 5학년생을 지칭했다. 이후 주류 인식은 계속 하향 이동하여, 일반적으로 7학년 이후의 젊은 세대를 폭넓게 가리키게 되었다[^1]." 원래 특정 20대 집단을 비난하기 위해 만들어진 용어가 30년 후에는 "나보다 젊고 내 눈에 거슬리는 모든 이들"을 일컫는 통칭이 된 것이다. 낙인은 특정 세대를 묘사하는 것이 아니라 '젊음'이라는 현상 자체를 묘사하며, 젊음은 끊임없이 움직이는 과녁이다.
 
-The trajectory of this moving target can almost serve as an abridged history of Taiwan's generations. In 1993, it insulted the 5th graders; in the 2000s, the mainstream label stuck to the 7th graders; in 2008, during the "Wild Strawberry Movement," the criticized 7th-grade students干脆 (simply) turned the insult around and claimed it as the name of their movement[^5]; in 2012, _Vision_ magazine, in collaboration with Yahoo and MySpace, conducted a "New Nine Clans of Youth" survey, where 1,129 young people aged 20–35 voted for the "label they most wanted to be vindicated," with Strawberry Generation ranking first at 16.5%, followed by Neet (NEET) and Phubbers (Head-down tribe)[^6]; by the 2020s, this hat had moved down to the Z generation, landing on the 9th graders.
+이 과녁의 궤적은 타이완 세대사의 요약본이라 해도 무방하다. 1993년에는 5학년을 비난했다. 2000년대에는 주류의 화살이 7학년에게 향했다. 2008년 '야생딸기 운동(野草莓運動)' 당시, 비난받던 7학년 학생들은 아예 이 용어를 자신들의 운동 명칭으로 역채택했다[^5]. 2012년, 원견(遠見) 잡지가 Yahoo 및 무명소점과 공동 진행한 '청년 신9족' 조사에서 20~35세 청년 1,129명을 대상으로 '가장 바로잡고 싶은 낙인'을 투표한 결과, 딸기족이 16.5%로 1위를 차지했다. 2위는 캥거루족(啃老族), 3위는 스마트폰 중독자(低頭族)였다[^6]. 2020년대에 이르러 이 모자는 다시 Z세대와 9학년의 머리 위로 내려앉았다.
 
 ```tw-timeline
-1993 | "Strawberry Generation" first printed | Weng Jingyu's *Office Stories*, originally referring to the then-twenty-something, now fifty-something 5th graders
-2008 | The criticized turn it around | 7th-grade students of the "Wild Strawberry Movement" used this derogatory term as the movement's name
-2012 | First place for the label most wanted to be vindicated | Vision x Yahoo x MySpace survey of 1,129 votes, Strawberry Generation topped with 16.5%
-2020s | The hat moves down to the Z generation | The same word is worn by the 9th graders, content unchanged
+1993 | 「딸기족」 용어 최초 등장 | 옹징위의 《오피스 이야기》, 당시 20대였던 5학년생을 지칭
+2008 | 비난 대상이 역채택 | '야생딸기 운동'의 7학년 학생들이 이 비하 용어를 운동 명칭으로 사용
+2012 | 가장 바로잡고 싶은 낙인 1위 | 원견×Yahoo×무명소점 조사(1,129표), 딸기족 16.5%로 1위
+2020s | Z세대로 낙인 전이 | 동일한 용어가 9학년에게 적용됨, 내용은 변하지 않음
 ```
 
-Moreover, this term holds up legally. In a lawsuit, the Taiwan High Court determined that "Strawberry Generation" refers to "young, inexperienced people who cannot withstand setbacks," classifying it as a derogatory term[^1]. That is, this is a word recognized by the court as belittling, yet over thirty years, it has been used by the older generation as the most convenient tool to comment on the younger generation, passed down repeatedly.
+또한 이 용어는 법적으로도 근거를 갖추고 있다. 타이완 고등법원은 한 소송에서 "'딸기족'은 '경험이 부족하여 좌절을 견디지 못하는 젊은이'를 의미하며, 비하적인 어휘에 해당한다"라고 판결했다[^1]. 즉, 법원이 타인을 비하하는 용어로 인정한 단어가 지난 30년 동안 앞선 세대들에게 다음 세대를 비판하는 가장 편리한 도구로 사용되며 대물림된 것이다.
 
-Throw the ball back: Everyone who wants to say "young people today are just strawberries" should remember that the word originally insulted, likely, the twenty-something you were back then.
+질문을 되돌려보자. 지금 "요즘 젊은 애들은 딸기족이야"라고 말하고 싶은 모든 사람은, 이 용어가 처음 겨냥했던 대상이 어쩌면 자기 자신이었을 수도 있다는 사실을 기억해야 한다.
 
-## No Shared Childhood: From Candy Shops to TikTok
+## 공유되지 않는 유년 시절: 구멍가게에서 틱톡까지
 
-If there is truly a wall between generations, that wall is built from childhood. Laying out the childhoods of these five generations, you will notice a quiet thing: they hardly have anything in common that they remember.
+세대 사이에 정말로 벽이 있다면, 그 벽은 유년 시절의 기억으로 쌓여 있다. 다섯 세대의 어린 시절을 펼쳐보면 한 가지 정적인 사실을 발견하게 된다. 그들은 거의 공통적으로 기억하는 것이 없다.
 
-The childhoods of the 5th and 6th graders were in candy shops. Datong Puppets, launched in 1969, were given as a gift for purchasing NT$10,000 worth of appliances; that red-clad doll placed in the living room was proof of a family climbing from laborers into the middle class[^7]; Yakult set up a factory in Taiwan in 1964, costing two dollars a bottle, delivered door-to-door by "Yakult Moms" carrying cooling boxes[^8]; the way home from school featured Wangzi Noodles, Kexue Noodles, Wangzai Biscuits, and marbles. Turning on the TV, Huang Junxiong's puppet show _Cloud State Grand Confucian_ aired on TTV in 1970, with Shi Yanshan fighting for 583 episodes, achieving a 97% rating, so popular it was banned in 1974 on the grounds of "hindering farmers' work schedules"[^9].
+5, 6학년의 유년 시절은 구멍가게(柑仔店)에 있었다. 1969년 출시된 다이퉁(大同) 가전제품을 1만 원어치 이상 구매하면 증정하던 빨간 옷을 입은 인형은 거실에 놓여, 노동자 계층에서 중산층으로 진입했음을 보여주는 가정의 신분 증명이었다[^7]. 야쿠르트는 1964년 타이완에 공장을 세웠고, 보냉 상자를 멘 '야쿠르트 아주머니'가 집집마다 배달했다[^8]. 하굣길에는 왕자면(王子麵), 과학면(科學麵), 꽝짜이뱌오(尪仔標) 과자, 구슬치기가 있었다. TV를 틀면 황쥔슝(黃俊雄)의 인형극 《운주대유협(雲州大儒俠)》이 1970년 타이완 TV에서 방영되었는데, 스옌원(史豔文)의 연기는 총 583회에 달하며 시청률 97%를 기록했고, '농업 활동 방해'를 이유로 금지 방송될 때까지 1974년까지 큰 인기를 끌었다[^9].
 
-![Five plastic small bottles of Yakult lined up; the red-and-white Yakult is a common lactic acid drink in Taiwanese family refrigerators](/article-images/society/yakult-bottles.webp)
-_Five-pack Yakult, a signature drink of the 5th and 6th graders' candy shops and grocery stores. Photo: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
+![다섯 병의 작은 플라스틱 야쿠르트 병이 나란히 놓여 있다. 빨간색과 흰색 포장의 야쿠르트는 타이완 가정 냉장고에서 흔히 볼 수 있는 유산균 음료이다.](/article-images/society/yakult-bottles.webp)
+_다섯 병들이 담긴 야쿠르트, 5·6학년 세대의 구멍가게와 잡화점의 상징적인 음료. Photo: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
 
 ```tw-versus
-5th/6th Grade Childhood | 9th Grade Childhood
-Wangzai Biscuits, Marbles in Candy Shops | Dcard, Xiaohongshu in Phones
-Datong Puppets, Yakult Moms | IG Stories, TikTok Short Videos
-Huang Junxiong Puppet Show 97% Rating | Algorithm-fed infinite scroll
-A whole street watching the same show | One person scrolling a video only fed to them
+5·6학년의 유년 시절 | 9학년의 유년 시절
+구멍가게의 꽝짜이뱌오, 구슬치기 | 스마트폰 속 Dcard, 샤오홍슈(小紅書)
+다이퉁 인형, 야쿠르트 아주머니 | IG 스토리, TikTok 숏폼 영상
+황쥔슝 인형극 시청률 97% | 알고리즘이 제공하는 무한 스크롤
+거리의 사람들이 같은 극을 봄 | 개인이 자신만을 위한 영상을 스크롤함
 ```
 
-The 7th graders' youth changed interfaces. Pagers (BB Call) peaked in 1999, with over four million households in Taiwan[^10]; couples used numbers to convey affection, with 520 and 1314 flashing on small screens; after going online, the "ding-dong" sound of Yahoo Instant Messenger, the "deng-deng-deng" of MSN going online, and MySpace blogs and photo albums formed a set of codes only they knew[^4]. In 1997, Tamagotchis debuted, sold out in a high-end department store in Kaohsiung, with one resold for 1,500 yuan; students focused on feeding electronic pets in class, leading the then-Minister of Education to half-jokingly suggest setting up a "chicken farm" in schools to raise them together[^11].
+7학년의 청춘은 인터페이스가 바뀌었다. 삐삐(BB Call)는 1999년 전 국민 400만 가구 이상이 사용할 정도로 정점에 달했으며[^10], 연인들은 숫자(520, 1314 등)로 마음을 전했다. 인터넷 접속 이후에는 키모(奇摩) 메신저의 '딩동' 소리, MSN의 접속음, 무명소점의 블로그와 앨범이 그들만이 아는 암호가 되었다[^4]. 1997년 전자펫(Tamagotchi)이 등장했을 때는 가오슝의 백화점에서 리셀가가 1,500 대만 달러까지 치솟기도 했으며, 학생들은 수업 시간에 전자펫을 돌보느라 정신이 없었다. 당시 교육부 장관조차 학교에 '닭장'을 만들어 함께 키우자고 농담할 정도였다[^11].
 
-![A 1990s blue digital pager, metal casing with a small screen displaying numbers, a portable communication device of the BB Call era](/article-images/society/bb-call-pager.webp)
-_Digital pagers (BB Call) of the 1990s, the communication tool used by 7th graders to send "520" and "1314". Photo: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
+![1990년대의 파란색 숫자 호출기(BB Call). 금속 케이스와 작은 화면에 숫자가 표시되는, BB Call 시대의 휴대용 연락 장치이다.](/article-images/society/bb-call-pager.webp)
+_1990년대의 숫자 호출기(BB Call), 7학년생들이 '520', '1314'를 전할 때 사용하던 연락 도구. Photo: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
 
-By the 8th grade, the stage was PTT and Facebook. In 2009, Happy Farm had everyone asking, "Did you steal vegetables today?" The 9th grade is entirely immersed in algorithms: IG, TikTok, Xiaohongshu, Dcard. What changed is not just the platform, but the viewing method itself: for the 5th graders, a whole street watched the same _Cloud State Grand Confucian_ at night; for the 9th graders, one person scrolls a short video that an algorithm feeds only to them.
+8학년의 무대는 PTT와 페이스북이다. 2009년에는 '팜빌리지(開心農場)' 게임 열풍으로 온 나라가 "오늘 농사 지었니?"라고 물었다. 9학년은 알고리즘 속에 잠겨 있다: IG, TikTok, 샤오홍슈, Dcard. 바뀐 것은 플랫폼뿐만이 아니라 시청 방식 그 자체다. 5학년 세대는 거리의 사람들이 저녁에 함께 《운주대儒俠》를 보았지만, 9학년 세대는 개인이 알고리즘이 자신에게만 보여주는 숏폼 영상을 스크롤한다.
 
-> 📝 **Curator's Note**
-> We are accustomed to explaining generational gaps with "value differences": the older generation loves to strive, the younger generation loves to lie flat. But the truth may be more physical: they never watched the same screen together. Collective memory requires the premise of "collective," and over these forty years from candy shops to segmented algorithms, Taiwan's media has fragmented from "the whole village surrounding one TV" to "each person with a phone only for themselves." Ultimately, they did not grow up in the same room. Nostalgia is therefore each nostalgic in their own way: the server you like, others cannot enter.
+> 📝 **큐레이터 노트**
+> 우리는 흔히 '가치관의 차이'로 세대 격차를 설명한다. 앞 세대는 치열하게 살고, 뒷 세대는 누워 지낸다고 말이다. 하지만 진실에 더 가까운 것은 물리적인 현상일지도 모른다. 그들은 단 한 번도 같은 화면을 함께 본 적이 없다. 집단 기억에는 '집단'이라는 전제가 필요하다. 구멍가게에서 분산된 알고리즘에 이르기까지, 지난 40년 동안 타이완의 미디어는 '마을 사람들이 TV 한 대를 둘러싸던 시대'에서 '각자 자신만을 위한 스마트폰을 가진 시대'로 파편화되었다. 결국 그들은 같은 방에서 자라지 않은 것이다. 향수(Nostalgia) 또한 각기 다를 수밖에 없다. 당신이 '좋아요'를 누른 그 서버에 다른 이는 접속할 수 없기 때문이다.
 
-This is why nostalgia is so marketable in Taiwan, yet so segmented. A 2018 nostalgia snack survey collected 1,523 questionnaires, with the highest participation from 7th graders, accounting for 38.2%; the top votes were tin-can fruit candy, Morinaga Milk Candy, Wangzi Noodles, Kexue Noodles, Qiqi Milk Powder, each precisely corresponding to a specific generation's way home from school[^12].
+이것이 바로 타이완에서 향수가 큰 시장을 형성하면서도 동시에 매우 파편화되어 있는 이유다. 2018년 실시된 추억의 간식 조사(1,523명 참여)에서 가장 많이 참여한 집단은 7학년생(38.2%)이었다. 투표 결과 상위권에는 철제 캔 과일 사탕, 미츠이 우유 사탕, 왕자면, 과학면, 치치 유가(七七乳加) 등이 있었으며, 각 간식은 특정 세대의 하굣길을 정확히 관통하고 있었다[^12].
 
-## Every Generation is Someone Else's Guinea Pig
+## 모든 세대는 타인의 실험 대상이다
 
-If childhoods are lived separately, one thing is unavoidable for all five generations: every generation is treated as the first guinea pig for a system reform.
+유년 시절이 각기 달랐다면, 다섯 세대 모두가 피할 수 없는 사실이 하나 있다. 모든 세대가 어떤 제도 개혁의 '첫 번째 실험 대상(백로쥐)'이 되었다는 점이다.
 
-The education system changes almost every decade. The 5th and 6th graders went through the Joint College Entrance Examination (Joint Exam), with high school joint admissions from 1958 to 2000, and the university joint exam until 2001, determining fate in one test. The 7th graders faced three consecutive education reforms: starting in 1996, primary schools implemented "Constructivist Math," requiring kids to relearn arithmetic through understanding; scholars later statistics showed this experiment made nearly 1.8 million primary school students guinea pigs[^13]; in 2001, the Nine-Year Integrated Curriculum went into effect, the Junior High School Entrance Exam replaced the Joint Exam, and textbooks changed from "one syllabus, one book" to "one syllabus, multiple books." The 8th graders encountered the 2012-Year National High School Education and the Joint Assessment in 2014; the 9th graders faced the 108 Curriculum implemented in 2019. No generation used the same rules as the previous one.
+진학 제도는 거의 10년마다 바뀌었다. 5, 6학년은 연합고사(聯考)를 치렀다. 고등학교 연합 입시는 1958년부터 2000년까지, 대학교 연합 입시는 2001년까지 이어지며 단 한 번의 시험으로 생사가 결정되었다. 7학년은 교육 개혁의 삼연타를 맞았다: 1996년부터 초등학교에 '구성주의 수학'이 도입되어 아이들이 이해 중심의 산술을 다시 배워야 했고, 학자들의 통계에 따르면 이 실험으로 인해 약 180만 명의 초등학생이 실험 대상이 되었다[^13]. 2001년에는 9년 통합 교육과정이 시행되었고, 중학교 기초학력 검사가 연합 입시를 대체했으며, 교재가 '일강일본(一綱一本)'에서 '일강다본(一綱多本)'으로 바뀌었다. 8학년은 2014년의 12년 의무교육과 학력 평가(會考)를 맞이했고, 9학년은 2019년에 도입된 108 교육과정을 경험하고 있다. 앞 세대와 동일한 규칙을 사용하는 세대는 단 하나도 없다.
 
-Military service is also a moving line, and the direction of movement is counter-intuitive. Early conscripts served two to three years, then it shortened continuously; by late 2013, conscripts born after ROC year 83 (1994) only needed to serve four months of military training[^14]. It looked like a downhill slope getting shorter, but then it flipped back up. The Ministry of the Interior stipulates that conscripts born after January 1, 2005 (ROC year 94), will resume serving one year of active duty[^14]. In other words, the batch born after 2005 in the 9th grade serves eight months more than the 8th-grade seniors who served only four months of military training; this is the first "extension" of compulsory service in seventy years.
+병역 또한 움직이는 선이며, 그 방향은 매우 이례적이다. 초기에는 병역 의무 기간이 2~3년이었으나 점차 단축되어, 2013년 말 기준으로 민국 83년(1994년) 이후 출생자는 4개월의 군사 훈련만 받으면 되었다[^14]. 줄어들기만 하던 추세였으나 예상치 못한 반전이 일어났다. 내정부는 민국 94년(2005년) 1월 1일 이후 출생자부터 상비군 복무 1년을 회복하도록 규정했다[^14]. 즉, 9학년 중 2005년 이후 출생자는 4개월 훈련만 받는 8학년 선배들보다 무려 8개월을 더 복무해야 한다. 이는 70년 만에 의무병 복무 기간이 처음으로 '연장'된 사례다.
 
 ```tw-stat
-427,212 people | Peak birth number of 5th grade (1963) | Peak of Baby Boom
-166,886 people | Bottom birth number of 9th grade (2010) | Less than 40% of 5th grade peak
-4 months → 1 year | Compulsory service flips up from bottom | ROC years 83–93 (1994–2004 born) serve 4 months, ROC year 94 (2005 born) onwards resume 1 year
+427,212명 | 5학년생 출생 피크 (1963년) | 베이비붐 정점
+166,886명 | 9학년생 출생 저점 (2010년) | 5학년 피크의 40% 미만
+4개월 → 1년 | 의무병 복무 기간 반등 | 민 83-93년생(1994-2004)은 4개월, 민 94년생(2005)부터 1년 회복
 ```
 
-Overlaying these system lines reveals a sharper question: Every reform is theoretically designed to educate the next generation better and secure national defense more firmly. But from the perspective of the reformed, it feels more like: the experiments designed by the older generation are borne by the results of the younger generation. And the designers of the experiments often do not have to be the guinea pigs themselves.
+이 제도적 선들을 겹쳐보면 더 날카로운 질문이 드러난다. 모든 개혁은 이론적으로 다음 세대를 더 잘 가르치고 국방을 더 안정시키기 위함이다. 하지만 개혁당하는 사람의 입장에서 그것은 마치 '앞 세대가 설계한 실험의 결과를 다음 세대가 책임지는 것'처럼 느껴진다. 그리고 실험을 설계한 사람들은 대개 직접 실험 대상이 될 필요가 없다.
 
-## The Slowing Escalator
+## 느려진 에스컬레이터
 
-Up to this point, the accusation of "Strawberry Generation" actually hides an unspoken premise: young people cannot climb up because they are not hardworking enough. But if we shift the lens from "people" to "the escalator beneath their feet," we see a completely different thing.
+여기까지 이야기하면, '딸기족'이라는 비난 뒤에는 "젊은이가 올라가지 못하는 이유는 노력이 부족하기 때문이다"라는 암묵적인 전제가 깔려 있음을 알 수 있다. 하지만 시선을 '사람'에서 '그들 발밑의 에스컬레이터'로 옮기면 완전히 다른 모습이 보인다.
 
-First, look at salaries. Research from the Academia Sinica indicates that before 2002, Taiwan's real output per hour (productivity) and real wages climbed together step by step; after 2002, these two lines separated, productivity continued to rise, but wages froze. Economist Yang Tzu-ting explains: "The fact that producer prices are getting lower and consumer prices are getting higher is the main cause of real wage growth lagging behind real GDP growth"[^2]. During the same period, the share of labor compensation in GDP slid from about 51% in 1990 to around 43% in 2024[^2]. The cake got bigger, but the slice given to workers got thinner.
+먼저 임금을 보자. 중정연구원(Academia Sinica)의 연구에 따르면, 2002년 이전까지 타이완의 시간당 실질 생산성과 실질 임금은 함께 상승 곡선을 그렸다. 그러나 2002년 이후 두 선은 갈라졌다. 생산성은 계속 오르는데 임금은 정체된 것이다. 경제학자 양쯔팅(楊子霆)은 "생산재 가격은 점점 낮아지는 반면 소비재 가격은 점점 높아지는 것이 실질 임금 성장률이 실질 GDP 성장률에 뒤처지는 주요 원인"이라고 설명한다[^2]. 같은 기간 동안 GDP 대비 노동 소득 비중은 1990년 약 51%에서 2024년 약 43%로 하락했다[^2]. 케이크는 커졌지만, 노동자에게 돌아가는 조각은 얇아졌다.
 
-Next, look at housing. This is where the escalator truly steepens. The national mortgage burden rate rose from 21.7% in 2005 to 46.62% in 2024, meaning a family must dedicate nearly half its income to mortgage payments[^3]. The price-to-income ratio is more direct: nationally it rose from 8.2 times in 2014 to 9.89 times in Q1 2025, while Taipei soared from 6.4 times in 2004 to 15.41 times in Q1 2025, higher than London or New York[^3]. In plain terms: in Taipei, a family must not eat or drink for fifteen years to afford a house.
+다음은 집이다. 이것이야말로 에스컬레이터가 진정으로 가팔라진 지점이다. 전국 주택담보대출 상환 부담률은 2005년 21.7%에서 2024년 46.62%로 상승했다. 이는 한 가정이 소득의 거의 절반을 대출 상환에 써야 함을 의미한다[^3]. 소득 대비 주택가격 비율(PIR)은 더 직접적이다. 전국 평균은 2014년 8.2배에서 2025년 1분기 9.89배로 올랐으며, 타이베이시는 2004년 6.4배에서 2025년 1분기 15.41배로 폭등하여 런던이나 뉴욕보다 높다[^3]. 쉽게 말해, 타이베이에서는 한 가정이 15년 동안 먹지도 마시지도 않고 돈을 모아야 집 한 채를 살 수 있다.
 
-![Residential high-rise buildings in Tamsui, New Taipei City, dense apartment blocks tightly arranged, presenting a typical urban high-rise collective housing landscape in Taiwan](/article-images/society/taipei-housing-density.webp)
-_Dense apartment blocks in Tamsui, New Taipei, a typical face of urbanized housing in Taiwan. Photo: HC Lin, CC BY 2.0 via Wikimedia Commons._
+![신베이시 단수이구의 주택 단지. 밀집된 아파트 건물들이 빽빽하게 늘어서 있어 타이완 도시의 전형적인 중고층 집합 주거 경관을 보여준다.](/article-images/society/taipei-housing-density.webp)
+_신베이시 단수이의 밀집된 아파트 군락, 타이완 도시화된 주거지의 전형적인 모습. Photo: HC Lin, CC BY 2.0 via Wikimedia Commons._
 
 ```tw-line
-The Steepening Escalator: National Mortgage Burden Rate (What proportion of income a family must dedicate to mortgage payments)
-Year | Mortgage Burden Rate %
+가팔라진 에스컬레이터: 전국 주택담보대출 상환 부담률 (한 가정이 소득 중 대출 상환에 쓰는 비율)
+연도 | 상환 부담률 %
 2005 | 21.7
 2015 | 35.81
 2024 | 46.62
-Source: NCCU Real Estate Research Center (Compiled from Ministry of the Interior Real Estate Information Platform)
+출처: 정대(政大) 부동산 연구센터 (내정부 부동산 정보 플랫폼 정리)
 ```
 
-Thus, the same effort cannot reach the same position. The data from the Taiwan Social Change Basic Survey of the Academia Sinica best illustrates this: the homeownership rate for the 31–40 age group was over 60% in 1996, but dropped to only about 25% by 2021[^3]. The age of first-time homebuyers also shifted back by five years, from early thirties to early forties. A 5th grader might already have their own house at thirty; an 8th grader at thirty is likely still calculating the down payment.
+결국 같은 힘을 써도 같은 위치에 도달할 수 없다. 중정연구원의 타이완 사회 변천 기본 조사 수치가 이를 가장 잘 설명한다. 31~40세 집단의 자가 점유율은 1996년 60%를 넘었으나, 2021년에는 약 25%로 떨어졌다[^3]. 생애 첫 주택 구입 연령 또한 30대 초반에서 40대 초반으로 5년이나 늦춰졌다. 5학년생은 30세에 이미 자기 집이 있었을지 모르지만, 8학년생은 30세에 여전히 계약금을 계산하고 있을 가능성이 크다.
 
-This is also the consensus in academia. Sociologists Chang Yi-chun and Lin Tsung-hung published research in the _Taiwan Journal of Sociology_ in 2020 explicitly stating: "The baby boom generation born before 1972 enjoyed income advantages brought by economic growth, while the young generation born after 1978 generally has lower incomes"[^15]. In another interview, Lin Tsung-hung spoke more plainly: "Every economic depression in human history creates a traumatized generation... The generation most impacted is those born after 1975, who came of age around 2000"[^16], which corresponds exactly to the 7th grade.
+이는 학계의 공통된 견해이기도 하다. 사회학자 장이쥔(張宜君)과 린쭝훙(林宗弘)이 2020년 《타이완 사회학 학술지》에 발표한 연구는 이를 직접적으로 지적한다: "전후부터 1972년 이전에 태어난 베이비붐 세대는 경제 성장기의 소득 우위를 누렸으나, 1978년 이후 태어난 젊은 세대는 보편적으로 소득이 낮다"[^15]. 린쭝훙은 다른 인터뷰에서 더 직설적으로 말했다: "인류 역사상 모든 경제 불황은 상처 입은 세대를 만든다... 가장 큰 충격을 받은 세대는 1975년 이후 태어나 2000년 전후로 성인이 된 이들이다[^16]." 바로 7학년 세대다.
 
-> 💡 **Did You Know?**
-> Blaming young people entirely for "not being able to climb up" was debunked back in 2005. A 2005 Taipei Times report cited experts pointing out that "Strawberry Generation is a myth," citing that Taiwanese laborers have some of the longest working hours globally, yet salaries have not adjusted for years[^17]. That is, the accusation of "young people are not durable" contradicts the fact of "Taiwanese labor hours are extremely long" from the very beginning.
+> 💡 **알고 계셨나요?**
+> "노력해도 올라가지 못한다"는 것을 오직 젊은이의 탓으로 돌리는 주장은 이미 2005년에 반박된 바 있다. 당시 《타이베이 타임스》의 보도는 전문가를 인용해 "'딸기족'은 미신이다"라고 지적했다. 그 이유는 타이완 노동자의 근로 시간이 세계적으로 매우 긴 편임에도 임금은 수년째 제자리걸음이기 때문이다[^17]. 즉, "젊은이가 끈기가 없다"는 비난과 "타이완의 근로 시간이 지나치게 길다"는 사실은 처음부터 서로 맞지 않는다.
 
-## The Escalator Didn't Stop, It Split Into Two
+## 에스컬레이터가 멈춘 것이 아니라, 두 갈래로 갈라진 것이다
 
-However, saying "the escalator stopped, so young people all cannot afford houses" is also wrong; this is also a form of laziness. The truth is more nuanced and more cruel: the escalator did not stop; it split into two.
+하지만 "에스컬레이터가 멈춰서 젊은이가 집을 못 사는 것이다"라고 말하는 것도 옳지 않다. 그것 역시 게으른 분석이다. 진실은 더 세밀하고 잔혹하다. 에스컬레이터는 멈춘 것이 아니라 두 갈래로 갈라졌다.
 
-Indeed, some 8th graders bought houses. But looking closely, those who could buy mostly relied on parents' down payments: down payments of millions were covered by elders, inheritance or gifts bridging the gap that salaries could not. In contrast, among all young people aged 20–30 nationwide, only 0.89% can afford a house relying on their own strength[^3]. In other words, those who can board that still-moving escalator swipe their parents' cards.
+물론 집을 산 8학년생도 있다. 하지만 자세히 보면 그들은 대부분 부모의 계약금에 의존했다. 수백만 대만 달러에 달하는 자가 자금을 어른들이 내줌으로써, 월급으로는 메울 수 없는 격차를 상속이나 증여로 채운 것이다. 이와 대조적으로, 타이완 전체 20~30세 청년 중 자신의 힘으로 집을 살 수 있는 비율은 단 0.89%에 불과하다[^3]. 다시 말해, 여전히 움직이는 에스컬레이터에 올라탄 사람들은 부모의 카드를 사용하고 있는 것이다.
 
-This is why "generation" is a good entry point but cannot be the endpoint. Lin Tsung-hung himself connects the generational issue back to class distribution: within the same generation, those who inherit capital and those who only have a salary are on two completely different escalators; this intra-generational gap may be larger than the gap between generations. How deep is the impact of family background on the next generation's wealth? A 2024 study published in _Labour Economics_ estimates Taiwan's intergenerational wealth correlation coefficient is about 0.40 for sons and 0.30 for daughters, and the stronger the wealth at the top, the stronger the transmission[^18].
+이것이 바로 '세대'라는 입구가 유용하지만 결코 종착지가 될 수 없는 이유다. 린쭝훙은 세대 문제를 계급 분배로 연결했다. 같은 세대 내에서도 자본을 상속받는 사람과 월급만 있는 사람의 발밑에는 전혀 다른 두 개의 에스컬레이터가 있다. 이 세대 내부의 격차는 세대 간의 격차보다 더 클 수 있다. 가정 배경이 다음 세대의 부에 미치는 영향은 얼마나 깊을까? 2024년 《Labour Economics》에 발표된 연구에 따르면, 타이완 부모-자녀 간 자산 상관계수는 아들이 약 0.40, 딸이 약 0.30이며, 부의 상위권으로 갈수록 그 전이 효과는 더욱 강력해진다[^18].
 
-The salary line is not all black. Nominal salaries have slowly recovered since 2017, and real total salaries in 2024 even increased by 2.16% year-on-year, a rare positive growth after years of stagnation[^2]. But this is at most stopping the fall; it cannot make up for the fifteen years of loss from 2002 to 2017. It is like the escalator started moving again, but the building is already much higher than before.
+임금이라는 선도 완전히 암울하기만 한 것은 아니다. 명목 임금은 2017년 이후 완만하게 회복되었으며, 2024년 실질 총임금은 전년 대비 2.16% 증가하여 수년간의 정체 끝에 드문 플러스 성장을 기록했다[^2]. 하지만 이는 겨우 하락을 멈춘 수준일 뿐, 2002년부터 2017년까지 15년간의 손실을 보전하기에는 역부족이다. 마치 에스컬레이터가 다시 움직이기 시작했지만, 이미 층고가 예전보다 훨씬 높아져 버린 것과 같다.
 
-> ⚠️ **Controversial Viewpoint**
-> The framework of "Generational War" itself has been questioned by many. Chuck Collins, an inequality researcher from the US, said very directly: "We're not suffering through a generational war. We're continuing to live through a clash of economic classes."[^19] His point is that opposing young people and the elderly obscures the true fault line: that line is drawn between those with capital and those without, having little to do with whether one was born in 1970 or 1990. Putting this sentence back into Taiwan holds equally true: within the same grade, the gap may be larger than between grades.
+> ⚠️ **논쟁적 관점**
+> '세대 전쟁'이라는 프레임 자체에 대해서도 많은 의구심이 제기된다. 미국의 불평등 연구가 척 콜린스(Chuck Collins)는 직설적으로 말했다: "우리는 세대 전쟁을 겪고 있는 것이 아니라, 지속되는 경제 계급 간의 충돌을 겪고 있는 것이다."[^19] 그의 말은 젊은이와 노인을 대립시키는 것이 오히려 진짜 단층선을 가리고 있다는 뜻이다. 그 선은 1970년생인지 1990년생인지가 아니라, 자본이 있는지 없는지 사이에 그어져 있다. 이 말은 타이완에도 똑같이 적용된다. 같은 학년 내에서의 격차가 학년 간의 격차보다 클 수 있다.
 
-## From Martial Law Kids to Sliding on TikTok Saying "I Don't Want to Be Unified"
+## 계엄 시대 아이들에서 틱톡을 보며 "통일되기 싫어"라고 말하는 세대까지
 
-Another real fault line between generations is the answer to the question "Who am I?" And this fault line, scholars generally believe, is chiseled out by shared "events," having little to do with whether a generation is inherently so.
+세대 사이의 또 다른 진정한 단층은 '나는 누구인가'라는 질문에 대한 답이다. 그리고 이 단층은 학계에서 주로 공동으로 경험한 '사건'들에 의해 만들어진 것이지, 특정 세대가 타고난 성향과는 큰 관련이 없다고 본다.
 
-The National Chengchi University Election Research Center has long tracked Taiwanese identity: the percentage identifying as Taiwanese rose from 17.6% in 1992 to a high of 67% in 2020, and was 61.7% in 2023; simultaneously, the percentage identifying as Chinese dropped to 2.4% in 2023[^20]. A 2024 Pew Research Center survey echoes this trend, specifically highlighting the younger end: "Adults in Taiwan under the age of 35 are especially likely to identify as solely Taiwanese (83%)"[^21].
+정치대학교 선거연구센터는 타이완인의 정체성을 장기 추적해 왔다: 스스로를 타이완인이라고 생각하는 비율은 1992년 17.6%에서 2020년 67%로 치솟았다가 2023년에는 61.7%를 기록했다. 같은 기간 스스로를 중국인이라고 생각하는 비율은 2023년 기준 2.4%에 불과하다[^20]. 퓨 리서치 센터(Pew Research Center)의 2024년 조사도 이 추세를 뒷받침하며 특히 젊은 세대를 주목했다: "타이완의 35세 미만 성인들은 특히 자신을 순수하게 타이완인으로 규정하는 경향이 높다(83%)"[^21].
 
-This identity curve is often simplified into "Natural Independence Generation is inherently independent." But the academic view is more cautious. Multiple researchers point out that the dominant factor here is what scholars call the "period effect," meaning democratization, the 2014 Sunflower Movement, and other shared "events" reshaped the identities of various generations. The answer is chiseled by the era, never in anyone's genes. Scholar Shen Wei-jie, researching Natural Independence, stated clearly in her master's thesis: "Natural Independence is not natural, but formed later; Natural Independence is also not traditional nationalist Taiwan independence, but rather anti-China"[^22].
+이 정체성 곡선은 흔히 '천연독(天然獨, 타고난 독립 성향) 세대는 태생부터 독립적이다'라고 단순화되곤 한다. 하지만 학계의 시각은 더 신중하다. 많은 연구자는 여기서 주도적인 역할을 하는 것은 이른바 '시기 효과(period effect)'라고 지적한다. 즉, 민주화나 2014년 해태(太陽花) 운동 같은 공동의 경험이 각 세대의 정체성을 재형성했다는 것이다. 답은 시대에 의해 만들어진 것이지 유전자에 들어있는 것이 아니다. 천연독을 연구하는 학자 선웨이제(沈暐婕)는 석사 논문에서 명확히 밝혔다: "천연독은 타고난 것이 아니라 후천적으로 형성된 것이며, 전통적인 민족주의적 대만 독립과는 달리 '반중(反中)' 성향에 가깝다[^22]."
 
-![Crowds filling Kweilin Street in Taipei for the anti-ECFA march in 2014, the crowd extending from the square, many holding signs](/article-images/society/sunflower-movement-2014.webp)
-_On March 30, 2014, the anti-ECFA march filled Kweilin Street in Taipei; the Sunflower Movement is called the peak of the "Natural Independence Generation" going to the streets. Photo: tenz1225, CC BY-SA 2.0 via Wikimedia Commons._
+![2014년 타이베이 카이다그란 대로가 반서비스무역(反服貿) 시위 참가자들로 가득 차 있다. 인파는 광장에서부터 길게 이어지며, 많은 이들이 슬로건을 높이 들고 있다.](/article-images/society/sunflower-movement-2014.webp)
+_2014년 3월 30일, 반서비스무역 대규모 시위로 타이베이 카이다그란 대로가 가득 찼다. 해태 운동은 '천연독 세대'가 거리로 나온 정점으로 불린다. Photo: tenz1225, CC BY-SA 2.0 via Wikimedia Commons._
 
-For the 9th grade, things present an interesting tension. This generation grew up sliding on TikTok and browsing Xiaohongshu, using simplified characters, chasing mainland variety shows and internet slang, culturally closer to the other side of the strait than ever before; but politically, they are the generation native to a democratic system, most intuitively repulsed by "being unified." Taiwan Doublethink Lab's 2025 observation points out that middle schoolers' TikTok usage rate reached 57.87% and high schoolers 50.73%[^23], but cultural proximity has not automatically translated into political shift.
+9학년에 이르러 흥미로운 긴장감이 나타난다. 이 세대는 어릴 때부터 틱톡을 보고 샤오홍슈를 보며 자랐다. 간체자를 사용하고 중국의 예능과 인터넷 용어를 따르기에 문화적으로는 대륙과의 거리가 전례 없이 가깝다. 그러나 정치적 정체성에 있어서는 민주 체제에서 태어나 '통일'에 대해 가장 직관적인 거부감을 느끼는 세대이기도 하다. 타이완 민주 실험실(Doublethink Lab)의 2025년 관찰에 따르면, 중학생의 틱톡 사용률은 57.87%, 고등학생은 50.73%에 달한다[^23]. 하지만 문화적 친밀함이 자동으로 정치적 성향의 변화로 이어지지는 않았다.
 
-> 📝 **Curator's Note**
-> The seemingly contradictory combination of "culturally pro-China, politically anti-China" is precisely where Taiwan.md should not draw conclusions for readers. A 9th grader loving mainland short videos while supporting Taiwan maintaining the status quo may not seem contradictory to them at all, because cultural consumption and national identity are two different things. What can be done here is to honestly lay out the tensions seen by NCCU Election Research Center, Pew, Shen Wei-jie, and Taiwan Doublethink Lab, letting readers see how complex this generation is, and putting aside the hats of "pro-China" or "anti-China." Labeling the next generation is exactly what this entire article aims to deconstruct.
+> 📝 **큐레이터 노트**
+> '문화적 친중, 정치적 거부'라는 모순되어 보이는 조합은 사실 Taiwan.md가 독자를 대신해 결론을 내려서는 안 될 지점이다. 9학년생이 중국의 숏폼 영상을 좋아하면서도 타이완의 현상 유지를 지지하는 것은 그 자신의 관점에서는 전혀 모순되지 않을 수 있다. 문화 소비와 국가 정체성은 별개의 문제이기 때문이다. 여기서 우리가 할 일은 정대 선연, 퓨 리서치, 선웨이제, 타이완 민주 실험실이 각각 발견한 긴장감을 있는 그대로 펼쳐 보여줌으로써 이 세대가 얼마나 복잡한지를 독자가 직접 보게 하는 것이다. '친중'이나 '반중'이라는 낙인은 잠시 접어두자. 다음 세대를 낙인찍는 것이야말로 이 글이 해체하고자 하는 핵심이다.
 
-## Strawberries Didn't Get Softer, The Ground Got Slanted
+## 딸기가 약해진 것이 아니라, 땅이 기울어진 것이다
 
-Stacking five birth certificates together, you see a quiet thing. The 5th graders born in 1963 had 427,212 classmates entering this world; the 9th graders born in 2010 had only 166,886, less than 40% of the 5th grade peak, missing over 200,000 people[^24].
+다섯 장의 출생 증명서를 겹쳐보면 한 가지 정적인 사실을 보게 된다. 1963년생 5학년생은 427,212명의 동기들과 함께 세상에 나왔지만, 2010년생 9학년생은 166,886명뿐이다. 이는 5학년 피크치의 40%에도 못 미치며, 무려 26만 명 이상이 줄어든 수치다[^24].
 
-Fewer people, the cake didn't get bigger, buildings got higher. On this terrain, subsequent generations using the same effort cannot reach the positions previous generations reached. This is not because strawberries got softer, but because the ground beneath their feet got slanted, and slanted unevenly: some have a slope paved by parents beneath their feet, others have only a nearly vertical wall.
+사람은 줄어들고 파이는 커지지 않는데, 건물은 점점 더 높게 지어진다. 이런 지형 위에서 뒷 세대는 앞 세대와 같은 힘을 써도 앞 세대가 도달했던 위치에 갈 수 없다. 이는 딸기가 약해져서가 아니라 발밑의 땅이 기울어졌기 때문이다. 게다가 그 기울기는 불균등하다. 어떤 이의 발밑에는 부모가 깔아준 완만한 경사로가 있지만, 어떤 이의 발밑에는 거의 수직에 가까운 벽만 남아 있다.
 
-"Grade" is ultimately just an entry point. It is useful because it helps us see how the escalator gets steeper year by year; it should not be the endpoint because what determines whether a person can climb up is often whether the escalator beneath their feet connects to a salary or inheritance, and this crack is drawn within every grade. Pew Research Center even announced in 2023 that it would use generational labels less in reporting, because many differences attributed to "generations" actually stem from demographic characteristics themselves[^25]. Even the institution that first popularized generational classification has started calling a halt to this tool.
+'학년'이라는 좌표는 결국 입구일 뿐이다. 그것이 유용한 이유는 에스컬레이터가 해마다 얼마나 가팔라지는지를 보여주기 때문이다. 하지만 그것이 종착지가 되어서는 안 된다. 한 사람이 올라갈 수 있는지를 결정하는 것은 대개 그 발밑의 에스컬레이터가 월급과 연결되어 있는지, 아니면 상속과 연결되어 있는지에 달려 있다. 그리고 이 균열은 모든 학년의 내부에서 그려지고 있다. 퓨 리서치 센터는 2023년에 앞으로 세대 낙인을 사용한 보도를 줄이겠다고 발표했다. 많은 '세대적' 차이가 실제로는 세대 효과가 아닌 인구 통계학적 특성에서 기인하기 때문이다[^25]. 세대 분류를 대중화했던 기관조차 이 도구의 사용을 멈추기 시작했다.
 
-✦ So, the next time you want to say "young people today are just strawberries," think about one thing: the word originally insulted, likely, the twenty-something you were. And what truly changed over these thirty years is the escalator you stepped onto back then, which was still moving, then slowed down, got steeper, and finally split into two. The MySpace line "No one else seems to notice me" resonated with an entire generation because every generation has a piece of youth only they own, which others cannot enter, and the rent for that piece of youth gets more expensive generation by generation.
+✦ 그러니 다음에 "요즘 젊은 애들은 딸기족이야"라는 말을 내뱉기 전에 한 가지만 생각해보자. 이 용어가 처음 겨냥했던 대상은 어쩌면 당시 20대였던 당신 자신이었을지도 모른다는 것을. 그리고 지난 30년 동안 진짜로 변한 것은, 당신이 밟고 있었고 여전히 움직이고 있던 그 에스컬레이터가 점점 느려지고 가팔라지다 결국 두 갈래로 갈라졌다는 사실이다. 무명소점의 "아무도 내가... 곧 폐쇄될 것 같다는 걸 눈치채지 못하네"라는 말이 한 세대의 공감을 얻은 이유는, 모든 세대에는 오직 자신만이 들어갈 수 있고 타인은 들어올 수 없는 청춘의 공간이 있기 때문이다. 그리고 그 청춘의 방세는 세대가 거듭될수록 점점 더 비싸지고 있다.
 
-**Further Reading**:
+**연관 읽기**:
 
-- [Taiwan's Slash Generation](/ko/society/taiwan-slash-generation-multi-job-economy) — The survival math of 7th and 8th graders splitting one salary into three jobs under a low-wage structure
-- [Taiwanese Youth's Career Lost](/ko/society/taiwan-youth-career-confusion) — Spending sixteen years in school, the most common question on graduation day is "I don't know what I want to do"
-- [Taiwan's Low Birth Rate Crisis](/ko/society/taiwan-low-birth-rate-crisis) — Birth numbers crashed from 420,000 to 160,000, how the cake gets smaller year by year
-- [Taiwan Unification-Independence Spectrum](/ko/society/taiwan-unification-independence-spectrum) — The full picture of the identity watershed, from "Who am I" to "Where to go"
-- [MySpace (WuMing XiaoZhan)](/ko/culture/wretch) — The digital server of 7th graders' youth, shut down in 2013, appeared again on Threads in 2025
+- [타이완 슬래시(Slash) 세대](/ko/society/taiwan-slash-generation-multi-job-economy) — 저임금 구조 속에서 월급 하나를 세 개의 직업으로 쪼개 생존하는 7·8학년생의 수학
+- [타이완 청년의 진로 미아 상태](/ko/society/taiwan-youth-career-confusion) — 16년 동안 학교에 다니고 졸업하는 날 가장 많이 하는 말, "내가 뭘 하고 싶은지 모르겠어"
+- [타이완 저출산 위기](/ko/society/taiwan-low-birth-rate-crisis) — 출생 수가 42만 명에서 16만 명으로 급감, 파이가 매년 작아지는 이유
+- [타이완 통일·독립 스펙트럼](/ko/society/taiwan-unification-independence-spectrum) | 정체성의 분수령: '나는 누구인가'부터 '어디로 가야 하는가'까지
+- [무명소점(無名小站)](/ko/culture/wretch) — 7학년 청춘의 디지털 서버, 2013년 폐쇄 후 2025년 Threads에서 다시 등장하다
 
-## Image Sources
+## 이미지 출처
 
-This article uses 5 Creative Commons licensed images, all cached in `public/article-images/society/` to avoid hotlinking to source servers:
+본문은 5장의 Creative Commons 라이선스 이미지를 사용하였으며, 외부 서버 부하를 방지하기 위해 모두 `public/article-images/society/`에 캐시되어 있습니다:
 
-- [Taiwanese Puppet (hero)](https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg) — Photo: Wang Yu Ching / Office of the President, 2023, CC BY 2.0
-- [Yakult](https://commons.wikimedia.org/wiki/File:Yakult_100ml_5pcs_pack_sold_in_Beijing_20120723.jpg) — Photo: kxz Chen, 2012, CC BY-SA 2.0
-- [1990s Digital Pager](https://commons.wikimedia.org/wiki/File:1990s_CPS_blue_pager.jpg) — Photo: Solomon203, CC BY-SA 3.0
-- [2014 Sunflower Anti-ECFA March](<https://commons.wikimedia.org/wiki/File:2014.3.30_黑潮反服貿_(13554498253).jpg>) — Photo: tenz1225, 2014, CC BY-SA 2.0
-- [New Taipei Tamsui Residential Building Cluster](https://commons.wikimedia.org/wiki/File:Tamsui,_New_Taipei_Skyline_20230611.jpg) — Photo: HC Lin, 2023, CC BY 2.0
+- [타이완 인형극 인형(hero)](https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg) — Photo: Wang Yu Ching / Office of the President, 2023, CC BY 2.0
+- [야쿠르트](https://commons.wikimedia.org/wiki/File:Yakult_100ml_5pcs_pack_sold_in_Beijing_20120723.jpg) — Photo: kxz Chen, 2012, CC BY-SA 2.0
+- [1990년대 숫자 호출기](https://commons.wikimedia.org/wiki/File:1990s_CPS_blue_pager.jpg) — Photo: Solomon203, CC BY-SA 3.0
+- [2014 해태 반서비스무역 시위](<https://commons.wikimedia.org/wiki/File:2014.3.30_黑潮反服貿_(13554498253).jpg>) — Photo: tenz1225, 2014, CC BY-SA 2.0
+- [신베이 단수이 주거 건물군](https://commons.wikimedia.org/wiki/File:Tamsui,_New_Taipei_Skyline_20230611.jpg) — Photo: HC Lin, 2023, CC BY 2.0
 
-## References
+## 참고 자료
 
-[^1]: [Wikipedia: Strawberry Generation](https://zh.wikipedia.org/zh-tw/%E8%8D%89%E8%8E%93%E6%97%8F) — Records the origin, semantic shift, and controversy of the term "Strawberry Generation," noting it originally referred to Taiwanese people born in the 1960s (5th grade), later shifting mainstream perception downward to the 7th grade onwards, and citing the High Court's ruling recognizing it as a "derogatory term."
+[^1]: [위키백과: 딸기족](https://zh.wikipedia.org/zh-tw/%E8%8D%89%E8%8E%93%E6%97%8F) — '딸기족' 용어의 기원, 의미 변화 및 논쟁을 수록함. 해당 용어가 초기에 1960년대생(5학년) 타이완인을 지칭했으나 이후 7학년 이후로 이동했다는 점과 고등법원의 비하적 어휘 판결을 인용함.
 
-[^2]: [Research Talk: Why Doesn't Taiwan's Economic Growth Grow Wages? Interview with Yang Tzu-ting](https://research.sinica.edu.tw/taiwan-economic-salary-yang-tzu-ting/) — Academia Sinica popular science platform interview with economist Yang Tzu-ting, analyzing the causes of the decoupling of real wages and productivity after 2002 (scissors difference between producer and consumer prices), and providing data on the declining share of labor compensation in GDP.
+[^2]: [연지유물(研之有物): 타이완의 경제 성장, 왜 임금은 오르지 않는가? 양쯔팅 인터뷰](https://research.sinica.edu.tw/taiwan-economic-salary-yang-tzu-ting/) — 중정연구원 과학 플랫폼의 경제학자 양쯔팅 인터뷰. 2002년 이후 실질 임금과 생산성의 괴리 원인(생산재와 소비재 가격 차이)을 분석하고 GDP 대비 노동 소득 비중 하락 데이터를 제공함.
 
-[^3]: [NCCU Taiwan Real Estate Research Center: Housing Affordability Indicators](https://rer.nccu.edu.tw/article/detail/2210058908437) — Data on price-to-income ratio and mortgage burden rate compiled from the Ministry of the Interior Real Estate Information Platform, noting Taipei's price-to-income ratio reached 15.41 times in Q1 2025, and citing the Academia Sinica Social Change Survey presenting changes in homeownership rates.
+[^3]: [정치대학교 타이완 부동산 연구센터: 주택 부담 능력 지표](https://rer.nccu.edu.tw/article/detail/2210058908437) — 내정부 부동산 정보 플랫폼 자료를 정리한 PIR 및 주택담보대출 상환 부담률 데이터. 타이베이시의 2025년 1분기 PIR이 15.41배에 달함을 명시하고 중정연구원의 자가 점유율 변화를 인용함.
 
-[^4]: [Time UDn: MySpace's Youth, Those Years of Our Blogs, Photo Albums, and Message Boards](https://time.udn.com/udntime/story/122390/6835704) — United Daily News Digital Heritage column reviewing MySpace (1999–2013) functions and generational memory, recording the usage scenario of "opening the computer, going to MySpace to write blogs, update photo albums, see who visited my home."
+[^4]: [보시광(報時光): 무명소점의 청춘, 그 시절 우리의 블로그, 앨범 그리고 방명록](https://time.udn.com/udntime/story/122390/6835704) — 연합보 디지털 아카이브 칼럼. 무명소점(1999–2013)의 기능과 세대적 기억을 회고하며, "할 일 없을 때 컴퓨터를 켜서 블로그를 쓰고 앨범을 업데이트하며 누가 방문했는지 확인하던" 풍경을 기록함.
 
-[^5]: [Wikipedia: Wild Strawberries Movement](https://en.wikipedia.org/wiki/Wild_Strawberries_Movement) — Records the "Wild Strawberry Movement" initiated by Taiwanese students in 2008, explaining how 7th-grade students turned around the derogatory term "Strawberry Generation" and transformed it into the name of the movement for protesting the Assembly and Association Law.
+[^5]: [Wikipedia: Wild Strawberries Movement](https://en.wikipedia.org/wiki/Wild_Strawberries_Movement) — 2008년 타이완 학생들이 시작한 '야생딸기 운동'을 기록. 7학년 학생들이 어떻게 '딸기족'이라는 비하 용어를 역채택하여 항의 집회 및 시위법 개정 운동 명칭으로 전환했는지 설명함.
 
-[^6]: [ETtoday: Taiwan's "New Nine Clans" Youth Most Hate Being Called Strawberry Generation](https://www.ettoday.net/news/20120801/82040.htm) — Reports on the "New Nine Clans of Youth" survey co-hosted by _Vision_ magazine, Yahoo Kimo, and MySpace, where 1,129 youths aged 20–35 voted for the generational label they most wanted to be vindicated, with Strawberry Generation topping at 16.5%, followed by Neet and Phubbers.
+[^6]: [ETtoday: 타이완 '신9족', 청년들이 가장 듣기 싫어하는 말은 딸기족](https://www.ettoday.net/news/20120801/82040.htm) — 원견 잡지, Yahoo, 무명소점이 공동 진행한 '청년 신9족' 조사 보도. 20~35세 청년 1,129명을 대상으로 가장 바로잡고 싶은 세대 낙인을 투표한 결과 딸기족이 16.5%로 1위를 차지했음을 전함.
 
-[^7]: [Story Studio: Datong Puppet, The Middle-Class Dream on TV](https://storystudio.tw/article/gushi/tatungs-puppet) — Reviews the history of Datong Puppet's debut in 1969, noting its significance as a gift for purchasing NT$10,000 worth of appliances, placed in the living room symbolizing a family's leap from the working class to the middle class.
+[^7]: [스토리(故事 StoryStudio): 다이퉁 인형, TV 속 중산층의 꿈](https://storystudio.tw/article/gushi/tatungs-puppet) — 1969년 출시된 다이퉁 인형의 역사를 회고하며, 가전제품 만 원 구매 시 증정품으로서 거실에 놓여 노동자 계급에서 중산층으로 도약했음을 상징하는 의미를 기록함.
 
-[^8]: [Time UDn: Yakult Glass Bottles and Yakult Moms](https://time.udn.com/udntime/story/122390/7069408) — Records the history of Yakult setting up a factory in Taiwan in 1964, a sales model of two dollars a bottle delivered door-to-door by "Yakult Moms," a shared childhood memory for the 5th and 6th grade generations.
+[^8]: [보시광(報時光): 야쿠르트 유리병과 야쿠르트 아주머니](https://time.udn.com/udntime/story/122390/7069408) — 1964년 야쿠르트 타이완 공장 설립 역사를 기록. 병당 2원이었던 제품을 '야쿠르트 아주머니'가 집집마다 배달하던 판매 방식은 5·6학년 세대의 공동 유년 기억임.
 
-[^9]: [Wikipedia: Cloud State Grand Confucian](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E5%B7%9E%E5%A4%A7%E5%84%92%E4%BF%A0) — Records Huang Junxiong's puppet show _Cloud State Grand Confucian_ first aired on TTV in 1970, totaling 583 episodes, achieving a 97% rating, and the complete process of being banned in 1974 on the grounds of "hindering farmers' work schedules."
+[^9]: [위키백과: 운주대유협](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E5%B7%9E%E5%A4%A7%E5%84%92%E4%BF%A0) — 황쥔슝의 인형극 《운주대유협》이 1970년 타이완 TV에서 첫 방영되어 총 583회를 기록하고 시청률 97%를 달성한 과정, 그리고 1974년 '농업 활동 방해'를 이유로 금지된 경위를 수록함.
 
-[^10]: [Roomie: Those Years, We Used Number Codes to Fall in Love](https://www.roomie.tw/posts/69404) — Reviews the rise and fall of Taiwan's BB Call (pager) opened in 1976, peaking at over four million households in 1999, stopping service in late 2011, and the usage culture of number codes like 520 and 1314.
+[^10]: [Roomie: 그 시절, 우리는 숫자로 사랑을 전했다](https://www.roomie.tw/posts/69404) — 타이완 BB Call(호출기)의 1976년 개통, 1999년 사용자 400만 명 정점, 2011년 말 서비스 종료 과정을 회고하며 520, 1314 등의 숫자 암호 문화를 기록함.
 
-[^11]: [Time UDn: Tamagotchi Craze, The Beeping Sounds Rising in Campuses That Year](https://udn.com/news/story/120910/6418556) — United Daily News Digital Heritage reviews the campus storm caused by Tamagotchi's debut in 1997, recording students focusing on feeding in class, prices being resold for over a thousand yuan, and then-Minister of Education Wu Jing proposing a "chicken farm" anecdote.
+[^11]: [보시광(報時光): 전자펫 열풍, 그 시절 학교를 뒤흔든 삐삐 소리](https://udn.com/news/story/120910/6418556) — 연합보 디지털 아카이브. 1997년 전자펫 도입으로 인한 학교 내 소동을 회고하며, 학생들의 수업 방해와 가격 폭등, 당시 교육부 장관 우징(吳京)의 '닭장' 제안 일화를 기록함.
 
-[^12]: [FoodNEXT: Nostalgia Snack Survey](https://www.foodnext.net/issue/paper/5470124084) — FoodNEXT media's 2018 questionnaire survey on Taiwanese nostalgia snacks, collecting 1,523 responses, with 7th graders having the highest participation rate at 38.2%, and voting for tin-can fruit candy, Morinaga Milk Candy, Wangzi Noodles, etc., as generational memory snacks.
+[^12]: [식력(食力 foodNEXT): 추억의 간식 대조사](https://www.foodnext.net/issue/paper/5470124084) — 2018년 실시된 타이완인의 추억의 간식 설문 조사. 1,523건의 응답 중 7학년생 참여율이 38.2%로 가장 높았으며 철제 캔 과일 사탕, 미츠이 우유 사탕, 왕자면 등을 선정함.
 
-[^13]: [NCCU: The Great Experiment of Taiwanese Education](https://www3.nccu.edu.tw/~iaezcpc/B-%20The%20great%20experiment%20of%20Taiwanese%20Education%205-5.htm) — National Chengchi University related research analyzes Taiwan's Constructivist Math reform, noting the policy implementation starting in 1996 made nearly 1.8 million primary school students the subjects of this education experiment.
+[^13]: [NCCU: The Great Experiment of Taiwanese Education](https://www3.nccu.edu.tw/~iaezcpc/B-%20The%20great%20experiment%20of%20Taiwanese%20Education%205-5.htm) — 정치대학교 연구. 타이완의 구성주의 수학 개혁을 분석하며, 1996년부터 시행된 정책으로 인해 약 180만 명의 초등학생이 실험 대상이 되었음을 기록함.
 
-[^14]: [Ministry of the Interior: Service Terms for Conscripts by Year](https://www.moi.gov.tw/News_Content.aspx?n=9&sms=9009&s=277146) — Ministry of the Interior official statement, explicitly stating "Conscripts born after January 1, 1994 (ROC year 94) will resume collection for active duty starting January 1, 2024 (ROC year 113), for a period of 1 year," and "Conscripts born between January 1, 1983 (ROC year 83) and December 31, 1993 (ROC year 93)... for a period of 4 months," the primary source for the first extension of compulsory service in seventy years.
+[^14]: [내정부: 연차별 병역 의무 기간](https://www.moi.gov.tw/News_Content.aspx?n=9&sms=9009&s=277146) — 내정부 공식 설명. "94년 1월 1일 이후 출생자는 113년 1월 1일부터 상비군 복무 1년으로 회복된다"와 "83년~93년생은 4개월 복무한다"는 내용을 명시하여 의무병 기간 연장의 근거를 제시함.
 
-[^15]: [Taiwan Journal of Sociology: Chang Yi-chun, Lin Tsung-hung "Intergenerational Differences and Income Distribution in Taiwan" (2020)](https://www.tjs.org.tw/page.php?menu_id=7&blog_class2_id=56&blog_id=451) — Academic journal paper (DOI 10.6786/TJS.202012\_(68).0002), arguing the baby boom generation born before 1972 enjoyed income advantages, while the generation born after 1978 generally has lower incomes, with mechanisms being higher education expansion and low-wage service industries.
+[^15]: [타이완 사회학 학술지: 장이쥔, 린쭝훙 〈타이완의 세대 차이와 소득 분배〉 (2020)](https://www.tjs.org.tw/page.php?menu_id=7&blog_class2_id=56&blog_id=451) — 학술 논문(DOI 10.6786/TJS.202012\_(68).0002). 전후부터 1972년 이전 출생 베이비붐 세대의 소득 우위와 1978년 이후 세대의 낮은 소득을 고등교육 확대 및 서비스업 저임금 기제로 논증함.
 
-[^16]: [Story Studio: Lin Tsung-hung Interview, The Formation of the Traumatized Generation](https://storystudio.tw/article/s_for_supplement/thung-hong-lin-interview/) — Interview with sociologist Lin Tsung-hung, discussing how economic depressions create "traumatized generations," explicitly stating the most impacted are those born after 1975, coming of age around 2000, and connecting the generational issue back to the perspective of class distribution.
+[^16]: [스토리(故事 StoryStudio): 린쭝훙 인터뷰, 붕괴 세대의 형성](https://storystudio.tw/article/s_for_supplement/thung-hong-lin-interview/) — 사회학자 린쭝훙 인터뷰. 경제 불황이 어떻게 '상처 입은 세대'를 만드는지 설명하며, 특히 1975년 이후 출생하여 2000년 전후로 성인이 된 집단이 가장 큰 충격을 받았음을 밝히고 이를 계급 분배 관점으로 연결함.
 
-[^17]: [Taipei Times: Experts: Strawberry Generation is just a myth](https://www.taipeitimes.com/News/taiwan/archives/2005/09/12/2003271331) — Taipei Times 2005 report, citing experts using the statistical fact that Taiwanese laborers have some of the longest working hours globally and salaries have not adjusted for years, refuting the generational stereotype of "Strawberry Generation is not durable."
+[^17]: [Taipei Times: Experts: Strawberry Generation is just a myth](https://www.taipeitimes.com/News/taiwan/archives/2005/09/12/2003271331) — 2005년 《타이베이 타임스》 보도. 타이완 노동자의 긴 근로 시간과 정체된 임금 통계를 인용하여 '딸기족은 인내심이 없다'는 세대적 고정관념을 반박함.
 
-[^18]: [Chu, Lin & Nian (2024), Labour Economics](https://ideas.repec.org/a/eee/labeco/v91y2024ics0927537124001131.html) — Intergenerational wealth mobility study published in _Labour Economics_, estimating Taiwan's intergenerational wealth correlation coefficient as about 0.40 for sons and 0.30 for daughters, noting the transmission effect at the top of wealth shows non-linear enhancement.
+[^18]: [Chu, Lin & Nian (2024), Labour Economics](https://ideas.repec.org/a/eee/labeco/v91y2024ics0927537124001131.html) — 《Labour Economics》에 발표된 세대 간 부의 이동 연구. 타이완 부모-자녀 간 자산 상관계수를 아들 약 0.40, 딸 약 0.30으로 추정하며 부의 상위권에서 전이 효과가 강화됨을 지적함.
 
-[^19]: [Inequality.org: To Best Understand Inequality, Think Class, Not Generation](https://inequality.org/article/to-best-understand-inequality-think-class-not-generation/) — Article from US inequality research institution, author Chuck Collins argues the true fault line of contemporary times lies in class conflict, arguing the framework of generational opposition obscures the true class rift.
+[^19]: [Inequality.org: To Best Understand Inequality, Think Class, Not Generation](https://inequality.org/article/to-best-understand-inequality-think-class-not-generation/) — 미국의 불평등 연구 기관 기사. 저자 척 콜린스는 현대의 진정한 단층선은 세대 대립이 아닌 계급 충돌이라고 주장함.
 
-[^20]: [National Chengchi University Election Research Center: Taiwan Citizens' Taiwanese/Chinese Identity Trend Distribution](https://esc.nccu.edu.tw/PageDoc?fid=7804) — Primary data from NCCU Election Research Center's long-term polls, presenting the percentage identifying as Taiwanese rising from 17.6% in 1992 to a high of 67% in 2020, 61.7% in 2023, and the percentage identifying as Chinese dropping to 2.4% in 2023.
+[^20]: [정치대학교 선거연구센터: 타이완 국민의 타이완인/중국인 정체성 추세 분포](https://esc.nccu.edu.tw/PageDoc?fid=7804) — 정치대학교 선거연구센터의 장기 조사 데이터. 스스로를 타이완인이라 여기는 비율이 1992년 17.6%에서 2020년 67%로 상승했다가 2023년 61.7%를 기록하고, 중국인 비율은 2023년 2.4%로 떨어졌음을 보여줌.
 
-[^21]: [Pew Research Center: Most People in Taiwan See Themselves as Primarily Taiwanese (2024)](https://www.pewresearch.org/short-reads/2024/01/16/most-people-in-taiwan-see-themselves-as-primarily-taiwanese-few-say-theyre-primarily-chinese/) — Pew Research Center 2024 survey, showing 67% of Taiwan overall identifies primarily as Taiwanese, specifically noting 83% of adults under 35 identify purely as Taiwanese.
+[^21]: [Pew Research Center: Most People in Taiwan See Themselves as Primarily Taiwanese (2024)](https://www.pewresearch.org/short-reads/2024/01/16/most-people-in-taiwan-see-themselves-as-primarily-taiwanese-few-say-theyre-primarily-chinese/) — 퓨 리서치 센터의 2024년 조사. 타이완 전체의 67%가 주로 타이완인이라고 답했으며, 특히 35세 미만 성인의 83%가 순수하게 타이완인이라고 답했음을 명시함.
 
-[^22]: [Airiti Library: Shen Wei-jie "Political Identity of the Natural Independence Generation" (2017, National Taiwan University Master's Thesis)](https://www.airitilibrary.com/Article/Detail?DocID=U0001-2407201711292100) — National Taiwan University Master's thesis, arguing Natural Independence is a political identity formed later, and noting its essence is "more anti-China," distinct from traditional nationalist Taiwan independence.
+[^22]: [Airiti Library: 선웨이제 〈천연독 세대의 정치적 정체성〉 (2017, 타이완대학교 석사 논문)](https://www.airitilibrary.com/Article/Detail?DocID=U0001-2407201711292100) — 타이완대학교 석사 논문. 천연독이 후천적으로 형성된 정치적 정체성임을 논증하며, 그 본질이 전통적 민족주의 대만 독립과는 다른 '반중' 성향임을 지적함.
 
-[^23]: [Taiwan Doublethink Lab: TikTok's Impact on Taiwan's Youth Information Environment and Perception of China (2025)](https://medium.com/doublethinklab-tw/精準推播與認知滲透-tiktok-對台灣青少年資訊環境與對中國觀感的影響-458e3c5f7475) — Taiwan Doublethink Lab 2025 survey report summary, noting middle schoolers' TikTok usage rate reached 57.87% and high schoolers 50.73%, analyzing the tension of the 9th grade generation's "cultural proximity and political identity separation."
+[^23]: [타이완 민주 실험실(Doublethink Lab): TikTok이 타이완 청소년의 정보 환경과 중국에 대한 인식에 미치는 영향 (2025)](https://medium.com/doublethinklab-tw/精準推播與認知滲透-tiktok-對台灣青少年資訊環境與對中國觀感的影響-458e3c5f7475) — 타이완 민주 실험실의 2025년 조사 보고서 요약. 중학생의 틱톡 사용률 57.87%, 고등학생 50.73%를 기록하며 9학년 세대의 '문화적 친밀함과 정치적 정체성의 분리' 현상을 분석함.
 
-[^24]: [Ministry of the Interior Household Registration Division: Historical Birth Number Statistics](https://www.ris.gov.tw/app/portal/346) — Ministry of the Interior Household Registration Division primary population statistics, recording historical birth numbers, 5th grade peak 427,212 in 1963, 9th grade bottom 166,886 in 2010, the official basis for generational population scale comparison.
+[^24]: [내정부 호정사: 연도별 출생 인구 통계](https://www.ris.gov.tw/app/portal/346) — 내정부 호정사의 공식 인구 통계. 1963년 427,212명(5학년 피크)과 2010년 166,886명(9학년 저점) 수치를 통해 세대 규모 차이를 입증함.
 
-[^25]: [Pew Research Center: How Pew Research Center will report on generations moving forward (2023)](https://www.pewresearch.org/short-reads/2023/05/22/how-pew-research-center-will-report-on-generations-moving-forward/) — Pew Research Center 2023 statement, announcing it will reduce the use of generational labels in reporting, because many differences attributed to "generations" actually stem from demographic characteristics themselves, not generational effects.
+[^25]: [Pew Research Center: How Pew Research Center will report on generations moving forward (2023)](https://www.pewresearch.org/short-reads/2023/05/22/how-pew-research-center-will-report-on-generations-moving-forward/) — 퓨 리서치 센터의 2023년 성명. 많은 세대적 차이가 실제로는 인구 통계학적 특성에서 기인하므로 향후 세대 낙인 사용을 줄이겠다고 발표함.

@@ -1,23 +1,27 @@
 ---
-title: "Huang Shan-liao: No one looked at the champion's clothes, so he started selling 'one-line comfort'"
-description: "In 2014, a son of a Kinmen snack shop walked the runway at the London Graduate Fashion Week in a garment design called 'Kinmen 1969' and won the international first prize. When he returned to Taiwan to seek employment, HR treated his resume as fake because 'no reports could be found online.' He angrily started his own media, then pivoted to writing healing short sentences of no more than 28 characters, selling over 300,000 copies. No one looked at the cabinet of clothes telling the history of the battlefields; he changed to selling 'one-line comfort.' Taiwan's attention market buys sentences that can be read in a glance, not things that are made."
+title: "황산료: 세계 챔피언의 옷은 아무도 보지 않아, 그는 '한 마디 위로'를 팔기 시작했다"
+description: "2014년, 금문 작은 먹거리 가게 아들이 '금문 1969'라는 군복 디자인을 입고 런던 졸업 패션 위크 런웨이에 올라 국제 1위를 차지했다. 그러나 대만으로 돌아와 구직 활동을 하자 인사 담당자가 이력서를 가짜로 여겼는데, '아무런 보도도 찾을 수 없다'는 이유였다. 그는 분개해 직접 미디어를 만들었고, 이후 한 줄에 28자를 넘지 않는 치유의 짧은 문장을 쓰기 시작해 누적 30만 부 이상 팔렸다. 전쟁 역사를 담은 옷장은 아무도 보지 않았고, 그는 '한 마디 위로'를 팔기로 했다. 대만의 주의력 시장이 사는 것은 슬쩍 한눈에 다 읽히는 문장이지, 만들어진 물건이 아니다."
 date: 2026-06-07
+category: 'People'
 tags:
   [
-    'Writer',
-    'Fashion Design',
-    'Attention Economy',
-    'Publishing',
-    'Kinmen',
-    'Online Vigilante Justice',
-    'World Champion',
+    '작가',
+    '의상 디자인',
+    '주의력 경제',
+    '출판',
+    '금문',
+    '인터넷 공심',
+    '세계 챔피언',
   ]
 subcategory: '文化與創作'
 author: 'Taiwan.md'
-category: 'People'
-readingTime: 12
+featured: true
 lastVerified: 2026-06-07
 lastHumanReview: false
+image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
+imageCredit: '鏡週刊（fair use editorial commentary）'
+imageLicense: 'Fair use editorial commentary'
+readingTime: 12
 sporeLinks:
   - id: 128
     platform: 'threads'
@@ -28,279 +32,273 @@ sporeLinks:
     date: '2026-06-07'
     url: 'https://x.com/taiwandotmd/status/2063604185912987689'
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: ''
+sourceCommitSha: '00939ce59'
 sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
 sourceBodyHash: 'sha256:a1e88d45df841409'
-translatedAt: '2026-06-16T16:55:29Z'
-image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
-imageCredit: '鏡週刊（fair use editorial commentary）'
-imageLicense: 'Fair use editorial commentary'
-featured: true
+translatedAt: '2026-10-10T19:55:09.625711+00:00'
 ---
 
-# Huang Shan-liao: No one looked at the champion's clothes, so he started selling 'one-line comfort'
+# 황산료: 세계 챔피언의 옷은 아무도 보지 않았고, 그는 '한 마디 위로'를 팔기 시작했다
 
-In June 2026, an old poster went viral on Threads.
+2026년 6월, 한 장의 낡은 포스터가 스레드에서 급속히 퍼졌다.
 
-The photo shows the London runway in 2014, where a young Taiwanese man walked with six outfits. The theme was "Kinmen 1969"—military-style cuts, bullet holes, tassel camouflage nets, and faux-aged fabrics printed with images from the _Kinmen Daily News_ and _Zhengqi Zhonghua News_. That year, he won the international first prize at the London Graduate Fashion Week. [^1]
+사진 속에는 2014년 런던 런웨이, 한 타이완 청년의 여섯 벌 의상이 무대를 지나가고 있다. 주제는 '진먼1969': 군복 재단, 탄흔, 술 장식 위장망, 《진먼일보(金門日報)》와 《정기중화보(正氣中華報)》 문양이 찍힌 빈티지 원단. 그해 그는 런던 졸업 패션 위크(Graduate Fashion Week) 국제 1위를 거머쥐었다.[^1]
 
-The comments section below was calculating the same math problem: Is the designer who won the world championship in the poster the same person as the bestselling author being mocked by 600,000 people in a video this week for having "no substance" and being "chicken soup"?
+댓글란에서는 같은 수학 문제를 풀고 있었다: 포스터 속 세계 챔피언 디자이너와, 이번 주 한 영상 댓글에 60만 명이 몰려 '내용 없다', '닭고기 수프(영양가 없는 위로)'라 조롱한 베스트셀러 작가가 동일 인물인가?
 
-Yes. His name is Huang Shan-liao. One person, two products: a cabinet of "Kinmen 1969" clothes telling the history of the battlefields, which no media outlet reported on; and healing short sentences of no more than 28 characters, which have cumulatively sold over 300,000 copies. He once defined those short sentences as giving people "the need for a sentence of comfort, like flipping through an horoscope book." [^21] No one looked at the cabinet of clothes, so he changed to selling "one-line comfort," and thus became Taiwan's most bestselling, yet most mocked, writer.
+그렇다. 그는 황산료(黃山料)다. 같은 사람, 두 가지 상품: 전장의 역사를 말하는 한 벌의 옷, 단 한 곳의 언론도 보도하지 않은 '진먼1969', 그리고 한 줄 28자 넘지 않는 치유 문장으로 누적 30만 부 이상 팔린 책. 그는 그 짧은 글들에 직접 정의를 내렸다: "마치 운세 책장을 넘기듯, 한 마디 위로가 필요할 때".[^21] 그 한 벌의 옷을 아무도 보지 않자, 그는 '한 마디 위로'를 팔기 시작했고, 그렇게 타이완에서 가장 많이 팔리고, 동시에 가장 많이 조롱받는 작가가 되었다.
 
-> **30-second overview:** Huang Shan-liao, born in 1992 in Kinmen, his family ran a snack shop. In 2014, he won the international first prize at the London Graduate Fashion Week (Graduate Fashion Week) with "Kinmen 1969," one of the three consecutive years that the Department of Fashion Design at Shih Chien University won awards. However, after returning to Taiwan to seek employment, he sent over 100 resumes and received zero interview invitations. An HR representative at a certain company searched online and couldn't find any reports of his award, suspecting his resume was fake—he thus realized "the world doesn't compare who has ability, but who has the ability to speak," angrily started his own media _One Shirt_ (2017–2021) to make the nameless "visible," and then pivoted to becoming a healing writer who continuously topped the Eslite Bestseller List. In June 2026, YouTuber Domidolo's vigilante video broke 600,000 views in one day, pushing him to the风口 (wind outlet) of "The Biggest Scam of Taiwan's Most Bestselling Author."
+> **30초 개요:** 황산료, 1992년 진먼(金門) 출생, 가정은 분식집을 운영했다. 2014년 '진먼1969'로 런던 졸업 패션 위크(Graduate Fashion Week) 국제 1위 수상, 실천대학(實踐大學) 의상디자인과 3년 연속 수상 중 한 해였다. 하지만 귀국해 구직하며 100통 넘게 이력서를 냈으나 면접 0회, 모 회사 인사팀이 온라인에서 그의 수상 보도를 찾지 못해 이력서 허위 의심 — 그는 문득 깨달았다. "이 세상은 능력 겨루기가 아니라, 말할 수 있는 능력 겨루기다" — 분연히 직접 매체 《한 벌의 셔츠(一件襯衫)》(2017–2021)를 만들어 무명인을 '보이게' 했고, 이후 연이어 성품(誠品) 베스트셀러 차트를 석권한 치유계 작가가 되었다. 2026년 6월, 유튜버 도미도로(多米多羅)의 공판 영상 하나가 하루 만에 60만 조회수를 기록하며 그를 '타이완 최고 베스트셀러 작가의 대사기극' 논란의 중심으로 밀어 올렸다.
 
-## The World Champion No One Reported
+## 아무도 보도하지 않은 세계 챔피언
 
-Let's clarify that forgotten fact first: He really did win a world championship.
+잊혀진 사실을 먼저 분명히 해두자: 그는 정말로 세계 챔피언을 차지한 적이 있다.
 
-Huang Shan-liao was born on May 3, 1992, in Kinmen. His father is Huang Szu-chu and his mother is Chao Hui-ying; the family ran a snack shop on the island. The name "Shan-liao" (Mountain Material) was given by his father—the _Kinmen Daily News_ interview recorded his father's meaning for the name: uncarved jade raw material, not weathered, pure, clean, fresh, and slightly angular. [^2] Raw material, not finished product; angular, not yet smoothed out. A person's later story is sometimes already hidden in his name.
+황산료(黃山料)는 1992년 5월 3일 진먼(金門)에서 태어났다. 아버지 황쓰쥐(黃思駒), 어머니 자오후이잉(趙惠瑩) 사이에서 섬에서 분식집을 운영하며 자랐다. '산료(山料)'라는 이름은 아버지가 지었다. 《진먼일보(金門日報)》 인터뷰에 따르면 아버지가 이름을 지은 뜻은 '조각되지 않은 옥의 원료, 풍화되지 않은, 순수하고 깨끗하고 신선하며 약간 모서리가 있는 것'이다.[^2] 원료이지 완제품이 아니며, 모서리가 있어 아직 다듬어지지 않았다. 한 사람의 뒷이야기가 때로는 이미 그의 이름 속에 숨어 있다.
 
-He entered the Department of Fashion Design at Shih Chien University through the off-island recommendation system, not out of passion. He spoke plainly: "My ambition was never in fashion design; I entered fashion design only because when I was in high school, there was a system called off-island recommendation." [^3] A child from an off-island with no particular passion for fashion made a graduation work that made the Editor-in-Chief of Italy's _Vogue_ speak in his ear after four years.
+그는 스지다쉐(實踐大學) 복장설계과에 진학했는데, 그건 섬 지역 보송(離島保送) 제도 덕분이었지 열정 때문이 아니었다. 본인이 솔직히 말했듯: "내 포부는 애초에 복장설계에 있지 않았다. 내가 복장설계과에 들어간 건 고교 시절 '섬 지역 보송'이라는 제도가 있었기 때문이다."[^3] 복장에 별다른 열정이 없던 섬 출신 청년이 4년 뒤 이탈리아 《보그(Vogue)》 편집장이 귀에 대고 말할 정도의 졸업 작품을 내놓았다.
 
-"Kinmen 1969" consisted of six outfits telling the war memories of his hometown:巾帼须眉 (heroic women), battlefield women, and the spirit of soldiers. It heavily used military totems, bullet holes, military boots, and camouflage nets, printing old newspaper images from the _Kinmen Daily News_ and _Zhengqi Zhonghua News_ onto faux-aged leather-textured fabrics, paired with black iron metal details. [^4] He explained the design philosophy of these clothes in the _Kinmen Daily News_: "Memory is gentle, history is resolute. In the pattern and silhouette, I interpret the elements of soldiers: bunkers, military uniforms, stability, and strength." [^2] He also said a more complete sentence: "The principle I grasped is that each work is a personality, a character, telling the stories of that era and defending the cultural history gradually destroyed by civilization." [^2]
+「진먼 1969(金門1969)」는 여섯 벌의 의상으로, 고향의 전장 기억을 다룬다: 여장부(巾幗鬚眉), 전장 여성, 군인 정신. 군대 도상(圖騰), 탄흔, 군화, 위장망을 대량 사용하고 《진먼일보》와 《정기중화보(正氣中華報)》의 옛 신문 이미지를 모조 소가죽 질감의 원단에 인쇄했으며, 흑철 금속 디테일을 더했다.[^4] 그는 《진먼일보》에서 이 옷의 설계 이념을 설명했다: "기억은 부드럽지만 역사는 굳세다. 나는 패턴과 실루엣에서 군인의 요소를 해석했다. 토치카(碉堡), 군복, 무게감, 강인함."[^2] 그는 더 완전한 말도 남겼다: "내가 지키는 원칙은, 매 작품마다 하나의 개성, 하나의 역할이어서 그들이 그 시대의 이야기를 말하고 문명에 의해 점차 파괴되어가는 문화 역사를 지키는 것이다."[^2]
 
-![Huang Shan-liao (center, white shirt) backstage at the 2014 London Graduate Fashion Week, posing with models wearing his "Kinmen 1969" series. The clothing features military cuts, newspaper prints, and battlefield elements.](/article-images/people/huang-shan-liao-jinmen1969-gfw-2014.webp)
+![황산료(가운데, 흰옷)가 2014 런던 졸업전시 패션위크 백스테이지에서 '진먼 1969' 시리즈를 입은 모델들과 함께 포즈를 취하고 있다. 의상에서 군복 재단, 신문 프린트, 전장 요소가 보인다](/article-images/people/huang-shan-liao-jinmen1969-gfw-2014.webp)
 
-_Backstage at the 2014 London Graduate Fashion Week, Huang Shan-liao (center) with models wearing the "Kinmen 1969" series. Military uniforms, newspaper prints, camouflage nets—this cabinet of clothes telling Kinmen's battlefield history won him the international first prize, yet it was a cabinet almost no one in Taiwan had seen. Photo: Kinmen Daily News (fair use editorial commentary)._
+_2014년 런던 졸업전시 패션위크 백스테이지, 황산료(가운데)와 '진먼 1969' 시리즈를 입은 모델들. 군복, 신문 프린트, 위장망——이 진먼 전장사를 말하는 옷장이 그에게 국제 1등상을 안겼지만, 타이완에서는 거의 아무도 보지 못한 옷장이다. 사진: 진먼일보(공정 이용 논평)._
 
-Remember this, because it is the key to the whole article: **His peak craftsmanship was about speaking for his hometown's war memories.** A person called "substanceless," his truly substantive moment was when he spoke for the history of a small island.
+이 점을 기억해두기 바란다. 이 글의 열쇠이기 때문이다: **그의 기량의 정점은 고향의 전쟁 기억을 말한다.** '재료가 없다(沒料)'고 욕먹던 사람이, 진정으로 '재료가 있는(有料)' 순간은 한 작은 섬의 역사를 대변할 때였다.
 
-At the moment of winning the award, he was not as excited as imagined. He wrote in his book: "It turns out that winning a world championship is not as moving as imagined. There was no emotion of finally achieving a goal, no tears of being moved, no hope and憧憬 (yearning) for the future. What I had in my heart was only confusion and fear about the future." [^5] According to descriptions in his book, the award presenter was _Vogue Italia_ Editor-in-Chief and GFW judge Franca Sozzani, who leaned close to his ear and said: "You are a very talented designer; I look forward to you coming to work in Europe." [^6]
+수상 당시 그는 상상했던 만큼 감동하지 않았다. 그는 책에 썼다: "막상 세계 챔피언이 되어보니 상상만큼 감동적이지 않았다. 목표를 이뤘다는 감격도, 감동의 눈물도, 그래서 미래에 대한 희망과 동경도 없었다. 내 안에 있던 건 오직 미래에 대한 막막함과 두려움뿐이었다."[^5] 그의 책에 따르면 시상자는 《보그 이탈리아(Vogue Italia)》 편집장이자 GFW 심사위원인 프란카 소차니(Franca Sozzani)였으며, 그에게 귀에 대고 말했다: "당신은 매우 재능 있는 디자이너군요. 유럽에서 일하길 기대합니다."[^6]
 
-This award stage was no small matter. The London Graduate Fashion Week was founded in the UK in 1991; the first gold award winner was Christopher Bailey, who later led Burberry, and alumni include Stella McCartney. Chinese media often directly call this first prize a "world championship." [^1] The problem is—almost no one in Taiwan knew about this world champion.
+이 상의 무게는 가볍지 않다. 런던 졸업전시 패션위크(Graduate Fashion Week)는 1991년 영국에서 창설되었으며, 첫 금상 수상자는 나중에 버버리(Burberry)를 이끈 크리스토퍼 베일리(Christopher Bailey)이고, 동문 중에는 스텔라 매카트니(Stella McCartney)가 있다. 중화권 매체는 이 1등상을 흔히 '세계 챔피언'이라 부른다.[^1] 문제는: 이 세계 챔피언을 타이완에서 거의 아무도 모른다는 것이다.
 
-## That Sentence from the HR
+## 그 HR 이 한 말
 
-After returning to Taiwan, for nearly two full years, Huang Shan-liao sent over 100 resumes and received not a single interview invitation. [^7]
+타이완으로 돌아온 뒤, 꼬박 약 2년 동안 황산료는 이력서 100여 통을 냈지만 단 한 통의 면접 통보도 받지 못했다.[^7]
 
-What really pinned him down was the reply from an HR at a certain company. _Storm Media_ recorded that conversation, word for word: HR told him that the supervisor had seen the resume and thought he was excellent, but "he said his supervisor searched my name online and couldn't find too many mainstream media reports, so he suspected my resume was fake." [^7] In other words: A person who won a world championship was treated as fake because there were no media reports about it.
+그를 옴짝달싹 못 하게 한 것은 어느 회사 HR 의 회신이었다. 풍전매체(風傳媒)가 그 대화를 받아적었는데, 단어 하나 틀리지 않고: 「인사담당자가 말해 주길, 팀장이 이력서를 보고는 그가 매우 훌륭하다고 여겼지만 '자기 팀장이 인터넷에서 내 이름을 검색해 봤는데 주류 매체 보도가 거의 안 나와서, 내 이력서에 허위 기재 혐의가 있다고 생각한다'고 했다」.[^7] 바꿔 말하면: 세계 챔피언을 탄 사람이, 매체가 그 일을 보도하지 않았다는 이유로 그 일을 가짜로 취급당했다는 것이다.
 
-This is an irreplaceable moment in Huang Shan-liao's life. Everything that followed grew from here. His realization was also recorded word for word: "It turns out this world doesn't compare who has ability, but who has the ability to speak!" and "I have been trying to make up for the past lack of being seen!" [^7] In another interview in the _Kinmen Daily News_, he said it again in different words: "At that time, I felt very frustrated; my strength竟然 (unexpectedly) had to rely on media endorsement to be recognized," followed by "I fell in this place, so I stood up from where I fell." [^8]
+이것은 황산료 인생에서 대체 불가능한 한 순간이었다. 그는 이곳에서 이후의 모든 것을 키워냈다. 그의 깨달음 또한 단어 하나 틀리지 않고 남겨졌다: 「원래 이 세상은 누가 능력이 있는지를 겨루는 게 아니라, 누가 말할 능력이 있는지를 겨루는 거구나!」 그리고 「나는 실은 줄곧 과거에 보이지 않았던 그 아쉬움을 메우고 있었던 거야!」[^7] 금문일보(金門日報)의 또 다른 인터뷰에서 그는 다른 말로 다시 한 번 말했다: 「그때 참 좌절스러웠어, 내 실력이 매체의 보증에 기대야만 인정받을 수 있다니」, 그리고 「내가 이곳에서 넘어졌으니, 넘어진 그곳에서 일어나겠다」.[^8]
 
-To understand this wound fairly, we need to zoom out a bit: Behind it is an entire industry's structural problem, not just his personal bad luck. The starting salary for new fashion designers in Taiwan is about 26,000 to 35,000 NTD; it takes about ten years to rise to design director; overtime is common, and turnover is high. Even the industry's归属 (affiliation) reveals the problem: The UK and France classify the fashion industry under the Ministry of Culture; only Taiwan puts the fashion industry under the Ministry of Economic Affairs—a mindset that treats clothes as OEM, not culture. [^9] Huang Shan-liao himself described this despair: "Many young brothers and sisters coming out now want to do very creative things, but honestly, those things have no commercial value in Taiwan." Followed by a heavier sentence: "Look at me, someone who already won awards and returned, already struggling so much; what about those who didn't win awards?" [^3]
+이 상처를 공정하게 이해하려면 카메라를 조금 멀리 당겨 봐야 한다: 배경에는 산업 전체의 구조적 문제가 깔려 있을 뿐, 그의 개인적 운이 나빴던 것만은 아니다. 타이완의 의상 디자인 신입 초봉은 대략 NT$26,000~35,000 선에 머물며, 디자인 디렉터 자리까지 오르려면 족히 10년은 걸려야 하고, 야근은 일상이며 이직률도 높다. 산업 귀속만 봐도 문제가 드러난다: 영국과 프랑스는 패션 산업을 문화부 소관으로 두는데, 오직 타이완만 패션 산업을 경제부가 관장한다 — 옷을 문화가 아닌 하청·제조업으로 여기는 사고방식이다.[^9] 황산료 스스로 이 절망을 묘사한 바 있다: 「요즘 갓 나온 젊은 친구들이 다 창의적인 걸 하고 싶어 하는데, 솔직히 그거 타이완에서는 아무 상업적 가치도 없어.」 이어지는 더 무거운 한 마디: 「봐, 나처럼 상 타고 돌아온 사람도 벌써 이만큼 힘든데, 상 못 탄 애들은 어쩌란 말이야?」[^3]
 
-The common mocking version says: He discovered that writing chicken soup makes more money than making clothes, so he defected. This narrative is convenient, but it reverses the cause and effect. He was first taught a cruel lesson by the industry, and only then saw that there was money to be made: **Not being seen equals non-existence.** If even a world champion can become fake because no reports can be found, then how can an unknown person prove his existence? Everything he did later was an answer to this question.
+세간에 도는 조롱 섞인 버전은: 그가 '닭고기 수프' 쓰는 게 옷 만드는 것보다 돈 된다는 걸 알고 도망쳤다는 것이다. 이 말은 서사적으로는 매끄럽지만 인과를 거꾸로 뒤집었다. 그는 산업으로부터 잔혹한 교훈을 먼저 배운 뒤, 나중에야 돈 벌 길이 있음을 보았다: **보이지 않으면, 존재하지 않는 것과 같다.** 세계 챔피언조차 보도 기록이 없다는 이유로 가짜가 될 수 있는데, 하물며 이름 없는 무명인사가 어떻게 자기 존재를 증명하겠는가? 그가 뒤에 한 모든 일은 이 한 질문에 답하는 과정이었다.
 
-## Making "Being Seen" a Business
+## '보여짐'을 비즈니스로 만들다
 
-In 2017, at age 25, Huang Shan-liao took out a loan for 2 million NTD, quit his design job that lasted only 11 months, and founded _One Shirt_. [^10]
+2017년, 25세의 황산료가 NT$200만을 대출받아, 겨우 11개월 한 디자인 일을 그만두고 《한 벌 셔츠》를 창업했다.[^10]
 
-This was a media platform dedicated to making the nameless "visible." The Facebook page's positioning wrote "Your urban daily scenery," and the subject matter was craftsman stories of "quitting—starting a business—chasing dreams"—the kind of life he was trapped in, he went out and filmed it for others. In one year, he did 161 character interviews, nearly reaching 10 million views weekly, with YouTube cumulative views of about 13.38 million, a peak team size of about 20 people, reaching about 20 million Chinese-speaking people. [^11] A person who hit a wall in job hunting because he wasn't reported on, turned around to become someone who specifically reports on others. This turn itself is the most beautiful counterpoint of his entire story.
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/6DoaguPKjV4" title="「The most difficult story to tell is the love that cannot be spoken」 One Shirt Founder Huang Shan-liao | Parent-Child World" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-_Character interviews for One Shirt—Huang Shan-liao took the kind of life he was once trapped in and filmed it for others. Video: Parent-Child World YouTube._
-
-But as he did it, he emptied himself. In November 2020 he stepped down; in June 2021 he announced the closure of _One Shirt_. [^11] He explained the reason for closing it was not commercial failure, but that he disliked that deformed version of himself: "After taking on too heavy a responsibility, I became impatient with people. In fact, I very much hated that Huang Shan-liao." [^12] There was also a more reluctant sentence: "One Shirt is the baby I gave birth to personally; letting go is very reluctant. It really is time to leave; I can no longer hesitate, can no longer continue to sacrifice anyone because I am reluctant to leave." [^13]
-
-Later, in a 2024 interview in Malaysia, he spoke more sharply about that alienation: He said he "was not serving creation, but was an advertising company." [^14] This sentence is a retrospective reflection, not what he said at the moment of closing in 2021—but it precisely points out a contradiction: He did media to let people "be seen," but when "being seen" becomes a business, what does this business feed: creation, or traffic itself? He hit the ceiling of the attention economy with his own experience, then chose to step down.
-
-## The Bestseller Logic of One Line of 28 Characters
-
-After closing the media, Huang Shan-liao set a goal for himself: complete ten novels in five years. [^15]
-
-He started writing full-time from 2021. His first book _Drifting Youth_ (2019) was actually published early, but the first edition royalty was only 140,000 NTD—he himself said, "That's why I continued to stay at that company for another 2 years." [^16] The real explosion was after 2021: _Live Well, Meet Slowly_, _Say Goodbye Well, Don't Fail the Encounter_, _That Girl Said to Me_, _The Rest of Your Life is You, It Doesn't Matter if Late_, _Lonely in the Human World, Yet Like Old Friends at First Sight_, _The Heart is Small, Just Hold What You Like_, _Make Days Slowly Better_, _Having Owned is Enough_—almost one to two books a year, all published by Sun Color Publishing, all gentle short sentences, large white space healing prose and novels. [^15]
-
-The numbers are惊人 (astonishing). Verified by the Eslite official annual list: In 2021, _Live Well_ took the TOP 1 in the Psychological Inspirational category and 3rd overall in the non-category; in 2022 and 2023, he won the Eslite non-category annual bestseller champion for two consecutive years (_Say Goodbye Well_, _The Rest of Your Life_); in 2024 and 2025, he was 2nd overall, losing to Kevin Tsai's _You Will_ and _Chang Chu-en's Autobiography_ respectively. [^17] In terms of sales, he stated in 2023 that six books cumulatively exceeded 300,000 copies; in 2025, media called it over 400,000 copies; _The Heart is Small_ pre-sales opened and sold 3,000 copies in 6 minutes, breaking 1 million in revenue, with a first print run of 30,000; _Lonely in the Human World_ first print run of 30,000 plus 5,000 signed copies sold out completely. [^18][^19]
-
-![Huang Shan-liao at a book signing, with stacks of new books with titles written on them piled on the table in front of him.](/article-images/people/huang-shan-liao-book-signing.webp)
-
-_After switching to writing, Huang Shan-liao became a regular on the Eslite charts. The stacks of new books on the signing table are the concrete scale of "one-line comfort" becoming a national commodity. Photo: Huang Shan-liao Instagram (@iam_3636) / Bella Nongnong (fair use editorial commentary)._
-
-The most crucial part is how he views what he is doing. In a 2025 Mirror Media interview, he spoke unreservedly about his bestseller methodology: "I have always felt that my opponents are not other authors, but TikTok, Facebook, Threads. 'What I write can be finished in one glance as you scroll past.' 'One line of 26 to 28 characters; if it exceeds that, their eyes might not be able to handle it.'" [^20] In a 2023 China Times Supplement interview, he stated his goal even more plainly: "How to make people who don't like reading willing to finish this book is my goal"; he wants people to "be like flipping through an horoscope book, needing a sentence of comfort." [^21]
-
-> **📝 Curator's Note**
-> It is easy for everyone to read this methodology as "he admits he is slacking off." But looking at the two products together is more interesting: On the left is the "Kinmen 1969" cabinet, printed with old newspapers, bullet holes, camouflage nets, telling the war memory of an island, with no media outlet looking at it; on the right are sentences of 26 to 28 characters per line, with white space taking up half a page, selling over 300,000 copies. A person whose existence was denied ten years ago because "no one reported on him" has now turned "how to be caught by a person scrolling a phone in three seconds" into a science calculated down to the character count. He didn't give up craftsmanship. He changed it from fabric to attention. The lesson that HR taught him that day, he learned too well.
-
-He is even honest enough to admit he is not from a literary youth background: "I used to write diaries on MySpace, but I don't read books; I only developed the habit of reading after finishing _Drifting Youth_ in 2019." [^22] This sentence has two valid readings: Critics will say "No wonder it's written shallowly"; sympathizers will say "An unreading person relying on self-study climbed to the top." The same sentence, depending on which side you stand on.
-
-## A Shallow Pond, or a Mirror?
-
-On June 5, 2026, YouTuber Domidolo uploaded a video titled "Vigilante Justice: The Biggest Scam of Taiwan's Most Bestselling Author," breaking 600,000 views in one day and about 700,000 in three days. [^23]
-
-The criticism was heavy. Domidolo said he "clearly read 6 books, but the feeling was only 2," mocking the large white space—"Has your book been touched by the Soup Witch? Half the characters are missing," called his books "Text Version Blue Enchantress," and gave the evaluation "can only get 0 points," "an unqualified writer, a master of mass psychological provocation" based on literary professionalism. [^24]
+이는 무명인들을 '보여지게 하는' 전문 미디어였다. 페이스북 페이지 소개에는 '당신이 뿌리는 도시의 일상 풍경'이라 적혀 있었고, 소재는 '사직—창업—꿈 추구'의 장인 이야기였다: 자신이 갇혀 있던 그 삶을, 그는 남들을 위해 찍어주었다. 1년간 161건의 인물 인터뷰를 제작했고, 주간 조회수가 100만에 육박했으며, 유튜브 누적 조회수 약 1,338만 회, 팀 최대 인원 약 20명, 약 2,000만 화어권 인구에게 도달했다.[^11] 보도되지 않아 구직에 실패했던 사람이, 역으로 남들을 보도하는 전문가가 되었다. 이 전향 자체가 그의 이야기 전체에서 가장 아름다운 대위법이었다.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/hD2Bro3wLng" title="Huang Shan-liao's Books Are Basically the Hardest to Read!? Vigilante Justice: The Biggest Scam of Taiwan's Most Bestselling Author!! | Domidolo Domidolo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/6DoaguPKjV4" title="「最難說的故事，是說不出口的愛」一件襯衫創辦人 黃山料｜親子天下" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_On June 5, 2026, Domidolo's vigilante video broke 600,000 views in one day, becoming the ignition point for this national discussion. Video: Domidolo Domidolo YouTube._
+_《한 벌 셔츠》의 인물 인터뷰——황산료가 자신이 한때 갇혀 있던 삶을 남들을 위해 찍어냈다. 영상: 친자천하 유튜브._
 
-But what should be remembered most in this video is not those harsh words, but a metaphor: "Huang Shan-liao is not a very deep well, but a very shallow pond; you can see the bottom in one glance, but you can see yourself reflected in the water surface." [^23]
+하지만 해나가던 중 그는 스스로가 텅 비어버렸다. 2020년 11월 사임하고, 2021년 6월 《한 벌 셔츠》 폐업을 발표했다.[^11] 그가 폐업 이유를 밝힌 건 사업 실패가 아니라, 변해버린 자신이 싫었기 때문이었다: "과중한 책임을 지고 난 뒤, 나는 사람들에게 인내심이 없어졌다. 심지어 그런 황산료가 매우 싫어졌다."[^12] 더 차마 못 할 말이 있었다: "《한 벌 셔츠》는 내가 직접 낳은 아기 같아서, 놓아주기가 정말 아쉽다. 정말 떠나야 할 때다. 더 이상 망설일 수 없고, 떠날 수 없어서 계속 누구도 희생시킬 수 없다."[^13]
 
-This sentence is powerful because it doesn't stop at cursing. It precisely points out Huang Shan-liao's resonance mechanism: His books are mirrors, not wells. Readers see themselves in those short sentences and white spaces.
+나중에 2024년 말레이시아 인터뷰에서 당시의 소외감을 더 날카롭게 말했다: 그는 "창작을 섬기는 게 아니라 광고 회사였다"고 했다.[^14] 이 말은 사후 회고의 반성이지, 2021년 폐업 당시에 한 말이 아니지만, 한 가지 모순을 정확히 짚어낸다: 그는 사람들이 '보여지게' 하기 위해 미디어를 만들었지만, '보여짐'이 비즈니스가 되었을 때, 이 비즈니스가 먹여 살려야 할 것은 창작인가, 아니면 트래픽 자체인가? 그는 몸소 체험으로 주의 경제의 천장을 맞닥뜨렸고, 그 후 물러나기를 선택했다.
 
-Here comes the irony. Domidolo, who scolded Huang Shan-liao to the bottom, and the hundreds of thousands of readers who pushed Huang Shan-liao to the top, are actually describing **the same mechanism**. Those defending him too. On Threads, an author @authorlinyt spoke for him: "Huang Shan-liao's shallow writing is actually very close to the reading market of the past 10 years; just like after short videos and short dramas rose, everyone's reception rhythm for content became thinner and faster." [^25] And Huang Shan-liao himself had long admitted: "What I write can be finished in one glance as you scroll past." [^20]
+## 한 줄 28 자의 베스트셀러학
 
-All three agree on the essence of this matter: Easy to read, like a mirror, designed to be caught by people scrolling phones in an era fighting for attention. Domidolo calls it a "shallow pond," defenders call it "market structure," and Huang Shan-liao himself calls it "finish in one glance." **The three people are describing the same mirror, just with opposite evaluations of it.**
+미디어를 정리한 후, 황산료는 자신에게 목표를 하나 세웠다: 5년 안에 소설 10권을 완성하는 것.[^15]
 
-> **📝 Curator's Note**
-> This is where Huang Shan-liao's case is truly interesting. Those who scold him think "seeing yourself in the water surface" is evidence of shallowness; those who love him think "seeing yourself in the water surface" is precisely the moment of being caught. The two sides seem to be arguing about Huang Shan-liao, but actually they are arguing about a bigger problem: After an island's reading rhythm is rewritten by short videos, does "reflecting yourself" count as a value? Huang Shan-liao is just the person standing exactly in the center of the crack.
+그는 2021년부터 전업 작가로 활동하기 시작했다. 첫 책 《漂流青年》(2019)은 사실 일찍 출간되었으나, 초판 인세는 NT$140,000에 불과했고, 그는 스스로 "바로 그 때문에 '그 회사에서 2년을 더 일하게 됐다'"고 말했다.[^16] 진정한 폭발은 2021년 이후였다: 《好好生活 慢慢相遇》《好好再見 不負遇見》《那女孩對我說》《餘生是你 晚點沒關係》《人間孤獨，卻與你一見如故》《心很小 裝喜歡的事就好》《把日子慢慢變好》《擁有過 就好》. 거의 매년 1~2권씩 출간했고, 모두 삼채문화(三采文化)에서 출판했으며, 모두 부드러운 짧은 문장과 여백이 많은 치유 계열의 산문과 소설이었다.[^15]
 
-Facing this vigilante justice, Huang Shan-liao's response was quiet enough to be刺眼 (eye-piercing). On June 6, he indirectly turned to a sentence from his new book in his IG Stories: "Many times, it's not that you are not good enough, but that the environment you are in was originally not healthy enough." [^26] On the morning of June 7, he issued a formal statement: "I can understand that every reader likes different works and expects different reading experiences. This year is the fifth year of full-time writing; the direction of my effort has always been to let more people who originally didn't read be willing to walk into bookstores, or even flip through a book. I still have a lot of room to improve, and will continue to learn and grow. Thank you all for your suggestions, and once again thank all readers for their support all along." [^27]
+숫자는 놀라웠다. 성품(誠品) 공식 연간 베스트셀러 집계는 다음과 같다: 2021년 《好好生活》이 심리·자기계발 부문 1위, 종합 연간 3위; 2022년, 2023년 2년 연속 성품 종합 연간 베스트셀러 종합 1위(《好好再見》《餘生是你》); 2024년, 2025년 모두 연간 2위, 각각 차이캉융(蔡康永) 《你願意》와 《張忠謀自傳》에게 밀렸다.[^17] 판매량 측면에서, 그는 2023년 여섯 권 누적 30만 부 돌파를 자인했고, 2025년 언론은 이미 40만 부를 넘었다고 보도했다; 《心很小》는 예약 판매 개시 6분 만에 3,000부 판매, 매출 NT$1,000,000 돌파, 초판 3만 부; 《人間孤獨》 초판 3만 부에 친필 사인본 5,000부 추가분까지 전량 매진.[^18][^19]
 
-A person who won a world championship, when given 0 points, said he "will continue to learn."
+![황산료가 사인회에서, 앞쪽 책상에 책 제목이 적힌 새 책들이 수북이 쌓여 있다](/article-images/people/huang-shan-liao-book-signing.webp)
 
-## Three Consecutive Championships, Three Destinies
+_전업 작가로 전향한 후, 황산료는 성품 베스트셀러 단골 작가가 되었다. 사인회 책상 위에 수북이 쌓인 새 책들은 '한 마디 위로'가 전국민적 상품이 되었음을 보여주는 구체적 규모다. Photo: 黃山料 Instagram（@iam_3636）／Bella 儂儂（fair use editorial commentary）。_
 
-To understand why Huang Shan-liao is being scolded, the best method is to put him back into the world he left, and look side by side with those who stayed.
+가장 핵심적인 것은 그가 자신의 일을 어떻게 바라보느냐다. 《거울주간(鏡週刊)》 2025년 전문 인터뷰에서 그는 베스트셀러 방법론을 조금도 숨기지 않고 밝혔다: 「내 경쟁자는 줄곧 다른 작가가 아니라, 더우인(抖音)·페이스북·스레드다.」 「내가 쓴 건, 화면을 스쳐 지나가는 한눈에 다 읽을 수 있다.」 「한 줄 26~28자, 그 이상이면 그들의 눈이 소화하지 못할 수도 있다.」[^20] 《중시부간(中時副刊)》 2023년 인터뷰에서 그는 목표를 더 솔직하게 말했다: 「책을 읽지 않는 사람이 기꺼이 이 책을 끝까지 읽게 만드는 것이 내 목표다」, 그가 원하는 건 사람들이 「마치 운세 책장을 넘기듯, 한 마디 위로가 필요할 때」 찾는 것이다.[^21]
 
-The Department of Fashion Design at Shih Chien University once won the international first prize at the London Graduate Fashion Week for three consecutive years: Angus Chiang in 2013, Huang Shan-liao in 2014, and Zhou Yun-ting in 2015. [^28] Same school, same stage, three completely different paths.
+> **📝 기획자 노트**
+> 누구나 이 방법론을 「그가 자신이 게으름을 인정한다」고 읽기 쉽다. 하지만 두 제품을 나란히 놓고 보면 더 흥미롭다: 왼쪽은 「진먼1969(金門1969)」 그 한 칸, 낡은 신문·탄흔·위장망이 프린트되어 한 섬의 전쟁 기억을 말하는데, 단 한 곳의 언론도 보지 않았다; 오른쪽은 한 줄 26~28자, 여백이 반 페이지를 차지하는 문장들, 30만 부 넘게 팔렸다. 10년 전 「아무도 보도하지 않아」 존재가 부정당했던 사람이, 이제 「어떻게 3초 안에 스마트폰을 스크롤하는 사람의 눈에 잡히게 할까」를 글자 수까지 정밀 계산하는 학문으로 만들었다. 그는 장인 정신을 포기하지 않았다. 그저 그것을 천에서 주의력으로 바꿨을 뿐이다. HR이 그날 가르쳐준 수업, 그는 너무나 잘 배웠다.
 
-Angus Chiang stayed. His 2013 award-winning work "Sailing to the Moon" stitched together Taiwanese temple fair elements with spacesuits (Western reporters even read it as "Mexican spacesuit," a cross-cultural misreading). [^29] Later, he founded his eponymous brand ANGUS CHIANG in 2015, became the first Taiwanese designer to be shortlisted for the LVMH Prize in 2017 (semi-finalist), and appeared at Paris Men's Fashion Week. [^30] He gained respect from the international fashion circle—and niche volume. In the Taiwanese public, people who know Angus Chiang's name are far fewer than those who know Huang Shan-liao's name.
+그는 심지어 솔직하게 자신이 문청(文青) 출신이 아니라고 인정했다: 「예전엔 우밍샤오잔(無名小站)에 일기를 쓰곤 했지만, 책을 읽진 않았다. 2019년 《漂流青年》을 쓰고 나서야 독서 습관을 들였다.」[^22] 이 한 마디는 두 가지 해석이 모두 성립한다: 비평가는 「그러니 글이 얕지」라고 말하고, 동정하는 쪽은 「책을 안 읽던 사람이 독학으로 베스트셀러 1위에 올랐다」고 말한다. 같은 한 마디, 당신이 어느 편에 서느냐에 달렸다.
 
-![Black and white portrait of Angus Chiang (right), and avant-garde menswear from his eponymous brand ANGUS CHIANG (left), with clothing printed with "Fashion Technology" text and fluorescent color blocks.](/article-images/people/angus-chiang-runway-portrait.webp)
+## 얕은 연못, 아니면 한 면의 거울
 
-_Same as Shih Chien University's London three-consecutive-championship winner, Angus Chiang (right) chose to stay in fashion: His eponymous brand ANGUS CHIANG turned Taiwanese temple fairs and betel nut stand visuals into avant-garde menswear on the international runway, becoming the first Taiwanese designer shortlisted for the LVMH Prize in 2017. The international fashion circle recognizes him; the Taiwanese public mostly doesn't. Photo: Marie Claire (fair use editorial commentary)._
+2026년 6월 5일, 유튜버 도미도로가 영상 〈공審 타이완 최고 베스트셀러 작가의 대사기극〉을 올렸다. 하루 만에 60만 조회수를 돌파했고, 사흘 만에 약 70만 회에 달했다.[^23]
 
-Huang Shan-liao left. He switched the stage from the runway to the bookstore bestseller list, gaining national-level commercial volume—and national-level mockery.
+비난의 수위가 높았다. 도미도로는 자신이 "분명 6권을 읽었는데, 체감상으로는 2권뿐이었다"고 말했다. 여백이 너무 많다며 비꼬았다. "당신 책이 유바바한테 만져지기라도 했나? 글자가 반도 안 남았네." 그의 책을 '글자 버전 블루 요정'이라 불렀다. 문학적 전문성으로 "0점밖에 줄 수 없다", "불합격 작가, 만점의 대중 심리 선동가"라는 평가를 내렸다.[^24]
 
-> **📊 Three Consecutive Championships, Three Destinies**
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/hD2Bro3wLng" title="황산료의 책이 역대 최악!? 타이완 최고 베스트셀러 작가의 대사기극 공개 심판!!｜도미도로 Domidolo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_2026년 6월 5일, 유튜버 도미도로의 공개 심판 영상이 하루 만에 60만 조회수를 넘기며 이 전 국민적 논의의 기폭제가 되었다. 영상: 도미도로 Domidolo YouTube._
+
+하지만 이 영상에서 가장 기억해야 할 것은 그 독설들이 아니다. 바로 한 가지 비유다. "황산료는 아주 깊은 우물이 아니다. 아주 얕은 연못이다. 한눈에 바닥이 보인다. 하지만 당신은 수면에 비친 자기 자신을 볼 수 있다."[^23]
+
+이 말이 날카로운 이유는 그것이 욕설에서 멈추지 않았기 때문이다. 그것은 황산료의 공명 메커니즘을 정확히 짚어냈다. 그의 책은 우물이 아니라 거울이다. 독자들은 그 짧은 문장들과 여백 속에서 자기 자신을 비춰본다.
+
+아이러니한 지점은 지금부터다. 황산료를 끝까지 비난하는 도미도로와, 황산료를 1위까지 떠받든 수십만 독자가 실은 **같은 메커니즘**을 묘사하고 있다. 그를 옹호하는 이들도 마찬가지다. 스레드에서 한 작가 @authorlinyt가 그를 대변하며 말했다. "황산료의 평이한 글쓰기가 오히려 지난 10년간의 독서 시장과 잘 맞는다. 쇼츠와 숏폼 드라마가 떠오른 뒤 모두가 콘텐츠를 받아들이는 호흡이 얕아지고 빨라졌듯이."[^25] 그리고 황산료 본인도 일찌감치 인정했다. "내가 쓴 건, 스쳐 지나가듯 한눈에 다 볼 수 있다."[^20]
+
+세 당사자 모두 이 일의 본질에 동의한다. 읽기 쉽고, 거울 같으며, 관심을 빼앗는 시대에 스마트폰을 스크롤하는 사람들에게 붙잡히기 위한 것. 도미도로는 그것을 '얕은 연못'이라 부르고, 옹호자들은 '시장 구조'라 부르며, 황산료 자신은 '한눈에 다 읽힘'이라 부른다. **세 사람이 묘사하는 것은 같은 한 면의 거울일 뿐, 그것을 향한 평가가 정반대일 뿐이다.**
+
+> **📝 큐레이터 노트**
+> 이 황산료라는 사례가 진정으로 흥미로운 지점은 바로 여기다. 그를 비난하는 이들은 '수면에 비친 자신을 본다'는 것이 천박함의 증거라고 생각한다. 그를 사랑하는 이들은 '수면에 비친 자신을 본다'는 것이 바로 자신이 받아들여진 순간이라고 생각한다. 양쪽이 다투는 대상이 황산료인 듯하지만, 실은 더 큰 문제를 놓고 다투는 것이다. 한 섬의 독서 리듬이 쇼츠에 의해 다시 쓰인 뒤, '자기 자신을 비추어 봄'이 과연 하나의 가치로 쳐줄 수 있는가? 황산료는 그저 그 균열의 정중앙에 선 사람일 뿐이다.
+
+이 공개 심판 앞에서 황산료의 반응은 조용해서 오히려 눈부시다. 6월 6일 그는 인스타그램 스토리에 자신의 신간 문장을 간접 인용했다. "많은 경우, 당신이 부족한 게 아니라, 당신이 처한 환경이 애초에 건강하지 않은 것이다."[^26] 6월 7일 오전 그는 공식 성명을 발표했다. "각 독자가 좋아하는 작품이 다르고 기대하는 독서 체험도 다르다는 것을 이해한다. 올해는 전업 작가 5년 차다. 노력의 방향은 줄곧 더 많은 원래 독서를 하지 않던 사람들이 서점에 들어가고, 심지어 책 한 권을 펼치도록 하는 것이었다. 아직 나아갈 부분이 많고, 계속 배우고 계속 성장하겠다. 각계의 조언에 감사드리며, 다시 한번 모든 독자들의 변함없는 지지에 감사드린다."[^27]
+
+세계 챔피언을 거머쥔 사람이, 0점을 맞은 순간 "계속 배우겠다"고 말했다.
+
+## 3연패의 세 가지 운명
+
+황산료가 왜 욕을 먹는지 이해하는 가장 좋은 방법은, 그가 떠난 그 세계로 그를 되돌려놓고, 남아 있는 사람들과 나란히 세워 보는 것이다.
+
+실천대학 복장설계과는 한때 3년 연속 런던 졸업 패션위크에서 국제 1등상을 거머쥐었다: 2013년 강이훈, 2014년 황산료, 2015년 주운정.[^28] 같은 학교, 같은 무대, 완전히 다른 세 갈래 길.
+
+강이훈(Angus Chiang)은 남았다. 그의 2013년 수상작 「Sailing to the Moon(항월)」은 타이완 묘회 요소와 우주복을 꿰맨 것이었다(서양 기자들은 심지어 '멕시코 우주복'으로 읽어냈다. 일종의 문화 간 오독).[^29] 그 후 그는 2015년 동명 브랜드 ANGUS CHIANG을 창립했고, 2017년 LVMH Prize에 입선한 최초의 타이완 디자이너(semi-finalist)가 되어 파리 남성복 패션위크에 올랐다.[^30] 그는 국제 패션계의 존경을 얻었고, 소수의 목소리도 얻었다. 타이완 대중 가운데 강이훈이라는 이름을 아는 사람은, 황산료라는 이름을 아는 사람보다 훨씬 적다.
+
+![강이훈(오른쪽)의 흑백 초상과 그의 동명 브랜드 ANGUS CHIANG의 전위적 남성복(왼쪽), 의상에 '패션 테크' 글자와 형광 색블록이 프린트되어 있다](/article-images/people/angus-chiang-runway-portrait.webp)
+
+_같은 실천대학 런던 3연패 수상자인데, 강이훈(오른쪽)은 패션에 남았다: 동명 브랜드 ANGUS CHIANG이 타이완 묘회, 빈랑 노점의 비주얼을 국제 런웨이 위의 전위적 남성복으로 풀어냈고, 2017년 최초의 LVMH Prize 입선 타이완 디자이너가 됐다. 국제 패션계는 그를 알아보지만, 타이완 대중은 대부분 모른다. Photo: Marie Claire(공정 이용 논평)._
+
+황산료는 떠났다. 그는 무대를 런웨이에서 서점 베스트셀러 순위로 옮겼고, 전국민급 상업적 목소리뿐 아니라 전국민급 조롱도 얻었다.
+
+> **📊 3연패, 세 가지 운명**
 >
-> | Winner              | Year | Work                                                               | Afterward                                                                                                       |
-> | ------------------- | ---- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-> | Angus Chiang        | 2013 | Sailing to the Moon                                                | Stayed in fashion → Shortlisted for LVMH Prize, Paris Men's Fashion Week → International respect + Niche volume |
-> | **Huang Shan-liao** | 2014 | Kinmen 1969                                                        | Left fashion → Did media, became writer → National volume + National mockery                                    |
-> | Zhou Yun-ting       | 2015 | (Single source: Inspired by Simone de Beauvoir's _The Second Sex_) | Relatively low-key                                                                                              |
+> | 수상자     | 연도 | 작품                                                | 이후                                                                            |
+> | ---------- | ---- | --------------------------------------------------- | ------------------------------------------------------------------------------- |
+> | 강이훈     | 2013 | 항월                                                | 패션에 남음 → LVMH Prize 입선, 파리 남성복 패션위크 → 국제적 존경 + 소수 목소리 |
+> | **황산료** | 2014 | 금문1969                                            | 패션을 떠남 → 미디어 활동, 작가 → 전국민 목소리 + 전국민 조롱                   |
+> | 주운정     | 2015 | (단일 출처: 시몬 드 보부아르 《제2의 성》에서 영감) | 상대적으로 저조함                                                               |
 >
-> Same school (Shih Chien), same stage (London GFW), opposite destinies. [^28][^30]
+> 같은 학교(실천대학), 같은 무대(런던 GFW), 정반대의 운명.[^28][^30]
 
-This table lays open, rather than just the personality differences of three people, more like a Taiwan exam question: **Does this island reward "doing things well" or "being seen by many people"?** Angus Chiang did things to an international standard; the Taiwanese public doesn't really recognize him. Huang Shan-liao made himself seen by the most people; the Taiwanese public scolds him every day. One is neglected, one is trampled. Those who do things well get no applause; those seen by many are treated as a joke. The two classmates who reached the extreme of both paths just demonstrated for Taiwan: Two paths, maybe neither has applause.
+이 표가 펼쳐 보이는 것은, 세 사람의 성격 차이라기보다 타이완의 한 시험문제 같다: **이 섬은 결국 '것을 잘 만드는 것'에 보상하는가, 아니면 '많은 사람에게 보이는 것'에 보상하는가?** 강이훈은 것을 국제적 수준까지 만들었지만, 타이완 대중은 그를 잘 모른다. 황산료는 자신을 가장 많은 사람에게 보이게 했지만, 타이완 대중은 날마다 그를 욕한다. 하나는 외면당하고, 하나는 짓밟힌다. 것을 잘 만든 이는 박수받지 못하고, 많은 사람에게 보인 이는 웃음거리가 된다. 두 길을 모두 극단까지 간 이 동창생 쌍은, 마침 타이완을 위해 시범을 보였다: 두 길 모두, 박수는 없을지 모른다고.
 
-## Beyond Chicken Soup: The Controversies That Must Be Honestly Recorded
+## 치킨 수프 너머: 반드시 솔직히 기록해야 할 논란들
 
-Treating Huang Shan-liao as a simple victim is another form of laziness. His controversies are not just "low literary evaluation"; there are several points that must be honestly laid open.
+**월급 NT$250,000 표절 논란(2020년 10월).** 그가 쓴 〈월급 NT$250,000과 NT$30,000인 사람의 고민은 같다〉라는 글이 8월의 한 PTT 게시물과 6군데가 똑같다는 지적을 받았다(「한 번 Uber Eats 주문에 NT$500」, 「외출할 때 택시 탑승」, 「감자튀김 라지 사이즈 시켜서 반만 먹기」 등).[^31] 그의 반박은: 「나는 표절하지 않았다!」 「그건 『인용』이다」, 그리고 「아마 내가 충분히 명확히 쓰지 못했나 보다, 이건 내 문제다, 내가 멍청하다」, 「그래도 상처받는다, 난 쇠로 만든 게 아니니까」.[^32] 인플루언서 천이(陳沂)는 글 속 월수입 NT$250,000인 「이웃」이 애초에 허구라고 의심했다. 그는 「10년간의 분투는 인터넷에서 짜깁기한 자료로 뒤집을 수 없다」고 답했다.[^33] 이 논란은 지금까지 결론 나지 않았지만, 「인용」과 「표절」의 경계가 모호해진 것이 그에 대한 신뢰에 금이 가기 시작한 계기 중 하나다.
 
-**Monthly Salary 250k NTD Plagiarism Incident (October 2020).** His article _The Worries of People Earning 250k and 30k NTD a Month_ were pointed out to have 6 similarities with an August PTT post ("ordering 500 NTD worth of Uber Eats at once," "taking a taxi out," "fries extra large, eating half," etc.). [^31] His rebuttal was: "I didn't plagiarize!" "That is 'quoting'," and added "Maybe I didn't write clearly enough, that's my problem, I'm stupid," and "Still gets hurt, I'm not made of iron." [^32] Internet celebrity Chen Yi questioned that the "neighbor" earning 250k a month in the article was fictional. He responded: "The struggle of the past ten years cannot be overturned by data pieced together on the internet." [^33] This controversy has no conclusion yet, but the blurring line between "quoting" and "plagiarism" is one of the starting points of his trust crack.
+**가정폭력 발언 논란(2024년 6월, 말레이시아).** 이 건은 각별히 신중하게 다뤄야 한다. 인터넷에 퍼진 편집된 영상 클립에서 그의 말이 「어떤 사람이 계속 너에게 가정폭력을 휘두르는데, 네가 매번 그 폭력을 막아낼 수 있다면, 그 사람이 바로 너에게 맞는 상대다」로 들렸다.[^34] 여론이 들끓자 그는 공개 사과하며 단어 하나하나 밝혔다: 「가정폭력에 대해 나는 100% 반대하며, 누구도 관계에서 폭력으로 문제를 해결하는 것을 지지하지 않는다. 내 표현 능력이 부족하고 의미 전달이 불완전했다. 가정폭력은 잘못된 것이며, 이것이 내가 고수하는 입장이다.」 그는 또한 해당 클립이 편집됐다고 주장했다.[^35]
 
-**Domestic Violence Speech Incident (June 2024, Malaysia).** This point must be handled with extra care. In the edited clips circulating online, his words were heard as: "If a person always beats you up at home, then you can always block his domestic violence; he is the one suitable for you." [^34] After the public outcry, he apologized publicly, word for word: "Regarding domestic violence, I am 100% opposed; I do not support anyone in a relationship using violence to solve problems; my expression ability is poor, the meaning is incomplete; domestic violence is wrong, this is my persistent stance." He also stated that the clip was edited. [^35]
+이 일을 그의 사과만 기록하는 것으로 균형을 맞췄다고 해서는 안 된다. 전문가의 입장도 동등하게 명확히 여기에 실어야 한다: 상담심리사협회의 란이펑(藍挹丰)은 「폭력은 절대 용인할 수 없으며, 합리화되어서도 안 된다」고 말했고, 위생복리부 보호서비스사 사장 장슈쉬엔(張秀鴛)은 「폭력은 절대 문제 해결의 수단이 아니다」라고 말했다.[^36] 비평가들은 더 깊은 문제를 지적하기도 했는데, 핵심평론망(關鍵評論網) 기사 제목은 〈황산료(黃山料) 「가정폭력 옹호론」 논란: 표현 능력에 큰 문제가 있는데 베스트셀러 작가가 됐다, 우리 모두가 한몫했다〉였다.[^37] 그 말이 편집됐든 아니든, 「가정폭력을 견딜 수 있는가」를 「함께하기 적합한가」라는 문장 안에 넣은 것 자체가 위험하다. 폭력은 타협할 수 없으며, 이 점은 누구의 사과나 해명으로도 희석되어서는 안 된다.
 
-This matter cannot be balanced just by recording his apology. The expert's stance must be placed here equally clearly: Lan Yi-feng from the Counseling Psychologists Association said "violence absolutely cannot be tolerated, nor should it be rationalized"; Chang Hsiu-yuan, Director of the Protection Services Department of the Ministry of Health and Welfare, said "violence is absolutely not a way to solve problems." [^36] Commentators also pointed out deeper problems—The News Lens article's title was _Huang Shan-liao "Supports Domestic Violence" Controversy: Expression Ability Has Big Problems Yet Becomes a Bestselling Author, You and I Both Pushed Him_. [^37] Regardless of whether that sentence was edited, putting "whether one can block domestic violence" into a sentence about "whether one is suitable to be together" is itself dangerous. Violence allows no compromise; this point should not be diluted by anyone's apology or explanation.
+다른 논란들도 연이어 있다: 2021년 3월 그가 「진정으로 우울증이 바닥까지 간 사람은 자신이 우울하다고 말하지 않는다, 그들은 세상에서 바로 사라진다」고 말해 가짜 긍정 에너지라는 비판을 받았다;[^38] 2023년 8월 그의 치킨 수프 글이 타이완대학(台大) 캠퍼스 게시판에 붙었다가 6시간도 안 돼 철거되자, 네티즌들이 「겨우 6시간 만에 소재 떨어졌네」라고 비아냥거렸다.[^39] 하지만 그를 옹호하는 목소리도 있다: 2022년 유튜버 구아지(呱吉)가 그의 책이 「사회에 전혀 도움이 안 된다」고 비판하자, 그는 오히려 관대하게 「다양한 생각은 중요하다」고 답했다.[^40] 작가 우단루(吳淡如)도 그를 두둔했다: 「네 책을 보고 싫어한다는 건, 네 책을 싫어하는 사람도 네 책을 봤다는 뜻이니 기뻐해야지.」[^40]
 
-Other controversies include a string: In March 2021, he said "People who are truly depressed to the bottom won't say they are depressed; they will directly disappear from the world," criticized as fake positive energy; [^38] In August 2023, his chicken soup text was posted on the NTU campus bulletin board, taken down in less than 6 hours, netizens sarcastically said "only 6 hours, no substance left." [^39] But some also spoke fairly for him—In 2022, YouTuber Gua Ji criticized his books as "useless to society"; he responded magnanimously: "Diverse thoughts are important." [^40] Writer Wu Dan-ru softened the blow for him: Seeing your book but not liking it means even those who don't like your book saw your book; they should be happy. [^40]
+> **⚠️ 반드시 해명해야 할 사실**
+> **2026년 3월 「일상풍경유한공사(日常風景有限公司)」 횡령 사건이 있었는데, 황산료(黃山料)는 **피해자**이지 피고인이 아니다. 그의 회사 주주 추치첸(邱致謙)이 영수증 위조와 NT$5,740,000 횡령 혐의로 기소됐다.[^41] 공판 기간 중 인터넷에서 이 일을 그와 뒤섞어 말하는 이들이 있었는데, 여기서는 분명히 해둔다: 이 사건에서 횡령당한 사람은 그다.**
 
-> **⚠️ A Matter That Must Be Clarified**
-> In March 2026, there was a "Daily Scenery Co., Ltd." embezzlement case; Huang Shan-liao was the **victim**, not the defendant. His company's shareholder Chiu Chih-chien was prosecuted for forging documents and embezzling 5.74 million NTD. [^41] During the vigilante justice period, some people on the internet mixed this up with him; here it must be made clear: In this case, the person who was embezzled from is him.
+## 나는 사실 이미 완전히 검게 변해버린 사람들을 부러워한다
 
-## I Actually Envy Those Who Are Already Completely Blackened
+스레드에서 광적으로 공유되던 그 옛날 포스터로 돌아가 보자.
 
-Back to that old poster going viral on Threads.
+2014년 '진먼 1969'를 입고 런던 런웨이를 걸었던 청년과, 2026년 이번 주 60만 명에게 '내용이 없다'며 조롱당하던 베스트셀러 작가는 동일 인물이다. 진먼의 작은 먹거리 가게에서, 런던의 런웨이에서, 청핀(誠品) 베스트셀러 1위에서, 한 편의 공심(公審) 영상 댓글 창의 밈에 이르기까지, 이 모든 것은 줄곧 단 한 가지를 바라는 선으로 이어진다: **보여지는 것.** 그는 천으로 고향의 전쟁을 말했고, 렌즈로 무명인들을 등장시켰으며, 한 줄 28자 짧은 문장으로 스마트폰을 스크롤하는 사람들을 받아냈다. 매체는 계속 바뀌었지만, HR의 '보도 자료를 찾을 수 없다'는 그 한마디에서 싹튼 갈망은 결코 변하지 않았다.
 
-The young man who walked the London runway in 2014 wearing "Kinmen 1969," and the bestselling author being mocked by 600,000 people this week for having "no substance," are the same person. From Kinmen's snack shop, to London's runway, to Eslite's top spot, to a meme under a vigilante video—this is a line that always only wanted to do one thing: **Be seen.** He spoke of his hometown's war with fabric, let the nameless appear with lenses, caught people scrolling phones with short sentences of 28 characters per line. The carrier kept changing, but that desire growing from HR's sentence "can't find reports" never changed.
+그는 타이완이 직접 길러낸 학생이다. 타이완은 그에게 세상은 능력이 아니라 말재주로 겨루는 곳이라고 가르쳤고, 그는 그것을 믿었으며, 말재주를 전국 1등까지 갈고닦았는데, 타이완은 고개를 돌려 그가 진짜 실력이 없다고 비웃었다. 그는 이 수업의 가장 완전한 산증인이다.
 
-He is a student personally taught by Taiwan. Taiwan told him that this world compares not ability, but the skill of speaking—he believed it, practiced the skill of speaking to the national first place—and then Taiwan turned around and mocked him for having no real ability. He is the most complete living proof of this lesson.
+거울주간(鏡週刊) 2025년 인터뷰에서 그는 한 마디를 남겼는데, 지금 읽어보면 예언처럼 들린다. 그는 말했다: 「나는 사실 이미 완전히 검게 변해버린 공인들을 부러워한다. 왜냐하면 완전히 검게 변해버린 사람들은 아무도 그들을 납치할 수 없기 때문이다. 완전히 검은 사람을 보라, 더 많은 더러운 물을 끼얹어도 그는 여전히 검다.」[^42]
 
-In a 2025 Mirror Media interview, he said a sentence that now reads like a prophecy. He said: "I actually envy those public figures who are already completely blackened, because those completely blackened people, no one can kidnap them. Because look at a completely black person; even if you splash more dirty water on him, he is still black." [^42]
+세계 챔피언을 거머쥔 사람이, 이미 완전히 검게 변해버려 더 이상 누구의 시선도 신경 쓰지 않아도 되는 사람들을 부러워한다. 베스트셀러를 한 줄 28자까지 갈고닦은 사람, 그의 가장 깊은 갈망은 다름 아닌 보이지 않을 자유였다.
 
-A person who won a world championship, envies those who are already completely blackened, no longer needing to care about anyone's eyes. A person who practiced bestsellers to one line of 28 characters, his deepest desire is originally the freedom of not being seen.
-
-That cabinet of "Kinmen 1969" no one looked at, so it disappeared; that one sentence "one-line comfort" everyone bought, so he became a national meme. So next time you want to mock "that substanceless chicken soup writer," maybe first look at the water surface of that pond—ask yourself, the line you think is shallow, reflects his shallowness, or an island that only claps for "reading in a glance" and won't clap for "making things"? Those who scold him, those who forward him, those who defend him, are reflecting the same mirror.
+그 한 벌 '진먼 1969'는 아무도 보지 않아 사라졌고, 그 한 마디 '한 마디의 위로'는 모두가 사서 그는 전 국민의 밈이 되었다. 그러니 다음에 '그 내용 없는 닭고기 수프 작가'를 비웃고 싶어질 때, 어쩌면 먼저 그 연못 수면에 자신을 비춰보며 물어보라. 당신이 얕다고 여기는 그 문장이 비추는 것은 그의 얕음인가, 아니면 '한눈에 다 읽을 수 있는 것'엔 박수 치면서 '만들어낸 것'엔 박수 치지 않는 섬인가? 그를 욕하는 사람, 그를 공유하는 사람, 그를 옹호하는 사람, 이들이 비추는 것은 본래 같은 한 면의 거울이다.
 
 ---
 
-**Further Reading**:
+**더 읽어보기**:
 
-- [Wu Bao-chun](/ko/people/wu-bao-chun) — Another Taiwanese craftsman who won a world championship; the difference is his craftsmanship was seen
-- [Chang Chen-cheng](/ko/people/andre-chiang-taiwanese-culinary-innovator) — Established coordinates for Taiwanese chefs on the international stage, another destiny on the path of "doing things well"
-- [Chang Chih-chi](/ko/people/shasha77-chang-chih-chi) — Another "information curator" who similarly made complexity readable, seeking resonance in the attention era
-- [Jimmy Liao](/ko/people/jimmy-liao) — From an advertising company background, turned into an internationally bestselling healing creator, another way of being seen
-- [Tang Feng](/ko/people/audrey-tang) — How Taiwan treats a person difficult to classify, another mirror
+- [우바오춘](/ko/people/wu-bao-chun) — 세계 챔피언을 거머쥔 또 다른 타이완 장인, 차이는 그의 장인이 보여졌다는 점이다
+- [장전청](/ko/people/andre-chiang-taiwanese-culinary-innovator) — 국제 무대에서 타이완 요리사의 좌표를 세운 사람, '제대로 만드는 것'이라는 길의 또 다른 운명
+- [장즈치](/ko/people/shasha77-chang-chih-chi) — 마찬가지로 복잡함을 읽기 쉽게 만들고, 주의력 시대에 공명을 찾는 '정보 큐레이터'
+- [지미](/ko/people/jimmy-liao) — 광고 회사 출신, 전업해 국제적 베스트셀러 치유계 크리에이터가 된 사람, 또 다른 방식의 보여짐
+- [탕펑](/ko/people/audrey-tang) — 타이완이 분류하기 어려운 한 사람을 어떻게 대했는가, 또 다른 거울
 
-## Image Sources
+## 이미지 출처
 
-All images in this article are fair use editorial commentary, cached locally, for reporting and commentary only:
+본문 이미지는 모두 공정 이용 편집 논평(평론성 공정 이용)에 해당하며, 로컬에 캐시되어 보도 및 논평용으로만 제공됩니다:
 
-- Hero portrait: Mirror Media _Mirror Big Shot_ interview (2025)
-- "Kinmen 1969" backstage photo: Kinmen Daily News
-- Book signing photo: Huang Shan-liao Instagram (@iam_3636) / Bella Nongnong
-- Angus Chiang works and portrait: Marie Claire
-- Videos: Parent-Child World, Domidolo Domidolo official YouTube embed
+- 메인 인물 사진: 거울주간 《거울 대가(鏡大咖)》 인터뷰 (2025)
+- '진먼 1969' 백스테이지 단체 사진: 진먼일보(金門日報)
+- 사인회 사진: 황산료(黃山料) 인스타그램(@iam_3636) / 벨라 농농(儂儂)
+- 장이쉰(江奕勳) 작품 및 초상: 마리끌레르(Marie Claire)
+- 영상: 친자천하(親子天下), 도미도로(Domidolo) 공식 유튜브 임베드
 
-## References
+## 참고 자료
 
-[^1]: [Graduate Fashion Week — Wikipedia](https://en.wikipedia.org/wiki/Graduate_Fashion_Week) — A graduate fashion week founded in the UK in 1991; the first gold award winner was Christopher Bailey; alumni include Stella McCartney; Chinese media often calls its international first prize a "world champion."
+[^1]: [Graduate Fashion Week — 위키피디아](https://en.wikipedia.org/wiki/Graduate_Fashion_Week) — 1991년 영국에서 창설된 졸업생 패션 위크로, 첫 금상 수상자는 크리스토퍼 베일리이며 동문으로는 스텔라 매카트니가 있다. 중국어권 매체에서는 이 대회 국제 1등상을 흔히 '세계 챔피언'이라 부른다.
 
-[^2]: [Kinmen Daily News: Huang Shan-liao Design Philosophy and Name Origin](https://www.kmdn.gov.tw/1117/1271/1272/240255/) — A first-hand local report, recording the verbatim design philosophy of the six "Kinmen 1969" outfits, the meaning of his father naming him "uncarved jade raw material," and original quotes like "Memory is gentle, history is resolute" and "Each work is a personality."
+[^2]: [금문일보: 황산료 디자인 이념과 이름 유래](https://www.kmdn.gov.tw/1117/1271/1272/240255/) — 일선 현지 보도로, '진먼 1969' 여섯 벌 의상의 디자인 이념을 단어 그대로 수록하고, 아버지가 '가공되지 않은 옥 원석'이라는 이름으로 지은 의미, 그리고 '기억은 부드럽고, 역사는 굳세다', '각 작품마다 하나의 개성이다' 등의 원문을 담고 있다.
 
-[^3]: [HeavenRaven: Huang Shan-liao and One Shirt Interview (2019)](https://www.heavenraven.com/2019/05/16/online-media-the-shirts-tv-founder-interview/) — In-depth interview, recording verbatim quotes on industry difficulties: "My ambition was never in fashion design," "off-island recommendation," "those things have no commercial value in Taiwan," "even those who won awards and returned are already struggling so much."
+[^3]: [HeavenRaven: 황산료와 한 벌 셔츠 인터뷰 (2019)](https://www.heavenraven.com/2019/05/16/online-media-the-shirts-tv-founder-interview/) — 심층 인터뷰로, '내 포부는 애초에 패션 디자인이 아니다', '도서 보송', '그것들은 대만에서 전혀 상업적 가치가 없다', '이미 상을 받고 돌아온 사람들도 이토록 힘들다' 등 산업의 어려움을 단어 그대로 수록했다.
 
-[^4]: [Split Island Girl: Kinmen 1969 Detailed Description](https://jjsofina.pixnet.net/blog/post/106990874) — A blog detailedly recording the elements of the six "Kinmen 1969" outfits: military totems, bullet holes, military boots, images from _Kinmen Daily News_ and _Zhengqi Zhonghua News_, tassel camouflage nets, faux-aged fabric digital prints.
+[^4]: [열도 소녀: 진먼 1969 상세 설명](https://jjsofina.pixnet.net/blog/post/106990874) — 블로그에서 '진먼 1969' 여섯 벌 의상의 요소를 상세히 기록: 군사 도안, 탄흔, 군화, '금문일보'와 '정기중화보' 이미지, 술 달린 위장망, 빈티지 원단 디지털 프린트.
 
-[^5]: [ETtoday: _Drifting Youth_ Excerpt · Feelings of Winning the Award](https://www.ettoday.net/dalemon/post/41002) — Recording the verbatim paragraph from Huang Shan-liao's book describing his feelings at the moment of winning the award: "It turns out that winning a world championship is not as moving as imagined... only confusion and fear about the future."
+[^5]: [ETtoday: '표류 청년' 발췌·수상 소감](https://www.ettoday.net/dalemon/post/41002) — 황산료의 책에서 수상 당시 심경을 묘사한 문단을 단어 그대로 수록: '막상 세계 챔피언을 얻으니, 상상했던 것만큼 감동적이지 않다…… 그저 미래에 대한 막막함과 두려움뿐이다.'
 
-[^6]: [Business Weekly: Huang Shan-liao London Award Book Excerpt](https://www.businessweekly.com.tw/careers/blog/24681) — Book excerpt, recording award presenter Franca Sozzani saying in his ear "You are a very talented designer; I look forward to you coming to work in Europe," and the process of borrowing 100,000 NTD to buy a ticket to London (single source, marked "according to descriptions in his book").
+[^6]: [비즈니스 위클리: 황산료 런던 수상 발췌](https://www.businessweekly.com.tw/careers/blog/24681) — 발췌문으로, 시상자 프란카 소차니가 그의 귀에 '당신은 매우 재능 있는 디자이너이며, 유럽에서 일하길 기대한다'고 말한 내용과, 10만 대만 달러를 빌려 비행기 표를 사 런던으로 간 과정을 기록함 (단일 출처, '그의 책에 따르면'이라고 표기).
 
-[^7]: [Storm Media: Huang Shan-liao's "Fake World Champion" Wound](https://www.storm.mg/lifestyle/1052877) — Recording sending over 100 resumes with zero interviews, HR supervisor "searched online and couldn't find reports so suspected resume was fake" verbatim, and the realization quotes "this world doesn't compare who has ability, but who has the ability to speak" and "making up for the past lack of being seen."
+[^7]: [풍전매체: 황산료 '가짜 세계 챔피언' 상처](https://www.storm.mg/lifestyle/1052877) — 구직 시 100통 넘게 지원해도 면접 0회, 인사 담당자가 '인터넷에서 기사를 찾을 수 없어 이력서 조작을 의심한다'고 말한 내용 단어 그대로, 그리고 '이 세상은 누가 능력이 있는지가 아니라 누가 말할 능력이 있는지를 겨루는 곳이다', '과거 보이지 않았던 아쉬움을 보충하다'라는 깨달음의 원문을 수록.
 
-[^8]: [Kinmen Daily News: Drifting Youth × One Shirt Interview](https://www.kmdn.gov.tw/1117/1271/1274/302482) — First-hand report, recording verbatim quotes: "My strength unexpectedly had to rely on media endorsement to be recognized" and "I fell in this place, so I stood up from where I fell."
+[^8]: [금문일보: 표류 청년 × 한 벌 셔츠 인터뷰](https://www.kmdn.gov.tw/1117/1271/1274/302482) — 일선 보도로, '내 실력이 언론의 보증을 받아야만 인정받다니', '내가 이곳에서 넘어졌기에, 넘어진 그곳에서 다시 일어선다'는 말을 단어 그대로 수록.
 
-[^9]: [Beautimode: Taiwan Fashion Industry Affiliation and Designer Situation](https://www.beautimode.com/article/content/84926) — Industry analysis, pointing out that the UK and France classify the fashion industry under the Ministry of Culture; Taiwan still classifies it under the Ministry of Economic Affairs, an OEM mindset, and the starting salary and promotion structure for Taiwanese fashion designers.
+[^9]: [뷰티모드: 대만 패션 산업 귀속과 디자이너 처지](https://www.beautimode.com/article/content/84926) — 산업 분석으로, 영불 패션 산업이 문화부 소관인 반면 대만은 여전히 경제부 관할인 하청 사고방식, 그리고 대만 의상 디자이너의 초봉과 승진 구조를 지적.
 
-[^10]: [CM Media: Huang Shan-liao Took Out a 2 Million Loan at Age 25 to Start a Business](https://www.cmmedia.com.tw/home/articles/19666) — Reporting Huang Shan-liao taking out a 2 million loan at age 25, quitting his design job that lasted only 11 months, and founding _One Shirt_ in 2017.
+[^10]: [신전매체: 황산료 25세 200만 대출 창업](https://www.cmmedia.com.tw/home/articles/19666) — 황산료가 25세에 200만 대만 달러를 대출받고, 11개월만 일한 디자인 일을 그만두고, 2017년 '한 벌 셔츠'를 창업한 과정을 보도.
 
-[^11]: [Bella Nongnong: _One Shirt_ Closing](https://www.bella.tw/articles/celebrities/30156) — Reporting _One Shirt_ did 161 character interviews in one year, YouTube cumulative views of about 13.38 million, peak team size of about 20 people; stepped down in November 2020 and closed in June 2021; recording the verbatim quote of "the baby I gave birth to personally" regarding closing.
+[^11]: [벨라 농농: '한 벌 셔츠' 폐업](https://www.bella.tw/articles/celebrities/30156) — '한 벌 셔츠'가 1년간 161건의 인물 인터뷰, 유튜브 누적 약 1,338만 조회, 팀 최대 약 20명, 2020년 11월 사임과 2021년 6월 폐업했음을 보도하며, '직접 낳은 내 새끼'라는 폐업 원문을 수록.
 
-[^12]: [TTshow: Huang Shan-liao Announces Closing Verbatim](https://www.ttshow.tw/article/81143) — Recording Huang Shan-liao's reason for closing _One Shirt_ verbatim: "After taking on too heavy a responsibility, I became impatient with people, in fact I very much hated that Huang Shan-liao."
+[^12]: [TTshow: 황산료 폐업 발표 원문](https://www.ttshow.tw/article/81143) — 황산료가 '한 벌 셔츠'를 접은 이유를 단어 그대로 수록: '과중한 책임을 짊어진 후, 나는 사람들에게 인내심이 없어졌고, 심지어 그런 나 자신이 매우 싫어졌다.'
 
-[^13]: [Bella Nongnong: _One Shirt_ Closing (Closing Statement)](https://www.bella.tw/articles/celebrities/30156) — Recording Huang Shan-liao's closing statement verbatim: "One Shirt is the baby I gave birth to personally; letting go is very reluctant... can no longer continue to sacrifice anyone because I am reluctant to leave."
+[^13]: [벨라 농농: '한 벌 셔츠' 폐업 (폐업 성명)](https://www.bella.tw/articles/celebrities/30156) — 황산료의 폐업 성명 원문 수록: '한 벌 셔츠는 내가 직접 낳은 내 새끼라, 놓아주기가 매우 아쉽다…… 차마 떠나지 못해서 계속 누구도 희생시킬 수 없다.'
 
-[^14]: [Sin Chew Daily: Huang Shan-liao Malaysia Interview (2024)](https://www.sinchew.com.my/news/20240617/) — Malaysian media 2024 interview, recording Huang Shan-liao's retrospective reflection "was not serving creation, but an advertising company" verbatim (post-talk, must mark 2024).
+[^14]: [성주망: 황산료 말레이시아 인터뷰 (2024)](https://www.sinchew.com.my/news/20240617/) — 말레이시아 매체 2024년 인터뷰로, 황산료가 뒤늦게 반성한 '창작을 서비스하는 것이 아니라 광고 회사였다'는 말을 단어 그대로 수록 (후기, 2024년임을 표기해야 함).
 
-[^15]: [Sun Color Publishing: Huang Shan-liao Author Page and Bibliography](https://www.suncolor.com.tw/Article.aspx?id=1391) — Publisher official page, recording Huang Shan-liao's annual works bibliography (all published by Sun Color Publishing) and _The Heart is Small_ pre-sales sales numbers.
+[^15]: [삼채문화: 황산료 작가 페이지와 서지](https://www.suncolor.com.tw/Article.aspx?id=1391) — 출판사 공식 페이지로, 황산료의 역대 저서 목록(모두 삼채문화 출판) 및 '마음이 작다' 예약 판매 수치를 수록.
 
-[^16]: [Mirror Media: Huang Shan-liao One-Shot (2023)](https://www.mirrormedia.mg/story/20230914pol005) — In-depth character report, recording _Drifting Youth_ first edition royalty was only 140,000 NTD "so I continued to stay at that company for another 2 years" and "gave myself 5 years to complete 10 novels" verbatim.
+[^16]: [거울주간: 황산료 일경도저(2023)](https://www.mirrormedia.mg/story/20230914pol005) — 심층 인물 보도, 《표류 청년》 초판 인세 불과 14만 「그래서 그 회사에서 2년 더 일하게 됐다」 및 「자신에게 5년을 주어 10편의 소설을 완성하겠다」 전문 수록.
 
-[^17]: [Digital Times: 2022 Eslite Annual Top Ten Bestseller List](https://www.bnext.com.tw/article/72611) — Reporting the 2022 Eslite Annual Bestseller List, Huang Shan-liao's _Say Goodbye Well, Don't Fail the Encounter_ took the non-category annual bestseller champion TOP 1. (2023 _The Rest of Your Life_ won the non-category annual champion again; 2024 and 2025 were 2nd overall, losing to Kevin Tsai's _You Will_ and _Chang Chu-en's Autobiography_ respectively, verified by Eslite's annual official lists.)
+[^17]: [디지털 시대: 2022 성품 연간 10대 베스트셀러 순위](https://www.bnext.com.tw/article/72611) — 2022 성품 연간 베스트셀러 순위 보도, 황산료 《좋은 이별, 만남을 저버리지 않다》가 비분류 연간 베스트셀러 1위 차지. (2023 《여생은 너》 다시 비분류 연간 1위, 2024와 2025는 연간 2위, 각각 차이캉융 《당신은 원하십니까》와 《장중모우 자서전》에 밀림, 성품 역대 공식 연간 순위 확인 기준.)
 
-[^18]: [Mirror Big Shot: Huang Shan-liao Interview · Self-Reported Sales (2025)](https://www.mirrormedia.mg/story/20250724star001) — Recording Huang Shan-liao stating that six books cumulatively exceeded 300,000 copies (2023); media called it over 400,000 copies in 2025.
+[^18]: [거울 대가: 황산료 전문 인터뷰·판매량 자술(2025)](https://www.mirrormedia.mg/story/20250724star001) — 황산료가 자술한 여섯 권 책 누적 30만 부 초과(2023), 2025년 언론 보도 40만 부 초과 판매량 수치 수록.
 
-[^19]: [Langlang Yuedu: _Lonely in the Human World_ First Print Data](https://reading.udn.com/read/story/122857/7229112) — Reporting _Lonely in the Human World, Yet Like Old Friends at First Sight_ first print run of 30,000 copies plus 5,000 signed copies sold out completely; _The Heart is Small_ pre-sales 6 minutes sold 3,000 copies, broke 1 million in revenue.
+[^19]: [낭낭열독: 《인간고독》 초쇄 데이터](https://reading.udn.com/read/story/122857/7229112) — 《인간고독, 그대와 일견여고》 초쇄 3만 부 + 5,000부 친필 사인 전량 매진, 및 《마음이 작다》 예약구매 6분 만에 3,000부 판매, 100만 매출 돌파 보도.
 
-[^20]: [Mirror Big Shot: Huang Shan-liao Interview · Writing Philosophy (2025)](https://www.mirrormedia.mg/story/20250724star001) — Recording Huang Shan-liao's writing methodology verbatim: "My opponents are not other authors, but TikTok, Facebook, Threads," "can be finished in one glance as you scroll past," "one line of 26 to 28 characters."
+[^20]: [거울 대가: 황산료 전문 인터뷰·창작 철학(2025)](https://www.mirrormedia.mg/story/20250724star001) — 황산료 창작 방법론 전문 수록: 「내 상대는 다른 작가가 아니라 더우인, 페이스북, 스레드다」, 「한눈에 훑어보는 것만으로도 다 읽을 수 있다」, 「한 줄 26~28자」.
 
-[^21]: [China Times Supplement: Huang Shan-liao Writing Concept (2023)](https://www.chinatimes.com/newspapers/20230811000636-260115) — Recording Huang Shan-liao "how to make people who don't like reading willing to finish this book is my goal," "like flipping through an horoscope book, needing a sentence of comfort" verbatim.
+[^21]: [중시 부간: 황산료 창작 이념(2023)](https://www.chinatimes.com/newspapers/20230811000636-260115) — 황산료 「어떻게 하면 책을 읽지 않는 사람이 이 책을 끝까지 읽게 할지가 내 목표다」, 「운세 책 넘기듯, 한 마디 위로가 필요하다」 전문 수록.
 
-[^22]: [Mirror Media: Huang Shan-liao One-Shot · Reading Habits (2023)](https://www.mirrormedia.mg/story/20230914pol005) — Recording Huang Shan-liao self-reporting "I used to write diaries on MySpace... but I don't read books; I only developed the habit of reading after finishing _Drifting Youth_ in 2019" verbatim.
+[^22]: [거울주간: 황산료 일경도저·독서 습관(2023)](https://www.mirrormedia.mg/story/20230914pol005) — 황산료 자술 「예전에는 무명소站에서 일기 쓰곤 했지…… 하지만 난 책 안 읽어, 2019 《표류 청년》 쓰고 나서야 독서 습관 길렀다」 전문 수록.
 
-[^23]: [NOWnews: Domidolo Vigilante Huang Shan-liao "Shallow Pond" Metaphor](https://www.nownews.com/news/6844123) — Reporting Domidolo's video on June 5, 2026, breaking 600,000 views in one day; recording the core metaphor verbatim "not a very deep well, but a very shallow pond; you can see the bottom in one glance, but you can see yourself reflected in the water surface."
+[^23]: [NOWnews: 도미도로 황산료 '얕은 연못' 비유 공개 심판](https://www.nownews.com/news/6844123) — 2026년 6월 5일 도미도로 영상 하루 만에 60만 조회 돌파 보도, 핵심 비유 「아주 깊은 우물이 아니라 아주 얕은 연못, 한눈에 바닥이 보이지만 물비침 속에서 자신을 볼 수 있다」 전문 수록.
 
-[^24]: [Liberty Times Net: Domidolo Vigilante "Soup Witch" "Blue Enchantress"](https://ent.ltn.com.tw/news/breakingnews/5462371) — Recording Domidolo's criticism verbatim: "clearly read 6 books, but the feeling was only 2," "Has your book been touched by the Soup Witch," "Text Version Blue Enchantress," "can only get 0 points," "an unqualified writer, a master of mass psychological provocation."
+[^24]: [자유시보: 도미도로 공개 심판 '유바바', '블루 요정'](https://ent.ltn.com.tw/news/breakingnews/5462371) — 도미도로 비판 전문 수록: 「분명 6권 읽었는데 체감은 2권뿐이다」, 「네 책 유바바가 만졌니?」, 「글자판 블루 요정」, 「0점밖에 못 받는다」, 「불합격 작가, 만점 대중 심리 선동가」.
 
-[^25]: [Threads @authorlinyt: Defending Huang Shan-liao's Books](https://www.threads.com/@authorlinyt/post/DZP80kTjwiR) — Author @authorlinyt's post, recording "Huang Shan-liao's shallow writing is actually very close to the reading market of the past 10 years... just like after short videos and short dramas rose, everyone's reception rhythm for content became thinner and faster" verbatim defense viewpoint.
+[^25]: [Threads @authorlinyt: 황산료 글쓰기 옹호](https://www.threads.com/@authorlinyt/post/DZP80kTjwiR) — 작가 @authorlinyt 게시글, 「황산료의 얕고 평이한 글쓰기가 오히려 최근 10년 독서 시장과 아주 맞닿아 있다…… 숏폼 영상과 숏폼 드라마가 인기를 끌면서 모두의 콘텐츠 수용 리듬이 얕고 빨라졌다」 전문 옹호 관점 수록.
 
-[^26]: [United Daily News: Huang Shan-liao IG Story Response](https://udn.com/news/story/120912/9550895) — Reporting Huang Shan-liao on June 6 IG Story indirectly turning to his new book sentence "Many times, it's not that you are not good enough, but that the environment you are in was originally not healthy enough" to respond to the vigilante justice.
+[^26]: [연합보: 황산료 IG 스토리 응답](https://udn.com/news/story/120912/9550895) — 황산료가 6월 6일 IG 스토리로 간접적으로 자신의 신작 문구 「많은 경우, 네가 부족한 게 아니라 네가 처한 환경이 애초에 건강하지 못한 것」을 인용해 공개 심판에 응답했다고 보도.
 
-[^27]: [China Times: Huang Shan-liao June 7 Formal Statement Full Text](https://www.chinatimes.com/realtimenews/20260607000852-260404) — Recording Huang Shan-liao's June 7, 2026 formal statement verbatim: "This year is the fifth year of full-time writing... I still have a lot of room to improve, and will continue to learn and grow."
+[^27]: [중시: 황산료 6/7 공식 성명 전문](https://www.chinatimes.com/realtimenews/20260607000852-260404) — 황산료 2026년 6월 7일 공식 성명 전문 수록: 「올해는 전업 작가 5년째…… 나에게는 아직 발전할 여지가 많고, 계속 배우고 계속 성장하겠다」.
 
-[^28]: [United Daily News Online: Shih Chien University London Fashion Week Three Consecutive Awards](https://style.udn.com/style/story/8065/975037) — Reporting Shih Chien University won the international first prize at the London Graduate Fashion Week for three consecutive years in 2013 (Angus Chiang), 2014 (Huang Shan-liao), 2015 (Zhou Yun-ting), and the themes of each work.
+[^28]: [연합신문망: 실천대학 런던 패션위크 3년 연속 수상](https://style.udn.com/style/story/8065/975037) — 실천대학 2013(장예훈), 2014(황산료), 2015(주운정) 3년 연속 런던 졸업전 패션위크 국제 1위 수상 및 각 회차 작품 주제 보도.
 
-[^29]: [plain-me: Angus Chiang Sailing to the Moon](https://blog.plain-me.com/) — Reporting Angus Chiang's 2013 graduation work "Sailing to the Moon" combining Taiwanese temple fair elements with spacesuits won the London Graduate Fashion Week International Designer First Prize.
+[^29]: [plain-me: 장예훈 Sailing to the Moon](https://blog.plain-me.com/) — 장예훈 2013년 졸업 작품 「Sailing to the Moon(항향월구)」가 대만 묘회 요소와 우주복을 결합해 런던 졸업 패션위크 국제 디자이너 1위 수상 보도.
 
-[^30]: [LVMH Prize Official Website](https://www.lvmhprize.com/) — LVMH Prize official page, recording Angus Chiang (Angus Chiang) shortlisted in 2017 as a semi-finalist, the only Taiwanese/Chinese designer selected that year.
+[^30]: [LVMH Prize 공식 웹사이트](https://www.lvmhprize.com/) — LVMH Prize 공식 페이지, 장예훈(Angus Chiang) 2017년 준결승 진출 기록, 해당 연도 유일한 대만/화인 디자이너로 선정.
 
-[^31]: [Mirror Media: Huang Shan-liao Monthly Salary 250k Plagiarism Controversy (2020)](https://www.mirrormedia.mg/story/20201014edi015) — Reporting Huang Shan-liao's _The Worries of People Earning 250k and 30k NTD a Month_ had 6 similarities with an August PTT post (Uber Eats ordering 500 NTD, taking a taxi, fries extra large eating half, etc.).
+[^31]: [거울주간: 황산료 월급 25만 표절 논란 (2020)](https://www.mirrormedia.mg/story/20201014edi015) — 황산료의 〈월급 25만과 3만인 사람의 고민은 같다〉가 8월 PTT 글과 6곳이 유사함(Uber Eats 500원 주문, 택시 탑승, 감자튀김 라지 사이즈 절반만 먹기 등)을 보도.
 
-[^32]: [CTWANT: Huang Shan-liao Responds to Plagiarism "That is Quoting"](https://www.ctwant.com/article/78610) — Recording Huang Shan-liao's clarification verbatim: "I didn't plagiarize!" "That is 'quoting'," "Maybe I didn't write clearly enough, that's my problem, I'm stupid," "Still gets hurt, I'm not made of iron."
+[^32]: [CTWANT: 황산료 표절 대응 '그건 인용'](https://www.ctwant.com/article/78610) — 황산료의 해명 전문 수록: '나는 표절하지 않았다!', '그건 '인용'이다', '아마 내가 충분히 명확히 쓰지 못했나 봐, 이건 내 문제야, 나 바보야', '그래도 상처받아, 난 철로 만든 게 아니니까'.
 
-[^33]: [Mirror Media: Huang Shan-liao "Quoting Not Plagiarism" and Rich Second Generation Accusations (2020)](https://www.mirrormedia.mg/story/20201015edi055) — Reporting Chen Yi questioning the "neighbor" earning 250k a month in the article as fictional, and Huang Shan-liao responding "The struggle of the past ten years cannot be overturned by data pieced together on the internet."
+[^33]: [거울주간: 황산료 '인용이지 표절 아니다' 및 재벌 2세 비난 (2020)](https://www.mirrormedia.mg/story/20201015edi055) — 천이가 글 속 월수입 25만 '이웃'이 허구라고 의심한 것과 황산료가 '10년간의 분투는 인터넷에서 짜깁기한 자료로 뒤집을 수 없다'고 반박한 것을 보도.
 
-[^34]: [Storm Media: Huang Shan-liao Domestic Violence Speech Controversy (2024)](https://www.storm.mg/lifestyle/5174642) — Reporting the 2024 June Malaysia event circulating edited clip "If a person always beats you up at home, then you can always block his domestic violence; he is the one suitable for you" causing public outcry.
+[^34]: [풍전매체: 황산료 가정폭력 발언 논란 (2024)](https://www.storm.mg/lifestyle/5174642) — 2024년 6월 말레이시아 행사에서 유포된 편집 영상 '어떤 사람이 계속 너에게 가정폭력을 가하는데, 네가 항상 그의 가정폭력을 막아낼 수 있다면, 그가 바로 너에게 맞는 상대다'가 논란을 일으킴을 보도.
 
-[^35]: [Thought Tank: Lu Yu-jia Discusses Huang Shan-liao Domestic Violence Speech and Apology](https://voicettank.org/20240708-1/) — Commentary analysis recording Huang Shan-liao's apology statement "Regarding domestic violence, I am 100% opposed... domestic violence is wrong, this is my persistent stance" and its original intent context, and viewing from a gender violence perspective how "toxic chicken soup" normalizes violence.
+[^35]: [사상탱크: 노우가 황산료 가정폭력 발언과 사과 논평](https://voicettank.org/20240708-1/) — 황산료의 사과 성명 '가정폭력에 대해 나는 100% 반대한다…… 가정폭력은 잘못된 것이며, 이것이 내가 고수하는 입장이다'와 그 본래 맥락을 수록하고, 성별 폭력 관점에서 '독한 닭고기 수프(독설적 위로)'가 어떻게 폭력을 정상화하는지 분석한 평론.
 
-[^36]: [CNA: Expert Response to Domestic Violence Speech](https://www.cna.com.tw/news/ahel/202406290161.aspx) — First-hand report, recording Counseling Psychologists Association's Lan Yi-feng "violence absolutely cannot be tolerated nor should it be rationalized," Ministry of Health and Welfare Protection Services Department's Chang Hsiu-yuan "violence is absolutely not a way to solve problems" expert stances.
+[^36]: [중앙사: 가정폭력 발언 전문가 반응](https://www.cna.com.tw/news/ahel/202406290161.aspx) — 단독 보도, 상담심리사협회 란이펑 '폭력은 절대 용인될 수 없으며 합리화되어서도 안 된다', 복지부 보호서비스국 장슈쉬엔 '폭력은 절대 문제 해결의 방법이 아니다' 전문가 입장 수록.
 
-[^37]: [The News Lens: Huang Shan-liao Supports Domestic Violence Controversy Analysis](https://www.thenewslens.com/article/204752) — Systematic criticism article, title _Huang Shan-liao "Supports Domestic Violence" Controversy: Expression Ability Has Big Problems Yet Becomes a Bestselling Author, You and I Both Pushed Him_.
+[^37]: [핵심평론망: 황산료 가정폭력 옹호론 논란 분석](https://www.thenewslens.com/article/204752) — 체계적 비평 기사, 제목 〈황산료 '가정폭력 옹호론' 논란: 표현 능력에 큰 문제가 있는데도 베스트셀러 작가가 되다, 우리 모두 한몫했다〉.
 
-[^38]: [Huang Shan-liao — Wikipedia](https://zh.wikipedia.org/zh-tw/黃山料) — Chinese entry, recording March 2021 depression speech "People who are truly depressed to the bottom won't say they are depressed; they will directly disappear from the world" and various controversy timelines.
+[^38]: [황산료 — 위키백과](https://zh.wikipedia.org/zh-tw/黃山料) — 중국어 항목, 2021년 3월 우울증 발언 '진정으로 우울해 바닥까지 간 사람은 자신이 우울하다고 말하지 않는다, 그들은 세상에서 바로 사라진다' 및 각종 논란 타임라인 기록.
 
-[^39]: [Liberty Times Net: Huang Shan-liao Chicken Soup Text NTU Bulletin Board Taken Down in 6 Hours (2023)](https://ent.ltn.com.tw/news/breakingnews/4398939) — Reporting August 2023 Huang Shan-liao text posted on NTU campus bulletin board "taken down in less than 6 hours," and Wu Dan-ru "means even those who don't like your book saw your book" softening blow.
+[^39]: [자유시보: 황산료 닭고기 수프 글 대만대 게시판 6시간 만에 철거 (2023)](https://ent.ltn.com.tw/news/breakingnews/4398939) — 2023년 8월 황산료 글이 대만대 캠퍼스 게시판에 붙여진 지 '6시간도 안 돼 철거됐다'고 보도, 오담여 '당신 책을 싫어하는 사람들도 당신의 책을 보게 되는 셈'이라며 완화.
 
-[^40]: [Facebook: Huang Shan-liao Responds to Gua Ji Criticism](https://www.facebook.com/shanliaohuang/posts/454409449389948) — Huang Shan-liao Facebook post, responding to Gua Ji's 2022 criticism "useless to society" verbatim "Diverse thoughts are important."
+[^40]: [페이스북: 황산료 구아지 비판 대응](https://www.facebook.com/shanliaohuang/posts/454409449389948) — 황산료 페이스북 게시물, 구아지가 2022년 '사회에 전혀 도움이 안 된다'고 비판한 것에 대해 '다양한 생각은 중요하다'고 전문으로 반박.
 
-[^41]: [ETtoday: Daily Scenery Company Embezzlement Case (2026)](https://www.ettoday.net/news/20260319/3134971) — Reporting Huang Shan-liao's "Daily Scenery Co., Ltd." shareholder Chiu Chih-chien was prosecuted for forging documents and embezzling 5.74 million NTD; Huang Shan-liao is the victim.
+[^41]: [ETtoday: 일상풍경 회사 횡령 사건 (2026)](https://www.ettoday.net/news/20260319/3134971) — 황산료 '일상풍경 유한회사' 주주 구치겸이 허위 영수증 위조, 574만 원 횡령 혐의로 기소됐으며, 황산료가 피해자임을 보도.
 
-[^42]: [Mirror Big Shot: Huang Shan-liao Interview Part 2 · Envying Completely Blackened People (2025)](https://www.mirrormedia.mg/story/20250725star002) — Recording Huang Shan-liao verbatim "I actually envy those public figures who are already completely blackened, because those completely blackened people, no one can kidnap them."
+[^42]: [거울대카: 황산료 인터뷰 part2·완전히 검어진 사람들을 부러워하다 (2025)](https://www.mirrormedia.mg/story/20250725star002) — 황산료 전문 수록: '나는 사실 완전히 검어버린 공인들을 부러워한다, 왜냐하면 완전히 검어버린 그 사람들에게는 아무도 그들을 인질로 삼을 수 없기 때문이다'.
