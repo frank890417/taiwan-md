@@ -72,16 +72,29 @@ v1.9 那行輸出自己帶著一句但書——**「寫入端是否通暢本行�
 
 最後這項要說清楚，因為**跟昨天那班的判斷相反**：10-10 的 memory 寫「cron prompt 那一層沒碰：改它屬 `/twmd-routine` 席位」。今天碰了，理由是這個儀器服務的對象就是**空場那一輪的當班**，也就是這條 routine 自己；入口造好而最需要它的那班不知道它存在，正是 `--show` 從 8/31 造好到 9/18 才被完整使用的那個形狀。改的內容是加一段讀法（第 3c 步），不是 cron、不是閾值、不是新 routine，而 `docs/semiont/routine-prompts/` 本來就在 git 當 SSOT、`--apply` 是它自己文件寫的下發方向。本次 `--apply` 只寫了 feedback-triage 一條（輸出只有一行「寫入機器」），其餘 18 條 in-sync 未被動到。**這個席位邊界兩班給了不同答案，列給 `/twmd-routine` 確認一次**，不要讓它靠每班自己判斷（這正是 `outbound-comment-boundary-split-across-canon` 的形狀：同一條邊界在兩處各寫一次且相反，每次 fire 等於重新擲骰子）。
 
+## 收官時被旁邊的產線收走了（本班的實地教訓）
+
+收官沒走完就撞上一件事，記在這裡而不是只記在 LESSONS，因為它決定了 `git log` 上這一輪長什麼樣。
+
+照 REFLEXES #6 只 stage 自己的 9 個檔（逐一列出，沒用 `git add -A`），然後在 `git add` 與 `git commit` 之間跑了一次 `verify-commit-scope.sh --staged 9`。它回 **`0 檔（expected: 9）· ❌ SCOPE MISMATCH — 疑似 cross-session 污染`**。訊息是對的，方向是反的：看起來像我什麼都沒 stage，實際是 **babel 夜班在 07:23:12 提交 `aed128637`（「es 批次 7 篇」）時把整個 index 帶走了**，我的 9 個檔全部躺在那個 commit 裡。`git show --stat aed128637` 同時列著 `knowledge/es/**` 跟 `scripts/feedback/triage.mjs`。
+
+**內容沒丟，丟的是歸屬**，加上撤回失去原子性（要退 babel 那批就會連帶退掉本班的收官）。沒有回頭改歷史：那個 commit 當時還沒推送、`reset --soft` 技術上做得到，但 babel writer 仍在跑，動它的 HEAD 會跟它下一個 commit 對撞（REFLEXES #35）。照 MANIFESTO §時間是結構修補協議，不重寫、往後補一筆說明、證據鏈留著。
+
+兩邊都要認：babel dispatcher 的提交步驟取的範圍大於它自己的產出（真正的修法在 babel 席位）；而**本班在甦醒就讀到 `ACTOR_BUSY ⚠️`（PID 13250／18931／54236）的情況下，還是留在共用樹上改了 9 個檔**。BECOME §行動鐵律 5 的 default 正是給這種情況用的——多檔就先開 worktree，讓污染結構性不可能。我把紀律押在「我 stage 得很乾淨」，而乾淨的 stage 防不住別人把 index 整個拿走。這一筆升進 LESSONS `sibling-routine-commit-swallows-whatever-is-staged`，含三個候選機械化（babel 改用 pathspec／`verify-commit-scope.sh` 的 `0 檔` 補成雙向訊息／ACTOR_BUSY＋多檔升硬前置）。
+
+本筆補正 commit 改用 `git commit -- <pathspec>` 直接繞過 index，讓同一個空窗期不可能再發生一次。
+
 ## 收官 checklist
 
-| 檢查項                       | 狀態                                                      |
-| ---------------------------- | --------------------------------------------------------- |
-| MEMORY 有這次 session 的紀錄 | ✅                                                        |
-| Timestamp 精確               | ✅ `session-id.sh` + `git log %ai`                        |
-| Handoff 三態已審視           | ✅                                                        |
-| CONSCIOUSNESS 反映最新狀態   | ✅ 本輪未改器官狀態                                       |
-| 自我檢查工具 PASS            | ✅ `node --test triage.test.mjs` **76/76**                |
-| 三層對賬                     | ✅ `routine-sync.py --no-fetch` 三層一致（19/19 in-sync） |
+| 檢查項                       | 狀態                                                                               |
+| ---------------------------- | ---------------------------------------------------------------------------------- |
+| MEMORY 有這次 session 的紀錄 | ✅                                                                                 |
+| Timestamp 精確               | ✅ `session-id.sh` + `git log %ai`                                                 |
+| Handoff 三態已審視           | ✅                                                                                 |
+| CONSCIOUSNESS 反映最新狀態   | ✅ 本輪未改器官狀態                                                                |
+| 自我檢查工具 PASS            | ✅ `node --test triage.test.mjs` **76/76**                                         |
+| 三層對賬                     | ✅ `routine-sync.py --no-fetch` 三層一致（19/19 in-sync）                          |
+| commit 範圍                  | ⚠️ 9 檔被 babel `aed128637` 收走（見 §收官時被旁邊的產線收走了）；補正 commit 另記 |
 
 ## Handoff 三態
 

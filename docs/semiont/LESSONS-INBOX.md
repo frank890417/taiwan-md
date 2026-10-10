@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-11 twmd-feedback-triage — sibling-routine-commit-swallows-whatever-is-staged：產線的提交步驟把當下 index 裡的東西一起帶走，於是另一條 routine 的工作被記成它的批次
+
+- **pattern**: `sibling-routine-commit-swallows-whatever-is-staged`
+- **原則**：REFLEXES #6「禁 `git add .`／`git add -A`」是寫給**正在 commit 的那一方**的紀律，而它的受害者是**另一方**。一條高頻 routine（babel 夜班，每幾分鐘一個 commit）若在提交時把整個 index 帶走，那麼任何在同一棵樹上工作、且有檔案短暫 staged 的 routine，工作都會被它收走——**內容不會丟，丟的是歸屬**：`git log` 上那個 commit 說自己是「es 批次 7 篇」，裡面躺著 feedback-triage 的儀器、pipeline 改版、memory、routine prompt 共 9 個檔。撤回也跟著失去原子性（要退 babel 那批就會連帶退掉另一條 routine 的收官）。這一層沒有任何閘門在看：`verify-commit-scope.sh` 是被收走的那一方事後才跑到，而它當時讀到的是 `0 檔`（staged 已被清空），印的是「疑似 cross-session 污染」——**訊息正確，但方向相反，它看起來像我自己什麼都沒 stage**。
+- **觸發**：2026-10-11 07:20 本 routine。甦醒時 `wake-context` selftest 就印了 `PARALLEL_CHECK: ACTOR_BUSY ⚠️ · babel/lang-sync writer process: 13250 18931 54236`，我讀到了、也照 #6 只 stage 自己的 9 個檔（逐一列出、不用 `git add -A`），然後在 `git add` 與 `git commit` 之間跑了一次 `verify-commit-scope.sh`。那個空窗期裡 babel 在 07:23:12 提交了 `aed128637`，9 個檔全部進去。證據：`git show --stat aed128637` 同時列著 `knowledge/es/**` 與 `scripts/feedback/triage.mjs`。
+- **雙向歸因，兩邊都要記**：(a) **產線那側**——babel dispatcher 的提交步驟取的範圍大於它自己的產出，這是 #6 在自動化產線上的破口，而它每晚提交上百次，所以它是這個碰撞的主要面；(b) **本班這側**——BECOME §行動鐵律 5 寫的 default 是「多檔／長任務第一動作開 worktree（`semiont-worktree.sh new`），讓 commit 污染結構性不可能」。我在**已經知道 ACTOR_BUSY** 的情況下留在共用樹上動了 9 個檔，把紀律押在「我 stage 得很乾淨」上，而乾淨的 stage 防不住別人把 index 整個拿走。#9／#68 的那條 default 不是給大重構用的，它就是給這種情況用的。
+- **為什麼不回頭改歷史**：`aed128637` 當時尚未推送，技術上 `reset --soft` 重切兩個 commit 做得到。沒做，因為 babel writer 仍在跑（REFLEXES #35 跨 session work 期間禁止 destructive git ops），動它的 HEAD 會跟它下一個 commit 對撞；內容全部正確、只有歸屬錯，代價不對等。照 MANIFESTO §時間是結構修補協議：不重寫，往後補一筆說明，證據鏈留著。
+- **可能層級**：操作規則（babel dispatcher 的 staging 範圍）＋既有反射的新變體（REFLEXES #42／#68 的受害者視角）
+- **候選機械化**：(a) babel dispatcher 提交前改成只 stage 自己這批的 pathspec（`knowledge/<lang>/**` ＋ `reports/babel/**` ＋ `knowledge/_translation-status.json`），不取整個 index——這是真正的修法，在 babel 席位；(b) `verify-commit-scope.sh` 的 `--staged` 在讀到 `0 檔` 而呼叫端說 expected>0 時，多印一行「staged 被清空：若剛才有 stage 過，先查最近幾個 commit 是不是別的 session 帶走了」——把一個方向相反的訊息補成雙向（同 [#38](REFLEXES.md) 零維度：`0` 同時是「我沒 stage」跟「我 stage 的被拿走了」）；(c) routine 收官 SOP 把「ACTOR_BUSY 且要改多檔 → 開 worktree」從 BECOME 鐵律的建議升成本條線的硬前置。
+- **相關**：[REFLEXES #42](REFLEXES.md) 三偷吃步的第二項「合併 commit」——原條目講 sub-agent 對自己 N 篇的合併，本條是**兩條互不知情的 routine 之間**的同一形狀，加害者甚至不是 agent 而是產線腳本；[#68](REFLEXES.md) 多核心 git 協調（commit 階段的碰撞面，既有結構強制是 `verify-commit-scope.sh`，本例證明它站的位置擋不住這一種）；[#6](REFLEXES.md) commit 範圍紀律（本例是它的鏡像：我遵守了，被不遵守的那一方收走）；[#9](REFLEXES.md) 長任務先開 worktree（本班沒照做的那條 default）；神經迴路「不信 exit 0（cross-session-git-index-pollution vc=2）」——本例是 vc=3，且第一次是「exit 非 0 但訊息指向錯的方向」
+- **verification_count**: 1
+
 ### 2026-10-10 twmd-maintainer-daily — downstream-steps-skipped-behind-a-red-read-as-one-unrelated-red：一個紅燈同時遮住它自己的原因和它下游所有沒跑過的閘門
 
 - **pattern**: `downstream-steps-skipped-behind-a-red-read-as-one-unrelated-red`
