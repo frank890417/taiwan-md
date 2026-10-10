@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T04:35:36+08:00",
-    "zhCommitHead": "c577c1094",
+    "lastUpdated": "2026-10-11T04:40:02+08:00",
+    "zhCommitHead": "e28908acf",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1126,
-        "fresh": 1109,
-        "stale": 16,
+        "fresh": 1110,
+        "stale": 15,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -4734,8 +4734,8 @@
           "sourceContentHash": "sha256:852e24aefb540676",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
           "translatedAt": "2026-10-11T01:05:50+08:00",
-          "translationLastCommit": "8bf9aa01",
-          "translationLastModified": "2026-10-11T00:54:04+08:00",
+          "translationLastCommit": "e28908ac",
+          "translationLastModified": "2026-10-11T04:35:36+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 24009,
@@ -86554,8 +86554,8 @@
           "sourceContentHash": "sha256:ae6eb429d45b37f4",
           "sourceBodyHash": "sha256:a891f90b49935053",
           "translatedAt": "2026-10-11T01:05:50+08:00",
-          "translationLastCommit": "f1daf600",
-          "translationLastModified": "2026-10-10T23:14:31+08:00",
+          "translationLastCommit": "e28908ac",
+          "translationLastModified": "2026-10-11T04:35:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 47852,
@@ -104448,18 +104448,18 @@
         "ja": {
           "path": "ja/People/hebe-tien-singer.md",
           "translatedFrom": "People/田馥甄.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "380c49d7e",
           "sourceContentHash": "sha256:d2852cc419867a37",
           "sourceBodyHash": "sha256:0f8970c54b5cd9d2",
-          "translatedAt": "2026-07-01T16:39:48Z",
+          "translatedAt": "2026-10-10T20:16:37.225268+00:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 35,
-          "bytes": 37104,
+          "bytes": 43891,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/hebe-tien-singer.md",
