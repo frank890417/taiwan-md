@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T22:06:28.316Z",
+  "lastUpdated": "2026-10-10T22:05:56.323Z",
   "totals": {
     "contributors": 78,
     "activeWindow": "last 30d"
@@ -7,28 +7,28 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9981,
+      "commits": 10099,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-10 03:01:46 +0800",
+      "lastCommitAt": "2026-10-10 23:49:38 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1753,
-        "system": 5137,
-        "translation": 2366
+        "content": 1759,
+        "system": 5155,
+        "translation": 2456
       }
     },
     {
       "login": "idlccp1984",
-      "commits": 475,
+      "commits": 476,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-09-14 11:31:46 +0800",
+      "lastCommitAt": "2026-10-08 19:25:44 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 470,
+        "content": 471,
         "system": 1,
         "translation": 0
       }
@@ -118,6 +118,20 @@
       }
     },
     {
+      "login": "stantheman0128",
+      "commits": 22,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
+      "profileUrl": "https://github.com/stantheman0128",
+      "firstCommitAt": "2026-07-24 16:48:07 +0800",
+      "lastCommitAt": "2026-08-08 08:45:37 +0800",
+      "primaryArea": "system",
+      "breakdown": {
+        "content": 0,
+        "system": 10,
+        "translation": 1
+      }
+    },
+    {
       "login": "fredchu",
       "commits": 20,
       "avatarUrl": "https://avatars.githubusercontent.com/u/1243384?v=4",
@@ -146,20 +160,6 @@
       }
     },
     {
-      "login": "stantheman0128",
-      "commits": 17,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
-      "profileUrl": "https://github.com/stantheman0128",
-      "firstCommitAt": "2026-07-24 16:48:07 +0800",
-      "lastCommitAt": "2026-08-08 08:45:37 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 0,
-        "system": 10,
-        "translation": 1
-      }
-    },
-    {
       "login": "hansai-art",
       "commits": 15,
       "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
@@ -174,20 +174,6 @@
       }
     },
     {
-      "login": "AgendaLu",
-      "commits": 12,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
-      "profileUrl": "https://github.com/AgendaLu",
-      "firstCommitAt": "2026-03-19 16:12:27 +0800",
-      "lastCommitAt": "2026-04-03 15:53:49 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 10,
-        "system": 31,
-        "translation": 14
-      }
-    },
-    {
       "login": "eryet",
       "commits": 12,
       "avatarUrl": "https://avatars.githubusercontent.com/u/48248414?v=4",
@@ -199,6 +185,20 @@
         "content": 0,
         "system": 12,
         "translation": 4
+      }
+    },
+    {
+      "login": "AgendaLu",
+      "commits": 12,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
+      "profileUrl": "https://github.com/AgendaLu",
+      "firstCommitAt": "2026-03-19 16:12:27 +0800",
+      "lastCommitAt": "2026-04-03 15:53:49 +0800",
+      "primaryArea": "system",
+      "breakdown": {
+        "content": 10,
+        "system": 31,
+        "translation": 14
       }
     },
     {
@@ -344,6 +344,13 @@
       "types": ["💻", "🖋️", "🌍"]
     },
     {
+      "login": "stantheman0128",
+      "name": "Stan Shih",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
+      "profileUrl": "https://github.com/stantheman0128",
+      "types": ["💻", "🌍", "🐛", "📦"]
+    },
+    {
       "login": "fredchu",
       "name": "Fred Chu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1243384?v=4",
@@ -358,13 +365,6 @@
       "types": ["💻", "🖋️", "🌍"]
     },
     {
-      "login": "stantheman0128",
-      "name": "Stan Shih",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
-      "profileUrl": "https://github.com/stantheman0128",
-      "types": ["💻", "🌍", "🐛"]
-    },
-    {
       "login": "hansai-art",
       "name": "hansai-art",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
@@ -372,17 +372,17 @@
       "types": ["💻", "🖋️", "🤔", "🌍", "👀"]
     },
     {
-      "login": "AgendaLu",
-      "name": "YiChengLu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
-      "profileUrl": "https://github.com/AgendaLu",
-      "types": ["💻", "🖋️", "🌍"]
-    },
-    {
       "login": "eryet",
       "name": "EryetChen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48248414?v=4",
       "profileUrl": "https://github.com/eryet",
+      "types": ["💻", "🖋️", "🌍"]
+    },
+    {
+      "login": "AgendaLu",
+      "name": "YiChengLu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
+      "profileUrl": "https://github.com/AgendaLu",
       "types": ["💻", "🖋️", "🌍"]
     },
     {
@@ -442,18 +442,18 @@
       "types": ["💻"]
     },
     {
-      "login": "vaiskalivuan",
-      "name": "vaiskalivuan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/270533697?v=4",
-      "profileUrl": "https://github.com/vaiskalivuan",
-      "types": ["💻", "🌍"]
-    },
-    {
       "login": "ceruleanstring",
       "name": "柒藍",
       "avatarUrl": "https://avatars.githubusercontent.com/u/265435204?v=4",
       "profileUrl": "https://github.com/ceruleanstring",
       "types": ["🌍"]
+    },
+    {
+      "login": "vaiskalivuan",
+      "name": "vaiskalivuan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/270533697?v=4",
+      "profileUrl": "https://github.com/vaiskalivuan",
+      "types": ["💻", "🌍"]
     },
     {
       "login": "LucasFutures",
@@ -837,14 +837,14 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 475,
+      "commits": 476,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-09-14 11:31:46 +0800",
+      "lastCommitAt": "2026-10-08 19:25:44 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 470,
+        "content": 471,
         "system": 1,
         "translation": 0
       }
@@ -909,21 +909,21 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9981,
+      "commits": 10099,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-10 03:01:46 +0800",
+      "lastCommitAt": "2026-10-10 23:49:38 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1753,
-        "system": 5137,
-        "translation": 2366
+        "content": 1759,
+        "system": 5155,
+        "translation": 2456
       }
     },
     {
       "login": "stantheman0128",
-      "commits": 17,
+      "commits": 22,
       "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
       "profileUrl": "https://github.com/stantheman0128",
       "firstCommitAt": "2026-07-24 16:48:07 +0800",
@@ -950,20 +950,6 @@
       }
     },
     {
-      "login": "AgendaLu",
-      "commits": 12,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
-      "profileUrl": "https://github.com/AgendaLu",
-      "firstCommitAt": "2026-03-19 16:12:27 +0800",
-      "lastCommitAt": "2026-04-03 15:53:49 +0800",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 10,
-        "system": 31,
-        "translation": 14
-      }
-    },
-    {
       "login": "eryet",
       "commits": 12,
       "avatarUrl": "https://avatars.githubusercontent.com/u/48248414?v=4",
@@ -975,6 +961,20 @@
         "content": 0,
         "system": 12,
         "translation": 4
+      }
+    },
+    {
+      "login": "AgendaLu",
+      "commits": 12,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/43836432?v=4",
+      "profileUrl": "https://github.com/AgendaLu",
+      "firstCommitAt": "2026-03-19 16:12:27 +0800",
+      "lastCommitAt": "2026-04-03 15:53:49 +0800",
+      "primaryArea": "system",
+      "breakdown": {
+        "content": 10,
+        "system": 31,
+        "translation": 14
       }
     }
   ],
@@ -1050,7 +1050,7 @@
       }
     }
   ],
-  "weeklyActive": 1,
+  "weeklyActive": 2,
   "monthlyActive": 5,
   "recentlyJoined": []
 }

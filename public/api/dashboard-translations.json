@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T22:06:44.117Z",
+  "lastUpdated": "2026-10-10T22:06:14.851Z",
   "languages": [
     "zh-TW",
     "en",
@@ -17,156 +17,156 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 1123,
+      "total": 1124,
       "percentage": 100,
-      "fresh": 1123,
+      "fresh": 1124,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
       "total": 1125,
-      "percentage": 100,
+      "percentage": 99.9,
       "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 0,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
-    },
-    "ja": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
-    },
-    "ko": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
-    },
-    "es": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
-    },
-    "fr": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
-    },
-    "vi": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1124,
-      "metadataStale": 1,
-      "stale": 0,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.9,
-      "bodyFreshPct": 100
-    },
-    "id": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1123,
-      "metadataStale": 0,
-      "stale": 2,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.8,
-      "bodyFreshPct": 99.8
-    },
-    "pt": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
-    },
-    "hi": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
-    },
-    "ar": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1124,
-      "metadataStale": 0,
-      "stale": 1,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
+      "deficit": 1,
       "freshPct": 99.9,
       "bodyFreshPct": 99.9
     },
-    "ru": {
+    "ja": {
       "total": 1125,
-      "percentage": 100,
+      "percentage": 99.9,
+      "fresh": 1124,
+      "metadataStale": 0,
+      "stale": 1,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.8
+    },
+    "ko": {
+      "total": 1125,
+      "percentage": 99.9,
+      "fresh": 1124,
+      "metadataStale": 0,
+      "stale": 1,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.8
+    },
+    "es": {
+      "total": 1125,
+      "percentage": 99.9,
+      "fresh": 1124,
+      "metadataStale": 0,
+      "stale": 1,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.8
+    },
+    "fr": {
+      "total": 1125,
+      "percentage": 99.9,
       "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 0,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 99.9,
+      "bodyFreshPct": 99.9
     },
-    "de": {
+    "vi": {
       "total": 1125,
-      "percentage": 100,
+      "percentage": 99.9,
+      "fresh": 1123,
+      "metadataStale": 1,
+      "stale": 1,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.7,
+      "bodyFreshPct": 99.8
+    },
+    "id": {
+      "total": 1125,
+      "percentage": 99.9,
       "fresh": 1124,
       "metadataStale": 1,
       "stale": 0,
-      "missing": 0,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
+      "deficit": 1,
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.9
+    },
+    "pt": {
+      "total": 1125,
+      "percentage": 99.9,
+      "fresh": 1125,
+      "metadataStale": 0,
+      "stale": 0,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
       "freshPct": 99.9,
-      "bodyFreshPct": 100
+      "bodyFreshPct": 99.9
+    },
+    "hi": {
+      "total": 1125,
+      "percentage": 99.9,
+      "fresh": 1124,
+      "metadataStale": 1,
+      "stale": 0,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.9
+    },
+    "ar": {
+      "total": 1125,
+      "percentage": 99.9,
+      "fresh": 1122,
+      "metadataStale": 1,
+      "stale": 2,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.6,
+      "bodyFreshPct": 99.7
+    },
+    "ru": {
+      "total": 1125,
+      "percentage": 99.9,
+      "fresh": 1124,
+      "metadataStale": 0,
+      "stale": 1,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.8
+    },
+    "de": {
+      "total": 1125,
+      "percentage": 99.9,
+      "fresh": 1125,
+      "metadataStale": 0,
+      "stale": 0,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.9,
+      "bodyFreshPct": 99.9
     }
   },
   "matrix": {
@@ -557,15 +557,15 @@
       },
       "vi": {
         "count": 89,
-        "fresh": 89,
-        "stale": 0,
+        "fresh": 88,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "id": {
         "count": 89,
-        "fresh": 88,
-        "stale": 1,
+        "fresh": 89,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -585,8 +585,8 @@
       },
       "ar": {
         "count": 89,
-        "fresh": 89,
-        "stale": 0,
+        "fresh": 88,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -643,16 +643,16 @@
         "deficit": 0
       },
       "vi": {
-        "count": 81,
-        "fresh": 81,
+        "count": 82,
+        "fresh": 82,
         "stale": 0,
         "missing": 0,
-        "deficit": 1
+        "deficit": 0
       },
       "id": {
         "count": 82,
-        "fresh": 81,
-        "stale": 1,
+        "fresh": 82,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -672,8 +672,8 @@
       },
       "ar": {
         "count": 82,
-        "fresh": 81,
-        "stale": 1,
+        "fresh": 82,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -685,11 +685,11 @@
         "deficit": 0
       },
       "de": {
-        "count": 81,
-        "fresh": 81,
+        "count": 82,
+        "fresh": 82,
         "stale": 0,
         "missing": 0,
-        "deficit": 1
+        "deficit": 0
       }
     },
     "history": {
@@ -1027,8 +1027,8 @@
       },
       "ru": {
         "count": 41,
-        "fresh": 41,
-        "stale": 0,
+        "fresh": 40,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -1051,22 +1051,22 @@
       },
       "ja": {
         "count": 290,
-        "fresh": 290,
-        "stale": 0,
+        "fresh": 289,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 290,
-        "fresh": 290,
-        "stale": 0,
+        "fresh": 289,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 290,
-        "fresh": 290,
-        "stale": 0,
+        "fresh": 289,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -1128,90 +1128,90 @@
       }
     },
     "politics": {
-      "zh-TW": 17,
+      "zh-TW": 18,
       "en": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "ja": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "ko": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "es": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "fr": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "vi": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "id": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "pt": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "hi": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "ar": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "ru": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       },
       "de": {
         "count": 17,
         "fresh": 17,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 1,
+        "deficit": 1
       }
     },
     "society": {
@@ -1252,18 +1252,18 @@
         "deficit": 0
       },
       "vi": {
-        "count": 117,
-        "fresh": 117,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "id": {
-        "count": 117,
-        "fresh": 117,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "pt": {
         "count": 117,
@@ -1273,18 +1273,18 @@
         "deficit": 0
       },
       "hi": {
-        "count": 117,
-        "fresh": 117,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ar": {
-        "count": 117,
-        "fresh": 117,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ru": {
         "count": 117,
@@ -1368,8 +1368,8 @@
       },
       "ar": {
         "count": 68,
-        "fresh": 68,
-        "stale": 0,
+        "fresh": 67,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -1389,7 +1389,44 @@
       }
     }
   },
-  "missing": {},
+  "missing": {
+    "en": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "ja": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "ko": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "es": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "fr": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "vi": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "id": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "pt": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "hi": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "ar": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "ru": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ],
+    "de": [
+      "Politics/來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰.md"
+    ]
+  },
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

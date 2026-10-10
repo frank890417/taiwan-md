@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T22:06:44.117Z",
+  "lastUpdated": "2026-10-10T22:06:14.851Z",
   "organs": [
     {
       "id": "heart",
@@ -10,12 +10,17 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 50,
-        "articlesLast30Days": 109,
-        "totalArticles": 1123,
+        "articlesLast7Days": 39,
+        "articlesLast30Days": 113,
+        "totalArticles": 1124,
         "selfProducedLast7Days": 0,
         "selfProducedLast30Days": 5,
-        "contributedLast7Days": 50
+        "contributedLast7Days": 39,
+        "newArticlesLast7Days": 1,
+        "newArticlesLast30Days": 5,
+        "contributedNewLast7Days": 1,
+        "updatedNotNewLast7Days": 38,
+        "shadowScoreNewOnly": 30
       }
     },
     {
@@ -24,22 +29,22 @@
       "nameZh": "免疫系統",
       "metaphor": "品質防禦",
       "emoji": "🛡️",
-      "score": 60,
+      "score": 59,
       "trend": "up",
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 200,
-        "totalArticles": 1123,
+        "totalArticles": 1124,
         "humanReviewedPercent": 17.8,
-        "v2Status": "需關注 — T1 review < 80% OR plugin pass < 90%",
+        "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
           "review_coverage": 19,
           "plugin_pass_rate": 70.1,
           "plugin_health": 100,
           "citation_density": 94.2,
           "tool_freshness": 60,
-          "drift_velocity": 100,
-          "external_rulers": 7.8
+          "drift_velocity": 90,
+          "external_rulers": 8.2
         }
       }
     },
@@ -49,12 +54,12 @@
       "nameZh": "遺傳密碼",
       "metaphor": "品質基因",
       "emoji": "🧬",
-      "score": 80,
+      "score": 95,
       "scoreKind": "recency-indicator",
       "scoreBasis": "Days since EDITORIAL.md was last modified; not quality health",
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-09-26T17:10:07.000Z"
+        "editorialLastModified": "2026-10-10T15:15:19.000Z"
       }
     },
     {
@@ -122,7 +127,7 @@
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 1123,
+          "zh-TW": 1124,
           "en": 1123,
           "ja": 1123,
           "ko": 1123,

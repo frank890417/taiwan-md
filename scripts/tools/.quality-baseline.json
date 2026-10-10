@@ -1,7 +1,7 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-10-09T22:06:40Z",
-  "total": 1125,
+  "timestamp": "2026-10-10T22:06:10Z",
+  "total": 1126,
   "flagged": 716,
   "files": [
     {
@@ -1400,11 +1400,6 @@
       "reasons": "未人工審核; 分號7個; 稀薄段落×7"
     },
     {
-      "file": "nature/台灣皇蛾.md",
-      "score": 4,
-      "reasons": "未人工審核; 分號5個; 稀薄段落×8"
-    },
-    {
       "file": "nature/台灣白海豚.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句5個"
@@ -1548,6 +1543,11 @@
       "file": "politics/歡樂無法黨.md",
       "score": 7,
       "reasons": "空洞詞5個; 未人工審核; 塑膠句5個; 英式短句開場5處; 稀薄段落×1"
+    },
+    {
+      "file": "politics/來來來怎麼樣怎麼樣.md",
+      "score": 5,
+      "reasons": "未人工審核; 分號10個; 稀薄段落×2"
     },
     {
       "file": "people/吳寶春.md",
@@ -2587,7 +2587,7 @@
     {
       "file": "food/客家飲食文化.md",
       "score": 5,
-      "reasons": "未人工審核; 分號8個; 稀薄段落×2; 價值上升詞×5"
+      "reasons": "未人工審核; 分號8個; 稀薄段落×2; 價值上升詞×4"
     },
     {
       "file": "food/金門高粱.md",

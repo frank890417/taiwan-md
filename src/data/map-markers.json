@@ -2009,7 +2009,7 @@
     "region": "central",
     "link": "/food/%E5%8F%B0%E7%81%A3%E7%B3%95%E9%A4%85%E6%96%87%E5%8C%96",
     "lang": "zh-TW",
-    "desc": "從 1877 鹿港玉珍齋的鳳眼糕到 2026 陳耀訓拓元售票系統 30 秒完售的紅土蛋黃酥，台灣糕餅 150 年的層次故事。中間夾著日治一福堂的方塊鳳梨酥革命、豐原寶泉的橄欖形蛋黃酥實驗、八卦山下 270 公頃土鳳梨契作、油皮包油酥的工藝突變，以及百年漢餅鋪跟世界麵包冠軍站在同一張中秋餐桌上。",
+    "desc": "從 1877 鹿港玉珍齋的鳳眼糕到陳耀訓開賣不到 30 秒就完售的紅土蛋黃酥，台灣糕餅 150 年的層次故事。中間夾著日治一福堂的方塊鳳梨酥革命、豐原寶泉的橄欖形蛋黃酥實驗、八卦山下 270 公頃土鳳梨契作、油皮包油酥的工藝突變，以及百年漢餅鋪跟世界麵包冠軍站在同一張中秋餐桌上。",
     "city": "彰化"
   },
   {
@@ -4929,14 +4929,14 @@
   },
   {
     "title": "台灣步道文化與公民守護",
-    "lat": 25.00495,
-    "lng": 121.469377,
+    "lat": 25.026178,
+    "lng": 121.557918,
     "category": "nature",
     "region": "north",
     "link": "/nature/%E5%8F%B0%E7%81%A3%E6%AD%A5%E9%81%93%E6%96%87%E5%8C%96%E8%88%87%E5%85%AC%E6%B0%91%E5%AE%88%E8%AD%B7",
     "lang": "zh-TW",
     "desc": "從千里步道協會到iTrail平台，探索台灣獨特的步道守護文化與公民科學精神",
-    "city": "新北"
+    "city": "台北"
   },
   {
     "title": "台灣氣候危機與淨零轉型：核三公投沒過那天，物理上限的選擇才剛開始",
@@ -5039,14 +5039,14 @@
   },
   {
     "title": "台灣皇蛾",
-    "lat": 24.558238,
-    "lng": 120.828747,
+    "lat": 25.033876,
+    "lng": 121.562498,
     "category": "nature",
-    "region": "central",
+    "region": "north",
     "link": "/nature/%E5%8F%B0%E7%81%A3%E7%9A%87%E8%9B%BE",
     "lang": "zh-TW",
     "desc": "翅展可達 25-30 公分、全球翅展最長的蛾類之一，翅膀展開如一本攤開的書——牠一生不吃東西，只為飛一趟",
-    "city": "苗栗"
+    "city": "台北"
   },
   {
     "title": "台灣石虎保育",
@@ -7370,6 +7370,17 @@
     "city": "台北"
   },
   {
+    "title": "來來來，怎麼樣、怎麼樣：一句口號在大罷免裡換邊站，再走進臺北市長選戰",
+    "lat": 25.026798,
+    "lng": 121.557673,
+    "category": "politics",
+    "region": "north",
+    "link": "/politics/%E4%BE%86%E4%BE%86%E4%BE%86%E6%80%8E%E9%BA%BC%E6%A8%A3%E6%80%8E%E9%BA%BC%E6%A8%A3",
+    "lang": "zh-TW",
+    "desc": "2025 年 6 月 28 日，罷免王鴻薇的團體與聲援者在大直街頭喊出「來來來，怎麼樣怎麼樣，大罷免、大成功」，這是目前能直接核對的最早公開紀錄。王鴻薇自稱原創、評論者說它源自立法院的挑釁，但沒有一份可獨立核對的原始影音能證明起源。投票否決後，同一句話被反罷免陣營倒過來用，2026 年又進了臺北市長選戰。",
+    "city": "台北"
+  },
+  {
     "title": "原住民族正名運動：從「山胞」到憲法中的集體主體",
     "lat": 22.754944,
     "lng": 121.149053,
@@ -8756,17 +8767,6 @@
     "city": "嘉義"
   },
   {
-    "title": "منغجيا (萬華): أكثر أماكن تايبيه حيوية في عهد تشينغ، والآن المنطقة ذات أعلى متوسط عمر في تايبيه",
-    "lat": 25.039871,
-    "lng": 121.557727,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/bangka",
-    "lang": "zh-TW",
-    "desc": "بني معبد لونغشان في منغجيا عام 1738 بتمويل من أبناء مقاطعات تشيوانتشو الثلاث، ويبلغ عمره 288 عاماً حتى عام 2026، أي أقدم بـ 137 عاماً من حكومة تايبيه في عهد تشينغ. معركة \"دينغشيا جياوبيان\" عام 1853 دفعت أبناء تونغآن إلى داو داو تشنغ، فبذرت بذور انقسام شمال تايوان لقرنين. أعيدت التسمية إلى \"وانهوا\" في العهد الياباني، وأُنشئت منطقة عام 1990، وصوّر دو تشنغ-تسه فيلم \"منغجيا\" عام 2010. يبلغ مؤشر الشيخوخة حالياً 320.78%، الأعلى في المدينة. في هذه أقدم شوارع تايبيه، لا تزال أول بخور الفجر تحترق في باحة المعبد عند الساعة السادسة صباحاً.",
-    "city": "台北"
-  },
-  {
     "title": "خط بانون (板南線): 26.5 كيلومتراً تخيط مدينتين تحت الأرض",
     "lat": 25.032166,
     "lng": 121.562268,
@@ -8800,17 +8800,6 @@
     "city": "嘉義"
   },
   {
-    "title": "دادةوتشنغ: ٨٠٠ متر وثلاثة قرون، من شاي فورموزا إلى أول رصاصة في حادثة ٢٨ فبراير",
-    "lat": 25.038912,
-    "lng": 121.565626,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/dadaocheng",
-    "lang": "zh-TW",
-    "desc": "شارع ديهوا في الخامسة والنصف فجرًا هادئ جدًا. قصر شاي تشين تيان لاي الذي افتتحه عام ١٨٩١ في شارع قوي ده لا يزال قائمًا في مكانه الأصلي، ومبخرة معبد شياهاي تشنغ هوانغ تحترق منذ ١٦٧ عامًا. في عام ١٨٥١ افتتحت بضع عائلات متاجر هنا، وفي ١٨٥٣ لجأ أهل تونغ آن هربًا من القتال، وفي ١٨٦٩ صُدّر أول ١٢٠ ألف جين من شاي فورموزا من دان شوي إلى نيويورك، وفي ١٨٨٥ أسس ليو مينغ تشوان أول مدرسة غربية في تايوان هنا، وفي ١٩٢١ افتتح تشيانغ وي شوي مستشفى دا آن في تاي بينغ تشو كنقطة انطلاق سياسية للجمعية الثقافية، وفي مساء ٢٧ فبراير ١٩٤٧ أشعلت علبة سجائر مهربة أمام مقهى تيان ما شرارة حادثة ٢٨ فبراير. شارع تجارة الشاي، ومقر أول مدرسة غربية، وأعمق جرح في تايوان ما بعد الحرب — ثلاثة قرون من تاريخ تايوان مضغوطة في ٨٠٠ متر.",
-    "city": "台北"
-  },
-  {
     "title": "شارع غولينغ: شارع الكتب الذي تركه اليابانيون، فتيان يانغ ده-تشانغ، وقصر الحكومة الوطنية",
     "lat": 25.036571,
     "lng": 121.560469,
@@ -8842,17 +8831,6 @@
     "lang": "zh-TW",
     "desc": "في 26 سبتمبر 2009، صوت ماكاو ضدها بـ 17,359 صوتاً، بينما خسرت الكازينو بـ 3,962 صوتاً. وبعد سبع سنوات في عام 2016، تم التصويت مرة أخرى بنسبة رفض بلغت 81.07%. هذه الجزيرة النائية، التي يبلغ معدل هطول الأمطار فيها 1000 ملم فقط، وعدد سكانها المسجلين 108 آلاف ولكن المقيمين 80 ألفاً، أجرَت أول استفتاء محلي حول المقامرة على مستوى البلاد، ثم أجرت واحداً آخر. في نفس المنطقة البحرية، طرد شين يو رون الهولنديين عام 1604، وانتقل الهولنديون من فونغ تشواي إلى تاينان عام 1622، وتوفي القائد الفرنسي غو با بمرض في ماغونج عام 1885. لا تزال أعمدة البازلت التي يبلغ عمرها 17.4 مليون سنة موجودة، وهناك 89 جزيرة من الصخور البركانية السوداء، وواحدة من صخور الأنديزيت الأقدم. تنمو المحاصيل في جدران الحجر الريفية الشتوية في الجانب المعرض للرياح.",
     "city": "澎湖"
-  },
-  {
-    "title": "شيلين: أرض كيتاغالان، معبد صراع تشانغ-تشوان، والليلة الأكثر ازدحامًا في تايبيه",
-    "lat": 25.034243,
-    "lng": 121.571543,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/shilin",
-    "lang": "zh-TW",
-    "desc": "في السابعة والنصف مساءً، سياح كوريون يلتقطون صور السيلفي مع الدجاج المقلي الضخم عند مدخل سوق شيلين الليلي، بينما يقف معبد تسي شيان في رقم 84 شارع دا نان منذ عام 1796 ويكمل 230 عامًا في 2026. عام 1859 حرق أهل تشوان تشو شارع تشي لان القديم، وعام 1860 رسم بان يونغ تشينغ الشوارع الأربع المستقيمة حول المعبد. 1909 بنى اليابانيون سوقًا مقابل المعبد، 1955 افتتح مسرح يانغ مينغ، 1992 اخترع دجاج هوت ستار في تايتشونغ، 1999 دخل شيلين. 2002 أزيلت الأكواخ، 2011 افتتح السوق الجديد، الشارع السفلي للمأكولات يعمل بنوبتين من الفجر للمساء. المعبد لا يزال في مكانه، لكن تحت قدميه تتعاقب مدينتان كل يوم.",
-    "city": "台北"
   },
   {
     "title": "تايتشونغ: كادت أن تكون العاصمة عام 1887، ولم تصبح ثاني أكبر بلدية مباشرة إلا في 2010",
@@ -8910,17 +8888,6 @@
     "city": "新竹"
   },
   {
-    "title": "تشانغ يام (Treasure Hill): المستوطنة المخالفة التي دُمرت لـ 30 عامًا، لتتحول إلى أرقى قرية فنية في تايبيه",
-    "lat": 25.026017,
-    "lng": 121.572945,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/treasure-hill",
-    "lang": "zh-TW",
-    "desc": "في يوليو 1980، حددت حكومة تايبيه هذه التلة كمنطقة مخصصة للمنتزه رقم 297. دخل أكثر من 200 منزل مخالف حالة \"الانتظار للهدم\". بعد محاولات هدم في عامي 1993 و 1994 و 2001، تحول المسار إلى \"الحفظ في الموقع\" بعد حادثة كونغ لو لي في عام 1997، وافتتحت القرية الفنية الدولية في 2 أكتوبر 2010. أصبحت قرية تعايش فني-سكني تضم أكثر من 500 فنان من أكثر من 40 دولة.",
-    "city": "台北"
-  },
-  {
     "title": "شارع يونغكانغ: حيث سكن الأساتذة اليابانيون، ولجأ إليه الوافدون من البر الرئيسي، وهو الآن تايبيه السياح اليابانيين والكوريين",
     "lat": 25.025406,
     "lng": 121.561415,
@@ -8929,17 +8896,6 @@
     "link": "/geography/yongkang-street",
     "lang": "zh-TW",
     "desc": "في تمام الساعة السابعة والنصف صباحًا، تحت الأشجار المعمرة بجانب متنزه يونغكانغ، يجلس جدٌّ من الوافدين من البر الرئيسي على مقعد حجري ممسكًا بصحيفة الصباح. عام 1922، خطط اليابانيون هنا لحي شوا، وسكن أعضاء هيئة التدريس في الجامعة الإمبراطورية في تايبيه في المساكن اليابانية في رقم 7 شارع تشينغتيان؛ وبعد عام 1947، استولى المسؤولون الوافدون من البر الرئيسي وأساتذة جامعة تايوان على تلك المساكن ذاتها، فسكن ما تينغ-يينغ في رقم 76 شارع تشينغتيان، وسكن تشو ده-وي في ما يُعرف اليوم بـ \"مقر الغلاسينوزا\". عام 1958، افتتح يانغ بينغ-يي متجر \"دين تاي فونغ\" لبيع الزيت في القسم الثاني من طريق شين-يي، وتحول عام 1972 لبيع شياو لونغ باو، واليوم يمتد طابور الزبائن أمام الباب حتى منعطف طريق جينشان الجنوبي، حيث تسمع اليابانية والكورية أكثر من الماندرين. ثلاثة أجيال من السكان تتراكم في نفس الشارع البالغ طوله 600 متر.",
-    "city": "台北"
-  },
-  {
-    "title": "طريق تشونغشان الشمالي \"تياو تونغ\": طريق شقه اليابانيون للوصول إلى المعبد، وأخيرًا استعادته الشركات اليابانية",
-    "lat": 25.025504,
-    "lng": 121.56522,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/zhongshan-north-road-tiaotong",
-    "lang": "zh-TW",
-    "desc": "في 17 أبريل 1923، سافر ولي العهد الياباني هيروهيتو البالغ من العمر 19 عامًا بعربة من محطة تايبيه عبر طريق عرضه 15 مترًا إلى معبد تايوان في يوانشان، وكان يسمى \"طريق المبعوث الإمبراطوري\". توسع عام 1941 ليصبح جادة بعرض 40 مترًا وخمسة مسارات. عام 1945 أعيد تسميته \"طريق تشونغشان الشمالي\" تخليدًا لسون يات سين. 1951 دخلت القوات الأمريكية إثر الحرب الكورية، وتحول المقطع الثالث إلى \"امتياز أمريكي\". 1972 قطع العلاقات الصينية اليابانية لم تغادر الشركات اليابانية؛ 1979 غادرت القوات الأمريكية، وفي الثمانينيات استولت الشركات اليابانية على \"تياو تونغ\". طريق شقه اليابانيون للمعبد، انتهى به المطاف مستعادًا من قبل الشركات التجارية اليابانية.",
     "city": "台北"
   },
   {
@@ -9141,17 +9097,6 @@
     "city": "台北"
   },
   {
-    "title": "الكوريون في تايوان: من مدرسة الكوريين في كاوهسيونغ إلى شبكات الحياة على شاشات الهواتف",
-    "lat": 22.627837,
-    "lng": 120.294541,
-    "category": "society",
-    "region": "south",
-    "link": "/society/koreans-in-taiwan",
-    "lang": "zh-TW",
-    "desc": "الكوريون في تايوان ليسوا مجرد مجموعة من المؤثرين المرئيين، بل هم نسيج يومي تنسجه مجتمع كاوهسيونغ القديم، والتعليم ثنائي اللغة، وتبادل الشباب، والطلاب الوافدون، والعائلات معاً.",
-    "city": "高雄"
-  },
-  {
     "title": "العطلات الرسمية: تاريخ تايوان المكتوب بـ\"عدم العمل\"",
     "lat": 25.026987,
     "lng": 121.56318,
@@ -9295,17 +9240,6 @@
     "city": "台北"
   },
   {
-    "title": "Taiwans 22 Bezirke in Zahlen: Dichte-Unterschied von 151-fach, Altersunterschiede einer Generation",
-    "lat": 25.03032,
-    "lng": 121.571364,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/data-taiwan-22-cities",
-    "lang": "zh-TW",
-    "desc": "Auf einer Insel: Taipei City mit 8.975 Personen pro Quadratkilometer (die dichteste) und Taitung County mit nur 59 (die spärlichste) — ein Unterschied von 151-fach. New Taipei City mit 4.04 Millionen gegen Kinmen County mit 13.621 — ein Unterschied von 297-fach. Hsinchus Altersquote 15,08% (jüngstes Gebiet) gegen Chiayi County mit 24,11% (ältestes) — fast eine Generation Unterschied. Anhand offizieller Daten des Innenministeriums Taiwans (Ende 2025) entsteht ein messbares Porträt einer Insel: 70% der Menschen auf 30% des Landes, Alterung nicht in den Städten sondern in peripheren Gebieten, und in allen 22 Bezirken übersteigen Todesfälle bereits Geburten.",
-    "city": "台北"
-  },
-  {
     "title": "Guling Street: Die Buchstraße der Japaner, Yangs Jugend und der Palast der Nationalregierung",
     "lat": 25.037295,
     "lng": 121.563804,
@@ -9315,28 +9249,6 @@
     "lang": "zh-TW",
     "desc": "Am Samstagmittag stehen Schüler vor dem roten Backsteintheater am Ende von Guling Street 5. Daneben befinden sich das 1955 erbaute Nationale Historische Museum und der Lotuspool des 1921 umgestalteten Taipei Botanical Garden. Diese 1,2 Kilometer lange Straße hieß 1922 Sakuma-cho und wurde 1947 in Guling Street umbenannt, benannt nach dem Lushan-Gebirge in Jiangxi. Nach 1945 hinterließen die Japaner beim Rückzug Bücher, die am Straßenrand zu Taiwans erster Antiquariatsbuchstraße wurden. In den 1960er Jahren war sie mit über 200 Ständen auf ihrem Höhepunkt. Nach der Eröffnung der Guanghua-Brücke im April 1973 wurden die Händler unter die Guanghua-Überführung verlegt. Am 15. Juni 1961 tötete der 16-jährige Mao Wu auf dieser Straße die 15-jährige Liu Min mit einem Pfadfindermesser. 1991 verfilmte Yang De-chang dies in einem 237 Minuten langen Film. Die Buchstraße wurde abgerissen, die Stände zogen um, Schüler kauften Bücher woanders, übrig blieben das rote Backsteingebäude der japanischen Polizeiwache, das chinesische Palastmuseum der Nachkriegszeit und der Lotuspool von 1921.",
     "city": "台北"
-  },
-  {
-    "title": "Hsinchu: Die Bambusstadt von 1733, die Wiege von TSMC aus dem Jahr 1980",
-    "lat": 24.800972,
-    "lng": 120.965702,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/hsinchu-city",
-    "lang": "zh-TW",
-    "desc": "Im Jahr 1733 errichtete Xu Zhimin (徐治民) eine runde Erdburg in Zhuxian durch das Pflanzen von Bambus. Am 15. Dezember 1980 schnitt Chiang Ching-kuo (蔣經國) den roten Schleier für das erste Wissenschaftszentrum Taiwans.",
-    "city": "新竹"
-  },
-  {
-    "title": "Kaohsiung: 1979 zur regierungsunmittelbaren Stadt erhoben, saßen acht Kaohsiunger im selben Jahr in Taipeh im Gefängnis",
-    "lat": 22.631008,
-    "lng": 120.297601,
-    "category": "geography",
-    "region": "south",
-    "link": "/geography/kaohsiung-city",
-    "lang": "zh-TW",
-    "desc": "Am 1. Juli 1979 wurde Kaohsiung zur zweiten regierungsunmittelbaren Stadt Taiwans erhoben. Am 10. Dezember desselben Jahres, dem Internationalen Tag der Menschenrechte, endete eine Kundgebung der Zeitschrift Formosa am Dagangpu-Kreisverkehr in Zusammenstößen unter Tränengas. Acht Menschen wurden verurteilt, und am 28. Februar 1980 ereignete sich in der Wohnung von Lin Yi-hsiung in der Xinyi-Straße in Taipeh ein Mordfall. Im selben Jahr 1979 erhielt Kaohsiung die administrative Ehre und schluckte zugleich die schwerste politische Unterdrückung der taiwanischen Nachkriegsgeschichte. 2,71 Millionen Menschen verteilen sich auf 38 Bezirke: Die Sandbank von Qijin, das Bunun-Dorf in Namasia, die Schornsteine von China Steel und das Aluminiumdach des Weiwuying-Zentrums teilen sich dieselbe Stadt. 45 Jahre lang hat diese Stadt ihre Wunden zu ihrer eigenen Form vernäht.",
-    "city": "高雄"
   },
   {
     "title": "Miaoli: Der County, dessen Kehnhals die Staatsverschuldung verdoppelte",
@@ -9502,28 +9414,6 @@
     "lang": "zh-TW",
     "desc": "Am 21. August 2021 trat Bad Te?te, gestylt mit schwarzem Hut und Sonnenbrille, auf, um den 32. Goldenen Musikpreis in der Kategorie ‚Bester Neuzugang‘ entgegenzunehmen. Sie sagte ins Kameralicht: ‚Fürchtet euch nicht.‘ Ihr echter Name ist Lin Chih-yi, sie stammt aus Hsiangshan in Hsinchu, besuchte das Hsinchu Mädchen-Mittelschulgebäude und studierte neun Jahre an der Medizinischen Fakultät der Nationale Verteidigungsmedizin-Universität – einschließlich eines einjährigen Auszeit-Jahres während des dritten Jahres und einer Abschlussverlängerung (zwei Jahre Praktikum, drei Jahre unvollendet, weil sie nicht aufpasste). Nach Abschluss der ärztlichen Weiterbildung und Erwerb des Medizinstudienabschlusses war sie zum Zeitpunkt der Auszeichnung noch tagsüber als Praktikärerin im OP unter OP-Maske tätig. Auf dem Weg des fleißigsten Lernens in Taiwan drückte sie die Pause-Taste – in diesem Jahr.",
     "city": "新竹"
-  },
-  {
-    "title": "Koreaner in Taiwan: Vom koreanischen Schulstandort Kaohsiung bis zum Lebensnetzwerk auf dem Smartphone-Bildschirm",
-    "lat": 22.63317,
-    "lng": 120.301429,
-    "category": "society",
-    "region": "south",
-    "link": "/society/koreans-in-taiwan",
-    "lang": "zh-TW",
-    "desc": "Die Koreaner in Taiwan sind nicht nur eine Gruppe von Social-Media-Berühmtheiten, sondern ein Alltag, der durch alte Gemeinschaften in Kaohsiung, zweisprachige Bildung, Jugendaustausch, Auslandsstudierende und internationale Familien gewebt wird.",
-    "city": "高雄"
-  },
-  {
-    "title": "Feiertage: Die Geschichte Taiwans, geschrieben durch „keinen Arbeitstag“",
-    "lat": 25.035207,
-    "lng": 121.561975,
-    "category": "society",
-    "region": "north",
-    "link": "/society/national-holidays",
-    "lang": "zh-TW",
-    "desc": "Der erste gesetzliche Feiertag der Republik China war nicht der 10. Oktober oder Neujahr, sondern der 228er-Tag im Jahr 1997. Von dem „Schandtag“ vom 17. Juni der japanischen Herrschaft bis zum Streit zwischen Legislative und Regierung über den „Wiederherstellungs- vs. Kriegsende“-Tag 2025 – jeder rote Tag im Kalender ist eine Antwort eines Regimes darauf, was Taiwan feiern soll und wem es gehört – aber ein Feiertag ist nie nur eine nationale Frage; er ist auch die Frage, ob Arbeiter ruhen sollen.",
-    "city": "台北"
   },
   {
     "title": "Staatliche Wohnungen und Wohnungsgerechtigkeit: Wer profitiert von der Vermögensleiter, die der Staat mit billigen Häusern gebaut hat",
@@ -10659,6 +10549,17 @@
     "city": "苗栗"
   },
   {
+    "title": "Le développement sportif de Taïwan et les Jeux Olympiques : une équipe nommée « Chine Taipei »",
+    "lat": 25.026048,
+    "lng": 121.570058,
+    "category": "society",
+    "region": "north",
+    "link": "/society/taiwan-sports-olympics",
+    "lang": "zh-TW",
+    "desc": "À Montréal en 1976, le Canada a exigé que le nom soit changé en « Taiwan », ce que Chiang Ching-kuo considérait comme une honte nationale, entraînant un retrait. Lors des Jeux de Paris en 2024, la nuit où Lin and Yang ont remporté deux titres consécutifs en doubles masculins, tout le monde a chanté les paroles de l'hymne national avec le drapeau du Japon — passant de « Taiwan » inaccessible à une appellation utilisée par le monde entier : ce chapeau appelé « Chine Taipei » porte le poids de chaque médaille d'or.",
+    "city": "台北"
+  },
+  {
     "title": "माझु अंतर्राष्ट्रीय कला द्वीप: एक संग्रहालय के बिना एक आर्ट गैलरी, जो पूरे द्वीपसमूह को प्रदर्शनी स्थल के रूप में उपयोग करती है",
     "lat": 26.16266,
     "lng": 119.946023,
@@ -10890,17 +10791,6 @@
     "city": "台北"
   },
   {
-    "title": "ह्सिन्चु शहर: 1733 में बांस लगाकर बसाया गया झूजियान, 1980 में टीएसएमसी के उद्गम स्थल के रूप में उभरा",
-    "lat": 24.810681,
-    "lng": 120.969082,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/hsinchu-city",
-    "lang": "zh-TW",
-    "desc": "1733 में योंगझेंग के 11वें वर्ष में, दानशुई के टोंगझी शू झीमिन ने चारों ओर माकिनो बांस लगाकर 1408 मीटर का गोलाकार मिट्टी का किला घेरा। 1829 में ईंट-पत्थर का किला पूरा हुआ, पूर्वी द्वार यिंगशी गेट आज भी खंदक के किनारे खड़ा है। 247 साल बाद, 15 दिसंबर 1980 को, च्यांग चिंग-कुओ ने यिंगशी गेट से 5 किमी दूर ताइवान के पहले विज्ञान पार्क का लाल फीता काटा। 1953 और 1974 के बीच, ब्लैक बैट स्क्वाड्रन के 148 लोग इस पवन नगर से उड़ान भरकर मुख्यभूमि चीन की टोह लेने गए, फिर कभी नहीं लौटे। 4.5 लाख आबादी वाला प्रांतीय शहर, जिसने शीत युद्ध की अग्रिम पंक्ति, उत्तर में सबसे पहले बसाया गया शहर, दो शीर्ष विश्वविद्यालय, और वैश्विक सेमीकंडक्टर के 90% उन्नत चिप्स का उद्गम स्थल थामा। 'पवन नगर' यह उपनाम बहुत साहित्यिक है, लेकिन इस शहर के सभी उद्योग हवा से जुड़े हैं।",
-    "city": "新竹"
-  },
-  {
     "title": "कीलुंग शहर: ताइपे के सबसे नज़दीक का बंदरगाह, जिसे ताइपे सबसे कम देख पाता है",
     "lat": 25.121512,
     "lng": 121.744669,
@@ -10921,17 +10811,6 @@
     "lang": "zh-TW",
     "desc": "किमन, श्यामेन के च्याओ यू द्वीप से केवल 1.8 किमी दूर है, जबकि ताइपे से 358 किमी। 1387 में च्यांगशा हाउ चाउ तेह-ह्सिंग ने यहाँ किला बनवाया, जिसका अर्थ था \"सोने की तरह मजबूत, समुद्री द्वार का शक्तिशाली प्रहरी\"। 25 अक्टूबर 1949 को तड़के 2 बजे कम्युनिस्ट सेना की तीन रेजिमेंटों के 9,086 सैनिकों ने गुनिंगतौ तट पर लैंडिंग की, जिसे राष्ट्रवादी सेना ने 56 घंटों की भीषण लड़ाई में खदेड़ दिया। 23 अगस्त 1958 को शाम 5:30 बजे शुरू हुए 44 दिनों में, 474,910 तोप के गोले 151 वर्ग किमी के द्वीप पर गिरे, जिसके बाद \"एक दिन मार, दो दिन नहीं\" की नीति 21 साल चली। आज 1.45 लाख लोग किमन में पंजीकृत हैं, भोर 4 बजे शुई तौ बंदरगाह से श्यामेन जाने वाली नावें ताइपे जाने वाली उड़ानों से ज्यादा हैं। ये हुआ-चेंग के परपोते 67 साल से माफी की मांग कर रहे हैं।",
     "city": "金門"
-  },
-  {
-    "title": "लियनचियांग काउंटी: ताइवान से सबसे दूर का काउंटी, जो शीत युद्ध के सबसे करीब है",
-    "lat": 26.160046,
-    "lng": 119.946582,
-    "category": "geography",
-    "region": "islands",
-    "link": "/geography/lienchiang-county",
-    "lang": "zh-TW",
-    "desc": "नांगन की चोटी से देखें तो फूझोउ शहर बस 16 किलोमीटर दूर है। ताइपे 200 किलोमीटर दूर है, जबकि लियनचियांग काउंटी मुख्यालय चीनी कम्युनिस्ट सेना की तरफ़ है। 1617 में शेन यू-रोंग ने डोंगजू पहाड़ के नीचे 69 वोकू (जापानी समुद्री डाकुओं) को ज़िंदा पकड़ा, 1956 में राष्ट्रवादी सेना ने इन 5 द्वीपों को युद्धक्षेत्र प्रशासन क्षेत्र में बदल दिया, 1992 में किमेन-मात्सु ने ताइवान से 5 साल बाद मार्शल लॉ हटाया। आज यहाँ 13,646 लोग रहते हैं, मात्सु बोली की हानि दर 94% है, 2012 में देश भर में पारित एकमात्र जुआ जनमत संग्रह का आज तक कोई नतीजा नहीं निकला। नीली आँसू (जैव-प्रदीप्ति) हर साल 2 लाख पर्यटक लाते हैं, लेकिन स्थानीय लोग ब्लैकआउट याद रखते हैं। 28.8 वर्ग किलोमीटर का एक काउंटी, जिसने ताइवान के शीत युद्ध इतिहास को अपने भीतर समेट रखा है।",
-    "city": "馬祖"
   },
   {
     "title": "मियाओलि काउंटी: हक़्क़ा जनजाति की कठोर मनोवृत्ति वाली काउंटी, जहाँ आठ साल में एक काउंटी प्रशासक चुना गया जिसने काउंटी कोष का कर्ज दोगुना कर दिया",
@@ -11231,17 +11110,6 @@
     "city": "台北"
   },
   {
-    "title": "वू मिंग-यी: संयुक्त आँखों से गायब होते ताइवान को वापस लिखना",
-    "lat": 25.039735,
-    "lng": 121.509803,
-    "category": "people",
-    "region": "north",
-    "link": "/people/wu-ming-yi",
-    "lang": "zh-TW",
-    "desc": "'इमि डाई जी' से 'साइकिल चोरी' तक, गायब होते चुंगह्वा मॉल से बुकर लॉन्गलिस्ट तक—पूर्वी हुआ विश्वविद्यालय के चीनी साहित्य विभाग के प्रोफेसर वू मिंग-यी कैसे प्रकृति-लेखन और उपन्यास के जरिए दुनिया को एक द्वीप के कीड़े, लोहे के घोड़े और युद्ध की यादें एक साथ दिखाते हैं। अंतरराष्ट्रीय अनुवाद और क्रॉस-मीडिया संयुक्त आँखों का नतीजा हैं, पहले पुरस्कार खोजकर द्वीप को भरने की कोशिश नहीं; राष्ट्रीयता की पंक्ति केवल गहराई जोड़ती है।",
-    "city": "台北"
-  },
-  {
     "title": "भूकंप: भूगाय के साथ नृत्य करती द्वीप की स्मृति",
     "lat": 23.996024,
     "lng": 121.595343,
@@ -11407,28 +11275,6 @@
     "city": "嘉義"
   },
   {
-    "title": "Dadaocheng: Tiga Abad dalam 800 Meter, Dari Teh Formosa hingga Tembakan Pertama Haijian (228)",
-    "lat": 25.032726,
-    "lng": 121.559513,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/dadaocheng",
-    "lang": "zh-TW",
-    "desc": "Jalan Dihua pada pukul lima setengah pagi sangat sunyi. Gedung teh Jinji yang didirikan Chen Tianlai pada tahun 1891 di Guide Street masih berdiri di lokasi aslinya, dan dupa di Kuil Dewa Kota Xiahai telah dibakar selama 167 tahun. Sejak ada toko pada tahun 1851, kedatangan para pengungsi Tong'an pada tahun 1853, ekspor Teh Formosa pertama ke New York pada tahun 1869, pendirian sekolah Barat pertama oleh Liu Mingchuan pada tahun 1885, titik awal politik oleh Jiang Weisui di Taiping Town pada tahun 1921, dan penembakan rokok pribadi yang memicu Haijian (228) pada sore hari tanggal 27 Februari 1947.",
-    "city": "台北"
-  },
-  {
-    "title": "Dalongdong: Khian Baoan Gong, Lonceng Kong Miao, Langit Biru Matahari Putih Yuan Shan, Tiga Era Kepercayaan Taipei",
-    "lat": 25.03534,
-    "lng": 121.564063,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/dalongdong",
-    "lang": "zh-TW",
-    "desc": "Dari cangkang kerang Yuan Shan 5.300 tahun lalu hingga pembangunan Baoan Gong oleh orang Tong-an tahun 1742, dari Chen Wei-ying lulus ujian tingkat provinsi tahun 1859 dengan julukan \"lima langkah satu xiucai, sepuluh langkah satu juren\" hingga tahun 1925 para elite lokal menggalang dana membangun kembali Kong Miao yang dihancurkan orang Jepang, dari Jin-gu (Taiwan Shrine) ditabrak pesawat tahun 1944 hingga Yang Cho-cheng membangun Grand Hotel Yuan Shan 14 lantai bergaya istana Tiongkok di lokasinya tahun 1973. Tiga ruang kepercayaan berdampingan di sumbu 1,5 kilometer dari Dalongdong ke Yuan Shan, namun tak satupun versi buku panduan wisata: Baoan Gong adalah yang dibangun Liao Wu-zhi tahun 1995 menolak subsidi pemerintah, biaya sendiri 2,6 miliar meraih penghargaan UNESCO Asia-Pasifik pertama Taiwan; Kong Miao didirikan atas tanah 3.000+ ping yang disumbangkan keluarga Chen Yue-ji dan Ku Hsien-jung agar Kongzi punya tempat tinggal; Grand Hotel Yuan Shan dengan atap merah dinding kuning pernah menyambut 111 kepala negara. Orang-orang tua berlatih Tai Chi di Jalan Dalong menginjak-jejak irisan waktu paling padat Taipei.",
-    "city": "台北"
-  },
-  {
     "title": "Jalan Guling: Jalan Buku Peninggalan Jepang, Pemuda Ang Lee, dan Istana Pemerintah Nasional",
     "lat": 25.032664,
     "lng": 121.557096,
@@ -11440,17 +11286,6 @@
     "city": "台北"
   },
   {
-    "title": "Kota Hsinchu: Zhaqian yang Dibuat dari Bambu pada Tahun 1733, Tempat Kelahiran Emas Taiwan Semiconductor (TSMC) pada Tahun 1980",
-    "lat": 24.797761,
-    "lng": 120.971267,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/hsinchu-city",
-    "lang": "zh-TW",
-    "desc": "Pada tahun 1733, pejabat Tamsui, Xu Zhimin, menanam bambu di sekeliling area untuk membuat benteng tanah berbentuk lingkaran. Pada tahun 1980, Chiang Ching-kuo memotong pita merah pembukaan kawasan ilmiah pertama Taiwan, yang kemudian melahirkan TSMC.",
-    "city": "新竹"
-  },
-  {
     "title": "Kabupaten Hualien: Suku Sakizaya yang Bersembunyi 129 Tahun, Truku yang Direbut Kembali Lewat Rektifikasi Nama, dan 0403 yang Kembali Menjauhkannya",
     "lat": 24.161885,
     "lng": 121.618819,
@@ -11460,6 +11295,17 @@
     "lang": "zh-TW",
     "desc": "Pada 1878, pasukan Qing mengikat Komod Pazik, kepala suku komunitas Takubuwan, ke pohon bishop wood lalu menghukumnya mati dengan lingchi; Suku Sakizaya bersembunyi di antara Suku Amis selama 129 tahun. Pada 2004, Suku Truku keluar dari klasifikasi Atayal dan diakui sebagai suku pribumi ke-12; pada 2007, dalam masa jabatan kedua pemerintahan Chen Shui-bian, Sakizaya diakui sebagai suku ke-13. Pada pukul 07.58 pagi 3 April 2024, dalam 98 detik itu, gempa 0403 berkekuatan 7,1 menghancurkan sekaligus jalur Yanzikou, Jiuqudong, dan Shakadang di Taman Nasional Taroko. Wisatawan tahun 2024 hanya tersisa 210.000 orang, padahal tahun normal biasanya 6,6 juta. Di atas tanah paling tipis 5 kilometer di antara gunung dan laut ini, nasib 6 suku pribumi selalu ikut bergoyang bersama lempeng tektonik.",
     "city": "花蓮"
+  },
+  {
+    "title": "Kota Kaohsiung: Tahun 1979 saat ditingkatkan menjadi kota otonom, delapan orang Kaohsiung dipenjara di penjara Taipei",
+    "lat": 22.626248,
+    "lng": 120.297045,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/kaohsiung-city",
+    "lang": "zh-TW",
+    "desc": "Pada 1 Juli 1979, Kaohsiung ditingkatkan menjadi kota otonom kedua di Taiwan. Pada 10 Desember, Hari Hak Asasi Manusia Sedunia, pidato Majalah Pulau Formosa di Bundaran Dagangbu berubah menjadi bentrokan di bawah gas air mata. Delapan orang dihukum penjara, dan pada 28 Februari 1980 terjadi kasus pembunuhan di rumah Lin Yi-hsiung di Jalan Xinyi, Taipei. Pada tahun 1979 yang sama, Kaohsiung meraih kehormatan administratif, namun juga menelan tekanan politik paling berat di Taiwan pasca-perang. 2,71 juta orang tersebar di 38 distrik, pasir Cijin, suku Bunun Namasia, cerobong asap China Steel, dan atap aluminium Weiwuying tinggal bersama di satu kota; kota ini menghabiskan 45 tahun untuk menjahit lukanya menjadi bentuknya sendiri.",
+    "city": "高雄"
   },
   {
     "title": "Miaoli: Kabupaten dengan leher keras Hakka, memilih bupati yang melipatgandakan utang kas kabupaten selama delapan tahun",
@@ -11737,17 +11583,6 @@
     "city": "台北"
   },
   {
-    "title": "Wu Ming-yi: Menggunakan Mata Komposit untuk Menulis Kembali Taiwan yang Hilang",
-    "lat": 25.042374,
-    "lng": 121.509839,
-    "category": "people",
-    "region": "north",
-    "link": "/people/wu-ming-yi",
-    "lang": "zh-TW",
-    "desc": "Dari \"Catatan Kupu-kupu Buntu\" ke \"Catatan Sepeda Hilang\", dari Pusat Perbelanjaan Chunghua yang Hilang ke Daftar Panjang Booker—Bagaimana Profesor Sastra Tionghoa Universitas Dong Hwa, Wu Ming-yi, Menggunakan Pengetahuan Alam dan Novel, Membiarkan Dunia Melihat Serentak Serangga, Sepeda, dan Kenangan Perang Sebuah Pulau. Penerjemahan Internasional dan Lintas Media Adalah Hasil dari Mata Komposit, Bukan Mencari Piala Dulu Lalu Mengisi Pulau; Baris Kewarganegaraan Hanyalah Ketebalan.",
-    "city": "台北"
-  },
-  {
     "title": "Orang Korea di Taiwan: Dari Sekolah Korea Kaohsiung ke Jaringan Hidup di Layar Ponsel",
     "lat": 22.632117,
     "lng": 120.300792,
@@ -11757,17 +11592,6 @@
     "lang": "zh-TW",
     "desc": "Orang Korea di Taiwan bukan sekadar sekelompok influencer yang terlihat, melainkan kehidupan sehari-hari yang teranyam dari komunitas lama di Kaohsiung, pendidikan bilingual, pertukaran pemuda, mahasiswa asing, dan keluarga.",
     "city": "高雄"
-  },
-  {
-    "title": "Hari Libur Nasional: Sejarah Taiwan yang Ditulis dengan 'Tidak Bekerja'",
-    "lat": 25.034535,
-    "lng": 121.565044,
-    "category": "society",
-    "region": "north",
-    "link": "/society/national-holidays",
-    "lang": "zh-TW",
-    "desc": "Hari libur nasional pertama Republik Tiongkok, bukan 10 Oktober atau Tahun Baru, melainkan 228 tahun. Dari 'Hari Peringatan Kehormatan' pada 17 Juni era pemerintahan Jepang hingga perdebatan sengit di Dewan Legislatif pada tahun 2025 antara 'Pemulihan vs Akhir Perang', setiap hari merah di kalender adalah jawaban suatu rezim tentang apa yang harus diperingati Taiwan dan untuk siapa—tetapi libur juga tidak hanya masalah nasional, tetapi juga apakah pekerja berhak beristirahat.",
-    "city": "台北"
   },
   {
     "title": "Perumahan Nasional dan Keadilan Hunian: Rumah Murah yang Dibangun Pemerintah, Akhirnya Menciptakan Tangga Aset bagi Siapa",
@@ -12067,6 +11891,17 @@
     "city": "台北"
   },
   {
+    "title": "台湾の新メディア・アート",
+    "lat": 25.032724,
+    "lng": 121.564381,
+    "category": "art",
+    "region": "north",
+    "link": "/ja/art/taiwan-new-media-art",
+    "lang": "ja",
+    "desc": "1980年代のビデオ・アートの先駆者からヴェネツィアでのVR賞受賞まで、16人の重要アーティストと40年にわたるデジタル・アート革命の全軌跡。",
+    "city": "台北"
+  },
+  {
     "title": "『台湾漫遊録』：一本の「妹が翻訳した本」が、春山からロンドンの授賞台へたどり着くまで",
     "lat": 24.149355,
     "lng": 120.680473,
@@ -12131,6 +11966,17 @@
     "lang": "ja",
     "desc": "三つの書房から生まれたモダニズム実験が、いかにして最も郷土的な詩歌革命を偶然に生み出したか",
     "city": "彰化"
+  },
+  {
+    "title": "謝德慶（しゃ・とっけい／ツァイ・ダーチン）：14年間の不法滞在を一つのパフォーマンス・アートとして生きた台湾の芸術家",
+    "lat": 22.68932,
+    "lng": 120.486602,
+    "category": "art",
+    "region": "south",
+    "link": "/ja/art/tehching-hsieh-performance-artist",
+    "lang": "ja",
+    "desc": "1978年、ニューヨークのトライベッカで、彼は自ら釘打ちした木製の檻に自ら入って1年間過ごし、言葉を発せず、本を読まず、文字を書かなかった。続く5年間で打刻、縄、路上生活によって時間を作品へと変え、その後13年間は芸術を制作しながらも公開しなかった。謝德慶は屏東南州から出発し、1974年に船から飛び降りてニューヨークで丸14年間不法移民として生きた。他の芸術家が自由を描くとき、彼は監禁によって時間そのものが芸術であることを証明した。",
+    "city": "屏東"
   },
   {
     "title": "台湾の伝統芸術",
@@ -13519,14 +13365,14 @@
     "city": "桃園"
   },
   {
-    "title": "阿婆鉄卵：渡船頭「海脚大飯店」でのある偶然から、淡水で最も硬い集団記憶へ",
+    "title": "阿婆鉄蛋（あばてったん）：渡船頭の「海脚大飯店」から始まった偶然と、淡水の最も硬い集団的記憶",
     "lat": 25.170193,
     "lng": 121.43503,
     "category": "food",
     "region": "north",
     "link": "/ja/food/ah-po-iron-eggs",
     "lang": "ja",
-    "desc": "1983年、一本『民生報』の報道により、淡水「海脚大飯店」の黒滷卵が一夜にして有名になりました。海風に繰り返し吹きさらされ、煮込めば煮込むほど硬くなるこの「偶然」の美食は、淡水渡船頭の興亡を物語るだけでなく、商標争議の中で創始者である阿哖婆と楊碧雲に関する歴史的公案を残しました。",
+    "desc": "1983年、『民生報』の報道により淡水の「海脚大飯店」の黒滷蛋（煮卵）が一夜にして有名になりました。海風に吹かれ続け、煮込むほどに硬くなったこの「偶然」の美食は、淡水渡船頭の興亡を見守るとともに、創始者である阿哖婆（あば）氏と楊碧雲（よう・びうん）氏を巡る商標紛争という歴史的な論争を残しました。",
     "city": "新北"
   },
   {
@@ -13739,14 +13585,14 @@
     "city": "台北"
   },
   {
-    "title": "客家の食文化",
+    "title": "客家料理文化",
     "lat": 24.796856,
     "lng": 120.973782,
     "category": "food",
     "region": "north",
     "link": "/ja/food/hakka-food-culture",
     "lang": "ja",
-    "desc": "客家人の豊かで多様な食文化。擂茶の芳醇な香りから野薑花粽の山林の風情まで、客家民族の勤倹持家と地産地消の生活の知恵を示す",
+    "desc": "客家人による豊かで多様な食文化。擂茶の奥深い香気から野姜花粽（やきょうかぞう）の山里の趣まで、客家の勤勉で地元の食材を活かす知恵が表現されています。",
     "city": "新竹"
   },
   {
@@ -14142,7 +13988,7 @@
     "region": "central",
     "link": "/ja/food/taiwan-pastry-culture",
     "lang": "ja",
-    "desc": "1877年、鹿港の玉珍齋の鳳眼糕から2026年、陳耀訓の拓元チケットシステムで30秒完売の紅土蛋黃酥まで、台湾の菓子150年の層を重ねた物語。その間に挟まれるのは、日治時代の一福堂の角型パイナップルケーキ革命、豐原の宝泉のオリーブ型蛋黃酥の実験、八卦山の麓270ヘクタールの在来種パイナップル契作、油皮包油酥（油でこを油で包む）の工藝の変異、そして百年の漢餅店と世界パンチャンピオンが同じ中秋の食卓に並ぶこと。",
+    "desc": "1877年、鹿港（ろこう）玉珍齋（ぎょくちんさい）の鳳眼糕（ほうがんこう）から、販売開始30秒で完売する陳耀訓（チェン・ヤオシュン）の紅土蛋黄酥（こうど・たんゆーす）まで。日本統治時代の「一福堂（いっぷくどう）」によるパイナップルケーキ革命や、豊原（ほうげん）宝泉（ほうせん）の実験的な卵黄酥、八卦山（はっかさん）麓での270ヘクタールに及ぶ契約栽培、そして伝統的な漢餅（かんぺい）と世界一のパン職人が同じ中秋節の食卓を囲む、台湾菓子150年の物語。",
     "city": "彰化"
   },
   {
@@ -15510,6 +15356,17 @@
     "city": "台中"
   },
   {
+    "title": "心理戦：金門の播音壁からAI認知作戦へのパラダイムシフト",
+    "lat": 24.453153,
+    "lng": 118.379871,
+    "category": "history",
+    "region": "islands",
+    "link": "/ja/history/psychological-warfare",
+    "lang": "ja",
+    "desc": "1960年代、金門の播音壁から鄧麗君が呼びかけ、「投誠食品」が空中投下された時代から、2026年のデジタル時代における情報浸透とAI認知操作へ。中台の心理戦は、物理的物資による誘引から、デジタル意味空間での攻防へと進化した。本稿は、台湾の対中歴史的心理戦の文脈と具体的物資リストを詳細に整理し、現在のAI工業化段階の課題と対比する。",
+    "city": "金門"
+  },
+  {
     "title": "清治時期",
     "lat": 24.084019,
     "lng": 120.536135,
@@ -15521,14 +15378,14 @@
     "city": "彰化"
   },
   {
-    "title": "台湾前途決議文：二文字の「目前」が二十七年を支えた",
+    "title": "台湾の未来決議文：二文字「目前」が27年間支え続けたもの",
     "lat": 22.62103,
     "lng": 120.296353,
     "category": "history",
     "region": "south",
     "link": "/ja/history/resolution-on-taiwans-future",
     "lang": "ja",
-    "desc": "1999年、林濁水は「国号中華民国」の前に「目前」という二文字を加えた。扁系はこれを快く思わなかった。二文字は独立派と中間有権者を同時に安心させ、2000年の初の政権交代への道を開いた。二十七年後、台湾の若者にとって「台湾はもともと独立している」は常識となっているが、その常識が曖昧に満ちた一つの文書から生まれたことを知らない。",
+    "desc": "1999年、林濁水氏が「国号中華民国」の前に加えた「目前」という二文字は、扁系（陳水扁派）を不満にさせました。この二文字は、独立派と中間層の有権者の双方をなだめ、2000年の初の政党交代への道を開きました。27年後、台湾の若者は「台湾は元々独立している」ことを常識としていますが、この常識が曖昧な文書に由来することを知りません。",
     "city": "高雄"
   },
   {
@@ -15628,6 +15485,17 @@
     "link": "/ja/history/taiwan-democratization-history",
     "lang": "ja",
     "desc": "1980年3月18日、高雄軍事法廷で、施明德は6万字に及ぶ答弁書を放棄し、一転して裁判官に死刑を求めた。同じ裁判で被告を弁護していた若手弁護士の陳水扁、謝長廷、蘇貞昌は、20年後にそろって総統または行政院長に就任した。見せしめのはずだった裁判が、思いがけず台湾の次世代を担う政治指導者たちを生み出したのである。",
+    "city": "高雄"
+  },
+  {
+    "title": "台湾民主の転換——権威主義が自ら掘った墓穴",
+    "lat": 22.634869,
+    "lng": 120.303082,
+    "category": "history",
+    "region": "south",
+    "link": "/ja/history/taiwan-democratization",
+    "lang": "ja",
+    "desc": "弾圧は常にさらなる抵抗者を生む。二二八事件から太陽花学運まで、ある島がいかにして独裁体制自らが、自らを葬る力を育て上げてきたのか。",
     "city": "高雄"
   },
   {
@@ -16280,14 +16148,14 @@
     "city": "台北"
   },
   {
-    "title": "大象體操：歌は聞こえるがボーカルがいない台湾の3人組",
+    "title": "大象體操：歌を歌わないのに音楽が聞こえる台湾のトリオ",
     "lat": 22.620013,
     "lng": 120.301476,
     "category": "music",
     "region": "south",
     "link": "/ja/music/elephant-gymnastics",
     "lang": "ja",
-    "desc": "高師大附中の熱音社と雄女熱音社出身の学生バンドから、Fuji RockのRed Marquee、Camp Flog Gnaw、ArcTangentへと舞台を広げ、大象體操は13年をかけてボーカルレスの台湾サウンドを世界に届けた。2024年に金曲奨評審団奨を受賞した後、長期活動休止を発表。同時に公開されたドキュメンタリー『夢境よりリアル』は、2023年の世界ツアー直前に解散の危機に直面していた様子を明かす。",
+    "desc": "高師大附中の合唱団と雄女の合唱団の学生楽団から、大象體操は13年間、ボーカルなしの台湾のサウンドを世界に届けました。2024年にゴールデンマイク賞の審査員賞を受賞した後、彼らは長期休止を発表しました。同時に公開されるドキュメンタリー『夢よりもリアル』は、2023年のツアー直前に瀕死の状態にあったことを明らかにしています。",
     "city": "高雄"
   },
   {
@@ -16413,14 +16281,14 @@
   },
   {
     "title": "台湾民歌運動",
-    "lat": 25.167443,
-    "lng": 121.432572,
+    "lat": 25.040572,
+    "lng": 121.559027,
     "category": "music",
     "region": "north",
     "link": "/ja/music/taiwan-campus-folk-song-movement",
     "lang": "ja",
-    "desc": "「自分の歌を歌おう」から華語音楽シーン全体の変革へ——1970年代、若者たちの文化革命",
-    "city": "新北"
+    "desc": "「自分の歌を歌う」から華語音楽界を変えるまで──1970年代の若者による文化革命",
+    "city": "台北"
   },
   {
     "title": "台湾電子音楽とパーティー文化：地下のRaveから国際ステージへ",
@@ -16720,15 +16588,15 @@
     "city": "南投"
   },
   {
-    "title": "台湾アトラスガ",
-    "lat": 24.55969,
-    "lng": 120.816683,
+    "title": "台湾皇蛾",
+    "lat": 25.028021,
+    "lng": 121.56971,
     "category": "nature",
-    "region": "central",
+    "region": "north",
     "link": "/ja/nature/taiwan-atlas-moth",
     "lang": "ja",
-    "desc": "翅の開長は25〜30センチメートルに達し、世界で最も翅の開長が長いガの一種。翅を広げると開いた本のようだが、成虫は一切食べ物を口にせず、ただ一度飛翔するために生きる",
-    "city": "苗栗"
+    "desc": "翅展は25〜30センチに達し、世界最長翅展の蛾の一種。翅を広げると一冊の開いた本のように見える——一生食べることなく、ただ一度飛ぶためだけに生きる",
+    "city": "台北"
   },
   {
     "title": "台湾カササギ：都市のジャングルに生きる青い家族、そして百年越えの遺伝子防衛戦",
@@ -16907,25 +16775,25 @@
     "city": "新北"
   },
   {
-    "title": "台湾の步道文化と市民による守護",
-    "lat": 25.01762,
-    "lng": 121.465071,
+    "title": "台湾の歩道文化と公民守護",
+    "lat": 25.033356,
+    "lng": 121.570194,
     "category": "nature",
     "region": "north",
     "link": "/ja/nature/trail-culture-and-civic-stewardship",
     "lang": "ja",
-    "desc": "千里步道協会からiTrailプラットフォームまで、台湾独自の步道守護文化と市民科学の精神を探る",
-    "city": "新北"
+    "desc": "千里歩道協会からiTrailプラットフォームまで：台湾独自の歩道守護文化と公民科学の精神を探る",
+    "city": "台北"
   },
   {
-    "title": "風雨は予測できても、運命は予測できません：台湾と台風の四百年",
+    "title": "天候は予測できても運命は予測できない：台湾と台風の四百年",
     "lat": 23.502145,
     "lng": 120.706457,
     "category": "nature",
     "region": "south",
     "link": "/ja/nature/typhoons-in-taiwan",
     "lang": "ja",
-    "desc": "2009 年、モーラコット台風のあの明け方、71 歳の羅潘春美は二階のバルコニーに立ち、献肚山が崩れ落ち、小林村の 462 人の親族をのみ込むのを見ていました。十五年後、台湾は六組の AI モデルによって、24 時間先の台風進路予報誤差を 172 キロから 57 キロへ縮めました。しかし、その 57 キロの中で誰が風雨の中を出勤し、誰が通知を受け取れないのかは、予測できません。",
+    "desc": "2009年のモラク事件を起点に、AIによる台風経路予測精度の進化と、そこに潜む人間の営みや社会構造の課題を考察します。",
     "city": "嘉義"
   },
   {
@@ -17281,6 +17149,17 @@
     "city": "宜蘭"
   },
   {
+    "title": "鄭麗文（てい・れいぶん）",
+    "lat": 25.031199,
+    "lng": 121.561225,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/cheng-li-wun",
+    "lang": "ja",
+    "desc": "1988年に台湾大学の門前で台湾独立のために断食した学生運動家から、2026年に北京で習近平氏に対し「両岸の同胞は皆中国人である」と語る国民党主席へ。その軌跡には何があったのか？",
+    "city": "台北"
+  },
+  {
     "title": "紀政：10つの世界記録を打ち立て、50年後も台湾の正名のために走り続ける",
     "lat": 24.801099,
     "lng": 120.970982,
@@ -17311,6 +17190,17 @@
     "link": "/ja/people/chi-po-lin",
     "lang": "ja",
     "desc": "公務員の給料ではヘリコプターを養えない男が、住宅を抵当に入れたお金で台湾ドキュメンタリー史上最も成功した作品をどのように撮影したか",
+    "city": "台北"
+  },
+  {
+    "title": "ジャ・ヨンジェ：芸能人の社会資本を繰り返し公共動員力に転換させた台湾の実験",
+    "lat": 25.033662,
+    "lng": 121.563437,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/chia-yung-chieh",
+    "lang": "ja",
+    "desc": "2000年に華視の夜8時枠ドラマでデビューし、2021年には2日間でNT$68.04 millionを募って前線の病院のために252台のHFNCを調達し、2024年には台北101の第6代董事長に就任し、2026年1月25日にはアレックス・オノルドが徒手で508メートルの台北101を単独登頂する様子を全世界に生中継した——ジャ・ヨンジェが歩んできたのは、台湾に前例のない道だ：芸能人の社会資本を何度も異分野で公共動員力として実現させ、一歩踏み出すたびに同等の疑念を伴いながら、さらに大きな動員で応えてきた。",
     "city": "台北"
   },
   {
@@ -17620,6 +17510,17 @@
     "lang": "ja",
     "desc": "史上初の解職された直轄市長から、4年後に立法院長に就任。これはどのような政治的軌跡なのか？",
     "city": "高雄"
+  },
+  {
+    "title": "田馥甄：S.H.Eが千万枚のセールスを記録した後、アイドル体制を一つずつ捨て去った歌手",
+    "lat": 24.810618,
+    "lng": 120.966594,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/hebe-tien-singer",
+    "lang": "ja",
+    "desc": "2010年9月、田馥甄が初のソロアルバム『To Hebe』をリリースした際、ポスターのコピーには「デビュー10年のスーパールーキー」と書かれていました。その年、S.H.Eはすでに1000万枚以上のレコードを売り上げていました。11年後、彼女は第32回金曲賞のステージで母親に向かって「ママ、水道代を無駄にしなかったわ、金曲賞を取ったのよ」と叫びました。新竹の客家の小さな町から台北アリーナのステージまで、華研国際音楽によって育てられたこのアイドルは25年をかけて、広告出演、バラエティ番組、中国市場、「文青歌后（文学青年の歌姫）」というレッテルを一つずつ自ら手放してきました。",
+    "city": "新竹"
   },
   {
     "title": "郭泓志：台湾初のMLBホームランとオールスターグーム、肘が何度も止めようとしても投げ続けた左腕",
@@ -18315,14 +18216,14 @@
     "city": "花蓮"
   },
   {
-    "title": "白先勇：『台北人』1971年から青春版『牡丹亭』20年ツアーまで",
+    "title": "白先勇：『台北人』1971年、青春版『牡丹亭』20年巡業まで",
     "lat": 25.032482,
     "lng": 121.562791,
     "category": "people",
     "region": "north",
     "link": "/ja/people/pai-hsien-yung-literary-master",
     "lang": "ja",
-    "desc": "1937年広西チワン族自治区桂林で生まれ、白崇禧の子である。1956年台湾大学外国語文学科に入学し、王文興らとともに『現代文学』を創刊。1971年『台北人』14編の短編小説集を出版。1983年『孽子』を出版。2003年青春版『牡丹亭』の企画を開始し、2004年4月に初演、2024年に20周年を迎えた。2003年に国家文芸賞を受賞。",
+    "desc": "1937年に広西桂林で生まれ、国民党の高級将官である白崇禧（はく しゅうき）の子息。1956年に台湾大学外国語学部に入学し、『現代文學』を創刊。1971年には『台北人』を発表し、1983年には『孽子』を刊行。2003年に青春版『牡丹亭』を始動させ、2024年に20周年を迎えます。",
     "city": "台北"
   },
   {
@@ -18403,14 +18304,14 @@
     "city": "台北"
   },
   {
-    "title": "三毛：逃避を自由に書き換えた人",
+    "title": "三毛：逃避を自由として書いた人",
     "lat": 25.026169,
     "lng": 121.557405,
     "category": "people",
     "region": "north",
     "link": "/ja/people/san-mao",
     "lang": "ja",
-    "desc": "本名は陳平。1943年に重慶で生まれ、1948年に家族とともに台湾に移住した。中学二年のとき、教師から公然と辱めを受けて退学し、七年間の自閉生活を経て再び執筆を始めた。1973年、ホセとスペイン領サハラで結婚し、散文が爆発的にヒット。戒厳令時代の台湾人が遠い世界を想像する窓となった。1979年、ホセがダイビング事故で亡くなった。1990年、脚本を手がけた映画『滾滾紅塵（こんこんじょうじん）』が金馬賞の八部門を受賞した。1991年1月4日、台北栄民総病院で自ら命を絶った。享年四十七歳。",
+    "desc": "本名は陳平（ちん・へい／チェン・ピン）、1943年重慶生まれ、1948年に家族とともに台湾へ移住。中学時代に教師から公開的に辱めを受け中退、7年間の引きこもりを経て再び執筆を始める。1973年、荷西（ホセ）とスペイン領サハラで結婚、エッセイが大ヒットし、戒厳令下の台湾人にとって遠方を想像する窓口となる。1979年、荷西がダイビング事故で死去。1990年、唯一の脚本作品『滾滾紅塵（紅塵の恋）』で金馬奨8部門受賞。1991年1月4日、台北栄民総医院で自死、享年47歳。",
     "city": "台北"
   },
   {
@@ -19052,6 +18953,17 @@
     "city": "台北"
   },
   {
+    "title": "2026年 鄭習会：中台指導者が10年ぶりに再会した10分間",
+    "lat": 25.04,
+    "lng": 121.55854,
+    "category": "society",
+    "region": "north",
+    "link": "/ja/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion",
+    "lang": "ja",
+    "desc": "2026年4月10日、鄭麗文（てい・れいぶん／ジェン・リーウェン）は北京で習近平（しゅう・きんぺい／シー・ジンピン）と会談し、過去10年間で初めて中国共産党総書記に会見した中華民国の主要政党指導者となった。会談はわずか10分間。その一方で、台湾海峡には100隻の解放軍艦船が展開していた。この「平和への旅」の真の目的とは何か。",
+    "city": "台北"
+  },
+  {
     "title": "中央研究院：中国の研究のために生まれた機関が、いかにしてこの島に根付いたか",
     "lat": 25.038242,
     "lng": 121.572393,
@@ -19107,6 +19019,17 @@
     "city": "南投"
   },
   {
+    "title": "チャイニーズタイペイ：台湾の出場を可能にするが、自らの名を刻むことのできない入場券",
+    "lat": 25.025508,
+    "lng": 121.563163,
+    "category": "society",
+    "region": "north",
+    "link": "/ja/society/chinese-taipei",
+    "lang": "ja",
+    "desc": "1960年のローマオリンピックにおいて、台湾代表団が「UNDER PROTEST」と書かれた白い横断幕を掲げて開会式に入場したことは、オリンピック史上唯一の開会式における抗議活動でした。蒋経国によるIOCが提示した「台湾」という名称の拒否、徐亨によるIOCへの勝訴、ローザンヌ合意によって勝ち取った梅花旗（プラムの花の旗）と国歌、そして2018年に選手たちが自らの投票で正名化を否決したことまで。この名称は40年間変わっていません。しかし、表彰台に立ち進退窮んでいるのは、名前を巡って争う政治家ではなく、この名称があって初めて出場できる選手たちなのです。",
+    "city": "台北"
+  },
+  {
     "title": "認知作戰：台湾情報戦場のAI工業化段階",
     "lat": 25.030475,
     "lng": 121.559553,
@@ -19127,6 +19050,17 @@
     "lang": "ja",
     "desc": "1981 年 6 月、『天下』という経済誌が戒厳令下の孤島で創刊され、初刷 1 万部は 2 日で完売しました。発起人は経済学者の高希均で、魂を吹き込んだのは、かつて United Press International、ニューヨーク・タイムズの記者だった殷允芃でした。四十年後、それは台湾で最も信頼されるメディアの一つとなり、二千大、50 大、幸福城市の「成功の定義者」にもなりました。その信頼性の源泉と、ランキングの権力の源泉は、同じ距離にあります。",
     "city": "台北"
+  },
+  {
+    "title": "複雑な生活フェスティバル：二人の医学生による「未成功者フォーラム」と、自分は十分だと言えない世代の5年間",
+    "lat": 24.154895,
+    "lng": 120.666055,
+    "category": "society",
+    "region": "central",
+    "link": "/ja/society/complex-life-festival",
+    "lang": "ja",
+    "desc": "2016年5月、許皓甯（Hsu Hao-ning）はFacebookで「生活を疲れさせている」88年生まれ（1999年前後）の世代をタグ付けし、クラスメートの黃豆泥（Huang Dou Ni）と共に第1回「未成功者フォーラム」を開催しました。一人は中医師、もう一人は後にハーバードへ進んだ西医。彼らは前世代が商業主義に取り込まれた「シンプルさ」を「複雑さ」へと書き換え、「成長については語ってもよいが、成功については語ってはならない」というルールを設けました。5年後、魂は台中に留まり書店を開き、議員選出に敗れましたが、助手はそれを振り返ってこう呼びます。「皓甯の代表作であり、ここに封印されたもの」と。未成功とは謙遜の言葉なのか、それとも、常にあと一歩足りないと感じ続けてしまう世代の自己要求なのでしょうか。",
+    "city": "台中"
   },
   {
     "title": "デリバリー特別法：法律は床を張った。床から上は、まだアルゴリズムのものだ",
@@ -19215,6 +19149,17 @@
     "lang": "ja",
     "desc": "1994年、黄武雄が提唱した庶民的地域コミュニティカレッジの構想。1998年、台北市文山区で台湾初の地域コミュニティカレッジが開校。この教育運動が成人学習から地方公共参加、そして制度化へとどのように発展したのか。",
     "city": "台北"
+  },
+  {
+    "title": "「私は〇〇人」：地元住民を装うファンページの裏側は、内湖の企業と消し忘れたAI指令だった",
+    "lat": 22.629147,
+    "lng": 120.295158,
+    "category": "society",
+    "region": "south",
+    "link": "/ja/society/i-am-from",
+    "lang": "ja",
+    "desc": "2026年2月、「私は台北人」と名乗る地元系ファンページに残された、消し忘れたAI指令：「敏感な言葉を除去し、台湾の現地口語を強化せよ」。この手がかりを辿ると、内湖の一角にある林家の関連企業に突き当たる。彼らは中天やCTWANTのニュースを「地元住民」の口調に書き換え、各都市の住民を装ったページで拡散していた。偽ニュースは作らない、真実のニュースを転載する。問題は、その産地と資金流が追えないことだ。",
+    "city": "高雄"
   },
   {
     "title": "台湾の全年齢共生旅行と生活文化：人情味が最強のバリアフリー設備となる時",
@@ -19635,14 +19580,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾スポーツ発展とオリンピック：「チャイニーズ・タイペイ」と呼ばれるチーム",
+    "title": "台湾のスポーツ発展とオリンピック：「チャイニーズ・タイペイ」と呼ばれるチーム",
     "lat": 25.036151,
     "lng": 121.565541,
     "category": "society",
     "region": "north",
     "link": "/ja/society/taiwan-sports-olympics",
     "lang": "ja",
-    "desc": "1976年のモントリオールで、カナダは「Taiwan」への改名を求め、蔣経国は国辱とみなして出場を辞退しました。2024年のパリで、麟洋ペアが男子ダブルス連覇を果たした夜、会場全体が梅花旗に合わせて国旗歌の歌詞を高らかに歌いました。入場できなかった「台湾」から、世界が Taiwan と呼び始めるまで、「中華台北」と呼ばれるこの帽子は、どの世代の金メダルもその重みをかぶってきました。",
+    "desc": "1976年モントリオール大会では、カナダが『Taiwan』への改名を要求し、蔣経国が国家的屈辱としてボイコットしました。2024年パリ大会では、李洋・王齊麟組（麟洋ペア）が男子ダブルスで連覇を果たした夜、会場全体が梅花旗に合わせて国旗歌を大合唱しました——『台湾』という名称で出場できなかった時代から、世界中が『Taiwan』と呼ぶようになるまで、この『チャイニーズ・タイペイ』という帽子は、歴代の金メダルの重みを背負ってきました。",
     "city": "台北"
   },
   {
@@ -19657,15 +19602,15 @@
     "city": "台北"
   },
   {
-    "title": "台湾の月老マップ：相手を探す前にまず寺院を選べ、この島には少なくとも10人の分業が異なる月老がいる",
-    "lat": 25.063274,
-    "lng": 121.504951,
+    "title": "台湾の月老マップ：相手を探す前にまずお寺を選べ、この島には少なくとも10人の役割分担された月老がいます",
+    "lat": 24.058314,
+    "lng": 120.429966,
     "category": "society",
-    "region": "north",
+    "region": "central",
     "link": "/ja/society/taiwan-yuelao-matchmaker-map",
     "lang": "ja",
-    "desc": "台湾で良縁を祈願する際、多くの人が知らない前提があります：月老は一柱だけではありません。台南の四大月老はそれぞれ良縁祈願、安定祈願、悪縁切り、復縁祈願を分担し、台中の楽成宮は1753年創建の古廟として復縁に霊験あらたかで知られ、新北の威明堂の児児神は同性の良縁を専門に扱い、霞海城隍廟、龍山寺、鹿港天后宮もそれぞれ専門分野を持っています。信者が「理想の条件」をより詳細に書けば書くほど良く、空欄にすると月老に抜け穴を突かれてしまうからです。",
-    "city": "台北"
+    "desc": "台湾で良縁を求めるには、多くの人が知らない前提があります：月老は一柱だけではありません。台南の四大月老はそれぞれ良縁祈願、安定祈願、悪縁切り、復縁祈願を担当し、台中の楽成宮は1753年創建の古寺として復縁で霊験あらたかで知られ、新北の威明堂の兔兒神は同性の縁結びを専門としています。霞海城隍廟、龍山寺、鹿港天后宮もそれぞれ専門分野を持っています。信者が「理想の条件」をより詳細に書けば書くほど良いとされ、空欄にすると月老に抜け穴を突かれてしまうからです。",
+    "city": "彰化"
   },
   {
     "title": "台湾にはどんな動物園があるか：最古は木柵になく、最大も単なる動物園ではない",
@@ -19712,14 +19657,14 @@
     "city": "彰化"
   },
   {
-    "title": "台風休暇：誰の休みで、誰の勤務か",
+    "title": "台風の休日：誰のための休みか、誰のための勤務か",
     "lat": 24.087308,
     "lng": 120.532541,
     "category": "society",
     "region": "central",
     "link": "/ja/society/typhoon-day",
     "lang": "ja",
-    "desc": "2001 年、彰化のある教師の殉職が台湾の台風休暇制度を生みました。20 年余り後も、労働者の 81% は風雨の中で通常どおり出勤し、37.7% は賃金をまったく受け取れません。毎年夏、一枚の出勤停止公告は台湾社会の階級線に沿って正確に切り分けます。ホワイトカラーは家でスマートフォンを見ている一方、卸売・小売、農漁牧業の労働者は同じ台風の中で外へ出続けています。",
+    "desc": "2001年に彰化で起きたある教師の殉職が台湾の台風の休日制度を生み出しました。20年以上経った今も、労働者の81%は風雨の中通常通りに出勤し、37.7%は全く賃金を受け取れていません。毎年夏、市町村長が休業を宣言する瞬間、この紙切れは台湾社会の階級線に正確に切り込みます――ホワイトカラーは自宅でスマートフォンを操作しますが、卸売・小売業や農業・漁業に従事する労働者は同じ台風の中で出勤し続けます。",
     "city": "彰化"
   },
   {
@@ -19732,6 +19677,17 @@
     "lang": "ja",
     "desc": "家庭主婦たちが毎日貯めた五毛銭が、どのようにして医療、教育、国際的な災害支援のネットワークを築き上げたのか？慈濟の物語は、台湾における宗教的信念が公共的な行動へと転化した事例でもあります。",
     "city": "花蓮"
+  },
+  {
+    "title": "統戦団：潤物細無声の認知博弈、格安旅行からインフルエンサー流量へ",
+    "lat": 25.035073,
+    "lng": 121.567724,
+    "category": "society",
+    "region": "north",
+    "link": "/ja/society/united-front-tour-groups",
+    "lang": "ja",
+    "desc": "2024年6月、波特王が中共による台湾インフルエンサー10組招待計画を暴露し、台湾社会に「統戦団」新世代の操作への深い不安を引き起こした。格安の現地招待から百万フォロワー創作者の中国渡航まで、この両岸認知博弈の核心は台湾人に中国が良いと信じさせることではなく、台湾を自ら陣脚を乱させることにある。",
+    "city": "台北"
   },
   {
     "title": "台湾の義消：勤務後に制服を身に纏い、地方に第二の消防隊をもたらす",
@@ -19776,6 +19732,17 @@
     "lang": "ja",
     "desc": "大学生たちが中正紀念堂で七日間座り込み、四十年以上先送りされてきた政治体制をついに動かし始めました。野百合学生運動が本当に変えたのは、国是会議だけではありません。台湾の人々が初めて、学生が憲政改革の時間表を直接書き換えられるのだとはっきり目にしたことでした。 ",
     "city": "台北"
+  },
+  {
+    "title": "雜學校：積蓄を使い果たして開いた無料展、11年後に副大統領が開幕",
+    "lat": 23.472902,
+    "lng": 120.45137,
+    "category": "society",
+    "region": "south",
+    "link": "/ja/society/za-share",
+    "lang": "ja",
+    "desc": "2015年、華山1914での2日間、蘇仰志がデザイン会社の150万元の黒字を投じて「不太乖教育節」を開催し、最終的に700万元の赤字を出した。11年後、雜學校は圓山花博に進出しIDECと共催、ブランドを「EDit」に刷新して桃園会展中心に進駐。無料の反骨展示からアジア最大の教育博覧会へと成長した台湾のケースにおいて、最も興味深いのはその規模拡大ではなく、大きくなった後も生き残った「不太乖」が変質していないかという点である。",
+    "city": "嘉義"
   },
   {
     "title": "動物園と展演動物の倫理",
@@ -19844,14 +19811,14 @@
     "city": "高雄"
   },
   {
-    "title": "COMPUTEX：三大国際コンピュータ展のうち二つが終了、残った一つが台北で成長し続ける理由",
+    "title": "COMPUTEX：3大国際コンピュータ見本市のうち2つが閉幕し、残った1つが台北で成長を続けている",
     "lat": 25.03024,
     "lng": 121.568878,
     "category": "technology",
     "region": "north",
     "link": "/ja/technology/computex",
     "lang": "ja",
-    "desc": "2026年6月、ジェンスン・フアンが台北のステージで「帰ってこられて嬉しい」と語り、背景には肉粽と豚足の店名が。同じ週に3人のCEOが基調講演を行い、台中の上銀が減速機を人型ロボットの関節に初搭載。ドイツのCeBIT、米国のCOMDEXが幕を閉じた中、この45歳の台北国際コンピュータ展が拡大し続けるのは、世界のAIサーバー約9割が実際に組み立てられている島で開催されているからだ。",
+    "desc": "2026年6月、ジェンスン・フアンが台北のステージに立ち、「家に帰ってこれて本当に嬉しい」と語り、背景には肉粽（バーワン）と豚足がプリントされていた。同じ週、3人のCEOがここで相次いで講演を行い、台中のハイウィンが初めて減速機を人型ロボットの関節に搭載するクロスオーバーを実現した。ドイツのCeBIT、米国のCOMDEXがいずれも終了した中、45年目を迎えた台北国際コンピュータ見本市は規模を拡大し続けている。なぜなら、この見本市は世界のAIサーバーの約9割が実際に組み立てられている島で開催されているからだ。",
     "city": "台北"
   },
   {
@@ -19897,17 +19864,6 @@
     "lang": "ja",
     "desc": "2015年9月8日の朝、台湾茶にちなんで命名されたフォント「金萱」がflyingVに登場し、76分で150万元の目標を突破。最終的に7,667人が2,593万元を集資した。全国民が毎日読むその文字を、かつての市場は一社の造字会社も養えないほど小さかった。華康の細明体、太原路の鉛字、仏画から入った林霞——これは台湾が、文字を作る人たちを日の当たる場所へ連れ出した物語だ。",
     "city": "台北"
-  },
-  {
-    "title": "Mini Taiwan Pulse：キュレーションの眼で台湾を呼吸する地図へ描く",
-    "lat": 24.996883,
-    "lng": 121.294187,
-    "category": "technology",
-    "region": "north",
-    "link": "/ja/technology/mini-taiwan-pulse-civic-tech",
-    "lang": "ja",
-    "desc": "2026年、データ分析家のMiguは台湾の散在するオープンデータを、飛行機、船舶、列車、バス、ゴミ収集車として重ね合わせ、呼吸する地図へと変えた。データ収集の重労働はAIに委ねるが、どのレイヤーを重ねるか、何色を使うか、どのレイヤーを光らせるかは、都市計画の訓練を受けたキュレーションの眼にかかっている。",
-    "city": "桃園"
   },
   {
     "title": "台湾におけるNVIDIA：世界で最も高価な企業は、一つのチップも自社で作っていません",
@@ -20691,6 +20647,17 @@
     "city": "台中"
   },
   {
+    "title": "심전: 금문 방송벽에서 AI 인지작전으로의 패러다임 전환",
+    "lat": 24.44173,
+    "lng": 118.384199,
+    "category": "history",
+    "region": "islands",
+    "link": "/ko/history/psychological-warfare",
+    "lang": "ko",
+    "desc": "1960년대 금문 방송벽의 덩리쥔(鄧麗君) 호소와 공중 투하 '투성 식품'에서 2026년 디지털 시대의 정보 침투와 AI 인지 조작까지, 양안 심전은 물자 유인에서 디지털 의미 공격·방어로 진화했다. 본문은 타이완의 대중 역사적 심전 맥락과 구체적 물자 목록을 상세히 정리하고, 현재 AI 산업화 단계의 과제와 대비한다.",
+    "city": "金門"
+  },
+  {
     "title": "타이완주청: 한 행정청사가 도시의 질서를 어떻게 배열하고 시민에 의해 재사용되었는가",
     "lat": 24.148997,
     "lng": 120.668938,
@@ -20865,6 +20832,17 @@
     "lang": "ko",
     "desc": "1935년 2월 13일 이란(宜蘭) 루동(羅東) 출생. 〈바다를 보는 날〉 1967년, 〈아들의 대형인형〉 1969년 발표, 대만 향토문학의 핵심인 소인물 서술을 대표. 1977년 향토문학 논쟁. 우삼련(吳三連) 문예상, 국가문예상 수상. 차남 황국준(黃國峻, 작가) 2003년 6월 20일 자살. 후셰셴(侯孝賢) 1983년 작품을 영화로 각색. 2026년 현재 생존.",
     "city": "宜蘭"
+  },
+  {
+    "title": "황산료: 세계 챔피언의 옷은 아무도 보지 않아, 그는 '한 마디 위로'를 팔기 시작했다",
+    "lat": 24.451535,
+    "lng": 118.371802,
+    "category": "people",
+    "region": "islands",
+    "link": "/ko/people/huang-shan-liao",
+    "lang": "ko",
+    "desc": "2014년, 금문 작은 먹거리 가게 아들이 '금문 1969'라는 군복 디자인을 입고 런던 졸업 패션 위크 런웨이에 올라 국제 1위를 차지했다. 그러나 대만으로 돌아와 구직 활동을 하자 인사 담당자가 이력서를 가짜로 여겼는데, '아무런 보도도 찾을 수 없다'는 이유였다. 그는 분개해 직접 미디어를 만들었고, 이후 한 줄에 28자를 넘지 않는 치유의 짧은 문장을 쓰기 시작해 누적 30만 부 이상 팔렸다. 전쟁 역사를 담은 옷장은 아무도 보지 않았고, 그는 '한 마디 위로'를 팔기로 했다. 대만의 주의력 시장이 사는 것은 슬쩍 한눈에 다 읽히는 문장이지, 만들어진 물건이 아니다.",
+    "city": "金門"
   },
   {
     "title": "랴오훙기(廖鴻基): 포경선에서 난류 표류까지, 생명으로 타이완 해역을 재는 해양 작가",
@@ -21098,17 +21076,6 @@
     "city": "嘉義"
   },
   {
-    "title": "Dalongdong: o incenso do Baoan Temple, o sino do Templo de Confúcio, o céu azul e sol branco de Yuanshan — três eras de fé em Taipé",
-    "lat": 25.037026,
-    "lng": 121.56009,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/dalongdong",
-    "lang": "zh-TW",
-    "desc": "Do monte de conchas de Yuanshan há 5.300 anos à construção em palha do Baoan Temple por imigrantes de Tong''an em 1742, do \"a cada cinco passos um xiucai, a cada dez passos um juren\" de Chen Weiying em 1859 à reconstrução em 1925 do Templo de Confúcio demolido pelos japoneses por gentry local, da destruição do Santuário de Taiwan por um avião em 1944 à construção em 1973 por Yang Cho-cheng do Grand Hotel de 14 andares em estilo palaciano chinês no mesmo local. Três espaços de fé alinham-se no eixo de 1,5 km de Dalongdong a Yuanshan, mas nenhum é a versão do guia turístico: o Baoan Temple é o primeiro Prêmio de Patrimônio Cultural da UNESCO Ásia-Pacífico de Taiwan, restaurado por Liao Wu-zhi em 1995 recusando subsídio governamental e gastando 260 milhões do próprio bolso; o Templo de Confúcio existe graças à doação de mais de 3.000 ping de terra pela família Chen Yueji e por Koo Hsien-jung para que Confúcio tivesse um lar; o Grand Hotel com suas telhas amarelas e colunas vermelhas recebeu 111 chefes de Estado. Os tios e tias praticando tai chi na Dalong Street pisam na fatia de tempo mais concentrada de Taipé.",
-    "city": "台北"
-  },
-  {
     "title": "Rua Guling: A Rua dos Livros Deixada pelos Japoneses, os Jovens de Edward Yang, o Palácio do Governo Nacionalista",
     "lat": 25.036727,
     "lng": 121.56983,
@@ -21241,17 +21208,6 @@
     "city": "桃園"
   },
   {
-    "title": "Treasure Hill: o assentamento irregular que esteve sob ameaça de demolição por 30 anos e se tornou a vila de arte mais descolada de Taipé",
-    "lat": 25.031682,
-    "lng": 121.557483,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/treasure-hill",
-    "lang": "zh-TW",
-    "desc": "Em julho de 1980, a prefeitura de Taipé designou esta colina como o \"Parque Planejado nº 297\", colocando mais de 200 domicílios irregulares em \"estado de espera pela demolição\". Demolições reais ocorreram em 1993, 1994 e 2001, mas após o incidente de Kangleli em 1997, a prefeitura mudou para \"preservação no local\". A Vila Internacional de Arte abriu em 2 de outubro de 2010. O veredito de demolição de 30 anos transformou-se em um assentamento de \"coexistência arte-moradia\" com mais de 500 artistas de mais de 40 países — um templo Guanyin de 1791, um grupo de construtores autônomos dos anos 1960, mais de 20 famílias indígenas remanescentes e criadores internacionais em residência que se revezam a cada três meses, todos vivendo em uma pequena colina de 46 metros de altura.",
-    "city": "台北"
-  },
-  {
     "title": "Yehliu: Na ponta do Cabo do Diabo, a coroação e o encerramento da 'Rainha' que corre contra o tempo",
     "lat": 25.203919,
     "lng": 121.685047,
@@ -21360,17 +21316,6 @@
     "lang": "zh-TW",
     "desc": "Ele conquistou o Império do Japão com a sua pintura a óleo, mas foi fuzilado diante da estação de Chiayi — e o que o tornou conhecido costuma ser a morte, não as telas.",
     "city": "新北"
-  },
-  {
-    "title": "Feriados nacionais: a história de Taiwan escrita em \"dias sem trabalho\"",
-    "lat": 25.026078,
-    "lng": 121.564797,
-    "category": "society",
-    "region": "north",
-    "link": "/society/national-holidays",
-    "lang": "zh-TW",
-    "desc": "O primeiro feriado nacional legal da República da China não foi o 10 de Outubro nem o Ano Novo, mas o 228 em 1997. Do \"Dia da Vergonha Política\" de 17 de Junho na era japonesa à batalha legislativa de 2025 entre \"Retrocesso vs Fim da Guerra\", cada data a vermelho no calendário é a resposta de um regime sobre o que Taiwan deve comemorar e a quem pertence — mas o descanso nunca é apenas uma questão nacional, é também sobre se os trabalhadores devem ou não descansar.",
-    "city": "台北"
   },
   {
     "title": "Habitação nacional e justiça habitacional: as casas baratas do governo acabaram por alimentar a escada rolante de ativos de quem?",
@@ -21494,28 +21439,6 @@
     "city": "桃園"
   },
   {
-    "title": "Сісінь-Сыньвань: жилой массив военного завода, ныне культурный парк у Тайбэя 101",
-    "lat": 25.030925,
-    "lng": 121.569753,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/44-south-village",
-    "lang": "zh-TW",
-    "desc": "В конце ноября 1948 года машины сорокового четвёртого военного завода из Китая (Циндао) были загружены на судно «Тайко» и доставлены в Кэлун. В декабре прибывшие рабочие и их семьи заселились в бывшие японские склады в Сянгяксине (Три Цзян Ли). Говоривший на китайском диалекте язык эхом отражался в пустых помещениях. На следующем году они сами построили жилые корпуса на юге завода — первый военный жилой массив, созданный правительством Китайской Республики на Тайване. Полковники жили в Западной деревне, лейтенанты — в Восточной, а простые техники без военного звания — в Южной деревне. В 1980 году завод переехал в Сычжэнь, переименован в 206-й завод, Западная деревня снесена и превращена в жилой комплекс Чжунчао, Восточная деревня эвакуирована в жилой комплекс Чжунчжэнь в парке Юньшэнь. Осталась только Южная деревня, потому что жители — техники — не подпадали под закон об урегулировании военных жилых массивов Министерства обороны. В 1998 году все жители переехали в новый город Шэньмэй, в 1999 году пожар уничтожил часть зданий, в 2001 году при сохранении 4 зданий было решение о сохранении, а 25 октября 2003 года открылся «Гражданский центр Синьи — парк культуры военных жилых массивов» — напротив строящегося Тайбэя 101.",
-    "city": "台北"
-  },
-  {
-    "title": "Банка: самое оживленное место Тайпея в эпоху Цин, теперь — район с самым высоким средним возрастом в Тайпэе",
-    "lat": 25.038517,
-    "lng": 121.571762,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/bangka",
-    "lang": "zh-TW",
-    "desc": "Храм Луншаньсы в Банке, построенный в 1738 году за средства трёх округов Цюаньчжоу, в 2026 году исполняется 288 лет — на 137 лет раньше основания Тайбэйьской префектуры Цинской династией. В 1853 году вооруженный конфликт «Динся цзяопянь» заставил жителей Тунганя переселиться в Дадаочэн, заложив основу двухвековой раздробленности Северного Тайваня. После японского переименования в Маньхуа, образования округа в 1990 году и съёмки фильма «Маньхуа» режисёром Ню Чэнцзэ в 2010 году, индекс старения сейчас составляет 320,78% — самый высокий в городе. В этой старейшей улице Тайпэя, в шесть утра, всё ещё горит первая палочка благовоний на площади перед храмом.",
-    "city": "台北"
-  },
-  {
     "title": "Город Цзяи: назван самим императором — и всё равно самый незаметный город провинциального подчинения",
     "lat": 23.479173,
     "lng": 120.453605,
@@ -21560,17 +21483,6 @@
     "city": "台北"
   },
   {
-    "title": "Хсиньчжу: от бамбуковой крепости Чучьань 1733 года до колыбели ТСМК 1980 года",
-    "lat": 24.801743,
-    "lng": 120.961363,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/hsinchu-city",
-    "lang": "zh-TW",
-    "desc": "В 1733 году (11-й год Юнчжэня) туньчжи Даньшуй Сюй Чжиминь посадил камышовый бамбук по периметру, очертив круглую земляную крепость длиной 1408 метров. В 1829 году завершилось строительство кирпично-каменного города, и восточные ворота Инси до сих пор стоят у рва. Через 247 лет, 15 декабря 1980 года, Цзян Цзинго в 5 километрах от Инсы перерезал красную ленту на первом в Тайване научном парке. С 1953 по 1974 год 148 человек из эскадрильи «Чёрные летучие мыши» взлетали с этой базы в «Ветряном городе» на разведку материкового Китая и не возвращались. Город областного подчинения с 450 тысячами жителей удерживает линию холодной войны, старейший ханский город на севере, два ведущих университета и точку отсчёта 90 % передовых полупроводников мира. Название «Ветряной город» звучит поэтично, но вся промышленность этого города связана с ветром.",
-    "city": "新竹"
-  },
-  {
     "title": "Гаосун: В тот год, когда Гаосун стал прямым муниципалитетом (1979), в тайпейской тюрьме сидели восемь человек из Гаосун",
     "lat": 22.621363,
     "lng": 120.304719,
@@ -21593,17 +21505,6 @@
     "city": "金門"
   },
   {
-    "title": "Ляньцзян: округ, наиболее удалённый от Тайваня, и округ, ближайший к Холодной войне",
-    "lat": 26.159067,
-    "lng": 119.946041,
-    "category": "geography",
-    "region": "islands",
-    "link": "/geography/lienchiang-county",
-    "lang": "zh-TW",
-    "desc": "С вершины Наньгань Фучжоу видно всего в 16 километрах. Тайбэй — в 200 километрах, административный центр Ляньцзяна находится на стороне коммунистической армии. В 1617 году Шэнь Юйжун захватил 69 вако у подножия горы Дуньцзюй. В 1956 году нацармия превратила эти 5 островов в зону боевого управления. В 1992 году Цзиньмэнь и Мацзы отменили военное положение на 5 лет позже Тайваня. Сегодня здесь живут 13 646 человек, уровень потери диалекта Мацзы — 94%, единственный в стране референдум об азартных играх, прошедший в 2012 году, до сих пор не имеет продолжения. «Синие слезы» привлекают 200 тысяч туристов в год, но местные помнят о затемнении. Округ площадью 28,8 км² сжимает в себе историю Холодной войны Тайваня.",
-    "city": "馬祖"
-  },
-  {
     "title": "Мяоли: округ хакков-настойчивых, где за восемь лет избрали главу, удвоившего долги казначейства",
     "lat": 24.557924,
     "lng": 120.828857,
@@ -21613,17 +21514,6 @@
     "lang": "zh-TW",
     "desc": "В период японского управления Мяоли производил 95% камфоры на всём Тайване, а Саньи заложил основу резьбы по дереву, перерабатывая корни камфорных деревьев. В 2002 году в деревне Бэйхэ округа Гуаньсянь прошёл первый фестиваль цветения тунговых деревьев. В 2008 году Лю Чжэньхун принял округ с долгами в 20,2 млрд, а к 2014 году, при уходе в отставку, задолженность по книгам достигла 67,6 млрд. Между тем произошли инциденты: Чжу Фэньминь выпила пестицид, аптеку Чжан снесли насильно, а хаккский тулу за 120 млн превратился в «музей комаров». Сегодня в этом округе, где хакки составляют 62,5% — второе по величине значение на Тайване — проживает 530 тысяч человек.",
     "city": "苗栗"
-  },
-  {
-    "title": "Шилин: земля кетагаланцев, храм, выживший после чжань-цюаньских вооружённых столкновений, и теперь — самый переполненный ночной рынок Тайбэя каждым вечером",
-    "lat": 25.037732,
-    "lng": 121.569589,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/shilin",
-    "lang": "zh-TW",
-    "desc": "В 19:30 корейские туристы на входе в ночной рынок Шилин делают селфи с огромными куриными котлетами, а рядом, по адресу Дадунлю 84, храм Цысяньгун стоит с 1796 года (первый год цинсяня) и в 2026 году исполняется 230 лет. В 1859 году (девятый год Сяньфэня) люди из Чжаньчжоу были сожжены жителями Цюаньчжоу, а в 1860 году (год гэньшэнь) Пань Юнцин в Сяшюлине развёл четыре прямые улицы — Дадунлю, Дананьлю, Дасилю, Дабэйлю — и поставил храм ровно в центре. В 1909 году японцы построили рынок напротив храма, в 1955 году на Вэньлиньлю открылся театр Янмин, в 1992 году в Тайчжунге изобрели куриную котлету Хаодада, в 1999 году она пришла в Шилин. В 2002 году снесли послевоенные настройки, в 2011 году открыли новый рынок, подземный фуд-корт работает в две смены с утра до ночи. Храм всё на месте, но у его ног каждый день сменяют друг друга два города.",
-    "city": "台北"
   },
   {
     "title": "Солнечно-Лунное озеро: под уровнем воды в 18,18 метра — затонувшее и увиденное сердце Тайваня",
@@ -21690,17 +21580,6 @@
     "lang": "zh-TW",
     "desc": "В полдень у старого дерева в парке Ванькан сидит дедушка с газетой. В 1922 году японцы здесь спланировали район Сёва, жили в японских общежитиях профессора Тайбэйского императорского университета; после 1947 года те же общежития заняли представители провинции, масть проживал в доме №76 на улице Чиньтянь, чжоу дэвэй — в фиолетовом дворе. В 1958 году янь биньци создал сеть \"Динтайфэн\" для продажи масла, в 1972 году перешел на пельмени, а сегодня в очереди у входа слышен японский и корейский больше, чем мандарин. Три поколения жителей наложены на одну и ту же 600-метровую улицу.",
     "city": "台北"
-  },
-  {
-    "title": "Юньлинь: то, что отверг Илань, Юньлинь забрала, заплатив тридцать лет своими лёгкими",
-    "lat": 23.482086,
-    "lng": 120.448741,
-    "category": "geography",
-    "region": "south",
-    "link": "/geography/yunlin-county",
-    "lang": "zh-TW",
-    "desc": "13 декабря 1987 года Чэнь Диньнань в студии ЦТВ добился вывода Шестого нафта-кракингового объединения из Иланя, 26 июня 1991 года Исполнительный юань утвердил перенос Шестого НКО в акваторию Майляо в Юньлине, в июле 1994 года началось строительство, в 1998 году запустили первую очередь, к настоящему времени намыто 2255 гектаров. В 2011 году команда Чжана Чанцюань из Общественного здоровья НТУ обнаружила, что зараженность раком у жителей в радиусе 10 км от Шестого НКО в 1,29 раза выше средней по Тайваню. Но в этом же округе храм Чаотьань в Бейгане, основанный в 33-й год Канси (1694), уже 332 года поклоняется Мацзу, 28 января 1953 года мост Сылуо длиной 1939 метров был возведён на американской стальной помощи. Один округ одновременно является домом для одного из старейших храмов Мацзу на Тайване, самым важным рисовым амбаром и крупнейшим нефтехимическим королевством.",
-    "city": "嘉義"
   },
   {
     "title": "Порт Тайчжун: как один камень оттолкнул Уци от моря и переписал береговую линию",
@@ -22022,14 +21901,14 @@
     "city": "嘉義"
   },
   {
-    "title": "Đài Loan: Hương vị của Bảo An Miếu, Giọng của Kinh Triều, Trời đất của Ngọn Sơn — Ba thời kỳ tôn giáo của Hà Nội",
-    "lat": 25.025076,
-    "lng": 121.567683,
+    "title": "Phố Cửu Lĩnh: Phố sách cũ do người Nhật để lại, tuổi thơ của Dương Đức Xương, và điện lâu của chính phủ",
+    "lat": 25.029329,
+    "lng": 121.562745,
     "category": "geography",
     "region": "north",
-    "link": "/geography/dalongdong",
+    "link": "/geography/guling-street",
     "lang": "zh-TW",
-    "desc": "Từ khoảng 5.300 năm trước khi có Ngọn Sơn vực ươm đất, đến năm 1742 khi người Tong An xây dựng Bảo An Miếu bằng tre, từ năm 1859 khi Trần Vân Ngọn đạt cử nhập học viên “năm bước một xuất, mười bước một cử nhập” đến năm 1925 khi các quan nhà địa phương tổ chức tái xây Kinh Triều Hà Nội bị nhà Nhật phá hủy, từ năm 1944 khi Ngựu Miếu bị máy bay hỗn hợp đây chầm cho đến năm 1973 khi Yang Chou-cheng thiết kế tòa nhà 14 tầng kiến trúc Trung Quốc của Ngọn Sơn Lớn. Ba không gian tôn giáo trên trục 1,5 km từ Dalongdong đến Ngọn Sơn nhưng không phải là phiên bản của sách hướng dẫn du lịch: Bảo An Miếu là tác phẩm đầu tiên của Đài Loan được UNESCO công nhận tài sản văn hóa châu Á năm 1995 do Lêu Văn-chi tự nguyện không nhận hỗ trợ chính phủ, chi 2,6 tỷ đồng để xây dựng lại; Kinh Triều Hà Nội là nền tảng của gia đình Trần Nhiếu-kí và Ngụ Hien-thuong dành 3.000 mét vuông đất để không để cho Đức Trọng bị xa cách; Ngọn Sơn Lớn là tòa nhà có quốc lãnh đầu tiên đón 111 người lãnh đạo quốc gia. Khi đi dạo bằng đôi chân trên con phố Dalongdong thi đấu cử tự do, họ đang chân trên lớp thời gian đặc sắc nhất của Hà Nội.",
+    "desc": "Chiều thứ bảy ở cuối ngõ 5 phố Cửu Lĩnh có học sinh xếp hàng trước nhà hát gạch đỏ. Năm 1922 con phố được gọi là phố Trao Khoảng không, năm 1947 được đổi tên Phố Cửu Lĩnh lấy tên từ Cửu Lĩnh Trấn ở Lư Sơn, tỉnh Giang Tây. Năm 1945 sau chiến tranh, người Nhật rút lui để lại sách được bán bên đường, trở thành phố sách cũ đầu tiên của Đài Loan, đạt cao điểm với hơn 200 quần hàng vào những năm 1960. Ngày 15 tháng 6 năm 1961 trên con phố này, Mao Vũ 16 tuổi dùng dao thiếu nhi giết Lưu Mẫn 15 tuổi. 30 năm sau đó Dương Đức Xương chuyển điều này thành bộ phim 237 phút.",
     "city": "台北"
   },
   {
@@ -22107,17 +21986,6 @@
     "link": "/geography/yongkang-street",
     "lang": "zh-TW",
     "desc": "Dưới gốc cây cổ thụ bên công viên Vĩnh Khang lúc bảy giờ rưỡi sáng. Ông lão ngoại tỉnh ngồi trên ghế đá đọc báo. Năm 1922, người Nhật quy hoạch Thị trấn Showa tại đây; ký túc xá kiểu Nhật của nhân viên Đại học Đế quốc Đài Bắc (nay là Đại học Quốc gia Đài Loan) ở số 7 phố Thanh Điền; sau năm 1947, các quan chức ngoại tỉnh và giáo sư Đại học Quốc gia Đài Loan đã tiếp quản lô ký túc xá này. Mã Đình Anh sống tại số 76 phố Thanh Điền, Chu Đức Vĩ sống tại Tử Đằng Lư ngày nay. Năm 1958, Dương Bỉnh Di mở tiệm dầu Đỉnh Thái Phong trên đoạn hai đường Tín Nghĩa; năm 1972, chuyển sang bán bánh bao nhỏ. Ngày nay, hàng người xếp hàng trước cửa, với tiếng Nhật và tiếng Hàn nhiều hơn tiếng Quốc ngữ. Ba thế hệ cư dân chồng chất trên con phố dài 600 mét này.",
-    "city": "台北"
-  },
-  {
-    "title": "Đại lộ Trung Sơn Bắc: Đường xá mà người Nhật xây để đi tới đền thờ, sau cùng vẫn được các công ty Nhật tiếp nhận",
-    "lat": 25.034277,
-    "lng": 121.565059,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/zhongshan-north-road-tiaotong",
-    "lang": "zh-TW",
-    "desc": "Ngày 17 tháng 4 năm 1923, hoàng thái tử Nhật Bản Hirohito 19 tuổi leo lên xe ngựa tại ga Đài Bắc, đi trên một con đường rộng 15 mét, tới thần xã Đài Loan ở Viên Sơn. Đó là Chỉ sử phố đạo. Năm 1941 mở rộng thành đại lộ năm làn rộng 40 mét. Năm 1945 đổi tên thành \"Đường phố Trung Sơn Bắc\" để tưởng nhớ Tôn Trung Sơn. Năm 1951 Chiến tranh Triều Tiên, quân Mỹ tiến vào, Trung Sơn Bắc phần ba trở thành \"vùng cho thuê của Mỹ\". Năm 1972 gián đoạn Nhật-Trung, các công ty Nhật không rút lui; năm 1979 quân Mỹ ra đi; những năm 1980s các công ty Nhật Bản tiếp tay mở quán. Đường xá mà người Nhật Bản xây để đi tới đền thờ, sau cùng vẫn bị các công ty thương mại Nhật tiếp nhận.",
     "city": "台北"
   },
   {
@@ -22240,17 +22108,6 @@
     "lang": "zh-TW",
     "desc": "Tháng 1 năm 2026, một ông lão 70 tuổi ở quận An Tư tử vong vì virus Hantavirus, là ca tử vong đầu tiên trong 25 năm qua. Nhưng điểm ngoặt của câu chuyện lại là sắc lệnh \"gia hộ cấm chế độ nuôi lợn từ rác thải nhà bếp\" cùng tháng — khi lợn không còn ăn rác thải, những con chuột bắt đầu ăn Đài Bắc.",
     "city": "台北"
-  },
-  {
-    "title": "Bản đồ Thần Tình Đài Loan: Chọn Miếu trước khi tìm đối tượng, hòn đảo này nuôi dưỡng ít nhất mười vị Nguyệt Lão với các chức năng khác nhau",
-    "lat": 22.997088,
-    "lng": 120.227915,
-    "category": "society",
-    "region": "south",
-    "link": "/society/taiwan-yuelao-matchmaker-map",
-    "lang": "zh-TW",
-    "desc": "Một tiền đề mà nhiều người không biết về việc cầu duyên ở Đài Loan là: Nguyệt Lão không chỉ có một. Bốn vị Nguyệt Lão của Đài Nam phụ trách tìm bạn đời, ổn định tình cảm, hóa giải tình ái và tái hợp; Miếu Lạc Thành ở Đài Trung nổi tiếng với sự linh nghiệm trong việc tái hợp từ năm 1753; Thần Thỏ Nhi ở Vi Minh Đường Tân Bắc chuyên cai quản hôn nhân đồng giới; các miếu như Hạ Hải, Long Sơn và Thiên Hậu ở Lộ Cảng mỗi nơi lại có thế mạnh riêng. Người sùng đạo càng viết chi tiết \"điều kiện chọn bạn đời\" thì càng tốt, vì để trống sẽ tạo ra kẽ hở cho Nguyệt Lão khai thác.",
-    "city": "台南"
   },
   {
     "title": "Tạp Học Trường: Lỗ vốn để tổ chức triển lãm miễn phí, 11 năm sau Phó Tổng thống khai mạc",

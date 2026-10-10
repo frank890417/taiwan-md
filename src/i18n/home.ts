@@ -116,7 +116,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Get to know Taiwan',
     'home.meta.title': 'Open-Source Taiwan Knowledge Base',
     'home.meta.description':
-      'Open-source, AI-friendly comprehensive knowledge base about Taiwan. 1123+ pages of in-depth content covering history, culture, food, music, technology and 12 major topics, co-edited by the community to introduce the real Taiwan to the world.',
+      'Open-source, AI-friendly comprehensive knowledge base about Taiwan. 1124+ pages of in-depth content covering history, culture, food, music, technology and 12 major topics, co-edited by the community to introduce the real Taiwan to the world.',
     'home.miniGraph.heading': '🕸️ Knowledge Graph',
     'home.miniGraph.subtitle':
       "Every article is connected — click to explore Taiwan's knowledge network",
@@ -265,7 +265,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '台湾を知る',
     'home.meta.title': 'オープンソース台湾知識ベース',
     'home.meta.description':
-      'オープンソース、AI対応の台湾総合ナレッジベース。1123以上の深掘り記事が歴史・文化・グルメ・音楽・テクノロジーなど12大テーマを網羅し、コミュニティが共同編集して台湾の真の姿を世界に紹介します。',
+      'オープンソース、AI対応の台湾総合ナレッジベース。1124以上の深掘り記事が歴史・文化・グルメ・音楽・テクノロジーなど12大テーマを網羅し、コミュニティが共同編集して台湾の真の姿を世界に紹介します。',
     'home.miniGraph.heading': '🕸️ ナレッジグラフ',
     'home.miniGraph.subtitle':
       'すべての記事はつながっている — クリックして台湾知識のネットワークを探索',
@@ -412,7 +412,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '대만 알아보기',
     'home.meta.title': '오픈소스 대만 지식 베이스',
     'home.meta.description':
-      '오픈소스, AI 친화적인 대만 종합 지식 베이스. 1123+ 심층 기사가 역사·문화·미식·음악·기술 등 12대 주제를 다루며, 커뮤니티가 공동 편찬하여 진정한 대만을 세계에 소개합니다.',
+      '오픈소스, AI 친화적인 대만 종합 지식 베이스. 1124+ 심층 기사가 역사·문화·미식·음악·기술 등 12대 주제를 다루며, 커뮤니티가 공동 편찬하여 진정한 대만을 세계에 소개합니다.',
     'home.miniGraph.heading': '🕸️ 지식 그래프',
     'home.miniGraph.subtitle':
       '모든 기사는 연결되어 있다 — 클릭하여 대만 지식의 연결망을 탐색',
@@ -1619,7 +1619,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': '完整認識台灣',
     'home.meta.title': '開源台灣知識庫',
     'home.meta.description':
-      '開源、AI-friendly 的台灣完整知識庫。1123+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
+      '開源、AI-friendly 的台灣完整知識庫。1124+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
     'home.miniGraph.heading': '🕸️ 知識圖譜',
     'home.miniGraph.subtitle': '每篇文章都不是孤島——點擊探索台灣知識的連結網絡',
     'home.features.cta.graph': '🔗 知識圖譜 — 探索文章之間的連結',
@@ -1771,7 +1771,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Connaître Taïwan',
     'home.meta.title': 'Base de connaissances open source sur Taïwan',
     'home.meta.description':
-      "Base de connaissances open source et adaptée aux IA sur Taïwan. Plus de 1123 pages de contenu approfondi couvrant l'histoire, la culture, la gastronomie, la musique, la technologie et 12 grands thèmes, co-éditées par la communauté pour faire découvrir le vrai Taïwan au monde.",
+      "Base de connaissances open source et adaptée aux IA sur Taïwan. Plus de 1124 pages de contenu approfondi couvrant l'histoire, la culture, la gastronomie, la musique, la technologie et 12 grands thèmes, co-éditées par la communauté pour faire découvrir le vrai Taïwan au monde.",
     'home.miniGraph.heading': '🕸️ Graphe des connaissances',
     'home.miniGraph.subtitle':
       'Chaque article est connecté — cliquez pour explorer le réseau de connaissances de Taïwan',
@@ -1926,7 +1926,7 @@ export const homeUI = {
     'home.readingPath.footer.getToKnow': 'Conocer Taiwán',
     'home.meta.title': 'Base de conocimiento de código abierto sobre Taiwán',
     'home.meta.description':
-      'Base de conocimiento de código abierto y compatible con IA sobre Taiwán. Más de 1123 páginas de contenido en profundidad que cubren historia, cultura, gastronomía, música, tecnología y 12 grandes temas, co-editadas por la comunidad para presentar al mundo el verdadero Taiwán.',
+      'Base de conocimiento de código abierto y compatible con IA sobre Taiwán. Más de 1124 páginas de contenido en profundidad que cubren historia, cultura, gastronomía, música, tecnología y 12 grandes temas, co-editadas por la comunidad para presentar al mundo el verdadero Taiwán.',
     'home.miniGraph.heading': '🕸️ Grafo de conocimiento',
     'home.miniGraph.subtitle':
       'Cada artículo está conectado — haz clic para explorar la red de conocimiento de Taiwán',

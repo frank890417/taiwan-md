@@ -1,8 +1,8 @@
 {
-  "totalArticles": 14625,
+  "totalArticles": 14626,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 9124,
+  "totalTags": 8951,
   "categories": [
     {
       "name": "vi",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Politics",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Society",
@@ -120,7 +120,7 @@
     },
     {
       "name": "人物",
-      "count": 58
+      "count": 57
     },
     {
       "name": "企業",
@@ -128,11 +128,15 @@
     },
     {
       "name": "YouTuber",
-      "count": 49
+      "count": 48
     },
     {
       "name": "科技與企業",
       "count": 36
+    },
+    {
+      "name": "ODM",
+      "count": 33
     },
     {
       "name": "民主化",
@@ -143,24 +147,16 @@
       "count": 31
     },
     {
-      "name": "ODM",
-      "count": 31
+      "name": "政治",
+      "count": 27
     },
     {
       "name": "台南",
       "count": 27
     },
     {
-      "name": "文學",
-      "count": 27
-    },
-    {
       "name": "AI",
       "count": 26
-    },
-    {
-      "name": "政治",
-      "count": 25
     },
     {
       "name": "飲食文化",
@@ -172,6 +168,10 @@
     },
     {
       "name": "建築",
+      "count": 25
+    },
+    {
+      "name": "文學",
       "count": 24
     },
     {
@@ -191,20 +191,20 @@
       "count": 23
     },
     {
-      "name": "奧運",
-      "count": 22
+      "name": "客家",
+      "count": 23
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14625,
+    "zh-TW": 14626,
     "en": 0
   },
-  "lastUpdated": "2026-10-09T22:06:28.473Z",
-  "stars": 1200,
+  "lastUpdated": "2026-10-10T22:05:59.912Z",
+  "stars": 1201,
   "forks": 187,
-  "zhPages": 1123,
+  "zhPages": 1124,
   "languagePages": {
-    "zh-TW": 1123,
+    "zh-TW": 1124,
     "en": 1125,
     "ja": 1125,
     "ko": 1125,
@@ -219,5 +219,5 @@
     "de": 1125
   },
   "enPages": 1125,
-  "totalPages": 1123
+  "totalPages": 1124
 }

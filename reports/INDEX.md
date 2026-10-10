@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-10-10 06:07
+last_generated: 2026-10-11 06:07
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,40 +12,40 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-10-10 06:07** · 頂層 \*.md 共 **297** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-10-11 06:07** · 頂層 \*.md 共 **298** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                           | Files | Size     | 用途                                                 |
 | -------------------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`                      |   673 | 35.4 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`                      |   676 | 35.5 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `staging/`                       |   283 | 4.6 MB   | —                                                    |
 | `editorial-room/`                |   102 | 791.0 KB | —                                                    |
-| `weekly/`                        |    42 | 8.7 MB   | Self-evolve weekly digest                            |
+| `weekly/`                        |    44 | 9.2 MB   | Self-evolve weekly digest                            |
 | `article-evolve/`                |    41 | 1.6 MB   | —                                                    |
 | `article-projection/`            |    39 | 716.0 KB | —                                                    |
 | `routine-prompt-drift/`          |    33 | 98.8 KB  | —                                                    |
 | `rewrite-guide/`                 |    32 | 408.8 KB | —                                                    |
 | `archive/`                       |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
 | `project-deep-audit-2026-09-07/` |    22 | 528.3 KB | —                                                    |
+| `babel/`                         |    16 | 9.1 MB   | —                                                    |
 | `maintainer/`                    |    16 | 308.9 KB | —                                                    |
-| `babel/`                         |    15 | 9.1 MB   | —                                                    |
-| `news-lens/`                     |    12 | 247.5 KB | —                                                    |
+| `news-lens/`                     |    13 | 256.7 KB | —                                                    |
+| `probe/`                         |    10 | 186.7 KB | BECOME §Step 7 探測器報告                            |
 | `factcheck/`                     |     9 | 98.7 KB  | —                                                    |
-| `probe/`                         |     9 | 162.0 KB | BECOME §Step 7 探測器報告                            |
+| `ab-tests/`                      |     8 | 182.9 KB | Editorial v6 A/B test                                |
 | `babel-tier4/`                   |     8 | 5.5 KB   | —                                                    |
 | `babel-quarantine/`              |     7 | 268.0 KB | —                                                    |
-| `ab-tests/`                      |     6 | 120.0 KB | Editorial v6 A/B test                                |
 | `babel-jobs/`                    |     5 | 246.4 KB | —                                                    |
 | `babel-patches/`                 |     5 | 3.4 MB   | —                                                    |
 | `terminology-review/`            |     5 | 1.8 MB   | —                                                    |
 | `translation-research/`          |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
-| `404-monitor/`                   |     2 | 198.0 KB | —                                                    |
+| `404-monitor/`                   |     2 | 199.7 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `fork-census/`                   |     2 | 39.3 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 121.7 KB | —                                                    |
+| `newsroom/`                      |     2 | 122.4 KB | —                                                    |
 | `terminology-trends/`            |     2 | 30.0 KB  | —                                                    |
 | `audit/`                         |     1 | 20.7 KB  | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |
@@ -223,8 +223,9 @@ type: auto-index
 - `2026-04-11` [sense-2026-04-11](sense-2026-04-11.md)
 - `2026-04-06` [sense-2026-04-06](sense-2026-04-06.md)
 
-### evaluation (4)
+### evaluation (5)
 
+- `2026-10-10` [editorial-v6.22-ab-test-2026-10-10](editorial-v6.22-ab-test-2026-10-10.md)
 - `2026-09-26` [editorial-v6.20-ab-test-2026-09-26](editorial-v6.20-ab-test-2026-09-26.md)
 - `2026-05-09` [editorial-v6-ab-test-2026-05-09](editorial-v6-ab-test-2026-05-09.md)
 - `2026-05-09` [editorial-v6.1-test-c-2026-05-09](editorial-v6.1-test-c-2026-05-09.md)
@@ -389,6 +390,11 @@ type: auto-index
 - Type breakdown: ops: 2
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
+
+### 2026-10 (1 files)
+
+- Type breakdown: evaluation: 1
+  - `2026-10-10` [editorial-v6.22-ab-test-2026-10-10](editorial-v6.22-ab-test-2026-10-10.md)
 
 ### 2026-09 (25 files)
 
