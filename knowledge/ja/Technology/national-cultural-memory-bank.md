@@ -1,91 +1,91 @@
 ---
-title: 'National Cultural Memory Bank: Memory Curation and Cultural Co-creation in the Digital Age'
-description: "The National Cultural Memory Bank is not merely a digital preservation platform, but a social project in a tug-of-war with time. Through open licensing and co-creation, it revitalizes and regenerates Taiwan's folk memories in the digital age."
+title: '国家文化記憶庫：デジタル時代における記憶のキュレーションと文化の共創'
+description: '国家文化記憶庫は、単なるデジタルアーカイブ・プラットフォームではなく、オープンライセンスと共創を通じて台湾の人々の記憶をデジタル時代に再生させる、時間との綱引きとも言える社会工学プロジェクトです。'
 date: 2026-04-29
+category: 'Technology'
 tags:
   [
-    'National Cultural Memory Bank',
-    'Digital Preservation',
-    'Cultural Co-creation',
-    'Taiwan Memory',
-    'Copyright',
-    'Folk Culture',
+    '国家文化記憶庫',
+    'デジタルアーカイブ',
+    '文化の共創',
+    '台湾の記憶',
+    '著作権',
+    '常民文化',
   ]
 subcategory: '數位與網路'
 author: 'idlccp1984'
-category: 'Technology'
-readingTime: 12
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 12
 translatedFrom: 'Technology/國家文化記憶庫.md'
-sourceCommitSha: ''
-sourceContentHash: 'sha256:7736814528aad0fb'
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:6f90dbf2e1df699d'
 sourceBodyHash: 'sha256:f903cddb5dedf5bd'
-translatedAt: '2026-06-09T03:36:51+08:00'
-featured: false
+translatedAt: '2026-10-11T05:16:32+08:00'
 ---
 
-> ⚡ 30-Second Overview
+> ⚡ 30秒でわかる概要
 >
-> - **What it is**: A national-level digital preservation initiative launched by the Ministry of Culture, with the core philosophy that "individual small narratives converge into national grand history."
-> - **Why it matters**: Under the pressure of elders passing away and landscapes changing, it preserves Taiwan's most authentic, non-official folk memories through digitization.
-> - **Innovation**: It emphasizes not just "storage" but "usage." Through the 2.0 transformation and CC licensing, memories become co-creation materials accessible to everyone.
-> - **Classic Cases**: Time Travel Agency, Super-Temporal Island Table, Food Memory Special Exhibition.
+> - **それは何か**：文化部（文化部）が主導する国家級デジタルアーカイブ計画。「個人の小さな物語が集まり、国家の大きな歴史を形作る」という理念を核心としています。
+> - **なぜ重要か**：高齢者の減少や景観の変化という圧力の中で、デジタル化を通じて台湾の最もリアルで非公式な「常民（庶民）」の記憶を保存します。
+> - **革新的な点**：単なる「保存」にとどまらず、「活用」を重視しています。2.0への転換とCCライセンスにより、記憶を誰もが使える共創素材へと変えています。
+> - **代表的な事例**：時空旅行社、超時空島嶼餐桌（ちょうじくうとうしょうたんじょ）、飲食記憶特展。
 
 ---
 
-In the alleys of Taiwan, whether it is a bowl of steaming beef noodles or the overlapping cries of vendors in an old market, these seemingly ordinary daily moments are the most authentic memory fragments constituting the cultural fabric of Taiwan. However, the torrent of time is ruthless; these precious folk memories are rapidly disappearing alongside the passing of elders and the transformation of landscapes. To address this, the Ministry of Culture launched the "National Cultural Memory Bank" project in 2017. This is not just a digital preservation platform, but a warm social project in a tug-of-war with time, aiming to use the power of technology to make Taiwan's cultural memories visible, preserved, and revitalized. [^3]
+台湾の路地裏にある、湯気の立つ牛肉麺や、古い市場に響き渡る威勢の良い売り声。こうした何気ない日常こそが、台湾文化の肌理（きめ）を構成する最もリアルな記憶の断片です。しかし、時間の流れは無情であり、これらの貴重な常民の記憶は、高齢者の減少や景観の変化とともに急速に失われつつあります。こうした状況を受け、文化部は2017年に「国家文化記憶庫」計画を始動させました。これは単なるデジタルアーカイブ・プラットフォームではなく、テクノロジーの力を通じて台湾の文化的記憶を可視化し、保存し、活性化させることを目的とした、時間との綱引きとも言える温かな社会工学プロジェクトなのです。[^3]
 
-📝 Curator's Note: The value of the National Cultural Memory Bank lies in transforming cold digital data into warm stories, allowing everyone to find resonance within it, and even transforming from an "observer" into a "co-creator of memory."
+📝 キュレーターのノート：国家文化記憶庫の価値は、冷たいデジタルデータを温度のある物語へと変換し、誰もがそこに共鳴でき、さらには「観察者」から「記憶の共創者」へと変われる点にあります。
 
-## National Cultural Memory Bank: A Cultural Bank from Preservation to Co-creation
+## 国家文化記憶庫：アーカイブから共創への「文化銀行」
 
-The core philosophy of the National Cultural Memory Bank is to integrate Taiwan's cultural assets scattered across various locations through a systematic "inventory, collection, storage, retrieval, and usage" mechanism. [^8] It brings together the efforts of county and city governments, private entities, central cross-ministerial bodies, and 12 museums affiliated with the Ministry of Education, jointly preserving the group portraits of folk life under Taiwan's grand era. [^3] This embodies the concept of a "National Cultural Bank," viewing cultural memories as treasures that can circulate and be reused, rather than static collections locked in a vault.
+国家文化記憶庫の核心となる理念は、各地に散らばっている台湾の文化資産を、体系的な「調査・収集・保存・取得・活用」のメカニズムを通じて統合することです。[^8] 地方自治体、民間団体、中央省庁、そして教育部に属する12の博物館の力を結集し、激動の時代における台湾の人々の生活像を共に守り伝えています。[^3] これは「国家文化銀行」という概念であり、文化的記憶を単に金庫に閉じ込められた静的なコレクションとしてではなく、流通可能で再利用可能な宝物として捉えています。
 
-### 2.0 Transformation: More User-Friendly, Thematic, and International
+### 2.0への転換：より使いやすく、テーマ性を持ち、国際的に
 
-With the evolution of digital technology, the National Cultural Memory Bank has recently promoted a 2.0 transformation plan, with three major goals: "platform user-friendliness, content thematization, and reader internationalization." [^10] This means the platform has not only optimized search interfaces and licensing markings but also transformed content into more attractive thematic stories through the curation of professional historical and literary workers, making it easier for the public to approach the depth of Taiwan's culture. For example, through NLP (Natural Language Processing) technology, searches are no longer just keyword matches but can understand the user's exploratory intent. [^9]
+デジタル技術の進化に伴い、国家文化記憶庫は近年「2.0転換計画」を推進しており、「プラットフォームの利便性向上」「コンテンツのテーマ化」「読者の国際化」という3つの目標を掲げています。[^10] これは、検索インターフェースやライセンス表示の最適化だけでなく、専門的な歴史研究者によるキュレーションを通じて、内容をより魅力的なテーマ別ストーリーへと変換し、人々が台湾の文化の深みに触れやすくすることを意味します。例えば、NLP（自然言語処理）技術を活用することで、検索が単なるキーワードの一致ではなく、ユーザーの探索意図を理解するものへと進化しています。[^9]
 
-## Revitalizing Memories: From "Time Travel Agency" to "Food Memories"
+## 記憶の活性化：「時空旅行社」から「飲食の記憶」へ
 
-The charm of the National Cultural Memory Bank lies in how it activates these digitized memories, ensuring they are no longer just files but cultural materials that can be experienced and re-created. Among them, the "Time Travel Agency" is an innovative online curation platform that encourages users to become curators and share the stories of Taiwan they know. [^7] Through thematic curation, such as "Taiwan Sweetness: The Sweet Flavors of the Island" or "Super-Temporal Island Table," the Memory Bank combines food culture with historical context, allowing readers to feel Taiwan's changes through their taste buds. [^12] [^14]
+国家文化記憶庫の魅力は、デジタル化された記憶をいかに活性化させ、単なるファイルではなく、体験や再創作が可能な文化的素材へと変えるかにあります。その一つである「時空旅行社（じくうりょこうしゃ）」は、ユーザー自身がキュレーターとなり、自身の知る台湾の物語を共有することを促す革新的なオンライン・キュレーション・プラットフォームです。[^7] 「台湾の甘み：島の甘い味わい」や「超時空島嶼餐桌（ちょうじくうとうしょうたんじょ）」といったテーマ別のキュレーションを通じて、記憶庫は食文化と歴史的文脈を結びつけ、読者が味覚を通じて台湾の変遷を感じ取れるようにしています。[^12] [^14]
 
-These cases demonstrate how the Memory Bank has transformed from a simple database into a vibrant field of cultural co-creation. It not only provides materials but also inspires creators' imaginations, allowing these memories to return to the public eye in new forms, such as images, texts, and artworks. [^13]
+これらの事例は、記憶庫がいかに単なるデータベースから、生命力に満ちた文化共創の場へと変貌を遂げているかを示しています。素材を提供するだけでなく、クリエイターのインスピレーションを刺激し、映像、テキスト、芸術作品といった新しい形で、これらの記憶を再び大衆の視界へと送り出しているのです。[^13]
 
-## Challenges and Prospects: Balancing Copyright and Data Openness
+## 課題と展望：著作権とデータ開放のバランス
 
-However, the National Cultural Memory Bank faces complex copyright issues in the process of promoting data openness and revitalization. [^1] [^4] How to strike a balance between encouraging utilization and protecting the rights of original creators is the direction the Memory Bank continues to strive for. The platform attempts to guide users to reasonably utilize data through clear licensing markings and CC licensing articles, emphasizing that data openness is not just a technical issue but a practical implementation of the concept of cultural sharing. [^2] [^6]
+しかし、国家文化記憶庫がデータの開放と活性化を推進する過程では、複雑な著作権の問題にも直面しています。[^1] [^4] 利用の促進と原作者の権利保護の間でいかにバランスを取るかが、記憶庫が継続的に取り組むべき方向です。プラットフォームは明確なライセンス表示とCCライセンスに関する規定を通じて、ユーザーによる合理的な利用を導こうとしています。また、データの開放は単なる技術的な問題ではなく、文化を共有するという理念の実践であることを強調しています。[^2] [^6]
 
-In the future, the National Cultural Memory Bank will continue to deepen its philosophy that "individual small narratives converge into national grand history," [^11] encouraging more citizens to participate in the collection and sharing of memories. Through continuous optimization and innovation, it will become a sustainable cultural ecosystem, allowing Taiwan's cultural DNA to continue evolving in the digital age and telling the world unique and rich stories about Taiwan.
+将来に向けて、国家文化記憶庫は「個人の小さな物語が集まり、国家の大きな歴史を形作る」という理念をさらに深化させ、[^11] より多くの市民が記憶の収集と共有に参加できるよう促していくでしょう。絶え間ない最適化と革新を通じて、それは持続可能な文化エコシステムとなり、台湾の文化的DNAをデジタル時代の中で演じ続け、台湾独自の豊かで多様な物語を世界へと語り伝えていくはずです。
 
-## References
+## 参考文献
 
-[^1]: [Discussion on Copyright Issues of the National Cultural Memory Bank](https://www.copyrightnote.org/paper/pa0106.pdf) — See original link for supplementary content
+[^1]: [国家文化記憶庫の著作権問題に関する議論](https://www.copyrightnote.org/paper/pa0106.pdf) — 詳細は元のリンク内の補足資料を参照
 
-[^2]: [Memory Bank 2.0 x CCTW-FAQ-Copyright](https://tw.creativecommons.net/tcmb/faq-copyright/) — See original link for supplementary content
+[^2]: [記憶庫2.0 x CCTW-FAQ-著作権](https://tw.creativecommons.net/tcmb/faq-copyright/) — 詳細は元のリンク内の補足資料を参照
 
-[^3]: [National Cultural Memory Bank—The People's Cultural Bank](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/122e0cad-b31b-40c0-ab4e-155d4f117968) — See original link for supplementary content
+[^3]: [国家文化記憶庫—全住民のための文化銀行](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/122e0cad-b31b-40c0-ab4e-155d4f117968) — 詳細は元のリンク内の補足資料を参照
 
-[^4]: [Copyright Issues in the Establishment and Operation of the National Cultural Memory Bank](https://www.copyrightnote.org/ArticleContent.aspx?ID=3&aid=2935) — See original link for supplementary content
+[^4]: [国家文化記憶庫の構築と運用における著作権問題](https://www.copyrightnote.org/ArticleContent.aspx?ID=3&aid=2935) — 詳細は元のリンク内の補足資料を参照
 
-[^5]: [Ministry of Culture "National Cultural Memory Bank and Digital Museum Application Project"](https://file.moc.gov.tw/001/Upload/470/relfile/10329/22/3219b754-1804-4eb2-b1f8-e56bf590f193.pdf) — See original link for supplementary content
+[^5]: [文化部「国家文化記憶庫およびデジタル博物館応用計画」](https://file.moc.gov.tw/001/Upload/470/relfile/10329/22/3219b754-1804-4eb2-b1f8-e56bf590f193.pdf) — 詳細は元のリンク内の補足資料を参照
 
-[^6]: [Memory Bank 2.0 x CCTW-FAQ-Fair Use](https://tw.creativecommons.net/tcmb/faq-fair-use/) — See original link for supplementary content
+[^6]: [記憶庫2.0 x CCTW-FAQ-フェアユース（合理的使用）](https://tw.creativecommons.net/tcmb/faq-fair-use/) — 詳細は元のリンク内の補足資料を参照
 
-[^7]: [National Cultural Memory Bank 2.0 Dual Platforms - National Museum of Taiwan History](https://www.nmth.gov.tw/News_Link2.aspx?n=7912&sms=13207) — See original link for supplementary content
+[^7]: [国家文化記憶庫2.0 デュアルプラットフォーム - 台湾歴史博物館](https://www.nmth.gov.tw/News_Link2.aspx?n=7912&sms=13207) — 詳細は元のリンク内の補足資料を参照
 
-[^8]: [One Year After the Launch of the National Cultural Memory Bank, Future Priorities are Optimizing Themes and Digital Services](https://www.moc.gov.tw/News_Content.aspx?n=105&s=57777) — See original link for supplementary content
+[^8]: [国家文化記憶庫の運用開始1周年、今後はテーマの最適化とデジタルサービスの向上を最優先](https://www.moc.gov.tw/News_Content.aspx?n=105&s=57777) — 詳細は元のリンク内の補足資料を参照
 
-[^9]: [National Cultural Memory Bank 2.0 User Guide - YouTube](https://www.youtube.com/watch?v=XhhX3KbM4i4) — YouTube video record
+[^9]: [国家文化記憶庫2.0 使用ガイド - YouTube](https://www.youtube.com/watch?v=XhhX3KbM4i4) — YouTube動画の記録
 
-[^10]: [Homepage - "National Cultural Memory Bank 2.0" Digital Platform](https://web.nljh.tyc.edu.tw/modules/tadnews/index.php?nsn=8397) — See original link for supplementary content
+[^10]: [ホームページ - 「国家文化記憶庫2.0」デジタルプラットフォーム](https://web.nljh.tyc.edu.tw/modules/tadnews/index.php?nsn=8397) — 詳細は元のリンク内の補足資料を参照
 
-[^11]: [National Memory Bank - Ministry of Culture, Republic of China](https://www.moc.gov.tw/News_Content.aspx?n=167&s=3814) — See original link for supplementary content
+[^11]: [国民記憶庫 - 中華民国文化部](https://www.moc.gov.tw/News_Content.aspx?n=167&s=3814) — 詳細は元のリンク内の補足資料を参照
 
-[^12]: [Super-Temporal Island Table National Cultural Memory Bank Food Memory Promotion Project](https://tcmb.culture.tw/zh-tw/subject/392) — National Cultural Memory Bank
+[^12]: [超時空島嶼餐桌 国家文化記憶庫飲食記憶推進計画](https://tcmb.culture.tw/zh-tw/subject/392) — 国家文化記憶庫
 
-[^13]: [Open the Treasure Chest of Cultural Memory, Discover the Most Precious Cultural Soul](https://www.facebook.com/TaiwanCulturalMemoryBank/videos/%E6%96%87%E5%8C%96dna%E6%88%91%E5%80%91%E7%9A%84%E5%B8%B8%E6%B0%91%E8%A8%98%E6%86%B6/374732050233054/) — Facebook public post
+[^13]: [文化の記憶の宝箱を開け、最も貴重な文化的魂を見つけよう](https://www.facebook.com/TaiwanCulturalMemoryBank/videos/%E6%96%87%E5%8C%96dna%E6%88%91%E5%80%91%E7%9A%84%E5%B8%B8%E6%B0%91%E8%A8%98%E6%86%B6/374732050233054/) — Facebook公開投稿
 
-[^14]: [Digital Flavors of Time: Taiwan Food Memory Special Exhibition](https://www.nmth.gov.tw/News_Content_Due.aspx?n=4106&s=230678) — See original link for supplementary content
+[^14]: [数味食光：台湾飲食記憶特展](https://www.nmth.gov.tw/News_Content_Due.aspx?n=4106&s=230678) — 詳細は元のリンク内の補足資料を参照
 
-[^15]: [A Single Person's Story Can Sometimes Reveal an Entire Era. From "Zhang Cong-Ming's"... - Instagram](https://www.instagram.com/p/DWGzdnaAXa9/) — See original link for supplementary content
+[^15]: [一人の人物の物語が、時に時代全体を映し出す。「張聰明」の... - Instagram](https://www.instagram.com/p/DWGzdnaAXa9/) — 詳細は元のリンク内の補足資料を参照

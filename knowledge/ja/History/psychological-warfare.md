@@ -1,115 +1,114 @@
 ---
-title: 'Psychological Warfare: From Kinmen Broadcasting Walls to the Paradigm Shift of AI Cognitive Operations'
-description: "From the 1960s' Deng Lijun appeals and 'surrender food' dropped via balloons on Kinmen to the 2026 digital era's information penetration and AI cognitive manipulation, cross-strait psychological warfare has evolved from physical material incentives to digital semantic攻防. This article thoroughly梳理s the historical context of Taiwan's psychological warfare against China, details specific material lists, and contrasts the challenges of the current AI industrialization stage."
+title: '心理戦：金門の播音壁からAI認知作戦へのパラダイムシフト'
+description: '1960年代、金門の播音壁から鄧麗君が呼びかけ、「投誠食品」が空中投下された時代から、2026年のデジタル時代における情報浸透とAI認知操作へ。中台の心理戦は、物理的物資による誘引から、デジタル意味空間での攻防へと進化した。本稿は、台湾の対中歴史的心理戦の文脈と具体的物資リストを詳細に整理し、現在のAI工業化段階の課題と対比する。'
 date: 2026-05-03
+category: 'History'
 tags:
   [
-    'psychological warfare',
-    'cognitive warfare',
-    'Kinmen',
-    'Deng Lijun',
-    'aerial drop objects',
-    'surrender food',
-    'AI deepfake',
-    'information warfare',
-    'cross-strait relations',
-    'Radio Free Asia',
-    'media and speech',
+    '心理戦',
+    '認知戦',
+    '金門',
+    '鄧麗君',
+    '空中投下物資',
+    '投誠食品',
+    'AIディープフェイク',
+    '情報戦',
+    '中台関係',
+    '中央広播電台',
   ]
 subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
-category: 'History'
-readingTime: 8
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
+readingTime: 8
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: ''
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
-translatedAt: '2026-05-03T21:38:18+08:00'
-featured: false
+translatedAt: '2026-10-11T05:16:32+08:00'
 ---
 
-> **30-Second Overview:**
-> Cross-strait "psychological warfare" (psychological operations) is undergoing a fundamental transformation from "physical media" to "digital semantics." In the 1960s-1980s, Taiwan conducted incentive offensives against mainland China using the Beishan Broadcasting Wall in Kinmen, Deng Lijun's warm appeals, and aerial drops containing "surrender food" such as pineapple cakes, instant noodles, and even underwear [^1] [^2] [^5]. Entering 2024-2026, the offensive and defensive positions have shifted; mainland China has turned to "AI industrialized cognitive warfare," while Taiwan has shifted to using digital penetration power for "democratic value dissemination" and "information asymmetry counterattacks" [^3] [^4] [^10]. This is a long-term evolution from competing for "stomachs" to competing for "brain cognition" and "value identity."
+> **30秒概観：**
+> 中台の「心理戦」（心理作戦）は、「物理媒体」から「デジタル意味」への根本的転換を経験している。1960〜1980年代、台湾は金門北山播音壁、鄧麗君の温情ある呼びかけ、パイナップルケーキ、インスタントラーメン、さらには下着まで含む「投誠食品」の空中投下により、中国に対して誘引攻勢をかけた [^1] [^2] [^5]。2024〜2026年に入ると攻守が逆転し、中国は「AI工業化認知作戦」へ、台湾はデジタル浸透力を活用した「民主的価値の伝播」と「情報非対称性を利用した反撃」へと舵を切った [^3] [^4] [^10]。これは「胃袋」の争奪から「脳の認知」と「価値の共鳴」の争奪へと至る長期的な進化である。
 
-## Voices and Stomachs: Historical Details of Taiwan's Psychological Warfare Against China
+## 声と胃袋：台湾の対中歴史的心理戦の詳細
 
-At the peak of the Cold War confrontation, Taiwan's psychological warfare strategy against mainland China was built on the foundation of "living standard gaps" and "political freedom incentives." This was a highly physical-contact-dependent "heart-capturing" process.
+冷戦対峙のピーク期、台湾の対中心理戦略は「生活水準の格差」と「政治的自由への誘惑」を基盤としていた。これは物理的接触に大きく依存する「攻心」プロセスであった。
 
-### Radio Warfare: More Than Just Deng Lijun's Voice
+### 放送戦：鄧麗君の声だけではない
 
-Kinmen's **Mashan Observation Post** and **Beishan Broadcasting Wall** were the concrete embodiments of sonic weapons at that time [^1]. In addition to Deng Lijun's "Sweet Honey," the radio programs of the era had strong targeting:
+金門の**馬山観測所**と**北山播音壁**は、当時の音波兵器の具体的化身であった [^1]。鄧麗君の『甜蜜蜜（テンミテンミ）』以外にも、当時の放送番組は極めて高い標的性を持っていた：
 
-- **Specific Programs and Call Signs**: The **Radio Free Asia (RFA)** broadcast call signs for mainland China included "Voice of Free China" (Voice of Free China). Program content covered "Reward Measures for Defection and Uprising," real-time news from Taiwan, and commentary on the chaotic situation of the Cultural Revolution [^2].
-- **Defection and Uprising Phase**: Broadcasts repeatedly reported "Surrender Navigation Directions" and "Landing Signals," providing detailed guidance on how mainland pilots should fly to Taoyuan or Ching Chuan Kang Air Force Bases, promising rewards of thousands to tens of thousands of taels of gold [^7].
-- **Psychological Anchors**: Utilizing mainland citizens' longing for "home," warm broadcasts were played during festivals, contrasting the quality of life across the strait, making "fleeing to freedom" a concrete life choice.
+- **具体的番組と呼び号**：**中央広播電台（央広）**の対中放送呼号には「自由中国の声」（Voice of Free China）があり、番組内容は「反正起義奨励弁法」、台湾の即時ニュース、文化大革命の混乱した現状への論評を網羅していた [^2]。
+- **反正起義段階**：放送では「投誠航路」と「着陸信号」が繰り返し放送され、大陸のパイロットが桃園（タオユエン）や清泉崗（チンチュエンガン）基地へ飛来する方法を詳細に案内し、数千〜数万両の黄金報奨を約束していた [^7]。
+- **心理的アンカー**：大陸民衆の「家」への憧憬を利用し、節慶期間に温かい放送を流し、両岸の生活品質を対比させることで、「自由への投奔」を具体的な生活選択肢とした。
 
-### Aerial Drop Object List: A Precise "Lifestyle" Display
+### 空中投下物資リスト：精緻な「ライフスタイル」の展示
 
-Aerial drop operations were not merely about distributing leaflets; they were a visual and material exhibition about "modern life."
+空中投下作戦は単なるビラ撒きではなく、「近代的生活」に関する視覚的・物質的展覧会でもあった。
 
-| Category                  | Specific Material List [^5] [^11]                                                                      | Psychological Intent                                                                                                    |
-| :------------------------ | :----------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
-| **Surrender Food**        | **Pineapple cakes, instant noodles (with seasoning packets), dried meat, sugar, lard cans, rations**   | Demonstrating the development of Taiwan's food industry and extreme abundance of materials.                             |
-| **Daily Necessities**     | **Small transistor radios, watches, fountain pens, nail clippers, underwear, towels**                  | Radios were used to encourage "secretly listening to enemy stations"; clothing displayed textile industry achievements. |
-| **Medical Supplies**      | **Tiger Balm, cold medicine, Band-Aids**                                                               | Reflecting care for the "physical health" of mainland compatriots and the gap in medical standards.                     |
-| **Political Credentials** | **Photos of Chiang Kai-shek, Surrender Certificates (guaranteeing deposits and position commitments)** | Providing a political safe haven and concrete economic opportunities for turnaround [^6].                               |
+| カテゴリー   | 具体的物資リスト [^5] [^11]                                                                            | 心理的意図                                                   |
+| :----------- | :----------------------------------------------------------------------------------------------------- | :----------------------------------------------------------- |
+| **投誠食品** | **パイナップルケーキ（鳳梨酥）、インスタントラーメン（調味料付き）、肉乾、砂糖、ラード缶詰、携帯食糧** | 台湾食品工業の発達と物資の極度の豊かさを示す。               |
+| **民生用品** | **小型トランジスタラジオ、腕時計、万年筆、爪切り、下着、タオル**                                       | ラジオは「敵放送の密聴」を促し、衣類は繊維工業の成果を示す。 |
+| **医療物資** | **万金油（ワンキンユー）、風邪薬、バンドエイド（絆創膏）**                                             | 大陸同胞の「身体の健康」への配慮と医療水準の格差を体現。     |
+| **政治証明** | **蔣介石（しょうかいせき）の写真、投誠証明書（保証金と職位の約束）**                                   | 政治的避難所と具体的な経済的再起の機会を提供 [^6]。          |
 
-📝 **Curator's Note**: The "instant noodles" in the aerial drops were a highly shocking symbol in mainland China at that time. This industrial product, which could be eaten immediately upon opening and came with multiple seasoning packets, represented an unimaginable "efficiency" and "abundance" to mainland citizens still under the rationing system.
+📝 **キュレーターノート**：空中投下物資中の「インスタントラーメン」は当時の大陸において極めて衝撃的なシンボルであった。開けてすぐ食べられ、複数の調味料パックが付属するこの工業製品は、まだ配給制下にあった大陸民衆にとって、想像を絶する「効率」と「豊かさ」を代表するものだった。
 
-## Modern Evolution: Taiwan's Digital Penetration Strategy Against China
+## 現代の進化：台湾のデジタル浸透戦略
 
-Entering 2026, traditional balloons and loudspeakers have moved to the background. Taiwan's psychological warfare against China has shifted to utilizing **digital penetration power** and **information asymmetry** for counterattacks.
+2026年、伝統的な気球とスピーカーは二線級に退き、台湾の対中心理戦は**デジタル浸透力**と**情報非対称性**を活用した反撃へと転換した。
 
-### "Value Psychological Warfare" Penetrating the Firewall
+### グレート・ファイアウォールを貫く「価値観の心理戦」
 
-Taiwan utilizes the communication power of its free society to penetrate China's information control network. This is no longer simple "surrender incentives," but "cognitive enlightenment":
+台湾は自由社会の伝播力を利用し、中国の情報統制網を貫く。これはもはや単なる「投誠報奨」ではなく、「認知の啓蒙」である：
 
-- **Social Media Penetration**: Through platforms like X (formerly Twitter), YouTube, and Telegram, Taiwan's civil society and government cooperate to disseminate information about democratic operations, social welfare, and the re-dissemination of blocked information within mainland China [^10].
-- **Digital Democracy Wall**: Utilizing blockchain technology or decentralized storage to preserve records of protests deleted within mainland China (such as records of the White Paper Movement), positioning Taiwan as a "backup repository for Chinese-language democracy," which itself is a powerful psychological demonstration.
+- **ソーシャルメディア浸透**：X（旧 Twitter）、YouTube、Telegram 等のプラットフォームを通じ、台湾の民間と公式が連携し、民主主義の運営、社会福祉、大陸内部で遮断された情報の再拡散を行う [^10]。
+- **デジタル民主の壁**：ブロックチェーン技術や分散型ストレージを利用し、大陸内部で削除された抗争の記憶（白紙運動の記録など）を保存し、台湾を「中国語圏民主のバックアップ庫」として位置づける。この存在自体が強力な心理的模範となる。
 
-### Counterattacks Against Cognitive Warfare
+### 認知作戦への反撃
 
-When China uses AI-generated disinformation to attack Taiwan, Taiwan's psychological warfare units (such as the Psychological Warfare Brigade) have also shifted to "defensive psychological warfare" and "exposure-type psychological warfare":
+中国がAI生成の偽情報で台湾を攻撃する際、台湾の心理戦部隊（心戦大隊など）も「防衛型心理戦」と「暴露型心理戦」へと転換した：
 
-- **Exposure Mechanisms**: Rapidly using AI identification tools to dismantle CCP deepfake videos (such as the fake doctor case in 2025) and creating summary guides to reverse-push back into the mainland Chinese cyberspace, undermining their official credibility [^3] [^9].
-- **Utilization of Information Asymmetry**: Targeting social contradictions within mainland China (such as youth unemployment, economic decline), disseminating true international financial analysis and comparative data, shaking mainland citizens' confidence in the narrative of "great power rise."
+- **暴露メカニズム**：AI検知ツールを迅速に活用し、中共のディープフェイク動画（2025年の偽医師事例など）を解体し、その手法をまとめ記事として中国のネット空間へ逆配信し、公式の信頼性を毀損する [^3] [^9]。
+- **情報非対称性の活用**：大陸内部の社会矛盾（若年失業、経済減速など）を狙い、真実の国際金融分析と比較データを拡散し、大陸民衆の「大国台頭」ナラティブへの信頼を揺るがす。
 
-## Paradigm Shift: From "Incentives" to "Identity"
+## パラダイムシフト：「誘引」から「共鳴」へ
 
-Comparing history and modernity, the essence of psychological warfare has undergone a profound displacement:
+歴史と現代を対比すると、心理戦の本質に深い位相変化が生じている：
 
-1.  **Media Transformation**: From physical balloons and loudspeakers to digital algorithms, encrypted communications, and AI.
-2.  **Target Shift**: Historical psychological warfare aimed to "attract defection" (individual breakthrough); modern psychological warfare aims to "export identity" and "guard truth" (collective enlightenment).
-3.  **Convergence of Defense and Offense**: In the digital age, defending against disinformation is simultaneously an "offensive of true information" against the adversary.
+1.  **媒体の転換**：物理的な気球・スピーカーから、デジタル的なアルゴリズム・暗号通信・AIへ。
+2.  **目標の転換**：歴史的心理戦は「投誠の誘引」（個人の突破）を旨としたが、現代心理戦は「共鳴の輸出」と「真実の防衛」（集団の啓蒙）を旨とする。
+3.  **防衛と攻撃の融合**：デジタル時代において、偽情報を防衛すること自体が、敵方への「真実の情報」による攻撃となる。
 
-📝 **Curator's Note**: In the past, we exchanged "pineapple cakes" for the enemy soldier's stomach; now we exchange "facts and transparency" for the skepticism of the mainland population towards the authoritarian system. The defense line has retreated from Kinmen's beaches to every packet in cyberspace.
+📝 **キュレーターノート**：かつて我々は「パイナップルケーキ」で敵兵の胃袋を掴んだ。今や我々は「事実と透明性」で対岸の人々の権威主義体制への懐疑を掴む。防衛線は金門の浜辺から、デジタル空間のあらゆるパケットへと後退した。
 
-## Conclusion: Building a New Line of Resilience
+## 結語：レジリエンスを持つ新たな防衛線の構築
 
-Psychological warfare has never disappeared; it has only changed its shell. From the history of the Kinmen Broadcasting Wall, we learn the power of voice; in the challenges of modern AI and information warfare, we must learn how to utilize "truth" as the most powerful psychological warfare weapon. Taiwan, as the democratic lighthouse of the Chinese-speaking world, its existence itself is the most powerful psychological warfare against authoritarian systems.
+心理戦は決して消滅していない。ただ外殻を変えただけだ。金門播音壁の歴史から声の力を学び、現代のAIと情報戦の挑戦の中で、我々はいかに「真実」を最強の心理戦兵器として活用するかを学ばねばならない。台湾は中国語圏の民主の灯台として、その存在自体が権威主義体制への最強の心理戦となっている。
 
-## References
+## 参考文献
 
-[^1]: [https://www.bbc.com/ukchina/simp/vert-cul-47506739](https://www.bbc.com/ukchina/simp/vert-cul-47506739) — BBC News Chinese Report
+[^1]: [https://www.bbc.com/ukchina/simp/vert-cul-47506739](https://www.bbc.com/ukchina/simp/vert-cul-47506739) — BBC News 中文報導
 
-[^2]: [https://opinion.cw.com.tw/blog/profile/353/article/11914](https://opinion.cw.com.tw/blog/profile/353/article/11914) — Independent Review @ World Column
+[^2]: [https://opinion.cw.com.tw/blog/profile/353/article/11914](https://opinion.cw.com.tw/blog/profile/353/article/11914) — 獨立評論@天下專欄：獨立評論@天下專欄
 
-[^3]: [https://www.nownews.com/news/6786985](https://www.nownews.com/news/6786985) — NOWnews Today News
+[^3]: [https://www.nownews.com/news/6786985](https://www.nownews.com/news/6786985) — NOWnews 今日新聞
 
-[^4]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — Official Data from China's State Council Taiwan Affairs Office (PRC Perspective)
+[^4]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — 中國國台辦官方資料（PRC 觀點）
 
-[^5]: [https://tcmb.culture.tw/zh-tw/detail?id=753758](https://tcmb.culture.tw/zh-tw/detail?id=753758) — National Cultural Memory Bank
+[^5]: [https://tcmb.culture.tw/zh-tw/detail?id=753758](https://tcmb.culture.tw/zh-tw/detail?id=753758) — 國家文化記憶庫：國家文化記憶庫
 
-[^6]: [http://board.matsu.idv.tw/boardview.php?board=143&pid=69902](http://board.matsu.idv.tw/board_view.php?board=143&pid=69902) — Matsu Information Network Archive
+[^6]: [http://board.matsu.idv.tw/boardview.php?board=143&pid=69902](http://board.matsu.idv.tw/board_view.php?board=143&pid=69902) — 馬祖資訊網檔案：馬祖資訊網檔案
 
-[^7]: [https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html](https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html) — Yahoo News Report
+[^7]: [https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html](https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html) — Yahoo 新聞報導
 
-[^8]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — Official Data from China's State Council Taiwan Affairs Office (PRC Perspective)
+[^8]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — 中國國台辦官方資料（PRC 觀點）
 
-[^9]: [Taiwan.md: Cognitive Warfare — The AI Industrialization Stage of Taiwan's Information Battlefield](https://taiwan.md/society/認知作戰/) — Taiwan.md internal entry, recording the industrialization trend of China's AI cognitive warfare against Taiwan from 2024-2026
+[^9]: [Taiwan.md：認知作戰 — 台灣資訊戰場的 AI 工業化階段](https://taiwan.md/society/認知作戰/) — Taiwan.md 站內條目，記錄 2024-2026 年中國對台 AI 認知作戰的工業化趨勢
 
-[^10]: [https://theintellectual.net/zh/famous-column/zeng-jianyuan/3083-202107e.html](https://theintellectual.net/zh/famous-column/zeng-jianyuan/3083-202107e.html) — The Intellectual Special Article
+[^10]: [https://theintellectual.net/zh/famous-column/zeng-jianyuan/3083-202107e.html](https://theintellectual.net/zh/famous-column/zeng-jianyuan/3083-202107e.html) — 思想坦克專文：思想坦克專文
 
-[^11]: [https://www.facebook.com/setnews/videos/614706516938986/](https://www.facebook.com/setnews/videos/614706516938986/) — Facebook Public Post
+[^11]: [https://www.facebook.com/setnews/videos/614706516938986/](https://www.facebook.com/setnews/videos/614706516938986/) — Facebook 公開貼文
