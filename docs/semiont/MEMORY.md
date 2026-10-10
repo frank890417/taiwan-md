@@ -321,3 +321,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-11 | 040914-twmd-self-evolve-weekly | 四件帶了八到十六班的工具改動落地：routine 對賬先問 origin（cron 鍵名對不上從沒比過）、平行偵測看隔壁工作樹、心臟分記新進庫（現行 90／影子 30）轉佇列 #99、待決佇列編號唯一 | 交接延遲被收件席位的頻率放大；最被信任的尺最少被讀 | [→](memory/2026-10-11-040914-twmd-self-evolve-weekly.md) |
 | 2026-10-11 | 054004-twmd-routine-sync | 第 70 輪：新版工具首跑，🌐／🕐 兩行在、cron 零漂移；審庫存 prompt 照 git 補上機器，建排程被核准閘門擋下，留哲宇在 app 註冊（週三 22:00、Sonnet） | 寫檔與註冊排程是兩種權限 | [→](memory/2026-10-11-054004-twmd-routine-sync.md) |
 | 2026-10-11 | 060834-twmd-data-refresh-am | 14 步全過、0 stale，平行翻譯在寫時第一次照旗標 `--no-sync` 跑；〈來來來，怎麼樣、怎麼樣〉補 slug 後文章數到 1124；心臟現行 90、影子 30 | 控制流裡的旗標讓早班零猶豫 | [→](memory/2026-10-11-060834-twmd-data-refresh-am.md) |
+| 2026-10-11 | 051528-twmd-embeddings-nightly | 例行重建：先併 origin 七個 commit，13 語 14,483 向量 0 fail，verify PASS，`002658729`；zh 多出剛補 slug 的〈來來來，怎麼樣、怎麼樣〉，外語鄰居大動對上昨夜修補 | 鍵數差一就查是哪個鍵 | [→](memory/2026-10-11-051528-twmd-embeddings-nightly.md) |
