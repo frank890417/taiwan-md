@@ -1,232 +1,226 @@
 ---
-title: "Taiwan's Democratic Transition: The Grave the Autocracy Dug for Itself"
-description: 'Every crackdown creates more resisters. From the February 28 Incident to the Sunflower Movement, how an island allowed a dictatorial regime to cultivate the very forces that would bury it.'
+title: '台湾民主の転換——権威主義が自ら掘った墓穴'
+description: '弾圧は常にさらなる抵抗者を生む。二二八事件から太陽花学運まで、ある島がいかにして独裁体制自らが、自らを葬る力を育て上げてきたのか。'
 date: 2026-03-24
 category: 'History'
-tags:
-  [
-    'Democracy',
-    'Transitional Justice',
-    'Political History',
-    'Human Rights',
-    'Social Movements',
-  ]
+tags: ['民主主義', '移行期的正義', '政治史', '人権', '社会運動']
 subcategory: '民主與治理'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-07
 lastHumanReview: true
 sporeLinks:
-  [
-    "{'id': 10, 'platform': 'threads', 'date': '2026-04-07', 'url': 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'}",
-  ]
+  - id: 10
+    platform: 'threads'
+    date: '2026-04-07'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'
 translatedFrom: 'History/台灣民主轉型.md'
-sourceCommitSha: ''
+sourceCommitSha: 'dbaf28954'
 sourceContentHash: 'sha256:a9330a2eb23d9c97'
 sourceBodyHash: 'sha256:20dd14ee57321b53'
-translatedAt: '2026-07-30T03:36:39.261915+00:00'
+translatedAt: '2026-10-11T01:05:40+08:00'
 ---
 
-# Taiwan's Democratic Transition: The Grave the Autocracy Dug for Itself
+# 台湾民主の転換——権威主義が自ら掘った墓穴
 
-On the morning of April 7, 1989, two hundred police officers surrounded the _Freedom Times_ magazine office on Minquan East Road in Taipei. Zheng Nanrong, 41, had already been self-imprisoned in the editor-in-chief's office for 71 days, refusing to appear in court on charges of "suspected treason."[^1] The moment the霹雳 (霹雳) squad broke down the door, he ignited pre-prepared gasoline, responding to a subpoena with self-immolation.
+1989年4月7日の早朝、200人の警察官が台北市の市民権東路にある『自由時代週刊（じゆうじだいしゅうかん）』の編集部を包囲した。41歳の鄭南榕（てい・なんよう／ジェン・ナンロン）は、すでに編集長室に71日間立てこもり、「反乱の疑い」による出廷を拒否していた。[^1] 特殊部隊が扉を破って突入した瞬間、彼はあらかじめ用意していたガソリンに火を放ち、召喚状に対して自焚という形で応えた。
 
-Seven months later, the Berlin Wall fell. Eight years later, Taiwan elected its first directly elected president. Eleven years later, the party behind that subpoena lost power.
+7ヶ月後、ベルリンの壁が崩壊した。8年後、台湾は初の民選総統を選出した。11年後、その召喚状の背後にあった政党は政権を失った。
 
-Zheng Nanrong's wife, Ye Ju-lan, came from the advertising industry and had never stepped into politics. Eight months after her husband's death, she ran for Legislative Yuan member on his behalf. Her campaign slogan was: "Children, accompany me to fight a mother's holy war!"[^1] She was elected with a high number of votes. Fifteen years later, she took the seat of Vice Premier of the Executive Yuan.
+鄭南榕の妻である葉菊蘭（よう・きくらん／イエ・ジューラン）は広告業界出身であり、政治の世界には足を踏み入れたことがなかった。夫の死から8ヶ月後、彼女は夫に代わって立候補し、立法委員選挙に挑んだ。彼女の選挙スローガンは、「子供たちよ、私と一緒に母としての聖戦を戦いましょう！」であった。[^1] 彼女は高得票で当選した。そして15年後、彼女は行政院副院長の座に就いた。
 
-> **30-Second Overview:** Taiwan traversed the path from the world's longest martial law to Asia's most free and democratic system in forty years, with almost no bloodshed. This was not because the rulers were benevolent, but because every crackdown was counterproductive: the February 28 Incident created silent resisters, the Formosan Magazine Trial put defense lawyers on the political stage, and Zheng Nanrong's fire made freedom of speech an irreversible baseline. The most ironic legacy of an authoritarian regime is that it trains the people who bury it.
+> **30秒概観：** 台湾は40年をかけて、世界最長の戒厳令からアジアで最も自由な民主主義体制へと歩んできたが、そこにはほとんど流血がなかった。それは統治者が慈悲深かったからではなく、あらゆる弾圧が逆効果をもたらしたからである。二二八事件は沈黙の抵抗者を生み、美麗島大審は弁護士たちを政治の舞台へと押し上げ、鄭南榕の炎は言論の自由を不可逆的な一線へと変えた。権威主義体制が残した最も皮肉な遺産とは、自らを葬る人間を自らの手で訓練してしまったことである。
 
-## The Seeds of Trauma: The Shot at the Roundabout (1947)
+## 傷跡の種：円環（エンフアン）の一発（1947）
 
-On the evening of February 27, 1947, at the Taipei Roundabout, Special Sales Bureau investigator Ye De-gen smashed the head of widow Lin Jiang-mai with a gun butt. She fell beside scattered illicit cigarettes, her face covered in blood. The crowd chasing the fleeing investigator was joined by another investigator, Fu Xue-tong, who fired a warning shot into the air. A stray bullet hit 20-year-old Chen Wen-xi, who was watching from his own doorway; he died the next day.[^2]
+1947年2月27日の夕刻、台北の円環（エンフアン）。専売局の取り締まり員であった葉得根（よう・とっこん／イエ・デーゲン）が警棒で未亡人の林江邁（りん・こうまい／リン・ジャンマイ）の頭を殴りつけ、彼女は散乱した密造タバコの横に倒れ、顔面は血に染まった。周囲の群衆が逃走する取り締まり員を追いかけた際、別の取り締まり員である傅学通（ふ・がくつう／フー・シュエトン）が威嚇のために空に向けて発砲した。その逸射弾が自宅前で様子を見ていた20歳の青年、陳文溪（ちん・ぶんけい／チェン・ウェンシー）を直撃し、翌日死亡した。[^2]
 
-A pack of illicit cigarettes ignited the entire island.
+たった一包の密造タバコが、島全体に火をつけた。
 
-The next day, citizens surrounded the Administrative Headquarters to petition. Guards opened fire from the balcony, sweeping the crowd. The protests spread across Taiwan. On March 8, the Nationalist Army's 21st Division landed in Keelung, launching a "clearing of the countryside." The number of casualties remains disputed to this day; the Executive Yuan's 2006 investigation report estimates the death toll between 18,000 and 28,000.[^3] Intellectuals, doctors, lawyers, and local gentry were systematically purged.
+翌日、市民は行政長官公署を包囲して請願したが、衛兵がバルコニーから発砲し掃射を行った。抗議は台湾全土へと拡大した。3月8日、国軍第21師団が基隆（キールン）に上陸し、「清郷（せいきょう）」作戦を展開した。死傷者数は今なお議論の的となっており、行政院の2006年の調査報告では、死者数は1万8千人から2万8千人の間と推定されている。[^3] 知識人、医師、弁護士、地方の名士たちが組織的に粛清された。
 
-> "They did not kill thugs; they killed an entire generation of people who might have led Taiwan." — Wu Zhuoliu, _Fig Without Flowers_
+> 「彼らが殺したのは暴徒ではない。台湾を導く可能性のあった、一世代まるごとの人々である。」——呉濁流（ご・だくりゅう／ウー・ジュオリュウ）、『無花果（むかじゅう）』より
 
-The direct effect of the February 28 Incident was fear. The indirect effect was implanting an indelible question in the memory of an entire generation: **Why can't we decide our own destiny?**
+二二八事件の直接的な効果は「恐怖」であった。しかし間接的な効果として、全世代の記憶の中に消えることのない問いを植え付けた。**「なぜ私たちは自分たちの運命を決定できないのか？」**
 
-On May 19, 1949, Taiwan Provincial Chairman Chen Cheng declared martial law. This "temporary measure" lasted for 38 years and 56 days, the longest period of martial law in world history.[^4] Forming political parties was banned, assemblies were banned, strikes were banned, newspapers were censored before printing, and there were only three TV channels. A baby born in 1949 had to wait until age 38 to know what a Taiwan without martial law looked like.
+1949年5月19日、台湾省主席の陳誠（ちん・せい／チェン・チェン）は戒厳令を布告した。この「臨時措置」は38年と56日間も続き、世界史上最も長い戒厳期間となった。[^4] 政党結成の禁止、集会の禁止、ストライキの禁止、新聞の事前検閲、テレビはわずか3局のみ。1949年に生まれた赤ん坊は、38歳になってようやく、戒厳令のない台湾がどのような姿をしているかを知ることになった。
 
-The authoritarian regime made a fatal error: it assumed silence equaled submission.
+権威主義体制は致命的な間違いを犯した。それは「沈黙は服従である」と誤解したのだ。
 
-## The Most Expensive Talent Training Class for Authoritarianism (1979–1980)
+## 権威主義による最も高価な人材育成講座（1979—1980）
 
-On December 10, 1979, International Human Rights Day. The _Formosan_ Magazine Office planned a rally and march in Kaohsiung. The authorities denied permission, but about 20,000 people gathered anyway. After nightfall, riot police surrounded the venue, with tear gas and batons flying.[^5]
+1979年12月10日、国際人権デー。『美麗島（ビューリトウ）』雑誌社が高雄で集会とデモを計画したが、当局は許可を拒否した。しかし、約2万人が集まった。夜になると鎮圧部隊が会場を包囲し、催涙弾と警棒が飛び交った。[^5]
 
-The mass arrests followed. Huang Xin-jie, Shi Ming-de, Lu Hsiu-lien, Chen Chu, Lin Yi-hsiung, Yao Chia-wen, Chang Chun-hung, and Lin Hung-hsuan were sent to military courts on charges of "treason."
+直後に大規模な逮捕劇が始まった。黄信介（こう・しんかい／ホアン・シンジェ）、施明徳（し・めいとく／シー・ミンデ）、呂秀蓮（りょ・しゅうれん／リュ・シウリェン）、陳菊（ちん・きく／チェン・ジュ）、林義雄（りん・ぎゆう／リン・イーシュン）、姚嘉文（よう・かぶん／ヤオ・ジアウェン）、張俊宏（ちょう・しゅんこう／ジャン・ジュンホン）、林弘宣（りん・こうせん／リン・ホンシュアン）ら8人が「反乱罪」で軍事法廷に送られた。
 
-Then the authoritarian regime made a second mistake: it decided to hold a public trial.
+そして、権威主義体制は第二の間違いを犯す。それは「公開裁判」を行うと決めたことである。
 
-On March 18, 1980, a nine-day military law grand trial unfolded under the spotlight of domestic and international media. The performances of the fifteen defense lawyers (including Tsai Ing-wen, Hsieh Chang-ting, Su Tseng-chang, and Chang Chun-hsiung) made them famous overnight.[^6] The government intended to use the public trial to kill the chicken to scare the monkey, but instead, it created a whole batch of tomorrow's stars. Twenty years later, one president and three Premiers emerged from among these defense lawyers.
+1980年3月18日、9日間にわたる軍法会議が国内外のメディアのスポットライトを浴びて展開された。15人の弁護士（陳水扁（ちん・すいへん／チェン・シュイビェン）、謝長廷（しゃ・ちょうてい／シエ・チャンティン）、蘇貞昌（そ・ていしょう／スー・ジェンチャン）、張俊雄（ちょう・しゅんゆう／ジャン・ジュンション）を含む）は、法廷でのパフォーマンスによって一夜にして有名になった。[^6] 政府は公開裁判によって「見せしめ」を行おうとしたが、結果として次世代のスターたちを大量に生み出すことになった。20年後、これらの弁護士の中から一人の総統と三人の行政院長が出たのである。
 
-> **📝 Curator's Note**
-> Chen Chu, one of the defendants in the Formosan Magazine Trial, wrote a suicide note after being imprisoned at age 29. She was not writing to her family, but to the people of Taiwan. The note quoted the Epistles of Paul: "I have fought the good fight."[^19] She thought she would be shot. Forty-one years later, this former political prisoner became the President of the Control Yuan, responsible for investigating whether the government had committed crimes.
+> **📝 キュレーター・ノート**
+> 美麗島大審の被告の一人であった陳菊氏は、29歳で入獄した際に遺書を書いた。それは家族へではなく、台湾の人々へ宛てたものであった。遺書の中で彼女はパウロの手紙を引用している。「私は、戦い抜きました。」[^19] 彼女は自分が銃殺されると考えていた。41年後、この元政治犯は監察院院長となり、政府の犯罪を調査する責任を担うことになった。
 
-On February 28, 1980, the 33rd anniversary of the February 28 Incident, Lin Yi-hsiung's mother and seven-year-old twin daughters were murdered in their home, and the eldest daughter was severely injured.[^7] The case remains unsolved. This bloodshed made more Taiwanese people see clearly: authoritarian rule is not just an abstract political issue; it breaks into your home and kills your children.
+1980年2月28日、二二八事件から33周年の日、林義雄氏の母親と7歳の双子の娘が自宅で殺害され、長女は重傷を負った。[^7] この凶事は今なお未解決である。この血の惨劇により、より多くの台湾人が理解することとなった。権威主義的な統治とは単なる抽象的な政治問題ではなく、あなたの家に押し入り、あなたの子供を殺すものであるということを。
 
-## The Fatal Blow: Gunshots from a California Garage (1984)
+## 致命的な一撃：カリフォルニアのガレージに響いた銃声（1984）
 
-On October 15, 1984, overseas Chinese writer Liu Yi-liang (pen name "Jiang Nan") was shot dead in the garage of his California residence. The FBI investigation revealed: the killer was a member of the Zhuhui Gang absorbed by the Taiwan Military Intelligence Bureau, orchestrated by Intelligence Bureau Director Wang Hsi-ling.[^8]
+1984年10月15日、米国在住の作家である劉宜良（りゅう・ぎりょう／リウ・イーリャン、筆名「江南（こうなん）」）がカリフォルニア州の自宅ガレージで射殺された。FBIの捜査の結果、犯人は台湾軍事情報局が取り込んだ竹聯幇（ちくれんほう／チューレンバン）の構成員であり、情報局長の汪希苓（おう・きれい／ワン・シーリン）が計画したものであることが判明した。[^8]
 
-The Taiwanese government assassinated an American citizen on U.S. soil.
+台湾政府が米国の領土内で米国民を暗殺したのである。
 
-Washington was outraged, threatening to cut off arms sales. Chiang Ching-kuo was forced to hand over Wang Hsi-ling and two others for trial. The Jiang Nan case forced Chiang Ching-kuo to face a cold calculation: the cost of continuing authoritarian rule had become higher than the cost of opening up.
+ワシントンは激怒し、一時は武器売却の中止を表明した。蔣経国（しょう・けいこく／ジャン・ジングオ）は汪希苓ら3人を引き渡し、裁判にかけざるを得なくなった。「江南事件」により、蔣経国は冷酷な計算式に直面することとなった。権威主義統治を継続する代償は、すでに開放へと舵を切る代償を上回っていたのである。
 
-> "Changes in the international situation stripped the legitimacy of Taiwan's authoritarian rule. Democratic transition was not a gift, but an inevitable choice under internal and external pressure." — Larry Diamond, _Taiwan: A Democratic Success Story_[^9]
+> 「国際情勢の変化により、台湾の権威主義統治は正当性を失った。民主化への転換は恩恵ではなく、内外の圧力による必然的な選択であった。」——ラリー・ダイアモンド（Larry Diamond）、『Taiwan: A Democratic Success Story』[^9]
 
-## "Arresting People Doesn't Solve Problems" (1986–1987)
+## 「逮捕では問題は解決できない」（1986—1987）
 
-On September 28, 1986, the Democratic Progressive Party (DPP) was illegally established at the Taipei Grand Hotel. The Police Headquarters sent over an arrest list. Chiang Ching-kuo's response was six words: **"Arresting people doesn't solve problems."**[^20] He set the list aside.
+1986年9月28日、民進党が台北の圓山大飯店（えんざんだいはんてん）において違法に結成された。警察本部は逮捕者リストを送りつけた。蔣経国の反応は、わずか6文字であった。「**逮捕では問題は解決できない。**」[^20] 彼はそのリストを脇に置いた。
 
-In January 1987, Chiang Ching-kuo gave an interview to the _Washington Post_ publisher, Marvin Kalb, announcing the lifting of martial law and the opening of political parties. Ma Ying-jeou, then 36 years old and serving as a translator, later recalled: "My scalp went numb, and my whole body felt like it was being electrocuted."[^20]
+1987年1月、蔣経国は『ワシントン・ポスト』の 발행人（はっこうにん）であるマウント・マウント氏（Morningside/Mount）のインタビューに応じ、戒厳令の解除と政党結成の開放を発表した。その場で通訳を務めていた36歳の馬英九（ば・えいきゅう／マー・インチウ）は、後にこう回想している。「頭皮がピリピリとして、全身に電流が走ったようだった。」[^20]
 
-Why lift martial law? Not out of a change of heart. The Jiang Nan case had ruined the international image; pressure from the non-KMT movement continued to rise; the end of the Cold War was stripping the authoritarian regime of its international backing; and Chiang Ching-kuo's own diabetes had left him nearly blind, with his health deteriorating rapidly. Lifting martial law was the result of calculation, not the product of mercy.
+なぜ戒厳令を解除したのか？ それは良心の呵責によるものではない。江南事件によって国際的イメージが失墜し、党外運動の圧力が高まり続け、冷戦の終結が権威主義統治の国際的な後ろ盾を奪い、そして蔣経国自身の糖尿病が悪化して視力をほぼ失いつつあったからである。戒厳令解除は計算の結果であり、慈悲の産物ではなかった。
 
-At midnight on July 15, 1987, the martial law order was lifted. Taiwanese people could suddenly form parties, assemble, and march. But thirty-eight years of silence would not turn into clamor just because of an order. Most people did not know what to do.
+1987年7月15日午前0時、戒厳令が解除された。台湾の人々は突如として政党を結成し、集会やデモを行うことが可能となった。しかし、38年間の沈黙は、たった一枚の命令によって喧騒へと変わるわけではなかった。大部分の人々は、どう振る舞えばよいのか分からなかったのである。
 
-**Democracy is not a switch. It requires an entire society to relearn how to be citizens.**
+**民主主義はスイッチではない。それは社会全体が「市民であること」を学び直すプロセスを必要とするのだ。**
 
-## Seventy-One Days and a Fire (1989)
+## 71日間と一本の火（1989）
 
-Taiwan was not peaceful after the lifting of martial law. In 1988, Chiang Ching-kuo died, and Lee Teng-hui succeeded him as president, with conservative factions within the party watching like tigers. The boundaries of freedom of speech remained blurred.
+戒厳令解除後の台湾は、決して平穏ではなかった。1988年に蔣経国が死去し、李登輝（り・とうき）が総統を継承したが、党内の保守派は虎視眈々と機会を伺っていた。言論の自由の境界線は依然として曖昧であった。
 
-Zheng Nanrong decided to test this boundary. In December 1988, he published the full text of the _Draft Constitution of the Republic of Taiwan_, drafted by Hsu Shih-kai, in the _Freedom Times_. The authorities issued a subpoena on charges of "suspected treason." Zheng Nanrong publicly declared: "The Kuomintang cannot catch my person, only my corpse."[^1]
+鄭南榕は、その境界線を試すことを決意した。1988年12月、彼は『自由時代週刊』に、許世楷（きょ・せいかい／シュー・シーカイ）が起草した『台湾共和国憲法草案』の全文を掲載した。当局は「反乱の疑い」で召喚状を発付した。鄭南榕は公然と宣言した。「国民党は私の人間を捕まえることはできない、捕まえられるのは私の死体だけだ。」[^1]
 
-Starting January 27, 1989, he locked himself in the magazine's editor-in-chief office, refusing to appear in court. Seventy-one days later, on the morning of April 7, he fulfilled his promise with fire.
+1989年1月27日から、彼は雑誌社の編集長室に立てこもり、出廷を拒否した。71日後の4月7日早朝、彼は炎によってその約束を果たした。
 
-His wife, Ye Ju-lan, said: "One person running a magazine, writing articles, and dying—you think once they are dead, it's over? Although I am a woman, I can also do something."[^1]
+妻の葉菊蘭氏は語った。「一人の人間が雑誌を出し、記事を書き、死んだ。死んでしまえばそれで終わりだと思っているかもしれないが——私は女であっても、できることがあるのだ。」[^1]
 
-April 7 was later designated as "Freedom of Speech Day." Zheng Nanrong's self-immolation turned "freedom of speech" from a policy issue that could be discussed into an un-negotiable baseline. After him, no one could righteously say "such words cannot be spoken."
+4月7日は後に「言論の自由の日」と定められた。鄭南榕の自焚は、「言論の自由」を議論可能な政策課題から、交渉不可能な一線へと変えた。彼の後には、もはや誰も「そんなことは言ってはいけない」と堂々と口にすることはできなくなった。
 
-## Six Thousand Wild Lilies vs. Tiananmen (1990)
+## 6,000輪の野百合 vs 天安門（1990）
 
-On the afternoon of March 16, 1990, a small group of students went to the square at the Chiang Kai-shek Memorial Hall for a sit-in. The cause was the National Assembly, elected in 1947 on the mainland and never fully re-elected after coming to Taiwan, preparing to elect Lee Teng-hui for re-election as president.
+1990年3月16日の午後、少数の大学生が中正紀念堂の広場に座り込みを行った。その原因は、1947年に中国本土で選出され、台湾に渡った後一度も全面的な改選が行われていなかった「万年国会」の国民大会が、李登輝の総統再選選挙を行おうとしたことにある。
 
-When the news spread, it resonated across the island. In just a few days, nearly 6,000 people gathered.[^10] They presented four major demands: dissolve the National Assembly, abolish the Temporary Provisions, convene a National Affairs Conference, and establish a reform timetable.
+このニュースが広まると台湾全土から反応があり、わずか数日のうちに約6,000人が集まった。[^10] 彼らは四大要求を掲げた：国民大会の解散、臨時条項の廃止、国是会議の開催、改革スケジュールの策定である。
 
-The key question arose: Would Lee Teng-hui respond like Tiananmen did the previous year, or would he take another path?
+ここで決定的な問いが突きつけられた。李登輝は前年の天安門事件のような対応をとるのか、それとも別の道を進むのか。
 
-On the evening of March 21, Lee Teng-hui met with 53 student representatives at the Presidential Office.[^10] He promised to convene a National Affairs Conference. After the representatives returned to the square, student movement leader Fan Yun reported to all students. By a vote of the inter-school meeting, 22 to 1, the students decided to withdraw autonomously.
+3月21日夜、李登輝は総統府で53名の学生代表と面会した。[^10] 彼は国是会議の開催を約束した。代表たちが広場に戻ると、学運のリーダーであった范雲（はん・うん／ファン・ユン）が全学生に報告を行い、大学間の会議による22対1の決議を経て、学生たちは自主的な撤退を決定した。
 
-> **📝 Curator's Note**
-> The students at Tiananmen waited for tanks. The students in Taipei waited for the President's promise. And the promise was kept: the Temporary Provisions were abolished in 1991, the Legislative Yuan was fully re-elected in 1992, mayors of Taipei and Kaohsiung were directly elected in 1994, and the president was directly elected in 1996. Within nine years, from authoritarianism to full democracy. The subsequent trajectories of the Wild Lily Movement leaders read like a political encyclopedia: Fan Yun became a DPP legislator, Lin Chia-lung became Minister of Foreign Affairs, and Cheng Wen-pan became Mayor of Taoyuan.
+> **📝 キュレーター・ノート**
+> 天安門の学生たちが待っていたのは戦車であった。台北の学生たちが待っていたのは総統の約束であった。しかも、その約束は果たされたのである。1991年に臨時条項が廃止され、1992年には立法院の全面改選が行われ、1994年には台北・高雄市長の直接選挙が実現し、1996年には総統直接選挙が行われた。わずか9年のうちに、権威主義から完全な民主主義へと移行したのである。野百合学運のリーダーたちのその後の足跡は、まさに政治百科事典のようである。范雲は民進党の立法委員となり、林佳龍（りん・かりゅう／リン・ジアロン）は外交部長となり、鄭文燦（てい・ぶんさん／ジェン・ウェンツァン）は桃園市長となった。
 
-## Voting in Line Under Missiles (1996)
+## ミサイル下での投票（1996）
 
-On March 23, 1996, Taiwan held its first direct presidential election. China's response was to fire missiles in the waters off Keelung and Kaohsiung, attempting to intimidate Taiwanese voters. The U.S. dispatched two carrier strike groups to cross the Taiwan Strait.[^11]
+1996年3月23日、台湾で初めての総統直接選挙が行われた。中国側の対応は、基隆と高雄の外海にミサイルを発射し、台湾の有権者を威嚇することであった。これに対し米国は2つの空母打撃群を台湾海峡へと派遣した。[^11]
 
-Voting stations in Taipei were set up in temples, with voters receiving ballots before the gods. A newlywed couple in Kinmen rushed to vote on their wedding day, celebrating both their marriage and Taiwan's first free election.[^12]
+台北の投票所は寺院の中に設けられ、有権者は神々の前で投票用紙を受け取った。金門では新婚夫婦が結婚式当日に投票へ駆け込み、結婚と台湾初の自由選挙を同時に祝った。[^12]
 
-The result was counterproductive. With a 76.04% voter turnout, Lee Teng-hui was elected with 54% of the vote. The missiles instead spurred the Taiwanese people's will to vote.[^12]
+結果は逆効果となった。投票率は76.04%に達し、李登輝は54%の得票率で当選した。ミサイルはむしろ台湾人の投票意志を刺激したのである。[^12]
 
-> "For every missile China fires, Lee Teng-hui gains another percentage point." — A joke circulating at the time
+> 「中国がミサイルを1発撃つごとに、李登輝の得票率は1%上がる。」——当時流布したジョークである。
 
-Four sets of candidates, a massive international media presence, missile threats, and then peaceful vote counting, with the losers accepting the results. For the first time in the Chinese-speaking world, a national leader was chosen by ballot.
+4組の候補者、国際メディアの大軍、ミサイルの脅威。しかしその後、平和的に開票が行われ、落選者は結果を認めた。中華圏において初めて、人々は投票によって国家の指導者を選んだのである。
 
-## Party Rotation: The Stress Test of Democracy (2000–2024)
+## 政党交代：民主主義のストレス・テスト（2000—2024）
 
-On the evening of March 18, 2000, TV stations announced successively: Chen Shui-bian and Lu Hsiu-lien were elected. The Kuomintang lost power in Taiwan after 55 years. Twenty years prior, political prisoner Lu Hsiu-lien became Vice President. The defense lawyers from the Formosan Magazine Trial entered the Presidential Office. On May 20, Lee Teng-hui handed the presidential seal to Chen Shui-bian. Peaceful, complete, bloodless transfer of power.[^13]
+2000年3月18日夜、テレビ局が次々と発表した。陳水扁、呂秀蓮の当選である。国民党は台湾における55年間の政権を失った。20年前の政治犯であった呂秀蓮が副総統となった。美麗島大審の弁護士たちが総統府に入った。5月20日、李登輝は総統の印章を陳水扁に手渡した。平和で完全な、流血のない政権交代であった。[^13]
 
-In 2008, Ma Ying-jeou was elected, marking the second rotation, proving the first was no accident. In 2016, Tsai Ing-wen was elected, making Taiwan's first female head of state. In 2024, Lai Ching-te was elected, opening the era of a minority government.
+2008年に馬英九が当選し、二度目の政党交代が行われたことで、第一次が偶然ではなかったことが証明された。2016年には蔡英文が当選し、台湾初の女性元首が登場した。2024年には頼清徳（らい・せいとく／ライ・チンドー）が当選し、少数与党時代が開幕した。
 
-**Four party rotations within twenty-four years. Democracy has become a daily operation rather than a historical event.**
+**24年間に4度の政党交代。民主主義は歴史的な出来事から、日常的な運用へと変わったのである。**
 
-## Thirty Seconds to Declare and Twenty-Four Days of Occupation (2014)
+## 30秒の宣言と24日間の占領（2014）
 
-On the afternoon of March 17, 2014, KMT Legislator Chang Ching-chung declared the Cross-Strait Service Trade Agreement "deemed reviewed" in thirty seconds. The next night at 9:30, over two hundred students and civic groups rushed into the Legislative Yuan chamber.[^14]
+2014年3月17日午後、国民党の立法委員であった張慶忠（ちょう・けいちゅう／ジャン・チンジョン）が、両岸間のサービス貿易協定を「審議済みとみなす」とわずか30秒で宣言した。翌日の夜9時半、200人以上の学生と市民団体が立法院の議場に突入した。[^14]
 
-This occupation lasted twenty-four days. Unlike the Formosan generation, the Sunflower Movement was a decentralized digital movement. The citizen hacker community g0v set up the `g0v.today` aggregation platform, simultaneously streaming seventeen live video feeds, exposing every corner inside and outside the chamber to global viewers.[^21] Engineers from the Industrial Technology Research Institute even assisted in installing six cameras to eliminate blind spots in the corridors. Tang Feng (then a g0v member) later said: "Most of the technology we deployed was neutral; their purpose was simply to encourage people to dialogue."[^21]
+この占領は24日間続いた。美麗島世代とは決定的に異なるのは、太陽花学運が分散型のデジタル運動であったことである。市民ハッカーコミュニティのg0vは、プラットフォーム『g0v.today』を構築し、同時に17のライブ映像をストリーミングすることで、議場内外のあらゆる隅々を世界の視聴者の前にさらけ出した。[^21] 工研院（工業技術研究院）のエンジニアたちは、廊下の死角をなくすために6台のカメラの設置を支援したことさえある。唐鳳氏は後にこう述べている。「私たちが展開した技術の大部分は中立的なものであり、その目的は単に人々が対話することを促すことにあった。」[^21]
 
-On March 30, hundreds of thousands gathered on the Ketagalan Boulevard. The Service Trade Agreement was indeed blocked. More profoundly, it redefined the way Taiwan's younger generation participates in politics: you don't need to join a party; you just need a laptop and a presence on the scene.
+3月30日、凱達格蘭大道には数十万人が集結した。服貿（サービス貿易協定）は確かに阻止された。より深遠な影響は、台湾の若い世代の政治参加のあり方を再定義したことである。政党に加入する必要はない、ノートパソコンと現場さえあればよいのだ。
 
-> **💡 Did You Know**
-> The open-source code of the Sunflower Movement was used by protesters in Hong Kong's 2014 Umbrella Movement to build their own platform. After the occupation ended, g0v collaborated with the government to spawn vTaiwan and the "Legislative Yuan Unparalleled" (Guohui Wushuang) legislative live-streaming system. An occupation became an institution.
+> **💡 ご存知ですか？**
+> 太陽花学運のオープンソース・コードは、香港の2014年雨傘運動の抗争者たちによって、自らのプラットフォーム構築に利用された。占領終了後、g0vは政府と協力して『vTaiwan』や議事ライブ配信システム『国会無雙（こっかいむそう）』を生み出した。一つの占領が、制度へと進化したのである。
 
-## Asia's First Rainbow Certificate (2019)
+## アジア初のレインボー証明書（2019）
 
-At 3:27 PM on May 17, 2019, Legislative Yuan Speaker Su Tseng-chang struck the gavel, passing the _Act Implementing the Judicial Yuan Interpretation No. 748_ in its third reading. Taiwan became the first country in Asia to legalize same-sex marriage.[^15]
+2019年5月17日午後3時27分、立法院長である蘇嘉全（そ・かぜん／スー・ジアチュアン）が議事槌を叩き、『司法院釈字第七四八号解釋施行法』が三読通過した。台湾はアジアで初めて同性婚を合法化した国となった。[^15]
 
-It took effect on May 24. On the first day, 526 same-sex couples completed their registration.
+施行初日である5月24日には、526組の同性カップルが登録を完了した。
 
-The significance of this goes beyond marriage itself. It proves that Taiwan's democracy is not just about majority rule, but also has the capacity to protect the rights of minorities, even if the majority voted against them in a referendum. From the total ban on homosexuality during the martial law period to being number one in Asia, it took more than thirty years.
+この出来事の意義は結婚そのものを超えている。それは、台湾の民主主義が単なる多数決ではなく、たとえ多数派が国民投票で反対票を投じたとしても、少数者の権利を守る能力を持っていることを証明したのである。戒厳令時代に同性愛を全面的に禁止していた状態から、アジア初へと至るまで、30年以上を要した。
 
-## トレッドミルの上の自由
+## トレッドミル上の自由
 
-フリーダムハウス2024年報告：台湾94点（満点100）、アジア2位、世界7位。[^16] エコノミスト民主主義指数2024年：アジア1位、世界12位。[^17]
+Freedom Houseの2024年報告書によれば、台湾は94点（100点満点）を獲得し、アジア第2位、世界第7位である。[^16] エコノミスト・インテリジェンス・ユニット（EIU）の民主主義指数2024年では、アジア第1位、世界第12位となっている。[^17]
 
-数字は見事です。課題もまた現実的です。中国からの情報戦がエスカレートし続け、ソーシャルメディアが政治的極化を加速させ、若者の投票率が低下しています。促進転型正義委員会が2022年に任務を終えましたが、政治档案は依然として完全には開放されておらず、加害者責任はほとんど追及されておらず、中正紀念堂の転型をめぐる論争は棚上げされたままです。[^18]
+数字は美しい。しかし、挑戦もまた現実的である。中国からの情報戦は継続的に激化し、ソーシャルメディアは政治的な極性化を加速させ、若者の投票率は低下している。促進移行期正義委員会は2022年に任務を終えたが、政治的なアーカイブはまだ完全には開放されておらず、加害者の責任追及もほとんどなされていない。中正紀念堂の転換を巡る論争も未解決のままである。[^18]
 
-> **⚠️ 論争的視点**
-> 蔣経国（しょうけいこく）の歴史的位置づけは、台湾社会において最も分断を生む問題の一つであり続けています。支持者は解厳を彼の恩恵と見なします。反対派は、白色テロ期に彼が情治システムを主導し、解厳も内外の圧力に追い込まれた算段だったと指摘します。どちらのナラティブにも事実に基づく裏付けがありますが、どちらの側面を強調するかという選択自体が、一つの政治的スタンスなのです。
+> **⚠️ 議論のある視点**
+> 蔣経国の歴史的評価は、依然として台湾社会で最も意見が分かれる問題の一つである。支持者は戒厳令解除を彼の「恩恵」と見なす。反対者は、白色恐怖時代に彼が情報・治安システムを主導していたことを指摘し、戒厳令解除も内外の圧力による計算であったと主張する。これら二つのナラティブにはどちらにも事実に基づいた根拠があり、どちらの側面を強調するか自体が政治的立場となるのである。
 
-民主主義はトロフィーではなく、トレッドミルです。立ち止まれば、後退するだけです。
+民主主義はトロフィーではない、トレッドミル（ランニングマシン）である。立ち止まれば、それは後退していく。
 
-1980年、29歳の陳菊（ちん・きく／チェン・ジュ）が獄中で遺書を書き、深く愛する台湾に別れを告げました。彼女はパウロ書簡を引用しました。「わたしは立派に戦い抜きました。」[^19]
+1980年、29歳の陳菊氏は獄中で、愛する台湾との別れを綴った遺書を書いた。彼女はパウロの手紙を引用した。「私は、戦い抜きました。」[^19]
 
-彼女は銃殺されませんでした。6年間の刑に服しました。出獄後、民進党の結党を助け、台北市社会局長、労働委員会主任委員、高雄市長12年を務めました。2020年、彼女は監察院長に指名されました。
+彼女は銃殺されなかった。6年の刑期を務めた。出獄後、彼女は民進党の創設を助け、台北市社会局長、労働委員会主任委員、高雄市長を12年間務めた。2020年、彼女は監察院院長に指名された。
 
-同じ人物。同じ島。唯一の違いは：1979年、彼女の思想は犯罪でした。2020年、この元政治犯が政府に犯罪がないかを調べる立場になったのです。
+同じ人物。同じ島。唯一の違いはこうだ。1979年、彼女の考えは「犯罪」であった。2020年、この元政治犯は政府が犯罪を犯していないかを調査する責任を担ったのである。
 
-遺書から監察院長へ、41年。これが民主化転型の意味です。滑らかな感動の弧線ではなく、不条理と矛盾と取り返しのつかない代償に満ちた政治実験です。始めた人々は、成功するかどうか分かりませんでした。多くの人が、自分は死ぬと思っていました。実験は今も続いています。
+遺書から監察院院長へ、41年。これが民主化への転換（民主転型）の意味である。それは滑らかな成功物語ではなく、不条理、矛盾、そして不可逆的な代償に満ちた政治実験なのだ。始めた人々は、それが成功するかどうかを知らなかった。多くの人が、自分が死ぬだろうと思っていた。実験は今も続いている。
 
-**関連記事**：
+**関連記事：**
 
-- [二二八事件](/ja/history/228-incident) — 1947年のトラウマがいかにして台湾民主意識の原点となったか
-- [台湾白色テロ](/ja/history/taiwan-white-terror) — 38年間の戒厳期における政治事件と人権侵害の全貌
-- [戒厳時代](/ja/history/martial-law-era) — 世界最長の戒厳令の法的根拠と社会統制メカニズム
-- [美麗島事件](/ja/history/kaohsiung-incident-formosa-incident) — 1979年高雄事件の全経緯と歴史的影響
-- [台湾の選挙と政党政治](/ja/history/taiwan-elections-and-party-politics) — 万年国会から4度の政党交代へ、選挙制度の変遷
-- [台湾前途決議文](/ja/history/resolution-on-taiwans-future) — 1999年、民進党が曖昧さを含んだ一文で路線転換を果たし、2000年初の政党交代への扉を開いた経緯
-- [台湾の転型正義](/ja/history/taiwan-transitional-justice) — 民主化後、社会がいかに威権期の歴史的トラウマと向き合ってきたか
-- [大リコール](/ja/history/great-recall-movement-2024) — 2025年、3波の投票で33件すべて不成立に終わった史上最大のリコール運動、民主化後の直接民主権ツールの限界と代償を浮き彫りに
-- [ひまわり学生運動](/ja/society/sunflower-movement) — 2014年議会占拠の全記録、30秒の突入から12年後の経済脱中国まで
-- [2026年鄭習会：国共指導者10年ぶりの10分間](/ja/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — なぜAITが「民選指導層との対話」を強調するのか、その原則の根拠はこの民主化の歴史にある
-- [周子瑜（しゅう・しゆ／チョウ・ツーユー）](/ja/people/tzuyu) — 2016年大選前夜の90秒謝罪動画、台湾3回目の政党交代において最も重い一筆となった理由
+- [二二八事件](/ja/history/228-incident) — 1947年の傷跡がいかにして台湾の民主意識の原点となったか
+- [台湾白色恐怖](/ja/history/taiwan-white-terror) — 38年間の戒厳期間における政治事件と人権侵害の全貌
+- [戒厳時期](/ja/history/martial-law-era) — 世界最長の戒厳令の法的根拠と社会統制メカニズム
+- [美麗島事件](/ja/history/kaohsiung-incident-formosa-incident) — 1979年の高雄事件の経緯と歴史的影響
+- [台湾選挙と政党政治](/ja/history/taiwan-elections-and-party-politics) — 万年国会から4度の政党交代に至る選挙制度の変遷
+- [臺灣前途決議文](/ja/history/resolution-on-taiwans-future) — 1999年に民進党が曖昧な文書を用いて路線転換を果たし、2000年の初の政党交代への扉を開いた経緯
+- [台湾の移行期的正義](/ja/history/taiwan-transitional-justice) — 民主化後、社会がいかにして権威主義時代の歴史的傷跡に向き合っているか
+- [大罷免](/ja/history/great-recall-movement-2024) — 2025年の3波の投票における33案件がすべて否決された史上最大の罷免の波。民主転換後の直接的な民権ツールの限界と代償を測る
+- [太陽花学運](/ja/society/sunflower-movement) — 2014年の国会占領の全記録。30秒の突破から12年後の経済的脱中国化まで
+- [2026鄭習会：国共指導者の10年ぶりの再会における10分間](/ja/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — なぜAITは「選出された指導層との対話」を強調するのか？その根拠はこの民主化の歴史にある
+- [周子瑜（チョウ・シユ／ツァイ・ツゥユー）](/ja/people/tzuyu) — 2016年選挙前夜の90秒の謝罪動画。台湾の3度目の政党交代における最も重い一筆
 
-## References
+## 参考文献
 
-[^1]: [Wikipedia: Zheng Nanrong](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%8D%97%E6%A6%95) — A complete record of Zheng Nanrong's life from founding the _Freedom Times_ to his self-immolation martyrdom. Ye Ju-lan's quote is from a Central News Agency 2022 report and a Focus Taiwan 2025 36th-anniversary commemorative report.
+[^1]: [Wikipedia：鄭南榕](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%8D%97%E6%A6%95) — 『自由時代週刊』の創設から自焚による殉教に至る鄭南榕の生涯を記録。葉菊蘭氏の引用は中央社（CNA）の2022年報道およびFocus Taiwanの2025年36周年記念報道に基づく。
 
-[^2]: [Wikipedia: Roundabout Cigarette Smuggling Incident](https://zh.wikipedia.org/zh-tw/%E5%9C%93%E7%92%B0%E7%B7%9D%E8%8F%B8%E4%BA%8B%E4%BB%B6) — Detailed account of the February 27, 1947, illicit cigarette smuggling incident, including the beating of Lin Jiang-mai and the first-hand historical restoration of Chen Wen-xi being shot.
+[^2]: [Wikipedia：円環緝菸事件](https://zh.wikipedia.org/zh-tw/%E5%9C%93%E7%92%B0%E7%B7%9D%E8%8F%B8%E4%BA%8B%E4%BB%B6) — 1947年2月27日の密造タバコ取り締まり事件の詳細な経緯。林江邁氏への暴行と陳文溪氏の銃撃に関する一次史料に基づく。
 
-[^3]: [Research Report on Responsibility for the February 28 Incident](https://www.228.org.tw/) — Published by the Foundation for Reconciliation and Development in 2006, commissioned by the Executive Yuan, it is currently the most authoritative official analysis of casualty figures and responsibility attribution.
+[^3]: [二二八事件責任帰属研究報告](https://www.228.org.tw/) — 二二八事件記念基金会が2006年に出版。行政院の委託による研究であり、死傷者数と責任帰属に関する最も公的な信頼性を持つ分析である。
 
-[^4]: [National Human Rights Museum: Martial Law Period](https://www.nhrm.gov.tw/) — Official archives on the legal basis, implementation scope, and social control mechanisms of Taiwan's 1949-1987 martial law system.
+[^4]: [国家人権博物館：戒厳時期](https://www.nhrm.gov.tw/) — 台湾における1949-1987年の戒厳体制の法的根拠、実施範囲、社会統制メカニズムに関する公式アーカイブ。
 
-[^5]: [National Human Rights Memory Bank: Kaohsiung Incident](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/5) — Contains photos, trial records, and oral histories of the December 10, 1979, Kaohsiung Incident; it is the most digitally advanced historical archive of the Formosan Magazine Incident.
+[^5]: [国家人権記憶庫：高雄事件](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/5) — 1979年12月10日の高雄事件の写真、裁判記録、当事者の口述を収蔵した、デジタル化が進んだ美麗島事件の史料庫。
 
-[^6]: [Story Studio: From Mass Arrests to Military Law Grand Trial](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%AE%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — Contains photos of the military law trial and the list of fifteen defense lawyers, recording how the trial unexpectedly created the next generation of opposition movement leaders.
+[^6]: [故事 StoryStudio：大逮捕から軍法大審へ](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%AE%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C) — 軍法会議の法廷写真と15人の弁護士リストを収録。裁判がいかにして反対運動の次世代リーダーを予期せず生み出したかを記録している。
 
-[^7]: [Wikipedia: Lin Family Tragedy](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88) — The process and subsequent investigation of the Lin Yi-hsiung family massacre on February 28, 1980, remains one of Taiwan's most significant unsolved cases.
+[^7]: [Wikipedia：林宅血案](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88) — 1980年2月28日の林義雄氏宅での家族殺害事件の経緯と調査。台湾における重大な未解決事件の一つ。
 
-[^8]: [National Human Rights Memory Bank: Jiang Nan Case](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/39) — The complete process of the 1984 murder of Liu Yi-liang, recording the investigation into the assassination orchestrated by Military Intelligence Bureau Director Wang Hsi-ling and its international political impact.
+[^8]: [国家人権記憶庫：江南案](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/39) — 1984年の劉宜良氏殺害事件の全容。軍事情報局長の汪希苓による暗殺計画の調査過程と国際政治への影響を記録。
 
-[^9]: Larry Diamond, "Taiwan: A Democratic Success Story," _Journal of Democracy_, 2015 — Academic analysis by Stanford University democracy scholar on Taiwan's democratic transition, arguing how the interaction of internal and external pressures forced the authoritarian regime to reform.
+[^9]: Larry Diamond, "Taiwan: A Democratic Success Story," _Journal of Democracy_, 2015 — スタンフォード大学の民主主義学者による台湾民主化の学術的分析。内外の圧力がどのように権威主義体制の改革を迫ったかを論じている。
 
-[^10]: [Wikipedia: Wild Lily Student Movement](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E7%99%BE%E5%90%88%E5%AD%B8%E9%81%8B) — Complete record of the March 1990 student movement, including the process of Lee Teng-hui meeting 53 student representatives and the 22:1 vote to withdraw in the inter-school meeting.
+[^10]: [Wikipedia：野百合学運](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E7%99%BE%E5%90%88%E5%AD%B8%E9%81%8B) — 1990年3月の学生運動の完全な記録。李登輝による53名の学生代表との面会や、大学間会議での22:1による撤退決議を含む。
 
-[^11]: [Central News Agency: 1996 Taiwan Strait Missile Crisis](https://www.cna.com.tw/news/aipl/202007300339.aspx) — CNA retrospective report, recording the missile crisis involving China firing missiles at Taiwan and the U.S. dispatching carrier strike groups.
+[^11]: [中央通訊社：1996年台海ミサイル危機](https://www.cna.com.tw/news/aipl/202007300339.aspx) — 中央社の回顧報道。中国による台湾へのミサイル発射と米国の空母打撃群派遣による台海危機の経緯を記録。
 
-[^12]: [Focus Taiwan: First Direct Presidential Election 30th Anniversary Image Review](https://focustaiwan.tw/politics/202603235001) — Images from the voting day in 1996, including temple voting stations and the Kinmen newlywed couple voting. Voter turnout and vote data are cited from the Wikipedia 1996 Presidential Election article.
+[^12]: [Focus Taiwan：初の総統直接選挙30周年映像回顧](https://focustaiwan.tw/politics/202603235001) — 1996年の投票日の現場映像（寺院の投票所、金門の新婚夫婦の投票など）。投票率と得票データはWikipediaの1996年大統領選挙条項より引用。
 
-[^13]: [Freedom House: Taiwan Democratization](https://freedomhouse.org/country/taiwan/freedom-world/2024) — Freedom House's annual assessment of Taiwan's democratic development, recording the democratic consolidation process from the first party rotation in 2000 to the present.
+[^13]: [Freedom House：台湾民主化](https://freedomhouse.org/country/taiwan/freedom-world/2024) — Freedom Houseによる台湾の民主主義発展に関する年次評価。2000年の初の政党交代以降の民主主義定着プロセスを記録。
 
-[^14]: [Wikipedia: Sunflower Student Movement](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B) — Complete timeline of the 2014 Legislative Yuan occupation movement, from Chang Ching-chung's forced thirty-second passage to the students' autonomous withdrawal over twenty-four days.
+[^14]: [Wikipedia：太陽花学運](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B) — 2014年の立法院占領運動のタイムライン。張慶忠による強行採決から学生の自主撤退までの24日間の記録。
 
-[^15]: [Legislative Yuan: Act Implementing the Judicial Yuan Interpretation No. 748](https://lis.ly.gov.tw/lgcgi/lglaw?@221:1804289383:f:NO%3DE01961*%20OR%20NO%3DB01961$$12$$$NO-PD) — The full text of the law passed in its third reading on May 17, 2019, making Taiwan the first country in Asia to legalize same-sex marriage.
+[^15]: [立法院：司法院釈字第七四八号解釋施行法](https://lis.ly.gov.tw/lgcgi/lglaw?@221:1804289383:f:NO%3DE01961*%20OR%20NO%3DB01961$$12$$$NO-PD) — 2019年5月17日に三読通過した法律の全文。台湾をアジア初の同性婚合法化国家とした。
 
-[^16]: [Freedom House: Taiwan 2024](https://freedomhouse.org/country/taiwan/freedom-world/2024) — 2024 Annual Report, Taiwan scored 94/100, Political Rights 38/40, Civil Liberties 56/60.
+[^16]: [Freedom House: Taiwan 2024](https://freedomhouse.org/country/taiwan/freedom-world/2024) — 2024年度報告書。台湾は94/100点を獲得（政治的権利 38/40、市民的自由 56/60）。
 
-[^17]: [The Economist: Democracy Index 2024](https://www.eiu.com/n/campaigns/democracy-index-2024/) — The Economist Intelligence Unit Democracy Index, Taiwan scored 8.78 in 2024, ranking 12th globally and first in Asia.
+[^17]: [The Economist: Democracy Index 2024](https://www.eiu.com/n/campaigns/democracy-index-2024/) — エコノミスト誌の民主主義指数。台湾の2024年のスコアは8.78で、世界第12位、アジア第1位。
 
-[^18]: [Executive Yuan: Council for National Reconstruction's Transitional Justice Commission](https://www.tjc.gov.tw/) — An independent agency operating from 2018 to 2022, responsible for opening political archives, removing authoritarian symbols, and remedying judicial injustices. Its mission ended in 2022, with business transferred to various ministries.
+[^18]: [行政院：促進転型正義委員会](https://www.tjc.gov.tw/) — 2018-2022年に運用された独立機関。政治アーカイブの公開、権威主義的象徴の撤去、司法不正の是正を担当。2022年の任務終了後、業務は各省庁へ移管された。
 
-[^19]: [Liberty Times: The Story of Chen Chu's Prison Suicide Note](https://news.ltn.com.tw/news/politics/breakingnews/1553866) — The content and leakage process of the suicide note written by Chen Chu in the Investigation Bureau prison in 1980, secretly brought out by defense lawyer Gao Jun-ming. The note used the Epistles of Paul to encourage himself, saying goodbye to the people of Taiwan rather than his family.
+[^19]: [自由時報：陳菊獄中遺書の全貌](https://news.ltn.com.tw/news/politics/breakingnews/1553866) — 1980年に陳菊氏が調査局の獄中で書いた遺書の内容と流出過程。弁護士の高俊明氏によって密かに持ち出された。遺書はパウロの手紙を引用し、家族ではなく台湾の人々に宛てられたものであった。
 
-[^20]: [China Change: Chiang Ching-kuo and Taiwan's Democratization](https://chinachange.org/2013/06/03/chiang-chang-kuo-and-the-democratization-of-taiwan-2/) — Analysis of Chiang Ching-kuo's decision-making process in his last two years, including the anecdote "Arresting people doesn't solve problems" and Ma Ying-jeou's recollection of "scalp going numb," synthesizing analyses from _Commonwealth Magazine_ and _Retrospect Journal_.
+[^20]: [China Change：蔣経国と台湾民主化](https://chinachange.org/2013/06/03/chiang-chang-kuo-and-the-democratization-of-taiwan-2/) — 蔣経国の晩年の意思決定プロセスの分析。「逮捕では問題は解決できない」という逸話や馬英九氏の回想を含む。天下雑誌およびRetrospect Journalの学術分析を総合。
 
-[^21]: [Global Voices: How Technology Shaped the Sunflower Movement](https://globalvoices.org/2014/04/20/how-technology-and-citizen-media-shaped-taiwans-sunflower-movement/) — Complete record of the g0v citizen hacker community setting up the g0v.today aggregation of 17 live streams during the occupation, ITRI assisting in installing cameras, and Tang Feng's quote.
+[^21]: [Global Voices：テクノロジーがいかに太陽花学運を形作ったか](https://globalvoices.org/2014/04/20/how-technology-and-citizen-media-shaped-taiwans-sunflower-movement/) — g0vによる『g0v.today』の構築、17路ライブ配信、工研院によるカメラ設置支援、唐鳳氏の引用に関する完全な記録。

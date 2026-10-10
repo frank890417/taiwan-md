@@ -1,21 +1,14 @@
 ---
-title: '2026 Zheng-Xi Meeting: The Ten Minutes of a Decade-Long Reunion Between KMT and CCP Leaders'
-description: "On April 10, 2026, Cheng Li-wen met with Xi Jinping in Beijing, becoming the first leader of a major political party in the Republic of China to meet with the General Secretary of the Communist Party of China in ten years. The talks lasted ten minutes, while 100 PLA ships and vessels were present in the Taiwan Strait simultaneously. What exactly was this 'peace journey' about?"
+title: '2026年 鄭習会：中台指導者が10年ぶりに再会した10分間'
+description: '2026年4月10日、鄭麗文（てい・れいぶん／ジェン・リーウェン）は北京で習近平（しゅう・きんぺい／シー・ジンピン）と会談し、過去10年間で初めて中国共産党総書記に会見した中華民国の主要政党指導者となった。会談はわずか10分間。その一方で、台湾海峡には100隻の解放軍艦船が展開していた。この「平和への旅」の真の目的とは何か。'
 date: 2026-04-11
-tags:
-  [
-    'cross-strait-relations',
-    'kmt-ccp-meeting',
-    'cheng-li-wen',
-    'xi-jinping',
-    'geopolitics',
-    'politics',
-    '2026',
-  ]
+category: 'Society'
+tags: ['中台関係', '国共会談', '鄭麗文', '習近平', '地政学', '政治', '2026']
 subcategory: '民主與政治'
 author: 'Taiwan.md'
-category: 'Society'
+difficulty: 'advanced'
 readingTime: 14
+featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 sporeLinks:
@@ -24,199 +17,197 @@ sporeLinks:
     date: '2026-04-11'
     url: 'https://www.threads.com/@taiwandotmd/post/DW_CjmCkQMW'
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
-sourceCommitSha: ''
+sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
-translatedAt: '2026-06-10T16:41:16Z'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'
-featured: true
-difficulty: 'advanced'
+translatedAt: '2026-10-11T05:16:32+08:00'
 ---
 
-# 2026 Zheng-Xi Meeting: The Ten Minutes of a Decade-Long Reunion Between KMT and CCP Leaders
+# 2026年 鄭習会：中台指導者が10年ぶりに再会した10分間
 
-## Ten Minutes in the Fujian Hall
+## 福建庁での10分間
 
-On the afternoon of April 10, 2026, in the Fujian Hall of the Great Hall of the People in Beijing. The photographers at the door counted the seconds of the handshake between the two protagonists: it was much shorter than the 80-second "handshake of the century" between Ma Ying-jeou and Xi Jinping in Singapore in 2015. [^1]
+2026年4月10日午後、北京の人民大会堂・福建庁。入り口にいたカメラマンたちは、二人の主役が握手した秒数を数えていた。それは、2015年に馬英九（ば・えいきゅう／マー・インジウ）氏と習近平氏がシンガポールで行った80秒間の「世紀の握手」に比べれば、はるかに短いものだった[^1]。
 
-The talks inside lasted only about ten minutes. Cheng Li-wen, Chairman of the Kuomintang (KMT) and one of the party's representatives in the Legislative Yuan when the Democratic Progressive Party (DPP) was in power four months ago, now presented five propositions to Xi Jinping in the name of the "Kuomintang." After listening, Xi Jinping nodded and said that compatriots on both sides of the strait are Chinese. [^2]
+室内での会談は約10分間のみ行われた。中国国民党主席であり、わずか4ヶ月前までは民進党（民主進歩党）政権下で党団代表の一人であった鄭麗文（てい・れいぶん／ジェン・リーウェン）氏は、現在は「中国国民党」の身分として習近平氏に対し5つの主張を提示した。習近平氏はそれを聞き終えると頷き、「中台の同胞は皆、中国人である」と述べた[^2]。
 
-When these ten minutes ended, across the Taiwan Strait from the East China Sea to the South China Sea, approximately 100 PLA Navy and Coast Guard vessels were executing deployments. This number was around 70 at the end of March. [^3] International security sources later told Reuters: this might become the "new normal." [^4]
+この10分間が終わる頃、東シナ海から南シナ海にかけての台湾海峡には、約100隻の中共海軍および海警局の艦船が展開していた。3月末時点ではこの数字は約70隻であった[^3]。国際安全保障の専門家は後にロイター通信に対し、これが「ニューノーマル（新常態）」になる可能性があると語った[^4]。
 
-The talks in the Fujian Hall and the 100 ships are two scripts of the same play.
+福建庁での会談と100隻の艦船は、同じ物語における二つの異なるシナリオである。
 
-> **30-Second Overview**: On April 10, 2026, KMT Chairman Cheng Li-wen met with Xi Jinping in Beijing, marking the first time a leader of a major political party in the Republic of China has met with the General Secretary of the Communist Party of China since the 2015 Ma-Xi meeting. Cheng proposed five points including a "peace framework for cross-strait relations" and "returning to the WHA/ICAO," to which Xi responded with the unification narrative that "compatriots on both sides of the strait are Chinese." The Mainland Affairs Council (MAC) accused Cheng of not presenting our three major demands, while the AIT reiterated that meaningful cross-strait dialogue must include the elected government. Meanwhile, as the talks proceeded, approximately 100 PLA ships were surrounding Taiwan.
+> **30秒要約**：2026年4月10日、国民党主席の鄭麗文氏が北京で習近平氏と会見した。これは2015年の馬習会以来、中華民国の主要政党指導者が中国共産党総書記に会見する初めてのケースとなった。鄭氏は「中台平和の枠組み」や「WHA/ICAOへの復帰」を含む5つの主張を提示したが、習氏は「中台の同胞は皆、中国人である」という統一論理で応じた。台湾陸委会は、鄭氏が台湾側の三大要求を提示しなかったと非難し、米国在台湾協会（AIT）は、意義のある対話には民選政府が含まれる必要があると再確認した。会談の最中、約100隻の解放軍艦船が台湾を包囲していた。
 
-## A Person Who Moved from Green Camp to Blue Camp and Then to Beijing
+## 緑から青へ、そして北京へと歩んだ人物
 
-If one person's background is used to reflect the complexity of cross-strait relations in 2026, Cheng Li-wen might be the best choice.
+2026年の中台関係の複雑さを一人の人物の経歴に投影するならば、鄭麗文氏こそが最良の選択肢かもしれない。
 
-Born in 1969 in Jingzhong Third Village, Tainan, her father was a National Army veteran from Yunnan who came to Taiwan, and her mother was from Yunlin. She grew up in a typical veteran family. [^5] In 1988, at the age of 19, she joined the Democratic Progressive Party (DPP). In the post-martial law student movement generation, she stood out for being "daring to speak and show," once advocating for Taiwan independence, and served as Deputy Director of the DPP's Youth Development Department and Deputy Convenor of the National Assembly party group. [^6]
+彼女は1969年、台南の精忠三村で生まれた。父は雲南省から台湾へ渡ってきた国軍の老兵であり、母は雲林出身である。典型的な栄民（退役軍人の家族）家庭で育った[^5]。1988年、19歳の彼女は民主進歩党に入党した。戒厳令解除後の学生運動世代の中で、「物怖じせず発言する」姿勢で頭角を現し、かつては台湾独立を主張し、民進党の青年発展部副主任や国民大会の党団副召集人を務めたこともあった[^6]。
 
-A turning point occurred in 2005. Then-KMT Chairman Lien Chan continuously invited her to cross the boundary. Eventually, she left the DPP and joined the KMT. She subsequently served as KMT Spokesperson, Executive Yuan Spokesperson, and Legislator, remaining active in the blue camp's political commentary circle for twenty years with a "warrior" image.
+転機は2005年に訪れた。当時、国民党主席であった連戦（れん・せん／リエン・チャン）氏から相次いで境界を越えるよう促され、最終的に彼女は民進党を離脱し、国民党へ入党した。その後、国民党の報道官、行政院報道官、立法委員を歴任し、「戦将」としてのイメージで青（国民党支持層）の政論界において20年間にわたり活躍してきた。
 
-On October 18, 2025, in a presidential election viewed as a debate on the KMT's direction, Cheng Li-wen defeated former Taipei Mayor Hung Hsiu-chu and Legislator Luo Chih-chiang with 50.15% of the vote to become the KMT Chairman. [^7] Her campaign slogan was extremely naked: "I am Chinese." A political figure who moved from advocating Taiwan independence to publicly declaring "I am Chinese" was elected chairman of the Republic of China's oldest political party.
+2025年10月18日、国民党の路線論争とも見なされた総裁選挙において、鄭麗文氏は得票率50.15%で前台北市長の郝龍斌（かく・りゅうひん／ハオ・ロンビン）氏や立法委員の羅智強（ら・ちきょう／ルオ・ジーチャン）氏を破り、国民党主席に就任した[^7]。彼女の選挙スローガンは極めて剥き出しのものだった。「私は中国人である」。台湾独立を主張していた政治家が、「私は中国人である」と公言する者となり、中華民国で最も歴史ある政党のトップに選ばれたのである。
 
-Half a year later, she walked into the Fujian Hall with that identity.
+その半年後、彼女はその身分で福建庁へと足を踏み入れた。
 
-## The Ma-Xi Meeting Ten Years Ago and What Is Different Today
+## 10年前の馬習会と、今日との決定的な違い
 
-To understand why the ten minutes on April 10 are worth revisiting, we must first return to another moment ten years ago.
+4月10日の10分間がなぜ振り返るに値するのかを理解するには、まず10年前の別の瞬間まで遡らなければならない。
 
-On November 7, 2015, at the Shangri-La Hotel in Singapore. Then-President of the Republic of China Ma Ying-jeou shook hands with General Secretary of the Communist Party of China Xi Jinping for 80 seconds. This was the **first** formal meeting between the highest leaders of both sides since the political separation in 1949 -- this "first" took 66 years from the end of the civil war. [^8]
+2015年11月7日、シンガポールのシャングリ・ラ・ホテル。当時の中華民国総統であった馬英九氏と、中国共産党総書記の習近平氏は80秒間にわたって握手を交わした。これは1949年の政治的分断以来、両岸の最高指導者が**初めて**公式に会見した瞬間であった。この「初めて」は、内戦終結から数えて66年を要したものだった[^8]。
 
-The principles of that meeting were clearly stated by the Ma administration: "equality, dignity," no preset premises, no political negotiations, no signing of agreements, no joint statements, choosing a third location, respecting legislative oversight, no black-box deals. Both sides met as "leaders of Taiwan" and "leaders of the mainland," addressing each other as "Mr." Then-Executive Yuan Premier Mao Chi-kuo's post-meeting interpretation was: "Neither side recognizes the sovereignty of the other, nor denies the governing authority of the other." [^9]
+その会見の原則について、馬英九政権は明確に示していた。「対等、尊厳」。前提条件を設けず、政治交渉に及ばず、合意に署名せず、共同声明を発表せず、第三国を選び、議会の監督を尊重し、密室政治（ブラックボックス）を排除すること。双方は「台湾の指導者」と「大陸の指導者」という身分で会い、互いに「先生」と呼び合った。当時の行政院長であった毛治国（もう・じこく／マオ・ジーグォ）氏は、事後に「中台は互いに主権を承認せず、かつ統治権を否定もしない」と解釈した[^9]。
 
-Ten years later, in the Zheng-Xi meeting, every condition has changed.
+しかし、10年後の鄭習会では、あらゆる条件が変化していた。
 
-- **Venue**: Not a third location, but the Great Hall of the People in Beijing.
-- **Identity**: Not "Leader of Taiwan" facing "Leader of the Mainland," but "Chairman of the Kuomintang" facing "General Secretary of the Communist Party of China." This format removes the Republic of China government from the picture. The talks are packaged as "communication between two parties," rather than interaction between two political entities.
-- **Equality on the rostrum**: In 2015, both sides addressed each other as "Mr." In 2026, the titles used were "Chairman Cheng" and "General Secretary Xi" -- these are intra-party titles.
-- **Aftermath**: In 2015, Ma Ying-jeou's first act upon returning to Taiwan was to report to the Legislative Yuan; in 2026, Cheng Li-wen's reporting target is the KMT Central Executive Committee.
+- **場所**：第三国ではなく、北京の人民大会堂である。
+- **身分**：「台湾の指導者」対「大陸の指導者」ではなく、「中国国民党主席」対「中国共産党総書記」であった。この形式は、中華民国政府を画面から排除している。会談は二つの政治実体の相互作用ではなく、「二党間のコミュニケーション」としてパッケージ化された。
+- **演壇上の対等さ**：2015年は互いに「先生」と呼び合った。2026年は「鄭主席」と「習総書記」という、党内の役職名が用いられた。
+- **事後対応**：2015年に馬英九氏が台湾に戻って最初に行ったことは立法院への報告であった。2026年の鄭麗文氏の報告先は、国民党の中央常務委員会であった。
 
-In ten years, two political figures from the Republic of China met the same Xi Jinping. The difference is that one went with a national identity, and the other went with a party identity.
+この10年の間に、二人の中華民国の政治家が同じ習近平氏に会った。違いは、一人は国家の身分で臨み、もう一人は政党の身分で臨んだことである。
 
-## Cheng Li-wen's Five Propositions
+## 鄭麗文の5つの主張
 
-Cheng Li-wen proposed five propositions during the talks, using her own words: "promote peace through exchanges, enhance development through cooperation": [^10]
+鄭麗文氏は会談の中で、彼女自身の言葉を借りれば「交流によって平和を促進し、協力によって発展を高める」ための5つの主張を提示した[^10]。
 
-1. **Enhance Taiwan's International Space**: Promote Taiwan's return to the World Health Assembly (WHA) and the International Civil Aviation Organization (ICAO), and seek opportunities to participate in the International Criminal Police Organization (INTERPOL), RCEP, CPTPP, etc.
-2. **Promote Peaceful Development of Cross-Strait Relations**: Construct "institutionalized peaceful development of cross-strait relations" through exchanges and cooperation, gradually achieving a "peace framework."
-3. **Restore Cross-Strait Consultation Mechanism**: Restore cross-strait consultations on the basis of the "1992 Consensus," stacking a cycle of goodwill.
-4. **Maintain Peace and Stability in the Taiwan Strait**: Promote practical economic cooperation to enhance public support for cross-strait peace.
-5. **Exert the Function of the KMT-CCP Communication Platform**: Use the party-to-party channel to promote exchanges and cooperation at all levels.
+1. **台湾の国際活動空間の拡大**：台湾の世界保健総会（WHA）および国際民間航空機関（ICAO）への復帰を推進し、インターポール、RCEP、CPTPPなどへの参加機会を模索する。
+2. **中台関係の平和発展の推進**：交流と協力の中で「中台関係の平和発展の制度化」を構築し、段階的に「平和の枠組み」を達成する。
+3. **中台協議メカニズムの回復**：「九二共識（九二共通認識）」の基礎の上に中台協議を回復させ、善意の循環を積み上げる。
+4. **台湾海峡の平和と安定の維持**：実利的な経済協力を推進し、中台の平和に対する民意の支持を強化する。
+5. **国共両党のコミュニケーション・プラットフォーム機能の発揮**：党対党のパイプを通じて、あらゆるレベルでの交流協力を促進する。
 
-In the Taiwan public opinion arena, these five propositions immediately split into two interpretations.
+台湾の世論において、これら5つの主張は即座に二通りの解釈へと分裂した。
 
-Supporters say: Cheng finally placed Taiwan's international space issue on the table of highest-level cross-strait dialogue, something the DPP government never achieved -- Lai Ching-te could not sit at that table.
+賛成派はこう言う。「鄭氏はついに台湾の国際空間問題を中台最高レベルの対話のテーブルに乗せた。これは民進党政権には決してできなかったことだ。頼清徳（らい・せいとく／ライ・チンデ）氏にはあの席に座ることはできないのだ」。
 
-Opponents say: Cheng Li-wen used the term "peace framework" to quietly slide the future cross-strait relationship from "maintaining the status quo" to "final political resolution" -- and the so-called "final political resolution" is the official CCP vocabulary for the unification roadmap. The MAC's six-point statement afterward directly used the sharpest sentence: "Cheng Li-wen's proposed 'peace framework' is actually a 'unification framework'." [^11]
+反対派はこう言う。「鄭麗文氏は『平和の枠組み』という言葉を使うことで、将来の中台関係を『現状維持』から『最終的な政治解決』へと密かに滑らせようとしている。そして、いわゆる『最終的な政治解決』とは、中国共産党の公式用語による統一へのロードマップそのものである」。台湾陸委会は事後の声明で、「鄭麗文氏が提示した『平和の枠組み』は『統一の枠組み』である」と極めて鋭い言葉を用いた[^11]。
 
-Both interpretations make sense -- but only one side can represent the position of the Republic of China through legal principles.
+どちらの解釈にも理がある。しかし、法理的に中華民国の立場を代表できるのは一方のみである。
 
-## Xi Jinping Said Only One Thing
+## 習近平はたった一つのことしか言わなかった
 
-Cheng Li-wen proposed five points; Xi Jinping responded with one theme.
+鄭麗文氏が5つの項目を挙げたのに対し、習近平氏は一つのテーマで応じた。
 
-According to the full text of the speech released after the meeting, [^12] Xi Jinping's speech can be compressed into a few sentences:
+会談後に公開された演説全文[^12]によれば、習近平氏の発言は以下のように要約できる。
 
-- Compatriots on both sides of the strait are Chinese, belonging to the Chinese nation.
-- The world is currently not peaceful; peace is precious.
-- With the common political basis of "adhering to the 1992 Consensus and opposing Taiwan independence," [he is] willing to strengthen exchanges with all political parties in Taiwan.
-- National unification is the trend of history; both sides of the strait are "one family" and should jointly be responsible for national rejuvenation.
+- 中台の同胞は皆、中国人であり、共に中華民族に属している。
+- 世界は今、平穏ではない。平和は極めて貴重である。
+- 「九二共識を堅持し、台湾独立に反対する」という共通の政治的基礎の上に、台湾の各政党との交流を強化する用意がある。
+- 国家の統一は歴史の潮流であり、中台は「一家」である。民族の復興のために共に責任を負うべきである。
 
-Comparing the speeches of both sides reveals a phenomenon: **Cheng Li-wen proposed five specific things, while Xi Jinping repeated only one principle.**
+双方の発言を比較すると、一つの現象が見て取れる。**鄭麗文氏が5つの具体的な事柄を提示したのに対し、習近平氏はただ一つの原則を繰り返したのである**。
 
-This is not a failure of dialogue; this is an asymmetry of dialogue. The five propositions are tactics; one principle is strategy. Tactics can be bargained over; strategy can only be accepted or rejected as a whole. Xi Jinping did not need to respond to Cheng's "return to WHA" or "restore two-party consultations"; he only needed to confirm one thing: Do you acknowledge that we are "one family"?
+これは対話の失敗ではなく、対話の「非対称性」である。5つの主張は戦術であり、一つの原則は戦略である。戦術は互いに駆け引きができるが、戦略は全体として受け入れるか、全体として拒否するかのどちらかしかない。習近平氏は鄭氏の「WHA復帰」や「協議メカニズムの回復」に応じる必要はない。彼はただ、一つを確認すればよい。「我々が『一家』であることを認めるかどうか」である。
 
-As long as "one family" is tacitly accepted by both sides, all remaining specific matters can be "comprehensively and positively studied." This is why the CCP official media emphasized after the meeting that "regarding the propositions and expectations raised by Cheng Li-wen, every item can be positively facilitated" -- because the premise has already been established, and details become technical issues. [^13]
+もし「一家」であることが双方に黙認されれば、残りのすべての具体的事項は「全面的かつ積極的に研究」することが可能になる。会談後に中国の官媒が「鄭麗文氏の主張と期待に対し、一つひとつ積極的に成し遂げることができる」と強調したのはそのためだ。前提が成立してしまえば、詳細は技術的な問題に変わるからである[^13]。
 
-MAC Vice Chairman Liang Wen-jie's summary afterward was very concise: "We repeatedly asked Cheng Li-wen to present Taiwan's people's three major demands to Xi Jinping -- acknowledge the existence of the Republic of China, respect the will of the Taiwan people, and stop military aircraft and warship harassment. Unfortunately, the Chairwoman did not mention any of them." [^14]
+陸委会副主委の梁文傑（りょう・ぶんけつ／リャン・ウェンジェ）氏は後に、非常に簡潔にこう総括した。「我々は鄭麗文氏に対し、習近平氏へ台湾人民の三大要求──中華民国の存在を直視すること、台湾人民の意思を尊重すること、軍機・艦船による威嚇を停止すること──を提示するよう繰り返し求めてきた。しかし残念ながら、鄭主席は一つも語らなかったのである」[^14]。
 
-## Reactions in Taipei and Washington
+## 台北の反応、そしてワシントンの反応
 
-Within four hours after the talks ended, three messages were sent from different directions.
+会談終了後の4時間以内に、異なる方向から3つのメッセージが発せられた。
 
-**Executive Yuan**: The signal conveyed by the Zheng-Xi meeting is that China attempts to incorporate Taiwan into the "One China framework" through party interactions, laying a political foundation for so-called "peaceful unification." 23 million Taiwanese people will not accept this. [^15]
+**行政院**：鄭習会が伝えた信号は、中国が政党間の交流を通じて台湾を「一つの中国の枠組み」に組み込もうとし、いわゆる「平和統一」のための政治的基礎を築こうとする試みであり、2300万人の台湾人はこれを受け入れないということである[^15]。
 
-**Lai Ching-te (Facebook)**: "History tells us that compromising with authoritarian regimes only sacrifices sovereignty and democracy, bringing neither freedom nor peace." [^16] He顺势 called on the KMT to support his national defense special budget.
+**頼清徳氏（Facebook）**：「歴史が教えてくれるのは、権威主義への妥協は主権と民主主義を犠牲にするだけであり、自由も平和ももたらさないということだ」[^16]。彼はこの流れで、国民党に対し自身の国防特別予算の支持を呼びかけた。
 
-**American Institute in Taiwan (AIT)**: Meaningful cross-strait exchanges require **unconditional dialogue** between Beijing and Taiwan's elected leadership, and should also communicate with all political parties. [^17] Translated into plain language: You can talk with the opposition party, but talking only with the opposition party has no significance for the status quo of the Taiwan Strait.
+**米国在台湾協会（AIT）**：意義のある中台交流には、北京と台湾の民選指導層による**無条件の対話**が必要であり、またすべての政党とのコミュニケーションも図られるべきである[^17]。これを率直に訳せば、「野党と話すことは構わないが、野党とだけ話すことは、台湾海峡の現状にとって何の意味もない」ということである。
 
-Placing these three reactions together outlines three different endpoints of cross-strait interaction in 2026. Beijing wants to bypass Lai Ching-te; Washington demands Lai Ching-te be put back on the table; and Taipei's administrative system is already prepared to treat the entire event as "unification warfare behavior."
+これら3つの反応を並べると、2026年の中台相互作用における3つの異なる端点が浮かび上がる。北京は頼清徳氏を回避しようとし、ワシントンは頼清徳氏をテーブルに戻すよう要求し、台北の行政システムは事態全体を「統一戦線工作」として処理する準備を整えている。
 
-After returning to Taipei, Cheng Li-wen accepted media interviews, emphasizing that Xi Jinping's response was "particularly positive" and that he mentioned "every item can be comprehensively and positively studied." [^18] But the MAC also fired back with one sentence: "They can flip their faces at any time; it is difficult to expect [anything]." [^19]
+鄭麗文氏本人は台北に戻った後、メディアの取材に対し、習近平氏の回答は「特に前向きであった」とし、「相手は一つひとつ全面的かつ積極的に研究できると言及した」と強調した[^18]。しかし、陸委会も一言で応戦した。「いつ豹変するか分からない相手に、期待はできない」[^19]。
 
-## 100 Ships, No Rest
+## 100隻の艦船は休まない
 
-During the ten-minute talks in the Fujian Hall in Beijing, and for the entire day after they ended, the Taiwan Strait did not quiet down.
+北京の福建庁での10分間の会談が行われている間、そしてそれが終わった後の丸一日を通して、台湾海峡が静まり返ることはなかった。
 
-According to Reuters citing international security sources, the number of PLA Navy and Coast Guard vessels deployed between the East China Sea and the South China Sea increased from approximately 70 at the end of March to approximately 100 during the week of the talks. [^20] This number is noteworthy because its timing was not a typical military exercise cycle, nor a response to a specific provocation -- it was simply **there**.
+ロイター通信が国際安全保障の専門家の話を引用したところによれば、東シナ海から南シナ海にかけて展開されている中国の海軍および海警局の艦船数は、3月末の約70隻から、会談があった週には約100隻に増加していた[^20]。この数字が注目される理由は、その出現時期が典型的な軍事演習のサイクルでも、特定の挑発への反応でもないからである。それは単に**そこに存在している**のだ。
 
-The judgment of international security sources: **This may become the "new normal."** The so-called new normal means that the background noise of the Taiwan Strait is no longer "China is not here," but "China's 80-100 ships are always here."
+国際安全保障専門家の判断によれば、**これは「ニューノーマル」になる可能性がある**。いわゆるニューノーマルとは、台湾海峡の背景ノイズが「中国がここにいないこと」ではなく、「中国の80〜100隻の艦船が常にここにいること」に変わることを意味する。
 
-This forms an absurd parallel scene with the ten-minute talks. What was discussed in the talks was "promoting peaceful development of cross-strait relations"; the scene outside the talks was "deploying 100 combat vessels in peacetime." When peace becomes an issue to be discussed, warships become the background, instead becoming a common sense that does not need to be discussed.
+これは10分間の会談と、不条理な並行画を形成している。会談の中で議論されているのは「中台関係の平和発展の推進」であり、会談の外の現場は「平和な時期における100隻の戦闘艦船の展開」である。平和が議論すべき議題となったとき、戦艦は背景となり、むしろ議論の必要のない常識となってしまうのだ。
 
-## The Void Before the Trump-Xi Meeting
+## トランプ・習近平会談前の空白
 
-Why did this meeting happen in early April 2026?
+なぜこの出来事は2026年4月初旬に起きたのか？
 
-Asian affairs analyst Yin, interviewed by US NPR, offered an interpretation of this timing: Cheng Li-wen's "peace journey" occurred before Trump's expected visit to China. Her strategy is to use Taiwan society's anxiety about the uncertainty of the Trump administration to promote a "more risk-averse, more centrist" strategic choice for Taiwan. [^21]
+米国のNPRがインタビューしたアジア問題アナリストの尹（いん／イン）氏は、この時期について次のような解釈を示している。鄭麗文氏のこの「平和への旅」は、トランプ氏の訪中が予想される前に行われた。彼女の戦略は、トランプ政権に対する不確実性への台湾社会の不安を利用し、「よりリスク回避的で、より中道的な」台湾の戦略的選択を推進することであった[^21]。
 
-Song Wendi of the Atlantic Council offers another perspective: Cheng Li-wen's talk of "institutional arrangements to prevent war," translated into plain language, is actually the policy direction of "slowing down national defense military building, buying fewer US weapons." [^22]
+アトランティック・カウンシル（Atlantic Council）の宋文笛（そう・ぶんてき／ソン・ウェンティ）氏は別の視点を持つ。鄭麗文氏が語る「戦争を予防するための制度的取り決め」とは、平易な言葉にすれば、「国防予算の増額を緩め、米国の武器購入を減らす」という政策の方向性を意味している[^22]。
 
-Adding the views of the two analysts points to a judgment: The true target audience of the Zheng-Xi meeting is neither in Beijing nor in Taipei, but in Washington. Xi Jinping wants to demonstrate before the Trump-Xi meeting that "Taiwan's internal opposition to protecting Taiwan is not a solid block"; Cheng Li-wen wants to send a signal to Washington that "the United States is not Taiwan's only option."
+二人のアナリストの見解を合わせると、一つの判断が導き出される。鄭習会の真の観客は北京にも台北にもおらず、ワシントンにいる。習近平氏はトランプ・習近平会談の前に「台湾内部でも、中国を守るための意見は一枚岩ではない」ことを示そうとしており、鄭麗文氏はワシントンに対し「米国は台湾にとって唯一の選択肢ではない」という信号を送ろうとしているのだ。
 
-These ten minutes of the Zheng-Xi meeting are a performance for a third party.
+鄭習会のこの10分間は、第三者のために演じられた10分間であった。
 
-## Ending: The Dual Scripts of Peace and Force
+## 結末：平和と武力の二重のシナリオ
 
-Ten years have passed, separated by one US President, a semiconductor war, and three Taiwan Strait crises.
+10年が経過した。その間には一人の米国大統領、一つの半導体戦争、そして三度の台湾海峡危機があった。
 
-The 2015 Ma-Xi meeting was symmetrical -- the current highest leaders of two countries shook hands for 80 seconds, addressing each other as "Mr." This was an era when both sides of the strait were still willing to pretend they were equal. The 2026 Zheng-Xi meeting is asymmetrical -- the Republic of China government was not present; the KMT opposition chairman was present; one proposed five specific propositions, the other repeated one unification premise.
+2015年の馬習会は「対称的」であった。二つの国家の現職最高指導者が80秒間握手し、互いに「先生」と呼び合った。それは中台がまだ互いに対等であるふりをすることができた時代であった。10年後の鄭習会は「非対称」である。中華民国政府は不在であり、中華民国の野党主席がそこにいる。一方は5つの具体的な主張を掲げ、もう一方は一つの統一の前提を繰り返す。
 
-> **Cheng Li-wen went to Beijing with five propositions, but the talks lasted only ten minutes; the moment she said "peace framework," 100 Chinese ships were surrounding Taiwan. Peace is the script; force is the stage direction.**
+> **鄭麗文氏は5つの主張を持って北京へ向かったが、会談はわずか10分間であった。彼女が「平和の枠組み」を語ったその瞬間、100隻の中国艦船が台湾を包囲していた。平和はシナリオであり、武力は舞台指示である。**
 
-The five propositions Cheng Li-wen brought back to Taiwan will be discussed, disputed, and digested. But after the talks ended, those 100 ships remained in the Taiwan Strait -- they do not discuss, do not dispute, do not digest. They are just there.
+鄭麗文氏が台湾に持ち帰った5つの主張は、議論され、争われ、消化されるだろう。しかし、会談が終わっても、あの100隻の艦船は依然として台湾海峡に存在している。それらは議論せず、争わず、消化もしない。ただそこに在るだけだ。
 
-This is the reality of cross-strait relations in 2026: What is discussed at the negotiation table is peace; what is placed under the table is gunpowder. Peace is spoken because gunpowder is brought in; gunpowder is allowed to stay on site because peace is still being spoken. The two scripts explain each other; neither can exist alone, and neither truly believes the other.
+これが2026年の中台の現実である。交渉のテーブルで語られるのは平和であり、テーブルの下に置かれているのは火薬である。平和が語られるのは、火薬が持ち込まれたからであり、火薬が現場に留まることが許されているのは、平和がまだ語られているからである。二つのシナリオは互いを説明し合っており、どちらも単独では存在できず、どちらも相手を真に信じてはいない。
 
-Singapore in 2015 was a handshake; Beijing in 2026 is a play. Who is this play for? Perhaps for Trump, perhaps for the 23 million Taiwanese people, perhaps for history. But when the play ends and the lights come on, what remains is 100 ships -- and the answer that changes every ten minutes: Where is Taiwan going?
+2015年のシンガポールは一度の握手であり、2026年の北京は一つの演劇であった。この演劇は誰に見せるためのものか？ おそらくトランプ氏に見せるため、あるいは2300万人の台湾人に見せるため、あるいは歴史に見せるためかもしれない。しかし、幕が下り、明かりが灯ったとき、そこに残り続けるのは100隻の艦船である。そして、10分ごとに変化し続ける一つの答えである。「台湾は一体どこへ向かうのか」という問いだ。
 
 ---
 
-**Further Reading**:
+**関連記事**：
 
-- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/ja/history/taiwan-strait-crises-and-cross-strait-relations) — The seventy-year history of cross-strait interaction from 1949 to 2016; the Zheng-Xi meeting is just the latest chapter in this long river.
-- [Taiwan Political Environment and Electoral System](/ja/society/taiwan-political-landscape-and-electoral-system) — To understand "why Cheng Li-wen," one must first understand the intra-party line debate of the KMT 2025 Chairmanship Election.
-- [Taiwan's Democratic Transition](/ja/history/taiwan-democratization) — Why does the AIT emphasize "dialogue with elected leadership"? The foundation of this principle lies here.
-- [Taiwan's National Defense and Military Modernization](/ja/society/taiwan-defense-modernization) — Behind Cheng's "institutional arrangements to prevent war" is the political offensive and defensive of the national defense budget.
-- [Lai Ching-te](/ja/people/lai-ching-te) — The other protagonist of this play, the one deliberately kept out of the frame.
-- [Cheng Li-wen](/ja/people/cheng-li-wun) — From the student movement girl who went on a hunger strike for Taiwan independence at the NTU gate in 1988, to the KMT Chairman who said "compatriots on both sides of the strait are Chinese" in Beijing in 2026.
-- [Han Kuo-yu](/ja/people/han-kuo-yu) — Speaker of the Legislative Yuan, the host of the Legislative Yuan budget negotiations this week of the Zheng-Xi meeting; another key character in this play.
-- [Taiwan and Eswatini](/ja/society/taiwan-eswatini-relations) — Lai Ching-te's diplomatic discourse during his visit to allied countries in the same period, the juxtaposition of "The Republic of China (Taiwan) is a sovereign country belonging to the world" and "compatriots on both sides of the strait are Chinese."
+- [台湾海峡の危機と中台関係の発展](/ja/history/taiwan-strait-crises-and-cross-strait-relations) — 1949年から2016年までの70年にわたる中台相互作用の歴史。鄭習会はこの長い河における最新の一章に過ぎない。
+- [台湾の政治環境と選挙制度](/ja/society/taiwan-political-landscape-and-electoral-system) — 「なぜ鄭麗文なのか」を理解するには、まず国民党の2025年総裁選挙における党内路線論争を理解する必要がある。
+- [台湾の民主化転換](/ja/history/taiwan-democratization) — なぜAITは「民選指導層との対話」を強調するのか？ その原則の根底はここにある。
+- [台湾の国防と軍事の近代化](/ja/society/taiwan-defense-modernization) — 鄭氏の「戦争を予防するための制度的取り決め」の背後には、国防予算を巡る政治的な攻防がある。
+- [頼清徳](/ja/people/lai-ching-te) — この演劇のもう一人の主人公であり、意図的に画面の外に置かれた人物。
+- [鄭麗文](/ja/people/cheng-li-wun) — 1988年に台湾大学の校門前で台湾独立のために断食した学生運動の少女から、2026年に北京で「中台の同胞は皆、中国人である」と語る国民党主席へ。
+- [韓國瑜（ハン・コクキ／ホー・ユエ）](/ja/people/han-kuo-yu) — 立法院長であり、鄭習会があった週の立院予算協議の司会者。この演劇におけるもう一つの鍵となる人物。
+- [台湾とスワデニ（史瓦帝尼）](/ja/society/taiwan-eswatini-relations) — 同時期に頼清徳氏が外交関係国を訪問した際の対外論理。「中華民国（台湾）は世界に属する主権国家である」という言葉と、「中台の同胞は皆、中国人である」という言葉の並列的な対照。
 
-## References
+## 参考文献
 
-[^1]: [Historical Review! The 2015 Ma-Xi Meeting Handshake Lasted 80 Seconds - Yahoo News](https://tw.news.yahoo.com/%E6%AD%B7%E5%8F%B2%E5%9B%9E%E9%A1%A7-2015%E5%B9%B4%E9%A6%AC%E7%BF%92%E6%9C%83%E4%B8%96%E7%B4%80%E4%B9%8B%E6%8F%A1-%E9%95%B7%E9%81%9480%E7%A7%92-023734745.html) — Yahoo News compiled historical footage and time details of the 2015 Singapore Ma-Xi meeting, including the official principle of addressing each other as "Mr." and the record of the 80-second handshake.
+[^1]: [歴史回顧！2015年馬習会世紀の握手 長達80秒 - Yahoo 新聞](https://tw.news.yahoo.com/%E6%AD%B7%E5%8F%B2%E5%9B%9E%E9%A1%A7-2015%E5%B9%B4%E9%A6%AC%E7%BF%92%E6%9C%83%E4%B8%96%E7%B4%80%E4%B9%8B%E6%8F%A1-%E9%95%B7%E9%81%9480%E7%A7%92-023734745.html) — Yahooニュースがまとめた2015年シンガポール馬習会の歴史的映像と時間の詳細。互いに「先生」と呼び合った公式原則や、80秒間の握手の記録を含む。
 
-[^2]: [Zheng-Xi Meeting Ends, Cheng Li-wen: Proposed 5 Propositions Including Enhancing Taiwan's International Space - CNA](https://www.cna.com.tw/news/acn/202604100199.aspx) — CNA's on-site record of the pre- and post-meeting process of the Zheng-Xi meeting, listing Cheng Li-wen's five propositions and Xi Jinping's response points verbatim; it is the first-hand record of the official news agency.
+[^2]: [鄭習会閉幕 鄭麗文：5つの主張には台湾の国際活動空間の拡大を含む - 中央社](https://www.cna.com.tw/news/acn/202604100199.aspx) — 中央社による鄭習会の前後過程の現場記録。鄭麗文氏の5つの主張の原文と、習近平氏の回答の要点を逐条列挙した公式通信社の一次記録。
 
-[^3]: [Zheng-Xi Meeting Shouts Peace, Reuters: 100 Chinese Ships Surrounding Taiwan Will Become "New Normal" - Liberty Times Net](https://news.ltn.com.tw/news/politics/breakingnews/5400066) — Liberty Times Net cited Reuters reporting, detailing the deployment timeline and scale changes of CCP ships increasing from 70 at the end of March to about 100 during Cheng Li-wen's visit to China.
+[^3]: [鄭習会で平和を叫ぶ 路透：百隻の中国艦船が台湾を包囲、今後「新常態」に - 自由時報](https://news.ltn.com.tw/news/politics/breakingnews/5400066) — 自由時報によるロイター通信の転載。鄭麗文氏の訪中期間中に、中国の艦船数が3月末の70隻から約100隻へと増加した展開と規模の変化を詳細に記載。
 
-[^4]: [China's Xi meets Taiwan opposition leader ahead of key summit with Trump - NPR](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition) — In-depth analysis from US Public Radio, including Asian affairs analyst Yin's judgment that Cheng Li-wen's strategy is "hedging / middling," and Xi Jinping's consideration of the timing.
+[^4]: [China's Xi meets Taiwan opposition leader ahead of key summit with Trump - NPR](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition) — 米国公共放送（NPR）による英語の深層分析。アジア問題アナリストの尹氏による、鄭麗文氏の戦略が「hedging / middling（ヘッジ／中道）」であるとの判断や、習近平氏の時間的背景に関する考察を含む。
 
-[^5]: [Cheng Li-wen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87) — Wikipedia records Cheng Li-wen's family background, birthplace, parents' ancestral homes, and growth environment, as well as her political path from the DPP to the KMT.
+[^5]: [鄭麗文 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87) — 鄭麗文の家庭環境、出生地、両親の出身地、成長環境、および民進党から国民党への政治的経緯を記録したWikipedia。
 
-[^6]: [Who is Cheng Li-wen? What are her studies, experience, and stories? - KidsMedia](https://kidsmedia.com.tw/2025/10/20/from-green-to-blue-cheng-li-wen-becomes-kmts-first-chairperson-with-dpp-roots/) — KidsMedia's special article compiles Cheng Li-wen's annual positions and turning points from the DPP Youth Development Department to KMT Spokesperson, Executive Yuan Spokesperson, and Legislator.
+[^6]: [鄭麗文とは誰か？学歴、経歴、エピソード - KidsMedia](https://kidsmedia.com.tw/2025/10/20/from-green-to-blue-cheng-li-wen-becomes-kmts-first-chairperson-with-dpp-roots/) — KidsMediaによる特集記事。民進党青年発展部から国民党報道官、行政院報道官、立法委員に至る歴代の役職と転換点をまとめたもの。
 
-[^7]: [Cheng Li-wen Breaks Through with Warrior Image, Green Camp Background Elected KMT Chairman - CNA](https://www.cna.com.tw/news/aipl/202510180186.aspx) — CNA reported the vote counting results of the 12th KMT Chairmanship Election on October 18, 2025. Cheng Li-wen defeated Hung Hsiu-chu and Luo Chih-chiang with 50.15% of the vote, becoming the second female chairman elected directly in KMT history.
+[^7]: [鄭麗文が「戦将」のイメージで突破 緑営出身で国民党主席に当選 - 中央社](https://www.cna.com.tw/news/aipl/202510180186.aspx) — 中央社による2025年10月18日の国民党第12代総裁選挙の結果報道。鄭麗文氏が50.15%の得票率で郝龍斌氏、羅智強氏を破り、国民党史上2人目の女性直選党首となったことを伝える。
 
-[^8]: [Cross-Strait Leaders' Meetings - Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%A4%E5%B2%B8%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E9%9D%A2) — The Wikipedia entry "Cross-Strait Leaders' Meetings" records the historical context of the 2015 Ma-Xi meeting, the background of 66 years of political separation, and the details of the meeting at the Shangri-La Hotel in Singapore.
+[^8]: [中台指導者の会見 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%A4%E5%B2%B8%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E9%9D%A2) — Wikipediaの「中台指導者の会見」項目。2015年の馬習会の歴史的文脈、66年間にわたる政治的分断の背景、シンガポール・シャングリ・ラ・ホテルの会見詳細を収録。
 
-[^9]: [Ma-Xi Meeting / Ma Ying-jeou's Full Speech Calls for Revitalizing China and Expanding Cross-Strait Exchanges - ETtoday](https://www.ettoday.net/news/20151107/592994.htm) — ETtoday recorded Ma Ying-jeou's full speech at the 2015 Singapore Ma-Xi meeting on November 7, as well as Mao Chi-kuo's post-meeting official interpretation of "neither side recognizes the sovereignty of the other, nor denies the governing authority of the other."
+[^9]: [馬習会／馬英九氏演説全文 中華の振興と中台交流拡大を呼びかけ - ETtoday](https://www.ettoday.net/news/20151107/592994.htm) — ETtodayによる2015年11月7日のシンガポールでの馬英九氏の演説全文、および毛治国氏による「主権を承認せず、統治権を否定もしない」という事後の公式解釈。
 
-[^10]: [Cheng Li-wen Proposes Taiwan's Return to Participate in International Organizations, Xi Jinping: Highly Values, Actively Considers - United Daily News](https://udn.com/news/story/124802/9434084) — United Daily News compiled the original text of Cheng Li-wen's five propositions, including the specific listing of returning to WHA, ICAO, CPTPP, and Xi Jinping's positive response record of "highly values, actively considers."
+[^10]: [鄭麗文、台湾の国際組織への復帰を主張 習近平：高度に重視し積極的に検討 - 聯合新聞網](https://udn.com/news/story/124802/9434084) — 聯合新聞網による鄭麗文氏の5つの主張の原文まとめ。WHA、ICAO、CPTPPへの復帰を含む具体的な項目と、習近平氏の「高度に重視し積極的に検討する」という前向きな回答を記録。
 
-[^11]: [MAC: Cheng Li-wen's "Peace Framework" Is "Unification Framework" - ETtoday](https://www.ettoday.net/news/20260410/3147256.htm) — The MAC's six-point official statement released afterward directly interpreted Cheng's proposed "peace framework" as a technical packaging of the unification framework, representing the official position of the Executive Yuan system.
+[^11]: [陸委会：鄭麗文の「平和の枠組み」は「統一の枠組み」である - ETtoday](https://www.ettoday.net/news/20260410/3147256.htm) — 陸委会が事後に発表した6点の公式声明。鄭氏が提示した「平和の枠組み」を、統一のための技術的なパッケージングであると直接的に解釈したもの。
 
-[^12]: [Zheng-Xi Meeting] Xi Jinping's Full Speech Exposed, Proposes Conditions for Cross-Strait Peaceful Exchange - Newtalk News](https://newtalk.tw/news/view/2026-04-10/1029065) — Newtalk News exposed Xi Jinping's full speech at the Zheng-Xi meeting, including the core expression of "compatriots on both sides of the strait are Chinese" and the prerequisite conditions of "adhering to the 1992 Consensus and opposing Taiwan independence."
+[^12]: [鄭習会：習近平の演説全文が公開 中台の平和交流の条件を提示 - Newtalk 新聞](https://newtalk.tw/news/view/2026-04-10/1029065) — Newtalk新聞による習近平氏の演説全文の公開。「中台の同胞は皆、中国人である」という主軸や、「九二共識を堅持し、台湾独立に反対する」という前提条件を含む。
 
-[^13]: [Zheng-Xi Meeting CCTV: Xi Jinping Proposes "Four Adherences" to Point the Direction for Cross-Strait Relations - United Daily News](https://udn.com/news/story/124802/9435402) — The CCP official media CCTV's official interpretation of the Zheng-Xi meeting, including Xi Jinping's "Four Adherences" discourse structure and the CCP's statement on the strategic significance of the meeting.
+[^13]: [鄭習会 央視：習近平が「四つの堅持」を掲げ中台関係の方向性を示す - 聯合新聞網](https://udn.com/news/story/124802/9435402) — 中国官媒・CCTVによる鄭習会の公式解釈。「四つの堅持」という習近平氏の論理構造と、会見の戦略的意義に関する中国側の表明を含む。
 
-[^14]: [MAC: What Cheng Li-wen Was Asked to Say "Was Not Said at All," Repeatedly Echoing the Mainland - ETtoday](https://www.ettoday.net/news/20260410/3147289.htm) — ETtoday cited MAC Vice Chairman Liang Wen-jie's direct criticism of the Zheng-Xi meeting, pointing out that Cheng Li-wen did not present Taiwan's three major demands to Xi Jinping (acknowledge the existence of the Republic of China, respect Taiwan's will, stop military aircraft and warship harassment).
+[^14]: [陸委会：鄭麗文が言うべきことを「一つも言っていない」 相手への追従を批判 - ETtoday](https://www.ettoday.net/news/20260410/3147289.htm) — ETtodayによる陸委会副主委・梁文傑氏の直接的な批判の転載。鄭麗文氏が台湾側の三大要求（中華民国の存在、台湾人民の意思、軍機艦船の威嚇停止）を全く提示しなかったことを指摘。
 
-[^15]: [Zheng-Xi Meeting Ends, Executive Yuan: Incorporating Taiwan into One China Framework, 23 Million People Will Not Accept - United Daily News](https://udn.com/news/story/6656/9434610) — United Daily News compiled the Executive Yuan's four-point official statement on the Zheng-Xi meeting, positioning the meeting as CCP's unification warfare behavior to incorporate Taiwan into the "One China framework" through party interactions.
+[^15]: [鄭習会閉幕 行政院：台湾を一つの中国の枠組みに組み込む試み、2300万人は受け入れない - 聯合新聞網](https://udn.com/news/story/6656/9434610) — 聯合新聞網による行政院の4点の公式声明まとめ。会見を、中国が政党間の交流を通じて台湾を「一つの中国の枠組み」に組み込もうとする統一戦線工作であると位置づけている。
 
-[^16]: [Taiwan opposition leader calls for 'reconciliation' after meeting Xi - Al Jazeera](https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi) — Al Jazeera English report, recording Lai Ching-te's Facebook statement "compromising with authoritarian regimes only sacrifices sovereignty and democracy" and Atlantic Council analyst Wen-ti Sung's interpretation.
+[^16]: [Taiwan opposition leader calls for 'reconciliation' after meeting Xi - Al Jazeera](https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi) — アルジャジーラの英語報道。頼清徳氏のFacebookでの「権威主義体制への妥協は主権と民主主義を犠牲にするだけだ」という声明と、アトランティック・カウンシルの分析を含む。
 
-[^17]: [Meaningful cross-strait ties require dialogue with Taiwan's gov't: AIT - Focus Taiwan](https://focustaiwan.tw/politics/202604100024) — CNA English version Focus Taiwan recorded the American Institute in Taiwan (AIT)'s formal response to the Zheng-Xi meeting, emphasizing that meaningful cross-strait dialogue requires unconditional dialogue between Beijing and Taiwan's elected leadership.
+[^17]: [Meaningful cross-strait ties require dialogue with Taiwan's gov't: AIT - Focus Taiwan](https://focustaiwan.tw/politics/202604100024) — 中央社英語版Focus TaiwanによるAITの公式回答記録。意義のある対話には北京と台湾の民選指導層による無条件の対話が必要であると強調。
 
-[^18]: [Cheng Li-wen Reveals "Xi Jinping Positive Response," MAC: Flipping Faces at Any Time Is Difficult to Expect - ETtoday](https://www.ettoday.net/news/20260410/3147291.htm) — ETtoday recorded Cheng Li-wen's description of Xi Jinping as "particularly positive" when accepting media interviews after the meeting, and the MAC's rebuttal response of "flipping faces at any time."
+[^18]: [鄭麗文、習近平の「前向きな回答」を明かす 陸委会：豹変への警戒を](https://www.ettoday.net/news/20260410/3147291.htm) — ETtodayによる記録。鄭麗文氏が会見後にメディアに対し習近平氏の対応を「特に前向きであった」と述べたことと、それに対する陸委会の反論。
 
-[^19]: [Responding to Zheng-Xi Meeting, MAC 6-Point Statement: Cheng Li-wen's Proposed Peace Framework Is "Unification Framework" - United Daily News](https://udn.com/news/story/124802/9434473) — United Daily News compiled the content of the MAC's six-point official statement on the Zheng-Xi meeting, including the direct deconstruction and critical stance of the "peace framework" vocabulary packaging.
+[^19]: [鄭習会への回答 陸委会の6点声明：鄭麗文の平和の枠組みは「統一の枠組み」 - 聯合新聞網](https://udn.com/news/story/124802/9434473) — 聯合新聞網による陸委会の公式声明まとめ。「平和の枠組み」という言葉のレトリックを直接的に解体・批判する立場。
 
-[^20]: [China's Xi meets Taiwan opposition leader ahead of key summit with Trump - NPR](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition) — NPR synthesized international security sources' judgments, pointing out that the deployment timeline and scale of CCP ships increasing from 70 at the end of March to 100 may become the "new normal" for the Taiwan Strait.
+[^20]: [China's Xi meets Taiwan opposition leader ahead of key summit with Trump - NPR](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition) — NPRによる国際安全保障専門家の判断に基づく報道。中国艦船数が3月末の70隻から100隻へと増加した展開が、台湾海峡の「ニューノーマル」になる可能性を指摘。
 
-[^21]: [China's Xi meets Taiwan opposition leader ahead of key summit with Trump - KPBS](https://www.kpbs.org/news/international/2026/04/10/chinas-xi-meets-taiwan-opposition-leader-ahead-of-key-summit-with-trump) — KPBS Public Media recorded NPR analyst Yin's commentary, pointing out that Cheng Li-wen's visit to China timing was to use Taiwan society's anxiety about the Trump administration to promote a "more centrist" strategic choice.
+[^21]: [China's Xi meets Taiwan opposition leader ahead of key summit with Trump - KPBS](https://www.kpbs.org/news/international/2026/04/10/chinas-xi-meets-taiwan-opposition-leader-ahead-of-key-summit-with-trump) — KPBSによるNPRアナリスト・尹氏のコメント。鄭麗文氏の訪中タイミングが、トランプ政権への不安を利用した「より中道的な」戦略的選択のためであると指摘。
 
-[^22]: [Taiwan opposition leader calls for 'reconciliation' after meeting Xi - Al Jazeera](https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi) — Al Jazeera cited Atlantic Council Global China Hub researcher Wen-ti Sung's analysis, pointing out that Cheng Li-wen's "institutional arrangements to prevent war" actually implies slowing down national defense military building and reducing US weapons procurement.
+[^22]: [Taiwan opposition leader calls for 'reconciliation' after meeting Xi - Al Jazeera](https://www.aljazeera.com/news/2026/4/10/taiwan-opposition-leader-calls-for-reconciliation-after-meeting-xi) — アルジャジーラによるアトランティック・カウンシルの宋文笛（Wen-ti Sung）氏の分析。鄭麗文氏の「戦争を予防するための制度的取り決め」が、実質的に国防予算と米国製武器購入の抑制を示唆しているとの指摘。

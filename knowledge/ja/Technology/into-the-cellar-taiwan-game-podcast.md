@@ -1,198 +1,198 @@
 ---
-title: "No Sleep Without Entering the Cellar: Thirty Years of Taiwan's Gaming Community"
-description: "In the late 1990s, a black-background, white-text website was filled with walkthroughs and cheat codes for 90% of Taiwan's single-player games; players called it the 'Cellar'. Then came Gamebase, then came Bahamut. Three names, three eras, a path from dial-up modems to a community of 6 million members."
+title: '地窖に入らねば眠れず：台湾ゲームコミュニティ三十年の軌跡'
+description: '1990年代末、黒地に白文字のウェブサイトが台湾全土のシングルプレイゲーム攻略と裏技の九割を収め、プレイヤーたちはそれを「地窖（セルラー）」と呼んだ。そして「遊戯基地」が来て、「巴哈姆特」が来た。三つの名前、三つの時代、ダイヤルアップモデムから600万会員のコミュニティへと続く道のり。'
 date: 2026-04-23
+category: 'Technology'
 tags:
   [
-    'Cellar',
-    'Gamebase',
-    'Bahamut',
-    'Gaming Community',
+    '地窖',
+    '遊戯基地',
+    '巴哈姆特',
+    'ゲームコミュニティ',
     'BBS',
-    'Chien-Hung Chen',
+    '陳建弘',
     'GNN',
-    'Taiwan Games',
+    '台湾ゲーム',
   ]
 subcategory: '社群與數位文化'
 author: 'zaious'
-category: 'Technology'
-readingTime: 10
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
+readingTime: 10
 translatedFrom: 'Technology/不入地窖焉能睡覺.md'
-sourceCommitSha: ''
-sourceContentHash: 'sha256:c211c97e077ebc86'
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:d882a7c06037e89c'
 sourceBodyHash: 'sha256:abaef255e91e930b'
-translatedAt: '2026-06-09T03:16:10+08:00'
-featured: false
+translatedAt: '2026-10-11T05:16:32+08:00'
 ---
 
-> Taiwan's online gathering places for gaming players have changed homes three times over thirty years. The "Cellar" of the late 1990s was a black treasure trove filled with cheat codes; Gamebase in 2000 was the first Chinese-language gaming portal; Bahamut, which grew out of National Central University's BBS in 1996, saw its membership exceed 6 million by 2025, becoming one of the top five websites in Taiwan by traffic. These three names mark the migration route of Taiwan's gaming community from the dial-up era to the mobile era, and record one thing: the life and death of a community depends on who is willing to stay, not on who arrives first.
-
----
-
-## The Black Treasure Trove Behind the 56K Modem
-
-Late 1990s. Your home's 56K modem squeaks for thirty seconds, and a black-background, white-text webpage slowly emerges. At the top of the page is a row of Chinese numerals in a counter, and below are dense links to game names.
-
-This is the "Cellar" (cellar.com.tw).[^1]
-
-No one remembers exactly who made the Cellar or when it went live. It had no "About Us" page, no company registration, no founder interviews. It was just there, like a library without a street number, containing every walkthrough you needed.
-
-The Cellar's content came almost entirely from user uploads. Complete flowcharts for _The Legend of Sword and Fairy_, password books for _Age of Empires_ (how do you turn this on, the Cobra sports car), character stat builds for _Diablo_, and alchemy pot synthesis tables for _Sword of the Legend_. One player recalled: "The rich walkthroughs and cheat codes inside covered almost every game I had played or was playing at the time."[^2] According to PTT users, the Cellar contained walkthroughs for 90% of the games on the Taiwan PC market.[^3]
-
-A slogan circulated among players: **"No sleep without entering the Cellar; once out of the Cellar, shock the ten thousand sects."**
-
-For many, the Cellar was the first website they ever visited—earlier than Yahoo, earlier than蕃薯藤 (Sweet Potato Vine)—a black cave filled with game cheats.[^4]
-
-> **📝 Curator's Note**
-> The Cellar's mode of existence was unique: it had no community features, no forums, no membership system. It was purely a "warehouse"; players threw walkthroughs in, and other players came to take them. Before Web 2.0, this was the primitive form of online collaboration: anonymous goodwill, knowledge sharing without expectation of return.
-
-Around 2005, the Cellar suddenly became inaccessible. There were no announcements, no farewells; it disappeared quietly, just as it had appeared. Players beat their chests in frustration, but online games had taken over, and the demand for single-player walkthroughs was shrinking. The Cellar briefly revived in late 2008, causing a stir among old players, but the times had already changed.[^5]
-
-The Cellar died for a simple reason: the world it served had disappeared. As players migrated from single-player games to online games, the production method of walkthroughs shifted from "one person writing a complete guide" to "real-time discussion in forums," and static walkthrough warehouses lost their meaning.
+> 台湾のゲームプレイヤーのオンライン集落は、三十年で三度の引っ越しを経験した。1990年代末の「地窖」は裏技で埋め尽くされた黒い宝庫であり、2000年の「遊戯基地」は最初の中国語ゲームポータルサイトであり、1996年に中央大学BBSから生まれた「巴哈姆特」は、2025年に会員数600万を突破し、台湾全土でアクセス数トップ5のウェブサイトとなった。この三つの名前は、台湾ゲームコミュニティがダイヤルアップ時代からモバイル時代へと移り変わる軌跡を示すとともに、一つの事実を記録している：コミュニティの生死は、誰が最初に到着したかではなく、誰が残り続ける覚悟を持っていたかにかかっている。
 
 ---
 
-## Gamebase: The Five-Year Throne
+## 56Kモデムの向こうにある黒い宝庫
 
-On November 16, 2000, "Gamebase" (Gamebase) went live. Behind it was Computer Player Cultural Enterprise, the parent company of _Computer Player_ magazine.[^6]
+1990年代末。自宅の56Kモデムが30秒間ピーヒャラ鳴き、黒地に白文字のウェブページがゆっくりと姿を現す。ページ上部には漢数字のカウンターが並び、その下にはびっしりとゲーム名のリンクが並んでいる。
 
-Completely different from the grassroots style of the Cellar, Gamebase operated commercially from day one. Launching during the hype surrounding Softstar's _Heroes: Dark Earth Online_, it skyrocketed in traffic thanks to its game discussion boards. In 2002, it was rated the "Number One Gaming Website in Chinese," and its membership grew from 30,000 at launch to over 14 million.[^7]
+これが「地窖」（cellar.com.tw）だ。[^1]
 
-Gamebase got one thing right: it moved the professional content of "gaming magazines" online while adding forum functionality. In an era where broadband was just becoming popular and online games were just taking off, players needed a place to check new game info, find guilds, and complain about operators. Gamebase provided this venue.
+地窖を誰が作ったのか、何年に開設されたのかを正確に覚えている人はいない。「会社概要」ページもなく、法人登記もなく、創業者インタビューもない。ただそこにあった。看板のない図書館のように、あなたが必要とするあらゆる攻略本が収められていた。
 
-But its throne lasted only about five years.
+地窖のコンテンツはほぼすべてユーザーの投稿によるものだ。『仙剣奇侠伝』の完全フローチャート、『エイジ・オブ・エンパイア』のチートコード（how do you turn this on、コブラのスポーツカー）、『ディアブロ』のキャラクタービルド、『軒轅剣』の煉妖壺合成表。あるプレイヤーはこう振り返る。「中にある豊富な攻略と裏技は、当時私がプレイした、あるいはプレイ中のゲームほぼすべてをカバーしていた」と。[^2] PTTの住民の推計によれば、地窖は台湾PC市場のゲーム九割の攻略を収めていたという。[^3]
 
-Around 2004, Gamebase underwent a redesign. The new interface had poor usability, bugs were frequent, and the all-black design was criticized by players. More fatally, Gamebase was hacked, user data was leaked, and its foundation of trust was shaken.[^8] In 2007, Gamebase was acquired by its parent company, City Media, and gradually transformed from a "player community" into a "game news relay station," with forum activity continuing to decline.
+プレイヤーの間で合言葉のように語られた：**「地窖に入らねば眠れず、地窖を出れば万教を驚かす。」**
 
-Where did the players go? They went to a place that grew out of National Central University's BBS.
+多くの人にとって、地窖は人生で最初に訪れたウェブサイトだった——Yahoo!より早く、Yam（蕃薯藤）より早く、ゲームの裏技で埋め尽くされた黒い洞窟。[^4]
 
----
+> **📝 キュレーターノート**
+> 地窖の存在形態は特殊だった：コミュニティ機能も、フォーラムも、会員システムもない。純粋に「倉庫」として機能し、プレイヤーが攻略を置いていき、他のプレイヤーがそれを持っていく。Web 2.0以前、これがネット協働の原初的形態だった：匿名の善意、見返りを求めない知識の共有。
 
-## Chien-Hung Chen's Birthday Gift
+2005年頃、地窖は突然アクセス不能になった。告知も、別れの挨拶もなく、現れた時と同じように静かに消えた。プレイヤーたちは悔しがったが、オンラインゲームが主流となり、シングルプレイゲームの攻略需要は縮小しつつあった。2008年末に地窖が一時復活し、古参プレイヤーが騒然としたが、時代はすでに変わっていた。[^5]
 
-On October 28, 1996, National Central University graduate student Chien-Hung Chen got something done: a BBS site dedicated to discussing video games, with all preparatory work completed. He decided to wait until November 10 (his birthday) to officially announce it.[^9]
-
-The site was named "Bahamut," taken from the dragon-like legendary creature in the _Final Fantasy_ series. Chien-Hung Chen's nickname was sega.
-
-On the first day of launch, 247 people logged in.[^10]
-
-Chien-Hung Chen's reason for setting up this site was simple: he was a hardcore video game player who found that game discussion boards were scattered across various university BBS sites, and finding a walkthrough for a game required flipping through several sites. He wanted a place to centralize all video game discussions. So he personally wrote letters inviting game moderators from other sites to jump ship.[^11]
-
-In March 1997, Chien-Hung Chen was invited to appear on the TV show _Video Game Panorama_, hosted by Pu Hsueh-liang. On the day the episode aired, Bahamut's login numbers surged to over 3,000. For a university dormitory BBS, this was an earthquake-level traffic spike.[^12]
-
-But Chien-Hung Chen still had to study. During his master's program, he even blocked his own account to force himself to focus on his thesis. After graduation, he went to work at Yahoo, working as an office worker by day and continuing to manage Bahamut by night. He later described those days as "practicing skills by day, combat by night."[^13]
+地窖が死んだ理由はシンプルだ：それが奉仕していた世界が消滅したからだ。プレイヤーがシングルプレイからオンラインゲームへ移行すると、攻略の生産方式は「一人が完結した記事を書く」から「フォーラムでリアルタイムに議論する」へと変わり、静的な攻略倉庫は存在意義を失った。
 
 ---
 
-## From BBS to Company: The Earthquake of Ten Million
+## 遊戯基地：五年間の王座
 
-In March 2000, Chien-Hung Chen brought in his cousin and two moderators, and the four of them officially formed a company. The capital was 10 million NTD, coming from an air freight business owner, a former vice president of Delta Electronics, and family elders.[^14]
+2000年11月16日、「遊戯基地」（Gamebase）が開設された。背後には『電脳玩家』誌の母会社である電脳玩家文化事業があった。[^6]
 
-He deliberately delayed the announcement of the company's formation until September 21. He knew the community's reaction would be huge: "It will definitely cause an earthquake."[^15] A free BBS turning into a company was equivalent to telling all the volunteer moderators who helped manage the boards that "someone is making money here now." Indeed, once the announcement was made, waves of protest came crashing down.
+地窖の草の根的スタイルとは全く異なり、遊戯基地は初日から商業運営だった。開設時に大宇資訊が代理した『Hero Online』のブームに乗り、ゲーム掲示板のトラフィックで一気に躍進。2002年には「中国語圏No.1ゲームサイト」に選ばれ、会員数は開設時の3万人から1,400万超へと爆発的に増加した。[^7]
 
-Worse still was the timing. When the company was established, the US Nasdaq had just crashed, and the internet bubble had burst. The initial 5 million in capital burned through quickly, and expenses only broke even by the end of the second year.[^16]
+遊戯基地が正しかったのは一つ：「ゲーム雑誌」の専門コンテンツをウェブに移植し、同時にフォーラム機能を追加したことだ。ブロードバンドが普及し始め、オンラインゲームが飛躍し始めた時代、プレイヤーは新作情報を調べ、ギルドを探し、運営を罵る場所を必要としていた。遊戯基地がその場所を提供した。
 
-Bahamut's turning point came from a competitor's mistake.
+だが、その王座は約五年しか続かなかった。
 
-In November 2003, Bahamut launched the native web forum "Halala Zone," removing the permission thresholds for creating boards and posting, allowing anyone to participate directly. The style was set as "relaxed but not unrestrained."[^17] The following year, Gamebase's redesign disaster and the hacker incident caused a mass exodus of players. In 2004, Bahamut's traffic surpassed Gamebase for the first time, with membership reaching 750,000. From that moment on, Bahamut never gave up the number one spot again.[^18]
+2004年前後、遊戯基地はリニューアルを行った。新インターフェースのユーザー体験は悪く、バグが頻発し、真っ黒なデザインはプレイヤーに嫌われた。より致命的だったのは、ハッカー攻撃を受けユーザーデータが流出し、信頼の基盤が揺らいだことだ。[^8] 2007年、遊戯基地は母会社の城邦文化に買収され、以降「プレイヤーコミュニティ」から「ゲームニュース転載サイト」へと変貌し、フォーラムの活気は低下し続けた。
 
-> **✦** The Cellar died due to changing times, Gamebase died due to its own mistakes, and Bahamut survived all crises. The difference in these three endings boils down to one thing: who raised the community like their own child, rather than managing it as a business.
-
----
-
-## The Dragon Thirty Years Later
-
-In March 2025, Bahamut's membership exceeded 6 million.[^19]
-
-According to SimilarWeb data from December 2024, Bahamut is the 5th largest website in Taiwan by traffic and ranked 1st in the gaming category. Daily Active Users (DAU) are approximately 1.5 million, with daily page views of 25 million. Revenue in 2022 was approximately 300 million NTD.[^20]
-
-Bahamut's GNN has accumulated a vast amount of game news, with player submissions making up a considerable proportion.[^21] This structure illustrates Bahamut's core logic: the main content is produced by the community, while the company is only responsible for maintaining the infrastructure.
-
-The Halala boards (discussion forums) remain Bahamut's heart. Almost every game with players in Taiwan has its own Halala board. Moderators are elected autonomously by players, and Bahamut's management team tries not to interfere in board affairs. Chien-Hung Chen's insistence on "credibility" is simple: he always refuses game publishers' requests to delete posts and bans paid rankings.[^22]
-
-Bahamut later grew to include Animefgo (anime streaming), Bahamut Store, and the ACG Database. It transformed from a video game BBS into Taiwan's largest ACG (Animation, Comic, Game) comprehensive platform. But at its core, it is still an extension of that server in a National Central University dormitory in 1996: a place for players to find each other.
-
-> **💡 Did You Know**
-> Chien-Hung Chen started his business eight years earlier than Facebook's Zuckerberg. Bahamut was established in 1996, while Facebook only launched in 2004. A video game BBS made by a Taiwan graduate student understood the concept of "letting users produce their own content" earlier than the world's largest social platform.
+プレイヤーはどこへ去ったのか？ 中央大学BBSから生まれたあの場所へ。
 
 ---
 
-## Three Tombstones and a Dragon
+## 陳建弘の誕生日プレゼント
 
-The Cellar, Gamebase, Bahamut. Three names occupy different positions in the memories of Taiwan's gaming players.
+1996年10月28日、中央大学大学院生の陳建弘（ちん・けんこう／チェン・ジェンホン）は一つの仕事を完了させた：ゲーム専門のBBSサイト、すべての準備が整った。彼は11月10日（自分の誕生日）まで待って正式に対外発表することにした。[^9]
 
-The Cellar is childhood. That black-background webpage, that row of Chinese numerals in the counter, those walkthrough posts formatted in Word and pasted up. It belongs to a simpler era: no accounts, no comments, no community, just "I know the answer, I put it here, take it."
+サイト名は「巴哈姆特」。『ファイナルファンタジー』シリーズに登場する竜形の伝説生物に由来する。陳建弘のハンドルネームはsega。
 
-Gamebase is adolescence. The first time arguing with strangers on a forum, the first time joining a guild, the first time being warned by a moderator. It was once the largest, but being the largest does not mean living the longest.
+開設初日、アクセス数は247人。[^10]
 
-Bahamut is adulthood. It is imperfect; its interface design is still criticized as old-fashioned, and there are occasional moderator controversies and paid-ad skepticism. But it achieved something that no other Chinese-language gaming website has done in thirty years: it is still here.
+陳建弘がこのサイトを立ち上げた理由は極めてシンプルだった：彼はヘビーゲーマーで、ゲーム掲示板が各大学のBBSに分散しており、一つのゲームの攻略を探すのにいくつもサイトを巡らなければならないことに気づいた。すべてのゲーム議論を一箇所に集めた場所が欲しかった。そこで自ら各サイトのゲーム板主（版主）に手紙を書き、移籍を呼びかけた。[^11]
 
-In a 2013 interview, Chien-Hung Chen was asked how he viewed the impact of Facebook on communities. His answer was frank: "Our reaction was really slow." (From an INSIDE interview)[^23] But slow does not mean losing. Bahamut's strategy is not to chase trends, but to guard its core users. When game groups on Facebook came and went, and Discord channels were built and scattered, the Halala boards remained the same Halala boards.
+1997年3月、陳建弘は卜学亮（ぼく・がくりょう）司会のテレビ番組『電玩大観園』に出演した。放送当日、巴哈姆トのアクセス数は3,000人を超えた。大学寮の一室で運営されていたBBSにとって、これは地震級のトラフィックだった。[^12]
 
-On a late night in 2026, a player is stuck on a certain level of a game. He opens Bahamut, searches the Halala board for a walkthrough from three years ago, and finds seven people below who have supplemented different solutions. He chooses the third one and clears the level.
-
-Thirty years ago, he would have opened a black-background, white-text website, found an unsigned walkthrough, and then closed the squeaking modem.
-
-The method has changed. The spirit of "someone put the answer here for you" has not.
+だが陳建弘にはまだ学業があった。修士課程中には自分のアカウントを凍結し、論文執筆に集中させたほどだ。卒業後はYahoo!奇摩（キモ）に就職し、昼はサラリーマン、夜は家に帰って巴哈姆トの運営を続けた。彼は後年、あの日々を「昼は修行、夜は実戦」と表現している。[^13]
 
 ---
 
-## Further Reading
+## BBSから会社へ：一千万の地震
 
-- [History of Taiwan's Online Community Migration](/ja/technology/taiwan-online-community-migration) — The moving history of Taiwan's social platforms from BBS to Threads
-- [Taiwan's Open Source Spirit](/ja/technology/taiwan-open-source-spirit) — Another group of "Taiwanese powered by love"
-- [PTT Ptt](/ja/technology/ptt-bulletin-board-system) — Taiwan's longest-lasting BBS, a contemporary product of Bahamut
-- [Softstar's Twin Swords](/ja/technology/softstar-twin-classics) — The emotional enlightenment source of Taiwan's single-player games from the same era
-- [Crazy Moments of Taiwan Players](/ja/technology/taiwan-gamers-wildest-moments) — The collective frenzy of the Cellar/Gamebase/Bahamut generation of players
+2000年3月、陳建弘は従弟と二人の板主を誘い、四人で正式に会社を設立した。資本金1,000万台湾元（約NT$1,000万）、出資者は空運業のオーナー、台達電（デルタ電子）の元副総裁、そして親族の長老たちだった。[^14]
+
+彼は会社設立の発表を9月21日まで意図的に遅らせた。コミュニティの反応が大きいことを知っていたからだ：「必ず大地震を引き起こす。」[^15] 無料のBBSが会社になることは、ボランティアで板主を務めていた人々に「これからここでは誰かが儲ける」と告げるに等しかった。案の定、発表とともに抗議の声が殺到した。
+
+さらに悪いことにタイミングだ。会社設立時に米国ナスダックが暴落し、ITバブルが崩壊。最初の500万は瞬く間に燃え尽き、2年目末になってようやく収支均衡に達した。[^16]
+
+巴哈姆トの転機は、あるライバルの失策から訪れた。
+
+2003年11月、巴哈姆トはネイティブWeb版フォーラム「哈啦區（ハラエリア）」をリリースし、開板と投稿の権限ハードルを撤廃、誰でも直接参加できるようにした。スタンスは「緩やかだが放縦ではない」。[^17] 翌年、遊戯基地のリニューアル失敗とハッカー事件が重なり、大量のプレイヤーが流出。2004年、巴哈姆トのトラフィックが初めて遊戯基地を超え、会員数75万に達した。その瞬間から、巴哈姆トは一度も首位の座を譲っていない。[^18]
+
+> **✦** 地窖は時代の変化で死に、遊戯基地は自らの失策で死に、巴哈姆トはすべての危機を生き延びた。三つの結末の違いは一点に集約される：コミュニティを自分の子供のように育てたか、それとも一つのビジネスとして管理したか。
 
 ---
 
-## References
+## 三十年後の巨竜
 
-[^1]: [Cellar Official Website](http://www.cellar.com.tw/) — cellar.com.tw, an early Taiwan game walkthrough distribution station
+2025年3月、巴哈姆トの会員数が600万を突破した。[^19]
 
-[^2]: [Bahamut Creation: No Sleep Without Entering the Cellar, Once Out of the Cellar, Shock the Ten Thousand Sects](https://home.gamer.com.tw/creationDetail.php?sn=606968) — Player recalls the functions and content of the Cellar website
+SimilarWeb 2024年12月データによれば、巴哈姆トは台湾全土でアクセス数第5位、ゲームカテゴリでは第1位。デイリーアクティブユーザー約150万、デイリーページビュー2,500万。2022年売上は約3億ニュー台湾ドル（約NT$3億）。[^20]
 
-[^3]: [PTT C_Chat Board: How Popular Was the Walkthrough Website "Cellar" Back Then](https://myptt.cc/article/C_Chat/M.1516208002.A.C01) — Netizens estimate it contained walkthroughs for 90% of Taiwan PC games
+巴哈姆トGNNには大量のゲームニュースが蓄積され、プレイヤー投稿が相当な割合を占める。[^21] この構造こそが巴哈姆トの核心ロジックを物語っている：コンテンツの主力はコミュニティが生産し、会社はインフラ維持に徹する。
 
-[^4]: [Bahamut Creation: No Sleep Without Entering the Cellar](https://home.gamer.com.tw/creationDetail.php?sn=606968) — "The Cellar was the first website I encountered"
+哈啦板（議論板）は今も巴哈姆トの心臓部だ。台湾にプレイヤーがいるゲームなら、ほぼすべてに専用の哈啦板がある。板主はプレイヤーの自治選挙で選ばれ、巴哈姆ト運営チームは極力板務に干渉しない。陳建弘の「公信力」へのこだわりはシンプルだ：ゲームメーカーからの削除要請はすべて拒否、買収工作（買榜）を禁止。[^22]
 
-[^5]: [Bahamut Creation: The Cellar Has Reopened!](https://home.gamer.com.tw/creationDetail.php?sn=540350) — The Cellar's revival in December 2008 and player reactions
+その後、巴哈姆トからは「動畫瘋」（アニメ配信）、巴哈商城、ACGデータベースが派生した。一つのゲームBBSから、台湾最大のACG（アニメ・漫画・ゲーム）総合プラットフォームへと成長した。だがその骨子は、1996年中央大学寮のあのサーバーの延長線上にある：プレイヤー同士が出会える場所。
 
-[^6]: [Wikipedia: Gamebase](https://zh.wikipedia.org/zh-tw/%E9%81%8A%E6%88%B2%E5%9F%BA%E5%9C%B0) — Launched November 16, 2000; founded by Computer Player Cultural Enterprise
+> **💡 ご存知ですか**
+> 陳建弘はFacebookのザッカーバーグより8年早く起業している。巴哈姆トは1996年設立、Facebookは2004年開設。台湾の一大学院生が作ったゲームBBSが、世界最大のソーシャルプラットフォームより早く「ユーザー自身がコンテンツを生産する」ことを理解していた。
 
-[^7]: [Wikipedia: Gamebase](https://zh.wikipedia.org/zh-tw/%E9%81%8A%E6%88%B2%E5%9F%BA%E5%9C%B0) — Rated the number one gaming website in Chinese in 2002; membership grew from tens of thousands to the tens of millions
+---
 
-[^8]: [PTT C_Chat Board: How Did Gamebase Decline?](https://disp.cc/ptt/C_Chat/1Ro7mdgl) — Failed redesign, hacker attacks, user exodus
+## 三つの墓標と一条竜
 
-[^9]: [Wikipedia: Bahamut Game Information Station](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — Set up October 28, 1996; officially announced November 10
+地窖、遊戯基地、巴哈姆ト。三つの名前は台湾ゲームプレイヤーの記憶の中で、それぞれ異なる位置を占めている。
 
-[^10]: [Wikipedia: Bahamut Game Information Station](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 247 users logged in on the first day of launch
+地窖は幼年期だ。あの黒いウェブページ、漢数字のカウンター、Wordで組版して貼り付けられた攻略記事。それはより純粋な時代に属する：アカウントも、コメントも、コミュニティもない、ただ「答えを知っている、ここに置く、持っていけ」だけがあった。
 
-[^11]: [INSIDE: 16 Years of Hardcore Gaming Community, Interview with Bahamut's Segal](https://www.inside.com.tw/article/2578-gamer-interview) — Chien-Hung Chen personally wrote letters inviting moderators to jump ship
+遊戯基地は思春期だ。フォーラムで見知らぬ人と言い争い、初めてギルドに入り、初めて板主から警告を受けた。かつて最大だったが、大きいことが長生きを保証するわけではない。
 
-[^12]: [Wikipedia: Bahamut Game Information Station](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 1997 _Video Game Panorama_ interview, 3,000 users logged in that day
+巴哈姆トは成人期だ。完璧ではない、インターフェースはいまだに古臭いと罵られ、板主トラブルやタイアップ疑惑も時折ある。だが、三十年間で他の中文ゲームサイトが誰も成し得なかったことを一つだけ成し遂げた：生き残っている。
 
-[^13]: [INSIDE: Interview with Bahamut's Segal](https://www.inside.com.tw/article/2578-gamer-interview) — Worked at Yahoo by day, managed Bahamut by night
+陳建弘は2013年のインタビューで、Facebookのコミュニティへの衝撃をどう見るかと問われ、実に率直に答えた：「我々の反応は本当に遅かった。」（INSIDEインタビューより）[^23] しかし、遅いことが負けを意味しない。巴哈ムトの戦略はトレンドを追わず、コアユーザーを守り抜くことだ。Facebook上のゲームコミュニティが現れては消え、Discordのチャンネルが作られては散っていく中、哈啦板は変わらず哈啦板であり続けている。
 
-[^14]: [INSIDE: Interview with Bahamut's Segal](https://www.inside.com.tw/article/2578-gamer-interview) — Company established March 2000, 10 million capital, investor identities
+2026年のある深夜、あるプレイヤーがゲームのあるステージで行き詰まる。彼は巴哈姆トを開き、哈啦板で3年前の攻略記事を見つける。コメント欄には7人が異なる解法を補足していた。彼は3番目を選び、クリアした。
 
-[^15]: [INSIDE: Interview with Bahamut's Segal](https://www.inside.com.tw/article/2578-gamer-interview) — Chien-Hung Chen's quote "It will definitely cause an earthquake"
+三十年前、彼は黒地に白文字のウェブサイトを開き、無署名の攻略記事を見つけ、あのピーヒャラ鳴くモデムの電源を切った。
 
-[^16]: [INSIDE: Interview with Bahamut's Segal](https://www.inside.com.tw/article/2578-gamer-interview) — Nasdaq crash, 5 million burned, broke even in the second year
+方法は変わった。だが「誰かが答えをここに置いてくれている」という精神は、変わっていない。
 
-[^17]: [INSIDE: Interview with Bahamut's Segal](https://www.inside.com.tw/article/2578-gamer-interview) — Launched Halala Zone in 2003, "relaxed but not unrestrained"
+---
 
-[^18]: [INSIDE: Interview with Bahamut's Segal](https://www.inside.com.tw/article/2578-gamer-interview) — 2004 "death cross," 750,000 members, surpassed Gamebase
+## 延伸閱讀
 
-[^19]: [BNext: Older Than Facebook! Bahamut is 27 Years Old, Why Are Users Increasing?](https://www.bnext.com.tw/article/73765/gamer) — Membership exceeded 6 million in March 2025
+- [台湾ネットコミュニティ移住史](/ja/technology/taiwan-online-community-migration) — BBSからThreadsまで、台湾人のコミュニティプラットフォーム引っ越し史
+- [台湾オープンソース精神](/ja/technology/taiwan-open-source-spirit) — もう一つの「愛で発電する」台湾人たち
+- [PTT批踢踢](/ja/technology/ptt-bulletin-board-system) — 台湾最長寿のBBS、巴哈姆トの同世代産物
+- [大宇双剣](/ja/technology/softstar-twin-classics) — 同時代の台湾シングルプレイゲーム感性啓蒙の源流
+- [台湾プレイヤーの狂気の瞬間](/ja/technology/taiwan-gamers-wildest-moments) — 地窖/遊戯基地/巴哈ムト世代プレイヤーの集団的狂熱
 
-[^20]: [BNext: Bahamut CEO Discusses from Gamebase's Traffic War](https://game.udn.com/game/story/122089/7346564) — SimilarWeb ranked 5th in Taiwan, 1.5 million DAU, 25 million daily page views
+---
 
-[^21]: [Wikipedia: Bahamut Game Information Station](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — GNN reached 300,000 articles by February 2026, 48,000 player submissions
+## 參考資料
 
-[^22]: [INSIDE: Interview with Bahamut's Segal](https://www.inside.com.tw/article/2578-gamer-interview) — Refused all publisher requests to delete posts, banned paid rankings
+[^1]: [地窖官方網站](http://www.cellar.com.tw/) — cellar.com.tw、台湾初期ゲーム攻略集散站
 
-[^23]: [INSIDE: Interview with Bahamut's Segal](https://www.inside.com.tw/article/2578-gamer-interview) — Chien-Hung Chen's quote "Our reaction was really slow"
+[^2]: [巴哈姆特創作：不入地窖焉能睡覺一出地窖驚動萬教](https://home.gamer.com.tw/creationDetail.php?sn=606968) — プレイヤーが地窖網站の機能與內容を回顧
+
+[^3]: [PTT C_Chat 板：攻略網站《地窖》當年有多紅](https://myptt.cc/article/C_Chat/M.1516208002.A.C01) — 鄉民推計收錄九成台灣PC遊戲攻略
+
+[^4]: [巴哈姆特創作：不入地窖焉能睡覺](https://home.gamer.com.tw/creationDetail.php?sn=606968) — 「地窖是我接觸的第一個網站」
+
+[^5]: [巴哈姆特創作：地窖重新開張了！](https://home.gamer.com.tw/creationDetail.php?sn=540350) — 2008年12月地窖復活、プレイヤー反応
+
+[^6]: [維基百科：遊戯基地](https://zh.wikipedia.org/zh-tw/%E9%81%8A%E6%88%B2%E5%9F%BA%E5%9C%B0) — 2000年11月16日上線、電脳玩家文化事業創立
+
+[^7]: [維基百科：遊戯基地](https://zh.wikipedia.org/zh-tw/%E9%81%8A%E6%88%B2%E5%9F%BA%E5%9C%B0) — 2002年中文世界第一遊戯網站、會員從早期數萬人成長至千萬等級
+
+[^8]: [PTT C_Chat 板：遊戯基地是怎麼沒落的？](https://disp.cc/ptt/C_Chat/1Ro7mdgl) — リニューアル失敗、ハッカー攻撃、ユーザー流出
+
+[^9]: [維基百科：巴哈姆特電玩資訊站](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 1996年10月28日架設、11月10日正式発表
+
+[^10]: [維基百科：巴哈姆特電玩資訊站](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 開站首日247人上站
+
+[^11]: [INSIDE：骨灰級電玩社群16年、專訪巴哈姆特Sega大大](https://www.inside.com.tw/article/2578-gamer-interview) — 陳建弘親自寫信邀板主跳槽
+
+[^12]: [維基百科：巴哈姆特電玩資訊站](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 1997年《電玩大観園》專訪、當日3,000人上站
+
+[^13]: [INSIDE：專訪巴哈姆特Sega](https://www.inside.com.tw/article/2578-gamer-interview) — 昼は奇摩上班、夜は巴哈経營
+
+[^14]: [INSIDE：專訪巴哈姆特Sega](https://www.inside.com.tw/article/2578-gamer-interview) — 2000年3月成立公司、資金1,000万、投資者身份
+
+[^15]: [INSIDE：專訪巴哈姆特Sega](https://www.inside.com.tw/article/2578-gamer-interview) — 陳建弘原話「一定會引發大地震」
+
+[^16]: [INSIDE：專訪巴哈姆特Sega](https://www.inside.com.tw/article/2578-gamer-interview) — ナスダック崩壊、500万燃盡、次年打平
+
+[^17]: [INSIDE：專訪巴哈姆特Sega](https://www.inside.com.tw/article/2578-gamer-interview) — 2003年推出哈啦區、「輕鬆而不放縱」
+
+[^18]: [INSIDE：專訪巴哈姆特Sega](https://www.inside.com.tw/article/2578-gamer-interview) — 2004年「死亡交叉」、會員75万、超越遊戯基地
+
+[^19]: [數位時代：比臉書還老！巴哈姆特27歲了，為何用戶越來越多？](https://www.bnext.com.tw/article/73765/gamer) — 2025年3月會員突破600万
+
+[^20]: [數位時代：巴哈姆特CEO從遊戯基地流量戰談起](https://game.udn.com/game/story/122089/7346564) — SimilarWeb全台第5、日活150万、日瀏覽2,500万
+
+[^21]: [維基百科：巴哈姆特電玩資訊站](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 2026年2月GNN達30万篇、プレイヤー投稿4.8万篇
+
+[^22]: [INSIDE：專訪巴哈姆特Sega](https://www.inside.com.tw/article/2578-gamer-interview) — メーカー削除要求一律拒否、買榜禁止
+
+[^23]: [INSIDE：專訪巴哈姆特Sega](https://www.inside.com.tw/article/2578-gamer-interview) — 陳建弘原話「我們反應真的很慢」

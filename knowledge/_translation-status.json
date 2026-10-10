@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T05:18:18+08:00",
-    "zhCommitHead": "44cfb574d",
+    "lastUpdated": "2026-10-11T06:01:54+08:00",
+    "zhCommitHead": "bd1ffbdda",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -28,32 +28,32 @@
       },
       "ja": {
         "total_zh": 1126,
-        "fresh": 1114,
-        "stale": 11,
-        "metadata_stale": 0,
-        "missing": 1,
-        "orphan": 0
-      },
-      "ko": {
-        "total_zh": 1126,
-        "fresh": 1120,
-        "stale": 5,
-        "metadata_stale": 0,
-        "missing": 1,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 1126,
         "fresh": 1121,
         "stale": 4,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
       },
+      "ko": {
+        "total_zh": 1126,
+        "fresh": 1124,
+        "stale": 1,
+        "metadata_stale": 0,
+        "missing": 1,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1126,
+        "fresh": 1124,
+        "stale": 1,
+        "metadata_stale": 0,
+        "missing": 1,
+        "orphan": 0
+      },
       "fr": {
         "total_zh": 1126,
-        "fresh": 1123,
-        "stale": 2,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -36722,18 +36722,18 @@
         "ja": {
           "path": "ja/Technology/into-the-cellar-taiwan-game-podcast.md",
           "translatedFrom": "Technology/不入地窖焉能睡覺.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "sha256:c211c97e077ebc86",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d882a7c06037e89c",
           "sourceBodyHash": "sha256:abaef255e91e930b",
-          "translatedAt": "2026-06-09T03:16:10+08:00",
+          "translatedAt": "2026-10-11T05:16:32+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 17868,
+          "bytes": 19545,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/into-the-cellar-taiwan-game-podcast.md",
@@ -38136,18 +38136,18 @@
         "ja": {
           "path": "ja/Art/post-martial-law-taiwanese-literature.md",
           "translatedFrom": "Art/解嚴後台灣文學.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "sha256:dbd30052b54262c8",
+          "sourceCommitSha": "4d7fab8ee",
+          "sourceContentHash": "sha256:b88e9dbdbb8fa20c",
           "sourceBodyHash": "sha256:c355aaf2378be217",
-          "translatedAt": "2026-06-09T03:20:26+08:00",
+          "translatedAt": "2026-10-11T05:16:32+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 20454,
+          "bytes": 20732,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/post-martial-law-taiwanese-literature.md",
@@ -54110,18 +54110,18 @@
         "ko": {
           "path": "ko/Lifestyle/taiwan-mahjong-and-celebrity-shortage.md",
           "translatedFrom": "Lifestyle/台灣麻將與明星三缺一.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "sha256:334f3cc12d1f65c6",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ef208b370e332f10",
           "sourceBodyHash": "sha256:1f3fd4501700702b",
-          "translatedAt": "2026-06-09T04:19:27+08:00",
+          "translatedAt": "2026-10-11T05:16:34+08:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 17641,
+          "bytes": 16040,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/taiwan-mahjong-and-celebrity-shortage.md",
@@ -54514,18 +54514,18 @@
         "ko": {
           "path": "ko/Lifestyle/taoyuan-airport.md",
           "translatedFrom": "Lifestyle/桃園機場.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:1479fcc5eaa28fc5",
           "sourceBodyHash": "sha256:1fbc8f5240a8c4b8",
-          "translatedAt": "2026-05-03T21:40:25+08:00",
+          "translatedAt": "2026-10-11T05:16:34+08:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 9151,
+          "bytes": 8569,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/taoyuan-airport.md",
@@ -66214,18 +66214,18 @@
         "ja": {
           "path": "ja/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md",
           "translatedFrom": "Society/2026鄭習會與國共十年再會.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "dd39065b2",
           "sourceContentHash": "sha256:3eecc6e30b4626f7",
           "sourceBodyHash": "sha256:3d0acbeaa8a56355",
-          "translatedAt": "2026-06-10T16:41:16Z",
+          "translatedAt": "2026-10-11T05:16:32+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 28169,
+          "bytes": 30773,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md",
@@ -66618,18 +66618,18 @@
         "ja": {
           "path": "ja/Society/united-front-tour-groups.md",
           "translatedFrom": "Society/統戰團.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:6189acad34e81f7d",
           "sourceBodyHash": "sha256:a81371a8c3c242ce",
-          "translatedAt": "2026-05-02T14:15:00+08:00",
+          "translatedAt": "2026-10-11T05:16:32+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 23272,
+          "bytes": 22037,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/united-front-tour-groups.md",
@@ -72682,18 +72682,18 @@
         "ja": {
           "path": "ja/Society/za-share.md",
           "translatedFrom": "Society/雜學校.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "sha256:b414878c293e15ed",
+          "sourceCommitSha": "1844f59c5",
+          "sourceContentHash": "sha256:a2058786df46a07e",
           "sourceBodyHash": "sha256:63cdc7eebcc0988a",
-          "translatedAt": "2026-06-09T02:28:23+08:00",
+          "translatedAt": "2026-10-11T05:16:32+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 29529,
+          "bytes": 31560,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/za-share.md",
@@ -133940,18 +133940,18 @@
         "ja": {
           "path": "ja/People/chia-yung-chieh.md",
           "translatedFrom": "People/賈永婕.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "dd39065b2",
           "sourceContentHash": "sha256:a92f6a6b22257ffa",
           "sourceBodyHash": "sha256:3a5ef98d636f1bfa",
-          "translatedAt": "2026-05-16T22:35:34Z",
+          "translatedAt": "2026-10-10T21:18:03.414368+00:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "bytes": 30796,
+          "bytes": 34261,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/chia-yung-chieh.md",
@@ -136396,18 +136396,18 @@
         "es": {
           "path": "es/People/rainie-yang.md",
           "translatedFrom": "People/楊丞琳.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "sha256:fe001b011f023dad",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:3b0bbef1a2a8fb6f",
           "sourceBodyHash": "sha256:89629de55a5721c1",
-          "translatedAt": "2026-06-09T04:21:32+08:00",
+          "translatedAt": "2026-10-11T05:16:35+08:00",
           "translationLastCommit": "c3be0c29",
           "translationLastModified": "2026-10-10T23:40:32+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "bytes": 35529,
+          "bytes": 34951,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/rainie-yang.md",
@@ -139394,18 +139394,18 @@
         "ja": {
           "path": "ja/People/cheng-li-wun.md",
           "translatedFrom": "People/鄭麗文.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "dd39065b2",
           "sourceContentHash": "sha256:d7d8adfe5a1c7158",
           "sourceBodyHash": "sha256:119c3d104b24e9dd",
-          "translatedAt": "2026-06-10T16:41:16Z",
+          "translatedAt": "2026-10-11T05:16:32+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 28618,
+          "bytes": 30730,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/cheng-li-wun.md",
@@ -153652,8 +153652,8 @@
           "sourceContentHash": "sha256:bb3833c08618e661",
           "sourceBodyHash": "sha256:f7475d29ab35a9a7",
           "translatedAt": "2026-10-11T01:05:49+08:00",
-          "translationLastCommit": "0e249950",
-          "translationLastModified": "2026-10-10T23:16:36+08:00",
+          "translationLastCommit": "4612964d",
+          "translationLastModified": "2026-10-11T05:18:19+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 26669,
@@ -165672,34 +165672,34 @@
         "ko": {
           "path": "ko/Food/taiwan-banquet-culture.md",
           "translatedFrom": "Food/台灣辦桌文化.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "26a67c779",
           "sourceContentHash": "sha256:87996856be7f510f",
           "sourceBodyHash": "sha256:dc734b24b423e098",
-          "translatedAt": "2026-06-16T16:55:29Z",
+          "translatedAt": "2026-10-10T21:18:41.835639+00:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 48719,
+          "bytes": 56937,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-banquet-culture.md",
           "translatedFrom": "Food/台灣辦桌文化.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "26a67c779",
           "sourceContentHash": "sha256:87996856be7f510f",
           "sourceBodyHash": "sha256:dc734b24b423e098",
-          "translatedAt": "2026-06-16T17:05:07Z",
+          "translatedAt": "2026-10-10T21:29:25.348957+00:00",
           "translationLastCommit": "c3be0c29",
           "translationLastModified": "2026-10-10T23:40:32+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 48540,
+          "bytes": 60046,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwan-banquet-culture.md",
@@ -171158,18 +171158,18 @@
         "fr": {
           "path": "fr/History/taiwan-emigration-history.md",
           "translatedFrom": "History/台灣出國史.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:8d6508c76f18f1af",
           "sourceBodyHash": "sha256:2ed834cb9de7de1b",
-          "translatedAt": "2026-05-03T21:42:07+08:00",
+          "translatedAt": "2026-10-10T21:39:22.518541+00:00",
           "translationLastCommit": "ca2ceca5",
           "translationLastModified": "2026-10-10T23:40:35+08:00",
           "inferred": false,
           "footnoteDefs": 50,
-          "bytes": 31698,
+          "bytes": 38632,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/taiwan-emigration-history.md",
@@ -175368,50 +175368,50 @@
         "ko": {
           "path": "ko/History/psychological-warfare.md",
           "translatedFrom": "History/心戰.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:5c60d44b5f8680b8",
           "sourceBodyHash": "sha256:2904cf32d3eb3626",
-          "translatedAt": "2026-05-03T21:39:24+08:00",
+          "translatedAt": "2026-10-11T05:16:34+08:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 11354,
+          "bytes": 10731,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/psychological-warfare.md",
           "translatedFrom": "History/心戰.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:5c60d44b5f8680b8",
           "sourceBodyHash": "sha256:2904cf32d3eb3626",
-          "translatedAt": "2026-05-03T21:41:10+08:00",
+          "translatedAt": "2026-10-11T05:16:35+08:00",
           "translationLastCommit": "c3be0c29",
           "translationLastModified": "2026-10-10T23:40:32+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 11250,
+          "bytes": 12791,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/psychological-warfare.md",
           "translatedFrom": "History/心戰.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:5c60d44b5f8680b8",
           "sourceBodyHash": "sha256:2904cf32d3eb3626",
-          "translatedAt": "2026-05-03T21:44:59+08:00",
+          "translatedAt": "2026-10-11T05:16:37+08:00",
           "translationLastCommit": "ca2ceca5",
           "translationLastModified": "2026-10-10T23:40:35+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 11222,
+          "bytes": 12829,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/psychological-warfare.md",

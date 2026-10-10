@@ -1,192 +1,191 @@
 ---
-title: 'Taiwan New Media Art'
-description: 'From 1980s video pioneers to the Venice VR Grand Prize: The complete narrative of 16 key artists and a 40-year digital art revolution. How Taiwan writes poetry with code and carves its name on the international art map.'
+title: '台湾の新メディア・アート'
+description: '1980年代のビデオ・アートの先駆者からヴェネツィアでのVR賞受賞まで、16人の重要アーティストと40年にわたるデジタル・アート革命の全軌跡。'
 date: 2026-03-28
+category: 'Art'
 tags:
   [
-    'New Media Art',
-    'Digital Art',
-    'Hsin-Chien Huang',
-    'Kuang-Ming Yuen',
+    '新メディア・アート',
+    'デジタル・アート',
+    '黄心健',
+    '袁廣鳴',
     'LuxuryLogico',
-    'Venice Biennale',
-    'Taipei Digital Arts Festival',
-    'Tech Art',
-    'VR Art',
-    'Generative Art',
+    'ヴェネツィア・ビエンナーレ',
+    '台北デジタルアートフェスティバル',
+    'テクノロジー・アート',
+    'VRアート',
+    'ジェネレーティブ・アート',
     'C-LAB',
   ]
 subcategory: '新媒體與數位藝術'
 author: 'Taiwan.md'
-category: 'Art'
-readingTime: 12
+featured: true
 lastVerified: 2026-04-04
 lastHumanReview: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
-sourceCommitSha: ''
+sourceCommitSha: 'ef8fab38e'
 sourceContentHash: 'sha256:d196b7664449f36f'
 sourceBodyHash: 'sha256:3affa690cf7b66dc'
-translatedAt: '2026-06-12T16:38:55Z'
-featured: true
+translatedAt: '2026-10-11T01:05:40+08:00'
 ---
 
-# Taiwan New Media Art
+# 台湾の新メディア・アート
 
-> **30-Second Overview:** In 1984, Kuang-Ming Yuen picked up the first video camera; in 2017, Hsin-Chien Huang won the world's first VR Best Experience Award at the Venice Biennale; in 2024, Kuang-Ming Yuen represented Taiwan again at the Venice Biennale. Over forty years, Taiwan has carved its name in VR, generative art, mechanical installations, and bio-art through 16 artists and a unique aesthetic of "giving machines a soul." The driving force is not capital, but cultural DNA.
+> **30秒概覧：** 1984年に袁廣鳴（エン・コウメイ／ユエン・グアンミン）が最初のビデオカメラを手に取り、2017年には黄心健（コウ・シンケン／ファン・シンジェン）がヴェネツィアで世界初のVR部門最優秀体験賞を受賞。そして2024年、袁廣鳴は再び台湾を代表してヴェネツィア・ビエンナーレの舞台に立った。40年間、台湾は16人のアーティストと「機械に魂を宿らせる」という独自の美学を用い、VR、ジェネレーティブ・アート、メカニカル・インスタレーション、バイオ・アートといった各戦場でその名を刻んできた。その原動力は資本ではなく、文化的な遺伝子である。
 
-## From Video Cameras to the Metaverse: A Forty-Year Digital Art Revolution
+## ビデオカメラからメタバースへ：40年のデジタル・アート革命
 
-In September 2017, at the first-ever VR competition unit awards ceremony in the history of the Venice Film Festival, the Best VR Experience Award was given to a work titled _La Camera Insabbiata_ (The Sand Room). After viewers put on headsets, they entered a void composed of text fragments, using their hands to push through layers of sentences and fly in the darkness. The creator was Taiwanese artist Hsin-Chien Huang, who collaborated with American avant-garde musician Laurie Anderson[^1]. At that moment, Taiwan New Media Art officially stepped onto the highest-specification global stage.
+2017年9月、ヴェネツィア国際映画祭の史上初となるVRコンペティション部門の授賞式が行われた。最優秀VR体験賞は、『沙中房間（La Camera Insabbiata）』と題された作品に贈られた。観客がヘッドセットを装着すると、文字の断片で構成された虚空へと入り込み、両手で幾重もの言葉をかき分けながら暗闇の中を飛行する。制作者は台湾のアーティストである黄心健であり、アメリカの前衛音楽家ローリー・アンダーソン（Laurie Anderson）との共同作業によって完成した[^1]。その瞬間、台湾の新メディア・アートは世界最高峰の舞台へと正式に足を踏み入れたのである。
 
-Seven years later, in 2024, the Taiwan Pavilion at the Venice Biennale bore another name: Kuang-Ming Yuen. This artist, who began shooting video in 1984, responded to the collective anxiety of Taiwanese society facing geopolitical tensions with _Everyday War_[^2]. From the sirens of air defense drills to the occupation scenes of the Sunflower Movement, Kuang-Ming Yuen condensed his forty-year creative career into a single question: What is peace? What is freedom?
+その7年後の2024年、ヴェネツィア・ビエンナーレの台湾館は、また別の名前を掲げた。袁廣鳴である。1984年からビデオ制作を始めたこのアーティストは、『日常戦争（Everyday War）』を通じて、地政学的な緊張に直面する台湾社会の集団的な不安に応答した[^2]。防空演習の警報音から、ひまわり学生運動の占拠の光景まで、袁廣鳴は40年の創作活動を「平和とは何か？ 自由とは何か？」という一つの問いへと凝縮させた。
 
-Two Venetian scenes, spanning forty years, outline the complete arc of Taiwan New Media Art—from a borrowed video camera to the edge of the metaverse.
+二つのヴェネツィアでの情景は、40年にわたる台湾の新メディア・アートの完全な弧を描き出している。それは、借り物のビデオカメラから始まり、メタバースの境界へと至る道のりである。
 
-## Pioneer Era (1980-2000)
+## 先駆者時代（1980-2000）
 
-### Video Experiments Around the Lifting of Martial Law
+### 解厳前後のビデオ実験
 
-In 1987, Taiwan lifted martial law, and the social atmosphere churned violently. During this period, a group of young artists picked up newly popularized video cameras, pointing their lenses at themselves, at the streets, and at the memories of this island that had been suppressed for decades.
+1987年の台湾における解厳（戒厳令の解除）により、社会の空気は激変した。この時期、一連の若いアーティストたちが、当時普及し始めたばかりのビデオカメラを手に取り、レンズを自分自身や街頭、そして数十年にわたり抑圧されてきたこの島の記憶へと向けた。
 
-**Kuang-Ming Yuen** (born 1965, Taipei) is recognized as the foundational figure of Taiwanese video art. He began experimenting with video art in 1984, received a DAAD German Academic Exchange Scholarship to study in Europe in 1993, and obtained a Master's degree in Media Art from the University of Arts Karlsruhe in 1997. During his time in Europe, immersed in the cutting-edge currents of European video art, he returned to Taiwan to explore surveillance, memory, and urban alienation through video installations. Representative works such as _City Disqualified_ (2002), _Displaced_ (2010), and _Everyday Drills_ (2018) all focus on the underlying unease moving beneath daily life. The Taipei Fine Arts Museum has led the curation of the Venice Biennale Taiwan Pavilion since 1995; Kuang-Ming Yuen's appearance in 2024 is the latest marker on this thirty-year international route[^3].
+**袁廣鳴**（1965年生、台北）は、台湾におけるビデオ・アートの礎を築いた人物として広く認められている。1984年にビデオ創作の実験を開始し、1993年にはDAAD（ドイツ学術交流基金）の奨学金を得て渡欧。1997年にはドイツのカールスルーエ媒体芸術修士号を取得した。欧州滞在中、ビデオ・アートの最前線の思想に浸り、帰国後は映像インスタレーションを通じて監視、記憶、そして都市の疎外を探求した。代表作『城市失格』（2002）、『離位』（2010）、『日常演習』（2018）はいずれも、日常生活の底流にある微かな不安に焦点を当てている。台北市立美術館は1995年からヴェネツィア・ビエンナーレ台湾館のキュレーションを主導しており、袁廣鳴の2024年の登場は、この30年にわたる国際的な路線の最新の到達点である[^3]。
 
-**Chen Jie-ren** (born 1960, Taoyuan) intervened in public space through underground performance art at the end of martial law, turning to video art in the 1990s. _Soul Riot_ (1996-1999) used digital post-production to implant his own body into historical archive photos of Qing Dynasty Lingchi (death by a thousand cuts) executions, becoming a sharp critique of colonial violence and body politics. _The Factory_ (2003) and _Path Map_ (2006-2008) pointed the lens at workers abandoned by the wave of globalization, building temporary studios in abandoned factories and having unemployed female workers reenact their former labor postures. Chen Jie-ren's works have long toured international biennales and museums, making him one of the most visible names in Taiwanese contemporary art within the international academic circle.
+**陳界仁**（チェン・ジエレン／チェン・ジエレン、1960年生、桃園）は、戒厳令末期にアンダーグラウンドなパフォーマンス・アートを通じて公共空間へ介入し、1990年代にはビデオ創作へと転向した。『魂魄暴奪』（1996-1999）では、デジタル加工を用いて自身の身体を清代の凌遅処刑（死刑の一種）の歴史的アーカイブ写真の中に植え込み、植民地的な暴力と身体政治に対する鋭い批判を展開した。『加工廠』（2003）、『路徑圖』（2006-2008）では、グローバル化の波の中で切り捨てられた労働者にレンズを向け、廃墟となった工場に仮設の撮影スタジオを設営して、失業した女性労働者にかつての労働の姿を再現させた。陳界仁の作品は国際的なビエンナーレや美術館で長年巡回しており、台湾の現代アートが国際的な学術界において最も高い認知度を持つ名前の一つとなっている。
 
-**Wang Fu-rui** (born 1969, Taipei) redefined music with noise in a basement. In 1993, he founded the Noise experimental music label[^13]. In 2000, he joined "Etat," an experimental space in a Taipei basement founded by **Huang Wen-hao** in 1995; this space became the core incubator for Taiwanese sound art. In 2007, Yao Chung-han and peers from the New Media Department of Taipei National University of the Arts (Wang Chung-kun, Ye Ting-hao, Niu Jun-qiang) founded the "Lost Sound Festival" sound art festival, with Wang Fu-rui witnessing the birth of this cross-generational community as a senior mentor[^14].
+**王福瑞**（ワン・フールイ／ワン・フールイ、1969年生、台北）は、地下室でノイズを用いて音楽を再定義した。1993年に実験音楽レーベル「Noise」を創設し[^13]、2000年には**黄文浩**（ファン・ウェンハオ／ファン・ウェンハオ）が1995年に創設した「在地實驗（Etat）」に加入した。この台北の地下室にある実験空間は、台湾のサウンド・アートの中核的なインキュベーターとなった。2007年には、姚仲涵（ヤオ・チュンハン／ヤオ・ジョンハン）と北芸大（国立台北芸術大学）の新メディア系同期（王仲堃、葉廷皓、牛俊強）がサウンド・アート・フェスティバル「失聲祭」を設立し、王福瑞は師としてこの世代を超えたコミュニティの誕生を見守った[^14]。
 
-A distinctive feature of Taiwan New Media Art during this period was that the technology was rough, but the problem consciousness was sharp. Artists were not "using" technology, but "questioning" it: questioning history with video cameras, questioning order with noise, and questioning bodily sovereignty with digital images.
+この時期の台湾の新メディア・アートには鮮明な特徴があった。技術は未熟であったが、問題意識は極めて鋭利であったことだ。アーティストたちはテクノロジーを単に「使用」するのではなく、テクノロジーに対して「問い」を投げかけていた。ビデオカメラで歴史を問い、ノイズで秩序を問い、デジタル映像で身体の主権を問うたのである。
 
-## Digital Awakening (2000-2010)
+## デジタル覚醒（2000-2010）
 
-### Policy Push and the Birth of Institutions
+### 政策による推進と機関の誕生
 
-The 2000s were the key decade for the "institutionalization" of Taiwan New Media Art. In 2001, the Taipei Contemporary Art Museum opened in the former school building of the Japanese colonial period's Jiansheng Elementary School, becoming Taiwan's first museum dedicated to contemporary art[^4]. That same year, the Digital Arts Foundation was established, which would later lead the planning and operation of the Taipei Digital Arts Festival. In 2006, the first Taipei Digital Arts Festival opened; this was Taiwan's first annual large-scale exhibition themed around digital art[^5], inviting international artists and local creators to dialogue on the same stage, and has now been held for nearly twenty editions.
+2000年代は、台湾の新メディア・アートが「制度化」された重要な10年であった。2001年、台北当代芸術館（MoCA Taipei）が日本統治時代の旧建成小学校の校舎内に開館し、台湾で初めて現代アートに特化した美術館となった[^4]。同年にはデジタル・アート基金会が設立され、後に台北デジタルアートフェスティバルの企画・運営を主導することになる。2006年には第1回台北デジタルアートフェスティバルが開幕した。これは台湾で初めてデジタル・アートをテーマとした大規模な年次展示であり[^5]、国際的なアーティストと地元のクリエイターが対話する場として、現在まで約20回開催されている。
 
-**Lin Pei-chun** is one of the pioneers of Taiwanese digital art. She began engaging in digital creation in the late 1990s and launched her representative series _Eve Clone_ in 2006, exploring the relationship between biotechnology, artificial life, and the female body. The work allowed viewers' physiological signals (heart rate, brainwaves) to directly drive visual changes, making the body not just an observer but a co-creator of the work. Lin Pei-chun has long taught at the Department of Multimedia Animation Art, National Taiwan University of Arts, cultivating a large number of new media art talents.
+**林珮淳**（リン・ペイチュン／リン・ペイチュン）は、台湾のデジタル・アートの先駆者の一人である。1990年代末からデジタル創作に携わり、2006年からは代表的なシリーズ『夏娃克隆（Eve Clone）』を発表し、バイオテクノロジー、人工生命、そして女性の身体の関係を探求している。作品は観客の生理信号（心拍、脳波）によって視覚的変化を直接駆動させ、身体は単なる観測者ではなく、作品の共同制作者となる。林珮淳は長年、国立台湾芸術大学マルチメディア・アニメーション芸術学科で教鞭を執り、多くの新メディア・アート人材を育成してきた。
 
-**Lin Chun-ting** (born 1978) brought Eastern ink wash aesthetics into interactive installations. His works combine projection with a rice paper texture with motion sensing, allowing viewers to step into a digital landscape painting that responds to bodily movements. The _Small Universe_ series magnifies microscopic natural phenomena into immersive experiences.
+**林俊廷**（リン・ジュンティン／リン・ジュンティン、1978年生）は、東洋の水墨美学をインタラクティブ・インスタレーションへと持ち込んだ。彼の作品は、宣紙のような質感のプロジェクションと身体検知を組み合わせることで、観客が身体の動きに反応するデジタル山水画の中へと入り込む体験を提供する。代表作『小宇宙』シリーズは、微視的な自然現象を没入型の体験へと拡大させた。
 
-In 2010, **LuxuryLogico** was formed by four members: Chang Keng-hao (sculpture), Chang Keng-hua (dynamic machinery), Lin Kun-ying (music), and Chen Chih-chien (architecture). This cross-disciplinary combination was rare in the Taiwanese art circle at the time, marking a turning point where new media art moved from individual studios to team collaboration.
+2010年、**豪華朗機工**（LuxuryLogico）は、張耿豪（彫刻）、張耿華（動力機械）、林昆穎（音楽）、陳志建（建築）の4人で結成された。このような領域横断的なチーム構成は当時の台湾のアートシーンでは稀であり、新メディア・アートが個人のスタジオからチームによる協働へと移行する転換点となった。
 
-## International Breakthrough (2010-2020)
+## 国際的爆発（2010-2020）
 
-### Hsin-Chien Huang: International Breakthrough in VR Art
+### 黄心健：VRアートの国際的突破
 
-**Hsin-Chien Huang** (born 1966, Taipei) graduated from the Department of Mechanical Engineering at National Taiwan University before going to the US, where he obtained a Bachelor's degree in Product Design from the California Institute of the Arts and a Master's degree in Design from the Illinois Institute of Technology. In the 1990s, he served as Art Director for Sega and Sony. In 1995, he designed the CD-ROM work _Puppet Motel_ for Laurie Anderson, initiating a creative partnership spanning over twenty years. He returned to Taiwan in 2001 to establish Story Nest Studio, thereafter fully dedicating himself to new media art creation.
+**黄心健**（コウ・シンケン／ファン・シンジェン、1966年生、台北）は、台湾大学機械工学科を卒業後渡米し、カリフォルニア芸術大学（CalArts）でプロダクトデザインの学士号を、イリノイ工科大学でデザインの修士号を取得した。1990年代にはSegaとSonyでアートディレクターを務め、1995年にはローリー・アンダーソンのためにCD-ROM作品『Puppet Motel』を設計し、両者の20年以上にわたる創作パートナーシップを開始させた。2001年に帰国後、「故事巢（Story Nest）」スタジオを設立し、以降は新メディア・アートの創作に全力を注いでいる。
 
-After _La Camera Insabbiata_, Hsin-Chien entered a period of intensive international exposure: _Bodyless_ (2019) was shortlisted for the Venice Film Festival VR unit; _Samsara_ (2021) won the SXSW Film Festival Jury Award and the Honorary Mention for Computer Animation at the 2022 Ars Electronica Festival; _Self-Monitoring Body_ (2023) won the Best Work Award at FilmGate Miami. He is currently a Distinguished Professor at the Department of Design, National Taiwan Normal University, and received the 25th Taipei Cultural Award in 2021[^1].
+『沙中房間』の後、黄心健は集中的な国際的露出期を迎える。『失身記（Bodyless, 2019）』がヴェネツィア国際映画祭のVR部門にノミネートされ、『輪迴（Samsara, 2021）』がSXSW映画祭審査員賞および2022年リンツ電子芸術祭コンピュータ・アニメーション栄誉賞を受賞。さらに『自監體（2023）』はFilmGate Miamiで最優秀作品賞を受賞した。現在は国立台湾師範大学設計学科の特聘教授を務め、2021年には第25回台北文化賞を受賞している[^1]。
 
-Hsin-Chien's VR works do not follow an entertainment route; instead, they treat virtual reality as a meditation space, integrating the concept of emptiness from Eastern philosophy with the experimental spirit of Western avant-garde art.
+黄心健のVR作品はエンターテインメント路線ではなく、バーチャル・リアリティを瞑想空間として捉え、東洋哲学の「空（くう）」の概念と西洋前衛芸術の実験精神を融合させている。
 
-> "What we do with VR is an inner journey, not an external spectacle. Viewers go in to find themselves." — Hsin-Chien Huang
+> 「VRで行うのは内なる旅であり、外的な奇観ではない。観客が中に入るのは、自分自身を見つけるためである。」 —— 黄心健
 
-### Hsu Chia-wei: The Multiverse of Image Archaeology
+### 許家維：映像考古学のマルチバース
 
-**Hsu Chia-wei** (born 1983) revisits forgotten history through video installations. His creative method is like that of an archaeologist: field research, reviewing archives, interviewing participants, and then reconstructing the broken scenes of history using multi-channel video installations. _Iron Marshal_ (2012) traces the flow of faith between Taiwan and Southeast Asia; _Ruins Intelligence Bureau_ (2017) excavates the ruins of intelligence networks from the Cold War era; _Kaohsiung_ (2019) re-examines the history of Taiwanese indigenous peoples mobilized by the Japanese Empire. Hsu Chia-wei won the First Prize of the Taipei Fine Arts Award (2012), and his works have been exhibited in the Taipei Biennial, Sydney Biennial, and other major exhibitions[^6].
+**許家維**（シュー・ジアウェイ／シュー・ジアウェイ、1983年生）は、映像インスタレーションを用いて忘れ去られた歴史を再訪する。彼の創作手法は考古学者のようである。フィールドワークを行い、アーカイブを紐解き、当事者にインタビューを行い、それらをマルチチャンネルのビデオ・インスタレーションによって歴史の断絶した現場として再構築する。『鐵甲元帥』（2012）では台湾と東南アジアの間の信仰の流動を辿り、『廢墟情報局』（2017）では冷戦時代の情報ネットワークの遺跡を掘り起こし、『高砂』（2019）では日本帝国によって動員された台湾原住民の歴史を再探求した。許家維は台北美術奨の首位（2012年）を受賞しており、その作品は台北ビエンナーレやシドニー・ビエンナーレなど、多くの重要な展覧会で展示されている[^6]。
 
-### Huang Yi: When a Choreographer Meets a KUKA Robot
+### 黄翊：振付家とKUKAロボットの邂逅
 
-**Huang Yi** (born 1983) is Taiwan's most internationally renowned cross-disciplinary choreographer. In 2012, he presented _Huang Yi & KUKA_, dancing on stage with an industrial robotic arm. This work attracted international attention after being introduced in a TED Talk, and subsequently toured more than twenty cities globally[^7]. The core of Huang Yi's creation is "intimacy between humans and machines": the machine is not a prop, but an emotional dance partner. He was selected for Forbes Asia's "30 Under 30" Arts list and chosen as a TED Fellow.
+**黄翊**（ファン・イー／ファン・イー、1983年生）は、台湾で最も国際的な知名度を持つ領域横断的な振付家である。2012年、彼は『黃翊與庫卡（Huang Yi & KUKA）』を発表し、舞台上で一台の産業用ロボットアームと共に踊った。この作品がTEDでの講演を通じて紹介されたことで国際的な注目を集め、その後世界20以上の都市でツアーが行われた[^7]。黄翊の創作の核心は「人間と機械の間の親密性」にある。機械は小道具ではなく、感情を持つダンスパートナーなのだ。彼はフォーブス・アジアの「30 Under 30」アート部門に選出され、TED Fellowにも選ばれている。
 
-### Chang Hsu-chan: Animation Magic in the Paper Shrine Universe
+### 張徐展：紙紮宇宙のアニメーション魔法
 
-**Chang Hsu-chan** (born 1988) comes from a paper shrine family in Xinzhuang, with three generations of his family operating a traditional paper-offering shop. He transforms this Taiwanese folk funeral craft into a contemporary art vocabulary, using paper shrine techniques to create puppet characters, combined with stop-motion animation to create a unique visual universe. The representative work _Si So Mi_ was selected for multiple international animation film festivals, and the _Tropical Compound Eye_ series has received widespread attention at the Taipei Fine Arts Museum and international exhibitions. Chang Hsu-chan's work illustrates one thing: the most moving possibilities of Taiwan New Media Art sometimes lie not in cutting-edge technology, but in the chemical reaction between traditional crafts and contemporary technology.
+**張徐展**（チャン・シューヂェン／チャン・シューヂェン、1988年生）は、新荘の伝統的な紙紮（しし、葬儀用の紙細工）の家系に生まれた。家族三代にわたって伝統的な糊紙店を営んできた。彼はこの台湾の民間葬儀工芸を現代アートの語彙へと転換させ、紙紮の技法で人形劇のキャラクターを作り上げ、コマ撮りアニメーションと組み合わせることで独自の視覚宇宙を創造した。代表作『Si So Mi』は多くの国際アニメーション映画祭に選出され、『熱帯複眼』シリーズは台北市立美術館や国際的な展覧会で広く注目を集めている。張徐展の作品は一つのことを物語っている。台湾の新メディア・アートの最も感動的な可能性は、時に最先端技術にあるのではなく、伝統工芸と現代技術の化学反応の中にあるのだ。
 
-### LuxuryLogico: The Philosophy of the Mechanical Garden
+### 豪華朗機工：メカニカル・ガーデン哲学
 
-At the 2018 Taichung World Flora Expo, LuxuryLogico's _Listening to the Sound of Blooming_ became the most discussed art installation in Taiwan. The 697 mechanical petals opened and closed, breathing according to changes in environmental sound and light—this giant spherical installation with a diameter of 15 meters was not a technology showcase, but a philosophical proposition: Can machines feel nature[^8]? Before and after this, LuxuryLogico launched multiple large-scale works in the field of public art, assembling sensors, motors, and LEDs into breathing organisms.
+2018年の台中世界花博において、豪華朗機工の『聆聽花開的聲音』は台湾で最も話題となった芸術インスタレーションとなった。697枚の機械の花びらが、周囲の音や光の変化に応じて開閉し呼吸する——直径15メートルのこの巨大な球体装置は、単なる技術展示ではなく、「機械は自然を感じることができるか？」という哲学的な命題であった[^8]。それ以前および以降も、豪華朗機工はパブリック・アートの分野で多くの大型作品を発表しており、センサー、モーター、LEDを組み合わせて呼吸する有機体を構築している。
 
-## New Wave (2020-Present)
+## 新しい潮流（2020-現在）
 
-### Generative Art and Algorithmic Aesthetics
+### ジェネレーティブ・アートとアルゴリズムの美学
 
-In the 2020s, the rise of NFT and generative art platforms (fxHash, Art Blocks) opened new international channels for Taiwanese new media artists.
+2020年代、NFTとジェネレーティブ・アート・プラットフォーム（fxHash、Art Blocks）の台頭は、台湾の新メディア・アーティストに新たな国際的な道を開いた。
 
-**Wu Che-yu** (born 1995) is the most active representative of Taiwanese generative art in the international market. He uses p5.js and algorithms as creative media, blending mathematical formulas, natural simulation, and Eastern aesthetics in his works. _Formula of All Things_ (2023) held a solo exhibition at Taipei 101 AMBI SPACE ONE, one of the largest-scale live installations of p5.js generative art globally. In 2024, he exhibited _SoulFish_ at the Venice Biennale Parallel Exhibition, _The Soul of Flowers_ at Art Basel Miami, and _The Eternal Garden in a Bottle_ was selected for the artist residency at Paris's Cent Quatre-104. He also operates a creative coding teaching platform, with courses accumulating over 20,000 students[^9], serving as an important force in promoting Taiwanese programming art education.
+**吳哲宇**（ウー・ジェユイ／ウー・ジェユイ、1995年生）は、台湾のジェネレーティブ・アートにおける国際市場で最も精力的に活動する代表格である。彼はp5.jsとアルゴリズムを創作媒体とし、数学的公式、自然シミュレーション、そして東洋美学を融合させた作品を発表している。『萬物公式』（2023）は台北101のAMBI SPACE ONEで開催された個展であり、世界最大規模のp5.jsジェネレーティブ・アートの現場インスタレーションの一つとなった。2024年には『靈魂魚（SoulFish）』でヴェネツィア・ビエンナーレのパラレル展示に参加し、『花的靈魂』はArt Basel Miamiで展示され、『瓶中的永恆花園』はパリのCent Quatre-104のアーティスト・イン・レジデンスに選出された。彼は同時にクリエイティブ・コーディングの教育プラットフォームも運営しており、累計受講生は2万人を超え[^9]、台湾のプログラミング・アート教育を推進する重要な力となっている。
 
-**Ku Kuang-yi** (born 1987) is one of the few creators in Taiwan who holds both the identity of a dentist and an artist. His bio-art works explore human modification, species boundaries, and bioethics; he studied at the Hackney Bio Art Lab in the Netherlands. His representative work _Tiger Whip Project_ was exhibited at Ars Electronica, Dutch Design Week, and other international venues, and he was selected as a winner of the Dutch Bio Art & Design Award.
+**顧廣毅**（ク・グアンイー／ク・グアンイー、1987年生）は、歯科医師とアーティストの両方の顔を持つ稀有なクリエイターである。彼のバイオ・アート作品は、人体改造、種の境界、そして生物倫理を探求しており、オランダのBio Art Labに在籍した経験を持つ。代表作『虎鞭計畫』は、リンツ電子芸術祭やオランダ・デザインウィークなどの国際的な場で展示され、オランダのBio Art & Design Awardを受賞している。
 
-**Yao Chung-han** (born 1981) uses fluorescent light tubes as dual media for vision and sound. The _Photoelectric Beast_ series turns the exterior walls of buildings into giant sound-light instruments, responding to real-time changes in environmental data. He is the important successor to Wang Fu-rui in Taiwanese sound art.
+**姚仲涵**（ヤオ・チュンハン／ヤオ・ジョンハン、1981年生）は、蛍光灯を視覚と音の両方の媒体として用いる。『光電獸』シリーズでは、建物の外壁を巨大な音響・照明楽器へと変貌させ、環境データのリアルタイムな変化に応答させる。彼は王福瑞の後を継ぐ、台湾のサウンド・アートの重要な旗手である。
 
-At the 2025 Ars Electronica Festival, Taiwanese artists Yu Shien Yang and Kim Ki-eun's _ARIA Dream Machine_ received the Honorary Mention in the New Animation Art category. This work explores gender bias and Asian social role stereotyping in the AI era[^10]. Taiwan's new generation of creators can now stably output at the world's most top-tier electronic art competitions.
+2025年のリンツ電子芸術祭では、台湾のアーティストである楊宇賢（ヤン・ユーシェン／ユ・シエン・ヤン）と金畿恩による『ARIA 夢姬』が、新しいアニメーション・アート部門で栄誉賞を受賞した。この作品は、AI時代におけるジェンダー・バイアスとアジア社会における役割の固定化を探求している[^10]。台湾の次世代クリエイターたちは、すでに世界最高峰の電子芸術コンペティションにおいて安定した成果を上げているのである。
 
-## Ecosystem: The Infrastructure Supporting Artists
+## エコシステム：アーティストを支えるインフラストラクチャ
 
-The **New Media Art Department of Taipei National University of the Arts** was established in 2000 (as the Institute of Technology and the Arts), and was restructured into a complete department in 2009[^11]. Located on the Guandu Hill, the TNUA campus has cultivated a large number of new media artists active internationally; pioneers such as Kuang-Ming Yuen and Wang Chun-chieh have all taught here.
+**国立台北芸術大学新メディア芸術学科**は2000年に設立され（当時は科技芸術研究所）、2009年に完全な学科へと改編された[^11]。関渡の丘に位置する北芸大のキャンパスは、国際的に活躍する多くの新メディア・アーティストを輩出しており、袁廣鳴や王俊傑といった先駆者たちもここで教鞭を執った。
 
-**C-LAB Taiwan Contemporary Culture Lab** (officially operated in 2018) was formerly the site of the Air Force General Headquarters—the transformation from a military base to an art lab is itself full of metaphor[^12]. C-LAB's "Taiwan Soundscape Laboratory" is equipped with Taiwan's most advanced spatial audio system, supporting sound artists in high-spec creative experiments, and serves as the hub for establishing regular cooperation between Taiwan and institutions such as France's IRCAM and Austria's Ars Electronica.
+**C-LAB 台湾当代文化実験場**（2018年正式稼働）の前身は空軍総司令部の旧跡である。軍事基地から芸術の実験場への転換そのものが、深いメタファーを含んでいる[^12]。C-LABの「臺灣聲響實驗室」には台湾で最も先進的な空間音響システムが備わっており、サウンド・アーティストによる高規格な創作実験を支援している。また、フランスのIRCAMやオーストリアのリンツ電子芸術祭といった機関との常態的な協力関係を築くハブとしての役割も果たしている。
 
-The **Taipei Digital Arts Festival** (2006-present) sets a different theme for each edition. The Taipei Digital Arts Award is one of the core competition awards for Taiwanese new media artists. The Taipei Biennial and the VR unit of the Kaohsiung Film Festival (VR FILM LAB) form a north-south responding network of exhibition platforms.
+**台北デジタルアートフェスティバル**（2006年〜現在）は、開催ごとに異なるテーマを設定しており、台北デジタルアート賞は台湾の新メディア・アーティストにとって中核的なコンペティションの一つである。また、台北ビエンナーレと高雄映画祭のVR部門（VR FILM LAB）が南北で呼応し合う展示プラットフォームのネットワークを形成している。
 
-This ecosystem has another underestimated foundation: Taiwan is a core node in the global semiconductor and electronic hardware supply chain. Chips manufactured by TSMC drive the VR headsets and GPUs of the world; HTC's Vive is one of the most commonly used devices for VR art creation. Taiwanese artists can obtain the latest hardware at a relatively low cost, which is the material basis for technological experimentation.
+このエコシステムには、過小評価されているもう一つの基盤がある。台湾は世界の半導体および電子ハードウェア・サプライチェーンの中核的なノードであるということだ。TSMCが製造するチップは世界中のVRヘッドセットやGPUを駆動しており、HTCのViveはVRアート制作において最も頻繁に使用されるデバイスの一つである。台湾のアーティストが最新のハードウェアを比較的低コストで入手できることは、技術実験が行われるための物質的な基礎となっている。
 
-## The Uniqueness of Taiwan New Media Art
+## 台湾の新メディア・アートの独自性
 
-The quality most frequently mentioned by international critics regarding Taiwan New Media Art is "temperature." While Western and American artists tend to use technology to express alienation, critique, or individualism, Taiwanese artists are doing this: **giving machines a soul**.
+台湾の新メディア・アートが国際的な批評においてしばしば言及される特性は、「温度」である。欧米のアーティストがテクノロジーを用いて疎外、批判、あるいは個人主義を表現する傾向があるのに対し、台湾のアーティストが行っているのは、**「機械に魂を宿らせる」**ことである。
 
-Hsin-Chien's VR meditation spaces originate from the Eastern philosophical concept of "emptiness"; Lin Chun-ting's interactive installations are rooted in the blank space of ink wash landscapes; LuxuryLogico's mechanical gardens pursue coexistence with nature rather than conquering it. This creative tendency is not a deliberately crafted "Orientalist" label, but the cultural DNA naturally flowing from artists raised on this land.
+黄心健のVR瞑想空間は東洋哲学の「空」に由来し、林俊廷のインタラクティブ・インスタレーションは水墨山水の余白に根ざしている。豪華朗機工のメカニカル・ガーデンが追求するのは、自然を征服することではなく、自然との共生である。このような創作傾向は、意図的な「オリエンタリズム」のラベルではなく、この土地で育ったアーティストたちが自然に流露させる文化的な遺伝子なのだ。
 
-Chang Hsu-chan brings paper shrine crafts into contemporary art; Chen Jie-ren uses digital post-production to revisit colonial history; Hsu Chia-wei uses video installations to archaeologically excavate East Asian Cold War memories. The technology of these works may be globally universal, but the narratives they carry can only come from Taiwan.
+張徐展は紙紮工芸を現代アートへと持ち込み、陳界仁はデジタル加工を用いて植民地時代の歴史を再訪し、許家維は映像インスタレーションによって東アジアの冷戦の記憶を考古学的に探求する。これらの作品に使われる技術は世界共通のものであるかもしれないが、そこに込められたナラティブ（物語）は台湾からしか生まれ得ない。
 
-With an area of 36,000 square kilometers and a population of 23 million, and without a seat at the United Nations, Taiwan New Media Art has developed a unique international strategy: the Venice route (the Taipei Fine Arts Museum's uninterrupted thirty-year participation), the Linz route (stable participation rhythm at Ars Electronica), the film festival route (VR units and immersive content competitions), and the platform route (decentralized art markets like fxHash and Art Blocks). Not comparing scale, but comparing depth.
+台湾の面積は36,000平方キロメートル、人口は2,300万人であり、国連の議席も持っていない。このような条件下で、台湾の新メディア・アートは独自の国際戦略を発展させてきた。それはヴェネツィア路線（台北市立美術館による30年間の継続的な関与）、リンツ路線（Ars Electronicaへの安定した参加リズム）、映画祭路線（VR部門と没入型コンテンツのコンペティション）、そしてプラットフォーム路線（fxHashやArt Blocksといった分散型アート市場）である。規模ではなく、深さで勝負しているのだ。
 
-## Challenges
+## 挑戦
 
-The achievements of Taiwan New Media Art should not obscure the structural dilemmas it faces.
+台湾の新メディア・アートの成果は、それが直面している構造的な困難を覆い隠すべきではない。
 
-The problem with the collecting market is fundamental: interactive installations are difficult to display in private spaces, VR works require special equipment to experience, and the preservation of digital works faces the risk of technological obsolescence. Most Taiwanese new media artists still rely heavily on public sector subsidies and museum commissions; this ecosystem operates when policies are stable but is very fragile when policies shift.
+最も根本的な問題はコレクション市場にある。インタラクティブ・インスタレーションは私的な空間での展示が難しく、VR作品は体験に特殊な設備を必要とし、デジタル作品の保存には技術の陳腐化というリスクが伴う。多くの台湾の新メディア・アーティストは依然として公的部門の補助金や美術館からの委託に強く依存しており、このエコシステムは政策が安定している時には機能するが、政策が転換した際には非常に脆弱である。
 
-In 2023, the copyright controversy sparked by writer Wu Tan-ju using Midjourney to generate images exposed the ambiguity in Taiwanese society regarding the definition of AI creation. Taiwan's Intellectual Property Office's current guidelines determine that "intellectual results produced by machines generally do not enjoy copyright," but in reality, as human-machine collaboration becomes increasingly complex, this boundary is rapidly dissolving. Artists such as Hsu Chia-wei and Ku Kuang-yi have long experiences living abroad; how to ensure that talent remains connected to the Taiwanese ecosystem amidst international mobility remains an unsolved problem.
+2023年、作家の呉淡如（ウー・タンルー／ウー・タンルー）がMidjourneyを用いた生成画像を使用したことで引き起こされた著作権論争は、AI創作の定義に対する台湾社会の曖昧さを露呈させた。台湾知的財産局の現行の指導原則では「機械によって生成された知的成果は原則として著作権を享受しない」とされているが、人間と機械の協働が複雑化する現実の中で、この境界線は急速に消失しつつある。許家維や顧廣毅といったアーティストには長期的な海外滞在経験もあり、国際的な流動の中でいかに人材を台湾のエコシステムと結びつけ続けるかは、常に未解決の難題である。
 
-Facing the rapid expansion of the digital art industry driven by capital in mainland China, and the massive government investment in metaverse infrastructure in South Korea, Taiwan's strategy is clear: not comparing scale, but comparing depth. The question has never been whether Taiwan can do it, but whether this ecosystem can continue to support artists in making more difficult experiments.
+資本の推進によって急速に拡大する中国大陸のデジタル・アート産業や、韓国政府による大規模なメタバース・インフラ投資に直面して、台湾の戦略は明確である。「規模ではなく、深さ」だ。問題は台湾にできるかできないかではなく、このエコシステムがアーティストたちがより困難な実験を続けることを支え続けられるか、ということにある。
 
-When the name of Yu Shien Yang appeared on the jury list for the 2025 Ars Electronica Festival, no one was particularly surprised; Taiwanese artists are there every year. This "taken-for-granted" status is the result of forty years of accumulation: from the video camera borrowed by Kuang-Ming Yuen, to Hsin-Chien Huang's fingers flying in the void, to the breathing of LuxuryLogico's 697 mechanical petals. Taiwan has never been the most resource-rich, but in the field of new media art, it has achieved something rare: giving machines a soul.
+2025年のリンツ電子芸術祭の審査員リストに楊宇賢の名前が現れたとき、誰もそれを特別に驚きとは感じなかった。台湾のアーティストは毎年そこにいるのだ。この「当たり前」という感覚こそが、40年の蓄積の結果である。袁廣鳴が借りたあのビデオカメラから、黄心健が虚空を舞う指先へ、そして豪華朗機工の697枚の機械の花びらの呼吸に至るまで。台湾は決して資源が最も豊富な場所ではない。しかし、新メディア・アートという領域において、それは稀有なことを成し遂げた。――「機械に魂を宿らせる」ということを。
 
 ---
 
-**Further Reading**:
+**関連記事**：
 
-- [Development of Contemporary Taiwanese Literature](/art/台灣當代文學發展) — The contemporary creative ecology of Taiwan that rose alongside new media art, understanding the overall context of the cultural circle
-- [Taiwan Theater and Performing Arts](/ja/art/taiwanese-theater-and-performing-arts) — The performing arts background of cross-disciplinary creators like Huang Yi, the intersection of body and technology
-- [Taiwan Cinema](/ja/art/taiwanese-cinema) — Another thread of Taiwanese image art, sharing the film festival stage with new media art
-- [Open Source Communities and g0v](/ja/technology/open-source-and-g0v) — Another aspect of Taiwan's tech culture, the intersection of open-source spirit and the art circle
-- [History of the Taiwan Television Industry](/ja/technology/taiwan-television-industry-history) — The media evolution from radio/television to OTT, the institutional context of image technology
-- [justfont and the Development of Taiwanese Typography](/ja/technology/justfont-and-taiwan-typography) — Another group of creators at the intersection of design, technology, and cultural identity: the people who painstakingly restored Taiwan's characters stroke by stroke
-- [Hsieh De-ching](/ja/art/tehching-hsieh-performance-artist) — The body medium before new media, a pioneer of Taiwanese performance art and an international master of "Five Years Performance"
-- [Wang Hsin-jen (A-Luan)](/ja/art/wang-hsin-jen-artist) — The first Taiwanese generative artist to appear on Art Blocks, core figure in akaSwap and the FAB DAO Hundred Peaks Project
-- [Wang Lian-sheng (Shrimp Dad)](/ja/art/wang-lien-cheng-artist) — Winner of the 2017 Lumen Prize Sculpture Category, member of i/O Lab and organizer of Lost Sound Festival, representative of Taiwanese sound installation art
-- [Wu Che-yu](/ja/people/che-yu-wu) — A self-proclaimed "ancient clockmaker" new media artist, initiator of the Venice Biennale Personal Structures × Art Basel Miami × Taiwan.md open-source project
-- [The Reporter: Saving Investigative Journalism from a Business Item to a Public Good for Ten Years](/ja/society/the-reporter-investigative-journalism) — Another Taiwan-DNA case driven by civic communities and growing across boundaries, showing another path of constructing public goods in civil society after 2015
-- [justfont and the Development of Taiwanese Typography: From Wah Fu's 25 Years to Jin Xuan's 76 Minutes of Type History](/ja/technology/justfont-and-taiwan-typography) — Typography as cultural infrastructure, another dimension focusing on Taiwanese visual subjectivity alongside new media art
-- [Submarine Cables: Visible at the Top of the Silicon Shield, Invisible at the Bottom of the Lifeline](/ja/technology/submarine-cables-taiwan-lifeline) — 99% of cross-border new media art exhibitions and curation collaborations go through submarine cables; this article reveals this invisible digital cultural infrastructure
-- [Nien Jung-chen](/ja/people/nieh-yung-jen) — Taiwan's first member of the AGI International Graphic Design Alliance, the curatorial position of Yongzhen JiZhi Studio and contemporary Taiwanese visual culture
+- [台湾の現代文学の発展](/art/台灣當代文學發展) — 新メディア・アートと同時期に興った台湾の現代創作エコシステム。文化圏全体の文脈を理解するために。
+- [台湾の演劇とパフォーマンス・アート](/ja/art/taiwanese-theater-and-performing-arts) — 黄翊などの領域横断的クリエイターの背景にある、身体とテクノロジーの交差点。
+- [台湾映画](/ja/art/taiwanese-cinema) — 台湾映像芸術のもう一つの系譜であり、新メディア・アートと共に映画祭の舞台を共有する。
+- [オープンソース・コミュニティとg0v](/ja/technology/open-source-and-g0v) — 台湾のテクノロジー文化のもう一つの側面。オープンソース精神とアートシーンの交差。
+- [台湾テレビ産業史](/ja/technology/taiwan-television-industry-history) — ラジオ・テレビからOTTへのメディアの変遷。映像テクノロジーの制度的な文脈。
+- [justfontと台湾のフォント発展](/ja/technology/justfont-and-taiwan-typography) — デザイン、テクノロジー、文化的アイデンティティの境界に立つクリエイターたち。台湾の文字を一筆ずつ育んできた人々。
+- [謝徳慶（シエ・ドゥチン／シェ・デチン）](/ja/art/tehching-hsieh-performance-artist) — 新メディア以前の身体メディア。台湾パフォーマンス・アートの先駆者であり、「5年周期のパフォーマンス」で知られる国際的な巨匠。
+- [王新仁（阿乱／アーラン）](/ja/art/wang-hsin-jen-artist) — Art Blocksに登場した最初の台湾人ジェネレーティブ・アーティスト。akaSwapおよびFAB DAO 百岳プロジェクトの核心的人物。
+- [王連晟（蝦爸／シアパ）](/ja/art/wang-lien-cheng-artist) — 2017年ルーメン賞彫刻部門首位受賞者。i/O Labメンバーであり「失聲祭」の主催者、台湾を代表するサウンド・インスタレーション・アーティスト。
+- [吳哲宇](/ja/people/che-yu-wu) — 自らを「古き時計職人」と称する新メディア・アーティスト。ヴェネツィア・ビエンナーレ Personal Structures × Art Basel Miami × Taiwan.md オープンプロジェクトの発起人。
+- [報導者：調査報道を営利項目から公共財へと救い出した10年](/ja/society/the-reporter-investigative-journalism) — 市民コミュニティによって駆動され、領域を超えて成長したもう一つのTaiwan-DNAの事例。2015年以降の市民社会による公共財構築の新たな道を提示している。
+- [justfontと台湾のフォント発展：華康廿五年から金萱七十六分間の書体小史まで](/ja/technology/justfont-and-taiwan-typography) — 文化的なインフラとしてのフォント。新メディア・アートと同様に、台湾の視覚的主体性に注目するもう一つの次元。
+- [海底ケーブル：シリコンシールドの頂上からは見えても、命脈の底は見えない](/ja/technology/submarine-cables-taiwan-lifeline) — 国際的な新メディア・アートの展示やキュレーションの99%は海底ケーブルを経由している。本作は、この目に見えないデジタル文化インフラを明らかにする。
+- [聶永真（ニエ・ヨンジェン／ニエ・ヨンジェン）](/ja/people/nieh-yung-jen) — 台湾初のAGI国際グラフィックデザイン連盟会員。永真急制工作室を通じた台湾の現代視覚文化におけるキュレーションの立ち位置。
 
-## References
+## 参考文献
 
-[^1]: [Hsin-Chien Huang — Wikipedia](https://en.wikipedia.org/wiki/Hsin-Chien_Huang) — Hsin-Chien Huang's English Wikipedia entry, recording the complete record of _La Camera Insabbiata_ winning the first Venice Film Festival VR Best Experience Award in 2017, as well as the international award list for subsequent works like _Bodyless_, _Samsara_, and _Self-Monitoring Body_, his teaching background at NTNU, and the Taipei Cultural Award.
+[^1]: [Hsin-Chien Huang — Wikipedia](https://en.wikipedia.org/wiki/Hsin-Chien_Huang) — 黄心健の英語版Wikipedia条目。『沙中房間』が2017年ヴェネツィア国際映画祭でVR部門最優秀体験賞を受賞した記録、およびその後の『失身記』『輪迴』『自監體』などの国際的な受賞リスト、師大での教授歴、台北文化賞について記載。
 
-[^2]: [Kuang-Ming Yuen _Everyday War_ — Taiwan in Venice Official Page](https://www.taiwaninvenice.org/2024/content/2024-04-20) — The official introduction for the 2024 Venice Biennale Taiwan Pavilion released by the Taipei Fine Arts Museum, the curating institution, including the exhibition concept of Kuang-Ming Yuen's _Everyday War_, the exhibition location (Palazzo delle Prigioni), and the curatorial statement.
+[^2]: [袁廣鳴《日常戰爭》— Taiwan in Venice 公式ページ](https://www.taiwaninvenice.org/2024/content/2024-04-20) — 台湾館のキュレーション機関である台北市立美術館が発表した2024年ヴェネツィア・ビエンナーレ台湾館の公式紹介。袁廣鳴の『日常戰爭』のコンセプト、展示場所（Palazzo delle Prigioni）、およびキュレーション説明を含む。
 
-[^3]: [Taiwanese Pavilion at the Venice Biennale — e-flux](https://www.e-flux.com/directory/54431/taiwanese-pavilion-at-the-venice-biennale) — An entry in the international art information platform e-flux recording the complete history of Taiwan's continuous participation since the 46th Venice Biennale in 1995, with the Taipei Fine Arts Museum as the curating institution.
+[^3]: [Taiwanese Pavilion at the Venice Biennale — e-flux](https://www.e-flux.com/directory/54431/taiwanese-pavilion-at-the-venice-biennale) — 国際芸術情報プラットフォームe-fluxに収録された台湾館の歴史的項目。台北市立美術館をキュレーション機関とし、1995年の第46回ヴェネツィア・ビエンナーレから継続して参加している台湾の全歴史を記録。
 
-[^4]: [Taipei Contemporary Art Museum Official Website](https://www.moca.taipei/) — The official website of the Taipei Contemporary Art Museum (MoCA Taipei), stating it opened in 2001, was formerly the Jiansheng Elementary School building from the Japanese colonial period, and is Taiwan's first public museum dedicated to contemporary art exhibitions.
+[^4]: [台北当代芸術館公式サイト](https://www.moca.taipei/) — 台北当代芸術館（MoCA Taipei）の公式サイト。2001年に開館したこと、前身が日本統治時代の建成小学校の校舎であること、台湾初の現代アートに特化した公立美術館であることを説明。
 
-[^5]: [Taipei City Government Culture Bureau — Taipei Digital Arts Festival](https://english.culture.gov.taipei/cp.aspx?n=C93C0A0A7ADE2D94) — Official introduction by the Taipei City Government Culture Bureau, stating that the Taipei Digital Arts Festival is hosted by the Digital Arts Foundation, opened its first edition in 2006, and is Taiwan's first annual large-scale exhibition themed around digital art.
+[^5]: [台北市政府文化局 — 台北デジタルアートフェスティバル](https://english.culture.gov.taipei/cp.aspx?n=C93C0A0A7ADE2D94) — 台北市政府文化局の公式紹介。台北デジタルアートフェスティバルがデジタル・アート基金会によって主催され、2006年の第1回開幕以来、台湾初のデジタル・アートをテーマとした年次大規模展示であることを説明。
 
-[^6]: [Taipei Fine Arts Award — Taipei Fine Arts Museum](https://www.tfam.museum/Exhibition/Exhibition.aspx?ddlLang=zh-tw) — The Taipei Fine Arts Award hosted by the Taipei Fine Arts Museum, where Hsu Chia-wei won the First Prize in 2012, serving as an important competition platform for promoting young contemporary Taiwanese artists into the international vision.
+[^6]: [台北美術獎 — 台北市立美術館](https://www.tfam.museum/Exhibition/Exhibition.aspx?ddlLang=zh-tw) — 台北市立美術館が主催する台北美術奨。許家維が2012年に首位を受賞しており、台湾の若い現代アーティストを国際的な視野へと導く重要なコンペティション・プラットフォームである。
 
-[^7]: [Huang Yi & KUKA: Human-Robot Dance — TED Talk](https://www.ted.com/talks/huang_yi_kuka_a_human_robot_dance_duet) — Huang Yi's speech recorded by TED, showcasing the core concept of _Huang Yi & KUKA_—the intimate dance between humans and industrial robotic arms. Huang Yi attracted widespread international attention after the TED speech and was selected as a TED Fellow.
+[^7]: [黃翊與庫卡：人機共舞 — TED Talk](https://www.ted.com/talks/huang_yi_kuka_a_human_robot_dance_duet) — TEDに収録された黄翊の講演。『黃翊與庫卡』の核心概念である、人間と産業用ロボットアームの親密なダンスを提示している。この講演後、彼は国際的な注目を集め、TED Fellowにも選出された。
 
-[^8]: [Taichung World Flora Expo _Listening to the Sound of Blooming_ — Business Wire](https://www.businesswire.com/news/home/20181107006051/en/Taichung-World-Flora-Expo-Highlight-Sound-Blooming) — Official media report from the 2018 Taichung World Flora Expo, recording the technical details and creative philosophy of LuxuryLogico's _Listening to the Sound of Blooming_ (The Sound of Blooming), a spherical installation composed of 697 mechanical petals with a diameter of 15 meters.
+[^8]: [台中世界花博《聆聽花開的聲音》— Business Wire](https://www.businesswire.com/news/home/20181107006051/en/Taichung-World-Flora-Expo-Highlight-Sound-Blooming) — 2018年台中世界花博の公式メディア報道。豪華朗機工の『聆聽花開的聲音（The Sound of Blooming）』、すなわち697枚の機械の花びらで構成された直径15メートルの球体装置の技術的詳細と創作理念を記録。
 
-[^9]: [Wu Che-yu Creative Coding Teaching Platform](https://creativecoding.in/) — The generative art teaching platform founded by Wu Che-yu, offering p5.js algorithmic creation courses, serving as an important push for Taiwanese programming art education, with Hahow online courses accumulating over 20,000 students.
+[^9]: [吳哲宇 creative coding 教學平台](https://creativecoding.in/) — 吳哲宇が設立したジェネレーティブ・アート教育プラットフォーム。p5.jsアルゴリズム創作コースを提供し、台湾のプログラミング・アート教育の重要な推進力となっている。Hahowオンライン講座の累計受講生は2万人を超える。
 
-[^10]: [Prix Ars Electronica 2025 — New Animation Art Award List](https://ars.electronica.art/festival/en/view/ars-electronica-animation-festival-2025-1e338ddb450c809ca70bdd1f860c4d6b/) — The official 2025 award announcement from Ars Electronica, recording the record of Taiwanese artists Yu Shien Yang and Kim Ki-eun receiving the Honorary Mention in the New Animation Art category for the work _ARIA Dream Machine_, which explores gender and social role stereotyping in the AI era.
+[^10]: [Prix Ars Electronica 2025 — New Animation Art 受賞リスト](https://ars.electronica.art/festival/en/view/ars-electronica-animation-festival-2025-1e338ddb450c809ca70bdd1f860c4d6b/) — リンツ電子芸術祭の公式2025年受賞公告。台湾のアーティスト楊宇賢（Yu Shien Yang）と金畿恩が、新しいアニメーション・アート部門で栄誉賞（Honorary Mention）を受賞した記録。作品『ARIA 夢姬』はAI時代のジェンダーと社会的役割の固定化を探求している。
 
-[^11]: [TNUA New Media Art Department History](https://nma.tnua.edu.tw/info/history) — The official department history page of the New Media Art Department of Taipei National University of the Arts, recording the establishment of the Institute of Technology and the Arts in 2000, the restructuring into a complete department in 2009, as well as past faculty and representative alumni.
+[^11]: [北藝大新媒體藝術學系系史](https://nma.tnua.edu.tw/info/history) — 国立台北芸術大学新メディア芸術学科の公式系史ページ。2000年の科技芸術研究所設立から、2009年の完全な学科への改編の経緯、歴代の教員および代表的な卒業生を記録。
 
-[^12]: [C-LAB Taiwan Contemporary Culture Lab — About Us](https://clab.org.tw/en/about/) — C-LAB official introduction, stating its former site was the Air Force General Headquarters, rebuilt by the Ministry of Culture in 2018 into a contemporary culture lab, currently Taiwan's most important new media art incubation base, establishing regular cooperation with international institutions such as France's IRCAM.
+[^12]: [C-LAB 台湾当代文化実験場 — 關於我們](https://clab.org.tw/en/about/) — C-LABの公式紹介。前身が空軍総司令部の旧跡であること、2018年に文化部によって現代文化実験場へと改築されたこと、現在は台湾で最も重要な新メディア・アートのインキュベーション拠点としてフランスのIRCAM等と協力していることを説明。
 
-[^13]: [Taiwan Contemporary Art Archive (TCAA) — Wang Fu-rui](https://tcaaarchive.org/Artist/Detail/1235) — The TCAA artist page records Wang Fu-rui founding the Noise experimental music label in 1993, and joining Etat in 2000. See also [ART PRESS Interview (2020)](https://theartpressasia.com/2020/12/02/about-experimental-sound-theres-no-playlist-interview-with-sound-artist-wang-fujui/) and [TNUA New Media Faculty Page](https://nma.tnua.edu.tw/faculty/fulltime/ukGokGMjud).
+[^13]: [台灣當代藝術資料庫（TCAA）— 王福瑞](https://tcaaarchive.org/Artist/Detail/1235) — TCAAのアーティストページ。王福瑞が1993年にNoise実験音楽レーベルを創設し、2000年に在地實驗（Etat）に加入した経緯を記録。詳細は [ART PRESS インタビュー（2020）](https://theartpressasia.com/2020/12/02/about-experimental-sound-theres-no-playlist-interview-with-sound-artist-wang-fujui/) および [北藝大新媒系教員ページ](https://nma.tnua.edu.tw/faculty/fulltime/ukGokGMjud) を参照。
 
-[^14]: [Lost Sound Festival Official Website (lsf-taiwan.blogspot.com)](http://lsf-taiwan.blogspot.com/) — Lost Sound Festival was initiated by Yao Chung-han in July 2007, co-organized with peers from the TNUA New Media Department Wang Chung-kun, Ye Ting-hao, and Niu Jun-qiang, with Wang Fu-rui witnessing the birth of the cross-generational community as a senior mentor.
+[^14]: [失聲祭公式サイト（lsf-taiwan.blogspot.com）](http://lsf-taiwan.blogspot.com/) — 2007年7月に姚仲涵が発起し、北芸大の新メディア系の同期である王仲堃、葉廷皓、牛俊強と共に企画された「失聲祭」。王福瑞は師としてこの世代を超えたコミュニティの誕生を見守った。

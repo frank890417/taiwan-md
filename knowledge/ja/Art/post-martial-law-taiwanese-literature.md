@@ -1,195 +1,188 @@
 ---
-title: 'Post-Martial Law Taiwan Literature'
-description: 'Thirty-eight years of confinement lifted in a single night, literary creation ushered in an explosion — but freedom does not mean lack of restraint; new challenges quietly arrived.'
+title: '解厳後の台湾文学'
+description: '38年間の戒厳が一夜にして解除され、文学創作が大爆発を迎えた——しかし自由は無拘束を意味せず、新たな課題が静かに迫ってきた'
 date: 2026-03-18
-tags:
-  [
-    'Literature',
-    'Martial Law',
-    'Localization',
-    'Political Literature',
-    'Diverse Literature',
-  ]
+category: 'Art'
+tags: ['文学', '解厳', '本土化', '政治文学', '多元文学']
 subcategory: '文學'
 author: 'Taiwan.md'
-category: 'Art'
-readingTime: 8
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
+readingTime: 8
 translatedFrom: 'Art/解嚴後台灣文學.md'
-sourceCommitSha: ''
-sourceContentHash: 'sha256:dbd30052b54262c8'
+sourceCommitSha: '4d7fab8ee'
+sourceContentHash: 'sha256:b88e9dbdbb8fa20c'
 sourceBodyHash: 'sha256:c355aaf2378be217'
-translatedAt: '2026-06-09T03:20:26+08:00'
-featured: false
+translatedAt: '2026-10-11T05:16:32+08:00'
 ---
 
-# Post-Martial Law Taiwan Literature
+# 解厳後の台湾文学
 
-> **30-Second Overview:** Martial law was lifted on July 15, 1987, ending the 38-year martial law regime. Taiwan literature immediately entered a period of explosion, with taboo topics suddenly解禁 from political novels to female writing to indigenous literature. However, the real contradiction is this: while gaining creative freedom, literature also began to face the double-edged sword of market mechanisms — commercial publishing brought more readers, but also diluted the purity of literature. This is the most complex transitional period in Taiwan literature.
+> **30秒概観：** 1987年7月15日、解厳により38年間続いた戒厳令が終了。台湾文学は即座に爆発期を迎え、政治小説、女性の書き込みから先住民文学まで、タブーとされたテーマが一夜にして解禁された。しかし真の矛盾は、創作の自由を得た同時に、文学が市場メカニズムの諸刃の剣に直面し始めたことだ——商業出版はより多くの読者をもたらしたが、同時に文学の純粋性を希薄化させた。これは台湾文学史上最も複雑な転換期である。
 
-On the midnight of July 15, 1987, Chiang Ching-kuo announced the lifting of martial law[^1]. Peng Renjin, editor-in-chief of _Literary World_ magazine, sat in the editorial office, facing a stack of political novels that had been banned and rejected[^2]. For 38 years, these works accusing authoritarianism and reflecting on history could only wait in drawers. That night, these suppressed voices could finally see the light.
+1987年7月15日午前零時、蔣経国（しょう・けいこく／チャン・ジンジュー）が戒厳解除を発表した[^1]。『文芸界』誌総編集長の彭瑞金（ほう・ずいきん／ポン・ルイジン）は編集部に座り、目の前には出版禁止で差し戻された政治小説の山があった[^2]。38年間、権威主義を告発し歴史を反省するこれらの作品は、引き出しの中で待ち続けるしかなかった。あの夜、抑圧されていた声がついに陽の目を見ることになった。
 
-But Peng Renjin did not expect that the real challenge was just beginning. Martial law lifting opened creative freedom, but also introduced unprecedented commercial competition. When political taboos disappeared, literary works had to compete for readers' attention in an open market. The most complex transitional period in Taiwan literature history thus unfolded.
+だが彭瑞金は想像もしなかった。真の挑戦はまさにこれからだった。解厳は創作の自由を開いたと同時に、前例のない商業競争をもたらした。政治的タブーが消えたとき、文学作品は開かれた市場で読者の注目を奪い合う必要に迫られた。台湾文学史上最も複雑な転換期がこうして幕を開けた。
 
-## Political Liberalization: The Explosion of Suppressed Voices
+## 政治解禁：抑圧された声の爆発
 
-### Literary Reckoning of the White Terror
+### 白色テロの文学的清算
 
-The first wave of literature after the lifting of martial law was a collective memory and reckoning of the White Terror. Long-banned political issues suddenly gained space for expression, and writers seemed to want to finish forty years of silence in one breath.
+解厳後の第一波文学ブームは、白色テロへの集団的追憶と清算だった。長らく禁忌とされた政治テーマが突然表現の場を得て、作家たちはまるで40年間の沈黙を一気に語り尽くさんばかりだった。
 
-**Lan Bozhou**'s reportage _Song of the Hackney Carriage_ (1991) became a classic of this type of writing. This book recorded the story of musician Lu Hsi-jo and his comrades who were shot dead in the 1950s due to left-wing political beliefs. Lan Bozhou spent five years visiting victims' families and consulting archives to reconstruct the historical scene that had been deliberately forgotten.
+**藍博洲（らん・はくしゅう／ラン・ボーヂョウ）**のルポルタージュ『幌馬車之歌』（1991年）は、この種の書き込みの古典となった。この書は1950年代、左翼的政治理念により銃殺された音楽家呂赫若（りょ・かくじゃく／リュウ・ホールオ）とその同志たちの物語を記録している。藍博洲は5年を費やし、受難者遺族を訪ね、公文書を調べ、意図的に忘れ去られた歴史の現場を再構築した。
 
-A detail in the book is impressive: Lu Hsi-jo's widow, Zhang Caixia, said that after her husband was taken away, even playing the songs he composed at home became a "dangerous behavior." "We dared not cry, dared not speak, and even had to secretly miss him." This sentence accurately summarized the devastation of the White Terror on the mind.
+印象的な細節がある：呂赫若の未亡人張彩霞（ちょう・さいか／ジャン・ツァイシャー）は、夫が連行された後、自宅で彼が作曲した曲を流すことさえ「危険な行為」になったと語った。「私たちは泣くことも、話すことも、想うことさえこっそりしなければならなかった。」この一言が、白色テロが精神に与えた破壊を的確に言い表している。
 
-Before the lifting of martial law, such stories could not be published. After the lifting, _Song of the Hackney Carriage_ was very popular in Taiwan, inspiring a series of White Terror literary creations. Works such as Chen Yingzhen's _Mountain Road_ (1983, reprinted after martial law lifting) and Yang Zhao's _Dark Alley迷夜_ (1990) were all digging into this covered history.
+解厳前、こうした物語を出版することは到底不可能だった。解厳後、『幌馬車之歌』は台湾で大反響を呼び、一連の白色テロ文学創作を触発した。陳映真（ちん・えいしん／チェン・インジェン）の『山路』（1983年、解厳後再版）、楊照（よう・しょう／ヤン・ジャオ）の『暗巷迷夜』（1990年）なども、この隠蔽された歴史を掘り起こす作品だ。
 
-### The Reappearance of the Literature of the February 28 Incident
+### 二二八事件の文学的復権
 
-The February 28 Incident, more sensitive than the White Terror, gradually entered the field of literary writing after the lifting of martial law. Li Qiao's novel _Buried Grievance 1947 Buried Grievance_ (1995) is set against the background of the February 28 Incident, describing the tragedy of a local family.
+白色テロよりさらにセンシティブな二二八事件も、解厳後は徐々に文学的視野に入ってきた。李喬（り・きょう／リー・チャオ）の長編小説『埋冤1947埋冤』（1995年）は二二八事件を背景に、ある本省人家族の悲劇を描いた。
 
-A more important breakthrough was the stage play. In 1989, Taiwan's first stage play with the February 28 Incident as the theme, _Spring Breeze and Rain_, was performed at the National Theater, and some people in the audience cried out loud. The playwright Chen Yuhui later recalled: "We didn't know how many people in the audience were the participants of that year."
+より重要なブレイクスルーは舞台劇だった。1989年、台湾初の二二八事件をテーマにした舞台劇『春風化雨』が国家戯院で上演され、客席から嗚咽が漏れた。脚本家の陳玉慧（ちん・ぎょっけい／チェン・ユーフイ）は後に回想している：「客席にどれだけの当年体験者がいるのか、私たちにはわからなかった。」
 
-These works provided a space for collective healing, making political literature an important channel for Taiwan society to face traumatic memories.
+これらの作品は集団的癒やしの空間を提供し、政治文学を台湾社会がトラウマの記憶と向き合う重要なパイプ役にした。
 
-## Body Liberation: Bold Writing from Gender to Desire
+## 身体の解放：ジェンダーから情欲への大胆な書き込み
 
-### The Rise of Feminist Literature
+### フェミニズム文学の台頭
 
-Another major breakthrough brought by the lifting of martial law was the liberation of gender issues. Li Ang had already challenged the taboos of patriarchal society with _The Killing of a Deer_ (1983) before the lifting of martial law, but the feminist literature wave only formed a scale after the lifting of martial law.
+解厳がもたらしたもう一つの大きなブレイクスルーは、ジェンダーテーマの解禁だ。李昂（り・こう／リー・アン）は解厳前から『殺夫』（1983年）で父権社会のタブーに挑んだが、フェミニズム文学の潮流が規模を成したのは解厳後のことだ。
 
-**Liao Huiying**'s _Oil Melon Seeds_ (1982) gained renewed attention after the lifting of martial law. This novel describing the fate of traditional Taiwanese women happened to echo the spirit of the times of the women's self-awareness movement after the lifting of martial law. The heroine A Xiang's sentence "I no longer want to be an oil melon seed" became the voice of countless Taiwanese women.
+**廖輝英（りょう・きえい／リャオ・フイイン）**の『油麻菜籽』（1982年）が解厳後に再び注目された。台湾伝統女性の運命を描いたこの小説は、解厳後の女性自覚運動の時代精神と見事に呼応した。主人公阿香（アーシャン）の「私はもう油麻菜籽（※卑しい存在の比喩）にはなりたくない」という台詞は、無数の台湾女性の心の声となった。
 
-The gender writing of the new generation of writers was more radical. Hu Shuwen, Luo Yijun, and others who rose in the 1990s broke through boldly in language, directly describing the desire and loneliness of urban people. This was completely unimaginable before the lifting of martial law.
+新世代作家のジェンダー書き込みはよりラディカルだった。1990年代に台頭した胡淑雯（こ・しゅくぶん／フー・シューウェン）、駱以軍（らく・いぐん／ルオ・イージュン）らは、言語面で大胆に突破し、都会人の情欲と孤独を直接的に描いた。これは解厳前には全く想像もできなかったことだ。
 
-### The Birth of Queer Literature
+### クィア文学の誕生
 
-The most controversial literary breakthrough after the lifting of martial law was the publicization of queer writing. **Zhu Tianwen**'s _Handbook of a Handless Man_ (1994) wrote about Taipei urban life from the perspective of a male homosexual, winning the first prize of the first Times Literary Million Novel Award, shocking the literary world[^3].
+解厳後、最も議論を呼んだ文学的ブレイクスルーは、クィア書き込みの公然化だ。**朱天文（しゅ・てんぶん／ジュ・ティエンウェン）**の『荒人手記』（1994年）は、ゲイ男性の視点で台北都市生活を描き、第1回時報文学百万小説賞首賞を受賞し、文壇を震撼させた[^3]。
 
-The protagonist of the novel is an aesthete intellectual. In the 1990s, under the shadow of AIDS, the novel wrote about the desires, fears, and existential anxieties of homosexuals. Zhu Tianwen combined classical aesthetics with contemporary urban experience, creating a narrative style that was both beautiful and decadent[^4], pushing Taiwan literature's writing of desire to a new dimension.
+主人公は耽美的な知識人。エイズの影が忍び寄る90年代、同性愛者の欲望、恐怖、実存的不安を書き綴った。朱天文は古典美学と現代都市体験を融合させ、優美かつ頽廃的な物語スタイルを切り開いた[^4]。台湾文学における情欲の書き込みを全く新しい次元へと押し上げたのだ。
 
-But such breakthroughs came at a cost. Many conservative readers attacked the book as "morally corrupt," and some groups demanded a ban on the book. Zhu Tianwen said helplessly in an interview: "The freedom of literature actually needs to bear so much misunderstanding."
+だがこのブレイクスルーも代償を伴った。多くの保守的読者が「道徳的堕落」と罵り、禁書を求める団体さえ現れた。朱天文はあるインタビューで無念そうに語った。「文学の自由、これほど多くの誤解を受け入れなければならないとは。」
 
-## Linguistic Diversification: The Revival of Mother Tongue Literature
+## 言語の多元化：母語文学の復活
 
-### The Rebirth of Taiwanese Literature
+### 台湾語文学の再生
 
-Before the lifting of martial law, it was almost an impossible task to create works in Taiwanese. After the lifting of martial law, Taiwanese literature, which had been suppressed for decades, ushered in a period of revival.
+解厳前、台湾語で創作することはほぼ不可能な任務だった。解厳後、数十年間抑圧されてきた台湾語文学が復活期を迎えた。
 
-**Song Zelai** was an important promoter of the revival of Taiwanese literature. His novel _Daniuannan Village_ was written in Taiwanese Han characters, depicting the changes in rural society. Song Zelai wrote in Taiwanese while striving to establish the theoretical foundation of Taiwanese literature, laying an academic status for this long-marginalized genre.
+**宋澤萊（そう・たくらい／ソン・ツェライ）**は台湾語文学復興の重要な推進者だ。小説『打牛湳村』を台湾語漢字で書き、農村社会の変遷を描いた。宋澤萊は台湾語で書く傍ら、台湾語文学の理論的基礎確立に努め、長らく周縁化されてきたこの文類に学術的地位を与えた。
 
-**Li Qiao** started from the perspective of Hakka literature. His _Cold Night Trilogy_, although written in Chinese, retained a large amount of Hakka linguistic sense and cultural connotations. He has long advocated that language is the carrier of culture, and Taiwanese writers must tell their own stories in their own language.
+**李喬**は客家語文学の観点からアプローチし、『寒夜三部曲』は中国語で書かれながら、大量の客家語の語感と文化的内包を留保している。彼は長年、言語は文化の担い手であり、台湾作家は自らの言葉で自らの物語を語らねばならないと主張し続けてきた。
 
-### The Awakening of Indigenous Literature
+### 先住民文学の覚醒
 
-The most challenging linguistic experiment came from indigenous literature. After the lifting of martial law, indigenous writers such as **Sun Dachuan**, **Wahis Noogan**, and **Xia Man Lanbao** began to reinterpret their cultural traditions in Chinese.
+最も挑戦的な言語実験は先住民文学から生まれた。解厳後、**孫大川（そん・だいせん／スン・ダーチュアン）**、**瓦歷斯·諾幹（ヴァリス・ノガン／ワーリス・ノーガン）**、**夏曼・藍波安（かまん・らんぱあん／シマン・ランポアン）**ら先住民作家が、中国語を用いて自らの文化伝統を再解釈し始めた。
 
-Wahis Noogan's poetry collection _Yineng Re-Explore_ (1992) re-examined Taiwan's history from the Atayal worldview. He wrote, "The sound of the river flows in my blood." This poetic expression allowed Han readers to feel the unique aesthetics of indigenous people for the first time.
+瓦歷斯·諾幹の詩集『伊能再踏查』（1992年）は、タイヤル族（泰雅族）の世界観で台湾歴史を再検証した。彼は書く。「私の血液には河川の音が流れている」——この詩的表現は、漢人読者に初めて先住民の独自の美学を感じさせた。
 
-Xia Man Lanbao's _Myth of Badai Bay_ (1992) rewrote the life history of the tribe from the perspective of the Tao ocean, breaking the stereotypical expectation of Han people on indigenous literature as "suffering writing."
+夏曼・藍波安の『八代灣的神話』（1992年）は、タオ族（達悟族／旧称ヤミ族）の海洋観で族人の生命史を書き直し、漢人が先住民文学に抱く「苦難の書き込み」というステレオタイプを打ち破った。
 
-The dilemma faced by indigenous writers is: how to express non-Han cultural thinking within the framework of the Han language? This question continued to ferment throughout the 1990s, and only gradually formed diverse answer paths in the 21st century.
+先住民作家が直面するジレンマは：漢語の枠組みの中で、非漢文化の思考をいかに表現するか。この問題は1990年代を通じて発酵し続け、21世紀になってようやく多様な解答の道筋が形成されていった。
 
-## Urban Literature: New Sensibility of the Consumer Society
+## 都市文学：消費社会の新感性
 
-### The Impact of Postmodern Trends
+### ポストモダン潮流の衝撃
 
-From the late 1980s to the early 1990s, Western postmodern theories were introduced in large quantities to Taiwan, profoundly affecting the literary creation of the younger generation[^5]. Writers such as **Zhang Dachun**, **Lin Yaode**, and **Huang Fan** began to experiment with new writing forms.
+1980年代末から1990年代初頭にかけ、西洋ポストモダン理論が大量に台湾へ導入され、若手世代の文学創作に深く影響を与えた[^5]。**張大春（ちょう・だいしゅん／ジャン・ダーチュン）**、**林燿德（りん・ようとく／リン・ヤオダー）**、**黄凡（こう・ぼん／ホアン・ファン）**らが新たな書き込み形式を実験し始めた。
 
-Zhang Dachun's _Four Joys Patriotism_ (1988) mixed detective novels, martial arts novels, and realistic politics together, creating a brand-new narrative style. This "collage" technique was deeply influenced by postmodern aesthetics, and also reflected the complexity of Taiwan society after the lifting of martial law.
+張大春の『四喜憂国』（1988年）は推理小説、武俠小説、現実政治を混合し、全く新しい物語スタイルを創造した。この「コラージュ」手法はポストモダン美学の影響を深く受け、同時に解厳後台湾社会の複雑性を反映している。
 
-Lin Yaode more directly proposed the concept of "urban literature," arguing that literature should respond to the new experiences brought by urbanization. His novel _1947 Goshuyu Lily_ captured the alienation of Taipei urban life with fast-paced narrative and fragmented images.
+林燿德はより直接的に「都市文学」の概念を打ち出し、文学は都市化がもたらす新体験に応答すべきだと主張した。小説『一九四七高砂百合』は速いテンポの語りと破砕されたイメージで、台北都市生活の疎外感を捉えた。
 
-### The Literary Reflection of Consumer Culture
+### 消費文化の文学的反映
 
-After the lifting of martial law, Taiwan quickly entered a consumer society. Literary works began to reflect this new lifestyle. **Yuan Qiongqiong**'s novels described the emotional dilemmas of the urban middle class, while **Su Weizhen** focused on the identity issues of women in a consumer society.
+解厳後、台湾は急速に消費社会へと突入した。文学作品はこの新しい生活様式を反映し始めた。**袁瓊瓊（えん・けいけい／ユエン・チョンチョン）**の小説は都会中産階級の感情的ジレンマを描き、**蘇偉貞（そ・いちん／スー・ウェイジェン）**は消費社会における女性のアイデンティティ問題に焦点を当てた。
 
-The common feature of these works is the focus on "small certainty happiness" — the grand narrative of big history receded, and the subtle feelings of personal life became the protagonist of literature. This literary orientation reflected the major change in Taiwan society from political supremacy to individualism.
+これらの作品に共通するのは「小さな確かな幸せ（小確幸）」への関心だ——大歴史の壮大な物語が退場し、個人生活の微細な感受が文学の主人公となった。この文学的傾向は、台湾社会が政治主導から個人主義へと大きく舵を切ったことを反映している。
 
-But this shift also triggered controversy. Some critics believed that urban literature was too indulgent in personal feelings and lacked concern for social reality. This divergence is still an important topic in the Taiwan literary world today.
+だがこの転向も議論を呼んだ。一部の批評家は、都市文学が個人の感覚に没溺しすぎ、社会現実への関心を欠くと指摘する。この対立は今日まで台湾文壇の重要なテーマであり続けている。
 
-## Commercialization of the Publishing Market: The Double-Edged Sword of Literature
+## 出版の市場化：文学の諸刃の剣
 
-### The Dual Impact of Commercial Mechanisms
+### 商業メカニズムの二重の影響
 
-After the lifting of martial law, Taiwan's publishing industry quickly commercialized. On January 1, 1988, after the lifting of the newspaper ban, the number of newspapers increased from 29 to hundreds, and the supplement pages increased significantly, providing more space for literary creation.
+解厳後、台湾出版界は急速に市場化した。1988年1月1日の報禁解除後、新聞社数は29社から数百社へと激増し、副刊紙面が大幅に拡大、文学創作により多くの発表スペースを提供した。
 
-At the same time, commercial publishers began to compete for excellent writers. **Times Publishing** established the "Times Literary Million Novel Award" in 1994, and high prize money attracted a large number of writers to participate. Zhu Tianwen's _Handbook of a Handless Man_ was the winner of the first edition of this award[^3].
+同時に商業出版社が優秀作家の獲得競争を開始。**時報出版**は1994年、「時報文学百万小説賞」を創設し、高額賞金で多数の作家を惹きつけた。朱天文の『荒人手記』はこの賞の第1回受賞作だ[^3]。
 
-But commercialization also brought negative effects. Publishers, in order to cater to the market, preferred popular works that could be sold quickly. Pure literature writers began to feel survival pressure. Chen Yingzhen once sighed: "Literature has become a commodity, and writers have become producers. Is this progress or regression?"
+しかし商業化は負の側面ももたらした。出版社は市場迎合のため、速く売れる大衆向け作品を好むようになった。純文学作家は生存圧力を感じ始めた。陳映真はい嘆いた。「文学が商品になり、作家が生産者になった。これは進歩か、後退か。」
 
-### The Establishment of the Literary Award System
+### 文学賞制度の確立
 
-In order to balance commerce and art, various literary award systems were established one after another after the lifting of martial law. The _United Daily News Novel Award_, the _China Times Literary Award_, the _Taipei Literary Award_, etc., supported the publication and review mechanisms of serious literature.
+商業と芸術のバランスを取るため、各種文学賞制度が解厳後に相次いで設立された。**聯合報小説賞**、**中国時報文学賞**、**台北文学賞**などが、純文学の発表と審査のメカニズムを支えた。
 
-These awards established the criteria for judging literary value, and many writers who later became famous were discovered through literary awards.
+これらの賞は文学価値の判断基準を確立し、後々有名になる多くの作家が文学賞をきっかけに発掘された。
 
-But the award system also produced new problems: writers began to write for awards, and literary creation showed a certain "standardized" tendency. This is another contradiction in the development of Taiwan literature.
+だが賞制度も新たな問題を生んだ：作家が受賞のために書くようになり、文学創作にある種の「定型化」傾向が現れた。これは台湾文学発展におけるもう一つの矛盾だ。
 
-## Eve of the Digital Age: Media Transformation in the 1990s
+## デジタル前夜：1990年代のメディア転換
 
-In the mid-1990s, the Internet emerged in Taiwan, and BBS sites became an informal field for literary publication. This instant, interactive writing method formed a preliminary impact on traditional supplement literature.
+1990年代半ば、インターネットが台湾で萌芽し、BBSサイトが文学発表の非公式な場となった。この即時的でインタラクティブな書き込み形態は、伝統的副刊文学に最初の衝撃を与えた。
 
-Literary magazines also experienced transformation. _Literature Taiwan_, _Taiwan Literature_, and other local literary magazines gained greater development space after the lifting of martial law. _Wenxun_ magazine specialized in organizing literary dynamics, providing selection indexes and writer chronologies. In the late 1990s, some magazines faced distribution difficulties, and the trend of reader diversion was already brewing.
+文学雑誌も同様に転換期を迎えた。『文学台湾』『台湾文芸』など本土文学雑誌が解厳後より大きな発展空間を得、『文訊』誌は専門的に文学動向を整理し、選刊索引と作家年表を提供した。1990年代末には一部雑誌が発行難に直面し、読者分流の傾向がすでに醸成されていた。
 
-The full development of these transformations had to wait until the early 21st century.
+これらの転換が全面的に展開するのは、21世紀初頭を待たねばならない。
 
-## Globalization Challenge: The International Vision of Taiwan Literature
+## グローバル化の挑戦：台湾文学の国際視野
 
-### The Large-Scale Introduction of Translated Literature
+### 翻訳文学の大量導入
 
-After the lifting of martial law, foreign literary works were introduced in large quantities to Taiwan. Japanese **Haruki Murakami**, Latin American **Marquez**, and Czech **Kundera** profoundly influenced the creative style of young Taiwanese writers.
+解厳後、外国文学作品が大量に台湾へ導入された。日本の**村上春樹**、中南米の**マルケス**、チェコの**クンデラ**らが、台湾若手作家の創作スタイルに深く影響を与えた。
 
-This influence exists on two sides: on the one hand, it expanded the international vision of Taiwanese writers; on the other hand, it may also dilute the characteristics of local literature. **Luo Yijun**'s works were obviously influenced by Latin American magical realism, but he successfully localized this technique.
+この影響は両面性を持つ：一方で台湾作家の国際視野を広げたが、他方で本土文学の特色を希薄化させる恐れもあった。**駱以軍**の作品には中南米マジック・リアリズムの影響が明確だが、彼はこの技法をうまく本土化させた。
 
-### The Beginning of the Translation of Taiwan Literature Outward
+### 台湾文学の翻訳出版の幕開け
 
-In the 1990s, Taiwan literature also began to go to the world. The government established the "Taiwan Literature Translation Project" to promote the English translation of excellent works. Bai Xianyong's _Taipei People_ and Li Ang's _The Killing of a Deer_ were successively translated into English.
+1990年代、台湾文学も世界へ歩み出した。政府が「台湾文学翻訳計画」を立ち上げ、優秀作品の英訳を推進。**白先勇（はく・せんゆう／パイ・シェンヨン）**の『台北人』、李昂の『殺夫』などが相次いで英訳された。
 
-But the challenge of translation lies in how to maintain the cultural characteristics of literary works. The transformation of Taiwan literature from "following the West" to "dialoguing with the world" would not be truly completed until the appearance of Wu Mingyi in the 21st century.
+しかし翻訳出版の課題は、いかに作品の文化的特色を保持するかにある。台湾文学が「西洋を追随する」から「世界と対話する」へと転換を遂げるのは、21世紀に呉明益（ご・めいえき／ウー・ミンイー）が登場して初めて真に完了する。
 
-## Controversy and Reflection
+## 議論と反省
 
-### The Eternal Tug-of-War between Commerce and Art
+### 商業と芸術の永遠の綱引き
 
-The deepest controversy in Taiwan literature after the lifting of martial law is still the relationship between commerce and art. Supporters of marketization believe that commercial mechanisms have enhanced the social influence of literature; critics believe that excessive commercialization has damaged the purity of literature.
+解厳後台湾文学の最も深い議論は、依然として商業と芸術の関係にある。市場化支持派は、商業メカニズムが文学の社会的影響力を高めたと主張し、批評派は、過度な商業化が文学の純粋性を損なうと指摘する。
 
-**Yu Guangzhong** once said: "Literature is not a stock, and its value cannot be measured by market price." But **Hou Wenyong** countered: "If there are no readers, what is the meaning of literature?" This divergence continues to this day.
+**余光中（よ・こうちゅう／ユー・グアンジョン）**はかつて言った。「文学は株ではない。市場価格で価値を測れない。」対して**侯文詠（こう・ぶんえい／ホウ・ウェンヨン）**は反駁した。「読者がいなければ、文学に何の意味があるのか。」この対立は今日まで続いている。
 
-### The Balance between Localization and Internationalization
+### 本土化と国際化のバランス
 
-Another ongoing controversy is the balance between localization and internationalization. Extreme localists believe that they should create works entirely in Taiwanese, criticizing Chinese literature as "colonial literature"; internationalists believe that Chinese is the bridge for Taiwan literature to go to the world.
+もう一つの継続的な議論は、本土化と国際化のバランスだ。極端な本土派は完全に台湾語で創作すべきだと主張し、中国語文学を「植民地文学」と罵る。国際派は中国語こそ台湾文学が世界へ通じる橋渡しだと考える。
 
-This controversy reflects the complexity of Taiwan literature's identity. Is Taiwan literature "Chinese literature in Taiwan" or "literature of Taiwanese people"? This question continued to be debated throughout the 1990s, and there is still no standard answer today.
+この議論は台湾文学のアイデンティティ認識の複雑性を反映している。台湾文学とは「台湾にある中国語文学」なのか、「台湾人の文学」なのか。この問いは1990年代を通じて議論され続け、今日まで標準的な答えはない。
 
-## Conclusion: The Literary Map Towards the Millennium
+## 結語：千禧年へ向かう文学地図
 
-From the lifting of martial law on July 15, 1987, to the countdown to the millennium in Taiwan at the end of the 1990s, these thirteen years were the most explosive period in Taiwan literature. Political literature found its voice, female literature stood firm, indigenous literature regained the right to interpret themselves, and urban literature and postmodern trends reshaped the possibilities of language itself.
+1987年7月15日の解厳から、1990年代末に台湾が千禧年カウントダウンに入るまで、この13年間は台湾文学史上最も爆発力のあった時期だ。政治文学が声を取り戻し、女性文学が立ち位置を確立し、先住民文学が自らを解釈する主権を奪還し、都市文学とポストモダン潮流が言語そのものの可能性を再定義した。
 
-But the contradictions brought by the lifting of martial law never disappeared with it. Market pressure, linguistic divergence, identity tug-of-war — these are the deep-seated issues that Taiwan literature truly surfaced after opening up, which cannot be covered by the restrictions before the lifting of martial law.
+だが解厳がもたらした矛盾は決して消えなかった。市場の圧力、言語の分裂、アイデンティティの綱引き——これらは解厳前の禁制では決して包含し得ない、開放後に初めて真に浮上した深層課題だ。
 
-After the millennium, the stage passed to new voices such as Wu Mingyi, Lin Yihan, and Gan Yaoming. But the foundation laid by these thirteen years after the lifting of martial law is the premise for everything that happened afterwards.
-
----
-
-## Further Reading
-
-- [Taiwan Roaming Record](/ja/art/taiwan-travelogue) — Yang Shuangzi continues the tradition of female and lesbian writing after the lifting of martial law, using pseudo-translated novels to write the history of Japanese colonial rule, winning double international recognition in the 2024 NBA and 2026 Booker Prize
-- [Post-War Taiwan Literature](/ja/art/postwar-taiwanese-literature) — 42 years from silence, modernism, rural debate to female awakening during the 1945-1987 martial law period
-- [Contemporary Taiwan Literature](/ja/art/contemporary-taiwanese-literature) — 21st Century: Wu Mingyi's internationalization, Lin Yihan, the next baton of digital literature
-- [History of Taiwan Literature](/ja/art/history-of-taiwanese-literature) — The overall context from the Dutch rule, Ming and Qing dynasties, Japanese rule, post-war to contemporary
-- [Lin Liang](/ja/people/lin-liang-childrens-literature) — Founder of the Republic of China Children's Literature Society in 1984 after the lifting of martial law, the founder of Taiwan children's literature, his column _Look at Pictures and Speak_ accompanied generations of Taiwanese children
+千禧年後、舞台は呉明益、林奕含（りん・えきがん／リン・イーハン）、甘耀明（かん・ようめい／ガン・ヤオミン）ら新世代の声へと受け継がれた。だが解厳後この13年間が築いた基盤こそ、その後のすべての出来事の前提なのである。
 
 ---
 
-## References
+## 延伸閱讀
 
-[^1]: [Taiwan Provincial Martial Law Decree - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4) — Records the entire process of the martial law decree promulgated in 1949 to its lifting on July 15, 1987, including legal basis, political context, and historical background of the martial law lifting declaration.
+- [臺灣漫遊錄](/ja/art/taiwan-travelogue) — 楊双子（よう・そうし／ヤン・シュアンツー）が解厳後女性・百合書き込みの伝統を継ぎ、偽訳小説形式で日治植民地史を描く。2024年NBA、2026年ブッカー賞ダブル国際評価
+- [戦後台湾文学](/ja/art/postwar-taiwanese-literature) — 1945-1987年戒厳期間、失語・モダニズム・郷土論争から女性覚醒までの42年
+- [当代台湾文学](/ja/art/contemporary-taiwanese-literature) — 21世紀：呉明益の国際化、林奕含、デジタル文学の次のバトン
+- [台湾文学史](/ja/art/history-of-taiwanese-literature) — オランダ統治・明清・日治・戦後から当代までの全体脈絡
+- [林良](/ja/people/lin-liang-childrens-literature) — 解厳後1984年中華民国児童文学学会創設者、台湾児童文学の奠基者。彼の『看図説話』コラムが何世代もの台湾の子どもたちを伴走した
 
-[^2]: [Preface: N Ways of Censorship - Taiwan Literature Virtual Museum](https://www.tlvm.com.tw/zh/Theme/ExhibitionArticleCont?Exbid=302) — Based on the memories of editors such as Peng Renjin, it organizes the various means of literary censorship during the martial law period (book cataloging, prohibition of publication, copyright seizure, etc.), which is core data for understanding the literary ecology before the lifting of martial law.
+---
 
-[^3]: [vocus Square Book Review: Zhu Tianwen's _Handbook of a Handless Man_ (1994)](https://vocus.cc/article/680dbb98fd89780001b2d3f8) — A detailed book review records that Zhu Tianwen's _Handbook of a Handless Man_ was completed on February 23, 1994, won the first prize of the first Times Literary Million Novel Award in the same year, the theme of male homosexuality, and its position in the history of Taiwan queer literature.
+## 參考資料
 
-[^4]: [Handbook of a Handless Man - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%8D%92%E4%BA%BA%E6%89%8B%E8%A8%98) — The entry details the narrative structure of _Handbook of a Handless Man_, the language style of the fusion of classical aesthetics and urban decadence, and its position in the history of gender writing in Taiwan literature.
+[^1]: [台湾省戒厳令——ウィキペディア](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4) — 1949年公布から1987年7月15日解除までの全過程を収録。法的根拠、政治的脈絡、解厳宣言の歴史的背景を含む。
 
-[^5]: [Rewriting Taiwan: Observations of 1980s Literature - Taiwan 80s](https://1980s.tnua.edu.tw/%E8%A6%86%E5%AF%AB%E5%8F%B0%E7%81%A3%EF%BC%9A%E5%85%AB%E3%80%87%E5%B9%B4%E4%BB%A3%E6%96%87%E5%AD%B8%E8%A7%80%E5%AF%9F/) — Curated by National Taipei University of Arts, it sorts out the literary landscape of Taiwan literature from the aftermath of the rural debate to the postmodern transformation in the 1980s, providing a snapshot of the literary ecology on the eve of the lifting of martial law, helping to understand the historical accumulation of the explosion after the lifting of martial law.
+[^2]: [前言：查禁的N種方式——台湾文学仮想博物館](https://www.tlvm.com.tw/zh/Theme/ExhibitionArticleCont?Exbid=302) — 彭瑞金ら編集者の回想を基に、戒厳期文学検閲の多様な手段（書目管理、出版禁止、版権押収等）を整理。解厳前文学生態を理解する核心資料。
+
+[^3]: [vocus 方格子書評：朱天文《荒人手記》（1994年）](https://vocus.cc/article/680dbb98fd89780001b2d3f8) — 詳細書評。『荒人手記』1994年2月23日完成、同年第1回時報文学百万小説賞首賞受賞、ゲイテーマ、台湾クィア文学史上の位置づけを記録。
+
+[^4]: [荒人手記——ウィキペディア](https://zh.wikipedia.org/zh-tw/%E8%8D%92%E4%BA%BA%E6%89%8B%E8%A8%98) — 項目詳細。『荒人手記』の物語構造、古典美学と都市頽廃の融合した言語スタイル、台湾文学ジェンダー書き込み史上の位置を記載。
+
+[^5]: [覆寫台湾：八○年代文学観察——台湾八O](https://1980s.tnua.edu.tw/%E8%A6%86%E5%AF%AB%E5%8F%B0%E7%81%A3%EF%BC%9A%E5%85%AB%E3%80%87%E5%B9%B4%E4%BB%A3%E6%96%87%E5%AD%B8%E8%A7%80%E5%AF%9F/) — 北芸大策展。1980年代台湾文学が郷土論争余波からポストモダン転換へ至る文学地景を梳理。解厳前夜の文学生態スナップショットを提供し、解厳後爆発の歴史的蓄積を理解する助けとなる。
