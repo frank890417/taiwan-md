@@ -17,6 +17,9 @@
 #   DIRTY_BATCH  — working tree 留有大量未 commit .md（疑似 sibling 翻譯批次 leftover）
 # exit: 0=CLEAN / 1=任一風險 / 2=error
 #
+# 另印 OTHER_WORKTREES 區塊（只在人類可讀模式）：其他工作樹裡沒 commit 的檔數與新鮮度。
+# 不影響 STATUS 與 exit code。
+#
 # 被 .husky/pre-push、session 啟動、routine Step 1 共用。canonical: BECOME §行動鐵律 5。
 set -uo pipefail
 
@@ -74,6 +77,42 @@ if [ -n "$remote_head" ] && [ -n "$local_head" ]; then
   fi
 fi
 
+# 5. 其他工作樹的未 commit 檔（2026-10-11 self-evolve，REFLEXES #42「routine 自死前 commit」第四起）
+#    前四項只看「這一棵樹」。09-25 一班 routine 死在 .worktrees/ 裡的工作樹，改好的檔沒 commit，
+#    下一班在主樹甦醒，這支印 CLEAN，沒有任何東西告訴它隔壁躺著一份做到一半的工作；
+#    那班是碰巧去 git worktree list 才接手。這條交接從 09-25 傳到 10-03 共八班。
+#    只報告不升級 status：工作樹裡有東西不代表會撞 git（pre-push 用 --status，不受影響），
+#    它要回答的是「這台機器上還有誰的工作沒落地」，給甦醒的人讀。
+#    新鮮度切兩段：2 小時內有改動 = 可能有人正在用，別碰；超過 24 小時 = 疑似孤兒，收屍看這裡。
+wt_lines=""
+now_epoch="$(date +%s)"
+while IFS= read -r wt; do
+  [ -z "$wt" ] && continue
+  [ "$wt" = "$REPO" ] && continue
+  [ -d "$wt" ] || { wt_lines="${wt_lines}\n  🌳 ${wt}：登記在 git 但目錄不見了（git worktree prune 可清）"; continue; }
+  wt_dirty="$(git -C "$wt" status --porcelain 2>/dev/null | wc -l | tr -d ' ')"
+  [ "${wt_dirty:-0}" -eq 0 ] && continue
+  newest=0
+  while IFS= read -r f; do
+    [ -e "$wt/$f" ] || continue
+    m="$(stat -f %m "$wt/$f" 2>/dev/null || stat -c %Y "$wt/$f" 2>/dev/null || echo 0)"
+    [ "$m" -gt "$newest" ] && newest="$m"
+  done <<EOF_FILES
+$(git -C "$wt" status --porcelain 2>/dev/null | sed -E 's/^.{3}//; s/.* -> //; s/^"(.*)"$/\1/')
+EOF_FILES
+  if [ "$newest" -gt 0 ]; then
+    age_h=$(( (now_epoch - newest) / 3600 ))
+    if [ "$age_h" -lt 2 ]; then tag="${age_h}h 前還在改，可能有人正在用，別碰"
+    elif [ "$age_h" -ge 24 ]; then tag="最後改動 ${age_h}h 前，疑似孤兒（死掉的班沒 commit），先讀它的 memory 再決定接手或歸檔"
+    else tag="最後改動 ${age_h}h 前"; fi
+  else
+    tag="改動時間讀不到（可能全是刪除）"
+  fi
+  wt_lines="${wt_lines}\n  🌳 ${wt#$REPO/}：${wt_dirty} 個未 commit 檔，${tag}"
+done <<EOF_WT
+$(git worktree list --porcelain 2>/dev/null | awk '/^worktree /{sub(/^worktree /,""); print}')
+EOF_WT
+
 # 輸出
 case "$MODE" in
   --status) echo "$status"; ;;
@@ -84,6 +123,7 @@ case "$MODE" in
     else
       printf "PARALLEL_CHECK: %s ⚠️%b\n" "$status" "$reasons"
     fi
+    [ -n "$wt_lines" ] && printf "OTHER_WORKTREES（不影響 status，只報這台機器上還沒落地的工作）:%b\n" "$wt_lines"
     ;;
 esac
 [ "$status" = "CLEAN" ] && exit 0 || exit 1

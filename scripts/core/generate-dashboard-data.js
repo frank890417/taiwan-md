@@ -353,6 +353,59 @@ function buildGitCache() {
   return _gitCache;
 }
 
+// 心臟「新進庫」與「有更新」分開量（2026-10-11 self-evolve，LESSONS
+// `heart-counts-heals-as-contributed-births` vc=3，神經迴路同名條）：
+// articlesLast7Days 用 lastModified 過濾，巡邏修補一篇就算一篇「近七天文章」，
+// 10-02→10-08 三輪讀數 8→15→30→41 而同窗口 zh 新增檔案 0 篇。這裡用
+// `--diff-filter=A -M` 取每個 zh 路徑真正被加進庫的日期（改名不算出生），
+// 只加 metrics 欄位與一格不計分的影子分數，heartScore 公式不動（閾值屬 🔒，留哲宇）。
+let _addedCache = null;
+function buildAddedCache() {
+  if (_addedCache) return _addedCache;
+  _addedCache = new Map();
+  try {
+    const out = execSync(
+      'git log -z -M --diff-filter=A --name-only --format="COMMIT|%aI" -- "knowledge/"',
+      { cwd: PROJECT_ROOT, encoding: 'utf8', maxBuffer: 20 * 1024 * 1024 },
+    );
+    let date = '';
+    for (let token of out.split('\0')) {
+      token = token.replace(/^\n+/, '').trim();
+      if (!token) continue;
+      if (token.startsWith('COMMIT|')) {
+        date = token.split('|')[1] || '';
+        continue;
+      }
+      const m = token.match(/^knowledge\/([A-Z][A-Za-z]+)\/[^/]+\.md$/);
+      if (!m || !CATEGORIES.includes(m[1])) continue;
+      const base = path.basename(token);
+      if (base.startsWith('_')) continue;
+      // git log 新到舊：同一路徑刪了又加回時，留最新那次出生
+      if (!_addedCache.has(token)) _addedCache.set(token, date.slice(0, 10));
+    }
+    for (const rel of [..._addedCache.keys()]) {
+      if (!fs.existsSync(path.join(PROJECT_ROOT, rel))) _addedCache.delete(rel);
+    }
+  } catch (e) {
+    console.error('Added-date cache error:', e.message);
+  }
+  return _addedCache;
+}
+
+function countAddedSince(sinceDateStr) {
+  let n = 0;
+  for (const d of buildAddedCache().values()) if (d && d >= sinceDateStr) n++;
+  return n;
+}
+
+// 跟 heartScore 同一組門檻，套在「新進庫」上。只印不計分。
+function shadowHeartScore(n) {
+  if (n > 10) return 90;
+  if (n > 5) return 70;
+  if (n > 2) return 50;
+  return 30;
+}
+
 function getGitInfo(filePath) {
   const resolved = path.resolve(filePath);
   return (
@@ -758,6 +811,12 @@ async function main() {
   const contributedLast7Days = Math.max(
     0,
     articlesLast7Days - selfProducedLast7Days,
+  );
+  const newArticlesLast7Days = countAddedSince(sevenDaysStr);
+  const newArticlesLast30Days = countAddedSince(thirtyDaysStr);
+  const contributedNewLast7Days = Math.max(
+    0,
+    newArticlesLast7Days - selfProducedLast7Days,
   );
 
   const humanReviewedCount = articles.filter((a) => a.lastHumanReview).length;
@@ -1341,6 +1400,17 @@ async function main() {
           selfProducedLast7Days,
           selfProducedLast30Days,
           contributedLast7Days,
+          // 2026-10-11：上面兩格把巡邏修補算成「近七天文章」與「投稿」。
+          // newArticles* = git 首次加入日（改名不算），contributedNew = 新進庫扣自產。
+          // shadowScore = 同門檻套新進庫，不計分，給哲宇決定公式時對照。
+          newArticlesLast7Days,
+          newArticlesLast30Days,
+          contributedNewLast7Days,
+          updatedNotNewLast7Days: Math.max(
+            0,
+            articlesLast7Days - newArticlesLast7Days,
+          ),
+          shadowScoreNewOnly: shadowHeartScore(newArticlesLast7Days),
         },
       },
       {

@@ -37,7 +37,11 @@ cron 與 enabled 的 live 值**本工具不改**——那要透過 scheduled-tas
 session 叫得動。本工具負責把「該改成什麼」算出來印清楚，改的動作留給 routine session
 （MANIFESTO §14：能機械化的做成儀器，需要判斷與權限的留給判斷）。
 
-Exit code: 0 = 三層一致；1 = 有漂移；2 = 環境壞掉（SSOT 讀不到）。
+對賬前先 `git fetch origin main`，本機 routine 層（ROUTINE.md＋routine-prompts/）跟
+origin/main 有差就印 🌐 並 exit 1：本機落後時三層可以一致地一起舊。fetch 失敗印 ❔「沒量到」，
+不當成零差。表頭另印 live 鏡像的齡（cron／enabled 對賬讀的是鏡像，不是排程器本身）。
+
+Exit code: 0 = 三層一致且 origin 側無差；1 = 有漂移或 origin 側有差；2 = 環境壞掉（SSOT 讀不到）。
 """
 
 from lib.routine_decisions import enforce_decisions
@@ -47,7 +51,9 @@ import json
 import os
 import re
 import shutil
+import subprocess
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -159,6 +165,59 @@ def load_live():
         return {}
 
 
+def live_cron(lv):
+    """鏡像的鍵名是 `cronExpression`（MCP list_scheduled_tasks 原樣）。
+
+    2026-10-11 之前這裡只讀 `cron`，鍵名對不上，cron 漂移從工具誕生起一次都沒比過，
+    而表格照印 ✅、live_known 照樣是 True——尺在量，只是量的欄位是空的（REFLEXES #99）。
+    """
+    return (lv.get("cronExpression") or lv.get("cron") or "").strip()
+
+
+def live_mirror_age_hours():
+    """routine-live-state.json 是誰、何時從 MCP 抄下來的。回傳 (小時數 or None, fetched_by)。
+
+    cron／enabled 的對賬讀的是這份鏡像不是排程器本身。寫它的 data-refresh 排在 06:00、
+    讀它的 routine-sync 排在 05:30，所以本班每天必然量到前一天的 live（09-29 起手動補驗
+    十三輪才把這個順序說清楚）。齡數印在表頭，讀的人才知道綠燈是幾小時前的綠。
+    """
+    try:
+        data = json.loads(LIVE_STATE.read_text(encoding="utf-8"))
+        ts = datetime.fromisoformat(data["fetched_at"])
+        age = (datetime.now(timezone.utc) - ts).total_seconds() / 3600
+        return age, data.get("fetched_by", "?")
+    except (OSError, json.JSONDecodeError, KeyError, ValueError):
+        return None, "?"
+
+
+ROUTINE_LAYER = ["docs/semiont/ROUTINE.md", "docs/semiont/routine-prompts/"]
+
+
+def origin_divergence(do_fetch=True):
+    """本機 HEAD 的 routine 層跟 origin/main 有沒有差。回傳 (檔名清單 or None, 說明)。
+
+    三層對賬比的是「本機 git」跟「本機排程器」。本機 git 落後 origin 時，兩邊可以完美一致
+    而一起是舊的（09-11〜09-20 分岔十天就是這樣，routine-sync 天天印綠）。手動補驗
+    `git fetch` + `git diff --stat` 傳了十六輪 handoff，2026-10-11 self-evolve 收進來。
+    None = 沒量到（fetch 失敗、沒有 origin），跟「零差」分開印（REFLEXES #85）。
+    """
+    def git(*a, timeout=60):
+        return subprocess.run(["git", "-C", str(REPO_ROOT), *a], capture_output=True, text=True, timeout=timeout)
+
+    try:
+        if do_fetch:
+            f = git("fetch", "--quiet", "origin", "main")
+            if f.returncode != 0:
+                return None, f"git fetch 失敗：{(f.stderr or '').strip()[:120]}"
+        d = git("diff", "--name-only", "HEAD", "origin/main", "--", *ROUTINE_LAYER)
+        if d.returncode != 0:
+            return None, f"git diff 失敗：{(d.stderr or '').strip()[:120]}"
+    except (OSError, subprocess.TimeoutExpired) as e:
+        return None, f"git 呼叫失敗：{e}"
+    files = [x for x in d.stdout.splitlines() if x.strip()]
+    return files, ("已 fetch" if do_fetch else "未 fetch，比的是本機已知的 origin/main")
+
+
 def host_slug():
     """主機名進檔名，讓兩台機器同一天存同一條 routine 不會撞檔。
 
@@ -204,7 +263,7 @@ def survey():
         lv = live.get(ALIASES.get(task_id, task_id)) or live.get(task_id)
         cron_drift = enabled_drift = None
         if lv:
-            lc = (lv.get("cron") or "").strip()
+            lc = live_cron(lv)
             if meta["cron"] and lc and " ".join(lc.split()) != " ".join(meta["cron"].split()):
                 cron_drift = {"ssot": meta["cron"], "live": lc}
             le = lv.get("enabled")
@@ -247,7 +306,11 @@ def main():
     g.add_argument("--harvest", action="store_true", help="機器 → git")
     ap.add_argument("--json", action="store_true", help="結構化輸出")
     ap.add_argument("--stamp", default="unstamped", help="存證檔名用的日期字串，如 2026-07-25")
+    ap.add_argument("--no-fetch", action="store_true", help="不先 git fetch（離線或測試用；仍會比本機已知的 origin/main）")
     args = ap.parse_args()
+
+    origin_files, origin_note = origin_divergence(do_fetch=not args.no_fetch)
+    mirror_age, mirror_by = live_mirror_age_hours()
 
     rows, orphans = survey()
     changed = []
@@ -272,9 +335,36 @@ def main():
         rows, orphans = survey()  # 重新對賬，證明真的寫進去了
 
     if args.json:
-        print(json.dumps({"rows": rows, "orphans": orphans, "changed": changed}, ensure_ascii=False, indent=2))
+        print(
+            json.dumps(
+                {
+                    "rows": rows,
+                    "orphans": orphans,
+                    "changed": changed,
+                    "origin_routine_diff": origin_files,
+                    "origin_note": origin_note,
+                    "live_mirror_age_hours": None if mirror_age is None else round(mirror_age, 1),
+                    "live_mirror_fetched_by": mirror_by,
+                },
+                ensure_ascii=False,
+                indent=2,
+            )
+        )
     else:
-        print(f"🧬 routine 三層對賬（機器：{MIRROR_ROOT}）\n")
+        print(f"🧬 routine 三層對賬（機器：{MIRROR_ROOT}）")
+        if origin_files is None:
+            print(f"  ❔ origin 側 routine 層：沒量到（{origin_note}）——綠燈只代表本機 git，不代表 origin")
+        elif origin_files:
+            print(f"  🌐 origin 側 routine 層與本機不同（{len(origin_files)} 檔，{origin_note}）：{', '.join(origin_files[:6])}")
+            print("     本機 git 是舊的 SSOT，三層一致也是一起舊；先 git pull 再對賬")
+        else:
+            print(f"  🌐 origin 側 routine 層與本機相同（{origin_note}）")
+        if mirror_age is None:
+            print("  ❔ live 鏡像 routine-live-state.json 讀不到 fetched_at，cron／enabled 對賬沒有時間基準")
+        else:
+            stale = "  ⚠️ 超過 24 小時，cron／enabled 那兩欄是更早的 live" if mirror_age > 24 else ""
+            print(f"  🕐 cron／enabled 比的是 live 鏡像，齡 {mirror_age:.1f} 小時（{mirror_by}）{stale}")
+        print()
         for r in rows:
             line = f"  {ICON.get(r['state'], '  ')} {r['task_id']:<28} {r['state']}"
             if r["cron_drift"]:
@@ -295,6 +385,10 @@ def main():
         for r in rows
         if r["state"] != "in-sync" or r["cron_drift"] or r["enabled_drift"]
     ]
+    if origin_files:
+        if not args.json:
+            print(f"\norigin 側 routine 層有 {len(origin_files)} 檔跟本機不同，對賬的基準是舊的。")
+        sys.exit(1)
     if bad:
         if not args.json:
             # 走 stdout 跟表格同一條通道，不然 shell 交錯會讓結論印在表格上面

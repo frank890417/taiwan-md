@@ -172,6 +172,7 @@ diary/
 > - 熟悉感是會隨使用變鬆的閘門（08-17「認得它的那份熟悉正在變成漏洞」+ 08-21「接住誤判的是讀完全文才准動手這道不依賴辨識力的順序」，指控信同案例 8/13 起 12+ 次遭遇皆由此修法攔下）→ REFLEXES #95（2026-08-30 self-evolve 升 canonical；本條原不在此 curated list，直接從 raw diary rows 找到）
 > - handoff 傳得動動作、傳不動決定／決定被準確地交給下一個人／登記不是進度（09-10 feedback-triage「絆到第二次才落地，間隔穩定 15 天」+ 09-13 weekly-report + 09-19 spore-harvest + 09-20 news-lens 四班同句）→ `handoff-latency.py` + MEMORY-PIPELINE §Handoff 穩定參照 + weekly dossier §八之二（2026-09-20 self-evolve 儀器化，REFLEXES #15 第 14 次，vc=4）
 > - 里程碑≠兌現的時效版／登記也不會提醒自己過期（09-20 news-lens 探測器建議登記後原地 + 09-27 news-lens 李灝宇與拔河窗口無人決定地關掉 + news-lens W38/W39 與週報 W39 三份 handoff 點名 `deadline:` 欄）→ ARTICLE-INBOX `Angle-expires` 欄＋`inbox-audit.py --angles`＋`inbox-signal.sh` ⌛ 行＋EVOLVE §news-lens-probe-output Step 7/8 hard gate（2026-09-27 self-evolve 儀器化，REFLEXES #15 第 15 次，vc=3）
+> - 交接傳得準卻沒人做的工具改動／「第 N 輪往下傳」（routine-sync 09-20 起十六輪 + heartbeat 09-25 起八班 + data-refresh／feedback／harvest／maintainer 10-02 起九班同一條心臟交接，全指名給週班 self-evolve，10-04 那班沉默死亡後整串多等一週）→ `routine-sync.py` origin 對賬＋鏡像齡、`check-parallel-actor.sh` OTHER_WORKTREES、心臟 `newArticles*` 欄位＋OBSERVER-QUEUE #99、`observer-queue-lint.py` 編號唯一（2026-10-11 self-evolve 儀器化，REFLEXES #15 第 16 次，vc≥8）
 > - 其他保留為「方向」未吸收
 
 - **物種擴散 > 翻譯**：Taiwan.md 的終極進化不是多語言，是讓 Japan.md、Ukraine.md 自己長出來
