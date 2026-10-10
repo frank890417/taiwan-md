@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T05:04:50+08:00",
-    "zhCommitHead": "b3463e6d1",
+    "lastUpdated": "2026-10-11T05:09:51+08:00",
+    "zhCommitHead": "8efc9f8d7",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1126,
-        "fresh": 1117,
-        "stale": 8,
+        "fresh": 1119,
+        "stale": 6,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1126,
-        "fresh": 1120,
-        "stale": 5,
+        "fresh": 1121,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -25460,8 +25460,8 @@
           "sourceContentHash": "sha256:79e35442d2cf14fd",
           "sourceBodyHash": "sha256:5ed7f28c852729fe",
           "translatedAt": "2026-10-11T01:05:45+08:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "8efc9f8d",
+          "translationLastModified": "2026-10-11T05:04:51+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "bytes": 18301,
@@ -36132,18 +36132,18 @@
         "ko": {
           "path": "ko/Technology/submarine-cables-taiwan-lifeline.md",
           "translatedFrom": "Technology/海底電纜.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "5ff155c10",
           "sourceContentHash": "sha256:a528d560e37c40b9",
           "sourceBodyHash": "sha256:1790c4ef1b7a9b20",
-          "translatedAt": "2026-06-10T16:42:09Z",
+          "translatedAt": "2026-10-10T20:46:51.094359+00:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 49,
-          "bytes": 39211,
+          "bytes": 39632,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/submarine-cables-taiwan-lifeline.md",
@@ -36738,18 +36738,18 @@
         "ko": {
           "path": "ko/Technology/into-the-cellar-taiwan-game-podcast.md",
           "translatedFrom": "Technology/不入地窖焉能睡覺.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "sha256:c211c97e077ebc86",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d882a7c06037e89c",
           "sourceBodyHash": "sha256:abaef255e91e930b",
-          "translatedAt": "2026-06-09T04:16:34+08:00",
+          "translatedAt": "2026-10-11T01:05:42+08:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 17597,
+          "bytes": 18874,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/into-the-cellar-taiwan-game-podcast.md",
@@ -66670,8 +66670,8 @@
           "sourceContentHash": "sha256:6189acad34e81f7d",
           "sourceBodyHash": "sha256:a81371a8c3c242ce",
           "translatedAt": "2026-10-11T01:05:45+08:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "8efc9f8d",
+          "translationLastModified": "2026-10-11T05:04:51+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "bytes": 23351,
@@ -72734,8 +72734,8 @@
           "sourceContentHash": "sha256:a2058786df46a07e",
           "sourceBodyHash": "sha256:63cdc7eebcc0988a",
           "translatedAt": "2026-10-11T01:05:45+08:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "8efc9f8d",
+          "translationLastModified": "2026-10-11T05:04:51+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "bytes": 30316,
@@ -74548,18 +74548,18 @@
         "fr": {
           "path": "fr/Society/falun-gong-in-taiwan.md",
           "translatedFrom": "Society/法輪功在台灣.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:0b627bb39208e94e",
           "sourceBodyHash": "sha256:506539ee82e6b605",
-          "translatedAt": "2026-05-02T14:15:00+08:00",
+          "translatedAt": "2026-10-11T01:05:45+08:00",
           "translationLastCommit": "ca2ceca5",
           "translationLastModified": "2026-10-10T23:40:35+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 14982,
+          "bytes": 15532,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/falun-gong-in-taiwan.md",
@@ -139446,8 +139446,8 @@
           "sourceContentHash": "sha256:d7d8adfe5a1c7158",
           "sourceBodyHash": "sha256:119c3d104b24e9dd",
           "translatedAt": "2026-10-11T01:05:45+08:00",
-          "translationLastCommit": "ca2ceca5",
-          "translationLastModified": "2026-10-10T23:40:35+08:00",
+          "translationLastCommit": "8efc9f8d",
+          "translationLastModified": "2026-10-11T05:04:51+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "bytes": 29144,
