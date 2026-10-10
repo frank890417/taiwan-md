@@ -18,6 +18,8 @@ Cron 07:00 轉錄班。讀 Supabase `status='new'` 的讀者回報，機械轉�
 
 `--commit` 照跑（LESSONS `zero-input-cycle-drops-the-reconciliation`：不跑 = 留言 sync 與兩道對賬跟著轉錄那半一起消失）。HG13 本輪無可讀：這批 0 筆，不是我沒去讀。
 
+收官讀數（`triage.mjs --commit` 原文）：**`file=0 reject=0 skip=0 hold=0` · `archive-scanned=88` · `archive-comments-synced=1`**。沒有開任何 issue（沒有東西可開，不是攔下了什麼），沒有 reject、沒有 dedupe skip。
+
 兩道對賬：
 
 - HG12b `archive-reconcile=88/88` ✅
