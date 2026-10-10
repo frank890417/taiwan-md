@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T04:26:41+08:00",
-    "zhCommitHead": "d786171f5",
+    "lastUpdated": "2026-10-11T04:35:36+08:00",
+    "zhCommitHead": "c577c1094",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1126,
-        "fresh": 1116,
-        "stale": 9,
+        "fresh": 1117,
+        "stale": 8,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -41250,8 +41250,8 @@
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
           "translatedAt": "2026-10-11T01:05:47+08:00",
-          "translationLastCommit": "1ca7e953",
-          "translationLastModified": "2026-10-10T23:17:53+08:00",
+          "translationLastCommit": "c577c109",
+          "translationLastModified": "2026-10-11T04:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 12175,
@@ -115186,18 +115186,18 @@
         "es": {
           "path": "es/People/teresa-teng.md",
           "translatedFrom": "People/鄧麗君.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:137ce9f0ad4e78d5",
           "sourceBodyHash": "sha256:d9aced35b5cf6b29",
-          "translatedAt": "2026-05-02T14:18:00+08:00",
+          "translatedAt": "2026-10-10T20:27:04.713308+00:00",
           "translationLastCommit": "c3be0c29",
           "translationLastModified": "2026-10-10T23:40:32+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 34179,
+          "bytes": 35054,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/teresa-teng.md",
@@ -119076,8 +119076,8 @@
           "sourceContentHash": "sha256:36049c1494516a6b",
           "sourceBodyHash": "sha256:c035c602c7e335fa",
           "translatedAt": "2026-10-11T01:05:47+08:00",
-          "translationLastCommit": "ab72f06d",
-          "translationLastModified": "2026-10-10T23:41:59+08:00",
+          "translationLastCommit": "c577c109",
+          "translationLastModified": "2026-10-11T04:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 10324,
@@ -153622,8 +153622,8 @@
           "sourceContentHash": "sha256:bb3833c08618e661",
           "sourceBodyHash": "sha256:f7475d29ab35a9a7",
           "translatedAt": "2026-10-11T01:05:47+08:00",
-          "translationLastCommit": "ab72f06d",
-          "translationLastModified": "2026-10-10T23:41:59+08:00",
+          "translationLastCommit": "c577c109",
+          "translationLastModified": "2026-10-11T04:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 12630,
