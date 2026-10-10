@@ -1,198 +1,198 @@
 ---
-title: "No Dungeon, No Sleep: Thirty Years of Taiwan's Gaming Community"
-description: "In the late 1990s, a black-background, white-text website was filled with walkthroughs and cheats for 90% of Taiwan's single-player games; players called it the 'Dungeon'. Then came Gamebase, then Bahamut. Three names, three eras, a path from dial-up modems to a community of 6 million members."
+title: '지하실에 들어가지 않고 어찌 잠들 수 있으랴: 타이완 게임 커뮤니티 30년'
+description: "1990년대 말, 검은 바탕에 흰 글씨의 웹사이트가 타이완 전역 단일 게임(싱글 플레이 게임) 90%의 공략과 비기로 가득 찼고, 플레이어들은 그것을 '지하실(地窖)'이라 불렀다. 그리고 '게임기지(遊戲基地)'가 왔고, '바하무트(巴哈姆特)'가 왔다. 세 개의 이름, 세 개의 시대, 전화 접속 모뎀에서 600만 회원 커뮤니티로 이어진 한 갈래의 길."
 date: 2026-04-23
+category: 'Technology'
 tags:
   [
-    'Dungeon',
-    'Gamebase',
-    'Bahamut',
-    'Gaming Community',
+    '지하실',
+    '게임기지',
+    '바하무트',
+    '게임 커뮤니티',
     'BBS',
-    'Chien-Hung Chen',
+    '천젠훙(陳建弘)',
     'GNN',
-    'Taiwan Gaming',
+    '타이완 게임',
   ]
 subcategory: '社群與數位文化'
 author: 'zaious'
-category: 'Technology'
-readingTime: 10
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
+readingTime: 10
 translatedFrom: 'Technology/不入地窖焉能睡覺.md'
-sourceCommitSha: ''
-sourceContentHash: 'sha256:c211c97e077ebc86'
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:d882a7c06037e89c'
 sourceBodyHash: 'sha256:abaef255e91e930b'
-translatedAt: '2026-06-09T04:16:34+08:00'
-featured: false
+translatedAt: '2026-10-11T01:05:42+08:00'
 ---
 
-> Taiwan's online gathering places for gaming players have changed homes three times over thirty years. The "Dungeon" of the late 1990s was a black treasure trove filled with cheats; the "Gamebase" of 2000 was the first Chinese-language gaming portal; "Bahamut," which grew out of the National Central University BBS in 1996, saw its membership exceed 6 million by 2025, becoming one of the top five websites in Taiwan by traffic. These three names mark the migration route of Taiwan's gaming community from the dial-up era to the mobile era, and they record one thing: the life and death of a community depends on who is willing to stay, not on who arrives first.
-
----
-
-## The Black Treasure Trove Behind the 56K Modem
-
-Late 1990s. Your home's 56K modem screeched for thirty seconds, and a black-background, white-text webpage slowly emerged. At the top of the page was a row of Chinese numerals in a counter, and below were dense links to game names.
-
-This was the "Dungeon" (cellar.com.tw).[^1]
-
-No one remembers exactly who made the Dungeon or when it went live. It had no "About Us" page, no company registration, no founder interviews. It was just there, like a library without a street number, containing every walkthrough you needed.
-
-The content of the Dungeon came almost entirely from user uploads. Complete flowcharts for _The Legend of Sword and Fairy_, password books for _Age of Empires_ (how do you turn this on, Cobra Car), character stat builds for _Diablo_, and alchemy pot synthesis tables for _Sword of the Xenia_. A player recalled: "The rich walkthroughs and cheats inside covered almost every game I had played or was currently playing."[^2] According to PTT users, the Dungeon archived walkthroughs for 90% of the games on the Taiwan PC market.[^3]
-
-A slogan circulated among players: **"No Dungeon, No Sleep; Once out of the Dungeon, Shock the Ten Sects."**
-
-For many, the Dungeon was the first website they ever visited—earlier than Yahoo, earlier than蕃薯藤 (Fonety), a black cave filled with game cheats.[^4]
-
-> **📝 Curator's Note**
-> The Dungeon existed in a unique way: it had no community features, no forums, no membership system. It was purely a "warehouse"; players threw walkthroughs in, and other players took them. Before Web 2.0, this was the primitive form of online collaboration: anonymous goodwill, knowledge sharing without expectation of return.
-
-Around 2005, the Dungeon suddenly became inaccessible. There were no announcements, no farewells; it disappeared quietly, just as it had appeared. Players beat their chests in frustration, but online games had already taken the stage, and the demand for single-player walkthroughs was shrinking. The Dungeon briefly revived in late 2008, causing a stir among old players, but the times had already changed.[^5]
-
-The Dungeon died for a simple reason: the world it served had vanished. As players migrated from single-player games to online games, the production method of walkthroughs shifted from "one person writing a complete article" to "real-time discussion in forums," rendering static walkthrough warehouses obsolete.
+> 타이완 게임 플레이어들의 온라인 집결지, 30년 동안 세 번 집을 옮겼다. 1990년대 말의 '지하실'은 비기로 가득 찬 검은 보물창고였다. 2000년의 '게임기지'는 최초의 중문 게임 포털 사이트였다. 1996년 중앙대학 BBS에서 태어나 2025년 회원 600만을 돌파하며 타이완 전체 트래픽 5위권에 든 '바하무트'. 이 세 이름은 타이완 게임 커뮤니티가 전화 접속 시대에서 모바일 시대로 이주해 온 경로를 표시하며, 한 가지 사실을 기록한다. 커뮤니티의 생사는 누가 끝까지 남아주느냐에 달렸지, 누가 먼저 왔느냐와는 상관없다.
 
 ---
 
-## Gamebase: The Five-Year Throne
+## 56K 모뎀 뒤의 검은 보물창고
 
-On November 16, 2000, "Gamebase" (Gamebase) went live. Behind it was Computer Player Culture, the parent company of _Computer Player_ magazine.[^6]
+1990년대 말. 집의 56K 모뎀이 30초간 삐걱대며 연결음을 내면, 검은 바탕에 흰 글씨의 웹페이지가 천천히 떠올랐다. 페이지 위쪽에는 한자 숫자 카운터 한 줄이 있고, 아래로는 빽빽한 게임 이름 링크들이 있었다.
 
-Completely different from the grassroots style of the Dungeon, Gamebase operated commercially from day one. Launching alongside the hype for Softstar's _Heroes: Dark Earth Online_, it skyrocketed in traffic thanks to its game discussion boards. In 2002, it was rated the "Number One Chinese Gaming Website," with membership exploding from 30,000 at launch to over 14 million.[^7]
+이것이 '지하실'(cellar.com.tw)이다.[^1]
 
-Gamebase got one thing right: it moved the professional content of "gaming magazines" online while adding forum functionality. In an era where broadband was just becoming popular and online games were just taking off, players needed a place to check new game info, find guilds, and complain about operators. Gamebase provided this venue.
+지하실을 누가 만들었는지, 어느 해에 열렸는지 정확히 기억하는 사람은 없다. '회사 소개' 페이지도 없고, 법인 등기도 없고, 창업자 인터뷰도 없다. 그것은 그냥 그곳에 있었다. 문패 없는 도서관처럼, 네가 필요한 모든 공략책을 소장하고 있었다.
 
-But its throne lasted only about five years.
+지하실의 콘텐츠는 거의 전부 네티즌 업로드에서 왔다. 《선검기협전(仙劍奇俠傳)》의 완전 공략 도해, 《제국시대(世紀帝國)》의 치트북(how do you turn this on, 코브라 스포츠카), 《디아블로(暗黑破壞神)》의 캐릭터 스킬트리, 《헌원검(軒轅劍)》의 연요호 합성표. 한 플레이어는 회고했다. "그 안의 풍부한 공략과 비기는, 당시 내가 플레이했거나 하고 있던 게임 거의 다 들어 있었다."[^2] PTT 향민 추산에 따르면, 지하실은 타이완 PC 시장의 90% 게임 공략을 수집했다.[^3]
 
-Around 2004, Gamebase underwent a redesign. The new interface had poor usability, frequent bugs, and the all-black design was criticized by players. More fatally, Gamebase was hacked, user data was leaked, and its foundation of trust was shaken.[^8] In 2007, Gamebase was acquired by its parent company, Citymedia, after which it gradually transformed from a "player community" into a "game news forwarding station," with forum activity continuing to decline.
+플레이어들 사이에 구호가 전해졌다. **「지하실에 들어가지 않고 어찌 잠들 수 있으랴; 한 번 지하실을 나오면 만교가 놀란다.」**
 
-Where did the players go? They went to a place that grew out of the National Central University BBS.
+많은 이들에게 지하실은 인생에서 처음 방문한 웹사이트였다. 야후보다 일찍, 판수텅(蕃薯藤)보다 일찍, 게임 비기로 가득 찬 검은 동굴이었다.[^4]
 
----
+> **📝 기획자 노트**
+> 지하실의 존재 방식은 독특했다. 커뮤니티 기능도, 포럼도, 회원 시스템도 없었다. 그것은 순전히 '창고'였다. 플레이어가 공략을 던져 넣으면, 다른 플레이어가 가져갔다. 웹 2.0 이전, 이것이 네트워크 협업의 원형이었다. 익명의 선의, 보답 바라지 않는 지식 공유.
 
-## Chien-Hung Chen's Birthday Gift
+2005년경, 지하실이 갑자기 접속되지 않았다. 공지도, 작별 인사도 없이, 나타났을 때처럼 조용히 사라졌다. 플레이어들은 통곡했지만, 온라인 게임이 이미 대세가 되어 단일 게임 공략의 수요는 위축되고 있었다. 2008년 말 지하실이 잠시 부활해 올드비들이 한바탕 소란을 피웠지만, 시대는 이미 달랐다.[^5]
 
-On October 28, 1996, National Central University graduate student Chien-Hung Chen got something done: a BBS site dedicated to discussing video games, with all preparatory work completed. He decided to wait until November 10 (his birthday) to officially announce it.[^9]
-
-The site was named "Bahamut," taken from the dragon-like legendary creature in the _Final Fantasy_ series. Chien-Hung's nickname was sega.
-
-On the first day of launch, 247 people logged in.[^10]
-
-Chien-Hung's reason for setting up this site was simple: he was a hardcore gamer who found that game discussion boards were scattered across various university BBS sites, and finding a walkthrough for a game required flipping through several sites. He wanted a place to centralize all game discussions. So he personally wrote letters inviting game moderators from other sites to jump ship.[^11]
-
-In March 1997, Chien-Hung was invited to appear on the TV show _Video Game Panorama_, hosted by Pu Hsueh-liang. On the day the episode aired, Bahamut's login count surged to over 3,000. For a university dormitory BBS, this was an earthquake-level traffic spike.[^12]
-
-But Chien-Hung still had to study. During his graduate studies, he even blocked his own account to force himself to focus on his thesis. After graduation, he went to work at Yahoo, working as an office worker by day and continuing to manage Bahamut at night. He later described those days as "practicing skills by day, combat by night."[^13]
+지하실은 단순한 이유로 죽었다. 그것이 서비스하던 세계가 사라졌기 때문이다. 플레이어가 단일 게임에서 온라인 게임으로 이주하면서, 공략 생산 방식이 '한 사람이 완결본을 쓴다'에서 '포럼에서 실시간 토론한다'로 바뀌자, 정적인 공략 창고는 존재 의의를 잃었다.
 
 ---
 
-## From BBS to Company: The Earthquake of Ten Million
+## 게임기지: 5년의 왕좌
 
-In March 2000, Chien-Hung brought in his cousin and two moderators; the four of them formally established a company. The capital was 10 million NTD, sourced from an air freight boss, a former vice president of Delta Electronics, and family elders.[^14]
+2000년 11월 16일, '게임기지(Gamebase)'가 오픈했다. 뒤에는 《컴퓨터 플레이어(電腦玩家)》 잡지의 모회사인 컴퓨터 플레이어 문화사업이 있었다.[^6]
 
-He deliberately delayed the announcement of the company's establishment until September 21. He knew the community's reaction would be huge: "It will definitely cause an earthquake."[^15] A free BBS turning into a company was equivalent to telling all the volunteer moderators "someone is making money here now." Indeed, once the announcement was made, waves of protest came crashing down.
+지하실의 풀뿌리 스타일과 완전히 달랐다. 게임기지는 첫날부터 상업적으로 운영됐다. 오픈 때 대유(大宇)가 대리한 《히어로: 암흑대지 Online(英雄：闇黑大地 Online)》 열풍을 타고, 게임 토론판 트래픽으로 단숨에 치솟았다. 2002년 '중문 세계 제1의 게임 웹사이트'로 선정됐고, 회원은 오픈 당시 3만 명에서 1,400만 명 이상으로 폭증했다.[^7]
 
-Worse was the timing. When the company was established, the US Nasdaq had just crashed, and the internet bubble had burst. The initial 5 million in capital burned through quickly, and expenses only broke even by the end of the second year.[^16]
+게임기지가 잘한 일이 하나 있다. '게임 잡지'의 전문 콘텐츠를 웹으로 옮기면서 포럼 기능을 더한 것. 광대역이 막 보급되고 온라인 게임이 막 떠오르던 시절, 플레이어는 새 게임 정보를 찾고, 길드를 구하고, 운영사를 욕할 장소가 필요했다. 게임기지가 그 장소를 제공했다.
 
-Bahamut's turning point came from a competitor's mistake.
+하지만 왕좌는 약 5년만 지속됐다.
 
-In November 2003, Bahamut launched the native Web version forum "Hala District," removing the permission thresholds for creating boards and posting; anyone could participate directly. The style was set as "relaxed but not indulgent."[^17] The following year, Gamebase's redesign disaster and the hacker incident caused a mass exodus of players. In 2004, Bahamut's traffic surpassed Gamebase for the first time, with membership reaching 750,000. From that moment on, Bahamut never gave up the number one spot again.[^18]
+2004년 전후, 게임기지가 개편을 단행했다. 새 인터페이스의 사용자 경험은 형편없었고, 버그가 속출했으며, 온통 시커먼 디자인은 플레이어들의 외면을 받았다. 더 치명적인 건 해킹당해 사용자 데이터가 유출되면서 신뢰 기반이 흔들렸다.[^8] 2007년, 게임기지는 모회사 성방문화(城邦文化)에 인수된 뒤 점차 '플레이어 커뮤니티'에서 '게임 뉴스 재배포처'로 변질됐고, 포럼 활성도는 지속 하락했다.
 
-> **✦** The Dungeon died due to changing times, Gamebase died due to its own mistakes, and Bahamut survived all crises. The difference in these three endings boils down to one thing: who treated the community like a child to be raised, rather than a business to be managed.
-
----
-
-## The Dragon Thirty Years Later
-
-In March 2025, Bahamut's membership exceeded 6 million.[^19]
-
-According to SimilarWeb data from December 2024, Bahamut is the 5th most trafficked website in Taiwan and ranks #1 in the gaming category. Daily Active Users (DAU) are approximately 1.5 million, with 25 million daily page views. Revenue in 2022 was approximately 300 million NTD.[^20]
-
-Bahamut's GNN has accumulated a vast amount of game news, with player submissions making up a significant proportion.[^21] This structure explains Bahamut's core logic: the main content is produced by the community, while the company is only responsible for maintaining the infrastructure.
-
-The Hala boards (discussion forums) remain the heart of Bahamut. Almost every game with players in Taiwan has its own Hala board. Moderators are elected autonomously by players, and Bahamut's management team tries not to interfere with board affairs. Chien-Hung's insistence on "credibility" is simple: he always refuses game publishers' requests to delete posts and prohibits paid listings.[^22]
-
-Bahamut later grew anime streaming (anime streaming), Bahamut Mall, and an ACG database. It transformed from a gaming BBS into Taiwan's largest ACG (Anime, Comic, Game) comprehensive platform. But underneath, it is still an extension of that server in a National Central University dormitory in 1996: a place where players find each other.
-
-> **💡 Did You Know**
-> Chien-Hung started his business eight years before Facebook's Zuckerberg. Bahamut was founded in 1996, while Facebook didn't launch until 2004. A Taiwanese graduate student's gaming BBS understood "letting users produce their own content" earlier than the world's largest social platform.
+플레이어들은 어디로 갔을까? 중앙대학 BBS에서 자라난 곳으로 갔다.
 
 ---
 
-## Three Tombstones and a Dragon
+## 천젠훙(陳建弘)의 생일 선물
 
-The Dungeon, Gamebase, Bahamut. These three names occupy different positions in the memories of Taiwan's gaming players.
+1996년 10월 28일, 중앙대학 대학원생 천젠훙(陳建弘)이 한 가지 일을 마무리했다. 게임 전문 BBS 사이트, 모든 준비 작업이 완료됐다. 그는 11월 10일(자신의 생일)까지 기다렸다가 정식으로 대외 발표하기로 했다.[^9]
 
-The Dungeon is childhood. That black-background webpage, that row of Chinese numeral counters, those walkthrough posts formatted in Word and pasted up. It belongs to a simpler era: no accounts, no comments, no community, just "I know the answer, I put it here, take it."
+사이트 이름은 '바하무트(巴哈姆特)'. 《파이널 판타지(Final Fantasy)》 시리즈에 나오는 용 형태의 전설 생물에서 따왔다. 천젠훙의 닉네임은 '세가(sega)'였다.
 
-Gamebase is adolescence. The first time arguing with strangers on a forum, the first time joining a guild, the first time getting warned by a moderator. It was once the largest, but being the largest doesn't mean living the longest.
+오픈 첫날, 접속자 수 247명.[^10]
 
-Bahamut is adulthood. It is imperfect; its interface design is still criticized as old-fashioned, there are occasional moderator controversies, and occasional questions about sponsored content. But it achieved something that no other Chinese gaming website has done in thirty years: it is still here.
+천젠훙이 이 사이트를 만든 이유는 단순했다. 그는 헤비 게이머였고, 게임 토론판이 각 대학 BBS에 흩어져 있어 한 게임 공략을 찾으려면 여러 사이트를 뒤져야 했다. 그는 모든 게임 토론을 한곳에 모으고 싶었다. 그래서 직접 각 사이트 게임판 시삽(版主)들에게 편지를 써서 이직을 권유했다.[^11]
 
-In a 2013 interview, Chien-Hung was asked how he viewed the impact of Facebook on communities. His answer was candid: "Our reaction is really slow." (From an INSIDE interview)[^23] But slow does not mean losing. Bahamut's strategy is not to chase trends, but to guard its core users. When game groups on Facebook come and go, and Discord channels are built and scattered, the Hala board remains the same Hala board.
+1997년 3월, 천젠훙은 부쉐량(卜學亮)이 진행하는 TV 프로그램 《전완대관원(電玩大觀園)》에 출연했다. 방송 당일, 바하무트 접속자 수가 3,000명을 넘겼다. 대학 기숙사 안의 BBS로서는 지진급 트래픽이었다.[^12]
 
-On some late night in 2026, a player is stuck on a certain level of a game. He opens Bahamut, finds a walkthrough from three years ago on the Hala board, and sees seven people below adding different solutions. He chooses the third one and clears the level.
-
-Thirty years ago, he would have opened a black-background, white-text website, found an unsigned walkthrough, and then closed the screeching modem.
-
-The method changed. The spirit of "someone put the answer here for you" did not.
+하지만 천젠훙은 아직 공부를 해야 했다. 석사 과정 중엔 아예 자기 계정을 차단해 논문 쓰기에 몰두하기도 했다. 졸업 후 치모(奇摩, Yahoo! Taiwan 전신)에 입사해 낮엔 직장인, 밤엔 집에 돌아와 바하무트를 운영했다. 그는 훗날 그 시절을 '낮엔 수련, 밤엔 실전'이라 표현했다.[^13]
 
 ---
 
-## Further Reading
+## BBS에서 회사로: 1,000만의 지진
 
-- [History of Taiwan's Online Community Migration](/ko/technology/taiwan-online-community-migration) — From BBS to Threads, the history of Taiwan people moving their community platforms
-- [Taiwan's Open Source Spirit](/ko/technology/taiwan-open-source-spirit) — Another group of Taiwanese "powered by love"
-- [PTT Pttkick](/ko/technology/ptt-bulletin-board-system) — Taiwan's longest-surviving BBS, a contemporary product of Bahamut
-- [Softstar's Twin Swords](/ko/technology/softstar-twin-classics) — The source of emotional enlightenment for Taiwan's single-player games in the same era
-- [The Crazy Moments of Taiwan Players](/ko/technology/taiwan-gamers-wildest-moments) — The collective frenzy of the Dungeon/Gamebase/Bahamut generation players
+2000년 3월, 천젠훙은 사촌 동생과 두 명의 시삽을 불러 네 명이 정식으로 회사를 설립했다. 자본금 1,000만 신타이완달러(NT$), 출자자는 항공 화물 업체 사장, 대만전력(台達電) 전 부사장, 그리고 집안 어른들이었다.[^14]
+
+그는 회사 설립 소식을 9월 21일까지 미뤄 발표했다. 커뮤니티 반응이 클 걸 알았기 때문이다. "반드시 대지진을 일으킬 것이다."[^15] 무료 BBS가 회사가 된다는 건, 자원봉사로 게시판을 관리하던 모든 시삽에게 '이젠 여기서 누군가가 돈을 번다'고 알리는 꼴이었다. 과연 공고가 나가자 항의 여론이 산처럼 밀려들었다.
+
+더 나쁜 건 타이밍이었다. 회사 설립 때 미국 나스닥이 막 붕괴했고, 인터넷 거품이 터졌다. 초기 500만 자금이 빠르게 소진돼, 이듬해 말에야 수지타산을 맞췄다.[^16]
+
+바하무트의 전환점은 경쟁자의 실수에서 왔다.
+
+2003년 11월, 바하무트는 네이티브 웹 포럼 '하라구(哈啦區)'를 출시해, 개설과 글쓰기 권한 문턱을 없애 누구나 바로 참여할 수 있게 했다. 스타일은 '편안하되 방종하지 않게'로 잡았다.[^17] 이듬해, 게임기지의 개편 참사와 해킹 사건이 겹치며 대량의 플레이어가 이탈했다. 2004년, 바하무트 트래픽이 사상 처음 게임기지를 추월했고, 회원 75만을 기록했다. 그 순간부터 바하무트는 1위 자리를 단 한 번도 내주지 않았다.[^18]
+
+> **✦** 지하실은 시대 변화로 죽었고, 게임기지는 제 실수로 죽었고, 바하무트는 모든 위기를 버텼다. 세 결말의 차이는 한 가지로 귀결된다. 커뮤니티를 자기 자식처럼 키운 쪽이냐, 장사처럼 관리한 쪽이냐.
 
 ---
 
-## References
+## 30년 뒤의 거룡(巨龍)
 
-[^1]: [Dungeon Official Website](http://www.cellar.com.tw/) — cellar.com.tw, an early Taiwan game walkthrough distribution station
+2025년 3월, 바하무트 회원 수 600만 돌파.[^19]
 
-[^2]: [Bahamut Creation: No Dungeon, No Sleep; Once out of the Dungeon, Shock the Ten Sects](https://home.gamer.com.tw/creationDetail.php?sn=606968) — Player recalls the functions and content of the Dungeon website
+SimilarWeb 2024년 12월 데이터 기준, 바하무트는 타이완 전체 트래픽 5위, 게임 카테고리 1위. 일일 활성 사용자 약 150만, 일일 페이지뷰 2,500만 회. 2022년 매출 약 3억 신타이완달러(NT$).[^20]
 
-[^3]: [PTT C_Chat Board: How Popular Was the Walkthrough Website 'Dungeon' Back Then](https://myptt.cc/article/C_Chat/M.1516208002.A.C01) — Netizens estimate it archived 90% of Taiwan PC game walkthroughs
+바하무트 GNN은 방대한 게임 뉴스를 축적했고, 플레이어 투고가 상당한 비중을 차지한다.[^21] 이 구조가 바하무트의 핵심 로직을 보여준다. 콘텐츠 주력은 커뮤니티가 생산하고, 회사는 인프라 유지에만 전념한다.
 
-[^4]: [Bahamut Creation: No Dungeon, No Sleep](https://home.gamer.com.tw/creationDetail.php?sn=606968) — "The Dungeon was the first website I encountered"
+하라판(討論區, 토론판)은 여전히 바하무트의 심장이다. 타이완에 플레이어가 있는 거의 모든 게임이 자기 하라판을 갖고 있다. 시삽은 플레이어 자치 선거로 뽑고, 바하무트 운영진은 최대한 판무(版務)에 개입하지 않는다. 천젠훙의 '공신력' 고집은 단순하다. 게임사 삭제 요청은 무조건 거절, 순위 조작(買榜) 금지.[^22]
 
-[^5]: [Bahamut Creation: The Dungeon Reopened!](https://home.gamer.com.tw/creationDetail.php?sn=540350) — The Dungeon's revival in December 2008 and player reactions
+바하무트는 나중에 '애니메이션 광(動畫瘋, 애니메이션 스트리밍)', '바하몰(巴哈商城)', 'ACG 데이터베이스'도 뻗어 나갔다. 게임 BBS에서 타이완 최대 ACG(애니메이션, 만화, 게임) 종합 플랫폼으로 진화했다. 하지만 뼈대엔 여전히 1996년 중앙대학 기숙사 그 서버의 연장선이 있다. 플레이어가 서로를 찾을 수 있는 곳.
 
-[^6]: [Wikipedia: Gamebase](https://zh.wikipedia.org/zh-tw/%E9%81%8A%E6%88%B2%E5%9F%BA%E5%9C%B0) — Launched November 16, 2000; founded by Computer Player Culture
+> **💡 알고 계셨나요**
+> 천젠훙(陳建弘)은 페이스북의 저커버그보다 8년 일찍 창업했다. 바하무트 1996년 설립, 페이스북 2004년 오픈. 타이완 대학원생이 만든 게임 BBS가, 세계 최대 소셜 플랫폼보다 '사용자가 직접 콘텐츠를 생산하게 한다'는 걸 더 일찍 이해했다.
 
-[^7]: [Wikipedia: Gamebase](https://zh.wikipedia.org/zh-tw/%E9%81%8A%E6%88%B2%E5%9F%BA%E5%9C%B0) — Number one Chinese gaming website in 2002; membership grew from tens of thousands to tens of millions
+---
 
-[^8]: [PTT C_Chat Board: How Did Gamebase Decline?](https://disp.cc/ptt/C_Chat/1Ro7mdgl) — Failed redesign, hacker attacks, user exodus
+## 세 개의 비석과 한 마리 용
 
-[^9]: [Wikipedia: Bahamut Game Information Station](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — Set up October 28, 1996; officially announced November 10
+지하실, 게임기지, 바하무트. 세 이름은 타이완 게임 플레이어의 기억 속에서 각기 다른 위치를 점한다.
 
-[^10]: [Wikipedia: Bahamut Game Information Station](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 247 users logged in on the first day of launch
+지하실은 유년이다. 그 검은 웹페이지, 한자 숫자 카운터, 워드로 편집해 붙여넣은 공략문. 더 순수하던 시대에 속한다. 계정도, 댓글도, 커뮤니티도 없고, 오직 "내가 답을 아니까 여기 둔다, 가져가라"만 있었다.
 
-[^11]: [INSIDE: 16 Years of Hardcore Gaming Community, Interview with Bahamut's Segas](https://www.inside.com.tw/article/2578-gamer-interview) — Chien-Hung personally wrote letters inviting moderators to jump ship
+게임기지는 사춘기다. 포럼에서 낯선 사람과 처음 싸우고, 처음 길드에 가입하고, 처음 시삽에게 경고받던 곳. 한때 최대였지만, 크다고 오래 사는 건 아니다.
 
-[^12]: [Wikipedia: Bahamut Game Information Station](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 1997 _Video Game Panorama_ interview, 3,000 users logged in that day
+바하무트는 성년이다. 불완전하다. 인터페이스 디자인은 지금도 구리다 욕먹고, 시삽 분쟁도 가끔, 협찬(業配) 의심도 가끔 받는다. 하지만 30년 동안 어떤 중문 게임 사이트도 못한 일을 해냈다. 아직 살아있다.
 
-[^13]: [INSIDE: Interview with Bahamut's Segas](https://www.inside.com.tw/article/2578-gamer-interview) — Worked at Yahoo by day, managed Bahamut by night
+천젠훙은 2013년 한 인터뷰에서 페이스북의 커뮤니티 충격에 어떻게 대처하냐는 질문을 받았다. 대답은 솔직했다. "우리 반응이 진짜 느렸어요."(출처: INSIDE 인터뷰)[^23] 하지만 느리다고 지는 건 아니다. 바하무트의 전략은 유행을 쫓지 않고 핵심 유저를 지키는 것. 페이스북 게임 커뮤니티가 생겼다가 사라지고, 디스코드 채널이 생겼다가 흩어져도, 하라판은 여전히 그 하라판이다.
 
-[^14]: [INSIDE: Interview with Bahamut's Segas](https://www.inside.com.tw/article/2578-gamer-interview) — Company established March 2000, 10 million capital, investor identities
+2026년 어느 깊은 밤, 한 플레이어가 게임 어느 관문에서 막혔다. 그는 바하무트를 열고 하라판에서 3년 전 공략문을 찾았다. 댓글에 일곱 명이 각기 다른 해법을 보태놨다. 그는 세 번째 걸 골라 클리어했다.
 
-[^15]: [INSIDE: Interview with Bahamut's Segas](https://www.inside.com.tw/article/2578-gamer-interview) — Chien-Hung's original words "It will definitely cause an earthquake"
+30년 전, 그는 검은 바탕 흰 글씨 사이트를 열고, 무명씨 공략문을 찾아 읽은 뒤, 삐걱대는 모뎀을 껐다.
 
-[^16]: [INSIDE: Interview with Bahamut's Segas](https://www.inside.com.tw/article/2578-gamer-interview) — Nasdaq crash, 5 million burned, broke even in the second year
+방법은 변했다. "누군가 답을 여기 둬서 네가 찾게 한다"는 그 정신은 변하지 않았다.
 
-[^17]: [INSIDE: Interview with Bahamut's Segas](https://www.inside.com.tw/article/2578-gamer-interview) — Launched Hala District in 2003, "relaxed but not indulgent"
+---
 
-[^18]: [INSIDE: Interview with Bahamut's Segas](https://www.inside.com.tw/article/2578-gamer-interview) — 2004 "death cross," 750,000 members, surpassed Gamebase
+## 연장 독서
 
-[^19]: [Bnext: Older Than Facebook! Bahamut is 27 Years Old, Why Are Users Increasing?](https://www.bnext.com.tw/article/73765/gamer) — Membership exceeded 6 million in March 2025
+- [타이완 인터넷 커뮤니티 이주사](/ko/technology/taiwan-online-community-migration) — BBS에서 스레드까지, 타이완인들의 커뮤니티 플랫폼 이사 역사
+- [타이완 오픈소스 정신](/ko/technology/taiwan-open-source-spirit) — 또 다른 '열정으로 발전시키는' 타이완인들
+- [PTT 배차차(批踢踢)](/ko/technology/ptt-bulletin-board-system) — 타이완 최장수 BBS, 바하무트의 동시대 산물
+- [대유 쌍검(大宇雙劍)](/ko/technology/softstar-twin-classics) — 같은 시대의 타이완 단일 게임 감성 시초
+- [타이완 플레이어의 광기 어린 순간들](/ko/technology/taiwan-gamers-wildest-moments) — 지하실/게임기지/바하무트 세대 플레이어들의 집단적 열광
 
-[^20]: [Bnext: Bahamut CEO Talks Starting from Gamebase Traffic War](https://game.udn.com/game/story/122089/7346564) — SimilarWeb ranks 5th in Taiwan, 1.5 million DAU, 25 million daily page views
+---
 
-[^21]: [Wikipedia: Bahamut Game Information Station](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — GNN reached 300,000 articles by February 2026, 48,000 player submissions
+## 참고 자료
 
-[^22]: [INSIDE: Interview with Bahamut's Segas](https://www.inside.com.tw/article/2578-gamer-interview) — Refuses all publisher requests to delete posts, prohibits paid listings
+[^1]: [지하실 공식 웹사이트](http://www.cellar.com.tw/) — cellar.com.tw, 타이완 초기 게임 공략 집산지
 
-[^23]: [INSIDE: Interview with Bahamut's Segas](https://www.inside.com.tw/article/2578-gamer-interview) — Chien-Hung's original words "Our reaction is really slow"
+[^2]: [바하무트 창작: 지하실에 들어가지 않고 어찌 잠들 수 있으랴 한 번 지하실을 나오면 만교가 놀란다](https://home.gamer.com.tw/creationDetail.php?sn=606968) — 플레이어 회고, 지하실 웹사이트의 기능과 콘텐츠
+
+[^3]: [PTT C_Chat 판: 공략 사이트 '지하실' 당시 얼마나 인기였나](https://myptt.cc/article/C_Chat/M.1516208002.A.C01) — 향민 추산, 타이완 PC 게임 공략 90% 수집
+
+[^4]: [바하무트 창작: 지하실에 들어가지 않고 어찌 잠들 수 있으랴](https://home.gamer.com.tw/creationDetail.php?sn=606968) — "지하실은 내가 접한 첫 웹사이트"
+
+[^5]: [바하무트 창작: 지하실이 다시 열렸다!](https://home.gamer.com.tw/creationDetail.php?sn=540350) — 2008년 12월 지하실 부활, 플레이어 반응
+
+[^6]: [위키백과: 게임기지](https://zh.wikipedia.org/zh-tw/%E9%81%8A%E6%88%B2%E5%9F%BA%E5%9C%B0) — 2000년 11월 16일 오픈, 컴퓨터 플레이어 문화사업 창립
+
+[^7]: [위키백과: 게임기지](https://zh.wikipedia.org/zh-tw/%E9%81%8A%E6%88%B2%E5%9F%BA%E5%9C%B0) — 2002년 중문 세계 제1 게임 웹사이트, 회원 초기 수만 명에서 천만 단위로 성장
+
+[^8]: [PTT C_Chat 판: 게임기지는 어떻게 몰락했나?](https://disp.cc/ptt/C_Chat/1Ro7mdgl) — 개편 실패, 해킹 공격, 사용자 이탈
+
+[^9]: [위키백과: 바하무트 전완 자원站](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 1996년 10월 28일 구축, 11월 10일 정식 발표
+
+[^10]: [위키백과: 바하무트 전완 자원站](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 오픈 첫날 247명 접속
+
+[^11]: [INSIDE: 골수 게임 커뮤니티 16년, 바하무트 세가 대대 전문 인터뷰](https://www.inside.com.tw/article/2578-gamer-interview) — 천젠훙 직접 편지 써 시삽 이직 권유
+
+[^12]: [위키백과: 바하무트 전완 자원站](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 1997년 《전완대관원》 인터뷰, 당일 3,000명 접속
+
+[^13]: [INSIDE: 바하무트 세가 전문 인터뷰](https://www.inside.com.tw/article/2578-gamer-interview) — 낮엔 치모 근무, 밤엔 바하무트 운영
+
+[^14]: [INSIDE: 바하무트 세가 전문 인터뷰](https://www.inside.com.tw/article/2578-gamer-interview) — 2000년 3월 회사 설립, 자본금 1,000만, 투자자 신분
+
+[^15]: [INSIDE: 바하무트 세가 전문 인터뷰](https://www.inside.com.tw/article/2578-gamer-interview) — 천젠훙 원문 "반드시 대지진을 일으킬 것이다"
+
+[^16]: [INSIDE: 바하무트 세가 전문 인터뷰](https://www.inside.com.tw/article/2578-gamer-interview) — 나스닥 붕괴, 500만 소진, 이듬해 수지타산
+
+[^17]: [INSIDE: 바하무트 세가 전문 인터뷰](https://www.inside.com.tw/article/2578-gamer-interview) — 2003년 하라구 출시, "편안하되 방종하지 않게"
+
+[^18]: [INSIDE: 바하무트 세가 전문 인터뷰](https://www.inside.com.tw/article/2578-gamer-interview) — 2004년 '데스 크로스', 회원 75만, 게임기지 추월
+
+[^19]: [디지털타임스: 페이스북보다 늙었다! 바하무트 27살, 왜 유저가 더 늘까?](https://www.bnext.com.tw/article/73765/gamer) — 2025년 3월 회원 600만 돌파
+
+[^20]: [디지털타임스: 바하무트 CEO, 게임기지 트래픽 전쟁에서 이야기하다](https://game.udn.com/game/story/122089/7346564) — SimilarWeb 타이완 5위, 일활 150만, 일조회 2,500만
+
+[^21]: [위키백과: 바하무트 전완 자원站](https://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E9%9B%BB%E7%8E%A9%E8%B3%87%E8%A8%8A%E7%AB%99) — 2026년 2월 GNN 30만 건, 플레이어 투고 4.8만 건
+
+[^22]: [INSIDE: 바하무트 세가 전문 인터뷰](https://www.inside.com.tw/article/2578-gamer-interview) — 게임사 삭제 요청 전면 거절, 순위 조작 금지
+
+[^23]: [INSIDE: 바하무트 세가 전문 인터뷰](https://www.inside.com.tw/article/2578-gamer-interview) — 천젠훙 원문 "우리 반응이 진짜 느렸어요"

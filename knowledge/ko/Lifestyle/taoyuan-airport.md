@@ -1,89 +1,82 @@
 ---
-title: "Taoyuan Airport: From the 'Chiang' Name of the Ten Major Projects to the Billion-Dollar Trial of the 2026 National Gateway"
-description: "In April 2026, the roof of the Taoyuan Airport Terminal 3 was officially topped out, marking that this national gateway, costing NT$128.3 billion, is about to be reborn. From the birth of 'Chiang Kai-shek International Airport' in 1979, the low point of flooding in 2016, to the transit boom triggered by the opening of the North Concourse in 2025, Taoyuan Airport is attempting to regain its lost coordinates in the competition for Asian aviation hubs."
+title: "타이완 타오위안 공항: '십대건설'의 '중정' 명칭에서 2026년 국문 재개의 천억 시련까지"
+description: "2026년 4월, 타이완 타오위안 공항 제3터미널 지붕이 정식으로 상량되어, 1,283억 NT$가 투입된 이 국문이 재생을 맞이하게 되었음을 알렸다. 1979년 '중정공항' 탄생, 2016년 침수 나락, 2025년 북쪽 탑승동 개장으로 촉발된 환승 붐을 거쳐, 타오위안 공항은 아시아 항공 허브 경쟁에서 잃어버린 좌표를 되찾으려 시도하고 있다."
 date: 2026-05-03
-tags:
-  [
-    'Taoyuan Airport',
-    'Terminal 3',
-    'Infrastructure',
-    'Transportation',
-    'Ten Major Projects',
-  ]
+category: 'Lifestyle'
+tags: ['타오위안 공항', '제3터미널', '기반시설', '교통', '십대건설']
 subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
-category: 'Lifestyle'
-readingTime: 5
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
+readingTime: 5
 translatedFrom: 'Lifestyle/桃園機場.md'
-sourceCommitSha: ''
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:1479fcc5eaa28fc5'
 sourceBodyHash: 'sha256:1fbc8f5240a8c4b8'
-translatedAt: '2026-05-03T21:40:25+08:00'
-featured: false
+translatedAt: '2026-10-11T05:16:34+08:00'
 ---
 
-> **30-Second Overview:** Taoyuan Airport is Taiwan's strongest link to the world and the most ambitious project among the Ten Major Projects. It once bore the color of authoritarianism due to a political name change before its opening in 1979, and was once questioned as a "water airport" after a thunderstorm in 2016. However, after the pain of an eight-year delay in Terminal 3 and a budget increase to NT$128.3 billion, the unveiling of the North Concourse at the end of 2025 and the strong recovery of passenger volume exceeding 10 million in early 2026 announce that this national gateway is accelerating to catch up with the Asian leading group. This is not just an expansion of an airport, but a defensive war for Taiwan to maintain its position as a transit hub for North America and Southeast Asia in the geopolitical shift of the post-pandemic era.
+> **30초 개요:** 타이완 타오위안 공항은 타이완과 세계를 잇는 유일한 강결합 고리이자, 십대건설 중 가장 야심 찬 공사였다. 1979년 개장 전 정치적 개명으로 권위주의 색채를 띠기도 했고, 2016년 한 차례 뇌우로 '수상 공항'으로 전락해 질타를 받기도 했다. 그러나 제3터미널이 8년 지연되고 예산이 1,283억 NT$로 증액되는 진통을 겪은 뒤, 2025년 말 북쪽 탑승동 개막과 2026년 초 여객 1,000만 명 돌파라는 강한 회복세가 이 국문이 아시아 선두 그룹을 따라잡기 위해 가속하고 있음을 선포했다. 이는 단순히 한 공항의 확장이 아니라, 포스트 코로나 시대 지정학적 전환 속에서 타이완이 북미·동남아 환승 허브 지위를 지켜내기 위한 수성전이다.
 
-On February 26, 1979, a Boeing 747 landed on what was then Asia's most modern runway, announcing the official opening of "Chiang Kai-shek International Airport." This structure, costing NT$10.3 billion and built from the barren lands of Dayuan, was the totem of Taiwan's economic takeoff.
+1979년 2월 26일, 보잉 747 한 대가 당시 아시아에서 가장 현대적인 활주로에 착륙하며 '중정국제공항'이 정식 개항했음을 알렸다. 타오위안 다위안(大園) 황무지를 개간해 103억 NT$를 들여 지은 이 건축물은 당시 타이완 경제 도약의 토템이었다.
 
-### From "Chiang" to "Taoyuan": The Politics and Pragmatism Behind the Name
+### '중정'에서 '타오위안'으로: 이름 뒤의 정치와 실리
 
-The name of Taoyuan Airport is a microcosm of Taiwan's democratization. Originally planned as "Taoyuan International Airport" in the 1970s, it was suddenly renamed "Chiang" by the Executive Yuan three days before its opening to commemorate Chiang Kai-shek, who had passed away three years prior.
+타오위안 공항의 이름은 타이완 민주화의 축소판이다. 1970년대 계획 단계에서는 원래 '타오위안국제공항'이었으나, 개장 사흘 전 행정원이 기습적으로 서거 3주년을 맞은 장제스(蔣中正)를 기려 '중정'으로 개명했다.
 
-This sign hung for 27 years until the DPP government promoted "de-Chiangification" in 2006, officially renaming it "Taiwan Taoyuan International Airport." Interestingly, although the name change cost approximately NT$25 million to replace road signs and billboards, the airport code remained pragmatically unchanged as "TPE" for the stability of international integration[^8].
+이 간판은 27년간 걸려 있다가, 2006년 민진당 정부가 '탈장(去蔣)화'를 추진하면서야 정식으로 '타이완 타오위안 국제공항'으로 바뀌었다. 흥미롭게도, 개명에 약 2,500만 NT$를 들여 표지판과 간판을 교체했음에도, 국제 연계의 안정성을 위해 공항 코드는 실리적으로 'TPE'를 유지했다[^8].
 
-📝 **Curator's Note:** The name change is the awakening of sovereignty consciousness, but the retention of the code is a compromise with the international order. The national gateway has always swung between ideology and functionalism.
+📝 기획자 메모: 이름 변경은 주권 의식의 각성이지만, 코드 유지는 국제 질서에 대한 타협이다. 국문은 언제나 이념과 기능주의 사이에서 진동해 왔다.
 
-### June 2, 2016: The National Gateway's Shame Woven by Human Error
+### 2016년 6월 2일: 인재가 직조한 국문의 치욕
 
-If one were to choose the longest day for the national gateway, the "602 Rainstorm Event" of 2016 would be the prime candidate. In two hours on that day, nearly 100 millimeters of extreme rainfall fell, turning the Second Terminal into a sea of water.
+국문 역사상 가장 긴 하루를 꼽으라면 단연 2016년 '602 호우 사건'이다. 당일 두 시간 만에 근 100mm의 극단적 강우량이 쏟아져 제2터미널이汪洋(넓은 물결)이 되었다.
 
-The Control Yuan's investigation pointed out that this was not just a natural disaster, but a typical case of human error: improper management of the relocation engineering of the H Drainage Main Channel caused soil to block the pipelines; more fatally, the airport company's response was insufficient at the time, failing to close the flood gates in time[^1]. The then-Minister of Transportation's public apology set the tone for the systemic collapse of the old national gateway's infrastructure maintenance.
+감찰원 조사에 따르면 이는 천재(天災)일 뿐 아니라 전형적인 인재(人災)였다: H 배수 간선 이설 공사 관리 부실로 토사가 관로를 막았고, 더 치명적인 것은 공항 공사 측이 초기에 제대로 대처하지 못해 방수 수문을 제때 닫지 못했다[^1]. 당시 교통부 장관의 공개 사과는 이 노후 국문이 기초 유지보수 면에서 시스템적으로 붕괴했음을 못 박았다.
 
-### Terminal 3: The Billion-Dollar Redemption of an Eight-Year Delay
+### 제3터미널: 8년 지연된 천억 구원
 
-To completely solve the capacity issue, Terminal 3 (T3) has become the key to Taoyuan Airport's rebirth. This project, designed by the office of British architectural master Richard Rogers, saw its budget escalate from NT$39.6 billion to NT$128.3 billion due to the high difficulty of ceiling construction and a shortage of labor[^3].
+용량 문제를 근본적으로 해결하기 위해 제3터미널(T3)은 타오위안 공항 재생의 열쇠가 되었다. 영국 건축 거장 리처드 로저스(Richard Rogers) 사무소가 설계한 이 공사는 천장 시공 난이도 과대와 인력 부족으로 예산이 396억에서 1,283억 NT$로 증액되었다[^3].
 
-Xie Jinhe, Chairman of Caixin Media, once criticized that the delay of T3 has caused Taiwan to "miserably fall into the lower tier of Asia"[^4]. However, this long navigation lost its way until a turning point in 2025:
+차이진허(謝金河) 차이신(財信)미디어 회장은 T3 지연으로 타이완이 '아시아 꼴찌 그룹으로 전락했다'고 혹평했다[^4]. 그러나 이 긴 표류는 2025년 전환점을 맞았다:
 
-- **December 25, 2025:** The North Concourse was officially opened, unveiled by the President, adding 8 large boarding gates and significantly alleviating pressure during peak hours[^6].
-- **April 2026:** The roof of the main terminal was officially topped out, with overall project progress breaking through 80%, expected to be fully completed in 2027.
+- **2025년 12월 25일**: 북쪽 탑승동이 정식 개장, 총통이 개막했으며 대형 탑승구 8개가 추가돼 피크 시간대 압박을 크게 완화했다[^6].
+- **2026년 4월**: 메인 터미널 지붕이 정식 상량, 전체 공정 진도 80% 돌파, 2027년 전면 완공 예정.
 
-📝 **Curator's Note:** When the beautiful bird-image roof is finally topped out, what Taiwanese people expect is not just architectural aesthetics, but a renewed trust in "national gateway efficiency."
+📝 기획자 메모: 아름다운 해새(海鳥) 형상 지붕이 마침내 상량되었을 때, 타이완인들이 기대하는 것은 건축 미학만이 아니라 '국문 효율'에 대한 재신임이다.
 
-### 2026 Transit Boom: Accidental Dividends Under Geopolitics
+### 2026 환승 붐: 지정학 아래의 의외의 수혜
 
-Despite the twists and turns in construction, geopolitics has given Taoyuan Airport an unexpected boost. Due to the flow of North American passengers previously transiting through Hong Kong and Shanghai to Taiwan, the number of transit passengers reached 6.69 million in 2025[^5].
+공사가 우여곡절을 겪었으나, 지정학은 타오위안 공항에 의외의 도움을 주었다. 과거 홍콩·상하이를 경유하던 북미 여객 흐름이 타이완으로 향하면서, 2025년 환승 여객이 669만 명에 달했다[^5].
 
-The recovery in 2026 is even stronger, with passenger volume breaking through 10 million in the first 69 days of the year. North American routes have more than 360 weekly flights, demonstrating momentum surpassing pre-pandemic levels. Behind this is the promotion of the overall planning of Taoyuan Aviation City and the support of supporting measures such as the opening of temporary overnight aircraft parking spaces[^2].
+2026년 회복세는 더 강해, 연초 69일 만에 여객 1,000만 명을 돌파했고, 북미 노선 주간 편수가 360편을 넘어 팬데믹 이전 수준을 넘어서는 동력을 보였다. 이면에는 타오위안 항공도시 전체 계획 추진과 임시 야간 주기장 개장 등 보완 조치의 뒷받침이 있다[^2].
 
-### Shadows and Light of the Future
+### 미래의 그림자와 빛
 
-Although progress in 2026 is steady, challenges remain close at hand:
+2026년 진도가 순조롭지만, 도전은 여전히 그림자처럼 따라다닌다:
 
-- **Third Runway:** Although there has been progress, the completion schedule has been delayed to 2032, remaining a long-term bottleneck.
-- **Management Controversies:** The contracting company scandal exposed at the end of 2024, as well as the chaotic flow during construction, remain the most direct pain points for passengers[^7].
+- **제3활주로**: 진전이 있으나 완공 시기가 2032년으로 늦춰져 장기 병목으로 남는다.
+- **관리 논란**: 2024년 말 터진 시공사 비리 사건과 공사 기간 동선 혼잡은 여객이 가장 직접적으로 느끼는 통점이다[^7].
 
-"The story of Taoyuan Airport is a microcosm of Taiwan's infrastructure: it has a glorious starting point, but fell into a quagmire during the transition period, and is finally slowly restarting under pressure." After T3 is completed, the annual capacity will increase to 82 million passengers. Whether this island national gateway can turn from "lagging behind" to "leading," the wave of topping out and opening in 2026 is the key turning point.
+"타오위안 공항의 이야기는 타이완 기반시설의 축소판이다: 화려한 출발점이 있었으나 전환기 진흙탕에 빠졌고, 결국 압력 아래서 서서히 재개했다." T3 완공 후 연간 수용력이 8,200만 명으로 오를 때, 이 도서 국문이 '낙후'에서 '선도'로 전환할 수 있을지, 2026년 이 상량과 개장 물결이 바로 결정적 변곡점이다.
 
 ---
 
-### Source References
+### 출처 참조
 
-[^1]: [Control Yuan: Taoyuan International Airport Experienced the Most Severe Flooding Event in History, Control Yuan Issues Correction](https://www.cy.gov.tw/News_Content.aspx?n=124&s=7874) — Control Yuan Correction Report: Control Yuan Correction Report
+[^1]: [감찰원: 타오위안 국제공항 역대 최악 침수 사건 감찰원 시정](https://www.cy.gov.tw/News_Content.aspx?n=124&s=7874) — 감찰원 시정 보고서: 감찰원 시정 보고서
 
-[^2]: [Taoyuan City Government: Drafting the Specific District Plan for Taoyuan International Airport Park and Surrounding Areas](https://www.land.tycg.gov.tw/userfiles/files/832%E6%AC%A1%E5%AF%A9%E5%AE%9A%E7%89%88.pdf) — Taoyuan City Government Document: Taoyuan City Government Land Planning Document
+[^2]: [타오위안 시정부: 타오위안 국제공항 단지 및 인근 지역 특정구 계획 수립](https://www.land.tycg.gov.tw/userfiles/files/832%E6%AC%A1%E5%AF%A9%E5%AE%9A%E7%89%88.pdf) — 타오위안 시정부 문서: 타오위안 시정부 토지계획 문서
 
-[^3]: [Yahoo News: Hidden Danger in the Air 1 / Taoyuan Airport Terminal 3 Budget Increased to 128.3 Billion](https://tw.news.yahoo.com/%E7%A9%BA%E4%B8%AD%E9%9A%B1%E6%82%A31-%E6%A1%83%E6%A9%9F%E7%AC%AC%E4%B8%89%E8%88%AA%E5%BB%88%E6%8B%9A%E5%BE%8C%E5%B9%B4%E5%AE%8C%E5%B7%A5-%E7%88%86%E8%8A%B114%E5%84%84%E8%B2%B7%E7%88%AD%E8%AD%B0%E5%95%86%E5%93%81%E7%B5%A6%E6%97%85%E5%AE%A2%E7%94%A8-220000175.html) — Yahoo News Report
+[^3]: [야후 뉴스: 공중 은환 1/ 타오위안 공항 제3터미널 예산 1,283억으로 증액](https://tw.news.yahoo.com/%E7%A9%BA%E4%B8%AD%E9%9A%B1%E6%82%A31-%E6%A1%83%E6%A9%9F%E7%AC%AC%E4%B8%89%E8%88%AA%E5%BB%88%E6%8B%9A%E5%BE%8C%E5%B9%B4%E5%AE%8C%E5%B7%A5-%E7%88%86%E8%8A%B114%E5%84%84%E8%B2%B7%E7%88%AD%E8%AD%B0%E5%95%86%E5%93%81%E7%B5%A6%E6%97%85%E5%AE%A2%E7%94%A8-220000175.html) — 야후 뉴스 보도
 
-[^4]: [China Times News Network: Taoyuan Airport Terminal 3 Dragged for 8 Years! Xie Jinhe Could Not Bear It and Revealed "3 Key Points"](https://wantrich.chinatimes.com/news/20250628900090-420501) — China Times News Network Report: China Times News Network Report
+[^4]: [중시신문망: 타오위안 공항 제3터미널 8년 지연! 차이진허 참지 못하고 '3대 핵심' 폭로](https://wantrich.chinatimes.com/news/20250628900090-420501) — 중시신문망 보도: 중시신문망 보도
 
-[^5]: [Commercial Times: Xie Jinhe Reveals One Thing Taiwan Must Do in 2025! Starting from Airport Construction!](https://www.ctee.com.tw/news/20250110700823-430503) — Commercial Times Report: Commercial Times Report
+[^5]: [공상시보: 차이진허 폭로 2025년 타이완 반드시 해야 할 한 가지 일! 공항 건설에서 시작!](https://www.ctee.com.tw/news/20250110700823-430503) — 공상시보 보도: 공상시보 보도
 
-[^6]: [Shopping Design: Taoyuan Airport Terminal 3 "North Concourse" to Open at the End of 2025](https://www.threads.com/@shoppingdesign_official/post/DQ0msqsDtMn/) — Shopping Design Report
+[^6]: [쇼핑 디자인: 타오위안 공항 제3터미널 '북쪽 탑승동' 2025년 말 개장](https://www.threads.com/@shoppingdesign_official/post/DQ0msqsDtMn/) — 쇼핑 디자인 보도
 
-[^7]: [Innovation News Network: Taoyuan Airport Terminal 3 Scandal Exposed, You Hao: Do Not Let Engineering Disputes Affect Progress](https://cnews.com.tw/237241120a06/) — Innovation News Network Report: Innovation News Network Report
+[^7]: [회류신문망: 타오위안 공항 제3터미널 비리 사건 유하오(游顥): 공사 분쟁이 진도에 영향 주지 않게 하라](https://cnews.com.tw/237241120a06/) — 회류신문망 보도: 회류신문망 보도
 
-[^8]: [Wikipedia: Important Events Timeline of Taiwan Taoyuan International Airport](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4%E9%87%8D%E8%A6%81%E4%BA%8B%E4%BB%B6%E5%B9%B4%E8%A1%A8) — Wikipedia Entry: Wikipedia Entry
+[^8]: [위키피디아: 타이완 타오위안 국제공항 중요 사건 연표](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4%E9%87%8D%E8%A6%81%E4%BA%8B%E4%BB%B6%E5%B9%B4%E8%A1%A8) — 위키피디아 항목: 위키피디아 항목

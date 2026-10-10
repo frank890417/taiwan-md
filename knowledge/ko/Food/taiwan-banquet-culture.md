@@ -1,296 +1,299 @@
 ---
-title: 'Taiwanese Bando: The Martial Field That Opens Tables Amidst Torrential Rain, and the Fading Human-Ghost-Divine Trinity'
-description: "In a 120-table banquet, evening rain flooded up to calves and trout swam away by the dozen. Master Chef Wang Yi-yong rolled up his sleeves, waded into the water to catch fish, and ended up missing only one. For 300 years, this has been the nature of Bando: as long as the host doesn't call it off, the tables must open. Today, this craft is bifurcating: dishes enter five-star hotels and Michelin stars, returning to overseas markets; yet the ritual knowledge involving the whole village, with the master chef acting as a folkloric consultant across the human, divine, and ghost realms, is quietly disappearing due to a lack of successors. What is truly disappearing is not the flavor, but the tacit understanding behind it."
+title: '대만 반저(辦桌): 폭우 속에서도 차려지는 무술의 장, 그리고 서서히 사라져가는 신과 인간의 의식'
+description: '120개 테이블 규모의 반저 현장, 해 질 녘 폭우가 종아리까지 차오르고 송어가 수십 마리나 헤엄쳐 다니는 상황에서도 총포사(總鋪師) 왕이융은 소매를 걷어붙이고 물속에서 물고기를 잡았다. 결국 단 한 마리만이 부족했다. 지난 300년 동안 반저는 늘 이랬다. 주인이 멈추라고 하지 않는 한 잔치는 계속되어야 한다. 오늘날 이 기술은 두 갈래로 나뉘고 있다. 요리는 5성급 호텔과 미슐랭 식당으로 들어가거나 해외로 진출하고 있지만, 온 마을이 동원되어 신과 인간의 세계를 가로지르는 그 의식적 지식은 후계자가 없어 조용히 사라져가고 있다.'
 date: 2026-03-30
+category: 'Food'
 tags:
   [
-    'Bando',
-    'Master Chef',
-    'Flowing Banquet',
-    'Taiwanese Banquet',
-    'Neimen',
-    'Life Rituals',
-    'Traditional Craft',
-    'Human Touch',
+    '반저',
+    '총포사',
+    '유수석',
+    '대만식 연회',
+    '내문(內門)',
+    '생명례속',
+    '전통 기술',
+    '인정',
   ]
 subcategory: '飲食場景'
 author: 'Taiwan.md'
-category: 'Food'
-readingTime: 12
+featured: false
 lastVerified: 2026-06-07
 lastHumanReview: false
-translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: ''
-sourceContentHash: 'sha256:87996856be7f510f'
-sourceBodyHash: 'sha256:dc734b24b423e098'
-translatedAt: '2026-06-16T16:55:29Z'
+researchReport: 'reports/research/2026-06/台灣辦桌文化.md'
+viewpoint_formed: true
 image: '/article-images/food/bando-ghost-festival-banquet-2017.webp'
+imageAlt: '밤의 사찰 앞마당에 차려진 반저, 빨간 플라스틱 의자와 분홍색 식탁보가 깔린 원형 테이블에 사람들이 가득 앉아 있고, 물을 댄 발판 위로 음식을 나르는 사람들이 통로를 지나며 머리 위에는 붉은 등이 가득 걸려 있다'
 imageCredit: '玄史生 / Wikimedia Commons'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg'
-featured: false
+readingTime: 12
+translatedFrom: 'Food/台灣辦桌文化.md'
+sourceCommitSha: '26a67c779'
+sourceContentHash: 'sha256:87996856be7f510f'
+sourceBodyHash: 'sha256:dc734b24b423e098'
+translatedAt: '2026-10-10T21:18:41.835639+00:00'
 ---
 
-# Taiwanese Bando: The Martial Field That Opens Tables Amidst Torrential Rain, and the Fading Human-Ghost-Divine Trinity
+# 타이완 반저(辦桌): 폭우 속에서도 차려지는 무대, 그리고 서서히 막을 내리는 인신귀 삼계의 의례
 
-> **30-Second Overview:** Bando is not a modern invention; the _Taiwan County Gazette_ from the late Kangxi reign of the Qing Dynasty recorded that Taiwanese people "feast lavishly for family celebrations and seasonal festivals" [^1]. In Neimen, Kaohsiung, a mudstone badland where even crops struggle to grow, there were approximately 150 groups of Master Chefs among a population of 14,000 at its peak, making it the densest cluster in Taiwan [^2]. But today, this craft is bifurcating: Bando dishes enter five-star hotels and Michelin stars, even returning to overseas markets [^3]; yet the ritual knowledge involving the whole village, with the master chef acting as a folkloric consultant across the human, divine, and ghost realms, is quietly disappearing due to a lack of successors [^4]. What is truly disappearing is not the flavor, but the tacit understanding behind it.
+> **30초 요약:** 반저는 현대의 발명품이 아니다. 청나라 강희제 말기의 《타이완현지(臺灣縣志)》에는 타이완 사람들이 "집안에 경사가 있거나 절기가 되면, 손님을 대접할 때 반드시 풍성하게 차린다"라고 기록되어 있다[^1]. 농작물조차 자라기 힘든 가오슝 네이먼의 이 진흙 악지에서는 전성기 시절 1만 4천 명의 인구 중 약 150팀의 총푸스(總鋪師, 반저 전문 요리사)가 배출되었을 정도로 타이완에서 가장 밀집된 거주지였다[^2]. 그러나 오늘날 이 기술은 두 갈래로 나뉘고 있다. 반저 요리는 5성급 호텔과 미쉐린 레스토랑에 입성하며 해외에서도 다시 주목받고 있지만[^3], 마을 전체가 움직이고 총푸스가 민속 고문 역할을 하며 인신귀(人神鬼) 삼계를 아우르던 의례 지식은 계승자가 없어 조용히 사라져 가고 있다[^4]. 진정으로 사라지는 것은 맛이 아니라, 그 맛 뒤에 숨겨진 묵계이다.
 
-The evening rain came fast and furious, and the water quickly rose to calves.
+해 질 녘의 폭우가 급격하고 거세게 몰아치자, 고인 물이 금세 종아리까지 차올랐다.
 
-This was a 120-table banquet taken on by Wang Yi-yong, a senior Master Chef from Tainan, just as the seating was about to begin. The skeleton of the canvas tent was bent by the rain, stoves were extinguished one by one, pots and pans floated on the water surface, and even the trout ready for the pot swam out of the basin, with over ten escaping at once [^5]. For anyone else, this event would likely have been called off.
+그것은 타이난의 베테랑 총푸스 왕이융(汪義勇)이 맡은 120개 상차림의 연회였으며, 곧 시작될 예정이었다. 천막의 골조는 빗물 무게에 휘어졌고, 화로들은 하나둘 꺼졌으며, 냄비와 그릇들은 물 위를 떠다녔다. 요리할 준비를 마친 송어들마저 대야에서 빠져나가 한꺼번에 십여 마리가 도망쳐 버렸다[^5]. 다른 사람이었다면 아마 이쯤에서 중단했을 것이다.
 
-Wang Yi-yong arrived to inspect the site and did not call it off. He asked staff to cut the tent fabric to drain the water, moved all kitchenware under the eaves, rolled up his sleeves, and waded into the water to catch fish first. That night, only one trout was missing, and the shortfall was made up with ingredients from the reserve table. Every guest had something to eat [^5].
+현장을 순찰하던 왕이융은 중단 명령을 내리지 않았다. 그는 작업자들에게 천막을 찢어 고인 물을 빼내게 하고, 조리 도구들을 모두 처마 밑으로 옮기게 했다. 그러고는 직접 소매를 걷어붙이고 물속으로 들어가 물고기를 잡았다. 그날 밤 결국 송어는 단 한 마리만 부족했을 뿐이며, 예비용 식재료로 보충했다. 모든 손님은 음식을 먹을 수 있었다[^5].
 
-For 300 years, Bando has operated roughly like this: as long as the host doesn't call it off, the tables must open. This discipline of mission accomplishment has supported all important moments for Taiwanese people, from birth to death, from worshipping gods to respecting ghosts. And now, it is moving in two directions simultaneously—one upward, one downward.
+300년 동안 반저는 대체로 이런 방식으로 운영되어 왔다. 주최 측이 중단하지 않는 한, 상차림은 반드시 이루어져야 했다. 이러한 '임무 완수'의 규율은 타이완 사람들이 태어나서 죽음에 이르기까지, 신에게 제사를 지내는 순간부터 귀신을 공경하는 모든 중요한 순간을 지탱해 왔다. 그리고 지금, 반저는 두 가지 방향으로 동시에 나아가고 있다. 하나는 위로, 다른 하나는 아래로.
 
-## Restaurants are the "Literary Field"; Bando is the "Martial Field"
+## 레스토랑은 문장(文場), 반저우는 무장(武場)
 
-There is a common metaphor in the industry: Chefs cooking in fixed locations with air conditioning and complete kitchen workflows are in the "Literary Field" (Wenchang); carrying equipment to the roadside, temple squares, or activity centers to set up temporary tables is in the "Martial Field" (Wuchang) [^5].
+업계에는 흔히 쓰이는 비유가 있다. 고정된 매장에서 에어컨을 틀고 완비된 주방 동선을 갖춘 레스토랑의 주방장은 '문장(文場)'이고, 집기류를 짊어지고 길거리나 사찰 앞마당, 활동 센터로 이동해 임시 천막을 치고 상을 차리는 것은 '무장(武場)'이라는 것이다[^5].
 
-The difference between the Literary Field and the Martial Field is not the level of culinary skill, but **uncertainty**. In a restaurant, the location, stoves, and staff are the same every day; in Bando, the location, time, and personnel are all fixed. The same Master Chef might host a deity's birthday in a Tainan temple square this week and hold a funeral in a mountain clan hall next week. The tent must be rebuilt, the fire re-lit, and the kitchen assistants (shuijiao) redeployed. From a management perspective, this is the most difficult catering model: a complete Bando event requires the Master Chef to simultaneously act as executive chef, event director, and logistics coordinator—managing canvas tents, tables and chairs, tableware, ingredient suppliers, and the labor force [^5].
+문장과 무장의 차이는 요리 실력의 높고 낮음이 아니라 **불확실성**에 있다. 레스토랑은 장소, 화구, 인력이 매일 동일하다. 반면 반저우는 장소, 시간, 인력 세 가지가 모두 유동적이다. 같은 총포사(總鋪師)라 할지라도 이번 주에는 타이난의 사찰 마당에서 신명생(神明生) 연회를 열고, 다음 주에는 산간 지역의 종사(宗祠)에서 상례를 치를 수 있다. 천막을 새로 설치해야 하고, 화구도 다시 연결해야 하며, 수각(水腳, 주방 보조) 인력도 새로 배치해야 한다. 경영학적 관점에서 보면 이는 난도가 가장 높은 출장 요리 모델이다. 하나의 완전한 반저우 행사를 위해 총포사는 행정 셰프이자 이벤트 디렉터, 그리고 물류 총괄 역할을 동시에 수행한다. 천막과 테이블, 의자, 식기류부터 식재료 공급업체와 인력 구성까지 모두 그 혼자서 조율해야 하기 때문이다[^5].
 
-Therefore, culinary skill is merely the basic foundation of this profession; **crisis management is the core competitiveness**.
+그렇기에 요리 실력은 이 직업의 기본기일 뿐이며, **위기 관리 능력이 핵심 경쟁력**이다.
 
-> **✦** "I fear guests waiting in pain the most; the moment they get home, they rush to the phone." — Xue Meng-hui, Neimen Master Chef, on the night of the 88 Flood [^6]
+> **✦** "손님들이 하염없이 기다리다가 집에 도착하자마자 전화기를 붙잡는 상황이 가장 두렵습니다." —— 네이먼(內門)의 총포사 쉐멍후이(薛孟輝), 88 풍수해 당시의 밤을 회상하며[^6]
 
-On the night of the 88 Flood, Xue Meng-hui was cooking for a peace banquet for a deity's birthday in Fengshan. The wind was strong and the rain heavy; the canvas tent was blown down, and an iron frame hit a chef's head. Only then did the host decide to cancel the event [^6]. As he sent the kitchen assistants back to Qiuwei and Shanlin one by one, he found his way back to Neimen blocked by broken bridges. He was trapped in a 7-ELEVEN all night, watching the torrent of the Nanzi Xian River roll by like a sea [^6]. What kept him up all night was the thought of those guests waiting in pain for the tables to open—the moment he got home, he rushed to make phone calls. And the next day, he still had a banquet for Guanyin Bodhisattva's birthday to host [^6].
+88 풍수해가 닥친 그날 밤, 쉐멍후이는 펑산(鳳山)에서 열린 신명생 평안연(平安宴)의 요리를 맡고 있었다. 강풍과 폭우로 천막이 무너지고 철제 구조물이 요리사의 머리를 타격하자, 그제야 주최 측은 행사를 중단하기로 결정했다[^6]. 그는 수각들을 하나하나 치웨이(旗尾), 샨린(杉林)으로 돌려보낸 뒤 자신도 네이먼으로 돌아가려 했으나, 이미 모든 교량이 끊겨 있었다. 그는 밤새 세븐일레븐 한 곳에 갇혀 난쯔(楠梓) 시엔시(仙溪)의 홍수가 마치 바다처럼 거세게 몰아치는 것을 지켜보아야 했다[^6]. 밤새 그의 마음을 무겁게 했던 것은 연회가 시작되기를 하염없이 기다리던 손님들이었다. 손님들은 집에 도착하자마자 그에게 전화를 걸어왔다. 그리고 다음 날, 그는 관음보살 성탄 연회를 또 한 번 치러야 했다[^6].
 
-Regardless of strong winds, heavy rain, broken bridges, or collapsed roads, as long as the host does not cancel, the Master Chef must find a way to serve the dishes. Mission accomplishment is the true threshold of this industry for 300 years, far preceding culinary skill.
+강풍과 폭우가 몰아치고 다리가 끊기며 길이 무너져도, 주최 측이 취소하지 않는 한 총포사는 어떻게든 음식을 상 위에 올려놓아야 한다. '임무 완수'는 이 업계에서 요리 실력보다 훨씬 앞서는, 지난 300년간 이어져 온 진정한 문턱이다.
 
-## In a Place Where Only Thorny Bamboo Can Survive, a Kingdom of Master Chefs Grew
+## 가시 대나무만이 살아남을 수 있는 곳에서 피어난 총포사(總鋪師) 왕국
 
-![The mudstone badland of the Gutingkeng Formation in Kaohsiung, with gray-white ridges exposed one after another, almost barren, with sparse green trees and small settlements in the distance](/article-images/food/tianliao-moon-world-badlands-2019.webp)
-_The mudstone badland of the Gutingkeng Formation in the Kaohsiung area, commonly known as the "Moon World." Neimen is located on the edge of this landscape where even crops struggle to grow. Photo: StevenK234, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tianliao_Moon_World_3.jpg)._
+![가오슝 구팅층의 니위안 악지, 회백색 산등성이가 낱낱이 드러나 풀 한 포기 자라기 힘든 모습이며 멀리 드문드문 초록빛 나무와 작은 마을이 보인다](/article-images/food/tianliao-moon-world-badlands-2019.webp)
+_가오슝 일대의 구팅층(古亭坑層) 니위안 악지는 속칭 「월세계(月世界)」라고 불린다. 네이먼은 농작물조차 자라기 힘든 이러한 지형 옆에 자리 잡고 있다. Photo: StevenK234, 2019. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tianliao_Moon_World_3.jpg)._
 
-To understand how this martial field discipline was forged, one must first look at a land that is difficult to farm.
+이러한 무대(武場)의 규율이 어떻게 형성되었는지 이해하려면, 우선 무엇 하나 키우기 힘든 땅을 먼저 살펴보아야 한다.
 
-The place with the densest concentration of Taiwanese Master Chefs is Neimen, Kaohsiung. Neimen is located on the mudstone badland of the Gutingkeng Formation—the landscape commonly known as the "Moon World," with gray-white slopes that are barren. _Taiwan Kwanghsa Magazine_ describes this geology: "The cementation and permeability of mudstone are low; it softens into mud when wet and cracks and peels when dry. Coupled with the high salinity of marine sedimentary soil, plant growth is difficult" [^7]. On these barren slopes where even crops struggle to grow, only drought-resistant thorny bamboo can survive; mangoes and bananas can only be grown in areas with thicker cretaceous soil, and because they grow slowly, they are sweeter [^7].
+타이완에서 총포사(總鋪師, 반저 전문 요리사)가 가장 밀집된 곳은 가오슝 네이먼이다. 네이먼은 구팅층의 니위안 악지 위에 자리 잡고 있다. 이는 속칭 「월세계」라 불리는 지형으로, 회백색 산비탈에 풀 한 포기 없이 황량하며 네이먼, 텐랴오, 옌차오 일대에 걸쳐 펼쳐져 있다. 타이완 광화잡지는 이 지질을 다음과 같이 묘사한다. 「니위안은 결합력과 투수성이 낮아 물을 만나면 진흙처럼 부드러워지고, 건조해지면 갈라지고 박리된다. 여기에 해상 퇴적토의 염분이 높아 식물이 자라기 어렵다.」[^7] 농작물조차 자라기 힘든 이러한 악지 사면에는 가뭄에 강한 가시 대나무만이 거의 유일하게 살아남는다. 백토(白堊土)가 비교적 두꺼운 지역에 이르러서야 망고나 바나나를 재배할 수 있는데, 성장이 느린 덕분에 오히려 더 달콤하다[^7].
 
-When the land cannot sustain people, people must seek other ways out. There are two prevailing theories for why Neimen became the hometown of Master Chefs, each with its own source.
+땅이 사람을 먹여 살리지 못하면, 사람은 다른 길을 찾아야 한다. 네이먼이 왜 총포사의 고향이 되었는지에 대해서는 두 가지 설이 공존하며 각각의 근거를 가지고 있다.
 
-One theory comes from _The Reporter_'s interview: In early days, Neimen people made bamboo baskets for livelihood, supplying banana farmers in Qishan for export packaging; when paper boxes took over the market in the 1960s, the bamboo weaving industry declined. Coinciding with the rise of Bando, many craftsmen switched to cooking [^8]. The other theory comes from local officials and cultural workers: Neimen has many temples and troupes; the Songjiang Array is a local signature, and every festival requires feeding large numbers of participants. This repeated demand for "providing meals" gave rise to professional Master Chefs [^9]. Whether it was bamboo weavers switching trades or temple festivals requiring feeding, both lines point to the same thing—this land forced people to develop a profession relying on craft for survival.
+한 가지 설은 《더 리포터(報導者)》의 인터뷰에서 비롯되었다. 과거 네이먼 사람들은 대나무 바구니를 만들어 치산(旗山)의 바나나 농가에 수출용 상자로 공급하며 생계를 유지했다. 1960년대에 종이 상자가 시장을 대거 점유하면서 대나무 공예 산업이 쇠퇴했는데, 마침 반저(辦桌) 문화가 흥행하면서 수많은 장인이 요리 업계로 전업하게 되었다[^8]. 다른 한 가지는 지역 관공서와 문사 연구가들의 설명이다. 네이먼은 사찰과 행렬(陣頭)이 많으며, 송강진(宋江陣)만 해도 지역의 명물이다. 제례 때마다 참여하는 수많은 인원에게 음식을 제공해야 하는데, 이러한 반복적인 「식사 준비」 수요가 전문 총포사를 탄생시켰다는 것이다[^9]. 대나무 공예의 전업이든 사찰 축제의 음식 공급이든, 두 갈래 모두 하나의 사실을 가리킨다. 이 땅이 사람들에게 기술에 의지해 먹고살 수 있는 직업을 발전시키도록 몰아붙였다는 점이다.
 
-At its peak, Neimen had a population of about 14,000, yet there were about 150 groups of Master Chefs. Almost every 5 households had one household relying on Bando for livelihood, capable of cooking over 20,000 tables simultaneously [^2]. This is the densest cluster of Master Chefs in Taiwan. (This figure comes from research compiled by Chang Yu-hsin in 2007 and Tang Yu-ning in 2016 at I-Shou University, not from a recent census [^2].)
+전성기 시절 네이먼 전체 인구는 약 1만 4천 명이었으나, 총포사 팀은 약 150팀에 달했다. 거의 5가구 중 1가구가 반저로 생계를 유지했으며, 동시에 2만 상(桌) 이상을 요리할 수 있는 규모였다[^2]. 이는 타이완에서 가장 밀집된 총포사 집단이다. (이 수치는 최근의 전수 조사 결과가 아니라, 장위신(張玉欣)의 2007년 연구와 탕위닝(湯淯甯)의 2016년 의수대학교 석사 논문을 정리한 것이다[^2].)
 
 ```tw-figure
-150 Groups → 30-40 Groups
-The number of Master Chefs in Neimen has dropped to about one-quarter of its peak (estimated by Xue Meng-hui)
-The Reporter, 2020
+150팀 → 30~40팀
+네이먼 전성기 대비 현재 약 4분의 1 수준의 총포사 (쉐멍후이 추정)
+더 리포터, 2020
 ```
 
-The inheritance of this craft relies on the master-apprentice system. Once kitchen assistants accumulate enough experience, they can graduate; second and third chefs then establish their own households. In the early days, apprenticeship was passed down like "Soup Pork Knuckle"—master takes apprentice, apprentice takes apprentice—spreading Bando technology across Taiwan generation by generation [^8]. The key step that turned Neimen from a group of craftsmen into an industry occurred in 1976: Xue Qing-ji formed a "Four-in-One" company with several partners (including Deng Zheng-ping, as well as meat and vegetable vendors), integrating ingredient supply, cooking, and table/chair rental. Bando became a business with a complete supply chain, handling everything from ingredients to cooking to tables and chairs in one go [^8].
+이 기술의 전승은 도제식 교육에 의존했다. 수각(水腳, 보조 요리사)으로서 충분한 경험을 쌓으면 독립할 수 있었고, 이인(二廚), 삼인(三廚)이 차례로 각자의 문파를 세웠다. 초기에는 「탕주각(湯豬腳)」 방식의 사제 관계(스승이 제자를 받고, 그 제자가 다시 제자를 받는 방식)를 통해 대를 이어 반저 기술을 타이완 전역으로 퍼뜨렸다[^8]. 그리고 네이먼을 단순한 기술자 집단에서 하나의 산업으로 탈바꿈시킨 결정적인 단계는 1976년에 일어났다. 쉐칭지(薛清己)가 동료들(덩정핑을 비롯한 육류 상인, 채소 상인 등)과 함께 '사합일(四合一)' 회사를 설립하여 식재료 공급, 조리, 테이블 및 의자 대여를 통합한 것이다. 이때부터 반저는 식재료와 조리부터 집기 대여까지 일괄 처리하는 완전한 공급망을 갖춘 비즈니스가 되었다[^8].
 
-Today, Xue Meng-hui estimates that Neimen has only about 30 to 40 Master Chefs left, about one-quarter of its peak [^8]. The kingdom remains, but the people are scattering.
+현재 쉐멍후이의 추정에 따르면, 네이먼에는 이제 약 30~40개의 총포사만이 남아 있으며, 이는 전성기의 약 4분의 1 수준이다[^8]. 왕국은 여전히 존재하지만, 사람들은 흩어지고 있다.
 
-## In Ledgers from 300 Years Ago, "Hire a Master Chef for Bando" Was Already Recorded
+## 300년 전 장부에도 기록된 「총포(總鋪)에 반저를 부탁함」
 
-Many people think Bando is something that emerged in post-war Taiwan. It is not. Its roots can be traced back to the Qing Dynasty.
+많은 이들이 반저(辦桌, pān-toh)가 타이완의 전후(戰後)에 생긴 문화라고 생각한다. 하지만 그렇지 않다. 그 뿌리는 청나라 시대까지 거슬러 올라간다.
 
-The _Taiwan County Gazette_ (compiled by Chen Wen-da in 1720) from the late Kangxi reign already recorded that Taiwanese people "feast lavishly for family celebrations and seasonal festivals"; by the _Changhua County Gazette_ (compiled by Zhou Xi in 1835) during the Daoguang reign, it described the grandeur of banquets where "dishes exhaust the mountains and seas" [^1]. In 1902, an article titled "Miscellaneous Notes on Banquets and Dishes" in the early Japanese colonial period formally included the term "Bando" in literature, explaining it clearly: "Preparing tables, organizing wine and food, and setting up banquets is called 'Bando'" [^10]. This article comes from _Records of Taiwanese Customs_—a monthly journal published by the Taiwan Customs Research Society (note: this is a different institution from the "Temporary Taiwan Customs Investigation Commission" of the same period, often confused) [^10].
+청나라 강희제 말기에 편찬된 《臺灣縣志》(진원다, 1720년 완간)에는 이미 타이완 사람들이 「집안에 경사가 있거나 명절이 되면 반드시 풍성하게 손님을 대접한다」라고 기록되어 있다. 도광 연간의 《彰化縣志》(주희, 1835년)에는 연회 음식이 「산해진미가 넘쳐났다」는 성황을 더욱 상세히 적고 있다[^1]. 1902년 일제 강점기 초기, 〈연회 및 요리에 관한 잡화〉라는 글에서 '반저'라는 용어가 문헌에 정식으로 등장하며 다음과 같이 명확하게 설명한다. 「상을 차리고 술과 음식을 준비하며 연회를 여는 것을 『반저』라 한다.」[^10] 이 글은 《臺灣慣習記事》: 타이완 관습 연구회에서 발행한 월간지에 실린 것이다(주의할 점은, 이것이 동시대의 「임시 타이완 구관 조사회」와는 다른 기관이며 흔히 혼동되곤 한다는 사실이다)[^10].
 
-So, when did the business of "Bando" actually start?
+그렇다면 '반저'라는 사업은 도대체 언제부터 시작되었을까?
 
-Zeng Pin-cang, Deputy Researcher at the Institute of Taiwan History, Academia Sinica, points out based on Qing Dynasty ledgers and diaries that Taiwanese people in the Qing Dynasty already commissioned professional chefs for Bando during weddings, funerals, and sacrifices [^11]. The evidence lies in the ledgers: ledgers of the Wufeng Lin family in the late Qing Dynasty clearly record entries like "Hire 'Zongpu' (Master Chef) for Bando, cost per table" [^11]. Zeng Pin-cang infers that this habit of commissioning professional chefs for banquets can be traced back to the Kangxi period [^11]. Looking further to the source, the origin of Bando lies in Min-Yue (Fujian and Guangdong)—the banquet culture traditionally called "Bao Jiu" (Organizing Wine) or "Dao Hui" (Cooking Out) in Fujian and Guangzhou areas, which crossed the sea to Taiwan with Qing Dynasty immigrants [^12].
+중앙연구원 타이완사 연구소의 쩡핀창(曾品滄) 부연구원은 청나라 시대의 장부와 일기를 바탕으로 한 연구를 통해, 청나라 시대 타이완 사람들이 혼례, 상례, 제례 시 이미 전문 요리사에게 반저를 의뢰했음을 지적했다[^11]. 증거는 장부에 남아 있다. 예를 들어 청말 우펑 린가(霧峰林家)의 장부에는 「'총포(總鋪)'에 반저를 부탁함, 한 상에 얼마를 사용함」과 같은 항목이 명확히 기록되어 있다[^11]. 쩡핀창은 이러한 전문 요리사에게 연회를 의뢰하는 습관이 강희제 시기까지 거슬러 올라갈 수 있다고 추정한다[^11]. 그 근원을 더 깊이 살펴보면 반저의 유래는 민월(閩粵) 지역에 있다. 푸젠성과 광둥 일대의 전통적인 연회 문화인 '반주(辦酒)' 또는 '다오후이(到燴)'가 청나라 이주민들과 함께 바다를 건너 타이완으로 들어온 것이다[^12].
 
-However, from the Qing Dynasty to before the 50th year of the Republic of China (1960s), Bando was very different from what it is today. In cities, restaurants provided catering; in rural areas, people mostly relied on villagers with slightly better cooking skills to work part-time. The dishes were limited, and ingredients were often prepared by the host themselves; wealthier families had dedicated "Kitchen Women" (Zaoxia Fu) to help manage [^13]. True professionalization began around the 1960s—the 50th year of the Republic of China. When villagers discovered that "the profit from part-time Bando exceeded farming," this craft gradually became professional, peaking in the 1970s and 80s [^13].
+하지만 청나라부터 민국 50년대(1961년) 이전까지의 반저는 오늘날의 모습과는 매우 달랐다. 당시 도시에서는 주루(酒樓)가 출장 요리를 제공했고, 농촌에서는 대부분 요리 솜씨가 조금 좋은 마을 주민을 불러 겸업으로 맡겼다. 메뉴는 제한적이었으며 식재료조차 집주인이 직접 준비하는 경우가 많았다. 비교적 부유한 집안에는 전문적인 「조하부(灶下婦)」가 일을 도와주기도 했다[^13]. 진정한 의미의 직업화는 대략 1960년대(민국 50년대)에 이르러서야 시작되었다. 마을 주민들이 「겸업으로 하는 반저의 이윤이 농사보다 낫다」는 것을 깨달으면서, 이 기술은 단계적으로 전문화되었고 1970~80년대에 정점에 도달했다[^13].
 
-> **💡 Did You Know:** The Hokkien pronunciation of Bando is **pān-toh**, and Master Chef is **tsóng-phòo-sai**. The character "Shi" (Master) is a term of respect in Taiwanese folklore for professional craftsmen [^14]—just like "Tu Shui Shi" (Plumber/Mason) or "Mu Shi" (Carpenter). It is evidence that this craft is respected as an "art."
+> **💡 알고 계셨나요:** 반저는 타이완어(대만어)로 **pān-toh**라고 읽으며, 총포사(總鋪師)는 **tsóng-phòo-sai**라고 읽는다. 여기서 「사(師)」라는 글자는 타이완 민속에서 전문 장인을 높여 부르는 존칭이다[^14]. 이는 「토수사(土水師)」나 「목사(木師)」와 마찬가지로, 이 기술이 하나의 '예술(藝)'로서 존중받고 있음을 보여주는 증거이다.
 
 ```tw-timeline
-1720 | *Taiwan County Gazette* Completed | Recorded Taiwanese people "feasting lavishly for family celebrations and seasonal festivals"
-1902 | "Bando" Enters Literature | *Records of Taiwanese Customs* records "Preparing tables, organizing wine and food, setting up banquets is called Bando"
-1960s | Moving Towards Professionalization | Part-time Bando profits exceeded farming, the industry quietly emerged
-1980s | Peak | Neimen peak period hosted over 2,000 tables per month
-2003 | Client Loss | Industry moved west, old clients didn't hire for two consecutive years
-2020 | Longest Winter | Catering and group meal contracting industry April revenue down 32.3% YoY
-2025 | Dishes Revive | Five-star hotel Bando, Michelin Bando dishes, overseas returning to Taiwan for Bando
-Source: *Records of Taiwanese Customs*, Zeng Pin-cang research, The Reporter, Ministry of Economic Affairs, TaiwanPlus
+1720 | 《臺灣縣志》 완간 | 타이완인의 「집안 경사 및 명절 시 풍성한 연회」 기록
+1902 | 「반저」 문헌 등장 | 《臺灣慣習記事》에 「상을 차리고 술과 음식을 준비하며 연회를 여는 것을 반저라 함」 기록
+1960년대 | 전문화 단계 | 겸업 반저 이윤이 농사를 상회하며 산업의 기틀 마련
+1980년대 | 정점기 | 네이먼(內門) 지역 전성기 시절 월 2,000상 이상 소화
+2003 | 고객 감소 | 산업의 서진(西進), 기존 고객의 의뢰가 2년 연속 끊김
+2020 | 가장 긴 겨울 | 출장 요리 및 단체 급식업 4월 매출 전년 대비 32.3% 감소
+2025 | 반저의 부흥 | 5성급 호텔 반저, 미쉐린 반저 요리, 해외 거주자의 귀국 반저 수요 발생
+출처: 《臺灣慣習記事》, 쩡핀창 연구, 더 리포터, 경제부, TaiwanPlus
 ```
 
-## The Sequence of Twelve Dishes Hides a Whole Set of Invisible Knowledge
+## 12가지 요리의 순서에 담긴 보이지 않는 지식 체계
 
-If the martial field discipline is the bone of Bando, then what follows is its soul.
+만약 무장(武場)의 규율이 반저우(辦桌, 판저)의 골격이라면, 지금부터 이야기할 내용은 그 혼(魂)이다.
 
-A standard Bando usually has 12 to 14 dishes, with a sequence of beginning, development, turn, and conclusion: Cold plates are served first to open the appetite while waiting for guests to sit; then soup warms the stomach; then the climax of main dishes—the most luxurious seafood or meat, such as lobster, red crab, or Buddha Jumps Over the Wall, appear here, divided into "commoner version" and "noble version" based on each table's budget; after the climax, a palate-cleansing soup is served, followed by re-opening the appetite with heavy-flavor bamboo shoot braised pork or pork ribs; the final dish is chicken soup to conclude, with dessert and fruit to finish [^15]. (This dish sequence is a consensus accumulated by Master Chefs and food media over years.)
+표준적인 반저우는 보통 12~14가지 요리로 구성되며, 그 순서에는 기승전결이 있다. 먼저 냉채를 내어 입맛을 돋우며 손님들이 자리에 앉기를 기다린다. 그다음에는 국물 요리로 위장을 따뜻하게 데운다. 이어서 메인 요리의 절정이 등장한다. 가장 호화로운 해산물이나 육류, 즉 랍스터, 홍순(紅蟳, 꽃게의 일종), 불도장 등이 이때 등장하며, 각 상의 예산에 따라 '서민형'과 '귀족형'으로 나뉜다. 절정이 지나면 느끼함을 잡아줄 국물을 내고, 다시 맛이 강한 슌간(筍乾, 말린 죽순)을 곁들인 펑러우(封肉, 돼지고기 찜)나 돼지갈비로 입맛을 다시 돋운다. 마지막으로 닭 육수로 마무리하고 디저트와 과일을 내놓으며 끝을 맺는다[^15]. (이러한 출식 순서는 총포사(總鋪師, 반저우 총괄 요리사)와 음식 매체들이 오랜 기간 쌓아온 공감대이다.)
 
-It is worth noting that lobster is not actually a "traditional" Bando dish. It only became the protagonist after the Ten Major Construction Projects and economic takeoff in the 1960s; earlier Bando tables more commonly featured stir-fried rice noodles, white-cut chicken, celery squid soup, and meatball soup—for many people, Bando was one of the few occasions to eat meat back then [^16]. Even the most majestic Buddha Jumps Over the Wall was originally called "Fu Shou Quan" (Longevity and Fortune Complete), originating from a family banquet of a Fuzhou official during the Guangxu reign of the Qing Dynasty [^17].
+언급할 만한 점은, 사실 랍스터는 '전통적인' 반저우 요리가 아니라는 것이다. 1960년대 10대 건설 사업과 경제 성장이 이루어진 이후에야 주인공 자리를 차지했다. 초기 반저우 상에는 볶음 쌀국수(炒米粉), 백참계(白斬雞, 삶은 닭 요리), 셀러 오징어탕, 완자탕 등이 더 흔했다. 많은 이들에게 반저우는 당시 드물게 고기를 먹을 수 있는 자리였다[^16]. 가장 화려한 불도장조차 원래 이름은 '복수전(福壽全)'이었으며, 이는 청나라 광서 연간 한 푸저우 관료의 가연(家宴)에서 유래했다[^17].
 
-But the truly unique aspect of Bando lies behind the dishes: these dishes are placed into a **communal eating cosmology**. Research from the National Museum of Taiwan History divides Bando communal eating into three types, which form the theoretical skeleton for understanding Bando's "soul" [^15]:
+하지만 반저우가 진정으로 독특한 지점은 요리 그 너머에 있다. 이 요리들은 **공식(共食, 함께 먹음)의 우주관** 속에 배치되어 있다. 국립 타이완 역사 박물관의 연구에 따르면 반저우의 공식은 세 가지로 나뉘는데, 이는 반저우의 '혼'을 이해하는 학술적 골격이다[^15]:
 
-The first is **Human-Divine Communal Eating**. Banquets for seasonal festivals are where humans and deities share offerings together; Taiwanese call this "Receiving Divine Blessings through Eating" [^15]. The second is **Human-Ghost Communal Eating**. Gatherings for ancestral associations, sacrificial trusts, and Zhongyuan (Ghost Festival) banquets are where humans eat with ancestors and "good brothers" (ghosts), thereby remembering ancestors and establishing harmony with beings in another world [^15]. The third is the **Host-Guest Communal Eating** we are most familiar with—banquets for life rituals celebrating various stages of life, and association gatherings consolidating interpersonal relationships [^15]. A single Bando event may span the human, divine, and ghost realms simultaneously.
+첫 번째는 **인신공식(人神共食)**이다. 명절이나 제사 때 차려지는 연회는 사람과 신명이 함께 제물을 즐기는 것으로, 타이완 사람들은 이를 「의신식복(依神食福)」이라 부른다. 즉, 먹는 것은 곧 신명의 가호라는 의미이다[^15]. 두 번째는 **인귀공식(人鬼共食)**이다. 조상회나 제사 공업의 모임 연회, 그리고 중원절(中元節)의 보도(普度) 연회는 사람과 조상, 그리고 '호형제(好兄弟, 귀신을 완곡하게 이르는 말)'가 함께 식사하는 것이다. 이를 통해 선인을 추모하고 다른 세계의 존재와 화해를 도모한다[^15]. 세 번째가 우리가 가장 잘 아는 **주객공식(主客共食)**이다. 생명 의례나 경사스러운 잔치를 통해 인생의 각 단계를 축하하고, 친목 모임을 통해 인간관계를 공고히 하는 것이다[^15]. 하나의 반저우는 사람, 신, 귀신이라는 삼계(三界)를 동시에 가로지를 수 있다.
 
-This is why the Master Chef is simultaneously the host's **folkloric consultant**. As described by practitioners in _The Reporter_'s interview: "How to prepare for a full-month ceremony? How to arrange offerings? Which foods cannot be served on specific occasions? Ask them, and they know best" [^5].
+이것이 바로 총포사가 주최 측의 **민속 고문** 역할을 겸하는 이유이다. 《報導者》의 인터뷰에서 업자는 이 역할을 다음과 같이 설명한다. "만월(滿月, 백일/돌 전후 잔치) 선물은 어떻게 준비해야 하는지, 제물은 어떻게 차려야 하는지, 특정 상황에서 상에 올리면 안 되는 음식은 무엇인지 물어보면 그들이 가장 잘 안다."[^5]
 
-> **📝 Curator's Note**
+> **📝 큐레이터 노트**
 >
-> It is easy to think of Bando as "a larger-scale meal," but this framework misses its most critical element. What Bando truly sells is **a correspondence between timing and meaning**—which table matches which life moment, which dishes are auspicious, inauspicious, or taboo for which occasion. This correspondence is not written in any recipe; it exists in the Master Chef's mind and in the muscle memory of one event after another. When we later see "Bando dishes entering five-star hotels," remember: hotels can buy recipes, but they cannot buy this correspondence. What is disappearing is the latter.
+> 우리는 반저우를 단순히 '규모가 큰 식사'로 생각하기 쉽지만, 그런 틀로는 이 문화의 핵심을 놓치게 된다. 반저우가 실제로 판매하는 것은 사실 **시기와 의미의 대응 관계**이다. 어떤 인생의 순간에 어떤 상차림이 어울리는지, 어떤 음식이 어떤 상황에서 길(吉)한지, 흉(凶)한지, 혹은 금기인지에 대한 체계 말이다. 이 대응 관계는 어떤 레시피에도 적혀 있지 않다. 그것은 총포사의 머릿속에, 그리고 수많은 실전 경험을 통한 근육 기억 속에 존재한다. 나중에 '반저우 요리가 5성급 호텔에 들어갔다'는 소식을 듣게 된다면 기억해야 한다. 호텔은 레시피를 살 수는 있어도, 이 대응 관계까지 살 수는 없다. 사라지고 있는 것은 바로 후자이다.
 
-What does this correspondence look like specifically? The meticulousness of it can be seen in the compilation by folkloric researcher Zhang Yun-shu [^18]: Full-month tables use whole chickens, taking the meaning of "completeness" to symbolize perfection (although the true core of the full-month ceremony is actually oil rice, chicken wine, and red eggs); funeral banquets must have an odd number of dishes, 7 or 9, with a "triangular meat" (sann-kak-bah) with a missing corner on the table, using the shape's imperfection to symbolize the loss in the bereaved family's heart, while avoiding ingredients with specific homophones or meanings like lotus seeds, bitter melon, and pineapple; wedding banquets must have chicken (starting a family), fish (surplus), braised pork (promotion), and pork stomach (wishing the bride "big belly"), and red crab rice cake must specially select female crabs with many eggs, seeking the auspicious meaning of "having noble children early" [^18].
+그렇다면 이 대응 관계는 구체적으로 어떤 모습일까? 민속 연구가 장윈수(張耘書)의 정리를 통해 그 치밀함을 확인할 수 있다[^18]. 만월 상에는 '완전함'을 기원하며 통닭을 사용해 십전십미(十全十美)를 상징한다(비록 만월의 진짜 핵심은 유판, 계주, 홍단이다). 상례 연회의 요리 가짓수는 반드시 홀수(7가지 또는 9가지)여야 하며, 상에는 모서리가 빠진 '삼각육(sann-kak-bah)'을 올려 형태의 결손으로 상주의 마음속 허전함을 상징하기도 한다. 동시에 연꽃 씨앗, 여주, 파인애플처럼 특정 발음이나 의미가 불길한 식재료는 금기시한다. 혼례 연회에는 반드시 닭(가문의 시작), 물고기(여유), 펑러우(승진), 돼지 위(신부의 '복부'를 축복)가 있어야 하며, 홍순 미고(紅蟳米糕)는 알이 많은 암컷 게를 특별히 골라 '조생귀자(早生貴子, 빨리 아이를 낳음)'의 길조를 기원한다[^18].
 
-> **⚠️ Controversial Viewpoint:** Some Bando taboos circulating in the folk are actually unfounded. For example, "Funeral banquets must have刈包 (Hulao/Tiger Bites Pig)"—Hulao (Tiger Bites Pig) is actually a custom for the Last Day of the Year (December 16th lunar calendar), symbolizing biting away the year's bad luck, having nothing to do with funeral banquets; another saying, "Moving house avoids round balls because 'ball' sounds like 'finished'," has weak origins and directly contradicts the custom of using tangyuan (glutinous rice balls) to symbolize completeness in moving banquets [^19]. When writing about Bando, even taboos must be verified—because if written incorrectly, it damages the credibility of this knowledge.
+> **⚠️ 논쟁적 관점:** 시중에 떠도는 일부 반저우 금기 중에는 민속적 근거가 없는 것들도 있다. 예를 들어 "상례 반저우에는 반드시 가바오(刈包, 허교주)가 있어야 한다"는 말은 사실 위야(尾牙, 음력 12월 16일)의 풍습으로, 한 해의 불운을 깨문다는 의미이지 상례와는 아무런 상관이 없다. 또한 "이사할 때 완자류를 피하는데, 이는 '완료(完了)'와 발음이 비슷하기 때문이다"라는 설도 근거가 희박하며, 오히려 "이사 잔치에 탕위안을 써서 원만함을 상징한다"는 풍습과 정면으로 모순된다[^19]. 반저우에 대해 쓸 때는 금기조차 검증해야 한다. 한 번 잘못 적으면 이 지식 체계 전체의 신뢰성을 해치기 때문이다.
 
-The other side of the soul lies after the banquet ends. After the Bando, the Master Chef mixes the leftovers of each dish into "Vegetable Tail Soup" (also called Mixed Vegetable Soup) and sends it to neighbors who came to help to take home [^20]. This is not disposing of leftovers; it is a symbol of cherishing fortune and gratitude—Taiwan Panorama describes it as a symbol of reciprocity [^20]. A Bando event is the business of the whole village from start to finish; the host never does it alone. And the Vegetable Tail Soup itself is also on the verge of disappearing [^20].
+혼(魂)의 또 다른 면은 연회가 끝난 뒤에 나타난다. 잔치가 끝나면 총포사는 남은 요리들을 모아 '채미탕(菜尾湯, 잡채탕)'을 끓여 도와준 이웃들에게 나누어 준다[^20]. 이는 단순히 남은 음식을 처리하는 것이 아니라, 복을 아끼는 마음(惜福)이자 감사의 표현이다. Taiwan Panorama는 이를 호혜의 상징이라고 묘사했다[^20]. 하나의 반저우는 처음부터 끝까지 마을 전체의 일이며, 주최 측이 혼자 치르는 행사가 아니다. 그리고 이 채미탕 문화 또한 점차 사라져가고 있다[^20].
 
-## The "Black Forest Grand Hotel" on Auspicious Lunar Days
+## 음력 길일에 펼쳐지는 「헤이송 대호텔」
 
-Older generations of masters often use presidential terms to remember the industry's ups and downs.
+기성세대 장인들은 종종 총통의 임기를 기준으로 산업의 부침을 기억하곤 한다.
 
-The 12 years from 1988 to 2000, when Lee Teng-hui served as President, are considered the golden age of Bando. This was not only the era of the traditional "Eight Celebrations and One Funeral"—engagement, marriage, full-month, returning to natal home, opening business, birthday, moving house, death—but also the era where even children getting PhDs or winning pigeon racing prizes would host a banquet [^21]. On auspicious lunar days, the temple square and roadside were full of "Black Forest Grand Hotels." The origin of this name is very Taiwanese: early canvas tents were often provided by beverage companies, printed with Black Forest soda advertisements; over time, "Black Forest Grand Hotel" became a synonym for Bando [^21].
+1988년부터 2000년까지 리덩후이가 총통으로 재임했던 이 12년은 반저우(辦桌)의 황금기로 여겨진다. 그 시절은 단순히 전통적인 「팔경일상」(약혼, 결혼, 만월, 귀녕, 개시, 수연, 입초, 왕생)이 있던 시대만이 아니었다. 아이가 박사 학위를 따거나 비둘기 경주에서 돈을 벌기만 해도 반저우를 차리던 시대였다[^21]. 음력 길일만 되면 사찰 입구와 길가는 온통 「헤이송 대호텔」로 가득 찼다. 이 이름의 유래는 매우 타이완적이다. 과거에는 음료 회사가 제공한 캔버스 천막을 자주 사용했는데, 그 위에 헤이송 탄산음료 광고가 인쇄되어 있었다. 시간이 흐르며 「헤이송 대호텔」은 반저우를 상징하는 대명사가 되었다[^21].
 
-![Round tables with red chair covers in Tainan at night, table after table, filled with guests, with storefronts with rolled-down iron gates and parked motorcycles in the background](/article-images/food/bando-street-banquet-tainan-2014.webp)
-_A Bando held directly on the street in Tainan in 2014. Blocking the road, setting up tables, and starting the feast is the most everyday appearance of the "Black Forest Grand Hotel." Photo: Ce Jingzhe, 2014. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014-12-07_a_banquet_on_street_in_Tainan.jpg)._
+![밤의 타이난 거리, 빨간 의자 커버가 씌워진 원형 탁자들이 줄지어 놓여 있고 손님들로 가득 차 있다. 배경에는 철제 셔터가 내려진 상점들과 길가에 세워진 오토바이들이 보인다](/article-images/food/bando-street-banquet-tainan-2014.webp)
+_2014년 타이난, 도로 위에서 직접 펼쳐진 반저우 현장. 거리 통제, 탁자 설치, 연회 시작, 이것이 바로 「헤이송 대호텔」의 가장 일상적인 모습이다. Photo: 測鏡者, 2014. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014-12-07_a_banquet_on_street_in_Tainan.jpg)._
 
-How prosperous that era was is best remembered by Xue Meng-hui through the work diary left by his father, Xue Qing-ji.
+그 시절이 얼마나 번성했는지는 쉐멍후이가 아버지 쉐칭지로부터 물려받은 업무 일지를 통해 가장 생생하게 기억하고 있다.
 
-> **✦** "The entire yearbook is written full, hosting 25,000 tables in a year." — Xue Meng-hui recalling his father Xue Qing-ji's work diary [^21]
+> **✦** 「연간 달력이 가득 찼다, 1년에 2만 5,000상을 차렸다.」 —— 쉐멍후이가 회상하는 아버지 쉐칭지의 업무 일지[^21]
 
-In Xue Qing-ji's era, even in slow months, the average was still 1,000 tables [^21]. In contrast, in Xue Meng-hui's pre-pandemic period, hosting 500 tables in a peak month was already something to be grateful about, with only a few thousand tables annually [^21]—between one generation, the scale has shrunk several times over.
+쉐칭지의 시대에는 경기가 부진한 달이라 해도 평균 1,000상은 차렸다[^21]. 쉐멍후이 본인의 팬데믹 이전 시기와 비교하면, 성수기에 500상만 차려도 다행이었으며 연간 수천 상에 불과했다[^21]. 한 세대 사이에 규모가 몇 배나 축소된 것이다.
 
-The turning point was around 2003 (the third year of Chen Shui-bian's presidency). Taiwan's industry moved west in large numbers, and small and medium enterprise clients decreased one by one. An old client didn't hire Bando for two consecutive years; upon inquiry, it turned out the company had gone bankrupt [^21]. The tail end of the golden age began with unanswered phone calls.
+전환점은 대략 2003년(천수이볜 집권 3년 차) 무렵에 찾아왔다. 타이완의 산업이 대거 중국 본토로 진출하면서 중소기업 고객들이 하나둘씩 줄어들었다. 어떤 단골 고객은 2년 연속 반저우를 주문하지 않아 확인해 보니 회사가 이미 망했다는 소식도 있었다[^21]. 황금기의 종말은 걸려오지 않는 전화 한 통 한 통으로부터 시작되었다.
 
-## Forty Years Old is Considered Young: A Fading Generational Gap
+## 마흔 살은 젊은 나이: 끊겨가는 세대 간의 연결고리
 
-The shrinking of an industry can be due to economic cycles, waiting for the next cycle. But what Bando faces is something harder to turn back—**the generational gap in succession**.
+산업 규모가 줄어드는 것은 경기 문제일 수 있으며, 다음 순환 주기를 기다리면 해결될 수 있다. 하지만 반저우(辦桌) 업계가 직면한 문제는 되돌리기 훨씬 어려운 것이다. 바로 **세대 간의 승계 단절**이다.
 
-Li Jun-xiang, a Master Chef from New Taipei, speaks plainly: "For catering chefs, 40 years old is considered young; mostly, they take over because of family connections. Among 30-year-old chefs, you can't find 2 out of 10; kitchen assistants are generally aging" [^22]. Another Master Chef, Jiang Yi-yong, offers a more specific observation: Only about 2% of culinary school graduates ultimately enter catering [^23]. The reason is understandable—"For noon banquets, departure is at 3:30 AM, long working hours, hot stoves" [^23]. If young people have choices, they prefer working in air-conditioned restaurants.
+신베이시의 총포사(總鋪師) 리쥔샹(李均祥)은 솔직하게 말했다. "출장 요리사는 40세라야 젊은 축에 속한다. 주로 집안 내력이 있어야 일을 물려받는다. 30대 요리사는 10명 중 2명을 찾기 힘들 정도로 숙련공들의 고령화가 일반적이다."[^22] 또 다른 총포사 장이융(江義勇)의 관찰은 더 구체적이다. 외식 관련 학교 졸업생 중 최종적으로 출장 요리 분야에 투신하는 인원은 약 2%에 불과하다.[^23] 그 이유는 이해하기 어렵지 않다. "점심 영업을 하려면 새벽 3시 반에는 출발해야 한다. 노동 시간은 길고 화구 앞은 뜨겁다."[^23] 젊은이들에게 선택권이 있다면, 차라리 에어컨이 나오는 레스토랑에서 일하는 쪽을 택할 것이다.
 
-Talent is draining, and the craft is breaking with it. Older masters did everything from slaughtering pigs and chickens to making pudding and baking cakes; now, with outsourced frozen foods, apprentices in the kitchen cannot learn the complete picture, and those most labor-intensive "hand-road dishes" (shoulou cai) are disappearing one by one [^24].
+인재가 유출되면서 기술 또한 함께 끊기고 있다. 기성세대 요리사들은 돼지 잡는 법부터 닭 잡는 법, 푸딩 만들기, 케이크 굽기까지 모든 과정을 스스로 해냈다. 하지만 이제는 외주 냉동 식품이 들어오면서 도제들이 주방에서 완전한 기술을 배울 수 없게 되었고, 가장 손이 많이 가는 '수로차이(手路菜, 전통 비법 요리)'들도 하나둘 사라지고 있다.[^24]
 
-The legendary "Chicken-Pork Stomach Turtle" in the movie _The Master Chef_ is the best example—stuffing a softshell turtle into a native chicken's stomach, then stuffing the whole chicken into a pig's stomach, slow-cooking for 3 hours. The process is so cumbersome that almost no one is willing to do it [^25]. The "Chestnut Chicken" popular 40 years ago is already unknown to young chefs; others like Bone-Changing Penne Eel, Bag Chicken, and Five-Silk Branch are also on the verge of disappearing [^24]. (However, it should be noted: Braised pork and red crab rice cake, although labor-intensive, are still very common and not considered disappearing.) The one who left the most records for these dishes is Huang Wan-ling, the Godmother of Taiwanese cuisine—she was the food director for the movie _The Master Chef_, spending over ten years going to the countryside to visit and preserve those disappearing Taiwanese dishes [^25].
+영화 《총포사》에 등장하는 전설적인 '지자이주두별(雞仔豬肚鱉)'이 바로 좋은 예다. 자라를 토종닭의 뱃속에 넣고, 다시 그 닭을 돼지 위장에 넣어 3시간 동안 뭉근하게 끓여내는 요리로, 공정이 너무 번거로워 거의 아무도 만들려 하지 않는다.[^25] 40년 전 유행했던 '율자계(栗子雞)'는 젊은 요리사들이 이미 만들 줄 모른다. 그 외에도 환골통신만(換骨通心鰻), 부대계(布袋雞), 오류지(五柳枝) 등도 실전 기술이 전수되지 못하고 사라질 위기에 처해 있다.[^24] (단, 펑러우(封肉)나 홍순미고(紅蟳米糕)는 손이 많이 가긴 하지만 오늘날에도 여전히 흔히 볼 수 있으며, 소멸 단계에 있는 것은 아니다.) 이러한 요리들에 대해 가장 많은 기록을 남긴 인물은 타이완 요리의 대모 황완링(黃婉玲)이다. 그녀는 영화 《총포사》의 음식 총감독으로서 10년 넘게 시골을 다니며 사라져가는 타이완 전통 요리를 찾아내고 보존하는 데 힘썼다.[^25]
 
-> **📝 Curator's Note**
+> **📝 큐레이터 노트**
 >
-> Note an unspoken choice here. The market actually gave the Bando industry an easy path: using frozen meal packs and semi-finished products, one can still serve 12 dishes, and guests probably won't notice. Taking this path allows the industry to survive longer. But the cost is that those hand-road dishes requiring oral transmission and hand-teaching between master and apprentice will quietly die on this path—not because no one likes to eat them, but because no one needs to learn them. Crafts are rarely eliminated by new things; more often, they are bypassed bit by bit by "good enough."
+> 여기서 말하지 않은 선택지가 하나 있다. 시장은 사실 반저우 업계에 쉬운 길을 제시했다. 냉동 밀키트나 반제품을 사용하면 똑같이 12가지 요리를 상에 올릴 수 있고, 손님들도 대부분 알아채지 못한다. 이 길을 택하면 산업은 더 오래 생존할 수 있다. 하지만 그 대가로 스승과 제자 사이의 구전과 실습을 통해서만 배울 수 있는 '수로차이'들은 이 길 위에서 조용히 죽어갈 것이다. 사람들이 먹기 싫어해서가 아니라, 아무도 배울 필요를 느끼지 못하기 때문이다. 기술은 새로운 것에 의해 도태되는 경우보다, '이 정도면 충분하다'는 타협에 의해 조금씩 우회하며 사라지는 경우가 더 많다.
 
-## The Longest Winter
+## 가장 길었던 그 겨울
 
-If the generational gap is a chronic disease, then the 2020 pandemic was an acute illness.
+세대 간의 단절이 만성 질환이라면, 2020년의 팬데믹은 급성 질환이었다.
 
-_The Reporter_ interviewed nearly 10 Master Chefs from north and south at the time. The consensus was: the number of catering tables shrank by at least 90% starting from the Lunar New Year (this is a consensus from interviews, not official statistics) [^26]. Xue Meng-hui alone had over 500 tables canceled in the lunar months of February and March; a second-generation heir from a Bando family, who usually used a large spatula for stir-frying big pots, had to switch to holding a small soup spoon to pack bento boxes for survival [^26].
+《報導者》가 당시 남북 지역에서 약 10명의 총포사(總鋪師, 연회 요리 책임자)를 인터뷰했을 때 얻은 공통된 의견은 다음과 같다. 출장 요리(외회)의 예약 테이블 수가 설 연휴를 기점으로 최소 90% 이상 급감했다는 것이다(이는 인터뷰를 통해 얻은 공통된 의견이며, 공식 통계는 아니다)[^26]. 쉐멍후이(薛孟輝)의 경우 음력 2, 3월에만 500여 개의 테이블 예약이 취소되었다. 반저우(辦桌) 가문의 2대째를 잇는 이들은 평소 커다란 솥 요리를 할 때 대형 뒤집개를 사용해 왔으나, 그 시기에는 작은 국자를 들고 도시락을 하나씩 담으며 생계를 이어가야만 했다[^26].
 
-Official numbers also couldn't hold up. Ministry of Economic Affairs statistics show that in April 2020, the revenue of the "Catering and Group Meal Contracting Industry" decreased by 32.3% year-on-year, with monthly revenue of about NT$2.5 billion [^27]. However, this number must be read carefully: it was mainly dragged down by air catering (airline meals), and a large number of open-air Bando events have no business registration and are not within the statistical scope—so for open-air Bando, this number actually **underestimates** the impact it suffered [^27].
+공식 수치 역시 상황을 뒷받받아주지 못했다. 경제부 통계에 따르면, 2020년 4월 '출장 요리 및 단체 급식 계약업'의 매출액은 전년 동기 대비 32.3% 감소했으며, 해당 월 매출액은 약 NT$25억 원이었다[^27]. 다만 이 수치는 주의해서 읽어야 한다. 주로 기내식(항공 식단) 분야의 타격이 반영된 결과이며, 대량으로 이루어지는 노천 반저우는 영업 등록을 하지 않은 경우가 많아 통계 범위에 포함되지 않았기 때문이다. 따라서 노천 반저우 입장에서 보면 이 수치는 실제 받은 충격을 **과소평가**한 것이라 할 수 있다[^27].
 
 ```tw-stat
-90% | Catering tables shrank (Interviewed nearly 10 Master Chefs) | From 2020 Lunar New Year
-32.3% | Catering and group meal contracting industry revenue down YoY | Ministry of Economic Affairs, April 2020
-2% | Culinary department graduates entering catering | Jiang Yi-yong's observation
+90% | 출장 요리 테이블 수 감소 (약 10명의 총포사 인터뷰 결과) | 2020년 설 연휴 이후
+32.3% | 출장 요리 및 단체 급식 계약업 매출액 전년 대비 감소 | 경제부, 2020년 4월
+2% | 외식 관련 학과 졸업생의 출장 요리 업계 유입률 | 장이융(江義勇) 관찰
 ```
 
-Beyond the pandemic, Bando in the north faces a more structural dilemma—space. Li Jun-xiang describes that in the north, Bando requires blocking roads and applying for road rights, and is often reported by neighbors: "Even when we are frying things, neighbors downstairs scold us and report us to the Environmental Protection Bureau for air pollution. Aggressive ones even throw things from upstairs to drive us away" [^28]. Activity centers and elementary school auditoriums in Taipei City are almost never lent for hosting banquets [^28]. In land-scarce urban areas, it is becoming increasingly difficult to find a legal place to set up tables for open-air Bando.
+팬데믹 외에도 북부 지역의 반저우에는 공간이라는 더 구조적인 어려움이 존재한다. 리쥔샹(李均祥)은 북부에서 반저우를 하려면 먼저 도로를 통제하고 도로 사용 권한을 신청해야 하며, 이웃의 신고를 받는 일도 빈번하다고 설명했다. "심지어 우리가 무언가를 튀기고 있으면 옆집 주민이 욕설을 퍼붓거나, 환경국에 대기 오염 유발로 신고하겠다고 위협하기도 한다. 심한 경우에는 위층에서 물건을 던지며 사람을 쫓아내기도 한다."[^28] 또한 타이베이시의 활동 센터나 초등학교 강당은 거의 연회용으로 대여해주지 않는다[^28]. 땅값이 매우 비싼 도시 환경에서 노천 반저우를 위해 합법적으로 테이블을 차릴 수 있는 공간을 찾는 일은 점점 더 어려워지고 있다.
 
-Are all these pressures bad things? Cultural worker Yan Zhen-yu has a different view. He believes the pandemic is both a blow and a stimulus, forcing Master Chefs to improve hygiene standards and seriously consider transformation [^29]. But the deepest fear of interviewed Master Chefs is something else: "We worry not just about this year, but more about everyone not hiring (Bando) becoming a habit" [^29]. _The Reporter_'s conclusion is calm: Bando is tightly linked to the economy, and it is difficult to warm up in the short term [^29].
+이러한 압박이 모두 나쁜 일이기만 할까? 문사(文史) 연구가 옌전위(顏震宇)는 다른 견해를 가지고 있다. 그는 팬데믹이 타격인 동시에, 총포사들이 위생 기준을 높이고 전환을 진지하게 고민하도록 만드는 자극제가 되었다고 생각한다[^29]. 하지만 인터뷰에 응한 총포사들이 마음속 깊이 느끼는 공포는 다른 차원의 문제였다. "우리는 올해뿐만 아니라, 사람들이 (반저우를) 부르지 않는 것이 습관이 될까 봐 더 걱정된다."[^29] 《報導者》의 결론은 냉철했다. 반저우는 경기 상황과 밀접하게 맞물려 있어 단기간 내에 회복되기는 어려울 것이다[^29].
 
-## The Dishes Remain, the Soul Scatters
+## 요리는 남았으나, 혼은 흩어지다
 
-But if the story stops here, it would be terribly wrong.
+하지만 이야기가 여기서 끝난다면 그것은 매우 큰 오산이다.
 
-Because looking back from 2025, Bando is not dying in a single direction. It is actually **bifurcating**—as "dishes" and "brand," it is going up; as a "whole-village ritual," it is sinking down.
+2025년의 관점에서 되돌아보면, 반저우(辦桌)는 일방적으로 사라지고 있는 것이 아니다. 사실 반저우는 **분기**되고 있다. '요리'와 '브랜드'로서는 위를 향해 올라가고 있으며, '마을 전체가 움직이는 의식'으로서는 아래로 가라앉고 있다.
 
-This upward branch is impressive. The _Michelin Guide_ Tainan incorporated Bando dishes into its formal discourse; three restaurants serving Bando dishes—A-Xia Restaurant, Xin Xin Restaurant, and Dong Shang Taiwanese Cuisine—were all selected for Bib Gourmand [^30]. Palais de Chine Hotel in Taipei launched "Taiwanese Bando," directed by Chef Lin Ming-can, with a table costing NT$22,800 plus a 10% service fee, claiming to be the first five-star hotel in Taiwan to formally pay tribute to Bando culture [^31]. The next generation is also taking over: TaiwanPlus reported in August 2025 with the title "Bando Is Back," showing how the new generation uses "Next-Gen Marketing × Parental Craft" to bring Bando back—such as Tofu Master Chef Huang Mao-yuan with his daughter Huang Jia-yu, and Master A-Long with his son A-Xiang [^32]. The English report writes: "Once fading from Taiwan's cultural fabric, this legendary banquet tradition is making a dynamic comeback…" [^32]
+위로 향하는 흐름의 기세는 놀랍다. 《미쉐린 가이드》 타이난에서는 반저우 요리를 공식적인 담론에 포함시켰으며, 반저우 요리를 선보이는 세 곳의 레스토랑인 아샤 판디엔(阿霞飯店), 신신 찬틴(欣欣餐廳), 둥샹 타이차이(東上台菜)가 모두 비브구르망(Bib Gourmand)에 선정되었다[^30]. 타이베이의 팔레 드 친 호텔(Palais de Chine Hotel)은 린밍찬 주방장이 조리하는 '타이완식 반저우'를 선보였는데, 한 상 가격이 NT$22,800에 서비스료 10%가 별도로 붙으며, 타이완의 5성급 호텔 중 반저우 문화에 공식적으로 경의를 표한 첫 사례라고 자처했다[^31]. 다음 세대 또한 바통을 이어받기 시작했다. TaiwanPlus는 2025년 8월 「Bando Is Back」이라는 제목의 보도를 통해, 신세대가 '자녀의 마케팅 × 부모의 기술' 모델로 반저우의 회귀를 이끌고 있다고 전했다. 예를 들어 두부 총포사(總鋪師) 황마오위안과 그의 딸 황자위, 아룽스(阿龍師)와 그의 아들 아샹[^32] 같은 사례가 있다. 영어 보도에서는 이를 다음과 같이 기술했다: "Once fading from Taiwan's cultural fabric, this legendary banquet tradition is making a dynamic comeback…"[^32]
 
-Even overseas is seeing a回流 (return flow). The restaurant Good To Eat in Emeryville, California, has Taiwanese chef Tony Tung (who and her partner Angie Lin are a wife-wife team) treating Bando as a love letter to Taiwan, with the menu named jan ba bae (Bando) [^33]. On January 4, 2025, she invited Neimen Master Chef A-Càn (Master A-Càn) to Taipei to host a traditional Bando for over 400 people, attracting diners from California to fly back to Taiwan specifically to experience it [^33].
+해외에서도 역류 현상이 일어나고 있다. 캘리포니아 에머리빌(Emeryville)의 레스토랑 'Good To Eat'은 타이완 출신 주방장 토니 퉁(Tony Tung, 그녀와 파트너 앤지 린(Angie Lin)은 wife-wife 팀이다)이 반저우를 타이완에 보내는 연애편지로 삼아, 메뉴 이름을 'jan ba bae(辦桌)'라고 지었다[^33]. 2025년 1월 4일, 그녀는 네이먼의 총포사 아찬스(Master A-Càn)를 초청하여 타이베이에서 400여 명 규모의 전통 반저우를 열었으며, 이는 캘리포니아의 미식가들이 이를 체험하기 위해 타이완으로 직접 비행기를 타고 날아오게 만드는 계기가 되었다[^33].
 
 ```tw-versus
-Open-Air Bando (Shrinking) | Refined Bando (Rising)
-Red-and-white canvas tents, opening tables by the road or temple | Five-star hotel banquet halls, Michelin tables
-Departing at 3:30 AM, out of 10 chefs aged 30, can't find 2 | Palais de Chine table NT$22,800, next-gen marketing takes over
-Whole-village ritual | A pilgrimage of cultural experience
+노천 반저우 (위축) | 정교한 반저우 (상향)
+적백색 천막, 길가나 사찰 입구에서 차림 | 5성급 호텔 연회장, 미쉐린 테이블
+새벽 3:30 출발, 30대 기술자 10명 중 2명 찾기 어려움 | 팔레 드 친 한 상 NT$22,800, 자녀 세대의 마케팅 계승
+마을 전체가 움직이는 의식 | 하나의 문화 체험 성지순례
 ```
 
-Looking at these two branches together, the shape of the bifurcation is clear. What is reviving is the "dish" and the "brand"—they can enter five-star hotels, Michelin tables, and California restaurants; what is disappearing is that ritual knowledge. Five-star hotel banquet halls can replicate a pot of Buddha Jumps Over the Wall, but they cannot replicate the tacit understanding of "whole village mobilization, Master Chef as folkloric consultant, vegetable tail soup shared with neighbors." Scarcity has turned Bando dishes into a cultural pilgrimage; California diners are willing to fly half the globe back to Taiwan to eat a meal—but the object of that pilgrimage is losing its habitat: the badland that raised Master Chefs, those temple festivals one after another, that village that calls all neighbors to help.
+이 두 흐름을 함께 놓고 보면 분기되는 형태가 명확해진다. 부활하고 있는 것은 '요리'와 '브랜드'다. 이것들은 5성급 호텔, 미쉐린 테이블, 캘리포니아의 레스토랑으로 진입할 수 있다. 그러나 사라지고 있는 것은 그 의식에 관한 지식이다. 5성급 호텔의 연회장은 불도강(佛跳牆) 한 솥은 복제할 수 있어도, '마을 전체가 움직이고, 총포사가 민속 고문 역할을 하며, 채미탕(菜尾湯)을 이웃에게 나누어 주는' 그 일련의 호흡은 복제할 수 없다. 희소성 때문에 반저우 요리는 하나의 문화적 성지순례가 되었고, 캘리포니아의 미식가들은 지구 반 바퀴를 날아 타이완에서 한 끼를 먹으려 기꺼이 움직인다. 하지만 성지순례자들이 경배하고자 하는 대상은 정작 자신이 생존해 온 서식지를 잃어가고 있다. 총포사를 길러낸 그 거친 땅, 끊임없이 이어지는 사찰 축제들, 그리고 이웃 모두를 불러 도와달라고 할 수 있었던 그 마을 말이다.
 
-Air-conditioned restaurants can grow dishes, but cannot grow a soul.
+에어컨이 나오는 레스토랑은 요리는 만들어낼 수 있어도, 혼(魂)까지 만들어낼 수는 없다.
 
-## That Yearbook Filled with Writing
+## 글자가 가득 적힌 농민력
 
-Back to Xue Qing-ji's yearbook filled with writing.
+글자가 빼곡히 적힌 쉐칭지(薛清己)의 농민력 일지로 돌아가 본다.
 
-That is the object Xue Meng-hui treasures most, and also the most authentic archaeological site of this industry [^21]. The dense orders on the diary—celebration banquets for pigeon racing wins, gratitude seats for PhD graduates, peace banquets for Mazu's birthday at the temple square—record a whole set of things that Taiwanese people once jointly recognized: which moments are worth gathering people away from their tasks, what to eat at that moment, who hosts it, and how to say goodbye properly.
+그것은 쉐멍후이(薛孟輝)가 가장 소중히 여긴 물건이자, 이 산업의 가장 진실한 고고학적 현장[^21]이다. 일지에 빼곡히 적힌 주문들—전서구 경주에서 돈을 딴 축하 연회, 박사 학위 취득 감사 잔치, 사원 입구 마조(媽祖) 탄신 평안 잔치—은 타이완 사람들이 한때 공동으로 인정했던 일련의 가치들을 기록하고 있다. 어떤 순간에 모두가 손에 쥔 일을 내려놓고 모여야 하는지, 그 순간에는 무엇을 먹어야 하는지, 누가 주관해야 하는지, 그리고 어떻게 정중히 작별 인사를 나누어야 하는지에 대한 기록이다.
 
-The dishes have proven they can enter five-star hotels, fly to California, and be certified by Michelin. What about the tacit understanding written in that yearbook—which table matches which moment, which dish is auspicious or inauspicious for which occasion, which neighbors who helped should receive the vegetable tail—how many people still remember, how many can still take it over?
+요리는 이미 5성급 호텔로 들어갈 수 있고, 캘리포니아까지 날아갈 수 있으며, 미쉐린 인증을 받을 수도 있음을 증명했다. 그렇다면 그 농민력에 적혀 있던 일련의 암묵적인 약속들은 어떠한가—어떤 때에 어떤 규모의 반저(辦桌)를 차려야 하는지, 어떤 요리가 어느 상황에서 길조 혹은 흉조가 되는지, 잔치를 마친 뒤 남은 채미탕(菜尾湯)을 도움을 준 이웃 중 누구에게 나누어 주어야 하는지—이것들을 기억하는 사람은 얼마나 남았으며, 이를 온전히 이어받을 수 있는 사람은 또 얼마나 될까?
 
 ---
 
-**Further Reading**:
+**연관 읽기**:
 
-- [Taiwanese Hand-Road Dishes](/ko/food/taiwan-specialty-home-cooking)
-- [Hulao (Tiger Bites Pig)](/ko/food/gua-bao)
-- [Taiwanese Seafood Culture](/ko/food/taiwan-seafood-culture)
-- [Night Market Culture](/ko/food/night-market-culture)
-- [Chen Yu-Hsun](/ko/people/chen-yu-hsun-taiwan-comedy-film-magician)
+- [타이완 수로차이(手路菜)](/ko/food/taiwan-specialty-home-cooking)
+- [과바오(刈包)](/ko/food/gua-bao)
+- [타이완 해산물 문화](/ko/food/taiwan-seafood-culture)
+- [야시장 문화](/ko/food/night-market-culture)
+- [천위쉰(陳玉勳)](/ko/people/chen-yu-hsun-taiwan-comedy-film-magician)
 
-## Image Sources
+## 이미지 출처
 
-This article uses 3 public domain / CC licensed images, all cached in `public/article-images/food/` to avoid hotlinking to the source server:
+본문은 3장의 퍼블릭 도메인 / CC 라이선스 이미지를 사용하며, 원본 서버의 트래픽 부하를 방지하기 위해 모두 `public/article-images/food/`에 캐시되어 있다:
 
-- [Bando after Zhongyuan Ghost Festival](https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg) (hero) — Photo: Xuan Shi Sheng, 2017-09-19, CC0 1.0
-- [Mudstone Badland of Gutingkeng Formation in Kaohsiung (Moon World)](https://commons.wikimedia.org/wiki/File:Tianliao_Moon_World_3.jpg) — Photo: StevenK234, 2019-04-01, CC BY-SA 4.0
-- [Street Bando in Tainan](https://commons.wikimedia.org/wiki/File:2014-12-07_a_banquet_on_street_in_Tainan.jpg) — Photo: Ce Jingzhe, 2014-12-07, CC BY-SA 2.0
+- [중원푸두(中元普度) 이후 사찰 앞마당에서 열린 반저우](https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg) (hero) — Photo: 玄史生, 2017-09-19, CC0 1.0
+- [가오슝 구팅카이의 니위안 악지(월세계)](https://commons.wikimedia.org/wiki/File:Tianliao_Moon_World_3.jpg) — Photo: StevenK234, 2019-04-01, CC BY-SA 4.0
+- [타이난 거리의 반저우](https://commons.wikimedia.org/wiki/File:2014-12-07_a_banquet_on_street_in_Tainan.jpg) — Photo: 測鏡者, 2014-12-07, CC BY-SA 2.0
 
-## References
+## 참고 자료
 
-[^1]: [Bando (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Records Bando etymology, Qing Dynasty _Taiwan County Gazette_ (1720) and _Changhua County Gazette_ (1835) documentation of Taiwanese "feasting lavishly for family celebrations and seasonal festivals" and "dishes exhaust the mountains and seas" banquet customs, and the historical context of Bando professionalization.
+[^1]: [반주(판저, 辦桌) (위키백과)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — 반주의 어원, 청대 《대만현지》(1720) 및 《장화현지》(1835)에 기록된 대만인의 '집안에 경사가 있거나 계절이 바뀌어 손님을 맞이할 때 반드시 풍성하게 대접하며, 산해진미를 차려낸다'는 연회 관습 문헌 기록, 그리고 반주의 전문화 과정에 대한 역사적 맥락을 수록함.
 
-[^2]: [Bando (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Records Neimen Master Chef cluster scale data: peak period approx. 14,000 people, approx. 150 Master Chef groups, 1 in 5 households relying on Bando for livelihood, capable of cooking over 20,000 tables simultaneously, figures compiled from Zhang Yu-hsin (2007) and Tang Yu-ning (2016 I-Shou University Master's Thesis) research.
+[^2]: [반주(판저, 辦桌) (위키백과)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — 네이먼(內門) 총포사(總鋪師) 집단의 규모 데이터 수록: 전성기 약 1.4만 명, 약 150개 총포사 팀, 5가구 중 1가구가 반주로 생계를 유지하며 동시에 2만 상 이상의 요리가 가능함. 해당 수치는 장위신(張玉欣, 2007)과 탕위닝(湯淯甯, 2016 의수대학교 석사 논문)의 연구를 정리한 것임.
 
-[^3]: [Bando Is Back: Taiwan's Roadside Banquet Tradition Makes a Comeback (TaiwanPlus, 2025)](https://www.taiwanplus.com) — August 2025 report on the phenomenon of Taiwanese Bando culture reviving under Michelin, five-star hotels, and new generation succession.
+[^3]: [Bando Is Back: Taiwan's Roadside Banquet Tradition Makes a Comeback (TaiwanPlus, 2025)](https://www.taiwanplus.com) — 2025년 8월 보도, 미슐랭, 5성급 호텔 및 신세대의 계승 아래 대만 반주 문화가 다시 유행하는 현상을 다룸.
 
-[^4]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — _The Reporter_'s 2020 in-depth report, interviewing nearly ten Master Chefs from north and south, recording the crisis of disappearing ritual knowledge in Bando and the generational gap.
+[^4]: [팬데믹 이후 점차 사라져가는 대만의 맛——길거리 반주 문화 (더 리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 《더 리포터(報導者)》의 2020년 심층 보도. 남북부의 총포사 약 10명을 인터뷰하여, 의례적 지식으로서의 반주가 직면한 전승 위기와 세대 간 단절을 기록함.
 
-[^5]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records Tainan Master Chef Wang Yi-yong catching fish in the rain for 120 tables, the metaphor of restaurant "Literary Field" vs. Bando "Martial Field," and the multiple roles of Master Chef as executive chef, event director, logistics coordinator, and folkloric consultant.
+[^5]: [팬데믹 이후 점차 사라져가는 대만의 맛——길거리 반주 문화 (더 리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 타이난 총포사 왕이융(汪義勇)이 폭우 속에서 120상 분량의 물고기를 잡던 현장 기록, 레스토랑의 '문장(文場)'과 반주의 '무장(武場)' 비유, 그리고 행정 주방장·행사 디렉터·물류 총괄 겸 민속 고문의 다중 역할을 수행하는 총포사의 모습을 수록함.
 
-[^6]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records Neimen Master Chef Xue Meng-hui cooking in Fengshan on the night of the 88 Flood, tent collapse and iron frame injury, bridge broken and trapped in 7-ELEVEN, and the oral history "I fear guests waiting in pain the most, the moment I get home I rush to the phone."
+[^6]: [팬데믹 이후 점차 사라져가는 대만의 맛——길거리 반주 문화 (더 리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 네이먼 총포사 쉐멍후이(薛孟輝)가 팔팔풍(八八風災) 밤 펑산에서 국자를 잡고 일하다 천막 철제가 무너져 사람이 다치고, 다리가 끊겨 세븐일레븐에 고립되었던 상황과 '손님이 오래 기다리는 것이 가장 두려워 집에 도착하자마자 전화기로 달려간다'는 구술 내용을 수록함.
 
-[^7]: [Taiwan Kwanghsa Magazine: Mudstone Badland Related Reports](https://www.taiwan-panorama.com) — Describes the geological characteristics of the mudstone badland of the Gutingkeng Formation in Kaohsiung (Moon World): "The cementation and permeability of mudstone are low; it softens into mud when wet and cracks and peels when dry. Coupled with the high salinity of marine sedimentary soil, plant growth is difficult," and the crop distribution where only thorny bamboo is drought-resistant on badland slopes, and mangoes and bananas can be grown in cretaceous soil areas.
+[^7]: [대만 광화잡지: 니위안(泥岩) 악지 관련 보도](https://www.taiwan-panorama.com) — 가오슝 구팅컹 층 니위안 악지(월세계)의 지질적 특성 기술: '니위안은 결합력과 투수성이 낮아 물을 만나면 진흙처럼 부드러워지고, 건조해지면 균열이 생기며 박리된다. 여기에 해상 퇴적토의 높은 염분까지 더해져 식물 성장이 어렵다'는 점과, 악지의 나대지에는 가시대나무만 내건성을 띠고 백아토(白堊土) 지역에서는 망고와 바나나 재배가 가능하다는 농작물 분포를 설명함.
 
-[^8]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records Neimen bamboo weaving supplying Qishan banana farmers, the origin of switching to Bando after paper boxes took over the market in the 1960s, master-apprentice system "Soup Pork Knuckle" style spreading across Taiwan, 1976 Xue Qing-ji forming "Four-in-One" company for industrialization, and the estimate that Neimen now has only about 30-40 Master Chefs.
+[^8]: [팬데믹 이후 점차 사라져가는 대만의 맛——길거리 반주 문화 (더 리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 네이먼의 대나무 공예가 치산 바나나 농가에 공급되던 역사, 1960년대 종이상자가 시장을 점유한 후 반주업으로 전향하게 된 기원설, '탕즈자오(湯豬腳)' 방식의 도제 시스템을 통한 전국적 확산, 1976년 쉐칭지(薛清己)가 결성한 '4합1' 회사의 산업화, 그리고 현재 네이먼에 약 30~40명의 총포사가 남아있다는 추정치를 수록함.
 
-[^9]: [Neimen District Office Official Website](https://neimen.kcg.gov.tw) — Kaohsiung City Neimen District official information, recording the local cultural theory that Neimen has many temples, troupes (Songjiang Array) are prevalent, and the need to feed participants in festivals gave rise to the demand for Master Chefs; cultural worker Chen Cong-xian also holds this view.
+[^9]: [네이먼 구청 공식 웹사이트](https://neimen.kcg.gov.tw) — 가오슝시 네이먼구의 공식 정보. 네이먼은 사찰이 많고 진터우(陣頭, 송강진) 문화가 성행하며, 축제 시 구성원들에게 음식을 제공해야 하는 필요성이 총포사의 수요를 창출했다는 지역 문사적 설을 기록하고 있으며, 문사 연구가 천충셴(陳聰賢) 또한 이 견해를 지지함.
 
-[^10]: [pān-toh Bando: Taiwanese Banquet Culture (Story Studio)](https://storystudio.tw/article/gushi/pan-toh-in-taiwan) — Records the earliest literary definition of "Bando" in the 1902 article "Miscellaneous Notes on Banquets and Dishes" as "Preparing tables, organizing wine and food, setting up banquets is called Bando," sourced from the monthly journal _Records of Taiwanese Customs_ published by the Taiwan Customs Research Society.
+[^10]: [pān-toh 辦桌: 대만인의 연회 문화 (스토리 StoryStudio)](https://storystudio.tw/article/gushi/pan-toh-in-taiwan) — 1902년 〈연회 및 요리에 관한 잡화〉에 기록된 '반주'에 대한 가장 이른 문헌적 정의인 '상을 차리고 술과 음식을 준비하며 연회를 여는 것을 반주라 한다'를 수록함. 출처는 대만 관습 연구회에서 발행한 월간지 《대만 관습 기사》임.
 
-[^11]: [pān-toh Bando: Taiwanese Banquet Culture (Story Studio)](https://storystudio.tw/article/gushi/pan-toh-in-taiwan) — Records Academia Sinica Institute of Taiwan History Deputy Researcher Zeng Pin-cang's research based on Qing Dynasty ledgers (such as the late Qing Wufeng Lin Family ledger recording "Hire Master Chef for Bando") and diaries, pointing out that Taiwanese people in the Qing Dynasty already commissioned professional chefs for Bando during weddings, funerals, and sacrifices, and inferring it can be traced back to the Kangxi period.
+[^11]: [pān-toh 辦桌: 대만인의 연회 문화 (스토리 StoryStudio)](https://storystudio.tw/article/gushi/pan-toh-in-taiwan) — 중앙연구원 대만사연구소 증핀창(曾品滄) 부연구원이 청대 장부(예: 청말 우펑 린가 장부에 기록된 '총포사를 불러 반주를 차리게 함')와 일기를 연구하여, 청대 대만인들이 혼례·상례·제례 시 전문 요리사에게 반주를 의뢰했음을 지적하고 이를 강희제 시기까지 거슬러 올라갈 수 있다고 추론한 내용을 수록함.
 
-[^12]: [Bando (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Records the origin of Bando in Min-Yue, the historical background of the banquet culture traditionally called "Bao Jiu" or "Dao Hui" in Fujian and Guangzhou areas crossing the sea to Taiwan with Qing Dynasty immigrants.
+[^12]: [반주(판저, 辦桌) (위키백과)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — 반주의 기원이 민남·민월 지역에 있으며, 푸젠과 광둥의 전통적인 연회 문화인 '반주(辦酒)' 또는 '다오후이(到燴)'가 청대 이주민을 따라 대만으로 전해졌다는 역사적 배경을 수록함.
 
-[^13]: [Bando (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Records that before professionalization (Qing Dynasty to before the 50th year of the Republic of China), cities relied on restaurant catering, rural areas relied on part-time villagers, ingredients were often prepared by hosts, wealthy families had "Kitchen Women," and from the 1960s villagers discovered Bando profits exceeded farming leading to professionalization, peaking in the 1970s-80s.
+[^13]: [반주(판저, 辦桌) (위키백과)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — 전문화 이전 시대(청대~민국 50년대)에 도시에서는 주루의 출장 요리에, 농촌에서는 부업을 하는 마을 주민에게 의존하며 식재료는 주로 집주인이 직접 준비하고 부유한 집에는 '조하부(灶下婦, 가사 전문 여성)'가 있었던 상황, 그리고 1960년대부터 마을 주민들이 반주의 이윤이 농사보다 높음을 발견하여 직업화로 나아가 1970~80년대에 정점에 달했던 변천 과정을 기록함.
 
-[^14]: [Ministry of Education Taiwan Hokkien Common Dictionary: Bando](https://sutian.moe.edu.tw/zh-hant/su/11971/) — Ministry of Education official dictionary, recording the entry definition and Hokkien phonetic notation for "Bando" (pān-toh); Master Chef Hokkien pronunciation is tsóng-phòo-sai, "Shi" is a term of respect in folklore for professional craftsmen.
+[^14]: [교육부 대만어 상용어 사전: 辦桌](https://sutian.moe.edu.tw/zh-hant/su/11971/) — 교육부 공식 사전. '반주'(pān-toh) 항목의 정의와 대만어 로마자 표기를 수록함. 총포사의 대만어 발음은 tsóng-phòo-sai이며, 여기서 '사(師)'는 민속적으로 전문 장인을 높여 부르는 존칭임.
 
-[^15]: [Communal Eating in Bando Culture (National Museum of Taiwan History, Lin Xiang-yi)](https://collections.nmth.gov.tw/article.aspx?a=251) — National Museum of Taiwan History research article proposing the three-type framework of Bando communal eating: Human-Divine Communal Eating (Seasonal Festivals "Receiving Divine Blessings through Eating"), Human-Ghost Communal Eating (Ancestral Associations and Zhongyuan Ghost Festival), Host-Guest Communal Eating (Life Rituals and Association Gatherings), and explaining the connection between Bando dish sequence and life rituals.
+[^15]: [반주 문화 속의 공동 식사 (국립 대만 역사 박물관, 린샹치)](https://collections.nmth.gov.tw/article.aspx?a=251) — 국립 대만 역사 박물관의 연구 논문. 반주의 공동 식사를 세 가지 유형으로 제시함: 인신공식(人神共食, 절기 제례 시 '신에게 음식을 바쳐 복을 받음'), 인귀공식(人鬼共食, 조상회와 중원절 보도), 주객공식(主客共食, 생애 의례와 사회 모임). 또한 반주의 요리 서빙 과정과 생애 관습 사이의 연관성을 설명함.
 
-[^16]: [Bando (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Records that high-end seafood like lobster only became the protagonist of Bando after the economic takeoff of the Ten Major Construction Projects in the 1960s; early Bando tables commonly featured stir-fried rice noodles, white-cut chicken, celery squid soup, meatball soup, which were one of the few occasions to eat meat back then.
+[^16]: [반저우(辦桌, 위키백과)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — 랍스터 등 고급 해산물은 1960년대 10대 건설을 통한 경제 도약 이후에야 반저우의 주인공이 되었으며, 초기에는 볶음 쌀국수, 백참계(삶은 닭), 미나리 오징어탕, 완자탕 등이 흔히 등장했으며 당시 드물게 고기를 먹을 수 있는 자리였음을 기록함.
 
-[^17]: [Bando (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Records that Buddha Jumps Over the Wall was originally called "Fu Shou Quan" (Longevity and Fortune Complete), originating from a family banquet of a Fuzhou official during the Guangxu reign of the Qing Dynasty.
+[^17]: [반저우(辦桌, 위키백과)](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — 불도장(佛跳牆)의 원래 이름이 '복수전(福壽全)'이며, 청나라 광서 연간 푸저우 관리의 가연에서 유래했다는 일화를 수록함.
 
-[^18]: [Tainan Community University: Wedding Bando and Life Ritual Dish Symbolism (Zhang Yun-shu)](https://tncomu-news.com/wedding04/) — Folkloric researcher Zhang Yun-shu compiles the dish symbolism of life ritual Bando: Full-month uses whole chicken for "completeness," funeral banquets have odd number of dishes and missing-corner "triangular meat" (sann-kak-bah), avoiding lotus seeds, bitter melon, pineapple; wedding banquets must have chicken (starting family), fish (surplus), braised pork (promotion), pork stomach (big belly), red crab rice cake selecting female crabs (having noble children early).
+[^18]: [타이난 커뮤니티 대학: 결혼식 반저우와 생명례속의 요리 상징(장윈수)](https://tncomu-news.com/wedding04/) — 민속 연구가 장윈수가 정리한 생명례속 반저우 요리의 상징성: 만월(滿月)에는 '완전함'을 뜻하는 통닭을 사용하고, 상례 음식은 홀수여야 하며 모서리가 빠진 '삼각육(sann-kak-bah)'을 쓰며 연꽃 씨앗, 여주, 파인애플은 금기시함. 혼례에는 반드시 닭(가문 일으키기), 생선(여유로움), 봉육(승진), 돼지 위(풍요로운 배), 홍순 쌀떡(암게를 사용하여 조기 자손 번창)을 올림.
 
-[^19]: [pān-toh Bando: Taiwanese Banquet Culture (Story Studio)](https://storystudio.tw/article/gushi/pan-toh-in-taiwan) — Folkloric verification of Bando taboos; Hulao is a "Tiger Bites Pig" custom for the Last Day of the Year (December 16th lunar calendar) not a funeral dish, the saying "Moving house avoids round balls" contradicts the custom of using tangyuan to symbolize completeness in moving banquets, both lack support in Bando folklore sources.
+[^19]: [pān-toh 반저우: 대만인의 연회 문화(StoryStudio)](https://storystudio.tw/article/gushi/pan-toh-in-taiwan) — 반저우 금기에 대한 민속 고증 참조; 꿔바오(刈包)는 퇴위(음력 12월 16일)의 '호교저(虎咬豬)' 풍습이지 상례 음식이 아니며, '이사 시 완자류 금기'라는 설은 이사 때 원만함을 상징하는 탕위안을 사용하는 것과 모순되어 반저우 민속 근거를 찾을 수 없음.
 
-[^20]: [Taiwan Panorama Magazine: Bando and Vegetable Tail Soup Culture](https://www.taiwan-panorama.com) — Reports on Bando "Vegetable Tail Soup" (Mixed Vegetable Soup) as a symbol of cherishing fortune and gratitude after mixing leftovers from each dish and sending them to neighbors who helped for free, a reciprocal community culture, itself facing disappearance.
+[^20]: [Taiwan Panorama 대만광화잡지: 반저우와 채미탕(菜尾湯) 문화](https://www.taiwan-panorama.com) — 연회 후 남은 각 요리의 끝부분을 모아 끓인 '채미탕(잡채탕)'이 이웃에게 나누어 주며 복을 나누고 감사를 표하는 상징이자, 서로 돕는 공동체 문화이며 현재는 점차 사라져 가고 있음을 보도함.
 
-[^21]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records the golden age of Bando during Lee Teng-hui's term "Eight Celebrations and One Funeral," the origin of "Black Forest Grand Hotel" canvas tents provided by beverage companies, Xue Qing-ji's work diary "hosting 25,000 tables in a year" and "average 1,000 tables in slow months," and the turning point of client loss after the industry moved west in 2003.
+[^21]: [팬데믹 이후 서서히 사라지는 대만의 맛——길거리 반저우 문화(더리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 이등휘 정부 시절 반저우의 전성기였던 '8경 1상', 음료 업체가 제공한 '헤이송 대호텔' 캔버스 천막의 유래, 설칭지의 작업 일지('연간 2만 5천 상 차림', '소월 평균 1,000 상 차림') 구술, 그리고 2003년 산업의 서진(중국 진출) 이후 고객이 이탈한 전환점을 수록함.
 
-[^22]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records New Taipei Master Chef Li Jun-xiang's oral history "For catering chefs, 40 years old is considered young, out of 10 chefs aged 30, can't find 2, kitchen assistants are generally aging," reflecting the generational gap in the Bando industry.
+[^22]: [팬데믹 이후 서서히 사라지는 대만의 맛——길거리 반저우 문화(더리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 신베이 지역 총주사(총주방장) 리쥔샹의 구술인 '출장 요리사는 40세가 젊은 축에 속하며, 30대 요리사는 10명 중 2명을 찾기 힘들 정도로 인력의 고령화가 심각하다'는 내용을 통해 반저우 업계의 세대 단절을 반영함.
 
-[^23]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records Master Chef Jiang Yi-yong's observation that only about 2% of culinary school graduates enter catering, and the labor condition description "For noon banquets, departure is at 3:30 AM, long working hours, hot stoves."
+[^23]: [팬데믹 이후 서서히 사라지는 대만의 맛——길거리 반저우 문화(더리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 총주사 장이융이 관찰한 조리학과 졸업생 중 출장 요리에 투신하는 비율이 약 2%에 불과하다는 점과 '점심 영업을 위해 새벽 3시 반에 출발해야 하는 긴 노동 시간과 뜨거운 화덕 앞에서의 작업' 등 열악한 노동 조건을 기술함.
 
-[^24]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records older masters doing everything from slaughtering pigs and chickens to making pudding and cakes themselves; outsourced frozen foods prevent apprentices from learning hand-road dishes; Chestnut Chicken, Bone-Changing Penne Eel, Bag Chicken, Five-Silk Branch and other hand-road dishes are on the verge of disappearing.
+[^24]: [팬데믹 이후 서서히 사라지는 대만의 맛——길거리 반저우 문화(더리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 돼지와 닭 도축부터 푸딩, 케이크까지 모두 직접 만들던 숙련된 장인 세대와 달리, 냉동 식품 외주로 인해 도제들이 전통 비법 요리를 배우지 못해 밤리자닭, 환골통신만(통신어), 포대계, 오류지 등의 전통 요리가 전승 위기에 처했음을 기록함.
 
-[^25]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records the cumbersome process of "Chicken-Pork Stomach Turtle" (softshell turtle stuffed into native chicken, chicken stuffed into pig stomach, slow-cooked for 3 hours) in the movie _The Master Chef_, and the deeds of Taiwanese cuisine Godmother Huang Wan-ling (food director for the movie) spending over ten years going to the countryside to visit and preserve disappearing Taiwanese dishes.
+[^25]: [팬데믹 이후 서서히 사라지는 대만의 맛——길거리 반저우 문화(더리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 영화 <총주사>에 등장하는 '계자저위(닭과 돼지 위, 자라를 넣은 닭과 돼지 위 찜)'의 번거로운 공정과 대만 요리의 대모 황완링(영화 음식 지도)이 사라져가는 대만 요리를 보존하기 위해 10여 년간 시골을 찾아다닌 행적을 수록함.
 
-[^26]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Interviews with nearly 10 Master Chefs from north and south reflecting that catering tables shrank by at least 90% starting from the Lunar New Year (interview consensus, not official statistics); Xue Meng-hui had over 500 tables canceled in lunar months 2 and 3; second-generation heir from a Bando family switched to holding small soup spoons to pack bento boxes.
+[^26]: [팬데믹 이후 서서히 사라지는 대만의 맛——길거리 반저우 문화(더리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 남북 지역 약 10명의 총주사를 인터뷰한 결과, 음력 설 이후 출장 요리 건수가 최소 90% 감소했다는 의견(공식 통계가 아닌 인터뷰 공통 의견)을 전하며, 쉐멍후이가 음력 2~3월에 500여 건의 예약을 취소당하고 반저우 가문의 2세들이 도시락을 담는 작은 국자로 업종을 전환한 사례를 보도함.
 
-[^27]: [Ministry of Economic Affairs Statistics Division: Wholesale, Retail, and Catering Industry Revenue Statistics (April 2020)](https://www.moea.gov.tw) — Ministry of Economic Affairs statistics, April 2020 "Catering and Group Meal Contracting Industry" revenue decreased by 32.3% YoY, approx. NT$2.5 billion; this number was mainly dragged down by air catering, and a large number of unregistered open-air Bando events are not within the statistical scope, actually underestimating the impact on open-air Bando.
+[^27]: [경제부 통계처: 도매, 소매 및 외식업 매출 통계(2020년 4월)](https://www.moea.gov.tw) — 경제부 통계에 따르면 2020년 4월 '출장 요리 및 단체 급식업' 매출은 전년 대비 32.3% 감소한 약 25억 대만 달러임. 이 수치는 주로 배달 전문 주방(공주)의 타격을 받은 것이며, 미등록 노천 반저우는 통계에 포함되지 않아 실제 노천 반저우 규모는 과소평가되어 있음.
 
-[^28]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records Li Jun-xiang describing the spatial politics of northern Bando: requiring blocking roads and applying for road rights, being reported by neighbors for air pollution, even people throwing things from upstairs to drive them away; Taipei City activity centers and elementary school auditoriums are almost never lent for hosting banquets.
+[^28]: [팬데믹 이후 서서히 사라지는 대만의 맛——길거리 반저우 문화(더리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 총주사 리쥔샹이 묘사한 북부 지역 반저우의 공간 정치: 도로 통제 및 점유권 신청 필요, 이웃의 대기 오염 신고, 심지어 위층에서 물건을 던져 사람을 쫓아내는 일까지 발생하며, 타이베이시 활동 센터나 초등학교 강당은 연회 장소로 거의 대여해주지 않음을 수록함.
 
-[^29]: [After the Pandemic, the Fading Taiwanese Flavor—Roadside Bando Culture (The Reporter)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — Records cultural worker Yan Zhen-yu's view that the pandemic is both a blow and a stimulus (forcing Master Chefs to improve hygiene, consider transformation), and the deepest fear of interviewed Master Chefs (fearing "everyone not hiring Bando" becoming a habit) and _The Reporter_'s conclusion that "Bando is tightly linked to the economy, difficult to warm up in the short term."
+[^29]: [팬데믹 이후 서서히 사라지는 대만의 맛——길거리 반저우 문화(더리포터)](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — 문사 연구가 옌전위가 팬데믹을 타격이자 자극(총주사들에게 위생 개선과 전환을 촉구)으로 보는 관점, 인터뷰한 총주사들의 가장 큰 공포('사람들이 반저우를 시키지 않는 것'이 습관이 되는 것), 그리고 '반저우는 경기와 밀접하여 단기간에 회복되기 어렵다'는 기자의 결론을 수록함.
 
-[^30]: [Michelin Guide Tainan: Bando Dishes and Bib Gourmand](https://guide.michelin.com/tw) — _Michelin Guide_ Tainan incorporated Bando dishes into discourse; three restaurants serving Bando dishes—A-Xia Restaurant, Xin Xin Restaurant, Dong Shang Taiwanese Cuisine—were selected for Bib Gourmand.
+[^30]: [미쉐린 가이드 타이난: 반저우 요리와 비브구르망 추천](https://guide.michelin.com/tw) — 《미쉐린 가이드》 타이난 편에서 반저우 요리를 논의에 포함하였으며, 아샤 식당(阿霞飯店), 신신 레스토랑(欣欣餐廳), 동상 타이차이(東上台菜) 등 반저우 요리를 하는 식당 세 곳이 비브구르망(Bib Gourmand)에 선정됨.
 
-[^31]: [Palais de Chine Hotel: Taiwanese Bando](https://www.palaisdechinehotel.com) — Taipei Palais de Chine Hotel launched "Taiwanese Bando" (roadside banquet), directed by Chef Lin Ming-can, NT$22,800 per table plus 10% service fee, claiming to be the first five-star hotel in Taiwan to formally pay tribute to Bando culture.
+[^31]: [팔레 드 친 호텔: 대만식 반저(Palais de Chine Hotel)](https://www.palaisdechinehotel.com) — 타이베이 팔레 드 친 호텔은 셰프 린밍찬의 주도로 '대만식 반저(roadside banquet)'를 선보였으며, 테이블당 22,800 대만 달러(서비스 요금 10% 별도)로 책정되어 대만 5성급 호텔 중 최초로 반저 문화를 공식적으로 경의를 표한 사례라고 자칭한다.
 
-[^32]: [Bando Is Back: Taiwan's Roadside Banquet Tradition Makes a Comeback (TaiwanPlus, 2025)](https://www.taiwanplus.com) — August 2025 report on the new generation bringing Bando back with "Next-Gen Marketing × Parental Craft" model (Tofu Master Chef Huang Mao-yuan with daughter Huang Jia-yu, Master A-Long with son A-Xiang), original text says "Once fading from Taiwan's cultural fabric, this legendary banquet tradition is making a dynamic comeback."
+[^32]: [Bando Is Back: Taiwan's Roadside Banquet Tradition Makes a Comeback (TaiwanPlus, 2025)](https://www.taiwanplus.com) — 2025년 8월 보도에 따르면, 신세대가 '자녀의 마케팅과 부모의 기술' 모델(두부 총포사 황마오위안과 딸 황자위, 아룡사(阿龍師)와 아들 아샹)을 통해 반저 열풍을 다시 일으키고 있으며, 원문은 이를 '한때 대만의 문화적 맥락에서 사라져 가던 이 전설적인 연회 전통이 역동적으로 귀환하고 있다'라고 표현했다.
 
-[^33]: [Roadside Banquet in Taiwan (Good To Eat)](https://www.wearegoodtoeat.com/roadside-banquet-in-taiwan) — California Emeryville restaurant Good To Eat, Taiwanese chef Tony Tung and partner Angie Lin treat Bando as a love letter to Taiwan (menu name jan ba bae), on January 4, 2025 invited Neimen Master Chef A-Càn (Master A-Càn) to host a traditional Bando for over 400 people in Taipei, attracting California diners to fly back to Taiwan specifically.
+[^33]: [대만의 반저 (Good To Eat)](https://www.wearegoodtoeat.com/roadside-banquet-in-taiwan) — 캘리포니아 에머리빌의 레스토랑 Good To Eat에서 대만 출신 셰프 토니 퉁(Tony Tung)과 파트너 엔지 린(Angie Lin)은 반저를 대만에 보내는 러브레터(메뉴명 jan ba bae)로 삼았다. 2025년 1월 4일, 내이먼의 총포사 아찬사(Master A-Càn)를 초청하여 타이베이에서 400여 명 규모의 전통 반저를 개최했으며, 이는 캘리포니아 미식가들이 대만을 직접 방문하게 만드는 계기가 되었다.

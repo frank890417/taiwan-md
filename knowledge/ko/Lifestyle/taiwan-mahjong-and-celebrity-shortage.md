@@ -1,182 +1,191 @@
 ---
-title: "Taiwanese Mahjong: Grandma Won't Teach You, But Celebrity Mahjong Will"
-description: "On the second day of the Lunar New Year, Grandma sat at the table and won with a hand you couldn't understand. When you asked her how to calculate the points, she said, 'Kids have ears but no mouths.' So you opened your computer and let Wu Zongxian teach you. Released in 2001 by IGS, Celebrity Mahjong unexpectedly became the mahjong启蒙 (enlightenment) teacher for an entire generation of Taiwanese people."
+title: '타이완 마작: 아마가 안 가르쳐줘서, 스타 마작 삼결일로 배운다'
+description: '설날 초이튿날, 아마가 상석에 앉아 알 수 없는 패로 화료했다. 어떻게 대를 세느냐 물으니 "애들한테 귀만 있고 입은 없다"고 한다. 그래서 컴퓨터를 켜고 우쭝셴에게 배운다. 2001년 룽샹전자가 내놓은 ''스타 마작 삼결일''은 의도치 않게 한 세대 타이완인의 마작 입문 교사가 되었다.'
 date: 2026-04-23
-tags: ['Mahjong', 'Sixteen-Zhang', 'Celebrity Mahjong', 'IGS', 'Taiwan Culture']
+category: 'Lifestyle'
+tags:
+  [
+    '마작',
+    '십육장',
+    '스타 마작 삼결일',
+    '룽샹전자',
+    'IGS',
+    '설날',
+    '타이완 문화',
+  ]
 subcategory: '日常娛樂'
 author: 'zaious'
-category: 'Lifestyle'
-readingTime: 9
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
+readingTime: 9
 translatedFrom: 'Lifestyle/台灣麻將與明星三缺一.md'
-sourceCommitSha: ''
-sourceContentHash: 'sha256:334f3cc12d1f65c6'
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:ef208b370e332f10'
 sourceBodyHash: 'sha256:1f3fd4501700702b'
-translatedAt: '2026-06-09T04:19:27+08:00'
-featured: false
+translatedAt: '2026-10-11T05:16:34+08:00'
 ---
 
-> Taiwanese Sixteen-Zhang Mahjong uses 144 tiles, 8 flower tiles, the most complex point-calculation system in the world, and an unwritten teaching method: Elders play it in front of you but don't explain it to you. You can only learn from being scolded. In 2001, IGS released _Celebrity Mahjong_, letting the voices of Wu Zongxian and Wang Caihua accompany you as you practice. This game has lived for over twenty years and remains a money-printing machine in the Taiwanese mobile game market. But what it truly achieved goes deeper than making money: it turned a culture that was only passed down orally on the mahjong table into something anyone could explore on their own.
-
----
-
-## The Table During the New Year
-
-On the second day of the Lunar New Year, at Grandma's house. After the adults finished eating, before the bowls were even cleared, the square table was set up.
-
-Four people sat down, and the tiles were poured onto the table with a clatter, the sound of shuffling drowning out the "Cheers" song on TV. The kids were sent to the living room to watch cartoons, but you peeked through the door crack: Grandma drew a tile, glanced at it, and threw it out without looking again. Three seconds later, she shouted "Win," and the other three started calculating the money.
-
-You asked how much she won. She said, "Three base, six points." You asked what that meant. She said, "Kids have ears but no mouths."
-
-This is the mahjong enlightenment scene for most Taiwanese people. No textbooks, no rulebooks. The knowledge system of Taiwanese Sixteen-Zhang Mahjong has been passed down for decades through a very primitive method: sit nearby and watch until you get it. Asking too many questions makes you seem annoying. [^1]
+> 타이완 십육장 마작은 144장 패, 8장 화패, 세계에서 가장 복잡한 대수 계산 시스템, 그리고 하나의 불문율 교학법으로 이루어진다: 어른들이 쳐주는 걸 보게만 할 뿐, 설명해주지 않는다. 욕먹으며 배울 수밖에 없다. 2001년, 룽샹전자가 《스타 마작 삼결일》을 출시해 우쭝셴과 왕차이화의 목소리가 너의 연습 상대가 되어주었다. 이 게임은 20년 넘게 생존해 오늘날까지 타이완 모바일 게임 시장의 화폐 제조기다. 하지만 그것이 진짜로 해낸 일은 돈 버는 것보다 깊다: 오직 패 위에서 구전되던 문화를 누구나 스스로 익힐 수 있는 것으로 바꾸어놓았다.
 
 ---
 
-## The Most Complex Mahjong in the World
+## 설날 그 패 테이블
 
-Taiwan plays Sixteen-Zhang, which is different from other mainstream mahjong games worldwide.
+음력 설 초이튿날, 외할머니 댁. 어른들이 밥 다 먹고 그릇도 안 치웠는데 사각 테이블이 펼쳐졌다.
 
-Japanese Mahjong uses thirteen tiles, has a "Riichi" system, and the rule is "no points, no win," with a clean structure. Chinese National Standard Mahjong unified official rules, with 81 winning patterns, like a reference book for exams. Hong Kong-style Mahjong also uses thirteen tiles, with simple point counting and fast pace. [^2]
+네 사람이 앉자마자 패가 와르르 쏟아지고, 패 섞는 소리에 TV 건배 노래 소리가 묻혔다. 아이들은 거실로 쫓겨나 만화영화 보지만, 넌 문틈으로 훔쳐본다: 아마가 패 한 장 잡아 보지도 않고 버리더니, 3초 만에 "화"라고 외치고, 나머지 세 사람이 돈 계산하기 시작한다.
 
-Taiwanese Sixteen-Zhang? Three more tiles in hand, leading to an explosive increase in combinations. The 144 tiles include Characters, Dots, Bamboo, and Honor tiles, plus 8 flower tiles: Spring, Summer, Autumn, Winter, Plum, Orchid, Bamboo, and Chrysanthemum. Flower tiles directly add points; collecting specific combinations can also lead to an immediate win. "Eight Immortals Crossing the Sea" (collecting all 8 flower tiles) counts as 8 points, equivalent to popping champagne immediately. [^3]
+얼마 땄냐 물으니 "삼저 육대"라고 한다. 그게 얼마냐 물으니 "애들한테 귀만 있고 입은 없다"고 한다.
 
-But what truly breaks outsiders is the **points system**.
-
-The unit of scoring in Taiwanese Mahjong is "points." The winning formula for each hand is: (Base + Points) × 3. The sources of points are diverse: self-draw adds points, closed hand adds points, flower tiles add points, specific patterns add points. A closed-hand self-draw has at least 3 base and 10 points, which is the most traditional big hand. [^4] Each table can also add or subtract "house rules," such as adding points for consecutive wins, adding points for pulling wins, or how many points for "fishing the moon from the sea bottom." All of these are verbal agreements, written nowhere.
-
-> **📝 Curator's Note**
-> Taiwanese Mahjong rules have never been unified. Japan has the "Japanese Mahjong League" to unify rules, China has "National Standard Mahjong," but the "official rules" of Taiwanese Sixteen-Zhang are "my family's rules." The point calculation method for each family has subtle differences. This itself is part of the culture: rules, in the end, are the concrete existence of family memory.
+이것이 대다수 타이완인의 마작 입문 현장이다. 교과서도, 규칙 매뉴얼도 없다. 타이완 십육장 마작의 지식 체계는 수십 년간 극히 원시적인 방식으로 전승되어왔다: 옆에서 보고, 알 때까지 본다. 너무 많이 물으면 귀찮다고 핀잔준다.[^1]
 
 ---
 
-## The Company of Three Gamblers
+## 세계에서 가장 복잡한 마작
 
-The story of IGS (IGS Co., Ltd.), the maker of _Celebrity Mahjong_, is like a game of mahjong itself.
+타이완은 십육장을 치는데, 세계 다른 주류 마작과 모두 다르다.
 
-In 1989, three classmates from Taiwan Industrial Technical College (now National Taiwan University of Science and Technology) decided to start a business together. Chairman Li Ke-chu, General Manager Jiang Shun-cheng, and General Manager of the Commercial Machine Business Group, Chen A-jian, were ball buddies and mahjong partners during their student days. Jiang Shun-cheng was originally a hardware engineer at Philips, and Chen A-jian worked on firmware at Sampo. Both were well-paid electronics elites. Li Ke-chu invited them to join, and the two voluntarily took a pay cut. [^5]
+일본 마작은 십삼장, '리치' 시스템이 있고, '역 없이는 화료 불가' 규칙으로 구조가 깔끔하다. 중국 국표 마작은 공식 규칙을 통일해 81가지 화료 패형을 두었는데, 마치 수험용 참고서 같다. 홍콩식 마작도 십삼장, 계산이 간단하고 템포가 빠르다.[^2]
 
-In the early days of the startup, they stayed up late modifying machines during the peak season, and in the off-season, the three of them played mahjong and table tennis. IGS started by making commercial arcade game machines. In 1996, they developed their own 2D game console, PGM (PolyGame Master), becoming the only manufacturer in Asia, other than Japan, to have a proprietary game console. [^6]
+타이완 십육장? 손패가 세 장 더 많아 조합이 폭발적으로 늘어난다. 144장 속에 만자·통자·삭자·자패, 거기에 춘하추동·매란국죽 8장 화패가 들어간다. 화패는 바로 대를 더하고, 특정 조합을 모으면 바로 화료할 수 있다. '팔선과해'(8장 화패 전부 모음)는 8대, 샴페인 터뜨리는 거나 마찬가지다.[^3]
 
-But what truly turned IGS from an arcade machine factory into the "King of Game Stocks" was a very Taiwanese decision: turning mahjong into a computer game.
+하지만 진짜로 외지인 멘붕 오게 하는 건 **대수**다.
 
----
+타이완 마작의 계산 단위는 '대'인데, 한 판 이기는 돈 공식은: (저 + 대수) × 3. 대수 출처가 오만가지다: 자모 가대, 문청 가대, 화패 가대, 특정 패형 가대. 문청 자모 한 판이면 최소 3저 10대, 가장 전통적인 대패다.[^4] 각 테이블마다 '가규'를 마음대로 더 빼는데, 연장 가대, 라장 가대, 해저로월 몇 대인지, 전부 구두 약정일 뿐 어디에도 적혀 있지 않다.
 
-## 2001: Wu Zongxian Teaches You to Play
-
-In 2001, IGS released the PC version of _Celebrity Mahjong_. The concept was intuitive to the point of genius: hire Taiwanese celebrities to voice the game, making you feel like you are playing with stars. [^7]
-
-Wu Zongxian, Tang Cong-sheng, Wang Caihua, and Cheng Yu-ling, with over 14 celebrities participating in the recording across two versions. Each character has their own voice pack: mockery when claiming a "Pong," arrogance when winning, and wailing when causing a "Gun." Wang Caihua's laughter and Tang Cong-sheng's imitations turned the act of playing mahjong from "quiet mathematical calculation" into "a table full of people bickering." [^8]
-
-In 2002, the second generation was released, distributed by G-Net (Zhiguan Technology), with 120,000 sets distributed across the mainland, Taiwan, and Hong Kong, and 35,000 sets in the first batch in Taiwan. In the golden age of internet cafes, _Celebrity Mahjong_ shared the screen with CS and StarCraft. [^9]
-
-But _Celebrity Mahjong_ achieved something those games couldn't: it taught people who couldn't play mahjong how to play.
-
-The game included the complete rules of Taiwanese Sixteen-Zhang Mahjong. Every hand automatically calculated points, and when winning, it listed how many points you won and how each point was earned. You didn't need Grandma to explain; the computer directly told you, "Closed hand + Self-draw + 2 Flower tiles = 5 points." For a whole generation of young people who grew up before DOS or Windows, _Celebrity Mahjong_ was the mahjong textbook.
-
-> **✦** Grandma's teaching method is "Kids have ears but no mouths." _Celebrity Mahjong_'s teaching method is "If you play wrong, Wang Caihua will laugh at you." Both are effective, but the latter won't make you cry from being scolded during the New Year.
+> **📝 기획자 메모**
+> 타이완 마작 규칙은 결코 통일된 적 없다. 일본엔 '일본 마작 연맹'이 규칙을 통일하고, 중국엔 '국표 마작'이 있지만, 타이완 십육장의 '공식 규칙'이란 곧 '우리 집 규칙'이다. 각 가정의 대수 계산 방식에 미세한 차이가 있는데, 이 사실 자체가 문화의 일부다: 규칙, 까놓고 말하면 가족 기억의 구체적 존재다.
 
 ---
 
-## The Lifespan from PC to Mobile
+## 세 패 애호가의 회사
 
-There were two near-death experiences in IGS's history.
+《스타 마작 삼결일》을 만든 룽샹전자, 창업 스토리 자체가 한 판 패국 같다.
 
-The first was in 2000, when China rectified the game industry, and commercial machine orders dropped sharply. IGS faced its first loss since its founding. The second was in 2013, when mobile games rose and the PC game market shrank. IGS's earnings per share (EPS) fell to only 1.7 yuan. [^10]
+1989년, 타이완 공업기술학원(현 타이완 과기대학) 동기 세 명이 함께 창업하기로 했다. 이사장 리커주, 총경리 장순청, 상용기기사업군 총경리 천아젠, 학창 시절 공 차고 패 치던 친구들이다. 장순청은 원래 필립스에서 하드웨어 엔지니어, 천아젠은 성바오에서 펌웨어 엔지니어로, 둘 다 대우 좋은 전자 업계 신귀족이었다. 리커주가 권유하자 자진해서 연봉 깎고 합류했다.[^5]
 
-Both times, they survived through transformation. In 2000, they shifted to PC online games, establishing an online business division. In 2013, they allocated two-fifths of their manpower to mobile game development. Initial attempts at various genres failed, but they eventually refocused on board/card and gambling products, regaining their core strengths. [^11]
+창업 초기, 성수기엔 밤새워 기기 고치고, 비수기엔 세 명이 마작 치고 당구 쳤다. 룽샹의 시작은 상용 게임 아케이드 기기 제작, 1996년 독자 2D 게임 기판 PGM(PolyGame Master) 개발, 일본 외 아시아 유일 자사 게임 기판 보유 업체가 되었다.[^6]
 
-_Celebrity Mahjong_ followed the shift. From single-player to online, to web version, and finally to the mobile version in 2017. The mobile version was listed in the Top 10 Games on the Apple App Store in Taiwan for two consecutive years in 2017 and 2018. [^12]
-
-By 2024, IGS's annual revenue hit a historical high, with annual and monthly revenues breaking records, and employee bonuses were substantial. [^13] Listed under code 3293, it is known as Taiwan's "King of Game Stocks."
-
-_Celebrity Mahjong_'s payment rate in Taiwan has reached the ceiling. But IGS opened new markets through Southeast Asian licensing and overseas platforms. [^14] A company that started from a table tennis game among three gamblers has become an empire with annual revenues exceeding 10 billion.
-
-> **💡 Did You Know**
-> IGS's Q1 2025 revenue was 5.359 billion yuan, a year-on-year increase of 28.3%. March's single-month revenue broke 1.8 billion yuan for the first time. This company's market value has already exceeded many traditional tech manufacturers.
+하지만 룽샹을 진짜 아케이드 기기 공장에서 '게임 대장주'로 바꾼 건, 아주 타이완다운 결정 하나였다: 마작을 컴퓨터 게임으로 만든 것.
 
 ---
 
-## Why Mahjong?
+## 2001년: 우쭝셴이 너에게 패 치는 법 가르쳐준다
 
-The Taiwanese mobile game market is fiercely competitive, and products with a lifespan of over three years are few and far between. _Celebrity Mahjong_ has lived for over twenty years. Why?
+2001년, 룽샹이 《스타 마작 삼결일》 PC 버전 출시. 컨셉이 직관적이어서 거의 천재적: 타이완 연예인 기용해 더빙하게 해, 네가 스타랑 패 치는 기분 들게 했다.[^7]
 
-Because mahjong satisfies a specific need: wanting to play mahjong but not being able to gather four people.
+우쭝셴, 탕충성, 왕차이화, 정위링, 두 세대 버전 합쳐 14명 넘는 연예인 녹음 참여. 각자 고유 음성팩: 퐁할 때 비웃음, 화료할 때 거만함, 방총할 때 비명. 왕차이화 웃음소리와 탕충성 모창이 패 치는 일을 '조용한 수학 계산'에서 '한 테이블 사람끼리 입씨름'으로 바꿔놓았다.[^8]
 
-This need always exists. Wanting to play a few rounds at 10 PM on a weekday evening? You can't call three friends over. Wanting to practice your skills before the New Year so you don't get beaten by Grandma on the second day? You need a table that can be opened anytime. _Celebrity Mahjong_ fills this gap: it is not competing with other games; it is competing with the eternal problem of "not being able to gather people." [^15]
+2002년 2세대 출시, 지관과학기술 유통, 양안삼지 깔아 12만 세트, 타이완 초도 출하 3만 5천 세트. 그 시절 PC방 황금기에 스타 마작 삼결일은 카운터스트라이크, 스타크래프트와 나란히 화면을 차지했다.[^9]
 
-And the uniqueness of Taiwanese Sixteen-Zhang Mahjong makes this market almost impossible for outsiders to take over. Japanese Mahjong games play thirteen tiles with different rules. Chinese Mahjong apps play National Standard or local rules, which Taiwanese people are not used to. To make a mahjong game that Taiwanese people are willing to use, you must understand Sixteen-Zhang, points, flower tiles, and the fact that "every table has different house rules."
+하지만 스타 마작 삼결일은 그 게임들이 못한 일을 해냈다: 패 못 치는 사람한테 패 치는 법 가르쳐준 것.
 
-The three founders of IGS are themselves gamblers. They are not just making a mahjong game; they are moving the mahjong tables they have played on for decades onto the screen.
+게임 내장 타이완 십육장 완전 규칙, 매 판 자동 대수 계산, 화료 시 몇 대 땄는지 각 대 출처 나열. 아마 설명 필요 없이 컴퓨터가 바로 알려준다 "문청 + 자모 + 화패 2대 = 5대". DOS나 Windows 앞에서 자란 한 세대 젊은이들에게 스타 마작 삼결일은 마작 교과서였다.
 
----
-
-## Hokkien Grown from the Mahjong Table
-
-The penetration of Taiwanese Mahjong into this island goes far beyond the mahjong table itself.
-
-"Gun" (Fang Qiang) on the mahjong table means playing a tile that allows someone else to win, and you are responsible for paying. In daily life, "being gunned" has completely detached from the mahjong context, becoming a synonym for "being stood up" or "being harmed by someone." Friends plan to eat together but don't show up? Call it a gun. A colleague promises to help but doesn't do it? Also call it a gun.
-
-A Taiwanese who has never played mahjong can also say "being gunned" because the metaphor is too precise: that sense of helplessness where "it was clearly someone else's decision, but you bear the consequences" condenses decades of human relations on the mahjong table into two characters. Mahjong teaches Taiwanese people much more than just how to calculate points.
+> **✦** 아마 교학법은 "애들한테 귀만 있고 입은 없다". 스타 마작 삼결일 교학법은 "너 틀렸어, 왕차이화가 비웃어줄게". 둘 다 효과 있지만, 후자는 설날에 욕먹고 울 일은 없다.
 
 ---
 
-## Every Table is a Constitution
+## PC에서 모바일까지 이어진 생명력
 
-Taiwanese Mahjong has never had an official rulebook. Its rules are scattered across millions of mahjong tables, with each table having its own version.
+룽샹 역사에 두 번 죽을 뻔한 위기가 있었다.
 
-How is consecutive win calculated? Some play "Zhuang Lian N," adding two points for each consecutive win; others play a fixed addition of one point. How many points for "fishing the moon from the sea bottom"? Some say one point, some say two, some say it depends on whether it's a self-draw or a gun. After a Kong, should you leave more tiles? Some leave one tile after a Kong, some leave a stack (two tiles), some say play until there are no tiles left. [^16] Does a gun cover all three players? Many tables in the north cover it; many tables in the south do not.
+첫 번째 2000년, 중국 게임 산업 정비, 상용 기기 주문 급감, 룽샹 창립 이래 첫 적자. 두 번째 2013년, 모바일 게임 부상, PC 게임 시장 위축, 룽샹 주당순이익 1.7위안까지 떨어졌다.[^10]
 
-These differences have never been unified because no one has the power to unify them. The rules of each mahjong table are the consensus of the four people at that table. The source of the consensus is "this is how my dad taught me to play."
+두 번 다 전환으로 살아났다. 2000년 PC 온라인 게임으로 선회, 온라인 사업처 설립. 2013년 인력 5분의 2 모바일 개발 투입, 초기 여러 장르 시도 다 실패, 최종적으로 기보류·도박류 제품에 재집중해 핵심 경쟁력 되찾았다.[^11]
 
-This sounds chaotic, but chaos itself is culture. Taiwanese Sixteen-Zhang is a family ritual. What is passed on the table are rules, but also Grandpa's temper, Grandma's playing style, Uncle's expression when he causes a gun, and that special sense of intimacy and gunpowder smell that only appears during the New Year.
+《스타 마작 삼결일》도 따라 전환. 단기판→온라인판→웹판→2017년 모바일판. 모바일판 2017·2018년 연속 2년 Apple App Store 타이완 10대 게임 선정.[^12]
 
-_Celebrity Mahjong_ did not replace that table. It did something else: it allowed those who were not yet qualified to sit at the table to practice their basics on the screen first. By the second day of the New Year, when Grandma asks if you want to join in, you can finally sit down instead of peeking through the door crack.
+2024년, 룽샹 연매출 사상 최고, 연매출·단월매출 연이어 기록 경신, 직원 분배금 상당하다.[^13] 상장 코드 3293, 타이완 '게임 대장주'로 불린다.
 
-On a New Year in 2026, in a certain living room, a twenty-something-year-old sat at the mahjong table. Grandma looked at his way of drawing tiles and asked, "Where did you learn that?"
+《스타 마작 삼결일》 타이완 내 유료율 이미 천장 근접. 하지만 룽샹은 동남아 라이선스와 해외 플랫폼으로 새 시장 열었다.[^14] 세 패 애호가 당구판에서 시작한 회사가 연매출 1천억 위안 제국으로 성장했다.
 
-He did not answer.
-
----
-
-## Further Reading
-
-- [Taiwan Game Industry and Digital Entertainment](/ko/technology/taiwan-gaming-industry) — A panoramic view of the Taiwan game industry from agency to original creation
-- [Nightlife and KTV Culture](/ko/lifestyle/nightlife-and-ktv-culture) — Another social ritual for Taiwanese people
-- [Taiwan Convenience Store Culture](/ko/lifestyle/convenience-store-culture) — The 24-hour standby daily infrastructure of Taiwan
+> **💡 알고 계십니까**
+> 룽샹 2025년 1분기 매출 53.59억 위안, 전년 대비 28.3% 증가. 3월 단월 최초 18억 위안 돌파. 이 회사 시가총액 이미 많은 전통 기술 기업 넘어섰다.
 
 ---
 
-## References
+## 왜 마작인가
 
-[^1]: [Klook: Want to win money playing mahjong with friends? Beginners must see this 16-Zhang Mahjong gameplay](https://www.klook.com/zh-TW/blog/taiwan-mahjong-rules/) — Basic rules and cultural background of Taiwanese Sixteen-Zhang Mahjong
+타이완 모바일 게임 시장 경쟁 치열, 수명 3년 넘는 제품 꼽을 정도. 《스타 마작 삼결일》은 20년 넘게 산다. 왜?
 
-[^2]: [Wikipedia: Mahjong](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%86) — Comparison of mahjong rules in different regions
+마작이 특정 수요 채워주기 때문: 패 치고 싶은데 네 명 못 모을 때.
 
-[^3]: [Pinkoi: What are the rules of Taiwanese Mahjong? One article teaches beginners from drawing tiles to calculating points](https://blog.pinkoi.com/tw/hot-topics/discovery/2211-mahjong/) — 144 tiles composition, flower tiles, Eight Immortals Crossing the Sea
+이 수요는 영원히 존재한다. 평일 밤 10시 두 판 돌리고 싶은데, 친구 셋 불러올 수 없다. 설 앞두고 손감 익혀 초이튿날 아마한테 안 지려는데, 언제든 열리는 패 테이블 필요하다. 스타 마작 삼결일은 이 틈새 채운다: 다른 게임과 경쟁하는 게 아니라, '사람 못 모음'이란 영원한 문제와 경쟁한다.[^15]
 
-[^4]: [Wikipedia: Taiwanese Mahjong](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E9%BA%BB%E5%B0%87) — Points calculation system, closed-hand self-draw
+타이완 십육장 마작의 독특성이 이 시장을 외래자가 뺏어가기 거의 불가능하게 만든다. 일본 마작 게임은 십삼장, 규칙 다르다. 중국 마작 앱은 국표나 지방 규칙, 타이완인 쓰기 불편하다. 타이완인 쓸 마작 게임 만들려면 십육장 알아야 하고, 대수 알아야 하고, 화패 알아야 하고, '매 테이블 가규가 다 다르다'는 사실 알아야 한다.
 
-[^5]: [Commercial Times: IGS's three founders were once ball buddies and gamblers; classmates joined forces to start a business and play their way to success](https://www.ctee.com.tw/news/20240617700066-439901) — The founding story of Li Ke-chu, Jiang Shun-cheng, and Chen A-jian
+룽샹 세 창업자 자체가 패 애호가들이다. 그들은 마작 게임 하나 만드는 게 아니라, 자기들이 몇십 년 친 패 테이블을 화면 위로 옮긴 것이다.
 
-[^6]: [Wikipedia: IGS](https://zh.wikipedia.org/zh-hant/%E9%88%8A%E8%B1%A1%E9%9B%BB%E5%AD%90) — 1996 PGM console, only self-made arcade machine in Asia
+---
 
-[^7]: [Time UD: A classic Taiwanese mahjong game! Celebrity Mahjong has sold for over 20 years](https://time.udn.com/udntime/story/122390/8509043) — Released in 2001, celebrity voice concept
+## 패 테이블에서 자라난 타이완어
 
-[^8]: [Time UD: Celebrity Mahjong has sold for over 20 years](https://time.udn.com/udntime/story/122390/8509043) — Wu Zongxian, Tang Cong-sheng, Wang Caihua, Cheng Yu-ling, and other 14 celebrities
+타이완 마작이 이 섬에 스민 건 패 테이블 너머까지다.
 
-[^9]: [Time UD: Celebrity Mahjong has sold for over 20 years](https://time.udn.com/udntime/story/122390/8509043) — Second generation in 2002, distributed by Zhiguan, 120,000 sets distributed across the mainland, Taiwan, and Hong Kong
+'방총(放槍)' 패 위 의미는 남 화료하게 패 버려서 돈 물게 된 것. 일상에선 '방총 당하다' 이미 마작 맥락 떠나 '비둘기 당하다' 혹은 '남한테 해 당하다' 동의어 됐다. 친구 밥 약속 펑크 내면 방총. 동료 도움 준다 해놓고 안 해도 방총.
 
-[^10]: [Digital Times: Celebrity Mahjong was made by them! IGS's two life-and-death choices](https://www.bnext.com.tw/article/57523/igs-tw) — First loss in 2000, EPS of 1.7 yuan in 2013
+패 한 번도 안 쳐본 타이완인도 '방총 당하다' 쓴다. 이 비유가 너무 정확해서: '분명 남 결정인데 네가 결과 떠안는' 그 무력감, 패 위 수십 년 인정세태가 두 글자에 농축됐다. 마작이 타이완인 가르친 건 대수 계산 이상이다.
 
-[^11]: [Digital Times: IGS's two life-and-death choices](https://www.bnext.com.tw/article/57523/igs-tw) — Mobile game transformation process, focusing on board/card and gambling
+---
 
-[^12]: [Wikipedia: Celebrity Mahjong](https://zh.wikipedia.org/zh-tw/%E6%98%8E%E6%98%9F%E4%B8%89%E7%BC%BA%E4%B8%80) — Top 10 on App Store for two consecutive years in 2017 and 2018
+## 매 테이블이 하나의 헌법
 
-[^13]: [Economic Daily: IGS's December revenue hit a historical high at 1.7 billion yuan](https://money.udn.com/money/story/11074/8472160) — 2024 annual revenue of 18.5 billion, employee bonuses of 2.768 billion
+타이완 마작엔 공식 규칙서 없다. 규칙은 수천만 패 테이블에 흩어져, 각 테이블마다 자기 버전 있다.
 
-[^14]: [Win Investment: IGS's 2024 revenue and profit hit new highs](https://winvest.tw/News/Detail/56266) — _Celebrity Mahjong_ payment rate of 2%, TADA Gaming overseas licensing
+연장 어떻게 계산? '장 N연' 매 연마다 2대 더한다는 데도, 고정 1대 더한다는 데도 있다. 해저로월 몇 대? 1대라는 데, 2대라는 데, 자모냐 방총이냐 봐야 한다는 데도. 깡(槓) 후 패 더 남겨야 하나? 1깡 1장 남긴다는 데, 1깡 1둔(두 장) 남긴다는 데, 패 다 떨어질 때까지 친다는 데도.[^16] 방총 삼가 포장(包三家) 할까? 북부 많은 테이블 포장, 남부 많은 테이블 안 함.
 
-[^15]: [Digital Times: Da Yu's "Double Swords" officially sold, who will take over Sword of Xian and Sword of Xuanyuan?](https://www.bnext.com.tw/article/79394/softstar-interview-2024) — Mobile game revenue contribution exceeds 80% for IGS
+이런 차이 결코 통일된 적 없다. 아무도 통일할 권력 없기 때문이다. 각 패 테이블 규칙은 그 위 네 사람의 합의, 합의 출처는 "내 아빠가 가르칠 때 이렇게 쳤어".
 
-[^16]: [Wikibooks: Taiwanese Mahjong](https://zh.wikibooks.org/zh-tw/%E8%87%BA%E7%81%A3%E9%BA%BB%E5%B0%87) — Regional differences in rules such as consecutive win calculation, fishing the moon from the sea bottom, and leaving tiles after Kong
+혼란스럽지만, 혼란 자체가 문화다. 타이완 십육장은 일종의 가족 의식이다. 패 위에 오가는 건 규칙뿐 아니라 아공 성미, 아마 패풍, 숙부 방총할 때 표정, 그리고 매년 설날만 나타나는 그 특유한 친밀감과 화약내.
+
+《스타 마작 삼결일》은 그 테이블 대체 안 했다. 한 일 다른 거: 아직 테이블 앉을 자격 없는 사람들, 화면 앞에서 기본기 먼저 익히게 한 것. 설 초이튿날, 아마가 너 한 다리 할래 묻자, 넌 드디어 문틈 뒤에서 훔쳐보는 게 아니라 앉을 수 있다.
+
+2026년 어느 설날, 어느 거실, 스무 살 청년이 패 테이블에 앉았다. 아마가 그 패 잡는 손짓 보고 한 마디 물었다: "너 어디서 배웠니?"
+
+그는 대답하지 않았다.
+
+---
+
+## 연장 독서
+
+- [타이완 게임 산업과 디지털 엔터테인먼트](/ko/technology/taiwan-gaming-industry) — 대리에서 오리지널까지 타이완 게임 파노라마
+- [야간 생활과 KTV 문화](/ko/lifestyle/nightlife-and-ktv-culture) — 타이완인 또 다른 사회적 의식
+- [타이완 편의점 문화](/ko/lifestyle/convenience-store-culture) — 24시간 대기하는 타이완 일상 인프라
+
+---
+
+## 참고 자료
+
+[^1]: [Klook: 친구랑 패 쳐서 돈 따고 싶다? 초보자 필독 16장 마작 플레이법](https://www.klook.com/zh-TW/blog/taiwan-mahjong-rules/) — 타이완 십육장 마작 기본 규칙과 문화 배경
+
+[^2]: [위키백과: 마작](https://zh.wikipedia.org/zh-hant/%E9%BA%BB%E5%B0%86) — 각 지역 마작 규칙 차이 비교
+
+[^3]: [Pinkoi: 타이완 마작 규칙 뭐 있나? 한 편으로 초보자 잡기부터 대 계산까지](https://blog.pinkoi.com/tw/hot-topics/discovery/2211-mahjong/) — 144장 구성, 화패, 팔선과해
+
+[^4]: [위키백과: 타이완 마작](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E9%BA%BB%E5%B0%87) — 대수 계산 제도, 문청 자모
+
+[^5]: [공상시보: 룽샹 세 창업자, 예전엔 공 친구 패 친구, 동창끼리 창업해 한 세상 펼쳤다](https://www.ctee.com.tw/news/20240617700066-439901) — 리커주, 장순청, 천아젠 창업 스토리
+
+[^6]: [위키백과: 룽샹전자](https://zh.wikipedia.org/zh-hant/%E9%88%8A%E8%B1%A1%E9%9B%BB%E5%AD%90) — 1996년 PGM 기판, 아시아 유일 자제 아케이드 기판
+
+[^7]: [보시광: 타이완 마작 게임 고전! 스타 마작 삼결일 20년 넘게 히트](https://time.udn.com/udntime/story/122390/8509043) — 2001년 첫 출시, 연예인 더빙 컨셉
+
+[^8]: [보시광: 스타 마작 삼결일 20년 넘게 히트](https://time.udn.com/udntime/story/122390/8509043) — 우쭝셴, 탕충성, 왕차이화, 정위링 등 14명 연예인
+
+[^9]: [보시광: 스타 마작 삼결일 20년 넘게 히트](https://time.udn.com/udntime/story/122390/8509043) — 2002년 2세대, 지관 유통, 양안 깔아 12만 세트
+
+[^10]: [디지털타임스: 스타 마작 삼결일 그들 작품! 룽샹전자 두 번 생사 갈림길](https://www.bnext.com.tw/article/57523/igs-tw) — 2000년 첫 적자, 2013년 EPS 1.7위안
+
+[^11]: [디지털타임스: 룽샹전자 두 번 생사 갈림길](https://www.bnext.com.tw/article/57523/igs-tw) — 모바일 전환 과정, 기보·도박류 집중
+
+[^12]: [위키백과: 스타 마작 삼결일](https://zh.wikipedia.org/zh-tw/%E6%98%8E%E6%98%9F%E4%B8%89%E7%BC%BA%E4%B8%80) — 2017, 2018 연속 2년 App Store 10대
+
+[^13]: [경제일보: 룽샹 12월 매출 사상 최고 17억 위안 달성](https://money.udn.com/money/story/11074/8472160) — 2024 연매출 185억, 직원 분배금 27.68억
+
+[^14]: [Win 투자: 룽샹 2024년 매출 이익 쌍끌이 신고가](https://winvest.tw/News/Detail/56266) — 스타 마작 삼결일 유료율 2%, TADA Gaming 해외 라이선스
+
+[^15]: [디지털타임스: 대우자 '쌍검' 정식 매각, 신검·헌원검 누가 인수?](https://www.bnext.com.tw/article/79394/softstar-interview-2024) — 룽샹 모바일 매출 기여도 80% 넘어
+
+[^16]: [위키교과서: 타이완 마작](https://zh.wikibooks.org/zh-tw/%E8%87%BA%E7%81%A3%E9%BA%BB%E5%B0%87) — 연장 계산, 해저로월, 깡 패 남기기 등 규칙 지역 차이

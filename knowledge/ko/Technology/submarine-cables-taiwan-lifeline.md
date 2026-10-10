@@ -1,24 +1,25 @@
 ---
-title: 'Undersea Cables: The Silicon Shield Visible Above, The Lifeline Invisible Below'
-description: "In February 2023, two undersea cables connecting Matsu to Taiwan proper broke consecutively within six days, plunging Lienchiang County into a digital blackout for approximately 50 days. Li Wen, Chairman of the DPP Lienchiang County Party Department, described the experience: 'Sending a single text message on Line took 15 to 20 minutes.' Taiwan relies on 14 deep-sea cables for 99% of its international internet traffic, all concentrated in four landing stations on the main island. TSMC's cleanrooms represent the heroic narrative of the Silicon Shield above, while these undersea cables are the unseen lifeline below—they have the power to disconnect 23 million people from the world without firing a single shot."
+title: '해저 케이블: 실리콘 방패 위에서는 보이지만, 생명선 아래에서는 보이지 않는다'
+description: '2023년 2월 마쭈 두 해저 케이블이 엿새 만에 잇달아 끊어져 연강현이 약 50일간 인터넷 암흑기에 빠졌다. 민진당 연강현 당부 주임위원 리원은 "라인에서 문자 메시지 하나가 15분에서 20분이 걸려야 나갈 수 있다"고 묘사했다. 대만 대외 인터넷 트래픽의 99%가 해저 깊숙이 매설된 14개 회선에 의존하며, 모든 국제 해저 케이블이 본섬 네 개의 착륙국에 집중돼 있다. TSMC의 클린룸은 실리콘 방패 꼭대기의 영웅적 장면이고, 해저 케이블은 아래에서 아무도 사진 찍지 않는 엔지니어들의 서사다 — 총 한 발 쏘지 않고 2,300만 명을 세계에서 단절시킬 수 있다.'
 date: 2026-04-29
+category: 'Technology'
 tags:
   [
-    'Undersea Cables',
-    'Silicon Shield',
-    'National Security',
-    'Chunghwa Telecom',
-    'Matsu',
-    'Gray Zone',
-    'Infrastructure',
-    'Digital Sovereignty',
+    '해저 케이블',
+    '실리콘 방패',
+    '국가 안보',
+    '중화텔레콤',
+    '마쭈',
+    '회색 지대',
+    '기반 시설',
+    '디지털 주권',
   ]
 subcategory: '通訊與基礎建設'
 author: 'Taiwan.md'
-category: 'Technology'
-readingTime: 12
+featured: true
 lastVerified: 2026-04-29
 lastHumanReview: false
+researchReport: 'reports/research/2026-04/海底電纜.md'
 sporeLinks:
   - id: 55
     platform: 'threads'
@@ -29,277 +30,278 @@ sporeLinks:
     date: '2026-04-30'
     url: 'https://x.com/taiwandotmd/status/2049860918641893571'
 translatedFrom: 'Technology/海底電纜.md'
-sourceCommitSha: ''
+sourceCommitSha: '5ff155c10'
 sourceContentHash: 'sha256:a528d560e37c40b9'
 sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
-translatedAt: '2026-06-10T16:42:09Z'
-featured: true
+translatedAt: '2026-10-10T20:46:51.094359+00:00'
 ---
 
-> **30-Second Overview:** On February 2 and 8, 2023, the two undersea cables connecting Lienchiang County (Matsu) to Taiwan proper broke consecutively within six days[^1]. Chunghwa Telecom took **approximately 50 days** to repair one of them, while the second cable, Taimei No. 2, took a total of **4 months and 23 days** to fully restore—Digital Development Department Deputy Minister Chueh Ho-ming stated that this was "**exceeding the average international undersea cable repair time**" because "**interference from Chinese Coast Guard vessels**" was involved[^2]. Taiwan relies on undersea cables for **99%** of its international internet traffic. The current **14 international undersea cables**[^3] are all concentrated in **four landing stations** on the main island: Danshui, Bali, Toucheung, and Fangshan[^4]. In 2024, Chunghwa Telecom quietly activated a fifth landing station in Dawu, Taitung; local residents refer to it only by its street address, "**Building 506**"—insiders revealed this is a "**secure network for external communication in the event of war between the two sides of the strait**"[^5]. TSMC's cleanrooms are the heroic shots atop the Silicon Shield, but these 14 lines buried 1,300 meters deep under the sea are the unseen lifeline below: they can disconnect 23 million people from the world without firing a single shot.
+> **30초 개요:** 2023년 2월 2일과 8일, 연강현(마쭈)을 타이완 본섬과 연결하는 두 해저케이블이 엿새 새에 연달아 끊어졌다[^1]. 중화전신이 그중 한 회선을 복구하는 데 **약 50일**이 걸렸고, 두 번째인 타이마 2호 해저케이블은 모두 **4개월 23일**이 걸려 복구를 마쳤다——디지털발전부 차관 궈허밍은 "**국제 해저케이블 평균 수리 시간을 초과했다**", "**중국 해경선의 방해 때문이었다**"고 말했다[^2]. 타이완 대외 인터넷 트래픽의 **99%**가 해저케이블에 의존하며, 현역 **14개 국제 해저케이블**[^3]이 모두 본섬 **네 개 착륙국**에 집중돼 있다: 단수이, 바리, 터우청, 팡산[^4]. 2024년 중화전신이 타이둥 다우에 다섯 번째 착륙국을 조용히 가동했는데, 현지 주민들은 번지수로만 "**506 빌딩**"이라 부를 수 있었다——사정에 밝은 인사는 이것이 "양안 간 전시 상황에 대비한 대외 연락 안전망"이라고 전했다[^5]. TSMC의 클린룸이 실리콘 방패 꼭대기의 영웅적 클로즈업이라면, 해저 1,300미터 깊이에 놓인 이 14가닥 선은 아래에서 보이지 않는 생명선이다: 이 선들은 총 한 발 쏘지 않고 2,300만 명을 세계에서 지워버릴 수 있다.
 
-## "Building 506" Has No Signage
+## 「506 빌딩」에는 이정표가 없다
 
-Dawu Township, Taitung. Drive south on Provincial Highway 9, pass Dawu Station and then a fishing port, and there stands an utterly ordinary cement building on the roadside. No signage, no company logo, no "Welcome to Visit" sign. Locals call it "506"—that is its house number[^5].
+타이둥 다우향. 9번 국도를 따라 남쪽으로 달리다 다우역을 지나고 또 하나의 어항을 지나면, 길가에 지극히 평범한 콘크리트 빌딩 한 채가 서 있다. 간판도, 회사 로고도, '환영합니다' 표지도 없다. 현지인들은 그것을 '506'이라 부른다. 그것이 바로 그 건물의 도로명 번호다[^5].
 
-This is Taiwan's **5th external undersea cable landing station**, quietly completed by Chunghwa Telecom in June 2024. It connects to the TPU cable (Taiwan-Philippines-US), which is 13,470 kilometers long with a capacity of 260 Tbps, going online in October 2025, connecting Taiwan to the Philippines and then to the US West Coast[^6].
+이것은 중화텔레콤이 2024년 6월 조용히 준공한 타이완의 **제5번째 대외 해저케이블 착륙국**이다. 연결된 것은 TPU 해저케이블(Taiwan-Philippines-US)로, 총길이 13,470km, 용량 260Tbps이며, 2025년 10월 개통되어 타이완을 필리핀을 거쳐 미국 서해안과 연결한다[^6].
 
-But on the day Chunghwa Telecom opened it, **no local officials were invited, no central government leaders were invited**. The United Daily News later quoted an insider saying this is a "**secure network for external communication in the event of war between the two sides of the strait**"—Taiwan's other 14 international undersea cables are all concentrated in three points on the west, north, and south coasts facing China. **Dawu, Taitung is the first east-coast landing station facing the Pacific Ocean**, offering higher stealth during wartime than any current location[^5].
+그러나 중화텔레콤 개통식 날 **지방 관료도, 중앙 수장도 초대하지 않았다**. 연합보가 나중에 인용한 관계자의 말에 따르면, 이는 "양안 간 전시 발생 시 대외 연락 안전망"이다. 타이완의 다른 14개 국제 해저케이블이 모두 중국을 마주한 서·북·남 해안 세 지점에 집중돼 있는 반면, **타이둥 다우는 태평양을 향한 첫 번째 동해안 착륙국**으로, 전시 은닉성이 현재 그 어떤 위치보다 높다[^5].
 
-> **📝 Curator's Note**
-> In an interview with _Rest of World_, Digital Development Department Deputy Minister Chueh Ho-ming said: "**if you have a cable that isn't on the map, in general it will be cut more often**"[^7]. The Dawu 506 Building is Taiwan's first geographically "hidden" external undersea cable; this statement has transformed from a technical recommendation into a concrete construction project. It tells us one thing: in the 2025 cross-strait situation, **"being unseen" itself has become a design parameter for infrastructure**.
+> **📝 기획자 메모**
+> 디지털발전부 차관 퀘허밍이 Rest of World 인터뷰에서 말했다: "**if you have a cable that isn't on the map, in general it will be cut more often**"(지도에 없는 해저케이블은 일반적으로 더 자주 절단된다)[^7]. 타이둥 다우 506 빌딩은 타이완에서 지리적으로 '은닉'된 첫 번째 대외 해저케이블이다. 이 말이 기술적 조언에서 구체적 건설로 변했다. 그것은 우리에게 한 가지를 말해준다: 2025년 타이완해협 정세에서, **'보이지 않는 것' 자체가 이미 인프라의 하나의 설계 매개변수가 되었다**.
 
-## Glass as Thin as Hair, Supporting the External Connectivity of 23 Million People
+## 머리카락 굵기의 유리, 2,300만 명의 대외 통신을 떠맡다
 
-Which route does a message from Taipei to San Francisco take?
+타이베이에서 샌프란시스코까지 메시지는 어떤 경로로 갈까?
 
-Not satellites. **95% of global international internet traffic** relies on undersea cables for transmission[^8]. **99% of Taiwan's external data transmission** relies entirely on undersea cables, a dual-source conclusion from the US-China Economic and Security Review Commission's November 2025 report and the Global Taiwan Institute's June 2025 report[^9].
+위성이 아니다. **전 세계 95%**의 국제 인터넷 트래픽은 해저 케이블로 전송된다[^8]. **타이완의 99%** 대외 데이터 전송이 전부 해저 케이블에 의존하는데, 이는 미중 경제안보검토위원회 2025년 11월 보고서와 글로벌 대만 연구소 2025년 6월 보고서의 양쪽 출처에서 확인된 결론이다[^9].
 
-The term "undersea cable" sounds like a thick pipeline, but in reality, **the optical fiber is only as thick as a human hair**. The main body of a trans-Pacific optical cable consists of a few bundles of glass fibers wrapped in insulation layers, copper tubes, waterproof layers, and steel strands. They are plowed and buried 1.5 to 2 meters under the seabed, spanning tens of thousands of kilometers of Pacific Ocean trenches, reaching depths of up to 8,000 meters at their deepest points[^10].
+'해저 케이블'이라는 단어는 굵은 파이프를 연상시키지만, 실제로는 **광섬유가 머리카락 굵기만 하다**. 한 태평양 횡단 광케이블의 본체는 절연층, 구리관, 방수층, 강연선으로 감싼 몇 다발의 유리 섬유다. 이것들은 해저 1.5~2미터 깊이에 매설되어, 수만 킬로미터의 태평양 해구를 가로지르며, 가장 깊은 곳은 8,000미터에 달한다[^10].
 
-Taiwan's current **14 international undersea cables**: APG, NCP, FASTER, TPE, EAC-C2C, APCN-2, SJC, SJC2, Apricot, PLCN, China-US, FNAL/RNAL, Trans-Pacific series, and the newly online TPU—plus SeaMeWe-3, which was decommissioned on December 2, 2024[^11].
+타이완의 현역 **14개 국제 해저 케이블**: APG, NCP, FASTER, TPE, EAC-C2C, APCN-2, SJC, SJC2, Apricot, PLCN, China-US, FNAL/RNAL, Trans-Pacific 시리즈, 새로 개통된 TPU: 여기에 2024년 12월 2일 퇴역한 SeaMeWe-3를 더하면 된다[^11].
 
-| Communication Method      | Magnitude                | Matsu Example                                   |
-| ------------------------- | ------------------------ | ----------------------------------------------- |
-| Undersea Cable            | TBps (Terabits / second) | Taimei No. 2: 560 Gbps + Taimei No. 3: 550 Gbps |
-| Microwave Backup          | GBps (Gigabits / second) | Matsu original 2.2 Gbps → Expanded to 12.6 Gbps |
-| Low-Earth Orbit Satellite | MBps (Megabits / second) | OneWeb Download: 90-100 Mbps                    |
+| 통신 방식       | 규모              | 마쭈 사례                                           |
+| --------------- | ----------------- | --------------------------------------------------- |
+| 해저 케이블     | TBps(테라비트/초) | 타이완-마쭈 2호 560 Gbps + 타이완-마쭈 3호 550 Gbps |
+| 마이크로파 백업 | GBps(기가비트/초) | 마쭈 기존 2.2 Gbps → 증설 12.6 Gbps                 |
+| 저궤도 위성     | MBps(메가비트/초) | OneWeb 다운로드 90-100 Mbps                         |
 
-**The magnitude differs by three orders of magnitude**[^12]. CNA summarized it this way: "**Undersea cable bandwidth is measured in TB, microwave communication in GB, and satellites in MB**."
+**규모가 세 자릿수(세 개 수량급) 차이 난다**[^12]. 중앙통신사는 이렇게 요약했다: 「해저 케이블 대역폭은 TB 단위로 전송되고, 마이크로파 통신은 GB 단위로, 위성은 MB 단위로 전송된다」.
 
-Digital Development Department Resilience Construction Division Director Zheng Mingzong used an even more straightforward analogy: "**Wired undersea cables are like highways, while wireless satellites are like country roads. If North Highway 1 and North Highway 2 were completely destroyed, relying on the West Coast Highway and country roads would hardly be able to substitute.**"[^13]
+디지털발전부 레질리언스건설사 사장 정밍종은 더 직관적인 비유를 들었다: 「유선 해저 케이블은 고속도로와 같고, 무선 위성은 시골길과 같다. 지금 1번 고속도로와 2번 고속도로가 모두 끊어졌다고 가정하면, 서빈 도로와 시골길로는 대체하기 어렵다.」[^13]
 
-## Matsu's LINE Takes 15 Minutes
+## 마쭈 사람들의 LINE 메시지 전송에 15분 소요
 
-On February 2, 2023, the Taimei No. 2 undersea cable was suspected of being hooked and broken by a Chinese-flagged fishing vessel[^14].
+2023년 2월 2일, 타이마 2호 해저케이블이 중국 국적 어선에 의해 훼손된 것으로 의심됨[^14].
 
-On February 8, 2023, the Taimei No. 3 undersea cable was suspected of being cut by a Chinese-flagged cargo ship dropping anchor. **Within six days, both of Matsu's main external cables were broken.**
+2023년 2월 8일, 타이마 3호 해저케이블이 중국 국적 화물선의 닻에 의해 절단된 것으로 의심됨. **6일 만에 마쭈의 대외 연결 주요 해저케이블 2개가 모두 끊어짐**.
 
-Matsu has cumulatively experienced **at least 27 cable breaks** over the past 5 years[^15]: this is no longer new news; it is the norm for local communications. But **both breaking simultaneously** was a scenario neither the NCC nor Chunghwa Telecom had handled before. Matsu's microwave backup capacity at the time was only **2.2 Gbps**, while Matsu's peak demand was approximately **8 Gbps**, far insufficient[^16].
+마쭈는 지난 5년간 누적 **최소 27회 단선**[^15] 발생: 이는 이미 새로운 일이 아니며 현지 통신의 일상이 되었음. 하지만 **두 회선이 동시에 끊긴 것**은 NCC와 중화전신 모두 처리해본 적 없는 시나리오였음. 당시 마쭈의 마이크로파 백업 용량은 **2.2 Gbps**에 불과했고, 마쭈 피크 수요는 약 **8 Gbps**로 크게 부족했음[^16].
 
-Li Wen, Chairman of the DPP Lienchiang County Party Department, described in a PTS interview: "**Just sending a single text message on Line took 15 to 20 minutes.**"[^17] That statement was a physical fact, not rhetoric. During those 50 days when Matsu's internet was throttled back to basic communication, tourists during the Blue Tears peak season encountered intermittent checkout systems, hospital remote consultations were interrupted, students could not access online courses, and elderly people's electronic health insurance cards could not be read.
+민주진보당 연강현 당부 주임 리원이 공영방송(PTS) 인터뷰에서 묘사: **"단지 LINE 문자 메시지 하나 보내는 데도 15~20분이 걸린다."**[^17] 이 말은 수사적 표현이 아닌 물리적 사실임. 마쭈 인터넷이 기본 통신만 가능한 저속 상태로 떨어진 그 50일 동안, 푸른 눈물(藍眼淚) 성수기 관광객들은 결제 시스템이 끊겼다 연결됐다를 반복했고, 병원 원격 진료가 중단되었으며, 학생들은 온라인 수업을 들을 수 없었고, 노인들의 전자 건강보험 카드를 읽을 수 없었음.
 
-Chunghwa Telecom urgently deployed microwave antennas from backup stations in Nantou and Pingtung, expanding Matsu's capacity to 3.8 Gbps (a 76% capacity increase). Fixed-line internet was opened on March 6. **On March 31, the first Taimei No. 3 undersea cable repair was completed**[^18], taking **approximately 50 days** in total[^19].
+중화전신이 긴급히 난터우와 핑둥 백업 기지에서 마이크로파 안테나를 동원해 마쭈 용량을 **3.8 Gbps**(용량 76% 증가)로 확장. 3월 6일 유선 인터넷 개방. **3월 31일, 첫 번째 타이마 3호 해저케이블 수리 완료**[^18], 전후 **약 50일**[^19] 소요.
 
-But the story does not end here.
+하지만 이야기는 여기서 끝나지 않음.
 
-Chueh Ho-ming later told _The Reporter_: "**The Taimei No. 2 undersea cable took 4 months and 23 days to repair, exceeding the average international undersea cable repair time, one reason being 'interference from Chinese Coast Guard vessels.'**"[^2]
+궈허밍이 나중에 《보도자》에 전함: **"타이마 2호 해저케이블은 무려 4개월 23일이 걸려 수리됐으며, 이는 국제 해저케이블 평균 수리 시간을 초과함. 그 이유 중 하나는 '중국 해경선의 방해'를 받았기 때문."**[^2]
 
-> **⚠️ From 50 Days to 4 Months and 23 Days**
-> General media remembers the number "**Matsu disconnected for 50 days**." It is the time to "repair the first one," sufficient to cause shock but not complete. **4 months and 23 days** is the true time for "both to be repaired"—nearly the sum of the repair timelines for both cables, returning to normal bandwidth from the break on February 8, 2023, to the end of June. Undersea cable repair is not "sending a ship to untie a knot"; it requires sonar positioning, seabed operations, lifting the two ends of the cable from the seabed hundreds of meters deep, splicing new optical fibers, thermal fusion insulation, and laying it back down—and the cable ship operating in the accident area **encounters "interference" from Chinese Coast Guard vessels**.
+> **⚠️ 50일에서 4개월 23일로**
+> 일반 언론은 **"마쭈 단망 50일"**이라는 숫자를 기억함. 이는 "첫 번째 회선 수리"에 걸린 시간으로, 충격적이지만 불완전함. **4개월 23일**이야말로 "두 회선 모두 수리 완료"의 실제 시간임——거의 두 해저케이블 수리 일정을 합친 것으로, 2023년 2월 8일 단선부터 6월 말 정상 대역폭 회복까지. 해저케이블 수리는 "배 보내서 매듭 짓기"가 아니라, 먼저 음파 탐지로 위치 확인, 해저 작업, 수백 미터 깊은 해저에서 케이블 양단 인양, 새 광섬유 접속, 절연 열융합, 재포설 과정 필요——게다가 해저케이블 선박이 사고 해역에서 작업할 때 **중국 해경선의 '방해'도 마주치게 됨**.
 
-## Togolese Flag, Hong Kong Shares, Fujian Crew, Taiwan Seabed
+## 토고 선적, 홍콩 자본, 푸젠 선원, 타이완 해저
 
-Two years after the Matsu cable break, 2025 became the explosion year for Taiwan's undersea cable incidents. **Six incidents occurred in a single month**, with the National Security Bureau statistics showing an average of 7 to 8 intentional cable breaks per year over the past 3 years[^20]. The US-China Economic and Security Review Commission's November 2025 report even noted **at least 27 undersea cable destructions in Taiwan from 2019 to 2023**[^21].
+마쭈 단선 이후 2년, 2025년은 타이완 해저 케이블 사건의 폭발적인 해가 되었다. **단일 월에만 6건이 발생했으며, 국안국 통계에 따르면 최근 3년간 연평균 7~8건의 인위적 단선이 일어났다**[^20]. 미중경제안보검토위원회 2025년 11월 보고서는 **2019년부터 2023년까지 타이완에서 최소 27건의 해저 케이블 파괴가 발생했다**고 적시했다[^21].
 
-These "unknown vessels" share a common structural characteristic.
+이 사건들의 '불명 선박'에는 공통된 구조적 특징이 있다.
 
-**Shunxing 39** (**Shunxing 39**), a Cameroon-flagged cargo ship, **owned by a Hong Kong company**, with **7 Chinese crew members**. From October 2024, it entered and exited Taiwan's territorial waters for 3 months, with AIS turning off multiple times. On January 3, 2025, it cut the TPE international undersea cable section in the northeast sea area. The Taiwan Coast Guard originally attempted to board the ship but failed due to rough seas. The ship departed the port, **without entering judicial proceedings**[^22].
+**순흥 39호**(**Shunxing 39**), 카메룬 선적 화물선, **홍콩 회사**가 보유, **중국 국적 선원 7명**. 2024년 10월부터 타이완 영해를 3개월간 드나들며 AIS를 수차례 껐다. 2025년 1월 3일 동북 해역 TPE 국제 해저 케이블 구간을 절단했다. 타이완 해순서가 원래 승선하려 했으나 해상 악화로 실패했다. 해당 선박은 출항했고, **사법 절차에 들어가지 않았다**[^22].
 
-**Hong Tai 58** (**Hong Tai 58**), a Togolese-flagged cargo ship, with Chinese crew members, called by the KMT "China Black Ship." From February 22 to 25, 2025, it dropped anchor and circled back and forth over the Taipeng No. 3 undersea cable in a no-anchor zone, **cutting it at 3:00 AM on February 25**. The Coast Guard boarded the ship the same day and escorted it to Anping Port. On April 11, 2025, the Chinese captain Wang Yuliang was prosecuted. **On June 12, 2025, the first instance sentenced him to 3 years and ordered compensation of NT$18.22 million to Chunghwa Telecom**—this is the "**first case of new internal waters judicial jurisdiction**"[^23].
+**훙타이 58호**(**Hong Tai 58**), 토고 선적 화물선, 중국 국적 선원, 국민당이 '중국 흑선'이라 칭함. 2025년 2월 22일부터 25일까지 금묘 구역에 정박하며 타이펑 3호 해저 케이블 주변을 왕복 항행했고, **2월 25일 오전 3시에 절단**했다. 해순서가 당일 승선해 안핑항까지 호송했다. 2025년 4월 11일 중국 국적 선장 왕위량(王玉良)을 기소. **2025년 6월 12일 1심 징역 3년, 중화전신에 NT$1,822만 배상 판결**: 이는 "**신내수(new internal waters) 사법 관할 첫 사례**"다[^23].
 
-**Togo, Cameroon, Hong Kong, China, Fujian, Taiwan**—these six place names overlap on every suspicious ship in an apparently coincidental way. The ship's legal flag is Togolese or Cameroonian (because those are "**flag of convenience**" states, cheap to register, lax in verification), actual funding comes from Hong Kong companies, the captain is Chinese, the crew comes from Fujian, and the operational sea area is Taiwan. **Legally, you cannot catch the People's Republic of China, because it is a Togolese-flagged ship.**
+토고, 카메룬, 홍콩, 중국, 푸젠, 타이완——이 여섯 지명이 마치 우연인 양 매 의심 선박에 중첩되어 있다. 선박의 법적 국적은 토고나 카메룬을 내걸고 있다(이곳이 '**편의치적국(flag of convenience)**'이기 때문: 등록이 싸고 심사가 느슨하다). 실제 출자자는 홍콩 회사, 선장은 중국 국적, 선원은 푸젠 출신, 작전 해역은 타이완. **법적으로 중화인민공화국을 잡을 수 없다. 토고 선적 선박이기 때문이다**.
 
-Chueh Ho-ming later used a very specific English phrase in a _Rest of World_ interview: "**I say this is 'accidental,' and they also said it was 'accidental,' so 'accidentally' all this happened within a week.**"[^7] The nuance of the original rhetoric cannot be fully translated, but the irony of saying "accidentally" three times tells you more directly than any national security report **how Taiwanese officials view these "accidents"**.
+궈허밍은 나중에 Rest of World 인터뷰에서 아주 특별한 영문 한 마디를 썼다: "**I say this is 'accidental,' and they also said it was 'accidental,' so 'accidentally' all this happened within a week.**"[^7] 원문의 수사적 층위를 번역해 낼 수 없지만, 'accidentally'를 세 번 연달아 말하는 그 조롱은 어떤 국안 보고서보다 더 직접적으로 **타이완 당국자들이 이 '우연'들을 어떻게 보는지**를 알려준다.
 
-> **💡 Did You Know**
-> The National Security Bureau report categorizes intentional destruction into four types: (1) **Exposure and damage to cables due to large-scale sand mining**, (2) **Cables broken by fishing vessel trawling**, (3) **Cables damaged by large cargo ships dropping anchors**, (4) **Flag-of-convenience ships masking activities**[^24]. Taiwan's 2025 published "Blacklist" includes **52 Chinese flag-of-convenience ships**, with 15 high threat, 4 medium, and 10 certain threat[^25]. But the "Blacklist" is a **Taiwanese administrative classification**, not a judicial conviction—this is the physical meaning of the "gray zone": you can see it, but you cannot prove it.
+> **💡 알고 계십니까**
+> 국안국 보고서는 인위적 파괴를 네 가지 유형으로 나눈다: (1) **대량 채사로 인한 해저 케이블 노출 손상**, (2) **어선 저인망 조업으로 해저 케이블 절단**, (3) **대형 화물선 정박 앵커 훼손**, (4) **중국 편의치적선 위장 활동**[^24]. 타이완이 2025년 공개한 '블랙리스트'에는 총 **52척의 중국 편의치적선**이 있으며, 그중 15척 고위협, 4척 중위협, 10척 일정 정도 위협으로 분류된다[^25]. 하지만 '블랙리스트'는 **타이완 행정 분류**일 뿐 사법적 유죄 판결이 아니다——이것이 '회색 지대'의 물리적 의미다: 보이지만 증명할 수는 없다.
 
-## China Wants to Bypass Taiwan, Finds It Cannot
+## 중국이 타이완을 우회하려 했으나, 우회할 수 없었다
 
-On April 21, 2017. Google, Facebook, and a company called **Pacific Light Data Communication (PLDC)** applied to the US FCC to lay a trans-Pacific undersea cable called **PLCN (Pacific Light Cable Network)**. The designed route was: **USA - Hong Kong - Taiwan - Philippines**[^26].
+2017년 4월 21일, 구글과 페이스북, 그리고 **Pacific Light Data Communication(PLDC)**라는 회사가 미국 FCC에 **PLCN(Pacific Light Cable Network)**이라는 태평양 횡단 해저케이블 부설을 신청했다. 설계 경로는 **미국 - 홍콩 - 타이완 - 필리핀**이었다[^26].
 
-PLDC's parent company is China's Dr. Peng Telecom.
+PLDC의 모회사는 중국의 팽보스전신(Dr. Peng Telecom)이다.
 
-At that time, Trump was not yet in office. China-Hong Kong cables were still considered routine engineering for the US side.
+당시 트럼프는 아직 취임하지 않은 상태였다. 중-홍 해저케이블은 미국 측에 여전히 통상적인 공사였다.
 
-In June 2020, the US **Team Telecom** (a cross-departmental evaluation agency) recommended the FCC **partially deny PLCN**: refuse direct connection USA-HK, refuse Chinese shareholder participation—retain USA-Taiwan / USA-Philippines segments[^27]. Google and Facebook withdrew the original application and re-applied (without the Hong Kong segment, without Chinese shareholders). **In January 2022, the FCC approved PLCN's USA-Taiwan / USA-Philippines segments for commercial operation**.
+2020년 6월, **미국 팀 텔레콤(Team Telecom)**(범부처 평가 기구)이 FCC에 **PLCN 부분 불허**를 권고했다: 미-홍 직결 불허, 중국 주주 참여 불허——미-타이완/미-필리핀 구간은 유지[^27]. 구글과 페이스북은 원 신청을 철회하고 재신청했다(홍콩 구간 없음, 중국 주주 없음). **2022년 1월, FCC가 PLCN 미-타이완/미-필리핀 구간 상업 운용을 승인했다**.
 
-From that moment on, "**bypassing Hong Kong**" became the new political principle for Pacific undersea cable construction. China's original plan to enter trans-Pacific undersea cables through Dr. Peng was interrupted, and subsequent China-Hong Kong cables like HKA, HK-G, and Bay-to-Bay Express were also continuously denied or rerouted[^28].
+그 순간부터 '홍콩 우회'가 태평양 해저케이블 건설의 새로운 정치적 원칙이 되었다. 중국이 본래 팽보스를 통해 태평양 횡단 해저케이블에 진입하려던 계획이 중단되었고, 이후 HKA, HK-G, Bay-to-Bay Express 등 여러 중-홍 해저케이블도 연이어 불허되거나 경로가 변경되었다[^28].
 
-Chunghwa Telecom Chairman Jian Zhicheng summarized this shift to CNA: "**US-led cables try to avoid landing in Hong Kong, and more cables land in Taiwan.**"[^29] "**For future international undersea cable deployment, areas that are politically sensitive and difficult to obtain permits will be avoided, and equipment demands will de-sinicize the supply chain.**"
+중화전신 이사장 간즈청(簡志誠)이 중앙통신사에 이 전환을 요약했다: 「미국 주도의 해저케이블은 가급적 홍콩에 착륙하지 않으며, 타이완에 착륙하는 해저케이블이 늘어나고 있다.」[^29] 「향후 국제 해저케이블 부설은 비교적 정치적으로 민감하고 허가를 받기 어려운 지역을 피할 것이며, 설비 수요는 탈중국화(去紅化)된 공급망을 지향할 것이다.」
 
-This is a paradoxical dividend for Taiwan. **Hyperscalers (Google, Meta, Microsoft, Amazon) might have originally bypassed Taiwan's cable plans, but now instead choose Taiwan as the Asia-Pacific hub**:
+이는 타이완에 역설적인 이득이 되었다. **하이퍼스케일러(Hyperscaler, 구글, 메타, 마이크로소프트, 아마존)**가 본래 타이완을 우회하려던 해저케이블 계획들을 이제는 오히려 타이완을 아태 허브로 선택하고 있다:
 
-- Google: FASTER (2016) + PLCN (2022) + TPU (2025) + Apricot co-investment + Topaz (2024)
-- Meta: Apricot + Bifrost + Echo + **Candle** (announced October 2025, connecting to Taiwan, 2028 launch, largest Asia-Pacific capacity)[^30]
-- Microsoft + AWS: Co-investing with Chunghwa Telecom **AUG East** (NT$2.9 billion, completion in 2029)[^31]
-- Chunghwa Telecom also invests NT$4.6 billion in **E2A** (second half of 2028 launch)
+- 구글: FASTER(2016) + PLCN(2022) + TPU(2025) + Apricot 공동 투자 + Topaz(2024)
+- 메타: Apricot + Bifrost + Echo + 2025년 10월 새로 발표한 타이완 연결 **Candle**(2028년 개통, 아태 최대 용량)[^30]
+- 마이크로소프트 + AWS: 중화전신과 **AUG East** 공동 투자(NT$29억, 2029년 완공)[^31]
+- 중화전신 별도 투자 NT$46억의 **E2A**(2028년 하반기 개통)
 
-The density of these cables will temporarily make Taiwan a cable hub. But the flip side of the same fact is: **when you become an unavoidable point, you become a target**.
+이들 해저케이블의 밀도가 단기간에 타이완을 해저케이블 허브로 만들었다. 하지만 같은 사실의 또 다른 면: **자신이 우회할 수 없는 지점이 되면, 표적이 된다**.
 
-## If the Highway is Blown Up, the West Coast Highway and Industrial Roads Cannot Save You
+## 고속도로가 끊겼는데, 서빈과 산업도로로는 못 구한다
 
-After the Matsu cable break incident, the Digital Development Department accelerated the construction of backup systems.
+마쭈 단선 사건 이후, 디지털발전부가 비상 시스템 구축을 가속화했다.
 
-**Microwave backup** expanded from 2.2 Gbps to 3.8 Gbps, and again to 12.6 Gbps in 2025[^16]. **Low-Earth Orbit satellite backup** chose **OneWeb** (Eutelsat), not Starlink—by the end of June 2024, OneWeb signal coverage included Taiwan proper, Kinmen, Matsu, and Penghu; by the end of 2024, 700 user terminals + 70 base station backhaul links were completed[^32].
+**마이크로파 비상**을 2.2 Gbps에서 3.8 Gbps로 확대하고, 2025년에는 12.6 Gbps로 재확대[^16]. **저궤도 위성 비상**으로 **OneWeb**(유텔샛)을 선택, 스타링크가 아님——2024년 6월 말 OneWeb 신호가 타이완 본섬과 진마펑을 커버, 2024년 말까지 700개 사용자 단말 + 70개 기지국 백홀 링크 완성[^32].
 
-Choosing OneWeb over Starlink is a political choice. Musk's restriction of Starlink services for Ukraine made Taiwan wary: **the "political reliability" of satellite backup is as important as technical capacity**. But OneWeb's capacity is far inferior to Starlink—this is the cost of "diversifying trust."
+OneWeb을 선택하고 스타링크를 배제한 것은 정치적 선택. 머스크가 우크라이나에 스타링크 서비스를 제한한 사건이 타이완에 경각심을 줌: **위성 비상의 '정치적 신뢰성'이 기술적 용량과 동등하게 중요**. 하지만 OneWeb 용량은 스타링크에 훨씬 미치지 못함——이것이 '신뢰 분산'의 대가.
 
-Medium-Earth Orbit satellites (**SES**) were introduced by Chunghwa Telecom for commercial service in the first quarter of 2025, serving as a third layer of backup alongside microwave and low-Earth orbit satellites[^33].
+중궤 위성(**SES**) 2025년 1분기 중화텔레콤이 상용 서비스 도입, 마이크로파 + 저궤도 위성 외 제3층 비상으로[^33].
 
-But the physical fact of a three-order-of-magnitude difference in magnitude has not changed. Zheng Mingzong's highway analogy means: **if all 14 international undersea cables are cut, Taiwan will not become a "silent island," but will be throttled back to "basic communication"**—LINE text can pass, but Netflix, cloud work, AI model calls, and cross-border financial settlements will all stall.
+하지만 세 자릿수 차이의 물리적 사실은 변하지 않음. 정밍종의 고속도로 비유를 달리 말하면: **14조 국제 해저케이블이 모두 끊겨도, 타이완은 '무성 고도'가 되지 않지만 '기본 통신'으로 강등**——라인 문자는 가능하지만, 넷플릭스, 클라우드 작업, AI 모델 호출, 국경 간 금융 결제는 모두 정지.
 
-Professor Feng Kaiming of the Department of Electrical Engineering at National Tsing Hua University said a cold statement to PTS: "**If the PLA wants to attack Taiwan, it only needs to attack our undersea cables, and it can very easily isolate Taiwan from the world.**"[^34] Professor Ding Shufan, Emeritus Professor of the Institute of East Asian Studies at National Chengchi University, added: "**Using precision strike weapons to attack the 4 international undersea cable landing stations can destroy the entire network system at once.**"[^35]
+칭화대 전기공학과 펑카이밍 교수가 공영방송(PTS)에 말한 냉엄한 발언: "**만약 중공군이 타이완을 치려 한다면, 우리 해저케이블만 공격해도 매우 쉽게 타이완을 세계와 격리시킬 수 있다.**"[^34] 정치대 동아연구소 딩수판 명예교수 보충: "**정밀 타격 무기로 4개 국제 해저케이블 착륙국만 공격해도 한 번에 전체 네트워크 시스템을 파괴할 수 있다.**"[^35]
 
-> **📊 Data** The US-China Economic and Security Review Commission's November 2025 report estimates: **If China completely cuts Taiwan's undersea cables, Taiwan's daily economic loss would be $55.6 million (approximately NT$1.73 billion)**[^36]. This number is conservative, as it only calculates the direct loss of interrupted internet services, not the chain effects of suspended semiconductor exports, frozen cross-border financial transactions, and disconnection of multinational corporate headquarters and Taiwan branches.
+> **📊 데이터** 미중경제안보검토위원회 2025년 11월 보고서 추정: **중국이 타이완 해저케이블을 전면 차단하면, 타이완 일일 경제 손실 5,560만 달러(약 NT$1.73 billion)**[^36]. 이 수치는 보수적임. 직접적 네트워크 서비스 중단 손실만 계산, 반도체 수출 중단, 금융 국경 간 거래 동결, 다국적 기업 본사와 타이완 지사 단절 등 연쇄 효과 미포함.
 
-## One Ship Takes 22 Days, One Ship Rents for 800,000 Per Day
+## 한 척 22일, 선박 일일 임대료 80만 원
 
-How long does it take to repair a broken undersea cable?
+끊어진 해저 케이블을 수리하는 데 얼마나 걸릴까?
 
-**2025 January TPE International Undersea Cable Incident**: Japan's KDDI's _Ocean Link_ arrived in Taiwan on January 13 and was repaired by January 20, **7 days**[^37].
+**2025년 1월 TPE 국제 해저 케이블 사건**: 일본 KDDI의 오션 링크호가 1월 13일 타이완에 도착해 1월 20일 수리를 완료했다. **7일**[^37].
 
-**2023 Taimei No. 2 Undersea Cable**: **4 months and 23 days**.
+**2023년 타이완-마쭈 2호 해저 케이블**: **4개월 23일**.
 
-Where is the difference? International undersea cables have higher priority than domestic undersea cables (due to shareholder structure and fleet consistency), and the repair of the 2023 Taimei No. 2 also encountered "interference" from Chinese Coast Guard vessels.
+차이는 무엇일까? 국제 해저 케이블이 국내 해저 케이블보다 우선순위가 높다(주주 구조와 선단이 같기 때문). 게다가 2023년 타이완-마쭈 2호 수리 당시 중국 해경선의 '방해'도 있었다.
 
-The global undersea cable ship industry has only about **60 cable ships**, **about 50 with repair capabilities, and 22 dedicated to repair**[^38]. **Taiwan itself has no undersea cable repair ships**, joining two repair ship zones: **Yokohama (YOKOHAMA)** and **Southeast Asia Indian Ocean (SEAIOCMA)**, totaling **6 cable ships available to Taiwan for repairs**[^39]. Ship owners are Japanese, South Korean, Singaporean, Chinese (Hua Hai Long); Taiwan has none of its own.
+전 세계 해저 케이블 선박 산업에는 약 **60척의 해저 케이블 선박**만 있으며, **약 50척이 수리 능력을 갖추고, 22척이 전담 수리 선박**이다[^38]. **타이완 자체에는 해저 케이블 수리 선박이 없다**. 두 개의 수리 선박 구역에 가입해 있다: **요코하마(YOKOHAMA)**와 **동남아 인도양(SEAIOCMA)**. 총 **6척의 해저 케이블 선박이 타이완에 와서 수리할 수 있다**[^39]. 선주 국적은 일본, 한국, 싱가포르, 중국(화하이룽/华海龙)이며, 타이완에는 자국 선박이 없다.
 
-**Single repair cost is 10 to 20 million NTD, cable ship daily rental is approximately NT$800,000**[^40].
+**단일 수리 비용 1,000만~2,000만 NT$, 해저 케이블 선박 일일 임대료 약 NT$80만**[^40].
 
-Why doesn't Chunghwa Telecom build its own repair ships? Jian Zhicheng's answer is straightforward: "**Building a self-owned repair ship team probably does not meet economic efficiency.**"[^41] Chueh Ho-ming added another structural reason: "**Now, backup microwaves and backup satellites are 100% government-funded. Undersea cables are inherently profitable; if the government funds them again, it might contradict the original privatization of Chunghwa Telecom.**"[^42]
+중화텔레콤은 왜 자체 수리 선박을 건조하지 않을까? 젠즈청의 답변은 직설적이다. "**자체 수리 선박 팀을 꾸리면 경제적 효익에 부합하지 않을 것이다.**"[^41]
 
-Professor Jian Liangui of the Department of River and Sea Engineering at National Taiwan Ocean University leaves some room for thought: "**Perhaps accumulating some experience, the next step might allow us to start from near-shore and take responsibility for repairs ourselves.**" "**Probably no more than 3 companies.**" (referring to companies with repair capabilities)[^43]
+쥐허밍은 또 다른 구조적 원인을 보충했다. "**현재 백업용 마이크로웨이브와 백업용 위성은 모두 정부가 100% 지출한다. 그런데 해저 케이블은 본래 수익 사업인데, 다시 정부가 출자하면 당초 중화텔레콤 민영화 취지에 어긋날 수 있다.**"[^42]
 
-## Half of the Silicon Shield, Or—The Achilles' Heel
+타이완 해양대학 하해공정학과 교수 젠롄구이의 견해는 여지를 남겼다. "**어쩌면 경험을 축적하면 다음 단계에서는 연안부터 시작해 자체적으로 수리를 맡을 수 있을지도 모른다.**" "**수리 실력을 갖춘 업체가 3곳을 넘지 않을 것이다.**"(수리 실력을 가진 업체를 지칭)[^43]
 
-When discussing Taiwan's digital sovereignty, foreign media loves the metaphor **silicon shield**: China attacking Taiwan would paralyze TSMC, causing the global supply chain to collapse, so the US would intervene.
+## 실리콘 방패의 다른 절반, 혹은——아킬레스건
 
-But the cable logic is asymmetrical.
+타이완의 디지털 주권을 논할 때 외국 언론이 가장 즐겨 쓰는 비유는 **실리콘 방패(silicon shield)**다: 중국이 타이완을 공격하면 TSMC가 마비되고, 글로벌 공급망이 붕괴하므로 미국이 개입한다는 논리다.
 
-**The Silicon Shield triggers US intervention; the cable gray zone does not.** A Togolese-flagged cargo ship dropping anchor in a no-anchor zone in Taiwan and cutting a Taipeng No. 3 undersea cable does not constitute an "armed attack" under international law, does not trigger the mutual defense clause of the Taiwan Relations Act, and does not send the Seventh Fleet out to sea. The cumulative effect of Chinese flag-of-convenience ships destroying 7 to 8 Taiwan undersea cables annually can chronically strangle Taiwan's external communications **without being recognized as an act of war**.
+하지만 해저 케이블의 논리는 비대칭적이다.
 
-UK _Foreign Policy_ columnist Elisabeth Braw analyzed for PTS: "**The Matsu internet blackout incident is highly likely China practicing a blockade of Taiwan's external communications, testing how the Taiwan government reacts; this is a form of harassment and a standard gray zone strategy**" "**China can certainly say those are just fishing boats and merchant ships, with no warships or military attacks on Taiwan.**"[^44]
+**실리콘 방패는 미국의 개입을 촉발하지만, 해저 케이블 회색 지대는 촉발하지 않는다**. 토고 선적 화물선이 타이완 금묘 구역에 정박해 타이완-펑후 3호 해저 케이블을 절단한 행위는 국제법상 '무력 공격'을 구성하지 않으며, 《타이완 관계법》의 방위 조항을 발동시키지도, 제7함대를 출동시키지도 않는다. 중국 편의치적 선박이 매년 7~8조의 타이완 해저 케이블을 파괴하는 누적 효과는 타이완의 대외 통신을 만성적으로 질식시킬 수 있으면서도 **전쟁 행위로 인정되지 않는다**.
 
-Journalist Samanth Subramanian, author of _The Web Beneath the Waves_, summarized with a colder English sentence: "**Were a foreign power to snap those fifteen international cables, Taiwan—the West's buffer against China, and the semiconductor factory to the planet—would be unmoored from the world it needs and the world that needs it.**"[^45] (If a foreign power were to cut those 15 international undersea cables, Taiwan—the West's buffer against China, and the planet's semiconductor factory—would be disconnected from the world it needs and the world that needs it.)
+영국 《포린 폴리시》 칼럼니스트 엘리자베스 브로는 공영방송(PTS)에 이렇게 분석했다: 「**마쭈 단선 사건은 중국이 타이완의 대외 통신 봉쇄를 연습하고, 타이완 정부의 반응을 시험하는 것일 가능성이 매우 높다. 이는 일종의 괴롭힘이자 표준적인 회색 지대 전략이다**」「**중국은 당연히 그것이 단지 어선과 상선일 뿐이며, 어떤 군함이나 무력 공격도 타이완에 가하지 않았다고 말할 수 있다**.」[^44]
 
-The Silicon Shield metaphor holds, but only half. **Cables are more like an Achilles' heel, not a shield.**
+《The Web Beneath the Waves》를 쓴 기자 사만스 수브라마니안은 더 냉정한 영문으로 요약했다: 「**Were a foreign power to snap those fifteen international cables, Taiwan—the West's buffer against China, and the semiconductor factory to the planet—would be unmoored from the world it needs and the world that needs it.**」[^45]（만약 어떤 외국 세력이 이 15조의 국제 해저 케이블을 절단한다면, 타이완—서방이 중국에 대항하는 완충지대이자 행성의 반도체 공장—은 자신이 필요로 하는 세계, 그리고 자신을 필요로 하는 세계, 양쪽 모두로부터 표류하게 될 것이다.）
 
-## The Seven Cable Laws, the Hong Tai 58 Judicial Precedent, and a 4-Month 23-Day Timeline
+실리콘 방패 비유는 성립하지만, 그것은 절반에 불과하다. **해저 케이블은 방패가 아니라 아킬레스건에 가깝다**.
 
-But Taiwan has done some things in the past 24 months.
+## 해저 케이블 7법, 훙타이 58호 사법 최초 사례, 그리고 4개월 23일
 
-**April 28, 2025**, the Pingtung District Prosecutors Office established the national first "**Undersea Cable Security Joint Defense Regional Emergency Platform**"[^46]. **September 8, 2025**, the Executive Yuan passed the "**Seven Cable Laws**" amendment draft. **December 16, 2025, the Legislative Yuan passed it in third reading**[^47]:
+하지만 타이완은 이 24개월 동안 몇 가지 일을 해냈다.
 
-- Intentional destruction of undersea cables: **Maximum 7 years imprisonment + NT$10 million fine**
-- Negligence is also punishable
-- Illegal vessels can be **confiscated**
-- Violations of vessel identification carry a maximum fine of NT$10 million
+**2025년 4월 28일**, 핑둥 지검서가 전국 최초 「해저 케이블 안전 연합 방위 지구 응변 플랫폼」을 설립했다[^46]. **2025년 9월 8일** 행정원이 「해저 케이블 7법」 수정안을 통과시켰다. **2025년 12월 16일 입법원 3독 통과**[^47]:
 
-In the Hong Tai 58 case, Chinese captain Wang Yuliang was sentenced to 3 years and ordered to pay NT$18.22 million in the first instance in June 2025; the second instance upheld the 3-year sentence. This is the "**first case of new internal waters judicial jurisdiction**"—Taiwan's first clear judgment record on the boundary between "gray zone vs. law"[^48].
+- 고의적 해저 케이블 파괴: **최고 7년 징역 + NT$1,000만 벌금**
+- 과실범도 처벌
+- 불법 선박 **몰수** 가능
+- 선박 식별 위반 시 최고 NT$1,000만 벌금
 
-The Control Yuan passed an investigation report in 2025 (investigated by Yeh I-chin and Lai Ding-ming) affirming the Seven Cable Laws but requesting improvements[^49]. Chunghwa Telecom added the Taipeng-Jin-Matsu undersea cable and Taimei No. 4 (200 Gbps, completion in June 2026) in 2025. Microwave backup expanded to 12.6 Gbps, OneWeb user terminals completed.
+훙타이 58호 사건의 중국 국적 선장 왕위량(王玉良)이 2025년 6월 3년형과 배상 NT$1,822만을 선고받았고, 2심에서 3년형이 유지되었다. 이는 「신 내수 사법 관할 최초 사례」——타이완이 「회색 지대 vs 법률」이라는 경계에서 명확한 판결 기록을 얻은 첫 사례다[^48].
 
-But these construction changes do not alter one physical fact: **there are only 60 undersea cable ships globally, Taiwan can only dispatch 6 of them, repairing a broken cable takes an average of 7 to 30 days, and rough seas or "interference" can stretch it to 4 months and 23 days**. Taiwan's 23 million people's external communication lifeline hangs on those 14 lines buried 1.5 meters under the seabed, glass fibers as thin as hair.
+감찰원 2025년 조사 보고서(예이진, 라이딩밍 조사)가 해저 케이블 7법을 긍정하면서도 정밀화를 요구했다[^49]. 중화전신 2025년 타이완-펑후-진먼 해저 케이블과 타이완-마쭈 4호(200 Gbps, 2026년 6월 완공) 추가. 마이크로파 백업 12.6 Gbps로 확대, 원웹(OneWeb) 사용자 단말 배치 완료.
 
-> **✦** "if you have a cable that isn't on the map, in general it will be cut more often." — Chueh Ho-ming[^7]
+하지만 이러한 건설이 하나의 물리적 사실을 바꾸지는 못한다: **전 세계에 해저 케이블 선박이 단 60척뿐이고, 타이완은 그중 6척만 동원할 수 있으며, 한 번 끊어진 케이블을 수리하는 데 평균 7~30일이 걸리고, 해상 상태가 나쁘거나 누군가가 「방해」하면 4개월 23일까지 늘어난다**. 타이완 2,300만 명의 대외 통신 생명줄이, 해저 1.5미터 아래 묻힌 14조의 머리카락 굵기 유리 광섬유에 매달려 있다.
 
-This is why Building 506 has no signage.
+> **✦** 「if you have a cable that isn't on the map, in general it will be cut more often.」——췌허밍[^7]
 
-## Further Reading
+이것이 506 빌딩이 간판을 달지 않는 이유다.
 
-- [The Reporter: Saving Investigative Journalism from a Business Item to a Public Good for Ten Years](/ko/society/the-reporter-investigative-journalism) — Another case focusing on Taiwan's civil society and infrastructure credibility post-2015, similar to this article
-- [Taiwan New Media Art](/ko/art/taiwan-new-media-art) — Digital cultural infrastructure also supported by the internet under the undersea cables
-- [Social Movements and Civic Participation](/ko/society/social-movements-and-civic-participation) — The larger context related to the legislative pressure of the Seven Cable Laws and local emergency platforms
-- [justfont and the Development of Taiwan Fonts](/ko/technology/justfont-and-taiwan-typography) — Another axis demonstrating the "cultural infrastructure" dimension
+## 더 읽어보기
 
-## References
+- [보도자: 탐사보도를 영업 아이템에서 공공재로 구해낸 10년](/ko/society/the-reporter-investigative-journalism) — 본문과 마찬가지로 2015년 이후 타이완 시민사회와 인프라 신뢰도 문제를 다룬 또 다른 사례
+- [타이완 뉴미디어 예술](/ko/art/taiwan-new-media-art) — 마찬가지로 해저 케이블 아래의 인터넷이 떠받치는 디지털 문화 인프라
+- [사회운동과 시민참여](/ko/society/social-movements-and-civic-participation) — 해저케이블 7법 입법, 지역 응변 플랫폼 등 시민사회 압력과 관련된 더 큰 맥락
+- [justfont와 타이완 글꼴 발전](/ko/technology/justfont-and-taiwan-typography) — 마찬가지로 '문화 인프라' 차원을 보여주는 또 다른 축
 
-[^1]: [The Reporter — Undersea Cable Break Crisis: Taiwan Maintains Digital Lifeline](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — The Reporter's in-depth tracking of the 2023 Matsu double cable break incident, repair timeline, and the full explosion of subsequent 2025 events.
+## 참고 자료
 
-[^2]: [The Reporter — Chueh Ho-ming Discusses Taimei No. 2 Repair Timeline](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — Source of Digital Development Department Deputy Minister Chueh Ho-ming's original quotes "took 4 months and 23 days" and "interference from Chinese Coast Guard vessels."
+[^1]: [보고자 — 해저 케이블 단절 위기 속 대만이 유지하는 디지털 생명선](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 보고자가 2023년 마쭈 해저 케이블 이중 단절 사건, 복구 일정, 후속 2025년 사건 발발에 대한 완전한 심층 보도를 추적함.
 
-[^3]: [Global Taiwan Institute 2025-06 Report](https://globaltaiwan.org/2025/06/taiwans-digital-vulnerabilities/) — Official think tank data stating Taiwan's 99% international data transmission relies on undersea cables.
+[^2]: [보고자 — 궈허밍이 대만-마쭈 2호선 복구 일정 논의](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 디지털발전부 차관 궈허밍 인터뷰 원문 「4개월 23일 소요」, 「중국 해경선의 방해」 출처.
 
-[^4]: [Digital Development Department — Undersea Cable Business Page](https://moda.gov.tw/major-policies/subseacable/1747) — MODA official undersea cable page, official statistics of Taiwan's 14-15 international communication undersea cables + 10 domestic communication undersea cables (14 active after SeaMeWe-3 decommissioned on 2024-12-02).
+[^3]: [글로벌 대만 연구소 2025-06 보고서](https://globaltaiwan.org/2025/06/taiwans-digital-vulnerabilities/) — 대만 국제 데이터 전송의 99%가 해저 케이블에 의존한다는 공식 싱크탱크 데이터.
 
-[^5]: [Rest of World — In-Depth Report on Building 506](https://restofworld.org/2025/web-beneath-waves-taiwan-underseas-cables/) — Local nickname and quiet completion ceremony report for the Dawu, Taitung TPU landing station "Building 506"; insiders revealed it is a "secure network for external communication in the event of war between the two sides of the strait."
+[^4]: [디지털발전부 — 해저 케이블 업무 페이지](https://moda.gov.tw/major-policies/subseacable/1747) — 모다 공식 해저 케이블 페이지, 대만 국제 통신 해저 케이블 14-15개 + 국내 통신 해저 케이블 10개의 공식 통계 (SeaMeWe-3 2024-12-02 퇴역 후 현역 14개).
 
-[^6]: [Submarine Networks — TPU Cable Page](https://www.submarinenetworks.com/en/systems/trans-pacific/tpu) — Taiwan-Philippines-US cable record: 13,470 km length / 260 Tbps capacity / completed 2025-05 / launched 2025-10.
+[^5]: [Rest of World — 506 빌딩 심층 보도](https://restofworld.org/2025/web-beneath-waves-taiwan-underseas-cables/) — 타이둥 다우 TPU 착륙국 '506 빌딩' 현지 별명과 저조한 준공식 보도, 지인에 따르면 '양안 전시 대외 연락 안전망'이라고 함.
 
-[^7]: [Rest of World — Web Beneath Waves Taiwan](https://restofworld.org/2025/web-beneath-waves-taiwan-underseas-cables/) — Source of Chueh Ho-ming's original English quotes "I say this is 'accidental,' and they also said it was 'accidental,' so 'accidentally' all this happened within a week" and "if you have a cable that isn't on the map, in general it will be cut more often."
+[^6]: [Submarine Networks — TPU 해저 케이블 페이지](https://www.submarinenetworks.com/en/systems/trans-pacific/tpu) — 대만-필리핀-미국 해저 케이블 총길이 13,470km / 260Tbps / 2025-05 완공 / 2025-10 개통 기록.
 
-[^8]: [TeleGeography Submarine Cable Map](https://www.submarinecablemap.com/country/taiwan) — TeleGeography global undersea cable map Taiwan page, including industry consensus data that 95% of global international internet traffic relies on undersea cables.
+[^7]: [Rest of World — Web Beneath Waves Taiwan](https://restofworld.org/2025/web-beneath-waves-taiwan-underseas-cables/) — 궈허밍 인터뷰 영어 원문 「I say this is 'accidental,' and they also said it was 'accidental,' so 'accidentally' all this happened within a week」 및 「if you have a cable that isn't on the map, in general it will be cut more often」 출처.
 
-[^9]: [US-China Economic and Security Review Commission 2025-11 Report](https://def.ltn.com.tw/article/breakingnews/5250686) — USCC annual report Taiwan undersea cable section, including Taiwan's 99% international data transmission and daily loss estimates.
+[^8]: [TeleGeography 해저 케이블 지도](https://www.submarinecablemap.com/country/taiwan) — TeleGeography 글로벌 해저 케이블 지도 대만 페이지, 전 세계 국제 인터넷 트래픽의 95%가 해저 케이블에 의존한다는 업계 공통 데이터 포함.
 
-[^10]: [Submarine Networks — Cable Structure](https://www.submarinenetworks.com/) — Submarine Networks cable technology page, including physical specifications such as fiber diameter, seabed burial depth, and deepest point of the trans-Pacific trench.
+[^9]: [미중 경제안보검토위원회 2025-11 보고서](https://def.ltn.com.tw/article/breakingnews/5250686) — USCC 연례 보고서 대만 해저 케이블 부분, 대만 국제 데이터 전송 99% 및 일일 손실 추정 포함.
 
-[^11]: [Submarine Networks — SMW3 Retire](https://www.submarinenetworks.com/en/systems/asia-australia/smw3/smw3-retire) — SeaMeWe-3 cable decommission announcement on 2024-12-02, serving for 25 years.
+[^10]: [Submarine Networks — 해저 케이블 구조](https://www.submarinenetworks.com/) — Submarine Networks 해저 케이블 기술 페이지, 광섬유 직경, 해저 매설 깊이, 태평양 해구 최심부 등 물리적 사양 포함.
 
-[^12]: [CNA 2025-01-10 — Jian Zhicheng Discusses Cable Magnitude](https://www.cna.com.tw/news/aipl/202501100035.aspx) — CNA quotes the official analogy "undersea cable bandwidth in TB, microwave in GB, satellites in MB" differing by three orders of magnitude.
+[^11]: [Submarine Networks — SMW3 퇴역](https://www.submarinenetworks.com/en/systems/asia-australia/smw3/smw3-retire) — SeaMeWe-3 해저 케이블 2024-12-02 퇴역 공고, 25년 복무.
 
-[^13]: [Watchout — Zheng Mingzong In-Depth Interview](https://watchout.tw/reports/bcTqVDtgtyC0q4IV4Wmd) — Context of Digital Development Department Resilience Construction Division Director Zheng Mingzong's original "highway / country road" quote.
+[^12]: [중앙통신사 2025-01-10 — 젠즈청이 해저 케이블 규모 논함](https://www.cna.com.tw/news/aipl/202501100035.aspx) — 중앙통신사 인용 「해저 케이블 대역폭은 TB, 마이크로파는 GB, 위성은 MB」 세 자릿수 차이의 공식 비유.
 
-[^14]: [PTS News Network — Undersea Cable Special](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — PTS 2025 digital special full record of Matsu 2023-02-02 + 2023-02-08 double break timeline and interviews with Li Wen, Feng Kaiming, Elisabeth Braw.
+[^13]: [워차오 watchout — 정밍종 심층 인터뷰](https://watchout.tw/reports/bcTqVDtgtyC0q4IV4Wmd) — 디지털발전부 레질리언스건설사 사장 정밍종 「고속도로 / 시골길」 원문 인용 맥락.
 
-[^15]: [Watchout — Matsu Cable Break Statistics](https://watchout.tw/reports/bcTqVDtgtyC0q4IV4Wmd) — Watchout cites New Matsu Person Chen Tinghao's statistics, Matsu's at least 27 cable break records over the past 5 years.
+[^14]: [공시신문망 — 해저 케이블 특집](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — 공시 2025년 디지털 특집, 마쭈 2023-02-02 + 2023-02-08 이중 단절 시퀀스와 리원, 펑카이밍, 엘리자베스 브라우 인터뷰 완전 기록.
 
-[^16]: [The Reporter — Matsu Microwave Backup Expansion](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — Matsu microwave backup expansion record: from 2.2 Gbps → 3.8 Gbps (2023-03 expanded 76%) → 12.6 Gbps (2025).
+[^15]: [워차오 — 마쭈 단선 통계](https://watchout.tw/reports/bcTqVDtgtyC0q4IV4Wmd) — 워차오가 신마쭈인 천팅하오 통계 인용, 마쭈 최근 5년간 최소 27회 단선 기록.
 
-[^17]: [PTS — Li Wen Interview](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — Source of DPP Lienchiang County Party Chairman Li Wen's original quote "Just sending a single text message on Line took 15 to 20 minutes."
+[^16]: [보도자 — 마쭈 마이크로파 백업 증설](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 마쭈 마이크로파 백업이 2.2 Gbps → 3.8 Gbps(2023-03 76% 증설) → 12.6 Gbps(2025) 증설 기록.
 
-[^18]: [Chunghwa Telecom 2025-03-02 Repair Announcement](https://www.cht.com.tw/zh-tw/home/cht/messages/2025/0302-0930) — Chunghwa Telecom official undersea cable repair announcement, including 2023 Matsu incident repair timeline record.
+[^17]: [공시 — 리원 인터뷰](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — 민진당 연강현 당부 주임위원 리원 인터뷰 원문 「라인상에서 문자 메시지 하나 보내는 데만 15~20분이 걸린다」 출처.
 
-[^19]: [The Reporter — 50 Days of Digital Darkness](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — Source of The Reporter's phrasing "Matsu plunged into approximately 50 days of digital darkness."
+[^18]: [중화전신 2025-03-02 복구 공고](https://www.cht.com.tw/zh-tw/home/cht/messages/2025/0302-0930) — 중화전신 공식 해저케이블 복구 공고, 2023년 마쭈 사건 복구 일정 기록 포함.
 
-[^20]: [CNA 2025-01-14 — National Security Bureau Gray Zone Threat Report](https://www.cna.com.tw/news/aipl/202501140399.aspx) — National Security Bureau statistics official record of average 7-8 intentional cable breaks per year in Taiwan's surrounding waters over the past 3 years, 6 incidents in a single month in 2025.
+[^19]: [보도자 — 50일 인터넷 암흑기](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 보도자 표현 「마쭈 약 50일간 인터넷 암흑기에 빠지다」 원문 출처.
 
-[^21]: [Legislative Yuan Gazette 2025-01-10 National Security Bureau Report](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025011024/50000211120227084002.pdf) — Legislative Yuan Gazette National Security Bureau inquiry report PDF, including at least 27 undersea cable destruction records in Taiwan from 2019-2023.
+[^20]: [중앙사 2025-01-14 — 국안국 회색지대 위협 보고서](https://www.cna.com.tw/news/aipl/202501140399.aspx) — 국안국 통계 최근 3년 대만 주변 해역 연평균 7-8건 인위적 단선, 2025년 단월 6건 공식 기록.
 
-[^22]: [CNN — Shunxing 39 Report](https://www.cnn.com/2025/02/25/asia/taiwan-detains-ship-undersea-cable-intl-hnk) — CNN 2025 Shunxing 39 full report, including Cameroon flag / Hong Kong company / Chinese crew / AIS anomaly records.
+[^21]: [입법원 공보 2025-01-10 국안국 보고서](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025011024/50000211120227084002.pdf) — 입법원 공보 국안국 질의 보고서 PDF, 2019-2023 대만 최소 27건 해저케이블 파괴 기록 포함.
 
-[^23]: [Focus Taiwan — Hong Tai 58 Sentencing](https://focustaiwan.tw/society/202506120025) — Focus Taiwan report on 2025-06-12 first instance sentencing of Chinese captain Wang Yuliang to 3 years, compensation of NT$18.22 million to Chunghwa Telecom, "first case of new internal waters judicial jurisdiction."
+[^22]: [CNN — 순흥 39호 보도](https://www.cnn.com/2025/02/25/asia/taiwan-detains-ship-undersea-cable-intl-hnk) — CNN 2025년 순흥 39호 전체 보도, 카메룬 선적 / 홍콩 회사 / 중국 국적 선원 / AIS 이상 기록 포함.
 
-[^24]: [National Security Bureau — 4 Types of Intentional Destruction](https://www.cna.com.tw/news/aipl/202501140399.aspx) — National Security Bureau report summarizes 4 types of intentional destruction: sand mining / fishing vessel trawling / cargo ship anchoring / flag-of-convenience ship masking.
+[^23]: [포커스 대만 — 훙타이 58호 판결](https://focustaiwan.tw/society/202506120025) — 포커스 대만 보도 2025-06-12 1심 중국적 선장 왕위량 3년, 중화전신에 NT$1,822만 배상 「신 내수 사법 관할 첫 사례」.
 
-[^25]: [Liberty Times Net — Blacklist 52 Flag-of-Convenience Ships](https://def.ltn.com.tw/article/breakingnews/5250686) — Foreign media exposure record of Taiwan listing 52 Chinese flag-of-convenience ships on the blacklist (15 high threat / 4 medium / 10 certain threat).
+[^24]: [국안국 — 4가지 인위적 파괴 유형](https://www.cna.com.tw/news/aipl/202501140399.aspx) — 국안국 보고서 종합: 채사 / 어선 트롤 / 화물선 닻 내림 / 편의선 위장 은폐 4가지 인위적 파괴 유형.
 
-[^26]: [Submarine Networks — PLCN](https://www.submarinenetworks.com/en/systems/trans-pacific/plcn) — Pacific Light Cable Network full record, including 2017-04-21 application, 2020-06 US Team Telecom denial of China-HK segment, 2022-01 FCC approval of USA-Taiwan-Philippines segment timeline.
+[^25]: [자유시보 — 블랙리스트 52척 편의선](https://def.ltn.com.tw/article/breakingnews/5250686) — 외신 폭로 대만 중국 편의선 52척 블랙리스트 등재 기록 (15 고위협 / 4 중도 / 10 일정 위협).
 
-[^27]: [Submarine Networks — PLCN Team Telecom Shift](https://www.submarinenetworks.com/en/systems/trans-pacific/plcn) — Submarine Networks PLCN main entry, including US Team Telecom 2020-06 denial of China-HK segment, 2022-01 FCC approval of USA-Taiwan-Philippines segment timeline and subsequent policy impacts.
+[^26]: [서브마린 네트웍스 — PLCN](https://www.submarinenetworks.com/en/systems/trans-pacific/plcn) — 태평양 광케이블 네트워크(PLCN) 전체 기록, 2017-04-21 신청, 2020-06 미국 팀 텔레콤 중-홍 구간 거부, 2022-01 FCC 미-대만-필리핀 구간 승인 시계열 포함.
 
-[^28]: [Submarine Networks — China-HK Cables Denied](https://www.submarinenetworks.com/) — Submarine Networks records subsequent impacts of HKA, HK-G, Bay-to-Bay Express and other China-HK cables being denied or rerouted.
+[^27]: [서브마린 네트웍스 — PLCN 팀 텔레콤 선회](https://www.submarinenetworks.com/en/systems/trans-pacific/plcn) — 서브마린 네트웍스 PLCN 주항목, 미국 팀 텔레콤 2020-06 중-홍 구간 거부, 2022-01 FCC 미-대만-필리핀 구간 승인 시계열 및 후속 정책 영향 포함.
 
-[^29]: [CNA 2025-01-10 — Jian Zhicheng Exclusive Interview](https://www.cna.com.tw/news/aipl/202501100035.aspx) — Source of Chunghwa Telecom Chairman Jian Zhicheng's original quote "US-led cables try to avoid landing in Hong Kong, and more cables land in Taiwan."
+[^28]: [서브마린 네트웍스 — 중-홍 해저케이블 거부](https://www.submarinenetworks.com/) — 서브마린 네트웍스 기록 HKA, HK-G, Bay-to-Bay Express 등 중-홍 해저케이블 거부 또는 우회 후속 영향.
 
-[^30]: [Meta Engineering — Candle Cable Announcement](https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/) — Meta 2025-10-05 announcement of new cable "Candle" connecting to Taiwan, 2028 launch, largest Asia-Pacific capacity.
+[^29]: [중앙사 2025-01-10 — 간즈청 인터뷰](https://www.cna.com.tw/news/aipl/202501100035.aspx) — 중화전신 이사장 간즈청 원문 「미국 주도 해저케이블 최대한 홍콩에 상륙하지 않게, 대만 상륙 케이블 늘어난다」 출처.
 
-[^31]: [Chunghwa Telecom — AUG East Investment Announcement](https://www.cht.com.tw/zh-tw/home/cht/messages/2025/0717-1400) — Chunghwa Telecom + Microsoft + AWS co-investment AUG East cable investment NT$2.9 billion 2029 completion announcement.
+[^30]: [메타 엔지니어링 — 캔들 해저케이블 공고](https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/) — 메타 2025-10-05 신규 해저케이블 '캔들' 대만 연결, 2028년 개통, 아태 최대 용량 공고.
 
-[^32]: [Digital Development Department — OneWeb Progress](https://moda.gov.tw/major-policies/subseacable/1747) — Digital Development Department OneWeb low-Earth orbit satellite 2024-06 signal coverage Taiwan / 2024 end completed 700 user terminals + 70 base station backhaul link records.
+[^31]: [중화텔레콤 — AUG East 투자 공고](https://www.cht.com.tw/zh-tw/home/cht/messages/2025/0717-1400) — 중화텔레콤 + 마이크로소프트 + AWS가 공동으로 AUG East 해저케이블에 NT$29억 투자, 2029년 완공 공고.
 
-[^33]: [Chunghwa Telecom — SES Medium-Earth Orbit Satellite Commercial](https://www.cht.com.tw/) — Chunghwa Telecom 2025-Q1 introduced SES medium-Earth orbit satellite commercial service as third layer backup.
+[^32]: [디지털발전부 — OneWeb 진척 상황](https://moda.gov.tw/major-policies/subseacable/1747) — 디지털발전부 OneWeb 저궤도 위성 2024-06 신호 대만 커버리지 / 2024년 말 700개 사용자 단말 + 70개 기지국 백홀 링크 완료 기록.
 
-[^34]: [PTS — Feng Kaiming Interview](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — Source of National Tsing Hua University Electrical Engineering Professor Feng Kaiming's original quote "If the PLA wants to attack Taiwan, it only needs to attack our undersea cables, and it can very easily isolate Taiwan from the world."
+[^33]: [중화텔레콤 — SES 중궤도 위성 상용 서비스](https://www.cht.com.tw/) — 중화텔레콤 2025년 1분기 SES 중궤도 위성 상용 서비스를 제3계층 백업으로 도입.
 
-[^35]: [PTS — Ding Shufan Interview](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — Source of National Chengchi University East Asian Studies Emeritus Professor Ding Shufan's original quote "Using precision strike weapons to attack the 4 international undersea cable landing stations can destroy the entire network system at once."
+[^34]: [공영방송(PTS) — 펑카이밍 인터뷰](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — 국립칭화대학 전기공학과 펑카이밍 교수의 인터뷰 원문 출처: 「만약 중공군이 대만을 공격하려면, 단지 우리의 해저케이블을 공격하기만 하면, 매우 쉽게 대만을 세상과 고립시킬 수 있다」.
 
-[^36]: [Liberty Times Net 2025-11 — US-China Committee Report](https://def.ltn.com.tw/article/breakingnews/5250686) — US-China Economic and Security Review Commission 2025-11-18 report, Taiwan full cable cut daily loss estimate $55.6 million (approximately NT$1.73 billion).
+[^35]: [공영방송(PTS) — 딩수판 인터뷰](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — 국립정치대학 동아연구소 딩수판 명예교수의 인터뷰 원문 출처: 「정밀 타격 무기로 4개의 국제 해저케이블 착륙국을 공격하기만 하면, 한 번에 전체 네트워크 시스템을 파괴할 수 있다」.
 
-[^37]: [The Reporter — KDDI Ocean Link Repair Timeline](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 2025-01 TPE International Undersea Cable Incident KDDI Ocean Link ship 1/13 arrival → 1/20 repair completion 7-day record.
+[^36]: [자유시보 2025-11 — 미중경제안보검토위원회 보고서](https://def.ltn.com.tw/article/breakingnews/5250686) — 미중경제안보검토위원회 2025-11-18 보고서, 대만 전면 해저케이블 단절 시 일일 손실 5,560만 달러(약 신대만폐 17.3억 원) 추정.
 
-[^38]: [The Reporter — Global 60 Cable Ships](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — The Reporter cites International Cable Protection Committee ICPC 2024-09 data, global 60 cable ships / 50 with repair capabilities / 22 dedicated to repair.
+[^37]: [보도자 — KDDI Ocean Link 수리 일정](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 2025년 1월 TPE 국제 해저케이블 사건 KDDI Ocean Link호 1/13 대만 도착 → 1/20 수리 완료, 7일 기록.
 
-[^39]: [The Reporter — Taiwan Repair Ship Zones](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — The Reporter record of Taiwan joining Yokohama (YOKOHAMA) + Southeast Asia Indian Ocean (SEAIOCMA) two repair ship zones, 6 cable ships available to Taiwan for repairs.
+[^38]: [보도자 — 전 세계 60척 해저케이블 선박](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 보도자가 인용한 국제해저케이블보호위원회(ICPC) 2024-09 데이터: 전 세계 60척 해저케이블 선박 / 50척 수리 능력 보유 / 22척 전담 수리.
 
-[^40]: [The Reporter — Repair Costs](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — The Reporter cites industry data, single repair cost 10-20 million NTD / cable ship daily rental NT$800,000.
+[^39]: [보도자 — 대만 수리 선박 구역](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 대만, 요코하마(YOKOHAMA) + 동남아인도양(SEAIOCMA) 두 수리 선박 구역 가입, 6척 해저케이블 선박 대만 수리 가능 기록.
 
-[^41]: [The Reporter — Jian Zhicheng Discusses Self-Built Repair Ships](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — Source of Chunghwa Telecom Chairman Jian Zhicheng's original quote "Building a self-owned repair ship team probably does not meet economic efficiency."
+[^40]: [보도자 — 수리 비용](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 보도자가 인용한 업계 데이터: 단일 수리 비용 1,000-2,000만 대만달러 / 해저케이블 선박 일일 임대료 NT$80만.
 
-[^42]: [The Reporter — Chueh Ho-ming Discusses Privatization Tension](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — Chueh Ho-ming discusses undersea cables being inherently profitable; if the government funds them again, it contradicts the original privatization of Chunghwa Telecom policy tension.
+[^41]: [보도자 — 첸즈청의 자건 수리선 관련 발언](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 중화텔레콤 첸즈청(簡志誠) 회장 원문 출처: 「자체 수리선 팀 구축은 경제적 효익에 부합하지 않을 것 같다」.
 
-[^43]: [The Reporter — Jian Liangui Interview](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — National Taiwan Ocean University River and Sea Engineering Professor Jian Liangui's observation leaving room for self-built repair capabilities.
+[^42]: [보도자 — 쥐허밍의 민영화 긴장 관계 발언](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 쥐허밍(闕河鳴)이 해저케이블은 본래 수익 사업이었으나 정부가 출자하는 것이 중화텔레콤 민영화와 배치되는 정책적 긴장에 대해 논함.
 
-[^44]: [PTS — Elisabeth Braw Interview](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — Source of UK _Foreign Policy_ columnist Elisabeth Braw's original analysis of the Matsu internet blackout as "gray zone strategy."
+[^43]: [보도자 — 첸롄구이 인터뷰](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — 국립대만해양대학 하해공학과 첸롄구이(簡連貴) 교수의 자건 수리 능력 보유 여지에 대한 관찰.
 
-[^45]: [Rest of World — Web Beneath Waves Book Excerpt](https://restofworld.org/2025/web-beneath-waves-taiwan-underseas-cables/) — Source of Samanth Subramanian _The Web Beneath the Waves_ book excerpt original quote.
+[^44]: [공영방송(PTS) — 엘리자베스 브라우 인터뷰](https://news.pts.org.tw/projects/taiwan-submarine-cable/) — 영국 《포린 폴리시》 칼럼니스트 엘리자베스 브라우(Elisabeth Braw)의 마쭈(馬祖) 인터넷 단절 '회색지대 전략' 분석 원문 출처.
 
-[^46]: [Ocean Commission — Pingtung Joint Defense Platform Announcement](https://www.oac.gov.tw/ch/home.jsp?id=63&parentpath=0,6&mcustomize=news_view.jsp&dataserno=202504280001) — Pingtung District Prosecutors Office 2025-04-28 establishment of national first "Undersea Cable Security Joint Defense Regional Emergency Platform" announcement.
+[^45]: [Rest of World — 《The Web Beneath the Waves》 발췌](https://restofworld.org/2025/web-beneath-waves-taiwan-underseas-cables/) — 사만스 수브라마니안(Samanth Subramanian) 《The Web Beneath the Waves》 발췌 원문 출처.
 
-[^47]: [Legislative Yuan — Seven Cable Laws Third Reading](https://www.cna.com.tw/news/aipl/202501100035.aspx) — Legislative Yuan 2025-12-16 third reading passed "Seven Cable Laws" amendment draft, intentional destruction maximum 7 years imprisonment + NT$10 million fine.
+[^46]: [해양위원회 — 핑둥 연합방위 플랫폼 공고](https://www.oac.gov.tw/ch/home.jsp?id=63&parentpath=0,6&mcustomize=news_view.jsp&dataserno=202504280001) — 핑둥 지방검찰청, 2025-04-28 전국 최초 「해저케이블 안전 연합방위 지역 대응 플랫폼」 설립 공고.
 
-[^48]: [Focus Taiwan — Hong Tai 58 Second Instance](https://focustaiwan.tw/society/202506120025) — Focus Taiwan Hong Tai 58 case Chinese captain Wang Yuliang first instance + second instance judgment record, "first case of new internal waters judicial jurisdiction."
+[^47]: [입법원 — 해저케이블 7법 3독](https://www.cna.com.tw/news/aipl/202501100035.aspx) — 입법원 2025-12-16 「해저케이블 7법」 수정안 3독 통과, 고의 파괴 최고 징역 7년 + 1,000만 원 벌금.
 
-[^49]: [Control Yuan — Undersea Cable Investigation Report](https://www.cy.gov.tw/EN/News_Content.aspx?n=252&s=31751) — Control Yuan passed Ye I-chin, Lai Ding-ming investigation affirming Seven Cable Laws but requesting improvements official announcement.
+[^48]: [Focus Taiwan — 홍타이 58호 2심](https://focustaiwan.tw/society/202506120025) — Focus Taiwan, 홍타이 58호 사건 중국 국적 선장 왕위량 1심·2심 판결 기록, 「신내수 사법 관할 최초 사례」.
+
+[^49]: [감찰원 — 해저케이블 조사 보고서](https://www.cy.gov.tw/EN/News_Content.aspx?n=252&s=31751) — 감찰원, 예이진·라이딩밍 조사로 해저케이블 7법 긍정 평가하나 개선 요구하는 공식 공고.
