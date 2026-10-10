@@ -57,6 +57,10 @@ node scripts/feedback/triage.mjs --commit --exclude <feedback-id>
 
 # 「這個距今算久嗎」——歷史最長到達間隔（唯讀；佇列空的那一輪會自動印）
 node scripts/feedback/triage.mjs --intake-stats
+
+# 「讀者送不送得進來」——站上表單的 backend + 金鑰可達性（唯讀 GET，不送假回報；
+# 佇列空的那一輪會自動印）
+node scripts/feedback/triage.mjs --intake-health
 ```
 
 未配置 Supabase（`SUPABASE_URL`/`SUPABASE_SERVICE_KEY` 缺）→ emit「feedback backend 未配置,skip」,**不算 fail**（escalation 只看 quality gate）。
@@ -88,12 +92,20 @@ node scripts/feedback/triage.mjs --intake-stats
   整條 `--commit` 不跑 = 保管那半跟著轉錄那半一起消失（LESSONS
   `zero-input-cycle-drops-the-reconciliation`）。攔下後升 OBSERVER-QUEUE 等哲宇，**不自己回覆回報者**。
 
-## 佇列空的那一輪要讀兩行（不是一行）
+## 佇列空的那一輪要讀兩段（讀取端兩行 + 寫入端健檢）
 
-`fetched 0` 之後報表印兩行：**最近一筆回報距今幾天**（v1.9）＋**那個距今算不算久**（v1.12）。
+**讀取端兩行**：**最近一筆回報距今幾天**（v1.9）＋**那個距今算不算久**（v1.12）。
 第二行拿全庫算歷史最長到達間隔——這把尺前四個 cycle 都是當班手寫的，其中兩次答案偏小且方向固定
 （帶 `limit` 問極值只會往小的錯）。印 `查不到` / `樣本不足` **不等於**間隔正常，跟 HG12b
 `unavailable` 同一條紀律。兩行都刻意不印 ⚠️、不設閾值——閾值要 Full mode ＋ 人類 gate。
+
+**寫入端健檢**（v1.13，`--intake-health`，自動跑）：讀取端那兩行只證明「我沒漏接」，
+證明不了「讀者送得進來」。站上表單指向哪裡是 build 時由 repo **Variables** 注入的，
+`resolveBackendKind()` 對「mode=supabase 但金鑰空」**安靜降級成 github-only**——讀者照樣
+看到回報入口、Supabase 一筆不進，而這在讀取端跟「讀者沒話說」逐字相同。三層三態
+（`✅` 活著／`⚠️` 確認壞了，讀者此刻送不進來／`❔` 今天沒驗到，**不等於沒事**）。
+**`⚠️` 出現就是破口，當輪要查**，不要當成噪音往下傳。
+報表每次自己講它涵蓋不到 `INSERT` 與 OAuth：未知是被縮小，不是被消掉。
 
 ## 收官
 

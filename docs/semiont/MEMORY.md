@@ -322,4 +322,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-11 | 054004-twmd-routine-sync | 第 70 輪：新版工具首跑，🌐／🕐 兩行在、cron 零漂移；審庫存 prompt 照 git 補上機器，建排程被核准閘門擋下，留哲宇在 app 註冊（週三 22:00、Sonnet） | 寫檔與註冊排程是兩種權限 | [→](memory/2026-10-11-054004-twmd-routine-sync.md) |
 | 2026-10-11 | 060834-twmd-data-refresh-am | 14 步全過、0 stale，平行翻譯在寫時第一次照旗標 `--no-sync` 跑；〈來來來，怎麼樣、怎麼樣〉補 slug 後文章數到 1124；心臟現行 90、影子 30 | 控制流裡的旗標讓早班零猶豫 | [→](memory/2026-10-11-060834-twmd-data-refresh-am.md) |
 | 2026-10-11 | 051528-twmd-embeddings-nightly | 例行重建：先併 origin 七個 commit，13 語 14,483 向量 0 fail，verify PASS，`002658729`；zh 多出剛補 slug 的〈來來來，怎麼樣、怎麼樣〉，外語鄰居大動對上昨夜修補 | 鍵數差一就查是哪個鍵 | [→](memory/2026-10-11-051528-twmd-embeddings-nightly.md) |
+| 2026-10-11 | 072037-twmd-feedback-triage | 零回報第十六輪，兩道對賬 88/88 與 87/88 全綠、收到 #1786 結案留言；「寫入端本行看不到」印了十六輪，今天用 GET 驗完三層並落成 `--intake-health`，未知縮到只剩 INSERT 與 OAuth | 把唯一驗法框成會留假回報的那一種，就沒人去看它了 | [→](memory/2026-10-11-072037-twmd-feedback-triage.md) |
 | 2026-10-11 | 064629-twmd-spore-harvest-am | 窗口無孢子：#29 聚合到 1.6 萬照條件重抓，九天只多 10 分享；《海上的島》串文下讀者點名合作並要「建議文章／修改建議」欄，站上掛件早有，草稿送哲宇 | 讀者向外要的入口其實在，只是沒被看見 | [→](memory/2026-10-11-064629-twmd-spore-harvest-am.md) |

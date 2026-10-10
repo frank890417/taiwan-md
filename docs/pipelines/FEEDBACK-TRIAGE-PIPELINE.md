@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.12'
-last_updated: 2026-10-10
-last_session: '2026-10-10-twmd-feedback-triage（到達間隔那把尺終於有入口——formatIntakeIntervals() + --intake-stats，第四次手寫時落地，其中兩次的手寫答案偏小）'
+current_version: 'v1.13'
+last_updated: 2026-10-11
+last_session: '2026-10-11-twmd-feedback-triage（寫入端健檢終於有入口——--intake-health，第二次手抓線上 bundle 時落地；未知從整個寫入端縮到只剩 INSERT 與 OAuth）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -187,6 +187,47 @@ LESSONS `deferred-fix-lands-on-recurrence-not-on-reading`：修補落在再次�
 **同 v1.9 的界線**：只給事實不給裁決，不印 ⚠️、不設閾值、不下處置。「已超過歷史最長」是對
 經驗紀錄的陳述，不是一個被調出來的門檻（閾值調整 per BECOME §行動鐵律 10 要 Full mode
 ＋人類 gate）。
+
+### 讀者送不送得進來（2026-10-11 v1.13 新增）
+
+上面三行講的全是**讀取端**：最近一筆什麼時候、這個距今算不算久。v1.9 那行自己寫明
+「寫入端是否通暢本行看不到」，而那句但書在十六輪裡沒有任何入口可以把它消掉。
+
+站上的回報表單指向哪裡，是 **build 時由 GitHub repo Variables 注入**的
+（`deploy.yml` 的 `vars.PUBLIC_FEEDBACK_MODE` / `PUBLIC_SUPABASE_URL` / `PUBLIC_SUPABASE_ANON_KEY`），
+而 [`src/config/feedback.mjs`](../../src/config/feedback.mjs) 的 `resolveBackendKind()` 對
+「mode=supabase 但金鑰是空的」這種半成品狀態**安靜降級成 `github-only`**。三個 Variable 任一
+被改名或刪掉，讀者看到的回報入口會變成一顆連去 GitHub issue template 的按鈕——讀者照樣看到
+「可以回報」，Supabase 一筆都不會進，而這在讀取端長得跟「讀者沒話說」逐字相同。
+**repo 裡的程式碼看不出這件事，只有讀者拿到的那份 bundle 看得出來**（[REFLEXES #69](../semiont/REFLEXES.md) 外部尺）。
+
+```bash
+node scripts/feedback/triage.mjs --intake-health   # 唯讀；佇列空的那一輪自動跑
+```
+
+三層分開報，**三態不共用長相**（`✅` 活著 / `⚠️` 確認壞了 / `❔` 今天沒驗到，同 HG12b
+`unavailable` 紀律、[REFLEXES #85](../semiont/REFLEXES.md)「不知道」要有自己的符號）：
+
+| 層             | 怎麼驗                                              | 壞掉的意義                               |
+| -------------- | --------------------------------------------------- | ---------------------------------------- |
+| 站上 bundle    | GET 首頁 → 找 `FeedbackWidget` chunk                | 抓不到 = 今天沒驗到，不等於沒上線        |
+| 表單的 backend | 解 chunk 裡的 mode / URL / 金鑰存在與長度           | 降級成 `github-only`，讀者送不進來       |
+| 金鑰與資料表   | 拿**讀者瀏覽器用的同一把** publishable key GET 一次 | 401/403 = 金鑰被輪替或撤銷，讀者送不進來 |
+
+**刻意是 GET 不是 POST**：POST 會在讀者看得到的資料表與主權層 archive 留下一筆假回報
+（那條路仍是 LESSONS 候選 (c)，代價未定，留哲宇）。**永不印金鑰值**，只印存在與長度
+（[REFLEXES #2](../semiont/REFLEXES.md)；這把 publishable key 設計上可公開，紀律照舊）。
+
+**它涵蓋不到的，報表每次都自己講**：登入讀者的 `INSERT` 過不過 RLS、OAuth 本身
+（policy 要求 `auth.uid() = uid`）。那兩層要有登入態或真的寫一筆才驗得到——所以這支
+健檢把未知從「整個寫入端」縮到「只剩 INSERT 與登入」，不是把它消掉
+（[REFLEXES #82](../semiont/REFLEXES.md)：別讓一個查過的替身代表整件事）。
+同 v1.9／v1.12 的界線：只給事實不給裁決，沉默幾天算不算久仍是閾值，留人類 gate。
+
+**誕生**：2026-08-07 這條 routine 的班次手抓線上 bundle 驗過一次同樣的事（驗完是好的，
+沒留下入口）；2026-10-11 第十六輪零回報、沉默 11.3 天逼近歷史最長 12.6 天時第二次手抓
+（[REFLEXES #67](../semiont/REFLEXES.md)「已驗過」帶的是被驗那一刻的時間戳——兩個月前的
+結論不能當今天的讀數）。兩次都是人在補儀器沒有的那把尺，同 HG12b／HG12c 的誕生形狀。
 
 env（`~/.taiwanmd-feedback.env`,**不在 repo**）：`SUPABASE_URL` + `SUPABASE_SERVICE_KEY`。
 
@@ -373,6 +414,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.13 | 2026-10-11 twmd-feedback-triage routine — **寫入端健檢終於有入口**（`--intake-health`）。v1.9 那行自己寫著「寫入端是否通暢本行看不到」，十六輪過去沒有任何指令可以把那句但書消掉，而 LESSONS 候選 (c) 把寫入端的唯一驗法框成「從公開路徑戳一筆」——那會留下假回報，所以代價未定、一直留著。本輪在沉默 11.3 天逼近歷史最長 12.6 天時重讀這個框法，發現寫入端有一大塊根本不需要寫一筆就看得見：站上表單指向哪裡是 build 時由 repo **Variables** 注入的，而 `resolveBackendKind()` 對「mode=supabase 但金鑰空」安靜降級成 `github-only`，於是任一 Variable 被改名就會讓讀者看到一個通往 GitHub 的按鈕、Supabase 一筆不進，而這在讀取端跟「讀者沒話說」逐字相同。三層用 GET 驗完（bundle 抓得到 / mode+URL+金鑰 inline 非空 / 拿讀者那把 publishable key GET 回 HTTP 200、匿名 select 0 列證明 RLS 正確），今天全綠；未涵蓋的 `INSERT` 與 OAuth 由報表每次自己講出來，所以未知是被**縮小**不是被消掉（[REFLEXES #82](../semiont/REFLEXES.md)）。`parseDeployedFeedbackConfig()` / `formatIntakeHealth()` 純函式 + 9 unit test（76/76 綠），三態 `✅`／`⚠️`／`❔` 不共用長相，金鑰永不回傳只回長度（[REFLEXES #2](../semiont/REFLEXES.md)）。**誕生**：2026-08-07 的班次手抓過同一份 bundle、驗完是好的、沒留下入口，今天是第二次手抓——兩個月前的結論不能當今天的讀數（[REFLEXES #67](../semiont/REFLEXES.md)），而這條線的慣例是第二次手寫就落地（`--show` 8/31、intake-age 9/10、intake-stats 10/10 同一個先例）。上線讀數與同輪手寫的獨立 curl 逐字相符。自評一筆：第一版判讀行把層數寫死成「三層」而實際只印兩層，是自己造的數字自己沒對賬（[REFLEXES #59](../semiont/REFLEXES.md)），改成數實際層數。純讀取面、GET 不 POST、不碰判準、不碰閾值、不對外開口，HG8 不動。_
 _v1.12 | 2026-10-10 twmd-feedback-triage routine — **到達間隔那把尺終於有入口**。v1.9 讓佇列空的那一輪印出「最近一筆是 10.3 天前」，但沒有回答當班下一個必然會問的問題：這算不算久。那把尺（歷史最長到達間隔）在 09-11／09-12／09-15 三個 cycle 各被手寫一次，而 09-15 那次的發現比「又手寫了一遍」更尖銳——前兩次的答案都偏小且**方向固定**，因為極值問題帶 `limit` 去問只會往小的那邊錯（60 筆問出 9.8 天、40 筆問出「破紀錄」，全庫 87 筆才是 12.6 天）。偏小的極值不製造不適感，所以沒有人想再查一次：這是一把**用得越順手、錯得越安靜**的尺。本輪第四次要用它時落地（LESSONS `deferred-fix-lands-on-recurrence-not-on-reading` 在這條 routine 上的第四次現形，前三次是 `--exclude` 8/15、`--show` 8/31、intake-age 9/10，四個都是絆到第二次以上才動手）。`formatIntakeIntervals()` 純函式 + 4 unit test（67/67 綠）；`fetchAllFeedbackDates()` 刻意不帶 `limit` 並拿 `content-range` 總數對賬，少收就回 `null` 並印「極值會偏小，下面那行不可引用」，不讓半個樣本的極值看起來像一個答案（[REFLEXES #99](../semiont/REFLEXES.md) 尺先驗再用）。上線讀數與同輪手寫的獨立探針逐字相符（12.6 天 / 2026-06-16→2026-06-29 / 全庫 91 筆），且 91 筆裡 88 筆 `filed` 跟 HG12b 的 `archive-reconcile=88/88` 交叉對得上。純讀取面，不碰判準、不碰 HG8，閾值仍留人類 gate（同 v1.9 的界線）。_
 _v1.11 | 2026-09-18 twmd-feedback-triage routine — **`--show` 補印「正確資訊 + 來源」欄**。周蕙勘誤（[issue #1746](https://github.com/frank890417/taiwan-md/issues/1746)）走完 HG13 的 `--show` 才 `--commit`，核對開完的 issue body 時多出一段沒讀過的讀者文字：`correct_info` 欄。讀者自由文字有四個欄位，`detectInjection` / `scrubSecrets` / `buildArchiveRecord` 全掃四個，唯獨 8/31 為 HG13 造的讀取入口只印 `body` 與 `quote`。這是 LESSONS `held-fact-never-crosses-into-the-layer-that-acts-on-it` 第五次（vc=5），也是第一次長在為了修第一次而造的工具上——一支只讀一半的讀取工具，比沒有工具更容易讓人以為讀完了。修法：`formatForShow()` 補印 `correct_info`（沒有就不印空段），+1 unit test，63/63 綠。純讀取面，不碰判準，不碰 HG8。_
 _v1.10 | 2026-09-16 twmd-feedback-triage routine — **`idea` 類 issue 補上來源頁面 URL**。連續九輪零回報後的第一筆真回報（一位讀者拿教育部辭典與《文明小史》第三回，質疑用語庫把「消息」寫成中國用語）開成 [issue #1733](https://github.com/frank890417/taiwan-md/issues/1733) 之後，body 裡找不到任何指得出那一頁的字：讀者寫的是「此頁面直接寫⋯」，而 `idea` 是四個分支裡唯一既不帶 URL 也不帶 articleRef 的一個。`source_url` 從頭到尾都在——Supabase 有、`docs/feedback/archive/` 的紀錄有、只有要拿去動手的那份沒有。這跟 `--show`（8/31）、報表印 id（9/01）是同一種病的第四次現形：**這條線握著的事實，沒有全部跨進下游要用它的地方**，而缺的那一塊因為不會報錯，得等到有人真的要用才現形。修法比照 `bug` 分支的「問題頁面 URL」，沒有 `source_url` 就整段不出現（+2 unit test，62/62 綠）；#1733 的 body 用同一支 canonical 產生器重新產出後回填，不手抄（[REFLEXES #93](../semiont/REFLEXES.md)）。這是機器補完自己的轉錄，不是以維護者身份發言，HG8 不動。_

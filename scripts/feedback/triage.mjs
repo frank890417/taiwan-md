@@ -58,6 +58,7 @@ export function parseArgs(argv) {
     exclude: [],
     show: [],
     intakeStats: false,
+    intakeHealth: false,
   };
   for (let i = 2; i < argv.length; i++) {
     const v = argv[i];
@@ -85,6 +86,9 @@ export function parseArgs(argv) {
     else if (v === '--show-all') a.show.push('*');
     // --intake-stats：唯讀印到達間隔（佇列空的那一輪自動印,這個 flag 給隨時想看的人）。
     else if (v === '--intake-stats') a.intakeStats = true;
+    // --intake-health：唯讀健檢站上表單的 backend 是否真的指向 Supabase + 金鑰還認不認得
+    // （佇列空的那一輪自動跑,這個 flag 給隨時想看的人）。GET not POST,不留假回報。
+    else if (v === '--intake-health') a.intakeHealth = true;
   }
   return a;
 }
@@ -269,6 +273,175 @@ async function fetchLatestFeedback() {
   } catch {
     return null;
   }
+}
+
+/**
+ * 從線上 bundle 文字裡解出 feedback widget 實際生效的 backend 設定。
+ *
+ * 為什麼要看線上的、不看 repo 裡的：三個值是 build 時由 GitHub repo **Variables**
+ * 注入的（`deploy.yml` 的 `vars.PUBLIC_FEEDBACK_MODE` 等），而 `resolveBackendKind()`
+ * 對「mode=supabase 但 key 是空的」這種半成品狀態**安靜降級成 github-only**。
+ * 也就是說任何一個 Variable 被改名或刪掉，站上的回報表單會變成一顆連去 GitHub
+ * issue template 的按鈕，讀者照樣看到「可以回報」、一筆也不會進 Supabase——
+ * 而這在讀取端長得跟「讀者沒話說」逐字相同（LESSONS
+ * `empty-intake-cannot-distinguish-quiet-from-broken` 的寫入端那一半）。
+ * repo 裡的程式碼看不出這件事，只有讀者拿到的那份 bundle 看得出來（REFLEXES #69 外部尺）。
+ *
+ * **永不回傳 key 本身**，只回存不存在與長度（REFLEXES #2 憑證永不進對話；
+ * 這把 publishable key 設計上可公開，紀律照舊）。
+ */
+export function parseDeployedFeedbackConfig(js) {
+  if (typeof js !== 'string' || js === '')
+    return { parsed: false, mode: null, url: null, keyPresent: false };
+  const pick = (name) => {
+    const m = js.match(new RegExp(`${name}\\s*:\\s*[\`"']([^\`"']*)[\`"']`));
+    return m ? m[1] : null;
+  };
+  const key = pick('PUBLIC_SUPABASE_ANON_KEY');
+  return {
+    parsed: true,
+    mode: pick('PUBLIC_FEEDBACK_MODE'),
+    url: pick('PUBLIC_SUPABASE_URL'),
+    providers: pick('PUBLIC_FEEDBACK_PROVIDERS'),
+    keyPresent: Boolean(key),
+    keyLength: key ? key.length : 0,
+  };
+}
+
+/**
+ * 線上設定 + API 可達性的讀數 → 報表。
+ *
+ * 三態分開，不共用長相（同 HG12b `unavailable` / HG12c `null` 的紀律，REFLEXES #85
+ * 「不知道」要有自己的符號）：
+ *   ok      ✅ 這一層今天確認活著
+ *   broken  ⚠️ 這一層確認壞了 —— 讀者的話正在流失
+ *   unknown ❔ 這一層今天查不到（**不等於**沒事）
+ *
+ * **刻意不碰的**：沉默幾天算不算久（那是閾值，per BECOME §行動鐵律 10 留人類 gate，
+ * 同 `formatIntakeAge` / `formatIntakeIntervals` 對自己劃的界）。本函式只講可達性，
+ * 而可達性是事實不是門檻，所以 broken 這一態可以直接出聲。
+ */
+export function formatIntakeHealth(h) {
+  const L = [];
+  const sym = { ok: '✅', broken: '⚠️', unknown: '❔' };
+  L.push('[triage] 寫入端健檢（唯讀，不送任何假回報）：');
+  for (const layer of h.layers) {
+    L.push(`  ${sym[layer.state] || '❔'} ${layer.name}：${layer.detail}`);
+  }
+  L.push(
+    '  ❔ 未涵蓋：登入讀者的 INSERT 過不過 RLS、OAuth 本身（policy 要求 auth.uid() = uid）——' +
+      '這兩層要有登入態或真的寫一筆才驗得到，後者會在讀者看得到的表與主權層留一筆假回報',
+  );
+  const broken = h.layers.filter((l) => l.state === 'broken');
+  const unknown = h.layers.filter((l) => l.state === 'unknown');
+  if (broken.length)
+    L.push(
+      `  ⚠️ 判讀：${broken.length} 層確認壞了 —— 讀者此刻送不進來,安靜不是安靜`,
+    );
+  else if (unknown.length)
+    L.push(
+      `  ❔ 判讀：查得到的都活著,但有 ${unknown.length} 層今天沒驗到（不等於沒事）`,
+    );
+  else
+    L.push(
+      `  ✅ 判讀：查得到的 ${h.layers.length} 層今天都活著 —— 表單確實指向 Supabase、金鑰還認得、表還在`,
+    );
+  return L.join('\n');
+}
+
+/**
+ * 跑一次寫入端健檢。純網路面（不進 unit test，同 `fetchAllFeedbackDates` 的分工）。
+ *
+ * 誕生：2026-08-07 這條 routine 的班次手抓線上 bundle 驗過一次同樣的事，驗完是好的、
+ * 沒有留下入口；2026-10-11 第十六輪零回報、沉默 11.3 天逼近歷史最長 12.6 天時第二次
+ * 手抓（REFLEXES #67「已驗過」帶的是被驗那一刻的時間戳，兩個月前的結論不能當今天的讀數）。
+ * 兩次都是人在補儀器沒有的那把尺 —— 同 HG12b／HG12c 的誕生形狀，所以照這條線的慣例
+ * 在第二次手寫時落地成 flag（`--show` 8/31、intake-age 9/10、intake-stats 10/10 同一個先例）。
+ */
+async function probeIntakeHealth() {
+  const layers = [];
+  const SITE = 'https://taiwan.md/';
+  let js = '';
+  let cfg = { parsed: false };
+  try {
+    const home = await fetch(SITE, { signal: AbortSignal.timeout(20000) });
+    if (!home.ok) throw new Error(`HTTP ${home.status}`);
+    const html = await home.text();
+    const chunk = (html.match(/\/_astro\/FeedbackWidget[A-Za-z0-9._-]*\.js/) ||
+      [])[0];
+    if (!chunk) {
+      layers.push({
+        name: '站上 bundle',
+        state: 'unknown',
+        detail: '首頁裡找不到 FeedbackWidget chunk（查不到,不等於沒上線）',
+      });
+    } else {
+      const res = await fetch(new URL(chunk, SITE), {
+        signal: AbortSignal.timeout(20000),
+      });
+      js = res.ok ? await res.text() : '';
+      cfg = parseDeployedFeedbackConfig(js);
+    }
+  } catch (e) {
+    layers.push({
+      name: '站上 bundle',
+      state: 'unknown',
+      detail: `抓不到（${e.message}）—— 查不到,不等於沒事`,
+    });
+  }
+
+  if (cfg.parsed) {
+    const live = cfg.mode === 'supabase' && cfg.url && cfg.keyPresent;
+    layers.push({
+      name: '站上表單的 backend',
+      state: live ? 'ok' : 'broken',
+      detail: live
+        ? `mode=supabase · URL 有 · 金鑰 inline（長度 ${cfg.keyLength},值不印）· providers=${cfg.providers || '預設'}`
+        : `mode=${cfg.mode || '(空)'} / URL ${cfg.url ? '有' : '沒有'} / 金鑰 ${cfg.keyPresent ? '有' : '沒有'}` +
+          ' —— 三個 repo Variable 任一缺失就降級成 github-only,讀者的回報一筆都不會進 Supabase',
+    });
+  }
+
+  if (cfg.parsed && cfg.url && cfg.keyPresent) {
+    // 用讀者瀏覽器用的同一把 publishable key 做一次 GET。
+    // 刻意是 GET 不是 POST：POST 會留下一筆假回報。
+    const m = js.match(/PUBLIC_SUPABASE_ANON_KEY\s*:\s*[`"']([^`"']*)[`"']/);
+    const key = m ? m[1] : '';
+    try {
+      const res = await fetch(`${cfg.url}/rest/v1/feedback?select=id&limit=1`, {
+        headers: { apikey: key, Authorization: `Bearer ${key}` },
+        signal: AbortSignal.timeout(20000),
+      });
+      if (res.status === 401 || res.status === 403) {
+        layers.push({
+          name: '金鑰與資料表',
+          state: 'broken',
+          detail: `HTTP ${res.status} —— 站上那把金鑰已經不被接受（輪替過或被撤銷）,讀者送不進來`,
+        });
+      } else if (res.ok) {
+        const body = await res.json().catch(() => null);
+        layers.push({
+          name: '金鑰與資料表',
+          state: 'ok',
+          detail: `HTTP 200 · 金鑰還認得、表還在 · 匿名 select 回 ${Array.isArray(body) ? body.length : '?'} 列（RLS 正確地什麼都不給外人看）`,
+        });
+      } else {
+        layers.push({
+          name: '金鑰與資料表',
+          state: 'unknown',
+          detail: `HTTP ${res.status} —— 不是 401/403 也不是 200,沒結論`,
+        });
+      }
+    } catch (e) {
+      layers.push({
+        name: '金鑰與資料表',
+        state: 'unknown',
+        detail: `戳不到（${e.message}）—— 查不到,不等於沒事`,
+      });
+    }
+  }
+
+  return { layers };
 }
 
 // ── data source ───────────────────────────────────────────────────────────────
@@ -546,7 +719,21 @@ async function main() {
       // --intake-stats 自己會印,不在這裡印第二遍。
       if (!args.intakeStats)
         console.log(formatIntakeIntervals(await fetchAllFeedbackDates()));
+      // 上面兩行講的都是讀取端。佇列空的那一輪,「讀者送不送得進來」是當班真正要問的
+      // 另一半,而它在這條線上從來沒有入口（兩次都靠人手抓線上 bundle）。
+      // --intake-health 自己會印,不在這裡印第二遍。
+      if (!args.intakeHealth)
+        console.log(formatIntakeHealth(await probeIntakeHealth()));
     }
+  }
+
+  // --intake-health：唯讀,印完就收工（放在所有副作用之前）。
+  if (args.intakeHealth) {
+    console.log(formatIntakeHealth(await probeIntakeHealth()));
+    console.log(
+      `\n[triage] intake-health only · 未開任何 issue、未回寫任何 status、未送任何回報`,
+    );
+    return { intakeHealth: true };
   }
 
   // --intake-stats：唯讀,印完就收工（放在所有副作用之前）。

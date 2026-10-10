@@ -34,6 +34,8 @@ import {
   formatForShow,
   formatIntakeAge,
   formatIntakeIntervals,
+  parseDeployedFeedbackConfig,
+  formatIntakeHealth,
 } from './triage.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -722,4 +724,99 @@ test('formatIntakeIntervals: 不替當班下判斷（不印警示號）', () => 
   ];
   const out = formatIntakeIntervals(rows, new Date('2026-09-10T00:00:00Z'));
   assert.ok(!out.includes('\u26a0'));
+});
+
+// ── 寫入端健檢（2026-10-11 v1.13）───────────────────────────────────────────────
+// 這幾題守的是「讀者送不送得進來」那一半。前面所有閘門與對賬都長在讀取端之後,
+// 而站上表單的 backend 是 build 時由 repo Variables 注入的,任一缺失會
+// 安靜降級成 github-only —— 在讀取端長得跟「讀者沒話說」逐字相同。
+
+test('parseDeployedFeedbackConfig: 認得線上 bundle 裡三個值都在的健康樣子', () => {
+  // 取自 2026-10-11 真的抓下來的那份 chunk 的形狀（minify 後是反引號）。
+  const js =
+    'PUBLIC_FEEDBACK_PROVIDERS:`google,github,email`,' +
+    'PUBLIC_SUPABASE_ANON_KEY:`sb_publishable_AAAABBBBCCCCDDDDEEEEFFFFGG`,' +
+    'PUBLIC_SUPABASE_URL:`https://example.supabase.co`,' +
+    'PUBLIC_FEEDBACK_MODE:`supabase`';
+  const cfg = parseDeployedFeedbackConfig(js);
+  assert.equal(cfg.parsed, true);
+  assert.equal(cfg.mode, 'supabase');
+  assert.equal(cfg.url, 'https://example.supabase.co');
+  assert.equal(cfg.keyPresent, true);
+  assert.equal(cfg.providers, 'google,github,email');
+});
+
+test('parseDeployedFeedbackConfig: 永不回傳金鑰本身,只回長度', () => {
+  // REFLEXES #2 憑證永不進對話。這把 publishable key 設計上可公開,紀律照舊——
+  // 回傳物件會被印進報表,值一旦進得來就會進 log。
+  const js = 'PUBLIC_SUPABASE_ANON_KEY:`sb_publishable_SECRETVALUE123`';
+  const cfg = parseDeployedFeedbackConfig(js);
+  assert.equal(cfg.keyLength, 'sb_publishable_SECRETVALUE123'.length);
+  assert.ok(!JSON.stringify(cfg).includes('SECRETVALUE123'));
+});
+
+test('parseDeployedFeedbackConfig: 抓不到 bundle 跟 bundle 裡沒有設定不共用長相', () => {
+  // 空字串 = 抓不到（parsed:false）。有內容但沒有那幾個鍵 = 真的沒設定（parsed:true,值 null）。
+  // 兩者處置不同:前者是「今天沒驗到」,後者是「確認降級了」。
+  assert.equal(parseDeployedFeedbackConfig('').parsed, false);
+  assert.equal(parseDeployedFeedbackConfig(null).parsed, false);
+  const empty = parseDeployedFeedbackConfig('console.log(1)');
+  assert.equal(empty.parsed, true);
+  assert.equal(empty.mode, null);
+  assert.equal(empty.keyPresent, false);
+});
+
+test('formatIntakeHealth: 三層都活著時說得出「查得到的都活著」', () => {
+  const out = formatIntakeHealth({
+    layers: [
+      { name: '站上 bundle', state: 'ok', detail: 'x' },
+      { name: '站上表單的 backend', state: 'ok', detail: 'y' },
+      { name: '金鑰與資料表', state: 'ok', detail: 'z' },
+    ],
+  });
+  assert.match(out, /3 層今天都活著/);
+  assert.ok(!out.includes('⚠'));
+});
+
+test('formatIntakeHealth: 壞掉時直接出聲（可達性是事實不是門檻）', () => {
+  const out = formatIntakeHealth({
+    layers: [
+      { name: '站上表單的 backend', state: 'ok', detail: 'y' },
+      { name: '金鑰與資料表', state: 'broken', detail: 'HTTP 401' },
+    ],
+  });
+  assert.match(out, /1 層確認壞了/);
+  assert.match(out, /安靜不是安靜/);
+});
+
+test('formatIntakeHealth: 查不到不准讀成沒事（同 HG12b unavailable 紀律）', () => {
+  // ❔ 跟 ✅ 必須分得開 —— 這條線上最貴的錯誤一直是把「沒量到」讀成「沒問題」。
+  const out = formatIntakeHealth({
+    layers: [{ name: '站上 bundle', state: 'unknown', detail: '抓不到' }],
+  });
+  assert.match(out, /沒驗到/);
+  assert.match(out, /不等於沒事/);
+  assert.ok(!/層今天都活著/.test(out));
+});
+
+test('formatIntakeHealth: 永遠講明自己涵蓋不到 INSERT 與 OAuth', () => {
+  // 報表的危險不在它說錯,在它讓人以為整個寫入端都驗過了（REFLEXES #82 proxy signal）。
+  const out = formatIntakeHealth({ layers: [] });
+  assert.match(out, /未涵蓋/);
+  assert.match(out, /INSERT/);
+  assert.match(out, /OAuth/);
+});
+
+test('formatIntakeHealth: 不替當班判斷沉默幾天算久（閾值留人類 gate）', () => {
+  // 同 formatIntakeAge / formatIntakeIntervals 對自己劃的界。
+  const out = formatIntakeHealth({
+    layers: [{ name: '金鑰與資料表', state: 'ok', detail: 'HTTP 200' }],
+  });
+  assert.ok(!/\d+(\.\d+)?\s*天/.test(out));
+});
+
+test('parseArgs: --intake-health 是唯讀旗標,不會順手打開 commit', () => {
+  const a = parseArgs(['node', 'triage.mjs', '--intake-health']);
+  assert.equal(a.intakeHealth, true);
+  assert.equal(a.commit, false);
 });
