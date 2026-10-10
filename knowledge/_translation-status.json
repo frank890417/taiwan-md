@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T04:40:02+08:00",
-    "zhCommitHead": "e28908acf",
+    "lastUpdated": "2026-10-11T04:50:15+08:00",
+    "zhCommitHead": "84f3fc723",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1126,
-        "fresh": 1110,
-        "stale": 15,
+        "fresh": 1111,
+        "stale": 14,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -44,24 +44,24 @@
       },
       "es": {
         "total_zh": 1126,
-        "fresh": 1117,
-        "stale": 8,
-        "metadata_stale": 0,
-        "missing": 1,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 1126,
         "fresh": 1118,
         "stale": 7,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
       },
+      "fr": {
+        "total_zh": 1126,
+        "fresh": 1119,
+        "stale": 6,
+        "metadata_stale": 0,
+        "missing": 1,
+        "orphan": 0
+      },
       "vi": {
         "total_zh": 1126,
-        "fresh": 1122,
-        "stale": 2,
+        "fresh": 1123,
+        "stale": 1,
         "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1126,
-        "fresh": 1121,
-        "stale": 3,
+        "fresh": 1122,
+        "stale": 2,
         "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
@@ -43792,18 +43792,18 @@
         "ja": {
           "path": "ja/Art/tehching-hsieh-performance-artist.md",
           "translatedFrom": "Art/謝德慶.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "d520299ba",
           "sourceContentHash": "sha256:97f19e04671843c8",
           "sourceBodyHash": "sha256:63227fedc7d1144a",
-          "translatedAt": "2026-06-10T16:41:16Z",
+          "translatedAt": "2026-10-11T01:05:40+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 29042,
+          "bytes": 34437,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/tehching-hsieh-performance-artist.md",
@@ -66666,18 +66666,18 @@
         "fr": {
           "path": "fr/Society/united-front-tour-groups.md",
           "translatedFrom": "Society/統戰團.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:6189acad34e81f7d",
           "sourceBodyHash": "sha256:a81371a8c3c242ce",
-          "translatedAt": "2026-05-02T13:44:29+08:00",
+          "translatedAt": "2026-10-11T01:05:45+08:00",
           "translationLastCommit": "ca2ceca5",
           "translationLastModified": "2026-10-10T23:40:35+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "bytes": 23152,
+          "bytes": 23351,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/united-front-tour-groups.md",
@@ -84264,18 +84264,18 @@
         "vi": {
           "path": "vi/Nature/taiwan-atlas-moth.md",
           "translatedFrom": "Nature/台灣皇蛾.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:a336119578818ea58e2a95d113b60caf523b8383f9ae9d70e9b72b88bc5d7a10",
-          "sourceBodyHash": "sha256:959f46c04a0460032685d94b0543c4b0838cdcc2807bcdb3bdfe9dffff5e918b",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "38a5f7e2a",
+          "sourceContentHash": "sha256:a407c4cd5d546815",
+          "sourceBodyHash": "sha256:94480d54498a46b7",
+          "translatedAt": "2026-10-11T01:05:46+08:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 17934,
+          "footnoteDefs": 10,
+          "bytes": 14878,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/taiwan-atlas-moth.md",
@@ -84328,18 +84328,18 @@
         "ar": {
           "path": "ar/Nature/taiwan-atlas-moth.md",
           "translatedFrom": "Nature/台灣皇蛾.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:c0def8638e893fc6",
-          "sourceBodyHash": "sha256:b3b31dae4152e213",
-          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "sourceCommitSha": "38a5f7e2a",
+          "sourceContentHash": "sha256:a407c4cd5d546815",
+          "sourceBodyHash": "sha256:94480d54498a46b7",
+          "translatedAt": "2026-10-11T01:05:50+08:00",
           "translationLastCommit": "3995a2b4",
           "translationLastModified": "2026-10-10T23:27:56+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 20091,
+          "footnoteDefs": 10,
+          "bytes": 20408,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwan-atlas-moth.md",
@@ -84348,8 +84348,8 @@
           "sourceContentHash": "sha256:a407c4cd5d546815",
           "sourceBodyHash": "sha256:94480d54498a46b7",
           "translatedAt": "2026-10-11T01:05:51+08:00",
-          "translationLastCommit": "ffcf15ba",
-          "translationLastModified": "2026-10-10T23:30:24+08:00",
+          "translationLastCommit": "84f3fc72",
+          "translationLastModified": "2026-10-11T04:40:02+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 22980,
@@ -125286,18 +125286,18 @@
         "es": {
           "path": "es/People/han-kuo-yu.md",
           "translatedFrom": "People/韓國瑜.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "dd39065b2",
           "sourceContentHash": "sha256:43806fa3b9658513",
           "sourceBodyHash": "sha256:fe00573219684528",
-          "translatedAt": "2026-06-10T16:45:00+00:00",
+          "translatedAt": "2026-10-11T01:05:43+08:00",
           "translationLastCommit": "c3be0c29",
           "translationLastModified": "2026-10-10T23:40:32+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 23004,
+          "bytes": 24756,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/han-kuo-yu.md",

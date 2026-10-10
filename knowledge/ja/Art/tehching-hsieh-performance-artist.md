@@ -1,24 +1,27 @@
 ---
-title: 'Tehching Hsieh: The Taiwanese Artist Who Lived 14 Years of Illegal Status as a Performance Art Piece'
-description: "In 1978, in New York's Tribeca, he voluntarily entered a wooden cage he had nailed shut himself for one year, remaining silent, without reading or writing. For the next five years, he turned time into art through time-clocking, ropes, and street wandering; for the following 13 years, he made art but did not exhibit it publicly. Starting from Pingtung's Nanzhou, Tehching Hsieh jumped ship in 1974 to become an illegal immigrant in New York for exactly 14 years. While other artists painted freedom, he chose to prove that time itself is art through confinement."
+title: '謝德慶（しゃ・とっけい／ツァイ・ダーチン）：14年間の不法滞在を一つのパフォーマンス・アートとして生きた台湾の芸術家'
+description: '1978年、ニューヨークのトライベッカで、彼は自ら釘打ちした木製の檻に自ら入って1年間過ごし、言葉を発せず、本を読まず、文字を書かなかった。続く5年間で打刻、縄、路上生活によって時間を作品へと変え、その後13年間は芸術を制作しながらも公開しなかった。謝德慶は屏東南州から出発し、1974年に船から飛び降りてニューヨークで丸14年間不法移民として生きた。他の芸術家が自由を描くとき、彼は監禁によって時間そのものが芸術であることを証明した。'
 date: 2026-04-20
+category: 'Art'
 tags:
   [
-    'Performance Art',
-    'Contemporary Art',
+    'パフォーマンス・アート',
+    '現代美術',
+    '謝德慶',
     'Tehching Hsieh',
     'One Year Performance',
-    'Venice Biennale',
+    'ヴェネツィア・ビエンナーレ',
     'MoMA',
-    'Illegal Immigrant',
-    'Pingtung',
+    '不法移民',
+    '屏東',
   ]
 subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
-category: 'Art'
-readingTime: 16
+featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
+researchReport: 'reports/research/2026-04/謝德慶.md'
+readingTime: 16
 sporeLinks:
   - id: 39
     platform: 'threads'
@@ -29,205 +32,204 @@ sporeLinks:
     date: '2026-04-20'
     url: 'https://x.com/taiwandotmd/status/2046066338138104130'
 translatedFrom: 'Art/謝德慶.md'
-sourceCommitSha: ''
+sourceCommitSha: 'd520299ba'
 sourceContentHash: 'sha256:97f19e04671843c8'
-translatedAt: '2026-06-10T16:41:16Z'
 sourceBodyHash: 'sha256:63227fedc7d1144a'
-featured: false
+translatedAt: '2026-10-11T01:05:40+08:00'
 ---
 
-## Tehching Hsieh: The Taiwanese Artist Who Lived 14 Years of Illegal Status as a Performance Art Piece
+## 謝德慶（しゃ・とっけい／ツァイ・ダーチン）：14年間の不法滞在を一つのパフォーマンス・アートとして生きた台湾の芸術家
 
-> **30-Second Overview:** Tehching Hsieh (born 1950 in Nanzhou, Pingtung) is the world's most recognized Taiwanese master of performance art. In 1974, he jumped ship at the Port of Philadelphia to become an illegal immigrant, living without a passport or legal right to work for 14 years. From 1978 to 1986, he completed five groundbreaking "One Year Performances" that shook the international art world: locking himself in a cage he nailed himself for a year, time-clocking every hour for a full year, living in the open air for a year without entering any building, being tied by an 8-foot rope to Linda Montano for 12 months without touching, and refusing to make art for a full year. He then spent 13 years making art but keeping it private. On December 31, 1999, at midnight, he left a statement made of cut-out letters: "I kept myself alive." MoMA, Guggenheim, Tate, M+, and Dia all collect his work. He represented Taiwan at the 2017 Venice Biennale, and in 2025, New York's Dia Beacon hosted a two-year retrospective, his first complete overview.
+> **30秒で概観：** 謝德慶（Tehching Hsieh、1950年屏東南州生まれ）は、世界的に認められた台湾出身のパフォーマンス・アートの巨匠です。1974年、フィラデルフィア港で船から飛び降りて不法移民となり、14年間パスポートも合法的な就労権もありませんでした。1978年から1986年にかけて、国際美術界を震撼させた5つの「一年パフォーマンス」（One Year Performance）を完成させました：自作の檻に1年間閉じ込められる、1年間毎正時に打刻する、1年間一切の建物に入らない、リンダ・モンタノと8フィート（約2.4メートル）の縄で結ばれ12ヶ月間触れ合わない、1年間芸術を拒否する。その後、13年間芸術を制作しながらも公開しませんでした。1999年12月31日深夜、彼は切り貼り文字で「I kept myself alive」と記した声明を残しました。MoMA、グッゲンハイム美術館、テート美術館、M+美術館、ダイヤ美術館が作品を収蔵し、2017年ヴェネツィア・ビエンナーレで台湾代表を務め、2025年にはニューヨークのダイヤ・ビーコンで初の本格的回顧展が2年間の会期で開催されました。
 
 ---
 
-On September 29, 1978, in a studio in Tribeca, New York, 28-year-old Tehching Hsieh asked lawyer Robert Projansky to act as a notary public. In front of witnesses, he stepped into a wooden cage he had nailed shut himself[^1]. The cage was 11.5 feet wide, 9 feet deep, and 8 feet high (approximately 3.5 × 2.7 × 2.4 meters), containing only a single bed, a washbasin, a lamp, and a bucket[^2]. He took the key from his pocket and handed it to the lawyer, asking the lawyer to lock the door.
+1978年9月29日、ニューヨーク・トライベッカの一室のスタジオ。28歳の謝德慶は、弁護士のロバート・プロヤンスキーを公証人として立ち会わせ、人々の前で自ら釘打ちした木製の檻に足を踏み入れました[^1]。檻のサイズは幅11.5フィート（約3.5メートル）、奥行き9フィート（約2.7メートル）、高さ8フィート（約2.4メートル）で、中にはシングルベッド、洗面器、ランプ、バケツが一つずつあるだけでした[^2]。彼はポケットから鍵を取り出し、弁護士に渡してドアを施錠するよう依頼しました。
 
-For the next 365 days, he would not speak, read, write, listen to the radio, or watch television[^3]. Only one friend, Cheng Wei-kwang, was responsible for delivering food, changing clothes, and cleaning up trash every day, and this had to be done without speaking to Hsieh[^4].
+続く365日間、彼は言葉を発せず、本を読まず、文字を書かず、ラジオを聴かず、テレビを見ませんでした[^3]。ただ一人の友人、鄭維光が毎日食事を運び、衣類を交換し、ゴミを片付ける役目を担いましたが、謝德慶と言葉を交わさないことが条件でした[^4]。
 
-This marked the beginning of what would become the most difficult year to explain in the history of Taiwanese performance art. It was also the first piece in Hsieh's self-described series of "One Year Performances."
+それは台湾パフォーマンス・アート史上、最も説明が難しい一年の幕開けでした。また、謝德慶が自ら「一年パフォーマンス」シリーズの第一作と呼ぶ作品の始まりでもありました。
 
-### The Body Departing from Nanzhou, Pingtung
+### 屏東南州から出発した身体
 
-On December 31, 1950, Tehching Hsieh was born into an ordinary family in Nanzhou Township, Pingtung[^5]. He dropped out of high school in 1967 and began self-studying painting; between 1970 and 1973, during his military service, he created a large body of work. In the autumn of 1973, he held a solo exhibition at the Taipei U.S. Information Service. That same year, he made two decisions that would define his life: first, he announced he was stopping painting. Second, he walked to the second floor of his home and jumped out of the window.
+1950年12月31日、謝德慶は屏東南州郷の普通の家庭に生まれました[^5]。1967年に高校を中退し、独学で絵画を始めました。1970年から1973年の兵役期間中に大量の作品を描きました。1973年秋、台北のアメリカ新聞処で個展を開きました。同年、彼の人生を決定づける二つの出来事が起きました。一つは、絵画制作の停止を宣言したこと。もう一つは、自宅の二階から窓から飛び降りたことです。
 
-This was not suicide. It was his first performance art piece, _Jump Piece_[^6]. He recorded the jump before and after with a Super 8 camera, leaving six photographs. He fractured both ankles and was unable to walk for the next four months.
+これは自殺ではありません。彼の最初のパフォーマンス・アート作品『ジャンプ・ピース』（Jump Piece）でした[^6]。Super 8カメラで飛び降りの前後を記録し、6枚の写真を残しました。両足首の骨を折り、その後4ヶ月間歩くことができませんでした。
 
-This building jump did not create much of a splash in the Taiwanese art circle. In 1970s Taiwan, the vocabulary of "performance art" did not yet exist, and the gallery system did not know how to handle such a work. Hsieh himself later destroyed the original Super 8 film, leaving only the photographs[^6].
+この飛び降りは、当時の台湾美術界で大きな波紋を呼ぶことはありませんでした。1970年代の台湾にはまだ「パフォーマンス・アート」という言葉がなく、画廊システムもこの種の作品をどう受け止めればよいか分かっていませんでした。謝德慶自身が後年、Super 8のオリジナルフィルムを破棄し、写真だけが残っています[^6]。
 
-> Looking back, this decision already contained the DNA of all Hsieh's subsequent works: **using the extreme physical state of the body to bear the concept**, without attaching to any existing artistic medium.
+> 後から振り返れば、この決断にはすでに謝德慶の後年のすべての作品のDNAが潜んでいました：**身体の極限状態を用いて観念を担う**、既存のいかなる芸術媒体にも依存しないという姿勢です。
 
-In July 1974, he enrolled in a seaman training program. He thought he wanted another job. In fact, he wanted a boat ticket to leave Taiwan. On July 13 of that year, as the ship docked at the Port of Philadelphia, Hsieh jumped ship. From that moment until the 1988 Reagan amnesty, he lived in the United States for exactly 14 years without legal status[^7].
+1974年7月、彼は船員訓練に申し込みました。別の仕事を得るつもりだと思っていました。実際に欲しかったのは、台湾を出るための船の切符でした。同年7月13日、船がフィラデルフィア港に着くと、謝德慶は飛び降りました。その瞬間から1988年のレーガン大統領による大赦まで、彼はアメリカで丸14年間、合法的な身分を持たないまま過ごしました[^7]。
 
-### The Cage in Tribeca
+### トライベッカの檻
 
-In the first few years after jumping ship, he worked as a restaurant helper, on construction sites, and survived within New York's underground economy. In 1978, he decided to turn his situation into a work of art. If he was already living in a state where he could not freely leave or appear openly, he would make the "cannot" into material.
+飛び降り後の数年間、彼はレストランの雑用、建設現場の労働、ニューヨークの地下経済で生き延びました。1978年、彼は自分の置かれた状況を作品に変えることを決意しました。すでに自由に出国できず、表立って姿を現せない状態で生きているなら、その「できない」を素材にしようと。
 
-He nailed the cage himself. On the day the lawyer notarized the event, he signed a legal statement: for the next year, the cage door would only open in an emergency. He could not leave the cage, his friend could not speak to him, and viewers could visit him by appointment, but he would not perform for the viewers; he would simply live inside the cage[^3].
+檻は彼自身が釘打ちしました。弁護士立会いの日、彼は法的声明書に署名しました：向こう1年間、檻の扉は緊急事態の場合のみ開かれる。彼は檻から出られず、友人と言葉を交わさず、観客は予約制で彼を見学できるが、彼は観客に対して一切パフォーマンスをせず、ただ檻の中で日々を過ごすだけです[^3]。
 
-MoMA's archival description of the rules for this work reads: "No communication with the outside world, no reading, no writing, no watching TV, no listening to the radio, no engaging in any activity that could be considered entertainment"[^1]. In other words, he was not just locking up his body; he was locking up his entire spiritual life.
+MoMAの収蔵アーカイブでは、この作品のルールリストを次のように説明しています：「外部とのコミュニケーションを取らない、本を読まない、文字を書かない、テレビを見ない、ラジオを聴かない、娯楽とみなされるいかなる活動も行わない」[^1]。つまり彼は身体を閉じ込めただけでなく、精神生活そのものも閉じ込めたのです。
 
-A year later, he stepped out of the cage. He later told interviewers that his body had lost its sense of balance in external space, taking a month to walk normally on the streets of New York[^4].
+1年後、彼は檻から出ました。後年のインタビューで、身体が外部空間との平衡感覚を失い、ニューヨークの街を普通に歩けるようになるまで1ヶ月かかったと語っています[^4]。
 
-> _Cage Piece_ is not opposing freedom, but testing: When you strip a person to the extreme from society, what remains?
+> 『ケージ・ピース』は自由に反対するためのものではなく、問うためのものです：社会から人間を極限まで剥奪したとき、何が残るのか？
 
-The answer is: **Only time**. And time would subsequently become the common material for all of Hsieh's works.
+答えは：**ただ時間だけ**です。そして時間こそが、その後の謝德慶のすべての作品の共通素材となります。
 
-### Time-Clocking 8,666 Times
+### 毎正時の打刻、8,666回
 
-On April 11, 1980, at 6:00 PM, Tehching Hsieh began his second work, _Time Clock Piece_. The rules were as simple as factory regulations: every hour, 24 hours a day, he would time-clock once. He did this for 365 days. Each time he time-clocked, a 16mm camera next to the clock automatically took a photo of him standing in front of the time clock[^8].
+1980年4月11日午後6時、謝德慶は第二作『タイム・クロック・ピース』（Time Clock Piece）を開始しました。ルールは工場の規則のように単純です：24時間、毎正時に一度打刻する。それを365日間続ける。打刻のたびに、タイムクロック横の16mmカメラが自動的に、打刻機の前に立つ彼の写真を一枚撮影します[^8]。
 
-This meant he never truly slept for more than an hour during the year. To avoid missing the hourly clock-in, he had to live in the studio all year, with his life rhythm completely synchronized with the frequency of the time clock. During the execution, he shaved his head, allowing the accumulation of self-portraits to show his hair growing from nothing to long, **making the hair itself the visual representation of that year's time**[^9].
+これは彼が1年間、一度も1時間以上まともに眠れなかったことを意味します。正時を逃さないため、彼は1年間スタジオに住み、生活リズムを完全に打刻機の頻率に合わせました。実行中に頭を丸刈りにし、積み重なる自撮り写真の中で髪が無から有へ、徐々に伸びていく様子を捉えました。**髪そのものが、この一年の時間の可視化となったのです**[^9]。
 
-At the end of the year, his record was 8,666 successful clock-ins out of 8,760 attempts, with 94 missed clock-ins (oversleeping, accidental events, equipment issues)[^1]. The 8,666 photos were spliced together in order, becoming a **6-minute 16mm film**. A full year of time was compressed into six minutes, watching his hair grow from bald to shoulder-length, and his expression in the photos change from youthful to weary. This was the calmest and most precise poem of time.
+1年が終わると、彼の記録は8,760回中8,666回成功、94回の失敗（寝坊、突発的出来事、機材トラブル）でした[^1]。8,666枚の写真を順番に繋ぎ合わせると、**6分間の16mmフィルム映像**になります。一年分の時間が6分に圧縮され、髪が禿げ頭から肩まで伸び、表情が若さから疲労へと変わっていく様子が映し出されます。これは最も冷静で、最も精確な時間の詩です。
 
-In an interview with _Collecteurs_ magazine, he defined his working philosophy with an English statement:
+彼はCollecteurs誌のインタビューで、自身の仕事哲学を一言の英語で定義しました：
 
 > "The water level of my art and life need to be the same, so I can sail into art from life, and transfer life time to art time."[^10]
 
-He said that the water level of art and life must be the same, so that one can sail from life into art, transforming life time into art time. This was not rhetoric. _Time Clock Piece_ was the physical manifestation of this statement: **When you convert every hour of a full year into an artistic action, art time and life time truly become the same river.**
+芸術と人生の水位が同じでなければならない。そうでなければ人生から芸術へ帆走し、人生時間を芸術時間へ転換できない。これは修辞ではありません。『タイム・クロック・ピース』はこの言葉の物理的顕現です：**一年のあらゆる時間を芸術的行為に換算するとき、芸術時間と人生時間は本当に同一の川になるのです**。
 
-### The Sleeping Bag on Manhattan Streets
+### マンハッタンの路上の寝袋
 
-On September 26, 1981, he began his third work, _Outdoor Piece_: for a full year, he would not enter any building, take the subway, take a train, ride in a car, fly on a plane, ride a boat, enter a tent, or hide in a cave[^11].
+1981年9月26日、彼は第三作『アウトドア・ピース』（Outdoor Piece）を開始しました：1年間、いかなる建物にも入らない、地下鉄に乗らない、列車に乗らない、自動車に乗らない、飛行機に乗らない、船に乗らない、テントに入らない、洞窟に潜らない[^11]。
 
-He carried a sleeping bag, a backpack, a few clothes, a New York map, a camera, a flashlight, and a radio. For the entire year, he slept in parking lots, outside abandoned factories, under bridges, and under trees. He ate at street food stalls. New York's winter, with temperatures dropping below zero, was no exception.
+彼は寝袋一つ、バックパック一つ、数着の衣服、ニューヨーク地図一枚、カメラ一台、懐中電灯一台、ラジオ一台を携えました。1年間、駐車場、廃工場の外、橋の下、木の下で眠りました。食事は屋台で済ませました。零下十数度のニューヨークの冬も例外ではありませんでした。
 
-The most dramatic event in this work was: during the 12 months, he violated the rules only once: he was arrested by the police and forced to stay in the police station for 15 hours[^12]. That was the only time under a roof for the entire year.
+この作品で最も劇的な出来事は：12ヶ月間でルール違反は一度だけ、警察に逮捕されて強制的に警察署内で15時間過ごしたことです[^12]。それが彼にとって、その年唯一の「屋根の下」での時間でした。
 
-On a deeper level, _Outdoor Piece_ was a mirror image of his illegal status. In 1981, Hsieh **was inherently someone who could not be accommodated by the system**, without a passport, without a work permit, and without a stable residence. _Cage Piece_ locked the body in a cage he made; _Outdoor Piece_ turned the entire city of New York into a space where one could "only be outside." Homeless people, marginalized individuals, and police were the daily interaction subjects of his illegal status period[^13].
+しかしより深い層では、『アウトドア・ピース』は彼の不法滞在身分の鏡像です。1981年の謝德慶は**そもそも制度に収容され得ない人間**でした。パスポートも就労許可も安定した住居もありません。『ケージ・ピース』が自作の檻に身体を閉じ込めたのに対し、『アウトドア・ピース』はニューヨーク市全体を「外にしかいられない空間」に変えました。ホームレス、社会的弱者、警察——これらは彼が不法滞在時代に日常的に遭遇していた相手そのものです[^13]。
 
-> A person who could not "legally exist" in the United States used a full year to prove that "legal existence" is not a default condition of human life, but merely one of society's arrangements.
+> アメリカで「合法的に存在する」ことが許されない一人の人間が、1年間をかけて「合法的に存在すること」が人間の命の前提条件ではなく、社会の多くの取り決めの一つに過ぎないことを証明したのです。
 
-At the end of this year, he did not turn the work into a protest statement. He simply continued to do it.
+この年が終わっても、彼は作品を抗議声明に変えることはありませんでした。ただ、続けただけです。
 
-### 8 Feet of Rope, 12 Months of Conflict
+### 8フィートの縄、12ヶ月の争い
 
-On July 4, 1983, U.S. Independence Day, Tehching Hsieh and American female performance artist Linda Montano tied themselves together with an 8-foot (approximately 2.4-meter) long rope, beginning his fourth work, _Rope Piece_[^14]. The rules were even more counter-intuitive: **tied together for a full 12 months, but absolutely no touching each other**.
+1983年7月4日、アメリカ独立記念日。謝德慶はアメリカ人女性パフォーマンス・アーティストのリンダ・モンタノと、一本の8フィート（約2.4メートル）の縄で結ばれ、第四作『ロープ・ピース』（Rope Piece）を開始しました[^14]。ルールはさらに反直感的です：**12ヶ月間結ばれたまま過ごすが、絶対に互いに触れてはならない**。
 
-They had to sleep in the same space but use the rope to maintain the distance between the two people. Indoors, they shared a room; outdoors, they could separate but were limited by the rope's length. Any accidental physical contact had to be recorded in a log. All verbal exchanges were recorded and archived[^15].
+同じ空間で眠らなければならないが、縄を使って二人の距離を保つ。屋外では離れられるが縄の長さで制限される。いかなる不注意な身体接触も日誌に記録しなければならない。すべての会話は録音保存されます[^15]。
 
-Linda Montano later told the media that **during these 12 months, they spent 80% of the time arguing**[^16]. At first, they could still talk normally, but communication gradually degenerated into gestures, and finally even gestures were skipped, becoming two people pulling the rope in different directions and emitting their own groans[^17].
+リンダ・モンタノは後年、メディアに対して**この12ヶ月の80%の時間を二人は争って過ごした**と語っています[^16]。最初は普通に会話できていたが、次第にコミュニケーションはジェスチャーへと退化し、最後にはジェスチャーさえ省略され、互いに違う方向へ縄を引っ張り合い、それぞれが呻き声を上げるだけになりました[^17]。
 
-This work has too many entry points: it can be an allegory of marriage, a concretization of the tension between immigrants and their host country, or any relationship that cannot be separated nor loved. But Hsieh himself never limited the work to a single interpretation. In multiple interviews, he repeatedly said something similar: he did not consider himself a political artist, but he fully respected how viewers read his work from a political perspective[^18].
+この作品には多くの切り口があります：結婚の寓意となり得るし、移民と滞在国の間の緊張の具象化となり得るし、離れられず愛し合えないあらゆる関係のメタファーとなり得ます。しかし謝德慶自身は、作品を単一の解釈に限定したことはありません。複数のインタビューで繰り返し、彼は自分を政治的芸術家とは見なしていないが、観客が政治的角度から作品を読み解くことは完全に尊重すると述べています[^18]。
 
-He wanted to make the tension itself the work, and then hand over the right of interpretation entirely to the audience. This is the most significant difference between him and many contemporary performance artists carrying strong messages: **he believed the artist's job was to leave the contradiction there, not to give out the answer**.
+彼が求めたのは、緊張そのものを作品にし、解釈権を完全に観客に委ねることです。これが彼と、強いメッセージを掲げる同時代の多くのパフォーマンス・アーティストとの最大の違いです：**彼は、創作者の仕事は矛盾をそこに残すことであって、答えを与えることではないと信じています**。
 
-### Not Making Art is Also a Form of Art
+### 芸術をしないこともまた芸術
 
-Starting on September 1, 1985, began the fifth and final _One Year Performance_: _No Art Piece_. The rule was: **for a full year, do not create, view, discuss, or read anything related to art**[^19]. Do not enter art museums, do not enter galleries, do not look at other artists' works, do not discuss art with friends.
+1985年9月1日、第五作にして最後の「一年パフォーマンス」『ノー・アート・ピース』（No Art Piece）が始まりました。ルールは：**丸1年間、芸術に関連するいかなるものも制作しない、鑑賞しない、議論しない、読まない**[^19]。美術館に行かない、画廊に行かない、他の芸術家の作品を見ない、友人と芸術について語らない。
 
-The reflexivity of this work reached its limit. The first four works used the body to perform a certain action; the fifth simply stopped "the act of making art" for a year. But ironically: **when you declare a full year of not making art, this declaration itself becomes the most thorough work of art**.
+この作品の自己言及性（自己反射性）は極限に達しました。前4作が身体を用いて何らかの行為を行うものだったのに対し、第五作は「芸術をすること自体」を1年間停止させました。しかし皮肉なことに：**「1年間芸術をしない」と宣言すること自体が、最も徹底した芸術作品となってしまうのです**。
 
-When this work ended in 1986, Hsieh was 36 years old. From 28 to 36, for a full 8 years, he used these five works to convert the majority of his life into art.
+1986年、この作品が終わる頃、謝德慶は36歳になっていました。28歳から36歳まで、丸8年間、彼はこの5つの作品を通じて、人生の大半の時間をすべて芸術に換算しました。
 
-### Making Art but Not Showing It to Anyone for 13 Years
+### 芸術を制作するが誰にも見せない13年間
 
-On December 31, 1986 (his 36th birthday), Hsieh announced the beginning of _Thirteen Year Plan_. The rule was even more unimaginable: **for the next 13 years, I will continue to make art, but will not publicly exhibit any work to anyone**[^20].
+1986年12月31日（彼の36歳の誕生日）、謝德慶は『サーティーン・イヤー・プラン』（Thirteen Year Plan）の開始を宣言しました。ルールはさらに想像を超えます：**向こう13年間、芸術を制作し続けるが、いかなる作品も誰にも公開しない**[^20]。
 
-Not making art (that was played out in _No Art Piece_). Continuing to make it, but not exhibiting. The art world never saw him again.
+芸術をしないのではありません（それは『ノー・アート・ピース』でやりました）。制作は続けるが、発表しない。芸術界から彼の姿は消えました。
 
-What he specifically did during these 13 years is unclear to us. This is part of the discipline of _Thirteen Year Plan_. **Not exhibiting means no records flow out**. When the Dia Art Foundation officially cataloged this work in 2022, its material traces consisted only of a project proposal and a completion statement from 1999[^21].
+この13年間に彼が具体的に何をしたのか、私たちは知りません。それが『サーティーン・イヤー・プラン』の規律の一部だからです。**発表しない、ゆえに流出する記録もない**。ダイヤ美術財団が2022年にこの作品を正式に収蔵登録した際、その物質的痕跡は一通の計画書と1999年の完了声明だけでした[^21]。
 
-At midnight on December 31, 1999 (his 49th birthday), in an apartment in Brooklyn, New York, Hsieh made a white paper statement using cut-out letters:
+1999年12月31日深夜（彼の49歳の誕生日）、謝德慶はニューヨーク・ブルックリンのアパートで、切り貼り文字を使って一枚の白紙の声明を作りました：
 
 > **I kept myself alive. I passed the time. Dec 31, 1999.**
 
-I kept myself alive. I passed the time.
+私は自分を生かしておいた。私は時間をやり過ごした。
 
-This was the summary of his voluntary imprisonment, voluntary wandering, and voluntary silence for the past 21 years. Not "what I achieved," not "what I reached." Just "I am still alive."
+これは彼が過去21年間、自らを囚い、自ら漂泊し、自ら沈黙し続けた総括です。「何を成し遂げたか」でも、「何に到達したか」でもありません。ただ「まだ生きている」だけ。
 
-> For a person who had lived 25 years of illegal/legal immigrant life since jumping ship in 1974, survival was never a guaranteed thing. He turned this uncertain thing into a work of art.
+> 1974年に船から飛び降りて以来、25年間不法／合法移民としての生活を送ってきた人間にとって、生き延びられるかどうかは本来保証されていないことでした。彼は、保証されていないこのことを作品にしたのです。
 
-On January 1, 2000, he publicly announced: **I will no longer create new works from now on**.
+2000年1月1日、彼は公に宣言しました：**これ以上新作を制作しない**。
 
-### The Way He Was Later Recognized by the World
+### 後になって世界が彼を認めた形
 
-After 2000, Hsieh entered another identity: he no longer created, but his past five _One Year Performances_ and _Thirteen Year Plan_ began to be rediscovered by the world.
+2000年以降、謝德慶は別の立場に入りました。彼は制作をやめましたが、過去の5つの「一年パフォーマンス」と『サーティーン・イヤー・プラン』が、世界中で再び見直されるようになりました。
 
-In 2009, British scholar Adrian Heathfield collaborated with him to publish _Out of Now: The Lifeworks of Tehching Hsieh_, published by MIT Press[^22]. This book became the bible for studying him, containing letters from contemporary performance art masters such as Marina Abramović, Santiago Sierra, and Tim Etchells written to him. That same year, MoMA exhibited the complete documentation of _Cage Piece_; Guggenheim included _Time Clock Piece_ in the "The Third Mind" exhibition.
+2009年、イギリスの学者エイドリアン・ヒースフィールドとの共著『Out of Now: The Lifeworks of Tehching Hsieh』がMITプレスから刊行されました[^22]。この書は彼の研究におけるバイブルとなり、マリナ・アブラモヴィッチ、サンティアゴ・シエラ、ティム・エチェルズら現代パフォーマンス・アートの巨匠たちが彼に宛てた書簡が収録されています。同年、MoMAが『ケージ・ピース』の完全なドキュメントを展示し、グッゲンハイム美術館が『タイム・クロック・ピース』を「The Third Mind」展で紹介しました。
 
-In 2017, he represented Taiwan at the 57th Venice Biennale. **The exhibition venue was Palazzo delle Prigioni, a 16th-century prison of the Venetian Republic**. Curator Adrian Heathfield's arrangement of holding a retrospective of a person who turned imprisonment into art in a real prison was itself a work of art[^23]. The exhibition title was _Doing Time_.
+2017年、彼は台湾代表として第57回ヴェネツィア・ビエンナーレに参加しました。**展示会場はパラッツォ・デッレ・プリジョーニ、16世紀のヴェネツィア共和国の刑務所でした**。監禁を芸術にした男の回顧展を、本物の刑務所で開催する——キュレーター、エイドリアン・ヒースフィールドのこの選択自体が一つの作品でした[^23]。展覧会名は『Doing Time』。
 
-On October 4, 2025, the Dia Beacon Museum in upstate New York opened a two-year retrospective titled "Tehching Hsieh: Lifeworks 1978–1999," publicly exhibiting the complete documentation of _Rope Piece_ and _No Art Piece_ for the first time[^24]. The curatorial team was Humberto Moro, Adrian Heathfield, and Liv Cuniberti. Sponsors included the Hung Hsüan-chi Foundation, the Ministry of Culture of the Republic of China, and the Hong Kong Foundation.
+2025年10月4日、ニューヨーク州北部のダイヤ・ビーコン美術館で、2年間の会期を持つ本格的回顧展「Tehching Hsieh: Lifeworks 1978–1999」が開幕し、『ロープ・ピース』と『ノー・アート・ピース』の全ドキュメントが初めて公開展示されました[^24]。キュレーターチームはウンベルト・モロ、エイドリアン・ヒースフィールド、リヴ・クニベルティ。洪建全基金会、中華民国文化部、香港基金会が共同で協賛しました。
 
-> **Curator's Note:** Hsieh's recognition in Taiwan is actually far lower than his status in the international art circle. This is a common phenomenon in Taiwan's art export path: a Taiwanese person is revered as a master internationally, but Taiwan only rediscover him after foreign institutions "certify" him first. The 2017 Venice Biennale and the 2025 Dia Beacon retrospective together have slowly begun to make up for this time lag.
+> **キュレーターノート：** 謝德慶の台湾国内での知名度は、実は国際美術界での地位よりはるかに低いです。これは台湾芸術の海外展開によくある現象で、一人の台湾人が国際的に巨匠と仰がれても、台湾国内では外国の機関が「先に認証」するまで再発見されないのです。2017年ヴェネツィア・ビエンナーレと2025年ダイヤ・ビーコン回顧展が合わさって、ようやくこのタイムラグが埋められつつあります。
 
-In a 2025 interview with _The Art Newspaper_, when asked how he viewed these retrospectives, his response was short:
+彼は2025年、『The Art Newspaper』のインタビューで、これらの回顧展をどう見るかと問われ、簡潔に答えました：
 
-> "I didn't try to be a superman, my work is not about heroism."[^25]
+> 「I didn't try to be a superman, my work is not about heroism.」（私はスーパーマンになろうとしたわけではない。私の作品は英雄主義についてではない。）[^25]
 
-Reading this statement alongside all his extreme performances makes one rethink one thing: **Hsieh never sought to prove willpower, endurance, or strength**. What he sought to prove was simply the fact that "time passes, people age, and in the end, everyone just tries to survive," a fact everyone already knew. The difference was that he used 21 years of work to turn this cliché into an unavoidable physical reality.
+この言葉を、彼のすべての極限的パフォーマンスの隣に置いて読むと、一つのことを改めて考えさせられます：**謝德慶は決して意志力や忍耐力、強さを証明しようとしたことはありません**。彼が証明しようとしたのは、「時間は流れ、人は老い、最後には誰もがただ生き延びようとするだけだ」という、誰もが本来知っている事実だけです。違いは、彼が21年間の作品を使って、この陳腐な真理を回避不能な物理的現実として提示したことです。
 
-### Why This Matters for Taiwan
+### なぜこのことは台湾にとって重要なのか
 
-Hsieh's position in the history of international art no longer needs to be defended. MoMA, Guggenheim, Tate, M+, Dia, and the Neue Nationalgalerie in Berlin all collect his work[^26]. Marina Abramović calls him "the master of masters in performance art."
+謝德慶の作品が国際美術史において占める位置は、もはや弁護を必要としません。MoMA、グッゲンハイム美術館、テート美術館、M+美術館、ダイヤ美術館、ベルリン新国立美術館が作品を収蔵しています[^26]。マリナ・アブラモヴィッチは彼を「パフォーマンス・アートの巨匠の中の巨匠」と呼びます。
 
-But for Taiwan, his significance has two additional layers.
+しかし台湾にとって、彼の意義にはさらに二つの層があります。
 
-First, **he demonstrated how a Taiwanese person can handle their structural identity anxiety**. A person who jumped ship in 1974, lived without legal status for 14 years, and resided in a country that did not recognize his nationality, ultimately used his body to turn this "inability to legally exist" into one of the most important works in world art history. This path serves as a proof of possibility for an island like Taiwan, whose international status has always been controversial.
+第一に、**台湾人がいかにして自分たちの構造的なアイデンティティの不安を処理し得るか、一つの道筋を示しました**。1974年に船から飛び降り、14年間合法的身分を持たず、自分の国籍を認めない国で暮らした一人の人間が、最終的にその「合法的に存在できなさ」を身体を使って、世界美術史上最も重要な作品の一つへと変換した。この道筋は、国際的地位が常に争われ続けるこの島にとって、一つの可能性の証明です。
 
-Second, **he proved that extreme focus itself can serve as a form of Taiwanese aesthetic export**. When Taiwan is recognized worldwide primarily through semiconductors, bubble tea, and night markets, Hsieh reminds us that there is another possibility: **a person doing one thing to the end for 21 years, to the point where no one can ignore it**, is something Taiwan can do.
+第二に、**極端な専念そのものが、一つの台湾的美学の輸出となり得ることを証明しました**。台湾が世界で知られるのが主に半導体、手振り飲料、夜市であるとき、謝德慶は別の可能性を思い出させます：**一人の人間が21年かけて一つのことをやり抜き、誰も無視できないレベルまで昇華させる**——台湾にも、それができるのです。
 
-The white paper with cut-out letters from midnight on December 31, 1999, is still kept in the Dia Museum's collection. **I kept myself alive. I passed the time.** Every time these two sentences are read, one realizes that this is not just Hsieh's personal summary. It is the calmest and most powerful message an island can offer the world.
+1999年12月31日深夜、切り貼り文字で書かれたあの白紙は、今もダイヤ美術館の収蔵庫にあります。**I kept myself alive. I passed the time.** この二文を読むたびに気づかされます。これは謝德慶一人の総括ではありません。これは一つの島が世界に向けて語り得る、最も冷静で、最も力強い言葉なのです。
 
-## Further Reading
+## 延伸閱讀
 
-- **[Taiwan New Media Art](/ja/art/taiwan-new-media-art)** — From Nie Yongzhen to Taiwan's video art contemporary lineage, Hsieh is one of the sourceheads of this line
-- **[Taiwan Contemporary Art](/ja/art/contemporary-art)** — Hsieh's positioning in Taiwan's avant-garde art history (if it exists)
-- **[Taiwan Sensibility](/ja/culture/taiwanese-sensibility)** — Another side of Taiwan's cultural export viewed from a Korean perspective; Hsieh is the international representative of Taiwan's extreme focus aesthetics
+- **[台湾新媒体芸術](/ja/art/taiwan-new-media-art)** — 聶永真から台湾ビデオ・アートの現代系譜へ、謝德慶はこの系譜の源頭の一つ
+- **[台湾現代美術](/ja/art/contemporary-art)** — 謝德慶の台湾前衛美術史における位置づけ（存在する場合）
+- **[台湾感性：韓国人が先に「いいね」を押すまで、自分たちの古い家が美しいと言えないのか？](/ja/culture/taiwanese-sensibility)** — 謝德慶は21年かけて美学は観客の「いいね」を必要としないことを証明した；この記事は同じ問いを投げかけている。台湾人が自分たちの古い家を再発見するのに、韓国人が先に気づくのを待つ必要があるのか
 
-## References
+## 參考資料
 
-[^1]: [MoMA: Tehching Hsieh — One Year Performance 1978–1979 (Cage Piece)](https://www.moma.org/calendar/performance/322) — New York Museum of Modern Art official collection page, recording the work's start and end dates, cage specifications, lawyer notarization details, and rule list (no speaking, no reading, no writing, no watching TV, no listening to radio).
+[^1]: [MoMA: Tehching Hsieh — One Year Performance 1978–1979 (Cage Piece)](https://www.moma.org/calendar/performance/322) — ニューヨーク近代美術館公式収蔵ページ。作品の制作期間、檻の仕様、弁護士公証の詳細、ルールリスト（不語、不読、不書、不看電視、不聽廣播）を収録。
 
-[^2]: [M+ Museum: One Year Performance 1978-1979 Collection Object](https://www.mplus.org.hk/en/collection/objects/one-year-performance-19781979-2013462/) — Hong Kong M+ Museum official collection archive, recording the cage's precise dimensions 11.5 × 9 × 8 feet (approx. 3.5 × 2.74 × 2.44 meters), interior configuration (single bed, washbasin, bucket, lamp), and collection object list.
+[^2]: [M+ Museum: One Year Performance 1978-1979 Collection Object](https://www.mplus.org.hk/en/collection/objects/one-year-performance-19781979-2013462/) — 香港M+美術館公式収蔵アーカイブ。檻の精密な寸法 11.5 × 9 × 8 フィート（約 3.5 × 2.74 × 2.44 メートル）、檻内の配置（シングルベッド、洗面器、バケツ、ランプ）および収蔵物件リストを記録。
 
-[^3]: [Tehching Hsieh Official Site: One Year Performance 1978-1979](https://www.tehchinghsieh.net/oneyearperformance1978-1979) — Artist's official website, first-hand record of _Cage Piece_'s complete statement, lawyer notarization procedure, and the arrangement for friend Cheng Wei-kwang to supply provisions.
+[^3]: [Tehching Hsieh Official Site: One Year Performance 1978-1979](https://www.tehchinghsieh.net/oneyearperformance1978-1979) — 芸術家公式サイト。『ケージ・ピース』の完全な声明書、弁護士公証手続き、友人鄭維光による補給の取り決めを第一手資料として記録。
 
-[^4]: [Artemperor: Tehching Hsieh — The 21 Years of the Contemporary Performance Art Grandmaster](https://artemperor.tw/focus/6781) — In-depth feature from Taiwan's Artemperor Art Network, based on the artist's own accounts and multiple interviews, organizing the viewer's perspective on the five _One Year Performances_ and the psychological state after completion (loss of balance, needing a month to adapt).
+[^4]: [非池中芸術網：謝德慶——当代パフォーマンス・アート宗師の21年](https://artemperor.tw/focus/6781) — 台湾非池中芸術網の深度特集。芸術家本人の述懐と複数のインタビューに基づき、5つの「一年パフォーマンス」の観覧者視点と終了後の心理状態（平衡感覚喪失、1ヶ月の適応期間）を整理。
 
-[^5]: [Tehching Hsieh Official Site: Biography](https://www.tehchinghsieh.net/biography) — Artist's official biography, recording birth in Nanzhou, Pingtung on 1950-12-31, high school dropout in 1967, solo exhibition at Taipei U.S. Information Service in 1973, and other pre-history data.
+[^5]: [Tehching Hsieh Official Site: Biography](https://www.tehchinghsieh.net/biography) — 芸術家公式経歴。1950-12-31 屏東南州生まれ、1967 高校中退、1973 台北アメリカ新聞処個展などの前史資料を記録。
 
-[^6]: [M+ Museum: Jump Piece (1973)](https://www.mplus.org.hk/en/collection/objects/jump-piece-20138/) — M+ Museum collection of _Jump Piece_'s complete documentation, including six photos before and after the jump and the artist's note: jumping from the second floor, fracturing both ankles, unable to walk for four months, original Super 8 film destroyed.
+[^6]: [M+ Museum: Jump Piece (1973)](https://www.mplus.org.hk/en/collection/objects/jump-piece-20138/) — M+美術館収蔵『ジャンプ・ピース』の完全ドキュメント。飛び降り前後の6枚の写真と芸術家の説明を含む：二階から飛び降り、両足首骨折、4ヶ月歩行不能、オリジナルSuper 8フィルムは破棄済み。
 
-[^7]: [Wikipedia: Tehching Hsieh](https://en.wikipedia.org/wiki/Tehching_Hsieh) — English Wikipedia entry, cross-referencing multiple interviews and exhibition data, confirming the July 13, 1974 jump ship date at the Port of Philadelphia and the 14-year illegal immigrant status history from 1974-1988.
+[^7]: [Wikipedia: Tehching Hsieh](https://en.wikipedia.org/wiki/Tehching_Hsieh) — 英語版ウィキペディア項目。複数のインタビューと展覧会資料を相互照合し、1974年7月13日フィラデルフィア港飛び降りの日付と1974-1988年計14年間の不法移民身分歴を確認。
 
-[^8]: [Tehching Hsieh Official Site: One Year Performance 1980-1981](https://www.tehchinghsieh.net/oneyearperformance1980-1981) — Artist's official website page for _Time Clock Piece_, recording the start at 6:00 PM on 1980-04-11, time-clocking once every hour, and the complete rules of simultaneous 16mm camera recording.
+[^8]: [Tehching Hsieh Official Site: One Year Performance 1980-1981](https://www.tehchinghsieh.net/oneyearperformance1980-1981) — 芸術家公式サイト『タイム・クロック・ピース』ページ。1980-04-11 午後6時開始、毎正時打刻、16mmカメラ同期記録の完全ルールを記録。
 
-[^9]: [Google Arts & Culture: Tehching Hsieh at UCCA](https://artsandculture.google.com/exhibit/tehching-hsieh-one-year-performance-1980-1981-ullens-center-for-contemporary-art/wRRkG5JV) — Google Arts & Culture online presentation of the Ullens Center for Contemporary Art Beijing exhibition, showing the production process of splicing 8,666 photos into a 6-minute film and the design intent of shaving the head to visualize time.
+[^9]: [Google Arts & Culture: Tehching Hsieh at UCCA](https://artsandculture.google.com/exhibit/tehching-hsieh-one-year-performance-1980-1981-ullens-center-for-contemporary-art/wRRkG5JV) — ウレンス現代芸術センター（北京）展覧会のGoogle Arts & Cultureオンライン展示。8,666枚の写真を繋ぎ合わせた6分間映像の制作過程と、丸刈りにして時間を可視化した設計意図を展示。
 
-[^10]: [Collecteurs Magazine: Tehching Hsieh Interview — Thirteen Year Plan](https://www.collecteurs.com/interview/tehching-hsieh-thirteen-year-plan) — 2020 Collecteurs Magazine in-depth interview, Hsieh's first-person statement of the core philosophy that "the water level of art and life must be the same," and the methodology of transforming life time into art time.
+[^10]: [Collecteurs Magazine: Tehching Hsieh Interview — Thirteen Year Plan](https://www.collecteurs.com/interview/tehching-hsieh-thirteen-year-plan) — 2020年Collecteurs誌深度インタビュー。謝德慶自ら「芸術と人生の水位は同じでなければならない」という核心哲学、および人生時間から芸術時間への転換方法論を語る。
 
-[^11]: [M+ Museum: One Year Performance 1981-1982 (Outdoor Piece)](https://www.mplus.org.hk/en/collection/objects/one-year-performance-19811982-2013464/) — M+ Museum collection of _Outdoor Piece_ documentation, completely listing prohibited space types (buildings, subway, train, car, plane, boat, tent, cave) and equipment list.
+[^11]: [M+ Museum: One Year Performance 1981-1982 (Outdoor Piece)](https://www.mplus.org.hk/en/collection/objects/one-year-performance-19811982-2013464/) — M+美術館収蔵『アウトドア・ピース』ドキュメント。禁入空間タイプ（建物、地下鉄、列車、自動車、飛行機、船、テント、洞窟）と携帯品リストを完全列挙。
 
-[^12]: [Gallery 98: Outdoor Piece (1981-1982) Documentation](https://gallery98.org/2020/one-year-performance-outdoor-piece-tehching-sam-hsieh-fall-1981-1982/) — Gallery 98's complete record of _Outdoor Piece_, including the only rule violation (arrested by police, forced to stay in police station for 15 hours) and daily photography, Super 8 film, hand-drawn map, and other recording methods.
+[^12]: [Gallery 98: Outdoor Piece (1981-1982) Documentation](https://gallery98.org/2020/one-year-performance-outdoor-piece-tehching-sam-hsieh-fall-1981-1982/) — Gallery 98による『アウトドア・ピース』完全記録。唯一の違反事件（警察に逮捕され警察署で強制的に15時間過ごしたこと）と、日々の写真撮影、Super 8フィルム、手描き地図などの記録方法を含む。
 
-[^13]: [Artemperor: Tehching Hsieh's Outdoor Piece and the Mirror Relationship with Illegal Immigrant Status](https://artemperor.tw/focus/6781) — Artemperor in-depth analysis of the structural correspondence between _Outdoor Piece_ and Hsieh's 1974-1988 illegal status, pointing out that homeless people, marginalized individuals, and police were the daily subjects he would encounter during his illegal immigrant period.
+[^13]: [非池中：謝德慶 Outdoor Piece と不法移民身分の鏡像関係](https://artemperor.tw/focus/6781) — 非池中による深度分析。『アウトドア・ピース』と謝德慶の1974-1988年不法滞在身分の構造的対応を指摘。ホームレス、社会的弱者、警察は彼が不法移民時代に本来遭遇していた日常的な相手であることを指摘。
 
-[^14]: [M+ Museum: Art / Life — One Year Performance 1983-1984 (Rope Piece)](https://www.mplus.org.hk/en/collection/objects/art-life-one-year-performance-19831984-rope-piece-2013465/) — M+ Museum collection of _Rope Piece_ documentation, recording the start on 1983-07-04 (U.S. Independence Day), collaboration with Linda Montano, and the rule of being tied by an 8-foot rope for 12 months without touching each other.
+[^14]: [M+ Museum: Art / Life — One Year Performance 1983-1984 (Rope Piece)](https://www.mplus.org.hk/en/collection/objects/art-life-one-year-performance-19831984-rope-piece-2013465/) — M+美術館収蔵『ロープ・ピース』ドキュメント。1983-07-04（アメリカ独立記念日）開始、リンダ・モンタノとの共作、8フィートの縄で結ばれ12ヶ月間触れ合わないルールを記録。
 
-[^15]: [My Modern Met: Art/Life One Year Performance Rope Piece](https://mymodernmet.com/art-life-one-year-performance-rope-piece-hsieh-montano/) — My Modern Met art media in-depth report, detailing _Rope Piece_'s log mechanism, audio recording archive requirements, and execution details of shared indoor rooms/rope-length limits outdoors.
+[^15]: [My Modern Met: Art/Life One Year Performance Rope Piece](https://mymodernmet.com/art-life-one-year-performance-rope-piece-hsieh-montano/) — My Modern Met芸術メディア深度報道。『ロープ・ピース』の日誌メカニズム、録音保存要求、室内同室／屋外縄長制限の実行細部を詳述。
 
-[^16]: [Messy Nessy Chic: 8 Feet of Social Distance](https://www.messynessychic.com/2020/06/16/for-a-year-they-lived-tied-together-with-8-feet-of-social-distance/) — Messy Nessy Chic media interview, Linda Montano personally revealing the specific assessment that "80% of the time was spent arguing" during _Rope Piece_, and the frequency of conflict with Hsieh over the 12 months.
+[^16]: [Messy Nessy Chic: 8 Feet of Social Distance](https://www.messynessychic.com/2020/06/16/for-a-year-they-lived-tied-together-with-8-feet-of-social-distance/) — Messy Nessy Chicメディアインタビュー。リンダ・モンタノ自ら『ロープ・ピース』期間中「80%の時間を争って過ごした」との具体的評価、および謝德慶との12ヶ月間の衝突頻度を明かす。
 
-[^17]: [Momus: Moving Through the Rupture — Tehching Hsieh and Linda Montano Revisit Rope Piece](https://momus.ca/moving-through-the-rupture-tehching-hsieh-and-linda-montano-revisit-rope-piece) — Momus art review website long article, analyzing the evolution of communication methods during _Rope Piece_—from normal conversation to gestures to rope pulling and groaning, a three-stage degeneration.
+[^17]: [Momus: Moving Through the Rupture — Tehching Hsieh and Linda Montano Revisit Rope Piece](https://momus.ca/moving-through-the-rupture-tehching-hsieh-and-linda-montano-revisit-rope-piece) — Momus芸術批評サイトの長文。『ロープ・ピース』期間中のコミュニケーション様式の変遷——通常会話からジェスチャーへ、さらに縄の引っ張り合いと呻き声への三段階退化を分析。
 
-[^18]: [Wikipedia Chinese: Tehching Hsieh Entry (Integrating Multiple Interview Quotes)](https://zh.wikipedia.org/zh-hant/%E8%AC%9D%E5%BE%B7%E6%85%B6) — Chinese Wikipedia organizing the artist's self-positioning, clarifying his stance of not presupposing political intent but accepting diverse interpretations from viewers.
+[^18]: [Wikipedia 中国語版：謝德慶項目（複数インタビュー引用を統合）](https://zh.wikipedia.org/zh-hant/%E8%AC%9D%E5%BE%B7%E6%85%B6) — 中国語版ウィキペディア整理の芸術家自己定位。政治的意図を予設しないが、観客の多元的解釈を受容する立場を明確化。
 
-[^19]: [Tehching Hsieh Official Site: Artworks Index](https://www.tehchinghsieh.net/artworks) — Artist's official website artwork overview, recording _No Art Piece_ (1985-09 to 1986-09)'s complete rules: do not create, view, discuss, or read anything art-related, prohibited from entering art museums and galleries.
+[^19]: [Tehching Hsieh Official Site: Artworks Index](https://www.tehchinghsieh.net/artworks) — 芸術家公式サイト作品総覧。『ノー・アート・ピース』（1985-09〜1986-09）の完全ルールを記録：制作しない、鑑賞しない、議論しない、芸術関連内容を読まない、美術館・画廊立入禁止。
 
-[^20]: [Tehching Hsieh Official Site: Thirteen Year Plan 1986-1999](https://www.tehchinghsieh.net/thirteenyearplan1986-1999) — Artist's official website _Thirteen Year Plan_ page, recording project start and end dates (1986-12-31 to 1999-12-31), core rules (make art but do not exhibit publicly), and the original image of the cut-out letter statement at midnight on 1999-12-31.
+[^20]: [Tehching Hsieh Official Site: Thirteen Year Plan 1986-1999](https://www.tehchinghsieh.net/thirteenyearplan1986-1999) — 芸術家公式サイト『サーティーン・イヤー・プラン』ページ。計画起訖日（1986-12-31〜1999-12-31）、核心ルール（芸術を制作するが公開しない）、1999-12-31深夜の切り貼り文字声明原始画像を収録。
 
-[^21]: [Dia Art Foundation: Tehching Hsieh, 1986-1999 Thirteen Year Plan](https://diaart.org/collection/collection/hsieh-tehching-tehching-hsieh-1986-1999-thirteen-year-plan-198699-2022-016) — Dia Art Foundation official collection page, recording _Thirteen Year Plan_ officially cataloged in 2022, with the collection consisting only of a project proposal and the 1999 completion statement.
+[^21]: [Dia Art Foundation: Tehching Hsieh, 1986-1999 Thirteen Year Plan](https://diaart.org/collection/collection/hsieh-tehching-tehching-hsieh-1986-1999-thirteen-year-plan-198699-2022-016) — ダイヤ美術財団公式収蔵ページ。『サーティーン・イヤー・プラン』が2022年に正式収蔵登録され、収蔵品は計画書一通と1999年完了声明のみであると記録。
 
-[^22]: [MIT Press: Out of Now — The Lifeworks of Tehching Hsieh](https://mitpress.mit.edu/books/out-now) — MIT Press published Adrian Heathfield and Hsieh's collaborative monograph official page, published in 2009, containing review letters from contemporary performance artists such as Marina Abramović, Santiago Sierra, and Tim Etchells written to Hsieh.
+[^22]: [MIT Press: Out of Now — The Lifeworks of Tehching Hsieh](https://mitpress.mit.edu/books/out-now) — MITプレス刊行、エイドリアン・ヒースフィールドと謝德慶の共著専門書公式ページ。2009年刊行。マリナ・アブラモヴィッチ、サンティアゴ・シエラ、ティム・エチェルズら現代パフォーマンス・アーティストが謝德慶に宛てた評論書簡を収録。
 
-[^23]: [Hyperallergic: Taiwan Features Tehching Hsieh at the 2017 Venice Biennale](https://hyperallergic.com/373049/taiwan-features-tehching-hsieh-at-the-2017-venice-biennale/) — Hyperallergic art news network in-depth report on Taiwan Pavilion's _Doing Time_ at the 57th Venice Biennale in 2017, curator Adrian Heathfield, venue Palazzo delle Prigioni (16th-century Venetian Republic prison), first complete exhibition of _Time Clock Piece_ and _Outdoor Piece_.
+[^23]: [Hyperallergic: Taiwan Features Tehching Hsieh at the 2017 Venice Biennale](https://hyperallergic.com/373049/taiwan-features-tehching-hsieh-at-the-2017-venice-biennale/) — Hyperallergic芸術ニュースサイト深度報道。2017年第57回ヴェネツィア・ビエンナーレ台湾館『Doing Time』、キュレーター エイドリアン・ヒースフィールド、会場パラッツォ・デッレ・プリジョーニ（16世紀ヴェネツィア共和国刑務所）、『タイム・クロック・ピース』と『アウトドア・ピース』が初めて完全展示されたことを記録。
 
-[^24]: [Artemperor: Tehching Hsieh: Lifeworks 1978–1999 New York Dia Beacon Opening Report](https://artemperor.tw/focus/6781) — Artemperor Art Network October 2025 report on Dia Beacon's first complete retrospective opening (2025-10-04), two-year exhibition period, curatorial team Humberto Moro, Adrian Heathfield, Liv Cuniberti, sponsors Hung Hsüan-chi Foundation, Ministry of Culture of the Republic of China, Hong Kong Foundation.
+[^24]: [非池中：Tehching Hsieh: Lifeworks 1978–1999 ニューヨーク ダイヤ・ビーコン 開幕報道](https://artemperor.tw/focus/6781) — 非池中芸術網 2025年10月報道。ダイヤ・ビーコン初の本格的回顧展開幕（2025-10-04）、2年間会期、キュレーターチーム ウンベルト・モロ、エイドリアン・ヒースフィールド、リヴ・クニベルティ、協賛 洪建全基金会、中華民国文化部、香港基金会。
 
-[^25]: [The Art Newspaper: Tehching Hsieh — "I didn't try to be a superman"](https://www.theartnewspaper.com/2025/11/07/tehching-hsieh-i-didnt-try-to-be-a-superman-my-work-is-not-about-heroism) — The Art Newspaper November 2025 interview, Hsieh personally clarifying that his extreme performances were not out of heroism, and recording the key turning point of obtaining U.S. legal status through the 1988 Reagan amnesty.
+[^25]: [The Art Newspaper: Tehching Hsieh — "I didn't try to be a superman"](https://www.theartnewspaper.com/2025/11/07/tehching-hsieh-i-didnt-try-to-be-a-superman-my-work-is-not-about-heroism) — The Art Newspaper 2025年11月インタビュー。謝德慶自ら極限パフォーマンスが英雄主義からではないことを明言、および1988年レーガン大赦によりアメリカ合法身分を得た重要な転機を記録。
 
-[^26]: [MoMA Artist Page: Tehching Hsieh](https://www.moma.org/artists/36448/) — New York Museum of Modern Art official artist page, integrating collection records and exhibition history of Hsieh's works from multiple major international institutions (MoMA, Guggenheim, Tate, M+, Dia, Neue Nationalgalerie).
+[^26]: [MoMA Artist Page: Tehching Hsieh](https://www.moma.org/artists/36448/) — ニューヨーク近代美術館公式芸術家ページ。主要国際機関（MoMA、グッゲンハイム美術館、テート美術館、M+美術館、ダイヤ美術館、ノイエ・ナショナルガレリー）による謝德慶作品の収蔵記録と展覧会履歴を統合。

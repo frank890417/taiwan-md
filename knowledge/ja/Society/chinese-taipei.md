@@ -1,22 +1,36 @@
 ---
-title: "Chinese Taipei: The Ticket That Lets Taiwan Play, But Won't Print Its Own Name"
-description: "At the 1960 Rome Olympics, the Taiwanese delegation marched into the opening ceremony holding a white banner reading 'UNDER PROTEST,' the only opening ceremony protest in Olympic history. From Chiang Ching-kuo rejecting the IOC's offer of 'Taiwan,' to Hsü Heng winning the lawsuit against the IOC, to the Lausanne Agreement bringing the Plum Blossom Flag and anthem, to the 2018 referendum where athletes themselves voted to reject renaming—this name has remained unchanged for forty years, but the athletes who are stuck in a dilemma on the podium are always the ones who need this name to compete, not the politicians arguing over names."
+title: 'チャイニーズタイペイ：台湾の出場を可能にするが、自らの名を刻むことのできない入場券'
+description: '1960年のローマオリンピックにおいて、台湾代表団が「UNDER PROTEST」と書かれた白い横断幕を掲げて開会式に入場したことは、オリンピック史上唯一の開会式における抗議活動でした。蒋経国によるIOCが提示した「台湾」という名称の拒否、徐亨によるIOCへの勝訴、ローザンヌ合意によって勝ち取った梅花旗（プラムの花の旗）と国歌、そして2018年に選手たちが自らの投票で正名化を否決したことまで。この名称は40年間変わっていません。しかし、表彰台に立ち進退窮んでいるのは、名前を巡って争う政治家ではなく、この名称があって初めて出場できる選手たちなのです。'
 date: 2026-06-04
+category: 'Society'
 tags:
   [
-    'Chinese Taipei',
-    'Olympic Model',
-    'Lausanne Agreement',
-    'Taiwan Renaming',
-    'Sports Diplomacy',
-    'Sovereignty',
+    'チャイニーズタイペイ',
+    'IOC方式',
+    'ローザンヌ合意',
+    '台湾正名',
+    'スポーツ外交',
+    '主権',
   ]
 subcategory: '國際關係'
 author: 'Taiwan.md Contributors'
-category: 'Society'
-readingTime: 12
+featured: false
 lastVerified: 2026-06-04
 lastHumanReview: false
+researchReport: 'reports/research/2026-06/中華台北.md'
+image: '/article-images/society/under-protest-rome-1960.webp'
+imageCredit: '1960 年羅馬奧運開幕，福爾摩沙（台灣）代表團持「UNDER PROTEST」抗議牌進場。攝影 Harry Pot，荷蘭國家檔案館，CC0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Olympische_Spelen_te_Rome_Opening_Formosa_liep_onder_protest,_Bestanddeelnr_911-5406.jpg'
+viewpoint_formed: true
+rationale:
+  why_this_hook: '用 1960 Under Protest 白布條（奧運唯一一次開幕抗議）當錨點，把「上場卻不能用自己名字」的核心張力濃縮成一個具體畫面，比從制度史切入更有溫度。'
+  where_it_hedges: '不裁判「應不應該正名」；IOC 停權威脅寫雙面（公投不自動觸發 vs 政治壓力真實）；中華／中國台北矮化之爭並陳陸委會、國台辦、藍綠各方，不下結論。'
+  whos_pushing_back: '正名支持者會認為文章太替「務實接受」緩頰；運動員／反正名陣營會嫌「封口令」框架太重；ROC 法統立場會質疑 1976「自己關門」的因果框定。'
+  whats_excluded:
+    [
+      '殘奧 Chinese Taipei 延伸 / WBC 棒球不同名稱軌跡（旁支，會稀釋焦點）',
+      '科索沃/巴勒斯坦/波多黎各比較案例只點到（深入展開會搶戲）',
+    ]
 sporeLinks:
   - id: 120
     platform: 'threads'
@@ -27,272 +41,268 @@ sporeLinks:
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062529681283522655'
 translatedFrom: 'Society/中華台北.md'
-sourceCommitSha: ''
+sourceCommitSha: 'bbd8788a3'
 sourceContentHash: 'sha256:177fea3750c80f10'
-translatedAt: '2026-06-16T16:55:14Z'
 sourceBodyHash: 'sha256:dab437d622fd59b0'
-image: '/article-images/society/under-protest-rome-1960.webp'
-imageCredit: '1960 年羅馬奧運開幕，福爾摩沙（台灣）代表團持「UNDER PROTEST」抗議牌進場。攝影 Harry Pot，荷蘭國家檔案館，CC0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Olympische_Spelen_te_Rome_Opening_Formosa_liep_onder_protest,_Bestanddeelnr_911-5406.jpg'
-featured: false
+translatedAt: '2026-10-10T19:08:30.314655+00:00'
 ---
 
-# Chinese Taipei: The Ticket That Lets Taiwan Play, But Won't Print Its Own Name
+# チャイニーズ・タイペイ／中華台北：台湾の出場を可能にするが、自らの名を刻むことのできない入場券
 
-> **30-Second Overview:** "Chinese Taipei" is the name Taiwan is forced to use in the Olympics and most international venues. But its origin is far more complex than the four words "forced acceptance." In 1976 Montreal, it was the Taipei government itself that rejected the name "Taiwan" offered by the International Olympic Committee (IOC); in the 2018 renaming referendum, it was the athletes themselves who spoke out against it. For forty years, this name has not changed a single character, but the ones stuck in a dilemma on the podium are always the athletes who need this name to compete, not the politicians arguing over names.
+> **30秒概覽：** 「チャイニーズ・タイペイ（中華台北）」は、台湾がオリンピックや多くの国際的な場面で使用を余儀なくされている名称である。しかし、その経緯は単なる「強制された受け入れ」という言葉では片付けられないほど複雑である。1976年のモントリオルでは、台北市政府自らがIOCの提示した「台湾」という名称を拒否した。2018年の名称是正に関する国民投票では、アスリート自身が反対の声を上げた。40年もの間、この名称は一文字も変わっていないが、壇上で進退窮まる立場にあるのは、常にその名義があってこそ出場できる選手たちであり、名称を巡って議論する政治家ではない。
 
-On August 25, 1960, the Rome Olympics opened. Delegations from various countries marched into the stadium in order. When it was the turn of one team, the team manager Lin Hung-tan, walking at the very front, held up a white banner with two English words written on it: **UNDER PROTEST**, protesting[^1].
+1960年8月25日、ローマオリンピックが開幕した。各国代表団が次々と競技場へと入場していく中、あるチームの番が来た。先頭を歩く総幹事の林鴻坦（リン・ホンタン）が掲げた白い横断幕には、英語で「**UNDER PROTEST**」と記されており、抗議の意を示していた[^1]。
 
-That year, this team could not be called the "Republic of China" nor "Taiwan." The name given by the IOC was "FORMOSA," Formosa. Inside the team was a young man named Yang Chuan-kwang. A few days later, he won a silver medal in the decathlon, Taiwan's first Olympic medal—hung on a team named "Formosa."
+その年、このチームは「中華民国」とも「台湾」とも呼ぶことができなかった。IOCが付与した名称は「FORMOSA」、フォルモサであった。チームの中には楊傳廣（ヤン・チュアングァン）という青年がおり、数日後、彼は十種競技で銀メダルを獲得した。それは台湾にとって初のオリンピックメダルであったが、「フォルモサ」というチーム名のもとで授与されたものだった。
 
-![Yang Chuan-kwang, 1960 Rome Olympics](/article-images/society/yang-chuan-kwang-1960.webp)
-_Yang Chuan-kwang, silver medalist in the decathlon at the 1960 Rome Olympics, Taiwan's first Olympic medal. The team name he wore that year was "FORMOSA," Formosa. (UCLA Southern Campus 1960, Public Domain)_
+![楊傳廣，1960 羅馬奧運](/article-images/society/yang-chuan-kwang-1960.webp)
+_楊傳廣（ヤン・チュアングァン）、1960年ローマオリンピック十種競技銀メダル、台湾初のオリンピックメダル。当時彼が纏ったチーム名は「FORMOSA」、フォルモサであった。（UCLA Southern Campus 1960, Public Domain）_
 
-This was the only time in Olympic history that a delegation publicly protested during the opening ceremony[^2]. More than sixty years later, that white banner has been archived in history, but the thing the banner wanted to protest has never ended: a team has entered the field, but cannot use the name it wants to use.
+これはオリンピック史上、開会式において代表団が公然と抗議を行った唯一の事例である[^2]。60年以上が経過し、あの白い横断幕はすでに歴史の中に消えたが、その布に記された抗議の内容は今も終わっていない。一つのチームが舞台に立ちながら、自らが望む名前を使うことができないという問題が。
 
-## A Flag Held High in Protest, Walking at the Front
+## 抗議の旗を掲げ、先頭を行く
 
-To understand how the four characters "Chinese Taipei" came to be, we must first see clearly one thing: Taiwan's name in the Olympics has never been decided by itself from the beginning.
+「チャイニーズ・タイペイ」という言葉がどのようにして生まれたのかを理解するには、まず一つの事実を明確にする必要がある。オリンピックにおける台湾の名前は、最初から自分たちで決めることができたものではないということだ。
 
-After the Chinese Civil War in 1949, the seat of "China" became a struggle between two regimes. The Republic of China government in Taipei and the People's Republic of China in Beijing both claimed to represent the sole China, with the IOC caught in the middle. At the 1952 Helsinki Olympics, the IOC invited both sides simultaneously. Taipei could not accept competing on the same field as the mainland and withdrew from the competition in protest before the games began[^3]. In 1956 Melbourne, Taipei competed under the name "China," and this time Beijing withdrew. Throughout the 1950s and 60s, Taiwan's name jumped repeatedly between "China," "Formosa," and "Taiwan," each time pushed by the tides of international politics, never chosen by itself.
+1949年の国共内戦後、「中国」という席位は二つの政権による争奪戦となった。台北の中華民国政府と北京の中華人民共和国は、共に自らが唯一の中国を代表すると主張し、国際オリンピック委員会（IOC）はその間に挟まれる形となった。1952年のヘルシンキ・オリンピックでは、IOCが中台双方を同時に招待したため、台北側は対岸と同じ舞台に立つことを受け入れられず、大会前に自ら棄権して抗議した[^3]。1956年のメルボルンでは、台北は「中国」の名義で出場したが、今度は北京側が退出した。1950年代から60年代にかけて、台湾の名前は「中国」「フォルモサ」「台湾」の間を繰り返し揺れ動いたが、その都度、国際政治の潮流に押し流される形となり、自ら選択できたことは一度もなかった。
 
-Ironically, the sessions where the name contained the two characters "Taiwan" were precisely when Taiwan had the least autonomy. At the 1968 Mexico City Olympics, Taiwan competed under the name "Taiwan." Chi Cheng won a bronze medal in the women's 80-meter hurdles, becoming Taiwan's first female Olympic medalist[^4]. But the codename "Taiwan" was a label stuck on by the IOC based on geographical reality, not a choice made by the Taipei government. For the Republic of China government at the time, which insisted on "I am China," being called "Taiwan" was rather a demotion.
+奇妙なことに、名前に「台湾」という二文字が含まれていた時期こそ、台湾が最も自主権を持っていなかった時代であった。1968年のメキシコ・オリンピックでは、台湾は「Taiwan」の名義で出場した。紀政（き・まさる／Chi Cheng）は女子80メートルハードルで銅メダルを獲得し、台湾で初めてオリンピックのメダルを手にした女性となった[^4]。しかし、「Taiwan」という代号は、IOCが地理的な現実に基づいて貼り付けたラベルであり、台北政府による選択ではなかった。当時「我こそが中国である」と固執していた中華民国政府にとって、「台湾」と呼ばれることはむしろ格下げを意味していたのである。
 
-The 1972 Munich Olympics were the last time the Republic of China could fully use its national name, national flag, and national anthem to compete[^5]. The world changed the following year.
+1972年のミュンヘン・オリンピックは、中華民国が国号、国旗、国歌を完全な形で用いて参加できた最後の大会であった[^5]。翌年以降、世界は変わった。
 
-> **📝 Curator's Note**
+> **📝 キュレーター・ノート**
 >
-> Today, we are accustomed to viewing "Taiwan" as a proud name to strive for, and "Chinese Taipei" as a humiliating compromise forced upon us. But returning to the scene of the 1960s and 70s, this dichotomy was reversed: The Taipei government most wanted to guard the representation right of "China," and the thing it was most unwilling to accept was precisely "Taiwan," because being called "Taiwan" meant admitting it was only an island, abandoning the legal succession of all of China. When that bronze medal was hung under the name "Taiwan" in 1968, it was a demotion; when the same "Taiwan" is shouted by the audience in the stands in 2024, it is pride. Half a century, the same word has turned upside down.
+> 私たちは今日、「台湾」という言葉を誇り高く勝ち取りたい名前として捉え、「チャイニーズ・タイペイ」を屈辱的で強制された妥協として捉える傾向がある。しかし、1960年代から70年代の現場に立ち返ってみると、この対立構造は逆であった。台北政府が最も守ろうとしたのは「中国」としての代表権であり、最も受け入れがたかったのは、まさに「台湾」という呼称であった。「台湾」と呼ばれることは、自らが単なる一つの島であることを認め、中国全体の法統を放棄することと同義だったからだ。1968年にあの銅メダルが「Taiwan」の名の下に掲げられた時は格下げであったが、2024年に同じ「Taiwan」という言葉が観客席から叫ばれるとき、それは誇りとなっている。半世紀を経て、同じ言葉の意味が真逆になったのである。
 
-## The International Wanted to Call It Taiwan, Taipei Refused
+## 「台湾」と呼ばれたかったのは国際社会であり、拒絶したのは台北である
 
-1976 Montreal is the most counter-intuitive page in this entire history.
+1976年のモントリオールは、この歴史全体の中で最も直感に反する一ページである。
 
-The host country that year was Canada. Canada had recognized Beijing in 1970. Based on the "One China" policy, the Canadian side refused to allow the Taiwanese delegation to enter the country to compete under the name "Republic of China" (Republic of China). Seeing Taiwan being blocked from the door, the IOC stepped in to coordinate, proposing a compromise: allowing Taiwan to compete under the name "**Taiwan**" (Taiwan), with the flag and anthem remaining the same[^6].
+その年の開催国はカナダであった。カナダは早くも1970年に北京を承認しており、「一つの中国」政策に基づき、台湾代表団が「中華民国（Republic of China）」の名義で入国し出場することを拒否した。台湾が門前払いを受けようとする中、国際オリンピック委員会（IOC）が仲裁に入り、一つの妥協案を提示した。それは、台湾が「**台湾**（Taiwan）」という名称で出場することであり、旗と会歌は従来通り使用できるというものだった[^6]。
 
-In other words, the one who wanted Taiwan to be called "Taiwan" that year was the IOC; the one who insisted on refusing was Taipei.
+言い換えれば、当時台湾に「台湾」と呼ばせようとしたのはIOCであった。それを頑なに拒んだのは、台北であった。
 
-This decision was finally made by Chiang Ching-kuo. The Republic of China government viewed "Taiwan" as an arrangement that demeaned national dignity: accepting it would mean tacitly admitting it was only a local authority on an island, abandoning the representation of all of China. Thus, the day before the opening ceremony, the Taiwanese delegation chose to withdraw from the competition, returning home as a whole team[^7]. A researcher later evaluated this decision: "**it was the KMT that made this decision. It was an own goal, basically.**" (This was a decision made by the KMT itself, basically an own goal.)[^8]
+この決定は、最終的に蔣経国（しょう・けいこく／ジャン・ジングオ）によって下された。中華民国政府は「台湾」という名称を、国家としての格を低める取り決めであると見なした。これを受け入れることは、自らが単なる島の一地方当局であることを黙認し、全中国を代表する法統を放棄することに等しいと考えたのである。そのため、開幕前日に台湾代表団は出場辞退を選択し、一行は帰路についた[^7]。ある研究者は後にこの決定を次のように評している。「**it was the KMT that made this decision. It was an own goal, basically.**」（これは国民党自身が下した決定であり、基本的にはオウンゴールであった。）[^8]
 
-> **⚠️ Controversial Viewpoint**
+> **⚠️ 議論のある視点**
 >
-> Simplifying the story of the 1976 Montreal Olympics into "Canada bullied Taiwan" is a common misreading. The truth is more complex and more piercing: The international community offered the name "Taiwan," but Taipei itself pushed it away based on its insistence on sovereignty. Pointing this out is not intended to make moral judgments for either side, but only to restore a cause-and-effect relationship that is often reversed: The popular saying "Chinese Taipei = a humiliation swallowed by Taiwan" is actually the opposite direction. Taiwan lost the opportunity to compete under the name "Taiwan," at least once, because it closed the door itself.
+> 1976年のモントリオールの物語を「カナダが台湾をいじめた」と簡略化するのは、よくある誤読である。真相はより複雑で、かつ痛烈なものである。国際社会が「台湾」という名前を与えたにもかかわらず、主権に基づきそれを押し返したのは台北自身であった。この点を指摘することは、いかなる側に対しても道徳的な判断を下す意図はなく、単に、しばしば逆転して理解されている因果関係を復元するためである。「中華台北＝台湾が強制的に飲み込まされた屈辱」という通説は、実は方向が逆なのである。台湾が「台湾」の名で出場する機会を失ったことは、少なくとも一度は、自ら閉ざした門によるものであった。
 
-The cost of withdrawal appeared quickly. In 1979, the IOC formally established the "Two Chinas" Olympic model that continues to this day through a correspondence vote in Nagoya, Japan: The Beijing Olympic Committee would be named the "Olympic Committee of China," using the flag and anthem of the People's Republic of China; the Taipei Olympic Committee must change its name, and its flag and anthem must not be the same as in the past[^9]. If Taiwan wanted to return to the Olympics, it had to change its name, change its flag, and change its anthem.
+出場辞退の代償はすぐに現れた。1979年、IOCは日本の名古屋において通信投票を行い、今日まで続く「二つの中国」オリンピック・モデルを正式に確立した。北京のオリンピック委員会は「中国オリンピック委員会」の名義で、中華人民共和国の国旗と国歌を使用する。一方、台北のオリンピック委員会は名称を変更しなければならず、旗と会歌も過去のものと同じであってはならないということになった[^9]。台湾がオリンピックに戻るためには、名前を変え、旗を変え、歌を変えなければならなかったのである。
 
-## Won the Lawsuit, Then Accepted a New Name
+## 勝訴した、そして新しい名前を受け入れた
 
-Facing the Nagoya Resolution, Taiwan did not bow immediately, but first fought a lawsuit.
+名古屋決議に対し、台湾は即座に屈するのではなく、まずは法廷闘争を展開した。
 
-At the end of 1979, IOC member Hsü Heng and the Chinese Olympic Committee filed a lawsuit at the Lausanne District Court in Switzerland, where the IOC headquarters was located, arguing that the Nagoya Resolution violated the _Olympic Charter_[^10]. On March 27, 1980, the court issued an interim judgment, determining that the IOC's actions were "**seemingly contrary to the spirit and text of the Charter, particularly Articles 64, 65, and 66**," and ruled that "**the court fee of 100 Swiss Francs shall be borne by the IOC, and an additional 500 Swiss Francs shall be paid to Mr. Hsü Heng (the plaintiff) to compensate for his expenses**"[^11].
+当時、国際オリンピック委員会（IOC）委員であった徐亨（じょ・こう／シュー・ヘン）と中華奥林ピック委員会は、1979年末にIOC本部のあるスイスのローザンヌ地方裁判所に提訴し、名古屋決議が《オリンピック憲章》[^10]に違反していると主張した。1980年3月27日、裁判所は中間判決を下し、IOCの対応は**「憲章の精神および条文、特に第64、65、66条に背いている疑いがある」**と認定。さらに、「**訴訟費用100スイスフランはIOCが負担し、別途、原告である徐亨氏に対し、経費補填として500スイスフランを支払うこと**」と裁定した[^11]。
 
-Legally, Taiwan won this lawsuit. But after winning, what next? The fact that the IOC violated the Charter was established, but Taiwan still could not return. The Nagoya Resolution was backed by the shift in the entire international recognition landscape; a court judgment could not change that. Thus, the lawsuit became a bargaining chip for negotiations. On January 26, 1981, Hsü Heng and others reached a consensus with the new IOC President Juan Antonio Samaranch and withdrew the lawsuit[^12].
+法的には、この裁判で台湾が勝利した。しかし、勝った後はどうなったのか。IOCが憲章に違反した事実は確定したが、それでも台湾は元の状態に戻ることはできなかった。名古屋決議の背後には国際的な承認体制全体の転換があり、判決書一枚で変えられるものではなかったからだ。そのため、訴訟は交渉のカードとなった。1981年1月26日、徐亨らは新任IOC会長のアントニオ・サマランチと合意に達し、訴訟を取り下げた[^12]。
 
-Two months later, on March 23, 1981, Shen Chia-ming, Secretary-General of the Chinese Olympic Committee, and Samaranch formally signed the _Lausanne Agreement_ (Agreement between the IOC and the Chinese Taipei Olympic Committee). The agreement established the name that continues to this day: **CHINESE TAIPEI OLYMPIC COMMITTEE**, with the country code TPE[^13]. A detail reveals the political calculation at the time: In the Olympic entry order, TPE was placed in the T group, deliberately arranged so it would not be listed together with "China" starting with the code C, avoiding any visual association of "Two Chinas" side by side.
+その2ヶ月後の1981年3月23日、中華奥林ピック委員会事務局長の沈家銘（しん・かめい／シェン・ジアミン）とサマランチは、正式に《ローザンヌ合意》（IOCとチャイニーズ・タイペイ奥リンピック委員会の合意書）に署名した。この合意により、現在まで続く名称が定められた。それは**CHINESE TAIPEI OLYMPIC COMMITTEE**であり、国コードはTPEであった[^13]。当時の政治的な計算が見て取れる細かな点がある。オリンピックの入場順序において、TPEは「T」グループに分類された。これは、「C」で始まる「China」と並んで配置されないよう意図的に調整されたものであり、「二つの中国」が並列しているような視覚的連想を避けるための措置であった。
 
-![IOC President Samaranch](/article-images/society/samaranch.webp)
-_Then-IOC President Juan Antonio Samaranch. On March 23, 1981, he signed the "Lausanne Agreement" with Shen Chia-ming, Secretary-General of the Chinese Olympic Committee. The name "Chinese Taipei" was thus finalized, used for forty years. (Photo by Leo Medvedev, CC BY-SA 4.0)_
+![国際オリンピック委員会会長サマランチ](/article-images/society/samaranch.webp)
+_当時のIOC会長アントニオ・サマランチ（Juan Antonio Samaranch）。1981年3月23日、彼は中華奥リンピック委員会事務局長の沈家銘と《ローザンヌ合意》に署名した。「Chinese Taipei」という名前はこの時決定され、以来40年間にわたって使用されている。（写真：Leo Medvedev, CC BY-SA 4.0）_
 
-> **📝 Curator's Note**
+> **📝 キュレーター・ノート**
 >
-> "Won the lawsuit, then accepted a new name" sounds like a contradictory ending, but this is the most misunderstood part of "Chinese Taipei." It is neither pure surrender nor pure victory. Taiwan proved the IOC was in the wrong in court, but accepted a name that was not its first choice at the negotiating table, because the cost of being excluded from the international sports community for ten years was harder to bear than an imperfect name. For athletes, being able to compete is always the first priority.
+> 「勝訴した、そして新しい名前を受け入れた」という結末は、矛盾しているように聞こえるかもしれない。しかし、これこそが「チャイニーズ・タイペイ」が最も誤解されやすい部分である。それは純粋な降伏でもなければ、純粋な勝利でもない。台湾は法廷においてIOCに非があることを証明したが、交渉の席では自らが第一希望とするものではない名前を受け入れた。なぜなら、国際スポーツ界から丸10年間も排除される代償は、不完全な名前を受け入れることよりも耐え難いものだったからだ。アスリートにとって、「試合に出られること」こそが常に最優先事項なのである。
 
-New names require new symbols. The design of the flag was drafted by Lin Hsing-hsiung and finalized by Weng Ming-yi, and finally personally chosen by Chiang Ching-kuo from three drafts: the "Plum Blossom Five-Ring Flag": the outer ring is the blue, white, and red colors of the national flag, the center is the Blue Sky with a White Sun emblem, and the Olympic rings are embedded below[^14]. This flag, later commonly known as the "Plum Blossom Flag," replaced the Blue Sky, White Sun, and Wholly Red Earth flag, appearing on every Olympic podium.
+新しい名前には、新しい象徴が必要であった。大会旗のデザインは林幸雄（りん・こう／リン・シンション）が草案を作成し、翁明義（おう・めいぎ／ウォン・ミンイー）が定稿した。最終的に蔣経国（しょう・けいこく／チアン・ジングGuo）が3つの草案の中から自ら「梅花五輪旗」を選び出した。外周は国旗の青・白・赤の三色、中心には青天白日徽、その下にオリンピックの五輪が配置されている[^14]。後に通称「梅花旗」と呼ばれるようになったこの旗は、以後、青天白日満地紅旗に代わって、あらゆるオリンピックの表彰台に登場することとなった。
 
-![Chinese Taipei Olympic Committee Flag (Plum Blossom Flag)](/article-images/society/chinese-taipei-olympic-flag.svg)
-_Chinese Taipei Olympic Committee Flag, commonly known as the "Plum Blossom Flag." The outer ring's blue, white, and red are taken from the Republic of China flag, the center is the Blue Sky with a White Sun emblem, and below are the Olympic rings. Activated after the 1981 Lausanne Agreement, replacing the national flag on the podium. (Wikimedia Commons, Public Domain)_
+![中華台北奥リンピック委員会旗（梅花旗）](/article-images/society/chinese-taipei-olympic-flag.svg)
+_中華台北奥リンピック委員会の旗、通称「梅花旗」。外周の青・白・赤は中華民国の国旗に由来し、中央には青天白日徽、下部にはオリンピックの五輪が描かれている。1981年のローザンヌ合意後に使用が開始され、国旗に代わって表彰台に掲げられるようになった。（Wikimedia Commons, Public Domain）_
 
-## A Song with the Same Melody, But Different Lyrics
+## メロディは同じ、歌詞が異なる一曲の歌
 
-If you have watched Taiwanese athletes win gold on the Olympic podium, you will notice that the national flag did not rise, nor did the national anthem play. But many people do not notice that the "National Anthem" played on the podium, while the melody is familiar, the lyrics are completely different from what you think.
+オリンピックの表彰台で台湾選手が金メダルを獲得する場面を見たことがあれば、掲げられているのは国旗ではなく、流れているのも国歌ではないことに気づくはずだ。しかし、多くの人が見落としているのは、その表彰台で流れる「国旗歌」についてである。そのメロディは聞き覚えがあるものだが、歌詞は皆が思い浮かべるものとは全く異なるのだ。
 
-The Lausanne Agreement stipulated that Taiwan could not use its national anthem, so the Chinese Olympic Committee made a clever arrangement: retaining the melody of the National Flag Anthem, but rewriting the lyrics. The new lyrics were written by then-Vice Chairman and Secretary-General Chang Pi-te. Approved by the IOC Executive Committee on June 1, 1983, it was first used at the 1984 Sarajevo Winter Olympics[^15]. The lyrics begin like this:
+ローザンヌ合意により台湾は国歌を使用できないと定められたため、中華奥林匹克委員会（中華奥会）は巧妙な手立てを講じた。国旗歌のメロディはそのままに、歌詞を新しく書き換えたのである。新しい歌詞は、当時の副主席兼秘書長であった張彼得（ジャン・ビーデ／チャン・ビードゥ）によって執筆され、1983年6月1日に国際オリンピック委員会（IOC）執行委員会の承認を得て、1984年のサラエボ冬季オリンピックで初めて使用された[^15]。歌詞の冒頭は以下の通りである。
 
-> **✦** "Olympics, Olympics, regardless of religion, regardless of race. To promote friendship, for world peace, youth from five continents, gather at the Olympics..."
+> **✦** 「オリンピック、オリンピック、宗教を問わず、人種を問わない。友情を促進し、世界平和のために、五大陸の青年たちが、オリンピックに集う……」
 
-Read it once and you will find that this song has no "Taiwan," no "Republic of China," and not even "Chinese Taipei"—it talks about the Olympic spirit, world peace, and youth from five continents. A song born for the sake of competing, deliberately referring to no nation. When Lin Yu-ting and Hsu Shu-ching stood on the highest podium, the familiar melody but unfamiliar lyrics of this anthem were played. Most Taiwanese have heard that melody, but may not know its lyrics have already been changed.
+一度口に出してみればわかるが、この歌の中に「台湾」も「中華民国」も、さらには「チャイニーズ・タイペイ」さえも含まれていない。語られているのはオリンピック精神、世界平和、そして五大陸の青年についてである。出場するために生まれたこの歌は、あえて特定の国家を指し示さないよう作られているのだ。林郁婷（リン・ユーティン／リン・ユィティン）や郭婞淳（クォ・シンチュン／グオ・シンチュン）、あるいは混合ダブルスの選手たちが最高の表彰台に立ったとき、会場に流れるのは、このメロディは聞き慣れているが歌詞は未知である会歌である。多くの台湾人はそのメロディを聞いたことがあるが、歌詞がとうの昔に替えられてしまったことを必ずしも知らない。
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/N4f9lDtdQxA" title="The HEROES of Chinese Taipei — Anthems of Paris 2024 (Olympics Official)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/N4f9lDtdQxA" title="The HEROES of Chinese Taipei — Anthems of Paris 2024（Olympics 官方）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Olympics official channel recording of the 2024 Paris Olympics award ceremony segment. When Chinese Taipei athletes step onto the podium, this familiar melody but unfamiliar anthem plays, containing neither "Taiwan" nor "Republic of China."_
+_IOC公式チャンネルに収録された2024年パリ五輪の表彰シーン。チャイニーズ・タイペイの選手が表彰台に上がると、このメロディは聞き慣れているが歌詞は未知である会歌が流れる。そこには「台湾」も「中華民国」も含まれていない。_
 
-After the name, flag, and song—all three symbols—were completely renewed, Taiwan finally returned to the Olympic arena in 1984. The cost was that it could no longer hear its true name on the international stage.
+名前、旗、そして歌。これら3つの象徴がすべて新しくなったことで、台湾は1984年にようやくオリンピックの舞台へと戻ることができた。その代償として、それ以降、国際舞台で自分たちの真の名前を聴くことは二度とできなくなったのである。
 
-## One English Name, Two Chinese Translations, A War of Sovereignty Words
+## 一つの英語、二つの中国語訳、主権をめぐる言葉の戦い
 
-The English name "Chinese Taipei" was set, but the trouble had just begun because it has two Chinese translations.
+「Chinese Taipei」という英語名は決まったが、問題はそこから始まった。なぜなら、これには二つの中国語訳が存在するからである。
 
-On April 6, 1989, Shen Chia-ming, Secretary-General of the Chinese Olympic Committee, and He Zhenliang, Chairman of the Chinese Olympic Committee, signed an agreement in Hong Kong (commonly known as the "1989 Consensus"), confirming the official Chinese translation of "Chinese Taipei" as "Chinese Taipei." The text of the agreement was very specific: "**...whenever the Taiwan region's sports teams and sports organizations are referred to in Chinese, they shall be referred to as 'Chinese Taipei'.**"[^16]
+1989年4月6日、中華奥林匹克委員会の李慶華（り・けいか／リー・チンホア）事務総長と、中国奥林匹克委員会での何振梁（か・しんりょう／ホー・ジェンリャン）主席が香港で協議（通称「89コンセンサス」）に署名し、「Chinese Taipei」の公式な中国語訳を「中華台北」とすることを確認した。協議の条文には具体的にこう記されている。「**……台湾地域のスポーツチームおよびスポーツ組織を中国語で指す際は、すべて『中華台北』と称するものとする。**」[^16]
 
-The problem lies in the scope of application of the text. Reading carefully, you will find that this agreement only regulated documents, manuals, letters, nameplates, and broadcasts printed by the host organization. In other words, it governed the official大会 (convention), not the media. This loophole later became a continuously leaking crack: Chinese media could legitimately continue to use another Chinese translation, "China Taipei." Starting in April 2017, CCTV China began systematically referring to the Taiwanese team as "China Taipei"[^17].
+問題は、この条文の適用範囲にある。注意深く読むと、この協議が規定しているのは主催者が作成する文書、マニュアル、書簡、名札、および放送に限られていることがわかる。言い換えれば、これは大会の公式側を管理するものであり、メディアまでは管轄していないのである。この抜け穴は、後に絶えず水が漏れ出す亀裂となった。中国のメディアは、もう一つの訳語である「中国台北」を正当に使い続けることができるようになったのだ。2017年4月以降、中国のCCTV（中央電視台）は台湾のチームを「中国台北」と呼称することを体系的に開始した[^17]。
 
-For Taiwan, although "Chinese Taipei" and "China Taipei" differ by only one character, their meanings are worlds apart. The Ministry of Foreign Affairs' position is that "China Taipei" demeans Taiwan and violates the Olympic model; while the Taiwan Affairs Office of China's statement is that both translations are Chinese translations of "Chinese Taipei," and there is no issue of demotion. This struggle over a single character has no consensus even within Taiwan. After attending the World Health Assembly (WHA) in the name of "Chinese Taipei" in 2016, Tsai Ing-wen stated, "**There was no demotion in the title, nor was it restricted by a political framework, fulfilling expectations and completing the mission**"[^18]; KMT Chairman Eric Chu then criticized the DPP for double standards: "**When the KMT attended the WHA, calling Chinese Taipei was called losing sovereignty and humiliating the nation, self-demeaning; when the DPP attended, it was called professional and pragmatic, not demeaning**"[^19]. Professor Lin Huo-wang of the Department of Philosophy at National Taiwan University also expressed his view, "**Chinese Taipei is also OK**," "**Acknowledging the political reality makes me feel Tsai Ing-wen is a very pragmatic person**"[^20].
+台湾にとって、「中華台北」と「中国台北」は一文字の違いに過ぎないが、その意味は天と地ほどの差がある。台湾の陸委会（大陸委員会）の立場は、「中国台北」は台湾を矮小化し、オリンピック・モデルに違反しているというものである。対して、中国の国台弁（国務院台湾事務弁公室）の主張は、二つの訳法はいずれも「Chinese Taipei」の中国語訳であり、矮小化の問題は存在しないというものだ。この一文字をめぐる攻防には、台湾内部ですら合意が得られていない。蔡英文（さい・えいぶん／ツァイ・インウェン）は、2016年に「中華台北」の名義で世界保健総会（WHA）に出席した後、「**呼称において矮小化されておらず、政治的な枠組みによる制限も受けていない。期待に応えて任務を遂行した**」[^18]と述べた。一方、国民党主席の朱立倫（しゅ・りつろん／チュー・リールン）は、民進党のダブルスタンダードを批判し、「**国民党がWHAに参加して『中華台北』と呼ぶことは主権を失い国辱である、自己矮小化であると言われる一方で、民進党がやれば専門的で実務的であり、矮小化ではないと言うのだ**」[^19]と反論した。台湾大学哲学教授の林火旺（りん・かおう／リン・フオワン）も、「**中華台北でもOKだ**」、「**政治的現実を認めることは、蔡英文が非常に実務的な人物であると感じさせる**」[^20]と表明している。
 
-> **📝 Curator's Note**
+> **📝 キュレーター・ノート**
 >
-> The name has not changed for forty years, but what it points to is constantly being redefined. For Beijing, it is "China Taipei," a local branch; for the Japanese NHK anchor broadcasting the 2020 Tokyo Olympics, it is the脱口而出 (spoken out) "台湾です" (It is Taiwan); for the athletes, it is the cost of competing. The same string of letters "Chinese Taipei" emits completely different political frequencies in different people's mouths. The true struggle of this war is over the interpretation right of the name.
+> 名前は40年間変わっていないが、それが何を指し示すのかは常に再定義され続けている。北京にとって、それは「中国台北」という一つの地方的分岐である。2020年東京オリンピックの放送における日本のNHKのアナウンサーにとって、それは口から自然と出る「台湾です」である。選手にとって、それは出場するための代償である。「Chinese Taipei」という同じアルファベットの羅列が、語る人によって全く異なる政治的周波数を放っている。この戦争が真に争っているのは、名前の「解釈権」なのだ。
 
-The influence of the "Chinese Taipei" model extends far beyond the Olympics. At the 1990 Beijing Asian Games, Taiwan returned under Chinese Taipei. In November 1991, Taiwan joined the Asia-Pacific Economic Cooperation (APEC) along with China and Hong Kong as a "Chinese Taipei" "economic entity," which was the first intergovernmental international organization Taiwan joined after withdrawing from the United Nations in 1971[^21]. From 2009 to 2016, Taiwan attended the World Health Assembly as an observer under the name "Chinese Taipei" for eight consecutive years, until it was no longer invited starting in 2017[^22]. The "Olympic Model" thus spilled over from a sports arrangement into the universal template for Taiwan's participation in almost all international organizations where China is present.
+「中華台北」というモデルの影響力は、オリンピックを遥かに超えて広がっている。1990年の北京アジア競技大会において、台湾は中華台北として復帰した。1991年11月には、台湾は「Chinese Taipei」の「経済体」という身分で、中国、香港とともにアジア太平洋経済協力会議（APEC）に加入した。これは1971年の国際連合脱退以来、台湾が加入した最初の政府間国際組織であった[^21]。2009年から2016年にかけて、台湾は8年連続で「中華台北」のオブザーバーとして世界保健総会に出席したが、2017年以降は招待されなくなった[^22]。「オリンピック・モデル」は、単なるスポーツ上の取り決めから、中国が関与するほぼすべての国際組織に参加するための共通テンプレートへと波及していったのである。
 
-![Chinese Taipei Olympic Committee Emblem](/article-images/society/chinese-taipei-olympic-emblem.svg)
-_Chinese Taipei Olympic Committee Emblem, an identification symbol ratified after the 1981 Lausanne Agreement along with the flag. Compared to the flag flying on the podium, the emblem appears more often on athletes' uniforms and official documents—also carried along with the "Olympic Model" into venues far beyond sports, such as APEC and the WHA. (Wikimedia Commons, Public Domain)_
+![中華台北奥林匹克委員会会徽](/article-images/society/chinese-taipei-olympic-emblem.svg)
+_中華台北のオリンピック委員会（OCA）のエンブレム。1981年のローザンヌ合意後に決定された識別記号であり、大会旗とともに使用される。表彰台でたなびく大会旗よりも、このエンブレムは選手のユニフォームや公式文書に登場することが多い。そして「オリンピック・モデル」と同様に、APECやWHAなど、スポーツの枠を遥かに超えた場面でも採用されている。（Wikimedia Commons, Public Domain）_
 
-## The People Who Hurt the Most in the Name Have No Voting Stage
+## 名前の中にいる最も痛みを抱える人々、投票という舞台を持たない者たち
 
-In 2018, a referendum brought the issue of "name" to the hands of all Taiwanese people for the first time.
+2018年、ある国民投票によって「名前」の問題が初めて台湾の人々全員の手に委ねられた。
 
-The initiator was Chi Cheng—and the name Chi Cheng itself holds all the contradictions of the entire history of "Chinese Taipei." She won Taiwan's first women's Olympic medal under the name "Taiwan" in 1968; in 1981, she was one of the key figures who helped establish the Chinese Taipei Olympic Committee model, allowing Taiwan to return to the Olympics[^23]; between 1981 and 1990, she served as a Legislative Yuan member under the KMT's call. Then, in 2018, the establishment-era merit figure led the launch of the "Tokyo Olympics Renaming Referendum," arguing that Taiwan should compete under the name "Taiwan." One person, over forty years, transformed from the creator of the name to the opponent of the name.
+発起人は紀政（き・せい／チー・ジョン）氏である。そして紀政という名前そのものが、「チャイニーズ・タイペイ（中華台北）」という歴史の全矛盾を内包している。彼女は1968年、「Taiwan」の名義で台湾初の女子オリンピックメダルを獲得した。1981年には、チャイニーズ・タイペイ・モデルの構築を直接的に支援し、台湾をオリンピックへと復帰させた功労者の一人である[^23]。その後、1981年から1990年にかけては、国民党の召集を受け立法委員を務めた。そして2018年、かつての体制側の功労者が筆頭となって「東京五輪の名称変更に関する国民投票」を発起し、台湾は「台湾」の名義で出場すべきだと主張したのである。一人の人間が、40年の歳月を経て、名前の創設者から名前への反対者へと変わったのだ。
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/tcKSqDZji4s" title="[Taiwan Story] Leaping Antelope Chi Cheng (FTV Official)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/tcKSqDZji4s" title="【台灣演義】飛躍羚羊 紀政（民視官方）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_FTV's "Taiwan Story" special on Chi Cheng, completing the entire arc: the "Leaping Antelope" of 1968 Mexico, the merit figure who brought Taiwan back to the Olympics in 1981, the initiator of the 2018 renaming referendum. One person, holding all the contradictions of the name "Chinese Taipei."_
+_民視《台灣演義》の紀政氏に関する特集は、その軌跡をすべて描き出している。1968年メキシコでの「飛躍するアンテロープ」、1981年に台湾をオリンピックへ連れ戻した功労者、そして2018年に名称変更の国民投票を主導した発起人。同一人物が、「チャイニーズ・タイペイ」という名前が持つすべての矛盾を背負っているのだ。_
 
-The main text of Referendum Case No. 13 was written very clearly: "**Do you agree to apply to participate in all international sports events and the 2020 Tokyo Olympics under the full name 'Taiwan' (Taiwan)?**"[^24]
+国民投票の第13案の本文には、明確にこう記されていた。「**あなたは、『台湾』（Taiwan）を全名称として、すべての国際スポーツ大会および2020年東京オリンピックへの参加を申請することに同意しますか？**」[^24]
 
-The referendum sparked a frontal collision between two forces. On one side were those supporting renaming, believing this was an issue of dignity; on the other side, those who spoke out publicly against it were precisely the most direct parties in this name—the athletes themselves. Badminton player Zhou Tian-cheng said: "**Athletes compete with their lives, and what we want is just a stage, we don't need ideological renaming.**"[^25] Sprinter Yang Chun-han called out to voters: "**Every vote you cast will concern our future...**"[^26] Weightlifting gold medalist Hsu Shu-ching said even more directly: "**Cast your votes against.**"[^27]
+この国民投票は、二つの勢力の正面衝突を引き起こした。一方は名称変更を支持する人々で、これは尊厳の問題であると考えている。しかしもう一方は、公然と反対の声を上げた、この名前における最も直接的な当事者――アスリート自身であった。バドミントン選手の周天成（しゅう・てんせい／ジョウ・ティエンチェン）選手は、「**アスリートは命を懸けて試合をしている。私たちが求めているのはただ舞台であり、イデオロギーによる名称変更ではない**」と語った[^25]。短距離走の楊俊瀚（よう・しゅんかん／ヤン・ジュンハン）選手は有権者に訴えた。「**皆さんの投じる一票一票が、私たちのこれからの未来に関わるのです……**」[^26]。重量挙げの金メダリストである許淑淨（きょ・しゅくじょう／シュー・シューチン）選手は、より直接的にこう述べた。「**反対票を投じてください**」[^27]。
 
-The athletes' fear stemmed from the IOC's attitude. In 2018, the IOC sent three letters to the Chinese Olympic Committee, explicitly stating that it would not approve the renaming application, that excessive external pressure would be considered political interference, and that it might even revoke recognition of the Chinese Olympic Committee[^28]. For athletes whose careers depend on the right to compete, this was a threat to their professional lives.
+アスリートたちの恐怖は、国際オリンピック委員会（IOC）の態度に起因している。2018年当時、IOCは中華奥林匹克委員会に対し、名称変更の申請は承認しないこと、外部からの過度な圧力があれば政治的介入とみなすこと、さらには中華奥林匹克委員会の承認を取り消す可能性があることを明記した書簡を3度にわたって送付した[^28]。出場権によって生計を立てている選手にとって、これはキャリアを左右する脅威であった。
 
-But there is a key point that is commonly confused. Carefully distinguishing the IOC's warnings, you will find it threatened that "the name is actually changed," not that "someone votes to request an application." The _Olympic Charter_ stipulates that suspension is only triggered when a government or institution "obstructs the operation of the National Olympic Committee"; if the referendum passes, it only requires the government to submit an application, and the Chinese Olympic Committee, as a civil organization, theoretically could choose not to execute it—suspension would not be automatically triggered[^29]. Fact-checkers like Plain Law also pointed out that "Renaming Referendum = Automatic Ban" exaggerates the fear.
+しかし、ここで一般的に混同されている重要な点がある。IOCの警告を精査すると、彼らが脅しているのは「実際に名称が変更されること」であり、「誰かが申請を求めて投票すること」ではないことがわかる。『オリンピック憲章』では、政府や機関が「国家のオリンピック委員会（NOC）の運営を妨害した」場合にのみ、資格停止措置が発動されると規定されている。国民投票が通過したとしても、それは政府に対して申請を行うよう求めるだけであり、民間組織である中華奥林匹克委員会は理論上、それを実行しないという選択ができる。つまり、資格停止は自動的には発生しないのである[^29]。法律の平易な解説や台湾のファクトチェック機関も、「名称変更の国民投票＝自動的な出場停止」という見方は、問題を過度に恐怖させていると指摘している。
 
-> **⚠️ Controversial Viewpoint**
+> **⚠️ 議論のある視点**
 >
-> So were the athletes' concerns groundless? Not necessarily. The political dynamics after the referendum passed were full of uncertainty, and the IOC's three letters themselves created real pressure—the pressure did not need to actually evolve into suspension to make an athlete sleepless on the eve of voting. This is the cruelest part of "Chinese Taipei": It pushed a political difficulty that should have been borne by the whole society onto the group with the least voice, but who had to bear the most direct consequences. The people who hurt the most in the name were precisely those with the least space to fight for renaming.
+> では、アスリートたちの懸念は杞憂なのだろうか？ そうとも言い切れない。国民投票通過後の政治的動向には不確実性が満ちており、IOCが3度にわたって書簡を送ったこと自体が現実的なプレッシャーを生み出した。その圧力が実際に資格停止へと発展する必要はなくとも、投票前夜に選手を眠れなくさせるには十分なものだった。これこそが「チャイニーズ・タイペイ」の最も残酷な側面である。社会全体で担うべき政治的難題を、最終的に、発言権が最も乏しく、かつ最も直接的な結果を被らなければならない人々へと押し付けているのだ。名前の中にいる最も痛みを抱える人々は、まさに名前を変えるための交渉の余地を最も持たない人々なのである。
 
-On November 24, 2018, the referendum results were revealed. Yes votes: 4,763,086 (45.20%), No votes: 5,774,556 (54.80%), Turnout: 55.89%[^30]. The renaming case was rejected by a margin of about one million votes. Hsu Shu-ching said after the referendum: "**The referendum did not pass, which is more reassuring for athletes, no need to bear this risk.**"[^31]
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/fOlrRn0kCto" title="If Tokyo Olympics Renaming Referendum Passes, Chinese Olympic Committee May Be Expelled (TTV News)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-_TTV News reported the most amplified controversy before the referendum: If renaming passed, would the Chinese Olympic Committee be expelled by the IOC? The authenticity of this question itself is the core of the disagreement between athletes and the renaming camp._
-
-## Forty Years Later, The Name Remains, The War Continues
-
-The referendum ended, but the tug-of-war over the "name" on each athlete has never stopped.
-
-Before the 2022 Beijing Winter Olympics, short track speed skater Huang Yu-ting was photographed practicing in a Chinese team uniform embroidered with the word "China." Facing the controversy, she responded: "**In the sports world, we have no distinction of nationality**" (original text), and said competing was "**like fighting on home ground**"[^33]. The Sports Administration determined this act was inappropriate, suspended her subsidies for two years, and promised to amend the law[^34]. Facing the same "name," some desperately try to shout out "Taiwan," while others feel nationality should not be part of sports at all. This crack runs through the internal division of the athlete community.
+2018年11月24日、国民投票の結果が発表された。賛成票は4,763,086票（45.20%）、反対票は5,774,556票（54.80%）、投票率は55.89%であった[^30]。名称変更案は約100万票の差で否決された。郭婞淳（かく・けいじゅん／グオ・チンチュン）氏は投票後、「**国民投票が通過しなかったことで、選手たちはより安心でき、このリスクを負わずに済む**」と述べた[^31]。
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/6n7Fu3QpL4Y" title="Controversy Over Wearing Chinese Team Uniform Huang Yu-ting: Sports World Has No Nationality (CTS News)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/fOlrRn0kCto" title="東奧正名公投若過 中華奧會恐遭除名（台視新聞）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_CTS News 2022 report: Huang Yu-ting practicing in a Chinese team uniform embroidered with "China" caused a sensation. She said "In the sports world, we have no distinction of nationality," while the Sports Administration's punishment drew another line._
+_台視新聞の報道は、投票前に最も大きく取り上げられた争点を伝えている。名称変更が通過した場合、中華奥林匹克委員会がIOCから除名されるのではないかという点だ。この問い自体の真偽こそが、アスリート側と名称変更推進派がそれぞれ異なる主張を展開する核心部分となっている。_
 
-And sometimes, what is snatched away is something more concrete. At the opening of the 2020 Tokyo Olympics, when the on-site announcer read out "Chinese Taipei," the Japanese NHK broadcast anchor directly shouted "**台湾です**" (It is Taiwan)[^35]—these four characters were called by many Taiwanese netizens "the most touching moment of the night." But at the 2024 Paris Olympics, at the men's doubles badminton gold medal match, a support banner reading "Taiwan" on the stands was snatched and torn up on the spot by on-site staff and spectators suspected of being Chinese[^36]. Li Yang and Wang Chi-lin won the gold medal on the field, the white plum blossom flag rose on the podium, and the anthem without the word "Taiwan" played. The name is still the same as forty years ago.
+## 40年後も、名前は残り、戦争は続いている
 
-After the Paris Olympics, Taiwanese media and the public have become more accustomed to directly shouting "Team Taiwan" instead of the past "Team China," and even sports journalists more often use words like "Taiwan Heroes"[^37]. The emotional scale of society towards the name is shifting, but the flag on the Olympic podium and the song have not moved with it.
+国民投票は幕を閉じたが、「名前」を巡る問題が各アスリートに突きつける葛藤は、一度も止まったことはない。
 
-It was in this tug-of-war that Chi Cheng stood out again. In July 2021, this person who personally brought Taiwan back to the Olympics in 1981 announced she would push for another renaming referendum, targeting the 2024 Paris Olympics. This time, former President Ma Ying-jeou publicly opposed it, saying renaming "**would only harm Taiwan**"[^38].
+2022年の北京冬季オリンピックを前に、ショートトラックのスライディング選手である黄郁婷（ファン・ユーティン／Huang Yuting）が、「China」の文字が刺繍された中国代表のユニフォームを着て練習している姿が撮影された。この論争に対し、彼女は「**スポーツ界において、私たちに国籍の区別はありません**」[^32]（原文ママ）と答え、さらに参戦することは「**まるでホームグラウンドで戦っているかのようです**」[^33]とも語った。スポーツ署はこの行為を不適切と判断し、彼女への補助金を2年間停止するとともに、法改正を約束した[^34]。同じように「名前」に直面しても、ある者は必死に「台湾」と叫ぼうとし、またある者は国籍などスポーツの一部であるべきではないと考えている。この亀裂は、アスリートという集団の内部に刻まれている。
 
-From the "UNDER PROTEST" white banner in Rome in 1960 to the torn-up "Taiwan" banner in Paris in 2024, more than sixty years have passed. In these sixty years, those who want to call "Taiwan" and those who want to keep "Chinese" have constantly switched sides—the IOC once wanted to give Taiwan the name "Taiwan," but Taipei itself pushed it away; athletes once used votes to reject the name "Taiwan," yet longed for someone to shout "Taiwan" for them on the field; Chi Cheng personally created "Chinese Taipei," yet spent the rest of her life trying to overturn it. No one has stood still.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/6n7Fu3QpL4Y" title="穿中國隊服惹議 黃郁婷：運動界不分國籍（華視新聞）" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-And that ticket, still only lets Taiwan play, still won't print its own name. Next time you see the plum blossom flag rise on the podium and hear that anthem without "Taiwan," you will know that battle has been fought for forty years, and the verdict is still not out. And the ones stuck in a dilemma are always the person standing on the stage.
+_華視新聞による2022年の報道：黄郁婷が「China」と刺繍された中国代表のユニフォームを着用して練習したことが大きな波紋を広げた。彼女は「スポーツ界において、私たちに国籍の区別はありません」と述べたが、スポーツ署の下した処分は、また別の境界線を引くこととなった。_
 
-## Further Reading
+そして、奪い去られるものは、時にはより具体的なものである。2020年の東京オリンピック開会式で、司会者が「Chinese Taipei」と読み上げた際、日本のNHKの放送アナウンサーが直接「**台湾です**」[^35]と叫んだ。この言葉は、多くの台湾のネットユーザーから「今夜最も感動的な瞬間」と呼ばれた。しかし2024年のパリオリンピックでは、バドミントン男子ダブルスの金メダル決定戦の観客席で、「Taiwan」と書かれた応援ボードが、現場スタッフや中国籍と思われる観客によってその場で奪われ、破り捨てられた[^36]。コート上の李洋（リー・ヤン／Li Yang）と王齊麟（ワン・チーリン／Wang Chi-lin）は金メダルを勝ち取ったが、表彰台に掲げられたのは白地に梅花の旗であり、流れたのは「台湾」という二文字を含まない会歌であった。名前は、依然として40年前のあのままである。
 
-- [Issues with Taiwan's Designation in International Standards](/ja/society/taiwans-labeling-in-international-standards) — From ISO 3166 to open-source software, how the name "Taiwan" is written and disputed in global digital infrastructure, originating from the same source but on a different battlefield as Olympic naming
-- [Taiwan Unification-Independence Spectrum](/ja/society/taiwan-unification-independence-spectrum) — Why Taiwanese people's emotions towards the two names "Chinese" and "Taiwan" are so divided, a complete explanation of the underlying identity spectrum
-- [Taiwan's Diplomatic Allies and International Diplomacy](/ja/society/taiwan-diplomatic-allies-and-international-relations) — Beyond the spillover of the "Olympic Model," the same name dilemma Taiwan faces in formal diplomatic arenas
-- [Chi Cheng](/ja/people/chi-cheng-flying-antelope) — The complete arc of the Leaping Antelope from the 1968 Mexico bronze medal, 1981 establishment merit figure, to the 2018 renaming initiator
-- [Yang Chuan-kwang](/ja/people/yang-chuan-kwang-asian-iron-man) — The Asian Iron Man who won Taiwan's first Olympic medal under the name "Formosa" at the 1960 Rome Olympics
-- [The Invisible Country](/ja/art/invisible-nation) — In this documentary, Chi Cheng holds up her 1968 Olympic bronze medal and asks, "Is 'Chinese Taipei' even a country name?"
+パリオリンピックの後、台湾のメディアや民間では、かつての「中華隊」ではなく、直接「台湾チーム」と呼ぶことが当たり前になりつつあり、スポーツ記者も「台湾の英雄」といった言葉をより頻繁に使うようになっている[^37]。社会における名前への感情の天秤は動きつつあるが、オリンピックの表彰台にあるあの旗、あの歌は、それに付いていっていない。
 
-## Image Sources
+そして、この葛藤の中で、紀政（キ・マサシ／Chi Cheng）が再び立ち上がった。2021年7月、1981年に自らの手で台湾をオリンピックへと連れ戻したこの人物は、再び名称是正の国民投票を推進すると発表した。その目標は2024年のパリオリンピックであった。しかし今回、馬英九（マー・インジュー／Ma Ying-jeou）前総統は公開して反対し、名称是正は「台湾を害するだけだ」と述べた[^38]。
 
-- **Hero / 1960 Rome "UNDER PROTEST"**: [Olympische Spelen te Rome — Formosa liep onder protest](https://commons.wikimedia.org/wiki/File:Olympische_Spelen_te_Rome_Opening_Formosa_liep_onder_protest,_Bestanddeelnr_911-5406.jpg), Photo by Harry Pot / Netherlands Institute for Sound and Vision (Nationaal Archief), CC0 1.0.
-- **Yang Chuan-kwang**: [C. K. Yang — UCLA Southern Campus 1960](https://commons.wikimedia.org/wiki/File:C_K_Yang_-_Southern_Campus_1960_crop.jpg), Public Domain (PD-US, copyright not renewed).
-- **Samaranch**: [Juan Antonio Samaranch](<https://commons.wikimedia.org/wiki/File:Juan_Antonio_Samaranch_(3x4_cropped).jpg>), Photo by Leo Medvedev, CC BY-SA 4.0.
-- **Flag (Plum Blossom Flag)**: [Chinese Taipei Olympic Committee Flag](https://commons.wikimedia.org/wiki/File:Flag_of_Chinese_Taipei_for_Olympic_Games.svg), Wikimedia Commons, Public Domain. Outer ring blue, white, red taken from the Republic of China flag, center Blue Sky with a White Sun emblem, below Olympic rings, activated after the 1981 Lausanne Agreement.
-- **Emblem**: [Chinese Taipei Olympic Committee Emblem](https://commons.wikimedia.org/wiki/File:Emblem_of_Chinese_Taipei_for_Olympic_games.svg), Wikimedia Commons, Public Domain (Author Denelson83 released).
+1960年のローマにおける「UNDER PROTEST」と書かれた白い横断幕から、2024年のパリで破り捨てられた「Taiwan」のボードまで、その間には60年以上の歳月が流れている。この60年余りの間、「台湾」と呼ばえようとする者と「中華」を守ろうとする者は、絶えず立場を変えてきた。国際オリンピック委員会（IOC）はかつて台湾に「台湾」という名前を与えようとしたが、台北側がそれを拒んだ。アスリートはかつて投票によって「台湾」という名前を否決したが、競技場では誰かが自分たちのために「Taiwan」と叫んでくれることを切望している。紀政は自らの手で「チャイニーズ・タイペイ」を作り上げ、その人生の後半ではそれを覆そうとしている。一貫して同じ場所に立ち続けている者はいないのだ。
 
-## Video Sources
+そして、その入場券は、依然として台湾が舞台に上がることを許すのみであり、依然として自分たちの名前を刻むことはできない。次にあなたが表彰台で梅花の旗が掲げられるのを見、「台湾」という言葉のない会歌を耳にするとき、この戦いが40年続いており、まだ決着がついていないことを知るだろう。そして、進退の判断に苦しんでいるのは、常に舞台の上に立っているその人自身なのである。
 
-All four videos are embedded from official channels (documentary news / events / documentaries, not UGC remakes):
+## 関連記事
 
-- Chinese Taipei Olympic Committee Anthem · 2024 Paris Award: [Olympics Official Channel](https://www.youtube.com/watch?v=N4f9lDtdQxA) (IOC official)
-- Chi Cheng Special: [FTV "Taiwan Story"](https://www.youtube.com/watch?v=tcKSqDZji4s) (FTV official)
-- Tokyo Olympics Renaming Referendum Controversy: [TTV News](https://www.youtube.com/watch?v=fOlrRn0kCto) (TTV official)
-- Huang Yu-ting Chinese Team Uniform Controversy: [CTS News](https://www.youtube.com/watch?v=6n7Fu3QpL4Y) (CTS official)
+- [国際標準における台湾の表記問題](/ja/society/taiwans-labeling-in-international-standards) — ISO 3166からオープンソース・ソフトウェアに至るまで、「台湾」という名前がいかに世界のデジタル・インフラの中で記述され、議論されてきたか。オリンピックの名称問題とは異なる戦場での闘い。
+- [台湾の統一・独立スペクトラム](/ja/society/taiwan-unification-independence-spectrum) — なぜ台湾の人々は「中華」と「台湾」という二つの名前にこれほど感情的な隔たりがあるのか。その背景にあるアイデンティティのスペクトラムを徹底解説。
+- [台湾の外交関係国と国際外交](/ja/society/taiwan-diplomatic-allies-and-international-relations) — 「オリンピック・モデル」の波及効果を超えて、台湾が正式な外交の場において直面している、名称を巡る共通の困難について。
+- [紀政（き・まさる／Chi Cheng）](/ja/people/chi-cheng-flying-antelope) — 1968年メキシコ五輪での銅メダル獲得、1981年の体制構築への貢献、そして2018年の名称是正運動の提唱者となるまでの軌跡。
+- [楊傳廣（よう・でんこう／Yang Chuan-kwang）](/ja/people/yang-chuan-kwang-asian-iron-man) — 1960年ローマ五輪において「フォルモサ」の名の下に台湾初のオリンピックメダルを獲得した、アジアのアイアンマン。
+- [見えない国家](/ja/art/invisible-nation) — ドキュメンタリー映画の中で、紀政が1968年の五輪銅メダルを手に「『チャイニーズ・タイペイ』は国名なのか」と問いかける。
 
-## References
+## 画像出典
 
-[^1]: [1960 Summer Olympics Republic of China Delegation](https://zh.wikipedia.org/zh-hant/1960%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%BB%A3%E8%A1%A8%E5%9C%98) — Chinese Wikipedia, records then-manager Lin Hung-tan displaying the "UNDER PROTEST" white banner to enter the field at the opening ceremony.
+- **Hero／1960年ローマ「UNDER PROTEST」**：[Olympische Spelen te Rome — Formosa liep onder protest](https://commons.wikimedia.org/wiki/File:Olympische_Spelen_te_Rome_Opening_Formosa_liep_onder_protest,_Bestanddeelnr_911-5406.jpg)、撮影 Harry Pot／オランダ国立公文書館（Nationaal Archief）、CC0 1.0。
+- **楊傳廣（よう・でんこう／Yang Chuan-kwang）**：[C. K. Yang — UCLA Southern Campus 1960](https://commons.wikimedia.org/wiki/File:C_K_Yang_-_Southern_Campus_1960_crop.jpg)、パブリックドメイン（PD-US、著作権未更新）。
+- **サマランチ**：[Juan Antonio Samaranch](<https://commons.wikimedia.org/wiki/File:Juan_Antonio_Samaranch_(3x4_cropped).jpg>)、撮影 Leo Medvedev、CC BY-SA 4.0。
+- **総会旗（梅花旗）**：[中華台北奥委会総会旗](https://commons.wikimedia.org/wiki/File:Flag_of_Chinese_Taipei_for_Olympic_Games.svg)、Wikimedia Commons、パブリックドメイン。外周の青・白・赤は中華民国の国旗に由来し、中央には青天白日徽、下部にはオリンピック五輪が描かれている。1981年のローザンヌ合意後に使用開始された。
+- **総会徽**：[中華台北奥委会総会徽](https://commons.wikimedia.org/wiki/File:Emblem_of_Chinese_Taipei_for_Olympic_games.svg)、Wikimedia Commons、パブリックドメイン（作者 Denelson83 による公開）。
 
-[^2]: [Richard W. Pound, Journal of Olympic History (ISOH)](http://isoh.org/wp-content/uploads/JOH-Archives/JOHv20n1j.pdf) — Academic article by IOC member Pound citing original IOC archives, confirming 1960 Rome as the only opening ceremony protest in Olympic history, and correcting that there were two banner-holders at the time (Formosa banner and Under Protest banner).
+## 動画ソース
 
-[^3]: [Olympic Games Chinese Taipei Delegation](https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E4%BB%A3%E8%A1%A8%E5%9C%98) — Chinese Wikipedia, records the evolution of competition names in each session, with the Republic of China withdrawing from the 1952 Helsinki Olympics due to the Two Chinas issue.
+4つの動画はすべて公式チャンネルから埋め込まれたものです（ドキュメンタリー、ニュース、競技映像、記録映画であり、UGCによる再撮影ではありません）：
 
-[^4]: [Taiwan Fact Check Center: Did Not Compete as Taiwan in the 1960s](https://tfc-taiwan.org.tw/articles/105) — Cites official Olympic reports to verify names in each session, confirming 1968 Mexico competed as "Taiwan" (TWN), with Chi Cheng winning the women's 80-meter hurdles bronze, becoming Taiwan's first female Olympic medalist.
+- 中華台北オリンピック委員会歌・2024 パリ表彰式：[Olympics 公式チャンネル](https://www.youtube.com/watch?v=N4f9lDtdQxA)（国際オリンピック委員会 IOC official）
+- 紀政（き・せい／Ji Zheng）特集：[民視《台灣演義》](https://www.youtube.com/watch?v=tcKSqDZji4s)（民視 FTV official）
+- 東京五輪の名称変更に関する国民投票の争点：[台視ニュース TTV](https://www.youtube.com/watch?v=fOlrRn0kCto)（台視 official）
+- 黄郁婷（こう・いくてい／Huang Yu-ting）の中国ユニフォーム問題：[華視ニュース CH52](https://www.youtube.com/watch?v=6n7Fu3QpL4Y)（華視 CTS official）
 
-[^5]: [1972 Summer Olympics Republic of China Delegation](https://zh.wikipedia.org/zh-tw/1972%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%BB%A3%E8%A1%A8%E5%9C%98) — Chinese Wikipedia, records 1972 Munich as the "last successful time the Republic of China competed in the Summer Olympics under its national name, flag, and anthem."
+## 参考文献
 
-[^6]: [Republic of China at the Summer Olympics](https://en.wikipedia.org/wiki/Republic_of_China_at_the_Summer_Olympics) — English Wikipedia, records that in 1976 Montreal, Canada (which recognized the PRC in 1970) refused the "Republic of China" name, and the IOC proposed a compromise for Taiwan to compete under the name "Taiwan."
+[^1]: [1960年夏季オリンピック競技大会 中華民国代表団](https://zh.wikipedia.org/zh-hant/1960%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%BB%A3%E8%A1%A8%E5%9C%98) — 中国語版Wikipedia。当時の総幹事であった林鴻坦が、開会式において「UNDER PROTEST」と書かれた白い横断幕を掲げて入場したことを記載しています。
 
-[^7]: [Montreal 1976: Diplomatic Controversies](https://www.olympics.com/ioc/news/diplomatic-controversies) — IOC Official Website, records the process of Canada refusing the "Republic of China" name during the 1976 Montreal Olympics, the IOC's attempt at compromise, and the ROC finally withdrawing from the competition one day before the opening ceremony.
+[^2]: [Richard W. Pound, Journal of Olympic History (ISOH)](http://isoh.org/wp-content/uploads/JOH-Archives/JOHv20n1j.pdf) — IOC委員であるPound氏による、IOCの一次資料に基づいた学術論文。1960年のローマ大会がオリンピック史上唯一の開会式での抗議であったことを確認し、当時は2名の掲示者がいたこと（「Formosa」と「Under Protest」の旗）を修正・補足しています。
 
-[^8]: Commentary on rejecting the "Taiwan" name in 1976, from researcher Garret Clarke "it was the KMT that made this decision. It was an own goal, basically." (Single source, cited as the author's viewpoint rather than a conclusion). Harvard scholar Xu Guoqi's research also supports the historical fact that this decision was made by the Taipei side, see [Richard W. Pound, Journal of Olympic History (ISOH)](http://isoh.org/wp-content/uploads/JOH-Archives/JOHv20n1j.pdf) citing original IOC archives.
+[^3]: [オリンピック競技大会 チャイニーズタイペイ代表団](https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97%E4%BB%A3%E8%A1%A8%E5%9C%98) — 中国語版Wikipedia。各大会における名称の変遷を記載しており、1952年のヘルシンキ大会では「二つの中国」問題により中華民国が棄権したことを記しています。
 
-[^9]: [Nagoya Resolution](https://en.wikipedia.org/wiki/Nagoya_Resolution) — English Wikipedia, records the 1979 Nagoya Resolution establishing the Two Chinas Olympic model through a correspondence vote: the PRC uses the flag and anthem, the ROC must change its name to Chinese Taipei, and its flag and anthem must be different from the past, results published on 1979-11-26.
+[^4]: [台湾ファクトチェックセンター：1960年代に「台湾」の名義でオリンピックに参加したことはない](https://tfc-taiwan.org.tw/articles/105) — オリンピックの公式報告書を引用して各大会の名称を検証。1968年のメキシコシティ大会において「Taiwan」(TWN)として参加していたことを確認しており、紀政が同大会で女子80mハードルの銅メダルを獲得し、台湾初の女性オリンピックメダリストとなったことも記しています。
 
-[^10]: [Tang Ming-hsin: Analyzing the "Olympic Model" and the "Two Associations Agreement"](https://npf.org.tw/2/1403) — National Policy Foundation, former Chinese Olympic Committee member Tang Ming-hsin's firsthand account of Hsü Heng and the Chinese Olympic Committee filing a lawsuit at the Lausanne District Court in Switzerland at the end of 1979.
+[^5]: [1972年夏季オリンピック競技大会 中華民国代表団](https://zh.wikipedia.org/zh-tw/1972%E5%B9%B4%E5%A4%8F%E5%AD%A3%E5%A5%A7%E6%9E%97%E5%8C%B9%E5%85%8B%E9%81%8B%E5%8B%95%E6%9C%83%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%BB%A3%E8%A1%A8%E5%9C%98) — 中国語版Wikipedia。1972年のミュンヘン大会が、中華民国にとって「国号、国旗、国歌を用いて夏季オリンピックに参加した最後の成功例」であったことを記載しています。
 
-[^11]: [Tang Ming-hsin: Analyzing the "Olympic Model" and the "Two Associations Agreement"](https://npf.org.tw/2/1403) — National Policy Foundation, verbatim records the 1980-03-27 Lausanne Court interim judgment "IOC seems contrary to the spirit and text of the Charter, particularly Articles 64, 65, 66" and the fee ruling "Court fee of 100 Swiss Francs borne by the IOC, plus 500 Swiss Francs paid to Mr. Hsü Heng (plaintiff) to compensate for expenses."
+[^6]: [Republic of China at the Summer Olympics](https://en.wikipedia.org/wiki/Republic_of_China_at_the_Summer_Olympics) — 英語版Wikipedia。1976年のカナダ・モントリオール大会（1970年にPRCを承認）が「Republic of China」という名称を拒否した際、IOCが「Taiwan」の名義で参加するという妥協案を提示した経緯を記載しています。
 
-[^12]: [Lausanne Agreement](https://zh.wikipedia.org/wiki/%E6%B4%9B%E6%A1%91%E5%8D%94%E8%AD%B0) — Chinese Wikipedia, records Hsü Heng and others reaching a consensus with Samaranch and withdrawing the lawsuit on 1981-01-26.
+[^7]: [Montreal 1976: Diplomatic Controversies](https://www.olympics.com/ioc/news/diplomatic-controversies) — IOC公式サイト。1976年のモントリオール大会において、カナダが「Republic of China」という名称を拒否し、IOCが妥協案を試みたものの、最終的にROCが開会前日に棄権した経緯を記載しています。
 
-[^13]: [Lin Chia-ho / "Chinese Taipei" Past and Present — Those Years We Sued the IOC](https://www.twreporter.org/a/opinion-olympic-and-politics-chinese-taipei) — The Reporter, legal scholar Lin Chia-ho writes to梳理 (sort out) the process of the 1981-03-23 Lausanne Agreement signed by Shen Chia-ming, Secretary-General of the Chinese Olympic Committee, and Samaranch, establishing the name "CHINESE TAIPEI OLYMPIC COMMITTEE" and the TPE code.
+[^8]: [Richard W. Pound, Journal of Olympic History (ISOH)](http://isoh.org/wp-content/uploads/JOH-Archives/JOHv20n1j.pdf) — 1976年に「Taiwan」という名称を拒否したことに関する論評。研究者のGarret Clarke氏は「この決定を下したのは国民党（KMT）であった。基本的には自業自得（own goal）であった」と述べています（単一のソースであり、確定事項ではなく論者の見解として引用されています）。ハーバード大学の学者であるXu Guoqi氏の研究も、この決定が台北側によって下されたという史実を支持しており、詳細はのIOC一次資料の引用を参照してください。
 
-[^14]: [Chinese Olympic Committee Flag (Plum Blossom Flag)](https://zh.wikipedia.org/wiki/%E6%A2%85%E8%8A%B1%E6%97%97) — Chinese Wikipedia, records the Plum Blossom Flag was drafted by Lin Hsing-hsiung, finalized by Weng Ming-yi, personally chosen by Chiang Ching-kuo from three drafts, design includes the national flag's blue, white, red colors, Blue Sky with a White Sun emblem, and Olympic rings.
+[^9]: [名古屋決議](https://en.wikipedia.org/wiki/Nagoya_Resolution) — 英語版Wikipedia。1979年の名古屋決議により、書面投票によって「二つの中国」方式のオリンピック委員会モデルが確立されたことを記載しています。すなわち、PRCは国旗と国歌を使用し、ROCは名称を「Chinese Taipei」に変更し、旗歌も過去のものとは異なるものにするというもので、1979年11月26日に結果が公表されました。
 
-[^15]: [You May Not Know, the Chinese Olympic Committee Anthem Lyrics Are Not the National Flag Anthem Lyrics!](https://www.sportsv.net/articles/55004) — Sportsv, records the anthem lyrics were written by Chang Pi-te, adopting the National Flag Anthem melody with rewritten lyrics, approved by the IOC Executive Committee on 1983-06-01, first used at the 1984 Sarajevo Winter Olympics, full lyrics "Olympics, Olympics, regardless of religion, regardless of race..."
+[^10]: [湯銘新：『オリンピック・モデル』と『両会協議』の解析](https://npf.org.tw/2/1403) — 国家政策研究基金会。元中華奥林匹克委員会関係者である湯銘新氏による、徐亨氏と中華奥林匹克委員会が1979年末にスイスのローザンヌ地方裁判所に提訴した経緯の直接的な記述です。
 
-[^16]: [Chinese Taipei](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97) — Chinese Wikipedia (National Security Council transcribed text), records 1989-04-06 Li Ching-hwa and He Zhenliang signed the agreement in Hong Kong, confirming the Chinese translation of Chinese Taipei as "Chinese Taipei," the text only regulates host organization documents, manuals, letters, nameplates, and broadcasts.
+[^11]: [湯銘新：『オリンピック・モデル』と『両会協議』の解析](https://npf.org.tw/2/1403) — 国家政策研究基金会。1980年3月27日のローザンヌ裁判所の中間判決における「IOCは憲章の精神および条文、特に第64、65、66条に違反していると思われる」という記述、および費用裁定における「開廷費用100スイスフランはIOCが負担し、別途、原告である徐亨氏に対し経費補填として500スイスフランを支払う」という内容を逐語的に記載しています。
 
-[^17]: [Chinese Taipei vs China Taipei Translation Controversy](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97) — Chinese Wikipedia, records that starting in April 2017, CCTV China systematically changed to refer to the Taiwanese team as "China Taipei."
+[^12]: [ローザンヌ合意](https://zh.wikipedia.org/wiki/%E6%B4%9B%E6%A1%91%E5%8D%94%E8%AD%B0) — 中国語版Wikipedia。1981年1月26日に徐亨氏らがサマランチ氏と合意に達し、訴訟を取り下げたことを記載しています。
 
-[^18]: [Tsai Ing-wen: WHA Title Was Not Demoted](https://www.setn.com/News.aspx?NewsID=150405) — SET News, records Tsai Ing-wen stating on 2016-05-27 "There was no demotion in the title, nor was it restricted by a political framework, fulfilling expectations and completing the mission" (this verbatim version is based on SET News report).
+[^13]: [林佳和／「チャイニーズタイペイ」の前世今生──あの時、私たちが告発した国際オリンピック委員会](https://www.twreporter.org/a/opinion-olympic-and-politics-chinese-taipei) — 報導者（Reporter）。法律学者の林佳和氏が、1981年3月23日に中華奥林匹克委員会の沈家銘事務総長がサマランチ氏とローザンヌ合意に署名し、「CHINESE TAIPEI OLYMPIC COMMITTEE」という名称と「TPE」のコードを確立した経緯をまとめた記事です。
 
-[^19]: [Tsai Ing-wen Says Chinese Taipei Was Not Demoted, Eric Chu Criticizes Double Standards](https://news.ltn.com.tw/news/focus/paper/994772) — Liberty Times Net, records Eric Chu criticizing on 2016-05-29 "When the KMT attended the WHA, calling Chinese Taipei was called losing sovereignty and humiliating the nation, self-demeaning; when the DPP attended, it was called professional and pragmatic, not demeaning."
+[^14]: [中華奥林匹克委員会旗（梅花旗）](https://zh.wikipedia.org/wiki/%E6%A2%85%E8%8A%B1%E6%97%97) — 中国語版Wikipedia。梅花旗は林幸雄氏が草案を作成し、翁明義氏が決定稿をまとめ、蔣経国氏が3つの草案から選定したことを記載しています。デザインには国旗の青・白・赤の三色、青天白日徽、およびオリンピック五輪が含まれています。
 
-[^20]: [Xiao Ying Says "Chinese Taipei" Was Not Demoted, Lin Huo-wang: President Tsai Is Very Pragmatic](https://news.ltn.com.tw/news/politics/breakingnews/1710893) — Liberty Times Net, records National Taiwan University Philosophy Department Professor Lin Huo-wang stating on 2016-05-27 "Chinese Taipei is also OK" "Acknowledging the political reality makes me feel Tsai Ing-wen is a very pragmatic person."
+[^15]: [意外と知らない、中華奥林匹克委員会歌の歌詞は国旗歌の歌詞ではない！](https://www.sportsv.net/articles/55004) — 運動視界。会歌は張彼得氏が作詞し、国旗歌の旋律に新しい歌詞を付けたものであることを記載しています。1983年6月1日にIOC執行委員会によって承認され、1984年のサラエボ冬季オリンピックで初めて使用されました。歌詞全文は「オリンピック、オリンピック、宗教を問わず、人種を問わず……」となっています。
 
-[^21]: [MOFA: Our Participation in APEC](https://subsite.mofa.gov.tw/igo/News_Content.aspx?n=6026&s=110867) — MOFA First-hand, records that in 1991, Taiwan, mediated by South Korea, joined APEC along with China and Hong Kong under the name "Chinese Taipei," the first intergovernmental international organization Taiwan joined after withdrawing from the UN.
+[^16]: [チャイニーズ・タイペイ](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97) — 中国語版Wikipedia（国家安全会議の転載条文）によると、1989年4月6日に李慶華と何振梁が香港で協議し、Chinese Taipeiの訳語を「中華台北」と定めた。この条文は主催団体の文書、マニュアル、書簡、名札、放送のみを規定している。
 
-[^22]: [MOFA: Our Participation in the World Health Assembly (WHA)](https://subsite.mofa.gov.tw/igo/cp.aspx?n=22C3B697A101DF19) — MOFA First-hand, records that from 2009 to 2016, Taiwan was invited to attend the WHA as an observer, and has not been invited since 2017 to the present.
+[^17]: [「中華台北」対「中国台北」の訳語論争](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E5%8F%B0%E5%8C%97) — 中国語版Wikipediaによると、2017年4月より中国のCCTVが台湾のチームに対し、体系的に「中国台北」という呼称を使用している。
 
-[^23]: [Chi Cheng](https://zh.wikipedia.org/wiki/%E7%B4%80%E6%94%BF) — Chinese Wikipedia / Hope Foundation official website, records Chi Cheng winning bronze in 1968 Mexico, helping establish the Chinese Taipei Olympic Committee model in 1981, serving as a Legislative Yuan member from 1981-1990, and leading the launch of the Tokyo Olympics Renaming Referendum in 2018.
+[^18]: [蔡英文：WHAの呼称は矮小化されていない](https://www.setn.com/News.aspx?NewsID=150405) — SET Newsによると、蔡英文は2016年5月27日に「呼称において矮小化されておらず、政治的な枠組みによる制限も受けていない。期待に応え任務を完了した」と述べた（この逐語版はSETの報道に基づく）。
 
-[^24]: [2020 Tokyo Olympics Taiwan Renaming Referendum Case](https://zh.wikipedia.org/zh-tw/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E5%A5%A7%E9%81%8B%E5%8F%B0%E7%81%A3%E6%AD%A3%E5%90%8D%E5%85%AC%E6%8A%95%E6%A1%88) — Chinese Wikipedia (citing Central Election Commission bulletin), Referendum Case No. 13 main text "Do you agree to apply to participate in all international sports events and the 2020 Tokyo Olympics under the full name 'Taiwan' (Taiwan)?".
+[^19]: [蔡英文が「中華台北」は矮小化されていないと発言、朱立倫はダブルスタンダードだと批判](https://news.ltn.com.tw/news/focus/paper/994772) — 自由時報によると、朱立倫は2016年5月29日に、「国民党がWHAに参加して『中華台北』と呼ばれることは主権の喪失や自己矮小化だと批判する一方で、民進党が言えば専門的かつ実務的で矮小化ではないと言うのはおかしい」と批判した。
 
-[^25]: [Zhou Tian-cheng: Athletes Just Want a Stage](https://www.ltsports.com.tw/other/complex/132080-2018-11-21-10-49-56) — Formosa TV Sports News 2018-11-21, records badminton player Zhou Tian-cheng "Athletes compete with their lives, and what we want is just a stage, we don't need ideological renaming."
+[^20]: [蔡英文が「中華台北」は矮小化されていないと発言、林火旺：蔡総統は非常に実務的である](https://news.ltn.com.tw/news/politics/breakingnews/1710893) — 自由時報によると、台湾大学哲学教授の林火旺は2016年5月27日に、「『中華台北』でもOKである」「政治的現実を認める姿勢は、蔡英文が非常に実務的な人物であることを示している」と述べた。
 
-[^26]: [Athletes Oppose Tokyo Olympics Renaming Referendum](https://news.tvbs.com.tw/politics/1033457) — TVBS, records sprinter Yang Chun-han calling out to voters "Every vote you cast will concern our future..." (the original sentence continues with "I hope everyone thinks clearly, stand up for sports people").
+[^21]: [外交部：我が国のAPECへの参加](https://subsite.mofa.gov.tw/igo/News_Content.aspx?n=6026&s=110867) — 外交部の一次資料によると、1991年に台湾は韓国の仲介により、「Chinese Taipei」という名称で中国および香港と共にAPECに加入した。これは国連脱退後、最初に加入した政府間国際組織である。
 
-[^27]: [Athletes Oppose Tokyo Olympics Renaming Referendum](https://news.tvbs.com.tw/politics/1033457) — TVBS, records weightlifting gold medalist Hsu Shu-ching urging "I also hope everyone can defend athletes' competition rights, cast your votes against."
+[^22]: [外交部：我が国の世界保健総会（WHA）への参加](https://subsite.mofa.gov.tw/igo/cp.aspx?n=22C3B697A101DF19) — 外交部の一次資料によると、台湾は2009年から2016年までオブザーバーとしてWHAへの出席を認められていたが、2017年以降は現在に至るまで招待を受けていない。
 
-[^28]: [Tokyo Olympics Renaming Received Three Warnings from IOC](https://www.businesstoday.com.tw/article/category/161153/post/201811190016/) — Business Today, records the IOC sending three letters to the Chinese Olympic Committee in 2018 (third letter 11-16), stating it would not approve renaming, excessive external pressure would be considered interference, and recognition might be revoked.
+[^23]: [紀政](https://zh.wikipedia.org/wiki/%E7%B4%80%E6%94%BF) — 中国語版Wikipedia／希望基金会公式サイトによると、紀政の歩みについて、1968年のメキシコでの銅メダル獲得、1981年の「中華台北」オリンピック・モデルの確立への協力、1981年から1990年までの立法委員就任、2018年の東京オリンピック名称変更国民投票の主導といった軌跡が記されている。
 
-[^29]: [Yang Kuei-chih / Olympic Model: Taiwanese Going Abroad to Compete Become Chinese Taipei People?](https://plainlaw.me/posts/chinesetaipei) — Plain Law Movement, analyzes suspension conditions based on the _Olympic Charter_ as government/institution "obstructing the operation of the National Olympic Committee," the referendum passing does not automatically trigger suspension, pointing out "Renaming Referendum = Automatic Ban" is an exaggeration of fear.
+[^24]: [2020年東京オリンピック台湾名称変更国民投票案](https://zh.wikipedia.org/zh-tw/2020%E5%B9%B4%E6%9D%B1%E4%BA%AC%E5%A5%A7%E9%81%8B%E5%8F%B0%E7%81%A3%E6%AD%A3%E5%90%8D%E5%85%AC%E6%8A%95%E6%A1%88) — 中国語版Wikipedia（中央選挙委員会公報を引用）によると、国民投票第13案の本文は「あなたは、すべての国際スポーツ競技会および2020年東京オリンピックへの申請において、正式名称を『台湾』（Taiwan）とすることに同意しますか？」である。
 
-[^30]: [Yes-No Vote Tug-of-War, Tokyo Olympics Renaming Failed](https://www.cna.com.tw/news/aipl/201811250026.aspx) — CNA (votes confirmed by three sources: Supervisory Commission, Central Election Commission bulletin), 2018-11-24 Yes 4,763,086 votes (45.20%), No 5,774,556 votes (54.80%), Turnout 55.89%, renaming case rejected.
+[^25]: [周天成：アスリートが求めているのは舞台だけだ](https://www.ltsports.com.tw/other/complex/132080-2018-11-21-10-49-56) — 麗台運動報（2018年11月21日）によると、バドミントン選手の周天成は「アスリートは命を懸けて試合をしている。私たちが求めているのはただ舞台であり、イデオロギーによる名称変更ではない」と述べた。
 
-[^31]: [Hsu Shu-ching Discusses Referendum Results](https://www.chinatimes.com/newspapers/20181127000668-260107) — China Times 2018-11-27, records Hsu Shu-ching "The referendum did not pass, which is more reassuring for athletes, no need to bear this risk."
+[^26]: [アスリートによる東京五輪名称変更国民投票への反対](https://news.tvbs.com.tw/politics/1033457) — TVBSによると、短距離走選手の楊俊瀚が有権者に対し「あなたたちの投じる一票一票が、私たちのこれからの未来に関わる……」（原文の後に「皆さんにしっかりと考えてほしい、スポーツ人のために立ち上がってほしい」と続く）と訴えた。
 
-[^32]: [Huang Yu-ting Responds to Chinese Team Uniform Controversy](https://news.cts.com.tw/cts/sports/202202/202202032070708.html) — CTS 2022-02-03, quotes Huang Yu-ting's Facebook "Sports are sports, in the sports world we have no distinction of nationality" ("Jie" is a typo in the original text).
+[^27]: [アスリートによる東京五輪名称変更国民投票への反対](https://news.tvbs.com.tw/politics/1033457) — TVBSによると、重量挙げ金メダリストの許淑淨が「選手たちの競技権益を守るために、皆さんが反対票を投じてくれることを願っています」と呼びかけた。
 
-[^33]: [Huang Yu-ting: It's Like Fighting on Home Ground](https://newtalk.tw/news/view/2022-02-08/706719) — New Talk 2022-02-08, records Huang Yu-ting after the Beijing Winter Olympics "I feel the enthusiasm of the on-site audience, especially moved, it's like fighting on home ground."
+[^28]: [東京五輪の名称変更に対しIOCが3度の警告](https://www.businesstoday.com.tw/article/category/161153/post/201811190016/) — 今周刊によると、2018年に国際オリンピック委員会（IOC）は中華奥林匹克委員会に対し3度書簡を送り（第3報は11月16日）、名称変更は承認しないこと、外部からの過度な圧力は干渉とみなすこと、承認を取り消す可能性があることを示した。
 
-[^34]: [Winter Olympics Huang Yu-ting Wearing Chinese Team Uniform Causes Controversy, Sports Administration Promises Law Amendment](https://sports.ltn.com.tw/news/breakingnews/3826485) — Liberty Sports, records the Sports Administration determining on 2022-03-03 that Huang Yu-ting wearing the Chinese team uniform was inappropriate, suspending subsidies for two years and promising to amend the law.
+[^29]: [楊貴智／オリンピック・モデル：台湾人が海外で試合をすると「中華台北人」になるのか？](https://plainlaw.me/posts/chinesetaipei) — 法律白話文運動によると、『オリンピック憲章』に基づき、権限停止の条件は政府や機関による「国家オリンピック委員会の運営への妨害」であると分析。国民投票が通過しても自動的に権限停止には至らないとし、「名称変更投票＝自動的な出場停止」とする主張は過度な脅しであると指摘している。
 
-[^35]: [Tokyo Olympics Chinese Team Entry NHK Broadcast Directly Shouts Taiwan](https://www.cna.com.tw/news/firstnews/202107230371.aspx) — CNA 2021-07-23, records that at the 2020 Tokyo Olympics opening broadcast, NHK anchor directly used the Japanese "台湾です" (It is Taiwan) to rename the Taiwanese team when the announcer read "Chinese Taipei."
+[^30]: [賛否の票数が拮抗、東京五輪の名称変更案は否決](https://www.cna.com.tw/news/aipl/201811250026.aspx) — 中央社（票数は監察院および中央選挙委員会の公報の3つのソースで確認済み）によると、2018年11月24日、賛成4,763,086票（45.20%）、反対5,774,556票（54.80%）、投票率55.89%となり、名称変更案は否決された。
 
-[^36]: [Flags banned, signs ripped up: Why you can't mention Taiwan at the Olympics](https://www.nbcnews.com/news/world/flags-banned-taiwan-olympics-chinese-taipei-rcna165502) — NBC News, records that at the 2024 Paris Olympics men's doubles badminton gold medal match, a support banner reading "Taiwan" on the stands was snatched and torn up on the spot, Li Yang and Wang Chi-lin won gold.
+[^31]: [郭婞淳、公投の結果について](https://www.chinatimes.com/newspapers/20181127000668-260107) — 中国時報 2018-11-27。郭婞淳氏が「国民投票が否決されたことで、選手たちはより安心でき、このリスクを負わずに済む」と述べたことを記載しています。
 
-[^37]: [Chinese Taipei or Team Taiwan? Exploring Sport and National Identity in Contemporary Taiwan](https://taiwaninsight.org/2024/10/23/chinese-taipei-or-team-taiwan-exploring-sport-and-national-identity-in-contemporary-taiwan/) — Taiwan Insight, analyzes the trend of Taiwanese media and the public increasingly preferring the term "Team Taiwan" (Team Taiwan) over "Team China" after the Paris Olympics.
+[^32]: [黄郁婷、中国のユニフォームに関する論争に回答](https://news.cts.com.tw/cts/sports/202202/202202032070708.html) — 華視 2022-02-03。黄郁婷氏のFacebookの「スポーツはスポーツであり、競技の場においては国籍の分け隔てはない」（原文では「屆」は誤字）という言葉を引用しています。
 
-[^38]: [Chi Cheng Plans to Push Paris Olympics Renaming Referendum Again, Ma Ying-jeou: Will Only Harm Taiwan](https://newtalk.tw/news/view/2021-07-31/613312) — New Talk 2021-07-31, records that in July 2021, Chi Cheng announced pushing for the 2024 Paris Olympics Renaming Referendum again, former President Ma Ying-jeou opposed it saying "This referendum is meaningless, will only harm Taiwan, no benefit to Taiwan."
+[^33]: [黄郁婷：「まるでホームで戦っているかのようでした」](https://newtalk.tw/news/view/2022-02-08/706719) — 新頭殼 2022-02-08。北京冬季オリンピック終了後、黄郁婷氏が「会場の観客の熱気を感じて非常に感動しました。まるでホームで戦っているかのようでした」と述べたことを記載しています。
+
+[^34]: [冬季五輪での黄郁婷の中国ユニフォーム着用問題、スポーツ署が法改正を約束](https://sports.ltn.com.tw/news/breakingnews/3826485) — 自由体育。スポーツ署が2022-03-03に、黄郁婷氏の中国ユニフォーム着用は不適切であると判断し、2年間の補助金支給停止と法改正を約束したことを記載しています。
+
+[^35]: [東京オリンピックの中華台北入場時、NHKの放送で直接「台湾」と呼称](https://www.cna.com.tw/news/firstnews/202107230371.aspx) — 中央社 2021-07-23。2020年東京オリンピック開会式の放送中、司会者が「Chinese Taipei」と読み上げた際、NHKのアナウンサーが日本語で直接「台湾です」と述べ、台湾チームの名称を正したことを記載しています。
+
+[^36]: [Flags banned, signs ripped up: Why you can't mention Taiwan at the Olympics](https://www.nbcnews.com/news/world/flags-banned-taiwan-olympics-chinese-taipei-rcna165502) — NBC News。2024年パリオリンピックのバドミントン男子ダブルスの金メダル決定戦において、観客席にあった「Taiwan」と書かれた応援看板がその場で取り上げられ破られた際、李洋・王齊麟組が金メダルを獲得したことを記載しています。
+
+[^37]: [Chinese Taipei or Team Taiwan? Exploring Sport and National Identity in Contemporary Taiwan](https://taiwaninsight.org/2024/10/23/chinese-taipei-or-team-taiwan-exploring-sport-and-national-identity-in-contemporary-taiwan/) — Taiwan Insight。パリオリンピック後、台湾のメディアや民間において「中華台北」よりも「台湾チーム（Team Taiwan）」という呼称を好む傾向が強まっていることを分析しています。
+
+[^38]: [紀政、パリ五輪の名称是正に関する国民投票を再提案へ、馬英九氏は「台湾を害するだけ」と批判](https://newtalk.tw/news/view/2021-07-31/613312) — 新頭殼 2021-07-31。2021年7月に紀政氏が2024年パリオリンピックの名称是正に向けた国民投票を再度推進すると発表した際、馬英九前総統が「この国民投票には意味がなく、台湾を害するだけで、台湾にとって何の利益もない」と反対したことを記載しています。

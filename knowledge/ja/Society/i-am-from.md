@@ -1,23 +1,30 @@
 ---
-title: "I Am a Local: The 'Fellow Townsman' Fanpage's Backend is a Neihu Company and a Forgotten AI Prompt"
-description: "In February 2026, a local fanpage calling itself 'I Am a Taipei Person' left an unremoved AI instruction in its post: 'Remove sensitive words, strengthen Taiwanese local colloquialism.' Following this clue leads back to a Lin family-related enterprise in a building in Neihu, which uses AI to rewrite news from CTWANT and other media into a 'fellow townsman' tone, then distributes it in bulk across fanpages disguised as local entities from various counties and cities. It does not fabricate news; it repurposes real news. The problem lies in the unverifiable origin and capital flow. Meanwhile, Taiwan's most adept experts in cognitive warfare are urging caution against hasty labeling."
+title: '「私は〇〇人」：地元住民を装うファンページの裏側は、内湖の企業と消し忘れたAI指令だった'
+description: '2026年2月、「私は台北人」と名乗る地元系ファンページに残された、消し忘れたAI指令：「敏感な言葉を除去し、台湾の現地口語を強化せよ」。この手がかりを辿ると、内湖の一角にある林家の関連企業に突き当たる。彼らは中天やCTWANTのニュースを「地元住民」の口調に書き換え、各都市の住民を装ったページで拡散していた。偽ニュースは作らない、真実のニュースを転載する。問題は、その産地と資金流が追えないことだ。'
 date: 2026-06-05
+category: 'Society'
 tags:
   [
-    'Cognitive Warfare',
-    'Content Farm',
+    '認知戦',
+    'コンテンツファーム',
     'AI',
-    'Disinformation',
-    'Information Environment',
-    'Media Literacy',
-    'Local Fanpages',
+    '偽情報',
+    '情報環境',
+    'メディアリテラシー',
+    '地元系ファンページ',
   ]
 subcategory: '資訊環境'
 author: 'Taiwan.md'
-category: 'Society'
-readingTime: 12
+featured: false
 lastVerified: 2026-06-05
 lastHumanReview: false
+image: '/article-images/society/woo-fanpage.webp'
+imageAlt: '「私は高雄人」と「私は台北人」の2つのファンページが並んでいる。同じ「情報局」のキツネのアイコン、同じレイアウトを使用しており、プロフィール欄はすべてLIFE生活網へとリンクされている。'
+rationale:
+  why_this_hook: '用「一句忘了刪的 AI 指令」把抽象的資訊操弄，變成讀者每天滑到的具體在地粉專；全篇 anchor 是「你以為你在讀誰」。'
+  whats_excluded: '不下「這就是中共認知作戰」的單一歸因（金流未證實）；徵婚帳號案不政治化（證據指向殺豬盤詐騙）；2022「很多孩子走了」案不直接掛給「我是OO人」。'
+  where_it_hedges: '林憲明非中資（只查到「查不到」金流）；徵婚數據是單一公民 AI 分析、未經第三方查核；「每過一陣子」有 2025-12 前例但系統性起底是 2026-02 首次；治理真空已被 2024 打詐專法部分填補。'
+  whos_pushing_back: '業者可主張轉貼新聞、AI 改寫、原生廣告置入皆合法；王希、沈伯洋警告過度貼「認知作戰／網軍」標籤之害；旺中可主張「親中」是政治指控。'
 sporeLinks:
   - id: 124
     platform: 'threads'
@@ -28,211 +35,209 @@ sporeLinks:
     date: '2026-06-05'
     url: 'https://x.com/taiwandotmd/status/2062839725648703638'
 translatedFrom: 'Society/我是OO人.md'
-sourceCommitSha: ''
+sourceCommitSha: '21298a7ae'
 sourceContentHash: 'sha256:7528460cb857fc3b'
-translatedAt: '2026-06-14T16:37:40Z'
 sourceBodyHash: 'sha256:0b63d09474dfeccb'
-image: '/article-images/society/woo-fanpage.webp'
-featured: false
+translatedAt: '2026-10-11T01:05:40+08:00'
 ---
 
-> **30-Second Overview:** You have likely followed at least one local fanpage like "I Am a Kaohsiung Person" or "I Am a Taichung Person," which reposts night market news and weather updates, feeling like "us locals." In February 2026, someone caught an uncleaned AI instruction in a post on the "I Am a Taipei Person" fanpage. Following this thread back leads to a building on Neihu, a group of people surnamed Lin running a related enterprise, using AI to rewrite news from pro-China media into a "fellow townsman" tone, and then distributing it in bulk across fanpages disguised as locals from various counties and cities. The most ironic part is that it hardly fabricates news, so you cannot measure it with the ruler of "fact-checking."
+> **30秒概覧：** あなたもおそらく、「私は高雄人」「私は台中人」といった地元系ファンページを少なくとも一つはフォローしたことがあるだろう。夜市のニュースや天気予報をシェアし、「地元の仲間」のような感覚を与えるものだ。2026年2月、「私は台北人」の投稿の中に、消し忘れたAI指令が見つかった。この線を辿っていくと、台北市内湖区の一棟のビルに拠点を置く、林（リン）姓のグループによる関連企業に行き着く。彼らはAIを使い、親中メディアのニュースを「地元住民」の口調に書き換え、各都市の住民を装ったファンページを通じて大量に拡散していた。最も奇妙な点は、彼らはほとんど偽ニュースを作らないということだ。そのため、「真偽の検証」という尺度では彼らを捉えることができない。
 
-In February 2026, a fanpage calling itself "I Am a Taipei Person" posted what looked like an ordinary local image-text post. The real problem was a line of text remaining below the post: "**Remove sensitive words, strengthen Taiwanese local colloquialism**" [^1].
+2026年2月、「私は台北人」と名乗るファンページが、ごくありふれた地元の画像付き投稿を行った。しかし、本当の問題はその投稿の下に残されていた一行の言葉だった。「**敏感な言葉を除去し、台湾の現地口語を強化せよ**」[^1]。
 
-This is an instruction written for AI. It should have been deleted after generation, just as an author erases pencil marks on a draft before submission. But this time, someone slipped up and posted the instruction along with the finished product. The fanpage "Kaohsiung Good Day" (@takaogoodday) captured this image on February 19 and made a summary; two days later, Liberty Times, Newtalk, and Formosa TV followed up on the same day [^2]. A forgotten deletion revealed the entire backend operation.
+これはAIに向けた指令（プロンプト）である。本来であれば、生成が終わった後に削除されるべきものだ。著者が原稿を出す前に鉛筆の書き込みを消すのと同じである。しかし今回は、操作ミスによって指令が完成品と一緒に投稿されてしまった。ファンページ「高雄好過日」(@takaogoodday) は2月19日にこの画像をキャプチャし、まとめ記事を作成した。その2日後、自由時報、Newtalk、民視などが一斉に追随[^2]した。消し忘れた一行の言葉が、運用体制の裏側を白日の下にさらしたのである。
 
-![Fanpage "Kaohsiung Good Day" exposes "I Am OO Person and Their Production Origin," listing the operating company, content sources, and the residual AI instruction](/article-images/society/woo-prompt-takaogoodday.webp)
-_"Kaohsiung Good Day's_ 2026 February exposure summary: Lists the operating structure of LIFE Lifestyle Network, content mostly from CTWANT, the residual AI instruction "Remove sensitive words, strengthen Taiwanese local colloquialism," and marks the office location at Jihu Road, Neihu. (Source: Kaohsiung Good Day Threads, reported and reviewed citations)"
+![ファンページ「高雄好過日」が暴いた「私は〇〇人」シリーズとその産地：運営会社、コンテンツソース、および残されたAI指令のリスト](/article-images/society/woo-prompt-takaogoodday.webp)
+_ファンページ「高雄好過日」による2026年2月の調査まとめ：LIFE生活網の経営構造、中天メディアを主なソースとするコンテンツ、残されたAI指令「敏感な言葉を除去し、台湾の現地口語を強化せよ」、および内湖基湖路のオフィス所在地を示している。（出典：高雄好過日 Threads、報道・評論による引用）_
 
-> **📝 Curator's Note**
-> Pay attention to what this instruction says. "Remove sensitive words" assumes the original draft contains words that Taiwanese readers should not see. "Strengthen Taiwanese local colloquialism" assumes the final product should pretend to be written by Taiwanese. In other words, this is not a fanpage editor polishing text; it is a production line doing two things: erasing the origin label and then attaching a "local" label. The entire technique is usually hidden behind the finished product; this time, the manufacturing process leaked the filling itself.
+> **📝 キュレーター・ノート**
+> この指令が何を意味しているかに注目してほしい。「敏感な言葉を除去」とは、元の原稿に台湾の読者に見せるべきではない言葉が含まれていることを前提としている。「台湾の現地口語を強化」とは、完成品が台湾人の書いたもののように見せかけることを前提としている。言い換えれば、これはファンページの編集者が文章を整えているのではなく、一つの生産ラインが二つの作業を行っているのだ。すなわち、「産地のラベルを消し、その上に『地元』というラベルを貼り直す」作業である。この手法は通常、完成品の背後に隠されているが、今回は製造過程そのものが露呈してしまった。
 
-## The Backend is at Jihu Road Lane 10, Neihu
+## バックエンドは内湖基湖路十巷にあり
 
-Following the clue from "Kaohsiung Good Day" to check company registrations, the backends of these county/city fanpages converge to the same address: 5th Floor, No. 46, Jihu Road Lane 10, Neihu District, Taipei City [^1].
+「高雄好過日」の手がかりから法人登記を調べると、これら各都市のファンページの運営元は一つの住所に集約される：台北市内湖区基湖路10巷46号5階[^1]。
 
-Under this address operates a content business outwardly using the names "LIFE Lifestyle Network" (life.tw) and "US-based All Access Group." However, breaking down the commercial registration reveals that while it hangs one signboard outwardly, behind it is a group of companies. Jishuo Technology Co., Ltd., Unified Business Number 89977832, established in 1995, Chairman Lin Xianming; Bosite Technology Marketing Co., Ltd., established in 2005, person in charge Lin Xiuzi; Nianjie Technology Co., Ltd., established in 2011, person in charge Xu Yunting [^3]. The three persons in charge are different, but they rely on Lin Xianming, Zhang Yujia, Lin Xiuzi, and Lin Zhaofeng, four people, rotating names in each other's board of directors and supervisors list, combined with the same address, weaving a cross-shareholding group of the Lin family. It is not a single figurehead named Lin Xianming; it is a family web.
+この住所に紐付いているのは、「LIFE生活網」(life.tw) および「米商全通集団（美商全通集團）」の名義で展開されるコンテンツビジネスである。しかし、工商登記を詳しく見ると、表向きの看板とは裏腹に、背後には複数の企業が存在することがわかる。績碩科技股份有限公司（統編 89977832、1995年設立、董事長：林憲明）、波仕特科技行銷股份有限公司（2005年設立、責任者：林秀子）、年頡科技股份有限公司（2011年設立、責任者：徐韻婷[^3])。三社の責任者はそれぞれ異なるが、林憲明、張玉佳（ジャン・ユージャ）、林秀子、林兆烽（リン・チャオフォン）の4人が互いの役員名簿に名を連ねており、同じ住所を用いることで、林家による交叉持株グループを形成している。これは単なる林憲明という個人の名義ではなく、一族によるネットワークなのだ。
 
-![Commercial registration of Jishuo Technology Co., Ltd., representative Lin Xianming, board members are four Lin family members](/article-images/society/woo-jishuo-registry.webp)
-_Jishuo Technology (Unified Business Number 89977832) commercial registration: Representative Lin Xianming, registered address 5th Floor, No. 46, Jihu Road Lane 10, Neihu, board of directors and supervisors list consists of Lin Xianming, Zhang Yujia, Lin Zhaofeng, and Lin Xiuzi, four Lin family members rotating names. (Source: opengovtw, data from Ministry of Economic Affairs Commercial and Industrial Registration Public Disclosure)_
+![績碩科技股份有限公司の工商登記：代表者は林憲明、役員は林家の一族4名](/article-images/society/woo-jishuo-registry.webp)
+_績碩科技（統編 89977832）の工商登記：代表者は林憲明、登録住所は内湖基湖路10巷46号5階。役員名簿には林憲明、張玉佳、林兆烽、林秀子の林家メンバー4名が名を連ねている。（出典：opengovtw、経済部商工登記公示資料）_
 
-The capability combination of this web is more noteworthy than its low profile. Bosite hangs the brand name POLLSTER outwardly, specializing in public opinion surveys [^4]. That is to say, this group produces "public opinion data" with one hand. The group's recruitment page also admits it is the "only unit in the country simultaneously operating social media websites, professional market research, news portal websites, blog broadcasting networks, SEO website optimization, and Facebook platform marketing" [^1], holding nearly a hundred fan pages as "distribution channels" with the other hand. And Nianjie Technology's recruitment text writes more plainly: "Use AI text, AI images, AI video tools to produce interesting content, assisting **over 100 fanpages** in posting and material creation" [^1]. Producing data, mass-producing content, and batch distributing—all three things are in the hands of the same group at the same address.
+このネットワークの能力は、その控えめな佇まい以上に注目に値する。波仕特が展開するブランドはオンライン市場調査サイト「POLLSTER」であり、専門的な世論調査を行っている[^4]。つまり、このグループは一方では「世論データを生産」しているのだ。グループの採用ページには、「SNS、専門市場調査、ニュースポータル、ブログネットワーク、SEO最適化、Facebookマーケティングを同時に運営する国内唯一の組織である」と記されている[^1]。そしてもう一方で、100近いファンページを「配信チャネル」として握っている。年頡科技の採用文はさらに直截的だ。「AIテキスト、AI画像、AI動画ツールを用いて興味深いコンテンツを制作し、**100を超えるファンページ**の投稿と素材制作を支援する」[^1]。データの生産、コンテンツの量産、そして大量配信。これら三つの工程が、同じ住所、同じ人々によって行われている。
 
-As for the signboard "US-based All Access Group," no company named "All Access" can be found registered in Taiwan, and the "ALL ACCESS HOLDING GROUP LTD." hanging at the website footer cannot find a corresponding entity in US state registration records [^1]. "US-based" is more like a sticker pasted on the door, essentially the same thing as the "local" characters on those county/city fanpages.
+なお、「米商全通集団」という看板についてだが、台湾には「全通」という名称の登記企業は見当たらず、ウェブサイトの末尾にある「ALL ACCESS HOLDING GROUP LTD.」も、米国の各州の登記データには該当する実体が見当たらない[^1]。「米商（米国企業）」という肩書きは、入り口に貼られたステッカーのようなものであり、これら各都市のファンページが掲げる「地元」という言葉と、本質的には同じものである。
 
-![LIFE Lifestyle Network service page lists platform advantages such as "Native Advertising Placement, Natural and Not Obtrusive"](/article-images/society/woo-aams-services.webp)
-_LIFE Lifestyle Network service page under Jishuo Technology lists platform advantages clearly: "Millions of monthly traffic," "Precise segmented marketing," and "Native advertising placement, natural and not obtrusive"—meaning it can stuff content into your feed for the sponsor. (Source: aams.tw)_
+![LIFE生活網のサービスページには「ネイティブ広告挿入、自然で違和感なし」などのプラットフォームの強みが列挙されている](/article-images/society/woo-aams-services.webp)
+_績碩科技の名義であるLIFE生活網のサービスページ。プラットフォームの強みとして「月間100万トラフィック」「精密なセグメントマーケティング」「ネイティブ広告挿入、自然で違和感なし」が明記されている。これは、出資者のためにコンテンツをユーザーのタイムラインに紛れ込ませることができることを意味する。（出典：aams.tw）_
 
-> **✦** It produces public opinion with one hand, mass-produces content with AI with the other, and the third hand hangs the content on nearly a hundred fanpages disguised as fellow townspeople for bulk distribution.
+> **✦** 彼らは一方では世論調査を行って民意を生産し、もう一方でAIを使ってコンテンツを量産し、第三の手でそれらを地元住民を装った100近いファンページへと大量に流し込んでいる。
 
-## CTWANT News, Dressed in a Fellow Townsman's Tone
+## 中天のニュースを、地元住民の口調へ
 
-When you click on the "news" reposted by "I Am a Kaohsiung Person," you think you are reading local Kaohsiung media. In reality, most of this content comes from the CTWANT Group and CTWANT [^1].
+「私は高雄人」が転載した「ニュース」をクリックしたとき、あなたは高雄の地元メディアを読んでいるつもりになるだろう。しかし実際には、これらのコンテンツの多くは中天グループおよびCTWANTに由来するものだ[^1]。
 
-CTWANT's issuing unit is Wangdao Wangtai Media Co., Ltd., belonging to the Wang Wang Zhongshi Media Group along with CTWANT Television [^5]. The political color of this group is not a secret. CTWANT News Channel was found to have violated regulations 25 times by the NCC between 2014 and 2020, with cumulative fines exceeding NT$11.53 million, the highest fine amount for a TV station; in November 2020, the NCC's seven commissioners unanimously resolved not to renew the license, and CTWANT stopped broadcasting in December, shifting to YouTube and the internet [^19]. Earlier, a 2019 report by the UK's _Financial Times_ quoted statements from Wang Zhong's journalists, stating that the Chinese State Council Taiwan Affairs Office once made phone calls to issue editorial instructions, demanding support for specific candidates [^5].
+CTWANTの発行主体は王道旺台媒体股份有限公司であり、中天電視と同じ旺旺中時媒体集団に属している[^5]。このグループの政治的色彩は公然の秘密である。中天新聞台は2014年から2020年の間に、NCC（国家通信伝播委員会）から計25回の違反認定を受け、累計罰金額は1,153万台湾ドルを超え、最も多額の制裁を受けたテレビ局となった。2020年11月、NCCの委員7名の一致した決議により免許更新が認められず、中天は12月に放送を停止し、YouTubeやインターネットへと活動の場を移した[^19]。さらに遡れば、英国の『フィナンシャル・タイムズ』は2019年の記事の中で、旺中傘下の記者の言葉を引用し、中国の国台弁（国務院台湾事務弁公室）が特定の候補者を支持するよう編集指示を出した電話をかけたことがあると報じている[^5]。
 
-> **📝 Curator's Note**
-> There is a clever time lag hidden here. When CTWANT was a TV station, it was regulated by the NCC; violations resulted in fines, and eventually, the license was revoked. However, when its content is rewritten by LIFE into "local image-text" using AI and distributed on "I Am a Kaohsiung Person," readers see fellow townspeople, not CTWANT; the source is washed away. After CTWANT went offline and shifted to the internet in 2020, it had already left the jurisdiction of the NCC. A piece of content originally under regulatory supervision, bypassing the AI process, finally lands on a fanpage where no competent authority can manage it. Every step of this path moves it further away from "accountability."
+> **📝 キュレーター・ノート**
+> ここには巧妙な「タイムラグ」が隠されている。中天がテレビ局であったときはNCCの規制下にあり、違反すれば罰せられ、最終的には免許を取り消された。しかし、そのコンテンツがLIFEによってAIで「地元の図解投稿」へと書き換えられ、「私は高雄人」に掲載されて拡散されるとき、読者が目にするのは「地元住民」であり、「中天」ではない。ソース（情報源）は洗浄されているのだ。そして2020年に中天がネットへ移行した後、彼らはすでにNCCの管轄から外れている。規制下にあったはずのコンテンツが、AIという工程を経ることで、最終的にはいかなる監督機関も介入できないファンページへと着地する。この経路のあらゆるステップが、彼らを「責任追及」から遠ざけているのである。
 
-![National Communications Commission Yanping South Road Office](/article-images/society/ncc-yangping-office.webp)
-_CTWANT News Channel was fined over NT$11.53 million by the NCC between 2014 and 2020; after being taken offline due to non-renewal of license in 2020, it shifted to the internet, leaving the jurisdiction of the communications regulatory authority. Photo of NCC Yanping South Road Office. (Photo: Solomon203 / CC BY-SA 3.0)_
+![国家通信伝播委員会 延平南路オフィス](/article-images/society/ncc-yangping-office.webp)
+_中天新聞台は2014年から2020年の間にNCCから計1,153万台湾ドル以上の罰金を科された。2020年に免許更新が認められず放送停止した後、ネットへと移行し、通信伝播監督機関の管理から外れた。写真はNCC延平南路オフィス。（撮影：Solomon203／CC BY-SA 3.0）_
 
-Why use AI for this process instead of manual clipping? Scholar Wang Hong'en provided a key criterion. When studying similar techniques, he pointed out that deliberately "**using AI to rewrite articles**" is "**using AI with the purpose of avoiding investigation and detection**" [^7]. Because identical content repeatedly copied and pasted will be caught by platforms as homogeneous, leading to reduced reach. AI rewriting makes every piece look different, smoothing out the fingerprints of the origin. In this usage, AI is a weapon against detection: it automates and scales the "washing of origin," saving even the cost of manual copying.
+なぜこの工程に、手作業の切り貼りではなくAIを用いるのか。学者である王宏恩（ワン・ホンエン）氏は、重要な判断基準を提示している。彼が類似の手法を研究した際、意図的に「AIを使って記事を書き換える」ことは、「**調査や検知を回避することを目的としたAIの使用**」であると指摘した[^7]。全く同じ内容を繰り返しコピー＆ペーストすれば、プラットフォーム側に同一ソースとして検知され、リーチ（拡散力）が低下してしまう。AIによる書き換えは一記事ごとに異なる形になるため、産地の「指紋」が磨り減らされて消えてしまうのだ。この用法において、AIはアンチ・ディテクション（検知回避）の武器である。それは「産地洗浄」を自動化・規模化させ、手作業による書き写しのコストさえも削減する。
 
-## Before Exposure, After Exposure
+## 露出の前、露出の後
 
-"Every now and then, the controversy of 'I Am OO Person' fanpages is mentioned," this is the opening sentence of "Kaohsiung Good Day's" exposure article [^2]. This sentence is not rhetoric.
+「定期的に『私は〇〇人』シリーズの論争が持ち上がることになる」――これは「高雄好過日」の調査記事の冒頭の一文である[^2]。これは単なる修辞ではない。
 
-At the end of December 2025, the military issue fanpage "New 27th Brigade" had already named "I Am a Taipei Person" and "I Am a Kaohsiung Person," stating that their "content is almost entirely news written by AI based on current events, paired with AI-generated images," and "all openings and formats are almost identical," suspecting behind them "organized actions for upcoming election public opinion operations" [^23]. This was about two months before the systematic exposure in February 2026; at that time, no one had pulled the thread to that company in Neihu.
+2025年12月末には、軍事トピックを扱うファンページ「新・二七部隊」がすでに「私は台北人」「私は高雄人」を名指ししていた。それらは「コンテンツのほとんどが時事問題に基づきAIで執筆されたニュースであり、AI生成画像が添えられている」「すべての冒頭とフォーマットがほぼ一致している」とし、背後に「今後の選挙における世論操作を目的とした組織的な行動」があるのではないかと疑っていた[^23]。これは2026年2月に体系的な調査が行われる約2ヶ月前の出来事であり、当時はまだ内湖のあの企業へと線を繋げた者は誰もいなかった。
 
-And after being exposed in February, this production line did not stop. In March 2026, the same series of fanpages issued AI-generated fake images, spreading rumors that Taiwanese fans, after watching a game at Tokyo Dome, left "areas piled with bento boxes, beverage cups, plastic bags, and other garbage," and "female restrooms were a mess," which was exposed as coming from the same source [^1]. A content production line already named by national media continued to operate normally within a month after exposure; this itself illustrates one thing: no mechanism can stop it.
+しかし、2月の露出後も、この生産ラインは止まらなかった。2026年3月、同じシリーズのファンページがAI生成による偽画像を発信した。台湾のファンが東京ドームでの試合観戦後に「エリアの地面が弁当や飲料カップ、レジ袋などのゴミで溢れていた」「女子トイレがひどい状態だった」というデマを流し、それが同一ソースであることが暴かれた[^1]。全国メディアに名指しされたコンテンツ生産ラインが、露出からわずか1ヶ月以内に通常通り稼働している事実は、一つのことを物語っている。すなわち、それを止めることができるメカニズムは存在しないということだ。
 
-## Another "She" in the Same Ecosystem
+## 同じエコシステムにおける、もう一つの「彼女」
 
-In June 2026, another wave of seemingly completely different things emerged on Taiwan's social media: a large number of matchmaking accounts, with the self-introduction "In Taiwan, only marrying Taiwanese people."
+2026年6月、台湾のSNS上には全く異なるものが出現した。大量の婚活アカウントである。プロフィール欄には一律で「台湾在住、台湾人とだけ結婚したい」と書かれている。
 
-A citizen account ctchart.lab using AI tools for data analysis compiled a set of numbers: 252 accounts, 458 posts, with 99.6% concentrated in just three days from June 2 to June 4; at 10:37:53 AM on June 4, nine accounts posted in the same second; "simultaneous posting in the same second" occurred 90 times within three days; 32 sets of self-introductions were identical; the accounts' "factory specifications" were highly consistent: 100% single females, 98% marked as having no children, age concentrated between 30 and 49 years old, 99.6% of BMI not exceeding 20.5, 90 with a height of 165 cm [^16].
+AIツールを用いてデータ分析を行う市民アカウント `ctchart.lab` は、ある数字をまとめた。252のアカウント、458の投稿。そのうち99.6%が6月2日から4日の3日間に集中して爆発的に増加していた。6月4日午前10時37分53秒には、9つのアカウントが全く同じ秒に投稿しており、3日間でこのような「同時秒投稿」は90回も発生した。プロフィールの文言が寸分違わず一致するグループが32組。アカウントの「スペック」も高度に一致している：100%独身女性、98%が子供なしと記載、年齢層は30〜49歳に集中、99.6%のBMIが20.5以下、身長165cmの者が90人もいる[^16]。
 
-The most critical column is geographic location. Of the 252 accounts, only 25 had "account location" marked: 21 from China, 3 from Pakistan, 1 from the US—Taiwan, 0. The remaining 227 were all hidden [^16].
+最も決定的な項目は地理的所在地だ。252のアカウントのうち、「アカウントの所在地」を表示しているのはわずか25個であった。中国が21個、パキスタンが3個、米国が1個――台湾は「0」であった。残りの227個はすべて非表示となっていた[^16]。
 
-> **📝 Curator's Note**
-> Seeing the elements "China IP + Pretending to be Taiwanese + Only Marrying Taiwanese," the most natural reaction is to blurt out "Cognitive Warfare." But the evidence actually points to another direction. What these accounts are truly doing is guiding people to add LINE for "sincere dating," and directing targets off the platform is the fingerprint of "Pig Butchering Scam" (Sha Zhu Pan) fraud. Political trendsetting wants to keep people on the platform to wash comments and boost volume; it would never take people off-platform to LINE. Looking at geography: Pakistan is not a typical distribution of political net armies, but it is a known location of transnational scam parks: in 2026, Pakistani police raided a scam center in Faisalabad, arresting 149 people, 48 of whom were Chinese nationals [^21]. The same shell does not necessarily contain the same organism.
+> **📝 キュレーター・ノート**
+> 「中国IP ＋ 台湾人を装う ＋ 台湾人とだけ結婚したい」という要素を見たとき、反射的に出てくる言葉は「認知戦」だろう。しかし、証拠は別の方向を指し示している。これらのアカウントが実際に行っているのは、LINEへと誘導して「真剣な出会い」を謳うことだ。ターゲットをプラットフォームの外へ連れ出す手法は、「ロマンス詐欺（殺猪盤）」の典型的な特徴である。政治的な世論操作の目的は、人々をプラットフォーム内に留めてコメント欄を操作させ、声量を稼ぐことであり、外部のLINEへ連れて行くことではない。地理的分布を見ても、パキスタンは政治的なネット工作員の典型的な分布地ではないが、既知の国際詐欺拠点の所在地である。2026年、パキスタンの警察はファイサラバードの詐欺センターを摘発し、149人を逮捕したが、そのうち48人が中国籍であった[^21]。同じ「殻」であっても、中身が必ずしも同じ生物とは限らないのだ。
 >
-> It needs to be clarified: The number of these 252 accounts was currently only produced by one citizen using AI via ctchart.lab, without third-party verification. It is a clue worth pursuing, not yet a conclusion.
+> 補足しておく必要がある。これら252のアカウントに関する数字は、現時点では `ctchart.lab` という一人の市民がAIを用いて算出したものであり、第三者によるファクトチェックを経ていない。これは追跡すべき手がかりではあるが、確定事項ではない。
 
-Placing the matchmaking case in this article is not because it is the same group as "I Am OO Person"; they are likely two different things. It is placed here because it shares the same outer shell logic with "I Am OO Person": a pleasant, harmless, "local" labeled identity, followed by an invisible backend. The difference lies only in what the backend wants to take from you. Seeing China IP and shouting "Cognitive Warfare," or seeing fellow townsman tone and believing it is a fellow townsman, are actually the same kind of laziness.
+この婚活詐欺の件をこの記事に入れたのは、それが「私は〇〇人」と同じグループだからではない。おそらく別物だろう。これを入れた理由は、「私は〇〇人」と共通する「外殻のロジック」を持っているからだ。すなわち、「好感を持たれやすく、無害で、『地元』というラベルを貼った身分」の背後に、見えないバックエンドが存在しているということだ。違いは、そのバックエンドがあなたから何を奪おうとしているかにある。「中国IPだから認知戦だ」と決めつけることと、「地元住民の口調だから地元の人だ」と信じ込むことは、実は同じ種類の思考停止なのである。
 
-## "Coordinated Behavior" Does Not Equal "Cognitive Warfare"
+## 「協同行動」は「認知戦」を意味しない
 
-The academic term that best fits "I Am OO Person" is "Coordinated Behavior."
+「私は〇〇人」に最も当てはまる学術用語は、「協同行動（Coordinated Behavior）」である。
 
-The Taiwan Information Environment Research Center (IORG) defines it as: "The behavior of repeatedly publishing identical or highly similar content, or the same links, within a short time on news media, social media, and instant messaging platforms" [^6]. Note the restraint in this definition: it only describes "behavior," not assuming behind it is foreign forces, nor assuming malice. Nearly a hundred fanpages with consistent formats synchronously reposting the same content fits the characteristics of "Coordinated Behavior," but "Coordinated Behavior" itself is only a neutral behavioral marker.
+台湾のインフォメーション・エンバイロメント研究センター（IORG）は、これを次のように定義している。「ニュースメディア、ソーシャルメディア、即時通信プラットフォームにおいて、短時間に同一または極めて類似したコンテンツ、あるいは同一のリンクを繰り返し投稿する行為」[^6]。この定義の抑制された表現に注目してほしい。これはあくまで「行為」を記述するものであり、背後に外国勢力がいると決めつけることも、悪意があると決めつけることもしない。フォーマットが一致する100近いファンページが同時に同じ内容を転載することは「協同行動」の特徴に合致するが、「協同行動」自体は中立的な行為のラベルに過ぎない。
 
-> **📝 Curator's Note**
-> The words most easily abused in Taiwan in recent years are "Cognitive Warfare" and "Net Army." IORG researcher Wang Xi said a heavy word: "The element constituting a 'Net Army' is the existence of a 'monetary consideration' relationship"; if "whenever you dislike a discourse you put on the 'Net Army' hat... it is very dangerous for Taiwan's public discussion," because "casually accusing cognitive warfare is exactly what information manipulators want to see," the more you stick labels randomly, the better it is for the real net army to hide [^8]. Wearing out the word is equivalent to helping the enemy clear a larger camouflage area.
+> **📝 キュレーター・ノート**
+> ここ数年、台湾で最も誤用されている言葉が「認知戦」と「ネット工作員（網軍）」だ。IORGの研究員である王希（ワン・シー）氏は、厳しい言葉を投げかけている。「『ネット工作員』を構成する要素は『金銭的対価』関係の有無である」。もし「自分が気に入らない論説に対してすぐに『ネット工作員』の帽子を被せるようなことがあれば……それは台湾の公共討論にとって非常に危険である」と。なぜなら、「安易に認知戦だと指弾することは、情報操作者が最も望んでいることだからだ」。ラベルを乱用すればするほど、本物の工作員は隠れやすくなってしまう[^8]。言葉を使い潰すことは、敵のためにさらに大きな迷彩を用意してやることと同じなのだ。
 
-Even the person with the least reason to speak for this technique refuses simple attribution. In his 2021 TSSCI paper on Chinese cognitive warfare, Shen Bo-yang drew a "Diamond Model," laying out the initiators of information manipulation on a coordinate. In the "Economic Motivation" box, he clearly lists "commercial content farms, general YouTubers/streamers, fanpage administrators"; in the "Political Motivation" box, only then come the National Security Bureau, PLA, State Council Taiwan Affairs Office, Publicity Department, and CAC [^9]. He wrote clearly in the paper: "Initiators who confuse the public's cognitive system are not limited to foreign forces" [^9]. Motivation is a continuous spectrum from commercial to political, with various "helpless" roles standing in the middle.
+この手法を擁護する理由を持たない者でさえ、単純な帰属を拒んでいる。沈伯洋（シェン・ボーヤン）氏は、2021年の中国の認知戦に関する研究論文（TSSCI）において、「ダイヤモンド・モデル」を描き、情報操作の主体を座標上に展開した。「経済的動機」の枠には、「商業的なコンテンツファーム、一般的なYouTuber／配信者、ファンページ管理者」を明確に列挙している。一方で「政治的動機」の枠にこそ、国安部、解放軍、国台弁、中宣部、および網信弁が位置づけられている[^9]。彼は論文の中で明記している。「大衆の認知体系を混乱させる主体は、外国勢力に限られない」[^9]。動機は商業から政治へと続く連続的なスペクトラムであり、その中間には様々な「やむを得ない事情を持つ」役割が存在している。
 
-Even Meta thinks so. In its 2020 official statement, it wrote that when handling "coordinated inauthentic behavior," the platform "looks at behavior, not content, regardless of who is behind it, what was posted, whether foreign or domestic" [^20], and acknowledged that coordination and authenticity are two spectra, not black-and-white switches. From Taiwan's researchers to the world's largest social platform, the same admonition is reached: Look clearly first, then define.
+Meta自身も同様に考えている。2020年の公式説明において、プラットフォームが「協同的な虚偽行為（CIB）」に対処する際、「見ているのは内容ではなく行為である。背後に誰がいようと、何を投稿していようと、それが国内か国外かは関係ない」[^20]と述べており、協同性と真実性は白黒はっきりしたスイッチではなく、二つのスペクトラムであることを認めている。台湾の研究者から世界最大のソーシャルプラットフォームに至るまで、導き出された結論は同じだ。「まず事実を確認し、それから定義を下せ」ということである。
 
-## Not Fake News Does Not Mean No Problem
+## 偽ニュースではないことは、問題がないことを意味しない
 
-If you use the ruler of "fact-checking" to measure "I Am OO Person," you will measure an awkward result: it basically measures nothing.
+もしあなたが「真偽の検証」という尺度で「私は〇〇人」を測ろうとするなら、困った結果になるだろう。その尺度では、彼らを捉えきれないのだ。
 
-Because it mostly reposts real news. The content reported by CTWANT and CTWANT is not necessarily fake; after AI rewriting, the factual level often withstands checking. Chung Cheng University's Huang Junru distinguished two easily confused terms: _disinformation_ is "malicious information," intentionally causing harm; _misinformation_ is "incorrect information," an unintentional error; the biggest difference lies in intent [^10]. By this standard, "I Am OO Person" likely counts as neither, because it does not operate on "content being false."
+なぜなら、彼らが転載しているものの多くは「真実のニュース」だからだ。中天やCTWANTが報じている内容は必ずしも偽りではない。AIで書き換えられた後でも、事実関係については検証に耐えうることが多い。鄭中大大学の黄俊儒（ファン・ジュンルー）氏は、混同されやすい二つの言葉を区別している。disinformationは「悪意ある情報（悪訊息）」であり、意図的に危害を加えるもの。misinformationは「誤った情報（錯訊息）」であり、不注意によるミスである。両者の最大の違いは「意図」にある[^10]。この基準に従えば、「私は〇〇人」はどちらにも該当しない可能性が高い。なぜなら、彼らは「内容が偽であること」によって運営されているのではないからだ。
 
-Its problem lies in another layer. IORG splits information manipulation into three types; besides "fact manipulation," there is another called "source manipulation" [^6]: the source is hidden, disguised. "I Am OO Person" does exactly this: washing away the Wang Zhong series origin, attaching the identity of fellow townspeople. The content is real, but your judgment on "who this is, why you are shown it" is tampered with. IORG has an even colder metaphor: even if no one reads a single post, these contents are "accumulating local keyword inventory," serving as "fertilizer for future fake news" [^6].
+問題はその別の層にある。IORGは情報操作を三つのタイプに分類している。「事実の操作」に加え、「ソース（情報源）の操作」が存在する[^6]。つまり、情報源が隠蔽され、偽装されることだ。「私は〇〇人」が行っているのはまさにこれである。旺中系の産地を洗浄し、「地元住民」という身分を貼り付ける。内容は真実だが、「これは誰が、なぜあなたに見せているのか」という判断が操作されているのだ。IORGはさらに冷徹な比喩を用いている。たとえ個々の投稿に誰も注目しなかったとしても、これらのコンテンツは「地元のキーワード在庫を蓄積」しており、それは「将来の偽ニュースのための『肥料』」となるのである[^6]。
 
-And in all reports, the same reservation appears repeatedly: "**Summarizing currently public information, it is impossible to understand where the clients and capital flow of this series of companies come from**" [^1]. This sentence is the safety valve this entire article must hold. There is no evidence showing Lin Xianming is Chinese capital or a CCP agent; all that has been investigated is "cannot be found," not "found." Existing evidence only supports a low-key Neihu local marketing group, a secondary distribution channel for pro-China media, an AI localization process, and an unclear capital flow. It claims it can "insert specific content" for sponsors [^2], but who that sponsor is, no one can find.
+そして、すべての報道において繰り返し現れる、ある保留事項がある。「**現時点で公開されている情報を総合しても、これら一連の企業の顧客および資金流がどこから来ているのかを把握することはできない**」[^1]。この言葉こそが、この記事が守るべき安全弁である。林憲明氏が中資であるとか、共産党の代理人であるといった証拠は一切ない。調査で判明したのはすべて「分からなかった」ことであり、「分かった」ことではない。現存する証拠が裏付けているのは、内湖の控えめなローカルマーケティング集団、親中メディアの二次配信チャネル、AIによる地元化工程、そして不透明な資金流である。彼らは出資者のために「特定のコンテンツを挿入（置入）」できると謳っているが[^2]、その出資者が誰であるかは、誰も突き止めていない。
 
-## A Forgotten Prompt Editor, and a National-Level Content Farm
+## 消し忘れたプロンプトを持つ編集者と、国家級のコンテンツファーム
 
-To see the position of "I Am OO Person" clearly, the best method is to place it alongside a true national-level operation.
+「私は〇〇人」の位置付けを理解する最善の方法は、それを本物の「国家級の操作」と比較することだ。
 
-In February 2026, Wang Hong'en exposed another case. A content farm called "Borderless Media," with a website hosted in Qinhuangdao, Hebei, "has direct connections to the Propaganda Department and the CAC." Its residual AI instruction was written like this: "For Taiwan users, use Traditional Chinese, re-edit this article, word count controlled at 500, retain the original article's opening part, do not change the original article's historical truth" [^7]. The "For Taiwan users," "do not change the original article's historical truth" in the instruction is a top-down, politically motivated production line speaking.
+2026年2月、王宏恩氏は別の事例を暴露した。「無辺界媒体（無邊界媒體）」というコンテンツファームであり、ウェブサイトは河北省秦皇島に設置され、「宣伝部や網信弁と直接的な繋がりがある」というものだ。そこに残されていたAI指令はこう書かれていた。「台湾のユーザーに向けて、繁体字を用いてこの記事を再編集せよ。文字数は500字以内に抑え、原文の冒頭部分は維持し、原文の歴史的事実性を変えないこと」[^7]。指令に含まれる「台湾のユーザーに向けて」「原文の歴史的事実性を変えない」という言葉は、トップダウンで行われる政治的目的を持った生産ラインの言葉である。
 
-Placing this instruction side-by-side with "I Am OO Person's" "Remove sensitive words, strengthen Taiwanese local colloquialism," the difference is obvious at a glance. Wang Hong'en himself separates the two clearly; he specifically reminds that some cases "are not just a domestic打工小编 forgetting to delete the prompt" [^7], implying that some cases are just that. One is a local business in a Neihu company greedy for traffic; one is a national-level operation connected to the CAC; one's prompt handles "local tone," one's prompt handles "historical truth." They can be compared on the same gray spectrum, but absolutely cannot be confused.
+この指令を「私は〇〇人」の「敏感な言葉を除去し、台湾の現地口語を強化せよ」と並べてみると、その差は一目瞭然だ。王宏恩氏自身も両者を明確に区別しており、いくつかの事例は「単なる国内のある編集者がプロンプトを消し忘れただけではない」[^7]と特に注意を促している。つまり、ある事例は「単にそれだけ」なのだ。一方は内湖の企業がトラフィックを求めて行うローカルビジネスであり、もう一方は網信弁へと繋がる国家級の操作である。一方のプロンプトは「地元の口調」を扱っており、もう一方は「歴史的事実性」を扱っている。これらは同じグレーなスペクトラム上で比較することはできても、決して混同してはならない。
 
-![Qinhuangdao Content Farm Post Residual AI Instruction, Requesting "For Taiwan Users, Use Traditional Chinese, Re-edit This Article"](/article-images/society/woo-qinhuangdao-prompt.webp)
-_Control Group: Wang Hong'en exposed Qinhuangdao "Borderless Group" post residual AI instruction—"For Taiwan users, use Traditional Chinese, re-edit this article, word count controlled at 500, retain the original article's opening part, do not change the original article's historical truth." This is a national-level operation connected to the CAC, completely different from "I Am OO Person's" local profit-making prompt. (Source: Voice Tank / Wang Hong'en, reported and reviewed citations)_
+![秦皇島コンテンツファームの投稿に残されたAI指令：「台湾のユーザーに向けて、繁体字を用いてこの記事を再編集せよ」](/article-images/society/woo-qinhuangdao-prompt.webp)
+_対照群：王宏恩氏が暴露した秦皇島の「無辺界集団」の投稿に残されたAI指令――「台湾のユーザーに向けて、繁体字を用いてこの記事を再編集せよ。文字数は500字以内に抑え、原文の冒頭部分は維持し、原文の歴史的事実性を変えないこと」。これは網信弁に繋がる国家級の操作であり、「私は〇〇人」のようなローカルな営利目的のプロンプトとは決定的に異なる。（出典：思想タンク／王宏恩、報道・評論による引用）_
 
-Do not connect the thread too quickly; this is the lesson most worth remembering in recent years. In 2022 during the pandemic, after celebrity Guo Hanyun relayed "many children just left," IORG found at least 25 fanpages posting identical "Many Children Left!" within 10 seconds, with the first comment all linking to the same content farm [^11]; that was a textbook-level coordinated operation. But even then, Storm Media's fact-check reminded that mainstream media reports were actually earlier than the clustering push of those fanpages; "many fanpages posting simultaneously" does not necessarily equal an information war [^12]. Moreover, those named fanpages (Ai Jingyan, BuzzHand, that string) were not equated with "I Am OO Person" by any public data. Kaohsiung Good Day said this series also posted similar content during the pandemic, but did not provide screenshots or direct links. Looking similar does not mean it is the same group.
+「線を急いで繋げすぎないこと」は、ここ数年で最も肝に銘じるべき教訓である。2022年のパンデミック時、芸能人の郭彦均（グオ・イェンジュン）氏が「多くの子供たちがこうして去っていった」と伝えた後、IORGは少なくとも25のファンページが10秒以内に全く同じ「多くの子供たちが去りました！」という投稿を行ったことを突き止めた。最初のコメントはすべて同一のコンテンツファームへと繋がっていた[^11]。それは教科書的な協同操作であった。しかし、その際も『風傳媒』のファクトチェックは、主流メディアの報道がそれらのファンページの集団投稿よりもずっと早かったことを指摘しており、「多くのファンページが同時に投稿すること」が必ずしも情報戦を意味するわけではないと警鐘を鳴らした[^12]。また、名指しされたファンページ（「愛経験」「BuzzHand」など）と「私は〇〇人」との間に公開されたデータによる関連性は認められていない。「高雄好過日」はパンデミック期間中にも同様のコンテンツが投稿されていたと述べているが、スクリーンショットや直接的なリンクは示されていない。似ているからといって、同一人物であるとは限らないのだ。
 
-It is worth mentioning that the matter of "fake local identity" has a purer political version in Taiwan. Taiwan Democracy Lab recorded during the 2024 election, a foreign group used hundreds of fake accounts to operate life fanpages like cameras, cooking, and art; fanpage names and categories were all life types, but post content only related to Taiwan politics and elections, and "all administrators' locations were located abroad" [^18]. That was "foreign fake accounts disguising as local." "I Am OO Person's" disguise layer is actually one step deeper: it is "real local entity + local media content + AI-enhanced local tone," using regional identity like "I Am a Kaohsiung Person" as turf, harder to dismantle than a fake cooking fanpage.
+特筆すべきは、「偽の地元身分」というものについて、台湾にはもっと純粋な政治版が既に存在したということだ。台湾民主実験室（Taiwan Lambda）の記録によれば、2024年の選挙期間中、ある外国勢力がカメラ、料理、芸術といったライフスタイル系のファンページを数百のアカウントで運営していた。ページ名やカテゴリーは生活系であったが、投稿内容は台湾の政治と選挙に関することのみであり、「すべての管理者の所在地は国外であった」[^18]。これは「国外の偽アカウントによる地元偽装」である。「私は〇〇人」の偽装層は、実はさらに一歩深い。それは「地元の実体 ＋ 地元のメディアコンテンツ ＋ AIで強化された地元の口調」であり、「私は高雄人」という地域アイデンティティを土台にしているため、偽の料理ファンページよりも見破るのが困難なのだ。
 
-## Everything Is Legal, That Is the Problem
+## すべてが合法であること、それこそが問題だ
 
-The most unsettling thing about "I Am OO Person" is that almost every part of it is legal.
+「私は〇〇人」が最も不安を感じさせる点は、その構成要素のほぼすべてが合法であるということだ。
 
-Registering a company is legal. Reposting news is legal. Using AI to generate image-text is legal. Accepting a sponsor's commission, doing native advertising placement, as long as the conflict of interest is disclosed, the Fair Trade Commission's testimonial advertising regulations cannot touch it [^13]. Assembling these legal parts results in a machine impersonating fellow townspeople, with unknown origin, that can be inserted by sponsors, but you cannot find which screw is illegal.
+会社を登録するのは、合法である。ニュースを転載するのは、合法である。AIで画像やテキストを生成するのも、合法である。出資者の依頼を受け、ネイティブ広告（タイアップ広告）を行うことも、利益関係を開示している限り、公平交易委員会の広告規制の対象外となる[^13]。これらの合法的な部品を組み立てると、「地元住民を装い、ソースが不明で、スポンサーによってコンテンツを挿入できるマシン」が出来上がる。しかし、どのネジ一本をとっても違法なものを見つけることはできない。
 
-In the past, discussing this situation, the habitual saying was "governance vacuum." But in 2026, this saying needs correction, otherwise, law-abiding readers will catch the loophole. The vacuum has been filled with one piece. The _Regulations on Prevention and Punishment of Fraud Crimes_, passed by the Legislative Yuan in 2024, commonly known as the Anti-Fraud Special Law, Article 31 requires online advertising platforms to disclose "information of the commissioned broadcaster/sponsor," and mark whether AI-generated images are used; Article 32 requires platforms to take down fraudulent ads within a time limit, otherwise sharing joint liability for compensation with the sponsor [^22]. The Ministry of Digital Affairs has already fined Meta three times according to this law, cumulatively NT$18.5 million [^22]. The "fraudulent advertising" vacuum has been patched by teeth-bearing law.
+かつてこのような状況は「統治の空白（ガバナンス・バキューム）」と呼ばれていた。しかし2026年においては、その言い方は修正が必要だ。さもなければ、法律に詳しい読者に隙を突かれることになる。空白はすでに一部埋まっている。2024年に立法院で三読された『詐欺犯罪危害防制条例』（通称：打詐専法）の第31条は、オンライン広告プラットフォームに対し「委託者および出資者の関連情報」の開示と、AI生成画像の有無の表示を義務付けている。また第32条は、プラットフォームに対して詐欺広告を期限内に削除することを求め、さもなくば出資者と連帯賠償責任を負うとしている[^22]。デジタル発展部（数発部）はすでにこの法律に基づき、Metaに対して累計1,850万台湾ドルを三度にわたって科している[^22]。「詐欺広告」という空白は、牙を持つ法律によって埋められたのだ。
 
-The problem is, this law only binds "paid advertising." It can manage a paid fraudulent ad, but cannot manage a free-operating, fellow-township-impersonating "I Am a Kaohsiung Person," because that is free-operating "content," outside the jurisdiction of "advertising." And the horizontal law that can truly manage "platform accountability, operator disclosure," namely the _Digital Intermediary Services Act_ of 2022, was shelved in 2022 due to concerns about "internet censorship" [^14], and has not revived by 2026.
+問題は、この法律が「有料広告」のみを縛っていることだ。お金を払って購入された詐欺広告は規制できるが、無料で運営され、地元住民を装う「私は高雄人」のようなものは規制できない。なぜなら、それは無料の「コンテンツ」であり、「広告」の管轄範囲外だからである。そして、「プラットフォームの責任追及や運営者の開示」を直接的に規定できる水平的な法律、すなわち2022年の『デジタル中介サービス法』は、当時「ネット検閲」への懸念から棚上げされた後[^14]、2026年になってもなお復活していない。
 
-![Legislative Yuan Chamber](/article-images/society/legislative-yuan-chamber.webp)
-_The Digital Intermediary Services Act, managing "platform accountability, operator disclosure," was shelved in the Legislative Yuan in 2022 due to controversy, and has not revived by 2026; patching the vacuum is the Anti-Fraud Special Law only binding "paid advertising," which cannot manage free-operating fellow-township-impersonating fanpages. Photo of Legislative Yuan Chamber. (Photo: Lin Gaozhi / CC BY-SA 4.0, Wikimedia Commons)_
+![立法院議場](/article-images/society/legislative-yuan-chamber.webp)
+_「プラットフォームの責任追及や運営者の開示」を規定する『デジタル中介サービス法』は、2022年に立法院での論争により棚上げされ、2026年になっても復活していない。空白を埋めたのは「有料広告」のみを縛る打詐専法であり、無料で運営される地元住民を装ったファンページには及ばない。写真は立法院議場。（撮影：林高志／CC BY-SA 4.0, Wikimedia Commons）_
 
-> **📝 Curator's Note**
-> So the governance vacuum has not disappeared; it has just shrunk—from "comprehensive" to "non-paid political and emotional operation fanpages." A fanpage impersonating Taiwanese, not disclosing operators, not charging you money, only wanting to influence you, falls exactly in this shrunk hole: it is not advertising, so the Anti-Fraud Special Law cannot manage it; the law managing it lies in a place no one dares to touch. Reporter Liu Zhixin used a saying: This ecology turns "citizens in a society" into "mercenaries of the hidden hand behind the scenes," called "recruiting mercenaries" [^15]. Those recruited may not know they are recruited; you, liking and reposting, may also not know who you are working for.
+> **📝 キュレーター・ノート**
+> つまり、統治の空白は消えたのではなく、縮小したのだ。「全面的」なものから、「非有料の政治的・感情的操作ファンページ」という領域へと。台湾人を装い、運営者を明かさず、金銭を取らずに、ただあなたの影響力だけを狙うファンページは、偏恰にこの縮小した穴の中に収まっている。それは広告ではないため打詐専法では届かず、それを規制すべき法律は、まだ誰も触れられない場所に眠ったままである。ジャーナリストの劉致昕（リウ・ジーシン）氏は、「社会の中の市民」が「黒幕の傭兵」へと変貌していくこのエコシステムを、「傭兵の徴用（收編傭兵）」と呼んでいる[^15]。徴用された人々は、自分が徴用されているとは気づいていないかもしれない。ボタンを押してシェアしているあなたも、自分が誰のために働いているのかを知らないのかもしれない。
 
-## So, Do You Still Know Who You Are Reading?
+## それで、あなたは今誰を読んでいるか分かっていますか
 
-Back to that "I Am a Taipei Person" post, and the forgotten instruction: "Remove sensitive words, strengthen Taiwanese local colloquialism."
+「私は台北人」の投稿と、あの消し忘れた指令に戻ろう。「敏感な言葉を除去し、台湾の現地口語を強化せよ」。
 
-What this sentence truly leaked is not that a certain article fabricated falsehoods, but that a whole set of "identity manufacturing" techniques was exposed to the sunlight: first erase the origin, then attach local. After AI makes this process almost zero-cost and automatically avoids detection, recognizing the truth of a news item is no longer the hardest thing; it mostly reposts real news. The hardest part is recognizing its origin and capital flow: Who wrote this? Why do you want to see it? Has anyone paid money?
+この言葉が真に漏らしてしまったのは、ある一つの記事が偽物だったということではない。一つの「身分」を作り上げる一連の手法が白日の下にさらされたことだ。まず産地を消し、その上に「地元」というラベルを貼る。AIによってこの工程がほぼゼロコストになり、検知も自動的に回避できるようになった今、ニュースの真偽を見極めることは、もはや最も難しいことではない。彼らが転載しているものの多くは真実だからだ。最も困難なのは、その産地と資金流を見極めることである。これは誰が書いたのか、なぜあなたに見せているのか、そして誰かが金を払ったのか、ということだ。
 
-And what truly protects you is never a stance—whether it is the CCP? Whether it is cognitive warfare?—because even Taiwan's most adept experts in cognitive warfare are shouting to be cautious about sticking labels. What protects you is the ability to trace the source: Ask one more question "Who is this? Where is the origin? Who paid for it?"
+そして、あなたを守れるものは、決して「立場」ではない――それが共産党なのか、認知戦なのか、といったことではない。なぜなら、台湾で最も認知戦を見抜くことに長けた人々でさえ、「安易にラベルを貼るな」と叫んでいるからだ。あなたを守れるのは、「遡及する能力」である。「これは誰か、産地はどこか、誰が出資したのか」と、もう一歩踏み込んで問うことだ。
 
-That forgotten instruction was caught this time. Next time, it will not forget to delete.
+あの消し忘れた指令は、今回こそはキャプチャされた。次からは、消し忘れることはないだろう。
 
 ---
 
-## Further Reading
+## 関連記事
 
-- [Cognitive Warfare](/ja/society/cognitive-warfare-against-taiwan) — The framework, boundaries, and "complexity over accuracy" reading principles of cognitive warfare
-- [Poisonous Potato Cognitive Warfare](/ja/society/poisoned-potato-cognitive-warfare-taiwan) — How a narrative war "steps on the foundation of truth," and this piece belongs to the paradigm of rejecting binaries
-- [Taiwan Artificial Intelligence Laboratory](/ja/technology/taiwan-ai-labs) — Local technology using AI to detect coordinated cognitive operations
-- [Taiwan Media and Press Freedom](/ja/society/media-and-press-freedom-in-taiwan) — The larger context of Wang Zhong controversies and media group structures
+- [認知戦](/society/認知作戰) — 認知戦の枠組み、境界、および「正確性よりも複雑性を優先する」判断原則について
+- [毒ジャガイモ認知戦](/society/毒馬鈴薯認知作戰) — ナラティブ戦がいかにして「真実の基盤を踏みしめる」か。二元論を拒絶する本記事と同様のモデルケース
+- [台湾人工知能実験室](/technology/台灣人工智慧實驗室) — AIを用いて協同的な認知操作を逆探知するローカル技術
+- [台湾メディアと報道の自由](/society/台灣媒體與新聞自由) — 旺中問題とメディアグループ構造のより大きな文脈
 
-## Image Sources
+## 画像出典
 
-Most images in this article are screenshots of public pages, cited under Article 52 of the Copyright Law "Fair Use for Reporting and Review," with sources marked:
+本文の画像の多くは公開ページのスクリーンショットであり、著作権法第52条「報道・評論のための公正な利用」に基づき引用し、出典を明記しています。
 
-- Cover Image / Fanpage Side-by-Side: "I Am a Kaohsiung Person" "I Am a Taipei Person" Facebook fanpages (@Kaohsiung.Info, @Taipei.Info) screenshots.
-- Exposure Summary: Fanpage "Kaohsiung Good Day" (@takaogoodday) Threads post screenshot.
-- Jishuo Technology Commercial Registration: [opengovtw](https://opengovtw.com/ban/89977832), data from Ministry of Economic Affairs Commercial and Industrial Registration Public Disclosure.
-- LIFE Lifestyle Network Service Page: [aams.tw](https://www.aams.tw/?app=Service&act=life) (Jishuo Technology) screenshot.
-- Qinhuangdao Content Farm AI Instruction: Screenshot from [Voice Tank / Wang Hong'en](https://voicettank.org/20260210-1) article.
-- [NCC Yanping South Road Office](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg): Photo by Solomon203, CC BY-SA 3.0 (Wikimedia Commons).
-- [Legislative Yuan Chamber](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg): Photo by Lin Gaozhi, CC BY-SA 4.0 (Wikimedia Commons).
-- Matchmaking account screenshots involve real photos possibly stolen; this article does not reproduce them based on privacy, presenting only with data and text descriptions.
+- 表紙／ファンページの並列：「私は高雄人」「私は台北人」Facebookファンページ（@Kaohsiung.Info、@Taipei.Info）のスクリーンショット。
+- 調査まとめ：ファンページ「高雄好過日」（@takaogoodday）のThreads投稿スクリーンショット。
+- 績碩科技工商登記：[opengovtw](https://opengovtw.com/ban/89977832)、経済部商工登記公示資料に基づく。
+- LIFE生活網サービスページ：[aams.tw](https://www.aams.tw/?app=Service&act=life)（績碩科技）のスクリーンショット。
+- 秦皇島コンテンツファームのAI指令：[思想タンク／王宏恩](https://voicettank.org/20260210-1)の記事内スクリーンショット。
+- [NCC 延平南路オフィス](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg)：撮影 Solomon203、CC BY-SA 3.0（Wikimedia Commons）。
+- [立法院議場](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg)：撮影 林高志、CC BY-SA 4.0（Wikimedia Commons）。
+- 婚活アカウントのスクリーンショットに含まれる実在の人物写真は、プライバシー保護のため転載せず、データとテキストによる記述のみとしています。
 
-## References
+## 参考文献
 
-[^1]: [Controversy Over Forgotten AI Instruction! Fanpage "I Am OO Person" Exposed with Unknown Capital Flow, Content from Pro-China Media](https://newtalk.tw/news/view/2026-02-21/1020740) — Newtalk 2026-02-21 main report, including operators, AI instruction, content sources, unknown capital flow, Nianjie "assisting over 100 fanpages" recruitment text, Tokyo Dome fake images.
+[^1]: [忘れたAI指令が物議！ファンページ「私は〇〇人」は資金流不明、コンテンツは親中メディア由来と暴露](https://newtalk.tw/news/view/2026-02-21/1020740) — Newtalk 2026-02-21の主要報道。運営者、AI指令、コンテンツソース、不明な資金流、年頡の「100を超えるファンページを支援」という採用文、東京ドームの偽画像を含む。
 
-[^2]: [Exposed for Cognitive Warfare? "I Am OO Person" Fanpage Exposed, Claims Capable of Inserting Specific Content](https://news.ltn.com.tw/news/politics/breakingnews/5347155) — Liberty Times 2026-02-21, relaying Kaohsiung Good Day's exposure, including "available for sponsors to insert specific content" and "every now and then" opening sentence.
+[^2]: [認知戦の疑い？「私は〇〇人」シリーズが調査され、特定コンテンツの挿入が可能と判明](https://news.ltn.com.tw/news/politics/breakingnews/5347155) — 自由時報 2026-02-21。高雄好日による調査を引用。「出資者による特定コンテンツの挿入が可能」および「定期的に持ち上がる」という記述を含む。
 
-[^3]: [Jishuo Technology Co., Ltd. Company Registration](https://opengovtw.com/ban/89977832) — Commercial registration, Unified Business Number 89977832, including Bosite person in charge Lin Xiuzi, Nianjie Xu Yunting, and Lin family overlapping board of directors structure (verified directly by article author 2026-06-05).
+[^3]: [績碩科技股份有限公司 会社登記](https://opengovtw.com/ban/89977832) — 工商登記、統編 89977832。波仕特責任者・林秀子、年頡責任者・徐韻婷、および林家の役員重複構造を含む（本文著者による2026-06-05の直接調査）。
 
-[^4]: [About Bosite POLLSTER](https://www.pollster.com.tw/AboutPollster/about_pollster_company.aspx) — Bosite online survey network official website self-description, established in 2005, polling brand belonging to All Access Media Group.
+[^4]: [波仕特 POLLSTER について](https://www.pollster.com.tw/AboutPollster/about_pollster_company.aspx) — 波仕特オンライン市場調査サイト公式サイト。2005年設立、全通メディア集団に属する調査ブランド。
 
-[^5]: [The Indestructible Content Farm — Uncovering the Manipulators Behind "Mission" and China Factors](https://www.twreporter.org/a/information-warfare-business-content-farm-mission) — The Reporter, including Wang Zhong Group background and _Financial Times_ 2019 "Editor-in-Chief Received Direct Instructions from State Council Taiwan Affairs Office" reporting context.
+[^5]: [死なないコンテンツファーム――「密信」の背後の操縦者と中国要因を暴く](https://www.twreporter.org/a/information-warfare-business-content-farm-mission) — 報道記事。旺中グループの背景および『フィナンシャル・タイムズ』2019年の「編集責任者が国台弁から直接指示を受けた」という報道の文脈を含む。
 
-[^6]: [IORG Exposes Information Manipulation Techniques: Content Farm Articles Are "Fertilizer" for Future Fake News](https://www.inside.com.tw/article/29958-IORG-fake-news) — INSIDE relaying IORG "Coordinated Behavior," "Source Manipulation" definitions and "Fertilizer" metaphor.
+[^6]: [IORGが情報操作の手法を解明：コンテンツファームの記事は将来の偽ニュースの「肥料」となる](https://www.inside.com.tw/article/29958-IORG-fake-news) — INSIDEによるIORGの「協同行動」「ソース操作」の定義および「肥料」の比喩の引用。
 
-[^7]: [Finding Evidence of Chinese Content Farms Specifically "Targeting Taiwanese" Using AI for Patriotic Propaganda](https://voicettank.org/20260210-1) — Wang Hong'en Voice Tank, Qinhuangdao "Borderless Group" AI instruction full text and "using AI with purpose to avoid investigation and detection" criterion.
+[^7]: [中国のコンテンツファームが「台湾人を標的」にAIを用いて愛国宣伝を行う証拠を発見](https://voicettank.org/20260210-1) — 王宏恩（思想タンク）。秦皇島の「無辺界集団」のAI指令全文および「調査回避を目的としたAI使用」の基準。
 
-[^8]: [Interview with IORG: Don't Let "Net Army" Become a Hat Stuck on Randomly](https://watchout.tw/reports/NqxdmV2ut5pGPMsjW049) — Watchout, Wang Xi "Monetary Consideration is the Constituent Element of Net Army" and "Randomly Sticking Labels Actually Helps Real Net Armies" discourse.
+[^8]: [IORGインタビュー： 「ネット工作員」を安易なレッテル貼りにしないで](https://watchout.tw/reports/NqxdmV2ut5pGPMsjW049) — Watchout。王希氏による「金銭的対価こそがネット工作員の構成要素である」および「ラベルの乱用は真の工作員を助けることになる」という論説。
 
-[^9]: [Exploration of Chinese Cognitive Domain Warfare Model: Taking the 2020 Taiwan Election as an Example (Shen Bo-yang, _Vision Foundation Quarterly_ Vol. 22 No. 1, 2021, pp. 1-65)](https://www.pf.org.tw/wSite/public/Attachment/003/f1646210580296.pdf) — TSSCI paper, Diamond Model places "Commercial Content Farms/General YouTubers" in Economic Motivation quadrant, explicitly stating initiators are not limited to foreign forces.
+[^9]: [中国認知領域作戦モデルの初探：2020年台湾選挙を例に（沈伯洋、『遠景基金会季刊』第22巻第1号、2021年、pp. 1-65）](https://www.pf.org.tw/wSite/public/Attachment/003/f1646210580296.pdf) — TSSCI論文。ダイヤモンド・モデルを用い、「商業的コンテンツファーム／一般YouTuber」を経済的動機に分類し、主体が外国勢力に限られないことを明記。
 
-[^10]: [Fighting Fake News Must First Clarify Names: Malicious Information vs. Incorrect Information](https://opinion.udn.com/opinion/story/6077/5388292) — Huang Junru MINGREN Hall, disinformation (malicious information, intentional) and misinformation (incorrect information, unintentional) distinguished by intent.
+[^10]: [偽ニュース対策には正名が必要である：悪意ある情報と誤った情報](https://opinion.udn.com/opinion/story/6077/5388292) — 黄俊儒（鳴人堂）。disinformation（悪意ある情報、意図的）とmisinformation（誤った情報、不注意）を意図によって区別。
 
-[^11]: [Civil Group Uncovers "Many Children Left" Fake News Operation, At Least 25 Fanpages Published Same Post](https://news.ltn.com.tw/news/politics/breakingnews/3942072) — Liberty Times 2022, another batch of content farm fanpage clustering cases checked by IORG, no public connection with "I Am OO Person."
+[^11]: [市民団体が「多くの子供たちが去った」偽情報の操作を摘発、少なくとも25のファンページが同一投稿](https://news.ltn.com.tw/news/politics/breakingnews/3942072) — 自由時報 2022年。IORGが調査した別のコンテンツファーム集団の事例であり、「私は〇〇人」との公開された関連性はない。
 
-[^12]: [Is "Many Children Left" Really an Information War? Posting Timeline Exposed](https://www.storm.mg/article/4356576) — Storm Media Fact Check 2022, counter-evidence of timeline for "whether coordinated posting is necessarily an information war."
+[^12]: [「多くの子供たちが去った」は本当に情報戦か？投稿タイムラインを公開](https://www.storm.mg/article/4356576) — 風傳媒ファクトチェック 2022年。「協同投稿が必ずしも情報戦であるとは限らない」という時間軸による反証。
 
-[^13]: [Fair Trade Commission Guidelines on Testimonial Advertising](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=165&docid=13021) — Native advertising/testimonial must fully disclose conflict of interest; only involving illegality if not disclosed and sufficient to affect transaction order.
+[^13]: [公平交易委員会による推奨広告の規範に関する説明](https://www.ftc.gov.tw/internet/main/doc/docDetail.aspx?uid=165&docid=13021) — ネイティブ広告／推奨広告は利益関係を十分に開示する必要があり、開示せず取引秩序に影響を与える場合に違法となる。
 
-[^14]: [Digital Intermediary Services Act Controversial Events](https://zh.wikipedia.org/zh-hant/數位中介服務法爭議事件) — Wikipedia, 2022 draft shelved due to free speech censorship concerns, has not revived by 2026.
+[^14]: [デジタル中介サービス法をめぐる論争](https://zh.wikipedia.org/zh-hant/數位中介服務法爭議事件) — Wikipedia。2022年の草案が言論検閲の懸念から棚上げされ、2026年になっても復活していない経緯。
 
-[^15]: [Before Democracy Paralysis: Looking at Taiwan's Need to Strengthen Cyber Literacy from the Fanpage Buying Incident](https://www.twreporter.org/a/opinion-disinformation-manufacturing-consent-buying-facebook-fanpages) — Liu Zhixin Reporter commentary, "Recruiting Mercenaries" framework.
+[^15]: [民主主義が麻痺する前に：ファンページ買収事件から見る台湾が強化すべきネット学力](https://www.twreporter.org/a/opinion-disinformation-manufacturing-consent-buying-facebook-fanpages) — 劉致昕による評論。「傭兵の徴用」という枠組み。
 
-[^16]: ["In Taiwan, Only Marrying Taiwanese" Matchmaking Account Chart Analysis](https://www.instagram.com/p/DZK4w9FmkBg/) — ctchart.lab (One Plus One's Grain) using AI to organize Threads public posts (2026.6.2–6.4), 252 accounts/458 posts/simultaneous posting in same second. Single citizen analysis, no third-party verification yet.
+[^16]: [「台湾在住、台湾人とだけ結婚したい」婚活アカウントの図表分析](https://www.instagram.com/p/DZK4w9FmkBg/) — ctchart.lab（壹加壹的一粒）によるThreads公開投稿のAI分析（2026.6.2–6.4）。252アカウント／458投稿／同時秒投稿。単一市民による分析であり、第三者による検証は未実施。
 
-[^17]: [New Type Scam Defrauding Investment! Threads "Beauty Dating" All Fake](https://tw.news.yahoo.com/新型詐騙騙投資-threads-美女交友-攏係假-102419476.html) — Public TV/Yahoo News, Threads "Beauty Matchmaking -> Add LINE" fake dating (Pig Butchering Scam) method anti-fraud context.
+[^17]: [新型詐欺は投資を狙う！Threadsの「美女交際」はすべて偽物](https://tw.news.yahoo.com/新型詐騙騙投資-threads-美女交友-攏係假-102419476.html) — 公視／Yahooニュース。Threadsにおける「美女婚活→LINE誘導」のロマンス詐欺の手法に関する背景。
 
-[^18]: [Imported Products Faking Local Public Opinion: Analysis of Foreign Fanpage Intervention in Taiwan Elections](https://medium.com/doublethinklab-tw/假冒在地民意的舶來品-臉書境外粉專介入台灣選舉手法解析-f90176ec14b8) — Taiwan Democracy Lab, 2024 election pre-period foreign group using life-type fanpages to disguise as local, all administrators abroad coordinated operation analysis.
+[^18]: [偽の地元民意を装う輸入品：Facebookの国外ファンページによる台湾選挙介入手法の解析](https://medium.com/doublethinklab-tw/假冒在地民意的舶來品-臉書境外粉專介入台灣選舉手法解析-f90176ec14b8) — 台湾民主実験室。2024年選挙前、国外グループが生活系ファンページを装い、管理者が全員国外にいる状態で展開した協同操作の分析。
 
-[^19]: [NCC Fined CTWANT Over Ten Million for Six Years](https://watchout.tw/reports/kNnkqK0bOa3845vSizPF) — Watchout compiled CTWANT News Channel 2014–2020 violations 25 times, fines over NT$11.53 million, 2020 non-renewal of license taken offline.
+[^19]: [NCC、中天に対し6年間で1,000万超の罰金](https://watchout.tw/reports/kNnkqK0bOa3845vSizPF) — Watchoutによるまとめ。中天新聞台の2014–2020年の違反25回、罰金1,153万超、2020年の免許不更新について。
 
-[^20]: [Removing Coordinated Inauthentic Behavior](https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/) — Meta Official, CIB "looks at behavior not content, regardless of domestic or foreign," and acknowledges coordination and authenticity are spectra.
+[^20]: [Removing Coordinated Inauthentic Behavior](https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/) — Meta公式。CIBは「内容ではなく行為を見る。国内外を問わない」とし、協同性と真実性はスペクトラムであることを認めている。
 
-[^21]: [Pakistan arrests 149, including 48 Chinese nationals, in Faisalabad scam centre raid](https://www.scmp.com/news/asia/south-asia/article/3317696/) — South China Morning Post 2026, Pakistan as one of the bases for Chinese capital transnational scam parks, corroborating matchmaking account geographic distribution leaning towards scam industry.
+[^21]: [Pakistan arrests 149, including 48 Chinese nationals, in Faisalabad scam centre raid](https://www.scmp.com/news/asia/south-asia/article/3317696/) — South China Morning Post 2026。パキスタンが中国系国際詐欺拠点のひとつであることの裏付け。
 
-[^22]: [Digital Development Ministry Fines Meta Heavily According to Anti-Fraud Regulations](https://moda.gov.tw/ADI/news/latest-news/16524) — Ministry of Digital Affairs, _Regulations on Prevention and Punishment of Fraud Crimes_ Article 31 (disclose commissioned broadcaster/sponsor), Article 32 (24-hour takedown and joint liability), has fined Meta three times cumulatively NT$18.5 million.
+[^22]: [数発部、詐欺防止条例に基づきMetaに重罰](https://moda.gov.tw/ADI/news/latest-news/16524) — デジタル発展部。《詐欺犯罪危害防制條例》第31条（委託者／出資者の開示）、第32条（24時間以内の削除と連帯賠償）に基づき、Metaに対し累計1,850万台湾ドルを科した。
 
-[^23]: ["I Am XX Person" Fanpages Suspected to Prepare for Election Public Opinion Operations](https://www.epochtimes.com/gb/25/12/28/n14663860.htm) — Epoch Times 2025-12-28, military fanpage "New 27th Brigade" named the series "written by AI, consistent format" two months before exposure.
+[^23]: [「私は〇〇人」ファンページは選挙世論操作の準備ではないか](https://www.epochtimes.com/gb/25/12/28/n14663860.htm) — 大紀元 2025-12-28。軍事ファンページ「新・二七部隊」による、AI執筆とフォーマットの一致に関する指摘。
