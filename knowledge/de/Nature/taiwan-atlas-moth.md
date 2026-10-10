@@ -1,14 +1,14 @@
 ---
-title: 'Der Taiwan-Atlasmotte: Einer der großflügeligsten Schmetterlinge, dessen Leben ohne Nahrung verbracht wird'
-description: 'Mit einer Flügelspannweite von 25–30 cm gehört er zu den weltweit größten Motten; seine Flügel entfalten sich wie ein aufgeschlagenes Buch – er frisst im Leben nichts, sondern fliegt nur einmal.'
+title: 'Der Atlasfalter in Taiwan: Eine Legende der Giganten, die ihr Leben lang nicht fressen'
+description: 'Mit einer Flügelspannweite von bis zu 25–30 cm gehört er zu den größten Nachtfaltern der Welt – seine Flügel entfalten sich wie ein aufgeschlagenes Buch.'
 date: 2026-03-19
 category: 'Nature'
 tags:
   [
-    'Atlasmotte',
+    'Atlasfalter',
+    'Schlangenkopf-Nachtfalter',
+    'Attacus atlas',
     'Nachtfalter',
-    'Atlas Moth',
-    'Schmetterlinge',
     'Naturschutz',
     'Insekten',
     'Ökologie',
@@ -20,97 +20,98 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣皇蛾.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:c0def8638e893fc6'
-sourceBodyHash: 'sha256:b3b31dae4152e213'
-translatedAt: '2026-09-11T20:42:42+08:00'
+sourceCommitSha: '38a5f7e2a'
+sourceContentHash: 'sha256:a407c4cd5d546815'
+sourceBodyHash: 'sha256:94480d54498a46b7'
+translatedAt: '2026-10-11T01:05:52+08:00'
 ---
 
-# Der Taiwan-Atlasmotte: Einer der großflügeligsten Schmetterlinge, dessen Leben ohne Nahrung verbracht wird
+# Der Atlasfalter in Taiwan: Eine Legende der Giganten mit riesigen Flügeln, die ihr Leben lang nicht fressen
 
 ## 30-Sekunden-Überblick
 
-Mit einer Flügelspannweite von bis zu 25–30 cm gehört er zu den weltweit größten Motten; seine Flügeloberfläche ist die zweitgrößte der Welt (nach dem australischen Hagelmotte) und breiter als Ihr Laptop. Er wird umgangssprachlich als "Schlangenkopffalter" bezeichnet, da an den Flügelspitzen eine realistische Schlangenkopf-Struktur zu sehen ist. Die brutalste Schönheit ist: Der erwachsene Falter besitzt keine Mundwerkzeuge und kann nur mit dem Fett überleben, das er in der Larvenphase gespeichert hat – seine einzige Aufgabe ist es, nach der Paarung zu sterben. Taiwan ist einer der wenigen Orte weltweit, an denen noch wilde Populationen dieser Motte vorkommen, doch sie werden zunehmend seltener.
+Mit einer Flügelspannweite von bis zu 25 bis 30 cm gehört er zu den größten Nachtfaltern der Welt; ausgebreitet sind seine Flügel breiter als die Handfläche eines Erwachsenen. [^5][^4] Die Spitzen der Vorderflügel ragen nach außen und ähneln einem Schlangenkopf, weshalb er auch als Schlangenkopf-Nachtfalter bezeichnet wird. [^1] Die Mundwerkzeuge der adulten Tiere sind degeneriert, sodass sie keine Nahrung aufnehmen können. Nach dem Schlüpfen leben sie nur ein bis zwei Wochen von den Fettreserven, die sie während des Larvenstadiums angesammelt haben. In dieser Zeit tun sie nur eines: einen Partner finden und die nächste Generation sichern. [^3][^4] Der Atlasfalter ist von Indien über die Malaiische Halbinsel bis nach Südchina und Taiwan verbreitet; in Taiwan bewohnt er die Hügelregionen (flache Berge). In den 1970er Jahren wurde er in Taiwan in großem Stil gezüchtet: Die Falter wurden als Präparate verwendet und die Kokons zu Geldbörsen verarbeitet. [^1][^3]
 
 ## Warum ist er wichtig?
 
-Der Atlasmotte ist ein Indikator für die Gesundheit eines Ökosystems. Seine Existenz zeugt davon, dass der Wald in einer Region gesund und die Artenvielfalt reich ist. Wenn der Atlasmotte verschwindet, bedeutet dies normalerweise den Zusammenbruch ganzer Nahrungsketten. In Taiwan konzentrieren sich die Lebensräume des Atlasmotten auf Wälder in niedriger bis mittlerer Höhe – diese grünen Inseln, die von menschlicher Entwicklungsbelastung umgeben sind, aber dennoch hartnäckig überleben. [^2] Diese Bergökosysteme werden oft vernachlässigt, doch sie sind Schlüsselgebiete für die terrestrische Artenvielfalt Taiwans: Hier leben auch seltene Arten wie der Leopard und der Pangolin. Die Präsenz des Atlasmotten ist ein Spiegelbild der ökologischen Gesundheit; sein Fehlen ist ein Warnsignal, dem man ernsthaft begegnen muss.
+In Taiwan lebt der Atlasfalter in den Hügelregionen, also in jenen Wäldern in geringer Höhe, die unter hohem Erschließungsdruck stehen. [^3] In diesen Gebieten leben auch der Schuppentier-Tiger (Stone Tiger) und das Schuppentier. Die Larven sind sehr polyphag (vielseitig fressend); es gibt Aufzeichnungen über den Verzehr von Solanum decaisneanum, Manihot esculenta, Jiangmou, Schut, Jiuxiong und Guaven. [^1][^2] Die adulten Falter hingegen fressen überhaupt nichts; ihr gesamtes Leben hängt von den Blättern ab, die sie im Larvenstadium gefressen haben. Ob ein Waldstück in den Hügeln ausreicht, damit ein Falter mit einer Flügelspannweite größer als eine Handfläche vom Ei bis zum Schlüpfen überlebt, hängt davon ab, ob die Wirtspflanzen vorhanden sind, wie hell die Lichter in der Nacht leuchten und wie viel Pestizid in Obstplantagen gespritzt wird.
 
 ## Ein Naturführer mit ausgebreiteten Flügeln
 
-Der Atlasmotte (wissenschaftlicher Name: _Attacus atlas_) wird als „fliegende Landkarte“ bezeichnet. Wenn er seine Flügel ausbreitet, sind die braunen Grundmuster mit komplexen Linien und Zeichnungen bedeckt, die an alte Karten oder Seekarten erinnern. Besonders bemerkenswert ist das Muster an den Flügelspitzen, welches ihm den Spitznamen „Schlangenkopffalter“ eingebracht hat.
+Der wissenschaftliche Name des Atlasfalters ist _Attacus atlas_. Der englische Name „Atlas moth“ leitet sich vermutlich von dem Titanen Atlas aus der griechischen Mythologie ab, der das Himmelsgewölbe stützt; Wissenschaftler vermuten jedoch auch, dass die Linien auf den Flügeln wie eine Landkarte aus Papier wirken. [^4] Die Grundfarbe der Flügel ist rotbraun, bedeckt mit schwarzen, weißen, rosa und violetten Linien. In der Mitte jeder der vier Flügel befindet sich ein dreieckiges, transparentes, schuppenloses „Fenster“, das von einem schwarzen Rand umgeben ist. [^5][^1]
 
-Die Muster an der Vorderkante des Flügels sehen nicht nur aus wie ein Schlangenkopf; wenn der Atlasmotte bedroht wird und seine Flügel schüttelt, ahmt dieses Muster die Drohgebärde einer Giftschlange lebensecht nach. Dies ist ein Meisterwerk der Millionen Jahre langen Evolution, eine ausgeklügelte Taktik zur Täuschung des Gegners.
+Besonders markant sind die Spitzen der Vorderflügel. Sie erstrecken sich nach außen in Form eines Schlangenkopfes. Am oberen Rand befindet sich ein schwarzer Fleck, der wie ein Schlangenauge wirkt, und daneben ein braunes Querband, das wie ein Schlangenmaul aussieht; in Hongkong wird er daher „Schlangenkopf-Nachtfalter“ genannt. [^1][^6]
 
-Die Flügelfläche des Atlasmotten kann bis zu 400 Quadratzentimeter betragen und macht ihn zum zweitgrößten Motten mit dieser Flügeloberfläche weltweit (nach dem australischen Hagelmotte). Bei der Spannweite gehört der Atlasmotte zu den Spitzenreitern unter den weltweiten Schmetterlingen. Die Weibchen sind größer als die Männchen, aber die Männchen besitzen breitere, farnartige Antennen, mit denen sie Pheromone wahrnehmen können, die von den Weibchen aus mehreren Kilometern Entfernung freigesetzt werden.
+Über die maximale Flügelfläche gibt es unterschiedliche Angaben: Das Naturwissenschaftliches Museum (KMB) und die chinesische Wikipedia geben an, dass sie bis zu 400 cm² erreichen kann und damit den Nachtfalter mit der größten Flügelfläche darstellt, [^1][^6] während die englische Wikipedia von etwa 160 cm² spricht, womit die Fläche nur von der Herculesmotte aus Australien übertroffen wird. [^5] Weibchen sind größer als Männchen, während die Männchen breitere, federartige Antennen besitzen, mit denen sie die Pheromone der Weibchen über mehrere Kilometer hinweg aufspüren können. [^5]
 
-## Die Verbreitung des Moth-Königs in Taiwan
+## Verbreitung des „Königs der Nachtfalter“ in Taiwan
 
-In Taiwan kommt der Atlasmotte hauptsächlich in Bergregionen zwischen niedriger und mittlerer Höhe (unter 1000 Metern) vor, wobei er warme, feuchte Umgebungen bevorzugt. Es gibt Berichte über den Atlasmotte von der Nordregion Yangmingshan über Baguashan im Zentrum bis nach Kenting im Süden und in das Hoa-Dong-Tal im Osten. [^1] Besonders hervorzuheben ist die Campingzone Sanwan No. 3 in Miaoli, wo 2019 noch Hobbyfotografen den Atlasmotte fotografieren konnten. Diese gering entwickelten Berggebiete sind die letzten Zufluchtsorte für den Atlasmotte. Diese Campingplätze, Farmen und der Rand von Obstgärten scheinen unbedeutend zu sein, sind aber ökologische Inseln, auf denen die Wildtiere Taiwans leben. Der Atlasmotte ist normalerweise nachtaktiv; nach der Paarung sammelt das Weibchen seine Eier an der Unterseite eines Blattes ab; das Männchen nutzt mit seinen Antennen über 300.000 Geruchsrezeptoren, um das Pheromon aus mehreren Kilometern Entfernung zu detektieren und den Ort des Weibchens präzise zu finden.
+Laut dem Taipei Zoo ist der Atlasfalter weit verbreitet in Ostasien, einschließlich der Hügelregionen Taiwans. [^3] Das Naturwissenschaftliche Museum bezieht sich auf eine Studie von Wang Xiao-yue aus dem Jahr 1994 und klassifiziert die taiwanische Population als die endemische Unterart _A. atlas formosanus_, den größten Nachtfalter Taiwans. Die Taiwan Encyclopedia of Life listet ihn hingegen als _A. atlas atlas_, wobei die Unterartnamen zwischen beiden Quellen nicht übereinstimmen. [^1][^2] Im Norden Taiwans hat der Atlasfalter zwei Generationen pro Jahr: Die erste schlüpft im Mai/Juni, die zweite im August/September; die Überwinterung erfolgt als Puppe. [^1]
+
+Auf iNaturalist sind bis Oktober 2026 etwa 428 Aufzeichnungen aus Taiwan verzeichnet, darunter Funde in Hsinchu, Nantou, Miaoli, Taipeh, Chiayi und Changhua; auch in der Gegend um den Lin Tian Shan in Fenglin, Hualien, wurden Exemplare fotografiert. [^7] Die Anzahl der Aufzeichnungen steigt jährlich, was jedoch primär die zunehmende Zahl der Menschen widerspiegelt, die Fotos hochladen, und nicht direkt als Zunahme der Population interpretiert werden kann.
 
 ## Das grausame Gedicht des Lebenszyklus
 
-Das Leben des Atlasmotten ist ein grausames und wunderschönes Gedicht.
+Das Leben des Atlasfalters ist ein grausames und zugleich wunderschönes Gedicht.
 
-**Ei- und Larvenphase**: Das Weibchen legt kugelförmige Eier mit einem Durchmesser von nur 2,5 mm auf die Unterseite der Wirtspflanzen, typischerweise Dutzende pro Eiablage. Die geschlüpften grünen Raupen haben weiße wachsartige Dornen am Rücken und ernähren sich von Pflanzen wie Guaven, Zimt und Zitrusfrüchten; sie durchlaufen sechs Häutungen und erreichen schließlich 11,5 cm Länge und 2,5 cm Durchmesser. Dies ist die einzige Phase im Leben des Atlasmotten, in der er Nahrung aufnimmt, und hier wird das gesamte Fett gespeichert.
+**Ei- und Larvenstadium**: Das Weibchen beginnt unmittelbar nach der Paarung mit der Eiablage, wobei es jeweils nur wenige Eier auf Baumrinde oder der Rückseite von Blättern ablegt; ein Weibchen legt durchschnittlich etwa 200 Eier. [^1] Die Eier sind kugelförmig und etwa 2,5 mm groß. [^5] Die nach dem Schlüpfen grünen Raupen tragen weiße, wachsartige Stacheln auf dem Rücken. Nach sechs Stadien erreichen sie schließlich eine Länge von 11,5 cm und eine Dicke von 2,5 cm. [^5][^3] Dies ist die einzige Phase im Leben des Atlasfalters, in der er frisst; alle Fettreserven werden hier aufgebaut.
 
-**Puppe- und Falterphase**: Die Raupe spinnt sich zwischen abgestorbenen Blättern ein; die Puppe misst 7–8 cm und wird an Ästen mit Seidenfäden befestigt; die Metamorphose dauert etwa vier Wochen. Der erwachsene Falter hat atrophiertes Mundwerkzeug, kann nicht fressen und muss von dem Fett leben, das er in der Larvenphase gespeichert hat. Er muss innerhalb von 1–2 Wochen einen Partner finden, sich paaren und fortpflanzen, bevor er stirbt. Diese Strategie konzentriert die gesamte Energie auf die Reproduktion und vermeidet gefährliche Nahrungssuche, was die Effizienz der Genübertragung erhöht.
+**Puppen- und Adultstadium**: Die Raupe rollt Blätter zusammen, um sich darin einzuspinnen, und bildet einen 7 bis 8 cm langen, papierartigen Kokon, den sie mit Seidenfäden an einem Zweig befestigt. Er sieht aus wie ein eingerolltes, vertrocknetes Blatt. [^5][^3] Vom Ei bis zum Falter vergehen etwa 70 Tage, wovon die Puppenphase etwa 21 Tage dauert. [^1] Bei Wintereinbruch kann sich die Puppenphase verlängern; im Insektenhaus des Taipei Zoo gab es Individuen, die über ein halbes Jahr verpuppt waren, bevor sie schlüpften. [^3] Die adulten Falter können aufgrund ihrer degenerierten Mundwerkzeuge nicht fressen und leben nur von den Fettreserven der Larvenzeit – etwa ein bis zwei Wochen lang, um einen Partner zu finden, sich zu paaren, Eier zu legen und dann zu sterben. [^3][^4]
 
-## Der evolutionäre Code des Schlangenkopfmusters
+## Der evolutionäre Code des Schlangenkopf-Musters
 
-Warum haben die Flügelspitzen des Atlasmotten ein so realistisches Schlangenkopfmuster entwickelt? Die Antwort ist die „Bates’sche Mimikry“, also die Nachahmung gefährlicher Lebewesen, um Prädatoren zu verschrecken. Im Jahr 2006 dokumentierte der britische Wissenschaftler Hossler in seiner Forschung detailliert die optischen Eigenschaften des Flügelspitzenmusters und wies darauf hin, dass die visuelle Wirkung unter verschiedenen Lichtwinkeln zur effektiven Täuschung von Fressfeinden genutzt werden kann. Auch taiwanische Forscher hatten 2015 Verteidigungsverhalten beim Atlasmotten bei Angriffen durch Vögel in Yangmingshan dokumentiert und bestätigten die abschreckende Wirkung des Schüttelns der Flügelspitzen auf Prädatoren.
+Es gibt bisher keine eindeutige Erklärung dafür, warum die Spitzen der Vorderflügel wie ein Schlangenkopf geformt sind. Laut der chinesischen Wikipedia glauben die meisten Wissenschaftler, dass dieses Muster dazu dient, Fressfeinde abzuschrecken, indem es mit Mustern ähnlich wie bei einer Kobra verwirrt. [^6] Die englische Wikipedia zitiert ein Werk von Howse aus dem Jahr 2010 und weist darauf hin, dass die Bewegungen der Flügel des Atlasfalters gegenüber einem Räuber diese Ähnlichkeit noch deutlicher machen. [^5]
 
-Wenn Vögel oder andere Prädatoren näherkommen, schlägt der Atlasmotte schnell mit seinen Flügeln, sodass das Muster an den Spitzen wie zwei sich hin- und herbewegende Schlangenköpfe aussieht. Diese momentane visuelle Täuschung reicht oft aus, um den Prädator zu zögern und dem Atlasmotte eine Fluchtchance zu verschaffen.
+Die Beschreibung des Natural History Museum in London ist am anschaulichsten: Ein bedrohter Atlasfalter lässt sich zu Boden fallen, windet sich und schlägt langsam mit den Flügeln, um die Bewegungen eines Schlangenkopfes und eines Schlangenhalses zu imitieren und so den Räuber zu vertreiben. [^4]
 
-Noch raffinierter ist, dass dieses Schlangenkopfmuster je nach Lichteinfall unterschiedliche visuelle Effekte erzeugt. Im schattigen Waldboden, wenn das Sonnenlicht durch die Blätter gesprenkelt einfällt, verschmilzt der ruhende Atlasmotte fast mit dem Laub. Sobald er jedoch gestört wird, erwacht dieses Schlangenkopfmuster plötzlich zum Leben.
+## Die Schutzsituation des Atlasfalters in Taiwan
 
-## Die Naturschutzkrise des Taiwan-Atlasmotten
+Ein Bericht aus dem Jahr 2025 stellt fest, dass der Atlasfalter aufgrund von Umweltzerstörung in der Wildnis seltener geworden ist und nur noch zu bestimmten Zeiten und an bestimmten Orten beobachtet werden kann. Die „Flower Tree Bank“ (Huashu Yinhang) in Daqun, Changhua, versucht den Atlasfalter in einem pestizidfreien Gebiet mit ausreichend Futterpflanzen wieder anzusiedeln. Der Gründer Guo Jun-yin entdeckte in dem dort geschützten, gefährdeten Gewächs _Rauvolfia serpentina_ (Ryukyu-Dunkelrot) mindestens fünf Atlasfalter-Larven – ein Fundort, an dem zuvor keine Atlasfalter auf dieser Pflanze dokumentiert waren. [^8]
 
-Der Atlasmotte in Taiwan steht vor einer ernsten Existenzkrise. Obwohl er nicht offiziell auf der Liste geschützter Arten geführt ist, nimmt die Zahl der Wildpopulationen deutlich ab. Die Hauptbedrohungen sind:
+Studien, die in der englischen Wikipedia zusammengefasst sind, listen die gemeinsamen Bedrohungen für große Nachtfalter auf: Klimawandel, Einfangen, Lichtverschmutzung, Pestizide sowie der Verlust und die Fragmentierung von Lebensräumen. [^5] Für den Atlasfalter bedeutet das Fällen von Wirtspflanzen, künstliches Licht in der Nacht und Pestizide in Obstplantagen eine direkte Bedrohung für sein einziges Fressstadium (Larve) und seine kurze Lebensspanne als Falter.
 
-**Lebensraumverlust ist die direkteste Bedrohung**: Die Entwicklung von Wäldern in niedriger und mittlerer Höhe ist intensiv; Wohngebiete, Industriezonen und die Ausdehnung von Farmen reduzieren den Lebensraum des Atlasmotten. Daten der Taiwan Biodiversity Network (TBN) aus dem Jahr 2020 zeigen, dass Sichtungen des Atlasmotte sich auf Bergregionen in Miaoli, Nantou und Hualien konzentrieren, während städtische Gebiete fast keine Aufzeichnungen mehr haben. Künstliche Beleuchtung nachts stört das Navigationssystem des Atlasmotten, wodurch die Männchen das Pheromon nicht präzise verfolgen können; der großflächige Einsatz von Pestiziden auf den Wirtspflanzen bedroht direkt das Überleben der Larven; der Klimawandel führt zu Veränderungen in Temperatur und Feuchtigkeit und beeinflusst den Reproduktionszyklus und die Verteilung der Wirtspflanzen. Die Lebensgeschichte des Atlasmotten macht sie besonders anfällig: Kurze Lebenserwartung, begrenzter Aktivitätsradius und Abhängigkeit von bestimmten Wirtspflanzen sind Vorteile in stabiler Umgebung, aber Schwächen in der sich schnell verändernden modernen Umwelt.
+## Die Beziehung zwischen Mensch und Atlasfalter
 
-## Der Atlasmotte in der Volkskultur Taiwans
+In den 1970er Jahren wurde der Atlasfalter in Taiwan in großem Stil kommerziell gezüchtet; die Falter dienten als Dekorationsexemplare, die Kokons als Geldbörsen. Erst nach dem Niedergang der Insektenindustrie in den 1980er Jahren konnten sich die Wildpopulationen wieder in einem natürlichen Zustand stabilisieren. [^1] Dass Kokons als Geldbörsen dienen können, liegt an ihrer Robustheit. [^4]
 
-In der Volkskultur Taiwans hat der Atlasmotte einen berühmten Namen: „Königskäfer“ (Bawangdie). Obwohl er kein Schmetterling ist, spiegelt dieser Name den Respekt vor seinem großen Körper wider. In der Hakka-Region kursiert der Glaube, dass ein "Nachtfalter ins Haus bringt, muss ein edler Gast sein". Wenn der Atlasmotte in ein Haus fliegt, wird dies als gutes Omen angesehen. In indigenen Kulturen werden große Schmetterlinge oft als Inkarnationen von Ahnengeistern betrachtet; in den Legenden des Taywana sind die großen Motten mit augenförmigen Mustern auf ihren Flügeln die Augen der Vorfahren, die über das Stammgebiet wachen. Heute besuchen diese „edlen Gäste“ jedoch seltener die ländlichen Gebiete Taiwans.
+In Indien wird der Atlasfalter auf nicht-kommerzieller Basis zur Seidengewinnung gehalten. Diese Seide ist braun, hat eine wolleartige Textur und wird „Fagara“ genannt; sie gilt als langlebiger als Seide von Seidenraupen. [^5][^4] In den Toho-Monsterfilmen ist das Design von Mothra laut der englischen Wikipedia von Seidenraupen und großen Nachtfaltern der Familie der Saturniidae beeinflusst, während die chinesische Wikipedia direkt angibt, dass er auf dem Atlasfalter basiert. [^9][^6]
 
-## Die ökologische Nischenverteilung mit anderen Großmotten in Taiwan
+## Andere große Saturniidae in Taiwan
 
-Taiwan hat auch andere große Schmetterlinge, die jeweils unterschiedliche ökologische Nischen besetzen:
+In Taiwan gibt es noch andere große Nachtfalter, am leichtesten zu identifizieren sind drei Arten der Langschwanz-Spanner (Saturniidae). Die gewöhnlichen und die taiwanischen Langschwanz-Spanner sind in Gebieten mittlerer und niedriger Höhenlagen häufig anzutreffen; die endemische Art _Actias selene_ (姬長尾水青蛾) lebt in mittleren bis hohen Lagen und hat eine Körpergröße von nur sechs bis sieben Zentimetern. [^10] Sie gehören, genau wie der Atlasfalter, zur Familie der Saturniidae.
 
-Der **Langschwanz-Wasserfalter** (Changwei) hat hellgrüne Flügel und einen langen Schwanzfortsatz an den Hinterflügeln und bevorzugt höhere Lagen; seine Larven ernähren sich von Pflanzen der Familie Euphorbiaceae. Der **durchsichtige Seidenmotte** (Toumu Tiancan) besitzt transparente „Fenster“ auf seinen Flügeln, seine Verbreitung überlappt mit der des Atlasmotten, er bevorzugt aber bergigere Umgebungen. Der **Große Reiherfalter** (Da Yanmo) hat eine fledermausartige Form und fliegt schnell, hauptsächlich in mittleren und höheren Lagen, was zu weniger Konkurrenz mit dem Atlasmotte führt.
+## Lebensraumschutz: Ein Stück Himmel für den Atlasfalter
 
-Diese großen Schmetterlinge bilden zusammen einen wichtigen Teil des nächtlichen Ökosystems Taiwans. Sie sind Nahrungsquellen für viele Spinnen, Vögel und Fledermäuse und Bestäuber von Pflanzen. Statistiken des Taiwan Biodiversity Network (TBN) aus dem Jahr 2022 zeigen, dass die Anzahl der Sichtungen großer Schmetterlinge um etwa 15 % gegenüber 2018 zurückgegangen ist, was auf einen Rückgang der nächtlichen Insektenpopulation hindeutet. Der Verlust irgendeiner Art würde das gesamte ökologische Gleichgewicht beeinflussen.
-
-## Lebensraumschutz: Einen Himmel für den Atlasmotte bewahren
-
-Den Schutz des Atlasmotten zu schützen bedeutet, die Artenvielfalt der Wälder in niedriger Höhe Taiwans zu schützen. Die Sichtung des Atlasmotte im Campinggebiet Sanwan in Miaoli zeigt, dass ein Gleichgewicht zwischen menschlicher Aktivität und Naturschutz gefunden werden kann; gut verwaltete halb-künstliche Umgebungen können Zufluchtsorte für Wildtiere sein. Zur Reduzierung der Lichtverschmutzung können nach unten gerichtete Leuchten verwendet oder gelbe Lichter gewählt werden, die Insekten weniger stören. Die Pflanzung von Wirtspflanzen des Atlasmotte in Parks, Schulgeländen und Wohngebieten bietet ihnen Trittsteine. Auch das Engagement der Bürgerwissenschaft ist entscheidend: Hobbyfotografen und Naturbeobachter dokumentieren die Auftrittsorte und -zeiten des Atlasmotten, was hilft, vollständige Populationsdaten zu erstellen.
-
-## Erstaunliche Fakten
-
-Die Sinneswahrnehmung des Atlasmotte ist erstaunlich: Die Antennen der Männchen verfügen über mehr als 300.000 Geruchsrezeptoren und können das Pheromon des Weibchens aus bis zu 10 Kilometern Entfernung detektieren, eine Sensitivität weit über jeder künstlichen Detektion hinaus. Der englische Name „Atlas Moth“ stammt vom griechischen Mythos des Atlas, der die Erde trägt, oder es gibt die Theorie, dass die Linien auf den Flügeln wie Karten aussehen. Mosaik (Mosa) in der _Godzilla_-Reihe ist nach dem Atlasmotte konzipiert worden.
-
-Bei der Materialnutzung wird in Indien „Fagara“-Seide hergestellt, die aus Atlasmottenkokon gewonnen wird und eine Dichte von 80 % höher als gewöhnliche Seide aufweist und sich wie Wolle anfühlt. In Taiwan wurde früher auch ein kleines Portemonnaie aus dem Kokon des Atlasmotte hergestellt, das robust und wasserdicht war.
-
-Auch die Fortpflanzungsstrategie des Atlasmotten ist besonders: Sie paaren sich normalerweise nur einmal im Leben; nach der Paarung setzt das Weibchen Antiferomone frei, um andere Männchen fernzuhalten. Um Fettreserven zu schonen, fliegt der Atlasmotte nur bei Bedarf und verharrt meist still auf Baumstämmen, wobei die Flügelmuster fast vollständig mit der Rinde verschmelzen, sodass sie selbst aus 50 cm Entfernung kaum entdeckt werden können.
+Der Schutz des Atlasfalters gelingt, indem man die Wirtspflanzen in den Hügelregionen erhält und das nächtliche Licht am Himmel reduziert. Das Pflanzen von einheimischen Bäumen wie _Solanum decaisneanum_, _Manihot esculenta_ oder _Jiuxiong_ in Parks, auf Schulgeländen und in der Nähe von Wohngebieten [^1][^2] bedeutet, dem Falter zusätzliche Trittsteine am Stadtrand zu bieten. Die Bemühungen der „Flower Tree Bank“, den Atlasfalter in pestizidfreien Gebieten mit ausreichend Nahrung wieder anzusiedeln, sind ein Beispiel für zivilgesellschaftliches Engagement. [^8] Menschen, die in der Natur auf einen Atlasfalter treffen und Fotos, Orte sowie Daten auf iNaturalist hochladen, [^7] leisten derzeit den wichtigsten Beitrag zur Kartierung der Verbreitung des Atlasfalters in Taiwan.
 
 ## Referenzen
 
-[^1]: [iNaturalist Beobachtungen des Taiwan-Atlasmotten](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — – Sichtungsdaten und Verbreitung von Atlasmotte in Taiwan
+[^1]: [Atlasfalter | Nationales Museum für Naturwissenschaften (Digitaler Katalog)](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Wang Xiao-yue (1994): Population als _A. atlas formosanus_ klassifiziert; Wirtspflanzen: Solanum decaisneanum, Manihot esculenta, Jiangmou, Schut; ca. 200 Eier pro Weibchen; ca. 70 Tage vom Ei zum Falter; zwei Generationen pro Jahr im Norden mit Überwinterung als Puppe; kommerzielle Zucht und Kokons als Geldbörsen in den 1970er Jahren.
 
-[^2]: [Taiwan Biodiversity Network (TBN)](https://taieol.tw/pages/107777) — – Datenbank der Atlasmotte und Probenmaterialien
+[^2]: [Atlasfalter | Taiwan Encyclopedia of Life](https://taieol.tw/pages/107777) — Verfasst von Yan Sheng-hong: Flügelspannweite 20 bis 30 cm, auch Schlangenkopf-Nachtfalter genannt; Larven fressen Jiangmou, Jiuxiong und Guaven.
 
-[^3]: [Ministerium für Landwirtschaft, Forst- und Naturschutz](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — – Richtlinien und Ressourcen zum Schutz von Schmetterlingen in Taiwan
+[^3]: [Lebensdauer der adulten Tiere nur 1 bis 2 Wochen! Taipei Zoo enthüllt „Riesenschlangen“-Muster beim Schlüpfen des Atlasfalters｜Liberty Times](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — 28.07.2026, Taipei Zoo: Verbreitung umfasst Taiwans Hügelregionen; sechs Larvenstadien; Kokonbildung durch Einrollen von Blättern; Puppenphase ein bis zwei Monate mit Überwinterungsmöglichkeit; adulte Tiere leben 1 bis 2 Wochen.
 
-[^4]: [Atlasmotte - Wikipedia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — – Beschreibung der Morphologie, Verbreitung und Ökologie des Atlasmotten
+[^4]: [Spotlight: the atlas moth｜Natural History Museum](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Natural History Museum London: Maximale Spannweite 27 cm; adulte Tiere leben ein bis zwei Wochen; bei Bedrohung am Boden windend zur Imitation einer Schlange; Fagara-Seide; Kokons aufgrund ihrer Robustheit als Geldbörsen genutzt.
 
-[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — – Lebensgeschichte und Erkennungsmerkmale des Atlasmotten
+[^5]: [Attacus atlas｜Wikipedia](https://en.wikipedia.org/wiki/Attacus_atlas) — Rangliste der Flügelspannweite und Flügelfläche; Eier 2,5 mm; sechs Larvenstadien; Larve 11,5 cm; Kokon 7–8 cm; Männchen detektieren Pheromone über Kilometer; Bedrohungen für große Nachtfalter.
 
-Weiterführende Lektüre:
+[^6]: [Atlasfalter｜Wikipedia](https://zh.wikipedia.org/zh-tw/皇蛾) — Größte Flügelfläche 400 cm²; in Hongkong als Schlangenkopf-Nachtfalter bekannt; wissenschaftliche Ansichten zur Funktion des Schlangenkopf-Musters; Theorie zum Ursprung von Mothra.
 
-- _Taiwanische Insektenchroniken_ von Chang Yongren
-- _Fotografische Techniken der Lepidopterenökologie_ – Ein Muss für Hobbyfotografen
+[^7]: [Attacus atlas｜iNaturalist Taiwan](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — Stand 10.10.2026: 428 Forschungs- oder Identifizierungsdatensätze in Taiwan via öffentlicher API abgefragt.
+
+[^8]: [Immobilienmarkt/Sinyi Realty unterstützt Flower Tree Bank – Erste Erfolge im Naturschutz｜NOWnews](https://www.nownews.com/news/6699611) — 25.06.2025: Wiederansiedlung des Atlasfalters durch die Flower Tree Bank; mindestens fünf Larven auf _Rauvolfia serpentina_ gefunden; Atlasfalter in der Wildnis seltener geworden.
+
+[^9]: [Mothra｜Wikipedia](https://en.wikipedia.org/wiki/Mothra) — Das Design von Mothra ist von Seidenraupen und großen Nachtfaltern der Familie Saturniidae beeinflusst.
+
+[^10]: [Traumhafter als Tiffany Green! Taiwan-endemische „姬長尾水青蛾“ enthüllt｜ETtoday](https://www.ettoday.net/news/20160318/665338.htm) — 18.03.2016, Fotograf Xue Yang: In Taiwan gibt es drei Arten von Langschwanz-Spannern; die endemische _Actias selene_ lebt in mittleren bis hohen Lagen, während die anderen beiden in mittleren und niedrigen Höhenlagen häufig vorkommen.
+
+**Weiterführende Literatur**:
+
+- [Schuppentiere in Taiwan](/de/nature/taiwan-pangolin) — Ein weiterer Nachtaktiver Bewohner der Hügelregionen
+- [Schutz des Schuppentier-Tigers in Taiwan](/de/nature/taiwanese-leopard-cat-conservation) — Eine weitere Situation unter dem Erschließungsdruck der Hügel
+- [Waldökosysteme Taiwans](/de/nature/taiwan-forest-ecosystems) — Das vollständige Ökosystem von Laubwäldern in geringer Höhe bis zu Berg-Nadelwäldern
 
 ---
 
-_Die Geschichte des Taiwan-Atlasmotte erinnert uns daran: In dieser sich schnell verändernden Welt verschwindet manche Schönheit leise. Jede Begegnung im Wald mag die letzte sein. Sie zu schützen, bedeutet unser Zuhause zu schützen._
+_Die Geschichte des Atlasfalters in Taiwan erinnert uns daran: In dieser sich schnell verändernden Welt verschwindet gerade etwas Wunderschönes im Stillen. Jede Begegnung im Wald könnte die letzte sein. Sie zu schützen bedeutet, unser eigenes Zuhause zu schützen._
