@@ -1,115 +1,114 @@
 ---
-title: "Psychological Warfare: From Kinmen's Broadcasting Walls to the Paradigm Shift of AI Cognitive Operations"
-description: "From the 1960s' Deng Lijun broadcasts and 'surrender food' dropped by balloons in Kinmen to the 2026 digital era's information penetration and AI cognitive manipulation, cross-strait psychological warfare has evolved from physical material inducement to digital semantic攻防. This article details the historical context of Taiwan's psychological warfare against China, specific material lists, and contrasts the challenges of the current AI industrialization stage."
+title: "Guerre psychologique : du mur de haut-parleurs de Kinmen au changement de paradigme de la guerre cognitive par l'IA"
+description: "De la voix de Teresa Teng sur les murs de Kinmen dans les années 1960 aux manipulations cognitives par l'IA en 2026, la guerre psychologique entre les deux rives est passée des ressources physiques à la défense sémantique numérique."
 date: 2026-05-03
+category: 'History'
 tags:
   [
-    'psychological warfare',
-    'cognitive warfare',
+    'guerre psychologique',
+    'guerre cognitive',
     'Kinmen',
-    'Deng Lijun',
-    'balloon-dropped items',
-    'surrender food',
-    'AI deepfake',
-    'information warfare',
-    'cross-strait relations',
-    'Radio Free Asia',
-    'media and speech',
+    'Teresa Teng',
+    'objets largués par voie aérienne',
+    "produits d'incitation à la défection",
+    'deepfake IA',
+    "guerre de l'information",
+    'relations inter-détroit',
+    'Radio Central Broadcasting',
   ]
 subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
-category: 'History'
-readingTime: 8
+featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
+readingTime: 8
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: ''
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
-translatedAt: '2026-05-03T21:44:59+08:00'
-featured: false
+translatedAt: '2026-10-11T05:16:37+08:00'
 ---
 
-> **30-Second Overview:**
-> Cross-strait "psychological warfare" is undergoing a fundamental transformation from "physical media" to "digital semantics." In the 1960s-1980s, Taiwan conducted inducement offensives against mainland China using Kinmen's Beishan Broadcasting Wall, Deng Lijun's warm appeals, and balloon-dropped "surrender foods" including pineapple cakes, instant noodles, and even underwear [^1] [^2] [^5]. Entering 2024-2026, the offensive and defensive postures have shifted; mainland China has turned to "AI industrialized cognitive warfare," while Taiwan has shifted to utilizing digital penetration for "democratic value dissemination" and "information asymmetry counterattacks" [^3] [^4] [^10]. This is a long-term evolution from competing for "stomachs" to competing for "brain cognition" and "value identity."
+> **Aperçu en 30 secondes :**
+> La « guerre psychologique » entre les deux rives du détroit traverse une transformation fondamentale, passant des « supports physiques » à la « sémantique numérique ». Dans les années 1960-1980, Taïwan menait une offensive d'incitation contre la Chine continentale en utilisant le mur de haut-parleurs de Beishan à Kinmen, les messages chaleureux de Teresa Teng et des « produits d'incitation à la défection » largués par voie aérienne (contenant des gâteaux à l'ananas, des nouilles instantanées ou même des sous-vêtements) [^1] [^2] [^5]. En 2024-2026, la dynamique s'est inversée : la Chine continentale s'est tournée vers une « guerre cognitive industrialisée par l'IA », tandis que Taïwan utilise sa capacité de pénétration numérique pour la « diffusion des valeurs démocratiques » et la « riposte par l'asymétrie informationnelle » [^3] [^4] [^10]. Il s'agit d'une évolution à long terme, passant de la conquête des « estomacs » à celle des « perceptions cérébrales » et de « l'identité de valeurs ».
 
-## Sound and Stomachs: Historical Details of Taiwan's Psychological Warfare Against China
+## Voix et estomacs : détails historiques de la guerre psychologique de Taïwan contre la Chine
 
-At the peak of the Cold War confrontation, Taiwan's psychological warfare strategy against mainland China was built on the "gap in living standards" and the "temptation of political freedom." This was a "heart-conquering" process highly dependent on physical contact.
+Au plus fort de la confrontation de la Guerre froide, la stratégie psychologique de Taïwan envers la Chine continentale reposait sur l'écart du niveau de vie et l'attrait de la liberté politique. C'était un processus d'« attaque des cœurs » hautement dépendant du contact physique.
 
-### The Radio War: More Than Just Deng Lijun's Voice
+### La guerre radiophonique : bien plus que la voix de Teresa Teng
 
-Kinmen's **Mashan Observation Post** and **Beishan Broadcasting Wall** were the physical incarnations of sonic weapons at that time [^1]. Beyond Deng Lijun's "Sweet Honey," the radio programs of that era were highly targeted:
+L'**observatoire de Mashan** et le **mur de haut-parleurs de Beishan** à Kinmen étaient les incarnations physiques de ces armes sonores de l'époque [^1]. Outre les chansons comme _Tian Mi Mi_ de Teresa Teng, les programmes radiophoniques de l'époque étaient extrêmement ciblés :
 
-- **Specific Programs and Call Signs**: **Radio Free Asia (RFA)**'s broadcast call sign for mainland China included "Voice of Free China" (Voice of Free China). Program content covered the "Measures for Rewarding Defection and Uprising," real-time news from Taiwan, and commentary on the chaotic situation of the Cultural Revolution [^2].
-- **Defection and Uprising Phase**: Broadcasts repeatedly reported "surrender headings" and "landing signals," detailing how mainland pilots could fly to Taoyuan or Ching Chuan Kang Air Force Base, promising rewards of thousands to tens of thousands of taels of gold [^7].
-- **Psychological Anchors**: Leveraging the mainland populace's longing for "home," warm broadcasts were played during festivals, contrasting cross-strait living quality, making "fleeing to freedom" a concrete life choice.
+- **Programmes et indicatifs spécifiques** : La **Radio Central Broadcasting (央廣)** utilisait des indicatifs tels que « Voice of Free China » (la Voix de la Chine Libre). Le contenu couvrait les « mesures de récompense pour l'insurrection de défection », les actualités en temps réel de Taïwan, ainsi que des commentaires sur le chaos de la Révolution culturelle [^2].
+- **Phase d'insurrection** : Les émissions répétaient les « trajectoires de défection » et les « signaux d'atterrissage », guidant précisément les pilotes continentaux sur la manière de voler vers l'aéroport de Taoyuan ou de Qingquangang, tout en promettant des récompenses allant de quelques milliers à plusieurs dizaines de milliers de taels d'or [^7].
+- **Ancrages psychologiques** : En utilisant le désir de « foyer » de la population continentale et en diffusant des messages chaleureux pendant les périodes de fêtes, les programmes mettaient en contraste la qualité de vie des deux rives, faisant de la « fuite vers la liberté » un choix de vie concret.
 
-### Balloon-Dropped Items List: A Precise Display of "Lifestyle"
+### Liste des objets largués : une démonstration précise du « mode de vie »
 
-Balloon-dropped operations were not merely about distributing leaflets; they were a visual and material exhibition about "modern life."
+La guerre par largage aérien ne consistait pas seulement à disperser des tracts, mais constituait une véritable exposition visuelle et matérielle de la « vie moderne ».
 
-| Category                  | Specific Material List [^5] [^11]                                                                    | Psychological Intent                                                                                                        |
-| :------------------------ | :--------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-| **Surrender Food**        | **Pineapple cakes, instant noodles (with seasoning packets), dried meat, sugar, lard cans, rations** | To demonstrate the development of Taiwan's food industry and the extreme abundance of materials.                            |
-| **Daily Necessities**     | **Small transistor radios, watches, fountain pens, nail clippers, underwear, towels**                | Radios were used to encourage "listening to enemy stations," while clothing displayed achievements in the textile industry. |
-| **Medical Supplies**      | **Tiger Balm, cold medicine, band-aids**                                                             | To reflect care for the "physical health" of mainland compatriots and the gap in medical standards.                         |
-| **Political Credentials** | **Photos of Chiang Kai-shek, Surrender Certificates (guaranteeing gold and position commitments)**   | To provide a political safe haven and specific economic opportunities for turning one's life around [^6].                   |
+| Catégorie                    | Liste des biens spécifiques [^5] [^11]                                                                                              | Intention psychologique                                                                                                                 |
+| :--------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Produits d'incitation**    | **Gâteaux à l'ananas, nouilles instantanées (avec sachets d'assaisonnement), viande séchée, sucre, conserves de saindoux, rations** | Démontrer le développement de l'industrie alimentaire taïwanaise et l'abondance extrême des ressources.                                 |
+| **Articles de consommation** | **Petits récepteurs radio à transistors, montres, stylos, coupe-ongles, sous-vêtements, serviettes**                                | Les radios encourageaient « l'écoute clandestine des stations ennemies » ; les vêtements montraient la réussite de l'industrie textile. |
+| **Matériel médical**         | **Baume universel (Wanjin), médicaments contre le rhume, pansements**                                                               | Incarner la sollicitude envers la « santé physique » des compatriotes continentaux et l'écart du niveau médical.                        |
+| **Preuves politiques**       | **Photos de Tchang Kaï-chek, certificats de défection (promesse de caution et de poste)**                                           | Offrir un refuge politique et des opportunités concrètes d'ascension économique [^6].                                                   |
 
-📝 **Curator's Note**: The "instant noodles" in the balloon-dropped items were a highly shocking symbol in mainland China at that time. This industrial product, which could be eaten immediately upon opening and came with multiple seasoning packets, represented an unimaginable "efficiency" and "abundance" to mainland citizens still under the rationing system.
+📝 **Note du commissaire** : Les « nouilles instantanées » larguées étaient un symbole extrêmement frappant dans la Chine continentale de l'époque. Ce produit industriel, prêt à consommer et doté de divers sachets d'assaisonnement, représentait pour une population vivant encore sous le régime des rations une « efficacité » et une « abondance » inimaginables.
 
-## Modern Evolution: Taiwan's Digital Penetration Strategy Against China
+## Évolution moderne : la stratégie de pénétration numérique de Taïwan
 
-Entering 2026, traditional balloons and loudspeakers have moved to the background. Taiwan's psychological warfare against China has shifted to utilizing **digital penetration** and **information asymmetry** for counterattacks.
+En 2026, les ballons et les haut-parleurs traditionnels sont passés au second plan. La guerre psychologique de Taïwan s'est tournée vers l'utilisation de la **pénétration numérique** et de l'**asymétrie informationnelle** pour riposter.
 
-### Value Psychological Warfare Penetrating the Firewall
+### Une « guerre des valeurs » perçant le pare-feu
 
-Taiwan utilizes the communicative power of its free society to penetrate China's information control network. This is no longer simple "surrender rewards," but "cognitive enlightenment":
+Taïwan utilise la puissance de diffusion de sa société libre pour traverser le réseau de contrôle de l'information chinois. Il ne s'agit plus de simples « récompenses de défection », mais d'un « éveil cognitif » :
 
-- **Social Media Penetration**: Through platforms like X (formerly Twitter), YouTube, and Telegram, Taiwan's civil society and government cooperate to disseminate information about democratic operations, social welfare, and the re-dissemination of blocked information within mainland China [^10].
-- **Digital Democracy Wall**: Utilizing blockchain technology or decentralized storage to preserve records of internal mainland protests (such as the White Paper Movement records), Taiwan serves as a "backup library for Mandarin-speaking democracy," which itself is a powerful psychological demonstration.
+- **Pénétration par les réseaux sociaux** : Via des plateformes comme X (anciennement Twitter), YouTube et Telegram, la société civile et les autorités taïwanaises collaborent pour diffuser des informations sur le fonctionnement de la démocratie, la protection sociale, et retransmettre les messages bloqués à l'intérieur de la Chine continentale [^10].
+- **Mur démocratique numérique** : En utilisant la technologie blockchain ou le stockage décentralisé, Taïwan préserve la mémoire des luttes supprimées en Chine continentale (comme les archives du mouvement « papier blanc »), faisant de Taïwan une « base de sauvegarde de la démocratie sinophone », ce qui constitue en soi un puissant exemple psychologique.
 
-### Counterattacks Against Cognitive Warfare
+### Riposte contre la guerre cognitive
 
-When China uses AI-generated disinformation to attack Taiwan, Taiwan's psychological warfare units (such as the Psychological Warfare Brigade) have shifted to "defensive psychological warfare" and "exposure-type psychological warfare":
+Lorsque la Chine utilise l'IA pour générer des fausses informations attaquant Taïwan, les unités de guerre psychologique taïwanaises (telles que le Bataillon de guerre psychologique) se tournent vers une « guerre psychologique défensive » et une « guerre de révélation » :
 
-- **Exposure Mechanism**: Rapidly using AI identification tools to dismantle CCP deepfake videos (such as the 2025 fake doctor case) and creating summary guides to reverse-push back into the mainland internet space, thereby undermining their official credibility [^3] [^9].
-- **Utilization of Information Asymmetry**: Targeting internal social contradictions in mainland China (such as youth unemployment and economic slowdown), disseminating authentic international financial analysis and comparative data to shake mainland citizens' confidence in the "great power rise" narrative.
+- **Mécanismes de révélation** : Utilisation rapide d'outils de reconnaissance par IA pour déconstruire les vidéos _deepfake_ du Parti communiste chinois (comme le cas des faux médecins en 2025), puis transformation de ces méthodes en guides pédagogiques («懶人包 ») diffusés en retour sur l'internet continental afin de discréditer leur crédibilité officielle [^3] [^9].
+- **Exploitation de l'asymétrie informationnelle** : Ciblant les contradictions sociales internes à la Chine continentale (chômage des jeunes, ralentissement économique), Taïwan diffuse des analyses financières internationales réelles et des données comparatives pour ébranler la confiance de la population envers le récit de « l'ascension de la grande puissance ».
 
-## Paradigm Shift: From "Inducement" to "Identity"
+## Changement de paradigme : de « l'incitation » à « l'identité »
 
-Comparing history with the modern era, the essence of psychological warfare has undergone a profound displacement:
+En comparant l'histoire et la modernité, l'essence de la guerre psychologique a subi un déplacement profond :
 
-1.  **Media Transformation**: From physical balloons and loudspeakers to digital algorithms, encrypted communications, and AI.
-2.  **Target Shift**: Historical psychological warfare aimed to "attract defection" (individual breakthrough); modern psychological warfare aims to "export identity" and "guard the truth" (group enlightenment).
-3.  **Convergence of Defense and Offense**: In the digital age, defending against disinformation is simultaneously an "offensive" of "true information" against the adversary.
+1.  **Transformation des supports** : Passage des ballons et haut-parleurs physiques aux algorithmes, communications cryptées et IA.
+2.  **Changement d'objectif** : La guerre historique visait à « attirer la défection » (percée individuelle) ; la guerre moderne vise à « exporter une identité » et à « protéger la vérité » (éveil collectif).
+3.  **Fusion de la défense et de l'attaque** : À l'ère numérique, défendre contre les fausses informations revient simultanément à mener une offensive de « l'information réelle » contre l'adversaire.
 
-📝 **Curator's Note**: In the past, we exchanged "pineapple cakes" for the enemy soldier's stomach; now we exchange "facts and transparency" for the mainland populace's skepticism toward authoritarian systems. The defense line has retreated from Kinmen's beaches to every packet in the digital space.
+📝 **Note du commissaire** : Autrefois, nous utilisions des « gâteaux à l'ananas » pour conquérir l'estomac des soldats ennemis ; aujourd'hui, nous utilisons les « faits et la transparence » pour susciter le doute de la population d'en face envers le régime autoritaire. La ligne de défense s'est retirée des plages de Kinmen pour se loger dans chaque paquet de données de l'espace numérique.
 
-## Conclusion: Building a New Line of Resilience
+## Conclusion : établir une nouvelle ligne de défense résiliente
 
-Psychological warfare has never disappeared; it has only changed its shell. From the history of Kinmen's broadcasting walls, we learn the power of sound; in the challenges of modern AI and information warfare, we must learn how to use "truth" as the most powerful psychological warfare weapon. Taiwan, as the democratic lighthouse of the Mandarin-speaking world, its very existence is the most powerful psychological warfare against authoritarian systems.
+La guerre psychologique n'a jamais disparu, elle a seulement changé d'enveloppe. De l'histoire du mur de haut-parleurs de Kinmen, nous avons appris le pouvoir de la voix ; face aux défis modernes de l'IA et de la guerre de l'information, nous devons apprendre à utiliser la « vérité » comme l'arme psychologique la plus puissante. En tant que phare démocratique du monde sinophone, l'existence même de Taïwan constitue la guerre psychologique la plus forte contre les régimes autoritaires.
 
-## References
+## Références
 
-[^1]: [https://www.bbc.com/ukchina/simp/vert-cul-47506739](https://www.bbc.com/ukchina/simp/vert-cul-47506739) — BBC News Chinese Report
+[^1]: [https://www.bbc.com/ukchina/simp/vert-cul-47506739](https://www.bbc.com/ukchina/simp/vert-cul-47506739) — Rapport BBC News en chinois
 
-[^2]: [https://opinion.cw.com.tw/blog/profile/353/article/11914](https://opinion.cw.com.tw/blog/profile/353/article/11914) — Independent Review@The World Column
+[^2]: [https://opinion.cw.com.tw/blog/profile/353/article/11914](https://opinion.cw.com.tw/blog/profile/353/article/11914) — Commentaire indépendant @ Colonne de天下 (Skyline)
 
-[^3]: [https://www.nownews.com/news/6786985](https://www.nownews.com/news/6786985) — NOWnews Today News
+[^3]: [https://www.nownews.com/news/6786985](https://www.nownews.com/news/6786985) — NOWnews
 
-[^4]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — Official Data from China's State Council Taiwan Affairs Office (PRC Perspective)
+[^4]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — Données officielles de l'Office des affaires de Taïwan (point de vue de la RPC)
 
-[^5]: [https://tcmb.culture.tw/zh-tw/detail?id=753758](https://tcmb.culture.tw/zh-tw/detail?id=753758) — National Cultural Memory Bank
+[^5]: [https://tcmb.culture.tw/zh-tw/detail?id=753758](https://tcmb.culture.tw/zh-tw/detail?id=753758) — National Culture Memory Bank : National Culture Memory Bank
 
-[^6]: [http://board.matsu.idv.tw/boardview.php?board=143&pid=69902](http://board.matsu.idv.tw/board_view.php?board=143&pid=69902) — Matsu Information Network Archive
+[^6]: [http://board.matsu.idv.tw/boardview.php?board=143&pid=69902](http://board.matsu.idv.tw/board_view.php?board=143&pid=69902) — Archives du site d'information de Matsu
 
-[^7]: [https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html](https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html) — Yahoo News Report
+[^7]: [https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html](https://tw.news.yahoo.com/%E7%B4%B0%E6%95%B8%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB-110352156.html) — Rapport Yahoo News
 
-[^8]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — Official Data from China's State Council Taiwan Affairs Office (PRC Perspective)
+[^8]: [https://www.gwytb.gov.cn/m/speech/202601/t2026012812748417.htm](https://www.gwytb.gov.cn/m/speech/202601/t20260128_12748417.htm) — Données officielles de l'Office des affaires de Taïwan (point de vue de la RPC)
 
-[^9]: [Taiwan.md: Cognitive Warfare — The AI Industrialization Stage of Taiwan's Information Battlefield](https://taiwan.md/society/認知作戰/) — Taiwan.md internal entry, recording the industrialization trend of China's AI cognitive warfare against Taiwan from 2024-2026
+[^9]: [Taiwan.md : Guerre cognitive — La phase d'industrialisation de l'IA dans la guerre de l'information à Taïwan](https://taiwan.md/society/認知作戰/) — Entrée interne Taiwan.md, documentant la tendance à l'industrialisation de la guerre cognitive par l'IA de la Chine contre Taïwan entre 2024 et 2026
 
-[^10]: [https://theintellectual.net/zh/famous-column/zeng-jianyuan/3083-202107e.html](https://theintellectual.net/zh/famous-column/zeng-jianyuan/3083-202107e.html) — The Intellectual Special Article
+[^10]: [https://theintellectual.net/zh/famous-column/zeng-jianyuan/3083-202107e.html](https://theintellectual.net/zh/famous-column/zeng-jianyuan/3083-202107e.html) — Article spécialisé de The Intellectual : Article spécialisé de The Intellectual
 
-[^11]: [https://www.facebook.com/setnews/videos/614706516938986/](https://www.facebook.com/setnews/videos/614706516938986/) — Facebook Public Post
+[^11]: [https://www.facebook.com/setnews/videos/614706516938986/](https://www.facebook.com/setnews/videos/614706516938986/) — Publication publique Facebook

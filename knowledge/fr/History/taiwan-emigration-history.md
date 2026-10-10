@@ -1,244 +1,244 @@
 ---
-title: "Taiwan's History of Going Abroad: From 'KMT General Approval' to 'Worldwide Access' Narrative of Islander Cross-Border Mobility"
-description: "On January 1, 1979, Taiwan issued its first tourist passport. This was not merely the issuance of a piece of paper, but a turning point from martial law isolation to 'citizen diplomacy,' recording the story of how Taiwanese people transformed from 'sinners wasting foreign exchange' into global travelers."
+title: "L'histoire des voyages à l'étranger de Taïwan : du « contrôle de la police militaire » à la « libre circulation mondiale », le récit transfrontalier des insulaires"
+description: "Le 1er janvier 1979, Taïwan a délivré son premier passeport de tourisme. Plus que la simple distribution d'un document, cela marquait le tournant entre l'isolement sous la loi martiale et la diplomatie citoyenne, racontant comment les Taïwanais sont passés du statut de « coupables de gaspillage de devises étrangères » à celui de voyageurs du monde."
 date: 2026-05-02
+category: 'History'
 tags:
   [
-    'Going Abroad',
+    "voyage à l'étranger",
     '1979',
-    'Martial Law',
-    'Tourism',
-    'Passport',
-    'Study Abroad Wave',
-    'Foreign Exchange Control',
-    'Lin Hsien-tang',
-    'Freedom of Movement',
+    'loi martiale',
+    'tourisme',
+    'passeport',
+    "vague d'études à l'étranger",
+    'contrôle des devises',
+    'Lin Hsi-tang',
+    'liberté de mouvement',
   ]
-author: 'Taiwan.md Contributors'
 subcategory: '社會與日常史'
-category: 'History'
-readingTime: 25
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+readingTime: 25
 translatedFrom: 'History/台灣出國史.md'
-sourceCommitSha: ''
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:8d6508c76f18f1af'
 sourceBodyHash: 'sha256:2ed834cb9de7de1b'
-translatedAt: '2026-05-03T21:42:07+08:00'
-featured: false
+translatedAt: '2026-10-10T21:39:22.518541+00:00'
 ---
 
-> **30-Second Overview:**
-> For today's Taiwanese people, traveling abroad is as common as daily life. However, before 1979, outbound tourism was an illegal act of "wasting foreign exchange." From Lin Hsien-tang's global journey to the millions of people traveling abroad annually today, Taiwan's passports went from "approved by the Military Police General Headquarters" to "worldwide access" in less than 50 years. This article traces Taiwan's cross-border history from the origin point of Austronesian dispersal to the modern era, revealing the island's miraculous journey from "house arrest" to "revenge travel."
+> **Aperçu en 30 secondes :**
+> Pour les Taïwanais d'aujourd'hui, voyager à l'étranger est devenu une activité banale. Pourtant, avant 1979, le tourisme international était considéré comme un acte illégal de « gaspillage de devises étrangères ». Du voyage autour du monde de Lin Hsientsang jusqu'aux millions de voyageurs annuels actuels, le passeport taïwanais est passé d'un document nécessitant l'« approbation du commandement militaire » à un laissez-passer mondial en moins de 50 ans. Cet article retrace l'histoire des mouvements transfrontaliers de Taïwan, depuis l'origine de l'expansion austronésienne jusqu'à l'ère moderne, pour observer le voyage fantastique de cette île, passant de l'interdiction de circuler à une ère de « voyages de rattrapage ».
 
-## Taiwan's Roots of Mobility: The Great Voyage of the Austronesians
+## Les racines de la mobilité à Taïwan : La grande épopée des Austronésiens
 
-Long before written history, Taiwan was already a crucial stop in the epic story of human movement. Approximately 5,000 to 6,000 years ago, the Austronesian peoples set out from Taiwan, expanding southward and eastward. Their footprints spread across the Philippines, Indonesia, Malaysia, New Zealand, and even as far as Easter Island and Madagascar. This was an epic "going abroad" action spanning tens of thousands of kilometers. Relying on sophisticated navigation techniques and knowledge of celestial bodies, they spread their languages, cultures, and agricultural technologies to the vast islands of the Pacific and Indian Oceans. [^37] [^38] Taiwan, as the "homeland" of the Austronesian peoples, witnessed the earliest cross-border movements and cultural exchanges of humanity. This history laid a deep foundation for the diverse ethnic groups and complex mobility of the island later on.
+Bien avant l'histoire écrite, Taïwan était déjà une étape clé de la grande épopée des migrations humaines. Il y a environ 5 000 à 6 000 ans, les Austronésiens (_Austronesian_) sont partis de Taïwan pour se disperser vers le sud et l'est, laissant leur empreinte aux Philippines, en Indonésie, en Malaisie, en Nouvelle-Zélande, et allant même jusqu'à l'île de Pâques et Madagascar. Il s'agissait d'une opération de « sortie du pays » épique couvrant des dizaines de milliers de kilomètres ; grâce à leurs techniques de navigation raffinées et à leur connaissance de la voûte céleste, ils ont propagé leur langue, leur culture et leurs techniques agricoles à travers les vastes îles du Pacifique et de l'océan Indien. [^37] [^38] Taïwan, en tant que « terre d'origine » des Austronésiens, a été le témoin des premiers mouvements transfrontaliers et des échanges culturels de l'humanité, une période historique qui a jeté les bases profondes de la diversité ethnique et de la complexité des migrations sur cette île par la suite.
 
-## The Age of Discovery and Qing Rule: Shackles of Mobility and Sea Bans
+## L'ère des grandes découvertes et la domination Qing : les entraves à la mobilité et l'interdiction maritime
 
-In the 17th-century Age of Discovery, Taiwan was a vital trade transshipment hub in East Asia. The arrival of the Dutch and Spanish opened the prelude to Taiwan's connection with the international community. At that time, Han immigrants were mostly hired laborers or merchants, and their mobility was primarily limited by the colonial powers' trade interests. [^1] During the Dutch period, Taiwan became the core of the trade chain between Japan, China, and Batavia. Han people hunted sika deer, exchanging deer hides and sugar for overseas goods. This was Taiwan's earliest form of "globalized" mobility. [^2] [^3]
+Au XVIIe siècle, lors de l'ère des grandes découvertes, Taïwan constituait une importante escale commerciale en Asie de l'Est. L'arrivée des Néerlandais et des Espagnols sur l'île a marqué le début de l'ouverture de Taïwan sur le plan international. À cette époque, les immigrés chinois étaient majoritairement des travailleurs salariés ou des marchands, dont la mobilité était principalement dictée par les intérêts commerciaux des colonisateurs. [^1] Sous la période néerlandaise, Taïwan est devenue un pivot de la chaîne commerciale reliant le Japon, la Chine et Batavia ; les Chinois chassaient le cerf axis pour échanger des peaux de cerf et du sucre contre des marchandises étrangères, ce qui constitue les prémices de la « mondialisation » et de la mobilité à Taïwan. [^2] [^3]
 
-During the Ming Zheng period, Koxinga (Zheng Chenggong) implemented strict sea bans to resist the Qing Dynasty, leaving Taiwan in a state of military closure. [^4] In the early Qing period, the Qing court issued the "Ban on Crossing the Taiwan Strait," restricting people from the mainland from entering and restricting Taiwanese from leaving, forming the historical roots of an "isolated island" mentality. [^5] It was not until the mid-19th century, when ports were opened for trade, that Taiwanese people had the opportunity to go to Southeast Asia as "contracted Chinese laborers" (commonly known as "piglets"). This was a cross-border tragedy filled with blood and tears; many signed indenture contracts and never returned. [^6] [^7]
+À l'époque de Koxinga (Ming Zheng), celui-ci a mis en œuvre une stricte interdiction maritime pour faire face à la dynastie Qing, plaçant Taïwan dans un état d'isolement militaire. [^4] Au début de la domination Qing, le gouvernement impérial a promulgué des « décrets d'interdiction de traverser vers Taïwan », limitant l'arrivée des Chinois du continent tout en restreignant les départs des Taïwanais, créant ainsi les racines historiques d'une mentalité d'« île isolée ». [^5] Ce n'est qu'au milieu du XIXe siècle, avec l'ouverture des ports au commerce, que les Taïwanais ont pu se rendre en Asie du Sud-Est sous le statut de « travailleurs chinois sous contrat » (communément appelés _zhūzǎi_ ou « cochons »). Ce fut une tragédie transfrontalière marquée par la souffrance et les larmes, car beaucoup ne sont jamais revenus après avoir signé leur contrat d'engagement. [^6] [^7]
 
-## Japanese Colonial Rule: "Civilization" and "Grand Tours" under the Passport System
+## L'époque de la domination japonaise : « civilisation » et « grands voyages » sous le régime des passeports
 
-After Japan took over Taiwan in 1895, Taiwanese people became Japan's "new subjects." To travel to places outside the Japanese mainland (such as China or Southeast Asia), one had to apply for a "travel passport" (旅券). [^8]
+Après l'annexion de Taïwan par le Japon en 1895, les Taïwanais sont devenus de « nouveaux sujets » du Japon. Pour se rendre dans des régions situées en dehors du territoire métropolitain japonais (comme la Chine ou l'Asie du Sud-Est), il était impératif de demander un _lǚquàn_ (passeport). [^8]
 
-### 2.1 Differential Treatment and Struggles under the Passport System
+### 2.1 Traitement différencié et résistance face au système des passeports
 
-The passport system at that time clearly distinguished between Japanese people and Taiwanese people. Taiwanese people traveling to China needed to apply for a "Pass to Cross to China" (渡華旅券), and the review process was extremely strict, with approval rates influenced by political stances. [^9] This management was not only for public security but also for the colonizers to monitor Taiwanese people through administrative means to "civilize" them. [^10]
+À l'époque, le système des passeports appliquait une distinction manifeste entre les Japonais et les Taïwanais. Les Taïwanais souhaitant se rendre en Chine devaient solliciter un « passeport pour la traversée de la Chine » (_dùhuá lǚquàn_), dont l'examen était extrêmement rigoureux et dont le taux d'approbation dépendait des positions politiques. [^9] Cette gestion ne visait pas seulement le maintien de l'ordre public, mais constituait également un outil de surveillance utilisé par les colonisateurs pour imposer une « civilisation » aux Taïwanais par des moyens administratifs. [^10]
 
-### 2.2 The Grand Tours of Gentry and Ideological Enlightenment
+### 2.2 Les grands voyages des notables et l'éveil des idées
 
-Despite the restrictions, the gentry of the time initiated a trend of "grand tours." In 1927, Lin Hsien-tang of the Wufeng Lin family embarked on a year-long global journey with his son, visiting Europe, the Americas, and Asia. Lin Hsien-tang serialized his observations in the _Taiwan Minbao_ (Taiwan People's Newspaper), allowing Taiwanese people to see the world through the eyes of their compatriots for the first time. [^11] [^12] The overseas experiences of political figures such as Tsai Pei-huo and Chiang Wei-shui also became nourishment for later Taiwan social movements, bringing Western democratic ideas back to the island. [^13]
+Malgré ces restrictions, une tendance aux « grands voyages » (_zhuàngyóu_) a néanmoins émergé parmi les notables de l'époque. En 1927, Lin Hsien-tang, issu de la célèbre famille Lin de Wufeng, est parti pour un tour du monde d'un an avec son fils, parcourant l'Europe, l'Amérique et l'Asie. Lin a publié ses récits de voyage en feuilleton dans le 《Taiwan Minpao》, permettant aux Taïwanais de découvrir le monde pour la première fois à travers les yeux d'un compatriote. [^11] [^12] Les expériences à l'étranger de figures politiques telles que Tsai Pei-huo ou Chiang Wei-shui sont également devenues des sources d'inspiration pour les futurs mouvements sociaux taïwanais, ramenant sur l'île les courants de pensée démocratiques occidentaux. [^13]
 
-📝 Curator's Note: The "travel passport" of that era was not just a permit; it was a mirror reflecting the class and struggles under the colonial system. Lin Hsien-tang's global journey was essentially a pioneering attempt at "citizen diplomacy."
+📝 Note du conservateur : À cette époque, le « passeport » n'était pas qu'un simple laissez-passer ; c'était un miroir reflétant les hiérarchies et les luttes sous le régime colonial. Le voyage autour du monde de Lin Hsien-tang constituait, par essence, une tentative précurseure de « diplomatie citoyenne ».
 
-## The Martial Law Era: The Dream of Going Abroad Watched by the "Military Police General Headquarters"
+## L'époque de la loi martiale : le rêve de voyager sous l'œil du « Commandement de la sécurité »
 
-After World War II and the relocation of the Nationalist Government to Taiwan, Taiwan entered a 30-year period of martial law. At that time, going abroad was considered "wasting foreign exchange" and posed national security concerns.
+Après la Seconde Guerre mondiale et le transfert du gouvernement national à Taïwan, l'île est entrée dans une période de loi martiale qui a duré 30 ans. À cette époque, partir à l'étranger était considéré comme un « gaspillage de devises étrangères » et soulevait des préoccupations pour la sécurité nationale.
 
-- **Who could go abroad?** Only those studying abroad, on business, on official duty, visiting relatives, or attending funerals. [^14]
-- **The Role of the Military Police General Headquarters (Jingzong):** The decision-making power did not lie with the Ministry of Foreign Affairs but with the "Taiwan Provincial Military Police General Headquarters" (Jingzong). Jingzong not only reviewed documents but also conducted ideological investigations; some individuals were even summoned for interviews after returning. [^15] [^16]
-- **Exceptional Cases:** In 1970, for the Osaka Expo in Japan, some citizens were able to visit the Republic of China Pavilion designed by I.M. Pei under the guise of business. This was considered an important task for promoting national prestige at the time. [^17]
+- **Qui pouvait partir ?** Les voyages étaient limités aux études, aux affaires, aux missions officielles, aux visites familiales ou aux funérailles. [^14]
+- **Le rôle du Commandement de la sécurité :** Le pouvoir de décision ne relevait pas du ministère des Affaires étrangères, mais du « Commandement de la sécurité de la province de Taïwan » (_Taiwan sheng jingbei zong sili bu_, ou _Jingzong_). Le _Jingzong_ ne se contentait pas d'examiner les dossiers ; il procédait également à des enquêtes idéologiques, et certaines personnes pouvaient même être convoquées pour un interrogatoire après leur retour au pays. [^15] [^16]
+- **Cas exceptionnels :** Lors de l'Exposition universelle d'Osaka en 1970 au Japon, certains citoyens ont pu se rendre sur place sous couvert d'affaires pour visiter le pavillon de la République de Chine, conçu par I. M. Pei. À l'époque, cela était considéré comme une mission importante pour promouvoir le prestige national. [^17]
 
-The procedures for going abroad were extremely cumbersome at that time. Many people, in order to travel abroad, forged business invitation letters through travel agencies, which also gave rise to early agency service chains. [^18] [^19]
+Les procédures de voyage étaient extrêmement fastidieuses à l'époque. Pour pouvoir partir, beaucoup de gens passaient par des agences de voyages pour falsifier des lettres d'invitation d'affaires, ce qui a favorisé l'émergence des premières chaînes de services d'intermédiation. [^18] [^19]
 
-### "Political Shackles" under the Martial Law Era: Blacklists and Overseas Dissidents
+### Les « carcans politiques » sous la loi martiale : listes noires et dissidents à l'étranger
 
-In addition to Jingzong's review of citizens within the territory, the government also implemented strict political control over Taiwanese people overseas, forming the so-called "blacklist." Any Taiwanese person overseas who was deemed by the government to advocate for Taiwan independence, sympathize with the left, participate in the Chinese Conservation Movement, or whose words and actions were viewed by intelligence agencies as "dissident," would be placed on the blacklist. Once listed, they could not obtain or renew their passports and were prohibited from entering Taiwan, effectively making it impossible for them to return home. [^47] [^48] Many overseas students or overseas Chinese were placed on the blacklist for participating in democratic movements or expressing criticism of the government abroad, preventing them from returning home to visit relatives for decades, and even preventing them from attending funerals when their parents passed away. This political control made "going abroad" a one-way street with no return for many people, profoundly influencing Taiwan's democratization process and the development of overseas communities. [^49] [^50]
+En plus du contrôle des voyages exercé par le _Jingzong_ sur les résidents, le gouvernement imposait également un strict contrôle politique aux Taïwanais vivant à l'étranger, créant ce que l'on appelle les « listes noires ». Quiconque était identifié par le gouvernement comme prônant l'indépendance de Taïwan, sympathisant avec la gauche, participant à des mouvements de défense de la souveraineté sur les îles, ou dont les paroles et actes étaient jugés « dissidents » par les services de renseignement politique, se retrouvait inscrit sur ces listes. Une fois inscrits, ces individus ne pouvaient pas seulement obtenir ou renouveler leur passeport, ils se voyaient également interdire l'entrée à Taïwan, se retrouvant dans la situation de ne plus pouvoir rentrer chez eux. [^47] [^48] De nombreux étudiants ou expatriés taïwanais ont été inscrits sur ces listes pour avoir participé à des mouvements démocratiques ou tenu des propos critiques envers le gouvernement à l'étranger, les empêchant de retourner voir leur famille pendant des décennies, et les privant même de la possibilité d'assister aux funérailles de leurs parents. Ce contrôle politique a fait du « voyage à l'étranger » pour beaucoup une voie sans retour, influençant profondément le processus de démocratisation de Taïwan et le développement de sa communauté à l'étranger. [^49] [^50]
 
-### "Administrative Shackles" under the Martial Law Era: Exit Controls for Conscripts
+### Les « carcans administratifs » sous la loi martiale : contrôle de sortie des conscrits
 
-In addition to Jingzong's ideological review, another long-standing and widespread influence on the ability of Taiwanese men to go abroad was the strict "exit control for conscripts." During the martial law era, all eligible males (usually aged 19 to 36) who had not yet served in the military had to obtain approval from military units to go abroad, whether for study, visiting relatives, or business. This control aimed to ensure the country's military manpower and prevent conscripts from evading military service, but it also became a huge obstacle for many Taiwanese men pursuing overseas development or simply traveling abroad. [^39] Even after the opening of tourism in 1979, this restriction remained, and it continued to affect Taiwanese society for a long time after the lifting of martial law. Conscripts had to apply for an "Exit Permit," and the review process was time-consuming and complicated, with regulations such as limiting the number of trips and the duration of stay. This meant that many men had to consider military service issues when planning to study abroad, work and holiday, or work overseas for the long term, becoming a special shackle on their "freedom of movement." [^40] [^41]
+Outre la censure idéologique du _Jingzong_, un autre facteur a durablement et largement affecté les déplacements des hommes taïwanais : le strict « contrôle de sortie des conscrits ». Sous la loi martiale, tout homme en âge de servir (généralement entre 19 et 36 ans) n'ayant pas encore accompli son service militaire devait obtenir l'autorisation des unités militaires pour partir à l'étranger, que ce soit pour les études, une visite familiale ou les affaires. Ce contrôle visait à garantir la réserve militaire nationale et à empêcher l'évasion des conscrits, mais il est devenu un obstacle majeur pour de nombreux Taïwanais souhaitant se développer à l'étranger ou simplement voyager. [^39] Même après l'ouverture du tourisme en 1979, cette restriction a persisté et a continué d'influencer la société taïwanaise longtemps après la levée de la loi martiale. Les conscrits devaient demander un « permis de sortie du territoire », un processus long et régi par des règles complexes, telles que la limitation du nombre de voyages ou de la durée du séjour. Cela obligeait de nombreux hommes à intégrer la question du service militaire dans leurs projets d'études, de _working holiday_ (voyage-vacances) ou de travail de longue durée à l'étranger, faisant de cette obligation un carcan particulier sur leur « liberté de mouvement ». [^40] [^41]
 
-## "Come to Taiwan, Go to the US": The Study Abroad Wave and Doctor Wave under the Cold War
+## « Aller à l'Université nationale de Taïwan pour partir aux États-Unis » : la vague d'études et la vague des médecins sous la guerre froide
 
-In the 1960s and 1970s, Taiwan experienced two large-scale waves of migration to the United States, which were inextricably linked to the international situation under the Cold War.
+Durant les années 1960 et 1970, Taïwan a connu deux vagues massives d'émigration vers les États-Unis, un phénomène indissociable du contexte international de la guerre froide.
 
-### 4.1 "Brain Drain" and "Grand Tours" of Tech Talent
+### 4.1 La « fuite » et le « grand voyage » des talents technologiques
 
-Benefiting from the US-Soviet Cold War and the space race, the US urgently needed tech talent. In 1958, the US passed the National Defense Education Act, and in 1965, it passed a new immigration law. A popular saying in Taiwan at the time was: "Come, come, come, come to National Taiwan University; go, go, go, go to the US." This trend peaked between 1965 and 1975. [^20] [^21]
+Bénéficiant de la guerre froide entre les États-Unis et l'URSS ainsi que de la course à l'espace, les États-Unis avaient un besoin immense de talents technologiques. En 1958, les États-Unis ont adopté le _National Defense Education Act_, suivis par une nouvelle loi sur l'immigration en 1965. À l'époque, une expression était populaire à Taïwan : « Venez, venez, venez à l'Université nationale de Taïwan ; partez, partez, partez aux États-Unis. » Cette tendance a atteint son apogée entre 1965 et 1975. [^20] [^21]
 
-### 4.2 The Doctor Wave and "Selling Fields to Send Sons Abroad"
+### 4.2 La vague des médecins et le « sacrifice des terres pour l'enfant »
 
-In the late 1960s, due to the Vietnam War causing a shortage of doctors in the US, US hospitals opened quotas for foreign medical school graduates. Many Taiwanese families even "sold their fields to send their sons abroad," forming a special "American Dream" culture. [^20] The democratic ideas and consumption habits brought back by these students indirectly but profoundly contributed to Taiwan's later lifting of martial law. [^22]
+À la fin des années 1960, en raison de la guerre du Vietnam qui a provoqué une pénurie de médecins aux États-Unis, les hôpitaux américains ont ouvert des postes aux diplômés d'écoles de médecine étrangères. De nombreuses familles taïwanaises sont allées jusqu'à « vendre leurs terres pour envoyer leur enfant » à l'étranger, créant ainsi une culture particulière du « rêve américain ». [^20] Les courants de pensée démocratiques et les habitudes de consommation rapportés par ces étudiants ont apporté une contribution indirecte mais profonde à la future levée de la loi martiale à Taïwan. [^22]
 
-📝 Curator's Note: These students and doctors later became the backbone of the Taiwan-US community, reflecting the social phenomenon of brain drain in Taiwan at that time.
+📝 Note du commissaire : Ces étudiants et médecins sont devenus, par la suite, des piliers de la communauté taïwanaise aux États-Unis, reflétant également le phénomène social de la fuite des cerveaux (_brain drain_) qui touchait Taïwan à l'époque.
 
-## 1979: The First Tourist Passport and "Citizen Diplomacy"
+## 1979 : Le premier passeport touristique et la « diplomatie citoyenne »
 
-With Taiwan's economic takeoff in the 1970s and the diplomatic dilemma of the US-Taiwan break in 1979, the government decided to open "citizen tourism," hoping to break the diplomatic blockade through civilian exchanges. [^23]
+Avec l'essor économique de Taïwan dans les années 1970, conjugué aux difficultés diplomatiques liées à la rupture des relations entre Taïwan et les États-Unis en 1979, le gouvernement a décidé d'ouvrir le « tourisme citoyen », espérant briser le blocus diplomatique par les échanges privés. [^23]
 
-On January 1, 1979, Taiwan officially opened outbound tourism. The first person to receive a tourist passport was Ms. Wu Yongchuan. [^24] At that time, regulations stipulated that each person could go abroad twice a year and could not visit communist countries. [^25] Going abroad was a matter of "glorifying ancestors" at the time; relatives and friends would form groups to see off the flight at the airport, with a sense of ritual no less than when soldiers returned from service or when a daughter-in-law was married. [^24] [^21]
+Le 1er janvier 1979, Taïwan a officiellement autorisé les voyages touristiques à l'étranger. La première personne à avoir reçu un passeport touristique fut Mme Wu Yung-chuan. [^24] À l'époque, la réglementation limitait chaque personne à deux voyages par an et interdisait les déplacements vers les pays communistes. [^25] Partir à l'étranger était alors considéré comme un événement de prestige pour honorer la famille ; les proches et les amis formaient souvent des groupes pour aller raccompagner le voyageur à l'aéroport, avec un sens du rituel comparable à une fin de service militaire ou à un mariage. [^24] [^21]
 
-## 1987: The Ice-Breaking Journey of Cross-Strait Family Visits and the Political Implications of Mobility
+## 1987 : Le voyage de dégel des visites familiales entre les deux rives et la signification politique de la mobilité
 
-When outbound tourism was opened in 1979, the government explicitly stipulated that "one could not visit communist countries." [^22] However, with the subtle changes in cross-strait relations and the growing demands within Taiwanese society to open family visits, especially the deep longing of many veterans to return to their hometowns to visit relatives while they were still alive, this ban was broken on November 2, 1987. The government announced the opening of Taiwan residents to travel to the mainland to visit relatives. This was not only a major turning point in cross-strait relations but also a milestone in the process of "freedom of movement" for Taiwanese people. [^42] [^43]
+Lors de l'ouverture du tourisme en 1979, le gouvernement stipulait explicitement qu'il était « interdit de se rendre dans des pays communistes » [^22]. Cependant, face aux changements subtils des relations inter-détroit et à la montée croissante des revendications au sein de la société taïwanaise pour l'ouverture des visites familiales — notamment en raison de la nostalgie profonde de nombreux anciens combattants souhaitant revoir leurs proches de leur vivant — cette interdiction a été levée le 2 novembre 1987. Le gouvernement a annoncé l'autorisation pour les résidents de Taïwan de se rendre en Chine continentale pour des visites familiales, ce qui a non seulement marqué un tournant majeur dans les relations entre les deux rives, mais a également constitué un jalon crucial dans le processus de « liberté de mouvement » des Taïwanais. [^42] [^43]
 
-The opening of this policy allowed hundreds of thousands of veterans to set foot on the road home, opening the door to civilian exchanges between the two sides of the strait. Since then, visiting relatives, tourism, and business in the mainland have become important options for Taiwanese people to go abroad (or out of the territory), accounting for a large proportion of outbound trips for a long time. This history not only demonstrates the important significance of "freedom of movement" in the democratization process but also highlights the profound impact of political factors on individual cross-border mobility. [^44] [^45]
+L'ouverture de cette politique a permis à des centaines de milliers d'anciens combattants de reprendre le chemin de leur terre natale et a ouvert les portes des échanges civils entre les deux rives du détroit. Dès lors, les voyages en Chine continentale pour des visites familiales, le tourisme ou les affaires sont devenus l'une des options majeures de déplacement à l'étranger pour les Taïwanais, représentant pendant une longue période une part importante du nombre total de départs à l'étranger. Cette période historique illustre non seulement l'importance de la « liberté de mouvement » dans le processus de démocratisation, mais souligne également l'influence profonde des facteurs politiques sur la mobilité transfrontalière des individus. [^44] [^45]
 
-## Vanishing Landscapes: The US Visa Industry Chain, Foreign Exchange Belts, and Cultural Shock
+## Paysages disparus : la chaîne de valeur des visas américains, les « ceintures de devises » et le choc culturel
 
-In an era without online booking or credit cards, going abroad was full of unique rituals. These details constitute the unique cross-border memories of Taiwanese people:
+À l'époque où l'on ne pouvait pas réserver d'hôtel sur Internet et où les cartes de crédit n'existaient pas, voyager à l'étranger était empreint d'un sentiment de rituel singulier. Ces détails ont forgé une mémoire transfrontalière unique pour les Taïwanais :
 
-### 6.1 The "Down Jacket" Legend at AIT and the Psychological Warfare of Interviews
+### 6.1 La légende de la « doudoune » de l'AIT et la guerre psychologique de l'entretien
 
-Obtaining a US visa was the first hurdle for many Taiwanese people going abroad. The old site of the American Institute in Taiwan (AIT) on Section 3, Xinyi Road, would see crowds forming every morning. The "difficult" questions from interviewers, such as "What are you going to do in the US?", "Why do you want to go to the US?", "What assets do you have in Taiwan?", etc., made many applicants extremely nervous. Since interviewers often mentioned that the weather in the US was cold, the saying "interviewers will ask you if the US is cold" spread, driving up the business of selling down jackets around AIT and even providing suit rental services. This was not just a commercial act but reflected the Taiwanese people's desire and anxiety for the "American Dream." [^21] [^32]
+Obtenir un visa américain constituait la première étape du voyage pour de nombreux Taïwanais. À l'époque, devant l'ancien siège de l'Association Américaine à Taïwan (AIT), situé sur le troisième segment de la route Xinyi, des foules se pressaient dès l'aube pour faire la queue. Les questions « déstabilisantes » de l'officier consulaire — telles que « Que comptez-vous faire aux États-Unis ? », « Pourquoi voulez-vous y aller ? » ou « Quels sont vos biens à Taïwan ? » — plongeaient de nombreux demandeurs dans un état de nervosité extrême. Comme les officiers mentionnaient souvent le froid américain, une rumeur circula selon laquelle « l'officier vous demanderait si vous avez froid aux États-Unis », ce qui stimula le commerce de doudounes et même de location de costumes aux abords de l'AIT. Plus qu'un simple acte commercial, cela reflétait l'aspiration et l'anxiété des Taïwanais face au « rêve américain ». [^21] [^32]
 
-### 6.2 "Foreign Exchange Belts" and the Underground Economy of Black Market Exchange
+### 6.2 La « ceinture de devises » et l'économie souterraine du change au marché noir
 
-Under strict foreign exchange controls, the government set a limit on the amount of foreign exchange each person could exchange per trip (e.g., approximately $2,200 USD in the early 1980s). However, for citizens eager to shop heavily abroad or support their studying children, this amount was far from enough. Thus, a special "foreign exchange belt" was born. This flesh-colored fabric belt contained multiple zipper compartments to hide excess US dollar bills,紧贴 the body. When passing through customs, travelers had to pretend to be calm, fearing being discovered by customs officers. Besides belts, some people sewed US dollars into their underwear or used underground silver shops for black market exchange, forming a unique underground economic chain. [^21] [^26] [^33]
+Sous un contrôle strict des changes, le gouvernement imposait un plafond sur la quantité de devises que chaque personne pouvait convertir pour un voyage (par exemple, environ NT$ 700 000 [soit environ 2 200 USD] au début des années 1980). Cependant, pour ceux qui souhaitaient faire des achats importants à l'étranger ou financer les études de leurs enfants, cette somme était largement insuffisante. C'est ainsi qu'apparut la « ceinture de devises » (_waìhuì yāodài_) spécialement conçue. Cette ceinture en tissu de couleur chair cachait plusieurs compartiments zippés permettant de dissimuler des billets de dollars américains excédentaires, plaqués contre le corps. Lors du passage à la douane, les voyageurs devaient feindre un calme absolu, craignant d'être démasqués par les agents. Outre les ceintures, certains cousaient des dollars dans leurs sous-vêtements ou passaient par des bijouteries clandestines pour effectuer des changes au marché noir, créant ainsi une chaîne économique souterraine unique. [^21] [^26] [^33]
 
-It was not until July 15, 1987, that Taiwan officially lifted foreign exchange controls for non-banking industries. This major policy relaxation not only ended the era of the "foreign exchange belt" but also symbolized an important step in Taiwan's economic liberalization, paving the way for more free overseas consumption and investment for citizens. [^46]
+Ce n'est que le 15 juillet 1987 que Taïwan a officiellement levé le contrôle des changes pour les entités non bancaires. Cet assouplissement politique majeur a non seulement mis fin à l'ère de la « ceinture de devises », mais a également symbolisé une étape cruciale vers la libéralisation économique de Taïwan, ouvrant la voie à une consommation et des investissements à l'étranger plus libres pour les citoyens. [^46]
 
-### 6.3 Pre-departure Briefings: "Civilization Education" and Cultural Shock: From "Educated Ones" to "Civilized Travelers"
+### 6.3 L'« éducation civique » des réunions d'information et le choc culturel : de « l'apprenant » au « voyageur civilisé »
 
-For many Taiwanese people stepping onto the international stage for the first time, facing foreign cultures was a huge challenge. At that time, Taiwanese society was just transitioning from closed to open. Many citizens lacked knowledge of international etiquette and cultural norms, leading to some "inappropriate" behaviors by early Taiwanese tour groups overseas, such as making noise in public, not queuing, spitting on the ground, and even behaving inappropriately in hotels. In the eyes of the international community at that time, these behaviors were indeed similar to the "civilization time lag" faced by some emerging tourism markets (such as early Chinese tourists). [^21] [^22]
+Pour de nombreux Taïwanais découvrant la scène internationale pour la première fois, faire face à une culture étrangère représentait un défi immense. La société taïwanaise sortait tout juste d'une période de fermeture pour s'ouvrir au monde ; beaucoup manquaient de connaissances sur l'étiquette et les normes culturelles internationales. Cela entraînait, dans les premiers groupes de touristes taïwanais, des comportements parfois « inappropriés » à l'étranger : parler fort dans les lieux publics, ne pas faire la queue, cracher par terre ou même négliger son apparence dans les hôtels. Ces comportements ressemblaient, aux yeux de la communauté internationale de l'époque, au « décalage civilisationnel » auquel ont été confrontés certains nouveaux marchés touristiques (comme les premiers touristes chinois). [^21] [^22]
 
-To avoid these negative impacts on "citizen diplomacy," the "pre-departure briefings" held by travel agencies before tours were not just itinerary introductions but a major part of "civilization education." Tour guides would earnestly teach group members various "international etiquettes," such as:
+Afin d'éviter ces effets négatifs sur la « diplomatie citoyenne », les agences de voyages organisaient des réunions d'information avant le départ. Celles-ci n'étaient pas seulement une présentation de l'itinéraire, mais constituaient le point culminant d'une véritable « éducation civique ». Les guides enseignaient avec insistance diverses règles d'étiquette internationale, par exemple :
 
-- "Do not eat bento boxes on European streets; that is an indecent behavior."
-- "Do not wash socks in the hotel sink; please use the laundry service."
-- "Do not take too much at the buffet; take only what you can eat to avoid waste."
-- "Do not wear slippers in hotel corridors, and do not make noise to avoid disturbing others."
-- "The way Western toilets work is different from Taiwan's; pay attention to the flush button and do not throw toilet paper into the toilet."
+- « Ne mangez pas votre bento dans la rue en Europe, c'est impoli. »
+- « Ne lavez pas vos chaussettes dans le lavabo de l'hôtel, utilisez le service de blanchisserie. »
+- « Ne prenez pas trop de nourriture au buffet ; prenez ce que vous mangez pour éviter le gaspillage. »
+- « Ne portez pas de pantoufles dans les couloirs de l'hôtel et ne faites pas de bruit pour ne pas déranger les autres. »
+- « Le fonctionnement des toilettes occidentales diffère de celui de Taïwan ; faites attention à la chasse d'eau et ne jetez pas de papier toilette dans la cuvette. »
 
-These seemingly trivial reminders reflected the huge gap in living habits and cultural etiquette between Taiwan and the international community at that time. However, precisely through this continuous "being educated" and self-correction, Taiwanese people gradually learned the behavioral norms of the international community, raising tourism quality to the level welcomed by countries today. This journey from "educated ones" to "civilized travelers" is not only a change in individual behavior but also a microcosm of Taiwanese society's collective learning, adapting to international rules, and finally gaining international recognition. [^34] [^36]
+Ces conseils, bien que triviaux en apparence, reflétaient l'écart immense entre les habitudes de vie taïwanaises et les normes internationales de l'époque. Pourtant, c'est grâce à cet apprentissage continu et à cette auto-correction que les Taïwanais ont progressivement intégré les codes de conduite internationaux, élevant la qualité de leur tourisme au niveau de reconnaissance mondiale qu'ils jouissent aujourd'hui. Ce passage du statut d'« apprenant » à celui de « voyageur civilisé » n'est pas seulement un changement de comportement individuel, mais le microcosme de l'apprentissage collectif de la société taïwanaise pour s'adapter aux règles internationales et obtenir finalement une reconnaissance mondiale. [^34] [^36]
 
-### 6.4 The Must-Buy List and the Bitterness of "Daigou" (Personal Shoppers)
+### 6.4 La liste des achats indispensables et les tribulations des « acheteurs sur commande »
 
-In an era of relatively scarce goods, travelers often bore the responsibility of "shopping for relatives and friends." The must-buy list was diverse, ranging from practical thermos bottles, durable pantyhose, advanced appliances (such as VCRs, audio systems), to imported goods not available in Taiwan. Some even helped relatives bring back Datong rice cookers. Upon returning, to avoid high tariffs, many people would wear newly bought clothes directly or unpack goods and mix them with old items, engaging in a game of "hide and seek" with customs officers,上演ing scenes of "bitterness and joy" in shopping. These unique memories of "daigou" became a distinctive memory of Taiwanese people going abroad in that era. [^21] [^35]
+À une époque où les ressources étaient relativement limitées, les voyageurs portaient souvent la lourde responsabilité d'effectuer des achats pour leurs proches (« _dàigòu_ »). Les listes de courses étaient variées : des gourdes isothermes pratiques, des bas résistants, des appareils électriques de pointe (tels que des magnétoscopes ou des systèmes Hi-Fi), jusqu'à des produits importés introuvables à Taïwan. Certains allaient même jusqu'à rapporter des cuiseurs à riz Tatung pour leurs proches. Au retour, pour échapper aux droits de douane élevés, beaucoup de gens portaient directement leurs nouveaux vêtements sur eux ou déballaient les articles pour les mélanger à leurs effets personnels usagés, jouant ainsi au chat et à la souris avec les douaniers. Ces tribulations et ces moments de complicité liés aux achats sur commande sont devenus des souvenirs uniques de l'expérience de voyage des Taïwanais de cette époque. [^21] [^35]
 
-## Post-Lifting of Martial Law Explosion and Diversified Mobility (1990s - 2010s)
+## Explosion et mobilité diversifiée après la levée de la loi martiale (années 1990 - 2010)
 
-After the lifting of martial law, foreign exchange controls were relaxed, and outbound tourism entered an explosion period. Southeast Asian tours were popular in the 1990s, followed by Japanese independent travel and in-depth European and American tours becoming the mainstream. The rise of low-cost airlines and the "Working Holiday" policy made going abroad no longer a luxury for the younger generation but a process of self-exploration. [^27] [^28]
+Après la levée de la loi martiale, l'assouplissement du contrôle des changes a entraîné une explosion du tourisme international. Les années 1990 ont vu la montée en puissance des circuits en Asie du Sud-Est, suivis par la généralisation des voyages libres au Japon et des séjours approfondis en Europe et en Amérique. L'essor des compagnies aériennes à bas prix et la politique des « Working Holidays » (voyages avec travail) ont fait du voyage à l'étranger non plus un luxe, mais un processus d'exploration de soi pour la jeune génération. [^27] [^28]
 
-## Contemporary Challenges: Revenge Travel and the Meaning of Freedom of Movement
+## Défis contemporains : le voyage de revanche et la signification de la liberté de mouvement
 
-The COVID-19 pandemic in 2020 led to three years of global lockdown. After the lifting of restrictions in 2023, Taiwan experienced an unprecedented wave of "revenge travel." [^29] According to statistics from the Tourism Bureau, the number of outbound trips in 2024 has approached the pre-pandemic peak. [^30]
+La pandémie de COVID-19 en 2020 a entraîné une fermeture des frontières mondiales pendant trois ans. Après la levée des restrictions en 2023, Taïwan a connu une vague sans précédent de « voyages de revanche ». [^29] Selon les statistiques de l'Administration du tourisme, le nombre de départs à l'étranger en 2024 a presque atteint les sommets enregistrés avant la pandémie. [^30]
 
-Today, the Taiwan passport ranks in the top tier of the Henley Passport Index, enjoying visa-free access to over 140 countries. [^31] From "approved by the Military Police General Headquarters" to "worldwide access," this is not only a demonstration of economic strength but also the ultimate embodiment of "freedom of movement" in Taiwan's democratization process.
+Aujourd'hui, le passeport taïwanais figure parmi les meilleurs classements mondiaux du Henley Passport Index, offrant un accès sans visa à plus de 140 pays. [^31] Passer de l'obligation d'obtenir une « autorisation de la police générale » à une « libre circulation mondiale » n'est pas seulement une démonstration de puissance économique, c'est aussi l'aboutissement du « droit à la liberté de mouvement » dans le processus de démocratisation de Taïwan.
 
-📝 Conclusion: Every stamp in the passport is a right won through the efforts of generations. From an islander confined to a free traveler, the history of Taiwanese people going abroad is a history of pursuing freedom.
+📝 Conclusion : Chaque tampon apposé sur un passeport est un droit conquis par les efforts de plusieurs générations. Des insulaires confinés aux voyageurs libres, l'histoire des départs à l'étranger des Taïwanais est une chronique de la quête de liberté.
 
-[^1]: [Wikipedia: Dutch Rule in Taiwan](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%8D%B7%E8%98%AD%E7%B5%B1%E6%B2%BB%E6%99%82%E6%9C%9F) — Wikipedia entry: Wikipedia entry
+[^1]: [Wikipédia : Période de domination néerlandaise à Taïwan](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%8D%B7%E8%98%AD%E7%B5%B1%E6%B2%BB%E6%99%82%E6%9C%9F) — Article Wikipédia : Article Wikipédia
 
-[^2]: [From the Land of Deer Hides to the Information Kingdom — Four Centuries of Taiwan's Industrial Transformation - Taiwan Panorama Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=6d2fbdcd-16d9-462f-b5fc-d4c992e5eba0) — Taiwan Panorama Magazine special article: Taiwan Panorama Magazine special article
+[^2]: [De la terre du cuir de cerf au royaume de l'information : l'évolution des industries taïwanaises sur quatre siècles - Taiwan Glory Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=6d2fbdcd-16d9-462f-b5fc-d4c992e5eba0) — Article spécial de Taiwan Glory Magazine : Article spécial de Taiwan Glory Magazine
 
-[^3]: [What Can Deer Hides Do? How Dutch Deer Hide Trade Policy with Japan Affected Taiwan - PanSci](https://pansci.asia/archives/369977) — PanSci special article
+[^3]: [À quoi servait le cuir de cerf ? Comment la politique commerciale néerlandaise envers le Japon a affecté Taïwan - PanSci](https://pansci.asia/archives/369977) — Article spécial de PanSci
 
-[^4]: [The Impact of Sea Ban Policies on Taiwanese Society - National Central Library Taiwan Branch](https://wwwacc.ntl.edu.tw/public/Attachment/9102615584451.pdf) — National Central Library Taiwan Branch
+[^4]: [L'impact des politiques d'interdiction maritime sur la société taïwanaise - Bibliothèque nationale centrale, branche de Taïwan](https://wwwacc.ntl.edu.tw/public/Attachment/9102615584451.pdf) — Bibliothèque nationale centrale, branche de Taïwan
 
-[^5]: [Wikipedia: Ban on Crossing the Taiwan Strait](https://zh.wikipedia.org/zh-hant/%E6%B8%A1%E8%87%BA%E7%A6%81%E4%BB%A4) — Wikipedia entry: Wikipedia entry
+[^5]: [Wikipédia : Interdiction de traverser le détroit vers Taïwan](https://zh.wikipedia.org/zh-hant/%E6%B8%A1%E8%87%BA%E7%A6%81%E4%BB%A4) — Article Wikipédia : Article Wikipédia
 
-[^6]: ["Piglets" Going Overseas: Signing Indenture Contracts, Seeking New Lives in Southeast Asia - Liberty Times Net](https://talk.ltn.com.tw/article/breakingnews/2290624) — Liberty Times Net report: Liberty Times Net report
+[^6]: [Les « Cochonets » partent outre-mer : les travailleurs chinois signant des contrats d'engagement pour chercher une nouvelle vie en Asie du Sud-Est - Liberty Times](https://talk.ltn.com.tw/article/breakingnews/2290624) — Reportage de Liberty Times : Reportage de Liberty Times
 
-[^7]: [【Historical Curiosities】Contracted Chinese Laborers and Piglets - Merit Times](https://www.merit-times.com/news/375086) — Merit Times column: Merit Times column
+[^7]: [(Anecdote historique) Les travailleurs chinois sous contrat et les « Cochonets » - Renjian Fubao](https://www.merit-times.com/news/375086) — Chronique de Renjian Fubao : Chronique de Renjian Fubao
 
-[^8]: [Research on the Travel Passport System for Taiwanese People during the Japanese Colonial Period - Academia Sinica](https://research.sinica.edu.tw/travel_passport_japan_taiwan_history/) — Academia Sinica: Academia Sinica
+[^8]: [Étude sur le système des passeports pour les Taïwanais pendant la période coloniale japonaise - Academia Sinica](https://research.sinica.edu.tw/travel_passport_japan_taiwan_history/) — Academia Sinica : Academia Sinica
 
-[^9]: [What Was the Use of the "Travel Passport" Essential for Taiwanese People Going Abroad during the Japanese Colonial Period? - Storm Media](https://www.storm.mg/lifestyle/866272) — Storm Media special article: Storm Media special article
+[^9]: [À quoi servait le « passeport » indispensable aux Taïwanais lors de leurs voyages à l'étranger sous l'occupation japonaise ? - The Reporter](https://www.storm.mg/lifestyle/866272) — Article spécial de The Reporter : Article spécial de The Reporter
 
-[^10]: [How Did Taiwanese People Use "Travel Passports" during the Japanese Colonial Period? Study, Work, Travel the World - Research Sinica](http://research.sinica.edu.tw/travel_passport_japan_taiwan_history) — Academia Sinica: Academia Sinica
+[^10]: [Comment les Taïwanais utilisaient-ils le « passeport » sous l'occupation japonaise ? Études, travail et tour du monde - Yan Zhi You Wu](http://research.sinica.edu.tw/travel_passport_japan_taiwan_history) — Academia Sinica : Academia Sinica
 
-[^11]: [《Taiwan Minbao》Opens the Channel to Explore the World | Lin Hsien-tang and His Son's Global Journey Observations during the Japanese Colonial Period - Time UDN](https://time.udn.com/udntime/story/122387/8433765) — United News Network report: United News Network report
+[^11]: [« Taiwan Minpao » a ouvert les voies de l'exploration du monde | Récit du voyage autour du monde de Lin Hsientsang et de son fils pendant la période coloniale japonaise - Bao Shi Guang](https://time.udn.com/udntime/story/122387/8433765) — Reportage d'UDN : Reportage d'UDN
 
-[^12]: [Geographical Research on Lin Hsien-tang's "Global Travelogue" - National Palace Museum Taiwan Literature Museum](https://ws.th.gov.tw/002/TH/tjpdf20241015/var/www/html/new_site/05publish/03publishquery/02journal/tj/401061217.pdf) — See original link content: See original link content
+[^12]: [Étude géographique de « Voyage autour du monde » de Lin Hsientsang - Academia Historica - Archives de Taïwan](https://ws.th.gov.tw/002/TH/tjpdf20241015/var/www/html/new_site/05publish/03publishquery/02journal/tj/401061217.pdf) — Voir le contenu détaillé dans le lien original : Voir le contenu détaillé dans le lien original
 
-[^13]: [Comparison between Lin Hsien-tang's "Global Travelogue" and Yan Guonian's "Recent European and American Travelogue" - National Palace Museum](https://ws.th.gov.tw/002/TH/tjpdf20241015/var/www/html/new_site/05publish/03publishquery/02journal/tj/401062405.pdf) — See original link content: See original link content
+[^13]: [Comparaison entre « Voyage autour du monde » de Lin Hsientsang et « Récit de voyage récent en Europe et en Amérique » de Yen Kuo-nian - Academia Historica](https://ws.th.gov.tw/002/TH/tjpdf20241015/var/www/html/new_site/05publish/03publishquery/02journal/tj/401062405.pdf) — Voir le contenu détaillé dans le lien original : Voir le contenu détaillé dans le lien original
 
-[^14]: [Going Abroad Required Strict Control in the 50s-80s - National Culture and Memory Network](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=684650) — National Culture and Memory Network: National Culture and Memory Network
+[^14]: [Les années 50 à 80, une époque où les voyages à l'étranger étaient strictement contrôlés - Mémoire culturelle nationale](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=684650) — Mémoire culturelle nationale : Mémoire culturelle nationale
 
-[^15]: [【Things You Couldn't Do Back Then!】You Couldn't Go Abroad for Tourism - Thinking Taiwan](https://www.thinkingtaiwan.net/content/7506) — Thinking Taiwan special article: Thinking Taiwan special article
+[^15]: [(Ce qu'on ne pouvait pas faire à l'époque !) Vous ne pouviez pas partir en voyage touristique à l'étranger - Forum Xiangxiang](https://www.thinkingtaiwan.net/content/7506) — Article spécial du Forum Xiangxiang : Article spécial du Forum Xiangxiang
 
-[^16]: [Analysis of China's Entry and Exit Management Policies: 1949-2010 - Master's Thesis in Political Science, Graduate Institute of International Relations, National Taiwan University](https://tdr.lib.ntu.edu.tw/bitstream/123456789/7069/1/ntu-100-1.pdf) — National Taiwan University thesis: National Taiwan University thesis
+[^16]: [Analyse de la politique de gestion des entrées et sorties de mon pays après la guerre : 1949-2010 - Thèse de master du Département de Science Politique, Faculté des Sciences Sociales de l'Université Nationale de Taïwan](https://tdr.lib.ntu.edu.tw/bitstream/123456789/7069/1/ntu-100-1.pdf) — Thèse de l'Université Nationale de Taïwan : Thèse de l'Université Nationale de Taïwan
 
-[^17]: [1970 Japan Osaka World Expo - National Science and Technology Council](https://www.nstc.gov.tw/nstc/attachments/be4db339-6adf-4388-860d-98a321d51cda) — National Science and Technology Council
+[^17]: [Exposition universelle d'Osaka 1970 - Conseil National de la Science et de la Technologie](https://www.nstc.gov.tw/nstc/attachments/be4db339-6adf-4388-860d-98a321d51cda) — Conseil National de la Science et de la Technologie
 
-[^18]: [It Was Hard to Go Abroad during the Martial Law Era - Shepherd Story - Pixnet](https://jasonla1996.pixnet.net/blog/posts/5034564867) — See original link content: See original link content
+[^18]: [Partir à l'étranger n'était pas facile pendant la période de la loi martiale - Histoires de bergers - Pixnet](https://jasonla1996.pixnet.net/blog/posts/5034564867) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^19]: [Martial Law Era Taiwan Travel Agency Forging Business Outbound Cases Study](https://tdr.lib.ntu.edu.tw/bitstream/123456789/7069/1/ntu-100-1.pdf) — National Taiwan University thesis: National Taiwan University thesis
+[^19]: [Étude de cas sur les agences de voyages taïwanaises falsifiant des motifs de voyage d'affaires à l'étranger pendant la période de la loi martiale](https://tdr.lib.ntu.edu.tw/bitstream/123456789/7069/1/ntu-100-1.pdf) — Thèse de l'Université Nationale de Taïwan : Thèse de l'Université Nationale de Taïwan
 
-[^20]: [Taiwanese People's Migration Wave to the US / Yang Yuanxun - Taiwan American Historical Materials Center](https://taiwaneseamericanhistory.org/blog/ourjourneys236/) — See original link content: See original link content
+[^20]: [La vague d'immigration des Taïwanais vers les États-Unis / Yang Yuan-xun - Centre de ressources historiques Taïwan-États-Unis](https://taiwaneseamericanhistory.org/blog/ourjourneys236/) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^21]: [Video Analysis: Xiao Niu Talks Serious Matters - How Hard Was It for Parents to Go Abroad When They Were Young?](https://www.youtube.com/watch?v=BEaTAIGDKcs) — YouTube video record
+[^21]: [Analyse vidéo : Xiao Niu Jiang Zheng Jing - À quel point était-il difficile pour nos parents de partir à l'étranger quand ils étaient jeunes ?](https://www.youtube.com/watch?v=BEaTAIGDKcs) — Enregistrement vidéo YouTube
 
-[^22]: ["Staying" in America: The "Foreign Aid" and "Study Abroad" of the 1960s - TNL The News Lens](https://www.thenewslens.com/article/123409) — See original link content: See original link content
+[^22]: [« Rester » aux États-Unis : L'aide américaine et les études à l'étranger dans les années 1960 - TNL The News Lens](https://www.thenewslens.com/article/123409) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^23]: [Government Opens Outbound Tourism - National Culture and Memory Network](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=684650) — National Culture and Memory Network: National Culture and Memory Network
+[^23]: [Ouverture du tourisme international par le gouvernement - Mémoire Culturelle Nationale](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=684650) — Mémoire Culturelle Nationale : Mémoire Culturelle Nationale
 
-[^24]: [Record of the First Tourist Passport Opening a New Era of Outbound Tourism for Taiwanese People - Time UDN](https://time.udn.com/udntime/story/122390/6224370) — United News Network report: United News Network report
+[^24]: [Le premier passeport touristique ouvre une nouvelle ère pour les voyages à l'étranger des Taïwanais - BaoShiGuang](https://time.udn.com/udntime/story/122390/6224370) — Rapport de United Daily News : Rapport de United Daily News
 
-[^25]: [Rules for Outbound Tourism Announced, Effective January 1 - United Daily News (1978-12-31)](https://time.udn.com/udntime/story/122390/6224370) — See original link content: United News Network report
+[^25]: [Publication des règles sur le tourisme international, entrée en vigueur le 1er janvier - United Daily News (31-12-1978)](https://time.udn.com/udntime/story/122390/6224370) — Voir le contenu du lien original : Rapport de United Daily News
 
-[^26]: [Lifting Foreign Exchange Controls - Archives Support Teaching Network](https://art.archives.gov.tw/tw/art/1276.html) — National Development Council Archives Administration
+[^26]: [Levée du contrôle des changes - Site d'aide à l'enseignement par les archives](https://art.archives.gov.tw/tw/art/1276.html) — Administration des Archives du Conseil National du Développement
 
-[^27]: [Foreign Exchange泄洪 (Floodgate) - Taiwan Panorama Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=225fea21-b7d9-4596-92eb-242fc513b6da) — Taiwan Panorama Magazine special article: Taiwan Panorama Magazine special article
+[^27]: [Inondation de devises étrangères - Magazine Taiwan Kwang Hua](https://www.taiwan-panorama.com/Articles/Details?Guid=225fea21-b7d9-4596-92eb-242fc513b6da) — Article spécial du magazine Taiwan Kwang Hua : Article spécial du magazine Taiwan Kwang Hua
 
-[^28]: [Tourism, Just the Right Time! - Taiwan Panorama Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=812ba646-2a23-4370-8f72-814188d2af94) — Taiwan Panorama Magazine special article: Taiwan Panorama Magazine special article
+[^28]: [Le tourisme, c'est maintenant ! - Magazine Taiwan Kwang Hua](https://www.taiwan-panorama.com/Articles/Details?Guid=812ba646-2a23-4370-8f72-814188d2af94) — Article spécial du magazine Taiwan Kwang Hua : Article spécial du magazine Taiwan Kwang Hua
 
-[^29]: [2023 2024 Taiwan Revenge Travel Statistics Data - Ministry of Transportation and Communications Tourism Bureau](https://stat.taiwan.net.tw/) — See original link content: See original link content
+[^29]: [Statistiques sur les voyages à l'étranger de rattrapage à Taïwan 2023-2024 - Administration du Tourisme du Ministère des Transports](https://stat.taiwan.net.tw/) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^30]: [Annual Important Indicator Statistics Table for National Outbound Tourism - Government Data Open Platform](https://data.gov.tw/dataset/45537) — See original link content: See original link content
+[^30]: [Tableaux statistiques des indicateurs clés des voyages à l'étranger des Taïwanais au fil des ans - Plateforme d'ouverture des données gouvernementales](https://data.gov.tw/dataset/45537) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^31]: [Henley Passport Index - Taiwan Passport Ranking](https://www.henleyglobal.com/passport-index) — See original link content: See original link content
+[^31]: [Henley Passport Index - Classement du passeport taïwanais](https://www.henleyglobal.com/passport-index) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^32]: [AIT Interview Experience Talk: Those Years, We Queued Together - Pixnet](https://mypaper.pchome.com.tw/jasonla1996/post/1321111111) — See original link content: See original link content
+[^32]: [Expériences d'entretien à l'AIT : Les années où nous faisions la queue ensemble - Pixnet](https://mypaper.pchome.com.tw/jasonla1996/post/1321111111) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^33]: [History of Taiwan's Foreign Exchange Control: From Strict to Open - Taiwan Institute of Economics](https://www.tier.org.tw/news/news_detail.aspx?id=20190101001) — See original link content: See original link content
+[^33]: [Histoire du contrôle des changes à Taïwan : de la rigueur à l'ouverture - Institut de recherche économique de Taïwan](https://www.tier.org.tw/news/news_detail.aspx?id=20190101001) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^34]: [Interesting Stories and Cultural Shock of Early Taiwanese People Going Abroad - Taiwan Panorama Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=812ba646-2a23-4370-8f72-814188d2af94) — Taiwan Panorama Magazine special article: Taiwan Panorama Magazine special article
+[^34]: [Anecdotes et chocs culturels lors des premiers voyages à l'étranger des Taïwanais - Magazine Taiwan Guanghua](https://www.taiwan-panorama.com/Articles/Details?Guid=812ba646-2a23-4370-8f72-814188d2af94) — Article spécial du magazine Taiwan Guanghua : Article spécial du magazine Taiwan Guanghua
 
-[^35]: [Outbound Shopping: From Datong Rice Cookers to Luxury Bags - GVM Magazine](https://www.gvm.com.tw/article/12345) — See original link content: See original link content
+[^35]: [Achats personnels à l'étranger : de la cuiseur à riz Tatung aux sacs de luxe - Magazine Vision](https://www.gvm.com.tw/article/12345) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^36]: [The "Civilization Evolution" of Taiwanese Tourists: From "Uncivilized" to "Internationally Recognized" - The News Lens](https://www.thenewslens.com/article/123456) — See original link content: See original link content
+[^36]: [L'« évolution civilisationnelle » des touristes taïwanais : de l'incivilité à la reconnaissance internationale - The News Lens](https://www.thenewslens.com/article/123456) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^37]: [Austronesians: The Maritime Nation Going from Taiwan to the World - National Geographic Magazine](https://www.natgeomedia.com/history/article/content-8649.html) — See original link content: See original link content
+[^37]: [Austronésiens : un peuple de navigateurs partant de Taïwan vers le monde - National Geographic](https://www.natgeomedia.com/history/article/content-8649.html) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^38]: [Origin and Dispersal of Austronesians: Taiwan is Key - Academia Sinica](https://www.sinica.edu.tw/news/20160601/01.html) — Academia Sinica: Academia Sinica
+[^38]: [Origine et expansion des Austronésiens : Taïwan est la clé - Academia Sinica](https://www.sinica.edu.tw/news/20160601/01.html) — Academia Sinica : Academia Sinica
 
-[^39]: [History of Conscript Exit Control: Evolution from Martial Law to Post-Lifting - Ministry of National Defense](https://www.mnd.gov.tw/Publish.aspx?cnid=1797&p=72606) — See original link content: See original link content
+[^39]: [Histoire du contrôle de sortie des conscrits : de la loi martiale à l'évolution après la levée de celle-ci - Ministère de la Défense Nationale](https://www.mnd.gov.tw/Publish.aspx?cnid=1797&p=72606) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^40]: [Conscript Exit Application Guidelines - Ministry of the Interior Conscription Administration](https://www.nca.gov.tw/content_edit.aspx?sid=37&id=20) — See original link content: See original link content
+[^40]: [Directives pour la demande de sortie du territoire des conscrits - Administration du service militaire du Ministère de l'Intérieur](https://www.nca.gov.tw/content_edit.aspx?sid=37&id=20) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^41]: [The Invisible Shackles of Taiwanese Men Going Abroad: Conscript Exit Control - The Reporter](https://www.twreporter.org/a/00000000000000000000000000000000) — See original link content: See original link content
+[^41]: [Les chaînes invisibles des hommes taïwanais voyageant à l'étranger : le contrôle de sortie des conscrits - The Reporter](https://www.twreporter.org/a/00000000000000000000000000000000) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^42]: [1987 Opening of Cross-Strait Family Visits: A Historical Turning Point - National Culture and Memory Network](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=684651) — National Culture and Memory Network: National Culture and Memory Network
+[^42]: [L'ouverture des visites familiales entre les deux rives en 1987 : un tournant historique - Bibliothèque de la mémoire culturelle nationale](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=684651) — Bibliothèque de la mémoire culturelle nationale : Bibliothèque de la mémoire culturelle nationale
 
-[^43]: [Veterans Returning Home: The Era Significance of Cross-Strait Family Visits - National Palace Museum](https://www.drnh.gov.tw/Content_Display.aspx?MenuID=21&MenuType=1&ArticleID=111) — See original link content: See original link content
+[^43]: [Le retour des anciens combattants : la signification de l'époque des visites familiales entre les deux rives - Archives nationales d'histoire](https://www.drnh.gov.tw/Content_Display.aspx?MenuID=21&MenuType=1&ArticleID=111) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^44]: [30 Years of Cross-Strait Exchange: From Family Visits to Tourism - GVM Magazine](https://www.gvm.com.tw/article/45678) — See original link content: See original link content
+[^44]: [30 ans d'échanges entre les deux rives : des visites familiales au tourisme - Magazine Vision](https://www.gvm.com.tw/article/45678) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^45]: [30th Anniversary of Opening Family Visits: Changes and Constants in Cross-Strait Relations - The News Lens](https://www.thenewslens.com/article/88888) — See original link content: See original link content
+[^45]: [30e anniversaire de l'ouverture des visites familiales : changements et permanences dans les relations entre les deux rives - The News Lens](https://www.thenewslens.com/article/88888) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^46]: [30 Years Since Lifting Taiwan's Foreign Exchange Control: From Control to Freedom - Economic Daily News](https://money.udn.com/money/story/5613/2583808) — United News Network report: United News Network report
+[^46]: [30 ans de levée du contrôle des changes à Taïwan : le passage du contrôle à la liberté - Economic Daily News](https://money.udn.com/money/story/5613/2583808) — Rapportage d'udn.com
 
-[^47]: [Blacklist (Taiwan) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E5%90%8D%E5%96%AE_%28%E8%87%BA%E7%81%A3%29) — Wikipedia entry records the list and political background of overseas Taiwanese dissidents banned from entering Taiwan during the martial law period
+[^47]: [Liste noire (Taïwan) - Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E5%90%8D%E5%96%AE_%28%E8%87%BA%E7%81%A3%29) — Entrée Wikipédia répertoriant les dissidents taïwanais de l'étranger interdits d'entrée pendant la période de la loi martiale et leur contexte politique
 
-[^48]: [New Year's Eve Reunion? Those Taiwanese People in the Blacklist Who Couldn't Go Home - Plain Law Movement](https://plainlaw.me/posts/reunion) — See original link content: See original link content
+[^48]: [Réunion pour le Nouvel An lunaire ? Dans la liste noire, ces Taïwanais qui ne peuvent pas rentrer chez eux - Legal White Talk Movement](https://plainlaw.me/posts/reunion) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^49]: [Investigation and Research on the Post-War "Blacklist" Issue - Taiwan Human Rights Story Education Museum](https://humanrightstory.nhrm.gov.tw/home/zh-tw/museumreport/479393) — See original link content: See original link content
+[^49]: [Étude de recherche sur la question de la « liste noire » d'après-guerre - Musée de l'éducation aux histoires des droits de l'homme à Taïwan](https://humanrightstory.nhrm.gov.tw/home/zh-tw/museumreport/479393) — Voir le contenu du lien original : Voir le contenu du lien original
 
-[^50]: [Crossing the Forbidden Blacklist - Taiwan Association for USA Affairs](https://taiwan.ucsd.edu/gallery/TAA-50_Chapter-C_part2.pdf) — See original link content: See original link content
+[^50]: [L'histoire de franchir les obstacles de la liste noire à travers l'emprisonnement - Taiwan Public Affairs Council](https://taiwan.ucsd.edu/gallery/TAA-50_Chapter-C_part2.pdf) — Voir le contenu du lien original : Voir le contenu du lien original
