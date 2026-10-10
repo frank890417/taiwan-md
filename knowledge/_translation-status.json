@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T04:20:18+08:00",
-    "zhCommitHead": "618a7c59a",
+    "lastUpdated": "2026-10-11T04:26:41+08:00",
+    "zhCommitHead": "d786171f5",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1126,
-        "fresh": 1115,
-        "stale": 10,
+        "fresh": 1116,
+        "stale": 9,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -30220,8 +30220,8 @@
           "sourceContentHash": "sha256:dd896b223778a319",
           "sourceBodyHash": "sha256:1cfc73d3ec3aabb4",
           "translatedAt": "2026-10-10T18:18:43.131581+00:00",
-          "translationLastCommit": "09e2394e",
-          "translationLastModified": "2026-10-10T23:41:15+08:00",
+          "translationLastCommit": "d786171f",
+          "translationLastModified": "2026-10-11T04:20:18+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "bytes": 72613,
@@ -65018,18 +65018,18 @@
         "ko": {
           "path": "ko/Society/taiwan-generations.md",
           "translatedFrom": "Society/台灣的年級生世代.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "805200859",
           "sourceContentHash": "sha256:1b3e5e3f22f40ead",
           "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
-          "translatedAt": "2026-06-17T00:00:00Z",
+          "translatedAt": "2026-10-11T01:05:42+08:00",
           "translationLastCommit": "2cce03d5",
           "translationLastModified": "2026-10-10T23:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "bytes": 37781,
+          "bytes": 41221,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/taiwan-generations.md",
@@ -84364,8 +84364,8 @@
           "sourceContentHash": "sha256:a407c4cd5d546815",
           "sourceBodyHash": "sha256:94480d54498a46b7",
           "translatedAt": "2026-10-11T01:05:52+08:00",
-          "translationLastCommit": "d9fb4ef6",
-          "translationLastModified": "2026-10-10T23:28:21+08:00",
+          "translationLastCommit": "d786171f",
+          "translationLastModified": "2026-10-11T04:20:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 15536,

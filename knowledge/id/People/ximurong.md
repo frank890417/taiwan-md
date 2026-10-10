@@ -1,17 +1,17 @@
 ---
-title: 'Xi Murong'
-description: 'Penulis 《Qīlǐxiāng》 dan 《Wúyuàn de Qīngchūn》, penyair paling laris di kalangan puisi berbahasa Tionghoa, berketurunan Mongolia.'
+title: 'Xi Mu-rong'
+description: 'Penulis "Seven Mile Fragrance" dan "Youth Without Regret", penyair terlaris dalam dunia sastra berbahasa Mandarin, etnis Mongol.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Tokoh',
-    'Xi Murong',
-    'Qīlǐxiāng',
-    'Wúyuàn de Qīngchūn',
+    'Xi Mu-rong',
+    'Seven Mile Fragrance',
+    'Youth Without Regret',
     'Penyair',
-    'Mongolia',
-    'Penulis esai',
+    'Etnis Mongol',
+    'Penulis Prosa',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -19,90 +19,90 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:6428a22574e0ec61'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:36049c1494516a6b'
 sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: '2026-08-03T14:45:46.623375+00:00'
+translatedAt: '2026-10-11T01:05:47+08:00'
 ---
 
-# Xi Murong: Simfoni Puitis antara Padang Rumput dan Modernitas
+# Xi Mu-rong: Simfoni Puitis Padang Rumput dan Modernitas
 
-> **Ringkasan 30 detik:** Xi Murong adalah penyair paling laris di Taiwan pada 1980-an; setahun setelah 《七里香》 terbit pada 1981, buku ini telah dicetak ulang tujuh kali dan merebak ke kedua sisi Selat Taiwan serta tiga wilayah. Ia juga pelukis lukisan minyak berpendidikan formal serta keturunan suku Chahar Mongolia; setelah pertama kali menginjakkan kaki di padang rumput pada 1989, cakrawala puisi ia bergeser dari lirisme perkotaan menuju penulisan budaya etnis.
+> **Ringkasan 30 Detik:** Xi Mu-rong adalah penyair terlaris di Taiwan pada tahun 1980-an. Setelah penerbitan kumpulan puisi _Seven Mile Fragrance_ (七里香) pada tahun 1981, buku tersebut dicetak ulang sebanyak tujuh kali dalam satu tahun dan populer di seluruh wilayah Tiongkok, Hong Kong, dan Taiwan. Ia juga seorang pelukis cat minyak profesional dan keturunan suku Chahar Mongol. Setelah pertama kali menginjakkan kaki di padang rumput pada tahun 1989, cakrawala puitisnya beralih dari lirik perkotaan menuju penulisan budaya etnis.
 
 ## Latar Belakang Pertumbuhan Multikultural
 
-Xi Murong nama aslinya Mulun・Xi Lianbo, lahir pada 15 Oktober 1943 di Jin'gangpo, Chongqing. Ayahnya Xi Zhenduo (nama Mongolia Lashi Dundok) adalah wakil pertama Kongres Nasional dari Delapan Bendera Chahar, ibunya Le Zhufang (nama Mongolia Bayan Bilige) juga beretnis Mongolia, darah keturunan padang rumput ini membuatnya kemudian memiliki pemahaman terhadap "tanah air yang hilang" yang melampaui keluarga migran Taiwan pada umumnya. Kacauan masa perang membuat Xi Murong sejak kecil merasakan rasa terpisah dan kerinduan terhadap tanah air.
+Nama asli Xi Mu-rong adalah Mu Lun · Xi Lian Bo (穆倫・席連勃), lahir pada 15 Oktober 1943 di Jingangpo, Chongqing. Ayahnya, Xi Zhen-duo (nama Mongol: La Xi Dun Duo Ke), adalah perwakilan pertama Kongres Nasional suku Chahar Eight Banners, dan ibunya, Le Zhu Fang (nama Mongol: Ba Yin Bi Li Ge), juga berasal dari etnis Mongol. Garis keturunan yang berasal dari padang rumput ini memberinya kepekaan terhadap "tanah air yang hilang" yang melampaui keluarga pindahan Taiwan pada umumnya. Masa-masa pengungsian akibat perang membuat Xi Mu-rong sejak kecil merasakan pahitnya diaspora dan kerinduan mendalam terhadap tanah leluhur.
 
-1949, berusia enam tahun Xi Murong pindah ke Hong Kong mengikuti keluarganya. Lingkungan internasional Hong Kong memungkinkannya berinteraksi dengan perpaduan budaya Timur dan Barat, pengaruh ini berdampak jauh pada karyanya kemudian. Selama masa tumbuh kembang di Hong Kong, ia bersamaan menyentuh budaya tradisional Tionghoa dan sastra seni Barat.
+Pada tahun 1949, Xi Mu-rong yang berusia enam tahun pindah ke Hong Kong bersama keluarganya. Lingkungan internasional di Hong Kong membuatnya terpapar pada perpaduan budaya Tionghoa dan Barat, sebuah pengaruh yang memberikan dampak mendalam bagi karya-karyanya di kemudian hari. Selama masa pertumbuhan di Hong Kong, ia bersentuhan dengan budaya tradisional Tiongkok sekaligus seni sastra Barat.
 
-1954, Xi Murong pindah ke **Taiwan** bersama keluarganya dan menetap. Kehidupan masa remaja di **Taiwan**, terutama pemandangan alam dan lingkungan budaya **Taiwan**, menyediakan materi kaya untuk kreasi puisi. Gunung air, bunga tumbuhan, perubahan musim **Taiwan**, semuanya menjadi imaji yang berulang muncul dalam puisi-puisinya.
+Pada tahun 1954, Xi Mu-rong bersama keluarganya menetap di Taiwan. Kehidupan masa remaja di Taiwan, terutama pemandangan alam dan lingkungan humanistiknya, menyediakan materi yang kaya bagi penciptaan puisinya. Lanskap pegunungan, air, bunga, tanaman, serta perubahan musim di Taiwan menjadi citra (imagery) yang berulang kali muncul dalam puisi-puisinya.
 
-## Masa Studi di Jurusan Seni Rupa Universitas Pendidikan Taiwan
+## Masa Studi di Departemen Seni Universitas Normal Taiwan
 
-Lulus sekolah menengah, Xi Murong diterima di Jurusan Seni Rupa Universitas Pendidikan Taiwan (師大). Pelatihan profesional seni rupa mengasah kepekaan warna dan komposisi, kualitas seni ini kemudian semua meresap ke dalam kreasi puisi.[^1]
+Setelah lulus sekolah menengah, Xi Mu-rong masuk ke Departemen Seni Universitas Normal Taiwan (NTNU). Pelatihan profesional di bidang seni mengasah kepekaan persepsinya terhadap warna dan komposisi, yang kemudian menyatu ke dalam penciptaan puisinya. [^1]
 
-Selama masa di **Universitas Pendidikan Taiwan**, Xi Murong berprestasi di bidang lukisan, juga mulai mencoba kreasi sastra, membaca banyak puisi dalam dan luar negeri. Karya penyair modern berpengaruh besar baginya, membuatnya perlahan membentuk bahasa puisi sendiri.
+Selama masa kuliah di NTNU, Xi Mu-rong meraih prestasi dalam melukis dan mulai mencoba menulis sastra dengan membaca banyak puisi dari dalam maupun luar negeri. Karya-karya penyair modern memberikan pengaruh besar padanya, sehingga ia secara bertahap membentuk bahasa puitisnya sendiri.
 
-1966 lulus, Xi Murong pergi ke Belgia belajar lanjut di **Akademi Seni Rupa Kerajaan Brussel (Académie Royale des Beaux-Arts)**. Museum, gereja, bangunan kuno Eropa meninggalkan kesan mendalam, membuka cakrawala kreatifnya.[^2]
+Setelah lulus pada tahun 1966, Xi Mu-rong melanjutkan studi ke Académie Royale des Beaux-Arts di Brussel, Belgia. Museum, gereja, dan bangunan kuno di Eropa meninggalkan kesan mendalam baginya serta memperluas cakrawala kreatifnya. [^2]
 
-## 《Tujuh Mil Harum》: Kemunculan Mengagumkan di Panggung Puisi
+## _Seven Mile Fragrance_: Kemunculan yang Memukau di Dunia Puisi
 
-1970-an, Xi Murong utamanya mengerjakan kreasi lukisan dan mengajar, puisi masih hobi. Namun, 1981 terbitnya kumpulan puisi 《Tujuh Mil Harum》 membuatnya semalam menjadi fokus perhatian panggung puisi. Kumpulan ini terbit setahun dicetak ulang tujuh kali, menciptakan rekor penjualan puisi modern **Taiwan**.[^3]
+Pada tahun 1970-an, Xi Mu-rong fokus pada penciptaan seni rupa dan pengajaran; menulis puisi masih merupakan hobi amatir. Namun, penerbitan kumpulan puisi _Seven Mile Fragrance_ (七里香) pada tahun 1981 menjadikannya pusat perhatian dunia puisi dalam semalam. Kumpulan puisi ini dicetak ulang tujuh kali dalam satu tahun setelah terbit, menciptakan rekor penjualan untuk puisi modern di Taiwan. [^3]
 
-Keberhasilan 《Tujuh Mil Harum》 terletak pada bahasa yang jelas mudah dimengerti — tidak sengaja sulit, namun mampu di kejelasan menampakkan perasaan tulus, di kesederhanaan menampakkan makna mendalam. Xi Murong pandai menggunakan imaji sehari-hari seperti bunga tumbuhan, bulan, angin hujan, untuk mengungkapkan perasaan batin yang kompleks.
+Keberhasilan _Seven Mile Fragrance_ terletak pada bahasanya yang jernih dan lugas—tidak dibuat-buat menjadi sulit, namun mampu menunjukkan ketulusan dalam kesederhanaan dan makna mendalam dalam kepolosan. Xi Mu-rong mahir menggunakan citra sehari-hari seperti bunga, tanaman, bulan, angin, dan hujan untuk mengekspresikan perasaan batin yang kompleks.
 
-〈Satu Pohon Berbunga〉 menjadi klasik puisi bahasa Tionghoa: "Bagaimana membuatmu bertemu denganku / di saat paling indahku / untuk itu / aku sudah memohon 500 tahun di hadapan Buddha / memohon agar ia mengizinkan kita mengikat satu ikatan duniawi." Puisi ini dengan nuansa indah dan emosi menyentuh, hingga kini masih banyak dibaca dan dinyanyikan.
+Puisi 〈Sebatang Pohon yang Berbunga〉 (一棵開花的樹) telah menjadi klasik dalam puisi berbahasa Mandarin: "Bagaimana caranya agar kau bertemu denganku / Di saat aku berada di masa terindah / Demi ini / Aku telah memohon kepada Buddha selama lima ratus tahun / Meminta-Nya agar kita memiliki ikatan di dunia fana ini." Dengan suasana yang indah dan emosi yang menyentuh, puisi ini masih luas dikutip hingga saat ini.
 
-## 《Tanpa Penyesalan Muda》: Renungan Puitis atas Masa Muda
+## _Youth Without Regret_: Kilas Balik Puitis Masa Muda
 
-1982 terbit 《Tanpa Penyesalan Muda》 melanjutkan keberhasilan 《Tujuh Mil Harum》. Kumpulan ini fokus pada tema hidup seperti muda, cinta, persahabatan, menampakkan renungan mendalam penyair terhadap kehidupan. Karya judul 〈Tanpa Penyesalan Muda〉 mengungkapkan kerinduan pada waktu yang berlalu dan pujian untuk masa muda.[^4]
+Kumpulan puisi _Youth Without Regret_ (無怨的青春) yang diterbitkan pada tahun 1982 melanjutkan kesuksesan _Seven Mile Fragrance_. Buku ini berfokus pada tema-tema kehidupan seperti masa muda, cinta, dan persahabatan, menunjukkan pemahaman mendalam sang penyair tentang kehidupan. Judul kumpulan puisi ini mengekspresikan kerinduan akan tahun-tahun yang telah berlalu dan pujian terhadap masa muda. [^4]
 
-Puisi Xi Murong sering bermula dari satu adegan atau benda konkret, perlahan terbuka, akhirnya menyublim ke ketinggian filsafat. 《Tanpa Penyesalan Muda》 ciri lain adalah musikalitasnya — irama kuat, cocok dibacakan, membiarkan pembaca merasakan keindahan puisi dalam suara.
+Puisi-puisi Xi Mu-rong sering kali bermula dari sebuah adegan atau objek konkret, berkembang secara bertahap, dan akhirnya mencapai tingkat filosofis. Ciri khas lain dari _Youth Without Regret_ adalah musikalitasnya—ritme yang kuat dan cocok untuk dibacakan, memungkinkan pembaca merasakan keindahan puisi melalui suara.
 
-## Karya Prosa dan Rasa Terikat pada Mongolia
+## Penulisan Prosa dan Ikatan dengan Mongolia
 
-Selain puisi, Xi Murong juga seorang penulis prosa. Akhir 1980-an, ia berturut menerbitkan kumpulan prosa 《Jejak Pertumbuhan》, 《Ada Sebuah Lagu》 dll, melanjutkan gaya segar puisi, tulisan indah, perasaan tulus.
+Selain puisi, Xi Mu-rong juga seorang penulis prosa. Pada akhir 1980-an, ia menerbitkan kumpulan prosa seperti _Traces of Growth_ (成長的痕跡) dan _There is a Song_ (有一首歌), yang melanjutkan gaya segar puisinya dengan tulisan yang indah dan emosi yang tulus.
 
-1989, ia pertama kali menginjak kaki padang rumput Mongolia, perjalanan mencari akar ini berdampak besar baginya. Ia mulai banyak menciptakan puisi dan prosa bertema Mongolia, 《Rumahku di Atas Dataran Tinggi》, 《Gunung Sungai Menunggu》 dll menampakkan cinta mendalamnya pada padang rumput dan pemikiran terhadap budaya bangsa. Ia dengan bentuk puisi modern, mengungkapkan kerinduan pada budaya kuno dan pengakuan identitas bangsa.[^5]
+Pada tahun 1989, ia pertama kali menginjakkan kaki di padang rumput Mongolia; perjalanan pencarian akar ini memberikan dampak besar baginya. Ia mulai banyak menulis puisi dan prosa bertema Mongolia. Karya-karya seperti _My Home is on the Plateau_ (我的家在高原上) dan _Rivers and Mountains Await_ (江山有待) menunjukkan kasih sayangnya terhadap padang rumput dan pemikirannya tentang budaya etnis. Ia menggunakan bentuk puisi modern untuk mengekspresikan kerinduan pada budaya kuno dan identitas etnisnya. [^5]
 
-2019 terbit 《Aku Memberi Nama pada Kenangan》 adalah kumpulan puisi masa tuanya, menengok kembali seumur hidup pengembaraan dan mencari akar di usia lanjut, bahasa lebih cenderung tenang dan introspektif.
+_Naming My Memories_ (我給記憶命名) yang diterbitkan pada tahun 2019 adalah kumpulan puisi di masa tuanya, di mana ia menoleh kembali ke masa hidupnya yang penuh pengembaraan dan pencarian akar dengan bahasa yang lebih tenang dan introspektif.
 
-## Kesempurnaan Gabungan Lukisan dan Puisi
+## Perpaduan Sempurna antara Lukisan dan Puisi
 
-Sebagai pelukis akademis, Xi Murong tidak pernah meninggalkan kreasi lukisan. Karya lukis minyaknya bergaya segar alami, sangat konsisten dengan gaya puisi. Lebih langka, puisinya sering memiliki rasa gambar yang kuat, pembaca membaca seolah melihat lembar-lembar lukisan indah.
+Sebagai pelukis profesional, Xi Mu-rong tidak pernah meninggalkan karya seni rupa. Karya cat minyaknya memiliki gaya yang segar dan alami, sangat selaras dengan gaya puisinya. Yang lebih istimewa adalah puisi-puisinya sering kali memiliki kesan visual yang kuat; saat membacanya, pembaca seolah-olah melihat rangkaian lukisan yang indah.
 
-Xi Murong pernah mengadakan pameran puisi-lukisan berkali-kali, menggabungkan puisi dan lukisan, membuat kolaborasi lintas batas sastra dan seni rupa menemukan bentuk praktik, disambut hangat penonton.[^6]
+Xi Mu-rong telah beberapa kali mengadakan pameran puisi dan lukisan, menggabungkan sastra dan seni rupa dalam bentuk kolaborasi lintas disiplin yang disambut hangat oleh penonton. [^6]
 
 ## Karier Pendidikan dan Warisan Budaya
 
-Xi Murong sejak **1984** mengajar di Jurusan Seni Rupa **Universitas Tunghai**, serta lama mengajar di Akademi Pendidikan Hsinchu (kini Akademi Pendidikan Guru Cabang Hsinchu Universitas Nasional Tsinghua). Ia percaya inti pendidikan seni adalah inspirasi emosi dan jiwa, teknik hanyalah alat, estetika lah jiwanya. Filosofi mengajarnya memengaruhi banyak pekerja seni generasi berikutnya.
+Sejak tahun **1984**, Xi Mu-rong mengajar di Departemen Seni **Universitas Donghai**, dan juga mengajar selama bertahun-tahun di Hsinchu Normal College (sekarang Institut Pendidikan Guru Universitas Nasional Tsing Hua). Ia percaya bahwa inti dari pendidikan seni adalah inspirasi emosional dan spiritual; teknik hanyalah alat, sementara keindahan adalah jiwanya. Filosofi pengajarannya telah memengaruhi banyak praktisi seni generasi berikutnya.
 
-Xi Murong juga sering ke sekolah, komunitas memberikan ceramah, berbagi wawasan kreatif. Daya tarik dan ketulusannya menyentuh pendengar tak terhitung, juga berkontribusi pada penyebaran puisi.
+Xi Mu-rong juga sering memberikan ceramah di sekolah-sekolah dan komunitas untuk berbagi pengalaman kreatifnya dengan pembaca. Keramahan dan ketulusannya telah menyentuh banyak pendengar serta berkontribusi pada popularitas puisi.
 
-## Prestasi Sastra dan Makna Era
+## Pencapa prestas Sastra dan Makna Zaman
 
-Total penjualan kumpulan puisi Xi Murong melebihi satu juta eksemplar, diterjemahkan ke banyak bahasa diterbitkan di seluruh dunia. Ia meraih Penghargaan Sastra Zhongshan, Penghargaan Sastra Nasional dll banyak pengakuan.[^7]
+Total penjualan kumpulan puisi Xi Mu-rong telah melampaui satu juta eksemplar, diterjemahkan ke berbagai bahasa, dan diterbitkan di seluruh dunia. Ia menerima berbagai penghargaan seperti Penghargaan Seni Zhongshan dan Penghargaan Seni Nasional. [^7]
 
-Berbeda dengan keanggunan klasik **Pai Hsien-yung** dan kritik rasional **Lung Ying-tai**, Xi Murong memilih jalan lebih lembut. Dalam kehidupan modern serba cepat, puisinya memberikan慰藉 (penyejuk hati) bagi pembaca. Karyanya juga membuktikan perasaan halus dan perspektif unik perempuan, dapat menciptakan sastra yang menyentuh hati.
+Berbeda dengan gaya [Bai Hsien-yung](/id/people/pai-hsien-yung-literary-master/) yang halus dan elegan, atau [Lung Ying-tai](/id/people/lung-ying-tai/) yang kritis secara rasional, Xi Mu-rong memilih jalan yang lebih lembut. Di tengah ritme kehidupan modern yang cepat, puisi-puisinya memberikan penghiburan bagi jiwa para pembaca. Karya-karyanya juga membuktikan bahwa kepekaan dan perspektif unik perempuan dapat menciptakan sastra yang menyentuh hati.
 
 ## Referensi
 
-## Bacaan Lebih Lanjut
+[^1]: [Departemen Seni Universitas Normal Taiwan](https://www.ntnu.edu.tw/art/) — Latar belakang pendirian Departemen Seni NTNU dan informasi alumni.
 
-- [Museum Sastra Nasional Taiwan](https://www.nmtl.gov.tw/) — Karya dan benda pusaka Xi Murong terSimpan di Museum Sastra Nasional Taiwan
-- [Pai Hsien-yung](/id/people/pai-hsien-yung-literary-master) — Nama besar sastra Taiwan sekunder, dikenal lewat 《Orang-orang Taipei》
-- [San Mao](/id/people/san-mao) — Penulis perempuan generasi serupa yang menuliskan tanah asing ke dalam hati orang Taiwan
+[^2]: [Académie Royale des Beaux-Arts (Brussel)](https://www.arba-esi.be/) — Institusi tempat Xi Mu-rong menempuh studi di Belgia.
 
-[^1]: [Departemen Seni Rupa Universitas Pendidikan Taiwan](https://www.ntnu.edu.tw/art/) — Latar belakang pendirian Departemen Seni Rupa Univ. Pendidikan Taiwan dan informasi alumni.
+[^3]: [Museum Sastra Nasional Taiwan — Pameran Khusus Xi Mu-rong](https://www.nmtl.gov.tw/) — Catatan penerbitan dan cetak ulang _Seven Mile Fragrance_, termasuk data penjualan dan informasi pameran.
 
-[^2]: [Akademi Seni Rupa Kerajaan Brussel (Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — Institusi tempat Xi Murong belajar di luar negeri, akademi seni rupa nasional Belgia.
+[^4]: [Aliansi E-book Taiwan — Halaman Karya Xi Mu-rong](https://www.taaze.tw/) — Konfirmasi data edisi pertama dan tahun penerbitan _Youth Without Regret_.
 
-[^3]: [Museum Sastra Nasional Taiwan — Pameran Khusus Xi Murong](https://www.nmtl.gov.tw/) — Catatan penerbitan dan terbit ulang 'Qili Xiang', termasuk data penjualan kumpulan puisi dan data pameran.
+[^5]: [Museum Budaya Mongolia dan Tibet](https://www.mtac.gov.tw/) — Pengenalan khusus dari lembaga pemerintah mengenai karya sastra Mongolia Xi Mu-rong.
 
-[^4]: [Aliansi Buku Elektronik Taiwan — Halaman Karya Xi Murong](https://www.taaze.tw/) — Data edisi pertama 'Wu Yuan De Qing Chun' dan konfirmasi tahun penerbitan.
+[^6]: [Situs Resmi Xi Mu-rong](http://www.ximurong.tw) — Situs resmi penyair, memuat informasi karya, catatan pameran lukisan, dan perjalanan kreatif.
 
-[^5]: [Museum Budaya Mongolia-Tibet — Karya Sastra Mongolia Xi Murong](https://www.mtac.gov.tw/) — Pengenalan khusus oleh institusi pemerintah mengenai karya sastra Mongolia Xi Murong.
+[^7]: [Penghargaan Seni Nasional — Yayasan Seni dan Budaya Nasional](https://www.ncafroc.org.tw/) — Catatan penghargaan Xi Mu-rong dan penjelasan juri.
 
-[^6]: [Situs Resmi Xi Murong](http://www.ximurong.tw) — Situs resmi penyair, berisi informasi karya, catatan pameran lukis, dan perjalanan kreatif.
+## Bacaan Lanjutan
 
-[^7]: [Hadiah Sastra Nasional — Yayasan Kebudayaan dan Seni Nasional](https://www.ncafroc.org.tw/) — Catatan penghargaan Xi Murong dan penjelasan juri.
+- [Museum Sastra Nasional Taiwan](https://www.nmtl.gov.tw/) — Koleksi karya dan artefak Xi Mu-rong yang disimpan oleh museum.
+- [Bai Hsien-yung](/id/people/pai-hsien-yung-literary-master/) — Tokoh sastra ternama Taiwan dari generasi yang sama, terkenal dengan _Taipei People_.
+- [San Mao](/people/三毛) — Penulis perempuan dari generasi yang sama yang menuliskan pengalaman di negeri asing ke dalam hati orang Taiwan.
