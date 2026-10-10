@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-11T06:06:32+08:00",
-    "zhCommitHead": "86e72547b",
+    "lastUpdated": "2026-10-11T06:19:06+08:00",
+    "zhCommitHead": "fb37aa7e9",
     "totalZh": 1126,
     "activeLanguages": [
       "en",
@@ -20,98 +20,98 @@
     "summary": {
       "en": {
         "total_zh": 1126,
-        "fresh": 1125,
+        "fresh": 1126,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1126,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1126,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1126,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1126,
-        "fresh": 1125,
+        "fresh": 1126,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1126,
-        "fresh": 1123,
+        "fresh": 1124,
         "stale": 1,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
       },
       "id": {
         "total_zh": 1126,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1126,
-        "fresh": 1125,
+        "fresh": 1126,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1126,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1126,
-        "fresh": 1122,
+        "fresh": 1124,
         "stale": 2,
-        "metadata_stale": 1,
-        "missing": 1,
+        "metadata_stale": 0,
+        "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1126,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1126,
-        "fresh": 1125,
+        "fresh": 1126,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       }
     },
@@ -70520,20 +70520,18 @@
         "vi": {
           "path": "vi/Society/taiwan-unification-independence-spectrum.md",
           "translatedFrom": "Society/台灣統獨光譜.md",
-          "sourceCommitSha": "4c15a2b03",
-          "sourceContentHash": "sha256:a399eae223d36d4d",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:1b0043849d509410",
           "sourceBodyHash": "sha256:71fc72f8b7a7bc3d",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "translatedAt": "2026-10-11T06:06:39+08:00",
           "translationLastCommit": "12f09560",
           "translationLastModified": "2026-10-10T23:20:50+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 51987,
+          "bytes": 52306,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-unification-independence-spectrum.md",
@@ -76042,20 +76040,18 @@
         "ar": {
           "path": "ar/Society/taiwan-yuelao-matchmaker-map.md",
           "translatedFrom": "Society/台灣月老地圖.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:0bd3cef2eb38faed",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:fa3e1618857c531a",
           "sourceBodyHash": "sha256:b139705eca5e1f54",
-          "translatedAt": "2026-09-09T19:34:18+08:00",
+          "translatedAt": "2026-10-11T06:06:42+08:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 45075,
+          "bytes": 41193,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-yuelao-matchmaker-map.md",
@@ -93476,40 +93472,183 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 15542,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 17348,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 16505,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 17529,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 19022,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 16676,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 17753,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 35276,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 22890,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 28573,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Politics/lai-lai-lai-zenmeyang-chant.md",
+          "translatedFrom": "Politics/來來來怎麼樣怎麼樣.md",
+          "sourceCommitSha": "a362953ac",
+          "sourceContentHash": "sha256:bcbde5f1467600f9",
+          "sourceBodyHash": "sha256:12480164456f4319",
+          "translatedAt": "2026-10-11T06:06:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "bytes": 18350,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
