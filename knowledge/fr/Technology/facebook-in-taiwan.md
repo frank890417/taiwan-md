@@ -1,132 +1,132 @@
 ---
-title: "Facebook: From the 'Stealing Vegetables' Craze to the Double-Edged Sword of Digital Democracy, Defining Taiwan's Social Blueprints for Twenty Years"
-description: "In 2009, 'Happy Farm' ignited a craze for stealing vegetables in Taiwan; in 2014, it became the mobilization nerve center for the Sunflower Student Movement. Facebook has traversed two identities in Taiwan: 'infrastructure' and 'cognitive battlefield.' The 2025 censorship controversies have added another title: the starting point for 'FB refugees.'"
+title: 'Facebook : de la folie du « vol de légumes » à la lame à double tranchant de la démocratie numérique, les coordonnées bleues de vingt ans de vie sociale à Taïwan'
+description: "En 2009, l'engouement pour Happy Farm secoue Taïwan ; en 2014, il devient le moteur de mobilisation du mouvement des tournesols. Entre infrastructures et champ de bataille cognitif, Facebook fait face en 2025 à une crise de confiance majeure."
 date: 2026-05-01
+category: 'Technology'
 tags:
   [
     'Facebook',
-    'Social Media',
-    'Digital Democracy',
-    'Sunflower Student Movement',
-    'Cognitive Warfare',
-    'Misinformation',
+    'réseaux sociaux',
+    'démocratie numérique',
+    'mouvement des tournesols',
+    'guerre cognitive',
+    'désinformation',
   ]
 subcategory: '社群與數位文化'
 author: 'Taiwan.md Contributors'
-category: 'Technology'
-readingTime: 28
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+readingTime: 28
 translatedFrom: 'Technology/Facebook.md'
-sourceCommitSha: ''
+sourceCommitSha: 'ac86475bc'
 sourceContentHash: 'sha256:79e35442d2cf14fd'
 sourceBodyHash: 'sha256:5ed7f28c852729fe'
-translatedAt: '2026-06-16T17:13:36Z'
-featured: false
+translatedAt: '2026-10-11T01:05:45+08:00'
 ---
 
-> **30-Second Overview:**
-> The development history of Facebook (FB) in Taiwan is a compressed version of a 20-year digital social history: from the 2009 "stealing vegetables" craze of _Happy Farm_, to the core online mobilization of the 2014 Sunflower Student Movement, to the 2025 "FB refugee wave" triggered by Meta's speech censorship controversies. It serves simultaneously as Taiwan's largest public discussion square and the most active front line for cognitive warfare. As of the end of 2025, Facebook's reach in Taiwan remains above 75%, but its market share has continued to decline from 61% in 2022 to below 50%, shrinking for three consecutive years.
+> **Aperçu en 30 secondes :**
+> L'histoire du développement de Facebook à Taïwan est une version condensée de vingt ans de vie sociale numérique : de la folie du « vol de légumes » avec _Happy Farm_ en 2009, au cœur de la mobilisation en ligne pour le mouvement des tournesols en 2014, jusqu'à la vague de « réfugiés FB » déclenchée par les controverses de modération de Meta en 2025. Il est à la fois la plus grande place publique de discussion à Taïwan et le front le plus actif de la guerre cognitive. Fin 2025, bien que le taux de portée de Facebook à Taïwan dépasse toujours les 75 %, sa part de marché a chuté continuellement, passant de 61 % en 2022 à moins de 50 %, marquant trois années de déclin consécutives.
 
-"Did you steal vegetables today?" This greeting, which swept through Taiwanese offices and campuses in 2009, originated from a web game called _Happy Farm_[^1]. At the time, Facebook, which had just entered the Taiwan market, leveraged this simple game that made office workers set alarms to wake up in the middle of the night to "harvest crops" to break through 5.7 million visits in Taiwan in August 2009[^2]. Taiwan even became one of the most popular markets for _Happy Farm_ globally[^3].
+« As-tu volé des légumes aujourd'hui ? » Cette salutation qui a envahi les bureaux et les campus taïwanais en 2009 provenait d'un jeu par navigateur appelé _Happy Farm_ (開心農場) [^1]. À l'époque, Facebook, qui venait de pénétrer le marché taïwanais, a profité de ce jeu simple pour inciter les employés de bureau à régler des alarmes en pleine nuit afin de « récolter leurs légumes ». En août 2009, cela a permis d'atteindre plus de 5,7 millions de visites à Taïwan [^2]. Le pays est même devenu l'un des marchés les plus dynamiques au monde pour _Happy Farm_ [^3].
 
-📝 **Curator's Note:** In an era before smartphones were widespread, Facebook used "games" as the lowest-threshold social method to move Taiwan people's social circles from the physical world to the cloud, allowing it to stand out in competition with Plurk (Pulang), a microblogging platform popular in Taiwan at the time[^4].
+📝 Note du conservateur : À une époque où les smartphones n'étaient pas encore généralisés, Facebook a utilisé le « jeu » comme un mode de socialisation à faible barrière à l'entrée. Cela a permis de déplacer le cercle social des Taïwanais du monde physique vers le cloud, lui permettant de s'imposer face à Plurk (噗浪), la plateforme de microblogging alors populaire à Taïwan [^4].
 
-## From Harvard Dorms to Taipei Offices
+## Des dortoirs de Harvard aux bureaux de Taipei
 
-The origin of Facebook was in February 2004, when Mark Zuckerberg and his Harvard roommate set up "TheFacebook" in a dormitory[^5]. Initially just a campus contact book, its real-name system and closed-circle characteristics spread rapidly among Ivy League schools. In the United States, Facebook started as a student social network; in Taiwan, it directly captured the office workers and middle-aged/elderly groups with the strongest purchasing power through social games like _Happy Farm_[^6], laying the foundation for "all-age" coverage.
+L'origine de Facebook remonte à février 2004, lorsque Mark Zuckerberg et ses colocataires de Harvard ont créé « TheFacebook » dans leur dortoir [^5]. Initialement conçu comme un annuaire universitaire, son système d'identité réelle et son caractère de cercle fermé se sont rapidement propagés dans les universités de l'Ivy League. Si Facebook a commencé par la socialisation étudiante aux États-Unis, il a conquis à Taïwan les segments de population ayant le plus fort pouvoir d'achat — les actifs et les seniors — grâce à des jeux sociaux comme _Happy Farm_ [^6], posant ainsi les bases d'une couverture intergénérationnelle.
 
-Meta's office in Taiwan was established in 2015, with its initial three employees squeezed into a small conference room. In 2019, the Taiwan office moved to the Nanshan Plaza building in Taipei, occupying an entire floor of 804 ping (approx. 2,650 sq meters), equipped with Taiwanese employee facilities such as KTVs and mahjong tables, signaling a long-term investment in the Taiwan market[^7].
+Le bureau de Meta à Taïwan a été établi en 2015, avec initialement seulement trois employés regroupés dans une petite salle de réunion. En 2019, le bureau taïwanais a déménagé au Nanshan Plaza à Taipei, occupant un étage entier de 2 655 m² (804 _ping_), doté d'installations typiquement taïwanaises comme des salles KTV et des tables de mah-jong, affirmant ainsi son engagement à long terme sur le marché taïwanais [^7].
 
-## The Mobilization Map of the Sunflower Student Movement
+## La carte de mobilisation du mouvement des tournesols
 
-If 2009 was the "Social First Year" for Facebook in Taiwan, 2014 was the "Political First Year."
+Si 2009 fut l'« année zéro » de la vie sociale sur Facebook à Taïwan, 2014 fut celle de la politique.
 
-During the March 2014 Sunflower Student Movement, Facebook demonstrated惊人的 mobilization energy: live broadcasting, material fundraising, and discourse dissemination all occurred synchronously on Facebook. Academic research shows that Facebook usage related to the student movement had a significant impact on whether college students participated in the movement; the level of participation brought by weak ties (strange netizens) was even higher than that of strong ties (family and friends)[^8].
+Pendant le mouvement des tournesols en mars 2014, Facebook a démontré une capacité de mobilisation phénoménale : retransmissions en direct, collecte de matériel et diffusion de discours se sont déroulées simultanément sur la plateforme. Des études académiques montrent que l'utilisation de Facebook liée au mouvement avait une influence significative sur la participation des étudiants universitaires ; le degré d'engagement généré par les « liens faibles » (internautes inconnus) était même supérieur à celui des « liens forts » (amis et famille) [^8].
 
-However, Facebook's role in this movement was also double-edged—information overload, the spread of misinformation, and community polarization emerged simultaneously[^9]. This movement completely changed Taiwan's political ecology, making Facebook the foundational infrastructure for voice dissemination for civil society, political figures, and NGOs.
+Cependant, le rôle de Facebook dans ce mouvement fut ambivalent : surcharge informationnelle, propagation de fausses informations et polarisation sociale ont émergé simultanément [^9]. Ce mouvement a radicalement transformé l'écosystème politique taïwanais et a fait de Facebook l'infrastructure de parole essentielle pour la société civile, les politiciens et les ONG.
 
-## DIBT Expedition and Fan Page Trading
+## L'offensive de DiBa et le commerce de pages
 
-The expansion of Facebook's influence in Taiwan also made it a front line for cross-strait cognitive warfare.
+L'influence croissante de Facebook à Taïwan en a fait un front majeur de la guerre cognitive entre les deux rives du détroit.
 
-In 2016, following the Zhou Ziyu flag incident, some Chinese netizens launched the "DIBT Expedition" (帝吧出征) action through Facebook, flooding comments on relevant Taiwan fan pages and forming cross-border cyber conflicts[^10]. In 2019, the Investigation Bureau publicly stated that it was continuously monitoring cross-strait forces attempting to buy Taiwan fan pages for political propaganda[^11], revealing the structural vulnerability of Facebook as a cross-border information battlefield.
+En 2016, suite à l'incident du drapeau de Tzou Tzu-yu, certains internautes chinois ont lancé l'opération « DiBa Chujing » (帝吧出征) via Facebook, inondant de commentaires les pages de fans taïwanaises concernées, créant ainsi un conflit numérique transnational [^10]. En 2019, le Bureau d'enquête (Investigation Bureau) a déclaré surveiller activement les tentatives des forces de la Chine continentale pour acheter des pages de fans taïwanaises à des fins de propagande politique [^11], révélant la vulnérabilité structurelle de Facebook en tant que champ de bataille informationnel transnational.
 
-## Algorithm Black Boxes and Media Dependence
+## Boîte noire algorithmique et dépendance médiatique
 
-As Facebook transformed into Meta, the algorithm black box, opaque ad revenue sharing, and control over news media traffic gradually sparked dissatisfaction. Many Taiwan news media rely heavily on the traffic brought by Facebook; any adjustment to the algorithm could severely impact revenue, creating an inescapable "traffic dependency"[^12].
+Avec la transition de Facebook vers Meta, l'opacité des algorithmes, le manque de transparence dans le partage des revenus publicitaires et le contrôle du trafic vers les médias d'information ont progressivement suscité le mécontentement. De nombreux médias taïwanais dépendent fortement du trafic généré par Facebook ; tout ajustement algorithmique peut frapper leurs revenus de plein fouet, créant une « dépendance au trafic » difficile à rompre [^12].
 
-For a long time, there have been controversies regarding the censorship standards of political discourse on Facebook in Taiwan, labeled as "Red FB" and "Green FB"[^13]. Creators have also had their accounts suspended without warning, causing years of accumulated digital assets to vanish overnight[^14].
+Depuis longtemps, les standards de modération des discours politiques sur Facebook à Taïwan font l'objet de controverses entre les partisans d'un « Facebook rouge » et d'un « Facebook vert » [^13]. Des créateurs ont également vu leurs comptes suspendus sans préavis, réduisant à néant en une nuit des années d'actifs numériques accumulés [^14].
 
-## 2025: The FB Refugee Wave
+## 2025 : La vague de réfugiés FB
 
-The most severe crisis of trust erupted in 2025. Reports indicated that Meta collaborated with specific political forces to conduct opaque censorship and down-ranking of popular posts in Taiwan and Hong Kong regions, with many accounts discussing public issues being banned without warning[^15]. The famous "FB Refugee Wave" in Taiwan's internet history was thus triggered—approximately 20,000 users flocked to decentralized platforms like Mastodon[^16].
+La crise de confiance la plus grave a éclaté en 2025. Des rapports ont indiqué que Meta collaborerait avec certaines forces politiques pour effectuer une modération opaque et un déréférencement ciblé de publications populaires à Taïwan et à Hong Kong, allant jusqu'à bannir sans préavis des comptes discutant massivement de sujets d'intérêt public [^15]. C'est ainsi que s'est déclenchée la célèbre « vague de réfugiés FB » dans l'histoire du web taïwanais — environ 20 000 utilisateurs ont migré vers des plateformes décentralisées comme Mastodon [^16].
 
-Meta officially clarified, stating that it never accepted content censorship from the Chinese government for Taiwan users, nor did it share Taiwan user data; content censorship is handled by the Taiwan-based Traditional Chinese team in accordance with global community guidelines[^17].
+Meta a fermement démenti ces accusations, affirmant n'avoir jamais accepté de modération de contenu de la part du gouvernement chinois concernant les utilisateurs taïwanais, ni partagé leurs données ; la modération est effectuée par une équipe locale parlant le chinois traditionnel selon les règles communautaires mondiales [^17].
 
-📝 **Curator's Note:** When social platforms become public infrastructure, their censorship standards directly impact democratic operations—this goes beyond the scope of commerce.
+📝 Note du conservateur : Lorsqu'une plateforme sociale devient une infrastructure publique, ses standards de modération impactent directement le fonctionnement démocratique — cela dépasse désormais le simple cadre commercial.
 
-## Anti-Fake News Actions
+## Actions contre la désinformation
 
-Facing the complex online environment, Meta has also promoted anti-fake news strategies in Taiwan. From October to December 2019, Facebook cracked down heavily on Taiwan content farms that "violated content guidelines," with over a hundred fan pages, including "MiXun" (Secret Message), being centrally taken down[^18]. In November of the same year, Facebook held a hackathon in Taipei themed around "fighting misinformation"[^19].
+Face à un environnement numérique complexe, Meta a également mis en place des stratégies de lutte contre la désinformation à Taïwan. Entre octobre et décembre 2019, Facebook a mené une vaste campagne contre les « fermes à contenus » taïwanaises violant ses règles, entraînant la suppression de plus de cent pages de fans, dont _Mishun_ (密訊) [^18]. En novembre de la même année, Facebook a organisé à Taipei un hackathon sur le thème de la « lutte contre la désinformation » [^19].
 
-## Current Status: High Reach, Continuous Loss of Stickiness
+## État des lieux : une portée élevée mais une fidélité en déclin
 
-As of the end of 2025, Facebook's reach in Taiwan remains the highest among all platforms (over 75%), but its market share has continued to decline from 61.22% in 2022[^20]. Meta's Threads, however, has risen rapidly in Taiwan following the 2024 Taiwan election due to a more open atmosphere for political discussion[^21]. According to 2026 data, Taiwan users contribute 21.08% of Threads' global total traffic, making it one of the countries with the highest participation globally[^22].
+Fin 2025, bien que la portée de Facebook reste la plus élevée de toutes les plateformes à Taïwan (plus de 75 %), sa part de marché continue de décliner par rapport aux 61,22 % de 2022 [^20]. En revanche, Threads, propriété de Meta, a connu une ascension rapide après les élections taïwanaises de 2024 grâce à un climat de discussion politique plus ouvert [^21]. Selon les données de 2026, les utilisateurs taïwanais contribuent à hauteur de 21,08 % du trafic mondial de Threads, faisant de Taïwan l'un des pays les plus engagés au monde [^22].
 
-Facebook's story is a microcosm of Taiwan's 20-year digital transformation: it taught Taiwan people to socialize in virtual farms, learn civic mobilization on the streets outside the Legislative Yuan, and rethink the boundaries of digital trust amidst censorship controversies. Today, it sits in an awkward position—it is still the largest platform, yet also the one people complain about most.
+L'histoire de Facebook est un microcosme des vingt ans de transformation numérique de Taïwan : elle a appris aux Taïwanais la socialisation dans une ferme virtuelle, la mobilisation citoyenne dans les rues devant le Yuan législatif, et la remise en question des limites de la confiance numérique face aux controverses de modération. Aujourd'hui, la plateforme occupe une position inconfortable — elle reste la plus grande, mais c'est aussi celle dont les gens se plaignent le plus.
 
 ---
 
-**Further Reading**:
+**Lectures complémentaires :**
 
-- [IG: From Photographers' Filters to Taiwan People's "Crispy" Anxiety](/fr/technology/instagram-in-taiwan) — Another key Meta platform in Taiwan, forming different usage scenarios with Facebook: Facebook is for "contacting elders," IG is for "looking at oneself," and Threads is the "big argument square."
-- [Threads in Taiwan](/fr/technology/threads-in-taiwan) — Why do Taiwan people call Threads "Crispy" (脆)? From the FB refugee wave to "Crispy" being the global traffic leader, the unique position of Taiwan users in the Meta ecosystem.
-- [History of Taiwan Internet Community Migration](/fr/technology/taiwan-online-community-migration) — From BBS, Wretch, Plurk to Facebook, IG, Threads. To understand why Facebook rose and began to recede in Taiwan, this complete migration map is necessary.
-- [Wretch (Wuming Xiaozhan)](/fr/culture/wretch) — La plateforme locale que Facebook a d’abord dépassée à Taïwan, puis remplacée : en 2008 Wretch devançait encore Yahoo comme numéro un national ; à partir de 2009, Facebook a pris l’ascendant grâce à la viscosité du fil d’actualité.
+- [IG : Des filtres des photographes à l'anxiété « Cui » des Taïwanais](/fr/technology/instagram-in-taiwan) — Une autre plateforme majeure de Meta à Taïwan, offrant un usage différent de Facebook : Facebook sert à « contacter les aînés », IG est pour « se montrer à soi-même », tandis que Threads est la « place du grand débat ».
+- [Threads à Taïwan](/fr/technology/threads-in-taiwan) — Pourquoi les Taïwanais appellent-ils Threads « Cui » (脆) ? De la vague de réfugiés Facebook à la première place mondiale du trafic pour « Cui », la position unique des utilisateurs taïwanais dans l'écosystème Meta.
+- [Histoire de la migration des communautés en ligne à Taïwan](/fr/technology/taiwan-online-community-migration) — Des BBS, Wumingsiaozhan et Plurk vers Facebook, IG et Threads ; comprendre pourquoi Facebook a émergé puis a commencé à décliner nécessite cette carte migratoire complète.
+- [Wumingsiaozhan (無名小站)](/fr/culture/wretch) — La plateforme locale que Facebook a surpassée pour finalement la remplacer : en 2008, Wuming était encore numéro un devant Yahoo, mais dès 2009, Facebook a pris le dessus grâce à l'engagement sur son mur d'actualités.
 
-## References
+## Références
 
-[^1]: [Facebook Founded in the US in 2004, Caused a Sensation in Taiwan in 2009](https://www.facebook.com/UDNtime/posts/851024853897918/) — United Daily News Time Machine, recording the media record of Facebook igniting the social craze in Taiwan through _Happy Farm_.
+[^1]: [Facebook fondé aux États-Unis en 2004, a provoqué une sensation à Taïwan en 2009](https://www.facebook.com/UDNtime/posts/851024853897918/) — United Daily News Time Machine, documentant l'impact médiatique de Facebook via _Happy Farm_ à Taïwan.
 
-[^2]: [Happy Farm is the Most Used Facebook Application by Taiwan Netizens](https://www.ixresearch.com/news/news_09_17_09/) — ARO CSM, September 2009 survey, recording that in August 2009, there were 5,735,530 visits to Facebook in Taiwan, of which 62% used applications, with Happy Farm being the most used.
+[^2]: [Happy Farm est l'application Facebook la plus utilisée par les internautes taïwanais](https://www.ixresearch.com/news/news_09_17_09/) — ARO, enquête de septembre 2009, indiquant qu'en août 2009, Facebook comptait 5 735 530 visites à Taïwan, dont 62 % utilisaient des applications, _Happy Farm_ étant la plus populaire.
 
-[^3]: [Home Economy: Three Young Developers of Happy Farm Fulfill FB Dreams](https://ithelp.ithome.com.tw/articles/10031537) — iT邦幫忙, reporting on the background of Happy Farm's development and the context of Taiwan becoming one of the most popular markets globally.
+[^3]: [Économie résidentielle : l'équipe de développement de Happy Farm, trois jeunes réalisent leur rêve sur FB](https://ithelp.ithome.com.tw/articles/10031537) — iT Bang, rapport sur le contexte de développement de _Happy Farm_ et sur l'émergence de Taïwan comme l'un des marchés les plus dynamiques.
 
-[^4]: [Taiwan Internet Penetration Rate Breaks 95%! Facebook Remains the Main Battlefield](https://www.foodnext.net/column/columnist/paper/6111120817) — foodNEXT, recording the development process of Facebook surpassing Plurk in competition and establishing its status as Taiwan's largest social platform.
+[^4]: [Le taux de pénétration d'Internet à Taïwan dépasse 95 % ! Facebook reste le champ de bataille principal](https://www.foodnext.net/column/columnist/paper/6111120817) — foodNEXT, retraçant le parcours de Facebook qui a surpassé Plurk pour devenir la plus grande plateforme sociale de Taïwan.
 
-[^5]: [Facebook - Wikipedia](https://en.wikipedia.org/wiki/Facebook) — Wikipedia, recording the origin of TheFacebook established in Harvard dorms in February 2004, and the complete history of Zuckerberg co-founding it with his roommate.
+[^5]: [Facebook - Wikipedia](https://en.wikipedia.org/wiki/Facebook) — Wikipédia, détaillant l'origine de TheFacebook dans les dortoirs de Harvard en février 2004 et l'histoire de sa cofondation par Zuckerberg et ses colocataires.
 
-[^6]: [Sex, Beer, and Coding: The Wild Story of Facebook's Early Startup Days](https://www.inside.com.tw/article/13564-sex-beer-and-coding-inside-facebooks-wild-early-days) — INSIDE, recording Facebook's early core of student social networking and the differentiated path of transforming into an all-age platform in Taiwan.
+[^6]: [Sexe, bière et programmation : l'histoire sauvage des débuts de Facebook](https://www.inside.com.tw/article/13564-sex-beer-and-coding-inside-facebooks-wild-early-days) — INSIDE, documentant la trajectoire différenciée de Facebook, passant d'un réseau étudiant à une plateforme intergénérationnelle à Taïwan.
 
-[^7]: [Facebook Taiwan Office Gets a New Home, Promises Continued Investment in Taiwan](https://www.ithome.com.tw/news/129926) — iThome, April 2019 report, recording the process of the Taiwan office starting with three people in a conference room in 2015 and moving into an entire floor (804 ping) of the Taipei Nanshan Plaza building in 2019.
+[^7]: [Le bureau de Facebook Taiwan déménage, promettant de continuer à investir à Taïwan](https://www.ithome.com.tw/news/129926) — iThome, rapport d'avril 2019, retraçant le passage du bureau de trois personnes en 2015 à l'occupation d'un étage entier (804 _ping_) au Nanshan Plaza en 2019.
 
-[^8]: [Student Facebook Usage and Political Participation: A Case Study of the Sunflower Student Movement](https://www.airitilibrary.com/Article/Detail/10192433-201612-201701040022-201701040022-61-91) — Airiti Library, Chen Ya-mei's 2016 academic research, using empirical methods to analyze the impact mechanism of Facebook usage on college students' participation in the Sunflower Student Movement, finding significant weak-tie effects.
+[^8]: [Utilisation de Facebook par les étudiants et participation politique : le cas du mouvement des tournesols](https://www.airitilibrary.com/Article/Detail/10192433-201612-201701040022-201701040022-61-91) — Academia Biblio, étude académique de Chen Ya-mei (2016), analysant par méthode empirique l'impact de l'usage de Facebook sur la participation au mouvement des tournesols, révélant un effet significatif des liens faibles.
 
-[^9]: [2024 Taiwan Elections: Foreign Influence Observation](https://medium.com/doublethinklab/2024-taiwan-elections-foreign-influence-observation-preliminary-statement-caeeccb5b88e) — Doublethink Lab, analyzing external force information intervention patterns during Taiwan elections, indirectly presenting the double-edged role of Facebook in political mobilization.
+[^9]: [Élections taïwanaises 2024 : Observation de l'influence étrangère](https://medium.com/doublethinklab/2024-taiwan-elections-foreign-influence-observation-preliminary-statement-caeeccb5b88e) — Doublethink Lab, analyse les modes d'intervention informationnelle des forces extérieures durant les élections taïwanaises, illustrant indirectement le double rôle de Facebook dans la mobilisation politique.
 
-[^10]: [DIBT Expedition: A War Without Gunsmoke](https://foreignpolicy.com/2016/01/20/china-taiwan-tsai-ing-wen-facebook-troll-election/) — Foreign Policy, 2016 report on the Chinese netizens' "DIBT Expedition" triggered by the Zhou Ziyu flag incident, detailing the cross-border cyber conflict of mass commenting on Taiwan fan pages.
+[^10]: [L'offensive de DiBa : une guerre sans fumée](https://foreignpolicy.com/2016/01/20/china-taiwan-tsai-ing-wen-facebook-troll-election/) — Foreign Policy, rapport de 2016 sur l'incident du drapeau de Tzou Tzu-yu et l'offensive des internautes chinois via « DiBa », détaillant le conflit numérique transnational par le spam de commentaires.
 
-[^11]: [Cross-Strait Forces Buying Taiwan Fan Pages? Investigation Bureau: Continuously Monitoring](https://www.cna.com.tw/news/aipl/201909250239.aspx) — CNA, 2019 report where the Investigation Bureau publicly stated it is continuously tracking cases of cross-strait forces buying Taiwan fan pages for political propaganda.
+[^11]: [Les forces de l'autre rive achètent-elles des pages de fans taïwanaises ? L'enquête continue](https://www.cna.com.tw/news/aipl/201909250239.aspx) — Central News Agency, rapport de 2019 indiquant que l'Investigation Bureau surveille activement les cas d'achat de pages taïwanaises pour la propagande.
 
-[^12]: [Uncovering the Money and China Factor Behind "Mission"](https://www.twreporter.org/a/information-warfare-business-content-farm-mission-english) — The Reporter English Edition, in-depth investigation into the funding and China factors behind Taiwan content farm "MiXun," revealing the structural vulnerability caused by media dependence on Facebook traffic.
+[^12]: [Uncovering the Money and China Factor Behind "Mission"](https://www.twreporter.org/a/information-warfare-business-content-farm-mission-english) — The Reporter (version anglaise), enquête approfondie sur les financements et le facteur chinois derrière la ferme à contenus _Mishun_, révélant la vulnérabilité structurelle liée à la dépendance au trafic Facebook.
 
-[^13]: [The Mystery of "Red FB" and "Green FB": Taiwan Social Media Political Censorship Controversies](https://www.voacantonese.com/a/taiwan-facebook-censorship-20200115/5247146.html) — VOA Cantonese, 2020 report on the long-standing controversy among Taiwan users regarding biased censorship standards for political discourse on Facebook.
+[^13]: ["Facebook rouge" et "Facebook vert" : controverses sur la modération politique des réseaux sociaux à Taïwan](https://www.voacantonese.com/a/taiwan-facebook-censorship-20200115/5247146.html) — Voice of America, rapport de 2020 sur les controverses persistantes concernant les standards de modération de Facebook à Taïwan.
 
-[^14]: [Account Suspended Without Warning! Creators Angry at Meta for "Digital Assets Vanishing Overnight"](https://www.ettoday.net/news/20230504/2491907.htm) — ETtoday News Cloud, 2023 event where a creator's account was suspended without warning, recording the actual case of years of accumulated community assets disappearing instantly.
+[^14]: [Compte suspendu sans préavis ! Les créateurs accusent Meta d'avoir réduit leurs actifs numériques à néant](https://www.ettoday.net/news/20230504/2491907.htm) — ETtoday, rapport 2023 sur la suspension soudaine de comptes de créateurs, illustrant la perte instantanée d'actifs sociaux accumulés.
 
-[^15]: [Meta Censorship Controversy Sparks Taiwan "FB Refugee Wave"!](https://tw.news.yahoo.com/meta%E5%AF%A9%E6%9F%A5%E7%88%AD%E8%AD%B0%E6%8E%80%E5%8F%B0%E7%81%A3-fb%E9%9B%A3%E6%B0%91%E6%BD%AE-2%E8%90%AC%E4%BA%BA%E6%B9%A7%E9%80%B2mastodon%E5%8F%A6%E8%B5%B7%E7%88%90%E7%81%B6-%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0%E6%9C%89%E4%BB%80%E9%BA%BC%E4%BE%86%E6%AD%B7-103643979.html) — Yahoo News, April 18, 2025 report, recording the origins and impact scale of Meta's Taiwan speech censorship controversy.
+[^15]: [La controverse de modération de Meta déclenche une "vague de réfugiés FB" à Taïwan !](https://tw.news.yahoo.com/meta%E5%AF%A9%E6%9F%A5%E7%88%AD%E8%AD%B0%E6%8E%80%E5%8F%B0%E7%81%A3-fb%E9%9B%A3%E6%B0%91%E6%BD%AE-2%E8%90%AC%E4%BA%BA%E6%B9%A7%E9%80%B2mastodon%E5%8F%A6%E8%B5%B7%E7%88%90%E7%81%B6-%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0%E6%9C%89%E4%BB%80%E9%BA%BC%E4%BE%86%E6%AD%B7-103643979.html) — Yahoo News, rapport du 18 avril 2025, retraçant l'ampleur et les détails de la crise de modération de Meta à Taïwan.
 
-[^16]: [Meta denies censoring Taiwan content; backlash suggests ...](https://www.digitimes.com/news/a20250502PD223/meta-taiwan-government-data-facebook.html) — DIGITIMES, reporting that the 2025 Facebook censorship controversy triggered the "FB Refugee Wave" where about 20,000 Taiwan users migrated to decentralized platforms like Mastodon.
+[^16]: [Meta denies censoring Taiwan content; backlash suggests ...](https://www.digitimes.com/news/a20250502PD223/meta-taiwan-government-data-facebook.html) — DIGITIMES, rapporte que la controverse de modération de 2025 a poussé environ 20 000 utilisateurs taïwanais vers des plateformes décentralisées comme Mastodon.
 
-[^17]: [Meta rejects claim it had a censorship deal with Beijing](https://www.taipeitimes.com/News/taiwan/archives/2025/05/04/2003836297) — Taipei Times, May 4, 2025, Meta's official statement denying acceptance of Beijing's censorship requirements and denial of sharing Taiwan user data, explaining that censorship is executed by the Taiwan-based Traditional Chinese team according to global guidelines.
+[^17]: [Meta rejects claim it had a censorship deal with Beijing](https://www.taipeitimes.com/News/taiwan/archives/2025/05/04/2003836297) — Taipei Times, le 4 mai 2025, déclaration officielle de Meta niant tout accord de modération avec Pékin ou partage de données d'utilisateurs taïwanais.
 
-[^18]: [Facebook Sweeps Content Farms, Over Hundred Fan Pages Taken Down](https://www.cna.com.tw/news/ait/201912170242.aspx) — CNA, December 2019 report on Facebook centrally taking down over a hundred Taiwan content farm fan pages focused on information warfare.
+[^18]: [Facebook lance une grande purge des fermes à contenus, plus de cent pages supprimées](https://www.cna.com.tw/news/ait/201912170242.aspx) — Central News Agency, rapport de décembre 2019 sur la suppression massive de pages de fans taïwanaises spécialisées dans la guerre informationnelle.
 
-[^19]: [Facebook Holds Hackathon in Taiwan, Collaborates to Develop Fake News Fighting Mechanisms](https://www.cna.com.tw/news/ait/201911160170.aspx) — CNA, November 2019 report on Facebook holding a hackathon in Taipei themed around fighting fake news, inviting students and industry to jointly develop identification mechanisms.
+[^19]: [Facebook organise un hackathon à Taïwan pour développer des mécanismes de lutte contre les fake news](https://www.cna.com.tw/news/ait/201911160170.aspx) — Central News Agency, rapport de novembre 2019 sur le hackathon organisé à Taipei invitant étudiants et professionnels à identifier la désinformation.
 
-[^20]: [Facebook Market Share Continues to Decline Since 2022](https://www.facebook.com/photo.php?fbid=954008873424688) — TWNIC Taiwan Internet Report Social Chart, recording the three-year trend of Facebook's market share declining from 61.22% in 2022 to 50.28% in 2024.
+[^20]: [La part de marché de Facebook décline continuellement depuis 2022](https://www.facebook.com/photo.php?fbid=954008873424688) — Graphique communautaire du rapport Internet de TWNIC, retraçant la baisse de la part de marché de 61,22 % en 2022 à 50,28 % en 2024.
 
-[^21]: [Are You "Crispy"? Elections Spark New Threads Hype](https://dailyview.tw/popular/detail/25100) — Net Temperature Meter, recording the explosive growth of Threads in Taiwan and the adoption trends among the younger generation after the 2024 Taiwan election.
+[^21]: [Êtes-vous "Cui" ? L'élection booste l'engouement pour Threads](https://dailyview.tw/popular/detail/25100) — Net Temperature, documentant la croissance explosive de Threads à Taïwan et son adoption par les jeunes générations après les élections de 2024.
 
-[^22]: [Threads is Taiwan People's Threads, Taiwan Traffic Accounts for 21.08% of Global First](https://www.hkepc.com/25548/Threads_%E6%98%AF%E5%8F%B0%E7%90%86%E7%9A%84_Threads_%E5%8F%B0%E7%90%86%E6%B5%81%E9%87%8F%E4%BD%94_21.08%25___%E5%85%A8%E7%90%86%E7%AC%AC%E4%B8%80) — HKEPC, reporting data that Taiwan users contribute 21.08% of Threads' global total traffic, making it the market with the highest participation globally.
+[^22]: [Threads est le "Threads des Taïwanais", avec 21,08 % du trafic mondial](https://www.hkepc.com/25548/Threads_%E6%98%AF%E5%8F%B0%E7%90%86%E7%9A%84_Threads_%E5%8F%B0%E7%90%86%E6%B5%81%E9%87%8F%E4%BD%94_21.08%25___%E5%85%A8%E7%90%86%E7%AC%AC%E4%B8%80) — HKEPC, rapport sur la contribution des utilisateurs taïwanais représentant 21,08 % du trafic global de Threads, faisant de ce marché l'un des plus engagés au monde.

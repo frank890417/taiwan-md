@@ -1,13 +1,14 @@
 ---
-title: 'Cheng Li-wen'
-description: "From the student activist who went on a hunger strike for Taiwan independence at the NTU gate in 1988 to the KMT chairperson who told Xi Jinping in Beijing in 2026 that 'compatriots across the strait are all Chinese.' What happened along this trajectory?"
+title: 'Cheng Li-wun'
+description: "De l'étudiante militante en grève de la faim pour l'indépendance à l'entrée de l'Université de Taïwan en 1988, à la présidente du KMT disant à Xi Jinping en 2026 que « les compatriotes des deux rives sont tous Chinois ». Quel est son parcours ?"
 date: 2026-04-11
+category: 'People'
 tags:
   [
-    'political_figure',
+    'Personnalités politiques',
     'Kuomintang',
-    'cross-strait_relations',
-    'student_movement_generation',
+    'relations inter-détroit',
+    'génération des mouvements étudiants',
     '2026',
   ]
 subcategory: '政治人物'
@@ -23,175 +24,174 @@ sporeLinks:
     date: '2026-04-11'
     url: 'https://www.threads.com/@taiwandotmd/post/DW_l-6Yk_kg'
 translatedFrom: 'People/鄭麗文.md'
-sourceCommitSha: ''
+sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
-translatedAt: 2026-06-10T16:45:50Z
 sourceBodyHash: 'sha256:119c3d104b24e9dd'
-category: 'People'
+translatedAt: '2026-10-11T01:05:45+08:00'
 ---
 
-# Cheng Li-wen
+# Cheng Li-wun
 
-## A Hunger Strike at the NTU Gate in 1988
+## 1988 : Une grève de la faim devant l'Université de Taïwan
 
-In the winter of 1988, a 19-year-old female university student was on a hunger strike at the gate of National Taiwan University.
+En l'hiver 1988, une étudiante de 19 ans était en grève de la faim devant l'entrée de l'Université nationale de Taïwan (NTU).
 
-Her name was Cheng Li-wen. Her father, from Yunlin, was a veteran who had migrated from Yunnan to Taiwan, and her mother was a local from Yunlin. [^1] Born in Jingzhong Village No. 3 in Tainan, she grew up in a family mixing second-generation mainlanders and locals. In her freshman year, she joined the newly un-banned Democratic Progressive Party (DPP), calling herself a "fundamentalist" supporter of Taiwan independence. [^2]
+Elle s'appelait Cheng Li-wun. Originaire de Yunlin, son père était un vétéran de l'armée de la RDC arrivé de Yunnan, et sa mère était originaire de Yunlin. [^1] Issue du village de Jingzhong à Tainan, elle a grandi dans une famille issue d'un mélange entre la deuxième génération des « provinciaux » (venus de Chine continentale) et les locaux. Dès sa première année, elle a rejoint le Parti démocratique progressiste (DPP), fraîchement légalisé après la levée de la loi martiale, se revendiquant partisane de l'indépendance de Taïwan, de tendance « fondamentaliste ». [^2]
 
-Her hunger strike was for a man named Huang Hua. Huang Hua was prosecuted by the government for "treason" due to his advocacy of Taiwan independence. Cheng Li-wen set up a station at the NTU gate, refusing food to demand the authorities release Huang Hua. At that time, she believed she was doing something pure—resisting authoritarianism and striving for independence.
+Sa grève de la faim concernait une personne nommée Huang Hua. Ce dernier avait été poursuivi par le gouvernement pour « rébellion » en raison de ses positions pro-indépendance. Cheng Li-wun avait installé un point de protestation devant l'université, refusant de s'alimenter pour exiger la libération de Huang Hua. À l'époque, elle pensait mener une lutte pure pour résister à l'autoritarisme et conquérir l'indépendance.
 
-She later recalled in an interview: She waited for days, but the people who came to persuade her to withdraw were not KMT agents, but members of the DPP. The DPP sent people to tell her: "Huang Hua is a troublesome figure; don't bother with him. Your hunger strike is making our party look awkward." [^3]
+Elle s'est souvenue plus tard dans une interview : après quelques jours d'attente, ce ne sont pas des agents du Kuomintang (KMT) qui sont venus la convaincre de cesser sa protestation, mais le DPP. Des représentants du DPP lui avaient dit : « Huang Hua est un personnage problématique, ne t'en occupe pas. Ta grève met notre parti dans une position embarrassante. » [^3]
 
-This was the first time she realized that the "Taiwan independence" she envisioned and the "Taiwan independence" the DPP was actually practicing might not be the same thing at all. Thirty-seven years later, on April 10, 2026, she walked into the Fujian Hall of the Great Hall of the People in Beijing and told Xi Jinping: "Compatriots across the strait are all Chinese."
+Ce fut sa première prise de conscience que l'« indépendance de Taïwan » telle qu'elle l'imaginait et celle pratiquée par le DPP n'étaient peut-être pas du tout la même chose. Trente-sept ans plus tard, le 10 avril 2026, elle entre dans la salle Fujian du Grand Palais du Peuple à Pékin et déclare à Xi Jinping : « Les compatriotes des deux rives sont tous Chinois. »
 
-What happened between that female student on a hunger strike and this KMT chairperson speaking in Beijing?
+Que s'est-il passé entre l'étudiante en grève de la faim et la présidente du KMT s'exprimant à Pékin ?
 
-> **30-Second Overview**: Cheng Li-wen, born in 1969 in a Veterans Affairs family in Tainan, joined the DPP in 1988 and went on a hunger strike at the NTU gate for the Huang Hua Taiwan independence case. She was elected to the National Convention in 1996. In 2002, she left the DPP due to the Wu Rui-ren incident. In 2005, she was invited by Lien Chan to join the KMT. Serving as a legislator and spokesperson for the Executive Yuan three times starting in 2008, she hosted the political talk show _Li-wen's Straight Talk_ on TVBS from 2014 to 2015. In October 2025, she was elected KMT Chairperson, becoming the second female directly elected leader in the party's history; her election slogan was "I am Chinese." After taking office, she faced controversy over the White Terror Autumn Memorial, which commemorated espionage cases. On April 10, 2026, she represented the KMT in meeting Xi Jinping in Beijing, becoming the first leader of a major political party in the Republic of China to meet with the General Secretary of the Communist Party of China in ten years.
+> **Résumé en 30 secondes** : Cheng Li-wun, née en 1969 dans une famille de vétérans à Tainan, rejoint le DPP en 1988 et fait une grève de la faim devant l'université pour l'affaire Huang Hua. Élue représentante du Congrès national en 1996, elle quitte le DPP en 2002 suite à l'affaire Wu Rui-ren, avant d'être recrutée par le KMT en 2005 sous l'égide de Lien Chan. Depuis 2008, elle a été élue trois fois députée et a servi comme porte-parole du Conseil exécutif. Entre 2014 et 2015, elle anime l'émission politique « Li-wun's Strait Talk » sur TVBS. Élue présidente du KMT en octobre 2025, elle devient la deuxième femme à diriger le parti par voie électorale directe ; son slogan de campagne était « Je suis Chinoise ». Après sa prise de fonction, elle est au cœur d'une controverse liée à une cérémonie commémorative sur la Terreur blanche. Le 10 avril 2026, elle représente le KMT lors d'une rencontre avec Xi Jinping à Pékin, devenant le premier dirigeant d'un parti politique majeur de la RDC à rencontrer le secrétaire général du PCC en dix ans.
 
-## How a Top Student Learned International Politics
+## Comment une étudiante brillante a appris la politique internationale
 
-Cheng Li-wen is not just a student activist with a hunger strike story.
+Cheng Li-wun n'est pas seulement l'étudiante militante liée à une histoire de grève de la faim.
 
-In 1993, she obtained a Master of Laws (LL.M.) from the Beasley School of Law at Temple University in the United States, majoring in International Law. [^4] Then, in 2000, she obtained a Master of Science (MSc) in International Relations from the University of Cambridge, at which time she was also a doctoral candidate in International Relations. [^5] These two degrees played a subtle role throughout her later career—when she later discussed terms like "KMT-CCP Platform," "peace framework," and "institutional arrangements for preventing war," she was someone who knew what these terms meant in international political science textbooks.
+En 1993, elle obtient un Master en droit (LL.M.) de la faculté de droit Beasley de l'Université Temple aux États-Unis, avec une spécialisation en droit international. [^4] Puis, en 2000, elle obtient un Master (MSc) en relations internationales à l'Université de Cambridge, alors qu'elle était candidate au doctorat en relations internationales. [^5] Ces deux diplômes ont joué un rôle subtil tout au long de sa carrière : lorsqu'elle évoque plus tard des termes tels que « plateforme KMT-PCC », « cadre de paix » ou « arrangements institutionnels pour prévenir la guerre », elle est une personne qui sait exactement ce que ces concepts signifient dans les manuels de politique internationale.
 
-From 1996 to 2000, Cheng Li-wen served as a member of the National Convention representing Taipei City for four years under the DPP banner. Simultaneously, she served as Deputy Director of the Youth Development Department at the DPP Central Committee and as Deputy Convener of the National Convention Party Group. This was a typical trajectory for the first generation of student movement activists after the lifting of martial law to enter the political system.
+De 1996 à 2000, Cheng Li-wun a représenté la ville de Taipei en tant que représentante du Congrès national sous l'étiquette du DPP pendant quatre ans. Parallèlement, elle a occupé les fonctions de directrice adjointe du département du développement de la jeunesse au siège du DPP et de vice-présidente du groupe parlementaire du Congrès national. C'est le parcours typique de la première génération des mouvements étudiants post-loi martiale entrant dans le système.
 
-In 2002, a sexual harassment case involving Wu Rui-ren occurred within the DPP. Dissatisfied with the party central committee's handling of the matter, Cheng Li-wen had her party rights suspended and subsequently resigned from her DPP positions. [^6] This was the formal point in time she left the green camp, but her later explanation was more straightforward: "I realized that Taiwan independence had long become a joke, a scam." [^7]
+En 2002, suite à l'affaire de harcèlement sexuel impliquant Wu Rui-ren au sein du DPP, Cheng Li-wun, mécontente de la gestion du parti, démissionne de ses fonctions après une suspension de ses droits de membre. [^6] C'est le point de rupture officiel avec le camp vert, mais son explication ultérieure est plus directe : « J'ai réalisé que l'indépendance de Taïwan n'était déjà qu'une plaisanterie, un leurre. » [^7]
 
-In 2005, she officially joined the KMT upon Lien Chan's invitation. A woman in her thirties, with a Master of Laws degree, trained in Cambridge International Relations, and who had once gone on a hunger strike for Taiwan independence—such a resume was an exception in the KMT of 2005. Lien Chan wanted that very exception.
+En 2005, elle accepte l'invitation de Lien Chan et rejoint officiellement le KMT. Une femme d'une trentaine d'années, titulaire d'un Master en droit, formée aux relations internationales à Cambridge et ayant fait une grève de la faim pour l'indépendance... un tel CV était une exception au sein du KMT de 2005. Et c'est précisément cette exception que Lien Chan recherchait.
 
-## The Warrior, Controversies, and a TV Show
+## Combattante, controverses et émission de télévision
 
-After joining the KMT, Cheng Li-wen first served as a spokesperson, then as a spokesperson for the Executive Yuan, and entered the Legislative Yuan as a non-partisan legislator in 2008.
+Après avoir rejoint le KMT, Cheng Li-wun a d'abord été porte-parole, puis porte-parole du Conseil exécutif, avant d'entrer au Yuan législatif en 2008 comme députée plénipotentiaire.
 
-Within the party, she earned the title "Warrior" (Zhan Jiang). The reason was her sharp rhetoric, her skill in appearing on political talk shows, and her willingness not to shy away from the camera. During the Ma Ying-jeou era, the blue camp entered an atmosphere of "being pressed and beaten"; Cheng Li-wen was one of the few who could confront them head-on. CNA described her at the time of her election as Chairperson: "Breaking through with a 'Warrior' image." [^8]
+Au sein du parti, elle a reçu le surnom de « combattante » (_zhànjiàng_). La raison : ses prises de parole tranchantes, son habileté dans les émissions de débat politique et sa capacité à ne jamais fuir l'objectif des caméras. À l'ère Ma Ying-jeou, le camp bleu vivait une période de repli ; Cheng Li-wun était l'une des rares capables d'affronter directement l'adversaire. L'agence Centrale de Presse (CNA) a décrit son élection à la présidence du parti comme un « percée grâce à son image de combattante ». [^8]
 
-But being a "Warrior" came with a cost. In 2005, while serving as Director of the KMT's Cultural and Propaganda Committee, she named and criticized DPP Taichung Mayor candidate Lin Chia-lung as a "corrupt mob" in an election advertisement. Lin sued her under the Election and Recall Act. The first instance sentenced her to three months in prison and deprived her of public rights for one year, later reduced to one month in detention suspended. [^9] Another controversy involved her violating KMT regulations on party positions by hosting a radio show for more than the four-hour weekly limit. These two controversies were not fatal, but they left a common label on her political career: **"Very capable, but often crossing the line."**
+Mais ce rôle de combattante a un prix. En 2005, alors qu'elle présidait la commission de communication et de propagande du KMT, elle a critiqué publiquement dans une publicité électorale le candidat Lin Chia-lung à la mairie de Taichung, le qualifiant de « voyou corrompu ». Lin l'a poursuivie en justice sur la base de la loi électorale ; elle fut condamnée en première instance à trois mois de prison et un an d'inéligibilité, peine réduite par la suite à un mois de détention avec sursis. [^9] Une autre controverse concernait sa violation des règles du parti, ses heures d'animation radio hebdomadaires dépassant le plafond autorisé. Ces deux incidents n'ont pas été fatals, mais ils ont laissé une étiquette commune sur sa carrière politique : **« Très combative, mais dépasse souvent les limites. »**
 
-From 2014 to 2015, she hosted the TVBS political talk show _Li-wen's Straight Talk_. [^10] This show solidified her "political talk style": direct, sharp, hitting the nail on the head, often using a single sentence to corner her opponent. This style was directly related to her path to becoming KMT Chairperson—she did not rely on organizations or local factions, but on "being able to speak."
+Entre 2014 et 2015, elle a animé l'émission de débat politique « Li-wun's Strait Talk » sur TVBS. [^10] Cette émission a cristallisé son style : direct, incisif, allant droit au but, utilisant souvent une seule phrase pour acculer ses adversaires. Ce style est directement lié à son ascension vers la présidence du KMT : elle ne s'est pas appuyée sur l'organisation ou les factions locales, mais sur son « talent oratoire ».
 
-On October 18, 2025, the results of the 12th KMT Chairperson election were announced. Cheng Li-wen defeated former Taipei Mayor Hung Hsiu-chu and current legislator Luo Chih-chiang with approximately 50% of the vote, becoming the second female directly elected chairperson in KMT history, the first being Hung Hsiu-chu. [^11]
+Le 18 octobre 2025, les résultats de l'élection de la 12e présidente du KMT sont tombés. Avec environ 50 % des voix, Cheng Li-wun a battu l'ancien maire de Taipei Hao Lung-bin et le député actuel Lo Chih-chiang, devenant la deuxième femme à diriger le parti par voie directe, après Hung Hsiu-chu. [^11]
 
-The key slogan of the election campaign was only six characters: **"I am Chinese."**
+Le slogan clé de la campagne ne comptait que six caractères : **« Je suis Chinoise. »**
 
-## From "Hunger Strike for Taiwan Independence" to "I am Chinese"
+## De la « grève pour l'indépendance » à « Je suis Chinoise »
 
-This is the most difficult part of Cheng Li-wen's persona to understand.
+C'est l'aspect le plus difficile à comprendre de la personnalité de Cheng Li-wun.
 
-Her own version is as follows: In her youth, she believed Taiwan independence was a just path, but after entering the system, she found that the DPP's definition of "Taiwan independence" was fundamentally self-contradictory—claiming to seek independence while never truly pushing for it within the system. She referred to this gap as "Taiwan independence is a scam," [^12] and even more intensely called it "Taiwan independence fascism." [^13] She believed her political stance had not changed; what changed was her judgment of "who is telling the truth."
+Sa propre version est la suivante : jeune, elle pensait que l'indépendance était une voie juste, mais après être entrée dans le système, elle a découvert que la définition du DPP concernant l'indépendance était contradictoire — d'un côté prônant l'indépendance, de l'autre ne l'encourageant jamais réellement sur le plan institutionnel. Elle qualifie cet écart de « l'indépendance comme une escroquerie », [^12] allant même jusqu'à parler de « fascisme de l'indépendance ». [^13] Selon elle, sa position politique n'a pas changé ; c'est son jugement sur « qui dit la vérité » qui a évolué.
 
-The opposing version is this: Cheng Li-wen, once an idealistic student activist, was systematically "transformed" by the old KMT system under Lien Chan into a combatant friendly to Beijing. Each of her "anti-Taiwan independence" declarations was a step to climb to the next position. Her ability to sit in the Fujian Hall of the Great Hall of the People in Beijing in 2026 to talk with Xi Jinping is the ultimate result of this transformation route.
+La version de ses opposants est différente : Cheng Li-wun, d'étudiante idéaliste, aurait été systématiquement « remodelée » par l'ancien système du KMT (celui de la génération de Lien Chan) pour devenir une combattante amicale envers Pékin. Chaque déclaration « anti-indépendance » ne serait qu'un moyen de gravir les échelons. Sa présence en 2026 dans la salle Fujian du Grand Palais du Peuple pour discuter avec Xi Jinping serait l'aboutissement de ce remodelage.
 
-Both versions have evidence and blind spots.
+Ces deux versions comportent des preuves, mais aussi des angles morts.
 
-The blind spot of the first version is: If the judgment that "Taiwan independence is a scam" comes from real experience, then why did this judgment happen to lead to "joining another party that just happens to welcome this judgment"? A pure epistemological shift would not coincide so perfectly with a career path.
+L'angle mort de la première version est le suivant : si son jugement sur « l'escroquerie de l'indépendance » provient d'une expérience réelle, pourquoi ce constat l'a-t-il menée précisément vers « un autre parti qui accueille justement ce jugement » ? Un simple changement épistémologique ne coïnciderait pas aussi parfaitement avec une trajectoire professionnelle.
 
-The blind spot of the second version is: After entering the KMT, Cheng Li-wen was indeed long part of the more radical faction within the blue camp, even viewed by old blues as "disobedient." Her route was not a copy of the standard KMT route, but an independent sub-route. Saying she is "any proxy the KMT sends" is inaccurate—she indeed has her own political judgment.
+L'angle mort de la seconde version est le suivant : après avoir rejoint le KMT, Cheng Li-wun a effectivement longtemps appartenu à une faction plus radicale au sein du camp bleu, parfois perçue comme « désobéissante » par les anciens. Sa ligne n'est pas une simple copie de la ligne standard du KMT, mais une sous-ligne indépendante. Dire qu'elle n'est qu'un « substitut interchangeable du KMT » est inexact — elle possède ses propres jugements politiques.
 
-The truth may lie between the two: A person with academic training, who can debate, and who wants influence, could not find her place in the green camp in Taiwan's political field in the 2000s, so she moved to the blue camp—which just happened to need someone "who could speak, had academic credentials, and had a student movement background" to change its image at that time. The two sides clicked. This was not betrayal, nor a pure shift in belief, but a political worker choosing a path that was most beneficial to herself while still being self-consistent.
+La vérité se situe peut-être entre les deux : une personne dotée d'une formation académique, capable de débattre et cherchant l'influence, ne trouvant plus sa place dans le camp vert des années 2000, s'est tournée vers le camp bleu — un camp qui, à ce moment précis, avait besoin d'une personnalité « capable de parler, instruite et issue du mouvement étudiant » pour changer son image. Les deux parties se sont trouvées mutuellement utiles. Ce n'est ni une trahison, ni un pur changement de conviction, mais le choix d'une actrice politique pour une voie qui lui est la plus favorable tout en étant cohérente avec elle-même.
 
-But the cost of this choice was: **She had to keep moving toward Beijing for this choice to lose its internal logic.** From "Taiwan independence is a scam" to "I am Chinese" to "Compatriots across the strait are all Chinese"—she could not stop in the middle.
+Mais le prix de ce choix est le suivant : **elle doit marcher inexorablement vers Pékin pour ne pas perdre la logique interne de sa décision.** De « l'indépendance est une escroquerie » à « Je suis Chinoise », puis à « les compatriotes des deux rives sont tous Chinois » — elle ne peut pas s'arrêter en chemin.
 
-## The White Terror Autumn Memorial and Wu Shi's Photo
+## La commémoration de la Terreur blanche et la photo de Wu Shih
 
-If there is one event that concretizes the dynamics above, it is the White Terror Autumn Memorial in November 2025.
+Si un événement peut illustrer cette dynamique, c'est la cérémonie commémorative sur la Terreur blanche en novembre 2025.
 
-Less than three weeks after becoming KMT Chairperson, Cheng Li-wen attended the "1950s White Terror Autumn Memorial Commemoration Ceremony" hosted by the "Mutual Aid Association for Political Victims in Taiwan." On the list of commemorated figures was a name: **Wu Shi**. [^14]
+Moins de trois semaines après son élection à la présidence du KMT, Cheng Li-wun a assisté à la « Grande cérémonie de commémoration et de réconfort de l'automne pour les victimes de la Terreur blanche des années 1950 », organisée par l'Association d'entraide des victimes politiques de la région de Taïwan. Dans la liste des personnes commémorées figurait un nom : **Wu Shih**. [^14]
 
-Who is Wu Shi? He was the former Deputy Chief of Staff of the Republic of China Ministry of National Defense, executed at the Machangding firing range in Taipei in 1950. His charge was: **Communist Spy**. He was indeed a high-level intelligence agent for the CCP潜伏 (hidden) in Taiwan, codenamed "Secret Agent No. 1," providing intelligence to the CCP around the time of the KMT's retreat to Taiwan in 1949. Historically recognized as a CCP spy—even the CCP itself later publicly acknowledged him and listed him as a "Revolutionary Martyr."
+Qui était Wu Shih ? Il fut sous-chef du personnel du ministère de la Défense de la RDC, exécuté en 1950 au lieu d'exécution de Mabangding à Taipei. Son crime : **espionnage pour les rebelles**. Il était effectivement un agent de renseignement de haut rang infiltré par le PCC à Taïwan, codé « Envoyé secret n°1 », fournissant des informations au PCC avant et après le retrait des troupes nationales sur l'île en 1949. L'histoire reconnaît son rôle d'espion — le PCC lui-même a plus tard reconnu publiquement son statut et l'a classé parmi les « martyrs de la révolution ».
 
-The autumn memorial Cheng Li-wen attended placed Wu Shi on the same commemorative list as other "White Terror victims," and a Chinese red song, _Song of Rest_, was played on site. The Ministry of Foreign Affairs issued a statement with very heavy wording: This was "whitewashing criminals who betrayed the country and sold out their comrades into a tragedy of mutual slaughter between KMT and CCP and a historical tragedy," representing "the most serious harm to national dignity." [^15]
+La cérémonie à laquelle Cheng Li-wun a assisté a placé Wu Shih sur la même liste que d'autres « victimes de la Terreur blanche », et une chanson rouge chinoise, _Anxi Ge_ (Chanson du repos), y a été diffusée. La déclaration ultérieure du Bureau des affaires maritimes et terrestres (MAC) fut très sévère : elle dénonçait le fait de « blanchir un criminel ayant trahi son pays et ses compagnons d'armes en le présentant comme une victime d'une tragédie historique ou d'un conflit fratricide entre le KMT et le PCC », qualifiant l'acte de « grave atteinte à la dignité nationale ». [^15]
 
-Cheng Li-wen's response was divided into two parts. The first part was denial: She said she did not know beforehand that Wu Shi was on the memorial list; she went for "White Terror Commemoration," not to "commemorate a CCP spy." [^16] The second part was an extension: She mentioned that she too had gone on a hunger strike for Huang Hua in her youth, believing that tragedies between the two sides of the strait should be viewed within the same historical narrative—this was a language of "grand historical reconciliation." [^17]
+La réponse de Cheng Li-wun s'est articulée en deux parties. La première était un déni : elle a affirmé qu'elle ignorait la présence de Wu Shih dans la liste et qu'elle assistait à une « commémoration de la Terreur blanche » et non à un hommage à un espion du PCC. [^16] La seconde partie consistait en une extension de son propos : elle a mentionné sa propre grève de la faim pour Huang Hua dans sa jeunesse, estimant que les tragédies entre les deux rives devraient être vues au sein d'un même récit historique — un langage de « réconciliation historique globale ». [^17]
 
-But the second part was exactly the core of the controversy. When a "national security narrative" places **a traitorous intelligence agent** and **ordinary citizens wrongfully imprisoned by the government** in the same memorial ritual, history is rewritten. From the suppression of its own people by an authoritarian state, it becomes a "tragedy of civil war among Chinese people." This rewriting is no small matter—it slides the "victims of the Republic of China" from the position of "Taiwanese" to the position of "Chinese."
+Mais cette seconde partie est précisément le cœur de la controverse. Lorsqu'un « discours de sécurité nationale » place un **agent de renseignement traître** et des **citoyens ordinaires victimes d'injustices gouvernementales** dans le même rituel commémoratif, l'histoire est réécrite. La répression d'un État autoritaire sur sa propre population devient une « tragédie de guerre civile entre Chinois ». Ce réécriture n'est pas anodine : elle déplace la position des « victimes de la République de Chine » du statut de « Taïwanais » vers celui de « Chinois ».
 
-The core of the MOFA's criticism was not "You shouldn't commemorate the White Terror," but "You reshaped the White Terror from a local victim narrative into a Chinese civil war narrative." This is a shift in identity.
+Le cœur de la critique du MAC n'était pas « vous ne devriez pas commémorer la Terreur blanche », mais plutôt « vous transformez le récit des victimes locales de la Terreur blanche en un récit de guerre civile chinoise ». C'est un basculement d'identité.
 
-This event and the phrase "Compatriots across the strait are all Chinese" in the Cheng-Xi meeting five months later are the same narrative appearing in two different contexts.
+Cet événement et la phrase prononcée cinq mois plus tard lors de la rencontre Cheng-Xi — « les compatriotes des deux rives sont tous Chinois » — sont deux occurrences du même récit dans des contextes différents.
 
-## April 10, 2026: The End of the Trajectory, or the Midpoint
+## 10 avril 2026 : Fin de trajectoire ou point médian ?
 
-On the afternoon of April 10, 2026, Cheng Li-wen walked into the Fujian Hall of the Great Hall of the People in Beijing and met with Xi Jinping for about ten minutes. [^18] She proposed five points, the most notable of which was "promoting the institutionalization of peaceful cross-strait development, gradually achieving a 'peace framework'." Xi Jinping's response was "Compatriots across the strait are all Chinese, one family." [^19]
+L'après-midi du 10 avril 2026, Cheng Li-wun est entrée dans la salle Fujian du Grand Palais du Peuple à Pékin pour un entretien d'environ dix minutes avec Xi Jinping. [^18] Elle a présenté cinq propositions, dont la plus notable était de « promouvoir l'institutionnalisation du développement pacifique des relations inter-détroit afin d'atteindre progressivement un « cadre de paix » ». La réponse de Xi Jinping fut : « Les compatriotes des deux rives sont tous Chinois, une seule et même famille. » [^19]
 
-This meeting was called by herself a "Peace Journey." According to NPR's analysis, her strategy was to use Taiwan society's uncertainty regarding the Trump administration to build a "hedging, centrist" cross-strait positioning for the KMT. [^20] Atlantic Council researcher Song Wendi pointed out that Cheng Li-wen's talk of "institutional arrangements for preventing war" actually meant "slowing down national defense construction and reducing US arms purchases" in policy implications.
+Elle a elle-même qualifié cette rencontre de « voyage pour la paix ». Selon l'analyse de NPR, sa stratégie consiste à utiliser l'incertitude de la société taïwanaise face au gouvernement Trump pour construire, pour le KMT, un positionnement inter-détroit de type « refuge et voie médiane ». [^20] Song Wen-ti, chercheur à l'Atlantic Council, a souligné que les « arrangements institutionnels pour prévenir la guerre » évoqués par Cheng Li-wun signifient en réalité, sur le plan politique, un « ralentissement du développement de la défense nationale et une réduction des achats d'armes américaines ».
 
-After the talks, the MOFA summarized her performance with one sentence: "We repeatedly asked Chairperson Cheng to propose the three major demands of the Taiwan people to Xi Jinping—recognize the existence of the Republic of China, respect the will of the Taiwan people, and stop military aircraft and ship harassment—but she didn't say any of them." Deputy Minister Liang Wen-jie's tone was weary. [^21]
+À l'issue de l'entretien, le MAC a résumé sa performance par cette phrase : « Nous avons demandé à plusieurs reprises à la présidente Cheng de présenter les trois revendications majeures du peuple taïwanais à Xi Jinping — reconnaître l'existence de la République de Chine, respecter la volonté du peuple taïwanais et cesser les harcèlements militaires aériens et maritimes — mais elle n'en a mentionné aucune. » Le ton du vice-président Liang Wen-chieh était empreint de lassitude. [^21]
 
-This moment has an absurd symmetry.
+Ce moment présente une symétrie absurde.
 
-In 1988 at the NTU gate, Cheng Li-wen went on a hunger strike to force the government to release a Taiwan independence advocate prosecuted for treason. At that time, she considered the "government" to be an authoritarian regime. In 2026 in Beijing's Fujian Hall, she sat opposite Xi Jinping and did not speak for any Taiwanese imprisoned by Beijing—neither for Taiwanese political prisoners within China, nor for Taiwanese writers arrested and brought back to China for trial, nor for those Taiwanese scholars harassed abroad. She was no longer protesting; she was conversing.
+En 1988, devant l'université, la grève de la faim de Cheng Li-wun visait à forcer le gouvernement à libérer un partisan de l'indépendance poursuivi pour rébellion. À l'époque, elle considérait le « gouvernement » comme un système autoritaire. En 2026, dans la salle Fujian à Pékin, assise face à Xi Jinping, elle n'a pris la parole pour aucun Taïwanais détenu par Pékin — ni pour les prisonniers politiques taïwanais en Chine continentale, ni pour les écrivains taïwanais rapatriés pour être jugés en Chine, ni pour les universitaires taïwanais harcelés à l'étranger. Elle ne proteste plus ; elle dialogue.
 
-But this time, the person across the table was a different kind of authoritarian power, one that was greater and paid less attention to procedural justice.
+Seulement cette fois, de l'autre côté de la table se trouve un autre type d'autoritarisme, plus puissant et moins soucieux de la justice procédurale.
 
-## Conclusion: Both Cheng Li-wens Are Real
+## Conclusion : Les deux Cheng Li-wun sont réelles
 
-Some say the Cheng Li-wen who went on a hunger strike in 1988 is dead. The person who nodded to Xi Jinping in Beijing later is a completely different person wearing the same name.
+Certains disent que la Cheng Li-wun qui faisait la grève en 1988 est morte. Que la personne qui a acquiescé devant Xi Jinping à Pékin est une personne totalement différente portant le même nom.
 
-Others say these two Cheng Li-wens are actually the same person—she has always been doing what she believed would most shake the "existing structure." In 1988, challenging the KMT's authoritarianism; in 2026, challenging the DPP's Taiwan independence narrative. The tools changed, but the posture did not.
+D'autres disent que ces deux Cheng Li-wun ne font qu'une — elle n'a cessé de faire ce qu'elle estime être le plus capable de bousculer les « structures existantes ». En 1988, elle défiait l'autoritarisme du KMT ; en 2026, elle défie le discours de l'indépendance du DPP. Les outils ont changé, la posture est restée la même.
 
-Both statements make sense. But perhaps there is a third: The Cheng Li-wen of 1988 and the Cheng Li-wen of 2026 are both real, and they are both products of the same Taiwan society at different stages. An island just emerging from martial law produced a youth who went on a hunger strike for Taiwan independence; an island seeking its footing under the shadow of China's rise produced a middle-aged political figure talking about a "peace framework" in Beijing. It is not that Cheng Li-wen changed, but that the shape of the "Taiwan question" changed.
+Les deux points de vue se tiennent. Mais il existe peut-être une troisième option : la Cheng Li-wun de 1988 et celle de 2026 sont toutes deux réelles, et elles sont toutes deux les produits d'une même société taïwanaise à des étapes différentes. Une île sortant tout juste de la loi martiale a produit une jeunesse faisant la grève pour l'indépendance ; une île cherchant sa place sous l'ombre de l'ascension de la Chine a produit une femme politique d'âge mûr discutant de « cadre de paix » à Pékin. Ce n'est pas Cheng Li-wun qui a changé, c'est la forme de la question taïwanaise qui a changé.
 
-But this statement also has its cruel side: If Cheng Li-wen is a product of the "changing shape of the Taiwan question," then the success of her route means the shape of the Taiwan question has already been changed to the direction she originally protested against.
+Mais cette théorie comporte sa part de cruauté : si Cheng Li-wun est le produit de la « mutation de la forme de la question taïwanaise », alors le succès de sa trajectoire signifie que la forme de la question taïwanaise a été modifiée vers la direction même qu'elle combattait par la grève autrefois.
 
-So the real question is not "Has Cheng Li-wen changed?" but: **Has Taiwan changed?**
+Dès lors, la véritable question n'est pas « Cheng Li-wun a-t-elle changé ? », mais bien : **Taïwan a-t-il changé ?**
 
 ---
 
-**Further Reading**:
+**Lectures complémentaires** :
 
-- [2026 Cheng-Xi Meeting: The Ten Minutes of the First KMT-CCP Leadership Meeting in Ten Years](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — The current endpoint of Cheng Li-wen's personal trajectory, the full scene and aftermath of that meeting
-- [Taiwan Strait Crisis and Development of Cross-Strait Relations](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — The historical structure Cheng Li-wen was in ten years before and ten years after, the invisible forces that led this figure to Beijing
-- [Taiwan Political Environment and Electoral System](/fr/society/taiwan-political-landscape-and-electoral-system) — Why could "I am Chinese" become the KMT Chairperson's election slogan? The party member structure in the electoral system provides the answer
-- [Taiwan Democratic Transition](/fr/history/taiwan-democratization) — The year Cheng Li-wen went on a hunger strike was the first year after lifting martial law; to understand her starting point, one must first understand the youth culture of those five years of democratization
-- [Ko Wen-je](/fr/people/ko-wen-je) — Another cross-boundary political figure from green to blue (or white to blue); their paths have similarities and differences
-- [Hsieh Ying-chun](/fr/people/hsiao-bi-khim) — Another prototype of female political figures on the same 2026 stage, with a completely different path and corresponding view of Taiwan
-- [Han Kuo-yu](/fr/people/han-kuo-yu) — The "Chairperson + Speaker of the Legislative Yuan" dual structure of the KMT in 2025-2026; Cheng Li-wen in the party, Han Kuo-yu in the Yuan
-- [Chao Rong-tai](/fr/people/cho-jung-tai) — The main proponent of the 1.25 trillion military purchase in the Executive Yuan, Cheng Li-wen's opposing position of "Party Version 380 Billion + N"
-- [Liu Hsiu-yan](/fr/people/lu-hsiu-yan) — Cheng Li-wen's opponent in the 2025 KMT Chairperson election, who opened Cheng Li-wen's entry channel by "not running"
-- [Hsu Chiao-hsin](/fr/people/hsu-chiao-hsin) — In the 2026 military purchase controversy, the main proponent of the "800 Billion" version colliding with Cheng Li-wen's "Party Version 380 Billion + N"
-- [Chi Lin-lian](/fr/people/ji-lin-lian) — The Vice Chairperson appointed by Cheng Li-wen in 2026, the party member who pointed out Han Kuo-yu at the Central Executive Committee meeting on 4/29, triggering the event that split the blue camp
+- [Rencontre Cheng-Xi 2026 : les dix minutes de retrouvailles entre dirigeants du KMT et du PCC](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Le point final actuel de la trajectoire de Cheng Li-wun, le déroulement complet de l'entretien et les réactions.
+- [Crise du détroit et évolution des relations inter-détroit](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — Les structures historiques dix ans avant et dix ans après Cheng Li-wun, les forces invisibles qui ont mené ce personnage vers Pékin.
+- [Environnement politique et système électoral de Taïwan](/fr/society/taiwan-political-landscape-and-electoral-system) — Pourquoi « Je suis Chinoise » a pu devenir le slogan de campagne de la présidente du KMT ? La structure des membres du parti dans le système électoral apporte la réponse.
+- [Transition démocratique à Taïwan](/fr/history/taiwan-democratization) — L'année de la grève de la faim de Cheng Li-wun était la première après la levée de la loi martiale ; pour comprendre son point de départ, il faut d'abord comprendre la culture de la jeunesse durant ces cinq années de démocratisation.
+- [Ko Wen-je](/fr/people/ko-wen-je) — Un autre homme politique ayant traversé les camps (du vert au bleu ou du blanc au bleu) ; leurs parcours présentent des similitudes et des différences.
+- [Hsiao Bi-khim](/fr/people/hsiao-bi-khim) — Un autre modèle de femme politique sur la scène de 2026, avec un parcours et une vision de Taïwan totalement différents.
+- [Han Kuo-yu](/fr/people/han-kuo-yu) — La structure duale du KMT en 2025-2026 : Cheng Li-wun au parti, Han Kuo-yu au Yuan législatif.
+- [Cho Jung-tai](/fr/people/cho-jung-tai) — Le principal promoteur des achats militaires de 1,25 billion par le Conseil exécutif, position opposée à la version « 380 milliards + N » de Cheng Li-wun pour le parti.
+  ${}^9$ [Lu Show-yen](/fr/people/lu-hsiu-yan) — L'adversaire de Cheng Li-wun lors de l'élection de la présidence du KMT en 2025, qui a ouvert la voie à Cheng en décidant de ne pas se présenter.
+- [Hsu Chiao-hsin](/fr/people/hsu-chiao-hsin) — Dans la controverse des achats militaires de 2026, la principale promotrice de la version « 800 milliards » s'opposant à la version « 380 milliards + N » de Cheng Li-wun.
+- [Ji Lin-lien](/fr/people/ji-lin-lian) — Le vice-président nommé par Cheng Li-wun en 2026, impliqué dans l'incident de division du camp bleu lors de la réunion du comité central le 29 avril mentionnant Han Kuo-yu.
 
-## References
+## Références
 
-[^1]: [Cheng Li-wen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87) — Wikipedia records that Cheng Li-wen was born on November 12, 1969, in Kouhu Township, Yunlin County. Her father was a veteran from Yunnan who came to Taiwan, and her mother was from Yunlin. She grew up in a veteran family background in Jingzhong Village No. 3, Tainan.
+[^1]: [Cheng Li-wun - Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87) — Wikipédia indique que Cheng Li-wun est née le 12 novembre 1969 à Kouhu, comté de Yunlin. Son père était un vétéran de la RDC originaire de Yunnan et sa mère une habitante de Yunlin ; elle a grandi dans un milieu de vétérans au village de Jingzhong à Tainan.
 
-[^2]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun) — The English Wikipedia records Cheng Li-wen's history of participating in the Wild Lily Student Movement and advocating Taiwan independence during her university years, as well as the extent of her participation in DPP party affairs during her student days.
+[^2]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun) — La version anglaise de Wikipédia documente son implication dans les mouvements étudiants « Wild Lily » et ses activités pro-indépendance durant ses études, ainsi que son engagement auprès du DPP.
 
-[^3]: [Who is Cheng Li-wen? What are her studies, experience, and stories? - KidsMedia](https://kidsmedia.com.tw/2025/10/20/from-green-to-blue-cheng-li-wen-becomes-kmts-first-chairperson-with-dpp-roots/) — KidsMedia compiled an article on Cheng Li-wen's political transformation trajectory, including her hunger strike at the NTU gate for the Huang Hua Taiwan independence case in 1988, the process of the DPP persuading her to withdraw, and the key turning points from green to blue.
+[^3]: [Qui est Cheng Li-wun ? Parcours et histoires - KidsMedia](https://kidsmedia.com.tw/2025/10/20/from-green-to-blue-cheng-li-wen-becomes-kmts-first-chairperson-with-dpp-roots/) — KidsMedia propose un article sur la trajectoire politique de Cheng Li-wun, incluant sa grève de la faim en 1988 pour l'affaire Huang Hua et le moment clé de son passage du camp vert au camp bleu.
 
-[^4]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun) — The English Wikipedia收录s Cheng Li-wen's academic resume: obtaining an LL.M. in International Law from the Beasley School of Law at Temple University in the US in 1993, and obtaining an MSc in International Relations from the University of Cambridge in 2000 while pursuing a doctorate.
+[^4]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun) — La version anglaise de Wikipédia répertorie son parcours académique : LL.M. en droit international à la faculté de droit Beasley de l'Université Temple en 1993, et MSc en relations internationales à l'Université de Cambridge en 2000, où elle a poursuivi un doctorat.
 
-[^5]: [Who is Cheng Li-wun? - Taipei Times](https://www.taipeitimes.com/News/feat/archives/2025/11/19/2003847439) — A deep-profile character report from Taipei Times in November 2025, detailing Cheng Li-wen's Anglo-American law training background, her status as a doctoral candidate in international relations, and her overseas study experience after being elected KMT Chairperson.
+[^5]: [Who is Cheng Li-wun? - Taipei Times](https://www.taipeitimes.com/News/feat/archives/2025/11/19/2003847439) — Un reportage approfondi du Taipei Times en novembre 2025 détaillant sa formation juridique anglo-américaine, son statut de candidate au doctorat en relations internationales et ses études à l'étranger.
 
-[^6]: [Cheng Li-wen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87) — Wikipedia records Cheng Li-wen's process of leaving the DPP in 2002 due to controversies over the handling of the Wu Rui-ren sexual harassment case, as well as her critical stance on the DPP high command's handling of controversial cases.
+[^6]: [Cheng Li-wun - Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87) — Wikipédia relate son retrait du DPP en 2002 suite à la controverse sur le traitement de l'affaire de harcèlement sexuel de Wu Rui-ren, ainsi que sa critique de la gestion des affaires par les hauts dirigeants du parti.
 
-[^7]: [Reaffirming Active Departure from DPP Cheng Li-wen: Realized Taiwan Independence Was Long a Joke, a Scam - Liberty Times Net](https://news.ltn.com.tw/news/politics/breakingnews/3703655) — Liberty Times Net interviewed Cheng Li-wen about her reasons for leaving the DPP, directly quoting her original words "Taiwan independence had long become a joke, a scam," providing first-hand material for her self-narrative.
+[^7]: [Réitérant son départ volontaire du DPP, Cheng Li-wun : « J'ai réalisé que l'indépendance n'était qu'une plaisanterie et un leurre » - Liberty Times](https://news.ltn.com.tw/news/politics/breakingnews/3703655) — Le Liberty Times a interviewé Cheng Li-wun sur les raisons de son départ, citant directement ses propos sur l'escroquerie de l'indépendance.
 
-[^8]: [Cheng Li-wen Breaks Through with Warrior Image, Green Camp Origin Elected KMT Chairperson - CNA](https://www.cna.com.tw/news/aipl/202510180186.aspx) — CNA compiled the full background of Cheng Li-wen's election as KMT Chairperson, recording the origin of her "Warrior image" and how the path from the DPP to the KMT affected her positioning in the blue camp.
+[^8]: [Cheng Li-wun s'impose avec son image de combattante, issue du camp vert, élue présidente du KMT - CNA](https://www.cna.com.tw/news/aipl/202510180186.aspx) — La CNA détaille le contexte de l'élection de Cheng Li-wun, l'origine de son image de « combattante » et comment son passage du DPP au KMT a influencé sa position dans le camp bleu.
 
-[^9]: [Zheng Liwen - Baidu Baike](https://baike.baidu.com/item/%E9%83%91%E4%B8%BD%E6%96%87/2093188) — Baidu Baike records Cheng Li-wen's complete judicial record during her tenure as Director of the KMT's Cultural and Propaganda Committee in 2005, where she was sued by Lin Chia-lung for violating the Election and Recall Act due to an election advertisement, initially sentenced to three months in prison and deprived of public rights for one year, later reduced to one month in detention suspended.
+[^9]: [Cheng Li-wun - Baidu Baike](https://baike.baidu.com/item/%E9%83%91%E4%B8%BD%E6%96%87/2093188) — Baidu Baike contient les registres judiciaires concernant la condamnation de Cheng Li-wun en 2005 pour violation de la loi électorale lors d'une publicité, incluant sa peine initiale et son sursis.
 
-[^10]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun) — The English Wikipedia records Cheng Li-wen's tenure and style positioning hosting the political talk show _Li-wen's Strait Talk_ on TVBS Cable Television Network during 2014-2015.
+[^10]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun) — La version anglaise de Wikipédia mentionne sa période d'animation de l'émission « Li-wun's Strait Talk » sur TVBS entre 2014 et 2015.
 
-[^11]: [Cheng Li-wen Breaks Through with Warrior Image, Green Camp Origin Elected KMT Chairperson - CNA](https://www.cna.com.tw/news/aipl/202510180186.aspx) — CNA's election night report recorded the results of the 12th KMT Chairperson election on October 18, 2025, where Cheng Li-wen defeated Hung Hsiu-chu and Luo Chih-chiang with approximately 50% of the vote, becoming the second female directly elected chairperson in party history.
+[^11]: [Cheng Li-wun s'impose avec son image de combattante, issue du camp vert, élue présidente du KMT - CNA](https://www.cna.com.tw/news/aipl/202510180186.aspx) — Le compte rendu des résultats de l'élection du 18 octobre 2025 rapporte que Cheng Li-wun a battu Hao Lung-bin et Lo Chih-chiang pour devenir la deuxième femme à diriger le parti.
 
-[^12]: [Revealing Reasons for Leaving DPP Cheng Li-wen: Realized Taiwan Independence Was a Lie - China Times News Network](https://www.chinatimes.com/realtimenews/20211014002067-260407) — China Times News Network interviewed Cheng Li-wen in 2021, recording her original words "Taiwan independence is a lie" when publicly explaining her reasons for leaving the DPP, serving as a long-term baseline for her self-narrative of political stance shifts.
+[^12]: [Révélant les raisons de son départ du DPP, Cheng Li-wun : « L'indépendance est un mensonge » - China Times](https://www.chinatimes.com/realtimenews/20211014002067-260407) — Un article de 2021 du China Times citant ses propos sur l'indépendance comme point de référence pour son changement de position politique.
 
-[^13]: [United Daily News Exclusive Interview / Cheng Li-wen: Taiwan Independence Is a Scam, Blue Must Rise Up - United News Network](https://udn.com/news/story/122404/9044503) — United News Network's character exclusive interview during the 2025 KMT Chairperson election, recording Cheng Li-wen's stronger "Taiwan independence fascism" statement and her claims for KMT route reorganization.
+[^13]: [Interview de l'United Daily News / Cheng Li-wun : L'indépendance est une escroquerie, le camp bleu doit se réveiller - UDN](https://udn.com/news/story/122404/9044503) — Une interview durant l'élection du KMT en 2025 rapportant ses propos plus radicaux sur le « fascisme de l'indépendance ».
 
-[^14]: [Cheng Li-wen Criticized for Commemorating CCP Spy at White Terror Memorial, MOFA: Severely Hurts National Dignity - Economic Daily News](https://money.udn.com/money/story/5603/9126873) — Economic Daily News recorded the controversy of Cheng Li-wen attending the "1950s White Terror Autumn Memorial Commemoration Ceremony" in November 2025. The memorial list included CCP intelligence agent Wu Shi (executed at Machangding firing range in 1950), providing the full event background.
+[^14]: [Cheng Li-wun critiquée pour la commémoration de la Terreur blanche incluant un espion : Le MAC estime que cela porte atteinte à la dignité nationale - Economic Daily News](https://money.udn.com/money/story/5603/9126873) — L'Economic Daily News relate la controverse de novembre 2025 concernant l'inclusion de l'agent Wu Shih dans la liste des commémorations.
 
-[^15]: [KMT Chairperson Cheng Li-wen Commemorates Former Traitor CCP Spy, MOFA Takes Solemn Stance - MOFA Official Website](https://www.mac.gov.tw/News_Content.aspx?n=05B73310C5C3A632&sms=1A40B00E4C745211&s=0064E84717B052BD) — MOFA official press release, directly criticizing Cheng Li-wen's narrative operation of whitewashing criminals like Wu Shi who "betrayed the country and sold out their comrades" into a "tragedy of KMT-CCP civil war," serving as the first-hand official statement of the government's stance.
+[^15]: [La présidente du KMT Cheng Li-wun commémore un ancien espion : Position ferme du MAC - Site officiel du MAC](https://www.mac.gov.tw/News_Content.aspx?n=05B73310C5C3A632&sms=1A40B00E4C745211&s=0064E84717B052BD) — Communiqué officiel du Bureau des affaires maritimes et terrestres critiquant la tentative de présenter l'espionnage comme une tragédie de guerre civile.
 
-[^16]: [Attending White Terror Memorial Cheng Li-wen: Did Not Know It Included CCP Spy Wu Shi beforehand - Public Television Service News](https://news.pts.org.tw/article/780371) — PTS News recorded Cheng Li-wen's direct response to the White Terror memorial controversy. She claimed she did not know beforehand that the memorial list included Wu Shi, emphasizing that she attended the event for "White Terror Commemoration" rather than to commemorate a CCP spy.
+[^16]: [Cheng Li-wun sur la commémoration de la Terreur blanche : Je ne savais pas pour l'espion Wu Shih - PTS News](https://news.pts.org.tw/article/780371) — PTS News rapporte la réponse directe de Cheng Li-wun affirmant qu'elle ignorait la présence de Wu Shih dans la liste.
 
-[^17]: [Cheng Li-wen: White Terror Memorial Did Not Take Wu Shi and Others as Protagonists - CNA](https://www.cna.com.tw/news/aipl/202511080093.aspx) — CNA recorded Cheng Li-wen's further clarification after the memorial controversy. She emphasized that Wu Shi, Zhu Feng, and others were not within the scope of "political prisoners" in her definition, and called on all sectors to focus on historical facts.
+[^17]: [Cheng Li-wun : La commémoration de la Terreur blanche ne se concentre pas sur Wu Shih et d'autres - CNA](https://www.cna.com.tw/news/aipl/202511080093.aspx) — La CNA rapporte les clarifications de Cheng Li-wun précisant que Wu Shih ne rentrait pas dans sa définition des « prisonniers politiques ».
 
-[^18]: [Cheng-Xi Meeting Concludes Cheng Li-wen: Proposed 5 Points Including Expanding Taiwan's International Activity Space - CNA](https://www.cna.com.tw/news/acn/202604100199.aspx) — CNA's on-site record of the Cheng-Xi meeting process at the Great Hall of the People in Beijing on April 10, 2026, including the original text of Cheng Li-wen's five points and details of the meeting time, serving as the first-hand record of the official news agency.
+[^18]: [Fin de la rencontre Cheng-Xi : Cheng Li-wun propose 5 points, dont l'élargissement de l'espace international de Taïwan - CNA](https://www.cna.com.tw/news/acn/202604100199.aspx) — Compte rendu de la CNA sur le déroulement de l'entretien du 10 avril 2026 à Pékin.
 
-[^19]: [Cheng-Xi Meeting] Xi Jinping's Full Speech Exposed, Proposes Conditions for Cross-Strait Peaceful Exchange - Newtalk News](https://newtalk.tw/news/view/2026-04-10/1029065) — Newtalk News exposed Xi Jinping's full speech at the Cheng-Xi meeting, recording the original words "Compatriots across the strait are all Chinese" and the prerequisite conditions of "adhering to the Nine-Point Consensus, opposing Taiwan independence."
+[^19]: [Texte intégral du discours de Xi Jinping lors de la rencontre Cheng-Xi : Conditions pour les échanges pacifiques - Newtalk](https://newtalk.tw/news/view/2026-04-10/1029065) — Newtalk publie l'intégralité du discours de Xi Jinping, incluant sa déclaration sur l'unité des compatriotes.
 
-[^20]: [China's Xi meets Taiwan opposition leader ahead of key summit with Trump - NPR](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition) — NPR deep analysis, quoting Asian affairs analysts' judgment on Cheng Li-wen's strategy for visiting China: leveraging Taiwan's anxiety regarding the Trump administration to push the KMT toward a "hedging, centrist" strategic positioning.
+[^20]: [China's Xi meets Taiwan opposition leader ahead of key summit with Trump - NPR](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition) — Analyse de NPR sur la stratégie de Cheng Li-wun visant à positionner le KMT comme une voie médiane face à l'incertitude américaine.
 
-[^21]: [MOFA: Asked Cheng Li-wen to Speak "Didn't Say Any" Continuously Echoes the Other Side - ETtoday](https://www.ettoday.net/news/20260410/3147289.htm) — ETtoday recorded Deputy Minister Liang Wen-jie's direct comment on the Cheng-Xi meeting aftermath: Cheng Li-wen did not propose the three major demands of the Taiwan people to Xi Jinping at all (recognize the existence of the Republic of China, respect the will of the Taiwan people, stop military aircraft and ship harassment), highlighting the gap between the meeting results and expectations.
+[^21]: [MAC : « Elle n'a rien dit de ce que nous voulions qu'elle dise » - ETtoday](https://www.ettoday.net/news/20260410/3147289.htm) — ETtoday rapporte les critiques du vice-président Liang Wen-chieh sur l'absence des trois revendications majeures lors de l'entretien.
