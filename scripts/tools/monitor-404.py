@@ -106,6 +106,7 @@ RESOLVABLE_FAMILIES = {
     "cross-lang-slug",
     "untranslated-demand",
     "renamed-or-truncated",
+    "duplicated-lang-prefix",
 }
 
 SCANNER_RE = re.compile(
@@ -147,6 +148,11 @@ WELLKNOWN_RE = re.compile(r"^/(cdn-cgi|\.well-known)/")
 BAD_PCT_RE = re.compile(r"%(?![0-9A-Fa-f]{2})")
 _LANG_PREFIXES = "|".join(re.escape(lang) for lang in LANGS)
 LANG_PREFIX_RE = re.compile(rf"^/({_LANG_PREFIXES})(/.*)?$")
+# 2026-10-11 twmd-maintainer-daily：語言碼自己貼了兩次、中間沒有斜線
+# （/enen/society/...、/arar/politics/...）。反向參照 \1 要求兩段literally
+# 相同，所以 /enes/ 這種不同語言的相鄰不會命中——那是另一種病，沒有證據
+# 說它存在，不先替它開家族。
+DUP_LANG_PREFIX_RE = re.compile(rf"^/({_LANG_PREFIXES})\1(/.*)?$")
 BOT_UA_RE = re.compile(
     r"bot|crawl|spider|curl|python|scan|go-http|java|okhttp", re.IGNORECASE
 )
@@ -275,6 +281,20 @@ def classify(raw_path, routes, lang_cat_slugs, cat_slug_langs, registry):
     # 1. phantom — CF says 404 but the route table says this page exists
     if norm in routes:
         return "phantom", None
+
+    # 1b. duplicated-lang-prefix — 語言碼貼了兩次（/enen/society/...）。拿掉
+    # 一份就是這個語言自己的真實網址，所以修法是機械的 301，不需要判斷。
+    # 排在 2 之前只是順序上的明確：`enen` 本來就不是語言碼，LANG_PREFIX_RE
+    # 接不住它，v1 時它整族落在 unknown 裡（2026-10-09 實測 9 條 38 次全部
+    # 如此）。suggest 只在「拿掉一份之後真的存在」時才給，不存在就留 None
+    # ——家族講的是形狀，可修性是另一件事，混在一起下游會拿到死目標。
+    dm = DUP_LANG_PREFIX_RE.match(norm)
+    if dm:
+        single = f"/{dm.group(1)}{dm.group(2) or ''}" or "/"
+        to_zh = (registry.get(dm.group(1)) or {}).get("toZh") or {}
+        if single in routes or single in to_zh or f"{single}/" in to_zh:
+            return "duplicated-lang-prefix", single
+        return "duplicated-lang-prefix", None
 
     m = LANG_PREFIX_RE.match(norm)
     req_lang = m.group(1) if m else None
@@ -451,14 +471,18 @@ def compute_alerts(date_str, families, top_paths):
         families.get(f, {}).get("count", 0) for f in RESOLVABLE_FAMILIES
     )
     if resolvable_total > 3000:
+        # 家族名單從 RESOLVABLE_FAMILIES 現算，不手抄（2026-10-11）：手抄的
+        # 那一份在新增家族時不會跟著改，於是警報本身是對的、它的說明文字
+        # 卻少列一族——09-18 data-refresh 連兩夜把真警報讀成工具寫反，就是
+        # 同一個形狀（儀器對機器誠實、對人撒小謊）。
         alerts.append(
             {
                 "id": f"cf-404-resolvable-{date_str}",
                 "severity": "yellow",
                 "message": (
-                    f"{date_str} 可解析 404（slug-variant+cross-lang-slug+"
-                    f"untranslated-demand+renamed-or-truncated）共 {resolvable_total:,} "
-                    "> 3000/day"
+                    f"{date_str} 可解析 404（"
+                    + "+".join(sorted(RESOLVABLE_FAMILIES))
+                    + f"）共 {resolvable_total:,} > 3000/day"
                 ),
             }
         )
@@ -585,13 +609,41 @@ def load_state():
     return {"days": [], "updated": None}
 
 
-def upsert_state(state, day_result):
+def upsert_state(state, day_result, force=False):
+    """寫入一天的 slim 紀錄。回傳 (state, note)；note 非 None = 這天沒被覆蓋。
+
+    2026-10-11 twmd-maintainer-daily：回頭重查舊日子會拿到**比較少**的資料。
+    當天實測 2026-10-09 原本 5,505，兩天後重查 3,815，兩次 truncated 都是
+    false——不是我們截斷，是 CF 那側對舊資料的保存顆粒變粗。原本這裡
+    無條件覆蓋，於是一次重查就在趨勢序列上挖出一個 31% 的假低點，而且
+    不留痕跡：下一個讀 60 天序列的人會把它讀成「404 改善了又變糟」。
+
+    規則：既有那天的總數更高且它自己沒被截斷 → 保留既有，印一行說為什麼。
+    `--force-requery` 可以明確要求覆蓋（例如確信舊紀錄本身是壞的）。
+    """
     slim = {
         "date": day_result["date"],
         "total_404": day_result["total_404"],
         "truncated": day_result["truncated"],
         "families": day_result["families"],
     }
+    existing = next(
+        (d for d in state.get("days", []) if d.get("date") == slim["date"]), None
+    )
+    note = None
+    if (
+        existing
+        and not force
+        and not existing.get("truncated")
+        and existing.get("total_404", 0) > slim["total_404"]
+    ):
+        note = (
+            f"{slim['date']}: 保留既有紀錄 total={existing['total_404']:,}，"
+            f"不用本次重查的 {slim['total_404']:,}（重查拿到的比較少 = CF 對舊日"
+            "資料顆粒變粗，覆蓋會在趨勢上挖假低點）。要覆蓋請加 --force-requery"
+        )
+        return state, note
+
     days = [d for d in state.get("days", []) if d.get("date") != slim["date"]]
     days.append(slim)
     days.sort(key=lambda d: d["date"])
@@ -599,7 +651,7 @@ def upsert_state(state, day_result):
         days = days[-MAX_STATE_DAYS:]
     state["days"] = days
     state["updated"] = datetime.now(timezone.utc).isoformat()
-    return state
+    return state, note
 
 
 # ────────────────── stdout summary ──────────────────
@@ -653,6 +705,12 @@ def main():
     parser.add_argument(
         "--days", type=int, default=1, help="回看天數，free tier 逐日查（預設 1）"
     )
+    parser.add_argument(
+        "--force-requery",
+        action="store_true",
+        help="允許用本次讀數覆蓋既有那天的紀錄，即使本次拿到的總數比較少"
+        "（預設拒絕，見 upsert_state 註解）",
+    )
     args = parser.parse_args()
 
     env = fc.load_env()
@@ -684,7 +742,9 @@ def main():
             date_str, rows, truncated, routes, lang_cat_slugs, cat_slug_langs, registry
         )
         day_results.append(result)
-        state = upsert_state(state, result)
+        state, note = upsert_state(state, result, force=args.force_requery)
+        if note:
+            print(f"⚠️  {note}", file=sys.stderr)
         if truncated:
             print(
                 f"⚠️  {date_str}: hit CF's 10000-row cap — truncated=true "

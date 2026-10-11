@@ -50,6 +50,11 @@ const ALLOWED_FAMILIES = new Set([
   'slug-variant',
   'cross-lang-slug',
   'renamed-or-truncated',
+  // 2026-10-11 twmd-maintainer-daily：語言碼貼兩次（/enen/society/...）。
+  // monitor-404 的 suggest 是「拿掉一份之後的同語言真實網址」，所以這族的
+  // 目標永遠在站上存在（它只在存在時才給 suggest）。2026-10-09 實測 9 條
+  // 38 次，UA 全是桌機瀏覽器不是爬蟲——是讀者在吃 404。
+  'duplicated-lang-prefix',
 ]);
 
 // 2026-07-25 article-alias：別名 registry 擁有的網址，這支工具一律讓路。
