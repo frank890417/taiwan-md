@@ -1,29 +1,30 @@
 ---
-title: 'Whyte: The Honor Student Who Read Medicine for Nine Years and Pressed Pause'
-description: "On August 21, 2021, Whyte, wearing a black hat and sunglasses, took the stage to accept the Best New Artist award at the 32nd Golden Melody Awards. She said to the camera, 'Please don't be afraid.' Her real name is Lin Zhiyi, she is from Hsinchu Xiangshan, attended Hsinchu Girls' High School, and studied in the Department of Medicine at the Medical College of the National Defense Medical University for nine years, including one year of suspension during her junior year and one year of delayed graduation (the two-year internship took three years because she did not follow doctors for consultations). She completed her intern physician training and obtained a Bachelor of Medicine degree; on the day she won the award, she was still wearing a mask in the operating room as an intern physician during the day. On the track where Taiwan's best students compete, she pressed the pause button for that year."
+title: '壞特?te: 의학과 9년을 다닌 우등생, 일시정지 버튼을 누른 그 휴학'
+description: '2021년 8월 21일, 검은 모자와 선글라스를 쓴 壞特?te가 무대에 올라 제32회 금곡장 최우수 신인상을 수상했다. 그녀는 카메라를 향해 "여러분, 두려워하지 마세요"라고 말했다. 그녀의 본명은 린즈이(林芝儀), 신주 시앙산(新竹香山) 출신, 신주여중(新竹女中) 졸업, 국방의학원(國防醫學院) 의학과를 9년간 다녔으며, 이에는 3학년 때의 휴학 1년, 유급 1년(2년 인턴십을 임상 실습을 하지 않아 3년 만에 마쳤다)이 포함된다. 그녀는 인턴 의사 수련을 마치고 의학사 학위를 취득했으며, 수상 당시에도 낮에는 수술실에서 마스크를 쓴 채 인턴 의사로 일하고 있었다. 대만에서 가장 공부를 잘하는 트랙 위에서, 그녀가 일시정지 버튼을 누른 그 해.'
 date: 2026-04-26
+category: 'People'
 tags:
   [
-    'Person',
+    '인물',
+    '와이테',
     'Whyte',
-    'Whyte',
-    'Lin Zhiyi',
-    'National Defense Medical University',
-    'Taiwan Independent Music',
-    'Golden Melody Newcomer',
-    'bedroom-pop',
+    '린즈이',
+    '국방의학원',
+    '대만 인디 음악',
+    '금곡 신인',
+    '베드룸 팝',
     'R&B',
-    'Hip Hop',
-    'ChynaHouse',
-    'Sony Music',
-    'Universal Music',
+    '힙합',
+    '화풍디지털',
+    '소니 뮤직',
+    '유니버설 뮤직',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
-category: 'People'
-readingTime: 16
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
+readingTime: 16
 sporeLinks:
   - id: 45
     platform: 'threads'
@@ -33,355 +34,534 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-26'
     url: 'https://x.com/taiwandotmd/status/2048290884022850047'
+lifeTree:
+  protagonist: '壞特?te（林芝儀）'
+  birthYear: 1994
+  span: '1994–2026'
+  source:
+    article: 'knowledge/People/壞特.md'
+    commit: '(uncommitted, working tree at HEAD)'
+    commitDate: '2026-04-26'
+    extractedBy: 'Taiwan.md (Semiont) β-r5'
+    extractedAt: '2026-04-26 13:30 +0800'
+    note: '原文 28+ footnotes（中央社/今周刊/BIOS monthly/Sony Music/維基/HEAVEN RAVEN/迷誠品 etc.），所有 alternative 都 source-grounded 或對照同代金曲新人路徑。'
+  intro: '一個父親代填志願進國防醫學院、醫學系讀九年取得醫學士學位、做過實習醫師卻沒去當正式醫師的女生，在大三那場學生會議上突然按下暫停鍵——休學一年、咖啡廳泡飲料、蛋糕店切甜點、錄音室買便當。然後她沒回去當醫生。這棵樹列出每個 turning 她選的路，也列出她沒選的——從繼續唸下去到走主流大廠到沉默不表態。'
+  themes:
+    - id: 'medicine-music'
+      label: '醫學 vs 音樂'
+      color: '#8B5CF6'
+    - id: 'system-self'
+      label: '體制 vs 自我'
+      color: '#EC4899'
+    - id: 'indie-mainstream'
+      label: '獨立 vs 主流'
+      color: '#F59E0B'
+    - id: 'silent-speak'
+      label: '沉默 vs 表態'
+      color: '#10B981'
+  nodes:
+    - id: 'birth'
+      year: 1994
+      age: 0
+      type: 'given'
+      theme: 'system-self'
+      label: '生於新竹市香山區'
+      scene: '家裡三個小孩，經濟壓力不小。父母無力供鋼琴課，只在大賣場買電子琴。液晶螢幕顯示動態樂譜，她無老師自學練成《小步舞曲》。'
+      sources: ['^1', '^24']
+    - id: 'dad-fills-form'
+      year: 2012
+      age: 18
+      type: 'choice'
+      theme: 'system-self'
+      scene: '新竹女中畢業時對未來沒有太多想像'
+      chose:
+        label: '讓父親代填大學志願卡 → 進國防醫學院醫學系'
+        consequence: '「我就像個饅頭，任由大人們捏出他們想要的形狀。」這個被動接受成為日後 9 年內在化的張力源。'
+      alternatives:
+        - label: '自己填志願選文組或藝術'
+          plausibility: 'structural'
+          note: '同代新竹女中部分女生選擇文學/藝術科系。如果走，可能更早進入創作圈，但失去醫學系 9 年累積的「優等生賽道內側觀察」素材，後來那句「請你們不要害怕」的份量也會不同。'
+        - label: '不上大學直接工作'
+          plausibility: 'structural'
+          note: '極少數高中畢業就拒絕大學的選擇。如果走，會被體制更早 reject，可能更早接觸獨立音樂場景，但少了「我親身試過了」的合法性。'
+      sources: ['^3', '^4']
+    - id: 'drop-out-20'
+      year: 2014
+      age: 20
+      type: 'choice'
+      theme: 'system-self'
+      scene: '大二結束、大三那年某場學生會議現場。「沒發生什麼戲劇性的事」，她突然意識到自己「一直在學校」'
+      chose:
+        label: '父母反對仍照樣休學一年'
+        consequence: '20 歲。「綁住我的就是自己的心態，我只好先停下來，去找自己。」這是日後所有暫停鍵的原型。'
+      alternatives:
+        - label: '繼續硬撐讀完'
+          plausibility: 'structural'
+          note: '同代醫學生最常選的路。如果走，9 年內也許「正常」畢業考過國考成為醫師——少了那段休學年的工作經驗 + 錄音室角落觀察，不會寫〈睡不著〉。'
+        - label: '徹底退學'
+          plausibility: 'structural'
+          note: '激烈版本：直接放棄醫學系。如果走，可能更快全心音樂但失去「讀完九年取得醫學士學位」的合法性籌碼。'
+      sources: ['^4', '^7']
+    - id: 'three-jobs'
+      year: 2014
+      age: 20
+      type: 'choice'
+      theme: 'system-self'
+      scene: '休學那年沒錢出國'
+      chose:
+        label: '一天兼三份工（咖啡廳泡飲料 / 蛋糕店切甜點 / 錄音室買便當）'
+        consequence: '錄音室那份接住了她。在角落看別人配唱、看大人怎麼做音樂，自己報名吉他課——「不是去拜師，是去學寫歌的工具」。'
+      alternatives:
+        - label: '出國 gap year'
+          plausibility: 'structural'
+          note: '優等生 gap year 主流路徑（歐洲/澳洲打工度假）。如果走，會獲得文化視野但不會在台灣音樂工業內部有第一手經驗。'
+        - label: '單純在家不工作'
+          plausibility: 'structural'
+          note: '部分休學生選擇 isolation 重新整理自己。如果走，會缺少「錄音室買便當」這個關鍵接觸，可能再回去念醫沒有 detour。'
+      sources: ['^5', '^7']
+    - id: 'cazzo-debut'
+      year: 2019
+      month: 6
+      age: 25
+      type: 'choice'
+      theme: 'indie-mainstream'
+      scene: '休學年後回去把醫學系念完，最後幾年同時累積自己的歌'
+      chose:
+        label: '以「?te」之名在華風數位（ChynaHouse）發〈Cazzo〉首單'
+        consequence: 'Cazzo 是義大利髒話。藝名連起來諧音 white；中文「壞特」上海話「壞透了」之意。出道就刻意不戴主流偶像面孔。'
+      alternatives:
+        - label: '簽大廠出道'
+          plausibility: 'structural'
+          note: '同期同樣 bedroom pop 路線的歌手有人選擇直接走主流（如 9m88 早期路徑）。如果走，會有更多資源但失去「華風數位」這條獨立廠牌的塑形空間。'
+        - label: '不出道把音樂當興趣'
+          plausibility: 'structural'
+          note: '醫學系學生多數會把愛好當業餘興趣。如果走，沒有〈睡不著〉、沒有金曲、沒有後來公開「請你們不要害怕」那句話。'
+      sources: ['^7']
+    - id: 'bedroom-album'
+      year: 2020
+      month: 7
+      age: 26
+      type: 'choice'
+      theme: 'indie-mainstream'
+      scene: '〈睡不著 Insomnia〉發表當週成 StreetVoice 排行榜冠軍，2 個月 YouTube 累積 20 萬觀看'
+      chose:
+        label: "發行《A Bedroom of One's Own》全長專輯（製作人 Tower da Funkmasta 家中錄音）"
+        consequence: '專輯名借自吳爾芙。完整保留 bedroom 美學的素人感。從 2020 開始刻意不露臉戴大草帽 + 墨鏡——「想要隔開音樂與醫院生活」。'
+      alternatives:
+        - label: '進專業錄音室製作'
+          plausibility: 'structural'
+          note: '常規路徑。如果走，可能更精緻但失去「bedroom pop」這個美學承諾的純粹性。'
+        - label: '出道就露臉'
+          plausibility: 'structural'
+          note: '主流偶像路徑。如果走，可能更早建立粉絲認知度，但會跟「實習醫師」身份直接衝突，後來 2021 鏡週刊跟拍揭露長相的時刻會更早爆發。'
+      sources: ['^8', '^9', '^17']
+    - id: 'golden-melody-newcomer'
+      year: 2021
+      month: 8
+      day: 21
+      age: 27
+      type: 'choice'
+      theme: 'silent-speak'
+      scene: '第 32 屆金曲獎拿最佳新人獎。同晚田馥甄歌后、蛋堡歌王、桑布伊年度專輯'
+      chose:
+        label: '感言對著鏡頭說「請你們不要害怕」'
+        consequence: '20 歲休學那段「停滯的時光是我改變的開始」。沒感謝經紀公司、沒感謝家人，講的是對螢幕另一頭被體制困住、想停下來但不敢的人。那一晚她白天還在開刀房戴口罩當實習醫師。'
+      alternatives:
+        - label: '走標準金曲新人感言'
+          plausibility: 'structural'
+          note: '感謝家人/廠牌/製作人/天/聽眾。常規路徑。如果走，會被視為「另一個剛出道的小女生」，這座獎只是 milestone 而非宣言。'
+        - label: '直接宣布要全職音樂不回醫院'
+          plausibility: 'structural'
+          note: '激烈版本：當場切割醫師身份。如果走，會失去後來「3 到 6 年後可能再回去」這句的張力——保留可能性反而是更難的選擇。'
+      sources: ['^10', '^11']
+    - id: 'not-go-back-medical'
+      year: 2021
+      age: 27
+      type: 'choice'
+      theme: 'medicine-music'
+      scene: '完成實習醫師訓練、取得醫學士學位。網路上出現質疑她「放心給她開刀嗎」的批評'
+      chose:
+        label: '沒繼續走正式醫師之路 + 把醫學保留為「3 到 6 年後可能再回去」的選項'
+        consequence: '醫學初期是培訓黃金期，音樂初期也是黃金期。她選了一邊但沒徹底關上另一邊的門。'
+      alternatives:
+        - label: '回去考完成為正式醫師'
+          plausibility: 'structural'
+          note: '父母投資 9 年的「合理」回報路徑。如果走，會關閉音樂全職可能，最多兼職創作。少了《Way out》《界線 Boundary》這兩張專輯。'
+        - label: '徹底放棄醫師資格'
+          plausibility: 'structural'
+          note: '完全切割路徑。如果走，可以更專心音樂但失去「我有資格回去」的後盾，焦慮會更高。'
+      sources: ['^6', '^27']
+    - id: 'way-out-sony'
+      year: 2023
+      month: 6
+      age: 29
+      type: 'choice'
+      theme: 'indie-mainstream'
+      scene: '金曲新人後的第二張專輯製作'
+      chose:
+        label: '簽 Sony Music Taiwan 發行《Way out》+ 陳君豪共製 + Zepp 大型演唱會'
+        consequence: '同年金音創作獎最佳另類流行專輯。從 bedroom 走到 Zepp。看起來是主流軌道。'
+      alternatives:
+        - label: '繼續留在華風數位獨立發行'
+          plausibility: 'structural'
+          note: '保持獨立純粹路徑。如果走，能維持完全的美學自主，但少了 Sony 的資源放大效果跟陳君豪共製的成熟度。'
+      sources: ['^12', '^13']
+    - id: 'boundary-self-pub'
+      year: 2025
+      month: 12
+      age: 31
+      type: 'choice'
+      theme: 'indie-mainstream'
+      scene: '第二張上 Sony 之後，常規路徑會繼續上大廠'
+      chose:
+        label: '《界線 Boundary》自主主導 + 寄上百封陌生開發信給外國音樂人 + 跟 11 國音樂人合作 9 首歌'
+        consequence: '日本 TENDRE、倫敦奈裔靈魂歌手 Steven Bamidele、馬來西亞 babychair、巴西/奈及利亞/德國/義大利/美國。自己寫合約、身兼經紀人與企劃。首度以「女子樂團」型態演出。'
+      alternatives:
+        - label: '繼續走 Sony 主流路線'
+          plausibility: 'structural'
+          note: '常規金曲新人軌道：第三張累積大型演唱會 + 上綜藝 + 累積流量。如果走，商業更穩但失去「按第二、第三、第四次暫停鍵」的反向 trajectory。'
+        - label: '休息一年'
+          plausibility: 'structural'
+          note: '部分得獎後選擇 sabbatical。如果走，能避免燒傷但失去自主寄信跟全球連結的窗口。'
+      sources: ['^14', '^15', '^22']
+    - id: 'hiphop-misogyny'
+      year: 2025
+      age: 31
+      type: 'choice'
+      theme: 'silent-speak'
+      scene: '台灣嘻哈圈爆發性別厭女論戰，義義帕拉梅拉 / 禁藥王作品被批'
+      chose:
+        label: '社群公開發文「身為女生真的沒辦法喜歡」'
+        consequence: '一個剛在 Sony 發專輯、得了金音獎的女歌手，公開批評同行作品。在嘻哈圈「不互踩」的潛規則中是少見動作。'
+      alternatives:
+        - label: '保持沉默'
+          plausibility: 'structural'
+          note: '同代多數歌手在類似爭議中選擇不表態，避免得罪同行。如果走，能維持商業關係但讓「請你們不要害怕」那句話的內在連續性斷掉。'
+      sources: ['^20']
 translatedFrom: 'People/壞特.md'
-sourceCommitSha: ''
+sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:2f12f91cbf28ef93'
 sourceBodyHash: 'sha256:f96db07a5b8f044c'
-translatedAt: '2026-06-10T16:42:09Z'
-featured: false
+translatedAt: '2026-10-11T00:30:52.422133+00:00'
 ---
 
-> **30-Second Overview:** Whyte (real name Lin Zhiyi, born 1994, from Hsinchu Xiangshan) won the Best New Artist award at the 32nd Golden Melody Awards on August 21, 2021[^10]. On the same night, Hebe Tien won Best Female Artist, and Doggy won Best Male Artist. What made Whyte's speech go viral was her words to the national audience: "**Please don't be afraid**."[^11] She stated on stage: graduated from Hsinchu Girls' High School, entered the Department of Medicine at the Medical College of the National Defense Medical University and studied for nine years (including one year of suspension in her junior year, including one year of delayed graduation; the originally two-year internship took three years because she did not follow doctors for consultations), completed intern physician training, and obtained a Bachelor of Medicine degree[^29]. On the track where Taiwan's best students compete, she pressed the pause button midway: first, the year of suspension where she worked three jobs a day[^5], then released her first song "Cazzo" in 2019[^7], released _A Bedroom of One's Own_ in 2020[^9], and when she won the award, she was still wearing a mask in the operating room as an intern physician during the day[^25]. Then she didn't go back to be a doctor.
+**30초 개요:** 와이테?te(본명 린즈이, 1994년생, 신주 향산 출신)는 2021년 8월 21일 제32회 금곡상에서 최우수 신인상을 수상했다[^10]. 같은 날 밤 티엔푸전이 가후(최우수 여자 가수상)를, 단바오가 가왕(최우수 남자 가수상)을 차지했다. 와이테의 수상 소감이 반복해서 공유된 이유는 그녀가 전국 시청자를 향해 한 마디: "**여러분, 두려워하지 마세요.**"[^11] 때문이었다. 그녀는 무대에서 직접 밝혔다: 신주 여자 고등학교 졸업, 국방의학원 의학과에서 9년을 다녔으며(3학년 때 1년 휴학 포함, 유급 1년 포함; 원래 2년인 인턴십이 임상 실습을 하지 않아 3년 만에 완료), 인턴 의사 수련을 마치고 의학사 학위를 취득했다[^29]. 타이완 최고의 엘리트 코스에서 그녀는 중도에 멈춤 버튼을 눌렀다: 먼저 하루에 세 가지 일을 겸했던 휴학 시절[^5], 그리고 2019년 첫 곡 〈Cazzo〉 발표[^7], 2020년 《A Bedroom of One's Own》 발매[^9], 수상 당시에도 낮에는 수술실에서 마스크를 쓴 채 인턴 의사로 일하고 있었다[^25]. 그 후 그녀는 의사로 돌아가지 않았다.
 
----
+## 「당신들은 두려워하지 마세요」: 금곡상 무대 위 그 말
 
-## "Please Don't Be Afraid": The Words on the Golden Melody Stage
+2021년 8월 21일 저녁, 타이베이 아레나. 제32회 금곡상 시상식.
 
-On the evening of August 21, 2021, Taipei Small Giants Dome. The 32nd Golden Melody Awards Ceremony.
+벽테?te가 무대에 올라 최우수 신인상을 수상했다. 그녀는 검은색 정장 재킷, 검은색 모자, 선글라스를 착용했다——이는 그녀가 데뷔한 지 1년 내내 언론에 정면을 찍히지 않았던 표준 차림이었다[^17].
 
-Whyte walked on stage to accept the Best New Artist award. She wore a black suit jacket, a black hat, and sunglasses—this was her standard attire for a whole year since her debut, never letting the media capture her true face[^17].
+그녀는 카메라를 향해 다음과 같이 말했다:
 
-She said a few words to the camera:
+> **✦** "저는 체제 안에서 끊임없이 앞만 보고 달리는 학생이었습니다. 작년에야 비로소 졸업해 그 체제를 벗어날 수 있었습니다. 스무 살 때 방황하고 갇혀 있다고 느꼈을 때, 저는 휴학을 선택하고 멈춰서 제 내면의 소리에 귀 기울였습니다. 그것은 타인이 이해하지 못하는 결정이었지만, 5년이 지나 돌아보니 그 정체된 시간이 저를 바꾼 시작이었습니다. 제가 직접 겪어봤습니다. **부디 두려워하지 마세요**, 용기 있게 자신의 내면이 원하는 것을 보세요. 여러분도 할 수 있습니다." [^11]
 
-> **✦** "I am the kind of student who constantly runs forward within the system, graduating only last year, I just left that system. When I was confused at 20 years old, feeling trapped, I chose to suspend my studies and stop to listen to my own heart. It was a decision others didn't understand, but looking back after 5 years, that stagnant time was the beginning of my change. I have experienced it myself, **please don't be afraid**, bravely look at your own inner needs, you can too."[^11]
+그날 밤 수상자 명단은 꽤 이례적이었다. 올해의 가수(여자)는 티엔푸전[^26], 올해의 가수(남자)는 단바오, 올해의 앨범은 상부이[^10]. 최우수 신인상은 막 의학사 학위를 취득하고 낮에는 수술실에서 마스크를 쓴 채 인턴 의사로 일하는 젊은 여성이었다[^29].
 
-The winner list that night was unusually long. The Best Female Artist was Hebe Tien[^26], the Best Male Artist was Doggy, and the Album of the Year was Sangpu'i[^10]. Best New Artist was a girl who had just obtained a Bachelor of Medicine degree and was still wearing a mask in the operating room as an intern physician during the day[^29].
+> **📝 기획자 메모**
+> 금곡상 신인상은 타이완 음악 산업에서 가장 고도로 자본화된 상이다. 수상자는 보통 일찌감치 음악의 길을 정하고, 레이블이 수년간 푸시하며, 데뷔 1~2년 만에 주목받는 신인이다. 이번 벽테의 수상 장면은 대조적이었다: 데뷔한 지 겨우 2년, 발표한 곡은 두세 곡, 레이블은 인디펜던트인 화펑 디지털, 게다가 수상 당시 아직 병원 인턴을 그만두지 않은 상태였다. 그녀는 카메라 앞에서 소속사 감사도, 가족 감사도 건너뛰고 **"부디 두려워하지 마세요"**라는 한 마디를 남겼다. 그녀가 말한 대상은 화면 저편, 체제에 갇혀 멈추고 싶어도 감히 멈추지 못하는 사람들이었다.
 
-> **📝 Curator's Note**
-> Best New Artist at the Golden Melody Awards is one of the most capitalized awards in the Taiwan music industry. The winner is usually someone who has already decided to pursue music, pushed by the label for years, and targeted as a newcomer within one or two years of debut. Whyte's winning image is very contrasting: she had only been debuting for two years, released two or three songs, her label was the independent ChynaHouse, and she hadn't even resigned from her hospital internship by the time she won the award. She skipped thanking the management company, skipped thanking her family, and said a phrase: "**Please don't be afraid**." She was speaking to those on the other side of the screen who are trapped by the system, want to stop but dare not.
+## 아버지가 대리 작성한 의학과 지원서
 
----
+와이테가 "여러분, 두려워하지 마세요"라고 말한 뜻을 알려면, 그녀가 하지 않았던 선택에서부터 이야기를 시작해야 한다.
 
-## The Father Filled Out the Medical School Application
+그녀는 1994년 6월 19일 신주시 샹산구[^1]에서 태어났으며, 집에는 세 자녀가 있어 경제적 압박이 적지 않았다. 거실에는 세 겹의 소리가 동시에 울렸다: 아버지가 웅리우의 대만어 옛 노래를 틀고, 어머니가 천수화의 중국어 발라드를 듣고, 그녀 자신은 CD 플레이어에 바짝 붙어 장쉐유와 저우화젠[^29]을 들었다. 집 형편이 피아노 레슨을 감당할 수 없어, 결국 대형 마트에서 화면에 움직이는 악보가 뜨는 전자 키보드 한 대를 샀다. 그녀에게는 선생님이 없었지만, 화면에서 뛰는 지시에 따라 건반을 눌러 《카논》과 《미뉴에트》 두 곡을 익혔다[^29]. 그녀는 인터뷰어에게 그 시절을 이렇게 묘사했다: "그때 저는 어렸지만, 모든 음을 기억해 낼 수 있었고 불러낼 수 있었습니다."[^29]
 
-To understand Whyte's "Please don't be afraid," we must start with the choices she didn't make.
+그녀는 신주여중[^2]을 다녔는데, 타이완 전역에서 공부를 가장 잘하는 여학생들이 대거 모이는 학교 중 하나였다. 하지만 그녀가 공부를 했던 진짜 동기는 일반적인 우등생들이 상상하는 것과는 사뭇 달랐다. 그녀는 2024년 2월 정이농과의 인터뷰에서 초등학교 시절 자신의 처지를 이렇게 설명했다:
 
-She was born on June 19, 1994, in Hsinchu Xiangshan District[^1]. There were three children in the family, and the economic pressure was significant. In the living room, three layers of sound were resonating simultaneously: her father listening to Wang Li-you's old Taiwanese songs, her mother listening to Chen Shuhua's Mandarin ballads, and she herself listening to Jacky Cheung and Jacky Cheung[^29] by sticking close to the CD player. The family couldn't afford piano lessons, and finally bought an electronic keyboard in a large supermarket where the screen would jump with dynamic sheet music. She had no teacher, following the jumping instructions on the screen to press the keys, and mastered "Canon" and "Minuet" two pieces[^29]. She described that time to interviewers: "I was very small then, but I could remember and sing every note."[^29]
+> **✦** "제가 그때 만난 선생님들은 생각이 꽤 전통적이었어요. 그분은 여자는 커야 한다, 여자는 반장이 될 수 없다고 제게 직접 말했죠, 왜냐하면 남자애들이 말을 더 잘하니까요. ⋯⋯ 제게 가장 인상 깊었던 건, 그때 제가 '선생님 죄송한데 저 생리 시작했어요, 오늘 좀 쉬고 싶어요'라고 말했더니, 선생님이 '옆에 사람 있는데 어떻게 생리란 두 글자를 말할 수 있니? 여자는 이게 부끄러운 줄 알아야 해, 말하면 안 돼'라고 하셨던 거예요."[^39]
 
-She attended Hsinchu Girls' High School[^2], one of the schools where the best students in Taiwan are heavily concentrated. But her true motivation for studying was quite different from the imagination of typical honor students. She explained her situation in elementary school in an interview with Zheng Yinong in February 2024:
+그녀는 그대로 따르지 않고, 오히려 규칙을 하나하나 뜯어보았다. 그녀는 공부를 잘하기만 하면 선생님이 그녀를 여자로 대하지 않고 '전교 3등 안의 학생'으로 대한다는 사실을 깨달았다.
 
-> **✦** "The teachers I met at that time had more traditional ideas. He would say girls should grow up, girls cannot be class monitors, and he told me directly because boys speak better... My most impressive memory is when I said, 'Teacher, sorry, my period came, I want to rest today,' and the teacher said, 'How can you say the word 'period' in the presence of others? Girls should know this is shameful, you cannot say it.'"[^39]
+> **✦** "제가 공부를 할 때면, 마치 위로 올라갈 수 있는 길을 하나 찾는 것 같았어요. 그러면 사람들이 저를 남자애인지 여자애인지 보지 않고, 그저 제가 3등 안에 들기만 하면 선생님이 주목해 주셨죠."[^39]
 
-She didn't follow the rules, but instead took them apart to look at. She realized that as long as she studied well, the teachers wouldn't see her as a girl, but as a "top three student."
+공부는 그녀의 탈출구였다. 그녀는 어릴 적부터 이 길을 의지해, 샹산 바닷가 초등학교에서 신주여중까지 줄곧 올라갔고, 결국 아버지가 대리 지원서를 작성하게 했다:
 
-> **✦** "When I study, I seem to find a path that allows me to go up, and people won't look at whether I am a boy or a girl, as long as I am in the top three, the teacher will notice."[^39]
+> **✦** "대학 지원 원서조차 아빠가 대신 써 주셨어요. 저는 미래에 대해 아무런 상상이 없었고, 도대체 아빠가 마지막에 어떤 학과들에 지원했는지조차 몰랐죠."[^3]
 
-Studying was her escape route. From childhood to adulthood, she relied on this path, from a small school by the sea in Xiangshan all the way to Hsinchu Girls' High School, and then let her father fill out the application:
+그녀는 결국 국방의학원 의학과[^3]에 들어갔다. 훗날 그녀는 또 다른 인터뷰에서 당시 자신의 상태를 이렇게 묘사했다:
 
-> **✦** "Even the university application form was filled out by my father. I had no imagination for the future, I didn't even know which departments he finally registered me for."[^3]
+> **✦** "저는 마치 만두 같아서, 어른들이 원하는 모양대로 빚어지게 내버려 두었죠. 대학 지원조차 가족이 대신 해 주었습니다."[^4]
 
-She finally entered the Department of Medicine at the Medical College of the National Defense Medical University[^3]. She later described her state at that time in another interview:
+> **📝 기획자 노트**
+> "아버지가 대리 지원서를 작성해 준" 일은 타이완 우등생 가정에서 드문 일이 아니다. 많은 여학생들이 신주여중·베이이여고·중산여고를 거쳐 의학대학이나 타이완대·칭화대·자오퉁대(台清交) 인기 학과로 밀려 올라간다. 와이테의 특별한 점은 그녀의 공부 동기가 처음부터 반항을 품고 있었다는 것이다: 그녀는 여자로 취급받지 않기 위해 공부했다. 대학 3학년 때 그 학생 회의에서 그녀가 문득 일시정지 버튼을 눌렀을 때, 사실 그녀는 초등학교 그 선생님부터 아버지의 대리 지원서 작성, 그리고 체제 전체가 그녀에게 부과한 일련의 안배에 일시정지 버튼을 누른 것이었다.
 
-> **✦** "I was like a steamed bun, letting the adults mold me into the shape they wanted. Even my university application was filled out by my family."[^4]
+## 대3학년 그 해의 학생 회의
 
-> **📝 Curator's Note**
-> "Father filling out the application" is not uncommon in Taiwan's honor student families. Many girls are pushed up from Hsinchu Girls' High School / North一女 / Zhongshan Girls' High School, finally landing in medical schools or popular departments at NTU, NCTU, or NTHU. Whyte's特殊性 lies in the fact that her motivation for studying has carried a sense of rebellion from the beginning: she studied to not be seen as a girl. By the time she pressed the pause button at the student meeting in her junior year, she was actually pressing a series of arrangements given to her by the system, from the elementary school teacher to her father filling out the application.
+그녀가 언제 일시정지 버튼을 눌렀을까? 대2학년을 마치고, 대3학년 그 해의 어느 학생 회의 현장에서.
 
----
+그녀는 그 회의에서 아무런 극적인 일도 일어나지 않았다고 말했다. 하지만 회의에 앉아 있다가, 자신이 "계속 학교에 있었다"는 사실을 문득 깨달았다——유치원부터 대학까지, 한 번도 교실을 떠난 적이 없었다. 그녀는 불안해지기 시작했고, 너무 불안해 더 이상 계속할 수 없었다[^4].
 
-## The Student Meeting in Junior Year
+> **✦** 「나 어릴 때부터 한 번도 외국에 나간 적 없고, 줄곧 타이완의 교육 체제 아래에서 자란 여자애야. 아, 이러다 그대로 살겠구나 싶더라. 눈 뜨면 서른 살이겠고, 내 길은 이미 정해져 있었어.」[^7]
 
-When did she press the pause button? At a student meeting at the end of her sophomore year, during her junior year.
+그녀는 1년 휴학을 결심했다. 부모님이 반대했다. 그녀는 그대로 휴학했다[^5].
 
-She said nothing dramatic happened at that meeting. But sitting in the meeting, she suddenly realized she had "always been at school"—from kindergarten to university, never leaving the classroom. She began to feel anxious, to the point where she couldn't continue[^4].
+> **✦** 「행복하지도, 기쁘지도 않았어. 무언가에 갇혀 있는 것 같아서, 더 이상 계속할 수 없었어. 나를 묶어둔 건 내 자신의 마음가짐이었으니까, 일단 멈추고 나를 찾아야만 했어.」[^4]
 
-> **✦** "I have never been abroad since I was a child, a girl who came up under Taiwan's education system. I thought, oh god, I will just live like this, open my eyes and I will be thirty years old, my path is already very certain."[^7]
-
-She decided to take a year off. Her parents opposed it. She still took a year off[^5].
-
-> **✦** "I am unhappy, I am not happy, I feel trapped by something, I cannot continue. What binds me is my own mindset, I can only stop first and go find myself."[^4]
-
-That year she was 20 years old.
+그해 그녀는 20살이었다.
 
 ---
 
-## The Year of Three Jobs
+## 하루 세 알바를 뛰던 그 해
 
-Students who take a year off usually go abroad, take a gap year, or travel. She didn't have money to go abroad.
+휴학하는 사람들은 보통 유학을 가거나, 갭 이어를 보내거나, 여행을 한다. 그녀에게는 유학 갈 돈이 없었다.
 
-What she did was more concrete:
+그녀가 한 일은 더 구체적이었다:
 
-> **✦** "In the morning, I make drinks in a coffee shop; in the afternoon, I cut desserts in a cake shop; in the evening, I run errands and buy bento boxes for people in a recording studio."[^5]
+> **✦** 「아침에는 카페에서 음료를 만들고, 오후에는 케이크 가게에서 디저트를 자르고, 저녁에는 녹음실에서 심부름으로 도시락을 사다 나른다.」[^5]
 
-Three jobs a day.
+하루 세 알바.
 
-The last job, "buying bento boxes in the recording studio," caught her. She watched others record vocals in the corner of the recording studio, watched how adults make music, and signed up for guitar lessons herself. She wasn't going to learn from a master, but to learn the tools for writing songs[^7].
+마지막 '녹음실 도시락 심부름' 일이 그녀를 붙잡아주었다. 그녀는 녹음실 구석에서 다른 이들이 보컬 녹음하는 걸 보고, 어른들이 어떻게 음악을 만드는지 지켜보며, 직접 기타 레슨을 신청했다. 그녀는 스승을 찾아간 게 아니라, 작곡 도구를 배우러 간 것이었다[^7].
 
-The guitar teacher was Teacher Li Qixian[^30]. Teacher Li didn't start teaching from chord charts, but "started from principles, leading me to listen to music, catch songs, and practice ear and finger techniques." It was also Teacher Li who put French jazz singer Cyrille Aimée and British soul singer Adele on her playlist[^30]. She was particularly fascinated by Cyrille Aimée's scat singing, and later she covered Cyrille Aimée and guitarist Diego Figueiredo's version of "Just the Two of Us"[^31]. She listened along, caught harmonies along, and entered that lo-fi R&B and jazz female vocal context. She didn't mention this on the Golden Melody stage, but this was her true musical enlightenment window.
+기타를 가르친 사람은 리치셴(李琪賢) 선생님[^30]이다. 리 선생은 코드표부터 시작하지 않고, '원리부터 시작해 음악을 듣게 하고, 카피하게 하고, 귀와 손가락 기술을 연습하게 했다'. 또한 리 선생이 프랑스 재즈 디바 시릴 에메(Cyrille Aimée)와 영국 소울 디바 아델(Adele)을 그녀의 플레이리스트에 넣어주었다[^30]. 그녀는 시릴 에메의 스캣 창법에 특히 매료되어, 나중에 시릴 에메와 기타리스트 디에고 피게이레도(Diego Figueiredo)가 협업한 버전의 〈Just the Two of Us〉를 커버하기도 했다[^31]. 그녀는 따라 듣고, 화음을 카피하며, 로파이 R&B와 재즈 여성 보컬의 계보 속으로 들어갔다. 이 길은 그녀가 금곡상 무대에서 말한 적 없지만, 그녀의 진정한 음악적 각성의 창구였다.
 
-There were a few years of low points where she swung between medical school and music. She once sent a message to Li Qixian asking, "What is the meaning of living?" After she won the award, Teacher Li told her:
+중간에 몇 년간 의학과와 음악 사이에서 방황하던 저조기가 있었다. 그녀는 리치셴에게 메시지를 보내 물었다: '살아있는 게 무슨 의미예요?' 그녀가 상을 받은 뒤에야 리 선생이 그녀에게 말했다:
 
-> **✦** "Good thing you didn't think of ending it then, otherwise there would be no Whyte today, life is very fun!"[^30]
+> **✦** '다행히 그때 네가 잘못된 생각 안 해서, 오늘의 와이테(壞特)가 있을 수 있었지, 인생 재밌다!'[^30]
 
-> **📝 Curator's Note**
-> She never had a dramatic scene of "deciding to become a musician." No sudden enlightenment, no great realization. Just a girl running errands and buying bento boxes in the corner of the recording studio watching adults work, and then learning jazz from a guitar teacher who "started from principles." The turning point in Taiwan's honor student narrative is usually a grand decision, but her turning point was carrying bento boxes, listening to Cyrille Aimée, and a message sent to the teacher on a low night.
+> **📝 큐레이터 노트**
+> 그녀는 '음악인이 되기로 결심'한 극적인 장면이 결코 없었다. 갑작스러운 깨달음도, 대오각성도 없었다. 그저 심부름으로 도시락을 나르던 소녀가 녹음실 구석에서 어른들 일하는 걸 지켜보고, '원리부터' 가르쳐주는 기타 선생에게서 재즈를 배웠을 뿐이다. 타이완 우등생 서사 속 전환점은 대개 거창한 결단이지만, 그녀의 전환점은 도시락 나르기, 시릴 에메 듣기, 어느 저조한 밤 선생에게 보낸 한 통의 메시지였다.
 
-After a year of suspension, she went back to finish medical school. But the person who went back was already different. In the last few years of school, she began to accumulate her own songs simultaneously.
+휴학 1년 뒤 그녀는 돌아가 의학과를 마쳤다. 하지만 돌아온 그 사람은 이미 이전과 달랐다. 그녀는 학교에서의 마지막 몇 년 동안 동시에 자신의 곡들을 쌓기 시작했다.
+
+그녀의 첫 곡은 계획된 것이 아니었다.
+
+그녀는 어느 시기에 타이완대학 재즈 동아리에 참여해 선배 Tower da Funkmasta(타오이췬)[^29]를 알게 되었다. 그녀는 Tower에게 데모를 보내 공연을 제안했지만, Tower는 답하지 않았고, 그 파일들은 그의 하드디스크에 한동안 잠들어 있었다. 나중에 Tower가 다시 열어보고 그녀에게 앨범 제작을 제안했다.
+
+2019년 6월 28일, 그녀는 '?te'라는 이름으로 화풍디지털(ChynaHouse) 레이블과 유튜브에서 첫 곡 〈[Cazzo](https://www.youtube.com/watch?v=CM-6FJlYHI4)〉[^7]를 발표했다. Cazzo는 이탈리아어 욕설이다. 가사는 술김에 하룻밤의 온기를 나눈 후 후회하며 깨어난 한 소녀의 이야기다. '이 익숙하게 들리는 이야기는 매번 다른 도시에서 매일 밤 상연된다'[^31]. 녹음 날 그녀는 낡은 기타 한 대를 가져왔고, 연주하며 계속 줄을 튕기고 음정도 맞지 않았다. Tower가 생각을 바꿔, 잡음과 환경음을 그대로 녹음에 담고, 거기에 이탈리아 고전 영화 샘플을 섞었다[^31]. 이것이 그녀의 첫 정규 앨범 전체의 로파이 미학의 기점이 되었다.
+
+예명 '?te'를 이어 읽으면 white와 발음이 비슷하다. 중국어 '壞特'는 상하이어에서 '완전히 망가졌다'는 뜻이다. 그녀는 처음에 황쉬안(YELLOW)과 〈Cazzo〉 협업을 원했다. '그의 이름이 yellow니까, 나도 색깔 하나 하려고'[^16].
+
+몇 달 뒤, 두 번째 곡 〈[잠이 오지 않아 Insomnia](https://www.youtube.com/watch?v=vYn5imzO1PE)〉가 발표된 주에 스트리트보이스(StreetVoice) 차트 1위를 차지했고, 두 달 만에 유튜브 조회수 20만을 돌파했다[^8]. 가사는 새벽 5시 불면증으로 누군가를 떠올리는 내용을 담고 있으며, 후렴구에서는 알파벳 순서로 여섯 명의 소울 디바의 이름을 부르며 그들에게 경의를 표한다: 아레사 프랭클린, 빌리 홀리데이, 차카 칸, 더피, 엘라 피츠제럴드, 퍼기[^8]. 그녀는 자신이 평생 들어온 청각의 역사를 이 곡에 그대로 써넣었다.
+
+2020년 7월 31일 그녀는 첫 정규 앨범 《A Bedroom of One's Own》(한 사람의 침실)을 발표했고, 8월 28일 실물 음반을 출시했다[^9]. 앨범 제목은 울프의 《A Room of One's Own》에서 빌려왔다. 앨범 전체가 Tower의 집에서 녹음되었으며, 녹음 중 Tower의 아이가 옆에서 뛰어다녔다. 첫 곡부터 첫 앨범까지, 그녀는 베드룸 미학의 아마추어적 감성을 온전히 보존했다[^9].
+
+그녀의 작곡 방식과 녹음실의 아마추어적 감성은 한 세트다: 휴대폰 보이스 메모로 언제든 악구를 녹음하고, 매달 한 번씩 쌓인 수십 개의 음원 파일을 정리해, Tower의 집에서 서너 시간 만에 한 곡을 완성해낸다[^7]. 영문 가사도 허공에서 나온 게 아니라, 그녀는 휴대폰으로 'how to name your lover', 'how to call your lover' 같은 검색어를 구글에 쳐서 긴 후보 리스트를 뽑아낸 뒤 한 줄 한 줄 시험해 부르며 가사를 쓴다[^7].
+
+> **📝 기획자 메모**
+> 그녀는 2019년부터 2020년까지 당대 많은 신세대 여성 R&B 창작자들이 걸었던 길을 걸었다: 직접 쓰고, 직접 부르고, 베드룸 수준의 제작, 리릭 비디오는 내지만 뮤직비디오는 내지 않고, 사운드클라우드와 스트리트보이스에 올린 뒤 KKBOX와 스포티파이로 진출했다. 그녀와 9m88, 데카 조인즈 보컬 정징루, 그리고 나중에 나온 [Hello Nico] 계열 창작자들은 사실 같은 인디 생태계의 다른 가지들이다. 같은 시기 조이(일본계 로파이 R&B 대표), 케시(한국계 텍사스 베드룸 팝 대표)의 글로벌 로파이 물결도 달아오르고 있었고, 타이완의 이 가지도 세계와 동시에 피어났다. [타이완 인디 음악](/ko/music/indie-music-scene)의 다가지 동시 개화 맥락을 참고할 수 있다.
+
+그녀는 병원 인턴십 마지막 몇 해 동안 〈Seh Ah Seh〉라는 곡도 썼다[^32]. Seh는 대만어 '踅'(세)의 로마자 표기로, '배회하다'는 뜻이다. 그녀는 병원 복도에서 '목적 없이 같은 일을 반복하며', 무료함 속에서 이 곡을 썼는데, 가사 표면상으로는 이주노동자가 퇴근 후 홀로 겪는 피로를 노래한다. 그녀는 인턴의 무료함을 이주노동자의 외로움으로 치환했다. 이 곡은 나중에 그녀가 금곡상 시상식에서 라이브로 부른 곡이 되었다[^32].
+
+그녀는 2020년부터 일부러 얼굴을 드러내지 않았다. 언론이 찍을 때 그녀는 큰 밀짚모자 + 선글라스를 착용했다. 그녀는 말했다:
+
+> **✦** '가수가 된 초기에 여전히 병원에서 인턴 중이어서, 음악 생활과 병원 생활을 분리하고 싶었다.'[^17]
+
+2021년 2월 거울주간의 미행 취재로 그녀의 진짜 얼굴이 드러났다. 그녀는 나중에 직접 페이스북에 안경 쓴 민낯 사진을 올렸다[^18]. 그녀의 대처 방식은: 정면으로 마주하는 것이었다.
+
+## 수술실에서 자신의 노래를 듣다
+
+그녀가 상을 받은 그 밤의 정체성은 순수 가수가 아니었다. 그녀는 의학과 7학년 유급생이자 인턴 의사였다.
+
+그녀는 나중에 인터뷰에서 한 장면을 말했다:
+
+> **✦** 「사실 전혀 없었다. 나는 심지어 수술실에서 주치의를 도울 때 내 노래를 듣기도 했다. 왜냐하면 기본적으로 병원에서는 모두 마스크를 쓰고 있고, 실습할 때 매달 과를 바꾸기도 하기 때문이다.」[^25]
+
+병원 방송에서 그녀의 노래가 나왔다. 그녀는 마스크를 쓴 채 주치의 옆에 서 있었다. 아무도 그녀를 알아보지 못했다.
+
+그녀는 인턴 의사 수련을 마치고 의학사 학위를 취득했다[^29]. 그녀는 정식 의사 길을 계속 걷지 않았다.
+
+수상 후 얼마 지나지 않아 인터넷상에서 '그녀에게 수술을 맡겨도 괜찮을까'라는 의문이 제기되기 시작했고, 그녀를 의사를 포기하고 꿈을 쫓는, 무책임한 의대생으로 묘사했다[^27].
+
+당시 그녀의 대답은 의학을 '3~6년 후 다시 돌아갈 수 있는' 옵션으로 남겨두는 것이었지만[^6], 음악의 초기 시기는 황금기라 놓칠 수 없었다.
+
+> **📝 기획자 노트**
+> '의사를 포기하고 예술을 택하다'는 중화권 사회에서 항상 한 차례 구세대적 논쟁을 불러일으킨다: 부모가 9년을 투자해 의학과에 보냈는데, 개인의 취미를 위해 포기해도 되는가? 이 논쟁의 맹점은 '의사'가 정체성의 최종 답이고 나머지는 모두 변덕이라고 전제한다는 데 있다. 와이테(壞特)가 진정으로 감동적인 점은 그녀가 전국민에게 '두려워하지 말라'고 말할 때, 그것은 타인이 이해하지 못할 결정임을 인정했다는 것이다. 그녀는 남들에게 가수가 되라고 권하지 않았고, 자신의 내면의 소리를 듣라고 권했다.
+
+## 천쥔하오와 한 과목을 수강하다
+
+금곡상 신인상을 받으면, 통상적으로 그녀는 주류로 진입했을 것이다: 대형 기획사와 계약하고, 예능 프로그램에 출연하고, 대형 콘서트를 열고, 조회수를 쌓는다. 그녀는 그렇게 했지만, 절반만 걸었다.
+
+2023년 6월 19일, 그녀는 소니 뮤직 타이완과 두 번째 앨범 《[Way out](https://www.youtube.com/playlist?list=PLMWGaRkAD1f6fiy__mOshbziceYeMY5Jr)》를 발매했으며, 천쥔하오가 공동 프로듀싱했고, 가수 훙페이위가 피처링으로 참여했다[^12]. 같은 해 그녀는 제14회 금음창작상 최우수 얼터너티브 팝 앨범상을 수상했다[^12]. 8월에는 제프 신베이에서 첫 개인 대형 단독 콘서트를 열었다[^13]. 금곡상 신인에서 금음상 수상자로, 베드룸에서 제프로, 겉보기엔 한 줄기 주류 궤적이다.
+
+하지만 실제 작업 과정은 그리 순탄하지 않았다. 그녀는 부드러운 재즈와 복고풍 사운드를 좋아했지만, 천쥔하오는 그녀가 돌파해 다른 스타일을 하길 바랐다. 두 사람은 녹음실에서 실랑이를 벌이다 그녀가 참지 못하고 물었다: "그냥 이 노래만 끝내면 안 될까?"[^33] 나중에 그녀는 이 밀고 당김을 자신의 과제로 삼았다. 그녀가 천쥔하오에게 말했다:
+
+> **✦** "오빠, 이건 제 인생의 과제예요, 저와 함께 수강해 주시겠어요?"[^33]
+
+천쥔하오는 웃으며 답했다: "좋아! 한번 해보자! 너 내 아들이랑 똑같네!"[^33]
+
+이 '수강' 대화는 두 번째 앨범 자체보다 더 기록할 가치가 있다. 어릴 적 아버지가 대신 원서를 써주고, 체제에 떠밀려 다니며, 선생님에게 "여자애가 반장 하지 마라"는 훈계를 들었던 그 소녀가, 처음으로 진정으로 '타인과 협상하는 법'을 배운 곳은 녹음실에서 중견 프로듀서와 실랑이를 벌이던 자리였다. 앨범 수록곡 〈[Morning Babe](https://www.youtube.com/watch?v=z6IS1VFxn_E)〉는 두 사람 협력의 구체적 결실이다——그녀는 천쥔하오의 추천으로 훙페이위를 찾아 듀엣을 요청했는데, "메조소프라노 음역에 알갱이 같은 질감을 가진 음색을 찾기 위해" 원래 독창 버전이었으나, 가사의 정서를 논의한 뒤 듀엣으로 변경했다[^34].
+
+## 바다 건너 전화기 너머의 붕괴
+
+2025년 12월 28일, 그녀는 세 번째 앨범 《[경계 Boundary](https://www.verse.com.tw/article/why-te-boundary)》를 발표했다[^14]. 이번엔 주류 노선을 걷지 않았고, 타이완 대형 기획사 제작자를 계속 찾지도 않았으며, 직접 A&R을 맡아 Spotify의 방대한 플레이리스트 속에서 바늘 찾기하듯 수백 통의 콜드 메일을 보냈다[^35].
+
+과정은 그녀가 예상한 것보다 힘들었다. 그녀는 감정 기복이 극심한 미국 음악인이 한밤중에 바다 건너 전화를 걸어 와 붕괴해 대성통곡하며 생활의 압박을 토로하는 일을 겪었고, '제작자'와 '심리 상담사' 두 정체성 사이에서 지친 채 전환을 강요당했다[^35]. 고집을 꺾지 않고 시차를 넘어 그녀와 줄다리기하는 협업 상대도 만났다. 그녀는 사후 그 시기에 배운 일을 이렇게 묘사했다:
+
+> **✦** "예전 나라면, 이런 마지못해 받아들이는 압력 아래에서 아마 '좋아 좋아'라고 말하고 그대로 따랐을 것이다."[^35]
+
+2년 동안 그녀는 11개국 음악인과 9곡을 완성했다: 일본 TENDRE의 〈Let Me Be Me〉, 런던의 나이지리아계 소울 가수 Steven Bamidele의 〈Won't Make that Mistake Again〉, 말레이시아 babychair의 〈Staying Up All Night〉, 그리고 브라질, 나이지리아, 독일, 이탈리아, 미국 출신과의 협업[^14].
+
+그녀는 직접 계약을 쓰고, 매니저와 기획을 겸하며, 과거 레이블에 맡겼던 일들을 하나하나 되찾아 직접 처리했다[^15].
+
+그녀는 OPENTIX 인터뷰에서 병원 인턴에서 전업 창작자로의 역할 변화를 이렇게 묘사했다:
+
+> **✦** "음악 창작자가 되기 전에는 선택지가 많지 않았다. 삶은 모두 정해진 일정이었다. 아침에는 병원에 출근하고 밤에는 당직을 서야 했다. 프리랜서가 된 이 3년 동안, 갑자기 모든 일을 스스로 결정해야만 했다."[^22]
+
+그녀는 또 다른 여정을 더 직접적으로 묘사했다:
+
+> **✦** "이 몇 년간, 나는 나만의 경계를 긋는 법, 거절하는 법, 불편함을 표현하는 법을 배워왔다. 나는 천천히 더 이상 피하지도, 그 작은 감정들을 쌓아두지도 않게 되었다."[^36]
+
+> **📝 기획자 노트**
+> 일반적으로 금곡상 신인의 궤적은 '갈수록 주류로': 첫 앨범은 인디, 두 번째는 대형 기획사, 세 번째는 대형 콘서트 축적이다. 그녀는 정반대였다: 두 번째 앨범에서 소니에 들어가 천쥔하오(陳君豪)에게 '수업'을 배우고, 세 번째 앨범에서 자율 제작으로 돌아와, 바다 건너 전화기 너머에서 붕괴한 미국 음악인에게 '나는 이렇게 하고 싶지 않다'고 말하는 법을 배웠다. 그녀가 첫 번째 일시정지 버튼을 누른 뒤, 모든 선택은 두 번째, 세 번째, 네 번째 일시정지 버튼을 누르는 것과 같았다.
+
+## 힙합계의 그 성별 논쟁
+
+수상 후, 그녀는 신곡만 내고 입장을 밝히지 않는 그런 금곡상 신인이 되지 않았다.
+
+2025년 1월 말부터 2월 중순까지, 타이완 힙합계에서 성별 여성혐오 논쟁이 터졌다. 2024년 11월 '89 교과서' 그룹이 발표한 〈사랑해 정말 안 돼〉로부터 번져 나갔다. 그 노래 후렴구 '나는 파라메라를 탔는데, 넌 아직 5678 싱글맘'이 더우인에서 대박이 나, 프로농구 치어리더들이 커버 댄스를 추며 싱글맘을 조롱하는 가사를 경기장 곳곳에 퍼뜨렸다[^37]. 1월 26일 이이(義義)가 인스타그램 스토리에 글을 올렸다: '힙합쟁이들 정신 차려라! 맨날 숭양매외만 하지 말고 타이완 시장 좀 제대로 봐라. 트래픽, 성적, 공연, 돈이 전부다'[^37]. 2월 1일 금약왕(禁藥王)과 대법(DAFAA)이 디스곡 〈이이 초사(義義初四)〉를 발표했는데, 공개 19시간 만에 조회수 65만을 돌파해 유튜브 음악 인기 차트 1위에 올랐다[^37]. 가사에는 '네 마누라 따먹고 네 식구 다 따먹는다' 식의, 여성을 남성 경쟁자 공격의 도구로 삼는 구절이 들어 있었다[^37].
+
+2월 4일 벽테(壞特)가 스레드에 글을 올려 처음으로 공개적으로 입장을 밝혔다:
+
+> **✦** "내게 이 두 곡은 모두 전통적인 남성 양강 문화로 가득 차 있어, 여자인 나로서는 정말 좋아할 수 없다."[^20]
+
+그녀는 이어서 한 대목을 덧붙였다:
+
+> **✦** "네가 계속 어떤 욕을 하든 아무도 너를 막을 수 없어, 그건 너의 '자유', 너의 '선택'이야. 그런데 욕설이란 거의 항상 상대적 약자를 향해 퍼붓는 거잖아."[^20]
+
+반격을 당한 뒤에도 그녀는 물러서지 않았고, 오히려 상대의 반격 자체를 자신의 논점을 뒷받침하는 증거로 삼았다:
+
+> **✦** "만약 힙합의 핵심 가치가 저항과 자기표현이라면, 내가 여자로서 성적 모욕 가사에 불편함을 느낀다는 의견을 냈는데 이토록 많은 반격과 더 많은 여성 모욕을 받는다니, 내가 옳은 일을 하고 있다는 걸 알겠다."[^33]
+
+그녀 편에 선 이들로는 같은 해 금곡상 가왕 단바오(蛋堡)와 중화권 R&B 가수 카렌시시(Karencici)도 있었지만, 두 사람은 '트래픽 대 창작'이라는 상업적 의문을 제기했을 뿐 성별 이슈 자체를 다루진 않았다. 단바오는 인스타그램 스토리에 '작품과 공연 자체로 얼마를 벌 수 있는지가 진짜 자랑할 거리다'라고 썼고[^33], 카렌시시는 '숫자는 다 가짜야, 음악이 주는 느낌이 진짜다'라고 썼다[^33].
+
+논쟁에서 가장 강력한 여성 반격자는 타이완대 힙합연구회 출신 래퍼 양수야(楊舒雅)였다. 2월 12일 그녀는 〈[Rule 男 Freestyle](https://www.youtube.com/watch?v=fYTSJyNsBfA)〉를 발표해 당일 스트리트보이스 종합 차트 1위에 올랐고, 24시간 만에 유튜브 조회수 10만을 넘겼다[^33]. 가사에는 'Real은 너희 여성혐오의 가림막이 아니야, 그래서 내가 와서 룰을 세우고 너희 그 태도를 다스리는 거야', '힙합이 아니야, 그냥 힙합 쇼비니즘일 뿐', '남자 입에서 나오는 여성 존중이란, 예산 일괄 삭감처럼 몇 퍼센트나 남을까' 같은 구절이 들어 있었다. 평론가 마스팡(馬世芳), 작가 황리췬(黃麗群), 이핑야오(李屏瑤)가 공개적으로 리트윗했고, 입법위원 황제(黃捷)가 소셜미디어에 'Respect!' 세 글자를 남겼다[^33]. 〈Rule 男 Freestyle〉은 나중에 2025년 금음창작상 최우수 힙합 노래 후보에 올랐다.
+
+벽테가 양수야의 신곡을 리트윗하며 한 마디 덧붙였다:
+
+> **✦** "성별과 억압받은 이들의 목소리를 이야기하는 것, 그것도 아주 힙합적인 일이 될 수 있다."[^33]
+
+논쟁 절정기는 약 3주간 지속되었지만, 구조적 여파는 연말까지 이어졌다. 재즈 비브라포니스트 데비 왕쓰야(Debby 王思雅)가 2025년 중반 여성 음악인 및 글작가 11명을 모아 '희류(嬉流) Sheflow' 프로젝트를 발족해, 공연과 워크숍 형식으로 트랜스젠더 포용 공간을 만들었는데, 라이브 세션 라인업에 양수야, 루이샤(RapShark), 데비 왕 본인이 편곡을 맡아 비브라폰을 연주했다[^38]. 블로우(Blow 吹音樂)의 2025년 연말 결산에서 이 논쟁을 그해 타이완 음악의 대표적 사건 중 하나로 꼽았다.
+
+> **📝 기획자 메모**
+> 소니에서 막 앨범을 내고, 금음상을 받고, 세 번째 앨범 전곡을 스스로 프로듀싱한 여성 가수가 동료의 작품을 공개 비판했다. 이는 타이완 힙합계에서 흔치 않은 일이다. 이 바닥의 암묵적 룰은 서로 건드리지 않는 것이기 때문이다. 그녀는 힙합계의 핵심 멤버가 아니다(그녀의 주된 작품은 로파이 R&B / 베드룸 팝 / 재즈다). 하지만 금곡상 신인 여성 창작자로서, 그녀는 그 선 위에 서기로 선택했다. 상대가 그녀를 더 많이 반격할수록, 그녀는 자신이 옳은 일을 하고 있음을 더 확신했다. 이는 초등학교 때 '월경은 입 밖에 내면 안 된다'고 일러주던 선생님에게서 배워 지금까지 계속 연마해 온 그녀의 반응 방식이다.
+
+## 소금 주파수: 2025-12-28 그날
+
+이 대립적인 선을 현장으로 끌어오면, 2025년 12월 28일 Zepp New Taipei다. 그녀는 거기서 《Whyte 2025 Live Concert Boundary》 단독 공연을 열었고, 처음으로 '여자 밴드' 형태로 공연했다[^15].
+
+그녀는 공연 전 Blow 불음악 인터뷰에서 자신이 하고 싶은 일을 이렇게 예고했다:
+
+> **✦** 「이 몇 년간 심신영(身心靈)을 꽤 많이 접해서, 염송(唱誦) 요소를 넣고, 차분한 주파수의 편곡에 집중하며, 약간의 록 느낌도 더하고, 이어서 모두가 익숙한 Chill Hop, Neo Soul도 있다.」[^39]
+
+> **✦** 「내 마음에서 불러내 진심으로 표현하고, 에너지를 전달할 수 있는 공연을 만들고 싶다. 전제는 내가 너무 피곤하지 않고, 너무 에너지를 쓰지 않는 것, 이것이 내가 계속 연습해 온 일이다.」[^39]
+
+그녀는 2024년 초 정이농 인터뷰에서 자신이 '와이테'라는 아티스트 정체성을 어떻게 보는지 설명했다[^40]:
+
+> **✦** 「그는 안경과 모자를 쓴 한 여자애, 이 인물이다. 내가 안경과 모자를 벗으면, 사실 나는 완전히 두 사람이다. 하지만 모두가 함께 이 사람을 돕고, 그는 하나의 이미지를 세워, 혹시 치유가 필요한 사람들에게 약간의 도움을 준다.」[^40]
+
+같은 인터뷰에서 정이농이 '모든 일을 스스로 통제할 수 있다는 걸 자각하기 시작한 뒤, 더 피곤해지지 않나?'라고 묻자 그녀가 답했다[^40]:
+
+> **✦** 「처음엔 피곤한 것 말고도 두려움이 있었다. ⋯⋯ 처음엔 네가 뭘 원하는지 모르니까, 소통할 때 상대도 네가 뭘 원하는지 모른다. 그럼 너는 상대가 자기들 말을 들어야 하는 것 같고, 혹은 ⋯⋯ 그냥 내가 틀린 것 같다는 느낌이 든다. 하지만 천천히 조금씩 연습한 뒤, 나는 네가 점점 더 자신감을 갖게 된다고 느낀다. 그것은 자신감이 생기는 과정이고, 너는 너 자신이 누구인지 더 확실히 알게 된다. 하지만 소통할 때 너는 상대가 꽤 사나워 보이지만, 너는 더 이상 두렵지 않다는 걸 느낀다.」[^40]
+
+그녀가 자신의 창작을 해석한 것도 같은 인터뷰에서 말했다:
+
+> **✦** 「내 해석으로는, 내가 여러 방을 만든 것 같다. 모두가 제각각 들어와 편안하게 누워 쉴 수 있는 방들. 이것이 내가 내 작품에 내린 정의다.」[^40]
+
+12월 28일 그 공연은 2026년 4월까지 인터넷에 정식 악평이 실리지 않았고, 공연 당일의 세트리스트도 정식으로 정리되지 않았다. 확실한 건: 그것은 그녀가 세 번째, 네 번째 일시정지 버튼을 누른 뒤, 소금 주파수, 염송, Neo Soul, 여자 밴드 등 2년간 천천히 익힌 것들을 한 무대 위에 동시에 올린 밤이었다.
+
+> **📝 기획자 노트**
+> 「차분한 주파수의 편곡」, 「너무 피곤하지 않고, 너무 에너지를 쓰지 않는 것」이라는 구절들은 타이완 2020년대 후반 대중음악의 맥락에서 읽어볼 만하다. 이 몇 마디는 기술적 설명처럼 들리지만, 뒤에는 31살, 막 「나는 이렇게 하고 싶지 않아」라고 말하는 법을 배운 사람이 자신의 무대에 제시한 설계 요구가 있다. 이 선은 그녀가 초등학교 때 「월경은 말하면 안 돼」, 신주여중 때 「공부는 여자애 취급당하지 않기 위해서」였던 그 시절과 같은 뿌리다. 일시정지 버튼을 누른 뒤, 그녀가 하는 일은 이미 곡 고르기와 프로듀서 고르기를 넘어섰다; 그녀는 「공연 에너지가 어떤 모습이어야 하는가」를 재정의하고 있다.
+
+## 그녀는 그 문을 완전히 닫지 않았다
+
+2026년에도 그녀는 곡을 발표하고, 공연을 하고, 낯선 이들에게 직접 편지를 보낸다. 그녀는 의사 자격을 완전히 포기하지 않았다. 「3~6년 뒤엔 다시 돌아갈지도 모른다」고 말했다[^6]. 그녀는 그 문을 완전히 닫지 않았다.
+
+「아버지가 대신 원서를 써준 여학생」에서 「낯선 외국 음악가들의 제작자에게 직접 수백 통의 편지를 부친 제작자」까지, 이는 같은 사람의 양극단이다. 가장 결정적인 순간은 3학년 때 열린 학생 회의 현장에서 일어났다: 그녀가 **앉아 말없이 있다가, 자신이 줄곧 학교에만 있었음을 문득 깨달은** 그 순간. 그녀는 그 때문에 자퇴하고 세계여행을 떠나지도, 다큐멘터리를 찍지도, 책을 쓰지도 않았다. 그녀는 카페에서 음료를 만들고, 케이크 가게에서 케이크를 자르고, 녹음실에서 도시락을 샀다. 그 녹음실 구석에서 그녀는 이치셴(李琪賢) 선생을 만났다. 이후 몇 년간 그녀는 〈잠이 오지 않아(睡不著)〉, 〈Seh Ah Seh〉, 〈Cazzo〉를 썼다.
+
+그녀는 「내가 왜 노래를 쓰는가」라고 큰소리로 말한 적이 없다. 그녀가 말한 건 단 한 마디뿐이다:
+
+> **✦** 「내 감정을 제대로 직시해야 해, 내 안의 아이를 돌볼 방법을 찾아야 해.」[^28]
+
+의대생 시절 몇 년간, 그녀는 병동 당직을 서며 감정이 뒤섞인 채로 지냈고, 노래를 쓰며 그 감정들을 털어냈다[^30]. 그녀는 「의사를 버리고 문예로 갔다」는 식이 아니었다. 한 길이 주지 못한 것을 다른 길로 받아낸 것이다.
+
+그녀가 금곡상 시상식 객석을 향해 「두려워하지 마세요」라고 말했을 때, 객석의 많은 이들은 아마 그대로 하지 못했을 것이다. 타이완의 우등생 코스는 너무 안정적이라, 일시정지 버튼을 누르는 건 너무 위험해 보인다. 전체 체제가 일시정지 버튼을 깊숙이 숨겨놨기에, 그것을 찾아내 누르고, 이후 몇 년간 가족과 친구들의 불이해를 견뎌내는 건 힘이 드는 일이다. 그녀는 해냈다. 그리고 의사의 길로 돌아가지 않았다. 그리고 음악 일도 직업처럼 경영하지 않았다. 그녀는 그저 계속 노래를 쓰고 싶을 뿐이라고 말했다.
+
+> 「이미 일본 저욕망 세대가 됐어, 그저 계속 노래를 쓸 수만 있으면 좋겠어.」[^28]
+
+## 더 읽어보기
+
+- [타이완 인디 음악](/ko/music/indie-music-scene) — 2019~2020년 동시대 생태계에서의 베드룸 팝 / 로파이 R&B
+- [타이완 힙합과 랩의 발전](/ko/music/taiwan-hip-hop-and-rap) — 그녀가 크로스오버 지지와 She Vibes 주최로 벌인 2025년 여성혐오 논쟁, 타이완 랩 40년의 맥락에 되돌려 보다
+- [전부첸](/ko/people/hebe-tien-singer) — 같은 회 제32회 금곡상 최우수 여자 가수상 수상자, 데뷔 19회 차이의 두 끝
+- [천젠치](/ko/people/chen-chien-chi-music-producer) — 동시대 화어 팝 음악 프로듀서 계보의 또 다른 계열
 
 ---
 
-## "Cazzo" and _A Bedroom of One's Own_
+## 참고 자료
 
-Her first song was not planned out.
+[^1]: [와이테 — 위키백과](https://zh.wikipedia.org/zh-tw/%E5%A3%9E%E7%89%B9) — 본명 린즈이(林芝儀), 1994년 6월 19일 신주시 샹산구 출생.
 
-At some point, she joined the NTU Jazz Society and met senior student Tower da Funkmasta (Tao Yiqun)[^29]. She sent a demo to Tower inviting him to perform, but Tower didn't respond, and those files lay in his hard drive for a while. Later, Tower reopened them, looked for her again to make an album.
+[^2]: [와이테 — 위키백과](https://zh.wikipedia.org/zh-tw/%E5%A3%9E%E7%89%B9) — 국립 신주 여자 고급 중학교 졸업.
 
-On June 28, 2019, she released her first song "[Cazzo](https://www.youtube.com/watch?v=CM-6FJlYHI4)" under the name "?te" on the ChynaHouse label and YouTube[^7]. Cazzo is an Italian swear word. The lyrics describe a girl waking up and regretting the warmth of a night based on alcohol, "this familiar story, played out every night in different cities"[^31]. On the day of recording, she brought an old guitar, constantly hitting the strings while playing, and the pitch was not accurate. Tower had a change of heart, directly incorporating the noise and ambient sounds into the recording, and mixing in samples from old Italian movies[^31]. This was the starting point of her entire debut album's lo-fi aesthetic.
+[^3]: [금곡 신인 와이테의 추몽로》 아빠가 대리 지원해 의학원 진학 — 금주간](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — 아버지가 대학 지원 카드를 대리 작성해 결국 국방의학원 의학과에 진학; 교차 검증: [디지털 시대 전재](https://www.bnext.com.tw/article/64713/golden-best-new-why-te) + [위키백과](https://zh.wikipedia.org/zh-tw/%E5%A3%9E%E7%89%B9).
 
-The stage name "?te" sounds like "white" when connected; the Chinese "Whyte" (Huaitè) means "terribly bad" in Shanghainese. She originally wanted to collaborate with Huang Xuan (YELLOW) on "Cazzo," "his name is yellow, I'll come with a color"[^16].
+[^4]: [손에 마이크, 그리고 수술칼을 든 슬래시 금곡상 신인 와이테(린즈이) — 104 박수](https://blog.104.com.tw/104bravo-singer-whytetete/) — 대학 2학년 마치고 1년 휴학, 학생회 회의 중 갑자기 불안감 느껴 '계속 학교에만 있는 것 같아'라고 느껴 휴학 결정; 부모 반대에도 불구하고 휴학 강행.
 
-A few months later, the second song "[Insomnia](https://www.youtube.com/watch?v=vYn5imzO1PE)" became the StreetVoice chart champion the week it was released, accumulating 200,000 views on YouTube within two months[^8]. The lyrics describe insomnia at 5 AM thinking of someone, with the chorus singing the names of six soul singers in alphabetical order to pay tribute to them: Aretha Franklin, Billie Holiday, Chaka Khan, Duffy, Ella Fitzgerald, Fergie[^8]. She wrote her auditory history directly into this song.
+[^5]: [금곡 신인 와이테 — 금주간](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — 휴학하던 해 '아침엔 카페에서 음료 만들고, 오후엔 케이크 가게에서 케이크 자르고, 저녁엔 녹음실에서 심부름으로 도시락 사다 나르기' 하루 세 알바 뛰던 원문 그대로.
 
-On July 31, 2020, she released her first full-length album _A Bedroom of One's Own_ (A Bedroom of One's Own), and released the physical version on August 28[^9]. The album title borrows from Woolf's _A Room of One's Own_. The entire album was recorded at Tower's home, with Tower's children running around nearby during recording. From the first song to the first album, she fully retained the amateur feel of the bedroom aesthetic[^9].
+[^6]: [의학과 9년 다닌 금곡 신인 — 중시신문망 2021-08-25](https://www.chinatimes.com/newspapers/20210825000564-260112) — ⚠️ 링크 현재 403(중시 안티봇); 수상 당시 매체에서 '준의사'란 말로 갓 졸업/실습 중 신분 지칭. 의사 국시 구조(의사(1)+의사(2))와 와이테 실제 통과 단계는 [^29] 금주간 원문 '의학과 총 9년 다님' + '실습의사 훈련 완료, 의학사 학위 취득' 기준, 2차 국시 통과 여부 명확히 기록된 소스 없음.
 
-Her songwriting method matches the amateur feel of the recording studio: voice memos on her phone record phrases at any time, organized once a month accumulating dozens of audio files, and in three to four hours at Tower's house, she had to piece together a song[^7]. Her English lyrics were not written out of thin air; she would Google strings like "how to name your lover" or "how to call your lover" on her phone,捞 a long list of candidate words back to try singing line by line[^7].
+[^7]: [모자 쓰고 진짜 박수 받다 — 전문 인터뷰 와이테 — BIOS monthly](https://www.biosmonthly.com/article/10301) — 2019년 6월 28일 화풍 디지털 ChynaHouse 레이블과 유튜브에 첫 싱글 〈Cazzo〉(이탈리아 욕설에서 따옴) 발표; 휴학 전 답답함 '젠장, 이렇게 살다간 서른 살 되겠네' 원문 그대로; 유튜브 공식 리릭 비디오: https://www.youtube.com/watch?v=CM-6FJlYHI4
 
-> **📝 Curator's Note**
-> What she did from 2019 to 2020 was a path that many new generation female R&B creators of her generation had walked: writing herself, singing herself, bedroom-level production, releasing lyric videos instead of MVs, releasing on SoundCloud and StreetVoice before going to KKBOX and Spotify. She is on a different branch of the same indie ecosystem as 9m88, Zheng Jingru (deca joins), and later [Hello Nico] creators. The global lo-fi wave was also heating up with Joji (Japanese lo-fi R&B representative) and keshi (Korean Texas bedroom pop representative) at the same time. This Taiwan branch bloomed simultaneously with the global. Refer to the context of [Taiwan Independent Music](/ko/music/indie-music-scene) where multiple branches bloom simultaneously.
+[^8]: [BIOS monthly 전문 인터뷰](https://www.biosmonthly.com/article/10301) — 〈잠 못 들어 Insomnia〉 발표 당주 스트리트보이스 차트 1위, 두 달 만에 유튜브 누적 20만 조회; 유튜브 공식 리릭 비디오: https://www.youtube.com/watch?v=vYn5imzO1PE
 
-In the last few years of her hospital internship, she also wrote a song called "Seh Ah Seh"[^32]. "Seh" is the romanization of the Taiwanese word "xué" (wander). She wrote this song out of boredom while "aimlessly doing the same work" in the hospital corridors, but the lyrics superficially talk about the fatigue of migrant workers alone after work. She turned the boredom of an intern into the loneliness of a migrant worker. This song later became the track she performed live at the Golden Melody Awards[^32].
+[^9]: [와이테 / 첫 앨범 A Bedroom of One's Own — 북클레](https://www.books.com.tw/products/0020218409) — 2020년 7월 31일 디지털, 8월 28일 실물; 레이블 화풍 디지털; 앨범명 버지니아 울프 《자기만의 방》에서 차용; 프로듀서 Tower da Funkmasta(타오이췬) 집에서 녹음; 교차 검증: [BIOS monthly](https://www.biosmonthly.com/article/10301).
 
-She deliberately avoided showing her face starting from 2020. When the media photographed her, she wore a large straw hat and sunglasses. She said:
+[^10]: [제32회 금곡상 — 위키백과](https://zh.wikipedia.org/zh-tw/%E7%AC%AC32%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — 2021년 8월 21일 제32회 금곡상, 와이테 최우수 신인상 수상; 같은 회 전복희 최우수 중국어 여가수상, 단보 최우수 중국어 남가수상, 상부이 올해의 앨범상 수상.
 
-> **✦** "When I first became a singer, I was still interning in the hospital. I wanted to separate music from hospital life."[^17]
+[^11]: [와이테 최우수 신인상 수상 감성 공유 의학원 휴학이 인생 바꿨다 — 중앙사 2021-08-21](https://www.cna.com.tw/news/firstnews/202108215012.aspx) — 제32회 금곡상 수상 소감 '난 체제 안에서 끊임없이 앞만 보고 달리던 학생이었어··· 제발 두려워하지 마' 원문 그대로.
 
-In February 2021, Mirror Media followed her and revealed her true face. She later posted a素颜 photo with glasses on Facebook to make it public[^18]. Her handling method was: face it directly.
+[^12]: [Whyte / Way out — 소니 뮤직 대만 공식 사이트](https://sonymusic.com.tw/album/whyte-way-out/) — 두 번째 앨범 《Way out》 2023년 6월 19일 디지털, 8월 1일 실물; 프로듀서 천쥔하오 공동 제작; 게스트 가수 홍페이위 포함; 같은 해 제14회 금음창작상 최우수 얼터너티브 팝 앨범상 수상; 유튜브 공식 플레이리스트: https://www.youtube.com/playlist?list=PLMWGaRkAD1f6fiy__mOshbziceYeMY5Jr
 
----
+[^13]: [2023 와이테 라이브 콘서트 Zepp New Taipei — Klook](https://www.klook.com/zh-TW/event-detail/101017395-2023-whyte-live-concert-zepp/) — 2023년 8월 11일 개인 첫 대형 단독 콘서트 Zepp New Taipei에서 개최.
 
-## Hearing Her Own Song in the Operating Room
+[^14]: [와이테 새 앨범 《경계 Boundary》 — VERSE](https://www.verse.com.tw/article/why-te-boundary) — 세 번째 앨범 《경계 Boundary》 2025년 12월 28일 유니버설 뮤직 발매; 직접 기획 주도, 백여 통 낯선 콜드 메일 보내 브라질, 나이지리아, 독일, 이탈리아, 미국 등 11개국 음악인과 9곡 완성(일본 TENDRE, 런던 나이지리아계 소울 가수 스티븐 바미델레, 말레이시아 babychair 포함); 2년간 '자기 치유 보고서'.
 
-Her identity that night she won the award was not just a singer. She was a medical student in her seventh year of delayed graduation + an intern physician.
+[^15]: [Whyte 2025 라이브 콘서트 Boundary — 티켓크래프트](https://tixcraft.com/activity/detail/25_whyte) — 2025년 12월 28일 같은 날 Zepp New Taipei에서 《Whyte 2025 라이브 콘서트 Boundary》 단독 공연 개최, 최초로 '여성 밴드' 형태로 공연.
 
-She later said a scene in an interview:
+[^16]: [신비한 매력으로 팬들을 사로잡다 — DailyView](https://dailyview.tw/popular/detail/11455) — 예명 유래: ?=why, ?te가 결합해 white와 발음이 비슷함; 중국어 '壞特'는 상하이어 '壞透了(완전히 망가졌다)'라는 뜻; 〈Cazzo〉는 원래 YELLOW 황쉬안과 협업하려 했던 이유 '그의 이름이 yellow라 나도 색깔 하나 하려 했다'(보도 자료에 따름).
 
-> **✦** "Really not, I even listened to my own song while assisting the attending physician in the operating room. Because basically in the hospital we wear masks, and during internship we change departments once a month."[^25]
+[^17]: [DailyView](https://dailyview.tw/popular/detail/11455) — + [미청품 7가지 작은 비밀](https://meet.eslite.com/tw/tc/article/202210250001) — 얼굴을 드러내지 않는 이유: 가수가 되었을 때 여전히 병원에서 실습 중이었음, '음악과 병원 생활을 분리하고 싶었다'; 표준 차림은 넓은 챙 밀짚모자 + 선글라스
 
-The hospital broadcast played her song. She stood next to the attending physician wearing a mask. No one recognized her.
+[^18]: [신비한 여가수의 외모 공개 — 거울주간 단독 2021-02-05](https://www.mirrormedia.mg/story/20210205ent013) — 거울주간이 뒤쫓아 취재해 실제 외모를 폭로했고, 이후 그녀가 직접 페이스북에 안경 쓴 민낯 사진을 공개했다.
 
-She completed her intern physician training and obtained a Bachelor of Medicine degree[^29]. She did not continue on the path to become a formal physician.
+[^20]: [힙합 성별 여성혐오 논쟁 — Wazaiii](https://www.wazaiii.com/articles?id=music-hip-hop-misogyny-discussion) — 2025년 초, 이이파라멜라, 금약왕 등과 벌인 힙합 성별 여성혐오 논쟁; ?te는 소셜 미디어에 '저에게 이 두 곡 모두 전통적인 남성 양강 문화로 가득 차 있어, 여자인 저로서는 정말 좋아할 수 없다'고 밝혔다.
 
-Shortly after winning the award, questions began to appear online asking "Are you confident letting her perform surgery?", describing her as a medical student who abandoned medicine for dreams and was irresponsible[^27].
+[^22]: [방에서 나와 자유로운 마음으로 삶을 맞서다 — OPENTIX 양청원 문화생활](https://www.opentix.life/article/1684083589215281153) — 전업 창작자가 된 후 역할 변화에 대한 원문: '음악 창작자가 되기 전…… 프리랜서로 지낸 이 3년 동안, 갑자기 모든 일을 스스로 결정해야만 했다'.
 
-Her response at the time was to keep medicine as an option to "go back in 3 to 6 years"[^6], but the early stage of music is a golden period and cannot be missed.
+[^24]: [BIOS monthly](https://www.biosmonthly.com/article/10301) — + [금주간](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — 어린 시절 집에는 세 아이가 있어 경제적 압박이 있었고, 부모님이 피아노 레슨비를 감당 못 해 대형 마트에서 전자 키보드를 샀는데, 액정 화면에 악보가 떠 있어 선생님 없이 독학으로 《미뉴에트》를 익혔다.
 
-> **📝 Curator's Note**
-> "Abandoning medicine for literature" always triggers a round of old-fashioned discussion in the Chinese-speaking world: Your parents invested 9 years letting you study medicine, should you give up for personal interest? The blind spot of this discussion lies in the fact that it presupposes that "physician" is the final answer to identity, and everything else is capricious. What makes Whyte truly moving is that when she said "please don't be afraid" to the nation, she admitted it was a decision others wouldn't understand. She didn't advise others to become singers, she advised others to listen to themselves.
+[^25]: [의대생에서 금곡상 신인, 그리고 인디 싱어송라이터로 — HEAVEN RAVEN 인터뷰](https://www.heavenraven.com/2023/05/15/whyte-music-interview/) — '심지어 수술실에서 주치의를 도울 때 내 노래를 들은 적도 있다. 기본적으로 병원에서는 마스크를 쓰고 있고, 실습할 때 매달 과가 바뀌기 때문이다'라는 본인의 말.
 
----
+[^26]: [전복희 — 위키백과](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — 전복희는 《무인지지(無人知曉)》로 제32회 금곡상 최우수 중국어 여자 가수상을 수상함; [전복희 기사](/ko/people/hebe-tien-singer) 참조.
 
-## Taking a Class with Chen Junhao
+[^27]: [예비 의사 ?te 벽테 금장식, 대만대 교수 비난 — 쉬싱원](https://stars.udn.com/star/story/10092/5694350) — ⚠️ 링크 현재 404; 2021년 수상 후 인터넷에 대만대 의학원 교수 명의의 '그녀에게 수술을 맡겨도 안심인가'라는 의혹 글이 한때 유포되었으나, 원본 출처는 더 이상 추적할 수 없음. 본 항목 감사 시 '인터넷에 의혹이 제기됨'으로 개괄 서술로 격하했으며, 특정 교수 명의로 귀속하지 않음.
 
-Winning the Golden Melody Newcomer award, by normal logic, she would enter the mainstream: sign with a major label, appear on variety shows, hold large concerts, accumulate traffic. She did walk this path, but only halfway.
+[^28]: [금곡상 신인 벽테 ?te의 신비한 베일을 벗다 — 미청품 2021](https://meet.eslite.com/tw/tc/article/202108310004) — 수상 후 심경에 대해 '이미 일본 저욕망 세대가 되었으니, 그저 계속 곡을 쓸 수 있으면 좋겠다'는 본인 발언; 가장 깊은 동기에 대해 '내 감정을 제대로 직면해야 하고, 내 안의 아이를 돌볼 방법을 찾아야 한다'는 본인 발언을 그대로 인용.
 
-On June 19, 2023, she released her second album "[Way out](https://www.youtube.com/playlist?list=PLMWGaRkAD1f6fiy__mOshbziceYeMY5Jr)" with Sony Music Taiwan, co-produced by Chen Junhao, with guests including singer Hong Peiyu[^12]. That same year, she won the Best Alternative Pop Album Award at the 14th Golden Indie Music Awards[^12]. In August, she held her first solo large-scale ticketed concert at Zepp New Taipei[^13]. From Golden Melody Newcomer to Golden Indie Winner, from bedroom to Zepp, it looks like a mainstream track.
+[^29]: [금주간 2021](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — + [BIOS monthly 인터뷰](https://www.biosmonthly.com/article/10301) — 어린 시절 가정의 소리 풍경: 아버지는 옹리우(翁立友)를 틀고, 어머니는 천수화(陳淑樺)를 들었으며, 그녀는 CD 플레이어에 붙어 장학우(張學友)와 주화건(周華健)을 들었다; 전자 키보드 독학으로 《카논》과 《미뉴에트》 두 곡을 익힘; '그때 저는 아주 어렸지만 모든 음을 기억해 낼 수 있었고 불러낼 수 있었다'는 본인 발언; 그녀는 한동안 대만대 재즈 동아리에 참여해 Tower(도이췬, 陶逸群)를 알게 되었음(원문: '대만대 재즈 동아리에 와서 음악 하는 선배 Tower 도이췬을 알게 되었다' — [마스팡 Medium 인터뷰](https://medium.com/@mashifang/whyte-and-tower-da-funkmasta-9561dd633ed) 참조).
 
-But the actual work process was not so smooth. She likes the soft sound of jazz and retro sounds, while Chen Junhao wanted her to break through and do a different style. The two pulled back and forth in the recording studio until she couldn't help but ask: "Or should we just finish this song and call it a day?"[^33] Later, she turned this push-pull into her own lesson. She said to Chen Junhao:
+[^30]: [104 박수: 마이크도 잡고 메스도 잡은 슬래시 금곡상 신인 ?te 벽테](https://blog.104.com.tw/104bravo-singer-whytetete/) — 기타 입문 선생 이치셴(李琪賢) '원리부터 가르치며, 음악을 듣게 하고, 카피하고, 귀와 손가락 기술을 연습시켰다'는 본인 발언; 이치셴이 그녀에게 프랑스 재즈 여가수 시릴 에이메(Cyrille Aimée)와 영국 소울 디바 아델(Adele)을 소개해줌; 벽테가 슬럼프 때 이치셴에게 메시지로 '살아있는 게 무슨 의미야?'라고 물었고, 수상 후 이치셴이 '다행히 그때 극단적 생각을 안 했네, 아니면 오늘의 벽테도 없었을 거야, 인생 재밌다!'라고 답함(본인 발언 그대로); '과거 병원 당직 때 에너지가 혼돈스러웠는데, 그녀는 곡을 쓰며 그런 감정들을 해소했다'는 기자 서술(벽테 직접 인용 아님).
 
-> **✦** "Brother, this is my life's lesson, are you willing to take it with me?"[^33]
+[^31]: [〈Cazzo〉 스트리트보이스(StreetVoice) 곡 페이지](https://streetvoice.com/whytetete/songs/585514/) — + [BIOS monthly](https://www.biosmonthly.com/article/10301) — 〈Cazzo〉 가사 '이야기는 이탈리아에서 벌어지며, 소녀가 깨어나 술기운에 하룻밤의 온기를 후회하기 시작한다'는 공식 설명; 녹음 현장 '벽테가 낡은 기타 한 대를 가져와 연주할 때 계속 현을 치고 음도 정확하지 않았다. Tower가 생각을 바꿔 로파이(Lo-fi) 사고로 잡음과 환경음을 녹음에 녹여냈다'는 본인 발언 그대로; 그녀는 시릴 에이메(Cyrille Aimée)와 디에고 피게이레도(Diego Figueiredo) 버전의 〈Just the Two of Us〉를 커버한 적 있음.
 
-Chen Junhao smiled and replied: "Okay! Let's try! You are like my son!"[^33]
+[^32]: [〈Seh Ah Seh〉 — 사운드스케이프(Soundscape) 재전(在田) 발매](https://www.soundscape.net/a/10610) — + [금주간](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — Seh는 대만어 '踅(세, 배회하다)'의 로마자 표기; 그녀가 병원 실습 때 '목적 없이 같은 일을 반복하며, 지루함 속에서 쓴 창작물'이라는 기자 서술; 가사는 이주노동자가 퇴근 후 느끼는 외로움과 피로를 묘사; 2021년 금곡상 시상식에서 그녀가 라이브로 부른 곡.
 
-This "taking a class" conversation is more worth remembering than the second album itself. The girl who was told by her father to fill out the application, pushed by the system to run, and told by the teacher "girls shouldn't be class monitors," learned to "negotiate with another person" for the first time in the recording studio, pulling back and forth with a mid-generation producer. "Morning Babe" in the album is the concrete result of their collaboration—she found Hong Peiyu to duet under Chen Junhao's recommendation, "to find a mid-range, granular vocal line for duet," originally a solo version, changed to a duet after discussing the lyrical意境[^34].
+[^33]: [LINE TODAY 단독 인터뷰 — 벽테 천쥔하오(陳君豪)](https://today.line.me/tw/v2/article/penQkEe) — 두 사람이 스튜디오에서 실랑이 끝에 '그냥 이 곡만 끝내면 안 될까?'라는 본인 발언; 벽테가 천쥔하오에게 '오빠, 이건 내 인생의 과제야, 나랑 같이 풀어볼래?'라고 물었고, 천쥔하오가 '좋아! 한번 해보자! 너 내 아들이랑 비슷하네!'라고 답함(본인 발언 그대로).
 
----
+[^34]: [Madame Figaro Hong Kong 壞特 2023 홍콩 콘서트 인터뷰](https://www.madamefigaro.hk/art/%E8%87%BA%E7%81%A3%E5%94%B1%E4%BD%9C%E6%AD%8C%E6%89%8B-%E5%A3%9E%E7%89%B9te-%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%83-156927/) — 〈Morning Babe〉feat. 홍페이위의 협업 인연: 「군하오의 추천으로 페이위를 알게 되었는데, 우리가 중음의 알갱이감이 있는 음색을 가진 사람을 찾고 있었기 때문」 전문; 「당초에는 독창으로 선보일 예정이었으나, 나중에 이 곡의 가사와 곡의 의경을 논의한 후 듀엣으로 바꾸기로 결정했다」 전문.
 
-## The Breakdown on the Other Side of the Transoceanic Call
+[^35]: [壞特 ?te 새 앨범 《경계 Boundary》— VERSE](https://www.verse.com.tw/article/why-te-boundary) — Boundary 제작 방식 「그녀는 중화권 음악계의 관행인 『외주 제작』이라는 안전한 길을 가지 않고, 스스로 주도권을 되찾아 A&R을 맡아⋯⋯ Spotify의 방대한 플레이리스트 속에서 바늘 찾기를 했다」 전문; 「그녀는 극도로 감정적인 미국 음악인을 만나, 심야에 국제전화를 걸어와 무너져 울던」 장면; 「예전의 나라면, 이런 반강요적인 압력 아래 아마 『좋아좋아』라고 말하고 그대로 따랐을 것이다」 원문.
 
-On December 28, 2025, she released her third album "[Boundary](https://www.verse.com.tw/article/why-te-boundary)"[^14]. This time she didn't follow the mainstream route, didn't continue to find Taiwanese major label producers, took on A&R herself, fished in the vast playlists of Spotify, and sent out hundreds of cold emails[^35].
+[^36]: [壞特?te 인터뷰: 경계 설정하기 — 壹蘋新聞](https://news.nextapple.com/entertainment/20251217/8D96679497C6A94F9B4145E8EC4AE019) — 「이 몇 년 동안, 나는 나만의 경계를 설정하는 법, 거절하는 법, 불편함을 표현하는 법을 배워왔고, 나는 더 이상 그 작은 감정들을 회피하거나 쌓아두지 않게 되었다」 원문.
 
-The process was more tiring than she expected. She met an extremely emotionally unstable American musician who called transoceanically late at night to break down and cry, talking about life pressure, forcing her to switch exhaustedly between the identities of "producer" and "psychological counselor"[^35]. She also met collaborators who insisted on their own views and pulled back and forth with her across time zones. She later described what she learned during that time:
+[^37]: [壞特?te와 의의 파라멜라, 금약왕의 힙합 성별 여성혐오 논쟁 정리 — Wazaiii](https://www.wazaiii.com/articles?id=music-hip-hop-misogyny-discussion) — + [Blow 吹音樂 78907](https://blow.streetvoice.com/78907/) + [TNL 關鍵評論網 248785](https://www.thenewslens.com/article/248785) + [DailyView 28601](https://dailyview.tw/popular/detail/28601) — 〈너를 사랑하는 건 정말 안 돼〉 후렴 「나는 파라멜라를 탔는데, 너는 여전히 5678 싱글맘」과 틱톡 대박 / 치어리더 커버 댄스; 2025-01-26 의의 IG 스토리 「힙합 애들아 정신 차려라⋯⋯ 트래픽, 성적, 공연, 돈이 전부야」 전문; 2025-02-01 금약왕 + 대법 DAFAA 〈의의 초사〉 발매 19시간 65만 조회수로 유튜브 인기 급상승 1위; 논란 가사 「네 년을 따먹고 네 가족도 따먹는다」 전문
 
-> **✦** "If it were the old me, under this kind of semi-push pressure, I might have just said 'okay okay okay' and done it."[^35]
+[^38]: [Blow 吹音樂 2025 연말 결산](https://blow.streetvoice.com/86065/) — + [악사 둥지: 壞特, 양수아와 대만 힙합계 성별 여성혐오 논쟁](https://ysolife.com/taiwan-hip-hop-misogyny/) — 힙합 논쟁이 2025 대만 올해의 음악 사건으로 꼽힘; 희류 Sheflow 프로젝트는 재즈 철금 연주자 Debby 왕쓰야가 11명의 여성 음악인과 텍스트 작업자를 모아 2025년 중반에 시작, 공연과 워크숍 형태로 트랜스젠더 포용 공간을 조성, 라이브 세션 라인업에는 양수아, 랩샤크 RapShark 포함; 양수아 〈Rule 男 Freestyle〉 가사 전문 「Real은 네가 여성혐오를 가리는 무늬가 아니다」「힙합이 아니라, 그저 힙합 남성우월주의일 뿐」「남성 입에서 나오는 여성 존중, 예산 일괄 삭감처럼 몇 퍼센트나 될까」; 壞特 리트윗 덧붙임 「성별과 억압받은 이들의 목소리도 아주 힙합적인 일이 될 수 있다」 전문; 단바오와 Karencici IG 스토리 원문; 입법위원 황제 공개 지지 양수아 「Respect!」 세 글자 응답
 
-Over two years, she completed 9 songs with musicians from 11 countries: "Let Me Be Me" by Japanese TENDRE, "Won't Make that Mistake Again" by London-based Nigerian soul singer Steven Bamidele, "Staying Up All Night" by Malaysian babychair, plus collaborations from Brazil, Nigeria, Germany, Italy, and the United States[^14].
+[^39]: [염전 현일 같은 편곡 — Blow 吹音樂 85344](https://blow.streetvoice.com/85344/) — + [ETtoday 3085530](https://star.ettoday.net/news/3085530) — 2025-12-28 Zepp New Taipei 《Whyte 2025 Live Concert Boundary》 단독 공연 예고: 「이 몇 년간 심신영(마음·몸·영혼) 분야를 많이 접해서, 창송(唱誦) 요소를 넣고, 평온한 주파수에 초점을 맞춘 편곡을 하며, 약간의 록 느낌도 더하고, 이어서 모두가 익숙한 Chill Hop, Neo Soul」 전문; 「나는 내 마음 속에서 불러나와 진심으로 표현하고, 에너지를 전달할 수 있는 공연을 만들고 싶다, 전제는 내가 너무 피곤하지 않고, 너무 소모되지 않는 것, 이것이 내가 계속 연습해온 일이다」 전문
 
-She wrote the contracts herself, serving as both manager and planner, taking back one by one the things she used to hand over to the label[^15].
-
-In an interview with OPENTIX, she described the role transition from hospital intern to full-time creator:
-
-> **✦** "Before becoming a music creator, I didn't have many choices, life was all arranged things, morning you have to go to work in the hospital, evening you have to be on duty. During these 3 years as a freelancer, suddenly I have to make decisions for everything myself."[^22]
-
-Her description of another process is more direct:
-
-> **✦** "In these few years, I have been learning to set my own boundaries, learning to refuse, learning to express discomfort, I slowly no longer escape and accumulate those small emotions."[^36]
-
-> **📝 Curator's Note**
-> The track of a typical Golden Melody Newcomer is "going more mainstream": first album independent, second album to major label, third album accumulates large concerts. She is exactly the opposite: second album on Sony learned to "take a class" with Chen Junhao, third album returned to self-production, learned to say "I don't want this" to the breakdown American musician on the other side of the transoceanic call. After pressing the first pause button, every choice seems like pressing the second, third, and fourth pause buttons.
-
----
-
-## The Gender Misogyny Debate in the Hip Hop Circle
-
-After winning the award, she didn't become that kind of Golden Melody Newcomer who only releases new songs and doesn't take a stance.
-
-From late January to mid-February 2025, a gender misogyny debate broke out in the Taiwan hip hop circle, extending from the November 2024 release of "I Really Can't Help It" by the "89 Textbook" group. The chorus "I sit in a Panamera, you are still a 5678 single mom" went viral on Douyin, with basketball cheerleaders following along, singing the mockery of single moms all over the court[^37]. On January 26, Yi Yi posted on IG stories "Hip hop boys wake up! Always worshipping foreign things, look at the Taiwan market, traffic, results, performance, money is everything"[^37]. On February 1, Drug King and Da Fa DAFAA released the diss track "Yi Yi Chu Si", reaching 650,000 views in 19 hours on上架, topping the YouTube Music Hot List first[^37]. The lyrics include sentences like "f\*\*\* your wife and f\*\*\* your whole family", treating women as tools to attack male opponents[^37].
-
-On February 4, Whyte posted on Threads, taking a public stance for the first time:
-
-> **✦** "For me, these two songs are full of traditional masculine culture, as a girl, I really can't like them."[^20]
-
-She added a paragraph:
-
-> **✦** "You can continue to curse any swear words, no one can limit you, this is your 'freedom', your 'choice', and cursing swear words is almost always cursing a relatively weaker party."[^20]
-
-After being counter-attacked, she didn't retreat, but instead turned the opponent's counter-attack itself into evidence for her point:
-
-> **✦** "If the core value of hip hop is rebellion and self-expression, then my expression of discomfort with sexual humiliation lyrics as a girl, receiving so many counter-attacks and more humiliation towards women, I know I am doing the right thing."[^33]
-
-Standing on the same side with her were fellow Golden Melody Best Male Artist Doggy and Mandarin R&B singer Karencici, but the two focused on the commercial questioning of "traffic vs. creation", not the gender issue itself. Doggy wrote on IG stories: "How much you can earn from works and performances themselves is what is truly worth showing off."[^33] Karencici wrote: "Numbers are fake, the feeling music brings to people is real."[^33]
-
-The strongest female counter-attacker in the debate was rapper Yang Shuya, who came from the NTU Hip Hop Research Society. On February 12, she released "[Rule Man Freestyle](https://www.youtube.com/watch?v=fYTSJyNsBfA)", topping the StreetVoice General Chart on the same day, breaking 100,000 views on YouTube within 24 hours[^33]. The lyrics include "Real is not your fig leaf for misogyny, so I come to rule, govern your kind of attitude", "Not hip hop, just hip hop chauvinism", "Men's words of respecting women, like budget unified deletion discount". Critics Ma Shifang, writer Huang Liqun, and Li Pingyao publicly reposted, and legislator Huang Jie left the three words "Respect!" on social media[^33]. "Rule Man Freestyle" was later nominated for Best Hip Hop Song at the 2025 Golden Indie Music Awards.
-
-When Whyte reposted Yang Shuya's new song, she added:
-
-> **✦** "Talking about gender and the voice of the oppressed can also be a very hip hop thing."[^33]
-
-The peak of the debate lasted about three weeks, but the structural follow-up extended to the end of the year. Jazz vibraphonist Debby Wang Siya gathered 11 female musicians and writers in mid-2025, initiating the "Sheflow" project, creating a cross-gender inclusive space in the form of performances plus workshops, with a live session lineup including Yang Shuya, RapShark, and Debby Wang herself arranging and playing the vibraphone[^38]. Blow Music's 2025 Year-in-Review listed this debate as one of the representative events of Taiwan music that year.
-
-> **📝 Curator's Note**
-> A female singer who just released an album on Sony, won the Golden Indie Award, and just handed over her third album to herself as producer, publicly criticizes peers' works. This is uncommon in the Taiwan hip hop circle, because the unspoken rule of this circle is that everyone does not step on each other. She is not a core member of the hip hop circle (her main works are lo-fi R&B / bedroom pop / jazz), but as a Golden Melody Newcomer female creator, she chose to stand on that line. The more opponents counter-attack her, the more she knows she is doing the right thing. This is the reaction method she learned from the teacher who told her "you cannot talk about periods" in elementary school and has practiced until now.
-
----
-
-## Salt Frequency: That Night on 2025-12-28
-
-Pulling this line of opposition to the scene, it is the Zepp New Taipei on December 28, 2025. She held the _Whyte 2025 Live Concert Boundary_ special there, performing for the first time in the form of a "female band"[^15].
-
-In an interview with Blow Music before the performance, she previewed what she wanted to do:
-
-> **✦** "In these few years, I have contacted a lot of mind-body-spirit things, so I will add chanting components, focusing on the arrangement of calm frequencies, and also a little bit of rock flavor, followed by everyone's familiar Chill Hop, Neo Soul."[^39]
-
-> **✦** "I hope to create a performance that sings from my heart, expresses sincerely, and can transmit energy, on the premise that I cannot be too tired, too energy-consuming, this is also what I have been practicing."[^39]
-
-In an interview with Zheng Yinong in early 2024, she explained how she views the artist identity of "Whyte"[^40]:
-
-> **✦** "He is a girl wearing glasses and a hat, this character. I take off the glasses and the hat, actually I am fundamentally two people. But everyone is helping this person, he is building an image, letting those who may need healing get some help."[^40]
-
-In the same interview, Zheng Yinong asked her, "After realizing that you can control everything yourself, will you be more tired?" She answered[^40]:
-
-> **✦** "At first, besides being tired, there was also fear... At first, you might feel that because you don't know what you want, when you communicate, people don't know what you want either. Then you feel that people seem to want to listen to them, or... just like you are wrong. But slowly, through a little bit of practice, I feel you will become more confident. It is a process of becoming confident, you are more sure who you are. But when communicating, you feel that he seems very fierce, but you are no longer afraid."[^40]
-
-Her interpretation of her own creation was also explained in the same interview:
-
-> **✦** "My own interpretation is, I seem to create many rooms, everyone can come in and lie down comfortably inside. This is my definition of my works."[^40]
-
-As of April 2026, there were no formal music reviews landing on the internet for the concert on December 28, and the setlist of the performance was not formally organized. What can be determined is: it was a night where she put together the things she slowly learned in the past two years—salt frequency, chanting, Neo Soul, female band—on one stage after pressing the third and fourth pause buttons.
-
-> **📝 Curator's Note**
-> "Calm frequency arrangement", "cannot be too tired, too energy-consuming" these phrases are worth reading in the context of Taiwan's late 2020s pop music. These sentences sound like technical descriptions, but behind them is actually a 31-year-old person who just learned to say "I don't want this", designing requirements for her own stage. This line is同源 with her elementary school "cannot talk about periods", from Hsinchu Girls' High School "studying to not be seen as a girl". After pressing the pause button, what she is doing has exceeded picking songs and choosing producers; she is redefining "what performance energy should look like".
-
----
-
-## She Didn't Really Close That Door
-
-In 2026, she is still releasing songs, still performing, still sending cold emails herself. She did not completely give up her physician qualification, she said "might go back in 3 to 6 years"[^6]. She didn't completely close that door.
-
-From "the girl whose father filled out the application" to "the producer who sends hundreds of emails to strange foreign musicians", these are two ends of the same person. The most critical moment in between happened at the student meeting in her junior year: the second she **sat without speaking, suddenly realized she had always been at school**. She didn't drop out to travel the world, didn't go shoot a documentary, didn't go write a book. She went to a coffee shop to make drinks, went to a cake shop to cut desserts, went to a recording studio to buy bento boxes. In that recording studio corner, she met Teacher Li Qixian. In the following years, she wrote "Insomnia", "Seh Ah Seh", "Cazzo".
-
-She never loudly said "why I want to write songs". She only said one sentence:
-
-> **✦** "I must properly face my own feelings, must find a way to take care of the child in my heart."[^28]
-
-During those years as a medical student, she was on duty in the ward, her energy was chaotic, and she relied on writing songs to drain those emotions[^30]. She didn't "abandon medicine for literature", she used one path to catch the things that the other path couldn't give her.
-
-When she said "please don't be afraid" to the audience at the Golden Melody Awards, many people probably couldn't do it. Taiwan's honor student track is too stable, pressing the pause button looks too risky. The whole system hides the pause button very deep, finding it, pressing it, and then bearing the misunderstanding of family and friends for the next few years, this is something that requires strength. She did it. Then she didn't go back to be a doctor. Then she didn't treat music as a career to manage, she said she just wants to keep writing songs.
-
-> "I have become the Japanese low-desire generation, I just hope I can keep writing songs."[^28]
-
----
-
-## Further Reading
-
-- [Taiwan Independent Music](/ko/music/indie-music-scene) — bedroom pop / lo-fi R&B in the 2019-2020 contemporary ecology
-- [Taiwan Hip Hop and Rap Development](/ko/music/taiwan-hip-hop-and-rap) — her cross-boundary support, organizing the 2025 misogyny debate of She Vibes, placed in the context of Taiwan rap for forty years
-- [Hebe Tien](/ko/people/hebe-tien-singer) — Winner of the Female Singer Award at the 32nd Golden Melody Awards, two ends separated by 19 editions of debut qualifications
-- [Chen Jianqi](/ko/people/chen-chien-chi-music-producer) — Another line in the lineage of contemporary Mandarin pop music producers
-
----
-
-## References
-
-[^1]: [Whyte - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%A3%9E%E7%89%B9) — Real name Lin Zhiyi, born June 19, 1994, in Hsinchu Xiangshan District.
-
-[^2]: [Whyte - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%A3%9E%E7%89%B9) — Graduated from National Hsinchu Girls' High School.
-
-[^3]: [Golden Melody Newcomer ?te Whyte's Dream-Chasing Road] Father Filled Out Application Entering Medical School — Business Today](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — Father filled out university application form, finally entered Department of Medicine at Medical College of National Defense Medical University; Cross-validation: [Digital Times Repost](https://www.bnext.com.tw/article/64713/golden-best-new-why-te) + [Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%A3%9E%E7%89%B9).
-
-[^4]: [Holding Microphone, Also Holding Scalpel, Slash Golden Melody Newcomer ?te Whyte (Lin Zhiyi) — 104 Bravo](https://blog.104.com.tw/104bravo-singer-whytetete/) — Suspended studies for one year at the end of sophomore year, suddenly anxious "felt I was always at school" when attending student meeting; Parents opposed but still took a year off.
-
-[^5]: [Golden Melody Newcomer ?te Whyte — Business Today](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — The year of suspension "morning making drinks in coffee shop, afternoon cutting desserts in cake shop, evening running errands and buying bento boxes in recording studio" original words of working three jobs a day.
-
-[^6]: [Medical Student Studying Medicine for Nine Years Golden Melody Newcomer — China Times News Network 2021-08-25](https://www.chinatimes.com/newspapers/20210825000564-260112) — ⚠️ Link now 403 (chinatimes anti-bot); Media used "准医师" (准-doctor) to generally describe the identity of just graduated / interning when winning the award. Physician National Exam structure (Physician (1) + Physician (2)) and Whyte's actual passing stage are based on [^29] Business Today original text "Medical school studied for a total of 9 years" + "Completed intern physician training, obtained Bachelor of Medicine degree", no source explicitly records that she passed the second stage of the national exam.
-
-[^7]: [Wearing Hat, Gaining True Applause — Interview with Whyte ?te — BIOS monthly](https://www.biosmonthly.com/article/10301) — Released first single "Cazzo" (taken from Italian swear word) on June 28, 2019 on ChynaHouse label and YouTube; Talked about the suffocation feeling before suspension "Oh god, I will just live like this, open my eyes and I will be thirty years old" original words; YouTube official lyric video: https://www.youtube.com/watch?v=CM-6FJlYHI4
-
-[^8]: [BIOS monthly Interview](https://www.biosmonthly.com/article/10301) — "Insomnia" became StreetVoice chart champion the week it was released, accumulating 200,000 views on YouTube within two months; YouTube official lyric video: https://www.youtube.com/watch?v=vYn5imzO1PE
-
-[^9]: [?te Whyte / First Album A Bedroom of One's Own — Books.com.tw](https://www.books.com.tw/products/0020218409) — Digital on July 31, 2020, physical on August 28; Label ChynaHouse; Album title borrows from Woolf's _A Room of One's Own_; Recorded at producer Tower da Funkmasta (Tao Yiqun)'s home; Cross-validation: [BIOS monthly](https://www.biosmonthly.com/article/10301).
-
-[^10]: [32nd Golden Melody Awards - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%AC32%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — 32nd Golden Melody Awards on August 21, 2021, Whyte ?te won Best New Artist Award; Same edition Hebe Tien won Best Mandarin Female Singer Award, Doggy won Best Mandarin Male Singer Award, Sangpu'i won Album of the Year Award.
-
-[^11]: [?te Whyte Wins Best New Artist Award, Emotional Share of Medical School Suspension Changing Life — CNA 2021-08-21](https://www.cna.com.tw/news/firstnews/202108215012.aspx) — 32nd Golden Melody Awards acceptance speech "I am the kind of student who constantly runs forward within the system... Please don't be afraid" original words word for word.
-
-[^12]: [Whyte / Way out - Sony Music Taiwan Official Website](https://sonymusic.com.tw/album/whyte-way-out/) — Second album _Way out_ digital on June 19, 2023, physical on August 1; Producer Chen Junhao co-produced; Guests include singer Hong Peiyu; Same year won 14th Golden Indie Music Awards Best Alternative Pop Album Award; YouTube official playlist: https://www.youtube.com/playlist?list=PLMWGaRkAD1f6fiy__mOshbziceYeMY5Jr
-
-[^13]: [2023 ?te Whyte Live Concert Zepp New Taipei - Klook](https://www.klook.com/zh-TW/event-detail/101017395-2023-whyte-live-concert-zepp/) — August 11, 2023 personal first large-scale ticketed concert at Zepp New Taipei.
-
-[^14]: [Whyte ?te New Album _Boundary_ - VERSE](https://www.verse.com.tw/article/why-te-boundary) — Third album _Boundary_ released by Universal Music on December 28, 2025; Self-led planning, sent hundreds of cold emails, completed 9 songs with musicians from 11 countries including Brazil, Nigeria, Germany, Italy, USA (including Japanese TENDRE, London Nigerian soul singer Steven Bamidele, Malaysian babychair); Two-year "self-repair report".
-
-[^15]: [Whyte 2025 Live Concert Boundary - tixcraft](https://tixcraft.com/activity/detail/25_whyte) — December 28, 2025 same day at Zepp New Taipei opened _Whyte 2025 Live Concert Boundary_ special, and performed for the first time in the form of a "female band".
-
-[^16]: [Mysterious Charm Super Fan-Appealing - DailyView](https://dailyview.tw/popular/detail/11455) — Origin of stage name: ?=why, ?te sounds like white when connected; Chinese "Whyte" means "terribly bad" in Shanghainese; Reason for "Cazzo" originally wanting to collaborate with YELLOW Huang Xuan "his name is yellow I'll come with a color" (according to media reports).
-
-[^17]: [DailyView](https://dailyview.tw/popular/detail/11455) — + [Meet eslite 7 Small Secrets](https://meet.eslite.com/tw/tc/article/202210250001) — Reason for not showing face: When first becoming a singer still interning in hospital, "wanted to separate music from hospital life"; Standard attire is large-brim straw hat + sunglasses.
-
-[^18]: [Mysterious Singer's Face Exposed - Mirror Media Exclusive 2021-02-05](https://www.mirrormedia.mg/story/20210205ent013) — Mirror Media follow-up revealed true face, afterwards she posted素颜 photo with glasses on Facebook to make it public.
-
-[^20]: [Hip Hop Gender Misogyny Debate - Wazaiii](https://www.wazaiii.com/articles?id=music-hip-hop-misogyny-discussion) — Hip hop gender misogyny debate with Yi Yi Panamera, Drug King etc. in early 2025; Whyte posted on social media saying "For me these two songs are full of traditional masculine culture, as a girl I really can't like them".
-
-[^22]: [Walk Out of Room, Battle Life with Free Heart - OPENTIX Two Theater Cultural Life](https://www.opentix.life/article/1684083589215281153) — Original words of role transition after full-time creation "Before becoming a music creator... During these 3 years as a freelancer, suddenly I have to make decisions for everything myself".
-
-[^24]: [BIOS monthly](https://www.biosmonthly.com/article/10301) — + [Business Today](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — Childhood family sound landscape: Father listening to Wang Li-you, Mother listening to Chen Shuhua, She herself sticking to CD player listening to Jacky Cheung Jacky Cheung; Electronic keyboard self-study mastered "Canon" and "Minuet" two pieces; "I was very small then, but I could remember and sing every note" original words.
-
-[^25]: [From Medical Student, Golden Melody Newcomer, to Independent Singer-Songwriter - HEAVEN RAVEN Interview](https://www.heavenraven.com/2023/05/15/whyte-music-interview/) — Original words "I even listened to my own song while assisting the attending physician in the operating room. Because basically in the hospital we wear masks, and during internship we change departments once a month".
-
-[^26]: [Hebe Tien - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Hebe Tien won Best Mandarin Female Singer Award at 32nd Golden Melody Awards with _Nobody Knows_; Refer to [Hebe Tien Article](/ko/people/hebe-tien-singer).
-
-[^27]: [准-Doc ?te Whyte Inlaid Gold, NTU Professor Snaps Back - UDN Stars](https://stars.udn.com/star/story/10092/5694350) — ⚠️ Link now 404; After winning award in 2021, network once spread a questioning article signed by an "NTU Medical School Professor" asking "Are you confident letting her perform surgery", original source cannot be traced back. This audit downgraded to general statement "network appeared questioning", no longer attributed to specific professor identity.
-
-[^28]: [Unveil Golden Melody Newcomer Whyte ?te's Mysterious Mask - Meet eslite 2021](https://meet.eslite.com/tw/tc/article/202108310004) — Talked about state of mind after winning award "I have become the Japanese low-desire generation, I just hope I can keep writing songs" original words; Deepest motivation original words "I must properly face my own feelings, must find a way to take care of the child in my heart" word for word.
-
-[^29]: [Business Today 2021](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — + [BIOS monthly Interview](https://www.biosmonthly.com/article/10301) — Childhood family sound landscape: Father listening to Wang Li-you, Mother listening to Chen Shuhua, She herself sticking to CD player listening to Jacky Cheung Jacky Cheung; Electronic keyboard self-study mastered "Canon" and "Minuet" two pieces; "I was very small then, but I could remember and sing every note" original words; She joined NTU Jazz Society at some point and met Tower (original text "Arrived at NTU Jazz Society, met music-making senior Tower Tao Yiqun" see [Ma Shifang Medium Interview](https://medium.com/@mashifang/whyte-and-tower-da-funkmasta-9561dd633ed)).
-
-[^30]: [104 Bravo: Holding Microphone, Also Holding Scalpel, Slash Golden Melody Newcomer ?te Whyte](https://blog.104.com.tw/104bravo-singer-whytetete/) — Guitar enlightenment teacher Li Qixian "started teaching from principles, led me to listen to music, catch songs, practice ear and finger techniques" original words; Li Qixian introduced French jazz singer Cyrille Aimée and British soul singer Adele to her; Whyte low period sent message to Li Qixian "What is the meaning of living?", after winning award Li Qixian replied "Good thing you didn't think of ending it then, otherwise there would be no Whyte today, life is very fun!" word for word; "Past duty in hospital, energy chaotic, she relied on writing songs to drain these emotions" reporter narrative (not Whyte direct quote).
-
-[^31]: ["Cazzo" StreetVoice Street Voice Song Page](https://streetvoice.com/whytetete/songs/585514/) — + [BIOS monthly](https://www.biosmonthly.com/article/10301) — "Cazzo" lyrics "Story happens in Italy, girl wakes up starting to regret relying on alcohol for a night of warmth" official explanation; Recording scene "Whyte brought an old guitar, constantly hitting strings while playing, pitch not accurate. Tower had a change of heart, using Lo-fi thinking to integrate noise and ambient sounds into recording" word for word; She covered Cyrille Aimée and Diego Figueiredo version of "Just the Two of Us".
-
-[^32]: ["Seh Ah Seh" - Soundscape in Tian Release](https://www.soundscape.net/a/10610) — + [Business Today](https://www.businesstoday.com.tw/article/category/183034/post/202108250003/) — Seh is romanization of Taiwanese word "xué" (wander); She "aimlessly doing same work, created out of boredom" during hospital internship (reporter narrative); Lyrics describe migrant workers' lonely fatigue after work; 2021 Golden Melody Awards ceremony she performed track live.
-
-[^33]: [LINE TODAY Exclusive Interview - Whyte Chen Junhao](https://today.line.me/tw/v2/article/penQkEe) — Two people pulling back and forth in recording studio to "Or should we just finish this song and call it a day?" original words; Whyte to Chen Junhao "Brother, this is my life's lesson, are you willing to take it with me?" and Chen Junhao replied "Okay! Let's try! You are like my son!" word for word.
-
-[^34]: [Madame Figaro Hong Kong Whyte 2023 Hong Kong Concert Interview](https://www.madamefigaro.hk/art/%E8%87%BA%E7%81%A3%E5%94%B1%E4%BD%9C%E6%AD%8C%E6%89%8B-%E5%A3%9E%E7%89%B9te-%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E6%9C%83-156927/) — "Morning Babe" feat. Hong Peiyu collaboration reason: "Met Peiyu under Junhao's recommendation, because we were looking for a mid-range granular vocal line for duet" word for word; "Originally originally solo presentation, later after discussing this song's lyrical意境 decided to change to duet" word for word.
-
-[^35]: [Whyte ?te New Album _Boundary_ - VERSE](https://www.verse.com.tw/article/why-te-boundary) — Boundary production mode "She doesn't follow the safe path of 'outsourced production' habitual in Mandarin music industry, but takes back control herself, serves as A&R... Fishing in Spotify's vast playlists" word for word; "She met extremely emotional American musician, late night transoceanic call to break down and cry" scene; "If it were the old me, under this kind of semi-push pressure, I might have just said 'okay okay okay' and done it" original words.
-
-[^36]: [Whyte ?te Interview: Learned to Set Boundaries - Next Apple News](https://news.nextapple.com/entertainment/20251217/8D96679497C6A94F9B4145E8EC4AE019) — "In these few years, I have been learning to set my own boundaries, learning to refuse, learning to express discomfort, I slowly no longer escape and accumulate those small emotions" original words.
-
-[^37]: [Whyte ?te and Yi Yi Panamera, Drug King's Hip Hop Gender Misogyny Debate Summary - Wazaiii](https://www.wazaiii.com/articles?id=music-hip-hop-misogyny-discussion) — + [Blow Music 78907](https://blow.streetvoice.com/78907/) + [TNL Key Comment Network 248785](https://www.thenewslens.com/article/248785) + [DailyView 28601](https://dailyview.tw/popular/detail/28601) — "I Really Can't Help It" chorus "I sit in a Panamera, you are still a 5678 single mom" and Douyin viral / cheerleaders following; 2025-01-26 Yi Yi IG story "Hip hop boys wake up... Traffic, results, performance, money is everything" word for word; 2025-02-01 Drug King + Da Fa DAFAA "Yi Yi Chu Si" released 19 hours 650,000 views topped YouTube Hot List first; Controversial lyrics "f\*\*\* your wife and f\*\*\* your whole family" word for word.
-
-[^38]: [Blow Music 2025 Year-in-Review](https://blow.streetvoice.com/86065/) — + [Musician Nest: Whyte, Yang Shuya and Taiwan Hip Hop Circle Gender Misogyny Debate](https://ysolife.com/taiwan-hip-hop-misogyny/) — Hip hop debate listed as 2025 Taiwan annual music event; Sheflow project gathered by jazz vibraphonist Debby Wang Siya 11 female musicians and writers, initiated mid-2025, performance plus workshop form creating cross-gender inclusive space, live session lineup including Yang Shuya, RapShark; Yang Shuya "Rule Man Freestyle" lyrics word for word "Real is not your fig leaf for misogyny", "Not hip hop, just hip hop chauvinism", "Men's words of respecting women, like budget unified deletion discount"; Whyte repost added note "Talking about gender and the voice of the oppressed can also be a very hip hop thing" word for word; Doggy and Karencici IG stories original words; Legislator Huang Jie publicly supported Yang Shuya "Respect!" three words response.
-
-[^39]: [Salt Field Suspended Day-like Arrangement - Blow Music 85344](https://blow.streetvoice.com/85344/) — + [ETtoday 3085530](https://star.ettoday.net/news/3085530) — 2025-12-28 Zepp New Taipei _Whyte 2025 Live Concert Boundary_ special preview: "In these few years contacted a lot of mind-body-spirit things, so will add chanting components, focusing on calm frequency arrangement, also a little bit of rock flavor, followed by everyone's familiar Chill Hop, Neo Soul" word for word; "I hope to create a performance that sings from my heart, expresses sincerely, and can transmit energy, on the premise that I cannot be too tired, too energy-consuming, this is also what I have been practicing" word for word.
-
-[^40]: [Walk and Sing Women's ep2 Whyte Upper + Lower - Zheng Yinong YouTube 2024-02-29](https://www.youtube.com/watch?v=Efk6xnu7Edc) — + [Lower](https://www.youtube.com/watch?v=ygIThJfvtyk) — Zheng Yinong interview word-for-word transcript (whisper-cli prominent transcription): Elementary school teacher "Girls cannot be class monitors", "Cannot talk about the word period" memories; "When I study, I seem to find a path that allows me to go up, and people won't look at whether I am a boy or a girl" original words; "He is a girl wearing glasses and a hat, this character. I take off the glasses and the hat, actually I am fundamentally two people. But everyone is helping this person, he is building an image" original words; "At first besides being tired there was also fear... But slowly through a little bit of practice, I feel you will become more confident" original words; "My own interpretation is, I seem to create many rooms, everyone can come in and lie down comfortably inside" creation view word for word. Transcription archive: `reports/research/2026-04/Whyte-transcripts/Walk and Sing Women's ep2 Upper.txt` + `Lower.txt`.
+[^40]: [걷면서 노래하는 여자 ep2 壞特 상편 + 하편 — 정이농 YouTube 2024-02-29](https://www.youtube.com/watch?v=Efk6xnu7Edc) — + [하편](https://www.youtube.com/watch?v=ygIThJfvtyk) — 정이농 인터뷰 전문(whisper-cli 자동 전사): 초등학교 선생님 「여자는 반장이 될 수 없다」 「월경 이 두 글자는 말할 수 없다」 회상; 「내가 공부할 때, 나는 마치 한 길을 찾아서 위로 올라갈 수 있었고, 그러면 남들이 내가 남자인지 여자인지 보지 않게 될 것 같았다」 원문; 「그는 안경과 모자를 쓴 한 여자애, 이 캐릭터다. 내가 안경과 모자를 벗으면, 사실 나는 완전히 두 사람이다. 하지만 모두가 함께 이 사람을 위해, 그가 한 이미지를 구축하고 있다」 원문; 「처음에는 피곤한 것 말고도 두려움이 있었다⋯⋯ 하지만 천천히 조금씩 연습한 뒤, 나는 네가 점점 더 자신감을 갖게 될 거라고 느낀다」 원문; 「내 나름의 해석은, 내가 마치 많은 방을 만들어서, 모두가 스스로 들어와 편안하게 누워 쉴 수 있게 한 것 같다」 창작관 전문. 전사 파일 보관: `reports/research/2026-04/壞特-transcripts/邊走邊唱的女子-ep2-上集.txt` + `下集.txt`
