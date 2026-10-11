@@ -332,6 +332,23 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-11 twmd-maintainer-daily — correctly-scoping-a-ruler-out-becomes-never-looking：「這把尺不該判它」被實作成「沒有人看它」，而前者是對的，所以沒有人回頭檢查後者
+
+- **pattern**: correctly-scoping-a-ruler-out-becomes-never-looking
+- **原則**：一支尺發現自己對某類對象會誤判，正確的修法是把那類對象排除出**判定**。危險在下一步：排除通常直接寫成 `continue`／`skip`，於是那類對象連**觀察**都一起消失了。判定與觀察是兩件事，而把它們一起關掉的那行程式碼，當初是為了修一個真的假陽性才寫的——**它的正確性就是沒有人回頭看它的原因**。這類盲點不會被既有的懷疑反射接住：#85 管的是「檢查跑了但輸出的符號分不出安全與不知道」，這裡檢查從頭到尾沒跑，而輸出長得像「這一格本來就沒有東西」。
+- **觸發**：2026-10-11 twmd-maintainer-daily 同一班撞到兩個獨立 instance，兩個都源自一個**正確**的既有修補：
+  1. **`ci-main-health.sh` 的 `OFF-BRANCH`**：2026-09-27 那班正確發現 `push: {tags: [cli-v*]}` 永遠不會在分支上跑，拿 main 的尺量它只會誤報（當時真的誤報過「Translation PR Check 在 main 紅了 178 天」），於是標 `OFF-BRANCH` 並 `continue`。代價在 10-10 收到：`cli-v0.8.1` 的 npm publish 以 `E404`（PUT 權限／`NPM_TOKEN` 失效）失敗，而那張表印的是 `OFF-BRANCH  -  Publish CLI to npm`，一個字都沒提它剛剛失敗。**十小時沒有任何一支尺說過話**，而 issue #1789 的投稿者正在等那次發佈。唯一注意到的路徑是本班手動去翻 workflow 列表。
+  2. **`routine-stall-check.py` 的 live-state skip**：那道 skip 寫 `live_state.get(task_id) is False` 才跳過，所以「排程器從沒聽過這條」（鍵**缺席**，`None`）跟「排程器有它、而且開著」（`True`）走同一條路、印同一行字。`twmd-review-stock` 10-10 誕生、ROUTINE.md 排程表有它、三層檔案都在，而建排程那一步被核准閘門擋下留給哲宇——它的 WARN **永遠不會自己歸零**，而 `routine-stall-alert.yml` 的自動關閉只在 `exit 0` 跑，所以一條註冊缺口會把告警單永久釘開，後面每一次真的停轉都讀起來像同一張老票（而這條告警的整個設計目的就是「綠燈靜默、只在異常時推播」）。
+- **instances**：
+  - 2026-10-11 twmd-maintainer-daily `ci-main-health.sh` OFF-BRANCH：tag 觸發 workflow 最後一次執行的結論從沒被印過，cli-v0.8.1 發佈失敗十小時無聲 → memory/2026-10-11-084500-twmd-maintainer-daily.md
+  - 2026-10-11 twmd-maintainer-daily `routine-stall-check.py`：live-state 鍵缺席 == `True`，未註冊的 routine 的 WARN 不會歸零，釘開告警單 → 同上
+- **本班已 ship 的修法（兩個都只改觀察，不動判定）**：(a) OFF-BRANCH 改成仍不拿 main 的尺判它（**不計入 RED、不影響 `--strict`**，假陽性不回來），但印出它最後一次執行的結論與年齡，失敗時加 🔴 與一行說明＋總結列計數；(b) live-state 缺席得到自己的狀態 `unregistered` 與自己的符號 🆕，輸出明寫「處置不是查機器，是去 app 裡把排程建起來；在那之前它不會自己歸零」，**severity 與 exit code 都不變**（3 個 pytest）。
+- **還沒決定的那一半**：這兩個訊號該不該升級成會讓既有閘門轉紅（`--strict` 回 1 / 繼續釘開告警單），是閾值決定 → **OBSERVER-QUEUE #100**，附 (a)(b) 各三選項與成本，推薦兩者皆 C。
+- **候選機械化**：任何以 `continue`／`skip`／「不適用」排除某類對象的分支，加一條自審——「我排除的是**判定**還是**觀察**？」。可查的形狀：排除分支裡沒有任何 print／不寫進輸出結構，就是把觀察一起關掉了。`ci-main-health.sh` 與 `routine-stall-check.py` 兩處的舊程式碼都剛好是這個形狀（`continue` 前只印一行狀態、不帶讀數）。
+- **可能層級**：通用反射（#85 的新維度：不是輸出端的符號混淆，是**判定範圍的收斂把觀察一起收掉**）
+- **相關**：#85「不知道需要自己的符號」最近——差異在 #85 的檢查**跑了**只是輸出的符號分不出安全與不知道，本條的檢查**從頭沒跑**，而輸出長得像這一格本來就空；#82 proxy signal（鄰近但反向：#82 是量了替身，本條是連替身都沒量）；#38 混維度（instance 2 的 `None`／`True` 共用一條路是它在輸入端的形狀）；#52「immune 沒 fail loud 比缺 immune 更危險」（本條更隱蔽：不是壞了不叫，是那個方向上從來沒有東西在看）；#99「尺先驗再用」（兩個 instance 都是在修完假陽性之後沒有重新抽驗排除分支自己的行為）
+- **verification_count**: 2
+
 ### 2026-10-11 twmd-feedback-triage — sibling-routine-commit-swallows-whatever-is-staged：產線的提交步驟把當下 index 裡的東西一起帶走，於是另一條 routine 的工作被記成它的批次
 
 - **pattern**: `sibling-routine-commit-swallows-whatever-is-staged`
@@ -649,10 +666,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-29 07:00 twmd-feedback-triage 第八輪零回報。要把「目前 9.05 天未收口間隔算不算異常」對回歷史，照 #24 形式 4 的處方換取數形狀——從 Supabase REST 查詢換成掃 `docs/feedback/archive/*/*.md` 的 87 份主權層紀錄（本地、確定性、不依賴外部服務，看起來是更好的尺）。archive 算出歷史最長間隔 **15.94 天**（2026-07-04 → 07-20），比 09-15 全庫校正出來的 12.65 天更大，讀起來像又一次「窗外還有更大的」。改查全庫所有 status 才看清：全庫 **90 筆 = 87 filed + 3 rejected**，其中一筆 rejected 落在 2026-07-11，把那個窗切成 7.04 + 8.90 天；全 status 的真實最長間隔就是 **12.65 天**，09-15 那個數字一直是對的。差別是 archive 只收 `filed`（Stage 4 的 reject 分支不寫檔，canonical 如此設計），所以 **archive 量得出「勘誤之間的間隔」，量不出「讀者到達之間的間隔」**——spam 也是一次到達，只是沒在 git 留下痕跡。方向固定偏大，長相是「讀者比實際更安靜」。差一步就把 15.94 當成新的歷史上限寫進 memory，蓋掉 REFLEXES #24 那行正確的 12.65。
 - **instances**：
   - 2026-09-29 twmd-feedback-triage 第八輪零回報，archive(filed-only) 15.94 天 vs 全庫(all-status) 12.65 天 → memory/2026-09-29-071500-twmd-feedback-triage.md
+  - 2026-10-11 twmd-maintainer-daily **時間軸變體：換的不是取數形狀，是被查的那一天的新舊**。為了讓新家族的分類生效，對 `monitor-404.py` 重跑 `--days 2` 回頭查 2026-10-09；同一天的 total_404 從存檔的 **5,505 掉到 3,815**（−31%），兩次 `truncated` 都是 false，每個家族都縮水（只有 scanner 反而 +117）。不是我們截斷，是 CF 那側對舊日資料的保存顆粒隨時間變粗。母體換掉之後，「`unknown` 從 3,468 掉到 1,214」**讀起來像新分類器一次收掉 2,254 條**，實際新家族只拿走 655，剩下約 1,600 是母體自己縮掉的——方向偏小、長相剛好是「修補生效了」。原本 `upsert_state` 無條件覆蓋，所以一次重查就在 60 天趨勢上挖一個 31% 的假低點且不留痕跡。已 ship 守門：既有那天總數更高且它自己沒被截斷 → 保留既有並印一行說為什麼，要覆蓋得明確加 `--force-requery`（5 個 pytest）；本班同時把被自己蓋掉的 10-09 那列從備份還原。**可引用的乾淨讀數是 10-10**（從未被查過、無重查混淆）：`duplicated-lang-prefix` 742 / 6,205 = 12.0%。 → memory/2026-10-11-084500-twmd-maintainer-daily.md
 - **修補候選**：(a) `docs/feedback/README.md` 與 archive 紀錄的用途說明寫明「本層對 filed 完整，對『到達』不完整（rejected 不落檔）」，讓下一個拿它算節奏的人在算之前看到；(b) 到達節奏這個問題如果要常問，入口放 `triage.mjs`（它本來就握著全 status 的讀取權）而不是 archive，`formatIntakeAge()` 旁邊加一支全庫間隔分佈；(c) 主權層要不要連 rejected 一起留（那是「spam 也是讀者行為紀錄」的策展判斷，且會讓 archive 存 spam 文字）→ 屬 §自主權邊界，留哲宇。
 - **可能層級**：通用反射（REFLEXES #24 形式 4 的新維度：處方本身帶副作用）；也可能只是操作規則（FEEDBACK-TRIAGE §archive 範圍註記）
-- **相關**：**REFLEXES #24 形式 4 極值變體**（源 LESSONS `windowed-query-underreports-the-extremum-it-is-asked-for`，2026-09-15 同一條 routine）——那條管「窗太小」，本條管「換窗的動作把母體也換了」，兩者的處方互相抵銷：照它做就會踩到這個；#82 proxy signal（archive 份數是「到達數」的替身）；#83 兩把尺 divergence（差異在這裡兩把尺都沒壞，分裂來自母體謂詞不同，所以沒有任何閘門會響）；#99 尺先驗再用
-- **verification_count**: 1
+- **相關**：**REFLEXES #24 形式 4 極值變體**（源 LESSONS `windowed-query-underreports-the-extremum-it-is-asked-for`，2026-09-15 同一條 routine）——那條管「窗太小」，本條管「換窗的動作把母體也換了」，兩者的處方互相抵銷：照它做就會踩到這個；#82 proxy signal（archive 份數是「到達數」的替身）；#83 兩把尺 divergence（差異在這裡兩把尺都沒壞，分裂來自母體謂詞不同，所以沒有任何閘門會響）；#99 尺先驗再用。**第 2 instance 新增一條**：#38 混維度——同一個 `total_404` 欄位承載「那天真的有幾筆」與「我們現在還查得到幾筆」，而後者隨查詢時間單調遞減
+- **verification_count**: 2
 
 ### 2026-09-29 twmd-babel-nightly — broken-link-graded-as-warning-in-passing-gate：通過的閘門把讀者會點到 404 的連結算成警告
 
