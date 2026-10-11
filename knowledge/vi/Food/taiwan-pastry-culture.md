@@ -1,18 +1,18 @@
 ---
-title: 'Văn hóa bánh ngọt Đài Loan'
-description: 'Từ bánh hồn quả năm 1877 tại Yù Zhēn Zhāi ở Lạc Hồ đến bánh trứng dầu đỏ bán ra trong 30 giây của Trần Duy Tín ở năm 2026, câu chuyện 150 năm phát triển bánh ngọt Đài Loan. Giữa các chiến mạch như cuộc cách mạng bánh trứng dầu dẻo của Fukuwa ở thời Pháp thuộc, thí nghiệm hình cây bí ngô của Bảo Nguyên, việc chuyển giao 270 hecta đất dẻo trứng ở Ngọc Sơn, hay sự biến đổi công nghệ bánh dẻo bọc bánh dầu, cùng với sự xuất hiện của bảo bối truyền thống và đoàn kết Olympic hội nhập trên cùng một bàn trò chuyện Trung Thu.'
+title: 'Văn hóa bánh kẹo Đài Loan'
+description: 'Từ bánh Phượng Nhãn của Ngọc Trân Trai (Lộc Cảng) năm 1877 đến bánh lòng đỏ trứng đất đỏ của Trần Diệu Huấn bán hết trong chưa đầy 30 giây, câu chuyện về các tầng lớp văn hóa bánh kẹo Đài Loan suốt 150 năm.'
 date: 2026-05-03
 category: 'Food'
 tags:
   [
-    'bánh ngọt',
-    'bánh mì',
+    'bánh kẹo',
+    'bánh Hán',
     'bánh dứa',
-    'bánh trứng dầu',
-    'bánh mặt trời',
-    'trò chuyện Trung Thu',
+    'bánh lòng đỏ trứng',
+    'bánh thái dương',
+    'Trung thu',
     'quà lưu niệm',
-    'lớp bánh dẻo',
+    'vỏ bánh ngậy',
     'văn hóa ẩm thực',
   ]
 subcategory: '烘焙與甜點'
@@ -21,171 +21,173 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'Food/台灣糕餅文化.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:bdb405b92fc10596'
-sourceBodyHash: 'sha256:c6a86f733ba033b1'
-translatedAt: '2026-07-26T13:02:55+08:00'
+sourceCommitSha: '89dff79c1'
+sourceContentHash: 'sha256:da156bdcc66f3839'
+sourceBodyHash: 'sha256:0ccf3caa8312faf1'
+translatedAt: '2026-10-11T08:04:50+08:00'
 ---
 
-# Văn hóa bánh ngọt Đài Loan
+# Văn hóa bánh kẹo Đài Loan
 
-> **Bản đồ nhanh 30 giây:** Bán hàng tại Yù Zhēn Zhāi ở Lạc Hồ năm 1877 (thời Giao Thái), khai sinh tại giao lộ đường Quốc Gia và Đại Sảnh, do Hoàng Tỵ và Trần Chiêu cùng thành lập, đến thế kỷ năm ngoái vẫn đang bán bánh hồn quả và bánh đậu xanh[^1]. Bánh mì malt của đối tác Trần Kỳ Lân ở Thần Không, được học trò Văn Thành Hải cải tiến thành bánh mặt trời[^2]. Bánh trứng dầu được nghiên cứu ra từ năm 1980 bởi Trần Tăng Huyng ở Bảo Nguyên, ban đầu là dạng hình cây bí ngô[^3]. Công nghệ lớp bánh dẻo bọc bánh dầu đã vững chắc doanh thu ngày 40 triệu chiếc bánh trứng dầu, bánh đậu xanh có thiết kế đặc biệt của Giới Hồng và nhà thiết kế Nhĩa Vĩnh Nhĩa, cùng với bánh mì "Gelato bánh mì" của Cụ Tĩnh Bảo ở năm 2026[^16]. Dưới Ngọc Sơn, vườn nhiệt hậu 2009 đã làm 270 hecta cây dẻo trứng từ 1 kg 5 USD[^4]. Trần Duy Tín ở Lạc Hồ giành chiếc vô địch Mondial du Pain năm 2017, sau đó ra mắt bánh trứng dầu đỏ bán ra trong 30 giây trên hệ thống bán vé truyền thông số[^5]. 150 năm trôi qua, mặt dù thay đổi nhưng lớp tăng trưởng bánh ngọt vẫn giữ vững.
+> **Tóm tắt trong 30 giây:** Ngọc Trân Trai (玉珍齋) tại Lộc Cảng được Hoàng Cẩm (黃錦) và Trịnh Chùy (鄭槌) cùng thành lập vào năm 1877 thời Quang Tự nhà Thanh, tại ngã tư đường Dân Tộc và đường Trung Sơn; đến thế hệ thứ năm vẫn đang bán bánh Phượng Nhãn và bánh đậu xanh[^1]. Miếng bánh mạch nha của tiệm Khôn Phái (崑派餅店) ở Thần Cương, sau khi được học trò Ngụy Thanh Hải (魏清海) cải tiến đã trở thành bánh Thái Dương (太陽餅)[^2]. Thế hệ thứ ba của Bảo Tuyên (寶泉) tại Phong Nguyên là Trần Tăng Hùng (陳增雄) đã nghiên cứu ra bánh lòng đỏ trứng vào thập niên 1980, ban đầu có hình dáng quả ô liu với vỏ bánh dứa[^3]. Kỹ nghệ "vỏ dầu bọc nhân dầu" (油皮包油酥) tạo nên lớp bánh ngàn lớp đã nâng tầm các sản phẩm như bánh lưu tâm bán 400.000 chiếc mỗi ngày của Tam Thống Hán Tử (三統漢菓子) vào thập niên 2020, dòng bánh "Thời khắc quà tặng" liên danh giữa Quách Nguyên Ích (郭元益) và nhà thiết kế Nhiếp Vĩnh Chân (聶永真), hay món "Gelato bánh Hán" mà Cựu Chấn Nam (舊振南) dự kiến tiến quân vào thị trường giao thoa năm 2026[^16]. Dưới chân núi Bát Quái, SunnyHills (微熱山丘) đã dùng giống dứa bản địa giá 5 Đài tệ/cân để phát triển 270 ha vùng canh tác liên kết vào năm 2009[^4]. Người con Lộc Cảng - Trần Diệu Huấn (陳耀訓) đã giành chức vô địch bánh mì thế giới Mondial du Pain năm 2017[^24], khi trở về làm món bánh lòng đỏ trứng đất đỏ đã từng cháy hàng trong chưa đầy 30 giây[^5]. Trong suốt 150 năm, dù diện mạo thay đổi vô số lần, nhưng các tầng lớp hương vị của nhân bánh về cơ bản vẫn không đổi.
 
-## Tấm ván trần tại năm 1877 Giao Thái
+## Sàn gỗ gác mái từ thời Quang Tự năm 1877
 
-Tầng hai số 168 đường Quốc Gia ở Lạc Hồ, có một tấm ván trần thời Giao Thái, trên bàn là chiếc bánh đậu xanh. Công thức của bánh ngọt này là kết quả của năm thế hệ người Yù Zhēn Zhāi cùng 148 năm cố gắng.
+Tại tầng hai số 168 đường Dân Tộc, Lộc Cảng, có một sàn gỗ gác mái từ thời Quang Tự nhà Thanh; trên sàn đặt một chiếc bàn gỗ và một miếng bánh đậu xanh. Công thức của miếng bánh này là thành quả mà năm thế hệ nhà Ngọc Trân Trai đã mài giũa suốt 148 năm.
 
-Ồ, biết không, tòa nhà này không phải là ngôi nhà bình thường. Trước đây là địa điểm của chương trình thương mại lớn nhất Lạc Hồ thời Giao Thái "Chiến Lợi Quận", vẫn còn thấy rõ chiếc cửa sổ và tòa nhà gỗ trần[^6]. Năm 1877 (thế kỷ 3 Giao Thái), người thương giàu nhất Lạc Hồ Hoàng Tỵ thích thơ ca, thường dùng bánh ngọt làm mời khách. Trần Chiêu đến Đài Loan mang theo nghề làng bánh ngọt, cùng Hoàng Tỵ thành lập "Yù Zhēn Zhāi"[^1]. Hai người sau đó tách rời, Trần Chiêu mở cửa hàng "Trần Yù Zhēn" bên cạnh, từ đó đường Đại Sảnh ở Lạc Hồ có hai cửa hàng giống nhau với chữ "Ngọc" trên biển hiệu tồn tại đến ngày nay.
+Bạn có biết, tòa nhà của Ngọc Trân Trai không phải là một ngôi nhà cổ bình thường. Tiền thân của nó là di tích "Tuyền Hợp Lợi" (泉合利) - hãng tàu lớn nhất Lộc Cảng thời Thanh, hiện nay vẫn còn có thể nhìn thấy giếng trời và gác gỗ thời đó[^6]. Năm 1877 (năm Quang Tự thứ ba), thương nhân giàu có tại Lộc Cảng là Hoàng Cẩm vốn yêu thích thi ca, thường dùng trà bánh để tiếp đãi văn nhân nhã sĩ. Trịnh Chùy đã vượt biển đến Đài Loan với kỹ nghệ làm bánh tinh xảo, hợp tác cùng Hoàng Cẩm thành lập tiệm bánh "Ngọc Trân Trai"[^1]. Sau đó hai người tách ra, Trịnh Chùy mở tiệm "Trịnh Ngọc Trân" ngay bên cạnh, thế là khu vực đường Trung Sơn ở Lộc Cảng có hai tiệm bánh trăm năm mang chữ "Ngọc" cùng tồn tại cho đến tận ngày nay.
 
-Bánh hồn quả được dùng bột bánh dẻo nén thành sợi mịn, khi ăn sẽ tan chảy, làm ăn kèm với trà thời các vịnh thương xưu của Lạc Hồ. Vị trí địa lý của Lạc Hồ quyết định vị ngọt của nó. Vào cuối thế kỷ 18, Lạc Hồ là trung tâm vận chuyển quan trọng của "một phủ hai Lạc ba đảo", nhập khẩu đường từ nguồn Quảng Đông, Hương Đông, Phúc Đông, giá cả thấp hơn các địa phương khác, dẫn đến sự phát triển của bánh ngọt tự nhiên[^6]. Yù Zhēn Zhāi chỉ là một trong những cửa hàng bánh mì truyền thống kéo dài đến ngày nay.
+Bánh Phượng Nhãn (鳳眼糕) được ép từ bột bánh thành những đường nét tinh xảo, khi ngậm trong miệng sẽ từ từ tan ra, vốn là món trà bánh đi kèm của các thương hội Bát Giao ở Lộc Cảng thời Thanh. Vị ngọt của nó được quyết định bởi vị trí địa lý của Lộc Cảng. Cuối thế kỷ 18, Lộc Cảng nằm trong nhóm "Nhất Phủ, Nhị Lộc, Tam Mông Giáp" (一府二鹿三艋舺), là trạm trung chuyển quan trọng cho hàng đường từ Tuyền Châu, Hạ Môn và Phúc Châu nhập khẩu; giá đường rẻ hơn những nơi khác khiến nghề bánh kẹo tại đây tự nhiên phát triển mạnh mẽ[^6]. Ngọc Trân Trai chỉ là một trong số những tiệm vẫn trụ vững trên con phố bánh Hán này.
 
-Khi đến thế kỷ thứ ba, hộp quà của cửa hàng đã vào thị trường hôn nhân và khách mời. Người Lạc Hồ thực sự chú trọng sáu nghi lễ mười hai nghi lễ, hộp quà bánh ngọt là phát biểu cam kết hợp tác giữa hai gia đình. Một chiếc hộp bánh lớn gửi đến gia đình nữ, toàn bộ con hẻm sẽ biết rằng gia đình nào đang kế hoạch kết hôn.
+Đến khi thế hệ thứ ba tiếp quản, các hộp quà của tiệm đã tiến vào thị trường cưới hỏi. Người Lộc Cảng rất coi trọng lục lễ thập nhị lễ, và hộp bánh cưới là vật phẩm cụ thể tuyên bố sự liên minh giữa hai gia tộc. Một hộp bánh lớn gửi đến nhà gái, cả con ngõ đều biết nhà ai đó sắp gả con gái.
 
-Thế kỷ năm ngoái vẫn đang làm việc trong tòa nhà trần kỷ niệm này. Công thức không đổi, tỷ lệ đường và bột malt không đổi, cửa hàng vẫn cung cấp mô hình gỗ cổ cho khách tham quan DIY[^1].
+Thế hệ thứ năm hiện vẫn đang làm việc trong tòa nhà gác mái trăm năm đó. Công thức không đổi, tỷ lệ đường và mạch nha không đổi, tiệm còn cung cấp các khuôn gỗ cũ hình tam sinh (lợn, gà, cá) để du khách trải nghiệm tự làm bánh DIY[^1].
 
-## Bánh mì malt trên đường Thần Không
+## Miếng bánh mạch nha trên phố Thần Cương
 
-Tiến về phía nam, tới Thung Lũng. Trong thời Pháp thuộc, đây có một đường bánh ngọt, nổi tiếng nhất là gia đình Lin Zhi Fang mở "Nhà hàng Kinh phát" chuyên làm bánh malt[^2]. Bánh malt làm từ siro malt dày đặc và có mùi cháy, gói trong lớp bánh dẻo, là món ăn truyền thống dùng trong hôn nhân, lễ hội và lễ hội đền thờ của người Thung Lũng.
+Dịch về phía nam một chút là Thần Cương, Đài Trung. Thời kỳ Nhật trị, nơi đây có một con phố bánh kẹo, nổi tiếng nhất là tiệm "Khôn Phái" (崑派餅店) của gia tộc Lâm Chấn Phương (林振芳), chuyên về bánh mạch nha[^2]. Đường mạch nha được nấu đến độ sệt và thơm mùi cháy nhẹ, bọc trong lớp vỏ giòn, là món điểm tâm truyền thống mà người dân Thần Cương thường dùng trong đám cưới, lễ tết hay hội đền.
 
-Nhà hàng Kinh phát có một học trò tên Văn Thành Hải, mọi người gọi là "Thầy A Minh". Sau khi học được công thức truyền thống làm bánh malt, ông bắt đầu nghĩ về cách cải tiến — làm lớp bánh dẻo càng dẻo, siro malt càng không ngọt quá mức, hình dạng càng tròn nhỏ gọn gàng, dễ ăn một miếng.
+Tiệm Khôn Phái có một học trò tên là Ngụy Thanh Hải, mọi người gọi ông là "A Minh sư". Sau khi học xong cách làm bánh mạch nha truyền thống tại Khôn Phái, ông bắt đầu nghĩ cách cải tiến — làm cho lớp vỏ dầu trở nên giòn hơn, điều chỉnh độ ngọt của nhân mạch nha để không quá ngấy, và làm hình dáng tròn nhỏ nhắn hơn để một người có thể ăn hết một miếng dễ dàng.
 
-Sau khi cải tiến, ông đặt tên cho bánh này là "bánh mặt trời".
+Sau khi cải tiến, ông đặt tên cho loại bánh này là "Bánh Thái Dương" (太陽餅).
 
-Tên gọi "bánh mặt trời" lan truyền từ thập niên 1950, khi đó dọc bờ ga Thung Lũng chảy nhiều quán bán bánh mặt trời, du khách mua làm quà lưu niệm mang về phía bắc và phía nam, từ đó "tên thương phẩm của Thung Lũng" gắn liền với bánh mặt trời[^2].
+Cái tên Bánh Thái Dương chỉ thực sự lưu truyền rộng rãi sau thập niên 1950, khi đó một con phố cạnh ga Đài Trung toàn là tiệm bánh Thái Dương; hành khách mua về làm quà mang đi miền Bắc và miền Nam, từ đó bốn chữ "đặc sản Đài Trung" đã gắn liền với Bánh Thái Dương[^2].
 
-Thầy A Minh không đăng ký thương hiệu. Sau này bánh mặt trời trở thành sản phẩm chung của mọi tiệm bánh ở Thung Lũng, ai cũng có thể làm được. Người ta nói đây là một phần tiếc cho thầy A Minh, nhưng cũng có người cho rằng, chính vì ông không khóa công thức, bánh mặt trời mới có thể trở thành ký ức chung thực sự của Thung Lũng.
+A Minh sư đã không đăng ký thương hiệu. Sau này, Bánh Thái Dương trở thành một mặt hàng phổ thông mà mọi tiệm bánh ở Đài Trung đều có thể làm. Có người nói đó là điều đáng tiếc của A Minh sư, nhưng cũng có người cho rằng chính vì ông không giữ kín công thức, nên Bánh Thái Dương mới có thể trở thành ký ức tập thể thực sự của Đài Trung.
 
-## Bánh lớn hình cây dứa
+## Cuộc cách mạng bánh dứa hình khối
 
-Nhảy tới phía bắc. Trong thời Pháp thuộc, giữa Thần Đường và Thung Lũng có một cửa hàng "Nhà Mật Ophiuchus" của Trần Zhou-chia. Thời đó ngành trồng dứa ở Đài Loan đang phát triển mạnh, xuất khẩu sang Nhật Bản và Trung Quốc, Trần Zhou-chia đã làm sô cô la dứa, gói vào bánh tròn truyền thống, trở thành món ăn ngon nhất của các sư huynh Nhật Bản[^7].
+Chuyển lên phía Bắc. Giữa Đài Bắc và Đài Trung thời Nhật trị có một tiệm "Nhất Phúc Đường" (一福堂菓子舖) do chủ tiệm Trần Chu Tài (陳周才) điều hành. Khi đó ngành trồng dứa tại Đài Loan đang phát triển rầm rộ, dứa được xuất khẩu sang Nhật Bản; Trần Chu Tài đã nấu thịt dứa thành mứt, bọc vào trong chiếc "Bánh dứa lớn" hình tròn truyền thống, trở thành món tráng miệng yêu thích của giới thượng lưu Nhật Bản[^7].
 
-Bánh lớn hình cây dứa này chính là khẩu phần gốc của bánh dứa.
+Chiếc bánh dứa lớn này chính là nguyên mẫu của bánh dứa (鳳梨酥) ngày nay.
 
-Đúng khiến bánh dứa trở thành bánh dứa hiện đại mà chúng ta biết đến, là một nghệ sĩ khác **Trần Gia Địa**. Ông làm hai việc: thu nhỏ bánh tròn lớn thành hình vuông (kích thước tay trung, dễ chia sẻ), và thay lớp bánh truyền thống bằng lớp bánh quả caramel dựa trên bơ[^7]. Nội dung vẫn giữ siro dứa và bí ngô. Sự kết hợp này rất quan trọng, vì siro dứa thuần túy quá chua, siro bí ngô thanh đậm và đều hoà hợp với chất chua của dứa, tạo nên độ nhận diện "chua ngọt cân bằng" của bánh dứa hiện nay[^8].
+Người thực sự biến bánh dứa thành những miếng bánh nhỏ hình khối như chúng ta biết hiện nay là một nghệ nhân khác — **Nhan Thụ Mộc** (顏樹木). Ông đã làm hai việc: thu nhỏ chiếc bánh lớn hình tròn thành dạng khối vuông (vừa lòng bàn tay, tiện chia sẻ), và thay lớp vỏ bánh lớn truyền thống bằng lớp vỏ bánh quy (cookie) có thành phần chính là bơ[^7]. Phần nhân vẫn giữ nguyên mứt dứa trộn củ cải trắng. Sự kết hợp giữa dứa và củ cải trắng là yếu tố then chốt, vì nếu chỉ có mứt dứa thuần túy sẽ quá chua, vị ngọt thanh của củ cải giúp cân bằng với vị chua của dứa, tạo nên đặc trưng "chua ngọt hài hòa" của bánh dứa ngày nay[^8].
 
-Từ bánh tròn lớn đến bánh dứa hình vuông nhỏ, là một cuộc định nghĩa lại "trọng lượng của quà". Trước đây, bánh lớn là bánh kể câu chuyện "một chiếc đủ cho cả gia đình"; bánh dứa hình vuông lại là "một miếng cho một người". Thế hệ sau phát hiện ra, logic này chỉ ra cho ngành công nghiệp bánh ngọt Đài Loan hướng đi thị trường quà lưu niệm.
+Từ chiếc bánh lớn hình tròn đến miếng bánh nhỏ hình khối là một sự tái định nghĩa về "trọng lượng của món quà". Nếu như bánh cưới ngày xưa chú trọng sự hào phóng kiểu "một miếng bánh đủ cho cả gia đình chia sẻ", thì bánh dứa hình khối lại hướng tới sự cá nhân hóa "mỗi người một miếng". Các thế hệ sau sẽ nhận thấy rằng, logic hình khối này đã dự báo cho sự chuyển dịch của toàn bộ ngành công nghiệp bánh kẹo Đài Loan sang thị trường quà lưu niệm.
 
-## Nghiên cứu sản phẩm hình cây bí ngô
+## Những thử nghiệm sơ khai hình quả ô liu
 
-Thời gian nhảy tới năm 1980. Bảo Nguyên thế hệ ba Trần Tăng Huyng, muốn nhận thừa từ cha, mở rộng cửa hàng bán bánh ngọt từ thời Pháp thuộc[^15].
+Thời gian nhảy đến thập niên 1980. Thế hệ thứ ba của Bảo Tuyên tại Phong Nguyên là Trần Tăng Hùng, phải tiếp quản tiệm bánh đã bán từ thời Nhật trị từ tay cha mình[^15].
 
-Câu chuyện Bảo Nguyên kéo dài từ Nhật Bản và Đài Loan. Trong thời Pháp thuộc, thế hệ một Trần Nhiên đã bán bánh ngọt trên đường ba góc ở Thị xã Bảo Nguyên; năm 1943, thế hệ hai Trần Kim Quân mở cửa hàng "Bảo Nguyên" tại Tokyo, Nhật Bản; năm 1975, Trần Tăng Huyng trở lại Bảo Nguyên thành lập "Bảo Nguyên gốc" của Đài Loan, hòa trộn công nghệ món ăn ngọt Nhật Bản với truyền thống bánh ngọt Đài Loan[^15].
+Câu chuyện của Bảo Tuyên trải dài giữa Nhật Bản và Đài Loan. Thời Nhật trị, thế hệ thứ nhất Trần Doãn (陳允) bán bánh tại phố Tam Giác ở khu vực Phong Nguyên; năm 1943, thế hệ thứ hai Trần Kim Tuyền (陳金泉) mở "Bảo Tuyên Chế Quả Bản Bộ" (寶泉製菓本舖) tại Tokyo, Nhật Bản; năm 1975, Trần Tăng Hùng trở về Phong Nguyên thành lập "Đài Loan Bảo Tuyên Bản Điếm" (台灣寶泉本店), kết hợp kỹ thuật làm bánh Tây kiểu Nhật với truyền thống bánh Hán kiểu Đài[^15].
 
-Nghiên cứu đầu tiên của ông là "bánh tròn nhỏ" — thu nhỏ bánh tròn truyền thống cho vừa một người ăn, nhân dùng đậu trắng nhập khẩu từ Nhật Bản. Nhưng ông thay đổi bản đồ thị trường bánh ngọt Trung Thu của Đài Loan với một chiếc bánh khác: **bánh trứng dầu**.
+Thử nghiệm đầu tiên của ông là "Tiểu Nguyệt Bính" (小月餅) — thu nhỏ chiếc bánh trung thu lớn truyền thống thành kích thước vừa vặn cho một người ăn, nhân sử dụng đậu trắng nhập khẩu từ Nhật Bản. Nhưng thứ thực sự thay đổi bản đồ hộp quà Trung thu tại Đài Loan lại là một loại bánh khác: **Bánh lòng đỏ trứng** (蛋黃酥).
 
-Vào tháng 8 năm 1986, tạp chí "Thông tin thực phẩm bánh kẹo" ghi nhận, người phát minh ra bánh trứng dầu chính là Trần Tăng Huyng[^13]. Thầy trưởng ngư tử quốc Ngọc Tĩnh Lục nhớ lại, bánh trứng dầu xuất hiện vào cuối thập niên 1960, **ban đầu là hình cây bí ngô không phải tròn**, làm xong sẽ cắt làm hai nửa để lộ nhân trứng, lớp bánh là da bí ngô chứ không phải bánh dầu[^9]. Sau đó mới dần biến thành phiên bản tròn + lớp bánh dầu mà chúng ta hiện tại biết đến.
+Theo ghi chép của tạp chí _Thông tin Thực phẩm Nướng_ tháng 8/1986, người phát minh ra bánh lòng đỏ trứng chính là Trần Tăng Hùng[^13]. Nghệ nhân quốc bảo Lữ Hồng Vũ (呂鴻禹) nhớ lại rằng nguồn gốc của bánh lòng đỏ trứng vào khoảng thập niên 1960, **ban đầu có hình quả ô liu chứ không phải hình tròn**, khi làm xong sẽ cắt đôi để lộ lòng đỏ trứng muối bên trong, và vỏ bánh là vỏ dứa (菠蘿皮) chứ không phải vỏ dầu (油酥皮)[^9]. Sau này nó mới dần tiến hóa thành phiên bản hình tròn + vỏ dầu như chúng ta thấy ngày nay.
 
-Ba tham số công thức quan trọng của Trần Tăng Huyng vẫn dùng đến ngày nay: xử lý trứng dầu cần ngâm rượu mạnh để loại bỏ mùi tanh rồi nướng ở nhiệt độ vừa, đậu hũ cần hầm lửa nhỏ có mùi khét, tỷ lệ bột và dầu trong lớp bánh dầu phải vừa tay[^9].
+Có ba kỹ nghệ then chốt mà Trần Tăng Hùng đã điều chỉnh: lòng đỏ trứng muối phải được ngâm rượu mạnh để khử tanh trước khi nướng ở nhiệt độ trung bình, đậu đen (ô đậu sa) phải được nấu chậm để có mùi khói nhẹ, và tỷ lệ bột mì với dầu trong vỏ dầu phải được kiểm soát chuẩn xác[^9]. Ba thông số công thức này vẫn được áp dụng cho đến tận ngày nay.
 
-Thế hệ bốn Trần Hữu Hùng học tập ở Nhật Bản, mang lại sự tỉ mỉ của món ăn Nhật Bản về Bảo Nguyên. Năm 2013, Bảo Nguyên đổi tên thành "Trần Nhiên Bảo Nguyên", đưa tên của thế hệ một Trần Nhiên vào biển hiệu — hành động ngược lại thường thấy trong doanh nghiệp gia đình, thường dần dần xóa bỏ tên thế hệ một, nhưng Bảo Nguyên lại quay lại với nó[^15].
+Thế hệ thứ tư Trần Khôn Hoành (陳坤宏) đã sang Nhật học nghề, mang sự tinh tế của bánh Wagashi Nhật Bản trở về Phong Nguyên. Năm 2013, Bảo Tuyên đổi tên thành "Trần Doãn Bảo Tuyên" (陳允寶泉), đưa tên của thế hệ thứ nhất Trần Doãn vào biển hiệu — đây là một động thái ngược hiếm thấy ở các doanh nghiệp gia đình trăm năm, vốn thường làm mờ dần tên người sáng lập, nhưng nhà này lại khôi phục nó[^15].
 
-## Biến đổi công nghệ bánh dẻo bọc bánh dầu
+## Sự đột phá kỹ nghệ: Vỏ dầu bọc nhân dầu
 
-Để hiểu tại sao bánh ngọt Đài Loan thập niên 2020 có thể xuất hiện bánh trứng dầu flow, hợp tác với nhà thiết kế tạo hình dễ thương bánh đậu xanh, thậm chir là làm bánh mì "Gelato", phải phân tích tính năng cốt lõi của bánh ngọt: **bánh dẻo bọc bánh dầu**.
+Để hiểu tại sao bánh kẹo Đài Loan vào thập niên 2020 có thể giao thoa để tạo ra bánh lưu tâm (流心酥), bánh đậu xanh với tạo hình đáng yêu qua sự hợp tác với nhà thiết kế, hay thậm chí là "Gelato bánh Hán", trước tiên phải phân tích đặc trưng cốt lõi nhất của bánh Hán: **Vỏ dầu bọc nhân dầu** (油皮包油酥).
 
-Lớp bánh của bánh ngọt không dùng bột nở, không dùng chất thêm hóa học, mà dựa vào xếp chồng vật lý. Thầy bánh trước khi làm bánh dẻo dùng bột đường, nước và chất béo trộn thành một cục có độ dẻo; sau đó dùng bột thấp protein và chất béo trộn thành một cục mịn thưa. Sau đó lớp bánh dẻo bọc quanh lớp bánh dầu, lặp lại gập gọn và nén — mỗi lớp bánh dẻo đều cách nhau bằng một lớp mỏng bánh dầu. Khi nướng ở nhiệt độ cao, nước trong lớp bánh dẻo sẽ bay hơi thành hơi nước, kéo bật lớp bánh, từ đó hình thành hàng nghìn lớp bánh mịn sắc nét[^17].
+Lớp vỏ giòn của bánh Hán không dựa vào bột nở hay phụ gia hóa học, mà dựa vào sự xếp chồng vật lý. Nghệ nhân trước tiên dùng bột mì đa dụng, nước và chất béo để nhào thành một khối "vỏ dầu" (油皮) có độ dẻo; sau đó dùng bột mì số thấp và chất béo trộn thành một khối "nhân dầu" (油酥) tơi xốp. Tiếp theo, vỏ dầu sẽ bao lấy nhân dầu, rồi lặp đi lặp lại việc gấp và cán — giữa mỗi lớp vỏ dầu là một lớp nhân dầu mỏng. Khi nướng ở nhiệt độ cao, hơi nước trong vỏ dầu bốc hơi tạo thành áp suất đẩy các lớp bột tách ra, từ đó tạo nên cấu trúc hàng trăm, hàng ngàn lớp tinh xảo[^17].
 
-Cấu trúc này có khả năng chịu tải mạnh mẽ. Nó có thể bao bọc đậu xanh ướt, thịt kho tàu nhờn, bọc trứng dầu và đậu hũ cả lớp, thậm chir là bao bọc "nội dung flow" – thứ khiến bánh truyền thống Tây Ban Nha gặp vấn đề làm bánh dẻo bị nước xấu – nhưng bánh ngọt Đài Loan dùng khả năng xếp chồng tạo ra một bức tường tự nhiên — giữ lại độ ẩm và chất béo của nhân, đồng thời giữ được vỏ bánh giòn rụm.
+Cấu trúc này có khả năng chịu tải cực mạnh. Nó có thể bao bọc nhân đậu xanh ẩm mượt, thịt kho bóng bẩy, lòng đỏ trứng muối và đậu đen nhiều tầng lớp, thậm chí là cả loại "nhân lỏng" (liquid lava) khó nhằn nhất trong các món điểm tâm hiện đại. Vấn đề của các món bánh lưu tâm kiểu Tây truyền thống là nhân lỏng sẽ thấm qua vỏ bánh khiến bánh bị mềm nhũn, nhưng các nghệ nhân Đài Loan đã tận dụng đặc tính ngàn lớp để tạo ra một rào cản tự nhiên — vừa khóa chặt độ ẩm và dầu của nhân, vừa giữ cho lớp vỏ ngoài luôn giòn tan.
 
-**Ba trường hợp bánh ngọt** là ví dụ tiêu biểu trên con đường này. Cửa hàng bánh ngọt lâu đời 40 năm, vào thời kỳ dịch COVID-19 doanh thu một ngày chỉ còn 2.000 USD, quản lý marketing Tuệ Huyền (trong ngành gọi cô là "Chị gái bay bay") dẫn dắt đội ngũ thực hiện chuyển đổi số toàn diện: nghiên cứu sản phẩm có thời gian bảo quản lâu hơn, tự xây dựng trang web thương hiệu trên SHOPLINE, triển khai trên các nền tảng thương mại điện tử[^21]. Bánh trứng dầu flow của họ thiết lập kỷ lục mỗi 17 giây bán một hộp, một ngày bán ra 400.000 chiếc, khiến Ba trường hợp bánh ngọt thu nhập hơn 1 tỷ USD trong vòng ba năm[^21].
+**Tam Thống Hán Tử** (三統漢菓子) là một trường hợp điển hình của dòng kỹ nghệ này. Tiệm bánh Hán lâu đời 40 năm này, trong giai đoạn đại dịch COVID-19 năm 2020, doanh thu mỗi cửa hàng có lúc chỉ còn 2.000 Đài tệ/ngày; Giám đốc marketing Chu Thi Nhã (周詩雅) — được giới trong nghề gọi là "Bản nương Phi Phi" — đã dẫn dắt đội ngũ thực hiện một cuộc chuyển đổi số triệt để: nghiên cứu sản phẩm mới có thời hạn bảo quản dài hơn, xây dựng website thương hiệu riêng qua SHOPLINE và triển khai trên các nền tảng thương mại điện tử[^21]. Sản phẩm bánh lưu tâm của họ đã lập kỷ lục trung bình cứ 17 giây bán được 1 hộp, doanh số một ngày đạt 400.000 chiếc, giúp Tam Thống Hán Tử thu về doanh thu hàng trăm triệu Đài tệ chỉ trong vòng ba năm[^21].
 
-**Giới Hồng** đi theo con đường khác. Thế hệ năm Giới Kiến Vũ vào năm 2009 vào doanh nghiệp gia đình, năm 2016 phê chọn là người kế thừa[^22]. Ông học tập gần ba năm ở Nhật Bản, ghé thăm các tiệm bánh ngọt lâu đời, trở về sau đó chuyển đổi chiến lược từ "chiếm ba phần thị trường bánh kẹp" sang lễ hội và quà lưu niệm, bắt đầu thu nhỏ bánh đậu xanh khổng lồ, tinh hoá hình dạng. Bánh đậu xanh hợp tác với nhà thiết kế Nhĩa Vĩnh Nhĩa "Thời gian chấm điểm" được phá vỡ giới hạn mẫu in một mặt và hương vị duy nhất; các dòng sản phẩm khác biến hình dáng bánh đậu xanh thành các biểu tượng nổi tiếng địa phương như chim xanh Đài Loan, chùa Long Sơn[^23]. Câu nói "Chúng tôi không chỉ là tiệm bánh ngọt" ông đã nói trong nhiều buổi phỏng vấn[^22].
+**Quách Nguyên Ích** (郭元益) lại đi theo một con đường khác. Thế hệ thứ năm Quách Kiến Vĩ (郭建偉) gia nhập doanh nghiệp gia đình vào năm 2009 và được chỉ định kế thừa vào năm 2016[^22]. Ông đã dành gần ba năm du học tại Nhật Bản để tham quan các tiệm bánh Wagashi trăm năm; sau khi trở về, ông chuyển chiến lược từ việc "chiếm lĩnh 3/4 thị trường bánh cưới" sang phân khúc lễ tết và quà lưu niệm, bắt đầu thu nhỏ và tinh tế hóa những chiếc bánh đậu xanh khổng lồ. Dòng bánh đậu xanh liên danh với nhà thiết kế Nhiếp Vĩnh Chân mang tên "Thời khắc quà tặng" đã phá vỡ giới hạn của khuôn ép một mặt và hương vị đơn nhất; các dòng khác còn tạo hình bánh đậu xanh thành các địa danh nổi tiếng như chim bách thanh Đài Loan (Taiwan Blue Magpie) hay chùa Long Sơn[^23]. Ông đã nhiều lần khẳng định trong các cuộc phỏng vấn: "Chúng tôi không chỉ là một tiệm bánh Hán"[^22].
 
-**Cụ Tĩnh Bảo** đi theo con đường thứ ba: giáo dục văn hóa. Tiệm bánh lâu đời 1890 năm ở Kinh Hồ, năm 2016 thành lập "Bảo tàng văn hóa bánh ngọt" tại Lai Lai, tòa nhà ba tầng diện tích 4.421 mét vuông, tích hợp trụ sở doanh nghiệp, nhà trưng bày câu chuyện thương hiệu, nhà bếp bánh ngọt, không gian trải nghiệm văn hóa bánh ngọt[^16]. Chủ tịch Lục Huy Cường thúc đẩy lối mòn dinh dưỡng, mời học sinh các trường vùng sâu, hữu nơi Thung Lũng tham quan trải nghiệm, đã bao phủ 8 khu vực 26 trường học, gần 600 học sinh.
+**Cựu Chấn Nam** (舊振南) chọn con đường thứ ba: Giáo dục văn hóa. Được thành lập vào năm 1890, tiệm bánh trăm năm tại Cao Hùng này đã thành lập "Bảo tàng Văn hóa Bánh Hán" tại Đại Liêu vào năm 2016. Tòa nhà ba tầng rộng 4.421 m² này là nơi hội tụ của trụ sở doanh nghiệp, nhà trưng bày câu chuyện thương hiệu, bếp bánh kẹo và không gian trải nghiệm văn hóa nướng[^16]. Chủ tịch Lý Hùng Khánh (李雄慶) đã thúc đẩy lộ trình giáo dục ẩm thực bằng cách mời học sinh từ các khu vực vùng sâu vùng xa ở Cao Hùng đến tham quan trải nghiệm, hiện đã bao phủ gần 600 học sinh từ 26 trường thuộc 8 khu vực.
 
-Tháng 4 năm 2026, Cụ Tĩnh Bảo khởi động thêm một phương án dám thay đổi: ra mắt bánh mì "Gelato bánh ngọt" độc quyền trên toàn quốc (Bánh ngọt Gelato), dịch chuyển các hương vị truyền thống như bánh dứa, bánh đậu xanh thành Gelato nguyên tử, với 4 hương vị thường niên (Dứa và Nhật Bản, Bánh đậu xanh truyền thống, Hương Sen Trà, Hương Hoa Trà) + 2 hương vị giới hạn theo mùa, ra mắt lần đầu tại trung tâm thương mại đa sử dụng Hán Sơn ở Thung Lũng, kế hoạch lần hai đưa vào Grand City Garden (tòa nhà siêu phàn đào SOGO) tại Hà Nội[^18]. Cùng lúc đó, kế hoạch mở rộng 20 cửa hàng trên toàn quốc[^19].
+Vào tháng 4 năm 2026, Cựu Chấn Nam sẽ thực hiện một bước đi giao thoa táo bạo hơn — ra mắt món "Gelato bánh Hán" (漢餅 Gelato) độc nhất Đài Loan. Họ chuyển hóa các hương vị bánh Hán kinh điển như bánh dứa, bánh đậu xanh lợn quay thành món Gelato kiểu Ý, với 4 hương vị thường trực (Phượng Hòa Nhật Lệ, Peng Kiến Kinh Điển, Lương Thần Mai Cảnh, Trà Ngữ Hoa Hương) cộng với 2 hương vị giới hạn theo mùa. Sản phẩm sẽ ra mắt đầu tiên tại Trung tâm Thương mại Han Shin Concourse ở Đài Trung, và dự kiến tiến vào khu vực Garden City (SOGO Đại Cự Đàm) tại Đài Bắc vào quý hai[^18]. Đồng thời, họ cũng khởi động kế hoạch mở rộng lên 20 cửa hàng trên toàn Đài Loan[^19].
 
-Lớp bánh dẻo bọc bánh dầu kéo dài từ thời Giao Thái đến năm 2026 — nó có khả năng chịu đựng bánh trứng dầu flow 5 cm, bánh đậu xanh có thiết kế đặc biệt với Giới Hồng, hay một ly Gelato. Phương pháp truyền thống nhất thường là giải pháp trang trọng nhất để giải quyết các vấn đề hiện đại.
+Kỹ nghệ vỏ dầu bọc nhân dầu đã kéo dài từ thời nhà Thanh đến tận năm 2026 — nó có thể nâng đỡ một chiếc bánh lưu tâm 5cm, một chiếc bánh đậu xanh liên danh với nhà thiết kế, hay một cây kem Gelato. Những phương pháp truyền thống kiên định nhất thường lại là giải pháp thanh lịch nhất cho các vấn đề đương đại.
 
-## Nghi lễ phục tế dưới Ngọc Sơn
+## Nghi thức mời trà dưới chân núi Bát Quái
 
-Bây giờ chuyển tới Thịnh Phú. Năm 2009, người sáng lập công ty công nghệ xuống đảo **Hồng Minh Nhân** để giúp gia đình chuyển đổi sang công nghiệp, cùng anh em Hồng Thành Nhân, Lai Hạt Trùng, Lai Hùng Nhân đầu tư 80 triệu USD, thành lập "SunnyHills Núi nóng"[^4].
+Chuyển sang Nam Đầu. Năm 2009, để giúp gia đình chuyển hướng sang ngành nông nghiệp doanh nghiệp, cựu sáng lập công nghệ Chuyên Định (詮鼎科技) là **Hứa Minh Nhân** (許銘仁) đã cùng bốn người gồm em trai Hứa Thắng Minh (許勝銘), Lam Sa Chung (藍沙鐘) và Lam Hoành Nhân (藍宏仁) đầu tư số vốn 80 triệu Đài tệ để thành lập "SunnyHills" (微熱山丘)[^4].
 
-Người tư vấn Lai Zhen Shun đặt tên "Núi nóng" — chỉ vào ô nhiệt mờ ầm dưới chiều tàn ở đồng bằng dưới Ngọc Sơn, và sự ấm áp nhẹ nhàng nhưng hiếu khách của người dân ở trên cao. Lai Zhen Shun xin đồng ý, đề xuất dùng dứa nổi tiếng của Ngọc Sơn làm bánh dứa, nhưng phải dùng "dứa đất" (gọi là số 2 và 3 "Khổng Lồ Đầu Gối") khác biệt. Dứa đất có độ chua, có hương vị trái cây, họ kiên quẫn chỉ dùng siro malt kiểm soát độ ngọt, độ chua lại để nguồn nguyên liệu tự nhiên theo mùa không điều chỉnh[^4].
+Cố vấn của họ, Tạ Trinh Thuấn (謝禎舜), đã đặt tên cho thương hiệu là "Vi Nhiệt" (微熱 - hơi ấm nhẹ) — ám chỉ hơi ấm tỏa ra từ mặt đất dưới chân núi Bát Quái lúc hoàng hôn, cũng như sự hiếu khách nhưng kín đáo của người dân trên núi. Tạ Trinh Thuấn đã gạt đi mọi ý kiến trái chiều để đề xuất dùng giống dứa đặc sản tại vùng núi Bát Quái làm bánh dứa, nhưng phải là loại "dứa bản địa" (土鳳梨) khác biệt (thường gọi là giống Khai Anh số 2 và số 3). Dứa bản địa có độ chua và hương thơm trái cây mạnh; họ kiên quyết chỉ dùng mạch nha để điều chỉnh độ ngọt, còn độ chua thì để mặc cho nguyên liệu thay đổi theo mùa mà không điều chỉnh công thức[^4].
 
-Lựa chọn này khiến SunnyHills trở thành một ví dự đặc biệt trong vòng bánh ngọt Đài Loan. Khi thị trường chủ yếu dùng dứa ngọt, sợi mịn và độ ngọt cao "Kim Tinh Dứa" (loại dùng cho ăn), dứa đất quá chua và có sợi dày, bị cho là không phù hợp để làm nhân. SunnyHills đặt niềm tin vào "quay lại độ chua tự nhiên của dứa".
+Lựa chọn này đã biến SunnyHills trở thành một "kẻ ngoại đạo" (outlier) trong giới bánh kẹo Đài Loan. Vào thời điểm đó, dòng bánh dứa chủ lưu trên thị trường đều dùng giống dứa Kim Thuẫn (金鑽) có độ ngọt cao và sợi mịn (giống dùng cho thực phẩm), còn dứa bản địa quá chua và có sợi thô nên bị coi là không phù hợp làm nhân. Canh bạc của SunnyHills chính là: **Trở về với độ chua nguyên bản vốn có của trái dứa**.
 
-Nghi lễ phục tế tại ngôi nhà ba tầng trước sân xa hội Thịnh Phú là khung cảnh nổi bật nhất của thương hiệu này. Mỗi khách vào ba tầng nhà sẽ nhận được một tách trà nóng + một miếng bánh dứa thử nghiệm, chưa kịp thanh toán đã ăn rồi. Nghi lễ này kéo dài từ năm 2009 đến ngày nay, là hoạt động "ăn trước khi mua" hiếm gặp trong các tiệm bánh ngọt Đài Loan.
+Nghi thức mời trà tại cửa nhà kiểu tam hợp viện ở Nam Đầu là khung cảnh nhận diện đặc trưng nhất của thương hiệu này. Mỗi vị khách bước vào sân đều sẽ nhận được một tách trà nóng và một miếng bánh dứa dùng thử, thậm chí còn chưa kịp thanh toán đã được ăn trước rồi. Nghi thức này kéo dài từ năm 2009 đến nay, là một cách vận hành "ăn trước mua sau" hiếm thấy ở các tiệm bánh Đài Loan.
 
-Tác động thực sự là trên nông nghiệp. SunnyHills làm dâng giá dứa đất, từ gia trước dưới 5 USD mỗi cân, hiện nay lên tới 10 USD mỗi cân giá cố định, diện tích đàn 270 hecta, thuê 210 người địa phương[^4]. Con số này trong ngành công nghiệp nông nghiệp Đài Loan không phải là nhỏ, tương đương đưa một loại giống cổ có vẻ sắp tàn phai trở lại thị trường chính.
+Ảnh hưởng thực tế hơn nằm ở khía cạnh nông nghiệp. SunnyHills đã làm nóng giá dứa bản địa, từ mức chưa tới 5 Đài tệ/cân lúc ban đầu, nay đã tăng lên mức giá canh tác là 10 Đài tệ/cân, với diện tích canh tác đạt 270 ha và tạo việc làm cho 210 nhân viên địa phương[^4]. Con số này không hề nhỏ trong ngành nông nghiệp doanh nghiệp tại Đài Loan, nó tương đương với việc kéo một giống bản địa tưởng chừng sắp biến mất trở lại thị trường chủ lưu.
 
-## Chiến tranh Trung Thu 30 giây
+## Cuộc chiến Trung thu: Bán hết trong 30 giây
 
-Thời gian đến năm 2017. Một cậu bé tên **Trần Duy Tín** ở Lạc Hồ giành chiếc vô địch Mondial du Pain thế kỷ sáu[^5]. Cuộc thi bánh mì thế giới do Pháp tổ chức, là cuộc thi kỹ thuật bánh mì kiểu châu Âu, là việc người châu Á có thể giành chiến thắng là hiếm học.
+Thời gian đến năm 2017. Một người con Lộc Cảng tên là **Trần Diệu Huấn** đã giành chức vô địch cuộc thi bánh mì thế giới Mondial du Pain tại Pháp[^24].
 
-Năm 2019, Trần Duy Tín trở lại Đài Loan, thành lập thương hiệu bánh mì cá nhân "Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY"[^11]. Việc đầu tiên ông làm là giao hòa công nghệ bánh mì kiểu châu Âu chiến thắng của Mondial du Pain với lớp bánh trứng dầu truyền thống của Đài Loan, nghiên cứu ra một bộ quà Trung Thu gọi là "bánh trứng dầu đỏ từ đất"[^10].
+Sau khi kết thúc thời gian làm việc tại "Paris Bobo" ở Cao Hùng, ông đến Đài Bắc mở thương hiệu bánh nướng cá nhân "**Trần Diệu Huấn ・ Bánh nướng YOSHI BAKERY**" [^24][^11]. Sau đó, ông đã kết hợp kỹ thuật làm bánh mì kiểu Âu của nhà vô địch thế giới với lớp vỏ bánh lòng đỏ trứng truyền thống của Đài Loan để nghiên cứu ra một loại hộp quà Trung thu mang tên "Bánh lòng đỏ trứng đất đỏ" (紅土鹹蛋黃蛋黃酥)[^10].
 
-Trứng dầu từ đất + hạt đậu xanh giảm đường + siro bánh bò chiến thắng.
+Lòng đỏ trứng muối ngâm đất đỏ + đậu đen giảm đường + bơ đạt giải vô địch Đan Mạch.
 
-Bộ hợp chất này ra mắt năm đầu đã đưa Trần Duy Tín lên vị trí "người mẫu của ngành bánh trứng dầu" — bán ra trong vòng 30 giây đầu tiên[^10]. Người dùng bắt đầu nói rằng điều này khó khăn hơn cả việc xuất điện của Beatles hay Jay Chou. Vào năm 2025, tiền đề Trung Thu được đưa vào hệ thống bán vé truyền thông số (cùng hệ thống bán vé cho các buổi hòa nhạc của Five for Five và Jay Chou), mở bán vào lúc 12:30 ngày 29 tháng 7, mỗi người giới hạn mua 8 hộp, giá 900 USD, không giao hàng nhà, phải đến cửa hàng lấy hàng[^11].
+Sự kết hợp này ngay trong năm đầu tiên ra mắt đã đưa Trần Diệu Huấn lên vị thế "Hermès của giới bánh lòng đỏ trứng" — bán hết chỉ trong chưa đầy 30 giây[^10]. Cư dân mạng bắt đầu nói rằng việc này còn khó giành hơn cả săn vé concert. Vào Trung thu năm 2025, việc đặt trước vẫn được thực hiện qua hệ thống bán vé Takuo Yuan (giống hệ thống bán vé cho các concert của Mayday hay Châu Kiệt Luân); vào lúc 12:30 trưa ngày 29 tháng 7 sẽ mở bán, mỗi người giới hạn mua 8 hộp, giá bán 900 Đài tệ, không giao hàng tận nơi mà phải đến cửa hàng lấy trực tiếp[^11].
 
-Đây là một định dạng chiến tranh Trung Thu thế hệ mới. Các tiệm bánh truyền thống so sánh công thức, thiết kế hộp, kênh bán hàng; thế hệ mới thêm vào hệ thống xuất vé, chiến thắng Mondial du Pain, hype cộng đồng là ba trường chơi mới.
+Đây là một định dạng hoàn toàn mới cho cuộc chiến Trung thu. Các tiệm bánh lâu đời truyền thống so kè về công thức, thiết kế hộp quà và kênh phân phối; thế hệ mới lại có thêm ba đấu trường mới: hệ thống săn vé, danh hiệu vô địch thế giới và sự bùng nổ trên mạng xã hội (hype).
 
-Cùng thế hệ với Trần Duy Tín, còn có bánh kẹp "kẹp khoai lang" của Thầy A Trương (được chọn làm món ăn đặc biệt tại bữa tiệc quốc gia), bánh hồn quả của Yù Zhēn Zhāi ở Lạc Hồ, bánh tròn nhỏ của Bảo Nguyên, bánh dứa của SunnyHills, và bánh mì "Gelato" của Cụ Tĩnh Bảo[^12]. Những tiệm bánh lâu đời, nghệ sĩ mới, con đường giáo dục văn hóa, và bánh mì gelato xuyên nga – bốn phong cách bánh ngọt đại diện cho bốn thế kỷ, mỗi năm Trung Thu đều trò chuyện trên cùng một bàn ăn.
+Cùng thế hệ với Trần Diệu Huấn còn có bánh khoai môn của thầy A Thông ở Đại Giáp (món điểm tâm được chỉ định cho quốc yến), bánh Phượng Nhãn của Ngọc Trân Trai Lộc Cảng, tiểu nguyệt bính của Trần Doãn Bảo Tuyên tại Phong Nguyên, bánh dứa của SunnyHills và Gelato bánh Hán của Cựu Chấn Nam[^12]. Bốn loại bánh này — đại diện cho các tiệm trăm năm, nghệ nhân mới nổi, lộ trình giáo dục văn hóa và kem giao thoa — chính là bốn thái độ của thời đại, cùng đối thoại trên một bàn ăn mỗi dịp Trung thu.
 
-## Lớp tăng trưởng bánh ngọt không thay đổi
+## Các tầng lớp hương vị về cơ bản không đổi
 
-Từ tầng hai hành lang đường Quốc Gia ở Lạc Hồ đến hệ thống bán vé truyền thông số 30 giây, bánh ngọt Đài Loan trong vòng 150 năm đã thay đổi bao nhiêu người. Nhưng lớp tăng trưởng bánh ngọt vẫn giữ vững: trứng dầu vẫn cần ngâm rượu mạnh để loại bỏ mùi tanh, siro malt vẫn cần hầm lửa nhỏ, dứa đất vẫn cần để lâu tự nhiên để chua, lớp bánh dẻo bọc bánh dầu vẫn cần thầy bánh gập gọn và nén trên tấm ván.
+Từ tầng hai của hãng tàu Lộc Cảng đến hệ thống bán vé Takuo Yuan trong 30 giây, bánh kẹo Đài Loan đã thay đổi vô số diện mạo trong suốt 150 năm qua. Nhưng các tầng lớp hương vị về cơ bản vẫn không đổi: lòng đỏ trứng muối vẫn phải ngâm rượu để khử tanh, mạch nha vẫn phải nấu chậm, dứa bản địa vẫn phải đợi chín tự nhiên trên đồng ruộng để đạt độ chua, và cấu trúc ngàn lớp của vỏ dầu bọc nhân dầu vẫn phải dựa vào việc nghệ nhân lặp đi lặp lại thao tác gấp và cán trên thớt.
 
-Chiến thắng Mondial du Pain và các tiệm bánh ngọt lâu đời, giờ đây đứng trên cùng một bàn Trung Thu. Ai không thay thế người kia. Trong một hộp quà, có thể có bánh hồn quả của Yù Zhēn Zhāi, bánh kẹp khoai lang của Thầy A Trương, bánh dứa của SunnyHills, bánh trứng dầu đỏ từ đất của Trần Duy Tín, và bánh mì "Gelato" của Cụ Tĩnh Bảo ở góc khuất. Năm khẩu phần bánh ngọt đại diện cho năm thế kỷ, nhưng đều được xem như "vật dụng" của ngày lễ Trung Thu chung.
+Nhà vô địch bánh mì thế giới và tiệm bánh Hán trăm năm hiện đang đứng cùng một bàn ăn Trung thu. Không ai thay thế ai cả. Trong một hộp quà có thể có bánh Phượng Nhãn của Ngọc Trân Trai, bánh khoai môn của thầy A Thông, bánh dứa của SunnyHills, bánh lòng đỏ trứng đất đỏ của Trần Diệu Huấn, và bên cạnh là món Gelato bánh Hán của Cựu Chấn Nam đang tan chảy — năm loại bánh đại diện cho năm thời đại, nhưng đều được coi là vật phẩm của ngày lễ chung mang tên "Trung thu".
 
-Lần sau bạn nhận được một miếng bánh trứng dầu, hãy nếm thử rồi tưởng tượng: trứng dầu đến từ đâu, lớp bánh dầu gập bao nhiêu lớp, nhân đậu hũ đã hầm lửa nhỏ bao lâu, lớp công nghệ này được truyền từ gầm trần Lạc Hồ thời Giao Thái đến sự lo lắng xuất vé truyền thông số năm 2026, giữa hàng ngàn thầy bánh đã qua lại.
+Lần tới khi bạn cầm một miếng bánh lòng đỏ trứng, hãy thử cắn một miếng và suy ngẫm: lòng đỏ trứng này đến từ đâu, lớp vỏ dầu đã được gấp bao nhiêu lớp, nhân đậu đen đã được nấu chậm trong bao lâu; kỹ nghệ này đã truyền từ gác mái Lộc Cảng thời nhà Thanh đến sự lo âu săn hàng trên hệ thống bán vé Takuo Yuan năm 2026, trải qua biết bao thế hệ nghệ nhân bên bàn cán bột.
 
-Một miếng bánh chứa đựng thời gian, dài hơn bạn nghĩ.
+Thời gian chứa đựng trong một miếng bánh dài hơn nhiều so với những gì bạn tưởng.
 
 ## Đọc thêm
 
-- [Bánh mặt trời](/vi/food/sun-cake) — Báo sâu về câu chuyện lịch sử của bánh mặt trời được cải tiến từ bánh malt của Thầy A Minh tại tiệm Kinh phát ở Thần Không
-- [Bánh dứa](/vi/food/pineapple-cake) — Lộ trình phát triển bánh dứa từ bánh lớn hình cây dứa thời Pháp thuộc đến cuộc cách mạch biến hình vuông
-- [Bánh mì và công nghệ bánh kẹp Đài Loan](/vi/food/taiwan-bread-and-baking) — Câu chuyện về các thầy bánh kẹp Đài Loan từ Trần Tĩnh Bảo đến Trần Duy Tín bước vào sân chơi thế giới
-- [Văn hóa ẩm thực gạo Đài Loan](/vi/food/taiwan-rice-cuisine-culture) — Gạo và bánh ngọt là hai đường con trên cùng một bàn ăn, hiểu gạo mới hiểu được vị trí của bánh ngọt
-- [Nghi lễ hôn nhân và lễ hội trong đời sống Đài Loan](/vi/culture/taiwanese-life-ceremony-traditions) — Vai trò cụ thể của hộp bánh ngọt trong sáu nghi lễ mười hai nghi lễ
-- [Văn hóa trà Đài Loan](/vi/culture/taiwanese-tea-culture-and-living-aesthetics) — Bánh ngọt và trà là bạn đồng thời kéo dài hàng năm, bánh hồn quả của Yù Zhēn Zhāi ban đầu chỉ dùng để ăn kèm trà
+- [Bánh Thái Dương](/vi/food/sun-cake) — Lịch sử chuyên sâu về mặt hàng đơn nhất được cải tiến từ bánh mạch nha của tiệm Khôn Phái bởi A Minh sư Ngụy Thanh Hải tại Thần Cương, Đài Trung.
+- [Bánh dứa](/vi/food/pineapple-cake) — Lộ trình tiến hóa suốt 80 năm từ chiếc bánh dứa lớn của Nhất Phúc Đường thời Nhật trị đến cuộc cách mạng hình khối.
+- [Bánh mì và nướng Đài Loan](/vi/food/taiwan-bread-and-baking) — Câu chuyện về các thợ làm bánh Đài Loan bước ra đấu trường thế giới, từ Ngô Bảo Xuân (Wu Pao-chun) đến Trần Diệu Huấn.
+- [Văn hóa ẩm thực gạo Đài Loan](/vi/food/taiwan-rice-cuisine-culture) — Gạo và bánh kẹo là hai mạch chính trên cùng một bàn ăn; phải hiểu về gạo mới hiểu được vị trí của bánh.
+- [Phong tục cưới hỏi, tang ma và lễ tiết tại Đài Loan](/vi/culture/taiwanese-life-ceremony-traditions) — Vai trò cụ thể của các hộp bánh cưới trong lục lễ thập nhị lễ.
+- [Văn hóa trà Đài Loan](/vi/culture/taiwanese-tea-culture-and-living-aesthetics) — Bánh Hán và trà là sự kết hợp trăm năm; bánh Phượng Nhãn của Ngọc Trân Trai vốn dĩ được dùng để thưởng cùng trà.
 
 ## Tài liệu tham khảo
 
-[^1]: [Trang web chính thức của Yù Zhēn Zhāi — Giới thiệu về Yù Zhēn Zhāi và lịch sử phát triển](https://www.1877.com.tw/about-us/) — Trang web chính thức của Yù Zhēn Zhāi, ghi lại năm 1877 (thế kỷ 3 Giao Thái) Hoàng Tỵ khai sinh tại số 168 đường Quốc Gia ở Lạc Hồ, và lịch sử hợp tác với Trần Chiêu mở cửa hàng Yù Zhēn Zhāi, cũng như lịch sử chia tách giữa Trần Chiêu và Trần Yù Zhēn.
+[^1]: [Trang web chính thức của Ngọc Trân Trai — Về Ngọc Trân Trai và lịch sử phát triển](https://www.1877.com.tw/about-us/) — Trang web chính thức của Ngọc Trân Trai, ghi chép về việc tiệm được thành lập bởi thương gia giàu có Hoàng Cẩm tại Lộc Cảng vào năm 1877 (năm Quang Tự thứ ba), quá trình hợp tác với Trịnh Chùy và lịch sử tách ra để Trịnh Chùy lập tiệm Trịnh Ngọc Trân.
 
-[^2]: [Wikipedia: Bánh mặt trời](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Bao gồm bánh mặt trời bắt nguồn từ tiệm Kinh phát ở Thần Không, được Lin Zhi Fang gia đình mở trong thời Pháp thuộc, bánh malt được học trò Văn Thành Hải (Thầy A Minh) cải tiến đặt tên là "bánh mặt trời" theo bối cảnh lịch sử, và biến thành sản phẩm thương mại của Thung Lũng sau thập niên 1950.
+[^2]: [Wikipedia: Bánh Thái Dương](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Ghi lại bối cảnh lịch sử về nguồn gốc bánh Thái Dương từ bánh mạch nha của tiệm Khôn Phái tại Thần Cương, Đài Trung do gia tộc Lâm Chấn Phương mở thời Nhật trị, được học trò Ngụy Thanh Hải (A Minh sư) cải tiến và đặt tên là "Bánh Thái Dương", cũng như sự phát triển thị trường trở thành đặc sản Đài Trung sau thập niên 1950.
 
-[^3]: [Wikipedia: Bảo Nguyên](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — Bao gồm tiệm bánh ngọt Bảo Nguyên từ thời Pháp thuộc, gia đình Lin Nhiên, mở cửa hàng "Bảo Nguyên" tại Tokyo năm 1943, và lịch sử phát triển của Trần Tăng Huyng thành lập Bảo Nguyên gốc tại Đài Loan năm 1975 và nghiên cứu ra bánh trứng dầu bốn thế hệ.
+[^3]: [Wikipedia: Bảo Tuyên](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — Ghi lại lịch sử truyền thừa bốn thế hệ của tiệm bánh Bảo Tuyên tại Phong Nguyên, từ thế hệ thứ nhất Trần Doãn thời Nhật trị, đến việc thế hệ thứ hai Trần Kim Tuyền mở Bảo Tuyên Chế Quả Bản Bộ tại Tokyo năm 1943, và thế hệ thứ ba Trần Tăng Hùng thành lập Đài Loan Bảo Tuyên Bản Điếm cùng nghiên cứu ra bánh lòng đỏ trứng vào năm 1975.
 
-[^4]: [Tạp chí Hoa Hồng Đài Loan: Phỏng vấn SunnyHills](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Bao gồm chi tiết về việc Hồng Minh Nhân và bốn người khác đầu tư 80 triệu USD thành lập SunnyHills năm 2009, dùng dứa đất số 2 và 3 làm nguyên liệu, giá cố định tăng từ dưới 5 USD mỗi cân lên 10 USD mỗi cân, diện tích đàn 270 hecta, thuê 210 người địa phương.
+[^4]: [Tạp chí Quang Hoa Đài Loan: Phỏng vấn SunnyHills](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Ghi chép chi tiết vận hành của SunnyHills, được thành lập năm 2009 bởi bốn người gồm Hứa Minh Nhân với số vốn 80 triệu Đài tệ, sử dụng dứa bản địa giống Khai Anh số 2/số 3, nâng giá canh tác từ dưới 5 Đài tệ lên 10 Đài tệ/cân, diện tích canh tác 270 ha và thuê 210 nhân viên địa phương.
 
-[^5]: [Supertaste: Báo cáo về bánh trứng dầu của Trần Duy Tín](https://supertaste.tvbs.com.tw/food/355752) — Báo cáo Trần Duy Tín từ Lạc Hồ giành chiếc vô địch Mondial du Pain năm 2017, năm 2019 thành lập thương hiệu Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY, và sự sụt sắc của bánh trứng dầu đỏ từ đất được xem là "người mẫu của ngành bánh trứng dầu".
+[^5]: [Đặt trước đợt Trung thu "Bánh lòng đỏ trứng Trần Diệu Huấn" năm 2025! Hermès của giới bánh lòng đỏ trứng, thời gian bán, giá cả | Thực thượng ngoạn gia](https://supertaste.tvbs.com.tw/food/355752) — Bánh lòng đỏ trứng đất đỏ đến từ nhà vô địch thế giới Trần Diệu Huấn, được mệnh danh là "Hermès của giới bánh lòng đỏ trứng", mỗi năm chỉ bán hai lần vào dịp Trung thu và Tết Nguyên Đán, từng cháy hàng trong chưa đầy 30 giây; Trung thu 2025 mở bán lúc 12:30 trưa ngày 29/7 trên hệ thống Takuo Yuan.
 
-[^6]: [Lịch sử và kiến trúc Yù Zhēn Zhāi ở Lạc Hồ](https://www.bigfang.tw/blog/post/lukang-1877) — Cơ sở vật chất số 168 đường Quốc Gia ở Lạc Hồ trước đây là địa điểm của chương trình thương mại lớn nhất thời Giao Thái "Chiến Lợi Quận", vẫn còn thấy rõ chiếc cửa sổ và tòa nhà gỗ trần, cùng bối cảnh thương mại của các vịnh thương xưu Lạc Hồ.
+[^6]: [Ngọc Trân Trai Lộc Cảng và gác mái trăm năm](https://www.bigfang.tw/blog/post/lukang-1877) — Khảo cứu bối cảnh kiến trúc của tiệm Ngọc Trân tại số 168 đường Dân Tộc vốn là di tích hãng tàu lớn nhất Lộc Cảng thời Thanh "Tuyền Hợp Lợi", bao gồm gác mái và giếng trời, cùng bối cảnh thương mại thời Thanh của thương hội Bát Giao ở Lộc Cảng.
 
-[^7]: [Wikipedia: Bánh dứa](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — Bao gồm bánh dứa lớn hình tròn thời Pháp thuộc do Trần Zhou-chia làm tại tiệm Nhà Mật Ophiuchus, và lịch sử biến dạng thành bánh dứa hình vuông nhỏ với lớp bánh quả caramel dựa trên bơ sau này do Trần Gia Địa cải tiến.
+[^7]: [Wikipedia: Bánh dứa](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — Ghi lại sự tiến hóa hình dáng từ chiếc bánh dứa lớn hình tròn do Trần Chu Tài của tiệm Nhất Phúc Đường làm thời Nhật trị, đến việc Nhan Thụ Mộc thu nhỏ thành dạng khối vuông và thay đổi sang vỏ bánh quy bơ.
 
-[^8]: [Văn hóa bánh dứa của Thị xã Thung Lũng](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Tài liệu về công nghệ bánh dứa của Văn phòng Văn hóa Thị xã Thung Lũng, bao gồm khoảng 5.000 tấn dứa tiêu thụ trong nội dung, và công thức dứa đất kết hợp siro bí ngô điều hòa độ chua ngọt.
+[^8]: [Di sản văn hóa thành phố Đài Trung: Kỹ nghệ bánh dứa](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Tài liệu về kỹ nghệ bánh dứa do Cục Văn hóa Đài Trung lưu trữ, bao gồm chi tiết kỹ nghệ sử dụng dứa bản địa kết hợp mứt củ cải trắng để cân bằng vị chua ngọt, với lượng nhân tiêu thụ khoảng 5.000 tấn dứa mỗi năm.
 
-[^9]: [Báo cáo công nghệ bánh trứng dầu](https://www.wowlavie.com/article/ae2101192) — Thầy trưởng ngư tử quốc Ngọc Tĩnh Lục nhớ lại bánh trứng dầu xuất hiện vào cuối thập niên 1960, ban đầu là hình cây bí ngô không phải tròn, cắt làm hai nửa để lộ nhân trứng, lớp bánh là da bí ngô chứ không phải bánh dầu, cùng chi tiết công thức xử lý trứng dầu ngâm rượu mạnh, đậu hũ hầm lửa nhỏ có mùi khét.
+[^9]: [VERSE: Kỹ nghệ bánh lòng đỏ trứng](https://www.wowlavie.com/article/ae2101192) — Nghệ nhân quốc bảo Lữ Hồng Vũ nhớ lại nguồn gốc bánh lòng đỏ trứng vào thập niên 1960, ban đầu là vỏ dứa hình quả ô liu, sau đó mới tiến hóa thành vỏ dầu hình tròn, cùng các chi tiết kỹ nghệ như ngâm lòng đỏ trứng muối trong rượu mạnh để khử tanh và nấu chậm đậu đen.
 
-[^10]: [Báo cáo về bánh trứng dầu của Trần Duy Tín](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Báo cáo Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY sử dụng trứng dầu từ đất ngâm rượu, đậu hũ giảm đường, siro bánh bò chiến thắng, cùng thiết kế quy trình giao hòa công nghệ bánh mì kiểu châu Âu vào bánh trứng dầu truyền thống.
+[^10]: [104 Nghề nghiệp: Kỹ nghệ bánh lòng đỏ trứng Trần Diệu Huấn](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Báo cáo về việc sử dụng lòng đỏ trứng muối ngâm đất đỏ, đậu đen giảm đường, bơ đạt giải vô địch Đan Mạch... và cách ông lồng ghép kỹ thuật làm bánh mì Âu vào quy trình chế biến bánh Hán.
 
-[^11]: [Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY](https://www.nownews.com/news/6711245) — Trang web chính thức của Trần Duy Tín – Bến tàu bánh mì YOSHI BAKERY, tiền đề Trung Thu 2025 dùng hệ thống bán vé truyền thông số, mở bán vào lúc 12:30 ngày 29 tháng 7, mỗi người giới hạn mua 8 hộp, giá 900 USD, không giao hàng nhà, phải đến cửa hàng lấy hàng.
+[^11]: [Bánh lòng đỏ trứng Trần Diệu Huấn mở bán 29/7! Tổng hợp đặt trước 4 thương hiệu nổi tiếng - NOWnews](https://www.nownews.com/news/6711245) — Tin tức ngày 25/7/2025: Đặt trước Trung thu của Trần Diệu Huấn ・ Bánh nướng (quận Tùng Sơn, Đài Bắc) mở bán lúc 12:30 trưa ngày 29/7 trên hệ thống Takuo Yuan, hộp 8 chiếc giá 900 Đài tệ, giới hạn 8 hộp mỗi người, không giao hàng tận nơi mà phải đến cửa hàng lấy.
 
-[^12]: [Văn hóa bánh kẹp khoai lang của Thầy A Trương](https://www.o-nongs.com.tw/) — Tài liệu chính thức về bánh kẹp khoai lang sáng tạo của Thầy A Trương, ghi lại lịch sử làm món ăn đặc biệt tại bữa tiệc quốc gia, và câu chuyện truyền thống công nghệ bánh kẹp.
+[^12]: [Bảo tàng Văn hóa Bánh kẹo Thầy A Thông Đại Giáp](https://www.o-nongs.com.tw/) — Tài liệu chính thức về bánh khoai môn sáng tạo của thầy A Thông ở Đại Giáp, ghi chép lịch sử là món điểm tâm được chỉ định cho quốc yến và bối cảnh truyền thừa kỹ nghệ bánh khoai môn.
 
-[^13]: [Wikipedia: Bánh trứng dầu](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Bao gồm thông tin về Trần Tăng Huyng là người phát minh ra bánh trứng dầu vào tháng 8 năm 1986, công bố bởi tạp chí "Thông tin thực phẩm bánh kẹo", cùng các tham số công thức chuẩn như đậu hũ, trứng dầu, và lớp bánh dầu.
+[^13]: [Wikipedia: Bánh lòng đỏ trứng](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Ghi chép thông tin về người phát minh Trần Tăng Hùng trong tạp chí _Thông tin Thực phẩm Nướng_ tháng 8/1986, cùng các thông số kỹ nghệ tiêu chuẩn cho nhân đậu đỏ, lòng đỏ trứng muối và vỏ dầu.
 
-[^14]: [Wikipedia: Bánh đậu xanh](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Còn gọi là "bánh đậu xanh tròn", "bánh ngọt kiểu Đài Loan", xuất hiện từ thời Pháp thuộc cải tiến, nhân dùng đậu xanh, bơ, hành đỏ, thịt heo, là món ăn quan trọng trong hội bữa hôn nhân và khách mời của Đài Loan.
+[^14]: [Wikipedia: Bánh đậu xanh lợn quay (Lục đậu tùng)](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Còn gọi là "Lục đậu đột", "Bánh trung thu kiểu Đài", có nguồn gốc từ sự cải tiến tại Phong Nguyên thời Nhật trị, nhân gồm đậu xanh, mỡ lợn, hành tím và thịt lợn với hương vị mặn ngọt, đóng vai trò quan trọng trong bánh cưới tại Đài Loan.
 
-[^15]: [Trang web chính thức của Bảo Nguyên gốc](https://www.chenyunpaochuan.com.tw/) — Trang web chính thức của Bảo Nguyên gốc, ghi lại việc đổi tên từ "Bảo Nguyên" thành "Trần Nhiên Bảo Nguyên" năm 2013, và lịch sử truyền thừa kế bởi thế hệ bốn Trần Hữu Hùng học tập tại Nhật Bản.
+[^15]: [Trang web chính thức Bảo Tuyên Bản Điếm](https://www.chenyunpaochuan.com.tw/) — Trang web chính thức của Bảo Tuyên Bản Điếm tại Phong Nguyên, ghi chép về việc đổi tên từ "Bảo Tuyên" sang "Trần Doãn Bảo Tuyên" vào năm 2013 và lịch sử truyền thừa gia đình khi thế hệ thứ tư Trần Khôn Hoành sang Nhật học nghề.
 
-[^16]: [Văn phòng văn hóa bánh ngọt của Cụ Tĩnh Bảo](https://www.jzn.com.tw/tw/architecture) — Trang web chính thức của Cụ Tĩnh Bảo, ghi lại việc thành lập Bảo tàng văn hóa bánh ngọt tại Lai Lai năm 2016: tòa nhà ba tầng diện tích 4.421 mét vuông, tích hợp trụ sở doanh nghiệp, nhà trưng bày câu chuyện thương hiệu, nhà bếp bánh ngọt, không gian trải nghiệm văn hóa bánh ngọt.
+[^16]: [Bảo tàng Văn hóa Bánh Hán Cựu Chấn Nam](https://www.jzn.com.tw/tw/architecture) — Trang web chính thức của Cựu Chấn Nam, ghi chép về việc thành lập Bảo tàng Văn hóa Bánh Hán tại Đại Liêu, Cao Hùng năm 2016: tòa nhà ba tầng rộng 4.421 m², bao gồm trụ sở thương hiệu, nhà trưng bày câu chuyện, bếp bánh và không gian trải nghiệm văn hóa nướng.
 
-[^17]: [Bài viết khoa học về lớp bánh dầu của Cụ Tĩnh Bảo](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Bài viết phổ biến của Cụ Tĩnh Bảo, giải thích cấu trúc lớp bánh dầu: bột đường gập bánh dẻo, bột thấp protein trộn bánh dầu, lặp lại gập gọn và nén thành hàng nghìn lớp bánh mịn sắc nét.
+[^17]: [Cựu Chấn Nam: Học vấn về vỏ dầu](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Bài viết khoa học chính thức của Cựu Chấn Nam, giải thích nguyên lý cấu trúc ngàn lớp của vỏ dầu bọc nhân dầu: dùng bột mì đa dụng làm vỏ dầu, bột mì số thấp làm nhân dầu, lặp lại việc gấp và cán để tạo nên hàng trăm lớp tinh xảo.
 
-[^18]: [Báo cáo về bánh mì "Gelato" của Cụ Tĩnh Bảo](https://travel.ettoday.net/article/3147149.htm) — Báo cáo Cụ Tĩnh Bảo năm 2026 tháng 4 ra mắt bánh mì "Gelato" độc quyền trên toàn quốc với 4 hương vị thường niên (Dứa và Nhật Bản, Bánh đậu xanh truyền thống, Hương Sen Trà, Hương Hoa Trà) + 2 hương vị giới hạn theo mùa (Hương Sen Trà, Hương Hoa Trà).
+[^18]: [ETtoday: 6 hương vị Gelato bánh Hán của Cựu Chấn Nam](https://travel.ettoday.net/article/3147149.htm) — Báo cáo về thiết kế sản phẩm giao thoa "Gelato bánh Hán" ra mắt tháng 4/2026 của Cựu Chấn Nam với 4 hương vị thường trực (Phượng Hòa Nhật Lệ, Peng Kiến Kinh Điển, Lương Thần Mai Cảnh, Trà Ngữ Hoa Hương) và 2 hương vị giới hạn theo mùa (Hỷ Thượng Mai Sao, Ninh Tĩnh Tảo Thần).
 
-[^19]: [Báo cáo mở rộng 20 cửa hàng của Cụ Tĩnh Bảo](https://money.udn.com/money/story/5635/9446485) — Báo cáo Cụ Tĩnh Bảo năm 2026 khởi động kế hoạch mở rộng 20 cửa hàng trên toàn quốc, ra mắt lần đầu tại trung tâm thương mại đa sử dụng Hán Sơn ở Thung Lũng, kế hoạch lần hai đưa vào Grand City Garden (tòa nhà siêu phàn đào SOGO) tại Hà Nội.
+[^19]: [Kinh tế Nhật báo: Mở rộng 20 cửa hàng của Cựu Chấn Nam](https://money.udn.com/money/story/5635/9446485) — Báo cáo về kế hoạch mở rộng 20 cửa hàng trên toàn Đài Loan của Cựu Chấn Nam vào năm 2026, bắt đầu tại Trung tâm Thương mại Han Shin Concourse ở Đài Trung và dự kiến tiến vào Garden City (SOGO Đại Cự Đàm) tại Đài Bắc vào quý hai.
 
-[^20]: [Trang web truyền thông của Ba trường hợp bánh ngọt](https://www.suntone.com.tw/pages/babyou) — Giải thích công thức giảm đường và công nghệ nghiên cứu bánh trứng dầu flow của Ba trường hợp bánh ngọt, kết hợp công nghệ bánh dầu truyền thống với nhân flow hiện đại.
+[^20]: [Trang truyền thông chính thức Tam Thống Hán Tử](https://www.suntone.com.tw/pages/babyou) — Giải thích của Tam Thống Hán Tử về công thức giảm đường và lộ trình nghiên cứu kỹ thuật: kết hợp kỹ nghệ vỏ dầu truyền thống với nhân lỏng hiện đại để tạo ra dòng bánh Hán nhẹ nhàng.
 
-[^21]: [Báo cáo chuyển đổi số của Ba trường hợp bánh ngọt](https://www.bnext.com.tw/article/77855/shopline_202312) — Báo cáo Ba trường hợp bánh ngọt trong giai đoạn dịch COVID-19 doanh thu một ngày chỉ còn 2.000 USD, Tuệ Huyền thúc đẩy SHOPLINE xây dựng trang web thương hiệu và triển khai trên các nền tảng thương mại điện tử, bánh trứng dầu flow thiết lập kỷ lục mỗi 17 giây bán một hộp, một ngày bán ra 400.000 chiếc, trong vòng ba năm thu nhập hơn 1 tỷ USD.
+[^21]: [Digital Age: Doanh số 400.000 chiếc mỗi ngày của Tam Thống Hán Tử](https://www.bnext.com.tw/article/77855/shopline_202312) — Báo cáo về việc doanh thu mỗi cửa hàng chỉ còn 2.000 Đài tệ trong đại dịch COVID-19, Giám đốc marketing Chu Thi Nhã thúc đẩy xây dựng website qua SHOPLINE và thương mại điện tử, giúp bánh lưu tâm lập kỷ lục bán 1 hộp mỗi 17 giây và đạt doanh thu trăm triệu Đài tệ trong ba năm.
 
-[^22]: [Phỏng vấn Giới Kiến Vũ](https://fc.bnext.com.tw/articles/view/2474) — Báo cáo Giới Kiến Vũ thế hệ năm vào doanh nghiệp gia đình năm 2009, năm 2016 phê chọn là người kế thừa, học tập gần ba năm ở Nhật Bản, ghé thăm các tiệm bánh ngọt lâu đời, chuyển đổi chiến lược từ thị trường bánh kẹp sang lễ hội và quà lưu niệm.
+[^22]: [Digital Age: Phỏng vấn Quách Kiến Vĩ](https://fc.bnext.com.tw/articles/view/2474) — Phỏng vấn về quá trình chuyển đổi của người kế thừa thế hệ thứ năm Quách Kiến Vĩ (Quách Nguyên Ích): gia nhập doanh nghiệp năm 2009, tiếp quản năm 2016, du học Nhật Bản gần ba năm và chuyển chiến lược từ bánh cưới sang quà lưu niệm lễ tết sau khi về nước.
 
-[^23]: [Báo cáo hợp tác Giới Kiến Vũ và Nhĩa Vĩnh Nhĩa](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Báo cáo Giới Kiến Vũ thế hệ năm và Nhĩa Vĩnh Nhĩa hợp tác phát triển bánh đậu xanh "Thời gian chấm điểm", phá vỡ giới hạn mẫu in một mặt và hương vị duy nhất, biến hình dạng bánh đậu xanh thành các biểu tượng nổi tiếng địa phương như chim xanh Đài Loan, chùa Long Sơn.
+[^23]: [Persona Media: Quách Kiến Vĩ và bánh đậu xanh liên danh với Nhiếp Vĩnh Chân](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Phỏng vấn nhân vật về việc người kế thừa thế hệ thứ năm của Quách Nguyên Ích, Quách Kiến Vĩ, hợp tác với nhà thiết kế Nhiếp Vĩnh Chân phát triển dòng bánh đậu xanh "Thời khắc quà tặng", phá vỡ giới hạn khuôn ép và hương vị, cũng như các thử nghiệm tạo hình địa danh.
+
+[^24]: [Cảm ơn nhà vô địch thế giới Trần Diệu Huấn, thời đại bánh mì Đài Loan đã trở lại (Mirror Media, 13-05-2019)](https://www.mirrormedia.mg/story/20190513food001) — Người Lộc Cảng Trần Diệu Huấn là nhà vô địch cuộc thi bánh mì thế giới năm 2017 do Pháp trao tặng, sau khi kết thúc tại "Paris Bobo" ở Cao Hùng đã mở tiệm "Trần Diệu Huấn ・ Bánh nướng" tại Đài Bắc.
