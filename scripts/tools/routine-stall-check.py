@@ -475,8 +475,28 @@ def check_rule2(
             continue
 
         covered_by = memory_covers(task_id, due.date(), now_local.date(), memory_files)
-        entry["status"] = "ok" if covered_by else "warn"
-        entry["covered_by"] = covered_by
+        if covered_by:
+            entry["status"] = "ok"
+            entry["covered_by"] = covered_by
+            checked.append(entry)
+            continue
+
+        # 「排程器從沒聽過這條」跟「排程器有它、它停了」是兩種根因，處置相反：
+        # 前者要人去 app 裡註冊，後者要去那台機器查。上面那道 skip 只問
+        # `is False`，於是 live-state 裡**缺席**（None）跟 `True` 走同一條路，
+        # 讀數也一模一樣（REFLEXES #38 混維度；#85 的變體——「不知道」這次
+        # 借用的是「有，而且開著」那個符號）。
+        #
+        # 2026-10-11 twmd-maintainer-daily 的第一個實例：`twmd-review-stock`
+        # 10-10 誕生、ROUTINE.md 排程表有它、三層檔案都在，而建排程那一步被
+        # 核准閘門擋下留給哲宇，所以它在 live-state 裡不存在。它的 WARN
+        # **永遠不會自己歸零**（沒有排程器會 fire 它），而 routine-stall-alert
+        # 的自動關閉只在 exit 0 時跑——一條註冊缺口因此會把告警單永久釘開，
+        # 後面每一次真的停轉都讀起來像同一張老票。
+        registered = live_state is None or task_id in live_state
+        entry["status"] = "warn" if registered else "unregistered"
+        entry["covered_by"] = None
+        entry["registered"] = registered
         checked.append(entry)
 
     return {
@@ -520,8 +540,13 @@ def build_result(now: datetime, since_days: int) -> dict:
     severity = "ok"
     if rule1["status"] == "critical":
         severity = "critical"
+    # `unregistered` 一樣算 WARN（severity 不降）：那條 routine 真的沒在跑，
+    # 靜默下去就是把一個缺口藏起來。它跟 `warn` 的差別只在根因與處置，而那
+    # 個差別現在在輸出裡講得出來——該不該讓它繼續把告警單釘開，是閾值問題，
+    # 留哲宇（OBSERVER-QUEUE）。
     if severity != "critical" and any(
-        c["status"] in ("warn", "warn-on-rescue-branch") for c in rule2["checked"]
+        c["status"] in ("warn", "warn-on-rescue-branch", "unregistered")
+        for c in rule2["checked"]
     ):
         severity = "warn"
 
@@ -578,6 +603,15 @@ def human_report(result: dict) -> str:
                 f"  ⚠️  {c['task_id']} main 上沒有這趟的 memory 檔 — 應 fire {c['due_at']}"
                 f"（{c['hours_since_due']}h 前）"
             )
+        elif c["status"] == "unregistered":
+            lines.append(
+                f"  🆕 {c['task_id']} 排程器從沒聽過這條（不在 {LIVE_STATE} 裡）"
+                f" — ROUTINE.md 排了 `{c['cron']}`，應 fire {c['due_at']}"
+                f"（{c['hours_since_due']}h 前）"
+            )
+            lines.append(
+                "       處置不是查機器，是去 app 裡把排程建起來；在那之前它不會自己歸零"
+            )
         elif c["status"] == "ok":
             lines.append(f"  ✅ {c['task_id']} 有對應 memory 檔（{c['covered_by']}）")
         elif c["status"] == "grace":
@@ -610,6 +644,10 @@ def human_report(result: dict) -> str:
             "⚠️  有 WARN。這支尺讀的是 main 上有沒有那趟的 memory 檔，"
             "所以同一個 WARN 有兩種根因，讀數相同："
         )
+        if any(c["status"] == "unregistered" for c in r2["checked"]):
+            lines.append(
+                "   （標 🆕 的那幾條不在這兩種裡：排程器根本沒有它，要人去建排程）"
+            )
         lines.append("   (a) 那條 routine 真的沒 fire（排程器停了／額度到頂／登入過期）")
         lines.append(
             "   (b) fire 了也寫了 memory，但那筆 commit 還沒推上 main"

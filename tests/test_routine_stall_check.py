@@ -655,3 +655,76 @@ def test_cli_json_smoke_against_real_repo():
     assert payload["severity"] in ("ok", "warn", "critical")
     assert "rule1_flywheel_commit_age" in payload
     assert "rule2_weekly_schedule_miss" in payload
+
+
+# ───────── 排程器從沒聽過這條 ≠ 排程器有它但它停了（2026-10-11） ─────────
+
+
+def test_rule2_routine_absent_from_live_state_is_unregistered_not_warn(repo):
+    """live-state 裡**缺席**要有自己的狀態，不能跟「有、而且開著」同一條路。
+
+    誕生 2026-10-11 twmd-maintainer-daily：`twmd-review-stock` 10-10 誕生，
+    ROUTINE.md 排程表有它、三層檔案都在，而建排程那一步被核准閘門擋下留給
+    哲宇，所以它在 live-state 裡不存在。原本的 skip 只問 `is False`，於是
+    None 跟 True 走同一條路、讀數一模一樣，而兩者處置相反：一個要人去 app
+    裡建排程，一個要去那台機器查。更糟的是它**永遠不會自己歸零**，
+    routine-stall-alert 的自動關閉只在 exit 0 跑，一條註冊缺口因此會把告警
+    單永久釘開（REFLEXES #38 混維度 / #85「不知道」借用了「沒事」的符號）。
+    """
+    now = MODULE.parse_now("2026-08-26T12:00:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-26T00:00:00+08:00")
+
+    write_routine_md(
+        repo,
+        [
+            routine_row("twmd-routine-audit-weekly", "0 21 * * 0"),
+            routine_row("twmd-review-stock", "0 22 * * 3"),
+        ],
+    )
+    write_memory_files(repo, [])
+    # routine-audit 排程器有它；review-stock 排程器從沒聽過
+    write_live_state(repo, {"twmd-routine-audit-weekly": True})
+
+    result = MODULE.build_result(now, since_days=30)
+    checked = {c["task_id"]: c for c in result["rule2_weekly_schedule_miss"]["checked"]}
+
+    assert checked["twmd-routine-audit-weekly"]["status"] == "warn"
+    assert checked["twmd-routine-audit-weekly"]["registered"] is True
+    assert checked["twmd-review-stock"]["status"] == "unregistered"
+    assert checked["twmd-review-stock"]["registered"] is False
+
+
+def test_rule2_unregistered_still_counts_as_warn(repo):
+    """severity 不降——那條 routine 真的沒在跑，靜默等於把缺口藏起來。"""
+    now = MODULE.parse_now("2026-08-26T12:00:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-26T00:00:00+08:00")
+
+    write_routine_md(repo, [routine_row("twmd-review-stock", "0 22 * * 3")])
+    write_memory_files(repo, [])
+    write_live_state(repo, {})  # 可讀、但沒有這條
+
+    result = MODULE.build_result(now, since_days=30)
+
+    assert result["severity"] == "warn"
+    report = MODULE.human_report(result)
+    assert "排程器從沒聽過這條" in report
+    assert "去 app 裡把排程建起來" in report
+
+
+def test_rule2_unregistered_not_claimed_when_live_state_unreadable(repo):
+    """live-state 讀不到時不准宣稱「排程器沒聽過」——那是 None 不是缺席。
+
+    退回 ROUTINE.md ⏸️ 的情況下，我們對註冊狀態一無所知，所以照舊報 warn。
+    """
+    now = MODULE.parse_now("2026-08-26T12:00:00+08:00")
+    commit_at(repo, "🧬 [routine] memory: keep-rule1-quiet", "2026-08-26T00:00:00+08:00")
+
+    write_routine_md(repo, [routine_row("twmd-review-stock", "0 22 * * 3")])
+    write_memory_files(repo, [])
+    # 故意不寫 routine-live-state.json
+
+    result = MODULE.build_result(now, since_days=30)
+    checked = {c["task_id"]: c for c in result["rule2_weekly_schedule_miss"]["checked"]}
+
+    assert checked["twmd-review-stock"]["status"] == "warn"
+    assert checked["twmd-review-stock"]["registered"] is True

@@ -121,6 +121,7 @@ never=0
 blocked=0
 unknown=0
 stalepage=0
+offbranch_failed=0
 total=0
 
 while IFS=$'\t' read -r wid wname wpath; do
@@ -173,10 +174,58 @@ while IFS=$'\t' read -r wid wname wpath; do
     if [ "$(main_eligible "$wpath")" = "yes" ]; then
       state="NEVER-ON-MAIN ⚠️"
       never=$((never + 1))
-    else
-      state="OFF-BRANCH     "
+      printf '  %s %-9s %-26s %s\n' "$state" "-" "$wname" "$wpath"
+      continue
     fi
-    printf '  %s %-9s %-26s %s\n' "$state" "-" "$wname" "$wpath"
+
+    # 2026-10-11 twmd-maintainer-daily：OFF-BRANCH 原本就印到這裡然後 continue，
+    # 於是 tag 觸發的 workflow（`push: {tags: [cli-v*]}`）**最後一次跑成什麼樣
+    # 從來沒有人看過**。09-27 把它判成 OFF-BRANCH 是對的——它永遠不會在 main
+    # 上跑，拿 main 的尺量它只會生假陽性；但「不能用 main 的尺判」被實作成
+    # 「完全不看」，而這兩件事差很遠（REFLEXES #82 的反面：這次不是拿替身代表
+    # 效果，是連替身都沒量）。
+    #
+    # 代價已經收到了：`cli-v0.8.1` 2026-10-10 14:40Z 推上去、npm publish 以
+    # E404（PUT 權限）失敗，npm 上仍是 0.8.0，而 #1789 正是在等這次發佈。
+    # 這張表當天印的是 `OFF-BRANCH  -  Publish CLI to npm`，一個字都沒提它
+    # 剛剛失敗，隔天早班照同一份輸出也讀不到——十小時裡沒有一支尺說過話。
+    #
+    # 所以這裡改成：不用 main 的尺判它（不進 red/blocked 計數、不影響
+    # --strict），但把它最後一次跑的結論與年齡印出來。該不該讓失敗的發佈
+    # 讓 --strict 轉紅是閾值問題，留哲宇（OBSERVER-QUEUE）。
+    last_any=$(gh api "repos/$REPO/actions/workflows/$wid/runs?per_page=20" \
+      --jq '[.workflow_runs[]
+             | select(.event != "pull_request" and .event != "pull_request_target")]
+            | if length == 0 then "" else
+                (max_by(.created_at)
+                 | "\(.conclusion // .status)\t\(.created_at)\t\(.head_branch)")
+              end' 2>/dev/null)
+
+    if [ -z "$last_any" ]; then
+      printf '  %s %-9s %-26s %s\n' "OFF-BRANCH     " "-" "$wname" "$wpath"
+      continue
+    fi
+
+    IFS=$'\t' read -r oc ocreated oref <<<"$last_any"
+    oage=$(python3 -c "
+import datetime,sys
+t=datetime.datetime.strptime(sys.argv[1],'%Y-%m-%dT%H:%M:%SZ').replace(tzinfo=datetime.timezone.utc)
+h=(datetime.datetime.now(datetime.timezone.utc)-t).total_seconds()/3600
+print(f'{h:.0f}h' if h < 48 else f'{h/24:.1f}d')
+" "$ocreated" 2>/dev/null || echo '?')
+
+    case "$oc" in
+      failure | cancelled | timed_out | startup_failure)
+        printf '  %s %-9s %-26s %s\n' "OFF-BRANCH 🔴  " "$oage" "$wname" "$wpath"
+        printf '      ↳ 最後一次不在 main 的執行失敗了（%s @ %s）— 不計入 main 紅燈，但要有人看\n' \
+          "$oc" "$oref"
+        offbranch_failed=$((offbranch_failed + 1))
+        ;;
+      *)
+        printf '  %s %-9s %-26s %s\n' "OFF-BRANCH     " "$oage" "$wname" "$wpath"
+        printf '      ↳ 最後一次不在 main 的執行：%s @ %s\n' "$oc" "$oref"
+        ;;
+    esac
     continue
   fi
 
@@ -232,8 +281,8 @@ done < <(gh api "repos/$REPO/actions/workflows?per_page=100" \
   --jq '.workflows[] | select(.state=="active") | select(.path | startswith(".github/")) | "\(.id)\t\(.name)\t\(.path)"' 2>/dev/null)
 
 echo "────────────────────────────────────────────────────────"
-printf '  %s 條 active workflow：RED %s / BLOCKED %s / UNKNOWN %s / NEVER-ON-MAIN %s\n' \
-  "$total" "$red" "$blocked" "$unknown" "$never"
+printf '  %s 條 active workflow：RED %s / BLOCKED %s / UNKNOWN %s / NEVER-ON-MAIN %s / OFF-BRANCH 失敗 %s\n' \
+  "$total" "$red" "$blocked" "$unknown" "$never" "$offbranch_failed"
 if [ "$stalepage" -gt 0 ]; then
   printf '  ⚠️ %s 條的 ?branch= 取數口回了舊頁（讀數已由不帶 branch 那口救回）。GitHub 端間歇性，不是本機問題。\n' "$stalepage"
 fi
@@ -243,6 +292,11 @@ if [ "$red" -gt 0 ]; then
 fi
 if [ "$never" -gt 0 ]; then
   echo "  ⚠️ 有 workflow 宣告了 main 跑得到的觸發卻從沒在 main 上跑過 — 先查 paths filter 與分支條件。"
+fi
+if [ "$offbranch_failed" -gt 0 ]; then
+  echo "  ⚠️ 有 tag／非 main 觸發的 workflow 最後一次執行是失敗的。它不在 main 上，所以這張表"
+  echo "     不拿 main 的尺判它、也不計入 RED（避免假陽性），但發佈類的失敗沒人看就會一直沒人看"
+  echo "     （cli-v0.8.1 的 npm publish 失敗了十小時沒人看到，而 #1789 正在等那次發佈）。"
 fi
 
 if [ "$STRICT" = "1" ] && [ "$red" -gt 0 ]; then
