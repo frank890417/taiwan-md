@@ -1,6 +1,6 @@
 {
-  "$comment": "Taiwan.md /elections/2026 data. Facts only from reports/research/2026-10/elections-2026/{candidates,voting-info}.json. Candidate order = research file order (registration date, CEC roster); re-sort by ballot number after the 2026-10-23 draw. Party = CEC wording (無 → 無黨籍). incumbent is CNA-sourced (media).",
-  "lastVerified": "2026-10-20",
+  "$comment": "Taiwan.md /elections/2026 data. Facts only from reports/research/2026-10/elections-2026/{candidates,voting-info}.json. Candidate order = ballot number for races whose draw is done (number + numberSource per candidate; 金門縣 drawn 2026-10-23, media-sourced pending the 2026-11-17 official notice); other races keep research file order (registration date, CEC roster) until their draw, postponed to 2026-10-27 by Typhoon 薔琵. Party = CEC wording (無 → 無黨籍). incumbent is CNA-sourced (media).",
+  "lastVerified": "2026-10-24",
   "election": {
     "date": "2026-11-28",
     "startDate": "2026-11-28T08:00:00+08:00",
@@ -883,42 +883,47 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
       "candidates": [
         {
-          "name": "洪和成",
+          "name": "張國威",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-08-31",
+          "number": 1,
+          "numberSource": "https://news.ltn.com.tw/news/politics/breakingnews/5616022",
+          "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
         {
           "name": "李文良",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
+          "numberSource": "https://news.ltn.com.tw/news/politics/breakingnews/5616022",
           "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
         {
-          "name": "黃世團",
+          "name": "洪和成",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
+          "number": 3,
+          "numberSource": "https://news.ltn.com.tw/news/politics/breakingnews/5616022",
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "張火木",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": 4,
+          "numberSource": "https://news.ltn.com.tw/news/politics/breakingnews/5616022",
+          "registeredOn": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
         {
           "name": "陳玉珍",
           "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
-          "name": "張國威",
-          "party": "無黨籍",
-          "incumbent": false,
-          "number": null,
+          "number": 5,
+          "numberSource": "https://news.ltn.com.tw/news/politics/breakingnews/5616022",
           "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
@@ -926,16 +931,18 @@
           "name": "梁文韜",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 6,
+          "numberSource": "https://news.ltn.com.tw/news/politics/breakingnews/5616022",
           "registeredOn": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
         {
-          "name": "張火木",
+          "name": "黃世團",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-04",
+          "number": 7,
+          "numberSource": "https://news.ltn.com.tw/news/politics/breakingnews/5616022",
+          "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         }
       ]
