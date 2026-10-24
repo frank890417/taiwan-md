@@ -7,11 +7,13 @@ import i18nData from '../data/elections-2026-candidates.json';
 type Copy = {
   metaTitle: string;
   metaDescription: string;
+  metaDescriptionNumbered: string;
   breadcrumbHome: string;
   breadcrumbHere: string;
   eyebrow: string;
   title: string;
   subtitle: string;
+  subtitleNumbered: string;
   searchLabel: string;
   searchPlaceholder: string;
   showing: string; // {shown} {total}
@@ -36,6 +38,8 @@ type Copy = {
   sourceLabel: string;
   listSep: string;
   orderNote: string;
+  orderNoteNumbered: string;
+  numberLabel: string; // {n}
   incumbentNote: string;
   incumbentNoteLink: string;
   nextTitle: string;
@@ -59,12 +63,16 @@ const copyAll: Record<string, Copy> = {
     metaTitle: '2026 九合一選舉：22 縣市長候選人名冊（81 人完整名單）',
     metaDescription:
       '2026 年 11 月 28 日投票的縣市長選舉，22 個選區共 81 位候選人。名單依中選會登記名冊與 10 月 16 日審定新聞稿逐名核對，排序照登記日期，號次要等 10 月 23 日抽籤。不放民調，不評論候選人。',
+    metaDescriptionNumbered:
+      '2026 年 11 月 28 日投票的縣市長選舉，22 個選區共 81 位候選人。名單依中選會登記名冊與 10 月 16 日審定新聞稿逐名核對，同一選區依抽籤號次排列。不放民調，不評論候選人。',
     breadcrumbHome: '2026 九合一選舉',
     breadcrumbHere: '候選人名冊',
     eyebrow: '🗳️ 2026 九合一選舉',
     title: '縣市長候選人名冊',
     subtitle:
       '22 個選區、81 位候選人。每張卡片版型相同，順序是登記日期，不是號次，也不是任何排名。',
+    subtitleNumbered:
+      '22 個選區、81 位候選人。每張卡片版型相同，同一選區依抽籤號次排列，不是任何排名。',
     searchLabel: '搜尋候選人、選區或政黨',
     searchPlaceholder: '輸入姓名、選區或政黨，例如「新竹」',
     showing: '顯示 {shown} / {total} 個選區',
@@ -90,6 +98,9 @@ const copyAll: Record<string, Copy> = {
     listSep: '、',
     orderNote:
       '名單順序依登記日期。號次要等 2026 年 10 月 23 日各選委會抽籤後才有，屆時會改成號次排序。黨籍照中選會登記名冊的寫法。',
+    orderNoteNumbered:
+      '同一選區依各選委會抽籤決定的號次排列，號次出處記在資料檔每位候選人的欄位裡。黨籍照中選會登記名冊的寫法。',
+    numberLabel: '{n} 號',
     incumbentNote:
       '「現任」標示依中央社 2026 年 9 月 4 日的整理，中選會登記名冊沒有現任欄位，所以屬媒體等級的資料。現任鄉鎮市長參選縣市長不標為現任。',
     incumbentNoteLink: '中央社整理稿',
@@ -144,12 +155,16 @@ const copyAll: Record<string, Copy> = {
       '2026 Taiwan Local Elections: Mayor and Magistrate Candidates (All 81)',
     metaDescription:
       'All 81 candidates in the 22 mayoral and county magistrate races on November 28, 2026. Names and parties are checked against the Central Election Commission roster and its October 16 qualification release. Listed by registration date; ballot numbers come from the October 23 draw. No polls, no commentary.',
+    metaDescriptionNumbered:
+      'All 81 candidates in the 22 mayoral and county magistrate races on November 28, 2026. Names and parties are checked against the Central Election Commission roster and its October 16 qualification release. Each race is listed by ballot number. No polls, no commentary.',
     breadcrumbHome: '2026 Local Elections',
     breadcrumbHere: 'Candidate roster',
     eyebrow: '🗳️ 2026 Local Elections',
     title: 'Mayor and magistrate candidates',
     subtitle:
       '22 races, 81 candidates. Every card has the same layout. The order is registration date, not ballot number and not a ranking.',
+    subtitleNumbered:
+      '22 races, 81 candidates. Every card has the same layout. Each race is listed by ballot number, not a ranking.',
     searchLabel: 'Search candidates, races or parties',
     searchPlaceholder: 'Type a name, race or party, e.g. “Hsinchu”',
     showing: 'Showing {shown} of {total} races',
@@ -177,6 +192,9 @@ const copyAll: Record<string, Copy> = {
     listSep: ', ',
     orderNote:
       'The order is registration date. Ballot numbers are drawn by each election commission on October 23, 2026; this page will then switch to ballot order. Party names follow the CEC roster.',
+    orderNoteNumbered:
+      'Each race is listed by the ballot numbers drawn by the local election commissions; the source for each number is recorded in the data file. Party names follow the CEC roster.',
+    numberLabel: 'No. {n}',
     incumbentNote:
       'The incumbent label follows a Central News Agency (CNA) roundup from September 4, 2026. The CEC roster has no incumbent field, so this is media-grade data. Sitting township mayors running for county office are not marked.',
     incumbentNoteLink: 'CNA roundup',
@@ -233,12 +251,16 @@ const copyAll: Record<string, Copy> = {
     metaTitle: '2026年統一地方選挙：市長・県知事候補者名簿（全81人）',
     metaDescription:
       '2026年11月28日投票の市長・県知事選挙、22選挙区の候補者81人の一覧です。氏名と政党は中央選挙委員会の登録名簿と10月16日の資格審査発表で確認しています。掲載順は登録日で、くじによる番号は10月23日に決まります。世論調査や論評は載せません。',
+    metaDescriptionNumbered:
+      '2026年11月28日投票の市長・県知事選挙、22選挙区の候補者81人の一覧です。氏名と政党は中央選挙委員会の登録名簿と10月16日の資格審査発表で確認しています。選挙区ごとにくじで決まった番号順に並べています。世論調査や論評は載せません。',
     breadcrumbHome: '2026年統一地方選挙',
     breadcrumbHere: '候補者名簿',
     eyebrow: '🗳️ 2026年統一地方選挙',
     title: '市長・県知事の候補者名簿',
     subtitle:
       '22選挙区、81人。どのカードも同じ形式です。並びは登録日の順で、投票用紙の番号順でも順位でもありません。',
+    subtitleNumbered:
+      '22選挙区、81人。どのカードも同じ形式です。選挙区ごとに投票用紙の番号順で並べており、順位ではありません。',
     searchLabel: '候補者・選挙区・政党を検索',
     searchPlaceholder: '氏名・選挙区・政党を入力（例：「新竹」）',
     showing: '{total}選挙区中 {shown}選挙区を表示',
@@ -266,6 +288,9 @@ const copyAll: Record<string, Copy> = {
     listSep: '、',
     orderNote:
       '並びは登録日の順です。番号は2026年10月23日に各選挙委員会がくじで決め、その後このページは番号順に並べ替えます。政党名は中央選挙委員会の登録名簿の表記に従います。',
+    orderNoteNumbered:
+      '選挙区ごとに、各選挙委員会がくじで決めた番号順に並べています。番号の出典はデータファイルの候補者ごとに記録しています。政党名は中央選挙委員会の登録名簿の表記に従います。',
+    numberLabel: '{n}番',
     incumbentNote:
       '「現職」の表示は2026年9月4日の中央通訊社（CNA）の整理によります。中央選挙委員会の名簿に現職欄はないため、報道レベルのデータです。現職の郷鎮市長が県（市）長に立候補する場合は現職として表示しません。',
     incumbentNoteLink: 'CNAの整理記事',
@@ -332,6 +357,14 @@ const partyLabel = (p: string) =>
   isZh ? p : (partyI18n[p]?.[cl] ?? partyI18n[p]?.en ?? p);
 
 const races = electionsData.races;
+type Race = (typeof races)[number];
+// 號次全部抽出的選區依號次排序；抽籤前保持資料檔順序（登記日期先後）。
+const isNumbered = (r: Race) => r.candidates.every((x) => x.number != null);
+const orderedCandidates = (r: Race) =>
+  isNumbered(r)
+    ? [...r.candidates].sort((a, b) => (a.number ?? 0) - (b.number ?? 0))
+    : r.candidates;
+const allNumbered = races.every(isNumbered);
 const groups = [
   {
     key: 'municipal',
@@ -408,7 +441,7 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
 <Layout
   lang={lang}
   title={c.metaTitle}
-  description={c.metaDescription}
+  description={allNumbered ? c.metaDescriptionNumbered : c.metaDescription}
   readerSettings
 >
   <div class="elections-candidates">
@@ -441,7 +474,7 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
         <p
           class="mx-auto max-w-[640px] text-center text-base leading-[1.75] text-[#52525b] md:text-lg"
         >
-          {c.subtitle}
+          {allNumbered ? c.subtitleNumbered : c.subtitle}
         </p>
       </div>
     </section>
@@ -624,8 +657,13 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
                         </span>
                       </header>
                       <ul class="m-0 list-none divide-y divide-[#f1f0ec] p-0">
-                        {race.candidates.map((cand) => (
+                        {orderedCandidates(race).map((cand) => (
                           <li class="flex flex-wrap items-baseline gap-x-2 gap-y-0.5 py-2">
+                            {isNumbered(race) && (
+                              <span class="font-mono text-[13px] tabular-nums text-[#7c2d12]">
+                                {fill(c.numberLabel, { n: cand.number ?? '' })}
+                              </span>
+                            )}
                             <span
                               class="text-base font-semibold text-[#1f2937]"
                               lang={isZh ? undefined : 'zh-Hant'}
@@ -703,7 +741,9 @@ const heading = "font-family: 'jf-lanyangming', 'Noto Serif TC', serif;";
         <div
           class="mt-10 space-y-2 rounded-xl border border-dashed border-[#d6c9a8] bg-[#fef9ed] p-5 text-sm leading-[1.75] text-[#52525b]"
         >
-          <p class="m-0">{c.orderNote}</p>
+          <p class="m-0">
+            {allNumbered ? c.orderNoteNumbered : c.orderNote}
+          </p>
           <p class="m-0">
             {c.incumbentNote}
             <a
