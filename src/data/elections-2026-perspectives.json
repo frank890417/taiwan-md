@@ -1,0 +1,3081 @@
+{
+  "$comment": "2026 九合一選舉多視角觀點頁資料。內容 SSOT 在 reports/research/2026-10/elections-2026/perspectives-sources.json（含每則引語的原文摘錄與抓取日期）。quote 欄位必須逐字出現在來源原文。",
+  "lastVerified": "2026-10-20",
+  "sourcesFileUrl": "https://github.com/frank890417/taiwan-md/blob/main/reports/research/2026-10/elections-2026/perspectives-sources.json",
+  "issues": [
+    {
+      "id": "voting",
+      "title": {
+        "zh-TW": "投票與選制",
+        "en": "Who votes, where and when",
+        "ja": "投票と選挙制度"
+      },
+      "lede": {
+        "zh-TW": "誰可以投票、在哪裡投、哪一天投，都由法律決定。這三件事在 2026 年都有人主張修改，也有人主張先別動。",
+        "en": "Who may vote, where, and on which day are all set by law. In 2026, each of the three has people pushing for change and people urging caution.",
+        "ja": "誰が、どこで、どの日に投票できるかは、すべて法律で決まっています。2026 年、この三つのどれにも、変えようという主張と、急がないほうがいいという主張があります。"
+      },
+      "topics": [
+        {
+          "id": "voting-age",
+          "title": {
+            "zh-TW": "投票年齡：地方選舉 20 歲，公投 18 歲",
+            "en": "Voting age: 20 for local elections, 18 for referendums",
+            "ja": "投票年齢：地方選挙は 20 歳、公民投票は 18 歳"
+          },
+          "question": {
+            "zh-TW": "11 月 28 日同一個投票所裡，18、19 歲的人可以領公投票，還不能領地方選舉票。各黨大多同意年齡該往下調，分歧在怎麼調：修選罷法就夠，還是一定要修憲？修憲門檻要不要跟著降？",
+            "en": "At the same polling station on November 28, 18- and 19-year-olds can take a referendum ballot but not a local election ballot. Most parties agree the age should come down. They differ on how: whether amending the election law is enough or the Constitution must be amended, and whether the bar for constitutional amendment should be lowered too.",
+            "ja": "11 月 28 日、同じ投票所で 18・19 歳は公民投票の投票用紙を受け取れますが、地方選挙の投票用紙はまだ受け取れません。多くの政党は年齢を下げることに賛成しています。意見が分かれるのはその方法です。選挙罷免法の改正で足りるのか、憲法改正が必要なのか、そして憲法改正のハードルも下げるべきか。"
+          },
+          "facts": [
+            {
+              "text": {
+                "zh-TW": "憲法第 130 條規定，年滿 20 歲有選舉權。公投法第 7 條規定，年滿 18 歲有公民投票權。民法從 2023 年 1 月 1 日起以 18 歲為成年。",
+                "en": "Article 130 of the Constitution gives the right to vote at 20. Article 7 of the Referendum Act gives the right to vote in referendums at 18. Since January 1, 2023, the Civil Code has set the age of majority at 18.",
+                "ja": "憲法第 130 条は 20 歳で選挙権を認めています。公民投票法第 7 条は 18 歳で公民投票権を認めています。民法は 2023 年 1 月 1 日から 18 歳を成年としています。"
+              },
+              "sources": [
+                "law-const130",
+                "law-ref7",
+                "law-civil12",
+                "law-civilgen"
+              ]
+            },
+            {
+              "text": {
+                "zh-TW": "2022 年 3 月 25 日，立法院三讀通過把 18 歲公民權寫進憲法增修條文的修正案。同年 11 月 26 日公民複決，同意 5,647,102 票、不同意 5,016,427 票。修憲要求有效同意票超過選舉人總額的一半（選舉人 19,239,392 人），這次沒有達到，所以不通過。",
+                "en": "On March 25, 2022, the Legislative Yuan passed an amendment adding voting rights at 18 to the Additional Articles of the Constitution. In the referendum on November 26 that year, 5,647,102 voted yes and 5,016,427 voted no. An amendment needs yes votes from more than half of all eligible voters (19,239,392 people). That bar was not reached, so it failed.",
+                "ja": "2022 年 3 月 25 日、立法院は 18 歳選挙権を憲法増修条文に加える改正案を可決しました。同年 11 月 26 日の国民投票では賛成 5,647,102 票、反対 5,016,427 票でした。憲法改正には有権者総数（19,239,392 人）の過半数の賛成票が必要で、これに届かず否決されました。"
+              },
+              "sources": ["cec-36469", "cec-45939", "law-amend12"]
+            },
+            {
+              "text": {
+                "zh-TW": "2026 年 1 月 21 日公布的青年基本法第 20 條，要求政府保障 18 歲青年的選舉權，並在施行後兩年內完備相關法制。",
+                "en": "Article 20 of the Youth Basic Act, promulgated on January 21, 2026, requires the government to secure voting rights for 18-year-olds and to complete the necessary laws within two years of the Act taking effect.",
+                "ja": "2026 年 1 月 21 日に公布された青年基本法第 20 条は、18 歳の青年の選挙権を保障し、施行から 2 年以内に関連法制を整えるよう政府に求めています。"
+              },
+              "sources": ["law-youth"]
+            },
+            {
+              "text": {
+                "zh-TW": "選罷法第 14 條目前仍是 20 歲。立法院內政委員會在 2026 年 5 月 7 日初審通過下修到 18 歲的草案，並附帶決議建請啟動修憲。中選會表示，修法如果晚於 8 月 20 日的選舉公告才完成，這次選舉仍適用 20 歲。到 10 月 1 日，青年團體表示後續協商與立法程序還沒完成。",
+                "en": "Article 14 of the Civil Servants Election and Recall Act still says 20. On May 7, 2026, the Legislative Yuan’s Internal Administration Committee passed a draft lowering it to 18 at first review, with a resolution urging that a constitutional amendment also be started. The Central Election Commission said that if the change came after the August 20 election announcement, this election would still use 20. As of October 1, youth groups said negotiations and the rest of the legislative process were not finished.",
+                "ja": "公職人員選挙罷免法第 14 条は今も 20 歳です。立法院内政委員会は 2026 年 5 月 7 日、18 歳に引き下げる草案を第一読会の審査で可決し、憲法改正の着手を求める付帯決議も採択しました。中央選挙委員会は、改正が 8 月 20 日の選挙公告より後になれば今回の選挙は 20 歳のままだと説明しています。10 月 1 日の時点で、青年団体は協議と立法手続きがまだ終わっていないとしています。"
+              },
+              "sources": ["law-elect14", "pts-807183", "cna-202610010108"]
+            }
+          ],
+          "views": [
+            {
+              "kind": "scholar",
+              "date": "2022-12-01",
+              "speaker": {
+                "zh-TW": "姚孟昌",
+                "en": "姚孟昌",
+                "ja": "姚孟昌"
+              },
+              "role": {
+                "zh-TW": "輔仁大學法律系助理教授（立法院公聽會）",
+                "en": "Assistant professor of law, Fu Jen Catholic University (Legislative Yuan public hearing)",
+                "ja": "輔仁大学法律学科助理教授（立法院公聴会）"
+              },
+              "summary": {
+                "zh-TW": "認為修憲門檻高是剛性憲法的本質，用「門檻過高」主張違憲，在學理上說不過去。",
+                "en": "Argues that a high amendment threshold is inherent to a rigid constitution, and that calling it unconstitutional for being too high does not hold up in legal theory.",
+                "ja": "改正のハードルが高いのは硬性憲法の本質であり、「高すぎるから違憲」という主張は学理上成り立たないと考えています。"
+              },
+              "quote": "輔大法律系助理教授姚孟昌回應，「對於主張說這個門檻過高，以致於阻礙了人民的修憲權而認定是違憲的話，我想可能在學理上面說不過去。因為憲法本身它是一個剛性的憲法，它的門檻會比較高。」",
+              "quoteLang": "zh",
+              "sources": ["pts-612095"],
+              "quoteTranslation": {
+                "en": "姚孟昌, assistant professor of law at Fu Jen Catholic University, replied: “If the claim is that the threshold is so high that it blocks the people’s power to amend the Constitution and is therefore unconstitutional, I think that probably does not hold up in legal theory. The Constitution is a rigid constitution, so its threshold will be higher.”",
+                "ja": "輔仁大学法律学科の姚孟昌助理教授は「ハードルが高すぎて国民の憲法改正権を妨げているから違憲だ、という主張は、学理上おそらく成り立たないと思います。憲法そのものが硬性憲法なので、ハードルは高くなるのです」と応じた。"
+              }
+            },
+            {
+              "kind": "civic",
+              "date": "2026-04-07",
+              "speaker": {
+                "zh-TW": "青年思潮（蔡璟鴻）",
+                "en": "蔡璟鴻 (青年思潮)",
+                "ja": "青年思潮（蔡璟鴻）"
+              },
+              "role": {
+                "zh-TW": "青年團體發起人",
+                "en": "Founder of a youth advocacy group",
+                "ja": "青年団体の発起人"
+              },
+              "summary": {
+                "zh-TW": "主張直接修選罷法就能下修投票年齡，認為憲法第 130 條可以解釋成最低保障。",
+                "en": "Argues the voting age can be lowered simply by amending the election law, reading Article 130 of the Constitution as a minimum guarantee.",
+                "ja": "選挙罷免法の改正だけで投票年齢を下げられると主張し、憲法第 130 条は最低限の保障と解釈できるとしています。"
+              },
+              "quote": "青年思潮發起人蔡璟鴻表示，「《憲法》130條可以解釋成最低保障，20歲要有選舉權就好，《憲法》是有留下空間，可以透過修法調降選舉年齡的。」",
+              "quoteLang": "zh",
+              "sources": ["pts-802506"],
+              "quoteTranslation": {
+                "en": "蔡璟鴻, founder of the youth group 青年思潮, said: “Article 130 of the Constitution can be read as a minimum guarantee, that people aged 20 must have the vote. The Constitution leaves room to lower the voting age through ordinary legislation.”",
+                "ja": "青年思潮の発起人・蔡璟鴻氏は「憲法第 130 条は最低限の保障、つまり 20 歳には選挙権がなければならないという意味に解釈できます。憲法には余地が残されていて、法改正で選挙年齢を下げられます」と述べた。"
+              }
+            },
+            {
+              "kind": "legislator",
+              "date": "2026-04-08",
+              "speaker": {
+                "zh-TW": "王鴻薇",
+                "en": "王鴻薇",
+                "ja": "王鴻薇"
+              },
+              "role": {
+                "zh-TW": "國民黨立委",
+                "en": "KMT legislator",
+                "ja": "国民党の立法委員"
+              },
+              "summary": {
+                "zh-TW": "認為憲法定下 20 歲已經六、七十年，教育程度與時代都變了，繼續沿用不符現況。",
+                "en": "Says the Constitution set the age at 20 some 60 or 70 years ago, that education and society have changed since, and that keeping it no longer fits.",
+                "ja": "憲法が 20 歳と定めてから 60〜70 年が経ち、教育水準も時代も変わったので、そのまま使い続けるのは現状に合わないとしています。"
+              },
+              "quote": "國民黨立委王鴻薇指出，「如果時隔60、70年，我們還抱住這個《憲法》裡面規定的20歲才能夠去選舉，我覺得滑天下之大稽。」",
+              "quoteLang": "zh",
+              "sources": ["pts-802687"],
+              "quoteTranslation": {
+                "en": "KMT legislator 王鴻薇 said: “If, 60 or 70 years on, we are still clinging to the Constitution’s rule that you have to be 20 to vote, I think that is absurd.”",
+                "ja": "国民党の王鴻薇立法委員は「60 年、70 年たっても、20 歳にならないと投票できないという憲法の規定にしがみついているなら、それは天下の笑いものだと思います」と指摘した。"
+              }
+            },
+            {
+              "kind": "election",
+              "date": "2026-05-04",
+              "speaker": {
+                "zh-TW": "游盈隆",
+                "en": "游盈隆",
+                "ja": "游盈隆"
+              },
+              "role": {
+                "zh-TW": "中選會主任委員（接受中國時報專訪，聯合新聞網轉述）",
+                "en": "Chair, Central Election Commission (interview with China Times, as reported by UDN)",
+                "ja": "中央選挙委員会主任委員（中国時報のインタビュー、聯合新聞網の報道）"
+              },
+              "summary": {
+                "zh-TW": "認為憲法明文規定 20 歲，法律不能違憲，要降到 18 歲只能修憲。",
+                "en": "Holds that because the Constitution explicitly says 20 and laws cannot override it, the only way to lower the age to 18 is a constitutional amendment.",
+                "ja": "憲法が 20 歳と明記している以上、法律で憲法に反することはできず、18 歳に下げるには憲法改正しかないとしています。"
+              },
+              "quote": "新任中選會主委游盈隆接受媒體專訪時表態，「憲法」明文規定人民選舉權為20歲，若要降低門檻到18歲，唯一做法就是修憲。",
+              "quoteLang": "zh",
+              "sources": ["udn-9480049"],
+              "quoteTranslation": {
+                "en": "In a media interview, newly appointed CEC chair 游盈隆 said the Constitution explicitly sets the voting age at 20, so the only way to lower it to 18 is to amend the Constitution.",
+                "ja": "新任の游盈隆・中選会主任委員はインタビューで、「憲法」が選挙権を 20 歳と明記しており、18 歳に引き下げる唯一の方法は憲法改正だとの立場を示した。"
+              }
+            },
+            {
+              "kind": "gov",
+              "date": "2026-05-07",
+              "speaker": {
+                "zh-TW": "劉世芳",
+                "en": "劉世芳",
+                "ja": "劉世芳"
+              },
+              "role": {
+                "zh-TW": "內政部長（立法院內政委員會）",
+                "en": "Minister of the Interior (Internal Administration Committee)",
+                "ja": "内政部長（立法院内政委員会）"
+              },
+              "summary": {
+                "zh-TW": "原則尊重下修，但提醒只修選罷法、不處理憲法爭議，日後選舉認定會有疑慮，可能要進入司法程序。委員會因此把施行日期交由行政院決定，並建請修憲。",
+                "en": "Respects lowering the age in principle, but warns that changing only the election law without settling the constitutional question would cast doubt on future election results and might end up in court. The committee then left the start date to the Executive Yuan and urged a constitutional amendment.",
+                "ja": "引き下げを原則として尊重しつつ、選挙罷免法だけを改めて憲法上の争点を処理しなければ、将来の選挙結果の認定に疑義が生じ、司法手続きに持ち込まれかねないと注意を促しました。委員会はこれを受け、施行日を行政院が定めることとし、憲法改正を求めました。"
+              },
+              "quote": "另若僅單純修改選罷法而未處理憲法爭議，未來在選舉認定上必定會產生疑慮，且這種疑慮無法僅由行政機關解決，恐須進入司法程序。",
+              "quoteLang": "zh",
+              "sources": ["udn-9487762"],
+              "quoteTranslation": {
+                "en": "Moreover, if only the election law is amended without resolving the constitutional dispute, doubts will certainly arise over the validity of future elections, and these doubts cannot be settled by the executive branch alone; they may have to go through the courts.",
+                "ja": "さらに、選挙罷免法だけを改正して憲法上の争点を処理しなければ、将来の選挙の認定に必ず疑義が生じ、その疑義は行政機関だけでは解決できず、司法手続きに入らざるを得ないおそれがある。"
+              }
+            },
+            {
+              "kind": "legislator",
+              "date": "2026-08-21",
+              "speaker": {
+                "zh-TW": "鍾佳濱等 30 位立委",
+                "en": "鍾佳濱 and 29 other legislators",
+                "ja": "鍾佳濱ら立法委員 30 人"
+              },
+              "role": {
+                "zh-TW": "民進黨立委領銜的立法院提案（憲法增修條文第 12 條修正草案）",
+                "en": "Bill led by DPP legislators to amend Article 12 of the Additional Articles of the Constitution",
+                "ja": "民進党の立法委員が筆頭の立法院への提案（憲法増修条文第 12 条改正草案）"
+              },
+              "summary": {
+                "zh-TW": "認為現行修憲門檻已經形成實質障礙，提案改由「選舉人團」行使修憲複決權，降低門檻。",
+                "en": "Argue that the current amendment threshold has become a real barrier, and propose that an electoral college exercise the referendum vote on amendments in order to lower the bar.",
+                "ja": "現行の憲法改正のハードルは事実上の障壁になっているとして、「選挙人団」が改正の国民投票権を行使する仕組みを提案し、ハードルを下げようとしています。"
+              },
+              "quote": "鑒於我國現行憲法增修條文所定之修憲門檻過高，已然形成實質之修憲障礙。",
+              "quoteLang": "zh",
+              "sources": ["ly-chung-art12"],
+              "quoteTranslation": {
+                "en": "Whereas the amendment threshold set in our current Additional Articles of the Constitution is too high and has already become a substantive barrier to constitutional amendment.",
+                "ja": "現行の憲法増修条文が定める憲法改正のハードルは高すぎ、すでに実質的な改正の障壁となっていることに鑑み。"
+              }
+            }
+          ],
+          "related": ["votingAge", "election2026"]
+        },
+        {
+          "id": "absentee",
+          "title": {
+            "zh-TW": "不在籍投票：人在外地，要不要回戶籍地投票",
+            "en": "Absentee voting: must voters go home to vote?",
+            "ja": "不在者投票：遠くにいても戸籍地に戻って投票すべきか"
+          },
+          "question": {
+            "zh-TW": "現在投票要回戶籍地的投票所。開放在工作地或就學地投票，能讓更多人投得到票。選務機關與部分立委則擔心選票種類太多、投票秘密，以及境外勢力動員。",
+            "en": "Today you vote at the polling station for your registered household address. Letting people vote where they work or study would let more people cast a ballot. Election authorities and some legislators worry about the number of ballot types, ballot secrecy, and mobilization by foreign forces.",
+            "ja": "現在は戸籍地の投票所で投票します。勤務地や就学地での投票を認めれば、より多くの人が投票できます。一方で選挙管理機関や一部の立法委員は、投票用紙の種類の多さ、投票の秘密、外国勢力による動員を心配しています。"
+          },
+          "facts": [
+            {
+              "text": {
+                "zh-TW": "選罷法第 17 條規定，選舉人除另有規定外，應在戶籍地投票所投票。投票所工作人員可以在工作地投票，但限於同一選區、同一縣市。",
+                "en": "Article 17 of the Civil Servants Election and Recall Act says voters cast ballots at the polling station of their household registration unless otherwise provided. Polling staff may vote where they work, but only within the same district and the same city or county.",
+                "ja": "公職人員選挙罷免法第 17 条は、別段の定めがない限り戸籍地の投票所で投票すると定めています。投票所の職員は勤務地で投票できますが、同じ選挙区・同じ県市に限られます。"
+              },
+              "sources": ["law-elect17"]
+            },
+            {
+              "text": {
+                "zh-TW": "公投法第 25 條允許全國性公投採不在籍投票，實施方式要另訂法律。到全國法規資料庫 2026 年 10 月 8 日的整編為止，還沒有這部法律。",
+                "en": "Article 25 of the Referendum Act allows absentee voting in national referendums, with the details to be set by a separate law. As of the national law database update of October 8, 2026, no such law exists.",
+                "ja": "公民投票法第 25 条は全国公民投票での不在者投票を認め、実施方法は別の法律で定めるとしています。全国法規資料庫の 2026 年 10 月 8 日更新時点で、その法律はまだありません。"
+              },
+              "sources": ["law-ref25", "law-search-absentee"]
+            },
+            {
+              "text": {
+                "zh-TW": "行政院在 2024 年 2 月 22 日通過《全國性公民投票不在籍投票法》草案，採國內移轉投票，投票權人要在投票日本人親自到投票所，草案在 2024 年 3 月交付內政委員會。民眾黨團的《不在籍投票法》草案涵蓋總統、中央與地方選舉、罷免和全國性公投，2025 年 12 月逕付二讀並交付協商，2026 年 1 月 15 日協商，還沒有三讀。",
+                "en": "On February 22, 2024, the Executive Yuan approved a draft absentee voting act for national referendums, based on domestic transfer voting in which voters go in person to a polling station on election day; it was sent to the Internal Administration Committee in March 2024. The TPP caucus’s draft Absentee Voting Act covers presidential, central and local elections, recalls and national referendums. It was sent straight to second reading for negotiation in December 2025 and negotiated on January 15, 2026, but has not passed third reading.",
+                "ja": "行政院は 2024 年 2 月 22 日、全国公民投票の不在者投票法草案を閣議決定しました。国内での移転投票を採用し、有権者本人が投票日に投票所へ行く方式で、2024 年 3 月に内政委員会へ付託されました。民衆党会派の不在者投票法草案は、総統選、中央・地方選挙、リコール、全国公民投票を対象とし、2025 年 12 月に委員会審査を経ずに第二読会へ送られて協議に付され、2026 年 1 月 15 日に協議が行われましたが、第三読会は通過していません。"
+              },
+              "sources": [
+                "ey-a72bd90c",
+                "ppg-ey-absentee",
+                "ppg-tpp-absentee",
+                "cna-20260126"
+              ]
+            },
+            {
+              "text": {
+                "zh-TW": "中選會估計，2026 年地方選舉有 8,896 種選舉票。",
+                "en": "The Central Election Commission estimates that the 2026 local elections involve 8,896 different ballot types.",
+                "ja": "中央選挙委員会は、2026 年の地方選挙の投票用紙が 8,896 種類になると見積もっています。"
+              },
+              "sources": ["ly-hearing-cec"]
+            }
+          ],
+          "views": [
+            {
+              "kind": "caucus",
+              "date": "2025-11-02",
+              "speaker": {
+                "zh-TW": "國民黨立法院黨團",
+                "en": "KMT legislative caucus",
+                "ja": "国民党立法院会派"
+              },
+              "role": {
+                "zh-TW": "黨團聲明（聯合新聞網轉述）",
+                "en": "Caucus statement (as reported by UDN)",
+                "ja": "会派の声明（聯合新聞網の報道）"
+              },
+              "summary": {
+                "zh-TW": "支持推動不在籍投票，強調黨籍立委的版本排除海外與中國大陸地區，主要理由是在外地工作、讀書而無法返鄉的人。",
+                "en": "Supports absentee voting and stresses that its legislators’ bills exclude overseas locations and mainland China, citing people who work or study away from home and cannot return to vote.",
+                "ja": "不在者投票の導入を支持し、党所属議員の案は海外と中国大陸を除外していると強調しています。主な理由は、勤務や就学で帰省して投票できない人たちです。"
+              },
+              "quote": "國民黨立法院黨團批評，國民黨立委相關版本都排除海外及大陸地區，沒有外力介入的疑慮",
+              "quoteLang": "zh",
+              "sources": ["udn-9112733"],
+              "quoteTranslation": {
+                "en": "The KMT caucus countered that the versions proposed by KMT legislators all exclude overseas locations and the mainland area, so there is no concern about outside interference.",
+                "ja": "国民党立法院会派は、国民党の立法委員の案はいずれも海外と大陸地区を除外しており、外部勢力の介入の懸念はないと反論した。"
+              }
+            },
+            {
+              "kind": "caucus",
+              "date": "2025-11-30",
+              "speaker": {
+                "zh-TW": "黃國昌",
+                "en": "黃國昌",
+                "ja": "黃國昌"
+              },
+              "role": {
+                "zh-TW": "民眾黨立法院黨團總召",
+                "en": "Convener, TPP legislative caucus",
+                "ja": "民衆党立法院会派総召集人"
+              },
+              "summary": {
+                "zh-TW": "認為國內移轉投票在許多國家已是常態，年輕人可能因為學業、工作回不了家投票。",
+                "en": "Says domestic transfer voting is already normal in many countries, and young people may be unable to go home to vote because of study or work.",
+                "ja": "国内での移転投票は多くの国ですでに一般的で、若者は学業や仕事のため帰省して投票できないことがあると述べています。"
+              },
+              "quote": "民眾黨立法院黨團總召黃國昌表示，「我希望民進黨好好地看一看世界各國，國內移轉投票早就成為常態，不要把國內移轉投票視為洪水猛獸，年輕人可能因為學業、工作沒有辦法出來投票，要阻礙年輕人投票。」",
+              "quoteLang": "zh",
+              "sources": ["pts-783624"],
+              "quoteTranslation": {
+                "en": "TPP caucus convener 黃國昌 said: “I hope the DPP takes a good look at other countries. Domestic transfer voting has long been the norm. Don’t treat it as a monster. Young people may be unable to come out and vote because of school or work; [this] obstructs young people from voting.”",
+                "ja": "民衆党立法院会派の黃國昌総召集人は「民進党には世界各国をよく見てほしい。国内の移転投票はとっくに当たり前になっている。それを恐ろしいもののように扱わないでほしい。若者は学業や仕事で投票に行けないことがあるのに、若者の投票を妨げることになる」と述べた。"
+              }
+            },
+            {
+              "kind": "caucus",
+              "date": "2025-11-30",
+              "speaker": {
+                "zh-TW": "鍾佳濱",
+                "en": "鍾佳濱",
+                "ja": "鍾佳濱"
+              },
+              "role": {
+                "zh-TW": "民進黨立法院黨團幹事長",
+                "en": "Secretary-general, DPP legislative caucus",
+                "ja": "民進党立法院会派幹事長"
+              },
+              "summary": {
+                "zh-TW": "擔心不在籍投票增加選舉變數、方便境外勢力介選。民進黨團另提草案，主張投票日與前一天都放假、政府提供交通補助，讓選民返鄉投票。",
+                "en": "Worries that absentee voting adds uncertainty and makes foreign interference easier. The DPP caucus offered its own bill instead: a day off on election day and the day before, plus government travel subsidies so voters can go home to vote.",
+                "ja": "不在者投票は選挙の不確定要素を増やし、外国勢力の介入をしやすくすると懸念しています。民進党会派は代わりに、投票日と前日を休日とし、政府が交通費を補助して帰省投票を後押しする草案を出しました。"
+              },
+              "quote": "民進黨立法院黨團幹事長鍾佳濱說：「不在籍投票會不會增加大選的變數，會不會便於境外勢力的介選干預、選務選票移動這些種種糾紛爭議？有沒有思考過？我們認為這些才是要共同來討論的。」",
+              "quoteLang": "zh",
+              "sources": ["pts-783624"],
+              "quoteTranslation": {
+                "en": "DPP caucus secretary-general 鍾佳濱 said: “Would absentee voting add uncertainty to elections? Would it make interference by foreign forces easier, and cause disputes over election administration and moving ballots around? Has anyone thought about that? We think these are the things we need to discuss together.”",
+                "ja": "民進党立法院会派の鍾佳濱幹事長は「不在者投票は選挙の不確定要素を増やさないか。外国勢力の介入を容易にし、選挙事務や投票用紙の移動をめぐる紛争を招かないか。考えたことがあるのか。我々はこうしたことこそ一緒に議論すべきだと考える」と述べた。"
+              }
+            },
+            {
+              "kind": "election",
+              "date": "2026-01-26",
+              "speaker": {
+                "zh-TW": "中央選舉委員會",
+                "en": "Central Election Commission",
+                "ja": "中央選挙委員会"
+              },
+              "role": {
+                "zh-TW": "立法院公聽會書面資料",
+                "en": "Written submission to a Legislative Yuan public hearing",
+                "ja": "立法院公聴会への書面資料"
+              },
+              "summary": {
+                "zh-TW": "認為全面實施風險高，建議先從全國性公投做移轉投票，累積經驗後再推到選舉。",
+                "en": "Sees high risk in a full rollout and recommends starting with transfer voting for national referendums, then extending it to elections once experience has been built.",
+                "ja": "全面実施はリスクが高いとして、まず全国公民投票で移転投票を行い、経験を積んでから選挙に広げるよう提案しています。"
+              },
+              "quote": "建議循序漸進先推動公投不在籍投票，再逐步推動選舉不在籍投票",
+              "quoteLang": "zh",
+              "sources": ["ly-hearing-cec"],
+              "quoteTranslation": {
+                "en": "We recommend a step-by-step approach: introduce absentee voting for referendums first, then gradually extend it to elections.",
+                "ja": "段階を踏んで、まず公民投票の不在者投票を進め、その後少しずつ選挙の不在者投票を進めることを提案する。"
+              }
+            },
+            {
+              "kind": "scholar",
+              "date": "2026-01-26",
+              "speaker": {
+                "zh-TW": "楊智傑",
+                "en": "楊智傑",
+                "ja": "楊智傑"
+              },
+              "role": {
+                "zh-TW": "雲林科技大學科技法律研究所教授（立法院公聽會）",
+                "en": "Professor of technology law, National Yunlin University of Science and Technology (public hearing)",
+                "ja": "国立雲林科技大学科技法律研究所教授（立法院公聴会）"
+              },
+              "summary": {
+                "zh-TW": "以南韓提前投票現場印製選票為例，認為技術上可行，法案若在 2026 年上半年通過，年底就來得及。",
+                "en": "Points to South Korea’s early voting, where ballots are printed on the spot, as proof it can work, and says that if the bill passed in the first half of 2026 it could be used at year-end.",
+                "ja": "韓国の期日前投票で投票用紙をその場で印刷する例を挙げて技術的に可能だとし、2026 年上半期に法案が通れば年末に間に合うとしています。"
+              },
+              "quote": "雲林科技大學科技法律研究所教授楊智傑指出，若擔心選票外流，南韓提前投票制度可供參考，只要配置2名工作人員，一人驗證身分、一人當場印製該選民的選票",
+              "quoteLang": "zh",
+              "sources": ["cna-20260126"],
+              "quoteTranslation": {
+                "en": "楊智傑, professor at the Graduate School of Technology Law at Yunlin University of Science and Technology, said that if the worry is ballots leaking out, South Korea’s early voting system offers a model: two staff members are enough, one to verify identity and one to print that voter’s ballot on the spot.",
+                "ja": "雲林科技大学科技法律研究所の楊智傑教授は、投票用紙の流出が心配なら韓国の期日前投票制度が参考になると指摘した。職員を 2 人置き、1 人が本人確認をし、1 人がその有権者の投票用紙をその場で印刷すればよいという。"
+              }
+            },
+            {
+              "kind": "scholar",
+              "date": "2026-01-26",
+              "speaker": {
+                "zh-TW": "羅承宗",
+                "en": "羅承宗",
+                "ja": "羅承宗"
+              },
+              "role": {
+                "zh-TW": "高雄科技大學科技法律研究所教授（立法院公聽會）",
+                "en": "Professor of technology law, National Kaohsiung University of Science and Technology (public hearing)",
+                "ja": "国立高雄科技大学科技法律研究所教授（立法院公聴会）"
+              },
+              "summary": {
+                "zh-TW": "認為台灣還沒準備好全面實施，系統與預算都需要時間，最快也要 2027 年以後。",
+                "en": "Thinks Taiwan is not ready for a full rollout, that systems and budgets take time, and that 2027 is the earliest realistic date.",
+                "ja": "台湾はまだ全面実施の準備ができておらず、システムと予算に時間がかかるので、早くても 2027 年以降だと考えています。"
+              },
+              "quote": "高雄科技大學科技法律研究所教授羅承宗說，台灣還沒準備好全面實施不在籍投票，「最快也要2027年以後」",
+              "quoteLang": "zh",
+              "sources": ["cna-20260126"],
+              "quoteTranslation": {
+                "en": "羅承宗, professor at the Graduate Institute of Technology Law at Kaohsiung University of Science and Technology, said Taiwan is not yet ready for full absentee voting: “2027 at the earliest.”",
+                "ja": "高雄科技大学科技法律研究所の羅承宗教授は、台湾はまだ不在者投票の全面実施の準備ができていない、「早くても 2027 年以降だ」と述べた。"
+              }
+            }
+          ],
+          "related": ["absentee", "process", "cec"]
+        },
+        {
+          "id": "referendum-date",
+          "title": {
+            "zh-TW": "公投與選舉同一天：第 22 案和九合一一起投",
+            "en": "Referendums on election day: Case 22 and the local elections",
+            "ja": "公民投票と選挙の同日実施：第 22 案と統一地方選挙"
+          },
+          "question": {
+            "zh-TW": "11 月 28 日，選民除了地方選舉的選票，還會領到全國性公投第 22 案的票。公投該和選舉同一天，還是分開辦，這幾年立法院改過兩次。",
+            "en": "On November 28, voters will receive a ballot for National Referendum Case 22 alongside their local election ballots. Whether referendums should share a day with elections or be held separately is a question the Legislative Yuan has changed its answer to twice in recent years.",
+            "ja": "11 月 28 日、有権者は地方選挙の投票用紙に加えて全国公民投票第 22 案の投票用紙も受け取ります。公民投票を選挙と同じ日にするか、別の日にするか。立法院はここ数年でこの答えを二度変えています。"
+          },
+          "facts": [
+            {
+              "text": {
+                "zh-TW": "2019 年 6 月修正公投法，把公投日定在 8 月第 4 個星期六，2021 年起每兩年一次，和選舉錯開。",
+                "en": "A June 2019 amendment to the Referendum Act fixed referendum day on the fourth Saturday of August, every two years from 2021, separate from elections.",
+                "ja": "2019 年 6 月の公民投票法改正で、投票日は 8 月の第 4 土曜日、2021 年から 2 年ごとと定められ、選挙とずらされました。"
+              },
+              "sources": ["cna-201906170290", "law-ref-history"]
+            },
+            {
+              "text": {
+                "zh-TW": "2021 年 12 月 18 日的全國性公投第 19 案，問的就是公投是否應與全國性選舉同日舉行。結果同意 3,951,677 票、不同意 4,120,243 票，不通過。",
+                "en": "National Referendum Case 19 on December 18, 2021 asked whether referendums should be held on the same day as national elections. It drew 3,951,677 yes votes and 4,120,243 no votes and failed.",
+                "ja": "2021 年 12 月 18 日の全国公民投票第 19 案は、公民投票を全国的な選挙と同じ日に行うべきかを問うものでした。賛成 3,951,677 票、反対 4,120,243 票で否決されました。"
+              },
+              "sources": ["cec-2021-qa", "cec-2021-result"]
+            },
+            {
+              "text": {
+                "zh-TW": "2025 年 11 月 21 日，立法院以 56 比 44 票通過國民黨與民眾黨提出的再修正動議，三讀修正公投法第 23 條，12 月 3 日公布：公投案公告成立後三到六個月內投票，期間內有全國性選舉，就要同一天舉行。",
+                "en": "On November 21, 2025, the Legislative Yuan adopted a revised motion from the KMT and TPP by 56 votes to 44 and passed an amendment to Article 23 of the Referendum Act, promulgated on December 3: a referendum is held three to six months after it is certified, and if a national election falls in that window, both are held on the same day.",
+                "ja": "2025 年 11 月 21 日、立法院は国民党と民衆党の再修正動議を 56 対 44 で可決し、公民投票法第 23 条の改正が第三読会を通過して、12 月 3 日に公布されました。公民投票は成立公告から 3〜6 か月以内に行い、その期間に全国的な選挙があれば同じ日に行います。"
+              },
+              "sources": [
+                "pts-782387",
+                "ppg-tpp-ref23",
+                "law-ref-history",
+                "law-ref23"
+              ]
+            },
+            {
+              "text": {
+                "zh-TW": "第 22 案由立法院交付，主文是「你是否支持政府使用『核電』振興經濟，以廢除『非核家園』的能源政策？」，2026 年 11 月 28 日和九合一選舉同一天投票。中選會在電視上辦 5 場意見發表會或辯論會，由立法院代表正方。",
+                "en": "Case 22 was referred by the Legislative Yuan. It asks: “Do you support the government using nuclear power to revitalize the economy, thereby abolishing the ‘nuclear-free homeland’ energy policy?” It is voted on November 28, 2026, the same day as the local elections. The CEC is holding five televised presentations or debates, with the Legislative Yuan representing the yes side.",
+                "ja": "第 22 案は立法院が付託したもので、主文は「政府が『原子力発電』で経済を振興し、『脱原発の郷土（非核家園）』エネルギー政策を廃止することを支持しますか」です。2026 年 11 月 28 日、統一地方選挙と同じ日に投票します。中選会はテレビで意見発表会または討論会を 5 回開き、立法院が賛成側を代表します。"
+              },
+              "sources": ["cec-64775", "cna-case22"]
+            }
+          ],
+          "views": [
+            {
+              "kind": "proposer",
+              "date": "2021-11",
+              "speaker": {
+                "zh-TW": "全國性公投第 19 案提案人",
+                "en": "Proposers of Referendum Case 19",
+                "ja": "全国公民投票第 19 案の提案者"
+              },
+              "role": {
+                "zh-TW": "2021 年公投公報理由書",
+                "en": "Statement of reasons, 2021 referendum gazette",
+                "ja": "2021 年公民投票公報の理由書"
+              },
+              "summary": {
+                "zh-TW": "主張公投和大選同一天，投票率才會提高，也能降低行政成本，讓候選人必須回應公投議題。",
+                "en": "Argue that holding referendums with elections raises turnout, cuts administrative costs, and forces candidates to respond to referendum issues.",
+                "ja": "公民投票を大型選挙と同じ日にしてこそ投票率が上がり、行政コストも下がり、候補者も争点に答えざるを得なくなると主張しています。"
+              },
+              "quote": "公投綁大選才能提高投票率，讓公民充分參與，形塑高民主素養、深度審議思辨的公民社會！",
+              "quoteLang": "zh",
+              "sources": ["cec-ebook2021-27"],
+              "quoteTranslation": {
+                "en": "Only by holding referendums together with major elections can turnout be raised, citizens fully engaged, and a civic society with strong democratic literacy and deep deliberation be built!",
+                "ja": "公民投票を大型選挙と同時に行ってこそ投票率を高め、市民が十分に参加し、高い民主的素養と深い熟議を備えた市民社会を形づくることができる！"
+              }
+            },
+            {
+              "kind": "gov",
+              "date": "2021-11",
+              "speaker": {
+                "zh-TW": "行政院",
+                "en": "Executive Yuan",
+                "ja": "行政院"
+              },
+              "role": {
+                "zh-TW": "2021 年公投公報意見書",
+                "en": "Government opinion, 2021 referendum gazette",
+                "ja": "2021 年公民投票公報の意見書"
+              },
+              "summary": {
+                "zh-TW": "主張維持固定公投日。公投是對「事」投票、選舉是對「人」，分開辦可以避免政黨與候選人競爭模糊公投焦點。",
+                "en": "Favors keeping a fixed referendum day. A referendum is a vote on an issue and an election a vote on people; keeping them apart stops party and candidate rivalry from blurring the issue.",
+                "ja": "固定された投票日を維持すべきだとしています。公民投票は「事柄」への投票、選挙は「人」への投票であり、分けることで政党や候補者の競争が争点をぼかすのを防げるとしています。"
+              },
+              "quote": "108年修正之公投法第23條，使公投與選舉分開辦理，可避免因公職人員選舉之政黨或候選人競爭交互影響，模糊公投議題焦點",
+              "quoteLang": "zh",
+              "sources": ["cec-ebook2021-33"],
+              "quoteTranslation": {
+                "en": "Article 23 of the Referendum Act as amended in 2019 holds referendums separately from elections, which avoids the competition between parties or candidates in public office elections affecting the referendum and blurring the focus of the issue.",
+                "ja": "2019 年に改正された公民投票法第 23 条は、公民投票と選挙を分けて実施することで、公職選挙における政党や候補者の競争が影響し合い、公民投票の争点がぼやけるのを避けられる。"
+              }
+            },
+            {
+              "kind": "election",
+              "date": "2024-11-03",
+              "speaker": {
+                "zh-TW": "中央選舉委員會",
+                "en": "Central Election Commission",
+                "ja": "中央選挙委員会"
+              },
+              "role": {
+                "zh-TW": "時任主委李進勇任內，提交立法院的書面報告（中央社轉述）",
+                "en": "Written report to the Legislative Yuan under then-chair 李進勇, as reported by CNA",
+                "ja": "李進勇主任委員（当時）の下で立法院に提出した書面報告（中央通訊社の報道）"
+              },
+              "summary": {
+                "zh-TW": "表示公投與大選同日舉辦讓基層選務負荷過重，建議維持脫鉤。",
+                "en": "Said that combining referendums with elections overloads local election staff, and recommended keeping them separate.",
+                "ja": "公民投票と選挙の同日実施は現場の選挙事務に過大な負担をかけるとして、分離の維持を求めました。"
+              },
+              "quote": "據中選會送抵立法院的書面報告指出，公投綁大選選務高度複雜，基層選務單位反映選務工作負荷過重，超過選務承載能量。",
+              "quoteLang": "zh",
+              "sources": ["cna-202411030111"],
+              "quoteTranslation": {
+                "en": "According to the CEC’s written report to the Legislative Yuan, holding referendums with elections makes election administration highly complex; local election units reported that the workload was excessive and beyond their capacity.",
+                "ja": "中選会が立法院に提出した書面報告によると、公民投票と選挙の同日実施は選挙事務を非常に複雑にし、現場の選挙事務部門からは負担が重すぎて処理能力を超えているとの声が上がっている。"
+              }
+            },
+            {
+              "kind": "caucus",
+              "date": "2025-11-21",
+              "speaker": {
+                "zh-TW": "民眾黨立法院黨團",
+                "en": "TPP legislative caucus",
+                "ja": "民衆党立法院会派"
+              },
+              "role": {
+                "zh-TW": "公投法第 23 條修正草案提案說明",
+                "en": "Explanatory note to its bill amending Article 23 of the Referendum Act",
+                "ja": "公民投票法第 23 条改正草案の提案説明"
+              },
+              "summary": {
+                "zh-TW": "認為公投和全國性選舉脫鉤，阻礙人民行使直接民權，提案恢復同日舉行。",
+                "en": "Argues that separating referendums from national elections obstructs direct democracy, and proposed holding them on the same day again.",
+                "ja": "公民投票と全国的な選挙の切り離しは直接民主制の行使を妨げているとして、同日実施の復活を提案しました。"
+              },
+              "quote": "有鑑於現行公民投票之舉行，與全國性選舉脫鉤，嚴重阻礙人民行使直接民權，為打破鳥籠公投，實踐憲法主權在民之原則",
+              "quoteLang": "zh",
+              "sources": ["ly-tpp-ref23"],
+              "quoteTranslation": {
+                "en": "Whereas holding referendums separately from national elections seriously obstructs the people’s exercise of direct democratic rights, and in order to break the “birdcage referendum” and realize the constitutional principle of popular sovereignty.",
+                "ja": "現行の公民投票が全国的な選挙と切り離され、国民の直接民権の行使を著しく妨げていることに鑑み、「鳥かご公民投票」を打破し、憲法の主権在民の原則を実践するため。"
+              }
+            },
+            {
+              "kind": "legislator",
+              "date": "2025-11-21",
+              "speaker": {
+                "zh-TW": "吳秉叡",
+                "en": "吳秉叡",
+                "ja": "吳秉叡"
+              },
+              "role": {
+                "zh-TW": "民進黨立委（三讀當天）",
+                "en": "DPP legislator (on the day of the final vote)",
+                "ja": "民進党の立法委員（第三読会当日）"
+              },
+              "summary": {
+                "zh-TW": "反對恢復同日舉行，擔心選務負荷。民進黨團另提公投前一天也放假的修正動議，被否決。",
+                "en": "Opposed returning to same-day voting over the workload for election staff. The DPP caucus also moved to make the day before a referendum a holiday; the motion was voted down.",
+                "ja": "選挙事務の負担を理由に同日実施の復活に反対しました。民進党会派は公民投票の前日も休日にする修正動議を出しましたが、否決されました。"
+              },
+              "quote": "民進黨立委吳秉叡質疑，「現在藍白委員的席次比較多，硬要通過會通過，選務不堪負荷，到時候造成的混亂誰要負責任呢？」",
+              "quoteLang": "zh",
+              "sources": ["pts-782454"],
+              "quoteTranslation": {
+                "en": "DPP legislator 吳秉叡 asked: “The blue and white [KMT and TPP] legislators hold more seats now. If they force it through, it will pass, but election staff can’t handle the load. Who will take responsibility for the chaos then?”",
+                "ja": "民進党の吳秉叡立法委員は「今は藍・白（国民党と民衆党）の議席が多いから、押し通せば通るだろう。しかし選挙事務は負担に耐えられない。その時の混乱は誰が責任を取るのか」と疑問を呈した。"
+              }
+            },
+            {
+              "kind": "election",
+              "date": "2026-01-28",
+              "speaker": {
+                "zh-TW": "游盈隆",
+                "en": "游盈隆",
+                "ja": "游盈隆"
+              },
+              "role": {
+                "zh-TW": "中選會主委被提名人（立法院人事審查，後獲任命）",
+                "en": "Nominee for CEC chair, at his Legislative Yuan confirmation hearing (later appointed)",
+                "ja": "中選会主任委員候補（立法院の人事審査、のちに就任）"
+              },
+              "summary": {
+                "zh-TW": "認為公投和選舉一起辦立意很好。2018 年的混亂和當年十案、公告後一個多月就投票等條件有關，後來已經修正。",
+                "en": "Thinks combining referendums and elections is a sound idea; the 2018 chaos stemmed from conditions such as ten questions and voting barely a month after certification, which have since been changed.",
+                "ja": "公民投票と選挙を一緒に行う趣旨はよいとしています。2018 年の混乱は 10 案もあったことや、公告から 1 か月余りで投票したことなどの条件によるもので、その後改められたとしています。"
+              },
+              "quote": "游盈隆說，西方有一句話是「不要倒洗澡水，連嬰孩一起倒掉」，意思是公投是重要的，跟選舉綁在一起立意甚佳，且過去經驗也證明這是沒有問題的。",
+              "quoteLang": "zh",
+              "sources": ["udn-9295286"],
+              "quoteTranslation": {
+                "en": "游盈隆 said there is a Western saying, “don’t throw the baby out with the bathwater”: referendums matter, tying them to elections is a good idea, and past experience shows it works.",
+                "ja": "游盈隆氏は、西洋には「たらいの水と一緒に赤ん坊を流すな」ということわざがあると述べた。公民投票は重要で、選挙と一緒に行う趣旨はとてもよく、過去の経験からも問題がないことが示されているという意味だという。"
+              }
+            }
+          ],
+          "related": ["nuclear", "election2026"]
+        }
+      ]
+    },
+    {
+      "id": "influence",
+      "title": {
+        "zh-TW": "境外影響與資訊環境",
+        "en": "Foreign influence and the information environment",
+        "ja": "外国からの影響と情報環境"
+      },
+      "lede": {
+        "zh-TW": "法律怎麼界定「境外勢力介入選舉」，又怎麼處理冒用候選人聲音與影像的深度偽造，牽涉國家安全，也牽涉言論自由。這裡把相關法條和各方的權衡並排。",
+        "en": "How the law defines foreign interference in elections, and how it handles deepfakes that fake a candidate’s voice or image, touches both national security and free speech. Here are the relevant laws and the trade-offs each side weighs.",
+        "ja": "法律が「外国勢力による選挙介入」をどう定義し、候補者の声や映像を偽るディープフェイクをどう扱うかは、国家の安全にも表現の自由にもかかわります。ここでは関連する条文と各立場の考え方を並べます。"
+      },
+      "topics": [
+        {
+          "id": "anti-infiltration",
+          "title": {
+            "zh-TW": "反滲透法：受境外敵對勢力指使的選舉行為",
+            "en": "The Anti-Infiltration Act: election activity directed by hostile foreign forces",
+            "ja": "反浸透法：敵対的な外国勢力の指示による選挙活動"
+          },
+          "question": {
+            "zh-TW": "反滲透法處罰受「滲透來源」指示、委託或資助而捐獻、助選、遊說或妨害選舉的人。支持者認為它是最低限度的防衛，批評者擔心定義模糊、造成寒蟬效應。施行六年後，各方又對它該不該加重有不同看法。",
+            "en": "The Anti-Infiltration Act punishes people who, on the instruction, commission or funding of an “infiltration source,” donate, campaign, lobby or interfere with elections. Supporters see it as a minimal defense; critics worry about vague definitions and a chilling effect. Six years on, the sides also disagree on whether it should be made tougher.",
+            "ja": "反浸透法は、「浸透源」の指示・委託・資金提供を受けて献金、選挙運動、ロビー活動、選挙妨害を行った人を罰します。支持する側は最低限の防衛だと考え、批判する側は定義のあいまいさや萎縮効果を心配しています。施行から 6 年、厳しくすべきかどうかでも意見が分かれています。"
+          },
+          "facts": [
+            {
+              "text": {
+                "zh-TW": "反滲透法在 2019 年 12 月 31 日三讀，2020 年 1 月 15 日公布施行，全文 12 條。到全國法規資料庫 2026 年 10 月 8 日的整編為止，沒有修正過。",
+                "en": "The Anti-Infiltration Act passed third reading on December 31, 2019 and took effect on promulgation on January 15, 2020, with 12 articles. As of the national law database update of October 8, 2026, it has never been amended.",
+                "ja": "反浸透法は 2019 年 12 月 31 日に第三読会を通過し、2020 年 1 月 15 日に公布・施行されました。全 12 条です。全国法規資料庫の 2026 年 10 月 8 日更新時点で、一度も改正されていません。"
+              },
+              "sources": [
+                "cna-201912310227",
+                "law-antiinfil",
+                "law-antiinfil-hist"
+              ]
+            },
+            {
+              "text": {
+                "zh-TW": "第 2 條把「境外敵對勢力」定義為與我國交戰或武力對峙的國家、政治實體或團體，以及主張用非和平手段危害我國主權的國家、政治實體或團體。「滲透來源」是這些勢力的政府、政黨或政治團體，以及它們設立、實質控制的組織或派遣的人。",
+                "en": "Article 2 defines a “hostile foreign force” as a country, political entity or group at war or in armed confrontation with Taiwan, or one that advocates non-peaceful means to endanger its sovereignty. An “infiltration source” means such a force’s government, parties or political groups, organizations they set up or effectively control, and people they dispatch.",
+                "ja": "第 2 条は「境外敵対勢力」を、台湾と交戦・武力対峙している国家・政治実体・団体、または非平和的手段で台湾の主権を脅かすと主張する国家・政治実体・団体と定義しています。「浸透源」は、これらの勢力の政府・政党・政治団体、それらが設立または実質的に支配する組織、派遣した人を指します。"
+              },
+              "sources": ["law-antiinfil"]
+            },
+            {
+              "text": {
+                "zh-TW": "第 3、4 條禁止受滲透來源指示、委託或資助而捐政治獻金、捐公投活動經費，或從事選罷法第 45 條列舉的競選活動，違者處五年以下有期徒刑，得併科新臺幣一千萬元以下罰金。第 7 條規定，受指使而犯妨害選舉等罪者，加重其刑至二分之一。",
+                "en": "Articles 3 and 4 ban donating political or referendum funds, or carrying out the campaign activities listed in Article 45 of the election law, on the instruction, commission or funding of an infiltration source, on pain of up to five years in prison and a fine of up to NT$10 million. Under Article 7, election offenses committed on such instructions carry sentences up to half again as long.",
+                "ja": "第 3・4 条は、浸透源の指示・委託・資金提供を受けて政治献金や公民投票活動の資金を出すこと、選挙罷免法第 45 条に列挙された選挙運動を行うことを禁じ、違反すれば 5 年以下の懲役、1,000 万台湾ドル以下の罰金の併科もあり得ます。第 7 条は、指示を受けて選挙妨害などの罪を犯した場合、刑を 2 分の 1 まで加重すると定めています。"
+              },
+              "sources": ["law-antiinfil"]
+            },
+            {
+              "text": {
+                "zh-TW": "公視報導引述法務部統計：施行 6 年，檢察機關累計起訴 127 人，判決確定有罪 5 人。",
+                "en": "PTS, citing Ministry of Justice figures, reported that in six years prosecutors had indicted 127 people under the act, and 5 had been finally convicted.",
+                "ja": "公共電視は法務部の統計を引用し、施行 6 年で検察が起訴したのは累計 127 人、有罪が確定したのは 5 人だと報じました。"
+              },
+              "sources": ["pts-790210"]
+            },
+            {
+              "text": {
+                "zh-TW": "2026 年 1 月 12 日，立法院內政委員會審查民進黨立委提出的修正草案，包括增訂最低一年刑期、把擬參選人納入規範。10 月 13 日，行政院長卓榮泰在立法院表示，將把受境外敵對勢力指使的跟監、騷擾、威脅等跨國鎮壓行為寫進反滲透法。這些都還沒有完成修法。",
+                "en": "On January 12, 2026, the Legislative Yuan’s Internal Administration Committee reviewed DPP legislators’ amendment bills, including a one-year minimum sentence and covering prospective candidates. On October 13, Premier 卓榮泰 told the legislature that following, harassing or threatening people on the instructions of hostile foreign forces, as acts of transnational repression, would be written into the act. None of these changes has been enacted.",
+                "ja": "2026 年 1 月 12 日、立法院内政委員会は民進党議員の改正草案を審査しました。最低 1 年の刑期の新設や、立候補予定者を規制対象に加える内容です。10 月 13 日には卓榮泰行政院長が立法院で、敵対的な外国勢力の指示による尾行・嫌がらせ・脅迫といった越境弾圧を反浸透法に盛り込むと述べました。いずれも改正はまだ成立していません。"
+              },
+              "sources": ["pts-790210", "cna-202610130186"]
+            }
+          ],
+          "views": [
+            {
+              "kind": "civic",
+              "date": "2019-12-16",
+              "speaker": {
+                "zh-TW": "宋承恩",
+                "en": "宋承恩",
+                "ja": "宋承恩"
+              },
+              "role": {
+                "zh-TW": "台灣民主實驗室研究員（聯合新聞網鳴人堂投書）",
+                "en": "Researcher, Doublethink Lab (op-ed in UDN Opinion)",
+                "ja": "台湾民主実験室研究員（聯合新聞網 鳴人堂への寄稿）"
+              },
+              "summary": {
+                "zh-TW": "認為草案規範限於遊說、政治獻金、競選與集會遊行等民主核心領域，一般人和中國人民或團體往來不會因此涉罪。",
+                "en": "Argues the bill covers only core areas of democratic politics such as lobbying, donations, campaigning and assemblies, and that ordinary contact with people or groups in China would not make anyone a criminal.",
+                "ja": "草案の規制はロビー活動、政治献金、選挙運動、集会・デモといった民主政治の中核領域に限られ、中国の人や団体と付き合うだけで罪になることはないとしています。"
+              },
+              "quote": "《反滲透法》草案所規範的內容，限於遊說、政治獻金、競選活動、集會遊行等民主政治核心領域。一般人民不至於單單因為與中國人民或團體的往來而涉罪。",
+              "quoteLang": "zh",
+              "sources": ["udnop-4229226"],
+              "quoteTranslation": {
+                "en": "What the draft Anti-Infiltration Act regulates is limited to the core areas of democratic politics: lobbying, political donations, campaign activities, and assemblies and demonstrations. Ordinary people will not commit a crime simply by having dealings with people or groups in China.",
+                "ja": "反浸透法草案が規制する内容は、ロビー活動、政治献金、選挙運動、集会・デモといった民主政治の中核領域に限られる。一般の人が中国の人や団体と付き合うだけで罪に問われることはない。"
+              }
+            },
+            {
+              "kind": "caucus",
+              "date": "2019-12-31",
+              "speaker": {
+                "zh-TW": "柯建銘",
+                "en": "柯建銘",
+                "ja": "柯建銘"
+              },
+              "role": {
+                "zh-TW": "民進黨立法院黨團總召（三讀後記者會）",
+                "en": "Convener, DPP legislative caucus (press conference after the final vote)",
+                "ja": "民進党立法院会派総召集人（第三読会後の記者会見）"
+              },
+              "summary": {
+                "zh-TW": "認為反滲透法是在選舉、公投、遊說、集會遊行上，建立合理、必要、有限的最低程度防衛。",
+                "en": "Describes the act as a reasonable, necessary and limited minimum defense covering elections, referendums, lobbying and assemblies.",
+                "ja": "反浸透法は、選挙・公民投票・ロビー活動・集会デモについて、合理的・必要・限定的な最低限の防衛体制を作るものだとしています。"
+              },
+              "quote": "合理、必要、有限地在選舉、公投、遊說、集會遊行等事項上，做出最低程度的防衛體系。",
+              "quoteLang": "zh",
+              "sources": ["cna-201912310227"],
+              "quoteTranslation": {
+                "en": "…to build, in a reasonable, necessary and limited way, a minimum defense system for matters such as elections, referendums, lobbying, and assemblies and demonstrations.",
+                "ja": "選挙、公民投票、ロビー活動、集会・デモなどの事項について、合理的・必要・限定的に、最低限の防衛体制を作る。"
+              }
+            },
+            {
+              "kind": "party",
+              "date": "2019-12-31",
+              "speaker": {
+                "zh-TW": "中國國民黨",
+                "en": "Kuomintang (KMT)",
+                "ja": "中国国民党"
+              },
+              "role": {
+                "zh-TW": "三讀後新聞稿（中央社轉述）",
+                "en": "Press release after the final vote (as reported by CNA)",
+                "ja": "第三読会後の報道発表（中央通訊社の報道）"
+              },
+              "summary": {
+                "zh-TW": "表示反對任何滲透，但認為民進黨版條文模糊、容易陷人於罪，也批評未經委員會審查就逕付二讀，忽視程序正義。",
+                "en": "Says it opposes any infiltration but finds the DPP version vague and easy to entrap people with, and criticizes skipping committee review as ignoring due process.",
+                "ja": "いかなる浸透にも反対するとしつつ、民進党案の条文はあいまいで人を罪に陥れやすいとし、委員会審査を経ずに第二読会へ送ったことも手続きの正義を無視していると批判しています。"
+              },
+              "quote": "國民黨指出，維護中華民國的國家安全是最重要的，也是全民共同奮鬥的目標，反對任何對中華民國的滲透，但民進黨版的反滲透法條文模糊不清，容易陷人於罪。",
+              "quoteLang": "zh",
+              "sources": ["cna-201912310254"],
+              "quoteTranslation": {
+                "en": "The KMT said safeguarding the national security of the Republic of China is paramount and a goal everyone shares, and that it opposes any infiltration of the ROC, but the DPP’s version of the Anti-Infiltration Act is vague and makes it easy to entrap people.",
+                "ja": "国民党は、中華民国の国家安全を守ることが最も重要で全国民共通の目標であり、中華民国へのいかなる浸透にも反対するが、民進党版の反浸透法は条文があいまいで、人を罪に陥れやすいと指摘した。"
+              }
+            },
+            {
+              "kind": "gov",
+              "date": "2026-01-12",
+              "speaker": {
+                "zh-TW": "梁文傑",
+                "en": "梁文傑",
+                "ja": "梁文傑"
+              },
+              "role": {
+                "zh-TW": "陸委會副主委（立法院內政委員會）",
+                "en": "Deputy minister, Mainland Affairs Council (Internal Administration Committee)",
+                "ja": "大陸委員会副主任委員（立法院内政委員会）"
+              },
+              "summary": {
+                "zh-TW": "認為現行法只列舉少數行為，未登記參選者收資助、製造謠言等手法都管不到，修法有急迫性。",
+                "en": "Argues the current law lists only a few acts and cannot reach tactics such as funding people who have not yet registered as candidates or spreading rumors, so amendment is urgent.",
+                "ja": "現行法は限られた行為しか列挙しておらず、立候補登録前の人への資金提供やデマの流布などに対応できないため、改正は急務だとしています。"
+              },
+              "quote": "陸委會副主委梁文傑則指出，現行《反滲透法》存在要件特定、罪行不足等2大問題，面對中共日益嚴峻的灰色地帶侵擾與政治干預，修法有急迫性與必要性。",
+              "quoteLang": "zh",
+              "sources": ["pts-790210"],
+              "quoteTranslation": {
+                "en": "MAC deputy minister 梁文傑 said the current act has two major problems: its elements are narrowly specified and the listed offenses are insufficient. Facing increasingly severe gray-zone incursions and political interference from the CCP, amending it is urgent and necessary.",
+                "ja": "大陸委員会の梁文傑副主任委員は、現行の反浸透法には構成要件が限定的で罪名も不足しているという 2 つの大きな問題があり、中国共産党による深刻化するグレーゾーンの侵害と政治干渉に直面して、改正は急務かつ必要だと指摘した。"
+              }
+            },
+            {
+              "kind": "legislator",
+              "date": "2026-01-12",
+              "speaker": {
+                "zh-TW": "張智倫",
+                "en": "張智倫",
+                "ja": "張智倫"
+              },
+              "role": {
+                "zh-TW": "國民黨立委（立法院內政委員會）",
+                "en": "KMT legislator (Internal Administration Committee)",
+                "ja": "国民党の立法委員（立法院内政委員会）"
+              },
+              "summary": {
+                "zh-TW": "質疑執行成效，指 2024 年選舉期間偵查 477 人、近八成不起訴，耗費檢調資源，也可能造成寒蟬效應。",
+                "en": "Questions how well it works, saying 477 people were investigated during the 2024 elections and nearly 80 percent were not indicted, wasting investigative resources and possibly chilling speech.",
+                "ja": "執行の効果を疑問視し、2024 年の選挙期間に 477 人が捜査され、8 割近くが不起訴になったとして、捜査資源の浪費であり萎縮効果を生みかねないと指摘しています。"
+              },
+              "quote": "國民黨立委張智倫質疑，《反滲透法》執行成效低，2024年選舉期間偵查477名民眾，但最終近8成不起訴，不僅耗費檢調資源，也可能造成寒蟬效應，對民眾心理與名譽造成損害。",
+              "quoteLang": "zh",
+              "sources": ["pts-790210"],
+              "quoteTranslation": {
+                "en": "KMT legislator 張智倫 questioned the act’s poor results: 477 people were investigated during the 2024 elections, but nearly 80 percent were ultimately not indicted. This not only wastes investigative resources but may also have a chilling effect and harm people’s well-being and reputations.",
+                "ja": "国民党の張智倫立法委員は、反浸透法の執行効果は低く、2024 年の選挙期間に 477 人が捜査されたが最終的に 8 割近くが不起訴となり、捜査資源を浪費するだけでなく萎縮効果を生み、人々の心理や名誉を傷つけかねないと疑問を呈した。"
+              }
+            },
+            {
+              "kind": "gov",
+              "date": "2026-01-12",
+              "speaker": {
+                "zh-TW": "司法院、法務部",
+                "en": "Judicial Yuan and Ministry of Justice",
+                "ja": "司法院・法務部"
+              },
+              "role": {
+                "zh-TW": "立法院內政委員會審查修正草案時的意見",
+                "en": "Comments during the committee review of the amendment bills",
+                "ja": "立法院内政委員会での改正草案審査時の意見"
+              },
+              "summary": {
+                "zh-TW": "提醒選罷法沒有明確定義「擬參選人」，修法要先界定清楚。全面提高最低刑度，也可能讓情節輕微的案件刑度過重。",
+                "en": "Caution that the election law does not clearly define a “prospective candidate,” so any amendment must define it first, and that raising minimum sentences across the board could make penalties too heavy for minor cases.",
+                "ja": "選挙罷免法には「立候補予定者」の明確な定義がないので、改正では範囲をはっきりさせる必要があり、最低刑を一律に引き上げると軽微な事件の刑が重すぎることになりかねないと注意を促しています。"
+              },
+              "quote": "司法院及法務部提醒，由於《選罷法》對「擬參選人」缺乏明確定義，修法時應明確界定範圍，以符「罪刑法定原則」與「刑罰明確性」",
+              "quoteLang": "zh",
+              "sources": ["pts-790210"],
+              "quoteTranslation": {
+                "en": "The Judicial Yuan and the Ministry of Justice cautioned that because the election law lacks a clear definition of “prospective candidate,” any amendment should clearly define its scope to satisfy the principle of legality and the requirement that criminal law be clear.",
+                "ja": "司法院と法務部は、選挙罷免法には「立候補予定者」の明確な定義がないため、改正にあたっては「罪刑法定主義」と「刑罰の明確性」に沿うよう範囲を明確に定めるべきだと注意を促した。"
+              }
+            }
+          ],
+          "related": ["cogwar", "parties"]
+        },
+        {
+          "id": "deepfake",
+          "title": {
+            "zh-TW": "深度偽造與境外廣告：選罷法 2023 年的新規定",
+            "en": "Deepfakes and foreign-funded ads: the 2023 election law changes",
+            "ja": "ディープフェイクと外国からの広告：2023 年の選挙罷免法改正"
+          },
+          "question": {
+            "zh-TW": "2023 年起，候選人發現有人散布冒用自己聲音或影像的深偽影音，可以申請鑑識並要求平台下架，媒體也不能接受境外委託刊登競選廣告。2026 年選前，政府加開數位通報管道，朝野對「誰來決定下架」看法分歧。",
+            "en": "Since 2023, a candidate who finds deepfake audio or video imitating them can request a forensic analysis and ask platforms to take it down, and media may not accept campaign ads commissioned from abroad. Ahead of the 2026 vote the government added a digital reporting channel, and the parties disagree over who gets to decide what comes down.",
+            "ja": "2023 年から、候補者は自分の声や映像を偽るディープフェイクが広まっていると知れば、鑑定を申請してプラットフォームに削除を求められるようになりました。メディアは外国から委託された選挙広告を受け付けられません。2026 年の選挙を前に政府はデジタルの通報窓口を加え、「誰が削除を決めるのか」をめぐって与野党の見方が分かれています。"
+          },
+          "facts": [
+            {
+              "text": {
+                "zh-TW": "2023 年 6 月 9 日公布的選罷法修正，增訂第 51-1 到 51-3 條，並修正第 104 條、第 110 條等條文。",
+                "en": "Amendments to the Civil Servants Election and Recall Act promulgated on June 9, 2023 added Articles 51-1 to 51-3 and revised Articles 104 and 110, among others.",
+                "ja": "2023 年 6 月 9 日に公布された公職人員選挙罷免法の改正で、第 51 条の 1〜3 が新設され、第 104 条、第 110 条なども改正されました。"
+              },
+              "sources": ["law-elect-hist"]
+            },
+            {
+              "text": {
+                "zh-TW": "第 51-3 條規定，從選舉公告發布到投票日前一天，擬參選人或候選人發現廣播電視、網路上有自己的深偽聲音或影像，可以付費申請警察機關鑑識，受理機關是刑事警察局，費用每分鐘 8,000 元。確認是深偽後，當事人可以書面要求業者處理，業者要在兩天內停止刊播、限制瀏覽、移除或下架，沒有照做的罰 20 萬到 1,000 萬元。",
+                "en": "Under Article 51-3, from the election announcement until the day before the vote, a prospective candidate or candidate who finds deepfake audio or video of themselves on broadcast media or online may pay for a police forensic analysis, handled by the Criminal Investigation Bureau at NT$8,000 per minute. Once it is confirmed as a deepfake, they may ask the provider in writing to act, and the provider must stop broadcasting, restrict access, remove or take it down within two days or face a fine of NT$200,000 to NT$10 million.",
+                "ja": "第 51 条の 3 は、選挙公告から投票日前日まで、立候補予定者や候補者が放送やネット上に自分のディープフェイク音声・映像を見つけた場合、費用を払って警察に鑑定を申請できると定めています。受理するのは刑事警察局で、費用は 1 分あたり 8,000 台湾ドルです。ディープフェイクと確認されれば、本人は書面で事業者に対応を求められ、事業者は 2 日以内に放送停止、閲覧制限、削除などをしなければならず、従わなければ 20 万〜1,000 万台湾ドルの過料です。"
+              },
+              "sources": ["law-elect-all", "law-deepfake-forensic"]
+            },
+            {
+              "text": {
+                "zh-TW": "第 104 條規定，用深偽聲音、影像散布候選人的謠言，處七年以下有期徒刑，比一般散布謠言的五年以下更重。",
+                "en": "Under Article 104, spreading rumors about a candidate by means of deepfake audio or video carries up to seven years in prison, heavier than the five-year maximum for spreading rumors in general.",
+                "ja": "第 104 条は、ディープフェイクの音声・映像で候補者のデマを広めた場合は 7 年以下の懲役とし、通常のデマ流布の 5 年以下より重くしています。"
+              },
+              "sources": ["law-elect-all"]
+            },
+            {
+              "text": {
+                "zh-TW": "第 51-1 條規定，媒體刊播競選廣告不得接受外國、大陸地區、香港、澳門的個人、法人或團體直接或間接委託。第 56 條禁止邀請外國人或陸港澳居民從事競選宣傳。",
+                "en": "Article 51-1 bars media from accepting campaign ads commissioned directly or indirectly by individuals, companies or groups from foreign countries, mainland China, Hong Kong or Macau. Article 56 bans inviting foreigners or residents of mainland China, Hong Kong or Macau to campaign.",
+                "ja": "第 51 条の 1 は、メディアが外国、大陸地区、香港、マカオの個人・法人・団体から直接・間接に委託された選挙広告を受けることを禁じています。第 56 条は、外国人や中国大陸・香港・マカオの住民に選挙運動をさせることを禁じています。"
+              },
+              "sources": ["law-elect-all"]
+            },
+            {
+              "text": {
+                "zh-TW": "2026 年選前，中選會在 8 月成立深偽影音防制專案小組。數位發展部表示建置「選舉 AI 深偽訊息通報網」，預計 8 月 25 日上線，讓候選人用電子方式通知平台。最高檢察署也要求各地檢署成立重大假訊息處理中心。",
+                "en": "Before the 2026 vote, the CEC set up a deepfake task force in August; the Ministry of Digital Affairs said it was building an “election AI deepfake reporting site,” due to launch on August 25, so candidates can notify platforms electronically; and the Supreme Prosecutors Office told every district office to set up a center for handling major disinformation.",
+                "ja": "2026 年の選挙を前に、中選会は 8 月にディープフェイク対策の専門チームを設けました。数位発展部は候補者が電子的にプラットフォームへ通知できる「選挙 AI ディープフェイク情報通報サイト」を構築し、8 月 25 日に公開予定だとしました。最高検察署は各地方検察署に重大な偽情報の処理センターを設けるよう求めました。"
+              },
+              "sources": ["pts-823279", "udn-9680945", "udn-9543905"]
+            }
+          ],
+          "views": [
+            {
+              "kind": "gov",
+              "date": "2022-12-15",
+              "speaker": {
+                "zh-TW": "蘇貞昌",
+                "en": "蘇貞昌",
+                "ja": "蘇貞昌"
+              },
+              "role": {
+                "zh-TW": "時任行政院長（行政院會通過修正草案時）",
+                "en": "Then premier (when the Cabinet approved the amendment bill)",
+                "ja": "当時の行政院長（閣議で改正草案を決定した際）"
+              },
+              "summary": {
+                "zh-TW": "認為選舉期間不實廣告與深偽犯罪層出不窮，為了避免影響選舉結果，需要在選罷法加上防範機制。",
+                "en": "Said false campaign ads and deepfake crimes kept appearing during elections, and the election laws needed safeguards so they would not sway results.",
+                "ja": "選挙期間に虚偽の広告やディープフェイク犯罪が相次いでおり、選挙結果に影響しないよう選挙罷免法に防止の仕組みが必要だとしました。"
+              },
+              "quote": "蘇院長進一步表示，考量近期大選流竄各種不實的競選或罷免廣告，以及深度偽造聲音、影像的犯罪事件也層出不窮，為避免此類犯罪行為影響選舉及罷免結果，本次兩選罷法修法增列相關防範機制規定",
+              "quoteLang": "zh",
+              "sources": ["ey-22b4"],
+              "quoteTranslation": {
+                "en": "Premier 蘇貞昌 added that, given the false campaign and recall ads circulating in recent elections and the steady stream of crimes involving deepfake audio and video, the amendments to both election laws add preventive mechanisms so that such crimes do not affect election and recall results.",
+                "ja": "蘇院長はさらに、最近の選挙で虚偽の選挙・リコール広告が出回り、ディープフェイクの音声・映像による犯罪も相次いでいることから、こうした犯罪が選挙やリコールの結果に影響しないよう、今回の二つの選挙罷免法の改正に防止の仕組みを加えたと述べた。"
+              }
+            },
+            {
+              "kind": "legislator",
+              "date": "2026-08-10",
+              "speaker": {
+                "zh-TW": "李彥秀",
+                "en": "李彥秀",
+                "ja": "李彥秀"
+              },
+              "role": {
+                "zh-TW": "國民黨立委（聯合報轉述）",
+                "en": "KMT legislator (as reported by United Daily News)",
+                "ja": "国民党の立法委員（聯合報の報道）"
+              },
+              "summary": {
+                "zh-TW": "認為選舉主管機關是中選會，選罷法本來就有候選人自己請求下架的程序，數發部另建通報網是擴張職權，等於讓政府決定什麼資訊必須下架。",
+                "en": "Argues the CEC is the election authority and the law already lets candidates request removal themselves; a separate reporting site from the digital ministry expands its powers and effectively lets the government decide what must come down.",
+                "ja": "選挙の主管機関は中選会であり、選挙罷免法にはもともと候補者自身が削除を求める手続きがあるのに、数位発展部が別に通報サイトを作るのは権限の拡大で、何を削除すべきか政府が決めることになるとしています。"
+              },
+              "quote": "但國民黨立委李彥秀指出，選舉主管機關是中選會，選罷法已有候選人請求排除侵害程序，數發部越俎代庖擴張職權，讓政府決定什麼資訊必須下架，實際限縮言論。",
+              "quoteLang": "zh",
+              "sources": ["udn-9680945"],
+              "quoteTranslation": {
+                "en": "But KMT legislator 李彥秀 said the CEC is the election authority and the election law already has a procedure for candidates to request removal; the digital ministry is overstepping and expanding its powers, letting the government decide what information must be taken down, which in effect restricts speech.",
+                "ja": "しかし国民党の李彥秀立法委員は、選挙の主管機関は中選会で、選挙罷免法にはすでに候補者が侵害の排除を求める手続きがあり、数位発展部は越権して権限を広げ、何を削除すべきかを政府が決めることになり、実質的に言論を狭めると指摘した。"
+              }
+            },
+            {
+              "kind": "caucus",
+              "date": "2026-08-10",
+              "speaker": {
+                "zh-TW": "陳清龍",
+                "en": "陳清龍",
+                "ja": "陳清龍"
+              },
+              "role": {
+                "zh-TW": "民眾黨立法院黨團總召（聯合報轉述）",
+                "en": "Convener, TPP legislative caucus (as reported by United Daily News)",
+                "ja": "民衆党立法院会派総召集人（聯合報の報道）"
+              },
+              "summary": {
+                "zh-TW": "擔心執政黨把不利於己的內容當成深偽下架，讓機制變成壓制異議的工具。",
+                "en": "Worries the ruling party could label unfavorable content as deepfakes and have it removed, turning the mechanism into a tool to suppress dissent.",
+                "ja": "与党が自分に不利な内容をディープフェイクとして削除させ、仕組みが異論を抑える道具になることを心配しています。"
+              },
+              "quote": "民眾黨立法院黨團總召陳清龍表示，執政黨不能藉此把不利於己的內容，打成深偽訊息下架，反而讓這套機制淪為政府打壓異己、箝制言論自由的工具。",
+              "quoteLang": "zh",
+              "sources": ["udn-9680945"],
+              "quoteTranslation": {
+                "en": "TPP caucus convener 陳清龍 said the ruling party must not use this to brand content unfavorable to itself as deepfakes and have it removed, which would turn the mechanism into a tool for the government to suppress opponents and muzzle free speech.",
+                "ja": "民衆党立法院会派の陳清龍総召集人は、与党がこれを利用して自分に不利な内容をディープフェイクとして削除させてはならず、そうなればこの仕組みは政府が異論を抑え、言論の自由を締めつける道具に成り下がると述べた。"
+              }
+            },
+            {
+              "kind": "caucus",
+              "date": "2026-08-10",
+              "speaker": {
+                "zh-TW": "莊瑞雄",
+                "en": "莊瑞雄",
+                "ja": "莊瑞雄"
+              },
+              "role": {
+                "zh-TW": "民進黨立法院黨團幹事長（聯合報轉述）",
+                "en": "Secretary-general, DPP legislative caucus (as reported by United Daily News)",
+                "ja": "民進党立法院会派幹事長（聯合報の報道）"
+              },
+              "summary": {
+                "zh-TW": "認為判斷的關鍵在內容是否對被變造的人造成損害：沒有損害屬言論自由，侵害個人、社會秩序或國家安全就有法律風險。",
+                "en": "Says the key test is whether the content harms the person depicted: without harm it is free speech, but harm to individuals, social order or national security carries legal risk.",
+                "ja": "判断の鍵は内容が改変された本人に損害を与えるかどうかで、損害がなければ表現の自由、個人や社会秩序、国家安全を損なえば法的リスクがあるとしています。"
+              },
+              "quote": "民進黨立法院黨團幹事長莊瑞雄說，深偽技術在網路相當普遍，對於法律判斷是否構成犯罪，關鍵在內容是否對被變造對象「致生損害」，「如果沒有受到損害，都是言論自由啦」，但侵害個人、衝擊社會秩序，甚至影響公共利益或國家安全，就有法律風險。",
+              "quoteLang": "zh",
+              "sources": ["udn-9680945"],
+              "quoteTranslation": {
+                "en": "DPP caucus secretary-general 莊瑞雄 said deepfake technology is very common online, and the legal question of whether a crime has been committed turns on whether the content “causes harm” to the person altered: “If there’s no harm, it’s all free speech,” but infringing on individuals, disrupting social order, or even affecting the public interest or national security carries legal risk.",
+                "ja": "民進党立法院会派の莊瑞雄幹事長は、ディープフェイク技術はネット上でかなり一般的で、犯罪にあたるかどうかの法的判断の鍵は、内容が改変された対象に「損害を生じさせる」かどうかにあり、「損害がなければ、すべて言論の自由だ」としつつ、個人の権利を侵害したり、社会秩序を揺るがしたり、さらには公共の利益や国家安全に影響したりすれば、法的リスクがあると述べた。"
+              }
+            },
+            {
+              "kind": "gov",
+              "date": "2026-08-10",
+              "speaker": {
+                "zh-TW": "數位發展部",
+                "en": "Ministry of Digital Affairs",
+                "ja": "数位発展部"
+              },
+              "role": {
+                "zh-TW": "對通報網的說明（聯合報轉述）",
+                "en": "Explanation of the reporting site (as reported by United Daily News)",
+                "ja": "通報サイトについての説明（聯合報の報道）"
+              },
+              "summary": {
+                "zh-TW": "說明通報網只是把既有法定程序數位化，縮短候選人和平台聯繫的時間，程序與權責沒有改變。",
+                "en": "Says the reporting site only digitizes the existing legal procedure and shortens the time it takes candidates to reach platforms; the procedure and responsibilities are unchanged.",
+                "ja": "通報サイトは既存の法定手続きをデジタル化し、候補者とプラットフォームの連絡にかかる時間を短くするだけで、手続きと権限は変わらないと説明しています。"
+              },
+              "quote": "數發部主動與Meta、Google、LINE、TikTok等主要平台溝通，建置「選舉ＡＩ深偽訊息通報網」，協助候選人縮短文件傳遞及平台聯繫時間，既有法定程序與權責不變。",
+              "quoteLang": "zh",
+              "sources": ["udn-9680945"],
+              "quoteTranslation": {
+                "en": "The ministry reached out to major platforms including Meta, Google, LINE and TikTok and built the “election AI deepfake reporting site” to help candidates cut the time spent sending documents and contacting platforms; the existing legal procedures and responsibilities remain unchanged.",
+                "ja": "数位発展部は Meta、Google、LINE、TikTok などの主要プラットフォームと調整し、「選挙 AI ディープフェイク情報通報サイト」を構築して、候補者が書類を送りプラットフォームと連絡する時間を短くできるようにした。既存の法定手続きと権限・責任は変わらない。"
+              }
+            },
+            {
+              "kind": "civic",
+              "date": "2026-10-13",
+              "speaker": {
+                "zh-TW": "賴又豪",
+                "en": "賴又豪",
+                "ja": "賴又豪"
+              },
+              "role": {
+                "zh-TW": "科技、民主與社會研究中心（DSET）民主治理組副組長（報導者採訪）",
+                "en": "Deputy director of democratic governance, Research Institute for Democracy, Society and Emerging Technology (DSET), interviewed by The Reporter",
+                "ja": "科技・民主・社会研究センター（DSET）民主ガバナンス部副部長（報導者の取材）"
+              },
+              "summary": {
+                "zh-TW": "反對仿照韓國在選前全面禁止 AI 生成內容，認為會連帶禁止意見表達與政治嘲諷，處罰應聚焦在不實、有害的內容。",
+                "en": "Opposes copying South Korea’s blanket pre-election ban on AI-generated content, saying it would also ban opinion and political satire; penalties should focus on false and harmful content.",
+                "ja": "韓国のように選挙前に AI 生成コンテンツを全面禁止することには反対で、意見表明や政治風刺まで禁じてしまうとし、処罰は虚偽で有害な内容に絞るべきだとしています。"
+              },
+              "quote": "科技、民主與社會研究中心（DSET）民主治理組副組長賴又豪認為，若採用韓國的選前全面禁止使用AI作法，修法涵蓋範圍太過廣泛，這會導致用AI產生內容進行意見表達、政治嘲諷、重現真實事件等目的也都被禁止。",
+              "quoteLang": "zh",
+              "sources": ["twr-2026-ai"],
+              "quoteTranslation": {
+                "en": "賴又豪, deputy director of democratic governance at DSET, believes that adopting South Korea’s approach of banning AI use entirely before elections would make the law far too broad, banning AI-generated content even for expressing opinions, political satire or recreating real events.",
+                "ja": "DSET 民主ガバナンス部の賴又豪副部長は、韓国のように選挙前に AI の使用を全面禁止すれば規制の範囲が広すぎ、意見表明、政治風刺、実際の出来事の再現といった目的で AI を使うことまで禁じられてしまうと考えている。"
+              }
+            }
+          ],
+          "related": ["cogwar", "media"]
+        },
+        {
+          "id": "interference-claims",
+          "title": {
+            "zh-TW": "境外介選的警示，和對「標籤」的疑慮",
+            "en": "Warnings of foreign interference, and worries about labels",
+            "ja": "外国による選挙介入への警告と、「レッテル」への懸念"
+          },
+          "question": {
+            "zh-TW": "國安機關與陸委會公開警告境外勢力正在介入選舉。也有政黨人士與人權團體提醒，「認知作戰」「假訊息」這類說法如果沒有清楚標準，可能壓縮國內的不同意見。",
+            "en": "Security agencies and the Mainland Affairs Council publicly warn that foreign forces are interfering in the election. Some party figures and human rights groups caution that without clear standards, labels such as “cognitive warfare” or “disinformation” may squeeze out legitimate disagreement at home.",
+            "ja": "国家安全機関と大陸委員会は、外国勢力が選挙に介入していると公に警告しています。一方で政党関係者や人権団体は、「認知戦」や「偽情報」といった言葉に明確な基準がなければ、国内の異なる意見を狭めかねないと注意を促しています。"
+          },
+          "facts": [
+            {
+              "text": {
+                "zh-TW": "國家安全局發布的〈2025年中共對臺認知作戰操作手法分析〉寫到，2025 年國安團隊查報超過 4.5 萬組異常帳號，蒐集超過 231.4 萬則爭議訊息，通報政府相關部門 3,200 多則。",
+                "en": "The National Security Bureau’s report “Analysis of the CCP’s Cognitive Warfare Tactics Against Taiwan in 2025” says security teams flagged more than 45,000 sets of anomalous accounts in 2025, collected more than 2.314 million pieces of disputed content, and referred more than 3,200 of them to government agencies.",
+                "ja": "国家安全局が公表した「2025 年 中国共産党の対台湾認知戦の手法分析」によると、2025 年に国家安全チームは 4.5 万組を超える異常アカウントを検出し、231.4 万件を超える問題のある情報を収集し、3,200 件余りを関係する政府部門に通報しました。"
+              },
+              "sources": ["nsb-2025"]
+            },
+            {
+              "text": {
+                "zh-TW": "同一份報告的結語寫到，國安局將與第三方事實查核機構、社群平台加強溝通，「適時揭露並下架不實網路資訊」，以防制境外敵對勢力的影響力作戰。報告沒有標示發布日期。",
+                "en": "The same report concludes that the bureau will strengthen communication with third-party fact-checkers and social media platforms to “expose and take down false online information in a timely manner” in order to counter influence operations by hostile foreign forces. The report carries no publication date.",
+                "ja": "同じ報告の結語は、国家安全局が第三者のファクトチェック機関や SNS 事業者との連携を強め、「ネット上の虚偽情報を適時に明らかにして削除させる」ことで、敵対的な外国勢力の影響力工作を防ぐとしています。報告に公表日の記載はありません。"
+              },
+              "sources": ["nsb-2025"]
+            }
+          ],
+          "views": [
+            {
+              "kind": "civic",
+              "date": "2020-01-13",
+              "speaker": {
+                "zh-TW": "台灣人權促進會",
+                "en": "Taiwan Association for Human Rights",
+                "ja": "台湾人権促進会"
+              },
+              "role": {
+                "zh-TW": "聲明〈管制不實訊息，應兼顧言論自由〉",
+                "en": "Statement: “Regulating false information must also respect free speech”",
+                "ja": "声明「虚偽情報の規制は表現の自由との両立を」"
+              },
+              "summary": {
+                "zh-TW": "同意不實訊息會傷害民主，但認為要先回答國家在什麼條件下能以假訊息為由介入言論，也要降低警方約談民眾造成的寒蟬效應，政治言論應受較高保障。",
+                "en": "Agrees false information can harm democracy, but says the first question is under what conditions the state may intervene in speech on the grounds of disinformation, that the chilling effect of police questioning must be reduced, and that political speech deserves stronger protection.",
+                "ja": "虚偽情報が民主主義を傷つけることは認めつつ、まず国家がどんな条件のもとで偽情報を理由に言論へ介入できるのかを問うべきで、警察の事情聴取による萎縮効果も減らす必要があり、政治的な言論はより強く保護されるべきだとしています。"
+              },
+              "quote": "究竟在什麼樣的情況下，國家權力能以假訊息為由介入人民言論？既有的法律，在規範上是否有其必要性？在執行面上，如何降低警方為執法而約談民眾所可能造成的寒蟬效應？",
+              "quoteLang": "zh",
+              "sources": ["tahr-2593"],
+              "quoteTranslation": {
+                "en": "Under exactly what circumstances may state power intervene in people’s speech on the grounds of disinformation? Are the existing laws necessary as regulation? In enforcement, how can the chilling effect of police summoning people for questioning be reduced?",
+                "ja": "いったいどのような状況であれば、国家権力が偽情報を理由に人々の言論へ介入できるのか。既存の法律に、規制としての必要性はあるのか。執行の面では、警察が人々を呼び出して事情を聴くことによる萎縮効果をどう減らすのか。"
+              }
+            },
+            {
+              "kind": "civic",
+              "date": "2026-05-02",
+              "speaker": {
+                "zh-TW": "李翊慈",
+                "en": "李翊慈",
+                "ja": "李翊慈"
+              },
+              "role": {
+                "zh-TW": "台灣安保協會助理研究員（研討會，中央社轉述）",
+                "en": "Assistant researcher, 台灣安保協會 (seminar, as reported by CNA)",
+                "ja": "台湾安保協会助理研究員（シンポジウム、中央通訊社の報道）"
+              },
+              "summary": {
+                "zh-TW": "認為介選重在長期經營基層網絡，主張參考美國、澳洲、新加坡建立外國影響力揭露制度，讓與中國有金流或利益往來的人主動公開。",
+                "en": "Sees interference as long-term cultivation of local networks, and proposes a foreign influence disclosure system modeled on the US, Australia and Singapore, requiring people with financial or other ties to China to disclose them.",
+                "ja": "介入の重点は地域ネットワークの長期的な取り込みにあるとし、米国・オーストラリア・シンガポールにならって外国影響力の開示制度を作り、中国と資金や利益のつながりがある人に自ら公開させるよう主張しています。"
+              },
+              "quote": "她主張，台灣應參考美國、澳洲與新加坡等國建立「外國影響力揭露制度」，將揭露與澄清義務轉移到個人與組織身上，要求與中國存在金流或利益鏈者主動公開資訊，以降低滲透風險。",
+              "quoteLang": "zh",
+              "sources": ["cna-202605020189"],
+              "quoteTranslation": {
+                "en": "She argued that Taiwan should follow countries such as the US, Australia and Singapore in creating a “foreign influence disclosure system” that shifts the duty to disclose and clarify onto individuals and organizations, requiring those with financial flows or interests tied to China to make the information public, in order to reduce the risk of infiltration.",
+                "ja": "彼女は、台湾は米国、オーストラリア、シンガポールなどにならって「外国影響力開示制度」を作り、開示と説明の義務を個人や組織に移し、中国と資金の流れや利害関係がある人に自ら情報を公開させて、浸透のリスクを下げるべきだと主張した。"
+              }
+            },
+            {
+              "kind": "party",
+              "date": "2026-06-11",
+              "speaker": {
+                "zh-TW": "張雅屏",
+                "en": "張雅屏",
+                "ja": "張雅屏"
+              },
+              "role": {
+                "zh-TW": "國民黨考紀會主委（臉書發文，聯合新聞網轉述）",
+                "en": "Chair, KMT Discipline Committee (Facebook post, as reported by UDN)",
+                "ja": "国民党考紀委員会主任委員（フェイスブック投稿、聯合新聞網の報道）"
+              },
+              "summary": {
+                "zh-TW": "認為把行之有年的海峽論壇等兩岸交流貼上「統戰」標籤、抹煞正常往來，本身就是一種認知作戰。",
+                "en": "Argues that labeling long-running cross-strait exchanges such as the Straits Forum as “united front” work and dismissing normal contact is itself a form of cognitive warfare.",
+                "ja": "長年続く海峡フォーラムなどの両岸交流に「統一戦線工作」のレッテルを貼り、通常の往来を否定すること自体が一種の認知戦だとしています。"
+              },
+              "quote": "正如民進黨將行之有年的海峽論壇貼上「統戰、威脅」標籤，卻說不清助農、幫台商與青年的措施究竟有何危害？把黑的說成白的，盲目用標籤掩蓋事實、抹煞正常交流，這才是台灣正在發生的認知作戰。",
+              "quoteLang": "zh",
+              "sources": ["udn-9560411"],
+              "quoteTranslation": {
+                "en": "Just as the DPP has labeled the long-running Straits Forum “united front” and “a threat,” yet cannot explain what harm its measures to help farmers, Taiwanese businesspeople and young people actually do. Calling black white, blindly using labels to cover up facts and erase normal exchanges: that is the cognitive warfare actually happening in Taiwan.",
+                "ja": "民進党が長年続く海峡フォーラムに「統一戦線工作、脅威」のレッテルを貼りながら、農家や台湾企業、若者を支援する措置にどんな害があるのか説明できないように。黒を白と言いくるめ、むやみにレッテルで事実を覆い隠し、通常の交流を否定する。これこそが台湾でいま起きている認知戦だ。"
+              }
+            },
+            {
+              "kind": "gov",
+              "date": "2026-10-20",
+              "speaker": {
+                "zh-TW": "邱垂正",
+                "en": "邱垂正",
+                "ja": "邱垂正"
+              },
+              "role": {
+                "zh-TW": "陸委會主委（中央社轉述）",
+                "en": "Minister, Mainland Affairs Council (as reported by CNA)",
+                "ja": "大陸委員会主任委員（中央通訊社の報道）"
+              },
+              "summary": {
+                "zh-TW": "表示中共介選已經在進行，包括跨境鎮壓與認知作戰，選舉末期可能混淆視聽，呼籲政府與全民一起反介選。",
+                "en": "Says CCP interference in the election is already under way, including transnational repression and cognitive warfare, may sow confusion near election day, and calls on government and citizens together to resist it.",
+                "ja": "中国共産党による選挙介入はすでに進行中で、越境弾圧や認知戦を含み、選挙終盤には混乱を招くおそれがあるとして、政府と国民がともに介入に対抗するよう呼びかけています。"
+              },
+              "quote": "陸委會主委邱垂正今天表示，中共對台介選已經赤裸裸地進行，包括跨境鎮壓及認知作戰，尤其選舉末期可能透過混淆視聽、錯誤引導，影響選民判斷及投票行為",
+              "quoteLang": "zh",
+              "sources": ["cna-202610200065"],
+              "quoteTranslation": {
+                "en": "MAC minister 邱垂正 said today that the CCP’s interference in Taiwan’s election is already openly under way, including transnational repression and cognitive warfare, and that especially near the end of the campaign it may confuse and mislead the public to influence voters’ judgment and voting behavior.",
+                "ja": "大陸委員会の邱垂正主任委員は、中国共産党の台湾選挙への介入はすでにあからさまに進行しており、越境弾圧や認知戦を含み、特に選挙終盤には混乱や誤った誘導で有権者の判断や投票行動に影響を与えるおそれがあると述べた。"
+              }
+            }
+          ],
+          "related": ["cogwar", "media"]
+        }
+      ]
+    },
+    {
+      "id": "resilience",
+      "title": {
+        "zh-TW": "民主韌性與公民參與",
+        "en": "Democratic resilience and civic participation",
+        "ja": "民主主義の強靭性と市民参加"
+      },
+      "lede": {
+        "zh-TW": "一場選舉能不能被信任，除了選務機關，也靠查核訊息的組織、到場看開票的民眾，和把公開資料整理好的公民工程師。各方對他們該扮演多大的角色，看法不一樣。",
+        "en": "Whether an election is trusted depends not only on the election authorities but also on fact-checkers, citizens who watch the count, and civic technologists who make public data usable. People differ on how large a role each should play.",
+        "ja": "選挙が信頼されるかどうかは、選挙管理機関だけでなく、情報を検証する組織、開票を見に行く市民、公開データを整理する市民エンジニアにもかかっています。それぞれがどこまで役割を担うべきかについて、見方は分かれています。"
+      },
+      "topics": [
+        {
+          "id": "fact-checking",
+          "title": {
+            "zh-TW": "事實查核：誰來判斷一則訊息的真假",
+            "en": "Fact-checking: who decides whether a claim is true?",
+            "ja": "ファクトチェック：情報の真偽は誰が判断するのか"
+          },
+          "question": {
+            "zh-TW": "選舉期間，查核組織替流傳的訊息寫查核報告，中選會也建議民眾把可疑訊息轉給查核組織。支持者認為查核提供共同的事實基礎，質疑者擔心選題偏頗、經費來源，或查核和政府、平台走得太近。",
+            "en": "During elections, fact-checkers publish reports on circulating claims, and the CEC has urged people to forward suspicious messages to them. Supporters see fact-checking as a shared factual basis; skeptics worry about biased topic selection, funding, or fact-checkers growing too close to government and platforms.",
+            "ja": "選挙期間、ファクトチェック組織は出回る情報について検証記事を出し、中選会も疑わしい情報を検証組織に転送するよう勧めています。支持する側は共通の事実の土台になると考え、疑問を持つ側は題材選びの偏り、資金源、政府やプラットフォームとの距離の近さを心配しています。"
+          },
+          "facts": [
+            {
+              "text": {
+                "zh-TW": "台灣事實查核中心由優質新聞發展協會與台灣媒體觀察教育基金會共同成立，2018 年 7 月 31 日開始運作，同年 11 月 1 日通過國際事實查核聯盟（IFCN）審核，2021 年 2 月轉為獨立法人的教育基金會。",
+                "en": "Taiwan FactCheck Center was founded by two media groups, 優質新聞發展協會 and 台灣媒體觀察教育基金會. It began operating on July 31, 2018, passed International Fact-Checking Network (IFCN) review on November 1 that year, and became an independent educational foundation in February 2021.",
+                "ja": "台湾ファクトチェックセンターは優質新聞発展協会と台湾メディア観察教育基金会が共同で設立し、2018 年 7 月 31 日に活動を始め、同年 11 月 1 日に国際ファクトチェック・ネットワーク（IFCN）の審査に通りました。2021 年 2 月に独立した法人の教育基金会になりました。"
+              },
+              "sources": ["tfc-qa", "tfc-milestones", "tfc-ifcn"]
+            },
+            {
+              "text": {
+                "zh-TW": "查核中心表示，自成立起不接受政府或政治人物的捐助。它公布的 2025 年收入中，約一半來自參與 Meta 的查證機制。",
+                "en": "The center says it has never accepted donations from the government or politicians since it was founded. In the 2025 income it published, about half came from taking part in Meta’s fact-checking program.",
+                "ja": "センターは設立以来、政府や政治家からの寄付を受けていないとしています。公表した 2025 年の収入のうち、約半分は Meta のファクトチェックの仕組みへの参加によるものです。"
+              },
+              "sources": ["tfc-donation2025"]
+            },
+            {
+              "text": {
+                "zh-TW": "Cofacts 真的假的是 g0v 社群的開源專案，2016 年起步，用群眾協作加聊天機器人查核訊息，2023 年由工作小組成立社團法人台灣實科協會營運。MyGoPen 在 2020 年 3 月通過 IFCN 審核，表示不接受政府、政黨及政治人物捐款。",
+                "en": "Cofacts is an open-source project from the g0v community that started in 2016 and checks messages through crowd collaboration and a chatbot; in 2023 its working group set up an association to run it. MyGoPen passed IFCN review in March 2020 and says it accepts no donations from the government, parties or politicians.",
+                "ja": "Cofacts（真的假的）は g0v コミュニティのオープンソースプロジェクトで、2016 年に始まり、市民の協働とチャットボットで情報を検証しています。2023 年に作業チームが社団法人を設立して運営しています。MyGoPen は 2020 年 3 月に IFCN の審査に通り、政府・政党・政治家からの寄付は受けないとしています。"
+              },
+              "sources": ["cofacts-po", "mygopen-about", "mygopen-funding"]
+            },
+            {
+              "text": {
+                "zh-TW": "2024 年大選前，中選會呼籲民眾把可疑訊息轉給「台灣事實查核中心」等 LINE 官方帳號查證。",
+                "en": "Before the 2024 elections, the CEC urged the public to forward suspicious messages to the official LINE accounts of fact-checkers such as Taiwan FactCheck Center.",
+                "ja": "2024 年の総統・立法委員選挙を前に、中選会は疑わしい情報を「台湾ファクトチェックセンター」などの LINE 公式アカウントに転送して確かめるよう呼びかけました。"
+              },
+              "sources": ["cec-41023"]
+            },
+            {
+              "text": {
+                "zh-TW": "2025 年 1 月 7 日，Meta 宣布先在美國結束第三方事實查核計畫，改用社群備註（Community Notes）。",
+                "en": "On January 7, 2025, Meta announced it would end its third-party fact-checking program, starting in the US, and move to a Community Notes model.",
+                "ja": "2025 年 1 月 7 日、Meta は米国から第三者ファクトチェックの仕組みを終え、コミュニティノートに移ると発表しました。"
+              },
+              "sources": ["meta-2025"]
+            }
+          ],
+          "views": [
+            {
+              "kind": "caucus",
+              "date": "2022-01",
+              "speaker": {
+                "zh-TW": "國民黨立法院黨團",
+                "en": "KMT legislative caucus",
+                "ja": "国民党立法院会派"
+              },
+              "role": {
+                "zh-TW": "2022 年預算審查（新頭殼轉述）",
+                "en": "2022 budget review (as reported by Newtalk)",
+                "ja": "2022 年の予算審査（新頭殻の報道）"
+              },
+              "summary": {
+                "zh-TW": "審查預算時要求華視停止和查核中心合作，質疑查核中心挑選案例偏頗。",
+                "en": "During the budget review, demanded that public broadcaster CTS stop working with the center, questioning its choice of cases as biased.",
+                "ja": "予算審査で公共放送の華視にセンターとの協力をやめるよう求め、取り上げる案件の選び方が偏っていると疑問を呈しました。"
+              },
+              "quote": "國民黨立法院黨團近日於立院審查文化部預算時要求華視於虧損彌平前停止與台灣事實查核中心合作，質疑查核中心於挑選案例有所偏頗",
+              "quoteLang": "zh",
+              "sources": ["newtalk-698563"],
+              "quoteTranslation": {
+                "en": "While reviewing the Ministry of Culture budget, the KMT caucus recently demanded that CTS stop cooperating with Taiwan FactCheck Center until it had made up its losses, questioning whether the center was biased in choosing cases.",
+                "ja": "国民党立法院会派は最近、文化部の予算審査で、華視に赤字を解消するまで台湾ファクトチェックセンターとの協力をやめるよう求め、センターの案件選びに偏りがあると疑問を呈した。"
+              }
+            },
+            {
+              "kind": "legislator",
+              "date": "2022-01-22",
+              "speaker": {
+                "zh-TW": "王婉諭",
+                "en": "王婉諭",
+                "ja": "王婉諭"
+              },
+              "role": {
+                "zh-TW": "時代力量立委（新頭殼轉述）",
+                "en": "New Power Party legislator (as reported by Newtalk)",
+                "ja": "時代力量の立法委員（新頭殻の報道）"
+              },
+              "summary": {
+                "zh-TW": "認為查核中心是臉書的全球合作夥伴，連年通過 IFCN 認證，和公共媒體合作應該多多益善。",
+                "en": "Points out that the center is one of Facebook’s global partners with repeated IFCN certification, and says cooperation with public media should be welcomed.",
+                "ja": "センターはフェイスブックの世界的な協力先で、IFCN の認証も続けて受けており、公共メディアとの協力は多いほどよいとしています。"
+              },
+              "quote": "王婉諭指出，「TFC台灣事實查核中心」是臉書在全球合作的54個夥伴之一，更連續三年通過國際事實查核聯盟（IFCN）認證，這樣的專題合作明明是多多益善，她實在不懂國民黨要求中止合作的理由是什麼？",
+              "quoteLang": "zh",
+              "sources": ["newtalk-700184"],
+              "quoteTranslation": {
+                "en": "王婉諭 noted that Taiwan FactCheck Center is one of Facebook’s 54 partners worldwide and has passed IFCN certification three years in a row; this kind of feature collaboration is clearly a good thing, and she could not understand the KMT’s reason for demanding it end.",
+                "ja": "王婉諭氏は、台湾ファクトチェックセンターはフェイスブックの世界の協力先 54 団体の一つで、3 年連続で IFCN の認証を受けており、こうした特集での協力は多いほどよいのに、国民党が協力の中止を求める理由が理解できないと指摘した。"
+              }
+            },
+            {
+              "kind": "scholar",
+              "date": "2023-05-19",
+              "speaker": {
+                "zh-TW": "張佑宗",
+                "en": "張佑宗",
+                "ja": "張佑宗"
+              },
+              "role": {
+                "zh-TW": "臺灣大學政治學系教授（查核中心委託的年度調查）",
+                "en": "Professor of political science, National Taiwan University (annual survey commissioned by the center)",
+                "ja": "国立台湾大学政治学科教授（センター委託の年次調査）"
+              },
+              "summary": {
+                "zh-TW": "研究發現政治類查核容易出現「信者恆信」，效果有條件，建議優先和中間選民溝通，但認為查核仍有存在的必要。",
+                "en": "Found that political fact-checks tend to meet “believers keep believing,” so their effect is conditional; he recommends focusing on swing voters but still sees fact-checking as necessary.",
+                "ja": "政治的なファクトチェックは「信じる人は信じ続ける」状態になりやすく効果には条件があるとし、中間層の有権者との対話を優先するよう勧めつつ、検証には存在意義があるとしています。"
+              },
+              "quote": "張佑宗說，查核報告破解政治傳言的效果，出現「信者恆信、不信者恆不信」現象，查核效果是有條件。",
+              "quoteLang": "zh",
+              "sources": ["tfc-104845"],
+              "quoteTranslation": {
+                "en": "張佑宗 said that when fact-check reports debunk political rumors, a “believers keep believing, doubters keep doubting” effect appears, so their impact is conditional.",
+                "ja": "張佑宗氏は、ファクトチェック記事が政治的なうわさを打ち消す効果には「信じる人は信じ続け、信じない人は信じないまま」という現象が見られ、効果には条件があると述べた。"
+              }
+            },
+            {
+              "kind": "platform",
+              "date": "2025-01-07",
+              "speaker": {
+                "zh-TW": "Meta（Joel Kaplan）",
+                "en": "Meta (Joel Kaplan)",
+                "ja": "Meta（Joel Kaplan）"
+              },
+              "role": {
+                "zh-TW": "Meta 全球事務長，宣布結束美國第三方查核計畫",
+                "en": "Meta Chief Global Affairs Officer, announcing the end of third-party fact-checking in the US",
+                "ja": "Meta 最高グローバル渉外責任者。米国での第三者ファクトチェック終了を発表"
+              },
+              "summary": {
+                "zh-TW": "認為專家也有自己的偏見，反映在查核哪些內容、怎麼查。",
+                "en": "Says experts have their own biases, which showed in what they chose to fact-check and how.",
+                "ja": "専門家にも偏りがあり、何をどう検証するかの選び方に表れていたとしています。"
+              },
+              "quote": "Experts, like everyone else, have their own biases and perspectives. This showed up in the choices some made about what to fact check and how.",
+              "quoteLang": "en",
+              "sources": ["meta-2025"],
+              "quoteTranslation": {
+                "zh-TW": "專家和所有人一樣，有自己的偏見與觀點。這反映在一些人對於要查核什麼、怎麼查核的選擇上。",
+                "ja": "専門家も他の誰とも同じように、自分なりの偏りや視点を持っている。それが、何をどう検証するかという一部の人の選択に表れていた。"
+              }
+            },
+            {
+              "kind": "civic",
+              "date": "2025-01-20",
+              "speaker": {
+                "zh-TW": "台灣事實查核中心",
+                "en": "Taiwan FactCheck Center",
+                "ja": "台湾ファクトチェックセンター"
+              },
+              "role": {
+                "zh-TW": "〈台灣事實查核中心如何與Meta合作？〉常見問題",
+                "en": "FAQ on how the center works with Meta",
+                "ja": "「台湾ファクトチェックセンターは Meta とどう協力しているか」Q&A"
+              },
+              "summary": {
+                "zh-TW": "回應「查核等於審查」的批評，說查核是在提供證據的前提下告知正確資訊，沒有抹去資訊。",
+                "en": "Responds to the charge that fact-checking is censorship: fact-checks provide evidence-based information rather than erasing content.",
+                "ja": "「ファクトチェックは検閲だ」という批判に対し、検証は証拠に基づいて正確な情報を伝えるもので、情報を消すものではないと答えています。"
+              },
+              "quote": "事實查核不是試圖抹去哪些資訊，而是在提供證據的前提下，告知民眾準確資訊，為公眾討論提供共同的事實基礎。事實查核的理念是支持言論自由，而非言論審查。",
+              "quoteLang": "zh",
+              "sources": ["tfc-125286"],
+              "quoteTranslation": {
+                "en": "Fact-checking does not try to erase any information. It tells the public accurate information on the basis of evidence, providing a shared factual foundation for public debate. The idea behind fact-checking is to support free speech, not to censor it.",
+                "ja": "ファクトチェックは何かの情報を消そうとするものではなく、証拠を示したうえで人々に正確な情報を伝え、公共の議論に共通の事実の土台を提供するものだ。ファクトチェックの理念は表現の自由を支えることであり、言論の検閲ではない。"
+              }
+            },
+            {
+              "kind": "scholar",
+              "date": "2026",
+              "speaker": {
+                "zh-TW": "劉佳融",
+                "en": "劉佳融",
+                "ja": "劉佳融"
+              },
+              "role": {
+                "zh-TW": "政治大學法律學系碩士論文〈如何決定真相：事實查核與國家的距離〉",
+                "en": "Master’s thesis, Department of Law, National Chengchi University: “How Truth Is Decided: The Distance Between Fact-Checking and the State”",
+                "ja": "国立政治大学法律学科修士論文「真実をどう決めるか：ファクトチェックと国家の距離」"
+              },
+              "summary": {
+                "zh-TW": "指出事實查核在資金來源、人事、選題與判準的中立性上有爭議，並擔心政府把查核組織納入平台治理架構，讓兩者距離越來越近。",
+                "en": "Notes disputes over fact-checkers’ funding, personnel, and the neutrality of their topics and standards, and worries that the government is folding fact-checkers into platform governance, bringing the two ever closer.",
+                "ja": "ファクトチェックには資金源、人事、題材選びや判断基準の中立性をめぐる論争があると指摘し、政府が検証組織をプラットフォーム統治の枠組みに組み込み、両者の距離が縮まっていることを懸念しています。"
+              },
+              "quote": "我國政府似乎仍傾向將事實查核機制／組織納入防制假訊息的數位平台治理架構中，使政府與事實查核組織之間的距離日益縮短。",
+              "quoteLang": "zh",
+              "sources": ["nccu-thesis"],
+              "quoteTranslation": {
+                "en": "Our government still seems inclined to fold fact-checking mechanisms and organizations into its digital platform governance framework against disinformation, steadily shrinking the distance between the government and fact-checking organizations.",
+                "ja": "わが国の政府は依然として、ファクトチェックの仕組みや組織を偽情報対策のデジタルプラットフォーム統治の枠組みに組み込もうとしているようで、政府とファクトチェック組織との距離は日増しに縮まっている。"
+              }
+            }
+          ],
+          "related": ["g0v", "media"]
+        },
+        {
+          "id": "vote-counting",
+          "title": {
+            "zh-TW": "開票公開與民間監票",
+            "en": "Public vote counting and citizen poll-watching",
+            "ja": "公開の開票と市民による監視"
+          },
+          "question": {
+            "zh-TW": "台灣用紙本投票，在投開票所當場唱票，誰都可以到場看。選務機關認為這套流程已經足以防弊。不同時期的在野黨與公民團體號召過民眾監票，查核組織則提醒，片段影片離開脈絡後可能變成作票謠言。",
+            "en": "Taiwan votes on paper and counts ballots aloud at the polling station, where anyone may watch. Election authorities say this process is enough to prevent fraud; opposition parties at different times, and civic groups, have called on citizens to watch the count; and fact-checkers warn that video clips taken out of context can turn into fraud rumors.",
+            "ja": "台湾は紙で投票し、投開票所でその場で読み上げて開票し、誰でも見に行けます。選挙管理機関はこの手順で不正は十分に防げるとしています。時期の異なる野党や市民団体は市民に開票の監視を呼びかけ、ファクトチェック組織は、文脈から切り離された動画の断片が不正のうわさになりうると注意を促しています。"
+          },
+          "facts": [
+            {
+              "text": {
+                "zh-TW": "選罷法第 57 條規定，投票結束後投票所立即改為開票所，當眾唱名開票。結果張貼在開票所門口，報告表副本當場交給推薦候選人的政黨或候選人指派的人。",
+                "en": "Under Article 57 of the election law, each polling station becomes a counting station as soon as voting ends and ballots are read out in public; results are posted at the door, and copies of the tally sheet are handed on the spot to representatives of the parties or candidates.",
+                "ja": "選挙罷免法第 57 条により、投票が終わると投票所はすぐ開票所に変わり、公開の場で読み上げて開票します。結果は開票所の入口に掲示され、報告表の写しはその場で候補者を推薦した政党や候補者が指名した人に渡されます。"
+              },
+              "sources": ["law-elect-all"]
+            },
+            {
+              "text": {
+                "zh-TW": "第 59 條規定，每個投開票所至少要有兩名監察員，由候選人或政黨推薦，同一投開票所的監察員不得全屬同一政黨推薦。",
+                "en": "Article 59 requires at least two monitors at each polling and counting station, nominated by candidates or parties, and they may not all be nominated by the same party.",
+                "ja": "第 59 条は、各投開票所に少なくとも 2 人の監察員を置き、候補者または政党が推薦し、同じ投開票所の監察員がすべて同じ政党の推薦であってはならないと定めています。"
+              },
+              "sources": ["law-elect-all"]
+            },
+            {
+              "text": {
+                "zh-TW": "投票過程不開放錄影，以保護秘密投票。開票所開放民眾入內監看，開票過程可以錄影。選罷法也把「干擾開票或妨礙他人參觀開票」列為可令其退出的情形。",
+                "en": "Voting may not be filmed, to protect the secret ballot; counting stations are open to the public, and the count may be filmed. The election law lists “disrupting the count or obstructing others from watching it” as grounds for removal.",
+                "ja": "投票の秘密を守るため投票の様子は録画できませんが、開票所には市民が入って見ることができ、開票は録画できます。選挙罷免法は「開票を妨害し、または他人の開票参観を妨げる」ことを退出させる理由に挙げています。"
+              },
+              "sources": ["tfc-105107", "law-elect-all"]
+            },
+            {
+              "text": {
+                "zh-TW": "中選會說明，各開票所的報告表送到公所後，由兩位登錄員各輸入一次，兩次相同才進入計票系統。2026 年地方選舉預計設置 18,244 個投票所，動員近 25 萬名選務人員，加上公投超過 30 萬人。",
+                "en": "The CEC explains that once tally sheets reach the district office, two clerks each enter them, and only matching entries go into the counting system. The 2026 local elections plan 18,244 polling stations and nearly 250,000 election staff, more than 300,000 including the referendum.",
+                "ja": "中選会によると、各開票所の報告表が区役所などに届くと 2 人の入力担当がそれぞれ入力し、2 回の入力が一致して初めて集計システムに入ります。2026 年の地方選挙では投票所を 18,244 か所設け、選挙事務に約 25 万人、公民投票を含めると 30 万人超を動員する予定です。"
+              },
+              "sources": ["cec-41329", "cec-63642"]
+            },
+            {
+              "text": {
+                "zh-TW": "2023 年南投立委補選期間，有自稱監票的人在投票所外攝影、記錄投票者特徵，警方依妨害投票罪嫌移送。",
+                "en": "During a 2023 legislative by-election in Nantou, people describing themselves as poll-watchers filmed and noted the features of voters outside polling stations; police referred them to prosecutors on suspicion of obstructing voting.",
+                "ja": "2023 年の南投県の立法委員補欠選挙では、監視を名乗る人たちが投票所の外で撮影し、投票者の特徴を記録したため、警察が投票妨害の疑いで送致しました。"
+              },
+              "sources": ["cna-202303090199"]
+            }
+          ],
+          "views": [
+            {
+              "kind": "party",
+              "date": "2012-01-31",
+              "speaker": {
+                "zh-TW": "民主進步黨",
+                "en": "Democratic Progressive Party (DPP)",
+                "ja": "民主進歩党"
+              },
+              "role": {
+                "zh-TW": "時為在野黨，2012 年大選後回應選民對選務的質疑",
+                "en": "Then in opposition, responding to voters’ doubts about the 2012 election administration",
+                "ja": "当時は野党。2012 年の総統・立法委員選挙後、選挙事務への疑問に回答"
+              },
+              "summary": {
+                "zh-TW": "表示要推動修法，讓開票過程全程錄影，以昭公信。",
+                "en": "Said it would push to amend the law so the entire count is filmed, to build public trust.",
+                "ja": "開票の全過程を録画するよう法改正を進め、信頼を確保するとしました。"
+              },
+              "quote": "因此本黨將推動修正包括公職人員選罷法等相關法規修正，規範未來開票過程全程錄影以昭公信。",
+              "quoteLang": "zh",
+              "sources": ["dpp-4860"],
+              "quoteTranslation": {
+                "en": "The party will therefore push to amend the Civil Servants Election and Recall Act and related regulations so that the entire counting process is filmed in future, to earn public trust.",
+                "ja": "このため本党は、公職人員選挙罷免法などの関連法規の改正を進め、今後は開票の全過程を録画するよう定めて、信頼を確保する。"
+              }
+            },
+            {
+              "kind": "civic",
+              "date": "2015-11-30",
+              "speaker": {
+                "zh-TW": "全民監票聯盟（洪耀南）",
+                "en": "全民監票聯盟 (洪耀南)",
+                "ja": "全民監票連盟（洪耀南）"
+              },
+              "role": {
+                "zh-TW": "聯盟發言人（自由時報轉述）",
+                "en": "Alliance spokesperson (as reported by Liberty Times)",
+                "ja": "連盟の報道官（自由時報の報道）"
+              },
+              "summary": {
+                "zh-TW": "認為開票結果要經縣市選委會、中選會層層彙整，速度慢也不夠透明，號召志工用 App 回報各開票所票數。",
+                "en": "Argued that results pass through layers of county and national election commissions, slowly and without enough transparency, and called on volunteers to report each station’s counts through an app.",
+                "ja": "開票結果は県市選挙委員会や中選会を何層も経て集計され、遅く透明性も足りないとして、ボランティアにアプリで各開票所の票数を報告するよう呼びかけました。"
+              },
+              "quote": "全民監票聯盟發言人洪耀南表示，現行開票過程，需經過縣市選舉委員會、中選會計票中心的層層作業，速度較慢且程序不透明",
+              "quoteLang": "zh",
+              "sources": ["ltn-1524793"],
+              "quoteTranslation": {
+                "en": "Alliance spokesperson 洪耀南 said the current counting process has to go through layer upon layer of work at county and city election commissions and the CEC’s tallying center, which is slow and not transparent.",
+                "ja": "全民監票連盟の洪耀南報道官は、現在の開票は県市選挙委員会や中選会の集計センターを何層も経る作業が必要で、時間がかかり手続きも不透明だと述べた。"
+              }
+            },
+            {
+              "kind": "party",
+              "date": "2022-10-06",
+              "speaker": {
+                "zh-TW": "中國國民黨",
+                "en": "Kuomintang (KMT)",
+                "ja": "中国国民党"
+              },
+              "role": {
+                "zh-TW": "時為在野黨，2022 年九合一前招募監票志工（中央社轉述）",
+                "en": "Then in opposition, recruiting poll-watch volunteers before the 2022 local elections (as reported by CNA)",
+                "ja": "当時は野党。2022 年の統一地方選挙を前に監視ボランティアを募集（中央通訊社の報道）"
+              },
+              "summary": {
+                "zh-TW": "在各開票所外安排志工監看投開票與報票，表示目的是預防作票。",
+                "en": "Placed volunteers outside counting stations to watch voting, counting and reporting, saying the aim was to prevent vote-rigging.",
+                "ja": "各開票所の外にボランティアを配置して投開票と票数の報告を見守り、目的は不正の防止だとしました。"
+              },
+              "quote": "為預防開票當天作票，影響選舉結果，國民黨特別發起招募監票志工共同監票。",
+              "quoteLang": "zh",
+              "sources": ["cna-202210060150"],
+              "quoteTranslation": {
+                "en": "To prevent vote-rigging on counting day from affecting the outcome, the KMT launched a drive to recruit volunteer poll-watchers to monitor the count together.",
+                "ja": "開票当日の不正が選挙結果に影響するのを防ぐため、国民党は特に監視ボランティアを募り、ともに開票を見守ることにした。"
+              }
+            },
+            {
+              "kind": "scholar",
+              "date": "2022-10-07",
+              "speaker": {
+                "zh-TW": "鄭自隆",
+                "en": "鄭自隆",
+                "ja": "鄭自隆"
+              },
+              "role": {
+                "zh-TW": "政治大學傳播學院兼任教授（台灣事實查核中心報告引述）",
+                "en": "Adjunct professor, College of Communication, National Chengchi University (quoted in a Taiwan FactCheck Center report)",
+                "ja": "国立政治大学コミュニケーション学院兼任教授（台湾ファクトチェックセンターの記事で引用）"
+              },
+              "summary": {
+                "zh-TW": "認為電視台灌票是搶收視的亂象，不能據此懷疑中選會作票，開票所有自己的監督機制。",
+                "en": "Sees TV stations inflating live tallies as a ratings-driven problem, but says it is no reason to suspect the CEC of rigging; counting stations have their own oversight.",
+                "ja": "テレビ局の速報の水増しは視聴率争いの問題だが、それを理由に中選会の不正を疑う理由にはならず、開票所には独自の監督の仕組みがあるとしています。"
+              },
+              "quote": "但民眾也不必因為電視開票亂象，而質疑中選會作票，投開票所開票有其監督機制",
+              "quoteLang": "zh",
+              "sources": ["tfc-107430"],
+              "quoteTranslation": {
+                "en": "But the public need not suspect the CEC of rigging because of the chaos in TV vote tallies; counting at polling stations has its own oversight mechanisms.",
+                "ja": "しかし市民はテレビの開票速報の混乱を理由に中選会の不正を疑う必要はない。投開票所の開票には監督の仕組みがある。"
+              }
+            },
+            {
+              "kind": "election",
+              "date": "2024-01-15",
+              "speaker": {
+                "zh-TW": "中央選舉委員會",
+                "en": "Central Election Commission",
+                "ja": "中央選挙委員会"
+              },
+              "role": {
+                "zh-TW": "2024 年大選後的新聞稿",
+                "en": "Press release after the 2024 elections",
+                "ja": "2024 年の総統・立法委員選挙後の報道発表"
+              },
+              "summary": {
+                "zh-TW": "表示選務有不同黨派推薦的監察員在場，開票也開放民眾參觀錄影，沒有作票空間。",
+                "en": "Says monitors nominated by different parties are present and counting is open to public viewing and filming, leaving no room for rigging.",
+                "ja": "異なる政党が推薦した監察員が立ち会い、開票は市民の参観と録画にも開かれているので、不正の余地はないとしています。"
+              },
+              "quote": "且選務的辦理，還有不同黨派所推薦的監察人員在場監督，開票時更開放民眾參觀錄影，不可能有作票舞弊空間。",
+              "quoteLang": "zh",
+              "sources": ["cec-41329"],
+              "quoteTranslation": {
+                "en": "Moreover, monitors nominated by different parties are present to supervise, and the count is open for the public to watch and film, so there is no room for vote-rigging or fraud.",
+                "ja": "さらに選挙事務には異なる政党が推薦した監察員が立ち会って監督し、開票時には市民の参観と録画も認めているので、不正の余地はありえない。"
+              }
+            },
+            {
+              "kind": "civic",
+              "date": "2024-01-22",
+              "speaker": {
+                "zh-TW": "台灣事實查核中心",
+                "en": "Taiwan FactCheck Center",
+                "ja": "台湾ファクトチェックセンター"
+              },
+              "role": {
+                "zh-TW": "2024 年大選後的闢謠整理",
+                "en": "Post-election roundup of debunked claims, 2024",
+                "ja": "2024 年の選挙後のデマ検証まとめ"
+              },
+              "summary": {
+                "zh-TW": "觀察到作票傳言多半來自監票民眾拍的片段影片。這些影片原本是監督力量，脫離脈絡後成了謠言素材。",
+                "en": "Found that most rigging rumors came from clips filmed by citizen poll-watchers; footage meant as oversight became rumor material once taken out of context.",
+                "ja": "不正のうわさの多くは市民が撮った断片的な動画から生まれており、本来は監視の力だった映像が、文脈から切り離されてうわさの材料になったとしています。"
+              },
+              "quote": "作票類傳言的素材來自監票民眾拍攝到的影片，原本是民主社會的重要監督力量",
+              "quoteLang": "zh",
+              "sources": ["tfc-105318"],
+              "quoteTranslation": {
+                "en": "The material for vote-rigging rumors came from videos shot by citizen poll-watchers, which were originally an important source of oversight in a democratic society.",
+                "ja": "不正に関するうわさの素材は、監視に来た市民が撮影した動画で、本来は民主社会の重要な監視の力だった。"
+              }
+            }
+          ],
+          "related": ["process", "cec"]
+        },
+        {
+          "id": "civic-tech",
+          "title": {
+            "zh-TW": "公民科技：志工寫的程式能補上多少",
+            "en": "Civic tech: how much can volunteer code fill in?",
+            "ja": "シビックテック：ボランティアのコードはどこまで補えるか"
+          },
+          "question": {
+            "zh-TW": "從政治獻金數位化、候選人資料整理到協作查核，台灣的公民科技社群做了不少政府還沒做的事。各方肯定它的作用，也提醒它靠志工維持，能解決的問題有範圍。",
+            "en": "From digitizing political donation records to compiling candidate data and crowdsourced fact-checking, Taiwan’s civic tech community has done much that government had not yet done. People credit its role, and also note that it runs on volunteers and can only solve certain kinds of problems.",
+            "ja": "政治献金の記録のデジタル化から候補者データの整理、協働によるファクトチェックまで、台湾のシビックテックコミュニティは政府がまだ手をつけていなかったことを多く手がけてきました。その役割を評価する声とともに、ボランティア頼みであり、解決できる問題には限りがあるという指摘もあります。"
+          },
+          "facts": [
+            {
+              "text": {
+                "zh-TW": "g0v 零時政府是從台灣發起、多中心的公民科技社群，以資訊透明、開放成果、開放協作為核心。宣言寫明它是無黨派、非營利的草根公民運動。",
+                "en": "g0v is a decentralized civic tech community that started in Taiwan, built around information transparency, open results and open collaboration; its manifesto describes it as a non-partisan, non-profit grassroots civic movement.",
+                "ja": "g0v（零時政府）は台湾で始まった多中心のシビックテックコミュニティで、情報の透明性、成果の公開、開かれた協働を柱としています。宣言では無党派・非営利の草の根の市民運動だとしています。"
+              },
+              "sources": ["g0v-home", "g0v-manifesto"]
+            },
+            {
+              "text": {
+                "zh-TW": "2014 年 g0v 的「開放政治獻金」專案，請網友把監察院只能紙本查閱的政治獻金資料逐格輸入，上線 24 小時完成 309,666 筆辨識。",
+                "en": "In 2014, g0v’s Open Political Donations project asked volunteers to transcribe donation records that could only be viewed on paper at the Control Yuan; within 24 hours they had transcribed 309,666 entries.",
+                "ja": "2014 年、g0v の「開放政治献金」プロジェクトは、監察院で紙でしか閲覧できなかった政治献金の記録をネットユーザーに 1 マスずつ入力してもらい、公開から 24 時間で 309,666 件を読み取りました。"
+              },
+              "sources": ["inside-3656"]
+            },
+            {
+              "text": {
+                "zh-TW": "2018 年 6 月 20 日修正公布的政治獻金法第 21 條，要求監察院在申報截止後六個月內把會計報告書公開在網路上。",
+                "en": "Article 21 of the Political Donations Act, as amended on June 20, 2018, requires the Control Yuan to publish campaign finance reports online within six months of the filing deadline.",
+                "ja": "2018 年 6 月 20 日に改正公布された政治献金法第 21 条は、申告期限から 6 か月以内に会計報告書をネット上で公開するよう定めています。"
+              },
+              "sources": ["law-poldonation"]
+            },
+            {
+              "text": {
+                "zh-TW": "vTaiwan 在 2014 年啟動，是結合線上與實體、讓公民和政府討論國家議題的開放諮詢流程。",
+                "en": "vTaiwan, launched in 2014, is an open consultation process combining online and in-person discussion that brings citizens and government together on national issues.",
+                "ja": "vTaiwan は 2014 年に始まった、オンラインと対面を組み合わせて市民と政府が国の課題を話し合う開かれた協議の仕組みです。"
+              },
+              "sources": ["vtaiwan"]
+            }
+          ],
+          "views": [
+            {
+              "kind": "civic",
+              "date": "2016-12-20",
+              "speaker": {
+                "zh-TW": "g0v 公民科技創新獎助金團隊",
+                "en": "g0v Civic Tech Grant team",
+                "ja": "g0v シビックテック助成金チーム"
+              },
+              "role": {
+                "zh-TW": "發起獎助金時的說明（INSIDE 報導）",
+                "en": "Explanation when launching the grant program (as reported by INSIDE)",
+                "ja": "助成金の立ち上げ時の説明（INSIDE の報道）"
+              },
+              "summary": {
+                "zh-TW": "指出開源公民工具多半靠志工熱情維持，缺乏長期人力和資源，因此發起獎助金。",
+                "en": "Noted that open-source civic tools are mostly kept alive by volunteers’ enthusiasm and lack long-term staff and resources, which is why the grant was created.",
+                "ja": "オープンソースの市民向けツールは多くがボランティアの熱意で支えられ、長期的な人手と資源が足りないとして、助成金を始めました。"
+              },
+              "quote": "然而，這類開放原始碼工具的開發和維護，大多仰賴志願者的熱情投入，缺乏長期經營的人力與資源。",
+              "quoteLang": "zh",
+              "sources": ["inside-7980"],
+              "quoteTranslation": {
+                "en": "However, the development and maintenance of such open-source tools rely mostly on volunteers’ enthusiasm, and lack the people and resources for long-term operation.",
+                "ja": "しかし、こうしたオープンソースのツールの開発と維持は、多くがボランティアの熱意に頼っており、長期的に運営する人手と資源が不足している。"
+              }
+            },
+            {
+              "kind": "scholar",
+              "date": "2022",
+              "speaker": {
+                "zh-TW": "何明修",
+                "en": "何明修",
+                "ja": "何明修"
+              },
+              "role": {
+                "zh-TW": "European Democracy Hub 台灣案例研究作者",
+                "en": "Author of the European Democracy Hub case study on Taiwan",
+                "ja": "European Democracy Hub の台湾事例研究の著者"
+              },
+              "summary": {
+                "zh-TW": "認為公民科技和政府合作後，雖有人擔心被收編，看不出活力因此流失。他也提醒公民科技不是萬靈丹，數位落差仍在，深層的政治對立沒有技術解方。",
+                "en": "Finds no sign that civic tech lost its energy after working with government, despite fears of co-optation, but warns it is no panacea: the digital divide persists and deep political divisions have no technical fix.",
+                "ja": "政府との協力で取り込まれるという懸念はあっても、シビックテックの活力が失われた形跡はないとしつつ、万能薬ではなく、デジタル格差は残り、根深い政治的対立に技術的な解決策はないと注意を促しています。"
+              },
+              "quote": "civic tech or gov tech is no panacea",
+              "quoteLang": "en",
+              "sources": ["epd-taiwan"],
+              "quoteTranslation": {
+                "zh-TW": "公民科技或政府科技都不是萬靈丹",
+                "ja": "シビックテックもガブテックも万能薬ではない"
+              }
+            },
+            {
+              "kind": "scholar",
+              "date": "2023-05-19",
+              "speaker": {
+                "zh-TW": "李梅君",
+                "en": "李梅君",
+                "ja": "李梅君"
+              },
+              "role": {
+                "zh-TW": "中央研究院民族學研究所助研究員（研之有物專訪）",
+                "en": "Assistant research fellow, Institute of Ethnology, Academia Sinica (Research Digest interview)",
+                "ja": "中央研究院民族学研究所助研究員（「研之有物」のインタビュー）"
+              },
+              "summary": {
+                "zh-TW": "研究 Cofacts 發現，查核仰賴大量人力，闢謠常追不上謠言散播，無給志工也容易失去參與感。",
+                "en": "Studying Cofacts, found that checking depends on a lot of labor, debunking often lags behind the spread of rumors, and unpaid volunteers easily lose their sense of involvement.",
+                "ja": "Cofacts の研究から、検証には多くの人手が必要で、デマの打ち消しが拡散に追いつかないことが多く、無給のボランティアは参加意識を失いやすいとしています。"
+              },
+              "quote": "由於需仰賴大量人力進行事實查核，Cofacts 經常面臨闢謠速度趕不上謠言散播的問題",
+              "quoteLang": "zh",
+              "sources": ["sinica-crowdsourcing"],
+              "quoteTranslation": {
+                "en": "Because fact-checking relies on a great deal of human labor, Cofacts often faces the problem of debunking not keeping pace with the spread of rumors.",
+                "ja": "ファクトチェックに多くの人手が必要なため、Cofacts はデマの打ち消しが拡散の速さに追いつかないという問題にしばしば直面している。"
+              }
+            },
+            {
+              "kind": "civic",
+              "date": "2023-12",
+              "speaker": {
+                "zh-TW": "vTaiwan",
+                "en": "vTaiwan",
+                "ja": "vTaiwan"
+              },
+              "role": {
+                "zh-TW": "官方介紹頁（2023 年 12 月更新）",
+                "en": "Official introduction page (last updated December 2023)",
+                "ja": "公式紹介ページ（2023 年 12 月更新）"
+              },
+              "summary": {
+                "zh-TW": "自述有超過 28 個案子經過 vTaiwan 討論，其中八成促成政府採取某種決定性行動。",
+                "en": "Reports that more than 28 cases have gone through vTaiwan and that 80 percent led to some decisive government action.",
+                "ja": "28 件を超える案件が vTaiwan で議論され、その 8 割が政府の何らかの決定的な行動につながったとしています。"
+              },
+              "quote": "More than 28 cases have been discussed through the vTaiwan process, and 80% of them have led to some decisive government action.",
+              "quoteLang": "en",
+              "sources": ["vtaiwan"],
+              "quoteTranslation": {
+                "zh-TW": "超過 28 個案子經過 vTaiwan 流程討論，其中 80% 促成了政府某種決定性的行動。",
+                "ja": "28 件を超える案件が vTaiwan のプロセスで議論され、その 80% が政府の何らかの決定的な行動につながった。"
+              }
+            },
+            {
+              "kind": "civic",
+              "date": null,
+              "speaker": {
+                "zh-TW": "g0v 零時政府",
+                "en": "g0v",
+                "ja": "g0v"
+              },
+              "role": {
+                "zh-TW": "官網常見問題",
+                "en": "FAQ on its website",
+                "ja": "公式サイトのよくある質問"
+              },
+              "summary": {
+                "zh-TW": "說明 g0v 把政府提供的資訊做得好用，讓大眾更容易監督政府，也更容易依事實討論。",
+                "en": "Explains that g0v makes government information easy to use, so the public can monitor government more easily and discuss on the basis of facts.",
+                "ja": "g0v は政府が提供する情報を使いやすくし、市民が政府を監視しやすく、事実に基づいて議論しやすくしていると説明しています。"
+              },
+              "quote": "g0v 是用便於操作的方式顯示政府提供的資訊。透過資訊透明化，大眾更容易監督政府，也更容易基於事實來討論。",
+              "quoteLang": "zh",
+              "sources": ["g0v-faq"],
+              "quoteTranslation": {
+                "en": "g0v presents information provided by the government in an easy-to-use way. Through transparency, the public can monitor the government more easily and discuss things on the basis of facts.",
+                "ja": "g0v は政府が提供する情報を使いやすい形で示している。情報の透明化によって、市民は政府をより監視しやすくなり、事実に基づいて議論しやすくなる。"
+              }
+            }
+          ],
+          "related": ["g0v", "civic"]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "law-const130",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "中華民國憲法 第 130 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=130",
+      "date": null
+    },
+    {
+      "id": "law-ref7",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "公民投票法 第 7 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=7",
+      "date": null
+    },
+    {
+      "id": "law-civil12",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "民法 第 12 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=12",
+      "date": null
+    },
+    {
+      "id": "law-civilgen",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "民法總則施行法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000002",
+      "date": null
+    },
+    {
+      "id": "law-amend12",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "中華民國憲法增修條文 第 12 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000002&flno=12",
+      "date": null
+    },
+    {
+      "id": "cec-36469",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "史上首次! 「18歲公民權」修憲案今立法院交由中選會辦理公民複決",
+      "url": "https://web.cec.gov.tw/central/article/36469",
+      "date": "2022-09-29"
+    },
+    {
+      "id": "cec-45939",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "中選會發布憲法修正案公民複決第1案投票結果公告",
+      "url": "https://web.cec.gov.tw/central/article/45939",
+      "date": "2022-12-02"
+    },
+    {
+      "id": "law-youth",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "青年基本法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0180009",
+      "date": null
+    },
+    {
+      "id": "law-elect14",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "公職人員選舉罷免法 第 14 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=14",
+      "date": null
+    },
+    {
+      "id": "pts-807183",
+      "publisher": {
+        "zh-TW": "公視新聞網",
+        "en": "PTS News",
+        "ja": "公共電視ニュース"
+      },
+      "title": "立院初審通過下修18歲公民權 同步建請啟動修憲程序",
+      "url": "https://news.pts.org.tw/article/807183",
+      "date": "2026-05-07"
+    },
+    {
+      "id": "cna-202610010108",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "青年團體提11項優先法案 籲立院跨黨派加速審議",
+      "url": "https://www.cna.com.tw/news/aipl/202610010108.aspx",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "pts-612095",
+      "publisher": {
+        "zh-TW": "公視新聞網",
+        "en": "PTS News",
+        "ja": "公共電視ニュース"
+      },
+      "title": "18歲公民權未過關 民團呼籲立法院聲請釋憲",
+      "url": "https://news.pts.org.tw/article/612095",
+      "date": "2022-12-01"
+    },
+    {
+      "id": "pts-802506",
+      "publisher": {
+        "zh-TW": "公視新聞網",
+        "en": "PTS News",
+        "ja": "公共電視ニュース"
+      },
+      "title": "立院委員會明審《選罷法》 青年團體籲18歲公民權入法",
+      "url": "https://news.pts.org.tw/article/802506",
+      "date": "2026-04-07"
+    },
+    {
+      "id": "pts-802687",
+      "publisher": {
+        "zh-TW": "公視新聞網",
+        "en": "PTS News",
+        "ja": "公共電視ニュース"
+      },
+      "title": "18歲公民權獲朝野高度共識 內政部：原則上尊重",
+      "url": "https://news.pts.org.tw/article/802687",
+      "date": "2026-04-08"
+    },
+    {
+      "id": "udn-9480049",
+      "publisher": {
+        "zh-TW": "聯合新聞網",
+        "en": "United Daily News",
+        "ja": "聯合新聞網"
+      },
+      "title": "18歲公民權靠修法可行？游盈隆評：唯一做法是修憲",
+      "url": "https://udn.com/news/story/6656/9480049",
+      "date": "2026-05-04"
+    },
+    {
+      "id": "udn-9487762",
+      "publisher": {
+        "zh-TW": "聯合新聞網",
+        "en": "United Daily News",
+        "ja": "聯合新聞網"
+      },
+      "title": "立院初審投票年齡下修到18歲 內政委員會建請同步修憲",
+      "url": "https://udn.com/news/story/6656/9487762",
+      "date": "2026-05-07"
+    },
+    {
+      "id": "ly-chung-art12",
+      "publisher": {
+        "zh-TW": "立法院議事暨公報資訊網",
+        "en": "Legislative Yuan",
+        "ja": "立法院"
+      },
+      "title": "鍾佳濱等30人「中華民國憲法增修條文第十二條條文修正草案」關係文書",
+      "url": "https://ppg.ly.gov.tw/ppg/download/agenda1/02/pdf/11/05/23/LCEWA01_110523_00207.pdf",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "law-elect17",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "公職人員選舉罷免法 第 17 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=17",
+      "date": null
+    },
+    {
+      "id": "law-ref25",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "公民投票法 第 25 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=25",
+      "date": null
+    },
+    {
+      "id": "law-search-absentee",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "整合查詢「不在籍投票」結果",
+      "url": "https://law.moj.gov.tw/Law/LawSearchResult.aspx?ty=ONEBAR&kw=%E4%B8%8D%E5%9C%A8%E7%B1%8D%E6%8A%95%E7%A5%A8",
+      "date": null
+    },
+    {
+      "id": "ey-a72bd90c",
+      "publisher": {
+        "zh-TW": "行政院",
+        "en": "Executive Yuan",
+        "ja": "行政院"
+      },
+      "title": "政院通過中選會重新擬具「全國性公民投票不在籍投票法」草案 兼顧投票秘密性及投票結果公平性",
+      "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/a72bd90c-3272-4097-b086-e06e435bf0d1",
+      "date": "2024-02-22"
+    },
+    {
+      "id": "ppg-ey-absentee",
+      "publisher": {
+        "zh-TW": "立法院議事暨公報資訊網",
+        "en": "Legislative Yuan",
+        "ja": "立法院"
+      },
+      "title": "行政院「全國性公民投票不在籍投票法草案」議案進度",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/201110006760000/details",
+      "date": null
+    },
+    {
+      "id": "ppg-tpp-absentee",
+      "publisher": {
+        "zh-TW": "立法院議事暨公報資訊網",
+        "en": "Legislative Yuan",
+        "ja": "立法院"
+      },
+      "title": "台灣民眾黨黨團「不在籍投票法草案」議案進度",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110037670000/details",
+      "date": null
+    },
+    {
+      "id": "cna-20260126",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "不在籍投票立法公聽會 中選會憂8896種選票、學者對年底實施看法兩極",
+      "url": "https://www.cna.com.tw/news/aipl/202601260228.aspx",
+      "date": "2026-01-26"
+    },
+    {
+      "id": "ly-hearing-cec",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "立法院內政委員會「不在籍投票立法公聽會」中央選舉委員會書面資料",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2026012091/20260027203770112002.pdf",
+      "date": "2026-01-26"
+    },
+    {
+      "id": "udn-9112733",
+      "publisher": {
+        "zh-TW": "聯合新聞網",
+        "en": "United Daily News",
+        "ja": "聯合新聞網"
+      },
+      "title": "國民黨團：推不在籍投票排除大陸及海外 民進黨到底在怕什麼？",
+      "url": "https://udn.com/news/story/6656/9112733",
+      "date": "2025-11-02"
+    },
+    {
+      "id": "pts-783624",
+      "publisher": {
+        "zh-TW": "公視新聞網",
+        "en": "PTS News",
+        "ja": "公共電視ニュース"
+      },
+      "title": "藍白推 「不在籍投票」專法 綠憂助中國滲透",
+      "url": "https://news.pts.org.tw/article/783624",
+      "date": "2025-11-30"
+    },
+    {
+      "id": "cna-201906170290",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "公投脫鉤大選藍批為政黨私利 綠：絕無政治私心",
+      "url": "https://www.cna.com.tw/news/aipl/201906170290.aspx",
+      "date": "2019-06-17"
+    },
+    {
+      "id": "law-ref-history",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "公民投票法 沿革",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020050",
+      "date": null
+    },
+    {
+      "id": "cec-2021-qa",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "110年公投常見問答集",
+      "url": "https://2021.cec.gov.tw/qa.html",
+      "date": null
+    },
+    {
+      "id": "cec-2021-result",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "公告全國性公民投票案第17案至第20案投票結果（中選綜字第1103050670號）",
+      "url": "https://2021.cec.gov.tw/data/files/A0149/%E5%85%A8%E5%9C%8B%E6%80%A7%E5%85%AC%E6%B0%91%E6%8A%95%E7%A5%A8%E6%A1%88%E7%AC%AC17-20%E6%A1%88%E5%85%AC%E5%91%8A%E6%8A%95%E7%A5%A8%E7%B5%90%E6%9E%9C.pdf",
+      "date": "2021-12-23"
+    },
+    {
+      "id": "pts-782387",
+      "publisher": {
+        "zh-TW": "公視新聞網",
+        "en": "PTS News",
+        "ja": "公共電視ニュース"
+      },
+      "title": "《公投法》修正案三讀通過 「公投綁大選」回歸",
+      "url": "https://news.pts.org.tw/article/782387",
+      "date": "2025-11-21"
+    },
+    {
+      "id": "ppg-tpp-ref23",
+      "publisher": {
+        "zh-TW": "立法院議事暨公報資訊網",
+        "en": "Legislative Yuan",
+        "ja": "立法院"
+      },
+      "title": "台灣民眾黨黨團「公民投票法第二十三條條文修正草案」議案進度",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110157300000/details",
+      "date": null
+    },
+    {
+      "id": "law-ref23",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "公民投票法 第 23 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=23",
+      "date": null
+    },
+    {
+      "id": "cec-64775",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "全國性公民投票案第22案意見發表會或辯論會11月12日登場，請在10月15日前依法申請許可設立辦事處並完成報名",
+      "url": "https://web.cec.gov.tw/central/article/64775",
+      "date": "2026-09-18"
+    },
+    {
+      "id": "cna-case22",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "九合一大選併廢除非核家園公投 鞭刑、交通罰鍰2案遭否決",
+      "url": "https://www.cna.com.tw/news/aipl/202608285005.aspx",
+      "date": "2026-08-28"
+    },
+    {
+      "id": "cec-ebook2021-27",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "全國性公民投票案第17案至第20案公投公報：第19案理由書",
+      "url": "https://2021.cec.gov.tw/data/files/ebook/27/",
+      "date": "2021-11"
+    },
+    {
+      "id": "cec-ebook2021-33",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "全國性公民投票案第17案至第20案公投公報：第19案行政院意見書",
+      "url": "https://2021.cec.gov.tw/data/files/ebook/33/",
+      "date": "2021-11"
+    },
+    {
+      "id": "cna-202411030111",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "立委提案公投綁大選 中選會：選務高度複雜負荷過重",
+      "url": "https://www.cna.com.tw/news/aipl/202411030111.aspx",
+      "date": "2024-11-03"
+    },
+    {
+      "id": "ly-tpp-ref23",
+      "publisher": {
+        "zh-TW": "立法院議事暨公報資訊網",
+        "en": "Legislative Yuan",
+        "ja": "立法院"
+      },
+      "title": "台灣民眾黨黨團「公民投票法第二十三條條文修正草案」關係文書",
+      "url": "https://ppg.ly.gov.tw/ppg/download/agenda1/02/pdf/11/04/10/LCEWA01_110410_00189.pdf",
+      "date": "2025-11-21"
+    },
+    {
+      "id": "pts-782454",
+      "publisher": {
+        "zh-TW": "公視新聞網",
+        "en": "PTS News",
+        "ja": "公共電視ニュース"
+      },
+      "title": "恢復「公投綁大選」三讀通過 中選會：會依法辦理選務",
+      "url": "https://news.pts.org.tw/article/782454",
+      "date": "2025-11-21"
+    },
+    {
+      "id": "udn-9295286",
+      "publisher": {
+        "zh-TW": "聯合新聞網",
+        "en": "United Daily News",
+        "ja": "聯合新聞網"
+      },
+      "title": "立法院審查中選會人事 游盈隆支持公投綁大選",
+      "url": "https://udn.com/news/story/6656/9295286",
+      "date": "2026-01-28"
+    },
+    {
+      "id": "law-antiinfil",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "反滲透法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030317",
+      "date": null
+    },
+    {
+      "id": "law-antiinfil-hist",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "反滲透法 沿革",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0030317",
+      "date": null
+    },
+    {
+      "id": "cna-201912310227",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "反滲透法藍橘將聲請釋憲 綠：無違憲問題",
+      "url": "https://www.cna.com.tw/news/aipl/201912310227.aspx",
+      "date": "2019-12-31"
+    },
+    {
+      "id": "cna-201912310254",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "反滲透法三讀 國民黨：威權法律讓自由民主倒退",
+      "url": "https://www.cna.com.tw/news/aipl/201912310254.aspx",
+      "date": "2019-12-31"
+    },
+    {
+      "id": "udnop-4229226",
+      "publisher": {
+        "zh-TW": "聯合新聞網鳴人堂",
+        "en": "UDN Opinion",
+        "ja": "聯合新聞網 鳴人堂"
+      },
+      "title": "宋承恩／《反滲透法》是保護國安或選舉操作？從三個謬誤說起",
+      "url": "https://opinion.udn.com/opinion/story/12705/4229226",
+      "date": "2019-12-16"
+    },
+    {
+      "id": "pts-790210",
+      "publisher": {
+        "zh-TW": "公視新聞網",
+        "en": "PTS News",
+        "ja": "公共電視ニュース"
+      },
+      "title": "綠委擬修反滲透法增最低1年刑期 「擬參選人」納規範對象",
+      "url": "https://news.pts.org.tw/article/790210",
+      "date": "2026-01-12"
+    },
+    {
+      "id": "cna-202610130186",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "修反滲透法 卓榮泰：中國跨境鎮壓必須有罪責",
+      "url": "https://www.cna.com.tw/news/aipl/202610130186.aspx",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "law-elect-hist",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "公職人員選舉罷免法 沿革",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020010",
+      "date": null
+    },
+    {
+      "id": "law-elect-all",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "公職人員選舉罷免法（全文）",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010",
+      "date": null
+    },
+    {
+      "id": "law-deepfake-forensic",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "擬參選人候選人被罷免人或罷免案提議人之領銜人申請鑑識深度偽造聲音影像辦法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080221",
+      "date": null
+    },
+    {
+      "id": "pts-823279",
+      "publisher": {
+        "zh-TW": "公視新聞網",
+        "en": "PTS News",
+        "ja": "公共電視ニュース"
+      },
+      "title": "防深偽影音干擾年底大選 中選會設專案小組加速移除",
+      "url": "https://news.pts.org.tw/article/823279",
+      "date": "2026-08-20"
+    },
+    {
+      "id": "udn-9680945",
+      "publisher": {
+        "zh-TW": "聯合新聞網",
+        "en": "United Daily News",
+        "ja": "聯合新聞網"
+      },
+      "title": "朝野爭論 深偽選聞下架標準",
+      "url": "https://udn.com/news/story/6656/9680945",
+      "date": "2026-08-10"
+    },
+    {
+      "id": "udn-9543905",
+      "publisher": {
+        "zh-TW": "聯合新聞網",
+        "en": "United Daily News",
+        "ja": "聯合新聞網"
+      },
+      "title": "大選成立「假訊息」處理中心 代理檢察總長：警調充實深偽鑑識量能",
+      "url": "https://udn.com/news/story/7321/9543905",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "ey-22b4",
+      "publisher": {
+        "zh-TW": "行政院",
+        "en": "Executive Yuan",
+        "ja": "行政院"
+      },
+      "title": "貫徹掃除黑金、防杜境外勢力介入選舉與罷免 政院通過「公職人員選舉罷免法」部分條文修正草案",
+      "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/22b4d96d-9b31-497e-a0de-c24acdab3af8",
+      "date": "2022-12-15"
+    },
+    {
+      "id": "twr-2026-ai",
+      "publisher": {
+        "zh-TW": "報導者",
+        "en": "The Reporter",
+        "ja": "報導者"
+      },
+      "title": "生成式AI如何影響選舉？國外案例借鏡與公民因應之道",
+      "url": "https://www.twreporter.org/a/2026-local-elections-ai-generated-contents-negatively-affect-elections",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "nsb-2025",
+      "publisher": {
+        "zh-TW": "國家安全局",
+        "en": "National Security Bureau",
+        "ja": "国家安全局"
+      },
+      "title": "2025年中共對臺認知作戰操作手法分析",
+      "url": "https://www.nsb.gov.tw/zh/assets/documents/%E6%96%B0%E8%81%9E%E7%A8%BF/023b202c-8bc9-4b19-a8eb-c0d0b5809f99.pdf",
+      "date": null
+    },
+    {
+      "id": "tahr-2593",
+      "publisher": {
+        "zh-TW": "台灣人權促進會",
+        "en": "Taiwan Association for Human Rights",
+        "ja": "台湾人権促進会"
+      },
+      "title": "【聲明】管制不實訊息，應兼顧言論自由",
+      "url": "https://www.tahr.org.tw/news/2593",
+      "date": "2020-01-13"
+    },
+    {
+      "id": "cna-202605020189",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "2026地方大選在即 台灣安保協會揭露中國介選新樣態",
+      "url": "https://www.cna.com.tw/news/aipl/202605020189.aspx",
+      "date": "2026-05-02"
+    },
+    {
+      "id": "udn-9560411",
+      "publisher": {
+        "zh-TW": "聯合新聞網",
+        "en": "United Daily News",
+        "ja": "聯合新聞網"
+      },
+      "title": "兩岸海峽論壇被貼統戰標籤 張雅屏：民進黨正進行高明認知作戰",
+      "url": "https://udn.com/news/story/6656/9560411",
+      "date": "2026-06-11"
+    },
+    {
+      "id": "cna-202610200065",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "邱垂正：中共介選已赤裸裸進行 籲全民共同反介選",
+      "url": "https://www.cna.com.tw/news/aipl/202610200065.aspx",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "tfc-qa",
+      "publisher": {
+        "zh-TW": "台灣事實查核中心",
+        "en": "Taiwan FactCheck Center",
+        "ja": "台湾ファクトチェックセンター"
+      },
+      "title": "Q&A - 台灣事實查核中心",
+      "url": "https://tfc-taiwan.org.tw/qa/",
+      "date": null
+    },
+    {
+      "id": "tfc-milestones",
+      "publisher": {
+        "zh-TW": "台灣事實查核中心",
+        "en": "Taiwan FactCheck Center",
+        "ja": "台湾ファクトチェックセンター"
+      },
+      "title": "大事紀 - 台灣事實查核中心",
+      "url": "https://tfc-taiwan.org.tw/fact-checking-milestones/",
+      "date": null
+    },
+    {
+      "id": "tfc-ifcn",
+      "publisher": {
+        "zh-TW": "台灣事實查核中心",
+        "en": "Taiwan FactCheck Center",
+        "ja": "台湾ファクトチェックセンター"
+      },
+      "title": "IFCN認證與申訴 - 台灣事實查核中心",
+      "url": "https://tfc-taiwan.org.tw/ifcn-certification-and-appeals/",
+      "date": null
+    },
+    {
+      "id": "tfc-donation2025",
+      "publisher": {
+        "zh-TW": "台灣事實查核中心",
+        "en": "Taiwan FactCheck Center",
+        "ja": "台湾ファクトチェックセンター"
+      },
+      "title": "財務與捐款報告 - 台灣事實查核中心",
+      "url": "https://tfc-taiwan.org.tw/donation-reports-2025/",
+      "date": null
+    },
+    {
+      "id": "cofacts-po",
+      "publisher": {
+        "zh-TW": "Cofacts（GitHub 原始碼）",
+        "en": "Cofacts (GitHub source)",
+        "ja": "Cofacts（GitHub ソースコード）"
+      },
+      "title": "Cofacts 關於頁文字（rumors-site i18n/zh_TW.po）",
+      "url": "https://raw.githubusercontent.com/cofacts/rumors-site/master/i18n/zh_TW.po",
+      "date": null
+    },
+    {
+      "id": "mygopen-about",
+      "publisher": {
+        "zh-TW": "MyGoPen",
+        "en": "MyGoPen",
+        "ja": "MyGoPen"
+      },
+      "title": "關於我們 | MyGoPen",
+      "url": "https://www.mygopen.com/p/blog-page_19.html",
+      "date": null
+    },
+    {
+      "id": "mygopen-funding",
+      "publisher": {
+        "zh-TW": "MyGoPen",
+        "en": "MyGoPen",
+        "ja": "MyGoPen"
+      },
+      "title": "贊助準則 | MyGoPen",
+      "url": "https://www.mygopen.com/p/blog-page_26.html",
+      "date": null
+    },
+    {
+      "id": "cec-41023",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "很多網路造謠正在介入選舉，請民眾善用查證工具，一起抵制錯假訊息！",
+      "url": "https://www.cec.gov.tw/central/article/41023",
+      "date": "2023-12-28"
+    },
+    {
+      "id": "meta-2025",
+      "publisher": {
+        "zh-TW": "Meta",
+        "en": "Meta",
+        "ja": "Meta"
+      },
+      "title": "More Speech and Fewer Mistakes",
+      "url": "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/",
+      "date": "2025-01-07"
+    },
+    {
+      "id": "newtalk-698563",
+      "publisher": {
+        "zh-TW": "新頭殼",
+        "en": "Newtalk",
+        "ja": "新頭殻"
+      },
+      "title": "國民黨控｢挑選案例偏頗｣查核中心：與事實不符 勿踐踏公民社會努力",
+      "url": "https://newtalk.tw/news/view/2022-01-19/698563",
+      "date": "2022-01-19"
+    },
+    {
+      "id": "newtalk-700184",
+      "publisher": {
+        "zh-TW": "新頭殼",
+        "en": "Newtalk",
+        "ja": "新頭殻"
+      },
+      "title": "莊豐嘉請辭 王婉諭：譴責藍綠拿預算審查當人質、把公共媒體當禁臠",
+      "url": "https://newtalk.tw/news/view/2022-01-22/700184",
+      "date": "2022-01-22"
+    },
+    {
+      "id": "tfc-104845",
+      "publisher": {
+        "zh-TW": "台灣事實查核中心",
+        "en": "Taiwan FactCheck Center",
+        "ja": "台湾ファクトチェックセンター"
+      },
+      "title": "【2023假訊息年度大調查】又是選舉年！當政治查核效力有限，應優先與「中間選民」重點對話",
+      "url": "https://tfc-taiwan.org.tw/?p=104845",
+      "date": "2023-05-19"
+    },
+    {
+      "id": "tfc-125286",
+      "publisher": {
+        "zh-TW": "台灣事實查核中心",
+        "en": "Taiwan FactCheck Center",
+        "ja": "台湾ファクトチェックセンター"
+      },
+      "title": "台灣事實查核中心如何與Meta合作？常見問題一次答",
+      "url": "https://tfc-taiwan.org.tw/?p=125286",
+      "date": "2025-01-20"
+    },
+    {
+      "id": "nccu-thesis",
+      "publisher": {
+        "zh-TW": "政治大學博碩士論文系統",
+        "en": "National Chengchi University thesis repository",
+        "ja": "国立政治大学 学位論文システム"
+      },
+      "title": "如何決定真相：事實查核與國家的距離",
+      "url": "https://thesis.lib.nccu.edu.tw/detail/b75ca4fd54def9d1b9f6b89fc0b4309d/",
+      "date": "2026"
+    },
+    {
+      "id": "tfc-105107",
+      "publisher": {
+        "zh-TW": "台灣事實查核中心",
+        "en": "Taiwan FactCheck Center",
+        "ja": "台湾ファクトチェックセンター"
+      },
+      "title": "【謠言風向球】提防作票陰謀論 掌握4種作票謠言樣態",
+      "url": "https://tfc-taiwan.org.tw/?p=105107",
+      "date": "2023-12-01"
+    },
+    {
+      "id": "cec-41329",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "民主選務依法辦理，開票作業除有不同黨派之監察人員外，公眾亦在場監督，不可能有違法作票情事",
+      "url": "https://www.cec.gov.tw/central/article/41329",
+      "date": "2024-01-15"
+    },
+    {
+      "id": "cec-63642",
+      "publisher": {
+        "zh-TW": "中央選舉委員會",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      },
+      "title": "115年地方公職人員選舉估選舉人1,965萬人　全台設置1萬8,244處投票所",
+      "url": "https://www.cec.gov.tw/central/article/63642",
+      "date": "2026-08-20"
+    },
+    {
+      "id": "cna-202303090199",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "鄭運鵬爆選舉監票文件 林家興譴責造假抹黑",
+      "url": "https://www.cna.com.tw/news/aipl/202303090199.aspx",
+      "date": "2023-03-09"
+    },
+    {
+      "id": "dpp-4860",
+      "publisher": {
+        "zh-TW": "民主進步黨",
+        "en": "Democratic Progressive Party",
+        "ja": "民主進歩党"
+      },
+      "title": "對媒體詢問民眾質疑大選選監業務出現異常的回應",
+      "url": "https://www.dpp.org.tw/media/contents/4860",
+      "date": "2012-01-31"
+    },
+    {
+      "id": "ltn-1524793",
+      "publisher": {
+        "zh-TW": "自由時報",
+        "en": "Liberty Times",
+        "ja": "自由時報"
+      },
+      "title": "「自己的選票自己顧」全民監票聯盟今成立",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/1524793",
+      "date": "2015-11-30"
+    },
+    {
+      "id": "cna-202210060150",
+      "publisher": {
+        "zh-TW": "中央社",
+        "en": "Central News Agency",
+        "ja": "中央通訊社"
+      },
+      "title": "國民黨將招募萬名志工 11/26投票日協助監票",
+      "url": "https://www.cna.com.tw/news/aipl/202210060150.aspx",
+      "date": "2022-10-06"
+    },
+    {
+      "id": "tfc-107430",
+      "publisher": {
+        "zh-TW": "台灣事實查核中心",
+        "en": "Taiwan FactCheck Center",
+        "ja": "台湾ファクトチェックセンター"
+      },
+      "title": "【錯誤】傳言稱「中選會惡名昭彰，近兩次總統大選皆傳開票計票違法，而且電視台最終票數遭竄改」？",
+      "url": "https://tfc-taiwan.org.tw/?p=107430",
+      "date": "2022-10-07"
+    },
+    {
+      "id": "tfc-105318",
+      "publisher": {
+        "zh-TW": "台灣事實查核中心",
+        "en": "Taiwan FactCheck Center",
+        "ja": "台湾ファクトチェックセンター"
+      },
+      "title": "【2024/1/15-2024/1/21】闢謠TOP10",
+      "url": "https://tfc-taiwan.org.tw/?p=105318",
+      "date": "2024-01-22"
+    },
+    {
+      "id": "g0v-home",
+      "publisher": {
+        "zh-TW": "g0v 零時政府",
+        "en": "g0v",
+        "ja": "g0v"
+      },
+      "title": "g0v 台灣零時政府",
+      "url": "https://g0v.tw/intl/zh-TW/",
+      "date": null
+    },
+    {
+      "id": "g0v-manifesto",
+      "publisher": {
+        "zh-TW": "g0v 零時政府",
+        "en": "g0v",
+        "ja": "g0v"
+      },
+      "title": "零時政府宣言",
+      "url": "https://g0v.tw/intl/zh-TW/manifesto/",
+      "date": null
+    },
+    {
+      "id": "g0v-faq",
+      "publisher": {
+        "zh-TW": "g0v 零時政府",
+        "en": "g0v",
+        "ja": "g0v"
+      },
+      "title": "g0v 常見問題",
+      "url": "https://g0v.tw/intl/zh-TW/faq/",
+      "date": null
+    },
+    {
+      "id": "inside-3656",
+      "publisher": {
+        "zh-TW": "INSIDE",
+        "en": "INSIDE",
+        "ja": "INSIDE"
+      },
+      "title": "g0v 號召全民用「鍵盤」監督政治獻金",
+      "url": "https://www.inside.com.tw/article/3656-g0v-build-political-contributions-database",
+      "date": "2014-04-21"
+    },
+    {
+      "id": "law-poldonation",
+      "publisher": {
+        "zh-TW": "全國法規資料庫",
+        "en": "Laws & Regulations Database (Ministry of Justice)",
+        "ja": "全国法規資料庫（法務部）"
+      },
+      "title": "政治獻金法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049",
+      "date": null
+    },
+    {
+      "id": "vtaiwan",
+      "publisher": {
+        "zh-TW": "vTaiwan",
+        "en": "vTaiwan",
+        "ja": "vTaiwan"
+      },
+      "title": "vTaiwan: rethinking democracy",
+      "url": "https://info.vtaiwan.tw/",
+      "date": null
+    },
+    {
+      "id": "inside-7980",
+      "publisher": {
+        "zh-TW": "INSIDE",
+        "en": "INSIDE",
+        "ja": "INSIDE"
+      },
+      "title": "300 萬獎助金！g0v 零時政府徵求公民科技創新專案",
+      "url": "https://www.inside.com.tw/article/7980-g0v-3-million-project",
+      "date": "2016-12-20"
+    },
+    {
+      "id": "epd-taiwan",
+      "publisher": {
+        "zh-TW": "European Democracy Hub",
+        "en": "European Democracy Hub",
+        "ja": "European Democracy Hub"
+      },
+      "title": "Exploring Worldwide Democratic Innovations: A case study of Taiwan",
+      "url": "https://epd.eu/content/uploads/2023/07/Case-Study-Taiwan.pdf",
+      "date": "2022"
+    },
+    {
+      "id": "sinica-crowdsourcing",
+      "publisher": {
+        "zh-TW": "中央研究院研之有物",
+        "en": "Academia Sinica Research Digest",
+        "ja": "中央研究院「研之有物」"
+      },
+      "title": "世代共同打擊假訊息！用對方法，長輩也能加入闢謠打怪行列",
+      "url": "https://research.sinica.edu.tw/crowdsourcing/",
+      "date": "2023-05-19"
+    }
+  ],
+  "articles": {
+    "election2026": {
+      "href": {
+        "zh-TW": "/politics/2026%20%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89",
+        "en": "/en/politics/2026-local-elections-taiwan",
+        "ja": "/ja/politics/2026-local-elections-taiwan"
+      },
+      "title": {
+        "zh-TW": "2026 九合一選舉",
+        "en": "2026 Local Elections in Taiwan",
+        "ja": "2026 統一地方選挙"
+      }
+    },
+    "votingAge": {
+      "href": {
+        "zh-TW": "/politics/%E6%8A%95%E7%A5%A8%E6%AC%8A%E9%96%80%E6%AA%BB%E6%AD%B7%E5%8F%B2",
+        "en": "/en/politics/voting-rights-threshold-history",
+        "ja": "/ja/politics/voting-rights-threshold-history"
+      },
+      "title": {
+        "zh-TW": "投票權門檻歷史",
+        "en": "History of the Voting Age",
+        "ja": "投票年齢の歴史"
+      }
+    },
+    "absentee": {
+      "href": {
+        "zh-TW": "/politics/%E5%8F%B0%E7%81%A3%E4%B8%8D%E5%9C%A8%E7%B1%8D%E6%8A%95%E7%A5%A8",
+        "en": "/en/politics/absentee-voting-taiwan",
+        "ja": "/ja/politics/absentee-voting-taiwan"
+      },
+      "title": {
+        "zh-TW": "台灣不在籍投票",
+        "en": "Absentee Voting in Taiwan",
+        "ja": "台湾の不在者投票"
+      }
+    },
+    "cec": {
+      "href": {
+        "zh-TW": "/politics/%E4%B8%AD%E9%81%B8%E6%9C%83%E5%88%B6%E5%BA%A6",
+        "en": "/en/politics/central-election-commission",
+        "ja": "/ja/politics/central-election-commission"
+      },
+      "title": {
+        "zh-TW": "中選會制度",
+        "en": "Central Election Commission",
+        "ja": "中央選挙委員会"
+      }
+    },
+    "process": {
+      "href": {
+        "zh-TW": "/politics/%E9%81%B8%E8%88%89%E9%81%8E%E7%A8%8B",
+        "en": "/en/politics/taiwan-election-process",
+        "ja": "/ja/politics/taiwan-election-process"
+      },
+      "title": {
+        "zh-TW": "選舉過程",
+        "en": "How an Election Works",
+        "ja": "選挙の流れ"
+      }
+    },
+    "recall": {
+      "href": {
+        "zh-TW": "/history/%E5%A4%A7%E7%BD%B7%E5%85%8D",
+        "en": "/en/history/great-recall-movement-2024",
+        "ja": "/ja/history/great-recall-movement-2024"
+      },
+      "title": {
+        "zh-TW": "大罷免",
+        "en": "Great Recall",
+        "ja": "大リコール"
+      }
+    },
+    "transition": {
+      "href": {
+        "zh-TW": "/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B",
+        "en": "/en/history/taiwan-democratization",
+        "ja": "/ja/history/taiwan-democratization"
+      },
+      "title": {
+        "zh-TW": "台灣民主轉型",
+        "en": "Taiwan's Democratic Transition",
+        "ja": "台湾の民主化移行"
+      }
+    },
+    "democratization": {
+      "href": {
+        "zh-TW": "/history/%E6%B0%91%E4%B8%BB%E5%8C%96",
+        "en": "/en/history/taiwan-democratization-history",
+        "ja": "/ja/history/taiwan-democratization-history"
+      },
+      "title": {
+        "zh-TW": "民主化",
+        "en": "Democratization",
+        "ja": "民主化"
+      }
+    },
+    "parties": {
+      "href": {
+        "zh-TW": "/history/%E5%8F%B0%E7%81%A3%E9%81%B8%E8%88%89%E8%88%87%E6%94%BF%E9%BB%A8%E6%94%BF%E6%B2%BB",
+        "en": "/en/history/taiwan-elections-and-party-politics",
+        "ja": "/ja/history/taiwan-elections-and-party-politics"
+      },
+      "title": {
+        "zh-TW": "台灣選舉與政黨政治",
+        "en": "Taiwan Elections and Party Politics",
+        "ja": "台湾の選挙と政党政治"
+      }
+    },
+    "cogwar": {
+      "href": {
+        "zh-TW": "/society/%E8%AA%8D%E7%9F%A5%E4%BD%9C%E6%88%B0",
+        "en": "/en/society/cognitive-warfare-against-taiwan",
+        "ja": "/ja/society/cognitive-warfare-against-taiwan"
+      },
+      "title": {
+        "zh-TW": "認知作戰",
+        "en": "Cognitive Warfare",
+        "ja": "認知戦"
+      }
+    },
+    "media": {
+      "href": {
+        "zh-TW": "/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1",
+        "en": "/en/society/media-and-press-freedom-in-taiwan",
+        "ja": "/ja/society/media-and-press-freedom-in-taiwan"
+      },
+      "title": {
+        "zh-TW": "台灣媒體與新聞自由",
+        "en": "Media and Press Freedom in Taiwan",
+        "ja": "台湾のメディアと報道の自由"
+      }
+    },
+    "nuclear": {
+      "href": {
+        "zh-TW": "/society/%E5%8F%B0%E7%81%A3%E8%88%87%E6%A0%B8%E8%83%BD%E7%9A%84%E8%A8%8E%E8%AB%96",
+        "en": "/en/society/taiwan-nuclear-debate",
+        "ja": "/ja/society/taiwan-nuclear-debate"
+      },
+      "title": {
+        "zh-TW": "台灣與核能的討論",
+        "en": "Taiwan's Nuclear Debate",
+        "ja": "台湾の原子力をめぐる議論"
+      }
+    },
+    "g0v": {
+      "href": {
+        "zh-TW": "/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v",
+        "en": "/en/technology/open-source-and-g0v",
+        "ja": "/ja/technology/open-source-and-g0v"
+      },
+      "title": {
+        "zh-TW": "開源社群與 g0v",
+        "en": "Open Source Communities and g0v",
+        "ja": "オープンソースコミュニティと g0v"
+      }
+    },
+    "bulletin": {
+      "href": {
+        "zh-TW": "/politics/%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1",
+        "en": "/en/politics/election-bulletin-system",
+        "ja": "/ja/politics/election-bulletin-system"
+      },
+      "title": {
+        "zh-TW": "選舉公報",
+        "en": "Election Bulletins",
+        "ja": "選挙公報"
+      }
+    },
+    "civic": {
+      "href": {
+        "zh-TW": "/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87",
+        "en": "/en/society/social-movements-and-civic-participation",
+        "ja": "/ja/society/social-movements-and-civic-participation"
+      },
+      "title": {
+        "zh-TW": "社會運動與公民參與",
+        "en": "Social Movements and Civic Participation",
+        "ja": "社会運動と市民参加"
+      }
+    }
+  }
+}
