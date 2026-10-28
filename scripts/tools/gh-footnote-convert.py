@@ -35,12 +35,18 @@ from pathlib import Path
 # 後兩種的雜訊會讓舊版 `\(#user-content-fn-…\)` 整條認不出來，於是檔案「看起來」
 # 沒有殘留，實際上點下去還是死的。雜訊一律隨連結一起丟掉。
 # 注意：`#user-content-fn-` 不會誤吃 `#user-content-fnref-`（後者 fn 後面不是 `-`）。
-REF_RE = re.compile(r"\[(?:\^)?\d+\]\([^)]*#user-content-fn-([0-9A-Za-z_-]+)[^)]*\)")
+# 錨點前綴另有壞掉的一種：`#user-int-fnref-2`（`content` 掉字，見 ko/Society/betel-nut
+# 的實例）。只認 `content` 的話那顆回跳箭頭會留在原地變成死連結，而且定義編號會
+# 被下一個回跳箭頭帶走（`fnref-2-2` → `[^2-2]`）。
+_USER_PREFIX = r"#user-(?:content|int)-fn"
+REF_RE = re.compile(
+    rf"\[(?:\^)?\d+\]\([^)]*{_USER_PREFIX}-([0-9A-Za-z_-]+)[^)]*\)"
+)
 BACKREF_RE = re.compile(
-    r"\s*\[↩(?:\d+)?\]\([^)]*#user-content-fnref-[0-9A-Za-z_-]+[^)]*\)"
+    rf"\s*\[↩(?:\d+)?\]\([^)]*{_USER_PREFIX}ref-[0-9A-Za-z_-]+[^)]*\)"
 )
 DEF_RE = re.compile(
-    r"^\s*\d+\.\s+(?P<text>.*?)\s*(?P<backrefs>\[↩(?:\d+)?\]\([^)]*#user-content-fnref-(?P<id>[0-9A-Za-z_-]+)[^)]*\).*)$"
+    rf"^\s*\d+\.\s+(?P<text>.*?)\s*(?P<backrefs>\[↩(?:\d+)?\]\([^)]*{_USER_PREFIX}ref-(?P<id>[0-9A-Za-z_-]+)[^)]*\).*)$"
 )
 # 來源敘述慣用排法：作者 ，〈標題〉，《媒體》，日期。[URL](URL)
 SOURCE_RE = re.compile(
@@ -82,7 +88,24 @@ def build_definition(fid: str, text: str) -> str:
     return f"[^{fid}]: {text}"
 
 
+def _pick_id(raw: str, body_ids: set[str]) -> str:
+    """回跳箭頭的 id 對回正文實際引用的腳註編號。
+
+    GitHub 的多重回跳箭頭長成 `fnref-2`、`fnref-2-2`、`fnref-2-3`（後綴是第幾顆
+    回跳，不是腳註編號）。若第一個回跳箭頭壞掉、只剩 `fnref-2-2`，直接拿它當 id
+    會生出 `[^2-2]`，而正文引用是 `[^2]`——一條誰也對不上的腳註。以正文用到的
+    id 為準：先看原樣，再剝掉一層 `-<數字>` 後綴。
+    """
+    if raw in body_ids:
+        return raw
+    stripped = re.sub(r"-\d+$", "", raw)
+    if stripped and stripped in body_ids:
+        return stripped
+    return raw
+
+
 def convert(source: str) -> tuple[str, int, int]:
+    body_ids = set(REF_RE.findall(source))
     refs_converted = 0
     defs_converted = 0
 
@@ -99,7 +122,7 @@ def convert(source: str) -> tuple[str, int, int]:
         if match:
             defs_converted += 1
             text = BACKREF_RE.sub("", match.group("text")).strip()
-            out_lines.append(build_definition(match.group("id"), text))
+            out_lines.append(build_definition(_pick_id(match.group("id"), body_ids), text))
         else:
             out_lines.append(BACKREF_RE.sub("", line))
 
@@ -115,7 +138,7 @@ def main() -> int:
     total_refs = total_defs = touched = 0
     for path in args.files:
         original = path.read_text(encoding="utf-8")
-        if "user-content-fn" not in original:
+        if not re.search(r"#user-(?:content|int)-fn", original):
             continue
         converted, refs, defs = convert(original)
         if converted == original:

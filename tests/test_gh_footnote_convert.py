@@ -83,6 +83,34 @@ def test_backref_is_not_read_as_ref():
     assert "#user-content" not in out
 
 
+def test_definition_id_follows_body_refs_not_backref_suffix():
+    """第一個回跳箭頭壞掉時，定義編號要跟著正文的 `[^2]`，不是 `fnref-2-2`。"""
+    src = (
+        "正文引用兩次[2](#user-content-fn-2)。\n\n"
+        "1. 來源敘述 [↩](#user-int-fnref-2) [↩2](#user-content-fnref-2-2)\n"
+    )
+    out = _convert(src)
+    assert "[^2]" in out
+    assert "[^2-2]" not in out
+    assert out.count("[^2]:") == 1
+    assert "#user-" not in out
+
+
+def test_definition_id_strips_occurrence_suffix():
+    """只剩 `fnref-2-2` 可用時，也要回推成 `[^2]`。"""
+    src = "正文[2](#user-content-fn-2)。\n\n1. 來源敘述 [↩2](#user-content-fnref-2-2)\n"
+    out = _convert(src)
+    assert "[^2]: " in out
+    assert "[^2-2]" not in out
+
+
+def test_definition_id_not_stripped_without_body_evidence():
+    """正文沒有可對照的 id 時，原樣保留——不憑後綴長相亂削。"""
+    src = "正文[1-2](#user-content-fn-1-2)。\n\n1. 來源敘述 [↩](#user-content-fnref-1-2)\n"
+    out = _convert(src)
+    assert "[^1-2]" in out
+
+
 def test_check_flags_all_variants():
     variants = [
         "[1](#user-content-fn-1)",
@@ -90,6 +118,7 @@ def test_check_flags_all_variants():
         "[3]( de #user-content-fn-3)",
         "[4](\u200a#user-content-fn-4)",
         "[↩](#user-content-fnref-5)",
+        "[↩](#user-int-fnref-6)",
     ]
     for v in variants:
         assert CHECK._REF.search(v) or CHECK._BACKREF.search(v), v

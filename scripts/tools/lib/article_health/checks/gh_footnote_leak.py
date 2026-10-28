@@ -40,16 +40,17 @@ APPLIES_TO = ["*"]
 # `[^1](#user-content-fn-9)`（label 改了、destination 沒換）與 destination 前後
 # 夾了空白／隱形字元的 `[1]( #user-content-fn-9)`。舊版只認第一種，後兩者在檔案
 # 裡「看不見」：check 綠燈、Astro 站上點下去不會動。
-_REF = re.compile(r"\[\^?\d+\]\([^)]*#user-content-fn-[0-9A-Za-z_-]+[^)]*\)")
+# 錨點前綴另有壞掉的一種 `#user-int-fnref-2`（`content` 掉字，實際出現在
+# ko/Society/betel-nut），一起認。
+_USER_PREFIX = r"#user-(?:content|int)-fn"
+_REF = re.compile(rf"\[\^?\d+\]\([^)]*{_USER_PREFIX}-[0-9A-Za-z_-]+[^)]*\)")
 # 文末定義行尾巴的回跳箭頭：[↩](#user-content-fnref-9) / [↩2](#user-content-fnref-9-2)
-_BACKREF = re.compile(
-    r"\[↩(?:\d+)?\]\([^)]*#user-content-fnref-[0-9A-Za-z_-]+[^)]*\)"
-)
+_BACKREF = re.compile(rf"\[↩(?:\d+)?\]\([^)]*{_USER_PREFIX}ref-[0-9A-Za-z_-]+[^)]*\)")
 
 
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     text = target.text
-    if not text or "user-content-fn" not in text:
+    if not text or not re.search(r"#user-(?:content|int)-fn", text):
         return
 
     ref_lines: list[int] = []
