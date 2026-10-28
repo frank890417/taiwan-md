@@ -170,7 +170,7 @@ _وان وان (هو جيا وي). — Photo: chungkeng ryu / Wikimedia Commons,
 
 - [معرض تايبيه الدولي للكتاب 2008 (كشك يونايتد ديلي نيوز)](https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg) — Rico Shen، CC BY-SA 3.0
 - [جوائز المدونات الصينية العالمية 2007](https://commons.wikimedia.org/wiki/File:2007GlobalChineseBlogAward_CWWany.jpg) — Rico Shen، CC BY-SA 3.0
-- [صورة وان وان (هو جيا وي)](<https://commons.wikimedia.org/wiki/File:%E5%BD%8E%E5%BD%8E_(cropped) — chungkeng ryu،CC BY-SA 2.0
+- [صورة وان وان (هو جيا وي)](<https://commons.wikimedia.org/wiki/File:%E5%BD%8E%E5%BD%8E_(cropped).jpg>) — chungkeng ryu،CC BY-SA 2.0
 
 **أعمال وان وان (Fair use، استخدام تعليقي):** ما يلي اقتباسات تعليقية تحريرية لأعمال وان وان الإبداعية؛ حقوق صور الرموز، أغلفة الكتب، ملصقات لاين تعود لوان وان (هو جيا وي).
 

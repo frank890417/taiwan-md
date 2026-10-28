@@ -117,7 +117,7 @@ La gastronomía de Tainan no es una simple reunión de platos ricos. Es el siste
 ## Referencias
 
 - [¡Una "tradición inventada"! ¿Cuándo se convirtió la sopa de ternera en uno de los platos representativos de Tainan?](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=105780)
-- [Wujiaogang (Tainan) — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%A2%9D%E6%B8%AF_(%E8%87%BA%E5%8D%97)
+- [Wujiaogang (Tainan) — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%A2%9D%E6%B8%AF_(%E8%87%BA%E5%8D%97)>)
 - [La historia caminante de Tainan: el pez luna enriqueció los estanques y también las mañanas y estómagos de la gente de la ciudad — Key News](https://www.thenewslens.com/article/131368)
 - [El caldo de pez luna y el pez luna de Tainan podrían originarse de productos europeos del siglo XVII — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
 - [Origen y secretos de la sopa de ternera de Tainan](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)

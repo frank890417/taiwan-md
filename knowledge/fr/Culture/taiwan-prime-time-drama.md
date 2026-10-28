@@ -98,4 +98,4 @@ Placer les séries télévisées taïwanaises en prime time sur la scène intern
 
 [^13]: [À propos du placement de produit dans les feuilletons de 20h : le placement est une source de revenu…](https://www.threads.com/@win_711_8899/post/DDdrtq-yZH_) — Publication Threads sur le placement de produit dans les feuilletons de 20h comme source de revenus
 
-[^14]: [Yi Nan Wang (Série de 2004) - Le souvenir d'un premier amour inoubliable au Vietnam](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87) — Entrée de Wikipédia sur Yi Nan Wang, série de 2004 et souvenir d'un premier amour à Hanoï
+[^14]: [Yi Nan Wang (Série de 2004) - Le souvenir d'un premier amour inoubliable au Vietnam](<https://zh.wikipedia.org/zh-hant/%E6%84%8F%E9%9B%A3%E5%BF%98_(2004%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Entrée de Wikipédia sur Yi Nan Wang, série de 2004 et souvenir d'un premier amour à Hanoï

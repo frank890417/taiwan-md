@@ -130,7 +130,7 @@ Wisteria di Wistaria mekar setiap musim semi. Chou Yu sudah delapan puluhan, tet
 - [Dongfang meiren (Oriental Beauty) — Wikipedia](https://en.wikipedia.org/wiki/Dongfang_meiren) (proses dan entomologi Teh Oriental Beauty)
 - [Wistaria — Wikipedia](https://zh.wikipedia.org/wiki/%E7%B4%AB%E8%97%A4%E5%BB%AC) (sejarah rumah teh, Chou Te-wei, gerakan demokrasi)
 - [Wistaria Tea House — Wikipedia](https://en.wikipedia.org/wiki/Wistaria_Tea_House) (bahasa Inggris, penetapan cagar budaya dan makna budaya)
-- [John Dodd (tea merchant) — Wikipedia](<https://en.wikipedia.org/wiki/John_Dodd_(tea_merchant) (sejarah ekspor Formosa Oolong)
+- [John Dodd (tea merchant) — Wikipedia](<https://en.wikipedia.org/wiki/John_Dodd_(tea_merchant)>) (sejarah ekspor Formosa Oolong)
 - [Bubble tea — Wikipedia](https://en.wikipedia.org/wiki/Bubble_tea) (asal-usul teh manis mutiara dan ekspansi global)
 - [Stasiun Penelitian dan Promosi Teh (TRES)](https://www.tres.gov.tw/) (sumber primer, lembaga riset teh resmi Taiwan)
 

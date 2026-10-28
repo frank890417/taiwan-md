@@ -96,7 +96,7 @@ translatedAt: '2026-07-26T21:33:30+08:00'
 
 «Прыгающая антилопа» — это метафора её скорости 1960-х. Но, возможно, более точная метафора — марафонец: она стартовала в 1944 году и до сих пор не останавливалась.
 
-**Дополнительное чтение**: [Чи Цзин — Википедия](https://zh.wikipedia.org/wiki/紀政) ｜ [Chi Cheng (athlete) — Wikipedia EN](<https://en.wikipedia.org/wiki/Chi_Cheng_(athlete)
+**Дополнительное чтение**: [Чи Цзин — Википедия](https://zh.wikipedia.org/wiki/紀政) ｜ [Chi Cheng (athlete) — Wikipedia EN](<https://en.wikipedia.org/wiki/Chi_Cheng_(athlete)>)
 
 ## Ссылки
 

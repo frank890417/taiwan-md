@@ -206,7 +206,7 @@ This article uses **landscape and cultural context images** in place of scarce C
 
 - [Xinpu Pan House Panorama](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E6%BD%98%E5%B1%8B%E5%85%A8%E6%99%AF.jpg) — Hero, family landscape.
 - [Xinpu Wu Cho-lu Residence](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%90%B3%E6%BF%81%E6%B5%81%E6%95%85%E5%B1%85.jpg) — Fellow hometown cross-linguistic literary network.
-- [Hakka Compound, Tongluo, Miaoli](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg $\rightarrow$ Hakka living space.
+- [Hakka Compound, Tongluo, Miaoli](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg>) $\rightarrow$ Hakka living space.
 - [2014 Hakka Tung-hua Dance Competition](https://commons.wikimedia.org/wiki/File:2014%E5%AE%A2%E5%AE%B6%E6%A1%90%E8%8A%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD_Hakka_Tung_Blossom_Festival_-_panoramio.jpg) — Visibility of mother tongue in public culture.
 
 Optional Video: "Du Pan Fang-ge Literary District" and other public programs by Hakka TV (YouTube), for expansion rather than essential content.

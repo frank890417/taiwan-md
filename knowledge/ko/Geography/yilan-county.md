@@ -85,7 +85,7 @@ translatedAt: '2026-07-26T13:23:36+08:00'
 이란현 전체 면적은 2,143.6251제곱킬로미터이며, 1개 시(이란시) + 3개 진(러둥, 소오, 토청) + 8개 향(자오시, 장웨이, 위엔산, 둥산, 우쥇, 삼성, 다퉁, 난아오)을 관할하여 총 12개 향진시가 있다[^10]. 산지가 현역의 85%를 차지하고, 평원은 고작 15%에 불과하다. **인구는 이 15%에 압축되어 있으며**, 2026년 4월 호구 인구는 448,763명이다[^10].
 
 ![란양평원과 구이산도, 2019년. 삼면이 산으로 둘러싸이고 동쪽이 태평양을 향해 열려 있어 호미 모양이다. 연강수량 평원 2,500–3,000mm, 산지 최고 5,500mm.](/article-images/geography/yilan-hero.webp)
-_란양평원과 구이산도, 2019년. 사진: 쩡청쑹 Tseng, [CC BY 2.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Yilan_Plain_and_Gueishan_Island_2019_(cropped).jpg).\_
+_란양평원과 구이산도, 2019년. 사진: 쩡청쑹 Tseng, [CC BY 2.0 via Wikimedia](<https://commons.wikimedia.org/wiki/File:Yilan_Plain_and_Gueishan_Island_2019_(cropped).jpg>).\_
 
 태평양 위에 떠 있는 그 작은 섬은 구이산도(龜山島)이다. 토청 우스이항에서 약 10km 떨어져 있으며, 동서 너비 3.1km, 남북 길이 1.6km, 면적 2.841제곱킬로미터이다[^11]. 여전히 활화산이며, 과거 7,000년 동안 최소 4차례의 분화 기록이 있으며, 온천과 유황 구멍은 현재도 활동 중이고, 주체는 안산암 용암류와 화산쇄설암이다[^11].
 
@@ -204,7 +204,7 @@ _자오시 건강 중구화 구가 경관, 2022-11-05. 사진: Yu tptw, [CC BY-S
 2007년 동완절入园 인원은 고작 325,000명, 손실 6,700만 위안으로, 창설 이후 손실이 가장 심각한 해였다[^27]. 2007년 이란현 정부는 '入园 인원 감소, 심각한 손실'을 이유로 개최 중단을 발표했다. **2010년 11월 24일**, 현장 린쑹시엔(林聰賢)은 2년간 중단되었던 동완절의 재개를 발표했다[^27].
 
 ![둥산하 친수 공원, 2015년. 1993년 개원, 1994년 완성. 동완절 1996년 첫 개최, 2007년 중단, 2010년 재개.](https://upload.wikimedia.org/wikipedia/commons/d/d5/Dongshan_River_Water_Park_%28Yilan%2C_Taiwan%29.JPG)
-_둥산하 친수 공원, 2015-11-14. 사진: Gpdprince, [CC BY-SA 4.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Dongshan_River_Water_Park_(Yilan,_Taiwan).JPG)._
+_둥산하 친수 공원, 2015-11-14. 사진: Gpdprince, [CC BY-SA 4.0 via Wikimedia](<https://commons.wikimedia.org/wiki/File:Dongshan_River_Water_Park_(Yilan,_Taiwan).JPG>)._
 
 이란은 또한 타이완 **가자시(歌仔戲, 가자희)의 발상지**이다: "**가자희는 타이완 토착에서 발원한 한족 전통 희곡 중 유일하다**", 발상지는 이란현 위엔산향 제이토펜촌(結頭份村)의 자두나무(대수공, 大樹公) 아래이다[^29]. 일치 시대 초기(1900년대 전후), 위엔산향 제이토펜촌의 오라이주(歐來助, '가자주', 歌仔助)는 대수공 아래에 천막을 치고 '본지 가자(本地歌仔)'를 가르쳤으며, 이는 가자희의 가장 원시적인 공연 형태이다. 1992년 이란현 정부는 '란양 희극단'을 설립하여, 전 타이완에서 유일하게 공립 속성의 가자희 극단이 되었다.
 
@@ -254,9 +254,9 @@ _둥산하 친수 공원, 2015-11-14. 사진: Gpdprince, [CC BY-SA 4.0 via Wikim
 
 ## 사진 출처
 
-본문은 6장의 위키미디어 커먼즈 CC 라이선스 이미지를 사용한다. 히어로 이미지는 [Yilan Plain and Gueishan Island 2019 (cropped)](<https://commons.wikimedia.org/wiki/File:Yilan_Plain_and_Gueishan_Island_2019_(cropped).jpg (쩡청쑹 Tseng, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), 란양평원과 구이산도 공중 촬영).
+본문은 6장의 위키미디어 커먼즈 CC 라이선스 이미지를 사용한다. 히어로 이미지는 [Yilan Plain and Gueishan Island 2019 (cropped)](<https://commons.wikimedia.org/wiki/File:Yilan_Plain_and_Gueishan_Island_2019_(cropped).jpg>) (쩡청쑹 Tseng, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), 란양평원과 구이산도 공중 촬영).
 
-인라인 장면 이미지는 순서대로: [June 25, 2008 Hsuehshan Tunnel](https://commons.wikimedia.org/wiki/File:June_25,_2008_Hsuehshan_Tunnel.jpg) (pacificmorningpost, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), 설산터널 입구); [Paddy field, Yilan 01](https://commons.wikimedia.org/wiki/File:Paddy_field,_Yilan_01.jpg) (Bernard Gagnon / Bgag, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), 란양평원 논); [Sunrise over Taipingshan National Forest Recreation Area](https://commons.wikimedia.org/wiki/File:Sunrise_over_Taipingshan_National_Forest_Recreation_Area.jpg) (Pai-Shih Lee, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), 타이핑산 일출); [Jiaoxi 20221105](https://commons.wikimedia.org/wiki/File:Jiaoxi_20221105.jpg) (Yu tptw, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), 자오시 건강 중구화 구가 경관); [Dongshan River Water Park (Yilan, Taiwan)](<https://commons.wikimedia.org/wiki/File:Dongshan_River_Water_Park_(Yilan,_Taiwan).JPG (Gpdprince, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), 둥산하 친수 공원).
+인라인 장면 이미지는 순서대로: [June 25, 2008 Hsuehshan Tunnel](https://commons.wikimedia.org/wiki/File:June_25,_2008_Hsuehshan_Tunnel.jpg) (pacificmorningpost, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), 설산터널 입구); [Paddy field, Yilan 01](https://commons.wikimedia.org/wiki/File:Paddy_field,_Yilan_01.jpg) (Bernard Gagnon / Bgag, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), 란양평원 논); [Sunrise over Taipingshan National Forest Recreation Area](https://commons.wikimedia.org/wiki/File:Sunrise_over_Taipingshan_National_Forest_Recreation_Area.jpg) (Pai-Shih Lee, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), 타이핑산 일출); [Jiaoxi 20221105](https://commons.wikimedia.org/wiki/File:Jiaoxi_20221105.jpg) (Yu tptw, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), 자오시 건강 중구화 구가 경관); [Dongshan River Water Park (Yilan, Taiwan)](<https://commons.wikimedia.org/wiki/File:Dongshan_River_Water_Park_(Yilan,_Taiwan).JPG>) (Gpdprince, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), 둥산하 친수 공원).
 
 ## 영상 자료
 

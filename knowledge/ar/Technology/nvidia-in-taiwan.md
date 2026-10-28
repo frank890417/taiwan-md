@@ -286,8 +286,8 @@ _قاعة كومبيوتكس في مركز تايبيه نانغانغ للمع�
 ## مصادر الصور
 
 - [جنسن هوانغ في كومبيوتكس تايبيه](https://commons.wikimedia.org/wiki/File:Jensen_Huang_at_Computex_Taipei_20160531c.jpg) — صورة: إنفيديا تايوان، 2016، CC BY 2.0 (الصورة الرئيسية، جنسن هوانغ يلقي خطاباً على مسرح كومبيوتكس)
-- [Die شريحة إنفيديا أمبير GA102 GPU](<https://commons.wikimedia.org/wiki/File:Nvidia@8nm@Ampere@GA102@GeForce_RTX_3090@S_TW_2032A1_SNNB9W.000_GA102-300-A1_DSC06025-DSC06107_(50740715646) — صورة: فريتشنز فريتز، CC0 (صورة مجهرية لـ Die الشريحة)
-- [جنسن هوانغ ممسكاً RTX بلاكويل في CES 2025](<https://commons.wikimedia.org/wiki/File:Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_(3) — صورة: برونوييا، CC0
+- [Die شريحة إنفيديا أمبير GA102 GPU](<https://commons.wikimedia.org/wiki/File:Nvidia@8nm@Ampere@GA102@GeForce_RTX_3090@S_TW_2032A1_SNNB9W.000_GA102-300-A1_DSC06025-DSC06107_(50740715646).jpg>) — صورة: فريتشنز فريتز، CC0 (صورة مجهرية لـ Die الشريحة)
+- [جنسن هوانغ ممسكاً RTX بلاكويل في CES 2025](<https://commons.wikimedia.org/wiki/File:Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_(3).jpg>) — صورة: برونوييا، CC0
 - [مصنع شركة تايوان لتصنيع أشباه الموصلات في تايتشونغ](https://commons.wikimedia.org/wiki/File:TSMC_logo_on_Taichung_factory_building.jpg) — صورة: برياكسيس إف. مينديز (Briáxis F. Mendes)، CC BY-SA 4.0
 - [كومبيوتكس تايبيه في مركز تايبيه نانغانغ للمعارض](https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20150602.jpg) — صورة: إنفيديا تايوان، 2015، CC BY 2.0
 - فيديو: [كلمة جنسن هوانغ الرئيس التنفيذي لإنفيديا في كومبيوتكس 2025](https://www.youtube.com/watch?v=TLzna9__DnI) — قناة إنفيديا الرسمية على يوتيوب

@@ -95,7 +95,7 @@ Mediu a distância em Tóquio 1964, saltou-a na Cidade do México 1968, aposento
 
 "Gazela saltitante" era a metáfora da sua velocidade nos anos 1960. Mas a metáfora mais justa talvez seja a de uma maratonista: partiu em 1944 e até hoje nunca parou.
 
-**Leitura complementar**: [Chi Cheng — Wikipédia](https://zh.wikipedia.org/wiki/紀政) ｜ [Chi Cheng (athlete) — Wikipedia EN](<https://en.wikipedia.org/wiki/Chi_Cheng_(athlete)
+**Leitura complementar**: [Chi Cheng — Wikipédia](https://zh.wikipedia.org/wiki/紀政) ｜ [Chi Cheng (athlete) — Wikipedia EN](<https://en.wikipedia.org/wiki/Chi_Cheng_(athlete)>)
 
 ## Referências
 
