@@ -325,7 +325,7 @@ framing chain은 '공산당 주문 → 국민당 확산 → 미디어 확대'보
 
 ---
 
-## 图片来源
+## 이미지 출처
 
 - **Hero**: [Children gathering potatoes on a large farm, vicinity of Caribou, Aroostook County, Me. Schools do not open until the potatoes are harvested](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / Public Domain (PD-USGov, NARA / Library of Congress FSA-OWI Collection)
 - **Inline §200ppm 단락**: [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — Public Domain (simple structural formula, ineligible for copyright; via Wikimedia Commons)

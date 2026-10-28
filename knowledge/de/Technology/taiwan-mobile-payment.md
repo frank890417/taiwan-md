@@ -147,7 +147,7 @@ Intensivnutzer\*innen in vertrauten Filialnetzen und Lebenskreisen kommen tatsä
 
 Die Adoptionsschwelle fragt, wie viele Menschen es nutzen. Die Universalitätsschwelle fragt, ob unterschiedliche Menschen und Geschäfte szenarienübergreifend abschließen können. Ohne Bargeld muss man noch fragen: Lässt sich nach einem Fehlschlag wiederherstellen? Je weiter die ersten beiden Schwellen vorrücken, desto weniger Menschen führen Bargeld mit sich – doch wann der letzte Schein die Geldbörse verlässt, hängt davon ab, ob Ausnahmen bereits so selten geworden sind, dass ein Backup nicht mehr lohnt.
 
-## 延伸閱讀
+## Weiterführende Lektüre
 
 - [Taiwans E-Commerce- und Digitalzahlungs-Ökosystem](/de/technology/e-commerce-and-digital-payment-ecosystem) – Rückblick auf zwanzig Jahre Plattform- und Logistikkrieg im taiwanesischen E-Commerce.
 - [Entwicklung der Finanztechnologie in Taiwan](/de/economy/taiwan-fintech-development) – Einordnung der Zahlungsfälle in die zehnjährige Entwicklung taiwanesischer Fintech zwischen Öffnung und Risikokontrolle.

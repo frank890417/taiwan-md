@@ -102,7 +102,7 @@ Some festivals are like a program sheet. Megaport is more like a temporary city.
 
 **Further reading:** Freddy Lim, Chthonic, Taiwan music-festival culture, Taiwanese indie music, Fire EX.
 
-## 圖片來源
+## Image Sources
 
 This article uses 3 Wikimedia Commons images under Creative Commons licenses:
 

@@ -243,7 +243,7 @@ Trần Trọng Tệ từng nói với Wall Street Journal rằng ông đã "hoà
 
 Chẳng ai lên kế hoạch cho sự chuyển dịch quy mô lớn này. Nhưng trong đợt hạn hán nghiêm trọng nhất trong 56 năm qua, xe cứu nước vẫn tiếp tục chạy vào Bảo Sơn; trên công trình xây dựng tại Arizona, nhà máy thứ ba mới chỉ vừa khởi công; trên thảm thở đỏ của Nhà Trắng, Trump khen ngợi người 56 tuổi rời khỏi Đức Kỵ là "người đàn ông quan trọng nhất trong phòng này" — dù người 56 tuổi ấy, đã không còn ở trong phòng này nữa.
 
-## 延伸閱讀
+## Đọc thêm
 
 - [Doanh nghiệp Đài Loan: MediaTek](/vi/economy/mediatek) — Nhà thiết kế chip điện toán di động lớn thứ ba thế giới, đại diện tiêu biểu của mô hình không sở hữu nhà máy, là cặp sinh nhìn với TSMC
 - [Doanh nghiệp Đài Loan: ASE Group](/vi/economy/taiwan-enterprise-ase-semiconductor) — Nhà đóng gói thử nghiệm lớn nhất thế giới, nút giống chiến lược phía dưới cùng một chuỗi cung ứng với TSMC
