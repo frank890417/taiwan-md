@@ -35,6 +35,18 @@ fence 的 info string 是空的或 `markdown`／`md`，且 fence 內容含引言
 判準寫窄不寫寬，是因為假陽性的代價不對稱：閘門誤報時，最省事的消音方式是把被
 誤報的內容改掉——判準不準會誘導寫手把好東西改壞（LESSONS
 `gate-triggers-content-degradation-incentive`，2026-08-09）。
+
+## 另外兩條（2026-10-28，對應 issue #1904）
+
+同一個家族還有兩種形狀，判準不同但病灶一樣：fence 自己壞了。
+
+- **四撇以上的 fence**（`^`````）。renderer 的模組擷取只認三撇那一行，於是
+  四撇開、四撇收的 `tw-timeline` 會一路掃到下一個三撇行，把中間的 `##` 標題、
+  正文、甚至另一個模組整個吞進去；三撇開、四撇收的則永遠沒關上。
+  存量 2026-10-25 量到 7 檔 / 14 行，2026-10-28 重測已歸零（產線重翻清掉了），
+  所以這條直接上 HARD。真的要示範巢狀 fence 請改用 `~~~` 外層。
+- **遺失開頭的殘行**：` ```tw-heatmap ` 掉了前五個字元，只剩一行 `-heatmap`，
+  資料列就當成普通段落印給讀者。判準是「整行剛好等於 `-` + 一個已知模組名」。
 """
 
 from __future__ import annotations
@@ -52,6 +64,17 @@ APPLIES_TO = ["*"]
 
 # CommonMark: fence 前最多 3 個空白，3 個以上的 ` 或 ~，開場可帶 info string。
 _FENCE = re.compile(r"^ {0,3}(?P<delim>`{3,}|~{3,})(?P<info>.*)$")
+# 四撇以上的 fence 行（開場或收尾都算）。
+_LONG_FENCE = re.compile(r"^ {0,3}`{4,}")
+# 已知的視覺模組名（`knowledge/` 現用 21 種）。
+_MODULES = (
+    "arc article bars dot figure heatmap iso line multiples note "
+    "pyramid quote slope source stack stat tiles timeline versus waffle"
+).split()
+# ` ```tw-heatmap ` 掉了開頭，只剩 `-heatmap`。
+_LOST_OPENING = re.compile(
+    r"^-(?:" + "|".join(re.escape(m) for m in _MODULES) + r")$"
+)
 # 只有這兩型算「正文被包進去」的證據。
 _BLOCKQUOTE = re.compile(r"^ {0,3}>\s")
 _FOOTNOTE_DEF = re.compile(r"^ {0,3}\[\^[^\]]+\]:")
@@ -60,7 +83,7 @@ _PROSE_INFO = {"", "markdown", "md"}
 
 
 def _blocks(text: str):
-    """走 CommonMark fence 規則，吐出 (開場行號, info, 內容行 list)。"""
+    """走 CommonMark fence 規則，吐出 (開場行號, info, 內容行 list, 有沒有收尾)。"""
     open_char: str | None = None
     open_len = 0
     open_line = 0
@@ -79,7 +102,7 @@ def _blocks(text: str):
                 continue
             # 只有同字元、長度不短於開場、且無 info string 才算收尾
             if char == open_char and length >= open_len and not info:
-                yield open_line, open_info, body
+                yield open_line, open_info, body, True
                 open_char, open_len, open_line, open_info = None, 0, 0, ""
                 body = []
                 continue
@@ -87,11 +110,59 @@ def _blocks(text: str):
             body.append(line)
 
     if open_char is not None:  # 沒收尾的也交出去判
-        yield open_line, open_info, body
+        yield open_line, open_info, body, False
 
 
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
-    for open_line, info, body in _blocks(target.text):
+    # ── 規則 2/3：fence 自己壞了（issue #1904）──────────────────────────
+    for lineno, line in enumerate(target.body.split("\n"), start=1):
+        if _LONG_FENCE.match(line):
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.HARD,
+                message=(
+                    f"第 {lineno} 行的 fence 用了四個以上的反引號——"
+                    "renderer 的模組擷取只認三撇那一行，這個 fence 不會被當成收尾"
+                    "（模組會一路吞掉後面的標題與正文）"
+                ),
+                line=lineno,
+                snippet=line.strip()[:80],
+                fix_suggestion="改成三個反引號；真的要示範巢狀 fence 請用 `~~~` 當外層",
+                editorial_ref=EDITORIAL_REF,
+            )
+        elif _LOST_OPENING.match(line.strip()):
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.HARD,
+                message=(
+                    f"第 {lineno} 行只剩模組 fence 的後半截 `{line.strip()}`——"
+                    "開頭的三撇與 `tw` 不見了，模組的資料列會當成普通段落印給讀者"
+                ),
+                line=lineno,
+                snippet=line.strip()[:80],
+                fix_suggestion=f"補回開頭，改成 ```tw{line.strip()}",
+                editorial_ref=EDITORIAL_REF,
+            )
+
+    # ── 規則 1：正文被包進 fence ─────────────────────────────────────────
+    # ── 規則 4：fence 沒有收尾（孤立的三撇行）──────────────────────────
+    for open_line, _info, _body, closed in _blocks(target.body):
+        if closed:
+            continue
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.HARD,
+            message=(
+                f"第 {open_line} 行的 fence 沒有收尾——"
+                "後面整段都會被當成程式碼，以原始碼的樣子印給讀者"
+            ),
+            line=open_line,
+            snippet=target.body.split("\n")[open_line - 1].strip()[:80],
+            fix_suggestion="補上收尾的三個反引號；若是多出來的孤立 fence 行，直接刪掉那一行",
+            editorial_ref=EDITORIAL_REF,
+        )
+
+    for open_line, info, body, _closed in _blocks(target.text):
         if info.lower() not in _PROSE_INFO:
             continue
         quoted = [i for i, l in enumerate(body) if _BLOCKQUOTE.match(l)]
