@@ -1,6 +1,6 @@
 ---
 title: 'Shen Pao-chen: un cañón, un camino de montaña y el imperio Qing obligado a ver Taiwán'
-description: 'Tras el incidente de Mínguān​ 1874, Shen Pao-chen llegó a Anping con la marina de Fuzhou, colegios y técnicas de levantamiento de mapas; construyó el fuerte Yǒu​zǎi Jīngchéng, estableció el condado de Hengchun, pidió aliviar la prohibición de cruzar el estrecho de Taiwán, e incluso empujó al imperio Qing a imaginar una defensa costera y una administración provincial para Taiwán. Pero cuando el camino, el cañón y el templo se materializaron, la tierra y la autonomía de los pueblos indígenenas también fueron reordenados.'
+description: 'Tras el incidente de Mínguān 1874, Shen Pao-chen llegó a Anping con la marina de Fuzhou, colegios y técnicas de levantamiento de mapas; construyó el fuerte Yǒuzǎi Jīngchéng, estableció el condado de Hengchun, pidió aliviar la prohibición de cruzar el estrecho de Taiwán, e incluso empujó al imperio Qing a imaginar una defensa costera y una administración provincial para Taiwán. Pero cuando el camino, el cañón y el templo se materializaron, la tierra y la autonomía de los pueblos indígenenas también fueron reordenados.'
 date: 2026-08-16
 category: 'People'
 subcategory: '歷史人物'
@@ -8,9 +8,9 @@ tags:
   [
     'Shen Pao-chen',
     'marina de Fuzhou',
-    'incidente de Mínguān​',
+    'incidente de Mínguān',
     'apertura de montañas y domesticación de los pueblos indígenenas',
-    'fuerte Yǒu​zǎi Jīngchéng',
+    'fuerte Yǒuzǎi Jīngchéng',
     'Taiwán bajo el imperio Qing',
   ]
 author: 'Taiwan.md Contributors'
@@ -26,18 +26,18 @@ sourceBodyHash: 'sha256:619269e5a282feaa'
 translatedAt: '2026-09-15T19:45:25+08:00'
 ---
 
-> **Resumen de 30 segundos:** El 17 de junio de 1874, Shen Pao-chen llegó a Anping y asumió las tareas de defensa costera y relaciones exteriores del imperio Qing en Taiwán tras el incidente de Mínguān​.[^4] En los años siguientes, aparecieron el fuerte Yǒu​zǎi Jīngchéng en Tainan, la ciudad del condado de Hengchun, caminos hacia la montaña trasera y nuevos mapas levantados. [^1] [^2] [^4] Estas instalaciones pusieron a Taiwán más firme que nunca dentro del territorio nacional del imperio Qing, y también nos recuerdan un problema incómodo: ¿quién abre realmente el camino moderno?
+> **Resumen de 30 segundos:** El 17 de junio de 1874, Shen Pao-chen llegó a Anping y asumió las tareas de defensa costera y relaciones exteriores del imperio Qing en Taiwán tras el incidente de Mínguān.[^4] En los años siguientes, aparecieron el fuerte Yǒuzǎi Jīngchéng en Tainan, la ciudad del condado de Hengchun, caminos hacia la montaña trasera y nuevos mapas levantados. [^1] [^2] [^4] Estas instalaciones pusieron a Taiwán más firme que nunca dentro del territorio nacional del imperio Qing, y también nos recuerdan un problema incómodo: ¿quién abre realmente el camino moderno?
 
 | Tiempo    | Puntos clave de Shen Pao-chen, Taiwán y la marina                                                                                                                                                                                                     |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1847      | Aprobó el examen de maestría e ingresó en el sistema burocrático del imperio Qing.[^1]                                                                                                                                                                |
 | 1865      | Tras la muerte de su madre, regresó a Fuzhou para cumplir con el luto; Zongguang Lóng solicitó que encabezara la oficina de la marina de Fuzhou.[^9]                                                                                                  |
-| 1874      | Tras el incidente de Mínguān​, fue enviado a Taiwán para gestionar defensa costera, asuntos militares y relaciones con Japón.[^3] [^4]                                                                                                                |
+| 1874      | Tras el incidente de Mínguān, fue enviado a Taiwán para gestionar defensa costera, asuntos militares y relaciones con Japón.[^3] [^4]                                                                                                                 |
 | 1875      | Planificó el establecimiento del condado de Hengchun, impulsó tres caminos hacia la montaña trasera, y presentó peticiones para aliviar la prohibición de cruzar el estrecho y para que Zheng Chenggang construyera un templo. [^1] [^11] [^12] [^13] |
-| 1876      | Se completó el fuerte de Anping-Dúnguān, conocido posteriormente como Yǒu​zǎi Jīngchéng.[^2]                                                                                                                                                          |
+| 1876      | Se completó el fuerte de Anping-Dúnguān, conocido posteriormente como Yǒuzǎi Jīngchéng.[^2]                                                                                                                                                           |
 | 1879/1885 | Shen Pao-chen falleció; seis años después se creó la gobernación de Taiwán, dando lugar a debates sobre la administración provincial y la gestión de la frontera. [^1] [^11] [^15] [^16]                                                              |
 
-El 17 de junio de 1874, Shen Pao-chen llegó a Anping. Tres meses después, comenzó la construcción del fuerte de Anping-Dúnguān. En 1876, se grabó en la puerta del fuerte los caracteres «Yǒu​zǎi Jīngchéng». [^1] [^2] Una sola persona, un solo cañón y un camino hacia la montaña trasera conectaron una parte de la historia de Taiwán bajo el imperio Qing que rara vez se muestra en la misma exposición.
+El 17 de junio de 1874, Shen Pao-chen llegó a Anping. Tres meses después, comenzó la construcción del fuerte de Anping-Dúnguān. En 1876, se grabó en la puerta del fuerte los caracteres «Yǒuzǎi Jīngchéng». [^1] [^2] Una sola persona, un solo cañón y un camino hacia la montaña trasera conectaron una parte de la historia de Taiwán bajo el imperio Qing que rara vez se muestra en la misma exposición.
 
 ![Retrato de Shen Pao-chen, hacia 1870](https://commons.wikimedia.org/wiki/Special:FilePath/Sing%20Bo-ting2.jpg)
 
@@ -63,7 +63,7 @@ Tras el desembarco japonés en Hengchun en mayo de 1874, Shen Pao-chen fue nombr
 
 ## De un conflicto local a un problema de derecho internacional y soberanía
 
-Los desafíos del incidente de Mínguān​ no se limitaron a que las fuerzas japonesas ya habían desembarcado. Japón consideró a los 54 ciudadanos ryukyanos asesinados en 1871 como súbditos japoneses, y el imperio Qing tuvo que responder: ¿las tierras del sureste de Taiwán que no estaban bajo el control directo de los gobernadores Qing formaban parte del territorio que el imperio Qing podía gobernar? Un estudio de Cambridge señala que la crisis de Taiwán entre mayo y diciembre de 1874 estalló cuando se cruzaron tres elementos: la integración japonesa de Ryukyu, las afirmaciones vagas del imperio Qing sobre el territorio, y la noción occidental de «posesión efectiva» del derecho internacional. [^14]
+Los desafíos del incidente de Mínguān no se limitaron a que las fuerzas japonesas ya habían desembarcado. Japón consideró a los 54 ciudadanos ryukyanos asesinados en 1871 como súbditos japoneses, y el imperio Qing tuvo que responder: ¿las tierras del sureste de Taiwán que no estaban bajo el control directo de los gobernadores Qing formaban parte del territorio que el imperio Qing podía gobernar? Un estudio de Cambridge señala que la crisis de Taiwán entre mayo y diciembre de 1874 estalló cuando se cruzaron tres elementos: la integración japonesa de Ryukyu, las afirmaciones vagas del imperio Qing sobre el territorio, y la noción occidental de «posesión efectiva» del derecho internacional. [^14]
 
 Por eso, Shen Pao-chen asumió doble papel: comandante militar y negociador diplomático. Tenía que convencer a las fuerzas japonesas de retirarse, y también demostrar al imperio Qing cómo planeaba gobernar Taiwán. Las creaciones de condados, fortificaciones, mapas y carreteras eran respuestas administrativas a ese desafío. Llevaron progresivamente las zonas antes llamadas «territorio ajeno» dentro del alcance de lo que el imperio Qing podía describir y reclamar.[^4] [^14]
 
@@ -71,19 +71,19 @@ Por eso, Shen Pao-chen asumió doble papel: comandante militar y negociador dipl
 
 El primer problema concreto al que Shen Pao-chen enfrentó en Anping fue que el puerto de la ciudad de Taiwán no contaba con defensas modernas suficientes. Archivos del gobierno municipal de Tainan indican que el fuerte de Anping-Dúnguān utilizó ladrillos de arcilla de Tilanqiao, se construyó con ladrillos rojos estilo occidental, se rodeó con un canal de protección y se completó en 1876, dotándolo de cinco cañones de 18 toneladas fabricados en Inglaterra por Armstrong. [^2]
 
-![Puerta del fuerte Yǒu​zǎi Jīngchéng](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg/1280px-20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg)
+![Puerta del fuerte Yǒuzǎi Jīngchéng](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg/1280px-20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg)
 
-\_Imagen: puerta del fuerte Yǒu​zǎi Jīngchéng. Fotografía: Feng Daoming, 2018; fuente: página de archivo de Wikimedia Commons, bajo licencia CC BY 4.0[^7].\_
+\_Imagen: puerta del fuerte Yǒuzǎi Jīngchéng. Fotografía: Feng Daoming, 2018; fuente: página de archivo de Wikimedia Commons, bajo licencia CC BY 4.0[^7].\_
 
 El significado del cañón no radica solo en su potencia de fuego. Elevó la defensa de «la ciudad de Taiwán debe resistir» de una cuestión local a una obra de ingeniería costera que el imperio Qing tenía que financiar. Al mismo tiempo, comprimió el conocimiento francés de ingeniería, los cañones británicos y el talento humano de la marina de Fuzhou en un edificio visible en Anping.[^4]
 
-📝 **Nota del curador:** Yǒu​zǎi Jīngchéng es como un recibo del final del imperio Qing: el imperio Qing finalmente reconoció que Taiwán no podía depender únicamente de los sistemas tradicionales de defensa, pero este recibo también nos recuerda que el Estado suele empezar a invertir en una tierra solo cuando la crisis se acerca.
+📝 **Nota del curador:** Yǒuzǎi Jīngchéng es como un recibo del final del imperio Qing: el imperio Qing finalmente reconoció que Taiwán no podía depender únicamente de los sistemas tradicionales de defensa, pero este recibo también nos recuerda que el Estado suele empezar a invertir en una tierra solo cuando la crisis se acerca.
 
 ## El imperio Qing no dependía solo de armas locales
 
 Cuando la crisis se acercó, las armas y tropas existentes en Taiwán no encajaban en la visión de una defensa costera moderna. Estudios del final del imperio Qing señalan que algunos soldares usaban rifles de chispa, y los soldados valientes de Taiwán incluso luchaban con arcos, flechas y lanzas. Li Hongzhang propuso enviar unidades de los soldados de Huai, y finalmente unos 6,500 soldados de élite llegaron a Taiwán.[^14]
 
-Shen Pao-chen también solicitó en 1874 la compra de 15,000 rifles Remington de tambor, y planeó adquirir mediante préstamos extranjeros buques blindados, rifles, cañones y municiones. Esto añade una capa casi invisible al muro de ladrillos de Yǒu​zǎi Jīngchéng: no era una obra aislada construida localmente, sino el resultado de la convergencia del mercado global de armas, los bancos extranjeros, la marina de Fuzhou y las finanzas del imperio Qing.[^14]
+Shen Pao-chen también solicitó en 1874 la compra de 15,000 rifles Remington de tambor, y planeó adquirir mediante préstamos extranjeros buques blindados, rifles, cañones y municiones. Esto añade una capa casi invisible al muro de ladrillos de Yǒuzǎi Jīngchéng: no era una obra aislada construida localmente, sino el resultado de la convergencia del mercado global de armas, los bancos extranjeros, la marina de Fuzhou y las finanzas del imperio Qing.[^14]
 
 El imperio Qing aprendió así una lección práctica: se podían construir astilleros en el interior y tratar de imitar armas, pero cuando estallaba la guerra, la velocidad, la calidad y el efectivo seguían necesitando recurrir al mundo exterior. Desde aquí, la visión de defensa costera de Shen Pao-chen adquiere una dimensión global. [^14]
 
@@ -115,7 +115,7 @@ Esta postura corrige la narración posterior de que «los caminos se abrieron pa
 
 Tras inspeccionar Langqiao, Shen Pao-chen ordenó construir una ciudad y crear un condado, cambiando el nombre de Langqiao a Hengchun y planificando la ciudad de Hengchun. Archivos del Museo de Bellas Artes de Taiwán indican que la ciudad de Hengchun comenzó a construirse en 1875 y se completó en 1879.[^1] Para el imperio Qing, esta era una forma de anclar la costa sureña al mapa administrativo. Para las comunidades que allí vivían, los muros, los caminos y las oficinas representaban la llegada de nuevas tropas, nuevos impuestos y nuevas órdenes.
 
-El imperio Qing lanzó entonces la política de «apertura de montañas y domesticación de los pueblos indígenenas»: los tres caminos del norte, centro y sur se extendían hacia la montaña trasera, y se usaban métodos de reclutación, registro de hogares, establecimiento de centros administrativos y acciones militares para gestionar a los pueblos indígenenas. Estudios de archivos de pueblos indígenenas señalan que, tras el incidente de Mínguān​, los mapas y la administración realmente permitieron que el Estado llegara más profundamente a la península de Hengchun y al este de Taiwán; pero este proceso también debilitó la autonomía de los pueblos indígenenas, y los registros conservados son casi exclusivamente creados por poderes externos. [^4]
+El imperio Qing lanzó entonces la política de «apertura de montañas y domesticación de los pueblos indígenenas»: los tres caminos del norte, centro y sur se extendían hacia la montaña trasera, y se usaban métodos de reclutación, registro de hogares, establecimiento de centros administrativos y acciones militares para gestionar a los pueblos indígenenas. Estudios de archivos de pueblos indígenenas señalan que, tras el incidente de Mínguān, los mapas y la administración realmente permitieron que el Estado llegara más profundamente a la península de Hengchun y al este de Taiwán; pero este proceso también debilitó la autonomía de los pueblos indígenenas, y los registros conservados son casi exclusivamente creados por poderes externos. [^4]
 
 Aquí hay que invertir la narración común. La gente suele entender que «la apertura de montañas y domesticación de los pueblos indígenenas» marcó el inicio de la apertura de caminos, el desarrollo local y la construcción moderna; pero los caminos solo podían transitarse porque las tropas llegaban primero, la administración se establecía primero, y la tierra que antes gestionaban otros grupos étnicos era renombrada y reorganizada. La obra de gestión de Shen Pao-chen así muestra dos caras: permitió al imperio Qing asumir responsabilidad por Taiwán, pero también puso a los pueblos indígenenas bajo la presión de la expansión estatal. [^4]
 
@@ -147,40 +147,40 @@ Esto no es una línea recta de «Shen Pao-chen planeó, Liu Mingxu completó». 
 
 ## Un informe no representa toda Taiwán
 
-Los informes de Shen Pao-chen son importantes porque nos permiten escuchar cómo el imperio Qing explicaba «la apertura de montañas», «la apertura de caminos» y «la defensa de Taiwán». Pero los informes siguen siendo la voz de la burocracia; archivos de pueblos indígenenas nos recuerdan que los mapas y archivos administrativos dejados tras el incidente de Mínguān​ y la gestión posterior fueron creados principalmente por poderes externos, y los registros de los pueblos indígenenas son escasos. [^4]
+Los informes de Shen Pao-chen son importantes porque nos permiten escuchar cómo el imperio Qing explicaba «la apertura de montañas», «la apertura de caminos» y «la defensa de Taiwán». Pero los informes siguen siendo la voz de la burocracia; archivos de pueblos indígenenas nos recuerdan que los mapas y archivos administrativos dejados tras el incidente de Mínguān y la gestión posterior fueron creados principalmente por poderes externos, y los registros de los pueblos indígenenas son escasos. [^4]
 
 Por eso, leer a Shen Pao-chen no solo implica preguntar cuántas obras dejó, sino también cuál era el lenguaje con el que nombraba la tierra, cuál era el derecho con el que trataba a los residentes y cuál era el mapa con el que demostraba la soberanía. Como dicen los estudios del final del imperio Qing, el concepto de «desarrollo» y «gestión de fronteras» solo puede entenderse si se sitúa en los lugares reales de Hengchun, Beinan y la montaña trasera, donde coexistían defensa, migración, impuestos y conflictos comunitarios. [^15]
 
 ## Lo que queda del cañón
 
-Hoy, de pie en la puerta de Yǒu​zǎi Jīngchéng, lo más visible son los ladrillos rojos, el canal de protección y los cuatro caracteres «Yǒu​zǎi Jīngchéng». Lo menos visible es cómo, desde 1874, ese nuevo orden comenzó a operar junto: la marina de Fuzhou trajo tecnología a Anping, el imperio Qing convirtió la defensa costera en una responsabilidad estatal, la ciudad de Hengchun incorporó la costa sureña al sistema de condados, y los caminos y mapas convirtieron la montaña trasera en un espacio que las autoridades administrativas podían describir. [^2] [^3] [^4]
+Hoy, de pie en la puerta de Yǒuzǎi Jīngchéng, lo más visible son los ladrillos rojos, el canal de protección y los cuatro caracteres «Yǒuzǎi Jīngchéng». Lo menos visible es cómo, desde 1874, ese nuevo orden comenzó a operar junto: la marina de Fuzhou trajo tecnología a Anping, el imperio Qing convirtió la defensa costera en una responsabilidad estatal, la ciudad de Hengchun incorporó la costa sureña al sistema de condados, y los caminos y mapas convirtieron la montaña trasera en un espacio que las autoridades administrativas podían describir. [^2] [^3] [^4]
 
 El legado de Shen Pao-chen, por tanto, no es solo un cañón. Es una pregunta: cuando el Estado finalmente decide ver Taiwán, ¿ve la costa, los puertos, los caminos y las fronteras manejables, o también ve a quienes ya vivían en esos lugares?
 
-La crisis de 1874 ya terminó[^4], Yǒu​zǎi Jīngchéng aún se alza a la sombra de los árboles en Anping, y la ciudad de Hengchun aún conserva sus murallas. Lo que realmente no ha terminado es cómo leemos los ladrillos, los caminos y los mapas que quedan: prueban que Shen Pao-chen cambió Taiwán, y también nos obligan a reconocer que el cambio nunca ocurre solo dentro de las oficinas gubernamentales.
+La crisis de 1874 ya terminó[^4], Yǒuzǎi Jīngchéng aún se alza a la sombra de los árboles en Anping, y la ciudad de Hengchun aún conserva sus murallas. Lo que realmente no ha terminado es cómo leemos los ladrillos, los caminos y los mapas que quedan: prueban que Shen Pao-chen cambió Taiwán, y también nos obligan a reconocer que el cambio nunca ocurre solo dentro de las oficinas gubernamentales.
 
 ## Lecturas recomendadas
 
-- [Archivos de pueblos indígenenas: historia de mapas del incidente de Mínguān​ (parte 2)](https://ihc.cip.gov.tw/EJournal/EJournalCat/104)
-- [Oficina de Cultura del gobierno municipal de Tainan: Yǒu​zǎi Jīngchéng](https://historic.tainan.gov.tw/index.php?option=module&lang=cht&task=pageinfo&id=59&index=5)
-- [Oficina de gestión del parque nacional de Kenting: La historia de Mínguān​](https://www.taiwan.nps.gov.tw/home/zh-tw/topic/18409.html)
+- [Archivos de pueblos indígenenas: historia de mapas del incidente de Mínguān (parte 2)](https://ihc.cip.gov.tw/EJournal/EJournalCat/104)
+- [Oficina de Cultura del gobierno municipal de Tainan: Yǒuzǎi Jīngchéng](https://historic.tainan.gov.tw/index.php?option=module&lang=cht&task=pageinfo&id=59&index=5)
+- [Oficina de gestión del parque nacional de Kenting: La historia de Mínguān](https://www.taiwan.nps.gov.tw/home/zh-tw/topic/18409.html)
 - [Enciclopedia de Historia Asiática de Oxford: Taiwán y la China moderna](https://doi.org/10.1093/acrefore/9780190277727.013.155)
 
 ## Bibliografía
 
-[^1]: [Colección del Museo de Bellas Artes de Taiwán: Shen Pao-chen](https://ntmofa-collections.ntmofa.gov.tw/AuthorData.aspx?AID=M4MZMHM2) — archivo biográfico del Museo de Bellas Artes de Taiwán, que recopila la vida, la procedencia de Shen Pao-chen, su carrera en la marina, y el contexto de su llegada a Taiwán y la construcción de la ciudad de Hengchun tras el incidente de Mínguān​.
+[^1]: [Colección del Museo de Bellas Artes de Taiwán: Shen Pao-chen](https://ntmofa-collections.ntmofa.gov.tw/AuthorData.aspx?AID=M4MZMHM2) — archivo biográfico del Museo de Bellas Artes de Taiwán, que recopila la vida, la procedencia de Shen Pao-chen, su carrera en la marina, y el contexto de su llegada a Taiwán y la construcción de la ciudad de Hengchun tras el incidente de Mínguān.
 
-[^2]: [Oficina de Cultura del gobierno municipal de Tainan: Yǒu​zǎi Jīngchéng](https://historic.tainan.gov.tw/index.php?option=module&lang=cht&task=pageinfo&id=59&index=5) — archivo del gobierno municipal de Tainan, que describe el contexto de construcción del fuerte de Anping-Dúnguān, su finalización en 1876, los ladrillos rojos estilo occidental, el canal de protección y los cañones Armstrong de 18 toneladas.
+[^2]: [Oficina de Cultura del gobierno municipal de Tainan: Yǒuzǎi Jīngchéng](https://historic.tainan.gov.tw/index.php?option=module&lang=cht&task=pageinfo&id=59&index=5) — archivo del gobierno municipal de Tainan, que describe el contexto de construcción del fuerte de Anping-Dúnguān, su finalización en 1876, los ladrillos rojos estilo occidental, el canal de protección y los cañones Armstrong de 18 toneladas.
 
-[^3]: [Oficina de gestión del parque nacional de Kenting: La historia de Mínguān​](https://www.taiwan.nps.gov.tw/home/zh-tw/topic/18409.html) — guía histórica oficial del parque nacional, que recopila el incidente del barco «Yamahara», el asesinato de 54 marineros de Ryukyu, la llegada de Shen Pao-chen, la creación del condado de Hengchun y el Tratado de Beijing.
+[^3]: [Oficina de gestión del parque nacional de Kenting: La historia de Mínguān](https://www.taiwan.nps.gov.tw/home/zh-tw/topic/18409.html) — guía histórica oficial del parque nacional, que recopila el incidente del barco «Yamahara», el asesinato de 54 marineros de Ryukyu, la llegada de Shen Pao-chen, la creación del condado de Hengchun y el Tratado de Beijing.
 
-[^4]: [Archivos de pueblos indígenenas: historia de mapas del incidente de Mínguān​ (parte 2)](https://ihc.cip.gov.tw/EJournal/EJournalCat/104) — artículo de la revista electrónica del Consejo de Pueblos Indígenenas, que analiza desde mapas, derecho internacional y administración cómo Shen Pao-chen llegó a Taiwán, realizó mediciones, impulsó la apertura de montañas y domesticación de los pueblos indígenenas, y las consecuencias históricas para la autonomía de los pueblos indígenenas.
+[^4]: [Archivos de pueblos indígenenas: historia de mapas del incidente de Mínguān (parte 2)](https://ihc.cip.gov.tw/EJournal/EJournalCat/104) — artículo de la revista electrónica del Consejo de Pueblos Indígenenas, que analiza desde mapas, derecho internacional y administración cómo Shen Pao-chen llegó a Taiwán, realizó mediciones, impulsó la apertura de montañas y domesticación de los pueblos indígenenas, y las consecuencias históricas para la autonomía de los pueblos indígenenas.
 
 [^5]: [Enciclopedia de Historia Asiática de Oxford: Taiwán y la China moderna](https://doi.org/10.1093/acrefore/9780190277727.013.155) — entrada académica en inglés de Emma J. Teng, que proporciona el contexto histórico internacional sobre la posición estratégica de Taiwán, la gobernanza del imperio Qing y su relación con la China moderna; este artículo utiliza su resumen público y datos bibliográficos.
 
 [^6]: [Wikimedia Commons: Sing Bo-ting2.jpg](https://commons.wikimedia.org/wiki/File:Sing_Bo-ting2.jpg) — página de archivo de retrato de Shen Pao-chen hacia 1870, que indica dominio público; al insertarlo se conserva el enlace a la página de archivo y el estado de la licencia, sin descargar ni guardar la imagen.
 
-[^7]: [Wikimedia Commons: 20180922 億載金城.jpg](https://commons.wikimedia.org/wiki/File:20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg) — imagen de la puerta de Yǒu​zǎi Jīngchéng tomada por Feng Daoming en 2018, bajo licencia Creative Commons Attribution 4.0 International; al usarla se debe indicar el autor y el enlace de la licencia.
+[^7]: [Wikimedia Commons: 20180922 億載金城.jpg](https://commons.wikimedia.org/wiki/File:20180922_%E5%84%84%E8%BC%89%E9%87%91%E5%9F%8E.jpg) — imagen de la puerta de Yǒuzǎi Jīngchéng tomada por Feng Daoming en 2018, bajo licencia Creative Commons Attribution 4.0 International; al usarla se debe indicar el autor y el enlace de la licencia.
 
 [^8]: [Wikimedia Commons: 1875 Taiwan.svg](https://commons.wikimedia.org/wiki/File:1875_Taiwan.svg) — mapa de divisiones administrativas de Taiwán bajo el imperio Qing, 1875, creado por Liaon98, bajo licencia Creative Commons Attribution-ShareAlike 3.0 Taiwán; al usarlo se debe indicar el autor, la fuente y la licencia idéntica o compatible.
 

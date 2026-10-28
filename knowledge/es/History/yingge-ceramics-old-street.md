@@ -157,7 +157,7 @@ Sin embargo, con la llegada del metro línea San-ying, la apertura del Museo de 
 
 [^18]: [Bienal Internacional de Cerámica de Taiwán 2026 — Sitio Web de Turismo de Nuevo Taipéi](https://newtaipei.travel/zh-tw/calendar/detail/3888) — → Página del evento que registra la exposición internacional organizada por el Museo de la Cerámica de Yingge
 
-[^19]: [Guía rápida para la apertura de la línea San-ying en 202​6 — Saint Marie Lifestyle](https://www.sunmerry.com.tw/zh-TW/blogs/blog/sanying-line-guide) — → Información de junio de 2026 sobre la apertura, las 12 estaciones y los restaurantes cercanos
+[^19]: [Guía rápida para la apertura de la línea San-ying en 2026 — Saint Marie Lifestyle](https://www.sunmerry.com.tw/zh-TW/blogs/blog/sanying-line-guide) — → Información de junio de 2026 sobre la apertura, las 12 estaciones y los restaurantes cercanos
 
 [^20]: [Carnaval de Yingge 2025 comienza el 18/10 — Oficina de Desarrollo Económico de Nuevo Taipéi](https://www.economic.ntpc.gov.tw/Api/News/Page?id=7105) — → Nota de prensa oficial que registra el tema «Búsqueda del tesoro en el pueblo: Almacenes de la calle antigua abiertos» y la conexión con comercios
 

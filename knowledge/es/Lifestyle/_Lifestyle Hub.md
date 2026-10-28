@@ -94,10 +94,10 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ## Temas Relacionados
 
-- [[_Food Hub|Gastronomía]]​: Relación entre cultura gastronómica y estilo de vida
-- [[_Society Hub|Sociedad]]​: Cambios sociales reflejados en el estilo de vida
-- [[_Technology Hub|Tecnología]]​: Cómo la tecnología cambia el estilo de vida
-- [[_Economy Hub|Economía]]​: Contribución económica de la industria de servicios de vida
+- [[_Food Hub|Gastronomía]]: Relación entre cultura gastronómica y estilo de vida
+- [[_Society Hub|Sociedad]]: Cambios sociales reflejados en el estilo de vida
+- [[_Technology Hub|Tecnología]]: Cómo la tecnología cambia el estilo de vida
+- [[_Economy Hub|Economía]]: Contribución económica de la industria de servicios de vida
 
 ---
 

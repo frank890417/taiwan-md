@@ -104,16 +104,16 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ## Lectura Adicional
 
-- [[Monte Jade]]​: El espectáculo geológico del pico más alto del noreste de Asia
-- [[Parque Nacional Taroko]]​: El arte topográfico del desfiladero de mármol
-- [[Cordillera Central]]​: La columna vertebral geológica de Taiwán
-- [[Valle Longitudinal de Huadong]]​: Testimonio topográfico del movimiento de placas
-- [[Trópico de Cáncer]]​: Marca geográfica de la división climática
-- [[Archipiélago de Penghu]]​: Tesoro geológico de islas volcánicas de basalto
-- [[Acantilados de Qingshui]]​: El magnífico acantilado de la Cordillera Costera
-- [[Llanura de Chianan]]​: El valor agrícola de la llanura de abanicos aluviales
-- [[Cuenca de Taipei]]​: Cuenca estructural cortada por río a través de montañas
-- [[Estrecho de Taiwán]]​: Importante vía de agua que conecta el Mar del Sur de China y el Mar de China Oriental
+- [[Monte Jade]]: El espectáculo geológico del pico más alto del noreste de Asia
+- [[Parque Nacional Taroko]]: El arte topográfico del desfiladero de mármol
+- [[Cordillera Central]]: La columna vertebral geológica de Taiwán
+- [[Valle Longitudinal de Huadong]]: Testimonio topográfico del movimiento de placas
+- [[Trópico de Cáncer]]: Marca geográfica de la división climática
+- [[Archipiélago de Penghu]]: Tesoro geológico de islas volcánicas de basalto
+- [[Acantilados de Qingshui]]: El magnífico acantilado de la Cordillera Costera
+- [[Llanura de Chianan]]: El valor agrícola de la llanura de abanicos aluviales
+- [[Cuenca de Taipei]]: Cuenca estructural cortada por río a través de montañas
+- [[Estrecho de Taiwán]]: Importante vía de agua que conecta el Mar del Sur de China y el Mar de China Oriental
 
 ---
 

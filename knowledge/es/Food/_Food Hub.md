@@ -60,16 +60,16 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ## Lectura Adicional
 
-- [[night-market-culture]]​: El núcleo de la gastronomía popular taiwanesa
-- [[Sopa de Fideos con Carne]]​: El desarrollo del alimento nacional taiwanés
-- [[bubble-tea]]​: La influencia global de la cultura de té agitado taiwanés
-- [[taiwanese-street-food]]​: La rica variedad de comida callejera
-- [[tea-culture]]​: Del arte del té tradicional a las bebidas de té modernas
-- [[Cocina Indígena]]​: La cultura alimentaria más primitiva de Taiwán
-- [[Cocina de Pueblos Militares]]​: Memoria gastronómica de inmigrantes de provincias externas
-- [[Cocina Hakka]]​: Sabor hakka salado y rico
-- [[Cocina Hokkien]]​: Sistema culinario de Fujian ligero y fresco
-- [[Cocina Taiwanesa]]​: Desarrollo localizado de la cocina taiwanesa
+- [[night-market-culture]]: El núcleo de la gastronomía popular taiwanesa
+- [[Sopa de Fideos con Carne]]: El desarrollo del alimento nacional taiwanés
+- [[bubble-tea]]: La influencia global de la cultura de té agitado taiwanés
+- [[taiwanese-street-food]]: La rica variedad de comida callejera
+- [[tea-culture]]: Del arte del té tradicional a las bebidas de té modernas
+- [[Cocina Indígena]]: La cultura alimentaria más primitiva de Taiwán
+- [[Cocina de Pueblos Militares]]: Memoria gastronómica de inmigrantes de provincias externas
+- [[Cocina Hakka]]: Sabor hakka salado y rico
+- [[Cocina Hokkien]]: Sistema culinario de Fujian ligero y fresco
+- [[Cocina Taiwanesa]]: Desarrollo localizado de la cocina taiwanesa
 
 ---
 
