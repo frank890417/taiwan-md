@@ -112,7 +112,7 @@ Taiwan.md에게 있어, 이는 또한 글쓰기의 경계이다: 제례 절차�
 
 그것들은 Mayasvi의 불이 한 밤을 비추는 것뿐만 아니라, 부족이 기억을 다음 세대에 어떻게 전달하는지 비추게 한다.
 
-##延伸阅读
+## 더 읽을거리
 
 - [원주민위원회: 쯔오족 민족 소개](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65)
 - [원주민문헌: 쯔오족 전제 mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151)

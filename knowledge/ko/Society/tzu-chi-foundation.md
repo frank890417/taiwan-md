@@ -100,7 +100,7 @@ _사진: William Cho／[위키미디어 커먼즈 파일 페이지](https://comm
 
 이것은 아마도 자비재단이 대만에 주는 가장 흥미로운 경고일 것이다. 공공 행동은 반드시 거액으로 시작되는 것이 아니며, 고정되고, 미소하며, 반복 가능한 습관으로부터 시작될 수도 있다. 한 습관이 조직에 의해 적절히 수용된다면, 화론후의 채소 시장으로부터 글로벌 재난 현장까지 이어질 수 있다.
 
-###延伸阅读
+### 더 읽을거리
 
 자비재단이 자신의 시작점을 어떻게 설명하는지 먼저 보고 싶다면, [자비재단 글로벌 공식 역사](https://global.tzuchi.org/history)를 읽을 수 있다. 그것이 어떻게 국제 NGO가 되는지 이해하고 싶다면, 캠브리지의 [〈Becoming INGO: A Case Study on Taiwan’s Tzu-Chi in the United States〉](https://doi.org/10.1007/s11266-020-00270-1)를 읽을 수 있다. 2024년 화론후 지진의 조직 연구를 보고 싶다면, [타이베이 의과대학 연구 초록](https://hub.tmu.edu.tw/en/publications/disaster-relief-strategies-of-the-buddhist-tzu-chi-charity-founda/)을 읽을 수 있다.
 

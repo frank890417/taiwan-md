@@ -176,7 +176,7 @@ _이미지: 이란 현 깃발, Wikimedia Commons, 퍼블릭 도메인/PD-ROC-exe
 
 📝 **큐레이터 노트:** 도시의 진정한 미는 생활 흔적을 지우는 것이 아니라, 생활 흔적이 서로 밟히지 않아도 여전히 함께 화면에 나타날 수 있도록 하는 것이다.
 
-##延伸阅读
+## 더 읽을거리
 
 - [베이다 특별구: 30년 도시 계획과 대학 도시 생활 실험](https://taiwan.md/geography/%E5%8C%97%E5%A4%A7%E7%89%B9%E5%8D%80/) — 기존 Taiwan.md 항목, 베이다 특별구의 도시 계획, 공간 미학, 인구 및 지역 정체성을 심층적으로 처리한다.
 - [Starting from Street Signs](https://thecityateyelevel.com/stories/starting-from-street-signs/) — 타이베이 북문 거리 간판 프로젝트를 예로 들어, 커뮤니티 참여, 간판 규범 및 공공 공간 디자인을 설명한다.

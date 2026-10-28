@@ -314,7 +314,7 @@ framing chain은 '공산당 주문 → 국민당 확산 → 미디어 확대'보
 
 ---
 
-##延伸阅读
+## 더 읽을거리
 
 - [인지전](/ko/society/cognitive-warfare-against-taiwan) — 공산당 정보 조작의 전체 프레임과 대만 사회 반제 메커니즘
 - [2026 정습회와 국공 10년 재회](/ko/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — 동시 양안 관계의 다른 inflection point

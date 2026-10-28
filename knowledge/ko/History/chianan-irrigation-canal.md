@@ -141,7 +141,7 @@ _사진 출처: 교통부 관광국 시야야 국가 풍경구 관리처 〈우�
 
 이 문제는 오늘도 물소리를 내고 있다. 독자가 수로를 따라 걸으면, 여전히 그것을 만날 수 있다.
 
-##延伸阅读
+## 더 읽을거리
 
 [농업부 농전수리서: 가난 대저수지 연간 연혁](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=3&listid=109); [문화부: 우산두 저수지 및 가난 대저수지 수리 시스템](https://www.moc.gov.tw/en/News_Content2.aspx?n=398&s=14057); [농매체: 가난 대저수지의 연간 급수 달력](https://www.agriharvest.tw/archives/33933/).
 
