@@ -27,10 +27,20 @@ import re
 import sys
 from pathlib import Path
 
-REF_RE = re.compile(r"\[\d+\]\(#user-content-fn-([0-9A-Za-z_-]+)\)")
-BACKREF_RE = re.compile(r"\s*\[↩(?:\d+)?\]\(#user-content-fnref-[0-9A-Za-z_-]+\)")
+# 正文引用的四種寫法都要吃（2026-10-28 補）：
+#   [1](#user-content-fn-9)            GitHub 複製貼上的原形
+#   [^1](#user-content-fn-9)           譯者已改 label、destination 沒換的混合形
+#   [1]( #user-content-fn-9)           destination 前夾空白（機翻貼上）
+#   [1](\u200a#user-content-fn-9)      destination 前夾隱形字元（ZWSP / HAIR SPACE）
+# 後兩種的雜訊會讓舊版 `\(#user-content-fn-…\)` 整條認不出來，於是檔案「看起來」
+# 沒有殘留，實際上點下去還是死的。雜訊一律隨連結一起丟掉。
+# 注意：`#user-content-fn-` 不會誤吃 `#user-content-fnref-`（後者 fn 後面不是 `-`）。
+REF_RE = re.compile(r"\[(?:\^)?\d+\]\([^)]*#user-content-fn-([0-9A-Za-z_-]+)[^)]*\)")
+BACKREF_RE = re.compile(
+    r"\s*\[↩(?:\d+)?\]\([^)]*#user-content-fnref-[0-9A-Za-z_-]+[^)]*\)"
+)
 DEF_RE = re.compile(
-    r"^\s*\d+\.\s+(?P<text>.*?)\s*(?P<backrefs>\[↩(?:\d+)?\]\(#user-content-fnref-(?P<id>[0-9A-Za-z_-]+)\).*)$"
+    r"^\s*\d+\.\s+(?P<text>.*?)\s*(?P<backrefs>\[↩(?:\d+)?\]\([^)]*#user-content-fnref-(?P<id>[0-9A-Za-z_-]+)[^)]*\).*)$"
 )
 # 來源敘述慣用排法：作者 ，〈標題〉，《媒體》，日期。[URL](URL)
 SOURCE_RE = re.compile(

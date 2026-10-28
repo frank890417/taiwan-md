@@ -36,10 +36,15 @@ DEFAULT_SEVERITY = Severity.WARN
 EDITORIAL_REF = "CITATION-GUIDE §腳註格式（腳註用 [^N] Markdown 語法，不是 GitHub 渲染後的錨點）"
 APPLIES_TO = ["*"]
 
-# 正文引用：[1](#user-content-fn-9)
-_REF = re.compile(r"\[\d+\]\(#user-content-fn-[0-9A-Za-z_-]+\)")
+# 正文引用：[1](#user-content-fn-9)，以及譯本裡的兩種變形——
+# `[^1](#user-content-fn-9)`（label 改了、destination 沒換）與 destination 前後
+# 夾了空白／隱形字元的 `[1]( #user-content-fn-9)`。舊版只認第一種，後兩者在檔案
+# 裡「看不見」：check 綠燈、Astro 站上點下去不會動。
+_REF = re.compile(r"\[\^?\d+\]\([^)]*#user-content-fn-[0-9A-Za-z_-]+[^)]*\)")
 # 文末定義行尾巴的回跳箭頭：[↩](#user-content-fnref-9) / [↩2](#user-content-fnref-9-2)
-_BACKREF = re.compile(r"\[↩(?:\d+)?\]\(#user-content-fnref-[0-9A-Za-z_-]+\)")
+_BACKREF = re.compile(
+    r"\[↩(?:\d+)?\]\([^)]*#user-content-fnref-[0-9A-Za-z_-]+[^)]*\)"
+)
 
 
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
