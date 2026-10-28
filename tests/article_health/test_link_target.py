@@ -44,6 +44,11 @@ def fake_knowledge(tmp_path, monkeypatch):
     (root / "en" / "history" / "qing-dynasty.md").write_text("---\ntitle: x\n---\n")
     (root / "en" / "music").mkdir(parents=True)
     (root / "en" / "music" / "fire-ex.md").write_text("---\ntitle: x\n---\n")
+    # Slug with a space → its route can only be written percent-encoded.
+    (root / "Art").mkdir()
+    (root / "Art" / "FAB DAO與百岳計畫.md").write_text("---\ntitle: x\n---\n")
+    (root / "People").mkdir()
+    (root / "People" / "阿滴.md").write_text("---\ntitle: x\n---\n")
     monkeypatch.setattr(link_target, "_KNOWLEDGE_ROOT", root)
     # Hermetic: an empty `src/pages` so the real repo routes never leak in.
     monkeypatch.setattr(link_target, "_PAGES_ROOT", tmp_path / "src" / "pages")
@@ -263,3 +268,26 @@ def test_static_route_not_rewritten_by_fix(tmp_path, fake_pages):
     target = load_target(f)
     assert link_target.fix(target, {}) == 0
     assert "/elections/2026/" in f.read_text(encoding="utf-8")
+
+
+# ─── Phase 2d: percent-encoding ──────────────────���──────────────────────
+#
+# 2026-10-28: `decode-ok` asked contributors to rewrite `/art/FAB%20DAO與百岳計畫`
+# into `/art/FAB DAO與百岳計畫` — an unparseable markdown destination (CommonMark
+# forbids bare spaces; `_RE_INTERNAL` can't even match it). 5 corpus links
+# (4 × FAB DAO, 1 × `/politics/2026%20九合一選舉`) were flagged for being right.
+
+
+def test_percent_encoded_space_route_passes(tmp_path, fake_knowledge):
+    body = "見[百岳計畫](/art/FAB%20DAO與百岳計畫)。\n"
+    violations, _ = _check(tmp_path, body)
+    assert violations == []
+
+
+def test_percent_encoded_cjk_still_suggests_decode(tmp_path, fake_knowledge):
+    """No space → decoding is safe and preferred, so the warn stays."""
+    body = "見[阿滴](/people/%E9%98%BF%E6%BB%B4)。\n"
+    violations, _ = _check(tmp_path, body)
+    decode = [v for v in violations if "percent-encoding" in v.message]
+    assert len(decode) == 1
+    assert decode[0].fix_suggestion == "/people/阿滴"

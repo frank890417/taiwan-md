@@ -314,6 +314,14 @@ def _resolve_path(path: str, valid: set[str]) -> tuple[str | None, list[tuple[st
                     return c, [], "case"
                 return c, [], "ok"
             if "%" in raw or decoded != raw:
+                # 解碼後含空白：`[x](/art/FAB DAO與百岳計畫)` 不是合法的 markdown
+                # destination（CommonMark 未加角括號的 destination 不吃空白，
+                # `_RE_INTERNAL` 自己也抓不到這種寫法），percent-encoding 是這條路由
+                # 唯一能寫的形式。2026-10-28：全庫 5 條（`/art/FAB%20DAO與百岳計畫`
+                # ×4、`/politics/2026%20九合一選舉` ×1）原本被要求「修成」一個更壞的
+                # 寫法。內容是對的，不報。
+                if any(ch.isspace() for ch in c):
+                    return c, [], "ok"
                 return c, [], "decode-ok"
             return c, [], "ok"
 
