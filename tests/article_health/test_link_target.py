@@ -45,6 +45,25 @@ def fake_knowledge(tmp_path, monkeypatch):
     (root / "en" / "music").mkdir(parents=True)
     (root / "en" / "music" / "fire-ex.md").write_text("---\ntitle: x\n---\n")
     monkeypatch.setattr(link_target, "_KNOWLEDGE_ROOT", root)
+    # Hermetic: an empty `src/pages` so the real repo routes never leak in.
+    monkeypatch.setattr(link_target, "_PAGES_ROOT", tmp_path / "src" / "pages")
+    link_target._reset_cache()
+    yield root
+    link_target._reset_cache()
+
+
+@pytest.fixture
+def fake_pages(tmp_path, monkeypatch, fake_knowledge):
+    """Add hand-written `src/pages/` routes (plus a dynamic one to ignore)."""
+    root = tmp_path / "src" / "pages"
+    (root / "elections" / "2026").mkdir(parents=True)
+    (root / "elections" / "2026" / "index.astro").write_text("")
+    (root / "semiont").mkdir()
+    (root / "semiont" / "speciation.astro").write_text("")
+    (root / "companies.astro").write_text("")
+    (root / "[category]").mkdir()
+    (root / "[category]" / "[slug].astro").write_text("")
+    monkeypatch.setattr(link_target, "_PAGES_ROOT", root)
     link_target._reset_cache()
     yield root
     link_target._reset_cache()
@@ -195,3 +214,52 @@ def test_frontmatter_preserved_after_fix(tmp_path, fake_knowledge):
     new_text = f.read_text(encoding="utf-8")
     assert new_text.startswith("---\ntitle: Test\nauthor: X\n---\n")
     assert "/en/history/qing-dynasty/" in new_text
+
+
+# ─── Phase 2c: hand-written pages under src/pages/ ──────────────────────
+#
+# 2026-10-28: Phase 2 indexed only `knowledge/**.md`, so `/elections/2026`
+# and `/semiont/speciation` — both real routes built from src/pages/*.astro —
+# were reported 「目標不存在」. 4 zh files / 5 occurrences of pure noise.
+
+
+def test_static_route_index_shape(fake_pages):
+    routes = link_target._existing_static_routes()
+    assert "/elections/2026" in routes  # .../2026/index.astro → no /index
+    assert "/semiont/speciation" in routes
+    assert "/companies" in routes  # companies.astro → single segment
+    assert not any("[" in r for r in routes)  # dynamic params never indexed
+
+
+def test_handwritten_page_route_passes(tmp_path, fake_pages):
+    body = (
+        "見[2026 選舉](/elections/2026/)。\n"
+        "另見[物種形成](/semiont/speciation)。\n"
+    )
+    violations, _ = _check(tmp_path, body)
+    assert violations == []
+
+
+def test_dynamic_route_param_still_warns(tmp_path, fake_pages):
+    """`/companies` exists but `/companies/台積電` is not a buildable route."""
+    body = "見[台積電](/companies/台積電/)。\n"
+    violations, _ = _check(tmp_path, body)
+    existence = [v for v in violations if "目標不存在" in v.message]
+    assert len(existence) == 1
+    assert existence[0].severity == Severity.WARN
+
+
+def test_missing_article_still_warns_with_pages_index(tmp_path, fake_pages):
+    """Route index must not swallow genuinely missing article slugs."""
+    body = "見[不存在](/history/不存在的一篇/)。\n"
+    violations, _ = _check(tmp_path, body)
+    existence = [v for v in violations if "目標不存在" in v.message]
+    assert len(existence) == 1
+
+
+def test_static_route_not_rewritten_by_fix(tmp_path, fake_pages):
+    body = "見[2026 選舉](/elections/2026/)。\n"
+    f = _write_tmp(tmp_path, body)
+    target = load_target(f)
+    assert link_target.fix(target, {}) == 0
+    assert "/elections/2026/" in f.read_text(encoding="utf-8")

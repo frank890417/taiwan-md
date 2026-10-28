@@ -27,6 +27,15 @@ for the full build.
 Trigger: 2026-05-04 jovial-feistel session — CI run 25325225046 failed with
 649 broken `](/lang/UpperCase/...)` links (Phase 1). Cheyu pushed for Phase 2
 during fix: "目前有檢查內容交叉連結能否到達真實頁面嗎？沒有的話怎麼改良工具".
+
+Evolution 2026-10-28 (english-opener batch): Phase 2 indexed only
+`knowledge/**.md`, so any link to a hand-written page under `src/pages/`
+(`/elections/2026`, `/semiont/speciation`) was reported as 「目標不存在」.
+Those are real, buildable routes — 5 false positives across 4 zh articles at
+the time. Phase 2 now also resolves against a static-route index derived from
+`src/pages/` (dynamic `[param]` segments excluded, so `/companies/台積電`
+still fails while `/companies` passes). A ruler that cries wolf gets ignored;
+see REFLEXES #99.
 """
 
 from __future__ import annotations
@@ -62,6 +71,7 @@ APPLIES_TO = ["*"]
 _LANGS = set(ALL_LANGS)
 _TRANSLATION_LANGS = set(TRANSLATION_LANGS)
 _KNOWLEDGE_ROOT = Path("knowledge")
+_PAGES_ROOT = Path("src/pages")
 
 # High-confidence fuzzy auto-heal threshold (unique top match only).
 _FUZZY_AUTO_RATIO = 0.90
@@ -118,10 +128,47 @@ def _existing_link_targets() -> set[str]:
     return paths
 
 
+def _existing_static_routes() -> set[str]:
+    """Set of internal routes served by hand-written pages under `src/pages/`.
+
+    Astro files map to URLs by path: `src/pages/elections/2026/index.astro`
+    → `/elections/2026`, `src/pages/semiont/speciation.astro` →
+    `/semiont/speciation`, `src/pages/en/about.astro` → `/en/about`.
+
+    Skipped on purpose:
+      - any path segment containing `[` (dynamic routes: the param value has no
+        filesystem counterpart, so `/companies/台積電` must keep failing while
+        `/companies` resolves via `companies.astro`)
+      - `_`-prefixed segments (Astro partials)
+    Trailing `/index` and the `.astro`/`.ts` extension are stripped.
+
+    Cached per-process; `_reset_cache()` invalidates it.
+    """
+    cached = getattr(_existing_static_routes, "_cache", None)
+    if cached is not None:
+        return cached
+    routes: set[str] = set()
+    if _PAGES_ROOT.exists():
+        for f in _PAGES_ROOT.rglob("*"):
+            if not f.is_file() or f.suffix not in {".astro", ".ts"}:
+                continue
+            parts = f.relative_to(_PAGES_ROOT).parts
+            if any(p.startswith("_") or "[" in p for p in parts):
+                continue
+            stem_parts = list(parts[:-1]) + [f.stem]
+            if stem_parts and stem_parts[-1] == "index":
+                stem_parts = stem_parts[:-1]
+            routes.add("/" + "/".join(stem_parts))
+    _existing_static_routes._cache = routes  # type: ignore[attr-defined]
+    return routes
+
+
 def _reset_cache() -> None:
-    """Test helper — invalidate the path cache."""
+    """Test helper — invalidate the path + route caches."""
     if hasattr(_existing_link_targets, "_cache"):
         delattr(_existing_link_targets, "_cache")
+    if hasattr(_existing_static_routes, "_cache"):
+        delattr(_existing_static_routes, "_cache")
 
 
 def _line_col(text: str, pos: int) -> tuple[int, int]:
@@ -277,6 +324,15 @@ def _resolve_path(path: str, valid: set[str]) -> tuple[str | None, list[tuple[st
         if hit:
             return hit, [], "case"
 
+    # 3c. 手寫頁路由（非知識文章）：/elections/2026、/semiont/speciation 這類
+    #     src/pages 底下真有頁面的路徑。以前 Phase 2 只認 knowledge/*.md，
+    #     這幾條被誤報成「目標不存在」（2026-10-28：4 檔 5 處）。
+    routes = _existing_static_routes()
+    if routes:
+        for p in (raw, decoded):
+            if p in routes:
+                return p, [], "static"
+
     # 4. fuzzy on the best canonical form (prefer decoded)
     probe = ordered[-1] if ordered else _canonicalize_path(decoded)
     suggestions = _suggest_paths(probe, valid, n=3)
@@ -323,7 +379,7 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         resolved, suggestions, status = _resolve_path(path, valid)
         line, col = _line_col(body, m.start())
 
-        if status == "ok":
+        if status in ("ok", "static"):
             continue
 
         if status == "case":
