@@ -39,6 +39,7 @@
     "test:ci": "npm run test:markdown && npm run test:heading-id && node scripts/core/test-frontmatter.mjs --ci",
     "test:markdown": "node --test tests/markdown-cjk.test.mjs tests/category-hub-links.test.mjs",
     "test:heading-id": "node --experimental-strip-types --test tests/article-heading-id.test.mjs",
+    "test:anchors": "node --experimental-strip-types --test tests/article-anchor-integrity.test.mjs",
     "test:footnote": "node --experimental-strip-types --test tests/article-footnote.test.mjs",
     "test:terminology-wording": "node --experimental-strip-types --test tests/terminology-wording.test.mjs",
     "postbuild": "node scripts/core/emit-sitemap-alias.mjs && node scripts/tools/check-url-contract.mjs --strict",
@@ -78,7 +79,7 @@
     "check:tmpl-lang": "node scripts/tools/check-template-language.mjs",
     "check:rendered-lang": "node scripts/tools/check-rendered-language.mjs --dist dist --lang ar",
     "check:sticky": "node scripts/tools/check-sticky-viewport.mjs",
-    "test:contracts": "npm run test:markdown && npm run test:heading-id && npm run test:footnote && npm run test:terminology-wording && node --test tests/pr-changed-files.test.mjs tests/dashboard-coverage.test.mjs tests/dashboard-safe-html.test.mjs tests/ui-icons.test.mjs workers/mcp/test/*.test.js && npm run feedback:test",
+    "test:contracts": "npm run test:markdown && npm run test:heading-id && npm run test:anchors && npm run test:footnote && npm run test:terminology-wording && node --test tests/pr-changed-files.test.mjs tests/dashboard-coverage.test.mjs tests/dashboard-safe-html.test.mjs tests/ui-icons.test.mjs workers/mcp/test/*.test.js && npm run feedback:test",
     "check:types": "astro check --minimumFailingSeverity error --minimumSeverity error",
     "prebuild:icons": "node scripts/core/generate-icons.mjs"
   },
