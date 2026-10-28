@@ -163,10 +163,10 @@ Er hat in sechsundzwanzig Jahren ein Leben gelebt, das keineswegs durch ein einz
 Dieser Artikel verwendet 3 Alben-Cover, alle im Rahmen von „Fair Use / redaktiver Kommentar“ zitiert, auf dem Server zwischengespeichert (kein Hotlinking) und ausschließlich zur Vorstellung der musikalischen Werke:
 
 - [„Shǒuxià Liúqíng“ (1994)](https://music.apple.com/tw/album/手下留情/) — Cover © Dàlè Yīnyuè (Hero)
-- [„Ràng Měi​gèrén Dōu Xīnchuí“ (1990)](https://music.apple.com/tw/album/讓每個人都心碎/) — Cover © Kědéng Cángpǐn
+- [„Ràng Měigèrén Dōu Xīnchuí“ (1990)](https://music.apple.com/tw/album/讓每個人都心碎/) — Cover © Kědéng Cángpǐn
 - [„Qiūtiān 1944“ (2000)](https://music.apple.com/tw/album/秋天1944/) — Cover © Dàyǔ / Xīnlì Yīnyuè
 
-Die im Text eingebetteten YouTube-Videos „Ràng Měi​gèrén Dōu Xīnchuí“ und „Chéngzài Fēng“ stammen beide vom offiziellen Musikvideo-Verlag Kědéng Cángpǐn (Coden).
+Die im Text eingebetteten YouTube-Videos „Ràng Měigèrén Dōu Xīnchuí“ und „Chéngzài Fēng“ stammen beide vom offiziellen Musikvideo-Verlag Kědéng Cángpǐn (Coden).
 
 ## Quellenangaben
 

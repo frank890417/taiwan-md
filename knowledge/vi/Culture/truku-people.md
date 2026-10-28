@@ -33,9 +33,9 @@ _1910, hội đại diện các xã Truku và đại diện chính phủ Nhật 
 
 ## Huang Changxing phết bản đồ lên con đường núi
 
-Năm 2024, Huang Changxing từ bản làng Wén​lán, huyện Tân​hương, Hualien, Đài Loan, xuất bản cuốn sách "Người Truku mọc lên ở phía đông Đài Loan". Ông không ngồi viết gia phả mà mang theo hơn ba thập kỷ đào tạo quân sự trở về rừng núi: từ 65 tuổi, ông bắt đầu hỗ trợ điều tra lĩnh vực truyền thống, mỗi chuyến đi ngắn nhất mất 4 ngày, dài nhất mất 12 ngày.[^1]
+Năm 2024, Huang Changxing từ bản làng Wénlán, huyện Tânhương, Hualien, Đài Loan, xuất bản cuốn sách "Người Truku mọc lên ở phía đông Đài Loan". Ông không ngồi viết gia phả mà mang theo hơn ba thập kỷ đào tạo quân sự trở về rừng núi: từ 65 tuổi, ông bắt đầu hỗ trợ điều tra lĩnh vực truyền thống, mỗi chuyến đi ngắn nhất mất 4 ngày, dài nhất mất 12 ngày.[^1]
 
-Huang Changxing bắt đầu đi bộ lên núi Qī​lái ở độ tuổi 8. Sau đó ông gia nhập lực lượng đặc biệt, và tiếp tục huấn luyện trên núi Tho​ng​gông và đỉnh nam Qī​lái. Từ năm 93 đến năm 103 (theo lịch Đài Loan), ông được mời tham gia điều tra lĩnh vực truyền thống, cùng với các thanh thiếu niên so sánh bản đồ, địa hình và lời kể của người già, ghi lại các tuyến di chuyển, các tuyến chiến tranh kháng Nhật và sinh thái học.[^1]
+Huang Changxing bắt đầu đi bộ lên núi Qīlái ở độ tuổi 8. Sau đó ông gia nhập lực lượng đặc biệt, và tiếp tục huấn luyện trên núi Thonggông và đỉnh nam Qīlái. Từ năm 93 đến năm 103 (theo lịch Đài Loan), ông được mời tham gia điều tra lĩnh vực truyền thống, cùng với các thanh thiếu niên so sánh bản đồ, địa hình và lời kể của người già, ghi lại các tuyến di chuyển, các tuyến chiến tranh kháng Nhật và sinh thái học.[^1]
 
 Ông nói, những lệch đường và địa điểm định cư trong quá khứ chỉ có ít tài liệu chữ Nhật còn lại, phần lớn nội dung được giữ lại trong câu chuyện truyền miệng của người già. Cuối cùng, ông và nhóm nghiên cứu tìm thấy hơn 300 điểm làng cũ. Số liệu này không nặng nề như một kết quả khảo cổ học, mà mỗi điểm đều kéo câu "chúng tôi từng sống ở đây" ra khỏi truyền thuyền và lên bản đồ.
 
@@ -43,11 +43,11 @@ Huang Changxing bắt đầu đi bộ lên núi Qī​lái ở độ tuổi 8. S
 
 ## Tên gọi không phải là sáng chế, mà là sự trở về
 
-Theo ghi nhận của Trang mạng kiến thức văn hóa dân tộc bản địa, thành phố Đài Bắc, tên gọi truyền thống của dân tộc Truku bắt đầu từ Đắk Lâm (Truku Truwan). Người dân trước tiên hình thành ký ức sống chung ở khu vực Nhân​ái, huyện Tân​hương, sau đó vào thế kỷ 17 và 18, họ vượ qua núi Qī​lái, núi Néng​gāo và núi Hé​huān, đi về phía đông tới Hualien, dọc theo suối Lìwū, suối Truku và các dòng sông khác để thành lập bản làng.
+Theo ghi nhận của Trang mạng kiến thức văn hóa dân tộc bản địa, thành phố Đài Bắc, tên gọi truyền thống của dân tộc Truku bắt đầu từ Đắk Lâm (Truku Truwan). Người dân trước tiên hình thành ký ức sống chung ở khu vực Nhânái, huyện Tânhương, sau đó vào thế kỷ 17 và 18, họ vượ qua núi Qīlái, núi Nénggāo và núi Héhuān, đi về phía đông tới Hualien, dọc theo suối Lìwū, suối Truku và các dòng sông khác để thành lập bản làng.
 
-Lịch sử này không thể chỉ được viết đơn giản là "di chuyển từ Tân​hương tới Hualien". Những tên gọi như Đắk Lâm, Truku, Tgdaya, Toda đều chỉ tới những trải nghiệm cư trú và nhận thức nhóm khác nhau. Sau khi di chuyển về phía đông, người dân lại lập các bản làng mới tại các vùng như suối Lìwū, suối Sān​zhàn, suối Mít​guā và suối Qīng​shuǐ.
+Lịch sử này không thể chỉ được viết đơn giản là "di chuyển từ Tânhương tới Hualien". Những tên gọi như Đắk Lâm, Truku, Tgdaya, Toda đều chỉ tới những trải nghiệm cư trú và nhận thức nhóm khác nhau. Sau khi di chuyển về phía đông, người dân lại lập các bản làng mới tại các vùng như suối Lìwū, suối Sānzhàn, suối Mítguā và suối Qīngshuǐ.
 
-Hiện nay, nơi cư trú chính của họ tập trung ở ba huyện của Hualien, bao gồm Tân​hương, Wàn​róng và Chuo​xī, cũng như ba thôn làng ở huyện Jī​'ān, gồm Thanh​fēng, Nánhua và Fú​xīng. Sự phân bố này nhắc nhở chúng ta rằng dân tộc Truku không chỉ tồn tại trong khung cảnh thung lũng mà du khách quen thuộc, mà còn hiện hữu trong các bản làng bằng phẳng, gia đình, trường học và việc sử dụng ngôn ngữ hàng ngày.
+Hiện nay, nơi cư trú chính của họ tập trung ở ba huyện của Hualien, bao gồm Tânhương, Wànróng và Chuoxī, cũng như ba thôn làng ở huyện Jī'ān, gồm Thanhfēng, Nánhua và Fúxīng. Sự phân bố này nhắc nhở chúng ta rằng dân tộc Truku không chỉ tồn tại trong khung cảnh thung lũng mà du khách quen thuộc, mà còn hiện hữu trong các bản làng bằng phẳng, gia đình, trường học và việc sử dụng ngôn ngữ hàng ngày.
 
 ![Khoảng năm 1918, phụ nữ dân tộc Truku mang gỗ củi](https://commons.wikimedia.org/wiki/Special:FilePath/Truku_female_carrying_firewood.jpg?width=1200)
 _Khoảng năm 1918, phụ nữ dân tộc Truku mang gỗ củi. Nguồn: "Bản đồ dân tộc bản địa Đài Loan" 1918. Tác giả không rõ. Wikimedia Commons, phạm vi công cộng._
@@ -68,7 +68,7 @@ Cùng một bài viết ghi nhận, quân đông phương và tây phương củ
 
 Hai bộ số liệu này không thể cộng lại một cách vô phép. Thay vào đó, chúng nhắc nhở chúng ta rằng "số người" trong lịch sử chiến tranh phụ thuộc vào đối tượng thống kê — đó là quân và cảnh sát, công nhân hỗ trợ, dân số bản làng hay chiến binh tham gia. Điều chắc chắn là đây không phải là một xung đột biên giới công bằng, mà là một trận quyết tranh then chốt để nhà nước đưa vùng núi vào hệ thống cai trắt thông qua khảo sát, tuyến phòng thủ, lực lượng và vũ khí.
 
-Theo dữ liệu chính thức của Sở Tư pháp Đài Bắc, trong thời kỳ thuộc địa Nhật, đất đai của các bản làng Truku bị coi là đất nhà nước. Ba sự kiện tiêu biểu là: sự kiện Xin​chéng năm 1896, sự kiện Wēilǐ năm 1906 và sự kiện Truku năm 1914. Sau chiến dịch, người dân sâu trong rừng bị buộc phải di chuyển xuống chân núi và được phân tán đến các bản làng mới.
+Theo dữ liệu chính thức của Sở Tư pháp Đài Bắc, trong thời kỳ thuộc địa Nhật, đất đai của các bản làng Truku bị coi là đất nhà nước. Ba sự kiện tiêu biểu là: sự kiện Xinchéng năm 1896, sự kiện Wēilǐ năm 1906 và sự kiện Truku năm 1914. Sau chiến dịch, người dân sâu trong rừng bị buộc phải di chuyển xuống chân núi và được phân tán đến các bản làng mới.
 
 > **Ghi chú của nhà soạn trưng:** Đối với dân tộc Truku, mất đi không chỉ là một mảnh đất. Khi một tuyến đường di chuyển bị cắt đứt, cái tên, tổ tiên, khu vực săn và ngôi nhà sẽ trở nên khó khăn để chứng minh.
 
@@ -88,7 +88,7 @@ Cuộc sống hiện đại của người Truku cũng có thể đồng thời 
 
 ## Ngôi nhà là hình dạng của lịch sử di chuyển
 
-Dạng ngôi nhà của dân tộc Truku gắn liền chặt chẽ với lịch sử di chuyển. Theo tài liệu của Ủy ban Dân tộc Bản địa, ngôi nhà bán hổ tụng của Tân​hương được xây bằng gỗ và ngôi nhà tre của Hualien được xây bằng tre: trước tiên, nền nhà được đào sâu, tường được xếp bằng gỗ ngang và mái nhà được phủ bằng đá cẩm thạch; sau đó, ngôi nhà được xây dần từ nền lên bằng liệu tre, mái nhà được phủ bằng rơm.
+Dạng ngôi nhà của dân tộc Truku gắn liền chặt chẽ với lịch sử di chuyển. Theo tài liệu của Ủy ban Dân tộc Bản địa, ngôi nhà bán hổ tụng của Tânhương được xây bằng gỗ và ngôi nhà tre của Hualien được xây bằng tre: trước tiên, nền nhà được đào sâu, tường được xếp bằng gỗ ngang và mái nhà được phủ bằng đá cẩm thạch; sau đó, ngôi nhà được xây dần từ nền lên bằng liệu tre, mái nhà được phủ bằng rơm.
 
 Hai kiểu kiến trúc này không chỉ là phân loại "kiến trúc truyền thống", mà còn giữ lại sự lựa chọn liệu liệu và chiến lược sống ở môi trường khác nhau. Gỗ, tre, đá và rơm được lấy ở đâu? Ngôi nhà đối mặt với mưa, dốc đồi và nhiệt độ như thế nào? Các công việc trong nhà được phân bổ ra sao? Tất cả những điều này nói nhiều hơn một bức ảnh kiến trúc bên ngoài. Khi một bản làng bị buộc phải di chuyển, không chỉ địa chỉ thay đổi, mà còn liệu liệu nhà ở, khoảng cách gia đình, tuyến đường lễ tế và mối quan hệ hàng xóm.
 
@@ -147,13 +147,13 @@ Cuộc điều tra của Huang Changxing cung cấp một câu trả lời khôn
 
 > **Trích dẫn của biên tập viên:** Tên gọi đã trở lại, nhưng con đường núi vẫn cần phải tự mình đi.
 
-Sự công nhận năm 2004 là một ngày quyết định rõ rệt, nhưng không phải là dấu chấm hết của câu chuyện. Khi người dân trở lại lại núi Qī​lái, suối Lìwū và những hơn 300 điểm làng cũ đã được ghi nhận, lịch sử của dân tộc Truku sẽ chuyển từ một cái tên được phân loại thành một con đường vẫn có người đi lại.
+Sự công nhận năm 2004 là một ngày quyết định rõ rệt, nhưng không phải là dấu chấm hết của câu chuyện. Khi người dân trở lại lại núi Qīlái, suối Lìwū và những hơn 300 điểm làng cũ đã được ghi nhận, lịch sử của dân tộc Truku sẽ chuyển từ một cái tên được phân loại thành một con đường vẫn có người đi lại.
 
 ## Đọc thêm
 
 [Ủy ban Dân tộc Bản địa: Truku](https://www.cip.gov.tw/en/tribe/grid-list/018C6D2BF369BDFDD0636733C6861689/info.html?cumid=B54B5C7E1E0F994092EDA9D0B7048931)
 
-[Tân​hương: Trường lão Truku Huang Changxing đi qua rừng núi hàng chục năm, ghi lại dấu vết di chuyển của dân tộc](https://www.cna.com.tw/news/acul/202408310089.aspx)
+[Tânhương: Trường lão Truku Huang Changxing đi qua rừng núi hàng chục năm, ghi lại dấu vết di chuyển của dân tộc](https://www.cna.com.tw/news/acul/202408310089.aspx)
 
 ## Nguồn ảnh và giấy phép
 
@@ -169,7 +169,7 @@ Sự công nhận năm 2004 là một ngày quyết định rõ rệt, nhưng kh
 
 ## Tài liệu tham khảo
 
-[^1]: [Tân​hương: Trường lão Truku Huang Changxing đi qua rừng núi hàng chục năm, ghi lại dấu vết di chuyển của dân tộc](https://www.cna.com.tw/news/acul/202408310089.aspx) — Báo cáo văn hóa của Tân​hương năm 2024, phỏng vấn trường lão Truku Huang Changxing, ghi nhận hoạt động điều tra lĩnh vực truyền thống, nghiên cứu di chuyển và hơn 300 điểm làng cũ.
+[^1]: [Tânhương: Trường lão Truku Huang Changxing đi qua rừng núi hàng chục năm, ghi lại dấu vết di chuyển của dân tộc](https://www.cna.com.tw/news/acul/202408310089.aspx) — Báo cáo văn hóa của Tânhương năm 2024, phỏng vấn trường lão Truku Huang Changxing, ghi nhận hoạt động điều tra lĩnh vực truyền thống, nghiên cứu di chuyển và hơn 300 điểm làng cũ.
 
 [^2]: [Mạng lưới kiến thức văn hóa dân tộc bản địa Đài Bắc: Lịch sử di chuyển — Dân tộc Truku](https://knowlegde.gov.taipei/News_Content.aspx?n=55BE1C83A051D6B4&sms=9424A464D3C37244&s=F7108731A09221D6) — Bài viết lịch sử do Sở Affair Dân tộc Bản địa Thành phố Đài Bắc quản lý, tổng hợp lịch sử di chuyển của Đắk Lâm, sự di chuyển về phía đông tới Hualien, sự phân bố của các bản làng và sự kiện năm 1914.
 

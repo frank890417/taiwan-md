@@ -16,7 +16,7 @@ subcategory: '交通與移動'
 rationale:
   why_this_hook: 'Từ hộ chiếu phiên bản mới phóng lớn TAIWAN từ năm 2021, hiểu cách nhận dạng bìa, quy định pháp lý, xác thực chíp và chính sách nhập cảnh của mỗi quốc gia cùng tạo thành tác dụng thực tế của hộ chiếu Đài Loan.'
   whats_excluded: 'Không xếp hạng thị thực miễn cấp theo quốc gia, không cung cấp hướng dẫn đăng ký cá nhân, cũng không tương đương trực tiếp thiết kế bìa hộ chiếu với sự công nhận ngoại giao.'
-  where_it_hedges: 'Tách riêng chính sách giải thích của Bộ Ngoại giao, quy định tư pháp lãnh sự, tiêu chuẩn của Tổ chức Hàng không dân dụng quốc tế và nguồn hình ảnh Wikimedia. Quyền đối xử thị thực dựa trên thông báo chính thức mới nhất từ ​​nhà chức trách.'
+  where_it_hedges: 'Tách riêng chính sách giải thích của Bộ Ngoại giao, quy định tư pháp lãnh sự, tiêu chuẩn của Tổ chức Hàng không dân dụng quốc tế và nguồn hình ảnh Wikimedia. Quyền đối xử thị thực dựa trên thông báo chính thức mới nhất từ nhà chức trách.'
   whos_pushing_back: 'Tên quốc gia pháp lý và độ nhận dạng thiết kế bìa tồn tại đồng thời, bài viết này bảo lưu sự khác biệt chế độ giữa hai bên, không kết luận thay cho bất kỳ kế hoạch đặt tên chính sách đơn lẻ nào.'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -99,7 +99,7 @@ Thay đổi này chia "được nhận dạng" thành hai lớp. Mắt người 
 
 ## Miễn thị thực không phải là một điểm số duy nhất của hộ chiếu
 
-Cục Lãnh sự Bộ Ngoại giao trong thông tin du lịch nước ngoài được cập nhật vào ngày 23 tháng 7 năm 2026, liệt kê các quốc gia và khu vực có thể miễn thị thực, cấp thị thực khi hạ cánh hoặc thị thực điện tử, và nhắc nhở rằng các quy định thị thực và nhập cư của mỗi quốc gia sẽ thay đổi, quyền đối xử thực tế nên dựa trên thông báo chính thức mới nhất từ ​​chính phủ quốc gia nhập cảnh. Quốc gia chung cũng thường yêu cầu hộ chiếu có ít nhất sáu tháng hiệu lực. [^7]
+Cục Lãnh sự Bộ Ngoại giao trong thông tin du lịch nước ngoài được cập nhật vào ngày 23 tháng 7 năm 2026, liệt kê các quốc gia và khu vực có thể miễn thị thực, cấp thị thực khi hạ cánh hoặc thị thực điện tử, và nhắc nhở rằng các quy định thị thực và nhập cư của mỗi quốc gia sẽ thay đổi, quyền đối xử thực tế nên dựa trên thông báo chính thức mới nhất từ chính phủ quốc gia nhập cảnh. Quốc gia chung cũng thường yêu cầu hộ chiếu có ít nhất sáu tháng hiệu lực. [^7]
 
 Nhắc nhở này rất dễ bị bỏ qua, bởi vì khi mọi người nói về hộ chiếu thường coi "miễn thị thực" như một khả năng mà hộ chiếu có cố định. Trên thực tế, miễn thị thực là một sắp xếp nhập cảnh của một quốc gia hoặc khu vực khác đối với các điều kiện du lịch cụ thể. Nó có thể bị ảnh hưởng bởi mục đích du lịch, số ngày lưu trú, hiệu lực hộ chiếu, vé máy bay chiều về hoặc các tài liệu khác. [^7]
 
