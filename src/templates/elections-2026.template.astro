@@ -365,8 +365,7 @@ const electionCopy: Record<string, ElectionCopy> = {
       factCheckJoin: '或',
       factCheckSuffix: '。',
       mvp: '本頁於 2026-05-27 上線，後續內容持續補齊。',
-      roadmap:
-        '候選人名冊、投票須知、選務時程與政治獻金已上線；多視角觀點製作中。',
+      roadmap: '候選人名冊、投票須知、選務時程、政治獻金與多視角觀點都已上線。',
       footerPrefix: '🧬 Taiwan.md ——',
       footerEmphasis: '不報導選戰，記錄民主基礎建設',
     },
@@ -637,7 +636,7 @@ const electionCopy: Record<string, ElectionCopy> = {
       factCheckSuffix: 'first.',
       mvp: 'This page went live on 2026-05-27, with additional coverage continuing to be added.',
       roadmap:
-        'The candidate directory, voting guide, election timeline and political donation pages are live. The multi-perspective page is in progress.',
+        'The candidate directory, voting guide, election timeline, political donation and multi-perspective pages are all live.',
       footerPrefix: '🧬 Taiwan.md —',
       footerEmphasis:
         'not campaign coverage, but a record of democratic infrastructure',
@@ -893,7 +892,7 @@ const electionCopy: Record<string, ElectionCopy> = {
       factCheckSuffix: 'を確認してください。',
       mvp: 'このページは2026-05-27に公開され、今後も内容を追加していきます。',
       roadmap:
-        '候補者一覧、投票ガイド、選挙日程、政治献金のページは公開済みです。複数視点のページは制作中です。',
+        '候補者一覧、投票ガイド、選挙日程、政治献金、複数視点のページはすべて公開済みです。',
       footerPrefix: '🧬 Taiwan.md ——',
       footerEmphasis: '選挙戦報道ではなく、民主主義の基盤を記録する',
     },
@@ -1149,7 +1148,7 @@ const electionCopy: Record<string, ElectionCopy> = {
       factCheckSuffix: '를 확인하세요.',
       mvp: '이 페이지는 2026-05-27에 공개되었으며, 추가 내용은 계속 보강됩니다.',
       roadmap:
-        '후보자 명부, 투표 안내, 선거 일정, 정치자금 페이지가 공개되었습니다. 다중 관점 페이지는 제작 중입니다.',
+        '후보자 명부, 투표 안내, 선거 일정, 정치자금, 다중 관점 페이지가 모두 공개되었습니다.',
       footerPrefix: '🧬 Taiwan.md ——',
       footerEmphasis: '선거전 보도가 아니라 민주주의 인프라를 기록합니다',
     },
@@ -1426,7 +1425,7 @@ const electionCopy: Record<string, ElectionCopy> = {
       factCheckSuffix: '.',
       mvp: 'Cette page est en ligne depuis le 27/05/2026 et continue d’être enrichie.',
       roadmap:
-        'Le répertoire des candidats, le guide du vote, le calendrier électoral et la page sur les dons politiques sont en ligne ; la page des perspectives multiples est en préparation.',
+        'Le répertoire des candidats, le guide du vote, le calendrier électoral, la page sur les dons politiques et celle des perspectives multiples sont tous en ligne.',
       footerPrefix: '🧬 Taiwan.md —',
       footerEmphasis:
         'pas de couverture de campagne, mais une trace de l’infrastructure démocratique',
@@ -1700,7 +1699,7 @@ const electionCopy: Record<string, ElectionCopy> = {
       factCheckSuffix: '.',
       mvp: 'Esta página está en línea desde el 27/05/2026 y sigue ampliándose.',
       roadmap:
-        'El directorio de candidatos, la guía de votación, el calendario electoral y la página de donaciones políticas ya están en línea; la página de perspectivas múltiples está en preparación.',
+        'El directorio de candidatos, la guía de votación, el calendario electoral, la página de donaciones políticas y la de perspectivas múltiples ya están en línea.',
       footerPrefix: '🧬 Taiwan.md —',
       footerEmphasis:
         'no cobertura de campaña, sino un registro de la infraestructura democrática',
@@ -3011,7 +3010,12 @@ const lang = getLangFromUrl(Astro.url);
 const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
 const roadmapSlugs = ['timeline', 'candidates', 'donations', 'perspectives'];
 // 已經做好的子頁：卡片整張是連結；不在集合裡的卡片顯示「製作中」、不連結。
-const liveSubpages = new Set(['timeline', 'candidates', 'donations']);
+const liveSubpages = new Set([
+  'timeline',
+  'candidates',
+  'donations',
+  'perspectives',
+]);
 const roadmapCta: Record<string, string> = {
   'zh-TW': '看完整內容',
   en: 'Open the full page',

@@ -1,0 +1,1964 @@
+{
+  "$comment": "2026 九合一選舉：多視角觀點頁的來源清單。每筆含網址、抓取日期與引用的原文片段。所有 excerpts 已在 2026-10-20 重新抓取原頁比對，逐字（忽略空白）出現在原文。usedAs=quote 的片段即頁面「原文摘錄」區塊顯示的文字。",
+  "page": "/elections/2026/perspectives/",
+  "retrievedAt": "2026-10-20",
+  "method": "以 curl 抓取 fetchUrl 原始頁面（PDF 以 pdftotext 轉文字；中選會新聞稿網頁由前端載入，改抓同篇的官方 API），去除 HTML 標籤後比對 excerpt（忽略空白字元）。",
+  "sources": [
+    {
+      "id": "law-const130",
+      "publisher": "全國法規資料庫",
+      "title": "中華民國憲法 第 130 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000001&flno=130",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "中華民國國民年滿二十歲者，有依法選舉之權。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ]
+    },
+    {
+      "id": "law-ref7",
+      "publisher": "全國法規資料庫",
+      "title": "公民投票法 第 7 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=7",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "中華民國國民，除憲法另有規定外，年滿十八歲，未受監護宣告者，有公民投票權。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ]
+    },
+    {
+      "id": "law-civil12",
+      "publisher": "全國法規資料庫",
+      "title": "民法 第 12 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=12",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "滿十八歲為成年。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ]
+    },
+    {
+      "id": "law-civilgen",
+      "publisher": "全國法規資料庫",
+      "title": "民法總則施行法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000002",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "中華民國一百零九年十二月二十五日修正之民法第十二條及第十三條，自一百十二年一月一日施行。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ]
+    },
+    {
+      "id": "law-amend12",
+      "publisher": "全國法規資料庫",
+      "title": "中華民國憲法增修條文 第 12 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0000002&flno=12",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "經中華民國自由地區選舉人投票複決，有效同意票過選舉人總額之半數，即通過之",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ]
+    },
+    {
+      "id": "cec-36469",
+      "publisher": "中央選舉委員會",
+      "title": "史上首次! 「18歲公民權」修憲案今立法院交由中選會辦理公民複決",
+      "url": "https://web.cec.gov.tw/central/article/36469",
+      "fetchUrl": "https://web.cec.gov.tw/api/central/article/36469",
+      "date": "2022-09-29",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "於111年3月25日三讀通過中華民國憲法增修條文增訂第1條之1條文修正案",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ],
+      "note": "中選會網頁正文由前端載入，抓取與比對使用同一篇新聞稿的官方 API 網址。"
+    },
+    {
+      "id": "cec-45939",
+      "publisher": "中央選舉委員會",
+      "title": "中選會發布憲法修正案公民複決第1案投票結果公告",
+      "url": "https://web.cec.gov.tw/central/article/45939",
+      "fetchUrl": "https://web.cec.gov.tw/api/central/article/45939",
+      "date": "2022-12-02",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "一、選舉人數：19,239,392人。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        },
+        {
+          "text": "(一)同意票數：5,647,102票。(二)不同意票數：5,016,427票。三、有效同意票未過選舉人總額之半數。四、投票結果：不通過。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ],
+      "note": "中選會網頁正文由前端載入，抓取與比對使用同一篇新聞稿的官方 API 網址。"
+    },
+    {
+      "id": "law-youth",
+      "publisher": "全國法規資料庫",
+      "title": "青年基本法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0180009",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "公布日期：民國 115 年 01 月 21 日",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        },
+        {
+          "text": "政府應保障年滿十八歲之青年有依法行使選舉、罷免、創制、複決之權，並於本法施行之日起二年內完備相關法制。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ]
+    },
+    {
+      "id": "law-elect14",
+      "publisher": "全國法規資料庫",
+      "title": "公職人員選舉罷免法 第 14 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=14",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "中華民國國民，年滿二十歲，有選舉權。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ]
+    },
+    {
+      "id": "pts-807183",
+      "publisher": "公視新聞網",
+      "title": "立院初審通過下修18歲公民權 同步建請啟動修憲程序",
+      "url": "https://news.pts.org.tw/article/807183",
+      "date": "2026-05-07",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "立法院內政委員會今日初審通過《公職人員選罷法》、《總統副總統選罷法》修正草案，將投票年齡門檻從現行年滿20歲下修至18歲，並通過附帶決議，建請修憲委員會啟動18歲公民權修憲工作。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        },
+        {
+          "text": "若此次18歲公民權修法完成時間晚於8月20日，依現行法規，本次選舉仍適用舊法，即須年滿20歲才具有投票資格。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ]
+    },
+    {
+      "id": "cna-202610010108",
+      "publisher": "中央社",
+      "title": "青年團體提11項優先法案 籲立院跨黨派加速審議",
+      "url": "https://www.cna.com.tw/news/aipl/202610010108.aspx",
+      "date": "2026-10-01",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "攸關18歲公民權的選罷法修法，在立法院內政委員會獲跨黨派支持，但後續協商、立法程序未完成",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["voting-age"]
+        }
+      ]
+    },
+    {
+      "id": "pts-612095",
+      "publisher": "公視新聞網",
+      "title": "18歲公民權未過關 民團呼籲立法院聲請釋憲",
+      "url": "https://news.pts.org.tw/article/612095",
+      "date": "2022-12-01",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "輔大法律系助理教授姚孟昌回應，「對於主張說這個門檻過高，以致於阻礙了人民的修憲權而認定是違憲的話，我想可能在學理上面說不過去。因為憲法本身它是一個剛性的憲法，它的門檻會比較高。」",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["voting-age"],
+          "speaker": ["姚孟昌"]
+        }
+      ]
+    },
+    {
+      "id": "pts-802506",
+      "publisher": "公視新聞網",
+      "title": "立院委員會明審《選罷法》 青年團體籲18歲公民權入法",
+      "url": "https://news.pts.org.tw/article/802506",
+      "date": "2026-04-07",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "青年思潮發起人蔡璟鴻表示，「《憲法》130條可以解釋成最低保障，20歲要有選舉權就好，《憲法》是有留下空間，可以透過修法調降選舉年齡的。」",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["voting-age"],
+          "speaker": ["青年思潮（蔡璟鴻）"]
+        }
+      ]
+    },
+    {
+      "id": "pts-802687",
+      "publisher": "公視新聞網",
+      "title": "18歲公民權獲朝野高度共識 內政部：原則上尊重",
+      "url": "https://news.pts.org.tw/article/802687",
+      "date": "2026-04-08",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "國民黨立委王鴻薇指出，「如果時隔60、70年，我們還抱住這個《憲法》裡面規定的20歲才能夠去選舉，我覺得滑天下之大稽。」",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["voting-age"],
+          "speaker": ["王鴻薇"]
+        }
+      ]
+    },
+    {
+      "id": "udn-9480049",
+      "publisher": "聯合新聞網",
+      "title": "18歲公民權靠修法可行？游盈隆評：唯一做法是修憲",
+      "url": "https://udn.com/news/story/6656/9480049",
+      "date": "2026-05-04",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "新任中選會主委游盈隆接受媒體專訪時表態，「憲法」明文規定人民選舉權為20歲，若要降低門檻到18歲，唯一做法就是修憲。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["voting-age"],
+          "speaker": ["游盈隆"]
+        }
+      ],
+      "note": "聯合新聞網轉述中國時報專訪。"
+    },
+    {
+      "id": "udn-9487762",
+      "publisher": "聯合新聞網",
+      "title": "立院初審投票年齡下修到18歲 內政委員會建請同步修憲",
+      "url": "https://udn.com/news/story/6656/9487762",
+      "date": "2026-05-07",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "另若僅單純修改選罷法而未處理憲法爭議，未來在選舉認定上必定會產生疑慮，且這種疑慮無法僅由行政機關解決，恐須進入司法程序。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["voting-age"],
+          "speaker": ["劉世芳"]
+        }
+      ]
+    },
+    {
+      "id": "ly-chung-art12",
+      "publisher": "立法院議事暨公報資訊網",
+      "title": "鍾佳濱等30人「中華民國憲法增修條文第十二條條文修正草案」關係文書",
+      "url": "https://ppg.ly.gov.tw/ppg/download/agenda1/02/pdf/11/05/23/LCEWA01_110523_00207.pdf",
+      "date": "2026-08-21",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "鑒於我國現行憲法增修條文所定之修憲門檻過高，已然形成實質之修憲障礙。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["voting-age"],
+          "speaker": ["鍾佳濱等 30 位立委"]
+        },
+        {
+          "text": "擬引進「選舉人團」制度代表全體選舉人行使修憲複決權",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        }
+      ]
+    },
+    {
+      "id": "law-elect17",
+      "publisher": "全國法規資料庫",
+      "title": "公職人員選舉罷免法 第 17 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020010&flno=17",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "選舉人，除另有規定外，應於戶籍地投票所投票。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        },
+        {
+          "text": "但在工作地之投票所投票者，以戶籍地及工作地在同一選舉區，並在同一直轄市、縣（市）為限。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        }
+      ]
+    },
+    {
+      "id": "law-ref25",
+      "publisher": "全國法規資料庫",
+      "title": "公民投票法 第 25 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=25",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "主管機關辦理全國性公民投票，得以不在籍投票方式為之，其實施方式另以法律定之。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        }
+      ]
+    },
+    {
+      "id": "law-search-absentee",
+      "publisher": "全國法規資料庫",
+      "title": "整合查詢「不在籍投票」結果",
+      "url": "https://law.moj.gov.tw/Law/LawSearchResult.aspx?ty=ONEBAR&kw=%E4%B8%8D%E5%9C%A8%E7%B1%8D%E6%8A%95%E7%A5%A8",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "法規整編資料截止日：民國 115 年 10 月 08 日",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        }
+      ],
+      "note": "以「不在籍投票」整合查詢，法規名稱 0 筆、法條內容 1 筆（公民投票法）。"
+    },
+    {
+      "id": "ey-a72bd90c",
+      "publisher": "行政院",
+      "title": "政院通過中選會重新擬具「全國性公民投票不在籍投票法」草案 兼顧投票秘密性及投票結果公平性",
+      "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/a72bd90c-3272-4097-b086-e06e435bf0d1",
+      "date": "2024-02-22",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "行政院會今（22）日通過中央選舉委員會重行擬具的「全國性公民投票不在籍投票法」草案，將送請立法院審議。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        },
+        {
+          "text": "由投票權人「本人、親自、在投票日當日、前往投票所投票」",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        }
+      ]
+    },
+    {
+      "id": "ppg-ey-absentee",
+      "publisher": "立法院議事暨公報資訊網",
+      "title": "行政院「全國性公民投票不在籍投票法草案」議案進度",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/201110006760000/details",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "排入院會(交內政委員會)",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        }
+      ]
+    },
+    {
+      "id": "ppg-tpp-absentee",
+      "publisher": "立法院議事暨公報資訊網",
+      "title": "台灣民眾黨黨團「不在籍投票法草案」議案進度",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110037670000/details",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "委員會抽出逕付二讀(交付協商)",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        },
+        {
+          "text": "協商會議：115/01/15",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        }
+      ]
+    },
+    {
+      "id": "cna-20260126",
+      "publisher": "中央社",
+      "title": "不在籍投票立法公聽會 中選會憂8896種選票、學者對年底實施看法兩極",
+      "url": "https://www.cna.com.tw/news/aipl/202601260228.aspx",
+      "date": "2026-01-26",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "民眾黨立法院黨團提出「不在籍投票法草案」，適用範圍包含總統副總統、中央與地方公職選舉及罷免、全國性公投，採移轉投票或至指定場所投票方式。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        },
+        {
+          "text": "雲林科技大學科技法律研究所教授楊智傑指出，若擔心選票外流，南韓提前投票制度可供參考，只要配置2名工作人員，一人驗證身分、一人當場印製該選民的選票",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["absentee"],
+          "speaker": ["楊智傑"]
+        },
+        {
+          "text": "高雄科技大學科技法律研究所教授羅承宗說，台灣還沒準備好全面實施不在籍投票，「最快也要2027年以後」",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["absentee"],
+          "speaker": ["羅承宗"]
+        }
+      ]
+    },
+    {
+      "id": "ly-hearing-cec",
+      "publisher": "中央選舉委員會",
+      "title": "立法院內政委員會「不在籍投票立法公聽會」中央選舉委員會書面資料",
+      "url": "https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2026012091/20260027203770112002.pdf",
+      "date": "2026-01-26",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "115 年選舉票預估為 8,896 種",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["absentee"]
+        },
+        {
+          "text": "建議循序漸進先推動公投不在籍投票，再逐步推動選舉不在籍投票",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["absentee"],
+          "speaker": ["中央選舉委員會"]
+        }
+      ],
+      "note": "立法院公聽會附件 PDF，由中選會提出。"
+    },
+    {
+      "id": "udn-9112733",
+      "publisher": "聯合新聞網",
+      "title": "國民黨團：推不在籍投票排除大陸及海外 民進黨到底在怕什麼？",
+      "url": "https://udn.com/news/story/6656/9112733",
+      "date": "2025-11-02",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "國民黨立法院黨團批評，國民黨立委相關版本都排除海外及大陸地區，沒有外力介入的疑慮",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["absentee"],
+          "speaker": ["國民黨立法院黨團"]
+        }
+      ]
+    },
+    {
+      "id": "pts-783624",
+      "publisher": "公視新聞網",
+      "title": "藍白推 「不在籍投票」專法 綠憂助中國滲透",
+      "url": "https://news.pts.org.tw/article/783624",
+      "date": "2025-11-30",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "民眾黨立法院黨團總召黃國昌表示，「我希望民進黨好好地看一看世界各國，國內移轉投票早就成為常態，不要把國內移轉投票視為洪水猛獸，年輕人可能因為學業、工作沒有辦法出來投票，要阻礙年輕人投票。」",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["absentee"],
+          "speaker": ["黃國昌"]
+        },
+        {
+          "text": "民進黨立法院黨團幹事長鍾佳濱說：「不在籍投票會不會增加大選的變數，會不會便於境外勢力的介選干預、選務選票移動這些種種糾紛爭議？有沒有思考過？我們認為這些才是要共同來討論的。」",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["absentee"],
+          "speaker": ["鍾佳濱"]
+        },
+        {
+          "text": "主張投票日及前一日都應放假，且各級政府機關應該提供必要的交通補助",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        }
+      ]
+    },
+    {
+      "id": "cna-201906170290",
+      "publisher": "中央社",
+      "title": "公投脫鉤大選藍批為政黨私利 綠：絕無政治私心",
+      "url": "https://www.cna.com.tw/news/aipl/201906170290.aspx",
+      "date": "2019-06-17",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "明定公投日為8月第4個星期六，自民國110年起每2年舉辦一次，錯開選舉年",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        }
+      ]
+    },
+    {
+      "id": "law-ref-history",
+      "publisher": "全國法規資料庫",
+      "title": "公民投票法 沿革",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020050",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "中華民國一百零八年六月二十一日總統華總一義字第 10800064481 號 令修正公布第 9、10、12、13、17、23 條條文",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        },
+        {
+          "text": "中華民國一百十四年十二月三日總統華總一義字第 11400124051 號令 修正公布第 23 條條文",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        }
+      ]
+    },
+    {
+      "id": "cec-2021-qa",
+      "publisher": "中央選舉委員會",
+      "title": "110年公投常見問答集",
+      "url": "https://2021.cec.gov.tw/qa.html",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "你是否同意公民投票案公告成立後半年內，若該期間內遇有全國性選舉時，在符合公民投票法規定之情形下，公民投票應與該選舉同日舉行？",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        }
+      ]
+    },
+    {
+      "id": "cec-2021-result",
+      "publisher": "中央選舉委員會",
+      "title": "公告全國性公民投票案第17案至第20案投票結果（中選綜字第1103050670號）",
+      "url": "https://2021.cec.gov.tw/data/files/A0149/%E5%85%A8%E5%9C%8B%E6%80%A7%E5%85%AC%E6%B0%91%E6%8A%95%E7%A5%A8%E6%A1%88%E7%AC%AC17-20%E6%A1%88%E5%85%AC%E5%91%8A%E6%8A%95%E7%A5%A8%E7%B5%90%E6%9E%9C.pdf",
+      "date": "2021-12-23",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "同意票數：3,951,677 票",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        },
+        {
+          "text": "不同意票數：4,120,243 票",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        }
+      ]
+    },
+    {
+      "id": "pts-782387",
+      "publisher": "公視新聞網",
+      "title": "《公投法》修正案三讀通過 「公投綁大選」回歸",
+      "url": "https://news.pts.org.tw/article/782387",
+      "date": "2025-11-21",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "以56比44票通過藍白所提的《公投法》再修正動議",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        }
+      ]
+    },
+    {
+      "id": "ppg-tpp-ref23",
+      "publisher": "立法院議事暨公報資訊網",
+      "title": "台灣民眾黨黨團「公民投票法第二十三條條文修正草案」議案進度",
+      "url": "https://ppg.ly.gov.tw/ppg/bills/202110157300000/details",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "三讀 (114/11/21通過)",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        }
+      ]
+    },
+    {
+      "id": "law-ref23",
+      "publisher": "全國法規資料庫",
+      "title": "公民投票法 第 23 條",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=23",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "主管機關應於公民投票案公告成立後三個月起至六個月內舉行公民投票，該期間內有全國性選舉時，應與該選舉同日舉行。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        }
+      ]
+    },
+    {
+      "id": "cec-64775",
+      "publisher": "中央選舉委員會",
+      "title": "全國性公民投票案第22案意見發表會或辯論會11月12日登場，請在10月15日前依法申請許可設立辦事處並完成報名",
+      "url": "https://web.cec.gov.tw/central/article/64775",
+      "fetchUrl": "https://web.cec.gov.tw/api/central/article/64775",
+      "date": "2026-09-18",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "立法院交由中選會辦理之全國性公民投票案，主文為「你是否支持政府使用『核電』振興經濟，以廢除『非核家園』的能源政策？」，經中選會編號為全國性公民投票案第22案，將於115年11月28日舉行投票。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        },
+        {
+          "text": "決議在全國性無線電視頻道舉辦5場意見發表會或辯論會，將由立法院代表正方",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        }
+      ],
+      "note": "中選會網頁正文由前端載入，抓取與比對使用同一篇新聞稿的官方 API 網址。"
+    },
+    {
+      "id": "cna-case22",
+      "publisher": "中央社",
+      "title": "九合一大選併廢除非核家園公投 鞭刑、交通罰鍰2案遭否決",
+      "url": "https://www.cna.com.tw/news/aipl/202608285005.aspx",
+      "date": "2026-08-28",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "中選會並於今天發布公投案公告，於民國115年11月28日投票。意即與九合一地方選舉同時舉行。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["referendum-date"]
+        }
+      ]
+    },
+    {
+      "id": "cec-ebook2021-27",
+      "publisher": "中央選舉委員會",
+      "title": "全國性公民投票案第17案至第20案公投公報：第19案理由書",
+      "url": "https://2021.cec.gov.tw/data/files/ebook/27/",
+      "date": "2021-11",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "公投綁大選才能提高投票率，讓公民充分參與，形塑高民主素養、深度審議思辨的公民社會！",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["referendum-date"],
+          "speaker": ["全國性公投第 19 案提案人"]
+        }
+      ],
+      "note": "中選會公投公報電子書第 27 頁（公報頁 24）；日期依公報 PDF 建立月份推定。"
+    },
+    {
+      "id": "cec-ebook2021-33",
+      "publisher": "中央選舉委員會",
+      "title": "全國性公民投票案第17案至第20案公投公報：第19案行政院意見書",
+      "url": "https://2021.cec.gov.tw/data/files/ebook/33/",
+      "date": "2021-11",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "108年修正之公投法第23條，使公投與選舉分開辦理，可避免因公職人員選舉之政黨或候選人競爭交互影響，模糊公投議題焦點",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["referendum-date"],
+          "speaker": ["行政院"]
+        }
+      ],
+      "note": "中選會公投公報電子書第 33 頁（公報頁 30）；日期依公報 PDF 建立月份推定。"
+    },
+    {
+      "id": "cna-202411030111",
+      "publisher": "中央社",
+      "title": "立委提案公投綁大選 中選會：選務高度複雜負荷過重",
+      "url": "https://www.cna.com.tw/news/aipl/202411030111.aspx",
+      "date": "2024-11-03",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "據中選會送抵立法院的書面報告指出，公投綁大選選務高度複雜，基層選務單位反映選務工作負荷過重，超過選務承載能量。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["referendum-date"],
+          "speaker": ["中央選舉委員會"]
+        }
+      ]
+    },
+    {
+      "id": "ly-tpp-ref23",
+      "publisher": "立法院議事暨公報資訊網",
+      "title": "台灣民眾黨黨團「公民投票法第二十三條條文修正草案」關係文書",
+      "url": "https://ppg.ly.gov.tw/ppg/download/agenda1/02/pdf/11/04/10/LCEWA01_110410_00189.pdf",
+      "date": "2025-11-21",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "有鑑於現行公民投票之舉行，與全國性選舉脫鉤，嚴重阻礙人民行使直接民權，為打破鳥籠公投，實踐憲法主權在民之原則",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["referendum-date"],
+          "speaker": ["民眾黨立法院黨團"]
+        }
+      ]
+    },
+    {
+      "id": "pts-782454",
+      "publisher": "公視新聞網",
+      "title": "恢復「公投綁大選」三讀通過 中選會：會依法辦理選務",
+      "url": "https://news.pts.org.tw/article/782454",
+      "date": "2025-11-21",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "民進黨立委吳秉叡質疑，「現在藍白委員的席次比較多，硬要通過會通過，選務不堪負荷，到時候造成的混亂誰要負責任呢？」",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["referendum-date"],
+          "speaker": ["吳秉叡"]
+        },
+        {
+          "text": "民進黨團則再提修正動議，公投前一天也放假，讓公民有準備時間，最後遭藍白否決。",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        }
+      ]
+    },
+    {
+      "id": "udn-9295286",
+      "publisher": "聯合新聞網",
+      "title": "立法院審查中選會人事 游盈隆支持公投綁大選",
+      "url": "https://udn.com/news/story/6656/9295286",
+      "date": "2026-01-28",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "游盈隆說，西方有一句話是「不要倒洗澡水，連嬰孩一起倒掉」，意思是公投是重要的，跟選舉綁在一起立意甚佳，且過去經驗也證明這是沒有問題的。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["referendum-date"],
+          "speaker": ["游盈隆"]
+        },
+        {
+          "text": "但該次混亂與多項條件有關，當年有十項公投，在中選會公告後僅一個多月就投票，導致選務秩序大亂",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        }
+      ]
+    },
+    {
+      "id": "law-antiinfil",
+      "publisher": "全國法規資料庫",
+      "title": "反滲透法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030317",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "公布日期：民國 109 年 01 月 15 日",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        },
+        {
+          "text": "法規整編資料截止日：民國 115 年 10 月 08 日",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        },
+        {
+          "text": "境外敵對勢力：指與我國交戰或武力對峙之國家、政治實體或團體。主張採取非和平手段危害我國主權之國家、政治實體或團體，亦同。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        },
+        {
+          "text": "任何人不得受滲透來源之指示、委託或資助，捐贈政治獻金，或捐贈經費供從事公民投票案之相關活動。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        },
+        {
+          "text": "任何人不得受滲透來源之指示、委託或資助，為總統副總統選舉罷免法第四十三條或公職人員選舉罷免法第四十五條各款行為。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        },
+        {
+          "text": "違反前項規定者，處五年以下有期徒刑，得併科新臺幣一千萬元以下罰金。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        },
+        {
+          "text": "受滲透來源之指示、委託或資助，而犯總統副總統選舉罷免法第五章、公職人員選舉罷免法第五章或公民投票法第五章之罪者，加重其刑至二分之一。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        }
+      ]
+    },
+    {
+      "id": "law-antiinfil-hist",
+      "publisher": "全國法規資料庫",
+      "title": "反滲透法 沿革",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0030317",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "制定公布全文 12 條；並自公布日施行",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        }
+      ]
+    },
+    {
+      "id": "cna-201912310227",
+      "publisher": "中央社",
+      "title": "反滲透法藍橘將聲請釋憲 綠：無違憲問題",
+      "url": "https://www.cna.com.tw/news/aipl/201912310227.aspx",
+      "date": "2019-12-31",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "立法院會今天經過近5小時的表決，三讀通過反滲透法",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        },
+        {
+          "text": "合理、必要、有限地在選舉、公投、遊說、集會遊行等事項上，做出最低程度的防衛體系。",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["anti-infiltration"],
+          "speaker": ["柯建銘"]
+        }
+      ]
+    },
+    {
+      "id": "cna-201912310254",
+      "publisher": "中央社",
+      "title": "反滲透法三讀 國民黨：威權法律讓自由民主倒退",
+      "url": "https://www.cna.com.tw/news/aipl/201912310254.aspx",
+      "date": "2019-12-31",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "國民黨指出，維護中華民國的國家安全是最重要的，也是全民共同奮鬥的目標，反對任何對中華民國的滲透，但民進黨版的反滲透法條文模糊不清，容易陷人於罪。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["anti-infiltration"],
+          "speaker": ["中國國民黨"]
+        }
+      ]
+    },
+    {
+      "id": "udnop-4229226",
+      "publisher": "聯合新聞網鳴人堂",
+      "title": "宋承恩／《反滲透法》是保護國安或選舉操作？從三個謬誤說起",
+      "url": "https://opinion.udn.com/opinion/story/12705/4229226",
+      "date": "2019-12-16",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "《反滲透法》草案所規範的內容，限於遊說、政治獻金、競選活動、集會遊行等民主政治核心領域。一般人民不至於單單因為與中國人民或團體的往來而涉罪。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["anti-infiltration"],
+          "speaker": ["宋承恩"]
+        },
+        {
+          "text": "台灣民主實驗室研究員",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        }
+      ]
+    },
+    {
+      "id": "pts-790210",
+      "publisher": "公視新聞網",
+      "title": "綠委擬修反滲透法增最低1年刑期 「擬參選人」納規範對象",
+      "url": "https://news.pts.org.tw/article/790210",
+      "date": "2026-01-12",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "據法務部統計，《反滲透法》自2020年施行至今6年，檢察機關累積起訴127人，確定有罪者僅5人",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        },
+        {
+          "text": "立院內政委員會今（12）日審查《反滲透法》修正草案，提案的多名民進黨立委主張，應增訂最低1年刑期，並將擬參選人納入規範等。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        },
+        {
+          "text": "陸委會副主委梁文傑則指出，現行《反滲透法》存在要件特定、罪行不足等2大問題，面對中共日益嚴峻的灰色地帶侵擾與政治干預，修法有急迫性與必要性。",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["anti-infiltration"],
+          "speaker": ["梁文傑"]
+        },
+        {
+          "text": "國民黨立委張智倫質疑，《反滲透法》執行成效低，2024年選舉期間偵查477名民眾，但最終近8成不起訴，不僅耗費檢調資源，也可能造成寒蟬效應，對民眾心理與名譽造成損害。",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["anti-infiltration"],
+          "speaker": ["張智倫"]
+        },
+        {
+          "text": "司法院及法務部提醒，由於《選罷法》對「擬參選人」缺乏明確定義，修法時應明確界定範圍，以符「罪刑法定原則」與「刑罰明確性」",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["anti-infiltration"],
+          "speaker": ["司法院、法務部"]
+        }
+      ]
+    },
+    {
+      "id": "cna-202610130186",
+      "publisher": "中央社",
+      "title": "修反滲透法 卓榮泰：中國跨境鎮壓必須有罪責",
+      "url": "https://www.cna.com.tw/news/aipl/202610130186.aspx",
+      "date": "2026-10-13",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "卓榮泰表示，希望能在反滲透法中來加強，包括接受境外敵對勢力指示、委託、資助，從事跟監、騷擾、威脅等行為，都是具體、明確的，從事跨國鎮壓必須要有罪責，這會放在反滲透法中。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["anti-infiltration"]
+        }
+      ]
+    },
+    {
+      "id": "law-elect-hist",
+      "publisher": "全國法規資料庫",
+      "title": "公職人員選舉罷免法 沿革",
+      "url": "https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0020010",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "中華民國一百十二年六月九日總統華總一義字第 11200050131 號令",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake"]
+        },
+        {
+          "text": "51-1～51-3",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake"]
+        }
+      ]
+    },
+    {
+      "id": "law-elect-all",
+      "publisher": "全國法規資料庫",
+      "title": "公職人員選舉罷免法（全文）",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "選舉公告發布或罷免案宣告成立之日起至投票日前一日止，擬參選人、候選人、被罷免人或罷免案提議人之領銜人知有於廣播電視、網際網路刊播其本人之深度偽造聲音、影像，得填具申請書表並繳納費用，向警察機關申請鑑識。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "廣播電視事業、網際網路平臺提供者或網際網路應用服務提供者應於接獲前項請求之日起二日內，依下列規定辦理：",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "二、網際網路平臺提供者、網際網路應用服務提供者：限制瀏覽、移除或下架該聲音、影像。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "違反第五十一條之三第四項規定，未停止刊播、限制瀏覽、移除或下架者，處新臺幣二十萬元以上一千萬元以下罰鍰",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "以散布、播送或以他法供人觀覽候選人、被罷免人、罷免案提議人之領銜人本人之深度偽造聲音、影像、電磁紀錄之方法，犯前項之罪者，處七年以下有期徒刑。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "散布謠言或傳播不實之事，足以生損害於公眾或他人者，處五年以下有期徒刑。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "刊播前條之競選或罷免廣告，應進行查證，不得接受下列各款之個人、法人、團體或機構直接或間接委託刊播：",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "四、邀請外國人民、大陸地區人民或香港、澳門居民為第四十五條各款之行為。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "投票所於投票完畢後，即改為開票所，當眾唱名開票。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "除於開票所門口張貼外，並應將同一內容之投開票報告表副本，當場簽名交付推薦候選人之政黨，及非經政黨推薦之候選人所指派之人員",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "每一投票所、開票所至少應置監察員二人。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "但投、開票所監察員不得全屬同一政黨推薦。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        },
+        {
+          "text": "四、干擾開票或妨礙他人參觀開票，不服制止。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake", "vote-counting"]
+        }
+      ]
+    },
+    {
+      "id": "law-deepfake-forensic",
+      "publisher": "全國法規資料庫",
+      "title": "擬參選人候選人被罷免人或罷免案提議人之領銜人申請鑑識深度偽造聲音影像辦法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080221",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "本辦法所稱警察機關，指內政部警政署刑事警察局。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake"]
+        },
+        {
+          "text": "每一分鐘新臺幣八千元",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake"]
+        }
+      ]
+    },
+    {
+      "id": "pts-823279",
+      "publisher": "公視新聞網",
+      "title": "防深偽影音干擾年底大選 中選會設專案小組加速移除",
+      "url": "https://news.pts.org.tw/article/823279",
+      "date": "2026-08-20",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "中選會8月也特別成立「深偽影音防制專案小組」，與檢警、數發部合作，避免變造影片衝擊選情。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake"]
+        }
+      ]
+    },
+    {
+      "id": "udn-9680945",
+      "publisher": "聯合新聞網",
+      "title": "朝野爭論 深偽選聞下架標準",
+      "url": "https://udn.com/news/story/6656/9680945",
+      "date": "2026-08-10",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "數發部因此主動建置「選舉ＡＩ深偽訊息通報網」，預計八月廿五日上線。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake"]
+        },
+        {
+          "text": "但國民黨立委李彥秀指出，選舉主管機關是中選會，選罷法已有候選人請求排除侵害程序，數發部越俎代庖擴張職權，讓政府決定什麼資訊必須下架，實際限縮言論。",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["deepfake"],
+          "speaker": ["李彥秀"]
+        },
+        {
+          "text": "民眾黨立法院黨團總召陳清龍表示，執政黨不能藉此把不利於己的內容，打成深偽訊息下架，反而讓這套機制淪為政府打壓異己、箝制言論自由的工具。",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["deepfake"],
+          "speaker": ["陳清龍"]
+        },
+        {
+          "text": "民進黨立法院黨團幹事長莊瑞雄說，深偽技術在網路相當普遍，對於法律判斷是否構成犯罪，關鍵在內容是否對被變造對象「致生損害」，「如果沒有受到損害，都是言論自由啦」，但侵害個人、衝擊社會秩序，甚至影響公共利益或國家安全，就有法律風險。",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["deepfake"],
+          "speaker": ["莊瑞雄"]
+        },
+        {
+          "text": "數發部主動與Meta、Google、LINE、TikTok等主要平台溝通，建置「選舉ＡＩ深偽訊息通報網」，協助候選人縮短文件傳遞及平台聯繫時間，既有法定程序與權責不變。",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["deepfake"],
+          "speaker": ["數位發展部"]
+        }
+      ]
+    },
+    {
+      "id": "udn-9543905",
+      "publisher": "聯合新聞網",
+      "title": "大選成立「假訊息」處理中心 代理檢察總長：警調充實深偽鑑識量能",
+      "url": "https://udn.com/news/story/7321/9543905",
+      "date": "2026-06-03",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "徐錫祥會中要求各地方檢察署都成立重大假訊息處理中心",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["deepfake"]
+        }
+      ]
+    },
+    {
+      "id": "ey-22b4",
+      "publisher": "行政院",
+      "title": "貫徹掃除黑金、防杜境外勢力介入選舉與罷免 政院通過「公職人員選舉罷免法」部分條文修正草案",
+      "url": "https://www.ey.gov.tw/Page/9277F759E41CCD91/22b4d96d-9b31-497e-a0de-c24acdab3af8",
+      "date": "2022-12-15",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "蘇院長進一步表示，考量近期大選流竄各種不實的競選或罷免廣告，以及深度偽造聲音、影像的犯罪事件也層出不窮，為避免此類犯罪行為影響選舉及罷免結果，本次兩選罷法修法增列相關防範機制規定",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["deepfake"],
+          "speaker": ["蘇貞昌"]
+        }
+      ]
+    },
+    {
+      "id": "twr-2026-ai",
+      "publisher": "報導者",
+      "title": "生成式AI如何影響選舉？國外案例借鏡與公民因應之道",
+      "url": "https://www.twreporter.org/a/2026-local-elections-ai-generated-contents-negatively-affect-elections",
+      "date": "2026-10-13",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "科技、民主與社會研究中心（DSET）民主治理組副組長賴又豪認為，若採用韓國的選前全面禁止使用AI作法，修法涵蓋範圍太過廣泛，這會導致用AI產生內容進行意見表達、政治嘲諷、重現真實事件等目的也都被禁止。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["deepfake"],
+          "speaker": ["賴又豪"]
+        }
+      ]
+    },
+    {
+      "id": "nsb-2025",
+      "publisher": "國家安全局",
+      "title": "2025年中共對臺認知作戰操作手法分析",
+      "url": "https://www.nsb.gov.tw/zh/assets/documents/%E6%96%B0%E8%81%9E%E7%A8%BF/023b202c-8bc9-4b19-a8eb-c0d0b5809f99.pdf",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "2025年國安情報團隊查報逾4.5萬組異常帳號，較2024年增加1.7萬餘組，並蒐獲逾231.4萬則爭訊；全年通報政府相關部門計3,200餘則爭訊",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["interference-claims"]
+        },
+        {
+          "text": "並將與第三方事實查核機構、社群平臺業者強化溝通交流，適時揭露並下架不實網路資訊，以防制境外敵對勢力對我影響力作戰，維護國內純淨輿論環境。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["interference-claims"]
+        }
+      ],
+      "note": "PDF 未標發布日期。"
+    },
+    {
+      "id": "tahr-2593",
+      "publisher": "台灣人權促進會",
+      "title": "【聲明】管制不實訊息，應兼顧言論自由",
+      "url": "https://www.tahr.org.tw/news/2593",
+      "date": "2020-01-13",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "究竟在什麼樣的情況下，國家權力能以假訊息為由介入人民言論？既有的法律，在規範上是否有其必要性？在執行面上，如何降低警方為執法而約談民眾所可能造成的寒蟬效應？",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["interference-claims"],
+          "speaker": ["台灣人權促進會"]
+        },
+        {
+          "text": "政治言論應受高度保障：人民的政治性言論多為可受公評之事",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        }
+      ]
+    },
+    {
+      "id": "cna-202605020189",
+      "publisher": "中央社",
+      "title": "2026地方大選在即 台灣安保協會揭露中國介選新樣態",
+      "url": "https://www.cna.com.tw/news/aipl/202605020189.aspx",
+      "date": "2026-05-02",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "她主張，台灣應參考美國、澳洲與新加坡等國建立「外國影響力揭露制度」，將揭露與澄清義務轉移到個人與組織身上，要求與中國存在金流或利益鏈者主動公開資訊，以降低滲透風險。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["interference-claims"],
+          "speaker": ["李翊慈"]
+        }
+      ]
+    },
+    {
+      "id": "udn-9560411",
+      "publisher": "聯合新聞網",
+      "title": "兩岸海峽論壇被貼統戰標籤 張雅屏：民進黨正進行高明認知作戰",
+      "url": "https://udn.com/news/story/6656/9560411",
+      "date": "2026-06-11",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "正如民進黨將行之有年的海峽論壇貼上「統戰、威脅」標籤，卻說不清助農、幫台商與青年的措施究竟有何危害？把黑的說成白的，盲目用標籤掩蓋事實、抹煞正常交流，這才是台灣正在發生的認知作戰。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["interference-claims"],
+          "speaker": ["張雅屏"]
+        }
+      ]
+    },
+    {
+      "id": "cna-202610200065",
+      "publisher": "中央社",
+      "title": "邱垂正：中共介選已赤裸裸進行 籲全民共同反介選",
+      "url": "https://www.cna.com.tw/news/aipl/202610200065.aspx",
+      "date": "2026-10-20",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "陸委會主委邱垂正今天表示，中共對台介選已經赤裸裸地進行，包括跨境鎮壓及認知作戰，尤其選舉末期可能透過混淆視聽、錯誤引導，影響選民判斷及投票行為",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["interference-claims"],
+          "speaker": ["邱垂正"]
+        }
+      ]
+    },
+    {
+      "id": "tfc-qa",
+      "publisher": "台灣事實查核中心",
+      "title": "Q&A - 台灣事實查核中心",
+      "url": "https://tfc-taiwan.org.tw/qa/",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "台灣事實查核中心係由優質新聞發展協會與台灣媒體教育觀察基金會所共同成立，屬非營利性質。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        }
+      ],
+      "note": "原文基金會名稱字序為「台灣媒體教育觀察基金會」，頁面採該基金會正式名稱「台灣媒體觀察教育基金會」。"
+    },
+    {
+      "id": "tfc-milestones",
+      "publisher": "台灣事實查核中心",
+      "title": "大事紀 - 台灣事實查核中心",
+      "url": "https://tfc-taiwan.org.tw/fact-checking-milestones/",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "台灣事實查核中心從2018年7月31日正式運作",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        },
+        {
+          "text": "中心完成法院的法人登記，轉型為獨立法人的教育基金會推動台灣事實查核業務與活動。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        }
+      ]
+    },
+    {
+      "id": "tfc-ifcn",
+      "publisher": "台灣事實查核中心",
+      "title": "IFCN認證與申訴 - 台灣事實查核中心",
+      "url": "https://tfc-taiwan.org.tw/ifcn-certification-and-appeals/",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "在2018年11月1日首度通過審核，成為台灣第一家、全球第53家獲得IFCN認證的事實查核組織",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        }
+      ]
+    },
+    {
+      "id": "tfc-donation2025",
+      "publisher": "台灣事實查核中心",
+      "title": "財務與捐款報告 - 台灣事實查核中心",
+      "url": "https://tfc-taiwan.org.tw/donation-reports-2025/",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "就拒絕接受政府或政治人物的捐助",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        },
+        {
+          "text": "Meta 50% 參與 Meta查證機制",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        }
+      ]
+    },
+    {
+      "id": "cofacts-po",
+      "publisher": "Cofacts（GitHub 原始碼）",
+      "title": "Cofacts 關於頁文字（rumors-site i18n/zh_TW.po）",
+      "url": "https://raw.githubusercontent.com/cofacts/rumors-site/master/i18n/zh_TW.po",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "真的假的是一個透過群眾協作以及聊天機器人來做事實查核的可疑訊息查證平台",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        },
+        {
+          "text": "Cofacts 開源專案開始於 2016 年。2023 年，Cofacts 工作小組成立社團法人台灣實科協會，持續營運 Cofacts 社群。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        },
+        {
+          "text": "的其中一個專案，鼓勵開放原始碼、群眾協作",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        }
+      ],
+      "note": "cofacts.tw/about 有瀏覽器驗證，改抓官網原始碼中顯示在關於頁的繁中字串。"
+    },
+    {
+      "id": "mygopen-about",
+      "publisher": "MyGoPen",
+      "title": "關於我們 | MyGoPen",
+      "url": "https://www.mygopen.com/p/blog-page_19.html",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "在2020年3月通過審核認可",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        }
+      ]
+    },
+    {
+      "id": "mygopen-funding",
+      "publisher": "MyGoPen",
+      "title": "贊助準則 | MyGoPen",
+      "url": "https://www.mygopen.com/p/blog-page_26.html",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "不接受政府、政黨及政治人物的捐款，維持運作的獨立性。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        }
+      ]
+    },
+    {
+      "id": "cec-41023",
+      "publisher": "中央選舉委員會",
+      "title": "很多網路造謠正在介入選舉，請民眾善用查證工具，一起抵制錯假訊息！",
+      "url": "https://www.cec.gov.tw/central/article/41023",
+      "fetchUrl": "https://www.cec.gov.tw/api/central/article/41023",
+      "date": "2023-12-28",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "中選會提醒民眾收到此類錯假訊息時，可善用查證工具，例如將可疑的錯假訊息轉傳給「台灣事實查核中心」等LINE官方帳號進行查證。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        }
+      ],
+      "note": "中選會網頁正文由前端載入，抓取與比對使用同一篇新聞稿的官方 API 網址。"
+    },
+    {
+      "id": "meta-2025",
+      "publisher": "Meta",
+      "title": "More Speech and Fewer Mistakes",
+      "url": "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/",
+      "date": "2025-01-07",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "Starting in the US, we are ending our third party fact-checking program and moving to a Community Notes model.",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        },
+        {
+          "text": "Experts, like everyone else, have their own biases and perspectives. This showed up in the choices some made about what to fact check and how.",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["fact-checking"],
+          "speaker": ["Meta（Joel Kaplan）"]
+        },
+        {
+          "text": "Joel Kaplan, Chief Global Affairs Officer",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["fact-checking"]
+        }
+      ]
+    },
+    {
+      "id": "newtalk-698563",
+      "publisher": "新頭殼",
+      "title": "國民黨控｢挑選案例偏頗｣查核中心：與事實不符 勿踐踏公民社會努力",
+      "url": "https://newtalk.tw/news/view/2022-01-19/698563",
+      "date": "2022-01-19",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "國民黨立法院黨團近日於立院審查文化部預算時要求華視於虧損彌平前停止與台灣事實查核中心合作，質疑查核中心於挑選案例有所偏頗",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["fact-checking"],
+          "speaker": ["國民黨立法院黨團"]
+        }
+      ]
+    },
+    {
+      "id": "newtalk-700184",
+      "publisher": "新頭殼",
+      "title": "莊豐嘉請辭 王婉諭：譴責藍綠拿預算審查當人質、把公共媒體當禁臠",
+      "url": "https://newtalk.tw/news/view/2022-01-22/700184",
+      "date": "2022-01-22",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "王婉諭指出，「TFC台灣事實查核中心」是臉書在全球合作的54個夥伴之一，更連續三年通過國際事實查核聯盟（IFCN）認證，這樣的專題合作明明是多多益善，她實在不懂國民黨要求中止合作的理由是什麼？",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["fact-checking"],
+          "speaker": ["王婉諭"]
+        }
+      ]
+    },
+    {
+      "id": "tfc-104845",
+      "publisher": "台灣事實查核中心",
+      "title": "【2023假訊息年度大調查】又是選舉年！當政治查核效力有限，應優先與「中間選民」重點對話",
+      "url": "https://tfc-taiwan.org.tw/?p=104845",
+      "date": "2023-05-19",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "張佑宗說，查核報告破解政治傳言的效果，出現「信者恆信、不信者恆不信」現象，查核效果是有條件。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["fact-checking"],
+          "speaker": ["張佑宗"]
+        },
+        {
+          "text": "雖然事實查核沒有辦法改變所有人的看法，但確有存在的必要",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        }
+      ],
+      "note": "台灣事實查核教育基金會委託臺大團隊的年度調查，由查核中心發布。"
+    },
+    {
+      "id": "tfc-125286",
+      "publisher": "台灣事實查核中心",
+      "title": "台灣事實查核中心如何與Meta合作？常見問題一次答",
+      "url": "https://tfc-taiwan.org.tw/?p=125286",
+      "date": "2025-01-20",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "事實查核不是試圖抹去哪些資訊，而是在提供證據的前提下，告知民眾準確資訊，為公眾討論提供共同的事實基礎。事實查核的理念是支持言論自由，而非言論審查。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["fact-checking"],
+          "speaker": ["台灣事實查核中心"]
+        }
+      ]
+    },
+    {
+      "id": "nccu-thesis",
+      "publisher": "政治大學博碩士論文系統",
+      "title": "如何決定真相：事實查核與國家的距離",
+      "url": "https://thesis.lib.nccu.edu.tw/detail/b75ca4fd54def9d1b9f6b89fc0b4309d/",
+      "date": "2026",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "我國政府似乎仍傾向將事實查核機制／組織納入防制假訊息的數位平台治理架構中，使政府與事實查核組織之間的距離日益縮短。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["fact-checking"],
+          "speaker": ["劉佳融"]
+        },
+        {
+          "text": "其爭議主要包括資金來源、人事控制、選題與判準的中立性",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        }
+      ]
+    },
+    {
+      "id": "tfc-105107",
+      "publisher": "台灣事實查核中心",
+      "title": "【謠言風向球】提防作票陰謀論 掌握4種作票謠言樣態",
+      "url": "https://tfc-taiwan.org.tw/?p=105107",
+      "date": "2023-12-01",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "投票過程不開放民眾錄攝影，而為確保開票的公正性，開票所開放民眾入內監看，開票過程可以錄影。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["vote-counting"]
+        }
+      ]
+    },
+    {
+      "id": "cec-41329",
+      "publisher": "中央選舉委員會",
+      "title": "民主選務依法辦理，開票作業除有不同黨派之監察人員外，公眾亦在場監督，不可能有違法作票情事",
+      "url": "https://www.cec.gov.tw/central/article/41329",
+      "fetchUrl": "https://www.cec.gov.tw/api/central/article/41329",
+      "date": "2024-01-15",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "分別由2位登錄員輸入計票系統，經2次資料輸入相同才可進入計票系統統計並供各界查詢。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["vote-counting"]
+        },
+        {
+          "text": "且選務的辦理，還有不同黨派所推薦的監察人員在場監督，開票時更開放民眾參觀錄影，不可能有作票舞弊空間。",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["vote-counting"],
+          "speaker": ["中央選舉委員會"]
+        }
+      ],
+      "note": "中選會網頁正文由前端載入，抓取與比對使用同一篇新聞稿的官方 API 網址。"
+    },
+    {
+      "id": "cec-63642",
+      "publisher": "中央選舉委員會",
+      "title": "115年地方公職人員選舉估選舉人1,965萬人　全台設置1萬8,244處投票所",
+      "url": "https://www.cec.gov.tw/central/article/63642",
+      "fetchUrl": "https://www.cec.gov.tw/api/central/article/63642",
+      "date": "2026-08-20",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "全國預計設置1萬8,244個投票所，並將動員近25萬名選務工作人員，如果加上公投，將超過30萬工作人員。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["vote-counting"]
+        }
+      ],
+      "note": "中選會網頁正文由前端載入，抓取與比對使用同一篇新聞稿的官方 API 網址。"
+    },
+    {
+      "id": "cna-202303090199",
+      "publisher": "中央社",
+      "title": "鄭運鵬爆選舉監票文件 林家興譴責造假抹黑",
+      "url": "https://www.cna.com.tw/news/aipl/202303090199.aspx",
+      "date": "2023-03-09",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "進行攝影、紙本記錄投票者特徵，警方查獲2件、6人訊後依妨害投票罪嫌函送法辦",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["vote-counting"]
+        }
+      ]
+    },
+    {
+      "id": "dpp-4860",
+      "publisher": "民主進步黨",
+      "title": "對媒體詢問民眾質疑大選選監業務出現異常的回應",
+      "url": "https://www.dpp.org.tw/media/contents/4860",
+      "date": "2012-01-31",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "因此本黨將推動修正包括公職人員選罷法等相關法規修正，規範未來開票過程全程錄影以昭公信。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["vote-counting"],
+          "speaker": ["民主進步黨"]
+        }
+      ]
+    },
+    {
+      "id": "ltn-1524793",
+      "publisher": "自由時報",
+      "title": "「自己的選票自己顧」全民監票聯盟今成立",
+      "url": "https://news.ltn.com.tw/news/politics/breakingnews/1524793",
+      "fetchUrl": "https://news.ltn.com.tw/amp/news/politics/breakingnews/1524793",
+      "date": "2015-11-30",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "全民監票聯盟發言人洪耀南表示，現行開票過程，需經過縣市選舉委員會、中選會計票中心的層層作業，速度較慢且程序不透明",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["vote-counting"],
+          "speaker": ["全民監票聯盟（洪耀南）"]
+        }
+      ]
+    },
+    {
+      "id": "cna-202210060150",
+      "publisher": "中央社",
+      "title": "國民黨將招募萬名志工 11/26投票日協助監票",
+      "url": "https://www.cna.com.tw/news/aipl/202210060150.aspx",
+      "date": "2022-10-06",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "為預防開票當天作票，影響選舉結果，國民黨特別發起招募監票志工共同監票。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["vote-counting"],
+          "speaker": ["中國國民黨"]
+        }
+      ]
+    },
+    {
+      "id": "tfc-107430",
+      "publisher": "台灣事實查核中心",
+      "title": "【錯誤】傳言稱「中選會惡名昭彰，近兩次總統大選皆傳開票計票違法，而且電視台最終票數遭竄改」？",
+      "url": "https://tfc-taiwan.org.tw/?p=107430",
+      "date": "2022-10-07",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "但民眾也不必因為電視開票亂象，而質疑中選會作票，投開票所開票有其監督機制",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["vote-counting"],
+          "speaker": ["鄭自隆"]
+        }
+      ]
+    },
+    {
+      "id": "tfc-105318",
+      "publisher": "台灣事實查核中心",
+      "title": "【2024/1/15-2024/1/21】闢謠TOP10",
+      "url": "https://tfc-taiwan.org.tw/?p=105318",
+      "date": "2024-01-22",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "作票類傳言的素材來自監票民眾拍攝到的影片，原本是民主社會的重要監督力量",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["vote-counting"],
+          "speaker": ["台灣事實查核中心"]
+        }
+      ]
+    },
+    {
+      "id": "g0v-home",
+      "publisher": "g0v 零時政府",
+      "title": "g0v 台灣零時政府",
+      "url": "https://g0v.tw/intl/zh-TW/",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "自台灣發起、多中心化的公民科技社群「零時政府」，以資訊透明、開放成果、開放協作為核心",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["civic-tech"]
+        }
+      ]
+    },
+    {
+      "id": "g0v-manifesto",
+      "publisher": "g0v 零時政府",
+      "title": "零時政府宣言",
+      "url": "https://g0v.tw/intl/zh-TW/manifesto/",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "g0v 是無黨派、非營利、草根集結的公民運動。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["civic-tech"]
+        }
+      ]
+    },
+    {
+      "id": "g0v-faq",
+      "publisher": "g0v 零時政府",
+      "title": "g0v 常見問題",
+      "url": "https://g0v.tw/intl/zh-TW/faq/",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "g0v 是用便於操作的方式顯示政府提供的資訊。透過資訊透明化，大眾更容易監督政府，也更容易基於事實來討論。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["civic-tech"],
+          "speaker": ["g0v 零時政府"]
+        }
+      ]
+    },
+    {
+      "id": "inside-3656",
+      "publisher": "INSIDE",
+      "title": "g0v 號召全民用「鍵盤」監督政治獻金",
+      "url": "https://www.inside.com.tw/article/3656-g0v-build-political-contributions-database",
+      "date": "2014-04-21",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "此專案上線 24 小時，就達成 309666 筆政治獻金的辨識",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["civic-tech"]
+        }
+      ]
+    },
+    {
+      "id": "law-poldonation",
+      "publisher": "全國法規資料庫",
+      "title": "政治獻金法",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "修正日期：民國 107 年 06 月 20 日",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["civic-tech"]
+        },
+        {
+          "text": "受理申報機關應於受理申報截止後六個月內彙整會計報告書供人查閱，並應公開於電腦網路。",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["civic-tech"]
+        }
+      ]
+    },
+    {
+      "id": "vtaiwan",
+      "publisher": "vTaiwan",
+      "title": "vTaiwan: rethinking democracy",
+      "url": "https://info.vtaiwan.tw/",
+      "date": null,
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "Launched in 2014, vTaiwan is a decentralized open consultation process that combines online and offline interactions, bringing together Taiwan's citizens and government to deliberate on national issues.",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["civic-tech"]
+        },
+        {
+          "text": "More than 28 cases have been discussed through the vTaiwan process, and 80% of them have led to some decisive government action.",
+          "verified": true,
+          "usedAs": ["fact", "quote"],
+          "usedIn": ["civic-tech"],
+          "speaker": ["vTaiwan"]
+        },
+        {
+          "text": "Last update in Dec 2023",
+          "verified": true,
+          "usedAs": ["fact"],
+          "usedIn": ["civic-tech"]
+        }
+      ]
+    },
+    {
+      "id": "inside-7980",
+      "publisher": "INSIDE",
+      "title": "300 萬獎助金！g0v 零時政府徵求公民科技創新專案",
+      "url": "https://www.inside.com.tw/article/7980-g0v-3-million-project",
+      "date": "2016-12-20",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "然而，這類開放原始碼工具的開發和維護，大多仰賴志願者的熱情投入，缺乏長期經營的人力與資源。",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["civic-tech"],
+          "speaker": ["g0v 公民科技創新獎助金團隊"]
+        }
+      ]
+    },
+    {
+      "id": "epd-taiwan",
+      "publisher": "European Democracy Hub",
+      "title": "Exploring Worldwide Democratic Innovations: A case study of Taiwan",
+      "url": "https://epd.eu/content/uploads/2023/07/Case-Study-Taiwan.pdf",
+      "date": "2022",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "civic tech or gov tech is no panacea",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["civic-tech"],
+          "speaker": ["何明修"]
+        },
+        {
+          "text": "about possible “co-optation” there is no indication that",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        },
+        {
+          "text": "the persisting digital divide still prevents",
+          "verified": true,
+          "usedAs": ["context"],
+          "usedIn": []
+        }
+      ],
+      "note": "PDF 為雙欄排版，轉成文字後左右欄交錯，只能比對單欄內的短片段。日期依 PDF 版權頁年份。"
+    },
+    {
+      "id": "sinica-crowdsourcing",
+      "publisher": "中央研究院研之有物",
+      "title": "世代共同打擊假訊息！用對方法，長輩也能加入闢謠打怪行列",
+      "url": "https://research.sinica.edu.tw/crowdsourcing/",
+      "date": "2023-05-19",
+      "retrievedAt": "2026-10-20",
+      "excerpts": [
+        {
+          "text": "由於需仰賴大量人力進行事實查核，Cofacts 經常面臨闢謠速度趕不上謠言散播的問題",
+          "verified": true,
+          "usedAs": ["quote"],
+          "usedIn": ["civic-tech"],
+          "speaker": ["李梅君"]
+        }
+      ]
+    }
+  ]
+}

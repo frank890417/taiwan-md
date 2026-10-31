@@ -1064,17 +1064,14 @@ const linkCls = 'text-[#6b7280] hover:text-[#374151]';
             >← {c.footHome}</a
           >
           {
-            c.footLinks
-              // 多視角觀點等哲宇審過才上線，上線前不連結
-              .filter((l) => l.slug !== 'perspectives')
-              .map((l) => (
-                <a
-                  href={`${langPrefix}/elections/2026/${l.slug}/`}
-                  class="card-link rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline hover:bg-[#fef2ec]"
-                >
-                  {l.label}
-                </a>
-              ))
+            c.footLinks.map((l) => (
+              <a
+                href={`${langPrefix}/elections/2026/${l.slug}/`}
+                class="card-link rounded-full border-[1.5px] border-[#7c2d12]/25 bg-white px-5 py-2 text-sm font-semibold text-[#7c2d12] no-underline hover:bg-[#fef2ec]"
+              >
+                {l.label}
+              </a>
+            ))
           }
         </div>
       </div>
