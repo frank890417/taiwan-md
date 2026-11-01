@@ -59,6 +59,22 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 台灣公投制度 — 2026-11-02 twmd-desk 補歸檔（貢獻者 tboydar 於 2026-10-17 以 PR #1865 交稿，2026-10-19 merge，非走產線）
+
+- **Article**: [knowledge/Politics/台灣公投制度.md](../../knowledge/Politics/台灣公投制度.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1865 merge，作者 commit `5e33e3a1c`），INBOX 條目（2026-07-10 elections-refresh，P0，`[A]` 純制度史）merge 時漏了完成歸檔，本班依 2026-11-02 盤點報告補搬
+- **Hook**：1947 年就寫進憲法，等了 56 年才等到一部法
+- **品質**：3061 CJK ／ 10 腳註；`curation: incubating`；低於深度門檻 4,500 字
+- **entry 未兌現**（不隨歸檔消失）：條目原訂 ≥ 4,500 字、15+ 腳註，且 2018 十案綁大選那一晚的 hook 未採用；第 22 案已寫進本文，核能主文章的接續由同日〈台灣與核能的討論〉EVOLVE 處理
+
+### 台灣電價機制與台電 — 2026-11-02 twmd-desk 補歸檔（貢獻者 tboydar 於 2026-10-14 以 PR #1833 交稿，2026-10-15 merge，非走產線）
+
+- **Article**: [knowledge/Economy/台灣電價機制與台電.md](../../knowledge/Economy/台灣電價機制與台電.md)
+- **Pipeline**: 無——貢獻者投稿（PR #1833 merge，作者 commit `75e7f4297`；2026-10-23 `32789bc38` 收 #1895 後補修三處），INBOX 條目（2026-09-20 news-lens 探測器，P0）merge 時漏了完成歸檔，本班依 2026-11-02 盤點報告補搬
+- **Hook**：2026 年 9 月 18 日的電價費率審議會，那 12.83% 沒有漲，帳單換成一張 711 億的追加預算單
+- **品質**：3750 CJK ／ 18 腳註；`curation: incubating`
+- **entry 未兌現**（不隨歸檔消失）：條目 `Angle-expires: 2026-12-01`，12 月電價審議會的結果要回頭補進本文
+
 ### 台灣媒體總史 — 2026-10-20 twmd-maintainer-manual 歸檔（貢獻者 tboydar 於 2026-10-20 以 PR #1879 交稿，非走產線）
 
 - **Article**: [knowledge/Society/台灣媒體總史.md](../../knowledge/Society/台灣媒體總史.md)
