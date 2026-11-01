@@ -1,6 +1,6 @@
 {
-  "$comment": "Taiwan.md /elections/2026 data. Facts only from reports/research/2026-10/elections-2026/{candidates,voting-info}.json. Candidate order = research file order (registration date, CEC roster); re-sort by ballot number after the 2026-10-23 draw. Party = CEC wording (無 → 無黨籍). incumbent is CNA-sourced (media).",
-  "lastVerified": "2026-10-20",
+  "$comment": "Taiwan.md /elections/2026 data. Facts only from reports/research/2026-10/elections-2026/{candidates,voting-info}.json. Candidate order = ballot number for races whose draw result is posted by that city/county election commission (number + numberSource = the commission's own result page on cec.gov.tw; 金門縣 drawn 2026-10-23, the other 21 races postponed to 2026-10-27 by Typhoon 薔琵). 南投縣 and 連江縣 commissions had not posted results as of 2026-11-02, so they keep research file order (registration date, CEC roster) until the 2026-11-17 official notice. Party = CEC wording (無 → 無黨籍). incumbent is CNA-sourced (media).",
+  "lastVerified": "2026-11-02",
   "election": {
     "date": "2026-11-28",
     "startDate": "2026-11-28T08:00:00+08:00",
@@ -100,52 +100,64 @@
           "name": "郭璽",
           "party": "台灣麻將最大黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-08-31",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
-        },
-        {
-          "name": "沈伯洋",
-          "party": "民主進步黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
-          "article": { "zh": "沈伯洋", "slug": "puma-shen" }
-        },
-        {
-          "name": "蕭文乾",
-          "party": "臺灣SoR無法黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
-        },
-        {
-          "name": "唐新民",
-          "party": "三勢團結促進聯盟",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
-        },
-        {
-          "name": "蔣萬安",
-          "party": "中國國民黨",
-          "incumbent": true,
-          "number": null,
-          "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
-          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
-          "article": { "zh": "蔣萬安", "slug": "chiang-wan-an" }
+          "numberSource": "https://www.cec.gov.tw/mect/article/65401"
         },
         {
           "name": "林志成",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/mect/article/65401"
+        },
+        {
+          "name": "沈伯洋",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": 3,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "article": {
+            "zh": "沈伯洋",
+            "slug": "puma-shen"
+          },
+          "numberSource": "https://www.cec.gov.tw/mect/article/65401"
+        },
+        {
+          "name": "蕭文乾",
+          "party": "臺灣SoR無法黨",
+          "incumbent": false,
+          "number": 4,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/mect/article/65401"
+        },
+        {
+          "name": "蔣萬安",
+          "party": "中國國民黨",
+          "incumbent": true,
+          "number": 5,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
+          "article": {
+            "zh": "蔣萬安",
+            "slug": "chiang-wan-an"
+          },
+          "numberSource": "https://www.cec.gov.tw/mect/article/65401"
+        },
+        {
+          "name": "唐新民",
+          "party": "三勢團結促進聯盟",
+          "incumbent": false,
+          "number": 6,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/mect/article/65401"
         }
       ]
     },
@@ -161,26 +173,32 @@
           "name": "蘇巧慧",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
-          "article": { "zh": "蘇巧慧", "slug": "su-chiao-hui" }
-        },
-        {
-          "name": "李四川",
-          "party": "中國國民黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "article": {
+            "zh": "蘇巧慧",
+            "slug": "su-chiao-hui"
+          },
+          "numberSource": "https://www.cec.gov.tw/tpcec/article/65360"
         },
         {
           "name": "蘇輝湟",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tpcec/article/65360"
+        },
+        {
+          "name": "李四川",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": 3,
+          "registeredOn": "2026-09-04",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tpcec/article/65360"
         }
       ]
     },
@@ -193,21 +211,23 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
       "candidates": [
         {
-          "name": "張善政",
-          "party": "中國國民黨",
-          "incumbent": true,
-          "number": null,
-          "registeredOn": "2026-09-01",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
-          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
-        },
-        {
           "name": "黃世杰",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tyec/article/65400"
+        },
+        {
+          "name": "張善政",
+          "party": "中國國民黨",
+          "incumbent": true,
+          "number": 2,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
+          "numberSource": "https://www.cec.gov.tw/tyec/article/65400"
         }
       ]
     },
@@ -223,25 +243,28 @@
           "name": "何欣純",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
-        },
-        {
-          "name": "江啟臣",
-          "party": "中國國民黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tcec/article/65353"
         },
         {
           "name": "洪麗華",
           "party": "司法正義黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tcec/article/65353"
+        },
+        {
+          "name": "江啟臣",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": 3,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tcec/article/65353"
         }
       ]
     },
@@ -254,36 +277,40 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
       "candidates": [
         {
-          "name": "謝龍介",
-          "party": "中國國民黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-01",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
-        },
-        {
           "name": "蕭燐洪",
           "party": "臺灣SoR無法黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-01",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tnec/article/65387"
         },
         {
-          "name": "葉人文",
-          "party": "無黨籍",
+          "name": "謝龍介",
+          "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "number": 2,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tnec/article/65387"
         },
         {
           "name": "陳亭妃",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tnec/article/65387"
+        },
+        {
+          "name": "葉人文",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": 4,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/tnec/article/65387"
         }
       ]
     },
@@ -299,41 +326,46 @@
           "name": "張靜",
           "party": "司法改革黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-08-31",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
-        },
-        {
-          "name": "賴瑞隆",
-          "party": "民主進步黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/khec/article/65366"
         },
         {
           "name": "王肇民",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/khec/article/65366"
         },
         {
           "name": "柯志恩",
           "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/khec/article/65366"
         },
         {
           "name": "洪方隆",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf"
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/khec/article/65366"
+        },
+        {
+          "name": "賴瑞隆",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": 5,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
+          "numberSource": "https://www.cec.gov.tw/khec/article/65366"
         }
       ]
     },
@@ -346,29 +378,32 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
       "candidates": [
         {
-          "name": "謝國樑",
-          "party": "中國國民黨",
-          "incumbent": true,
-          "number": null,
-          "registeredOn": "2026-09-01",
+          "name": "童子瑋",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": 1,
+          "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
-          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+          "numberSource": "https://www.cec.gov.tw/klec/article/65421"
         },
         {
           "name": "魏造文",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-01",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/klec/article/65421"
         },
         {
-          "name": "童子瑋",
-          "party": "民主進步黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "name": "謝國樑",
+          "party": "中國國民黨",
+          "incumbent": true,
+          "number": 3,
+          "registeredOn": "2026-09-01",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
+          "numberSource": "https://www.cec.gov.tw/klec/article/65421"
         }
       ]
     },
@@ -384,26 +419,29 @@
           "name": "高虹安",
           "party": "無黨籍",
           "incumbent": true,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
-          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
-        },
-        {
-          "name": "莊競程",
-          "party": "民主進步黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
+          "numberSource": "https://www.cec.gov.tw/hcec/article/65374"
         },
         {
           "name": "何志勇",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/hcec/article/65374"
+        },
+        {
+          "name": "莊競程",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": 3,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/hcec/article/65374"
         }
       ]
     },
@@ -416,44 +454,49 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
       "candidates": [
         {
-          "name": "黃宏成台灣阿成世界偉人財神總統",
+          "name": "王義成",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-08-31",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "number": 1,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/cyec/article/65350"
         },
         {
           "name": "陳愷璜",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-01",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/cyec/article/65350"
         },
         {
           "name": "張啓楷",
           "party": "台灣民眾黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/cyec/article/65350"
         },
         {
           "name": "王美惠",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/cyec/article/65350"
         },
         {
-          "name": "王義成",
+          "name": "黃宏成台灣阿成世界偉人財神總統",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "number": 5,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/cyec/article/65350"
         }
       ]
     },
@@ -469,25 +512,28 @@
           "name": "鄭朝方",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
-          "name": "朱定瑀",
-          "party": "無黨籍",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/hccec/article/65398"
         },
         {
           "name": "徐欣瑩",
           "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/hccec/article/65398"
+        },
+        {
+          "name": "朱定瑀",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": 3,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/hccec/article/65398"
         }
       ]
     },
@@ -503,18 +549,20 @@
           "name": "陳品安",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/mlec/article/65362"
         },
         {
           "name": "鍾東錦",
           "party": "中國國民黨",
           "incumbent": true,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
-          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
+          "numberSource": "https://www.cec.gov.tw/mlec/article/65362"
         }
       ]
     },
@@ -527,36 +575,40 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
       "candidates": [
         {
-          "name": "陳重嘉",
-          "party": "無黨籍",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-08-31",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
           "name": "陳素月",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
-          "name": "邱建富",
-          "party": "無黨籍",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/chec/article/65435"
         },
         {
           "name": "魏平政",
           "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/chec/article/65435"
+        },
+        {
+          "name": "邱建富",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": 3,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/chec/article/65435"
+        },
+        {
+          "name": "陳重嘉",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": 4,
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/chec/article/65435"
         }
       ]
     },
@@ -599,33 +651,37 @@
           "name": "吳炳輝",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-08-31",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ylec/article/65422"
         },
         {
           "name": "張嘉郡",
           "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ylec/article/65422"
         },
         {
           "name": "劉建國",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ylec/article/65422"
         },
         {
           "name": "林佳瑜",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ylec/article/65422"
         }
       ]
     },
@@ -641,17 +697,19 @@
           "name": "吳品叡",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/cycec/article/65399"
         },
         {
           "name": "蔡易餘",
           "party": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/cycec/article/65399"
         }
       ]
     },
@@ -667,18 +725,20 @@
           "name": "蘇清泉",
           "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ptec/article/65365"
         },
         {
           "name": "周春米",
           "party": "民主進步黨",
           "incumbent": true,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
-          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+          "incumbentSource": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
+          "numberSource": "https://www.cec.gov.tw/ptec/article/65365"
         }
       ]
     },
@@ -691,44 +751,49 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
       "candidates": [
         {
+          "name": "林國漳",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": 1,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ilec/article/65391"
+        },
+        {
           "name": "陳宏毅",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-08-31",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ilec/article/65391"
         },
         {
           "name": "吳宗憲",
           "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registeredOn": "2026-09-01",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ilec/article/65391"
         },
         {
           "name": "劉燦輝",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registeredOn": "2026-09-01",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
-          "name": "林國漳",
-          "party": "民主進步黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ilec/article/65391"
         },
         {
           "name": "楊鉯婷",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 5,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ilec/article/65391"
         }
       ]
     },
@@ -741,36 +806,40 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
       "candidates": [
         {
-          "name": "游淑貞",
-          "party": "中國國民黨",
+          "name": "魏嘉賢",
+          "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/hlec/article/65438"
         },
         {
           "name": "張峻",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/hlec/article/65438"
         },
         {
-          "name": "魏嘉賢",
-          "party": "無黨籍",
+          "name": "游淑貞",
+          "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/hlec/article/65438"
         },
         {
           "name": "羅佩秦",
           "party": "台灣工黨",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/hlec/article/65438"
         }
       ]
     },
@@ -783,36 +852,40 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
       "candidates": [
         {
-          "name": "陳瑩",
-          "party": "民主進步黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
-          "name": "吳秀華",
-          "party": "中國國民黨",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
           "name": "李吳穎智",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ttec/article/65397"
+        },
+        {
+          "name": "陳瑩",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": 2,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ttec/article/65397"
         },
         {
           "name": "王志偉",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ttec/article/65397"
+        },
+        {
+          "name": "吳秀華",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": 4,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/ttec/article/65397"
         }
       ]
     },
@@ -825,52 +898,58 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
       "candidates": [
         {
-          "name": "吳淑瑾",
-          "party": "民主進步黨",
+          "name": "許智富",
+          "party": "無黨籍",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
-          "name": "陳振中",
-          "party": "中國國民黨",
-          "incumbent": false,
-          "number": null,
+          "number": 1,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/phec/article/65367"
         },
         {
           "name": "周倪安",
           "party": "台聯黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
-          "name": "許智富",
-          "party": "無黨籍",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
-          "name": "陳盡川",
-          "party": "無黨籍",
-          "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-03",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/phec/article/65367"
         },
         {
           "name": "葉竹林",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registeredOn": "2026-09-04",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/phec/article/65367"
+        },
+        {
+          "name": "吳淑瑾",
+          "party": "民主進步黨",
+          "incumbent": false,
+          "number": 4,
+          "registeredOn": "2026-09-02",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/phec/article/65367"
+        },
+        {
+          "name": "陳振中",
+          "party": "中國國民黨",
+          "incumbent": false,
+          "number": 5,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/phec/article/65367"
+        },
+        {
+          "name": "陳盡川",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": 6,
+          "registeredOn": "2026-09-03",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "numberSource": "https://www.cec.gov.tw/phec/article/65367"
         }
       ]
     },
@@ -883,42 +962,47 @@
       "rosterSource": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
       "candidates": [
         {
-          "name": "洪和成",
+          "name": "張國威",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-08-31",
+          "number": 1,
+          "numberSource": "https://www.cec.gov.tw/kmec/article/65457",
+          "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
         {
           "name": "李文良",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 2,
+          "numberSource": "https://www.cec.gov.tw/kmec/article/65457",
           "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
         {
-          "name": "黃世團",
+          "name": "洪和成",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
+          "number": 3,
+          "numberSource": "https://www.cec.gov.tw/kmec/article/65457",
+          "registeredOn": "2026-08-31",
+          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
+        },
+        {
+          "name": "張火木",
+          "party": "無黨籍",
+          "incumbent": false,
+          "number": 4,
+          "numberSource": "https://www.cec.gov.tw/kmec/article/65457",
+          "registeredOn": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
         {
           "name": "陳玉珍",
           "party": "中國國民黨",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-02",
-          "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
-        },
-        {
-          "name": "張國威",
-          "party": "無黨籍",
-          "incumbent": false,
-          "number": null,
+          "number": 5,
+          "numberSource": "https://www.cec.gov.tw/kmec/article/65457",
           "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
@@ -926,16 +1010,18 @@
           "name": "梁文韜",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
+          "number": 6,
+          "numberSource": "https://www.cec.gov.tw/kmec/article/65457",
           "registeredOn": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         },
         {
-          "name": "張火木",
+          "name": "黃世團",
           "party": "無黨籍",
           "incumbent": false,
-          "number": null,
-          "registeredOn": "2026-09-04",
+          "number": 7,
+          "numberSource": "https://www.cec.gov.tw/kmec/article/65457",
+          "registeredOn": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf"
         }
       ]

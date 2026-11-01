@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20",
+  "fetched_at": "2026-11-02",
   "page": "/elections/2026/candidates/",
   "note": "候選人與黨籍資料只來自 src/data/elections-2026.json（研究原檔 candidates.json）。本檔只記候選人子頁自己新查的來源。",
   "items": [
@@ -28,6 +28,236 @@
       "topic": "現任標示",
       "fact": "中選會登記名冊沒有現任欄位，現任依中央社 2026-09-04 整理，media 等級。",
       "source": "https://www.cna.com.tw/news/aipl/202609045002.aspx"
+    },
+    {
+      "topic": "臺北市候選人號次",
+      "fact": "1 號郭璽、2 號林志成、3 號沈伯洋、4 號蕭文乾、5 號蔣萬安、6 號唐新民",
+      "source": "https://www.cec.gov.tw/mect/article/65401",
+      "publisher": "臺北市選舉委員會",
+      "articleTitle": "臺北市第9屆市長、第15屆議員及第15屆里長選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "臺北市 郭璽 台灣麻將最大黨 1 ｜ 臺北市 沈伯洋 民主進步黨 3 ｜ 臺北市 蕭文乾 臺灣SoR無法黨 4 ｜ 臺北市 唐新民 三勢團結促進聯盟 6 ｜ 臺北市 蔣萬安 中國國民黨 5 ｜ 臺北市 林志成 無 2",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/b74a02c0-b39e-4258-afd8-eb31787b0eb0"
+    },
+    {
+      "topic": "新北市候選人號次",
+      "fact": "1 號蘇巧慧、2 號蘇輝湟、3 號李四川",
+      "source": "https://www.cec.gov.tw/tpcec/article/65360",
+      "publisher": "新北市選舉委員會",
+      "articleTitle": "新北市第5屆市長選舉候選人姓名號次抽籤結果一覽表",
+      "drawDate": "2026-10-27",
+      "quote": "新北市 1 蘇巧慧 ｜ 新北市 3 李四川 ｜ 新北市 2 蘇輝湟",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/ba8a333a-7de9-4fd8-b453-30627ead1441"
+    },
+    {
+      "topic": "桃園市候選人號次",
+      "fact": "1 號黃世杰、2 號張善政",
+      "source": "https://www.cec.gov.tw/tyec/article/65400",
+      "publisher": "桃園市選舉委員會",
+      "articleTitle": "115年桃園市市長及市議員選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "桃園市 張善政 2 中國國民黨 ｜ 桃園市 黃世杰 1 民主進步黨",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/ec66f36e-120e-4ae3-9e52-e26051b5a17f"
+    },
+    {
+      "topic": "臺中市候選人號次",
+      "fact": "1 號何欣純、2 號洪麗華、3 號江啟臣",
+      "source": "https://www.cec.gov.tw/tcec/article/65353",
+      "publisher": "臺中市選舉委員會",
+      "articleTitle": "臺中市第5屆市長選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "臺中市 1 何欣純 女 民主進步黨 ｜ 臺中市 3 江啟臣 男 中國國民黨 ｜ 臺中市 2 洪麗華 女 司法正義黨",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/33bc788f-7c50-4b50-9dd8-86399ba6e4cd"
+    },
+    {
+      "topic": "臺南市候選人號次",
+      "fact": "1 號蕭燐洪、2 號謝龍介、3 號陳亭妃、4 號葉人文",
+      "source": "https://www.cec.gov.tw/tnec/article/65387",
+      "publisher": "臺南市選舉委員會",
+      "articleTitle": "臺南市第5屆直轄市長、市議員選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "臺南市 謝龍介 中國國民黨 2 ｜ 臺南市 蕭燐洪 臺灣SoR無法黨 1 ｜ 臺南市 葉人文 無 4 ｜ 臺南市 陳亭妃 民主進步黨 3",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/43dc2d1c-71f5-4da0-b0cd-a8b2ab046e26"
+    },
+    {
+      "topic": "高雄市候選人號次",
+      "fact": "1 號張靜、2 號王肇民、3 號柯志恩、4 號洪方隆、5 號賴瑞隆",
+      "source": "https://www.cec.gov.tw/khec/article/65366",
+      "publisher": "高雄市選舉委員會",
+      "articleTitle": "高雄市第5屆市長、市議員選舉候選人姓名號次抽定一覽表",
+      "drawDate": "2026-10-27",
+      "quote": "高雄市市長 1 張　靜 2 王肇民 3 柯志恩 4 洪方隆 5 賴瑞隆（掃描影像表格逐格人工轉錄，非文字層）",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/9bd4f559-e527-4f55-a4ef-21653d340f79"
+    },
+    {
+      "topic": "基隆市候選人號次",
+      "fact": "1 號童子瑋、2 號魏造文、3 號謝國樑",
+      "source": "https://www.cec.gov.tw/klec/article/65421",
+      "publisher": "基隆市選舉委員會",
+      "articleTitle": "基隆市第20屆市長、市議會第21屆議員及第23屆里長選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "基隆市 3 謝國樑 男 中國國民黨 ｜ 基隆市 2 魏造文 男 無 ｜ 基隆市 1 童子瑋 男 民主進步黨",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/a88ef20e-9a87-49df-a19e-3e9730fef1e7"
+    },
+    {
+      "topic": "新竹市候選人號次",
+      "fact": "1 號高虹安、2 號何志勇、3 號莊競程",
+      "source": "https://www.cec.gov.tw/hcec/article/65374",
+      "publisher": "新竹市選舉委員會",
+      "articleTitle": "新竹市第12屆市長、市議員及第23屆里長選舉候選人號次抽定",
+      "drawDate": "2026-10-27",
+      "quote": "一、市長選舉候選人號次如下:1號高虹安、2號何志勇、3號莊競程。（斷行空白已去除）",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）"
+    },
+    {
+      "topic": "嘉義市候選人號次",
+      "fact": "1 號王義成、2 號陳愷璜、3 號張啓楷、4 號王美惠、5 號黃宏成台灣阿成世界偉人財神總統",
+      "source": "https://www.cec.gov.tw/cyec/article/65350",
+      "publisher": "嘉義市選舉委員會",
+      "articleTitle": "嘉義市第12屆市長選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "嘉義市 5 成世界偉人財 男 057/03/20 無 ｜ 嘉義市 2 陳愷璜 男 049/01/30 無 ｜ 嘉義市 3 張啓楷 男 051/12/21 台灣民眾黨 ｜ 嘉義市 4 王美惠 女 054/04/15 民主進步黨 ｜ 嘉義市 1 王義成 男 049/06/28 無",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/7dc869c1-a71b-4f73-b208-73954a9c23e5"
+    },
+    {
+      "topic": "新竹縣候選人號次",
+      "fact": "1 號鄭朝方、2 號徐欣瑩、3 號朱定瑀",
+      "source": "https://www.cec.gov.tw/hccec/article/65398",
+      "publisher": "新竹縣選舉委員會",
+      "articleTitle": "115年地方公職人員選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "新竹縣 1 鄭朝方 ｜ 新竹縣 3 朱定瑀 ｜ 新竹縣 2 徐欣瑩",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/d2e6c0e2-4579-4034-ad98-fa2baca90066"
+    },
+    {
+      "topic": "苗栗縣候選人號次",
+      "fact": "1 號陳品安、2 號鍾東錦",
+      "source": "https://www.cec.gov.tw/mlec/article/65362",
+      "publisher": "苗栗縣選舉委員會",
+      "articleTitle": "苗栗縣選舉委員會辦理115年地方公職人員選舉姓名號次抽籤",
+      "drawDate": "2026-10-27",
+      "quote": "縣長候選人： 1號 陳品安 2號 鍾東錦（全形空白已正規化）",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）"
+    },
+    {
+      "topic": "彰化縣候選人號次",
+      "fact": "1 號陳素月、2 號魏平政、3 號邱建富、4 號陳重嘉",
+      "source": "https://www.cec.gov.tw/chec/article/65435",
+      "publisher": "彰化縣選舉委員會",
+      "articleTitle": "115年地方公職人員選舉候選人姓名號次抽籤概況表",
+      "drawDate": "2026-10-27",
+      "quote": "彰化縣 陳重嘉 男 無 4 ｜ 彰化縣 陳素月 女 民主進步黨 1 ｜ 彰化縣 邱建富 男 無 3 ｜ 彰化縣 魏平政 男 中國國民黨 2",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/417ed431-af02-4cd9-b027-c5ffa865c2bc"
+    },
+    {
+      "topic": "南投縣候選人號次",
+      "fact": "未填：該選委會至 2026-11-02 未在官網貼出抽籤結果，等 2026-11-17 中選會公告",
+      "source": null,
+      "notes": "官方一手公告未查到（中選會 web.cec.gov.tw 平台上該會網頁至2026-11-02最新文章ID僅到65468，未貼出抽籤結果）。該會僅貼出抽籤前公告：10/16新聞稿(https://www.cec.gov.tw/ntec/article/65210，縣長候選人計2人，原訂10/23上午9時抽籤)、10/22公告(https://www.cec.gov.tw/ntec/article/65345，改10/27)。媒體線索（不採信，不填number）：TVBS(2026-10-27)與東森(news.ebc.net.tw/news/politics/577628)兩家皆列1號許淑華、2號温世政。站上名單許淑華、温世政，與媒體名單一致。待11/17中選會縣(市)長候選人名單公告或該會補貼結果。"
+    },
+    {
+      "topic": "雲林縣候選人號次",
+      "fact": "1 號吳炳輝、2 號張嘉郡、3 號劉建國、4 號林佳瑜",
+      "source": "https://www.cec.gov.tw/ylec/article/65422",
+      "publisher": "雲林縣選舉委員會",
+      "articleTitle": "115年地方公職人員選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "雲林縣 吳炳輝 1 ｜ 雲林縣 張嘉郡 2 ｜ 雲林縣 劉建國 3 ｜ 雲林縣 林佳瑜 4",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/5fb0eb40-da2f-4477-8529-853cbb60e76a"
+    },
+    {
+      "topic": "嘉義縣候選人號次",
+      "fact": "1 號吳品叡、2 號蔡易餘",
+      "source": "https://www.cec.gov.tw/cycec/article/65399",
+      "publisher": "嘉義縣選舉委員會",
+      "articleTitle": "115年嘉義縣地方公職人員選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "嘉義縣 1 吳品叡 女 無 ｜ 嘉義縣 2 蔡易餘 男 民主進步黨",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/f93217a0-b5b5-486d-8279-3e313243e8f4"
+    },
+    {
+      "topic": "屏東縣候選人號次",
+      "fact": "1 號蘇清泉、2 號周春米",
+      "source": "https://www.cec.gov.tw/ptec/article/65365",
+      "publisher": "屏東縣選舉委員會",
+      "articleTitle": "屏東縣第20屆縣長暨屏東縣議會第21屆議員選舉候選人姓名號次抽籤結果（如有誤繕，仍依本會公告為主）",
+      "drawDate": "2026-10-27",
+      "quote": "屏東縣 1 蘇清泉 男 中國國民黨 ｜ 屏東縣 2 周春米 女 民主進步黨 受託人代抽",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/3bbd01d2-4947-4144-829b-4440a4895eb9"
+    },
+    {
+      "topic": "宜蘭縣候選人號次",
+      "fact": "1 號林國漳、2 號陳宏毅、3 號吳宗憲、4 號劉燦輝、5 號楊鉯婷",
+      "source": "https://www.cec.gov.tw/ilec/article/65391",
+      "publisher": "宜蘭縣選舉委員會",
+      "articleTitle": "115年宜蘭縣地方公職人員選舉今日完成候選人號次抽籤",
+      "drawDate": "2026-10-27",
+      "quote": "宜蘭縣 陳宏毅 男 無 2 ｜ 宜蘭縣 吳宗憲 男 中國國民黨 3 ｜ 宜蘭縣 劉燦輝 男 無 4 ｜ 宜蘭縣 林國漳 男 民主進步黨 1 ｜ 宜蘭縣 楊鉯婷 女 無 5 受委託人江敏聖代抽",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/a8881295-c06b-400f-9e9b-10bd6a080842"
+    },
+    {
+      "topic": "花蓮縣候選人號次",
+      "fact": "1 號魏嘉賢、2 號張峻、3 號游淑貞、4 號羅佩秦",
+      "source": "https://www.cec.gov.tw/hlec/article/65438",
+      "publisher": "花蓮縣選舉委員會",
+      "articleTitle": "115年花蓮縣地方公職人員選舉候選人姓名號次抽籤結果",
+      "drawDate": "2026-10-27",
+      "quote": "3 游淑貞 中國國民黨 ｜ 2 張峻 無 ｜ 1 魏嘉賢 無 ｜ 4 羅佩秦 台灣工黨",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/7fc6c79a-1de4-412e-a20e-4870cdcece96"
+    },
+    {
+      "topic": "臺東縣候選人號次",
+      "fact": "1 號李吳穎智、2 號陳瑩、3 號王志偉、4 號吳秀華",
+      "source": "https://www.cec.gov.tw/ttec/article/65397",
+      "publisher": "臺東縣選舉委員會",
+      "articleTitle": "臺東縣115年地方公職人員選舉候選人抽籤號次結果",
+      "drawDate": "2026-10-27",
+      "quote": "臺東縣 陳瑩 2 ｜ 臺東縣 吳秀華 4 ｜ 臺東縣 李吳穎智 1 ｜ 臺東縣 王志偉 3",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/fabcff0f-fa7f-4318-9a71-831f3204db14"
+    },
+    {
+      "topic": "澎湖縣候選人號次",
+      "fact": "1 號許智富、2 號周倪安、3 號葉竹林、4 號吳淑瑾、5 號陳振中、6 號陳盡川",
+      "source": "https://www.cec.gov.tw/phec/article/65367",
+      "publisher": "澎湖縣選舉委員會",
+      "articleTitle": "澎湖縣115年地方公職人員選舉候選人姓名號次抽籤一覽表",
+      "drawDate": "2026-10-27",
+      "quote": "澎湖縣 4 吳淑瑾 女 民主進步黨 ｜ 澎湖縣 5 陳振中 男 中國國民黨 ｜ 澎湖縣 2 周倪安 女 台聯黨 本會代抽 ｜ 澎湖縣 1 許智富 男 無 ｜ 澎湖縣 6 陳盡川 男 無 本會代抽 ｜ 澎湖縣 3 葉竹林 男 無",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/c24874c0-bf5f-4fb9-b43c-8abf0dc8290a"
+    },
+    {
+      "topic": "金門縣候選人號次",
+      "fact": "1 號張國威、2 號李文良、3 號洪和成、4 號張火木、5 號陳玉珍、6 號梁文韜、7 號黃世團",
+      "source": "https://www.cec.gov.tw/kmec/article/65457",
+      "publisher": "金門縣選舉委員會",
+      "articleTitle": "115年地方公職人員選舉候選人號次一欄表",
+      "drawDate": "2026-10-23",
+      "quote": "金門縣 洪和成 無 3 ｜ 金門縣 李文良 無 2 ｜ 金門縣 黃世團 無 7 ｜ 金門縣 陳玉珍 中國國民黨 5 ｜ 金門縣 張國威 無 1 ｜ 金門縣 梁文韜 無 6 ｜ 金門縣 張火木 無 4",
+      "verified": "2026-11-02 twmd-desk 逐名對照官方附件（高雄市附件為掃描影像，人工看圖核對）",
+      "file": "https://www.cec.gov.tw/api/file/20e96e99-5b94-4a15-955b-a17c77dd5aa5"
+    },
+    {
+      "topic": "連江縣候選人號次",
+      "fact": "未填：該選委會至 2026-11-02 未在官網貼出抽籤結果，等 2026-11-17 中選會公告",
+      "source": null,
+      "notes": "官方一手公告未查到（中選會 web.cec.gov.tw 平台上該會網頁至2026-11-02最新文章ID僅到65468，未貼出抽籤結果）。連江縣選委會網頁(https://www.cec.gov.tw/lcec)最近一則選舉相關貼文為10/16，沒有抽籤日期公告、也沒有結果。媒體線索（不採信，不填number）：TVBS(2026-10-27)與東森(news.ebc.net.tw/news/politics/577628)兩家皆列1號王忠銘、2號曹爾元。站上名單王忠銘、曹爾元，與媒體名單一致。待11/17中選會公告或該會補貼結果。"
     }
   ],
   "display_i18n": "src/data/elections-2026-candidates.json：選區與政黨顯示名稱對照，複製自主頁 elections-2026.template.astro 的 areaI18n / partyI18n，不含任何候選人姓名。"

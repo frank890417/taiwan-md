@@ -1,7 +1,7 @@
 {
   "fetched_at": "2026-10-20T10:47:08+08:00",
   "election": "115年（2026）地方公職人員選舉（九合一），投票日 2026-11-28（六）08:00–16:00",
-  "status_note": "（1）候選人資格：中選會 2026-10-16 委員會議審定直轄市長 23 人、縣（市）長 58 人「均符合規定」，名單逐字載於中選會新聞稿 https://web.cec.gov.tw/central/article/65212；（2）黨籍與登記日：中選會 2026-09-07「115年地方公職人員選舉候選人登記名冊」https://web.cec.gov.tw/central/article/64709（直轄市長表 https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf、縣市長表 https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf）；（3）號次：各地選委會 2026-10-23 抽籤，尚未抽；（4）正式候選人名單公告：直轄市長 2026-11-12、縣（市）長 2026-11-17，尚未公告；（5）應選名額：中選會 2026-08-20 中選務字第1153150253號公告 https://web.cec.gov.tw/central/article/63625。",
+  "status_note": "（1）候選人資格：中選會 2026-10-16 委員會議審定直轄市長 23 人、縣（市）長 58 人「均符合規定」，名單逐字載於中選會新聞稿 https://web.cec.gov.tw/central/article/65212；（2）黨籍與登記日：中選會 2026-09-07「115年地方公職人員選舉候選人登記名冊」https://web.cec.gov.tw/central/article/64709（直轄市長表 https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf、縣市長表 https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf）；（3）號次：金門縣 2026-10-23 抽籤，其餘 21 區因颱風薔琵延到 2026-10-27；20 區依各選委會官網抽籤結果公告填入（2026-11-02 查證，附件 PDF 逐名對照），南投縣、連江縣選委會至 2026-11-02 未貼出結果，維持 null 待 11/17 中選會公告；（4）正式候選人名單公告：直轄市長 2026-11-12、縣（市）長 2026-11-17，尚未公告；（5）應選名額：中選會 2026-08-20 中選務字第1153150253號公告 https://web.cec.gov.tw/central/article/63625。",
   "sources_primary": [
     {
       "label": "中選會 115-08-20 選舉公告（種類、名額、投票日）",
@@ -100,68 +100,80 @@
           "party": "台灣麻將最大黨",
           "party_cec_wording": "台灣麻將最大黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-08-31",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/mect/article/65401",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "沈伯洋",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/mect/article/65401",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "蕭文乾",
           "party": "臺灣SoR無法黨",
           "party_cec_wording": "臺灣SoR無法黨",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/mect/article/65401",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "唐新民",
           "party": "三勢團結促進聯盟",
           "party_cec_wording": "三勢團結促進聯盟",
           "incumbent": false,
-          "number": null,
+          "number": 6,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/mect/article/65401",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "蔣萬安",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": true,
-          "number": null,
+          "number": 5,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
           "qualified_source": "https://web.cec.gov.tw/central/article/65212",
           "incumbent_source": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
-          "incumbent_source_type": "media"
+          "incumbent_source_type": "media",
+          "number_source": "https://www.cec.gov.tw/mect/article/65401",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "林志成",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/mect/article/65401",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "6 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。"
@@ -176,33 +188,39 @@
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tpcec/article/65360",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "李四川",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tpcec/article/65360",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "蘇輝湟",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tpcec/article/65360",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "3 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/tpcec/article/64629"
@@ -217,24 +235,28 @@
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": true,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-01",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
           "qualified_source": "https://web.cec.gov.tw/central/article/65212",
           "incumbent_source": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
-          "incumbent_source_type": "media"
+          "incumbent_source_type": "media",
+          "number_source": "https://www.cec.gov.tw/tyec/article/65400",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "黃世杰",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tyec/article/65400",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "2 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。"
@@ -249,33 +271,39 @@
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tcec/article/65353",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "江啟臣",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tcec/article/65353",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "洪麗華",
           "party": "司法正義黨",
           "party_cec_wording": "司法正義黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tcec/article/65353",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "3 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。"
@@ -290,44 +318,52 @@
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-01",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tnec/article/65387",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "蕭燐洪",
           "party": "臺灣SoR無法黨",
           "party_cec_wording": "臺灣SoR無法黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-01",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tnec/article/65387",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "葉人文",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tnec/article/65387",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "陳亭妃",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/tnec/article/65387",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "4 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/tnec/article/64695"
@@ -342,55 +378,65 @@
           "party": "司法改革黨",
           "party_cec_wording": "司法改革黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-08-31",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/khec/article/65366",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "賴瑞隆",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 5,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/khec/article/65366",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "王肇民",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/khec/article/65366",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "柯志恩",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/khec/article/65366",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "洪方隆",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/bb9a8d7a-9b8a-41ec-8e23-33efd009385a.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/khec/article/65366",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "5 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。"
@@ -405,35 +451,41 @@
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": true,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-01",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
           "qualified_source": "https://web.cec.gov.tw/central/article/65212",
           "incumbent_source": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
-          "incumbent_source_type": "media"
+          "incumbent_source_type": "media",
+          "number_source": "https://www.cec.gov.tw/klec/article/65421",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "魏造文",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-01",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/klec/article/65421",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "童子瑋",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/klec/article/65421",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "3 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/klec/article/64649"
@@ -448,35 +500,41 @@
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": true,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
           "qualified_source": "https://web.cec.gov.tw/central/article/65212",
           "incumbent_source": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
-          "incumbent_source_type": "media"
+          "incumbent_source_type": "media",
+          "number_source": "https://www.cec.gov.tw/hcec/article/65374",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "莊競程",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/hcec/article/65374",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "何志勇",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/hcec/article/65374",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "3 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/hcec/article/64636 高虹安「現任」依中央社 9/4 整理稿標示；其停職／復職經過未在本檔核實。"
@@ -491,55 +549,65 @@
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 5,
           "registered_on": "2026-08-31",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/cyec/article/65350",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "陳愷璜",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-01",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/cyec/article/65350",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "張啓楷",
           "party": "台灣民眾黨",
           "party_cec_wording": "台灣民眾黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/cyec/article/65350",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "王美惠",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/cyec/article/65350",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "王義成",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/cyec/article/65350",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "5 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 「黃宏成台灣阿成世界偉人財神總統」為中選會登記彙總表與 10/16 新聞稿所載之登記姓名全文。"
@@ -554,33 +622,39 @@
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/hccec/article/65398",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "朱定瑀",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/hccec/article/65398",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "徐欣瑩",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/hccec/article/65398",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "3 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。"
@@ -595,24 +669,28 @@
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/mlec/article/65362",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "鍾東錦",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": true,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
           "qualified_source": "https://web.cec.gov.tw/central/article/65212",
           "incumbent_source": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
-          "incumbent_source_type": "media"
+          "incumbent_source_type": "media",
+          "number_source": "https://www.cec.gov.tw/mlec/article/65362",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "2 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/mlec/article/64616"
@@ -627,44 +705,52 @@
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-08-31",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/chec/article/65435",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "陳素月",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/chec/article/65435",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "邱建富",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/chec/article/65435",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "魏平政",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/chec/article/65435",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "4 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。"
@@ -711,44 +797,52 @@
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-08-31",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ylec/article/65422",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "張嘉郡",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ylec/article/65422",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "劉建國",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ylec/article/65422",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "林佳瑜",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ylec/article/65422",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "4 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/ylec/article/64657"
@@ -763,22 +857,26 @@
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/cycec/article/65399",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "蔡易餘",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/cycec/article/65399",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "2 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/cycec/article/64659"
@@ -793,24 +891,28 @@
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ptec/article/65365",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "周春米",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": true,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
           "qualified_source": "https://web.cec.gov.tw/central/article/65212",
           "incumbent_source": "https://www.cna.com.tw/news/aipl/202609045002.aspx",
-          "incumbent_source_type": "media"
+          "incumbent_source_type": "media",
+          "number_source": "https://www.cec.gov.tw/ptec/article/65365",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "2 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/ptec/article/64654"
@@ -825,55 +927,65 @@
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-08-31",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ilec/article/65391",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "吳宗憲",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-01",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ilec/article/65391",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "劉燦輝",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-01",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ilec/article/65391",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "林國漳",
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ilec/article/65391",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "楊鉯婷",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 5,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ilec/article/65391",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "5 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/ilec/article/64651"
@@ -888,44 +1000,52 @@
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/hlec/article/65438",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "張峻",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/hlec/article/65438",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "魏嘉賢",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/hlec/article/65438",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "羅佩秦",
           "party": "台灣工黨",
           "party_cec_wording": "台灣工黨",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/hlec/article/65438",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "4 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/hlec/article/64684"
@@ -940,44 +1060,52 @@
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ttec/article/65397",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "吳秀華",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ttec/article/65397",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "李吳穎智",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ttec/article/65397",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "王志偉",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/ttec/article/65397",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "4 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。"
@@ -992,66 +1120,78 @@
           "party": "民主進步黨",
           "party_cec_wording": "民主進步黨",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/phec/article/65367",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "陳振中",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 5,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/phec/article/65367",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "周倪安",
           "party": "台聯黨",
           "party_cec_wording": "台聯黨",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/phec/article/65367",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "許智富",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/phec/article/65367",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "陳盡川",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 6,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/phec/article/65367",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "葉竹林",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/phec/article/65367",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "6 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。 地方選委會登記情形：https://web.cec.gov.tw/phec/article/64633"
@@ -1066,77 +1206,91 @@
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 3,
           "registered_on": "2026-08-31",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/kmec/article/65457",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "李文良",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 2,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/kmec/article/65457",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "黃世團",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 7,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/kmec/article/65457",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "陳玉珍",
           "party": "中國國民黨",
           "party_cec_wording": "中國國民黨",
           "incumbent": false,
-          "number": null,
+          "number": 5,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/kmec/article/65457",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "張國威",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 1,
           "registered_on": "2026-09-02",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/kmec/article/65457",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "梁文韜",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 6,
           "registered_on": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/kmec/article/65457",
+          "number_source_type": "local-election-commission"
         },
         {
           "name": "張火木",
           "party": "無黨籍",
           "party_cec_wording": "無",
           "incumbent": false,
-          "number": null,
+          "number": 4,
           "registered_on": "2026-09-04",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
           "source_type": "cec",
-          "qualified_source": "https://web.cec.gov.tw/central/article/65212"
+          "qualified_source": "https://web.cec.gov.tw/central/article/65212",
+          "number_source": "https://www.cec.gov.tw/kmec/article/65457",
+          "number_source_type": "local-election-commission"
         }
       ],
       "note": "7 人登記，中選會 2026-10-16 審定均符合規定（https://web.cec.gov.tw/central/article/65212）。黨籍為中選會登記彙總表「推薦之政黨」欄原字；「無」寫為無黨籍。號次 10/23 抽籤，尚未產生。"
